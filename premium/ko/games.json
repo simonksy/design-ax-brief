@@ -14455,6 +14455,134 @@
           "cap": "DLSS 5 ON"
         }
       ]
+    },
+    "games/google-cavill-mustache-protocol": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/REBXE3PpQZNEtNemd6hgnB.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Henry Cavill이 Google과 손잡고 바이브 코딩으로 남성의 얼굴 털을 지키는 게임을 만든다. 이름은 Mustache Protocol이고 모바일과 태블릿으로 나온다. 플레이어는 Superman과 Mission: Impossible에 출연한 이 배우가 돼, CGI로 모두의 콧수염을 없애려는 반(反)수염 추종자들을 막아야 한다. 악명 높은 Justice League 재촬영을 비튼 설정이다."
+        },
+        {
+          "t": "p",
+          "x": "Cavill은 이 횡스크롤 게임을 만드는 데 Google 도구를 썼다. 말을 메모로 정리해 주는 Rambler가 있고, 무엇보다 프롬프트만으로 16-bit 그래픽을 뽑아내는 생성형 AI 도구 모음 Antigravity가 있다."
+        },
+        {
+          "t": "video",
+          "yt": "0S4DVtdYWww"
+        },
+        {
+          "t": "p",
+          "x": "Google은 소개글에서 \"게임을 다듬는 동안 Henry는 Googlebook에서 Rambler를 사용해 브레인스토밍하며 생각을 정리했다\"고 밝혔다. \"그는 여러 미적 스타일의 시안을 만들고 액세서리를 더했으며, 화면 위 시각 요소를 선택하고 조합할 수 있는 Magic Pointer로 디자인을 다듬었다.\" 제작 과정을 담은 세 편짜리 시리즈 첫 편에서 그는 이 게임을 \"심각한 문제를 다루는 재미있는 게임\"이라고 소개한다."
+        },
+        {
+          "t": "p",
+          "x": "Google은 11월 한 달간 게임 한 판마다 $11를 Movember에 기부한다. Movember는 자살, 고환암, 전립선암처럼 남성이 겪는 문제를 알려 온 재단이다. 기부금은 최대 $500,000까지 쌓인다."
+        }
+      ]
+    },
+    "games/kojima-ai-creation-fun": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2025/10/20250909-51789-header.jpg",
+          "cap": "Hideo Kojima"
+        },
+        {
+          "t": "p",
+          "x": "Hideo Kojima는 최근 일본 매체 Game*Spark 인터뷰에서 AI 기술이 빠르게 발전하며 게임 개발이 훨씬 수월해졌다고 했다. 다만 \"창작 과정의 재미\"가 사라질지 모를 미래에는 다소 불안하다고 털어놨다."
+        },
+        {
+          "t": "p",
+          "x": "앞서 Photoshop과 워드프로세서가 그랬듯 AI는 \"일을 더욱 효율적으로 만들어, 마감을 훨씬 빨리 맞출 수 있게 해 줬다.\" Kojima는 \"그것도 좋다고 생각한다\"면서 이렇게 덧붙였다. \"하지만 그림 그리기를 예로 들어 보자. 그림의 재미는 완성된 그림을 얻는 데 있지 않고, 그 과정에 있다 [...] 컴퓨터에 '이걸 만들어', '다 됐어', '그건 틀렸으니 다르게 해' 같은 말을 하는 것도 괜찮지만, 내가 특별히 흥미를 느끼는 창작 방식은 아니다.\""
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2025/07/20250326-46119-header.jpg",
+          "cap": "Death Stranding 2: On The Beach"
+        },
+        {
+          "t": "p",
+          "x": "\"그 사이의 시행착오 과정이 나를 들뜨게 하고 경험에 몰입하게 만든다. 그런 부분이 사라진 미래는 원하지 않는다\"고 Kojima는 말했다. 그가 보기에 앞으로 오 년에서 십 년은 괜찮다. 하지만 AI를 제약 없이 계속 쓰면 언젠가 창작 분야에서도 핵심 역할을 맡게 될 수 있고, 그때 어떻게 할지는 젊은 세대가 정할 몫이라고 했다. AI 도구도 쓰기에 따라 더 나은 미래를 만드는 데 보탬이 될 수 있다는 말도 덧붙였다."
+        }
+      ]
+    },
+    "games/games-kimi-k31-gamedev-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-image.pandaily.com/1/kimi_e3d22e0c6a.png"
+        },
+        {
+          "t": "p",
+          "x": "Moonshot AI가 Kimi K3.1 모델 시리즈, Kimi Code와 Kimi Work 에이전트 제품, 그리고 Unity, Unreal Engine, Blender 등 전문 도구용 플러그인으로 짠 Kimi의 게임 개발·창작 솔루션을 내놨다. 스튜디오가 게임플레이 아이디어를 더 일찍 검증하고 엔지니어링과 아트 제작을 앞당기게 돕는 게 목적이라고 회사는 설명한다."
+        },
+        {
+          "t": "p",
+          "x": "모델은 기획 문서, 스크린샷, 코드, 3D 에셋을 읽고 작업을 계획한다. 코드베이스 안의 구현은 Kimi Code가, 여러 단계에 걸친 제작 작업은 Kimi Work가 맡는다. Unity와 Unreal Engine에서는 코드 구조와 씬 계층, 모듈 의존성을 파악해 에디터 플러그인으로 수정하고, 재현 절차와 로그, 런타임 데이터로 결과를 확인한다."
+        },
+        {
+          "t": "p",
+          "x": "Unity에서는 Unity China의 Tuanjie Codely Agent와 함께 돌아간다. Kimi에 따르면 한 시연에서는 사람 손을 거치지 않고 20시간 동안 작업해 기존 게임을 재현했고, 이어서 개발할 수 있는 네이티브 프로젝트까지 만들었다."
+        },
+        {
+          "t": "p",
+          "x": "Kimi K3.1 Pro 쇼케이스에는 Blender로 만든 열대우림 계곡 플라이스루와, Unreal Engine 5.8로 구현한 천상 궁전 장면이 있다. 궁전 장면의 삼각형은 모두 36백만 개다. 코딩 경험이 없는 디자이너도 하루에서 이틀이면 플레이 가능한 Godot 프로토타입을 만들 수 있다고 Kimi는 밝혔다."
+        }
+      ]
+    },
+    "games/games-tencent-hy4-multiplayer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://realsound.jp/wp-content/uploads/2026/11/20261105-hy4-99.jpg"
+        },
+        {
+          "t": "p",
+          "x": "텐센트가 11월 4일 대규모 언어 모델 'Hy4'를 발표했다. 회사 게임 부문 개발자들이 학습 데이터 선정과 평가에 참여한 덕에, 여러 플레이어가 동시에 즐기는 게임의 구현을 지원할 수 있게 됐다고 한다."
+        },
+        {
+          "t": "p",
+          "x": "개발 과정에서는 게임 규칙에 따라 처리를 진행하는 구조와, 플레이 중 바뀌는 게임 상태를 추적하는 처리에 공을 들였다. 모델은 Unreal Engine, Unity, Godot 등 주요 게임 엔진에 맞춰 조정했다. 회사에 따르면 게임 개발 성능 평가 점수가 프리뷰 버전보다 'GameDev'에서 19.1%, 'GameLogic'에서 9.8% 올랐다."
+        },
+        {
+          "t": "p",
+          "x": "공식 개발 블로그에는 Hy4로 만든 3D 드라이빙 시뮬레이터 'Electric Flying Car Climb Test'가 소개돼 있다. 밤의 테스트 코스에서 차를 가속해, 호를 그리며 거의 수직으로 솟은 주로를 어디까지 오를 수 있는지 시험하는 게임이다."
+        },
+        {
+          "t": "p",
+          "x": "Hy4는 이미지를 읽는 기능과 PC 화면을 조작하는 기능도 새로 갖췄다. 3D 제작 소프트웨어 'Blender'와 설계용 CAD 소프트웨어로 훈련도 했다고 한다. Hy4는 회사의 'Tencent Cloud TokenHub', 'WorkBuddy', 'CodeBuddy' 등에서 쓸 수 있다."
+        }
+      ]
+    },
+    "games/nexus-mods-ai-disclosure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789439521.png",
+          "cap": "이미지 출처: Nexus Mods."
+        },
+        {
+          "t": "p",
+          "x": "생성형 AI가 모딩 업계를 휩쓸자 인터넷 최대 모드 플랫폼 Nexus Mods가 대응에 나섰다. AI-assisted 코드를 쓴 모드는 이제 그 사실을 밝혀야 하고 이용자는 검색 조건이나 환경설정에서 AI-assisted 모드를 걸러낼 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "공동 소유주 Victor 'Foledinho' Folmann은 블로그 글에서 \"우리는 인간의 창의성을 지지한다\"고 말했다. 그는 \"AI는 현재 창작 과정 전반에 쓰이고 있으며... 명확한 경계를 긋기 어렵다\"는 이유로 AI 모드를 금지하지는 않겠다고 했다. 금지해 봐야 모더들이 AI 사용을 숨기게 될 뿐이라는 판단이다. 그는 \"드러내 놓고, 명확히 표시하고, 규제해야 한다\"고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "모더는 모드가 AI-assisted인지, 주로 AI-generated인지, AI-generated 홍보물을 담았는지 밝히고 \"AI를 어떻게, 어디에 사용했는지에 대한 공개 설명\"도 덧붙여야 한다. 기존 모드에는 60일 유예 기간을 주며 1월 2일까지 업데이트하지 않으면 계정 제한을 받을 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "이번 조치는 Valve가 Steam에서 \"AI slop\"을 막지 않기로 하고, Tim Sweeney가 AI 고지 의무화를 \"정치적 행위\"라 부르고, Itch.io가 이른바 \"테라바이트 분량의 AI slop\"을 삭제한 가운데 나왔다."
+        }
+      ]
     }
   }
 }

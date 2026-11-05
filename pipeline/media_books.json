@@ -1,7 +1,30 @@
-{"date":"2026-11-05","section":"books","media":[
-{"id":"goncourt-jaenada-ai","type":"image","src":"pipeline/media/goncourt-jaenada-ai.jpg"},
-{"id":"readwise-books-reader","type":"image","src":"pipeline/media/readwise-books-reader.jpg"},
-{"id":"oup-chatgpt-edu-pilot","type":"svg"},
-{"id":"bookend-editorial-ai","type":"image","src":"pipeline/media/bookend-editorial-ai.jpg"},
-{"id":"jemul-tupyo-ai-liveaction","type":"image","src":"pipeline/media/jemul-tupyo-ai-liveaction.png"}
-]}
+{
+  "date": "2026-11-06",
+  "section": "books",
+  "media": [
+    {
+      "id": "books-dreambeans-india",
+      "type": "image",
+      "src": "pipeline/media/books-dreambeans-india.jpg"
+    },
+    {
+      "id": "books-gruffalo-scheffler-test",
+      "type": "image",
+      "src": "pipeline/media/books-gruffalo-scheffler-test.jpg"
+    },
+    {
+      "id": "books-europe-ai-optout",
+      "type": "image",
+      "src": "pipeline/media/books-europe-ai-optout.png"
+    },
+    {
+      "id": "books-cleveland-library-ai",
+      "type": "image",
+      "src": "pipeline/media/books-cleveland-library-ai.jpg"
+    },
+    {
+      "id": "books-kl-ai-themesong",
+      "type": "svg"
+    }
+  ]
+}

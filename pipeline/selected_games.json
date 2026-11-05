@@ -1,96 +1,158 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "section": "games",
   "items": [
     {
-      "tool": "Games",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "title": "'We Are Pro-Human Creativity' — Nexus Mods Forces Mandatory AI Disclosures and Filters, Explains Why It Won't Ban AI Mods",
-      "url": "https://www.ign.com/articles/nexus-mods-forces-mandatory-generative-ai-disclosures-and-filters",
-      "source": "IGN",
-      "published_iso": "2026-11-04T10:50:53.362Z",
-      "og_image": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789419286.png?width=1280&format=jpg&auto=webp&quality=80",
-      "excerpt": "Nexus Mods now requires disclosure for mods with AI-assisted code or assets and lets users filter AI-assisted mods out of browsing, arguing an outright ban would only push AI use underground.",
-      "rationale": "New platform policy on the biggest mod site: mandatory AI disclosure plus a user-side filter. IGN reported it first and has the cleanest version of the three outlets that covered it."
-    },
-    {
-      "tool": "Games",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "title": "Unreal Engine 6 will drop Blueprints from the start to put AI productivity first, Tim Sweeney says in an apologetic Unreal Fest Tokyo 2026 keynote",
-      "url": "https://www.4gamer.net/games/210/G021013/20261104013/",
-      "source": "4Gamer.net",
-      "published_iso": "2026-11-04T14:17:10+09:00",
-      "og_image": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg",
-      "excerpt": "At Unreal Fest Tokyo 2026 Tim Sweeney said Unreal Engine 6 will drop Blueprints from the start rather than phase them out, prioritising AI-agent productivity, and apologised for the change.",
-      "rationale": "A concrete engine decision with direct workflow impact: dropping Blueprints, the visual-scripting layer that many designers and technical artists rely on, in favour of AI-agent workflows. It came from the Epic CEO on stage, and 4Gamer reported it first-hand."
-    },
-    {
-      "tool": "Games",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "title": "Power Moon Recomp: an unofficial native PC port of Super Mario Odyssey, built with the Claude coding agent, runs at 4K/60",
-      "url": "http://www.gamey.kr/news/articleView.html?idxno=3019481",
-      "source": "게임와이 (Gamey)",
-      "published_iso": "2026-11-04T09:03:36+09:00",
-      "og_image": "https://cdn.gamey.kr/news/thumbnail/202611/3019481_173278_654_v150.jpg",
-      "excerpt": "An unofficial static-recompilation port runs Super Mario Odyssey natively on PC at up to 4K/60fps; the developer says it was built with heavy help from the Claude AI coding agent, shipping seven versions in about 30 hours.",
-      "rationale": "A new release in the AI-assisted recomp wave, and the first big one to land after the 11-02 reports that Anthropic is curbing Claude game remakes. The developer's account of seven versions in about 30 hours is a concrete data point on speed. The copy should state that the port is unofficial and the claims are the developer's own."
-    },
-    {
-      "tool": "Games",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "title": "Best WoW Forever add-ons to avoid AI slop",
-      "url": "https://www.destructoid.com/best-wow-forever-add-ons-to-avoid-ai-slop/",
-      "source": "Destructoid",
-      "published_iso": "2026-11-04T18:58:18+00:00",
-      "og_image": "https://www.destructoid.com/wp-content/uploads/2026/11/Featured-Best-add-ons-in-World-of-Warcraft-Forever.png",
-      "excerpt": "AI-generated add-ons are flooding CurseForge for World of Warcraft: Forever as low-effort near-duplicates that raise testing, maintenance, security and Blizzard TOS concerns. Destructoid points players to handcrafted alternatives such as Questie and Dialogue UI.",
-      "rationale": "A fresh (11-04) report that the flood of AI slop has reached CurseForge's WoW Forever add-on catalogue, with a practical list of handcrafted alternatives. It is a different event from the 10-18 card about Blizzard's trailer being accused of AI use."
-    },
-    {
+      "url": "https://www.inews24.com/view/2022819",
+      "title": "엔씨 AI, 지스타 2026서 생성형 AI 플랫폼 '바르코' 체험 카페 운영",
+      "source": "아이뉴스24",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "title": "Y Combinator and Olam Labs let 50 AI agents build a civilisation in Minecraft, and they formed a timid bureaucracy",
-      "url": "https://automaton-media.com/articles/newsjp/20261102-477130/",
-      "source": "AUTOMATON",
-      "published_iso": "2026-11-02T08:01:18+00:00",
-      "og_image": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-header.jpg",
-      "excerpt": "Y Combinator and Olam Labs published 'Agents in Games', a study letting 50 AI agents build a civilisation in Minecraft; the agents formed a timid, bureaucratic society.",
-      "rationale": "A newly published multi-agent study ('Agents in Games') with findings that matter to anyone designing agent-driven NPCs or social systems. It is distinct from the 10-21 Google Ender Dragon card, which was about a single agent finishing the game, not emergent group behaviour."
+      "rationale": "NC AI will run a hands-on VARCO cafe (3D model and sound generation) at G-Star 2026 and give 10 dev teams 3 months of free access. This is a concrete, time-bound offer that Korean developers can apply for.",
+      "published_iso": "2026-11-05T09:02:12+09:00",
+      "og_image": "https://image.inews24.com/v1/e58954f733e2fa.jpg",
+      "excerpt": "NC AI는 지스타 2026 기간(11월 19~21일) 부산 벡스코 인근에서 생성형 AI 플랫폼 '바르코' 체험 카페를 열고 3D 모델·사운드 생성 기술 체험과 1대1 상담을 제공하며, 10개 개발팀에 3개월 무료 이용을 지원한다."
+    },
+    {
+      "url": "https://www.gamesradar.com/games/google-gets-henry-cavill-to-ai-vibe-code-a-game-to-promote-googlebook-promises-to-donate-usd11-to-charity-every-time-someone-plays-it/",
+      "title": "Google gets Henry Cavill to AI vibe code a game to promote Googlebook, promises to donate $11 to charity every time someone plays it",
+      "source": "GamesRadar+",
+      "tool": "Games",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "rationale": "A playable vibe-coded 16-bit game ('Mustache Protocol') with a video series that shows how it was built. Google is now selling AI game-making to the mainstream.",
+      "published_iso": "2026-11-05T15:31:56Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/REBXE3PpQZNEtNemd6hgnB-1920-80.jpg",
+      "excerpt": "Google has enlisted Henry Cavill to vibe-code a 16-bit side-scroller, 'Mustache Protocol', on a Googlebook, and is releasing a video series documenting the AI-assisted build; plays during November trigger Movember donations."
+    },
+    {
+      "url": "https://automaton-media.com/en/news/hideo-kojima-says-ai-lacks-what-makes-the-creative-process-fun-despite-its-efficiency-its-not-a-form-of-creation-i-find-particularly-interesting/",
+      "title": "Hideo Kojima says AI lacks what makes the creative process fun, despite its efficiency",
+      "source": "AUTOMATON WEST",
+      "tool": "Games",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "rationale": "Kojima's first on-record view of AI in development (via Game*Spark): AI makes development easier, but it takes the fun out of making things. A high-signal creator perspective.",
+      "published_iso": "2026-11-04T13:00:00Z",
+      "og_image": "https://automaton-media.com/en/wp-content/uploads/2025/10/20250909-51789-header.jpg",
+      "excerpt": "In an interview with Game*Spark, Hideo Kojima said rapid AI advances have made game development far more manageable but that AI-driven creation is 'not a form of creation I find particularly interesting', voicing anxiety about AI's future role in creative work."
+    },
+    {
+      "url": "https://pandaily.com/kimi-game-development-creative-solution-k3-1-kimi-code-work-unity-unreal-engine-blender-20-hours",
+      "title": "Kimi Launches Game Development Solution With K3.1 Agents Working Inside Unity, Unreal and Blender",
+      "source": "Pandaily",
+      "tool": "Games",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "rationale": "A concrete new tool: Moonshot's Kimi Code/Work agents edit Unity, Unreal and Blender projects directly, and Moonshot demoed a 20-hour unattended run from concept to working prototype. It is the first major-lab agent suite aimed squarely at engine workflows.",
+      "published_iso": "2026-11-03T20:30:00Z",
+      "og_image": "https://cms-image.pandaily.com/1/kimi_e3d22e0c6a.png",
+      "excerpt": "Moonshot AI's Kimi released a game-development solution pairing K3.1 models with Kimi Code and Kimi Work agents that edit Unity, Unreal Engine and Blender projects directly, demonstrating a 20-hour unattended run that turns a concept into a functional prototype."
+    },
+    {
+      "url": "https://realsound.jp/tech/2026/11/post-2575100.html",
+      "title": "テンセント、ゲーム開発に強い新AI『Hy4』発表　Unityなどでマルチプレイの実装を支援",
+      "source": "Real Sound テック",
+      "tool": "Games",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "rationale": "Tencent's Hy4 was trained with input from its games division to write multiplayer game logic and track game state in Unreal, Unity and Godot, with reported gains on GameDev/GameLogic benchmarks. It is a new model tuned for the hardest part of engine scripting.",
+      "published_iso": "2026-11-05T16:32:10+09:00",
+      "og_image": "https://realsound.jp/wp-content/uploads/2026/11/20261105-hy4-99.jpg",
+      "excerpt": "Tencent's new Hy4 LLM was trained with input from its games division to implement multiplayer game logic and track game state, tuned for Unreal Engine, Unity and Godot; Tencent reports +19.1% on GameDev and +9.8% on GameLogic benchmarks vs the preview, and showcased a 3D driving sim built with it."
+    }
+  ],
+  "picks": [
+    {
+      "url": "https://www.inews24.com/view/2022819",
+      "title": "엔씨 AI, 지스타 2026서 생성형 AI 플랫폼 '바르코' 체험 카페 운영",
+      "source": "아이뉴스24",
+      "tool": "Games",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "rationale": "NC AI will run a hands-on VARCO cafe (3D model and sound generation) at G-Star 2026 and give 10 dev teams 3 months of free access. This is a concrete, time-bound offer that Korean developers can apply for.",
+      "published_iso": "2026-11-05T09:02:12+09:00",
+      "og_image": "https://image.inews24.com/v1/e58954f733e2fa.jpg",
+      "excerpt": "NC AI는 지스타 2026 기간(11월 19~21일) 부산 벡스코 인근에서 생성형 AI 플랫폼 '바르코' 체험 카페를 열고 3D 모델·사운드 생성 기술 체험과 1대1 상담을 제공하며, 10개 개발팀에 3개월 무료 이용을 지원한다."
+    },
+    {
+      "url": "https://www.gamesradar.com/games/google-gets-henry-cavill-to-ai-vibe-code-a-game-to-promote-googlebook-promises-to-donate-usd11-to-charity-every-time-someone-plays-it/",
+      "title": "Google gets Henry Cavill to AI vibe code a game to promote Googlebook, promises to donate $11 to charity every time someone plays it",
+      "source": "GamesRadar+",
+      "tool": "Games",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "rationale": "A playable vibe-coded 16-bit game ('Mustache Protocol') with a video series that shows how it was built. Google is now selling AI game-making to the mainstream.",
+      "published_iso": "2026-11-05T15:31:56Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/REBXE3PpQZNEtNemd6hgnB-1920-80.jpg",
+      "excerpt": "Google has enlisted Henry Cavill to vibe-code a 16-bit side-scroller, 'Mustache Protocol', on a Googlebook, and is releasing a video series documenting the AI-assisted build; plays during November trigger Movember donations."
+    },
+    {
+      "url": "https://automaton-media.com/en/news/hideo-kojima-says-ai-lacks-what-makes-the-creative-process-fun-despite-its-efficiency-its-not-a-form-of-creation-i-find-particularly-interesting/",
+      "title": "Hideo Kojima says AI lacks what makes the creative process fun, despite its efficiency",
+      "source": "AUTOMATON WEST",
+      "tool": "Games",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "rationale": "Kojima's first on-record view of AI in development (via Game*Spark): AI makes development easier, but it takes the fun out of making things. A high-signal creator perspective.",
+      "published_iso": "2026-11-04T13:00:00Z",
+      "og_image": "https://automaton-media.com/en/wp-content/uploads/2025/10/20250909-51789-header.jpg",
+      "excerpt": "In an interview with Game*Spark, Hideo Kojima said rapid AI advances have made game development far more manageable but that AI-driven creation is 'not a form of creation I find particularly interesting', voicing anxiety about AI's future role in creative work."
+    },
+    {
+      "url": "https://pandaily.com/kimi-game-development-creative-solution-k3-1-kimi-code-work-unity-unreal-engine-blender-20-hours",
+      "title": "Kimi Launches Game Development Solution With K3.1 Agents Working Inside Unity, Unreal and Blender",
+      "source": "Pandaily",
+      "tool": "Games",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "rationale": "A concrete new tool: Moonshot's Kimi Code/Work agents edit Unity, Unreal and Blender projects directly, and Moonshot demoed a 20-hour unattended run from concept to working prototype. It is the first major-lab agent suite aimed squarely at engine workflows.",
+      "published_iso": "2026-11-03T20:30:00Z",
+      "og_image": "https://cms-image.pandaily.com/1/kimi_e3d22e0c6a.png",
+      "excerpt": "Moonshot AI's Kimi released a game-development solution pairing K3.1 models with Kimi Code and Kimi Work agents that edit Unity, Unreal Engine and Blender projects directly, demonstrating a 20-hour unattended run that turns a concept into a functional prototype."
+    },
+    {
+      "url": "https://realsound.jp/tech/2026/11/post-2575100.html",
+      "title": "テンセント、ゲーム開発に強い新AI『Hy4』発表　Unityなどでマルチプレイの実装を支援",
+      "source": "Real Sound テック",
+      "tool": "Games",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "rationale": "Tencent's Hy4 was trained with input from its games division to write multiplayer game logic and track game state in Unreal, Unity and Godot, with reported gains on GameDev/GameLogic benchmarks. It is a new model tuned for the hardest part of engine scripting.",
+      "published_iso": "2026-11-05T16:32:10+09:00",
+      "og_image": "https://realsound.jp/wp-content/uploads/2026/11/20261105-hy4-99.jpg",
+      "excerpt": "Tencent's new Hy4 LLM was trained with input from its games division to implement multiplayer game logic and track game state, tuned for Unreal Engine, Unity and Godot; Tencent reports +19.1% on GameDev and +9.8% on GameLogic benchmarks vs the preview, and showcased a 3D driving sim built with it."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.ign.com/articles/nexus-mods-forces-mandatory-generative-ai-disclosures-and-filters": {
+      "https://www.inews24.com/view/2022819": {
         "verdict": "new",
-        "nearest": "https://www.gamingonlinux.com/2026/10/flathub-walked-back-their-generative-ai-ban-replaced-with-a-disclosure-policy/",
+        "nearest": "https://www.inews24.com/view/2021651",
         "new_action": ""
       },
-      "https://www.4gamer.net/games/210/G021013/20261104013/": {
-        "verdict": "follow-up",
-        "nearest": "https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code",
-        "new_action": "New engine decision announced 11-04 in Tim Sweeney's Unreal Fest Tokyo 2026 keynote: UE6 will ship without Blueprints from the start, not phase them out, to prioritise AI-agent productivity, and Sweeney apologised for it. The 10-29 Eurogamer card covered Epic's general gen-AI push ('engineers no longer writing the bulk of the code'), and the 10-06 Rider/Unreal Fest Chicago card (the history_match) was an agentic-dev tooling talk. Neither reported this decision."
-      },
-      "http://www.gamey.kr/news/articleView.html?idxno=3019481": {
+      "https://www.gamesradar.com/games/google-gets-henry-cavill-to-ai-vibe-code-a-game-to-promote-googlebook-promises-to-donate-usd11-to-charity-every-time-someone-plays-it/": {
         "verdict": "new",
-        "nearest": "https://www.gamesradar.com/games/action-rpg/bloodborne-pc-port-with-full-multiplayer-cant-get-fromsoftware-fans-to-vibe-with-vibe-coding-i-will-just-use-the-emulator-made-by-humans/",
+        "nearest": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
         "new_action": ""
       },
-      "https://www.destructoid.com/best-wow-forever-add-ons-to-avoid-ai-slop/": {
+      "https://automaton-media.com/en/news/hideo-kojima-says-ai-lacks-what-makes-the-creative-process-fun-despite-its-efficiency-its-not-a-form-of-creation-i-find-particularly-interesting/": {
         "verdict": "new",
-        "nearest": "https://www.gamesradar.com/games/world-of-warcraft/accused-of-using-ai-in-world-of-warcraft-forever-videos-blizzard-employee-says-hell-nah-we-have-real-team-members/",
+        "nearest": "https://www.gamesradar.com/games/super-smash-bros-and-kirby-creator-masahiro-sakurai-says-original-games-will-be-harder-for-ai-to-rip-off-but-originality-also-makes-your-game-harder-to-sell/",
         "new_action": ""
       },
-      "https://automaton-media.com/articles/newsjp/20261102-477130/": {
+      "https://pandaily.com/kimi-game-development-creative-solution-k3-1-kimi-code-work-unity-unreal-engine-blender-20-hours": {
         "verdict": "new",
-        "nearest": "https://www.ign.com/articles/google-ai-agents-killed-ender-dragon-minecraft",
+        "nearest": "https://gamesbeat.com/ramen-launches-aura-autopilot-an-open-source-autonomous-game-tester/",
+        "new_action": ""
+      },
+      "https://realsound.jp/tech/2026/11/post-2575100.html": {
+        "verdict": "new",
+        "nearest": "https://gamesbeat.com/ramen-launches-aura-autopilot-an-open-source-autonomous-game-tester/",
         "new_action": ""
       }
     },
-    "note": "FINAL RE-CURATION (fetch-pass corrections). REMOVED (a) Wccftech '94% of game studios use AI': the fetch pass confirmed the survey is Vivrato's VAIA Report 2026, already published 10-21 (gamesbeat.com/adam-boyes-vivrato-issues-report...), so it is a duplicate. REMOVED (b) Game Developer 'Valve warns of slower Steam approvals': Valve's post does not attribute the delay to AI. The AI link is only Game Developer's speculation, so AI is incidental. REMOVED CodeFizz UE5 motion-matching YouTube demo (I6IL5NTGNIM): a low-reach (~175 views) vendor demo, displaced by stronger fresh items. KEPT IGN Nexus Mods and Destructoid WoW Forever add-ons (their checks are unchanged). ADDED from candidates_filtered_recovery2_games.json: 4Gamer UE6 dropping Blueprints (a follow-up with a new engine decision), Gamey Power Moon Recomp (a new port release, distinct from the earlier Bloodborne, CTR, Link's Awakening and Banjo recomps and from the 11-02 Anthropic-restriction card), and AUTOMATON YC/Olam 'Agents in Games' Minecraft study (new research, distinct from the 10-21 Google Ender Dragon card). DROPPED from recovery2: AUTOMATON and RPS itch.io AI filter (cluster c3). This is the same filtering update already published 11-04 via Aftermath ('Itch Removes A Couple Terabytes Of AI Slop, Updates Filtering'). Game Developer 'Roblox growth slumps, betting big on AI': earnings-adjacent AI-business noise, overlapping the 10-30 GamesBeat Roblox 80% card. IGN Sakurai 'low-quality goods': creator commentary with no new action, and Sakurai's AI view already ran 10-17 via GamesRadar. Also not picked: GosuGamers Roblox AI clones of Elden Ring and others (10-29, a week old, close to the 10-21 AI mash-up launcher and the 07-19 AI-cloning cards). Not picked: GameBusiness.jp 'Games Without AI' showcase (10-31). It is fresh and unique but ranked below the three adds on actionability and novelty, so it is held as the first backfill if any pick fails enrichment. EXACT URL CHECK against published_urls.json games block: none of the three new URLs appear (no gamey.kr, no automaton newsjp/20261102-477130, and only two unrelated 4gamer URLs from August). The full cross-section file (3,943 lines) was too large to scan completely; the coordinator should run an exact grep across all sections before roll. Outlets: IGN, 4Gamer.net, Gamey, Destructoid, AUTOMATON (5 distinct)."
+    "note": "Shipping 5. RE-CURATION SWAP: removed Game Developer 'Valve warns of slower Steam approvals'. The enrichment fetch found no substantive AI content: Valve only cites a rise in submissions, and the AI link is the writer's speculation. The other Valve-review candidates (GamesRadar 'Valve cracks down', 4Gamer Steam review, cluster c0) were excluded for the same reason. Replacement: Real Sound Tech 'Tencent Hy4', a new model release tuned for Unity/Unreal/Godot multiplayer game logic, with GameDev/GameLogic benchmarks. The orchestrator's cross-section grep found no ledger or archive hit. Its history_match, Ramen Aura Autopilot 11-02, is a different company and product (an autonomous tester, not a code model). It is distinct from today's Kimi K3.1 pick: different lab, product and outlet. Other alternatives considered and passed over: Herald Roblox Kartrider clone (AI use is only speculated; part of the copycat thread), Astrocade/Nitro contests (marketing contests), NVIDIA Hogwarts DLSS 5 (already announced 10-14). Earlier drops stand: RuntimeWire Tripo Agentic Canvas (published in design on 11-05), GamesRadar Kojima (cluster c4 dup), Kotaku op-eds (stale), GI.biz opinion, Xsolla M&A, Take-Two Zelnick, FSR 4 GDK, Toyo Keizai, Anchornode, Nikkei Miyamoto."
   }
 }

@@ -1,27 +1,29 @@
 {
-  "jama-maternal-chatbot-rct": {
-    "lead_image": "",
-    "video": "",
-    "yt": ""
-  },
-  "mayo-platform-cds-ehr": {
-    "lead_image": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/11/CDS-Announcement-GettyImages-1364382012-1024x683.jpg",
-    "video": "",
-    "yt": ""
-  },
-  "google-health-ai-evals": {
-    "lead_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.max-1440x810.png",
-    "video": "",
-    "yt": ""
-  },
-  "mount-sinai-delirium-ml": {
-    "lead_image": "",
-    "video": "",
-    "yt": ""
-  },
-  "nejm-ai-physical-limits": {
-    "lead_image": "https://ai.nejm.org/cms/asset/c15c7a83-476d-440c-af12-511c2c671af3/aip2600957_f1.jpg",
-    "video": "",
-    "yt": ""
-  }
+ "medicine-llm-steering-depression": {
+  "lead_image": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2dfd/13732501/7d90c3b3ea8e/jamanetwopen-e2641142-g001.webp",
+  "video": "",
+  "yt": ""
+ },
+ "medicine-brainct-clip-worklist": {
+  "lead_image": "",
+  "video": "",
+  "yt": ""
+ },
+ "medicine-fda-510k-ai-updates": {
+  "lead_image": "",
+  "video": "",
+  "yt": "",
+  "note": "only JAMA figure is a signed cdn.jamanetwork.com URL (expires); Fig1 Kaplan-Meier curve"
+ },
+ "seoulstmary-ckd-risk-app": {
+  "lead_image": "https://www.medigatenews.com/file/news/539561",
+  "video": "",
+  "yt": ""
+ },
+ "aha-rural-echo-ai-guidance": {
+  "lead_image": "https://iprsoftwaremedia.com/67/files/20269/eec50b9c834cefd555f05b13149e03ca/6ad983fe3d633211624a8985_Ravi%20-%20Mobile%20Health%20Unit/Ravi%20-%20Mobile%20Health%20Unit_hero.jpg?v=452cc052-eaae-4f6d-93f1-4363f72b0584",
+  "video": "https://newsroom.heart.org/_gallery/get_file/?file_id=6adc04ce3d633293f4357312&file_ext=.mp4&page_id=6acbbea73d6332bc8b5dc4fc",
+  "yt": "",
+  "note": "video is AHA B-roll/soundbite (Schwamm); URL redirects to a usage-policy gate"
+ }
 }

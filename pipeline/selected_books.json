@@ -1,96 +1,102 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "section": "books",
+  "user_selection": null,
   "items": [
     {
-      "title": "Winner of France's top literary prize admits using AI for novel",
-      "url": "https://www.euronews.com/2026/11/04/goncourt-2026-winner-philippe-jaenada-admits-using-ai-in-novel-sparking-ai-debate-in-liter",
-      "source": "Euronews",
-      "published_iso": "2026-11-04T16:59:02+01:00",
-      "og_image": "https://images.euronews.com/articles/stories/09/97/99/99/1200x675_cmsv2_1827a31b-adab-560a-879c-964d3b9d2b97-9979999.jpg",
-      "excerpt": "A day after winning the 2026 Prix Goncourt, Philippe Jaenada said on France Inter that he used AI while writing 'L'Inconnue du quai de Javel', reopening the debate over AI in literary fiction weeks after Thélyson Orélien was dropped from the prize list.",
       "tool": "Books",
+      "category": "books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "Biggest fresh event of the pool: the Goncourt winner himself disclosed AI use, a new case distinct from the Prix Pascal launch and the Orélien scandal."
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "source": "TechCrunch",
+      "published_iso": "2026-11-03T03:30:00+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?resize=1200,800",
+      "excerpt": "Google's Dreambeans, which generates illustrated personalized stories from users' Gmail, Photos and YouTube activity without a prompt (some animated via Veo), now supports 13 Indian languages in its first market outside the U.S.",
+      "rationale": "Concrete product expansion: Google's prompt-free AI storybook app goes to its first non-US market in 13 Indian languages; on-whitelist outlet."
     },
     {
-      "title": "Readwise takes on Amazon's Kindle and Goodreads with its new app for book lovers",
-      "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
-      "source": "TechCrunch",
-      "published_iso": "2026-11-02T17:49:41+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?resize=1200,675",
-      "excerpt": "Readwise Books combines an e-book store, reading tracker and publisher-permitted AI features (session recaps, lookups, translation, location-aware Q&A) plus a public API and MCP server for AI agents.",
       "tool": "Books",
+      "category": "books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "New product launch: an e-book store and reader with publisher-permitted AI features and an MCP server, a concrete alternative to Kindle."
+      "title": "The Gruffalo's illustrator is threatening legal action against AI companies — so I put ChatGPT and Gemini's copyright safeguards to the test",
+      "url": "https://www.techradar.com/ai-platforms-assistants/the-gruffalos-illustrator-is-seriously-considering-suing-ai-companies-so-i-tested-whether-chatgpt-and-gemini-would-recreate-his-famous-characters",
+      "source": "TechRadar",
+      "published_iso": "2026-11-03T18:20:50+00:00",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/xYwaj5VqTyTtVtz4gK7L4b-1920-80.jpg",
+      "excerpt": "Axel Scheffler says his Gruffalo images are being pumped out of AI models and is weighing legal action; TechRadar tested whether ChatGPT and Gemini would recreate the picture-book characters.",
+      "rationale": "New: Scheffler now weighing a lawsuit, plus a hands-on test of how ChatGPT and Gemini guard picture-book IP — directly useful to illustrators."
     },
     {
-      "title": "Oxford University Press Tests Licensing Content to ChatGPT",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/101680-oxford-university-press-tests-connecting-its-content-to-chatgpt-edu.html",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-11-04T00:00:00-05:00",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132583-2.JPG",
-      "excerpt": "A three-month pilot lets students and researchers search licensed OUP content inside ChatGPT Edu, run with Harvard Library, Wharton and the University of Oxford.",
       "tool": "Books",
+      "category": "books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "New licensing pilot: OUP content searchable inside ChatGPT Edu at Harvard, Wharton and Oxford; a different publisher and deal from the Meridian gateway card."
+      "title": "판권에 ‘AI 학습 거부’ 못 박고, 사용료도 받고···유럽 출판계의 반격",
+      "url": "https://www.khan.co.kr/article/202611051657001",
+      "source": "경향신문",
+      "published_iso": "2026-11-05T16:57:00+09:00",
+      "og_image": "https://img.khan.co.kr/news/2026/11/05/news-p.v1.20261105.86330c3d9cef4964837c6a302cb49e6b_P1.png",
+      "excerpt": "독일 미디어 플랫폼 DPR 창립자 슈테펜 마이어는 유럽 출판사들이 판권면 AI 학습 거부 조항, AI 기업과의 개별 라이선스 계약, 업계 공동 대응 등 세 갈래로 움직이고 있다고 소개했다.",
+      "rationale": "Actionable playbook for Korean publishers: European houses' copyright-page AI opt-out clauses, direct licensing and collective action."
     },
     {
-      "title": "30분이면 책 한 권 교정·교열 끝···북엔드, AI로 출판 혁신 '에디토리얼'로 글로벌 시장 도전",
-      "url": "http://www.hellodd.com/news/articleView.html?idxno=113638",
-      "source": "헬로디디",
-      "published_iso": "2026-11-04T18:00:00+09:00",
-      "og_image": "https://cdn.hellodd.com/news/thumbnail/202610/113638_338795_1432_v150.jpg",
-      "excerpt": "대덕 출판사 북엔드가 교정·교열 시간을 2주에서 30분으로 줄인 AI 도서 편집 서비스 '에디토리얼'을 내놓고 작가 문체를 살리는 편집으로 해외 시장에 나섰다.",
       "tool": "Books",
+      "category": "books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "Shipped tool: an AI copy-editing service that cuts proofreading from two weeks to 30 minutes; directly changes editorial workflow."
+      "title": "Cleveland Public Library sets rules for how it will use AI",
+      "url": "https://signalcleveland.org/ai-policy-approved-at-cleveland-public-library/",
+      "source": "Signal Cleveland",
+      "published_iso": "2026-11-05T05:02:00+00:00",
+      "og_image": "https://signalcleveland.org/wp-content/uploads/2022/10/20240117_165935-scaled.jpg",
+      "excerpt": "The Cleveland Public Library board approved an AI governance policy that creates a staff AI council and sets rules for how the library will use AI tools.",
+      "rationale": "Concrete board decision: a major US public library adopts a formal AI governance policy and staff AI council — a template for other libraries."
     },
     {
-      "title": "“다음 편 빨리 내놔”⋯웹툰 팬이 만든 AI 실사화에 230만명 몰렸다",
-      "url": "https://www.viva100.com/article/20261101500560",
-      "source": "브릿지경제",
-      "published_iso": "2026-11-02T06:59:00+09:00",
-      "og_image": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/11/01/.cache/512/20261101500473.png",
-      "excerpt": "네이버웹툰 '제물 투표'를 AI로 실사화한 팬 영상이 유튜브 공개 한 달 반 만에 230만 회를 넘기며 AI 2차 창작의 저작권 기준 논의가 커지고 있다.",
       "tool": "Books",
+      "category": "books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "rationale": "Concrete new case: a fan-made AI live-action adaptation of a Naver Webtoon hit 2.3M views, forcing the question of copyright rules for AI derivative works."
+      "title": "에듀클라우드닷컴·KL매니지먼트, AI 음악으로 K문학 해외 홍보",
+      "url": "https://www.inews24.com/view/2022620",
+      "source": "아이뉴스24",
+      "published_iso": "2026-11-04T16:07:08+09:00",
+      "og_image": "https://image.inews24.com/v1/ba07ee7b70508a.jpg",
+      "excerpt": "출판 저작권 에이전시 KL매니지먼트와 에듀클라우드닷컴이 해외 판권 계약이 이뤄진 한국 소설의 인물·장면·메시지를 AI 음악 테마곡으로 만들어 글로벌 독자 홍보에 쓰기로 했다.",
+      "rationale": "New partnership: a literary rights agency uses AI-made theme songs to market translated Korean novels abroad — a fresh book-marketing use case."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.euronews.com/2026/11/04/goncourt-2026-winner-philippe-jaenada-admits-using-ai-in-novel-sparking-ai-debate-in-liter": {
+      "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/": {
         "verdict": "new",
-        "nearest": "https://www.thebookseller.com/news/new-literary-prize-prix-pascal-launches-in-france-for-manuscripts-written-with-ai",
+        "nearest": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
         "new_action": ""
       },
-      "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/": {
+      "https://www.techradar.com/ai-platforms-assistants/the-gruffalos-illustrator-is-seriously-considering-suing-ai-companies-so-i-tested-whether-chatgpt-and-gemini-would-recreate-his-famous-characters": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/tech/1016789/amazon-kindle-unlimited-plus-subscription-ai-audiobooks",
+        "nearest": "https://www.thebookseller.com/comment/ai-illustrators-threat-government-act-axel-scheffler",
         "new_action": ""
       },
-      "https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/101680-oxford-university-press-tests-connecting-its-content-to-chatgpt-edu.html": {
+      "https://www.khan.co.kr/article/202611051657001": {
         "verdict": "new",
-        "nearest": "https://www.publishersweekly.com/pw/by-topic/industry-news/licensing/article/101673-cambridge-johns-hopkins-and-princeton-university-presses-back-ai-gateway-meridian.html",
+        "nearest": "https://www.thebookseller.com/news/global-creative-bodies-launch-ethical-ai-charter-in-the-vacuum-of-government-policy",
         "new_action": ""
       },
-      "http://www.hellodd.com/news/articleView.html?idxno=113638": {
+      "https://signalcleveland.org/ai-policy-approved-at-cleveland-public-library/": {
         "verdict": "new",
-        "nearest": "https://www.prweb.com/releases/apex-covantage-to-launch-eden-an-ai-powered-editorial-engine-for-publishing-at-frankfurt-book-fair-302887272.html",
+        "nearest": "https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/101589-pla-partners-with-microsoft-on-library-ai-info-sessions.html",
         "new_action": ""
       },
-      "https://www.viva100.com/article/20261101500560": {
+      "https://www.inews24.com/view/2022620": {
         "verdict": "new",
-        "nearest": "https://www.news1.kr/it-science/internet-platform/6320039",
+        "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Goncourt: the 2026-11-04 AOL Goncourt pick was pulled before publish (404), so no Goncourt card exists; Euronews reports the winner's own France Inter disclosure, a different event from the Prix Pascal launch (10-21) and the Orelien case (cbc 10-22). Dropped as duplicates: Oman Observer/AFP '370 books in 20 months' (likely-repeat of timesnownews 10-25, same Coral Hart story); Publishing Perspectives OpenAI amicus-brief roundup (commentary on the running OpenAI case, nearest Bookseller 10-30 publishers' brief, no new filing of its own; also dropped 11-04); Newsis 출판계 AI 위기 (rehash of the Anthropic/Korean book-buying story, nearest joongang 25469854 / sedaily 20103000). Skipped on scoring: Scholarly Kitchen governed-AI essay (opinion; Scholarly Kitchen ran on 11-03 and 11-04), Jane Friedman detection essay (commentary, near Pangram/NPR cards), Lit Hub horror essay, The Stage audio-drama opinion, nocutnews Kim Yu-jeong forum preview (event preview), zdnet K-literature translation analysis. Reserve: dev.ua Claude-built AI e-reader (personal project, overlaps the Readwise reader angle). Cross-section: books slice of published_urls.json shows none of the five URLs; the file (3,943 lines) was too large to read in full with Read-only tools, so the orchestrator should exact-grep all five URLs plus 'Goncourt', 'Jaenada', 'Readwise', 'ChatGPT Edu', '에디토리얼', '제물 투표' across all sections before roll. The viva100 webtoon live-action item is the one most likely to collide with movies; if it does, swap in the dev.ua reserve."
+    "note": "Dropped as duplicates/no-new-event: ALLi podcast (Audible talk-to-characters published 10-02 via TechCrunch; Chakrabarty paper drop published 10-24 via ALLi); Publishing Perspectives 50 amicus briefs (running OpenAI fair-use story, publishers' amicus brief already published 10-30 — analysis of filings, no new ruling); Hani '.txt' column on the Frankfurt appeal (commentary on the AI-transparency appeal published 10-14 via chytomo); Asiae minister Choi Hwi-young remarks (reaction within the running Anthropic Korean-book-buying story, published 10-15/10-16/10-20/10-22/10-27 — statement, no new decision); Jane Friedman 'AI detection scandals will end' (opinion on the Pangram/detection thread, 10-08 & 11-03). Ranked below cut (not dups): WLOX general feature (evergreen, related to 11-03 Transparency Trap), dev.ua DIY Claude e-reader (personal project), two Scholarly Kitchen opinion posts. Gruffalo: Scheffler's 09-14 Bookseller op-ed urged government action; this item is new — he is now weighing legal action and TechRadar ran its own ChatGPT/Gemini test. Cross-section: checked books and gadgets blocks of published_urls.json for all 5 URLs/products (no hits); the full file (~4k lines) could not be exact-grepped with available tools, so orchestrator should run the cross-section grep for the remaining sections. Outlets: 5 distinct; Korean 2 / English 3."
   }
 }

@@ -1,31 +1,32 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "section": "science",
   "media": [
     {
-      "id": "replika-companion-updates",
+      "id": "llnl-strata-stitch-emulators",
       "type": "image",
-      "src": "pipeline/media/replika-companion-updates.jpg"
+      "src": "pipeline/media/llnl-strata-stitch-emulators.jpg"
     },
     {
-      "id": "ibm-quics-magic-state-agents",
-      "type": "image",
-      "src": "pipeline/media/ibm-quics-magic-state-agents.png"
+      "id": "jwst-flip-digital-twin",
+      "type": "video",
+      "src": "pipeline/media/jwst-flip-digital-twin.mp4",
+      "poster": "pipeline/media/jwst-flip-digital-twin.jpg"
     },
     {
-      "id": "ai2-google-neuralgcm-plus",
+      "id": "tau-stanford-synthetic-learning",
       "type": "image",
-      "src": "pipeline/media/ai2-google-neuralgcm-plus.jpg"
+      "src": "pipeline/media/tau-stanford-synthetic-learning.jpg"
     },
     {
-      "id": "quanta-llm-introspection",
+      "id": "hebrew-u-ai-sugar-substitutes",
       "type": "image",
-      "src": "pipeline/media/quanta-llm-introspection.jpg"
+      "src": "pipeline/media/hebrew-u-ai-sugar-substitutes.jpg"
     },
     {
-      "id": "ntnu-paper-mill-software",
+      "id": "mechanism-design-agent-alignment",
       "type": "image",
-      "src": "pipeline/media/ntnu-paper-mill-software.jpg"
+      "src": "pipeline/media/mechanism-design-agent-alignment.jpg"
     }
   ]
 }

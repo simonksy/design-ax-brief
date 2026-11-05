@@ -8948,6 +8948,129 @@
           "x": "Suno还主张，联邦“优先适用”（preemption）原则注定让此案无法成立，称其“将制造一个影子般的州法IP体系……与已实行两个多世纪的联邦体系根本冲突”。"
         }
       ]
+    },
+    "music/avid-protools-sixstem-split": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/11/Pro-Tools-Stem-hero@2000x1500.jpg",
+          "cap": "图片来源：Avid"
+        },
+        {
+          "t": "p",
+          "x": "对制作人来说，分轨分离可能是手头最有用的工具之一。因此，Avid刚刚在Pro Tools 2026.11中引入AI分轨分离，对许多使用这款DAW的制作人而言会是一项受欢迎的新功能。"
+        },
+        {
+          "t": "p",
+          "x": "新的AI分轨分离Pro Tools Extension能把任意录音拆分为最多六条分轨：人声、鼓、贝斯、吉他、键盘和其他乐器。使用方法很简单：把音频文件拖放到窗口中，预览将被拆分出的分轨，再将它们作为独立音轨送回主DAW。"
+        },
+        {
+          "t": "p",
+          "x": "新的AI Stem Separator只是Pro Tools Extensions提供的众多功能之一。插件一次只能处理一条音轨，而Extensions可以处理整个工程或任意数量的指定音轨。Splice、SoundFlow、Pro Sound Effects、Soundly、Forte和Pibox等外部公司也设计了Extensions。"
+        },
+        {
+          "t": "p",
+          "x": "Avid产品管理副总裁Sam Butler表示：“Extensions是重要的一步，它把新技术和创新能力直接带进了Pro Tools。”"
+        },
+        {
+          "t": "p",
+          "x": "Pro Tools 2026.11现已面向Pro Tools Artist、Studio和Ultimate订阅用户、拥有有效升级计划的永久授权用户，以及包括30天试用版在内的Pro Tools Intro用户推出。"
+        }
+      ]
+    },
+    "music/elevenlabs-soundcloud-publish": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675"
+        },
+        {
+          "t": "p",
+          "x": "音频AI公司ElevenLabs周四表示，用户将能把通过其ElevenMusic平台创作的AI生成（AI-generated）音乐直接发布到SoundCloud。公司还向SoundCloud Artist Pro用户提供三个月的ElevenMusic Pro，该服务每月可生成最多1,000首歌曲、拆分分轨文件500次，并使用五种自定义风格或人声。"
+        },
+        {
+          "t": "p",
+          "x": "该公司于2025年首次发布音乐生成模型，2026年4月推出面向消费者的应用，一个月后又发布了可在曲中切换曲风的模型。ElevenLabs表示，迄今用户已使用其模型创作了超过2500万首曲目。"
+        },
+        {
+          "t": "p",
+          "x": "SoundCloud首席执行官Eliah Seton表示：“作为首个将ElevenMusic作品直接带给其自身生态之外粉丝的平台，我们正在为艺术家开启尝试、分享作品和积累听众的新可能。”"
+        },
+        {
+          "t": "p",
+          "x": "其他平台则倾向于为AI音乐加标签或进行过滤：Deezer正在推出过滤此类音乐的开关，Bandcamp已禁止AI生成的曲目，Spotify和YouTube则在标签问题上采取了更谨慎的做法。"
+        }
+      ]
+    },
+    "music/ddex-elevenlabs-membership": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ddex-announces-elevenlabs-as-first-ai-company-to-join-membership.png",
+          "cap": "图片来源：DDEX x ElevenLabs"
+        },
+        {
+          "t": "p",
+          "x": "音乐产业的非营利国际标准制定组织Digital Data Exchange（DDEX）宣布，ElevenLabs以正式会员身份加入，成为首家加入的AI公司。DDEX的会员包括音乐和科技领域的150多家公司和个人。"
+        },
+        {
+          "t": "p",
+          "x": "DDEX秘书处的Mark Isherwood表示：“作为音乐市场领先的AI公司之一，他们的专业知识将带来丰富的洞见。”ElevenLabs的Gabriella Heybourne则表示：“我们期待参与他们的全体会议和工作组，帮助塑造与AI等相关的音乐信息传递方式。”"
+        },
+        {
+          "t": "p",
+          "x": "在ElevenLabs加入之前，DDEX的AI工作组于9月9日至10日在纳什维尔举行了首次线下会议。该工作组已完成对其生成式AI声明标准（GAI-D）委员会草案的意见征集，草案将进入同行评审，并于2027年初发布。"
+        }
+      ]
+    },
+    "music/pianobench-arxiv-benchmark": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "多模态语言模型在广泛的音乐理解基准上持续进步，但它们究竟能感知并推理哪些音乐特征？作者提出了PianoBench，这一基准要求语言模型在相互对应的声学与符号输入表示之间，对音乐演奏进行推理。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2611.03839v1/pianobench_overview.png",
+          "cap": "图1：PianoBench源自PianoTalk，这是一个训练规模（20k 小时）的数据集，由钢琴教学视频中交错排列的讲解与音乐转录构成。"
+        },
+        {
+          "t": "p",
+          "x": "PianoBench源自一个全新的多模态训练规模数据集，其中包含超过20,000小时来自钢琴教学视频的音乐转录与口头音乐讲解，两者交错排列。"
+        },
+        {
+          "t": "p",
+          "x": "开放权重的音频-语言模型准确率最高仅为52.8%，只略高于无音频对照组。使用思维链（chain of thought）的前沿模型在以文本形式获得音乐转录时，准确率最高可达93.2%，这暴露出从音频中感知音乐特征与在明确给定特征时进行推理之间的差距。"
+        },
+        {
+          "t": "p",
+          "x": "在交错排列的音乐教学数据上进行中期训练后，Qwen 3.5 9B Base在指令微调后使用音乐转录的零样本准确率从42.8%升至56.0%，这表明教学视频可能是音乐多模态监督中一个被忽视的来源。"
+        }
+      ]
+    },
+    "music/suno-midi-create-upload": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "现在可以在Suno上从MIDI文件开始创作歌曲：把文件拖放到Create页面，或在“+”菜单中选择MIDI即可。MIDI文件记录了一个声部的精确音符与时值，因此它提供的起点比在Suno上任何其他创作方式都精确得多。"
+        },
+        {
+          "t": "p",
+          "x": "你可以决定Suno跟随的紧密程度：让模型完全按你写的音符演奏，或从文件中提取一个动机，发展成全新的内容。MIDI本身不含任何声音，这使它不同于为Remix或Cover上传音频——它传递的是精确的音符和时值信息，可实现非常精细的控制。"
+        },
+        {
+          "t": "p",
+          "x": "建议用途包括：导出未完成的乐谱，用高品质配器试听（\"Arrange this MIDI for a full orchestra, with strings, brass, woodwinds and percussion\"）；让学生和乐队领队试听作品；或复活旧乐队排练留下的MIDI（\"Transform this MIDI into a string quartet\"）。"
+        },
+        {
+          "t": "p",
+          "x": "上线时，MIDI使用搭载v6-wild的Simple Create模式。该功能向所有Pro和Premier订阅用户开放，Suno计划逐步扩展MIDI功能。"
+        }
+      ]
     }
   }
 }

@@ -1,7 +1,31 @@
-{"date":"2026-11-05","section":"games","media":[
-{"id":"nexus-mods-ai-disclosure","type":"image","src":"pipeline/media/nexus-mods-ai-disclosure.png"},
-{"id":"ue6-blueprints-drop","type":"image","src":"pipeline/media/ue6-blueprints-drop.jpg"},
-{"id":"power-moon-recomp-odyssey","type":"image","src":"pipeline/media/power-moon-recomp-odyssey.jpg"},
-{"id":"wow-forever-addon-slop","type":"image","src":"pipeline/media/wow-forever-addon-slop.jpg"},
-{"id":"yc-olam-minecraft-agents","type":"image","src":"pipeline/media/yc-olam-minecraft-agents.jpg"}
-]}
+{
+  "date": "2026-11-06",
+  "section": "games",
+  "media": [
+    {
+      "id": "ncai-varco-gstar-cafe",
+      "type": "svg"
+    },
+    {
+      "id": "google-cavill-mustache-protocol",
+      "type": "video",
+      "src": "pipeline/media/google-cavill-mustache-protocol.mp4",
+      "poster": "pipeline/media/google-cavill-mustache-protocol.jpg"
+    },
+    {
+      "id": "kojima-ai-creation-fun",
+      "type": "image",
+      "src": "pipeline/media/kojima-ai-creation-fun.jpg"
+    },
+    {
+      "id": "games-kimi-k31-gamedev-agents",
+      "type": "image",
+      "src": "pipeline/media/games-kimi-k31-gamedev-agents.png"
+    },
+    {
+      "id": "games-tencent-hy4-multiplayer",
+      "type": "image",
+      "src": "pipeline/media/games-tencent-hy4-multiplayer.jpg"
+    }
+  ]
+}

@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "section": "music",
   "picks": [
     {
-      "title": "Start Songs with MIDI: Suno adds MIDI file uploads as a starting point in Create",
-      "url": "https://suno.com/blog/MIDI-in-create",
-      "source": "Suno",
+      "url": "https://www.musicradar.com/music-tech/splices-new-ai-daw-feels-like-a-cheat-code-for-music-production-but-it-left-us-with-one-big-question",
+      "title": "Splice's new AI DAW feels like a cheat code for music production",
+      "source": "MusicRadar",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "Primary-source feature release: producers can seed Suno generations with their own MIDI melody, chords or arrangement, a direct change to how they steer AI songwriting.",
-      "published_iso": "2026-11-04T16:45:00Z",
-      "og_image": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format",
-      "excerpt": "Suno now lets users upload a MIDI file as the starting point for a generated song in Create, so producers can steer AI generation from their own melody, chords or arrangement."
+      "published_iso": "2026-11-05T15:36:29Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/MKxdBMTbkaGpg7vnhZevTo-2560-80.png",
+      "excerpt": "Splice launches Create in beta: a free Mac DAW built around the Splice library with a voice-controlled AI chatbot, Rheo, that can teach you to make a track or assemble a full song from Splice samples and stock instruments.",
+      "rationale": "Brand-new free AI-native DAW from the biggest sample platform; producers can try it today."
     },
     {
-      "title": "iZotope Photon is a local stem separation and denoising tool that runs off your GPU",
-      "url": "https://musictech.com/news/gear/izotope-photon/",
+      "url": "https://musictech.com/news/pro-tools-now-features-ai-stem-separation/",
+      "title": "Pro Tools now features AI stem separation",
       "source": "MusicTech",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "New product launch: iZotope's 12-model stem separation and cleanup tool runs locally on the GPU as an app and ARA plugin, the single Photon card for today (music owns this story).",
-      "published_iso": "2026-11-03T16:45:13+00:00",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500-1068x801.jpg",
-      "excerpt": "iZotope has launched Photon, an AI-powered stem separation and audio cleanup tool powered by 12 custom-trained models that process audio locally on the computer's GPU rather than in the cloud."
+      "published_iso": "2026-11-05T10:56:12+00:00",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/11/Pro-Tools-Stem-hero@2000x1500-1068x801.jpg",
+      "excerpt": "Avid's Pro Tools 2026.11 adds an AI stem separation extension that splits any recording into up to six stems (vocals, drums, bass, guitar, keys, other) via drag-and-drop.",
+      "rationale": "The industry-standard studio DAW ships built-in six-stem AI separation in 2026.11, so engineers no longer need a separate tool for it."
     },
     {
-      "title": "More YouTube creators can now use AI to replace copyrighted songs",
-      "url": "https://www.neowin.net/news/more-youtube-creators-can-now-use-ai-to-replace-copyrighted-songs/",
-      "source": "Neowin",
-      "tool": "Music",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "Feature rollout: YouTube widens access to Replace Song, which swaps Content ID-claimed music for AI-generated royalty-free instrumentals, so more creators can now clear a claim without editing the track out.",
-      "published_iso": "2026-11-03T19:46:01+00:00",
-      "og_image": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756242307_youtube_logo_on_tv_full.webp",
-      "excerpt": "YouTube is expanding access to its AI-powered Replace Song feature, which generates royalty-free AI instrumentals to swap in for Content ID-claimed music."
-    },
-    {
-      "title": "More AI Detector False Positives Emerge In Rapid Succession: Do Indie Musicians Have a Serious Problem Here?",
-      "url": "https://www.digitalmusicnews.com/2026/11/04/ai-detector-false-positives/",
-      "source": "Digital Music News",
-      "tool": "Music",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "rationale": "New cases of AI-music detectors flagging human recordings, including 1980s originals, as AI: a concrete risk of mislabelling and penalties for indie artists.",
-      "published_iso": "2026-11-04T14:22:31+00:00",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detector-false-positives-threaten-indie-musicians-and-industry.png",
-      "excerpt": "AI-music detectors are flagging electro-synth tracks as AI-generated - even original recordings made in the 1980s - raising the risk that indie artists get mislabelled or penalised by platforms."
-    },
-    {
-      "title": "MLC Formally Opposes Udio's Streaming-Data Subpoena, Citing Two to Three Weeks of Staff Time",
-      "url": "https://www.digitalmusicnews.com/2026/11/03/udio-mlc-subpoena-opposition/",
-      "source": "Digital Music News",
+      "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
+      "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+      "source": "TechCrunch",
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "New court filing: the MLC formally opposes Udio's subpoena for streaming data. This is a separate filing in Udio's case, not the Suno-MLC dispute we ran on 10-25.",
-      "published_iso": "2026-11-04T06:00:38+00:00",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/MLC-Udio-Subpoena.jpg",
-      "excerpt": "The Mechanical Licensing Collective is pushing back on AI music company Udio's subpoena for streaming data, saying compliance would take two to three weeks of staff time."
+      "published_iso": "2026-11-05T15:00:00+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675",
+      "excerpt": "ElevenLabs' Eleven Music now publishes tracks straight to SoundCloud without a download step; the company says more than 25 million tracks have been generated with its music models.",
+      "rationale": "Generation-to-distribution pipe goes live on a major platform (25M+ tracks generated so far); TechCrunch chosen over the Verge write-up of the same story."
+    },
+    {
+      "url": "https://www.digitalmusicnews.com/2026/11/05/ddex-elevenlabs-first-ai-company/",
+      "title": "DDEX Announces ElevenLabs as First AI Company to Join Membership",
+      "source": "Digital Music News",
+      "tool": "Music",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "published_iso": "2026-11-05T20:23:51+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ddex-announces-elevenlabs-as-first-ai-company-to-join-membership.png",
+      "excerpt": "Music metadata standards body DDEX has admitted ElevenLabs as its first AI-company member, bringing an AI music generator into the industry's delivery/metadata standards process.",
+      "rationale": "For the first time an AI generator gets a seat in the body that sets music delivery and metadata standards, which bears on how AI tracks get labelled and credited."
+    },
+    {
+      "url": "http://arxiv.org/abs/2611.03839v1",
+      "title": "PianoBench: Evaluating Musical Perception and Reasoning in Language Models",
+      "source": "arXiv",
+      "tool": "Music",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "published_iso": "2026-11-02T19:11:56Z",
+      "og_image": null,
+      "excerpt": "New benchmark and 20,000+ hour multimodal piano dataset (interleaved audio, symbolic transcripts and speech) testing which musical features multimodal language models can actually perceive and reason about.",
+      "rationale": "New benchmark plus a 20,000-hour piano dataset that measures which musical features multimodal LLMs actually hear. This is the research slot, and it widens the outlet spread."
     }
   ],
   "dedup": {
     "checks": {
-      "https://suno.com/blog/MIDI-in-create": {
-        "verdict": "new",
-        "nearest": "https://musically.com/2026/10/29/suno-launches-mcp-server-to-create-music-right-from-the-chat/",
-        "new_action": ""
-      },
-      "https://musictech.com/news/gear/izotope-photon/": {
+      "https://www.musicradar.com/music-tech/splices-new-ai-daw-feels-like-a-cheat-code-for-music-production-but-it-left-us-with-one-big-question": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.neowin.net/news/more-youtube-creators-can-now-use-ai-to-replace-copyrighted-songs/": {
+      "https://musictech.com/news/pro-tools-now-features-ai-stem-separation/": {
         "verdict": "new",
-        "nearest": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+        "nearest": "https://arxiv.org/abs/2610.17821",
         "new_action": ""
       },
-      "https://www.digitalmusicnews.com/2026/11/04/ai-detector-false-positives/": {
+      "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/": {
         "verdict": "new",
-        "nearest": "https://arxiv.org/abs/2610.20310",
+        "nearest": "https://finance.yahoo.com/technology/ai/articles/moises-soundcloud-partner-bring-ai-142300209.html",
         "new_action": ""
       },
-      "https://www.digitalmusicnews.com/2026/11/03/udio-mlc-subpoena-opposition/": {
-        "verdict": "follow-up",
-        "nearest": "https://www.digitalmusicnews.com/2026/10/22/suno-mlc-subpoena/",
-        "new_action": "The MLC filed a formal opposition to Udio's streaming-data subpoena (a separate filing from the Suno-MLC dispute published 10-25)."
+      "https://www.digitalmusicnews.com/2026/11/05/ddex-elevenlabs-first-ai-company/": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "http://arxiv.org/abs/2611.03839v1": {
+        "verdict": "new",
+        "nearest": "https://arxiv.org/abs/2610.31083",
+        "new_action": ""
       }
     },
-    "note": "Photon cluster c1: kept MusicTech, dropped the MusicRadar and gearnews versions (same launch; at most one Photon card per the cross-section rule). Dropped the Music Ally AI roundup because its lead item, the Alphabet/Lyria shareholder suit, already ran on 11-03 and the rest is a roundup. Dropped GEMA on AI: an interview/commentary following the Suno ruling, with no new decision. Dropped 'Is Spotify's Anti-Spam Crackdown Catching Legitimate Music': analysis of the running Spotify slop-crackdown story already covered 10-06 (editorial playlist slip) and 10-21 (50M tracks pulled), with no new platform action. Not picked for score/diversity: Tamber 2.0 review (a review, not a release), Acaply (startup pitch where AI is context rather than the product), and two arXiv papers (no og_image, lower actionability). Cross-section check: candidate URLs had already been URL-deduped against the ledger. published_urls.json was too large to scan fully without grep, so a product-name grep across all sections (Suno MIDI, Replace Song, Photon) is still recommended before roll."
+    "note": "Pool 17. Dropped as within-pool dups: the Verge ElevenLabs/SoundCloud piece (cluster c2, kept TechCrunch) and MacRumors 'Creator Studio updates rolling out' (cluster c6). Dropped as same/running story: inMusic opening gear to modders (CDM), a follow-up to the Akai vibe-coded open-source MPC story (theverge 10-29) with a policy widening, not a new release; Apple's Suno subscription reply (DMN), more filings in the label-v-Suno discovery fights published 10-20/10-25/10-27/11-05; Spotify anti-spam piece (DMN), analysis of the Spotify slop removal published 10-21. Not picked on scoring/diversity: Logic Pro 13 public release (MacRumors, off-list domain, follow-up to engadget 10-28 Creator Studio story; would have made three DAW-tool cards), Nile Rodgers reaction, Billboard concert-AI feature, IFPI CEO interview, Grimes AI film (film, belongs to movies), CISAC report (body unverified, no AI substance confirmed), structured-caption text-to-music arXiv. Pro Tools stem separation is a different product from the iZotope Photon card (11-05) and the FLOMSS paper (10-26). ElevenLabs-SoundCloud is a different partner and product from Moises-SoundCloud (10-22). Cross-section: checked today's gadgets candidates (no overlap). published_urls.json was too large to fully grep with Read-only tools, so the orchestrator should exact-grep the 5 URLs before roll."
   }
 }

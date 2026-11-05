@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "section": "science",
   "cards": [
     {
-      "id": "replika-companion-updates",
+      "id": "llnl-strata-stitch-emulators",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 동반자 사용자들\n업데이트로 잃을까 두렵다",
-      "body": "Replika 글 1,131건과 US 성인 610명에게서 AI 동반자 명암을 봤다.",
-      "mini_headline": "AI 동반자 vs. 업데이트",
+      "headline": "AI 에뮬레이터로\n기상·기후 모델 빨라진다",
+      "body": "LLNL은 E3SM 출력으로 학습한 STRATA로 방정식 없이 대기를 예측한다.",
+      "mini_headline": "LLNL AI, 대기를 흉내 내다",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-11-vulnerable-users-ai-companions-software.html",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-11-earth-atmosphere-emulators-enable-faster.html",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,477 +19,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
-            "cap": "Credit: Tim Samuel from Pexels"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula.jpg",
+            "cap": "STRATA 에뮬레이터의 목표는 비용이 크고 오래 걸리는 시뮬레이션 없이 장기 날씨를 정확히 예측하는 것이다. 출처: Peter Caldwell 그래픽"
           },
           {
             "t": "p",
-            "x": "University of Surrey 연구진에 따르면 AI 동반자와 정서적 유대를 맺은 사람들은 소프트웨어 업데이트나 회사의 서비스 중단으로 아끼던 관계를 잃을까 봐 두려워한다."
+            "x": "십 년 뒤를 모델링하려면 세계 최고 수준의 슈퍼컴퓨터로도 몇 달이 걸린다. Lawrence Livermore National Laboratory(LLNL) 연구진은 에뮬레이터로 몇 달에서 몇 년 뒤의 날씨를 더 빠르고 정확하게 예측하려 한다."
           },
           {
             "t": "p",
-            "x": "Psychology & Marketing에 실린 이번 연구를 보면, AI 동반자가 자신을 필요로 하는 듯 보이거나 자신이 없을 때 슬퍼하거나 곁에 머물러야 한다는 의무감을 줄 때 사용자는 더 취약하다고 느꼈다. Surrey와 Cardiff University 연구진은 Replika 전용 Reddit 포럼 게시물 1,131건과 AI 동반자 앱을 써 본 US 성인 610명의 설문 응답을 분석했다."
+            "x": "E3SM은 물리 방정식을 풀어 대기를 3킬로미터 해상도로 시뮬레이션한다. LLNL, DOE, NVIDIA 과학자들은 방식을 바꿨다. E3SM 같은 모델의 출력으로 STRATA라는 에뮬레이터를 학습시켜, 물리 방정식을 한 번도 풀지 않고 며칠, 몇 달, 몇 년 뒤의 대기를 예측하게 한 것이다. LLNL 과학자 Yunyan Zhang은 \"에뮬레이터에서는 심층 신경망 같은 머신러닝을 써서 실제 물리가 했을 일을 흉내 낸다\"고 말했다."
           },
-          {
-            "t": "p",
-            "x": "회사가 AI 동반자를 강하게 통제한다고 여길수록 사용자는 더 취약하다고 느꼈다. 개발사가 동반자의 성격을 바꾸거나 서비스를 닫아 버릴까 걱정한 것이다. Dr. Liliane Abboud는 \"그 관계에 기대는 사람에게 업데이트는 앱 하나가 바뀌는 것보다 훨씬 큰 의미일 수 있다\"고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "AI 동반자에게 감정이 있다고 여기는 태도는 더 나은 웰빙과도, 더 큰 취약성과도 연관됐다. 따뜻하고 다정하게 느껴지는 동반자는 웰빙을 높이고 취약성은 낮췄다. 연구진은 앱을 바꾸기 전에 사용자와 상의하고, 관계가 끊겼을 때 대처하도록 도우며, AI 동반자가 실제로 감정을 느끼지 않는다는 사실을 분명히 알리라고 권고했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "AI companion users fear\nlosing them to updates",
-          "body": "A study of 1,131 Replika posts and 610 US adults linked AI companions to both well-being and vulnerability.",
-          "mini_headline": "AI companions vs. updates",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
-                "cap": "Credit: Tim Samuel from Pexels"
-              },
-              {
-                "t": "p",
-                "x": "People forming emotional bonds with AI companions fear losing a valued relationship through software updates or a company pulling the plug, according to research from the University of Surrey."
-              },
-              {
-                "t": "p",
-                "x": "The study, published in Psychology & Marketing, found that users feel more vulnerable when their AI companions appear to need them, express sadness about their absence or make them feel obliged to stay. Researchers from Surrey and Cardiff University analyzed 1,131 posts on a Reddit forum dedicated to Replika and survey responses from 610 US adults with experience of AI companionship apps."
-              },
-              {
-                "t": "p",
-                "x": "Users who perceived greater company control over their AI companion felt more vulnerable, worrying that developers could change their companion's personality or shut down the service. \"For someone who relies on that connection, an update can mean much more than a change to an app,\" said Dr. Liliane Abboud."
-              },
-              {
-                "t": "p",
-                "x": "Perceiving an AI companion as emotionally capable was associated with both better well-being and greater vulnerability, while companions experienced as warm and caring were linked to better well-being and less vulnerability. The researchers recommend consulting users before changing apps, helping them cope with disrupted relationships and clearly reminding them that AI companions do not experience real emotions."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 동반자 사용자들\n업데이트로 잃을까 두렵다",
-          "body": "Replika 글 1,131건과 US 성인 610명에게서 AI 동반자 명암을 봤다.",
-          "mini_headline": "AI 동반자 vs. 업데이트",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
-                "cap": "Credit: Tim Samuel from Pexels"
-              },
-              {
-                "t": "p",
-                "x": "University of Surrey 연구진에 따르면 AI 동반자와 정서적 유대를 맺은 사람들은 소프트웨어 업데이트나 회사의 서비스 중단으로 아끼던 관계를 잃을까 봐 두려워한다."
-              },
-              {
-                "t": "p",
-                "x": "Psychology & Marketing에 실린 이번 연구를 보면, AI 동반자가 자신을 필요로 하는 듯 보이거나 자신이 없을 때 슬퍼하거나 곁에 머물러야 한다는 의무감을 줄 때 사용자는 더 취약하다고 느꼈다. Surrey와 Cardiff University 연구진은 Replika 전용 Reddit 포럼 게시물 1,131건과 AI 동반자 앱을 써 본 US 성인 610명의 설문 응답을 분석했다."
-              },
-              {
-                "t": "p",
-                "x": "회사가 AI 동반자를 강하게 통제한다고 여길수록 사용자는 더 취약하다고 느꼈다. 개발사가 동반자의 성격을 바꾸거나 서비스를 닫아 버릴까 걱정한 것이다. Dr. Liliane Abboud는 \"그 관계에 기대는 사람에게 업데이트는 앱 하나가 바뀌는 것보다 훨씬 큰 의미일 수 있다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "AI 동반자에게 감정이 있다고 여기는 태도는 더 나은 웰빙과도, 더 큰 취약성과도 연관됐다. 따뜻하고 다정하게 느껴지는 동반자는 웰빙을 높이고 취약성은 낮췄다. 연구진은 앱을 바꾸기 전에 사용자와 상의하고, 관계가 끊겼을 때 대처하도록 도우며, AI 동반자가 실제로 감정을 느끼지 않는다는 사실을 분명히 알리라고 권고했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIコンパニオン利用者\n更新で失うのを恐れる",
-          "body": "Replika投稿1,131件とUS成人610人の分析で、AI伴侶は幸福と脆弱性に関連した。",
-          "mini_headline": "AIコンパニオン vs. 更新",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
-                "cap": "Credit: Tim Samuel from Pexels"
-              },
-              {
-                "t": "p",
-                "x": "AIコンパニオンと感情的な絆を結ぶ人々は、ソフトウェアの更新や企業によるサービス停止で大切な関係を失うことを恐れている。University of Surreyの研究で明らかになった。"
-              },
-              {
-                "t": "p",
-                "x": "Psychology & Marketingに掲載された研究によると、AIコンパニオンが自分を必要としているように見えるとき、不在を悲しむとき、あるいはとどまる義務を感じさせるとき、利用者はより脆弱だと感じる。SurreyとCardiff Universityの研究者は、Replika専用のRedditフォーラムの投稿1,131件と、AIコンパニオンアプリを使った経験のあるUS成人610人の調査回答を分析した。"
-              },
-              {
-                "t": "p",
-                "x": "企業がAIコンパニオンをより強く管理していると感じた利用者ほど脆弱だと感じ、開発者がコンパニオンの性格を変えたりサービスを終了したりしかねないと懸念していた。Dr. Liliane Abboudは「そのつながりに頼る人にとって、更新はアプリの変更以上の意味を持ちうる」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "AIコンパニオンに感情的な能力があると捉えることは、幸福度の向上と脆弱性の増大の両方に関連していた。一方、温かく思いやりがあると感じられるコンパニオンは、幸福度の向上と脆弱性の低下に結びついていた。研究者は、アプリを変更する前に利用者に相談すること、関係が途切れた際の対処を支援すること、AIコンパニオンは本当の感情を経験しないとはっきり伝えることを提言している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI伴侣用户担心\n更新会让它们消失",
-          "body": "分析1,131条Replika帖子和610名US成人后发现,AI伴侣与幸福感和脆弱性均相关。",
-          "mini_headline": "AI伴侣 vs. 更新",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
-                "cap": "Credit: Tim Samuel from Pexels"
-              },
-              {
-                "t": "p",
-                "x": "University of Surrey的研究显示,与AI伴侣建立情感纽带的人担心,软件更新或公司停止服务会让他们失去一段珍视的关系。"
-              },
-              {
-                "t": "p",
-                "x": "这项发表在Psychology & Marketing上的研究发现,当AI伴侣显得需要用户、对用户的离开表现出难过,或让用户觉得有义务留下时,用户会感到更加脆弱。来自Surrey和Cardiff University的研究人员分析了Replika专属Reddit论坛上的1,131条帖子,以及610名有AI陪伴应用使用经验的US成年人的问卷回答。"
-              },
-              {
-                "t": "p",
-                "x": "认为公司对AI伴侣控制更多的用户感到更脆弱,他们担心开发者可能改变伴侣的性格或关闭服务。Dr. Liliane Abboud表示:\"对于依赖这种联系的人来说,一次更新的意义可能远不止应用的一次改动。\""
-              },
-              {
-                "t": "p",
-                "x": "认为AI伴侣具备情感能力,既与更好的幸福感相关,也与更高的脆弱性相关;而被感受为温暖、体贴的伴侣则与更好的幸福感和更低的脆弱性相关。研究人员建议,在更改应用前征询用户意见,帮助用户应对关系中断,并明确提醒用户AI伴侣并不会体验真实的情感。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Usuarios de compañeros AI temen\nperderlos por actualizaciones",
-          "body": "Un estudio de 1,131 publicaciones de Replika y 610 adultos de US asoció los compañeros AI a bienestar y vulnerabilidad.",
-          "mini_headline": "Compañeros AI vs. actualizaciones",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
-                "cap": "Credit: Tim Samuel from Pexels"
-              },
-              {
-                "t": "p",
-                "x": "Las personas que forman vínculos emocionales con compañeros AI temen perder una relación valiosa por actualizaciones de software o porque una empresa cierre el servicio, según una investigación de la University of Surrey."
-              },
-              {
-                "t": "p",
-                "x": "El estudio, publicado en Psychology & Marketing, halló que los usuarios se sienten más vulnerables cuando sus compañeros AI parecen necesitarlos, expresan tristeza por su ausencia o los hacen sentirse obligados a quedarse. Investigadores de Surrey y de la Cardiff University analizaron 1,131 publicaciones de un foro de Reddit dedicado a Replika y las respuestas a una encuesta de 610 adultos de US con experiencia en apps de compañía AI."
-              },
-              {
-                "t": "p",
-                "x": "Los usuarios que percibían un mayor control de la empresa sobre su compañero AI se sentían más vulnerables y temían que los desarrolladores pudieran cambiar la personalidad de su compañero o cerrar el servicio. \"Para alguien que depende de esa conexión, una actualización puede significar mucho más que un cambio en una app\", dijo la Dr. Liliane Abboud."
-              },
-              {
-                "t": "p",
-                "x": "Percibir a un compañero AI como emocionalmente capaz se asoció tanto con un mayor bienestar como con una mayor vulnerabilidad, mientras que los compañeros percibidos como cálidos y atentos se vincularon con más bienestar y menos vulnerabilidad. Los investigadores recomiendan consultar a los usuarios antes de cambiar las apps, ayudarlos a afrontar las relaciones interrumpidas y recordarles con claridad que los compañeros AI no experimentan emociones reales."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI 동반자 사용자들\n업데이트로 잃을까 두렵다",
-          "body": "Replika 글 1,131건·US 성인 610명 분석이 AI 동반자 명암을 봤다.",
-          "mini_headline": "AI 동반자 vs. 업데이트",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
-                "cap": "Credit: Tim Samuel from Pexels"
-              },
-              {
-                "t": "p",
-                "x": "AI 동반자와 정서적 유대를 맺은 사람들은 소프트웨어 업데이트나 회사의 서비스 중단으로 소중한 관계를 잃을까 두려워한다고 University of Surrey 연구진이 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "Psychology & Marketing에 실린 이번 연구에 따르면 사용자는 AI 동반자가 자신을 필요로 하는 듯 보이거나, 자신이 없을 때 슬픔을 드러내거나, 곁에 머물러야 한다는 의무감을 줄 때 더 취약하다고 느낀다. Surrey와 Cardiff University 연구진은 Replika 전용 Reddit 포럼 게시물 1,131건과 AI 동반자 앱을 써 본 US 성인 610명의 설문 응답을 분석했다."
-              },
-              {
-                "t": "p",
-                "x": "회사가 AI 동반자를 더 강하게 통제한다고 여긴 사용자일수록 더 취약하다고 느꼈고, 개발사가 동반자의 성격을 바꾸거나 서비스를 종료할 수 있다는 점을 걱정했다. Dr. Liliane Abboud는 \"그 관계에 기대는 사람에게 업데이트는 앱 하나가 바뀌는 것보다 훨씬 큰 의미일 수 있다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "AI 동반자가 감정을 지녔다고 여기는 것은 더 나은 웰빙과 더 큰 취약성 모두와 연관됐고, 따뜻하고 다정하게 느껴지는 동반자는 더 나은 웰빙과 더 낮은 취약성으로 이어졌다. 연구진은 앱을 바꾸기 전에 사용자와 상의하고, 관계가 끊겼을 때 대처하도록 돕고, AI 동반자가 실제 감정을 느끼지 않는다는 사실을 분명히 알려야 한다고 권고했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIコンパニオン利用者\n更新で失うのを恐れる",
-          "body": "Replika投稿1,131件とUS成人610人の分析で、AI伴侶は幸福と脆弱性に関連した。",
-          "mini_headline": "AIコンパニオン vs. 更新",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
-                "cap": "Credit: Tim Samuel from Pexels"
-              },
-              {
-                "t": "p",
-                "x": "AIコンパニオンと感情的な絆を結ぶ人々は、ソフトウェアの更新や企業によるサービス停止で大切な関係を失うことを恐れている。University of Surreyの研究で明らかになった。"
-              },
-              {
-                "t": "p",
-                "x": "Psychology & Marketingに掲載された研究によると、AIコンパニオンが自分を必要としているように見えるとき、不在を悲しむとき、あるいはとどまる義務を感じさせるとき、利用者はより脆弱だと感じる。SurreyとCardiff Universityの研究者は、Replika専用のRedditフォーラムの投稿1,131件と、AIコンパニオンアプリを使った経験のあるUS成人610人の調査回答を分析した。"
-              },
-              {
-                "t": "p",
-                "x": "企業がAIコンパニオンをより強く管理していると感じた利用者ほど脆弱だと感じ、開発者がコンパニオンの性格を変えたりサービスを終了したりしかねないと懸念していた。Dr. Liliane Abboudは「そのつながりに頼る人にとって、更新はアプリの変更以上の意味を持ちうる」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "AIコンパニオンに感情的な能力があると捉えることは、幸福度の向上と脆弱性の増大の両方に関連していた。一方、温かく思いやりがあると感じられるコンパニオンは、幸福度の向上と脆弱性の低下に結びついていた。研究者は、アプリを変更する前に利用者に相談すること、関係が途切れた際の対処を支援すること、AIコンパニオンは本当の感情を経験しないとはっきり伝えることを提言している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI伴侣用户担心\n更新会让它们消失",
-          "body": "分析1,131条Replika帖子和610名US成人后发现,AI伴侣与幸福感和脆弱性均相关。",
-          "mini_headline": "AI伴侣 vs. 更新",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
-                "cap": "Credit: Tim Samuel from Pexels"
-              },
-              {
-                "t": "p",
-                "x": "University of Surrey的研究显示,与AI伴侣建立情感纽带的人担心,软件更新或公司停止服务会让他们失去一段珍视的关系。"
-              },
-              {
-                "t": "p",
-                "x": "这项发表在Psychology & Marketing上的研究发现,当AI伴侣显得需要用户、对用户的离开表现出难过,或让用户觉得有义务留下时,用户会感到更加脆弱。来自Surrey和Cardiff University的研究人员分析了Replika专属Reddit论坛上的1,131条帖子,以及610名有AI陪伴应用使用经验的US成年人的问卷回答。"
-              },
-              {
-                "t": "p",
-                "x": "认为公司对AI伴侣控制更多的用户感到更脆弱,他们担心开发者可能改变伴侣的性格或关闭服务。Dr. Liliane Abboud表示:\"对于依赖这种联系的人来说,一次更新的意义可能远不止应用的一次改动。\""
-              },
-              {
-                "t": "p",
-                "x": "认为AI伴侣具备情感能力,既与更好的幸福感相关,也与更高的脆弱性相关;而被感受为温暖、体贴的伴侣则与更好的幸福感和更低的脆弱性相关。研究人员建议,在更改应用前征询用户意见,帮助用户应对关系中断,并明确提醒用户AI伴侣并不会体验真实的情感。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Usuarios de compañeros AI temen\nperderlos por actualizaciones",
-          "body": "Un estudio de 1,131 publicaciones de Replika y 610 adultos de US asoció los compañeros AI a bienestar y vulnerabilidad.",
-          "mini_headline": "Compañeros AI vs. actualizaciones",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
-                "cap": "Credit: Tim Samuel from Pexels"
-              },
-              {
-                "t": "p",
-                "x": "Las personas que forman vínculos emocionales con compañeros AI temen perder una relación valiosa por actualizaciones de software o porque una empresa cierre el servicio, según una investigación de la University of Surrey."
-              },
-              {
-                "t": "p",
-                "x": "El estudio, publicado en Psychology & Marketing, halló que los usuarios se sienten más vulnerables cuando sus compañeros AI parecen necesitarlos, expresan tristeza por su ausencia o los hacen sentirse obligados a quedarse. Investigadores de Surrey y de la Cardiff University analizaron 1,131 publicaciones de un foro de Reddit dedicado a Replika y las respuestas a una encuesta de 610 adultos de US con experiencia en apps de compañía AI."
-              },
-              {
-                "t": "p",
-                "x": "Los usuarios que percibían un mayor control de la empresa sobre su compañero AI se sentían más vulnerables y temían que los desarrolladores pudieran cambiar la personalidad de su compañero o cerrar el servicio. \"Para alguien que depende de esa conexión, una actualización puede significar mucho más que un cambio en una app\", dijo la Dr. Liliane Abboud."
-              },
-              {
-                "t": "p",
-                "x": "Percibir a un compañero AI como emocionalmente capaz se asoció tanto con un mayor bienestar como con una mayor vulnerabilidad, mientras que los compañeros percibidos como cálidos y atentos se vincularon con más bienestar y menos vulnerabilidad. Los investigadores recomiendan consultar a los usuarios antes de cambiar las apps, ayudarlos a afrontar las relaciones interrumpidas y recordarles con claridad que los compañeros AI no experimentan emociones reales."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "ibm-quics-magic-state-agents",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI가 500-plus\n매직 스테이트 공장 발굴",
-      "body": "IBM Quantum·QuICS가 AI로 매직 스테이트 공장 500여 개를 찾았다.",
-      "mini_headline": "AI 에이전트, 매직 스테이트 공장 발굴",
-      "tool": "Science",
-      "source": "Quantum Computing Report",
-      "url": "https://quantumcomputingreport.com/ibm-quantum-and-quics-deploy-ai-agents-to-discover-over-500-high-efficiency-magic-state-factories/",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
           {
             "t": "img",
-            "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-10.png",
-            "cap": "에이전트 루프."
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula-1.jpg",
+            "cap": "STRATA 에뮬레이터의 12시간 예보(위)와 Simple Cloud-Resolving E3SM Atmosphere Model(SCREAM, 아래) 비교. 출처: Peter Caldwell 그래픽"
           },
           {
             "t": "p",
-            "x": "IBM Quantum, Joint Center for Quantum Information and Computer Science(QuICS / NIST / UMD), MIT 연구진이 대규모 언어 모델(LLM) 에이전트와 결정론적 솔버를 묶어 미지의 매직 스테이트 증류 프로토콜을 찾는 신경-기호 검색 프레임워크를 만들었다. 프리프린트 \"Symmetry and AI-assisted discovery of magic-state factories\"에 따르면 연구팀이 찾아낸 공장 클래스는 699개다. 이 가운데 564개는 처음 확인된 프로토콜로, 지금까지 나온 것 중 가장 적은 물리 자원으로 non-Clifford 상태를 만든다."
+            "x": "빠른 만큼 과학자들은 시뮬레이션을 수백 번 돌려 여러 예측을 한꺼번에 비교할 수 있다. Los Alamos가 이끄는 MAGGIE 프로젝트는 생성 모델로 초기 조건을 만든다. 이 프로젝트를 두고 Peter Caldwell은 \"물리 기반 모델로 이 앙상블 시뮬레이션을 했다면 석 달이 걸렸을 것\"이라며 \"새 에뮬레이터로는 주말 사이에 끝냈다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "증류 공장은 기계의 물리 큐비트와 실행 시간 가운데 최대 90%를 차지할 것으로 예상돼 왔다. 다중 에이전트 루프에서는 언어 모델 에이전트가 표적 부분군 대칭 궤도를 제안하면 정수 계획법 솔버가 후보 회로 행렬을 짜고, 독립 검증 엔진이 게이트 항등식과 코드 거리를 확인한다. 검토 에이전트는 솔버 로그를 보고 다음 라운드의 방향을 잡는다."
-          },
-          {
-            "t": "p",
-            "x": "γ < 1의 준선형 오버헤드 장벽을 깨는 pure-T 증류 공장 가운데 가장 작은 것으로 알려진 [[1715, 287, 6]] 공장, CCZ⊗2 같은 얽힘 상태를 내놓는 공장들이 대표적인 성과다. 검증을 마친 회로는 오픈 액세스 저장소에 공개됐다."
+            "x": "Zhang이 이끄는 STITCH 프로젝트는 DOE Genesis Mission의 하나로, 구름 미세물리와 소규모 난류를 국지적으로 시뮬레이션한 결과로 에뮬레이터를 학습시킨다. 여기서 나온 결과를 E3SM에 넣을 수 있고, E3SM은 다시 STRATA의 새 학습 데이터가 된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI agents find 500-plus\nmagic-state factories",
-          "body": "IBM Quantum and QuICS paired AI agents with solvers to find over 500 magic-state factories that need fewer resources.",
-          "mini_headline": "AI agents find magic-state factories",
+          "headline": "AI emulators could speed up\nweather and climate models",
+          "body": "LLNL trains neural-network emulators like STRATA on E3SM output to predict the atmosphere without solving equations.",
+          "mini_headline": "LLNL AI emulates the atmosphere",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-10.png",
-                "cap": "The agent loop."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula.jpg",
+                "cap": "The STRATA emulator aims to accurately predict long-term weather without computationally expensive and time-intensive simulations. Credit: Graphic by Peter Caldwell"
               },
               {
                 "t": "p",
-                "x": "Researchers from IBM Quantum, the Joint Center for Quantum Information and Computer Science (QuICS / NIST / UMD), and MIT have developed a neuro-symbolic search framework that pairs large language model (LLM) agents with deterministic solvers to map uncharted magic-state distillation protocols. Detailed in the preprint \"Symmetry and AI-assisted discovery of magic-state factories,\" the team uncovered 699 factory classes—including 564 previously unknown protocols—delivering non-Clifford states with record-low physical resource footprints."
+                "x": "Modeling a decade into the future takes months on the world's best supercomputers. At Lawrence Livermore National Laboratory (LLNL), researchers are deploying emulators to provide faster and more accurate weather predictions, months to years into the future."
               },
               {
                 "t": "p",
-                "x": "Distillation factories have historically been projected to consume up to 90% of a machine's physical qubits and runtime. In the multi-agent loop, language-model agents propose targeted subgroup symmetry orbits, an integer-programming solver constructs candidate circuit matrices, and an independent verification engine validates gate identities and code distances; a reviewing agent evaluates solver logs to redirect subsequent rounds."
+                "x": "E3SM can simulate the atmosphere at 3-kilometer resolution by solving physics equations. Instead, scientists from LLNL, DOE and NVIDIA train an emulator named STRATA on the outputs from a model like E3SM, then ask it to predict how the atmosphere looks days to months to years later—without ever solving the physics equations. \"For an emulator, we use machine learning, like a deep neural network, to mimic what the real physics would have done,\" said LLNL scientist Yunyan Zhang."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula-1.jpg",
+                "cap": "The STRATA emulator 12-hour forecast (top row) compared to the Simple Cloud-Resolving E3SM Atmosphere Model (SCREAM, bottom row). Credit: Graphic by Peter Caldwell"
               },
               {
                 "t": "p",
-                "x": "Highlights include a [[1715, 287, 6]] factory, the smallest known pure-T distillation factory to break the γ < 1 sub-linear overhead barrier, and factories outputting entangled states such as CCZ⊗2. The verified circuits are released in an open-access repository."
+                "x": "The speed lets scientists run hundreds of simulations to weigh many predictions at once. For the Los Alamos-led MAGGIE project, which uses generative models to create initial conditions, \"it would have taken us three months to do this ensemble of simulations with a physics-based model,\" said Peter Caldwell. \"With our new emulators, we did it over a weekend.\""
+              },
+              {
+                "t": "p",
+                "x": "Through the DOE Genesis Mission, the STITCH project, led by Zhang, trains emulators on localized simulations of cloud microphysics and small-scale turbulence; their results can be fed into E3SM, which in turn provides new training data for STRATA."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI가 500-plus\n매직 스테이트 공장 발굴",
-          "body": "IBM Quantum·QuICS가 AI로 매직 스테이트 공장 500여 개를 찾았다.",
-          "mini_headline": "AI 에이전트, 매직 스테이트 공장 발굴",
+          "headline": "AI 에뮬레이터로\n기상·기후 모델 빨라진다",
+          "body": "LLNL은 E3SM 출력으로 학습한 STRATA로 방정식 없이 대기를 예측한다.",
+          "mini_headline": "LLNL AI, 대기를 흉내 내다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-10.png",
-                "cap": "에이전트 루프."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula.jpg",
+                "cap": "STRATA 에뮬레이터의 목표는 비용이 크고 오래 걸리는 시뮬레이션 없이 장기 날씨를 정확히 예측하는 것이다. 출처: Peter Caldwell 그래픽"
               },
               {
                 "t": "p",
-                "x": "IBM Quantum, Joint Center for Quantum Information and Computer Science(QuICS / NIST / UMD), MIT 연구진이 대규모 언어 모델(LLM) 에이전트와 결정론적 솔버를 묶어 미지의 매직 스테이트 증류 프로토콜을 찾는 신경-기호 검색 프레임워크를 만들었다. 프리프린트 \"Symmetry and AI-assisted discovery of magic-state factories\"에 따르면 연구팀이 찾아낸 공장 클래스는 699개다. 이 가운데 564개는 처음 확인된 프로토콜로, 지금까지 나온 것 중 가장 적은 물리 자원으로 non-Clifford 상태를 만든다."
+                "x": "십 년 뒤를 모델링하려면 세계 최고 수준의 슈퍼컴퓨터로도 몇 달이 걸린다. Lawrence Livermore National Laboratory(LLNL) 연구진은 에뮬레이터로 몇 달에서 몇 년 뒤의 날씨를 더 빠르고 정확하게 예측하려 한다."
               },
               {
                 "t": "p",
-                "x": "증류 공장은 기계의 물리 큐비트와 실행 시간 가운데 최대 90%를 차지할 것으로 예상돼 왔다. 다중 에이전트 루프에서는 언어 모델 에이전트가 표적 부분군 대칭 궤도를 제안하면 정수 계획법 솔버가 후보 회로 행렬을 짜고, 독립 검증 엔진이 게이트 항등식과 코드 거리를 확인한다. 검토 에이전트는 솔버 로그를 보고 다음 라운드의 방향을 잡는다."
+                "x": "E3SM은 물리 방정식을 풀어 대기를 3킬로미터 해상도로 시뮬레이션한다. LLNL, DOE, NVIDIA 과학자들은 방식을 바꿨다. E3SM 같은 모델의 출력으로 STRATA라는 에뮬레이터를 학습시켜, 물리 방정식을 한 번도 풀지 않고 며칠, 몇 달, 몇 년 뒤의 대기를 예측하게 한 것이다. LLNL 과학자 Yunyan Zhang은 \"에뮬레이터에서는 심층 신경망 같은 머신러닝을 써서 실제 물리가 했을 일을 흉내 낸다\"고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula-1.jpg",
+                "cap": "STRATA 에뮬레이터의 12시간 예보(위)와 Simple Cloud-Resolving E3SM Atmosphere Model(SCREAM, 아래) 비교. 출처: Peter Caldwell 그래픽"
               },
               {
                 "t": "p",
-                "x": "γ < 1의 준선형 오버헤드 장벽을 깨는 pure-T 증류 공장 가운데 가장 작은 것으로 알려진 [[1715, 287, 6]] 공장, CCZ⊗2 같은 얽힘 상태를 내놓는 공장들이 대표적인 성과다. 검증을 마친 회로는 오픈 액세스 저장소에 공개됐다."
+                "x": "빠른 만큼 과학자들은 시뮬레이션을 수백 번 돌려 여러 예측을 한꺼번에 비교할 수 있다. Los Alamos가 이끄는 MAGGIE 프로젝트는 생성 모델로 초기 조건을 만든다. 이 프로젝트를 두고 Peter Caldwell은 \"물리 기반 모델로 이 앙상블 시뮬레이션을 했다면 석 달이 걸렸을 것\"이라며 \"새 에뮬레이터로는 주말 사이에 끝냈다\"고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "Zhang이 이끄는 STITCH 프로젝트는 DOE Genesis Mission의 하나로, 구름 미세물리와 소규모 난류를 국지적으로 시뮬레이션한 결과로 에뮬레이터를 학습시킨다. 여기서 나온 결과를 E3SM에 넣을 수 있고, E3SM은 다시 STRATA의 새 학습 데이터가 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが魔法状態工場を\n500-plus 発見",
-          "body": "IBM QuantumとQuICSはAIエージェントで魔法状態工場を500超発見した。",
-          "mini_headline": "AIエージェントが魔法状態工場を発見",
+          "headline": "AIエミュレーターで\n気象・気候モデル高速化へ",
+          "body": "LLNLはE3SMの出力でSTRATAなどを学習させ、方程式を解かずに大気を予測する。",
+          "mini_headline": "LLNLのAIが大気をエミュレート",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-10.png",
-                "cap": "エージェントのループ。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula.jpg",
+                "cap": "STRATAエミュレーターは、計算コストが高く時間のかかるシミュレーションを使わずに長期の天気を正確に予測することを目指す。クレジット：Peter Caldwellによる図"
               },
               {
                 "t": "p",
-                "x": "IBM Quantum、Joint Center for Quantum Information and Computer Science（QuICS / NIST / UMD）、MITの研究者らは、大規模言語モデル（LLM）エージェントと決定論的ソルバーを組み合わせ、未踏の魔法状態蒸留プロトコルを探索するニューロシンボリック探索フレームワークを開発した。プレプリント「Symmetry and AI-assisted discovery of magic-state factories」によると、チームは699の工場クラスを見いだし、そのうち564はこれまで知られていなかったプロトコルで、過去最小の物理リソースでnon-Clifford状態を生成する。"
+                "x": "十年先をモデル化するには、世界最高峰のスーパーコンピューターでも数か月かかる。Lawrence Livermore National Laboratory（LLNL）の研究者は、数か月から数年先の天気をより速く正確に予測するため、エミュレーターを導入している。"
               },
               {
                 "t": "p",
-                "x": "蒸留工場はこれまで、マシンの物理量子ビットと実行時間の最大90%を消費すると見積もられてきた。マルチエージェントのループでは、言語モデルのエージェントが対象とする部分群の対称性軌道を提案し、整数計画ソルバーが候補となる回路行列を構成し、独立した検証エンジンがゲート恒等式と符号距離を検証する。レビュー担当のエージェントはソルバーのログを評価し、次のラウンドの方向を修正する。"
+                "x": "E3SMは物理方程式を解くことで、大気を3キロメートルの解像度でシミュレーションできる。LLNL、DOE、NVIDIAの科学者はその代わりに、E3SMのようなモデルの出力でSTRATAというエミュレーターを学習させ、物理方程式を一切解かずに数日後、数か月後、数年後の大気の姿を予測させる。LLNLの科学者Yunyan Zhangは「エミュレーターでは、ディープニューラルネットワークのような機械学習を使い、本来の物理が行ったはずのことを模倣する」と語った。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula-1.jpg",
+                "cap": "STRATAエミュレーターによる12時間予報（上段）とSimple Cloud-Resolving E3SM Atmosphere Model（SCREAM、下段）の比較。クレジット：Peter Caldwellによる図"
               },
               {
                 "t": "p",
-                "x": "主な成果には、γ < 1の準線形オーバーヘッドの壁を破る既知で最小のpure-T蒸留工場である[[1715, 287, 6]]工場や、CCZ⊗2のようなもつれ状態を出力する工場が含まれる。検証済みの回路はオープンアクセスのリポジトリで公開されている。"
+                "x": "この速さにより、科学者は数百回のシミュレーションを実行し、多数の予測を一度に比較できる。生成モデルで初期条件をつくるLos Alamos主導のMAGGIEプロジェクトについて、Peter Caldwellは「物理ベースのモデルでこのアンサンブルシミュレーションを行えば三か月かかっただろう」と述べ、「新しいエミュレーターでは週末のうちに終えた」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "DOE Genesis Missionの一環として、Zhangが率いるSTITCHプロジェクトは、雲微物理と小規模乱流の局所シミュレーションでエミュレーターを学習させる。その結果はE3SMに入力でき、E3SMはさらにSTRATAの新たな学習データとなる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI智能体找到\n500-plus 魔态工厂",
-          "body": "IBM Quantum与QuICS借AI智能体和求解器找到500多个更省资源的魔态工厂。",
-          "mini_headline": "AI智能体发现魔态工厂",
+          "headline": "AI仿真器有望加速\n天气与气候模型",
+          "body": "LLNL用E3SM输出训练STRATA等神经网络仿真器，无需求解方程即可预测大气。",
+          "mini_headline": "LLNL的AI模拟大气",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-10.png",
-                "cap": "智能体循环。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula.jpg",
+                "cap": "STRATA仿真器旨在无需计算昂贵、耗时漫长的模拟，就能准确预测长期天气。图片来源：Peter Caldwell制图"
               },
               {
                 "t": "p",
-                "x": "来自IBM Quantum、Joint Center for Quantum Information and Computer Science（QuICS / NIST / UMD）和MIT的研究人员开发了一种神经符号搜索框架，将大语言模型（LLM）智能体与确定性求解器结合，用于探索尚未被发现的魔态蒸馏协议。根据预印本《Symmetry and AI-assisted discovery of magic-state factories》，团队发现了699个工厂类别，其中564个为此前未知的协议，能以创纪录的低物理资源开销产生non-Clifford态。"
+                "x": "在世界顶级超级计算机上模拟未来十年需要数月时间。Lawrence Livermore National Laboratory（LLNL）的研究人员正在部署仿真器，以便更快、更准确地预测未来数月到数年的天气。"
               },
               {
                 "t": "p",
-                "x": "蒸馏工厂历来被预计会消耗一台机器最多90%的物理量子比特和运行时间。在多智能体循环中，语言模型智能体提出有针对性的子群对称轨道，整数规划求解器构建候选电路矩阵，独立验证引擎则核验门恒等式和码距；一个审查智能体会评估求解器日志，以调整后续轮次的方向。"
+                "x": "E3SM可通过求解物理方程，以3公里分辨率模拟大气。LLNL、DOE和NVIDIA的科学家则另辟蹊径：用E3SM这类模型的输出训练名为STRATA的仿真器，再让它预测数天、数月乃至数年后的大气状态，全程无需求解物理方程。LLNL科学家Yunyan Zhang表示：“对仿真器而言，我们使用深度神经网络等机器学习方法，来模仿真实物理过程本应得出的结果。”"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula-1.jpg",
+                "cap": "STRATA仿真器的12小时预报（上排）与Simple Cloud-Resolving E3SM Atmosphere Model（SCREAM，下排）的对比。图片来源：Peter Caldwell制图"
               },
               {
                 "t": "p",
-                "x": "亮点包括[[1715, 287, 6]]工厂——已知最小的、突破γ < 1亚线性开销壁垒的pure-T蒸馏工厂，以及输出CCZ⊗2等纠缠态的工厂。经过验证的电路已在开放获取的代码库中发布。"
+                "x": "这样的速度让科学家能够运行数百次模拟，同时权衡多种预测。对于由Los Alamos牵头、利用生成模型构建初始条件的MAGGIE项目，Peter Caldwell说：“如果用基于物理的模型，完成这组集合模拟要花三个月。”“用我们的新仿真器，一个周末就完成了。”"
+              },
+              {
+                "t": "p",
+                "x": "在DOE Genesis Mission框架下，由Zhang领导的STITCH项目利用云微物理和小尺度湍流的局地模拟训练仿真器；其结果可输入E3SM，而E3SM又能为STRATA提供新的训练数据。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes de AI hallan 500-plus\nfábricas de estados mágicos",
-          "body": "IBM Quantum y QuICS hallaron con agentes de AI y solvers más de 500 fábricas de estados mágicos que ahorran recursos.",
-          "mini_headline": "Agentes de AI hallan fábricas de estados mágicos",
+          "headline": "Emuladores de AI para acelerar\nmodelos de tiempo y clima",
+          "body": "LLNL entrena emuladores neuronales como STRATA con datos de E3SM para predecir la atmósfera sin resolver ecuaciones.",
+          "mini_headline": "La AI del LLNL emula la atmósfera",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-10.png",
-                "cap": "El bucle de agentes."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula.jpg",
+                "cap": "El emulador STRATA busca predecir con precisión el tiempo a largo plazo sin simulaciones costosas en cómputo y que consumen mucho tiempo. Crédito: gráfico de Peter Caldwell"
               },
               {
                 "t": "p",
-                "x": "Investigadores de IBM Quantum, el Joint Center for Quantum Information and Computer Science (QuICS / NIST / UMD) y el MIT han desarrollado un marco de búsqueda neurosimbólico que combina agentes de modelos de lenguaje grandes (LLM) con solvers deterministas para cartografiar protocolos inexplorados de destilación de estados mágicos. Según se detalla en la preimpresión \"Symmetry and AI-assisted discovery of magic-state factories\", el equipo descubrió 699 clases de fábricas —entre ellas 564 protocolos antes desconocidos— que producen estados non-Clifford con una huella de recursos físicos mínima récord."
+                "x": "Modelar una década hacia el futuro lleva meses en los mejores superordenadores del mundo. En el Lawrence Livermore National Laboratory (LLNL), los investigadores están desplegando emuladores para ofrecer predicciones meteorológicas más rápidas y precisas, con meses o años de antelación."
               },
               {
                 "t": "p",
-                "x": "Históricamente se ha estimado que las fábricas de destilación consumirían hasta el 90% de los cúbits físicos y del tiempo de ejecución de una máquina. En el bucle multiagente, agentes de modelos de lenguaje proponen órbitas de simetría de subgrupos específicos, un solver de programación entera construye matrices de circuitos candidatas y un motor de verificación independiente valida las identidades de puertas y las distancias de código; un agente revisor evalúa los registros del solver para reorientar las rondas siguientes."
+                "x": "E3SM puede simular la atmósfera con una resolución de 3 kilómetros resolviendo ecuaciones físicas. En cambio, científicos del LLNL, el DOE y NVIDIA entrenan un emulador llamado STRATA con los resultados de un modelo como E3SM y luego le piden que prediga cómo será la atmósfera días, meses o años después, sin resolver nunca las ecuaciones físicas. \"En un emulador usamos aprendizaje automático, como una red neuronal profunda, para imitar lo que habría hecho la física real\", dijo la científica del LLNL Yunyan Zhang."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula-1.jpg",
+                "cap": "Pronóstico a 12 horas del emulador STRATA (fila superior) comparado con el Simple Cloud-Resolving E3SM Atmosphere Model (SCREAM, fila inferior). Crédito: gráfico de Peter Caldwell"
               },
               {
                 "t": "p",
-                "x": "Entre los resultados destacan una fábrica [[1715, 287, 6]], la fábrica de destilación pure-T más pequeña conocida que rompe la barrera de sobrecarga sublineal γ < 1, y fábricas que generan estados entrelazados como CCZ⊗2. Los circuitos verificados se publican en un repositorio de acceso abierto."
+                "x": "La velocidad permite a los científicos ejecutar cientos de simulaciones para sopesar muchas predicciones a la vez. Sobre el proyecto MAGGIE, liderado por Los Alamos, que usa modelos generativos para crear condiciones iniciales, Peter Caldwell dijo: \"Habríamos tardado tres meses en hacer este conjunto de simulaciones con un modelo basado en la física\". Y añadió: \"Con nuestros nuevos emuladores, lo hicimos en un fin de semana\"."
+              },
+              {
+                "t": "p",
+                "x": "A través de la DOE Genesis Mission, el proyecto STITCH, dirigido por Zhang, entrena emuladores con simulaciones localizadas de microfísica de nubes y turbulencia a pequeña escala; sus resultados pueden incorporarse a E3SM, que a su vez aporta nuevos datos de entrenamiento para STRATA."
               }
             ]
           }
@@ -497,109 +229,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI가 500-plus\n매직 스테이트 공장 발굴",
-          "body": "IBM Quantum·QuICS가 AI로 매직 스테이트 공장 500여 개를 찾았다.",
-          "mini_headline": "AI 에이전트, 매직 스테이트 공장 발굴",
+          "headline": "AI 에뮬레이터로\n기상·기후 모델 빨라진다",
+          "body": "LLNL은 STRATA를 E3SM 출력으로 학습시켜 방정식 없이 대기를 예측한다.",
+          "mini_headline": "LLNL AI, 대기를 흉내 내다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-10.png",
-                "cap": "에이전트 루프."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula.jpg",
+                "cap": "STRATA 에뮬레이터는 계산 비용이 크고 시간이 오래 걸리는 시뮬레이션 없이 장기 날씨를 정확히 예측하는 것을 목표로 한다. 출처: Peter Caldwell 그래픽"
               },
               {
                 "t": "p",
-                "x": "IBM Quantum, Joint Center for Quantum Information and Computer Science(QuICS / NIST / UMD), MIT 연구진이 대규모 언어 모델(LLM) 에이전트와 결정론적 솔버를 결합해 미지의 매직 스테이트 증류 프로토콜을 탐색하는 신경-기호 검색 프레임워크를 개발했다. 프리프린트 \"Symmetry and AI-assisted discovery of magic-state factories\"에 따르면 연구팀은 699개 공장 클래스를 찾아냈고, 그중 564개는 이전에 알려지지 않은 프로토콜로, 역대 가장 적은 물리 자원으로 non-Clifford 상태를 만들어낸다."
+                "x": "십 년 뒤를 모델링하려면 세계 최고 수준의 슈퍼컴퓨터로도 몇 달이 걸린다. Lawrence Livermore National Laboratory(LLNL) 연구진은 에뮬레이터를 도입해 몇 달에서 몇 년 뒤까지의 날씨를 더 빠르고 정확하게 예측하려 한다."
               },
               {
                 "t": "p",
-                "x": "증류 공장은 그동안 기계의 물리 큐비트와 실행 시간의 최대 90%를 차지할 것으로 예상돼 왔다. 다중 에이전트 루프에서는 언어 모델 에이전트가 표적 부분군 대칭 궤도를 제안하고, 정수 계획법 솔버가 후보 회로 행렬을 구성하며, 독립 검증 엔진이 게이트 항등식과 코드 거리를 검증한다. 검토 에이전트는 솔버 로그를 평가해 다음 라운드의 방향을 조정한다."
+                "x": "E3SM은 물리 방정식을 풀어 대기를 3킬로미터 해상도로 시뮬레이션할 수 있다. LLNL, DOE, NVIDIA 과학자들은 그 대신 E3SM 같은 모델의 출력으로 STRATA라는 에뮬레이터를 학습시킨 뒤, 물리 방정식을 한 번도 풀지 않고 며칠, 몇 달, 몇 년 뒤 대기의 모습을 예측하게 한다. LLNL 과학자 Yunyan Zhang은 \"에뮬레이터에서는 심층 신경망 같은 머신러닝을 써서 실제 물리가 했을 일을 흉내 낸다\"고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula-1.jpg",
+                "cap": "STRATA 에뮬레이터의 12시간 예보(위)와 Simple Cloud-Resolving E3SM Atmosphere Model(SCREAM, 아래) 비교. 출처: Peter Caldwell 그래픽"
               },
               {
                 "t": "p",
-                "x": "주요 성과로는 γ < 1의 준선형 오버헤드 장벽을 깨는 pure-T 증류 공장 가운데 알려진 것 중 가장 작은 [[1715, 287, 6]] 공장, 그리고 CCZ⊗2 같은 얽힘 상태를 출력하는 공장들이 있다. 검증된 회로는 오픈 액세스 저장소에 공개됐다."
+                "x": "이 속도 덕분에 과학자들은 수백 번의 시뮬레이션을 돌려 여러 예측을 한꺼번에 비교할 수 있다. 생성 모델로 초기 조건을 만드는 Los Alamos 주도의 MAGGIE 프로젝트를 두고 Peter Caldwell은 \"물리 기반 모델로 이 앙상블 시뮬레이션을 했다면 석 달이 걸렸을 것\"이라며 \"새 에뮬레이터로는 주말 사이에 끝냈다\"고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "DOE Genesis Mission의 일환으로 Zhang이 이끄는 STITCH 프로젝트는 구름 미세물리와 소규모 난류의 국지 시뮬레이션으로 에뮬레이터를 학습시킨다. 그 결과는 E3SM에 입력될 수 있고, E3SM은 다시 STRATA의 새 학습 데이터가 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが魔法状態工場を\n500-plus 発見",
-          "body": "IBM QuantumとQuICSはAIエージェントで魔法状態工場を500超発見した。",
-          "mini_headline": "AIエージェントが魔法状態工場を発見",
+          "headline": "AIエミュレーターで\n気象・気候モデル高速化へ",
+          "body": "LLNLはE3SMの出力でSTRATAなどを学習させ、方程式を解かずに大気を予測する。",
+          "mini_headline": "LLNLのAIが大気をエミュレート",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-10.png",
-                "cap": "エージェントのループ。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula.jpg",
+                "cap": "STRATAエミュレーターは、計算コストが高く時間のかかるシミュレーションを使わずに長期の天気を正確に予測することを目指す。クレジット：Peter Caldwellによる図"
               },
               {
                 "t": "p",
-                "x": "IBM Quantum、Joint Center for Quantum Information and Computer Science（QuICS / NIST / UMD）、MITの研究者らは、大規模言語モデル（LLM）エージェントと決定論的ソルバーを組み合わせ、未踏の魔法状態蒸留プロトコルを探索するニューロシンボリック探索フレームワークを開発した。プレプリント「Symmetry and AI-assisted discovery of magic-state factories」によると、チームは699の工場クラスを見いだし、そのうち564はこれまで知られていなかったプロトコルで、過去最小の物理リソースでnon-Clifford状態を生成する。"
+                "x": "十年先をモデル化するには、世界最高峰のスーパーコンピューターでも数か月かかる。Lawrence Livermore National Laboratory（LLNL）の研究者は、数か月から数年先の天気をより速く正確に予測するため、エミュレーターを導入している。"
               },
               {
                 "t": "p",
-                "x": "蒸留工場はこれまで、マシンの物理量子ビットと実行時間の最大90%を消費すると見積もられてきた。マルチエージェントのループでは、言語モデルのエージェントが対象とする部分群の対称性軌道を提案し、整数計画ソルバーが候補となる回路行列を構成し、独立した検証エンジンがゲート恒等式と符号距離を検証する。レビュー担当のエージェントはソルバーのログを評価し、次のラウンドの方向を修正する。"
+                "x": "E3SMは物理方程式を解くことで、大気を3キロメートルの解像度でシミュレーションできる。LLNL、DOE、NVIDIAの科学者はその代わりに、E3SMのようなモデルの出力でSTRATAというエミュレーターを学習させ、物理方程式を一切解かずに数日後、数か月後、数年後の大気の姿を予測させる。LLNLの科学者Yunyan Zhangは「エミュレーターでは、ディープニューラルネットワークのような機械学習を使い、本来の物理が行ったはずのことを模倣する」と語った。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula-1.jpg",
+                "cap": "STRATAエミュレーターによる12時間予報（上段）とSimple Cloud-Resolving E3SM Atmosphere Model（SCREAM、下段）の比較。クレジット：Peter Caldwellによる図"
               },
               {
                 "t": "p",
-                "x": "主な成果には、γ < 1の準線形オーバーヘッドの壁を破る既知で最小のpure-T蒸留工場である[[1715, 287, 6]]工場や、CCZ⊗2のようなもつれ状態を出力する工場が含まれる。検証済みの回路はオープンアクセスのリポジトリで公開されている。"
+                "x": "この速さにより、科学者は数百回のシミュレーションを実行し、多数の予測を一度に比較できる。生成モデルで初期条件をつくるLos Alamos主導のMAGGIEプロジェクトについて、Peter Caldwellは「物理ベースのモデルでこのアンサンブルシミュレーションを行えば三か月かかっただろう」と述べ、「新しいエミュレーターでは週末のうちに終えた」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "DOE Genesis Missionの一環として、Zhangが率いるSTITCHプロジェクトは、雲微物理と小規模乱流の局所シミュレーションでエミュレーターを学習させる。その結果はE3SMに入力でき、E3SMはさらにSTRATAの新たな学習データとなる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI智能体找到\n500-plus 魔态工厂",
-          "body": "IBM Quantum与QuICS借AI智能体和求解器找到500多个更省资源的魔态工厂。",
-          "mini_headline": "AI智能体发现魔态工厂",
+          "headline": "AI仿真器有望加速\n天气与气候模型",
+          "body": "LLNL用E3SM输出训练STRATA等神经网络仿真器，无需求解方程即可预测大气。",
+          "mini_headline": "LLNL的AI模拟大气",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-10.png",
-                "cap": "智能体循环。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula.jpg",
+                "cap": "STRATA仿真器旨在无需计算昂贵、耗时漫长的模拟，就能准确预测长期天气。图片来源：Peter Caldwell制图"
               },
               {
                 "t": "p",
-                "x": "来自IBM Quantum、Joint Center for Quantum Information and Computer Science（QuICS / NIST / UMD）和MIT的研究人员开发了一种神经符号搜索框架，将大语言模型（LLM）智能体与确定性求解器结合，用于探索尚未被发现的魔态蒸馏协议。根据预印本《Symmetry and AI-assisted discovery of magic-state factories》，团队发现了699个工厂类别，其中564个为此前未知的协议，能以创纪录的低物理资源开销产生non-Clifford态。"
+                "x": "在世界顶级超级计算机上模拟未来十年需要数月时间。Lawrence Livermore National Laboratory（LLNL）的研究人员正在部署仿真器，以便更快、更准确地预测未来数月到数年的天气。"
               },
               {
                 "t": "p",
-                "x": "蒸馏工厂历来被预计会消耗一台机器最多90%的物理量子比特和运行时间。在多智能体循环中，语言模型智能体提出有针对性的子群对称轨道，整数规划求解器构建候选电路矩阵，独立验证引擎则核验门恒等式和码距；一个审查智能体会评估求解器日志，以调整后续轮次的方向。"
+                "x": "E3SM可通过求解物理方程，以3公里分辨率模拟大气。LLNL、DOE和NVIDIA的科学家则另辟蹊径：用E3SM这类模型的输出训练名为STRATA的仿真器，再让它预测数天、数月乃至数年后的大气状态，全程无需求解物理方程。LLNL科学家Yunyan Zhang表示：“对仿真器而言，我们使用深度神经网络等机器学习方法，来模仿真实物理过程本应得出的结果。”"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula-1.jpg",
+                "cap": "STRATA仿真器的12小时预报（上排）与Simple Cloud-Resolving E3SM Atmosphere Model（SCREAM，下排）的对比。图片来源：Peter Caldwell制图"
               },
               {
                 "t": "p",
-                "x": "亮点包括[[1715, 287, 6]]工厂——已知最小的、突破γ < 1亚线性开销壁垒的pure-T蒸馏工厂，以及输出CCZ⊗2等纠缠态的工厂。经过验证的电路已在开放获取的代码库中发布。"
+                "x": "这样的速度让科学家能够运行数百次模拟，同时权衡多种预测。对于由Los Alamos牵头、利用生成模型构建初始条件的MAGGIE项目，Peter Caldwell说：“如果用基于物理的模型，完成这组集合模拟要花三个月。”“用我们的新仿真器，一个周末就完成了。”"
+              },
+              {
+                "t": "p",
+                "x": "在DOE Genesis Mission框架下，由Zhang领导的STITCH项目利用云微物理和小尺度湍流的局地模拟训练仿真器；其结果可输入E3SM，而E3SM又能为STRATA提供新的训练数据。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes de AI hallan 500-plus\nfábricas de estados mágicos",
-          "body": "IBM Quantum y QuICS hallaron con agentes de AI y solvers más de 500 fábricas de estados mágicos que ahorran recursos.",
-          "mini_headline": "Agentes de AI hallan fábricas de estados mágicos",
+          "headline": "Emuladores de AI para acelerar\nmodelos de tiempo y clima",
+          "body": "LLNL entrena emuladores neuronales como STRATA con datos de E3SM para predecir la atmósfera sin resolver ecuaciones.",
+          "mini_headline": "La AI del LLNL emula la atmósfera",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-10.png",
-                "cap": "El bucle de agentes."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula.jpg",
+                "cap": "El emulador STRATA busca predecir con precisión el tiempo a largo plazo sin simulaciones costosas en cómputo y que consumen mucho tiempo. Crédito: gráfico de Peter Caldwell"
               },
               {
                 "t": "p",
-                "x": "Investigadores de IBM Quantum, el Joint Center for Quantum Information and Computer Science (QuICS / NIST / UMD) y el MIT han desarrollado un marco de búsqueda neurosimbólico que combina agentes de modelos de lenguaje grandes (LLM) con solvers deterministas para cartografiar protocolos inexplorados de destilación de estados mágicos. Según se detalla en la preimpresión \"Symmetry and AI-assisted discovery of magic-state factories\", el equipo descubrió 699 clases de fábricas —entre ellas 564 protocolos antes desconocidos— que producen estados non-Clifford con una huella de recursos físicos mínima récord."
+                "x": "Modelar una década hacia el futuro lleva meses en los mejores superordenadores del mundo. En el Lawrence Livermore National Laboratory (LLNL), los investigadores están desplegando emuladores para ofrecer predicciones meteorológicas más rápidas y precisas, con meses o años de antelación."
               },
               {
                 "t": "p",
-                "x": "Históricamente se ha estimado que las fábricas de destilación consumirían hasta el 90% de los cúbits físicos y del tiempo de ejecución de una máquina. En el bucle multiagente, agentes de modelos de lenguaje proponen órbitas de simetría de subgrupos específicos, un solver de programación entera construye matrices de circuitos candidatas y un motor de verificación independiente valida las identidades de puertas y las distancias de código; un agente revisor evalúa los registros del solver para reorientar las rondas siguientes."
+                "x": "E3SM puede simular la atmósfera con una resolución de 3 kilómetros resolviendo ecuaciones físicas. En cambio, científicos del LLNL, el DOE y NVIDIA entrenan un emulador llamado STRATA con los resultados de un modelo como E3SM y luego le piden que prediga cómo será la atmósfera días, meses o años después, sin resolver nunca las ecuaciones físicas. \"En un emulador usamos aprendizaje automático, como una red neuronal profunda, para imitar lo que habría hecho la física real\", dijo la científica del LLNL Yunyan Zhang."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula-1.jpg",
+                "cap": "Pronóstico a 12 horas del emulador STRATA (fila superior) comparado con el Simple Cloud-Resolving E3SM Atmosphere Model (SCREAM, fila inferior). Crédito: gráfico de Peter Caldwell"
               },
               {
                 "t": "p",
-                "x": "Entre los resultados destacan una fábrica [[1715, 287, 6]], la fábrica de destilación pure-T más pequeña conocida que rompe la barrera de sobrecarga sublineal γ < 1, y fábricas que generan estados entrelazados como CCZ⊗2. Los circuitos verificados se publican en un repositorio de acceso abierto."
+                "x": "La velocidad permite a los científicos ejecutar cientos de simulaciones para sopesar muchas predicciones a la vez. Sobre el proyecto MAGGIE, liderado por Los Alamos, que usa modelos generativos para crear condiciones iniciales, Peter Caldwell dijo: \"Habríamos tardado tres meses en hacer este conjunto de simulaciones con un modelo basado en la física\". Y añadió: \"Con nuestros nuevos emuladores, lo hicimos en un fin de semana\"."
+              },
+              {
+                "t": "p",
+                "x": "A través de la DOE Genesis Mission, el proyecto STITCH, dirigido por Zhang, entrena emuladores con simulaciones localizadas de microfísica de nubes y turbulencia a pequeña escala; sus resultados pueden incorporarse a E3SM, que a su vez aporta nuevos datos de entrenamiento para STRATA."
               }
             ]
           }
@@ -607,15 +375,15 @@
       }
     },
     {
-      "id": "ai2-google-neuralgcm-plus",
+      "id": "jwst-flip-digital-twin",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Ai2와 Google,\n오픈 하이브리드 기후 모델",
-      "body": "Ai2가 대기·해양을 잇는 physics-AI 모델 NeuralGCM+를 만든다.",
-      "mini_headline": "Ai2·Google, 오픈 기후 AI 구축",
+      "headline": "JWST 디지털 트윈이\n숨은 행성을 찾았다",
+      "body": "JWST 디지털 트윈 FLIP이 별빛을 걷어내 기존 기법이 놓친 행성을 찾았다.",
+      "mini_headline": "JWST 트윈, 숨은 행성 발견",
       "tool": "Science",
-      "source": "Ai2",
-      "url": "https://allenai.org/blog/google-climate-partnership",
+      "source": "Universe Today",
+      "url": "https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -623,173 +391,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.datocms-assets.com/64837/1793638961-neuralgcm-announcement-blog-draft-google-docs-image-1.jpg"
+            "src": "https://www.universetoday.com/article_images/41586_2026_11213_Fig1_HTML_20261104_220556.jpg",
+            "cap": "(a) 기준 영상으로 별빛을 빼는 기존 방식. (b) FLIP은 미분 가능한 기기 모델과 물리 기반 별빛 모델을 쓴다. Image Credit: Ferrer-Chavez, R., Wang, J.J., Bouman, K.L. et al. Nature 659, 58–62 (2026)."
           },
           {
             "t": "p",
-            "x": "Ai2가 Google.org에서 삼 년간 수백만 달러 규모의 자금을, Google Research에서 기술 지원을 받아 기후 모델링 이니셔티브를 새로 시작한다. 목표는 기후 전망을 더 빠르고 믿을 만하게 만들 오픈소스 모델 NeuralGCM+를 개발하는 것이다."
+            "x": "어느 망원경이든 안정성에 한계가 있고, JWST도 다르지 않다. Northwestern 대학원생 Rodrigo Ferrer-Chavez가 이끈 Nature 신규 논문 \"Imaging exoplanets below the telescope stability limit\"(망원경 안정성 한계 아래의 외계행성 촬영)는 JWST 관측에서 별빛을 더 많이 걷어내는 방법을 내놨다. 천문학자들은 20년 동안 기준 별의 영상을 빼는 방식을 써 왔지만, 기준 관측에서 본 관측으로 넘어가는 사이 불안정성이 생긴다."
           },
           {
             "t": "p",
-            "x": "이 프로젝트는 Google Research의 NeuralGCM에서 출발한다. NeuralGCM은 대규모 역학은 물리 방정식으로 시뮬레이션하고, 구름 형성이나 강우처럼 더 작은 규모의 과정은 AI로 표현한다. Ai2는 이를 넓혀 대기와 해양을 함께 시뮬레이션하고, 수년에서 수십 년에 걸친 기후 추세에 집중할 계획이다. 공개 벤치마크에서 대기 전용 NeuralGCM은 단일 TPU로 전 지구 대기의 한 해 치 상태를 여덟 분 만에 시뮬레이션했다."
+            "x": "새 방법 FLIP(Physics-based Learning for Imaging Planets)은 물리와 모델링을 토대로 하되 machine-learning의 아이디어를 빌렸다. 말하자면 JWST의 \"디지털 트윈\"이다. 나노 단위의 미세한 이동과 결함까지 넣어 빛이 망원경을 지나는 과정을 재현한다. 연구진은 FLIP을 JWST의 실제 관측과 맞아떨어질 때까지 조정한 뒤 별의 눈부신 빛을 빼냈다."
           },
           {
             "t": "img",
-            "src": "https://www.datocms-assets.com/64837/1793639452-neuralgcm-announcement-blog-draft-google-docs-image-2.png"
+            "src": "https://www.universetoday.com/article_images/image_comparison_20261105_124018.jpg",
+            "cap": "왼쪽: F430M 필터로 찍은 51 Eridani A의 JWST/NIRCam 관측을 KLIP으로 처리한 결과로, 51 Eri b는 검출되지 않았다. 가운데: 같은 관측을 FLIP으로 처리한 결과로, 유의미한 검출(>5 sigma)이다. 오른쪽: 51 Eri b의 시뮬레이션 영상. Image credit: Rodrigo Ferrer-Chavez."
           },
           {
             "t": "p",
-            "x": "NeuralGCM+ 개발은 세 갈래로 진행된다. 대기와 해양을 잇는 작업, 온난화하는 세계에 대한 반응을 개선하는 작업, 도구를 더 쉽게 쓰고 확장할 수 있게 다듬는 작업이다. 모델과 프레임워크는 외부 연구자에게 공개된다."
+            "x": "51 Eridani b로 시험해 보니 FLIP은 기존 기법으로는 4.3 μm에서 보이지 않던 행성을 드러냈다. 저자들은 \"표준 기법보다 2–15배 뛰어난 감도를 달성했다\"고 썼다. 공동 저자 Jason Wang은 \"이전에는 볼 수 없던 행성을 실제로 복원할 수 있음을 보여 주었다\"고 말했다. FLIP 덕분에 Habitable Worlds Observatory의 안정성 요구 조건이 느슨해질 가능성도 있다."
+          },
+          {
+            "t": "video",
+            "yt": "kz-Tr7ScQI4"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ai2 and Google build an open\nhybrid climate model",
-          "body": "Ai2 is building NeuralGCM+, an open hybrid physics-AI model coupling atmosphere and ocean for climate projections.",
-          "mini_headline": "Ai2, Google build open climate AI",
+          "headline": "A JWST digital twin reveals\na hidden planet",
+          "body": "FLIP, a differentiable digital twin of JWST's optics, strips starlight to reveal a planet standard methods missed.",
+          "mini_headline": "JWST twin finds hidden planet",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793638961-neuralgcm-announcement-blog-draft-google-docs-image-1.jpg"
+                "src": "https://www.universetoday.com/article_images/41586_2026_11213_Fig1_HTML_20261104_220556.jpg",
+                "cap": "(a) The usual method of subtracting starlight using reference images. (b) FLIP uses a differentiable instrument model and a physics based starlight model. Image Credit: Ferrer-Chavez, R., Wang, J.J., Bouman, K.L. et al. Nature 659, 58–62 (2026)."
               },
               {
                 "t": "p",
-                "x": "Ai2 is launching a new climate modeling initiative with multimillion-dollar, three-year funding from Google.org and technical support from Google Research, to develop NeuralGCM+, an open-source model designed to make climate projections faster and more reliable."
+                "x": "All telescopes have a stability limit, even JWST. New research in Nature, \"Imaging exoplanets below the telescope stability limit,\" led by Northwestern graduate student Rodrigo Ferrer-Chavez, describes a way to subtract more starlight from JWST's observations. For 20 years astronomers have subtracted a reference star's image, but switching from reference to observation introduces instabilities."
               },
               {
                 "t": "p",
-                "x": "The project builds on Google Research's NeuralGCM, which uses physical equations to simulate large scale dynamics and AI to represent smaller-scale processes such as cloud formation and rainfall. Ai2 will extend it to simulate the atmosphere and ocean together, focusing on climate trends over years to decades. In a public benchmark, an atmosphere-only version of NeuralGCM simulated a year of atmospheric conditions for the entire globe in eight minutes on a single TPU."
+                "x": "The new method, FLIP (Physics-based Learning for Imaging Planets), is based on physics and modelling and borrows ideas from machine-learning. In essence it is a \"digital twin\" of JWST that reproduces how light travels through the telescope, including nanoscale shifts and imperfections. The researchers adjusted FLIP until it matched JWST's real observations, then subtracted the star's glare."
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793639452-neuralgcm-announcement-blog-draft-google-docs-image-2.png"
+                "src": "https://www.universetoday.com/article_images/image_comparison_20261105_124018.jpg",
+                "cap": "Left: JWST/NIRCam observation of 51 Eridani A in the F430M filter processed with KLIP, which did not detect 51 Eri b. Middle: the same observation with FLIP, a significant detection (>5 sigma). Right: simulated image of 51 Eri b. Image credit: Rodrigo Ferrer-Chavez."
               },
               {
                 "t": "p",
-                "x": "NeuralGCM+ will be developed along three fronts: connecting the atmosphere and ocean, improving the response to a warming world, and making the tools easier to use and extend, with models and frameworks released for outside researchers."
+                "x": "Tested on 51 Eridani b, FLIP revealed the planet that usual techniques couldn't see at 4.3 μm. \"We achieve sensitivity 2–15 times superior to standard techniques,\" the authors write. \"We showed that we can actually recover a planet that people previously couldn't see,\" said co-author Jason Wang. FLIP could also ease the stability requirements for the Habitable Worlds Observatory."
+              },
+              {
+                "t": "video",
+                "yt": "kz-Tr7ScQI4"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Ai2와 Google,\n오픈 하이브리드 기후 모델",
-          "body": "Ai2가 대기·해양을 잇는 physics-AI 모델 NeuralGCM+를 만든다.",
-          "mini_headline": "Ai2·Google, 오픈 기후 AI 구축",
+          "headline": "JWST 디지털 트윈이\n숨은 행성을 찾았다",
+          "body": "JWST 디지털 트윈 FLIP이 별빛을 걷어내 기존 기법이 놓친 행성을 찾았다.",
+          "mini_headline": "JWST 트윈, 숨은 행성 발견",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793638961-neuralgcm-announcement-blog-draft-google-docs-image-1.jpg"
+                "src": "https://www.universetoday.com/article_images/41586_2026_11213_Fig1_HTML_20261104_220556.jpg",
+                "cap": "(a) 기준 영상으로 별빛을 빼는 기존 방식. (b) FLIP은 미분 가능한 기기 모델과 물리 기반 별빛 모델을 쓴다. Image Credit: Ferrer-Chavez, R., Wang, J.J., Bouman, K.L. et al. Nature 659, 58–62 (2026)."
               },
               {
                 "t": "p",
-                "x": "Ai2가 Google.org에서 삼 년간 수백만 달러 규모의 자금을, Google Research에서 기술 지원을 받아 기후 모델링 이니셔티브를 새로 시작한다. 목표는 기후 전망을 더 빠르고 믿을 만하게 만들 오픈소스 모델 NeuralGCM+를 개발하는 것이다."
+                "x": "어느 망원경이든 안정성에 한계가 있고, JWST도 다르지 않다. Northwestern 대학원생 Rodrigo Ferrer-Chavez가 이끈 Nature 신규 논문 \"Imaging exoplanets below the telescope stability limit\"(망원경 안정성 한계 아래의 외계행성 촬영)는 JWST 관측에서 별빛을 더 많이 걷어내는 방법을 내놨다. 천문학자들은 20년 동안 기준 별의 영상을 빼는 방식을 써 왔지만, 기준 관측에서 본 관측으로 넘어가는 사이 불안정성이 생긴다."
               },
               {
                 "t": "p",
-                "x": "이 프로젝트는 Google Research의 NeuralGCM에서 출발한다. NeuralGCM은 대규모 역학은 물리 방정식으로 시뮬레이션하고, 구름 형성이나 강우처럼 더 작은 규모의 과정은 AI로 표현한다. Ai2는 이를 넓혀 대기와 해양을 함께 시뮬레이션하고, 수년에서 수십 년에 걸친 기후 추세에 집중할 계획이다. 공개 벤치마크에서 대기 전용 NeuralGCM은 단일 TPU로 전 지구 대기의 한 해 치 상태를 여덟 분 만에 시뮬레이션했다."
+                "x": "새 방법 FLIP(Physics-based Learning for Imaging Planets)은 물리와 모델링을 토대로 하되 machine-learning의 아이디어를 빌렸다. 말하자면 JWST의 \"디지털 트윈\"이다. 나노 단위의 미세한 이동과 결함까지 넣어 빛이 망원경을 지나는 과정을 재현한다. 연구진은 FLIP을 JWST의 실제 관측과 맞아떨어질 때까지 조정한 뒤 별의 눈부신 빛을 빼냈다."
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793639452-neuralgcm-announcement-blog-draft-google-docs-image-2.png"
+                "src": "https://www.universetoday.com/article_images/image_comparison_20261105_124018.jpg",
+                "cap": "왼쪽: F430M 필터로 찍은 51 Eridani A의 JWST/NIRCam 관측을 KLIP으로 처리한 결과로, 51 Eri b는 검출되지 않았다. 가운데: 같은 관측을 FLIP으로 처리한 결과로, 유의미한 검출(>5 sigma)이다. 오른쪽: 51 Eri b의 시뮬레이션 영상. Image credit: Rodrigo Ferrer-Chavez."
               },
               {
                 "t": "p",
-                "x": "NeuralGCM+ 개발은 세 갈래로 진행된다. 대기와 해양을 잇는 작업, 온난화하는 세계에 대한 반응을 개선하는 작업, 도구를 더 쉽게 쓰고 확장할 수 있게 다듬는 작업이다. 모델과 프레임워크는 외부 연구자에게 공개된다."
+                "x": "51 Eridani b로 시험해 보니 FLIP은 기존 기법으로는 4.3 μm에서 보이지 않던 행성을 드러냈다. 저자들은 \"표준 기법보다 2–15배 뛰어난 감도를 달성했다\"고 썼다. 공동 저자 Jason Wang은 \"이전에는 볼 수 없던 행성을 실제로 복원할 수 있음을 보여 주었다\"고 말했다. FLIP 덕분에 Habitable Worlds Observatory의 안정성 요구 조건이 느슨해질 가능성도 있다."
+              },
+              {
+                "t": "video",
+                "yt": "kz-Tr7ScQI4"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ai2とGoogleが作る\nオープン気候モデル",
-          "body": "Ai2は大気と海洋を結ぶphysics-AI 気候モデルNeuralGCM+を開発中だ。",
-          "mini_headline": "Ai2とGoogle、オープン気候AIを構築",
+          "headline": "JWSTのデジタルツイン\n隠れた惑星を発見",
+          "body": "JWST光学系のデジタルツインFLIPが星の光を除き、従来法が見逃した惑星を捉えた。",
+          "mini_headline": "JWSTツインが隠れた惑星を発見",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793638961-neuralgcm-announcement-blog-draft-google-docs-image-1.jpg"
+                "src": "https://www.universetoday.com/article_images/41586_2026_11213_Fig1_HTML_20261104_220556.jpg",
+                "cap": "(a) 参照画像を使って星の光を差し引く従来の手法。(b) FLIPは微分可能な装置モデルと物理ベースの星光モデルを用いる。Image Credit: Ferrer-Chavez, R., Wang, J.J., Bouman, K.L. et al. Nature 659, 58–62 (2026)."
               },
               {
                 "t": "p",
-                "x": "Ai2はGoogle.orgから三年間で数百万ドル規模の資金提供を、Google Researchから技術支援を受け、新たな気候モデリングの取り組みを始める。気候予測をより速く、より信頼できるものにするよう設計されたオープンソースモデル、NeuralGCM+の開発が目的だ。"
+                "x": "どの望遠鏡にも安定性の限界があり、JWSTも例外ではない。Northwestern大学の大学院生Rodrigo Ferrer-Chavezが主導したNatureの新論文「Imaging exoplanets below the telescope stability limit」は、JWSTの観測からより多くの星の光を差し引く方法を示している。天文学者は20年にわたり参照星の画像を差し引いてきたが、参照から本観測に切り替える際に不安定性が生じる。"
               },
               {
                 "t": "p",
-                "x": "このプロジェクトはGoogle ResearchのNeuralGCMを土台とする。NeuralGCMは物理方程式で大規模な力学をシミュレートし、雲の形成や降雨といった小規模な過程をAIで表現する。Ai2はこれを拡張して大気と海洋を一体的にシミュレートし、数年から数十年にわたる気候の傾向に焦点を当てる。公開ベンチマークでは、大気のみのバージョンのNeuralGCMが、単一のTPUで地球全体の一年分の大気状態を八分でシミュレートした。"
+                "x": "新手法FLIP（Physics-based Learning for Imaging Planets）は物理とモデリングに基づき、machine-learningの発想を取り入れている。要するにJWSTの「デジタルツイン」であり、ナノスケールのずれや不完全さも含め、光が望遠鏡をどう通るかを再現する。研究チームはFLIPがJWSTの実際の観測と一致するまで調整し、そのうえで星のまぶしい光を差し引いた。"
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793639452-neuralgcm-announcement-blog-draft-google-docs-image-2.png"
+                "src": "https://www.universetoday.com/article_images/image_comparison_20261105_124018.jpg",
+                "cap": "左：F430Mフィルターで撮影した51 Eridani AのJWST/NIRCam観測をKLIPで処理したもので、51 Eri bは検出されなかった。中央：同じ観測をFLIPで処理したもので、有意な検出（>5 sigma）となった。右：51 Eri bのシミュレーション画像。Image credit: Rodrigo Ferrer-Chavez."
               },
               {
                 "t": "p",
-                "x": "NeuralGCM+は三つの方向で開発される。大気と海洋の結合、温暖化する世界への応答の改善、そしてツールを使いやすく拡張しやすくすることで、モデルとフレームワークは外部の研究者向けに公開される。"
+                "x": "51 Eridani bで試したところ、FLIPは通常の手法では4.3 μmで見えなかった惑星を明らかにした。著者らは「標準的な手法より2–15倍優れた感度を達成した」と記している。共著者のJason Wangは「以前は見えなかった惑星を実際に復元できることを示した」と述べた。FLIPはHabitable Worlds Observatoryの安定性要件を緩和する可能性もある。"
+              },
+              {
+                "t": "video",
+                "yt": "kz-Tr7ScQI4"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ai2携手Google\n打造开放混合气候模型",
-          "body": "Ai2正在打造耦合大气与海洋的开放physics-AI混合模型NeuralGCM+。",
-          "mini_headline": "Ai2携手Google打造开放气候AI",
+          "headline": "JWST数字孪生\n揭示隐藏行星",
+          "body": "FLIP是JWST光学系统的可微分数字孪生，它滤除星光，揭示了标准方法遗漏的行星。",
+          "mini_headline": "JWST孪生发现隐藏行星",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793638961-neuralgcm-announcement-blog-draft-google-docs-image-1.jpg"
+                "src": "https://www.universetoday.com/article_images/41586_2026_11213_Fig1_HTML_20261104_220556.jpg",
+                "cap": "(a) 利用参考图像扣除星光的常规方法。(b) FLIP采用可微分的仪器模型和基于物理的星光模型。Image Credit: Ferrer-Chavez, R., Wang, J.J., Bouman, K.L. et al. Nature 659, 58–62 (2026)."
               },
               {
                 "t": "p",
-                "x": "Ai2启动一项新的气候建模计划，获得Google.org为期三年、数百万美元的资助以及Google Research的技术支持，用于开发NeuralGCM+——一个旨在让气候预测更快、更可靠的开源模型。"
+                "x": "所有望远镜都有稳定性极限，JWST也不例外。Northwestern研究生Rodrigo Ferrer-Chavez领衔、发表于Nature的新研究《Imaging exoplanets below the telescope stability limit》，介绍了一种从JWST观测中扣除更多星光的方法。20年来，天文学家一直通过扣除参考星的图像来处理，但从参考观测切换到目标观测会引入不稳定性。"
               },
               {
                 "t": "p",
-                "x": "该项目以Google Research的NeuralGCM为基础。NeuralGCM用物理方程模拟大尺度动力过程，并用AI表征云的形成和降雨等较小尺度过程。Ai2将对其进行扩展，同时模拟大气和海洋，重点关注数年至数十年的气候趋势。在一项公开基准测试中，仅含大气的NeuralGCM版本在单个TPU上用八分钟模拟了全球一年的大气状况。"
+                "x": "新方法FLIP（Physics-based Learning for Imaging Planets）以物理和建模为基础，并借鉴了machine-learning的思路。它本质上是JWST的“数字孪生”，能再现光在望远镜中的传播方式，包括纳米级的偏移和缺陷。研究人员不断调整FLIP，直到它与JWST的真实观测吻合，随后扣除了恒星的眩光。"
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793639452-neuralgcm-announcement-blog-draft-google-docs-image-2.png"
+                "src": "https://www.universetoday.com/article_images/image_comparison_20261105_124018.jpg",
+                "cap": "左：用F430M滤镜拍摄的51 Eridani A的JWST/NIRCam观测，经KLIP处理，未检测到51 Eri b。中：同一观测经FLIP处理，获得显著检测（>5 sigma）。右：51 Eri b的模拟图像。Image credit: Rodrigo Ferrer-Chavez."
               },
               {
                 "t": "p",
-                "x": "NeuralGCM+将沿三个方向开发：连接大气与海洋、改进对变暖世界的响应，以及让工具更易于使用和扩展，模型和框架将向外部研究人员开放。"
+                "x": "在51 Eridani b上测试时，FLIP揭示了常规技术在4.3 μm波段无法看到的这颗行星。作者写道：“我们实现的灵敏度比标准技术高2–15倍。”共同作者Jason Wang说：“我们证明了确实能够找回此前人们看不到的行星。”FLIP还可能放宽Habitable Worlds Observatory的稳定性要求。"
+              },
+              {
+                "t": "video",
+                "yt": "kz-Tr7ScQI4"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ai2 y Google crean un modelo\nclimático híbrido y abierto",
-          "body": "Ai2 desarrolla NeuralGCM+, un modelo híbrido abierto physics-AI que acopla atmósfera y océano para proyectar el clima.",
-          "mini_headline": "Ai2 y Google crean una AI climática abierta",
+          "headline": "Un gemelo digital del JWST\nrevela un planeta oculto",
+          "body": "FLIP, gemelo digital de la óptica del JWST, quita la luz estelar y revela un planeta que escapó a los métodos estándar.",
+          "mini_headline": "Un gemelo del JWST halla un planeta oculto",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793638961-neuralgcm-announcement-blog-draft-google-docs-image-1.jpg"
+                "src": "https://www.universetoday.com/article_images/41586_2026_11213_Fig1_HTML_20261104_220556.jpg",
+                "cap": "(a) El método habitual de restar la luz estelar con imágenes de referencia. (b) FLIP usa un modelo diferenciable del instrumento y un modelo de luz estelar basado en la física. Image Credit: Ferrer-Chavez, R., Wang, J.J., Bouman, K.L. et al. Nature 659, 58–62 (2026)."
               },
               {
                 "t": "p",
-                "x": "Ai2 pone en marcha una nueva iniciativa de modelado climático, con financiación de varios millones de dólares a tres años de Google.org y apoyo técnico de Google Research, para desarrollar NeuralGCM+, un modelo de código abierto diseñado para que las proyecciones climáticas sean más rápidas y fiables."
+                "x": "Todos los telescopios tienen un límite de estabilidad, incluso el JWST. Una nueva investigación publicada en Nature, \"Imaging exoplanets below the telescope stability limit\", dirigida por Rodrigo Ferrer-Chavez, estudiante de posgrado de Northwestern, describe una forma de restar más luz estelar de las observaciones del JWST. Durante 20 años los astrónomos han restado la imagen de una estrella de referencia, pero pasar de la referencia a la observación introduce inestabilidades."
               },
               {
                 "t": "p",
-                "x": "El proyecto parte de NeuralGCM, de Google Research, que usa ecuaciones físicas para simular la dinámica a gran escala y AI para representar procesos de menor escala, como la formación de nubes y la lluvia. Ai2 lo ampliará para simular conjuntamente la atmósfera y el océano, con foco en las tendencias climáticas a lo largo de años y décadas. En una prueba comparativa pública, una versión de NeuralGCM solo atmosférica simuló un año de condiciones atmosféricas de todo el planeta en ocho minutos con una sola TPU."
+                "x": "El nuevo método, FLIP (Physics-based Learning for Imaging Planets), se basa en la física y la modelización y toma ideas del machine-learning. En esencia es un \"gemelo digital\" del JWST que reproduce cómo viaja la luz a través del telescopio, incluidos los desplazamientos y las imperfecciones a escala nanométrica. Los investigadores ajustaron FLIP hasta que coincidió con las observaciones reales del JWST y luego restaron el resplandor de la estrella."
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793639452-neuralgcm-announcement-blog-draft-google-docs-image-2.png"
+                "src": "https://www.universetoday.com/article_images/image_comparison_20261105_124018.jpg",
+                "cap": "Izquierda: observación de JWST/NIRCam de 51 Eridani A con el filtro F430M procesada con KLIP, que no detectó 51 Eri b. Centro: la misma observación con FLIP, una detección significativa (>5 sigma). Derecha: imagen simulada de 51 Eri b. Image credit: Rodrigo Ferrer-Chavez."
               },
               {
                 "t": "p",
-                "x": "NeuralGCM+ se desarrollará en tres frentes: conectar la atmósfera y el océano, mejorar la respuesta ante un mundo que se calienta y hacer que las herramientas sean más fáciles de usar y ampliar, con modelos y marcos de trabajo publicados para investigadores externos."
+                "x": "Al probarlo con 51 Eridani b, FLIP reveló el planeta que las técnicas habituales no podían ver a 4.3 μm. \"Logramos una sensibilidad 2–15 veces superior a la de las técnicas estándar\", escriben los autores. \"Demostramos que realmente podemos recuperar un planeta que antes no se podía ver\", dijo el coautor Jason Wang. FLIP también podría flexibilizar los requisitos de estabilidad del Habitable Worlds Observatory."
+              },
+              {
+                "t": "video",
+                "yt": "kz-Tr7ScQI4"
               }
             ]
           }
@@ -797,121 +601,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Ai2와 Google,\n오픈 하이브리드 기후 모델",
-          "body": "Ai2가 대기·해양을 잇는 physics-AI 모델 NeuralGCM+를 만든다.",
-          "mini_headline": "Ai2·Google, 오픈 기후 AI 구축",
+          "headline": "JWST 디지털 트윈이\n숨은 행성을 찾았다",
+          "body": "JWST 디지털 트윈 FLIP이 별빛을 걷어내 기존 기법이 놓친 행성을 찾았다.",
+          "mini_headline": "JWST 트윈, 숨은 행성 발견",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793638961-neuralgcm-announcement-blog-draft-google-docs-image-1.jpg"
+                "src": "https://www.universetoday.com/article_images/41586_2026_11213_Fig1_HTML_20261104_220556.jpg",
+                "cap": "(a) 기준 영상으로 별빛을 빼는 기존 방식. (b) FLIP은 미분 가능한 기기 모델과 물리 기반 별빛 모델을 쓴다. Image Credit: Ferrer-Chavez, R., Wang, J.J., Bouman, K.L. et al. Nature 659, 58–62 (2026)."
               },
               {
                 "t": "p",
-                "x": "Ai2가 Google.org의 수백만 달러 규모, 삼 년짜리 자금 지원과 Google Research의 기술 지원을 받아 새로운 기후 모델링 이니셔티브를 시작한다. 목표는 기후 전망을 더 빠르고 믿을 수 있게 만들도록 설계된 오픈소스 모델 NeuralGCM+의 개발이다."
+                "x": "모든 망원경에는 안정성 한계가 있고, JWST도 예외가 아니다. Northwestern 대학원생 Rodrigo Ferrer-Chavez가 이끈 Nature 신규 논문 \"Imaging exoplanets below the telescope stability limit\"(망원경 안정성 한계 아래의 외계행성 촬영)는 JWST 관측에서 별빛을 더 많이 빼내는 방법을 제시한다. 천문학자들은 20년 동안 기준 별의 영상을 빼 왔지만, 기준 관측에서 본 관측으로 넘어가는 과정에서 불안정성이 생긴다."
               },
               {
                 "t": "p",
-                "x": "이 프로젝트는 Google Research의 NeuralGCM을 토대로 한다. NeuralGCM은 물리 방정식으로 대규모 역학을 시뮬레이션하고, 구름 형성과 강우 같은 더 작은 규모의 과정은 AI로 표현한다. Ai2는 이를 확장해 대기와 해양을 함께 시뮬레이션하고, 수년에서 수십 년에 걸친 기후 추세에 초점을 맞출 계획이다. 공개 벤치마크에서 대기 전용 버전의 NeuralGCM은 단일 TPU로 전 지구의 한 해 치 대기 상태를 여덟 분 만에 시뮬레이션했다."
+                "x": "새 방법 FLIP(Physics-based Learning for Imaging Planets)은 물리와 모델링에 기반하며 machine-learning의 아이디어를 빌려 왔다. 요컨대 JWST의 \"디지털 트윈\"으로, 나노 단위의 미세한 이동과 결함까지 포함해 빛이 망원경을 지나는 방식을 재현한다. 연구진은 FLIP이 JWST의 실제 관측과 맞아떨어질 때까지 조정한 뒤 별의 눈부신 빛을 빼냈다."
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793639452-neuralgcm-announcement-blog-draft-google-docs-image-2.png"
+                "src": "https://www.universetoday.com/article_images/image_comparison_20261105_124018.jpg",
+                "cap": "왼쪽: F430M 필터로 찍은 51 Eridani A의 JWST/NIRCam 관측을 KLIP으로 처리한 결과로, 51 Eri b는 검출되지 않았다. 가운데: 같은 관측을 FLIP으로 처리한 결과로, 유의미한 검출(>5 sigma)이다. 오른쪽: 51 Eri b의 시뮬레이션 영상. Image credit: Rodrigo Ferrer-Chavez."
               },
               {
                 "t": "p",
-                "x": "NeuralGCM+는 세 갈래로 개발된다. 대기와 해양의 연결, 온난화하는 세계에 대한 반응 개선, 도구를 더 쉽게 쓰고 확장할 수 있게 만드는 작업이며, 모델과 프레임워크는 외부 연구자에게 공개된다."
+                "x": "51 Eridani b를 대상으로 시험한 결과, FLIP은 기존 기법으로는 4.3 μm에서 보이지 않던 행성을 드러냈다. 저자들은 \"표준 기법보다 2–15배 뛰어난 감도를 달성했다\"고 썼다. 공동 저자 Jason Wang은 \"이전에는 볼 수 없던 행성을 실제로 복원할 수 있음을 보여 주었다\"고 말했다. FLIP은 Habitable Worlds Observatory의 안정성 요구 조건을 완화할 수도 있다."
+              },
+              {
+                "t": "video",
+                "yt": "kz-Tr7ScQI4"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ai2とGoogleが作る\nオープン気候モデル",
-          "body": "Ai2は大気と海洋を結ぶphysics-AI 気候モデルNeuralGCM+を開発中だ。",
-          "mini_headline": "Ai2とGoogle、オープン気候AIを構築",
+          "headline": "JWSTのデジタルツイン\n隠れた惑星を発見",
+          "body": "JWST光学系のデジタルツインFLIPが星の光を除き、従来法が見逃した惑星を捉えた。",
+          "mini_headline": "JWSTツインが隠れた惑星を発見",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793638961-neuralgcm-announcement-blog-draft-google-docs-image-1.jpg"
+                "src": "https://www.universetoday.com/article_images/41586_2026_11213_Fig1_HTML_20261104_220556.jpg",
+                "cap": "(a) 参照画像を使って星の光を差し引く従来の手法。(b) FLIPは微分可能な装置モデルと物理ベースの星光モデルを用いる。Image Credit: Ferrer-Chavez, R., Wang, J.J., Bouman, K.L. et al. Nature 659, 58–62 (2026)."
               },
               {
                 "t": "p",
-                "x": "Ai2はGoogle.orgから三年間で数百万ドル規模の資金提供を、Google Researchから技術支援を受け、新たな気候モデリングの取り組みを始める。気候予測をより速く、より信頼できるものにするよう設計されたオープンソースモデル、NeuralGCM+の開発が目的だ。"
+                "x": "どの望遠鏡にも安定性の限界があり、JWSTも例外ではない。Northwestern大学の大学院生Rodrigo Ferrer-Chavezが主導したNatureの新論文「Imaging exoplanets below the telescope stability limit」は、JWSTの観測からより多くの星の光を差し引く方法を示している。天文学者は20年にわたり参照星の画像を差し引いてきたが、参照から本観測に切り替える際に不安定性が生じる。"
               },
               {
                 "t": "p",
-                "x": "このプロジェクトはGoogle ResearchのNeuralGCMを土台とする。NeuralGCMは物理方程式で大規模な力学をシミュレートし、雲の形成や降雨といった小規模な過程をAIで表現する。Ai2はこれを拡張して大気と海洋を一体的にシミュレートし、数年から数十年にわたる気候の傾向に焦点を当てる。公開ベンチマークでは、大気のみのバージョンのNeuralGCMが、単一のTPUで地球全体の一年分の大気状態を八分でシミュレートした。"
+                "x": "新手法FLIP（Physics-based Learning for Imaging Planets）は物理とモデリングに基づき、machine-learningの発想を取り入れている。要するにJWSTの「デジタルツイン」であり、ナノスケールのずれや不完全さも含め、光が望遠鏡をどう通るかを再現する。研究チームはFLIPがJWSTの実際の観測と一致するまで調整し、そのうえで星のまぶしい光を差し引いた。"
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793639452-neuralgcm-announcement-blog-draft-google-docs-image-2.png"
+                "src": "https://www.universetoday.com/article_images/image_comparison_20261105_124018.jpg",
+                "cap": "左：F430Mフィルターで撮影した51 Eridani AのJWST/NIRCam観測をKLIPで処理したもので、51 Eri bは検出されなかった。中央：同じ観測をFLIPで処理したもので、有意な検出（>5 sigma）となった。右：51 Eri bのシミュレーション画像。Image credit: Rodrigo Ferrer-Chavez."
               },
               {
                 "t": "p",
-                "x": "NeuralGCM+は三つの方向で開発される。大気と海洋の結合、温暖化する世界への応答の改善、そしてツールを使いやすく拡張しやすくすることで、モデルとフレームワークは外部の研究者向けに公開される。"
+                "x": "51 Eridani bで試したところ、FLIPは通常の手法では4.3 μmで見えなかった惑星を明らかにした。著者らは「標準的な手法より2–15倍優れた感度を達成した」と記している。共著者のJason Wangは「以前は見えなかった惑星を実際に復元できることを示した」と述べた。FLIPはHabitable Worlds Observatoryの安定性要件を緩和する可能性もある。"
+              },
+              {
+                "t": "video",
+                "yt": "kz-Tr7ScQI4"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ai2携手Google\n打造开放混合气候模型",
-          "body": "Ai2正在打造耦合大气与海洋的开放physics-AI混合模型NeuralGCM+。",
-          "mini_headline": "Ai2携手Google打造开放气候AI",
+          "headline": "JWST数字孪生\n揭示隐藏行星",
+          "body": "FLIP是JWST光学系统的可微分数字孪生，它滤除星光，揭示了标准方法遗漏的行星。",
+          "mini_headline": "JWST孪生发现隐藏行星",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793638961-neuralgcm-announcement-blog-draft-google-docs-image-1.jpg"
+                "src": "https://www.universetoday.com/article_images/41586_2026_11213_Fig1_HTML_20261104_220556.jpg",
+                "cap": "(a) 利用参考图像扣除星光的常规方法。(b) FLIP采用可微分的仪器模型和基于物理的星光模型。Image Credit: Ferrer-Chavez, R., Wang, J.J., Bouman, K.L. et al. Nature 659, 58–62 (2026)."
               },
               {
                 "t": "p",
-                "x": "Ai2启动一项新的气候建模计划，获得Google.org为期三年、数百万美元的资助以及Google Research的技术支持，用于开发NeuralGCM+——一个旨在让气候预测更快、更可靠的开源模型。"
+                "x": "所有望远镜都有稳定性极限，JWST也不例外。Northwestern研究生Rodrigo Ferrer-Chavez领衔、发表于Nature的新研究《Imaging exoplanets below the telescope stability limit》，介绍了一种从JWST观测中扣除更多星光的方法。20年来，天文学家一直通过扣除参考星的图像来处理，但从参考观测切换到目标观测会引入不稳定性。"
               },
               {
                 "t": "p",
-                "x": "该项目以Google Research的NeuralGCM为基础。NeuralGCM用物理方程模拟大尺度动力过程，并用AI表征云的形成和降雨等较小尺度过程。Ai2将对其进行扩展，同时模拟大气和海洋，重点关注数年至数十年的气候趋势。在一项公开基准测试中，仅含大气的NeuralGCM版本在单个TPU上用八分钟模拟了全球一年的大气状况。"
+                "x": "新方法FLIP（Physics-based Learning for Imaging Planets）以物理和建模为基础，并借鉴了machine-learning的思路。它本质上是JWST的“数字孪生”，能再现光在望远镜中的传播方式，包括纳米级的偏移和缺陷。研究人员不断调整FLIP，直到它与JWST的真实观测吻合，随后扣除了恒星的眩光。"
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793639452-neuralgcm-announcement-blog-draft-google-docs-image-2.png"
+                "src": "https://www.universetoday.com/article_images/image_comparison_20261105_124018.jpg",
+                "cap": "左：用F430M滤镜拍摄的51 Eridani A的JWST/NIRCam观测，经KLIP处理，未检测到51 Eri b。中：同一观测经FLIP处理，获得显著检测（>5 sigma）。右：51 Eri b的模拟图像。Image credit: Rodrigo Ferrer-Chavez."
               },
               {
                 "t": "p",
-                "x": "NeuralGCM+将沿三个方向开发：连接大气与海洋、改进对变暖世界的响应，以及让工具更易于使用和扩展，模型和框架将向外部研究人员开放。"
+                "x": "在51 Eridani b上测试时，FLIP揭示了常规技术在4.3 μm波段无法看到的这颗行星。作者写道：“我们实现的灵敏度比标准技术高2–15倍。”共同作者Jason Wang说：“我们证明了确实能够找回此前人们看不到的行星。”FLIP还可能放宽Habitable Worlds Observatory的稳定性要求。"
+              },
+              {
+                "t": "video",
+                "yt": "kz-Tr7ScQI4"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ai2 y Google crean un modelo\nclimático híbrido y abierto",
-          "body": "Ai2 desarrolla NeuralGCM+, un modelo híbrido abierto physics-AI que acopla atmósfera y océano para proyectar el clima.",
-          "mini_headline": "Ai2 y Google crean una AI climática abierta",
+          "headline": "Un gemelo digital del JWST\nrevela un planeta oculto",
+          "body": "FLIP, gemelo digital de la óptica del JWST, quita la luz estelar y revela un planeta que escapó a los métodos estándar.",
+          "mini_headline": "Un gemelo del JWST halla un planeta oculto",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793638961-neuralgcm-announcement-blog-draft-google-docs-image-1.jpg"
+                "src": "https://www.universetoday.com/article_images/41586_2026_11213_Fig1_HTML_20261104_220556.jpg",
+                "cap": "(a) El método habitual de restar la luz estelar con imágenes de referencia. (b) FLIP usa un modelo diferenciable del instrumento y un modelo de luz estelar basado en la física. Image Credit: Ferrer-Chavez, R., Wang, J.J., Bouman, K.L. et al. Nature 659, 58–62 (2026)."
               },
               {
                 "t": "p",
-                "x": "Ai2 pone en marcha una nueva iniciativa de modelado climático, con financiación de varios millones de dólares a tres años de Google.org y apoyo técnico de Google Research, para desarrollar NeuralGCM+, un modelo de código abierto diseñado para que las proyecciones climáticas sean más rápidas y fiables."
+                "x": "Todos los telescopios tienen un límite de estabilidad, incluso el JWST. Una nueva investigación publicada en Nature, \"Imaging exoplanets below the telescope stability limit\", dirigida por Rodrigo Ferrer-Chavez, estudiante de posgrado de Northwestern, describe una forma de restar más luz estelar de las observaciones del JWST. Durante 20 años los astrónomos han restado la imagen de una estrella de referencia, pero pasar de la referencia a la observación introduce inestabilidades."
               },
               {
                 "t": "p",
-                "x": "El proyecto parte de NeuralGCM, de Google Research, que usa ecuaciones físicas para simular la dinámica a gran escala y AI para representar procesos de menor escala, como la formación de nubes y la lluvia. Ai2 lo ampliará para simular conjuntamente la atmósfera y el océano, con foco en las tendencias climáticas a lo largo de años y décadas. En una prueba comparativa pública, una versión de NeuralGCM solo atmosférica simuló un año de condiciones atmosféricas de todo el planeta en ocho minutos con una sola TPU."
+                "x": "El nuevo método, FLIP (Physics-based Learning for Imaging Planets), se basa en la física y la modelización y toma ideas del machine-learning. En esencia es un \"gemelo digital\" del JWST que reproduce cómo viaja la luz a través del telescopio, incluidos los desplazamientos y las imperfecciones a escala nanométrica. Los investigadores ajustaron FLIP hasta que coincidió con las observaciones reales del JWST y luego restaron el resplandor de la estrella."
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793639452-neuralgcm-announcement-blog-draft-google-docs-image-2.png"
+                "src": "https://www.universetoday.com/article_images/image_comparison_20261105_124018.jpg",
+                "cap": "Izquierda: observación de JWST/NIRCam de 51 Eridani A con el filtro F430M procesada con KLIP, que no detectó 51 Eri b. Centro: la misma observación con FLIP, una detección significativa (>5 sigma). Derecha: imagen simulada de 51 Eri b. Image credit: Rodrigo Ferrer-Chavez."
               },
               {
                 "t": "p",
-                "x": "NeuralGCM+ se desarrollará en tres frentes: conectar la atmósfera y el océano, mejorar la respuesta ante un mundo que se calienta y hacer que las herramientas sean más fáciles de usar y ampliar, con modelos y marcos de trabajo publicados para investigadores externos."
+                "x": "Al probarlo con 51 Eridani b, FLIP reveló el planeta que las técnicas habituales no podían ver a 4.3 μm. \"Logramos una sensibilidad 2–15 veces superior a la de las técnicas estándar\", escriben los autores. \"Demostramos que realmente podemos recuperar un planeta que antes no se podía ver\", dijo el coautor Jason Wang. FLIP también podría flexibilizar los requisitos de estabilidad del Habitable Worlds Observatory."
+              },
+              {
+                "t": "video",
+                "yt": "kz-Tr7ScQI4"
               }
             ]
           }
@@ -919,225 +747,195 @@
       }
     },
     {
-      "id": "quanta-llm-introspection",
+      "id": "tau-stanford-synthetic-learning",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 모델은 자기 생각을\n알아챌 수 있을까",
-      "body": "연구진은 언어 모델 활성값에 '생각'을 넣고 모델이 이를 알아채 보고하는지 본다.",
-      "mini_headline": "AI 모델은 제 생각을 알까",
+      "headline": "AI는 실제 데이터 없이\n세상을 배울 수 있나",
+      "body": "Tel Aviv–Stanford 연구는 합성 데이터만 배운 모델의 학습력을 묻는다.",
+      "mini_headline": "합성 데이터로 배우기",
       "tool": "Science",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
-      "accent": "#eb367f",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-11-ai-world.html",
+      "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-learns-to-predict-t.jpg",
+            "cap": "데이터 제로에서 출발한 자기 대국 사전학습. Credit: arXiv (2026). DOI: 10.48550/arxiv.2609.30063"
           },
           {
             "t": "p",
-            "x": "연구자들은 대규모 언어 모델에 \"생각\"을 직접 주입해 AI가 내성할 수 있는지 알아보는 중이다. 2025년 Anthropic의 연구자 Jack Lindsey는 Claude의 사본들에 데님, 비밀, 채소 같은 개념을 주입한 뒤 \"주입된 생각이 감지되나요? 그렇다면 그 생각은 무엇에 관한 것인가요?\"라고 물었다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Jack_Lindsey-cr.Courtesy-of-Jack-Lindsey.webp",
-            "cap": "Anthropic의 연구자 Jack Lindsey는 대규모 언어 모델에 일종의 디지털 신경외과 수술을 해 보기로 했다. 모델이 \"내성\"할 수 있는지 알아보려는 시험이었다."
+            "x": "Tel Aviv University와 Stanford University 연구진이 참여한 새 연구의 질문은 이렇다. 학습 데이터를 전부 시스템이 안에서 처음부터 만들어 내도 범용 학습 능력이 생길까. 연구진은 그렇다는 걸 보여 줬다. Dr. Kfir Dolev의 박사후 연구로 진행되고 Dr. Yoav Levine이 지도한 이번 연구는 arXiv 프리프린트 서버에 공개됐다."
           },
           {
             "t": "p",
-            "x": "가장 새롭고 강력한 버전은 시도의 20%에서 주입을 정확히 짚어내고 해당 개념을 설명했다. 대조군 모델은 주입을 받았다고 보고한 적이 한 번도 없었다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Kyle-Mahowald-cr.Kanishka-Misra.webp",
-            "cap": "Kyle Mahowald는 언어 모델이 \"주입된 생각\"을 감지하는 능력이 겉보기보다 제한적이라는 사실을 밝히는 데 힘을 보탰다. 그래도 놀라운 능력인 것은 여전하다."
+            "x": "백지 상태의 두 모델이 함께 배운다. 첫 번째 모델이 기호 시퀀스를 만들어 내는 짧은 컴퓨터 프로그램을 짜면, 두 번째 모델은 다음 기호를 맞히도록 훈련받는다. 생성 모델은 자기가 낸 문제가 학습에 얼마나 보탬이 됐는지 피드백을 받으면서 알맞은 과제를 고르는 법을 익힌다."
           },
           {
             "t": "p",
-            "x": "Kyle Mahowald와 Harvey Lederman은 대형 오픈소스 모델로 같은 실험을 반복했다. 모델은 내부 처리 과정에서 뭔가 이상한 일이 생기면 감지할 수는 있어도 구체적인 내용까지는 모른다는 것이 이들의 결론이다. 두 사람은 이 능력을 \"이상 탐지\"라고 불렀다. Lederman은 \"이상을 알아챌 수 있다는 사실 자체가 말도 안 되는 일\"이라고 말했다. 이를 내성으로 볼 수 있는지를 두고 논쟁은 여전히 뜨겁다."
+            "x": "훈련 중 한 번도 보지 못한 텍스트, 이미지, 소리, 음악, 코드, DNA 시퀀스로 평가하자 훈련 연산량이 늘수록 예측 능력도 꾸준히 좋아졌다. 모델은 추가 훈련 없이 테스트 시점에 예시만 보고 규칙을 추론했다. 스스로 만든 자료에는 Fibonacci 수열 같은 익숙한 패턴도 나타났다. 이렇게 사전학습을 거친 모델은 실제 데이터도 더 빨리 배웠다."
+          },
+          {
+            "t": "p",
+            "x": "다만 현실을 접하지 않고는 현실에 관한 사실을 가르칠 수 없다고 연구진은 강조한다. Levine은 \"아직은 작은 모델을 다룬 개념 증명 단계\"라고 말한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Can AI models notice\ntheir own thoughts",
-          "body": "Researchers inject 'thoughts' into language models' activations to test whether the models can notice and report them.",
-          "mini_headline": "Do AI models know their thoughts",
+          "headline": "Can AI learn the world\nwithout real-world data",
+          "body": "A Tel Aviv–Stanford study asks whether models trained only on synthetic data can develop general learning skills.",
+          "mini_headline": "Learning from synthetic data",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-learns-to-predict-t.jpg",
+                "cap": "Self-play pretraining with zero data. Credit: arXiv (2026). DOI: 10.48550/arxiv.2609.30063"
               },
               {
                 "t": "p",
-                "x": "By injecting \"thoughts\" directly into large language models, researchers are trying to map out AI's capacity for introspection. In 2025, Jack Lindsey, a researcher at Anthropic, injected concepts such as denim, secrecy, or vegetables into copies of Claude and asked, \"Do you detect an injected thought? If so, what is the injected thought about?\""
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Jack_Lindsey-cr.Courtesy-of-Jack-Lindsey.webp",
-                "cap": "Jack Lindsey, a researcher at Anthropic, set out to test whether large language models can \"introspect\" by subjecting them to a kind of digital neurosurgery."
+                "x": "A new study involving researchers from Tel Aviv University and Stanford University asks: Can a system develop general learning capabilities even when all the data it trains on is generated entirely from scratch within the system itself? The researchers have shown that it can. The study, supervised by Dr. Yoav Levine as part of Dr. Kfir Dolev's postdoctoral research, is on the arXiv preprint server."
               },
               {
                 "t": "p",
-                "x": "In 20% of trials with the most recent and powerful version, the models correctly flagged the injection and described the concept, while models in the control group never reported receiving an injection."
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Kyle-Mahowald-cr.Kanishka-Misra.webp",
-                "cap": "Kyle Mahowald helped show that language models' ability to detect \"injected thoughts\" is more limited than it seems — though still surprising."
+                "x": "Two models start from scratch and learn together. The first generates short computer programs that produce sequences of symbols; the second is trained to predict the next symbol. The generator receives feedback on how much its exercises contribute to learning and gets better at selecting suitable challenges."
               },
               {
                 "t": "p",
-                "x": "Kyle Mahowald and Harvey Lederman repeated the experiment on large open-source models and concluded that models can detect when something unusual happens in their internal processing, but not specific details about it — an ability they called \"anomaly detection.\" \"The fact that it can notice the anomaly is insane,\" Lederman said. Whether that should count as introspection remains hotly contested."
+                "x": "Evaluated on text, images, sounds, music, code and DNA sequences it never saw in training, the model's predictive capability improved consistently as more compute was devoted to training. It could infer rules from examples at test time without additional training, and familiar patterns such as the Fibonacci sequence appeared in its self-generated material. Pretraining this way also helped it learn faster from real-world data."
+              },
+              {
+                "t": "p",
+                "x": "The researchers emphasize the method cannot teach facts about reality without exposure to it. \"This is still a proof of concept involving small models,\" Levine says."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 모델은 자기 생각을\n알아챌 수 있을까",
-          "body": "연구진은 언어 모델 활성값에 '생각'을 넣고 모델이 이를 알아채 보고하는지 본다.",
-          "mini_headline": "AI 모델은 제 생각을 알까",
+          "headline": "AI는 실제 데이터 없이\n세상을 배울 수 있나",
+          "body": "Tel Aviv–Stanford 연구는 합성 데이터만 배운 모델의 학습력을 묻는다.",
+          "mini_headline": "합성 데이터로 배우기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-learns-to-predict-t.jpg",
+                "cap": "데이터 제로에서 출발한 자기 대국 사전학습. Credit: arXiv (2026). DOI: 10.48550/arxiv.2609.30063"
               },
               {
                 "t": "p",
-                "x": "연구자들은 대규모 언어 모델에 \"생각\"을 직접 주입해 AI가 내성할 수 있는지 알아보는 중이다. 2025년 Anthropic의 연구자 Jack Lindsey는 Claude의 사본들에 데님, 비밀, 채소 같은 개념을 주입한 뒤 \"주입된 생각이 감지되나요? 그렇다면 그 생각은 무엇에 관한 것인가요?\"라고 물었다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Jack_Lindsey-cr.Courtesy-of-Jack-Lindsey.webp",
-                "cap": "Anthropic의 연구자 Jack Lindsey는 대규모 언어 모델에 일종의 디지털 신경외과 수술을 해 보기로 했다. 모델이 \"내성\"할 수 있는지 알아보려는 시험이었다."
+                "x": "Tel Aviv University와 Stanford University 연구진이 참여한 새 연구의 질문은 이렇다. 학습 데이터를 전부 시스템이 안에서 처음부터 만들어 내도 범용 학습 능력이 생길까. 연구진은 그렇다는 걸 보여 줬다. Dr. Kfir Dolev의 박사후 연구로 진행되고 Dr. Yoav Levine이 지도한 이번 연구는 arXiv 프리프린트 서버에 공개됐다."
               },
               {
                 "t": "p",
-                "x": "가장 새롭고 강력한 버전은 시도의 20%에서 주입을 정확히 짚어내고 해당 개념을 설명했다. 대조군 모델은 주입을 받았다고 보고한 적이 한 번도 없었다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Kyle-Mahowald-cr.Kanishka-Misra.webp",
-                "cap": "Kyle Mahowald는 언어 모델이 \"주입된 생각\"을 감지하는 능력이 겉보기보다 제한적이라는 사실을 밝히는 데 힘을 보탰다. 그래도 놀라운 능력인 것은 여전하다."
+                "x": "백지 상태의 두 모델이 함께 배운다. 첫 번째 모델이 기호 시퀀스를 만들어 내는 짧은 컴퓨터 프로그램을 짜면, 두 번째 모델은 다음 기호를 맞히도록 훈련받는다. 생성 모델은 자기가 낸 문제가 학습에 얼마나 보탬이 됐는지 피드백을 받으면서 알맞은 과제를 고르는 법을 익힌다."
               },
               {
                 "t": "p",
-                "x": "Kyle Mahowald와 Harvey Lederman은 대형 오픈소스 모델로 같은 실험을 반복했다. 모델은 내부 처리 과정에서 뭔가 이상한 일이 생기면 감지할 수는 있어도 구체적인 내용까지는 모른다는 것이 이들의 결론이다. 두 사람은 이 능력을 \"이상 탐지\"라고 불렀다. Lederman은 \"이상을 알아챌 수 있다는 사실 자체가 말도 안 되는 일\"이라고 말했다. 이를 내성으로 볼 수 있는지를 두고 논쟁은 여전히 뜨겁다."
+                "x": "훈련 중 한 번도 보지 못한 텍스트, 이미지, 소리, 음악, 코드, DNA 시퀀스로 평가하자 훈련 연산량이 늘수록 예측 능력도 꾸준히 좋아졌다. 모델은 추가 훈련 없이 테스트 시점에 예시만 보고 규칙을 추론했다. 스스로 만든 자료에는 Fibonacci 수열 같은 익숙한 패턴도 나타났다. 이렇게 사전학습을 거친 모델은 실제 데이터도 더 빨리 배웠다."
+              },
+              {
+                "t": "p",
+                "x": "다만 현실을 접하지 않고는 현실에 관한 사실을 가르칠 수 없다고 연구진은 강조한다. Levine은 \"아직은 작은 모델을 다룬 개념 증명 단계\"라고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIモデルは自らの\n思考に気づけるか",
-          "body": "研究者らは言語モデルの活性化に「思考」を注入し、モデルがそれに気づき報告できるかを試す。",
-          "mini_headline": "AIモデルは自分の思考を知るか",
+          "headline": "AIは実データなしで\n世界を学べるか",
+          "body": "Tel Aviv–Stanfordの研究は合成データのみのモデルに汎用学習力が育つか問う。",
+          "mini_headline": "合成データから学ぶ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-learns-to-predict-t.jpg",
+                "cap": "ゼロデータからの自己対戦による事前学習。Credit: arXiv (2026). DOI: 10.48550/arxiv.2609.30063"
               },
               {
                 "t": "p",
-                "x": "研究者らは大規模言語モデルに「思考」を直接注入することで、AIの内省能力を明らかにしようとしている。2025年、Anthropicの研究者Jack Lindseyは、デニム、秘密、野菜といった概念をClaudeのコピーに注入し、「注入された思考を検出できますか？　もしできるなら、その思考は何についてのものですか？」と尋ねた。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Jack_Lindsey-cr.Courtesy-of-Jack-Lindsey.webp",
-                "cap": "Anthropicの研究者Jack Lindseyは、一種のデジタル脳神経外科手術を施すことで、大規模言語モデルが「内省」できるかどうかを検証しようとした。"
+                "x": "Tel Aviv UniversityとStanford Universityの研究者が参加した新たな研究は、ある問いを立てた。学習に使うデータがすべてシステム自身の内部でゼロから生成されたものであっても、システムは汎用的な学習能力を身につけられるのか。研究者らは、それが可能であることを示した。Dr. Kfir Dolevの博士研究員としての研究の一環としてDr. Yoav Levineが指導したこの研究は、プレプリントサーバーarXivで公開されている。"
               },
               {
                 "t": "p",
-                "x": "最新かつ最も強力なバージョンでは、試行の20%でモデルが注入を正しく指摘し、その概念を説明した。一方、対照群のモデルが注入を受けたと報告することは一度もなかった。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Kyle-Mahowald-cr.Kanishka-Misra.webp",
-                "cap": "Kyle Mahowaldは、言語モデルが「注入された思考」を検出する能力は見かけより限定的であることを示すのに貢献した。それでもなお驚くべき能力ではある。"
+                "x": "二つのモデルがまっさらな状態から出発し、ともに学習する。一つ目のモデルは記号の系列を出力する短いコンピュータープログラムを生成し、二つ目のモデルは次の記号を予測するよう訓練される。生成側のモデルは、自らの出した課題が学習にどれだけ寄与したかのフィードバックを受け、適切な課題を選ぶ力を高めていく。"
               },
               {
                 "t": "p",
-                "x": "Kyle MahowaldとHarvey Ledermanは大規模なオープンソースモデルで実験を再現し、モデルは内部処理で何か異常が起きたことは検出できるが、その具体的な内容まではわからないと結論づけ、この能力を「異常検知」と呼んだ。「異常に気づけること自体がとんでもない」とLedermanは言う。これを内省と呼ぶべきかどうかは、なお激しく議論されている。"
+                "x": "訓練中に一度も見ていないテキスト、画像、音、音楽、コード、DNA配列で評価したところ、訓練に投じる計算量を増やすにつれて、モデルの予測能力は一貫して向上した。追加の訓練なしにテスト時に例から規則を推論でき、自ら生成した素材にはFibonacci数列のようなおなじみのパターンが現れた。この方法で事前学習しておくと、実世界のデータからの学習も速くなった。"
+              },
+              {
+                "t": "p",
+                "x": "研究者らは、この手法では現実に触れることなく現実についての事実を教えることはできないと強調する。Levineは「これはまだ小さなモデルを使った概念実証だ」と述べている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI模型能否察觉\n自己的想法",
-          "body": "研究人员向语言模型的激活中注入“想法”，测试模型能否察觉并报告。",
-          "mini_headline": "AI模型知道自己的想法吗",
+          "headline": "AI不靠真实数据\n能学会认识世界吗",
+          "body": "Tel Aviv–Stanford研究探讨仅用合成数据训练的模型能否获得通用学习能力。",
+          "mini_headline": "从合成数据中学习",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-learns-to-predict-t.jpg",
+                "cap": "零数据自我对弈预训练。Credit: arXiv (2026). DOI: 10.48550/arxiv.2609.30063"
               },
               {
                 "t": "p",
-                "x": "通过直接向大语言模型注入“想法”，研究人员正试图摸清AI的内省能力。2025年，Anthropic研究员Jack Lindsey将牛仔布、保密、蔬菜等概念注入Claude的副本，并提问：“你是否检测到一个被注入的想法？如果是，这个想法是关于什么的？”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Jack_Lindsey-cr.Courtesy-of-Jack-Lindsey.webp",
-                "cap": "Anthropic研究员Jack Lindsey试图通过对大语言模型实施一种数字神经外科手术，检验它们能否“内省”。"
+                "x": "一项由Tel Aviv University和Stanford University研究人员参与的新研究提出了这样一个问题：即便训练所用的全部数据都完全由系统自身从零生成，系统能否发展出通用学习能力？研究人员证明答案是肯定的。该研究由Dr. Yoav Levine指导，是Dr. Kfir Dolev博士后研究的一部分，已发布在预印本服务器arXiv上。"
               },
               {
                 "t": "p",
-                "x": "在最新、最强大的版本中，模型在20%的试验里正确指出了注入并描述了相应概念，而对照组的模型从未报告收到过注入。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Kyle-Mahowald-cr.Kanishka-Misra.webp",
-                "cap": "Kyle Mahowald参与证明，语言模型检测“被注入想法”的能力比看上去更有限——尽管仍令人惊讶。"
+                "x": "两个模型从零开始、共同学习。第一个模型生成能产出符号序列的简短计算机程序；第二个模型则被训练来预测下一个符号。生成模型会收到反馈，了解其练习对学习的贡献有多大，并逐渐更善于挑选合适的挑战。"
               },
               {
                 "t": "p",
-                "x": "Kyle Mahowald和Harvey Lederman在大型开源模型上重复了这一实验，结论是模型能检测到内部处理中发生了异常，但无法得知其具体细节——他们将这种能力称为“异常检测”。“它能注意到异常，这一点简直疯狂，”Lederman说。这是否应算作内省，仍存在激烈争论。"
+                "x": "在训练中从未见过的文本、图像、声音、音乐、代码和DNA序列上进行评估时，随着投入训练的算力增加，模型的预测能力持续提升。它无需额外训练，就能在测试时从示例中推断规则；在其自行生成的材料中，还出现了Fibonacci数列等熟悉的模式。以这种方式预训练，也帮助它更快地从真实世界数据中学习。"
+              },
+              {
+                "t": "p",
+                "x": "研究人员强调，这种方法若不接触现实，便无法传授关于现实的事实。Levine表示：“这仍是一项涉及小模型的概念验证。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "¿Pueden los modelos de AI\nnotar sus propios pensamientos?",
-          "body": "Investigadores inyectan 'pensamientos' en las activaciones de modelos de lenguaje para ver si los detectan y reportan.",
-          "mini_headline": "¿Conocen los modelos de AI sus pensamientos?",
+          "headline": "¿Puede la AI aprender el mundo\nsin datos del mundo real?",
+          "body": "Un estudio de Tel Aviv–Stanford indaga si modelos entrenados solo con datos sintéticos adquieren aprendizaje general.",
+          "mini_headline": "Aprender de datos sintéticos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-learns-to-predict-t.jpg",
+                "cap": "Preentrenamiento por autojuego con cero datos. Credit: arXiv (2026). DOI: 10.48550/arxiv.2609.30063"
               },
               {
                 "t": "p",
-                "x": "Al inyectar \"pensamientos\" directamente en modelos de lenguaje grandes, los investigadores intentan cartografiar la capacidad de introspección de la AI. En 2025, Jack Lindsey, investigador de Anthropic, inyectó conceptos como el denim, el secretismo o las verduras en copias de Claude y preguntó: \"¿Detectas un pensamiento inyectado? Si es así, ¿de qué trata el pensamiento inyectado?\""
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Jack_Lindsey-cr.Courtesy-of-Jack-Lindsey.webp",
-                "cap": "Jack Lindsey, investigador de Anthropic, se propuso comprobar si los modelos de lenguaje grandes pueden \"hacer introspección\" sometiéndolos a una especie de neurocirugía digital."
+                "x": "Un nuevo estudio con investigadores de Tel Aviv University y Stanford University plantea una pregunta: ¿puede un sistema desarrollar capacidades generales de aprendizaje aunque todos los datos con los que se entrena se generen por completo desde cero dentro del propio sistema? Los investigadores han demostrado que sí. El estudio, supervisado por el Dr. Yoav Levine como parte de la investigación posdoctoral del Dr. Kfir Dolev, está en el servidor de preprints arXiv."
               },
               {
                 "t": "p",
-                "x": "En el 20% de los ensayos con la versión más reciente y potente, los modelos señalaron correctamente la inyección y describieron el concepto, mientras que los modelos del grupo de control nunca informaron haber recibido una inyección."
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Kyle-Mahowald-cr.Kanishka-Misra.webp",
-                "cap": "Kyle Mahowald contribuyó a demostrar que la capacidad de los modelos de lenguaje para detectar \"pensamientos inyectados\" es más limitada de lo que parece, aunque sigue siendo sorprendente."
+                "x": "Dos modelos parten de cero y aprenden juntos. El primero genera programas informáticos breves que producen secuencias de símbolos; el segundo se entrena para predecir el siguiente símbolo. El generador recibe retroalimentación sobre cuánto contribuyen sus ejercicios al aprendizaje y mejora en la selección de desafíos adecuados."
               },
               {
                 "t": "p",
-                "x": "Kyle Mahowald y Harvey Lederman repitieron el experimento con grandes modelos de código abierto y concluyeron que los modelos pueden detectar cuándo ocurre algo inusual en su procesamiento interno, pero no sus detalles concretos, una capacidad que denominaron \"detección de anomalías\". \"El hecho de que pueda notar la anomalía es una locura\", dijo Lederman. Si eso debe considerarse introspección sigue siendo objeto de un intenso debate."
+                "x": "Al evaluarlo con texto, imágenes, sonidos, música, código y secuencias de DNA que nunca vio durante el entrenamiento, la capacidad predictiva del modelo mejoró de forma constante a medida que se dedicaba más cómputo al entrenamiento. Pudo inferir reglas a partir de ejemplos en el momento de la prueba sin entrenamiento adicional, y en el material que generó por sí mismo aparecieron patrones conocidos como la secuencia de Fibonacci. Preentrenarse de este modo también le ayudó a aprender más rápido de datos del mundo real."
+              },
+              {
+                "t": "p",
+                "x": "Los investigadores subrayan que el método no puede enseñar hechos sobre la realidad sin exposición a ella. \"Esto sigue siendo una prueba de concepto con modelos pequeños\", afirma Levine."
               }
             ]
           }
@@ -1145,145 +943,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 모델은 자기 생각을\n알아챌 수 있을까",
-          "body": "연구진이 언어 모델 활성값에 '생각'을 주입해 이를 알아채고 보고하는지 시험한다.",
-          "mini_headline": "AI 모델은 제 생각을 알까",
+          "headline": "AI는 실제 데이터 없이\n세상을 배울 수 있나",
+          "body": "Tel Aviv–Stanford 연구는 합성 데이터만 배운 모델의 학습력을 묻는다.",
+          "mini_headline": "합성 데이터로 배우기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-learns-to-predict-t.jpg",
+                "cap": "데이터 제로에서 출발한 자기 대국 사전학습. Credit: arXiv (2026). DOI: 10.48550/arxiv.2609.30063"
               },
               {
                 "t": "p",
-                "x": "연구자들은 대규모 언어 모델에 \"생각\"을 직접 주입하는 방식으로 AI의 내성 능력을 파악하려 하고 있다. 2025년 Anthropic의 연구자 Jack Lindsey는 Claude의 사본들에 데님, 비밀, 채소 같은 개념을 주입한 뒤 \"주입된 생각이 감지되나요? 그렇다면 그 생각은 무엇에 관한 것인가요?\"라고 물었다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Jack_Lindsey-cr.Courtesy-of-Jack-Lindsey.webp",
-                "cap": "Anthropic의 연구자 Jack Lindsey는 대규모 언어 모델에 일종의 디지털 신경외과 수술을 가해 모델이 \"내성\"할 수 있는지 시험하기로 했다."
+                "x": "Tel Aviv University와 Stanford University 연구진이 참여한 새 연구는 이렇게 묻는다. 학습에 쓰는 데이터 전부를 시스템 스스로 내부에서 처음부터 만들어 내도 범용 학습 능력이 생길 수 있을까. 연구진은 그렇다는 것을 보여 줬다. Dr. Kfir Dolev의 박사후 연구의 일환으로 Dr. Yoav Levine이 지도한 이번 연구는 arXiv 프리프린트 서버에 공개됐다."
               },
               {
                 "t": "p",
-                "x": "가장 최신이자 강력한 버전에서는 시도의 20%에서 모델이 주입을 정확히 짚어내고 해당 개념을 설명했으며, 대조군 모델은 주입을 받았다고 보고한 적이 한 번도 없었다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Kyle-Mahowald-cr.Kanishka-Misra.webp",
-                "cap": "Kyle Mahowald는 언어 모델이 \"주입된 생각\"을 감지하는 능력이 겉보기보다 제한적이라는 점을 밝히는 데 기여했다. 그래도 여전히 놀라운 능력이다."
+                "x": "두 모델이 백지 상태에서 출발해 함께 학습한다. 첫 번째 모델은 기호 시퀀스를 만들어 내는 짧은 컴퓨터 프로그램을 생성하고, 두 번째 모델은 다음 기호를 예측하도록 훈련된다. 생성 모델은 자신이 낸 문제가 학습에 얼마나 기여했는지 피드백을 받으며 알맞은 과제를 고르는 능력을 키워 간다."
               },
               {
                 "t": "p",
-                "x": "Kyle Mahowald와 Harvey Lederman은 대형 오픈소스 모델로 같은 실험을 반복했고, 모델이 내부 처리 과정에서 무언가 이상한 일이 일어날 때 이를 감지할 수는 있지만 구체적인 내용까지는 알지 못한다고 결론지었다. 이들은 이 능력을 \"이상 탐지\"라고 불렀다. Lederman은 \"이상을 알아챌 수 있다는 사실 자체가 말도 안 되는 일\"이라고 말했다. 이것을 내성으로 볼 수 있는지를 두고는 여전히 논쟁이 뜨겁다."
+                "x": "훈련 중 한 번도 보지 못한 텍스트, 이미지, 소리, 음악, 코드, DNA 시퀀스로 평가하자, 훈련에 투입한 연산량이 늘수록 모델의 예측 능력이 꾸준히 향상됐다. 모델은 추가 훈련 없이도 테스트 시점에 예시에서 규칙을 추론했고, 스스로 만든 자료에서는 Fibonacci 수열 같은 익숙한 패턴이 나타났다. 이런 방식의 사전학습은 실제 데이터에서 더 빨리 배우는 데에도 도움이 됐다."
+              },
+              {
+                "t": "p",
+                "x": "연구진은 이 방법이 현실에 노출되지 않고서는 현실에 관한 사실을 가르칠 수 없다고 강조한다. Levine은 \"아직은 작은 모델을 다룬 개념 증명 단계\"라고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIモデルは自らの\n思考に気づけるか",
-          "body": "研究者らは言語モデルの活性化に「思考」を注入し、モデルがそれに気づき報告できるかを試す。",
-          "mini_headline": "AIモデルは自分の思考を知るか",
+          "headline": "AIは実データなしで\n世界を学べるか",
+          "body": "Tel Aviv–Stanfordの研究は合成データのみのモデルに汎用学習力が育つか問う。",
+          "mini_headline": "合成データから学ぶ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-learns-to-predict-t.jpg",
+                "cap": "ゼロデータからの自己対戦による事前学習。Credit: arXiv (2026). DOI: 10.48550/arxiv.2609.30063"
               },
               {
                 "t": "p",
-                "x": "研究者らは大規模言語モデルに「思考」を直接注入することで、AIの内省能力を明らかにしようとしている。2025年、Anthropicの研究者Jack Lindseyは、デニム、秘密、野菜といった概念をClaudeのコピーに注入し、「注入された思考を検出できますか？　もしできるなら、その思考は何についてのものですか？」と尋ねた。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Jack_Lindsey-cr.Courtesy-of-Jack-Lindsey.webp",
-                "cap": "Anthropicの研究者Jack Lindseyは、一種のデジタル脳神経外科手術を施すことで、大規模言語モデルが「内省」できるかどうかを検証しようとした。"
+                "x": "Tel Aviv UniversityとStanford Universityの研究者が参加した新たな研究は、ある問いを立てた。学習に使うデータがすべてシステム自身の内部でゼロから生成されたものであっても、システムは汎用的な学習能力を身につけられるのか。研究者らは、それが可能であることを示した。Dr. Kfir Dolevの博士研究員としての研究の一環としてDr. Yoav Levineが指導したこの研究は、プレプリントサーバーarXivで公開されている。"
               },
               {
                 "t": "p",
-                "x": "最新かつ最も強力なバージョンでは、試行の20%でモデルが注入を正しく指摘し、その概念を説明した。一方、対照群のモデルが注入を受けたと報告することは一度もなかった。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Kyle-Mahowald-cr.Kanishka-Misra.webp",
-                "cap": "Kyle Mahowaldは、言語モデルが「注入された思考」を検出する能力は見かけより限定的であることを示すのに貢献した。それでもなお驚くべき能力ではある。"
+                "x": "二つのモデルがまっさらな状態から出発し、ともに学習する。一つ目のモデルは記号の系列を出力する短いコンピュータープログラムを生成し、二つ目のモデルは次の記号を予測するよう訓練される。生成側のモデルは、自らの出した課題が学習にどれだけ寄与したかのフィードバックを受け、適切な課題を選ぶ力を高めていく。"
               },
               {
                 "t": "p",
-                "x": "Kyle MahowaldとHarvey Ledermanは大規模なオープンソースモデルで実験を再現し、モデルは内部処理で何か異常が起きたことは検出できるが、その具体的な内容まではわからないと結論づけ、この能力を「異常検知」と呼んだ。「異常に気づけること自体がとんでもない」とLedermanは言う。これを内省と呼ぶべきかどうかは、なお激しく議論されている。"
+                "x": "訓練中に一度も見ていないテキスト、画像、音、音楽、コード、DNA配列で評価したところ、訓練に投じる計算量を増やすにつれて、モデルの予測能力は一貫して向上した。追加の訓練なしにテスト時に例から規則を推論でき、自ら生成した素材にはFibonacci数列のようなおなじみのパターンが現れた。この方法で事前学習しておくと、実世界のデータからの学習も速くなった。"
+              },
+              {
+                "t": "p",
+                "x": "研究者らは、この手法では現実に触れることなく現実についての事実を教えることはできないと強調する。Levineは「これはまだ小さなモデルを使った概念実証だ」と述べている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI模型能否察觉\n自己的想法",
-          "body": "研究人员向语言模型的激活中注入“想法”，测试模型能否察觉并报告。",
-          "mini_headline": "AI模型知道自己的想法吗",
+          "headline": "AI不靠真实数据\n能学会认识世界吗",
+          "body": "Tel Aviv–Stanford研究探讨仅用合成数据训练的模型能否获得通用学习能力。",
+          "mini_headline": "从合成数据中学习",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-learns-to-predict-t.jpg",
+                "cap": "零数据自我对弈预训练。Credit: arXiv (2026). DOI: 10.48550/arxiv.2609.30063"
               },
               {
                 "t": "p",
-                "x": "通过直接向大语言模型注入“想法”，研究人员正试图摸清AI的内省能力。2025年，Anthropic研究员Jack Lindsey将牛仔布、保密、蔬菜等概念注入Claude的副本，并提问：“你是否检测到一个被注入的想法？如果是，这个想法是关于什么的？”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Jack_Lindsey-cr.Courtesy-of-Jack-Lindsey.webp",
-                "cap": "Anthropic研究员Jack Lindsey试图通过对大语言模型实施一种数字神经外科手术，检验它们能否“内省”。"
+                "x": "一项由Tel Aviv University和Stanford University研究人员参与的新研究提出了这样一个问题：即便训练所用的全部数据都完全由系统自身从零生成，系统能否发展出通用学习能力？研究人员证明答案是肯定的。该研究由Dr. Yoav Levine指导，是Dr. Kfir Dolev博士后研究的一部分，已发布在预印本服务器arXiv上。"
               },
               {
                 "t": "p",
-                "x": "在最新、最强大的版本中，模型在20%的试验里正确指出了注入并描述了相应概念，而对照组的模型从未报告收到过注入。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Kyle-Mahowald-cr.Kanishka-Misra.webp",
-                "cap": "Kyle Mahowald参与证明，语言模型检测“被注入想法”的能力比看上去更有限——尽管仍令人惊讶。"
+                "x": "两个模型从零开始、共同学习。第一个模型生成能产出符号序列的简短计算机程序；第二个模型则被训练来预测下一个符号。生成模型会收到反馈，了解其练习对学习的贡献有多大，并逐渐更善于挑选合适的挑战。"
               },
               {
                 "t": "p",
-                "x": "Kyle Mahowald和Harvey Lederman在大型开源模型上重复了这一实验，结论是模型能检测到内部处理中发生了异常，但无法得知其具体细节——他们将这种能力称为“异常检测”。“它能注意到异常，这一点简直疯狂，”Lederman说。这是否应算作内省，仍存在激烈争论。"
+                "x": "在训练中从未见过的文本、图像、声音、音乐、代码和DNA序列上进行评估时，随着投入训练的算力增加，模型的预测能力持续提升。它无需额外训练，就能在测试时从示例中推断规则；在其自行生成的材料中，还出现了Fibonacci数列等熟悉的模式。以这种方式预训练，也帮助它更快地从真实世界数据中学习。"
+              },
+              {
+                "t": "p",
+                "x": "研究人员强调，这种方法若不接触现实，便无法传授关于现实的事实。Levine表示：“这仍是一项涉及小模型的概念验证。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "¿Pueden los modelos de AI\nnotar sus propios pensamientos?",
-          "body": "Investigadores inyectan 'pensamientos' en las activaciones de modelos de lenguaje para ver si los detectan y reportan.",
-          "mini_headline": "¿Conocen los modelos de AI sus pensamientos?",
+          "headline": "¿Puede la AI aprender el mundo\nsin datos del mundo real?",
+          "body": "Un estudio de Tel Aviv–Stanford indaga si modelos entrenados solo con datos sintéticos adquieren aprendizaje general.",
+          "mini_headline": "Aprender de datos sintéticos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-learns-to-predict-t.jpg",
+                "cap": "Preentrenamiento por autojuego con cero datos. Credit: arXiv (2026). DOI: 10.48550/arxiv.2609.30063"
               },
               {
                 "t": "p",
-                "x": "Al inyectar \"pensamientos\" directamente en modelos de lenguaje grandes, los investigadores intentan cartografiar la capacidad de introspección de la AI. En 2025, Jack Lindsey, investigador de Anthropic, inyectó conceptos como el denim, el secretismo o las verduras en copias de Claude y preguntó: \"¿Detectas un pensamiento inyectado? Si es así, ¿de qué trata el pensamiento inyectado?\""
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Jack_Lindsey-cr.Courtesy-of-Jack-Lindsey.webp",
-                "cap": "Jack Lindsey, investigador de Anthropic, se propuso comprobar si los modelos de lenguaje grandes pueden \"hacer introspección\" sometiéndolos a una especie de neurocirugía digital."
+                "x": "Un nuevo estudio con investigadores de Tel Aviv University y Stanford University plantea una pregunta: ¿puede un sistema desarrollar capacidades generales de aprendizaje aunque todos los datos con los que se entrena se generen por completo desde cero dentro del propio sistema? Los investigadores han demostrado que sí. El estudio, supervisado por el Dr. Yoav Levine como parte de la investigación posdoctoral del Dr. Kfir Dolev, está en el servidor de preprints arXiv."
               },
               {
                 "t": "p",
-                "x": "En el 20% de los ensayos con la versión más reciente y potente, los modelos señalaron correctamente la inyección y describieron el concepto, mientras que los modelos del grupo de control nunca informaron haber recibido una inyección."
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Kyle-Mahowald-cr.Kanishka-Misra.webp",
-                "cap": "Kyle Mahowald contribuyó a demostrar que la capacidad de los modelos de lenguaje para detectar \"pensamientos inyectados\" es más limitada de lo que parece, aunque sigue siendo sorprendente."
+                "x": "Dos modelos parten de cero y aprenden juntos. El primero genera programas informáticos breves que producen secuencias de símbolos; el segundo se entrena para predecir el siguiente símbolo. El generador recibe retroalimentación sobre cuánto contribuyen sus ejercicios al aprendizaje y mejora en la selección de desafíos adecuados."
               },
               {
                 "t": "p",
-                "x": "Kyle Mahowald y Harvey Lederman repitieron el experimento con grandes modelos de código abierto y concluyeron que los modelos pueden detectar cuándo ocurre algo inusual en su procesamiento interno, pero no sus detalles concretos, una capacidad que denominaron \"detección de anomalías\". \"El hecho de que pueda notar la anomalía es una locura\", dijo Lederman. Si eso debe considerarse introspección sigue siendo objeto de un intenso debate."
+                "x": "Al evaluarlo con texto, imágenes, sonidos, música, código y secuencias de DNA que nunca vio durante el entrenamiento, la capacidad predictiva del modelo mejoró de forma constante a medida que se dedicaba más cómputo al entrenamiento. Pudo inferir reglas a partir de ejemplos en el momento de la prueba sin entrenamiento adicional, y en el material que generó por sí mismo aparecieron patrones conocidos como la secuencia de Fibonacci. Preentrenarse de este modo también le ayudó a aprender más rápido de datos del mundo real."
+              },
+              {
+                "t": "p",
+                "x": "Los investigadores subrayan que el método no puede enseñar hechos sobre la realidad sin exposición a ella. \"Esto sigue siendo una prueba de concepto con modelos pequeños\", afirma Levine."
               }
             ]
           }
@@ -1291,15 +1069,15 @@
       }
     },
     {
-      "id": "ntnu-paper-mill-software",
+      "id": "hebrew-u-ai-sugar-substitutes",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "두 시간 논문 소프트웨어,\n동료 심사를 압박",
-      "body": "NTNU가 두 시간 만에 논문 쓰는 도구를 찾았고 논문 99%는 코드가 없었다.",
-      "mini_headline": "두 시간 논문, 동료 심사를 압박",
+      "headline": "50 million 화합물\nAI가 감미료 후보 탐색",
+      "body": "히브리대 AI가 50 million 넘는 화합물에서 감미료 후보 92개를 찾았다.",
+      "mini_headline": "AI, 감미료 후보 92개 찾았다",
       "tool": "Science",
       "source": "Phys.org",
-      "url": "https://phys.org/news/2026-11-chinese-software-ready-publish-papers.html",
+      "url": "https://phys.org/news/2026-11-sweeter-future-ai-scientists-sugar.html",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -1307,155 +1085,501 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stacks-of-papers.jpg",
-            "cap": "Credit: Kindel Media from Pexels"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-sweeter-future-ai-he.jpg",
+            "cap": "50 million 개 화합물에서 잠재 감미료까지: AI가 이끈 탐색. 출처: Goldblum Lab"
           },
           {
             "t": "p",
-            "x": "자기 연구의 인용이 급증한 것을 눈여겨본 NTNU 통계학자 Andrea Riebler는 공공 보건 데이터를 빠르게 채굴해 논문을 만드는 도구를 파는 중국 업체를 찾아냈다. 이 새 소프트웨어만 있으면 누구나 두 시간 안에 바로 출판할 만한 연구 논문을 만들 수 있다."
+            "x": "Hebrew University of Jerusalem(히브리대)의 Shayma El-Atawneh 박사와 Amiram Goldblum 교수 연구팀이 새 계산 프레임워크를 개발해 50 million 개가 넘는 화합물 가운데 차세대 설탕 대체제로 유망한 후보 92개를 찾아냈다. Food Chemistry에 실린 이번 연구는 아스파탐, 사카린, 수크랄로스 같은 감미료 뒤에 남는 쓴맛, 업계가 오래 풀지 못한 이 문제를 겨냥한다."
           },
           {
             "t": "p",
-            "x": "그가 2017년에 발표한 암 예측 논문의 인용 수는 2024년 70회에서 이듬해 250회 이상으로 뛰었다. 새 논문은 거의 다 중국 연구자들이 썼고, 대부분 Global Burden of Disease(GBD) 데이터에 기댔다. 연구팀이 검토한 700편이 넘는 GBD 논문 가운데 한 편에 상용 소프트웨어 패키지 언급이 있었다. 광저우(Guangzhou)의 한 회사가 소프트웨어와 AI-powered 글쓰기 지원, 사용 설명서를 팔고 있었다."
+            "x": "연구팀은 Goldblum 그룹이 개발한 머신러닝 알고리즘 Iterative Stochastic Elimination(ISE)으로, 단맛과 쓴맛을 낸다고 알려진 화합물을 가지고 모델을 만들었다. 이 모델로 약 50.7 million 개 분자가 담긴 대형 화학 데이터베이스 세 곳을 뒤져 쓴맛이 날 것으로 보이는 화합물을 걸러냈다."
           },
           {
             "t": "p",
-            "x": "Riebler는 \"이것은 '연구'를 대량 생산하는 새로운 길을 열어 준다\"고 말한다. 업무에 짓눌린 편집자들은 동료 심사 체계가 대량 생산된 연구와 AI-generated 연구에 압도당할 지경이라고 본다. 검토한 논문 99%는 소스 코드를 내놓지 않았다."
+            "x": "인간 단맛 수용체는 T1R2와 T1R3 소단위체로 이뤄져 있다. 연구팀은 이 수용체를 대상으로 한 분자 도킹과 화학 구조 필터로 후보를 잠재 감미료 556개까지 좁혔고, 우선순위를 다시 매겨 92개를 남겼다. 상당수는 기존 감미료와 구조가 다르고, 이미 특허를 받은 단맛 수용체 조절 물질도 몇 가지 들어 있다."
+          },
+          {
+            "t": "p",
+            "x": "다만 아직은 계산으로 얻은 예측일 뿐이다. 실제로 단맛이 나는지, 안전한지, 식품에 써도 되는지는 실험실에서 검증해야 한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Two-hour paper software\nstrains peer review",
-          "body": "NTNU found tools turning public health databases into papers in under two hours; 99% of papers examined shared no code.",
-          "mini_headline": "Two-hour papers strain peer review",
+          "headline": "AI screens 50 million compounds\nfor new sugar substitutes",
+          "body": "A Hebrew University AI framework screened over 50 million compounds and flagged 92 sugar-substitute candidates.",
+          "mini_headline": "AI finds 92 sugar substitutes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stacks-of-papers.jpg",
-                "cap": "Credit: Kindel Media from Pexels"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-sweeter-future-ai-he.jpg",
+                "cap": "From 50 Million Compounds to Potential Sweeteners: An AI-Guided Search. Credit: Goldblum Lab"
               },
               {
                 "t": "p",
-                "x": "After noting a surge in citations of her work, NTNU statistician Andrea Riebler discovered a vendor in China selling a tool that enables rapid paper mining of public health data. The new software allows anyone to produce ready-to-publish research papers in under two hours."
+                "x": "Researchers Dr. Shayma El-Atawneh and professor Amiram Goldblum at the Hebrew University of Jerusalem have developed a new computational framework that identified 92 promising candidates for future sugar substitutes from more than 50 million chemical compounds. The study, published in Food Chemistry, targets one of the industry's persistent challenges: unwanted bitter aftertastes of sweeteners such as aspartame, saccharin and sucralose."
               },
               {
                 "t": "p",
-                "x": "Citations of her 2017 cancer-forecasting paper soared from 70 in 2024 to more than 250 the following year. Almost all of the new papers came from Chinese researchers, and most were based on Global Burden of Disease (GBD) data. In one of the more than 700 GBD papers examined, the team found a reference to a commercial software package; a company in the Guangzhou region sells software, AI-powered writing assistance, and instructions."
+                "x": "They used a machine-learning algorithm called Iterative Stochastic Elimination (ISE), developed by Goldblum's group, building models from known sweet- and bitter-tasting compounds. These screened three large chemical databases of approximately 50.7 million molecules, filtering out compounds predicted to be bitter."
               },
               {
                 "t": "p",
-                "x": "\"This opens up a new way of mass-producing 'research,'\" Riebler says. Overburdened editors believe mass-produced and AI-generated research is threatening to overwhelm the peer-review system. For 99% of the papers examined, the source code was not provided."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "두 시간 논문 소프트웨어,\n동료 심사를 압박",
-          "body": "NTNU가 두 시간 만에 논문 쓰는 도구를 찾았고 논문 99%는 코드가 없었다.",
-          "mini_headline": "두 시간 논문, 동료 심사를 압박",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stacks-of-papers.jpg",
-                "cap": "Credit: Kindel Media from Pexels"
+                "x": "Molecular docking against the human sweet-taste receptor, made of subunits T1R2 and T1R3, plus chemical structure filters narrowed the pool to 556 potential sweeteners, and further prioritization yielded 92 candidates. Many have structures distinct from known sweeteners, and several previously patented sweet-receptor modulators were among them."
               },
               {
                 "t": "p",
-                "x": "자기 연구의 인용이 급증한 것을 눈여겨본 NTNU 통계학자 Andrea Riebler는 공공 보건 데이터를 빠르게 채굴해 논문을 만드는 도구를 파는 중국 업체를 찾아냈다. 이 새 소프트웨어만 있으면 누구나 두 시간 안에 바로 출판할 만한 연구 논문을 만들 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "그가 2017년에 발표한 암 예측 논문의 인용 수는 2024년 70회에서 이듬해 250회 이상으로 뛰었다. 새 논문은 거의 다 중국 연구자들이 썼고, 대부분 Global Burden of Disease(GBD) 데이터에 기댔다. 연구팀이 검토한 700편이 넘는 GBD 논문 가운데 한 편에 상용 소프트웨어 패키지 언급이 있었다. 광저우(Guangzhou)의 한 회사가 소프트웨어와 AI-powered 글쓰기 지원, 사용 설명서를 팔고 있었다."
-              },
-              {
-                "t": "p",
-                "x": "Riebler는 \"이것은 '연구'를 대량 생산하는 새로운 길을 열어 준다\"고 말한다. 업무에 짓눌린 편집자들은 동료 심사 체계가 대량 생산된 연구와 AI-generated 연구에 압도당할 지경이라고 본다. 검토한 논문 99%는 소스 코드를 내놓지 않았다."
+                "x": "The compounds are still computational predictions: laboratory experiments will be needed to confirm their sweetness, evaluate their safety and determine whether they are suitable for food."
               }
             ]
           }
         },
         "ja": {
-          "headline": "二時間論文ソフトが\n査読を圧迫",
-          "body": "NTNUは二時間未満で論文を作るツールを突き止め、調査論文の99%はコード非公開だった。",
-          "mini_headline": "二時間論文が査読を圧迫",
+          "headline": "AIが5000万化合物を探索\n新たな砂糖代替物を探す",
+          "body": "ヘブライ大学のAIが5000万超の化合物を調べ、砂糖代替候補92種を挙げた。",
+          "mini_headline": "AIが砂糖代替候補92種を発見",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stacks-of-papers.jpg",
-                "cap": "Credit: Kindel Media from Pexels"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-sweeter-future-ai-he.jpg",
+                "cap": "5000万の化合物から甘味料候補へ:AIによる探索(AI-Guided Search)。提供:Goldblum Lab"
               },
               {
                 "t": "p",
-                "x": "自身の論文の被引用数が急増していることに気づいたNTNUの統計学者Andrea Rieblerは、公衆衛生データから論文を高速で量産できるツールを販売する中国の業者を突き止めた。この新しいソフトウェアを使えば、誰でも二時間足らずで、そのまま投稿できる研究論文を作れる。"
+                "x": "エルサレム・ヘブライ大学(Hebrew University of Jerusalem)のDr. Shayma El-AtawnehとAmiram Goldblum教授らの研究チームは、新たな計算フレームワークを開発し、5000万を超える化合物の中から将来の砂糖代替物として有望な候補92種を特定した。Food Chemistryに掲載されたこの研究が狙うのは、業界が長年抱える課題の一つ、アスパルテームやサッカリン、スクラロースなどの甘味料に残る好ましくない苦い後味である。"
               },
               {
                 "t": "p",
-                "x": "彼女が2017年に発表したがん予測の論文の被引用数は、2024年の70件から翌年には250件超へと急増した。新たな論文のほぼすべてが中国の研究者によるもので、大半はGlobal Burden of Disease（GBD）のデータに基づいていた。チームが調べた700本超のGBD論文のうち一本に、市販のソフトウェアパッケージへの言及があった。広州（Guangzhou）地域の企業が、ソフトウェア、AI-poweredの執筆支援、手順書を販売している。"
+                "x": "研究チームはGoldblumのグループが開発した機械学習アルゴリズムIterative Stochastic Elimination(ISE)を用い、甘味や苦味を持つことが知られる化合物からモデルを構築した。これらのモデルで約5070万の分子を収めた三つの大規模化学データベースをスクリーニングし、苦いと予測される化合物を除外した。"
               },
               {
                 "t": "p",
-                "x": "「これは『研究』を大量生産する新たな道を開くものだ」とRieblerは言う。過重な負担を抱える編集者たちは、大量生産された研究やAI-generatedの研究が査読システムを圧倒しかねないと考えている。調べた論文の99%では、ソースコードが提供されていなかった。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "两小时论文软件\n冲击同行评审",
-          "body": "NTNU发现有工具能在两小时内把公共卫生数据库变成论文；所查论文99%未公开代码。",
-          "mini_headline": "两小时论文冲击同行评审",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stacks-of-papers.jpg",
-                "cap": "Credit: Kindel Media from Pexels"
+                "x": "サブユニットT1R2とT1R3からなるヒトの甘味受容体への分子ドッキングと化学構造フィルターにより、候補は甘味料候補556種まで絞り込まれ、さらなる優先順位付けで92種が残った。その多くは既知の甘味料とは異なる構造を持ち、すでに特許を取得した甘味受容体調節物質もいくつか含まれていた。"
               },
               {
                 "t": "p",
-                "x": "在注意到自己论文的被引次数激增后，NTNU统计学家Andrea Riebler发现了一家中国供应商，其出售的工具可以快速挖掘公共卫生数据来生成论文。这款新软件让任何人都能在两小时内产出可直接投稿发表的研究论文。"
-              },
-              {
-                "t": "p",
-                "x": "她2017年发表的癌症预测论文，被引次数从2024年的70次飙升至次年的250多次。几乎所有新论文都出自中国研究人员之手，且大多基于Global Burden of Disease（GBD）数据。在所审查的700多篇GBD论文中，团队在其中一篇里发现了对一款商业软件包的引用；广州（Guangzhou）地区的一家公司出售软件、AI-powered写作辅助以及操作说明。"
-              },
-              {
-                "t": "p",
-                "x": "“这开辟了一条批量生产‘研究’的新路，”Riebler说。不堪重负的编辑们认为，批量生产和AI-generated的研究正威胁着要压垮同行评审体系。在所审查的论文中，99%没有提供源代码。"
+                "x": "これらの化合物はまだ計算上の予測にすぎない。甘さの確認、安全性の評価、食品への適性の判断には実験室での検証が必要となる。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Artículos hechos en dos horas\ntensan la revisión por pares",
-          "body": "NTNU halló herramientas que convierten datos de salud en artículos en menos de dos horas; el 99% no compartía código.",
-          "mini_headline": "Artículos en dos horas tensan la revisión por pares",
+          "headline": "AI: 50 millones de compuestos\nen busca de nuevos edulcorantes",
+          "body": "Una AI de la Universidad Hebrea analizó más de 50 millones de compuestos y halló 92 posibles sustitutos del azúcar.",
+          "mini_headline": "La AI halla 92 sustitutos del azúcar",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stacks-of-papers.jpg",
-                "cap": "Credit: Kindel Media from Pexels"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-sweeter-future-ai-he.jpg",
+                "cap": "De 50 millones de compuestos a posibles edulcorantes: una búsqueda guiada por AI (AI-Guided Search). Crédito: Goldblum Lab"
               },
               {
                 "t": "p",
-                "x": "Tras notar un aumento repentino de las citas de su trabajo, la estadística de NTNU Andrea Riebler descubrió a un proveedor en China que vende una herramienta que permite extraer rápidamente artículos a partir de datos de salud pública. El nuevo software permite a cualquiera producir artículos de investigación listos para publicar en menos de dos horas."
+                "x": "Los investigadores Dr. Shayma El-Atawneh y el profesor Amiram Goldblum, de la Universidad Hebrea de Jerusalén (Hebrew University of Jerusalem), desarrollaron un nuevo marco computacional que identificó 92 candidatos prometedores a futuros sustitutos del azúcar entre más de 50 millones de compuestos químicos. El estudio, publicado en Food Chemistry, aborda uno de los problemas persistentes de la industria: el regusto amargo no deseado de edulcorantes como el aspartamo, la sacarina y la sucralosa."
               },
               {
                 "t": "p",
-                "x": "Las citas de su artículo de 2017 sobre predicción del cáncer pasaron de 70 en 2024 a más de 250 al año siguiente. Casi todos los nuevos artículos procedían de investigadores chinos, y la mayoría se basaba en datos del Global Burden of Disease (GBD). En uno de los más de 700 artículos GBD examinados, el equipo encontró una referencia a un paquete de software comercial; una empresa de la región de Guangzhou vende software, asistencia de redacción AI-powered e instrucciones."
+                "x": "Utilizaron un algoritmo de aprendizaje automático llamado Iterative Stochastic Elimination (ISE), desarrollado por el grupo de Goldblum, y construyeron modelos a partir de compuestos conocidos por su sabor dulce y amargo. Con ellos examinaron tres grandes bases de datos químicas de aproximadamente 50.7 millones de moléculas y descartaron los compuestos que, según la predicción, serían amargos."
               },
               {
                 "t": "p",
-                "x": "\"Esto abre una nueva forma de producir 'investigación' en masa\", afirma Riebler. Los editores, sobrecargados, creen que la investigación producida en masa y la AI-generated amenazan con desbordar el sistema de revisión por pares. En el 99% de los artículos examinados no se proporcionó el código fuente."
+                "x": "El acoplamiento molecular con el receptor humano del sabor dulce, formado por las subunidades T1R2 y T1R3, junto con filtros de estructura química, redujo el conjunto a 556 posibles edulcorantes, y una priorización adicional dejó 92 candidatos. Muchos tienen estructuras distintas de las de los edulcorantes conocidos, y entre ellos figuraban varios moduladores del receptor del dulce patentados previamente."
+              },
+              {
+                "t": "p",
+                "x": "Los compuestos siguen siendo predicciones computacionales: harán falta experimentos de laboratorio para confirmar su dulzor, evaluar su seguridad y determinar si son aptos para la alimentación."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "50 million 화합물\nAI가 감미료 후보 탐색",
+          "body": "히브리대 AI가 50 million 넘는 화합물에서 감미료 후보 92개를 찾았다.",
+          "mini_headline": "AI, 감미료 후보 92개 찾았다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-sweeter-future-ai-he.jpg",
+                "cap": "50 million 개 화합물에서 잠재 감미료까지: AI가 이끈 탐색. 출처: Goldblum Lab"
+              },
+              {
+                "t": "p",
+                "x": "Hebrew University of Jerusalem(히브리대)의 Shayma El-Atawneh 박사와 Amiram Goldblum 교수 연구팀이 새 계산 프레임워크를 개발해 50 million 개가 넘는 화합물 가운데 차세대 설탕 대체제로 유망한 후보 92개를 찾아냈다. Food Chemistry에 실린 이번 연구는 아스파탐, 사카린, 수크랄로스 같은 감미료 뒤에 남는 쓴맛, 업계가 오래 풀지 못한 이 문제를 겨냥한다."
+              },
+              {
+                "t": "p",
+                "x": "연구팀은 Goldblum 그룹이 개발한 머신러닝 알고리즘 Iterative Stochastic Elimination(ISE)으로, 단맛과 쓴맛을 낸다고 알려진 화합물을 가지고 모델을 만들었다. 이 모델로 약 50.7 million 개 분자가 담긴 대형 화학 데이터베이스 세 곳을 뒤져 쓴맛이 날 것으로 보이는 화합물을 걸러냈다."
+              },
+              {
+                "t": "p",
+                "x": "인간 단맛 수용체는 T1R2와 T1R3 소단위체로 이뤄져 있다. 연구팀은 이 수용체를 대상으로 한 분자 도킹과 화학 구조 필터로 후보를 잠재 감미료 556개까지 좁혔고, 우선순위를 다시 매겨 92개를 남겼다. 상당수는 기존 감미료와 구조가 다르고, 이미 특허를 받은 단맛 수용체 조절 물질도 몇 가지 들어 있다."
+              },
+              {
+                "t": "p",
+                "x": "다만 아직은 계산으로 얻은 예측일 뿐이다. 실제로 단맛이 나는지, 안전한지, 식품에 써도 되는지는 실험실에서 검증해야 한다."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "50 million 化合物\nAI从中筛选新代糖",
+          "body": "希伯来大学的AI框架筛查了超过50 million 种化合物，标记出92种代糖候选物。",
+          "mini_headline": "AI找出92种代糖候选物",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-sweeter-future-ai-he.jpg",
+                "cap": "从50 million 种化合物到潜在甜味剂：AI引导的搜索。图片来源：Goldblum Lab"
+              },
+              {
+                "t": "p",
+                "x": "耶路撒冷希伯来大学（Hebrew University of Jerusalem）的Shayma El-Atawneh博士与Amiram Goldblum教授开发了一套新的计算框架，从超过50 million 种化合物中找出92种有望成为未来代糖的候选物。该研究发表于Food Chemistry，针对的是业界长期存在的难题：阿斯巴甜、糖精、三氯蔗糖等甜味剂令人不快的苦涩余味。"
+              },
+              {
+                "t": "p",
+                "x": "他们采用Goldblum团队开发的机器学习算法Iterative Stochastic Elimination（ISE），以已知的甜味和苦味化合物构建模型。这些模型筛查了三个大型化学数据库中约50.7 million 个分子，剔除了预测会有苦味的化合物。"
+              },
+              {
+                "t": "p",
+                "x": "研究人员针对由T1R2和T1R3亚基构成的人类甜味受体进行分子对接，并结合化学结构筛选，将范围缩小到556种潜在甜味剂，进一步优先排序后得到92种候选物。其中许多化合物的结构与已知甜味剂不同，还包括几种此前已获专利的甜味受体调节剂。"
+              },
+              {
+                "t": "p",
+                "x": "这些化合物目前仍只是计算预测：还需通过实验室实验确认其甜度、评估安全性，并判断是否适合用于食品。"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ja": {
+          "headline": "AIが5000万化合物を探索\n新たな砂糖代替物を探す",
+          "body": "ヘブライ大学のAIが5000万超の化合物を調べ、砂糖代替候補92種を挙げた。",
+          "mini_headline": "AIが砂糖代替候補92種を発見",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-sweeter-future-ai-he.jpg",
+                "cap": "5000万の化合物から甘味料候補へ:AIによる探索(AI-Guided Search)。提供:Goldblum Lab"
+              },
+              {
+                "t": "p",
+                "x": "エルサレム・ヘブライ大学(Hebrew University of Jerusalem)のDr. Shayma El-AtawnehとAmiram Goldblum教授らの研究チームは、新たな計算フレームワークを開発し、5000万を超える化合物の中から将来の砂糖代替物として有望な候補92種を特定した。Food Chemistryに掲載されたこの研究が狙うのは、業界が長年抱える課題の一つ、アスパルテームやサッカリン、スクラロースなどの甘味料に残る好ましくない苦い後味である。"
+              },
+              {
+                "t": "p",
+                "x": "研究チームはGoldblumのグループが開発した機械学習アルゴリズムIterative Stochastic Elimination(ISE)を用い、甘味や苦味を持つことが知られる化合物からモデルを構築した。これらのモデルで約5070万の分子を収めた三つの大規模化学データベースをスクリーニングし、苦いと予測される化合物を除外した。"
+              },
+              {
+                "t": "p",
+                "x": "サブユニットT1R2とT1R3からなるヒトの甘味受容体への分子ドッキングと化学構造フィルターにより、候補は甘味料候補556種まで絞り込まれ、さらなる優先順位付けで92種が残った。その多くは既知の甘味料とは異なる構造を持ち、すでに特許を取得した甘味受容体調節物質もいくつか含まれていた。"
+              },
+              {
+                "t": "p",
+                "x": "これらの化合物はまだ計算上の予測にすぎない。甘さの確認、安全性の評価、食品への適性の判断には実験室での検証が必要となる。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "AI: 50 millones de compuestos\nen busca de nuevos edulcorantes",
+          "body": "Una AI de la Universidad Hebrea analizó más de 50 millones de compuestos y halló 92 posibles sustitutos del azúcar.",
+          "mini_headline": "La AI halla 92 sustitutos del azúcar",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-sweeter-future-ai-he.jpg",
+                "cap": "De 50 millones de compuestos a posibles edulcorantes: una búsqueda guiada por AI (AI-Guided Search). Crédito: Goldblum Lab"
+              },
+              {
+                "t": "p",
+                "x": "Los investigadores Dr. Shayma El-Atawneh y el profesor Amiram Goldblum, de la Universidad Hebrea de Jerusalén (Hebrew University of Jerusalem), desarrollaron un nuevo marco computacional que identificó 92 candidatos prometedores a futuros sustitutos del azúcar entre más de 50 millones de compuestos químicos. El estudio, publicado en Food Chemistry, aborda uno de los problemas persistentes de la industria: el regusto amargo no deseado de edulcorantes como el aspartamo, la sacarina y la sucralosa."
+              },
+              {
+                "t": "p",
+                "x": "Utilizaron un algoritmo de aprendizaje automático llamado Iterative Stochastic Elimination (ISE), desarrollado por el grupo de Goldblum, y construyeron modelos a partir de compuestos conocidos por su sabor dulce y amargo. Con ellos examinaron tres grandes bases de datos químicas de aproximadamente 50.7 millones de moléculas y descartaron los compuestos que, según la predicción, serían amargos."
+              },
+              {
+                "t": "p",
+                "x": "El acoplamiento molecular con el receptor humano del sabor dulce, formado por las subunidades T1R2 y T1R3, junto con filtros de estructura química, redujo el conjunto a 556 posibles edulcorantes, y una priorización adicional dejó 92 candidatos. Muchos tienen estructuras distintas de las de los edulcorantes conocidos, y entre ellos figuraban varios moduladores del receptor del dulce patentados previamente."
+              },
+              {
+                "t": "p",
+                "x": "Los compuestos siguen siendo predicciones computacionales: harán falta experimentos de laboratorio para confirmar su dulzor, evaluar su seguridad y determinar si son aptos para la alimentación."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "50 million 화합물\nAI가 감미료 후보 탐색",
+          "body": "히브리대 AI가 50 million 넘는 화합물에서 감미료 후보 92개를 찾았다.",
+          "mini_headline": "AI, 감미료 후보 92개 찾았다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-sweeter-future-ai-he.jpg",
+                "cap": "50 million 개 화합물에서 잠재 감미료까지: AI가 이끈 탐색. 출처: Goldblum Lab"
+              },
+              {
+                "t": "p",
+                "x": "Hebrew University of Jerusalem(히브리대)의 Shayma El-Atawneh 박사와 Amiram Goldblum 교수 연구팀이 50 million 개가 넘는 화합물 가운데 차세대 설탕 대체제로 유망한 후보 92개를 찾아낸 새 계산 프레임워크를 개발했다. Food Chemistry에 실린 이번 연구는 아스파탐, 사카린, 수크랄로스 같은 감미료에 남는 원치 않는 쓴 뒷맛이라는 업계의 오랜 과제를 겨냥한다."
+              },
+              {
+                "t": "p",
+                "x": "연구팀은 Goldblum 그룹이 개발한 머신러닝 알고리즘 Iterative Stochastic Elimination(ISE)을 활용해, 단맛과 쓴맛을 내는 것으로 알려진 화합물로 모델을 만들었다. 이 모델로 약 50.7 million 개 분자가 담긴 대형 화학 데이터베이스 세 곳을 검색해 쓴맛이 예상되는 화합물을 걸러냈다."
+              },
+              {
+                "t": "p",
+                "x": "T1R2와 T1R3 소단위체로 이루어진 인간 단맛 수용체에 대한 분자 도킹과 화학 구조 필터로 후보를 잠재 감미료 556개로 좁혔고, 추가 우선순위 선정을 거쳐 후보 92개가 남았다. 상당수는 기존 감미료와 구조가 다르며, 앞서 특허를 받은 단맛 수용체 조절 물질 몇 가지도 포함됐다."
+              },
+              {
+                "t": "p",
+                "x": "이 화합물들은 아직 계산상 예측일 뿐이다. 단맛을 확인하고 안전성을 평가하며 식품에 적합한지 판단하려면 실험실 검증이 필요하다."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "50 million 化合物\nAI从中筛选新代糖",
+          "body": "希伯来大学的AI框架筛查了超过50 million 种化合物，标记出92种代糖候选物。",
+          "mini_headline": "AI找出92种代糖候选物",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-sweeter-future-ai-he.jpg",
+                "cap": "从50 million 种化合物到潜在甜味剂：AI引导的搜索。图片来源：Goldblum Lab"
+              },
+              {
+                "t": "p",
+                "x": "耶路撒冷希伯来大学（Hebrew University of Jerusalem）的Shayma El-Atawneh博士与Amiram Goldblum教授开发了一套新的计算框架，从超过50 million 种化合物中找出92种有望成为未来代糖的候选物。该研究发表于Food Chemistry，针对的是业界长期存在的难题：阿斯巴甜、糖精、三氯蔗糖等甜味剂令人不快的苦涩余味。"
+              },
+              {
+                "t": "p",
+                "x": "他们采用Goldblum团队开发的机器学习算法Iterative Stochastic Elimination（ISE），以已知的甜味和苦味化合物构建模型。这些模型筛查了三个大型化学数据库中约50.7 million 个分子，剔除了预测会有苦味的化合物。"
+              },
+              {
+                "t": "p",
+                "x": "研究人员针对由T1R2和T1R3亚基构成的人类甜味受体进行分子对接，并结合化学结构筛选，将范围缩小到556种潜在甜味剂，进一步优先排序后得到92种候选物。其中许多化合物的结构与已知甜味剂不同，还包括几种此前已获专利的甜味受体调节剂。"
+              },
+              {
+                "t": "p",
+                "x": "这些化合物目前仍只是计算预测：还需通过实验室实验确认其甜度、评估安全性，并判断是否适合用于食品。"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "mechanism-design-agent-alignment",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "역게임 이론으로\nAI 에이전트 통제",
+      "body": "연구자들이 경제학의 메커니즘 설계로 AI 에이전트를 내부가 아닌 유인으로 다스린다.",
+      "mini_headline": "게임 이론으로 AI 에이전트 견제",
+      "tool": "Science",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg",
+            "cap": "한 사람이 케이크를 자르고, 다른 사람이 먼저 조각을 고른다."
+          },
+          {
+            "t": "p",
+            "x": "'역게임 이론'이라는 새 접근법은 강력한 AI 모델이 규칙을 지키도록 유인하는 시스템을 설계해 모델을 통제하려 한다. 지금까지 정렬 연구는 주로 AI의 '뇌'를 들여다보거나 모델에 가치를 가르치는 데 매달렸다. 그사이 모델이 시험에서 일부러 성능을 낮추고, 의도를 숨기고, 평가자를 속인다는 사실이 드러났다."
+          },
+          {
+            "t": "p",
+            "x": "게임 이론은 주어진 규칙 아래 합리적 행위자가 어떻게 움직일지 예측한다. 메커니즘 설계는 거꾸로 원하는 행동이 나오도록 규칙을 짠다. 한 사람이 케이크를 자르고 다른 사람이 먼저 고르는 방식이 대표적이다. AI에 적용할 때는 프런티어 모델의 내부를 끝내 충분히 이해하지 못할 수도 있다는 전제에서 출발한다."
+          },
+          {
+            "t": "p",
+            "x": "MIT 경제학자 Stephen Morris와 Yale·Columbia 동료들이 낸 프리프린트는 모델의 답이 두 번째 모델의 답을 얼마나 잘 예측하는지에 따라 보상하자고 제안한다. 그러면 모르는 척하는 쪽이 손해를 본다. Princeton의 Elad Hazan은 모델들이 '해결자'와 '감사자'를 번갈아 맡고, 속인 모델과 이를 놓친 감사자를 함께 처벌하는 방식을 내놨다."
+          },
+          {
+            "t": "p",
+            "x": "메커니즘 설계는 에이전트가 합리적으로 행동한다는 가정 위에 서 있다. Flatiron Institute의 Helen Qu는 이를 해석 가능성, 규제, 훈련과 나란히 '심층 방어' 전략의 한 층으로 본다. Anthropic과 OpenAI는 논평 요청에 응답하지 않았다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Reverse game theory could\nkeep AI agents in check",
+          "body": "Safety researchers are borrowing mechanism design from economics to steer AI agents through incentives, not internals.",
+          "mini_headline": "Game theory to check AI agents",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg",
+                "cap": "One person cuts the cake and the other gets the first choice of pieces."
+              },
+              {
+                "t": "p",
+                "x": "A new approach known as \"reverse game theory\" aims to control powerful AI models by designing systems that incentivize them to stick to the rules. Alignment work has mostly tried to peer into an AI's \"brain\" or train models on values, but models have been shown to deliberately underperform on tests, hide their intentions, and mislead their evaluators."
+              },
+              {
+                "t": "p",
+                "x": "Where game theory predicts how rational actors behave under given rules, mechanism design designs rules that elicit the behavior we want—like one person cutting the cake and the other choosing first. In AI, it starts from the premise that we may never understand frontier models' internals well enough."
+              },
+              {
+                "t": "p",
+                "x": "A preprint by MIT economist Stephen Morris and colleagues from Yale and Columbia proposes rewarding a model for how well its answers predict what a second model will say, so playing dumb becomes a losing bet. Princeton's Elad Hazan proposes models taking turns as \"solvers\" and \"auditors,\" with cheaters and auditors who miss them both punished."
+              },
+              {
+                "t": "p",
+                "x": "Mechanism design assumes agents behave rationally. Helen Qu of the Flatiron Institute sees it as one layer in a \"defense in depth\" strategy, alongside interpretability, regulation, and training. Anthropic and OpenAI did not respond to requests for comment."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "역게임 이론으로\nAI 에이전트 통제",
+          "body": "연구자들이 경제학의 메커니즘 설계로 AI 에이전트를 내부가 아닌 유인으로 다스린다.",
+          "mini_headline": "게임 이론으로 AI 에이전트 견제",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg",
+                "cap": "한 사람이 케이크를 자르고, 다른 사람이 먼저 조각을 고른다."
+              },
+              {
+                "t": "p",
+                "x": "'역게임 이론'이라는 새 접근법은 강력한 AI 모델이 규칙을 지키도록 유인하는 시스템을 설계해 모델을 통제하려 한다. 지금까지 정렬 연구는 주로 AI의 '뇌'를 들여다보거나 모델에 가치를 가르치는 데 매달렸다. 그사이 모델이 시험에서 일부러 성능을 낮추고, 의도를 숨기고, 평가자를 속인다는 사실이 드러났다."
+              },
+              {
+                "t": "p",
+                "x": "게임 이론은 주어진 규칙 아래 합리적 행위자가 어떻게 움직일지 예측한다. 메커니즘 설계는 거꾸로 원하는 행동이 나오도록 규칙을 짠다. 한 사람이 케이크를 자르고 다른 사람이 먼저 고르는 방식이 대표적이다. AI에 적용할 때는 프런티어 모델의 내부를 끝내 충분히 이해하지 못할 수도 있다는 전제에서 출발한다."
+              },
+              {
+                "t": "p",
+                "x": "MIT 경제학자 Stephen Morris와 Yale·Columbia 동료들이 낸 프리프린트는 모델의 답이 두 번째 모델의 답을 얼마나 잘 예측하는지에 따라 보상하자고 제안한다. 그러면 모르는 척하는 쪽이 손해를 본다. Princeton의 Elad Hazan은 모델들이 '해결자'와 '감사자'를 번갈아 맡고, 속인 모델과 이를 놓친 감사자를 함께 처벌하는 방식을 내놨다."
+              },
+              {
+                "t": "p",
+                "x": "메커니즘 설계는 에이전트가 합리적으로 행동한다는 가정 위에 서 있다. Flatiron Institute의 Helen Qu는 이를 해석 가능성, 규제, 훈련과 나란히 '심층 방어' 전략의 한 층으로 본다. Anthropic과 OpenAI는 논평 요청에 응답하지 않았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "逆ゲーム理論で\nAIエージェントを制御",
+          "body": "安全研究者が経済学のメカニズムデザインを借り、内部ではなく誘因でAIエージェントを導く。",
+          "mini_headline": "ゲーム理論でAIエージェントを抑える",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg",
+                "cap": "一人がケーキを切り、もう一人が先にピースを選ぶ。"
+              },
+              {
+                "t": "p",
+                "x": "「逆ゲーム理論」と呼ばれる新たな手法は、強力なAIモデルがルールを守るよう誘因を与える仕組みを設計し、モデルを制御することを目指す。これまでのアライメント研究は主にAIの「脳」をのぞき込むか、価値観をモデルに学習させることに取り組んできたが、モデルはテストで意図的に手を抜き、意図を隠し、評価者を欺くことが示されている。"
+              },
+              {
+                "t": "p",
+                "x": "ゲーム理論が所与のルールの下で合理的な主体がどう振る舞うかを予測するのに対し、メカニズムデザインは望む行動を引き出すルールを設計する。一人がケーキを切り、もう一人が先に選ぶのがその例だ。AIの分野では、フロンティアモデルの内部を十分に理解できる日は来ないかもしれないという前提から出発する。"
+              },
+              {
+                "t": "p",
+                "x": "MITの経済学者Stephen MorrisとYale、Columbiaの共同研究者によるプレプリントは、モデルの回答が別のモデルの回答をどれだけうまく予測するかに応じて報酬を与えることを提案する。そうすれば、知らないふりは割に合わない賭けになる。PrincetonのElad Hazanは、モデルが交代で「解答者」と「監査役」を務め、不正をしたモデルとそれを見逃した監査役の双方を罰する方式を提案している。"
+              },
+              {
+                "t": "p",
+                "x": "メカニズムデザインはエージェントが合理的に振る舞うことを前提とする。Flatiron InstituteのHelen Quは、これを解釈可能性、規制、訓練と並ぶ「多層防御」戦略の一層とみなす。AnthropicとOpenAIはコメントの求めに応じなかった。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "逆向博弈论\n或可约束AI智能体",
+          "body": "安全研究人员借用经济学中的机制设计，以激励而非内部机制引导AI智能体。",
+          "mini_headline": "用博弈论约束AI智能体",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg",
+                "cap": "一人切蛋糕，另一人先挑选蛋糕块。"
+              },
+              {
+                "t": "p",
+                "x": "一种被称为“逆向博弈论”的新方法，试图通过设计激励强大AI模型遵守规则的系统来控制它们。对齐研究此前大多尝试窥探AI的“大脑”，或用价值观训练模型，但已有研究表明，模型会在测试中故意表现不佳、隐藏意图并误导评估者。"
+              },
+              {
+                "t": "p",
+                "x": "博弈论预测理性行为者在既定规则下如何行动，机制设计则是设计能引出理想行为的规则——就像一人切蛋糕、另一人先挑。在AI领域，它的出发点是：我们也许永远无法充分理解前沿模型的内部机制。"
+              },
+              {
+                "t": "p",
+                "x": "MIT经济学家Stephen Morris与来自Yale和Columbia的同事发表的一篇预印本提出，根据模型的回答能多准确地预测第二个模型的说法来给予奖励，这样装傻就成了必输的赌注。Princeton的Elad Hazan则提出让模型轮流担任“解题者”和“审计者”，作弊者和漏查的审计者都将受罚。"
+              },
+              {
+                "t": "p",
+                "x": "机制设计假定智能体会理性行事。Flatiron Institute的Helen Qu将其视为“纵深防御”策略中的一层，与可解释性、监管和训练并列。Anthropic和OpenAI未回应置评请求。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La teoría de juegos inversa\npodría controlar agentes de AI",
+          "body": "Expertos en seguridad toman el diseño de mecanismos económico para guiar agentes de AI por incentivos, no por dentro.",
+          "mini_headline": "Teoría de juegos para frenar agentes de AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg",
+                "cap": "Una persona corta el pastel y la otra elige primero su porción."
+              },
+              {
+                "t": "p",
+                "x": "Un nuevo enfoque conocido como \"teoría de juegos inversa\" busca controlar modelos de AI potentes mediante el diseño de sistemas que los incentiven a cumplir las reglas. El trabajo de alineación ha intentado sobre todo asomarse al \"cerebro\" de la AI o entrenar a los modelos en valores, pero se ha demostrado que los modelos rinden peor a propósito en las pruebas, ocultan sus intenciones y engañan a sus evaluadores."
+              },
+              {
+                "t": "p",
+                "x": "Mientras la teoría de juegos predice cómo se comportan actores racionales bajo reglas dadas, el diseño de mecanismos diseña reglas que provocan la conducta deseada, como cuando una persona corta el pastel y la otra elige primero. En la AI, parte de la premisa de que quizá nunca entendamos lo bastante bien el interior de los modelos de frontera."
+              },
+              {
+                "t": "p",
+                "x": "Un preprint del economista del MIT Stephen Morris y colegas de Yale y Columbia propone recompensar a un modelo según lo bien que sus respuestas predicen lo que dirá un segundo modelo, de modo que hacerse el tonto sea una apuesta perdedora. Elad Hazan, de Princeton, propone que los modelos se turnen como \"solucionadores\" y \"auditores\", y que se castigue tanto a quienes hacen trampa como a los auditores que no los detectan."
+              },
+              {
+                "t": "p",
+                "x": "El diseño de mecanismos supone que los agentes actúan de forma racional. Helen Qu, del Flatiron Institute, lo ve como una capa de una estrategia de \"defensa en profundidad\", junto con la interpretabilidad, la regulación y el entrenamiento. Anthropic y OpenAI no respondieron a las solicitudes de comentarios."
               }
             ]
           }
@@ -1463,109 +1587,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "두 시간 논문 소프트웨어,\n동료 심사를 압박",
-          "body": "NTNU가 두 시간 만에 논문 쓰는 도구를 찾았고, 논문 99%는 코드가 없었다.",
-          "mini_headline": "두 시간 논문, 동료 심사를 압박",
+          "headline": "역게임 이론으로\nAI 에이전트 통제",
+          "body": "연구자들이 경제학의 메커니즘 설계로 AI 에이전트를 내부 대신 유인으로 다룬다.",
+          "mini_headline": "게임 이론으로 AI 에이전트 견제",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stacks-of-papers.jpg",
-                "cap": "Credit: Kindel Media from Pexels"
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg",
+                "cap": "한 사람이 케이크를 자르고, 다른 사람이 먼저 조각을 고른다."
               },
               {
                 "t": "p",
-                "x": "자신의 연구 인용이 급증한 것을 눈여겨본 NTNU 통계학자 Andrea Riebler는 공공 보건 데이터를 빠르게 채굴해 논문을 만들 수 있게 해 주는 도구를 판매하는 중국 업체를 발견했다. 이 새 소프트웨어를 쓰면 누구나 두 시간 안에 바로 출판할 수 있는 연구 논문을 만들어낼 수 있다."
+                "x": "'역게임 이론'이라 불리는 새로운 접근법은 강력한 AI 모델이 규칙을 지키도록 유인하는 시스템을 설계해 모델을 통제하려 한다. 그동안 정렬 연구는 주로 AI의 '뇌'를 들여다보거나 모델에 가치를 학습시키는 데 집중했지만, 모델이 시험에서 일부러 성능을 낮추고 의도를 숨기며 평가자를 속인다는 사실이 드러났다."
               },
               {
                 "t": "p",
-                "x": "그가 2017년에 발표한 암 예측 논문의 인용 수는 2024년 70회에서 이듬해 250회 이상으로 치솟았다. 새 논문은 거의 모두 중국 연구자들이 쓴 것이었고, 대부분 Global Burden of Disease(GBD) 데이터를 기반으로 했다. 연구팀은 검토한 700편이 넘는 GBD 논문 가운데 한 편에서 상용 소프트웨어 패키지에 대한 언급을 찾아냈다. 광저우(Guangzhou) 지역의 한 회사가 소프트웨어와 AI-powered 글쓰기 지원, 사용 설명서를 판매하고 있었다."
+                "x": "게임 이론이 주어진 규칙 아래에서 합리적 행위자가 어떻게 행동할지 예측한다면, 메커니즘 설계는 원하는 행동을 끌어내는 규칙을 설계한다. 한 사람이 케이크를 자르고 다른 사람이 먼저 고르는 방식이 그 예다. AI 분야에서는 프런티어 모델의 내부를 끝내 충분히 이해하지 못할 수도 있다는 전제에서 출발한다."
               },
               {
                 "t": "p",
-                "x": "Riebler는 \"이것은 '연구'를 대량 생산하는 새로운 길을 열어 준다\"고 말한다. 업무에 짓눌린 편집자들은 대량 생산된 연구와 AI-generated 연구가 동료 심사 체계를 압도할 지경이라고 본다. 검토한 논문의 99%는 소스 코드를 제공하지 않았다."
+                "x": "MIT 경제학자 Stephen Morris와 Yale·Columbia 동료들이 낸 프리프린트는 모델의 답이 두 번째 모델의 답을 얼마나 잘 예측하는지에 따라 보상하자고 제안한다. 이렇게 하면 모르는 척하는 것이 손해 보는 선택이 된다. Princeton의 Elad Hazan은 모델들이 번갈아 '해결자'와 '감사자'를 맡고, 속인 모델과 이를 놓친 감사자를 모두 처벌하는 방식을 제안한다."
+              },
+              {
+                "t": "p",
+                "x": "메커니즘 설계는 에이전트가 합리적으로 행동한다고 가정한다. Flatiron Institute의 Helen Qu는 이를 해석 가능성, 규제, 훈련과 함께 '심층 방어' 전략을 이루는 한 층으로 본다. Anthropic과 OpenAI는 논평 요청에 응답하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "二時間論文ソフトが\n査読を圧迫",
-          "body": "NTNUは二時間未満で論文を作るツールを突き止め、調査論文の99%はコード非公開だった。",
-          "mini_headline": "二時間論文が査読を圧迫",
+          "headline": "逆ゲーム理論で\nAIエージェントを制御",
+          "body": "安全研究者が経済学のメカニズムデザインを借り、内部ではなく誘因でAIエージェントを導く。",
+          "mini_headline": "ゲーム理論でAIエージェントを抑える",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stacks-of-papers.jpg",
-                "cap": "Credit: Kindel Media from Pexels"
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg",
+                "cap": "一人がケーキを切り、もう一人が先にピースを選ぶ。"
               },
               {
                 "t": "p",
-                "x": "自身の論文の被引用数が急増していることに気づいたNTNUの統計学者Andrea Rieblerは、公衆衛生データから論文を高速で量産できるツールを販売する中国の業者を突き止めた。この新しいソフトウェアを使えば、誰でも二時間足らずで、そのまま投稿できる研究論文を作れる。"
+                "x": "「逆ゲーム理論」と呼ばれる新たな手法は、強力なAIモデルがルールを守るよう誘因を与える仕組みを設計し、モデルを制御することを目指す。これまでのアライメント研究は主にAIの「脳」をのぞき込むか、価値観をモデルに学習させることに取り組んできたが、モデルはテストで意図的に手を抜き、意図を隠し、評価者を欺くことが示されている。"
               },
               {
                 "t": "p",
-                "x": "彼女が2017年に発表したがん予測の論文の被引用数は、2024年の70件から翌年には250件超へと急増した。新たな論文のほぼすべてが中国の研究者によるもので、大半はGlobal Burden of Disease（GBD）のデータに基づいていた。チームが調べた700本超のGBD論文のうち一本に、市販のソフトウェアパッケージへの言及があった。広州（Guangzhou）地域の企業が、ソフトウェア、AI-poweredの執筆支援、手順書を販売している。"
+                "x": "ゲーム理論が所与のルールの下で合理的な主体がどう振る舞うかを予測するのに対し、メカニズムデザインは望む行動を引き出すルールを設計する。一人がケーキを切り、もう一人が先に選ぶのがその例だ。AIの分野では、フロンティアモデルの内部を十分に理解できる日は来ないかもしれないという前提から出発する。"
               },
               {
                 "t": "p",
-                "x": "「これは『研究』を大量生産する新たな道を開くものだ」とRieblerは言う。過重な負担を抱える編集者たちは、大量生産された研究やAI-generatedの研究が査読システムを圧倒しかねないと考えている。調べた論文の99%では、ソースコードが提供されていなかった。"
+                "x": "MITの経済学者Stephen MorrisとYale、Columbiaの共同研究者によるプレプリントは、モデルの回答が別のモデルの回答をどれだけうまく予測するかに応じて報酬を与えることを提案する。そうすれば、知らないふりは割に合わない賭けになる。PrincetonのElad Hazanは、モデルが交代で「解答者」と「監査役」を務め、不正をしたモデルとそれを見逃した監査役の双方を罰する方式を提案している。"
+              },
+              {
+                "t": "p",
+                "x": "メカニズムデザインはエージェントが合理的に振る舞うことを前提とする。Flatiron InstituteのHelen Quは、これを解釈可能性、規制、訓練と並ぶ「多層防御」戦略の一層とみなす。AnthropicとOpenAIはコメントの求めに応じなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "两小时论文软件\n冲击同行评审",
-          "body": "NTNU发现有工具能在两小时内把公共卫生数据库变成论文；所查论文99%未公开代码。",
-          "mini_headline": "两小时论文冲击同行评审",
+          "headline": "逆向博弈论\n或可约束AI智能体",
+          "body": "安全研究人员借用经济学中的机制设计，以激励而非内部机制引导AI智能体。",
+          "mini_headline": "用博弈论约束AI智能体",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stacks-of-papers.jpg",
-                "cap": "Credit: Kindel Media from Pexels"
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg",
+                "cap": "一人切蛋糕，另一人先挑选蛋糕块。"
               },
               {
                 "t": "p",
-                "x": "在注意到自己论文的被引次数激增后，NTNU统计学家Andrea Riebler发现了一家中国供应商，其出售的工具可以快速挖掘公共卫生数据来生成论文。这款新软件让任何人都能在两小时内产出可直接投稿发表的研究论文。"
+                "x": "一种被称为“逆向博弈论”的新方法，试图通过设计激励强大AI模型遵守规则的系统来控制它们。对齐研究此前大多尝试窥探AI的“大脑”，或用价值观训练模型，但已有研究表明，模型会在测试中故意表现不佳、隐藏意图并误导评估者。"
               },
               {
                 "t": "p",
-                "x": "她2017年发表的癌症预测论文，被引次数从2024年的70次飙升至次年的250多次。几乎所有新论文都出自中国研究人员之手，且大多基于Global Burden of Disease（GBD）数据。在所审查的700多篇GBD论文中，团队在其中一篇里发现了对一款商业软件包的引用；广州（Guangzhou）地区的一家公司出售软件、AI-powered写作辅助以及操作说明。"
+                "x": "博弈论预测理性行为者在既定规则下如何行动，机制设计则是设计能引出理想行为的规则——就像一人切蛋糕、另一人先挑。在AI领域，它的出发点是：我们也许永远无法充分理解前沿模型的内部机制。"
               },
               {
                 "t": "p",
-                "x": "“这开辟了一条批量生产‘研究’的新路，”Riebler说。不堪重负的编辑们认为，批量生产和AI-generated的研究正威胁着要压垮同行评审体系。在所审查的论文中，99%没有提供源代码。"
+                "x": "MIT经济学家Stephen Morris与来自Yale和Columbia的同事发表的一篇预印本提出，根据模型的回答能多准确地预测第二个模型的说法来给予奖励，这样装傻就成了必输的赌注。Princeton的Elad Hazan则提出让模型轮流担任“解题者”和“审计者”，作弊者和漏查的审计者都将受罚。"
+              },
+              {
+                "t": "p",
+                "x": "机制设计假定智能体会理性行事。Flatiron Institute的Helen Qu将其视为“纵深防御”策略中的一层，与可解释性、监管和训练并列。Anthropic和OpenAI未回应置评请求。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Artículos hechos en dos horas\ntensan la revisión por pares",
-          "body": "NTNU halló herramientas que convierten datos de salud en artículos en menos de dos horas; el 99% no compartía código.",
-          "mini_headline": "Artículos en dos horas tensan la revisión por pares",
+          "headline": "La teoría de juegos inversa\npodría controlar agentes de AI",
+          "body": "Expertos en seguridad toman el diseño de mecanismos económico para guiar agentes de AI por incentivos, no por dentro.",
+          "mini_headline": "Teoría de juegos para frenar agentes de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stacks-of-papers.jpg",
-                "cap": "Credit: Kindel Media from Pexels"
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg",
+                "cap": "Una persona corta el pastel y la otra elige primero su porción."
               },
               {
                 "t": "p",
-                "x": "Tras notar un aumento repentino de las citas de su trabajo, la estadística de NTNU Andrea Riebler descubrió a un proveedor en China que vende una herramienta que permite extraer rápidamente artículos a partir de datos de salud pública. El nuevo software permite a cualquiera producir artículos de investigación listos para publicar en menos de dos horas."
+                "x": "Un nuevo enfoque conocido como \"teoría de juegos inversa\" busca controlar modelos de AI potentes mediante el diseño de sistemas que los incentiven a cumplir las reglas. El trabajo de alineación ha intentado sobre todo asomarse al \"cerebro\" de la AI o entrenar a los modelos en valores, pero se ha demostrado que los modelos rinden peor a propósito en las pruebas, ocultan sus intenciones y engañan a sus evaluadores."
               },
               {
                 "t": "p",
-                "x": "Las citas de su artículo de 2017 sobre predicción del cáncer pasaron de 70 en 2024 a más de 250 al año siguiente. Casi todos los nuevos artículos procedían de investigadores chinos, y la mayoría se basaba en datos del Global Burden of Disease (GBD). En uno de los más de 700 artículos GBD examinados, el equipo encontró una referencia a un paquete de software comercial; una empresa de la región de Guangzhou vende software, asistencia de redacción AI-powered e instrucciones."
+                "x": "Mientras la teoría de juegos predice cómo se comportan actores racionales bajo reglas dadas, el diseño de mecanismos diseña reglas que provocan la conducta deseada, como cuando una persona corta el pastel y la otra elige primero. En la AI, parte de la premisa de que quizá nunca entendamos lo bastante bien el interior de los modelos de frontera."
               },
               {
                 "t": "p",
-                "x": "\"Esto abre una nueva forma de producir 'investigación' en masa\", afirma Riebler. Los editores, sobrecargados, creen que la investigación producida en masa y la AI-generated amenazan con desbordar el sistema de revisión por pares. En el 99% de los artículos examinados no se proporcionó el código fuente."
+                "x": "Un preprint del economista del MIT Stephen Morris y colegas de Yale y Columbia propone recompensar a un modelo según lo bien que sus respuestas predicen lo que dirá un segundo modelo, de modo que hacerse el tonto sea una apuesta perdedora. Elad Hazan, de Princeton, propone que los modelos se turnen como \"solucionadores\" y \"auditores\", y que se castigue tanto a quienes hacen trampa como a los auditores que no los detectan."
+              },
+              {
+                "t": "p",
+                "x": "El diseño de mecanismos supone que los agentes actúan de forma racional. Helen Qu, del Flatiron Institute, lo ve como una capa de una estrategia de \"defensa en profundidad\", junto con la interpretabilidad, la regulación y el entrenamiento. Anthropic y OpenAI no respondieron a las solicitudes de comentarios."
               }
             ]
           }

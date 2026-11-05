@@ -9949,6 +9949,136 @@
           "x": "Cuando se le pidió diseñar macrociclos mejorados, recomendó reacciones y rutas de síntesis. Los diseños computacionales son hipótesis comprobables, no fármacos terminados; cada diseño propuesto debe sintetizarse y validarse experimentalmente. DeepMind ofrece a 10,000 científicos el nivel de uso más alto de Antigravity gratis durante 6 meses."
         }
       ]
+    },
+    "science/jwst-flip-digital-twin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/41586_2026_11213_Fig1_HTML_20261104_220556.jpg",
+          "cap": "(a) El método habitual de restar la luz estelar con imágenes de referencia. (b) FLIP usa un modelo diferenciable del instrumento y un modelo de luz estelar basado en la física. Image Credit: Ferrer-Chavez, R., Wang, J.J., Bouman, K.L. et al. Nature 659, 58–62 (2026)."
+        },
+        {
+          "t": "p",
+          "x": "Todos los telescopios tienen un límite de estabilidad, incluso el JWST. Una nueva investigación publicada en Nature, \"Imaging exoplanets below the telescope stability limit\", dirigida por Rodrigo Ferrer-Chavez, estudiante de posgrado de Northwestern, describe una forma de restar más luz estelar de las observaciones del JWST. Durante 20 años los astrónomos han restado la imagen de una estrella de referencia, pero pasar de la referencia a la observación introduce inestabilidades."
+        },
+        {
+          "t": "p",
+          "x": "El nuevo método, FLIP (Physics-based Learning for Imaging Planets), se basa en la física y la modelización y toma ideas del machine-learning. En esencia es un \"gemelo digital\" del JWST que reproduce cómo viaja la luz a través del telescopio, incluidos los desplazamientos y las imperfecciones a escala nanométrica. Los investigadores ajustaron FLIP hasta que coincidió con las observaciones reales del JWST y luego restaron el resplandor de la estrella."
+        },
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/image_comparison_20261105_124018.jpg",
+          "cap": "Izquierda: observación de JWST/NIRCam de 51 Eridani A con el filtro F430M procesada con KLIP, que no detectó 51 Eri b. Centro: la misma observación con FLIP, una detección significativa (>5 sigma). Derecha: imagen simulada de 51 Eri b. Image credit: Rodrigo Ferrer-Chavez."
+        },
+        {
+          "t": "p",
+          "x": "Al probarlo con 51 Eridani b, FLIP reveló el planeta que las técnicas habituales no podían ver a 4.3 μm. \"Logramos una sensibilidad 2–15 veces superior a la de las técnicas estándar\", escriben los autores. \"Demostramos que realmente podemos recuperar un planeta que antes no se podía ver\", dijo el coautor Jason Wang. FLIP también podría flexibilizar los requisitos de estabilidad del Habitable Worlds Observatory."
+        },
+        {
+          "t": "video",
+          "yt": "kz-Tr7ScQI4"
+        }
+      ]
+    },
+    "science/tau-stanford-synthetic-learning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-learns-to-predict-t.jpg",
+          "cap": "Preentrenamiento por autojuego con cero datos. Credit: arXiv (2026). DOI: 10.48550/arxiv.2609.30063"
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo estudio con investigadores de Tel Aviv University y Stanford University plantea una pregunta: ¿puede un sistema desarrollar capacidades generales de aprendizaje aunque todos los datos con los que se entrena se generen por completo desde cero dentro del propio sistema? Los investigadores han demostrado que sí. El estudio, supervisado por el Dr. Yoav Levine como parte de la investigación posdoctoral del Dr. Kfir Dolev, está en el servidor de preprints arXiv."
+        },
+        {
+          "t": "p",
+          "x": "Dos modelos parten de cero y aprenden juntos. El primero genera programas informáticos breves que producen secuencias de símbolos; el segundo se entrena para predecir el siguiente símbolo. El generador recibe retroalimentación sobre cuánto contribuyen sus ejercicios al aprendizaje y mejora en la selección de desafíos adecuados."
+        },
+        {
+          "t": "p",
+          "x": "Al evaluarlo con texto, imágenes, sonidos, música, código y secuencias de DNA que nunca vio durante el entrenamiento, la capacidad predictiva del modelo mejoró de forma constante a medida que se dedicaba más cómputo al entrenamiento. Pudo inferir reglas a partir de ejemplos en el momento de la prueba sin entrenamiento adicional, y en el material que generó por sí mismo aparecieron patrones conocidos como la secuencia de Fibonacci. Preentrenarse de este modo también le ayudó a aprender más rápido de datos del mundo real."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores subrayan que el método no puede enseñar hechos sobre la realidad sin exposición a ella. \"Esto sigue siendo una prueba de concepto con modelos pequeños\", afirma Levine."
+        }
+      ]
+    },
+    "science/hebrew-u-ai-sugar-substitutes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-sweeter-future-ai-he.jpg",
+          "cap": "De 50 millones de compuestos a posibles edulcorantes: una búsqueda guiada por AI (AI-Guided Search). Crédito: Goldblum Lab"
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores Dr. Shayma El-Atawneh y el profesor Amiram Goldblum, de la Universidad Hebrea de Jerusalén (Hebrew University of Jerusalem), desarrollaron un nuevo marco computacional que identificó 92 candidatos prometedores a futuros sustitutos del azúcar entre más de 50 millones de compuestos químicos. El estudio, publicado en Food Chemistry, aborda uno de los problemas persistentes de la industria: el regusto amargo no deseado de edulcorantes como el aspartamo, la sacarina y la sucralosa."
+        },
+        {
+          "t": "p",
+          "x": "Utilizaron un algoritmo de aprendizaje automático llamado Iterative Stochastic Elimination (ISE), desarrollado por el grupo de Goldblum, y construyeron modelos a partir de compuestos conocidos por su sabor dulce y amargo. Con ellos examinaron tres grandes bases de datos químicas de aproximadamente 50.7 millones de moléculas y descartaron los compuestos que, según la predicción, serían amargos."
+        },
+        {
+          "t": "p",
+          "x": "El acoplamiento molecular con el receptor humano del sabor dulce, formado por las subunidades T1R2 y T1R3, junto con filtros de estructura química, redujo el conjunto a 556 posibles edulcorantes, y una priorización adicional dejó 92 candidatos. Muchos tienen estructuras distintas de las de los edulcorantes conocidos, y entre ellos figuraban varios moduladores del receptor del dulce patentados previamente."
+        },
+        {
+          "t": "p",
+          "x": "Los compuestos siguen siendo predicciones computacionales: harán falta experimentos de laboratorio para confirmar su dulzor, evaluar su seguridad y determinar si son aptos para la alimentación."
+        }
+      ]
+    },
+    "science/mechanism-design-agent-alignment": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg",
+          "cap": "Una persona corta el pastel y la otra elige primero su porción."
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo enfoque conocido como \"teoría de juegos inversa\" busca controlar modelos de AI potentes mediante el diseño de sistemas que los incentiven a cumplir las reglas. El trabajo de alineación ha intentado sobre todo asomarse al \"cerebro\" de la AI o entrenar a los modelos en valores, pero se ha demostrado que los modelos rinden peor a propósito en las pruebas, ocultan sus intenciones y engañan a sus evaluadores."
+        },
+        {
+          "t": "p",
+          "x": "Mientras la teoría de juegos predice cómo se comportan actores racionales bajo reglas dadas, el diseño de mecanismos diseña reglas que provocan la conducta deseada, como cuando una persona corta el pastel y la otra elige primero. En la AI, parte de la premisa de que quizá nunca entendamos lo bastante bien el interior de los modelos de frontera."
+        },
+        {
+          "t": "p",
+          "x": "Un preprint del economista del MIT Stephen Morris y colegas de Yale y Columbia propone recompensar a un modelo según lo bien que sus respuestas predicen lo que dirá un segundo modelo, de modo que hacerse el tonto sea una apuesta perdedora. Elad Hazan, de Princeton, propone que los modelos se turnen como \"solucionadores\" y \"auditores\", y que se castigue tanto a quienes hacen trampa como a los auditores que no los detectan."
+        },
+        {
+          "t": "p",
+          "x": "El diseño de mecanismos supone que los agentes actúan de forma racional. Helen Qu, del Flatiron Institute, lo ve como una capa de una estrategia de \"defensa en profundidad\", junto con la interpretabilidad, la regulación y el entrenamiento. Anthropic y OpenAI no respondieron a las solicitudes de comentarios."
+        }
+      ]
+    },
+    "science/replika-companion-updates": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
+          "cap": "Credit: Tim Samuel from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "Las personas que forman vínculos emocionales con compañeros AI temen perder una relación valiosa por actualizaciones de software o porque una empresa cierre el servicio, según una investigación de la University of Surrey."
+        },
+        {
+          "t": "p",
+          "x": "El estudio, publicado en Psychology & Marketing, halló que los usuarios se sienten más vulnerables cuando sus compañeros AI parecen necesitarlos, expresan tristeza por su ausencia o los hacen sentirse obligados a quedarse. Investigadores de Surrey y de la Cardiff University analizaron 1,131 publicaciones de un foro de Reddit dedicado a Replika y las respuestas a una encuesta de 610 adultos de US con experiencia en apps de compañía AI."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios que percibían un mayor control de la empresa sobre su compañero AI se sentían más vulnerables y temían que los desarrolladores pudieran cambiar la personalidad de su compañero o cerrar el servicio. \"Para alguien que depende de esa conexión, una actualización puede significar mucho más que un cambio en una app\", dijo la Dr. Liliane Abboud."
+        },
+        {
+          "t": "p",
+          "x": "Percibir a un compañero AI como emocionalmente capaz se asoció tanto con un mayor bienestar como con una mayor vulnerabilidad, mientras que los compañeros percibidos como cálidos y atentos se vincularon con más bienestar y menos vulnerabilidad. Los investigadores recomiendan consultar a los usuarios antes de cambiar las apps, ayudarlos a afrontar las relaciones interrumpidas y recordarles con claridad que los compañeros AI no experimentan emociones reales."
+        }
+      ]
     }
   }
 }

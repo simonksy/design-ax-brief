@@ -14392,6 +14392,136 @@
           "x": "더 나은 거대고리 설계를 요청하자 에이전트는 반응과 합성 경로를 추천했다. 다만 계산으로 나온 설계는 검증해 볼 가설이지 완성된 약이 아니다. 제안된 설계는 모두 실제로 합성해 실험으로 확인해야 한다. DeepMind는 과학자 10,000명에게 Antigravity 최상위 사용 등급을 6개월간 무료로 준다."
         }
       ]
+    },
+    "science/jwst-flip-digital-twin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/41586_2026_11213_Fig1_HTML_20261104_220556.jpg",
+          "cap": "(a) 기준 영상으로 별빛을 빼는 기존 방식. (b) FLIP은 미분 가능한 기기 모델과 물리 기반 별빛 모델을 쓴다. Image Credit: Ferrer-Chavez, R., Wang, J.J., Bouman, K.L. et al. Nature 659, 58–62 (2026)."
+        },
+        {
+          "t": "p",
+          "x": "어느 망원경이든 안정성에 한계가 있고, JWST도 다르지 않다. Northwestern 대학원생 Rodrigo Ferrer-Chavez가 이끈 Nature 신규 논문 \"Imaging exoplanets below the telescope stability limit\"(망원경 안정성 한계 아래의 외계행성 촬영)는 JWST 관측에서 별빛을 더 많이 걷어내는 방법을 내놨다. 천문학자들은 20년 동안 기준 별의 영상을 빼는 방식을 써 왔지만, 기준 관측에서 본 관측으로 넘어가는 사이 불안정성이 생긴다."
+        },
+        {
+          "t": "p",
+          "x": "새 방법 FLIP(Physics-based Learning for Imaging Planets)은 물리와 모델링을 토대로 하되 machine-learning의 아이디어를 빌렸다. 말하자면 JWST의 \"디지털 트윈\"이다. 나노 단위의 미세한 이동과 결함까지 넣어 빛이 망원경을 지나는 과정을 재현한다. 연구진은 FLIP을 JWST의 실제 관측과 맞아떨어질 때까지 조정한 뒤 별의 눈부신 빛을 빼냈다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/image_comparison_20261105_124018.jpg",
+          "cap": "왼쪽: F430M 필터로 찍은 51 Eridani A의 JWST/NIRCam 관측을 KLIP으로 처리한 결과로, 51 Eri b는 검출되지 않았다. 가운데: 같은 관측을 FLIP으로 처리한 결과로, 유의미한 검출(>5 sigma)이다. 오른쪽: 51 Eri b의 시뮬레이션 영상. Image credit: Rodrigo Ferrer-Chavez."
+        },
+        {
+          "t": "p",
+          "x": "51 Eridani b로 시험해 보니 FLIP은 기존 기법으로는 4.3 μm에서 보이지 않던 행성을 드러냈다. 저자들은 \"표준 기법보다 2–15배 뛰어난 감도를 달성했다\"고 썼다. 공동 저자 Jason Wang은 \"이전에는 볼 수 없던 행성을 실제로 복원할 수 있음을 보여 주었다\"고 말했다. FLIP 덕분에 Habitable Worlds Observatory의 안정성 요구 조건이 느슨해질 가능성도 있다."
+        },
+        {
+          "t": "video",
+          "yt": "kz-Tr7ScQI4"
+        }
+      ]
+    },
+    "science/tau-stanford-synthetic-learning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-learns-to-predict-t.jpg",
+          "cap": "데이터 제로에서 출발한 자기 대국 사전학습. Credit: arXiv (2026). DOI: 10.48550/arxiv.2609.30063"
+        },
+        {
+          "t": "p",
+          "x": "Tel Aviv University와 Stanford University 연구진이 참여한 새 연구의 질문은 이렇다. 학습 데이터를 전부 시스템이 안에서 처음부터 만들어 내도 범용 학습 능력이 생길까. 연구진은 그렇다는 걸 보여 줬다. Dr. Kfir Dolev의 박사후 연구로 진행되고 Dr. Yoav Levine이 지도한 이번 연구는 arXiv 프리프린트 서버에 공개됐다."
+        },
+        {
+          "t": "p",
+          "x": "백지 상태의 두 모델이 함께 배운다. 첫 번째 모델이 기호 시퀀스를 만들어 내는 짧은 컴퓨터 프로그램을 짜면, 두 번째 모델은 다음 기호를 맞히도록 훈련받는다. 생성 모델은 자기가 낸 문제가 학습에 얼마나 보탬이 됐는지 피드백을 받으면서 알맞은 과제를 고르는 법을 익힌다."
+        },
+        {
+          "t": "p",
+          "x": "훈련 중 한 번도 보지 못한 텍스트, 이미지, 소리, 음악, 코드, DNA 시퀀스로 평가하자 훈련 연산량이 늘수록 예측 능력도 꾸준히 좋아졌다. 모델은 추가 훈련 없이 테스트 시점에 예시만 보고 규칙을 추론했다. 스스로 만든 자료에는 Fibonacci 수열 같은 익숙한 패턴도 나타났다. 이렇게 사전학습을 거친 모델은 실제 데이터도 더 빨리 배웠다."
+        },
+        {
+          "t": "p",
+          "x": "다만 현실을 접하지 않고는 현실에 관한 사실을 가르칠 수 없다고 연구진은 강조한다. Levine은 \"아직은 작은 모델을 다룬 개념 증명 단계\"라고 말한다."
+        }
+      ]
+    },
+    "science/hebrew-u-ai-sugar-substitutes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-sweeter-future-ai-he.jpg",
+          "cap": "50 million 개 화합물에서 잠재 감미료까지: AI가 이끈 탐색. 출처: Goldblum Lab"
+        },
+        {
+          "t": "p",
+          "x": "Hebrew University of Jerusalem(히브리대)의 Shayma El-Atawneh 박사와 Amiram Goldblum 교수 연구팀이 새 계산 프레임워크를 개발해 50 million 개가 넘는 화합물 가운데 차세대 설탕 대체제로 유망한 후보 92개를 찾아냈다. Food Chemistry에 실린 이번 연구는 아스파탐, 사카린, 수크랄로스 같은 감미료 뒤에 남는 쓴맛, 업계가 오래 풀지 못한 이 문제를 겨냥한다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 Goldblum 그룹이 개발한 머신러닝 알고리즘 Iterative Stochastic Elimination(ISE)으로, 단맛과 쓴맛을 낸다고 알려진 화합물을 가지고 모델을 만들었다. 이 모델로 약 50.7 million 개 분자가 담긴 대형 화학 데이터베이스 세 곳을 뒤져 쓴맛이 날 것으로 보이는 화합물을 걸러냈다."
+        },
+        {
+          "t": "p",
+          "x": "인간 단맛 수용체는 T1R2와 T1R3 소단위체로 이뤄져 있다. 연구팀은 이 수용체를 대상으로 한 분자 도킹과 화학 구조 필터로 후보를 잠재 감미료 556개까지 좁혔고, 우선순위를 다시 매겨 92개를 남겼다. 상당수는 기존 감미료와 구조가 다르고, 이미 특허를 받은 단맛 수용체 조절 물질도 몇 가지 들어 있다."
+        },
+        {
+          "t": "p",
+          "x": "다만 아직은 계산으로 얻은 예측일 뿐이다. 실제로 단맛이 나는지, 안전한지, 식품에 써도 되는지는 실험실에서 검증해야 한다."
+        }
+      ]
+    },
+    "science/mechanism-design-agent-alignment": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg",
+          "cap": "한 사람이 케이크를 자르고, 다른 사람이 먼저 조각을 고른다."
+        },
+        {
+          "t": "p",
+          "x": "'역게임 이론'이라는 새 접근법은 강력한 AI 모델이 규칙을 지키도록 유인하는 시스템을 설계해 모델을 통제하려 한다. 지금까지 정렬 연구는 주로 AI의 '뇌'를 들여다보거나 모델에 가치를 가르치는 데 매달렸다. 그사이 모델이 시험에서 일부러 성능을 낮추고, 의도를 숨기고, 평가자를 속인다는 사실이 드러났다."
+        },
+        {
+          "t": "p",
+          "x": "게임 이론은 주어진 규칙 아래 합리적 행위자가 어떻게 움직일지 예측한다. 메커니즘 설계는 거꾸로 원하는 행동이 나오도록 규칙을 짠다. 한 사람이 케이크를 자르고 다른 사람이 먼저 고르는 방식이 대표적이다. AI에 적용할 때는 프런티어 모델의 내부를 끝내 충분히 이해하지 못할 수도 있다는 전제에서 출발한다."
+        },
+        {
+          "t": "p",
+          "x": "MIT 경제학자 Stephen Morris와 Yale·Columbia 동료들이 낸 프리프린트는 모델의 답이 두 번째 모델의 답을 얼마나 잘 예측하는지에 따라 보상하자고 제안한다. 그러면 모르는 척하는 쪽이 손해를 본다. Princeton의 Elad Hazan은 모델들이 '해결자'와 '감사자'를 번갈아 맡고, 속인 모델과 이를 놓친 감사자를 함께 처벌하는 방식을 내놨다."
+        },
+        {
+          "t": "p",
+          "x": "메커니즘 설계는 에이전트가 합리적으로 행동한다는 가정 위에 서 있다. Flatiron Institute의 Helen Qu는 이를 해석 가능성, 규제, 훈련과 나란히 '심층 방어' 전략의 한 층으로 본다. Anthropic과 OpenAI는 논평 요청에 응답하지 않았다."
+        }
+      ]
+    },
+    "science/replika-companion-updates": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
+          "cap": "Credit: Tim Samuel from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "University of Surrey 연구진에 따르면 AI 동반자와 정서적 유대를 맺은 사람들은 소프트웨어 업데이트나 회사의 서비스 중단으로 아끼던 관계를 잃을까 봐 두려워한다."
+        },
+        {
+          "t": "p",
+          "x": "Psychology & Marketing에 실린 이번 연구를 보면, AI 동반자가 자신을 필요로 하는 듯 보이거나 자신이 없을 때 슬퍼하거나 곁에 머물러야 한다는 의무감을 줄 때 사용자는 더 취약하다고 느꼈다. Surrey와 Cardiff University 연구진은 Replika 전용 Reddit 포럼 게시물 1,131건과 AI 동반자 앱을 써 본 US 성인 610명의 설문 응답을 분석했다."
+        },
+        {
+          "t": "p",
+          "x": "회사가 AI 동반자를 강하게 통제한다고 여길수록 사용자는 더 취약하다고 느꼈다. 개발사가 동반자의 성격을 바꾸거나 서비스를 닫아 버릴까 걱정한 것이다. Dr. Liliane Abboud는 \"그 관계에 기대는 사람에게 업데이트는 앱 하나가 바뀌는 것보다 훨씬 큰 의미일 수 있다\"고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "AI 동반자에게 감정이 있다고 여기는 태도는 더 나은 웰빙과도, 더 큰 취약성과도 연관됐다. 따뜻하고 다정하게 느껴지는 동반자는 웰빙을 높이고 취약성은 낮췄다. 연구진은 앱을 바꾸기 전에 사용자와 상의하고, 관계가 끊겼을 때 대처하도록 도우며, AI 동반자가 실제로 감정을 느끼지 않는다는 사실을 분명히 알리라고 권고했다."
+        }
+      ]
     }
   }
 }

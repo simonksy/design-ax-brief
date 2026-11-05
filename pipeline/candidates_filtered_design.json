@@ -1,153 +1,87 @@
 {
   "section": "design",
-  "now_iso": "2026-11-04T22:03:11Z",
+  "now_iso": "2026-11-05T22:03:00Z",
   "window_hours": 72,
   "items": [
     {
-      "title": "I ran the same Claude design request 4 times. Only the reference hand-off changed.",
-      "url": "https://dev.to/heynstudio/i-ran-the-same-claude-design-request-4-times-only-the-reference-hand-off-changed-4fnb",
-      "source": "DEV Community",
+      "title": "Workflow Lab: Build With Code on the Canvas Using the Figma Agent and Code Layers",
+      "url": "https://www.figma.com/blog/workflow-lab-build-with-code-on-the-canvas-using-the-figma-agent-and-code-layers/",
+      "source": "Figma Blog",
       "category": "figma",
-      "published_iso": "2026-11-03T10:24:29Z",
-      "excerpt": "Ask Claude for a design and you often get something that looks like a template you've seen before....",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvxm9snr9s4bcx4f1f6iz.png"
-    },
-    {
-      "title": "Constraining agent CSS to design tokens (without pasting the whole theme)",
-      "url": "https://dev.to/sherotree/constraining-agent-css-to-design-tokens-without-pasting-the-whole-theme-19o8",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-11-02T14:32:43Z",
-      "excerpt": "I used to drop the entire tokens.css into the agent prompt so it “wouldn’t invent colors.” It still...",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjiakvtvusgq9zr8uoyi3.png",
+      "published_iso": "2026-11-04T22:12:00.000Z",
+      "excerpt": "This workflow shows how a designer uses code layers and the Figma agent to explore a new feature.",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/c5cbcf8c4cf48ebef3a68f5be108915e8051d6b3-1056x594.jpg?w=1200&q=70&fit=max&auto=format",
       "history_match": {
-        "score": 0.167,
-        "date": "2026-10-23",
-        "url": "https://dev.to/yang7206/i-gave-my-coding-agent-a-color-palette-library-and-stopped-pasting-hex-codes-2c83",
-        "title": "I gave my coding agent a color palette library, and stopped pasting hex codes",
-        "band": "related"
-      }
-    },
-    {
-      "title": "\"Done\" isn't a test result. How your AI agent should hand off UI work",
-      "url": "https://dev.to/frozonfreak/done-isnt-a-test-result-how-your-ai-agent-should-hand-off-ui-work-3d74",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-11-04T05:16:10Z",
-      "excerpt": "Your AI agent finishes a change and reports back: \"Done. The form is accessible, responsive and works...",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3u971d1yv17civcldhbb.png",
-      "history_match": {
-        "score": 0.163,
-        "date": "2026-10-08",
-        "url": "https://dev.to/jablonowski/does-a-design-system-change-what-a-coding-agent-writes-280d",
-        "title": "Does a design system change what a coding agent writes?",
-        "band": "related"
-      }
-    },
-    {
-      "title": "How Zapier turns ideas into working software in hours with Vercel | Customers",
-      "url": "https://vercel.com/blog/how-zapier-turns-ideas-into-working-software-in-hours-with-vercel",
-      "source": "Vercel",
-      "category": "figma",
-      "published_iso": "2026-11-03T00:00-04:00",
-      "excerpt": "How Zapier turns weeks of partner demo work into hours with v0, builds internal apps in about a day, and runs customer inference through Vercel AI Gateway.",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3MaKYmvnGD325MooTB4FLl/a0e0e0fc99d41615a5ad1a797c159b38/customer_story_og_image_og_card.jpg",
-      "history_match": {
-        "score": 0.199,
+        "score": 0.325,
         "date": "2026-10-17",
-        "url": "https://vercel.com/blog/vercel-ship-2026-recap",
-        "title": "Vercel Ship 2026 recap",
+        "url": "https://www.figma.com/blog/design-together-with-code-layers/",
+        "title": "Design together with code layers on the canvas",
         "band": "related"
       }
     },
     {
-      "title": "ChatGPT will now make you animated GIFs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-      "source": "The Verge",
-      "category": "render",
-      "published_iso": "2026-11-04T18:00:00+00:00",
-      "excerpt": "OpenAI is making ChatGPT image generation faster, too.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "title": "Edit and generate vectors with the Figma agent",
+      "url": "https://www.youtube.com/shorts/Vfh8hAEs7yk",
+      "source": "Figma (YouTube)",
+      "category": "social",
+      "published_iso": "2026-11-05T08:00:06-08:00",
+      "excerpt": "The Figma agent can now:Use style references to generate vector illustrations and iconsUtilize strokes for line work so you can adjust the weight or end caps...",
+      "og_image": "https://i.ytimg.com/vi/Vfh8hAEs7yk/maxresdefault.jpg"
     },
     {
-      "title": "Meet Higgsfield Shorts: Create Shorts With an AI Presenter",
-      "url": "https://higgsfield.ai/blog/higgsfield-introduces-shorts-studio",
-      "source": "Higgsfield",
-      "category": "render",
-      "published_iso": "2026-11-04T11:37:00.000Z",
-      "excerpt": "Higgsfield Shorts Studio turns characters, products, and a script into vertical shorts with an AI presenter. See settings, a step-by-step guide, and pricing.",
-      "og_image": "https://higgsfield.ai/cdn-cgi/image/fit=scale-down,format=jpeg,onerror=redirect,width=1200,quality=85/https://cdn.sanity.io/images/s479xw3z/production/4ae19b835182e1981ab118c0c438de42b250d813-2720x1536.png"
+      "title": "Config India: Homegrown intelligence: AI that speaks trust",
+      "url": "https://www.youtube.com/watch?v=eXJnOj1vVyQ",
+      "source": "Figma (YouTube)",
+      "category": "social",
+      "published_iso": "2026-11-04T09:43:41-08:00",
+      "excerpt": "Trust in AI isn’t built on intelligence alone. This session explores what it takes to build homegrown intelligence—AI that speaks our language and understand...",
+      "og_image": "https://i.ytimg.com/vi/eXJnOj1vVyQ/maxresdefault.jpg"
     },
     {
-      "title": "Higgsfield Introduces Mangaka: Turn an Idea Into Manga, Comics, and Webtoons",
-      "url": "https://higgsfield.ai/blog/higgsfield-introduces-mangaka",
-      "source": "Higgsfield",
-      "category": "render",
-      "published_iso": "2026-11-03T14:32:00.000Z",
-      "excerpt": "Higgsfield Mangaka turns an idea or a script into manga, comics, and webtoons. See settings, a step-by-step example, languages, export, and pricing.",
-      "og_image": "https://higgsfield.ai/cdn-cgi/image/fit=scale-down,format=jpeg,onerror=redirect,width=1200,quality=85/https://cdn.sanity.io/images/s479xw3z/production/b5ee6fad64862f5a32f70d7855253fcdc0313130-2720x1536.png",
+      "title": "Connecting Figma MCP to Zoo Code (macOS and Windows, using Codex CLI)",
+      "url": "https://dev.to/muhammad_hammadkhan_507a/connecting-figma-mcp-to-zoo-code-macos-and-windows-using-codex-cli-2gmh",
+      "source": "DEV Community",
+      "category": "figma",
+      "published_iso": "2026-11-03T08:50:30Z",
+      "excerpt": "By Muhammad Hammad Khan  A practical setup and troubleshooting guide for connecting Figma's hosted...",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqlwkba8wutbrij3h1tge.png",
       "history_match": {
-        "score": 0.155,
-        "date": "2026-10-14",
-        "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-        "title": "Higgsfield takes AI video from 1 minute to over 10",
+        "score": 0.203,
+        "date": "2026-10-27",
+        "url": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2",
+        "title": "Building an AI-ready design system library: Code → Figma with MCP",
         "band": "related"
       }
     },
     {
-      "title": "Pangram expands its AI detection tools to video and images",
-      "url": "https://www.engadget.com/2307116/pangram-expands-its-ai-detection-tools-to-video-and-images/",
-      "source": "Engadget",
-      "category": "render",
-      "published_iso": "2026-11-04T20:28:18+00:00",
-      "excerpt": "The company behind the widely used tool for AI text is moving into more kinds of AI slop.",
-      "og_image": "https://www.engadget.com/img/gallery/pangram-expands-its-ai-detection-tools-to-video-and-images/l-intro-1793824046.jpg"
-    },
-    {
-      "title": "Tripo AI launches Agentic Canvas for node-based 3D workflows",
-      "url": "https://www.voxelmatters.com/tripo-ai-launches-agentic-canvas-for-node-based-3d-workflows/",
-      "source": "VoxelMatters",
-      "category": "render",
-      "published_iso": "2026-11-03T10:30:09+00:00",
-      "excerpt": "Explore Tripo AI's Agentic Canvas, an innovative tool for creating 3D workflows on a visual node-based platform.",
-      "og_image": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-Agentic-Canvas.jpg",
+      "title": "Transform a quick drawing into a live app with Gemini.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/",
+      "source": "Google Blog",
+      "category": "figma",
+      "published_iso": "2026-11-05T17:00:00+00:00",
+      "excerpt": "Turn your sketches into functional apps using Gemini. Upload your drawings to the Canvas tool to generate and refine code instantly. Try it now.",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bring_your_paper_sketches_to_life_with_Gemi.max-1440x810.png",
       "history_match": {
-        "score": 0.22,
-        "date": "2026-10-25",
-        "url": "https://www.engineering.com/siemens-expands-agentic-ai-for-3d-ic-design-workflows/",
-        "title": "Siemens expands agentic AI for 3D IC design workflows",
+        "score": 0.197,
+        "date": "2026-10-16",
+        "url": "https://lovable.dev/blog/ai-models-and-tools-in-lovable",
+        "title": "The AI you already use, now powering the apps you create",
         "band": "related"
       }
     },
     {
-      "title": "Build World Models for Interactive Simulation with NVIDIA Cosmos",
-      "url": "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/",
-      "source": "NVIDIA Technical Blog",
-      "category": "render",
-      "published_iso": "2026-11-02T17:00:00+00:00",
-      "excerpt": "Physical AI developers working with world models face two distinct challenges: adapting models to their sensors, tasks, and data, and getting those models into applications reliably.",
-      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/cosmos-framework-tech-blog-600x338-5784057.webp",
-      "history_match": {
-        "score": 0.355,
-        "date": "2026-10-25",
-        "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
-        "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
-        "band": "related"
-      }
-    },
-    {
-      "title": "nCircle Tech launches nVibe AI app builder",
-      "url": "https://aecmag.com/automation/ncircletech-launches-nvibe-ai-app-builder/",
-      "source": "AEC Magazine",
+      "title": "Autodesk's most ambitious AI play yet",
+      "url": "https://develop3d.com/ai/autodesks-most-ambitious-ai-play-yet/",
+      "source": "DEVELOP3D",
       "category": "cad",
-      "published_iso": "2026-11-03T15:00:54+00:00",
-      "excerpt": "nCircle Tech launches nVibe AI app builder. AEC professionals describe the workflow and AI application platform builds the app",
-      "og_image": "https://aecmag.com/wp-content/uploads/2026/11/nVibe2.jpg",
+      "published_iso": "2026-11-05T12:26:49+00:00",
+      "excerpt": "Autodesk AI vision goes beyond faster tools: a connected Assistant that decides how to solve tasks on your behalf.",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/11/AU2026_DEMO-AutoAssemble.jpg",
       "history_match": {
-        "score": 0.18,
-        "date": "2026-11-02",
-        "url": "https://www.engineering.com/allplan-max-2027-launched-for-engineering-workflows/",
-        "title": "Allplan Max 2027 launched for engineering workflows",
+        "score": 0.171,
+        "date": "2026-10-30",
+        "url": "https://www.autodesk.com/products/fusion-360/blog/top-5-features-october-2026-fusion-update/",
+        "title": "Autodesk Fusion October 2026 Update: 5 Features That Mean Less Rework",
         "band": "related"
       }
     },
@@ -170,129 +104,136 @@
       "og_image": "https://develop3d.com/wp-content/uploads/2026/11/Nathan-Partington_comment.jpg"
     },
     {
-      "title": "The Spotify AI remixing controversy is about more than just music",
-      "url": "https://www.creativebloq.com/news/the-spotify-ai-remixing-controversy-is-about-more-than-just-music",
-      "source": "Creative Bloq",
-      "category": "workflow",
-      "published_iso": "2026-11-04T07:00:00Z",
-      "excerpt": "Visual artists should also be concerned.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/wxPM89kMRwbJa58eKnf6Ch-1920-80.jpg"
+      "title": "IronCAD 2027 update adds design automation tools",
+      "url": "https://www.engineering.com/ironcad-2027-update-adds-design-automation-tools/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "published_iso": "2026-11-05T14:43:38+00:00",
+      "excerpt": "The release adds AI-assisted scripting, sheet metal catalog reuse and updated CAD translators for major formats.",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/11/IronCAD-2027-update-adds-design-automation-tools.png"
     },
     {
-      "title": "Nothing teases a screen-free AI device ahead of launch next month",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-      "source": "The Verge",
-      "category": "workflow",
-      "published_iso": "2026-11-04T18:26:07+00:00",
-      "excerpt": "CEO Carl Pei says Nothing’s first “AI-native” device “couldn’t have been an app.”",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200"
+      "title": "What MCP could mean for infrastructure AI",
+      "url": "https://www.engineering.com/what-mcp-could-mean-for-infrastructure-ai/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "published_iso": "2026-11-05T18:12:44+00:00",
+      "excerpt": "Bentley’s latest AI efforts are about connecting large language models to years of engineering know-how.",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/11/bentley-mcp-horiz.png"
     },
     {
-      "title": "Turn Firefly Art into Client-Ready Posters in Photoshop",
-      "url": "https://www.youtube.com/watch?v=yXzH-_HRrd8",
-      "source": "Adobe Creative Cloud (YouTube)",
-      "category": "social",
-      "published_iso": "2026-11-04T11:01:38-08:00",
-      "excerpt": "Turn three flat AI generations into one cinematic poster you can crop for print, social, and every layout in between, without starting over.In this tutorial,...",
-      "og_image": "https://i.ytimg.com/vi/yXzH-_HRrd8/maxresdefault.jpg",
+      "title": "Qonic AI launches inside BIM platform",
+      "url": "https://aecmag.com/bim/qonic-ai-launches-inside-bim-platform/",
+      "source": "AEC Magazine",
+      "category": "cad",
+      "published_iso": "2026-11-05T09:34:32+00:00",
+      "excerpt": "Qonic AI inside BIM platform. Agents work directly inside the model, letting users find, check, fix and create BIM data using plain language",
+      "og_image": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_1.jpg",
       "history_match": {
-        "score": 0.288,
-        "date": "2026-10-23",
-        "url": "https://www.youtube.com/watch?v=W1IYLaWyL70",
-        "title": "Lock In Character Likeness for AI Posters in Firefly",
+        "score": 0.242,
+        "date": "2026-10-30",
+        "url": "https://aecmag.com/bim/snaptrude-agent-launches-for-bim-workflows/",
+        "title": "Snaptrude Agent launches for BIM workflows",
         "band": "related"
       }
     },
     {
-      "title": "How I Get Claude To Edit My Videos (No Code Needed)",
-      "url": "https://www.youtube.com/watch?v=ep4psgAFOqc",
-      "source": "Matt Wolfe (YouTube)",
-      "category": "social",
-      "published_iso": "2026-11-04T08:40:16-08:00",
-      "excerpt": "Matt Wolfe shows how he has Claude edit his videos with no code, working alongside Premiere Pro to cut raw footage into short-form content.",
-      "og_image": "https://i.ytimg.com/vi/ep4psgAFOqc/maxresdefault.jpg",
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "source": "NVIDIA Blog",
+      "category": "render",
+      "published_iso": "2026-11-05T17:00:35+00:00",
+      "excerpt": "See how developers are combining AI agents with NVIDIA Omniverse libraries to build simulation applications, test physical behavior and guide improvements.",
+      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-1680x945.png",
+      "history_match": {
+        "score": 0.183,
+        "date": "2026-10-10",
+        "url": "https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/",
+        "title": "NVIDIA turns CAD into SimReady robot assets",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "source": "Google Blog",
+      "category": "render",
+      "published_iso": "2026-11-05T17:00:00+00:00",
+      "excerpt": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
       "history_match": {
         "score": 0.154,
-        "date": "2026-10-07",
-        "url": "https://dev.to/dishant0406/i-tested-claude-code-to-figma-heres-what-actually-works-4p19",
-        "title": "I Tested Claude Code to Figma (Here's What Actually Works)",
+        "date": "2026-10-16",
+        "url": "https://lovable.dev/blog/ai-models-and-tools-in-lovable",
+        "title": "The AI you already use, now powering the apps you create",
         "band": "related"
       }
     },
     {
-      "title": "Everyone is building AI agents. Who's designing the stop button?",
-      "url": "https://uxdesign.cc/your-ai-is-non-deterministic-but-your-product-cant-be-3ec2a0cf870c",
-      "source": "UX Collective",
+      "title": "Nvidia DLSS 5 in Hogwarts Legacy makes the AI backlash seem funny",
+      "url": "https://www.creativebloq.com/news/nvidia-dlss-5-in-hogwarts-legacy-has-sparked-a-whole-different-controversy",
+      "source": "Creative Bloq",
+      "category": "render",
+      "published_iso": "2026-11-05T14:31:46Z",
+      "excerpt": "Did Nvidia nerf the next-gen tech?",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/2Sx2umgaE7bnrpByhwmbhM-904-80.png"
+    },
+    {
+      "title": "Google is ditching Firebase Studio soon, and it wants you to use its newer AI tools instead",
+      "url": "https://www.engadget.com/2308541/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/",
+      "source": "Engadget",
       "category": "workflow",
-      "published_iso": "2026-11-03T22:40:34+00:00",
-      "excerpt": "AI can now interpret, decide and act on its own; the piece argues the hardest design decisions sit where that autonomy ends, and shows how to design the hand-back and stop points in agentic flows. (Date from publisher RSS; page Cloudflare-gated.)",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*4xb0tuwC90tLWJBgYVaomg.png"
+      "published_iso": "2026-11-05T21:01:28+00:00",
+      "excerpt": "The company is going all-in on Antigravity and Google AI Studio and hopes developers will do the same.",
+      "og_image": "https://www.engadget.com/img/gallery/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/l-intro-1793825592.jpg"
+    },
+    {
+      "title": "Making Immersive LLM Chat Experiences More Accessible",
+      "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+      "source": "Smashing Magazine",
+      "category": "tokens",
+      "published_iso": "2026-11-05T13:00:00+00:00",
+      "excerpt": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more acce",
+      "og_image": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg"
+    },
+    {
+      "title": "What AI has changed in Design Systems, and what is still up to us",
+      "url": "https://uxdesign.cc/what-ai-has-changed-in-design-systems-and-what-is-still-up-to-us-d4e8e8f4ceb2",
+      "source": "UX Collective",
+      "category": "tokens",
+      "published_iso": "2026-11-04T22:12:07Z",
+      "excerpt": "Design leaders argue AI can now spin up a component kit in minutes, but consistency across teams stays human work; a field study found 20 of 21 open-source design systems ship an MCP server while only 3 wire up Figma Code Connect.",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*er_HyzWo0FVdfLtEexv7KQ.jpeg",
+      "history_match": {
+        "score": 0.212,
+        "date": "2026-10-27",
+        "url": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2",
+        "title": "Building an AI-ready design system library: Code → Figma with MCP",
+        "band": "related"
+      }
     },
     {
       "title": "Agents struggle with the same bad UX we do",
       "url": "https://uxdesign.cc/agents-struggle-with-the-same-bad-ux-we-do-98415f2b8981",
       "source": "UX Collective",
       "category": "workflow",
-      "published_iso": "2026-11-03T22:36:33+00:00",
-      "excerpt": "Computer-use agents can't guess, improvise or ask a coworker, which makes them the most honest usability testers yet: where an agent fails on a portal, humans fail too. (Date from publisher RSS; page Cloudflare-gated.)",
+      "published_iso": "2026-11-03T22:36:32Z",
+      "excerpt": "Watching AI agents fail on a vendor portal in the same places humans do, the author argues hidden design debt that people muddle through becomes a hard blocker for agents.",
       "og_image": "https://cdn-images-1.medium.com/max/1024/1*P84_tG2F_rrE_MWlHlPGJA.jpeg"
-    },
-    {
-      "title": "What I learned teaching AI prototyping at university",
-      "url": "https://uxdesign.cc/what-i-learned-teaching-ai-prototyping-at-university-b9fff222625e",
-      "source": "UX Collective",
-      "category": "figma",
-      "published_iso": "2026-11-03T10:09:09+00:00",
-      "excerpt": "A lecturer taught fashion-design students to prototype apps with generative AI tools instead of Figma, and reports the possibilities and the uncomfortable trade-offs. (Date from publisher RSS; page Cloudflare-gated.)",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*_aggjPMjQBpRc_sWKZZ7zA.png"
-    },
-    {
-      "title": "Accelerating engineering for the physical world",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "source": "OpenAI",
-      "category": "cad",
-      "published_iso": "2026-11-03T12:00:00+00:00",
-      "excerpt": "OpenAI says GPT-6 Astra designed a Codex hardware device with no direct human edits: it set the functional requirements and handled the look, the enclosure, the PCB and the software integration. The post also covers models that prepare drawings and set up simulations. (Date from openai.com news RSS; body read via r.jina.ai because the page returns 403.)",
-      "og_image": null
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 21,
+    "kept": 18,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 9,
+    "review": 8,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-06",
-      "title": "BIMlogiq Argus adds agents that build Revit families",
-      "url": "https://aecmag.com/bim/bimlogiq-argus-ai-platform-launches-for-revit/"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "Photoshop's Remove tool spares your generative credits",
-      "url": "https://fstoppers.com/photoshop/photoshops-remove-tool-doesnt-touch-your-generative-credits-904908"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "Apple warns against giving AI agents Full Disk Access",
-      "url": "https://nofilmschool.com/apples-full-disk-access-statement"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "What we stop practising when AI does the thinking",
-      "url": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "Adobe's AI text-to-3D world concept is a glimpse of where Firefly could go next",
-      "url": "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next"
-    },
     {
       "date": "2026-10-07",
       "title": "I Tested Claude Code to Figma (Here's What Actually Works)",
@@ -962,6 +903,31 @@
       "date": "2026-11-04",
       "title": "Code-based prototyping: When it's worth the setup",
       "url": "https://www.eleken.co/blog-posts/code-based-prototyping"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "nCircle Tech launches nVibe AI app builder",
+      "url": "https://aecmag.com/automation/ncircletech-launches-nvibe-ai-app-builder/"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "I ran the same Claude design request 4 times. Only the reference hand-off changed.",
+      "url": "https://dev.to/heynstudio/i-ran-the-same-claude-design-request-4-times-only-the-reference-hand-off-changed-4fnb"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "ChatGPT will now make you animated GIFs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Tripo AI launches Agentic Canvas for node-based 3D workflows",
+      "url": "https://www.voxelmatters.com/tripo-ai-launches-agentic-canvas-for-node-based-3d-workflows/"
     }
   ]
 }

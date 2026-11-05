@@ -1,87 +1,97 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "section": "movies",
+  "selected_by": "curator (user deferred)",
   "items": [
     {
-      "rank": 1,
-      "title": "'Vibe Directing,' Hybrid Filmmaking and Robots: Disney's Startup Program Goes All-In on AI",
       "tool": "Movies",
-      "category": "movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "url": "https://www.thewrap.com/industry-news/tech/disney-ai-accelerator-startup-investor/",
-      "source": "TheWrap",
-      "published_iso": "2026-11-04T14:15:00+00:00",
-      "og_image": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelorator.jpg",
-      "excerpt": "At Disney Accelerator Demo Day, the all-AI cohort, including AI-native studio Promise and OpenArt, showed 'vibe directing' and hybrid live-action/AI filmmaking tools.",
-      "rationale": "New event (11-04): a major studio's accelerator demo day where every startup was AI-focused. It shows which filmmaking tools Disney is backing: vibe directing and hybrid live-action/AI production."
+      "title": "You can edit your videos with AI on Instagram's new desktop Edits app",
+      "url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
+      "source": "The Verge",
+      "published_iso": "2026-11-05T15:00:00+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-timeline-1.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "excerpt": "Instagram's Edits video editor comes to desktop with a full timeline and AI agent-driven editing (Meta's Muse) for Reels.",
+      "rationale": "New tool release: a desktop timeline editor with agent-driven AI editing that short-form video makers can install and use right away."
     },
     {
-      "rank": 2,
-      "title": "Weta FX and TAICCA Partner to Turn Taiwan Into an AI Screen Production Hub for Asia",
       "tool": "Movies",
-      "category": "movies",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "title": "'Blade Runner 2049' Producer Settles Lawsuit Against Warner Bros. Discovery Over AI Images",
+      "url": "https://www.hollywoodreporter.com/business/business-news/blade-runner-2049-producer-lawsuit-tesla-1236748701/",
+      "source": "The Hollywood Reporter",
+      "published_iso": "2026-11-05T19:56:10+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/MCDBLRU_EC053-H-2026.jpg?w=1296&h=730&crop=1",
+      "excerpt": "Alcon Entertainment settled its claims that Warner Bros. Discovery helped Elon Musk create unlicensed Blade Runner 2049-style promo images with an AI image generator; Alcon continues to pursue Musk and Tesla.",
+      "rationale": "Concrete legal event (a settlement) in the main case over AI-generated film-style imagery; it shapes how studios license their look for AI image tools."
+    },
+    {
+      "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "url": "https://variety.com/2026/film/markets-festivals/weta-fx-taicca-partner-taiwan-ai-screen-production-hub-1236938968/",
-      "source": "Variety",
-      "published_iso": "2026-11-04T01:32:43+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2024/05/Screen-Shot-2024-05-10-at-1.08.39-PM.png?w=1000&h=563&crop=1",
-      "excerpt": "Weta FX and Taiwan's TAICCA will unveil a partnership at TCCF on Nov. 6 spanning co-investment, AI R&D and talent development, aiming to make Taiwan an AI screen-production hub for Asia.",
-      "rationale": "New announcement: a top-tier VFX house teams with a national content agency on AI R&D and talent training. This is a production-pipeline story, not a funding round."
+      "title": "AI movies make leap from short clips to big screen",
+      "url": "https://www.koreatimes.co.kr/entertainment/films/20261105/ai-movies-make-leap-from-short-clips-to-big-screen",
+      "source": "The Korea Times",
+      "published_iso": "2026-11-04T22:00:04+00:00",
+      "og_image": "https://newsimg.koreatimes.co.kr/2026/11/04/3a0e1a84-3ca8-4f17-8284-1ca86f2f1608.jpg",
+      "excerpt": "The fully AI-generated Korean sci-fi feature 'Raphael' opens in local theaters Nov. 25 after 14 months of editing to keep characters consistent, following 'Steelay' last month; Yeon Sang-ho and Jia Zhangke weigh in on human authorship.",
+      "rationale": "New theatrical release of a fully AI-generated Korean feature, with a concrete workflow detail (14 months of editing for character consistency)."
     },
     {
-      "rank": 3,
-      "title": "Seven directors to unveil AI short films at Seoul Independent Film Festival",
       "tool": "Movies",
-      "category": "movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "url": "https://www.koreajoongangdaily.com/entertainment/seven-directors-to-unveil-ai-short-films-at-seoul-independent-film-festival/12955399",
-      "source": "Korea JoongAng Daily",
-      "published_iso": "2026-11-04T08:10:19+00:00",
-      "og_image": "https://image.koreajoongangdaily.com/12955618.jpg?imageId=12955618&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "excerpt": "For SIFF's new 'AI Cinema Special' section, seven established directors including Lee Myung-se each teamed with AI creators (via Creative Mango) to make a short film. The shorts premiere when the festival opens Nov. 25.",
-      "rationale": "New festival section that pairs established directors with AI creators, a concrete director-plus-AI collaboration model. Different event from the 11-04 Korean Academy of Arts / Im Kwon-taek AI film card."
+      "title": "Matti Klemm sues Netflix over AI training on his voice",
+      "url": "https://www.voiceoverherald.com/matti-klemm-netflix-lawsuit-ai-training-voice-data/",
+      "source": "Voice Over Herald",
+      "published_iso": "2026-11-04T14:00:00+00:00",
+      "og_image": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-24.jpg",
+      "excerpt": "Jason Momoa's German dub voice Matti Klemm is suing Netflix, backed by the German voice-artists association VDS, after a data request showed his dubbing recordings were used to train AI.",
+      "rationale": "New lawsuit against a streamer over dubbing recordings used for AI training, a direct risk for localization and dubbing pipelines."
     },
     {
-      "rank": 4,
-      "title": "Prompt, action, cut! Here comes Keralam's first full-length AI feature film",
       "tool": "Movies",
-      "category": "movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "url": "https://www.newindianexpress.com/kerala/2026/Nov/04/prompt-action-cut-here-comes-keralams-first-full-length-ai-feature-film",
-      "source": "The New Indian Express",
-      "published_iso": "2026-11-04T09:39:03+00:00",
-      "og_image": "https://cf-images.assettype.com/newindianexpress%2F2026-11-04%2Ftar52kiq%2FWhatsApp-Image-2026-10-27-at-16.09.50.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "excerpt": "61-year-old first-time filmmaker Shane Sadanandan made the Malayalam feature 'Googilil Illaatha Oridam' entirely with AI tools, starting from Google Gemini prompt-writing, and is preparing its release.",
-      "rationale": "A new film: a solo first-timer's all-AI Malayalam feature, which shows how low the barrier to an AI feature has become in regional cinema. Distinct from the Chinese and Japanese all-AI features already covered."
+      "title": "Animaj unveiled FlipMove, an artist-led AI animation workflow",
+      "url": "https://senalnews.com/en/content/animaj-unveiled-flipmove-an-artist-led-ai-animation-workflow",
+      "source": "Señal News",
+      "published_iso": "2026-11-04T00:00:00+00:00",
+      "og_image": "https://senalnews.com/adjuntos/imagenes/000/187/0000187799.jpg",
+      "excerpt": "Animaj's proprietary FlipMove workflow, already used on preschool series 'Ozzy Fox', uses AI to accelerate animation production while keeping animators in creative control.",
+      "rationale": "Concrete studio pipeline unveiling: an AI animation workflow already in production on a series, with animators kept in creative control, which shows a practical human-in-the-loop setup for animation teams."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.thewrap.com/industry-news/tech/disney-ai-accelerator-startup-investor/": {
+      "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp": {
         "verdict": "new",
-        "nearest": "https://variety.com/2026/digital/news/ai-voicemod-disney-star-wars-marvel-soundboards-1236934834/",
+        "nearest": "https://www.cined.com/cinemaos-cutroom-and-invideo-compared-mac-studio-app-free-open-source-editor-cloud-ai-agent/",
         "new_action": ""
       },
-      "https://variety.com/2026/film/markets-festivals/weta-fx-taicca-partner-taiwan-ai-screen-production-hub-1236938968/": {
+      "https://www.hollywoodreporter.com/business/business-news/blade-runner-2049-producer-lawsuit-tesla-1236748701/": {
         "verdict": "new",
-        "nearest": "https://www.chinadaily.com.cn/a/202611/02/WS6ae8052ce4b06d4aa0566723.html",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.koreajoongangdaily.com/entertainment/seven-directors-to-unveil-ai-short-films-at-seoul-independent-film-festival/12955399": {
-        "verdict": "new",
-        "nearest": "https://www.yna.co.kr/view/AKR20261102043400005",
-        "new_action": ""
-      },
-      "https://www.newindianexpress.com/kerala/2026/Nov/04/prompt-action-cut-here-comes-keralams-first-full-length-ai-feature-film": {
+      "https://www.koreatimes.co.kr/entertainment/films/20261105/ai-movies-make-leap-from-short-clips-to-big-screen": {
         "verdict": "new",
         "nearest": "https://www.globaltimes.cn/page/202610/1372724.shtml",
         "new_action": ""
+      },
+      "https://www.voiceoverherald.com/matti-klemm-netflix-lawsuit-ai-training-voice-data/": {
+        "verdict": "new",
+        "nearest": "https://deadline.com/2026/10/sag-aftra-wga-afm-openai-copyright-court-battle-brief-1237209138/",
+        "new_action": ""
+      },
+      "https://senalnews.com/en/content/animaj-unveiled-flipmove-an-artist-led-ai-animation-workflow": {
+        "verdict": "new",
+        "nearest": "https://www.awn.com/news/astra-studios-launches-astralabs-teams-verse-ai-pipeline",
+        "new_action": ""
       }
     },
-    "note": "REPLACEMENT PASS (11-05): Removed ProVideo Coalition 'Rough Cuts on a Freelancer's Clock - Understanding Adobe Premiere's AI tools'. The enrichment fetch found it is an Adobe advertorial ('by PVC News Staff, for Adobe'), and sponsored posts are excluded. No replacement was added because no remaining candidate qualifies: iZotope Photon (postPerspective) belongs to music; the CAA/Bryan Lourd and WME NYT v. OpenAI items (Deadline) continue the 11-02 SAG-AFTRA/WGA/AFM amicus story; ByteDance 'rewiring its AI video bet' (TechNode, 10-27) is the same outlet and date as the published 10-29 ByteDance cards, with no new release; Ava DuVernay '14th' (THR) is commentary on a film covered 10-19; the Cartoon Brew View Conference report reacts to an event already covered three times; Deadline Flawless tech sale is a pure business deal; Remington Scott / Eros AI unit (AWN) is an exec-hire story; Variety 'Shirjara' is a gap-financing pitch where AI is only thematic; PVC After Effects Portal October 2026 is a monthly roundup, not a single news event. It likely re-aggregates tools already published (Maxon fall release, Sekondo, Continuum), AI is incidental in it, and it could not be checked for sponsorship in this pass. Section stays at 4 picks (floor 3), all from different outlets. Earlier cross-section caveat still applies: before roll, the orchestrator should exact-grep published_urls.json for each pick URL plus 'Disney Accelerator', 'TAICCA', 'Weta', 'Seoul Independent Film Festival'/'서울독립영화제', 'Googilil'."
+    "note": "RE-CURATION #2 2026-11-06: removed Pitch Black REVIZE (content-technology.com). It repeats the movies card published 2026-09-09 (movies-revize-pitchblack-d4t, beforesandafters.com, the REVIZE expansion to Pitch Black studios) with no materially new action, and it fell outside the 30-day history_digest. Replaced it with Animaj FlipMove (Señal News). No Animaj or FlipMove story appears in the 30-day movies history_digest; the closest is the 10-16 AstraLabs AI-pipeline launch, a different studio. Rejected options: Kling 4.0 Flash (remio is a SaaS blog/aggregator rather than a news outlet), Flawless IP sale (business/administration), Remington Scott/Eros (exec appointment), GIFF Pro (interview commentary), CAA/Bryan Lourd (commentary), View Conference (commentary), Gods Don't Give Gifts x2 (running story, published 10-07 and 10-26), iZotope Photon (music published it 11-05), DaVinci Resolve 21.2 (AI incidental, removed in swap #1). Caveats for the orchestrator: (1) Señal News gives a date-only timestamp, so the enrichment fetch should confirm the FlipMove unveiling is new (not an older Animaj announcement re-reported) and that AI is substantive in the body; (2) exact-grep published_urls.json for 'senalnews.com/en/content/animaj' and 'FlipMove' across all sections, and also check for any pre-30-day Animaj card, since the REVIZE repeat came from before the digest window. If either check fails, ship 4."
   }
 }

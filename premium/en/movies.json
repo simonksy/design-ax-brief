@@ -9917,6 +9917,136 @@
           "x": "Netflix has long used machine learning to personalize recommendations, but AI Discover is the first user-facing application it is branding as powered by AI. “Think of AI Discover as our test kitchen,” Netflix says. The company plans to expand the feature to more regions and customers in the coming weeks."
         }
       ]
+    },
+    "movies/alcon-wbd-bladerunner-settlement": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/MCDBLRU_EC053-H-2026.jpg?w=1296&h=730&crop=1",
+          "cap": "Ryan Gosling in 'Blade Runner 2049.'"
+        },
+        {
+          "t": "p",
+          "x": "A production company for Blade Runner 2049 suing Tesla for using images from the movie to create artificial intelligence-generated promotional material has settled a related claim against Warner Bros. Discovery, which was accused of facilitating the copyright infringement. Terms weren’t disclosed. “Alcon and WBD have reached a settlement,” the filing said."
+        },
+        {
+          "t": "p",
+          "x": "Alcon continues to pursue the lawsuit against Tesla and Elon Musk. The case stems from Tesla’s 2024 robotaxi unveiling on a Warner Bros. Discovery studio lot, where Musk showed an image of a man in a trench coat surveying a ruined city bathed in orange light. Alcon alleged the image was meant to be understood as an actual still from the film’s ruined Las Vegas sequence."
+        },
+        {
+          "t": "p",
+          "x": "The case raises the novel question of whether creating a visual with an AI image generator by copying a portion of a copyrighted work without a license constitutes copyright infringement. Tesla and Musk argue the practice is fair use."
+        }
+      ]
+    },
+    "movies/raphael-ai-feature-korea": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://newsimg.koreatimes.co.kr/2026/11/04/3a0e1a84-3ca8-4f17-8284-1ca86f2f1608.jpg?w=728",
+          "cap": "A scene from upcoming movie “Raphael” / Courtesy of 300 & Co."
+        },
+        {
+          "t": "p",
+          "x": "\"Raphael,\" a science fiction movie created entirely using generative AI, will open in local theaters on Nov. 25. Co-directed by Yang Ik-june, Moon Shin-woo and Jung Joo-won and produced by Mateo AI Studio and MBC C&I AI Content Lab, the 138-minute movie required 14 months of editing to maintain consistent appearances and natural movements for the characters. It follows \"Steelay,\" a 90-minute AI-generated action film that opened last month."
+        },
+        {
+          "t": "p",
+          "x": "Director Yeon Sang-ho released a four-part spin-off series, \"Paradise Lost Universe,\" made entirely with generative AI in two weeks. \"The quality is surprisingly decent and the AI characters act quite well,\" Yeon said. \"However, it will not be easy for AI to replace real actors.\""
+        },
+        {
+          "t": "img",
+          "src": "https://newsimg.koreatimes.co.kr/2026/11/04/eece63b8-8d2d-4752-ac62-ff296e044a20.jpg?w=728",
+          "cap": "A scene from \"Paradise Lost Universe,\" a short film created using generative AI by director Yeon Sang-ho"
+        },
+        {
+          "t": "p",
+          "x": "Chinese director Jia Zhangke, who has directed three AI short films over the past two years, said at the Busan International Film Festival: \"We cannot block the arrival of AI, and it is more important to make one or two films ourselves to understand it rather than engaging in emotional debates.\""
+        }
+      ]
+    },
+    "movies/klemm-netflix-dub-voice-suit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-24.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Matti Klemm, the German voice of Jason Momoa and Mahershala Ali, says Netflix trained AI systems on his voice without asking him or paying him. The VDS, the association of German voice artists, announced that Klemm will file a lawsuit against Netflix claiming a breach of his personality rights, copyright and data protection rights."
+        },
+        {
+          "t": "video",
+          "yt": "mtoEU94dj0E"
+        },
+        {
+          "t": "p",
+          "x": "According to the VDS, Netflix answered a data access request from Klemm showing it “had already, in the past and without Klemm’s knowledge and consent, trained AI systems with his personal voice recordings.” Klemm had refused to sign the new AI training clauses offered to German dubbing actors since early 2026."
+        },
+        {
+          "t": "p",
+          "x": "The GFF civil rights group plans to file the case at the end of 2026, seeking disclosure, an order stopping future AI training on his voice, and damages. Netflix said its “use of AI is in accordance with applicable law.” Lawyer Jonas Kahl: “Voices are not a freely available raw material.”"
+        }
+      ]
+    },
+    "movies/movies-animaj-flipmove": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://senalnews.com/adjuntos/imagenes/000/187/0000187796.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Animaj has launched FlipMove, an AI-powered animation workflow designed to connect the production stages from an approved animatic to finished animation. The technology automates repetitive technical tasks while preserving full creative authorship."
+        },
+        {
+          "t": "video",
+          "yt": "_t8xmBqUYQw"
+        },
+        {
+          "t": "p",
+          "x": "\"Connecting our animation technologies into one workflow lets teams turn a director’s note into an editable 3D revision in two minutes rather than twenty,\" said Antoine Lhermitte, CTO of Animaj."
+        },
+        {
+          "t": "p",
+          "x": "FlipMove integrates Animaj’s previously separate animation tools—including Sketch-to-Pose and Motion-In-Betweening—into an editable 3D production pipeline. It introduces Animatic-to-Layout capabilities that convert 2D animatics into 3D camera placements, props, and character staging, plus automated retakes that translate director feedback into revised layouts."
+        },
+        {
+          "t": "p",
+          "x": "The workflow is already in active production on \"Ozzy Fox,\" the YouTube-first preschool series co-developed with Disney Jr. that has generated over 25 million views since its July launch. Animaj showcased it at the Disney Accelerator Demo Day in Los Angeles on November 3, with plans to deploy it across \"Pocoyo\" and \"Maya the Bee.\""
+        }
+      ]
+    },
+    "movies/disney-accelerator-ai-cohort": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelorator.jpg?width=1200&height=675&fit=bounds",
+          "cap": "(Credit: Disney)"
+        },
+        {
+          "t": "p",
+          "x": "At Demo Day for Disney Accelerator, its program to invest in cutting-edge startups, AI was the predominant theme. This year five companies made up the latest cohort; the startups spend 15 weeks with Disney, with much of the focus on theme parks. “We’re working with the technology to see if it can fit into workflows that we have, so we have the artist involved along the way,” said David Min, VP of corporate innovation at Disney."
+        },
+        {
+          "t": "img",
+          "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelerator-2026-Cohort.jpg?width=1024&height=683&fit=bounds",
+          "cap": "The 2026 Disney Accelerator cohort with Disney executives Bonnie Rosen and David Min (center) (Credit: Disney)"
+        },
+        {
+          "t": "p",
+          "x": "Promise Advanced Imagination is an AI-native studio whose operating system, MUSE, allows for hybrid filmmaking using a gray box studio: AI fills the background and boxes with digital scenery and props in near-real time. Doug Liman’s “Bitcoin: Killing Satoshi” was the first example of a gray-box AI shoot. OpenArt lets anyone write simple prompts for generative AI to create short videos; CEO Coco Mao called the conversational instructions “vibe directing” a video."
+        },
+        {
+          "t": "p",
+          "x": "FieldAI and Physical Intelligence brought AI to robots, and Simile runs virtual focus group tests with synthetic crowds of digital twins of real people."
+        },
+        {
+          "t": "img",
+          "src": "https://www.thewrap.com/wp-content/uploads/2026/11/FieldAI-Disney-Accelerator-Demo-Day.jpg?width=683&height=1024&fit=bounds",
+          "cap": "A demonstration of FieldAI’s intelligence and a Boston Dynamics robot (Credit: Disney)"
+        }
+      ]
     }
   }
 }

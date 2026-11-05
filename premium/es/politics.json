@@ -4842,6 +4842,149 @@
           "x": "La empresa que opera un chatbot es responsable si las infracciones son inherentes a su modelo de negocio o si no ha adoptado medidas eficaces para evitar infracciones como el web scraping ilícito, argumentó el abogado general."
         }
       ]
+    },
+    "politics/g7-ai-safety-france-us": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=740,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/05/G7-AI-scaled.jpg",
+          "cap": "Líderes del G7, dignatarios de todo el mundo y representantes de las industrias tecnológica y de AI se reúnen en Évian-les-Bains, Francia, el 17 de junio de 2026."
+        },
+        {
+          "t": "p",
+          "x": "El gobierno de U.S. ha frustrado el impulso francés para que el G7 se coordine en materia de seguridad de la AI avanzada; un funcionario de la Casa Blanca lo calificó de «burocracia innecesaria»."
+        },
+        {
+          "t": "p",
+          "x": "La ministra francesa de Asuntos Digitales, Anne Le Hénanff, dijo el miércoles en una audiencia del Senado francés que celebró dos reuniones ministeriales en septiembre y octubre para lograr compromisos del G7 con un grupo de trabajo de alto nivel que pusiera a prueba la AI de frontera y compartiera información sobre riesgos e incidentes. Ese esfuerzo «no llegó a buen término» porque U.S. quería seguir su propio enfoque, afirmó."
+        },
+        {
+          "t": "p",
+          "x": "Un funcionario de la Casa Blanca dijo que el gobierno francés propuso un «organismo mal definido» que, según temía la administración, «crearía burocracia innecesaria», y señaló en cambio la Super Intelligence Force del presidente Donald Trump."
+        },
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/wp-content/uploads/2026/11/05/Anne-Le-Henanff-1024x683.jpg",
+          "cap": "La ministra de Asuntos Digitales Anne Le Hénanff interviene en el parlamento francés en París el 28 de octubre de 2026."
+        },
+        {
+          "t": "p",
+          "x": "Francia, que ostenta la presidencia del G7 en 2026, publicó un resumen de la presidencia tras la reunión ministerial virtual de tecnología del G7 del 20 de octubre; no fue una declaración conjunta respaldada por todos los miembros del G7. Le Hénanff ha propuesto reanudar las conversaciones en diciembre y dijo que Francia seguirá impulsando el tema, citando a INESIA e Inria."
+        },
+        {
+          "t": "p",
+          "x": "El funcionario de la Casa Blanca dijo: «Bajo el liderazgo del presidente Trump, Estados Unidos seguirá liderando el mundo en innovación de SI»."
+        }
+      ]
+    },
+    "politics/certin-ai-incident-6hr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.indianexpress.com/2026/11/ai-security-1600.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El Equipo de Respuesta a Emergencias Informáticas de la India (Indian Computer Emergency Response Team, CERT-In) emitió nuevas pautas de auditoría de ciberseguridad para los sistemas de AI desplegados por organismos públicos y empresas privadas, que exigen comunicar en un plazo de seis horas los incidentes de seguridad AI-related (relacionados con la AI) sujetos a notificación. El requisito de seis horas se basa en las directrices de ciberseguridad de CERT-In de 2022."
+        },
+        {
+          "t": "p",
+          "x": "Los sistemas de AI se clasificarán en cuatro categorías —riesgo bajo, moderado, alto y crítico—, que determinarán la profundidad y frecuencia de las auditorías, la independencia de los auditores, la documentación y el alcance de la supervisión y el monitoreo humanos."
+        },
+        {
+          "t": "p",
+          "x": "Las organizaciones deberán auditar nueve ámbitos, entre ellos gobernanza y rendición de cuentas, gestión de datos y privacidad, gestión de riesgos de modelos de AI, sesgo y equidad, y explicabilidad, y conservar los registros de seguridad durante al menos 180 días."
+        },
+        {
+          "t": "p",
+          "x": "En un aviso del 15 de octubre, CERT-In indicó que había recibido varias comunicaciones voluntarias de desarrolladores de AI cuyos sistemas habían accedido a infraestructura en funcionamiento de organizaciones indias durante tareas de investigación y evaluación. Ninguna de las organizaciones indias afectadas había detectado ese acceso por su cuenta, según la agencia."
+        }
+      ]
+    },
+    "politics/delhi-hc-kriti-sanon-deepfakes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.indianexpress.com/2026/11/Kriti-Sanon_20261105093311.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Como medida cautelar a favor de la actriz Kriti Sanon, el Delhi High Court (Tribunal Superior de Delhi) ha prohibido a diversos sitios web, cuentas de redes sociales y plataformas de AI usar su identidad para crear o difundir deepfakes sexualmente explícitos, suplantarla o sugerir falsamente una relación con ella. El juez Purushaindra Kumar Kaurav dictó la orden a raíz de su demanda para proteger sus derechos de la personalidad."
+        },
+        {
+          "t": "p",
+          "x": "El tribunal ordenó retirar las URLs con material objetable e indicó a las autoridades competentes que emitieran órdenes de bloqueo contra los sitios web que alojan deepfakes pornográficos. Aclaró que la orden no restringe noticias, reseñas, críticas, comentarios, sátira, parodia, caricatura ni expresiones de fans."
+        },
+        {
+          "t": "p",
+          "x": "Sanon denunció el uso indebido de su nombre, imagen, semejanza y voz, incluidos chatbots de AI y modelos de voz sintética presentados como ella. El abogado sénior Pravin Anand sostuvo que gran parte del contenido se creó con herramientas de AI."
+        },
+        {
+          "t": "p",
+          "x": "El tribunal señaló que los «derechos de la personalidad» no constituyen una única causa de acción, sino la descripción de varias pretensiones distintas. El caso se verá el 10 de diciembre."
+        }
+      ]
+    },
+    "politics/ipophl-artists-ai-copyright": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://pna.gov.ph/_assets/storage/photo-assets/QcBTy2fJfkOzCUYhLONezB7N9vVmuziA86g2HzxS.webp"
+        },
+        {
+          "t": "p",
+          "x": "MANILA – La Intellectual Property Office of the Philippines (IPOPHL) recoge las opiniones del público sobre un borrador de guía orientado al registro de derechos de autor de obras creativas en las que se usó inteligencia artificial (AI)."
+        },
+        {
+          "t": "p",
+          "x": "Emerson Cuyo, director del Bureau of Copyright and Related Rights de IPOPHL, dijo que han realizado dos consultas públicas sobre el asunto y que siguen recibiendo comentarios y observaciones. No precisó cuándo prevén publicar la guía definitiva."
+        },
+        {
+          "t": "p",
+          "x": "Explicó que la medida busca proteger a los artistas filipinos ante el creciente uso de AI en diversas obras de arte. Según el borrador, habrá cuatro categorías: AI-assisted (asistida por AI), AI-enhanced (mejorada con AI), obra híbrida y obra puramente AI-generated (generada por AI)."
+        },
+        {
+          "t": "p",
+          "x": "Cuyo dijo que la guía también exige registrar el sistema de AI o el modelo de AI en sí, ya que está protegido como programa informático por el Intellectual Property Code, y que el registro de obras hechas con AI no puede realizarse de forma automática."
+        },
+        {
+          "t": "p",
+          "x": "«Puede registrarse o permitirse su registro una vez que se demuestre que contiene una producción artística personal suficiente de un individuo. El contenido AI-assisted o puramente AI-generated no está protegido, y debe declararse al registrarlo», añadió."
+        }
+      ]
+    },
+    "politics/brazil-meta-news-ruling": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un tribunal de São Paulo prohibió el martes (3) a Meta, propietaria de Facebook, Instagram, WhatsApp y Threads, usar bots para recopilar artículos periodísticos, fotografías, videos y otros contenidos de medios afiliados a tres asociaciones de prensa brasileñas."
+        },
+        {
+          "t": "p",
+          "x": "La decisión también impide usar ese material para desarrollar o entrenar sistemas de inteligencia artificial, como Meta AI. La demanda buscaba suspender los nuevos términos comerciales de la empresa, que entrarán en vigor el 20 de noviembre."
+        },
+        {
+          "t": "img",
+          "src": "https://f.i.uol.com.br/fotografia/2026/10/27/17931137016ae0be65bfde7_1793113701_3x2_md.jpg",
+          "cap": "El logotipo de Meta Platforms en la conferencia Viva Technology en París, el 12 de junio de 2025. Benoit Tessier/REUTERS"
+        },
+        {
+          "t": "p",
+          "x": "Según las asociaciones, las reglas permitirían a Meta acceder, copiar, almacenar y analizar contenidos de sitios de noticias. El juez suspendió la cláusula que obligaba a las empresas a autorizar, sin compensación, el uso de \"web scrapers\" y determinó que esa exigencia constituía un abuso contractual."
+        },
+        {
+          "t": "p",
+          "x": "Afirmó que extraer contenido de sitios de noticias para alimentar modelos de lenguaje constituye una reproducción de obras protegidas por derechos de autor, que requiere autorización previa, y que la ley brasileña no prevé ninguna excepción para la minería de datos con fines comerciales. Según el juez, los términos crean una \"trampa jurídica insoluble\" porque los medios publican material de terceros."
+        },
+        {
+          "t": "p",
+          "x": "La multa por incumplimiento es de R$1 millón (182.400 dólares) por día, con un tope de R$100 millones (18 millones de dólares). Meta tiene cinco días para impugnar la decisión, y las asociaciones disponen de 30 días hábiles para presentar su demanda principal. La empresa no fue escuchada y dijo que no haría comentarios. Marcelo Rech, presidente ejecutivo de la Asociación Brasileña de Periódicos, calificó la medida cautelar de \"histórica\" y dijo que demuestra que existen límites al abuso del poder económico por parte de las plataformas."
+        },
+        {
+          "t": "p",
+          "x": "La decisión llega casi una semana después de que un tribunal noruego suspendiera las mismas reglas."
+        }
+      ]
     }
   }
 }

@@ -14078,6 +14078,129 @@
           "x": "Suno는 연방법 “선점(preemption)” 원칙으로 봐도 소송이 성립할 수 없다고 본다. 이 소송이 “주법에 기반한 그림자 IP 체제를 만들어 … 두 세기 넘게 유지돼 온 연방 체제와 근본적으로 충돌할 것”이라는 이유에서다."
         }
       ]
+    },
+    "music/avid-protools-sixstem-split": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/11/Pro-Tools-Stem-hero@2000x1500.jpg",
+          "cap": "출처: Avid"
+        },
+        {
+          "t": "p",
+          "x": "프로듀서가 가장 요긴하게 쓰는 도구를 꼽으면 스템 분리가 빠지지 않는다. Avid가 Pro Tools 2026.11에 AI 스템 분리를 넣었으니 이 DAW를 쓰는 프로듀서 상당수가 반길 소식이다."
+        },
+        {
+          "t": "p",
+          "x": "새 AI 스템 분리 Pro Tools Extension은 어떤 녹음이든 보컬, 드럼, 베이스, 기타, 건반, 그 밖의 악기 등 최대 여섯 개 스템으로 나눈다. 쓰는 법도 간단하다. 오디오 파일을 창에 끌어다 놓고 분리될 스템을 미리 들어 본 다음 각각 별도 트랙으로 메인 DAW에 돌려보내면 끝이다."
+        },
+        {
+          "t": "p",
+          "x": "새 AI Stem Separator는 Pro Tools Extensions로 나오는 여러 기능 중 하나다. 플러그인은 한 번에 트랙 하나만 다루지만 Extensions는 세션 전체나 원하는 만큼의 특정 트랙을 한꺼번에 다룬다. Splice, SoundFlow, Pro Sound Effects, Soundly, Forte, Pibox 같은 외부 업체도 Extensions를 만들었다."
+        },
+        {
+          "t": "p",
+          "x": "“Extensions는 새로운 기술과 혁신적인 기능을 Pro Tools 안으로 직접 들여오는 중요한 진전입니다.” Avid 제품 관리 부문 부사장 Sam Butler의 말이다."
+        },
+        {
+          "t": "p",
+          "x": "Pro Tools 2026.11은 지금 Pro Tools Artist, Studio, Ultimate 구독자와 업그레이드 플랜이 유효한 영구 라이선스 보유자, 30일 체험판을 포함한 Pro Tools Intro 사용자가 쓸 수 있다."
+        }
+      ]
+    },
+    "music/elevenlabs-soundcloud-publish": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675"
+        },
+        {
+          "t": "p",
+          "x": "오디오 AI 기업 ElevenLabs는 목요일, 사용자가 자사 ElevenMusic 플랫폼으로 만든 AI 생성(AI-generated) 음악을 이제 SoundCloud에 바로 올릴 수 있다고 밝혔다. SoundCloud Artist Pro 사용자에게는 ElevenMusic Pro 석 달 이용권도 준다. ElevenMusic Pro에서는 매달 최대 1,000곡 생성과 500회 스템 분리, 맞춤 스타일이나 보컬 다섯 가지를 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "회사는 2025년 첫 음악 생성 모델을 내놓은 뒤 2026년 4월 소비자용 앱을 냈다. 한 달 뒤에는 곡 중간에 장르를 바꾸는 모델도 선보였다. ElevenLabs에 따르면 지금까지 사용자들이 자사 모델로 만든 트랙은 2500만 곡이 넘는다."
+        },
+        {
+          "t": "p",
+          "x": "“ElevenMusic 창작물을 자체 생태계 밖의 팬들에게 직접 전하는 첫 플랫폼이 되면서, 아티스트가 실험하고 작품을 공유하고 청중을 모을 새로운 가능성을 열고 있습니다.” SoundCloud CEO Eliah Seton의 말이다."
+        },
+        {
+          "t": "p",
+          "x": "다른 플랫폼은 대체로 AI 음악에 표시를 붙이거나 걸러 내는 쪽이다. Deezer는 AI 음악을 걸러 내는 토글을 들여오는 중이고 Bandcamp는 AI 생성 트랙을 아예 금지했다. Spotify와 YouTube는 표시 문제에 좀 더 조심스럽게 접근해 왔다."
+        }
+      ]
+    },
+    "music/ddex-elevenlabs-membership": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ddex-announces-elevenlabs-as-first-ai-company-to-join-membership.png",
+          "cap": "사진 출처: DDEX x ElevenLabs"
+        },
+        {
+          "t": "p",
+          "x": "음악 산업의 비영리 국제 표준 제정 기구인 Digital Data Exchange(DDEX)가 ElevenLabs를 정회원으로 받아들였다고 발표했다. AI 기업으로는 처음이다. DDEX 회원은 음악·기술 분야 기업과 개인을 합쳐 150곳이 넘는다."
+        },
+        {
+          "t": "p",
+          "x": "DDEX 사무국의 Mark Isherwood는 “음악 시장을 이끄는 AI 기업 중 하나로서 이들의 전문성은 풍부한 통찰을 줄 것”이라고 말했다. ElevenLabs의 Gabriella Heybourne은 “총회와 워킹그룹에 참여해 AI를 비롯한 음악 정보 전달 방식을 함께 만들어 가기를 기대한다”고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "ElevenLabs는 DDEX AI 워킹그룹이 9월 9일과 10일 내슈빌에서 첫 대면 회의를 연 뒤 합류했다. 워킹그룹은 생성형 AI 선언 표준(GAI-D) 위원회 초안의 의견 수렴을 마쳤다. 초안은 동료 검토를 거쳐 2027년 초 공개된다."
+        }
+      ]
+    },
+    "music/pianobench-arxiv-benchmark": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "멀티모달 언어 모델은 폭넓은 음악 이해 벤치마크에서 성적이 꾸준히 오르고 있다. 그런데 이 모델들이 실제로 지각하고 추론하는 음악적 특징은 무엇일까. 저자들이 내놓은 PianoBench는 서로 일치하는 음향 입력 표현과 기호 입력 표현을 오가며 언어 모델에게 음악 연주를 추론하게 하는 벤치마크다."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2611.03839v1/pianobench_overview.png",
+          "cap": "그림 1: PianoBench는 PianoTalk에서 나왔다. PianoTalk는 피아노 교습 영상의 해설과 음악 전사본을 교차 배열한 학습 규모(20k 시간) 데이터셋이다."
+        },
+        {
+          "t": "p",
+          "x": "PianoBench의 바탕은 피아노 교습 영상에서 얻은 음악 전사본과 음성 음악 해설을 교차 배열한 새 학습 규모 멀티모달 데이터셋으로, 분량이 20,000시간이 넘는다."
+        },
+        {
+          "t": "p",
+          "x": "오픈 웨이트 오디오-언어 모델의 정확도는 최대 52.8%에 머물러 오디오 없는 대조군을 조금 앞서는 데 그쳤다. 반면 생각의 사슬(chain of thought)을 쓰는 프런티어 모델은 음악 전사본을 텍스트로 받자 최대 93.2%까지 올라갔다. 오디오에서 음악적 특징을 지각하는 능력과 명시적으로 주어진 특징을 추론하는 능력 사이에 틈이 있다는 얘기다."
+        },
+        {
+          "t": "p",
+          "x": "교차 배열된 음악 교습 데이터로 중간 학습을 하자 Qwen 3.5 9B Base의 음악 전사본 제로샷 정확도는 인스트럭션 튜닝 후 42.8%에서 56.0%로 올랐다. 음악 멀티모달 지도 학습에서 교습 영상이 그동안 놓쳐 온 자료원일 수 있다는 결과다."
+        }
+      ]
+    },
+    "music/suno-midi-create-upload": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "이제 Suno에서 MIDI 파일로 곡을 시작할 수 있다. Create 페이지에 파일을 끌어다 놓거나 '+' 메뉴에서 MIDI를 고르면 된다. MIDI 파일에는 한 파트의 음표와 타이밍이 정확히 담겨 있어 Suno로 곡을 만드는 다른 어떤 방법보다 훨씬 정밀하게 출발할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Suno가 원본을 얼마나 충실히 따를지도 정할 수 있다. 쓴 음표를 그대로 연주하게 해도 되고, 파일에서 모티프만 가져와 새 곡으로 발전시키게 해도 된다. Remix나 Cover용 오디오 업로드와 달리 MIDI에는 소리가 전혀 없다. 대신 정확한 음표와 타이밍 정보를 넘겨 아주 세밀하게 제어할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "제안된 활용법은 이렇다. 작업 중인 악보를 내보내 고품질 악기 편성으로 들어 보거나(\"Arrange this MIDI for a full orchestra, with strings, brass, woodwinds and percussion\"), 학생과 밴드 리더가 작곡을 시연하거나, 옛 밴드 세션의 MIDI를 되살리는 식이다(\"Transform this MIDI into a string quartet\")."
+        },
+        {
+          "t": "p",
+          "x": "출시 시점의 MIDI는 v6-wild 기반 Simple Create 모드를 쓴다. 모든 Pro·Premier 구독자가 쓸 수 있고, Suno는 MIDI 기능을 차차 넓혀 갈 계획이다."
+        }
+      ]
     }
   }
 }

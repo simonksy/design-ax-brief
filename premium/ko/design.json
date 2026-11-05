@@ -16760,6 +16760,160 @@
           "x": "AEC 기업의 템플릿, 표준, 승인 검토 절차에 맞춘 맞춤형 스킬도 Autom8Labs가 만들어 테스트까지 해 준다."
         }
       ]
+    },
+    "design/gemini-canvas-sketch-to-app": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "좋은 앱 아이디어는 대개 종이 위에서 나온다. 그 스케치를 Gemini로 인터랙티브 도구로 바꾸는 방법은 이렇다."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Bring_your_paper_sketches_to_life_with_Gemini_no-end_inline_oRRbgSH.mp4"
+        },
+        {
+          "t": "p",
+          "x": "앱 목업, 습관 기록표, 게임판 같은 스케치를 사진으로 찍어 Gemini에 올린다."
+        },
+        {
+          "t": "p",
+          "x": "Canvas 도구를 고른 뒤 Gemini에 \"Can you code this app?\"(이 앱을 코딩해 줄 수 있어?)라고 묻는다. 그러면 Gemini가 이미지를 읽어 코드를 짠다."
+        },
+        {
+          "t": "p",
+          "x": "미리보기 창에서 도구를 직접 써 본다. 색상과 글꼴, 기능은 Gemini가 실시간으로 고쳐 준다."
+        },
+        {
+          "t": "p",
+          "x": "다음에 영감이 떠오르면 Gemini로 바로 만들어 보면 된다."
+        }
+      ]
+    },
+    "design/autodesk-au2026-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/AU2026_DEMO-AutoAssemble.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Autodesk는 Autodesk University 2026에서 더 빠른 도구 이상의 AI 구상을 내놨다. 과제를 어떻게 풀지 사용자 대신 정해 주는, 서로 연결된 Assistant다. CEO Andrew Anagnost는 이를 ‘Project Intelligence’라 부르며 “모든 데이터 포인트, 모든 결정, 모든 분야를 하나로 모으는 중심의 연결된 두뇌”라고 설명했다."
+        },
+        {
+          "t": "p",
+          "x": "가장 큰 발표는 Autodesk Assistant를 “제품 전반을 아우르는 독립형 에이전트 우선 경험”으로 내놓겠다는 것이다. 아직 개발 단계이고 출시는 내년으로 예상된다. Revit, AutoCAD, Fusion 안에 있는 제품 내 Assistants도 계속 늘어난다."
+        },
+        {
+          "t": "p",
+          "x": "그 밑에는 기업이 내린 결정이 쌓여 만들어지는 Autodesk Context와 AI Orchestrator가 깔린다. AI Orchestrator는 Autodesk-built 모델, Claude, OpenAI, 오픈 웨이트 모델 중에서 “정확도, 속도, 보안, 비용을 기준으로 어떤 AI 모델이 과제에 가장 적합한지”를 따져 고른다."
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/Raji-Arasu-img.jpg",
+          "cap": "Autodesk CTO Raji Arasu"
+        },
+        {
+          "t": "p",
+          "x": "Expo 전시장에서는 주요 워크스테이션 업체 세 곳이 모두 제대로 된 로컬 AI를 보여 줬다. HP와 Perplexity는 머신 한 대에서 로컬 LLM으로 공식 Revit 2027 MCP 서버를 돌렸다. Nvidia는 Dell 하드웨어에서 Revit과 Fusion의 자율 모델링을 선보였고, Lenovo는 AutoCAD Civil 3D용 에이전트형 프런트엔드를 띄웠다."
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/Nvidia-Agentic-Fusion-2.img_.jpg",
+          "cap": "Nvidia의 Autodesk Fusion Agentic Demo"
+        },
+        {
+          "t": "p",
+          "x": "Autodesk가 내세우는 가치의 중심은 도구에서 성과로 옮겨 가는 중이다. 다만 차세대 Assistant는 내년 중에야 나올 전망이다."
+        }
+      ]
+    },
+    "design/smashing-llm-chat-a11y": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg"
+        },
+        {
+          "t": "p",
+          "x": "LLM 채팅 패턴이 웹 곳곳으로 들불처럼 번지고 있다. 접근성을 처음부터 따지지 않고 이런 화면을 만들면 누군가는 밀려날 수 있다. Claude, ChatGPT, GitHub Copilot, Gemini처럼 전체 화면을 쓰는 몰입형 LLM 채팅 여러 곳의 접근성 개선을 도운 Eric Bailey가 그 노하우를 풀어놓는다."
+        },
+        {
+          "t": "p",
+          "x": "안내는 라이브 영역으로 한다. aria-live를 메시지마다 붙이지 말고 DOM 끝에 전용 라이브 영역을 하나 둔다. 완성된 메시지만 읽어 주고, 프롬프트를 낸 뒤 약 다섯 초가 지나면 “Loading”을 알린 다음 답변이 올 때까지 다섯 초마다 되풀이한다."
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/live-region-do-dont.png",
+          "cap": "권장: 전용 라이브 영역을 사용한다. 금지: 메시지마다 aria-live를 적용한다."
+        },
+        {
+          "t": "p",
+          "x": "채팅 메시지마다 앞에 “You said:”, “Cody said:” 같은 제목을 화면에는 안 보이게 넣는다. 랜드마크는 쓰되 아껴 쓰고, 건너뛰기 링크를 단다. 대화 목록은 화살표 키로 오갈 수 있는 복합 위젯으로 만든다."
+        },
+        {
+          "t": "p",
+          "x": "피드 패턴은 피한다. 채팅 입력란과 LLM의 마지막 답변 사이를 오가도록 Control+F6 탐색을 지원하는 방안도 검토할 만하다."
+        }
+      ]
+    },
+    "design/uxc-design-systems-mcp-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*er_HyzWo0FVdfLtEexv7KQ.jpeg",
+          "cap": "AI 시대, 디자인 시스템을 만들고 유지하는 일에서 사람은 무엇을 맡을까? 이미지: Anna Lefour, Gemini 활용."
+        },
+        {
+          "t": "p",
+          "x": "Anna Lefour는 디자인 전문가 세 명, Marianne Ashton-Booth(ITV), David Sward(Siemens), Nicolas Chatelain을 만나 AI 때문에 디자인 시스템을 만들고 관리하는 방식이 어떻게 달라지는지 물었다."
+        },
+        {
+          "t": "p",
+          "x": "AI가 쉬운 일은 자동화해도 어려운 일은 여전히 사람 몫이다. Ashton-Booth는 “누구나 몇 분 만에 프로토타입을 뚝딱 만들 수 있다”고 말한다. 정작 중요한 건 팀 사이의 일관성이고, 디자인 시스템에서 사람이 맡을 일도 바로 그것이다."
+        },
+        {
+          "t": "p",
+          "x": "이제 병목은 제작 속도가 아니라 검토다. David Sward는 “가장 큰 고민은 AI를 쓰는 사람들의 속도를 늦추는 일”이라고 했다."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*-Qfue98f02kXx1XxjHGXqA.png",
+          "cap": "Kaelig Deloumeau-Prigent 보고서에서 발췌한 자료로, 그가 분석한 시스템별 기능을 보여 준다"
+        },
+        {
+          "t": "p",
+          "x": "디자인 시스템을 읽는 쪽은 점점 AI가 된다. Kaelig Deloumeau-Prigent는 2026년 7월 내놓은 현장 연구에서 오픈소스 디자인 시스템 21개를 살폈다. 이 가운데 20개가 MCP 서버(공식 또는 커뮤니티 제작)를 제공했지만 Figma Code Connect를 설정한 곳은 3개뿐이었다."
+        },
+        {
+          "t": "p",
+          "x": "Lefour의 결론은 이렇다. 진실의 원천은 디자인 파일이 아니라 코드로 옮겨 가고 있다."
+        }
+      ]
+    },
+    "design/chatgpt-animated-gifs-images": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "이제 ChatGPT에서 프롬프트를 쓰거나 AI 챗봇에 사진을 올려 GIFs를 만들 수 있다. OpenAI의 새 Images 2.6 모델과 함께 배포되는 이번 업데이트로 GIF 애니메이션 속도를 조절하고 프레임을 하나씩 편집해 다른 사람과 공유할 수도 있다."
+        },
+        {
+          "t": "p",
+          "x": "이전의 ChatGPT는 GIFs를 한 번에 직접 생성하지 못했다. 회사가 공개한 예시에서 ChatGPT는 “can you make a gif of a cat dancing?”(춤추는 고양이 gif를 만들어 줄래?)라는 프롬프트를 받아 GIF를 생성하고, 재생 속도를 바꾸거나 프레임 단위로 보는 옵션도 함께 제공한다."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GIF.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "ChatGPT 안에서 바로 속도를 조절하고 프레임을 편집할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI에 따르면 Images 2.6 업데이트는 GIF-making 지원과 함께 ChatGPT의 이미지 생성 속도도 끌어올린다. 회사 설명으로는 현재 사용자들이 ChatGPT와 API에서 매주 40억 장 넘는 이미지를 생성한다. 9월에 밝힌 주당 30억 장보다 늘었다."
+        },
+        {
+          "t": "p",
+          "x": "Images 2.6은 웹, 데스크톱, 모바일 앱의 모든 ChatGPT 및 Codex 사용자에게 배포 중이다. OpenAI는 API용으로 더 빠르고 품질 높은 이미지 생성을 내세운 GPT-Image-2.6 Flare와 Sunburst도 출시한다."
+        }
+      ]
     }
   }
 }

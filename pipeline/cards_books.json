@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "section": "books",
   "cards": [
     {
-      "id": "goncourt-jaenada-ai",
+      "id": "books-dreambeans-india",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Goncourt 수상 작가\nJaenada의 AI 고백",
-      "body": "Prix Goncourt를 받은 이튿날 Jaenada가 AI를 썼다고 털어놨다.",
-      "mini_headline": "Goncourt 수상자\nAI 사용 인정",
+      "headline": "Google, 13개 언어\nDreambeans 인도행",
+      "body": "Dreambeans가 인도서도 Gmail·Photos·YouTube로 동화를 쓴다.",
+      "mini_headline": "Dreambeans 인도 진출",
       "tool": "Books",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/04/goncourt-2026-winner-philippe-jaenada-admits-using-ai-in-novel-sparking-ai-debate-in-liter",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
@@ -19,203 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.euronews.com/articles/stories/09/97/99/99/1536x864_cmsv2_1827a31b-adab-560a-879c-964d3b9d2b97-9979999.jpg",
-            "cap": "수상자 Philippe Jaenada는 AI를 절제해 쓴다고 했다"
+            "src": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?w=1024",
+            "cap": "Google Dreambeans"
           },
           {
             "t": "p",
-            "x": "Thélyson Orélien이 소설 ''C'était ça ou mourir''의 일부를 AI로 썼다고 밝힌 지 몇 주 만에 프랑스 문단에서 또 스캔들이 터졌다."
+            "x": "Google이 실험적 AI 앱 Dreambeans를 U.S. 밖 첫 시장인 인도에 내놓았다. Google은 월요일 Android·iOS용 Dreambeans를 인도로 넓혔고, 영어와 함께 힌디어, 펀자브어, 타밀어, 텔루구어, 벵골어 등 13개 현지 언어를 지원한다. U.S.의 18세 이상 적격 사용자 모두에게 앱을 연 지 두 달도 안 된 시점이다."
           },
           {
             "t": "p",
-            "x": "프랑스 최고 권위의 문학상 Goncourt상(Goncourt Prize)을 받은 지 하루 만에 Philippe Jaenada는 France Inter 라디오에 나와 책을 쓰면서 인공지능에 \"세 번\" 기댔다고 인정했다. 처음엔 \"독자와 놀기 위해\" ChatGPT가 쓴 문장 하나를 슬쩍 끼워 넣었는데, Goncourt 심사위원들에게는 화요일에야 이 사실을 알렸다. \"기술적인 데이터에 대해 완전히 터무니없는 답을 내놓는 ChatGPT를 조금 놀리기 위해\" 쓴 적도 있다."
+            "x": "6월에 공개된 Dreambeans는 Calendar, Gemini, Gmail, Photos, Search, YouTube 등 연결된 Google 서비스의 정보로, 프롬프트 없이도 사용자의 관심사와 일상을 담은 맞춤형 그림 이야기를 먼저 만들어 준다. 최근에는 Veo 동영상 생성 모델로 일부 이야기 속 이미지를 움직이게 하는 기능도 붙었다."
           },
           {
             "t": "p",
-            "x": "62세 소설가는 기술 자료를 조사하는 데도 이 기술을 썼다고 말했다. \"AI를 밀어낼 수는 없고, 없는 것처럼 굴 수도 없다고 생각한다. 써야 하고, 인정해야 하고, 길들여야 하며, 우리가 대체되도록 놔둬서는 안 된다. 쓸모가 있어야 한다.\""
+            "x": "Sensor Tower 추정으로는 Dreambeans가 6월 출시 뒤 U.S.에서 55,000건 가까이 다운로드됐다. 10월 다운로드는 약 5,500건으로 전월보다 84% 줄었다. 이야기 언어는 한 번에 하나만 고를 수 있어, 힌디어와 영어를 섞어 쓰는 사람이 많은 인도에서는 매력이 덜할 수 있다."
           },
           {
             "t": "p",
-            "x": "발언은 곧장 소셜미디어에서 화제가 됐다. 일부는 AI가 \"(...) 오늘날의 맞춤법 검사기처럼 피할 수 없게 될 것\"이라고 본 반면, 실망감을 내비친 이들도 있었다."
-          },
-          {
-            "t": "p",
-            "x": "Jaenada의 수상작은 1940년대 후반 Paris에서 일어난 젊은 여성의 미제 살인 사건을 파헤친 ''L'Inconnue du quai de Javel''이다. Orélien의 소설은 AI 사용 의혹과 표절 시비 끝에 Goncourt 두 번째 후보 명단에서 빠졌다."
+            "x": "제품 매니저 Gozde Oznur에 따르면 사용자는 연결할 Google 서비스를 직접 고르고 언제든 연결을 끊을 수 있으며 Dreambeans 데이터도 지울 수 있다. 개인 Gmail 계정이 있어야 쓸 수 있고, 생성된 이야기는 계정 주인에게만 보인다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Goncourt winner Jaenada\nadmits using AI in his novel",
-          "body": "A day after winning the Prix Goncourt, Philippe Jaenada told France Inter he used AI while writing his novel.",
-          "mini_headline": "Goncourt winner\nadmits AI use",
+          "headline": "Google brings Dreambeans\nto India in 13 languages",
+          "body": "Google's Dreambeans, which turns Gmail, Photos and YouTube activity into illustrated stories, launches in India.",
+          "mini_headline": "Dreambeans goes to India",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/97/99/99/1536x864_cmsv2_1827a31b-adab-560a-879c-964d3b9d2b97-9979999.jpg",
-                "cap": "The laureate Philippe Jaenada claims to use AI in moderation"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?w=1024",
+                "cap": "Google Dreambeans"
               },
               {
                 "t": "p",
-                "x": "A fresh scandal has erupted in the French literary world, just weeks after Thélyson Orélien revealed that he used AI to write part of his novel ''C'était ça ou mourir''."
+                "x": "Google has launched its experimental AI app Dreambeans in India, its first market outside the U.S. On Monday, Google expanded Dreambeans, available on Android and iOS, to India with support for 13 local languages, including Hindi, Punjabi, Tamil, Telugu, and Bengali, alongside English. The launch comes less than two months after Google made the app available to all eligible U.S. users aged 18 and older."
               },
               {
                 "t": "p",
-                "x": "Barely a day after winning the Goncourt Prize, France's top literary award, Philippe Jaenada admitted on France Inter radio that he had turned to artificial intelligence \"three times\" while writing his book. He first used it to slip in a sentence written by ChatGPT, in order to \"play with the reader\", revealing it to the Goncourt jurors only on Tuesday. It was also used \"to make fun a bit of ChatGPT, which gives completely absurd answers about a technical piece of data\"."
+                "x": "Introduced in June, Dreambeans uses information from connected Google services, including Calendar, Gemini, Gmail, Photos, Search, and YouTube, to proactively generate personalized, illustrated stories about users' interests and everyday lives, without requiring them to enter a prompt. Google recently added a feature that uses its Veo video-generation model to animate images in select stories."
               },
               {
                 "t": "p",
-                "x": "The 62-year-old novelist said he had also used the technology for technical research: \"I think we cannot push AI away, we cannot act as if it did not exist. We have to use it, we have to acknowledge it, we have to tame it and not let ourselves be replaced. It has to be useful.\""
+                "x": "Dreambeans has recorded nearly 55,000 downloads in the U.S. since its June debut, according to Sensor Tower estimates; downloads dropped 84% month over month to about 5,500 in October. Users can select only one language at a time for their generated stories, which could limit its appeal in India, where many people mix Hindi and English."
               },
               {
                 "t": "p",
-                "x": "The comments were immediately picked up on social media. While some believe AI \"is going to become unavoidable (...) like a spellchecker today\", others expressed disappointment."
-              },
-              {
-                "t": "p",
-                "x": "Jaenada was honoured for ''L'Inconnue du quai de Javel'', which investigates the unsolved murder of a young woman in Paris in the late 1940s. Orélien's novel was removed from the second Goncourt shortlist over suspicions of AI use and accusations of plagiarism."
+                "x": "Users can choose which Google services to connect and disconnect them at any time, and can delete their Dreambeans data, product manager Gozde Oznur said. Dreambeans is available only to personal Gmail account holders, and generated stories are visible only to the account holder."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Goncourt 수상 작가\nJaenada의 AI 고백",
-          "body": "Prix Goncourt를 받은 이튿날 Jaenada가 AI를 썼다고 털어놨다.",
-          "mini_headline": "Goncourt 수상자\nAI 사용 인정",
+          "headline": "Google, 13개 언어\nDreambeans 인도행",
+          "body": "Dreambeans가 인도서도 Gmail·Photos·YouTube로 동화를 쓴다.",
+          "mini_headline": "Dreambeans 인도 진출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/97/99/99/1536x864_cmsv2_1827a31b-adab-560a-879c-964d3b9d2b97-9979999.jpg",
-                "cap": "수상자 Philippe Jaenada는 AI를 절제해 쓴다고 했다"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?w=1024",
+                "cap": "Google Dreambeans"
               },
               {
                 "t": "p",
-                "x": "Thélyson Orélien이 소설 ''C'était ça ou mourir''의 일부를 AI로 썼다고 밝힌 지 몇 주 만에 프랑스 문단에서 또 스캔들이 터졌다."
+                "x": "Google이 실험적 AI 앱 Dreambeans를 U.S. 밖 첫 시장인 인도에 내놓았다. Google은 월요일 Android·iOS용 Dreambeans를 인도로 넓혔고, 영어와 함께 힌디어, 펀자브어, 타밀어, 텔루구어, 벵골어 등 13개 현지 언어를 지원한다. U.S.의 18세 이상 적격 사용자 모두에게 앱을 연 지 두 달도 안 된 시점이다."
               },
               {
                 "t": "p",
-                "x": "프랑스 최고 권위의 문학상 Goncourt상(Goncourt Prize)을 받은 지 하루 만에 Philippe Jaenada는 France Inter 라디오에 나와 책을 쓰면서 인공지능에 \"세 번\" 기댔다고 인정했다. 처음엔 \"독자와 놀기 위해\" ChatGPT가 쓴 문장 하나를 슬쩍 끼워 넣었는데, Goncourt 심사위원들에게는 화요일에야 이 사실을 알렸다. \"기술적인 데이터에 대해 완전히 터무니없는 답을 내놓는 ChatGPT를 조금 놀리기 위해\" 쓴 적도 있다."
+                "x": "6월에 공개된 Dreambeans는 Calendar, Gemini, Gmail, Photos, Search, YouTube 등 연결된 Google 서비스의 정보로, 프롬프트 없이도 사용자의 관심사와 일상을 담은 맞춤형 그림 이야기를 먼저 만들어 준다. 최근에는 Veo 동영상 생성 모델로 일부 이야기 속 이미지를 움직이게 하는 기능도 붙었다."
               },
               {
                 "t": "p",
-                "x": "62세 소설가는 기술 자료를 조사하는 데도 이 기술을 썼다고 말했다. \"AI를 밀어낼 수는 없고, 없는 것처럼 굴 수도 없다고 생각한다. 써야 하고, 인정해야 하고, 길들여야 하며, 우리가 대체되도록 놔둬서는 안 된다. 쓸모가 있어야 한다.\""
+                "x": "Sensor Tower 추정으로는 Dreambeans가 6월 출시 뒤 U.S.에서 55,000건 가까이 다운로드됐다. 10월 다운로드는 약 5,500건으로 전월보다 84% 줄었다. 이야기 언어는 한 번에 하나만 고를 수 있어, 힌디어와 영어를 섞어 쓰는 사람이 많은 인도에서는 매력이 덜할 수 있다."
               },
               {
                 "t": "p",
-                "x": "발언은 곧장 소셜미디어에서 화제가 됐다. 일부는 AI가 \"(...) 오늘날의 맞춤법 검사기처럼 피할 수 없게 될 것\"이라고 본 반면, 실망감을 내비친 이들도 있었다."
-              },
-              {
-                "t": "p",
-                "x": "Jaenada의 수상작은 1940년대 후반 Paris에서 일어난 젊은 여성의 미제 살인 사건을 파헤친 ''L'Inconnue du quai de Javel''이다. Orélien의 소설은 AI 사용 의혹과 표절 시비 끝에 Goncourt 두 번째 후보 명단에서 빠졌다."
+                "x": "제품 매니저 Gozde Oznur에 따르면 사용자는 연결할 Google 서비스를 직접 고르고 언제든 연결을 끊을 수 있으며 Dreambeans 데이터도 지울 수 있다. 개인 Gmail 계정이 있어야 쓸 수 있고, 생성된 이야기는 계정 주인에게만 보인다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Goncourt賞作家\nJaenada、AI使用告白",
-          "body": "Prix Goncourt受賞の翌日、Jaenadaは小説にAIを使ったと明かした。",
-          "mini_headline": "Goncourt賞作家\nAI使用を認める",
+          "headline": "Google、13言語で\nインドにDreambeans",
+          "body": "Gmail・Photos・YouTubeを絵物語にするDreambeansがインドに来た。",
+          "mini_headline": "Dreambeansがインドへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/97/99/99/1536x864_cmsv2_1827a31b-adab-560a-879c-964d3b9d2b97-9979999.jpg",
-                "cap": "受賞者Philippe Jaenadaは、AIは控えめに使っていると語る"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?w=1024",
+                "cap": "Google Dreambeans"
               },
               {
                 "t": "p",
-                "x": "Thélyson Orélienが小説『C'était ça ou mourir』の一部をAIで書いたと明かしてからわずか数週間で、フランス文学界に新たなスキャンダルが起きた。"
+                "x": "Googleは実験的なAIアプリDreambeansを、U.S.以外で初の市場となるインドで公開した。Googleは月曜日、AndroidとiOSで使えるDreambeansをインドへ拡大し、英語に加えてヒンディー語、パンジャブ語、タミル語、テルグ語、ベンガル語など13の現地言語に対応した。GoogleがU.S.の18歳以上の対象ユーザー全員にアプリを開放してから、二か月足らずでの展開となる。"
               },
               {
                 "t": "p",
-                "x": "フランス最高峰の文学賞であるGoncourt賞(Goncourt Prize)の受賞からわずか一日後、Philippe JaenadaはFrance Interのラジオで、執筆中に人工知能に「三回」頼ったと認めた。最初は「読者と遊ぶ」ためにChatGPTが書いた一文を紛れ込ませ、そのことをGoncourtの審査員に明かしたのは火曜日になってからだった。また「技術的なデータについてまったくばかげた答えを返すChatGPTを少しからかう」ためにも使ったという。"
+                "x": "6月に発表されたDreambeansは、Calendar、Gemini、Gmail、Photos、Search、YouTubeなど接続したGoogleサービスの情報を使い、プロンプトを入力しなくてもユーザーの関心や日常を描いたパーソナライズされた絵物語を先回りして生成する。Googleは最近、動画生成モデルVeoで一部の物語の画像を動かす機能を加えた。"
               },
               {
                 "t": "p",
-                "x": "62歳の作家は、技術的な調べものにもこの技術を使ったと語った。「AIを遠ざけることはできないし、存在しないかのように振る舞うこともできないと思う。使い、認め、飼いならし、自分たちが取って代わられないようにしなければならない。役に立つものでなければならない」"
+                "x": "Sensor Towerの推計によると、DreambeansはU.S.で6月の公開以来55,000件近くダウンロードされたが、10月は前月比84%減の約5,500件だった。生成する物語の言語は一度に一つしか選べず、ヒンディー語と英語を混ぜて話す人が多いインドでは魅力が限られる可能性がある。"
               },
               {
                 "t": "p",
-                "x": "この発言はすぐにソーシャルメディアで取り上げられた。AIは「(...)今日のスペルチェッカーのように避けられないものになる」とみる人がいる一方、失望を表す人もいた。"
-              },
-              {
-                "t": "p",
-                "x": "Jaenadaは、1940年代後半のParisで起きた若い女性の未解決殺人事件を追う『L'Inconnue du quai de Javel』で受賞した。Orélienの小説は、AI使用の疑いと盗作の指摘を受けてGoncourtの第二次候補リストから外された。"
+                "x": "プロダクトマネージャーのGozde Oznurによると、ユーザーは接続するGoogleサービスを選び、いつでも接続を解除でき、Dreambeansのデータも削除できる。Dreambeansは個人のGmailアカウント保有者のみが利用でき、生成された物語は本人にしか表示されない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Goncourt奖得主\nJaenada承认用AI写作",
-          "body": "获Prix Goncourt次日，Jaenada在France Inter承认用了AI。",
-          "mini_headline": "Goncourt得主\n承认使用AI",
+          "headline": "Google以13种语言\nDreambeans登陆印度",
+          "body": "将Gmail、Photos和YouTube活动绘成故事的Dreambeans在印度上线。",
+          "mini_headline": "Dreambeans进军印度",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/97/99/99/1536x864_cmsv2_1827a31b-adab-560a-879c-964d3b9d2b97-9979999.jpg",
-                "cap": "获奖者Philippe Jaenada称自己有节制地使用AI"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?w=1024",
+                "cap": "Google Dreambeans"
               },
               {
                 "t": "p",
-                "x": "就在Thélyson Orélien透露其小说《C'était ça ou mourir》部分内容由AI写成仅几周后，法国文坛又爆发了新的丑闻。"
+                "x": "Google已在印度推出实验性AI应用Dreambeans，这是其在U.S.以外的首个市场。周一，Google将可在Android和iOS上使用的Dreambeans扩展至印度，除英语外还支持印地语、旁遮普语、泰米尔语、泰卢固语和孟加拉语等13种本地语言。此前不到两个月，Google刚向U.S.所有18岁及以上的合格用户开放该应用。"
               },
               {
                 "t": "p",
-                "x": "在摘得法国最高文学奖Goncourt奖（Goncourt Prize）仅一天后，Philippe Jaenada在France Inter电台承认，他在写书时曾“三次”借助人工智能。第一次是为了“和读者玩个游戏”，悄悄放进一句由ChatGPT写的句子，直到周二才向Goncourt评委透露。他还用它“稍微取笑一下ChatGPT，它对一项技术数据给出了完全荒谬的答案”。"
+                "x": "Dreambeans于6月推出，利用Calendar、Gemini、Gmail、Photos、Search和YouTube等已连接的Google服务中的信息，无需用户输入提示词，即可主动生成关于用户兴趣和日常生活的个性化绘本故事。Google最近新增一项功能，用其Veo视频生成模型让部分故事中的图片动起来。"
               },
               {
                 "t": "p",
-                "x": "这位62岁的小说家说，他也用这项技术做技术性资料查询：“我认为我们无法把AI推开，也不能假装它不存在。我们必须使用它、承认它、驯服它，而不是让自己被取代。它必须有用。”"
+                "x": "据Sensor Tower估算，Dreambeans自6月上线以来在U.S.的下载量接近55,000次；10月下载量环比下降84%，约为5,500次。用户每次只能为生成的故事选择一种语言，而印度许多人混用印地语和英语，这可能限制其在当地的吸引力。"
               },
               {
                 "t": "p",
-                "x": "这番言论立即在社交媒体上引发讨论。有人认为AI“将变得不可避免（...）就像今天的拼写检查器”，也有人表示失望。"
-              },
-              {
-                "t": "p",
-                "x": "Jaenada凭借《L'Inconnue du quai de Javel》获奖，该书追查1940年代末Paris一名年轻女子未破的谋杀案。Orélien的小说因涉嫌使用AI和被指抄袭，被移出Goncourt第二轮候选名单。"
+                "x": "产品经理Gozde Oznur表示，用户可以选择连接哪些Google服务并随时断开，也可以删除自己的Dreambeans数据。Dreambeans仅向个人Gmail账户持有者开放，生成的故事也只有账户持有者本人可见。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Jaenada, ganador del Goncourt,\nadmite que usó AI en su novela",
-          "body": "Un día después de ganar el Prix Goncourt, Philippe Jaenada dijo en France Inter que usó AI al escribir su novela.",
-          "mini_headline": "Ganador del Goncourt\nadmite usar AI",
+          "headline": "Google lleva Dreambeans\na India en 13 idiomas",
+          "body": "Dreambeans, de Google, que convierte la actividad de Gmail, Photos y YouTube en historias ilustradas, llega a India.",
+          "mini_headline": "Dreambeans llega a India",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/97/99/99/1536x864_cmsv2_1827a31b-adab-560a-879c-964d3b9d2b97-9979999.jpg",
-                "cap": "El galardonado Philippe Jaenada asegura usar la AI con moderación"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?w=1024",
+                "cap": "Google Dreambeans"
               },
               {
                 "t": "p",
-                "x": "Ha estallado un nuevo escándalo en el mundo literario francés, apenas unas semanas después de que Thélyson Orélien revelara que usó AI para escribir parte de su novela ''C'était ça ou mourir''."
+                "x": "Google lanzó en India su aplicación experimental de AI, Dreambeans; es su primer mercado fuera de U.S. El lunes, Google amplió a India Dreambeans, disponible en Android e iOS, con soporte para 13 idiomas locales, entre ellos hindi, panyabí, tamil, telugu y bengalí, además del inglés. El lanzamiento llega menos de dos meses después de que Google abriera la aplicación a todos los usuarios elegibles de U.S. de 18 años o más."
               },
               {
                 "t": "p",
-                "x": "Apenas un día después de ganar el Premio Goncourt (Goncourt Prize), el principal galardón literario de Francia, Philippe Jaenada admitió en la radio France Inter que había recurrido a la inteligencia artificial \"tres veces\" mientras escribía su libro. Primero la usó para colar una frase escrita por ChatGPT, con el fin de \"jugar con el lector\", algo que no reveló a los jurados del Goncourt hasta el martes. También la usó \"para burlarse un poco de ChatGPT, que da respuestas completamente absurdas sobre un dato técnico\"."
+                "x": "Presentada en junio, Dreambeans usa información de los servicios de Google conectados, como Calendar, Gemini, Gmail, Photos, Search y YouTube, para generar de forma proactiva historias ilustradas y personalizadas sobre los intereses y la vida cotidiana de los usuarios, sin que tengan que escribir un prompt. Google añadió hace poco una función que usa su modelo de generación de video Veo para animar imágenes en algunas historias."
               },
               {
                 "t": "p",
-                "x": "El novelista, de 62 años, dijo que también había usado la tecnología para investigación técnica: \"Creo que no podemos apartar la AI, no podemos actuar como si no existiera. Tenemos que usarla, tenemos que reconocerla, tenemos que domarla y no dejarnos reemplazar. Tiene que ser útil.\""
+                "x": "Según estimaciones de Sensor Tower, Dreambeans acumula cerca de 55,000 descargas en U.S. desde su debut en junio; en octubre las descargas cayeron un 84% respecto al mes anterior, hasta unas 5,500. Los usuarios solo pueden elegir un idioma a la vez para sus historias, lo que podría limitar su atractivo en India, donde mucha gente mezcla hindi e inglés."
               },
               {
                 "t": "p",
-                "x": "Los comentarios se difundieron de inmediato en las redes sociales. Mientras algunos creen que la AI \"va a volverse inevitable (...) como un corrector ortográfico hoy\", otros expresaron decepción."
-              },
-              {
-                "t": "p",
-                "x": "Jaenada fue premiado por ''L'Inconnue du quai de Javel'', que investiga el asesinato sin resolver de una joven en Paris a finales de la década de 1940. La novela de Orélien fue retirada de la segunda lista de finalistas del Goncourt por sospechas de uso de AI y acusaciones de plagio."
+                "x": "Los usuarios pueden elegir qué servicios de Google conectar y desconectarlos en cualquier momento, además de borrar sus datos de Dreambeans, dijo Gozde Oznur, gerente de producto. Dreambeans solo está disponible para titulares de cuentas personales de Gmail, y las historias generadas solo las ve el titular de la cuenta."
               }
             ]
           }
@@ -223,141 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Goncourt 수상 작가\nJaenada의 AI 고백",
-          "body": "Prix Goncourt 수상 이튿날 Jaenada는 AI를 썼다고 밝혔다.",
-          "mini_headline": "Goncourt 수상자\nAI 사용 인정",
+          "headline": "Google, 13개 언어\nDreambeans 인도행",
+          "body": "Dreambeans가 인도서도 Gmail·Photos·YouTube를 동화로 쓴다.",
+          "mini_headline": "Dreambeans 인도 진출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/97/99/99/1536x864_cmsv2_1827a31b-adab-560a-879c-964d3b9d2b97-9979999.jpg",
-                "cap": "수상자 Philippe Jaenada는 AI를 절제해서 쓴다고 말했다"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?w=1024",
+                "cap": "Google Dreambeans"
               },
               {
                 "t": "p",
-                "x": "Thélyson Orélien이 소설 ''C'était ça ou mourir''의 일부를 AI로 썼다고 밝힌 지 불과 몇 주 만에 프랑스 문단에 새로운 스캔들이 터졌다."
+                "x": "Google이 실험적 AI 앱 Dreambeans를 U.S. 밖 첫 시장인 인도에 출시했다. Google은 월요일 Android와 iOS에서 쓸 수 있는 Dreambeans를 인도로 넓히며 영어와 함께 힌디어, 펀자브어, 타밀어, 텔루구어, 벵골어 등 13개 현지 언어를 지원한다. 이번 출시는 Google이 U.S.의 18세 이상 자격을 갖춘 모든 사용자에게 앱을 연 지 두 달이 채 안 돼 이뤄졌다."
               },
               {
                 "t": "p",
-                "x": "프랑스 최고 권위의 문학상인 Goncourt상(Goncourt Prize)을 받은 지 하루 만에 Philippe Jaenada는 France Inter 라디오에서 책을 쓰는 동안 인공지능에 \"세 번\" 기댔다고 인정했다. 처음에는 \"독자와 놀기 위해\" ChatGPT가 쓴 문장 하나를 슬쩍 끼워 넣었고, 이 사실을 Goncourt 심사위원들에게는 화요일에야 알렸다. 또 \"기술적인 데이터에 대해 완전히 터무니없는 답을 내놓는 ChatGPT를 조금 놀리기 위해\" 쓰기도 했다."
+                "x": "6월에 공개된 Dreambeans는 Calendar, Gemini, Gmail, Photos, Search, YouTube 등 연결된 Google 서비스의 정보를 활용해, 프롬프트를 입력하지 않아도 사용자의 관심사와 일상을 담은 맞춤형 그림 이야기를 먼저 만들어 준다. Google은 최근 Veo 동영상 생성 모델로 일부 이야기 속 이미지를 움직이게 하는 기능을 더했다."
               },
               {
                 "t": "p",
-                "x": "62세의 이 소설가는 기술적인 자료 조사에도 이 기술을 썼다고 말했다. \"AI를 밀어낼 수는 없고, 없는 것처럼 굴 수도 없다고 생각한다. 써야 하고, 인정해야 하고, 길들여야 하며, 우리가 대체되도록 놔둬서는 안 된다. 쓸모가 있어야 한다.\""
+                "x": "Sensor Tower 추정에 따르면 Dreambeans는 6월 출시 이후 U.S.에서 55,000건 가까이 내려받혔고, 10월 다운로드는 전월보다 84% 줄어 약 5,500건이었다. 생성되는 이야기의 언어는 한 번에 하나만 고를 수 있어, 힌디어와 영어를 섞어 쓰는 사람이 많은 인도에서는 매력이 제한될 수 있다."
               },
               {
                 "t": "p",
-                "x": "이 발언은 곧바로 소셜미디어에서 화제가 됐다. 일부는 AI가 \"(...) 오늘날의 맞춤법 검사기처럼 피할 수 없게 될 것\"이라고 보지만, 실망감을 드러낸 이들도 있었다."
-              },
-              {
-                "t": "p",
-                "x": "Jaenada는 1940년대 후반 Paris에서 벌어진 한 젊은 여성의 미제 살인 사건을 파헤친 ''L'Inconnue du quai de Javel''로 상을 받았다. Orélien의 소설은 AI 사용 의혹과 표절 시비로 Goncourt 두 번째 후보 명단에서 빠졌다."
+                "x": "제품 매니저 Gozde Oznur는 사용자가 연결할 Google 서비스를 고르고 언제든 연결을 끊을 수 있으며 Dreambeans 데이터도 삭제할 수 있다고 말했다. Dreambeans는 개인 Gmail 계정 보유자만 쓸 수 있고, 생성된 이야기는 계정 보유자에게만 보인다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Goncourt賞作家\nJaenada、AI使用告白",
-          "body": "Prix Goncourt受賞の翌日、Jaenadaは小説にAIを使ったと明かした。",
-          "mini_headline": "Goncourt賞作家\nAI使用を認める",
+          "headline": "Google、13言語で\nインドにDreambeans",
+          "body": "Gmail・Photos・YouTubeを絵物語にするDreambeansがインドに来た。",
+          "mini_headline": "Dreambeansがインドへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/97/99/99/1536x864_cmsv2_1827a31b-adab-560a-879c-964d3b9d2b97-9979999.jpg",
-                "cap": "受賞者Philippe Jaenadaは、AIは控えめに使っていると語る"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?w=1024",
+                "cap": "Google Dreambeans"
               },
               {
                 "t": "p",
-                "x": "Thélyson Orélienが小説『C'était ça ou mourir』の一部をAIで書いたと明かしてからわずか数週間で、フランス文学界に新たなスキャンダルが起きた。"
+                "x": "Googleは実験的なAIアプリDreambeansを、U.S.以外で初の市場となるインドで公開した。Googleは月曜日、AndroidとiOSで使えるDreambeansをインドへ拡大し、英語に加えてヒンディー語、パンジャブ語、タミル語、テルグ語、ベンガル語など13の現地言語に対応した。GoogleがU.S.の18歳以上の対象ユーザー全員にアプリを開放してから、二か月足らずでの展開となる。"
               },
               {
                 "t": "p",
-                "x": "フランス最高峰の文学賞であるGoncourt賞(Goncourt Prize)の受賞からわずか一日後、Philippe JaenadaはFrance Interのラジオで、執筆中に人工知能に「三回」頼ったと認めた。最初は「読者と遊ぶ」ためにChatGPTが書いた一文を紛れ込ませ、そのことをGoncourtの審査員に明かしたのは火曜日になってからだった。また「技術的なデータについてまったくばかげた答えを返すChatGPTを少しからかう」ためにも使ったという。"
+                "x": "6月に発表されたDreambeansは、Calendar、Gemini、Gmail、Photos、Search、YouTubeなど接続したGoogleサービスの情報を使い、プロンプトを入力しなくてもユーザーの関心や日常を描いたパーソナライズされた絵物語を先回りして生成する。Googleは最近、動画生成モデルVeoで一部の物語の画像を動かす機能を加えた。"
               },
               {
                 "t": "p",
-                "x": "62歳の作家は、技術的な調べものにもこの技術を使ったと語った。「AIを遠ざけることはできないし、存在しないかのように振る舞うこともできないと思う。使い、認め、飼いならし、自分たちが取って代わられないようにしなければならない。役に立つものでなければならない」"
+                "x": "Sensor Towerの推計によると、DreambeansはU.S.で6月の公開以来55,000件近くダウンロードされたが、10月は前月比84%減の約5,500件だった。生成する物語の言語は一度に一つしか選べず、ヒンディー語と英語を混ぜて話す人が多いインドでは魅力が限られる可能性がある。"
               },
               {
                 "t": "p",
-                "x": "この発言はすぐにソーシャルメディアで取り上げられた。AIは「(...)今日のスペルチェッカーのように避けられないものになる」とみる人がいる一方、失望を表す人もいた。"
-              },
-              {
-                "t": "p",
-                "x": "Jaenadaは、1940年代後半のParisで起きた若い女性の未解決殺人事件を追う『L'Inconnue du quai de Javel』で受賞した。Orélienの小説は、AI使用の疑いと盗作の指摘を受けてGoncourtの第二次候補リストから外された。"
+                "x": "プロダクトマネージャーのGozde Oznurによると、ユーザーは接続するGoogleサービスを選び、いつでも接続を解除でき、Dreambeansのデータも削除できる。Dreambeansは個人のGmailアカウント保有者のみが利用でき、生成された物語は本人にしか表示されない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Goncourt奖得主\nJaenada承认用AI写作",
-          "body": "获Prix Goncourt次日，Jaenada在France Inter承认用了AI。",
-          "mini_headline": "Goncourt得主\n承认使用AI",
+          "headline": "Google以13种语言\nDreambeans登陆印度",
+          "body": "将Gmail、Photos和YouTube活动绘成故事的Dreambeans在印度上线。",
+          "mini_headline": "Dreambeans进军印度",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/97/99/99/1536x864_cmsv2_1827a31b-adab-560a-879c-964d3b9d2b97-9979999.jpg",
-                "cap": "获奖者Philippe Jaenada称自己有节制地使用AI"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?w=1024",
+                "cap": "Google Dreambeans"
               },
               {
                 "t": "p",
-                "x": "就在Thélyson Orélien透露其小说《C'était ça ou mourir》部分内容由AI写成仅几周后，法国文坛又爆发了新的丑闻。"
+                "x": "Google已在印度推出实验性AI应用Dreambeans，这是其在U.S.以外的首个市场。周一，Google将可在Android和iOS上使用的Dreambeans扩展至印度，除英语外还支持印地语、旁遮普语、泰米尔语、泰卢固语和孟加拉语等13种本地语言。此前不到两个月，Google刚向U.S.所有18岁及以上的合格用户开放该应用。"
               },
               {
                 "t": "p",
-                "x": "在摘得法国最高文学奖Goncourt奖（Goncourt Prize）仅一天后，Philippe Jaenada在France Inter电台承认，他在写书时曾“三次”借助人工智能。第一次是为了“和读者玩个游戏”，悄悄放进一句由ChatGPT写的句子，直到周二才向Goncourt评委透露。他还用它“稍微取笑一下ChatGPT，它对一项技术数据给出了完全荒谬的答案”。"
+                "x": "Dreambeans于6月推出，利用Calendar、Gemini、Gmail、Photos、Search和YouTube等已连接的Google服务中的信息，无需用户输入提示词，即可主动生成关于用户兴趣和日常生活的个性化绘本故事。Google最近新增一项功能，用其Veo视频生成模型让部分故事中的图片动起来。"
               },
               {
                 "t": "p",
-                "x": "这位62岁的小说家说，他也用这项技术做技术性资料查询：“我认为我们无法把AI推开，也不能假装它不存在。我们必须使用它、承认它、驯服它，而不是让自己被取代。它必须有用。”"
+                "x": "据Sensor Tower估算，Dreambeans自6月上线以来在U.S.的下载量接近55,000次；10月下载量环比下降84%，约为5,500次。用户每次只能为生成的故事选择一种语言，而印度许多人混用印地语和英语，这可能限制其在当地的吸引力。"
               },
               {
                 "t": "p",
-                "x": "这番言论立即在社交媒体上引发讨论。有人认为AI“将变得不可避免（...）就像今天的拼写检查器”，也有人表示失望。"
-              },
-              {
-                "t": "p",
-                "x": "Jaenada凭借《L'Inconnue du quai de Javel》获奖，该书追查1940年代末Paris一名年轻女子未破的谋杀案。Orélien的小说因涉嫌使用AI和被指抄袭，被移出Goncourt第二轮候选名单。"
+                "x": "产品经理Gozde Oznur表示，用户可以选择连接哪些Google服务并随时断开，也可以删除自己的Dreambeans数据。Dreambeans仅向个人Gmail账户持有者开放，生成的故事也只有账户持有者本人可见。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Jaenada, ganador del Goncourt,\nadmite que usó AI en su novela",
-          "body": "Un día después de ganar el Prix Goncourt, Philippe Jaenada dijo en France Inter que usó AI al escribir su novela.",
-          "mini_headline": "Ganador del Goncourt\nadmite usar AI",
+          "headline": "Google lleva Dreambeans\na India en 13 idiomas",
+          "body": "Dreambeans, de Google, que convierte la actividad de Gmail, Photos y YouTube en historias ilustradas, llega a India.",
+          "mini_headline": "Dreambeans llega a India",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/97/99/99/1536x864_cmsv2_1827a31b-adab-560a-879c-964d3b9d2b97-9979999.jpg",
-                "cap": "El galardonado Philippe Jaenada asegura usar la AI con moderación"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?w=1024",
+                "cap": "Google Dreambeans"
               },
               {
                 "t": "p",
-                "x": "Ha estallado un nuevo escándalo en el mundo literario francés, apenas unas semanas después de que Thélyson Orélien revelara que usó AI para escribir parte de su novela ''C'était ça ou mourir''."
+                "x": "Google lanzó en India su aplicación experimental de AI, Dreambeans; es su primer mercado fuera de U.S. El lunes, Google amplió a India Dreambeans, disponible en Android e iOS, con soporte para 13 idiomas locales, entre ellos hindi, panyabí, tamil, telugu y bengalí, además del inglés. El lanzamiento llega menos de dos meses después de que Google abriera la aplicación a todos los usuarios elegibles de U.S. de 18 años o más."
               },
               {
                 "t": "p",
-                "x": "Apenas un día después de ganar el Premio Goncourt (Goncourt Prize), el principal galardón literario de Francia, Philippe Jaenada admitió en la radio France Inter que había recurrido a la inteligencia artificial \"tres veces\" mientras escribía su libro. Primero la usó para colar una frase escrita por ChatGPT, con el fin de \"jugar con el lector\", algo que no reveló a los jurados del Goncourt hasta el martes. También la usó \"para burlarse un poco de ChatGPT, que da respuestas completamente absurdas sobre un dato técnico\"."
+                "x": "Presentada en junio, Dreambeans usa información de los servicios de Google conectados, como Calendar, Gemini, Gmail, Photos, Search y YouTube, para generar de forma proactiva historias ilustradas y personalizadas sobre los intereses y la vida cotidiana de los usuarios, sin que tengan que escribir un prompt. Google añadió hace poco una función que usa su modelo de generación de video Veo para animar imágenes en algunas historias."
               },
               {
                 "t": "p",
-                "x": "El novelista, de 62 años, dijo que también había usado la tecnología para investigación técnica: \"Creo que no podemos apartar la AI, no podemos actuar como si no existiera. Tenemos que usarla, tenemos que reconocerla, tenemos que domarla y no dejarnos reemplazar. Tiene que ser útil.\""
+                "x": "Según estimaciones de Sensor Tower, Dreambeans acumula cerca de 55,000 descargas en U.S. desde su debut en junio; en octubre las descargas cayeron un 84% respecto al mes anterior, hasta unas 5,500. Los usuarios solo pueden elegir un idioma a la vez para sus historias, lo que podría limitar su atractivo en India, donde mucha gente mezcla hindi e inglés."
               },
               {
                 "t": "p",
-                "x": "Los comentarios se difundieron de inmediato en las redes sociales. Mientras algunos creen que la AI \"va a volverse inevitable (...) como un corrector ortográfico hoy\", otros expresaron decepción."
-              },
-              {
-                "t": "p",
-                "x": "Jaenada fue premiado por ''L'Inconnue du quai de Javel'', que investiga el asesinato sin resolver de una joven en Paris a finales de la década de 1940. La novela de Orélien fue retirada de la segunda lista de finalistas del Goncourt por sospechas de uso de AI y acusaciones de plagio."
+                "x": "Los usuarios pueden elegir qué servicios de Google conectar y desconectarlos en cualquier momento, además de borrar sus datos de Dreambeans, dijo Gozde Oznur, gerente de producto. Dreambeans solo está disponible para titulares de cuentas personales de Gmail, y las historias generadas solo las ve el titular de la cuenta."
               }
             ]
           }
@@ -365,15 +325,15 @@
       }
     },
     {
-      "id": "readwise-books-reader",
+      "id": "books-gruffalo-scheffler-test",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Readwise 리더 출시\nKindle에 도전장",
-      "body": "Readwise Books는 전자책 상점에 AI 기능과 MCP 서버를 붙였다.",
-      "mini_headline": "Readwise의 도전\nKindle·Goodreads",
+      "headline": "Gruffalo 그림작가\nAI 상대 소송 검토",
+      "body": "TechRadar가 ChatGPT·Gemini로 Gruffalo를 직접 그려 봤다.",
+      "mini_headline": "Gruffalo 작가, AI 소송 검토",
       "tool": "Books",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/ai-platforms-assistants/the-gruffalos-illustrator-is-seriously-considering-suing-ai-companies-so-i-tested-whether-chatgpt-and-gemini-would-recreate-his-famous-characters",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
@@ -381,293 +341,287 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?w=1024",
-            "cap": "이미지 출처: Readwise"
+            "src": "https://cdn.mos.cms.futurecdn.net/xYwaj5VqTyTtVtz4gK7L4b.jpg"
           },
           {
             "t": "p",
-            "x": "나중에 읽기(read-it-later) 앱으로 알려진 Readwise가 Readwise Books를 내놓고 Amazon의 전자책 제국에 도전한다. 회사 설명으로는 \"Kindle과 Goodreads 앱의 중간\"이다. 책을 사고 읽고 기록하는 일을 한곳에서 하고, 읽은 단어 수·속도·깊이·몰입도·세션 같은 독서 데이터를 더 풍부하게 보여준다."
+            "x": "Gruffalo 그림책의 일러스트레이터가 실리콘밸리나 옥토버페스트 같은 뜻밖의 배경에 이 인기 캐릭터를 놓은 AI 생성 이미지를 보고 저작권 침해로 AI 기업들을 고소하는 방안을 검토 중이다. Axel Scheffler는 자신의 일러스트를 쓴 AI 기업들에 법적 조치를 “진지하게 검토하고 있다”고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "TechRadar는 지금의 AI 모델로 Gruffalo를 얼마나 쉽게 재현할 수 있는지 보려고 ChatGPT와 Gemini의 이미지 생성 기능을 시험했다. ChatGPT는 단순한 프롬프트를 곧바로 거절했다."
           },
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-4.png?w=680",
-            "cap": "이미지 출처: Readwise"
+            "src": "https://cdn.mos.cms.futurecdn.net/fu2rkJskMFDxjoBy7qNfd.png",
+            "cap": "ChatGPT 대화 화면 갈무리."
           },
           {
             "t": "p",
-            "x": "스토어에는 빅 파이브 출판사를 포함한 여러 출판사의 전자책 \"수백만\" 권이 있고, 서비스는 우선 U.S.(미국)에서 시작한다. 종이책과 일부 오디오북도 판다. 시장 선두는 여전히 Kindle이다. Kindle+까지 합치면 점유율이 83%에 이른다."
+            "x": "독창적인 숲속 괴물을 자세히 묘사하자 “Gruffalo는 아니지만 아주 낯설지도 않은” 이미지가 나왔다."
           },
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-2.png?w=680",
-            "cap": "이미지 출처: Readwise"
+            "src": "https://cdn.mos.cms.futurecdn.net/bjfduyx7ZLMJREBRJZqpiZ.png",
+            "cap": "ChatGPT가 생성한 친근한 숲속 캐릭터 이미지."
           },
           {
             "t": "p",
-            "x": "사용자는 DRM-free EPUBs(DRM 없는 EPUB 파일)를 올리거나, Kindle의 Cloud Reader에서 읽은 세션을 기록하거나, 종이책 사진을 찍거나, 전자책을 소리 내어 읽게 할 수 있다. Readwise는 자사 지표를 \"독서판 Strava\"에 빗댄다."
+            "x": "Gemini 3.8은 같은 프롬프트로 Gruffalo와 거의 구별되지 않는 그림을 그렸고 생쥐(Mouse)까지 넣었다. Gruffalo 테마의 옥토버페스트 포스터를 부탁하자 레더호젠 차림으로 프레첼과 맥주잔을 든 Gruffalo가 나왔다."
           },
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-1.png?w=680",
-            "cap": "이미지 출처: Readwise"
+            "src": "https://cdn.mos.cms.futurecdn.net/suspgybKPyGjNzdrZcECrR.png",
+            "cap": "Google Gemini와 나눈 대화 화면 갈무리"
           },
           {
             "t": "p",
-            "x": "출판사가 허락하면 세션 요약, 정의·용어 찾기, 단어·구절 번역, 지금 읽는 대목을 묻는 위치 인식 기능 같은 AI 기반(AI-powered) 기능을 쓸 수 있다. (지금까지 참여한 곳은 HarperCollins뿐이다.) 공개 API와 AI 에이전트용 MCP 서버도 제공한다."
-          },
-          {
-            "t": "p",
-            "x": "앱은 계속 무료로 운영하지만 일부 AI 기능은 나중에 유료로 바뀐다. 지금은 베타라서 기존 Readwise 구독자가 아니면 초대를 받아야 쓸 수 있다."
+            "x": "한쪽은 Gruffalo 생성을 아예 거부했고, 다른 쪽은 기꺼이 그에게 레더호젠을 입혔다. 어떤 AI 기업은 저작권 캐릭터를 지키는 제한을 둘 수 있는데 다른 기업은 그러지 않는 듯하다면 더 큰 질문이 남는다. AI 기업들이 예술가의 권리를 얼마나 진지하게 다루느냐다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Readwise launches a reader\nto rival Kindle and Goodreads",
-          "body": "Readwise Books pairs an e-book store with publisher-permitted AI features and an MCP server for AI agents.",
-          "mini_headline": "Readwise takes on\nKindle and Goodreads",
+          "headline": "Gruffalo illustrator weighs\nlegal action against AI",
+          "body": "As Axel Scheffler weighs suing, TechRadar tested whether ChatGPT and Gemini would recreate his Gruffalo characters.",
+          "mini_headline": "Gruffalo artist eyes AI suit",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?w=1024",
-                "cap": "Image Credits: Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/xYwaj5VqTyTtVtz4gK7L4b.jpg"
               },
               {
                 "t": "p",
-                "x": "Readwise, the maker of a read-it-later app, is taking on Amazon's e-book empire with Readwise Books, which it describes as \"a cross between Kindle and the Goodreads apps\": a single place to buy, read, and track books, with richer reading data like words read, pace, depth, immersion, and sessions."
+                "x": "The illustrator for the Gruffalo book is considering suing AI companies for copyright infringement after seeing AI generated depictions of the beloved children's character in unlikely settings, including at Silicon Valley and Oktoberfest. Axel Scheffler says he is “seriously considering” launching legal action against AI companies over their use of his illustrations."
+              },
+              {
+                "t": "p",
+                "x": "To find out how easy it is to get today's AI models to reproduce the Gruffalo, TechRadar turned to ChatGPT and Gemini's image generation abilities. A simple prompt to ChatGPT was immediately rebuffed."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-4.png?w=680",
-                "cap": "Image Credits: Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/fu2rkJskMFDxjoBy7qNfd.png",
+                "cap": "A screenshot of a ChatGPT conversation."
               },
               {
                 "t": "p",
-                "x": "Its store offers \"millions\" of e-books from the big five publishers and others, initially in the U.S. Print books and some audiobooks are available too. Kindle remains the leader, with an 83% share of the market when Kindle+ is included."
+                "x": "A descriptive prompt for an original woodland monster produced an image that was “not quite the Gruffalo, but also not completely unfamiliar.”"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-2.png?w=680",
-                "cap": "Image Credits: Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/bjfduyx7ZLMJREBRJZqpiZ.png",
+                "cap": "An image generated by ChatGPT of a friendly woodland character."
               },
               {
                 "t": "p",
-                "x": "Users can upload DRM-free EPUBs, track sessions in Kindle's Cloud Reader, snap photos of physical books, and have e-books read aloud. Readwise likens its metrics to a \"Strava for reading.\""
+                "x": "With the exact same prompt, Gemini 3.8 produced a near-indistinguishable picture of the Gruffalo – and it even included the Mouse. Asked for a Gruffalo-themed Oktoberfest poster, it showed the Gruffalo wearing lederhosen while holding a pretzel and a beer stein."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-1.png?w=680",
-                "cap": "Image Credits: Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/suspgybKPyGjNzdrZcECrR.png",
+                "cap": "A screenshot of a conversation with Google Gemini"
               },
               {
                 "t": "p",
-                "x": "With publishers' permission, the app will support AI-powered features like session recaps, definitions and term lookups, word and phrase translations, and a location-aware ability to ask questions about the part you're reading. (So far, only HarperCollins has opted in.) It also offers a public API and an MCP server that supports AI agents."
-              },
-              {
-                "t": "p",
-                "x": "The app will remain free, with some AI features later going behind a paywall. It is in beta and requires an invite unless you're already a Readwise subscriber."
+                "x": "One refused to generate the Gruffalo entirely, while the other happily put him in lederhosen. If one AI company can put restrictions in place to protect copyrighted characters while another seemingly doesn't, it raises a bigger question: just how seriously are AI companies taking artists' rights?"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Readwise 리더 출시\nKindle에 도전장",
-          "body": "Readwise Books는 전자책 상점에 AI 기능과 MCP 서버를 붙였다.",
-          "mini_headline": "Readwise의 도전\nKindle·Goodreads",
+          "headline": "Gruffalo 그림작가\nAI 상대 소송 검토",
+          "body": "TechRadar가 ChatGPT·Gemini로 Gruffalo를 직접 그려 봤다.",
+          "mini_headline": "Gruffalo 작가, AI 소송 검토",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?w=1024",
-                "cap": "이미지 출처: Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/xYwaj5VqTyTtVtz4gK7L4b.jpg"
               },
               {
                 "t": "p",
-                "x": "나중에 읽기(read-it-later) 앱으로 알려진 Readwise가 Readwise Books를 내놓고 Amazon의 전자책 제국에 도전한다. 회사 설명으로는 \"Kindle과 Goodreads 앱의 중간\"이다. 책을 사고 읽고 기록하는 일을 한곳에서 하고, 읽은 단어 수·속도·깊이·몰입도·세션 같은 독서 데이터를 더 풍부하게 보여준다."
+                "x": "Gruffalo 그림책의 일러스트레이터가 실리콘밸리나 옥토버페스트 같은 뜻밖의 배경에 이 인기 캐릭터를 놓은 AI 생성 이미지를 보고 저작권 침해로 AI 기업들을 고소하는 방안을 검토 중이다. Axel Scheffler는 자신의 일러스트를 쓴 AI 기업들에 법적 조치를 “진지하게 검토하고 있다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "TechRadar는 지금의 AI 모델로 Gruffalo를 얼마나 쉽게 재현할 수 있는지 보려고 ChatGPT와 Gemini의 이미지 생성 기능을 시험했다. ChatGPT는 단순한 프롬프트를 곧바로 거절했다."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-4.png?w=680",
-                "cap": "이미지 출처: Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/fu2rkJskMFDxjoBy7qNfd.png",
+                "cap": "ChatGPT 대화 화면 갈무리."
               },
               {
                 "t": "p",
-                "x": "스토어에는 빅 파이브 출판사를 포함한 여러 출판사의 전자책 \"수백만\" 권이 있고, 서비스는 우선 U.S.(미국)에서 시작한다. 종이책과 일부 오디오북도 판다. 시장 선두는 여전히 Kindle이다. Kindle+까지 합치면 점유율이 83%에 이른다."
+                "x": "독창적인 숲속 괴물을 자세히 묘사하자 “Gruffalo는 아니지만 아주 낯설지도 않은” 이미지가 나왔다."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-2.png?w=680",
-                "cap": "이미지 출처: Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/bjfduyx7ZLMJREBRJZqpiZ.png",
+                "cap": "ChatGPT가 생성한 친근한 숲속 캐릭터 이미지."
               },
               {
                 "t": "p",
-                "x": "사용자는 DRM-free EPUBs(DRM 없는 EPUB 파일)를 올리거나, Kindle의 Cloud Reader에서 읽은 세션을 기록하거나, 종이책 사진을 찍거나, 전자책을 소리 내어 읽게 할 수 있다. Readwise는 자사 지표를 \"독서판 Strava\"에 빗댄다."
+                "x": "Gemini 3.8은 같은 프롬프트로 Gruffalo와 거의 구별되지 않는 그림을 그렸고 생쥐(Mouse)까지 넣었다. Gruffalo 테마의 옥토버페스트 포스터를 부탁하자 레더호젠 차림으로 프레첼과 맥주잔을 든 Gruffalo가 나왔다."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-1.png?w=680",
-                "cap": "이미지 출처: Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/suspgybKPyGjNzdrZcECrR.png",
+                "cap": "Google Gemini와 나눈 대화 화면 갈무리"
               },
               {
                 "t": "p",
-                "x": "출판사가 허락하면 세션 요약, 정의·용어 찾기, 단어·구절 번역, 지금 읽는 대목을 묻는 위치 인식 기능 같은 AI 기반(AI-powered) 기능을 쓸 수 있다. (지금까지 참여한 곳은 HarperCollins뿐이다.) 공개 API와 AI 에이전트용 MCP 서버도 제공한다."
-              },
-              {
-                "t": "p",
-                "x": "앱은 계속 무료로 운영하지만 일부 AI 기능은 나중에 유료로 바뀐다. 지금은 베타라서 기존 Readwise 구독자가 아니면 초대를 받아야 쓸 수 있다."
+                "x": "한쪽은 Gruffalo 생성을 아예 거부했고, 다른 쪽은 기꺼이 그에게 레더호젠을 입혔다. 어떤 AI 기업은 저작권 캐릭터를 지키는 제한을 둘 수 있는데 다른 기업은 그러지 않는 듯하다면 더 큰 질문이 남는다. AI 기업들이 예술가의 권리를 얼마나 진지하게 다루느냐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Readwiseの読書アプリ\nKindleに挑む",
-          "body": "Readwise Booksは電子書籍ストアにAI機能とMCPサーバーを備えた。",
-          "mini_headline": "Readwiseが\nKindle・Goodreadsに挑む",
+          "headline": "Gruffaloの画家が\nAIへの法的措置を検討",
+          "body": "TechRadarはChatGPTとGeminiでGruffaloが再現されるか試した。",
+          "mini_headline": "Gruffalo作者、AI提訴を検討",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?w=1024",
-                "cap": "画像提供:Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/xYwaj5VqTyTtVtz4gK7L4b.jpg"
               },
               {
                 "t": "p",
-                "x": "あとで読む(read-it-later)アプリを手がけるReadwiseが、Readwise BooksでAmazonの電子書籍帝国に挑む。同社はこのアプリを「KindleとGoodreadsアプリの中間」と説明する。本の購入、読書、記録を一か所で行え、読んだ単語数、ペース、深さ、没入度、セッションといった詳しい読書データも得られる。"
+                "x": "絵本『Gruffalo』の挿絵画家が、愛される子ども向けキャラクターをシリコンバレーやオクトーバーフェストといった意外な場所に置いたAI生成画像を目にし、著作権侵害でAI企業を訴えることを検討している。Axel Schefflerは、自身のイラストの利用をめぐりAI企業への法的措置を「真剣に検討している」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "TechRadarは、いまのAIモデルでGruffaloをどれほど簡単に再現できるかを確かめるため、ChatGPTとGeminiの画像生成機能を試した。ChatGPTへの単純なプロンプトはすぐに拒否された。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-4.png?w=680",
-                "cap": "画像提供:Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/fu2rkJskMFDxjoBy7qNfd.png",
+                "cap": "ChatGPTとの会話のスクリーンショット。"
               },
               {
                 "t": "p",
-                "x": "ストアでは大手五社をはじめとする出版社の電子書籍を「数百万」点扱い、まずはU.S.(米国)で提供する。紙の本や一部のオーディオブックも購入できる。首位は依然としてKindleで、Kindle+を含めると市場シェアは83%に達する。"
+                "x": "オリジナルの森の怪物を詳しく描写したプロンプトでは、「Gruffaloそのものではないが、まったく見覚えがないわけでもない」画像が生成された。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-2.png?w=680",
-                "cap": "画像提供:Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/bjfduyx7ZLMJREBRJZqpiZ.png",
+                "cap": "ChatGPTが生成した、親しみやすい森のキャラクターの画像。"
               },
               {
                 "t": "p",
-                "x": "ユーザーはDRM-free EPUBs(DRMなしのEPUBファイル)をアップロードしたり、KindleのCloud Readerでのセッションを記録したり、紙の本を撮影したり、電子書籍を読み上げさせたりできる。Readwiseは自社の指標を「読書のStrava」にたとえる。"
+                "x": "まったく同じプロンプトで、Gemini 3.8はGruffaloとほぼ見分けのつかない絵を生成し、ネズミ（Mouse）まで描き込んだ。Gruffaloをテーマにしたオクトーバーフェストのポスターを頼むと、レーダーホーゼンを着てプレッツェルとビールジョッキを持つGruffaloを示した。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-1.png?w=680",
-                "cap": "画像提供:Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/suspgybKPyGjNzdrZcECrR.png",
+                "cap": "Google Geminiとの会話のスクリーンショット"
               },
               {
                 "t": "p",
-                "x": "出版社の許可があれば、セッションの要約、定義や用語の検索、単語やフレーズの翻訳、今読んでいる箇所について質問できる位置認識機能など、AI-powered(AIを活用した)機能が使える(今のところ参加しているのはHarperCollinsだけだ)。公開APIと、AIエージェントに対応したMCPサーバーも提供する。"
-              },
-              {
-                "t": "p",
-                "x": "アプリは今後も無料で、一部のAI機能はのちに有料化される。現在はベータ版で、既存のReadwise購読者でなければ招待が必要だ。"
+                "x": "一方はGruffaloの生成を完全に拒み、もう一方は喜んで彼にレーダーホーゼンを着せた。あるAI企業は著作権のあるキャラクターを守る制限を設けられるのに、別の企業はそうしていないように見えるなら、より大きな問いが浮かぶ。AI企業は芸術家の権利をどこまで真剣に受け止めているのか。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Readwise推出阅读应用\n剑指Kindle",
-          "body": "Readwise Books在电子书商店之外加入经出版社许可的AI功能和MCP服务器。",
-          "mini_headline": "Readwise挑战\nKindle与Goodreads",
+          "headline": "Gruffalo插画师\n拟对AI采取法律行动",
+          "body": "TechRadar测试了ChatGPT和Gemini是否会复刻Gruffalo角色。",
+          "mini_headline": "Gruffalo作者拟起诉AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?w=1024",
-                "cap": "图片来源：Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/xYwaj5VqTyTtVtz4gK7L4b.jpg"
               },
               {
                 "t": "p",
-                "x": "以“稍后阅读”（read-it-later）应用起家的Readwise推出Readwise Books，向Amazon的电子书帝国发起挑战。该公司称它是“Kindle与Goodreads应用的结合体”：在一个地方购书、阅读和记录，并提供读过的字数、速度、深度、沉浸度和阅读时段等更丰富的阅读数据。"
+                "x": "《Gruffalo》一书的插画师看到AI生成的这一受人喜爱的儿童角色出现在硅谷、慕尼黑啤酒节等意想不到的场景后，正考虑以侵犯版权为由起诉AI公司。Axel Scheffler表示，他正在“认真考虑”就AI公司使用其插画一事采取法律行动。"
+              },
+              {
+                "t": "p",
+                "x": "为了解如今的AI模型复刻Gruffalo有多容易，TechRadar测试了ChatGPT和Gemini的图像生成能力。向ChatGPT输入的简单提示词当即被拒绝。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-4.png?w=680",
-                "cap": "图片来源：Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/fu2rkJskMFDxjoBy7qNfd.png",
+                "cap": "与ChatGPT对话的截图。"
               },
               {
                 "t": "p",
-                "x": "其商店提供来自五大出版社及其他出版社的“数百万”本电子书，首先在U.S.（美国）上线。纸质书和部分有声书也可购买。Kindle仍是市场领导者，若计入Kindle+，市场份额达83%。"
+                "x": "一段描述原创林中怪物的详细提示词生成了一张“不完全是Gruffalo，但也并非完全陌生”的图片。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-2.png?w=680",
-                "cap": "图片来源：Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/bjfduyx7ZLMJREBRJZqpiZ.png",
+                "cap": "ChatGPT生成的一个友好林中角色的图片。"
               },
               {
                 "t": "p",
-                "x": "用户可以上传DRM-free EPUBs（无DRM的EPUB文件），在Kindle的Cloud Reader中记录阅读时段，给纸质书拍照，还能让电子书朗读出来。Readwise把自己的阅读数据比作“阅读界的Strava”。"
+                "x": "使用完全相同的提示词，Gemini 3.8生成了一张与Gruffalo几乎无法区分的图片，甚至还画上了小老鼠（Mouse）。在被要求制作以Gruffalo为主题的慕尼黑啤酒节海报时，它展示了身穿皮短裤、手拿椒盐卷饼和啤酒杯的Gruffalo。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-1.png?w=680",
-                "cap": "图片来源：Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/suspgybKPyGjNzdrZcECrR.png",
+                "cap": "与Google Gemini对话的截图"
               },
               {
                 "t": "p",
-                "x": "经出版社许可，该应用将支持AI-powered（AI驱动的）功能，如阅读时段回顾、释义和术语查询、单词和短语翻译，以及可感知位置、就正在阅读的部分提问的功能。（目前只有HarperCollins选择加入。）它还提供公开API和支持AI智能体的MCP服务器。"
-              },
-              {
-                "t": "p",
-                "x": "该应用将保持免费，部分AI功能日后会转为付费。目前处于测试阶段，除非已是Readwise订阅用户，否则需要邀请才能使用。"
+                "x": "一个完全拒绝生成Gruffalo，另一个却乐于给他穿上皮短裤。如果一家AI公司能设置限制来保护受版权保护的角色，而另一家似乎没有这样做，那就引出一个更大的问题：AI公司究竟有多重视艺术家的权利？"
               }
             ]
           }
         },
         "es": {
-          "headline": "Readwise lanza un lector para\ncompetir con Kindle y Goodreads",
-          "body": "Readwise Books une una tienda de e-books, funciones de AI autorizadas por editoriales y un servidor MCP.",
-          "mini_headline": "Readwise desafía a\nKindle y Goodreads",
+          "headline": "El ilustrador de Gruffalo\nsopesa demandar a firmas de AI",
+          "body": "Mientras Axel Scheffler sopesa demandar, TechRadar probó si ChatGPT y Gemini recrean a sus personajes de Gruffalo.",
+          "mini_headline": "El artista de Gruffalo apunta a la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?w=1024",
-                "cap": "Créditos de imagen: Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/xYwaj5VqTyTtVtz4gK7L4b.jpg"
               },
               {
                 "t": "p",
-                "x": "Readwise, creadora de una app para leer más tarde (read-it-later), desafía el imperio de e-books de Amazon con Readwise Books, que describe como \"un cruce entre Kindle y las apps de Goodreads\": un solo lugar para comprar, leer y registrar libros, con datos de lectura más ricos como palabras leídas, ritmo, profundidad, inmersión y sesiones."
+                "x": "El ilustrador del libro Gruffalo estudia demandar a empresas de AI por infracción de derechos de autor tras ver representaciones generadas por AI del querido personaje infantil en escenarios insólitos, como Silicon Valley y el Oktoberfest. Axel Scheffler dice que está “considerando seriamente” emprender acciones legales contra empresas de AI por el uso de sus ilustraciones."
+              },
+              {
+                "t": "p",
+                "x": "Para comprobar lo fácil que es lograr que los modelos de AI actuales reproduzcan al Gruffalo, TechRadar recurrió a las funciones de generación de imágenes de ChatGPT y Gemini. Un prompt sencillo a ChatGPT fue rechazado de inmediato."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-4.png?w=680",
-                "cap": "Créditos de imagen: Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/fu2rkJskMFDxjoBy7qNfd.png",
+                "cap": "Captura de pantalla de una conversación con ChatGPT."
               },
               {
                 "t": "p",
-                "x": "Su tienda ofrece \"millones\" de e-books de las cinco grandes editoriales y de otras, inicialmente en U.S. (Estados Unidos). También hay libros impresos y algunos audiolibros. Kindle sigue siendo el líder, con un 83% del mercado si se incluye Kindle+."
+                "x": "Un prompt descriptivo sobre un monstruo original del bosque produjo una imagen que “no era exactamente el Gruffalo, pero tampoco resultaba del todo desconocida”."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-2.png?w=680",
-                "cap": "Créditos de imagen: Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/bjfduyx7ZLMJREBRJZqpiZ.png",
+                "cap": "Imagen generada por ChatGPT de un simpático personaje del bosque."
               },
               {
                 "t": "p",
-                "x": "Los usuarios pueden subir DRM-free EPUBs (EPUB sin DRM), registrar sesiones en el Cloud Reader de Kindle, fotografiar libros físicos y hacer que los e-books se lean en voz alta. Readwise compara sus métricas con un \"Strava de la lectura\"."
+                "x": "Con exactamente el mismo prompt, Gemini 3.8 produjo una imagen casi indistinguible del Gruffalo, e incluso incluyó al Ratón (Mouse). Al pedirle un cartel del Oktoberfest con temática de Gruffalo, mostró al Gruffalo con lederhosen, un pretzel y una jarra de cerveza."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-1.png?w=680",
-                "cap": "Créditos de imagen: Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/suspgybKPyGjNzdrZcECrR.png",
+                "cap": "Captura de pantalla de una conversación con Google Gemini"
               },
               {
                 "t": "p",
-                "x": "Con permiso de las editoriales, la app ofrecerá funciones AI-powered (impulsadas por AI) como resúmenes de sesión, definiciones y búsqueda de términos, traducción de palabras y frases, y la posibilidad, según la posición en el texto, de hacer preguntas sobre la parte que se está leyendo. (Por ahora, solo HarperCollins se ha sumado.) También ofrece una API pública y un servidor MCP compatible con agentes de AI."
-              },
-              {
-                "t": "p",
-                "x": "La app seguirá siendo gratuita, aunque algunas funciones de AI pasarán más adelante a ser de pago. Está en beta y requiere invitación, salvo para quienes ya están suscritos a Readwise."
+                "x": "Uno se negó por completo a generar al Gruffalo, mientras que el otro le puso lederhosen sin problema. Si una empresa de AI puede imponer restricciones para proteger personajes con derechos de autor y otra aparentemente no lo hace, surge una pregunta mayor: ¿hasta qué punto se toman en serio las empresas de AI los derechos de los artistas?"
               }
             ]
           }
@@ -675,201 +629,197 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Readwise 리더 출시\nKindle에 도전장",
-          "body": "Readwise Books는 전자책 상점에 AI 기능과 MCP 서버를 더했다.",
-          "mini_headline": "Readwise의 도전\nKindle·Goodreads",
+          "headline": "Gruffalo 그림작가\nAI 상대 소송 검토",
+          "body": "TechRadar가 ChatGPT·Gemini로 Gruffalo 재현을 시험했다.",
+          "mini_headline": "Gruffalo 작가, AI 소송 검토",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?w=1024",
-                "cap": "이미지 출처: Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/xYwaj5VqTyTtVtz4gK7L4b.jpg"
               },
               {
                 "t": "p",
-                "x": "나중에 읽기(read-it-later) 앱을 만드는 Readwise가 Readwise Books로 Amazon의 전자책 제국에 도전한다. 회사는 이 앱을 \"Kindle과 Goodreads 앱의 중간\"이라고 설명한다. 책을 사고, 읽고, 기록하는 일을 한곳에서 할 수 있고, 읽은 단어 수, 속도, 깊이, 몰입도, 세션 같은 더 풍부한 독서 데이터를 보여준다."
+                "x": "Gruffalo 그림책의 일러스트레이터가 사랑받는 이 어린이 캐릭터를 실리콘밸리나 옥토버페스트 같은 뜻밖의 배경에 놓은 AI 생성 이미지를 본 뒤, 저작권 침해로 AI 기업들을 고소하는 방안을 검토하고 있다. Axel Scheffler는 자신의 일러스트를 사용한 AI 기업들을 상대로 법적 조치를 “진지하게 검토하고 있다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "TechRadar는 요즘 AI 모델로 Gruffalo를 얼마나 쉽게 재현할 수 있는지 알아보려고 ChatGPT와 Gemini의 이미지 생성 기능을 시험했다. ChatGPT는 단순한 프롬프트를 곧바로 거절했다."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-4.png?w=680",
-                "cap": "이미지 출처: Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/fu2rkJskMFDxjoBy7qNfd.png",
+                "cap": "ChatGPT 대화 화면 갈무리."
               },
               {
                 "t": "p",
-                "x": "스토어는 빅 파이브 출판사를 비롯한 여러 출판사의 전자책 \"수백만\" 권을 갖췄고, 우선 U.S.(미국)에서 서비스한다. 종이책과 일부 오디오북도 살 수 있다. 시장 선두는 여전히 Kindle로, Kindle+까지 포함하면 점유율이 83%에 이른다."
+                "x": "독창적인 숲속 괴물을 자세히 묘사한 프롬프트로는 “Gruffalo는 아니지만 아주 낯설지도 않은” 이미지가 나왔다."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-2.png?w=680",
-                "cap": "이미지 출처: Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/bjfduyx7ZLMJREBRJZqpiZ.png",
+                "cap": "ChatGPT가 생성한 친근한 숲속 캐릭터 이미지."
               },
               {
                 "t": "p",
-                "x": "사용자는 DRM-free EPUBs(DRM 없는 EPUB 파일)를 올리고, Kindle의 Cloud Reader에서 읽은 세션을 기록하고, 종이책 사진을 찍고, 전자책을 소리 내어 읽게 할 수 있다. Readwise는 자사의 지표를 \"독서판 Strava\"에 빗댄다."
+                "x": "Gemini 3.8은 똑같은 프롬프트로 Gruffalo와 거의 구별할 수 없는 그림을 만들었고, 생쥐(Mouse)까지 넣었다. Gruffalo를 주제로 한 옥토버페스트 포스터를 요청하자 레더호젠을 입고 프레첼과 맥주잔을 든 Gruffalo를 보여 줬다."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-1.png?w=680",
-                "cap": "이미지 출처: Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/suspgybKPyGjNzdrZcECrR.png",
+                "cap": "Google Gemini와 나눈 대화 화면 갈무리"
               },
               {
                 "t": "p",
-                "x": "출판사가 허락하면 세션 요약, 정의와 용어 찾기, 단어·구절 번역, 지금 읽는 부분에 대해 질문하는 위치 인식 기능 같은 AI 기반(AI-powered) 기능을 쓸 수 있다. (지금까지는 HarperCollins만 참여했다.) 공개 API와 AI 에이전트를 지원하는 MCP 서버도 제공한다."
-              },
-              {
-                "t": "p",
-                "x": "앱은 계속 무료로 운영하되, 일부 AI 기능은 나중에 유료로 바뀐다. 현재 베타 단계로, 기존 Readwise 구독자가 아니면 초대를 받아야 쓸 수 있다."
+                "x": "한쪽은 Gruffalo 생성을 아예 거부했고, 다른 쪽은 그에게 기꺼이 레더호젠을 입혔다. 한 AI 기업은 저작권 캐릭터를 보호하는 제한을 둘 수 있는데 다른 기업은 그러지 않는 듯하다면, 더 큰 질문이 생긴다. 바로 AI 기업들이 예술가의 권리를 얼마나 진지하게 다루고 있느냐는 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Readwiseの読書アプリ\nKindleに挑む",
-          "body": "Readwise Booksは電子書籍ストアにAI機能とMCPサーバーを備えた。",
-          "mini_headline": "Readwiseが\nKindle・Goodreadsに挑む",
+          "headline": "Gruffaloの画家が\nAIへの法的措置を検討",
+          "body": "TechRadarはChatGPTとGeminiでGruffaloが再現されるか試した。",
+          "mini_headline": "Gruffalo作者、AI提訴を検討",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?w=1024",
-                "cap": "画像提供:Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/xYwaj5VqTyTtVtz4gK7L4b.jpg"
               },
               {
                 "t": "p",
-                "x": "あとで読む(read-it-later)アプリを手がけるReadwiseが、Readwise BooksでAmazonの電子書籍帝国に挑む。同社はこのアプリを「KindleとGoodreadsアプリの中間」と説明する。本の購入、読書、記録を一か所で行え、読んだ単語数、ペース、深さ、没入度、セッションといった詳しい読書データも得られる。"
+                "x": "絵本『Gruffalo』の挿絵画家が、愛される子ども向けキャラクターをシリコンバレーやオクトーバーフェストといった意外な場所に置いたAI生成画像を目にし、著作権侵害でAI企業を訴えることを検討している。Axel Schefflerは、自身のイラストの利用をめぐりAI企業への法的措置を「真剣に検討している」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "TechRadarは、いまのAIモデルでGruffaloをどれほど簡単に再現できるかを確かめるため、ChatGPTとGeminiの画像生成機能を試した。ChatGPTへの単純なプロンプトはすぐに拒否された。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-4.png?w=680",
-                "cap": "画像提供:Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/fu2rkJskMFDxjoBy7qNfd.png",
+                "cap": "ChatGPTとの会話のスクリーンショット。"
               },
               {
                 "t": "p",
-                "x": "ストアでは大手五社をはじめとする出版社の電子書籍を「数百万」点扱い、まずはU.S.(米国)で提供する。紙の本や一部のオーディオブックも購入できる。首位は依然としてKindleで、Kindle+を含めると市場シェアは83%に達する。"
+                "x": "オリジナルの森の怪物を詳しく描写したプロンプトでは、「Gruffaloそのものではないが、まったく見覚えがないわけでもない」画像が生成された。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-2.png?w=680",
-                "cap": "画像提供:Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/bjfduyx7ZLMJREBRJZqpiZ.png",
+                "cap": "ChatGPTが生成した、親しみやすい森のキャラクターの画像。"
               },
               {
                 "t": "p",
-                "x": "ユーザーはDRM-free EPUBs(DRMなしのEPUBファイル)をアップロードしたり、KindleのCloud Readerでのセッションを記録したり、紙の本を撮影したり、電子書籍を読み上げさせたりできる。Readwiseは自社の指標を「読書のStrava」にたとえる。"
+                "x": "まったく同じプロンプトで、Gemini 3.8はGruffaloとほぼ見分けのつかない絵を生成し、ネズミ（Mouse）まで描き込んだ。Gruffaloをテーマにしたオクトーバーフェストのポスターを頼むと、レーダーホーゼンを着てプレッツェルとビールジョッキを持つGruffaloを示した。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-1.png?w=680",
-                "cap": "画像提供:Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/suspgybKPyGjNzdrZcECrR.png",
+                "cap": "Google Geminiとの会話のスクリーンショット"
               },
               {
                 "t": "p",
-                "x": "出版社の許可があれば、セッションの要約、定義や用語の検索、単語やフレーズの翻訳、今読んでいる箇所について質問できる位置認識機能など、AI-powered(AIを活用した)機能が使える(今のところ参加しているのはHarperCollinsだけだ)。公開APIと、AIエージェントに対応したMCPサーバーも提供する。"
-              },
-              {
-                "t": "p",
-                "x": "アプリは今後も無料で、一部のAI機能はのちに有料化される。現在はベータ版で、既存のReadwise購読者でなければ招待が必要だ。"
+                "x": "一方はGruffaloの生成を完全に拒み、もう一方は喜んで彼にレーダーホーゼンを着せた。あるAI企業は著作権のあるキャラクターを守る制限を設けられるのに、別の企業はそうしていないように見えるなら、より大きな問いが浮かぶ。AI企業は芸術家の権利をどこまで真剣に受け止めているのか。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Readwise推出阅读应用\n剑指Kindle",
-          "body": "Readwise Books在电子书商店之外加入经出版社许可的AI功能和MCP服务器。",
-          "mini_headline": "Readwise挑战\nKindle与Goodreads",
+          "headline": "Gruffalo插画师\n拟对AI采取法律行动",
+          "body": "TechRadar测试了ChatGPT和Gemini是否会复刻Gruffalo角色。",
+          "mini_headline": "Gruffalo作者拟起诉AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?w=1024",
-                "cap": "图片来源：Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/xYwaj5VqTyTtVtz4gK7L4b.jpg"
               },
               {
                 "t": "p",
-                "x": "以“稍后阅读”（read-it-later）应用起家的Readwise推出Readwise Books，向Amazon的电子书帝国发起挑战。该公司称它是“Kindle与Goodreads应用的结合体”：在一个地方购书、阅读和记录，并提供读过的字数、速度、深度、沉浸度和阅读时段等更丰富的阅读数据。"
+                "x": "《Gruffalo》一书的插画师看到AI生成的这一受人喜爱的儿童角色出现在硅谷、慕尼黑啤酒节等意想不到的场景后，正考虑以侵犯版权为由起诉AI公司。Axel Scheffler表示，他正在“认真考虑”就AI公司使用其插画一事采取法律行动。"
+              },
+              {
+                "t": "p",
+                "x": "为了解如今的AI模型复刻Gruffalo有多容易，TechRadar测试了ChatGPT和Gemini的图像生成能力。向ChatGPT输入的简单提示词当即被拒绝。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-4.png?w=680",
-                "cap": "图片来源：Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/fu2rkJskMFDxjoBy7qNfd.png",
+                "cap": "与ChatGPT对话的截图。"
               },
               {
                 "t": "p",
-                "x": "其商店提供来自五大出版社及其他出版社的“数百万”本电子书，首先在U.S.（美国）上线。纸质书和部分有声书也可购买。Kindle仍是市场领导者，若计入Kindle+，市场份额达83%。"
+                "x": "一段描述原创林中怪物的详细提示词生成了一张“不完全是Gruffalo，但也并非完全陌生”的图片。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-2.png?w=680",
-                "cap": "图片来源：Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/bjfduyx7ZLMJREBRJZqpiZ.png",
+                "cap": "ChatGPT生成的一个友好林中角色的图片。"
               },
               {
                 "t": "p",
-                "x": "用户可以上传DRM-free EPUBs（无DRM的EPUB文件），在Kindle的Cloud Reader中记录阅读时段，给纸质书拍照，还能让电子书朗读出来。Readwise把自己的阅读数据比作“阅读界的Strava”。"
+                "x": "使用完全相同的提示词，Gemini 3.8生成了一张与Gruffalo几乎无法区分的图片，甚至还画上了小老鼠（Mouse）。在被要求制作以Gruffalo为主题的慕尼黑啤酒节海报时，它展示了身穿皮短裤、手拿椒盐卷饼和啤酒杯的Gruffalo。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-1.png?w=680",
-                "cap": "图片来源：Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/suspgybKPyGjNzdrZcECrR.png",
+                "cap": "与Google Gemini对话的截图"
               },
               {
                 "t": "p",
-                "x": "经出版社许可，该应用将支持AI-powered（AI驱动的）功能，如阅读时段回顾、释义和术语查询、单词和短语翻译，以及可感知位置、就正在阅读的部分提问的功能。（目前只有HarperCollins选择加入。）它还提供公开API和支持AI智能体的MCP服务器。"
-              },
-              {
-                "t": "p",
-                "x": "该应用将保持免费，部分AI功能日后会转为付费。目前处于测试阶段，除非已是Readwise订阅用户，否则需要邀请才能使用。"
+                "x": "一个完全拒绝生成Gruffalo，另一个却乐于给他穿上皮短裤。如果一家AI公司能设置限制来保护受版权保护的角色，而另一家似乎没有这样做，那就引出一个更大的问题：AI公司究竟有多重视艺术家的权利？"
               }
             ]
           }
         },
         "es": {
-          "headline": "Readwise lanza un lector para\ncompetir con Kindle y Goodreads",
-          "body": "Readwise Books une una tienda de e-books, funciones de AI autorizadas por editoriales y un servidor MCP.",
-          "mini_headline": "Readwise desafía a\nKindle y Goodreads",
+          "headline": "El ilustrador de Gruffalo\nsopesa demandar a firmas de AI",
+          "body": "Mientras Axel Scheffler sopesa demandar, TechRadar probó si ChatGPT y Gemini recrean a sus personajes de Gruffalo.",
+          "mini_headline": "El artista de Gruffalo apunta a la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?w=1024",
-                "cap": "Créditos de imagen: Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/xYwaj5VqTyTtVtz4gK7L4b.jpg"
               },
               {
                 "t": "p",
-                "x": "Readwise, creadora de una app para leer más tarde (read-it-later), desafía el imperio de e-books de Amazon con Readwise Books, que describe como \"un cruce entre Kindle y las apps de Goodreads\": un solo lugar para comprar, leer y registrar libros, con datos de lectura más ricos como palabras leídas, ritmo, profundidad, inmersión y sesiones."
+                "x": "El ilustrador del libro Gruffalo estudia demandar a empresas de AI por infracción de derechos de autor tras ver representaciones generadas por AI del querido personaje infantil en escenarios insólitos, como Silicon Valley y el Oktoberfest. Axel Scheffler dice que está “considerando seriamente” emprender acciones legales contra empresas de AI por el uso de sus ilustraciones."
+              },
+              {
+                "t": "p",
+                "x": "Para comprobar lo fácil que es lograr que los modelos de AI actuales reproduzcan al Gruffalo, TechRadar recurrió a las funciones de generación de imágenes de ChatGPT y Gemini. Un prompt sencillo a ChatGPT fue rechazado de inmediato."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-4.png?w=680",
-                "cap": "Créditos de imagen: Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/fu2rkJskMFDxjoBy7qNfd.png",
+                "cap": "Captura de pantalla de una conversación con ChatGPT."
               },
               {
                 "t": "p",
-                "x": "Su tienda ofrece \"millones\" de e-books de las cinco grandes editoriales y de otras, inicialmente en U.S. (Estados Unidos). También hay libros impresos y algunos audiolibros. Kindle sigue siendo el líder, con un 83% del mercado si se incluye Kindle+."
+                "x": "Un prompt descriptivo sobre un monstruo original del bosque produjo una imagen que “no era exactamente el Gruffalo, pero tampoco resultaba del todo desconocida”."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-2.png?w=680",
-                "cap": "Créditos de imagen: Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/bjfduyx7ZLMJREBRJZqpiZ.png",
+                "cap": "Imagen generada por ChatGPT de un simpático personaje del bosque."
               },
               {
                 "t": "p",
-                "x": "Los usuarios pueden subir DRM-free EPUBs (EPUB sin DRM), registrar sesiones en el Cloud Reader de Kindle, fotografiar libros físicos y hacer que los e-books se lean en voz alta. Readwise compara sus métricas con un \"Strava de la lectura\"."
+                "x": "Con exactamente el mismo prompt, Gemini 3.8 produjo una imagen casi indistinguible del Gruffalo, e incluso incluyó al Ratón (Mouse). Al pedirle un cartel del Oktoberfest con temática de Gruffalo, mostró al Gruffalo con lederhosen, un pretzel y una jarra de cerveza."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-1.png?w=680",
-                "cap": "Créditos de imagen: Readwise"
+                "src": "https://cdn.mos.cms.futurecdn.net/suspgybKPyGjNzdrZcECrR.png",
+                "cap": "Captura de pantalla de una conversación con Google Gemini"
               },
               {
                 "t": "p",
-                "x": "Con permiso de las editoriales, la app ofrecerá funciones AI-powered (impulsadas por AI) como resúmenes de sesión, definiciones y búsqueda de términos, traducción de palabras y frases, y la posibilidad, según la posición en el texto, de hacer preguntas sobre la parte que se está leyendo. (Por ahora, solo HarperCollins se ha sumado.) También ofrece una API pública y un servidor MCP compatible con agentes de AI."
-              },
-              {
-                "t": "p",
-                "x": "La app seguirá siendo gratuita, aunque algunas funciones de AI pasarán más adelante a ser de pago. Está en beta y requiere invitación, salvo para quienes ya están suscritos a Readwise."
+                "x": "Uno se negó por completo a generar al Gruffalo, mientras que el otro le puso lederhosen sin problema. Si una empresa de AI puede imponer restricciones para proteger personajes con derechos de autor y otra aparentemente no lo hace, surge una pregunta mayor: ¿hasta qué punto se toman en serio las empresas de AI los derechos de los artistas?"
               }
             ]
           }
@@ -877,15 +827,15 @@
       }
     },
     {
-      "id": "oup-chatgpt-edu-pilot",
-      "source_lang": "en",
+      "id": "books-europe-ai-optout",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "OUP, 콘텐츠 시범 탑재\nChatGPT Edu에",
-      "body": "OUP가 석 달 동안 ChatGPT Edu에서 자사 콘텐츠를 시범 제공한다.",
-      "mini_headline": "OUP, ChatGPT Edu\n라이선스 시험",
+      "headline": "판권면에 AI 학습 거부\n유럽 출판계의 반격",
+      "body": "유럽 출판사들은 판권면 AI 학습 거부와 개별 라이선스, 공동 대응으로 움직인다.",
+      "mini_headline": "유럽 출판계의 AI 반격",
       "tool": "Books",
-      "source": "Publishers Weekly",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/101680-oxford-university-press-tests-connecting-its-content-to-chatgpt-edu.html",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202611051657001",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
@@ -893,295 +843,335 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132583-2.JPG"
+            "src": "https://img.khan.co.kr/news/2026/11/05/news-p.v1.20261105.86330c3d9cef4964837c6a302cb49e6b_P1.png"
           },
           {
             "t": "p",
-            "x": "Oxford University Press가 Harvard Library, University of Pennsylvania의 Wharton School, University of Oxford의 학생과 연구자들이 ChatGPT Edu 안에서 라이선스를 받은 OUP 콘텐츠를 검색하도록 하는 석 달짜리 시범 사업을 발표했다. 시험 기간은 10월부터 12월까지다. 답변은 각 기관이 이미 사들인 OUP 도서와 저널에서 나오고, Oxford Academic의 전문으로 이어지는 인용과 링크가 붙는다."
+            "x": "5일 한국출판인회의가 서울 창비서교빌딩에서 연 2026 아시아 퍼블리셔스 포럼의 주제는 ‘AI 시대의 출판, 위기와 기회 사이에서’였다. 발표자로 나선 독일의 미디어 플랫폼인 DPR 창립자 슈테펜 마이어는 유럽 출판사들이 자체 대응, AI기업과의 개별 계약, 업계 차원 공동 대응 등 3가지 측면에서 움직이고 있다고 소개했다."
           },
           {
             "t": "p",
-            "x": "이를 떠받치는 것은 OUP가 Silverchair와 함께 만든 Model Context Protocol(MCP) 서버다. 사용자가 질문하면 OUP 서버가 출판부 콘텐츠를 검색해 관련성이 가장 높은 자료를 골라 ChatGPT에 넘긴다."
+            "x": "출판사 내부적으로는 직원들이 승인된 AI도구를 쓰고 미출간 원고를 공개형 AI모델에 입력하지 않는 등 규칙을 지키고, 웹사이트와 파일에 텍스트·데이터 마이닝 거부를 기계가 읽을 수 있게 표시하며, 모든 책의 판권에도 AI 학습에 사용되는 것을 거부한다는 의사를 표시해야 한다. 저자 및 번역가와 계약할 때도 AI 관련 조항을 넣는다."
           },
           {
             "t": "p",
-            "x": "OUP의 Tanya Laplante는 \"출판사 MCPs가 실제로 어떻게 쓰이는지, 어떤 이점을 가져오는지 알아보려고 이번 시범 사업에 나섰다\"고 말했다. 파트너들은 인용이 연구자들의 클릭으로 이어지는지, OUP의 정보로 ChatGPT의 답변이 나아지는지 추적한다."
+            "x": "대형 출판사는 AI기업과 개별 계약해 수익을 내기도 한다. 학술출판사 와일리는 지난해에만 4900만달러(약 657억4330만원)를 벌었다. 하퍼콜린스는 비문학 도서 한 권 당 저자에게 5000달러(약 670만7500원)를 지급하는 계약을 제안한다."
           },
           {
             "t": "p",
-            "x": "같은 날 Cambridge University Press, Johns Hopkins University Press, Princeton University Press도 AI 라이선스 스타트업 Cashmere가 운영하는 공동 MCP 서비스 Meridian을 내놨다."
+            "x": "중소형 출판사는 이런 계약을 맺기 어렵다. 영국의 BBC, 파이낸셜타임스, 가디언 등은 SPUR(Standards for Publisher Usage Rights)를 만들어 공동으로 대응하고, 네덜란드의 북팩트는 출판사가 책 별로 어떤 AI 활용을 허용할지 결정할 수 있게 하는 출판사 연합 플랫폼이다."
+          },
+          {
+            "t": "p",
+            "x": "마이어는 책이 ‘유동적인 콘텐츠’(liquid content)가 될 것이라는 시나리오를 제시했다. 한편 최휘영 문화체육관광부 장관은 앤트로픽의 한국 책 무단 학습 의혹에 대해 “현행법으로는 어떻게 할 수 있는 방법이 없다”고 말했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Oxford University Press pilots\nits content inside ChatGPT Edu",
-          "body": "A three-month pilot run with Harvard Library, Wharton and Oxford puts licensed OUP content inside ChatGPT Edu.",
-          "mini_headline": "OUP tests\nChatGPT Edu licensing",
+        "ko": {
+          "headline": "판권면에 AI 학습 거부\n유럽 출판계의 반격",
+          "body": "유럽 출판사들은 판권면 AI 학습 거부와 개별 라이선스, 공동 대응으로 움직인다.",
+          "mini_headline": "유럽 출판계의 AI 반격",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132583-2.JPG"
+                "src": "https://img.khan.co.kr/news/2026/11/05/news-p.v1.20261105.86330c3d9cef4964837c6a302cb49e6b_P1.png"
               },
               {
                 "t": "p",
-                "x": "Oxford University Press announced a three-month pilot that lets students and researchers at Harvard Library, the Wharton School of the University of Pennsylvania, and the University of Oxford search licensed OUP content inside ChatGPT Edu. The test began in October and runs through December; answers draw on OUP books and journals their institution already buys, with citations and links to the full text on Oxford Academic."
+                "x": "5일 한국출판인회의가 서울 창비서교빌딩에서 연 2026 아시아 퍼블리셔스 포럼의 주제는 ‘AI 시대의 출판, 위기와 기회 사이에서’였다. 발표자로 나선 독일의 미디어 플랫폼인 DPR 창립자 슈테펜 마이어는 유럽 출판사들이 자체 대응, AI기업과의 개별 계약, 업계 차원 공동 대응 등 3가지 측면에서 움직이고 있다고 소개했다."
               },
               {
                 "t": "p",
-                "x": "Behind the scenes is a Model Context Protocol (MCP) server that OUP built with Silverchair. When a user asks a question, OUP's server searches the press's content, picks the most relevant sources, and passes them to ChatGPT."
+                "x": "출판사 내부적으로는 직원들이 승인된 AI도구를 쓰고 미출간 원고를 공개형 AI모델에 입력하지 않는 등 규칙을 지키고, 웹사이트와 파일에 텍스트·데이터 마이닝 거부를 기계가 읽을 수 있게 표시하며, 모든 책의 판권에도 AI 학습에 사용되는 것을 거부한다는 의사를 표시해야 한다. 저자 및 번역가와 계약할 때도 AI 관련 조항을 넣는다."
               },
               {
                 "t": "p",
-                "x": "\"We've undertaken this pilot to learn what real-world use of publisher MCPs looks like and what benefits it drives,\" said Tanya Laplante of OUP. The partners will track whether citations motivate researchers to click through and whether OUP's information improves ChatGPT's answers."
+                "x": "대형 출판사는 AI기업과 개별 계약해 수익을 내기도 한다. 학술출판사 와일리는 지난해에만 4900만달러(약 657억4330만원)를 벌었다. 하퍼콜린스는 비문학 도서 한 권 당 저자에게 5000달러(약 670만7500원)를 지급하는 계약을 제안한다."
               },
               {
                 "t": "p",
-                "x": "The same day, Cambridge University Press, Johns Hopkins University Press, and Princeton University Press announced Meridian, a shared MCP service run by the AI licensing startup Cashmere."
+                "x": "중소형 출판사는 이런 계약을 맺기 어렵다. 영국의 BBC, 파이낸셜타임스, 가디언 등은 SPUR(Standards for Publisher Usage Rights)를 만들어 공동으로 대응하고, 네덜란드의 북팩트는 출판사가 책 별로 어떤 AI 활용을 허용할지 결정할 수 있게 하는 출판사 연합 플랫폼이다."
+              },
+              {
+                "t": "p",
+                "x": "마이어는 책이 ‘유동적인 콘텐츠’(liquid content)가 될 것이라는 시나리오를 제시했다. 한편 최휘영 문화체육관광부 장관은 앤트로픽의 한국 책 무단 학습 의혹에 대해 “현행법으로는 어떻게 할 수 있는 방법이 없다”고 말했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "OUP, 콘텐츠 시범 탑재\nChatGPT Edu에",
-          "body": "OUP가 석 달 동안 ChatGPT Edu에서 자사 콘텐츠를 시범 제공한다.",
-          "mini_headline": "OUP, ChatGPT Edu\n라이선스 시험",
+        "en": {
+          "headline": "AI opt-outs on copyright pages\nEuropean publishers push back",
+          "body": "European publishers are responding with AI training opt-outs on copyright pages, individual licenses and joint action.",
+          "mini_headline": "Europe's publishers push back on AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132583-2.JPG"
+                "src": "https://img.khan.co.kr/news/2026/11/05/news-p.v1.20261105.86330c3d9cef4964837c6a302cb49e6b_P1.png"
               },
               {
                 "t": "p",
-                "x": "Oxford University Press가 Harvard Library, University of Pennsylvania의 Wharton School, University of Oxford의 학생과 연구자들이 ChatGPT Edu 안에서 라이선스를 받은 OUP 콘텐츠를 검색하도록 하는 석 달짜리 시범 사업을 발표했다. 시험 기간은 10월부터 12월까지다. 답변은 각 기관이 이미 사들인 OUP 도서와 저널에서 나오고, Oxford Academic의 전문으로 이어지는 인용과 링크가 붙는다."
+                "x": "The theme of the 2026 Asia Publishers Forum, held by the Korean Publishers Society on the 5th at the Changbi Seogyo Building in Seoul, was ‘Publishing in the AI Era: Between Crisis and Opportunity.’ Presenter Steffen Meyer, founder of the German media platform DPR, said European publishers are moving on 3 fronts: their own internal measures, individual contracts with AI companies, and joint industry-wide action."
               },
               {
                 "t": "p",
-                "x": "이를 떠받치는 것은 OUP가 Silverchair와 함께 만든 Model Context Protocol(MCP) 서버다. 사용자가 질문하면 OUP 서버가 출판부 콘텐츠를 검색해 관련성이 가장 높은 자료를 골라 ChatGPT에 넘긴다."
+                "x": "Inside publishing houses, staff follow rules such as using approved AI tools and not entering unpublished manuscripts into public AI models; publishers mark text and data mining opt-outs in machine-readable form on their websites and files, and should state on the copyright page of every book that it may not be used for AI training. AI-related clauses are also included in contracts with authors and translators."
               },
               {
                 "t": "p",
-                "x": "OUP의 Tanya Laplante는 \"출판사 MCPs가 실제로 어떻게 쓰이는지, 어떤 이점을 가져오는지 알아보려고 이번 시범 사업에 나섰다\"고 말했다. 파트너들은 인용이 연구자들의 클릭으로 이어지는지, OUP의 정보로 ChatGPT의 답변이 나아지는지 추적한다."
+                "x": "Large publishers also earn revenue through individual deals with AI companies. Academic publisher Wiley earned 4900만달러 (about 657억4330만원) last year alone. HarperCollins offers authors a deal paying 5000달러 (about 670만7500원) per nonfiction title."
               },
               {
                 "t": "p",
-                "x": "같은 날 Cambridge University Press, Johns Hopkins University Press, Princeton University Press도 AI 라이선스 스타트업 Cashmere가 운영하는 공동 MCP 서비스 Meridian을 내놨다."
+                "x": "Small and mid-sized publishers find such deals hard to secure. In the UK, the BBC, the Financial Times, the Guardian and others created SPUR (Standards for Publisher Usage Rights) to respond jointly, and Bookfact in the Netherlands is a publishers' alliance platform that lets publishers decide, book by book, which AI uses to allow."
+              },
+              {
+                "t": "p",
+                "x": "Meyer presented a scenario in which books become ‘liquid content’ (liquid content). Meanwhile, Minister of Culture, Sports and Tourism Choi Hwi-young said of allegations that Anthropic trained on Korean books without permission, “There is no way to do anything under current law.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "OUP、自社コンテンツを\nChatGPT Eduで試行",
-          "body": "OUPは三か月間、ChatGPT Edu内でライセンスコンテンツを試験提供する。",
-          "mini_headline": "OUP、ChatGPT Eduで\nライセンスを試行",
+          "headline": "奥付にAI学習拒否\n欧州出版界の反撃",
+          "body": "欧州の出版社は奥付でのAI学習拒否、個別ライセンス、共同対応で動いている。",
+          "mini_headline": "欧州出版界のAI反撃",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132583-2.JPG"
+                "src": "https://img.khan.co.kr/news/2026/11/05/news-p.v1.20261105.86330c3d9cef4964837c6a302cb49e6b_P1.png"
               },
               {
                 "t": "p",
-                "x": "Oxford University Pressは、Harvard Library、University of PennsylvaniaのWharton School、University of Oxfordの学生と研究者が、ChatGPT Eduの中でライセンス済みのOUPコンテンツを検索できる三か月間の試験運用を発表した。試験は10月に始まり12月まで続く。回答は各機関がすでに購入しているOUPの書籍やジャーナルに基づき、Oxford Academic上の全文への引用とリンクが付く。"
+                "x": "韓国出版人会議が5日、ソウルの創批西橋ビルで開いた2026アジア・パブリッシャーズ・フォーラムのテーマは「AI時代の出版、危機と機会のあいだで」だった。発表者として登壇したドイツのメディアプラットフォームDPRの創業者シュテフェン・マイヤーは、欧州の出版社が独自の対応、AI企業との個別契約、業界レベルの共同対応という3つの側面で動いていると紹介した。"
               },
               {
                 "t": "p",
-                "x": "その裏側にあるのは、OUPがSilverchairと共同で構築したModel Context Protocol(MCP)サーバーだ。ユーザーが質問すると、OUPのサーバーが同社のコンテンツを検索し、最も関連性の高い情報源を選んでChatGPTに渡す。"
+                "x": "出版社の内部では、社員が承認されたAIツールを使い、未刊の原稿を公開型AIモデルに入力しないといったルールを守り、ウェブサイトやファイルにはテキスト・データマイニングの拒否を機械可読な形で表示し、すべての本の奥付にもAI学習への利用を拒否する意思を記さなければならない。著者や翻訳者との契約にもAI関連の条項を盛り込む。"
               },
               {
                 "t": "p",
-                "x": "「出版社のMCPsが実際にどう使われ、どんな利点をもたらすのかを知るためにこの試験運用に取り組んだ」とOUPのTanya Laplanteは語った。パートナー各社は、引用が研究者のクリックを促すかどうか、OUPの情報がChatGPTの回答を改善するかどうかを追跡する。"
+                "x": "大手出版社はAI企業と個別に契約して収益を上げることもある。学術出版社のWileyは昨年だけで4900만달러（約657억4330만원）を稼いだ。HarperCollinsはノンフィクション一冊あたり著者に5000달러（約670만7500원）を支払う契約を提案している。"
               },
               {
                 "t": "p",
-                "x": "同じ日、Cambridge University Press、Johns Hopkins University Press、Princeton University Pressは、AIライセンスのスタートアップCashmereが運営する共同MCPサービス「Meridian」を発表した。"
+                "x": "中小出版社はこうした契約を結びにくい。英国のBBC、フィナンシャル・タイムズ、ガーディアンなどはSPUR（Standards for Publisher Usage Rights）を作って共同で対応しており、オランダのBookfactは、出版社が本ごとにどのようなAI活用を認めるかを決められる出版社連合のプラットフォームだ。"
+              },
+              {
+                "t": "p",
+                "x": "マイヤーは、本が「流動的なコンテンツ」（liquid content）になるというシナリオを示した。一方、チェ・フィヨン文化体育観光部長官は、Anthropicによる韓国の本の無断学習疑惑について「現行法ではどうすることもできない」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "OUP内容试点接入\nChatGPT Edu",
-          "body": "OUP与Harvard Library等合作，在ChatGPT Edu中试点三个月。",
-          "mini_headline": "OUP试水\nChatGPT Edu授权",
+          "headline": "版权页拒绝AI训练\n欧洲出版界反击",
+          "body": "欧洲出版社以版权页拒绝AI训练、单独授权和联合应对展开行动。",
+          "mini_headline": "欧洲出版界的AI反击",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132583-2.JPG"
+                "src": "https://img.khan.co.kr/news/2026/11/05/news-p.v1.20261105.86330c3d9cef4964837c6a302cb49e6b_P1.png"
               },
               {
                 "t": "p",
-                "x": "Oxford University Press宣布开展为期三个月的试点，让Harvard Library、University of Pennsylvania的Wharton School以及University of Oxford的学生和研究人员在ChatGPT Edu中检索获授权的OUP内容。试点于10月开始，持续到12月；回答基于其所在机构已购买的OUP图书和期刊，并附有指向Oxford Academic全文的引用和链接。"
+                "x": "5日，韩国出版人会议在首尔创批西桥大楼举办的2026亚洲出版人论坛，主题为“AI时代的出版：在危机与机遇之间”。作为演讲嘉宾的德国媒体平台DPR创始人斯特芬·迈尔介绍，欧洲出版社正从自身应对、与AI企业单独签约、行业层面联合应对等3个方面展开行动。"
               },
               {
                 "t": "p",
-                "x": "其背后是OUP与Silverchair共同搭建的Model Context Protocol（MCP）服务器。用户提问时，OUP的服务器会检索该社内容，挑选最相关的来源，再传给ChatGPT。"
+                "x": "在出版社内部，员工须遵守使用经批准的AI工具、不将未出版书稿输入公开AI模型等规则；在网站和文件上以机器可读的方式标明拒绝文本与数据挖掘；还应在每本书的版权页上表明拒绝被用于AI训练的意愿。与作者及译者签约时也会加入AI相关条款。"
               },
               {
                 "t": "p",
-                "x": "OUP的Tanya Laplante表示：“我们开展这项试点，是为了了解出版商MCPs在现实中如何被使用，以及能带来哪些好处。”合作各方将追踪引用是否会促使研究人员点击查看，以及OUP的信息能否改进ChatGPT的回答。"
+                "x": "大型出版社也会与AI企业单独签约获取收益。学术出版社Wiley仅去年就赚得4900만달러（约657억4330만원）。HarperCollins提出按每本非虚构图书向作者支付5000달러（约670만7500원）的合同。"
               },
               {
                 "t": "p",
-                "x": "同一天，Cambridge University Press、Johns Hopkins University Press和Princeton University Press宣布推出Meridian，这是由AI授权初创公司Cashmere运营的共享MCP服务。"
+                "x": "中小型出版社很难签下这类合同。英国的BBC、《金融时报》、《卫报》等共同制定了SPUR（Standards for Publisher Usage Rights）联合应对；荷兰的Bookfact则是一个出版社联合平台，让出版社可以逐本决定允许哪些AI用途。"
+              },
+              {
+                "t": "p",
+                "x": "迈尔提出了书籍将成为“流动内容”（liquid content）的设想。另一方面，韩国文化体育观光部长官崔辉英就Anthropic涉嫌未经授权用韩国图书训练一事表示：“依现行法律，没有任何办法。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Oxford University Press prueba\nsu contenido en ChatGPT Edu",
-          "body": "Un piloto de tres meses con Harvard Library, Wharton y Oxford lleva contenido con licencia de OUP a ChatGPT Edu.",
-          "mini_headline": "OUP prueba licencias\nen ChatGPT Edu",
+          "headline": "No al entrenamiento de AI:\nla respuesta editorial europea",
+          "body": "Las editoriales europeas responden con rechazos a la AI en la página de créditos, licencias propias y acción conjunta.",
+          "mini_headline": "La respuesta europea a la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132583-2.JPG"
+                "src": "https://img.khan.co.kr/news/2026/11/05/news-p.v1.20261105.86330c3d9cef4964837c6a302cb49e6b_P1.png"
               },
               {
                 "t": "p",
-                "x": "Oxford University Press anunció un piloto de tres meses que permite a estudiantes e investigadores de Harvard Library, la Wharton School de la University of Pennsylvania y la University of Oxford buscar contenido con licencia de OUP dentro de ChatGPT Edu. La prueba comenzó en octubre y se extiende hasta diciembre; las respuestas se basan en libros y revistas de OUP que su institución ya compra, con citas y enlaces al texto completo en Oxford Academic."
+                "x": "El tema del Foro de Editores de Asia 2026, celebrado el día 5 por la Sociedad de Editores de Corea en el edificio Changbi Seogyo de Seúl, fue ‘La edición en la era de la AI, entre la crisis y la oportunidad’. Steffen Meyer, fundador de la plataforma de medios alemana DPR, que intervino como ponente, explicó que las editoriales europeas se mueven en 3 frentes: respuestas propias, contratos individuales con empresas de AI y acción conjunta a nivel de industria."
               },
               {
                 "t": "p",
-                "x": "Detrás hay un servidor Model Context Protocol (MCP) que OUP construyó con Silverchair. Cuando un usuario hace una pregunta, el servidor de OUP busca en el contenido de la editorial, elige las fuentes más relevantes y se las pasa a ChatGPT."
+                "x": "Dentro de las editoriales, el personal debe seguir reglas como usar herramientas de AI aprobadas y no introducir manuscritos inéditos en modelos de AI públicos; además, deben indicar en webs y archivos, de forma legible por máquina, la exclusión de la minería de textos y datos, y dejar constancia en la página de créditos de cada libro de que se rechaza su uso para entrenar AI. También se incluyen cláusulas sobre AI en los contratos con autores y traductores."
               },
               {
                 "t": "p",
-                "x": "\"Emprendimos este piloto para saber cómo es el uso real de los MCPs de las editoriales y qué beneficios aporta\", dijo Tanya Laplante, de OUP. Los socios analizarán si las citas animan a los investigadores a hacer clic y si la información de OUP mejora las respuestas de ChatGPT."
+                "x": "Las grandes editoriales también obtienen ingresos con contratos individuales con empresas de AI. La editorial académica Wiley ganó 4900만달러 (unos 657억4330만원) solo el año pasado. HarperCollins propone a los autores un contrato que paga 5000달러 (unos 670만7500원) por cada libro de no ficción."
               },
               {
                 "t": "p",
-                "x": "Ese mismo día, Cambridge University Press, Johns Hopkins University Press y Princeton University Press anunciaron Meridian, un servicio MCP compartido gestionado por Cashmere, una startup de licencias de AI."
+                "x": "A las editoriales pequeñas y medianas les cuesta cerrar este tipo de acuerdos. En el Reino Unido, la BBC, el Financial Times, The Guardian y otros crearon SPUR (Standards for Publisher Usage Rights) para responder de forma conjunta, y Bookfact, en los Países Bajos, es una plataforma de una alianza de editoriales que permite a cada editorial decidir, libro por libro, qué usos de AI autoriza."
+              },
+              {
+                "t": "p",
+                "x": "Meyer planteó un escenario en el que el libro se convierte en ‘contenido líquido’ (liquid content). Por su parte, el ministro de Cultura, Deportes y Turismo, Choi Hwi-young, dijo sobre la presunta utilización no autorizada de libros coreanos por parte de Anthropic para entrenar AI: “Con la ley actual no hay forma de hacer nada”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "OUP, 콘텐츠 시범 탑재\nChatGPT Edu에",
-          "body": "OUP는 석 달간 ChatGPT Edu 안에서 자사 콘텐츠를 시범 제공한다.",
-          "mini_headline": "OUP, ChatGPT Edu\n라이선스 시험",
+        "en": {
+          "headline": "AI opt-outs on copyright pages\nEuropean publishers push back",
+          "body": "European publishers are responding with AI training opt-outs on copyright pages, individual licenses and joint action.",
+          "mini_headline": "Europe's publishers push back on AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132583-2.JPG"
+                "src": "https://img.khan.co.kr/news/2026/11/05/news-p.v1.20261105.86330c3d9cef4964837c6a302cb49e6b_P1.png"
               },
               {
                 "t": "p",
-                "x": "Oxford University Press는 Harvard Library, University of Pennsylvania의 Wharton School, University of Oxford의 학생과 연구자들이 ChatGPT Edu 안에서 라이선스를 받은 OUP 콘텐츠를 검색할 수 있게 하는 석 달짜리 시범 사업을 발표했다. 시험은 10월에 시작해 12월까지 이어진다. 답변은 각 기관이 이미 구매한 OUP 도서와 저널을 바탕으로 하며, Oxford Academic의 전문으로 이어지는 인용과 링크가 달린다."
+                "x": "The theme of the 2026 Asia Publishers Forum, held by the Korean Publishers Society on the 5th at the Changbi Seogyo Building in Seoul, was ‘Publishing in the AI Era: Between Crisis and Opportunity.’ Presenter Steffen Meyer, founder of the German media platform DPR, said European publishers are moving on 3 fronts: their own internal measures, individual contracts with AI companies, and joint industry-wide action."
               },
               {
                 "t": "p",
-                "x": "그 뒤에는 OUP가 Silverchair와 함께 구축한 Model Context Protocol(MCP) 서버가 있다. 사용자가 질문하면 OUP 서버가 출판부의 콘텐츠를 검색해 가장 관련성 높은 자료를 골라 ChatGPT에 넘긴다."
+                "x": "Inside publishing houses, staff follow rules such as using approved AI tools and not entering unpublished manuscripts into public AI models; publishers mark text and data mining opt-outs in machine-readable form on their websites and files, and should state on the copyright page of every book that it may not be used for AI training. AI-related clauses are also included in contracts with authors and translators."
               },
               {
                 "t": "p",
-                "x": "OUP의 Tanya Laplante는 \"출판사 MCPs가 실제로 어떻게 쓰이는지, 어떤 이점을 가져오는지 알아보려고 이번 시범 사업에 나섰다\"고 말했다. 파트너들은 인용이 연구자들의 클릭으로 이어지는지, OUP의 정보가 ChatGPT의 답변을 개선하는지를 추적할 예정이다."
+                "x": "Large publishers also earn revenue through individual deals with AI companies. Academic publisher Wiley earned 4900만달러 (about 657억4330만원) last year alone. HarperCollins offers authors a deal paying 5000달러 (about 670만7500원) per nonfiction title."
               },
               {
                 "t": "p",
-                "x": "같은 날 Cambridge University Press, Johns Hopkins University Press, Princeton University Press는 AI 라이선스 스타트업 Cashmere가 운영하는 공동 MCP 서비스 Meridian을 발표했다."
+                "x": "Small and mid-sized publishers find such deals hard to secure. In the UK, the BBC, the Financial Times, the Guardian and others created SPUR (Standards for Publisher Usage Rights) to respond jointly, and Bookfact in the Netherlands is a publishers' alliance platform that lets publishers decide, book by book, which AI uses to allow."
+              },
+              {
+                "t": "p",
+                "x": "Meyer presented a scenario in which books become ‘liquid content’ (liquid content). Meanwhile, Minister of Culture, Sports and Tourism Choi Hwi-young said of allegations that Anthropic trained on Korean books without permission, “There is no way to do anything under current law.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "OUP、自社コンテンツを\nChatGPT Eduで試行",
-          "body": "OUPは三か月間、ChatGPT Edu内でライセンスコンテンツを試験提供する。",
-          "mini_headline": "OUP、ChatGPT Eduで\nライセンスを試行",
+          "headline": "奥付にAI学習拒否\n欧州出版界の反撃",
+          "body": "欧州の出版社は奥付でのAI学習拒否、個別ライセンス、共同対応で動いている。",
+          "mini_headline": "欧州出版界のAI反撃",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132583-2.JPG"
+                "src": "https://img.khan.co.kr/news/2026/11/05/news-p.v1.20261105.86330c3d9cef4964837c6a302cb49e6b_P1.png"
               },
               {
                 "t": "p",
-                "x": "Oxford University Pressは、Harvard Library、University of PennsylvaniaのWharton School、University of Oxfordの学生と研究者が、ChatGPT Eduの中でライセンス済みのOUPコンテンツを検索できる三か月間の試験運用を発表した。試験は10月に始まり12月まで続く。回答は各機関がすでに購入しているOUPの書籍やジャーナルに基づき、Oxford Academic上の全文への引用とリンクが付く。"
+                "x": "韓国出版人会議が5日、ソウルの創批西橋ビルで開いた2026アジア・パブリッシャーズ・フォーラムのテーマは「AI時代の出版、危機と機会のあいだで」だった。発表者として登壇したドイツのメディアプラットフォームDPRの創業者シュテフェン・マイヤーは、欧州の出版社が独自の対応、AI企業との個別契約、業界レベルの共同対応という3つの側面で動いていると紹介した。"
               },
               {
                 "t": "p",
-                "x": "その裏側にあるのは、OUPがSilverchairと共同で構築したModel Context Protocol(MCP)サーバーだ。ユーザーが質問すると、OUPのサーバーが同社のコンテンツを検索し、最も関連性の高い情報源を選んでChatGPTに渡す。"
+                "x": "出版社の内部では、社員が承認されたAIツールを使い、未刊の原稿を公開型AIモデルに入力しないといったルールを守り、ウェブサイトやファイルにはテキスト・データマイニングの拒否を機械可読な形で表示し、すべての本の奥付にもAI学習への利用を拒否する意思を記さなければならない。著者や翻訳者との契約にもAI関連の条項を盛り込む。"
               },
               {
                 "t": "p",
-                "x": "「出版社のMCPsが実際にどう使われ、どんな利点をもたらすのかを知るためにこの試験運用に取り組んだ」とOUPのTanya Laplanteは語った。パートナー各社は、引用が研究者のクリックを促すかどうか、OUPの情報がChatGPTの回答を改善するかどうかを追跡する。"
+                "x": "大手出版社はAI企業と個別に契約して収益を上げることもある。学術出版社のWileyは昨年だけで4900만달러（約657억4330만원）を稼いだ。HarperCollinsはノンフィクション一冊あたり著者に5000달러（約670만7500원）を支払う契約を提案している。"
               },
               {
                 "t": "p",
-                "x": "同じ日、Cambridge University Press、Johns Hopkins University Press、Princeton University Pressは、AIライセンスのスタートアップCashmereが運営する共同MCPサービス「Meridian」を発表した。"
+                "x": "中小出版社はこうした契約を結びにくい。英国のBBC、フィナンシャル・タイムズ、ガーディアンなどはSPUR（Standards for Publisher Usage Rights）を作って共同で対応しており、オランダのBookfactは、出版社が本ごとにどのようなAI活用を認めるかを決められる出版社連合のプラットフォームだ。"
+              },
+              {
+                "t": "p",
+                "x": "マイヤーは、本が「流動的なコンテンツ」（liquid content）になるというシナリオを示した。一方、チェ・フィヨン文化体育観光部長官は、Anthropicによる韓国の本の無断学習疑惑について「現行法ではどうすることもできない」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "OUP内容试点接入\nChatGPT Edu",
-          "body": "OUP与Harvard Library等合作，在ChatGPT Edu中试点三个月。",
-          "mini_headline": "OUP试水\nChatGPT Edu授权",
+          "headline": "版权页拒绝AI训练\n欧洲出版界反击",
+          "body": "欧洲出版社以版权页拒绝AI训练、单独授权和联合应对展开行动。",
+          "mini_headline": "欧洲出版界的AI反击",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132583-2.JPG"
+                "src": "https://img.khan.co.kr/news/2026/11/05/news-p.v1.20261105.86330c3d9cef4964837c6a302cb49e6b_P1.png"
               },
               {
                 "t": "p",
-                "x": "Oxford University Press宣布开展为期三个月的试点，让Harvard Library、University of Pennsylvania的Wharton School以及University of Oxford的学生和研究人员在ChatGPT Edu中检索获授权的OUP内容。试点于10月开始，持续到12月；回答基于其所在机构已购买的OUP图书和期刊，并附有指向Oxford Academic全文的引用和链接。"
+                "x": "5日，韩国出版人会议在首尔创批西桥大楼举办的2026亚洲出版人论坛，主题为“AI时代的出版：在危机与机遇之间”。作为演讲嘉宾的德国媒体平台DPR创始人斯特芬·迈尔介绍，欧洲出版社正从自身应对、与AI企业单独签约、行业层面联合应对等3个方面展开行动。"
               },
               {
                 "t": "p",
-                "x": "其背后是OUP与Silverchair共同搭建的Model Context Protocol（MCP）服务器。用户提问时，OUP的服务器会检索该社内容，挑选最相关的来源，再传给ChatGPT。"
+                "x": "在出版社内部，员工须遵守使用经批准的AI工具、不将未出版书稿输入公开AI模型等规则；在网站和文件上以机器可读的方式标明拒绝文本与数据挖掘；还应在每本书的版权页上表明拒绝被用于AI训练的意愿。与作者及译者签约时也会加入AI相关条款。"
               },
               {
                 "t": "p",
-                "x": "OUP的Tanya Laplante表示：“我们开展这项试点，是为了了解出版商MCPs在现实中如何被使用，以及能带来哪些好处。”合作各方将追踪引用是否会促使研究人员点击查看，以及OUP的信息能否改进ChatGPT的回答。"
+                "x": "大型出版社也会与AI企业单独签约获取收益。学术出版社Wiley仅去年就赚得4900만달러（约657억4330만원）。HarperCollins提出按每本非虚构图书向作者支付5000달러（约670만7500원）的合同。"
               },
               {
                 "t": "p",
-                "x": "同一天，Cambridge University Press、Johns Hopkins University Press和Princeton University Press宣布推出Meridian，这是由AI授权初创公司Cashmere运营的共享MCP服务。"
+                "x": "中小型出版社很难签下这类合同。英国的BBC、《金融时报》、《卫报》等共同制定了SPUR（Standards for Publisher Usage Rights）联合应对；荷兰的Bookfact则是一个出版社联合平台，让出版社可以逐本决定允许哪些AI用途。"
+              },
+              {
+                "t": "p",
+                "x": "迈尔提出了书籍将成为“流动内容”（liquid content）的设想。另一方面，韩国文化体育观光部长官崔辉英就Anthropic涉嫌未经授权用韩国图书训练一事表示：“依现行法律，没有任何办法。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Oxford University Press prueba\nsu contenido en ChatGPT Edu",
-          "body": "Un piloto de tres meses con Harvard Library, Wharton y Oxford lleva contenido con licencia de OUP a ChatGPT Edu.",
-          "mini_headline": "OUP prueba licencias\nen ChatGPT Edu",
+          "headline": "No al entrenamiento de AI:\nla respuesta editorial europea",
+          "body": "Las editoriales europeas responden con rechazos a la AI en la página de créditos, licencias propias y acción conjunta.",
+          "mini_headline": "La respuesta europea a la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132583-2.JPG"
+                "src": "https://img.khan.co.kr/news/2026/11/05/news-p.v1.20261105.86330c3d9cef4964837c6a302cb49e6b_P1.png"
               },
               {
                 "t": "p",
-                "x": "Oxford University Press anunció un piloto de tres meses que permite a estudiantes e investigadores de Harvard Library, la Wharton School de la University of Pennsylvania y la University of Oxford buscar contenido con licencia de OUP dentro de ChatGPT Edu. La prueba comenzó en octubre y se extiende hasta diciembre; las respuestas se basan en libros y revistas de OUP que su institución ya compra, con citas y enlaces al texto completo en Oxford Academic."
+                "x": "El tema del Foro de Editores de Asia 2026, celebrado el día 5 por la Sociedad de Editores de Corea en el edificio Changbi Seogyo de Seúl, fue ‘La edición en la era de la AI, entre la crisis y la oportunidad’. Steffen Meyer, fundador de la plataforma de medios alemana DPR, que intervino como ponente, explicó que las editoriales europeas se mueven en 3 frentes: respuestas propias, contratos individuales con empresas de AI y acción conjunta a nivel de industria."
               },
               {
                 "t": "p",
-                "x": "Detrás hay un servidor Model Context Protocol (MCP) que OUP construyó con Silverchair. Cuando un usuario hace una pregunta, el servidor de OUP busca en el contenido de la editorial, elige las fuentes más relevantes y se las pasa a ChatGPT."
+                "x": "Dentro de las editoriales, el personal debe seguir reglas como usar herramientas de AI aprobadas y no introducir manuscritos inéditos en modelos de AI públicos; además, deben indicar en webs y archivos, de forma legible por máquina, la exclusión de la minería de textos y datos, y dejar constancia en la página de créditos de cada libro de que se rechaza su uso para entrenar AI. También se incluyen cláusulas sobre AI en los contratos con autores y traductores."
               },
               {
                 "t": "p",
-                "x": "\"Emprendimos este piloto para saber cómo es el uso real de los MCPs de las editoriales y qué beneficios aporta\", dijo Tanya Laplante, de OUP. Los socios analizarán si las citas animan a los investigadores a hacer clic y si la información de OUP mejora las respuestas de ChatGPT."
+                "x": "Las grandes editoriales también obtienen ingresos con contratos individuales con empresas de AI. La editorial académica Wiley ganó 4900만달러 (unos 657억4330만원) solo el año pasado. HarperCollins propone a los autores un contrato que paga 5000달러 (unos 670만7500원) por cada libro de no ficción."
               },
               {
                 "t": "p",
-                "x": "Ese mismo día, Cambridge University Press, Johns Hopkins University Press y Princeton University Press anunciaron Meridian, un servicio MCP compartido gestionado por Cashmere, una startup de licencias de AI."
+                "x": "A las editoriales pequeñas y medianas les cuesta cerrar este tipo de acuerdos. En el Reino Unido, la BBC, el Financial Times, The Guardian y otros crearon SPUR (Standards for Publisher Usage Rights) para responder de forma conjunta, y Bookfact, en los Países Bajos, es una plataforma de una alianza de editoriales que permite a cada editorial decidir, libro por libro, qué usos de AI autoriza."
+              },
+              {
+                "t": "p",
+                "x": "Meyer planteó un escenario en el que el libro se convierte en ‘contenido líquido’ (liquid content). Por su parte, el ministro de Cultura, Deportes y Turismo, Choi Hwi-young, dijo sobre la presunta utilización no autorizada de libros coreanos por parte de Anthropic para entrenar AI: “Con la ley actual no hay forma de hacer nada”."
               }
             ]
           }
@@ -1189,15 +1179,15 @@
       }
     },
     {
-      "id": "bookend-editorial-ai",
-      "source_lang": "ko",
+      "id": "books-cleveland-library-ai",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "북엔드 AI 편집 서비스\n교정 2주를 30분으로",
-      "body": "북엔드의 AI 서비스 '에디토리얼'은 책 교정을 2주에서 30분으로 줄였다.",
-      "mini_headline": "AI로 교정 2주를\n30분으로",
+      "headline": "Cleveland 도서관\nAI 정책 채택",
+      "body": "Cleveland 도서관이 AI 정책과 AI Futures Council을 갖췄다.",
+      "mini_headline": "Cleveland 도서관의 AI 규칙",
       "tool": "Books",
-      "source": "헬로디디",
-      "url": "http://www.hellodd.com/news/articleView.html?idxno=113638",
+      "source": "Signal Cleveland",
+      "url": "https://signalcleveland.org/ai-policy-approved-at-cleveland-public-library/",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -1205,355 +1195,265 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.hellodd.com/news/photo/202610/113638_338795_1432.jpg",
-            "cap": "최현수 북엔드 대표 [사진=북엔드]"
+            "src": "https://i0.wp.com/signalcleveland.org/wp-content/uploads/2022/10/20240117_165935-scaled.jpg?fit=780%2C585&ssl=1",
+            "cap": "Cleveland 공공도서관 본관의 Louis Stokes 별관"
           },
           {
             "t": "p",
-            "x": "대덕연구단지의 출판사 북엔드가 교정·교열에 걸리는 시간을 2주에서 30분으로 단축하는 AI 도서 편집 서비스 '에디토리얼(Editorial)'을 선보였고, 지난 7일 독일 프랑크푸르트 국제도서전에 참가해 해외 출판업계에도 기술을 소개했다."
+            "x": "CPL 이사회가 10월 16일부터 시행하는 AI 거버넌스 정책을 승인했다. 도서관 운영에 AI를 어떻게 쓸지 정한 지침으로, 기술 변화에 맞춰 분기마다 검토하고 고칠 수 있다. 도서관 행정부는 시행 절차를 마련하라는 지시를 받았다."
           },
           {
             "t": "p",
-            "x": "최현수 대표는 \"기존에는 한 차례 교정·교열에 적어도 2주에서 한 달 정도 걸렸지만, 에디토리얼은 약 10분이면 원고 검토를 마친다\"며 \"사람이 결과를 확인하는 시간까지 더해도 30분 안팎\"이라고 설명했다. 10만자 원고를 외부에 맡기면 약 100만원이 들지만 에디토리얼로는 약 1만원에 처리할 수 있다."
+            "x": "최고혁신기술책임자 John Malcolm은 이렇게 말했다. “아시다시피 AI는 처음부터 늘 기술의 DNA 안에 있었고, 이제 소비자 수준에서 접근할 수 있게 된 만큼 우리는, 모범 관행이 그렇듯, 정책을 갖춰야 합니다. 이 정책은 돌에 새긴 것이 아닙니다. 살아 있는 정책이어야 하고, 정기적으로 검토해야 합니다.”"
           },
           {
             "t": "p",
-            "x": "오탈자·조사·문장부호뿐 아니라 문맥에 맞지 않는 표현을 찾고, 통계를 검색해 사실관계도 확인한다. 결과는 한글(HWP)·PDF 원본에 메모 형태로 달린다. 최대 50만자까지 처리하며, '스타일 분석' 기술로 작가 고유의 문체는 살리면서 처음부터 끝까지 같은 기준을 적용한다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.hellodd.com/news/photo/202610/113638_338796_1436.jpg",
-            "cap": "북엔드는 자체 개발한 AI 도서 편집 기술을 독일 프랑크푸르트 국제도서전에서 선보였다. [사진=북엔드]"
-          },
-          {
-            "t": "p",
-            "x": "북엔드는 약 15종의 책을 펴내 4만 부를 판매했고, AI 활용으로 출간 기간을 4개월에서 2~3개월로 줄였다. 한국어·영어·독일어를 지원하며 일본어도 추가할 계획이다. 최 대표는 \"AI가 편집자를 대신하는 것이 아니라 편집자의 판단을 돕는다는 방향에 공감하는 반응이 많았다\"고 전했다. 장기 목표는 출판의 모든 과정을 잇는 '출판계의 피그마'다."
+            "x": "CPL은 non-IT 직원과 진행자 역할을 맡는 IT 직원으로 AI Futures Council을 꾸렸다. AI 관련 결정에 직원들의 시각을 담으려는 취지다. 이사 Melanie Shakarian은 직원과 이용자를 함께 고려한 경영진에 고마움을 전했다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "북엔드 AI 편집 서비스\n교정 2주를 30분으로",
-          "body": "북엔드의 AI 서비스 '에디토리얼'은 책 교정을 2주에서 30분으로 줄였다.",
-          "mini_headline": "AI로 교정 2주를\n30분으로",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338795_1432.jpg",
-                "cap": "최현수 북엔드 대표 [사진=북엔드]"
-              },
-              {
-                "t": "p",
-                "x": "대덕연구단지의 출판사 북엔드가 교정·교열에 걸리는 시간을 2주에서 30분으로 단축하는 AI 도서 편집 서비스 '에디토리얼(Editorial)'을 선보였고, 지난 7일 독일 프랑크푸르트 국제도서전에 참가해 해외 출판업계에도 기술을 소개했다."
-              },
-              {
-                "t": "p",
-                "x": "최현수 대표는 \"기존에는 한 차례 교정·교열에 적어도 2주에서 한 달 정도 걸렸지만, 에디토리얼은 약 10분이면 원고 검토를 마친다\"며 \"사람이 결과를 확인하는 시간까지 더해도 30분 안팎\"이라고 설명했다. 10만자 원고를 외부에 맡기면 약 100만원이 들지만 에디토리얼로는 약 1만원에 처리할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "오탈자·조사·문장부호뿐 아니라 문맥에 맞지 않는 표현을 찾고, 통계를 검색해 사실관계도 확인한다. 결과는 한글(HWP)·PDF 원본에 메모 형태로 달린다. 최대 50만자까지 처리하며, '스타일 분석' 기술로 작가 고유의 문체는 살리면서 처음부터 끝까지 같은 기준을 적용한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338796_1436.jpg",
-                "cap": "북엔드는 자체 개발한 AI 도서 편집 기술을 독일 프랑크푸르트 국제도서전에서 선보였다. [사진=북엔드]"
-              },
-              {
-                "t": "p",
-                "x": "북엔드는 약 15종의 책을 펴내 4만 부를 판매했고, AI 활용으로 출간 기간을 4개월에서 2~3개월로 줄였다. 한국어·영어·독일어를 지원하며 일본어도 추가할 계획이다. 최 대표는 \"AI가 편집자를 대신하는 것이 아니라 편집자의 판단을 돕는다는 방향에 공감하는 반응이 많았다\"고 전했다. 장기 목표는 출판의 모든 과정을 잇는 '출판계의 피그마'다."
-              }
-            ]
-          }
-        },
         "en": {
-          "headline": "Bookend's AI editing service\ncuts 2-week proofing to 30 min",
-          "body": "Bookend's AI service 'Editorial' has cut book proofreading from 2 weeks to 30 minutes.",
-          "mini_headline": "AI cuts 2 weeks of\nproofreading to 30 minutes",
+          "headline": "Cleveland Public Library\nadopts an AI policy",
+          "body": "Cleveland Public Library's board approved an AI governance policy, and the library set up a staff AI Futures Council.",
+          "mini_headline": "Cleveland library sets AI rules",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338795_1432.jpg",
-                "cap": "Choi Hyun-soo, CEO of Bookend [Photo=Bookend]"
+                "src": "https://i0.wp.com/signalcleveland.org/wp-content/uploads/2022/10/20240117_165935-scaled.jpg?fit=780%2C585&ssl=1",
+                "cap": "The Louis Stokes Wing of the main Cleveland Public Library"
               },
               {
                 "t": "p",
-                "x": "Bookend, a publisher in the Daedeok Research Complex, has introduced 'Editorial', an AI book-editing service that cuts the time needed for proofreading and copyediting from 2 weeks to 30 minutes, and on the 7th it took part in the Frankfurt International Book Fair in Germany to present the technology to the overseas publishing industry."
+                "x": "The CPL Board of Trustees approved an AI governance policy, effective Oct. 16. The policy will guide how AI is used in library operations and could be reviewed and amended quarterly as technology changes. Library admin was directed to develop procedures for implementation."
               },
               {
                 "t": "p",
-                "x": "CEO Choi Hyun-soo explained, \"Previously, a single round of proofreading and copyediting took at least 2 weeks to a month, but Editorial finishes reviewing a manuscript in about 10 minutes,\" adding, \"Even including the time for a person to check the results, it's around 30 minutes.\" Outsourcing a 100,000-character manuscript costs about 1 million won, while Editorial can handle it for about 10,000 won."
+                "x": "Chief Innovation and Technology Officer John Malcolm: “As we know, AI has always been in the DNA of technology since the beginning, and now since it’s been a consumer-level access, we — and as is best practices — should be having a policy. This policy is not set in stone. This policy should be living, and it should be regularly reviewed.”"
               },
               {
                 "t": "p",
-                "x": "Beyond typos, particles and punctuation, it finds expressions that don't fit the context and checks facts by searching statistics. Results are attached as notes to the original Hangul (HWP) or PDF file. It handles up to 500,000 characters, and its 'style analysis' technology keeps the author's own voice while applying the same standard from beginning to end."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338796_1436.jpg",
-                "cap": "Bookend presented its in-house AI book-editing technology at the Frankfurt International Book Fair in Germany. [Photo=Bookend]"
-              },
-              {
-                "t": "p",
-                "x": "Bookend has published about 15 titles and sold 40,000 copies, and by using AI it has shortened its publishing time from 4 months to 2-3 months. It supports Korean, English and German and plans to add Japanese. \"Many people agreed with the direction that AI does not replace editors but supports their judgment,\" Choi said. The long-term goal is 'the Figma of publishing', connecting every step of the publishing process."
+                "x": "CPL established an AI Futures Council, which includes non-IT employees and IT staff that serve as facilitators. It’s intended to incorporate staff perspectives into decisions about AI. Board Member Melanie Shakarian thanked leadership for considering both staff and patrons."
               }
             ]
           }
         },
-        "ja": {
-          "headline": "ブックエンドのAI編集\n校正2週間を30分に",
-          "body": "ブックエンドのAIサービス「エディトリアル」は書籍の校正を2週間から30分に短縮した。",
-          "mini_headline": "AIで校正2週間を\n30分に",
+        "ko": {
+          "headline": "Cleveland 도서관\nAI 정책 채택",
+          "body": "Cleveland 도서관이 AI 정책과 AI Futures Council을 갖췄다.",
+          "mini_headline": "Cleveland 도서관의 AI 규칙",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338795_1432.jpg",
-                "cap": "ブックエンドのチェ・ヒョンス代表 [写真=ブックエンド]"
+                "src": "https://i0.wp.com/signalcleveland.org/wp-content/uploads/2022/10/20240117_165935-scaled.jpg?fit=780%2C585&ssl=1",
+                "cap": "Cleveland 공공도서관 본관의 Louis Stokes 별관"
               },
               {
                 "t": "p",
-                "x": "大徳研究団地の出版社ブックエンドは、校正・校閲にかかる時間を2週間から30分に短縮するAI書籍編集サービス「エディトリアル(Editorial)」を発表し、7日にはドイツのフランクフルト国際ブックフェアに参加して海外の出版業界にも技術を紹介した。"
+                "x": "CPL 이사회가 10월 16일부터 시행하는 AI 거버넌스 정책을 승인했다. 도서관 운영에 AI를 어떻게 쓸지 정한 지침으로, 기술 변화에 맞춰 분기마다 검토하고 고칠 수 있다. 도서관 행정부는 시행 절차를 마련하라는 지시를 받았다."
               },
               {
                 "t": "p",
-                "x": "チェ・ヒョンス代表は「これまでは一回の校正・校閲に少なくとも2週間からひと月ほどかかっていたが、エディトリアルは約10分で原稿の確認を終える」とし、「人が結果を確認する時間を加えても30分前後だ」と説明した。10万字の原稿を外部に依頼すると約100万ウォンかかるが、エディトリアルなら約1万ウォンで処理できる。"
+                "x": "최고혁신기술책임자 John Malcolm은 이렇게 말했다. “아시다시피 AI는 처음부터 늘 기술의 DNA 안에 있었고, 이제 소비자 수준에서 접근할 수 있게 된 만큼 우리는, 모범 관행이 그렇듯, 정책을 갖춰야 합니다. 이 정책은 돌에 새긴 것이 아닙니다. 살아 있는 정책이어야 하고, 정기적으로 검토해야 합니다.”"
               },
               {
                 "t": "p",
-                "x": "誤字脱字や助詞、句読点だけでなく、文脈に合わない表現を見つけ、統計を検索して事実関係も確認する。結果はハングル(HWP)やPDFの原本にメモの形で付く。最大50万字まで処理でき、「スタイル分析」技術で作家固有の文体を生かしながら、最初から最後まで同じ基準を適用する。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338796_1436.jpg",
-                "cap": "ブックエンドは自社開発したAI書籍編集技術をドイツのフランクフルト国際ブックフェアで披露した。[写真=ブックエンド]"
-              },
-              {
-                "t": "p",
-                "x": "ブックエンドは約15点の本を出版して4万部を販売し、AIの活用で刊行期間を4か月から2~3か月に縮めた。韓国語・英語・ドイツ語に対応し、日本語も追加する計画だ。チェ代表は「AIが編集者に取って代わるのではなく、編集者の判断を助けるという方向性に共感する反応が多かった」と伝えた。長期目標は出版のあらゆる工程をつなぐ「出版界のFigma」だ。"
+                "x": "CPL은 non-IT 직원과 진행자 역할을 맡는 IT 직원으로 AI Futures Council을 꾸렸다. AI 관련 결정에 직원들의 시각을 담으려는 취지다. 이사 Melanie Shakarian은 직원과 이용자를 함께 고려한 경영진에 고마움을 전했다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Bookend推AI编辑服务\n校对2周缩至30分钟",
-          "body": "Bookend的AI服务“Editorial”将图书校对从2周缩短到30分钟。",
-          "mini_headline": "AI把校对2周\n缩至30分钟",
+          "headline": "Cleveland公共图书馆\n通过AI政策",
+          "body": "Cleveland公共图书馆批准了AI政策，并成立AI Futures Council。",
+          "mini_headline": "Cleveland图书馆定下AI规则",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338795_1432.jpg",
-                "cap": "Bookend代表崔贤洙 [图片=Bookend]"
+                "src": "https://i0.wp.com/signalcleveland.org/wp-content/uploads/2022/10/20240117_165935-scaled.jpg?fit=780%2C585&ssl=1",
+                "cap": "Cleveland公共图书馆总馆的Louis Stokes翼楼"
               },
               {
                 "t": "p",
-                "x": "位于大德研究园区的出版社Bookend推出AI图书编辑服务“Editorial”，可将校对和审校所需时间从2周缩短至30分钟；该公司还于7日参加德国法兰克福国际书展，向海外出版业介绍了这项技术。"
+                "x": "CPL理事会批准了一项AI治理政策，自10月16日起生效。该政策将指导图书馆运营中如何使用AI，并可随技术变化每季度审查和修订。图书馆管理层已被要求制定实施程序。"
               },
               {
                 "t": "p",
-                "x": "崔贤洙代表解释说：“过去一轮校对和审校至少要2周到一个月，而Editorial约10分钟就能完成稿件审阅。”他还表示：“加上人工确认结果的时间，也就30分钟左右。”一份10万字的稿件外包约需100万韩元，而用Editorial约1万韩元即可处理。"
+                "x": "首席创新与技术官John Malcolm表示：“众所周知，AI从一开始就一直存在于技术的DNA中，如今它已能在消费者层面使用，我们理应——这也是最佳做法——制定一项政策。这项政策并非一成不变。它应当是动态的，并应定期审查。”"
               },
               {
                 "t": "p",
-                "x": "它不仅能找出错别字、助词和标点问题，还能发现不合语境的表达，并通过检索统计数据核实事实。结果以批注形式标在韩文（HWP）或PDF原文件上。它最多可处理50万字，并借助“风格分析”技术，在保留作者独特文风的同时，从头到尾采用同一标准。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338796_1436.jpg",
-                "cap": "Bookend在德国法兰克福国际书展上展示了自主研发的AI图书编辑技术。[图片=Bookend]"
-              },
-              {
-                "t": "p",
-                "x": "Bookend已出版约15种图书，售出4万册，并借助AI将出版周期从4个月缩短至2~3个月。它支持韩语、英语和德语，并计划增加日语。崔代表说：“很多人认同AI不是取代编辑，而是辅助编辑判断的方向。”其长期目标是打造连接出版全流程的“出版界的Figma”。"
+                "x": "CPL成立了AI Futures Council，成员包括non-IT员工以及担任协调人的IT员工，旨在将员工的观点纳入有关AI的决策。理事会成员Melanie Shakarian感谢领导层同时考虑到员工和读者。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Bookend corrige libros con AI:\nde 2 semanas a 30 minutos",
-          "body": "El servicio de AI 'Editorial' de Bookend redujo la corrección de libros de 2 semanas a 30 minutos.",
-          "mini_headline": "Corrección con AI:\nde 2 semanas a 30 minutos",
+          "headline": "Biblioteca Pública de Cleveland\nadopta una política de AI",
+          "body": "La junta de la Biblioteca Pública de Cleveland aprobó una política de AI, y la biblioteca creó un AI Futures Council.",
+          "mini_headline": "Cleveland fija reglas de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338795_1432.jpg",
-                "cap": "Choi Hyun-soo, director ejecutivo de Bookend [Foto=Bookend]"
+                "src": "https://i0.wp.com/signalcleveland.org/wp-content/uploads/2022/10/20240117_165935-scaled.jpg?fit=780%2C585&ssl=1",
+                "cap": "El ala Louis Stokes de la sede central de la Biblioteca Pública de Cleveland"
               },
               {
                 "t": "p",
-                "x": "Bookend, una editorial del complejo de investigación de Daedeok, presentó 'Editorial', un servicio de edición de libros con AI que reduce el tiempo de corrección y revisión de estilo de 2 semanas a 30 minutos, y el día 7 participó en la Feria Internacional del Libro de Fráncfort, en Alemania, para dar a conocer la tecnología a la industria editorial extranjera."
+                "x": "La Junta de Fideicomisarios de la CPL aprobó una política de gobernanza de AI, vigente desde el 16 de octubre. La política orientará el uso de la AI en las operaciones de la biblioteca y podría revisarse y modificarse cada trimestre a medida que cambie la tecnología. Se encargó a la administración de la biblioteca desarrollar procedimientos para su aplicación."
               },
               {
                 "t": "p",
-                "x": "El director ejecutivo, Choi Hyun-soo, explicó: \"Antes, una sola ronda de corrección y revisión llevaba al menos de 2 semanas a un mes, pero Editorial termina de revisar un manuscrito en unos 10 minutos\", y añadió: \"Aun sumando el tiempo que una persona dedica a comprobar los resultados, son unos 30 minutos\". Encargar fuera un manuscrito de 100,000 caracteres cuesta alrededor de 1 millón de wones, mientras que con Editorial puede hacerse por unos 10,000 wones."
+                "x": "El director de Innovación y Tecnología, John Malcolm: “Como sabemos, la AI siempre ha estado en el DNA de la tecnología desde el principio, y ahora que tiene un acceso a nivel de consumidor, deberíamos —como marcan las buenas prácticas— tener una política. Esta política no está escrita en piedra. Debe ser una política viva y revisarse con regularidad”."
               },
               {
                 "t": "p",
-                "x": "Además de erratas, partículas y signos de puntuación, detecta expresiones que no encajan en el contexto y verifica los hechos buscando estadísticas. Los resultados se añaden como notas en el archivo original en Hangul (HWP) o PDF. Procesa hasta 500,000 caracteres y, con su tecnología de 'análisis de estilo', conserva el estilo propio del autor mientras aplica el mismo criterio de principio a fin."
-              },
+                "x": "La CPL creó un AI Futures Council, que incluye empleados non-IT y personal de IT que actúa como facilitador. Su objetivo es incorporar la perspectiva del personal a las decisiones sobre AI. La integrante de la junta Melanie Shakarian agradeció a la dirección que tuviera en cuenta tanto al personal como a los usuarios."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Cleveland公共図書館\nAI方針を採択",
+          "body": "CPL理事会がAI方針を承認し、職員のAI Futures Councilを設けた。",
+          "mini_headline": "Cleveland図書館がAIルール策定",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338796_1436.jpg",
-                "cap": "Bookend presentó su tecnología propia de edición de libros con AI en la Feria Internacional del Libro de Fráncfort, en Alemania. [Foto=Bookend]"
+                "src": "https://i0.wp.com/signalcleveland.org/wp-content/uploads/2022/10/20240117_165935-scaled.jpg?fit=780%2C585&ssl=1",
+                "cap": "Cleveland Public Library本館のLouis Stokes Wing"
               },
               {
                 "t": "p",
-                "x": "Bookend ha publicado unos 15 títulos y vendido 40,000 ejemplares, y gracias a la AI redujo el plazo de publicación de 4 meses a 2-3 meses. Admite coreano, inglés y alemán, y planea añadir japonés. \"Muchos coincidieron con la idea de que la AI no sustituye al editor, sino que ayuda a su criterio\", contó Choi. Su objetivo a largo plazo es ser 'el Figma del sector editorial', que conecte todas las etapas de la publicación."
+                "x": "CPLの理事会（Board of Trustees）は、10月16日付で発効するAIガバナンス方針を承認した。この方針は図書館業務におけるAIの使い方の指針となり、技術の変化に応じて四半期ごとに見直し・改定される可能性がある。図書館の管理部門には、実施に向けた手順を策定するよう指示が出された。"
+              },
+              {
+                "t": "p",
+                "x": "最高イノベーション・技術責任者（Chief Innovation and Technology Officer）のJohn Malcolmはこう語る。「ご存じのとおり、AIは当初から技術のDNAの一部だった。そして今や消費者レベルで利用できるようになった以上、私たちは――ベストプラクティスとしても――方針を持つべきだ。この方針は確定したものではない。生きた方針であるべきで、定期的に見直されるべきだ」"
+              },
+              {
+                "t": "p",
+                "x": "CPLはAI Futures Councilを設置した。このメンバーにはnon-IT（IT部門以外）の職員と、進行役を務めるITスタッフが含まれる。AIに関する意思決定に職員の視点を取り入れることが目的だ。理事のMelanie Shakarianは、職員と利用者の双方に配慮した指導部に謝意を示した。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Bookend's AI editing service\ncuts 2-week proofing to 30 min",
-          "body": "Bookend's AI service 'Editorial' has cut book proofreading from 2 weeks to 30 minutes.",
-          "mini_headline": "AI cuts 2 weeks of\nproofreading to 30 minutes",
+        "ko": {
+          "headline": "Cleveland 도서관,\nAI 정책을 채택",
+          "body": "Cleveland 도서관이 AI 정책과 AI Futures Council을 갖췄다.",
+          "mini_headline": "Cleveland 도서관의 AI 규칙",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338795_1432.jpg",
-                "cap": "Choi Hyun-soo, CEO of Bookend [Photo=Bookend]"
+                "src": "https://i0.wp.com/signalcleveland.org/wp-content/uploads/2022/10/20240117_165935-scaled.jpg?fit=780%2C585&ssl=1",
+                "cap": "Cleveland 공공도서관 본관의 Louis Stokes 별관"
               },
               {
                 "t": "p",
-                "x": "Bookend, a publisher in the Daedeok Research Complex, has introduced 'Editorial', an AI book-editing service that cuts the time needed for proofreading and copyediting from 2 weeks to 30 minutes, and on the 7th it took part in the Frankfurt International Book Fair in Germany to present the technology to the overseas publishing industry."
+                "x": "CPL 이사회는 10월 16일부터 시행하는 AI 거버넌스 정책을 승인했다. 이 정책은 도서관 운영에서 AI를 어떻게 쓸지 안내하며, 기술 변화에 맞춰 분기마다 검토하고 고칠 수 있다. 도서관 행정부에는 시행 절차를 마련하라는 지시가 내려졌다."
               },
               {
                 "t": "p",
-                "x": "CEO Choi Hyun-soo explained, \"Previously, a single round of proofreading and copyediting took at least 2 weeks to a month, but Editorial finishes reviewing a manuscript in about 10 minutes,\" adding, \"Even including the time for a person to check the results, it's around 30 minutes.\" Outsourcing a 100,000-character manuscript costs about 1 million won, while Editorial can handle it for about 10,000 won."
+                "x": "최고혁신기술책임자 John Malcolm은 이렇게 말했다. “아시다시피 AI는 처음부터 늘 기술의 DNA 안에 있었고, 이제 소비자 수준에서 접근할 수 있게 된 만큼 우리는, 모범 관행이 그렇듯, 정책을 갖춰야 합니다. 이 정책은 돌에 새긴 것이 아닙니다. 살아 있는 정책이어야 하고, 정기적으로 검토해야 합니다.”"
               },
               {
                 "t": "p",
-                "x": "Beyond typos, particles and punctuation, it finds expressions that don't fit the context and checks facts by searching statistics. Results are attached as notes to the original Hangul (HWP) or PDF file. It handles up to 500,000 characters, and its 'style analysis' technology keeps the author's own voice while applying the same standard from beginning to end."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338796_1436.jpg",
-                "cap": "Bookend presented its in-house AI book-editing technology at the Frankfurt International Book Fair in Germany. [Photo=Bookend]"
-              },
-              {
-                "t": "p",
-                "x": "Bookend has published about 15 titles and sold 40,000 copies, and by using AI it has shortened its publishing time from 4 months to 2-3 months. It supports Korean, English and German and plans to add Japanese. \"Many people agreed with the direction that AI does not replace editors but supports their judgment,\" Choi said. The long-term goal is 'the Figma of publishing', connecting every step of the publishing process."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ブックエンドのAI編集\n校正2週間を30分に",
-          "body": "ブックエンドのAIサービス「エディトリアル」は書籍の校正を2週間から30分に短縮した。",
-          "mini_headline": "AIで校正2週間を\n30分に",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338795_1432.jpg",
-                "cap": "ブックエンドのチェ・ヒョンス代表 [写真=ブックエンド]"
-              },
-              {
-                "t": "p",
-                "x": "大徳研究団地の出版社ブックエンドは、校正・校閲にかかる時間を2週間から30分に短縮するAI書籍編集サービス「エディトリアル(Editorial)」を発表し、7日にはドイツのフランクフルト国際ブックフェアに参加して海外の出版業界にも技術を紹介した。"
-              },
-              {
-                "t": "p",
-                "x": "チェ・ヒョンス代表は「これまでは一回の校正・校閲に少なくとも2週間からひと月ほどかかっていたが、エディトリアルは約10分で原稿の確認を終える」とし、「人が結果を確認する時間を加えても30分前後だ」と説明した。10万字の原稿を外部に依頼すると約100万ウォンかかるが、エディトリアルなら約1万ウォンで処理できる。"
-              },
-              {
-                "t": "p",
-                "x": "誤字脱字や助詞、句読点だけでなく、文脈に合わない表現を見つけ、統計を検索して事実関係も確認する。結果はハングル(HWP)やPDFの原本にメモの形で付く。最大50万字まで処理でき、「スタイル分析」技術で作家固有の文体を生かしながら、最初から最後まで同じ基準を適用する。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338796_1436.jpg",
-                "cap": "ブックエンドは自社開発したAI書籍編集技術をドイツのフランクフルト国際ブックフェアで披露した。[写真=ブックエンド]"
-              },
-              {
-                "t": "p",
-                "x": "ブックエンドは約15点の本を出版して4万部を販売し、AIの活用で刊行期間を4か月から2~3か月に縮めた。韓国語・英語・ドイツ語に対応し、日本語も追加する計画だ。チェ代表は「AIが編集者に取って代わるのではなく、編集者の判断を助けるという方向性に共感する反応が多かった」と伝えた。長期目標は出版のあらゆる工程をつなぐ「出版界のFigma」だ。"
+                "x": "CPL은 non-IT 직원들과 진행자 역할을 맡는 IT 직원들로 구성된 AI Futures Council을 만들었다. AI 관련 결정에 직원들의 시각을 반영하려는 취지다. 이사 Melanie Shakarian은 직원과 이용자를 모두 고려한 경영진에 감사를 표했다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Bookend推AI编辑服务\n校对2周缩至30分钟",
-          "body": "Bookend的AI服务“Editorial”将图书校对从2周缩短到30分钟。",
-          "mini_headline": "AI把校对2周\n缩至30分钟",
+          "headline": "Cleveland公共图书馆\n通过AI政策",
+          "body": "Cleveland公共图书馆批准了AI政策，并成立AI Futures Council。",
+          "mini_headline": "Cleveland图书馆定下AI规则",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338795_1432.jpg",
-                "cap": "Bookend代表崔贤洙 [图片=Bookend]"
+                "src": "https://i0.wp.com/signalcleveland.org/wp-content/uploads/2022/10/20240117_165935-scaled.jpg?fit=780%2C585&ssl=1",
+                "cap": "Cleveland公共图书馆总馆的Louis Stokes翼楼"
               },
               {
                 "t": "p",
-                "x": "位于大德研究园区的出版社Bookend推出AI图书编辑服务“Editorial”，可将校对和审校所需时间从2周缩短至30分钟；该公司还于7日参加德国法兰克福国际书展，向海外出版业介绍了这项技术。"
+                "x": "CPL理事会批准了一项AI治理政策，自10月16日起生效。该政策将指导图书馆运营中如何使用AI，并可随技术变化每季度审查和修订。图书馆管理层已被要求制定实施程序。"
               },
               {
                 "t": "p",
-                "x": "崔贤洙代表解释说：“过去一轮校对和审校至少要2周到一个月，而Editorial约10分钟就能完成稿件审阅。”他还表示：“加上人工确认结果的时间，也就30分钟左右。”一份10万字的稿件外包约需100万韩元，而用Editorial约1万韩元即可处理。"
+                "x": "首席创新与技术官John Malcolm表示：“众所周知，AI从一开始就一直存在于技术的DNA中，如今它已能在消费者层面使用，我们理应——这也是最佳做法——制定一项政策。这项政策并非一成不变。它应当是动态的，并应定期审查。”"
               },
               {
                 "t": "p",
-                "x": "它不仅能找出错别字、助词和标点问题，还能发现不合语境的表达，并通过检索统计数据核实事实。结果以批注形式标在韩文（HWP）或PDF原文件上。它最多可处理50万字，并借助“风格分析”技术，在保留作者独特文风的同时，从头到尾采用同一标准。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338796_1436.jpg",
-                "cap": "Bookend在德国法兰克福国际书展上展示了自主研发的AI图书编辑技术。[图片=Bookend]"
-              },
-              {
-                "t": "p",
-                "x": "Bookend已出版约15种图书，售出4万册，并借助AI将出版周期从4个月缩短至2~3个月。它支持韩语、英语和德语，并计划增加日语。崔代表说：“很多人认同AI不是取代编辑，而是辅助编辑判断的方向。”其长期目标是打造连接出版全流程的“出版界的Figma”。"
+                "x": "CPL成立了AI Futures Council，成员包括non-IT员工以及担任协调人的IT员工，旨在将员工的观点纳入有关AI的决策。理事会成员Melanie Shakarian感谢领导层同时考虑到员工和读者。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Bookend corrige libros con AI:\nde 2 semanas a 30 minutos",
-          "body": "El servicio de AI 'Editorial' de Bookend redujo la corrección de libros de 2 semanas a 30 minutos.",
-          "mini_headline": "Corrección con AI:\nde 2 semanas a 30 minutos",
+          "headline": "Biblioteca Pública de Cleveland\nadopta una política de AI",
+          "body": "La junta de la Biblioteca Pública de Cleveland aprobó una política de AI, y la biblioteca creó un AI Futures Council.",
+          "mini_headline": "Cleveland fija reglas de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338795_1432.jpg",
-                "cap": "Choi Hyun-soo, director ejecutivo de Bookend [Foto=Bookend]"
+                "src": "https://i0.wp.com/signalcleveland.org/wp-content/uploads/2022/10/20240117_165935-scaled.jpg?fit=780%2C585&ssl=1",
+                "cap": "El ala Louis Stokes de la sede central de la Biblioteca Pública de Cleveland"
               },
               {
                 "t": "p",
-                "x": "Bookend, una editorial del complejo de investigación de Daedeok, presentó 'Editorial', un servicio de edición de libros con AI que reduce el tiempo de corrección y revisión de estilo de 2 semanas a 30 minutos, y el día 7 participó en la Feria Internacional del Libro de Fráncfort, en Alemania, para dar a conocer la tecnología a la industria editorial extranjera."
+                "x": "La Junta de Fideicomisarios de la CPL aprobó una política de gobernanza de AI, vigente desde el 16 de octubre. La política orientará el uso de la AI en las operaciones de la biblioteca y podría revisarse y modificarse cada trimestre a medida que cambie la tecnología. Se encargó a la administración de la biblioteca desarrollar procedimientos para su aplicación."
               },
               {
                 "t": "p",
-                "x": "El director ejecutivo, Choi Hyun-soo, explicó: \"Antes, una sola ronda de corrección y revisión llevaba al menos de 2 semanas a un mes, pero Editorial termina de revisar un manuscrito en unos 10 minutos\", y añadió: \"Aun sumando el tiempo que una persona dedica a comprobar los resultados, son unos 30 minutos\". Encargar fuera un manuscrito de 100,000 caracteres cuesta alrededor de 1 millón de wones, mientras que con Editorial puede hacerse por unos 10,000 wones."
+                "x": "El director de Innovación y Tecnología, John Malcolm: “Como sabemos, la AI siempre ha estado en el DNA de la tecnología desde el principio, y ahora que tiene un acceso a nivel de consumidor, deberíamos —como marcan las buenas prácticas— tener una política. Esta política no está escrita en piedra. Debe ser una política viva y revisarse con regularidad”."
               },
               {
                 "t": "p",
-                "x": "Además de erratas, partículas y signos de puntuación, detecta expresiones que no encajan en el contexto y verifica los hechos buscando estadísticas. Los resultados se añaden como notas en el archivo original en Hangul (HWP) o PDF. Procesa hasta 500,000 caracteres y, con su tecnología de 'análisis de estilo', conserva el estilo propio del autor mientras aplica el mismo criterio de principio a fin."
-              },
+                "x": "La CPL creó un AI Futures Council, que incluye empleados non-IT y personal de IT que actúa como facilitador. Su objetivo es incorporar la perspectiva del personal a las decisiones sobre AI. La integrante de la junta Melanie Shakarian agradeció a la dirección que tuviera en cuenta tanto al personal como a los usuarios."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Cleveland公共図書館\nAI方針を採択",
+          "body": "CPL理事会がAI方針を承認し、職員のAI Futures Councilを設けた。",
+          "mini_headline": "Cleveland図書館がAIルール策定",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338796_1436.jpg",
-                "cap": "Bookend presentó su tecnología propia de edición de libros con AI en la Feria Internacional del Libro de Fráncfort, en Alemania. [Foto=Bookend]"
+                "src": "https://i0.wp.com/signalcleveland.org/wp-content/uploads/2022/10/20240117_165935-scaled.jpg?fit=780%2C585&ssl=1",
+                "cap": "Cleveland Public Library本館のLouis Stokes Wing"
               },
               {
                 "t": "p",
-                "x": "Bookend ha publicado unos 15 títulos y vendido 40,000 ejemplares, y gracias a la AI redujo el plazo de publicación de 4 meses a 2-3 meses. Admite coreano, inglés y alemán, y planea añadir japonés. \"Muchos coincidieron con la idea de que la AI no sustituye al editor, sino que ayuda a su criterio\", contó Choi. Su objetivo a largo plazo es ser 'el Figma del sector editorial', que conecte todas las etapas de la publicación."
+                "x": "CPLの理事会（Board of Trustees）は、10月16日付で発効するAIガバナンス方針を承認した。この方針は図書館業務におけるAIの使い方の指針となり、技術の変化に応じて四半期ごとに見直し・改定される可能性がある。図書館の管理部門には、実施に向けた手順を策定するよう指示が出された。"
+              },
+              {
+                "t": "p",
+                "x": "最高イノベーション・技術責任者（Chief Innovation and Technology Officer）のJohn Malcolmはこう語る。「ご存じのとおり、AIは当初から技術のDNAの一部だった。そして今や消費者レベルで利用できるようになった以上、私たちは――ベストプラクティスとしても――方針を持つべきだ。この方針は確定したものではない。生きた方針であるべきで、定期的に見直されるべきだ」"
+              },
+              {
+                "t": "p",
+                "x": "CPLはAI Futures Councilを設置した。このメンバーにはnon-IT（IT部門以外）の職員と、進行役を務めるITスタッフが含まれる。AIに関する意思決定に職員の視点を取り入れることが目的だ。理事のMelanie Shakarianは、職員と利用者の双方に配慮した指導部に謝意を示した。"
               }
             ]
           }
@@ -1561,225 +1461,243 @@
       }
     },
     {
-      "id": "jemul-tupyo-ai-liveaction",
+      "id": "books-kl-ai-themesong",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "팬이 만든 AI 실사화\n유튜브 230만 회 돌파",
-      "body": "'제물 투표' AI 팬 실사화가 230만 회를 넘기며 저작권 논의를 키웠다.",
-      "mini_headline": "웹툰 AI 실사화\n230만 회",
+      "headline": "AI 테마곡으로\nK문학 해외 홍보",
+      "body": "KL매니지먼트 등은 해외 판권이 팔린 한국 문학 작품을 AI 테마곡으로 알린다.",
+      "mini_headline": "AI 노래로 K문학 홍보",
       "tool": "Books",
-      "source": "브릿지경제",
-      "url": "https://www.viva100.com/article/20261101500560",
+      "source": "아이뉴스24",
+      "url": "https://www.inews24.com/view/2022620",
       "accent": "#eb367f",
       "motif": "swatch",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500473.png",
-            "cap": "네이버웹툰 '제물투표' 기반 AI 실사화 영상. 페이지 픽쳐스 유튜브 갈무리"
-          },
-          {
             "t": "p",
-            "x": "유튜브 공개 한 달 반 만에 조회수 230만 회 돌파. 네이버웹툰 '제물 투표'를 인공지능(AI)으로 실사화한 영상 이야기다. 공식 제작 발표를 기다리지 않고 팬이나 영상 스튜디오가 AI로 인기 웹툰을 영화·드라마 형식으로 재해석해 내놓고 있다."
-          },
-          {
-            "t": "p",
-            "x": "'제물 투표'는 세트장·CG·배우 없이 AI로만 만들었다. 제작사에 따르면 기획부터 생성, 편집까지 약 358시간, 즉 보름 만에 완성됐다. '극야', '용사가 돌아왔다' 등 다른 네이버웹툰도 AI로 실사화됐다."
+            "x": "인공지능(AI) 교육 콘텐츠 기업 에듀클라우드닷컴이 출판 저작권 에이전시 KL매니지먼트와 한국 문학 작품을 AI 음악으로 재해석해 해외 독자에게 알리는 콘텐츠 사업을 추진한다고 4일 밝혔다."
           },
           {
             "t": "img",
-            "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500476.png",
-            "cap": "네이버웹툰 '남극' 기반 AI 실사화 영상. Fantasoner(판타소너) 유튜브 갈무리"
+            "src": "https://image.inews24.com/v1/ba07ee7b70508a.jpg",
+            "cap": "(왼쪽부터) 이구용 KL매니지먼트 대표, 조성훈 에듀클라우드닷컴 대표가 기념촬영을 하고 있다. [사진=에듀클라우드닷컴]"
           },
           {
             "t": "p",
-            "x": "대부분의 영상은 도입부만 실사화해 시청자를 원작 웹툰으로 이끈다. 그러나 팬의 애정이나 높은 조회수가 원작자의 허락을 뜻하지는 않는다. 비영리 목적이나 출처 표시만으로는 저작권 이용 허락 절차를 생략할 수 없고, 저작권과 2차적저작물작성권 문제가 불거질 수 있다."
+            "x": "양사는 최근 업무협약을 맺고 해외 판권 계약이 이뤄진 작품을 대상으로 영문 등 글로벌 홍보용 AI 음악을 제작하기로 했다. 작품 속 인물과 주요 장면, 메시지를 노래 가사와 테마곡으로 풀어내는 방식이다."
           },
           {
             "t": "p",
-            "x": "서범강 IP융복합산업협회장은 \"비상업적인 팬덤 활동은 특정 조건 아래 허용하되, 상업적 제작은 별도의 계약 절차를 마련하는 것이 좋다\"고 강조했다."
+            "x": "이번 협력의 핵심은 해외 판권 판매 자체보다, 작품의 해외 홍보를 지원할 AI 음악 콘텐츠를 공동으로 만드는 데 있다. 신작에는 초기 관심을 높일 홍보 수단으로, 기존 작품에는 독자에게 다시 발견될 계기를 만드는 콘텐츠로 활용한다는 구상이다."
+          },
+          {
+            "t": "p",
+            "x": "양사는 초·중·고교와 대학, 공공기관, 에듀테크 기업 등을 대상으로 한 소설 작가 발굴에도 협력한다. 에듀클라우드닷컴 파트너사를 대상으로 국내외 작품 성공 사례 강연을 지원하고, AI 음악을 음원 플랫폼에 유통하는 수익 모델도 검토한다."
+          },
+          {
+            "t": "p",
+            "x": "KL매니지먼트는 한국 문학의 해외 출간과 판권 수출을 중개하는 출판 저작권 에이전시다. 한강의 '채식주의자', 신경숙의 '엄마를 부탁해' 등을 비롯한 국내 작품의 해외 판권 판매 사례를 보유하고 있다. 에듀클라우드닷컴은 AI를 활용한 음악 교육 모델을 개발해 온 기업으로, 이번 협력을 통해 AI 음악 제작 기술을 문학·출판 콘텐츠로 확장한다는 계획이다."
+          },
+          {
+            "t": "p",
+            "x": "이구용 KL매니지먼트 대표는 \"에듀클라우드닷컴의 교육 분야 네트워크와 AI 음악 제작 기술을 활용해 새로운 사업을 만들 수 있을 것으로 기대한다\"고 말했다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "팬이 만든 AI 실사화\n유튜브 230만 회 돌파",
-          "body": "'제물 투표' AI 팬 실사화가 230만 회를 넘기며 저작권 논의를 키웠다.",
-          "mini_headline": "웹툰 AI 실사화\n230만 회",
+          "headline": "AI 테마곡으로\nK문학 해외 홍보",
+          "body": "KL매니지먼트 등은 해외 판권이 팔린 한국 문학 작품을 AI 테마곡으로 알린다.",
+          "mini_headline": "AI 노래로 K문학 홍보",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500473.png",
-                "cap": "네이버웹툰 '제물투표' 기반 AI 실사화 영상. 페이지 픽쳐스 유튜브 갈무리"
-              },
-              {
                 "t": "p",
-                "x": "유튜브 공개 한 달 반 만에 조회수 230만 회 돌파. 네이버웹툰 '제물 투표'를 인공지능(AI)으로 실사화한 영상 이야기다. 공식 제작 발표를 기다리지 않고 팬이나 영상 스튜디오가 AI로 인기 웹툰을 영화·드라마 형식으로 재해석해 내놓고 있다."
-              },
-              {
-                "t": "p",
-                "x": "'제물 투표'는 세트장·CG·배우 없이 AI로만 만들었다. 제작사에 따르면 기획부터 생성, 편집까지 약 358시간, 즉 보름 만에 완성됐다. '극야', '용사가 돌아왔다' 등 다른 네이버웹툰도 AI로 실사화됐다."
+                "x": "인공지능(AI) 교육 콘텐츠 기업 에듀클라우드닷컴이 출판 저작권 에이전시 KL매니지먼트와 한국 문학 작품을 AI 음악으로 재해석해 해외 독자에게 알리는 콘텐츠 사업을 추진한다고 4일 밝혔다."
               },
               {
                 "t": "img",
-                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500476.png",
-                "cap": "네이버웹툰 '남극' 기반 AI 실사화 영상. Fantasoner(판타소너) 유튜브 갈무리"
+                "src": "https://image.inews24.com/v1/ba07ee7b70508a.jpg",
+                "cap": "(왼쪽부터) 이구용 KL매니지먼트 대표, 조성훈 에듀클라우드닷컴 대표가 기념촬영을 하고 있다. [사진=에듀클라우드닷컴]"
               },
               {
                 "t": "p",
-                "x": "대부분의 영상은 도입부만 실사화해 시청자를 원작 웹툰으로 이끈다. 그러나 팬의 애정이나 높은 조회수가 원작자의 허락을 뜻하지는 않는다. 비영리 목적이나 출처 표시만으로는 저작권 이용 허락 절차를 생략할 수 없고, 저작권과 2차적저작물작성권 문제가 불거질 수 있다."
+                "x": "양사는 최근 업무협약을 맺고 해외 판권 계약이 이뤄진 작품을 대상으로 영문 등 글로벌 홍보용 AI 음악을 제작하기로 했다. 작품 속 인물과 주요 장면, 메시지를 노래 가사와 테마곡으로 풀어내는 방식이다."
               },
               {
                 "t": "p",
-                "x": "서범강 IP융복합산업협회장은 \"비상업적인 팬덤 활동은 특정 조건 아래 허용하되, 상업적 제작은 별도의 계약 절차를 마련하는 것이 좋다\"고 강조했다."
+                "x": "이번 협력의 핵심은 해외 판권 판매 자체보다, 작품의 해외 홍보를 지원할 AI 음악 콘텐츠를 공동으로 만드는 데 있다. 신작에는 초기 관심을 높일 홍보 수단으로, 기존 작품에는 독자에게 다시 발견될 계기를 만드는 콘텐츠로 활용한다는 구상이다."
+              },
+              {
+                "t": "p",
+                "x": "양사는 초·중·고교와 대학, 공공기관, 에듀테크 기업 등을 대상으로 한 소설 작가 발굴에도 협력한다. 에듀클라우드닷컴 파트너사를 대상으로 국내외 작품 성공 사례 강연을 지원하고, AI 음악을 음원 플랫폼에 유통하는 수익 모델도 검토한다."
+              },
+              {
+                "t": "p",
+                "x": "KL매니지먼트는 한국 문학의 해외 출간과 판권 수출을 중개하는 출판 저작권 에이전시다. 한강의 '채식주의자', 신경숙의 '엄마를 부탁해' 등을 비롯한 국내 작품의 해외 판권 판매 사례를 보유하고 있다. 에듀클라우드닷컴은 AI를 활용한 음악 교육 모델을 개발해 온 기업으로, 이번 협력을 통해 AI 음악 제작 기술을 문학·출판 콘텐츠로 확장한다는 계획이다."
+              },
+              {
+                "t": "p",
+                "x": "이구용 KL매니지먼트 대표는 \"에듀클라우드닷컴의 교육 분야 네트워크와 AI 음악 제작 기술을 활용해 새로운 사업을 만들 수 있을 것으로 기대한다\"고 말했다."
               }
             ]
           }
         },
         "en": {
-          "headline": "Fan-made AI live-action webtoon\ntops 2.3 million YouTube views",
-          "body": "A fan-made AI live-action take on 'Jemul Tupyo' passed 2.3 million views, fueling debate over copyright.",
-          "mini_headline": "AI webtoon adaptation\nhits 2.3 million views",
+          "headline": "AI theme songs promote\nK-literature overseas",
+          "body": "KL Management and a partner will use AI theme songs to promote Korean books whose foreign rights have sold.",
+          "mini_headline": "AI songs promote K-literature",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500473.png",
-                "cap": "An AI live-action video based on Naver Webtoon's 'Jemul Tupyo'. Screenshot from the Page Pictures YouTube channel"
-              },
-              {
                 "t": "p",
-                "x": "2.3 million views on YouTube within a month and a half of release. That is the story of a video that adapts Naver Webtoon's 'Jemul Tupyo' into live action with artificial intelligence (AI). Without waiting for official production announcements, fans and video studios are using AI to reinterpret popular webtoons as films and dramas."
-              },
-              {
-                "t": "p",
-                "x": "'Jemul Tupyo' was made with AI alone, without sets, CG or actors. According to the producer, it was completed in about 358 hours, or half a month, from planning through generation and editing. Other Naver Webtoon titles such as 'Geukya' and 'Yongsaga Dorawatda' have also been adapted into live action with AI."
+                "x": "AI (artificial intelligence) education content company EduCloud.com announced on the 4th that it will pursue a content business with publishing rights agency KL Management that reinterprets Korean literary works as AI music to introduce them to overseas readers."
               },
               {
                 "t": "img",
-                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500476.png",
-                "cap": "An AI live-action video based on Naver Webtoon's 'Namgeuk'. Screenshot from the Fantasoner YouTube channel"
+                "src": "https://image.inews24.com/v1/ba07ee7b70508a.jpg",
+                "cap": "(From left) KL Management CEO Lee Ku-yong and EduCloud.com CEO Cho Sung-hoon pose for a commemorative photo. [Photo=EduCloud.com]"
               },
               {
                 "t": "p",
-                "x": "Most of the videos adapt only the opening into live action, steering viewers to the original webtoon. But fans' affection or high view counts do not mean the original creator's permission. A non-profit purpose or a credit alone cannot replace the copyright licensing process, and issues of copyright and the right to create derivative works can arise."
+                "x": "The two companies recently signed a business agreement to produce AI music for global promotion, in English and other languages, for works whose overseas rights have been sold. The approach turns the characters, key scenes and messages of each work into song lyrics and theme songs."
               },
               {
                 "t": "p",
-                "x": "Seo Beom-gang, chairman of the IP Convergence Industry Association, stressed, \"It would be good to allow non-commercial fandom activities under certain conditions, while setting up a separate contract process for commercial production.\""
+                "x": "The core of the partnership lies less in selling overseas rights themselves than in jointly creating AI music content to support the works' promotion abroad. The plan is to use it as a promotional tool to build early interest in new titles, and as content that gives readers a reason to rediscover existing ones."
+              },
+              {
+                "t": "p",
+                "x": "The two companies will also cooperate in discovering fiction writers through elementary, middle and high schools, universities, public institutions and edtech companies. They will support lectures on domestic and international success stories for EduCloud.com's partners, and are also reviewing a revenue model that distributes the AI music on music streaming platforms."
+              },
+              {
+                "t": "p",
+                "x": "KL Management is a publishing rights agency that brokers overseas publication and rights exports of Korean literature. It has sold overseas rights for Korean works including Han Kang's 'The Vegetarian' and Shin Kyung-sook's 'Please Look After Mom.' EduCloud.com is a company that has been developing AI-based music education models, and plans to extend its AI music production technology to literary and publishing content through this partnership."
+              },
+              {
+                "t": "p",
+                "x": "KL Management CEO Lee Ku-yong said, \"We expect to be able to create a new business by using EduCloud.com's network in education and its AI music production technology.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "ファンが作ったAI実写化\n再生230万回を突破",
-          "body": "「生贄投票」のAIファン実写化が230万回を超え、著作権論議を呼んだ。",
-          "mini_headline": "ウェブトゥーンAI実写化\n230万回",
+          "headline": "AIテーマ曲で\nK文学を海外に発信",
+          "body": "KLマネジメントなどは海外版権が売れた韓国文学をAIテーマ曲で紹介する。",
+          "mini_headline": "AIの歌でK文学をPR",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500473.png",
-                "cap": "ネイバーウェブトゥーン「生贄投票」をもとにしたAI実写化映像。ページピクチャーズのYouTubeより"
-              },
-              {
                 "t": "p",
-                "x": "YouTube公開から一か月半で再生回数230万回を突破。ネイバーウェブトゥーン「生贄投票」を人工知能(AI)で実写化した映像の話だ。公式の制作発表を待たずに、ファンや映像スタジオがAIで人気ウェブトゥーンを映画・ドラマ形式に再解釈して公開している。"
-              },
-              {
-                "t": "p",
-                "x": "「生贄投票」はセットもCGも俳優も使わず、AIだけで作られた。制作会社によると、企画から生成、編集まで約358時間、つまり半月で完成した。「極夜」「勇者が帰ってきた」など、ほかのネイバーウェブトゥーン作品もAIで実写化されている。"
+                "x": "人工知能（AI）教育コンテンツ企業のエデュクラウドドットコムは4日、出版著作権エージェンシーのKLマネジメントと、韓国文学作品をAI音楽として再解釈し海外の読者に届けるコンテンツ事業を進めると発表した。"
               },
               {
                 "t": "img",
-                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500476.png",
-                "cap": "ネイバーウェブトゥーン「南極」をもとにしたAI実写化映像。Fantasoner(ファンタソナー)のYouTubeより"
+                "src": "https://image.inews24.com/v1/ba07ee7b70508a.jpg",
+                "cap": "（左から）KLマネジメントのイ・グヨン代表、エデュクラウドドットコムのチョ・ソンフン代表が記念撮影をしている。［写真＝エデュクラウドドットコム］"
               },
               {
                 "t": "p",
-                "x": "大半の映像は冒頭部分だけを実写化し、視聴者を原作ウェブトゥーンへ誘導する。しかしファンの愛情や高い再生回数が、原作者の許可を意味するわけではない。非営利目的や出典表示だけでは著作権の利用許諾手続きを省略できず、著作権や2次的著作物作成権の問題が生じうる。"
+                "x": "両社は最近業務協約を結び、海外版権契約が成立した作品を対象に、英語などによるグローバル広報用のAI音楽を制作することにした。作品の登場人物や主要な場面、メッセージを歌詞やテーマ曲に落とし込む方式だ。"
               },
               {
                 "t": "p",
-                "x": "ソ・ボムガンIP融複合産業協会会長は「非商業的なファンダム活動は特定の条件のもとで認め、商業的な制作には別途の契約手続きを設けるのがよい」と強調した。"
+                "x": "今回の協力の核心は、海外版権の販売そのものよりも、作品の海外広報を支えるAI音楽コンテンツを共同で作ることにある。新作には初期の関心を高める広報手段として、既刊作品には読者に再発見されるきっかけとなるコンテンツとして活用する構想だ。"
+              },
+              {
+                "t": "p",
+                "x": "両社は小・中・高校や大学、公共機関、エドテック企業などを対象にした小説家の発掘でも協力する。エデュクラウドドットコムのパートナー企業を対象に国内外作品の成功事例の講演を支援し、AI音楽を音楽配信プラットフォームで流通させる収益モデルも検討する。"
+              },
+              {
+                "t": "p",
+                "x": "KLマネジメントは、韓国文学の海外出版と版権輸出を仲介する出版著作権エージェンシーだ。ハン・ガンの『菜食主義者』、シン・ギョンスクの『母をお願い』をはじめ、国内作品の海外版権販売の実績を持つ。エデュクラウドドットコムはAIを活用した音楽教育モデルを開発してきた企業で、今回の協力を通じてAI音楽制作技術を文学・出版コンテンツへ広げる計画だ。"
+              },
+              {
+                "t": "p",
+                "x": "KLマネジメントのイ・グヨン代表は「エデュクラウドドットコムの教育分野のネットワークとAI音楽制作技術を活用し、新しい事業をつくれると期待している」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "粉丝用AI制作真人版\nYouTube播放破230万",
-          "body": "《祭品投票》的AI粉丝真人版播放量破230万，引发更多版权讨论。",
-          "mini_headline": "网漫AI真人化\n230万次",
+          "headline": "用AI主题曲\n向海外推广K文学",
+          "body": "KL Management等公司将用AI主题曲推广已售出海外版权的韩国文学作品。",
+          "mini_headline": "用AI歌曲推广K文学",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500473.png",
-                "cap": "基于Naver Webtoon《祭品投票》的AI真人版视频。截图自Page Pictures的YouTube频道"
-              },
-              {
                 "t": "p",
-                "x": "在YouTube发布一个半月，播放量突破230万次。这说的是用人工智能（AI）将Naver Webtoon《祭品投票》真人化的视频。粉丝和视频工作室不等官方宣布制作，就用AI把热门网漫重新演绎成电影、电视剧的形式发布。"
-              },
-              {
-                "t": "p",
-                "x": "《祭品投票》没有布景、CG和演员，完全由AI制作。据制作方介绍，从策划到生成、剪辑约用了358小时，即半个月完成。《极夜》《勇者回来了》等其他Naver Webtoon作品也被用AI真人化。"
+                "x": "人工智能（AI）教育内容企业EduCloud.com于4日宣布，将与出版版权代理机构KL Management合作，推进把韩国文学作品重新诠释为AI音乐、向海外读者推介的内容业务。"
               },
               {
                 "t": "img",
-                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500476.png",
-                "cap": "基于Naver Webtoon《南极》的AI真人版视频。截图自Fantasoner的YouTube频道"
+                "src": "https://image.inews24.com/v1/ba07ee7b70508a.jpg",
+                "cap": "（从左至右）KL Management代表Lee Ku-yong、EduCloud.com代表Cho Sung-hoon合影留念。[图片=EduCloud.com]"
               },
               {
                 "t": "p",
-                "x": "大多数视频只把开头部分真人化，把观众引向原作网漫。但粉丝的喜爱或高播放量并不代表原作者的许可。仅凭非营利目的或注明出处，并不能省去著作权使用许可程序，还可能引发著作权和2次衍生作品创作权问题。"
+                "x": "两家公司近期签署业务合作协议，决定以已签订海外版权合同的作品为对象，制作英文等全球推广用AI音乐。具体方式是把作品中的人物、主要场景和信息写进歌词和主题曲。"
               },
               {
                 "t": "p",
-                "x": "IP融合产业协会会长徐范江强调：“非商业性的粉丝活动可在特定条件下允许，商业制作则最好另行建立合同程序。”"
+                "x": "此次合作的核心并不在于海外版权销售本身，而在于共同制作支持作品海外推广的AI音乐内容。设想是将其作为新书提升初期关注度的推广手段，并作为让读者重新发现既有作品的内容。"
+              },
+              {
+                "t": "p",
+                "x": "两家公司还将合作面向中小学、大学、公共机构和教育科技企业等发掘小说作者。双方将为EduCloud.com的合作伙伴提供国内外作品成功案例讲座支持，并研究将AI音乐发行到音乐平台的盈利模式。"
+              },
+              {
+                "t": "p",
+                "x": "KL Management是一家为韩国文学海外出版和版权输出提供中介服务的出版版权代理机构，拥有韩江《素食者》、申京淑《请照顾好我妈妈》等国内作品的海外版权销售案例。EduCloud.com是一家一直在开发运用AI的音乐教育模式的企业，计划通过此次合作将AI音乐制作技术拓展至文学和出版内容。"
+              },
+              {
+                "t": "p",
+                "x": "KL Management代表Lee Ku-yong表示：\"期待借助EduCloud.com在教育领域的网络和AI音乐制作技术，开创新的业务。\""
               }
             ]
           }
         },
         "es": {
-          "headline": "Adaptación con AI hecha por fans\nsupera 2.3 millones en YouTube",
-          "body": "Una versión real de 'Jemul Tupyo' hecha con AI por fans superó 2.3 millones de vistas y avivó el debate del copyright.",
-          "mini_headline": "Webtoon con AI:\n2.3 millones de vistas",
+          "headline": "Canciones creadas con AI\npromueven la K-literatura",
+          "body": "KL Management y un socio promocionarán con canciones de AI obras coreanas cuyos derechos se vendieron al extranjero.",
+          "mini_headline": "Canciones de AI para la K-literatura",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500473.png",
-                "cap": "Video de adaptación real con AI basado en 'Jemul Tupyo' de Naver Webtoon. Captura del canal de YouTube de Page Pictures"
-              },
-              {
                 "t": "p",
-                "x": "2.3 millones de visualizaciones en YouTube en un mes y medio desde su publicación. Es la historia de un video que adapta a imagen real con inteligencia artificial (AI) el webtoon 'Jemul Tupyo' de Naver Webtoon. Sin esperar anuncios oficiales de producción, fans y estudios de video reinterpretan con AI webtoons populares en formato de película o serie."
-              },
-              {
-                "t": "p",
-                "x": "'Jemul Tupyo' se hizo solo con AI, sin decorados, CG ni actores. Según la productora, se completó en unas 358 horas, es decir, medio mes, desde la planificación hasta la generación y la edición. Otros webtoons de Naver Webtoon, como 'Geukya' y 'Yongsaga Dorawatda', también se han adaptado a imagen real con AI."
+                "x": "La empresa de contenidos educativos de inteligencia artificial (AI) EduCloud.com anunció el día 4 que impulsará, junto con la agencia de derechos editoriales KL Management, un negocio de contenidos que reinterpreta obras de la literatura coreana como música de AI para darlas a conocer a lectores de otros países."
               },
               {
                 "t": "img",
-                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500476.png",
-                "cap": "Video de adaptación real con AI basado en 'Namgeuk' de Naver Webtoon. Captura del canal de YouTube de Fantasoner"
+                "src": "https://image.inews24.com/v1/ba07ee7b70508a.jpg",
+                "cap": "(Desde la izquierda) Lee Ku-yong, director ejecutivo de KL Management, y Cho Sung-hoon, director ejecutivo de EduCloud.com, posan para una foto conmemorativa. [Foto=EduCloud.com]"
               },
               {
                 "t": "p",
-                "x": "La mayoría de los videos solo adapta a imagen real el inicio y dirige a los espectadores al webtoon original. Pero el cariño de los fans o un gran número de vistas no equivalen al permiso del autor original. Un fin no lucrativo o la sola mención de la fuente no permiten omitir el trámite de autorización de derechos de autor, y pueden surgir problemas de derechos de autor y del derecho a crear obras derivadas."
+                "x": "Ambas empresas firmaron hace poco un acuerdo de colaboración y decidieron producir música de AI para la promoción global, en inglés y otros idiomas, de obras cuyos derechos en el extranjero ya se han vendido. El método consiste en convertir los personajes, las escenas principales y el mensaje de cada obra en letras de canciones y temas musicales."
               },
               {
                 "t": "p",
-                "x": "Seo Beom-gang, presidente de la Asociación de la Industria de Convergencia IP, subrayó: \"Conviene permitir las actividades de fans no comerciales bajo ciertas condiciones y establecer un procedimiento de contrato aparte para la producción comercial\"."
+                "x": "El núcleo de esta colaboración no está tanto en la venta de derechos en el extranjero como en crear conjuntamente contenidos musicales de AI que apoyen la promoción internacional de las obras. La idea es usarlos como herramienta promocional para despertar interés inicial en las novedades y, en las obras ya publicadas, como contenido que dé a los lectores ocasión de redescubrirlas."
+              },
+              {
+                "t": "p",
+                "x": "Las dos empresas también colaborarán en la búsqueda de novelistas en escuelas primarias y secundarias, universidades, instituciones públicas y empresas de tecnología educativa. Apoyarán charlas sobre casos de éxito de obras nacionales y extranjeras para los socios de EduCloud.com y estudian además un modelo de ingresos basado en distribuir la música de AI en plataformas de streaming."
+              },
+              {
+                "t": "p",
+                "x": "KL Management es una agencia de derechos editoriales que intermedia en la publicación en el extranjero y la exportación de derechos de la literatura coreana. Cuenta con ventas de derechos al extranjero de obras como 'La vegetariana', de Han Kang, y 'Por favor, cuida de mamá', de Shin Kyung-sook. EduCloud.com es una empresa que ha desarrollado modelos de educación musical con AI y, con esta colaboración, prevé extender su tecnología de producción musical con AI a contenidos literarios y editoriales."
+              },
+              {
+                "t": "p",
+                "x": "Lee Ku-yong, director ejecutivo de KL Management, dijo: \"Esperamos poder crear un nuevo negocio aprovechando la red de EduCloud.com en el ámbito educativo y su tecnología de producción de música con AI\"."
               }
             ]
           }
@@ -1787,145 +1705,157 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "Fan-made AI live-action webtoon\ntops 2.3 million YouTube views",
-          "body": "A fan-made AI live-action take on 'Jemul Tupyo' passed 2.3 million views, fueling debate over copyright.",
-          "mini_headline": "AI webtoon adaptation\nhits 2.3 million views",
+          "headline": "AI theme songs promote\nK-literature overseas",
+          "body": "KL Management and a partner will use AI theme songs to promote Korean books whose foreign rights have sold.",
+          "mini_headline": "AI songs promote K-literature",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500473.png",
-                "cap": "An AI live-action video based on Naver Webtoon's 'Jemul Tupyo'. Screenshot from the Page Pictures YouTube channel"
-              },
-              {
                 "t": "p",
-                "x": "2.3 million views on YouTube within a month and a half of release. That is the story of a video that adapts Naver Webtoon's 'Jemul Tupyo' into live action with artificial intelligence (AI). Without waiting for official production announcements, fans and video studios are using AI to reinterpret popular webtoons as films and dramas."
-              },
-              {
-                "t": "p",
-                "x": "'Jemul Tupyo' was made with AI alone, without sets, CG or actors. According to the producer, it was completed in about 358 hours, or half a month, from planning through generation and editing. Other Naver Webtoon titles such as 'Geukya' and 'Yongsaga Dorawatda' have also been adapted into live action with AI."
+                "x": "AI (artificial intelligence) education content company EduCloud.com announced on the 4th that it will pursue a content business with publishing rights agency KL Management that reinterprets Korean literary works as AI music to introduce them to overseas readers."
               },
               {
                 "t": "img",
-                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500476.png",
-                "cap": "An AI live-action video based on Naver Webtoon's 'Namgeuk'. Screenshot from the Fantasoner YouTube channel"
+                "src": "https://image.inews24.com/v1/ba07ee7b70508a.jpg",
+                "cap": "(From left) KL Management CEO Lee Ku-yong and EduCloud.com CEO Cho Sung-hoon pose for a commemorative photo. [Photo=EduCloud.com]"
               },
               {
                 "t": "p",
-                "x": "Most of the videos adapt only the opening into live action, steering viewers to the original webtoon. But fans' affection or high view counts do not mean the original creator's permission. A non-profit purpose or a credit alone cannot replace the copyright licensing process, and issues of copyright and the right to create derivative works can arise."
+                "x": "The two companies recently signed a business agreement to produce AI music for global promotion, in English and other languages, for works whose overseas rights have been sold. The approach turns the characters, key scenes and messages of each work into song lyrics and theme songs."
               },
               {
                 "t": "p",
-                "x": "Seo Beom-gang, chairman of the IP Convergence Industry Association, stressed, \"It would be good to allow non-commercial fandom activities under certain conditions, while setting up a separate contract process for commercial production.\""
+                "x": "The core of the partnership lies less in selling overseas rights themselves than in jointly creating AI music content to support the works' promotion abroad. The plan is to use it as a promotional tool to build early interest in new titles, and as content that gives readers a reason to rediscover existing ones."
+              },
+              {
+                "t": "p",
+                "x": "The two companies will also cooperate in discovering fiction writers through elementary, middle and high schools, universities, public institutions and edtech companies. They will support lectures on domestic and international success stories for EduCloud.com's partners, and are also reviewing a revenue model that distributes the AI music on music streaming platforms."
+              },
+              {
+                "t": "p",
+                "x": "KL Management is a publishing rights agency that brokers overseas publication and rights exports of Korean literature. It has sold overseas rights for Korean works including Han Kang's 'The Vegetarian' and Shin Kyung-sook's 'Please Look After Mom.' EduCloud.com is a company that has been developing AI-based music education models, and plans to extend its AI music production technology to literary and publishing content through this partnership."
+              },
+              {
+                "t": "p",
+                "x": "KL Management CEO Lee Ku-yong said, \"We expect to be able to create a new business by using EduCloud.com's network in education and its AI music production technology.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "ファンが作ったAI実写化\n再生230万回を突破",
-          "body": "「生贄投票」のAIファン実写化が230万回を超え、著作権論議を呼んだ。",
-          "mini_headline": "ウェブトゥーンAI実写化\n230万回",
+          "headline": "AIテーマ曲で\nK文学を海外に発信",
+          "body": "KLマネジメントなどは海外版権が売れた韓国文学をAIテーマ曲で紹介する。",
+          "mini_headline": "AIの歌でK文学をPR",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500473.png",
-                "cap": "ネイバーウェブトゥーン「生贄投票」をもとにしたAI実写化映像。ページピクチャーズのYouTubeより"
-              },
-              {
                 "t": "p",
-                "x": "YouTube公開から一か月半で再生回数230万回を突破。ネイバーウェブトゥーン「生贄投票」を人工知能(AI)で実写化した映像の話だ。公式の制作発表を待たずに、ファンや映像スタジオがAIで人気ウェブトゥーンを映画・ドラマ形式に再解釈して公開している。"
-              },
-              {
-                "t": "p",
-                "x": "「生贄投票」はセットもCGも俳優も使わず、AIだけで作られた。制作会社によると、企画から生成、編集まで約358時間、つまり半月で完成した。「極夜」「勇者が帰ってきた」など、ほかのネイバーウェブトゥーン作品もAIで実写化されている。"
+                "x": "人工知能（AI）教育コンテンツ企業のエデュクラウドドットコムは4日、出版著作権エージェンシーのKLマネジメントと、韓国文学作品をAI音楽として再解釈し海外の読者に届けるコンテンツ事業を進めると発表した。"
               },
               {
                 "t": "img",
-                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500476.png",
-                "cap": "ネイバーウェブトゥーン「南極」をもとにしたAI実写化映像。Fantasoner(ファンタソナー)のYouTubeより"
+                "src": "https://image.inews24.com/v1/ba07ee7b70508a.jpg",
+                "cap": "（左から）KLマネジメントのイ・グヨン代表、エデュクラウドドットコムのチョ・ソンフン代表が記念撮影をしている。［写真＝エデュクラウドドットコム］"
               },
               {
                 "t": "p",
-                "x": "大半の映像は冒頭部分だけを実写化し、視聴者を原作ウェブトゥーンへ誘導する。しかしファンの愛情や高い再生回数が、原作者の許可を意味するわけではない。非営利目的や出典表示だけでは著作権の利用許諾手続きを省略できず、著作権や2次的著作物作成権の問題が生じうる。"
+                "x": "両社は最近業務協約を結び、海外版権契約が成立した作品を対象に、英語などによるグローバル広報用のAI音楽を制作することにした。作品の登場人物や主要な場面、メッセージを歌詞やテーマ曲に落とし込む方式だ。"
               },
               {
                 "t": "p",
-                "x": "ソ・ボムガンIP融複合産業協会会長は「非商業的なファンダム活動は特定の条件のもとで認め、商業的な制作には別途の契約手続きを設けるのがよい」と強調した。"
+                "x": "今回の協力の核心は、海外版権の販売そのものよりも、作品の海外広報を支えるAI音楽コンテンツを共同で作ることにある。新作には初期の関心を高める広報手段として、既刊作品には読者に再発見されるきっかけとなるコンテンツとして活用する構想だ。"
+              },
+              {
+                "t": "p",
+                "x": "両社は小・中・高校や大学、公共機関、エドテック企業などを対象にした小説家の発掘でも協力する。エデュクラウドドットコムのパートナー企業を対象に国内外作品の成功事例の講演を支援し、AI音楽を音楽配信プラットフォームで流通させる収益モデルも検討する。"
+              },
+              {
+                "t": "p",
+                "x": "KLマネジメントは、韓国文学の海外出版と版権輸出を仲介する出版著作権エージェンシーだ。ハン・ガンの『菜食主義者』、シン・ギョンスクの『母をお願い』をはじめ、国内作品の海外版権販売の実績を持つ。エデュクラウドドットコムはAIを活用した音楽教育モデルを開発してきた企業で、今回の協力を通じてAI音楽制作技術を文学・出版コンテンツへ広げる計画だ。"
+              },
+              {
+                "t": "p",
+                "x": "KLマネジメントのイ・グヨン代表は「エデュクラウドドットコムの教育分野のネットワークとAI音楽制作技術を活用し、新しい事業をつくれると期待している」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "粉丝用AI制作真人版\nYouTube播放破230万",
-          "body": "《祭品投票》的AI粉丝真人版播放量破230万，引发更多版权讨论。",
-          "mini_headline": "网漫AI真人化\n230万次",
+          "headline": "用AI主题曲\n向海外推广K文学",
+          "body": "KL Management等公司将用AI主题曲推广已售出海外版权的韩国文学作品。",
+          "mini_headline": "用AI歌曲推广K文学",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500473.png",
-                "cap": "基于Naver Webtoon《祭品投票》的AI真人版视频。截图自Page Pictures的YouTube频道"
-              },
-              {
                 "t": "p",
-                "x": "在YouTube发布一个半月，播放量突破230万次。这说的是用人工智能（AI）将Naver Webtoon《祭品投票》真人化的视频。粉丝和视频工作室不等官方宣布制作，就用AI把热门网漫重新演绎成电影、电视剧的形式发布。"
-              },
-              {
-                "t": "p",
-                "x": "《祭品投票》没有布景、CG和演员，完全由AI制作。据制作方介绍，从策划到生成、剪辑约用了358小时，即半个月完成。《极夜》《勇者回来了》等其他Naver Webtoon作品也被用AI真人化。"
+                "x": "人工智能（AI）教育内容企业EduCloud.com于4日宣布，将与出版版权代理机构KL Management合作，推进把韩国文学作品重新诠释为AI音乐、向海外读者推介的内容业务。"
               },
               {
                 "t": "img",
-                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500476.png",
-                "cap": "基于Naver Webtoon《南极》的AI真人版视频。截图自Fantasoner的YouTube频道"
+                "src": "https://image.inews24.com/v1/ba07ee7b70508a.jpg",
+                "cap": "（从左至右）KL Management代表Lee Ku-yong、EduCloud.com代表Cho Sung-hoon合影留念。[图片=EduCloud.com]"
               },
               {
                 "t": "p",
-                "x": "大多数视频只把开头部分真人化，把观众引向原作网漫。但粉丝的喜爱或高播放量并不代表原作者的许可。仅凭非营利目的或注明出处，并不能省去著作权使用许可程序，还可能引发著作权和2次衍生作品创作权问题。"
+                "x": "两家公司近期签署业务合作协议，决定以已签订海外版权合同的作品为对象，制作英文等全球推广用AI音乐。具体方式是把作品中的人物、主要场景和信息写进歌词和主题曲。"
               },
               {
                 "t": "p",
-                "x": "IP融合产业协会会长徐范江强调：“非商业性的粉丝活动可在特定条件下允许，商业制作则最好另行建立合同程序。”"
+                "x": "此次合作的核心并不在于海外版权销售本身，而在于共同制作支持作品海外推广的AI音乐内容。设想是将其作为新书提升初期关注度的推广手段，并作为让读者重新发现既有作品的内容。"
+              },
+              {
+                "t": "p",
+                "x": "两家公司还将合作面向中小学、大学、公共机构和教育科技企业等发掘小说作者。双方将为EduCloud.com的合作伙伴提供国内外作品成功案例讲座支持，并研究将AI音乐发行到音乐平台的盈利模式。"
+              },
+              {
+                "t": "p",
+                "x": "KL Management是一家为韩国文学海外出版和版权输出提供中介服务的出版版权代理机构，拥有韩江《素食者》、申京淑《请照顾好我妈妈》等国内作品的海外版权销售案例。EduCloud.com是一家一直在开发运用AI的音乐教育模式的企业，计划通过此次合作将AI音乐制作技术拓展至文学和出版内容。"
+              },
+              {
+                "t": "p",
+                "x": "KL Management代表Lee Ku-yong表示：\"期待借助EduCloud.com在教育领域的网络和AI音乐制作技术，开创新的业务。\""
               }
             ]
           }
         },
         "es": {
-          "headline": "Adaptación con AI hecha por fans\nsupera 2.3 millones en YouTube",
-          "body": "Una versión real de 'Jemul Tupyo' hecha con AI por fans superó 2.3 millones de vistas y avivó el debate del copyright.",
-          "mini_headline": "Webtoon con AI:\n2.3 millones de vistas",
+          "headline": "Canciones creadas con AI\npromueven la K-literatura",
+          "body": "KL Management y un socio promocionarán con canciones de AI obras coreanas cuyos derechos se vendieron al extranjero.",
+          "mini_headline": "Canciones de AI para la K-literatura",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500473.png",
-                "cap": "Video de adaptación real con AI basado en 'Jemul Tupyo' de Naver Webtoon. Captura del canal de YouTube de Page Pictures"
-              },
-              {
                 "t": "p",
-                "x": "2.3 millones de visualizaciones en YouTube en un mes y medio desde su publicación. Es la historia de un video que adapta a imagen real con inteligencia artificial (AI) el webtoon 'Jemul Tupyo' de Naver Webtoon. Sin esperar anuncios oficiales de producción, fans y estudios de video reinterpretan con AI webtoons populares en formato de película o serie."
-              },
-              {
-                "t": "p",
-                "x": "'Jemul Tupyo' se hizo solo con AI, sin decorados, CG ni actores. Según la productora, se completó en unas 358 horas, es decir, medio mes, desde la planificación hasta la generación y la edición. Otros webtoons de Naver Webtoon, como 'Geukya' y 'Yongsaga Dorawatda', también se han adaptado a imagen real con AI."
+                "x": "La empresa de contenidos educativos de inteligencia artificial (AI) EduCloud.com anunció el día 4 que impulsará, junto con la agencia de derechos editoriales KL Management, un negocio de contenidos que reinterpreta obras de la literatura coreana como música de AI para darlas a conocer a lectores de otros países."
               },
               {
                 "t": "img",
-                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500476.png",
-                "cap": "Video de adaptación real con AI basado en 'Namgeuk' de Naver Webtoon. Captura del canal de YouTube de Fantasoner"
+                "src": "https://image.inews24.com/v1/ba07ee7b70508a.jpg",
+                "cap": "(Desde la izquierda) Lee Ku-yong, director ejecutivo de KL Management, y Cho Sung-hoon, director ejecutivo de EduCloud.com, posan para una foto conmemorativa. [Foto=EduCloud.com]"
               },
               {
                 "t": "p",
-                "x": "La mayoría de los videos solo adapta a imagen real el inicio y dirige a los espectadores al webtoon original. Pero el cariño de los fans o un gran número de vistas no equivalen al permiso del autor original. Un fin no lucrativo o la sola mención de la fuente no permiten omitir el trámite de autorización de derechos de autor, y pueden surgir problemas de derechos de autor y del derecho a crear obras derivadas."
+                "x": "Ambas empresas firmaron hace poco un acuerdo de colaboración y decidieron producir música de AI para la promoción global, en inglés y otros idiomas, de obras cuyos derechos en el extranjero ya se han vendido. El método consiste en convertir los personajes, las escenas principales y el mensaje de cada obra en letras de canciones y temas musicales."
               },
               {
                 "t": "p",
-                "x": "Seo Beom-gang, presidente de la Asociación de la Industria de Convergencia IP, subrayó: \"Conviene permitir las actividades de fans no comerciales bajo ciertas condiciones y establecer un procedimiento de contrato aparte para la producción comercial\"."
+                "x": "El núcleo de esta colaboración no está tanto en la venta de derechos en el extranjero como en crear conjuntamente contenidos musicales de AI que apoyen la promoción internacional de las obras. La idea es usarlos como herramienta promocional para despertar interés inicial en las novedades y, en las obras ya publicadas, como contenido que dé a los lectores ocasión de redescubrirlas."
+              },
+              {
+                "t": "p",
+                "x": "Las dos empresas también colaborarán en la búsqueda de novelistas en escuelas primarias y secundarias, universidades, instituciones públicas y empresas de tecnología educativa. Apoyarán charlas sobre casos de éxito de obras nacionales y extranjeras para los socios de EduCloud.com y estudian además un modelo de ingresos basado en distribuir la música de AI en plataformas de streaming."
+              },
+              {
+                "t": "p",
+                "x": "KL Management es una agencia de derechos editoriales que intermedia en la publicación en el extranjero y la exportación de derechos de la literatura coreana. Cuenta con ventas de derechos al extranjero de obras como 'La vegetariana', de Han Kang, y 'Por favor, cuida de mamá', de Shin Kyung-sook. EduCloud.com es una empresa que ha desarrollado modelos de educación musical con AI y, con esta colaboración, prevé extender su tecnología de producción musical con AI a contenidos literarios y editoriales."
+              },
+              {
+                "t": "p",
+                "x": "Lee Ku-yong, director ejecutivo de KL Management, dijo: \"Esperamos poder crear un nuevo negocio aprovechando la red de EduCloud.com en el ámbito educativo y su tecnología de producción de música con AI\"."
               }
             ]
           }

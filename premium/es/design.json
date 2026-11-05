@@ -10635,6 +10635,160 @@
           "x": "Autom8Labs también puede crear y probar habilidades personalizadas para empresas AEC, basadas en sus plantillas, estándares y controles de aprobación."
         }
       ]
+    },
+    "design/gemini-canvas-sketch-to-app": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Muchas buenas ideas de apps empiezan en papel. Conviértelas en herramientas interactivas con Gemini. Así se hace."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Bring_your_paper_sketches_to_life_with_Gemini_no-end_inline_oRRbgSH.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Sube a Gemini una foto de tu boceto, como una maqueta de app, un registro de hábitos o un tablero de juego."
+        },
+        {
+          "t": "p",
+          "x": "Selecciona la herramienta Canvas y pregunta a Gemini: \"Can you code this app?\" (¿Puedes programar esta app?). Gemini lee tu imagen y escribe el código."
+        },
+        {
+          "t": "p",
+          "x": "Prueba tu herramienta en la ventana de vista previa. Gemini puede ajustar colores, fuentes o funciones en tiempo real."
+        },
+        {
+          "t": "p",
+          "x": "La próxima vez que llegue la inspiración, hazla realidad con Gemini."
+        }
+      ]
+    },
+    "design/autodesk-au2026-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/AU2026_DEMO-AutoAssemble.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En Autodesk University 2026, Autodesk presentó una ambición de AI que va más allá de herramientas más rápidas: un Assistant conectado que decide cómo resolver tareas en tu nombre. El CEO Andrew Anagnost lo definió como ‘Project Intelligence’, un “cerebro conectado en el centro que reúne cada dato, cada decisión y cada disciplina”."
+        },
+        {
+          "t": "p",
+          "x": "El anuncio principal: Autodesk Assistant estará disponible como una “experiencia independiente y centrada en agentes, que abarca todos los productos”. Aún está en desarrollo y se espera que se lance el próximo año; los Assistants integrados en Revit, AutoCAD y Fusion seguirán ampliándose."
+        },
+        {
+          "t": "p",
+          "x": "Por debajo están Autodesk Context, construido a partir de las decisiones que toma una empresa, y AI Orchestrator, que elige “qué modelo de AI es el más adecuado para la tarea según precisión, velocidad, seguridad y coste” entre modelos Autodesk-built, Claude, OpenAI y modelos de pesos abiertos."
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/Raji-Arasu-img.jpg",
+          "cap": "Raji Arasu, CTO de Autodesk"
+        },
+        {
+          "t": "p",
+          "x": "En la zona de la Expo, los tres principales fabricantes de estaciones de trabajo mostraron AI realmente local: HP y Perplexity hicieron funcionar el servidor oficial Revit 2027 MCP con un LLM local en una sola máquina, Nvidia mostró modelado autónomo para Revit y Fusion en hardware de Dell, y Lenovo ejecutó una interfaz agéntica para AutoCAD Civil 3D."
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/Nvidia-Agentic-Fusion-2.img_.jpg",
+          "cap": "Autodesk Fusion Agentic Demo de Nvidia"
+        },
+        {
+          "t": "p",
+          "x": "Autodesk está trasladando su propuesta de valor de las herramientas a los resultados. No se espera el Assistant de nueva generación hasta algún momento del próximo año."
+        }
+      ]
+    },
+    "design/smashing-llm-chat-a11y": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A medida que el patrón de chat con LLM se propaga como la pólvora por la web, corremos el riesgo de excluir a personas si estas experiencias no se construyen con la accesibilidad como consideración central. Eric Bailey, que ha ayudado a mejorar la accesibilidad de varias experiencias inmersivas de chat con LLM —experiencias a pantalla completa como Claude, ChatGPT, GitHub Copilot y Gemini—, comparte lo aprendido."
+        },
+        {
+          "t": "p",
+          "x": "Usa anuncios mediante live region: una live region dedicada al final del DOM, no aria-live en cada mensaje. Anuncia solo el mensaje completo y anuncia “Loading” unos cinco segundos después de enviar un prompt, repitiéndolo cada cinco segundos hasta que llegue la respuesta."
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/live-region-do-dont.png",
+          "cap": "Sí: usar un área de live region dedicada. No: aplicar aria-live a cada mensaje."
+        },
+        {
+          "t": "p",
+          "x": "Inserta encabezados visualmente ocultos como “You said:” y “Cody said:” antes de cada mensaje del chat, usa landmarks pero sin abusar, añade enlaces de salto y convierte las listas de conversaciones en widgets compuestos navegables con las teclas de flecha."
+        },
+        {
+          "t": "p",
+          "x": "Evita el patrón de feed y considera admitir la navegación con Control+F6 para que las personas puedan saltar del campo de entrada del chat a la última respuesta del LLM y volver."
+        }
+      ]
+    },
+    "design/uxc-design-systems-mcp-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*er_HyzWo0FVdfLtEexv7KQ.jpeg",
+          "cap": "¿Cuál es el papel humano en la creación y el mantenimiento de un sistema de diseño en la era de la AI? Crédito: Anna Lefour con Gemini."
+        },
+        {
+          "t": "p",
+          "x": "Anna Lefour entrevistó a tres expertos en diseño —Marianne Ashton-Booth (ITV), David Sward (Siemens) y Nicolas Chatelain— sobre cómo la AI está cambiando la forma en que construimos y mantenemos los sistemas de diseño."
+        },
+        {
+          "t": "p",
+          "x": "La AI automatiza la parte fácil, pero la difícil sigue correspondiendo a las personas: “Cualquiera puede montar prototipos en minutos”, dice Ashton-Booth. Lo que importa es la coherencia entre equipos, y esa es la parte humana de un sistema de diseño."
+        },
+        {
+          "t": "p",
+          "x": "El cuello de botella ha pasado de la velocidad de producción a la revisión. “Mi mayor problema es intentar que la gente vaya más despacio con la AI”, dijo David Sward."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*-Qfue98f02kXx1XxjHGXqA.png",
+          "cap": "Este extracto del informe de Kaelig Deloumeau-Prigent muestra las capacidades de los sistemas que analizó"
+        },
+        {
+          "t": "p",
+          "x": "El sistema de diseño se está convirtiendo en algo que la AI lee. En un estudio de campo publicado en julio de 2026, Kaelig Deloumeau-Prigent examinó 21 sistemas de diseño de código abierto: 20 ofrecen un servidor MCP (oficial o creado por la comunidad), pero solo 3 han configurado Figma Code Connect."
+        },
+        {
+          "t": "p",
+          "x": "Lefour concluye que el código, más que el archivo de diseño, se está convirtiendo en la fuente de verdad."
+        }
+      ]
+    },
+    "design/chatgpt-animated-gifs-images": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ChatGPT ya puede crear GIFs a partir de una instrucción o de una foto subida al chatbot de AI. La actualización, que se despliega junto con el nuevo modelo Images 2.6 de OpenAI, permite ajustar la velocidad de animación del GIF, editar fotogramas individuales y compartirlo con otras personas."
+        },
+        {
+          "t": "p",
+          "x": "Antes de este cambio, ChatGPT no podía generar GIFs de forma nativa en un solo paso. Un ejemplo compartido por la empresa muestra cómo ChatGPT genera un GIF en respuesta a la instrucción “can you make a gif of a cat dancing?” (¿puedes hacer un gif de un gato bailando?) y ofrece además la opción de cambiar la velocidad de reproducción y verlo fotograma a fotograma."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GIF.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "Se puede ajustar la velocidad y editar fotogramas directamente en ChatGPT."
+        },
+        {
+          "t": "p",
+          "x": "Además del soporte para GIF-making, la actualización Images 2.6 también acelera la generación de imágenes en ChatGPT, según OpenAI. La empresa afirma que los usuarios generan ahora más de 4 mil millones de imágenes por semana entre ChatGPT y su API, frente a los 3 mil millones semanales que reportó en septiembre."
+        },
+        {
+          "t": "p",
+          "x": "Images 2.6 se está desplegando para todos los usuarios de ChatGPT y Codex en la web, el escritorio y las aplicaciones móviles. OpenAI también lanza GPT-Image-2.6 Flare y Sunburst en su API para una generación de imágenes más rápida y de mayor calidad."
+        }
+      ]
     }
   }
 }

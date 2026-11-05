@@ -1,31 +1,31 @@
 {
-  "date": "2026-11-05",
-  "section": "music",
-  "media": [
-    {
-      "id": "suno-midi-create-upload",
-      "type": "image",
-      "src": "pipeline/media/suno-midi-create-upload.jpg"
-    },
-    {
-      "id": "izotope-photon-gpu-stems",
-      "type": "image",
-      "src": "pipeline/media/izotope-photon-gpu-stems.jpg"
-    },
-    {
-      "id": "youtube-replace-song-expand",
-      "type": "image",
-      "src": "pipeline/media/youtube-replace-song-expand.jpg"
-    },
-    {
-      "id": "music-ai-detector-false-positives",
-      "type": "image",
-      "src": "pipeline/media/music-ai-detector-false-positives.jpg"
-    },
-    {
-      "id": "mlc-udio-subpoena-opposition",
-      "type": "image",
-      "src": "pipeline/media/mlc-udio-subpoena-opposition.jpg"
-    }
-  ]
+ "date": "2026-11-06",
+ "section": "music",
+ "media": [
+  {
+   "id": "splice-create-ai-daw",
+   "type": "image",
+   "src": "pipeline/media/splice-create-ai-daw.png"
+  },
+  {
+   "id": "avid-protools-sixstem-split",
+   "type": "image",
+   "src": "pipeline/media/avid-protools-sixstem-split.jpg"
+  },
+  {
+   "id": "elevenlabs-soundcloud-publish",
+   "type": "image",
+   "src": "pipeline/media/elevenlabs-soundcloud-publish.jpg"
+  },
+  {
+   "id": "ddex-elevenlabs-membership",
+   "type": "image",
+   "src": "pipeline/media/ddex-elevenlabs-membership.jpg"
+  },
+  {
+   "id": "pianobench-arxiv-benchmark",
+   "type": "image",
+   "src": "pipeline/media/pianobench-arxiv-benchmark.png"
+  }
+ ]
 }

@@ -1,101 +1,96 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "section": "science",
   "items": [
     {
-      "title": "Vulnerable users fear losing 'AI companions' to software updates",
-      "url": "https://techxplore.com/news/2026-11-vulnerable-users-ai-companions-software.html",
-      "source": "Tech Xplore",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "subtopic": "psychology",
-      "rationale": "Peer-reviewed study (Psychology & Marketing): Surrey and Cardiff researchers analysed 1,131 Replika forum posts and surveyed 610 US adults. Perceived company control and emotional capability of AI companions were linked to both well-being and vulnerability. A new human-AI relationship finding not covered in the 30-day history.",
-      "published_iso": "2026-11-03T11:00:01-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
-      "excerpt": "University of Surrey and Cardiff researchers analysed 1,131 Replika forum posts and surveyed 610 US adults, finding perceived company control and emotional capability of AI companions tied to both well-being and vulnerability (Psychology & Marketing)."
+      "title": "Earth atmosphere emulators could enable faster and more accurate weather predictions",
+      "url": "https://phys.org/news/2026-11-earth-atmosphere-emulators-enable-faster.html",
+      "source": "Phys.org",
+      "published_iso": "2026-11-04T00:00:00-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula.jpg",
+      "excerpt": "Lawrence Livermore National Laboratory researchers, with DOE, NVIDIA and Los Alamos, train deep neural-network emulators such as STRATA on output from the physics-based E3SM model so they can predict atmospheric states without solving the equations; ML emulators for cloud microphysics and turbulence (STITCH) are also in development.",
+      "rationale": "Named national-lab ML emulators (STRATA, STITCH) trained on E3SM; new climate/weather-modeling work, distinct from earlier Ai2/Google and seasonal-forecast stories."
     },
     {
-      "title": "IBM Quantum and QuICS Deploy AI Agents to Discover Over 500 High-Efficiency Magic-State Factories",
-      "url": "https://quantumcomputingreport.com/ibm-quantum-and-quics-deploy-ai-agents-to-discover-over-500-high-efficiency-magic-state-factories/",
-      "source": "Quantum Computing Report",
-      "tool": "Science",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "subtopic": "quantum",
-      "rationale": "AI agents plus deterministic solvers found 500+ new magic-state factories that cut resource costs for fault-tolerant quantum computing. A concrete AI-for-discovery result from IBM and QuICS.",
-      "published_iso": "2026-11-04T16:20:05+00:00",
-      "og_image": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-10.png",
-      "excerpt": "IBM Quantum and QuICS researchers used AI agents plus deterministic solvers to discover more than 500 new magic-state factories that produce non-Clifford states with significantly lower resource requirements for fault-tolerant quantum computing."
-    },
-    {
-      "title": "Ai2 and Google collaborate on a new generation of climate models",
-      "url": "https://allenai.org/blog/google-climate-partnership",
-      "source": "Ai2",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "subtopic": "physics",
-      "rationale": "Primary-source announcement of NeuralGCM+, an open-source hybrid physics-AI model that couples atmosphere and ocean for long-term climate projections. A new model program, not the earlier HiRO-ACEv2 weather release.",
-      "published_iso": "2026-11-04T00:00:00-08:00",
-      "og_image": "https://www.datocms-assets.com/64837/1793638961-neuralgcm-announcement-blog-draft-google-docs-image-1.jpg",
-      "excerpt": "With Google.org funding and Google Research support, Ai2 is building NeuralGCM+, an open-source hybrid physics-AI model that simulates atmosphere and ocean together for faster, more reliable long-term climate projections."
+      "title": "Exoplanets Can't Hide From The JWST's 'Digital Twin'",
+      "url": "https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin",
+      "source": "Universe Today",
+      "published_iso": "2026-11-05T12:42:40+00:00",
+      "og_image": "https://www.universetoday.com/article_images/STScI-01F3NW8E6TFNH2PDM8S6CSVA3P_20261104_225248.jpg",
+      "excerpt": "FLIP (Physics-based Learning for Imaging Planets) builds a differentiable 'digital twin' of JWST's optics, borrowing machine-learning optimization to strip starlight far more precisely and reveal a giant planet hidden in two-year-old data.",
+      "rationale": "New named method (FLIP) that recovers a hidden planet from archival JWST data; adds astronomy and a third outlet."
     },
     {
-      "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
-      "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
-      "source": "Quanta Magazine",
       "tool": "Science",
-      "accent": "#eb367f",
+      "accent": "#0070f3",
       "motif": "sphere",
-      "subtopic": "cognition",
-      "rationale": "Quanta on concept-injection experiments that test whether LLMs can notice and report their own internal states. A fresh angle on machine introspection, not covered in the 30-day history.",
-      "published_iso": "2026-11-04T15:32:52+00:00",
-      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg",
-      "excerpt": "By injecting 'thoughts' directly into large language models' internal activations, researchers are probing whether AI systems can introspect on and report their own internal states."
+      "title": "AI learns to predict the world without ever seeing it",
+      "url": "https://techxplore.com/news/2026-11-ai-world.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-11-05T11:40:20-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-learns-to-predict-t.jpg",
+      "excerpt": "A Tel Aviv University and Stanford study asks whether a system can develop general learning capabilities without any exposure to real-world data, training models on synthetic inputs instead of books, images and recordings.",
+      "rationale": "Fresh cognition/learning-theory result: general learning from purely synthetic data, relevant to how models acquire world knowledge."
     },
     {
-      "title": "Chinese software that produces ready-to-publish research papers in under two hours threatens peer-review system",
-      "url": "https://phys.org/news/2026-11-chinese-software-ready-publish-papers.html",
-      "source": "Phys.org",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "subtopic": "research_automation",
-      "rationale": "NTNU study finds vendors selling tools that turn public health databases into publication-ready papers in under two hours, and 99% of the papers examined shared no code. A new research-integrity finding.",
-      "published_iso": "2026-11-02T12:00:00-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/stacks-of-papers.jpg",
-      "excerpt": "NTNU researchers found Chinese vendors selling software and AI writing tools that turn public health databases into publication-ready papers in under two hours; 99% of examined papers shared no code, threatening peer review and reproducibility."
+      "title": "A sweeter future? AI helps scientists discover new sugar substitutes",
+      "url": "https://phys.org/news/2026-11-sweeter-future-ai-scientists-sugar.html",
+      "source": "Phys.org",
+      "published_iso": "2026-11-05T12:40:10-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-sweeter-future-ai-he.jpg",
+      "excerpt": "Hebrew University of Jerusalem researchers built a computational framework combining AI and molecular modeling that screened more than 50 million compounds and identified 92 promising sugar-substitute candidates (Food Chemistry).",
+      "rationale": "Concrete AI-driven molecular screening (50M compounds -> 92 candidates) in food chemistry; distinct materials/chemistry category."
+    },
+    {
+      "tool": "Science",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "title": "How 'reverse game theory' could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "source": "MIT Technology Review",
+      "published_iso": "2026-11-03T05:43:41-05:00",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg?resize=1200,600",
+      "excerpt": "AI safety researchers are borrowing mechanism design from economics to control AI agents' behavior through incentives, even without understanding the models' internals.",
+      "rationale": "Research-direction piece on mechanism design for agent alignment; credible outlet, adds a fourth outlet and cross-disciplinary angle."
     }
   ],
   "dedup": {
     "checks": {
-      "https://techxplore.com/news/2026-11-vulnerable-users-ai-companions-software.html": {
+      "https://phys.org/news/2026-11-earth-atmosphere-emulators-enable-faster.html": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-10-ai-chatbots-delusions.html",
+        "nearest": "https://allenai.org/blog/google-climate-partnership",
         "new_action": ""
       },
-      "https://quantumcomputingreport.com/ibm-quantum-and-quics-deploy-ai-agents-to-discover-over-500-high-efficiency-magic-state-factories/": {
+      "https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin": {
         "verdict": "new",
-        "nearest": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/",
+        "nearest": "https://www.scientificamerican.com/article/amateur-astronomer-harnesses-ai-to-find-a-possible-hidden-exoplanet/",
         "new_action": ""
       },
-      "https://allenai.org/blog/google-climate-partnership": {
+      "https://techxplore.com/news/2026-11-ai-world.html": {
         "verdict": "new",
-        "nearest": "https://allenai.org/blog/hiro-acev2",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/": {
+      "https://phys.org/news/2026-11-sweeter-future-ai-scientists-sugar.html": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-10-neural-network-ai-chatbots-humans.html",
+        "nearest": "",
         "new_action": ""
       },
-      "https://phys.org/news/2026-11-chinese-software-ready-publish-papers.html": {
+      "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/": {
         "verdict": "new",
-        "nearest": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
+        "nearest": "https://techxplore.com/news/2026-10-simple-math-formula-ai-chatbots.html",
         "new_action": ""
       }
     },
-    "note": "Pool of 17, no cluster ids. Checked against the 30-day history_digest. REPLACEMENT (11-05): the Phys.org AlphaFold 3 immune-interaction pick (MHC-peptide-TCR, tuberculosis antigens) was removed because it halted the pipeline at a safety classifier; per the rules it was swapped, not reworded. Replacement: Tech Xplore 'Vulnerable users fear losing AI companions to software updates' (Replika and user-wellbeing study, no biological content). The exact URL is absent from published_urls.json in every section; I checked the techxplore/t-range of the books, design, gadgets, games, marketing, medicine, movies, music, politics and science blocks. No AI-companion card appears in the 30-day science history. The nearest is the 10-23 chatbot-delusions card, which is a different study. Not chosen as the replacement: chatbot personality (JGU Mainz), which overlaps the 10-19 chatbot-personality card and the Quanta cognition pick; image-based abuse survey, a sensitive topic and a weaker AI x science fit. Earlier drops still stand: Live Science AI motivation (same study as the 10-10 EurekAlert card), SYNAPS-I X-ray (same story line as the 10-07 card), FirstQFM (company claim, finance), SuperMatics (startup profile), Pritzker prize (award; antibiotic-discovery bio topic), MIT TR mechanism design (analysis), Live Science 'could AI build itself' (evergreen), Physics World biosignatures (evergreen), NVIDIA SETI blog (vendor, off-list). Outlets: Tech Xplore 1, Quantum Computing Report 1, Ai2 1, Quanta 1, Phys.org 1."
+    "note": "SWAP 2026-11-06: removed 'AlphaFold 3 predicts complex immune interactions' (Phys.org) because a content classifier halted its translation twice (and the 11-05 run). It was replaced by LLNL atmosphere emulators (Phys.org, so Phys.org has 2 picks, which is within the cap). Emulators dedup: the nearest weather/climate-AI history is the 11-05 Ai2+Google climate-model partnership, the 10-15 HiRO-ACEv2 and phys.org AI-enhanced S2S weather model, and the 10-07 flash-flood diffusion forecasts. These come from different institutions with different models and events; LLNL's STRATA/STITCH E3SM emulators are a distinct story. Tech Xplore optical-hardware AI and SYNAPS-I X-ray were not used as the replacement because they are running-story risks (related to the 10-13 light-offloading and 10-07 agentic X-ray stories). Earlier choices are unchanged. FLIP history_match (GEN hybrid digital twins, 10-12) is only overlapping wording; its nearest real neighbour is the 10-15 SciAm amateur-astronomer exoplanet story (different team and method). Dropped: 'Is AI making you lazier?' (Live Science), which covers the same motivation-loss study as the 10-10 EurekAlert story. Excluded as medicine-facing: Stanford 'natural Ozempic' BRP and the GEN bird-flu H5 vaccine. Excluded off-list nature.com items. Lower priority: Pritzker prize, Live Science recursive self-improvement explainer, SciAm voice-clone explainer."
   }
 }

@@ -10802,6 +10802,143 @@
           "x": "Live Rewind is processed on-device; Siri Recap summaries are created through Private Cloud Compute. The features require an iPhone 16 or later with Apple Intelligence and Siri AI, are English only to begin with, and watchOS 27.3 is expected in December alongside iOS 27.3."
         }
       ]
+    },
+    "gadgets/motorola-signature27-gemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Motorola is adopting Google’s Gemini Intelligence features in the first major expansion beyond Pixel, with Gboard’s Rambler and more supported. While Google’s Gemini Intelligence is technically supporting Samsung’s latest Galaxy devices too, it’s Motorola that’s opening the floodgates beyond the Pixel lineup. The new Motorola Signature 27 is officially getting support for the bulk of Google’s new features, including “Create My Widget” which, so far, has only been available on Googlebook."
+        },
+        {
+          "t": "p",
+          "x": "“Create My Widget” allows users to describe the functionality they want in a widget to Gemini before the AI spits out a functional widget. Motorola confirmed it will be available out of the box on the November 19 launch date."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Create-My-Widget-7.jpg?quality=82&strip=all&w=800"
+        },
+        {
+          "t": "p",
+          "x": "Gboard Rambler cleans up filler words in long voice-to-text prompts and can add formatting, while Sign-to-Text translates American Sign Language via video to English text. Gemini task automation lets the AI run tasks through supported apps such as Uber and DoorDash in the background."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-on-Pixel-11.jpg?quality=82&strip=all&w=800"
+        },
+        {
+          "t": "p",
+          "x": "Motorola Signature 27 pre-orders are open now, with the flagship priced at $1,599 in the US."
+        }
+      ]
+    },
+    "gadgets/samsung-xr-glasses-preorder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
+          "cap": "A person holding the Samsung Warby Parker smart glasses"
+        },
+        {
+          "t": "p",
+          "x": "Samsung Android XR smart glasses are nearly here, with pre-orders now confirmed to open on November 12. The audio-based smart glasses, developed in collaboration with Google, will feature frames from Warby Parker and Gentle Monster. We’re still waiting for details on pricing and shipping dates."
+        },
+        {
+          "t": "p",
+          "x": "We know to expect an audio-first Android XR experience — Samsung models with integrated displays will have to wait. Recent rumors have suggested that the glasses will ultimately ship sometime in December. You won’t be paying anything like the $1,800 the bulky Samsung Galaxy XR headset runs, but these could still end up costing you as much as a decent phone."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg",
+          "cap": "The Samsung smart glasses designed by Warby Parker"
+        },
+        {
+          "t": "p",
+          "x": "Shoppers can look forward to using the smart glasses for help navigating around town, assisting with translations, or just chatting with Gemini to get information. They’re also equipped with cameras, and Samsung lights up an LED while recording and refuses to film if it detects the LED has been covered."
+        }
+      ]
+    },
+    "gadgets/subvocal-silent-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Subvocal smart glasses use radar to track your mouth movements"
+        },
+        {
+          "t": "p",
+          "x": "Typing has always been a bottleneck between what we think and how quickly we can communicate it to a computer. AI-powered dictation tools like Wispr Flow have made things considerably better, but talking to your computer in a quiet office, a library, or a cafe tends to attract attention. A startup called The Subvocal Company has developed a pair of smart glasses that promise to turn silent mouth movements into text at over 200 words per minute."
+        },
+        {
+          "t": "p",
+          "x": "According to the company, its glasses send radar signals through your face. When you silently form words, tiny movements in your speech muscles change how those signals bounce back. An AI model then interprets those changes and turns them into text. There’s no camera involved. You still have to deliberately mouth the words, though."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses.jpg?resize=1728%2C1037&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "The startup says it has raised $1.3 million from Y Combinator and Afore Capital and is accepting reservations in the US at an early-bird price of $499, with a refundable $199 deposit. Shipping is expected to begin in the first quarter of 2027. The typing speeds haven’t been independently verified."
+        }
+      ]
+    },
+    "gadgets/gadgets-gboard-rambler-learns": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
+          "cap": "Using Gboard's Rambler on the Pixel 11 Pro."
+        },
+        {
+          "t": "p",
+          "x": "The latest beta of the Gboard app includes evidence that suggests Rambler, the Gemini-powered voice typing feature, could soon remember corrected words and names on your contacts list. In its current form, Rambler cannot save any corrections or learn from your vocabulary over time."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Remember-corrected-words-watermarked-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In version 18.6.3.10 beta, Rambler could get a new Remember corrected words toggle: “Learn and use words you’ve corrected when voice typing with Rambler.” A new Contact names toggle looks at the contacts on your phone to accurately identify names during voice typing."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Voice-Correction-List-Import-Export-watermarked-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A new Voice correction list shows all corrected words, with Import to manually add words for Rambler to learn and Export to share them. A Clear all collected words button erases every saved correction. Rambler currently remains exclusive to the Pixel 11 series."
+        }
+      ]
+    },
+    "gadgets/nothing-screenfree-ai-device": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+          "cap": "Photo: Dominic Preston / The Verge"
+        },
+        {
+          "t": "p",
+          "x": "Nothing CEO Carl Pei said in a post on X that the company’s launching its first AI device in December. That’s just a little over a year after Pei announced plans for “AI-native” devices and an AI operating system. He didn’t give away much about what exactly the new device is, only that one feature it won’t have is a screen:"
+        },
+        {
+          "t": "p",
+          "x": "“Our first AI-native product ships next month. It’s a tool, but one built with the personality and care that have come to define a Nothing product. It has no new screen, and it couldn’t have been an app.”"
+        },
+        {
+          "t": "p",
+          "x": "Pei shared an image with the post that says “NOTHING(R)” in the top left corner, above an ambiguous black rounded corner. Last month, a rumor claimed Nothing is planning to launch two pairs of AI smart glasses, including one without cameras, and an earlier rumor said it’s “repositioning itself as an AI-first company” with a shift to AI accessories."
+        },
+        {
+          "t": "p",
+          "x": "Nothing’s AI device wouldn’t be the first screen-free AI gadget, following the likes of the Humane AI pin, the Friend, and even AI stuffed animals. OpenAI is also reportedly working on an AI smart speaker with Jony Ive. Pei alluded to earlier AI devices, saying, “the whole industry is hunting for its iPhone moment: the pendant, the pin, the glasses, the companion, some magical consumer device that makes AI part of everyone’s life.” He added, “Looking for the iPhone of AI today is a dead end.”"
+        }
+      ]
     }
   }
 }

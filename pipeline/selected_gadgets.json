@@ -1,106 +1,96 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "section": "gadgets",
   "items": [
     {
-      "rank": 1,
-      "title": "Nothing teases a screen-free AI device ahead of launch next month",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-      "source": "The Verge",
       "tool": "Gadgets",
-      "category": "gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "published_iso": "2026-11-04T18:26:07Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-      "excerpt": "CEO Carl Pei says Nothing’s first “AI-native” device “couldn’t have been an app.”",
-      "rationale": "On-record CEO tease of Nothing's first AI-native, screen-free device with a launch next month. The 10-19 card was only an unconfirmed report about smart glasses."
+      "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+      "url": "https://www.wired.com/story/aina-smart-ring/",
+      "source": "WIRED",
+      "published_iso": "2026-11-05T14:00:00.000Z",
+      "og_image": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg",
+      "excerpt": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
+      "rationale": "WIRED exclusive on a new one-tap agent-control ring; a different company and product from the Natura ring published 10-09."
     },
     {
-      "rank": 2,
-      "title": "Gemini for Home now plugs into AT&T’s smart security system",
-      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-      "source": "The Verge",
       "tool": "Gadgets",
-      "category": "gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "published_iso": "2026-11-04T20:23:24Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497",
-      "excerpt": "Google's Gemini for Home now connects to AT&T's Connected Life smart security system, bringing Gemini's AI features to the carrier's home security setup.",
-      "rationale": "New integration: Gemini for Home now reaches a carrier home-security system, so it spreads past Google's own hardware."
+      "title": "Motorola Signature 27 gets Pixel's Gemini Intelligence features with Rambler, Create My Widget",
+      "url": "https://9to5google.com/2026/11/05/motorola-signature-27-gemini-intelligence-features/",
+      "source": "9to5Google",
+      "published_iso": "2026-11-05T13:15:00+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Motorola is adopting Google’s Gemini Intelligence features in the first major expansion beyond Pixel, with Gboard’s Rambler and more supported....",
+      "rationale": "First time Pixel-only Gemini Intelligence features (Rambler, Create My Widget) reach another phone maker."
     },
     {
-      "rank": 3,
-      "title": "Disneyland Is Training a Class of AI Robot Interns",
-      "url": "https://www.cnet.com/tech/computing/disneyland-training-ai-robot-interns/",
-      "source": "CNET",
       "tool": "Gadgets",
-      "category": "gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "published_iso": "2026-11-04T20:13:45Z",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_100639_YouTube.jpeg",
-      "excerpt": "From Pixar robots to help you park your car to droids roaming Star Wars land, physical AI is popping up all over Disneyland.",
-      "rationale": "Physical AI in public: Disneyland is putting AI robots to work with guests, from parking helpers to droids. A clear consumer-facing example of embodied AI."
+      "title": "Samsung Android XR smart glasses pre-orders get started on November 12",
+      "url": "https://www.androidauthority.com/samsung-smart-glasses-pre-orders-3732159/",
+      "source": "Android Authority",
+      "published_iso": "2026-11-05T17:43:22+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
+      "excerpt": "The smart glasses collaboration, featuring frames from Warby Parker and Gentle Monster, is about to start taking pre-orders.",
+      "rationale": "Follow-up to the 10-14 reveal with a new concrete event: a fixed pre-order date for the Samsung/Warby Parker/Gentle Monster AI glasses."
     },
     {
-      "rank": 4,
-      "title": "Apple Watch learned new hand gestures in just a minute. It’s the most exciting wearable research I’ve seen in years.",
-      "url": "https://www.digitaltrends.com/wearables/apple-watch-research-shows-it-can-learn-new-hand-gestures-within-minutes-and-its-a-boon-for-shortcuts/",
-      "source": "Digital Trends",
       "tool": "Gadgets",
-      "category": "gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "published_iso": "2026-11-04T13:51:33Z",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/09/apple-watch-ultra-2-dual-gesture.jpg?resize=1200%2C630&ssl=1",
-      "excerpt": "Researchers have developed a system called TransfHAR that uses the motion sensors inside the Apple Watch, the accelerometer and the gyroscope, to learn and identify activities based on the movement of your hands and wrist.",
-      "rationale": "New research (TransfHAR) that teaches the Apple Watch a custom hand gesture from the stock motion sensors in about a minute. Points toward user-defined gesture input on wearables."
+      "title": "Subvocal’s glasses promise to let you talk to your computer in complete silence",
+      "url": "https://www.digitaltrends.com/computing/subvocals-glasses-promise-to-let-you-talk-to-your-computer-in-complete-silence/",
+      "source": "Digital Trends",
+      "published_iso": "2026-10-30T12:28:49-07:00",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C630&ssl=1",
+      "excerpt": "Typing has always been a bottleneck between what we think and how quickly we can communicate it to a computer. AI-powered dictation tools like Wispr Flow have made things considerably better. You can practically ramble your way through an entire email, or even an article, and have it transcribed into text in seconds. But there’s […]",
+      "rationale": "A new input approach: silent-speech glasses that feed AI dictation without speaking aloud; nothing like it in the 30-day history."
     },
     {
-      "rank": 5,
-      "title": "This treadmill owner used Claude to escape a subscription trap, and it's glorious",
-      "url": "https://www.androidauthority.com/claude-nordictrack-treadmill-ifit-subscription-3731515/",
-      "source": "Android Authority",
       "tool": "Gadgets",
-      "category": "gadgets",
-      "accent": "#f5a623",
+      "accent": "#eb367f",
       "motif": "headset",
-      "published_iso": "2026-11-04T10:20:57Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-scaled.jpg",
-      "excerpt": "NordicTrack wanted another subscription. One owner had other plans, and Claude helped turn those plans into a clever treadmill makeover.",
-      "rationale": "A NordicTrack owner used Claude to break free of the iFit subscription, a hands-on example of AI-assisted hardware modding by consumers."
+      "title": "Gboard beta hints at a smarter Rambler that learns your words and contact names",
+      "url": "https://www.androidauthority.com/gboard-rambler-corrected-words-contacts-apk-teardown-3732028/",
+      "source": "Android Authority",
+      "published_iso": "2026-11-05T15:00:06+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
+      "excerpt": "Gboard’s voice dictation feature, Rambler, may soon get a lot better by remembering contact names and corrected words.",
+      "rationale": "Replacement pick: a concrete new capability for Gboard's AI dictation (it learns your corrected words and contact names), found in the current beta; it is about the keyboard itself, not Motorola's adoption of it."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei": {
+      "https://www.wired.com/story/aina-smart-ring/": {
+        "verdict": "new",
+        "nearest": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+        "new_action": ""
+      },
+      "https://9to5google.com/2026/11/05/motorola-signature-27-gemini-intelligence-features/": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://www.androidauthority.com/samsung-smart-glasses-pre-orders-3732159/": {
         "verdict": "follow-up",
-        "nearest": "https://9to5google.com/2026/10/14/nothing-smart-glasses-report/",
-        "new_action": "Official announcement: Carl Pei publicly teased Nothing's first 'AI-native', screen-free device and set the launch for next month. The 10-19 card was an unconfirmed report about two pairs of smart glasses."
+        "nearest": "https://www.cnet.com/tech/mobile/samsung-smart-glasses-reveal/",
+        "new_action": "Pre-orders for the Samsung Android XR glasses (Warby Parker / Gentle Monster frames) open on a set date, November 12"
       },
-      "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system": {
+      "https://www.digitaltrends.com/computing/subvocals-glasses-promise-to-let-you-talk-to-your-computer-in-complete-silence/": {
         "verdict": "new",
-        "nearest": "https://9to5google.com/2026/10/29/google-home-gemini-update-fixes-understand-phrase-bug/",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.cnet.com/tech/computing/disneyland-training-ai-robot-interns/": {
+      "https://www.androidauthority.com/gboard-rambler-corrected-words-contacts-apk-teardown-3732028/": {
         "verdict": "new",
-        "nearest": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-        "new_action": ""
-      },
-      "https://www.digitaltrends.com/wearables/apple-watch-research-shows-it-can-learn-new-hand-gestures-within-minutes-and-its-a-boon-for-shortcuts/": {
-        "verdict": "new",
-        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-        "new_action": ""
-      },
-      "https://www.androidauthority.com/claude-nordictrack-treadmill-ifit-subscription-3731515/": {
-        "verdict": "new",
-        "nearest": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+        "nearest": "https://www.digitaltrends.com/phones/raycast-primary-ios-keyboard-lets-you-dictate-swipe-type-and-use-ai-commands-without-switching-apps/",
         "new_action": ""
       }
     },
-    "note": "Pool 14, no cluster ids. Dropped as duplicates: TechRadar Philips Hue Custom AI Behaviors (likely-repeat of the 10-22 Android Authority 'launch next week' card, same release; reports of early errors are not a new release); Verge Amazon Bee Frontier column (commentary on the device launch covered 10-16 by TechCrunch); 9to5Google Samsung Android XR eyewear December (unconfirmed launch-timing report on the same glasses as the 10-14 CNET 'Samsung Smart Glasses Unveiled'); ZDNET Netflix Discover (same story as the 11-04 movies Variety card, excluded across sections). Not picked: Engadget Switch-on-Apple-TV via Claude Code (same kind of story as the treadmill pick, and could clash with games); Digital Trends BP-crisis wearable study (11-02, AHA research that sits closer to medicine; Digital Trends already has a slot); Tom's Hardware NPU desktop renderer (AI is incidental, the NPU is only used as a display renderer); Notebookcheck idle-robot safety study (simulation research that overlaps the 10-25 zdnet.co.kr robot-misbehaviour card); TechRadar Echo Show 16 hands-on (10-28, a stale hands-on). Cross-section: compared against the 11-04 games/movies/science/medicine selections, no clashes. Read could not scan the whole published_urls.json, so exact-grep the 5 pick URLs plus 'Nothing', 'Disneyland', 'TransfHAR' and 'NordicTrack' across all sections before roll. Outlets: The Verge 2, CNET 1, Digital Trends 1, Android Authority 1."
+    "note": "Swap 2026-11-06: removed Tom's Hardware 'npu-driver' pick. The enrichment fetch showed the NPU only does plain compositing, with no AI involved. Replacement: Android Authority Gboard Rambler teardown, which is new in the 30-day gadgets history (no Rambler story; the nearest is the 10-30 Raycast keyboard dictation card, a different product). It is distinct from the Motorola pick, which is about a phone maker adopting Pixel features, while this one is a new Rambler capability. Other candidates passed over: Moto Buds Ultra 27 (would be a second Motorola card, and its AI features are incidental), HomeView third-party chatbots (a code rumor close to the Verge 11-04 Siri third-party story), Notebookcheck robot study (possibly the same robot-safety research as zdnet.co.kr 10-25, with a cross-section risk for science), Android Auto Gemini bug (running story), SamMobile opinion, Verge Bee column (commentary), XDA/CNET how-tos, Engadget Warby Parker leak (same cluster as the Samsung pick), TechRadar Hue AI behaviors (likely repeat of 10-22). Outlets: WIRED, 9to5Google, Android Authority x2, Digital Trends (4 distinct, none over 2). Cross-section: published_urls.json is too large to read in full with Read-only tools, so I could not grep it. The replacement is a gadget-specific Gboard beta feature and unlikely to have run in another section."
   }
 }

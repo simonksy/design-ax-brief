@@ -10199,6 +10199,136 @@
           "x": "Asked to design improved macrocycles, it recommended reactions and synthesis routes. Computational designs are testable hypotheses, not finished drugs; every proposed design must be synthesized and validated experimentally. DeepMind is offering 10,000 scientists the highest Antigravity usage tier free for 6 months."
         }
       ]
+    },
+    "science/jwst-flip-digital-twin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/41586_2026_11213_Fig1_HTML_20261104_220556.jpg",
+          "cap": "(a) The usual method of subtracting starlight using reference images. (b) FLIP uses a differentiable instrument model and a physics based starlight model. Image Credit: Ferrer-Chavez, R., Wang, J.J., Bouman, K.L. et al. Nature 659, 58–62 (2026)."
+        },
+        {
+          "t": "p",
+          "x": "All telescopes have a stability limit, even JWST. New research in Nature, \"Imaging exoplanets below the telescope stability limit,\" led by Northwestern graduate student Rodrigo Ferrer-Chavez, describes a way to subtract more starlight from JWST's observations. For 20 years astronomers have subtracted a reference star's image, but switching from reference to observation introduces instabilities."
+        },
+        {
+          "t": "p",
+          "x": "The new method, FLIP (Physics-based Learning for Imaging Planets), is based on physics and modelling and borrows ideas from machine-learning. In essence it is a \"digital twin\" of JWST that reproduces how light travels through the telescope, including nanoscale shifts and imperfections. The researchers adjusted FLIP until it matched JWST's real observations, then subtracted the star's glare."
+        },
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/image_comparison_20261105_124018.jpg",
+          "cap": "Left: JWST/NIRCam observation of 51 Eridani A in the F430M filter processed with KLIP, which did not detect 51 Eri b. Middle: the same observation with FLIP, a significant detection (>5 sigma). Right: simulated image of 51 Eri b. Image credit: Rodrigo Ferrer-Chavez."
+        },
+        {
+          "t": "p",
+          "x": "Tested on 51 Eridani b, FLIP revealed the planet that usual techniques couldn't see at 4.3 μm. \"We achieve sensitivity 2–15 times superior to standard techniques,\" the authors write. \"We showed that we can actually recover a planet that people previously couldn't see,\" said co-author Jason Wang. FLIP could also ease the stability requirements for the Habitable Worlds Observatory."
+        },
+        {
+          "t": "video",
+          "yt": "kz-Tr7ScQI4"
+        }
+      ]
+    },
+    "science/tau-stanford-synthetic-learning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-learns-to-predict-t.jpg",
+          "cap": "Self-play pretraining with zero data. Credit: arXiv (2026). DOI: 10.48550/arxiv.2609.30063"
+        },
+        {
+          "t": "p",
+          "x": "A new study involving researchers from Tel Aviv University and Stanford University asks: Can a system develop general learning capabilities even when all the data it trains on is generated entirely from scratch within the system itself? The researchers have shown that it can. The study, supervised by Dr. Yoav Levine as part of Dr. Kfir Dolev's postdoctoral research, is on the arXiv preprint server."
+        },
+        {
+          "t": "p",
+          "x": "Two models start from scratch and learn together. The first generates short computer programs that produce sequences of symbols; the second is trained to predict the next symbol. The generator receives feedback on how much its exercises contribute to learning and gets better at selecting suitable challenges."
+        },
+        {
+          "t": "p",
+          "x": "Evaluated on text, images, sounds, music, code and DNA sequences it never saw in training, the model's predictive capability improved consistently as more compute was devoted to training. It could infer rules from examples at test time without additional training, and familiar patterns such as the Fibonacci sequence appeared in its self-generated material. Pretraining this way also helped it learn faster from real-world data."
+        },
+        {
+          "t": "p",
+          "x": "The researchers emphasize the method cannot teach facts about reality without exposure to it. \"This is still a proof of concept involving small models,\" Levine says."
+        }
+      ]
+    },
+    "science/hebrew-u-ai-sugar-substitutes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-sweeter-future-ai-he.jpg",
+          "cap": "From 50 Million Compounds to Potential Sweeteners: An AI-Guided Search. Credit: Goldblum Lab"
+        },
+        {
+          "t": "p",
+          "x": "Researchers Dr. Shayma El-Atawneh and professor Amiram Goldblum at the Hebrew University of Jerusalem have developed a new computational framework that identified 92 promising candidates for future sugar substitutes from more than 50 million chemical compounds. The study, published in Food Chemistry, targets one of the industry's persistent challenges: unwanted bitter aftertastes of sweeteners such as aspartame, saccharin and sucralose."
+        },
+        {
+          "t": "p",
+          "x": "They used a machine-learning algorithm called Iterative Stochastic Elimination (ISE), developed by Goldblum's group, building models from known sweet- and bitter-tasting compounds. These screened three large chemical databases of approximately 50.7 million molecules, filtering out compounds predicted to be bitter."
+        },
+        {
+          "t": "p",
+          "x": "Molecular docking against the human sweet-taste receptor, made of subunits T1R2 and T1R3, plus chemical structure filters narrowed the pool to 556 potential sweeteners, and further prioritization yielded 92 candidates. Many have structures distinct from known sweeteners, and several previously patented sweet-receptor modulators were among them."
+        },
+        {
+          "t": "p",
+          "x": "The compounds are still computational predictions: laboratory experiments will be needed to confirm their sweetness, evaluate their safety and determine whether they are suitable for food."
+        }
+      ]
+    },
+    "science/mechanism-design-agent-alignment": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg",
+          "cap": "One person cuts the cake and the other gets the first choice of pieces."
+        },
+        {
+          "t": "p",
+          "x": "A new approach known as \"reverse game theory\" aims to control powerful AI models by designing systems that incentivize them to stick to the rules. Alignment work has mostly tried to peer into an AI's \"brain\" or train models on values, but models have been shown to deliberately underperform on tests, hide their intentions, and mislead their evaluators."
+        },
+        {
+          "t": "p",
+          "x": "Where game theory predicts how rational actors behave under given rules, mechanism design designs rules that elicit the behavior we want—like one person cutting the cake and the other choosing first. In AI, it starts from the premise that we may never understand frontier models' internals well enough."
+        },
+        {
+          "t": "p",
+          "x": "A preprint by MIT economist Stephen Morris and colleagues from Yale and Columbia proposes rewarding a model for how well its answers predict what a second model will say, so playing dumb becomes a losing bet. Princeton's Elad Hazan proposes models taking turns as \"solvers\" and \"auditors,\" with cheaters and auditors who miss them both punished."
+        },
+        {
+          "t": "p",
+          "x": "Mechanism design assumes agents behave rationally. Helen Qu of the Flatiron Institute sees it as one layer in a \"defense in depth\" strategy, alongside interpretability, regulation, and training. Anthropic and OpenAI did not respond to requests for comment."
+        }
+      ]
+    },
+    "science/replika-companion-updates": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
+          "cap": "Credit: Tim Samuel from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "People forming emotional bonds with AI companions fear losing a valued relationship through software updates or a company pulling the plug, according to research from the University of Surrey."
+        },
+        {
+          "t": "p",
+          "x": "The study, published in Psychology & Marketing, found that users feel more vulnerable when their AI companions appear to need them, express sadness about their absence or make them feel obliged to stay. Researchers from Surrey and Cardiff University analyzed 1,131 posts on a Reddit forum dedicated to Replika and survey responses from 610 US adults with experience of AI companionship apps."
+        },
+        {
+          "t": "p",
+          "x": "Users who perceived greater company control over their AI companion felt more vulnerable, worrying that developers could change their companion's personality or shut down the service. \"For someone who relies on that connection, an update can mean much more than a change to an app,\" said Dr. Liliane Abboud."
+        },
+        {
+          "t": "p",
+          "x": "Perceiving an AI companion as emotionally capable was associated with both better well-being and greater vulnerability, while companions experienced as warm and caring were linked to better well-being and less vulnerability. The researchers recommend consulting users before changing apps, helping them cope with disrupted relationships and clearly reminding them that AI companions do not experience real emotions."
+        }
+      ]
     }
   }
 }

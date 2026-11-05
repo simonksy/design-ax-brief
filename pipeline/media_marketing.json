@@ -1,7 +1,32 @@
-{"date":"2026-11-05","section":"marketing","media":[
-{"id":"roku-outcomes-ctv-beta","type":"image","src":"pipeline/media/roku-outcomes-ctv-beta.jpg"},
-{"id":"tradedesk-dstillery-agents","type":"image","src":"pipeline/media/tradedesk-dstillery-agents.jpg"},
-{"id":"google-aimode-four-ads","type":"image","src":"pipeline/media/google-aimode-four-ads.jpg"},
-{"id":"tiktokshop-listing-fix-ai","type":"image","src":"pipeline/media/tiktokshop-listing-fix-ai.jpg"},
-{"id":"google-aimode-home-services","type":"image","src":"pipeline/media/google-aimode-home-services.jpg"}
-]}
+{
+  "date": "2026-11-06",
+  "section": "marketing",
+  "media": [
+    {
+      "id": "sej-ai-answer-ads-categories",
+      "type": "image",
+      "src": "pipeline/media/sej-ai-answer-ads-categories.jpg"
+    },
+    {
+      "id": "clarity-copilot-catalog",
+      "type": "image",
+      "src": "pipeline/media/clarity-copilot-catalog.jpg"
+    },
+    {
+      "id": "fresh-step-rece-ai-ads",
+      "type": "video",
+      "src": "pipeline/media/fresh-step-rece-ai-ads.mp4",
+      "poster": "pipeline/media/fresh-step-rece-ai-ads.jpg"
+    },
+    {
+      "id": "walmart-sparky-holiday-features",
+      "type": "image",
+      "src": "pipeline/media/walmart-sparky-holiday-features.jpg"
+    },
+    {
+      "id": "digiday-ai-brief-bloat",
+      "type": "image",
+      "src": "pipeline/media/digiday-ai-brief-bloat.jpg"
+    }
+  ]
+}

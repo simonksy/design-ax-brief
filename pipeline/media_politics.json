@@ -1,31 +1,30 @@
 {
-  "date": "2026-11-05",
-  "section": "politics",
-  "media": [
-    {
-      "id": "brazil-meta-news-ruling",
-      "type": "image",
-      "src": "pipeline/media/brazil-meta-news-ruling.jpg"
-    },
-    {
-      "id": "data-center-ballot-measures",
-      "type": "image",
-      "src": "pipeline/media/data-center-ballot-measures.jpg"
-    },
-    {
-      "id": "metsola-ai-lawmaking",
-      "type": "image",
-      "src": "pipeline/media/metsola-ai-lawmaking.jpg"
-    },
-    {
-      "id": "ni-eu-ai-act-products",
-      "type": "image",
-      "src": "pipeline/media/ni-eu-ai-act-products.png"
-    },
-    {
-      "id": "uk-ai-400bn-google",
-      "type": "image",
-      "src": "pipeline/media/uk-ai-400bn-google.jpg"
-    }
-  ]
+    "date": "2026-11-06",
+    "section": "politics",
+    "media": [
+        {
+            "id": "occ-bank-ai-framework",
+            "type": "image",
+            "src": "pipeline/media/occ-bank-ai-framework.jpg"
+        },
+        {
+            "id": "g7-ai-safety-france-us",
+            "type": "image",
+            "src": "pipeline/media/g7-ai-safety-france-us.jpg"
+        },
+        {
+            "id": "certin-ai-incident-6hr",
+            "type": "image",
+            "src": "pipeline/media/certin-ai-incident-6hr.jpg"
+        },
+        {
+            "id": "delhi-hc-kriti-sanon-deepfakes",
+            "type": "image",
+            "src": "pipeline/media/delhi-hc-kriti-sanon-deepfakes.jpg"
+        },
+        {
+            "id": "ipophl-artists-ai-copyright",
+            "type": "svg"
+        }
+    ]
 }

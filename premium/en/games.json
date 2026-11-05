@@ -10161,6 +10161,134 @@
           "cap": "DLSS 5 ON"
         }
       ]
+    },
+    "games/google-cavill-mustache-protocol": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/REBXE3PpQZNEtNemd6hgnB.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Henry Cavill is making a game all about protecting male facial hair, vibe-coded in collaboration with Google. The game is called Mustache Protocol, and it's coming out on mobile and tablets. You play as the former Superman and Mission: Impossible actor, on a mission to stop anti-facial hair acolytes using CGI to get rid of everyone's taches — a nod to the infamous Justice League reshoots."
+        },
+        {
+          "t": "p",
+          "x": "To make the side-scroller, Cavill employed Google tools such as Rambler, which turns speech into constructive notes, and, most prominently, Antigravity, a generative AI toolbox that can produce 16-bit visuals from your prompts."
+        },
+        {
+          "t": "video",
+          "yt": "0S4DVtdYWww"
+        },
+        {
+          "t": "p",
+          "x": "\"While refining the game, Henry used Rambler on his Googlebook to organize his thoughts as he brainstormed,\" reads a write-up from Google. \"He mocked up different aesthetics, added accessories, and fine-tuned the design with Magic Pointer, which let him select and combine visual elements on screen.\" In the first of a three-part series documenting the build, he calls it a \"fun game for a serious problem.\""
+        },
+        {
+          "t": "p",
+          "x": "Google is donating $11 for every playthrough through November to Movember, a foundation raising awareness of suicide, testicular cancer, prostate cancer and other issues affecting men. Donations stack up to $500,000."
+        }
+      ]
+    },
+    "games/kojima-ai-creation-fun": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2025/10/20250909-51789-header.jpg",
+          "cap": "Hideo Kojima"
+        },
+        {
+          "t": "p",
+          "x": "In a recent interview with Japanese media outlet Game*Spark, Hideo Kojima explained how rapid advancements in AI technology have made game development much more manageable, while expressing some anxiety over a possible future where \"the fun of the creative process\" is lost."
+        },
+        {
+          "t": "p",
+          "x": "Like Photoshop and word processors before it, AI \"has made things even more efficient, allowing us to meet deadlines even faster.\" \"I think that's great too,\" Kojima adds, \"but let's take drawing as an example. Getting a finished picture is not what's fun about drawing, it's the process [...] While it's fine to tell the computer stuff like, 'Make this,' 'It's done,' 'That's wrong, so do it differently' – that's not a form of creation that I find particularly interesting.\""
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2025/07/20250326-46119-header.jpg",
+          "cap": "Death Stranding 2: On The Beach"
+        },
+        {
+          "t": "p",
+          "x": "\"The trial-and-error process in between is what gets my adrenaline pumping and makes the experience engaging. I don't want a future where that aspect is lost,\" Kojima noted. He thinks things will be fine for the next five to ten years, but if AI remains unrestricted it might one day play a key role even in the creative field, and the younger generations will have to decide what to do. He added that AI tools could also help build a better future, depending on how they are used."
+        }
+      ]
+    },
+    "games/games-kimi-k31-gamedev-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-image.pandaily.com/1/kimi_e3d22e0c6a.png"
+        },
+        {
+          "t": "p",
+          "x": "Moonshot AI has released a game development and creative work solution for Kimi, built on its Kimi K3.1 model series, its Kimi Code and Kimi Work agent products, and plugins for professional tools including Unity, Unreal Engine and Blender. The company says it is meant to help studios test gameplay ideas sooner and move engineering and art production forward."
+        },
+        {
+          "t": "p",
+          "x": "The model reads design documents, screenshots, code and 3D assets and plans the work; Kimi Code handles implementation inside a codebase, while Kimi Work takes on multi-step production tasks. In Unity and Unreal Engine, it maps the code structure, scene hierarchy and module dependencies, makes changes through editor plugins, and checks the result against reproduction steps, logs and runtime data."
+        },
+        {
+          "t": "p",
+          "x": "For Unity, Kimi works with Tuanjie Codely Agent from Unity China. In one demonstration, Kimi says, it worked for 20 hours without human intervention, recreating an existing game and producing a native project that can be developed further."
+        },
+        {
+          "t": "p",
+          "x": "Showcase builds credited to Kimi K3.1 Pro include a Blender rainforest valley flythrough and, in Unreal Engine 5.8, a celestial palace scene totaling 36 million triangles. Kimi also says designers without coding experience can produce playable Godot prototypes in one to two days."
+        }
+      ]
+    },
+    "games/games-tencent-hy4-multiplayer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://realsound.jp/wp-content/uploads/2026/11/20261105-hy4-99.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Tencent announced the large language model \"Hy4\" on November 4. Developers from the company's game division helped select and evaluate the training data, and the model can now help implement games in which multiple players play at the same time, the company said."
+        },
+        {
+          "t": "p",
+          "x": "Development focused on mechanisms that advance processing according to a game's rules and on tracking game state as it changes during play. The model was tuned for major game engines such as Unreal Engine, Unity and Godot. According to the company, on game development benchmarks its scores improved over the preview version by 19.1% on \"GameDev\" and 9.8% on \"GameLogic\"."
+        },
+        {
+          "t": "p",
+          "x": "The official development blog showcases \"Electric Flying Car Climb Test,\" a 3D driving simulator built with Hy4. Players accelerate a car on a night-time test course and see how far it can climb a track that arcs up until it is nearly vertical."
+        },
+        {
+          "t": "p",
+          "x": "Hy4 also gains the ability to read images and to operate a PC screen. It was also trained using the 3D creation software \"Blender\" and CAD software for design, according to the company. Hy4 is available through the company's \"Tencent Cloud TokenHub,\" \"WorkBuddy,\" \"CodeBuddy\" and other services."
+        }
+      ]
+    },
+    "games/nexus-mods-ai-disclosure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789439521.png",
+          "cap": "Image credit: Nexus Mods."
+        },
+        {
+          "t": "p",
+          "x": "Generative AI has taken over the modding scene. Nexus Mods, the biggest platform for mods on the internet, has reacted by enforcing mandatory disclosure for mods with AI-assisted code, and letting users filter AI-assisted mods out of their search criteria or preferences."
+        },
+        {
+          "t": "p",
+          "x": "\"We are pro-human creativity,\" co-owner Victor 'Foledinho' Folmann said in a blog post. He won't ban AI mods because \"AI is currently used throughout the whole process of creation... and it is difficult to draw a clear boundary,\" and believes a ban would just encourage modders to hide AI use: \"It should be out in the open, clearly labelled, and regulated.\""
+        },
+        {
+          "t": "p",
+          "x": "Modders must declare whether a mod is AI-assisted, primarily AI-generated, or features AI-generated promotional material, plus a \"public explanation of how and where AI was used.\" Existing mods have a 60 day grace period; those not updated by January 2 potentially face account restrictions."
+        },
+        {
+          "t": "p",
+          "x": "The move comes as Valve declines to block \"AI slop\" from Steam, Tim Sweeney calls mandatory AI disclaimers \"a political act,\" and Itch.io deletes what it called \"terabytes of AI slop.\""
+        }
+      ]
     }
   }
 }

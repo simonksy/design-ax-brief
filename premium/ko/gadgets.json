@@ -16067,6 +16067,143 @@
           "x": "Live Rewind는 기기 안에서 처리되고, Siri Recap 요약은 Private Cloud Compute를 거친다. Apple Intelligence와 Siri AI를 지원하는 iPhone 16 이후 모델이 있어야 하며 처음에는 영어만 된다. watchOS 27.3은 iOS 27.3과 함께 12월에 나올 예정이다."
         }
       ]
+    },
+    "gadgets/motorola-signature27-gemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Motorola가 Google의 Gemini Intelligence 기능을 들여온다. Pixel 밖으로는 첫 대규모 확장이며 Gboard의 Rambler 등도 지원한다. 엄밀히 따지면 Samsung의 최신 Galaxy 기기도 Google의 Gemini Intelligence를 지원하지만, Pixel 라인업 밖으로 문을 활짝 연 쪽은 Motorola다. 새 Motorola Signature 27은 지금까지 Googlebook에서만 쓸 수 있던 “Create My Widget”을 비롯해 Google의 새 기능 대부분을 공식 지원한다."
+        },
+        {
+          "t": "p",
+          "x": "“Create My Widget”은 위젯에 넣고 싶은 기능을 Gemini에 설명하면 AI가 작동하는 위젯을 만들어 주는 기능이다. Motorola는 11월 19일 출시 때부터 기본 탑재된다고 확인했다."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Create-My-Widget-7.jpg?quality=82&strip=all&w=800"
+        },
+        {
+          "t": "p",
+          "x": "Gboard Rambler는 긴 음성 입력 프롬프트에서 군더더기 말을 걷어내고 서식을 입힌다. Sign-to-Text는 미국 수어(American Sign Language) 영상을 영어 텍스트로 옮긴다. Gemini 작업 자동화를 켜면 AI가 Uber, DoorDash 같은 지원 앱에서 백그라운드로 작업을 처리한다."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-on-Pixel-11.jpg?quality=82&strip=all&w=800"
+        },
+        {
+          "t": "p",
+          "x": "Motorola Signature 27은 지금 사전 주문을 받고 있다. 이 플래그십의 미국(US) 가격은 $1,599다."
+        }
+      ]
+    },
+    "gadgets/samsung-xr-glasses-preorder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
+          "cap": "Samsung Warby Parker 스마트 안경을 든 모습"
+        },
+        {
+          "t": "p",
+          "x": "Samsung Android XR 스마트 안경 출시가 코앞이다. 사전 주문은 11월 12일에 시작한다. Google과 함께 만든 이 오디오 기반 스마트 안경에는 Warby Parker와 Gentle Monster의 테가 쓰인다. 가격과 배송 일정은 아직 나오지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "오디오 중심의 Android XR 경험이 될 것으로 알려졌고, 디스플레이를 넣은 Samsung 모델은 좀 더 기다려야 한다. 최근 소문으로는 결국 12월 중 출하될 전망이다. 덩치 큰 Samsung Galaxy XR 헤드셋처럼 $1,800까지는 아니겠지만, 괜찮은 휴대폰 한 대 값은 들 수 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg",
+          "cap": "Warby Parker가 디자인한 Samsung 스마트 안경"
+        },
+        {
+          "t": "p",
+          "x": "이 안경으로 시내 길 안내나 번역 도움을 받고, 그냥 Gemini와 대화하며 정보를 얻을 수도 있다. 카메라도 달려 있다. Samsung은 녹화 중에는 LED를 켜고, LED가 가려지면 이를 감지해 촬영을 막도록 했다."
+        }
+      ]
+    },
+    "gadgets/subvocal-silent-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Subvocal 스마트 안경은 레이더로 입의 움직임을 추적한다"
+        },
+        {
+          "t": "p",
+          "x": "생각한 것을 컴퓨터에 옮기는 속도는 늘 타이핑에서 막혔다. Wispr Flow 같은 AI 기반(AI-powered) 받아쓰기 도구 덕에 사정은 크게 나아졌지만, 조용한 사무실이나 도서관, 카페에서 컴퓨터에 말을 걸면 눈길을 끌기 쉽다. 스타트업 The Subvocal Company는 소리 없는 입 모양을 분당 200단어 이상의 속도로 텍스트로 바꾼다는 스마트 안경을 개발했다."
+        },
+        {
+          "t": "p",
+          "x": "회사 설명으로는 이 안경이 얼굴을 통과하는 레이더 신호를 쏜다. 소리 없이 단어를 만들 때 발화 근육이 미세하게 움직이고, 그 움직임이 되돌아오는 신호를 바꾼다. AI 모델은 이 변화를 읽어 텍스트로 옮긴다. 카메라는 쓰지 않는다. 다만 단어를 일부러 입 모양으로 만들어야 한다."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses.jpg?resize=1728%2C1037&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "이 스타트업은 Y Combinator와 Afore Capital에서 $1.3 million을 투자받았다. 미국(US)에서 얼리버드 가격 $499, 환불 가능한 보증금 $199로 예약을 받고 있으며 배송은 2027년 첫 분기에 시작할 예정이다. 타이핑 속도는 아직 독립적으로 검증되지 않았다."
+        }
+      ]
+    },
+    "gadgets/gadgets-gboard-rambler-learns": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
+          "cap": "Pixel 11 Pro에서 Gboard의 Rambler를 쓰는 모습."
+        },
+        {
+          "t": "p",
+          "x": "Gboard 앱 최신 베타에서 Gemini 기반(Gemini-powered) 음성 입력 기능 Rambler가 곧 교정한 단어와 연락처 목록의 이름을 기억하게 될 단서가 나왔다. 지금의 Rambler는 교정 내용을 저장하지 못하고, 시간이 지나도 사용자의 어휘를 익히지 못한다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Remember-corrected-words-watermarked-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "버전 18.6.3.10 베타를 보면 Rambler에 Remember corrected words 토글이 새로 생길 것으로 보인다. 설명 문구는 “Rambler로 음성 입력할 때 교정한 단어를 학습하고 사용합니다”다. 새 Contact names 토글은 휴대폰 연락처를 참고해 음성 입력 중 이름을 정확히 알아듣는다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Voice-Correction-List-Import-Export-watermarked-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "새 Voice correction list에서는 교정한 단어를 한눈에 보고, Import로 Rambler가 익힐 단어를 직접 넣거나 Export로 공유할 수 있다. Clear all collected words 버튼을 누르면 저장된 교정 내용이 모두 지워진다. Rambler는 아직 Pixel 11 시리즈 전용이다."
+        }
+      ]
+    },
+    "gadgets/nothing-screenfree-ai-device": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+          "cap": "사진: Dominic Preston / The Verge"
+        },
+        {
+          "t": "p",
+          "x": "Nothing CEO Carl Pei가 X 게시물에서 12월에 첫 AI 기기를 내놓는다고 밝혔다. Pei가 “AI-native” 기기와 AI 운영체제 계획을 발표한 지 한 해 남짓 만이다. 새 기기가 정확히 무엇인지는 거의 말하지 않았고, 화면이 없다는 점만 알렸다:"
+        },
+        {
+          "t": "p",
+          "x": "“우리의 첫 AI-native 제품이 다음 달 출시된다. 도구이지만, Nothing 제품을 규정해 온 개성과 정성을 담아 만들었다. 새 화면은 없으며, 앱으로는 만들 수 없었던 제품이다.”"
+        },
+        {
+          "t": "p",
+          "x": "Pei는 게시물에 왼쪽 위에 “NOTHING(R)”이라고 적힌 이미지를 함께 올렸다. 그 아래로 정체를 알 수 없는 검은 둥근 모서리가 보인다. 지난달에는 Nothing이 카메라 없는 모델을 포함해 AI 스마트 안경 두 종을 낼 계획이라는 소문이 돌았다. 그보다 앞서 AI 액세서리로 방향을 틀며 “AI-first 기업으로 재포지셔닝하고 있다”는 소문도 있었다."
+        },
+        {
+          "t": "p",
+          "x": "Nothing의 AI 기기가 화면 없는 첫 AI 가젯은 아니다. Humane AI pin, Friend, AI 봉제 인형까지 이미 나왔다. OpenAI도 Jony Ive와 함께 AI 스마트 스피커를 개발 중인 것으로 알려졌다. Pei는 이전 AI 기기들을 두고 “업계 전체가 자신의 iPhone 같은 순간을 찾고 있다. 펜던트, 핀, 안경, 컴패니언처럼 AI를 모두의 삶의 일부로 만들 마법 같은 소비자 기기 말이다”라고 했다. 그러고는 “지금 AI의 iPhone을 찾는 것은 막다른 길이다”라고 덧붙였다."
+        }
+      ]
     }
   }
 }
