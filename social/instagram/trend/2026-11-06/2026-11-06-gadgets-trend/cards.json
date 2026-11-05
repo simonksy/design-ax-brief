@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "issue": "AI 기기, 화면 대신 입력을 판다",
+    "date": "2026.11.06",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Subvocal 11.06→10.30, Nothing 11.05→11.04, Apple Watch 11.05→11.04, Aina 11.06→11.05)·시간순 재배열. 200단어/분·$1.3M·$499·$199 보증금·2027년 1분기, 'no new screen'·12월 출시, 7가지 동작·1분·90%·2,760시간·24ms, $399→$499·2027년 1월 확인.",
+    "sources": [
+      "Digital Trends — Subvocal's glasses promise to let you talk to your computer in complete silence (2026.10.30)",
+      "The Verge — Nothing teases a screen-free AI device ahead of launch next month (2026.11.04)",
+      "Digital Trends — Apple Watch learned new hand gestures in just a minute (2026.11.04)",
+      "WIRED — This Smart Ring Wants to Be a Remote Control for Your AI Agent (2026.11.05)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 가젯 · 10.30~11.05",
+      "thread": [
+        {
+          "d": "10.30",
+          "t": "무음 입력",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.04",
+          "t": "화면 없음",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.04",
+          "t": "손짓 학습",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.05",
+          "t": "탭 승인",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        }
+      ],
+      "thread_note": "AI 기기 경쟁의 축이 화면에서 '어떻게 시키느냐', 곧 입력 방식으로 옮겨 가고 있다",
+      "eyebrow": "흐름 · 가젯",
+      "headline": "화면을 뺀 AI 기기\n입력을 새로 짠다",
+      "body": "안경, 시계, 반지는 따로 보면 신제품 소식이다. 꿰어 보면 폰 화면 없이 AI에게 시키는 법을 찾는 경쟁이다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.30",
+      "headline": "소리 없이\n입 모양만으로",
+      "body": "Subvocal 안경은 레이더로 입 근육 움직임을 읽어 분당 200단어 넘게 받아쓴다고 한다. $499, 2027년 1분기 출하.",
+      "foot": "2026.10.30",
+      "_src": "https://www.digitaltrends.com/computing/subvocals-glasses-promise-to-let-you-talk-to-your-computer-in-complete-silence/",
+      "_id": "subvocal-silent-glasses",
+      "media": "pipeline/media/subvocal-silent-glasses.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.04",
+      "headline": "Nothing은\n화면부터 뺐다",
+      "body": "Carl Pei는 첫 AI-native 기기를 12월에 낸다며 \"새 화면은 없다, 앱일 수는 없었다\"고 했다.",
+      "foot": "2026.11.04",
+      "_src": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "_id": "nothing-screenfree-ai-device",
+      "media": "pipeline/media/nothing-screenfree-ai-device.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.04",
+      "headline": "손짓 하나를\n1분 만에 배운다",
+      "body": "TransfHAR는 Apple Watch가 새 동작 7가지를 동작당 1분 데이터로 90% 맞히게 했다. 폰 없이 시계에서 돈다.",
+      "foot": "2026.11.04",
+      "_src": "https://www.digitaltrends.com/wearables/apple-watch-research-shows-it-can-learn-new-hand-gestures-within-minutes-and-its-a-boon-for-shortcuts/",
+      "_id": "apple-watch-transfhar-gestures",
+      "video": "pipeline/media/apple-watch-transfhar-gestures.mp4"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.05",
+      "headline": "에이전트에겐\n반지로 예·아니오",
+      "body": "Aina 링은 작은 화면과 조이스틱으로 AI 에이전트 작업을 손끝에서 승인·거절한다. 한정가 $399, 2027년 1월 출하.",
+      "foot": "2026.11.05",
+      "_src": "https://www.wired.com/story/aina-smart-ring/",
+      "_id": "aina-agent-ring",
+      "media": "pipeline/media/aina-agent-ring.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

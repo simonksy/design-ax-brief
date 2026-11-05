@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "issue": "건축 설계 도구, 일을 맡기 시작했다",
+    "date": "2026.11.06",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "원문 5건 대조: 날짜를 원문 게재일로 고침(Snaptrude 10.30→10.29, Allplan 11.02→10.30, nVibe 11.05→11.03, Autom8Labs 11.04→11.03, Autodesk 11.06→11.05). 시간순으로 nVibe·Autom8Labs 순서를 바꿈. LoD 400·계획 검토 후 승인, AI 도구 9종·책임은 엔지니어, AEC 용어·MCP 커넥터, 무료 MCP 스킬 22개·'tools/method' 발언, 단독 Assistant 내년 출시 확인. 사진은 서로 다른 3장, 숫자 있는 2장은 stat.",
+    "sources": [
+      "AEC Magazine — Snaptrude Agent launches for BIM workflows (2026.10.29)",
+      "Engineering.com — Allplan Max 2027 launched for engineering workflows (2026.10.30)",
+      "AEC Magazine — nCircle Tech launches nVibe AI app builder (2026.11.03)",
+      "AEC Magazine — Autom8Labs launches AEC skills for AI agents (2026.11.03)",
+      "DEVELOP3D — Autodesk's most ambitious AI play yet (2026.11.05)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 디자인 · 10.29~11.05",
+      "thread": [
+        {
+          "d": "10.29",
+          "t": "시공 도면",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "10.30",
+          "t": "AI 9종",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.3",
+          "t": "앱 빌더",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.3",
+          "t": "MCP 스킬",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.5",
+          "t": "단독 비서",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        }
+      ],
+      "thread_note": "건축·엔지니어링 설계 도구의 AI가 기능 버튼에서 일을 맡는 에이전트로 옮겨 간다",
+      "eyebrow": "흐름 · 디자인",
+      "headline": "건축 설계 도구,\n일을 맡기 시작했다",
+      "body": "한 건씩 보면 제품 발표다. 꿰어 보면 일주일 새 설계 도구 다섯 곳이 버튼 대신 일을 통째로 맡는 AI를 내놨다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.29",
+      "headline": "Snaptrude,\n계획을 내미는 에이전트",
+      "body": "구상부터 LoD 400 BIM·시공 도면까지 맡는다. 에이전트가 계획을 내면 사람이 검토해 승인하거나 고친다.",
+      "foot": "2026.10.29",
+      "_src": "https://aecmag.com/bim/snaptrude-agent-launches-for-bim-workflows/",
+      "_id": "snaptrude-bim-agent",
+      "media": "pipeline/media/snaptrude-bim-agent.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.10.30",
+      "headline": "Allplan, 도구마다\nAI를 심다",
+      "body": "Allplan Max 2027은 모델링·해석·도면에 AI를 넣되, 설계 의도와 승인 책임은 엔지니어에게 남긴다.",
+      "foot": "2026.10.30",
+      "_src": "https://www.engineering.com/allplan-max-2027-launched-for-engineering-workflows/",
+      "_id": "allplan-max-2027-ai",
+      "stat_top": "Allplan Max 2027",
+      "stat_arrow": "모델링·해석·도면에 넣은 AI 도구",
+      "stat_bottom": "9종",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.03",
+      "headline": "nVibe, 말로\n현장 앱을 짓다",
+      "body": "현장 관리자가 업무를 말로 설명하면 앱이 나온다. RFI·LoD 같은 AEC 용어를 알고, MCP 커넥터도 갖췄다.",
+      "foot": "2026.11.03",
+      "_src": "https://aecmag.com/automation/ncircletech-launches-nvibe-ai-app-builder/",
+      "_id": "ncircle-nvibe-aec-apps",
+      "media": "pipeline/media/ncircle-nvibe-aec-apps.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.03",
+      "headline": "도구에 이어\n방법을 건네다",
+      "body": "Autom8Labs가 무료 MCP 스킬 22개를 냈다. 커넥터가 에이전트에 도구를 준다면, 스킬은 숙련자의 작업 순서를 준다.",
+      "foot": "2026.11.03",
+      "_src": "https://aecmag.com/automation/autom8labs-launches-aec-skills-for-ai-agents/",
+      "_id": "autom8labs-aec-mcp-skills",
+      "stat_top": "커넥터는 도구를",
+      "stat_arrow": "스킬은 일하는 순서를",
+      "stat_bottom": "무료 스킬 22개",
+      "stat_strike": false
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "2026.11.05",
+      "headline": "Autodesk의\n통합 Assistant",
+      "body": "AU 2026에서 공개한 단독 Assistant는 제품을 넘나들며 일을 어떻게 풀지 정한다. 출시는 내년 예정이다.",
+      "foot": "2026.11.05",
+      "_src": "https://develop3d.com/ai/autodesks-most-ambitious-ai-play-yet/",
+      "_id": "autodesk-au2026-assistant",
+      "media": "pipeline/media/autodesk-au2026-assistant.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

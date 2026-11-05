@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI 비서, DAW를 잡다",
+    "date": "2026.11.06",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Engadget 10.28→10.27, Suno MCP 10.30→10.29, Suno Chat 블로그 11.03→10.29, MusicRadar 11.06→11.05). Pro Tools 스템 분리(오늘 story)와 iZotope Photon은 겹쳐서 뺌. 사진은 Splice 한 장만, 나머지는 quote·stat. AI 도구 5곳·20여 트랙·3dB·무료 Mac 베타 확인.",
+    "sources": [
+      "Engadget — Apple Creator Studio update adds MotionVFX to Final Cut, and AI to everywhere (2026.10.27)",
+      "Music Ally — Suno launches MCP server to 'create music right from the chat' (2026.10.29)",
+      "Suno — Meet Chat: Our In-house Studio Assistant (2026.10.29)",
+      "MusicRadar — Splice's new AI DAW feels like a cheat code for music production (2026.11.05)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 음악 · 10.27~11.05",
+      "thread": [
+        {
+          "d": "10.27",
+          "t": "Logic",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "10.29",
+          "t": "MCP",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "10.29",
+          "t": "Chat",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.05",
+          "t": "Rheo",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        }
+      ],
+      "thread_note": "AI가 조언을 넘어 DAW를 직접 조작하기 시작했다",
+      "eyebrow": "흐름 · 음악",
+      "headline": "AI 비서,\nDAW를 잡다",
+      "body": "하나씩 보면 기능 추가다. 열흘 사이 채팅창이 곡을 쓰고, DAW 안 비서가 프로젝트를 직접 만지기 시작했다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "quote",
+      "eyebrow": "2026.10.27",
+      "headline": "Logic Pro에\nOpenAI 비서",
+      "body": "Apple이 OpenAI와 손잡고 Logic Pro에 베타 AI 비서를 넣었다. 텍스트 프롬프트로 보컬 트랙까지 만든다.",
+      "foot": "2026.10.27",
+      "_src": "https://www.engadget.com/2298428/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/",
+      "_id": "logicpro",
+      "quote": "기존 프로젝트를 고치고,\n새 곡을 시작하고,\n보컬 트랙을 만든다",
+      "quote_by": "Engadget · Logic Pro 새 비서"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.10.29",
+      "headline": "곡 쓰는 곳이\n채팅창으로",
+      "body": "Suno가 MCP 서버를 얼리 액세스로 열었다. Claude·ChatGPT·Gemini 같은 대화창에서 바로 곡을 만든다.",
+      "foot": "2026.10.29",
+      "_src": "https://musically.com/2026/10/29/suno-launches-mcp-server-to-create-music-right-from-the-chat/",
+      "_id": "suno-mcp-chat-server",
+      "stat_top": "작곡은 Suno 앱에서",
+      "stat_arrow": "MCP 서버로 연결",
+      "stat_bottom": "AI 도구 5곳",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.10.29",
+      "headline": "DAW 안 비서가\n페이더를 민다",
+      "body": "Suno Studio의 Chat은 스템과 플러그인을 만들고, 트랙 이름 정리와 페이더 조정까지 대신한다.",
+      "foot": "2026.10.29",
+      "_src": "https://suno.com/blog/studio-chat-assistant",
+      "_id": "suno-studio-chat-assistant",
+      "stat_top": "트랙 20여 개 페이더",
+      "stat_arrow": "“모두 3dB 내려 줘”",
+      "stat_bottom": "Chat이 한 번에",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.05",
+      "headline": "Rheo가\nDAW를 직접 몬다",
+      "body": "Splice가 무료 Mac DAW Create 베타를 냈다. 챗봇 Rheo는 음성·텍스트 지시로 편곡과 신스 패치까지 한다.",
+      "foot": "2026.11.05",
+      "_src": "https://www.musicradar.com/music-tech/splices-new-ai-daw-feels-like-a-cheat-code-for-music-production-but-it-left-us-with-one-big-question",
+      "_id": "splice-create-ai-daw",
+      "media": "pipeline/media/splice-create-ai-daw.png"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

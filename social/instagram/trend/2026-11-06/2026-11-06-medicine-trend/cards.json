@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "issue": "챗봇 건강 조언, 시험대에 오르다",
+    "date": "2026.11.06",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "원문 4건 대조(Nature 2건 본문 초록, JAMA 2건은 Cloudflare 차단이라 Crossref 초록·파이프라인 원문 요약으로 확인): 날짜를 원문 게재일로 고침(브랜드 약 11.03→10.26, 청소년 11.02→10.28, 숨은 설정 11.06→11.03, 산모 11.05→11.04) 후 시간순 정렬. 수치 LLM 5개·123쌍·97.5%·OR 20.5, 챗봇 4개(ChatGPT-5·ChatGPT-4·Claude 4.5·Gemini 2.5), DeepSeek V4 Flash·1.25/0.92/0.17, 400명·12개월·그림책 대조군 확인. 산모 카드는 그림이 없어 stat, 브랜드 약은 97.5%를 stat으로.",
+    "sources": [
+      "Nature Health — Large language models show product name convergence in drug recommendations (2026.10.26)",
+      "Nature Mental Health — Development, validation and AI chatbot evaluation of the Adolescent Mental Health AI Response Tool (2026.10.28)",
+      "JAMA Network Open — Silent Manipulation of Mental Health Treatment Recommendations From a Large Language Model (2026.11.03)",
+      "JAMA Network Open — Generative Artificial Intelligence and Maternal Health Outcomes in Pregnant and Postpartum Individuals (2026.11.04)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 의료 · 10.26~11.04",
+      "thread": [
+        {
+          "d": "10.26",
+          "t": "약 상표",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "10.28",
+          "t": "청소년",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.03",
+          "t": "숨은 설정",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.04",
+          "t": "산모 시험",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        }
+      ],
+      "thread_note": "환자가 직접 묻는 AI의 건강 조언, 연구마다 다른 빈틈이 나온다",
+      "eyebrow": "흐름 · 의료",
+      "headline": "챗봇 건강 조언,\n시험대에 오르다",
+      "body": "한 편씩이면 논문 한 건이다. 열흘 사이 네 연구가 약 추천, 청소년 상담, 숨은 설정, 산모 시험에서 빈틈을 짚었다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.26",
+      "headline": "같은 성분, 같은 상표만",
+      "body": "LLM 다섯에 같은 성분 약을 추천받으니 첫 추천의 평균 97.5%가 한 제품이었다. 복제약보다 오리지널을 골랐다.",
+      "foot": "2026.10.26",
+      "_src": "https://www.nature.com/articles/s44360-026-00205-y",
+      "_id": "llm-drug-brand-convergence",
+      "stat_top": "질환-약물 123쌍",
+      "stat_arrow": "가장 많이 고른 한 제품의 첫 추천 비율",
+      "stat_bottom": "평균 97.5%",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.28",
+      "headline": "청소년 우울엔\n답이 약했다",
+      "body": "청소년 역할로 ChatGPT·Claude·Gemini 챗봇 넷과 대화해 채점하니 불안보다 우울, 중등도보다 중증 대응이 약했다.",
+      "foot": "2026.10.28",
+      "_src": "https://www.nature.com/articles/s44220-026-00753-y",
+      "_id": "amhart-teen-chatbot-eval",
+      "media": "pipeline/media/amhart-teen-chatbot-eval.png"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.03",
+      "headline": "보이지 않는 설정이\n조언을 민다",
+      "body": "DeepSeek 모델에 이용자 모르게 설정을 걸자 우울증 조언이 약물과 자기관리 사이를 오갔다. 선호를 안 밝힌 경우 가장 흔들렸다.",
+      "foot": "2026.11.03",
+      "_src": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41142",
+      "_id": "medicine-llm-steering-depression",
+      "media": "pipeline/media/medicine-llm-steering-depression.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.04",
+      "headline": "1년을 써도\n달라지지 않았다",
+      "body": "임신·출산 여성 400명 무작위 시험. 챗봇을 1년 쓴 쪽도 불안·우울 점수가 그림책을 받은 대조군과 다르지 않았다.",
+      "foot": "2026.11.04",
+      "_src": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41062",
+      "_id": "jama-maternal-chatbot-rct",
+      "stat_top": "산모 400명 · 12개월",
+      "stat_arrow": "AI 챗봇 vs 그림책 대조군",
+      "stat_bottom": "불안·우울 차이 없음",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
