@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "section": "science",
   "cards": [
     {
-      "id": "replika-companion-updates",
+      "id": "llnl-strata-stitch-emulators",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI companion users fear\nlosing them to updates",
-      "body": "A study of 1,131 Replika posts and 610 US adults linked AI companions to both well-being and vulnerability.",
-      "mini_headline": "AI companions vs. updates",
+      "headline": "AI emulators could speed up\nweather and climate models",
+      "body": "LLNL trains neural-network emulators like STRATA on E3SM output to predict the atmosphere without solving equations.",
+      "mini_headline": "LLNL AI emulates the atmosphere",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-11-vulnerable-users-ai-companions-software.html",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-11-earth-atmosphere-emulators-enable-faster.html",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,24 +19,29 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
-            "cap": "Credit: Tim Samuel from Pexels"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula.jpg",
+            "cap": "The STRATA emulator aims to accurately predict long-term weather without computationally expensive and time-intensive simulations. Credit: Graphic by Peter Caldwell"
           },
           {
             "t": "p",
-            "x": "People forming emotional bonds with AI companions fear losing a valued relationship through software updates or a company pulling the plug, according to research from the University of Surrey."
+            "x": "Modeling a decade into the future takes months on the world's best supercomputers. At Lawrence Livermore National Laboratory (LLNL), researchers are deploying emulators to provide faster and more accurate weather predictions, months to years into the future."
           },
           {
             "t": "p",
-            "x": "The study, published in Psychology & Marketing, found that users feel more vulnerable when their AI companions appear to need them, express sadness about their absence or make them feel obliged to stay. Researchers from Surrey and Cardiff University analyzed 1,131 posts on a Reddit forum dedicated to Replika and survey responses from 610 US adults with experience of AI companionship apps."
+            "x": "E3SM can simulate the atmosphere at 3-kilometer resolution by solving physics equations. Instead, scientists from LLNL, DOE and NVIDIA train an emulator named STRATA on the outputs from a model like E3SM, then ask it to predict how the atmosphere looks days to months to years later—without ever solving the physics equations. \"For an emulator, we use machine learning, like a deep neural network, to mimic what the real physics would have done,\" said LLNL scientist Yunyan Zhang."
+          },
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula-1.jpg",
+            "cap": "The STRATA emulator 12-hour forecast (top row) compared to the Simple Cloud-Resolving E3SM Atmosphere Model (SCREAM, bottom row). Credit: Graphic by Peter Caldwell"
           },
           {
             "t": "p",
-            "x": "Users who perceived greater company control over their AI companion felt more vulnerable, worrying that developers could change their companion's personality or shut down the service. \"For someone who relies on that connection, an update can mean much more than a change to an app,\" said Dr. Liliane Abboud."
+            "x": "The speed lets scientists run hundreds of simulations to weigh many predictions at once. For the Los Alamos-led MAGGIE project, which uses generative models to create initial conditions, \"it would have taken us three months to do this ensemble of simulations with a physics-based model,\" said Peter Caldwell. \"With our new emulators, we did it over a weekend.\""
           },
           {
             "t": "p",
-            "x": "Perceiving an AI companion as emotionally capable was associated with both better well-being and greater vulnerability, while companions experienced as warm and caring were linked to better well-being and less vulnerability. The researchers recommend consulting users before changing apps, helping them cope with disrupted relationships and clearly reminding them that AI companions do not experience real emotions."
+            "x": "Through the DOE Genesis Mission, the STITCH project, led by Zhang, trains emulators on localized simulations of cloud microphysics and small-scale turbulence; their results can be fed into E3SM, which in turn provides new training data for STRATA."
           }
         ]
       }

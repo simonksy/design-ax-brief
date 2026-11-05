@@ -9186,6 +9186,129 @@
           "x": "Suno también argumenta que el caso está condenado por la “preemption” (primacía) federal, y afirma que “crearía un régimen de IP paralelo basado en leyes estatales … en conflicto fundamental con el régimen federal vigente desde hace más de dos siglos”."
         }
       ]
+    },
+    "music/avid-protools-sixstem-split": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/11/Pro-Tools-Stem-hero@2000x1500.jpg",
+          "cap": "Crédito: Avid"
+        },
+        {
+          "t": "p",
+          "x": "Para un productor, la separación de stems puede ser una de las herramientas más útiles. Por eso, que Avid acabe de introducir la separación de stems con IA en Pro Tools 2026.11 será una incorporación bienvenida para muchos productores que trabajan con este DAW."
+        },
+        {
+          "t": "p",
+          "x": "La nueva Pro Tools Extension de separación de stems con IA puede dividir cualquier grabación en hasta seis stems: voces, batería, bajo, guitarra, teclados y otros instrumentos. Usarla es tan sencillo como arrastrar y soltar el archivo de audio en la ventana, escuchar una vista previa de los stems que va a separar y enviarlos de vuelta al DAW principal como pistas independientes."
+        },
+        {
+          "t": "p",
+          "x": "El nuevo AI Stem Separator es solo una de las muchas funciones disponibles dentro de Pro Tools Extensions. Mientras que los plugins trabajan con una pista a la vez, las Extensions pueden trabajar con toda la sesión o con cualquier número de pistas concretas. Empresas externas como Splice, SoundFlow, Pro Sound Effects, Soundly, Forte y Pibox también han diseñado Extensions."
+        },
+        {
+          "t": "p",
+          "x": "“Las Extensions representan un paso importante, ya que llevan nuevas tecnologías y capacidades innovadoras directamente a Pro Tools”, afirma Sam Butler, vicepresidente de Gestión de Producto de Avid."
+        },
+        {
+          "t": "p",
+          "x": "Pro Tools 2026.11 ya está disponible para los suscriptores de Pro Tools Artist, Studio y Ultimate, los titulares de licencias perpetuas con un plan de actualización activo y los usuarios de Pro Tools Intro, incluida la prueba de 30 días."
+        }
+      ]
+    },
+    "music/elevenlabs-soundcloud-publish": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675"
+        },
+        {
+          "t": "p",
+          "x": "La empresa de IA de audio ElevenLabs anunció el jueves que los usuarios podrán publicar directamente en SoundCloud la música generada por IA (AI-generated) creada con su plataforma ElevenMusic. También ofrece a los usuarios de SoundCloud Artist Pro tres meses de ElevenMusic Pro, que permite generar hasta 1.000 canciones al mes, separar los stems de las canciones 500 veces y usar cinco estilos o voces personalizados."
+        },
+        {
+          "t": "p",
+          "x": "La compañía lanzó su primer modelo de generación musical en 2025, al que siguieron una aplicación para consumidores en abril de 2026 y, un mes después, un modelo capaz de cambiar de género a mitad de una pista. ElevenLabs afirma que hasta ahora los usuarios han creado más de 25 millones de pistas con sus modelos."
+        },
+        {
+          "t": "p",
+          "x": "“Al convertirnos en la primera plataforma que lleva las creaciones de ElevenMusic directamente a los fans más allá de su propio ecosistema, abrimos nuevas posibilidades para que los artistas experimenten, compartan su trabajo y formen una audiencia”, dijo Eliah Seton, CEO de SoundCloud."
+        },
+        {
+          "t": "p",
+          "x": "Otras plataformas se inclinan por etiquetar o filtrar la música de IA: Deezer está introduciendo un interruptor para excluirla, Bandcamp ha prohibido las pistas generadas por IA, y Spotify y YouTube han adoptado un enfoque más cauteloso con el etiquetado."
+        }
+      ]
+    },
+    "music/ddex-elevenlabs-membership": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ddex-announces-elevenlabs-as-first-ai-company-to-join-membership.png",
+          "cap": "Foto: DDEX x ElevenLabs"
+        },
+        {
+          "t": "p",
+          "x": "Digital Data Exchange (DDEX), la organización internacional sin ánimo de lucro que fija estándares para la industria musical, ha anunciado la incorporación de ElevenLabs como miembro de pleno derecho, la primera empresa de IA en hacerlo. Entre los miembros de DDEX figuran más de 150 empresas y particulares del ámbito de la música y la tecnología."
+        },
+        {
+          "t": "p",
+          "x": "“Como una de las principales empresas de IA del mercado musical, su experiencia aportará una gran cantidad de conocimiento”, dijo Mark Isherwood, de la Secretaría de DDEX. “Esperamos participar en sus plenarios y grupos de trabajo para ayudar a definir su enfoque sobre la comunicación de la música, en lo relativo a la IA y más”, dijo Gabriella Heybourne, de ElevenLabs."
+        },
+        {
+          "t": "p",
+          "x": "ElevenLabs se une después de que el grupo de trabajo de IA de DDEX celebrara su primera reunión presencial en Nashville los días 9 y 10 de septiembre. El grupo ha terminado de recabar comentarios sobre el borrador de comité de su Generative AI Declaration Standard (GAI-D), que pasará a revisión por pares antes de publicarse a principios de 2027."
+        }
+      ]
+    },
+    "music/pianobench-arxiv-benchmark": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los modelos de lenguaje multimodales siguen mejorando en pruebas amplias de comprensión musical, pero ¿qué rasgos musicales pueden percibir y sobre cuáles pueden razonar? Los autores presentan PianoBench, un benchmark que pide a los modelos de lenguaje razonar sobre interpretaciones musicales a partir de representaciones de entrada acústicas y simbólicas equivalentes."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2611.03839v1/pianobench_overview.png",
+          "cap": "Figura 1: PianoBench deriva de PianoTalk, un conjunto de datos a escala de entrenamiento (20k horas) de comentarios y transcripciones musicales intercalados, obtenido de vídeos didácticos de piano."
+        },
+        {
+          "t": "p",
+          "x": "PianoBench deriva de un nuevo conjunto de datos multimodal a escala de entrenamiento con más de 20.000 horas de transcripciones musicales intercaladas con comentarios musicales hablados, procedentes de vídeos didácticos de piano."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos de audio y lenguaje de pesos abiertos logran como máximo un 52.8% de precisión, apenas por encima de un control sin audio. Los modelos de frontera que usan cadena de pensamiento alcanzan hasta un 93.2% cuando reciben las transcripciones musicales como texto, lo que revela una brecha entre percibir rasgos musicales a partir del audio y razonar sobre ellos cuando se dan de forma explícita."
+        },
+        {
+          "t": "p",
+          "x": "El entrenamiento intermedio con instrucción musical intercalada elevó la precisión zero-shot de Qwen 3.5 9B Base con transcripciones musicales del 42.8% al 56.0% tras el ajuste por instrucciones, lo que sugiere que los vídeos didácticos pueden ser una fuente pasada por alto de supervisión multimodal para la música."
+        }
+      ]
+    },
+    "music/suno-midi-create-upload": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Ahora es posible empezar una canción en Suno a partir de un archivo MIDI, arrastrándolo y soltándolo en la página Create o eligiendo MIDI en el menú '+'. Un archivo MIDI contiene las notas y los tiempos exactos de una parte musical, por lo que ofrece un punto de partida mucho más preciso que cualquier otra forma de crear en Suno."
+        },
+        {
+          "t": "p",
+          "x": "Se puede decidir con qué fidelidad lo sigue Suno: pedir al modelo que toque las notas exactamente como se escribieron o tomar un motivo del archivo y desarrollarlo en algo nuevo. MIDI no contiene ningún sonido, lo que lo diferencia de subir audio para Remix o Cover: transmite información exacta de notas y tiempos para un control muy preciso."
+        },
+        {
+          "t": "p",
+          "x": "Usos sugeridos: exportar partituras en curso para escucharlas con instrumentación de alta calidad (\"Arrange this MIDI for a full orchestra, with strings, brass, woodwinds and percussion\"), que estudiantes y directores de banda prueben composiciones, o recuperar MIDI de antiguas sesiones de banda (\"Transform this MIDI into a string quartet\")."
+        },
+        {
+          "t": "p",
+          "x": "En el lanzamiento, MIDI usa el modo Simple Create con v6-wild. La función está disponible para todos los suscriptores Pro y Premier, y Suno planea ampliar las capacidades de MIDI con el tiempo."
+        }
+      ]
     }
   }
 }

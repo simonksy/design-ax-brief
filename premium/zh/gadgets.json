@@ -10058,6 +10058,143 @@
           "x": "Live Rewind在设备端处理；Siri Recap总结则通过Private Cloud Compute生成。这些功能需要支持Apple Intelligence和Siri AI的iPhone 16或更新机型，初期仅支持英语。watchOS 27.3预计将于12月与iOS 27.3一同推出。"
         }
       ]
+    },
+    "gadgets/motorola-signature27-gemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Motorola正在采用Google的Gemini Intelligence功能，这是该功能在Pixel之外的首次大规模扩展，支持Gboard的Rambler等。虽然严格来说Google的Gemini Intelligence也支持Samsung最新的Galaxy设备，但真正为Pixel系列之外敞开大门的是Motorola。新款Motorola Signature 27正式支持Google大部分新功能，包括此前仅在Googlebook上提供的“Create My Widget”。"
+        },
+        {
+          "t": "p",
+          "x": "“Create My Widget”让用户向Gemini描述想要的小组件功能，随后由AI生成可用的小组件。Motorola确认，该功能将在11月19日发售当天开箱即用。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Create-My-Widget-7.jpg?quality=82&strip=all&w=800"
+        },
+        {
+          "t": "p",
+          "x": "Gboard Rambler能清理长段语音转文字提示中的口头赘词，还能添加格式；Sign-to-Text则通过视频将美国手语（American Sign Language）翻译成英文文本。借助Gemini任务自动化，AI可在后台通过Uber、DoorDash等受支持的应用执行任务。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-on-Pixel-11.jpg?quality=82&strip=all&w=800"
+        },
+        {
+          "t": "p",
+          "x": "Motorola Signature 27现已开放预订，这款旗舰机在美国（US）售价$1,599。"
+        }
+      ]
+    },
+    "gadgets/samsung-xr-glasses-preorder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
+          "cap": "手持Samsung Warby Parker智能眼镜的人"
+        },
+        {
+          "t": "p",
+          "x": "Samsung Android XR智能眼镜即将到来，预订现已确定于11月12日开启。这款与Google合作开发、以音频为主的智能眼镜将采用Warby Parker和Gentle Monster的镜框。价格和发货日期等细节仍有待公布。"
+        },
+        {
+          "t": "p",
+          "x": "可以预期这将是一种音频优先的Android XR体验——带内置显示屏的Samsung型号还要再等等。近期传闻称，这款眼镜最终将在12月某个时候发货。它的价格不会接近笨重的Samsung Galaxy XR头显的$1,800，但仍可能与一部像样的手机相当。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg",
+          "cap": "由Warby Parker设计的Samsung智能眼镜"
+        },
+        {
+          "t": "p",
+          "x": "购买者可以用这款智能眼镜在城中导航、辅助翻译，或者直接与Gemini聊天获取信息。眼镜还配有摄像头，Samsung会在录制时点亮LED，并在检测到LED被遮挡时拒绝拍摄。"
+        }
+      ]
+    },
+    "gadgets/subvocal-silent-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Subvocal智能眼镜利用雷达追踪嘴部动作"
+        },
+        {
+          "t": "p",
+          "x": "打字一直是我们的想法与将其传达给电脑的速度之间的瓶颈。Wispr Flow等AI-powered听写工具已让情况大为改善，但在安静的办公室、图书馆或咖啡馆里对着电脑说话往往会引人侧目。一家名为The Subvocal Company的初创公司开发了一款智能眼镜，声称能以每分钟超过200个单词的速度把无声的嘴部动作转换为文字。"
+        },
+        {
+          "t": "p",
+          "x": "该公司称，这款眼镜会向你的面部发射雷达信号。当你无声地做出词语的口型时，发音肌肉的细微动作会改变信号的反射方式。随后，AI模型会解读这些变化并将其转换为文字。整个过程不涉及摄像头。不过，你仍需刻意做出词语的口型。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses.jpg?resize=1728%2C1037&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "这家初创公司表示，已从Y Combinator和Afore Capital筹集$1.3 million，目前在美国（US）接受预约，早鸟价为$499，需支付可退还的$199定金。预计2027年第一季度开始发货。其打字速度尚未经过独立验证。"
+        }
+      ]
+    },
+    "gadgets/gadgets-gboard-rambler-learns": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
+          "cap": "在Pixel 11 Pro上使用Gboard的Rambler。"
+        },
+        {
+          "t": "p",
+          "x": "Gboard应用的最新测试版中包含线索，显示由Gemini驱动（Gemini-powered）的语音输入功能Rambler可能很快就能记住纠正过的词语和联系人列表中的姓名。目前的Rambler无法保存任何纠正，也无法随着时间推移学习你的词汇。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Remember-corrected-words-watermarked-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "在18.6.3.10测试版中，Rambler可能新增一个Remember corrected words开关：“在使用Rambler语音输入时，学习并使用你纠正过的词语。”新的Contact names开关会查看手机中的联系人，以便在语音输入时准确识别姓名。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Voice-Correction-List-Import-Export-watermarked-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "新的Voice correction list会显示所有纠正过的词语，可通过Import手动添加供Rambler学习的词语，并通过Export分享。Clear all collected words按钮会清除所有已保存的纠正。Rambler目前仍是Pixel 11系列独占功能。"
+        }
+      ]
+    },
+    "gadgets/nothing-screenfree-ai-device": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+          "cap": "图片：Dominic Preston / The Verge"
+        },
+        {
+          "t": "p",
+          "x": "Nothing CEO Carl Pei在X上发帖称，公司将于12月推出首款AI设备。距Pei宣布打造“AI-native”设备和AI操作系统的计划仅过去一年多。他没有透露这款新设备究竟是什么，只说它不会有屏幕："
+        },
+        {
+          "t": "p",
+          "x": "“我们的首款AI-native产品将于下个月发货。它是一件工具，但承载了定义Nothing产品的个性与用心。它没有新的屏幕，也不可能做成一个应用。”"
+        },
+        {
+          "t": "p",
+          "x": "Pei随帖附上一张图片，左上角写着“NOTHING(R)”，下方是一个含义不明的黑色圆角。上个月有传言称，Nothing计划推出两款AI智能眼镜，其中一款不带摄像头；更早的传言则称，公司正转向AI配件，“将自身重新定位为AI-first公司”。"
+        },
+        {
+          "t": "p",
+          "x": "Nothing的AI设备并不会是首款无屏幕AI小工具，此前已有Humane AI pin、Friend，甚至AI毛绒玩具。另据报道，OpenAI也在与Jony Ive合作开发一款AI智能音箱。Pei提到此前的AI设备时说：“整个行业都在寻找自己的iPhone时刻：吊坠、别针、眼镜、陪伴设备，某种能让AI融入每个人生活的神奇消费设备。”他补充道：“如今寻找AI界的iPhone是一条死胡同。”"
+        }
+      ]
     }
   }
 }

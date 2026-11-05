@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "section": "medicine",
   "cards": [
     {
-      "id": "jama-maternal-chatbot-rct",
+      "id": "medicine-llm-steering-depression",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "산모 건강 챗봇,\n임상시험서 효과 없어",
-      "body": "400명 시험에서 산모용 AI 챗봇은 불안·우울·산후 관리를 개선하지 못했다.",
-      "mini_headline": "산모 AI 챗봇, 시험서 효과 없어",
+      "headline": "숨은 LLM 설정이\n우울증 조언을 바꿨다",
+      "body": "숨은 설정에 공개 LLM 우울증 조언이 바뀌었고 선호 없는 이용자가 가장 흔들렸다.",
+      "mini_headline": "숨은 LLM 설정, 우울증 조언 바꿔",
       "tool": "Medicine",
       "source": "JAMA Network Open",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41062",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41142",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
@@ -19,149 +19,203 @@
         "blocks": [
           {
             "t": "p",
-            "x": "이 2군 무작위 임상시험에는 참가자 400명이 등록했다. 2023년 10월부터 2024년 12월까지 미국(US) 49개 주와 컬럼비아 특별구(District of Columbia)에서 온라인으로 모집한 인종·민족 소수 집단의 영어 사용(English-speaking) 임신부 또는 출산 후 참가자(영아 생후 6개월 미만)다."
+            "x": "이 질 개선 연구는 활성화 조정(activation steering)으로 오픈 웨이트 대형언어모델(LLM)이 우울증 치료 질문에 내놓는 답이 달라지는지 살폈다. 추론 단계에서 모델 활성값을 바꾸면 목표 차원의 행동이 움직이는데, 최종 사용자는 이를 알아채지 못한다."
           },
           {
             "t": "p",
-            "x": "참가자는 생성형 AI 산모 건강 챗봇 군과 매달 어린이 책을 받는 활성 대조군에 1:1로 무작위 배정됐다. 1차 결과변수는 12개월 시점의 불안(GAD-7)과 우울(PHQ-9)이다."
+            "x": "연구진은 오픈소스 도구 DS4로 항우울제 복용과 자기주도 방식(식단, 운동, 명상, 건강보조제)을 맞세운 조정 방향 하나를 DeepSeek version 4 Flash에 걸었다. 우울증 치료 조언 시나리오 12개마다 조정 강도 30단계와 조정 없는 기준선에서 답변을 뽑았다. 점수는 눈가림한 인간 전문가와 대조해 검증한 LLM 평가자가 매겼다."
           },
           {
             "t": "p",
-            "x": "챗봇은 불안(보정 평균차 0.10; 95% CI, −0.77~0.96)이나 우울(−0.23; 95% CI, −1.05~0.59)의 차이와 관련이 없었다. 응급실 방문, 산후 관리, 피임 사용, 수면 시간도 마찬가지였다."
+            "x": "LLM이 매긴(LLM-rated) 약물 대 자기관리 균형 점수는 조정 강도 단위당 0.32씩 내려갔다. 약물 쪽으로 가장 세게 조정하면 1.25, 조정하지 않으면 0.92, 자기관리 쪽으로 가장 세게 조정하면 0.17이었다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2dfd/13732501/7d90c3b3ea8e/jamanetwopen-e2641142-g001.webp",
+            "cap": "주의 조정(attention steering)에 따라 달라진 우울증 치료 조언의 약물·자기관리 내용"
           },
           {
             "t": "p",
-            "x": "등록 당시 임신 중이던 참가자의 12개월 2차 분석에서는 챗봇이 자가 보고 임신 관련 합병증 증가와 관련이 있었으나, 종단 분석에서는 그렇지 않았다. 연구진은 2차·탐색적 결과를 신중히 해석하라고 당부했다(NCT06053515)."
+            "x": "조정이 약물 언급 정도를 가장 크게 움직인 곳은 치료 선호를 밝히지 않은 시나리오였다(강도 단위당 β = −0.44). 임상의와 상담하라는 권고는 372개 답변 중 322개(87%)에 들어 있었고 조정 강도와는 상관이 없었다."
+          },
+          {
+            "t": "p",
+            "x": "효과는 환자 선호에 따라 갈렸다. 약물을 원한다거나 원치 않는다고 분명히 밝힌 요청은 뒤집지 못했다. 대신 선호를 밝히지 않아 프레이밍에 가장 휘둘리기 쉬운 사용자에게는 영향을 줬다. 모델을 임상 결정에 쓰려면 독립적인 감사와 벤치마킹이 필요하다는 결과다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Maternal health chatbot\nshows no benefit in trial",
-          "body": "In a 400-person trial, a maternal health AI chatbot did not improve anxiety, depression or postpartum care.",
-          "mini_headline": "Maternal AI chatbot: null trial",
+          "headline": "Hidden LLM setting quietly\nshifts depression advice",
+          "body": "A hidden steering setting shifted an open LLM's depression-treatment advice, most for users with no stated preference.",
+          "mini_headline": "Hidden LLM setting\nshifts depression advice",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "This 2-group randomized clinical trial enrolled 400 English-speaking pregnant or postpartum participants (infant younger than 6 months) from racial and ethnic minoritized groups, recruited online across 49 US states and the District of Columbia between October 2023 and December 2024."
+                "x": "This quality improvement study evaluates whether activation steering changes an open-weights large language model's (LLM) responses to questions about treatment for depression. Inference-time activation steering alters model activations to shift behavior on a target dimension while remaining undetectable by the end user."
               },
               {
                 "t": "p",
-                "x": "Participants were randomized 1:1 to a generative AI maternal health chatbot or an active control of monthly children's books. Primary outcomes were anxiety (GAD-7) and depression (PHQ-9) at 12 months."
+                "x": "Using the open-source tool DS4, a single steering direction contrasting antidepressant medication with self-directed approaches (diet, exercise, meditation, dietary supplements) was applied to DeepSeek version 4 Flash. Responses to 12 depression-treatment advice scenarios were generated at 30 steering amplitudes plus an unsteered baseline and scored by an LLM rater validated against a blinded human expert."
               },
               {
                 "t": "p",
-                "x": "The chatbot was not associated with differences in anxiety (adjusted mean difference, 0.10; 95% CI, −0.77 to 0.96) or depression (−0.23; 95% CI, −1.05 to 0.59), nor with emergency department visits, postpartum care, contraception use or sleep duration."
+                "x": "The LLM-rated medication-vs-self-care balance declined by 0.32 per unit of steering amplitude, from 1.25 at the strongest medication steering to 0.92 without steering and 0.17 at the strongest self-care steering."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2dfd/13732501/7d90c3b3ea8e/jamanetwopen-e2641142-g001.webp",
+                "cap": "Outcomes of attention steering on medication and self-care content of depression treatment advice"
               },
               {
                 "t": "p",
-                "x": "Among those pregnant at enrollment, the chatbot was associated with more self-reported pregnancy-related complications in the secondary 12-month analysis, but not in longitudinal analyses. The authors say secondary and exploratory findings should be interpreted cautiously (NCT06053515)."
+                "x": "Among scenarios without stated treatment preference, steering shifted medication extent most substantially (β = −0.44 per unit amplitude). A recommendation to consult a clinician was present in 322 of 372 responses (87%) and did not vary by steering amplitude."
+              },
+              {
+                "t": "p",
+                "x": "The impact was dependent on patient preference: it did not override an explicit request for or against medication but impacted users without stated preference, who may be most susceptible to framing. The results suggest the need for independent auditing and benchmarking if models are used to inform clinical decisions."
               }
             ]
           }
         },
         "ko": {
-          "headline": "산모 건강 챗봇,\n임상시험서 효과 없어",
-          "body": "400명 시험에서 산모용 AI 챗봇은 불안·우울·산후 관리를 개선하지 못했다.",
-          "mini_headline": "산모 AI 챗봇, 시험서 효과 없어",
+          "headline": "숨은 LLM 설정이\n우울증 조언을 바꿨다",
+          "body": "숨은 설정에 공개 LLM 우울증 조언이 바뀌었고 선호 없는 이용자가 가장 흔들렸다.",
+          "mini_headline": "숨은 LLM 설정, 우울증 조언 바꿔",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "이 2군 무작위 임상시험에는 참가자 400명이 등록했다. 2023년 10월부터 2024년 12월까지 미국(US) 49개 주와 컬럼비아 특별구(District of Columbia)에서 온라인으로 모집한 인종·민족 소수 집단의 영어 사용(English-speaking) 임신부 또는 출산 후 참가자(영아 생후 6개월 미만)다."
+                "x": "이 질 개선 연구는 활성화 조정(activation steering)으로 오픈 웨이트 대형언어모델(LLM)이 우울증 치료 질문에 내놓는 답이 달라지는지 살폈다. 추론 단계에서 모델 활성값을 바꾸면 목표 차원의 행동이 움직이는데, 최종 사용자는 이를 알아채지 못한다."
               },
               {
                 "t": "p",
-                "x": "참가자는 생성형 AI 산모 건강 챗봇 군과 매달 어린이 책을 받는 활성 대조군에 1:1로 무작위 배정됐다. 1차 결과변수는 12개월 시점의 불안(GAD-7)과 우울(PHQ-9)이다."
+                "x": "연구진은 오픈소스 도구 DS4로 항우울제 복용과 자기주도 방식(식단, 운동, 명상, 건강보조제)을 맞세운 조정 방향 하나를 DeepSeek version 4 Flash에 걸었다. 우울증 치료 조언 시나리오 12개마다 조정 강도 30단계와 조정 없는 기준선에서 답변을 뽑았다. 점수는 눈가림한 인간 전문가와 대조해 검증한 LLM 평가자가 매겼다."
               },
               {
                 "t": "p",
-                "x": "챗봇은 불안(보정 평균차 0.10; 95% CI, −0.77~0.96)이나 우울(−0.23; 95% CI, −1.05~0.59)의 차이와 관련이 없었다. 응급실 방문, 산후 관리, 피임 사용, 수면 시간도 마찬가지였다."
+                "x": "LLM이 매긴(LLM-rated) 약물 대 자기관리 균형 점수는 조정 강도 단위당 0.32씩 내려갔다. 약물 쪽으로 가장 세게 조정하면 1.25, 조정하지 않으면 0.92, 자기관리 쪽으로 가장 세게 조정하면 0.17이었다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2dfd/13732501/7d90c3b3ea8e/jamanetwopen-e2641142-g001.webp",
+                "cap": "주의 조정(attention steering)에 따라 달라진 우울증 치료 조언의 약물·자기관리 내용"
               },
               {
                 "t": "p",
-                "x": "등록 당시 임신 중이던 참가자의 12개월 2차 분석에서는 챗봇이 자가 보고 임신 관련 합병증 증가와 관련이 있었으나, 종단 분석에서는 그렇지 않았다. 연구진은 2차·탐색적 결과를 신중히 해석하라고 당부했다(NCT06053515)."
+                "x": "조정이 약물 언급 정도를 가장 크게 움직인 곳은 치료 선호를 밝히지 않은 시나리오였다(강도 단위당 β = −0.44). 임상의와 상담하라는 권고는 372개 답변 중 322개(87%)에 들어 있었고 조정 강도와는 상관이 없었다."
+              },
+              {
+                "t": "p",
+                "x": "효과는 환자 선호에 따라 갈렸다. 약물을 원한다거나 원치 않는다고 분명히 밝힌 요청은 뒤집지 못했다. 대신 선호를 밝히지 않아 프레이밍에 가장 휘둘리기 쉬운 사용자에게는 영향을 줬다. 모델을 임상 결정에 쓰려면 독립적인 감사와 벤치마킹이 필요하다는 결과다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "妊産婦向けチャットボット\n試験で効果示せず",
-          "body": "400人の試験で、妊産婦向けAIチャットボットは不安・抑うつ・産後ケアを改善しなかった。",
-          "mini_headline": "妊産婦AIチャットボット、効果なし",
+          "headline": "隠れたLLM設定が\nうつ病助言を静かに変える",
+          "body": "隠れた設定が公開LLMのうつ病治療助言を変え、希望を示さない利用者で影響が最大だった。",
+          "mini_headline": "隠れたLLM設定がうつ病助言を変える",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "この2群ランダム化臨床試験は、2023年10月から2024年12月にかけて米国(US)49州とコロンビア特別区(District of Columbia)でオンライン募集した、人種・民族的マイノリティの英語話者(English-speaking)の妊婦または産後の参加者(乳児は生後6カ月未満)400人を登録した。"
+                "x": "この品質改善研究は、活性化ステアリング(activation steering)がオープンウェイトの大規模言語モデル(LLM)によるうつ病治療に関する質問への回答を変えるかを評価した。推論時の活性化ステアリングはモデルの活性化を変えて目標とする次元で挙動をずらすが、エンドユーザーには検知できない。"
               },
               {
                 "t": "p",
-                "x": "参加者は生成AIの妊産婦向けチャットボット群と、毎月児童書を届ける実対照群に1:1で無作為に割り付けられた。主要評価項目は12カ月時点の不安(GAD-7)と抑うつ(PHQ-9)である。"
+                "x": "オープンソースのツールDS4を使い、抗うつ薬と自己主導型の方法(食事、運動、瞑想、サプリメント)を対比させた単一のステアリング方向をDeepSeek version 4 Flashに適用した。12のうつ病治療助言シナリオへの回答を30段階のステアリング強度と非ステアリングの基準条件で生成し、盲検化した人間の専門家に照らして検証したLLM評価者が採点した。"
               },
               {
                 "t": "p",
-                "x": "チャットボットは不安(調整平均差0.10、95% CI −0.77〜0.96)や抑うつ(−0.23、95% CI −1.05〜0.59)の差とは関連せず、救急外来受診、産後ケア、避妊法の使用、睡眠時間とも関連しなかった。"
+                "x": "LLMが評価した(LLM-rated)薬物対セルフケアのバランスはステアリング強度の単位あたり0.32低下し、薬物方向の最強ステアリングで1.25、ステアリングなしで0.92、セルフケア方向の最強ステアリングで0.17だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2dfd/13732501/7d90c3b3ea8e/jamanetwopen-e2641142-g001.webp",
+                "cap": "注意ステアリング(attention steering)がうつ病治療助言の薬物・セルフケア内容に与えた結果"
               },
               {
                 "t": "p",
-                "x": "登録時に妊娠中だった参加者では、12カ月の二次解析でチャットボットが自己申告の妊娠関連合併症の増加と関連したが、縦断解析では関連しなかった。著者らは、二次的・探索的な結果は慎重に解釈すべきだとしている(NCT06053515)。"
+                "x": "治療の希望を示さないシナリオでは、ステアリングが薬物への言及度合いを最も大きく動かした(強度の単位あたりβ = −0.44)。臨床医への相談を勧める記述は372件中322件(87%)にあり、ステアリング強度で変わらなかった。"
+              },
+              {
+                "t": "p",
+                "x": "影響は患者の希望に左右された。薬物を望む、あるいは望まないという明示的な要望を覆すことはなかったが、希望を示さず、枠組みの影響を最も受けやすいとみられる利用者には影響した。結果は、モデルを臨床判断に使うなら独立した監査とベンチマーキングが必要であることを示唆する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "孕产妇健康聊天机器人\n试验未见益处",
-          "body": "在一项400人试验中，孕产妇健康AI聊天机器人未能改善焦虑、抑郁或产后护理。",
-          "mini_headline": "孕产妇AI聊天机器人：试验无效",
+          "headline": "隐藏LLM设置\n悄然改变抑郁症建议",
+          "body": "隐藏的引导设置改变了开放LLM的抑郁症治疗建议，对未表明偏好的用户影响最大。",
+          "mini_headline": "隐藏LLM设置改变抑郁症建议",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "这项2组随机临床试验于2023年10月至2024年12月在美国（US）49个州及哥伦比亚特区（District of Columbia）在线招募，纳入400名来自少数种族和族裔群体、讲英语（English-speaking）的孕期或产后参与者（婴儿不满6个月）。"
+                "x": "这项质量改进研究评估了激活引导(activation steering)是否会改变开放权重大语言模型(LLM)对抑郁症治疗相关问题的回答。推理时的激活引导通过改变模型激活值，使其在目标维度上的行为发生偏移，而终端用户无法察觉。"
               },
               {
                 "t": "p",
-                "x": "参与者按1:1随机分配至生成式AI孕产妇健康聊天机器人组或每月赠送儿童读物的积极对照组。主要结局为12个月时的焦虑（GAD-7）和抑郁（PHQ-9）。"
+                "x": "研究使用开源工具DS4，将一个对比抗抑郁药物与自主方式(饮食、运动、冥想、膳食补充剂)的单一引导方向施加于DeepSeek version 4 Flash。研究在30个引导强度及一个无引导基线下，针对12个抑郁症治疗建议情境生成回答，并由一个经盲法人类专家验证的LLM评分者打分。"
               },
               {
                 "t": "p",
-                "x": "聊天机器人与焦虑（校正平均差0.10；95% CI，−0.77至0.96）或抑郁（−0.23；95% CI，−1.05至0.59）的差异均无关联，与急诊就诊、产后护理、避孕措施使用或睡眠时长也无关联。"
+                "x": "LLM评分(LLM-rated)的药物与自我护理平衡度随引导强度每单位下降0.32，从最强药物引导时的1.25，到无引导时的0.92，再到最强自我护理引导时的0.17。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2dfd/13732501/7d90c3b3ea8e/jamanetwopen-e2641142-g001.webp",
+                "cap": "注意力引导(attention steering)对抑郁症治疗建议中药物与自我护理内容的影响"
               },
               {
                 "t": "p",
-                "x": "在入组时已怀孕的参与者中，12个月二次分析显示聊天机器人与更多自报妊娠相关并发症有关，但纵向分析中未见此关联。作者表示，二次和探索性结果应谨慎解读（NCT06053515）。"
+                "x": "在未表明治疗偏好的情境中，引导对药物推荐程度的影响最大(每单位强度β = −0.44)。372条回答中有322条(87%)建议咨询临床医生，且不随引导强度变化。"
+              },
+              {
+                "t": "p",
+                "x": "影响取决于患者偏好：引导不会推翻支持或反对用药的明确请求，但会影响未表明偏好、可能最易受表述框架左右的用户。结果提示，若用模型辅助临床决策，需要进行独立审计与基准测试。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Chatbot de salud materna\nsin beneficios en un ensayo",
-          "body": "En un ensayo con 400 personas, un chatbot AI de salud materna no mejoró ansiedad, depresión ni atención posparto.",
-          "mini_headline": "Chatbot AI materno: ensayo nulo",
+          "headline": "Un ajuste oculto del LLM cambia\nsus consejos sobre depresión",
+          "body": "Un ajuste oculto alteró los consejos sobre depresión de un LLM abierto, sobre todo en usuarios sin preferencia expresa.",
+          "mini_headline": "Un ajuste oculto del LLM cambia consejos sobre depresión",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Este ensayo clínico aleatorizado de 2 grupos incluyó a 400 participantes embarazadas o en posparto (con bebés menores de 6 meses), de habla inglesa (English-speaking) y pertenecientes a grupos raciales y étnicos minorizados, reclutadas en línea en 49 estados de EE. UU. (US) y el Distrito de Columbia (District of Columbia) entre octubre de 2023 y diciembre de 2024."
+                "x": "Este estudio de mejora de la calidad evalúa si la dirección de activaciones (activation steering) cambia las respuestas de un modelo de lenguaje grande (LLM) de pesos abiertos a preguntas sobre el tratamiento de la depresión. La dirección de activaciones en tiempo de inferencia altera las activaciones del modelo para desplazar su comportamiento en una dimensión objetivo, sin que el usuario final pueda detectarlo."
               },
               {
                 "t": "p",
-                "x": "Las participantes se asignaron al azar 1:1 a un chatbot de salud materna con AI generativa o a un control activo de libros infantiles mensuales. Los resultados primarios fueron la ansiedad (GAD-7) y la depresión (PHQ-9) a los 12 meses."
+                "x": "Con la herramienta de código abierto DS4 se aplicó a DeepSeek version 4 Flash una única dirección que contrastaba la medicación antidepresiva con enfoques autodirigidos (dieta, ejercicio, meditación, suplementos dietéticos). Se generaron respuestas a 12 escenarios de consejo sobre el tratamiento de la depresión con 30 amplitudes de dirección más una línea base sin dirección, y las puntuó un evaluador LLM validado frente a un experto humano cegado."
               },
               {
                 "t": "p",
-                "x": "El chatbot no se asoció con diferencias en ansiedad (diferencia media ajustada, 0.10; 95% CI, −0.77 a 0.96) ni en depresión (−0.23; 95% CI, −1.05 a 0.59), ni con visitas a urgencias, atención posparto, uso de anticonceptivos o duración del sueño."
+                "x": "El equilibrio entre medicación y autocuidado puntuado por el LLM (LLM-rated) disminuyó 0.32 por unidad de amplitud, de 1.25 con la dirección más fuerte hacia la medicación a 0.92 sin dirección y 0.17 con la dirección más fuerte hacia el autocuidado."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2dfd/13732501/7d90c3b3ea8e/jamanetwopen-e2641142-g001.webp",
+                "cap": "Resultados de la dirección de atención (attention steering) sobre el contenido de medicación y autocuidado en los consejos para tratar la depresión"
               },
               {
                 "t": "p",
-                "x": "Entre quienes estaban embarazadas al inscribirse, el chatbot se asoció con más complicaciones del embarazo autodeclaradas en el análisis secundario a 12 meses, pero no en los análisis longitudinales. Los autores señalan que los hallazgos secundarios y exploratorios deben interpretarse con cautela (NCT06053515)."
+                "x": "En los escenarios sin preferencia de tratamiento declarada, la dirección desplazó con más fuerza el peso de la medicación (β = −0.44 por unidad de amplitud). La recomendación de consultar a un clínico apareció en 322 de 372 respuestas (87%) y no varió con la amplitud."
+              },
+              {
+                "t": "p",
+                "x": "El efecto dependió de la preferencia del paciente: no anuló una petición explícita a favor o en contra de la medicación, pero sí afectó a usuarios sin preferencia declarada, que pueden ser los más susceptibles al encuadre. Los resultados sugieren la necesidad de auditorías y evaluaciones comparativas independientes si los modelos se usan para orientar decisiones clínicas."
               }
             ]
           }
@@ -169,105 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "산모 건강 챗봇,\n임상시험서 효과 없어",
-          "body": "400명 시험에서 산모용 AI 챗봇은 불안·우울·산후 관리를 개선하지 못했다.",
-          "mini_headline": "산모 AI 챗봇, 시험서 효과 없어",
+          "headline": "숨은 LLM 설정이\n우울증 조언을 바꿨다",
+          "body": "숨은 설정이 공개 LLM 우울증 조언을 바꿨고 선호 없는 이용자가 가장 흔들렸다.",
+          "mini_headline": "숨은 LLM 설정, 우울증 조언 바꿔",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "이 2군 무작위 임상시험은 2023년 10월부터 2024년 12월까지 미국(US) 49개 주와 컬럼비아 특별구(District of Columbia)에서 온라인으로 모집한 인종·민족 소수 집단의 영어 사용(English-speaking) 임신부 또는 출산 후 참가자(영아 생후 6개월 미만) 400명을 등록했다."
+                "x": "이 질 개선 연구는 활성화 조정(activation steering)이 오픈 웨이트 대형언어모델(LLM)의 우울증 치료 질문 답변을 바꾸는지 평가했다. 추론 단계의 활성화 조정은 모델 활성값을 바꿔 목표 차원의 행동을 움직이지만, 최종 사용자는 이를 알아챌 수 없다."
               },
               {
                 "t": "p",
-                "x": "참가자는 생성형 AI 산모 건강 챗봇 군과, 매달 어린이 책을 받는 활성 대조군에 1:1로 무작위 배정됐다. 1차 결과변수는 12개월 시점의 불안(GAD-7)과 우울(PHQ-9)이었다."
+                "x": "연구진은 오픈소스 도구 DS4로 항우울제 복용과 자기주도 방식(식단, 운동, 명상, 건강보조제)을 대비시킨 단일 조정 방향을 DeepSeek version 4 Flash에 적용했다. 우울증 치료 조언 시나리오 12개에 대해 조정 강도 30단계와 조정 없는 기준선에서 답변을 생성했고, 눈가림한 인간 전문가와 대조해 검증한 LLM 평가자가 점수를 매겼다."
               },
               {
                 "t": "p",
-                "x": "챗봇은 불안(보정 평균차 0.10; 95% CI, −0.77~0.96)이나 우울(−0.23; 95% CI, −1.05~0.59)의 차이와 관련이 없었고, 응급실 방문, 산후 관리, 피임 사용, 수면 시간과도 관련이 없었다."
+                "x": "LLM이 평가한(LLM-rated) 약물 대 자기관리 균형은 조정 강도 단위당 0.32씩 낮아졌다. 약물 쪽 최강 조정에서 1.25, 조정이 없을 때 0.92, 자기관리 쪽 최강 조정에서 0.17이었다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2dfd/13732501/7d90c3b3ea8e/jamanetwopen-e2641142-g001.webp",
+                "cap": "주의 조정(attention steering)이 우울증 치료 조언의 약물·자기관리 내용에 미친 결과"
               },
               {
                 "t": "p",
-                "x": "등록 당시 임신 중이던 참가자에서는 12개월 2차 분석에서 챗봇이 자가 보고 임신 관련 합병증 증가와 관련이 있었지만, 종단 분석에서는 그렇지 않았다. 연구진은 2차·탐색적 결과를 신중히 해석해야 한다고 밝혔다(NCT06053515)."
+                "x": "치료 선호를 밝히지 않은 시나리오에서 조정은 약물 언급 정도를 가장 크게 움직였다(강도 단위당 β = −0.44). 임상의 상담 권고는 372개 답변 중 322개(87%)에 들어 있었고, 조정 강도에 따라 달라지지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "영향은 환자 선호에 따라 달랐다. 약물을 원하거나 원치 않는다는 명시적 요청을 뒤집지는 않았지만, 선호를 밝히지 않아 프레이밍에 가장 취약할 수 있는 사용자에게는 영향을 줬다. 결과는 모델을 임상 결정에 활용한다면 독립적인 감사와 벤치마킹이 필요하다는 점을 시사한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "妊産婦向けチャットボット\n試験で効果示せず",
-          "body": "400人の試験で、妊産婦向けAIチャットボットは不安・抑うつ・産後ケアを改善しなかった。",
-          "mini_headline": "妊産婦AIチャットボット、効果なし",
+          "headline": "隠れたLLM設定が\nうつ病助言を静かに変える",
+          "body": "隠れた設定が公開LLMのうつ病治療助言を変え、希望を示さない利用者で影響が最大だった。",
+          "mini_headline": "隠れたLLM設定がうつ病助言を変える",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "この2群ランダム化臨床試験は、2023年10月から2024年12月にかけて米国(US)49州とコロンビア特別区(District of Columbia)でオンライン募集した、人種・民族的マイノリティの英語話者(English-speaking)の妊婦または産後の参加者(乳児は生後6カ月未満)400人を登録した。"
+                "x": "この品質改善研究は、活性化ステアリング(activation steering)がオープンウェイトの大規模言語モデル(LLM)によるうつ病治療に関する質問への回答を変えるかを評価した。推論時の活性化ステアリングはモデルの活性化を変えて目標とする次元で挙動をずらすが、エンドユーザーには検知できない。"
               },
               {
                 "t": "p",
-                "x": "参加者は生成AIの妊産婦向けチャットボット群と、毎月児童書を届ける実対照群に1:1で無作為に割り付けられた。主要評価項目は12カ月時点の不安(GAD-7)と抑うつ(PHQ-9)である。"
+                "x": "オープンソースのツールDS4を使い、抗うつ薬と自己主導型の方法(食事、運動、瞑想、サプリメント)を対比させた単一のステアリング方向をDeepSeek version 4 Flashに適用した。12のうつ病治療助言シナリオへの回答を30段階のステアリング強度と非ステアリングの基準条件で生成し、盲検化した人間の専門家に照らして検証したLLM評価者が採点した。"
               },
               {
                 "t": "p",
-                "x": "チャットボットは不安(調整平均差0.10、95% CI −0.77〜0.96)や抑うつ(−0.23、95% CI −1.05〜0.59)の差とは関連せず、救急外来受診、産後ケア、避妊法の使用、睡眠時間とも関連しなかった。"
+                "x": "LLMが評価した(LLM-rated)薬物対セルフケアのバランスはステアリング強度の単位あたり0.32低下し、薬物方向の最強ステアリングで1.25、ステアリングなしで0.92、セルフケア方向の最強ステアリングで0.17だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2dfd/13732501/7d90c3b3ea8e/jamanetwopen-e2641142-g001.webp",
+                "cap": "注意ステアリング(attention steering)がうつ病治療助言の薬物・セルフケア内容に与えた結果"
               },
               {
                 "t": "p",
-                "x": "登録時に妊娠中だった参加者では、12カ月の二次解析でチャットボットが自己申告の妊娠関連合併症の増加と関連したが、縦断解析では関連しなかった。著者らは、二次的・探索的な結果は慎重に解釈すべきだとしている(NCT06053515)。"
+                "x": "治療の希望を示さないシナリオでは、ステアリングが薬物への言及度合いを最も大きく動かした(強度の単位あたりβ = −0.44)。臨床医への相談を勧める記述は372件中322件(87%)にあり、ステアリング強度で変わらなかった。"
+              },
+              {
+                "t": "p",
+                "x": "影響は患者の希望に左右された。薬物を望む、あるいは望まないという明示的な要望を覆すことはなかったが、希望を示さず、枠組みの影響を最も受けやすいとみられる利用者には影響した。結果は、モデルを臨床判断に使うなら独立した監査とベンチマーキングが必要であることを示唆する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "孕产妇健康聊天机器人\n试验未见益处",
-          "body": "在一项400人试验中，孕产妇健康AI聊天机器人未能改善焦虑、抑郁或产后护理。",
-          "mini_headline": "孕产妇AI聊天机器人：试验无效",
+          "headline": "隐藏LLM设置\n悄然改变抑郁症建议",
+          "body": "隐藏的引导设置改变了开放LLM的抑郁症治疗建议，对未表明偏好的用户影响最大。",
+          "mini_headline": "隐藏LLM设置改变抑郁症建议",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "这项2组随机临床试验于2023年10月至2024年12月在美国（US）49个州及哥伦比亚特区（District of Columbia）在线招募，纳入400名来自少数种族和族裔群体、讲英语（English-speaking）的孕期或产后参与者（婴儿不满6个月）。"
+                "x": "这项质量改进研究评估了激活引导(activation steering)是否会改变开放权重大语言模型(LLM)对抑郁症治疗相关问题的回答。推理时的激活引导通过改变模型激活值，使其在目标维度上的行为发生偏移，而终端用户无法察觉。"
               },
               {
                 "t": "p",
-                "x": "参与者按1:1随机分配至生成式AI孕产妇健康聊天机器人组或每月赠送儿童读物的积极对照组。主要结局为12个月时的焦虑（GAD-7）和抑郁（PHQ-9）。"
+                "x": "研究使用开源工具DS4，将一个对比抗抑郁药物与自主方式(饮食、运动、冥想、膳食补充剂)的单一引导方向施加于DeepSeek version 4 Flash。研究在30个引导强度及一个无引导基线下，针对12个抑郁症治疗建议情境生成回答，并由一个经盲法人类专家验证的LLM评分者打分。"
               },
               {
                 "t": "p",
-                "x": "聊天机器人与焦虑（校正平均差0.10；95% CI，−0.77至0.96）或抑郁（−0.23；95% CI，−1.05至0.59）的差异均无关联，与急诊就诊、产后护理、避孕措施使用或睡眠时长也无关联。"
+                "x": "LLM评分(LLM-rated)的药物与自我护理平衡度随引导强度每单位下降0.32，从最强药物引导时的1.25，到无引导时的0.92，再到最强自我护理引导时的0.17。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2dfd/13732501/7d90c3b3ea8e/jamanetwopen-e2641142-g001.webp",
+                "cap": "注意力引导(attention steering)对抑郁症治疗建议中药物与自我护理内容的影响"
               },
               {
                 "t": "p",
-                "x": "在入组时已怀孕的参与者中，12个月二次分析显示聊天机器人与更多自报妊娠相关并发症有关，但纵向分析中未见此关联。作者表示，二次和探索性结果应谨慎解读（NCT06053515）。"
+                "x": "在未表明治疗偏好的情境中，引导对药物推荐程度的影响最大(每单位强度β = −0.44)。372条回答中有322条(87%)建议咨询临床医生，且不随引导强度变化。"
+              },
+              {
+                "t": "p",
+                "x": "影响取决于患者偏好：引导不会推翻支持或反对用药的明确请求，但会影响未表明偏好、可能最易受表述框架左右的用户。结果提示，若用模型辅助临床决策，需要进行独立审计与基准测试。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Chatbot de salud materna\nsin beneficios en un ensayo",
-          "body": "En un ensayo con 400 personas, un chatbot AI de salud materna no mejoró ansiedad, depresión ni atención posparto.",
-          "mini_headline": "Chatbot AI materno: ensayo nulo",
+          "headline": "Un ajuste oculto del LLM cambia\nsus consejos sobre depresión",
+          "body": "Un ajuste oculto alteró los consejos sobre depresión de un LLM abierto, sobre todo en usuarios sin preferencia expresa.",
+          "mini_headline": "Un ajuste oculto del LLM cambia consejos sobre depresión",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Este ensayo clínico aleatorizado de 2 grupos incluyó a 400 participantes embarazadas o en posparto (con bebés menores de 6 meses), de habla inglesa (English-speaking) y pertenecientes a grupos raciales y étnicos minorizados, reclutadas en línea en 49 estados de EE. UU. (US) y el Distrito de Columbia (District of Columbia) entre octubre de 2023 y diciembre de 2024."
+                "x": "Este estudio de mejora de la calidad evalúa si la dirección de activaciones (activation steering) cambia las respuestas de un modelo de lenguaje grande (LLM) de pesos abiertos a preguntas sobre el tratamiento de la depresión. La dirección de activaciones en tiempo de inferencia altera las activaciones del modelo para desplazar su comportamiento en una dimensión objetivo, sin que el usuario final pueda detectarlo."
               },
               {
                 "t": "p",
-                "x": "Las participantes se asignaron al azar 1:1 a un chatbot de salud materna con AI generativa o a un control activo de libros infantiles mensuales. Los resultados primarios fueron la ansiedad (GAD-7) y la depresión (PHQ-9) a los 12 meses."
+                "x": "Con la herramienta de código abierto DS4 se aplicó a DeepSeek version 4 Flash una única dirección que contrastaba la medicación antidepresiva con enfoques autodirigidos (dieta, ejercicio, meditación, suplementos dietéticos). Se generaron respuestas a 12 escenarios de consejo sobre el tratamiento de la depresión con 30 amplitudes de dirección más una línea base sin dirección, y las puntuó un evaluador LLM validado frente a un experto humano cegado."
               },
               {
                 "t": "p",
-                "x": "El chatbot no se asoció con diferencias en ansiedad (diferencia media ajustada, 0.10; 95% CI, −0.77 a 0.96) ni en depresión (−0.23; 95% CI, −1.05 a 0.59), ni con visitas a urgencias, atención posparto, uso de anticonceptivos o duración del sueño."
+                "x": "El equilibrio entre medicación y autocuidado puntuado por el LLM (LLM-rated) disminuyó 0.32 por unidad de amplitud, de 1.25 con la dirección más fuerte hacia la medicación a 0.92 sin dirección y 0.17 con la dirección más fuerte hacia el autocuidado."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2dfd/13732501/7d90c3b3ea8e/jamanetwopen-e2641142-g001.webp",
+                "cap": "Resultados de la dirección de atención (attention steering) sobre el contenido de medicación y autocuidado en los consejos para tratar la depresión"
               },
               {
                 "t": "p",
-                "x": "Entre quienes estaban embarazadas al inscribirse, el chatbot se asoció con más complicaciones del embarazo autodeclaradas en el análisis secundario a 12 meses, pero no en los análisis longitudinales. Los autores señalan que los hallazgos secundarios y exploratorios deben interpretarse con cautela (NCT06053515)."
+                "x": "En los escenarios sin preferencia de tratamiento declarada, la dirección desplazó con más fuerza el peso de la medicación (β = −0.44 por unidad de amplitud). La recomendación de consultar a un clínico apareció en 322 de 372 respuestas (87%) y no varió con la amplitud."
+              },
+              {
+                "t": "p",
+                "x": "El efecto dependió de la preferencia del paciente: no anuló una petición explícita a favor o en contra de la medicación, pero sí afectó a usuarios sin preferencia declarada, que pueden ser los más susceptibles al encuadre. Los resultados sugieren la necesidad de auditorías y evaluaciones comparativas independientes si los modelos se usan para orientar decisiones clínicas."
               }
             ]
           }
@@ -275,171 +365,141 @@
       }
     },
     {
-      "id": "mayo-platform-cds-ehr",
+      "id": "medicine-brainct-clip-worklist",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Mayo Clinic,\nEHR에 AI 결정 지원",
-      "body": "Mayo의 EHR 도구는 35+ 분야 LLM 채팅과 계산기 22종을 갖췄다.",
-      "mini_headline": "Mayo, EHR 속 AI 지원",
+      "headline": "범용·전문 AI가\n정상 두부 CTs 후순위로",
+      "body": "BrainCT-CLIP과 전문 검출기가 민감도를 지키며 정상 두부 CTs를 미룬다.",
+      "mini_headline": "짝 이룬 AI, 정상 두부 CTs 후순위로",
       "tool": "Medicine",
-      "source": "Mayo Clinic News Network",
-      "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-platforms-new-clinical-decision-support-solution-provides-trusted-medical-information-to-enhance-individualized-patient-care/",
+      "source": "npj Digital Medicine",
+      "url": "https://www.nature.com/articles/s41746-026-03447-y",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/11/CDS-Announcement-GettyImages-1364382012-1024x683.jpg",
-            "cap": "두 임상의가 컴퓨터 모니터에 띄운 뇌 스캔 영상을 보며 이야기를 나누고 있다."
+            "t": "p",
+            "x": "조영제를 쓰지 않은 뇌 컴퓨터단층촬영(NCCT)을 안전하게 후순위로 돌리려면 임상적 주의가 필요한 소견을 흔하든 드물든 높은 민감도와 음성예측도(NPV)로 잡아내야 한다. 연구진은 대조 언어-이미지 사전학습(CLIP)으로 만든 범용 파운데이션 모델 BrainCT-CLIP에 상용 검출기를 묶은 협업 안전망을 내놓았다. 판독 워크플로에서 빠진 검사는 없었고, 어느 모델도 양성 결과를 내지 않을 때만 후순위로 밀렸다."
           },
           {
             "t": "p",
-            "x": "Mayo Clinic Platform이 Mayo Clinic 임상의와 자사 의료 제공자 프로그램 참여 기관을 위해 AI-enabled 임상 의사결정 지원(Clinical Decision Support, CDS) 솔루션을 내놨다. 점점 많은 EHR 환경에 통합할 수 있어 임상의가 여러 자료원을 따로 오가지 않아도 된다."
+            "x": "연속 응급·외상 코호트(n = 2001)로 한 후향적 다기관 외부 검증에서 상용 검출기만 쓰면 이상 소견이 있는 검사 324건 중 31건이 후순위로 밀렸다. 16건은 대상 질환 위음성, 15건은 검출기 적응증 밖의 소견이었다. 협업 시스템은 개발 코호트에서 미리 정한 임계값으로 이상 소견 검사를 모두 되찾았다. 민감도와 NPV는 100%였고 전체 검사의 18%(368/2001; 95% CI, 17–20)를 후순위로 돌렸다."
           },
           {
             "t": "p",
-            "x": "참여 임상의는 2026년 11월부터 대규모 언어 모델 기반의 전문 분야별 채팅을 쓸 수 있다. 채팅은 35개가 넘는 전문 분야를 다루고 동료 심사 문헌을 인용하며 매일 업데이트된다. Mayo 자체 계산기를 포함한 임상 계산기 22종도 채팅이나 음성 받아쓰기로 쓸 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "Maneesh Goyal 최고운영책임자는 검색 시간을 줄여 환자 진료에 시간을 더 쓰게 하는 것이 목표라고 했다. Gelareh Zadeh 최고의료책임자는 이 도구가 임상적 판단을 대신하지 않는다고 못 박았다."
+            "x": "영상의학과 전문의가 감독한다면 범용-전문 AI로 워크리스트를 안전하게 후순위 조정할 수 있다는 근거다. 임상적 주의가 필요한 두개내 소견을 잡는 민감도도 높았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Mayo Clinic puts AI decision\nsupport inside the EHR",
-          "body": "Mayo's EHR tool offers an LLM chat across 35+ specialties that cites current literature, plus 22 calculators.",
-          "mini_headline": "Mayo AI support in the EHR",
+          "headline": "Generalist and specialist AI\ndeprioritize normal head CTs",
+          "body": "BrainCT-CLIP and specialist detectors cross-check to push normal head CTs down the worklist with high sensitivity.",
+          "mini_headline": "Paired AI moves\nnormal head CTs down",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/11/CDS-Announcement-GettyImages-1364382012-1024x683.jpg",
-                "cap": "Two clinicians discuss brain scans displayed on computer monitors."
+                "t": "p",
+                "x": "Safe deprioritization of non-contrast brain computed tomography (NCCT) demands high sensitivity and negative predictive value (NPV) across common and uncommon findings requiring clinical attention. Here, we present a collaborative safety net integrating BrainCT-CLIP, a generalist foundation model via contrastive language-image pre-training (CLIP), with commercial detectors. Every examination remained in the reporting workflow, deprioritized only when no model returned a positive result."
               },
               {
                 "t": "p",
-                "x": "Mayo Clinic Platform launched an AI-enabled Clinical Decision Support (CDS) solution for Mayo Clinic clinicians and organizations in its healthcare provider programs. It can be integrated into a growing number of EHR environments, so clinicians need not navigate several separate resources."
+                "x": "In a retrospective multicenter external validation of consecutive emergency and trauma cohorts (n = 2001), standalone commercial detectors left 31 of 324 remarkable examinations deprioritized, including 16 target-disease false negatives and 15 outside their indications. In contrast, the collaborative system recovered every remarkable examination at a threshold prespecified in the development cohort, achieving 100% sensitivity and NPV while deprioritizing 18% of examinations (368/2001; 95% CI, 17–20)."
               },
               {
                 "t": "p",
-                "x": "Beginning in November 2026, participating clinicians get a specialty-specific chat powered by a large language model, covering more than 35 specialties, citing peer-reviewed literature and updated daily, plus 22 clinical calculators accessible via chat or voice dictation, including proprietary Mayo calculators."
-              },
-              {
-                "t": "p",
-                "x": "Chief operating officer Maneesh Goyal says the aim is less time searching and more time on patient care; chief medical officer Gelareh Zadeh stresses the tool does not replace clinical judgment."
+                "x": "These findings support generalist-specialist AI for safe worklist deprioritization under radiologist oversight, with high sensitivity for intracranial findings requiring clinical attention."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Mayo Clinic,\nEHR에 AI 결정 지원",
-          "body": "Mayo의 EHR 도구는 35+ 분야 LLM 채팅과 계산기 22종을 갖췄다.",
-          "mini_headline": "Mayo, EHR 속 AI 지원",
+          "headline": "범용·전문 AI가\n정상 두부 CTs 후순위로",
+          "body": "BrainCT-CLIP과 전문 검출기가 민감도를 지키며 정상 두부 CTs를 미룬다.",
+          "mini_headline": "짝 이룬 AI, 정상 두부 CTs 후순위로",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/11/CDS-Announcement-GettyImages-1364382012-1024x683.jpg",
-                "cap": "두 임상의가 컴퓨터 모니터에 띄운 뇌 스캔 영상을 보며 이야기를 나누고 있다."
+                "t": "p",
+                "x": "조영제를 쓰지 않은 뇌 컴퓨터단층촬영(NCCT)을 안전하게 후순위로 돌리려면 임상적 주의가 필요한 소견을 흔하든 드물든 높은 민감도와 음성예측도(NPV)로 잡아내야 한다. 연구진은 대조 언어-이미지 사전학습(CLIP)으로 만든 범용 파운데이션 모델 BrainCT-CLIP에 상용 검출기를 묶은 협업 안전망을 내놓았다. 판독 워크플로에서 빠진 검사는 없었고, 어느 모델도 양성 결과를 내지 않을 때만 후순위로 밀렸다."
               },
               {
                 "t": "p",
-                "x": "Mayo Clinic Platform이 Mayo Clinic 임상의와 자사 의료 제공자 프로그램 참여 기관을 위해 AI-enabled 임상 의사결정 지원(Clinical Decision Support, CDS) 솔루션을 내놨다. 점점 많은 EHR 환경에 통합할 수 있어 임상의가 여러 자료원을 따로 오가지 않아도 된다."
+                "x": "연속 응급·외상 코호트(n = 2001)로 한 후향적 다기관 외부 검증에서 상용 검출기만 쓰면 이상 소견이 있는 검사 324건 중 31건이 후순위로 밀렸다. 16건은 대상 질환 위음성, 15건은 검출기 적응증 밖의 소견이었다. 협업 시스템은 개발 코호트에서 미리 정한 임계값으로 이상 소견 검사를 모두 되찾았다. 민감도와 NPV는 100%였고 전체 검사의 18%(368/2001; 95% CI, 17–20)를 후순위로 돌렸다."
               },
               {
                 "t": "p",
-                "x": "참여 임상의는 2026년 11월부터 대규모 언어 모델 기반의 전문 분야별 채팅을 쓸 수 있다. 채팅은 35개가 넘는 전문 분야를 다루고 동료 심사 문헌을 인용하며 매일 업데이트된다. Mayo 자체 계산기를 포함한 임상 계산기 22종도 채팅이나 음성 받아쓰기로 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Maneesh Goyal 최고운영책임자는 검색 시간을 줄여 환자 진료에 시간을 더 쓰게 하는 것이 목표라고 했다. Gelareh Zadeh 최고의료책임자는 이 도구가 임상적 판단을 대신하지 않는다고 못 박았다."
+                "x": "영상의학과 전문의가 감독한다면 범용-전문 AI로 워크리스트를 안전하게 후순위 조정할 수 있다는 근거다. 임상적 주의가 필요한 두개내 소견을 잡는 민감도도 높았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Mayo Clinic、\nEHRにAI意思決定支援",
-          "body": "MayoのEHRツールは35+の診療科に対応するLLMチャットと計算機22種を備える。",
-          "mini_headline": "Mayo、EHR内にAI支援",
+          "headline": "汎用AIと専門AIが\n正常な頭部CTsを後回し",
+          "body": "BrainCT-CLIPと専門検出器が照合し、正常な頭部CTsを高感度で後回しにする。",
+          "mini_headline": "AIの組み合わせで正常な頭部CTsを後回し",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/11/CDS-Announcement-GettyImages-1364382012-1024x683.jpg",
-                "cap": "コンピューターのモニターに映る脳スキャン画像を見ながら話し合う二人の臨床医。"
+                "t": "p",
+                "x": "非造影頭部CT(NCCT)を安全に後回しにするには、臨床的対応が必要な一般的な所見とまれな所見の双方で、高い感度と陰性的中率(NPV)が求められる。本研究では、対照言語画像事前学習(CLIP)による汎用基盤モデルBrainCT-CLIPを商用検出器と統合した協調型セーフティネットを提示する。すべての検査は読影ワークフローに残り、いずれのモデルも陽性を返さなかった場合にのみ後回しにされた。"
               },
               {
                 "t": "p",
-                "x": "Mayo Clinic Platformは、Mayo Clinicの臨床医と同社の医療提供者プログラムに参加する組織向けに、AI-enabledの臨床意思決定支援(Clinical Decision Support、CDS)ソリューションを発表した。対応が広がるEHR環境に統合でき、臨床医は複数の情報源を個別に行き来せずに済む。"
+                "x": "連続した救急・外傷コホート(n = 2001)を対象とする後ろ向き多施設外部検証では、商用検出器単独では所見のある検査324件中31件が後回しにされ、うち16件は対象疾患の偽陰性、15件は適応外の所見だった。これに対し協調システムは、開発コホートで事前に定めた閾値で所見のある検査をすべて拾い上げ、感度とNPVは100%に達し、検査の18%(368/2001; 95% CI, 17–20)を後回しにした。"
               },
               {
                 "t": "p",
-                "x": "2026年11月から、参加する臨床医は大規模言語モデルを用いた診療科別チャットを利用できる。35を超える診療科を対象に査読済み文献を引用し、毎日更新される。さらに、Mayo独自の計算ツールを含む22種の臨床計算ツールを、チャットや音声入力で使える。"
-              },
-              {
-                "t": "p",
-                "x": "最高執行責任者のManeesh Goyal氏は、検索の時間を減らし患者ケアに充てる時間を増やすのが狙いだと述べた。最高医療責任者のGelareh Zadeh氏は、このツールが臨床判断に取って代わるものではないと強調した。"
+                "x": "これらの結果は、放射線科医の監督下で汎用AIと専門AIを組み合わせ、ワークリストを安全に後回し調整する手法を支持するもので、臨床的対応が必要な頭蓋内所見に対して高い感度を示した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Mayo Clinic\n在EHR中嵌入AI决策支持",
-          "body": "Mayo的EHR工具提供覆盖35+专科的LLM聊天，可引用最新文献，另有22种计算器。",
-          "mini_headline": "Mayo将AI支持嵌入EHR",
+          "headline": "通用与专科AI联手\n将正常头部CTs后置",
+          "body": "BrainCT-CLIP与专科检测器交叉核对，以高灵敏度将正常头部CTs移至列表后端。",
+          "mini_headline": "AI组合将正常头部CTs后置",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/11/CDS-Announcement-GettyImages-1364382012-1024x683.jpg",
-                "cap": "两名临床医生正在讨论电脑显示器上的脑部扫描图像。"
+                "t": "p",
+                "x": "要安全地降低非增强头部CT(NCCT)的优先级，需要在需临床关注的常见与少见发现上都具备高灵敏度和高阴性预测值(NPV)。本研究提出一种协作式安全网，将通过对比语言-图像预训练(CLIP)构建的通用基础模型BrainCT-CLIP与商用检测器整合。所有检查都保留在报告流程中，仅当没有任何模型给出阳性结果时才降低优先级。"
               },
               {
                 "t": "p",
-                "x": "Mayo Clinic Platform面向Mayo Clinic临床医生及其医疗服务提供者项目中的机构，推出AI-enabled临床决策支持（Clinical Decision Support，CDS）解决方案。该方案可集成到越来越多的EHR环境中，临床医生无需在多个独立资源之间来回切换。"
+                "x": "在对连续急诊和创伤队列(n = 2001)进行的回顾性多中心外部验证中，单独使用商用检测器时，324例有异常发现的检查中有31例被降低优先级，其中16例为目标疾病假阴性，15例超出其适应范围。相比之下，协作系统在开发队列预先设定的阈值下找回了全部异常检查，灵敏度和NPV均达100%，同时将18%的检查(368/2001; 95% CI, 17–20)降低优先级。"
               },
               {
                 "t": "p",
-                "x": "自2026年11月起，参与的临床医生可使用由大语言模型驱动的分专科聊天功能，覆盖超过35个专科，引用同行评审文献并每日更新；另有22种临床计算器，可通过聊天或语音听写调用，其中包括Mayo专有计算器。"
-              },
-              {
-                "t": "p",
-                "x": "首席运营官Maneesh Goyal表示，目标是减少检索时间、把更多时间用于患者诊疗；首席医疗官Gelareh Zadeh强调，该工具不会取代临床判断。"
+                "x": "这些结果支持在放射科医生监督下使用通用-专科AI安全地降低工作列表优先级，并对需临床关注的颅内发现保持高灵敏度。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Mayo Clinic integra en el EHR\nun apoyo a decisiones con AI",
-          "body": "La herramienta EHR de Mayo ofrece un chat LLM en 35+ especialidades que cita literatura actual, y 22 calculadoras.",
-          "mini_headline": "Mayo: apoyo de AI en el EHR",
+          "headline": "Dos AI, generalista y experta,\nrelegan CTs craneales normales",
+          "body": "BrainCT-CLIP y detectores expertos se verifican entre sí para relegar CTs craneales normales con alta sensibilidad.",
+          "mini_headline": "AI combinada relega CTs craneales normales",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/11/CDS-Announcement-GettyImages-1364382012-1024x683.jpg",
-                "cap": "Dos clínicos analizan escáneres cerebrales que aparecen en monitores informáticos."
+                "t": "p",
+                "x": "Relegar de forma segura las tomografías computarizadas cerebrales sin contraste (NCCT) exige alta sensibilidad y valor predictivo negativo (NPV) tanto en hallazgos frecuentes como infrecuentes que requieren atención clínica. Aquí presentamos una red de seguridad colaborativa que integra BrainCT-CLIP, un modelo fundacional generalista basado en preentrenamiento contrastivo lenguaje-imagen (CLIP), con detectores comerciales. Todos los estudios permanecieron en el flujo de informes y solo se relegaron cuando ningún modelo dio un resultado positivo."
               },
               {
                 "t": "p",
-                "x": "Mayo Clinic Platform lanzó una solución AI-enabled de apoyo a la decisión clínica (Clinical Decision Support, CDS) para los clínicos de Mayo Clinic y las organizaciones de sus programas para proveedores de atención médica. Puede integrarse en un número creciente de entornos EHR, de modo que los clínicos no tengan que recorrer varios recursos por separado."
+                "x": "En una validación externa multicéntrica retrospectiva de cohortes consecutivas de urgencias y trauma (n = 2001), los detectores comerciales por sí solos dejaron relegados 31 de 324 estudios con hallazgos relevantes, incluidos 16 falsos negativos de la enfermedad objetivo y 15 fuera de sus indicaciones. En cambio, el sistema colaborativo recuperó todos los estudios con hallazgos relevantes con un umbral predefinido en la cohorte de desarrollo, con 100% de sensibilidad y NPV, y relegó el 18% de los estudios (368/2001; 95% CI, 17–20)."
               },
               {
                 "t": "p",
-                "x": "A partir de noviembre de 2026, los clínicos participantes disponen de un chat por especialidad basado en un modelo de lenguaje de gran tamaño, que abarca más de 35 especialidades, cita literatura revisada por pares y se actualiza a diario, además de 22 calculadoras clínicas accesibles por chat o dictado de voz, entre ellas calculadoras propias de Mayo."
-              },
-              {
-                "t": "p",
-                "x": "El director de operaciones, Maneesh Goyal, afirma que el objetivo es dedicar menos tiempo a buscar y más a la atención de pacientes; la directora médica, Gelareh Zadeh, subraya que la herramienta no sustituye el juicio clínico."
+                "x": "Estos resultados respaldan el uso de AI generalista-especialista para relegar de forma segura estudios en la lista de trabajo bajo supervisión del radiólogo, con alta sensibilidad para hallazgos intracraneales que requieren atención clínica."
               }
             ]
           }
@@ -447,109 +507,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Mayo Clinic,\nEHR에 AI 결정 지원",
-          "body": "Mayo의 EHR 도구는 35+ 분야 LLM 채팅과 계산기 22종을 갖췄다.",
-          "mini_headline": "Mayo, EHR 속 AI 지원",
+          "headline": "범용·전문 AI가\n정상 두부 CTs 후순위로",
+          "body": "BrainCT-CLIP과 전문 검출기가 고민감도로 정상 두부 CTs를 미룬다.",
+          "mini_headline": "짝 이룬 AI, 정상 두부 CTs 후순위로",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/11/CDS-Announcement-GettyImages-1364382012-1024x683.jpg",
-                "cap": "두 임상의가 컴퓨터 모니터에 띄운 뇌 스캔 영상을 보며 이야기를 나누고 있다."
+                "t": "p",
+                "x": "조영제를 쓰지 않은 뇌 컴퓨터단층촬영(NCCT)을 안전하게 후순위로 돌리려면, 임상적 주의가 필요한 흔한 소견과 드문 소견 모두에서 높은 민감도와 음성예측도(NPV)가 필요하다. 연구진은 대조 언어-이미지 사전학습(CLIP)으로 만든 범용 파운데이션 모델 BrainCT-CLIP을 상용 검출기와 결합한 협업 안전망을 제시한다. 모든 검사는 판독 워크플로에 남아 있었고, 어떤 모델도 양성 결과를 내지 않은 경우에만 후순위로 밀렸다."
               },
               {
                 "t": "p",
-                "x": "Mayo Clinic Platform이 Mayo Clinic 임상의와 자사 의료 제공자 프로그램 참여 기관을 위한 AI-enabled 임상 의사결정 지원(Clinical Decision Support, CDS) 솔루션을 출시했다. 점점 늘어나는 EHR 환경에 통합할 수 있어, 임상의가 여러 자료원을 따로 오갈 필요가 없다."
+                "x": "연속된 응급·외상 코호트(n = 2001)를 대상으로 한 후향적 다기관 외부 검증에서, 상용 검출기만 쓰면 이상 소견이 있는 검사 324건 중 31건이 후순위로 밀렸다. 이 중 16건은 대상 질환 위음성이었고 15건은 검출기 적응증 밖의 소견이었다. 반면 협업 시스템은 개발 코호트에서 미리 정한 임계값으로 이상 소견 검사를 모두 되찾아 민감도와 NPV 100%를 달성했으며, 전체 검사의 18%(368/2001; 95% CI, 17–20)를 후순위로 돌렸다."
               },
               {
                 "t": "p",
-                "x": "2026년 11월부터 참여 임상의는 대규모 언어 모델 기반의 전문 분야별 채팅을 쓸 수 있다. 35개가 넘는 전문 분야를 다루고 동료 심사 문헌을 인용하며 매일 업데이트된다. 여기에 Mayo 자체 계산기를 포함해 채팅이나 음성 받아쓰기로 쓸 수 있는 임상 계산기 22종도 제공한다."
-              },
-              {
-                "t": "p",
-                "x": "Maneesh Goyal 최고운영책임자는 검색 시간을 줄이고 환자 진료에 더 많은 시간을 쓰게 하는 것이 목표라고 말했다. Gelareh Zadeh 최고의료책임자는 이 도구가 임상적 판단을 대체하지 않는다고 강조했다."
+                "x": "이 결과는 영상의학과 전문의의 감독 아래 범용-전문 AI로 워크리스트를 안전하게 후순위 조정하는 방식을 뒷받침하며, 임상적 주의가 필요한 두개내 소견에 대한 민감도가 높다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Mayo Clinic、\nEHRにAI意思決定支援",
-          "body": "MayoのEHRツールは35+の診療科に対応するLLMチャットと計算機22種を備える。",
-          "mini_headline": "Mayo、EHR内にAI支援",
+          "headline": "汎用AIと専門AIが\n正常な頭部CTsを後回し",
+          "body": "BrainCT-CLIPと専門検出器が照合し、正常な頭部CTsを高感度で後回しにする。",
+          "mini_headline": "AIの組み合わせで正常な頭部CTsを後回し",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/11/CDS-Announcement-GettyImages-1364382012-1024x683.jpg",
-                "cap": "コンピューターのモニターに映る脳スキャン画像を見ながら話し合う二人の臨床医。"
+                "t": "p",
+                "x": "非造影頭部CT(NCCT)を安全に後回しにするには、臨床的対応が必要な一般的な所見とまれな所見の双方で、高い感度と陰性的中率(NPV)が求められる。本研究では、対照言語画像事前学習(CLIP)による汎用基盤モデルBrainCT-CLIPを商用検出器と統合した協調型セーフティネットを提示する。すべての検査は読影ワークフローに残り、いずれのモデルも陽性を返さなかった場合にのみ後回しにされた。"
               },
               {
                 "t": "p",
-                "x": "Mayo Clinic Platformは、Mayo Clinicの臨床医と同社の医療提供者プログラムに参加する組織向けに、AI-enabledの臨床意思決定支援(Clinical Decision Support、CDS)ソリューションを発表した。対応が広がるEHR環境に統合でき、臨床医は複数の情報源を個別に行き来せずに済む。"
+                "x": "連続した救急・外傷コホート(n = 2001)を対象とする後ろ向き多施設外部検証では、商用検出器単独では所見のある検査324件中31件が後回しにされ、うち16件は対象疾患の偽陰性、15件は適応外の所見だった。これに対し協調システムは、開発コホートで事前に定めた閾値で所見のある検査をすべて拾い上げ、感度とNPVは100%に達し、検査の18%(368/2001; 95% CI, 17–20)を後回しにした。"
               },
               {
                 "t": "p",
-                "x": "2026年11月から、参加する臨床医は大規模言語モデルを用いた診療科別チャットを利用できる。35を超える診療科を対象に査読済み文献を引用し、毎日更新される。さらに、Mayo独自の計算ツールを含む22種の臨床計算ツールを、チャットや音声入力で使える。"
-              },
-              {
-                "t": "p",
-                "x": "最高執行責任者のManeesh Goyal氏は、検索の時間を減らし患者ケアに充てる時間を増やすのが狙いだと述べた。最高医療責任者のGelareh Zadeh氏は、このツールが臨床判断に取って代わるものではないと強調した。"
+                "x": "これらの結果は、放射線科医の監督下で汎用AIと専門AIを組み合わせ、ワークリストを安全に後回し調整する手法を支持するもので、臨床的対応が必要な頭蓋内所見に対して高い感度を示した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Mayo Clinic\n在EHR中嵌入AI决策支持",
-          "body": "Mayo的EHR工具提供覆盖35+专科的LLM聊天，可引用最新文献，另有22种计算器。",
-          "mini_headline": "Mayo将AI支持嵌入EHR",
+          "headline": "通用与专科AI联手\n将正常头部CTs后置",
+          "body": "BrainCT-CLIP与专科检测器交叉核对，以高灵敏度将正常头部CTs移至列表后端。",
+          "mini_headline": "AI组合将正常头部CTs后置",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/11/CDS-Announcement-GettyImages-1364382012-1024x683.jpg",
-                "cap": "两名临床医生正在讨论电脑显示器上的脑部扫描图像。"
+                "t": "p",
+                "x": "要安全地降低非增强头部CT(NCCT)的优先级，需要在需临床关注的常见与少见发现上都具备高灵敏度和高阴性预测值(NPV)。本研究提出一种协作式安全网，将通过对比语言-图像预训练(CLIP)构建的通用基础模型BrainCT-CLIP与商用检测器整合。所有检查都保留在报告流程中，仅当没有任何模型给出阳性结果时才降低优先级。"
               },
               {
                 "t": "p",
-                "x": "Mayo Clinic Platform面向Mayo Clinic临床医生及其医疗服务提供者项目中的机构，推出AI-enabled临床决策支持（Clinical Decision Support，CDS）解决方案。该方案可集成到越来越多的EHR环境中，临床医生无需在多个独立资源之间来回切换。"
+                "x": "在对连续急诊和创伤队列(n = 2001)进行的回顾性多中心外部验证中，单独使用商用检测器时，324例有异常发现的检查中有31例被降低优先级，其中16例为目标疾病假阴性，15例超出其适应范围。相比之下，协作系统在开发队列预先设定的阈值下找回了全部异常检查，灵敏度和NPV均达100%，同时将18%的检查(368/2001; 95% CI, 17–20)降低优先级。"
               },
               {
                 "t": "p",
-                "x": "自2026年11月起，参与的临床医生可使用由大语言模型驱动的分专科聊天功能，覆盖超过35个专科，引用同行评审文献并每日更新；另有22种临床计算器，可通过聊天或语音听写调用，其中包括Mayo专有计算器。"
-              },
-              {
-                "t": "p",
-                "x": "首席运营官Maneesh Goyal表示，目标是减少检索时间、把更多时间用于患者诊疗；首席医疗官Gelareh Zadeh强调，该工具不会取代临床判断。"
+                "x": "这些结果支持在放射科医生监督下使用通用-专科AI安全地降低工作列表优先级，并对需临床关注的颅内发现保持高灵敏度。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Mayo Clinic integra en el EHR\nun apoyo a decisiones con AI",
-          "body": "La herramienta EHR de Mayo ofrece un chat LLM en 35+ especialidades que cita literatura actual, y 22 calculadoras.",
-          "mini_headline": "Mayo: apoyo de AI en el EHR",
+          "headline": "Dos AI, generalista y experta,\nrelegan CTs craneales normales",
+          "body": "BrainCT-CLIP y detectores expertos se verifican entre sí para relegar CTs craneales normales con alta sensibilidad.",
+          "mini_headline": "AI combinada relega CTs craneales normales",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/11/CDS-Announcement-GettyImages-1364382012-1024x683.jpg",
-                "cap": "Dos clínicos analizan escáneres cerebrales que aparecen en monitores informáticos."
+                "t": "p",
+                "x": "Relegar de forma segura las tomografías computarizadas cerebrales sin contraste (NCCT) exige alta sensibilidad y valor predictivo negativo (NPV) tanto en hallazgos frecuentes como infrecuentes que requieren atención clínica. Aquí presentamos una red de seguridad colaborativa que integra BrainCT-CLIP, un modelo fundacional generalista basado en preentrenamiento contrastivo lenguaje-imagen (CLIP), con detectores comerciales. Todos los estudios permanecieron en el flujo de informes y solo se relegaron cuando ningún modelo dio un resultado positivo."
               },
               {
                 "t": "p",
-                "x": "Mayo Clinic Platform lanzó una solución AI-enabled de apoyo a la decisión clínica (Clinical Decision Support, CDS) para los clínicos de Mayo Clinic y las organizaciones de sus programas para proveedores de atención médica. Puede integrarse en un número creciente de entornos EHR, de modo que los clínicos no tengan que recorrer varios recursos por separado."
+                "x": "En una validación externa multicéntrica retrospectiva de cohortes consecutivas de urgencias y trauma (n = 2001), los detectores comerciales por sí solos dejaron relegados 31 de 324 estudios con hallazgos relevantes, incluidos 16 falsos negativos de la enfermedad objetivo y 15 fuera de sus indicaciones. En cambio, el sistema colaborativo recuperó todos los estudios con hallazgos relevantes con un umbral predefinido en la cohorte de desarrollo, con 100% de sensibilidad y NPV, y relegó el 18% de los estudios (368/2001; 95% CI, 17–20)."
               },
               {
                 "t": "p",
-                "x": "A partir de noviembre de 2026, los clínicos participantes disponen de un chat por especialidad basado en un modelo de lenguaje de gran tamaño, que abarca más de 35 especialidades, cita literatura revisada por pares y se actualiza a diario, además de 22 calculadoras clínicas accesibles por chat o dictado de voz, entre ellas calculadoras propias de Mayo."
-              },
-              {
-                "t": "p",
-                "x": "El director de operaciones, Maneesh Goyal, afirma que el objetivo es dedicar menos tiempo a buscar y más a la atención de pacientes; la directora médica, Gelareh Zadeh, subraya que la herramienta no sustituye el juicio clínico."
+                "x": "Estos resultados respaldan el uso de AI generalista-especialista para relegar de forma segura estudios en la lista de trabajo bajo supervisión del radiólogo, con alta sensibilidad para hallazgos intracraneales que requieren atención clínica."
               }
             ]
           }
@@ -557,297 +597,15 @@
       }
     },
     {
-      "id": "google-health-ai-evals",
+      "id": "medicine-fda-510k-ai-updates",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google, 헬스 AI\n안전성 검증법 공개",
-      "body": "Google은 헬스 AI 정확성·안전성·유용성을 벤치마크·전문가 검토로 평가한다.",
-      "mini_headline": "Google의 헬스 AI 검증법",
-      "tool": "Medicine",
-      "source": "Google Blog",
-      "url": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Google이 보건 전문가 Dr. Elizabeth McGlynn, Dr. Dana Gelb Safran과 함께 백서를 냈다. 사람들의 건강 요구를 다루는 AI 활용 사례를 처음부터 끝까지 평가하는 접근법을 담았다."
-          },
-          {
-            "t": "p",
-            "x": "프레임워크는 정확성·안전성·유용성을 기준으로 모델을 평가한다. 일반적인 건강 시나리오와 고위험 시나리오 모두에서 폐쇄형 질문 벤치마크, 자동 평가기(autorater), 전문가의 인간 검토를 함께 쓴다."
-          },
-          {
-            "t": "img",
-            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.width-1200.format-webp.webp",
-            "cap": "녹색 수술복을 입은 의료진이 진료실에서 환자가 든 스마트폰을 들여다보고 있다."
-          },
-          {
-            "t": "p",
-            "x": "Google은 이 프레임워크를 직접 만들어 지금도 자사 모델 점검에 쓴다고 밝혔다. 방법론을 공유하는 이유로는 투명성을 높이고, 개발자·연구자·임상의가 사람들이 믿을 수 있는 AI 도구를 만들도록 돕는다는 점을 들었다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Google opens up how it tests\nhealth AI for safety",
-          "body": "Google's health AI framework scores accuracy, safety and usefulness with benchmarks, autoraters and expert review.",
-          "mini_headline": "How Google tests health AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Google, with health experts Dr. Elizabeth McGlynn and Dr. Dana Gelb Safran, published a whitepaper describing an end-to-end approach for evaluating AI use cases that address people's health needs."
-              },
-              {
-                "t": "p",
-                "x": "The framework assesses models on accuracy, safety and usefulness, combining closed-question benchmarks, autoraters and expert human review across common and high-risk health scenarios."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.width-1200.format-webp.webp",
-                "cap": "A healthcare worker in green scrubs looks at a smartphone held by a patient in a clinical office."
-              },
-              {
-                "t": "p",
-                "x": "Google says it built and still uses the framework to check its own models, and shares the methodology to promote transparency and help developers, researchers and clinicians build AI tools people can trust."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Google, 헬스 AI\n안전성 검증법 공개",
-          "body": "Google은 헬스 AI 정확성·안전성·유용성을 벤치마크·전문가 검토로 평가한다.",
-          "mini_headline": "Google의 헬스 AI 검증법",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Google이 보건 전문가 Dr. Elizabeth McGlynn, Dr. Dana Gelb Safran과 함께 백서를 냈다. 사람들의 건강 요구를 다루는 AI 활용 사례를 처음부터 끝까지 평가하는 접근법을 담았다."
-              },
-              {
-                "t": "p",
-                "x": "프레임워크는 정확성·안전성·유용성을 기준으로 모델을 평가한다. 일반적인 건강 시나리오와 고위험 시나리오 모두에서 폐쇄형 질문 벤치마크, 자동 평가기(autorater), 전문가의 인간 검토를 함께 쓴다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.width-1200.format-webp.webp",
-                "cap": "녹색 수술복을 입은 의료진이 진료실에서 환자가 든 스마트폰을 들여다보고 있다."
-              },
-              {
-                "t": "p",
-                "x": "Google은 이 프레임워크를 직접 만들어 지금도 자사 모델 점검에 쓴다고 밝혔다. 방법론을 공유하는 이유로는 투명성을 높이고, 개발자·연구자·임상의가 사람들이 믿을 수 있는 AI 도구를 만들도록 돕는다는 점을 들었다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Google、ヘルスAIの\n安全性評価法を公開",
-          "body": "GoogleはヘルスAIの正確性・安全性・有用性をベンチマークと専門家評価で測る。",
-          "mini_headline": "GoogleのヘルスAI評価法",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Googleは、医療専門家のDr. Elizabeth McGlynn、Dr. Dana Gelb Safranとともに、人々の健康ニーズに応えるAIのユースケースをエンドツーエンドで評価する手法をまとめたホワイトペーパーを公開した。"
-              },
-              {
-                "t": "p",
-                "x": "この枠組みは正確性、安全性、有用性の観点でモデルを評価し、一般的な健康シナリオと高リスクの健康シナリオの双方で、クローズド形式の質問ベンチマーク、自動評価器(オートレーター)、専門家による人間のレビューを組み合わせる。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.width-1200.format-webp.webp",
-                "cap": "診察室で、緑のスクラブを着た医療従事者が患者の持つスマートフォンをのぞき込んでいる。"
-              },
-              {
-                "t": "p",
-                "x": "Googleは、この枠組みを自ら構築し、現在も自社モデルの確認に使っているという。透明性を高め、開発者や研究者、臨床医が人々に信頼されるAIツールを作れるよう、手法を共有するとしている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Google公开其健康AI\n安全测试方法",
-          "body": "Google的健康AI框架通过基准测试、自动评分器和专家审查评估准确性、安全性与实用性。",
-          "mini_headline": "Google如何测试健康AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Google与健康专家Dr. Elizabeth McGlynn和Dr. Dana Gelb Safran共同发布白皮书，介绍了一套端到端方法，用于评估满足人们健康需求的AI用例。"
-              },
-              {
-                "t": "p",
-                "x": "该框架从准确性、安全性和实用性评估模型，在常见及高风险健康场景中结合封闭式问题基准测试、自动评分器和专家人工审查。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.width-1200.format-webp.webp",
-                "cap": "身穿绿色手术服的医护人员在诊室里查看患者手中的智能手机。"
-              },
-              {
-                "t": "p",
-                "x": "Google表示，该框架由其自行构建，至今仍用于检验自家模型；公开这一方法论旨在提升透明度，帮助开发者、研究人员和临床医生打造值得信赖的AI工具。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Google detalla cómo evalúa\nla seguridad de su AI de salud",
-          "body": "Google evalúa la AI de salud por precisión, seguridad y utilidad con benchmarks, autoevaluadores y revisión experta.",
-          "mini_headline": "Cómo evalúa Google la AI de salud",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Google, junto con los expertos en salud Dr. Elizabeth McGlynn y Dr. Dana Gelb Safran, publicó un documento técnico que describe un enfoque integral para evaluar casos de uso de AI que atienden las necesidades de salud de las personas."
-              },
-              {
-                "t": "p",
-                "x": "El marco evalúa los modelos según su precisión, seguridad y utilidad, y combina benchmarks de preguntas cerradas, autoevaluadores y revisión humana experta en escenarios de salud habituales y de alto riesgo."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.width-1200.format-webp.webp",
-                "cap": "Un profesional sanitario con uniforme quirúrgico verde mira el smartphone que sostiene un paciente en una consulta clínica."
-              },
-              {
-                "t": "p",
-                "x": "Google afirma que creó el marco y que aún lo usa para revisar sus propios modelos, y que comparte la metodología para promover la transparencia y ayudar a desarrolladores, investigadores y clínicos a crear herramientas de AI en las que la gente pueda confiar."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Google, 헬스 AI\n안전성 검증법 공개",
-          "body": "Google은 헬스 AI 정확성·안전성·유용성을 벤치마크·전문가 검토로 평가한다.",
-          "mini_headline": "Google의 헬스 AI 검증법",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Google은 보건 전문가 Dr. Elizabeth McGlynn, Dr. Dana Gelb Safran과 함께, 사람들의 건강 요구를 다루는 AI 활용 사례를 평가하는 엔드투엔드 접근법을 담은 백서를 발표했다."
-              },
-              {
-                "t": "p",
-                "x": "이 프레임워크는 정확성·안전성·유용성을 기준으로 모델을 평가하며, 일반적인 건강 시나리오와 고위험 시나리오 전반에서 폐쇄형 질문 벤치마크, 자동 평가기(autorater), 전문가의 인간 검토를 결합한다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.width-1200.format-webp.webp",
-                "cap": "녹색 수술복을 입은 의료진이 진료실에서 환자가 든 스마트폰을 들여다보고 있다."
-              },
-              {
-                "t": "p",
-                "x": "Google은 이 프레임워크를 직접 만들어 지금도 자사 모델 점검에 쓰고 있으며, 투명성을 높이고 개발자·연구자·임상의가 사람들이 신뢰할 수 있는 AI 도구를 만들도록 돕기 위해 방법론을 공유한다고 밝혔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Google、ヘルスAIの\n安全性評価法を公開",
-          "body": "GoogleはヘルスAIの正確性・安全性・有用性をベンチマークと専門家評価で測る。",
-          "mini_headline": "GoogleのヘルスAI評価法",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Googleは、医療専門家のDr. Elizabeth McGlynn、Dr. Dana Gelb Safranとともに、人々の健康ニーズに応えるAIのユースケースをエンドツーエンドで評価する手法をまとめたホワイトペーパーを公開した。"
-              },
-              {
-                "t": "p",
-                "x": "この枠組みは正確性、安全性、有用性の観点でモデルを評価し、一般的な健康シナリオと高リスクの健康シナリオの双方で、クローズド形式の質問ベンチマーク、自動評価器(オートレーター)、専門家による人間のレビューを組み合わせる。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.width-1200.format-webp.webp",
-                "cap": "診察室で、緑のスクラブを着た医療従事者が患者の持つスマートフォンをのぞき込んでいる。"
-              },
-              {
-                "t": "p",
-                "x": "Googleは、この枠組みを自ら構築し、現在も自社モデルの確認に使っているという。透明性を高め、開発者や研究者、臨床医が人々に信頼されるAIツールを作れるよう、手法を共有するとしている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Google公开其健康AI\n安全测试方法",
-          "body": "Google的健康AI框架通过基准测试、自动评分器和专家审查评估准确性、安全性与实用性。",
-          "mini_headline": "Google如何测试健康AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Google与健康专家Dr. Elizabeth McGlynn和Dr. Dana Gelb Safran共同发布白皮书，介绍了一套端到端方法，用于评估满足人们健康需求的AI用例。"
-              },
-              {
-                "t": "p",
-                "x": "该框架从准确性、安全性和实用性评估模型，在常见及高风险健康场景中结合封闭式问题基准测试、自动评分器和专家人工审查。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.width-1200.format-webp.webp",
-                "cap": "身穿绿色手术服的医护人员在诊室里查看患者手中的智能手机。"
-              },
-              {
-                "t": "p",
-                "x": "Google表示，该框架由其自行构建，至今仍用于检验自家模型；公开这一方法论旨在提升透明度，帮助开发者、研究人员和临床医生打造值得信赖的AI工具。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Google detalla cómo evalúa\nla seguridad de su AI de salud",
-          "body": "Google evalúa la AI de salud por precisión, seguridad y utilidad con benchmarks, autoevaluadores y revisión experta.",
-          "mini_headline": "Cómo evalúa Google la AI de salud",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Google, junto con los expertos en salud Dr. Elizabeth McGlynn y Dr. Dana Gelb Safran, publicó un documento técnico que describe un enfoque integral para evaluar casos de uso de AI que atienden las necesidades de salud de las personas."
-              },
-              {
-                "t": "p",
-                "x": "El marco evalúa los modelos según su precisión, seguridad y utilidad, y combina benchmarks de preguntas cerradas, autoevaluadores y revisión humana experta en escenarios de salud habituales y de alto riesgo."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.width-1200.format-webp.webp",
-                "cap": "Un profesional sanitario con uniforme quirúrgico verde mira el smartphone que sostiene un paciente en una consulta clínica."
-              },
-              {
-                "t": "p",
-                "x": "Google afirma que creó el marco y que aún lo usa para revisar sus propios modelos, y que comparte la metodología para promover la transparencia y ayudar a desarrolladores, investigadores y clínicos a crear herramientas de AI en las que la gente pueda confiar."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "mount-sinai-delirium-ml",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "실사용 섬망 위험 모델,\n타 병원서도 검증",
-      "body": "Mount Sinai의 섬망 모델은 타 병원 검증서 AUROC 0.91을 지켰다.",
-      "mini_headline": "섬망 예측 모델, 외부 검증 통과",
+      "headline": "FDA-cleared AI\n기기 셋 중 하나 갱신",
+      "body": "510(k) AI 163개 중 56개(34.4%) 갱신, 85.7%는 근거 없다.",
+      "mini_headline": "FDA-cleared AI 기기 업데이트 추적",
       "tool": "Medicine",
       "source": "JAMA Network Open",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.42142",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41071",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -855,149 +613,173 @@
         "blocks": [
           {
             "t": "p",
-            "x": "이 질 향상 연구는 비ICU(non-ICU) 병동에 입원한 60세 이상 환자의 섬망 위험을 층화하는 모델을 평가했다. 자연어 처리를 결합한 융합 멀티모달 모델이다. 모델은 2024년 12월부터 2025년 12월까지 Mount Sinai Hospital(MSH)에서 실제로 운영됐고, Mount Sinai Morningside(MSM)에서 외부 검증을 받았다."
+            "x": "이 단면 연구는 2025년 3월 31일까지의 공개 FDA 510(k) 데이터베이스를 써서 식품의약국(Food and Drug Administration, FDA) 510(k) 경로로 허가받은 인공지능(AI)/머신러닝 기반 의료기기가 어떻게 업데이트되고 보고됐는지 들여다봤다."
           },
           {
             "t": "p",
-            "x": "표본은 입원 33,095건이다. 실제 운영 중 점수가 매겨진 MSM 입원 9,020건을 점수가 매겨진 MSH 입원 21,186건과 비교했다. 두 환자군은 연령, 성별, 인종·민족, 진단 유형, 재원 기간, 치매 유병률이 서로 달랐다."
+            "x": "대상은 AI/ML 사용을 명시한 고유 기기 163개로, 대부분(89.0%)이 의료영상 데이터를 분석했다. 56개(34.4%)가 AI/ML 알고리즘 업데이트를 1회 이상 받았다. 첫 업데이트까지 걸린 시간은 중앙값(IQR) 1.8(0.9-2.5)년이었다."
           },
           {
             "t": "p",
-            "x": "모델은 재학습 없이도 AUROC가 MSM에서 0.91, MSH에서 0.94였고 양성 예측도는 각각 25.9%와 19.4%였다. MSM의 월평균 섬망 검출률은 도입 뒤 9.23%에서 19.59%로 올랐다."
+            "x": "업데이트된 기기 중 42개(75.0%)는 이전 버전보다 사용 방식이 바뀐 업데이트를 1회 이상 거쳤고, 9개(16.1%)는 성능만 개선됐다."
           },
           {
             "t": "p",
-            "x": "연구진은 모델이 외부 기관에서도 수용 가능한 판별력을 유지하고 진단 수율을 높였지만 위양성률은 높았다고 결론 내렸다."
+            "x": "보고는 들쭉날쭉했다. 업데이트된 기기의 42.9%는 참여자 정보가, 26.8%는 표본 크기가 빠져 있었다. 48개(85.7%)는 업데이트 관련 항목 어디에도 임상적·조직적 이점을 적지 않았다."
+          },
+          {
+            "t": "p",
+            "x": "저자들은 보고 표준화와 배포 후 모니터링을 주문했다. FDA의 사전 변경관리계획(Predetermined Change Control Plan)을 쓰면 개발사가 일부 변경을 새 신청 없이 미리 지정해 둘 수 있다는 점도 짚었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Live delirium risk model\nvalidated across hospitals",
-          "body": "Mount Sinai's delirium risk model, already in clinical use, kept an AUROC of 0.91 when validated at a second hospital.",
-          "mini_headline": "Delirium model passes validation",
+          "headline": "A third of FDA-cleared AI\ndevices got algorithm updates",
+          "body": "Of 163 FDA 510(k)-cleared AI devices, 56 (34.4%) had algorithm updates; 85.7% of those gave no clinical-benefit data.",
+          "mini_headline": "Tracking updates to\nFDA-cleared AI devices",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "This quality improvement study evaluated a fusion multimodal model with natural language processing that stratifies delirium risk for patients 60 or older admitted to non-ICU units, deployed live at Mount Sinai Hospital (MSH) and externally validated at Mount Sinai Morningside (MSM) from December 2024 to December 2025."
+                "x": "This cross-sectional study investigated characteristics and reporting of updates to artificial intelligence (AI)/machine learning–based medical devices cleared through the Food and Drug Administration (FDA) 510(k) pathway, using the public FDA 510(k) database through March 31, 2025."
               },
               {
                 "t": "p",
-                "x": "The sample covered 33,095 admissions; 9,020 MSM admissions were scored during live operations and compared with 21,186 scored MSH admissions. The two patient populations differed in age, sex, race and ethnicity, diagnosis type, length of stay and dementia prevalence."
+                "x": "The study included 163 unique devices that explicitly reported using AI/ML; most (89.0%) analyzed medical imaging data. Among these devices, 56 (34.4%) received at least 1 update to their AI/ML algorithm, with a median (IQR) time until first update of 1.8 (0.9-2.5) years."
               },
               {
                 "t": "p",
-                "x": "Without retraining, the model's AUROC was 0.91 at MSM and 0.94 at MSH, with positive predictive values of 25.9% and 19.4%. At MSM, the mean monthly delirium detection rate rose from 9.23% to 19.59% after deployment."
+                "x": "Of the updated devices, 42 (75.0%) received at least 1 update that changed their usage compared with the previous version; 9 (16.1%) had updates that only improved performance."
               },
               {
                 "t": "p",
-                "x": "The authors conclude the model kept acceptable discrimination at the external site and increased diagnostic yield, but with a high false positive rate."
+                "x": "Reporting was inconsistent: participant information was absent for 42.9% of updated devices and sample size for 26.8%, and 48 devices (85.7%) provided no information on clinical or organizational benefit in any entry related to their updates."
+              },
+              {
+                "t": "p",
+                "x": "The authors call for standardized reporting and postdeployment monitoring, noting that the FDA Predetermined Change Control Plan lets developers prespecify some changes without a new submission."
               }
             ]
           }
         },
         "ko": {
-          "headline": "실사용 섬망 위험 모델,\n타 병원서도 검증",
-          "body": "Mount Sinai의 섬망 모델은 타 병원 검증서 AUROC 0.91을 지켰다.",
-          "mini_headline": "섬망 예측 모델, 외부 검증 통과",
+          "headline": "FDA-cleared AI\n기기 셋 중 하나 갱신",
+          "body": "510(k) AI 163개 중 56개(34.4%) 갱신, 85.7%는 근거 없다.",
+          "mini_headline": "FDA-cleared AI 기기 업데이트 추적",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "이 질 향상 연구는 비ICU(non-ICU) 병동에 입원한 60세 이상 환자의 섬망 위험을 층화하는 모델을 평가했다. 자연어 처리를 결합한 융합 멀티모달 모델이다. 모델은 2024년 12월부터 2025년 12월까지 Mount Sinai Hospital(MSH)에서 실제로 운영됐고, Mount Sinai Morningside(MSM)에서 외부 검증을 받았다."
+                "x": "이 단면 연구는 2025년 3월 31일까지의 공개 FDA 510(k) 데이터베이스를 써서 식품의약국(Food and Drug Administration, FDA) 510(k) 경로로 허가받은 인공지능(AI)/머신러닝 기반 의료기기가 어떻게 업데이트되고 보고됐는지 들여다봤다."
               },
               {
                 "t": "p",
-                "x": "표본은 입원 33,095건이다. 실제 운영 중 점수가 매겨진 MSM 입원 9,020건을 점수가 매겨진 MSH 입원 21,186건과 비교했다. 두 환자군은 연령, 성별, 인종·민족, 진단 유형, 재원 기간, 치매 유병률이 서로 달랐다."
+                "x": "대상은 AI/ML 사용을 명시한 고유 기기 163개로, 대부분(89.0%)이 의료영상 데이터를 분석했다. 56개(34.4%)가 AI/ML 알고리즘 업데이트를 1회 이상 받았다. 첫 업데이트까지 걸린 시간은 중앙값(IQR) 1.8(0.9-2.5)년이었다."
               },
               {
                 "t": "p",
-                "x": "모델은 재학습 없이도 AUROC가 MSM에서 0.91, MSH에서 0.94였고 양성 예측도는 각각 25.9%와 19.4%였다. MSM의 월평균 섬망 검출률은 도입 뒤 9.23%에서 19.59%로 올랐다."
+                "x": "업데이트된 기기 중 42개(75.0%)는 이전 버전보다 사용 방식이 바뀐 업데이트를 1회 이상 거쳤고, 9개(16.1%)는 성능만 개선됐다."
               },
               {
                 "t": "p",
-                "x": "연구진은 모델이 외부 기관에서도 수용 가능한 판별력을 유지하고 진단 수율을 높였지만 위양성률은 높았다고 결론 내렸다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "稼働中のせん妄リスク予測\n別の病院でも検証",
-          "body": "Mount Sinaiの稼働中のせん妄モデルは別病院でもAUROC 0.91を維持した。",
-          "mini_headline": "せん妄予測モデル、外部検証を通過",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "この質改善研究では、非ICU(non-ICU)病棟に入院した60歳以上の患者のせん妄リスクを層別化する、自然言語処理を組み込んだ融合型マルチモーダルモデルを評価した。モデルは2024年12月から2025年12月にかけてMount Sinai Hospital(MSH)で実運用され、Mount Sinai Morningside(MSM)で外部検証された。"
+                "x": "보고는 들쭉날쭉했다. 업데이트된 기기의 42.9%는 참여자 정보가, 26.8%는 표본 크기가 빠져 있었다. 48개(85.7%)는 업데이트 관련 항목 어디에도 임상적·조직적 이점을 적지 않았다."
               },
               {
                 "t": "p",
-                "x": "対象は33,095件の入院で、実運用中にスコア化されたMSMの9,020件を、スコア化されたMSHの21,186件と比較した。両病院の患者集団は年齢、性別、人種・民族、診断の種類、在院日数、認知症の有病率が異なっていた。"
-              },
-              {
-                "t": "p",
-                "x": "再学習なしで、モデルのAUROCはMSMで0.91、MSHで0.94、陽性的中率はそれぞれ25.9%と19.4%だった。MSMでは導入後、せん妄の月平均検出率が9.23%から19.59%に上昇した。"
-              },
-              {
-                "t": "p",
-                "x": "著者らは、モデルが外部施設でも許容できる識別能を保ち診断の収率を高めた一方、偽陽性率は高かったと結論づけている。"
+                "x": "저자들은 보고 표준화와 배포 후 모니터링을 주문했다. FDA의 사전 변경관리계획(Predetermined Change Control Plan)을 쓰면 개발사가 일부 변경을 새 신청 없이 미리 지정해 둘 수 있다는 점도 짚었다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "已上线谵妄风险模型\n通过跨医院验证",
-          "body": "Mount Sinai已临床应用的谵妄风险模型在第二家医院验证中AUROC保持0.91。",
-          "mini_headline": "谵妄模型通过外部验证",
+          "headline": "FDA-cleared AI\n设备三分之一算法更新",
+          "body": "163款FDA 510(k) AI设备中56款(34.4%)更新，85.7%无获益数据。",
+          "mini_headline": "追踪FDA-cleared AI设备的更新",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "这项质量改进研究评估了一种结合自然语言处理的融合多模态模型，用于对入住非ICU（non-ICU）病房的60岁及以上患者进行谵妄风险分层。该模型于2024年12月至2025年12月在Mount Sinai Hospital（MSH）实际部署，并在Mount Sinai Morningside（MSM）进行外部验证。"
+                "x": "这项横断面研究利用截至2025年3月31日的公开FDA 510(k)数据库，调查了经食品药品监督管理局(Food and Drug Administration, FDA) 510(k)途径获批的人工智能(AI)/机器学习医疗器械的更新特征及报告情况。"
               },
               {
                 "t": "p",
-                "x": "样本涵盖33,095例住院；实际运行期间评分的9,020例MSM住院与21,186例已评分的MSH住院进行了比较。两组患者在年龄、性别、种族和族裔、诊断类型、住院时长及痴呆患病率方面存在差异。"
+                "x": "研究纳入163款明确报告使用AI/ML的独立器械，其中大多数(89.0%)分析医学影像数据。在这些器械中，56款(34.4%)的AI/ML算法至少更新过1次，首次更新的中位时间(IQR)为1.8(0.9-2.5)年。"
               },
               {
                 "t": "p",
-                "x": "在未重新训练的情况下，模型在MSM的AUROC为0.91，在MSH为0.94，阳性预测值分别为25.9%和19.4%。部署后，MSM的月均谵妄检出率从9.23%升至19.59%。"
+                "x": "在已更新的器械中，42款(75.0%)至少有1次更新相较前一版本改变了用途；9款(16.1%)的更新仅提升了性能。"
               },
               {
                 "t": "p",
-                "x": "作者认为，该模型在外部机构保持了可接受的区分能力并提高了诊断检出率，但假阳性率较高。"
+                "x": "报告情况参差不齐：42.9%的已更新器械缺少受试者信息，26.8%缺少样本量；48款(85.7%)在任何与更新相关的条目中都未提供临床或组织层面获益的信息。"
+              },
+              {
+                "t": "p",
+                "x": "作者呼吁建立标准化报告和部署后监测，并指出FDA的预定变更控制计划(Predetermined Change Control Plan)允许开发者预先指定部分变更，而无需重新提交申请。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Modelo de riesgo de delirio\nen uso, validado en otro centro",
-          "body": "El modelo de delirio de Mount Sinai, ya en uso clínico, mantuvo un AUROC de 0.91 al validarse en otro hospital.",
-          "mini_headline": "Modelo de delirio supera la validación",
+          "headline": "Un tercio de los equipos de AI\nFDA-cleared cambió su algoritmo",
+          "body": "De 163 equipos AI con 510(k) de la FDA, 56 (34.4%) se actualizaron y el 85.7% de ellos no aportó datos de beneficio.",
+          "mini_headline": "Actualizaciones de dispositivos AI FDA-cleared",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Este estudio de mejora de la calidad evaluó un modelo multimodal de fusión con procesamiento del lenguaje natural que estratifica el riesgo de delirio en pacientes de 60 años o más ingresados en unidades non-ICU (fuera de la UCI); se implantó en funcionamiento real en Mount Sinai Hospital (MSH) y se validó externamente en Mount Sinai Morningside (MSM) entre diciembre de 2024 y diciembre de 2025."
+                "x": "Este estudio transversal investigó las características y la notificación de las actualizaciones de dispositivos médicos basados en inteligencia artificial (AI)/aprendizaje automático autorizados por la vía 510(k) de la Food and Drug Administration (FDA), con la base de datos pública FDA 510(k) hasta el 31 de marzo de 2025."
               },
               {
                 "t": "p",
-                "x": "La muestra abarcó 33,095 ingresos; 9,020 ingresos de MSM puntuados durante la operación real se compararon con 21,186 ingresos puntuados de MSH. Ambas poblaciones de pacientes diferían en edad, sexo, raza y etnia, tipo de diagnóstico, duración de la estancia y prevalencia de demencia."
+                "x": "El estudio incluyó 163 dispositivos únicos que declaraban explícitamente usar AI/ML; la mayoría (89.0%) analizaba datos de imagen médica. De ellos, 56 (34.4%) recibieron al menos 1 actualización de su algoritmo de AI/ML, con una mediana (IQR) hasta la primera actualización de 1.8 (0.9-2.5) años."
               },
               {
                 "t": "p",
-                "x": "Sin reentrenamiento, el AUROC del modelo fue de 0.91 en MSM y de 0.94 en MSH, con valores predictivos positivos de 25.9% y 19.4%. En MSM, la tasa media mensual de detección de delirio subió del 9.23% al 19.59% tras la implantación."
+                "x": "De los dispositivos actualizados, 42 (75.0%) recibieron al menos 1 actualización que cambió su uso respecto de la versión anterior; 9 (16.1%) tuvieron actualizaciones que solo mejoraron el rendimiento."
               },
               {
                 "t": "p",
-                "x": "Los autores concluyen que el modelo mantuvo una discriminación aceptable en el centro externo y aumentó el rendimiento diagnóstico, aunque con una tasa elevada de falsos positivos."
+                "x": "La notificación fue irregular: faltaba información de los participantes en el 42.9% de los dispositivos actualizados y el tamaño muestral en el 26.8%, y 48 dispositivos (85.7%) no aportaron información sobre beneficios clínicos u organizativos en ninguna entrada relacionada con sus actualizaciones."
+              },
+              {
+                "t": "p",
+                "x": "Los autores piden una notificación estandarizada y un seguimiento posterior al despliegue, y señalan que el Predetermined Change Control Plan de la FDA permite a los desarrolladores predefinir algunos cambios sin una nueva solicitud."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "FDA-cleared AI\n機器の三分の一が更新",
+          "body": "FDA 510(k)のAI機器163件中56件(34.4%)が更新、85.7%は利益未記載。",
+          "mini_headline": "FDA-cleared AI機器の更新を追跡",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "この横断研究は、2025年3月31日までの公開FDA 510(k)データベースを用い、食品医薬品局(Food and Drug Administration、FDA)の510(k)経路で承認された人工知能(AI)/機械学習ベースの医療機器について、アップデートの特徴と報告状況を調べた。"
+              },
+              {
+                "t": "p",
+                "x": "対象はAI/MLの使用を明記した163の固有機器で、大半(89.0%)は医用画像データを解析していた。このうち56機器(34.4%)がAI/MLアルゴリズムの更新を1回以上受け、初回更新までの期間の中央値(IQR)は1.8(0.9-2.5)年だった。"
+              },
+              {
+                "t": "p",
+                "x": "更新された機器のうち42機器(75.0%)は前バージョンと比べて使用法を変える更新を1回以上受け、9機器(16.1%)は性能向上のみの更新だった。"
+              },
+              {
+                "t": "p",
+                "x": "報告には一貫性がなかった。更新機器の42.9%で参加者情報が、26.8%でサンプルサイズが欠けており、48機器(85.7%)は更新に関するどの記載でも臨床的・組織的な利益に関する情報を示していなかった。"
+              },
+              {
+                "t": "p",
+                "x": "著者らは標準化された報告と展開後のモニタリングを求め、FDAの事前変更管理計画(Predetermined Change Control Plan)により開発者が一部の変更を新たな申請なしに事前指定できる点を指摘した。"
               }
             ]
           }
@@ -1005,105 +787,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "실사용 섬망 위험 모델,\n타 병원서도 검증",
-          "body": "Mount Sinai의 섬망 모델은 타 병원 검증서 AUROC 0.91을 지켰다.",
-          "mini_headline": "섬망 예측 모델, 외부 검증 통과",
+          "headline": "FDA-cleared AI\n기기 셋 중 하나 갱신",
+          "body": "510(k) AI 163개 중 56개(34.4%) 갱신, 85.7%는 근거 없다.",
+          "mini_headline": "FDA-cleared AI 기기 업데이트 추적",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "이 질 향상 연구는 비ICU(non-ICU) 병동에 입원한 60세 이상 환자의 섬망 위험을 층화하는, 자연어 처리를 결합한 융합 멀티모달 모델을 평가했다. 모델은 2024년 12월부터 2025년 12월까지 Mount Sinai Hospital(MSH)에서 실제 운영됐고 Mount Sinai Morningside(MSM)에서 외부 검증을 받았다."
+                "x": "이 단면 연구는 2025년 3월 31일까지의 공개 FDA 510(k) 데이터베이스를 이용해, 식품의약국(Food and Drug Administration, FDA) 510(k) 경로로 허가된 인공지능(AI)/머신러닝 기반 의료기기의 업데이트 특성과 보고 실태를 조사했다."
               },
               {
                 "t": "p",
-                "x": "표본은 입원 33,095건이었다. 실제 운영 중 점수가 매겨진 MSM 입원 9,020건을 점수가 매겨진 MSH 입원 21,186건과 비교했다. 두 환자군은 연령, 성별, 인종·민족, 진단 유형, 재원 기간, 치매 유병률에서 차이가 있었다."
+                "x": "연구에는 AI/ML 사용을 명시한 고유 기기 163개가 포함됐으며, 대부분(89.0%)은 의료영상 데이터를 분석했다. 이 중 56개(34.4%)가 AI/ML 알고리즘 업데이트를 1회 이상 받았고, 첫 업데이트까지 걸린 시간의 중앙값(IQR)은 1.8(0.9-2.5)년이었다."
               },
               {
                 "t": "p",
-                "x": "재학습 없이도 모델의 AUROC는 MSM에서 0.91, MSH에서 0.94였고, 양성 예측도는 각각 25.9%와 19.4%였다. MSM의 월평균 섬망 검출률은 도입 후 9.23%에서 19.59%로 올랐다."
+                "x": "업데이트된 기기 가운데 42개(75.0%)는 이전 버전과 비교해 사용 방식이 바뀐 업데이트를 1회 이상 받았고, 9개(16.1%)는 성능 개선만 이뤄진 업데이트를 받았다."
               },
               {
                 "t": "p",
-                "x": "연구진은 이 모델이 외부 기관에서도 수용 가능한 판별력을 유지하고 진단 수율을 높였지만, 위양성률이 높았다고 결론지었다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "稼働中のせん妄リスク予測\n別の病院でも検証",
-          "body": "Mount Sinaiの稼働中のせん妄モデルは別病院でもAUROC 0.91を維持した。",
-          "mini_headline": "せん妄予測モデル、外部検証を通過",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "この質改善研究では、非ICU(non-ICU)病棟に入院した60歳以上の患者のせん妄リスクを層別化する、自然言語処理を組み込んだ融合型マルチモーダルモデルを評価した。モデルは2024年12月から2025年12月にかけてMount Sinai Hospital(MSH)で実運用され、Mount Sinai Morningside(MSM)で外部検証された。"
+                "x": "보고는 일관되지 않았다. 업데이트된 기기의 42.9%는 참여자 정보가, 26.8%는 표본 크기가 빠져 있었고, 48개(85.7%)는 업데이트 관련 어떤 항목에서도 임상적·조직적 이점에 관한 정보를 제공하지 않았다."
               },
               {
                 "t": "p",
-                "x": "対象は33,095件の入院で、実運用中にスコア化されたMSMの9,020件を、スコア化されたMSHの21,186件と比較した。両病院の患者集団は年齢、性別、人種・民族、診断の種類、在院日数、認知症の有病率が異なっていた。"
-              },
-              {
-                "t": "p",
-                "x": "再学習なしで、モデルのAUROCはMSMで0.91、MSHで0.94、陽性的中率はそれぞれ25.9%と19.4%だった。MSMでは導入後、せん妄の月平均検出率が9.23%から19.59%に上昇した。"
-              },
-              {
-                "t": "p",
-                "x": "著者らは、モデルが外部施設でも許容できる識別能を保ち診断の収率を高めた一方、偽陽性率は高かったと結論づけている。"
+                "x": "저자들은 표준화된 보고와 배포 후 모니터링을 촉구하며, FDA의 사전 변경관리계획(Predetermined Change Control Plan)으로 개발사가 일부 변경을 새 신청 없이 미리 지정할 수 있다고 짚었다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "已上线谵妄风险模型\n通过跨医院验证",
-          "body": "Mount Sinai已临床应用的谵妄风险模型在第二家医院验证中AUROC保持0.91。",
-          "mini_headline": "谵妄模型通过外部验证",
+          "headline": "FDA-cleared AI\n设备三分之一算法更新",
+          "body": "163款FDA 510(k) AI设备中56款(34.4%)更新，85.7%无获益数据。",
+          "mini_headline": "追踪FDA-cleared AI设备的更新",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "这项质量改进研究评估了一种结合自然语言处理的融合多模态模型，用于对入住非ICU（non-ICU）病房的60岁及以上患者进行谵妄风险分层。该模型于2024年12月至2025年12月在Mount Sinai Hospital（MSH）实际部署，并在Mount Sinai Morningside（MSM）进行外部验证。"
+                "x": "这项横断面研究利用截至2025年3月31日的公开FDA 510(k)数据库，调查了经食品药品监督管理局(Food and Drug Administration, FDA) 510(k)途径获批的人工智能(AI)/机器学习医疗器械的更新特征及报告情况。"
               },
               {
                 "t": "p",
-                "x": "样本涵盖33,095例住院；实际运行期间评分的9,020例MSM住院与21,186例已评分的MSH住院进行了比较。两组患者在年龄、性别、种族和族裔、诊断类型、住院时长及痴呆患病率方面存在差异。"
+                "x": "研究纳入163款明确报告使用AI/ML的独立器械，其中大多数(89.0%)分析医学影像数据。在这些器械中，56款(34.4%)的AI/ML算法至少更新过1次，首次更新的中位时间(IQR)为1.8(0.9-2.5)年。"
               },
               {
                 "t": "p",
-                "x": "在未重新训练的情况下，模型在MSM的AUROC为0.91，在MSH为0.94，阳性预测值分别为25.9%和19.4%。部署后，MSM的月均谵妄检出率从9.23%升至19.59%。"
+                "x": "在已更新的器械中，42款(75.0%)至少有1次更新相较前一版本改变了用途；9款(16.1%)的更新仅提升了性能。"
               },
               {
                 "t": "p",
-                "x": "作者认为，该模型在外部机构保持了可接受的区分能力并提高了诊断检出率，但假阳性率较高。"
+                "x": "报告情况参差不齐：42.9%的已更新器械缺少受试者信息，26.8%缺少样本量；48款(85.7%)在任何与更新相关的条目中都未提供临床或组织层面获益的信息。"
+              },
+              {
+                "t": "p",
+                "x": "作者呼吁建立标准化报告和部署后监测，并指出FDA的预定变更控制计划(Predetermined Change Control Plan)允许开发者预先指定部分变更，而无需重新提交申请。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Modelo de riesgo de delirio\nen uso, validado en otro centro",
-          "body": "El modelo de delirio de Mount Sinai, ya en uso clínico, mantuvo un AUROC de 0.91 al validarse en otro hospital.",
-          "mini_headline": "Modelo de delirio supera la validación",
+          "headline": "Un tercio de los equipos de AI\nFDA-cleared cambió su algoritmo",
+          "body": "De 163 equipos AI con 510(k) de la FDA, 56 (34.4%) se actualizaron y el 85.7% de ellos no aportó datos de beneficio.",
+          "mini_headline": "Actualizaciones de dispositivos AI FDA-cleared",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Este estudio de mejora de la calidad evaluó un modelo multimodal de fusión con procesamiento del lenguaje natural que estratifica el riesgo de delirio en pacientes de 60 años o más ingresados en unidades non-ICU (fuera de la UCI); se implantó en funcionamiento real en Mount Sinai Hospital (MSH) y se validó externamente en Mount Sinai Morningside (MSM) entre diciembre de 2024 y diciembre de 2025."
+                "x": "Este estudio transversal investigó las características y la notificación de las actualizaciones de dispositivos médicos basados en inteligencia artificial (AI)/aprendizaje automático autorizados por la vía 510(k) de la Food and Drug Administration (FDA), con la base de datos pública FDA 510(k) hasta el 31 de marzo de 2025."
               },
               {
                 "t": "p",
-                "x": "La muestra abarcó 33,095 ingresos; 9,020 ingresos de MSM puntuados durante la operación real se compararon con 21,186 ingresos puntuados de MSH. Ambas poblaciones de pacientes diferían en edad, sexo, raza y etnia, tipo de diagnóstico, duración de la estancia y prevalencia de demencia."
+                "x": "El estudio incluyó 163 dispositivos únicos que declaraban explícitamente usar AI/ML; la mayoría (89.0%) analizaba datos de imagen médica. De ellos, 56 (34.4%) recibieron al menos 1 actualización de su algoritmo de AI/ML, con una mediana (IQR) hasta la primera actualización de 1.8 (0.9-2.5) años."
               },
               {
                 "t": "p",
-                "x": "Sin reentrenamiento, el AUROC del modelo fue de 0.91 en MSM y de 0.94 en MSH, con valores predictivos positivos de 25.9% y 19.4%. En MSM, la tasa media mensual de detección de delirio subió del 9.23% al 19.59% tras la implantación."
+                "x": "De los dispositivos actualizados, 42 (75.0%) recibieron al menos 1 actualización que cambió su uso respecto de la versión anterior; 9 (16.1%) tuvieron actualizaciones que solo mejoraron el rendimiento."
               },
               {
                 "t": "p",
-                "x": "Los autores concluyen que el modelo mantuvo una discriminación aceptable en el centro externo y aumentó el rendimiento diagnóstico, aunque con una tasa elevada de falsos positivos."
+                "x": "La notificación fue irregular: faltaba información de los participantes en el 42.9% de los dispositivos actualizados y el tamaño muestral en el 26.8%, y 48 dispositivos (85.7%) no aportaron información sobre beneficios clínicos u organizativos en ninguna entrada relacionada con sus actualizaciones."
+              },
+              {
+                "t": "p",
+                "x": "Los autores piden una notificación estandarizada y un seguimiento posterior al despliegue, y señalan que el Predetermined Change Control Plan de la FDA permite a los desarrolladores predefinir algunos cambios sin una nueva solicitud."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "FDA-cleared AI\n機器の三分の一が更新",
+          "body": "FDA 510(k)のAI機器163件中56件(34.4%)が更新、85.7%は利益未記載。",
+          "mini_headline": "FDA-cleared AI機器の更新を追跡",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "この横断研究は、2025年3月31日までの公開FDA 510(k)データベースを用い、食品医薬品局(Food and Drug Administration、FDA)の510(k)経路で承認された人工知能(AI)/機械学習ベースの医療機器について、アップデートの特徴と報告状況を調べた。"
+              },
+              {
+                "t": "p",
+                "x": "対象はAI/MLの使用を明記した163の固有機器で、大半(89.0%)は医用画像データを解析していた。このうち56機器(34.4%)がAI/MLアルゴリズムの更新を1回以上受け、初回更新までの期間の中央値(IQR)は1.8(0.9-2.5)年だった。"
+              },
+              {
+                "t": "p",
+                "x": "更新された機器のうち42機器(75.0%)は前バージョンと比べて使用法を変える更新を1回以上受け、9機器(16.1%)は性能向上のみの更新だった。"
+              },
+              {
+                "t": "p",
+                "x": "報告には一貫性がなかった。更新機器の42.9%で参加者情報が、26.8%でサンプルサイズが欠けており、48機器(85.7%)は更新に関するどの記載でも臨床的・組織的な利益に関する情報を示していなかった。"
+              },
+              {
+                "t": "p",
+                "x": "著者らは標準化された報告と展開後のモニタリングを求め、FDAの事前変更管理計画(Predetermined Change Control Plan)により開発者が一部の変更を新たな申請なしに事前指定できる点を指摘した。"
               }
             ]
           }
@@ -1111,171 +909,611 @@
       }
     },
     {
-      "id": "nejm-ai-physical-limits",
-      "source_lang": "en",
+      "id": "seoulstmary-ckd-risk-app",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "의사 전문 분야별로 본\nAI의 물리적 한계",
-      "body": "진찰·생검·수술을 못 하는 AI의 분야별 대체 노출도를 NEJM AI가 짚었다.",
-      "mini_headline": "의료에서 AI의 물리적 한계",
+      "headline": "서울성모병원, 만성콩팥병\n위험 예측 AI 앱 검증",
+      "body": "검진·유전체·웨어러블 데이터로 콩팥병 위험을 예측하는 AI 앱 검증이 시작됐다.",
+      "mini_headline": "콩팥병 위험\nAI 앱 검증",
       "tool": "Medicine",
-      "source": "NEJM AI",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2600957",
+      "source": "메디게이트뉴스",
+      "url": "https://m.medigatenews.com/news/2393566577",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "NEJM AI에 실린 이 관점 논문에서 Dan Zeltzer, Tyler Tam, Benji Bhattacharya, Victoria Udalova, Maria Polyakova는 의사 전문 분야 전반에서 AI 대체를 가로막는 물리적 한계와, 그 한계가 의사 인력에 주는 함의를 살폈다."
-          },
-          {
             "t": "img",
-            "src": "https://ai.nejm.org/cms/asset/c15c7a83-476d-440c-af12-511c2c671af3/aip2600957_f1.jpg",
-            "cap": "전문 분야별 지급액 비중: 물리적 서비스(소프트웨어 기반 AI로 대체 불가), E&M, 비물리적 서비스(대체 가능성 있음)."
+            "src": "https://www.medigatenews.com/file/news/539561"
           },
           {
             "t": "p",
-            "x": "56개 전문 분야 전체(지급액 US$44.9bn)를 보면 지급액의 24%가 물리적 서비스, 55%가 평가·관리, 21%가 AI로 대체될 가능성이 있는 비물리적 서비스에 쓰였다."
+            "x": "가톨릭대학교 서울성모병원 소화기내과 이인석 교수 연구팀이 건강검진 자료와 유전체 정보, 웨어러블 기기 데이터를 인공지능(AI)으로 분석해 만성콩팥병 위험도를 알려주는 모바일 앱의 효용성 검증을 시작했다고 4일 밝혔다. 이번 검증은 과학기술정보통신부와 정보통신기획평가원(IITP)이 지원하는 AI 기반 맞춤형 케어서비스 융합선도 사업 가운데 ‘페놈데이터 기반AI 생애 전주기 건강위험 예측·관리 초격차 기술 개발’ 과제의 일부다."
           },
           {
             "t": "p",
-            "x": "노출 정도는 분야마다 크게 갈린다. 병리학 지급액의 99%, 진단 영상의학의 96%가 비물리적 업무다. 반면 피부과는 68%, 정형외과는 53%가 물리적 서비스다."
+            "x": "연구팀은 여러 의료기관의 전자의무기록(Electronic Medical Record)과 건강검진 데이터를 연계·표준화하고, 유전체 분석 자료에 웨어러블 기기와 앱으로 수집한 신체활동, 수면, 식습관 정보를 더해 만성콩팥병 등 질병 발생과 진행 위험을 예측하는 AI 모델을 개발하고 있다. 앱은 건강검진과 유전체검사 등 여러 임상 변수를 종합해 개인별 절대위험도를 계산하고, 갤럭시 워치로 받은 활동량, 수면, 심박수 데이터를 더한다. 이 과정은 AI 환자 건강 플랫폼(PHAIR)에서 이뤄지며, 앱은 만성콩팥병 위험도 외에 라이프코칭도 제공한다."
+          },
+          {
+            "t": "p",
+            "x": "여러 병원이 환자 자료를 직접 공유하지 않고도 AI를 함께 학습시키는 연합학습(Federated Learning) 기술도 적용했다. 임상검증은 2026년 10월에 시작됐다. 50명을 모집해 3개월간 앱과 웨어러블을 사용하게 하고, 3개월 차에 흉부 영상검사와 추적 혈액검사로 신장 기능(eGFR, 추정 사구체여과율)을 확인한다."
+          },
+          {
+            "t": "p",
+            "x": "전체 연구 기간은 6개월이며, 연구팀은 서비스 활용도와 만족도, 유용성을 평가해 일상 적용 가능성을 살필 계획이다. 연구팀은 기존 위험도 예측모델이 특정 시점의 임상정보로 질병의 발생이나 진행 가능성을 산출하는 데 초점이 맞춰져 있어, 예측 결과를 실제 건강관리로 연결하는 데 한계가 있었다고 설명했다. 개인별 위험 요인을 지속적으로 추적하고 맞춤형 피드백을 제공하려면 의료진의 시간과 인력이 계속 투입돼야 하기 때문이라는 것이다."
+          },
+          {
+            "t": "p",
+            "x": "연구팀은 AI가 산출한 질병 위험도를 앱 기반 맞춤형 생활 코칭과 연계하고, 개인의 건강 상태와 생활습관 변화를 지속 반영해 위험 요인 개선과 질병 예방을 돕는 관리 체계를 구축하는 것을 목표로 한다. 역할 분담도 나눠져 있다."
+          },
+          {
+            "t": "p",
+            "x": "서울성모병원은 건강검진과 임상정보를 제공하고, 가톨릭대학교 의료정보학교실은 만성콩팥병(CKD) 및 폐암의 발병 위험도를 예측하는 AI 모델 개발을 담당한다. 디지털팜은 AI 분석과 플랫폼 운영을, 평화이즈는 병원 정보시스템 운영과 자료 변환·전송을 맡는다. 연구팀은 한국인의 건강 특성을 반영한 AI 기술이 고위험군을 일찍 찾아내 발병과 악화 전에 개인별 관리를 제공하는 부분에서 의미가 있으며, 정밀의료 발전과 미래 의료기술 경쟁력 강화에 기여할 것으로 기대하고 있다. 이인석 교수는 “외래 진료만으로는 구현하기 어려웠던 지속적인 위험 관리와 피드백을 AI와 웨어러블로 해결할 수 있는지 실제 임상 현장에서 확인하는 연구”라고 말했다. 이번 과제에는 서울성모병원을 중심으로 강북삼성병원, 성균바이오융합과학기술원, 웨이센, 삼성전자, 네이버클라우드, 미소정보기술, 마크로젠, 디지털팜 등이 참여하고 있다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "The physical limits of AI\nacross physician specialties",
-          "body": "Since software cannot examine, biopsy or operate, NEJM AI maps each specialty's exposure to AI substitution.",
-          "mini_headline": "AI's physical limits in medicine",
+        "ko": {
+          "headline": "서울성모병원, 만성콩팥병\n위험 예측 AI 앱 검증",
+          "body": "검진·유전체·웨어러블 데이터로 콩팥병 위험을 예측하는 AI 앱 검증이 시작됐다.",
+          "mini_headline": "콩팥병 위험\nAI 앱 검증",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "In this NEJM AI perspective, Dan Zeltzer, Tyler Tam, Benji Bhattacharya, Victoria Udalova and Maria Polyakova examine physical limits to AI substitution across physician specialties and what they imply for the physician workforce."
-              },
-              {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/c15c7a83-476d-440c-af12-511c2c671af3/aip2600957_f1.jpg",
-                "cap": "Share of payments by specialty: physical (not substitutable by software-based AI), E&M, and nonphysical (potentially substitutable)."
+                "src": "https://www.medigatenews.com/file/news/539561"
               },
               {
                 "t": "p",
-                "x": "Across all 56 specialties (US$44.9bn in payments), 24% of payments are for physical services, 55% for evaluation and management, and 21% for nonphysical services potentially substitutable by AI."
+                "x": "가톨릭대학교 서울성모병원 소화기내과 이인석 교수 연구팀이 건강검진 자료와 유전체 정보, 웨어러블 기기 데이터를 인공지능(AI)으로 분석해 만성콩팥병 위험도를 알려주는 모바일 앱의 효용성 검증을 시작했다고 4일 밝혔다. 이번 검증은 과학기술정보통신부와 정보통신기획평가원(IITP)이 지원하는 AI 기반 맞춤형 케어서비스 융합선도 사업 가운데 ‘페놈데이터 기반AI 생애 전주기 건강위험 예측·관리 초격차 기술 개발’ 과제의 일부다."
               },
               {
                 "t": "p",
-                "x": "Exposure varies widely: nonphysical work makes up 99% of pathology and 96% of diagnostic radiology payments, while physical services account for 68% in dermatology and 53% in orthopedic surgery."
+                "x": "연구팀은 여러 의료기관의 전자의무기록(Electronic Medical Record)과 건강검진 데이터를 연계·표준화하고, 유전체 분석 자료에 웨어러블 기기와 앱으로 수집한 신체활동, 수면, 식습관 정보를 더해 만성콩팥병 등 질병 발생과 진행 위험을 예측하는 AI 모델을 개발하고 있다. 앱은 건강검진과 유전체검사 등 여러 임상 변수를 종합해 개인별 절대위험도를 계산하고, 갤럭시 워치로 받은 활동량, 수면, 심박수 데이터를 더한다. 이 과정은 AI 환자 건강 플랫폼(PHAIR)에서 이뤄지며, 앱은 만성콩팥병 위험도 외에 라이프코칭도 제공한다."
+              },
+              {
+                "t": "p",
+                "x": "여러 병원이 환자 자료를 직접 공유하지 않고도 AI를 함께 학습시키는 연합학습(Federated Learning) 기술도 적용했다. 임상검증은 2026년 10월에 시작됐다. 50명을 모집해 3개월간 앱과 웨어러블을 사용하게 하고, 3개월 차에 흉부 영상검사와 추적 혈액검사로 신장 기능(eGFR, 추정 사구체여과율)을 확인한다."
+              },
+              {
+                "t": "p",
+                "x": "전체 연구 기간은 6개월이며, 연구팀은 서비스 활용도와 만족도, 유용성을 평가해 일상 적용 가능성을 살필 계획이다. 연구팀은 기존 위험도 예측모델이 특정 시점의 임상정보로 질병의 발생이나 진행 가능성을 산출하는 데 초점이 맞춰져 있어, 예측 결과를 실제 건강관리로 연결하는 데 한계가 있었다고 설명했다. 개인별 위험 요인을 지속적으로 추적하고 맞춤형 피드백을 제공하려면 의료진의 시간과 인력이 계속 투입돼야 하기 때문이라는 것이다."
+              },
+              {
+                "t": "p",
+                "x": "연구팀은 AI가 산출한 질병 위험도를 앱 기반 맞춤형 생활 코칭과 연계하고, 개인의 건강 상태와 생활습관 변화를 지속 반영해 위험 요인 개선과 질병 예방을 돕는 관리 체계를 구축하는 것을 목표로 한다. 역할 분담도 나눠져 있다."
+              },
+              {
+                "t": "p",
+                "x": "서울성모병원은 건강검진과 임상정보를 제공하고, 가톨릭대학교 의료정보학교실은 만성콩팥병(CKD) 및 폐암의 발병 위험도를 예측하는 AI 모델 개발을 담당한다. 디지털팜은 AI 분석과 플랫폼 운영을, 평화이즈는 병원 정보시스템 운영과 자료 변환·전송을 맡는다. 연구팀은 한국인의 건강 특성을 반영한 AI 기술이 고위험군을 일찍 찾아내 발병과 악화 전에 개인별 관리를 제공하는 부분에서 의미가 있으며, 정밀의료 발전과 미래 의료기술 경쟁력 강화에 기여할 것으로 기대하고 있다. 이인석 교수는 “외래 진료만으로는 구현하기 어려웠던 지속적인 위험 관리와 피드백을 AI와 웨어러블로 해결할 수 있는지 실제 임상 현장에서 확인하는 연구”라고 말했다. 이번 과제에는 서울성모병원을 중심으로 강북삼성병원, 성균바이오융합과학기술원, 웨이센, 삼성전자, 네이버클라우드, 미소정보기술, 마크로젠, 디지털팜 등이 참여하고 있다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "의사 전문 분야별로 본\nAI의 물리적 한계",
-          "body": "진찰·생검·수술을 못 하는 AI의 분야별 대체 노출도를 NEJM AI가 짚었다.",
-          "mini_headline": "의료에서 AI의 물리적 한계",
+        "en": {
+          "headline": "Seoul St. Mary's tests AI app\nfor chronic kidney disease risk",
+          "body": "Validation has begun on an AI app that predicts kidney disease risk from checkup, genomic and wearable data.",
+          "mini_headline": "AI app for kidney disease risk under validation",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "NEJM AI에 실린 이 관점 논문에서 Dan Zeltzer, Tyler Tam, Benji Bhattacharya, Victoria Udalova, Maria Polyakova는 의사 전문 분야 전반에서 AI 대체를 가로막는 물리적 한계와, 그 한계가 의사 인력에 주는 함의를 살폈다."
-              },
-              {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/c15c7a83-476d-440c-af12-511c2c671af3/aip2600957_f1.jpg",
-                "cap": "전문 분야별 지급액 비중: 물리적 서비스(소프트웨어 기반 AI로 대체 불가), E&M, 비물리적 서비스(대체 가능성 있음)."
+                "src": "https://www.medigatenews.com/file/news/539561"
               },
               {
                 "t": "p",
-                "x": "56개 전문 분야 전체(지급액 US$44.9bn)를 보면 지급액의 24%가 물리적 서비스, 55%가 평가·관리, 21%가 AI로 대체될 가능성이 있는 비물리적 서비스에 쓰였다."
+                "x": "A research team led by Professor Lee In-seok of the Department of Gastroenterology at The Catholic University of Korea Seoul St. Mary's Hospital said on the 4th that it has begun validating the usefulness of a mobile app that uses artificial intelligence (AI) to analyze health checkup records, genomic information and wearable device data and show a person's risk of chronic kidney disease. The validation is part of the project ‘Development of super-gap technology for phenome data-based AI prediction and management of health risks across the life cycle,’ under the AI-based personalized care service convergence leading program supported by the Ministry of Science and ICT and the Institute of Information & Communications Technology Planning & Evaluation (IITP)."
               },
               {
                 "t": "p",
-                "x": "노출 정도는 분야마다 크게 갈린다. 병리학 지급액의 99%, 진단 영상의학의 96%가 비물리적 업무다. 반면 피부과는 68%, 정형외과는 53%가 물리적 서비스다."
+                "x": "The team is linking and standardizing Electronic Medical Record and health checkup data from multiple medical institutions, and adding physical activity, sleep and eating-habit information collected through wearable devices and the app to genomic analysis data, to develop AI models that predict the risk of onset and progression of diseases including chronic kidney disease. The app combines multiple clinical variables, such as health checkups and genomic tests, to calculate each person's absolute risk, and adds activity, sleep and heart rate data received from a Galaxy Watch. This process runs on the AI patient health platform (PHAIR), and in addition to chronic kidney disease risk, the app also provides life coaching."
+              },
+              {
+                "t": "p",
+                "x": "The team also applied Federated Learning, a technique that lets several hospitals train AI together without directly sharing patient data. Clinical validation began in October 2026. The study recruits 50 people to use the app and a wearable for 3 months, and at month 3, kidney function (eGFR, estimated glomerular filtration rate) is checked with chest imaging and follow-up blood tests."
+              },
+              {
+                "t": "p",
+                "x": "The full study period is 6 months, and the team plans to assess the service's use, satisfaction and usefulness to examine whether it can be applied in daily life. The team explained that existing risk prediction models focus on calculating the likelihood of disease onset or progression from clinical information at a single point in time, which has limited how well predictions translate into actual health management. This is because continuously tracking individual risk factors and providing tailored feedback requires an ongoing investment of clinicians' time and staff."
+              },
+              {
+                "t": "p",
+                "x": "The team aims to link AI-calculated disease risk with app-based personalized lifestyle coaching, and to build a management system that continuously reflects changes in a person's health status and habits to help improve risk factors and prevent disease. Roles are also divided."
+              },
+              {
+                "t": "p",
+                "x": "Seoul St. Mary's Hospital provides health checkup and clinical information, and the Department of Medical Informatics at The Catholic University of Korea is responsible for developing AI models that predict the risk of developing chronic kidney disease (CKD) and lung cancer. DigitalPharm handles AI analysis and platform operation, and Pyunghwa IS handles hospital information system operation and data conversion and transmission. The team expects AI technology that reflects Koreans' health characteristics to be meaningful in identifying high-risk groups early and providing individualized care before onset and worsening, and to contribute to advancing precision medicine and strengthening the competitiveness of future medical technology. Professor Lee In-seok said, “This study checks in a real clinical setting whether AI and wearables can solve the continuous risk management and feedback that were hard to achieve through outpatient care alone.” Led by Seoul St. Mary's Hospital, the project's participants include Kangbuk Samsung Hospital, the Sungkyun Institute of Bio-Convergence Science and Technology, WAYCEN, Samsung Electronics, NAVER Cloud, Miso Info Tech, Macrogen and DigitalPharm."
               }
             ]
           }
         },
         "ja": {
-          "headline": "診療科ごとに見る\nAIの物理的な限界",
-          "body": "ソフトは診察・生検・手術ができないとし、NEJM AIが診療科別のAI代替度を分析した。",
-          "mini_headline": "医療におけるAIの物理的限界",
+          "headline": "ソウル聖母病院、慢性腎臓病\nリスク予測AIアプリを検証",
+          "body": "健診・ゲノム・ウェアラブルのデータで腎臓病リスクを予測するAIアプリの検証が始まった。",
+          "mini_headline": "腎臓病リスクAIアプリを検証",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "このNEJM AIのパースペクティブ論文で、Dan Zeltzer、Tyler Tam、Benji Bhattacharya、Victoria Udalova、Maria Polyakovaは、診療科ごとにAIによる代替を阻む物理的な限界と、それが医師の労働力に与える影響を検討した。"
-              },
-              {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/c15c7a83-476d-440c-af12-511c2c671af3/aip2600957_f1.jpg",
-                "cap": "診療科別の支払い構成比:物理的サービス(ソフトウェアベースのAIでは代替不可)、E&M、非物理的サービス(代替の可能性あり)。"
+                "src": "https://www.medigatenews.com/file/news/539561"
               },
               {
                 "t": "p",
-                "x": "全56診療科(支払総額US$44.9bn)では、支払いの24%が物理的サービス、55%が評価・管理、21%がAIで代替されうる非物理的サービスに充てられている。"
+                "x": "カトリック大学ソウル聖母病院消化器内科のイ・インソク教授の研究チームは、健康診断データとゲノム情報、ウェアラブル機器のデータを人工知能(AI)で分析し、慢性腎臓病のリスクを知らせるモバイルアプリの有用性の検証を始めたと4日に明らかにした。今回の検証は、科学技術情報通信部と情報通信企画評価院(IITP)が支援するAI基盤の個人向けケアサービス融合先導事業のうち、「フェノームデータ基盤AIによる生涯全周期の健康リスク予測・管理の超格差技術開発」課題の一部である。"
               },
               {
                 "t": "p",
-                "x": "代替リスクの度合いは大きく異なる。病理では支払いの99%、画像診断では96%が非物理的業務である一方、皮膚科では68%、整形外科では53%を物理的サービスが占める。"
+                "x": "研究チームは複数の医療機関の電子カルテ(Electronic Medical Record)と健康診断データを連携・標準化し、ゲノム解析データにウェアラブル機器とアプリで収集した身体活動、睡眠、食習慣の情報を加え、慢性腎臓病などの疾患の発症と進行のリスクを予測するAIモデルを開発している。アプリは健康診断やゲノム検査など複数の臨床変数を総合して個人ごとの絶対リスクを算出し、Galaxy Watchで得た活動量、睡眠、心拍数のデータを加える。この処理はAI患者健康プラットフォーム(PHAIR)上で行われ、アプリは慢性腎臓病のリスクに加えてライフコーチングも提供する。"
+              },
+              {
+                "t": "p",
+                "x": "複数の病院が患者データを直接共有せずにAIを共同で学習させる連合学習(Federated Learning)技術も適用した。臨床検証は2026年10月に始まった。50人を募集して3か月間アプリとウェアラブルを使ってもらい、3か月目に胸部画像検査と追跡血液検査で腎機能(eGFR、推算糸球体濾過量)を確認する。"
+              },
+              {
+                "t": "p",
+                "x": "研究期間は全体で6か月で、研究チームはサービスの活用度と満足度、有用性を評価し、日常での適用可能性を探る計画だ。研究チームは、既存のリスク予測モデルが特定時点の臨床情報から疾患の発症や進行の可能性を算出することに重点を置いており、予測結果を実際の健康管理につなげるには限界があったと説明した。個人ごとのリスク要因を継続的に追跡し、個別のフィードバックを提供するには、医療スタッフの時間と人手を投入し続ける必要があるためだという。"
+              },
+              {
+                "t": "p",
+                "x": "研究チームは、AIが算出した疾患リスクをアプリによる個別の生活コーチングと結びつけ、個人の健康状態や生活習慣の変化を継続的に反映して、リスク要因の改善と疾病予防を支える管理体制を構築することを目指す。役割分担も決まっている。"
+              },
+              {
+                "t": "p",
+                "x": "ソウル聖母病院は健康診断と臨床情報を提供し、カトリック大学医療情報学教室は慢性腎臓病(CKD)と肺がんの発症リスクを予測するAIモデルの開発を担う。デジタルファームはAI分析とプラットフォーム運営を、ピョンファイズは病院情報システムの運営とデータの変換・送信を担当する。研究チームは、韓国人の健康特性を反映したAI技術が高リスク群を早期に見つけ、発症や悪化の前に個別の管理を提供する点で意義があり、精密医療の発展と将来の医療技術の競争力強化に貢献すると期待している。イ・インソク教授は「外来診療だけでは実現が難しかった継続的なリスク管理とフィードバックを、AIとウェアラブルで解決できるかを実際の臨床現場で確かめる研究だ」と述べた。この課題にはソウル聖母病院を中心に、江北サムスン病院、成均バイオ融合科学技術院、ウェイセン、サムスン電子、NAVER Cloud、ミソ情報技術、マクロジェン、デジタルファームなどが参加している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI的物理局限\n在各医生专科的体现",
-          "body": "由于软件无法查体、活检或手术，NEJM AI梳理了各专科被AI替代的风险敞口。",
-          "mini_headline": "AI在医学中的物理局限",
+          "headline": "首尔圣母医院验证\n慢性肾病风险预测AI应用",
+          "body": "利用体检、基因组和可穿戴数据预测肾病风险的AI应用已开始验证。",
+          "mini_headline": "肾病风险AI应用启动验证",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "在这篇NEJM AI观点文章中，Dan Zeltzer、Tyler Tam、Benji Bhattacharya、Victoria Udalova和Maria Polyakova探讨了各医生专科中AI替代所面临的物理局限，以及这对医生队伍意味着什么。"
-              },
-              {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/c15c7a83-476d-440c-af12-511c2c671af3/aip2600957_f1.jpg",
-                "cap": "各专科支付占比：物理性服务（不可被基于软件的AI替代）、E&M，以及非物理性服务（可能被替代）。"
+                "src": "https://www.medigatenews.com/file/news/539561"
               },
               {
                 "t": "p",
-                "x": "在全部56个专科（支付总额US$44.9bn）中，24%的支付用于物理性服务，55%用于评估与管理，21%用于可能被AI替代的非物理性服务。"
+                "x": "天主教大学首尔圣母医院消化内科李仁锡教授研究团队4日表示，已开始验证一款移动应用的实用性。该应用利用人工智能(AI)分析体检资料、基因组信息和可穿戴设备数据，提示慢性肾病风险。此次验证是科学技术信息通信部和信息通信企划评价院(IITP)支持的基于AI的定制化护理服务融合先导项目中“基于表型组数据的AI全生命周期健康风险预测与管理超差距技术开发”课题的一部分。"
               },
               {
                 "t": "p",
-                "x": "各专科的暴露程度差异很大：病理科99%、诊断放射科96%的支付来自非物理性工作，而皮肤科和骨科分别有68%和53%来自物理性服务。"
+                "x": "研究团队正在打通并标准化多家医疗机构的电子病历(Electronic Medical Record)和体检数据，在基因组分析资料中加入通过可穿戴设备和应用收集的身体活动、睡眠和饮食习惯信息，开发预测慢性肾病等疾病发生和进展风险的AI模型。该应用综合体检和基因组检测等多项临床变量计算个人绝对风险，并加入从Galaxy Watch获取的活动量、睡眠和心率数据。这一过程在AI患者健康平台(PHAIR)上完成，应用除慢性肾病风险外还提供生活指导。"
+              },
+              {
+                "t": "p",
+                "x": "研究还采用了联邦学习(Federated Learning)技术，让多家医院无需直接共享患者资料即可共同训练AI。临床验证于2026年10月启动。研究招募50人，让其使用应用和可穿戴设备3个月，并在第3个月通过胸部影像检查和随访血液检查确认肾功能(eGFR，估算肾小球滤过率)。"
+              },
+              {
+                "t": "p",
+                "x": "整个研究为期6个月，团队计划评估服务的使用度、满意度和实用性，考察其在日常生活中应用的可能性。团队解释说，现有风险预测模型侧重于根据某一时点的临床信息计算疾病发生或进展的可能性，在将预测结果转化为实际健康管理方面存在局限。原因在于，要持续追踪个人风险因素并提供定制化反馈，就必须不断投入医护人员的时间和人力。"
+              },
+              {
+                "t": "p",
+                "x": "研究团队的目标是将AI计算出的疾病风险与基于应用的定制化生活指导相结合，持续反映个人健康状况和生活习惯的变化，构建帮助改善风险因素、预防疾病的管理体系。各方也有明确分工。"
+              },
+              {
+                "t": "p",
+                "x": "首尔圣母医院提供体检和临床信息，天主教大学医疗信息学教研室负责开发预测慢性肾病(CKD)和肺癌发病风险的AI模型。DigitalPharm负责AI分析和平台运营，Pyunghwa IS负责医院信息系统运营及资料转换与传输。研究团队认为，反映韩国人健康特征的AI技术能够及早发现高危人群，在发病和恶化之前提供个性化管理，具有重要意义，并期待其为精准医疗发展和增强未来医疗技术竞争力作出贡献。李仁锡教授表示：“这项研究是在真实临床现场检验，能否借助AI和可穿戴设备解决仅靠门诊难以实现的持续风险管理与反馈。”该课题以首尔圣母医院为中心，江北三星医院、成均生物融合科学技术院、WAYCEN、三星电子、NAVER Cloud、Miso Info Tech、Macrogen、DigitalPharm等机构参与。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los límites físicos de la AI\nen las especialidades médicas",
-          "body": "Como el software no explora, biopsia ni opera, NEJM AI mide la exposición por especialidad a la sustitución por AI.",
-          "mini_headline": "Los límites físicos de la AI en medicina",
+          "headline": "Seoul St. Mary's valida una app\nAI de riesgo renal crónico",
+          "body": "Se empezó a validar una app AI que predice el riesgo de enfermedad renal con datos de chequeos, genoma y wearables.",
+          "mini_headline": "Validan una app AI de riesgo renal",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.medigatenews.com/file/news/539561"
+              },
+              {
+                "t": "p",
+                "x": "El equipo del profesor Lee In-seok, del Servicio de Gastroenterología del Hospital Seoul St. Mary's de la Universidad Católica de Corea, anunció el día 4 que ha comenzado a validar la utilidad de una app móvil que analiza con inteligencia artificial (AI) datos de chequeos médicos, información genómica y datos de dispositivos wearables para indicar el riesgo de enfermedad renal crónica. La validación forma parte del proyecto ‘Desarrollo de tecnología de brecha superior para la predicción y gestión de riesgos de salud a lo largo de todo el ciclo vital con AI basada en datos del fenoma’, dentro del programa líder de convergencia de servicios de atención personalizada basados en AI que apoyan el Ministerio de Ciencia y TIC y el Instituto de Planificación y Evaluación de Tecnologías de la Información y las Comunicaciones (IITP)."
+              },
+              {
+                "t": "p",
+                "x": "El equipo vincula y estandariza los historiales clínicos electrónicos (Electronic Medical Record) y los datos de chequeos de varias instituciones médicas, y añade a los datos de análisis genómico información sobre actividad física, sueño y hábitos alimentarios recogida con dispositivos wearables y la app, para desarrollar modelos de AI que predicen el riesgo de aparición y progresión de enfermedades como la enfermedad renal crónica. La app combina diversas variables clínicas, como chequeos y pruebas genómicas, para calcular el riesgo absoluto de cada persona, y suma datos de actividad, sueño y frecuencia cardíaca recibidos de un Galaxy Watch. Este proceso se realiza en la plataforma de salud del paciente con AI (PHAIR) y, además del riesgo de enfermedad renal crónica, la app ofrece coaching de estilo de vida."
+              },
+              {
+                "t": "p",
+                "x": "También se aplicó el aprendizaje federado (Federated Learning), que permite a varios hospitales entrenar una AI conjuntamente sin compartir directamente los datos de los pacientes. La validación clínica comenzó en octubre de 2026. Se reclutan 50 personas que usarán la app y el wearable durante 3 meses, y en el mes 3 se comprobará la función renal (eGFR, tasa de filtración glomerular estimada) con pruebas de imagen torácica y análisis de sangre de seguimiento."
+              },
+              {
+                "t": "p",
+                "x": "El estudio durará 6 meses en total, y el equipo prevé evaluar el uso, la satisfacción y la utilidad del servicio para examinar su aplicabilidad en la vida diaria. El equipo explicó que los modelos de predicción de riesgo existentes se centran en calcular la probabilidad de aparición o progresión de una enfermedad a partir de información clínica de un momento concreto, lo que limitaba su traslado a la gestión real de la salud. Esto se debe a que seguir de forma continua los factores de riesgo individuales y ofrecer retroalimentación personalizada exige una inversión constante de tiempo y personal médico."
+              },
+              {
+                "t": "p",
+                "x": "El equipo aspira a vincular el riesgo de enfermedad calculado por la AI con un coaching de estilo de vida personalizado basado en la app, y a construir un sistema de gestión que refleje de forma continua los cambios en el estado de salud y los hábitos de cada persona para ayudar a mejorar los factores de riesgo y prevenir enfermedades. Las funciones también están repartidas."
+              },
+              {
+                "t": "p",
+                "x": "El Hospital Seoul St. Mary's aporta datos de chequeos e información clínica, y el Departamento de Informática Médica de la Universidad Católica de Corea se encarga de desarrollar modelos de AI que predicen el riesgo de enfermedad renal crónica (CKD) y cáncer de pulmón. DigitalPharm se ocupa del análisis con AI y la operación de la plataforma, y Pyunghwa IS, de la operación del sistema de información hospitalaria y la conversión y transmisión de datos. El equipo considera que una tecnología de AI que refleje las características de salud de la población coreana es valiosa para detectar pronto a los grupos de alto riesgo y ofrecer atención individualizada antes de la aparición o el agravamiento de la enfermedad, y espera que contribuya al avance de la medicina de precisión y a la competitividad de la tecnología médica futura. El profesor Lee In-seok afirmó: “Es un estudio que comprueba en la práctica clínica real si la AI y los wearables pueden resolver la gestión continua del riesgo y la retroalimentación que eran difíciles de lograr solo con la consulta externa”. En el proyecto participan, con el Hospital Seoul St. Mary's como eje, el Hospital Kangbuk Samsung, el Sungkyun Institute of Bio-Convergence Science and Technology, WAYCEN, Samsung Electronics, NAVER Cloud, Miso Info Tech, Macrogen y DigitalPharm, entre otros."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "Seoul St. Mary's tests AI app\nfor chronic kidney disease risk",
+          "body": "Validation has begun on an AI app that predicts kidney disease risk from checkup, genomic and wearable data.",
+          "mini_headline": "AI app for kidney disease risk under validation",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.medigatenews.com/file/news/539561"
+              },
+              {
+                "t": "p",
+                "x": "A research team led by Professor Lee In-seok of the Department of Gastroenterology at The Catholic University of Korea Seoul St. Mary's Hospital said on the 4th that it has begun validating the usefulness of a mobile app that uses artificial intelligence (AI) to analyze health checkup records, genomic information and wearable device data and show a person's risk of chronic kidney disease. The validation is part of the project ‘Development of super-gap technology for phenome data-based AI prediction and management of health risks across the life cycle,’ under the AI-based personalized care service convergence leading program supported by the Ministry of Science and ICT and the Institute of Information & Communications Technology Planning & Evaluation (IITP)."
+              },
+              {
+                "t": "p",
+                "x": "The team is linking and standardizing Electronic Medical Record and health checkup data from multiple medical institutions, and adding physical activity, sleep and eating-habit information collected through wearable devices and the app to genomic analysis data, to develop AI models that predict the risk of onset and progression of diseases including chronic kidney disease. The app combines multiple clinical variables, such as health checkups and genomic tests, to calculate each person's absolute risk, and adds activity, sleep and heart rate data received from a Galaxy Watch. This process runs on the AI patient health platform (PHAIR), and in addition to chronic kidney disease risk, the app also provides life coaching."
+              },
+              {
+                "t": "p",
+                "x": "The team also applied Federated Learning, a technique that lets several hospitals train AI together without directly sharing patient data. Clinical validation began in October 2026. The study recruits 50 people to use the app and a wearable for 3 months, and at month 3, kidney function (eGFR, estimated glomerular filtration rate) is checked with chest imaging and follow-up blood tests."
+              },
+              {
+                "t": "p",
+                "x": "The full study period is 6 months, and the team plans to assess the service's use, satisfaction and usefulness to examine whether it can be applied in daily life. The team explained that existing risk prediction models focus on calculating the likelihood of disease onset or progression from clinical information at a single point in time, which has limited how well predictions translate into actual health management. This is because continuously tracking individual risk factors and providing tailored feedback requires an ongoing investment of clinicians' time and staff."
+              },
+              {
+                "t": "p",
+                "x": "The team aims to link AI-calculated disease risk with app-based personalized lifestyle coaching, and to build a management system that continuously reflects changes in a person's health status and habits to help improve risk factors and prevent disease. Roles are also divided."
+              },
+              {
+                "t": "p",
+                "x": "Seoul St. Mary's Hospital provides health checkup and clinical information, and the Department of Medical Informatics at The Catholic University of Korea is responsible for developing AI models that predict the risk of developing chronic kidney disease (CKD) and lung cancer. DigitalPharm handles AI analysis and platform operation, and Pyunghwa IS handles hospital information system operation and data conversion and transmission. The team expects AI technology that reflects Koreans' health characteristics to be meaningful in identifying high-risk groups early and providing individualized care before onset and worsening, and to contribute to advancing precision medicine and strengthening the competitiveness of future medical technology. Professor Lee In-seok said, “This study checks in a real clinical setting whether AI and wearables can solve the continuous risk management and feedback that were hard to achieve through outpatient care alone.” Led by Seoul St. Mary's Hospital, the project's participants include Kangbuk Samsung Hospital, the Sungkyun Institute of Bio-Convergence Science and Technology, WAYCEN, Samsung Electronics, NAVER Cloud, Miso Info Tech, Macrogen and DigitalPharm."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ソウル聖母病院、慢性腎臓病\nリスク予測AIアプリを検証",
+          "body": "健診・ゲノム・ウェアラブルのデータで腎臓病リスクを予測するAIアプリの検証が始まった。",
+          "mini_headline": "腎臓病リスクAIアプリを検証",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.medigatenews.com/file/news/539561"
+              },
+              {
+                "t": "p",
+                "x": "カトリック大学ソウル聖母病院消化器内科のイ・インソク教授の研究チームは、健康診断データとゲノム情報、ウェアラブル機器のデータを人工知能(AI)で分析し、慢性腎臓病のリスクを知らせるモバイルアプリの有用性の検証を始めたと4日に明らかにした。今回の検証は、科学技術情報通信部と情報通信企画評価院(IITP)が支援するAI基盤の個人向けケアサービス融合先導事業のうち、「フェノームデータ基盤AIによる生涯全周期の健康リスク予測・管理の超格差技術開発」課題の一部である。"
+              },
+              {
+                "t": "p",
+                "x": "研究チームは複数の医療機関の電子カルテ(Electronic Medical Record)と健康診断データを連携・標準化し、ゲノム解析データにウェアラブル機器とアプリで収集した身体活動、睡眠、食習慣の情報を加え、慢性腎臓病などの疾患の発症と進行のリスクを予測するAIモデルを開発している。アプリは健康診断やゲノム検査など複数の臨床変数を総合して個人ごとの絶対リスクを算出し、Galaxy Watchで得た活動量、睡眠、心拍数のデータを加える。この処理はAI患者健康プラットフォーム(PHAIR)上で行われ、アプリは慢性腎臓病のリスクに加えてライフコーチングも提供する。"
+              },
+              {
+                "t": "p",
+                "x": "複数の病院が患者データを直接共有せずにAIを共同で学習させる連合学習(Federated Learning)技術も適用した。臨床検証は2026年10月に始まった。50人を募集して3か月間アプリとウェアラブルを使ってもらい、3か月目に胸部画像検査と追跡血液検査で腎機能(eGFR、推算糸球体濾過量)を確認する。"
+              },
+              {
+                "t": "p",
+                "x": "研究期間は全体で6か月で、研究チームはサービスの活用度と満足度、有用性を評価し、日常での適用可能性を探る計画だ。研究チームは、既存のリスク予測モデルが特定時点の臨床情報から疾患の発症や進行の可能性を算出することに重点を置いており、予測結果を実際の健康管理につなげるには限界があったと説明した。個人ごとのリスク要因を継続的に追跡し、個別のフィードバックを提供するには、医療スタッフの時間と人手を投入し続ける必要があるためだという。"
+              },
+              {
+                "t": "p",
+                "x": "研究チームは、AIが算出した疾患リスクをアプリによる個別の生活コーチングと結びつけ、個人の健康状態や生活習慣の変化を継続的に反映して、リスク要因の改善と疾病予防を支える管理体制を構築することを目指す。役割分担も決まっている。"
+              },
+              {
+                "t": "p",
+                "x": "ソウル聖母病院は健康診断と臨床情報を提供し、カトリック大学医療情報学教室は慢性腎臓病(CKD)と肺がんの発症リスクを予測するAIモデルの開発を担う。デジタルファームはAI分析とプラットフォーム運営を、ピョンファイズは病院情報システムの運営とデータの変換・送信を担当する。研究チームは、韓国人の健康特性を反映したAI技術が高リスク群を早期に見つけ、発症や悪化の前に個別の管理を提供する点で意義があり、精密医療の発展と将来の医療技術の競争力強化に貢献すると期待している。イ・インソク教授は「外来診療だけでは実現が難しかった継続的なリスク管理とフィードバックを、AIとウェアラブルで解決できるかを実際の臨床現場で確かめる研究だ」と述べた。この課題にはソウル聖母病院を中心に、江北サムスン病院、成均バイオ融合科学技術院、ウェイセン、サムスン電子、NAVER Cloud、ミソ情報技術、マクロジェン、デジタルファームなどが参加している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "首尔圣母医院验证\n慢性肾病风险预测AI应用",
+          "body": "利用体检、基因组和可穿戴数据预测肾病风险的AI应用已开始验证。",
+          "mini_headline": "肾病风险AI应用启动验证",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.medigatenews.com/file/news/539561"
+              },
+              {
+                "t": "p",
+                "x": "天主教大学首尔圣母医院消化内科李仁锡教授研究团队4日表示，已开始验证一款移动应用的实用性。该应用利用人工智能(AI)分析体检资料、基因组信息和可穿戴设备数据，提示慢性肾病风险。此次验证是科学技术信息通信部和信息通信企划评价院(IITP)支持的基于AI的定制化护理服务融合先导项目中“基于表型组数据的AI全生命周期健康风险预测与管理超差距技术开发”课题的一部分。"
+              },
+              {
+                "t": "p",
+                "x": "研究团队正在打通并标准化多家医疗机构的电子病历(Electronic Medical Record)和体检数据，在基因组分析资料中加入通过可穿戴设备和应用收集的身体活动、睡眠和饮食习惯信息，开发预测慢性肾病等疾病发生和进展风险的AI模型。该应用综合体检和基因组检测等多项临床变量计算个人绝对风险，并加入从Galaxy Watch获取的活动量、睡眠和心率数据。这一过程在AI患者健康平台(PHAIR)上完成，应用除慢性肾病风险外还提供生活指导。"
+              },
+              {
+                "t": "p",
+                "x": "研究还采用了联邦学习(Federated Learning)技术，让多家医院无需直接共享患者资料即可共同训练AI。临床验证于2026年10月启动。研究招募50人，让其使用应用和可穿戴设备3个月，并在第3个月通过胸部影像检查和随访血液检查确认肾功能(eGFR，估算肾小球滤过率)。"
+              },
+              {
+                "t": "p",
+                "x": "整个研究为期6个月，团队计划评估服务的使用度、满意度和实用性，考察其在日常生活中应用的可能性。团队解释说，现有风险预测模型侧重于根据某一时点的临床信息计算疾病发生或进展的可能性，在将预测结果转化为实际健康管理方面存在局限。原因在于，要持续追踪个人风险因素并提供定制化反馈，就必须不断投入医护人员的时间和人力。"
+              },
+              {
+                "t": "p",
+                "x": "研究团队的目标是将AI计算出的疾病风险与基于应用的定制化生活指导相结合，持续反映个人健康状况和生活习惯的变化，构建帮助改善风险因素、预防疾病的管理体系。各方也有明确分工。"
+              },
+              {
+                "t": "p",
+                "x": "首尔圣母医院提供体检和临床信息，天主教大学医疗信息学教研室负责开发预测慢性肾病(CKD)和肺癌发病风险的AI模型。DigitalPharm负责AI分析和平台运营，Pyunghwa IS负责医院信息系统运营及资料转换与传输。研究团队认为，反映韩国人健康特征的AI技术能够及早发现高危人群，在发病和恶化之前提供个性化管理，具有重要意义，并期待其为精准医疗发展和增强未来医疗技术竞争力作出贡献。李仁锡教授表示：“这项研究是在真实临床现场检验，能否借助AI和可穿戴设备解决仅靠门诊难以实现的持续风险管理与反馈。”该课题以首尔圣母医院为中心，江北三星医院、成均生物融合科学技术院、WAYCEN、三星电子、NAVER Cloud、Miso Info Tech、Macrogen、DigitalPharm等机构参与。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Seoul St. Mary's valida una app\nAI de riesgo renal crónico",
+          "body": "Se empezó a validar una app AI que predice el riesgo de enfermedad renal con datos de chequeos, genoma y wearables.",
+          "mini_headline": "Validan una app AI de riesgo renal",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.medigatenews.com/file/news/539561"
+              },
+              {
+                "t": "p",
+                "x": "El equipo del profesor Lee In-seok, del Servicio de Gastroenterología del Hospital Seoul St. Mary's de la Universidad Católica de Corea, anunció el día 4 que ha comenzado a validar la utilidad de una app móvil que analiza con inteligencia artificial (AI) datos de chequeos médicos, información genómica y datos de dispositivos wearables para indicar el riesgo de enfermedad renal crónica. La validación forma parte del proyecto ‘Desarrollo de tecnología de brecha superior para la predicción y gestión de riesgos de salud a lo largo de todo el ciclo vital con AI basada en datos del fenoma’, dentro del programa líder de convergencia de servicios de atención personalizada basados en AI que apoyan el Ministerio de Ciencia y TIC y el Instituto de Planificación y Evaluación de Tecnologías de la Información y las Comunicaciones (IITP)."
+              },
+              {
+                "t": "p",
+                "x": "El equipo vincula y estandariza los historiales clínicos electrónicos (Electronic Medical Record) y los datos de chequeos de varias instituciones médicas, y añade a los datos de análisis genómico información sobre actividad física, sueño y hábitos alimentarios recogida con dispositivos wearables y la app, para desarrollar modelos de AI que predicen el riesgo de aparición y progresión de enfermedades como la enfermedad renal crónica. La app combina diversas variables clínicas, como chequeos y pruebas genómicas, para calcular el riesgo absoluto de cada persona, y suma datos de actividad, sueño y frecuencia cardíaca recibidos de un Galaxy Watch. Este proceso se realiza en la plataforma de salud del paciente con AI (PHAIR) y, además del riesgo de enfermedad renal crónica, la app ofrece coaching de estilo de vida."
+              },
+              {
+                "t": "p",
+                "x": "También se aplicó el aprendizaje federado (Federated Learning), que permite a varios hospitales entrenar una AI conjuntamente sin compartir directamente los datos de los pacientes. La validación clínica comenzó en octubre de 2026. Se reclutan 50 personas que usarán la app y el wearable durante 3 meses, y en el mes 3 se comprobará la función renal (eGFR, tasa de filtración glomerular estimada) con pruebas de imagen torácica y análisis de sangre de seguimiento."
+              },
+              {
+                "t": "p",
+                "x": "El estudio durará 6 meses en total, y el equipo prevé evaluar el uso, la satisfacción y la utilidad del servicio para examinar su aplicabilidad en la vida diaria. El equipo explicó que los modelos de predicción de riesgo existentes se centran en calcular la probabilidad de aparición o progresión de una enfermedad a partir de información clínica de un momento concreto, lo que limitaba su traslado a la gestión real de la salud. Esto se debe a que seguir de forma continua los factores de riesgo individuales y ofrecer retroalimentación personalizada exige una inversión constante de tiempo y personal médico."
+              },
+              {
+                "t": "p",
+                "x": "El equipo aspira a vincular el riesgo de enfermedad calculado por la AI con un coaching de estilo de vida personalizado basado en la app, y a construir un sistema de gestión que refleje de forma continua los cambios en el estado de salud y los hábitos de cada persona para ayudar a mejorar los factores de riesgo y prevenir enfermedades. Las funciones también están repartidas."
+              },
+              {
+                "t": "p",
+                "x": "El Hospital Seoul St. Mary's aporta datos de chequeos e información clínica, y el Departamento de Informática Médica de la Universidad Católica de Corea se encarga de desarrollar modelos de AI que predicen el riesgo de enfermedad renal crónica (CKD) y cáncer de pulmón. DigitalPharm se ocupa del análisis con AI y la operación de la plataforma, y Pyunghwa IS, de la operación del sistema de información hospitalaria y la conversión y transmisión de datos. El equipo considera que una tecnología de AI que refleje las características de salud de la población coreana es valiosa para detectar pronto a los grupos de alto riesgo y ofrecer atención individualizada antes de la aparición o el agravamiento de la enfermedad, y espera que contribuya al avance de la medicina de precisión y a la competitividad de la tecnología médica futura. El profesor Lee In-seok afirmó: “Es un estudio que comprueba en la práctica clínica real si la AI y los wearables pueden resolver la gestión continua del riesgo y la retroalimentación que eran difíciles de lograr solo con la consulta externa”. En el proyecto participan, con el Hospital Seoul St. Mary's como eje, el Hospital Kangbuk Samsung, el Sungkyun Institute of Bio-Convergence Science and Technology, WAYCEN, Samsung Electronics, NAVER Cloud, Miso Info Tech, Macrogen y DigitalPharm, entre otros."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "aha-rural-echo-ai-guidance",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 안내로 비전문가도\n농촌 심장 초음파 촬영",
+      "body": "실시간 AI 안내 덕에 비전문 인력도 농촌 이동진료소에서 양질의 심초음파를 찍었다.",
+      "mini_headline": "AI 안내로 비전문가도 심장 촬영",
+      "tool": "Medicine",
+      "source": "American Heart Association Newsroom",
+      "url": "https://newsroom.heart.org/news/non-experts-with-ai-guidance-and-off-site-review-perform-quality-mobile-rural-heart-scans",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://iprsoftwaremedia.com/67/files/20269/eec50b9c834cefd555f05b13149e03ca/6ad983fe3d633211624a8985_Ravi%20-%20Mobile%20Health%20Unit/Ravi%20-%20Mobile%20Health%20Unit_hero.jpg?v=452cc052-eaae-4f6d-93f1-4363f72b0584",
+            "cap": "RURAL 연구에 쓰인 이동진료소(Mobile Health Unit) - American Heart Association Scientific Sessions 2026 초록 포스터 MDP2290."
+          },
+          {
+            "t": "p",
+            "x": "초음파 경험이 없는 의료 인력이 인공지능(AI)의 도움을 받아 농촌 지역에서 양질의 심장 스캔을 찍었고, 외부 전문가가 이 영상을 원격으로 검토했다. 미국심장협회(American Heart Association) Scientific Sessions 2026에서 발표될 새 예비 연구 결과다."
+          },
+          {
+            "t": "p",
+            "x": "RURAL 연구에 자원한 참가자 4,597명의 심장 스캔 가운데 98%가 표준 심초음파 시야 여섯 개를 모두 담았다. 핵심 판독실 전문가들은 99%가 넘는 검사를 적절하다고 봤다. 81%는 목표 시간인 15분 안에 끝났고 소요 시간 중앙값은 9.5분이었다."
+          },
+          {
+            "t": "p",
+            "x": "위급한 결과가 나온 스캔은 133건이었고 이 중 99%가 사흘 안에 참가자에게 전달됐다. 초음파사가 아닌 열네 명(간호사, 간호조무사, CT 기사)은 AI 안내(AI-guided) 초음파 교육을 2시간 받았다."
+          },
+          {
+            "t": "p",
+            "x": "Duke University School of Medicine의 연구 저자 Sanjana Ravi, M.D.는 “실시간 AI 안내와 이를 뒷받침하는 엄격한 품질관리 체계가 있으면, 이동진료소의 간호사나 CT 기사도 연구에 쓸 만하고 추적 관찰이 필요한 심각한 심장 문제를 짚어낼 만큼 좋은 심장 영상을 만들 수 있다”고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "초음파사가 얻은 영상과 AI 안내를 받은(AI-guided) 비초음파사의 영상을 직접 비교하지는 않았다. 소프트웨어도 한 브랜드만 썼다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "AI guidance lets non-experts\ncapture rural heart scans",
+          "body": "With real-time AI guidance, staff without ultrasound training captured quality echocardiograms in a rural mobile unit.",
+          "mini_headline": "Non-experts scan hearts\nwith AI guidance",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "En esta perspectiva de NEJM AI, Dan Zeltzer, Tyler Tam, Benji Bhattacharya, Victoria Udalova y Maria Polyakova examinan los límites físicos a la sustitución por AI en las distintas especialidades médicas y lo que implican para la fuerza laboral médica."
+                "t": "img",
+                "src": "https://iprsoftwaremedia.com/67/files/20269/eec50b9c834cefd555f05b13149e03ca/6ad983fe3d633211624a8985_Ravi%20-%20Mobile%20Health%20Unit/Ravi%20-%20Mobile%20Health%20Unit_hero.jpg?v=452cc052-eaae-4f6d-93f1-4363f72b0584",
+                "cap": "Mobile Health Unit used in the RURAL study - American Heart Association Scientific Sessions 2026 Abstract Poster MDP2290."
               },
+              {
+                "t": "p",
+                "x": "Artificial intelligence (AI) helped health professionals with no ultrasound experience in capturing quality heart scans in rural communities, which were then reviewed by off-site experts, according to new preliminary research to be presented at the American Heart Association's Scientific Sessions 2026."
+              },
+              {
+                "t": "p",
+                "x": "In heart scans for 4,597 volunteer participants in the RURAL study, 98% of the scans included all six standard echocardiography views. Studies were rated adequate by the core laboratory experts more than 99% of the time. Scans were performed within a 15-minute target window 81% of the time, with a median time of 9.5 minutes."
+              },
+              {
+                "t": "p",
+                "x": "Critical results were identified in 133 scans; 99% were returned to participants within three days. Fourteen non-sonographers (nurses, nursing assistants and CT technicians) completed the 2-hour training in AI-guided ultrasound."
+              },
+              {
+                "t": "p",
+                "x": "“With real-time AI guidance and a rigorous quality-control system behind it, a nurse or CT technologist in a mobile unit can produce heart images good enough for research and good enough to flag serious heart problems that need follow-up,” said study author Sanjana Ravi, M.D., of the Duke University School of Medicine."
+              },
+              {
+                "t": "p",
+                "x": "There was no direct comparison between sonographer-acquired images and those from AI-guided non-sonographers, and only one brand of software was used."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 안내로 비전문가도\n농촌 심장 초음파 촬영",
+          "body": "실시간 AI 안내 덕에 비전문 인력도 농촌 이동진료소에서 양질의 심초음파를 찍었다.",
+          "mini_headline": "AI 안내로 비전문가도 심장 촬영",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/c15c7a83-476d-440c-af12-511c2c671af3/aip2600957_f1.jpg",
-                "cap": "Proporción de pagos por especialidad: servicios físicos (no sustituibles por AI basada en software), E&M y no físicos (potencialmente sustituibles)."
+                "src": "https://iprsoftwaremedia.com/67/files/20269/eec50b9c834cefd555f05b13149e03ca/6ad983fe3d633211624a8985_Ravi%20-%20Mobile%20Health%20Unit/Ravi%20-%20Mobile%20Health%20Unit_hero.jpg?v=452cc052-eaae-4f6d-93f1-4363f72b0584",
+                "cap": "RURAL 연구에 쓰인 이동진료소(Mobile Health Unit) - American Heart Association Scientific Sessions 2026 초록 포스터 MDP2290."
               },
               {
                 "t": "p",
-                "x": "En las 56 especialidades (US$44.9bn en pagos), el 24% de los pagos corresponde a servicios físicos, el 55% a evaluación y gestión, y el 21% a servicios no físicos potencialmente sustituibles por AI."
+                "x": "초음파 경험이 없는 의료 인력이 인공지능(AI)의 도움을 받아 농촌 지역에서 양질의 심장 스캔을 찍었고, 외부 전문가가 이 영상을 원격으로 검토했다. 미국심장협회(American Heart Association) Scientific Sessions 2026에서 발표될 새 예비 연구 결과다."
               },
               {
                 "t": "p",
-                "x": "La exposición varía mucho: el trabajo no físico representa el 99% de los pagos en patología y el 96% en radiología diagnóstica, mientras que los servicios físicos suponen el 68% en dermatología y el 53% en cirugía ortopédica."
+                "x": "RURAL 연구에 자원한 참가자 4,597명의 심장 스캔 가운데 98%가 표준 심초음파 시야 여섯 개를 모두 담았다. 핵심 판독실 전문가들은 99%가 넘는 검사를 적절하다고 봤다. 81%는 목표 시간인 15분 안에 끝났고 소요 시간 중앙값은 9.5분이었다."
+              },
+              {
+                "t": "p",
+                "x": "위급한 결과가 나온 스캔은 133건이었고 이 중 99%가 사흘 안에 참가자에게 전달됐다. 초음파사가 아닌 열네 명(간호사, 간호조무사, CT 기사)은 AI 안내(AI-guided) 초음파 교육을 2시간 받았다."
+              },
+              {
+                "t": "p",
+                "x": "Duke University School of Medicine의 연구 저자 Sanjana Ravi, M.D.는 “실시간 AI 안내와 이를 뒷받침하는 엄격한 품질관리 체계가 있으면, 이동진료소의 간호사나 CT 기사도 연구에 쓸 만하고 추적 관찰이 필요한 심각한 심장 문제를 짚어낼 만큼 좋은 심장 영상을 만들 수 있다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "초음파사가 얻은 영상과 AI 안내를 받은(AI-guided) 비초음파사의 영상을 직접 비교하지는 않았다. 소프트웨어도 한 브랜드만 썼다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIの誘導で非専門家も\n農村部で心エコー撮影",
+          "body": "リアルタイムのAI誘導で、超音波未訓練の職員が農村の移動診療車で良質な心エコー画像を得た。",
+          "mini_headline": "AI誘導で非専門家が心エコー",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://iprsoftwaremedia.com/67/files/20269/eec50b9c834cefd555f05b13149e03ca/6ad983fe3d633211624a8985_Ravi%20-%20Mobile%20Health%20Unit/Ravi%20-%20Mobile%20Health%20Unit_hero.jpg?v=452cc052-eaae-4f6d-93f1-4363f72b0584",
+                "cap": "RURAL研究で使われた移動診療ユニット(Mobile Health Unit) - American Heart Association Scientific Sessions 2026 抄録ポスターMDP2290。"
+              },
+              {
+                "t": "p",
+                "x": "人工知能(AI)の支援により、超音波の経験がない医療従事者が農村地域で良質な心臓スキャンを撮影でき、その画像は遠隔の専門家が確認した。米国心臓協会(American Heart Association)のScientific Sessions 2026で発表予定の新たな予備研究による。"
+              },
+              {
+                "t": "p",
+                "x": "RURAL研究のボランティア参加者4,597人の心臓スキャンでは、98%が標準的な心エコーの六つの断面をすべて含んでいた。コアラボの専門家は99%を超える検査を適切と評価した。スキャンの81%は目標の15分以内に行われ、所要時間の中央値は9.5分だった。"
+              },
+              {
+                "t": "p",
+                "x": "133件のスキャンで重大な所見が見つかり、その99%は三日以内に参加者に返された。超音波検査士ではない十四人(看護師、看護助手、CT技師)が、AI誘導(AI-guided)超音波の2時間の研修を修了した。"
+              },
+              {
+                "t": "p",
+                "x": "「リアルタイムのAI誘導とそれを支える厳格な品質管理体制があれば、移動ユニットの看護師やCT技師でも、研究に十分で、追跡が必要な重い心臓の問題を見つけるのにも十分な心臓画像を撮れる」と、Duke University School of Medicineの研究著者Sanjana Ravi, M.D.は述べた。"
+              },
+              {
+                "t": "p",
+                "x": "超音波検査士が撮影した画像とAI誘導(AI-guided)の非検査士による画像を直接比較してはおらず、使われたソフトウェアも一つのブランドだけだった。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI引导下非专业人员\n完成乡村心脏扫描",
+          "body": "借助实时AI引导，未受超声培训的人员在乡村流动医疗车中获得了高质量超声心动图。",
+          "mini_headline": "非专业人员借AI引导做心脏扫描",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://iprsoftwaremedia.com/67/files/20269/eec50b9c834cefd555f05b13149e03ca/6ad983fe3d633211624a8985_Ravi%20-%20Mobile%20Health%20Unit/Ravi%20-%20Mobile%20Health%20Unit_hero.jpg?v=452cc052-eaae-4f6d-93f1-4363f72b0584",
+                "cap": "RURAL研究中使用的流动医疗单元(Mobile Health Unit) - American Heart Association Scientific Sessions 2026摘要海报MDP2290。"
+              },
+              {
+                "t": "p",
+                "x": "根据将在美国心脏协会(American Heart Association) Scientific Sessions 2026上发布的一项新的初步研究，人工智能(AI)帮助没有超声经验的医务人员在农村社区采集到高质量心脏扫描，随后由异地专家审阅。"
+              },
+              {
+                "t": "p",
+                "x": "在RURAL研究4,597名志愿参与者的心脏扫描中，98%包含全部六个标准超声心动图切面。核心实验室专家评定超过99%的检查合格。81%的扫描在15分钟目标时间内完成，中位用时9.5分钟。"
+              },
+              {
+                "t": "p",
+                "x": "133次扫描发现危急结果，其中99%在三天内反馈给参与者。十四名非超声技师(护士、护理助理和CT技师)完成了2小时的AI引导(AI-guided)超声培训。"
+              },
+              {
+                "t": "p",
+                "x": "“有了实时AI引导及其背后严格的质量控制体系，流动单元中的护士或CT技师就能拍出足以用于研究、也足以发现需要随访的严重心脏问题的心脏图像，”Duke University School of Medicine的研究作者Sanjana Ravi, M.D.说。"
+              },
+              {
+                "t": "p",
+                "x": "研究没有直接比较超声技师采集的图像与AI引导(AI-guided)下非超声技师采集的图像，且只使用了一个品牌的软件。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Con guía de AI, no expertos\nescanean corazones en el campo",
+          "body": "Con AI en tiempo real, personal sin formación en ecografía logró ecocardiogramas de calidad en una unidad móvil rural.",
+          "mini_headline": "No expertos escanean corazones con guía de AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://iprsoftwaremedia.com/67/files/20269/eec50b9c834cefd555f05b13149e03ca/6ad983fe3d633211624a8985_Ravi%20-%20Mobile%20Health%20Unit/Ravi%20-%20Mobile%20Health%20Unit_hero.jpg?v=452cc052-eaae-4f6d-93f1-4363f72b0584",
+                "cap": "Unidad móvil de salud (Mobile Health Unit) usada en el estudio RURAL - American Heart Association Scientific Sessions 2026, póster de resumen MDP2290."
+              },
+              {
+                "t": "p",
+                "x": "La inteligencia artificial (AI) ayudó a profesionales sanitarios sin experiencia en ecografía a obtener exploraciones cardíacas de calidad en comunidades rurales, que luego revisaron expertos a distancia, según una nueva investigación preliminar que se presentará en las Scientific Sessions 2026 de la American Heart Association."
+              },
+              {
+                "t": "p",
+                "x": "En las exploraciones cardíacas de 4,597 participantes voluntarios del estudio RURAL, el 98% incluyó las seis vistas ecocardiográficas estándar. Los expertos del laboratorio central calificaron los estudios como adecuados en más del 99% de los casos. El 81% de las exploraciones se realizó dentro del objetivo de 15 minutos, con una mediana de 9.5 minutos."
+              },
+              {
+                "t": "p",
+                "x": "Se identificaron resultados críticos en 133 exploraciones; el 99% se comunicó a los participantes en un plazo de tres días. Catorce no ecografistas (enfermeras, auxiliares de enfermería y técnicos de CT) completaron la formación de 2 horas en ecografía guiada por AI (AI-guided)."
+              },
+              {
+                "t": "p",
+                "x": "“Con guía de AI en tiempo real y un riguroso sistema de control de calidad detrás, una enfermera o un técnico de CT en una unidad móvil puede producir imágenes cardíacas lo bastante buenas para la investigación y para señalar problemas cardíacos graves que requieren seguimiento”, afirmó la autora del estudio Sanjana Ravi, M.D., de la Duke University School of Medicine."
+              },
+              {
+                "t": "p",
+                "x": "No hubo una comparación directa entre las imágenes obtenidas por ecografistas y las de no ecografistas guiados por AI (AI-guided), y solo se usó una marca de software."
               }
             ]
           }
@@ -1283,109 +1521,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "의사 전문 분야별로 본\nAI의 물리적 한계",
-          "body": "진찰·생검·수술을 못 하는 AI의 분야별 대체 노출도를 NEJM AI가 짚었다.",
-          "mini_headline": "의료에서 AI의 물리적 한계",
+          "headline": "AI 안내로 비전문가도\n농촌 심장 초음파 촬영",
+          "body": "실시간 AI 안내로 비전문 인력이 농촌 이동진료소에서 양질의 심초음파를 찍었다.",
+          "mini_headline": "AI 안내로 비전문가도 심장 촬영",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "이 NEJM AI 관점 논문에서 Dan Zeltzer, Tyler Tam, Benji Bhattacharya, Victoria Udalova, Maria Polyakova는 의사 전문 분야 전반에서 AI 대체를 가로막는 물리적 한계와 그것이 의사 인력에 주는 함의를 살폈다."
-              },
-              {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/c15c7a83-476d-440c-af12-511c2c671af3/aip2600957_f1.jpg",
-                "cap": "전문 분야별 지급액 비중: 물리적 서비스(소프트웨어 기반 AI로 대체 불가), E&M, 비물리적 서비스(대체 가능성 있음)."
+                "src": "https://iprsoftwaremedia.com/67/files/20269/eec50b9c834cefd555f05b13149e03ca/6ad983fe3d633211624a8985_Ravi%20-%20Mobile%20Health%20Unit/Ravi%20-%20Mobile%20Health%20Unit_hero.jpg?v=452cc052-eaae-4f6d-93f1-4363f72b0584",
+                "cap": "RURAL 연구에 쓰인 이동진료소(Mobile Health Unit) - American Heart Association Scientific Sessions 2026 초록 포스터 MDP2290."
               },
               {
                 "t": "p",
-                "x": "전체 56개 전문 분야(지급액 US$44.9bn)에서 지급액의 24%는 물리적 서비스, 55%는 평가·관리, 21%는 AI로 대체될 가능성이 있는 비물리적 서비스에 쓰였다."
+                "x": "인공지능(AI)의 도움으로 초음파 경험이 없는 의료 인력이 농촌 지역에서 양질의 심장 스캔을 촬영했고, 이 영상은 외부 전문가가 원격으로 검토했다. 미국심장협회(American Heart Association) Scientific Sessions 2026에서 발표될 새 예비 연구 결과다."
               },
               {
                 "t": "p",
-                "x": "노출 정도는 분야마다 크게 다르다. 병리학 지급액의 99%, 진단 영상의학의 96%가 비물리적 업무인 반면, 피부과는 68%, 정형외과는 53%가 물리적 서비스다."
+                "x": "RURAL 연구의 자원 참가자 4,597명의 심장 스캔 중 98%가 표준 심초음파 시야 여섯 개를 모두 담았다. 핵심 판독실 전문가들은 99%가 넘는 검사를 적절하다고 평가했다. 스캔의 81%가 15분 목표 시간 안에 끝났고, 소요 시간 중앙값은 9.5분이었다."
+              },
+              {
+                "t": "p",
+                "x": "133건의 스캔에서 위급한 결과가 확인됐고, 이 중 99%가 사흘 안에 참가자에게 전달됐다. 초음파사가 아닌 열네 명(간호사, 간호조무사, CT 기사)이 AI 안내(AI-guided) 초음파 2시간 교육을 마쳤다."
+              },
+              {
+                "t": "p",
+                "x": "Duke University School of Medicine의 연구 저자 Sanjana Ravi, M.D.는 “실시간 AI 안내와 이를 뒷받침하는 엄격한 품질관리 체계가 있으면, 이동진료소의 간호사나 CT 기사도 연구에 쓸 만하고 추적 관찰이 필요한 심각한 심장 문제를 짚어낼 만큼 좋은 심장 영상을 만들 수 있다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "초음파사가 얻은 영상과 AI 안내를 받은(AI-guided) 비초음파사의 영상을 직접 비교하지는 않았고, 소프트웨어도 한 브랜드만 썼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "診療科ごとに見る\nAIの物理的な限界",
-          "body": "ソフトは診察・生検・手術ができないとし、NEJM AIが診療科別のAI代替度を分析した。",
-          "mini_headline": "医療におけるAIの物理的限界",
+          "headline": "AIの誘導で非専門家も\n農村部で心エコー撮影",
+          "body": "リアルタイムのAI誘導で、超音波未訓練の職員が農村の移動診療車で良質な心エコー画像を得た。",
+          "mini_headline": "AI誘導で非専門家が心エコー",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "このNEJM AIのパースペクティブ論文で、Dan Zeltzer、Tyler Tam、Benji Bhattacharya、Victoria Udalova、Maria Polyakovaは、診療科ごとにAIによる代替を阻む物理的な限界と、それが医師の労働力に与える影響を検討した。"
-              },
-              {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/c15c7a83-476d-440c-af12-511c2c671af3/aip2600957_f1.jpg",
-                "cap": "診療科別の支払い構成比:物理的サービス(ソフトウェアベースのAIでは代替不可)、E&M、非物理的サービス(代替の可能性あり)。"
+                "src": "https://iprsoftwaremedia.com/67/files/20269/eec50b9c834cefd555f05b13149e03ca/6ad983fe3d633211624a8985_Ravi%20-%20Mobile%20Health%20Unit/Ravi%20-%20Mobile%20Health%20Unit_hero.jpg?v=452cc052-eaae-4f6d-93f1-4363f72b0584",
+                "cap": "RURAL研究で使われた移動診療ユニット(Mobile Health Unit) - American Heart Association Scientific Sessions 2026 抄録ポスターMDP2290。"
               },
               {
                 "t": "p",
-                "x": "全56診療科(支払総額US$44.9bn)では、支払いの24%が物理的サービス、55%が評価・管理、21%がAIで代替されうる非物理的サービスに充てられている。"
+                "x": "人工知能(AI)の支援により、超音波の経験がない医療従事者が農村地域で良質な心臓スキャンを撮影でき、その画像は遠隔の専門家が確認した。米国心臓協会(American Heart Association)のScientific Sessions 2026で発表予定の新たな予備研究による。"
               },
               {
                 "t": "p",
-                "x": "代替リスクの度合いは大きく異なる。病理では支払いの99%、画像診断では96%が非物理的業務である一方、皮膚科では68%、整形外科では53%を物理的サービスが占める。"
+                "x": "RURAL研究のボランティア参加者4,597人の心臓スキャンでは、98%が標準的な心エコーの六つの断面をすべて含んでいた。コアラボの専門家は99%を超える検査を適切と評価した。スキャンの81%は目標の15分以内に行われ、所要時間の中央値は9.5分だった。"
+              },
+              {
+                "t": "p",
+                "x": "133件のスキャンで重大な所見が見つかり、その99%は三日以内に参加者に返された。超音波検査士ではない十四人(看護師、看護助手、CT技師)が、AI誘導(AI-guided)超音波の2時間の研修を修了した。"
+              },
+              {
+                "t": "p",
+                "x": "「リアルタイムのAI誘導とそれを支える厳格な品質管理体制があれば、移動ユニットの看護師やCT技師でも、研究に十分で、追跡が必要な重い心臓の問題を見つけるのにも十分な心臓画像を撮れる」と、Duke University School of Medicineの研究著者Sanjana Ravi, M.D.は述べた。"
+              },
+              {
+                "t": "p",
+                "x": "超音波検査士が撮影した画像とAI誘導(AI-guided)の非検査士による画像を直接比較してはおらず、使われたソフトウェアも一つのブランドだけだった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI的物理局限\n在各医生专科的体现",
-          "body": "由于软件无法查体、活检或手术，NEJM AI梳理了各专科被AI替代的风险敞口。",
-          "mini_headline": "AI在医学中的物理局限",
+          "headline": "AI引导下非专业人员\n完成乡村心脏扫描",
+          "body": "借助实时AI引导，未受超声培训的人员在乡村流动医疗车中获得了高质量超声心动图。",
+          "mini_headline": "非专业人员借AI引导做心脏扫描",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "在这篇NEJM AI观点文章中，Dan Zeltzer、Tyler Tam、Benji Bhattacharya、Victoria Udalova和Maria Polyakova探讨了各医生专科中AI替代所面临的物理局限，以及这对医生队伍意味着什么。"
-              },
-              {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/c15c7a83-476d-440c-af12-511c2c671af3/aip2600957_f1.jpg",
-                "cap": "各专科支付占比：物理性服务（不可被基于软件的AI替代）、E&M，以及非物理性服务（可能被替代）。"
+                "src": "https://iprsoftwaremedia.com/67/files/20269/eec50b9c834cefd555f05b13149e03ca/6ad983fe3d633211624a8985_Ravi%20-%20Mobile%20Health%20Unit/Ravi%20-%20Mobile%20Health%20Unit_hero.jpg?v=452cc052-eaae-4f6d-93f1-4363f72b0584",
+                "cap": "RURAL研究中使用的流动医疗单元(Mobile Health Unit) - American Heart Association Scientific Sessions 2026摘要海报MDP2290。"
               },
               {
                 "t": "p",
-                "x": "在全部56个专科（支付总额US$44.9bn）中，24%的支付用于物理性服务，55%用于评估与管理，21%用于可能被AI替代的非物理性服务。"
+                "x": "根据将在美国心脏协会(American Heart Association) Scientific Sessions 2026上发布的一项新的初步研究，人工智能(AI)帮助没有超声经验的医务人员在农村社区采集到高质量心脏扫描，随后由异地专家审阅。"
               },
               {
                 "t": "p",
-                "x": "各专科的暴露程度差异很大：病理科99%、诊断放射科96%的支付来自非物理性工作，而皮肤科和骨科分别有68%和53%来自物理性服务。"
+                "x": "在RURAL研究4,597名志愿参与者的心脏扫描中，98%包含全部六个标准超声心动图切面。核心实验室专家评定超过99%的检查合格。81%的扫描在15分钟目标时间内完成，中位用时9.5分钟。"
+              },
+              {
+                "t": "p",
+                "x": "133次扫描发现危急结果，其中99%在三天内反馈给参与者。十四名非超声技师(护士、护理助理和CT技师)完成了2小时的AI引导(AI-guided)超声培训。"
+              },
+              {
+                "t": "p",
+                "x": "“有了实时AI引导及其背后严格的质量控制体系，流动单元中的护士或CT技师就能拍出足以用于研究、也足以发现需要随访的严重心脏问题的心脏图像，”Duke University School of Medicine的研究作者Sanjana Ravi, M.D.说。"
+              },
+              {
+                "t": "p",
+                "x": "研究没有直接比较超声技师采集的图像与AI引导(AI-guided)下非超声技师采集的图像，且只使用了一个品牌的软件。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los límites físicos de la AI\nen las especialidades médicas",
-          "body": "Como el software no explora, biopsia ni opera, NEJM AI mide la exposición por especialidad a la sustitución por AI.",
-          "mini_headline": "Los límites físicos de la AI en medicina",
+          "headline": "Con guía de AI, no expertos\nescanean corazones en el campo",
+          "body": "Con AI en tiempo real, personal sin formación en ecografía logró ecocardiogramas de calidad en una unidad móvil rural.",
+          "mini_headline": "No expertos escanean corazones con guía de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "En esta perspectiva de NEJM AI, Dan Zeltzer, Tyler Tam, Benji Bhattacharya, Victoria Udalova y Maria Polyakova examinan los límites físicos a la sustitución por AI en las distintas especialidades médicas y lo que implican para la fuerza laboral médica."
-              },
-              {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/c15c7a83-476d-440c-af12-511c2c671af3/aip2600957_f1.jpg",
-                "cap": "Proporción de pagos por especialidad: servicios físicos (no sustituibles por AI basada en software), E&M y no físicos (potencialmente sustituibles)."
+                "src": "https://iprsoftwaremedia.com/67/files/20269/eec50b9c834cefd555f05b13149e03ca/6ad983fe3d633211624a8985_Ravi%20-%20Mobile%20Health%20Unit/Ravi%20-%20Mobile%20Health%20Unit_hero.jpg?v=452cc052-eaae-4f6d-93f1-4363f72b0584",
+                "cap": "Unidad móvil de salud (Mobile Health Unit) usada en el estudio RURAL - American Heart Association Scientific Sessions 2026, póster de resumen MDP2290."
               },
               {
                 "t": "p",
-                "x": "En las 56 especialidades (US$44.9bn en pagos), el 24% de los pagos corresponde a servicios físicos, el 55% a evaluación y gestión, y el 21% a servicios no físicos potencialmente sustituibles por AI."
+                "x": "La inteligencia artificial (AI) ayudó a profesionales sanitarios sin experiencia en ecografía a obtener exploraciones cardíacas de calidad en comunidades rurales, que luego revisaron expertos a distancia, según una nueva investigación preliminar que se presentará en las Scientific Sessions 2026 de la American Heart Association."
               },
               {
                 "t": "p",
-                "x": "La exposición varía mucho: el trabajo no físico representa el 99% de los pagos en patología y el 96% en radiología diagnóstica, mientras que los servicios físicos suponen el 68% en dermatología y el 53% en cirugía ortopédica."
+                "x": "En las exploraciones cardíacas de 4,597 participantes voluntarios del estudio RURAL, el 98% incluyó las seis vistas ecocardiográficas estándar. Los expertos del laboratorio central calificaron los estudios como adecuados en más del 99% de los casos. El 81% de las exploraciones se realizó dentro del objetivo de 15 minutos, con una mediana de 9.5 minutos."
+              },
+              {
+                "t": "p",
+                "x": "Se identificaron resultados críticos en 133 exploraciones; el 99% se comunicó a los participantes en un plazo de tres días. Catorce no ecografistas (enfermeras, auxiliares de enfermería y técnicos de CT) completaron la formación de 2 horas en ecografía guiada por AI (AI-guided)."
+              },
+              {
+                "t": "p",
+                "x": "“Con guía de AI en tiempo real y un riguroso sistema de control de calidad detrás, una enfermera o un técnico de CT en una unidad móvil puede producir imágenes cardíacas lo bastante buenas para la investigación y para señalar problemas cardíacos graves que requieren seguimiento”, afirmó la autora del estudio Sanjana Ravi, M.D., de la Duke University School of Medicine."
+              },
+              {
+                "t": "p",
+                "x": "No hubo una comparación directa entre las imágenes obtenidas por ecografistas y las de no ecografistas guiados por AI (AI-guided), y solo se usó una marca de software."
               }
             ]
           }

@@ -3247,6 +3247,127 @@
           "x": "Both tools have received U.S. Food and Drug Administration (FDA) 510(k) clearance and carry the CE Mark. Existing Vscan Air customers with a valid Innovation Package subscription or license are expected to receive the updates by the end of November, GEHC said."
         }
       ]
+    },
+    "medicine/medicine-brainct-clip-worklist": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Safe deprioritization of non-contrast brain computed tomography (NCCT) demands high sensitivity and negative predictive value (NPV) across common and uncommon findings requiring clinical attention. Here, we present a collaborative safety net integrating BrainCT-CLIP, a generalist foundation model via contrastive language-image pre-training (CLIP), with commercial detectors. Every examination remained in the reporting workflow, deprioritized only when no model returned a positive result."
+        },
+        {
+          "t": "p",
+          "x": "In a retrospective multicenter external validation of consecutive emergency and trauma cohorts (n = 2001), standalone commercial detectors left 31 of 324 remarkable examinations deprioritized, including 16 target-disease false negatives and 15 outside their indications. In contrast, the collaborative system recovered every remarkable examination at a threshold prespecified in the development cohort, achieving 100% sensitivity and NPV while deprioritizing 18% of examinations (368/2001; 95% CI, 17–20)."
+        },
+        {
+          "t": "p",
+          "x": "These findings support generalist-specialist AI for safe worklist deprioritization under radiologist oversight, with high sensitivity for intracranial findings requiring clinical attention."
+        }
+      ]
+    },
+    "medicine/medicine-fda-510k-ai-updates": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This cross-sectional study investigated characteristics and reporting of updates to artificial intelligence (AI)/machine learning–based medical devices cleared through the Food and Drug Administration (FDA) 510(k) pathway, using the public FDA 510(k) database through March 31, 2025."
+        },
+        {
+          "t": "p",
+          "x": "The study included 163 unique devices that explicitly reported using AI/ML; most (89.0%) analyzed medical imaging data. Among these devices, 56 (34.4%) received at least 1 update to their AI/ML algorithm, with a median (IQR) time until first update of 1.8 (0.9-2.5) years."
+        },
+        {
+          "t": "p",
+          "x": "Of the updated devices, 42 (75.0%) received at least 1 update that changed their usage compared with the previous version; 9 (16.1%) had updates that only improved performance."
+        },
+        {
+          "t": "p",
+          "x": "Reporting was inconsistent: participant information was absent for 42.9% of updated devices and sample size for 26.8%, and 48 devices (85.7%) provided no information on clinical or organizational benefit in any entry related to their updates."
+        },
+        {
+          "t": "p",
+          "x": "The authors call for standardized reporting and postdeployment monitoring, noting that the FDA Predetermined Change Control Plan lets developers prespecify some changes without a new submission."
+        }
+      ]
+    },
+    "medicine/seoulstmary-ckd-risk-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.medigatenews.com/file/news/539561"
+        },
+        {
+          "t": "p",
+          "x": "A research team led by Professor Lee In-seok of the Department of Gastroenterology at The Catholic University of Korea Seoul St. Mary's Hospital said on the 4th that it has begun validating the usefulness of a mobile app that uses artificial intelligence (AI) to analyze health checkup records, genomic information and wearable device data and show a person's risk of chronic kidney disease. The validation is part of the project ‘Development of super-gap technology for phenome data-based AI prediction and management of health risks across the life cycle,’ under the AI-based personalized care service convergence leading program supported by the Ministry of Science and ICT and the Institute of Information & Communications Technology Planning & Evaluation (IITP)."
+        },
+        {
+          "t": "p",
+          "x": "The team is linking and standardizing Electronic Medical Record and health checkup data from multiple medical institutions, and adding physical activity, sleep and eating-habit information collected through wearable devices and the app to genomic analysis data, to develop AI models that predict the risk of onset and progression of diseases including chronic kidney disease. The app combines multiple clinical variables, such as health checkups and genomic tests, to calculate each person's absolute risk, and adds activity, sleep and heart rate data received from a Galaxy Watch. This process runs on the AI patient health platform (PHAIR), and in addition to chronic kidney disease risk, the app also provides life coaching."
+        },
+        {
+          "t": "p",
+          "x": "The team also applied Federated Learning, a technique that lets several hospitals train AI together without directly sharing patient data. Clinical validation began in October 2026. The study recruits 50 people to use the app and a wearable for 3 months, and at month 3, kidney function (eGFR, estimated glomerular filtration rate) is checked with chest imaging and follow-up blood tests."
+        },
+        {
+          "t": "p",
+          "x": "The full study period is 6 months, and the team plans to assess the service's use, satisfaction and usefulness to examine whether it can be applied in daily life. The team explained that existing risk prediction models focus on calculating the likelihood of disease onset or progression from clinical information at a single point in time, which has limited how well predictions translate into actual health management. This is because continuously tracking individual risk factors and providing tailored feedback requires an ongoing investment of clinicians' time and staff."
+        },
+        {
+          "t": "p",
+          "x": "The team aims to link AI-calculated disease risk with app-based personalized lifestyle coaching, and to build a management system that continuously reflects changes in a person's health status and habits to help improve risk factors and prevent disease. Roles are also divided."
+        },
+        {
+          "t": "p",
+          "x": "Seoul St. Mary's Hospital provides health checkup and clinical information, and the Department of Medical Informatics at The Catholic University of Korea is responsible for developing AI models that predict the risk of developing chronic kidney disease (CKD) and lung cancer. DigitalPharm handles AI analysis and platform operation, and Pyunghwa IS handles hospital information system operation and data conversion and transmission. The team expects AI technology that reflects Koreans' health characteristics to be meaningful in identifying high-risk groups early and providing individualized care before onset and worsening, and to contribute to advancing precision medicine and strengthening the competitiveness of future medical technology. Professor Lee In-seok said, “This study checks in a real clinical setting whether AI and wearables can solve the continuous risk management and feedback that were hard to achieve through outpatient care alone.” Led by Seoul St. Mary's Hospital, the project's participants include Kangbuk Samsung Hospital, the Sungkyun Institute of Bio-Convergence Science and Technology, WAYCEN, Samsung Electronics, NAVER Cloud, Miso Info Tech, Macrogen and DigitalPharm."
+        }
+      ]
+    },
+    "medicine/aha-rural-echo-ai-guidance": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://iprsoftwaremedia.com/67/files/20269/eec50b9c834cefd555f05b13149e03ca/6ad983fe3d633211624a8985_Ravi%20-%20Mobile%20Health%20Unit/Ravi%20-%20Mobile%20Health%20Unit_hero.jpg?v=452cc052-eaae-4f6d-93f1-4363f72b0584",
+          "cap": "Mobile Health Unit used in the RURAL study - American Heart Association Scientific Sessions 2026 Abstract Poster MDP2290."
+        },
+        {
+          "t": "p",
+          "x": "Artificial intelligence (AI) helped health professionals with no ultrasound experience in capturing quality heart scans in rural communities, which were then reviewed by off-site experts, according to new preliminary research to be presented at the American Heart Association's Scientific Sessions 2026."
+        },
+        {
+          "t": "p",
+          "x": "In heart scans for 4,597 volunteer participants in the RURAL study, 98% of the scans included all six standard echocardiography views. Studies were rated adequate by the core laboratory experts more than 99% of the time. Scans were performed within a 15-minute target window 81% of the time, with a median time of 9.5 minutes."
+        },
+        {
+          "t": "p",
+          "x": "Critical results were identified in 133 scans; 99% were returned to participants within three days. Fourteen non-sonographers (nurses, nursing assistants and CT technicians) completed the 2-hour training in AI-guided ultrasound."
+        },
+        {
+          "t": "p",
+          "x": "“With real-time AI guidance and a rigorous quality-control system behind it, a nurse or CT technologist in a mobile unit can produce heart images good enough for research and good enough to flag serious heart problems that need follow-up,” said study author Sanjana Ravi, M.D., of the Duke University School of Medicine."
+        },
+        {
+          "t": "p",
+          "x": "There was no direct comparison between sonographer-acquired images and those from AI-guided non-sonographers, and only one brand of software was used."
+        }
+      ]
+    },
+    "medicine/jama-maternal-chatbot-rct": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This 2-group randomized clinical trial enrolled 400 English-speaking pregnant or postpartum participants (infant younger than 6 months) from racial and ethnic minoritized groups, recruited online across 49 US states and the District of Columbia between October 2023 and December 2024."
+        },
+        {
+          "t": "p",
+          "x": "Participants were randomized 1:1 to a generative AI maternal health chatbot or an active control of monthly children's books. Primary outcomes were anxiety (GAD-7) and depression (PHQ-9) at 12 months."
+        },
+        {
+          "t": "p",
+          "x": "The chatbot was not associated with differences in anxiety (adjusted mean difference, 0.10; 95% CI, −0.77 to 0.96) or depression (−0.23; 95% CI, −1.05 to 0.59), nor with emergency department visits, postpartum care, contraception use or sleep duration."
+        },
+        {
+          "t": "p",
+          "x": "Among those pregnant at enrollment, the chatbot was associated with more self-reported pregnancy-related complications in the secondary 12-month analysis, but not in longitudinal analyses. The authors say secondary and exploratory findings should be interpreted cautiously (NCT06053515)."
+        }
+      ]
     }
   }
 }

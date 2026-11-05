@@ -1,17 +1,1193 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "section": "games",
   "cards": [
     {
-      "id": "nexus-mods-ai-disclosure",
+      "id": "ncai-varco-gstar-cafe",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "엔씨 AI, 지스타서\n바르코 체험 카페 연다",
+      "body": "NC AI가 지스타서 바르코 카페를 열고 10개 팀에 3개월 무료 이용을 준다.",
+      "mini_headline": "엔씨 AI 바르코 카페",
+      "tool": "Games",
+      "source": "아이뉴스24",
+      "url": "https://www.inews24.com/view/2022819",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "[아이뉴스24 곽민구 기자] 엔씨 AI(NC AI)는 국내 최대 게임 전시회 '지스타 2026'에서 생성형 인공지능(AI) 플랫폼 '바르코(VARCO)' 체험 카페를 운영한다고 5일 밝혔다."
+          },
+          {
+            "t": "img",
+            "src": "https://image.inews24.com/v1/e58954f733e2fa.jpg",
+            "cap": ""
+          },
+          {
+            "t": "p",
+            "x": "바르코는 엔씨 AI가 개발한 생성형 AI 플랫폼이다. 게임, 영상 제작에 필요한 3D 모델과 사운드 등을 생성하는 기능을 제공한다. 반복적인 제작 작업을 줄이고 개발자가 필요한 콘텐츠를 제작할 수 있도록 지원한다."
+          },
+          {
+            "t": "p",
+            "x": "체험 카페는 오는 19일부터 21일까지 부산 벡스코 제2전시장 인근 차차커피코 센텀리더스마크점에서 운영한다. 게임업계 관계자와 인디게임 개발자, 학생, 콘텐츠 창작자 등 누구나 방문할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "현장에서는 '바르코 3D'와 '바르코 사운드'를 직접 체험할 수 있다. 바르코 3D는 텍스트나 이미지를 입력해 3D 모델을 생성하고 형태와 표면 질감을 수정할 수 있는 서비스다. 캐릭터의 뼈대를 구성하는 리깅과 애니메이션 제작 기능도 지원한다."
+          },
+          {
+            "t": "p",
+            "x": "바르코 사운드 체험 공간에서는 방문객이 직접 녹음한 목소리를 활용해 게임 속 생명체의 소리를 생성할 수 있다. AI를 활용한 음향 제작 기능을 소개하고, 실제 영상 콘텐츠에 적용된 사례도 전시한다."
+          },
+          {
+            "t": "p",
+            "x": "게임 개발사와 콘텐츠 제작팀을 위한 일대일 도입 상담도 진행한다. 엔씨 AI는 기업별 개발 환경과 프로젝트 특성을 고려해 기존 제작 과정에 바르코를 적용하는 방법과 팀 단위 이용 방식을 안내할 예정이다. 상담에 참여한 기업과 제작팀 가운데 10곳에는 바르코를 3개월간 무료로 이용할 수 있는 기회를 제공한다. 이를 통해 실제 프로젝트에서 AI 생성 기술의 활용 가능성을 검토하도록 지원할 계획이다."
+          },
+          {
+            "t": "p",
+            "x": "온라인 사전 신청도 받는다. 오는 18일까지 바르코에 가입한 뒤 설문에 참여하면 '바르코 3D 플러스' 또는 '바르코 사운드 라이트' 1개월 이용권을 받을 수 있다. 지스타 현장 방문 여부와 관계없이 참여할 수 있으며, 설문을 통해 기업 상담 시간도 예약할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "이연수 엔씨 AI 대표는 \"이번 지스타를 통해 게임 개발자와 창작자들의 목소리를 가까이에서 듣고, 현장의 다양한 요구를 반영해 더 실용적인 AI 기술과 서비스를 선보이겠다\"고 말했다."
+          }
+        ]
+      },
+      "text": {
+        "ko": {
+          "headline": "엔씨 AI, 지스타서\n바르코 체험 카페 연다",
+          "body": "NC AI가 지스타서 바르코 카페를 열고 10개 팀에 3개월 무료 이용을 준다.",
+          "mini_headline": "엔씨 AI 바르코 카페",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "[아이뉴스24 곽민구 기자] 엔씨 AI(NC AI)는 국내 최대 게임 전시회 '지스타 2026'에서 생성형 인공지능(AI) 플랫폼 '바르코(VARCO)' 체험 카페를 운영한다고 5일 밝혔다."
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/e58954f733e2fa.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "바르코는 엔씨 AI가 개발한 생성형 AI 플랫폼이다. 게임, 영상 제작에 필요한 3D 모델과 사운드 등을 생성하는 기능을 제공한다. 반복적인 제작 작업을 줄이고 개발자가 필요한 콘텐츠를 제작할 수 있도록 지원한다."
+              },
+              {
+                "t": "p",
+                "x": "체험 카페는 오는 19일부터 21일까지 부산 벡스코 제2전시장 인근 차차커피코 센텀리더스마크점에서 운영한다. 게임업계 관계자와 인디게임 개발자, 학생, 콘텐츠 창작자 등 누구나 방문할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "현장에서는 '바르코 3D'와 '바르코 사운드'를 직접 체험할 수 있다. 바르코 3D는 텍스트나 이미지를 입력해 3D 모델을 생성하고 형태와 표면 질감을 수정할 수 있는 서비스다. 캐릭터의 뼈대를 구성하는 리깅과 애니메이션 제작 기능도 지원한다."
+              },
+              {
+                "t": "p",
+                "x": "바르코 사운드 체험 공간에서는 방문객이 직접 녹음한 목소리를 활용해 게임 속 생명체의 소리를 생성할 수 있다. AI를 활용한 음향 제작 기능을 소개하고, 실제 영상 콘텐츠에 적용된 사례도 전시한다."
+              },
+              {
+                "t": "p",
+                "x": "게임 개발사와 콘텐츠 제작팀을 위한 일대일 도입 상담도 진행한다. 엔씨 AI는 기업별 개발 환경과 프로젝트 특성을 고려해 기존 제작 과정에 바르코를 적용하는 방법과 팀 단위 이용 방식을 안내할 예정이다. 상담에 참여한 기업과 제작팀 가운데 10곳에는 바르코를 3개월간 무료로 이용할 수 있는 기회를 제공한다. 이를 통해 실제 프로젝트에서 AI 생성 기술의 활용 가능성을 검토하도록 지원할 계획이다."
+              },
+              {
+                "t": "p",
+                "x": "온라인 사전 신청도 받는다. 오는 18일까지 바르코에 가입한 뒤 설문에 참여하면 '바르코 3D 플러스' 또는 '바르코 사운드 라이트' 1개월 이용권을 받을 수 있다. 지스타 현장 방문 여부와 관계없이 참여할 수 있으며, 설문을 통해 기업 상담 시간도 예약할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "이연수 엔씨 AI 대표는 \"이번 지스타를 통해 게임 개발자와 창작자들의 목소리를 가까이에서 듣고, 현장의 다양한 요구를 반영해 더 실용적인 AI 기술과 서비스를 선보이겠다\"고 말했다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "NC AI opens VARCO trial cafe\nduring G-Star",
+          "body": "NC AI is opening a VARCO cafe at G-Star and giving 10 teams 3 months of free access.",
+          "mini_headline": "NC AI's VARCO cafe",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "[iNews24 reporter Kwak Min-gu] NC AI said on the 5th that it will run a hands-on cafe for its generative artificial intelligence (AI) platform VARCO at 'G-Star 2026', Korea's largest game exhibition."
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/e58954f733e2fa.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "VARCO is a generative AI platform developed by NC AI. It provides features for generating 3D models, sound and other assets needed for game and video production. It aims to reduce repetitive production work and help developers create the content they need."
+              },
+              {
+                "t": "p",
+                "x": "The cafe will operate from the 19th to the 21st at the Chachacoffeeco Centum Leaders Mark branch near Exhibition Hall 2 of BEXCO in Busan. Anyone can visit, including game industry professionals, indie game developers, students and content creators."
+              },
+              {
+                "t": "p",
+                "x": "Visitors can try 'VARCO 3D' and 'VARCO Sound' on site. VARCO 3D is a service that generates 3D models from text or image input and lets users edit their shape and surface texture. It also supports rigging, which builds a character's skeleton, and animation production."
+              },
+              {
+                "t": "p",
+                "x": "In the VARCO Sound area, visitors can generate the sounds of in-game creatures using voices they record themselves. The cafe will introduce AI-based audio production features and also display cases where they have been applied to actual video content."
+              },
+              {
+                "t": "p",
+                "x": "One-on-one adoption consultations will also be held for game developers and content production teams. NC AI plans to explain how to apply VARCO to existing production processes and how teams can use it, taking into account each company's development environment and project characteristics. Of the companies and production teams that take part in consultations, 10 will be given the opportunity to use VARCO free for 3 months. The company plans to help them assess how AI generation technology could be used in real projects."
+              },
+              {
+                "t": "p",
+                "x": "Online pre-registration is also open. Those who sign up for VARCO by the 18th and complete a survey can receive a 1-month pass for 'VARCO 3D Plus' or 'VARCO Sound Lite'. Participation is open regardless of whether one visits G-Star in person, and corporate consultation slots can also be booked through the survey."
+              },
+              {
+                "t": "p",
+                "x": "Lee Yeon-soo, CEO of NC AI, said, \"Through this G-Star, we will listen closely to the voices of game developers and creators, reflect the diverse needs from the field, and present more practical AI technologies and services.\""
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "NC AI、G-Starで\nVARCO体験カフェ開設",
+          "body": "NC AIがG-StarでVARCOカフェを開き、10チームに3カ月の無料利用を提供する。",
+          "mini_headline": "NC AIのVARCOカフェ",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "[アイニュース24 クァク・ミング記者] NC AI(エヌシーAI)は5日、国内最大のゲーム展示会「G-Star 2026」で、生成AI(人工知能)プラットフォーム「VARCO(バルコ)」の体験カフェを運営すると明らかにした。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/e58954f733e2fa.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "VARCOはNC AIが開発した生成AIプラットフォームだ。ゲームや映像の制作に必要な3Dモデルやサウンドなどを生成する機能を備える。繰り返しの制作作業を減らし、開発者が必要なコンテンツを制作できるよう支援する。"
+              },
+              {
+                "t": "p",
+                "x": "体験カフェは19日から21日まで、釜山BEXCO第2展示場近くの「チャチャコーヒーコ センタムリーダースマーク店」で運営する。ゲーム業界関係者やインディーゲーム開発者、学生、コンテンツクリエイターなど誰でも訪れることができる。"
+              },
+              {
+                "t": "p",
+                "x": "会場では「VARCO 3D」と「VARCO Sound」を直接体験できる。VARCO 3Dはテキストや画像を入力して3Dモデルを生成し、形状や表面の質感を修正できるサービスだ。キャラクターの骨格を組むリギングやアニメーション制作の機能にも対応する。"
+              },
+              {
+                "t": "p",
+                "x": "VARCO Soundの体験スペースでは、来場者が自ら録音した声を使ってゲーム内の生き物の音を生成できる。AIを活用した音響制作機能を紹介し、実際の映像コンテンツに適用された事例も展示する。"
+              },
+              {
+                "t": "p",
+                "x": "ゲーム開発会社やコンテンツ制作チーム向けの一対一の導入相談も実施する。NC AIは企業ごとの開発環境やプロジェクトの特性を踏まえ、既存の制作工程にVARCOを適用する方法やチーム単位の利用方法を案内する予定だ。相談に参加した企業や制作チームのうち10社には、VARCOを3カ月間無料で利用できる機会を提供する。これにより、実際のプロジェクトでAI生成技術の活用可能性を検討できるよう支援する計画だ。"
+              },
+              {
+                "t": "p",
+                "x": "オンラインでの事前申し込みも受け付ける。18日までにVARCOに登録してアンケートに回答すると、「VARCO 3D Plus」または「VARCO Sound Lite」の1カ月利用券を受け取れる。G-Starの会場を訪れるかどうかに関係なく参加でき、アンケートを通じて企業相談の時間も予約できる。"
+              },
+              {
+                "t": "p",
+                "x": "NC AIのイ・ヨンス代表は「今回のG-Starを通じてゲーム開発者やクリエイターの声を身近で聞き、現場のさまざまな要望を反映して、より実用的なAI技術とサービスを披露していく」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "NC AI在G-Star\n开设VARCO体验咖啡馆",
+          "body": "NC AI在G-Star开设VARCO咖啡馆，向10个团队提供3个月免费使用。",
+          "mini_headline": "NC AI的VARCO咖啡馆",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "[iNews24记者郭敏求] NC AI于5日宣布，将在韩国国内最大的游戏展会“G-Star 2026”上运营生成式人工智能(AI)平台“VARCO”的体验咖啡馆。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/e58954f733e2fa.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "VARCO是NC AI开发的生成式AI平台，可生成游戏和视频制作所需的3D模型、音效等内容。它旨在减少重复性的制作工作，帮助开发者制作所需的内容。"
+              },
+              {
+                "t": "p",
+                "x": "体验咖啡馆将于19日至21日在釜山BEXCO第2展馆附近的Chachacoffeeco Centum Leaders Mark店运营。游戏业界人士、独立游戏开发者、学生和内容创作者等任何人均可到访。"
+              },
+              {
+                "t": "p",
+                "x": "现场可以亲自体验“VARCO 3D”和“VARCO Sound”。VARCO 3D是一项通过输入文本或图像生成3D模型，并可修改形状和表面质感的服务，还支持构建角色骨骼的绑定以及动画制作功能。"
+              },
+              {
+                "t": "p",
+                "x": "在VARCO Sound体验区，访客可以用自己录制的声音生成游戏中生物的音效。现场还将介绍基于AI的音频制作功能，并展示其在实际视频内容中的应用案例。"
+              },
+              {
+                "t": "p",
+                "x": "现场还将为游戏开发商和内容制作团队提供一对一的导入咨询。NC AI将结合各企业的开发环境和项目特点，介绍将VARCO应用于现有制作流程的方法以及以团队为单位的使用方式。在参与咨询的企业和制作团队中，将有10家获得3个月免费使用VARCO的机会，以帮助它们评估AI生成技术在实际项目中的应用可能性。"
+              },
+              {
+                "t": "p",
+                "x": "线上预约申请也同步开放。在18日前注册VARCO并参与问卷调查，即可获得“VARCO 3D Plus”或“VARCO Sound Lite”1个月使用券。无论是否到访G-Star现场均可参与，还可以通过问卷预约企业咨询时间。"
+              },
+              {
+                "t": "p",
+                "x": "NC AI代表李妍秀表示：“希望借此次G-Star近距离倾听游戏开发者和创作者的声音，反映现场的多样需求，推出更加实用的AI技术和服务。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "NC AI abre un café de VARCO\npara probarlo en G-Star",
+          "body": "NC AI abrirá un café de VARCO en G-Star y dará 3 meses de uso gratuito a 10 equipos.",
+          "mini_headline": "Café VARCO de NC AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "[iNews24, reportero Kwak Min-gu] NC AI anunció el día 5 que operará un café de prueba de su plataforma de inteligencia artificial (AI) generativa 'VARCO' en 'G-Star 2026', la mayor feria de videojuegos del país."
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/e58954f733e2fa.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "VARCO es una plataforma de AI generativa desarrollada por NC AI. Ofrece funciones para generar modelos 3D, sonidos y otros elementos necesarios para la producción de videojuegos y video. Busca reducir el trabajo de producción repetitivo y ayudar a los desarrolladores a crear el contenido que necesitan."
+              },
+              {
+                "t": "p",
+                "x": "El café funcionará del 19 al 21 en la sucursal Centum Leaders Mark de Chachacoffeeco, cerca del Pabellón de Exposiciones 2 de BEXCO, en Busan. Puede visitarlo cualquier persona, incluidos profesionales de la industria del videojuego, desarrolladores independientes, estudiantes y creadores de contenido."
+              },
+              {
+                "t": "p",
+                "x": "Allí se podrán probar directamente 'VARCO 3D' y 'VARCO Sound'. VARCO 3D es un servicio que genera modelos 3D a partir de texto o imágenes y permite modificar su forma y la textura de su superficie. También admite el rigging, que construye el esqueleto de los personajes, y la creación de animaciones."
+              },
+              {
+                "t": "p",
+                "x": "En el espacio de VARCO Sound, los visitantes podrán generar sonidos de criaturas de videojuegos a partir de voces que ellos mismos graben. Se presentarán funciones de producción de audio con AI y se exhibirán casos de aplicación en contenidos de video reales."
+              },
+              {
+                "t": "p",
+                "x": "También habrá consultas individuales de adopción para estudios de videojuegos y equipos de producción de contenido. NC AI explicará cómo aplicar VARCO a los procesos de producción existentes y cómo usarlo por equipos, teniendo en cuenta el entorno de desarrollo y las características de los proyectos de cada empresa. Entre las empresas y equipos que participen en las consultas, 10 recibirán la oportunidad de usar VARCO gratis durante 3 meses. Con ello, la compañía busca ayudarlos a evaluar el potencial de la tecnología de generación con AI en proyectos reales."
+              },
+              {
+                "t": "p",
+                "x": "También se aceptan inscripciones previas en línea. Quienes se registren en VARCO hasta el día 18 y respondan una encuesta podrán recibir un pase de 1 mes para 'VARCO 3D Plus' o 'VARCO Sound Lite'. Se puede participar sin importar si se visita G-Star en persona, y la encuesta también permite reservar un horario de consulta empresarial."
+              },
+              {
+                "t": "p",
+                "x": "Lee Yeon-soo, director ejecutivo de NC AI, afirmó: \"A través de este G-Star escucharemos de cerca las voces de los desarrolladores de videojuegos y los creadores, y reflejaremos las diversas necesidades del sector para presentar tecnologías y servicios de AI más prácticos\"."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "NC AI opens VARCO trial cafe\nduring G-Star",
+          "body": "NC AI is opening a VARCO cafe at G-Star and giving 10 teams 3 months of free access.",
+          "mini_headline": "NC AI's VARCO cafe",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "[iNews24 reporter Kwak Min-gu] NC AI said on the 5th that it will run a hands-on cafe for its generative artificial intelligence (AI) platform VARCO at 'G-Star 2026', Korea's largest game exhibition."
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/e58954f733e2fa.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "VARCO is a generative AI platform developed by NC AI. It provides features for generating 3D models, sound and other assets needed for game and video production. It aims to reduce repetitive production work and help developers create the content they need."
+              },
+              {
+                "t": "p",
+                "x": "The cafe will operate from the 19th to the 21st at the Chachacoffeeco Centum Leaders Mark branch near Exhibition Hall 2 of BEXCO in Busan. Anyone can visit, including game industry professionals, indie game developers, students and content creators."
+              },
+              {
+                "t": "p",
+                "x": "Visitors can try 'VARCO 3D' and 'VARCO Sound' on site. VARCO 3D is a service that generates 3D models from text or image input and lets users edit their shape and surface texture. It also supports rigging, which builds a character's skeleton, and animation production."
+              },
+              {
+                "t": "p",
+                "x": "In the VARCO Sound area, visitors can generate the sounds of in-game creatures using voices they record themselves. The cafe will introduce AI-based audio production features and also display cases where they have been applied to actual video content."
+              },
+              {
+                "t": "p",
+                "x": "One-on-one adoption consultations will also be held for game developers and content production teams. NC AI plans to explain how to apply VARCO to existing production processes and how teams can use it, taking into account each company's development environment and project characteristics. Of the companies and production teams that take part in consultations, 10 will be given the opportunity to use VARCO free for 3 months. The company plans to help them assess how AI generation technology could be used in real projects."
+              },
+              {
+                "t": "p",
+                "x": "Online pre-registration is also open. Those who sign up for VARCO by the 18th and complete a survey can receive a 1-month pass for 'VARCO 3D Plus' or 'VARCO Sound Lite'. Participation is open regardless of whether one visits G-Star in person, and corporate consultation slots can also be booked through the survey."
+              },
+              {
+                "t": "p",
+                "x": "Lee Yeon-soo, CEO of NC AI, said, \"Through this G-Star, we will listen closely to the voices of game developers and creators, reflect the diverse needs from the field, and present more practical AI technologies and services.\""
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "NC AI、G-Starで\nVARCO体験カフェ開設",
+          "body": "NC AIがG-StarでVARCOカフェを開き、10チームに3カ月の無料利用を提供する。",
+          "mini_headline": "NC AIのVARCOカフェ",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "[アイニュース24 クァク・ミング記者] NC AI(エヌシーAI)は5日、国内最大のゲーム展示会「G-Star 2026」で、生成AI(人工知能)プラットフォーム「VARCO(バルコ)」の体験カフェを運営すると明らかにした。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/e58954f733e2fa.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "VARCOはNC AIが開発した生成AIプラットフォームだ。ゲームや映像の制作に必要な3Dモデルやサウンドなどを生成する機能を備える。繰り返しの制作作業を減らし、開発者が必要なコンテンツを制作できるよう支援する。"
+              },
+              {
+                "t": "p",
+                "x": "体験カフェは19日から21日まで、釜山BEXCO第2展示場近くの「チャチャコーヒーコ センタムリーダースマーク店」で運営する。ゲーム業界関係者やインディーゲーム開発者、学生、コンテンツクリエイターなど誰でも訪れることができる。"
+              },
+              {
+                "t": "p",
+                "x": "会場では「VARCO 3D」と「VARCO Sound」を直接体験できる。VARCO 3Dはテキストや画像を入力して3Dモデルを生成し、形状や表面の質感を修正できるサービスだ。キャラクターの骨格を組むリギングやアニメーション制作の機能にも対応する。"
+              },
+              {
+                "t": "p",
+                "x": "VARCO Soundの体験スペースでは、来場者が自ら録音した声を使ってゲーム内の生き物の音を生成できる。AIを活用した音響制作機能を紹介し、実際の映像コンテンツに適用された事例も展示する。"
+              },
+              {
+                "t": "p",
+                "x": "ゲーム開発会社やコンテンツ制作チーム向けの一対一の導入相談も実施する。NC AIは企業ごとの開発環境やプロジェクトの特性を踏まえ、既存の制作工程にVARCOを適用する方法やチーム単位の利用方法を案内する予定だ。相談に参加した企業や制作チームのうち10社には、VARCOを3カ月間無料で利用できる機会を提供する。これにより、実際のプロジェクトでAI生成技術の活用可能性を検討できるよう支援する計画だ。"
+              },
+              {
+                "t": "p",
+                "x": "オンラインでの事前申し込みも受け付ける。18日までにVARCOに登録してアンケートに回答すると、「VARCO 3D Plus」または「VARCO Sound Lite」の1カ月利用券を受け取れる。G-Starの会場を訪れるかどうかに関係なく参加でき、アンケートを通じて企業相談の時間も予約できる。"
+              },
+              {
+                "t": "p",
+                "x": "NC AIのイ・ヨンス代表は「今回のG-Starを通じてゲーム開発者やクリエイターの声を身近で聞き、現場のさまざまな要望を反映して、より実用的なAI技術とサービスを披露していく」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "NC AI在G-Star\n开设VARCO体验咖啡馆",
+          "body": "NC AI在G-Star开设VARCO咖啡馆，向10个团队提供3个月免费使用。",
+          "mini_headline": "NC AI的VARCO咖啡馆",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "[iNews24记者郭敏求] NC AI于5日宣布，将在韩国国内最大的游戏展会“G-Star 2026”上运营生成式人工智能(AI)平台“VARCO”的体验咖啡馆。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/e58954f733e2fa.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "VARCO是NC AI开发的生成式AI平台，可生成游戏和视频制作所需的3D模型、音效等内容。它旨在减少重复性的制作工作，帮助开发者制作所需的内容。"
+              },
+              {
+                "t": "p",
+                "x": "体验咖啡馆将于19日至21日在釜山BEXCO第2展馆附近的Chachacoffeeco Centum Leaders Mark店运营。游戏业界人士、独立游戏开发者、学生和内容创作者等任何人均可到访。"
+              },
+              {
+                "t": "p",
+                "x": "现场可以亲自体验“VARCO 3D”和“VARCO Sound”。VARCO 3D是一项通过输入文本或图像生成3D模型，并可修改形状和表面质感的服务，还支持构建角色骨骼的绑定以及动画制作功能。"
+              },
+              {
+                "t": "p",
+                "x": "在VARCO Sound体验区，访客可以用自己录制的声音生成游戏中生物的音效。现场还将介绍基于AI的音频制作功能，并展示其在实际视频内容中的应用案例。"
+              },
+              {
+                "t": "p",
+                "x": "现场还将为游戏开发商和内容制作团队提供一对一的导入咨询。NC AI将结合各企业的开发环境和项目特点，介绍将VARCO应用于现有制作流程的方法以及以团队为单位的使用方式。在参与咨询的企业和制作团队中，将有10家获得3个月免费使用VARCO的机会，以帮助它们评估AI生成技术在实际项目中的应用可能性。"
+              },
+              {
+                "t": "p",
+                "x": "线上预约申请也同步开放。在18日前注册VARCO并参与问卷调查，即可获得“VARCO 3D Plus”或“VARCO Sound Lite”1个月使用券。无论是否到访G-Star现场均可参与，还可以通过问卷预约企业咨询时间。"
+              },
+              {
+                "t": "p",
+                "x": "NC AI代表李妍秀表示：“希望借此次G-Star近距离倾听游戏开发者和创作者的声音，反映现场的多样需求，推出更加实用的AI技术和服务。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "NC AI abre un café de VARCO\npara probarlo en G-Star",
+          "body": "NC AI abrirá un café de VARCO en G-Star y dará 3 meses de uso gratuito a 10 equipos.",
+          "mini_headline": "Café VARCO de NC AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "[iNews24, reportero Kwak Min-gu] NC AI anunció el día 5 que operará un café de prueba de su plataforma de inteligencia artificial (AI) generativa 'VARCO' en 'G-Star 2026', la mayor feria de videojuegos del país."
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/e58954f733e2fa.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "VARCO es una plataforma de AI generativa desarrollada por NC AI. Ofrece funciones para generar modelos 3D, sonidos y otros elementos necesarios para la producción de videojuegos y video. Busca reducir el trabajo de producción repetitivo y ayudar a los desarrolladores a crear el contenido que necesitan."
+              },
+              {
+                "t": "p",
+                "x": "El café funcionará del 19 al 21 en la sucursal Centum Leaders Mark de Chachacoffeeco, cerca del Pabellón de Exposiciones 2 de BEXCO, en Busan. Puede visitarlo cualquier persona, incluidos profesionales de la industria del videojuego, desarrolladores independientes, estudiantes y creadores de contenido."
+              },
+              {
+                "t": "p",
+                "x": "Allí se podrán probar directamente 'VARCO 3D' y 'VARCO Sound'. VARCO 3D es un servicio que genera modelos 3D a partir de texto o imágenes y permite modificar su forma y la textura de su superficie. También admite el rigging, que construye el esqueleto de los personajes, y la creación de animaciones."
+              },
+              {
+                "t": "p",
+                "x": "En el espacio de VARCO Sound, los visitantes podrán generar sonidos de criaturas de videojuegos a partir de voces que ellos mismos graben. Se presentarán funciones de producción de audio con AI y se exhibirán casos de aplicación en contenidos de video reales."
+              },
+              {
+                "t": "p",
+                "x": "También habrá consultas individuales de adopción para estudios de videojuegos y equipos de producción de contenido. NC AI explicará cómo aplicar VARCO a los procesos de producción existentes y cómo usarlo por equipos, teniendo en cuenta el entorno de desarrollo y las características de los proyectos de cada empresa. Entre las empresas y equipos que participen en las consultas, 10 recibirán la oportunidad de usar VARCO gratis durante 3 meses. Con ello, la compañía busca ayudarlos a evaluar el potencial de la tecnología de generación con AI en proyectos reales."
+              },
+              {
+                "t": "p",
+                "x": "También se aceptan inscripciones previas en línea. Quienes se registren en VARCO hasta el día 18 y respondan una encuesta podrán recibir un pase de 1 mes para 'VARCO 3D Plus' o 'VARCO Sound Lite'. Se puede participar sin importar si se visita G-Star en persona, y la encuesta también permite reservar un horario de consulta empresarial."
+              },
+              {
+                "t": "p",
+                "x": "Lee Yeon-soo, director ejecutivo de NC AI, afirmó: \"A través de este G-Star escucharemos de cerca las voces de los desarrolladores de videojuegos y los creadores, y reflejaremos las diversas necesidades del sector para presentar tecnologías y servicios de AI más prácticos\"."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "google-cavill-mustache-protocol",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Nexus Mods,\nAI 모드 공개 의무화",
-      "body": "Nexus Mods가 AI-assisted 모드는 밝히게 하고 숨김도 허용했다.",
-      "mini_headline": "Nexus Mods, AI 모드 표시",
+      "headline": "Henry Cavill이\n16-bit 게임 만든다",
+      "body": "Google은 Cavill의 AI 게임 판마다 Movember에 $11씩 낸다.",
+      "mini_headline": "Cavill의 바이브 코딩 게임",
       "tool": "Games",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/nexus-mods-forces-mandatory-generative-ai-disclosures-and-filters",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/google-gets-henry-cavill-to-ai-vibe-code-a-game-to-promote-googlebook-promises-to-donate-usd11-to-charity-every-time-someone-plays-it/",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/REBXE3PpQZNEtNemd6hgnB.jpg",
+            "cap": ""
+          },
+          {
+            "t": "p",
+            "x": "Henry Cavill이 Google과 손잡고 바이브 코딩으로 남성의 얼굴 털을 지키는 게임을 만든다. 이름은 Mustache Protocol이고 모바일과 태블릿으로 나온다. 플레이어는 Superman과 Mission: Impossible에 출연한 이 배우가 돼, CGI로 모두의 콧수염을 없애려는 반(反)수염 추종자들을 막아야 한다. 악명 높은 Justice League 재촬영을 비튼 설정이다."
+          },
+          {
+            "t": "p",
+            "x": "Cavill은 이 횡스크롤 게임을 만드는 데 Google 도구를 썼다. 말을 메모로 정리해 주는 Rambler가 있고, 무엇보다 프롬프트만으로 16-bit 그래픽을 뽑아내는 생성형 AI 도구 모음 Antigravity가 있다."
+          },
+          {
+            "t": "video",
+            "yt": "0S4DVtdYWww"
+          },
+          {
+            "t": "p",
+            "x": "Google은 소개글에서 \"게임을 다듬는 동안 Henry는 Googlebook에서 Rambler를 사용해 브레인스토밍하며 생각을 정리했다\"고 밝혔다. \"그는 여러 미적 스타일의 시안을 만들고 액세서리를 더했으며, 화면 위 시각 요소를 선택하고 조합할 수 있는 Magic Pointer로 디자인을 다듬었다.\" 제작 과정을 담은 세 편짜리 시리즈 첫 편에서 그는 이 게임을 \"심각한 문제를 다루는 재미있는 게임\"이라고 소개한다."
+          },
+          {
+            "t": "p",
+            "x": "Google은 11월 한 달간 게임 한 판마다 $11를 Movember에 기부한다. Movember는 자살, 고환암, 전립선암처럼 남성이 겪는 문제를 알려 온 재단이다. 기부금은 최대 $500,000까지 쌓인다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Henry Cavill vibe-codes a\n16-bit game on Googlebook",
+          "body": "Google's video series shows Cavill building Mustache Protocol with AI, and each November play donates $11 to Movember.",
+          "mini_headline": "Cavill vibe-codes a game",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/REBXE3PpQZNEtNemd6hgnB.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Henry Cavill is making a game all about protecting male facial hair, vibe-coded in collaboration with Google. The game is called Mustache Protocol, and it's coming out on mobile and tablets. You play as the former Superman and Mission: Impossible actor, on a mission to stop anti-facial hair acolytes using CGI to get rid of everyone's taches — a nod to the infamous Justice League reshoots."
+              },
+              {
+                "t": "p",
+                "x": "To make the side-scroller, Cavill employed Google tools such as Rambler, which turns speech into constructive notes, and, most prominently, Antigravity, a generative AI toolbox that can produce 16-bit visuals from your prompts."
+              },
+              {
+                "t": "video",
+                "yt": "0S4DVtdYWww"
+              },
+              {
+                "t": "p",
+                "x": "\"While refining the game, Henry used Rambler on his Googlebook to organize his thoughts as he brainstormed,\" reads a write-up from Google. \"He mocked up different aesthetics, added accessories, and fine-tuned the design with Magic Pointer, which let him select and combine visual elements on screen.\" In the first of a three-part series documenting the build, he calls it a \"fun game for a serious problem.\""
+              },
+              {
+                "t": "p",
+                "x": "Google is donating $11 for every playthrough through November to Movember, a foundation raising awareness of suicide, testicular cancer, prostate cancer and other issues affecting men. Donations stack up to $500,000."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Henry Cavill이\n16-bit 게임 만든다",
+          "body": "Google은 Cavill의 AI 게임 판마다 Movember에 $11씩 낸다.",
+          "mini_headline": "Cavill의 바이브 코딩 게임",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/REBXE3PpQZNEtNemd6hgnB.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Henry Cavill이 Google과 손잡고 바이브 코딩으로 남성의 얼굴 털을 지키는 게임을 만든다. 이름은 Mustache Protocol이고 모바일과 태블릿으로 나온다. 플레이어는 Superman과 Mission: Impossible에 출연한 이 배우가 돼, CGI로 모두의 콧수염을 없애려는 반(反)수염 추종자들을 막아야 한다. 악명 높은 Justice League 재촬영을 비튼 설정이다."
+              },
+              {
+                "t": "p",
+                "x": "Cavill은 이 횡스크롤 게임을 만드는 데 Google 도구를 썼다. 말을 메모로 정리해 주는 Rambler가 있고, 무엇보다 프롬프트만으로 16-bit 그래픽을 뽑아내는 생성형 AI 도구 모음 Antigravity가 있다."
+              },
+              {
+                "t": "video",
+                "yt": "0S4DVtdYWww"
+              },
+              {
+                "t": "p",
+                "x": "Google은 소개글에서 \"게임을 다듬는 동안 Henry는 Googlebook에서 Rambler를 사용해 브레인스토밍하며 생각을 정리했다\"고 밝혔다. \"그는 여러 미적 스타일의 시안을 만들고 액세서리를 더했으며, 화면 위 시각 요소를 선택하고 조합할 수 있는 Magic Pointer로 디자인을 다듬었다.\" 제작 과정을 담은 세 편짜리 시리즈 첫 편에서 그는 이 게임을 \"심각한 문제를 다루는 재미있는 게임\"이라고 소개한다."
+              },
+              {
+                "t": "p",
+                "x": "Google은 11월 한 달간 게임 한 판마다 $11를 Movember에 기부한다. Movember는 자살, 고환암, 전립선암처럼 남성이 겪는 문제를 알려 온 재단이다. 기부금은 최대 $500,000까지 쌓인다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Henry Cavillが\n16-bitゲームを開発",
+          "body": "GoogleはCavillのAIゲームのプレイごとにMovemberへ$11を寄付する。",
+          "mini_headline": "Cavillがゲームを開発",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/REBXE3PpQZNEtNemd6hgnB.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Henry CavillがGoogleと協力し、バイブコーディングで男性のひげを守ることをテーマにしたゲームを制作している。ゲーム名はMustache Protocolで、モバイルとタブレット向けに登場する。プレイヤーは元SupermanでMission: Impossibleにも出演したこの俳優となり、CGIで皆の口ひげを消し去ろうとする反ひげ信奉者を阻止する任務に挑む。悪名高いJustice Leagueの再撮影を踏まえたネタだ。"
+              },
+              {
+                "t": "p",
+                "x": "この横スクロールゲームの制作にあたり、Cavillは音声を整理されたメモに変えるRamblerや、とりわけプロンプトから16-bitのビジュアルを生成できる生成AIツール群AntigravityといったGoogleのツールを用いた。"
+              },
+              {
+                "t": "video",
+                "yt": "0S4DVtdYWww"
+              },
+              {
+                "t": "p",
+                "x": "「ゲームを磨き上げる間、HenryはGooglebookでRamblerを使い、ブレインストーミングしながら考えを整理した」とGoogleは紹介記事で述べている。「彼はさまざまな美的スタイルを試作し、アクセサリーを加え、画面上の視覚要素を選んで組み合わせられるMagic Pointerでデザインを微調整した」。制作過程を記録した全三回シリーズの第一回で、彼はこれを「深刻な問題を扱う楽しいゲーム」と呼んでいる。"
+              },
+              {
+                "t": "p",
+                "x": "Googleは11月中、プレイごとに$11をMovemberに寄付する。Movemberは自殺や精巣がん、前立腺がんなど男性に関わる問題への意識向上に取り組む財団だ。寄付は最大$500,000まで積み上がる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Henry Cavill\n氛围编程16-bit游戏",
+          "body": "Cavill用AI制作的游戏每被玩一局，Google就向Movember捐$11。",
+          "mini_headline": "Cavill氛围编程做游戏",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/REBXE3PpQZNEtNemd6hgnB.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Henry Cavill正与Google合作，用氛围编程制作一款以守护男性胡须为主题的游戏。游戏名为Mustache Protocol，将登陆手机和平板。玩家扮演这位曾出演Superman和Mission: Impossible的演员，执行任务阻止企图用CGI抹去所有人小胡子的反胡须信徒——这是在调侃臭名昭著的Justice League补拍事件。"
+              },
+              {
+                "t": "p",
+                "x": "为制作这款横版卷轴游戏，Cavill使用了Google的多款工具，例如能把语音转成条理清晰笔记的Rambler，以及最主要的Antigravity——一套可根据提示词生成16-bit画面的生成式AI工具。"
+              },
+              {
+                "t": "video",
+                "yt": "0S4DVtdYWww"
+              },
+              {
+                "t": "p",
+                "x": "Google在介绍文章中写道：“在打磨游戏的过程中，Henry在他的Googlebook上用Rambler整理头脑风暴时的想法。”“他尝试了不同的美术风格，添加配饰，并用Magic Pointer微调设计，这个工具让他可以在屏幕上选择并组合视觉元素。”在记录制作过程的三集系列的第一集中，他称这是一款“针对严肃问题的有趣游戏”。"
+              },
+              {
+                "t": "p",
+                "x": "整个11月，玩家每完成一次游戏，Google就向Movember捐出$11。Movember是一家致力于提升公众对自杀、睾丸癌、前列腺癌等男性问题认识的基金会。捐款累计上限为$500,000。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Henry Cavill hace vibe coding\nun juego 16-bit en Googlebook",
+          "body": "Google muestra en video a Cavill creando Mustache Protocol con AI y donará $11 a Movember por partida en noviembre.",
+          "mini_headline": "Cavill crea un juego con vibe coding",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/REBXE3PpQZNEtNemd6hgnB.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Henry Cavill está creando, mediante vibe coding y en colaboración con Google, un juego dedicado a proteger el vello facial masculino. El juego se llama Mustache Protocol y llegará a móviles y tabletas. El jugador encarna al exactor de Superman y Mission: Impossible, en una misión para detener a acólitos contrarios al vello facial que usan CGI para eliminar los bigotes de todos, un guiño a los infames nuevos rodajes de Justice League."
+              },
+              {
+                "t": "p",
+                "x": "Para crear este juego de desplazamiento lateral, Cavill empleó herramientas de Google como Rambler, que convierte el habla en notas constructivas, y, sobre todo, Antigravity, un conjunto de herramientas de AI generativa capaz de producir gráficos de 16-bit a partir de prompts."
+              },
+              {
+                "t": "video",
+                "yt": "0S4DVtdYWww"
+              },
+              {
+                "t": "p",
+                "x": "\"Mientras pulía el juego, Henry usó Rambler en su Googlebook para organizar sus ideas durante la lluvia de ideas\", señala un texto de Google. \"Creó maquetas de distintas estéticas, añadió accesorios y afinó el diseño con Magic Pointer, que le permitía seleccionar y combinar elementos visuales en pantalla\". En la primera entrega de una serie de tres partes que documenta el desarrollo, lo describe como un \"juego divertido para un problema serio\"."
+              },
+              {
+                "t": "p",
+                "x": "Google donará $11 por cada partida durante noviembre a Movember, una fundación que busca concienciar sobre el suicidio, el cáncer testicular, el cáncer de próstata y otros problemas que afectan a los hombres. Las donaciones se acumulan hasta $500,000."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Henry Cavill이\n16-bit 게임 만든다",
+          "body": "Google은 Cavill의 AI 게임 판마다 Movember에 $11씩 낸다.",
+          "mini_headline": "Cavill의 바이브 코딩 게임",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/REBXE3PpQZNEtNemd6hgnB.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Henry Cavill이 Google과 협업해 바이브 코딩으로 남성의 얼굴 털을 지키는 게임을 만들고 있다. 게임 이름은 Mustache Protocol이며 모바일과 태블릿으로 나온다. 플레이어는 Superman과 Mission: Impossible에 출연했던 이 배우가 되어, CGI로 모두의 콧수염을 없애려는 반(反)수염 추종자들을 막는 임무에 나선다. 악명 높은 Justice League 재촬영을 비튼 설정이다."
+              },
+              {
+                "t": "p",
+                "x": "Cavill은 이 횡스크롤 게임을 만들며 Google 도구를 썼다. 말을 정리된 메모로 바꿔 주는 Rambler, 그리고 무엇보다 프롬프트로 16-bit 그래픽을 만들어 내는 생성형 AI 도구 모음 Antigravity다."
+              },
+              {
+                "t": "video",
+                "yt": "0S4DVtdYWww"
+              },
+              {
+                "t": "p",
+                "x": "Google은 소개글에서 \"게임을 다듬는 동안 Henry는 Googlebook에서 Rambler를 사용해 브레인스토밍하며 생각을 정리했다\"고 밝혔다. \"그는 여러 미적 스타일의 시안을 만들고 액세서리를 더했으며, 화면 위 시각 요소를 선택하고 조합할 수 있는 Magic Pointer로 디자인을 다듬었다.\" 제작 과정을 담은 세 편짜리 시리즈의 첫 편에서 그는 이 게임을 \"심각한 문제를 다루는 재미있는 게임\"이라고 부른다."
+              },
+              {
+                "t": "p",
+                "x": "Google은 11월 한 달 동안 플레이할 때마다 $11를 Movember에 기부한다. Movember는 자살, 고환암, 전립선암 등 남성에게 영향을 미치는 문제에 대한 인식을 높이는 재단이다. 기부금은 최대 $500,000까지 쌓인다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Henry Cavillが\n16-bitゲームを開発",
+          "body": "GoogleはCavillのAIゲームのプレイごとにMovemberへ$11を寄付する。",
+          "mini_headline": "Cavillがゲームを開発",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/REBXE3PpQZNEtNemd6hgnB.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Henry CavillがGoogleと協力し、バイブコーディングで男性のひげを守ることをテーマにしたゲームを制作している。ゲーム名はMustache Protocolで、モバイルとタブレット向けに登場する。プレイヤーは元SupermanでMission: Impossibleにも出演したこの俳優となり、CGIで皆の口ひげを消し去ろうとする反ひげ信奉者を阻止する任務に挑む。悪名高いJustice Leagueの再撮影を踏まえたネタだ。"
+              },
+              {
+                "t": "p",
+                "x": "この横スクロールゲームの制作にあたり、Cavillは音声を整理されたメモに変えるRamblerや、とりわけプロンプトから16-bitのビジュアルを生成できる生成AIツール群AntigravityといったGoogleのツールを用いた。"
+              },
+              {
+                "t": "video",
+                "yt": "0S4DVtdYWww"
+              },
+              {
+                "t": "p",
+                "x": "「ゲームを磨き上げる間、HenryはGooglebookでRamblerを使い、ブレインストーミングしながら考えを整理した」とGoogleは紹介記事で述べている。「彼はさまざまな美的スタイルを試作し、アクセサリーを加え、画面上の視覚要素を選んで組み合わせられるMagic Pointerでデザインを微調整した」。制作過程を記録した全三回シリーズの第一回で、彼はこれを「深刻な問題を扱う楽しいゲーム」と呼んでいる。"
+              },
+              {
+                "t": "p",
+                "x": "Googleは11月中、プレイごとに$11をMovemberに寄付する。Movemberは自殺や精巣がん、前立腺がんなど男性に関わる問題への意識向上に取り組む財団だ。寄付は最大$500,000まで積み上がる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Henry Cavill\n氛围编程16-bit游戏",
+          "body": "Cavill用AI制作的游戏每被玩一局，Google就向Movember捐$11。",
+          "mini_headline": "Cavill氛围编程做游戏",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/REBXE3PpQZNEtNemd6hgnB.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Henry Cavill正与Google合作，用氛围编程制作一款以守护男性胡须为主题的游戏。游戏名为Mustache Protocol，将登陆手机和平板。玩家扮演这位曾出演Superman和Mission: Impossible的演员，执行任务阻止企图用CGI抹去所有人小胡子的反胡须信徒——这是在调侃臭名昭著的Justice League补拍事件。"
+              },
+              {
+                "t": "p",
+                "x": "为制作这款横版卷轴游戏，Cavill使用了Google的多款工具，例如能把语音转成条理清晰笔记的Rambler，以及最主要的Antigravity——一套可根据提示词生成16-bit画面的生成式AI工具。"
+              },
+              {
+                "t": "video",
+                "yt": "0S4DVtdYWww"
+              },
+              {
+                "t": "p",
+                "x": "Google在介绍文章中写道：“在打磨游戏的过程中，Henry在他的Googlebook上用Rambler整理头脑风暴时的想法。”“他尝试了不同的美术风格，添加配饰，并用Magic Pointer微调设计，这个工具让他可以在屏幕上选择并组合视觉元素。”在记录制作过程的三集系列的第一集中，他称这是一款“针对严肃问题的有趣游戏”。"
+              },
+              {
+                "t": "p",
+                "x": "整个11月，玩家每完成一次游戏，Google就向Movember捐出$11。Movember是一家致力于提升公众对自杀、睾丸癌、前列腺癌等男性问题认识的基金会。捐款累计上限为$500,000。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Henry Cavill hace vibe coding\nun juego 16-bit en Googlebook",
+          "body": "Google muestra en video a Cavill creando Mustache Protocol con AI y donará $11 a Movember por partida en noviembre.",
+          "mini_headline": "Cavill crea un juego con vibe coding",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/REBXE3PpQZNEtNemd6hgnB.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Henry Cavill está creando, mediante vibe coding y en colaboración con Google, un juego dedicado a proteger el vello facial masculino. El juego se llama Mustache Protocol y llegará a móviles y tabletas. El jugador encarna al exactor de Superman y Mission: Impossible, en una misión para detener a acólitos contrarios al vello facial que usan CGI para eliminar los bigotes de todos, un guiño a los infames nuevos rodajes de Justice League."
+              },
+              {
+                "t": "p",
+                "x": "Para crear este juego de desplazamiento lateral, Cavill empleó herramientas de Google como Rambler, que convierte el habla en notas constructivas, y, sobre todo, Antigravity, un conjunto de herramientas de AI generativa capaz de producir gráficos de 16-bit a partir de prompts."
+              },
+              {
+                "t": "video",
+                "yt": "0S4DVtdYWww"
+              },
+              {
+                "t": "p",
+                "x": "\"Mientras pulía el juego, Henry usó Rambler en su Googlebook para organizar sus ideas durante la lluvia de ideas\", señala un texto de Google. \"Creó maquetas de distintas estéticas, añadió accesorios y afinó el diseño con Magic Pointer, que le permitía seleccionar y combinar elementos visuales en pantalla\". En la primera entrega de una serie de tres partes que documenta el desarrollo, lo describe como un \"juego divertido para un problema serio\"."
+              },
+              {
+                "t": "p",
+                "x": "Google donará $11 por cada partida durante noviembre a Movember, una fundación que busca concienciar sobre el suicidio, el cáncer testicular, el cáncer de próstata y otros problemas que afectan a los hombres. Las donaciones se acumulan hasta $500,000."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "kojima-ai-creation-fun",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Kojima: AI로 개발\n쉬워져도 재미는 줄어",
+      "body": "Kojima는 AI가 개발을 돕지만 AI-driven 창작엔 흥미 없다고 했다.",
+      "mini_headline": "Kojima, AI엔 재미가 없다",
+      "tool": "Games",
+      "source": "AUTOMATON WEST",
+      "url": "https://automaton-media.com/en/news/hideo-kojima-says-ai-lacks-what-makes-the-creative-process-fun-despite-its-efficiency-its-not-a-form-of-creation-i-find-particularly-interesting/",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://automaton-media.com/en/wp-content/uploads/2025/10/20250909-51789-header.jpg",
+            "cap": "Hideo Kojima"
+          },
+          {
+            "t": "p",
+            "x": "Hideo Kojima는 최근 일본 매체 Game*Spark 인터뷰에서 AI 기술이 빠르게 발전하며 게임 개발이 훨씬 수월해졌다고 했다. 다만 \"창작 과정의 재미\"가 사라질지 모를 미래에는 다소 불안하다고 털어놨다."
+          },
+          {
+            "t": "p",
+            "x": "앞서 Photoshop과 워드프로세서가 그랬듯 AI는 \"일을 더욱 효율적으로 만들어, 마감을 훨씬 빨리 맞출 수 있게 해 줬다.\" Kojima는 \"그것도 좋다고 생각한다\"면서 이렇게 덧붙였다. \"하지만 그림 그리기를 예로 들어 보자. 그림의 재미는 완성된 그림을 얻는 데 있지 않고, 그 과정에 있다 [...] 컴퓨터에 '이걸 만들어', '다 됐어', '그건 틀렸으니 다르게 해' 같은 말을 하는 것도 괜찮지만, 내가 특별히 흥미를 느끼는 창작 방식은 아니다.\""
+          },
+          {
+            "t": "img",
+            "src": "https://automaton-media.com/en/wp-content/uploads/2025/07/20250326-46119-header.jpg",
+            "cap": "Death Stranding 2: On The Beach"
+          },
+          {
+            "t": "p",
+            "x": "\"그 사이의 시행착오 과정이 나를 들뜨게 하고 경험에 몰입하게 만든다. 그런 부분이 사라진 미래는 원하지 않는다\"고 Kojima는 말했다. 그가 보기에 앞으로 오 년에서 십 년은 괜찮다. 하지만 AI를 제약 없이 계속 쓰면 언젠가 창작 분야에서도 핵심 역할을 맡게 될 수 있고, 그때 어떻게 할지는 젊은 세대가 정할 몫이라고 했다. AI 도구도 쓰기에 따라 더 나은 미래를 만드는 데 보탬이 될 수 있다는 말도 덧붙였다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Kojima: AI eases development\nbut drains the fun of making",
+          "body": "Kojima told Game*Spark that AI makes development far more manageable, yet AI-driven creation does not interest him.",
+          "mini_headline": "Kojima on AI's missing fun",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2025/10/20250909-51789-header.jpg",
+                "cap": "Hideo Kojima"
+              },
+              {
+                "t": "p",
+                "x": "In a recent interview with Japanese media outlet Game*Spark, Hideo Kojima explained how rapid advancements in AI technology have made game development much more manageable, while expressing some anxiety over a possible future where \"the fun of the creative process\" is lost."
+              },
+              {
+                "t": "p",
+                "x": "Like Photoshop and word processors before it, AI \"has made things even more efficient, allowing us to meet deadlines even faster.\" \"I think that's great too,\" Kojima adds, \"but let's take drawing as an example. Getting a finished picture is not what's fun about drawing, it's the process [...] While it's fine to tell the computer stuff like, 'Make this,' 'It's done,' 'That's wrong, so do it differently' – that's not a form of creation that I find particularly interesting.\""
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2025/07/20250326-46119-header.jpg",
+                "cap": "Death Stranding 2: On The Beach"
+              },
+              {
+                "t": "p",
+                "x": "\"The trial-and-error process in between is what gets my adrenaline pumping and makes the experience engaging. I don't want a future where that aspect is lost,\" Kojima noted. He thinks things will be fine for the next five to ten years, but if AI remains unrestricted it might one day play a key role even in the creative field, and the younger generations will have to decide what to do. He added that AI tools could also help build a better future, depending on how they are used."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Kojima: AI로 개발\n쉬워져도 재미는 줄어",
+          "body": "Kojima는 AI가 개발을 돕지만 AI-driven 창작엔 흥미 없다고 했다.",
+          "mini_headline": "Kojima, AI엔 재미가 없다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2025/10/20250909-51789-header.jpg",
+                "cap": "Hideo Kojima"
+              },
+              {
+                "t": "p",
+                "x": "Hideo Kojima는 최근 일본 매체 Game*Spark 인터뷰에서 AI 기술이 빠르게 발전하며 게임 개발이 훨씬 수월해졌다고 했다. 다만 \"창작 과정의 재미\"가 사라질지 모를 미래에는 다소 불안하다고 털어놨다."
+              },
+              {
+                "t": "p",
+                "x": "앞서 Photoshop과 워드프로세서가 그랬듯 AI는 \"일을 더욱 효율적으로 만들어, 마감을 훨씬 빨리 맞출 수 있게 해 줬다.\" Kojima는 \"그것도 좋다고 생각한다\"면서 이렇게 덧붙였다. \"하지만 그림 그리기를 예로 들어 보자. 그림의 재미는 완성된 그림을 얻는 데 있지 않고, 그 과정에 있다 [...] 컴퓨터에 '이걸 만들어', '다 됐어', '그건 틀렸으니 다르게 해' 같은 말을 하는 것도 괜찮지만, 내가 특별히 흥미를 느끼는 창작 방식은 아니다.\""
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2025/07/20250326-46119-header.jpg",
+                "cap": "Death Stranding 2: On The Beach"
+              },
+              {
+                "t": "p",
+                "x": "\"그 사이의 시행착오 과정이 나를 들뜨게 하고 경험에 몰입하게 만든다. 그런 부분이 사라진 미래는 원하지 않는다\"고 Kojima는 말했다. 그가 보기에 앞으로 오 년에서 십 년은 괜찮다. 하지만 AI를 제약 없이 계속 쓰면 언젠가 창작 분야에서도 핵심 역할을 맡게 될 수 있고, 그때 어떻게 할지는 젊은 세대가 정할 몫이라고 했다. AI 도구도 쓰기에 따라 더 나은 미래를 만드는 데 보탬이 될 수 있다는 말도 덧붙였다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Kojima：AIで開発は楽\nだが創作の喜びは薄れる",
+          "body": "KojimaはAIで開発は楽になったが、AI-drivenな創作には興味がないと語る。",
+          "mini_headline": "Kojimaが語るAIと創作の楽しさ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2025/10/20250909-51789-header.jpg",
+                "cap": "Hideo Kojima"
+              },
+              {
+                "t": "p",
+                "x": "Hideo Kojimaは日本のメディアGame*Sparkによる最近のインタビューで、AI技術の急速な進歩によってゲーム開発がはるかに進めやすくなったと説明する一方、「創作過程の楽しさ」が失われる未来の可能性に一抹の不安を示した。"
+              },
+              {
+                "t": "p",
+                "x": "かつてのPhotoshopやワープロと同じく、AIは「さらに効率を上げ、締め切りにもっと早く間に合うようにしてくれた」。Kojimaは「それも素晴らしいと思う」と続ける。「でも絵を描くことを例に取ろう。絵を描く楽しさは完成した絵を得ることではなく、その過程にある[...] コンピューターに『これを作って』『できた』『それは違うから別のやり方で』と指示するのも構わないが、それは僕が特に面白いと感じる創作の形ではない」"
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2025/07/20250326-46119-header.jpg",
+                "cap": "Death Stranding 2: On The Beach"
+              },
+              {
+                "t": "p",
+                "x": "「その間にある試行錯誤のプロセスこそがアドレナリンを湧かせ、体験を夢中になれるものにしている。その部分が失われる未来は望まない」とKojimaは述べた。今後五年から十年は問題ないと考えているが、AIが制限されないままなら、いつか創作の分野でも中心的な役割を担うかもしれず、その時どうするかは若い世代が決めることになるという。また、AIツールは使い方次第でより良い未来を築く助けにもなりうると付け加えた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Kojima：AI简化开发\n却削弱创作乐趣",
+          "body": "Kojima对Game*Spark说，AI简化开发，但他对AI-driven创作无兴趣。",
+          "mini_headline": "Kojima谈AI与创作乐趣",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2025/10/20250909-51789-header.jpg",
+                "cap": "Hideo Kojima"
+              },
+              {
+                "t": "p",
+                "x": "Hideo Kojima在近期接受日本媒体Game*Spark采访时表示，AI技术的快速进步让游戏开发变得容易得多，同时也对“创作过程的乐趣”可能消失的未来流露出些许担忧。"
+              },
+              {
+                "t": "p",
+                "x": "如同此前的Photoshop和文字处理软件，AI“让工作更加高效，使我们能更快赶上截止日期”。Kojima补充说：“我觉得这也很好，但以画画为例。画画的乐趣不在于得到一幅完成的画，而在于过程[...] 对电脑说‘做这个’‘做好了’‘不对，换个做法’之类的话也没问题——但这并不是我特别感兴趣的创作形式。”"
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2025/07/20250326-46119-header.jpg",
+                "cap": "Death Stranding 2: On The Beach"
+              },
+              {
+                "t": "p",
+                "x": "“中间反复试错的过程才让我肾上腺素飙升，让体验引人入胜。我不希望看到这一部分消失的未来，”Kojima说。他认为未来五到十年内不会有问题，但如果AI一直不受限制，有一天它可能在创作领域也扮演关键角色，届时年轻一代将不得不决定如何应对。他还表示，取决于使用方式，AI工具也可能帮助建设更美好的未来。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Kojima: AI facilita desarrollar\npero quita la diversión de crear",
+          "body": "Kojima dijo a Game*Spark que la AI hace el desarrollo más manejable, pero que la creación AI-driven no le interesa.",
+          "mini_headline": "Kojima y la diversión que falta en la AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2025/10/20250909-51789-header.jpg",
+                "cap": "Hideo Kojima"
+              },
+              {
+                "t": "p",
+                "x": "En una entrevista reciente con el medio japonés Game*Spark, Hideo Kojima explicó que los rápidos avances de la tecnología de AI han hecho el desarrollo de juegos mucho más manejable, aunque expresó cierta inquietud ante un posible futuro en el que se pierda \"la diversión del proceso creativo\"."
+              },
+              {
+                "t": "p",
+                "x": "Al igual que antes Photoshop y los procesadores de texto, la AI \"ha hecho las cosas aún más eficientes, lo que nos permite cumplir los plazos incluso más rápido\". \"Creo que eso también es genial\", añade Kojima, \"pero tomemos el dibujo como ejemplo. Lo divertido de dibujar no es obtener una imagen terminada, sino el proceso [...] Aunque está bien decirle a la computadora cosas como 'Haz esto', 'Ya está', 'Eso está mal, hazlo de otra manera', esa no es una forma de creación que me resulte especialmente interesante\"."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2025/07/20250326-46119-header.jpg",
+                "cap": "Death Stranding 2: On The Beach"
+              },
+              {
+                "t": "p",
+                "x": "\"El proceso de ensayo y error intermedio es lo que me sube la adrenalina y hace que la experiencia sea atractiva. No quiero un futuro en el que se pierda ese aspecto\", señaló Kojima. Cree que todo irá bien durante los próximos cinco a diez años, pero si la AI sigue sin restricciones, algún día podría desempeñar un papel clave incluso en el ámbito creativo, y las generaciones más jóvenes tendrán que decidir qué hacer. Añadió que las herramientas de AI también podrían ayudar a construir un futuro mejor, según cómo se utilicen."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Kojima: AI로 개발\n쉬워져도 재미는 줄어",
+          "body": "Kojima는 AI가 개발을 돕지만 AI-driven 창작엔 흥미 없다고 했다.",
+          "mini_headline": "Kojima, AI엔 재미가 없다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2025/10/20250909-51789-header.jpg",
+                "cap": "Hideo Kojima"
+              },
+              {
+                "t": "p",
+                "x": "Hideo Kojima는 최근 일본 매체 Game*Spark와의 인터뷰에서 AI 기술이 빠르게 발전하면서 게임 개발이 훨씬 수월해졌다고 설명하면서도, \"창작 과정의 재미\"가 사라질 수 있는 미래에 대해 다소 불안감을 드러냈다."
+              },
+              {
+                "t": "p",
+                "x": "앞서 Photoshop과 워드프로세서가 그랬듯 AI는 \"일을 더욱 효율적으로 만들어, 마감을 훨씬 빨리 맞출 수 있게 해 줬다.\" Kojima는 \"그것도 좋다고 생각한다\"며 이렇게 덧붙인다. \"하지만 그림 그리기를 예로 들어 보자. 그림의 재미는 완성된 그림을 얻는 데 있지 않고, 그 과정에 있다 [...] 컴퓨터에 '이걸 만들어', '다 됐어', '그건 틀렸으니 다르게 해' 같은 말을 하는 것도 괜찮지만, 내가 특별히 흥미를 느끼는 창작 방식은 아니다.\""
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2025/07/20250326-46119-header.jpg",
+                "cap": "Death Stranding 2: On The Beach"
+              },
+              {
+                "t": "p",
+                "x": "\"그 사이의 시행착오 과정이 나를 들뜨게 하고 경험에 몰입하게 만든다. 그런 부분이 사라진 미래는 원하지 않는다\"고 Kojima는 말했다. 그는 앞으로 오 년에서 십 년은 괜찮겠지만, AI가 제약 없이 계속 쓰인다면 언젠가 창작 분야에서도 핵심 역할을 맡을 수 있고, 그때 어떻게 할지는 젊은 세대가 정해야 할 것이라고 본다. 또 AI 도구가 쓰기에 따라 더 나은 미래를 만드는 데 도움이 될 수도 있다고 덧붙였다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Kojima：AIで開発は楽\nだが創作の喜びは薄れる",
+          "body": "KojimaはAIで開発は楽になったが、AI-drivenな創作には興味がないと語る。",
+          "mini_headline": "Kojimaが語るAIと創作の楽しさ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2025/10/20250909-51789-header.jpg",
+                "cap": "Hideo Kojima"
+              },
+              {
+                "t": "p",
+                "x": "Hideo Kojimaは日本のメディアGame*Sparkによる最近のインタビューで、AI技術の急速な進歩によってゲーム開発がはるかに進めやすくなったと説明する一方、「創作過程の楽しさ」が失われる未来の可能性に一抹の不安を示した。"
+              },
+              {
+                "t": "p",
+                "x": "かつてのPhotoshopやワープロと同じく、AIは「さらに効率を上げ、締め切りにもっと早く間に合うようにしてくれた」。Kojimaは「それも素晴らしいと思う」と続ける。「でも絵を描くことを例に取ろう。絵を描く楽しさは完成した絵を得ることではなく、その過程にある[...] コンピューターに『これを作って』『できた』『それは違うから別のやり方で』と指示するのも構わないが、それは僕が特に面白いと感じる創作の形ではない」"
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2025/07/20250326-46119-header.jpg",
+                "cap": "Death Stranding 2: On The Beach"
+              },
+              {
+                "t": "p",
+                "x": "「その間にある試行錯誤のプロセスこそがアドレナリンを湧かせ、体験を夢中になれるものにしている。その部分が失われる未来は望まない」とKojimaは述べた。今後五年から十年は問題ないと考えているが、AIが制限されないままなら、いつか創作の分野でも中心的な役割を担うかもしれず、その時どうするかは若い世代が決めることになるという。また、AIツールは使い方次第でより良い未来を築く助けにもなりうると付け加えた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Kojima：AI简化开发\n却削弱创作乐趣",
+          "body": "Kojima对Game*Spark说，AI简化开发，但他对AI-driven创作无兴趣。",
+          "mini_headline": "Kojima谈AI与创作乐趣",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2025/10/20250909-51789-header.jpg",
+                "cap": "Hideo Kojima"
+              },
+              {
+                "t": "p",
+                "x": "Hideo Kojima在近期接受日本媒体Game*Spark采访时表示，AI技术的快速进步让游戏开发变得容易得多，同时也对“创作过程的乐趣”可能消失的未来流露出些许担忧。"
+              },
+              {
+                "t": "p",
+                "x": "如同此前的Photoshop和文字处理软件，AI“让工作更加高效，使我们能更快赶上截止日期”。Kojima补充说：“我觉得这也很好，但以画画为例。画画的乐趣不在于得到一幅完成的画，而在于过程[...] 对电脑说‘做这个’‘做好了’‘不对，换个做法’之类的话也没问题——但这并不是我特别感兴趣的创作形式。”"
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2025/07/20250326-46119-header.jpg",
+                "cap": "Death Stranding 2: On The Beach"
+              },
+              {
+                "t": "p",
+                "x": "“中间反复试错的过程才让我肾上腺素飙升，让体验引人入胜。我不希望看到这一部分消失的未来，”Kojima说。他认为未来五到十年内不会有问题，但如果AI一直不受限制，有一天它可能在创作领域也扮演关键角色，届时年轻一代将不得不决定如何应对。他还表示，取决于使用方式，AI工具也可能帮助建设更美好的未来。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Kojima: AI facilita desarrollar\npero quita la diversión de crear",
+          "body": "Kojima dijo a Game*Spark que la AI hace el desarrollo más manejable, pero que la creación AI-driven no le interesa.",
+          "mini_headline": "Kojima y la diversión que falta en la AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2025/10/20250909-51789-header.jpg",
+                "cap": "Hideo Kojima"
+              },
+              {
+                "t": "p",
+                "x": "En una entrevista reciente con el medio japonés Game*Spark, Hideo Kojima explicó que los rápidos avances de la tecnología de AI han hecho el desarrollo de juegos mucho más manejable, aunque expresó cierta inquietud ante un posible futuro en el que se pierda \"la diversión del proceso creativo\"."
+              },
+              {
+                "t": "p",
+                "x": "Al igual que antes Photoshop y los procesadores de texto, la AI \"ha hecho las cosas aún más eficientes, lo que nos permite cumplir los plazos incluso más rápido\". \"Creo que eso también es genial\", añade Kojima, \"pero tomemos el dibujo como ejemplo. Lo divertido de dibujar no es obtener una imagen terminada, sino el proceso [...] Aunque está bien decirle a la computadora cosas como 'Haz esto', 'Ya está', 'Eso está mal, hazlo de otra manera', esa no es una forma de creación que me resulte especialmente interesante\"."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2025/07/20250326-46119-header.jpg",
+                "cap": "Death Stranding 2: On The Beach"
+              },
+              {
+                "t": "p",
+                "x": "\"El proceso de ensayo y error intermedio es lo que me sube la adrenalina y hace que la experiencia sea atractiva. No quiero un futuro en el que se pierda ese aspecto\", señaló Kojima. Cree que todo irá bien durante los próximos cinco a diez años, pero si la AI sigue sin restricciones, algún día podría desempeñar un papel clave incluso en el ámbito creativo, y las generaciones más jóvenes tendrán que decidir qué hacer. Añadió que las herramientas de AI también podrían ayudar a construir un futuro mejor, según cómo se utilicen."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "games-kimi-k31-gamedev-agents",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Kimi K3.1 에이전트\nUnity 등 엔진서 작업",
+      "body": "Moonshot Kimi 에이전트가 20-hour 무인 작업으로 게임을 재현했다.",
+      "mini_headline": "Kimi 에이전트, 게임 엔진 속으로",
+      "tool": "Games",
+      "source": "Pandaily",
+      "url": "https://pandaily.com/kimi-game-development-creative-solution-k3-1-kimi-code-work-unity-unreal-engine-blender-20-hours",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -19,179 +1195,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789439521.png",
-            "cap": "이미지 출처: Nexus Mods."
+            "src": "https://cms-image.pandaily.com/1/kimi_e3d22e0c6a.png"
           },
           {
             "t": "p",
-            "x": "생성형 AI가 모딩 업계를 휩쓸자 인터넷 최대 모드 플랫폼 Nexus Mods가 대응에 나섰다. AI-assisted 코드를 쓴 모드는 이제 그 사실을 밝혀야 하고 이용자는 검색 조건이나 환경설정에서 AI-assisted 모드를 걸러낼 수 있다."
+            "x": "Moonshot AI가 Kimi K3.1 모델 시리즈, Kimi Code와 Kimi Work 에이전트 제품, 그리고 Unity, Unreal Engine, Blender 등 전문 도구용 플러그인으로 짠 Kimi의 게임 개발·창작 솔루션을 내놨다. 스튜디오가 게임플레이 아이디어를 더 일찍 검증하고 엔지니어링과 아트 제작을 앞당기게 돕는 게 목적이라고 회사는 설명한다."
           },
           {
             "t": "p",
-            "x": "공동 소유주 Victor 'Foledinho' Folmann은 블로그 글에서 \"우리는 인간의 창의성을 지지한다\"고 말했다. 그는 \"AI는 현재 창작 과정 전반에 쓰이고 있으며... 명확한 경계를 긋기 어렵다\"는 이유로 AI 모드를 금지하지는 않겠다고 했다. 금지해 봐야 모더들이 AI 사용을 숨기게 될 뿐이라는 판단이다. 그는 \"드러내 놓고, 명확히 표시하고, 규제해야 한다\"고 밝혔다."
+            "x": "모델은 기획 문서, 스크린샷, 코드, 3D 에셋을 읽고 작업을 계획한다. 코드베이스 안의 구현은 Kimi Code가, 여러 단계에 걸친 제작 작업은 Kimi Work가 맡는다. Unity와 Unreal Engine에서는 코드 구조와 씬 계층, 모듈 의존성을 파악해 에디터 플러그인으로 수정하고, 재현 절차와 로그, 런타임 데이터로 결과를 확인한다."
           },
           {
             "t": "p",
-            "x": "모더는 모드가 AI-assisted인지, 주로 AI-generated인지, AI-generated 홍보물을 담았는지 밝히고 \"AI를 어떻게, 어디에 사용했는지에 대한 공개 설명\"도 덧붙여야 한다. 기존 모드에는 60일 유예 기간을 주며 1월 2일까지 업데이트하지 않으면 계정 제한을 받을 수 있다."
+            "x": "Unity에서는 Unity China의 Tuanjie Codely Agent와 함께 돌아간다. Kimi에 따르면 한 시연에서는 사람 손을 거치지 않고 20시간 동안 작업해 기존 게임을 재현했고, 이어서 개발할 수 있는 네이티브 프로젝트까지 만들었다."
           },
           {
             "t": "p",
-            "x": "이번 조치는 Valve가 Steam에서 \"AI slop\"을 막지 않기로 하고, Tim Sweeney가 AI 고지 의무화를 \"정치적 행위\"라 부르고, Itch.io가 이른바 \"테라바이트 분량의 AI slop\"을 삭제한 가운데 나왔다."
+            "x": "Kimi K3.1 Pro 쇼케이스에는 Blender로 만든 열대우림 계곡 플라이스루와, Unreal Engine 5.8로 구현한 천상 궁전 장면이 있다. 궁전 장면의 삼각형은 모두 36백만 개다. 코딩 경험이 없는 디자이너도 하루에서 이틀이면 플레이 가능한 Godot 프로토타입을 만들 수 있다고 Kimi는 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Nexus Mods requires\nAI disclosure on mods",
-          "body": "Nexus Mods now requires AI disclosure and lets users hide AI-assisted mods, arguing a ban would push AI underground.",
-          "mini_headline": "Nexus Mods labels AI mods",
+          "headline": "Kimi's K3.1 agents now work\ninside Unity, Unreal and Blender",
+          "body": "Moonshot's Kimi agents edit engine projects directly, and one 20-hour unattended run recreated an existing game.",
+          "mini_headline": "Kimi agents enter game engines",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789439521.png",
-                "cap": "Image credit: Nexus Mods."
+                "src": "https://cms-image.pandaily.com/1/kimi_e3d22e0c6a.png"
               },
               {
                 "t": "p",
-                "x": "Generative AI has taken over the modding scene. Nexus Mods, the biggest platform for mods on the internet, has reacted by enforcing mandatory disclosure for mods with AI-assisted code, and letting users filter AI-assisted mods out of their search criteria or preferences."
+                "x": "Moonshot AI has released a game development and creative work solution for Kimi, built on its Kimi K3.1 model series, its Kimi Code and Kimi Work agent products, and plugins for professional tools including Unity, Unreal Engine and Blender. The company says it is meant to help studios test gameplay ideas sooner and move engineering and art production forward."
               },
               {
                 "t": "p",
-                "x": "\"We are pro-human creativity,\" co-owner Victor 'Foledinho' Folmann said in a blog post. He won't ban AI mods because \"AI is currently used throughout the whole process of creation... and it is difficult to draw a clear boundary,\" and believes a ban would just encourage modders to hide AI use: \"It should be out in the open, clearly labelled, and regulated.\""
+                "x": "The model reads design documents, screenshots, code and 3D assets and plans the work; Kimi Code handles implementation inside a codebase, while Kimi Work takes on multi-step production tasks. In Unity and Unreal Engine, it maps the code structure, scene hierarchy and module dependencies, makes changes through editor plugins, and checks the result against reproduction steps, logs and runtime data."
               },
               {
                 "t": "p",
-                "x": "Modders must declare whether a mod is AI-assisted, primarily AI-generated, or features AI-generated promotional material, plus a \"public explanation of how and where AI was used.\" Existing mods have a 60 day grace period; those not updated by January 2 potentially face account restrictions."
+                "x": "For Unity, Kimi works with Tuanjie Codely Agent from Unity China. In one demonstration, Kimi says, it worked for 20 hours without human intervention, recreating an existing game and producing a native project that can be developed further."
               },
               {
                 "t": "p",
-                "x": "The move comes as Valve declines to block \"AI slop\" from Steam, Tim Sweeney calls mandatory AI disclaimers \"a political act,\" and Itch.io deletes what it called \"terabytes of AI slop.\""
+                "x": "Showcase builds credited to Kimi K3.1 Pro include a Blender rainforest valley flythrough and, in Unreal Engine 5.8, a celestial palace scene totaling 36 million triangles. Kimi also says designers without coding experience can produce playable Godot prototypes in one to two days."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Nexus Mods,\nAI 모드 공개 의무화",
-          "body": "Nexus Mods가 AI-assisted 모드는 밝히게 하고 숨김도 허용했다.",
-          "mini_headline": "Nexus Mods, AI 모드 표시",
+          "headline": "Kimi K3.1 에이전트\nUnity 등 엔진서 작업",
+          "body": "Moonshot Kimi 에이전트가 20-hour 무인 작업으로 게임을 재현했다.",
+          "mini_headline": "Kimi 에이전트, 게임 엔진 속으로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789439521.png",
-                "cap": "이미지 출처: Nexus Mods."
+                "src": "https://cms-image.pandaily.com/1/kimi_e3d22e0c6a.png"
               },
               {
                 "t": "p",
-                "x": "생성형 AI가 모딩 업계를 휩쓸자 인터넷 최대 모드 플랫폼 Nexus Mods가 대응에 나섰다. AI-assisted 코드를 쓴 모드는 이제 그 사실을 밝혀야 하고 이용자는 검색 조건이나 환경설정에서 AI-assisted 모드를 걸러낼 수 있다."
+                "x": "Moonshot AI가 Kimi K3.1 모델 시리즈, Kimi Code와 Kimi Work 에이전트 제품, 그리고 Unity, Unreal Engine, Blender 등 전문 도구용 플러그인으로 짠 Kimi의 게임 개발·창작 솔루션을 내놨다. 스튜디오가 게임플레이 아이디어를 더 일찍 검증하고 엔지니어링과 아트 제작을 앞당기게 돕는 게 목적이라고 회사는 설명한다."
               },
               {
                 "t": "p",
-                "x": "공동 소유주 Victor 'Foledinho' Folmann은 블로그 글에서 \"우리는 인간의 창의성을 지지한다\"고 말했다. 그는 \"AI는 현재 창작 과정 전반에 쓰이고 있으며... 명확한 경계를 긋기 어렵다\"는 이유로 AI 모드를 금지하지는 않겠다고 했다. 금지해 봐야 모더들이 AI 사용을 숨기게 될 뿐이라는 판단이다. 그는 \"드러내 놓고, 명확히 표시하고, 규제해야 한다\"고 밝혔다."
+                "x": "모델은 기획 문서, 스크린샷, 코드, 3D 에셋을 읽고 작업을 계획한다. 코드베이스 안의 구현은 Kimi Code가, 여러 단계에 걸친 제작 작업은 Kimi Work가 맡는다. Unity와 Unreal Engine에서는 코드 구조와 씬 계층, 모듈 의존성을 파악해 에디터 플러그인으로 수정하고, 재현 절차와 로그, 런타임 데이터로 결과를 확인한다."
               },
               {
                 "t": "p",
-                "x": "모더는 모드가 AI-assisted인지, 주로 AI-generated인지, AI-generated 홍보물을 담았는지 밝히고 \"AI를 어떻게, 어디에 사용했는지에 대한 공개 설명\"도 덧붙여야 한다. 기존 모드에는 60일 유예 기간을 주며 1월 2일까지 업데이트하지 않으면 계정 제한을 받을 수 있다."
+                "x": "Unity에서는 Unity China의 Tuanjie Codely Agent와 함께 돌아간다. Kimi에 따르면 한 시연에서는 사람 손을 거치지 않고 20시간 동안 작업해 기존 게임을 재현했고, 이어서 개발할 수 있는 네이티브 프로젝트까지 만들었다."
               },
               {
                 "t": "p",
-                "x": "이번 조치는 Valve가 Steam에서 \"AI slop\"을 막지 않기로 하고, Tim Sweeney가 AI 고지 의무화를 \"정치적 행위\"라 부르고, Itch.io가 이른바 \"테라바이트 분량의 AI slop\"을 삭제한 가운데 나왔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Nexus Modsが\nAI使用の開示を義務化",
-          "body": "Nexus ModsはAI開示を義務化し、AI-assisted MODの非表示を認めた。",
-          "mini_headline": "Nexus Mods、AI MODを表示",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789439521.png",
-                "cap": "画像提供：Nexus Mods。"
-              },
-              {
-                "t": "p",
-                "x": "生成AIはMOD制作の世界を席巻している。インターネット最大のMODプラットフォームであるNexus Modsはこれを受け、AI-assistedのコードを含むMODに開示を義務付け、ユーザーが検索条件や設定でAI-assistedのMODを除外できるようにした。"
-              },
-              {
-                "t": "p",
-                "x": "共同オーナーのVictor 'Foledinho' Folmann氏はブログ投稿で「われわれは人間の創造性を支持する」と述べた。同氏は「AIは現在、創作のプロセス全体で使われており……明確な線引きは難しい」としてAI MODを禁止しない。禁止すればMOD制作者にAIの使用を隠させるだけだと考えており、「公の場に出し、明確にラベル付けし、規制すべきだ」と語る。"
-              },
-              {
-                "t": "p",
-                "x": "MOD制作者は、MODがAI-assistedか、主にAI-generatedか、AI-generatedの宣伝素材を含むかを申告し、さらに「AIをどのように、どこで使ったかの公開説明」を添えなければならない。既存のMODには60日間の猶予期間があり、1月2日までに更新されないものはアカウント制限を受ける可能性がある。"
-              },
-              {
-                "t": "p",
-                "x": "この動きは、ValveがSteamから「AI slop」を締め出さない姿勢を示し、Tim SweeneyがAI開示の義務化を「政治的行為」と呼び、Itch.ioが「テラバイト規模のAI slop」と称するものを削除するなかで起きた。"
+                "x": "Kimi K3.1 Pro 쇼케이스에는 Blender로 만든 열대우림 계곡 플라이스루와, Unreal Engine 5.8로 구현한 천상 궁전 장면이 있다. 궁전 장면의 삼각형은 모두 36백만 개다. 코딩 경험이 없는 디자이너도 하루에서 이틀이면 플레이 가능한 Godot 프로토타입을 만들 수 있다고 Kimi는 밝혔다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nexus Mods要求\n模组公开AI使用",
-          "body": "Nexus Mods要求公开AI使用，并允许用户隐藏AI-assisted模组。",
-          "mini_headline": "Nexus Mods标注AI模组",
+          "headline": "Kimi K3.1智能体\n进驻Unity等游戏引擎",
+          "body": "Moonshot的Kimi智能体直接编辑引擎项目，20-hour无人运行复刻现有游戏。",
+          "mini_headline": "Kimi智能体进入游戏引擎",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789439521.png",
-                "cap": "图片来源：Nexus Mods。"
+                "src": "https://cms-image.pandaily.com/1/kimi_e3d22e0c6a.png"
               },
               {
                 "t": "p",
-                "x": "生成式AI已席卷模组圈。作为互联网上最大的模组平台，Nexus Mods对此作出回应：强制要求含AI-assisted代码的模组进行披露，并允许用户在搜索条件或偏好设置中过滤掉AI-assisted模组。"
+                "x": "Moonshot AI发布了面向Kimi的游戏开发与创意工作解决方案，基于其Kimi K3.1模型系列、Kimi Code和Kimi Work智能体产品，以及适用于Unity、Unreal Engine和Blender等专业工具的插件。公司表示，该方案旨在帮助工作室更早验证玩法创意，并推进工程与美术制作。"
               },
               {
                 "t": "p",
-                "x": "联合所有者Victor 'Foledinho' Folmann在博文中表示：“我们支持人类的创造力。”他不会禁止AI模组，因为“AI目前贯穿整个创作过程……很难划出清晰的界限”，并认为禁令只会促使模组作者隐瞒AI的使用：“它应当公开透明、清楚标注并受到监管。”"
+                "x": "模型可读取设计文档、截图、代码和3D资产并规划工作；Kimi Code负责在代码库中实现，Kimi Work则承担多步骤的制作任务。在Unity和Unreal Engine中，它会梳理代码结构、场景层级和模块依赖，通过编辑器插件进行修改，并对照复现步骤、日志和运行时数据检查结果。"
               },
               {
                 "t": "p",
-                "x": "模组作者必须声明模组是AI-assisted、主要为AI-generated，还是包含AI-generated宣传素材，并附上“关于AI如何使用、在何处使用的公开说明”。现有模组有60天宽限期；1月2日前仍未更新的模组可能面临账号限制。"
+                "x": "在Unity方面，Kimi与Unity China的Tuanjie Codely Agent协同工作。Kimi称，在一次演示中，它在无人干预的情况下连续工作了20小时，复刻了一款现有游戏，并生成了可继续开发的原生项目。"
               },
               {
                 "t": "p",
-                "x": "此举正值Valve拒绝在Steam上封堵“AI slop”、Tim Sweeney称强制AI声明是“一种政治行为”，以及Itch.io删除其所称“TB级的AI slop”之际。"
+                "x": "归功于Kimi K3.1 Pro的展示作品包括一段Blender雨林山谷飞越动画，以及在Unreal Engine 5.8中制作的、三角形总数达36百万个的天宫场景。Kimi还表示，没有编程经验的设计师也能在一到两天内制作出可玩的Godot原型。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nexus Mods exige declarar\nel uso de AI en los mods",
-          "body": "Nexus Mods exige declarar el uso de AI y permite ocultar mods AI-assisted, porque vetarlos solo ocultaría la AI.",
-          "mini_headline": "Nexus Mods etiqueta los mods con AI",
+          "headline": "Los agentes Kimi K3.1 ya operan\nen Unity, Unreal y Blender",
+          "body": "Los agentes Kimi de Moonshot editan proyectos de motor, y una sesión 20-hour sin supervisión recreó un juego existente.",
+          "mini_headline": "Agentes Kimi en motores de juego",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789439521.png",
-                "cap": "Crédito de la imagen: Nexus Mods."
+                "src": "https://cms-image.pandaily.com/1/kimi_e3d22e0c6a.png"
               },
               {
                 "t": "p",
-                "x": "La AI generativa se ha apoderado del mundo del modding. Nexus Mods, la mayor plataforma de mods de internet, ha respondido exigiendo que se declaren los mods con código AI-assisted y permitiendo a los usuarios excluir los mods AI-assisted de sus criterios de búsqueda o preferencias."
+                "x": "Moonshot AI ha lanzado una solución de desarrollo de videojuegos y trabajo creativo para Kimi, basada en su serie de modelos Kimi K3.1, sus productos de agentes Kimi Code y Kimi Work, y plugins para herramientas profesionales como Unity, Unreal Engine y Blender. La empresa afirma que su objetivo es ayudar a los estudios a probar antes sus ideas de jugabilidad y a avanzar en la ingeniería y la producción artística."
               },
               {
                 "t": "p",
-                "x": "\"Estamos a favor de la creatividad humana\", afirmó el copropietario Victor 'Foledinho' Folmann en una publicación de blog. No prohibirá los mods con AI porque \"la AI se usa actualmente en todo el proceso de creación... y es difícil trazar un límite claro\", y cree que una prohibición solo animaría a los modders a ocultar el uso de AI: \"Debería estar a la vista, claramente etiquetado y regulado\"."
+                "x": "El modelo lee documentos de diseño, capturas de pantalla, código y recursos 3D, y planifica el trabajo; Kimi Code se encarga de la implementación dentro de una base de código, mientras que Kimi Work asume tareas de producción de varios pasos. En Unity y Unreal Engine, mapea la estructura del código, la jerarquía de escenas y las dependencias entre módulos, realiza cambios mediante plugins del editor y comprueba el resultado con pasos de reproducción, registros y datos de ejecución."
               },
               {
                 "t": "p",
-                "x": "Los modders deben declarar si un mod es AI-assisted, principalmente AI-generated o incluye material promocional AI-generated, además de una \"explicación pública de cómo y dónde se usó la AI\". Los mods existentes tienen un periodo de gracia de 60 días; los que no se actualicen antes del 2 de enero podrían sufrir restricciones en su cuenta."
+                "x": "En Unity, Kimi trabaja con Tuanjie Codely Agent, de Unity China. En una demostración, según Kimi, trabajó durante 20 horas sin intervención humana, recreó un juego existente y generó un proyecto nativo que puede seguir desarrollándose."
               },
               {
                 "t": "p",
-                "x": "La medida llega mientras Valve se niega a bloquear el \"AI slop\" en Steam, Tim Sweeney califica los avisos obligatorios sobre AI de \"un acto político\" e Itch.io elimina lo que llamó \"terabytes de AI slop\"."
+                "x": "Entre las demostraciones atribuidas a Kimi K3.1 Pro figuran un recorrido aéreo por un valle de selva tropical en Blender y, en Unreal Engine 5.8, una escena de un palacio celestial con un total de 36 millones de triángulos. Kimi también afirma que diseñadores sin experiencia en programación pueden crear prototipos jugables en Godot en uno o dos días."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "K3.1がUnity・\nUnreal・Blender",
+          "body": "MoonshotのKimiはエンジンを直接編集し、20時間無人で既存ゲームを再現した。",
+          "mini_headline": "Kimiエージェント、ゲームエンジンへ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cms-image.pandaily.com/1/kimi_e3d22e0c6a.png"
+              },
+              {
+                "t": "p",
+                "x": "Moonshot AIは、Kimi向けのゲーム開発・クリエイティブ制作ソリューションを公開した。基盤となるのはKimi K3.1モデルシリーズ、エージェント製品のKimi CodeとKimi Work、そしてUnity、Unreal Engine、Blenderなどのプロ向けツール用プラグインである。同社によれば、スタジオがゲームプレイのアイデアをより早く検証し、エンジニアリングとアート制作を前に進めるためのものだという。"
+              },
+              {
+                "t": "p",
+                "x": "モデルは設計書、スクリーンショット、コード、3Dアセットを読み込んで作業を計画する。Kimi Codeはコードベース内での実装を担い、Kimi Workは複数段階の制作タスクを引き受ける。UnityとUnreal Engineでは、コード構造、シーン階層、モジュール間の依存関係を把握し、エディタプラグインを通じて変更を加え、再現手順やログ、ランタイムデータと照らして結果を確認する。"
+              },
+              {
+                "t": "p",
+                "x": "Unity向けには、KimiはUnity ChinaのTuanjie Codely Agentと連携する。Kimiによれば、あるデモでは人の介入なしに20時間作業を続け、既存のゲームを再現し、さらに開発を続けられるネイティブプロジェクトを生成したという。"
+              },
+              {
+                "t": "p",
+                "x": "Kimi K3.1 Proによるとされるショーケースには、Blenderで作った熱帯雨林の渓谷を飛び抜ける映像や、Unreal Engine 5.8で構築した、三角形の総数が36 million に及ぶ天上の宮殿のシーンがある。Kimiはまた、コーディング経験のないデザイナーでも一、二日でプレイ可能なGodotのプロトタイプを作れるとしている。"
               }
             ]
           }
@@ -199,125 +1369,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Nexus Mods,\nAI 모드 공개 의무화",
-          "body": "Nexus Mods가 AI-assisted 모드 공개를 의무화하고 숨김도 허용했다.",
-          "mini_headline": "Nexus Mods, AI 모드 표시",
+          "headline": "Kimi K3.1 에이전트\nUnity 등 엔진서 작업",
+          "body": "Moonshot Kimi 에이전트가 20-hour 무인 작업으로 게임을 재현했다.",
+          "mini_headline": "Kimi 에이전트, 게임 엔진 속으로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789439521.png",
-                "cap": "이미지 출처: Nexus Mods."
+                "src": "https://cms-image.pandaily.com/1/kimi_e3d22e0c6a.png"
               },
               {
                 "t": "p",
-                "x": "생성형 AI가 모딩 업계를 휩쓸었다. 인터넷 최대 모드 플랫폼인 Nexus Mods는 이에 대응해 AI-assisted 코드를 쓴 모드에 공개를 의무화하고, 이용자가 검색 조건이나 환경설정에서 AI-assisted 모드를 걸러낼 수 있게 했다."
+                "x": "Moonshot AI가 Kimi K3.1 모델 시리즈, Kimi Code와 Kimi Work 에이전트 제품, 그리고 Unity, Unreal Engine, Blender 등 전문 도구용 플러그인을 바탕으로 한 Kimi의 게임 개발·창작 솔루션을 내놨다. 회사는 스튜디오가 게임플레이 아이디어를 더 일찍 검증하고 엔지니어링과 아트 제작을 앞당기도록 돕기 위한 것이라고 설명한다."
               },
               {
                 "t": "p",
-                "x": "공동 소유주 Victor 'Foledinho' Folmann은 블로그 글에서 \"우리는 인간의 창의성을 지지한다\"고 말했다. 그는 \"AI는 현재 창작 과정 전반에 쓰이고 있으며... 명확한 경계를 긋기 어렵다\"는 이유로 AI 모드를 금지하지 않겠다고 했다. 금지하면 모더들이 AI 사용을 숨기도록 부추길 뿐이라고 보기 때문이다. 그는 \"드러내 놓고, 명확히 표시하고, 규제해야 한다\"고 밝혔다."
+                "x": "모델은 기획 문서, 스크린샷, 코드, 3D 에셋을 읽고 작업을 계획한다. Kimi Code는 코드베이스 안에서 구현을 맡고, Kimi Work는 여러 단계로 이뤄진 제작 작업을 처리한다. Unity와 Unreal Engine에서는 코드 구조, 씬 계층, 모듈 의존성을 파악하고, 에디터 플러그인으로 수정한 뒤, 재현 절차와 로그, 런타임 데이터에 비춰 결과를 확인한다."
               },
               {
                 "t": "p",
-                "x": "모더는 모드가 AI-assisted인지, 주로 AI-generated인지, AI-generated 홍보물을 담았는지 밝히고 \"AI를 어떻게, 어디에 사용했는지에 대한 공개 설명\"도 덧붙여야 한다. 기존 모드에는 60일의 유예 기간이 주어지며, 1월 2일까지 업데이트하지 않으면 계정 제한을 받을 수 있다."
+                "x": "Unity에서는 Unity China의 Tuanjie Codely Agent와 함께 작동한다. Kimi에 따르면 한 시연에서 사람의 개입 없이 20시간 동안 작업해 기존 게임을 재현하고, 이어서 개발할 수 있는 네이티브 프로젝트를 만들어 냈다."
               },
               {
                 "t": "p",
-                "x": "이번 조치는 Valve가 Steam에서 \"AI slop\"을 막지 않기로 하고, Tim Sweeney가 AI 고지 의무화를 \"정치적 행위\"라 부르고, Itch.io가 이른바 \"테라바이트 분량의 AI slop\"을 삭제한 가운데 나왔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Nexus Modsが\nAI使用の開示を義務化",
-          "body": "Nexus ModsはAI開示を義務化し、AI-assisted MODの非表示を認めた。",
-          "mini_headline": "Nexus Mods、AI MODを表示",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789439521.png",
-                "cap": "画像提供：Nexus Mods。"
-              },
-              {
-                "t": "p",
-                "x": "生成AIはMOD制作の世界を席巻している。インターネット最大のMODプラットフォームであるNexus Modsはこれを受け、AI-assistedのコードを含むMODに開示を義務付け、ユーザーが検索条件や設定でAI-assistedのMODを除外できるようにした。"
-              },
-              {
-                "t": "p",
-                "x": "共同オーナーのVictor 'Foledinho' Folmann氏はブログ投稿で「われわれは人間の創造性を支持する」と述べた。同氏は「AIは現在、創作のプロセス全体で使われており……明確な線引きは難しい」としてAI MODを禁止しない。禁止すればMOD制作者にAIの使用を隠させるだけだと考えており、「公の場に出し、明確にラベル付けし、規制すべきだ」と語る。"
-              },
-              {
-                "t": "p",
-                "x": "MOD制作者は、MODがAI-assistedか、主にAI-generatedか、AI-generatedの宣伝素材を含むかを申告し、さらに「AIをどのように、どこで使ったかの公開説明」を添えなければならない。既存のMODには60日間の猶予期間があり、1月2日までに更新されないものはアカウント制限を受ける可能性がある。"
-              },
-              {
-                "t": "p",
-                "x": "この動きは、ValveがSteamから「AI slop」を締め出さない姿勢を示し、Tim SweeneyがAI開示の義務化を「政治的行為」と呼び、Itch.ioが「テラバイト規模のAI slop」と称するものを削除するなかで起きた。"
+                "x": "Kimi K3.1 Pro로 만든 쇼케이스 결과물로는 Blender로 만든 열대우림 계곡 플라이스루와, Unreal Engine 5.8에서 구현한 삼각형 총 36백만 개 규모의 천상 궁전 장면이 있다. Kimi는 코딩 경험이 없는 디자이너도 하루에서 이틀이면 플레이 가능한 Godot 프로토타입을 만들 수 있다고 밝혔다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nexus Mods要求\n模组公开AI使用",
-          "body": "Nexus Mods要求公开AI使用，并允许用户隐藏AI-assisted模组。",
-          "mini_headline": "Nexus Mods标注AI模组",
+          "headline": "Kimi K3.1智能体\n进驻Unity等游戏引擎",
+          "body": "Moonshot的Kimi智能体直接编辑引擎项目，20-hour无人运行复刻现有游戏。",
+          "mini_headline": "Kimi智能体进入游戏引擎",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789439521.png",
-                "cap": "图片来源：Nexus Mods。"
+                "src": "https://cms-image.pandaily.com/1/kimi_e3d22e0c6a.png"
               },
               {
                 "t": "p",
-                "x": "生成式AI已席卷模组圈。作为互联网上最大的模组平台，Nexus Mods对此作出回应：强制要求含AI-assisted代码的模组进行披露，并允许用户在搜索条件或偏好设置中过滤掉AI-assisted模组。"
+                "x": "Moonshot AI发布了面向Kimi的游戏开发与创意工作解决方案，基于其Kimi K3.1模型系列、Kimi Code和Kimi Work智能体产品，以及适用于Unity、Unreal Engine和Blender等专业工具的插件。公司表示，该方案旨在帮助工作室更早验证玩法创意，并推进工程与美术制作。"
               },
               {
                 "t": "p",
-                "x": "联合所有者Victor 'Foledinho' Folmann在博文中表示：“我们支持人类的创造力。”他不会禁止AI模组，因为“AI目前贯穿整个创作过程……很难划出清晰的界限”，并认为禁令只会促使模组作者隐瞒AI的使用：“它应当公开透明、清楚标注并受到监管。”"
+                "x": "模型可读取设计文档、截图、代码和3D资产并规划工作；Kimi Code负责在代码库中实现，Kimi Work则承担多步骤的制作任务。在Unity和Unreal Engine中，它会梳理代码结构、场景层级和模块依赖，通过编辑器插件进行修改，并对照复现步骤、日志和运行时数据检查结果。"
               },
               {
                 "t": "p",
-                "x": "模组作者必须声明模组是AI-assisted、主要为AI-generated，还是包含AI-generated宣传素材，并附上“关于AI如何使用、在何处使用的公开说明”。现有模组有60天宽限期；1月2日前仍未更新的模组可能面临账号限制。"
+                "x": "在Unity方面，Kimi与Unity China的Tuanjie Codely Agent协同工作。Kimi称，在一次演示中，它在无人干预的情况下连续工作了20小时，复刻了一款现有游戏，并生成了可继续开发的原生项目。"
               },
               {
                 "t": "p",
-                "x": "此举正值Valve拒绝在Steam上封堵“AI slop”、Tim Sweeney称强制AI声明是“一种政治行为”，以及Itch.io删除其所称“TB级的AI slop”之际。"
+                "x": "归功于Kimi K3.1 Pro的展示作品包括一段Blender雨林山谷飞越动画，以及在Unreal Engine 5.8中制作的、三角形总数达36百万个的天宫场景。Kimi还表示，没有编程经验的设计师也能在一到两天内制作出可玩的Godot原型。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nexus Mods exige declarar\nel uso de AI en los mods",
-          "body": "Nexus Mods exige declarar el uso de AI y permite ocultar mods AI-assisted, porque vetarlos solo ocultaría la AI.",
-          "mini_headline": "Nexus Mods etiqueta los mods con AI",
+          "headline": "Los agentes Kimi K3.1 ya operan\nen Unity, Unreal y Blender",
+          "body": "Los agentes Kimi de Moonshot editan proyectos de motor, y una sesión 20-hour sin supervisión recreó un juego existente.",
+          "mini_headline": "Agentes Kimi en motores de juego",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789439521.png",
-                "cap": "Crédito de la imagen: Nexus Mods."
+                "src": "https://cms-image.pandaily.com/1/kimi_e3d22e0c6a.png"
               },
               {
                 "t": "p",
-                "x": "La AI generativa se ha apoderado del mundo del modding. Nexus Mods, la mayor plataforma de mods de internet, ha respondido exigiendo que se declaren los mods con código AI-assisted y permitiendo a los usuarios excluir los mods AI-assisted de sus criterios de búsqueda o preferencias."
+                "x": "Moonshot AI ha lanzado una solución de desarrollo de videojuegos y trabajo creativo para Kimi, basada en su serie de modelos Kimi K3.1, sus productos de agentes Kimi Code y Kimi Work, y plugins para herramientas profesionales como Unity, Unreal Engine y Blender. La empresa afirma que su objetivo es ayudar a los estudios a probar antes sus ideas de jugabilidad y a avanzar en la ingeniería y la producción artística."
               },
               {
                 "t": "p",
-                "x": "\"Estamos a favor de la creatividad humana\", afirmó el copropietario Victor 'Foledinho' Folmann en una publicación de blog. No prohibirá los mods con AI porque \"la AI se usa actualmente en todo el proceso de creación... y es difícil trazar un límite claro\", y cree que una prohibición solo animaría a los modders a ocultar el uso de AI: \"Debería estar a la vista, claramente etiquetado y regulado\"."
+                "x": "El modelo lee documentos de diseño, capturas de pantalla, código y recursos 3D, y planifica el trabajo; Kimi Code se encarga de la implementación dentro de una base de código, mientras que Kimi Work asume tareas de producción de varios pasos. En Unity y Unreal Engine, mapea la estructura del código, la jerarquía de escenas y las dependencias entre módulos, realiza cambios mediante plugins del editor y comprueba el resultado con pasos de reproducción, registros y datos de ejecución."
               },
               {
                 "t": "p",
-                "x": "Los modders deben declarar si un mod es AI-assisted, principalmente AI-generated o incluye material promocional AI-generated, además de una \"explicación pública de cómo y dónde se usó la AI\". Los mods existentes tienen un periodo de gracia de 60 días; los que no se actualicen antes del 2 de enero podrían sufrir restricciones en su cuenta."
+                "x": "En Unity, Kimi trabaja con Tuanjie Codely Agent, de Unity China. En una demostración, según Kimi, trabajó durante 20 horas sin intervención humana, recreó un juego existente y generó un proyecto nativo que puede seguir desarrollándose."
               },
               {
                 "t": "p",
-                "x": "La medida llega mientras Valve se niega a bloquear el \"AI slop\" en Steam, Tim Sweeney califica los avisos obligatorios sobre AI de \"un acto político\" e Itch.io elimina lo que llamó \"terabytes de AI slop\"."
+                "x": "Entre las demostraciones atribuidas a Kimi K3.1 Pro figuran un recorrido aéreo por un valle de selva tropical en Blender y, en Unreal Engine 5.8, una escena de un palacio celestial con un total de 36 millones de triángulos. Kimi también afirma que diseñadores sin experiencia en programación pueden crear prototipos jugables en Godot en uno o dos días."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "K3.1がUnity・\nUnreal・Blender",
+          "body": "MoonshotのKimiはエンジンを直接編集し、20時間無人で既存ゲームを再現した。",
+          "mini_headline": "Kimiエージェント、ゲームエンジンへ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cms-image.pandaily.com/1/kimi_e3d22e0c6a.png"
+              },
+              {
+                "t": "p",
+                "x": "Moonshot AIは、Kimi向けのゲーム開発・クリエイティブ制作ソリューションを公開した。基盤となるのはKimi K3.1モデルシリーズ、エージェント製品のKimi CodeとKimi Work、そしてUnity、Unreal Engine、Blenderなどのプロ向けツール用プラグインである。同社によれば、スタジオがゲームプレイのアイデアをより早く検証し、エンジニアリングとアート制作を前に進めるためのものだという。"
+              },
+              {
+                "t": "p",
+                "x": "モデルは設計書、スクリーンショット、コード、3Dアセットを読み込んで作業を計画する。Kimi Codeはコードベース内での実装を担い、Kimi Workは複数段階の制作タスクを引き受ける。UnityとUnreal Engineでは、コード構造、シーン階層、モジュール間の依存関係を把握し、エディタプラグインを通じて変更を加え、再現手順やログ、ランタイムデータと照らして結果を確認する。"
+              },
+              {
+                "t": "p",
+                "x": "Unity向けには、KimiはUnity ChinaのTuanjie Codely Agentと連携する。Kimiによれば、あるデモでは人の介入なしに20時間作業を続け、既存のゲームを再現し、さらに開発を続けられるネイティブプロジェクトを生成したという。"
+              },
+              {
+                "t": "p",
+                "x": "Kimi K3.1 Proによるとされるショーケースには、Blenderで作った熱帯雨林の渓谷を飛び抜ける映像や、Unreal Engine 5.8で構築した、三角形の総数が36 million に及ぶ天上の宮殿のシーンがある。Kimiはまた、コーディング経験のないデザイナーでも一、二日でプレイ可能なGodotのプロトタイプを作れるとしている。"
               }
             ]
           }
@@ -325,267 +1491,189 @@
       }
     },
     {
-      "id": "ue6-blueprints-drop",
+      "id": "games-tencent-hy4-multiplayer",
       "source_lang": "ja",
       "eyebrow": "AI NEWS",
-      "headline": "UE6, 블루프린트\n처음부터 폐지",
-      "body": "Epic 스위니가 UE6에서 블루프린트를 아예 빼고 AI를 앞세우겠다며 사과했다.",
-      "mini_headline": "UE6, 블루프린트 폐지",
+      "headline": "텐센트 새 AI 'Hy4'\n멀티플레이 구현 돕는다",
+      "body": "텐센트 Hy4는 게임 노하우로 학습해 Unity 등에서 멀티플레이 구현을 돕는다.",
+      "mini_headline": "텐센트 Hy4 공개",
       "tool": "Games",
-      "source": "4Gamer.net",
-      "url": "https://www.4gamer.net/games/210/G021013/20261104013/",
+      "source": "Real Sound テック",
+      "url": "https://realsound.jp/tech/2026/11/post-2575100.html",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "Epic Games Japan은 2026년 11월 3일과 4일 도쿄 아리아케의 TFT 홀에서 Unreal Engine 공식 콘퍼런스 'Unreal Fest Tokyo 2026'을 열었다. 첫날 기조연설에 나선 Epic Games CEO Tim Sweeney는 기존 전환 방침을 뒤집고 차세대 엔진 'Unreal Engine 6'에서 블루프린트(BP)를 처음부터 빼겠다고 발표했다. 게임플레이는 Verse로만 작성한다."
-          },
-          {
             "t": "img",
-            "src": "https://www.4gamer.net/games/210/G021013/20261104013/TN/002.jpg",
-            "cap": "기조연설에 나선 Epic Games CEO Tim Sweeney"
+            "src": "https://realsound.jp/wp-content/uploads/2026/11/20261105-hy4-99.jpg"
           },
           {
             "t": "p",
-            "x": "Sweeney는 게임이 생태계로 성장하는 흐름을 업계의 큰 변화로 꼽았다. UE6에서는 게임플레이를 모두 스크립트 언어 'Verse'로 작성하고, 엔진 부분은 계속 C++로 개발한다. Verse는 C#처럼 쉽게 쓰면서도 C++만큼 강력하고, AI로 게임을 개발할 때는 기존 어떤 언어보다 다루기 쉽다는 설명이다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/018.jpg"
+            "x": "텐센트가 11월 4일 대규모 언어 모델 'Hy4'를 발표했다. 회사 게임 부문 개발자들이 학습 데이터 선정과 평가에 참여한 덕에, 여러 플레이어가 동시에 즐기는 게임의 구현을 지원할 수 있게 됐다고 한다."
           },
           {
             "t": "p",
-            "x": "Epic Games 내부에서는 AI 덕에 생산성이 1.5배에서 4배 올랐고 2026년 말까지 최소 4배, 2027년 중반에는 여러 영역에서 10배 개선을 내다본다. 개발자는 원하는 모델을 MCP 서버나 Python 스크립트 인터페이스로 Unreal Engine에 연결할 수 있다."
+            "x": "개발 과정에서는 게임 규칙에 따라 처리를 진행하는 구조와, 플레이 중 바뀌는 게임 상태를 추적하는 처리에 공을 들였다. 모델은 Unreal Engine, Unity, Godot 등 주요 게임 엔진에 맞춰 조정했다. 회사에 따르면 게임 개발 성능 평가 점수가 프리뷰 버전보다 'GameDev'에서 19.1%, 'GameLogic'에서 9.8% 올랐다."
           },
           {
             "t": "p",
-            "x": "6월 'Unreal Fest 2026'에서는 블루프린트를 UE6 초기 버전에 남겨 두고, Verse 중심 체계가 성숙하면 지원 중단 대상으로 돌리겠다고 했다. 그러나 AI는 블루프린트보다 텍스트 기반 코드를 다룰 때 훨씬 생산적이라는 점을 확인했고, 결국 2027년 말 나오는 UE6 개발 환경에서 블루프린트를 빼기로 했다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg"
+            "x": "공식 개발 블로그에는 Hy4로 만든 3D 드라이빙 시뮬레이터 'Electric Flying Car Climb Test'가 소개돼 있다. 밤의 테스트 코스에서 차를 가속해, 호를 그리며 거의 수직으로 솟은 주로를 어디까지 오를 수 있는지 시험하는 게임이다."
           },
           {
             "t": "p",
-            "x": "Sweeney는 이 결정이 환영받지 못하리라는 점을 인정하며 블루프린트 폐지를 사과했다. UE5에서 UE6로 옮길 때는 AI를 활용한 변환 수단을 제공한다. Epic Games는 '포트나이트'에서 이 방식을 시험하며 수천 개의 블루프린트와 남은 C++ 게임플레이 코드를 Verse로 옮기고 있다."
+            "x": "Hy4는 이미지를 읽는 기능과 PC 화면을 조작하는 기능도 새로 갖췄다. 3D 제작 소프트웨어 'Blender'와 설계용 CAD 소프트웨어로 훈련도 했다고 한다. Hy4는 회사의 'Tencent Cloud TokenHub', 'WorkBuddy', 'CodeBuddy' 등에서 쓸 수 있다."
           }
         ]
       },
       "text": {
         "ja": {
-          "headline": "UE6はブループリントを\n最初から廃止へ",
-          "body": "Epicのスウィーニー氏は、UE6でブループリントを最初から廃しAIを優先すると謝罪した。",
-          "mini_headline": "UE6、ブループリント廃止",
+          "headline": "テンセント新AI「Hy4」\nマルチプレイ実装を支援",
+          "body": "テンセントのHy4はゲーム部門の知見で学び、Unityなどでマルチプレイ実装を支える。",
+          "mini_headline": "テンセントHy4登場",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Epic Games Japanは2026年11月3日と4日に、Unreal Engineの公式カンファレンス「Unreal Fest Tokyo 2026」を東京・有明のTFTホールで開催した。初日の基調講演に登壇したEpic GamesのCEO、Tim Sweeney氏は、これまでの移行方針を変更し、次世代エンジン「Unreal Engine 6」でブループリント（BP）を最初から廃止すると発表した。ゲームプレイの記述はVerseに一本化する。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/TN/002.jpg",
-                "cap": "基調講演に登壇したEpic Games CEOのTim Sweeney氏"
+                "src": "https://realsound.jp/wp-content/uploads/2026/11/20261105-hy4-99.jpg"
               },
               {
                 "t": "p",
-                "x": "Sweeney氏は、ゲームがエコシステムへと成長していることを業界の大きな流れとして挙げた。UE6では、ゲームプレイをすべてスクリプト言語「Verse」で記述し、エンジン部分は引き続きC++で開発する。VerseはC#のように書きやすく、C++並みに強力で、AIを使ったゲーム開発ではこれまでのどの言語よりも扱いやすくなるという。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/018.jpg"
+                "x": "テンセントは11月4日、大規模言語モデル「Hy4」を発表した。同社のゲーム部門の開発者が学習データの選定と評価に協力し、複数のプレイヤーが同時に遊ぶゲームの実装を支援できるようになったという。"
               },
               {
                 "t": "p",
-                "x": "Epic Gamesの社内ではAIによって1.5倍から4倍の生産性向上が見られ、2026年末までに少なくとも4倍、2027年半ばには多くの領域で10倍の改善を見込んでいる。開発者は好きなモデルをMCPサーバーやPythonのスクリプトインタフェース経由でUnreal Engineに接続できる。"
+                "x": "開発では、ゲームのルールに沿って処理を進める仕組みや、プレイ中に変化するゲームの状態を追跡する処理に重点を置いた。Unreal Engine、Unity、Godotといった主要なゲームエンジンに合わせてモデルを調整した。同社によると、ゲーム開発に関する性能評価では、プレビュー版に比べ「GameDev」で19.1％、「GameLogic」で9.8％スコアが向上した。"
               },
               {
                 "t": "p",
-                "x": "6月の「Unreal Fest 2026」では、ブループリントはUE6の初期版に残し、Verseを中心とする仕組みが成熟した段階で非推奨にするとしていた。しかしAIにとってはブループリントよりもテキストベースのコードを扱うほうがはるかに生産的だと分かったため、2027年末にローンチするUE6の開発環境からブループリントを取り除くことを決めたという。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg"
+                "x": "公式開発ブログでは、Hy4を使った3Dドライビングシミュレーター「Electric Flying Car Climb Test」を紹介している。夜のテストコースで車を加速させ、弧を描いてほぼ垂直に立ち上がる走路をどこまで登れるか試すものだ。"
               },
               {
                 "t": "p",
-                "x": "Sweeney氏は、この決定が歓迎されないことを認め、ブループリントの廃止について謝罪した。UE5からUE6への移行には、AIを活用した変換手段を用意する。Epic Gamesは「フォートナイト」でこれを試しており、数千に及ぶブループリントと残ったC++のゲームプレイコードをVerseへ移しているところだ。"
+                "x": "Hy4には画像を読み取る機能と、PCの画面を操作する機能も加わった。3D制作ソフト「Blender」や設計用のCADソフトを使った訓練も行ったという。Hy4は同社の「Tencent Cloud TokenHub」「WorkBuddy」「CodeBuddy」などで利用できる。"
               }
             ]
           }
         },
         "en": {
-          "headline": "UE6 drops Blueprints\nfrom the start",
-          "body": "Epic's Sweeney apologized for dropping Blueprints from UE6 from the start in favor of AI.",
-          "mini_headline": "UE6 drops Blueprints",
+          "headline": "Tencent's new AI model Hy4\nhelps build multiplayer games",
+          "body": "Tencent's Hy4 draws on its game unit's expertise to help build multiplayer games in Unity and other engines.",
+          "mini_headline": "Tencent unveils Hy4",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Epic Games Japan held Unreal Fest Tokyo 2026, the official Unreal Engine conference, at TFT Hall in Ariake, Tokyo, on November 3 and 4, 2026. In the first day's keynote, Epic Games CEO Tim Sweeney announced a change to the previous transition plan: Blueprints (BP) will be removed from the next-generation engine, Unreal Engine 6, from the start. Gameplay scripting will be consolidated into Verse."
-              },
-              {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/TN/002.jpg",
-                "cap": "Epic Games CEO Tim Sweeney delivering the keynote"
+                "src": "https://realsound.jp/wp-content/uploads/2026/11/20261105-hy4-99.jpg"
               },
               {
                 "t": "p",
-                "x": "Sweeney cited games growing into ecosystems as a major industry trend. In UE6, all gameplay will be written in the scripting language Verse, while the engine itself will continue to be developed in C++. He said Verse is as easy to write as C# and as powerful as C++, and will be easier to work with than any previous language for AI-driven game development."
-              },
-              {
-                "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/018.jpg"
+                "x": "Tencent announced the large language model \"Hy4\" on November 4. Developers from the company's game division helped select and evaluate the training data, and the model can now help implement games in which multiple players play at the same time, the company said."
               },
               {
                 "t": "p",
-                "x": "Inside Epic Games, AI has brought productivity gains of 1.5x to 4x, and the company expects at least 4x by the end of 2026 and 10x improvements in many areas by mid-2027. Developers can connect any model they like to Unreal Engine through an MCP server or a Python scripting interface."
+                "x": "Development focused on mechanisms that advance processing according to a game's rules and on tracking game state as it changes during play. The model was tuned for major game engines such as Unreal Engine, Unity and Godot. According to the company, on game development benchmarks its scores improved over the preview version by 19.1% on \"GameDev\" and 9.8% on \"GameLogic\"."
               },
               {
                 "t": "p",
-                "x": "At Unreal Fest 2026 in June, Epic had said Blueprints would remain in the initial version of UE6 and be deprecated once the Verse-centered system matured. But after finding that AI is far more productive working with text-based code than with Blueprints, it decided to remove Blueprints from the UE6 development environment, which launches at the end of 2027."
-              },
-              {
-                "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg"
+                "x": "The official development blog showcases \"Electric Flying Car Climb Test,\" a 3D driving simulator built with Hy4. Players accelerate a car on a night-time test course and see how far it can climb a track that arcs up until it is nearly vertical."
               },
               {
                 "t": "p",
-                "x": "Sweeney acknowledged the decision would not be welcomed and apologized for dropping Blueprints. An AI-powered conversion tool will be provided for migrating from UE5 to UE6. Epic Games is testing this on Fortnite, where it is moving thousands of Blueprints and the remaining C++ gameplay code to Verse."
+                "x": "Hy4 also gains the ability to read images and to operate a PC screen. It was also trained using the 3D creation software \"Blender\" and CAD software for design, according to the company. Hy4 is available through the company's \"Tencent Cloud TokenHub,\" \"WorkBuddy,\" \"CodeBuddy\" and other services."
               }
             ]
           }
         },
         "ko": {
-          "headline": "UE6, 블루프린트\n처음부터 폐지",
-          "body": "Epic 스위니가 UE6에서 블루프린트를 아예 빼고 AI를 앞세우겠다며 사과했다.",
-          "mini_headline": "UE6, 블루프린트 폐지",
+          "headline": "텐센트 새 AI 'Hy4'\n멀티플레이 구현 돕는다",
+          "body": "텐센트 Hy4는 게임 노하우로 학습해 Unity 등에서 멀티플레이 구현을 돕는다.",
+          "mini_headline": "텐센트 Hy4 공개",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Epic Games Japan은 2026년 11월 3일과 4일 도쿄 아리아케의 TFT 홀에서 Unreal Engine 공식 콘퍼런스 'Unreal Fest Tokyo 2026'을 열었다. 첫날 기조연설에 나선 Epic Games CEO Tim Sweeney는 기존 전환 방침을 뒤집고 차세대 엔진 'Unreal Engine 6'에서 블루프린트(BP)를 처음부터 빼겠다고 발표했다. 게임플레이는 Verse로만 작성한다."
-              },
-              {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/TN/002.jpg",
-                "cap": "기조연설에 나선 Epic Games CEO Tim Sweeney"
+                "src": "https://realsound.jp/wp-content/uploads/2026/11/20261105-hy4-99.jpg"
               },
               {
                 "t": "p",
-                "x": "Sweeney는 게임이 생태계로 성장하는 흐름을 업계의 큰 변화로 꼽았다. UE6에서는 게임플레이를 모두 스크립트 언어 'Verse'로 작성하고, 엔진 부분은 계속 C++로 개발한다. Verse는 C#처럼 쉽게 쓰면서도 C++만큼 강력하고, AI로 게임을 개발할 때는 기존 어떤 언어보다 다루기 쉽다는 설명이다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/018.jpg"
+                "x": "텐센트가 11월 4일 대규모 언어 모델 'Hy4'를 발표했다. 회사 게임 부문 개발자들이 학습 데이터 선정과 평가에 참여한 덕에, 여러 플레이어가 동시에 즐기는 게임의 구현을 지원할 수 있게 됐다고 한다."
               },
               {
                 "t": "p",
-                "x": "Epic Games 내부에서는 AI 덕에 생산성이 1.5배에서 4배 올랐고 2026년 말까지 최소 4배, 2027년 중반에는 여러 영역에서 10배 개선을 내다본다. 개발자는 원하는 모델을 MCP 서버나 Python 스크립트 인터페이스로 Unreal Engine에 연결할 수 있다."
+                "x": "개발 과정에서는 게임 규칙에 따라 처리를 진행하는 구조와, 플레이 중 바뀌는 게임 상태를 추적하는 처리에 공을 들였다. 모델은 Unreal Engine, Unity, Godot 등 주요 게임 엔진에 맞춰 조정했다. 회사에 따르면 게임 개발 성능 평가 점수가 프리뷰 버전보다 'GameDev'에서 19.1%, 'GameLogic'에서 9.8% 올랐다."
               },
               {
                 "t": "p",
-                "x": "6월 'Unreal Fest 2026'에서는 블루프린트를 UE6 초기 버전에 남겨 두고, Verse 중심 체계가 성숙하면 지원 중단 대상으로 돌리겠다고 했다. 그러나 AI는 블루프린트보다 텍스트 기반 코드를 다룰 때 훨씬 생산적이라는 점을 확인했고, 결국 2027년 말 나오는 UE6 개발 환경에서 블루프린트를 빼기로 했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg"
+                "x": "공식 개발 블로그에는 Hy4로 만든 3D 드라이빙 시뮬레이터 'Electric Flying Car Climb Test'가 소개돼 있다. 밤의 테스트 코스에서 차를 가속해, 호를 그리며 거의 수직으로 솟은 주로를 어디까지 오를 수 있는지 시험하는 게임이다."
               },
               {
                 "t": "p",
-                "x": "Sweeney는 이 결정이 환영받지 못하리라는 점을 인정하며 블루프린트 폐지를 사과했다. UE5에서 UE6로 옮길 때는 AI를 활용한 변환 수단을 제공한다. Epic Games는 '포트나이트'에서 이 방식을 시험하며 수천 개의 블루프린트와 남은 C++ 게임플레이 코드를 Verse로 옮기고 있다."
+                "x": "Hy4는 이미지를 읽는 기능과 PC 화면을 조작하는 기능도 새로 갖췄다. 3D 제작 소프트웨어 'Blender'와 설계용 CAD 소프트웨어로 훈련도 했다고 한다. Hy4는 회사의 'Tencent Cloud TokenHub', 'WorkBuddy', 'CodeBuddy' 등에서 쓸 수 있다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "UE6将从一开始\n就废除蓝图",
-          "body": "Epic的斯威尼宣布UE6将从一开始废除蓝图、优先AI，并为此致歉。",
-          "mini_headline": "UE6废除蓝图",
+          "headline": "腾讯新AI“Hy4”\n助力多人游戏开发",
+          "body": "腾讯Hy4借助游戏部门的经验训练，可在Unity等引擎中支持多人游戏开发。",
+          "mini_headline": "腾讯发布Hy4",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Epic Games Japan于2026年11月3日和4日在东京有明的TFT大厅举办了Unreal Engine官方大会“Unreal Fest Tokyo 2026”。在首日主题演讲中登台的Epic Games CEO Tim Sweeney改变了此前的过渡方针，宣布次世代引擎“Unreal Engine 6”将从一开始就废除蓝图（BP），游戏玩法的编写统一使用Verse。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/TN/002.jpg",
-                "cap": "在主题演讲中登台的Epic Games CEO Tim Sweeney"
+                "src": "https://realsound.jp/wp-content/uploads/2026/11/20261105-hy4-99.jpg"
               },
               {
                 "t": "p",
-                "x": "Sweeney将游戏成长为生态系统列为行业的一大趋势。在UE6中，游戏玩法将全部用脚本语言“Verse”编写，引擎部分则继续用C++开发。据介绍，Verse像C#一样易写，又与C++同样强大，在借助AI的游戏开发中将比以往任何语言都更易驾驭。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/018.jpg"
+                "x": "腾讯于11月4日发布大语言模型“Hy4”。据介绍，公司游戏部门的开发者参与了训练数据的筛选与评估，使其能够支持多名玩家同时游玩的游戏的开发实现。"
               },
               {
                 "t": "p",
-                "x": "Epic Games内部已借助AI实现1.5倍至4倍的生产力提升，预计到2026年底至少达到4倍，到2027年中期在许多领域实现10倍改进。开发者可通过MCP服务器或Python脚本接口，将自己喜欢的模型接入Unreal Engine。"
+                "x": "开发中重点打磨了按照游戏规则推进处理的机制，以及追踪游戏过程中不断变化的游戏状态的处理。模型针对Unreal Engine、Unity、Godot等主流游戏引擎进行了调整。据该公司介绍，在游戏开发相关的性能评测中，与预览版相比，“GameDev”得分提升19.1%，“GameLogic”得分提升9.8%。"
               },
               {
                 "t": "p",
-                "x": "在6月的“Unreal Fest 2026”上，官方曾表示蓝图会保留在UE6初始版本中，待以Verse为核心的体系成熟后再弃用。但由于发现对AI而言，处理文本代码远比处理蓝图高效，因此决定从将于2027年底推出的UE6开发环境中移除蓝图。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg"
+                "x": "官方开发博客介绍了使用Hy4制作的3D驾驶模拟器“Electric Flying Car Climb Test”。玩家在夜间测试赛道上让汽车加速，测试它能沿着呈弧形、几乎垂直立起的跑道爬多高。"
               },
               {
                 "t": "p",
-                "x": "Sweeney承认这一决定不会受到欢迎，并就废除蓝图致歉。从UE5迁移到UE6时，将提供借助AI的转换手段。Epic Games正在《堡垒之夜》中试行，把数千个蓝图和剩余的C++游戏玩法代码迁移到Verse。"
+                "x": "Hy4还新增了读取图像和操作PC屏幕的功能，并使用3D制作软件“Blender”及设计用CAD软件进行了训练。Hy4可在该公司的“Tencent Cloud TokenHub”“WorkBuddy”“CodeBuddy”等平台上使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "UE6 elimina los Blueprints\ndesde el inicio",
-          "body": "Sweeney, de Epic, se disculpó por eliminar los Blueprints de UE6 desde el inicio para priorizar la AI.",
-          "mini_headline": "UE6 elimina los Blueprints",
+          "headline": "Hy4, la nueva AI de Tencent,\nayuda con juegos multijugador",
+          "body": "Hy4, de Tencent, aprendió de la experiencia de su división de juegos y apoya el multijugador en Unity y otros motores.",
+          "mini_headline": "Tencent presenta Hy4",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Epic Games Japan celebró los días 3 y 4 de noviembre de 2026 la conferencia oficial de Unreal Engine, Unreal Fest Tokyo 2026, en el TFT Hall de Ariake, Tokio. En la conferencia principal del primer día, el CEO de Epic Games, Tim Sweeney, cambió el plan de transición previsto y anunció que el motor de próxima generación, Unreal Engine 6, prescindirá de los Blueprints (BP) desde el inicio. La programación del gameplay se unificará en Verse."
-              },
-              {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/TN/002.jpg",
-                "cap": "Tim Sweeney, CEO de Epic Games, durante la conferencia principal"
+                "src": "https://realsound.jp/wp-content/uploads/2026/11/20261105-hy4-99.jpg"
               },
               {
                 "t": "p",
-                "x": "Sweeney señaló como gran tendencia del sector que los juegos están creciendo hasta convertirse en ecosistemas. En UE6, todo el gameplay se escribirá en el lenguaje de scripting Verse, mientras que el motor seguirá desarrollándose en C++. Según explicó, Verse es tan fácil de escribir como C#, tan potente como C++ y, en el desarrollo de juegos con AI, más manejable que cualquier lenguaje anterior."
-              },
-              {
-                "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/018.jpg"
+                "x": "Tencent presentó el 4 de noviembre (11/4) el modelo de lenguaje de gran tamaño \"Hy4\". Desarrolladores de la división de juegos de la compañía colaboraron en la selección y evaluación de los datos de entrenamiento, y ahora el modelo puede ayudar a implementar juegos en los que varios jugadores juegan a la vez, según la empresa."
               },
               {
                 "t": "p",
-                "x": "Dentro de Epic Games, la AI ha multiplicado la productividad entre 1.5 y 4 veces, y la empresa prevé al menos 4 veces para finales de 2026 y mejoras de 10 veces en muchas áreas a mediados de 2027. Los desarrolladores pueden conectar el modelo que prefieran a Unreal Engine mediante un servidor MCP o una interfaz de scripts de Python."
+                "x": "El desarrollo se centró en los mecanismos que hacen avanzar el procesamiento según las reglas del juego y en el seguimiento del estado de la partida, que cambia durante el juego. El modelo se ajustó a los principales motores de videojuegos, como Unreal Engine, Unity y Godot. Según la compañía, en las evaluaciones de rendimiento de desarrollo de juegos, la puntuación mejoró un 19.1% en \"GameDev\" y un 9.8% en \"GameLogic\" respecto a la versión preliminar."
               },
               {
                 "t": "p",
-                "x": "En Unreal Fest 2026, en junio, se había dicho que los Blueprints se mantendrían en la versión inicial de UE6 y quedarían obsoletos cuando madurara el sistema centrado en Verse. Sin embargo, al comprobar que para la AI es mucho más productivo trabajar con código en texto que con Blueprints, se decidió retirarlos del entorno de desarrollo de UE6, que se lanzará a finales de 2027."
-              },
-              {
-                "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg"
+                "x": "El blog oficial de desarrollo presenta \"Electric Flying Car Climb Test\", un simulador de conducción en 3D creado con Hy4. Consiste en acelerar un coche en una pista de pruebas nocturna y comprobar hasta dónde puede subir por un trazado que se curva hasta quedar casi vertical."
               },
               {
                 "t": "p",
-                "x": "Sweeney reconoció que la decisión no será bien recibida y pidió disculpas por la eliminación de los Blueprints. Para la migración de UE5 a UE6 se ofrecerá una herramienta de conversión basada en AI. Epic Games lo está probando en Fortnite, donde traslada a Verse miles de Blueprints y el código de gameplay en C++ que quedaba."
+                "x": "Hy4 también incorpora la capacidad de leer imágenes y de manejar la pantalla de un PC. Según la empresa, también se entrenó con el software de creación 3D \"Blender\" y con software CAD de diseño. Hy4 está disponible en servicios de la compañía como \"Tencent Cloud TokenHub\", \"WorkBuddy\" y \"CodeBuddy\"."
               }
             ]
           }
@@ -593,1369 +1681,121 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "UE6 drops Blueprints\nfrom the start",
-          "body": "Epic's Sweeney apologized for dropping Blueprints from UE6 from the start in favor of AI.",
-          "mini_headline": "UE6 drops Blueprints",
+          "headline": "Tencent's new AI model Hy4\nhelps build multiplayer games",
+          "body": "Tencent's Hy4 draws on its game unit's expertise to help build multiplayer games in Unity and other engines.",
+          "mini_headline": "Tencent unveils Hy4",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Epic Games Japan held Unreal Fest Tokyo 2026, the official Unreal Engine conference, at TFT Hall in Ariake, Tokyo, on November 3 and 4, 2026. In the first day's keynote, Epic Games CEO Tim Sweeney announced a change to the previous transition plan: Blueprints (BP) will be removed from the next-generation engine, Unreal Engine 6, from the start. Gameplay scripting will be consolidated into Verse."
-              },
-              {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/TN/002.jpg",
-                "cap": "Epic Games CEO Tim Sweeney delivering the keynote"
+                "src": "https://realsound.jp/wp-content/uploads/2026/11/20261105-hy4-99.jpg"
               },
               {
                 "t": "p",
-                "x": "Sweeney cited games growing into ecosystems as a major industry trend. In UE6, all gameplay will be written in the scripting language Verse, while the engine itself will continue to be developed in C++. He said Verse is as easy to write as C# and as powerful as C++, and will be easier to work with than any previous language for AI-driven game development."
-              },
-              {
-                "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/018.jpg"
+                "x": "Tencent announced the large language model \"Hy4\" on November 4. Developers from the company's game division helped select and evaluate the training data, and the model can now help implement games in which multiple players play at the same time, the company said."
               },
               {
                 "t": "p",
-                "x": "Inside Epic Games, AI has brought productivity gains of 1.5x to 4x, and the company expects at least 4x by the end of 2026 and 10x improvements in many areas by mid-2027. Developers can connect any model they like to Unreal Engine through an MCP server or a Python scripting interface."
+                "x": "Development focused on mechanisms that advance processing according to a game's rules and on tracking game state as it changes during play. The model was tuned for major game engines such as Unreal Engine, Unity and Godot. According to the company, on game development benchmarks its scores improved over the preview version by 19.1% on \"GameDev\" and 9.8% on \"GameLogic\"."
               },
               {
                 "t": "p",
-                "x": "At Unreal Fest 2026 in June, Epic had said Blueprints would remain in the initial version of UE6 and be deprecated once the Verse-centered system matured. But after finding that AI is far more productive working with text-based code than with Blueprints, it decided to remove Blueprints from the UE6 development environment, which launches at the end of 2027."
-              },
-              {
-                "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg"
+                "x": "The official development blog showcases \"Electric Flying Car Climb Test,\" a 3D driving simulator built with Hy4. Players accelerate a car on a night-time test course and see how far it can climb a track that arcs up until it is nearly vertical."
               },
               {
                 "t": "p",
-                "x": "Sweeney acknowledged the decision would not be welcomed and apologized for dropping Blueprints. An AI-powered conversion tool will be provided for migrating from UE5 to UE6. Epic Games is testing this on Fortnite, where it is moving thousands of Blueprints and the remaining C++ gameplay code to Verse."
+                "x": "Hy4 also gains the ability to read images and to operate a PC screen. It was also trained using the 3D creation software \"Blender\" and CAD software for design, according to the company. Hy4 is available through the company's \"Tencent Cloud TokenHub,\" \"WorkBuddy,\" \"CodeBuddy\" and other services."
               }
             ]
           }
         },
         "ko": {
-          "headline": "UE6, 블루프린트\n처음부터 폐지",
-          "body": "Epic 스위니는 UE6 블루프린트를 처음부터 없애고 AI를 우선한다며 사과했다.",
-          "mini_headline": "UE6, 블루프린트 폐지",
+          "headline": "텐센트 새 AI 'Hy4'\n멀티플레이 구현 돕는다",
+          "body": "텐센트 Hy4는 게임 노하우로 학습해 Unity 등에서 멀티플레이 구현을 돕는다.",
+          "mini_headline": "텐센트 Hy4 공개",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Epic Games Japan은 2026년 11월 3일과 4일 도쿄 아리아케의 TFT 홀에서 Unreal Engine 공식 콘퍼런스 'Unreal Fest Tokyo 2026'을 열었다. 첫날 기조연설에 나선 Epic Games CEO Tim Sweeney는 기존 전환 방침을 바꿔, 차세대 엔진 'Unreal Engine 6'에서 블루프린트(BP)를 처음부터 없앤다고 발표했다. 게임플레이 작성은 Verse로 일원화한다."
-              },
-              {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/TN/002.jpg",
-                "cap": "기조연설에 나선 Epic Games CEO Tim Sweeney"
+                "src": "https://realsound.jp/wp-content/uploads/2026/11/20261105-hy4-99.jpg"
               },
               {
                 "t": "p",
-                "x": "Sweeney는 게임이 생태계로 성장하는 흐름을 업계의 큰 변화로 꼽았다. UE6에서는 게임플레이를 모두 스크립트 언어 'Verse'로 작성하고, 엔진 부분은 계속 C++로 개발한다. Verse는 C#처럼 쓰기 쉽고 C++만큼 강력하며, AI를 활용한 게임 개발에서는 지금까지의 어떤 언어보다 다루기 쉽다고 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/018.jpg"
+                "x": "텐센트는 11월 4일 대규모 언어 모델 'Hy4'를 발표했다. 회사 게임 부문의 개발자들이 학습 데이터 선정과 평가에 참여해, 여러 플레이어가 동시에 즐기는 게임의 구현을 지원할 수 있게 됐다고 한다."
               },
               {
                 "t": "p",
-                "x": "Epic Games 내부에서는 AI로 1.5배에서 4배의 생산성 향상이 나타났고, 2026년 말까지 최소 4배, 2027년 중반에는 여러 영역에서 10배 개선을 내다본다. 개발자는 원하는 모델을 MCP 서버나 Python 스크립트 인터페이스를 거쳐 Unreal Engine에 연결할 수 있다."
+                "x": "개발 과정에서는 게임 규칙에 따라 처리를 진행하는 구조와 플레이 중 변하는 게임 상태를 추적하는 처리에 중점을 뒀다. Unreal Engine, Unity, Godot 등 주요 게임 엔진에 맞춰 모델을 조정했다. 회사에 따르면 게임 개발 성능 평가에서 프리뷰 버전보다 'GameDev'에서 19.1%, 'GameLogic'에서 9.8% 점수가 올랐다."
               },
               {
                 "t": "p",
-                "x": "6월 'Unreal Fest 2026'에서는 블루프린트를 UE6 초기 버전에 남겨 두고, Verse 중심 체계가 성숙하면 지원 중단 대상으로 돌리겠다고 했다. 하지만 AI에게는 블루프린트보다 텍스트 기반 코드를 다루는 편이 훨씬 생산적이라는 사실을 확인하고, 2027년 말 출시하는 UE6 개발 환경에서 블루프린트를 빼기로 했다고 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg"
+                "x": "공식 개발 블로그는 Hy4로 만든 3D 드라이빙 시뮬레이터 'Electric Flying Car Climb Test'를 소개하고 있다. 밤의 테스트 코스에서 차를 가속해, 호를 그리며 거의 수직으로 솟는 주로를 어디까지 오를 수 있는지 시험하는 게임이다."
               },
               {
                 "t": "p",
-                "x": "Sweeney는 이 결정이 환영받지 못할 것을 인정하고 블루프린트 폐지에 대해 사과했다. UE5에서 UE6로 옮길 때는 AI를 활용한 변환 수단을 제공한다. Epic Games는 '포트나이트'에서 이를 시험하고 있으며, 수천 개의 블루프린트와 남은 C++ 게임플레이 코드를 Verse로 옮기는 중이다."
+                "x": "Hy4에는 이미지를 읽는 기능과 PC 화면을 조작하는 기능도 더해졌다. 3D 제작 소프트웨어 'Blender'와 설계용 CAD 소프트웨어를 활용한 훈련도 진행했다고 한다. Hy4는 회사의 'Tencent Cloud TokenHub', 'WorkBuddy', 'CodeBuddy' 등에서 쓸 수 있다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "UE6将从一开始\n就废除蓝图",
-          "body": "Epic的斯威尼宣布UE6将从一开始废除蓝图、优先AI，并为此致歉。",
-          "mini_headline": "UE6废除蓝图",
+          "headline": "腾讯新AI“Hy4”\n助力多人游戏开发",
+          "body": "腾讯Hy4借助游戏部门的经验训练，可在Unity等引擎中支持多人游戏开发。",
+          "mini_headline": "腾讯发布Hy4",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Epic Games Japan于2026年11月3日和4日在东京有明的TFT大厅举办了Unreal Engine官方大会“Unreal Fest Tokyo 2026”。在首日主题演讲中登台的Epic Games CEO Tim Sweeney改变了此前的过渡方针，宣布次世代引擎“Unreal Engine 6”将从一开始就废除蓝图（BP），游戏玩法的编写统一使用Verse。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/TN/002.jpg",
-                "cap": "在主题演讲中登台的Epic Games CEO Tim Sweeney"
+                "src": "https://realsound.jp/wp-content/uploads/2026/11/20261105-hy4-99.jpg"
               },
               {
                 "t": "p",
-                "x": "Sweeney将游戏成长为生态系统列为行业的一大趋势。在UE6中，游戏玩法将全部用脚本语言“Verse”编写，引擎部分则继续用C++开发。据介绍，Verse像C#一样易写，又与C++同样强大，在借助AI的游戏开发中将比以往任何语言都更易驾驭。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/018.jpg"
+                "x": "腾讯于11月4日发布大语言模型“Hy4”。据介绍，公司游戏部门的开发者参与了训练数据的筛选与评估，使其能够支持多名玩家同时游玩的游戏的开发实现。"
               },
               {
                 "t": "p",
-                "x": "Epic Games内部已借助AI实现1.5倍至4倍的生产力提升，预计到2026年底至少达到4倍，到2027年中期在许多领域实现10倍改进。开发者可通过MCP服务器或Python脚本接口，将自己喜欢的模型接入Unreal Engine。"
+                "x": "开发中重点打磨了按照游戏规则推进处理的机制，以及追踪游戏过程中不断变化的游戏状态的处理。模型针对Unreal Engine、Unity、Godot等主流游戏引擎进行了调整。据该公司介绍，在游戏开发相关的性能评测中，与预览版相比，“GameDev”得分提升19.1%，“GameLogic”得分提升9.8%。"
               },
               {
                 "t": "p",
-                "x": "在6月的“Unreal Fest 2026”上，官方曾表示蓝图会保留在UE6初始版本中，待以Verse为核心的体系成熟后再弃用。但由于发现对AI而言，处理文本代码远比处理蓝图高效，因此决定从将于2027年底推出的UE6开发环境中移除蓝图。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg"
+                "x": "官方开发博客介绍了使用Hy4制作的3D驾驶模拟器“Electric Flying Car Climb Test”。玩家在夜间测试赛道上让汽车加速，测试它能沿着呈弧形、几乎垂直立起的跑道爬多高。"
               },
               {
                 "t": "p",
-                "x": "Sweeney承认这一决定不会受到欢迎，并就废除蓝图致歉。从UE5迁移到UE6时，将提供借助AI的转换手段。Epic Games正在《堡垒之夜》中试行，把数千个蓝图和剩余的C++游戏玩法代码迁移到Verse。"
+                "x": "Hy4还新增了读取图像和操作PC屏幕的功能，并使用3D制作软件“Blender”及设计用CAD软件进行了训练。Hy4可在该公司的“Tencent Cloud TokenHub”“WorkBuddy”“CodeBuddy”等平台上使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "UE6 elimina los Blueprints\ndesde el inicio",
-          "body": "Sweeney, de Epic, se disculpó por eliminar los Blueprints de UE6 desde el inicio para priorizar la AI.",
-          "mini_headline": "UE6 elimina los Blueprints",
+          "headline": "Hy4, la nueva AI de Tencent,\nayuda con juegos multijugador",
+          "body": "Hy4, de Tencent, aprendió de la experiencia de su división de juegos y apoya el multijugador en Unity y otros motores.",
+          "mini_headline": "Tencent presenta Hy4",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Epic Games Japan celebró los días 3 y 4 de noviembre de 2026 la conferencia oficial de Unreal Engine, Unreal Fest Tokyo 2026, en el TFT Hall de Ariake, Tokio. En la conferencia principal del primer día, el CEO de Epic Games, Tim Sweeney, cambió el plan de transición previsto y anunció que el motor de próxima generación, Unreal Engine 6, prescindirá de los Blueprints (BP) desde el inicio. La programación del gameplay se unificará en Verse."
-              },
-              {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/TN/002.jpg",
-                "cap": "Tim Sweeney, CEO de Epic Games, durante la conferencia principal"
+                "src": "https://realsound.jp/wp-content/uploads/2026/11/20261105-hy4-99.jpg"
               },
               {
                 "t": "p",
-                "x": "Sweeney señaló como gran tendencia del sector que los juegos están creciendo hasta convertirse en ecosistemas. En UE6, todo el gameplay se escribirá en el lenguaje de scripting Verse, mientras que el motor seguirá desarrollándose en C++. Según explicó, Verse es tan fácil de escribir como C#, tan potente como C++ y, en el desarrollo de juegos con AI, más manejable que cualquier lenguaje anterior."
+                "x": "Tencent presentó el 4 de noviembre (11/4) el modelo de lenguaje de gran tamaño \"Hy4\". Desarrolladores de la división de juegos de la compañía colaboraron en la selección y evaluación de los datos de entrenamiento, y ahora el modelo puede ayudar a implementar juegos en los que varios jugadores juegan a la vez, según la empresa."
               },
               {
-                "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/018.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Dentro de Epic Games, la AI ha multiplicado la productividad entre 1.5 y 4 veces, y la empresa prevé al menos 4 veces para finales de 2026 y mejoras de 10 veces en muchas áreas a mediados de 2027. Los desarrolladores pueden conectar el modelo que prefieran a Unreal Engine mediante un servidor MCP o una interfaz de scripts de Python."
-              },
-              {
-                "t": "p",
-                "x": "En Unreal Fest 2026, en junio, se había dicho que los Blueprints se mantendrían en la versión inicial de UE6 y quedarían obsoletos cuando madurara el sistema centrado en Verse. Sin embargo, al comprobar que para la AI es mucho más productivo trabajar con código en texto que con Blueprints, se decidió retirarlos del entorno de desarrollo de UE6, que se lanzará a finales de 2027."
-              },
-              {
-                "t": "img",
-                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Sweeney reconoció que la decisión no será bien recibida y pidió disculpas por la eliminación de los Blueprints. Para la migración de UE5 a UE6 se ofrecerá una herramienta de conversión basada en AI. Epic Games lo está probando en Fortnite, donde traslada a Verse miles de Blueprints y el código de gameplay en C++ que quedaba."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "power-moon-recomp-odyssey",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "클로드로 만든 비공식\n마리오 오디세이 PC판",
-      "body": "개발자는 클로드 코딩 에이전트의 도움을 크게 받아 이 포트를 만들었다고 밝혔다.",
-      "mini_headline": "비공식 오디세이 PC판",
-      "tool": "Games",
-      "source": "게임와이 (Gamey)",
-      "url": "http://www.gamey.kr/news/articleView.html?idxno=3019481",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "닌텐도 스위치 '슈퍼 마리오 오디세이'를 에뮬레이터 없이 PC에서 그대로 실행하는 비공식 포트가 지난 2일 공개됐다. 개발자는 작업 과정에서 AI 코딩 에이전트 '클로드'의 도움을 크게 받았다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "포트 이름은 '파워 문 리컴프(Power Moon Recomp)'다. 개발자 '자라투스트라 데브(Zarathustra Dev)'는 2일 오전 9시(한국시간) 첫 버전 0.1.0을 올렸고, 3일 오후 3시께 0.1.6까지 30시간 남짓 동안 7차례 버전을 냈다. 방식은 정적 재컴파일(static recompilation)로, 스위치용 ARM64 실행 코드를 미리 C 언어로 옮긴 뒤 윈도우·리눅스·맥OS용 일반 프로그램으로 빌드한다."
-          },
-          {
-            "t": "p",
-            "x": "개발자는 저장소 안내문에 \"AI 코딩 에이전트(클로드)의 많은 도움을 받아 만들었고, 사람이 방향을 잡고 테스트했다\"고 적었다. 어떤 클로드 모델을 언제 썼는지는 밝히지 않았다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173278_654.jpg"
-          },
-          {
-            "t": "p",
-            "x": "내부 해상도는 1080p 기준 최대 4배까지 올릴 수 있어 4K 출력이 가능하고, 프레임은 60fps로 고정된다. 게임 파일은 들어 있지 않으며, 이용자가 자기 스위치에서 직접 추출한 1.0.0 버전의 실행 파일과 데이터를 넣어야 한다. 코드는 MIT 라이선스로 공개됐다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173279_5253.jpg"
-          },
-          {
-            "t": "p",
-            "x": "톰스하드웨어는 2일, 앤트로픽 직원 애디 오스마니가 클로드 코드 프롬프트에 '특정 게임 재현'을 막는 문장 두 줄을 넣었다고 확인했다고 보도했다. 파워 문 리컴프는 이용자가 가진 원본 코드를 PC용으로 변환하는 방식인데, 이 작업이 앤트로픽 규칙과 어떤 관계인지는 알려지지 않았다. 닌텐도는 3일 밤까지 공식 입장을 내지 않았다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "클로드로 만든 비공식\n마리오 오디세이 PC판",
-          "body": "개발자는 클로드 코딩 에이전트의 도움을 크게 받아 이 포트를 만들었다고 밝혔다.",
-          "mini_headline": "비공식 오디세이 PC판",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "닌텐도 스위치 '슈퍼 마리오 오디세이'를 에뮬레이터 없이 PC에서 그대로 실행하는 비공식 포트가 지난 2일 공개됐다. 개발자는 작업 과정에서 AI 코딩 에이전트 '클로드'의 도움을 크게 받았다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "포트 이름은 '파워 문 리컴프(Power Moon Recomp)'다. 개발자 '자라투스트라 데브(Zarathustra Dev)'는 2일 오전 9시(한국시간) 첫 버전 0.1.0을 올렸고, 3일 오후 3시께 0.1.6까지 30시간 남짓 동안 7차례 버전을 냈다. 방식은 정적 재컴파일(static recompilation)로, 스위치용 ARM64 실행 코드를 미리 C 언어로 옮긴 뒤 윈도우·리눅스·맥OS용 일반 프로그램으로 빌드한다."
-              },
-              {
-                "t": "p",
-                "x": "개발자는 저장소 안내문에 \"AI 코딩 에이전트(클로드)의 많은 도움을 받아 만들었고, 사람이 방향을 잡고 테스트했다\"고 적었다. 어떤 클로드 모델을 언제 썼는지는 밝히지 않았다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173278_654.jpg"
-              },
-              {
-                "t": "p",
-                "x": "내부 해상도는 1080p 기준 최대 4배까지 올릴 수 있어 4K 출력이 가능하고, 프레임은 60fps로 고정된다. 게임 파일은 들어 있지 않으며, 이용자가 자기 스위치에서 직접 추출한 1.0.0 버전의 실행 파일과 데이터를 넣어야 한다. 코드는 MIT 라이선스로 공개됐다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173279_5253.jpg"
-              },
-              {
-                "t": "p",
-                "x": "톰스하드웨어는 2일, 앤트로픽 직원 애디 오스마니가 클로드 코드 프롬프트에 '특정 게임 재현'을 막는 문장 두 줄을 넣었다고 확인했다고 보도했다. 파워 문 리컴프는 이용자가 가진 원본 코드를 PC용으로 변환하는 방식인데, 이 작업이 앤트로픽 규칙과 어떤 관계인지는 알려지지 않았다. 닌텐도는 3일 밤까지 공식 입장을 내지 않았다."
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "Unofficial Mario Odyssey\nPC port built with Claude",
-          "body": "The developer said the port was built with heavy help from the Claude coding agent.",
-          "mini_headline": "Unofficial Odyssey PC port",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "An unofficial port that runs the Nintendo Switch game Super Mario Odyssey natively on PC without an emulator was released on the 2nd. The developer said they relied heavily on the AI coding agent Claude during the work."
-              },
-              {
-                "t": "p",
-                "x": "The port is called Power Moon Recomp. The developer, Zarathustra Dev, posted the first version, 0.1.0, at 9 a.m. KST on the 2nd, and released 7 versions in a little over 30 hours, reaching 0.1.6 around 3 p.m. on the 3rd. It uses static recompilation: the Switch's ARM64 executable code is translated into the C language ahead of time and then built as a regular program for Windows, Linux and macOS."
-              },
-              {
-                "t": "p",
-                "x": "In the repository's readme, the developer wrote that it was \"built with a lot of help from an AI coding agent (Claude), with a human setting the direction and testing.\" They did not say which Claude model was used or when."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173278_654.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Internal resolution can be raised up to 4x from a 1080p baseline, enabling 4K output, and the frame rate is locked at 60fps. No game files are included; users must supply the executable and data from version 1.0.0, extracted from their own Switch. The code is released under the MIT license."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173279_5253.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Tom's Hardware reported on the 2nd that Anthropic employee Addy Osmani confirmed two lines blocking \"recreating specific games\" had been added to the Claude Code prompt. Power Moon Recomp converts original code that users own into a PC version, and how this work relates to Anthropic's rules is not known. Nintendo had not issued an official statement as of the night of the 3rd."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un Mario Odyssey no oficial\npara PC hecho con Claude",
-          "body": "El desarrollador afirmó que creó esta adaptación con gran ayuda del agente de programación Claude.",
-          "mini_headline": "Odyssey no oficial para PC",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "El día 2 se publicó una adaptación no oficial que ejecuta Super Mario Odyssey, de Nintendo Switch, directamente en PC sin emulador. El desarrollador afirmó que durante el trabajo contó con gran ayuda del agente de programación con AI Claude."
-              },
-              {
-                "t": "p",
-                "x": "La adaptación se llama Power Moon Recomp. El desarrollador, Zarathustra Dev, publicó la primera versión, 0.1.0, a las 9 de la mañana (hora de Corea) del día 2, y lanzó 7 versiones en algo más de 30 horas, hasta la 0.1.6, hacia las 3 de la tarde del día 3. Utiliza recompilación estática (static recompilation): el código ejecutable ARM64 de Switch se traduce previamente a lenguaje C y luego se compila como un programa normal para Windows, Linux y macOS."
-              },
-              {
-                "t": "p",
-                "x": "En la descripción del repositorio, el desarrollador escribió que lo hizo \"con mucha ayuda de un agente de programación con AI (Claude), con una persona marcando la dirección y haciendo las pruebas\". No precisó qué modelo de Claude usó ni cuándo."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173278_654.jpg"
-              },
-              {
-                "t": "p",
-                "x": "La resolución interna puede aumentarse hasta 4 veces sobre una base de 1080p, lo que permite salida en 4K, y la tasa de fotogramas está fijada en 60fps. No incluye archivos del juego: el usuario debe aportar el ejecutable y los datos de la versión 1.0.0 extraídos de su propia Switch. El código se publicó con licencia MIT."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173279_5253.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Tom's Hardware informó el día 2 de que Addy Osmani, empleado de Anthropic, confirmó que se añadieron dos líneas al prompt de Claude Code para impedir \"recrear juegos concretos\". Power Moon Recomp convierte a versión para PC el código original que posee el usuario, y no se sabe cómo se relaciona este trabajo con las normas de Anthropic. Nintendo no se había pronunciado oficialmente hasta la noche del día 3."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Claudeで作った非公式\nマリオ オデッセイPC版",
-          "body": "開発者は、Claudeのコーディングエージェントの大きな助けで移植版を作ったと明かした。",
-          "mini_headline": "非公式オデッセイPC版",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "ニンテンドースイッチ『スーパーマリオ オデッセイ』をエミュレーターなしでPC上でそのまま動かす非公式の移植版が、2日に公開された。開発者は、作業の過程でAIコーディングエージェント「Claude」に大きく助けられたと明かした。"
-              },
-              {
-                "t": "p",
-                "x": "移植版の名前は「Power Moon Recomp」だ。開発者「Zarathustra Dev」は2日午前9時（韓国時間）に最初のバージョン0.1.0を公開し、3日午後3時ごろの0.1.6まで、30時間あまりで7回バージョンを出した。手法は静的再コンパイル（static recompilation）で、スイッチ向けのARM64実行コードをあらかじめC言語に移し、Windows・Linux・macOS向けの通常のプログラムとしてビルドする。"
-              },
-              {
-                "t": "p",
-                "x": "開発者はリポジトリの説明文に「AIコーディングエージェント（Claude）の多大な助けを借りて作り、人間が方向を定めてテストした」と記した。どのClaudeモデルをいつ使ったかは明らかにしていない。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173278_654.jpg"
-              },
-              {
-                "t": "p",
-                "x": "内部解像度は1080pを基準に最大4倍まで引き上げられるため、4K 出力が可能で、フレームレートは60fpsに固定される。ゲームファイルは含まれておらず、利用者が自分のスイッチから自ら抽出したバージョン1.0.0の実行ファイルとデータを入れる必要がある。コードはMITライセンスで公開された。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173279_5253.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Tom's Hardwareは2日、Anthropic社員のアディ・オスマニ氏がClaude Codeのプロンプトに「特定ゲームの再現」を防ぐ二行の文を加えたことを確認したと報じた。Power Moon Recompは利用者が持つオリジナルのコードをPC向けに変換する方式だが、この作業がAnthropicの規則とどう関係するかは分かっていない。任天堂は3日夜までに公式見解を出していない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "用Claude打造的非官方\n马里奥奥德赛PC版",
-          "body": "开发者表示，这款移植版是在Claude编程智能体的大力帮助下完成的。",
-          "mini_headline": "非官方奥德赛PC版",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "一款无需模拟器即可在PC上直接运行任天堂Switch《超级马里奥 奥德赛》的非官方移植版于2日公开。开发者表示，开发过程中得到了AI编程智能体“Claude”的大力帮助。"
-              },
-              {
-                "t": "p",
-                "x": "该移植版名为“Power Moon Recomp”。开发者“Zarathustra Dev”于2日上午9时（韩国时间）发布首个版本0.1.0，到3日下午3时左右的0.1.6为止，在30多个小时内共发布了7个版本。其方式为静态重编译（static recompilation），即先将Switch的ARM64可执行代码转换为C语言，再构建为面向Windows、Linux、macOS的普通程序。"
-              },
-              {
-                "t": "p",
-                "x": "开发者在代码库说明中写道：“在AI编程智能体（Claude）的大量帮助下完成，由人类把握方向并进行测试。”但未说明何时使用了哪款Claude模型。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173278_654.jpg"
-              },
-              {
-                "t": "p",
-                "x": "内部分辨率最高可在1080p基础上提升至4倍，支持4K 输出，帧率锁定为60fps。移植版不包含游戏文件，用户需放入从自己的Switch中自行提取的1.0.0版本可执行文件和数据。代码以MIT许可证公开。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173279_5253.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Tom's Hardware于2日报道，已证实Anthropic员工阿迪·奥斯马尼在Claude Code的提示词中加入了两行阻止“重现特定游戏”的句子。Power Moon Recomp是将用户自有的原始代码转换为PC版本的方式，但这一做法与Anthropic规则有何关系尚不清楚。截至3日晚，任天堂尚未发表官方立场。"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "Unofficial Mario Odyssey\nPC port built with Claude",
-          "body": "The developer said the port was built with heavy help from the Claude coding agent.",
-          "mini_headline": "Unofficial Odyssey PC port",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "An unofficial port that runs the Nintendo Switch game Super Mario Odyssey natively on PC without an emulator was released on the 2nd. The developer said they relied heavily on the AI coding agent Claude during the work."
-              },
-              {
-                "t": "p",
-                "x": "The port is called Power Moon Recomp. The developer, Zarathustra Dev, posted the first version, 0.1.0, at 9 a.m. KST on the 2nd, and released 7 versions in a little over 30 hours, reaching 0.1.6 around 3 p.m. on the 3rd. It uses static recompilation: the Switch's ARM64 executable code is translated into the C language ahead of time and then built as a regular program for Windows, Linux and macOS."
-              },
-              {
-                "t": "p",
-                "x": "In the repository's readme, the developer wrote that it was \"built with a lot of help from an AI coding agent (Claude), with a human setting the direction and testing.\" They did not say which Claude model was used or when."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173278_654.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Internal resolution can be raised up to 4x from a 1080p baseline, enabling 4K output, and the frame rate is locked at 60fps. No game files are included; users must supply the executable and data from version 1.0.0, extracted from their own Switch. The code is released under the MIT license."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173279_5253.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Tom's Hardware reported on the 2nd that Anthropic employee Addy Osmani confirmed two lines blocking \"recreating specific games\" had been added to the Claude Code prompt. Power Moon Recomp converts original code that users own into a PC version, and how this work relates to Anthropic's rules is not known. Nintendo had not issued an official statement as of the night of the 3rd."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un Mario Odyssey no oficial\npara PC hecho con Claude",
-          "body": "El desarrollador afirmó que creó esta adaptación con gran ayuda del agente de programación Claude.",
-          "mini_headline": "Odyssey no oficial para PC",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "El día 2 se publicó una adaptación no oficial que ejecuta Super Mario Odyssey, de Nintendo Switch, directamente en PC sin emulador. El desarrollador afirmó que durante el trabajo contó con gran ayuda del agente de programación con AI Claude."
-              },
-              {
-                "t": "p",
-                "x": "La adaptación se llama Power Moon Recomp. El desarrollador, Zarathustra Dev, publicó la primera versión, 0.1.0, a las 9 de la mañana (hora de Corea) del día 2, y lanzó 7 versiones en algo más de 30 horas, hasta la 0.1.6, hacia las 3 de la tarde del día 3. Utiliza recompilación estática (static recompilation): el código ejecutable ARM64 de Switch se traduce previamente a lenguaje C y luego se compila como un programa normal para Windows, Linux y macOS."
-              },
-              {
-                "t": "p",
-                "x": "En la descripción del repositorio, el desarrollador escribió que lo hizo \"con mucha ayuda de un agente de programación con AI (Claude), con una persona marcando la dirección y haciendo las pruebas\". No precisó qué modelo de Claude usó ni cuándo."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173278_654.jpg"
-              },
-              {
-                "t": "p",
-                "x": "La resolución interna puede aumentarse hasta 4 veces sobre una base de 1080p, lo que permite salida en 4K, y la tasa de fotogramas está fijada en 60fps. No incluye archivos del juego: el usuario debe aportar el ejecutable y los datos de la versión 1.0.0 extraídos de su propia Switch. El código se publicó con licencia MIT."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173279_5253.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Tom's Hardware informó el día 2 de que Addy Osmani, empleado de Anthropic, confirmó que se añadieron dos líneas al prompt de Claude Code para impedir \"recrear juegos concretos\". Power Moon Recomp convierte a versión para PC el código original que posee el usuario, y no se sabe cómo se relaciona este trabajo con las normas de Anthropic. Nintendo no se había pronunciado oficialmente hasta la noche del día 3."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Claudeで作った非公式\nマリオ オデッセイPC版",
-          "body": "開発者は、Claudeのコーディングエージェントの大きな助けで移植版を作ったと明かした。",
-          "mini_headline": "非公式オデッセイPC版",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "ニンテンドースイッチ『スーパーマリオ オデッセイ』をエミュレーターなしでPC上でそのまま動かす非公式の移植版が、2日に公開された。開発者は、作業の過程でAIコーディングエージェント「Claude」に大きく助けられたと明かした。"
-              },
-              {
-                "t": "p",
-                "x": "移植版の名前は「Power Moon Recomp」だ。開発者「Zarathustra Dev」は2日午前9時（韓国時間）に最初のバージョン0.1.0を公開し、3日午後3時ごろの0.1.6まで、30時間あまりで7回バージョンを出した。手法は静的再コンパイル（static recompilation）で、スイッチ向けのARM64実行コードをあらかじめC言語に移し、Windows・Linux・macOS向けの通常のプログラムとしてビルドする。"
-              },
-              {
-                "t": "p",
-                "x": "開発者はリポジトリの説明文に「AIコーディングエージェント（Claude）の多大な助けを借りて作り、人間が方向を定めてテストした」と記した。どのClaudeモデルをいつ使ったかは明らかにしていない。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173278_654.jpg"
-              },
-              {
-                "t": "p",
-                "x": "内部解像度は1080pを基準に最大4倍まで引き上げられるため、4K 出力が可能で、フレームレートは60fpsに固定される。ゲームファイルは含まれておらず、利用者が自分のスイッチから自ら抽出したバージョン1.0.0の実行ファイルとデータを入れる必要がある。コードはMITライセンスで公開された。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173279_5253.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Tom's Hardwareは2日、Anthropic社員のアディ・オスマニ氏がClaude Codeのプロンプトに「特定ゲームの再現」を防ぐ二行の文を加えたことを確認したと報じた。Power Moon Recompは利用者が持つオリジナルのコードをPC向けに変換する方式だが、この作業がAnthropicの規則とどう関係するかは分かっていない。任天堂は3日夜までに公式見解を出していない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "用Claude打造的非官方\n马里奥奥德赛PC版",
-          "body": "开发者表示，这款移植版是在Claude编程智能体的大力帮助下完成的。",
-          "mini_headline": "非官方奥德赛PC版",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "一款无需模拟器即可在PC上直接运行任天堂Switch《超级马里奥 奥德赛》的非官方移植版于2日公开。开发者表示，开发过程中得到了AI编程智能体“Claude”的大力帮助。"
-              },
-              {
-                "t": "p",
-                "x": "该移植版名为“Power Moon Recomp”。开发者“Zarathustra Dev”于2日上午9时（韩国时间）发布首个版本0.1.0，到3日下午3时左右的0.1.6为止，在30多个小时内共发布了7个版本。其方式为静态重编译（static recompilation），即先将Switch的ARM64可执行代码转换为C语言，再构建为面向Windows、Linux、macOS的普通程序。"
-              },
-              {
-                "t": "p",
-                "x": "开发者在代码库说明中写道：“在AI编程智能体（Claude）的大量帮助下完成，由人类把握方向并进行测试。”但未说明何时使用了哪款Claude模型。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173278_654.jpg"
-              },
-              {
-                "t": "p",
-                "x": "内部分辨率最高可在1080p基础上提升至4倍，支持4K 输出，帧率锁定为60fps。移植版不包含游戏文件，用户需放入从自己的Switch中自行提取的1.0.0版本可执行文件和数据。代码以MIT许可证公开。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173279_5253.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Tom's Hardware于2日报道，已证实Anthropic员工阿迪·奥斯马尼在Claude Code的提示词中加入了两行阻止“重现特定游戏”的句子。Power Moon Recomp是将用户自有的原始代码转换为PC版本的方式，但这一做法与Anthropic规则有何关系尚不清楚。截至3日晚，任天堂尚未发表官方立场。"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "wow-forever-addon-slop",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "CurseForge에 AI\nWoW Forever 범람",
-      "body": "CurseForge의 WoW Forever를 AI-made 유사 애드온이 덮쳤다.",
-      "mini_headline": "WoW 애드온에 AI slop",
-      "tool": "Games",
-      "source": "Destructoid",
-      "url": "https://www.destructoid.com/best-wow-forever-add-ons-to-avoid-ai-slop/",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "World of Warcraft: Forever는 좋았던 그 시절의 Azeroth로 돌아가는 길이다. CurseForge에서 이달의 최고 애드온을 뒤지는 일만큼 '그 시절'다운 것도 없다. 그런데 요즘은 World of Warcraft: Forever용 AI 애드온이 일반 애드온만큼 흔하다."
-          },
-          {
-            "t": "p",
-            "x": "AI로 만들었거나 AI의 도움을 받았다고 해서 모두 AI slop은 아니다. 다만 제대로 된 테스트가 부족하기 쉽고 유지보수도 장담할 수 없다. 보안 위험이 있을 수 있고, Blizzard TOS를 어기지 않는다는 보장도 없다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-questie.png?resize=1024%2C640",
-            "cap": "Questie"
-          },
-          {
-            "t": "p",
-            "x": "수작업으로 만든 대안으로는 완료한 퀘스트와 수행 가능한 퀘스트를 한눈에 보여 주도록 지도를 강화하는 Questie, 대화 선택지에 역동성을 조금 더해 주는 Dialogue UI가 있다. DialogKey – Numy Edition, What’s Training?, Enhance QoL도 목록에 올랐다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-dialogueUI.png?resize=1024%2C640",
-            "cap": "Dialogue UI"
-          },
-          {
-            "t": "p",
-            "x": "CurseForge의 WoW: Forever 페이지에서 생성일 순으로 정렬하면 몇 번 새로고침할 때마다 새 프로젝트가 튀어나온다. 정직한 제작자 일부는 설명란에 AI를 썼다고 밝히지만 상당수는 그러지 않는다. u/blukraken은 \"내게 문제는 AI가 만들었다는 게 아니다. 이 사람과 다른 15명이 똑같은 애드온을 조금씩 다르게 만들었다는 것이다\"라고 썼다."
-          },
-          {
-            "t": "p",
-            "x": "World of Warcraft: Forever는 2026년 11월 4일 출시된다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "AI slop floods WoW Forever\nadd-ons on CurseForge",
-          "body": "AI-made near-duplicate add-ons are flooding CurseForge for WoW Forever, so Destructoid recommends handcrafted ones.",
-          "mini_headline": "AI slop hits WoW add-ons",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "World of Warcraft: Forever marks our return to Azeroth in the good ol’ days, and nothing says “good ol’ days” better than hopping into CurseForge to look for this month’s best add-ons. Except nowadays, World of Warcraft: Forever AI add-ons are just as common as regular ones."
-              },
-              {
-                "t": "p",
-                "x": "Of course, not all add-ons made with (or with the help of) AI are automatically AI slop. But the risks include lack of proper testing, no guaranteed maintenance, potential security risks, and no guarantee that it doesn’t break Blizzard TOS."
-              },
-              {
-                "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-questie.png?resize=1024%2C640",
-                "cap": "Questie"
-              },
-              {
-                "t": "p",
-                "x": "Handcrafted alternatives include Questie, which enhances the map with an overview of completed and available quests, and Dialogue UI, which adds a touch more dynamism to dialogue options. DialogKey – Numy Edition, What’s Training? and Enhance QoL round out the list."
-              },
-              {
-                "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-dialogueUI.png?resize=1024%2C640",
-                "cap": "Dialogue UI"
-              },
-              {
-                "t": "p",
-                "x": "You can go to the WoW: Forever page at CurseForge, sort by creation date, and you’ll see new projects pop out every few refreshes. Some honest creators include AI disclosures in the descriptions, but many don’t. “For me, it isn’t that AI made it. It’s that this person and 15 others have made slightly different variations of the exact same addon,” u/blukraken wrote."
-              },
-              {
-                "t": "p",
-                "x": "World of Warcraft: Forever launches on November 4, 2026."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "CurseForge에 AI\nWoW Forever 범람",
-          "body": "CurseForge의 WoW Forever를 AI-made 유사 애드온이 덮쳤다.",
-          "mini_headline": "WoW 애드온에 AI slop",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "World of Warcraft: Forever는 좋았던 그 시절의 Azeroth로 돌아가는 길이다. CurseForge에서 이달의 최고 애드온을 뒤지는 일만큼 '그 시절'다운 것도 없다. 그런데 요즘은 World of Warcraft: Forever용 AI 애드온이 일반 애드온만큼 흔하다."
-              },
-              {
-                "t": "p",
-                "x": "AI로 만들었거나 AI의 도움을 받았다고 해서 모두 AI slop은 아니다. 다만 제대로 된 테스트가 부족하기 쉽고 유지보수도 장담할 수 없다. 보안 위험이 있을 수 있고, Blizzard TOS를 어기지 않는다는 보장도 없다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-questie.png?resize=1024%2C640",
-                "cap": "Questie"
-              },
-              {
-                "t": "p",
-                "x": "수작업으로 만든 대안으로는 완료한 퀘스트와 수행 가능한 퀘스트를 한눈에 보여 주도록 지도를 강화하는 Questie, 대화 선택지에 역동성을 조금 더해 주는 Dialogue UI가 있다. DialogKey – Numy Edition, What’s Training?, Enhance QoL도 목록에 올랐다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-dialogueUI.png?resize=1024%2C640",
-                "cap": "Dialogue UI"
-              },
-              {
-                "t": "p",
-                "x": "CurseForge의 WoW: Forever 페이지에서 생성일 순으로 정렬하면 몇 번 새로고침할 때마다 새 프로젝트가 튀어나온다. 정직한 제작자 일부는 설명란에 AI를 썼다고 밝히지만 상당수는 그러지 않는다. u/blukraken은 \"내게 문제는 AI가 만들었다는 게 아니다. 이 사람과 다른 15명이 똑같은 애드온을 조금씩 다르게 만들었다는 것이다\"라고 썼다."
-              },
-              {
-                "t": "p",
-                "x": "World of Warcraft: Forever는 2026년 11월 4일 출시된다."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La AI slop inunda los add-ons\nde WoW Forever en CurseForge",
-          "body": "Los add-ons AI-made casi idénticos inundan CurseForge para WoW Forever, y Destructoid recomienda opciones artesanales.",
-          "mini_headline": "La AI slop llega a los add-ons de WoW",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "World of Warcraft: Forever supone nuestro regreso a la Azeroth de los buenos tiempos, y nada evoca tanto \"los buenos tiempos\" como entrar en CurseForge a buscar los mejores add-ons del mes. Salvo que hoy en día los add-ons con AI para World of Warcraft: Forever son tan comunes como los normales."
-              },
-              {
-                "t": "p",
-                "x": "Por supuesto, no todos los add-ons hechos con AI (o con su ayuda) son automáticamente AI slop. Pero los riesgos incluyen la falta de pruebas adecuadas, la ausencia de mantenimiento garantizado, posibles riesgos de seguridad y ninguna garantía de que no incumplan los Blizzard TOS."
-              },
-              {
-                "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-questie.png?resize=1024%2C640",
-                "cap": "Questie"
-              },
-              {
-                "t": "p",
-                "x": "Entre las alternativas artesanales están Questie, que mejora el mapa con un resumen de las misiones completadas y disponibles, y Dialogue UI, que da algo más de dinamismo a las opciones de diálogo. DialogKey – Numy Edition, What’s Training? y Enhance QoL completan la lista."
-              },
-              {
-                "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-dialogueUI.png?resize=1024%2C640",
-                "cap": "Dialogue UI"
-              },
-              {
-                "t": "p",
-                "x": "Si se entra en la página de WoW: Forever en CurseForge y se ordena por fecha de creación, aparecen proyectos nuevos cada pocas actualizaciones. Algunos creadores honestos incluyen avisos sobre AI en las descripciones, pero muchos no. \"Para mí, el problema no es que lo haya hecho una AI. Es que esta persona y otras 15 han hecho variaciones ligeramente distintas del mismo addon\", escribió u/blukraken."
-              },
-              {
-                "t": "p",
-                "x": "World of Warcraft: Forever se lanza el 4 de noviembre de 2026."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "CurseForgeに\nAI製WoWアドオン氾濫",
-          "body": "CurseForgeでAI製の類似アドオンが氾濫、Destructoidは手作り品を推す。",
-          "mini_headline": "WoWアドオンにAI slop",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "World of Warcraft: Foreverは古き良き時代のAzerothへの帰還であり、「古き良き時代」らしさといえば、CurseForgeで今月のおすすめadd-ons（アドオン）を探すことに尽きる。ただし今では、World of Warcraft: ForeverのAI製（AI-made）アドオンが通常のものと同じくらいありふれている。"
-              },
-              {
-                "t": "p",
-                "x": "もちろん、AIで（あるいはAIの助けを借りて）作られたアドオンがすべて自動的にAI slopというわけではない。だがリスクとして、十分なテストの欠如、保守の保証がないこと、潜在的なセキュリティリスク、そしてBlizzard TOSに違反しない保証がないことが挙げられる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-questie.png?resize=1024%2C640",
-                "cap": "Questie"
-              },
-              {
-                "t": "p",
-                "x": "手作りの代替としては、完了済みと受注可能なクエストの概要でマップを強化するQuestieや、会話の選択肢に少し動きを加えるDialogue UIがある。DialogKey – Numy Edition、What’s Training?、Enhance QoLがリストを締めくくる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-dialogueUI.png?resize=1024%2C640",
-                "cap": "Dialogue UI"
-              },
-              {
-                "t": "p",
-                "x": "CurseForgeのWoW: Foreverページで作成日順に並べ替えれば、数回更新するたびに新しいプロジェクトが現れるのがわかる。誠実な制作者の中には説明欄にAIの使用を明記する者もいるが、多くはそうしていない。「私にとって問題はAIが作ったことではない。この人と他の15人が、まったく同じアドオンのわずかに異なるバリエーションを作っていることだ」とu/blukrakenは書いた。"
-              },
-              {
-                "t": "p",
-                "x": "World of Warcraft: Foreverは2026年11月4日（November 4, 2026）に配信開始となる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "CurseForge上\nWoW插件遭AI垃圾淹没",
-          "body": "CurseForge上WoW的AI制近似插件泛滥，Destructoid推荐手工之作。",
-          "mini_headline": "AI slop冲击WoW插件",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "World of Warcraft: Forever让我们重返旧日美好时光里的Azeroth，而最能体现“旧日美好时光”的，莫过于跳进CurseForge寻找本月最佳add-ons（插件）。只是如今，World of Warcraft: Forever的AI制作（AI-made）插件已和普通插件一样常见。"
-              },
-              {
-                "t": "p",
-                "x": "当然，并非所有用AI（或借助AI）制作的插件都自动算作AI slop。但其风险包括缺乏充分测试、没有维护保障、潜在的安全风险，以及无法保证不违反Blizzard TOS。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-questie.png?resize=1024%2C640",
-                "cap": "Questie"
-              },
-              {
-                "t": "p",
-                "x": "手工制作的替代品包括Questie，它在地图上概览已完成和可接取的任务；以及Dialogue UI，它为对话选项增添了几分动感。DialogKey – Numy Edition、What’s Training?和Enhance QoL也在推荐之列。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-dialogueUI.png?resize=1024%2C640",
-                "cap": "Dialogue UI"
-              },
-              {
-                "t": "p",
-                "x": "前往CurseForge上的WoW: Forever页面，按创建日期排序，每刷新几次就会看到新项目冒出来。一些诚实的创作者会在描述中注明使用了AI，但很多人没有。“对我来说，问题不在于AI做了它，而在于这个人和另外15个人做出了同一个插件的略有不同的变体，”u/blukraken写道。"
-              },
-              {
-                "t": "p",
-                "x": "World of Warcraft: Forever将于2026年11月4日（November 4, 2026）上线。"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "CurseForge에 AI\nWoW Forever 범람",
-          "body": "AI-made 유사 애드온이 CurseForge의 WoW Forever를 뒤덮었다.",
-          "mini_headline": "WoW 애드온에 AI slop",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "World of Warcraft: Forever는 좋았던 그 시절의 Azeroth로 돌아가는 길이고, CurseForge에 들어가 이달의 최고 애드온을 찾아보는 일만큼 '그 시절'다운 것도 없다. 그런데 요즘은 World of Warcraft: Forever용 AI 애드온이 일반 애드온만큼 흔하다."
-              },
-              {
-                "t": "p",
-                "x": "물론 AI로 만들었거나 AI의 도움을 받은 애드온이 모두 곧바로 AI slop인 것은 아니다. 하지만 제대로 된 테스트가 부족하고, 유지보수가 보장되지 않으며, 보안 위험이 있을 수 있고, Blizzard TOS를 어기지 않는다는 보장도 없다는 위험이 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-questie.png?resize=1024%2C640",
-                "cap": "Questie"
-              },
-              {
-                "t": "p",
-                "x": "수작업으로 만든 대안으로는 완료한 퀘스트와 수행 가능한 퀘스트를 한눈에 보여 주도록 지도를 강화하는 Questie, 대화 선택지에 역동성을 조금 더해 주는 Dialogue UI가 있다. DialogKey – Numy Edition, What’s Training?, Enhance QoL도 목록에 올랐다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-dialogueUI.png?resize=1024%2C640",
-                "cap": "Dialogue UI"
-              },
-              {
-                "t": "p",
-                "x": "CurseForge의 WoW: Forever 페이지에서 생성일 순으로 정렬하면 몇 번 새로고침할 때마다 새 프로젝트가 튀어나온다. 일부 정직한 제작자는 설명에 AI 사용 사실을 밝히지만, 많은 제작자는 그러지 않는다. u/blukraken은 \"내게 문제는 AI가 만들었다는 게 아니다. 이 사람과 다른 15명이 똑같은 애드온을 조금씩 다르게 만들었다는 것이다\"라고 썼다."
-              },
-              {
-                "t": "p",
-                "x": "World of Warcraft: Forever는 2026년 11월 4일 출시된다."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La AI slop inunda los add-ons\nde WoW Forever en CurseForge",
-          "body": "Los add-ons AI-made casi idénticos inundan CurseForge para WoW Forever, y Destructoid recomienda opciones artesanales.",
-          "mini_headline": "La AI slop llega a los add-ons de WoW",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "World of Warcraft: Forever supone nuestro regreso a la Azeroth de los buenos tiempos, y nada evoca tanto \"los buenos tiempos\" como entrar en CurseForge a buscar los mejores add-ons del mes. Salvo que hoy en día los add-ons con AI para World of Warcraft: Forever son tan comunes como los normales."
-              },
-              {
-                "t": "p",
-                "x": "Por supuesto, no todos los add-ons hechos con AI (o con su ayuda) son automáticamente AI slop. Pero los riesgos incluyen la falta de pruebas adecuadas, la ausencia de mantenimiento garantizado, posibles riesgos de seguridad y ninguna garantía de que no incumplan los Blizzard TOS."
-              },
-              {
-                "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-questie.png?resize=1024%2C640",
-                "cap": "Questie"
-              },
-              {
-                "t": "p",
-                "x": "Entre las alternativas artesanales están Questie, que mejora el mapa con un resumen de las misiones completadas y disponibles, y Dialogue UI, que da algo más de dinamismo a las opciones de diálogo. DialogKey – Numy Edition, What’s Training? y Enhance QoL completan la lista."
-              },
-              {
-                "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-dialogueUI.png?resize=1024%2C640",
-                "cap": "Dialogue UI"
-              },
-              {
-                "t": "p",
-                "x": "Si se entra en la página de WoW: Forever en CurseForge y se ordena por fecha de creación, aparecen proyectos nuevos cada pocas actualizaciones. Algunos creadores honestos incluyen avisos sobre AI en las descripciones, pero muchos no. \"Para mí, el problema no es que lo haya hecho una AI. Es que esta persona y otras 15 han hecho variaciones ligeramente distintas del mismo addon\", escribió u/blukraken."
-              },
-              {
-                "t": "p",
-                "x": "World of Warcraft: Forever se lanza el 4 de noviembre de 2026."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "CurseForgeに\nAI製WoWアドオン氾濫",
-          "body": "CurseForgeでAI製の類似アドオンが氾濫、Destructoidは手作り品を推す。",
-          "mini_headline": "WoWアドオンにAI slop",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "World of Warcraft: Foreverは古き良き時代のAzerothへの帰還であり、「古き良き時代」らしさといえば、CurseForgeで今月のおすすめadd-ons（アドオン）を探すことに尽きる。ただし今では、World of Warcraft: ForeverのAI製（AI-made）アドオンが通常のものと同じくらいありふれている。"
-              },
-              {
-                "t": "p",
-                "x": "もちろん、AIで（あるいはAIの助けを借りて）作られたアドオンがすべて自動的にAI slopというわけではない。だがリスクとして、十分なテストの欠如、保守の保証がないこと、潜在的なセキュリティリスク、そしてBlizzard TOSに違反しない保証がないことが挙げられる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-questie.png?resize=1024%2C640",
-                "cap": "Questie"
-              },
-              {
-                "t": "p",
-                "x": "手作りの代替としては、完了済みと受注可能なクエストの概要でマップを強化するQuestieや、会話の選択肢に少し動きを加えるDialogue UIがある。DialogKey – Numy Edition、What’s Training?、Enhance QoLがリストを締めくくる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-dialogueUI.png?resize=1024%2C640",
-                "cap": "Dialogue UI"
-              },
-              {
-                "t": "p",
-                "x": "CurseForgeのWoW: Foreverページで作成日順に並べ替えれば、数回更新するたびに新しいプロジェクトが現れるのがわかる。誠実な制作者の中には説明欄にAIの使用を明記する者もいるが、多くはそうしていない。「私にとって問題はAIが作ったことではない。この人と他の15人が、まったく同じアドオンのわずかに異なるバリエーションを作っていることだ」とu/blukrakenは書いた。"
-              },
-              {
-                "t": "p",
-                "x": "World of Warcraft: Foreverは2026年11月4日（November 4, 2026）に配信開始となる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "CurseForge上\nWoW插件遭AI垃圾淹没",
-          "body": "CurseForge上WoW的AI制近似插件泛滥，Destructoid推荐手工之作。",
-          "mini_headline": "AI slop冲击WoW插件",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "World of Warcraft: Forever让我们重返旧日美好时光里的Azeroth，而最能体现“旧日美好时光”的，莫过于跳进CurseForge寻找本月最佳add-ons（插件）。只是如今，World of Warcraft: Forever的AI制作（AI-made）插件已和普通插件一样常见。"
-              },
-              {
-                "t": "p",
-                "x": "当然，并非所有用AI（或借助AI）制作的插件都自动算作AI slop。但其风险包括缺乏充分测试、没有维护保障、潜在的安全风险，以及无法保证不违反Blizzard TOS。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-questie.png?resize=1024%2C640",
-                "cap": "Questie"
-              },
-              {
-                "t": "p",
-                "x": "手工制作的替代品包括Questie，它在地图上概览已完成和可接取的任务；以及Dialogue UI，它为对话选项增添了几分动感。DialogKey – Numy Edition、What’s Training?和Enhance QoL也在推荐之列。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-dialogueUI.png?resize=1024%2C640",
-                "cap": "Dialogue UI"
-              },
-              {
-                "t": "p",
-                "x": "前往CurseForge上的WoW: Forever页面，按创建日期排序，每刷新几次就会看到新项目冒出来。一些诚实的创作者会在描述中注明使用了AI，但很多人没有。“对我来说，问题不在于AI做了它，而在于这个人和另外15个人做出了同一个插件的略有不同的变体，”u/blukraken写道。"
-              },
-              {
-                "t": "p",
-                "x": "World of Warcraft: Forever将于2026年11月4日（November 4, 2026）上线。"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "yc-olam-minecraft-agents",
-      "source_lang": "ja",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 50명의 마크 문명은\n겁 많은 관료 사회로",
-      "body": "YC와 Olam Labs가 마크에 넣은 AI 50명은 겁 많은 관료제를 세웠다.",
-      "mini_headline": "마크 AI 문명은 관료제",
-      "tool": "Games",
-      "source": "AUTOMATON",
-      "url": "https://automaton-media.com/articles/newsjp/20261102-477130/",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Y Combinator와 Olam Labs는 10월 30일 다수 AI 에이전트의 행동을 다룬 연구 'Agents in Games'를 공개했다. AI 에이전트 50개를 '마인크래프트'에 풀어놓자 관료주의 같은 상태에 빠졌다는 내용이다."
-          },
-          {
-            "t": "img",
-            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-002-1080x608.jpg"
-          },
-          {
-            "t": "p",
-            "x": "'Civ50'이라는 실험에서는 GPT-6.1 Sol 에이전트 50개를 '마인크래프트'에 투입하고 \"번영하는 문명을 세워라\"라는 대략적인 지시만 내렸다. 에이전트 명단 맨 앞에 있던 Ada가 사실상 리더가 됐고 위계도 명단 순서대로 짜였다."
-          },
-          {
-            "t": "p",
-            "x": "그런데 첫날 밤 좀비 등 몬스터가 습격해 첫날에만 22명이 죽었고, 이후 에이전트들은 점점 위험을 피하려 들었다. Ada는 \"밝고 닫힌 대피소 안에서 대기하라\"고 계획을 고쳤다."
-          },
-          {
-            "t": "img",
-            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-003-1080x608.jpg"
-          },
-          {
-            "t": "p",
-            "x": "음식을 던져 건네다 다른 에이전트가 실수로 먹어 버린 '사건' 뒤에는 '비난 없는' 경위 조사가 3분간 진행됐고, 음식은 이름이 붙은 상자에 넣어 건넨다는 절차까지 문서로 남았다. 3시간가량 이어진 실험에서는 4명이 11분을 들여 '뼛가루 단 1개를 비료로 뿌리는 담당'을 임명하는 등 '관청식 집단'이 생겨났다고 한다."
-          },
-          {
-            "t": "p",
-            "x": "'Agents in Games'에서는 이 밖에도 GPT-6.1 Sol과 Claude Opus 5.5 에이전트 각 10개가 맞붙는 'Bed Wars' 등의 실험이 진행됐다."
-          }
-        ]
-      },
-      "text": {
-        "ja": {
-          "headline": "AI 50体のマイクラ文明は\n臆病な官僚社会に",
-          "body": "YCとOlam LabsがAI 50体にマイクラで文明を築かせると、臆病な官僚制が生まれた。",
-          "mini_headline": "マイクラAI文明は官僚制",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Y CombinatorおよびOlam Labsは10月30日、多数のAIエージェントの振る舞いについての研究「Agents in Games」を公開した。同研究では50体のAIエージェントを『マインクラフト』に投入したところ、官僚主義のような状態に陥ってしまったことが報告されている。"
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-002-1080x608.jpg"
-              },
-              {
-                "t": "p",
-                "x": "「Civ50」と題された実験では、GPT-6.1 Solのエージェント50体を『マインクラフト』内に投入、「繁栄した文明を築け」という大雑把な指令だけを与えた。エージェント名簿の最初にあるAdaが事実上のリーダーになり、名簿の順番に基づいて階層構造が作られたという。"
-              },
-              {
-                "t": "p",
-                "x": "ところが最初の夜、ゾンビなどのモンスターの襲撃で初日だけで22名もの死者を出し、リスクを回避する傾向が強まっていった。Adaは「明るく閉鎖されたシェルター内で待機せよ」と計画を修正した。"
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-003-1080x608.jpg"
-              },
-              {
-                "t": "p",
-                "x": "食料を投げて渡す際に別のエージェントが誤って食べてしまう「事件」の後には、“非難なしの”追及が3分間おこなわれ、食料は名前の付いた箱に入れて渡す手順が文書化された。実験は3時間ほど続けられたが、4人で11分かけて「たった1つの骨粉を肥料として撒く係」を任命するなど、“お役所仕事集団”ができあがったとのことだ。"
-              },
-              {
-                "t": "p",
-                "x": "「Agents in Games」ではほかにも、GPT-6.1 SolとClaude Opus 5.5のエージェント各10体が対戦する「Bed Wars」などの実験がおこなわれた。"
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "Minecraft civ of 50 AI agents\nturns into timid bureaucracy",
-          "body": "YC and Olam Labs had 50 AI agents build a civilization in Minecraft, and a timid bureaucracy emerged.",
-          "mini_headline": "Minecraft AI civ turns bureaucratic",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Y Combinator and Olam Labs on October 30 released \"Agents in Games,\" a study on how large numbers of AI agents behave. The study reports that when 50 AI agents were placed in Minecraft, they slipped into something resembling bureaucracy."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-002-1080x608.jpg"
-              },
-              {
-                "t": "p",
-                "x": "In an experiment titled \"Civ50,\" 50 GPT-6.1 Sol agents were placed in Minecraft and given only a loose instruction: \"Build a thriving civilization.\" Ada, first on the agent roster, became the de facto leader, and a hierarchy formed based on roster order."
-              },
-              {
-                "t": "p",
-                "x": "But on the first night, attacks by zombies and other monsters killed as many as 22 on the first day alone, and the agents grew increasingly risk-averse. Ada revised the plan: \"Wait inside a bright, enclosed shelter.\""
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-003-1080x608.jpg"
-              },
-              {
                 "t": "p",
-                "x": "After an \"incident\" in which food tossed to one agent was eaten by mistake by another, a 3-minute \"blameless\" review followed, and a procedure for handing over food in named chests was documented. The experiment ran for about 3 hours and produced a \"bureaucratic collective\" in which, among other things, 4 agents spent 11 minutes appointing \"an officer in charge of spreading just 1 piece of bone meal as fertilizer.\""
-              },
-              {
-                "t": "p",
-                "x": "\"Agents in Games\" also included other experiments, such as \"Bed Wars,\" in which 10 agents each from GPT-6.1 Sol and Claude Opus 5.5 faced off."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 50명의 마크 문명은\n겁 많은 관료 사회로",
-          "body": "YC와 Olam Labs가 마크에 넣은 AI 50명은 겁 많은 관료제를 세웠다.",
-          "mini_headline": "마크 AI 문명은 관료제",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Y Combinator와 Olam Labs는 10월 30일 다수 AI 에이전트의 행동을 다룬 연구 'Agents in Games'를 공개했다. AI 에이전트 50개를 '마인크래프트'에 풀어놓자 관료주의 같은 상태에 빠졌다는 내용이다."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-002-1080x608.jpg"
-              },
-              {
-                "t": "p",
-                "x": "'Civ50'이라는 실험에서는 GPT-6.1 Sol 에이전트 50개를 '마인크래프트'에 투입하고 \"번영하는 문명을 세워라\"라는 대략적인 지시만 내렸다. 에이전트 명단 맨 앞에 있던 Ada가 사실상 리더가 됐고 위계도 명단 순서대로 짜였다."
-              },
-              {
-                "t": "p",
-                "x": "그런데 첫날 밤 좀비 등 몬스터가 습격해 첫날에만 22명이 죽었고, 이후 에이전트들은 점점 위험을 피하려 들었다. Ada는 \"밝고 닫힌 대피소 안에서 대기하라\"고 계획을 고쳤다."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-003-1080x608.jpg"
-              },
-              {
-                "t": "p",
-                "x": "음식을 던져 건네다 다른 에이전트가 실수로 먹어 버린 '사건' 뒤에는 '비난 없는' 경위 조사가 3분간 진행됐고, 음식은 이름이 붙은 상자에 넣어 건넨다는 절차까지 문서로 남았다. 3시간가량 이어진 실험에서는 4명이 11분을 들여 '뼛가루 단 1개를 비료로 뿌리는 담당'을 임명하는 등 '관청식 집단'이 생겨났다고 한다."
-              },
-              {
-                "t": "p",
-                "x": "'Agents in Games'에서는 이 밖에도 GPT-6.1 Sol과 Claude Opus 5.5 에이전트 각 10개가 맞붙는 'Bed Wars' 등의 실험이 진행됐다."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "50个AI的我的世界文明\n变成胆小官僚社会",
-          "body": "YC与Olam Labs让50个AI在《我的世界》建立文明，结果诞生了胆小的官僚制。",
-          "mini_headline": "我的世界AI文明成官僚制",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Y Combinator与Olam Labs于10月30日发布了关于大量AI智能体行为的研究“Agents in Games”。该研究报告称，将50个AI智能体投入《我的世界》后，它们陷入了类似官僚主义的状态。"
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-002-1080x608.jpg"
-              },
-              {
-                "t": "p",
-                "x": "在名为“Civ50”的实验中，研究者将50个GPT-6.1 Sol智能体投入《我的世界》，只给出“建立繁荣的文明”这样笼统的指令。智能体名单上排在最前面的Ada成为事实上的领导者，并按名单顺序形成了层级结构。"
-              },
-              {
-                "t": "p",
-                "x": "然而首夜遭僵尸等怪物袭击，仅首日就有多达22名死亡，规避风险的倾向日益增强。Ada将计划修改为“在明亮且封闭的庇护所内待命”。"
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-003-1080x608.jpg"
-              },
-              {
-                "t": "p",
-                "x": "在扔食物传递时被其他智能体误食的“事件”发生后，进行了3分钟“不追责式”的调查，并将用写有名字的箱子传递食物的流程形成了文件。实验持续了约3小时，最终形成了“衙门式团体”，例如4个智能体花11分钟任命了“专门把仅仅1份骨粉当肥料撒的负责人”。"
-              },
-              {
-                "t": "p",
-                "x": "“Agents in Games”还进行了“Bed Wars”等其他实验，由GPT-6.1 Sol与Claude Opus 5.5的智能体各10个对战。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "50 agentes AI en Minecraft\nforjan una burocracia timorata",
-          "body": "YC y Olam Labs pusieron a 50 agentes AI a construir una civilización en Minecraft y surgió una burocracia timorata.",
-          "mini_headline": "La civilización AI de Minecraft, burocrática",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Y Combinator y Olam Labs publicaron el 30 de octubre \"Agents in Games\", un estudio sobre el comportamiento de numerosos agentes AI. El estudio informa que, al introducir 50 agentes AI en Minecraft, estos cayeron en un estado similar a la burocracia."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-002-1080x608.jpg"
-              },
-              {
-                "t": "p",
-                "x": "En el experimento titulado \"Civ50\", se introdujeron 50 agentes de GPT-6.1 Sol en Minecraft con una única instrucción vaga: \"Construyan una civilización próspera\". Ada, la primera de la lista de agentes, se convirtió en líder de facto, y se formó una jerarquía basada en el orden de la lista."
-              },
-              {
-                "t": "p",
-                "x": "Sin embargo, la primera noche, los ataques de monstruos como zombis causaron hasta 22 muertes solo en el primer día, y la tendencia a evitar riesgos se fue intensificando. Ada modificó el plan: \"Esperen dentro de un refugio iluminado y cerrado\"."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-003-1080x608.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Tras un \"incidente\" en el que otro agente se comió por error la comida que se lanzaba para entregarla, hubo una revisión \"sin culpas\" de 3 minutos y se documentó un procedimiento para entregar la comida en cofres con nombre. El experimento duró unas 3 horas y dio lugar a un \"colectivo burocrático\" en el que, por ejemplo, 4 agentes dedicaron 11 minutos a nombrar a un \"encargado de esparcir solo 1 polvo de hueso como fertilizante\"."
-              },
-              {
-                "t": "p",
-                "x": "En \"Agents in Games\" también se realizaron otros experimentos, como \"Bed Wars\", en el que se enfrentaron 10 agentes cada uno de GPT-6.1 Sol y Claude Opus 5.5."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "Minecraft civ of 50 AI agents\nturns into timid bureaucracy",
-          "body": "YC and Olam Labs had 50 AI agents build a civilization in Minecraft, and a timid bureaucracy emerged.",
-          "mini_headline": "Minecraft AI civ turns bureaucratic",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Y Combinator and Olam Labs on October 30 released \"Agents in Games,\" a study on how large numbers of AI agents behave. The study reports that when 50 AI agents were placed in Minecraft, they slipped into something resembling bureaucracy."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-002-1080x608.jpg"
-              },
-              {
-                "t": "p",
-                "x": "In an experiment titled \"Civ50,\" 50 GPT-6.1 Sol agents were placed in Minecraft and given only a loose instruction: \"Build a thriving civilization.\" Ada, first on the agent roster, became the de facto leader, and a hierarchy formed based on roster order."
-              },
-              {
-                "t": "p",
-                "x": "But on the first night, attacks by zombies and other monsters killed as many as 22 on the first day alone, and the agents grew increasingly risk-averse. Ada revised the plan: \"Wait inside a bright, enclosed shelter.\""
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-003-1080x608.jpg"
-              },
-              {
-                "t": "p",
-                "x": "After an \"incident\" in which food tossed to one agent was eaten by mistake by another, a 3-minute \"blameless\" review followed, and a procedure for handing over food in named chests was documented. The experiment ran for about 3 hours and produced a \"bureaucratic collective\" in which, among other things, 4 agents spent 11 minutes appointing \"an officer in charge of spreading just 1 piece of bone meal as fertilizer.\""
-              },
-              {
-                "t": "p",
-                "x": "\"Agents in Games\" also included other experiments, such as \"Bed Wars,\" in which 10 agents each from GPT-6.1 Sol and Claude Opus 5.5 faced off."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 50명의 마크 문명은\n겁 많은 관료 사회로",
-          "body": "YC와 Olam Labs의 AI 50명이 마크에서 겁 많은 관료제를 만들었다.",
-          "mini_headline": "마크 AI 문명은 관료제",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Y Combinator와 Olam Labs는 10월 30일 다수 AI 에이전트의 행동을 다룬 연구 'Agents in Games'를 공개했다. 연구진은 AI 에이전트 50개를 '마인크래프트'에 투입하자 관료주의 같은 상태에 빠졌다고 보고했다."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-002-1080x608.jpg"
-              },
-              {
-                "t": "p",
-                "x": "'Civ50'이라는 실험에서는 GPT-6.1 Sol 에이전트 50개를 '마인크래프트'에 투입하고 \"번영하는 문명을 세워라\"라는 대략적인 지시만 내렸다. 에이전트 명단 맨 앞에 있던 Ada가 사실상 리더가 됐고, 명단 순서에 따라 위계 구조가 만들어졌다."
-              },
-              {
-                "t": "p",
-                "x": "그런데 첫날 밤 좀비 등 몬스터의 습격으로 첫날에만 22명이 죽었고, 위험을 피하려는 경향이 점점 강해졌다. Ada는 \"밝고 닫힌 대피소 안에서 대기하라\"고 계획을 고쳤다."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-003-1080x608.jpg"
-              },
-              {
-                "t": "p",
-                "x": "음식을 던져 건네다 다른 에이전트가 실수로 먹어 버린 '사건' 뒤에는 '비난 없는' 경위 조사가 3분간 이어졌고, 음식은 이름이 붙은 상자에 넣어 건넨다는 절차가 문서로 정리됐다. 실험은 3시간가량 이어졌는데, 4명이 11분을 들여 '뼛가루 단 1개를 비료로 뿌리는 담당'을 임명하는 등 '관청식 집단'이 만들어졌다고 한다."
-              },
-              {
-                "t": "p",
-                "x": "'Agents in Games'에서는 이 밖에도 GPT-6.1 Sol과 Claude Opus 5.5 에이전트 각 10개가 맞붙는 'Bed Wars' 등의 실험이 진행됐다."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "50个AI的我的世界文明\n变成胆小官僚社会",
-          "body": "YC与Olam Labs让50个AI在《我的世界》建立文明，结果诞生了胆小的官僚制。",
-          "mini_headline": "我的世界AI文明成官僚制",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Y Combinator与Olam Labs于10月30日发布了关于大量AI智能体行为的研究“Agents in Games”。该研究报告称，将50个AI智能体投入《我的世界》后，它们陷入了类似官僚主义的状态。"
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-002-1080x608.jpg"
-              },
-              {
-                "t": "p",
-                "x": "在名为“Civ50”的实验中，研究者将50个GPT-6.1 Sol智能体投入《我的世界》，只给出“建立繁荣的文明”这样笼统的指令。智能体名单上排在最前面的Ada成为事实上的领导者，并按名单顺序形成了层级结构。"
-              },
-              {
-                "t": "p",
-                "x": "然而首夜遭僵尸等怪物袭击，仅首日就有多达22名死亡，规避风险的倾向日益增强。Ada将计划修改为“在明亮且封闭的庇护所内待命”。"
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-003-1080x608.jpg"
-              },
-              {
-                "t": "p",
-                "x": "在扔食物传递时被其他智能体误食的“事件”发生后，进行了3分钟“不追责式”的调查，并将用写有名字的箱子传递食物的流程形成了文件。实验持续了约3小时，最终形成了“衙门式团体”，例如4个智能体花11分钟任命了“专门把仅仅1份骨粉当肥料撒的负责人”。"
-              },
-              {
-                "t": "p",
-                "x": "“Agents in Games”还进行了“Bed Wars”等其他实验，由GPT-6.1 Sol与Claude Opus 5.5的智能体各10个对战。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "50 agentes AI en Minecraft\nforjan una burocracia timorata",
-          "body": "YC y Olam Labs pusieron a 50 agentes AI a construir una civilización en Minecraft y surgió una burocracia timorata.",
-          "mini_headline": "La civilización AI de Minecraft, burocrática",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Y Combinator y Olam Labs publicaron el 30 de octubre \"Agents in Games\", un estudio sobre el comportamiento de numerosos agentes AI. El estudio informa que, al introducir 50 agentes AI en Minecraft, estos cayeron en un estado similar a la burocracia."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-002-1080x608.jpg"
-              },
-              {
-                "t": "p",
-                "x": "En el experimento titulado \"Civ50\", se introdujeron 50 agentes de GPT-6.1 Sol en Minecraft con una única instrucción vaga: \"Construyan una civilización próspera\". Ada, la primera de la lista de agentes, se convirtió en líder de facto, y se formó una jerarquía basada en el orden de la lista."
-              },
-              {
-                "t": "p",
-                "x": "Sin embargo, la primera noche, los ataques de monstruos como zombis causaron hasta 22 muertes solo en el primer día, y la tendencia a evitar riesgos se fue intensificando. Ada modificó el plan: \"Esperen dentro de un refugio iluminado y cerrado\"."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-003-1080x608.jpg"
+                "x": "El desarrollo se centró en los mecanismos que hacen avanzar el procesamiento según las reglas del juego y en el seguimiento del estado de la partida, que cambia durante el juego. El modelo se ajustó a los principales motores de videojuegos, como Unreal Engine, Unity y Godot. Según la compañía, en las evaluaciones de rendimiento de desarrollo de juegos, la puntuación mejoró un 19.1% en \"GameDev\" y un 9.8% en \"GameLogic\" respecto a la versión preliminar."
               },
               {
                 "t": "p",
-                "x": "Tras un \"incidente\" en el que otro agente se comió por error la comida que se lanzaba para entregarla, hubo una revisión \"sin culpas\" de 3 minutos y se documentó un procedimiento para entregar la comida en cofres con nombre. El experimento duró unas 3 horas y dio lugar a un \"colectivo burocrático\" en el que, por ejemplo, 4 agentes dedicaron 11 minutos a nombrar a un \"encargado de esparcir solo 1 polvo de hueso como fertilizante\"."
+                "x": "El blog oficial de desarrollo presenta \"Electric Flying Car Climb Test\", un simulador de conducción en 3D creado con Hy4. Consiste en acelerar un coche en una pista de pruebas nocturna y comprobar hasta dónde puede subir por un trazado que se curva hasta quedar casi vertical."
               },
               {
                 "t": "p",
-                "x": "En \"Agents in Games\" también se realizaron otros experimentos, como \"Bed Wars\", en el que se enfrentaron 10 agentes cada uno de GPT-6.1 Sol y Claude Opus 5.5."
+                "x": "Hy4 también incorpora la capacidad de leer imágenes y de manejar la pantalla de un PC. Según la empresa, también se entrenó con el software de creación 3D \"Blender\" y con software CAD de diseño. Hy4 está disponible en servicios de la compañía como \"Tencent Cloud TokenHub\", \"WorkBuddy\" y \"CodeBuddy\"."
               }
             ]
           }

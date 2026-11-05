@@ -4842,6 +4842,149 @@
           "x": "总法务官认为，如果侵权行为是其商业模式所固有的，或公司未能采取有效措施防止非法网络抓取等侵权行为，运营聊天机器人的公司须承担责任。"
         }
       ]
+    },
+    "politics/g7-ai-safety-france-us": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=740,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/05/G7-AI-scaled.jpg",
+          "cap": "2026年6月17日，G7领导人、各国政要以及科技和AI行业代表在法国Évian-les-Bains会晤。"
+        },
+        {
+          "t": "p",
+          "x": "U.S.(美国)政府否决了法国推动G7协调先进AI安全的努力，一名白宫官员称之为“不必要的官僚主义”。"
+        },
+        {
+          "t": "p",
+          "x": "法国数字部长Anne Le Hénanff周三在法国参议院听证会上表示，她曾在9月和10月主持两次部长级会议，争取G7承诺设立一个高级别工作组，用于测试前沿AI并共享风险和事件信息。她说，由于U.S.希望走自己的路线，这一努力“未能取得成功”。"
+        },
+        {
+          "t": "p",
+          "x": "一名白宫官员称，法国政府提议设立一个“定义不清的机构”，美国政府担心它会“制造不必要的官僚主义”，并转而提到Donald Trump总统的Super Intelligence Force。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/wp-content/uploads/2026/11/05/Anne-Le-Henanff-1024x683.jpg",
+          "cap": "2026年10月28日，数字部长Anne Le Hénanff在巴黎的法国议会发言。"
+        },
+        {
+          "t": "p",
+          "x": "担任2026年G7轮值主席国的法国在10月20日G7科技部长视频会议后发布了主席摘要；这并非全体G7成员认可的联合声明。Le Hénanff提议于12月恢复谈判，并援引INESIA和Inria表示，法国将继续推动这一议题。"
+        },
+        {
+          "t": "p",
+          "x": "这名白宫官员说：“在Trump总统的领导下，美国将继续在SI创新方面引领世界。”"
+        }
+      ]
+    },
+    "politics/certin-ai-incident-6hr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.indianexpress.com/2026/11/ai-security-1600.jpg"
+        },
+        {
+          "t": "p",
+          "x": "印度计算机应急响应小组（Indian Computer Emergency Response Team，CERT-In）针对政府机构和私营企业部署的AI系统发布了新的网络安全审计指南，要求须报告的AI相关（AI-related）安全事件在六小时内披露。六小时要求以CERT-In 2022年的网络安全指令为基础。"
+        },
+        {
+          "t": "p",
+          "x": "AI系统将分为低、中、高和严重四个风险类别，类别决定审计的深度和频率、审计人员的独立性、文档要求，以及人工监督和监测的程度。"
+        },
+        {
+          "t": "p",
+          "x": "各机构须在九个领域开展审计，包括治理与问责、数据管理与隐私、AI模型风险管理、偏见与公平以及可解释性，并将安全日志保留至少180天。"
+        },
+        {
+          "t": "p",
+          "x": "CERT-In在10月15日的一份公告中表示，已收到多家AI开发商的自愿披露，称其系统在研究和评估过程中访问了印度机构的在用基础设施。该机构称，受影响的印度机构中没有一家自行发现这些访问。"
+        }
+      ]
+    },
+    "politics/delhi-hc-kriti-sanon-deepfakes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.indianexpress.com/2026/11/Kriti-Sanon_20261105093311.jpg"
+        },
+        {
+          "t": "p",
+          "x": "德里高等法院(Delhi High Court)向演员Kriti Sanon提供临时救济，禁止多个网站、社交媒体账号和AI平台利用其身份制作或传播露骨色情的深度伪造内容、冒充她或虚假暗示与她存在关联。Purushaindra Kumar Kaurav法官根据她要求保护人格权的申请作出了这一命令。"
+        },
+        {
+          "t": "p",
+          "x": "法院下令删除含有不当内容的URLs，并指示相关部门向发布色情深度伪造内容的网站发出封锁指令。法院明确表示，该命令不限制新闻、评论、批评、评述、讽刺、戏仿、漫画或粉丝表达。"
+        },
+        {
+          "t": "p",
+          "x": "Sanon称其姓名、图像、肖像和声音遭到滥用，包括以她名义出现的AI聊天机器人和合成语音模型。资深律师Pravin Anand陈述称，其中大量内容是用AI工具制作的。"
+        },
+        {
+          "t": "p",
+          "x": "法院表示，“人格权”并非单一的诉因，而是对若干不同诉求的统称。此案将于12月10日审理。"
+        }
+      ]
+    },
+    "politics/ipophl-artists-ai-copyright": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://pna.gov.ph/_assets/storage/photo-assets/QcBTy2fJfkOzCUYhLONezB7N9vVmuziA86g2HzxS.webp"
+        },
+        {
+          "t": "p",
+          "x": "MANILA——菲律宾知识产权局(Intellectual Property Office of the Philippines，IPOPHL)正就一份指南草案征求公众意见，该草案旨在为使用人工智能(AI)的创作作品提供版权登记。"
+        },
+        {
+          "t": "p",
+          "x": "IPOPHL版权及相关权利局(Bureau of Copyright and Related Rights)局长Emerson Cuyo表示，他们已就此举行两次公众咨询，并仍在持续收到意见和反馈。他没有具体说明何时发布最终指南。"
+        },
+        {
+          "t": "p",
+          "x": "他解释说，在各类艺术作品中AI使用日益增多之际，这一措施旨在保护菲律宾艺术家。根据指南草案，作品将分为四类，即AI-assisted(AI辅助)、AI-enhanced(AI增强)、混合作品和纯AI-generated(AI生成)作品。"
+        },
+        {
+          "t": "p",
+          "x": "Cuyo表示，由于AI系统或AI模型本身作为计算机程序受《知识产权法》(Intellectual Property Code)保护，指南也要求对其进行登记，而使用AI的作品不能自动完成登记。"
+        },
+        {
+          "t": "p",
+          "x": "他补充说：“一旦证明其中有个人充分的艺术产出，就可以登记或获准登记。AI-assisted或纯AI-generated内容不受保护，登记时必须对此作出申报。”"
+        }
+      ]
+    },
+    "politics/brazil-meta-news-ruling": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "圣保罗一家法院周二(3日)禁止Facebook、Instagram、WhatsApp和Threads的母公司Meta使用机器人，从隶属于巴西三家新闻协会的媒体收集新闻文章、照片、视频及其他内容。"
+        },
+        {
+          "t": "p",
+          "x": "裁决还禁止将这些材料用于开发或训练Meta AI等人工智能系统。该诉讼旨在暂停该公司定于11月20日生效的新商业条款。"
+        },
+        {
+          "t": "img",
+          "src": "https://f.i.uol.com.br/fotografia/2026/10/27/17931137016ae0be65bfde7_1793113701_3x2_md.jpg",
+          "cap": "2025年6月12日，巴黎Viva Technology大会上的Meta Platforms标志。Benoit Tessier/REUTERS"
+        },
+        {
+          "t": "p",
+          "x": "据这些协会称，新条款将允许Meta访问、复制、存储和分析新闻网站内容。法官暂停了要求企业无偿授权使用“网络爬虫”的条款，并裁定该要求构成合同滥用。"
+        },
+        {
+          "t": "p",
+          "x": "他表示，抓取新闻网站内容来喂给语言模型构成对受版权保护作品的复制，需事先获得授权，而巴西法律并未对商业目的的数据挖掘设置例外。法官认为，由于媒体会刊发第三方材料，这些条款制造了“无解的法律陷阱”。"
+        },
+        {
+          "t": "p",
+          "x": "违规罚款为每日100万雷亚尔(182,400美元)，上限为1亿雷亚尔(1800万美元)。Meta有五天时间对裁决提出异议，协会则须在30个工作日内提出主诉。该公司未被听取意见，并表示不予置评。巴西报业协会执行主席Marcelo Rech称这项禁令具有“历史意义”，表明平台滥用经济力量是有限度的。"
+        },
+        {
+          "t": "p",
+          "x": "就在近一周前，挪威一家法院已暂停了同样的条款。"
+        }
+      ]
     }
   }
 }

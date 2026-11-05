@@ -1,197 +1,221 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "section": "gadgets",
   "cards": [
     {
-      "id": "nothing-screenfree-ai-device",
+      "id": "aina-agent-ring",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Nothing, 화면 없는\nAI 기기 다음 달 예고",
-      "body": "Carl Pei에 따르면 Nothing 첫 AI-native 기기에는 화면이 없다.",
-      "mini_headline": "Nothing의 화면 없는 AI 기기",
+      "headline": "Aina 스마트 링\n탭 한 번에 AI 에이전트",
+      "body": "폰을 꺼내지 않고 Aina 링을 한 번 탭해 AI 에이전트 작업을 승인·거절한다.",
+      "mini_headline": "탭 한 번으로 AI 에이전트를 다루는 Aina 링",
       "tool": "Gadgets",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/aina-smart-ring/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-            "cap": "사진: Dominic Preston / The Verge"
+            "src": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg"
           },
           {
             "t": "p",
-            "x": "Nothing CEO Carl Pei가 X 게시물에서 12월에 첫 AI 기기를 내놓는다고 밝혔다. Pei가 “AI-native” 기기와 AI 운영체제 계획을 발표한 지 한 해 남짓 만이다. 새 기기가 정확히 무엇인지는 거의 말하지 않았고, 화면이 없다는 점만 알렸다:"
+            "x": "Apoorv Shankar는 머지않아 사람들이 승인과 거절을 반복하며 기술을 다루게 되리라고 본다. AI 에이전트가 먼저 다가와 일을 처리해 주는 식이다. 그는 그때마다 휴대폰을 꺼내 예, 아니오를 누르는 일이 “병목”이 된다고 말한다. 그렇게 나온 것이 Aina Ring이다. 작은 디스플레이와 조이스틱 같은 버튼으로 AI 에이전트의 작업을 빠르게 수락하거나 거절한다. 지금 사전 주문을 받는 중이며 한정 기간 가격은 $399다. 2027년 1월 배송이 시작되면 소매가는 $499로 오른다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.wired.com/photos/6aea53d84d3eef846d2fcf0b/master/w_1600%2Cc_limit/Aina%2520Ring%2520Hands.jpg",
+            "cap": "손에 낀 Aina 링"
           },
           {
             "t": "p",
-            "x": "“우리의 첫 AI-native 제품이 다음 달 출시된다. 도구이지만, Nothing 제품을 규정해 온 개성과 정성을 담아 만들었다. 새 화면은 없으며, 앱으로는 만들 수 없었던 제품이다.”"
+            "x": "티타늄으로 만든 Aina Ring은 Macs나 iPhones와 연결된다. 위치·캘린더·이메일 같은 개인 데이터와, Aina 앱에 연결한 Uber·Spotify 등 서드파티 서비스를 보고 사용자의 일과를 익힌다. 평소 8:30 am에 Uber로 출근한다면 차량 호출을 제안하고, 링에서 ‘예’로 튕기면 바로 처리한다. Shankar는 이를 “Aina Cues”라 부르는데, 링의 Context Aware Operating System이 이 기능을 돌린다. 자연어로 나만의 Cues를 만들 수도 있고 Muse나 Instinct처럼 즐겨 쓰는 AI 에이전트를 연결해도 된다."
           },
           {
             "t": "p",
-            "x": "Pei는 게시물에 왼쪽 위에 “NOTHING(R)”이라고 적힌 이미지를 함께 올렸다. 그 아래로 정체를 알 수 없는 검은 둥근 모서리가 보인다. 지난달에는 Nothing이 카메라 없는 모델을 포함해 AI 스마트 안경 두 종을 낼 계획이라는 소문이 돌았다. 그보다 앞서 AI 액세서리로 방향을 틀며 “AI-first 기업으로 재포지셔닝하고 있다”는 소문도 있었다."
+            "x": "Aina Voice로는 가운데 버튼을 눌러 AI 에이전트와 대화한다. Shankar는 “승인이 인터페이스와 상호작용의 미래가 될 것”이라고 말한다."
           },
           {
-            "t": "p",
-            "x": "Nothing의 AI 기기가 화면 없는 첫 AI 가젯은 아니다. Humane AI pin, Friend, AI 봉제 인형까지 이미 나왔다. OpenAI도 Jony Ive와 함께 AI 스마트 스피커를 개발 중인 것으로 알려졌다. Pei는 이전 AI 기기들을 두고 “업계 전체가 자신의 iPhone 같은 순간을 찾고 있다. 펜던트, 핀, 안경, 컴패니언처럼 AI를 모두의 삶의 일부로 만들 마법 같은 소비자 기기 말이다”라고 했다. 그러고는 “지금 AI의 iPhone을 찾는 것은 막다른 길이다”라고 덧붙였다."
+            "t": "img",
+            "src": "https://media.wired.com/photos/6aea54376c2140d939cde56c/master/w_1600%2Cc_limit/Aina%2520Speaker%2520and%2520Shifter.png"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Nothing teases a screen-free\nAI device for next month",
-          "body": "Carl Pei says Nothing's first AI-native device, due next month, has no screen and couldn't have been an app.",
-          "mini_headline": "Nothing's screen-free AI device",
+          "headline": "Aina's smart ring taps\nyour AI agents into action",
+          "body": "Startup Aina's new smart ring lets you approve or reject your AI agents' actions with one tap, phone in pocket.",
+          "mini_headline": "Aina's one-tap AI agent ring",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-                "cap": "Photo: Dominic Preston / The Verge"
+                "src": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg"
               },
               {
                 "t": "p",
-                "x": "Nothing CEO Carl Pei said in a post on X that the company’s launching its first AI device in December. That’s just a little over a year after Pei announced plans for “AI-native” devices and an AI operating system. He didn’t give away much about what exactly the new device is, only that one feature it won’t have is a screen:"
+                "x": "Apoorv Shankar believes that in the very near future, humans will interact with technology through a series of approvals and rejections. AI agents will proactively come to us to complete tasks. Taking out your phone to say yes or no every time will be a “bottleneck,” he says. That's why he made the Aina Ring. It has a small display and a joystick-like button that lets you quickly accept or reject an AI agent's actions. Preorders are live now; the ring costs $399 for a limited time before the retail price rises to $499 when it starts shipping in January 2027."
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6aea53d84d3eef846d2fcf0b/master/w_1600%2Cc_limit/Aina%2520Ring%2520Hands.jpg",
+                "cap": "Aina ring on a hand"
               },
               {
                 "t": "p",
-                "x": "“Our first AI-native product ships next month. It’s a tool, but one built with the personality and care that have come to define a Nothing product. It has no new screen, and it couldn’t have been an app.”"
+                "x": "The titanium Aina Ring connects to Macs or iPhones. It learns your routines from your personal data, like location, calendar, and email, and from third-party services connected in the Aina app, like Uber or Spotify. If it's 8:30 am and you usually take an Uber to work, it'll suggest the ride—flick yes on the ring, and it'll handle the task. Shankar calls these “Aina Cues,” powered by the ring's Context Aware Operating System. Users can create their own Cues using natural language, or connect a preferred AI agent like Muse or Instinct."
               },
               {
                 "t": "p",
-                "x": "Pei shared an image with the post that says “NOTHING(R)” in the top left corner, above an ambiguous black rounded corner. Last month, a rumor claimed Nothing is planning to launch two pairs of AI smart glasses, including one without cameras, and an earlier rumor said it’s “repositioning itself as an AI-first company” with a shift to AI accessories."
+                "x": "Aina Voice lets you talk to your AI agents by pressing the center button. “Approvals are going to be the future of interfaces and interaction,” Shankar says."
               },
               {
-                "t": "p",
-                "x": "Nothing’s AI device wouldn’t be the first screen-free AI gadget, following the likes of the Humane AI pin, the Friend, and even AI stuffed animals. OpenAI is also reportedly working on an AI smart speaker with Jony Ive. Pei alluded to earlier AI devices, saying, “the whole industry is hunting for its iPhone moment: the pendant, the pin, the glasses, the companion, some magical consumer device that makes AI part of everyone’s life.” He added, “Looking for the iPhone of AI today is a dead end.”"
+                "t": "img",
+                "src": "https://media.wired.com/photos/6aea54376c2140d939cde56c/master/w_1600%2Cc_limit/Aina%2520Speaker%2520and%2520Shifter.png"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Nothing, 화면 없는\nAI 기기 다음 달 예고",
-          "body": "Carl Pei에 따르면 Nothing 첫 AI-native 기기에는 화면이 없다.",
-          "mini_headline": "Nothing의 화면 없는 AI 기기",
+          "headline": "Aina 스마트 링\n탭 한 번에 AI 에이전트",
+          "body": "폰을 꺼내지 않고 Aina 링을 한 번 탭해 AI 에이전트 작업을 승인·거절한다.",
+          "mini_headline": "탭 한 번으로 AI 에이전트를 다루는 Aina 링",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-                "cap": "사진: Dominic Preston / The Verge"
+                "src": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg"
               },
               {
                 "t": "p",
-                "x": "Nothing CEO Carl Pei가 X 게시물에서 12월에 첫 AI 기기를 내놓는다고 밝혔다. Pei가 “AI-native” 기기와 AI 운영체제 계획을 발표한 지 한 해 남짓 만이다. 새 기기가 정확히 무엇인지는 거의 말하지 않았고, 화면이 없다는 점만 알렸다:"
+                "x": "Apoorv Shankar는 머지않아 사람들이 승인과 거절을 반복하며 기술을 다루게 되리라고 본다. AI 에이전트가 먼저 다가와 일을 처리해 주는 식이다. 그는 그때마다 휴대폰을 꺼내 예, 아니오를 누르는 일이 “병목”이 된다고 말한다. 그렇게 나온 것이 Aina Ring이다. 작은 디스플레이와 조이스틱 같은 버튼으로 AI 에이전트의 작업을 빠르게 수락하거나 거절한다. 지금 사전 주문을 받는 중이며 한정 기간 가격은 $399다. 2027년 1월 배송이 시작되면 소매가는 $499로 오른다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6aea53d84d3eef846d2fcf0b/master/w_1600%2Cc_limit/Aina%2520Ring%2520Hands.jpg",
+                "cap": "손에 낀 Aina 링"
               },
               {
                 "t": "p",
-                "x": "“우리의 첫 AI-native 제품이 다음 달 출시된다. 도구이지만, Nothing 제품을 규정해 온 개성과 정성을 담아 만들었다. 새 화면은 없으며, 앱으로는 만들 수 없었던 제품이다.”"
+                "x": "티타늄으로 만든 Aina Ring은 Macs나 iPhones와 연결된다. 위치·캘린더·이메일 같은 개인 데이터와, Aina 앱에 연결한 Uber·Spotify 등 서드파티 서비스를 보고 사용자의 일과를 익힌다. 평소 8:30 am에 Uber로 출근한다면 차량 호출을 제안하고, 링에서 ‘예’로 튕기면 바로 처리한다. Shankar는 이를 “Aina Cues”라 부르는데, 링의 Context Aware Operating System이 이 기능을 돌린다. 자연어로 나만의 Cues를 만들 수도 있고 Muse나 Instinct처럼 즐겨 쓰는 AI 에이전트를 연결해도 된다."
               },
               {
                 "t": "p",
-                "x": "Pei는 게시물에 왼쪽 위에 “NOTHING(R)”이라고 적힌 이미지를 함께 올렸다. 그 아래로 정체를 알 수 없는 검은 둥근 모서리가 보인다. 지난달에는 Nothing이 카메라 없는 모델을 포함해 AI 스마트 안경 두 종을 낼 계획이라는 소문이 돌았다. 그보다 앞서 AI 액세서리로 방향을 틀며 “AI-first 기업으로 재포지셔닝하고 있다”는 소문도 있었다."
+                "x": "Aina Voice로는 가운데 버튼을 눌러 AI 에이전트와 대화한다. Shankar는 “승인이 인터페이스와 상호작용의 미래가 될 것”이라고 말한다."
               },
               {
-                "t": "p",
-                "x": "Nothing의 AI 기기가 화면 없는 첫 AI 가젯은 아니다. Humane AI pin, Friend, AI 봉제 인형까지 이미 나왔다. OpenAI도 Jony Ive와 함께 AI 스마트 스피커를 개발 중인 것으로 알려졌다. Pei는 이전 AI 기기들을 두고 “업계 전체가 자신의 iPhone 같은 순간을 찾고 있다. 펜던트, 핀, 안경, 컴패니언처럼 AI를 모두의 삶의 일부로 만들 마법 같은 소비자 기기 말이다”라고 했다. 그러고는 “지금 AI의 iPhone을 찾는 것은 막다른 길이다”라고 덧붙였다."
+                "t": "img",
+                "src": "https://media.wired.com/photos/6aea54376c2140d939cde56c/master/w_1600%2Cc_limit/Aina%2520Speaker%2520and%2520Shifter.png"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Nothing、画面のない\nAI機器を来月投入と予告",
-          "body": "Carl Peiは来月のNothing初のAI-native機器に画面はないと述べた。",
-          "mini_headline": "Nothingの画面なしAI機器",
+          "headline": "Ainaのスマートリング\nAIエージェントを一押しで",
+          "body": "Ainaのリングは、スマホを出さずにAIエージェントの操作をワンタップで承認・拒否できる。",
+          "mini_headline": "ワンタップでAIエージェントを操るAinaのリング",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-                "cap": "写真：Dominic Preston / The Verge"
+                "src": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg"
               },
               {
                 "t": "p",
-                "x": "Nothing CEOのCarl PeiはXへの投稿で、同社が12月に初のAIデバイスを発売すると明かした。Peiが“AI-native”デバイスとAIオペレーティングシステムの計画を発表してから、わずか一年余りでの発表となる。新デバイスの正体についてはほとんど語らず、画面がないことだけを示した："
+                "x": "Apoorv Shankarは、ごく近い将来、人は承認と拒否の連続を通じてテクノロジーと関わるようになると考えている。AIエージェントが自ら私たちのもとに来てタスクを片づけるようになる。そのたびにスマートフォンを取り出してイエスかノーかを答えるのは「ボトルネック」になると彼は言う。だからこそ彼はAina Ringを作った。小さなディスプレイとジョイスティックのようなボタンを備え、AIエージェントの操作をすばやく承認・拒否できる。現在予約を受け付けており、期間限定価格は$399、2027年1月に出荷が始まると小売価格は$499に上がる。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6aea53d84d3eef846d2fcf0b/master/w_1600%2Cc_limit/Aina%2520Ring%2520Hands.jpg",
+                "cap": "手にはめたAinaリング"
               },
               {
                 "t": "p",
-                "x": "“当社初のAI-native製品は来月出荷される。ツールではあるが、Nothing製品の特徴となってきた個性とこだわりを込めて作った。新たな画面はなく、アプリでは実現できなかったものだ。”"
+                "x": "チタン製のAina RingはMacsやiPhonesと接続する。位置情報、カレンダー、メールなどの個人データや、Ainaアプリで連携したUberやSpotifyなどのサードパーティーサービスから、ユーザーの日課を学習する。8:30 amにいつもUberで出勤しているなら配車を提案し、リングでイエスを弾けばタスクを処理してくれる。Shankarはこれを「Aina Cues」と呼び、リングのContext Aware Operating Systemがそれを支えている。ユーザーは自然言語で独自のCuesを作ったり、MuseやInstinctなど好みのAIエージェントを接続したりできる。"
               },
               {
                 "t": "p",
-                "x": "Peiは投稿に、左上に“NOTHING(R)”と記され、その下に正体不明の黒い角丸が写った画像を添えた。先月には、Nothingがカメラ非搭載モデルを含む二種類のAIスマートグラスを投入する計画だという噂が流れ、それ以前にはAIアクセサリーへの転換によって“AI-first企業として自らを再定義している”との噂もあった。"
+                "x": "Aina Voiceでは、中央のボタンを押してAIエージェントと会話できる。「承認こそがインターフェースとインタラクションの未来になる」とShankarは語る。"
               },
               {
-                "t": "p",
-                "x": "NothingのAIデバイスは、画面のないAIガジェットとして初めてではない。Humane AI pinやFriend、さらにはAIぬいぐるみといった先例がある。OpenAIもJony IveとともにAIスマートスピーカーを開発中と報じられている。Peiは過去のAIデバイスに触れ、“業界全体が自らのiPhoneのような瞬間を探している。ペンダント、ピン、メガネ、コンパニオンなど、AIを誰もの生活の一部にする魔法のような消費者向けデバイスだ”と述べた。さらに“今日、AIのiPhoneを探すのは行き止まりだ”と付け加えた。"
+                "t": "img",
+                "src": "https://media.wired.com/photos/6aea54376c2140d939cde56c/master/w_1600%2Cc_limit/Aina%2520Speaker%2520and%2520Shifter.png"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nothing预告下月推出\n无屏幕AI设备",
-          "body": "Carl Pei称，Nothing下月推出的首款AI-native设备没有屏幕。",
-          "mini_headline": "Nothing的无屏幕AI设备",
+          "headline": "Aina智能戒指\n一点即可指挥AI智能体",
+          "body": "初创公司Aina的新款智能戒指让你无需掏出手机，轻点一下即可批准或拒绝AI智能体的操作。",
+          "mini_headline": "Aina一键AI智能体戒指",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-                "cap": "图片：Dominic Preston / The Verge"
+                "src": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg"
               },
               {
                 "t": "p",
-                "x": "Nothing CEO Carl Pei在X上发帖称，公司将于12月推出首款AI设备。距Pei宣布打造“AI-native”设备和AI操作系统的计划仅过去一年多。他没有透露这款新设备究竟是什么，只说它不会有屏幕："
+                "x": "Apoorv Shankar认为，在不远的将来，人们将通过一连串的批准与拒绝来与技术互动。AI智能体会主动找上门来完成任务。他说，每次都掏出手机说“是”或“否”将成为“瓶颈”。这正是他打造Aina Ring的原因。戒指配有一块小屏幕和一个类似摇杆的按钮，可以快速接受或拒绝AI智能体的操作。目前已开放预订；限时价格为$399，2027年1月开始发货时零售价将升至$499。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6aea53d84d3eef846d2fcf0b/master/w_1600%2Cc_limit/Aina%2520Ring%2520Hands.jpg",
+                "cap": "戴在手上的Aina戒指"
               },
               {
                 "t": "p",
-                "x": "“我们的首款AI-native产品将于下个月发货。它是一件工具，但承载了定义Nothing产品的个性与用心。它没有新的屏幕，也不可能做成一个应用。”"
+                "x": "钛金属材质的Aina Ring可连接Macs或iPhones。它会从位置、日历、电子邮件等个人数据，以及在Aina应用中接入的Uber、Spotify等第三方服务中学习你的日常习惯。如果现在是8:30 am，而你通常乘Uber上班，它就会建议叫车——在戒指上拨一下“是”，它便会处理这项任务。Shankar称之为“Aina Cues”，由戒指的Context Aware Operating System驱动。用户可以用自然语言创建自己的Cues，或连接Muse、Instinct等偏好的AI智能体。"
               },
               {
                 "t": "p",
-                "x": "Pei随帖附上一张图片，左上角写着“NOTHING(R)”，下方是一个含义不明的黑色圆角。上个月有传言称，Nothing计划推出两款AI智能眼镜，其中一款不带摄像头；更早的传言则称，公司正转向AI配件，“将自身重新定位为AI-first公司”。"
+                "x": "借助Aina Voice，按下中间按钮即可与AI智能体对话。Shankar说：“批准将成为界面与交互的未来。”"
               },
               {
-                "t": "p",
-                "x": "Nothing的AI设备并不会是首款无屏幕AI小工具，此前已有Humane AI pin、Friend，甚至AI毛绒玩具。另据报道，OpenAI也在与Jony Ive合作开发一款AI智能音箱。Pei提到此前的AI设备时说：“整个行业都在寻找自己的iPhone时刻：吊坠、别针、眼镜、陪伴设备，某种能让AI融入每个人生活的神奇消费设备。”他补充道：“如今寻找AI界的iPhone是一条死胡同。”"
+                "t": "img",
+                "src": "https://media.wired.com/photos/6aea54376c2140d939cde56c/master/w_1600%2Cc_limit/Aina%2520Speaker%2520and%2520Shifter.png"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nothing adelanta un dispositivo\nAI sin pantalla el próximo mes",
-          "body": "Carl Pei dice que el primer dispositivo AI-native de Nothing, previsto para el próximo mes, no tendrá pantalla.",
-          "mini_headline": "El dispositivo AI sin pantalla de Nothing",
+          "headline": "El anillo de Aina activa tus\nagentes de AI con un toque",
+          "body": "El anillo de Aina permite aprobar o rechazar con un toque, sin sacar el teléfono, las acciones de tus agentes de AI.",
+          "mini_headline": "El anillo de Aina para agentes de AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-                "cap": "Foto: Dominic Preston / The Verge"
+                "src": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg"
               },
               {
                 "t": "p",
-                "x": "El CEO de Nothing, Carl Pei, dijo en una publicación en X que la compañía lanzará su primer dispositivo de AI en diciembre. Llega apenas un poco más de un año después de que Pei anunciara planes para dispositivos “AI-native” y un sistema operativo de AI. No reveló mucho sobre qué es exactamente el nuevo dispositivo, solo que una característica que no tendrá es una pantalla:"
+                "x": "Apoorv Shankar cree que, en un futuro muy cercano, las personas interactuarán con la tecnología mediante una serie de aprobaciones y rechazos. Los agentes de AI acudirán a nosotros de forma proactiva para completar tareas. Sacar el teléfono cada vez para decir sí o no será un “cuello de botella”, afirma. Por eso creó el Aina Ring. Tiene una pequeña pantalla y un botón similar a un joystick que permite aceptar o rechazar rápidamente las acciones de un agente de AI. Las reservas ya están abiertas; el anillo cuesta $399 por tiempo limitado, antes de que el precio de venta suba a $499 cuando comience a enviarse en enero de 2027."
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6aea53d84d3eef846d2fcf0b/master/w_1600%2Cc_limit/Aina%2520Ring%2520Hands.jpg",
+                "cap": "El anillo Aina en una mano"
               },
               {
                 "t": "p",
-                "x": "“Nuestro primer producto AI-native se envía el mes que viene. Es una herramienta, pero construida con la personalidad y el cuidado que han llegado a definir un producto Nothing. No tiene una pantalla nueva, y no podría haber sido una app.”"
+                "x": "El Aina Ring de titanio se conecta a Macs o iPhones. Aprende tus rutinas a partir de tus datos personales, como la ubicación, el calendario y el correo electrónico, y de servicios de terceros conectados en la app de Aina, como Uber o Spotify. Si son las 8:30 am y sueles ir al trabajo en Uber, te sugerirá el viaje: basta con indicar que sí en el anillo y se encargará de la tarea. Shankar llama a estas sugerencias “Aina Cues”, impulsadas por el Context Aware Operating System del anillo. Los usuarios pueden crear sus propias Cues con lenguaje natural o conectar un agente de AI preferido, como Muse o Instinct."
               },
               {
                 "t": "p",
-                "x": "Pei compartió con la publicación una imagen que dice “NOTHING(R)” en la esquina superior izquierda, sobre una ambigua esquina redondeada negra. El mes pasado, un rumor afirmó que Nothing planea lanzar dos pares de gafas inteligentes con AI, uno de ellos sin cámaras, y un rumor anterior dijo que se está “reposicionando como una empresa AI-first” con un giro hacia los accesorios de AI."
+                "x": "Aina Voice permite hablar con tus agentes de AI pulsando el botón central. “Las aprobaciones serán el futuro de las interfaces y de la interacción”, dice Shankar."
               },
               {
-                "t": "p",
-                "x": "El dispositivo de AI de Nothing no sería el primer gadget de AI sin pantalla, tras ejemplos como el Humane AI pin, el Friend e incluso peluches con AI. Según se informa, OpenAI también trabaja en un altavoz inteligente con AI junto a Jony Ive. Pei aludió a dispositivos de AI anteriores al decir que “toda la industria está buscando su momento iPhone: el colgante, el pin, las gafas, el acompañante, algún dispositivo de consumo mágico que haga de la AI parte de la vida de todos”. Y añadió: “Buscar hoy el iPhone de la AI es un callejón sin salida”."
+                "t": "img",
+                "src": "https://media.wired.com/photos/6aea54376c2140d939cde56c/master/w_1600%2Cc_limit/Aina%2520Speaker%2520and%2520Shifter.png"
               }
             ]
           }
@@ -199,125 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Nothing, 화면 없는\nAI 기기 다음 달 예고",
-          "body": "Carl Pei는 Nothing 첫 AI-native 기기에 화면이 없다고 했다.",
-          "mini_headline": "Nothing의 화면 없는 AI 기기",
+          "headline": "Aina 스마트 링\n탭 한 번에 AI 에이전트",
+          "body": "Aina 스마트 링은 폰 없이 탭 한 번으로 AI 에이전트 작업을 승인·거절한다.",
+          "mini_headline": "탭 한 번으로 쓰는 Aina AI 에이전트 링",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-                "cap": "사진: Dominic Preston / The Verge"
+                "src": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg"
               },
               {
                 "t": "p",
-                "x": "Nothing CEO Carl Pei는 X 게시물에서 회사가 12월에 첫 AI 기기를 출시한다고 밝혔다. Pei가 “AI-native” 기기와 AI 운영체제 계획을 발표한 지 한 해 남짓 만이다. 그는 새 기기가 정확히 무엇인지 거의 밝히지 않았고, 화면이 없다는 점만 알렸다:"
+                "x": "Apoorv Shankar는 머지않아 사람들이 승인과 거절의 연속으로 기술과 상호작용하게 될 것이라고 본다. AI 에이전트가 먼저 찾아와 일을 처리하게 된다는 것이다. 그는 매번 휴대폰을 꺼내 예, 아니오를 답하는 일이 “병목”이 될 것이라고 말한다. 그래서 그는 Aina Ring을 만들었다. 작은 디스플레이와 조이스틱 같은 버튼이 달려 있어 AI 에이전트의 작업을 빠르게 수락하거나 거절할 수 있다. 현재 사전 주문을 받고 있으며, 한정 기간 가격은 $399이고 2027년 1월 배송이 시작되면 소매가는 $499로 오른다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6aea53d84d3eef846d2fcf0b/master/w_1600%2Cc_limit/Aina%2520Ring%2520Hands.jpg",
+                "cap": "손에 낀 Aina 링"
               },
               {
                 "t": "p",
-                "x": "“우리의 첫 AI-native 제품이 다음 달 출시된다. 도구이지만, Nothing 제품을 규정해 온 개성과 정성을 담아 만들었다. 새 화면은 없으며, 앱으로는 만들 수 없었던 제품이다.”"
+                "x": "티타늄 소재의 Aina Ring은 Macs나 iPhones와 연결된다. 위치, 캘린더, 이메일 같은 개인 데이터와 Aina 앱에 연결한 Uber, Spotify 등 서드파티 서비스에서 사용자의 일과를 학습한다. 8:30 am에 평소 Uber로 출근한다면 차량 호출을 제안하고, 링에서 ‘예’로 튕기면 작업을 처리한다. Shankar는 이를 “Aina Cues”라고 부르며, 링의 Context Aware Operating System이 이를 구동한다. 사용자는 자연어로 자신만의 Cues를 만들거나 Muse, Instinct 같은 선호하는 AI 에이전트를 연결할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Pei는 게시물과 함께 왼쪽 위에 “NOTHING(R)”이라고 적힌 이미지를 공유했다. 그 아래에는 정체를 알 수 없는 검은 둥근 모서리가 보인다. 지난달에는 Nothing이 카메라 없는 모델을 포함해 AI 스마트 안경 두 종을 출시할 계획이라는 소문이 돌았고, 그보다 앞서 AI 액세서리로 방향을 틀며 “AI-first 기업으로 재포지셔닝하고 있다”는 소문도 있었다."
+                "x": "Aina Voice를 쓰면 가운데 버튼을 눌러 AI 에이전트와 대화할 수 있다. Shankar는 “승인이 인터페이스와 상호작용의 미래가 될 것”이라고 말한다."
               },
               {
-                "t": "p",
-                "x": "Nothing의 AI 기기가 화면 없는 첫 AI 가젯은 아니다. 앞서 Humane AI pin, Friend, 심지어 AI 봉제 인형까지 나왔다. OpenAI도 Jony Ive와 함께 AI 스마트 스피커를 개발 중인 것으로 알려졌다. Pei는 이전 AI 기기들을 언급하며 “업계 전체가 자신의 iPhone 같은 순간을 찾고 있다. 펜던트, 핀, 안경, 컴패니언처럼 AI를 모두의 삶의 일부로 만들 마법 같은 소비자 기기 말이다”라고 했다. 이어 “지금 AI의 iPhone을 찾는 것은 막다른 길이다”라고 덧붙였다."
+                "t": "img",
+                "src": "https://media.wired.com/photos/6aea54376c2140d939cde56c/master/w_1600%2Cc_limit/Aina%2520Speaker%2520and%2520Shifter.png"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Nothing、画面のない\nAI機器を来月投入と予告",
-          "body": "Carl Peiは来月のNothing初のAI-native機器に画面はないと述べた。",
-          "mini_headline": "Nothingの画面なしAI機器",
+          "headline": "Ainaのスマートリング\nAIエージェントを一押しで",
+          "body": "Ainaのリングは、スマホを出さずにAIエージェントの操作をワンタップで承認・拒否できる。",
+          "mini_headline": "ワンタップでAIエージェントを操るAinaのリング",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-                "cap": "写真：Dominic Preston / The Verge"
+                "src": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg"
               },
               {
                 "t": "p",
-                "x": "Nothing CEOのCarl PeiはXへの投稿で、同社が12月に初のAIデバイスを発売すると明かした。Peiが“AI-native”デバイスとAIオペレーティングシステムの計画を発表してから、わずか一年余りでの発表となる。新デバイスの正体についてはほとんど語らず、画面がないことだけを示した："
+                "x": "Apoorv Shankarは、ごく近い将来、人は承認と拒否の連続を通じてテクノロジーと関わるようになると考えている。AIエージェントが自ら私たちのもとに来てタスクを片づけるようになる。そのたびにスマートフォンを取り出してイエスかノーかを答えるのは「ボトルネック」になると彼は言う。だからこそ彼はAina Ringを作った。小さなディスプレイとジョイスティックのようなボタンを備え、AIエージェントの操作をすばやく承認・拒否できる。現在予約を受け付けており、期間限定価格は$399、2027年1月に出荷が始まると小売価格は$499に上がる。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6aea53d84d3eef846d2fcf0b/master/w_1600%2Cc_limit/Aina%2520Ring%2520Hands.jpg",
+                "cap": "手にはめたAinaリング"
               },
               {
                 "t": "p",
-                "x": "“当社初のAI-native製品は来月出荷される。ツールではあるが、Nothing製品の特徴となってきた個性とこだわりを込めて作った。新たな画面はなく、アプリでは実現できなかったものだ。”"
+                "x": "チタン製のAina RingはMacsやiPhonesと接続する。位置情報、カレンダー、メールなどの個人データや、Ainaアプリで連携したUberやSpotifyなどのサードパーティーサービスから、ユーザーの日課を学習する。8:30 amにいつもUberで出勤しているなら配車を提案し、リングでイエスを弾けばタスクを処理してくれる。Shankarはこれを「Aina Cues」と呼び、リングのContext Aware Operating Systemがそれを支えている。ユーザーは自然言語で独自のCuesを作ったり、MuseやInstinctなど好みのAIエージェントを接続したりできる。"
               },
               {
                 "t": "p",
-                "x": "Peiは投稿に、左上に“NOTHING(R)”と記され、その下に正体不明の黒い角丸が写った画像を添えた。先月には、Nothingがカメラ非搭載モデルを含む二種類のAIスマートグラスを投入する計画だという噂が流れ、それ以前にはAIアクセサリーへの転換によって“AI-first企業として自らを再定義している”との噂もあった。"
+                "x": "Aina Voiceでは、中央のボタンを押してAIエージェントと会話できる。「承認こそがインターフェースとインタラクションの未来になる」とShankarは語る。"
               },
               {
-                "t": "p",
-                "x": "NothingのAIデバイスは、画面のないAIガジェットとして初めてではない。Humane AI pinやFriend、さらにはAIぬいぐるみといった先例がある。OpenAIもJony IveとともにAIスマートスピーカーを開発中と報じられている。Peiは過去のAIデバイスに触れ、“業界全体が自らのiPhoneのような瞬間を探している。ペンダント、ピン、メガネ、コンパニオンなど、AIを誰もの生活の一部にする魔法のような消費者向けデバイスだ”と述べた。さらに“今日、AIのiPhoneを探すのは行き止まりだ”と付け加えた。"
+                "t": "img",
+                "src": "https://media.wired.com/photos/6aea54376c2140d939cde56c/master/w_1600%2Cc_limit/Aina%2520Speaker%2520and%2520Shifter.png"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nothing预告下月推出\n无屏幕AI设备",
-          "body": "Carl Pei称，Nothing下月推出的首款AI-native设备没有屏幕。",
-          "mini_headline": "Nothing的无屏幕AI设备",
+          "headline": "Aina智能戒指\n一点即可指挥AI智能体",
+          "body": "初创公司Aina的新款智能戒指让你无需掏出手机，轻点一下即可批准或拒绝AI智能体的操作。",
+          "mini_headline": "Aina一键AI智能体戒指",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-                "cap": "图片：Dominic Preston / The Verge"
+                "src": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg"
               },
               {
                 "t": "p",
-                "x": "Nothing CEO Carl Pei在X上发帖称，公司将于12月推出首款AI设备。距Pei宣布打造“AI-native”设备和AI操作系统的计划仅过去一年多。他没有透露这款新设备究竟是什么，只说它不会有屏幕："
+                "x": "Apoorv Shankar认为，在不远的将来，人们将通过一连串的批准与拒绝来与技术互动。AI智能体会主动找上门来完成任务。他说，每次都掏出手机说“是”或“否”将成为“瓶颈”。这正是他打造Aina Ring的原因。戒指配有一块小屏幕和一个类似摇杆的按钮，可以快速接受或拒绝AI智能体的操作。目前已开放预订；限时价格为$399，2027年1月开始发货时零售价将升至$499。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6aea53d84d3eef846d2fcf0b/master/w_1600%2Cc_limit/Aina%2520Ring%2520Hands.jpg",
+                "cap": "戴在手上的Aina戒指"
               },
               {
                 "t": "p",
-                "x": "“我们的首款AI-native产品将于下个月发货。它是一件工具，但承载了定义Nothing产品的个性与用心。它没有新的屏幕，也不可能做成一个应用。”"
+                "x": "钛金属材质的Aina Ring可连接Macs或iPhones。它会从位置、日历、电子邮件等个人数据，以及在Aina应用中接入的Uber、Spotify等第三方服务中学习你的日常习惯。如果现在是8:30 am，而你通常乘Uber上班，它就会建议叫车——在戒指上拨一下“是”，它便会处理这项任务。Shankar称之为“Aina Cues”，由戒指的Context Aware Operating System驱动。用户可以用自然语言创建自己的Cues，或连接Muse、Instinct等偏好的AI智能体。"
               },
               {
                 "t": "p",
-                "x": "Pei随帖附上一张图片，左上角写着“NOTHING(R)”，下方是一个含义不明的黑色圆角。上个月有传言称，Nothing计划推出两款AI智能眼镜，其中一款不带摄像头；更早的传言则称，公司正转向AI配件，“将自身重新定位为AI-first公司”。"
+                "x": "借助Aina Voice，按下中间按钮即可与AI智能体对话。Shankar说：“批准将成为界面与交互的未来。”"
               },
               {
-                "t": "p",
-                "x": "Nothing的AI设备并不会是首款无屏幕AI小工具，此前已有Humane AI pin、Friend，甚至AI毛绒玩具。另据报道，OpenAI也在与Jony Ive合作开发一款AI智能音箱。Pei提到此前的AI设备时说：“整个行业都在寻找自己的iPhone时刻：吊坠、别针、眼镜、陪伴设备，某种能让AI融入每个人生活的神奇消费设备。”他补充道：“如今寻找AI界的iPhone是一条死胡同。”"
+                "t": "img",
+                "src": "https://media.wired.com/photos/6aea54376c2140d939cde56c/master/w_1600%2Cc_limit/Aina%2520Speaker%2520and%2520Shifter.png"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nothing adelanta un dispositivo\nAI sin pantalla el próximo mes",
-          "body": "Carl Pei dice que el primer dispositivo AI-native de Nothing, previsto para el próximo mes, no tendrá pantalla.",
-          "mini_headline": "El dispositivo AI sin pantalla de Nothing",
+          "headline": "El anillo de Aina activa tus\nagentes de AI con un toque",
+          "body": "El anillo de Aina permite aprobar o rechazar con un toque, sin sacar el teléfono, las acciones de tus agentes de AI.",
+          "mini_headline": "El anillo de Aina para agentes de AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-                "cap": "Foto: Dominic Preston / The Verge"
+                "src": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg"
               },
               {
                 "t": "p",
-                "x": "El CEO de Nothing, Carl Pei, dijo en una publicación en X que la compañía lanzará su primer dispositivo de AI en diciembre. Llega apenas un poco más de un año después de que Pei anunciara planes para dispositivos “AI-native” y un sistema operativo de AI. No reveló mucho sobre qué es exactamente el nuevo dispositivo, solo que una característica que no tendrá es una pantalla:"
+                "x": "Apoorv Shankar cree que, en un futuro muy cercano, las personas interactuarán con la tecnología mediante una serie de aprobaciones y rechazos. Los agentes de AI acudirán a nosotros de forma proactiva para completar tareas. Sacar el teléfono cada vez para decir sí o no será un “cuello de botella”, afirma. Por eso creó el Aina Ring. Tiene una pequeña pantalla y un botón similar a un joystick que permite aceptar o rechazar rápidamente las acciones de un agente de AI. Las reservas ya están abiertas; el anillo cuesta $399 por tiempo limitado, antes de que el precio de venta suba a $499 cuando comience a enviarse en enero de 2027."
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6aea53d84d3eef846d2fcf0b/master/w_1600%2Cc_limit/Aina%2520Ring%2520Hands.jpg",
+                "cap": "El anillo Aina en una mano"
               },
               {
                 "t": "p",
-                "x": "“Nuestro primer producto AI-native se envía el mes que viene. Es una herramienta, pero construida con la personalidad y el cuidado que han llegado a definir un producto Nothing. No tiene una pantalla nueva, y no podría haber sido una app.”"
+                "x": "El Aina Ring de titanio se conecta a Macs o iPhones. Aprende tus rutinas a partir de tus datos personales, como la ubicación, el calendario y el correo electrónico, y de servicios de terceros conectados en la app de Aina, como Uber o Spotify. Si son las 8:30 am y sueles ir al trabajo en Uber, te sugerirá el viaje: basta con indicar que sí en el anillo y se encargará de la tarea. Shankar llama a estas sugerencias “Aina Cues”, impulsadas por el Context Aware Operating System del anillo. Los usuarios pueden crear sus propias Cues con lenguaje natural o conectar un agente de AI preferido, como Muse o Instinct."
               },
               {
                 "t": "p",
-                "x": "Pei compartió con la publicación una imagen que dice “NOTHING(R)” en la esquina superior izquierda, sobre una ambigua esquina redondeada negra. El mes pasado, un rumor afirmó que Nothing planea lanzar dos pares de gafas inteligentes con AI, uno de ellos sin cámaras, y un rumor anterior dijo que se está “reposicionando como una empresa AI-first” con un giro hacia los accesorios de AI."
+                "x": "Aina Voice permite hablar con tus agentes de AI pulsando el botón central. “Las aprobaciones serán el futuro de las interfaces y de la interacción”, dice Shankar."
               },
               {
-                "t": "p",
-                "x": "El dispositivo de AI de Nothing no sería el primer gadget de AI sin pantalla, tras ejemplos como el Humane AI pin, el Friend e incluso peluches con AI. Según se informa, OpenAI también trabaja en un altavoz inteligente con AI junto a Jony Ive. Pei aludió a dispositivos de AI anteriores al decir que “toda la industria está buscando su momento iPhone: el colgante, el pin, las gafas, el acompañante, algún dispositivo de consumo mágico que haga de la AI parte de la vida de todos”. Y añadió: “Buscar hoy el iPhone de la AI es un callejón sin salida”."
+                "t": "img",
+                "src": "https://media.wired.com/photos/6aea54376c2140d939cde56c/master/w_1600%2Cc_limit/Aina%2520Speaker%2520and%2520Shifter.png"
               }
             ]
           }
@@ -325,195 +365,237 @@
       }
     },
     {
-      "id": "gemini-home-att-connected-life",
+      "id": "motorola-signature27-gemini",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Gemini for\nHome, AT&T 보안에",
-      "body": "Gemini for Home이 AT&T Connected Life와 연동된다.",
-      "mini_headline": "Gemini for Home, AT&T와 만나다",
+      "headline": "Gemini, Pixel\n넘어 Motorola로",
+      "body": "Pixel 밖에서는 Signature 27이 처음으로 Gemini 기능을 받는다.",
+      "mini_headline": "Motorola로 들어가는 Gemini Intelligence",
       "tool": "Gadgets",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/11/05/motorola-signature-27-gemini-intelligence-features/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497",
-            "cap": "이미지: AT&T"
+            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&w=1600"
           },
           {
             "t": "p",
-            "x": "AT&T의 스마트홈 보안 시스템이 Gemini for Home과 연동된다. 회사는 Connected Life 시스템이 Google Home Premium과 연동되는 “첫” 홈 보안 제품이라고 소개했다. 집 안 이벤트 요약, 영상 기록 검색 등 여러 Gemini-powered 기능을 쓸 수 있다."
+            "x": "Motorola가 Google의 Gemini Intelligence 기능을 들여온다. Pixel 밖으로는 첫 대규모 확장이며 Gboard의 Rambler 등도 지원한다. 엄밀히 따지면 Samsung의 최신 Galaxy 기기도 Google의 Gemini Intelligence를 지원하지만, Pixel 라인업 밖으로 문을 활짝 연 쪽은 Motorola다. 새 Motorola Signature 27은 지금까지 Googlebook에서만 쓸 수 있던 “Create My Widget”을 비롯해 Google의 새 기능 대부분을 공식 지원한다."
           },
           {
             "t": "p",
-            "x": "업데이트 이후 Gemini for Home은 누가 택배를 가져왔는지, 몇 개를 두고 갔는지처럼 보안 카메라에 잡힌 이벤트를 자세히 설명한다. “어젯밤 마당을 판 건 뭐지?”나 “누가 개들을 풀어 줬지?” 같은 자연어 질문으로 녹화 영상을 찾을 수 있고, 집 안팎 활동을 정리한 일일 요약도 받아 볼 수 있다."
+            "x": "“Create My Widget”은 위젯에 넣고 싶은 기능을 Gemini에 설명하면 AI가 작동하는 위젯을 만들어 주는 기능이다. Motorola는 11월 19일 출시 때부터 기본 탑재된다고 확인했다."
+          },
+          {
+            "t": "img",
+            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Create-My-Widget-7.jpg?quality=82&strip=all&w=800"
           },
           {
             "t": "p",
-            "x": "이 기능은 월 $29.99짜리 AT&T 전문 Connected Life 모니터링 요금제에서만 쓸 수 있다. AT&T는 사용자가 집에 얼마나 가까이 있는지에 따라 경비를 알아서 켜고 끄는 기능도 넣는다."
+            "x": "Gboard Rambler는 긴 음성 입력 프롬프트에서 군더더기 말을 걷어내고 서식을 입힌다. Sign-to-Text는 미국 수어(American Sign Language) 영상을 영어 텍스트로 옮긴다. Gemini 작업 자동화를 켜면 AI가 Uber, DoorDash 같은 지원 앱에서 백그라운드로 작업을 처리한다."
+          },
+          {
+            "t": "img",
+            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-on-Pixel-11.jpg?quality=82&strip=all&w=800"
           },
           {
             "t": "p",
-            "x": "AT&T는 지난해 12월 Google, Abode와 손잡고 Connected Life 시스템을 내놨다. 이제는 Google의 Gemini-powered Home APIs도 활용하는데, 스마트홈 브랜드와 개발자가 기기에 AI-powered 기능을 넣을 수 있게 해 주는 도구다. ADT도 자사 보안 시스템에 Gemini for Home 기능을 들이겠다는 뜻을 내비쳤다."
+            "x": "Motorola Signature 27은 지금 사전 주문을 받고 있다. 이 플래그십의 미국(US) 가격은 $1,599다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Gemini for Home reaches\nAT&T's security system",
-          "body": "Gemini for Home now connects to AT&T's Connected Life security system, bringing Google's AI to the carrier's setup.",
-          "mini_headline": "Gemini for Home meets AT&T",
+          "headline": "Gemini Intelligence leaves\nPixel for Motorola",
+          "body": "Motorola's Signature 27 gets Gemini Intelligence's Rambler and Create My Widget, its first major expansion past Pixel.",
+          "mini_headline": "Motorola gets Gemini Intelligence",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497",
-                "cap": "Image: AT&T"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "AT&T’s smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the “first” home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more."
+                "x": "Motorola is adopting Google’s Gemini Intelligence features in the first major expansion beyond Pixel, with Gboard’s Rambler and more supported. While Google’s Gemini Intelligence is technically supporting Samsung’s latest Galaxy devices too, it’s Motorola that’s opening the floodgates beyond the Pixel lineup. The new Motorola Signature 27 is officially getting support for the bulk of Google’s new features, including “Create My Widget” which, so far, has only been available on Googlebook."
               },
               {
                 "t": "p",
-                "x": "With the update, Gemini for Home can provide detailed descriptions about events captured by your security cameras, such as who delivered a package and how many items they dropped off. You can also search recorded video footage using natural language questions, like “What dug up the yard last night?” or “Who let the dogs out?”, as well as review daily summaries of activity in and outside your home."
+                "x": "“Create My Widget” allows users to describe the functionality they want in a widget to Gemini before the AI spits out a functional widget. Motorola confirmed it will be available out of the box on the November 19 launch date."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Create-My-Widget-7.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "These features are only available with AT&T’s professional $29.99 / month Connected Life monitoring plan. AT&T is also adding the ability to automatically arm or disarm your home based on your proximity to your home."
+                "x": "Gboard Rambler cleans up filler words in long voice-to-text prompts and can add formatting, while Sign-to-Text translates American Sign Language via video to English text. Gemini task automation lets the AI run tasks through supported apps such as Uber and DoorDash in the background."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-on-Pixel-11.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "AT&T launched its Connected Life system last December in partnership with Google and Abode. It’s now taking advantage of Google’s Gemini-powered Home APIs, which allow smart home brands and developers to build AI-powered features into their devices. ADT has also hinted at bringing Gemini for Home features into its security systems."
+                "x": "Motorola Signature 27 pre-orders are open now, with the flagship priced at $1,599 in the US."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Gemini for\nHome, AT&T 보안에",
-          "body": "Gemini for Home이 AT&T Connected Life와 연동된다.",
-          "mini_headline": "Gemini for Home, AT&T와 만나다",
+          "headline": "Gemini, Pixel\n넘어 Motorola로",
+          "body": "Pixel 밖에서는 Signature 27이 처음으로 Gemini 기능을 받는다.",
+          "mini_headline": "Motorola로 들어가는 Gemini Intelligence",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497",
-                "cap": "이미지: AT&T"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "AT&T의 스마트홈 보안 시스템이 Gemini for Home과 연동된다. 회사는 Connected Life 시스템이 Google Home Premium과 연동되는 “첫” 홈 보안 제품이라고 소개했다. 집 안 이벤트 요약, 영상 기록 검색 등 여러 Gemini-powered 기능을 쓸 수 있다."
+                "x": "Motorola가 Google의 Gemini Intelligence 기능을 들여온다. Pixel 밖으로는 첫 대규모 확장이며 Gboard의 Rambler 등도 지원한다. 엄밀히 따지면 Samsung의 최신 Galaxy 기기도 Google의 Gemini Intelligence를 지원하지만, Pixel 라인업 밖으로 문을 활짝 연 쪽은 Motorola다. 새 Motorola Signature 27은 지금까지 Googlebook에서만 쓸 수 있던 “Create My Widget”을 비롯해 Google의 새 기능 대부분을 공식 지원한다."
               },
               {
                 "t": "p",
-                "x": "업데이트 이후 Gemini for Home은 누가 택배를 가져왔는지, 몇 개를 두고 갔는지처럼 보안 카메라에 잡힌 이벤트를 자세히 설명한다. “어젯밤 마당을 판 건 뭐지?”나 “누가 개들을 풀어 줬지?” 같은 자연어 질문으로 녹화 영상을 찾을 수 있고, 집 안팎 활동을 정리한 일일 요약도 받아 볼 수 있다."
+                "x": "“Create My Widget”은 위젯에 넣고 싶은 기능을 Gemini에 설명하면 AI가 작동하는 위젯을 만들어 주는 기능이다. Motorola는 11월 19일 출시 때부터 기본 탑재된다고 확인했다."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Create-My-Widget-7.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "이 기능은 월 $29.99짜리 AT&T 전문 Connected Life 모니터링 요금제에서만 쓸 수 있다. AT&T는 사용자가 집에 얼마나 가까이 있는지에 따라 경비를 알아서 켜고 끄는 기능도 넣는다."
+                "x": "Gboard Rambler는 긴 음성 입력 프롬프트에서 군더더기 말을 걷어내고 서식을 입힌다. Sign-to-Text는 미국 수어(American Sign Language) 영상을 영어 텍스트로 옮긴다. Gemini 작업 자동화를 켜면 AI가 Uber, DoorDash 같은 지원 앱에서 백그라운드로 작업을 처리한다."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-on-Pixel-11.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "AT&T는 지난해 12월 Google, Abode와 손잡고 Connected Life 시스템을 내놨다. 이제는 Google의 Gemini-powered Home APIs도 활용하는데, 스마트홈 브랜드와 개발자가 기기에 AI-powered 기능을 넣을 수 있게 해 주는 도구다. ADT도 자사 보안 시스템에 Gemini for Home 기능을 들이겠다는 뜻을 내비쳤다."
+                "x": "Motorola Signature 27은 지금 사전 주문을 받고 있다. 이 플래그십의 미국(US) 가격은 $1,599다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Gemini for\nHomeがAT&T防犯に対応",
-          "body": "Gemini for HomeがAT&TのConnected Lifeに対応した。",
-          "mini_headline": "Gemini for HomeとAT&T",
+          "headline": "GeminiがPixel外へ\nMotorolaに本格展開",
+          "body": "Signature 27は、Pixel以外で初めてGemini新機能を本格搭載する。",
+          "mini_headline": "MotorolaにGemini Intelligence",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497",
-                "cap": "画像：AT&T"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "AT&TのスマートホームセキュリティシステムがGemini for Homeと連携した。同社によると、Connected LifeシステムはGoogle Home Premiumと連携する“初”のホームセキュリティ製品で、家の出来事の要約や映像履歴の検索など、Gemini-poweredの機能を幅広く使えるという。"
+                "x": "Motorolaは、Pixel以外への初の大規模展開としてGoogleのGemini Intelligence機能を採用し、GboardのRamblerなどに対応する。厳密にはGoogleのGemini IntelligenceはSamsungの最新Galaxy端末にも対応しているが、Pixelシリーズの外へ本格的に門戸を開くのはMotorolaだ。新しいMotorola Signature 27は、これまでGooglebookでしか使えなかった「Create My Widget」を含め、Googleの新機能の大半に正式対応する。"
               },
               {
                 "t": "p",
-                "x": "今回のアップデートで、Gemini for Homeは防犯カメラが捉えた出来事を詳しく説明できる。誰が荷物を届け、いくつ置いていったかといった具合だ。“昨夜、庭を掘り返したのは何？”や“犬を外に出したのは誰？”のような自然な言葉で録画映像を検索でき、家の内外の活動をまとめた日次サマリーも確認できる。"
+                "x": "「Create My Widget」は、ウィジェットに求める機能をGeminiに説明すると、AIが実際に動くウィジェットを生成する機能だ。Motorolaは、11月19日の発売日から初期状態で利用できると認めた。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Create-My-Widget-7.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "これらの機能は、AT&Tのプロ向けConnected Lifeモニタリングプラン（月$29.99）でのみ利用できる。AT&Tは、自宅との距離に応じて警備を自動でオン・オフする機能も追加する。"
+                "x": "Gboard Ramblerは長い音声入力のプロンプトからフィラーワードを取り除き、書式を加えることもできる。Sign-to-Textは動画を通じてアメリカ手話(American Sign Language)を英語テキストに翻訳する。Geminiのタスク自動化により、AIがUberやDoorDashなどの対応アプリを介してバックグラウンドでタスクを実行できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-on-Pixel-11.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "AT&TはGoogleおよびAbodeと提携し、昨年12月にConnected Lifeシステムを発売した。現在は、スマートホームブランドや開発者が自社デバイスにAI-poweredの機能を組み込めるGoogleのGemini-powered Home APIsを活用している。ADTも自社のセキュリティシステムにGemini for Homeの機能を導入する考えを示唆している。"
+                "x": "Motorola Signature 27は現在予約受付中で、このフラッグシップの米国(US)価格は$1,599だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini for\nHome接入AT&T安防系统",
-          "body": "Gemini for Home现已接入AT&T的Connected Life安防系统。",
-          "mini_headline": "Gemini for Home牵手AT&T",
+          "headline": "Gemini走出Pixel\n登陆Motorola",
+          "body": "Signature 27获得Gemini新功能，这是其在Pixel之外的首次大规模扩展。",
+          "mini_headline": "Motorola迎来Gemini Intelligence",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497",
-                "cap": "图片：AT&T"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "AT&T的智能家居安防系统现已与Gemini for Home集成。该公司称，其Connected Life系统是“首款”与Google Home Premium集成的家庭安防产品，可启用一系列Gemini-powered功能，例如汇总家中事件、搜索视频记录等。"
+                "x": "Motorola正在采用Google的Gemini Intelligence功能，这是该功能在Pixel之外的首次大规模扩展，支持Gboard的Rambler等。虽然严格来说Google的Gemini Intelligence也支持Samsung最新的Galaxy设备，但真正为Pixel系列之外敞开大门的是Motorola。新款Motorola Signature 27正式支持Google大部分新功能，包括此前仅在Googlebook上提供的“Create My Widget”。"
               },
               {
                 "t": "p",
-                "x": "此次更新后，Gemini for Home可以详细描述安防摄像头拍到的事件，比如是谁送来了包裹、放下了几件。用户还可以用自然语言提问来搜索录像，例如“昨晚是什么把院子刨开了？”或“谁把狗放出去了？”，并查看家中内外活动的每日摘要。"
+                "x": "“Create My Widget”让用户向Gemini描述想要的小组件功能，随后由AI生成可用的小组件。Motorola确认，该功能将在11月19日发售当天开箱即用。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Create-My-Widget-7.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "这些功能仅适用于AT&T每月$29.99的专业Connected Life监控套餐。AT&T还新增了根据用户与住所的距离自动布防或撤防的功能。"
+                "x": "Gboard Rambler能清理长段语音转文字提示中的口头赘词，还能添加格式；Sign-to-Text则通过视频将美国手语（American Sign Language）翻译成英文文本。借助Gemini任务自动化，AI可在后台通过Uber、DoorDash等受支持的应用执行任务。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-on-Pixel-11.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "AT&T去年12月与Google和Abode合作推出了Connected Life系统。如今它利用了Google的Gemini-powered Home APIs，这些接口让智能家居品牌和开发者能够在设备中加入AI-powered功能。ADT也暗示将把Gemini for Home功能引入其安防系统。"
+                "x": "Motorola Signature 27现已开放预订，这款旗舰机在美国（US）售价$1,599。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemini for Home llega al\nsistema de seguridad de AT&T",
-          "body": "Gemini for Home se integra con el sistema de seguridad Connected Life de AT&T y suma la AI de Google.",
-          "mini_headline": "Gemini for Home llega a AT&T",
+          "headline": "Gemini Intelligence sale\nde Pixel y llega a Motorola",
+          "body": "Motorola Signature 27 suma Rambler y Create My Widget, la primera gran expansión de Gemini Intelligence fuera de Pixel.",
+          "mini_headline": "Motorola recibe Gemini Intelligence",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497",
-                "cap": "Imagen: AT&T"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "El sistema de seguridad para el hogar inteligente de AT&T ya se integra con Gemini for Home. La compañía afirma que su sistema Connected Life es el “primer” producto de seguridad doméstica que se integra con Google Home Premium, lo que habilita varias funciones Gemini-powered que pueden resumir eventos del hogar, buscar en el historial de video y más."
+                "x": "Motorola adopta las funciones Gemini Intelligence de Google en su primera gran expansión fuera de Pixel, con compatibilidad con Rambler de Gboard y más. Aunque técnicamente Gemini Intelligence de Google también es compatible con los dispositivos Galaxy más recientes de Samsung, es Motorola quien abre de par en par las puertas más allá de la línea Pixel. El nuevo Motorola Signature 27 recibe oficialmente la mayoría de las nuevas funciones de Google, incluida “Create My Widget”, que hasta ahora solo estaba disponible en Googlebook."
               },
               {
                 "t": "p",
-                "x": "Con la actualización, Gemini for Home puede ofrecer descripciones detalladas de los eventos captados por las cámaras de seguridad, como quién entregó un paquete y cuántos artículos dejó. También se pueden buscar grabaciones con preguntas en lenguaje natural, como “¿Qué excavó el jardín anoche?” o “¿Quién dejó salir a los perros?”, y revisar resúmenes diarios de la actividad dentro y fuera de casa."
+                "x": "“Create My Widget” permite a los usuarios describir a Gemini la funcionalidad que desean en un widget para que la AI genere un widget funcional. Motorola confirmó que estará disponible de serie en la fecha de lanzamiento del 19 de noviembre."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Create-My-Widget-7.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "Estas funciones solo están disponibles con el plan profesional de monitoreo Connected Life de AT&T, de $29.99 / mes. AT&T también añade la posibilidad de activar o desactivar automáticamente la alarma de la casa según la proximidad del usuario a su hogar."
+                "x": "Gboard Rambler elimina las muletillas en las instrucciones largas de voz a texto y puede añadir formato, mientras que Sign-to-Text traduce mediante video la lengua de señas estadounidense (American Sign Language) a texto en inglés. La automatización de tareas de Gemini permite que la AI ejecute tareas en segundo plano a través de apps compatibles como Uber y DoorDash."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-on-Pixel-11.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "AT&T lanzó su sistema Connected Life en diciembre pasado en colaboración con Google y Abode. Ahora aprovecha las Home APIs Gemini-powered de Google, que permiten a marcas y desarrolladores de hogar inteligente integrar funciones AI-powered en sus dispositivos. ADT también ha insinuado que llevará funciones de Gemini for Home a sus sistemas de seguridad."
+                "x": "Las reservas del Motorola Signature 27 ya están abiertas, y el buque insignia cuesta $1,599 en Estados Unidos (US)."
               }
             ]
           }
@@ -521,125 +603,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Gemini for\nHome, AT&T 보안에",
-          "body": "Gemini for Home이 AT&T Connected Life에 연결된다.",
-          "mini_headline": "Gemini for Home, AT&T와 만나다",
+          "headline": "Gemini, Pixel\n넘어 Motorola로",
+          "body": "Signature 27이 Pixel 밖 처음으로 Gemini 기능을 받는다.",
+          "mini_headline": "Motorola에 Gemini Intelligence 탑재",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497",
-                "cap": "이미지: AT&T"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "AT&T의 스마트홈 보안 시스템이 이제 Gemini for Home과 연동된다. 회사는 Connected Life 시스템이 Google Home Premium과 연동되는 “첫” 홈 보안 제품이라며, 집 안 이벤트 요약, 영상 기록 검색 등 다양한 Gemini-powered 기능을 쓸 수 있다고 밝혔다."
+                "x": "Motorola가 Google의 Gemini Intelligence 기능을 도입한다. Pixel을 넘어선 첫 대규모 확장으로, Gboard의 Rambler 등을 지원한다. 엄밀히 말해 Google의 Gemini Intelligence는 Samsung의 최신 Galaxy 기기도 지원하지만, Pixel 라인업 밖으로 문을 활짝 연 것은 Motorola다. 새 Motorola Signature 27은 지금까지 Googlebook에서만 쓸 수 있던 “Create My Widget”을 포함해 Google의 새 기능 대부분을 공식 지원한다."
               },
               {
                 "t": "p",
-                "x": "이번 업데이트로 Gemini for Home은 누가 택배를 배달했는지, 몇 개를 놓고 갔는지처럼 보안 카메라에 잡힌 이벤트를 자세히 설명해 준다. “어젯밤 마당을 판 건 뭐지?”나 “누가 개들을 풀어 줬지?” 같은 자연어 질문으로 녹화 영상을 검색할 수 있고, 집 안팎 활동을 정리한 일일 요약도 볼 수 있다."
+                "x": "“Create My Widget”은 사용자가 위젯에 원하는 기능을 Gemini에 설명하면 AI가 작동하는 위젯을 만들어 내는 기능이다. Motorola는 11월 19일 출시일부터 기본 탑재된다고 확인했다."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Create-My-Widget-7.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "이 기능은 월 $29.99인 AT&T의 전문 Connected Life 모니터링 요금제에서만 쓸 수 있다. AT&T는 사용자가 집에 얼마나 가까이 있는지에 따라 경비를 자동으로 설정하거나 해제하는 기능도 추가한다."
+                "x": "Gboard Rambler는 긴 음성 입력 프롬프트에서 군더더기 말을 정리하고 서식을 더할 수 있으며, Sign-to-Text는 영상으로 미국 수어(American Sign Language)를 영어 텍스트로 옮긴다. Gemini 작업 자동화를 쓰면 AI가 Uber, DoorDash 같은 지원 앱을 통해 백그라운드에서 작업을 수행한다."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-on-Pixel-11.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "AT&T는 지난해 12월 Google, Abode와 손잡고 Connected Life 시스템을 출시했다. 이제는 스마트홈 브랜드와 개발자가 기기에 AI-powered 기능을 넣을 수 있게 해 주는 Google의 Gemini-powered Home APIs를 활용한다. ADT도 자사 보안 시스템에 Gemini for Home 기능을 도입하겠다는 뜻을 내비쳤다."
+                "x": "Motorola Signature 27은 현재 사전 주문을 받고 있으며, 이 플래그십의 미국(US) 가격은 $1,599다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Gemini for\nHomeがAT&T防犯に対応",
-          "body": "Gemini for HomeがAT&TのConnected Lifeに対応した。",
-          "mini_headline": "Gemini for HomeとAT&T",
+          "headline": "GeminiがPixel外へ\nMotorolaに本格展開",
+          "body": "Signature 27は、Pixel以外で初めてGemini新機能を本格搭載する。",
+          "mini_headline": "MotorolaにGemini Intelligence",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497",
-                "cap": "画像：AT&T"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "AT&TのスマートホームセキュリティシステムがGemini for Homeと連携した。同社によると、Connected LifeシステムはGoogle Home Premiumと連携する“初”のホームセキュリティ製品で、家の出来事の要約や映像履歴の検索など、Gemini-poweredの機能を幅広く使えるという。"
+                "x": "Motorolaは、Pixel以外への初の大規模展開としてGoogleのGemini Intelligence機能を採用し、GboardのRamblerなどに対応する。厳密にはGoogleのGemini IntelligenceはSamsungの最新Galaxy端末にも対応しているが、Pixelシリーズの外へ本格的に門戸を開くのはMotorolaだ。新しいMotorola Signature 27は、これまでGooglebookでしか使えなかった「Create My Widget」を含め、Googleの新機能の大半に正式対応する。"
               },
               {
                 "t": "p",
-                "x": "今回のアップデートで、Gemini for Homeは防犯カメラが捉えた出来事を詳しく説明できる。誰が荷物を届け、いくつ置いていったかといった具合だ。“昨夜、庭を掘り返したのは何？”や“犬を外に出したのは誰？”のような自然な言葉で録画映像を検索でき、家の内外の活動をまとめた日次サマリーも確認できる。"
+                "x": "「Create My Widget」は、ウィジェットに求める機能をGeminiに説明すると、AIが実際に動くウィジェットを生成する機能だ。Motorolaは、11月19日の発売日から初期状態で利用できると認めた。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Create-My-Widget-7.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "これらの機能は、AT&Tのプロ向けConnected Lifeモニタリングプラン（月$29.99）でのみ利用できる。AT&Tは、自宅との距離に応じて警備を自動でオン・オフする機能も追加する。"
+                "x": "Gboard Ramblerは長い音声入力のプロンプトからフィラーワードを取り除き、書式を加えることもできる。Sign-to-Textは動画を通じてアメリカ手話(American Sign Language)を英語テキストに翻訳する。Geminiのタスク自動化により、AIがUberやDoorDashなどの対応アプリを介してバックグラウンドでタスクを実行できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-on-Pixel-11.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "AT&TはGoogleおよびAbodeと提携し、昨年12月にConnected Lifeシステムを発売した。現在は、スマートホームブランドや開発者が自社デバイスにAI-poweredの機能を組み込めるGoogleのGemini-powered Home APIsを活用している。ADTも自社のセキュリティシステムにGemini for Homeの機能を導入する考えを示唆している。"
+                "x": "Motorola Signature 27は現在予約受付中で、このフラッグシップの米国(US)価格は$1,599だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini for\nHome接入AT&T安防系统",
-          "body": "Gemini for Home现已接入AT&T的Connected Life安防系统。",
-          "mini_headline": "Gemini for Home牵手AT&T",
+          "headline": "Gemini走出Pixel\n登陆Motorola",
+          "body": "Signature 27获得Gemini新功能，这是其在Pixel之外的首次大规模扩展。",
+          "mini_headline": "Motorola迎来Gemini Intelligence",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497",
-                "cap": "图片：AT&T"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "AT&T的智能家居安防系统现已与Gemini for Home集成。该公司称，其Connected Life系统是“首款”与Google Home Premium集成的家庭安防产品，可启用一系列Gemini-powered功能，例如汇总家中事件、搜索视频记录等。"
+                "x": "Motorola正在采用Google的Gemini Intelligence功能，这是该功能在Pixel之外的首次大规模扩展，支持Gboard的Rambler等。虽然严格来说Google的Gemini Intelligence也支持Samsung最新的Galaxy设备，但真正为Pixel系列之外敞开大门的是Motorola。新款Motorola Signature 27正式支持Google大部分新功能，包括此前仅在Googlebook上提供的“Create My Widget”。"
               },
               {
                 "t": "p",
-                "x": "此次更新后，Gemini for Home可以详细描述安防摄像头拍到的事件，比如是谁送来了包裹、放下了几件。用户还可以用自然语言提问来搜索录像，例如“昨晚是什么把院子刨开了？”或“谁把狗放出去了？”，并查看家中内外活动的每日摘要。"
+                "x": "“Create My Widget”让用户向Gemini描述想要的小组件功能，随后由AI生成可用的小组件。Motorola确认，该功能将在11月19日发售当天开箱即用。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Create-My-Widget-7.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "这些功能仅适用于AT&T每月$29.99的专业Connected Life监控套餐。AT&T还新增了根据用户与住所的距离自动布防或撤防的功能。"
+                "x": "Gboard Rambler能清理长段语音转文字提示中的口头赘词，还能添加格式；Sign-to-Text则通过视频将美国手语（American Sign Language）翻译成英文文本。借助Gemini任务自动化，AI可在后台通过Uber、DoorDash等受支持的应用执行任务。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-on-Pixel-11.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "AT&T去年12月与Google和Abode合作推出了Connected Life系统。如今它利用了Google的Gemini-powered Home APIs，这些接口让智能家居品牌和开发者能够在设备中加入AI-powered功能。ADT也暗示将把Gemini for Home功能引入其安防系统。"
+                "x": "Motorola Signature 27现已开放预订，这款旗舰机在美国（US）售价$1,599。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemini for Home llega al\nsistema de seguridad de AT&T",
-          "body": "Gemini for Home se integra con el sistema de seguridad Connected Life de AT&T y suma la AI de Google.",
-          "mini_headline": "Gemini for Home llega a AT&T",
+          "headline": "Gemini Intelligence sale\nde Pixel y llega a Motorola",
+          "body": "Motorola Signature 27 suma Rambler y Create My Widget, la primera gran expansión de Gemini Intelligence fuera de Pixel.",
+          "mini_headline": "Motorola recibe Gemini Intelligence",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497",
-                "cap": "Imagen: AT&T"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "El sistema de seguridad para el hogar inteligente de AT&T ya se integra con Gemini for Home. La compañía afirma que su sistema Connected Life es el “primer” producto de seguridad doméstica que se integra con Google Home Premium, lo que habilita varias funciones Gemini-powered que pueden resumir eventos del hogar, buscar en el historial de video y más."
+                "x": "Motorola adopta las funciones Gemini Intelligence de Google en su primera gran expansión fuera de Pixel, con compatibilidad con Rambler de Gboard y más. Aunque técnicamente Gemini Intelligence de Google también es compatible con los dispositivos Galaxy más recientes de Samsung, es Motorola quien abre de par en par las puertas más allá de la línea Pixel. El nuevo Motorola Signature 27 recibe oficialmente la mayoría de las nuevas funciones de Google, incluida “Create My Widget”, que hasta ahora solo estaba disponible en Googlebook."
               },
               {
                 "t": "p",
-                "x": "Con la actualización, Gemini for Home puede ofrecer descripciones detalladas de los eventos captados por las cámaras de seguridad, como quién entregó un paquete y cuántos artículos dejó. También se pueden buscar grabaciones con preguntas en lenguaje natural, como “¿Qué excavó el jardín anoche?” o “¿Quién dejó salir a los perros?”, y revisar resúmenes diarios de la actividad dentro y fuera de casa."
+                "x": "“Create My Widget” permite a los usuarios describir a Gemini la funcionalidad que desean en un widget para que la AI genere un widget funcional. Motorola confirmó que estará disponible de serie en la fecha de lanzamiento del 19 de noviembre."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Create-My-Widget-7.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "Estas funciones solo están disponibles con el plan profesional de monitoreo Connected Life de AT&T, de $29.99 / mes. AT&T también añade la posibilidad de activar o desactivar automáticamente la alarma de la casa según la proximidad del usuario a su hogar."
+                "x": "Gboard Rambler elimina las muletillas en las instrucciones largas de voz a texto y puede añadir formato, mientras que Sign-to-Text traduce mediante video la lengua de señas estadounidense (American Sign Language) a texto en inglés. La automatización de tareas de Gemini permite que la AI ejecute tareas en segundo plano a través de apps compatibles como Uber y DoorDash."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-on-Pixel-11.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "AT&T lanzó su sistema Connected Life en diciembre pasado en colaboración con Google y Abode. Ahora aprovecha las Home APIs Gemini-powered de Google, que permiten a marcas y desarrolladores de hogar inteligente integrar funciones AI-powered en sus dispositivos. ADT también ha insinuado que llevará funciones de Gemini for Home a sus sistemas de seguridad."
+                "x": "Las reservas del Motorola Signature 27 ya están abiertas, y el buque insignia cuesta $1,599 en Estados Unidos (US)."
               }
             ]
           }
@@ -647,255 +757,201 @@
       }
     },
     {
-      "id": "disneyland-robot-interns",
+      "id": "samsung-xr-glasses-preorder",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Disneyland의\nAI 로봇 인턴 양성",
-      "body": "Pixar 로봇과 Star Wars 드로이드로 Disneyland에 AI가 번진다.",
-      "mini_headline": "Disneyland의 AI 로봇 인턴",
+      "headline": "Samsung XR 안경\n11월 12일 예약 시작",
+      "body": "Samsung Android XR 안경이 11월 12일부터 사전 주문을 받는다.",
+      "mini_headline": "Samsung XR 안경 11월 12일 예약",
       "tool": "Gadgets",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/computing/disneyland-training-ai-robot-interns/",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/samsung-smart-glasses-pre-orders-3732159/",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
+            "cap": "Samsung Warby Parker 스마트 안경을 든 모습"
+          },
+          {
             "t": "p",
-            "x": "Disney Accelerator Demo Day에서 Disney와 로봇용 AI 두뇌를 만드는 FieldAI가 Disneyland 주차장에서 차량을 안내할 로봇 영상을 공개했다. Disney Experiences Technology의 Gary Daniels는 “도착했을 때 Cars의 캐릭터나 Wall-E의 로봇이 주차할 곳을 안내한다고 상상해 보라”고 말했다."
+            "x": "Samsung Android XR 스마트 안경 출시가 코앞이다. 사전 주문은 11월 12일에 시작한다. Google과 함께 만든 이 오디오 기반 스마트 안경에는 Warby Parker와 Gentle Monster의 테가 쓰인다. 가격과 배송 일정은 아직 나오지 않았다."
+          },
+          {
+            "t": "p",
+            "x": "오디오 중심의 Android XR 경험이 될 것으로 알려졌고, 디스플레이를 넣은 Samsung 모델은 좀 더 기다려야 한다. 최근 소문으로는 결국 12월 중 출하될 전망이다. 덩치 큰 Samsung Galaxy XR 헤드셋처럼 $1,800까지는 아니겠지만, 괜찮은 휴대폰 한 대 값은 들 수 있다."
           },
           {
             "t": "img",
-            "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_100454_YouTube.jpeg?w=864",
-            "cap": "FieldAI는 AI로 자율 로봇을 학습시켜 Disneyland 주차장에서 방문객을 안내하게 한다."
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg",
+            "cap": "Warby Parker가 디자인한 Samsung 스마트 안경"
           },
           {
             "t": "p",
-            "x": "FieldAI는 피지컬 AI를 카메라 여러 대가 달린 상자에 담아 다른 회사 로봇 위에 얹는다. FieldAI-enabled 로봇은 아직 초기 단계지만 Galaxy’s Edge의 BBX 드로이드에는 이미 들어갔다. CEO Ali Agha는 “우리 지능은 더 큰 버전에 탑재돼 이미 파크에서 작동하고 있다”고 말했다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_101600_YouTube.jpeg?w=864",
-            "cap": "FieldAI의 AI 덕분에 자율 드로이드는 매핑, GPS, 안내 없이도 Disneyland의 Star Wars: Galaxy’s Edge를 누빈다."
-          },
-          {
-            "t": "p",
-            "x": "Physical Intelligence (Pi)는 무대 뒤 캐스트 멤버를 돕는 로봇에 집중한다. 3D 안경을 집고 접고 닦고 분류하는 일이다. Pi는 Disneyland에서 12일 동안 자정부터 오전 6시 사이에 데이터를 모았다. Sourish Jasti는 “일종의 로봇 인턴십이었다”며 “Disney와 함께 여러 다양한 공간에서 로봇이 인턴으로 일하게 할 계획”이라고 말했다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_102519_YouTube.jpeg?w=864",
-            "cap": "Pi AI-enabled 로봇이 Disneyland 무대 뒤에서 3D 안경을 집어 쌓는다."
-          },
-          {
-            "t": "p",
-            "x": "Disney Research의 Doug Fidaleo는 “미래의 파크는 로봇 캐릭터로 가득할 것”이라고 말했다."
+            "x": "이 안경으로 시내 길 안내나 번역 도움을 받고, 그냥 Gemini와 대화하며 정보를 얻을 수도 있다. 카메라도 달려 있다. Samsung은 녹화 중에는 LED를 켜고, LED가 가려지면 이를 감지해 촬영을 막도록 했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Disneyland trains a class\nof AI robot interns",
-          "body": "Physical AI is spreading across Disneyland, from Pixar robots that help guests park to droids roaming Star Wars land.",
-          "mini_headline": "Disneyland's AI robot interns",
+          "headline": "Samsung's Android XR glasses\nopen for pre-order Nov. 12",
+          "body": "Pre-orders for Samsung's Android XR smart glasses, with frames from Warby Parker and Gentle Monster, begin November 12.",
+          "mini_headline": "Samsung XR glasses pre-orders Nov. 12",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
+                "cap": "A person holding the Samsung Warby Parker smart glasses"
+              },
+              {
                 "t": "p",
-                "x": "At the Disney Accelerator Demo Day, Disney and FieldAI, a company that builds the AI brains for robots, showed footage of robots that would assist with guiding cars through the Disneyland parking process. “Imagine if a character from Cars or robots from Wall-E direct you where to park when you arrive,” said Gary Daniels of Disney Experiences Technology."
+                "x": "Samsung Android XR smart glasses are nearly here, with pre-orders now confirmed to open on November 12. The audio-based smart glasses, developed in collaboration with Google, will feature frames from Warby Parker and Gentle Monster. We’re still waiting for details on pricing and shipping dates."
+              },
+              {
+                "t": "p",
+                "x": "We know to expect an audio-first Android XR experience — Samsung models with integrated displays will have to wait. Recent rumors have suggested that the glasses will ultimately ship sometime in December. You won’t be paying anything like the $1,800 the bulky Samsung Galaxy XR headset runs, but these could still end up costing you as much as a decent phone."
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_100454_YouTube.jpeg?w=864",
-                "cap": "FieldAI is using AI to train autonomous robots to guide you in parking lots at Disneyland."
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg",
+                "cap": "The Samsung smart glasses designed by Warby Parker"
               },
               {
                 "t": "p",
-                "x": "FieldAI puts its physical AI in a box with multiple cameras on top of robots built by others. FieldAI-enabled robots have already been deployed at Galaxy’s Edge on the BBX droids, though in early stages. “Our intelligence is on the bigger version and operating in the park already,” CEO Ali Agha said."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_101600_YouTube.jpeg?w=864",
-                "cap": "FieldAI is using AI to enable autonomous droids to wander around Star Wars: Galaxy’s Edge at Disneyland without needing mapping, GPS or guiding."
-              },
-              {
-                "t": "p",
-                "x": "Physical Intelligence (Pi) focuses on robots helping cast members backstage: picking up, folding, cleaning and sorting 3D glasses. Pi spent 12 days at Disneyland between midnight and 6 a.m. collecting data. “This was like a robot internship,” said Sourish Jasti. “We intend to have robots interning in many different spaces with Disney.”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_102519_YouTube.jpeg?w=864",
-                "cap": "Pi AI-enabled robots pick up and stack 3D glasses behind the scenes at Disneyland."
-              },
-              {
-                "t": "p",
-                "x": "“The park of the future will be teeming with robot characters,” said Doug Fidaleo of Disney Research."
+                "x": "Shoppers can look forward to using the smart glasses for help navigating around town, assisting with translations, or just chatting with Gemini to get information. They’re also equipped with cameras, and Samsung lights up an LED while recording and refuses to film if it detects the LED has been covered."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Disneyland의\nAI 로봇 인턴 양성",
-          "body": "Pixar 로봇과 Star Wars 드로이드로 Disneyland에 AI가 번진다.",
-          "mini_headline": "Disneyland의 AI 로봇 인턴",
+          "headline": "Samsung XR 안경\n11월 12일 예약 시작",
+          "body": "Samsung Android XR 안경이 11월 12일부터 사전 주문을 받는다.",
+          "mini_headline": "Samsung XR 안경 11월 12일 예약",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
+                "cap": "Samsung Warby Parker 스마트 안경을 든 모습"
+              },
+              {
                 "t": "p",
-                "x": "Disney Accelerator Demo Day에서 Disney와 로봇용 AI 두뇌를 만드는 FieldAI가 Disneyland 주차장에서 차량을 안내할 로봇 영상을 공개했다. Disney Experiences Technology의 Gary Daniels는 “도착했을 때 Cars의 캐릭터나 Wall-E의 로봇이 주차할 곳을 안내한다고 상상해 보라”고 말했다."
+                "x": "Samsung Android XR 스마트 안경 출시가 코앞이다. 사전 주문은 11월 12일에 시작한다. Google과 함께 만든 이 오디오 기반 스마트 안경에는 Warby Parker와 Gentle Monster의 테가 쓰인다. 가격과 배송 일정은 아직 나오지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "오디오 중심의 Android XR 경험이 될 것으로 알려졌고, 디스플레이를 넣은 Samsung 모델은 좀 더 기다려야 한다. 최근 소문으로는 결국 12월 중 출하될 전망이다. 덩치 큰 Samsung Galaxy XR 헤드셋처럼 $1,800까지는 아니겠지만, 괜찮은 휴대폰 한 대 값은 들 수 있다."
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_100454_YouTube.jpeg?w=864",
-                "cap": "FieldAI는 AI로 자율 로봇을 학습시켜 Disneyland 주차장에서 방문객을 안내하게 한다."
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg",
+                "cap": "Warby Parker가 디자인한 Samsung 스마트 안경"
               },
               {
                 "t": "p",
-                "x": "FieldAI는 피지컬 AI를 카메라 여러 대가 달린 상자에 담아 다른 회사 로봇 위에 얹는다. FieldAI-enabled 로봇은 아직 초기 단계지만 Galaxy’s Edge의 BBX 드로이드에는 이미 들어갔다. CEO Ali Agha는 “우리 지능은 더 큰 버전에 탑재돼 이미 파크에서 작동하고 있다”고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_101600_YouTube.jpeg?w=864",
-                "cap": "FieldAI의 AI 덕분에 자율 드로이드는 매핑, GPS, 안내 없이도 Disneyland의 Star Wars: Galaxy’s Edge를 누빈다."
-              },
-              {
-                "t": "p",
-                "x": "Physical Intelligence (Pi)는 무대 뒤 캐스트 멤버를 돕는 로봇에 집중한다. 3D 안경을 집고 접고 닦고 분류하는 일이다. Pi는 Disneyland에서 12일 동안 자정부터 오전 6시 사이에 데이터를 모았다. Sourish Jasti는 “일종의 로봇 인턴십이었다”며 “Disney와 함께 여러 다양한 공간에서 로봇이 인턴으로 일하게 할 계획”이라고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_102519_YouTube.jpeg?w=864",
-                "cap": "Pi AI-enabled 로봇이 Disneyland 무대 뒤에서 3D 안경을 집어 쌓는다."
-              },
-              {
-                "t": "p",
-                "x": "Disney Research의 Doug Fidaleo는 “미래의 파크는 로봇 캐릭터로 가득할 것”이라고 말했다."
+                "x": "이 안경으로 시내 길 안내나 번역 도움을 받고, 그냥 Gemini와 대화하며 정보를 얻을 수도 있다. 카메라도 달려 있다. Samsung은 녹화 중에는 LED를 켜고, LED가 가려지면 이를 감지해 촬영을 막도록 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Disneylandが\nAIロボット実習生を育成",
-          "body": "DisneylandではPixarロボからStar Warsのドロイドまで、AIが広がる。",
-          "mini_headline": "DisneylandのAIロボット実習生",
+          "headline": "Samsung XRグラス\n11月12日に予約開始",
+          "body": "SamsungのAndroid XRグラスは、11月12日に予約受付を始める。",
+          "mini_headline": "Samsung XRグラス、11月12日予約開始",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
+                "cap": "SamsungのWarby Parker製スマートグラスを手にする人"
+              },
+              {
                 "t": "p",
-                "x": "Disney Accelerator Demo Dayで、Disneyと、ロボット用のAI頭脳を開発するFieldAIは、Disneylandの駐車手続きで車の誘導を手伝うロボットの映像を披露した。Disney Experiences TechnologyのGary Danielsは“到着したとき、CarsのキャラクターやWall-Eのロボットが駐車場所を案内してくれると想像してほしい”と語った。"
+                "x": "SamsungのAndroid XRスマートグラスの登場が目前に迫り、予約受付は11月12日開始と確定した。Googleと共同開発したこのオーディオ中心のスマートグラスには、Warby ParkerとGentle Monsterのフレームが採用される。価格と出荷日の詳細はまだ明らかになっていない。"
+              },
+              {
+                "t": "p",
+                "x": "オーディオ優先のAndroid XR体験になることはわかっており、ディスプレイを内蔵したSamsungモデルはまだ先になる。最近のうわさでは、このグラスは最終的に12月中に出荷されるという。大きなSamsung Galaxy XRヘッドセットの$1,800ほどにはならないものの、それなりのスマートフォン並みの価格になる可能性はある。"
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_100454_YouTube.jpeg?w=864",
-                "cap": "FieldAIはAIを使い、Disneylandの駐車場で来場者を案内する自律ロボットを訓練している。"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg",
+                "cap": "Warby ParkerがデザインしたSamsungのスマートグラス"
               },
               {
                 "t": "p",
-                "x": "FieldAIは、複数のカメラを備えた箱にフィジカルAIを収め、他社製ロボットの上に載せる。FieldAI-enabledのロボットは、まだ初期段階ながらGalaxy’s EdgeのBBXドロイドにすでに導入されている。CEOのAli Aghaは“当社の知能はより大きなバージョンに搭載され、すでにパーク内で稼働している”と述べた。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_101600_YouTube.jpeg?w=864",
-                "cap": "FieldAIはAIを活用し、自律型ドロイドがマッピングやGPS、誘導なしでDisneylandのStar Wars: Galaxy’s Edgeを歩き回れるようにしている。"
-              },
-              {
-                "t": "p",
-                "x": "Physical Intelligence (Pi)は、舞台裏でキャストを支えるロボットに注力している。3Dメガネを拾い、たたみ、清掃し、仕分ける作業だ。PiはDisneylandで12日間、真夜中から午前6時までの間にデータを収集した。Sourish Jastiは“ロボットのインターンシップのようなものだった”と語り、“Disneyとともに、さまざまな場所でロボットをインターンとして働かせるつもりだ”と述べた。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_102519_YouTube.jpeg?w=864",
-                "cap": "Pi AI-enabledのロボットが、Disneylandの舞台裏で3Dメガネを拾って積み重ねる。"
-              },
-              {
-                "t": "p",
-                "x": "Disney ResearchのDoug Fidaleoは“未来のパークはロボットキャラクターであふれるだろう”と語った。"
+                "x": "購入者は、街中のナビゲーションや翻訳の手助け、あるいはGeminiとの会話による情報収集にこのスマートグラスを使える。カメラも搭載しており、Samsungは録画中にLEDを点灯させ、LEDが覆われたことを検知すると撮影を拒否する仕組みにしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Disneyland培训\n一批AI机器人实习生",
-          "body": "从Pixar停车机器人到Star Wars园区的机器人，AI遍布Disneyland。",
-          "mini_headline": "Disneyland的AI机器人实习生",
+          "headline": "Samsung XR眼镜\n11月12日开启预订",
+          "body": "Samsung Android XR智能眼镜将于11月12日开启预订。",
+          "mini_headline": "Samsung XR眼镜11月12日开订",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
+                "cap": "手持Samsung Warby Parker智能眼镜的人"
+              },
+              {
                 "t": "p",
-                "x": "在Disney Accelerator Demo Day上，Disney与为机器人打造AI大脑的公司FieldAI展示了一段视频，内容是协助引导车辆完成Disneyland停车流程的机器人。Disney Experiences Technology的Gary Daniels说：“想象一下，你到达时由Cars里的角色或Wall-E中的机器人指引你去哪里停车。”"
+                "x": "Samsung Android XR智能眼镜即将到来，预订现已确定于11月12日开启。这款与Google合作开发、以音频为主的智能眼镜将采用Warby Parker和Gentle Monster的镜框。价格和发货日期等细节仍有待公布。"
+              },
+              {
+                "t": "p",
+                "x": "可以预期这将是一种音频优先的Android XR体验——带内置显示屏的Samsung型号还要再等等。近期传闻称，这款眼镜最终将在12月某个时候发货。它的价格不会接近笨重的Samsung Galaxy XR头显的$1,800，但仍可能与一部像样的手机相当。"
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_100454_YouTube.jpeg?w=864",
-                "cap": "FieldAI正利用AI训练自主机器人，在Disneyland停车场为你引路。"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg",
+                "cap": "由Warby Parker设计的Samsung智能眼镜"
               },
               {
                 "t": "p",
-                "x": "FieldAI把它的物理AI装进一个带有多个摄像头的盒子，安装在其他公司制造的机器人上。FieldAI-enabled机器人已部署在Galaxy’s Edge的BBX机器人上，不过仍处于早期阶段。CEO Ali Agha说：“我们的智能已用在更大的版本上，并已在园区内运行。”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_101600_YouTube.jpeg?w=864",
-                "cap": "FieldAI借助AI，让自主机器人无需地图测绘、GPS或引导即可在Disneyland的Star Wars: Galaxy’s Edge中漫游。"
-              },
-              {
-                "t": "p",
-                "x": "Physical Intelligence (Pi)专注于在后台协助演职人员的机器人：拾取、折叠、清洁和分拣3D眼镜。Pi在Disneyland待了12天，在午夜至早上6点之间收集数据。Sourish Jasti说：“这就像一次机器人实习。”“我们打算让机器人在Disney的许多不同场所实习。”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_102519_YouTube.jpeg?w=864",
-                "cap": "Pi AI-enabled机器人在Disneyland幕后拾取并堆叠3D眼镜。"
-              },
-              {
-                "t": "p",
-                "x": "Disney Research的Doug Fidaleo说：“未来的园区将遍布机器人角色。”"
+                "x": "购买者可以用这款智能眼镜在城中导航、辅助翻译，或者直接与Gemini聊天获取信息。眼镜还配有摄像头，Samsung会在录制时点亮LED，并在检测到LED被遮挡时拒绝拍摄。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Disneyland forma a una clase\nde robots aprendices con AI",
-          "body": "La Physical AI se extiende por Disneyland, desde robots de Pixar que ayudan a estacionar hasta droides de Star Wars.",
-          "mini_headline": "Los robots aprendices con AI de Disneyland",
+          "headline": "Las gafas Android XR de Samsung\nen preventa el 12 de noviembre",
+          "body": "La preventa de las gafas Android XR de Samsung, con monturas de Warby Parker y Gentle Monster, abre el 12 de noviembre.",
+          "mini_headline": "Gafas XR de Samsung: preventa el 12 de noviembre",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
+                "cap": "Una persona sostiene las gafas inteligentes Samsung Warby Parker"
+              },
+              {
                 "t": "p",
-                "x": "En el Disney Accelerator Demo Day, Disney y FieldAI, una empresa que desarrolla los cerebros de AI para robots, mostraron imágenes de robots que ayudarían a guiar los autos durante el proceso de estacionamiento en Disneyland. “Imagina que un personaje de Cars o los robots de Wall-E te indican dónde estacionar al llegar”, dijo Gary Daniels, de Disney Experiences Technology."
+                "x": "Las gafas inteligentes Android XR de Samsung están cerca: ya se confirmó que la preventa abrirá el 12 de noviembre. Estas gafas inteligentes basadas en audio, desarrolladas en colaboración con Google, tendrán monturas de Warby Parker y Gentle Monster. Aún no se conocen detalles sobre precios ni fechas de envío."
+              },
+              {
+                "t": "p",
+                "x": "Se sabe que ofrecerán una experiencia Android XR centrada en el audio; los modelos de Samsung con pantalla integrada tendrán que esperar. Rumores recientes apuntan a que las gafas se enviarán finalmente en algún momento de diciembre. No costarán nada parecido a los $1,800 del voluminoso visor Samsung Galaxy XR, pero aun así podrían costar tanto como un teléfono decente."
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_100454_YouTube.jpeg?w=864",
-                "cap": "FieldAI usa AI para entrenar robots autónomos que guían a los visitantes en los estacionamientos de Disneyland."
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg",
+                "cap": "Las gafas inteligentes de Samsung diseñadas por Warby Parker"
               },
               {
                 "t": "p",
-                "x": "FieldAI coloca su AI física en una caja con varias cámaras sobre robots fabricados por otros. Los robots FieldAI-enabled ya se han desplegado en Galaxy’s Edge en los droides BBX, aunque en fases iniciales. “Nuestra inteligencia está en la versión más grande y ya funciona en el parque”, dijo el CEO Ali Agha."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_101600_YouTube.jpeg?w=864",
-                "cap": "FieldAI usa AI para que droides autónomos recorran Star Wars: Galaxy’s Edge en Disneyland sin necesidad de mapeo, GPS ni guía."
-              },
-              {
-                "t": "p",
-                "x": "Physical Intelligence (Pi) se centra en robots que ayudan al personal tras bambalinas: recoger, doblar, limpiar y clasificar gafas 3D. Pi pasó 12 días en Disneyland, entre la medianoche y las 6 a.m., recopilando datos. “Fue como una pasantía para robots”, dijo Sourish Jasti. “Queremos tener robots haciendo prácticas en muchos espacios distintos con Disney”."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_102519_YouTube.jpeg?w=864",
-                "cap": "Robots Pi AI-enabled recogen y apilan gafas 3D tras bambalinas en Disneyland."
-              },
-              {
-                "t": "p",
-                "x": "“El parque del futuro estará repleto de personajes robot”, dijo Doug Fidaleo, de Disney Research."
+                "x": "Los compradores podrán usar las gafas inteligentes para orientarse por la ciudad, recibir ayuda con traducciones o simplemente conversar con Gemini para obtener información. También incorporan cámaras: Samsung enciende un LED mientras graban y se niegan a filmar si detectan que el LED está tapado."
               }
             ]
           }
@@ -903,165 +959,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Disneyland의\nAI 로봇 인턴 양성",
-          "body": "Disneyland에 Pixar 로봇과 Star Wars 드로이드로 AI가 퍼진다.",
-          "mini_headline": "Disneyland의 AI 로봇 인턴",
+          "headline": "Samsung XR 안경\n11월 12일 예약 시작",
+          "body": "Samsung Android XR 안경, 11월 12일부터 사전 주문을 받는다.",
+          "mini_headline": "Samsung XR 안경 11월 12일 예약",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
+                "cap": "Samsung Warby Parker 스마트 안경을 든 모습"
+              },
+              {
                 "t": "p",
-                "x": "Disney Accelerator Demo Day에서 Disney와 로봇용 AI 두뇌를 만드는 회사 FieldAI는 Disneyland 주차 과정에서 차량 안내를 도울 로봇 영상을 공개했다. Disney Experiences Technology의 Gary Daniels는 “도착했을 때 Cars의 캐릭터나 Wall-E의 로봇이 주차할 곳을 안내한다고 상상해 보라”고 말했다."
+                "x": "Samsung Android XR 스마트 안경 출시가 코앞이다. 사전 주문은 11월 12일 시작으로 확정됐다. Google과 함께 개발한 이 오디오 기반 스마트 안경에는 Warby Parker와 Gentle Monster의 테가 쓰인다. 가격과 배송 일정은 아직 공개되지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "오디오 중심의 Android XR 경험이 될 것으로 알려져 있으며, 디스플레이를 내장한 Samsung 모델은 더 기다려야 한다. 최근 소문에 따르면 이 안경은 결국 12월 중 출하될 전망이다. 부피가 큰 Samsung Galaxy XR 헤드셋의 $1,800 같은 가격은 아니겠지만, 그래도 괜찮은 휴대폰 한 대 값만큼 들 수 있다."
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_100454_YouTube.jpeg?w=864",
-                "cap": "FieldAI는 AI로 자율 로봇을 학습시켜 Disneyland 주차장에서 방문객을 안내하게 한다."
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg",
+                "cap": "Warby Parker가 디자인한 Samsung 스마트 안경"
               },
               {
                 "t": "p",
-                "x": "FieldAI는 여러 대의 카메라를 갖춘 상자에 피지컬 AI를 담아 다른 회사가 만든 로봇 위에 얹는다. FieldAI-enabled 로봇은 아직 초기 단계지만 이미 Galaxy’s Edge의 BBX 드로이드에 배치됐다. CEO Ali Agha는 “우리 지능은 더 큰 버전에 탑재돼 이미 파크에서 작동하고 있다”고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_101600_YouTube.jpeg?w=864",
-                "cap": "FieldAI는 AI를 활용해 자율 드로이드가 매핑, GPS, 안내 없이 Disneyland의 Star Wars: Galaxy’s Edge를 돌아다니게 한다."
-              },
-              {
-                "t": "p",
-                "x": "Physical Intelligence (Pi)는 무대 뒤에서 캐스트 멤버를 돕는 로봇에 집중한다. 3D 안경을 집고, 접고, 닦고, 분류하는 일이다. Pi는 Disneyland에서 12일 동안 자정부터 오전 6시 사이에 데이터를 수집했다. Sourish Jasti는 “일종의 로봇 인턴십이었다”며 “Disney와 함께 여러 다양한 공간에서 로봇이 인턴으로 일하게 할 계획”이라고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_102519_YouTube.jpeg?w=864",
-                "cap": "Pi AI-enabled 로봇이 Disneyland 무대 뒤에서 3D 안경을 집어 쌓는다."
-              },
-              {
-                "t": "p",
-                "x": "Disney Research의 Doug Fidaleo는 “미래의 파크는 로봇 캐릭터로 가득할 것”이라고 말했다."
+                "x": "구매자는 이 스마트 안경으로 시내 길 안내를 받거나 번역 도움을 받고, 그냥 Gemini와 대화하며 정보를 얻을 수도 있다. 카메라도 달려 있는데, Samsung은 녹화 중에 LED를 켜고, LED가 가려진 것을 감지하면 촬영을 거부하도록 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Disneylandが\nAIロボット実習生を育成",
-          "body": "DisneylandではPixarロボからStar Warsのドロイドまで、AIが広がる。",
-          "mini_headline": "DisneylandのAIロボット実習生",
+          "headline": "Samsung XRグラス\n11月12日に予約開始",
+          "body": "SamsungのAndroid XRグラスは、11月12日に予約受付を始める。",
+          "mini_headline": "Samsung XRグラス、11月12日予約開始",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
+                "cap": "SamsungのWarby Parker製スマートグラスを手にする人"
+              },
+              {
                 "t": "p",
-                "x": "Disney Accelerator Demo Dayで、Disneyと、ロボット用のAI頭脳を開発するFieldAIは、Disneylandの駐車手続きで車の誘導を手伝うロボットの映像を披露した。Disney Experiences TechnologyのGary Danielsは“到着したとき、CarsのキャラクターやWall-Eのロボットが駐車場所を案内してくれると想像してほしい”と語った。"
+                "x": "SamsungのAndroid XRスマートグラスの登場が目前に迫り、予約受付は11月12日開始と確定した。Googleと共同開発したこのオーディオ中心のスマートグラスには、Warby ParkerとGentle Monsterのフレームが採用される。価格と出荷日の詳細はまだ明らかになっていない。"
+              },
+              {
+                "t": "p",
+                "x": "オーディオ優先のAndroid XR体験になることはわかっており、ディスプレイを内蔵したSamsungモデルはまだ先になる。最近のうわさでは、このグラスは最終的に12月中に出荷されるという。大きなSamsung Galaxy XRヘッドセットの$1,800ほどにはならないものの、それなりのスマートフォン並みの価格になる可能性はある。"
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_100454_YouTube.jpeg?w=864",
-                "cap": "FieldAIはAIを使い、Disneylandの駐車場で来場者を案内する自律ロボットを訓練している。"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg",
+                "cap": "Warby ParkerがデザインしたSamsungのスマートグラス"
               },
               {
                 "t": "p",
-                "x": "FieldAIは、複数のカメラを備えた箱にフィジカルAIを収め、他社製ロボットの上に載せる。FieldAI-enabledのロボットは、まだ初期段階ながらGalaxy’s EdgeのBBXドロイドにすでに導入されている。CEOのAli Aghaは“当社の知能はより大きなバージョンに搭載され、すでにパーク内で稼働している”と述べた。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_101600_YouTube.jpeg?w=864",
-                "cap": "FieldAIはAIを活用し、自律型ドロイドがマッピングやGPS、誘導なしでDisneylandのStar Wars: Galaxy’s Edgeを歩き回れるようにしている。"
-              },
-              {
-                "t": "p",
-                "x": "Physical Intelligence (Pi)は、舞台裏でキャストを支えるロボットに注力している。3Dメガネを拾い、たたみ、清掃し、仕分ける作業だ。PiはDisneylandで12日間、真夜中から午前6時までの間にデータを収集した。Sourish Jastiは“ロボットのインターンシップのようなものだった”と語り、“Disneyとともに、さまざまな場所でロボットをインターンとして働かせるつもりだ”と述べた。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_102519_YouTube.jpeg?w=864",
-                "cap": "Pi AI-enabledのロボットが、Disneylandの舞台裏で3Dメガネを拾って積み重ねる。"
-              },
-              {
-                "t": "p",
-                "x": "Disney ResearchのDoug Fidaleoは“未来のパークはロボットキャラクターであふれるだろう”と語った。"
+                "x": "購入者は、街中のナビゲーションや翻訳の手助け、あるいはGeminiとの会話による情報収集にこのスマートグラスを使える。カメラも搭載しており、Samsungは録画中にLEDを点灯させ、LEDが覆われたことを検知すると撮影を拒否する仕組みにしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Disneyland培训\n一批AI机器人实习生",
-          "body": "从Pixar停车机器人到Star Wars园区的机器人，AI遍布Disneyland。",
-          "mini_headline": "Disneyland的AI机器人实习生",
+          "headline": "Samsung XR眼镜\n11月12日开启预订",
+          "body": "Samsung Android XR智能眼镜将于11月12日开启预订。",
+          "mini_headline": "Samsung XR眼镜11月12日开订",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
+                "cap": "手持Samsung Warby Parker智能眼镜的人"
+              },
+              {
                 "t": "p",
-                "x": "在Disney Accelerator Demo Day上，Disney与为机器人打造AI大脑的公司FieldAI展示了一段视频，内容是协助引导车辆完成Disneyland停车流程的机器人。Disney Experiences Technology的Gary Daniels说：“想象一下，你到达时由Cars里的角色或Wall-E中的机器人指引你去哪里停车。”"
+                "x": "Samsung Android XR智能眼镜即将到来，预订现已确定于11月12日开启。这款与Google合作开发、以音频为主的智能眼镜将采用Warby Parker和Gentle Monster的镜框。价格和发货日期等细节仍有待公布。"
+              },
+              {
+                "t": "p",
+                "x": "可以预期这将是一种音频优先的Android XR体验——带内置显示屏的Samsung型号还要再等等。近期传闻称，这款眼镜最终将在12月某个时候发货。它的价格不会接近笨重的Samsung Galaxy XR头显的$1,800，但仍可能与一部像样的手机相当。"
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_100454_YouTube.jpeg?w=864",
-                "cap": "FieldAI正利用AI训练自主机器人，在Disneyland停车场为你引路。"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg",
+                "cap": "由Warby Parker设计的Samsung智能眼镜"
               },
               {
                 "t": "p",
-                "x": "FieldAI把它的物理AI装进一个带有多个摄像头的盒子，安装在其他公司制造的机器人上。FieldAI-enabled机器人已部署在Galaxy’s Edge的BBX机器人上，不过仍处于早期阶段。CEO Ali Agha说：“我们的智能已用在更大的版本上，并已在园区内运行。”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_101600_YouTube.jpeg?w=864",
-                "cap": "FieldAI借助AI，让自主机器人无需地图测绘、GPS或引导即可在Disneyland的Star Wars: Galaxy’s Edge中漫游。"
-              },
-              {
-                "t": "p",
-                "x": "Physical Intelligence (Pi)专注于在后台协助演职人员的机器人：拾取、折叠、清洁和分拣3D眼镜。Pi在Disneyland待了12天，在午夜至早上6点之间收集数据。Sourish Jasti说：“这就像一次机器人实习。”“我们打算让机器人在Disney的许多不同场所实习。”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_102519_YouTube.jpeg?w=864",
-                "cap": "Pi AI-enabled机器人在Disneyland幕后拾取并堆叠3D眼镜。"
-              },
-              {
-                "t": "p",
-                "x": "Disney Research的Doug Fidaleo说：“未来的园区将遍布机器人角色。”"
+                "x": "购买者可以用这款智能眼镜在城中导航、辅助翻译，或者直接与Gemini聊天获取信息。眼镜还配有摄像头，Samsung会在录制时点亮LED，并在检测到LED被遮挡时拒绝拍摄。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Disneyland forma a una clase\nde robots aprendices con AI",
-          "body": "La Physical AI se extiende por Disneyland, desde robots de Pixar que ayudan a estacionar hasta droides de Star Wars.",
-          "mini_headline": "Los robots aprendices con AI de Disneyland",
+          "headline": "Las gafas Android XR de Samsung\nen preventa el 12 de noviembre",
+          "body": "La preventa de las gafas Android XR de Samsung, con monturas de Warby Parker y Gentle Monster, abre el 12 de noviembre.",
+          "mini_headline": "Gafas XR de Samsung: preventa el 12 de noviembre",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
+                "cap": "Una persona sostiene las gafas inteligentes Samsung Warby Parker"
+              },
+              {
                 "t": "p",
-                "x": "En el Disney Accelerator Demo Day, Disney y FieldAI, una empresa que desarrolla los cerebros de AI para robots, mostraron imágenes de robots que ayudarían a guiar los autos durante el proceso de estacionamiento en Disneyland. “Imagina que un personaje de Cars o los robots de Wall-E te indican dónde estacionar al llegar”, dijo Gary Daniels, de Disney Experiences Technology."
+                "x": "Las gafas inteligentes Android XR de Samsung están cerca: ya se confirmó que la preventa abrirá el 12 de noviembre. Estas gafas inteligentes basadas en audio, desarrolladas en colaboración con Google, tendrán monturas de Warby Parker y Gentle Monster. Aún no se conocen detalles sobre precios ni fechas de envío."
+              },
+              {
+                "t": "p",
+                "x": "Se sabe que ofrecerán una experiencia Android XR centrada en el audio; los modelos de Samsung con pantalla integrada tendrán que esperar. Rumores recientes apuntan a que las gafas se enviarán finalmente en algún momento de diciembre. No costarán nada parecido a los $1,800 del voluminoso visor Samsung Galaxy XR, pero aun así podrían costar tanto como un teléfono decente."
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_100454_YouTube.jpeg?w=864",
-                "cap": "FieldAI usa AI para entrenar robots autónomos que guían a los visitantes en los estacionamientos de Disneyland."
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg",
+                "cap": "Las gafas inteligentes de Samsung diseñadas por Warby Parker"
               },
               {
                 "t": "p",
-                "x": "FieldAI coloca su AI física en una caja con varias cámaras sobre robots fabricados por otros. Los robots FieldAI-enabled ya se han desplegado en Galaxy’s Edge en los droides BBX, aunque en fases iniciales. “Nuestra inteligencia está en la versión más grande y ya funciona en el parque”, dijo el CEO Ali Agha."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_101600_YouTube.jpeg?w=864",
-                "cap": "FieldAI usa AI para que droides autónomos recorran Star Wars: Galaxy’s Edge en Disneyland sin necesidad de mapeo, GPS ni guía."
-              },
-              {
-                "t": "p",
-                "x": "Physical Intelligence (Pi) se centra en robots que ayudan al personal tras bambalinas: recoger, doblar, limpiar y clasificar gafas 3D. Pi pasó 12 días en Disneyland, entre la medianoche y las 6 a.m., recopilando datos. “Fue como una pasantía para robots”, dijo Sourish Jasti. “Queremos tener robots haciendo prácticas en muchos espacios distintos con Disney”."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_102519_YouTube.jpeg?w=864",
-                "cap": "Robots Pi AI-enabled recogen y apilan gafas 3D tras bambalinas en Disneyland."
-              },
-              {
-                "t": "p",
-                "x": "“El parque del futuro estará repleto de personajes robot”, dijo Doug Fidaleo, de Disney Research."
+                "x": "Los compradores podrán usar las gafas inteligentes para orientarse por la ciudad, recibir ayuda con traducciones o simplemente conversar con Gemini para obtener información. También incorporan cámaras: Samsung enciende un LED mientras graban y se niegan a filmar si detectan que el LED está tapado."
               }
             ]
           }
@@ -1069,15 +1089,15 @@
       }
     },
     {
-      "id": "apple-watch-transfhar-gestures",
+      "id": "subvocal-silent-glasses",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Apple Watch가\n새 손짓 일 분 만에 학습",
-      "body": "TransfHAR 덕분에 Apple Watch가 새 손짓을 약 일 분 만에 익힌다.",
-      "mini_headline": "제스처를 빠르게 익히는 Apple Watch",
+      "headline": "Subvocal 안경\n소리 없이 컴퓨터와 대화",
+      "body": "Subvocal 안경은 타이핑도 말도 필요 없는 완전 무음 받아쓰기를 내세운다.",
+      "mini_headline": "Subvocal의 무음 발화 안경",
       "tool": "Gadgets",
       "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/wearables/apple-watch-research-shows-it-can-learn-new-hand-gestures-within-minutes-and-its-a-boon-for-shortcuts/",
+      "url": "https://www.digitaltrends.com/computing/subvocals-glasses-promise-to-let-you-talk-to-your-computer-in-complete-silence/",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
@@ -1085,263 +1105,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/09/apple-watch-ultra-2-dual-gesture.jpg?resize=1350%2C810&ssl=1",
-            "cap": "Apple Watch Ultra 2 듀얼 제스처 예시"
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C720&ssl=1",
+            "cap": "Subvocal 스마트 안경은 레이더로 입의 움직임을 추적한다"
           },
           {
             "t": "p",
-            "x": "Northwestern University와 Carnegie Mellon University 연구진이 TransfHAR라는 시스템을 개발했다. Apple Watch에 든 모션 센서인 가속도계와 자이로스코프로 손과 손목의 움직임을 읽어 활동을 학습하고 식별한다."
+            "x": "생각한 것을 컴퓨터에 옮기는 속도는 늘 타이핑에서 막혔다. Wispr Flow 같은 AI 기반(AI-powered) 받아쓰기 도구 덕에 사정은 크게 나아졌지만, 조용한 사무실이나 도서관, 카페에서 컴퓨터에 말을 걸면 눈길을 끌기 쉽다. 스타트업 The Subvocal Company는 소리 없는 입 모양을 분당 200단어 이상의 속도로 텍스트로 바꾼다는 스마트 안경을 개발했다."
           },
           {
             "t": "p",
-            "x": "참가자 10명이 커피 젓기, 허공에 하트 그리기 같은 활동을 일곱 가지씩 골랐다. 시스템의 핵심 모델은 Google 연구진이 만든 웨어러블 센서 모델 LSM-2에 바탕을 두고, 381명에게서 모은 약 2,760시간 분량의 공개 손목 움직임 데이터로 학습했다."
+            "x": "회사 설명으로는 이 안경이 얼굴을 통과하는 레이더 신호를 쏜다. 소리 없이 단어를 만들 때 발화 근육이 미세하게 움직이고, 그 움직임이 되돌아오는 신호를 바꾼다. AI 모델은 이 변화를 읽어 텍스트로 옮긴다. 카메라는 쓰지 않는다. 다만 단어를 일부러 입 모양으로 만들어야 한다."
           },
           {
             "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.36.42-AM.jpeg?resize=2018%2C1488&ssl=1",
-            "cap": "TransfHAR용 Apple Watch 학습"
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses.jpg?resize=1728%2C1037&ssl=1"
           },
           {
             "t": "p",
-            "x": "워치는 활동마다 단 일 분 분량의 움직임 데이터만으로 새 활동 일곱 가지를 90% 정확도로 알아봤다. 활동당 2.56초짜리 클립 하나만 써도 균형 정확도가 75.2%였다. 학습은 일 초도 안 걸리고, 워치는 페어링된 휴대폰이나 원격 서버 없이 약 24밀리초 만에 예측을 내놓는다."
-          },
-          {
-            "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.35.47-AM-scaled.jpeg?resize=2560%2C1290&ssl=1",
-            "cap": "TransfHAR용 Apple Watch 학습"
-          },
-          {
-            "t": "p",
-            "x": "제스처로 단축어나 스마트홈 동작을 실행할 수 있다. 다만 글쓰기나 스크롤처럼 작고 이어지는 손동작에는 약하고, 연구팀은 배터리 수명에 주는 영향을 측정하지 않았다."
-          },
-          {
-            "t": "video",
-            "yt": "8bVF4_c3y6s"
+            "x": "이 스타트업은 Y Combinator와 Afore Capital에서 $1.3 million을 투자받았다. 미국(US)에서 얼리버드 가격 $499, 환불 가능한 보증금 $199로 예약을 받고 있으며 배송은 2027년 첫 분기에 시작할 예정이다. 타이핑 속도는 아직 독립적으로 검증되지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Apple Watch learns a new\nhand gesture in a minute",
-          "body": "TransfHAR uses the Apple Watch's accelerometer and gyroscope to learn a new hand gesture in about a minute.",
-          "mini_headline": "Apple Watch learns gestures fast",
+          "headline": "Subvocal's glasses promise\nsilent talk to your computer",
+          "body": "Subvocal's glasses promise to let you dictate to your computer in complete silence instead of typing or speaking aloud.",
+          "mini_headline": "Subvocal's silent-speech glasses",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/09/apple-watch-ultra-2-dual-gesture.jpg?resize=1350%2C810&ssl=1",
-                "cap": "Apple Watch Ultra 2 dual gesture example"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Subvocal smart glasses use radar to track your mouth movements"
               },
               {
                 "t": "p",
-                "x": "Researchers from Northwestern University and Carnegie Mellon University have developed a system called TransfHAR that uses the motion sensors inside the Apple Watch, the accelerometer and the gyroscope, to learn and identify activities based on the movement of your hands and wrist."
+                "x": "Typing has always been a bottleneck between what we think and how quickly we can communicate it to a computer. AI-powered dictation tools like Wispr Flow have made things considerably better, but talking to your computer in a quiet office, a library, or a cafe tends to attract attention. A startup called The Subvocal Company has developed a pair of smart glasses that promise to turn silent mouth movements into text at over 200 words per minute."
               },
               {
                 "t": "p",
-                "x": "10 participants each picked seven activities, such as stirring coffee or drawing a heart in the air. The system’s core model is adapted from LSM-2, a wearable sensor model developed by Google researchers, and was trained on roughly 2,760 hours of public wrist movement data from 381 people."
+                "x": "According to the company, its glasses send radar signals through your face. When you silently form words, tiny movements in your speech muscles change how those signals bounce back. An AI model then interprets those changes and turns them into text. There’s no camera involved. You still have to deliberately mouth the words, though."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.36.42-AM.jpeg?resize=2018%2C1488&ssl=1",
-                "cap": "Training Apple Watch for TransfHAR"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses.jpg?resize=1728%2C1037&ssl=1"
               },
               {
                 "t": "p",
-                "x": "The watch was able to recognize seven new activities with 90% accuracy using just one minute of recorded movement data per activity. A single 2.56-second clip per activity delivers a balanced accuracy of 75.2%. Training takes less than a second, and the watch can make a prediction in about 24 milliseconds, without a paired phone or remote server."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.35.47-AM-scaled.jpeg?resize=2560%2C1290&ssl=1",
-                "cap": "Training Apple Watch for TransfHAR"
-              },
-              {
-                "t": "p",
-                "x": "Gestures could trigger shortcuts or smart home actions. The system struggles with small, sustained hand movements like writing or scrolling, and the team didn’t measure the impact on battery life."
-              },
-              {
-                "t": "video",
-                "yt": "8bVF4_c3y6s"
+                "x": "The startup says it has raised $1.3 million from Y Combinator and Afore Capital and is accepting reservations in the US at an early-bird price of $499, with a refundable $199 deposit. Shipping is expected to begin in the first quarter of 2027. The typing speeds haven’t been independently verified."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Apple Watch가\n새 손짓 일 분 만에 학습",
-          "body": "TransfHAR 덕분에 Apple Watch가 새 손짓을 약 일 분 만에 익힌다.",
-          "mini_headline": "제스처를 빠르게 익히는 Apple Watch",
+          "headline": "Subvocal 안경\n소리 없이 컴퓨터와 대화",
+          "body": "Subvocal 안경은 타이핑도 말도 필요 없는 완전 무음 받아쓰기를 내세운다.",
+          "mini_headline": "Subvocal의 무음 발화 안경",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/09/apple-watch-ultra-2-dual-gesture.jpg?resize=1350%2C810&ssl=1",
-                "cap": "Apple Watch Ultra 2 듀얼 제스처 예시"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Subvocal 스마트 안경은 레이더로 입의 움직임을 추적한다"
               },
               {
                 "t": "p",
-                "x": "Northwestern University와 Carnegie Mellon University 연구진이 TransfHAR라는 시스템을 개발했다. Apple Watch에 든 모션 센서인 가속도계와 자이로스코프로 손과 손목의 움직임을 읽어 활동을 학습하고 식별한다."
+                "x": "생각한 것을 컴퓨터에 옮기는 속도는 늘 타이핑에서 막혔다. Wispr Flow 같은 AI 기반(AI-powered) 받아쓰기 도구 덕에 사정은 크게 나아졌지만, 조용한 사무실이나 도서관, 카페에서 컴퓨터에 말을 걸면 눈길을 끌기 쉽다. 스타트업 The Subvocal Company는 소리 없는 입 모양을 분당 200단어 이상의 속도로 텍스트로 바꾼다는 스마트 안경을 개발했다."
               },
               {
                 "t": "p",
-                "x": "참가자 10명이 커피 젓기, 허공에 하트 그리기 같은 활동을 일곱 가지씩 골랐다. 시스템의 핵심 모델은 Google 연구진이 만든 웨어러블 센서 모델 LSM-2에 바탕을 두고, 381명에게서 모은 약 2,760시간 분량의 공개 손목 움직임 데이터로 학습했다."
+                "x": "회사 설명으로는 이 안경이 얼굴을 통과하는 레이더 신호를 쏜다. 소리 없이 단어를 만들 때 발화 근육이 미세하게 움직이고, 그 움직임이 되돌아오는 신호를 바꾼다. AI 모델은 이 변화를 읽어 텍스트로 옮긴다. 카메라는 쓰지 않는다. 다만 단어를 일부러 입 모양으로 만들어야 한다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.36.42-AM.jpeg?resize=2018%2C1488&ssl=1",
-                "cap": "TransfHAR용 Apple Watch 학습"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses.jpg?resize=1728%2C1037&ssl=1"
               },
               {
                 "t": "p",
-                "x": "워치는 활동마다 단 일 분 분량의 움직임 데이터만으로 새 활동 일곱 가지를 90% 정확도로 알아봤다. 활동당 2.56초짜리 클립 하나만 써도 균형 정확도가 75.2%였다. 학습은 일 초도 안 걸리고, 워치는 페어링된 휴대폰이나 원격 서버 없이 약 24밀리초 만에 예측을 내놓는다."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.35.47-AM-scaled.jpeg?resize=2560%2C1290&ssl=1",
-                "cap": "TransfHAR용 Apple Watch 학습"
-              },
-              {
-                "t": "p",
-                "x": "제스처로 단축어나 스마트홈 동작을 실행할 수 있다. 다만 글쓰기나 스크롤처럼 작고 이어지는 손동작에는 약하고, 연구팀은 배터리 수명에 주는 영향을 측정하지 않았다."
-              },
-              {
-                "t": "video",
-                "yt": "8bVF4_c3y6s"
+                "x": "이 스타트업은 Y Combinator와 Afore Capital에서 $1.3 million을 투자받았다. 미국(US)에서 얼리버드 가격 $499, 환불 가능한 보증금 $199로 예약을 받고 있으며 배송은 2027년 첫 분기에 시작할 예정이다. 타이핑 속도는 아직 독립적으로 검증되지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Apple Watch、\n新しい手の動きを一分で習得",
-          "body": "TransfHARはApple Watchの加速度計とジャイロで新たな手振りを約一分で学ぶ。",
-          "mini_headline": "ジェスチャーを素早く覚えるApple Watch",
+          "headline": "Subvocalのメガネ\n声なくコンピューターと対話",
+          "body": "Subvocalのメガネは、タイピングも発声もせず完全な無音での口述入力を約束する。",
+          "mini_headline": "Subvocalの無音発話メガネ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/09/apple-watch-ultra-2-dual-gesture.jpg?resize=1350%2C810&ssl=1",
-                "cap": "Apple Watch Ultra 2のデュアルジェスチャーの例"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Subvocalのスマートグラスはレーダーで口の動きを追跡する"
               },
               {
                 "t": "p",
-                "x": "Northwestern UniversityとCarnegie Mellon Universityの研究者は、Apple Watchに内蔵されたモーションセンサーである加速度計とジャイロスコープを使い、手と手首の動きから活動を学習・識別するシステム「TransfHAR」を開発した。"
+                "x": "タイピングは常に、私たちが考えることと、それをコンピューターに伝える速さとの間のボトルネックだった。Wispr FlowのようなAI搭載(AI-powered)の音声入力ツールで状況はかなり改善したが、静かなオフィスや図書館、カフェでコンピューターに話しかけると人目を引きがちだ。The Subvocal Companyというスタートアップは、声を出さない口の動きを毎分200語を超える速さでテキストに変えるというスマートグラスを開発した。"
               },
               {
                 "t": "p",
-                "x": "10人の参加者はそれぞれ、コーヒーをかき混ぜる、空中にハートを描くといった活動を七つ選んだ。システムの中核モデルはGoogleの研究者が開発したウェアラブルセンサーモデルLSM-2を応用したもので、381人から集めた約2,760時間分の公開手首動作データで訓練された。"
+                "x": "同社によると、このメガネは顔を透過するレーダー信号を送る。声を出さずに言葉を形づくると、発話筋の微細な動きによって信号の跳ね返り方が変わる。その変化をAIモデルが解釈し、テキストに変換する。カメラは使わない。ただし、言葉を意識して口の形で示す必要はある。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.36.42-AM.jpeg?resize=2018%2C1488&ssl=1",
-                "cap": "TransfHAR向けにApple Watchを訓練する様子"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses.jpg?resize=1728%2C1037&ssl=1"
               },
               {
                 "t": "p",
-                "x": "ウォッチは、活動ごとにわずか一分間の動作データだけで、七つの新たな活動を90%の精度で認識できた。活動ごとに2.56秒のクリップ一本でも、バランス精度は75.2%に達する。訓練は一秒未満で終わり、ペアリングしたスマートフォンやリモートサーバーなしで約24ミリ秒で予測できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.35.47-AM-scaled.jpeg?resize=2560%2C1290&ssl=1",
-                "cap": "TransfHAR向けにApple Watchを訓練する様子"
-              },
-              {
-                "t": "p",
-                "x": "ジェスチャーでショートカットやスマートホームの操作を起動できる可能性がある。一方、文字を書く、スクロールするといった小さく持続的な手の動きは苦手で、研究チームはバッテリー寿命への影響を測定していない。"
-              },
-              {
-                "t": "video",
-                "yt": "8bVF4_c3y6s"
+                "x": "同社はY CombinatorとAfore Capitalから$1.3 millionを調達したとしており、米国(US)で早期割引価格$499、返金可能な$199のデポジットで予約を受け付けている。出荷は2027年の第一四半期に始まる見込みだ。タイピング速度は第三者による検証を受けていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Apple Watch\n一分钟学会新手势",
-          "body": "TransfHAR借助Apple Watch的加速度计和陀螺仪，约一分钟即可学会新手势。",
-          "mini_headline": "Apple Watch快速学会手势",
+          "headline": "Subvocal眼镜\n无声与电脑对话",
+          "body": "Subvocal的眼镜承诺让你无需打字或出声，在完全静默中向电脑口述输入。",
+          "mini_headline": "Subvocal无声语音眼镜",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/09/apple-watch-ultra-2-dual-gesture.jpg?resize=1350%2C810&ssl=1",
-                "cap": "Apple Watch Ultra 2双重手势示例"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Subvocal智能眼镜利用雷达追踪嘴部动作"
               },
               {
                 "t": "p",
-                "x": "Northwestern University和Carnegie Mellon University的研究人员开发了一套名为TransfHAR的系统，它利用Apple Watch内置的运动传感器——加速度计和陀螺仪——根据手和手腕的动作来学习和识别活动。"
+                "x": "打字一直是我们的想法与将其传达给电脑的速度之间的瓶颈。Wispr Flow等AI-powered听写工具已让情况大为改善，但在安静的办公室、图书馆或咖啡馆里对着电脑说话往往会引人侧目。一家名为The Subvocal Company的初创公司开发了一款智能眼镜，声称能以每分钟超过200个单词的速度把无声的嘴部动作转换为文字。"
               },
               {
                 "t": "p",
-                "x": "10名参与者各自挑选了七项活动，例如搅拌咖啡或在空中画一颗心。该系统的核心模型改编自Google研究人员开发的可穿戴传感器模型LSM-2，并使用来自381人、约2,760小时的公开手腕动作数据进行训练。"
+                "x": "该公司称，这款眼镜会向你的面部发射雷达信号。当你无声地做出词语的口型时，发音肌肉的细微动作会改变信号的反射方式。随后，AI模型会解读这些变化并将其转换为文字。整个过程不涉及摄像头。不过，你仍需刻意做出词语的口型。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.36.42-AM.jpeg?resize=2018%2C1488&ssl=1",
-                "cap": "为TransfHAR训练Apple Watch"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses.jpg?resize=1728%2C1037&ssl=1"
               },
               {
                 "t": "p",
-                "x": "每项活动只需一分钟的动作记录数据，手表就能以90%的准确率识别七项新活动。每项活动仅用一段2.56秒的片段，平衡准确率也能达到75.2%。训练耗时不到一秒，手表无需配对手机或远程服务器，约24毫秒即可做出预测。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.35.47-AM-scaled.jpeg?resize=2560%2C1290&ssl=1",
-                "cap": "为TransfHAR训练Apple Watch"
-              },
-              {
-                "t": "p",
-                "x": "手势可用于触发快捷指令或智能家居操作。该系统难以识别写字或滚动这类细小而持续的手部动作，研究团队也没有测量其对电池续航的影响。"
-              },
-              {
-                "t": "video",
-                "yt": "8bVF4_c3y6s"
+                "x": "这家初创公司表示，已从Y Combinator和Afore Capital筹集$1.3 million，目前在美国（US）接受预约，早鸟价为$499，需支付可退还的$199定金。预计2027年第一季度开始发货。其打字速度尚未经过独立验证。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El Apple Watch aprende un nuevo\ngesto de la mano en un minuto",
-          "body": "TransfHAR usa el acelerómetro y el giroscopio del Apple Watch para aprender un nuevo gesto en cerca de un minuto.",
-          "mini_headline": "El Apple Watch aprende gestos rápido",
+          "headline": "Gafas de Subvocal para hablar\ncon la computadora en silencio",
+          "body": "Las gafas de Subvocal prometen dictar a la computadora en completo silencio, sin teclear ni hablar en voz alta.",
+          "mini_headline": "Las gafas de habla silenciosa de Subvocal",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/09/apple-watch-ultra-2-dual-gesture.jpg?resize=1350%2C810&ssl=1",
-                "cap": "Ejemplo del doble gesto del Apple Watch Ultra 2"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Las gafas inteligentes de Subvocal usan radar para seguir los movimientos de la boca"
               },
               {
                 "t": "p",
-                "x": "Investigadores de Northwestern University y Carnegie Mellon University desarrollaron un sistema llamado TransfHAR que usa los sensores de movimiento del Apple Watch, el acelerómetro y el giroscopio, para aprender e identificar actividades a partir del movimiento de las manos y la muñeca."
+                "x": "Escribir en el teclado siempre ha sido un cuello de botella entre lo que pensamos y la rapidez con que podemos comunicarlo a una computadora. Las herramientas de dictado impulsadas por AI (AI-powered), como Wispr Flow, han mejorado mucho las cosas, pero hablarle a la computadora en una oficina silenciosa, una biblioteca o una cafetería suele llamar la atención. Una startup llamada The Subvocal Company ha desarrollado unas gafas inteligentes que prometen convertir movimientos silenciosos de la boca en texto a más de 200 palabras por minuto."
               },
               {
                 "t": "p",
-                "x": "10 participantes eligieron cada uno siete actividades, como remover el café o dibujar un corazón en el aire. El modelo central del sistema está adaptado de LSM-2, un modelo de sensores portátiles desarrollado por investigadores de Google, y se entrenó con unas 2,760 horas de datos públicos de movimiento de muñeca de 381 personas."
+                "x": "Según la empresa, sus gafas envían señales de radar a través del rostro. Cuando formas palabras en silencio, pequeños movimientos de los músculos del habla cambian la forma en que esas señales rebotan. Después, un modelo de AI interpreta esos cambios y los convierte en texto. No interviene ninguna cámara. Aun así, hay que articular las palabras de forma deliberada."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.36.42-AM.jpeg?resize=2018%2C1488&ssl=1",
-                "cap": "Entrenamiento del Apple Watch para TransfHAR"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses.jpg?resize=1728%2C1037&ssl=1"
               },
               {
                 "t": "p",
-                "x": "El reloj logró reconocer siete actividades nuevas con un 90% de precisión usando solo un minuto de datos de movimiento grabados por actividad. Un único clip de 2.56 segundos por actividad ofrece una precisión equilibrada del 75.2%. El entrenamiento tarda menos de un segundo y el reloj puede hacer una predicción en unos 24 milisegundos, sin un teléfono vinculado ni un servidor remoto."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.35.47-AM-scaled.jpeg?resize=2560%2C1290&ssl=1",
-                "cap": "Entrenamiento del Apple Watch para TransfHAR"
-              },
-              {
-                "t": "p",
-                "x": "Los gestos podrían activar atajos o acciones del hogar inteligente. El sistema tiene dificultades con movimientos de la mano pequeños y sostenidos, como escribir o desplazarse, y el equipo no midió el impacto en la duración de la batería."
-              },
-              {
-                "t": "video",
-                "yt": "8bVF4_c3y6s"
+                "x": "La startup afirma haber recaudado $1.3 millones de Y Combinator y Afore Capital, y acepta reservas en Estados Unidos (US) a un precio anticipado de $499, con un depósito reembolsable de $199. Se prevé que los envíos comiencen en el primer trimestre de 2027. Las velocidades de escritura no se han verificado de forma independiente."
               }
             ]
           }
@@ -1349,181 +1285,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Apple Watch가\n새 손짓 일 분 만에 학습",
-          "body": "TransfHAR는 Apple Watch 센서로 새 손짓을 약 일 분에 익힌다.",
-          "mini_headline": "제스처를 빠르게 익히는 Apple Watch",
+          "headline": "Subvocal 안경\n소리 없이 컴퓨터와 대화",
+          "body": "Subvocal 안경은 타이핑도 말도 없이 완전한 침묵 속 받아쓰기를 내세운다.",
+          "mini_headline": "Subvocal의 무음 발화 안경",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/09/apple-watch-ultra-2-dual-gesture.jpg?resize=1350%2C810&ssl=1",
-                "cap": "Apple Watch Ultra 2 듀얼 제스처 예시"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Subvocal 스마트 안경은 레이더로 입의 움직임을 추적한다"
               },
               {
                 "t": "p",
-                "x": "Northwestern University와 Carnegie Mellon University 연구진은 Apple Watch에 든 모션 센서인 가속도계와 자이로스코프로 손과 손목의 움직임을 바탕으로 활동을 학습하고 식별하는 TransfHAR라는 시스템을 개발했다."
+                "x": "타이핑은 늘 우리가 생각하는 것과 그것을 컴퓨터에 전달하는 속도 사이의 병목이었다. Wispr Flow 같은 AI 기반(AI-powered) 받아쓰기 도구 덕분에 상황이 크게 나아졌지만, 조용한 사무실이나 도서관, 카페에서 컴퓨터에 말을 걸면 눈길을 끌기 쉽다. The Subvocal Company라는 스타트업은 소리 없는 입 모양을 분당 200단어 이상의 속도로 텍스트로 바꿔 준다는 스마트 안경을 개발했다."
               },
               {
                 "t": "p",
-                "x": "참가자 10명은 커피 젓기, 허공에 하트 그리기 같은 활동을 각자 일곱 가지씩 골랐다. 시스템의 핵심 모델은 Google 연구진이 개발한 웨어러블 센서 모델 LSM-2를 바탕으로 하며, 381명에게서 얻은 약 2,760시간 분량의 공개 손목 움직임 데이터로 학습했다."
+                "x": "회사에 따르면 이 안경은 얼굴을 통과하는 레이더 신호를 보낸다. 소리 없이 단어를 만들 때 발화 근육의 미세한 움직임이 신호가 되돌아오는 방식을 바꾼다. 그러면 AI 모델이 이 변화를 해석해 텍스트로 바꾼다. 카메라는 쓰이지 않는다. 다만 단어를 의도적으로 입 모양으로 만들어야 한다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.36.42-AM.jpeg?resize=2018%2C1488&ssl=1",
-                "cap": "TransfHAR를 위한 Apple Watch 학습"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses.jpg?resize=1728%2C1037&ssl=1"
               },
               {
                 "t": "p",
-                "x": "워치는 활동마다 단 일 분 분량의 움직임 데이터만으로 새로운 활동 일곱 가지를 90% 정확도로 인식했다. 활동당 2.56초짜리 클립 하나만 써도 균형 정확도는 75.2%였다. 학습에는 일 초도 걸리지 않으며, 워치는 페어링된 휴대폰이나 원격 서버 없이 약 24밀리초 만에 예측을 내놓는다."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.35.47-AM-scaled.jpeg?resize=2560%2C1290&ssl=1",
-                "cap": "TransfHAR를 위한 Apple Watch 학습"
-              },
-              {
-                "t": "p",
-                "x": "제스처로 단축어나 스마트홈 동작을 실행할 수 있다. 다만 글쓰기나 스크롤처럼 작고 지속적인 손동작에는 약하며, 연구팀은 배터리 수명에 미치는 영향을 측정하지 않았다."
-              },
-              {
-                "t": "video",
-                "yt": "8bVF4_c3y6s"
+                "x": "이 스타트업은 Y Combinator와 Afore Capital에서 $1.3 million을 투자받았으며, 미국(US)에서 얼리버드 가격 $499에 환불 가능한 보증금 $199로 예약을 받고 있다고 밝혔다. 배송은 2027년 첫 분기에 시작될 예정이다. 타이핑 속도는 독립적으로 검증되지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Apple Watch、\n新しい手の動きを一分で習得",
-          "body": "TransfHARはApple Watchの加速度計とジャイロで新たな手振りを約一分で学ぶ。",
-          "mini_headline": "ジェスチャーを素早く覚えるApple Watch",
+          "headline": "Subvocalのメガネ\n声なくコンピューターと対話",
+          "body": "Subvocalのメガネは、タイピングも発声もせず完全な無音での口述入力を約束する。",
+          "mini_headline": "Subvocalの無音発話メガネ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/09/apple-watch-ultra-2-dual-gesture.jpg?resize=1350%2C810&ssl=1",
-                "cap": "Apple Watch Ultra 2のデュアルジェスチャーの例"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Subvocalのスマートグラスはレーダーで口の動きを追跡する"
               },
               {
                 "t": "p",
-                "x": "Northwestern UniversityとCarnegie Mellon Universityの研究者は、Apple Watchに内蔵されたモーションセンサーである加速度計とジャイロスコープを使い、手と手首の動きから活動を学習・識別するシステム「TransfHAR」を開発した。"
+                "x": "タイピングは常に、私たちが考えることと、それをコンピューターに伝える速さとの間のボトルネックだった。Wispr FlowのようなAI搭載(AI-powered)の音声入力ツールで状況はかなり改善したが、静かなオフィスや図書館、カフェでコンピューターに話しかけると人目を引きがちだ。The Subvocal Companyというスタートアップは、声を出さない口の動きを毎分200語を超える速さでテキストに変えるというスマートグラスを開発した。"
               },
               {
                 "t": "p",
-                "x": "10人の参加者はそれぞれ、コーヒーをかき混ぜる、空中にハートを描くといった活動を七つ選んだ。システムの中核モデルはGoogleの研究者が開発したウェアラブルセンサーモデルLSM-2を応用したもので、381人から集めた約2,760時間分の公開手首動作データで訓練された。"
+                "x": "同社によると、このメガネは顔を透過するレーダー信号を送る。声を出さずに言葉を形づくると、発話筋の微細な動きによって信号の跳ね返り方が変わる。その変化をAIモデルが解釈し、テキストに変換する。カメラは使わない。ただし、言葉を意識して口の形で示す必要はある。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.36.42-AM.jpeg?resize=2018%2C1488&ssl=1",
-                "cap": "TransfHAR向けにApple Watchを訓練する様子"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses.jpg?resize=1728%2C1037&ssl=1"
               },
               {
                 "t": "p",
-                "x": "ウォッチは、活動ごとにわずか一分間の動作データだけで、七つの新たな活動を90%の精度で認識できた。活動ごとに2.56秒のクリップ一本でも、バランス精度は75.2%に達する。訓練は一秒未満で終わり、ペアリングしたスマートフォンやリモートサーバーなしで約24ミリ秒で予測できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.35.47-AM-scaled.jpeg?resize=2560%2C1290&ssl=1",
-                "cap": "TransfHAR向けにApple Watchを訓練する様子"
-              },
-              {
-                "t": "p",
-                "x": "ジェスチャーでショートカットやスマートホームの操作を起動できる可能性がある。一方、文字を書く、スクロールするといった小さく持続的な手の動きは苦手で、研究チームはバッテリー寿命への影響を測定していない。"
-              },
-              {
-                "t": "video",
-                "yt": "8bVF4_c3y6s"
+                "x": "同社はY CombinatorとAfore Capitalから$1.3 millionを調達したとしており、米国(US)で早期割引価格$499、返金可能な$199のデポジットで予約を受け付けている。出荷は2027年の第一四半期に始まる見込みだ。タイピング速度は第三者による検証を受けていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Apple Watch\n一分钟学会新手势",
-          "body": "TransfHAR借助Apple Watch的加速度计和陀螺仪，约一分钟即可学会新手势。",
-          "mini_headline": "Apple Watch快速学会手势",
+          "headline": "Subvocal眼镜\n无声与电脑对话",
+          "body": "Subvocal的眼镜承诺让你无需打字或出声，在完全静默中向电脑口述输入。",
+          "mini_headline": "Subvocal无声语音眼镜",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/09/apple-watch-ultra-2-dual-gesture.jpg?resize=1350%2C810&ssl=1",
-                "cap": "Apple Watch Ultra 2双重手势示例"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Subvocal智能眼镜利用雷达追踪嘴部动作"
               },
               {
                 "t": "p",
-                "x": "Northwestern University和Carnegie Mellon University的研究人员开发了一套名为TransfHAR的系统，它利用Apple Watch内置的运动传感器——加速度计和陀螺仪——根据手和手腕的动作来学习和识别活动。"
+                "x": "打字一直是我们的想法与将其传达给电脑的速度之间的瓶颈。Wispr Flow等AI-powered听写工具已让情况大为改善，但在安静的办公室、图书馆或咖啡馆里对着电脑说话往往会引人侧目。一家名为The Subvocal Company的初创公司开发了一款智能眼镜，声称能以每分钟超过200个单词的速度把无声的嘴部动作转换为文字。"
               },
               {
                 "t": "p",
-                "x": "10名参与者各自挑选了七项活动，例如搅拌咖啡或在空中画一颗心。该系统的核心模型改编自Google研究人员开发的可穿戴传感器模型LSM-2，并使用来自381人、约2,760小时的公开手腕动作数据进行训练。"
+                "x": "该公司称，这款眼镜会向你的面部发射雷达信号。当你无声地做出词语的口型时，发音肌肉的细微动作会改变信号的反射方式。随后，AI模型会解读这些变化并将其转换为文字。整个过程不涉及摄像头。不过，你仍需刻意做出词语的口型。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.36.42-AM.jpeg?resize=2018%2C1488&ssl=1",
-                "cap": "为TransfHAR训练Apple Watch"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses.jpg?resize=1728%2C1037&ssl=1"
               },
               {
                 "t": "p",
-                "x": "每项活动只需一分钟的动作记录数据，手表就能以90%的准确率识别七项新活动。每项活动仅用一段2.56秒的片段，平衡准确率也能达到75.2%。训练耗时不到一秒，手表无需配对手机或远程服务器，约24毫秒即可做出预测。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.35.47-AM-scaled.jpeg?resize=2560%2C1290&ssl=1",
-                "cap": "为TransfHAR训练Apple Watch"
-              },
-              {
-                "t": "p",
-                "x": "手势可用于触发快捷指令或智能家居操作。该系统难以识别写字或滚动这类细小而持续的手部动作，研究团队也没有测量其对电池续航的影响。"
-              },
-              {
-                "t": "video",
-                "yt": "8bVF4_c3y6s"
+                "x": "这家初创公司表示，已从Y Combinator和Afore Capital筹集$1.3 million，目前在美国（US）接受预约，早鸟价为$499，需支付可退还的$199定金。预计2027年第一季度开始发货。其打字速度尚未经过独立验证。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El Apple Watch aprende un nuevo\ngesto de la mano en un minuto",
-          "body": "TransfHAR usa el acelerómetro y el giroscopio del Apple Watch para aprender un nuevo gesto en cerca de un minuto.",
-          "mini_headline": "El Apple Watch aprende gestos rápido",
+          "headline": "Gafas de Subvocal para hablar\ncon la computadora en silencio",
+          "body": "Las gafas de Subvocal prometen dictar a la computadora en completo silencio, sin teclear ni hablar en voz alta.",
+          "mini_headline": "Las gafas de habla silenciosa de Subvocal",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/09/apple-watch-ultra-2-dual-gesture.jpg?resize=1350%2C810&ssl=1",
-                "cap": "Ejemplo del doble gesto del Apple Watch Ultra 2"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Las gafas inteligentes de Subvocal usan radar para seguir los movimientos de la boca"
               },
               {
                 "t": "p",
-                "x": "Investigadores de Northwestern University y Carnegie Mellon University desarrollaron un sistema llamado TransfHAR que usa los sensores de movimiento del Apple Watch, el acelerómetro y el giroscopio, para aprender e identificar actividades a partir del movimiento de las manos y la muñeca."
+                "x": "Escribir en el teclado siempre ha sido un cuello de botella entre lo que pensamos y la rapidez con que podemos comunicarlo a una computadora. Las herramientas de dictado impulsadas por AI (AI-powered), como Wispr Flow, han mejorado mucho las cosas, pero hablarle a la computadora en una oficina silenciosa, una biblioteca o una cafetería suele llamar la atención. Una startup llamada The Subvocal Company ha desarrollado unas gafas inteligentes que prometen convertir movimientos silenciosos de la boca en texto a más de 200 palabras por minuto."
               },
               {
                 "t": "p",
-                "x": "10 participantes eligieron cada uno siete actividades, como remover el café o dibujar un corazón en el aire. El modelo central del sistema está adaptado de LSM-2, un modelo de sensores portátiles desarrollado por investigadores de Google, y se entrenó con unas 2,760 horas de datos públicos de movimiento de muñeca de 381 personas."
+                "x": "Según la empresa, sus gafas envían señales de radar a través del rostro. Cuando formas palabras en silencio, pequeños movimientos de los músculos del habla cambian la forma en que esas señales rebotan. Después, un modelo de AI interpreta esos cambios y los convierte en texto. No interviene ninguna cámara. Aun así, hay que articular las palabras de forma deliberada."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.36.42-AM.jpeg?resize=2018%2C1488&ssl=1",
-                "cap": "Entrenamiento del Apple Watch para TransfHAR"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses.jpg?resize=1728%2C1037&ssl=1"
               },
               {
                 "t": "p",
-                "x": "El reloj logró reconocer siete actividades nuevas con un 90% de precisión usando solo un minuto de datos de movimiento grabados por actividad. Un único clip de 2.56 segundos por actividad ofrece una precisión equilibrada del 75.2%. El entrenamiento tarda menos de un segundo y el reloj puede hacer una predicción en unos 24 milisegundos, sin un teléfono vinculado ni un servidor remoto."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.35.47-AM-scaled.jpeg?resize=2560%2C1290&ssl=1",
-                "cap": "Entrenamiento del Apple Watch para TransfHAR"
-              },
-              {
-                "t": "p",
-                "x": "Los gestos podrían activar atajos o acciones del hogar inteligente. El sistema tiene dificultades con movimientos de la mano pequeños y sostenidos, como escribir o desplazarse, y el equipo no midió el impacto en la duración de la batería."
-              },
-              {
-                "t": "video",
-                "yt": "8bVF4_c3y6s"
+                "x": "La startup afirma haber recaudado $1.3 millones de Y Combinator y Afore Capital, y acepta reservas en Estados Unidos (US) a un precio anticipado de $499, con un depósito reembolsable de $199. Se prevé que los envíos comiencen en el primer trimestre de 2027. Las velocidades de escritura no se han verificado de forma independiente."
               }
             ]
           }
@@ -1531,171 +1411,219 @@
       }
     },
     {
-      "id": "claude-nordictrack-ifit",
+      "id": "gadgets-gboard-rambler-learns",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Claude로 구독 탈출한\n러닝머신 주인",
-      "body": "NordicTrack 주인이 Claude로 기기를 고쳐 iFIT 구독에서 벗어났다.",
-      "mini_headline": "NordicTrack을 풀어 준 Claude",
+      "headline": "Gboard Rambler\n단어·연락처 학습할 듯",
+      "body": "Gboard 베타에 Rambler가 고친 단어와 연락처 이름을 익힐 단서가 있다.",
+      "mini_headline": "더 똑똑해지는 Gboard Rambler",
       "tool": "Gadgets",
       "source": "Android Authority",
-      "url": "https://www.androidauthority.com/claude-nordictrack-treadmill-ifit-subscription-3731515/",
-      "accent": "#f5a623",
+      "url": "https://www.androidauthority.com/gboard-rambler-corrected-words-contacts-apk-teardown-3732028/",
+      "accent": "#eb367f",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-1920w-1080h.jpg",
-            "cap": "Stephen Radochia / Android Authority"
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
+            "cap": "Pixel 11 Pro에서 Gboard의 Rambler를 쓰는 모습."
           },
           {
             "t": "p",
-            "x": "한 NordicTrack 사용자가 Claude Code로 러닝머신 화면을 묶어 둔 iFIT 구독 제한을 풀었다. 여자친구가 NordicTrack Commercial 2250을 샀는데, Netflix와 Crunchyroll을 보려면 iFIT 구독이 따로 필요했고 기본 운동조차 iFIT 로딩을 기다리며 광고를 봐야 했다."
+            "x": "Gboard 앱 최신 베타에서 Gemini 기반(Gemini-powered) 음성 입력 기능 Rambler가 곧 교정한 단어와 연락처 목록의 이름을 기억하게 될 단서가 나왔다. 지금의 Rambler는 교정 내용을 저장하지 못하고, 시간이 지나도 사용자의 어휘를 익히지 못한다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Remember-corrected-words-watermarked-scaled.jpg"
           },
           {
             "t": "p",
-            "x": "하루 반쯤 지나자 iFIT의 로그인 요구, 광고, 멤버십 권유가 모두 사라졌다. 그 자리를 Netflix와 Crunchyroll을 담은 맞춤 홈 화면이 채웠고, 영상을 보면서도 운동 통계와 조작 기능을 쓸 수 있다. 물리 버튼도 그대로 작동한다. Netflix 실행 시간은 일 분 가까이 걸리던 것이 21초로 줄었다고 한다."
+            "x": "버전 18.6.3.10 베타를 보면 Rambler에 Remember corrected words 토글이 새로 생길 것으로 보인다. 설명 문구는 “Rambler로 음성 입력할 때 교정한 단어를 학습하고 사용합니다”다. 새 Contact names 토글은 휴대폰 연락처를 참고해 음성 입력 중 이름을 정확히 알아듣는다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Voice-Correction-List-Import-Export-watermarked-scaled.jpg"
           },
           {
             "t": "p",
-            "x": "아쉬운 점도 있다. Netflix는 표준 화질까지만 나오고, 공장 초기화를 하면 개조가 사라질 수 있다. 전동 기구를 개조하면 안전과 보증 문제도 따른다. 그래도 제작자는 프로젝트를 GitHub에 공개했다."
+            "x": "새 Voice correction list에서는 교정한 단어를 한눈에 보고, Import로 Rambler가 익힐 단어를 직접 넣거나 Export로 공유할 수 있다. Clear all collected words 버튼을 누르면 저장된 교정 내용이 모두 지워진다. Rambler는 아직 Pixel 11 시리즈 전용이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A treadmill owner used Claude\nto escape a subscription",
-          "body": "A NordicTrack owner used Claude to escape the iFIT subscription and give the treadmill a clever makeover.",
-          "mini_headline": "Claude frees a NordicTrack",
+          "headline": "Gboard's Rambler may learn\nyour words and contact names",
+          "body": "A Gboard beta teardown suggests Rambler dictation may remember contact names and the words you have corrected.",
+          "mini_headline": "Gboard Rambler gets smarter",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-1920w-1080h.jpg",
-                "cap": "Stephen Radochia / Android Authority"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
+                "cap": "Using Gboard's Rambler on the Pixel 11 Pro."
               },
               {
                 "t": "p",
-                "x": "A NordicTrack owner used Claude Code to escape iFIT’s subscription restrictions on their treadmill’s screen. The owner’s girlfriend bought a NordicTrack Commercial 2250, but accessing Netflix and Crunchyroll required an additional iFIT subscription, and even basic workouts meant waiting for iFIT to load and dealing with its ads."
+                "x": "The latest beta of the Gboard app includes evidence that suggests Rambler, the Gemini-powered voice typing feature, could soon remember corrected words and names on your contacts list. In its current form, Rambler cannot save any corrections or learn from your vocabulary over time."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Remember-corrected-words-watermarked-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Roughly a day and a half later, iFIT’s login demands, ads, and membership nags were gone. In their place sat a custom home screen with Netflix and Crunchyroll, alongside workout statistics and controls that stay accessible while you watch videos. The physical buttons still work, too. Netflix’s launch time reportedly dropped from nearly a minute to just 21 seconds."
+                "x": "In version 18.6.3.10 beta, Rambler could get a new Remember corrected words toggle: “Learn and use words you’ve corrected when voice typing with Rambler.” A new Contact names toggle looks at the contacts on your phone to accurately identify names during voice typing."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Voice-Correction-List-Import-Export-watermarked-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "There are compromises. Netflix tops out at standard definition, and a factory reset could wipe away the makeover. Modifying motorized equipment also carries safety and warranty concerns. Still, the creator has published the project on GitHub."
+                "x": "A new Voice correction list shows all corrected words, with Import to manually add words for Rambler to learn and Export to share them. A Clear all collected words button erases every saved correction. Rambler currently remains exclusive to the Pixel 11 series."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Claude로 구독 탈출한\n러닝머신 주인",
-          "body": "NordicTrack 주인이 Claude로 기기를 고쳐 iFIT 구독에서 벗어났다.",
-          "mini_headline": "NordicTrack을 풀어 준 Claude",
+          "headline": "Gboard Rambler\n단어·연락처 학습할 듯",
+          "body": "Gboard 베타에 Rambler가 고친 단어와 연락처 이름을 익힐 단서가 있다.",
+          "mini_headline": "더 똑똑해지는 Gboard Rambler",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-1920w-1080h.jpg",
-                "cap": "Stephen Radochia / Android Authority"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
+                "cap": "Pixel 11 Pro에서 Gboard의 Rambler를 쓰는 모습."
               },
               {
                 "t": "p",
-                "x": "한 NordicTrack 사용자가 Claude Code로 러닝머신 화면을 묶어 둔 iFIT 구독 제한을 풀었다. 여자친구가 NordicTrack Commercial 2250을 샀는데, Netflix와 Crunchyroll을 보려면 iFIT 구독이 따로 필요했고 기본 운동조차 iFIT 로딩을 기다리며 광고를 봐야 했다."
+                "x": "Gboard 앱 최신 베타에서 Gemini 기반(Gemini-powered) 음성 입력 기능 Rambler가 곧 교정한 단어와 연락처 목록의 이름을 기억하게 될 단서가 나왔다. 지금의 Rambler는 교정 내용을 저장하지 못하고, 시간이 지나도 사용자의 어휘를 익히지 못한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Remember-corrected-words-watermarked-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "하루 반쯤 지나자 iFIT의 로그인 요구, 광고, 멤버십 권유가 모두 사라졌다. 그 자리를 Netflix와 Crunchyroll을 담은 맞춤 홈 화면이 채웠고, 영상을 보면서도 운동 통계와 조작 기능을 쓸 수 있다. 물리 버튼도 그대로 작동한다. Netflix 실행 시간은 일 분 가까이 걸리던 것이 21초로 줄었다고 한다."
+                "x": "버전 18.6.3.10 베타를 보면 Rambler에 Remember corrected words 토글이 새로 생길 것으로 보인다. 설명 문구는 “Rambler로 음성 입력할 때 교정한 단어를 학습하고 사용합니다”다. 새 Contact names 토글은 휴대폰 연락처를 참고해 음성 입력 중 이름을 정확히 알아듣는다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Voice-Correction-List-Import-Export-watermarked-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "아쉬운 점도 있다. Netflix는 표준 화질까지만 나오고, 공장 초기화를 하면 개조가 사라질 수 있다. 전동 기구를 개조하면 안전과 보증 문제도 따른다. 그래도 제작자는 프로젝트를 GitHub에 공개했다."
+                "x": "새 Voice correction list에서는 교정한 단어를 한눈에 보고, Import로 Rambler가 익힐 단어를 직접 넣거나 Export로 공유할 수 있다. Clear all collected words 버튼을 누르면 저장된 교정 내용이 모두 지워진다. Rambler는 아직 Pixel 11 시리즈 전용이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "トレッドミル所有者が\nClaudeでサブスク脱出",
-          "body": "NordicTrackの所有者がClaudeでiFITの購読を逃れ、本体を巧みに改造した。",
-          "mini_headline": "NordicTrackを解放したClaude",
+          "headline": "GboardのRambler\n単語と連絡先名を学習か",
+          "body": "Gboardベータから、Ramblerが連絡先名と修正した単語を覚える可能性が見えた。",
+          "mini_headline": "賢くなるGboard Rambler",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-1920w-1080h.jpg",
-                "cap": "Stephen Radochia / Android Authority"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
+                "cap": "Pixel 11 ProでGboardのRamblerを使用しているところ。"
               },
               {
                 "t": "p",
-                "x": "あるNordicTrackの所有者が、Claude Codeを使ってトレッドミルの画面にかかるiFITのサブスクリプション制限から抜け出した。所有者の恋人がNordicTrack Commercial 2250を購入したが、NetflixやCrunchyrollを見るにはiFITの追加サブスクリプションが必要で、基本的なワークアウトでさえiFITの読み込みを待ち、広告に付き合わねばならなかった。"
+                "x": "Gboardアプリの最新ベータに、Geminiを活用した(Gemini-powered)音声入力機能Ramblerが、近く修正した単語や連絡先リストの名前を記憶できるようになることを示す手がかりが含まれている。現状のRamblerは修正内容を保存することも、時間をかけて語彙を学習することもできない。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Remember-corrected-words-watermarked-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "およそ一日半後、iFITのログイン要求や広告、会員登録の催促は消えた。代わりに、NetflixとCrunchyrollを並べたカスタムホーム画面が置かれ、動画を見ている間もワークアウトの統計や操作にアクセスできる。物理ボタンもそのまま使える。Netflixの起動時間は一分近くからわずか21秒に短縮されたという。"
+                "x": "バージョン18.6.3.10ベータでは、Ramblerに新しいRemember corrected wordsトグルが加わる可能性がある。説明文は「Ramblerで音声入力する際に修正した単語を学習して使用します」だ。新しいContact namesトグルは、スマートフォンの連絡先を参照して音声入力中に名前を正確に認識する。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Voice-Correction-List-Import-Export-watermarked-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "妥協点もある。Netflixは標準画質が上限で、工場出荷時へのリセットで改造が消える可能性がある。電動機器の改造には安全面や保証面の懸念も伴う。それでも、作者はプロジェクトをGitHubで公開している。"
+                "x": "新しいVoice correction listには修正した単語がすべて表示され、ImportでRamblerに学習させる単語を手動で追加し、Exportで共有できる。Clear all collected wordsボタンを押すと、保存された修正内容がすべて消去される。Ramblerは現在も引き続きPixel 11シリーズ専用だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "跑步机主人借助Claude\n摆脱订阅",
-          "body": "一位NordicTrack用户借助Claude摆脱iFIT订阅，还巧妙改造了跑步机。",
-          "mini_headline": "Claude解放NordicTrack",
+          "headline": "Gboard Rambler\n或将学习词汇与联系人",
+          "body": "Gboard测试版拆解显示，Rambler听写或能记住联系人姓名和你纠正过的词。",
+          "mini_headline": "Gboard Rambler变得更聪明",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-1920w-1080h.jpg",
-                "cap": "Stephen Radochia / Android Authority"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
+                "cap": "在Pixel 11 Pro上使用Gboard的Rambler。"
               },
               {
                 "t": "p",
-                "x": "一位NordicTrack用户借助Claude Code，摆脱了跑步机屏幕上的iFIT订阅限制。这位用户的女友买了一台NordicTrack Commercial 2250，但观看Netflix和Crunchyroll需要额外订阅iFIT，就连基础训练也得等iFIT加载、忍受广告。"
+                "x": "Gboard应用的最新测试版中包含线索，显示由Gemini驱动（Gemini-powered）的语音输入功能Rambler可能很快就能记住纠正过的词语和联系人列表中的姓名。目前的Rambler无法保存任何纠正，也无法随着时间推移学习你的词汇。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Remember-corrected-words-watermarked-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "大约一天半之后，iFIT的登录要求、广告和会员推销都消失了。取而代之的是一个自定义主屏幕，上面有Netflix和Crunchyroll，观看视频时仍可随时查看训练数据并进行操控。实体按键也照常可用。据称，Netflix的启动时间从将近一分钟缩短到仅21秒。"
+                "x": "在18.6.3.10测试版中，Rambler可能新增一个Remember corrected words开关：“在使用Rambler语音输入时，学习并使用你纠正过的词语。”新的Contact names开关会查看手机中的联系人，以便在语音输入时准确识别姓名。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Voice-Correction-List-Import-Export-watermarked-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "这也有代价。Netflix最高只支持标清，恢复出厂设置可能会抹掉这次改造。改装电动器材还涉及安全和保修方面的隐患。尽管如此，作者已在GitHub上公开了这个项目。"
+                "x": "新的Voice correction list会显示所有纠正过的词语，可通过Import手动添加供Rambler学习的词语，并通过Export分享。Clear all collected words按钮会清除所有已保存的纠正。Rambler目前仍是Pixel 11系列独占功能。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un dueño de cinta usó Claude\npara librarse de una suscripción",
-          "body": "Un propietario de NordicTrack usó Claude para evitar la suscripción de iFIT y renovar con ingenio su cinta de correr.",
-          "mini_headline": "Claude libera una NordicTrack",
+          "headline": "El Rambler de Gboard podría\naprender palabras y contactos",
+          "body": "Una beta de Gboard indica que el dictado de Rambler podría recordar nombres de contactos y las palabras corregidas.",
+          "mini_headline": "Rambler de Gboard, más inteligente",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-1920w-1080h.jpg",
-                "cap": "Stephen Radochia / Android Authority"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
+                "cap": "Uso de Rambler de Gboard en el Pixel 11 Pro."
               },
               {
                 "t": "p",
-                "x": "Un propietario de NordicTrack usó Claude Code para escapar de las restricciones de suscripción de iFIT en la pantalla de su cinta de correr. La novia del propietario compró una NordicTrack Commercial 2250, pero acceder a Netflix y Crunchyroll requería una suscripción adicional a iFIT, e incluso los entrenamientos básicos implicaban esperar a que iFIT cargara y soportar sus anuncios."
+                "x": "La última beta de la app Gboard incluye indicios de que Rambler, la función de escritura por voz basada en Gemini (Gemini-powered), pronto podría recordar las palabras corregidas y los nombres de tu lista de contactos. En su forma actual, Rambler no puede guardar correcciones ni aprender de tu vocabulario con el tiempo."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Remember-corrected-words-watermarked-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Aproximadamente un día y medio después, las exigencias de inicio de sesión, los anuncios y los avisos de membresía de iFIT habían desaparecido. En su lugar quedó una pantalla de inicio personalizada con Netflix y Crunchyroll, junto con estadísticas de entrenamiento y controles que siguen accesibles mientras se ven videos. Los botones físicos también siguen funcionando. Según se informa, el tiempo de inicio de Netflix bajó de casi un minuto a solo 21 segundos."
+                "x": "En la versión 18.6.3.10 beta, Rambler podría recibir un nuevo interruptor Remember corrected words: “Aprende y usa las palabras que has corregido al escribir por voz con Rambler”. Un nuevo interruptor Contact names consulta los contactos del teléfono para identificar con precisión los nombres durante la escritura por voz."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Voice-Correction-List-Import-Export-watermarked-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Hay concesiones. Netflix llega como máximo a definición estándar, y un restablecimiento de fábrica podría borrar la renovación. Modificar equipos motorizados también conlleva riesgos de seguridad y de garantía. Aun así, el creador ha publicado el proyecto en GitHub."
+                "x": "Una nueva Voice correction list muestra todas las palabras corregidas, con Import para añadir manualmente palabras que Rambler aprenda y Export para compartirlas. Un botón Clear all collected words borra todas las correcciones guardadas. Por ahora, Rambler sigue siendo exclusivo de la serie Pixel 11."
               }
             ]
           }
@@ -1703,109 +1631,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Claude로 구독 탈출한\n러닝머신 주인",
-          "body": "NordicTrack 주인이 Claude로 iFIT 구독을 벗어나 기기를 개조했다.",
-          "mini_headline": "NordicTrack을 풀어 준 Claude",
+          "headline": "Gboard Rambler\n단어·연락처 학습할 듯",
+          "body": "Gboard 베타에서 Rambler가 고친 단어와 연락처 이름을 기억할 듯하다.",
+          "mini_headline": "더 똑똑해지는 Gboard Rambler",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-1920w-1080h.jpg",
-                "cap": "Stephen Radochia / Android Authority"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
+                "cap": "Pixel 11 Pro에서 Gboard의 Rambler를 쓰는 모습."
               },
               {
                 "t": "p",
-                "x": "한 NordicTrack 사용자가 Claude Code로 러닝머신 화면에 걸린 iFIT 구독 제한을 풀었다. 사용자의 여자친구가 NordicTrack Commercial 2250을 샀지만, Netflix와 Crunchyroll을 보려면 iFIT 구독이 추가로 필요했고, 기본 운동조차 iFIT 로딩을 기다리며 광고를 견뎌야 했다."
+                "x": "Gboard 앱 최신 베타에서, Gemini 기반(Gemini-powered) 음성 입력 기능 Rambler가 곧 교정한 단어와 연락처 목록의 이름을 기억할 수 있음을 시사하는 단서가 발견됐다. 현재 Rambler는 교정 내용을 저장하거나 시간이 지나며 사용자의 어휘를 학습하지 못한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Remember-corrected-words-watermarked-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "하루 반쯤 뒤 iFIT의 로그인 요구, 광고, 멤버십 권유가 모두 사라졌다. 그 자리에는 Netflix와 Crunchyroll을 담은 맞춤 홈 화면이 들어섰고, 영상을 보는 동안에도 운동 통계와 조작 기능을 쓸 수 있다. 물리 버튼도 그대로 작동한다. Netflix 실행 시간은 거의 일 분에서 21초로 줄었다고 한다."
+                "x": "버전 18.6.3.10 베타에서 Rambler에 새 Remember corrected words 토글이 추가될 수 있다. 설명 문구는 “Rambler로 음성 입력할 때 교정한 단어를 학습하고 사용합니다”이다. 새 Contact names 토글은 휴대폰의 연락처를 참고해 음성 입력 중 이름을 정확히 인식한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Voice-Correction-List-Import-Export-watermarked-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "타협도 있다. Netflix는 표준 화질까지만 나오고, 공장 초기화를 하면 개조가 사라질 수 있다. 전동 기구를 개조하는 데는 안전과 보증 문제도 따른다. 그래도 제작자는 프로젝트를 GitHub에 공개했다."
+                "x": "새 Voice correction list는 교정한 단어를 모두 보여 주며, Import로 Rambler가 학습할 단어를 직접 추가하고 Export로 공유할 수 있다. Clear all collected words 버튼은 저장된 교정 내용을 모두 지운다. Rambler는 현재 여전히 Pixel 11 시리즈 전용이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "トレッドミル所有者が\nClaudeでサブスク脱出",
-          "body": "NordicTrackの所有者がClaudeでiFITの購読を逃れ、本体を巧みに改造した。",
-          "mini_headline": "NordicTrackを解放したClaude",
+          "headline": "GboardのRambler\n単語と連絡先名を学習か",
+          "body": "Gboardベータから、Ramblerが連絡先名と修正した単語を覚える可能性が見えた。",
+          "mini_headline": "賢くなるGboard Rambler",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-1920w-1080h.jpg",
-                "cap": "Stephen Radochia / Android Authority"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
+                "cap": "Pixel 11 ProでGboardのRamblerを使用しているところ。"
               },
               {
                 "t": "p",
-                "x": "あるNordicTrackの所有者が、Claude Codeを使ってトレッドミルの画面にかかるiFITのサブスクリプション制限から抜け出した。所有者の恋人がNordicTrack Commercial 2250を購入したが、NetflixやCrunchyrollを見るにはiFITの追加サブスクリプションが必要で、基本的なワークアウトでさえiFITの読み込みを待ち、広告に付き合わねばならなかった。"
+                "x": "Gboardアプリの最新ベータに、Geminiを活用した(Gemini-powered)音声入力機能Ramblerが、近く修正した単語や連絡先リストの名前を記憶できるようになることを示す手がかりが含まれている。現状のRamblerは修正内容を保存することも、時間をかけて語彙を学習することもできない。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Remember-corrected-words-watermarked-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "およそ一日半後、iFITのログイン要求や広告、会員登録の催促は消えた。代わりに、NetflixとCrunchyrollを並べたカスタムホーム画面が置かれ、動画を見ている間もワークアウトの統計や操作にアクセスできる。物理ボタンもそのまま使える。Netflixの起動時間は一分近くからわずか21秒に短縮されたという。"
+                "x": "バージョン18.6.3.10ベータでは、Ramblerに新しいRemember corrected wordsトグルが加わる可能性がある。説明文は「Ramblerで音声入力する際に修正した単語を学習して使用します」だ。新しいContact namesトグルは、スマートフォンの連絡先を参照して音声入力中に名前を正確に認識する。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Voice-Correction-List-Import-Export-watermarked-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "妥協点もある。Netflixは標準画質が上限で、工場出荷時へのリセットで改造が消える可能性がある。電動機器の改造には安全面や保証面の懸念も伴う。それでも、作者はプロジェクトをGitHubで公開している。"
+                "x": "新しいVoice correction listには修正した単語がすべて表示され、ImportでRamblerに学習させる単語を手動で追加し、Exportで共有できる。Clear all collected wordsボタンを押すと、保存された修正内容がすべて消去される。Ramblerは現在も引き続きPixel 11シリーズ専用だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "跑步机主人借助Claude\n摆脱订阅",
-          "body": "一位NordicTrack用户借助Claude摆脱iFIT订阅，还巧妙改造了跑步机。",
-          "mini_headline": "Claude解放NordicTrack",
+          "headline": "Gboard Rambler\n或将学习词汇与联系人",
+          "body": "Gboard测试版拆解显示，Rambler听写或能记住联系人姓名和你纠正过的词。",
+          "mini_headline": "Gboard Rambler变得更聪明",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-1920w-1080h.jpg",
-                "cap": "Stephen Radochia / Android Authority"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
+                "cap": "在Pixel 11 Pro上使用Gboard的Rambler。"
               },
               {
                 "t": "p",
-                "x": "一位NordicTrack用户借助Claude Code，摆脱了跑步机屏幕上的iFIT订阅限制。这位用户的女友买了一台NordicTrack Commercial 2250，但观看Netflix和Crunchyroll需要额外订阅iFIT，就连基础训练也得等iFIT加载、忍受广告。"
+                "x": "Gboard应用的最新测试版中包含线索，显示由Gemini驱动（Gemini-powered）的语音输入功能Rambler可能很快就能记住纠正过的词语和联系人列表中的姓名。目前的Rambler无法保存任何纠正，也无法随着时间推移学习你的词汇。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Remember-corrected-words-watermarked-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "大约一天半之后，iFIT的登录要求、广告和会员推销都消失了。取而代之的是一个自定义主屏幕，上面有Netflix和Crunchyroll，观看视频时仍可随时查看训练数据并进行操控。实体按键也照常可用。据称，Netflix的启动时间从将近一分钟缩短到仅21秒。"
+                "x": "在18.6.3.10测试版中，Rambler可能新增一个Remember corrected words开关：“在使用Rambler语音输入时，学习并使用你纠正过的词语。”新的Contact names开关会查看手机中的联系人，以便在语音输入时准确识别姓名。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Voice-Correction-List-Import-Export-watermarked-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "这也有代价。Netflix最高只支持标清，恢复出厂设置可能会抹掉这次改造。改装电动器材还涉及安全和保修方面的隐患。尽管如此，作者已在GitHub上公开了这个项目。"
+                "x": "新的Voice correction list会显示所有纠正过的词语，可通过Import手动添加供Rambler学习的词语，并通过Export分享。Clear all collected words按钮会清除所有已保存的纠正。Rambler目前仍是Pixel 11系列独占功能。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un dueño de cinta usó Claude\npara librarse de una suscripción",
-          "body": "Un propietario de NordicTrack usó Claude para evitar la suscripción de iFIT y renovar con ingenio su cinta de correr.",
-          "mini_headline": "Claude libera una NordicTrack",
+          "headline": "El Rambler de Gboard podría\naprender palabras y contactos",
+          "body": "Una beta de Gboard indica que el dictado de Rambler podría recordar nombres de contactos y las palabras corregidas.",
+          "mini_headline": "Rambler de Gboard, más inteligente",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-1920w-1080h.jpg",
-                "cap": "Stephen Radochia / Android Authority"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
+                "cap": "Uso de Rambler de Gboard en el Pixel 11 Pro."
               },
               {
                 "t": "p",
-                "x": "Un propietario de NordicTrack usó Claude Code para escapar de las restricciones de suscripción de iFIT en la pantalla de su cinta de correr. La novia del propietario compró una NordicTrack Commercial 2250, pero acceder a Netflix y Crunchyroll requería una suscripción adicional a iFIT, e incluso los entrenamientos básicos implicaban esperar a que iFIT cargara y soportar sus anuncios."
+                "x": "La última beta de la app Gboard incluye indicios de que Rambler, la función de escritura por voz basada en Gemini (Gemini-powered), pronto podría recordar las palabras corregidas y los nombres de tu lista de contactos. En su forma actual, Rambler no puede guardar correcciones ni aprender de tu vocabulario con el tiempo."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Remember-corrected-words-watermarked-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Aproximadamente un día y medio después, las exigencias de inicio de sesión, los anuncios y los avisos de membresía de iFIT habían desaparecido. En su lugar quedó una pantalla de inicio personalizada con Netflix y Crunchyroll, junto con estadísticas de entrenamiento y controles que siguen accesibles mientras se ven videos. Los botones físicos también siguen funcionando. Según se informa, el tiempo de inicio de Netflix bajó de casi un minuto a solo 21 segundos."
+                "x": "En la versión 18.6.3.10 beta, Rambler podría recibir un nuevo interruptor Remember corrected words: “Aprende y usa las palabras que has corregido al escribir por voz con Rambler”. Un nuevo interruptor Contact names consulta los contactos del teléfono para identificar con precisión los nombres durante la escritura por voz."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Voice-Correction-List-Import-Export-watermarked-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Hay concesiones. Netflix llega como máximo a definición estándar, y un restablecimiento de fábrica podría borrar la renovación. Modificar equipos motorizados también conlleva riesgos de seguridad y de garantía. Aun así, el creador ha publicado el proyecto en GitHub."
+                "x": "Una nueva Voice correction list muestra todas las palabras corregidas, con Import para añadir manualmente palabras que Rambler aprenda y Export para compartirlas. Un botón Clear all collected words borra todas las correcciones guardadas. Por ahora, Rambler sigue siendo exclusivo de la serie Pixel 11."
               }
             ]
           }

@@ -8626,6 +8626,160 @@
           "x": "“我为什么要为AI垃圾（AI Slop）有声书收费？……上线24小时内就有126,592名独立用户。”Ganesh写道，“如果能算一点安慰的话，我大概只卖出了11本有声书。”文末，其署名为“一个以为自己在做好事的17岁印度人”。"
         }
       ]
+    },
+    "books/books-gruffalo-scheffler-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/xYwaj5VqTyTtVtz4gK7L4b.jpg"
+        },
+        {
+          "t": "p",
+          "x": "《Gruffalo》一书的插画师看到AI生成的这一受人喜爱的儿童角色出现在硅谷、慕尼黑啤酒节等意想不到的场景后，正考虑以侵犯版权为由起诉AI公司。Axel Scheffler表示，他正在“认真考虑”就AI公司使用其插画一事采取法律行动。"
+        },
+        {
+          "t": "p",
+          "x": "为了解如今的AI模型复刻Gruffalo有多容易，TechRadar测试了ChatGPT和Gemini的图像生成能力。向ChatGPT输入的简单提示词当即被拒绝。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/fu2rkJskMFDxjoBy7qNfd.png",
+          "cap": "与ChatGPT对话的截图。"
+        },
+        {
+          "t": "p",
+          "x": "一段描述原创林中怪物的详细提示词生成了一张“不完全是Gruffalo，但也并非完全陌生”的图片。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/bjfduyx7ZLMJREBRJZqpiZ.png",
+          "cap": "ChatGPT生成的一个友好林中角色的图片。"
+        },
+        {
+          "t": "p",
+          "x": "使用完全相同的提示词，Gemini 3.8生成了一张与Gruffalo几乎无法区分的图片，甚至还画上了小老鼠（Mouse）。在被要求制作以Gruffalo为主题的慕尼黑啤酒节海报时，它展示了身穿皮短裤、手拿椒盐卷饼和啤酒杯的Gruffalo。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/suspgybKPyGjNzdrZcECrR.png",
+          "cap": "与Google Gemini对话的截图"
+        },
+        {
+          "t": "p",
+          "x": "一个完全拒绝生成Gruffalo，另一个却乐于给他穿上皮短裤。如果一家AI公司能设置限制来保护受版权保护的角色，而另一家似乎没有这样做，那就引出一个更大的问题：AI公司究竟有多重视艺术家的权利？"
+        }
+      ]
+    },
+    "books/books-europe-ai-optout": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.khan.co.kr/news/2026/11/05/news-p.v1.20261105.86330c3d9cef4964837c6a302cb49e6b_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "5日，韩国出版人会议在首尔创批西桥大楼举办的2026亚洲出版人论坛，主题为“AI时代的出版：在危机与机遇之间”。作为演讲嘉宾的德国媒体平台DPR创始人斯特芬·迈尔介绍，欧洲出版社正从自身应对、与AI企业单独签约、行业层面联合应对等3个方面展开行动。"
+        },
+        {
+          "t": "p",
+          "x": "在出版社内部，员工须遵守使用经批准的AI工具、不将未出版书稿输入公开AI模型等规则；在网站和文件上以机器可读的方式标明拒绝文本与数据挖掘；还应在每本书的版权页上表明拒绝被用于AI训练的意愿。与作者及译者签约时也会加入AI相关条款。"
+        },
+        {
+          "t": "p",
+          "x": "大型出版社也会与AI企业单独签约获取收益。学术出版社Wiley仅去年就赚得4900만달러（约657억4330만원）。HarperCollins提出按每本非虚构图书向作者支付5000달러（约670만7500원）的合同。"
+        },
+        {
+          "t": "p",
+          "x": "中小型出版社很难签下这类合同。英国的BBC、《金融时报》、《卫报》等共同制定了SPUR（Standards for Publisher Usage Rights）联合应对；荷兰的Bookfact则是一个出版社联合平台，让出版社可以逐本决定允许哪些AI用途。"
+        },
+        {
+          "t": "p",
+          "x": "迈尔提出了书籍将成为“流动内容”（liquid content）的设想。另一方面，韩国文化体育观光部长官崔辉英就Anthropic涉嫌未经授权用韩国图书训练一事表示：“依现行法律，没有任何办法。”"
+        }
+      ]
+    },
+    "books/books-cleveland-library-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/signalcleveland.org/wp-content/uploads/2022/10/20240117_165935-scaled.jpg?fit=780%2C585&ssl=1",
+          "cap": "Cleveland公共图书馆总馆的Louis Stokes翼楼"
+        },
+        {
+          "t": "p",
+          "x": "CPL理事会批准了一项AI治理政策，自10月16日起生效。该政策将指导图书馆运营中如何使用AI，并可随技术变化每季度审查和修订。图书馆管理层已被要求制定实施程序。"
+        },
+        {
+          "t": "p",
+          "x": "首席创新与技术官John Malcolm表示：“众所周知，AI从一开始就一直存在于技术的DNA中，如今它已能在消费者层面使用，我们理应——这也是最佳做法——制定一项政策。这项政策并非一成不变。它应当是动态的，并应定期审查。”"
+        },
+        {
+          "t": "p",
+          "x": "CPL成立了AI Futures Council，成员包括non-IT员工以及担任协调人的IT员工，旨在将员工的观点纳入有关AI的决策。理事会成员Melanie Shakarian感谢领导层同时考虑到员工和读者。"
+        }
+      ]
+    },
+    "books/books-kl-ai-themesong": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "人工智能（AI）教育内容企业EduCloud.com于4日宣布，将与出版版权代理机构KL Management合作，推进把韩国文学作品重新诠释为AI音乐、向海外读者推介的内容业务。"
+        },
+        {
+          "t": "img",
+          "src": "https://image.inews24.com/v1/ba07ee7b70508a.jpg",
+          "cap": "（从左至右）KL Management代表Lee Ku-yong、EduCloud.com代表Cho Sung-hoon合影留念。[图片=EduCloud.com]"
+        },
+        {
+          "t": "p",
+          "x": "两家公司近期签署业务合作协议，决定以已签订海外版权合同的作品为对象，制作英文等全球推广用AI音乐。具体方式是把作品中的人物、主要场景和信息写进歌词和主题曲。"
+        },
+        {
+          "t": "p",
+          "x": "此次合作的核心并不在于海外版权销售本身，而在于共同制作支持作品海外推广的AI音乐内容。设想是将其作为新书提升初期关注度的推广手段，并作为让读者重新发现既有作品的内容。"
+        },
+        {
+          "t": "p",
+          "x": "两家公司还将合作面向中小学、大学、公共机构和教育科技企业等发掘小说作者。双方将为EduCloud.com的合作伙伴提供国内外作品成功案例讲座支持，并研究将AI音乐发行到音乐平台的盈利模式。"
+        },
+        {
+          "t": "p",
+          "x": "KL Management是一家为韩国文学海外出版和版权输出提供中介服务的出版版权代理机构，拥有韩江《素食者》、申京淑《请照顾好我妈妈》等国内作品的海外版权销售案例。EduCloud.com是一家一直在开发运用AI的音乐教育模式的企业，计划通过此次合作将AI音乐制作技术拓展至文学和出版内容。"
+        },
+        {
+          "t": "p",
+          "x": "KL Management代表Lee Ku-yong表示：\"期待借助EduCloud.com在教育领域的网络和AI音乐制作技术，开创新的业务。\""
+        }
+      ]
+    },
+    "books/goncourt-jaenada-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/97/99/99/1536x864_cmsv2_1827a31b-adab-560a-879c-964d3b9d2b97-9979999.jpg",
+          "cap": "获奖者Philippe Jaenada称自己有节制地使用AI"
+        },
+        {
+          "t": "p",
+          "x": "就在Thélyson Orélien透露其小说《C'était ça ou mourir》部分内容由AI写成仅几周后，法国文坛又爆发了新的丑闻。"
+        },
+        {
+          "t": "p",
+          "x": "在摘得法国最高文学奖Goncourt奖（Goncourt Prize）仅一天后，Philippe Jaenada在France Inter电台承认，他在写书时曾“三次”借助人工智能。第一次是为了“和读者玩个游戏”，悄悄放进一句由ChatGPT写的句子，直到周二才向Goncourt评委透露。他还用它“稍微取笑一下ChatGPT，它对一项技术数据给出了完全荒谬的答案”。"
+        },
+        {
+          "t": "p",
+          "x": "这位62岁的小说家说，他也用这项技术做技术性资料查询：“我认为我们无法把AI推开，也不能假装它不存在。我们必须使用它、承认它、驯服它，而不是让自己被取代。它必须有用。”"
+        },
+        {
+          "t": "p",
+          "x": "这番言论立即在社交媒体上引发讨论。有人认为AI“将变得不可避免（...）就像今天的拼写检查器”，也有人表示失望。"
+        },
+        {
+          "t": "p",
+          "x": "Jaenada凭借《L'Inconnue du quai de Javel》获奖，该书追查1940年代末Paris一名年轻女子未破的谋杀案。Orélien的小说因涉嫌使用AI和被指抄袭，被移出Goncourt第二轮候选名单。"
+        }
+      ]
     }
   }
 }

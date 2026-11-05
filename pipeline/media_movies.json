@@ -1,6 +1,33 @@
-{"date":"2026-11-05","section":"movies","media":[
-{"id":"disney-accelerator-ai-cohort","type":"image","src":"pipeline/media/disney-accelerator-ai-cohort.jpg"},
-{"id":"weta-fx-taicca-taiwan","type":"image","src":"pipeline/media/weta-fx-taicca-taiwan.jpg"},
-{"id":"siff-ai-cinema-special","type":"image","src":"pipeline/media/siff-ai-cinema-special.jpg"},
-{"id":"googilil-kerala-ai-feature","type":"image","src":"pipeline/media/googilil-kerala-ai-feature.jpg"}
-]}
+{
+ "date": "2026-11-06",
+ "section": "movies",
+ "media": [
+  {
+   "id": "instagram-edits-desktop-muse",
+   "type": "image",
+   "src": "pipeline/media/instagram-edits-desktop-muse.jpg"
+  },
+  {
+   "id": "alcon-wbd-bladerunner-settlement",
+   "type": "image",
+   "src": "pipeline/media/alcon-wbd-bladerunner-settlement.jpg"
+  },
+  {
+   "id": "raphael-ai-feature-korea",
+   "type": "image",
+   "src": "pipeline/media/raphael-ai-feature-korea.jpg"
+  },
+  {
+   "id": "klemm-netflix-dub-voice-suit",
+   "type": "video",
+   "src": "pipeline/media/klemm-netflix-dub-voice-suit.mp4",
+   "poster": "pipeline/media/klemm-netflix-dub-voice-suit.jpg"
+  },
+  {
+   "id": "movies-animaj-flipmove",
+   "type": "video",
+   "src": "pipeline/media/movies-animaj-flipmove.mp4",
+   "poster": "pipeline/media/movies-animaj-flipmove.jpg"
+  }
+ ]
+}

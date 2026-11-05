@@ -3247,6 +3247,127 @@
           "x": "Ambas herramientas han obtenido la autorización 510(k) de la U.S. Food and Drug Administration (FDA) y llevan el CE Mark. Según GEHC, los clientes actuales de Vscan Air con una suscripción o licencia vigente de Innovation Package recibirán previsiblemente las actualizaciones antes de finales de noviembre."
         }
       ]
+    },
+    "medicine/medicine-brainct-clip-worklist": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Relegar de forma segura las tomografías computarizadas cerebrales sin contraste (NCCT) exige alta sensibilidad y valor predictivo negativo (NPV) tanto en hallazgos frecuentes como infrecuentes que requieren atención clínica. Aquí presentamos una red de seguridad colaborativa que integra BrainCT-CLIP, un modelo fundacional generalista basado en preentrenamiento contrastivo lenguaje-imagen (CLIP), con detectores comerciales. Todos los estudios permanecieron en el flujo de informes y solo se relegaron cuando ningún modelo dio un resultado positivo."
+        },
+        {
+          "t": "p",
+          "x": "En una validación externa multicéntrica retrospectiva de cohortes consecutivas de urgencias y trauma (n = 2001), los detectores comerciales por sí solos dejaron relegados 31 de 324 estudios con hallazgos relevantes, incluidos 16 falsos negativos de la enfermedad objetivo y 15 fuera de sus indicaciones. En cambio, el sistema colaborativo recuperó todos los estudios con hallazgos relevantes con un umbral predefinido en la cohorte de desarrollo, con 100% de sensibilidad y NPV, y relegó el 18% de los estudios (368/2001; 95% CI, 17–20)."
+        },
+        {
+          "t": "p",
+          "x": "Estos resultados respaldan el uso de AI generalista-especialista para relegar de forma segura estudios en la lista de trabajo bajo supervisión del radiólogo, con alta sensibilidad para hallazgos intracraneales que requieren atención clínica."
+        }
+      ]
+    },
+    "medicine/medicine-fda-510k-ai-updates": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Este estudio transversal investigó las características y la notificación de las actualizaciones de dispositivos médicos basados en inteligencia artificial (AI)/aprendizaje automático autorizados por la vía 510(k) de la Food and Drug Administration (FDA), con la base de datos pública FDA 510(k) hasta el 31 de marzo de 2025."
+        },
+        {
+          "t": "p",
+          "x": "El estudio incluyó 163 dispositivos únicos que declaraban explícitamente usar AI/ML; la mayoría (89.0%) analizaba datos de imagen médica. De ellos, 56 (34.4%) recibieron al menos 1 actualización de su algoritmo de AI/ML, con una mediana (IQR) hasta la primera actualización de 1.8 (0.9-2.5) años."
+        },
+        {
+          "t": "p",
+          "x": "De los dispositivos actualizados, 42 (75.0%) recibieron al menos 1 actualización que cambió su uso respecto de la versión anterior; 9 (16.1%) tuvieron actualizaciones que solo mejoraron el rendimiento."
+        },
+        {
+          "t": "p",
+          "x": "La notificación fue irregular: faltaba información de los participantes en el 42.9% de los dispositivos actualizados y el tamaño muestral en el 26.8%, y 48 dispositivos (85.7%) no aportaron información sobre beneficios clínicos u organizativos en ninguna entrada relacionada con sus actualizaciones."
+        },
+        {
+          "t": "p",
+          "x": "Los autores piden una notificación estandarizada y un seguimiento posterior al despliegue, y señalan que el Predetermined Change Control Plan de la FDA permite a los desarrolladores predefinir algunos cambios sin una nueva solicitud."
+        }
+      ]
+    },
+    "medicine/seoulstmary-ckd-risk-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.medigatenews.com/file/news/539561"
+        },
+        {
+          "t": "p",
+          "x": "El equipo del profesor Lee In-seok, del Servicio de Gastroenterología del Hospital Seoul St. Mary's de la Universidad Católica de Corea, anunció el día 4 que ha comenzado a validar la utilidad de una app móvil que analiza con inteligencia artificial (AI) datos de chequeos médicos, información genómica y datos de dispositivos wearables para indicar el riesgo de enfermedad renal crónica. La validación forma parte del proyecto ‘Desarrollo de tecnología de brecha superior para la predicción y gestión de riesgos de salud a lo largo de todo el ciclo vital con AI basada en datos del fenoma’, dentro del programa líder de convergencia de servicios de atención personalizada basados en AI que apoyan el Ministerio de Ciencia y TIC y el Instituto de Planificación y Evaluación de Tecnologías de la Información y las Comunicaciones (IITP)."
+        },
+        {
+          "t": "p",
+          "x": "El equipo vincula y estandariza los historiales clínicos electrónicos (Electronic Medical Record) y los datos de chequeos de varias instituciones médicas, y añade a los datos de análisis genómico información sobre actividad física, sueño y hábitos alimentarios recogida con dispositivos wearables y la app, para desarrollar modelos de AI que predicen el riesgo de aparición y progresión de enfermedades como la enfermedad renal crónica. La app combina diversas variables clínicas, como chequeos y pruebas genómicas, para calcular el riesgo absoluto de cada persona, y suma datos de actividad, sueño y frecuencia cardíaca recibidos de un Galaxy Watch. Este proceso se realiza en la plataforma de salud del paciente con AI (PHAIR) y, además del riesgo de enfermedad renal crónica, la app ofrece coaching de estilo de vida."
+        },
+        {
+          "t": "p",
+          "x": "También se aplicó el aprendizaje federado (Federated Learning), que permite a varios hospitales entrenar una AI conjuntamente sin compartir directamente los datos de los pacientes. La validación clínica comenzó en octubre de 2026. Se reclutan 50 personas que usarán la app y el wearable durante 3 meses, y en el mes 3 se comprobará la función renal (eGFR, tasa de filtración glomerular estimada) con pruebas de imagen torácica y análisis de sangre de seguimiento."
+        },
+        {
+          "t": "p",
+          "x": "El estudio durará 6 meses en total, y el equipo prevé evaluar el uso, la satisfacción y la utilidad del servicio para examinar su aplicabilidad en la vida diaria. El equipo explicó que los modelos de predicción de riesgo existentes se centran en calcular la probabilidad de aparición o progresión de una enfermedad a partir de información clínica de un momento concreto, lo que limitaba su traslado a la gestión real de la salud. Esto se debe a que seguir de forma continua los factores de riesgo individuales y ofrecer retroalimentación personalizada exige una inversión constante de tiempo y personal médico."
+        },
+        {
+          "t": "p",
+          "x": "El equipo aspira a vincular el riesgo de enfermedad calculado por la AI con un coaching de estilo de vida personalizado basado en la app, y a construir un sistema de gestión que refleje de forma continua los cambios en el estado de salud y los hábitos de cada persona para ayudar a mejorar los factores de riesgo y prevenir enfermedades. Las funciones también están repartidas."
+        },
+        {
+          "t": "p",
+          "x": "El Hospital Seoul St. Mary's aporta datos de chequeos e información clínica, y el Departamento de Informática Médica de la Universidad Católica de Corea se encarga de desarrollar modelos de AI que predicen el riesgo de enfermedad renal crónica (CKD) y cáncer de pulmón. DigitalPharm se ocupa del análisis con AI y la operación de la plataforma, y Pyunghwa IS, de la operación del sistema de información hospitalaria y la conversión y transmisión de datos. El equipo considera que una tecnología de AI que refleje las características de salud de la población coreana es valiosa para detectar pronto a los grupos de alto riesgo y ofrecer atención individualizada antes de la aparición o el agravamiento de la enfermedad, y espera que contribuya al avance de la medicina de precisión y a la competitividad de la tecnología médica futura. El profesor Lee In-seok afirmó: “Es un estudio que comprueba en la práctica clínica real si la AI y los wearables pueden resolver la gestión continua del riesgo y la retroalimentación que eran difíciles de lograr solo con la consulta externa”. En el proyecto participan, con el Hospital Seoul St. Mary's como eje, el Hospital Kangbuk Samsung, el Sungkyun Institute of Bio-Convergence Science and Technology, WAYCEN, Samsung Electronics, NAVER Cloud, Miso Info Tech, Macrogen y DigitalPharm, entre otros."
+        }
+      ]
+    },
+    "medicine/aha-rural-echo-ai-guidance": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://iprsoftwaremedia.com/67/files/20269/eec50b9c834cefd555f05b13149e03ca/6ad983fe3d633211624a8985_Ravi%20-%20Mobile%20Health%20Unit/Ravi%20-%20Mobile%20Health%20Unit_hero.jpg?v=452cc052-eaae-4f6d-93f1-4363f72b0584",
+          "cap": "Unidad móvil de salud (Mobile Health Unit) usada en el estudio RURAL - American Heart Association Scientific Sessions 2026, póster de resumen MDP2290."
+        },
+        {
+          "t": "p",
+          "x": "La inteligencia artificial (AI) ayudó a profesionales sanitarios sin experiencia en ecografía a obtener exploraciones cardíacas de calidad en comunidades rurales, que luego revisaron expertos a distancia, según una nueva investigación preliminar que se presentará en las Scientific Sessions 2026 de la American Heart Association."
+        },
+        {
+          "t": "p",
+          "x": "En las exploraciones cardíacas de 4,597 participantes voluntarios del estudio RURAL, el 98% incluyó las seis vistas ecocardiográficas estándar. Los expertos del laboratorio central calificaron los estudios como adecuados en más del 99% de los casos. El 81% de las exploraciones se realizó dentro del objetivo de 15 minutos, con una mediana de 9.5 minutos."
+        },
+        {
+          "t": "p",
+          "x": "Se identificaron resultados críticos en 133 exploraciones; el 99% se comunicó a los participantes en un plazo de tres días. Catorce no ecografistas (enfermeras, auxiliares de enfermería y técnicos de CT) completaron la formación de 2 horas en ecografía guiada por AI (AI-guided)."
+        },
+        {
+          "t": "p",
+          "x": "“Con guía de AI en tiempo real y un riguroso sistema de control de calidad detrás, una enfermera o un técnico de CT en una unidad móvil puede producir imágenes cardíacas lo bastante buenas para la investigación y para señalar problemas cardíacos graves que requieren seguimiento”, afirmó la autora del estudio Sanjana Ravi, M.D., de la Duke University School of Medicine."
+        },
+        {
+          "t": "p",
+          "x": "No hubo una comparación directa entre las imágenes obtenidas por ecografistas y las de no ecografistas guiados por AI (AI-guided), y solo se usó una marca de software."
+        }
+      ]
+    },
+    "medicine/jama-maternal-chatbot-rct": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Este ensayo clínico aleatorizado de 2 grupos incluyó a 400 participantes embarazadas o en posparto (con bebés menores de 6 meses), de habla inglesa (English-speaking) y pertenecientes a grupos raciales y étnicos minorizados, reclutadas en línea en 49 estados de EE. UU. (US) y el Distrito de Columbia (District of Columbia) entre octubre de 2023 y diciembre de 2024."
+        },
+        {
+          "t": "p",
+          "x": "Las participantes se asignaron al azar 1:1 a un chatbot de salud materna con AI generativa o a un control activo de libros infantiles mensuales. Los resultados primarios fueron la ansiedad (GAD-7) y la depresión (PHQ-9) a los 12 meses."
+        },
+        {
+          "t": "p",
+          "x": "El chatbot no se asoció con diferencias en ansiedad (diferencia media ajustada, 0.10; 95% CI, −0.77 a 0.96) ni en depresión (−0.23; 95% CI, −1.05 a 0.59), ni con visitas a urgencias, atención posparto, uso de anticonceptivos o duración del sueño."
+        },
+        {
+          "t": "p",
+          "x": "Entre quienes estaban embarazadas al inscribirse, el chatbot se asoció con más complicaciones del embarazo autodeclaradas en el análisis secundario a 12 meses, pero no en los análisis longitudinales. Los autores señalan que los hallazgos secundarios y exploratorios deben interpretarse con cautela (NCT06053515)."
+        }
+      ]
     }
   }
 }

@@ -1,11 +1,33 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "section": "design",
   "media": [
-    {"id": "chatgpt-animated-gifs-images", "type": "image", "src": "pipeline/media/chatgpt-animated-gifs-images.png"},
-    {"id": "openai-astra-hardware-device", "type": "video", "src": "pipeline/media/openai-astra-hardware-device.mp4", "poster": "pipeline/media/openai-astra-hardware-device.jpg"},
-    {"id": "tripo-agentic-canvas-3d", "type": "image", "src": "pipeline/media/tripo-agentic-canvas-3d.jpg"},
-    {"id": "ncircle-nvibe-aec-apps", "type": "image", "src": "pipeline/media/ncircle-nvibe-aec-apps.jpg"},
-    {"id": "claude-design-reference-handoff", "type": "image", "src": "pipeline/media/claude-design-reference-handoff.png"}
+    {
+      "id": "figma-agent-vector-styles",
+      "type": "video",
+      "src": "pipeline/media/figma-agent-vector-styles.mp4",
+      "poster": "pipeline/media/figma-agent-vector-styles.jpg"
+    },
+    {
+      "id": "gemini-canvas-sketch-to-app",
+      "type": "video",
+      "src": "pipeline/media/gemini-canvas-sketch-to-app.mp4",
+      "poster": "pipeline/media/gemini-canvas-sketch-to-app.jpg"
+    },
+    {
+      "id": "autodesk-au2026-assistant",
+      "type": "image",
+      "src": "pipeline/media/autodesk-au2026-assistant.jpg"
+    },
+    {
+      "id": "smashing-llm-chat-a11y",
+      "type": "image",
+      "src": "pipeline/media/smashing-llm-chat-a11y.jpg"
+    },
+    {
+      "id": "uxc-design-systems-mcp-study",
+      "type": "image",
+      "src": "pipeline/media/uxc-design-systems-mcp-study.jpg"
+    }
   ]
 }

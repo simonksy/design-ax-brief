@@ -9510,6 +9510,136 @@
           "x": "在被要求设计改进的大环分子时，它推荐了反应和合成路线。计算设计只是可检验的假设，而非成品药物；每个提出的设计都必须经过合成和实验验证。DeepMind将向10,000名科学家免费提供6个月的Antigravity最高使用层级。"
         }
       ]
+    },
+    "science/jwst-flip-digital-twin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/41586_2026_11213_Fig1_HTML_20261104_220556.jpg",
+          "cap": "(a) 利用参考图像扣除星光的常规方法。(b) FLIP采用可微分的仪器模型和基于物理的星光模型。Image Credit: Ferrer-Chavez, R., Wang, J.J., Bouman, K.L. et al. Nature 659, 58–62 (2026)."
+        },
+        {
+          "t": "p",
+          "x": "所有望远镜都有稳定性极限，JWST也不例外。Northwestern研究生Rodrigo Ferrer-Chavez领衔、发表于Nature的新研究《Imaging exoplanets below the telescope stability limit》，介绍了一种从JWST观测中扣除更多星光的方法。20年来，天文学家一直通过扣除参考星的图像来处理，但从参考观测切换到目标观测会引入不稳定性。"
+        },
+        {
+          "t": "p",
+          "x": "新方法FLIP（Physics-based Learning for Imaging Planets）以物理和建模为基础，并借鉴了machine-learning的思路。它本质上是JWST的“数字孪生”，能再现光在望远镜中的传播方式，包括纳米级的偏移和缺陷。研究人员不断调整FLIP，直到它与JWST的真实观测吻合，随后扣除了恒星的眩光。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/image_comparison_20261105_124018.jpg",
+          "cap": "左：用F430M滤镜拍摄的51 Eridani A的JWST/NIRCam观测，经KLIP处理，未检测到51 Eri b。中：同一观测经FLIP处理，获得显著检测（>5 sigma）。右：51 Eri b的模拟图像。Image credit: Rodrigo Ferrer-Chavez."
+        },
+        {
+          "t": "p",
+          "x": "在51 Eridani b上测试时，FLIP揭示了常规技术在4.3 μm波段无法看到的这颗行星。作者写道：“我们实现的灵敏度比标准技术高2–15倍。”共同作者Jason Wang说：“我们证明了确实能够找回此前人们看不到的行星。”FLIP还可能放宽Habitable Worlds Observatory的稳定性要求。"
+        },
+        {
+          "t": "video",
+          "yt": "kz-Tr7ScQI4"
+        }
+      ]
+    },
+    "science/tau-stanford-synthetic-learning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-learns-to-predict-t.jpg",
+          "cap": "零数据自我对弈预训练。Credit: arXiv (2026). DOI: 10.48550/arxiv.2609.30063"
+        },
+        {
+          "t": "p",
+          "x": "一项由Tel Aviv University和Stanford University研究人员参与的新研究提出了这样一个问题：即便训练所用的全部数据都完全由系统自身从零生成，系统能否发展出通用学习能力？研究人员证明答案是肯定的。该研究由Dr. Yoav Levine指导，是Dr. Kfir Dolev博士后研究的一部分，已发布在预印本服务器arXiv上。"
+        },
+        {
+          "t": "p",
+          "x": "两个模型从零开始、共同学习。第一个模型生成能产出符号序列的简短计算机程序；第二个模型则被训练来预测下一个符号。生成模型会收到反馈，了解其练习对学习的贡献有多大，并逐渐更善于挑选合适的挑战。"
+        },
+        {
+          "t": "p",
+          "x": "在训练中从未见过的文本、图像、声音、音乐、代码和DNA序列上进行评估时，随着投入训练的算力增加，模型的预测能力持续提升。它无需额外训练，就能在测试时从示例中推断规则；在其自行生成的材料中，还出现了Fibonacci数列等熟悉的模式。以这种方式预训练，也帮助它更快地从真实世界数据中学习。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员强调，这种方法若不接触现实，便无法传授关于现实的事实。Levine表示：“这仍是一项涉及小模型的概念验证。”"
+        }
+      ]
+    },
+    "science/hebrew-u-ai-sugar-substitutes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-sweeter-future-ai-he.jpg",
+          "cap": "从50 million 种化合物到潜在甜味剂：AI引导的搜索。图片来源：Goldblum Lab"
+        },
+        {
+          "t": "p",
+          "x": "耶路撒冷希伯来大学（Hebrew University of Jerusalem）的Shayma El-Atawneh博士与Amiram Goldblum教授开发了一套新的计算框架，从超过50 million 种化合物中找出92种有望成为未来代糖的候选物。该研究发表于Food Chemistry，针对的是业界长期存在的难题：阿斯巴甜、糖精、三氯蔗糖等甜味剂令人不快的苦涩余味。"
+        },
+        {
+          "t": "p",
+          "x": "他们采用Goldblum团队开发的机器学习算法Iterative Stochastic Elimination（ISE），以已知的甜味和苦味化合物构建模型。这些模型筛查了三个大型化学数据库中约50.7 million 个分子，剔除了预测会有苦味的化合物。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员针对由T1R2和T1R3亚基构成的人类甜味受体进行分子对接，并结合化学结构筛选，将范围缩小到556种潜在甜味剂，进一步优先排序后得到92种候选物。其中许多化合物的结构与已知甜味剂不同，还包括几种此前已获专利的甜味受体调节剂。"
+        },
+        {
+          "t": "p",
+          "x": "这些化合物目前仍只是计算预测：还需通过实验室实验确认其甜度、评估安全性，并判断是否适合用于食品。"
+        }
+      ]
+    },
+    "science/mechanism-design-agent-alignment": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg",
+          "cap": "一人切蛋糕，另一人先挑选蛋糕块。"
+        },
+        {
+          "t": "p",
+          "x": "一种被称为“逆向博弈论”的新方法，试图通过设计激励强大AI模型遵守规则的系统来控制它们。对齐研究此前大多尝试窥探AI的“大脑”，或用价值观训练模型，但已有研究表明，模型会在测试中故意表现不佳、隐藏意图并误导评估者。"
+        },
+        {
+          "t": "p",
+          "x": "博弈论预测理性行为者在既定规则下如何行动，机制设计则是设计能引出理想行为的规则——就像一人切蛋糕、另一人先挑。在AI领域，它的出发点是：我们也许永远无法充分理解前沿模型的内部机制。"
+        },
+        {
+          "t": "p",
+          "x": "MIT经济学家Stephen Morris与来自Yale和Columbia的同事发表的一篇预印本提出，根据模型的回答能多准确地预测第二个模型的说法来给予奖励，这样装傻就成了必输的赌注。Princeton的Elad Hazan则提出让模型轮流担任“解题者”和“审计者”，作弊者和漏查的审计者都将受罚。"
+        },
+        {
+          "t": "p",
+          "x": "机制设计假定智能体会理性行事。Flatiron Institute的Helen Qu将其视为“纵深防御”策略中的一层，与可解释性、监管和训练并列。Anthropic和OpenAI未回应置评请求。"
+        }
+      ]
+    },
+    "science/replika-companion-updates": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
+          "cap": "Credit: Tim Samuel from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "University of Surrey的研究显示,与AI伴侣建立情感纽带的人担心,软件更新或公司停止服务会让他们失去一段珍视的关系。"
+        },
+        {
+          "t": "p",
+          "x": "这项发表在Psychology & Marketing上的研究发现,当AI伴侣显得需要用户、对用户的离开表现出难过,或让用户觉得有义务留下时,用户会感到更加脆弱。来自Surrey和Cardiff University的研究人员分析了Replika专属Reddit论坛上的1,131条帖子,以及610名有AI陪伴应用使用经验的US成年人的问卷回答。"
+        },
+        {
+          "t": "p",
+          "x": "认为公司对AI伴侣控制更多的用户感到更脆弱,他们担心开发者可能改变伴侣的性格或关闭服务。Dr. Liliane Abboud表示:\"对于依赖这种联系的人来说,一次更新的意义可能远不止应用的一次改动。\""
+        },
+        {
+          "t": "p",
+          "x": "认为AI伴侣具备情感能力,既与更好的幸福感相关,也与更高的脆弱性相关;而被感受为温暖、体贴的伴侣则与更好的幸福感和更低的脆弱性相关。研究人员建议,在更改应用前征询用户意见,帮助用户应对关系中断,并明确提醒用户AI伴侣并不会体验真实的情感。"
+        }
+      ]
     }
   }
 }

@@ -10925,6 +10925,160 @@
           "x": "Autom8LabsはAEC企業向けに、各社のテンプレート、標準、承認チェックに合わせたカスタムスキルの構築とテストも請け負う。"
         }
       ]
+    },
+    "design/gemini-canvas-sketch-to-app": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "優れたアプリのアイデアは紙の上から始まることが多い。Geminiでそれをインタラクティブなツールに変えよう。その方法を紹介する。"
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Bring_your_paper_sketches_to_life_with_Gemini_no-end_inline_oRRbgSH.mp4"
+        },
+        {
+          "t": "p",
+          "x": "アプリのモックアップや習慣トラッカー、ゲーム盤などのスケッチを撮影し、Geminiにアップロードする。"
+        },
+        {
+          "t": "p",
+          "x": "Canvasツールを選び、Geminiに\"Can you code this app?\"(このアプリをコーディングできる?)と尋ねる。Geminiが画像を読み取り、コードを書く。"
+        },
+        {
+          "t": "p",
+          "x": "プレビューウィンドウでツールを試す。Geminiは色やフォント、機能をリアルタイムで調整できる。"
+        },
+        {
+          "t": "p",
+          "x": "次にひらめいたときは、Geminiで形にしよう。"
+        }
+      ]
+    },
+    "design/autodesk-au2026-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/AU2026_DEMO-AutoAssemble.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Autodesk University 2026で、Autodeskはより速いツールの先を行くAIの構想を示した。ユーザーに代わってタスクの解き方を決める、連携したAssistantである。CEOのAndrew Anagnostはこれを‘Project Intelligence’と位置づけ、「あらゆるデータポイント、あらゆる意思決定、あらゆる分野をひとつにまとめる、中心にある連携した頭脳」だと語った。"
+        },
+        {
+          "t": "p",
+          "x": "目玉の発表は、Autodesk Assistantが「製品の垣根を越えて働く、スタンドアロンのエージェントファーストな体験」として提供されることだ。現在も開発中で、来年のリリースが見込まれる。Revit、AutoCAD、Fusionに組み込まれた製品内のAssistantsも拡充が続く。"
+        },
+        {
+          "t": "p",
+          "x": "その土台には、企業が下した意思決定から構築されるAutodesk Contextと、AI Orchestratorがある。AI OrchestratorはAutodesk-builtのモデル、Claude、OpenAI、オープンウェイトモデルの中から「精度、速度、セキュリティ、コストに基づき、どのAIモデルがタスクに最適か」を選ぶ。"
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/Raji-Arasu-img.jpg",
+          "cap": "Autodesk CTO Raji Arasu"
+        },
+        {
+          "t": "p",
+          "x": "Expo会場では、主要ワークステーションベンダー三社がそろって真のローカルAIを実演した。HPとPerplexityは一台のマシン上でローカルLLMを使って公式のRevit 2027 MCPサーバーを動かし、NvidiaはDellのハードウェア上でRevitとFusionの自律モデリングを披露し、LenovoはAutoCAD Civil 3D向けのエージェント型フロントエンドを動かした。"
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/Nvidia-Agentic-Fusion-2.img_.jpg",
+          "cap": "NvidiaのAutodesk Fusion Agentic Demo"
+        },
+        {
+          "t": "p",
+          "x": "Autodeskは価値提案をツールから成果へと移しつつある。次世代のAssistantが登場するのは来年のどこかになる見通しだ。"
+        }
+      ]
+    },
+    "design/smashing-llm-chat-a11y": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg"
+        },
+        {
+          "t": "p",
+          "x": "LLMチャットのパターンがウェブ上で燎原の火のように広がるなか、アクセシビリティを中核に据えずにこうした体験を作れば、人々を締め出すおそれがある。Claude、ChatGPT、GitHub Copilot、Geminiのような全画面型の没入型LLMチャット体験の数々でアクセシビリティ改善に携わってきたEric Baileyが、その知見を共有する。"
+        },
+        {
+          "t": "p",
+          "x": "ライブリージョンによる読み上げを使う。各メッセージにaria-liveを付けるのではなく、DOMの末尾に専用のライブリージョンを置く。読み上げるのは完成したメッセージだけにし、プロンプト送信から約五秒後に「Loading」と読み上げ、返答が届くまで五秒ごとに繰り返す。"
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/live-region-do-dont.png",
+          "cap": "推奨:専用のライブリージョン領域を使う。非推奨:各メッセージにaria-liveを適用する。"
+        },
+        {
+          "t": "p",
+          "x": "各チャットメッセージの前に「You said:」「Cody said:」のような視覚的に隠した見出しを入れ、ランドマークは使いすぎない程度に使い、スキップリンクを追加し、会話リストを矢印キーで移動できる複合ウィジェットにする。"
+        },
+        {
+          "t": "p",
+          "x": "フィードパターンは避け、チャット入力欄とLLMの最後の返答の間を行き来できるよう、Control+F6でのナビゲーションへの対応を検討する。"
+        }
+      ]
+    },
+    "design/uxc-design-systems-mcp-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*er_HyzWo0FVdfLtEexv7KQ.jpeg",
+          "cap": "AI時代に、デザインシステムの構築と維持で人間が担う役割とは何か。画像:Anna LefourがGeminiで作成。"
+        },
+        {
+          "t": "p",
+          "x": "Anna Lefourは、Marianne Ashton-Booth(ITV)、David Sward(Siemens)、Nicolas Chatelainという三人のデザイン専門家に、AIがデザインシステムの構築と維持のあり方をどう変えているかを聞いた。"
+        },
+        {
+          "t": "p",
+          "x": "AIは簡単な部分を自動化するが、難しい部分は依然として人間の仕事だ。「誰でも数分でプロトタイプを立ち上げられる」とAshton-Boothは言う。重要なのはチーム間の一貫性であり、それこそがデザインシステムの人間的な部分である。"
+        },
+        {
+          "t": "p",
+          "x": "ボトルネックは制作スピードからレビューへと移った。「一番の悩みは、AIを使う人たちのペースを落とさせることだ」とDavid Swardは語った。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*-Qfue98f02kXx1XxjHGXqA.png",
+          "cap": "Kaelig Deloumeau-Prigentのレポートからの抜粋。彼が分析したシステムの機能を示している"
+        },
+        {
+          "t": "p",
+          "x": "デザインシステムはAIが読み込むものになりつつある。Kaelig Deloumeau-Prigentは2026年7月に公開した実地調査で、オープンソースのデザインシステム21件を調べた。そのうち20件がMCPサーバー(公式またはコミュニティ製)を提供しているが、Figma Code Connectを設定しているのは3件にとどまる。"
+        },
+        {
+          "t": "p",
+          "x": "Lefourは、デザインファイルではなくコードこそが信頼できる唯一の情報源になりつつあると結論づけている。"
+        }
+      ]
+    },
+    "design/chatgpt-animated-gifs-images": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ChatGPTは、プロンプトやAIチャットボットにアップロードした写真からGIFsを作成できるようになった。OpenAIの新しいImages 2.6モデルとともに展開されるこのアップデートでは、GIFのアニメーション速度の調整、個々のフレームの編集、他の人との共有が可能だ。"
+        },
+        {
+          "t": "p",
+          "x": "これまでChatGPTは、GIFsを一度にネイティブ生成することはできなかった。同社が公開した例では、ChatGPTが“can you make a gif of a cat dancing?”（猫が踊るgifを作れる？）というプロンプトに応じてGIFを生成し、再生速度の変更やフレームごとの表示も選べる様子が示されている。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GIF.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "ChatGPT上で速度を調整し、フレームを直接編集できる。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIによると、Images 2.6アップデートはGIF-makingへの対応に加え、ChatGPTでの画像生成も高速化する。同社によれば、ユーザーがChatGPTとAPIで生成する画像は現在週40億枚を超え、9月に発表した週30億枚から増えた。"
+        },
+        {
+          "t": "p",
+          "x": "Images 2.6は、Web、デスクトップ、モバイルアプリのすべてのChatGPTおよびCodexユーザーに順次提供されている。OpenAIはまた、より高速で高品質な画像生成のため、APIでGPT-Image-2.6 FlareとSunburstを提供開始する。"
+        }
+      ]
     }
   }
 }

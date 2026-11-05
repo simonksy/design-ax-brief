@@ -1,94 +1,35 @@
 {
   "section": "games",
-  "now_iso": "2026-11-04T22:03:11Z",
+  "now_iso": "2026-11-05T22:03:00Z",
   "window_hours": 336,
   "items": [
-    {
-      "title": "The World's Biggest Mod Site Makes AI Disclosure Mandatory, But Stops Short Of Banning Its Use",
-      "url": "https://kotaku.com/nexus-mods-gen-ai-disclosure-rules-steam-itch-update-2000753301",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-11-04T13:30:24+00:00",
-      "excerpt": "Nexus Mods' new owner rolled out mandatory generative-AI disclosure for mod uploads and a user-side filter to hide AI-assisted mods, declaring 'we are pro-human creativity' while declining an outright ban.",
-      "og_image": "https://kotaku.com/app/uploads/2026/11/nexus-mods.jpg",
-      "history_match": {
-        "score": 0.156,
-        "date": "2026-10-13",
-        "url": "https://www.gamingonlinux.com/2026/10/flathub-walked-back-their-generative-ai-ban-replaced-with-a-disclosure-policy/",
-        "title": "Flathub walked back their generative AI ban, replaced with a disclosure policy",
-        "band": "related"
-      },
-      "cluster": "c0"
-    },
-    {
-      "title": "'We Are Pro-Human Creativity' — Nexus Mods Forces Mandatory AI Disclosures and Filters, Explains Why It Won't Ban AI Mods",
-      "url": "https://www.ign.com/articles/nexus-mods-forces-mandatory-generative-ai-disclosures-and-filters",
-      "source": "IGN",
-      "category": "games",
-      "published_iso": "2026-11-04T10:50:53.362Z",
-      "excerpt": "Nexus Mods now requires disclosure for mods with AI-assisted code or assets and lets users filter AI-assisted mods out of browsing, arguing an outright ban would only push AI use underground.",
-      "og_image": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789419286.png?width=1280&format=jpg&auto=webp&quality=80",
-      "cluster": "c0"
-    },
-    {
-      "title": "As Steam and Itch.io buckle under the weight of 'AI slop', Nexus Mods introduces new AI disclosure rules but won't ban AI mods outright",
-      "url": "https://www.eurogamer.net/nexus-mods-gen-ai-disclosure-rules",
-      "source": "Eurogamer",
-      "category": "games",
-      "published_iso": "2026-11-04T12:18:44+00:00",
-      "excerpt": "The biggest mod site in the world, Nexus Mods, has new mandatory rules about gen-AI usage in mod creation, adding labels and filters rather than a ban.",
-      "og_image": "https://assetsio.gnwcdn.com/nexus-mods-will-no-longer-allow-authors-to-delete-mod-files-1625239661369.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "history_match": {
-        "score": 0.17,
-        "date": "2026-11-02",
-        "url": "https://www.polygon.com/itch-io-doubled-game-pages-ai-slop/",
-        "title": "Itch.io Reveals Just How Much AI Slop Is Flooding Gaming Storefronts",
-        "band": "related"
-      },
-      "cluster": "c0"
-    },
     {
       "title": "Valve cracks down on Steam game submission process as questionable AI clones and vibe-coded slop flood its store",
       "url": "https://www.gamesradar.com/games/valve-cracks-down-on-steam-game-submission-process-as-questionable-ai-clones-and-vibe-coded-slop-flood-its-store/",
       "source": "GamesRadar+",
       "category": "games",
       "published_iso": "2026-11-04T11:51:46Z",
-      "excerpt": "Valve published a Steam developer post tightening its pre-release review: a new submission checklist and warnings of longer approvals as a surge of AI-cloned and vibe-coded games floods the queue.",
+      "excerpt": "Valve has tightened its Steam pre-release review checklist after a surge of submissions, widely linked to AI clones and vibe-coded games, pushed review times up to 12 business days. The new action is Valve's own Steamworks policy change, not a developer's complaint.",
       "og_image": "https://cdn.mos.cms.futurecdn.net/4tdtkVgmaJHgyoSVaKiyhD-1920-80.jpg",
       "history_match": {
-        "score": 0.244,
+        "score": 0.219,
         "date": "2026-11-04",
         "url": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
         "title": "\"Steam's review queue is clogged up by AI slop\": Food Devils gets a delay because its devs think Valve is inundated with genAI games",
         "band": "related"
-      }
+      },
+      "cluster": "c0"
     },
     {
-      "title": "Valve warns of slower Steam approvals, possibly because of AI",
+      "title": "Valve warns of slower Steam approvals, possibly due to AI game surge",
       "url": "https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approval-process-due-to-flood-of-new-games",
       "source": "Game Developer",
       "category": "games",
       "published_iso": "2026-11-04T16:50:48Z",
-      "excerpt": "In a blog post Valve confirmed slower Steam approvals after Next Fest submissions doubled historical highs, and outlined tips to clear pre-review faster, as AI-made games flood the platform.",
+      "excerpt": "In a Tuesday Steamworks blog post Valve confirmed review delays after Next Fest submissions doubled historical highs, gave tips for clearing pre-review faster, and announced upcoming changes to the checklist testers verify before approving a release.",
       "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltaac5a34f9185515e/66abe43fb5726fad82854851/valve_logo.png?disable=upscale&width=1200&height=630&fit=crop",
       "history_match": {
-        "score": 0.213,
-        "date": "2026-10-20",
-        "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-        "title": "Steam Fans Are Begging for a No-AI Filter as Steam Next Fest Is Filled With Slop",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Valve admits it's 'running behind' on approving Steam games because it has to keep re-reviewing them, which surely has nothing to do with AI",
-      "url": "https://www.pcgamer.com/gaming-industry/valve-admits-its-running-behind-on-approving-steam-games-because-it-has-to-keep-re-reviewing-them-which-surely-has-nothing-to-do-with-ai/",
-      "source": "PC Gamer",
-      "category": "games",
-      "published_iso": "2026-11-03T23:51:13Z",
-      "excerpt": "As wishlisted games miss their release dates, Valve creates a new checklist to help devs get it right the first time, amid a backlog developers blame on AI-generated submissions.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/UoEzWoavREo9zwpFLKCqC-2560-80.jpg",
-      "history_match": {
-        "score": 0.214,
+        "score": 0.168,
         "date": "2026-11-04",
         "url": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
         "title": "\"Steam's review queue is clogged up by AI slop\": Food Devils gets a delay because its devs think Valve is inundated with genAI games",
@@ -96,155 +37,322 @@
       }
     },
     {
-      "title": "Epic Games online director says Valve's response to \"Steam's AI clone and slop problem\" isn't enough",
-      "url": "https://www.gamesradar.com/games/epic-games-online-director-says-valves-response-to-steams-ai-clone-and-slop-problem-isnt-enough-perhaps-forgetting-epics-stance-on-ai-slop/",
+      "title": "Steamへのゲーム登録申請が急増し，審査に最大12営業日を要する状況に。生成AIを利用したゲーム開発の普及が背景にある可能性も",
+      "url": "https://www.4gamer.net/games/038/G003821/20261105022/",
+      "source": "4Gamer.net",
+      "category": "games",
+      "published_iso": "2026-11-05T14:45:56+09:00",
+      "excerpt": "Valve says a spike in Steam game submissions has stretched pre-release review from the usual 3-5 business days to as many as 12, and it has revised the review checklist; 4Gamer notes the spread of generative-AI game development as a likely cause.",
+      "og_image": "https://www.4gamer.net/games/038/G003821/20261105022/SS/001.jpg",
+      "history_match": {
+        "score": 0.19,
+        "date": "2026-11-04",
+        "url": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
+        "title": "\"Steam's review queue is clogged up by AI slop\": Food Devils gets a delay because its devs think Valve is inundated with genAI games",
+        "band": "related"
+      },
+      "cluster": "c0"
+    },
+    {
+      "title": "Google gets Henry Cavill to AI vibe code a game to promote Googlebook, promises to donate $11 to charity every time someone plays it",
+      "url": "https://www.gamesradar.com/games/google-gets-henry-cavill-to-ai-vibe-code-a-game-to-promote-googlebook-promises-to-donate-usd11-to-charity-every-time-someone-plays-it/",
       "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-11-04T19:22:29Z",
-      "excerpt": "After Steam announced changes to its game review process amid an AI flood, Epic's online services director argued Valve's response falls short — despite Epic's own AI-first push.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/YZbjaSyVb43cotgScZuRUm-1920-80.jpg",
-      "history_match": {
-        "score": 0.254,
-        "date": "2026-10-29",
-        "url": "https://kotaku.com/valve-steam-ai-clone-rip-offs-next-fest-slop-developers-demos-2000750496",
-        "title": "Valve Knows Steam Has An AI Slop Problem And Has A 'Significant Number Of People' Working On It",
-        "band": "related"
-      }
+      "published_iso": "2026-11-05T15:31:56Z",
+      "excerpt": "Google has enlisted Henry Cavill to vibe-code a 16-bit side-scroller, 'Mustache Protocol', on a Googlebook, and is releasing a video series documenting the AI-assisted build; plays during November trigger Movember donations.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/REBXE3PpQZNEtNemd6hgnB-1920-80.jpg"
     },
     {
-      "title": "94% of Game Studios Use AI But Rate Their Integration 3/10, And That Gap Is Why \"Made With AI\" Labels Are Already Meaningless",
-      "url": "https://wccftech.com/94-percent-game-studios-use-ai-integration-labels-meaningless-sweeney/",
-      "source": "Wccftech",
+      "title": "Hideo Kojima says AI lacks what makes the creative process fun, despite its efficiency",
+      "url": "https://automaton-media.com/en/news/hideo-kojima-says-ai-lacks-what-makes-the-creative-process-fun-despite-its-efficiency-its-not-a-form-of-creation-i-find-particularly-interesting/",
+      "source": "AUTOMATON WEST",
       "category": "games",
-      "published_iso": "2026-11-03T18:00:00+00:00",
-      "excerpt": "A studio survey finds 94% of game studios already use AI in some capacity but rate their own integration around 3/10 — data Wccftech says backs Tim Sweeney's argument that Steam's AI labels are meaningless.",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Tim-Sweeney-Steam-AI-Gaming-1920x1080.jpg"
+      "published_iso": "2026-11-04T13:00:00Z",
+      "excerpt": "In an interview with Game*Spark, Hideo Kojima said rapid AI advances have made game development far more manageable but that AI-driven creation is 'not a form of creation I find particularly interesting', voicing anxiety about AI's future role in creative work.",
+      "og_image": "https://automaton-media.com/en/wp-content/uploads/2025/10/20250909-51789-header.jpg",
+      "cluster": "c4"
     },
     {
-      "title": "NVIDIA RTX Spark Powers Neural Rendering and AI Characters in Games",
-      "url": "https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games/",
-      "source": "NVIDIA Technical Blog",
+      "title": "Metal Gear creator Hideo Kojima says he'll be dead by then, but worries AI will eventually play a key role in creative fields",
+      "url": "https://www.gamesradar.com/games/action/metal-gear-creator-hideo-kojima-says-hell-be-dead-by-then-but-worries-ai-will-eventually-play-a-key-role-in-creative-fields-getting-a-finished-picture-is-not-whats-fun-about-drawing/",
+      "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-10-27T17:00:00+00:00",
-      "excerpt": "NVIDIA's developer roundup for RTX Spark: Nemotron 3.5 Bolt E4B for on-device AI characters via the In-Game Inferencing SDK, eight RTX Kit neural rendering SDKs (Neural Texture Compression, Character Rendering), an RTX Branch of UE 5.8, and MotionBricks SOMA human-motion models.",
-      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2.webp",
-      "history_match": {
-        "score": 0.254,
-        "date": "2026-10-09",
-        "url": "https://wccftech.com/original-doom-gets-nvidia-dlss-5-neural-rendering-through-a-custom-directx-12-port/",
-        "title": "Original DOOM Gets NVIDIA DLSS 5 Neural Rendering Through a Custom DirectX 12 Port",
-        "band": "related"
-      }
+      "published_iso": "2026-11-05T16:43:36Z",
+      "excerpt": "Kojima says he worries AI will eventually play a key role in creative fields, arguing that the fun of art is in making it: 'Getting a finished picture is not what's fun about drawing.'",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/zeGXExUEqV8PctsL9RTkSo-1920-80.jpg",
+      "cluster": "c4"
     },
     {
-      "title": "Shogun 2 – Complete Edition was \"not a Creative Assembly developed game,\" says Total War VP after it was pulled amid generative AI concerns",
-      "url": "https://www.gamesindustry.biz/shogun-2-complete-edition-was-not-a-creative-assembly-developed-game-says-total-war-vp-after-it-was-pulled-amid-generative-ai-concerns",
-      "source": "GamesIndustry.biz",
+      "title": "엔씨 AI, 지스타 2026서 생성형 AI 플랫폼 '바르코' 체험 카페 운영",
+      "url": "https://www.inews24.com/view/2022819",
+      "source": "아이뉴스24",
       "category": "games",
-      "published_iso": "2026-10-26T08:40:16+00:00",
-      "excerpt": "Total War VP Roger Collum said the AI-upscaled Shogun 2 Complete Edition was externally developed — 'we took our eyes off its external development' — after the remaster was pulled over generative AI asset concerns.",
-      "og_image": "https://assetsio.gnwcdn.com/Total-War-Shogun-2-Complete-Edition_KL4qx2j.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "history_match": {
-        "score": 0.444,
-        "date": "2026-10-16",
-        "url": "https://kotaku.com/sega-total-war-shogun-2-complete-edition-ai-reviews-pulled-from-sale-2000746339",
-        "title": "Sega's Total War: Shogun 2 Remake Is Such A Disaster It's Being Pulled From Sale",
-        "band": "likely-repeat"
-      },
-      "cluster": "c9"
+      "published_iso": "2026-11-05T09:02:12+09:00",
+      "excerpt": "NC AI는 지스타 2026 기간(11월 19~21일) 부산 벡스코 인근에서 생성형 AI 플랫폼 '바르코' 체험 카페를 열고 3D 모델·사운드 생성 기술 체험과 1대1 상담을 제공하며, 10개 개발팀에 3개월 무료 이용을 지원한다.",
+      "og_image": "https://image.inews24.com/v1/e58954f733e2fa.jpg"
     },
     {
-      "title": "Creative Assembly Finally Addresses The Shogun 2 Remaster Disaster By Pointing Fingers",
-      "url": "https://kotaku.com/total-war-shogun-2-complete-edition-ai-creative-assembly-mataboo-2000749108",
+      "title": "Microsoft And Epic Games Suddenly Agree That AI Is Theft",
+      "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
       "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-10-23T16:57:38+00:00",
-      "excerpt": "Creative Assembly VP Roger Collum addressed the AI-upscaled Shogun 2 remaster pulled from sale, claiming the buck stops with CA while repeatedly placing blame on external developer Mataboo.",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/shogun-fingers-1200x675.jpg",
+      "published_iso": "2026-10-26T16:30:08+00:00",
+      "excerpt": "Kotaku argues that as Claude Opus 5.5-driven decompilations and vibe-coded browser ports flood out daily, publishers that embraced AI tools are now framing AI copying of their own games as theft.",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/Master-Chief-Fortnite-trailer-Epic-Games-Xbox-1200x675.jpg",
       "history_match": {
-        "score": 0.316,
-        "date": "2026-10-16",
-        "url": "https://kotaku.com/sega-total-war-shogun-2-complete-edition-ai-reviews-pulled-from-sale-2000746339",
-        "title": "Sega's Total War: Shogun 2 Remake Is Such A Disaster It's Being Pulled From Sale",
+        "score": 0.248,
+        "date": "2026-10-15",
+        "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
+        "title": "Epic’s new games launcher is ‘vibe coded’",
         "band": "related"
-      },
-      "cluster": "c9"
+      }
     },
     {
-      "title": "New Hogwarts Legacy Trailer Shows Off Nvidia's DLSS 5 Enhanced Lighting and Materials",
-      "url": "https://www.ign.com/articles/nvidia-shows-off-dlss-5-hogwarts-legacy-trailer",
-      "source": "IGN",
+      "title": "The AI PS5 Homebrew Gold Rush Is Why GTA 6 Can't Be Pirated",
+      "url": "https://kotaku.com/ai-has-triggered-a-ps5-homebrew-gold-rush-but-its-also-the-reason-gta-6-cant-be-pirated-at-release-2000749776",
+      "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-11-04T15:43:10.444Z",
-      "excerpt": "Nvidia showed DLSS 5 in Hogwarts Legacy, where the AI-enhanced lighting and materials model is tuned far more subtly than earlier demos, steering clear of altering character faces. (Deprioritized DLSS 5 per-game pattern.)",
-      "og_image": "https://assets-prd.ignimgs.com/2026/11/04/hogwartslegacy-dlss5-1793806537149.png?width=1280&format=jpg&auto=webp&quality=80",
+      "published_iso": "2026-10-26T21:30:32+00:00",
+      "excerpt": "Claude-wielding homebrew developers have rapidly built PS5 tools such as disc-based PS2/PS3 emulation, while the community splits over AI-powered reverse engineering after one hacker reported a hypervisor exploit to Sony.",
+      "og_image": "https://kotaku.com/app/uploads/2026/06/gta-6-1.jpg",
       "history_match": {
-        "score": 0.313,
+        "score": 0.199,
+        "date": "2026-10-08",
+        "url": "https://kotaku.com/ai-bro-defends-sloppily-reverse-engineering-playstation-homebrew-tool-without-permission-by-invoking-freedom-of-speech-2000741098",
+        "title": "AI Bro Defends Reverse-Engineering PlayStation Homebrew Tool",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Gaming storefronts are facing a Slop Grenade problem | Opinion",
+      "url": "https://www.gamesindustry.biz/gaming-storefronts-are-facing-a-slop-grenade-problem-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-10-30T12:00:00+00:00",
+      "excerpt": "Rob Fahey argues that digital storefronts are ill-equipped for the avalanche of AI-created games threatening discoverability, and criticises industry reports that present AI adoption as a fait accompli.",
+      "og_image": "https://assetsio.gnwcdn.com/steam_ROoZJs3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "history_match": {
+        "score": 0.209,
+        "date": "2026-11-02",
+        "url": "https://www.polygon.com/itch-io-doubled-game-pages-ai-slop/",
+        "title": "Itch.io Reveals Just How Much AI Slop Is Flooding Gaming Storefronts",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Xsolla acquires GamePix to build platform for web and AI-created games",
+      "url": "https://gamesbeat.com/xsolla-acquires-gamepix-to-build-platform-for-web-and-ai-created-games/",
+      "source": "GamesBeat",
+      "category": "games",
+      "published_iso": "2026-10-29T22:35:00+00:00",
+      "excerpt": "Xsolla bought GamePix, a web-games publisher with 10,000+ titles and a pipeline that brings PC, mobile and AI-built games to the browser, to give developers of web and AI-created games one path to monetisation in 200+ regions.",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/GamesPix-2.png",
+      "history_match": {
+        "score": 0.181,
+        "date": "2026-10-27",
+        "url": "https://gamesbeat.com/remix-launches-platform-for-anyone-to-build-their-own-game-on-desktop-web-or-mobile/",
+        "title": "Remix launches platform for anyone to build their own game on desktop, web or mobile",
+        "band": "related"
+      }
+    },
+    {
+      "title": "'Hogwarts Legacy' Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
+      "source": "NVIDIA Blog",
+      "category": "games",
+      "published_iso": "2026-11-05T14:00:34+00:00",
+      "excerpt": "Hogwarts Legacy gets DLSS 5 with 3D-Guided Neural Rendering, which brings lifelike lighting and materials, both natively and when streamed through GeForce NOW. It is another per-game DLSS 5 integration (the same pattern as War Thunder on 11-04).",
+      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/gfn-thursday-11-5-blog-1920x1080-no-copy.jpg",
+      "history_match": {
+        "score": 0.363,
         "date": "2026-10-14",
         "url": "https://wccftech.com/nvidia-dlss-5-runs-faster-reduces-vram-use-coming-to-hogwarts-legacy-where-winds-meet/",
         "title": "NVIDIA DLSS 5 Runs 30% Faster Now, Reduces VRAM Use By 20% & Coming To Hogwarts Legacy & Where Winds Meet In November",
         "band": "related"
       }
+    },
+    {
+      "title": "Tripo launches Agentic Canvas to turn one-off 3D models into reusable workflows",
+      "url": "https://runtimewire.com/article/tripo-agentic-canvas-reusable-3d-workflows",
+      "source": "RuntimeWire",
+      "category": "games",
+      "published_iso": "2026-11-02T17:28:02Z",
+      "excerpt": "Tripo AI's Agentic Canvas adds an agent that assembles 3D generation, texturing, retopology and export into node-based pipelines that teams can save and rerun for game assets. [off-list exception: no allowed-domain coverage of this generative game-asset tool]",
+      "og_image": "https://runtimewire.com/og/tripo-agentic-canvas-reusable-3d-workflows.16x9.jpg?v=og2-7qnr2u",
+      "history_match": {
+        "score": 0.164,
+        "date": "2026-10-11",
+        "url": "https://gamesbeat.com/uchicago-ai-researcher-rana-hanocka-launches-thrixel-a-3d-generation-platform/",
+        "title": "UChicago AI Researcher Rana Hanocka launches Thrixel, a 3D generation platform",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Astrocade launches $100K contest to vibe code games using AI",
+      "url": "https://www.dexerto.com/gaming/astrocade-launches-100k-contest-to-vibe-code-games-using-ai-3424330/",
+      "source": "Dexerto",
+      "published_iso": "2026-11-05T18:30:18Z",
+      "excerpt": "Astrocade is launching a $100,000 winner-take-all creator competition: 25 selected creators spend three weeks building playable content with Astrocade's natural-language, no-code AI game creation tools, and the prize goes to whoever draws the most plays.",
+      "og_image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/05/astrocade1.jpg",
+      "_note": "off-list (dexerto); text-to-game platform action, new contest",
+      "category": "games",
+      "history_match": {
+        "score": 0.157,
+        "date": "2026-10-23",
+        "url": "https://www.gamesradar.com/games/epic-wants-to-pay-you-usd50-000-to-vibe-code-an-ai-slop-game/",
+        "title": "Epic wants to pay you $50,000 to vibe code an AI slop game",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Take-Two Addresses AI In GTA 6's Development Again",
+      "url": "https://insider-gaming.com/take-two-addresses-ai-in-gta-6/",
+      "source": "Insider Gaming",
+      "published_iso": "2026-11-05T07:44:14Z",
+      "excerpt": "In a WSJ tech-conference interview, Take-Two CEO Strauss Zelnick said GTA 6 is 'handcrafted' but that the company has been 'in the AI and machine learning business since the beginning of time' and is trying everything to make better games more efficiently.",
+      "og_image": "https://insider-gaming.com/wp-content/uploads/2026/10/GTA-6-North-America-scaled.jpg",
+      "_note": "off-list; GTA 6 launch week AI stance",
+      "category": "games"
+    },
+    {
+      "title": "“당연히 ‘카트라이더’인 줄 알았는데…” 게임 AI 복제에 대기업도 ‘발칵’, 무슨 일",
+      "url": "https://biz.heraldcorp.com/article/10927474",
+      "source": "헤럴드경제",
+      "published_iso": "2026-11-05T18:40:03+09:00",
+      "excerpt": "로블록스에 넥슨 '카트라이더'를 UI·맵·조작감까지 베낀 '드리프트 유니버스'가 올라와 5만명이 몰렸다가 넥슨 요청으로 삭제됐고, 밸브 '레프트 4 데드 2'·'카운터스트라이크 2' 모방작도 등장했다. 업계는 생성형 AI로 원작을 분석해 복제했을 가능성을 제기하며, 개별 게임사의 신고 대응이 한계에 부딪혔다고 본다.",
+      "og_image": "https://wimg.heraldcorp.com/news/cms/2026/11/05/news-p.v1.20251222.7d995064a5bc4f55bc5f4532641a8463_P1.png",
+      "_note": "off-list Korean; distinct from gamemeca Slotbound clone (indie) — this is Nexon/Valve IP on Roblox",
+      "category": "games"
+    },
+    {
+      "title": "Kimi Launches Game Development Solution With K3.1 Agents Working Inside Unity, Unreal and Blender",
+      "url": "https://pandaily.com/kimi-game-development-creative-solution-k3-1-kimi-code-work-unity-unreal-engine-blender-20-hours",
+      "source": "Pandaily",
+      "published_iso": "2026-11-03T20:30:00Z",
+      "excerpt": "Moonshot AI's Kimi released a game-development solution pairing K3.1 models with Kimi Code and Kimi Work agents that edit Unity, Unreal Engine and Blender projects directly, demonstrating a 20-hour unattended run that turns a concept into a functional prototype.",
+      "og_image": "https://cms-image.pandaily.com/1/kimi_e3d22e0c6a.png",
+      "_note": "off-list; alt source retailnews.asia/moonshot-ai-launches-game-development-suite-with-20-hour-unattended-run (2026-11-04)",
+      "category": "games",
+      "history_match": {
+        "score": 0.205,
+        "date": "2026-11-02",
+        "url": "https://gamesbeat.com/ramen-launches-aura-autopilot-an-open-source-autonomous-game-tester/",
+        "title": "Ramen launches Aura Autopilot, an Open-Source Autonomous Game Tester for Unreal Engine, Unity and Godot",
+        "band": "related"
+      }
+    },
+    {
+      "title": "テンセント、ゲーム開発に強い新AI『Hy4』発表　Unityなどでマルチプレイの実装を支援",
+      "url": "https://realsound.jp/tech/2026/11/post-2575100.html",
+      "source": "Real Sound テック",
+      "published_iso": "2026-11-05T16:32:10+09:00",
+      "excerpt": "Tencent's new Hy4 LLM was trained with input from its games division to implement multiplayer game logic and track game state, tuned for Unreal Engine, Unity and Godot; Tencent reports +19.1% on GameDev and +9.8% on GameLogic benchmarks vs the preview, and showcased a 3D driving sim built with it.",
+      "og_image": "https://realsound.jp/wp-content/uploads/2026/11/20261105-hy4-99.jpg",
+      "_note": "off-list Japanese; game-engine angle of a general model release",
+      "category": "games",
+      "history_match": {
+        "score": 0.151,
+        "date": "2026-11-02",
+        "url": "https://gamesbeat.com/ramen-launches-aura-autopilot-an-open-source-autonomous-game-tester/",
+        "title": "Ramen launches Aura Autopilot, an Open-Source Autonomous Game Tester for Unreal Engine, Unity and Godot",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Overwolf’s Nitro & Base44 Launch $65K Contest for Web Games Built with AI",
+      "url": "https://www.exchangewire.com/blog/2026/11/05/overwolfs-nitro-base44-launch-65k-contest-for-web-games-built-with-ai/",
+      "source": "ExchangeWire",
+      "published_iso": "2026-11-05T16:02:11Z",
+      "excerpt": "Overwolf's Nitro and prompt-to-app builder Base44 opened a $65,000 contest (Nov 5 - Dec 3) for playable browser games built from natural-language prompts in Base44; winners get featured in the Overwolf App Store.",
+      "og_image": "https://cdn.exchangewire.com/wp-content/uploads/2026/11/Overwolf-Launch-static-FINAL-1920x1080-1.png",
+      "_note": "off-list press release; pairs with Astrocade contest — curator pick at most one",
+      "category": "games"
+    },
+    {
+      "title": "AMD FSR4 is Now Available on Xbox Series X/S and Asus ROG Xbox Ally and Ally X Through Microsoft GDK",
+      "url": "https://gamingbolt.com/amd-fsr4-is-now-available-on-xbox-series-x-s-and-asus-rog-xbox-ally-and-ally-x-through-microsoft-gdk",
+      "source": "GamingBolt",
+      "published_iso": "2026-11-05T17:17:23Z",
+      "excerpt": "Microsoft made AMD's machine-learning-based FSR 4 upscaling available to developers on Xbox Series X|S and ROG Xbox Ally handhelds via the GDK, after working with AMD to run the ML upscaler on RDNA 2 hardware, ahead of GTA 6.",
+      "og_image": "https://gamingbolt.com/wp-content/uploads/2026/10/Xbox_03.jpg",
+      "_note": "on-list; AI = ML upscaling (weaker); pcgamer duplicate exists",
+      "category": "games",
+      "history_match": {
+        "score": 0.282,
+        "date": "2026-10-25",
+        "url": "https://www.eurogamer.net/xbox-series-x-s-amd-fsr-4-1-upscaling",
+        "title": "Xbox follows in PlayStation's footsteps, introducing AMD FSR 4.1, targeting better graphics and performance on Series X/S",
+        "band": "related"
+      }
+    },
+    {
+      "title": "ゲーム制作にかかる時間は30分で模倣作も次々登場､生成AIが変える開発現場と｢アイデアを先に出したら負ける｣時代",
+      "url": "https://toyokeizai.net/articles/-/962410",
+      "source": "東洋経済オンライン",
+      "published_iso": "2026-10-30T07:30:00+09:00",
+      "excerpt": "Feature on how generative AI is reshaping Japanese game development: Yuji Horii's new title and '80億分の1' were made in very short time, 30-minute game builds and rapid copycats raise copying and copyright problems — an era where 'showing your idea first means losing'.",
+      "og_image": "https://tk.ismcdn.jp/mwimgs/4/b/1200xm/img_4b8492a85b54b59e5c7afb1b2bde0c8b202172.jpg",
+      "_note": "off-list Japanese; partial paywall",
+      "category": "games",
+      "history_match": {
+        "score": 0.176,
+        "date": "2026-10-13",
+        "url": "https://kotaku.com/dragon-quest-creator-yuji-horii-thinks-ai-is-amazing-as-he-no-longer-needs-to-code-or-draw-to-make-a-game-2000744194",
+        "title": "Dragon Quest Creator Yuji Horii Thinks AI Is Amazing As He No Longer Needs To Code Or Draw To Make A Game",
+        "band": "related"
+      }
+    },
+    {
+      "title": "AI 게임 개발사 앵커노드, 日 명작 리메이크 직접 맡는다",
+      "url": "https://www.playforum.net/news/articleView.html?idxno=635767",
+      "source": "플레이포럼",
+      "published_iso": "2026-11-03T17:17:48+09:00",
+      "excerpt": "AI 게임 아트 생성 솔루션 기업 앵커노드가 대원미디어와 일본 고전 게임 IP 리메이크 계약을 맺고 개발에 착수했다. AI 에셋 생성 기술을 실제 IP 게임 제작에 적용하는 첫 협력 사례다.",
+      "og_image": "https://cdn.playforum.net/news/photo/202611/635767_67840_1214.jpg",
+      "_note": "off-list Korean; business-leaning, low priority",
+      "category": "games"
+    },
+    {
+      "title": "Nintendo's Mario creator Miyamoto sees 'things we can do' even in AI era",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/nintendo-s-mario-creator-miyamoto-sees-things-we-can-do-even-in-ai-era",
+      "source": "Nikkei Asia",
+      "published_iso": "2026-11-02T19:03:24Z",
+      "excerpt": "Shigeru Miyamoto said that as AI becomes more capable of handling game development work, it will 'create opportunities for everyone to think seriously about what creation really means.'",
+      "og_image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F6%2F4%2F1%2F13391469-2-eng-GB%2F97f61b7f2f0f-photo_SXM2026102900005945.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
+      "_note": "off-list paywalled; same genre as Kojima pick — use only if Kojima dropped",
+      "category": "games",
+      "history_match": {
+        "score": 0.27,
+        "date": "2026-10-24",
+        "url": "https://www.eurogamer.net/nintendo-shigeru-miyamoto-gen-ai",
+        "title": "Nintendo Shigeru Miyamoto says even if gen-AI \"were to eventually handle everything, there will always be a role left\" for human designers",
+        "band": "related"
+      }
     }
   ],
   "dedup": {
-    "dropped": 2,
-    "kept": 12,
+    "dropped": 4,
+    "kept": 13,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 10,
+    "review": 15,
     "same_story_pairs": [
       [
-        "https://kotaku.com/nexus-mods-gen-ai-disclosure-rules-steam-itch-update-2000753301",
-        "https://www.ign.com/articles/nexus-mods-forces-mandatory-generative-ai-disclosures-and-filters",
-        0.429
+        "https://www.gamesradar.com/games/valve-cracks-down-on-steam-game-submission-process-as-questionable-ai-clones-and-vibe-coded-slop-flood-its-store/",
+        "https://www.4gamer.net/games/038/G003821/20261105022/",
+        0.34
       ],
       [
-        "https://kotaku.com/nexus-mods-gen-ai-disclosure-rules-steam-itch-update-2000753301",
-        "https://www.eurogamer.net/nexus-mods-gen-ai-disclosure-rules",
-        0.406
-      ],
-      [
-        "https://www.ign.com/articles/nexus-mods-forces-mandatory-generative-ai-disclosures-and-filters",
-        "https://www.eurogamer.net/nexus-mods-gen-ai-disclosure-rules",
-        0.414
-      ],
-      [
-        "https://www.gamesindustry.biz/shogun-2-complete-edition-was-not-a-creative-assembly-developed-game-says-total-war-vp-after-it-was-pulled-amid-generative-ai-concerns",
-        "https://kotaku.com/total-war-shogun-2-complete-edition-ai-creative-assembly-mataboo-2000749108",
-        0.377
+        "https://automaton-media.com/en/news/hideo-kojima-says-ai-lacks-what-makes-the-creative-process-fun-despite-its-efficiency-its-not-a-form-of-creation-i-find-particularly-interesting/",
+        "https://www.gamesradar.com/games/action/metal-gear-creator-hideo-kojima-says-hell-be-dead-by-then-but-worries-ai-will-eventually-play-a-key-role-in-creative-fields-getting-a-finished-picture-is-not-whats-fun-about-drawing/",
+        0.324
       ]
     ]
   },
   "history_digest": [
-    {
-      "date": "2026-10-06",
-      "title": "Jagex responds to use of generative AI in RuneScape trailer made by \"trusted external partner\"",
-      "url": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "Hideo Kojima addresses AI after DLSS 5 hit Death Stranding 2, says \"I don't much like the idea\" of it taking work or control from artists",
-      "url": "https://www.gamesradar.com/games/open-world/hideo-kojima-addresses-ai-after-dlss-5-hit-death-stranding-2-says-i-dont-much-like-the-idea-of-it-taking-work-or-control-from-artists/"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "Fortnite Has Updated In-Game Art After Fans Discovered a Google Gemini AI Image Watermark",
-      "url": "https://www.ign.com/articles/fortnite-has-updated-in-game-art-after-fans-discovered-a-google-gemini-ai-image-watermark"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "Agentic Development in Unreal Engine with Rider | Unreal Fest Chicago 2026",
-      "url": "https://www.youtube.com/watch?v=0C7GjShUnlY"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "Turn concept art into a functional game UI",
-      "url": "https://www.youtube.com/watch?v=IYvRShclEL8"
-    },
     {
       "date": "2026-10-07",
       "title": "FromSoftware-Style Bosses Could Stop Being Learnable, As PlayStation's October 1 AI Patent Rewrites Enemy Behavior On The Fly",
@@ -894,6 +1002,31 @@
       "date": "2026-11-04",
       "title": "\"Steam's review queue is clogged up by AI slop\": Food Devils gets a delay because its devs think Valve is inundated with genAI games",
       "url": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Power Moon Recomp: an unofficial native PC port of Super Mario Odyssey, built with the Claude coding agent, runs at 4K/60",
+      "url": "http://www.gamey.kr/news/articleView.html?idxno=3019481"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Y Combinator and Olam Labs let 50 AI agents build a civilisation in Minecraft, and they formed a timid bureaucracy",
+      "url": "https://automaton-media.com/articles/newsjp/20261102-477130/"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Unreal Engine 6 will drop Blueprints from the start to put AI productivity first, Tim Sweeney says in an apologetic Unreal Fest Tokyo 2026 keynote",
+      "url": "https://www.4gamer.net/games/210/G021013/20261104013/"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Best WoW Forever add-ons to avoid AI slop",
+      "url": "https://www.destructoid.com/best-wow-forever-add-ons-to-avoid-ai-slop/"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "'We Are Pro-Human Creativity' — Nexus Mods Forces Mandatory AI Disclosures and Filters, Explains Why It Won't Ban AI Mods",
+      "url": "https://www.ign.com/articles/nexus-mods-forces-mandatory-generative-ai-disclosures-and-filters"
     }
   ]
 }

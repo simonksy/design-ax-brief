@@ -9635,6 +9635,134 @@
           "cap": "DLSS 5 ON"
         }
       ]
+    },
+    "games/google-cavill-mustache-protocol": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/REBXE3PpQZNEtNemd6hgnB.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Henry Cavill正与Google合作，用氛围编程制作一款以守护男性胡须为主题的游戏。游戏名为Mustache Protocol，将登陆手机和平板。玩家扮演这位曾出演Superman和Mission: Impossible的演员，执行任务阻止企图用CGI抹去所有人小胡子的反胡须信徒——这是在调侃臭名昭著的Justice League补拍事件。"
+        },
+        {
+          "t": "p",
+          "x": "为制作这款横版卷轴游戏，Cavill使用了Google的多款工具，例如能把语音转成条理清晰笔记的Rambler，以及最主要的Antigravity——一套可根据提示词生成16-bit画面的生成式AI工具。"
+        },
+        {
+          "t": "video",
+          "yt": "0S4DVtdYWww"
+        },
+        {
+          "t": "p",
+          "x": "Google在介绍文章中写道：“在打磨游戏的过程中，Henry在他的Googlebook上用Rambler整理头脑风暴时的想法。”“他尝试了不同的美术风格，添加配饰，并用Magic Pointer微调设计，这个工具让他可以在屏幕上选择并组合视觉元素。”在记录制作过程的三集系列的第一集中，他称这是一款“针对严肃问题的有趣游戏”。"
+        },
+        {
+          "t": "p",
+          "x": "整个11月，玩家每完成一次游戏，Google就向Movember捐出$11。Movember是一家致力于提升公众对自杀、睾丸癌、前列腺癌等男性问题认识的基金会。捐款累计上限为$500,000。"
+        }
+      ]
+    },
+    "games/kojima-ai-creation-fun": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2025/10/20250909-51789-header.jpg",
+          "cap": "Hideo Kojima"
+        },
+        {
+          "t": "p",
+          "x": "Hideo Kojima在近期接受日本媒体Game*Spark采访时表示，AI技术的快速进步让游戏开发变得容易得多，同时也对“创作过程的乐趣”可能消失的未来流露出些许担忧。"
+        },
+        {
+          "t": "p",
+          "x": "如同此前的Photoshop和文字处理软件，AI“让工作更加高效，使我们能更快赶上截止日期”。Kojima补充说：“我觉得这也很好，但以画画为例。画画的乐趣不在于得到一幅完成的画，而在于过程[...] 对电脑说‘做这个’‘做好了’‘不对，换个做法’之类的话也没问题——但这并不是我特别感兴趣的创作形式。”"
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2025/07/20250326-46119-header.jpg",
+          "cap": "Death Stranding 2: On The Beach"
+        },
+        {
+          "t": "p",
+          "x": "“中间反复试错的过程才让我肾上腺素飙升，让体验引人入胜。我不希望看到这一部分消失的未来，”Kojima说。他认为未来五到十年内不会有问题，但如果AI一直不受限制，有一天它可能在创作领域也扮演关键角色，届时年轻一代将不得不决定如何应对。他还表示，取决于使用方式，AI工具也可能帮助建设更美好的未来。"
+        }
+      ]
+    },
+    "games/games-kimi-k31-gamedev-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-image.pandaily.com/1/kimi_e3d22e0c6a.png"
+        },
+        {
+          "t": "p",
+          "x": "Moonshot AI发布了面向Kimi的游戏开发与创意工作解决方案，基于其Kimi K3.1模型系列、Kimi Code和Kimi Work智能体产品，以及适用于Unity、Unreal Engine和Blender等专业工具的插件。公司表示，该方案旨在帮助工作室更早验证玩法创意，并推进工程与美术制作。"
+        },
+        {
+          "t": "p",
+          "x": "模型可读取设计文档、截图、代码和3D资产并规划工作；Kimi Code负责在代码库中实现，Kimi Work则承担多步骤的制作任务。在Unity和Unreal Engine中，它会梳理代码结构、场景层级和模块依赖，通过编辑器插件进行修改，并对照复现步骤、日志和运行时数据检查结果。"
+        },
+        {
+          "t": "p",
+          "x": "在Unity方面，Kimi与Unity China的Tuanjie Codely Agent协同工作。Kimi称，在一次演示中，它在无人干预的情况下连续工作了20小时，复刻了一款现有游戏，并生成了可继续开发的原生项目。"
+        },
+        {
+          "t": "p",
+          "x": "归功于Kimi K3.1 Pro的展示作品包括一段Blender雨林山谷飞越动画，以及在Unreal Engine 5.8中制作的、三角形总数达36百万个的天宫场景。Kimi还表示，没有编程经验的设计师也能在一到两天内制作出可玩的Godot原型。"
+        }
+      ]
+    },
+    "games/games-tencent-hy4-multiplayer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://realsound.jp/wp-content/uploads/2026/11/20261105-hy4-99.jpg"
+        },
+        {
+          "t": "p",
+          "x": "腾讯于11月4日发布大语言模型“Hy4”。据介绍，公司游戏部门的开发者参与了训练数据的筛选与评估，使其能够支持多名玩家同时游玩的游戏的开发实现。"
+        },
+        {
+          "t": "p",
+          "x": "开发中重点打磨了按照游戏规则推进处理的机制，以及追踪游戏过程中不断变化的游戏状态的处理。模型针对Unreal Engine、Unity、Godot等主流游戏引擎进行了调整。据该公司介绍，在游戏开发相关的性能评测中，与预览版相比，“GameDev”得分提升19.1%，“GameLogic”得分提升9.8%。"
+        },
+        {
+          "t": "p",
+          "x": "官方开发博客介绍了使用Hy4制作的3D驾驶模拟器“Electric Flying Car Climb Test”。玩家在夜间测试赛道上让汽车加速，测试它能沿着呈弧形、几乎垂直立起的跑道爬多高。"
+        },
+        {
+          "t": "p",
+          "x": "Hy4还新增了读取图像和操作PC屏幕的功能，并使用3D制作软件“Blender”及设计用CAD软件进行了训练。Hy4可在该公司的“Tencent Cloud TokenHub”“WorkBuddy”“CodeBuddy”等平台上使用。"
+        }
+      ]
+    },
+    "games/nexus-mods-ai-disclosure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789439521.png",
+          "cap": "图片来源：Nexus Mods。"
+        },
+        {
+          "t": "p",
+          "x": "生成式AI已席卷模组圈。作为互联网上最大的模组平台，Nexus Mods对此作出回应：强制要求含AI-assisted代码的模组进行披露，并允许用户在搜索条件或偏好设置中过滤掉AI-assisted模组。"
+        },
+        {
+          "t": "p",
+          "x": "联合所有者Victor 'Foledinho' Folmann在博文中表示：“我们支持人类的创造力。”他不会禁止AI模组，因为“AI目前贯穿整个创作过程……很难划出清晰的界限”，并认为禁令只会促使模组作者隐瞒AI的使用：“它应当公开透明、清楚标注并受到监管。”"
+        },
+        {
+          "t": "p",
+          "x": "模组作者必须声明模组是AI-assisted、主要为AI-generated，还是包含AI-generated宣传素材，并附上“关于AI如何使用、在何处使用的公开说明”。现有模组有60天宽限期；1月2日前仍未更新的模组可能面临账号限制。"
+        },
+        {
+          "t": "p",
+          "x": "此举正值Valve拒绝在Steam上封堵“AI slop”、Tim Sweeney称强制AI声明是“一种政治行为”，以及Itch.io删除其所称“TB级的AI slop”之际。"
+        }
+      ]
     }
   }
 }

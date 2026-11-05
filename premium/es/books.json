@@ -8859,6 +8859,160 @@
           "x": "“¿Por qué cobré por audiolibros de AI Slop? … Tuvo 126.592 usuarios únicos en las 24 horas posteriores a su lanzamiento”, escribió Ganesh. “Vendí unos 11 audiolibros, si sirve de consuelo”. Se despidió como “una persona de 17 años de India que creía estar haciendo algo bueno”."
         }
       ]
+    },
+    "books/books-gruffalo-scheffler-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/xYwaj5VqTyTtVtz4gK7L4b.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El ilustrador del libro Gruffalo estudia demandar a empresas de AI por infracción de derechos de autor tras ver representaciones generadas por AI del querido personaje infantil en escenarios insólitos, como Silicon Valley y el Oktoberfest. Axel Scheffler dice que está “considerando seriamente” emprender acciones legales contra empresas de AI por el uso de sus ilustraciones."
+        },
+        {
+          "t": "p",
+          "x": "Para comprobar lo fácil que es lograr que los modelos de AI actuales reproduzcan al Gruffalo, TechRadar recurrió a las funciones de generación de imágenes de ChatGPT y Gemini. Un prompt sencillo a ChatGPT fue rechazado de inmediato."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/fu2rkJskMFDxjoBy7qNfd.png",
+          "cap": "Captura de pantalla de una conversación con ChatGPT."
+        },
+        {
+          "t": "p",
+          "x": "Un prompt descriptivo sobre un monstruo original del bosque produjo una imagen que “no era exactamente el Gruffalo, pero tampoco resultaba del todo desconocida”."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/bjfduyx7ZLMJREBRJZqpiZ.png",
+          "cap": "Imagen generada por ChatGPT de un simpático personaje del bosque."
+        },
+        {
+          "t": "p",
+          "x": "Con exactamente el mismo prompt, Gemini 3.8 produjo una imagen casi indistinguible del Gruffalo, e incluso incluyó al Ratón (Mouse). Al pedirle un cartel del Oktoberfest con temática de Gruffalo, mostró al Gruffalo con lederhosen, un pretzel y una jarra de cerveza."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/suspgybKPyGjNzdrZcECrR.png",
+          "cap": "Captura de pantalla de una conversación con Google Gemini"
+        },
+        {
+          "t": "p",
+          "x": "Uno se negó por completo a generar al Gruffalo, mientras que el otro le puso lederhosen sin problema. Si una empresa de AI puede imponer restricciones para proteger personajes con derechos de autor y otra aparentemente no lo hace, surge una pregunta mayor: ¿hasta qué punto se toman en serio las empresas de AI los derechos de los artistas?"
+        }
+      ]
+    },
+    "books/books-europe-ai-optout": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.khan.co.kr/news/2026/11/05/news-p.v1.20261105.86330c3d9cef4964837c6a302cb49e6b_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "El tema del Foro de Editores de Asia 2026, celebrado el día 5 por la Sociedad de Editores de Corea en el edificio Changbi Seogyo de Seúl, fue ‘La edición en la era de la AI, entre la crisis y la oportunidad’. Steffen Meyer, fundador de la plataforma de medios alemana DPR, que intervino como ponente, explicó que las editoriales europeas se mueven en 3 frentes: respuestas propias, contratos individuales con empresas de AI y acción conjunta a nivel de industria."
+        },
+        {
+          "t": "p",
+          "x": "Dentro de las editoriales, el personal debe seguir reglas como usar herramientas de AI aprobadas y no introducir manuscritos inéditos en modelos de AI públicos; además, deben indicar en webs y archivos, de forma legible por máquina, la exclusión de la minería de textos y datos, y dejar constancia en la página de créditos de cada libro de que se rechaza su uso para entrenar AI. También se incluyen cláusulas sobre AI en los contratos con autores y traductores."
+        },
+        {
+          "t": "p",
+          "x": "Las grandes editoriales también obtienen ingresos con contratos individuales con empresas de AI. La editorial académica Wiley ganó 4900만달러 (unos 657억4330만원) solo el año pasado. HarperCollins propone a los autores un contrato que paga 5000달러 (unos 670만7500원) por cada libro de no ficción."
+        },
+        {
+          "t": "p",
+          "x": "A las editoriales pequeñas y medianas les cuesta cerrar este tipo de acuerdos. En el Reino Unido, la BBC, el Financial Times, The Guardian y otros crearon SPUR (Standards for Publisher Usage Rights) para responder de forma conjunta, y Bookfact, en los Países Bajos, es una plataforma de una alianza de editoriales que permite a cada editorial decidir, libro por libro, qué usos de AI autoriza."
+        },
+        {
+          "t": "p",
+          "x": "Meyer planteó un escenario en el que el libro se convierte en ‘contenido líquido’ (liquid content). Por su parte, el ministro de Cultura, Deportes y Turismo, Choi Hwi-young, dijo sobre la presunta utilización no autorizada de libros coreanos por parte de Anthropic para entrenar AI: “Con la ley actual no hay forma de hacer nada”."
+        }
+      ]
+    },
+    "books/books-cleveland-library-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/signalcleveland.org/wp-content/uploads/2022/10/20240117_165935-scaled.jpg?fit=780%2C585&ssl=1",
+          "cap": "El ala Louis Stokes de la sede central de la Biblioteca Pública de Cleveland"
+        },
+        {
+          "t": "p",
+          "x": "La Junta de Fideicomisarios de la CPL aprobó una política de gobernanza de AI, vigente desde el 16 de octubre. La política orientará el uso de la AI en las operaciones de la biblioteca y podría revisarse y modificarse cada trimestre a medida que cambie la tecnología. Se encargó a la administración de la biblioteca desarrollar procedimientos para su aplicación."
+        },
+        {
+          "t": "p",
+          "x": "El director de Innovación y Tecnología, John Malcolm: “Como sabemos, la AI siempre ha estado en el DNA de la tecnología desde el principio, y ahora que tiene un acceso a nivel de consumidor, deberíamos —como marcan las buenas prácticas— tener una política. Esta política no está escrita en piedra. Debe ser una política viva y revisarse con regularidad”."
+        },
+        {
+          "t": "p",
+          "x": "La CPL creó un AI Futures Council, que incluye empleados non-IT y personal de IT que actúa como facilitador. Su objetivo es incorporar la perspectiva del personal a las decisiones sobre AI. La integrante de la junta Melanie Shakarian agradeció a la dirección que tuviera en cuenta tanto al personal como a los usuarios."
+        }
+      ]
+    },
+    "books/books-kl-ai-themesong": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La empresa de contenidos educativos de inteligencia artificial (AI) EduCloud.com anunció el día 4 que impulsará, junto con la agencia de derechos editoriales KL Management, un negocio de contenidos que reinterpreta obras de la literatura coreana como música de AI para darlas a conocer a lectores de otros países."
+        },
+        {
+          "t": "img",
+          "src": "https://image.inews24.com/v1/ba07ee7b70508a.jpg",
+          "cap": "(Desde la izquierda) Lee Ku-yong, director ejecutivo de KL Management, y Cho Sung-hoon, director ejecutivo de EduCloud.com, posan para una foto conmemorativa. [Foto=EduCloud.com]"
+        },
+        {
+          "t": "p",
+          "x": "Ambas empresas firmaron hace poco un acuerdo de colaboración y decidieron producir música de AI para la promoción global, en inglés y otros idiomas, de obras cuyos derechos en el extranjero ya se han vendido. El método consiste en convertir los personajes, las escenas principales y el mensaje de cada obra en letras de canciones y temas musicales."
+        },
+        {
+          "t": "p",
+          "x": "El núcleo de esta colaboración no está tanto en la venta de derechos en el extranjero como en crear conjuntamente contenidos musicales de AI que apoyen la promoción internacional de las obras. La idea es usarlos como herramienta promocional para despertar interés inicial en las novedades y, en las obras ya publicadas, como contenido que dé a los lectores ocasión de redescubrirlas."
+        },
+        {
+          "t": "p",
+          "x": "Las dos empresas también colaborarán en la búsqueda de novelistas en escuelas primarias y secundarias, universidades, instituciones públicas y empresas de tecnología educativa. Apoyarán charlas sobre casos de éxito de obras nacionales y extranjeras para los socios de EduCloud.com y estudian además un modelo de ingresos basado en distribuir la música de AI en plataformas de streaming."
+        },
+        {
+          "t": "p",
+          "x": "KL Management es una agencia de derechos editoriales que intermedia en la publicación en el extranjero y la exportación de derechos de la literatura coreana. Cuenta con ventas de derechos al extranjero de obras como 'La vegetariana', de Han Kang, y 'Por favor, cuida de mamá', de Shin Kyung-sook. EduCloud.com es una empresa que ha desarrollado modelos de educación musical con AI y, con esta colaboración, prevé extender su tecnología de producción musical con AI a contenidos literarios y editoriales."
+        },
+        {
+          "t": "p",
+          "x": "Lee Ku-yong, director ejecutivo de KL Management, dijo: \"Esperamos poder crear un nuevo negocio aprovechando la red de EduCloud.com en el ámbito educativo y su tecnología de producción de música con AI\"."
+        }
+      ]
+    },
+    "books/goncourt-jaenada-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/97/99/99/1536x864_cmsv2_1827a31b-adab-560a-879c-964d3b9d2b97-9979999.jpg",
+          "cap": "El galardonado Philippe Jaenada asegura usar la AI con moderación"
+        },
+        {
+          "t": "p",
+          "x": "Ha estallado un nuevo escándalo en el mundo literario francés, apenas unas semanas después de que Thélyson Orélien revelara que usó AI para escribir parte de su novela ''C'était ça ou mourir''."
+        },
+        {
+          "t": "p",
+          "x": "Apenas un día después de ganar el Premio Goncourt (Goncourt Prize), el principal galardón literario de Francia, Philippe Jaenada admitió en la radio France Inter que había recurrido a la inteligencia artificial \"tres veces\" mientras escribía su libro. Primero la usó para colar una frase escrita por ChatGPT, con el fin de \"jugar con el lector\", algo que no reveló a los jurados del Goncourt hasta el martes. También la usó \"para burlarse un poco de ChatGPT, que da respuestas completamente absurdas sobre un dato técnico\"."
+        },
+        {
+          "t": "p",
+          "x": "El novelista, de 62 años, dijo que también había usado la tecnología para investigación técnica: \"Creo que no podemos apartar la AI, no podemos actuar como si no existiera. Tenemos que usarla, tenemos que reconocerla, tenemos que domarla y no dejarnos reemplazar. Tiene que ser útil.\""
+        },
+        {
+          "t": "p",
+          "x": "Los comentarios se difundieron de inmediato en las redes sociales. Mientras algunos creen que la AI \"va a volverse inevitable (...) como un corrector ortográfico hoy\", otros expresaron decepción."
+        },
+        {
+          "t": "p",
+          "x": "Jaenada fue premiado por ''L'Inconnue du quai de Javel'', que investiga el asesinato sin resolver de una joven en Paris a finales de la década de 1940. La novela de Orélien fue retirada de la segunda lista de finalistas del Goncourt por sospechas de uso de AI y acusaciones de plagio."
+        }
+      ]
     }
   }
 }

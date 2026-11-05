@@ -10539,6 +10539,160 @@
           "x": "Autom8Labs还可以根据AEC企业的模板、标准和签核检查，为其构建并测试定制技能。"
         }
       ]
+    },
+    "design/gemini-canvas-sketch-to-app": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "好的应用创意往往始于纸上。借助Gemini，把它们变成交互式工具。方法如下。"
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Bring_your_paper_sketches_to_life_with_Gemini_no-end_inline_oRRbgSH.mp4"
+        },
+        {
+          "t": "p",
+          "x": "将你的草图拍照上传到Gemini，比如应用原型图、习惯追踪表或游戏棋盘。"
+        },
+        {
+          "t": "p",
+          "x": "选择Canvas工具，然后问Gemini：\"Can you code this app?\"（你能为这个应用写代码吗？）Gemini会读取你的图像并编写代码。"
+        },
+        {
+          "t": "p",
+          "x": "在预览窗口中测试你的工具。Gemini可以实时调整颜色、字体或功能。"
+        },
+        {
+          "t": "p",
+          "x": "下次灵感来临时，就用Gemini把它变为现实。"
+        }
+      ]
+    },
+    "design/autodesk-au2026-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/AU2026_DEMO-AutoAssemble.jpg"
+        },
+        {
+          "t": "p",
+          "x": "在Autodesk University 2026上，Autodesk提出了超越更快工具的AI雄心：一个代你决定如何解决任务的互联Assistant。CEO Andrew Anagnost将其定位为‘Project Intelligence’，即“位于中心的互联大脑，把每一个数据点、每一项决策、每一个学科汇聚在一起”。"
+        },
+        {
+          "t": "p",
+          "x": "重头发布是：Autodesk Assistant将以“跨越各产品的独立式、智能体优先体验”推出。它仍在开发中，预计明年发布；Revit、AutoCAD和Fusion中的产品内Assistants将继续扩展。"
+        },
+        {
+          "t": "p",
+          "x": "其底层是基于企业所做决策构建的Autodesk Context，以及AI Orchestrator；后者从Autodesk-built模型、Claude、OpenAI和开放权重模型中挑选“根据准确性、速度、安全性和成本最适合该任务的AI模型”。"
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/Raji-Arasu-img.jpg",
+          "cap": "Autodesk CTO Raji Arasu"
+        },
+        {
+          "t": "p",
+          "x": "在Expo展区，三大工作站厂商都演示了真正的本地AI：HP与Perplexity在一台机器上用本地LLM驱动官方Revit 2027 MCP服务器，Nvidia在Dell硬件上展示了Revit和Fusion的自主建模，Lenovo则运行了面向AutoCAD Civil 3D的智能体前端。"
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/Nvidia-Agentic-Fusion-2.img_.jpg",
+          "cap": "Nvidia的Autodesk Fusion Agentic Demo"
+        },
+        {
+          "t": "p",
+          "x": "Autodesk正把价值主张从工具转向成果。下一代Assistant预计要到明年某个时候才会推出。"
+        }
+      ]
+    },
+    "design/smashing-llm-chat-a11y": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg"
+        },
+        {
+          "t": "p",
+          "x": "随着LLM聊天模式在网络上如野火般蔓延，如果这些体验在构建时不把无障碍作为核心考量，就可能把一部分人排除在外。Eric Bailey曾协助改进多款沉浸式LLM聊天体验的无障碍性——即Claude、ChatGPT、GitHub Copilot和Gemini这类全屏体验——他在此分享相关经验。"
+        },
+        {
+          "t": "p",
+          "x": "使用实时区域播报：在DOM末尾设置专用的实时区域，而不是给每条消息加aria-live。只播报已完成的消息，并在提交提示词约五秒后播报“Loading”，此后每五秒重复一次，直到回复到达。"
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/live-region-do-dont.png",
+          "cap": "应该：使用专用的实时区域。不应该：给每条消息应用aria-live。"
+        },
+        {
+          "t": "p",
+          "x": "在每条聊天消息前插入视觉上隐藏的标题，如“You said:”和“Cody said:”；使用地标但不要过多；添加跳转链接；并把对话列表做成可用方向键导航的复合控件。"
+        },
+        {
+          "t": "p",
+          "x": "避免使用信息流模式，并考虑支持Control+F6导航，让用户能在聊天输入框和LLM的最后一条回复之间来回跳转。"
+        }
+      ]
+    },
+    "design/uxc-design-systems-mcp-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*er_HyzWo0FVdfLtEexv7KQ.jpeg",
+          "cap": "在AI时代，人在创建和维护设计系统中扮演什么角色？图片：Anna Lefour借助Gemini制作。"
+        },
+        {
+          "t": "p",
+          "x": "Anna Lefour采访了三位设计专家——Marianne Ashton-Booth（ITV）、David Sward（Siemens）和Nicolas Chatelain，探讨AI如何改变我们构建和维护设计系统的方式。"
+        },
+        {
+          "t": "p",
+          "x": "AI把简单的部分自动化了，但难的部分仍属于人类。Ashton-Booth说：“任何人都能在几分钟内搭出原型。”重要的是跨团队的一致性，而这正是设计系统中属于人的部分。"
+        },
+        {
+          "t": "p",
+          "x": "瓶颈已从生产速度转移到评审。David Sward说：“我最大的问题是设法让用AI的人慢下来。”"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*-Qfue98f02kXx1XxjHGXqA.png",
+          "cap": "这份摘自Kaelig Deloumeau-Prigent报告的内容展示了他所分析系统的能力"
+        },
+        {
+          "t": "p",
+          "x": "设计系统正在变成AI读取的对象。在2026年7月发表的一项实地研究中，Kaelig Deloumeau-Prigent考察了21个开源设计系统：其中20个提供MCP服务器（官方或社区构建），但只有3个配置了Figma Code Connect。"
+        },
+        {
+          "t": "p",
+          "x": "Lefour总结道，正在成为唯一事实来源的是代码，而非设计文件。"
+        }
+      ]
+    },
+    "design/chatgpt-animated-gifs-images": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ChatGPT现在可以根据提示词或上传到这款AI聊天机器人的照片制作GIFs。此次更新与OpenAI新的Images 2.6模型一同推出，用户可调整GIF的动画速度、编辑单个帧，并与他人分享。"
+        },
+        {
+          "t": "p",
+          "x": "此前，ChatGPT无法一步原生生成GIFs。该公司分享的示例显示，ChatGPT可根据提示词“can you make a gif of a cat dancing?”（能做一个猫跳舞的gif吗？）生成GIF，同时提供更改播放速度和逐帧查看的选项。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GIF.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "可以直接在ChatGPT中调整速度、编辑帧。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI表示，除支持GIF-making外，Images 2.6更新还让ChatGPT中的图像生成更快。该公司称，用户目前每周在ChatGPT及其API中生成超过40亿张图像，高于其9月公布的每周30亿张。"
+        },
+        {
+          "t": "p",
+          "x": "Images 2.6正向网页版、桌面版和移动应用上的所有ChatGPT和Codex用户推出。OpenAI还在其API中推出GPT-Image-2.6 Flare和Sunburst，以实现更快、更高质量的图像生成。"
+        }
+      ]
     }
   }
 }

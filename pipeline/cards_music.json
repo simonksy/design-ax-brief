@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "section": "music",
   "cards": [
     {
-      "id": "suno-midi-create-upload",
+      "id": "splice-create-ai-daw",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Suno, 내 MIDI로\n곡을 시작한다",
-      "body": "Suno가 Create에 MIDI 업로드를 열어 내 멜로디·코드로 곡을 시작한다.",
-      "mini_headline": "Suno, MIDI 업로드 지원",
+      "headline": "Splice Create\n무료 DAW에 AI 탑재",
+      "body": "무료 Mac DAW Splice Create에서는 AI 챗봇 Rheo가 곡을 쓴다.",
+      "mini_headline": "Splice, AI DAW 출시",
       "tool": "Music",
-      "source": "Suno",
-      "url": "https://suno.com/blog/MIDI-in-create",
+      "source": "MusicRadar",
+      "url": "https://www.musicradar.com/music-tech/splices-new-ai-daw-feels-like-a-cheat-code-for-music-production-but-it-left-us-with-one-big-question",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -19,173 +19,233 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format"
+            "src": "https://cdn.mos.cms.futurecdn.net/MKxdBMTbkaGpg7vnhZevTo-2560-80.png"
           },
           {
             "t": "p",
-            "x": "이제 Suno에서 MIDI 파일로 곡을 시작할 수 있다. Create 페이지에 파일을 끌어다 놓거나 '+' 메뉴에서 MIDI를 고르면 된다. MIDI 파일에는 한 파트의 음표와 타이밍이 정확히 담겨 있어 Suno로 곡을 만드는 다른 어떤 방법보다 훨씬 정밀하게 출발할 수 있다."
+            "x": "Splice가 Mac용 Create를 베타로 내놨다. Splice의 샘플 라이브러리를 작업 흐름에 녹인 본격 DAW로, 회사는 “지금까지 어떤 DAW에서도 본 적 없는 가장 앞선 AI 기반(AI-powered) 기능”을 갖췄다고 말한다. 내려받기는 무료다. 곡을 내보내려면 월 $9.99짜리 Create Pro를 구독해야 한다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/NjYYssBf6dN3KhhuMiewYV.jpg",
+            "cap": "이미지 출처: Splice"
           },
           {
             "t": "p",
-            "x": "Suno가 원본을 얼마나 충실히 따를지도 정할 수 있다. 쓴 음표를 그대로 연주하게 해도 되고, 파일에서 모티프만 가져와 새 곡으로 발전시키게 해도 된다. Remix나 Cover용 오디오 업로드와 달리 MIDI에는 소리가 전혀 없다. 대신 정확한 음표와 타이밍 정보를 넘겨 아주 세밀하게 제어할 수 있다."
+            "x": "빈 클립에 원하는 소리를 적으면 Splice가 샘플을 골라 프로젝트에 맞게 조옮김하고 템포까지 맞춘다. 샘플은 MP3 미리듣기로 들어온다. 내보내기 전에 라이선스를 받지 않으면 그 부분은 무음으로 바운스된다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/8DzYguARbCHYrXPdMYVfvB.jpg",
+            "cap": "여느 챗봇처럼 Rheo도 음악 제작 전반을 조언하고 안내한다(이미지 출처: Splice)"
           },
           {
             "t": "p",
-            "x": "제안된 활용법은 이렇다. 작업 중인 악보를 내보내 고품질 악기 편성으로 들어 보거나(\"Arrange this MIDI for a full orchestra, with strings, brass, woodwinds and percussion\"), 학생과 밴드 리더가 작곡을 시연하거나, 옛 밴드 세션의 MIDI를 되살리는 식이다(\"Transform this MIDI into a string quartet\")."
+            "x": "Create를 남다르게 만드는 건 AI 챗봇 Rheo다. 텍스트나 음성으로 말하면 Rheo가 DAW를 직접 움직여 소리를 찾고 멜로디를 만든다. 신스 패치 디자인과 편곡, 오디오 분석도 맡는다. Point 모드는 빛나는 커서로 한 단계씩 짚어 주고 Assist 모드는 작업을 대신 처리한다. Rheo 유닛은 1000개에 $10이고 무료 사용자는 100개를 받는다."
           },
           {
             "t": "p",
-            "x": "출시 시점의 MIDI는 v6-wild 기반 Simple Create 모드를 쓴다. 모든 Pro·Premier 구독자가 쓸 수 있고, Suno는 MIDI 기능을 차차 넓혀 갈 계획이다."
+            "x": "요청만 하면 Rheo가 Splice 샘플과 기본 악기로 곡 하나를 통째로 만들기도 한다. Suno식 오디오 생성 기능은 없다. Splice는 모든 모델을 “완전히 라이선스를 확보한” 데이터로 학습시켰다고 밝혔다. MusicRadar는 창작의 주도권을 AI 에이전트에 넘기면 음악 만들기가 너무 쉬워지지 않느냐고 묻는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Suno now starts songs\nfrom your own MIDI file",
-          "body": "Suno lets users upload a MIDI file in Create to seed a song from their own melody, chords or arrangement.",
-          "mini_headline": "Suno takes MIDI uploads",
+          "headline": "Splice Create puts an AI\nproducer in a free DAW",
+          "body": "Splice Create, a free Mac DAW in beta, lets an AI chatbot called Rheo build songs from Splice samples.",
+          "mini_headline": "Splice launches an AI DAW",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format"
+                "src": "https://cdn.mos.cms.futurecdn.net/MKxdBMTbkaGpg7vnhZevTo-2560-80.png"
               },
               {
                 "t": "p",
-                "x": "You can now start a song on Suno from a MIDI file, by dragging and dropping the file onto the Create page or choosing MIDI from the '+' menu. A MIDI file holds the exact notes and timing of a musical part, so it gives you a much more precise starting point than any other way of creating on Suno."
+                "x": "Splice has launched Create in beta for Mac: a fully-fledged DAW with Splice's sample library embedded in its workflow and \"the most advanced AI-powered features we've seen in any DAW to date\". It's free to download, but exporting songs requires a Create Pro subscription at $9.99/month."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/NjYYssBf6dN3KhhuMiewYV.jpg",
+                "cap": "Image credit: Splice"
               },
               {
                 "t": "p",
-                "x": "You can decide how closely Suno follows it: ask the model to play your notes exactly as you wrote them, or take a motif from the file and develop it into something new. MIDI contains no sound at all, which makes it different from uploading audio for Remix or Cover — it conveys exact note and timing information for very precise control."
+                "x": "Type what you're after into an empty clip and Splice picks a sample, transposed and time-stretched to your project. Samples land as MP3 previews and must be licensed before export, otherwise they bounce as silence."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/8DzYguARbCHYrXPdMYVfvB.jpg",
+                "cap": "Like most chatbots, Rheo can offer advice and guidance on topics related to music production (Image credit: Splice)"
               },
               {
                 "t": "p",
-                "x": "Suggested uses: export work-in-progress scores to hear them with high-quality instrumentation (\"Arrange this MIDI for a full orchestra, with strings, brass, woodwinds and percussion\"), let students and band leaders audition compositions, or revive MIDI from old band sessions (\"Transform this MIDI into a string quartet\")."
+                "x": "What sets Create apart is its AI chatbot, Rheo, which can control the DAW via text or voice: search for sounds, generate melodies, design synth patches, create arrangements and analyse audio. Its Point mode guides you step by step with a glowing cursor; Assist executes the task for you. Rheo units cost $10 per 1000, and free users get 100."
               },
               {
                 "t": "p",
-                "x": "At launch, MIDI uses Simple Create mode with v6-wild. The feature is available to all Pro and Premier subscribers, and Suno plans to expand MIDI capabilities over time."
+                "x": "Rheo will even produce a full song on demand from Splice samples and stock instruments, though there's no Suno-style audio generation. Splice says all models were trained on \"fully licensed\" data, while MusicRadar asks whether handing creative control to an AI agent makes music production too easy."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Suno, 내 MIDI로\n곡을 시작한다",
-          "body": "Suno가 Create에 MIDI 업로드를 열어 내 멜로디·코드로 곡을 시작한다.",
-          "mini_headline": "Suno, MIDI 업로드 지원",
+          "headline": "Splice Create\n무료 DAW에 AI 탑재",
+          "body": "무료 Mac DAW Splice Create에서는 AI 챗봇 Rheo가 곡을 쓴다.",
+          "mini_headline": "Splice, AI DAW 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format"
+                "src": "https://cdn.mos.cms.futurecdn.net/MKxdBMTbkaGpg7vnhZevTo-2560-80.png"
               },
               {
                 "t": "p",
-                "x": "이제 Suno에서 MIDI 파일로 곡을 시작할 수 있다. Create 페이지에 파일을 끌어다 놓거나 '+' 메뉴에서 MIDI를 고르면 된다. MIDI 파일에는 한 파트의 음표와 타이밍이 정확히 담겨 있어 Suno로 곡을 만드는 다른 어떤 방법보다 훨씬 정밀하게 출발할 수 있다."
+                "x": "Splice가 Mac용 Create를 베타로 내놨다. Splice의 샘플 라이브러리를 작업 흐름에 녹인 본격 DAW로, 회사는 “지금까지 어떤 DAW에서도 본 적 없는 가장 앞선 AI 기반(AI-powered) 기능”을 갖췄다고 말한다. 내려받기는 무료다. 곡을 내보내려면 월 $9.99짜리 Create Pro를 구독해야 한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/NjYYssBf6dN3KhhuMiewYV.jpg",
+                "cap": "이미지 출처: Splice"
               },
               {
                 "t": "p",
-                "x": "Suno가 원본을 얼마나 충실히 따를지도 정할 수 있다. 쓴 음표를 그대로 연주하게 해도 되고, 파일에서 모티프만 가져와 새 곡으로 발전시키게 해도 된다. Remix나 Cover용 오디오 업로드와 달리 MIDI에는 소리가 전혀 없다. 대신 정확한 음표와 타이밍 정보를 넘겨 아주 세밀하게 제어할 수 있다."
+                "x": "빈 클립에 원하는 소리를 적으면 Splice가 샘플을 골라 프로젝트에 맞게 조옮김하고 템포까지 맞춘다. 샘플은 MP3 미리듣기로 들어온다. 내보내기 전에 라이선스를 받지 않으면 그 부분은 무음으로 바운스된다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/8DzYguARbCHYrXPdMYVfvB.jpg",
+                "cap": "여느 챗봇처럼 Rheo도 음악 제작 전반을 조언하고 안내한다(이미지 출처: Splice)"
               },
               {
                 "t": "p",
-                "x": "제안된 활용법은 이렇다. 작업 중인 악보를 내보내 고품질 악기 편성으로 들어 보거나(\"Arrange this MIDI for a full orchestra, with strings, brass, woodwinds and percussion\"), 학생과 밴드 리더가 작곡을 시연하거나, 옛 밴드 세션의 MIDI를 되살리는 식이다(\"Transform this MIDI into a string quartet\")."
+                "x": "Create를 남다르게 만드는 건 AI 챗봇 Rheo다. 텍스트나 음성으로 말하면 Rheo가 DAW를 직접 움직여 소리를 찾고 멜로디를 만든다. 신스 패치 디자인과 편곡, 오디오 분석도 맡는다. Point 모드는 빛나는 커서로 한 단계씩 짚어 주고 Assist 모드는 작업을 대신 처리한다. Rheo 유닛은 1000개에 $10이고 무료 사용자는 100개를 받는다."
               },
               {
                 "t": "p",
-                "x": "출시 시점의 MIDI는 v6-wild 기반 Simple Create 모드를 쓴다. 모든 Pro·Premier 구독자가 쓸 수 있고, Suno는 MIDI 기능을 차차 넓혀 갈 계획이다."
+                "x": "요청만 하면 Rheo가 Splice 샘플과 기본 악기로 곡 하나를 통째로 만들기도 한다. Suno식 오디오 생성 기능은 없다. Splice는 모든 모델을 “완전히 라이선스를 확보한” 데이터로 학습시켰다고 밝혔다. MusicRadar는 창작의 주도권을 AI 에이전트에 넘기면 음악 만들기가 너무 쉬워지지 않느냐고 묻는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Suno、自作MIDIから\n曲づくりが可能に",
-          "body": "SunoはCreateでMIDIを読み込み、自分のメロディやコードから曲を始められる。",
-          "mini_headline": "SunoがMIDIアップロードに対応",
+          "headline": "Splice Create、\n無料DAWにAI搭載",
+          "body": "Splice Createは無料のMac用DAWで、AIチャットボットRheoが曲を作る。",
+          "mini_headline": "SpliceがAI搭載DAWを公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format"
+                "src": "https://cdn.mos.cms.futurecdn.net/MKxdBMTbkaGpg7vnhZevTo-2560-80.png"
               },
               {
                 "t": "p",
-                "x": "SunoでMIDIファイルから曲を作り始められるようになった。Createページにファイルをドラッグ＆ドロップするか、「+」メニューからMIDIを選ぶ。MIDIファイルはパートの正確な音符とタイミングを保持しているため、Sunoでのほかのどの制作方法よりもはるかに精密な出発点になる。"
+                "x": "SpliceはMac向けにCreateのベータ版を公開した。Spliceのサンプルライブラリをワークフローに組み込んだ本格的なDAWで、「これまでどのDAWでも見たことのない最も高度なAI機能（AI-powered）」を備えるという。ダウンロードは無料だが、曲の書き出しには月額$9.99のCreate Pro購読が必要だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/NjYYssBf6dN3KhhuMiewYV.jpg",
+                "cap": "画像提供：Splice"
               },
               {
                 "t": "p",
-                "x": "Sunoがどこまで忠実に従うかも決められる。書いた音符をそのまま演奏させることも、ファイルからモチーフを取り出して新しいものへ発展させることもできる。MIDIは音そのものを一切含まない点で、RemixやCover向けの音声アップロードとは異なる。正確な音符とタイミングの情報を伝えるため、非常に精密な制御が可能だ。"
+                "x": "空のクリップに欲しい音を入力すると、Spliceがサンプルを選び、プロジェクトに合わせて移調とタイムストレッチを施す。サンプルはMP3のプレビューとして読み込まれ、書き出し前にライセンスを取得しなければ無音としてバウンスされる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/8DzYguARbCHYrXPdMYVfvB.jpg",
+                "cap": "多くのチャットボットと同様に、Rheoは音楽制作に関する話題で助言や手引きを提供できる（画像提供：Splice）"
               },
               {
                 "t": "p",
-                "x": "想定される使い方は、制作途中のスコアを書き出して高品質な楽器編成で聴く（\"Arrange this MIDI for a full orchestra, with strings, brass, woodwinds and percussion\"）、学生やバンドリーダーが作曲を試聴する、昔のバンドセッションのMIDIをよみがえらせる（\"Transform this MIDI into a string quartet\"）といったものだ。"
+                "x": "Createを際立たせるのはAIチャットボットのRheoだ。テキストや音声でDAWを操作し、音の検索、メロディの生成、シンセパッチの設計、アレンジの作成、オーディオの解析をこなす。Pointモードは光るカーソルで一歩ずつ案内し、Assistモードは作業を代わりに実行する。Rheoユニットは1000単位あたり$10で、無料ユーザーには100単位が付与される。"
               },
               {
                 "t": "p",
-                "x": "提供開始時点で、MIDIはv6-wildによるSimple Createモードを使う。この機能はすべてのProおよびPremier加入者が利用でき、SunoはMIDI機能を順次拡充する計画だ。"
+                "x": "Rheoは求めに応じてSpliceのサンプルと標準音源でフルの楽曲を制作することもできるが、Suno型の音声生成機能はない。Spliceはすべてのモデルを「完全にライセンスを得た」データで学習させたとしている。一方MusicRadarは、創作の主導権をAIエージェントに渡すと音楽制作が簡単になりすぎないかと問いかけている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Suno支持用你的MIDI\n文件开始创作歌曲",
-          "body": "Suno允许用户在Create中上传MIDI文件，以自己的旋律、和弦或编曲为起点生成歌曲。",
-          "mini_headline": "Suno支持MIDI上传",
+          "headline": "Splice Create\n把AI制作人放进免费DAW",
+          "body": "Splice Create是免费Mac DAW测试版，AI聊天机器人Rheo能用采样作曲。",
+          "mini_headline": "Splice推出AI DAW",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format"
+                "src": "https://cdn.mos.cms.futurecdn.net/MKxdBMTbkaGpg7vnhZevTo-2560-80.png"
               },
               {
                 "t": "p",
-                "x": "现在可以在Suno上从MIDI文件开始创作歌曲：把文件拖放到Create页面，或在“+”菜单中选择MIDI即可。MIDI文件记录了一个声部的精确音符与时值，因此它提供的起点比在Suno上任何其他创作方式都精确得多。"
+                "x": "Splice推出了Mac版Create测试版：这是一款功能完整的DAW，把Splice的采样库嵌入工作流程，并拥有“迄今在所有DAW中见过的最先进的AI驱动（AI-powered）功能”。软件可免费下载，但导出歌曲需订阅每月$9.99的Create Pro。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/NjYYssBf6dN3KhhuMiewYV.jpg",
+                "cap": "图片来源：Splice"
               },
               {
                 "t": "p",
-                "x": "你可以决定Suno跟随的紧密程度：让模型完全按你写的音符演奏，或从文件中提取一个动机，发展成全新的内容。MIDI本身不含任何声音，这使它不同于为Remix或Cover上传音频——它传递的是精确的音符和时值信息，可实现非常精细的控制。"
+                "x": "在空白片段中输入想要的声音，Splice就会挑选一段采样，并按项目进行移调和时间伸缩。采样以MP3预览形式载入，导出前必须获得授权，否则会以静音形式导出。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/8DzYguARbCHYrXPdMYVfvB.jpg",
+                "cap": "与大多数聊天机器人一样，Rheo可以就音乐制作相关话题提供建议和指导（图片来源：Splice）"
               },
               {
                 "t": "p",
-                "x": "建议用途包括：导出未完成的乐谱，用高品质配器试听（\"Arrange this MIDI for a full orchestra, with strings, brass, woodwinds and percussion\"）；让学生和乐队领队试听作品；或复活旧乐队排练留下的MIDI（\"Transform this MIDI into a string quartet\"）。"
+                "x": "Create的独特之处在于AI聊天机器人Rheo，它能通过文字或语音控制DAW：搜索声音、生成旋律、设计合成器音色、编排段落和分析音频。Point模式用发光的光标一步步引导用户，Assist模式则直接代为执行任务。Rheo点数每1000个售价$10，免费用户可获得100个。"
               },
               {
                 "t": "p",
-                "x": "上线时，MIDI使用搭载v6-wild的Simple Create模式。该功能向所有Pro和Premier订阅用户开放，Suno计划逐步扩展MIDI功能。"
+                "x": "Rheo甚至能按需用Splice采样和内置乐器制作一整首歌，但没有Suno式的音频生成功能。Splice表示所有模型都使用“完全授权”的数据训练，而MusicRadar则提出疑问：把创作控制权交给AI智能体，是否会让音乐制作变得过于容易。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Suno ya crea canciones\na partir de tu archivo MIDI",
-          "body": "Suno permite subir un archivo MIDI en Create para iniciar una canción desde su propia melodía, acordes o arreglo.",
-          "mini_headline": "Suno admite archivos MIDI",
+          "headline": "Splice Create pone un productor\nde IA en un DAW gratuito",
+          "body": "Splice Create, un DAW gratuito para Mac en beta, deja que el chatbot de IA Rheo cree canciones con samples de Splice.",
+          "mini_headline": "Splice lanza un DAW con IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format"
+                "src": "https://cdn.mos.cms.futurecdn.net/MKxdBMTbkaGpg7vnhZevTo-2560-80.png"
               },
               {
                 "t": "p",
-                "x": "Ahora es posible empezar una canción en Suno a partir de un archivo MIDI, arrastrándolo y soltándolo en la página Create o eligiendo MIDI en el menú '+'. Un archivo MIDI contiene las notas y los tiempos exactos de una parte musical, por lo que ofrece un punto de partida mucho más preciso que cualquier otra forma de crear en Suno."
+                "x": "Splice ha lanzado Create en beta para Mac: un DAW completo con la biblioteca de samples de Splice integrada en su flujo de trabajo y “las funciones basadas en IA (AI-powered) más avanzadas que hemos visto hasta la fecha en cualquier DAW”. La descarga es gratuita, pero exportar canciones requiere una suscripción a Create Pro de $9.99 al mes."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/NjYYssBf6dN3KhhuMiewYV.jpg",
+                "cap": "Imagen: Splice"
               },
               {
                 "t": "p",
-                "x": "Se puede decidir con qué fidelidad lo sigue Suno: pedir al modelo que toque las notas exactamente como se escribieron o tomar un motivo del archivo y desarrollarlo en algo nuevo. MIDI no contiene ningún sonido, lo que lo diferencia de subir audio para Remix o Cover: transmite información exacta de notas y tiempos para un control muy preciso."
+                "x": "Basta con escribir lo que se busca en un clip vacío para que Splice elija un sample, transportado y ajustado en tempo al proyecto. Los samples llegan como previsualizaciones en MP3 y deben licenciarse antes de exportar; de lo contrario, se exportan como silencio."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/8DzYguARbCHYrXPdMYVfvB.jpg",
+                "cap": "Como la mayoría de los chatbots, Rheo puede ofrecer consejos y orientación sobre temas de producción musical (Imagen: Splice)"
               },
               {
                 "t": "p",
-                "x": "Usos sugeridos: exportar partituras en curso para escucharlas con instrumentación de alta calidad (\"Arrange this MIDI for a full orchestra, with strings, brass, woodwinds and percussion\"), que estudiantes y directores de banda prueben composiciones, o recuperar MIDI de antiguas sesiones de banda (\"Transform this MIDI into a string quartet\")."
+                "x": "Lo que distingue a Create es su chatbot de IA, Rheo, capaz de controlar el DAW por texto o voz: buscar sonidos, generar melodías, diseñar patches de sintetizador, crear arreglos y analizar audio. Su modo Point guía paso a paso con un cursor luminoso; Assist ejecuta la tarea por el usuario. Las unidades de Rheo cuestan $10 por cada 1000, y los usuarios gratuitos reciben 100."
               },
               {
                 "t": "p",
-                "x": "En el lanzamiento, MIDI usa el modo Simple Create con v6-wild. La función está disponible para todos los suscriptores Pro y Premier, y Suno planea ampliar las capacidades de MIDI con el tiempo."
+                "x": "Rheo puede incluso producir una canción completa a petición con samples de Splice e instrumentos de serie, aunque no ofrece generación de audio al estilo de Suno. Splice afirma que todos los modelos se entrenaron con datos “totalmente licenciados”, mientras que MusicRadar se pregunta si ceder el control creativo a un agente de IA hace la producción musical demasiado fácil."
               }
             ]
           }
@@ -193,121 +253,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Suno, 내 MIDI로\n곡을 시작한다",
-          "body": "Suno가 Create에 MIDI 업로드를 열어 내 멜로디·코드로 곡을 시작한다.",
-          "mini_headline": "Suno, MIDI 업로드 지원",
+          "headline": "Splice Create\n무료 DAW에 AI 탑재",
+          "body": "무료 Mac DAW Splice Create에서 AI 챗봇 Rheo가 작곡한다.",
+          "mini_headline": "Splice, AI DAW 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format"
+                "src": "https://cdn.mos.cms.futurecdn.net/MKxdBMTbkaGpg7vnhZevTo-2560-80.png"
               },
               {
                 "t": "p",
-                "x": "이제 Suno에서 MIDI 파일로 곡을 시작할 수 있다. Create 페이지에 파일을 끌어다 놓거나 '+' 메뉴에서 MIDI를 고르면 된다. MIDI 파일은 한 파트의 음표와 타이밍을 정확히 담고 있어, Suno에서 곡을 만드는 다른 어떤 방법보다 훨씬 정밀한 출발점이 된다."
+                "x": "Splice가 Mac용 Create를 베타로 출시했다. Splice의 샘플 라이브러리를 작업 흐름 안에 넣은 본격 DAW로, “지금까지 어떤 DAW에서도 본 적 없는 가장 앞선 AI 기반(AI-powered) 기능”을 갖췄다고 한다. 내려받기는 무료지만 곡을 내보내려면 월 $9.99의 Create Pro 구독이 필요하다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/NjYYssBf6dN3KhhuMiewYV.jpg",
+                "cap": "이미지 출처: Splice"
               },
               {
                 "t": "p",
-                "x": "Suno가 원본을 얼마나 충실히 따를지도 정할 수 있다. 쓴 음표를 그대로 연주하게 하거나, 파일에서 모티프를 가져와 새로운 곡으로 발전시키게 할 수 있다. MIDI에는 소리가 전혀 담기지 않는다는 점에서 Remix나 Cover용 오디오 업로드와 다르다. 정확한 음표와 타이밍 정보를 전달해 매우 정밀하게 제어할 수 있다."
+                "x": "빈 클립에 원하는 소리를 입력하면 Splice가 샘플을 골라 프로젝트에 맞게 조옮김하고 템포를 맞춰 준다. 샘플은 MP3 미리듣기로 들어오며, 내보내기 전에 라이선스를 받아야 한다. 그렇지 않으면 무음으로 바운스된다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/8DzYguARbCHYrXPdMYVfvB.jpg",
+                "cap": "여느 챗봇처럼 Rheo도 음악 제작 관련 주제에 조언과 안내를 해 준다(이미지 출처: Splice)"
               },
               {
                 "t": "p",
-                "x": "제안된 활용법은 이렇다. 작업 중인 악보를 내보내 고품질 악기 편성으로 들어 보거나(\"Arrange this MIDI for a full orchestra, with strings, brass, woodwinds and percussion\"), 학생과 밴드 리더가 작곡을 시연해 보거나, 옛 밴드 세션의 MIDI를 되살리는 식이다(\"Transform this MIDI into a string quartet\")."
+                "x": "Create의 차별점은 AI 챗봇 Rheo다. Rheo는 텍스트나 음성으로 DAW를 조작해 소리를 찾고, 멜로디를 만들고, 신스 패치를 디자인하고, 편곡을 짜고, 오디오를 분석한다. Point 모드는 빛나는 커서로 한 단계씩 안내하고, Assist 모드는 작업을 대신 실행한다. Rheo 유닛은 1000개당 $10이며, 무료 사용자에게는 100개가 주어진다."
               },
               {
                 "t": "p",
-                "x": "출시 시점에 MIDI는 v6-wild 기반 Simple Create 모드를 쓴다. 이 기능은 모든 Pro·Premier 구독자가 쓸 수 있으며, Suno는 MIDI 기능을 차차 넓혀 갈 계획이다."
+                "x": "Rheo는 요청하면 Splice 샘플과 기본 악기로 곡 하나를 통째로 만들어 주기도 한다. 다만 Suno식 오디오 생성 기능은 없다. Splice는 모든 모델을 “완전히 라이선스를 확보한” 데이터로 학습시켰다고 밝혔다. MusicRadar는 창작의 주도권을 AI 에이전트에 넘기면 음악 제작이 지나치게 쉬워지는 것은 아닌지 묻는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Suno、自作MIDIから\n曲づくりが可能に",
-          "body": "SunoはCreateでMIDIを読み込み、自分のメロディやコードから曲を始められる。",
-          "mini_headline": "SunoがMIDIアップロードに対応",
+          "headline": "Splice Create、\n無料DAWにAI搭載",
+          "body": "Splice Createは無料のMac用DAWで、AIチャットボットRheoが曲を作る。",
+          "mini_headline": "SpliceがAI搭載DAWを公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format"
+                "src": "https://cdn.mos.cms.futurecdn.net/MKxdBMTbkaGpg7vnhZevTo-2560-80.png"
               },
               {
                 "t": "p",
-                "x": "SunoでMIDIファイルから曲を作り始められるようになった。Createページにファイルをドラッグ＆ドロップするか、「+」メニューからMIDIを選ぶ。MIDIファイルはパートの正確な音符とタイミングを保持しているため、Sunoでのほかのどの制作方法よりもはるかに精密な出発点になる。"
+                "x": "SpliceはMac向けにCreateのベータ版を公開した。Spliceのサンプルライブラリをワークフローに組み込んだ本格的なDAWで、「これまでどのDAWでも見たことのない最も高度なAI機能（AI-powered）」を備えるという。ダウンロードは無料だが、曲の書き出しには月額$9.99のCreate Pro購読が必要だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/NjYYssBf6dN3KhhuMiewYV.jpg",
+                "cap": "画像提供：Splice"
               },
               {
                 "t": "p",
-                "x": "Sunoがどこまで忠実に従うかも決められる。書いた音符をそのまま演奏させることも、ファイルからモチーフを取り出して新しいものへ発展させることもできる。MIDIは音そのものを一切含まない点で、RemixやCover向けの音声アップロードとは異なる。正確な音符とタイミングの情報を伝えるため、非常に精密な制御が可能だ。"
+                "x": "空のクリップに欲しい音を入力すると、Spliceがサンプルを選び、プロジェクトに合わせて移調とタイムストレッチを施す。サンプルはMP3のプレビューとして読み込まれ、書き出し前にライセンスを取得しなければ無音としてバウンスされる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/8DzYguARbCHYrXPdMYVfvB.jpg",
+                "cap": "多くのチャットボットと同様に、Rheoは音楽制作に関する話題で助言や手引きを提供できる（画像提供：Splice）"
               },
               {
                 "t": "p",
-                "x": "想定される使い方は、制作途中のスコアを書き出して高品質な楽器編成で聴く（\"Arrange this MIDI for a full orchestra, with strings, brass, woodwinds and percussion\"）、学生やバンドリーダーが作曲を試聴する、昔のバンドセッションのMIDIをよみがえらせる（\"Transform this MIDI into a string quartet\"）といったものだ。"
+                "x": "Createを際立たせるのはAIチャットボットのRheoだ。テキストや音声でDAWを操作し、音の検索、メロディの生成、シンセパッチの設計、アレンジの作成、オーディオの解析をこなす。Pointモードは光るカーソルで一歩ずつ案内し、Assistモードは作業を代わりに実行する。Rheoユニットは1000単位あたり$10で、無料ユーザーには100単位が付与される。"
               },
               {
                 "t": "p",
-                "x": "提供開始時点で、MIDIはv6-wildによるSimple Createモードを使う。この機能はすべてのProおよびPremier加入者が利用でき、SunoはMIDI機能を順次拡充する計画だ。"
+                "x": "Rheoは求めに応じてSpliceのサンプルと標準音源でフルの楽曲を制作することもできるが、Suno型の音声生成機能はない。Spliceはすべてのモデルを「完全にライセンスを得た」データで学習させたとしている。一方MusicRadarは、創作の主導権をAIエージェントに渡すと音楽制作が簡単になりすぎないかと問いかけている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Suno支持用你的MIDI\n文件开始创作歌曲",
-          "body": "Suno允许用户在Create中上传MIDI文件，以自己的旋律、和弦或编曲为起点生成歌曲。",
-          "mini_headline": "Suno支持MIDI上传",
+          "headline": "Splice Create\n把AI制作人放进免费DAW",
+          "body": "Splice Create是免费Mac DAW测试版，AI聊天机器人Rheo能用采样作曲。",
+          "mini_headline": "Splice推出AI DAW",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format"
+                "src": "https://cdn.mos.cms.futurecdn.net/MKxdBMTbkaGpg7vnhZevTo-2560-80.png"
               },
               {
                 "t": "p",
-                "x": "现在可以在Suno上从MIDI文件开始创作歌曲：把文件拖放到Create页面，或在“+”菜单中选择MIDI即可。MIDI文件记录了一个声部的精确音符与时值，因此它提供的起点比在Suno上任何其他创作方式都精确得多。"
+                "x": "Splice推出了Mac版Create测试版：这是一款功能完整的DAW，把Splice的采样库嵌入工作流程，并拥有“迄今在所有DAW中见过的最先进的AI驱动（AI-powered）功能”。软件可免费下载，但导出歌曲需订阅每月$9.99的Create Pro。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/NjYYssBf6dN3KhhuMiewYV.jpg",
+                "cap": "图片来源：Splice"
               },
               {
                 "t": "p",
-                "x": "你可以决定Suno跟随的紧密程度：让模型完全按你写的音符演奏，或从文件中提取一个动机，发展成全新的内容。MIDI本身不含任何声音，这使它不同于为Remix或Cover上传音频——它传递的是精确的音符和时值信息，可实现非常精细的控制。"
+                "x": "在空白片段中输入想要的声音，Splice就会挑选一段采样，并按项目进行移调和时间伸缩。采样以MP3预览形式载入，导出前必须获得授权，否则会以静音形式导出。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/8DzYguARbCHYrXPdMYVfvB.jpg",
+                "cap": "与大多数聊天机器人一样，Rheo可以就音乐制作相关话题提供建议和指导（图片来源：Splice）"
               },
               {
                 "t": "p",
-                "x": "建议用途包括：导出未完成的乐谱，用高品质配器试听（\"Arrange this MIDI for a full orchestra, with strings, brass, woodwinds and percussion\"）；让学生和乐队领队试听作品；或复活旧乐队排练留下的MIDI（\"Transform this MIDI into a string quartet\"）。"
+                "x": "Create的独特之处在于AI聊天机器人Rheo，它能通过文字或语音控制DAW：搜索声音、生成旋律、设计合成器音色、编排段落和分析音频。Point模式用发光的光标一步步引导用户，Assist模式则直接代为执行任务。Rheo点数每1000个售价$10，免费用户可获得100个。"
               },
               {
                 "t": "p",
-                "x": "上线时，MIDI使用搭载v6-wild的Simple Create模式。该功能向所有Pro和Premier订阅用户开放，Suno计划逐步扩展MIDI功能。"
+                "x": "Rheo甚至能按需用Splice采样和内置乐器制作一整首歌，但没有Suno式的音频生成功能。Splice表示所有模型都使用“完全授权”的数据训练，而MusicRadar则提出疑问：把创作控制权交给AI智能体，是否会让音乐制作变得过于容易。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Suno ya crea canciones\na partir de tu archivo MIDI",
-          "body": "Suno permite subir un archivo MIDI en Create para iniciar una canción desde su propia melodía, acordes o arreglo.",
-          "mini_headline": "Suno admite archivos MIDI",
+          "headline": "Splice Create pone un productor\nde IA en un DAW gratuito",
+          "body": "Splice Create, un DAW gratuito para Mac en beta, deja que el chatbot de IA Rheo cree canciones con samples de Splice.",
+          "mini_headline": "Splice lanza un DAW con IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format"
+                "src": "https://cdn.mos.cms.futurecdn.net/MKxdBMTbkaGpg7vnhZevTo-2560-80.png"
               },
               {
                 "t": "p",
-                "x": "Ahora es posible empezar una canción en Suno a partir de un archivo MIDI, arrastrándolo y soltándolo en la página Create o eligiendo MIDI en el menú '+'. Un archivo MIDI contiene las notas y los tiempos exactos de una parte musical, por lo que ofrece un punto de partida mucho más preciso que cualquier otra forma de crear en Suno."
+                "x": "Splice ha lanzado Create en beta para Mac: un DAW completo con la biblioteca de samples de Splice integrada en su flujo de trabajo y “las funciones basadas en IA (AI-powered) más avanzadas que hemos visto hasta la fecha en cualquier DAW”. La descarga es gratuita, pero exportar canciones requiere una suscripción a Create Pro de $9.99 al mes."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/NjYYssBf6dN3KhhuMiewYV.jpg",
+                "cap": "Imagen: Splice"
               },
               {
                 "t": "p",
-                "x": "Se puede decidir con qué fidelidad lo sigue Suno: pedir al modelo que toque las notas exactamente como se escribieron o tomar un motivo del archivo y desarrollarlo en algo nuevo. MIDI no contiene ningún sonido, lo que lo diferencia de subir audio para Remix o Cover: transmite información exacta de notas y tiempos para un control muy preciso."
+                "x": "Basta con escribir lo que se busca en un clip vacío para que Splice elija un sample, transportado y ajustado en tempo al proyecto. Los samples llegan como previsualizaciones en MP3 y deben licenciarse antes de exportar; de lo contrario, se exportan como silencio."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/8DzYguARbCHYrXPdMYVfvB.jpg",
+                "cap": "Como la mayoría de los chatbots, Rheo puede ofrecer consejos y orientación sobre temas de producción musical (Imagen: Splice)"
               },
               {
                 "t": "p",
-                "x": "Usos sugeridos: exportar partituras en curso para escucharlas con instrumentación de alta calidad (\"Arrange this MIDI for a full orchestra, with strings, brass, woodwinds and percussion\"), que estudiantes y directores de banda prueben composiciones, o recuperar MIDI de antiguas sesiones de banda (\"Transform this MIDI into a string quartet\")."
+                "x": "Lo que distingue a Create es su chatbot de IA, Rheo, capaz de controlar el DAW por texto o voz: buscar sonidos, generar melodías, diseñar patches de sintetizador, crear arreglos y analizar audio. Su modo Point guía paso a paso con un cursor luminoso; Assist ejecuta la tarea por el usuario. Las unidades de Rheo cuestan $10 por cada 1000, y los usuarios gratuitos reciben 100."
               },
               {
                 "t": "p",
-                "x": "En el lanzamiento, MIDI usa el modo Simple Create con v6-wild. La función está disponible para todos los suscriptores Pro y Premier, y Suno planea ampliar las capacidades de MIDI con el tiempo."
+                "x": "Rheo puede incluso producir una canción completa a petición con samples de Splice e instrumentos de serie, aunque no ofrece generación de audio al estilo de Suno. Splice afirma que todos los modelos se entrenaron con datos “totalmente licenciados”, mientras que MusicRadar se pregunta si ceder el control creativo a un agente de IA hace la producción musical demasiado fácil."
               }
             ]
           }
@@ -315,15 +415,15 @@
       }
     },
     {
-      "id": "izotope-photon-gpu-stems",
+      "id": "avid-protools-sixstem-split",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "iZotope Photon\n내 GPU로 스템 분리",
-      "body": "iZotope's Photon은 12개 모델로 로컬 GPU에서 스템을 분리한다.",
-      "mini_headline": "iZotope Photon 로컬 구동",
+      "headline": "Pro Tools,\nAI 스템 분리 내장",
+      "body": "Pro Tools 2026.11이 AI로 녹음을 최대 여섯 스템까지 쪼갠다.",
+      "mini_headline": "Pro Tools, AI로 스템 분리",
       "tool": "Music",
       "source": "MusicTech",
-      "url": "https://musictech.com/news/gear/izotope-photon/",
+      "url": "https://musictech.com/news/pro-tools-now-features-ai-stem-separation/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -331,203 +431,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500.jpg",
-            "cap": "제공: iZotope"
+            "src": "https://musictech.com/wp-content/uploads/2026/11/Pro-Tools-Stem-hero@2000x1500.jpg",
+            "cap": "출처: Avid"
           },
           {
             "t": "p",
-            "x": "iZotope가 AI-powered 스템 분리·오디오 정리 도구 Photon을 출시했다. 맞춤 학습한 12개 모델로 돌아가며, 파일을 클라우드에 올리지 않고 사용자 컴퓨터 GPU에서 로컬로 처리한다. iZotope와 모회사 Boris FX가 처음 함께 만든 제품이다."
+            "x": "프로듀서가 가장 요긴하게 쓰는 도구를 꼽으면 스템 분리가 빠지지 않는다. Avid가 Pro Tools 2026.11에 AI 스템 분리를 넣었으니 이 DAW를 쓰는 프로듀서 상당수가 반길 소식이다."
           },
           {
             "t": "p",
-            "x": "알고리즘은 Demix와 Denoise 두 갈래다. Demix는 음악을 스템 네 개로, 드럼을 다섯 개(킥, 스네어, 하이햇, 탐, 심벌)로, 목소리를 최대 여섯 개로 나눈다. Cinema 모델은 파일을 대사, 음악, 효과음, 그 밖의 소리로 가른다. Denoise에는 Voice Restore, Indoor / Indoor Noisy, Outdoor / Outdoor Traffic / Outdoor Wind 모델이 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://musictech.com/wp-content/uploads/2026/11/Photon-1@2000x1500.jpg"
+            "x": "새 AI 스템 분리 Pro Tools Extension은 어떤 녹음이든 보컬, 드럼, 베이스, 기타, 건반, 그 밖의 악기 등 최대 여섯 개 스템으로 나눈다. 쓰는 법도 간단하다. 오디오 파일을 창에 끌어다 놓고 분리될 스템을 미리 들어 본 다음 각각 별도 트랙으로 메인 DAW에 돌려보내면 끝이다."
           },
           {
             "t": "p",
-            "x": "Photon은 ARA2 플러그인으로 Mac과 Windows의 Pro Tools, REAPER, Cubase, 그리고 Windows의 Sequoia와 Samplitude 안에서 돌아간다. Model Manager로 재설치 없이 새 모델과 업데이트된 모델을 내려받는다. WAV, FLAC, MP3로 내보내거나 원본 비디오 스트림을 유지한 채 영상으로 내보낼 수도 있다."
+            "x": "새 AI Stem Separator는 Pro Tools Extensions로 나오는 여러 기능 중 하나다. 플러그인은 한 번에 트랙 하나만 다루지만 Extensions는 세션 전체나 원하는 만큼의 특정 트랙을 한꺼번에 다룬다. Splice, SoundFlow, Pro Sound Effects, Soundly, Forte, Pibox 같은 외부 업체도 Extensions를 만들었다."
           },
           {
             "t": "p",
-            "x": "Photon은 지금 독립 실행형 앱과 ARA2 플러그인으로 나와 있다. 가격은 $349이며 12월 7일까지 이어지는 사이버 세일 기간에는 $259다. Apple Silicon Macs와 Windows 10 이상을 지원한다."
+            "x": "“Extensions는 새로운 기술과 혁신적인 기능을 Pro Tools 안으로 직접 들여오는 중요한 진전입니다.” Avid 제품 관리 부문 부사장 Sam Butler의 말이다."
+          },
+          {
+            "t": "p",
+            "x": "Pro Tools 2026.11은 지금 Pro Tools Artist, Studio, Ultimate 구독자와 업그레이드 플랜이 유효한 영구 라이선스 보유자, 30일 체험판을 포함한 Pro Tools Intro 사용자가 쓸 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "iZotope Photon separates\nstems on your own GPU",
-          "body": "iZotope's Photon uses 12 custom-trained models to split stems and clean audio locally on the GPU, not in the cloud.",
-          "mini_headline": "iZotope Photon runs local",
+          "headline": "Pro Tools adds built-in\nAI stem separation",
+          "body": "Pro Tools 2026.11 adds an AI extension that splits any recording into up to six stems with a simple drag-and-drop.",
+          "mini_headline": "Pro Tools splits stems with AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500.jpg",
-                "cap": "Credit: iZotope"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Pro-Tools-Stem-hero@2000x1500.jpg",
+                "cap": "Credit: Avid"
               },
               {
                 "t": "p",
-                "x": "iZotope has launched Photon, an AI-powered stem separation and audio cleanup tool that's powered by 12 custom-trained models and processes audio locally on your computer's GPU rather than uploading files to the cloud. It is the first collaboration between iZotope and parent company Boris FX."
+                "x": "As a producer, stem separation can be one of the most useful tools in your belt. So the fact Avid just introduced AI stem separation in its Pro Tools 2026.11 will come as a welcome addition for many producers working with the DAW."
               },
               {
                 "t": "p",
-                "x": "Its algorithms split into Demix and Denoise. Demix separates music into four stems, drums into five (kick, snare, hi-hat, toms and cymbals), up to six different voices, and a Cinema model splits files into dialogue, music, sound effects and everything else. Denoise offers Voice Restore, Indoor / Indoor Noisy and Outdoor / Outdoor Traffic / Outdoor Wind models."
-              },
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Photon-1@2000x1500.jpg"
+                "x": "The new AI stem separation Pro Tools Extension is able to separate any recording into up to six stems: vocals, drums, bass, guitar, keys, and other instruments. Using it is as simple as dragging and dropping the audio file into the window, previewing the stems it will split up, and then sending those back to the main DAW as their own tracks."
               },
               {
                 "t": "p",
-                "x": "As an ARA2 plugin, Photon works inside Pro Tools, REAPER and Cubase on Mac and Windows, plus Sequoia and Samplitude on Windows; a Model Manager downloads new and updated models without reinstalling. It exports to WAV, FLAC and MP3 or to video with the original video stream kept."
+                "x": "The new AI Stem Separator is just one of many functions available as part of Pro Tools Extensions. Where plugins work with one track at a time, Extensions can work with the entire session or any number of specific tracks. External companies such as Splice, SoundFlow, Pro Sound Effects, Soundly, Forte, and Pibox have also designed Extensions."
               },
               {
                 "t": "p",
-                "x": "Photon is available now as a standalone app and ARA2 plugin, priced at $349 or $259 during a cyber sale running through 7 December, for Apple Silicon Macs and Windows 10 or later."
+                "x": "“Extensions represent an important step forward, bringing new technologies and innovative capabilities directly into Pro Tools,” says Sam Butler, Vice President, Product Management, Avid."
+              },
+              {
+                "t": "p",
+                "x": "Pro Tools 2026.11 is available now for Pro Tools Artist, Studio, and Ultimate subscribers, perpetual licence holders with an active upgrade plan, and Pro Tools Intro users, including the 30-day trial."
               }
             ]
           }
         },
         "ko": {
-          "headline": "iZotope Photon\n내 GPU로 스템 분리",
-          "body": "iZotope's Photon은 12개 모델로 로컬 GPU에서 스템을 분리한다.",
-          "mini_headline": "iZotope Photon 로컬 구동",
+          "headline": "Pro Tools,\nAI 스템 분리 내장",
+          "body": "Pro Tools 2026.11이 AI로 녹음을 최대 여섯 스템까지 쪼갠다.",
+          "mini_headline": "Pro Tools, AI로 스템 분리",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500.jpg",
-                "cap": "제공: iZotope"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Pro-Tools-Stem-hero@2000x1500.jpg",
+                "cap": "출처: Avid"
               },
               {
                 "t": "p",
-                "x": "iZotope가 AI-powered 스템 분리·오디오 정리 도구 Photon을 출시했다. 맞춤 학습한 12개 모델로 돌아가며, 파일을 클라우드에 올리지 않고 사용자 컴퓨터 GPU에서 로컬로 처리한다. iZotope와 모회사 Boris FX가 처음 함께 만든 제품이다."
+                "x": "프로듀서가 가장 요긴하게 쓰는 도구를 꼽으면 스템 분리가 빠지지 않는다. Avid가 Pro Tools 2026.11에 AI 스템 분리를 넣었으니 이 DAW를 쓰는 프로듀서 상당수가 반길 소식이다."
               },
               {
                 "t": "p",
-                "x": "알고리즘은 Demix와 Denoise 두 갈래다. Demix는 음악을 스템 네 개로, 드럼을 다섯 개(킥, 스네어, 하이햇, 탐, 심벌)로, 목소리를 최대 여섯 개로 나눈다. Cinema 모델은 파일을 대사, 음악, 효과음, 그 밖의 소리로 가른다. Denoise에는 Voice Restore, Indoor / Indoor Noisy, Outdoor / Outdoor Traffic / Outdoor Wind 모델이 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Photon-1@2000x1500.jpg"
+                "x": "새 AI 스템 분리 Pro Tools Extension은 어떤 녹음이든 보컬, 드럼, 베이스, 기타, 건반, 그 밖의 악기 등 최대 여섯 개 스템으로 나눈다. 쓰는 법도 간단하다. 오디오 파일을 창에 끌어다 놓고 분리될 스템을 미리 들어 본 다음 각각 별도 트랙으로 메인 DAW에 돌려보내면 끝이다."
               },
               {
                 "t": "p",
-                "x": "Photon은 ARA2 플러그인으로 Mac과 Windows의 Pro Tools, REAPER, Cubase, 그리고 Windows의 Sequoia와 Samplitude 안에서 돌아간다. Model Manager로 재설치 없이 새 모델과 업데이트된 모델을 내려받는다. WAV, FLAC, MP3로 내보내거나 원본 비디오 스트림을 유지한 채 영상으로 내보낼 수도 있다."
+                "x": "새 AI Stem Separator는 Pro Tools Extensions로 나오는 여러 기능 중 하나다. 플러그인은 한 번에 트랙 하나만 다루지만 Extensions는 세션 전체나 원하는 만큼의 특정 트랙을 한꺼번에 다룬다. Splice, SoundFlow, Pro Sound Effects, Soundly, Forte, Pibox 같은 외부 업체도 Extensions를 만들었다."
               },
               {
                 "t": "p",
-                "x": "Photon은 지금 독립 실행형 앱과 ARA2 플러그인으로 나와 있다. 가격은 $349이며 12월 7일까지 이어지는 사이버 세일 기간에는 $259다. Apple Silicon Macs와 Windows 10 이상을 지원한다."
+                "x": "“Extensions는 새로운 기술과 혁신적인 기능을 Pro Tools 안으로 직접 들여오는 중요한 진전입니다.” Avid 제품 관리 부문 부사장 Sam Butler의 말이다."
+              },
+              {
+                "t": "p",
+                "x": "Pro Tools 2026.11은 지금 Pro Tools Artist, Studio, Ultimate 구독자와 업그레이드 플랜이 유효한 영구 라이선스 보유자, 30일 체험판을 포함한 Pro Tools Intro 사용자가 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "iZotope Photon\n手元のGPUでステム分離",
-          "body": "iZotope's Photonは12モデルでクラウドを使わずGPUでステムを分離する。",
-          "mini_headline": "iZotope Photonはローカル動作",
+          "headline": "Pro Toolsに\nAIステム分離を内蔵",
+          "body": "Pro Tools 2026.11は、録音を最大6つのステムに分けるAI拡張を備えた。",
+          "mini_headline": "Pro ToolsがAIでステム分離",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500.jpg",
-                "cap": "提供：iZotope"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Pro-Tools-Stem-hero@2000x1500.jpg",
+                "cap": "提供：Avid"
               },
               {
                 "t": "p",
-                "x": "iZotopeは、AI-poweredのステム分離・オーディオクリーンアップツール「Photon」を発表した。独自に学習させた12のモデルで動作し、ファイルをクラウドにアップロードせず、コンピューターのGPU上でローカルに処理する。iZotopeと親会社Boris FXによる初の共同開発である。"
+                "x": "プロデューサーにとって、ステム分離は手持ちの道具の中でも特に役立つものの一つだ。AvidがPro Tools 2026.11にAIステム分離を導入したことは、このDAWを使う多くのプロデューサーに歓迎されるだろう。"
               },
               {
                 "t": "p",
-                "x": "アルゴリズムはDemixとDenoiseに分かれる。Demixは音楽を四つのステムに、ドラムを五つ（キック、スネア、ハイハット、タム、シンバル）に、声を最大六つに分離し、Cinemaモデルはファイルをダイアログ、音楽、効果音、その他に分ける。DenoiseはVoice Restore、Indoor / Indoor Noisy、Outdoor / Outdoor Traffic / Outdoor Windの各モデルを備える。"
-              },
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Photon-1@2000x1500.jpg"
+                "x": "新しいAIステム分離のPro Tools Extensionは、あらゆる録音をボーカル、ドラム、ベース、ギター、キー、その他の楽器の最大6つのステムに分離できる。使い方は簡単で、オーディオファイルをウィンドウにドラッグ＆ドロップし、分離されるステムをプレビューしてから、それぞれ独立したトラックとしてメインのDAWに戻すだけだ。"
               },
               {
                 "t": "p",
-                "x": "PhotonはARA2プラグインとして、MacとWindowsのPro Tools、REAPER、Cubase、さらにWindowsのSequoiaとSamplitudeで動作する。Model Managerにより、再インストールなしで新規・更新モデルをダウンロードできる。書き出しはWAV、FLAC、MP3のほか、元の映像ストリームを保ったまま動画にも対応する。"
+                "x": "新しいAI Stem Separatorは、Pro Tools Extensionsとして提供される多くの機能の一つにすぎない。プラグインが一度に一つのトラックを扱うのに対し、Extensionsはセッション全体や任意の数の特定トラックを扱える。Splice、SoundFlow、Pro Sound Effects、Soundly、Forte、Piboxといった外部企業もExtensionsを設計している。"
               },
               {
                 "t": "p",
-                "x": "Photonはスタンドアロンアプリおよび ARA2プラグインとして提供中で、価格は$349。12月7日までのサイバーセール期間中は$259となる。対応環境はApple Silicon MacsとWindows 10以降だ。"
+                "x": "「Extensionsは、新しい技術と革新的な機能をPro Toolsに直接もたらす重要な一歩だ」と、Avidのプロダクトマネジメント担当バイスプレジデント、Sam Butler氏は述べる。"
+              },
+              {
+                "t": "p",
+                "x": "Pro Tools 2026.11は現在、Pro Tools Artist、Studio、Ultimateの購読者、有効なアップグレードプランを持つ永続ライセンス保有者、そして30日間の試用版を含むPro Tools Introのユーザーが利用できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "iZotope Photon\n用本机GPU分离音轨",
-          "body": "iZotope's Photon用12个定制训练模型在本地GPU上分离音轨，不依赖云端。",
-          "mini_headline": "iZotope Photon本地运行",
+          "headline": "Pro Tools新增\n内置AI音轨分离",
+          "body": "Pro Tools 2026.11新增AI扩展，拖放即可把录音拆成最多六条分轨。",
+          "mini_headline": "Pro Tools用AI分离分轨",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500.jpg",
-                "cap": "图片来源：iZotope"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Pro-Tools-Stem-hero@2000x1500.jpg",
+                "cap": "图片来源：Avid"
               },
               {
                 "t": "p",
-                "x": "iZotope推出AI-powered音轨分离与音频清理工具Photon，由12个定制训练模型驱动，在电脑GPU上本地处理音频，无需将文件上传至云端。这是iZotope与母公司Boris FX的首次合作。"
+                "x": "对制作人来说，分轨分离可能是手头最有用的工具之一。因此，Avid刚刚在Pro Tools 2026.11中引入AI分轨分离，对许多使用这款DAW的制作人而言会是一项受欢迎的新功能。"
               },
               {
                 "t": "p",
-                "x": "其算法分为Demix和Denoise两类。Demix可将音乐分离为四个音轨，将鼓分离为五个（底鼓、军鼓、踩镲、通鼓和镲片），最多可分离六种不同人声；Cinema模型则将文件拆分为对白、音乐、音效及其他所有声音。Denoise提供Voice Restore、Indoor / Indoor Noisy以及Outdoor / Outdoor Traffic / Outdoor Wind模型。"
-              },
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Photon-1@2000x1500.jpg"
+                "x": "新的AI分轨分离Pro Tools Extension能把任意录音拆分为最多六条分轨：人声、鼓、贝斯、吉他、键盘和其他乐器。使用方法很简单：把音频文件拖放到窗口中，预览将被拆分出的分轨，再将它们作为独立音轨送回主DAW。"
               },
               {
                 "t": "p",
-                "x": "作为ARA2插件，Photon可在Mac和Windows上的Pro Tools、REAPER和Cubase中运行，也支持Windows上的Sequoia和Samplitude；Model Manager无需重装即可下载新模型和更新模型。它可导出为WAV、FLAC和MP3，也可在保留原始视频流的情况下导出为视频。"
+                "x": "新的AI Stem Separator只是Pro Tools Extensions提供的众多功能之一。插件一次只能处理一条音轨，而Extensions可以处理整个工程或任意数量的指定音轨。Splice、SoundFlow、Pro Sound Effects、Soundly、Forte和Pibox等外部公司也设计了Extensions。"
               },
               {
                 "t": "p",
-                "x": "Photon现已以独立应用和ARA2插件形式推出，售价$349，在持续至12月7日的网络促销期间为$259，支持Apple Silicon Macs以及Windows 10或更高版本。"
+                "x": "Avid产品管理副总裁Sam Butler表示：“Extensions是重要的一步，它把新技术和创新能力直接带进了Pro Tools。”"
+              },
+              {
+                "t": "p",
+                "x": "Pro Tools 2026.11现已面向Pro Tools Artist、Studio和Ultimate订阅用户、拥有有效升级计划的永久授权用户，以及包括30天试用版在内的Pro Tools Intro用户推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "iZotope Photon separa stems\nen tu propia GPU",
-          "body": "Photon de iZotope usa 12 modelos entrenados a medida para separar stems y limpiar audio en la GPU local, sin la nube.",
-          "mini_headline": "iZotope Photon funciona en local",
+          "headline": "Pro Tools integra separación\nde stems con IA",
+          "body": "Pro Tools 2026.11 añade una extensión de IA que separa cualquier grabación en hasta seis stems arrastrando y soltando.",
+          "mini_headline": "Pro Tools separa stems con IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500.jpg",
-                "cap": "Crédito: iZotope"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Pro-Tools-Stem-hero@2000x1500.jpg",
+                "cap": "Crédito: Avid"
               },
               {
                 "t": "p",
-                "x": "iZotope ha lanzado Photon, una herramienta AI-powered de separación de stems y limpieza de audio que funciona con 12 modelos entrenados a medida y procesa el audio localmente en la GPU del ordenador en lugar de subir archivos a la nube. Es la primera colaboración entre iZotope y su empresa matriz, Boris FX."
+                "x": "Para un productor, la separación de stems puede ser una de las herramientas más útiles. Por eso, que Avid acabe de introducir la separación de stems con IA en Pro Tools 2026.11 será una incorporación bienvenida para muchos productores que trabajan con este DAW."
               },
               {
                 "t": "p",
-                "x": "Sus algoritmos se dividen en Demix y Denoise. Demix separa la música en cuatro stems, la batería en cinco (bombo, caja, hi-hat, toms y platillos), hasta seis voces distintas, y un modelo Cinema divide los archivos en diálogo, música, efectos de sonido y todo lo demás. Denoise ofrece los modelos Voice Restore, Indoor / Indoor Noisy y Outdoor / Outdoor Traffic / Outdoor Wind."
-              },
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Photon-1@2000x1500.jpg"
+                "x": "La nueva Pro Tools Extension de separación de stems con IA puede dividir cualquier grabación en hasta seis stems: voces, batería, bajo, guitarra, teclados y otros instrumentos. Usarla es tan sencillo como arrastrar y soltar el archivo de audio en la ventana, escuchar una vista previa de los stems que va a separar y enviarlos de vuelta al DAW principal como pistas independientes."
               },
               {
                 "t": "p",
-                "x": "Como plugin ARA2, Photon funciona dentro de Pro Tools, REAPER y Cubase en Mac y Windows, además de Sequoia y Samplitude en Windows; un Model Manager descarga modelos nuevos y actualizados sin reinstalar. Exporta a WAV, FLAC y MP3 o a vídeo conservando el flujo de vídeo original."
+                "x": "El nuevo AI Stem Separator es solo una de las muchas funciones disponibles dentro de Pro Tools Extensions. Mientras que los plugins trabajan con una pista a la vez, las Extensions pueden trabajar con toda la sesión o con cualquier número de pistas concretas. Empresas externas como Splice, SoundFlow, Pro Sound Effects, Soundly, Forte y Pibox también han diseñado Extensions."
               },
               {
                 "t": "p",
-                "x": "Photon ya está disponible como app independiente y plugin ARA2, a un precio de $349 o $259 durante una oferta cyber vigente hasta el 7 de diciembre, para Apple Silicon Macs y Windows 10 o posterior."
+                "x": "“Las Extensions representan un paso importante, ya que llevan nuevas tecnologías y capacidades innovadoras directamente a Pro Tools”, afirma Sam Butler, vicepresidente de Gestión de Producto de Avid."
+              },
+              {
+                "t": "p",
+                "x": "Pro Tools 2026.11 ya está disponible para los suscriptores de Pro Tools Artist, Studio y Ultimate, los titulares de licencias perpetuas con un plan de actualización activo y los usuarios de Pro Tools Intro, incluida la prueba de 30 días."
               }
             ]
           }
@@ -535,141 +635,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "iZotope Photon\n내 GPU로 스템 분리",
-          "body": "iZotope's Photon은 12개 모델로 로컬 GPU에서 스템을 분리한다.",
-          "mini_headline": "iZotope Photon 로컬 구동",
+          "headline": "Pro Tools,\nAI 스템 분리 내장",
+          "body": "Pro Tools 2026.11은 AI로 녹음을 최대 여섯 스템으로 나눈다.",
+          "mini_headline": "Pro Tools, AI로 스템 분리",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500.jpg",
-                "cap": "제공: iZotope"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Pro-Tools-Stem-hero@2000x1500.jpg",
+                "cap": "출처: Avid"
               },
               {
                 "t": "p",
-                "x": "iZotope가 AI-powered 스템 분리·오디오 정리 도구 Photon을 출시했다. 맞춤 학습한 12개 모델로 구동되며, 파일을 클라우드에 올리지 않고 사용자 컴퓨터의 GPU에서 로컬로 처리한다. iZotope와 모회사 Boris FX의 첫 협업작이다."
+                "x": "프로듀서에게 스템 분리는 가장 쓸모 있는 도구 중 하나다. 그래서 Avid가 Pro Tools 2026.11에 AI 스템 분리를 도입했다는 소식은 이 DAW를 쓰는 많은 프로듀서에게 반가운 추가 기능이 될 것이다."
               },
               {
                 "t": "p",
-                "x": "알고리즘은 Demix와 Denoise로 나뉜다. Demix는 음악을 네 개 스템으로, 드럼을 다섯 개(킥, 스네어, 하이햇, 탐, 심벌)로, 목소리를 최대 여섯 개로 분리하며, Cinema 모델은 파일을 대사, 음악, 효과음, 그 밖의 소리로 나눈다. Denoise는 Voice Restore, Indoor / Indoor Noisy, Outdoor / Outdoor Traffic / Outdoor Wind 모델을 제공한다."
-              },
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Photon-1@2000x1500.jpg"
+                "x": "새 AI 스템 분리 Pro Tools Extension은 어떤 녹음이든 보컬, 드럼, 베이스, 기타, 건반, 그 밖의 악기 등 최대 여섯 개 스템으로 나눈다. 사용법도 간단하다. 오디오 파일을 창에 끌어다 놓고, 분리될 스템을 미리 들어 본 뒤, 각각 별도 트랙으로 메인 DAW에 다시 보내면 된다."
               },
               {
                 "t": "p",
-                "x": "Photon은 ARA2 플러그인으로 Mac과 Windows의 Pro Tools, REAPER, Cubase, 그리고 Windows의 Sequoia와 Samplitude 안에서 작동하며, Model Manager로 재설치 없이 새 모델과 업데이트된 모델을 내려받는다. WAV, FLAC, MP3로 내보내거나 원본 비디오 스트림을 유지한 채 영상으로 내보낼 수 있다."
+                "x": "새 AI Stem Separator는 Pro Tools Extensions로 제공되는 여러 기능 가운데 하나일 뿐이다. 플러그인이 한 번에 트랙 하나를 다루는 반면, Extensions는 세션 전체나 원하는 수의 특정 트랙을 다룰 수 있다. Splice, SoundFlow, Pro Sound Effects, Soundly, Forte, Pibox 같은 외부 업체도 Extensions를 설계했다."
               },
               {
                 "t": "p",
-                "x": "Photon은 지금 독립 실행형 앱과 ARA2 플러그인으로 나와 있으며, 가격은 $349이고 12월 7일까지 진행되는 사이버 세일 동안은 $259다. Apple Silicon Macs와 Windows 10 이상을 지원한다."
+                "x": "“Extensions는 새로운 기술과 혁신적인 기능을 Pro Tools 안으로 직접 들여오는 중요한 진전입니다.” Avid 제품 관리 부문 부사장 Sam Butler의 말이다."
+              },
+              {
+                "t": "p",
+                "x": "Pro Tools 2026.11은 현재 Pro Tools Artist, Studio, Ultimate 구독자, 업그레이드 플랜이 유효한 영구 라이선스 보유자, 30일 체험판을 포함한 Pro Tools Intro 사용자에게 제공된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "iZotope Photon\n手元のGPUでステム分離",
-          "body": "iZotope's Photonは12モデルでクラウドを使わずGPUでステムを分離する。",
-          "mini_headline": "iZotope Photonはローカル動作",
+          "headline": "Pro Toolsに\nAIステム分離を内蔵",
+          "body": "Pro Tools 2026.11は、録音を最大6つのステムに分けるAI拡張を備えた。",
+          "mini_headline": "Pro ToolsがAIでステム分離",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500.jpg",
-                "cap": "提供：iZotope"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Pro-Tools-Stem-hero@2000x1500.jpg",
+                "cap": "提供：Avid"
               },
               {
                 "t": "p",
-                "x": "iZotopeは、AI-poweredのステム分離・オーディオクリーンアップツール「Photon」を発表した。独自に学習させた12のモデルで動作し、ファイルをクラウドにアップロードせず、コンピューターのGPU上でローカルに処理する。iZotopeと親会社Boris FXによる初の共同開発である。"
+                "x": "プロデューサーにとって、ステム分離は手持ちの道具の中でも特に役立つものの一つだ。AvidがPro Tools 2026.11にAIステム分離を導入したことは、このDAWを使う多くのプロデューサーに歓迎されるだろう。"
               },
               {
                 "t": "p",
-                "x": "アルゴリズムはDemixとDenoiseに分かれる。Demixは音楽を四つのステムに、ドラムを五つ（キック、スネア、ハイハット、タム、シンバル）に、声を最大六つに分離し、Cinemaモデルはファイルをダイアログ、音楽、効果音、その他に分ける。DenoiseはVoice Restore、Indoor / Indoor Noisy、Outdoor / Outdoor Traffic / Outdoor Windの各モデルを備える。"
-              },
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Photon-1@2000x1500.jpg"
+                "x": "新しいAIステム分離のPro Tools Extensionは、あらゆる録音をボーカル、ドラム、ベース、ギター、キー、その他の楽器の最大6つのステムに分離できる。使い方は簡単で、オーディオファイルをウィンドウにドラッグ＆ドロップし、分離されるステムをプレビューしてから、それぞれ独立したトラックとしてメインのDAWに戻すだけだ。"
               },
               {
                 "t": "p",
-                "x": "PhotonはARA2プラグインとして、MacとWindowsのPro Tools、REAPER、Cubase、さらにWindowsのSequoiaとSamplitudeで動作する。Model Managerにより、再インストールなしで新規・更新モデルをダウンロードできる。書き出しはWAV、FLAC、MP3のほか、元の映像ストリームを保ったまま動画にも対応する。"
+                "x": "新しいAI Stem Separatorは、Pro Tools Extensionsとして提供される多くの機能の一つにすぎない。プラグインが一度に一つのトラックを扱うのに対し、Extensionsはセッション全体や任意の数の特定トラックを扱える。Splice、SoundFlow、Pro Sound Effects、Soundly、Forte、Piboxといった外部企業もExtensionsを設計している。"
               },
               {
                 "t": "p",
-                "x": "Photonはスタンドアロンアプリおよび ARA2プラグインとして提供中で、価格は$349。12月7日までのサイバーセール期間中は$259となる。対応環境はApple Silicon MacsとWindows 10以降だ。"
+                "x": "「Extensionsは、新しい技術と革新的な機能をPro Toolsに直接もたらす重要な一歩だ」と、Avidのプロダクトマネジメント担当バイスプレジデント、Sam Butler氏は述べる。"
+              },
+              {
+                "t": "p",
+                "x": "Pro Tools 2026.11は現在、Pro Tools Artist、Studio、Ultimateの購読者、有効なアップグレードプランを持つ永続ライセンス保有者、そして30日間の試用版を含むPro Tools Introのユーザーが利用できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "iZotope Photon\n用本机GPU分离音轨",
-          "body": "iZotope's Photon用12个定制训练模型在本地GPU上分离音轨，不依赖云端。",
-          "mini_headline": "iZotope Photon本地运行",
+          "headline": "Pro Tools新增\n内置AI音轨分离",
+          "body": "Pro Tools 2026.11新增AI扩展，拖放即可把录音拆成最多六条分轨。",
+          "mini_headline": "Pro Tools用AI分离分轨",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500.jpg",
-                "cap": "图片来源：iZotope"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Pro-Tools-Stem-hero@2000x1500.jpg",
+                "cap": "图片来源：Avid"
               },
               {
                 "t": "p",
-                "x": "iZotope推出AI-powered音轨分离与音频清理工具Photon，由12个定制训练模型驱动，在电脑GPU上本地处理音频，无需将文件上传至云端。这是iZotope与母公司Boris FX的首次合作。"
+                "x": "对制作人来说，分轨分离可能是手头最有用的工具之一。因此，Avid刚刚在Pro Tools 2026.11中引入AI分轨分离，对许多使用这款DAW的制作人而言会是一项受欢迎的新功能。"
               },
               {
                 "t": "p",
-                "x": "其算法分为Demix和Denoise两类。Demix可将音乐分离为四个音轨，将鼓分离为五个（底鼓、军鼓、踩镲、通鼓和镲片），最多可分离六种不同人声；Cinema模型则将文件拆分为对白、音乐、音效及其他所有声音。Denoise提供Voice Restore、Indoor / Indoor Noisy以及Outdoor / Outdoor Traffic / Outdoor Wind模型。"
-              },
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Photon-1@2000x1500.jpg"
+                "x": "新的AI分轨分离Pro Tools Extension能把任意录音拆分为最多六条分轨：人声、鼓、贝斯、吉他、键盘和其他乐器。使用方法很简单：把音频文件拖放到窗口中，预览将被拆分出的分轨，再将它们作为独立音轨送回主DAW。"
               },
               {
                 "t": "p",
-                "x": "作为ARA2插件，Photon可在Mac和Windows上的Pro Tools、REAPER和Cubase中运行，也支持Windows上的Sequoia和Samplitude；Model Manager无需重装即可下载新模型和更新模型。它可导出为WAV、FLAC和MP3，也可在保留原始视频流的情况下导出为视频。"
+                "x": "新的AI Stem Separator只是Pro Tools Extensions提供的众多功能之一。插件一次只能处理一条音轨，而Extensions可以处理整个工程或任意数量的指定音轨。Splice、SoundFlow、Pro Sound Effects、Soundly、Forte和Pibox等外部公司也设计了Extensions。"
               },
               {
                 "t": "p",
-                "x": "Photon现已以独立应用和ARA2插件形式推出，售价$349，在持续至12月7日的网络促销期间为$259，支持Apple Silicon Macs以及Windows 10或更高版本。"
+                "x": "Avid产品管理副总裁Sam Butler表示：“Extensions是重要的一步，它把新技术和创新能力直接带进了Pro Tools。”"
+              },
+              {
+                "t": "p",
+                "x": "Pro Tools 2026.11现已面向Pro Tools Artist、Studio和Ultimate订阅用户、拥有有效升级计划的永久授权用户，以及包括30天试用版在内的Pro Tools Intro用户推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "iZotope Photon separa stems\nen tu propia GPU",
-          "body": "Photon de iZotope usa 12 modelos entrenados a medida para separar stems y limpiar audio en la GPU local, sin la nube.",
-          "mini_headline": "iZotope Photon funciona en local",
+          "headline": "Pro Tools integra separación\nde stems con IA",
+          "body": "Pro Tools 2026.11 añade una extensión de IA que separa cualquier grabación en hasta seis stems arrastrando y soltando.",
+          "mini_headline": "Pro Tools separa stems con IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500.jpg",
-                "cap": "Crédito: iZotope"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Pro-Tools-Stem-hero@2000x1500.jpg",
+                "cap": "Crédito: Avid"
               },
               {
                 "t": "p",
-                "x": "iZotope ha lanzado Photon, una herramienta AI-powered de separación de stems y limpieza de audio que funciona con 12 modelos entrenados a medida y procesa el audio localmente en la GPU del ordenador en lugar de subir archivos a la nube. Es la primera colaboración entre iZotope y su empresa matriz, Boris FX."
+                "x": "Para un productor, la separación de stems puede ser una de las herramientas más útiles. Por eso, que Avid acabe de introducir la separación de stems con IA en Pro Tools 2026.11 será una incorporación bienvenida para muchos productores que trabajan con este DAW."
               },
               {
                 "t": "p",
-                "x": "Sus algoritmos se dividen en Demix y Denoise. Demix separa la música en cuatro stems, la batería en cinco (bombo, caja, hi-hat, toms y platillos), hasta seis voces distintas, y un modelo Cinema divide los archivos en diálogo, música, efectos de sonido y todo lo demás. Denoise ofrece los modelos Voice Restore, Indoor / Indoor Noisy y Outdoor / Outdoor Traffic / Outdoor Wind."
-              },
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Photon-1@2000x1500.jpg"
+                "x": "La nueva Pro Tools Extension de separación de stems con IA puede dividir cualquier grabación en hasta seis stems: voces, batería, bajo, guitarra, teclados y otros instrumentos. Usarla es tan sencillo como arrastrar y soltar el archivo de audio en la ventana, escuchar una vista previa de los stems que va a separar y enviarlos de vuelta al DAW principal como pistas independientes."
               },
               {
                 "t": "p",
-                "x": "Como plugin ARA2, Photon funciona dentro de Pro Tools, REAPER y Cubase en Mac y Windows, además de Sequoia y Samplitude en Windows; un Model Manager descarga modelos nuevos y actualizados sin reinstalar. Exporta a WAV, FLAC y MP3 o a vídeo conservando el flujo de vídeo original."
+                "x": "El nuevo AI Stem Separator es solo una de las muchas funciones disponibles dentro de Pro Tools Extensions. Mientras que los plugins trabajan con una pista a la vez, las Extensions pueden trabajar con toda la sesión o con cualquier número de pistas concretas. Empresas externas como Splice, SoundFlow, Pro Sound Effects, Soundly, Forte y Pibox también han diseñado Extensions."
               },
               {
                 "t": "p",
-                "x": "Photon ya está disponible como app independiente y plugin ARA2, a un precio de $349 o $259 durante una oferta cyber vigente hasta el 7 de diciembre, para Apple Silicon Macs y Windows 10 o posterior."
+                "x": "“Las Extensions representan un paso importante, ya que llevan nuevas tecnologías y capacidades innovadoras directamente a Pro Tools”, afirma Sam Butler, vicepresidente de Gestión de Producto de Avid."
+              },
+              {
+                "t": "p",
+                "x": "Pro Tools 2026.11 ya está disponible para los suscriptores de Pro Tools Artist, Studio y Ultimate, los titulares de licencias perpetuas con un plan de actualización activo y los usuarios de Pro Tools Intro, incluida la prueba de 30 días."
               }
             ]
           }
@@ -677,569 +777,15 @@
       }
     },
     {
-      "id": "youtube-replace-song-expand",
+      "id": "elevenlabs-soundcloud-publish",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "YouTube, 저작권 곡\nAI 교체 확대",
-      "body": "YouTube가 Content ID-claimed 곡의 AI 교체를 넓힌다.",
-      "mini_headline": "YouTube, Replace Song 확대",
+      "headline": "ElevenLabs 음악,\nSoundCloud로 직행",
+      "body": "이제 ElevenMusic으로 만든 곡을 SoundCloud에 바로 올린다.",
+      "mini_headline": "ElevenLabs, SoundCloud에 바로 게시",
       "tool": "Music",
-      "source": "Neowin",
-      "url": "https://www.neowin.net/news/more-youtube-creators-can-now-use-ai-to-replace-copyrighted-songs/",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756242307_youtube_logo_on_tv_full.webp"
-          },
-          {
-            "t": "p",
-            "x": "YouTube가 AI-powered 곡 교체 기능의 이용 범위를 넓힌다. 더 많은 크리에이터가 음악 저작권 소유권 주장을 해결하도록 하려는 조치다."
-          },
-          {
-            "t": "p",
-            "x": "Content ID 오디오 소유권 주장이 걸린 영상의 크리에이터는 YouTube Studio의 Replace Song 도구에서 Create를 골라 해당 오디오를 AI가 생성한 연주곡으로 바꿀 수 있다. 오디오를 바꾸면 Content ID 소유권 주장은 풀린다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "YouTube widens AI swaps\nfor copyrighted songs",
-          "body": "YouTube is expanding Replace Song, which swaps Content ID-claimed music for royalty-free AI instrumentals.",
-          "mini_headline": "YouTube widens Replace Song",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756242307_youtube_logo_on_tv_full.webp"
-              },
-              {
-                "t": "p",
-                "x": "YouTube is expanding access to its AI-powered song replacement feature, making it available to more creators to help resolve music copyright claims."
-              },
-              {
-                "t": "p",
-                "x": "In YouTube Studio's Replace Song tool, creators whose videos carry a Content ID audio claim can choose Create to replace the claimed audio with an instrumental track generated by AI. Once the claimed audio is replaced, the Content ID claim is released."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "YouTube, 저작권 곡\nAI 교체 확대",
-          "body": "YouTube가 Content ID-claimed 곡의 AI 교체를 넓힌다.",
-          "mini_headline": "YouTube, Replace Song 확대",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756242307_youtube_logo_on_tv_full.webp"
-              },
-              {
-                "t": "p",
-                "x": "YouTube가 AI-powered 곡 교체 기능의 이용 범위를 넓힌다. 더 많은 크리에이터가 음악 저작권 소유권 주장을 해결하도록 하려는 조치다."
-              },
-              {
-                "t": "p",
-                "x": "Content ID 오디오 소유권 주장이 걸린 영상의 크리에이터는 YouTube Studio의 Replace Song 도구에서 Create를 골라 해당 오디오를 AI가 생성한 연주곡으로 바꿀 수 있다. 오디오를 바꾸면 Content ID 소유권 주장은 풀린다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "YouTube、著作権曲の\nAI差し替えを拡大",
-          "body": "YouTubeがContent ID-claimed楽曲のAI差し替え機能を広げる。",
-          "mini_headline": "YouTube、Replace Songを拡大",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756242307_youtube_logo_on_tv_full.webp"
-              },
-              {
-                "t": "p",
-                "x": "YouTubeは、AI-poweredの楽曲差し替え機能の提供範囲を広げ、より多くのクリエイターが音楽の著作権申し立てを解決できるようにする。"
-              },
-              {
-                "t": "p",
-                "x": "YouTube StudioのReplace Songツールでは、Content IDの音声申し立てを受けた動画のクリエイターがCreateを選ぶと、申し立て対象の音声をAIが生成したインストゥルメンタル曲に置き換えられる。置き換えが済むと、Content IDの申し立ては解除される。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "YouTube扩大\n版权歌曲AI替换",
-          "body": "YouTube扩大用免版税AI器乐替换Content ID-claimed音乐的功能。",
-          "mini_headline": "YouTube扩大Replace Song",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756242307_youtube_logo_on_tv_full.webp"
-              },
-              {
-                "t": "p",
-                "x": "YouTube正在扩大其AI-powered歌曲替换功能的开放范围，让更多创作者可以使用，以帮助解决音乐版权声明。"
-              },
-              {
-                "t": "p",
-                "x": "在YouTube Studio的Replace Song工具中，视频带有Content ID音频版权声明的创作者可选择Create，用AI生成的器乐曲替换被声明的音频。被声明的音频替换后，该Content ID版权声明即被解除。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "YouTube amplía el cambio por IA\nde canciones con copyright",
-          "body": "YouTube amplía Replace Song, que cambia la música Content ID-claimed por instrumentales de IA libres de regalías.",
-          "mini_headline": "YouTube amplía Replace Song",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756242307_youtube_logo_on_tv_full.webp"
-              },
-              {
-                "t": "p",
-                "x": "YouTube está ampliando el acceso a su función AI-powered de sustitución de canciones, que llega a más creadores para ayudarles a resolver reclamaciones de derechos de autor sobre música."
-              },
-              {
-                "t": "p",
-                "x": "En la herramienta Replace Song de YouTube Studio, los creadores cuyos vídeos tengan una reclamación de audio de Content ID pueden elegir Create para sustituir el audio reclamado por una pista instrumental generada por AI. Una vez sustituido el audio reclamado, la reclamación de Content ID se retira."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "YouTube, 저작권 곡\nAI 교체 확대",
-          "body": "YouTube가 Content ID-claimed 곡의 AI 교체를 넓힌다.",
-          "mini_headline": "YouTube, Replace Song 확대",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756242307_youtube_logo_on_tv_full.webp"
-              },
-              {
-                "t": "p",
-                "x": "YouTube가 AI-powered 곡 교체 기능의 이용 범위를 넓혀, 더 많은 크리에이터가 음악 저작권 소유권 주장을 해결할 수 있게 한다."
-              },
-              {
-                "t": "p",
-                "x": "YouTube Studio의 Replace Song 도구에서 Content ID 오디오 소유권 주장이 걸린 영상의 크리에이터는 Create를 선택해 해당 오디오를 AI가 생성한 연주곡으로 바꿀 수 있다. 오디오를 교체하면 Content ID 소유권 주장은 해제된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "YouTube、著作権曲の\nAI差し替えを拡大",
-          "body": "YouTubeがContent ID-claimed楽曲のAI差し替え機能を広げる。",
-          "mini_headline": "YouTube、Replace Songを拡大",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756242307_youtube_logo_on_tv_full.webp"
-              },
-              {
-                "t": "p",
-                "x": "YouTubeは、AI-poweredの楽曲差し替え機能の提供範囲を広げ、より多くのクリエイターが音楽の著作権申し立てを解決できるようにする。"
-              },
-              {
-                "t": "p",
-                "x": "YouTube StudioのReplace Songツールでは、Content IDの音声申し立てを受けた動画のクリエイターがCreateを選ぶと、申し立て対象の音声をAIが生成したインストゥルメンタル曲に置き換えられる。置き換えが済むと、Content IDの申し立ては解除される。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "YouTube扩大\n版权歌曲AI替换",
-          "body": "YouTube扩大用免版税AI器乐替换Content ID-claimed音乐的功能。",
-          "mini_headline": "YouTube扩大Replace Song",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756242307_youtube_logo_on_tv_full.webp"
-              },
-              {
-                "t": "p",
-                "x": "YouTube正在扩大其AI-powered歌曲替换功能的开放范围，让更多创作者可以使用，以帮助解决音乐版权声明。"
-              },
-              {
-                "t": "p",
-                "x": "在YouTube Studio的Replace Song工具中，视频带有Content ID音频版权声明的创作者可选择Create，用AI生成的器乐曲替换被声明的音频。被声明的音频替换后，该Content ID版权声明即被解除。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "YouTube amplía el cambio por IA\nde canciones con copyright",
-          "body": "YouTube amplía Replace Song, que cambia la música Content ID-claimed por instrumentales de IA libres de regalías.",
-          "mini_headline": "YouTube amplía Replace Song",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756242307_youtube_logo_on_tv_full.webp"
-              },
-              {
-                "t": "p",
-                "x": "YouTube está ampliando el acceso a su función AI-powered de sustitución de canciones, que llega a más creadores para ayudarles a resolver reclamaciones de derechos de autor sobre música."
-              },
-              {
-                "t": "p",
-                "x": "En la herramienta Replace Song de YouTube Studio, los creadores cuyos vídeos tengan una reclamación de audio de Content ID pueden elegir Create para sustituir el audio reclamado por una pista instrumental generada por AI. Una vez sustituido el audio reclamado, la reclamación de Content ID se retira."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "music-ai-detector-false-positives",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 탐지기, 1980s\n인간 음악까지 오판",
-      "body": "AI-music 탐지기가 1980s 일렉트로 신스 원곡을 AI로 판정한다.",
-      "mini_headline": "AI 탐지기, 80s 신스 오판",
-      "tool": "Music",
-      "source": "Digital Music News",
-      "url": "https://www.digitalmusicnews.com/2026/11/04/ai-detector-false-positives/",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detector-false-positives-threaten-indie-musicians-and-industry-1024x576.png",
-            "cap": "사진 제공: André Grafert for International Artist Marketing (IAM)"
-          },
-          {
-            "t": "p",
-            "x": "AI 탐지기는 사람이 손으로 만든 일렉트로 신스 성향의 곡을 AI 음악으로 낙인찍기도 한다. 80s에 만든 원곡도 예외가 아니다. SubmitHub, Let's Submit, TrackVerifier, ACRCloud 같은 도구는 머신 드럼, 정밀한 시퀀서, 합성 사운드스케이프, 변조된 목소리가 담긴 곡을 \"인공적으로 생성됐을 가능성\"이 있다고 분류해 왔다. 특히 다크웨이브, 일렉트로, 포스트펑크가 피해를 봤다."
-          },
-          {
-            "t": "p",
-            "x": "2026년 6월 함부르크(Hamburg-based) 뮤지션 André Grafert(Coloured Tears)는 생성형 AI 없이 손으로 만든 커버 23곡을 담은 DECAY / TIME — A Tribute to Twice a Man을 발표했다가 곧 AI를 썼다는 공개 비난을 받았다. IAM의 Ines Weidemann이 확인해 보니 SubmitHub는 23곡 모두 AI-generated 곡일 가능성이 있다고 평가했다."
-          },
-          {
-            "t": "p",
-            "x": "그는 이어 Twice a Man의 원곡 녹음을 직접 시험했다. 일곱 곡이 \"possible AI/hybrid\"로 평가됐고, 두 곡은 특정 플랫폼까지 지목됐다. 1984년 곡 \"Across the Ocean\"은 \"Treblo_v3\", 1982년 곡 \"In My Mind\"는 \"ElevenLabs Music\"으로 나왔다."
-          },
-          {
-            "t": "p",
-            "x": "AI 탐지기는 아무것도 증명하지 못한다. 통계적 확률을 추정할 뿐이다. 계정 차단, 발매 차단, 로열티 보류가 주로 인디 신을 덮치는 지금, 필터와 이의 제기 절차가 명확해지기 전까지 현대 인디 작품 발매는 \"알고리즘의 운에 맡긴 게임\"으로 남는다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "AI detectors flag human\nmusic, even from the 1980s",
-          "body": "AI-music detectors are tagging 1980s electro-synth originals as AI, risking mislabels for indie artists.",
-          "mini_headline": "AI detectors misfire on 80s synth",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detector-false-positives-threaten-indie-musicians-and-industry-1024x576.png",
-                "cap": "Photo Credit: André Grafert for International Artist Marketing (IAM)"
-              },
-              {
-                "t": "p",
-                "x": "AI detectors can brand handmade electro-synth-oriented tracks as AI music—even original tracks made in the 80s. Tools including SubmitHub, Let's Submit, TrackVerifier and ACRCloud have classified tracks with machine drums, precise sequencers, synthetic soundscapes and altered voices as \"possibly artificially generated,\" hitting darkwave, electro and post-punk especially."
-              },
-              {
-                "t": "p",
-                "x": "In June 2026, Hamburg-based musician André Grafert (Coloured Tears) released DECAY / TIME — A Tribute to Twice a Man, 23 handmade covers made without generative AI, and soon faced public accusations of AI use. Ines Weidemann of IAM found SubmitHub rated all 23 tracks as potentially AI-generated."
-              },
-              {
-                "t": "p",
-                "x": "She then tested Twice a Man's own original recordings: seven were rated \"possible AI/hybrid,\" and two were even attributed to specific platforms — \"Treblo_v3\" for 1984's \"Across the Ocean\" and \"ElevenLabs Music\" for 1982's \"In My Mind.\""
-              },
-              {
-                "t": "p",
-                "x": "AI detectors prove nothing; they merely estimate statistical probabilities. With blocked accounts, releases and withheld royalties hitting mainly the independent scene, releasing modern independent productions remains \"an algorithmic game of chance\" until filters and appeal procedures are clarified."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 탐지기, 1980s\n인간 음악까지 오판",
-          "body": "AI-music 탐지기가 1980s 일렉트로 신스 원곡을 AI로 판정한다.",
-          "mini_headline": "AI 탐지기, 80s 신스 오판",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detector-false-positives-threaten-indie-musicians-and-industry-1024x576.png",
-                "cap": "사진 제공: André Grafert for International Artist Marketing (IAM)"
-              },
-              {
-                "t": "p",
-                "x": "AI 탐지기는 사람이 손으로 만든 일렉트로 신스 성향의 곡을 AI 음악으로 낙인찍기도 한다. 80s에 만든 원곡도 예외가 아니다. SubmitHub, Let's Submit, TrackVerifier, ACRCloud 같은 도구는 머신 드럼, 정밀한 시퀀서, 합성 사운드스케이프, 변조된 목소리가 담긴 곡을 \"인공적으로 생성됐을 가능성\"이 있다고 분류해 왔다. 특히 다크웨이브, 일렉트로, 포스트펑크가 피해를 봤다."
-              },
-              {
-                "t": "p",
-                "x": "2026년 6월 함부르크(Hamburg-based) 뮤지션 André Grafert(Coloured Tears)는 생성형 AI 없이 손으로 만든 커버 23곡을 담은 DECAY / TIME — A Tribute to Twice a Man을 발표했다가 곧 AI를 썼다는 공개 비난을 받았다. IAM의 Ines Weidemann이 확인해 보니 SubmitHub는 23곡 모두 AI-generated 곡일 가능성이 있다고 평가했다."
-              },
-              {
-                "t": "p",
-                "x": "그는 이어 Twice a Man의 원곡 녹음을 직접 시험했다. 일곱 곡이 \"possible AI/hybrid\"로 평가됐고, 두 곡은 특정 플랫폼까지 지목됐다. 1984년 곡 \"Across the Ocean\"은 \"Treblo_v3\", 1982년 곡 \"In My Mind\"는 \"ElevenLabs Music\"으로 나왔다."
-              },
-              {
-                "t": "p",
-                "x": "AI 탐지기는 아무것도 증명하지 못한다. 통계적 확률을 추정할 뿐이다. 계정 차단, 발매 차단, 로열티 보류가 주로 인디 신을 덮치는 지금, 필터와 이의 제기 절차가 명확해지기 전까지 현대 인디 작품 발매는 \"알고리즘의 운에 맡긴 게임\"으로 남는다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI検出器が人の音楽を\n1980sの曲まで誤判定",
-          "body": "AI-music検出器が1980sのエレクトロ・シンセ原曲をAIと判定している。",
-          "mini_headline": "AI検出器、80sシンセを誤判定",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detector-false-positives-threaten-indie-musicians-and-industry-1024x576.png",
-                "cap": "写真：André Grafert for International Artist Marketing (IAM)"
-              },
-              {
-                "t": "p",
-                "x": "AI検出器は、手作りのエレクトロ・シンセ志向の曲をAI音楽と決めつけることがある。80sに作られたオリジナル曲でさえ例外ではない。SubmitHub、Let's Submit、TrackVerifier、ACRCloudなどのツールは、マシンドラム、精密なシーケンサー、シンセティックなサウンドスケープ、加工された声を含む曲を「人工的に生成された可能性がある」と分類しており、とりわけダークウェーブ、エレクトロ、ポストパンクが影響を受けている。"
-              },
-              {
-                "t": "p",
-                "x": "2026年6月、ハンブルク（Hamburg-based）のミュージシャンAndré Grafert（Coloured Tears）は、生成AIを使わずに手作りした23曲のカバー集『DECAY / TIME — A Tribute to Twice a Man』をリリースしたが、まもなくAI使用の疑いを公に向けられた。IAMのInes Weidemannが調べたところ、SubmitHubは23曲すべてをAI-generatedの可能性ありと評価していた。"
-              },
-              {
-                "t": "p",
-                "x": "彼女は続いてTwice a Man自身のオリジナル録音を検証した。七曲が「possible AI/hybrid」と評価され、二曲は特定のプラットフォームまで名指しされた。1984年の「Across the Ocean」は「Treblo_v3」、1982年の「In My Mind」は「ElevenLabs Music」とされた。"
-              },
-              {
-                "t": "p",
-                "x": "AI検出器は何も証明せず、統計的な確率を推定するにすぎない。アカウントやリリースの停止、ロイヤリティの保留が主にインディーシーンを直撃するなか、フィルターと異議申し立て手続きが明確になるまで、現代のインディー作品のリリースは「アルゴリズム任せの運試し」であり続ける。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI检测器误判人类音乐\n连1980s作品也难逃",
-          "body": "AI-music检测器把1980s电子合成器原创曲判为AI，独立音乐人恐遭误标。",
-          "mini_headline": "AI检测器误判80s合成器音乐",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detector-false-positives-threaten-indie-musicians-and-industry-1024x576.png",
-                "cap": "图片来源：André Grafert for International Artist Marketing (IAM)"
-              },
-              {
-                "t": "p",
-                "x": "AI检测器可能把手工制作的电子合成器风格曲目认定为AI音乐，甚至包括80s创作的原创曲目。SubmitHub、Let's Submit、TrackVerifier和ACRCloud等工具已将含有机器鼓、精确音序器、合成音景和变声处理的曲目归类为“可能由人工生成”，黑暗浪潮、电子和后朋克受影响尤甚。"
-              },
-              {
-                "t": "p",
-                "x": "2026年6月，汉堡（Hamburg-based）音乐人André Grafert（Coloured Tears）发行了《DECAY / TIME — A Tribute to Twice a Man》，收录23首未使用生成式AI、纯手工制作的翻唱，随即遭到公开指控称其使用AI。IAM的Ines Weidemann发现，SubmitHub将全部23首曲目评为可能是AI-generated。"
-              },
-              {
-                "t": "p",
-                "x": "她随后测试了Twice a Man本人的原始录音：七首被评为“possible AI/hybrid”，另有两首甚至被归到具体平台——1984年的“Across the Ocean”被指为“Treblo_v3”，1982年的“In My Mind”被指为“ElevenLabs Music”。"
-              },
-              {
-                "t": "p",
-                "x": "AI检测器什么也证明不了，只是在估算统计概率。账号封禁、作品下架和版税扣留主要冲击独立音乐圈，在过滤机制和申诉程序明确之前，发行现代独立作品仍是“一场算法的运气游戏”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Detectores de IA marcan música\nhumana, incluso de los 1980s",
-          "body": "Los detectores AI-music etiquetan como IA originales electro-synth de los 1980s, con riesgo para artistas indie.",
-          "mini_headline": "Los detectores de IA fallan con el synth de los 80s",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detector-false-positives-threaten-indie-musicians-and-industry-1024x576.png",
-                "cap": "Crédito de la foto: André Grafert for International Artist Marketing (IAM)"
-              },
-              {
-                "t": "p",
-                "x": "Los detectores de IA pueden tachar de música de IA temas electro-synth hechos a mano, incluso temas originales creados en los 80s. Herramientas como SubmitHub, Let's Submit, TrackVerifier y ACRCloud han clasificado temas con cajas de ritmos, secuenciadores precisos, paisajes sonoros sintéticos y voces alteradas como \"posiblemente generados artificialmente\", lo que afecta especialmente al darkwave, el electro y el post-punk."
-              },
-              {
-                "t": "p",
-                "x": "En junio de 2026, el músico André Grafert (Coloured Tears), Hamburg-based, publicó DECAY / TIME — A Tribute to Twice a Man, 23 versiones hechas a mano sin IA generativa, y pronto recibió acusaciones públicas de usar IA. Ines Weidemann, de IAM, comprobó que SubmitHub calificaba los 23 temas como potencialmente AI-generated."
-              },
-              {
-                "t": "p",
-                "x": "Después probó las grabaciones originales del propio Twice a Man: siete fueron calificadas como \"possible AI/hybrid\" y dos incluso se atribuyeron a plataformas concretas: \"Treblo_v3\" para \"Across the Ocean\", de 1984, y \"ElevenLabs Music\" para \"In My Mind\", de 1982."
-              },
-              {
-                "t": "p",
-                "x": "Los detectores de IA no prueban nada; solo estiman probabilidades estadísticas. Con cuentas bloqueadas, lanzamientos retenidos y regalías congeladas que golpean sobre todo a la escena independiente, publicar producciones independientes actuales sigue siendo \"un juego de azar algorítmico\" hasta que se aclaren los filtros y los procedimientos de apelación."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI 탐지기, 1980s\n인간 음악까지 오판",
-          "body": "AI-music 탐지기가 1980s 일렉트로 신스 원곡을 AI로 판정한다.",
-          "mini_headline": "AI 탐지기, 80s 신스 오판",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detector-false-positives-threaten-indie-musicians-and-industry-1024x576.png",
-                "cap": "사진 제공: André Grafert for International Artist Marketing (IAM)"
-              },
-              {
-                "t": "p",
-                "x": "AI 탐지기는 손으로 만든 일렉트로 신스 성향의 곡을 AI 음악으로 낙인찍을 수 있다. 80s에 만든 원곡조차 예외가 아니다. SubmitHub, Let's Submit, TrackVerifier, ACRCloud 같은 도구는 머신 드럼, 정밀한 시퀀서, 합성 사운드스케이프, 변조된 목소리가 담긴 곡을 \"인공적으로 생성됐을 가능성\"이 있다고 분류해 왔고, 특히 다크웨이브, 일렉트로, 포스트펑크가 타격을 입었다."
-              },
-              {
-                "t": "p",
-                "x": "2026년 6월, 함부르크(Hamburg-based) 뮤지션 André Grafert(Coloured Tears)는 생성형 AI 없이 손으로 만든 커버 23곡을 담은 DECAY / TIME — A Tribute to Twice a Man을 발표했고, 곧 AI를 썼다는 공개 비난에 직면했다. IAM의 Ines Weidemann이 확인해 보니 SubmitHub는 23곡 모두를 AI-generated 곡일 가능성이 있다고 평가했다."
-              },
-              {
-                "t": "p",
-                "x": "그는 이어 Twice a Man의 원곡 녹음을 직접 시험했다. 일곱 곡이 \"possible AI/hybrid\"로 평가됐고, 두 곡은 특정 플랫폼까지 지목됐다. 1984년 곡 \"Across the Ocean\"은 \"Treblo_v3\", 1982년 곡 \"In My Mind\"는 \"ElevenLabs Music\"이었다."
-              },
-              {
-                "t": "p",
-                "x": "AI 탐지기는 아무것도 증명하지 못하며 통계적 확률을 추정할 뿐이다. 계정 차단, 발매 차단, 로열티 보류가 주로 인디 신을 덮치는 가운데, 필터와 이의 제기 절차가 명확해질 때까지 현대 인디 작품 발매는 \"알고리즘의 운에 맡긴 게임\"으로 남는다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI検出器が人の音楽を\n1980sの曲まで誤判定",
-          "body": "AI-music検出器が1980sのエレクトロ・シンセ原曲をAIと判定している。",
-          "mini_headline": "AI検出器、80sシンセを誤判定",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detector-false-positives-threaten-indie-musicians-and-industry-1024x576.png",
-                "cap": "写真：André Grafert for International Artist Marketing (IAM)"
-              },
-              {
-                "t": "p",
-                "x": "AI検出器は、手作りのエレクトロ・シンセ志向の曲をAI音楽と決めつけることがある。80sに作られたオリジナル曲でさえ例外ではない。SubmitHub、Let's Submit、TrackVerifier、ACRCloudなどのツールは、マシンドラム、精密なシーケンサー、シンセティックなサウンドスケープ、加工された声を含む曲を「人工的に生成された可能性がある」と分類しており、とりわけダークウェーブ、エレクトロ、ポストパンクが影響を受けている。"
-              },
-              {
-                "t": "p",
-                "x": "2026年6月、ハンブルク（Hamburg-based）のミュージシャンAndré Grafert（Coloured Tears）は、生成AIを使わずに手作りした23曲のカバー集『DECAY / TIME — A Tribute to Twice a Man』をリリースしたが、まもなくAI使用の疑いを公に向けられた。IAMのInes Weidemannが調べたところ、SubmitHubは23曲すべてをAI-generatedの可能性ありと評価していた。"
-              },
-              {
-                "t": "p",
-                "x": "彼女は続いてTwice a Man自身のオリジナル録音を検証した。七曲が「possible AI/hybrid」と評価され、二曲は特定のプラットフォームまで名指しされた。1984年の「Across the Ocean」は「Treblo_v3」、1982年の「In My Mind」は「ElevenLabs Music」とされた。"
-              },
-              {
-                "t": "p",
-                "x": "AI検出器は何も証明せず、統計的な確率を推定するにすぎない。アカウントやリリースの停止、ロイヤリティの保留が主にインディーシーンを直撃するなか、フィルターと異議申し立て手続きが明確になるまで、現代のインディー作品のリリースは「アルゴリズム任せの運試し」であり続ける。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI检测器误判人类音乐\n连1980s作品也难逃",
-          "body": "AI-music检测器把1980s电子合成器原创曲判为AI，独立音乐人恐遭误标。",
-          "mini_headline": "AI检测器误判80s合成器音乐",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detector-false-positives-threaten-indie-musicians-and-industry-1024x576.png",
-                "cap": "图片来源：André Grafert for International Artist Marketing (IAM)"
-              },
-              {
-                "t": "p",
-                "x": "AI检测器可能把手工制作的电子合成器风格曲目认定为AI音乐，甚至包括80s创作的原创曲目。SubmitHub、Let's Submit、TrackVerifier和ACRCloud等工具已将含有机器鼓、精确音序器、合成音景和变声处理的曲目归类为“可能由人工生成”，黑暗浪潮、电子和后朋克受影响尤甚。"
-              },
-              {
-                "t": "p",
-                "x": "2026年6月，汉堡（Hamburg-based）音乐人André Grafert（Coloured Tears）发行了《DECAY / TIME — A Tribute to Twice a Man》，收录23首未使用生成式AI、纯手工制作的翻唱，随即遭到公开指控称其使用AI。IAM的Ines Weidemann发现，SubmitHub将全部23首曲目评为可能是AI-generated。"
-              },
-              {
-                "t": "p",
-                "x": "她随后测试了Twice a Man本人的原始录音：七首被评为“possible AI/hybrid”，另有两首甚至被归到具体平台——1984年的“Across the Ocean”被指为“Treblo_v3”，1982年的“In My Mind”被指为“ElevenLabs Music”。"
-              },
-              {
-                "t": "p",
-                "x": "AI检测器什么也证明不了，只是在估算统计概率。账号封禁、作品下架和版税扣留主要冲击独立音乐圈，在过滤机制和申诉程序明确之前，发行现代独立作品仍是“一场算法的运气游戏”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Detectores de IA marcan música\nhumana, incluso de los 1980s",
-          "body": "Los detectores AI-music etiquetan como IA originales electro-synth de los 1980s, con riesgo para artistas indie.",
-          "mini_headline": "Los detectores de IA fallan con el synth de los 80s",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detector-false-positives-threaten-indie-musicians-and-industry-1024x576.png",
-                "cap": "Crédito de la foto: André Grafert for International Artist Marketing (IAM)"
-              },
-              {
-                "t": "p",
-                "x": "Los detectores de IA pueden tachar de música de IA temas electro-synth hechos a mano, incluso temas originales creados en los 80s. Herramientas como SubmitHub, Let's Submit, TrackVerifier y ACRCloud han clasificado temas con cajas de ritmos, secuenciadores precisos, paisajes sonoros sintéticos y voces alteradas como \"posiblemente generados artificialmente\", lo que afecta especialmente al darkwave, el electro y el post-punk."
-              },
-              {
-                "t": "p",
-                "x": "En junio de 2026, el músico André Grafert (Coloured Tears), Hamburg-based, publicó DECAY / TIME — A Tribute to Twice a Man, 23 versiones hechas a mano sin IA generativa, y pronto recibió acusaciones públicas de usar IA. Ines Weidemann, de IAM, comprobó que SubmitHub calificaba los 23 temas como potencialmente AI-generated."
-              },
-              {
-                "t": "p",
-                "x": "Después probó las grabaciones originales del propio Twice a Man: siete fueron calificadas como \"possible AI/hybrid\" y dos incluso se atribuyeron a plataformas concretas: \"Treblo_v3\" para \"Across the Ocean\", de 1984, y \"ElevenLabs Music\" para \"In My Mind\", de 1982."
-              },
-              {
-                "t": "p",
-                "x": "Los detectores de IA no prueban nada; solo estiman probabilidades estadísticas. Con cuentas bloqueadas, lanzamientos retenidos y regalías congeladas que golpean sobre todo a la escena independiente, publicar producciones independientes actuales sigue siendo \"un juego de azar algorítmico\" hasta que se aclaren los filtros y los procedimientos de apelación."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "mlc-udio-subpoena-opposition",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "MLC, Udio의\n스트리밍 소환장에 반발",
-      "body": "MLC는 Udio의 스트리밍 소환장에 직원 두세 주가 든다며 반대했다.",
-      "mini_headline": "MLC, Udio 소환장에 반대",
-      "tool": "Music",
-      "source": "Digital Music News",
-      "url": "https://www.digitalmusicnews.com/2026/11/03/udio-mlc-subpoena-opposition/",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -1247,305 +793,899 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/MLC-Udio-Subpoena-1024x546.jpg",
-            "cap": "Photo Credit: Logan Voss"
+            "src": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675"
           },
           {
             "t": "p",
-            "x": "Mechanical Licensing Collective(MLC)가 Udio(그리고 Suno)의 스트리밍 데이터 소환장에 한층 더 강하게 반대하고 나섰다. 응하려면 \"직원 업무 시간이 약 두세 주 필요하다\"는 주장이다. 직원당 시간당 비용은 $150에서 $315 사이다."
+            "x": "오디오 AI 기업 ElevenLabs는 목요일, 사용자가 자사 ElevenMusic 플랫폼으로 만든 AI 생성(AI-generated) 음악을 이제 SoundCloud에 바로 올릴 수 있다고 밝혔다. SoundCloud Artist Pro 사용자에게는 ElevenMusic Pro 석 달 이용권도 준다. ElevenMusic Pro에서는 매달 최대 1,000곡 생성과 500회 스템 분리, 맞춤 스타일이나 보컬 다섯 가지를 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "Udio와 Suno는 모두 The Campbell Firm의 Chris Campbell이 대리하며, MLC에 2021년까지 거슬러 올라가는 서비스별·레이블별 스트리밍 재생량 데이터를 내라고 요구하고 있다. 두 AI 플랫폼은 메이저 레이블들이 제기한 소송에서 이 데이터가 공정 이용과 저작권 남용 항변과 관련 있다고 본다."
+            "x": "회사는 2025년 첫 음악 생성 모델을 내놓은 뒤 2026년 4월 소비자용 앱을 냈다. 한 달 뒤에는 곡 중간에 장르를 바꾸는 모델도 선보였다. ElevenLabs에 따르면 지금까지 사용자들이 자사 모델로 만든 트랙은 2500만 곡이 넘는다."
           },
           {
             "t": "p",
-            "x": "MLC는 \"MLC는 녹음물이 아니라 음악 저작물의 로열티를 관리한다\"며 자신들은 DSPs의 월간 이용 보고서 사본만 받는다고 밝혔다. Udio가 이미 원고나 DSPs에서 해당 데이터를 확보한 것으로 보인다고도 덧붙였다."
+            "x": "“ElevenMusic 창작물을 자체 생태계 밖의 팬들에게 직접 전하는 첫 플랫폼이 되면서, 아티스트가 실험하고 작품을 공유하고 청중을 모을 새로운 가능성을 열고 있습니다.” SoundCloud CEO Eliah Seton의 말이다."
           },
           {
             "t": "p",
-            "x": "칠월 MLC 측 변호사는 업체 견적을 인용해 서비스 비용 약 5000달러와 AWS 호스팅 비용 $100+/TB/mo를 제시했다. 그 뒤 Pandora와 Apple Music 등 DSPs가 데이터 요구에 반발했다."
+            "x": "다른 플랫폼은 대체로 AI 음악에 표시를 붙이거나 걸러 내는 쪽이다. Deezer는 AI 음악을 걸러 내는 토글을 들여오는 중이고 Bandcamp는 AI 생성 트랙을 아예 금지했다. Spotify와 YouTube는 표시 문제에 좀 더 조심스럽게 접근해 왔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "MLC pushes back on\nUdio's streaming subpoena",
-          "body": "The MLC opposed Udio's streaming-data subpoena, saying compliance would cost two to three weeks of staff time.",
-          "mini_headline": "MLC opposes Udio subpoena",
+          "headline": "ElevenLabs sends AI music\nstraight to SoundCloud",
+          "body": "ElevenMusic now publishes tracks directly to SoundCloud, and ElevenLabs' models have made over 25 million tracks.",
+          "mini_headline": "ElevenLabs posts to SoundCloud",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/MLC-Udio-Subpoena-1024x546.jpg",
-                "cap": "Photo Credit: Logan Voss"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675"
               },
               {
                 "t": "p",
-                "x": "The Mechanical Licensing Collective (MLC) is doubling down on its opposition to Udio's (and Suno's) streaming-data subpoena, claiming that complying \"would require approximately two to three weeks of staff time\" at an hourly rate of between $150 and $315 per employee."
+                "x": "Audio AI company ElevenLabs on Thursday said users will be able to publish AI-generated music created using its ElevenMusic platform directly on SoundCloud. It is also offering SoundCloud Artist Pro users three months of ElevenMusic Pro, which lets you generate up to 1,000 songs, split songs’ stem files 500 times, and five custom styles or vocals per month."
               },
               {
                 "t": "p",
-                "x": "Udio and Suno, both repped by The Campbell Firm's Chris Campbell, want the MLC to turn over service- and label-specific stream-volume data dating back to 2021, which the AI platforms say is relevant to their fair use and copyright misuse defenses in the major labels' lawsuits."
+                "x": "The company first released a music-generation model in 2025, followed in April 2026 by a consumer app, and a month later a model that could switch genres mid-track. ElevenLabs said that users have so far created over 25 million tracks using its models."
               },
               {
                 "t": "p",
-                "x": "\"The MLC administers royalties for musical works, not sound recordings,\" the entity said, adding that it only receives copies of DSPs' monthly usage reports and that Udio appears to already have the data from the plaintiffs or the DSPs."
+                "x": "“By becoming the first platform to bring ElevenMusic creations directly to fans beyond its own ecosystem, we’re opening up new possibilities for artists to experiment, share their work, and build an audience,” SoundCloud CEO Eliah Seton said."
               },
               {
                 "t": "p",
-                "x": "In July, an MLC lawyer cited a vendor estimate of approx $5k in services and $100+/TB/mo AWS hosting, but DSPs including Pandora and Apple Music later pushed back on the data demand."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "MLC反对Udio的\n流媒体数据传票",
-          "body": "MLC反对Udio的流媒体数据传票，称配合需耗费员工两到三周时间。",
-          "mini_headline": "MLC反对Udio传票",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/MLC-Udio-Subpoena-1024x546.jpg",
-                "cap": "图片来源：Logan Voss"
-              },
-              {
-                "t": "p",
-                "x": "Mechanical Licensing Collective（MLC）正加码反对Udio（及Suno）的流媒体数据传票，称配合该传票“大约需要两到三周的员工时间”，每名员工时薪在$150至$315之间。"
-              },
-              {
-                "t": "p",
-                "x": "Udio和Suno均由The Campbell Firm的Chris Campbell代理，它们要求MLC提交可追溯至2021年、按服务和厂牌划分的流量数据。两家AI平台称，这些数据与其在主要唱片公司诉讼中的合理使用及版权滥用抗辩相关。"
-              },
-              {
-                "t": "p",
-                "x": "该机构表示：“MLC管理的是音乐作品的版税，而非录音制品。”并补充称，它只收到DSPs月度使用报告的副本，而Udio似乎已从原告或DSPs处获得这些数据。"
-              },
-              {
-                "t": "p",
-                "x": "7月，一名MLC律师援引供应商估算称，服务费用约$5k，AWS托管费用为$100+/TB/mo，但Pandora和Apple Music等DSPs随后对该数据要求提出异议。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La MLC se opone a la citación\nde datos de streaming de Udio",
-          "body": "La MLC rechaza la citación de datos de streaming de Udio: cumplirla costaría dos a tres semanas de personal.",
-          "mini_headline": "La MLC se opone a la citación de Udio",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/MLC-Udio-Subpoena-1024x546.jpg",
-                "cap": "Crédito de la foto: Logan Voss"
-              },
-              {
-                "t": "p",
-                "x": "La Mechanical Licensing Collective (MLC) redobla su oposición a la citación de datos de streaming de Udio (y de Suno), y alega que cumplirla \"requeriría aproximadamente dos a tres semanas de tiempo del personal\" a una tarifa por hora de entre $150 y $315 por empleado."
-              },
-              {
-                "t": "p",
-                "x": "Udio y Suno, ambas representadas por Chris Campbell, de The Campbell Firm, quieren que la MLC entregue datos de volumen de streams por servicio y por sello desde 2021, que según estas plataformas de IA son relevantes para sus defensas de uso legítimo y abuso de copyright en las demandas de las grandes discográficas."
-              },
-              {
-                "t": "p",
-                "x": "\"La MLC administra regalías de obras musicales, no de grabaciones sonoras\", afirmó la entidad, y añadió que solo recibe copias de los informes mensuales de uso de los DSPs y que Udio parece tener ya los datos de los demandantes o de los DSPs."
-              },
-              {
-                "t": "p",
-                "x": "En julio, un abogado de la MLC citó una estimación de un proveedor de aproximadamente $5k en servicios y $100+/TB/mo de alojamiento en AWS, pero DSPs como Pandora y Apple Music se opusieron después a la solicitud de datos."
+                "x": "Other platforms lean toward labeling or filtering AI music: Deezer is introducing a toggle to filter it out, Bandcamp has banned AI-generated tracks, and Spotify and YouTube have taken a more cautious approach to labeling."
               }
             ]
           }
         },
         "ko": {
-          "headline": "MLC, Udio의\n스트리밍 소환장에 반발",
-          "body": "MLC는 Udio의 스트리밍 소환장에 직원 두세 주가 든다며 반대했다.",
-          "mini_headline": "MLC, Udio 소환장에 반대",
+          "headline": "ElevenLabs 음악,\nSoundCloud로 직행",
+          "body": "이제 ElevenMusic으로 만든 곡을 SoundCloud에 바로 올린다.",
+          "mini_headline": "ElevenLabs, SoundCloud에 바로 게시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/MLC-Udio-Subpoena-1024x546.jpg",
-                "cap": "Photo Credit: Logan Voss"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675"
               },
               {
                 "t": "p",
-                "x": "Mechanical Licensing Collective(MLC)가 Udio(그리고 Suno)의 스트리밍 데이터 소환장에 한층 더 강하게 반대하고 나섰다. 응하려면 \"직원 업무 시간이 약 두세 주 필요하다\"는 주장이다. 직원당 시간당 비용은 $150에서 $315 사이다."
+                "x": "오디오 AI 기업 ElevenLabs는 목요일, 사용자가 자사 ElevenMusic 플랫폼으로 만든 AI 생성(AI-generated) 음악을 이제 SoundCloud에 바로 올릴 수 있다고 밝혔다. SoundCloud Artist Pro 사용자에게는 ElevenMusic Pro 석 달 이용권도 준다. ElevenMusic Pro에서는 매달 최대 1,000곡 생성과 500회 스템 분리, 맞춤 스타일이나 보컬 다섯 가지를 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "Udio와 Suno는 모두 The Campbell Firm의 Chris Campbell이 대리하며, MLC에 2021년까지 거슬러 올라가는 서비스별·레이블별 스트리밍 재생량 데이터를 내라고 요구하고 있다. 두 AI 플랫폼은 메이저 레이블들이 제기한 소송에서 이 데이터가 공정 이용과 저작권 남용 항변과 관련 있다고 본다."
+                "x": "회사는 2025년 첫 음악 생성 모델을 내놓은 뒤 2026년 4월 소비자용 앱을 냈다. 한 달 뒤에는 곡 중간에 장르를 바꾸는 모델도 선보였다. ElevenLabs에 따르면 지금까지 사용자들이 자사 모델로 만든 트랙은 2500만 곡이 넘는다."
               },
               {
                 "t": "p",
-                "x": "MLC는 \"MLC는 녹음물이 아니라 음악 저작물의 로열티를 관리한다\"며 자신들은 DSPs의 월간 이용 보고서 사본만 받는다고 밝혔다. Udio가 이미 원고나 DSPs에서 해당 데이터를 확보한 것으로 보인다고도 덧붙였다."
+                "x": "“ElevenMusic 창작물을 자체 생태계 밖의 팬들에게 직접 전하는 첫 플랫폼이 되면서, 아티스트가 실험하고 작품을 공유하고 청중을 모을 새로운 가능성을 열고 있습니다.” SoundCloud CEO Eliah Seton의 말이다."
               },
               {
                 "t": "p",
-                "x": "칠월 MLC 측 변호사는 업체 견적을 인용해 서비스 비용 약 5000달러와 AWS 호스팅 비용 $100+/TB/mo를 제시했다. 그 뒤 Pandora와 Apple Music 등 DSPs가 데이터 요구에 반발했다."
+                "x": "다른 플랫폼은 대체로 AI 음악에 표시를 붙이거나 걸러 내는 쪽이다. Deezer는 AI 음악을 걸러 내는 토글을 들여오는 중이고 Bandcamp는 AI 생성 트랙을 아예 금지했다. Spotify와 YouTube는 표시 문제에 좀 더 조심스럽게 접근해 왔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MLC、Udioの\n配信データ召喚状に反発",
-          "body": "MLCはUdioの配信データ召喚状に反対し、職員の作業に二～三週間かかると述べた。",
-          "mini_headline": "MLC、Udio召喚状に反対",
+          "headline": "ElevenLabsのAI曲\nSoundCloudへ直送",
+          "body": "ElevenMusicの曲をSoundCloudへ直接公開できるようになった。",
+          "mini_headline": "ElevenLabs、SoundCloudへ直接投稿",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/MLC-Udio-Subpoena-1024x546.jpg",
-                "cap": "Photo Credit: Logan Voss"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675"
               },
               {
                 "t": "p",
-                "x": "Mechanical Licensing Collective（MLC）は、Udio（およびSuno）のストリーミングデータ召喚状への反対姿勢を一段と強め、応じるには「職員の作業時間がおよそ二～三週間必要になる」と主張した。職員一人あたりの時給は$150から$315だという。"
+                "x": "音声AI企業のElevenLabsは木曜日、同社のElevenMusicプラットフォームで作ったAI生成（AI-generated）音楽をSoundCloudに直接公開できるようになると発表した。SoundCloud Artist Proのユーザーには、ElevenMusic Proの三か月分も提供する。ElevenMusic Proでは毎月、最大1,000曲の生成、500回のステム分離、五つのカスタムスタイルまたはボーカルが使える。"
               },
               {
                 "t": "p",
-                "x": "UdioとSunoはいずれもThe Campbell FirmのChris Campbellが代理人を務めており、MLCに対し2021年までさかのぼるサービス別・レーベル別のストリーム再生数データの提出を求めている。両AIプラットフォームは、このデータがメジャーレーベルによる訴訟でのフェアユースおよび著作権濫用の抗弁に関係すると主張している。"
+                "x": "同社は2025年に初の音楽生成モデルを公開し、2026年4月に一般向けアプリを、その一か月後には曲の途中でジャンルを切り替えられるモデルを発表した。ElevenLabsによると、ユーザーはこれまでに同社のモデルで2500万曲を超えるトラックを作成したという。"
               },
               {
                 "t": "p",
-                "x": "「MLCが管理するのは音楽作品のロイヤルティであり、録音物のものではない」と同団体は述べ、自らはDSPsの月次利用報告の写しを受け取っているにすぎず、Udioは原告またはDSPsからすでにデータを入手しているとみられると付け加えた。"
+                "x": "「ElevenMusicの作品を自社エコシステムの外のファンに直接届ける初のプラットフォームとなることで、アーティストが実験し、作品を共有し、聴衆を築く新たな可能性を開いている」と、SoundCloudのCEO、Eliah Seton氏は述べた。"
               },
               {
                 "t": "p",
-                "x": "七月、MLCの弁護士はベンダーの見積もりを引用し、サービス費用がおよそ5000ドル、AWSのホスティング費用が$100+/TB/moだと示したが、その後PandoraやApple MusicなどのDSPsがデータ要求に反発した。"
+                "x": "他のプラットフォームはAI音楽へのラベル付けや除外に傾いている。DeezerはAI音楽を除外するトグルを導入中で、BandcampはAI生成トラックを禁止し、SpotifyとYouTubeはラベル付けにより慎重な姿勢をとっている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "ElevenLabs音乐\n直发SoundCloud",
+          "body": "ElevenMusic作品可直接发布到SoundCloud，模型已生成超2500万首曲目。",
+          "mini_headline": "ElevenLabs直发SoundCloud",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675"
+              },
+              {
+                "t": "p",
+                "x": "音频AI公司ElevenLabs周四表示，用户将能把通过其ElevenMusic平台创作的AI生成（AI-generated）音乐直接发布到SoundCloud。公司还向SoundCloud Artist Pro用户提供三个月的ElevenMusic Pro，该服务每月可生成最多1,000首歌曲、拆分分轨文件500次，并使用五种自定义风格或人声。"
+              },
+              {
+                "t": "p",
+                "x": "该公司于2025年首次发布音乐生成模型，2026年4月推出面向消费者的应用，一个月后又发布了可在曲中切换曲风的模型。ElevenLabs表示，迄今用户已使用其模型创作了超过2500万首曲目。"
+              },
+              {
+                "t": "p",
+                "x": "SoundCloud首席执行官Eliah Seton表示：“作为首个将ElevenMusic作品直接带给其自身生态之外粉丝的平台，我们正在为艺术家开启尝试、分享作品和积累听众的新可能。”"
+              },
+              {
+                "t": "p",
+                "x": "其他平台则倾向于为AI音乐加标签或进行过滤：Deezer正在推出过滤此类音乐的开关，Bandcamp已禁止AI生成的曲目，Spotify和YouTube则在标签问题上采取了更谨慎的做法。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "ElevenLabs envía música de IA\ndirectamente a SoundCloud",
+          "body": "ElevenMusic ya publica directamente en SoundCloud y los modelos de ElevenLabs suman más de 25 millones de temas.",
+          "mini_headline": "ElevenLabs publica en SoundCloud",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675"
+              },
+              {
+                "t": "p",
+                "x": "La empresa de IA de audio ElevenLabs anunció el jueves que los usuarios podrán publicar directamente en SoundCloud la música generada por IA (AI-generated) creada con su plataforma ElevenMusic. También ofrece a los usuarios de SoundCloud Artist Pro tres meses de ElevenMusic Pro, que permite generar hasta 1.000 canciones al mes, separar los stems de las canciones 500 veces y usar cinco estilos o voces personalizados."
+              },
+              {
+                "t": "p",
+                "x": "La compañía lanzó su primer modelo de generación musical en 2025, al que siguieron una aplicación para consumidores en abril de 2026 y, un mes después, un modelo capaz de cambiar de género a mitad de una pista. ElevenLabs afirma que hasta ahora los usuarios han creado más de 25 millones de pistas con sus modelos."
+              },
+              {
+                "t": "p",
+                "x": "“Al convertirnos en la primera plataforma que lleva las creaciones de ElevenMusic directamente a los fans más allá de su propio ecosistema, abrimos nuevas posibilidades para que los artistas experimenten, compartan su trabajo y formen una audiencia”, dijo Eliah Seton, CEO de SoundCloud."
+              },
+              {
+                "t": "p",
+                "x": "Otras plataformas se inclinan por etiquetar o filtrar la música de IA: Deezer está introduciendo un interruptor para excluirla, Bandcamp ha prohibido las pistas generadas por IA, y Spotify y YouTube han adoptado un enfoque más cauteloso con el etiquetado."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "zh": {
-          "headline": "MLC反对Udio的\n流媒体数据传票",
-          "body": "MLC反对Udio的流媒体数据传票，称配合需耗费员工两到三周时间。",
-          "mini_headline": "MLC反对Udio传票",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/MLC-Udio-Subpoena-1024x546.jpg",
-                "cap": "图片来源：Logan Voss"
-              },
-              {
-                "t": "p",
-                "x": "Mechanical Licensing Collective（MLC）正加码反对Udio（及Suno）的流媒体数据传票，称配合该传票“大约需要两到三周的员工时间”，每名员工时薪在$150至$315之间。"
-              },
-              {
-                "t": "p",
-                "x": "Udio和Suno均由The Campbell Firm的Chris Campbell代理，它们要求MLC提交可追溯至2021年、按服务和厂牌划分的流量数据。两家AI平台称，这些数据与其在主要唱片公司诉讼中的合理使用及版权滥用抗辩相关。"
-              },
-              {
-                "t": "p",
-                "x": "该机构表示：“MLC管理的是音乐作品的版税，而非录音制品。”并补充称，它只收到DSPs月度使用报告的副本，而Udio似乎已从原告或DSPs处获得这些数据。"
-              },
-              {
-                "t": "p",
-                "x": "7月，一名MLC律师援引供应商估算称，服务费用约$5k，AWS托管费用为$100+/TB/mo，但Pandora和Apple Music等DSPs随后对该数据要求提出异议。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La MLC se opone a la citación\nde datos de streaming de Udio",
-          "body": "La MLC rechaza la citación de datos de streaming de Udio: cumplirla costaría dos a tres semanas de personal.",
-          "mini_headline": "La MLC se opone a la citación de Udio",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/MLC-Udio-Subpoena-1024x546.jpg",
-                "cap": "Crédito de la foto: Logan Voss"
-              },
-              {
-                "t": "p",
-                "x": "La Mechanical Licensing Collective (MLC) redobla su oposición a la citación de datos de streaming de Udio (y de Suno), y alega que cumplirla \"requeriría aproximadamente dos a tres semanas de tiempo del personal\" a una tarifa por hora de entre $150 y $315 por empleado."
-              },
-              {
-                "t": "p",
-                "x": "Udio y Suno, ambas representadas por Chris Campbell, de The Campbell Firm, quieren que la MLC entregue datos de volumen de streams por servicio y por sello desde 2021, que según estas plataformas de IA son relevantes para sus defensas de uso legítimo y abuso de copyright en las demandas de las grandes discográficas."
-              },
-              {
-                "t": "p",
-                "x": "\"La MLC administra regalías de obras musicales, no de grabaciones sonoras\", afirmó la entidad, y añadió que solo recibe copias de los informes mensuales de uso de los DSPs y que Udio parece tener ya los datos de los demandantes o de los DSPs."
-              },
-              {
-                "t": "p",
-                "x": "En julio, un abogado de la MLC citó una estimación de un proveedor de aproximadamente $5k en servicios y $100+/TB/mo de alojamiento en AWS, pero DSPs como Pandora y Apple Music se opusieron después a la solicitud de datos."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "MLC, Udio의\n스트리밍 소환장에 반발",
-          "body": "MLC는 Udio의 스트리밍 소환장에 직원 두세 주가 든다며 반대했다.",
-          "mini_headline": "MLC, Udio 소환장에 반대",
+          "headline": "ElevenLabs 음악,\nSoundCloud로 직행",
+          "body": "이제 ElevenMusic 곡을 SoundCloud에 바로 올릴 수 있다.",
+          "mini_headline": "ElevenLabs, SoundCloud에 바로 게시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/MLC-Udio-Subpoena-1024x546.jpg",
-                "cap": "Photo Credit: Logan Voss"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675"
               },
               {
                 "t": "p",
-                "x": "Mechanical Licensing Collective(MLC)는 Udio(그리고 Suno)의 스트리밍 데이터 소환장에 대한 반대 입장을 한층 굳히며, 이에 응하려면 \"직원 업무 시간이 약 두세 주 필요하다\"고 주장했다. 직원당 시간당 비용은 $150에서 $315 사이다."
+                "x": "오디오 AI 기업 ElevenLabs는 목요일, 사용자가 자사 ElevenMusic 플랫폼으로 만든 AI 생성(AI-generated) 음악을 SoundCloud에 바로 게시할 수 있게 된다고 밝혔다. SoundCloud Artist Pro 사용자에게는 ElevenMusic Pro 석 달 이용권도 제공한다. ElevenMusic Pro로는 매달 최대 1,000곡 생성, 500회 스템 분리, 다섯 가지 맞춤 스타일 또는 보컬을 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "Udio와 Suno는 모두 The Campbell Firm의 Chris Campbell이 대리하고 있으며, MLC에 2021년까지 거슬러 올라가는 서비스별·레이블별 스트리밍 재생량 데이터를 제출하라고 요구하고 있다. 두 AI 플랫폼은 이 데이터가 메이저 레이블들이 제기한 소송에서 공정 이용과 저작권 남용 항변에 관련된다고 본다."
+                "x": "회사는 2025년 첫 음악 생성 모델을 내놓았고, 2026년 4월 소비자용 앱을, 한 달 뒤에는 곡 중간에 장르를 바꿀 수 있는 모델을 선보였다. ElevenLabs는 지금까지 사용자들이 자사 모델로 2500만 곡이 넘는 트랙을 만들었다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "MLC는 \"MLC는 녹음물이 아니라 음악 저작물의 로열티를 관리한다\"고 밝히며, 자신들은 DSPs의 월간 이용 보고서 사본만 받을 뿐이고 Udio는 이미 원고나 DSPs로부터 해당 데이터를 확보한 것으로 보인다고 덧붙였다."
+                "x": "“ElevenMusic 창작물을 자체 생태계 밖의 팬들에게 직접 전하는 첫 플랫폼이 되면서, 아티스트가 실험하고 작품을 공유하고 청중을 모을 새로운 가능성을 열고 있습니다.” SoundCloud CEO Eliah Seton의 말이다."
               },
               {
                 "t": "p",
-                "x": "칠월 MLC 측 변호사는 업체 견적을 인용해 서비스 비용 약 5000달러와 AWS 호스팅 비용 $100+/TB/mo를 제시했지만, 이후 Pandora와 Apple Music 등 DSPs가 데이터 요구에 반발했다."
+                "x": "다른 플랫폼들은 AI 음악에 표시를 붙이거나 걸러 내는 쪽으로 기운다. Deezer는 AI 음악을 걸러 내는 토글을 도입하고 있고, Bandcamp는 AI 생성 트랙을 금지했으며, Spotify와 YouTube는 표시 문제에 더 신중한 태도를 보여 왔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MLC、Udioの\n配信データ召喚状に反発",
-          "body": "MLCはUdioの配信データ召喚状に反対し、職員の作業に二～三週間かかると述べた。",
-          "mini_headline": "MLC、Udio召喚状に反対",
+          "headline": "ElevenLabsのAI曲\nSoundCloudへ直送",
+          "body": "ElevenMusicの曲をSoundCloudへ直接公開できるようになった。",
+          "mini_headline": "ElevenLabs、SoundCloudへ直接投稿",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/MLC-Udio-Subpoena-1024x546.jpg",
-                "cap": "Photo Credit: Logan Voss"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675"
               },
               {
                 "t": "p",
-                "x": "Mechanical Licensing Collective（MLC）は、Udio（およびSuno）のストリーミングデータ召喚状への反対姿勢を一段と強め、応じるには「職員の作業時間がおよそ二～三週間必要になる」と主張した。職員一人あたりの時給は$150から$315だという。"
+                "x": "音声AI企業のElevenLabsは木曜日、同社のElevenMusicプラットフォームで作ったAI生成（AI-generated）音楽をSoundCloudに直接公開できるようになると発表した。SoundCloud Artist Proのユーザーには、ElevenMusic Proの三か月分も提供する。ElevenMusic Proでは毎月、最大1,000曲の生成、500回のステム分離、五つのカスタムスタイルまたはボーカルが使える。"
               },
               {
                 "t": "p",
-                "x": "UdioとSunoはいずれもThe Campbell FirmのChris Campbellが代理人を務めており、MLCに対し2021年までさかのぼるサービス別・レーベル別のストリーム再生数データの提出を求めている。両AIプラットフォームは、このデータがメジャーレーベルによる訴訟でのフェアユースおよび著作権濫用の抗弁に関係すると主張している。"
+                "x": "同社は2025年に初の音楽生成モデルを公開し、2026年4月に一般向けアプリを、その一か月後には曲の途中でジャンルを切り替えられるモデルを発表した。ElevenLabsによると、ユーザーはこれまでに同社のモデルで2500万曲を超えるトラックを作成したという。"
               },
               {
                 "t": "p",
-                "x": "「MLCが管理するのは音楽作品のロイヤルティであり、録音物のものではない」と同団体は述べ、自らはDSPsの月次利用報告の写しを受け取っているにすぎず、Udioは原告またはDSPsからすでにデータを入手しているとみられると付け加えた。"
+                "x": "「ElevenMusicの作品を自社エコシステムの外のファンに直接届ける初のプラットフォームとなることで、アーティストが実験し、作品を共有し、聴衆を築く新たな可能性を開いている」と、SoundCloudのCEO、Eliah Seton氏は述べた。"
               },
               {
                 "t": "p",
-                "x": "七月、MLCの弁護士はベンダーの見積もりを引用し、サービス費用がおよそ5000ドル、AWSのホスティング費用が$100+/TB/moだと示したが、その後PandoraやApple MusicなどのDSPsがデータ要求に反発した。"
+                "x": "他のプラットフォームはAI音楽へのラベル付けや除外に傾いている。DeezerはAI音楽を除外するトグルを導入中で、BandcampはAI生成トラックを禁止し、SpotifyとYouTubeはラベル付けにより慎重な姿勢をとっている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "ElevenLabs音乐\n直发SoundCloud",
+          "body": "ElevenMusic作品可直接发布到SoundCloud，模型已生成超2500万首曲目。",
+          "mini_headline": "ElevenLabs直发SoundCloud",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675"
+              },
+              {
+                "t": "p",
+                "x": "音频AI公司ElevenLabs周四表示，用户将能把通过其ElevenMusic平台创作的AI生成（AI-generated）音乐直接发布到SoundCloud。公司还向SoundCloud Artist Pro用户提供三个月的ElevenMusic Pro，该服务每月可生成最多1,000首歌曲、拆分分轨文件500次，并使用五种自定义风格或人声。"
+              },
+              {
+                "t": "p",
+                "x": "该公司于2025年首次发布音乐生成模型，2026年4月推出面向消费者的应用，一个月后又发布了可在曲中切换曲风的模型。ElevenLabs表示，迄今用户已使用其模型创作了超过2500万首曲目。"
+              },
+              {
+                "t": "p",
+                "x": "SoundCloud首席执行官Eliah Seton表示：“作为首个将ElevenMusic作品直接带给其自身生态之外粉丝的平台，我们正在为艺术家开启尝试、分享作品和积累听众的新可能。”"
+              },
+              {
+                "t": "p",
+                "x": "其他平台则倾向于为AI音乐加标签或进行过滤：Deezer正在推出过滤此类音乐的开关，Bandcamp已禁止AI生成的曲目，Spotify和YouTube则在标签问题上采取了更谨慎的做法。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "ElevenLabs envía música de IA\ndirectamente a SoundCloud",
+          "body": "ElevenMusic ya publica directamente en SoundCloud y los modelos de ElevenLabs suman más de 25 millones de temas.",
+          "mini_headline": "ElevenLabs publica en SoundCloud",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675"
+              },
+              {
+                "t": "p",
+                "x": "La empresa de IA de audio ElevenLabs anunció el jueves que los usuarios podrán publicar directamente en SoundCloud la música generada por IA (AI-generated) creada con su plataforma ElevenMusic. También ofrece a los usuarios de SoundCloud Artist Pro tres meses de ElevenMusic Pro, que permite generar hasta 1.000 canciones al mes, separar los stems de las canciones 500 veces y usar cinco estilos o voces personalizados."
+              },
+              {
+                "t": "p",
+                "x": "La compañía lanzó su primer modelo de generación musical en 2025, al que siguieron una aplicación para consumidores en abril de 2026 y, un mes después, un modelo capaz de cambiar de género a mitad de una pista. ElevenLabs afirma que hasta ahora los usuarios han creado más de 25 millones de pistas con sus modelos."
+              },
+              {
+                "t": "p",
+                "x": "“Al convertirnos en la primera plataforma que lleva las creaciones de ElevenMusic directamente a los fans más allá de su propio ecosistema, abrimos nuevas posibilidades para que los artistas experimenten, compartan su trabajo y formen una audiencia”, dijo Eliah Seton, CEO de SoundCloud."
+              },
+              {
+                "t": "p",
+                "x": "Otras plataformas se inclinan por etiquetar o filtrar la música de IA: Deezer está introduciendo un interruptor para excluirla, Bandcamp ha prohibido las pistas generadas por IA, y Spotify y YouTube han adoptado un enfoque más cauteloso con el etiquetado."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "ddex-elevenlabs-membership",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "DDEX 첫 AI 회원에\nElevenLabs 가입",
+      "body": "음악 메타데이터 기구 DDEX가 ElevenLabs를 첫 AI 회원으로 맞았다.",
+      "mini_headline": "DDEX 첫 AI 회원",
+      "tool": "Music",
+      "source": "Digital Music News",
+      "url": "https://www.digitalmusicnews.com/2026/11/05/ddex-elevenlabs-first-ai-company/",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ddex-announces-elevenlabs-as-first-ai-company-to-join-membership.png",
+            "cap": "사진 출처: DDEX x ElevenLabs"
+          },
+          {
+            "t": "p",
+            "x": "음악 산업의 비영리 국제 표준 제정 기구인 Digital Data Exchange(DDEX)가 ElevenLabs를 정회원으로 받아들였다고 발표했다. AI 기업으로는 처음이다. DDEX 회원은 음악·기술 분야 기업과 개인을 합쳐 150곳이 넘는다."
+          },
+          {
+            "t": "p",
+            "x": "DDEX 사무국의 Mark Isherwood는 “음악 시장을 이끄는 AI 기업 중 하나로서 이들의 전문성은 풍부한 통찰을 줄 것”이라고 말했다. ElevenLabs의 Gabriella Heybourne은 “총회와 워킹그룹에 참여해 AI를 비롯한 음악 정보 전달 방식을 함께 만들어 가기를 기대한다”고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "ElevenLabs는 DDEX AI 워킹그룹이 9월 9일과 10일 내슈빌에서 첫 대면 회의를 연 뒤 합류했다. 워킹그룹은 생성형 AI 선언 표준(GAI-D) 위원회 초안의 의견 수렴을 마쳤다. 초안은 동료 검토를 거쳐 2027년 초 공개된다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "DDEX admits ElevenLabs as\nits first AI member",
+          "body": "Music metadata body DDEX has made ElevenLabs its first AI member, giving it a seat in setting industry data standards.",
+          "mini_headline": "DDEX's first AI member",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ddex-announces-elevenlabs-as-first-ai-company-to-join-membership.png",
+                "cap": "Photo Credit: DDEX x ElevenLabs"
+              },
+              {
+                "t": "p",
+                "x": "Digital Data Exchange (DDEX), the not-for-profit international standards-setting organization for the music industry, has announced ElevenLabs joining as a full member—the first AI company to do so. DDEX’s membership includes more than 150 companies and individuals in music and technology."
+              },
+              {
+                "t": "p",
+                "x": "“As one of the leading AI companies in the music marketplace, their expertise will provide a plethora of insight,” said Mark Isherwood, DDEX Secretariat. “We’re looking forward to taking part in their plenaries and working groups to help shape their approach to the communication of music, as it relates to AI and more,” said Gabriella Heybourne of ElevenLabs."
+              },
+              {
+                "t": "p",
+                "x": "ElevenLabs joins after DDEX’s AI Working Group held its first physical meeting in Nashville on September 9 and 10. The group has finished soliciting comments on the committee draft of its Generative AI Declaration Standard (GAI-D), which moves to peer review before publication in early 2027."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "DDEX 첫 AI 회원에\nElevenLabs 가입",
+          "body": "음악 메타데이터 기구 DDEX가 ElevenLabs를 첫 AI 회원으로 맞았다.",
+          "mini_headline": "DDEX 첫 AI 회원",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ddex-announces-elevenlabs-as-first-ai-company-to-join-membership.png",
+                "cap": "사진 출처: DDEX x ElevenLabs"
+              },
+              {
+                "t": "p",
+                "x": "음악 산업의 비영리 국제 표준 제정 기구인 Digital Data Exchange(DDEX)가 ElevenLabs를 정회원으로 받아들였다고 발표했다. AI 기업으로는 처음이다. DDEX 회원은 음악·기술 분야 기업과 개인을 합쳐 150곳이 넘는다."
+              },
+              {
+                "t": "p",
+                "x": "DDEX 사무국의 Mark Isherwood는 “음악 시장을 이끄는 AI 기업 중 하나로서 이들의 전문성은 풍부한 통찰을 줄 것”이라고 말했다. ElevenLabs의 Gabriella Heybourne은 “총회와 워킹그룹에 참여해 AI를 비롯한 음악 정보 전달 방식을 함께 만들어 가기를 기대한다”고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "ElevenLabs는 DDEX AI 워킹그룹이 9월 9일과 10일 내슈빌에서 첫 대면 회의를 연 뒤 합류했다. 워킹그룹은 생성형 AI 선언 표준(GAI-D) 위원회 초안의 의견 수렴을 마쳤다. 초안은 동료 검토를 거쳐 2027년 초 공개된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "DDEX、初のAI会員に\nElevenLabsを迎える",
+          "body": "音楽メタデータ団体DDEXが、ElevenLabsを初のAI会員に迎えた。",
+          "mini_headline": "DDEX初のAI会員",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ddex-announces-elevenlabs-as-first-ai-company-to-join-membership.png",
+                "cap": "写真提供：DDEX x ElevenLabs"
+              },
+              {
+                "t": "p",
+                "x": "音楽業界の非営利の国際標準化団体Digital Data Exchange（DDEX）は、ElevenLabsが正会員として加わったと発表した。AI企業としては初めてだ。DDEXの会員には、音楽とテクノロジー分野の150を超える企業と個人が名を連ねる。"
+              },
+              {
+                "t": "p",
+                "x": "「音楽市場をリードするAI企業の一つとして、彼らの専門知識は多くの洞察をもたらすだろう」とDDEX事務局のMark Isherwood氏は述べた。ElevenLabsのGabriella Heybourne氏は「総会やワーキンググループに参加し、AIなどに関わる音楽情報のやり取りのあり方づくりに貢献できることを楽しみにしている」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "ElevenLabsの加入は、DDEXのAIワーキンググループが9月9日と10日にナッシュビルで初の対面会合を開いた後のことだ。同グループは生成AI申告標準（GAI-D）の委員会草案に対する意見募集を終えており、草案はピアレビューを経て2027年初めに公開される予定だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "DDEX迎来首个\nAI会员ElevenLabs",
+          "body": "音乐元数据组织DDEX接纳ElevenLabs为首个AI会员，使其参与制定行业数据标准。",
+          "mini_headline": "DDEX首个AI会员",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ddex-announces-elevenlabs-as-first-ai-company-to-join-membership.png",
+                "cap": "图片来源：DDEX x ElevenLabs"
+              },
+              {
+                "t": "p",
+                "x": "音乐产业的非营利国际标准制定组织Digital Data Exchange（DDEX）宣布，ElevenLabs以正式会员身份加入，成为首家加入的AI公司。DDEX的会员包括音乐和科技领域的150多家公司和个人。"
+              },
+              {
+                "t": "p",
+                "x": "DDEX秘书处的Mark Isherwood表示：“作为音乐市场领先的AI公司之一，他们的专业知识将带来丰富的洞见。”ElevenLabs的Gabriella Heybourne则表示：“我们期待参与他们的全体会议和工作组，帮助塑造与AI等相关的音乐信息传递方式。”"
+              },
+              {
+                "t": "p",
+                "x": "在ElevenLabs加入之前，DDEX的AI工作组于9月9日至10日在纳什维尔举行了首次线下会议。该工作组已完成对其生成式AI声明标准（GAI-D）委员会草案的意见征集，草案将进入同行评审，并于2027年初发布。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "DDEX admite a ElevenLabs como\nsu primer miembro de IA",
+          "body": "DDEX, entidad de metadatos musicales, admite a ElevenLabs como su primer miembro de IA y le da voz en sus estándares.",
+          "mini_headline": "El primer miembro de IA de DDEX",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ddex-announces-elevenlabs-as-first-ai-company-to-join-membership.png",
+                "cap": "Foto: DDEX x ElevenLabs"
+              },
+              {
+                "t": "p",
+                "x": "Digital Data Exchange (DDEX), la organización internacional sin ánimo de lucro que fija estándares para la industria musical, ha anunciado la incorporación de ElevenLabs como miembro de pleno derecho, la primera empresa de IA en hacerlo. Entre los miembros de DDEX figuran más de 150 empresas y particulares del ámbito de la música y la tecnología."
+              },
+              {
+                "t": "p",
+                "x": "“Como una de las principales empresas de IA del mercado musical, su experiencia aportará una gran cantidad de conocimiento”, dijo Mark Isherwood, de la Secretaría de DDEX. “Esperamos participar en sus plenarios y grupos de trabajo para ayudar a definir su enfoque sobre la comunicación de la música, en lo relativo a la IA y más”, dijo Gabriella Heybourne, de ElevenLabs."
+              },
+              {
+                "t": "p",
+                "x": "ElevenLabs se une después de que el grupo de trabajo de IA de DDEX celebrara su primera reunión presencial en Nashville los días 9 y 10 de septiembre. El grupo ha terminado de recabar comentarios sobre el borrador de comité de su Generative AI Declaration Standard (GAI-D), que pasará a revisión por pares antes de publicarse a principios de 2027."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "DDEX 첫 AI 회원에\nElevenLabs 가입",
+          "body": "음악 메타데이터 기구 DDEX가 ElevenLabs를 첫 AI 회원으로 받았다.",
+          "mini_headline": "DDEX 첫 AI 회원",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ddex-announces-elevenlabs-as-first-ai-company-to-join-membership.png",
+                "cap": "사진 출처: DDEX x ElevenLabs"
+              },
+              {
+                "t": "p",
+                "x": "음악 산업의 비영리 국제 표준 제정 기구 Digital Data Exchange(DDEX)가 ElevenLabs의 정회원 가입을 발표했다. AI 기업으로는 처음이다. DDEX에는 음악과 기술 분야의 기업과 개인 150곳 이상이 회원으로 참여하고 있다."
+              },
+              {
+                "t": "p",
+                "x": "DDEX 사무국의 Mark Isherwood는 “음악 시장을 이끄는 AI 기업 중 하나로서 이들의 전문성은 풍부한 통찰을 줄 것”이라고 말했다. ElevenLabs의 Gabriella Heybourne은 “총회와 워킹그룹에 참여해 AI를 비롯한 음악 정보 전달 방식을 함께 만들어 가기를 기대한다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "ElevenLabs의 합류는 DDEX AI 워킹그룹이 9월 9일과 10일 내슈빌에서 첫 대면 회의를 연 뒤 이뤄졌다. 이 그룹은 생성형 AI 선언 표준(GAI-D) 위원회 초안에 대한 의견 수렴을 마쳤으며, 초안은 동료 검토를 거쳐 2027년 초 공개된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "DDEX、初のAI会員に\nElevenLabsを迎える",
+          "body": "音楽メタデータ団体DDEXが、ElevenLabsを初のAI会員に迎えた。",
+          "mini_headline": "DDEX初のAI会員",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ddex-announces-elevenlabs-as-first-ai-company-to-join-membership.png",
+                "cap": "写真提供：DDEX x ElevenLabs"
+              },
+              {
+                "t": "p",
+                "x": "音楽業界の非営利の国際標準化団体Digital Data Exchange（DDEX）は、ElevenLabsが正会員として加わったと発表した。AI企業としては初めてだ。DDEXの会員には、音楽とテクノロジー分野の150を超える企業と個人が名を連ねる。"
+              },
+              {
+                "t": "p",
+                "x": "「音楽市場をリードするAI企業の一つとして、彼らの専門知識は多くの洞察をもたらすだろう」とDDEX事務局のMark Isherwood氏は述べた。ElevenLabsのGabriella Heybourne氏は「総会やワーキンググループに参加し、AIなどに関わる音楽情報のやり取りのあり方づくりに貢献できることを楽しみにしている」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "ElevenLabsの加入は、DDEXのAIワーキンググループが9月9日と10日にナッシュビルで初の対面会合を開いた後のことだ。同グループは生成AI申告標準（GAI-D）の委員会草案に対する意見募集を終えており、草案はピアレビューを経て2027年初めに公開される予定だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "DDEX迎来首个\nAI会员ElevenLabs",
+          "body": "音乐元数据组织DDEX接纳ElevenLabs为首个AI会员，使其参与制定行业数据标准。",
+          "mini_headline": "DDEX首个AI会员",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ddex-announces-elevenlabs-as-first-ai-company-to-join-membership.png",
+                "cap": "图片来源：DDEX x ElevenLabs"
+              },
+              {
+                "t": "p",
+                "x": "音乐产业的非营利国际标准制定组织Digital Data Exchange（DDEX）宣布，ElevenLabs以正式会员身份加入，成为首家加入的AI公司。DDEX的会员包括音乐和科技领域的150多家公司和个人。"
+              },
+              {
+                "t": "p",
+                "x": "DDEX秘书处的Mark Isherwood表示：“作为音乐市场领先的AI公司之一，他们的专业知识将带来丰富的洞见。”ElevenLabs的Gabriella Heybourne则表示：“我们期待参与他们的全体会议和工作组，帮助塑造与AI等相关的音乐信息传递方式。”"
+              },
+              {
+                "t": "p",
+                "x": "在ElevenLabs加入之前，DDEX的AI工作组于9月9日至10日在纳什维尔举行了首次线下会议。该工作组已完成对其生成式AI声明标准（GAI-D）委员会草案的意见征集，草案将进入同行评审，并于2027年初发布。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "DDEX admite a ElevenLabs como\nsu primer miembro de IA",
+          "body": "DDEX, entidad de metadatos musicales, admite a ElevenLabs como su primer miembro de IA y le da voz en sus estándares.",
+          "mini_headline": "El primer miembro de IA de DDEX",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ddex-announces-elevenlabs-as-first-ai-company-to-join-membership.png",
+                "cap": "Foto: DDEX x ElevenLabs"
+              },
+              {
+                "t": "p",
+                "x": "Digital Data Exchange (DDEX), la organización internacional sin ánimo de lucro que fija estándares para la industria musical, ha anunciado la incorporación de ElevenLabs como miembro de pleno derecho, la primera empresa de IA en hacerlo. Entre los miembros de DDEX figuran más de 150 empresas y particulares del ámbito de la música y la tecnología."
+              },
+              {
+                "t": "p",
+                "x": "“Como una de las principales empresas de IA del mercado musical, su experiencia aportará una gran cantidad de conocimiento”, dijo Mark Isherwood, de la Secretaría de DDEX. “Esperamos participar en sus plenarios y grupos de trabajo para ayudar a definir su enfoque sobre la comunicación de la música, en lo relativo a la IA y más”, dijo Gabriella Heybourne, de ElevenLabs."
+              },
+              {
+                "t": "p",
+                "x": "ElevenLabs se une después de que el grupo de trabajo de IA de DDEX celebrara su primera reunión presencial en Nashville los días 9 y 10 de septiembre. El grupo ha terminado de recabar comentarios sobre el borrador de comité de su Generative AI Declaration Standard (GAI-D), que pasará a revisión por pares antes de publicarse a principios de 2027."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "pianobench-arxiv-benchmark",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI가 듣는 음악을\nPianoBench로 시험",
+      "body": "PianoBench는 20,000시간 피아노 데이터로 모델의 음악 인식을 잰다.",
+      "mini_headline": "AI의 귀를 시험하는 피아노 테스트",
+      "tool": "Music",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2611.03839v1",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "멀티모달 언어 모델은 폭넓은 음악 이해 벤치마크에서 성적이 꾸준히 오르고 있다. 그런데 이 모델들이 실제로 지각하고 추론하는 음악적 특징은 무엇일까. 저자들이 내놓은 PianoBench는 서로 일치하는 음향 입력 표현과 기호 입력 표현을 오가며 언어 모델에게 음악 연주를 추론하게 하는 벤치마크다."
+          },
+          {
+            "t": "img",
+            "src": "https://arxiv.org/html/2611.03839v1/pianobench_overview.png",
+            "cap": "그림 1: PianoBench는 PianoTalk에서 나왔다. PianoTalk는 피아노 교습 영상의 해설과 음악 전사본을 교차 배열한 학습 규모(20k 시간) 데이터셋이다."
+          },
+          {
+            "t": "p",
+            "x": "PianoBench의 바탕은 피아노 교습 영상에서 얻은 음악 전사본과 음성 음악 해설을 교차 배열한 새 학습 규모 멀티모달 데이터셋으로, 분량이 20,000시간이 넘는다."
+          },
+          {
+            "t": "p",
+            "x": "오픈 웨이트 오디오-언어 모델의 정확도는 최대 52.8%에 머물러 오디오 없는 대조군을 조금 앞서는 데 그쳤다. 반면 생각의 사슬(chain of thought)을 쓰는 프런티어 모델은 음악 전사본을 텍스트로 받자 최대 93.2%까지 올라갔다. 오디오에서 음악적 특징을 지각하는 능력과 명시적으로 주어진 특징을 추론하는 능력 사이에 틈이 있다는 얘기다."
+          },
+          {
+            "t": "p",
+            "x": "교차 배열된 음악 교습 데이터로 중간 학습을 하자 Qwen 3.5 9B Base의 음악 전사본 제로샷 정확도는 인스트럭션 튜닝 후 42.8%에서 56.0%로 올랐다. 음악 멀티모달 지도 학습에서 교습 영상이 그동안 놓쳐 온 자료원일 수 있다는 결과다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "PianoBench tests what AI\nmodels hear in music",
+          "body": "PianoBench pairs a 20,000-hour piano dataset with tests of which musical features multimodal models can perceive.",
+          "mini_headline": "A piano test for AI ears",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Multimodal language models continue to improve on broad music understanding benchmarks, but which musical features can they perceive and reason about? The authors introduce PianoBench, a benchmark that tasks language models with reasoning about musical performances across congruent acoustic and symbolic input representations."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.03839v1/pianobench_overview.png",
+                "cap": "Figure 1: PianoBench is derived from PianoTalk, a training-scale (20k hours) dataset of interleaved commentary and music transcripts, which is derived from instructional piano videos."
+              },
+              {
+                "t": "p",
+                "x": "PianoBench is derived from a new multimodal, training-scale dataset comprising more than 20,000 hours of interleaved transcripts of music and spoken musical commentary from instructional piano videos."
+              },
+              {
+                "t": "p",
+                "x": "Open-weight audio-language models achieve at most 52.8% accuracy, only modestly outperforming a no-audio control. Frontier models using chain of thought achieve up to 93.2% when given transcripts of music as text, exposing a gap between perceiving musical features from audio and reasoning about them when given explicitly."
+              },
+              {
+                "t": "p",
+                "x": "Mid-training on interleaved musical instruction raised Qwen 3.5 9B Base's zero-shot accuracy with music transcripts from 42.8% to 56.0% after instruction tuning, suggesting instructional videos may be an overlooked source of multimodal supervision for music."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI가 듣는 음악을\nPianoBench로 시험",
+          "body": "PianoBench는 20,000시간 피아노 데이터로 모델의 음악 인식을 잰다.",
+          "mini_headline": "AI의 귀를 시험하는 피아노 테스트",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "멀티모달 언어 모델은 폭넓은 음악 이해 벤치마크에서 성적이 꾸준히 오르고 있다. 그런데 이 모델들이 실제로 지각하고 추론하는 음악적 특징은 무엇일까. 저자들이 내놓은 PianoBench는 서로 일치하는 음향 입력 표현과 기호 입력 표현을 오가며 언어 모델에게 음악 연주를 추론하게 하는 벤치마크다."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.03839v1/pianobench_overview.png",
+                "cap": "그림 1: PianoBench는 PianoTalk에서 나왔다. PianoTalk는 피아노 교습 영상의 해설과 음악 전사본을 교차 배열한 학습 규모(20k 시간) 데이터셋이다."
+              },
+              {
+                "t": "p",
+                "x": "PianoBench의 바탕은 피아노 교습 영상에서 얻은 음악 전사본과 음성 음악 해설을 교차 배열한 새 학습 규모 멀티모달 데이터셋으로, 분량이 20,000시간이 넘는다."
+              },
+              {
+                "t": "p",
+                "x": "오픈 웨이트 오디오-언어 모델의 정확도는 최대 52.8%에 머물러 오디오 없는 대조군을 조금 앞서는 데 그쳤다. 반면 생각의 사슬(chain of thought)을 쓰는 프런티어 모델은 음악 전사본을 텍스트로 받자 최대 93.2%까지 올라갔다. 오디오에서 음악적 특징을 지각하는 능력과 명시적으로 주어진 특징을 추론하는 능력 사이에 틈이 있다는 얘기다."
+              },
+              {
+                "t": "p",
+                "x": "교차 배열된 음악 교습 데이터로 중간 학습을 하자 Qwen 3.5 9B Base의 음악 전사본 제로샷 정확도는 인스트럭션 튜닝 후 42.8%에서 56.0%로 올랐다. 음악 멀티모달 지도 학습에서 교습 영상이 그동안 놓쳐 온 자료원일 수 있다는 결과다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIは音楽の何を聴くか\nPianoBenchで検証",
+          "body": "PianoBenchは20,000時間のピアノデータで、モデルの音楽知覚を測る。",
+          "mini_headline": "AIの耳を試すピアノテスト",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "マルチモーダル言語モデルは幅広い音楽理解ベンチマークで性能を伸ばし続けているが、どの音楽的特徴を知覚し推論できるのか。著者らは、対応する音響表現と記号表現の入力にまたがって、言語モデルに音楽演奏について推論させるベンチマーク、PianoBenchを提案する。"
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.03839v1/pianobench_overview.png",
+                "cap": "図1：PianoBenchは、ピアノ教則動画から作られた解説と音楽の書き起こしを交互に並べた学習規模（20k 時間）のデータセットPianoTalkから派生している。"
+              },
+              {
+                "t": "p",
+                "x": "PianoBenchは、ピアノ教則動画から得た音楽の書き起こしと音声による音楽解説を交互に並べた、20,000時間を超える新たな学習規模のマルチモーダルデータセットから派生している。"
+              },
+              {
+                "t": "p",
+                "x": "オープンウェイトの音声言語モデルの正解率は最大52.8%にとどまり、音声なしの対照条件をわずかに上回るだけだった。思考の連鎖（chain of thought）を用いるフロンティアモデルは、音楽の書き起こしをテキストで与えられると最大93.2%に達した。音声から音楽的特徴を知覚することと、明示的に与えられた特徴について推論することの間に隔たりがあることを示している。"
+              },
+              {
+                "t": "p",
+                "x": "音楽指導を交互に並べたデータで中間学習を行うと、Qwen 3.5 9B Baseの音楽書き起こしを用いたゼロショット正解率は、インストラクションチューニング後に42.8%から56.0%へ上昇した。教則動画が音楽のマルチモーダル教師信号として見過ごされてきた資源である可能性を示唆している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "PianoBench检验\nAI从音乐中听到什么",
+          "body": "PianoBench以20,000小时钢琴数据集，检验多模态模型能感知哪些音乐特征。",
+          "mini_headline": "测试AI听觉的钢琴基准",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "多模态语言模型在广泛的音乐理解基准上持续进步，但它们究竟能感知并推理哪些音乐特征？作者提出了PianoBench，这一基准要求语言模型在相互对应的声学与符号输入表示之间，对音乐演奏进行推理。"
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.03839v1/pianobench_overview.png",
+                "cap": "图1：PianoBench源自PianoTalk，这是一个训练规模（20k 小时）的数据集，由钢琴教学视频中交错排列的讲解与音乐转录构成。"
+              },
+              {
+                "t": "p",
+                "x": "PianoBench源自一个全新的多模态训练规模数据集，其中包含超过20,000小时来自钢琴教学视频的音乐转录与口头音乐讲解，两者交错排列。"
+              },
+              {
+                "t": "p",
+                "x": "开放权重的音频-语言模型准确率最高仅为52.8%，只略高于无音频对照组。使用思维链（chain of thought）的前沿模型在以文本形式获得音乐转录时，准确率最高可达93.2%，这暴露出从音频中感知音乐特征与在明确给定特征时进行推理之间的差距。"
+              },
+              {
+                "t": "p",
+                "x": "在交错排列的音乐教学数据上进行中期训练后，Qwen 3.5 9B Base在指令微调后使用音乐转录的零样本准确率从42.8%升至56.0%，这表明教学视频可能是音乐多模态监督中一个被忽视的来源。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "PianoBench evalúa qué oyen\nen la música los modelos de IA",
+          "body": "PianoBench une 20.000 horas de datos de piano con pruebas de qué rasgos musicales perciben los modelos multimodales.",
+          "mini_headline": "Una prueba de piano para el oído de la IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Los modelos de lenguaje multimodales siguen mejorando en pruebas amplias de comprensión musical, pero ¿qué rasgos musicales pueden percibir y sobre cuáles pueden razonar? Los autores presentan PianoBench, un benchmark que pide a los modelos de lenguaje razonar sobre interpretaciones musicales a partir de representaciones de entrada acústicas y simbólicas equivalentes."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.03839v1/pianobench_overview.png",
+                "cap": "Figura 1: PianoBench deriva de PianoTalk, un conjunto de datos a escala de entrenamiento (20k horas) de comentarios y transcripciones musicales intercalados, obtenido de vídeos didácticos de piano."
+              },
+              {
+                "t": "p",
+                "x": "PianoBench deriva de un nuevo conjunto de datos multimodal a escala de entrenamiento con más de 20.000 horas de transcripciones musicales intercaladas con comentarios musicales hablados, procedentes de vídeos didácticos de piano."
+              },
+              {
+                "t": "p",
+                "x": "Los modelos de audio y lenguaje de pesos abiertos logran como máximo un 52.8% de precisión, apenas por encima de un control sin audio. Los modelos de frontera que usan cadena de pensamiento alcanzan hasta un 93.2% cuando reciben las transcripciones musicales como texto, lo que revela una brecha entre percibir rasgos musicales a partir del audio y razonar sobre ellos cuando se dan de forma explícita."
+              },
+              {
+                "t": "p",
+                "x": "El entrenamiento intermedio con instrucción musical intercalada elevó la precisión zero-shot de Qwen 3.5 9B Base con transcripciones musicales del 42.8% al 56.0% tras el ajuste por instrucciones, lo que sugiere que los vídeos didácticos pueden ser una fuente pasada por alto de supervisión multimodal para la música."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI가 듣는 음악을\nPianoBench로 시험",
+          "body": "PianoBench는 20,000시간 피아노 데이터로 모델의 음악 인식을 잰다.",
+          "mini_headline": "AI의 귀를 시험하는 피아노 테스트",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "멀티모달 언어 모델은 폭넓은 음악 이해 벤치마크에서 꾸준히 성적을 높이고 있다. 그렇다면 이 모델들은 어떤 음악적 특징을 지각하고 추론할 수 있을까. 저자들은 서로 일치하는 음향 입력 표현과 기호 입력 표현을 오가며 언어 모델이 음악 연주를 추론하도록 하는 벤치마크 PianoBench를 소개한다."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.03839v1/pianobench_overview.png",
+                "cap": "그림 1: PianoBench는 PianoTalk에서 파생됐다. PianoTalk는 피아노 교습 영상에서 얻은 해설과 음악 전사본을 교차 배열한 학습 규모(20k 시간)의 데이터셋이다."
+              },
+              {
+                "t": "p",
+                "x": "PianoBench는 피아노 교습 영상에서 나온 음악 전사본과 음성 음악 해설을 교차 배열한 20,000시간 이상 분량의 새로운 학습 규모 멀티모달 데이터셋에서 파생됐다."
+              },
+              {
+                "t": "p",
+                "x": "오픈 웨이트 오디오-언어 모델의 정확도는 최대 52.8%로, 오디오 없는 대조군을 소폭 앞서는 데 그쳤다. 생각의 사슬(chain of thought)을 쓰는 프런티어 모델은 음악 전사본을 텍스트로 받으면 최대 93.2%를 기록했다. 오디오에서 음악적 특징을 지각하는 능력과 명시적으로 주어진 특징을 추론하는 능력 사이에 격차가 있다는 뜻이다."
+              },
+              {
+                "t": "p",
+                "x": "교차 배열된 음악 교습 데이터로 중간 학습을 하자 Qwen 3.5 9B Base의 음악 전사본 제로샷 정확도는 인스트럭션 튜닝 후 42.8%에서 56.0%로 올랐다. 교습 영상이 음악 멀티모달 지도 학습에서 간과된 자료원일 수 있음을 시사한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIは音楽の何を聴くか\nPianoBenchで検証",
+          "body": "PianoBenchは20,000時間のピアノデータで、モデルの音楽知覚を測る。",
+          "mini_headline": "AIの耳を試すピアノテスト",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "マルチモーダル言語モデルは幅広い音楽理解ベンチマークで性能を伸ばし続けているが、どの音楽的特徴を知覚し推論できるのか。著者らは、対応する音響表現と記号表現の入力にまたがって、言語モデルに音楽演奏について推論させるベンチマーク、PianoBenchを提案する。"
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.03839v1/pianobench_overview.png",
+                "cap": "図1：PianoBenchは、ピアノ教則動画から作られた解説と音楽の書き起こしを交互に並べた学習規模（20k 時間）のデータセットPianoTalkから派生している。"
+              },
+              {
+                "t": "p",
+                "x": "PianoBenchは、ピアノ教則動画から得た音楽の書き起こしと音声による音楽解説を交互に並べた、20,000時間を超える新たな学習規模のマルチモーダルデータセットから派生している。"
+              },
+              {
+                "t": "p",
+                "x": "オープンウェイトの音声言語モデルの正解率は最大52.8%にとどまり、音声なしの対照条件をわずかに上回るだけだった。思考の連鎖（chain of thought）を用いるフロンティアモデルは、音楽の書き起こしをテキストで与えられると最大93.2%に達した。音声から音楽的特徴を知覚することと、明示的に与えられた特徴について推論することの間に隔たりがあることを示している。"
+              },
+              {
+                "t": "p",
+                "x": "音楽指導を交互に並べたデータで中間学習を行うと、Qwen 3.5 9B Baseの音楽書き起こしを用いたゼロショット正解率は、インストラクションチューニング後に42.8%から56.0%へ上昇した。教則動画が音楽のマルチモーダル教師信号として見過ごされてきた資源である可能性を示唆している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "PianoBench检验\nAI从音乐中听到什么",
+          "body": "PianoBench以20,000小时钢琴数据集，检验多模态模型能感知哪些音乐特征。",
+          "mini_headline": "测试AI听觉的钢琴基准",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "多模态语言模型在广泛的音乐理解基准上持续进步，但它们究竟能感知并推理哪些音乐特征？作者提出了PianoBench，这一基准要求语言模型在相互对应的声学与符号输入表示之间，对音乐演奏进行推理。"
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.03839v1/pianobench_overview.png",
+                "cap": "图1：PianoBench源自PianoTalk，这是一个训练规模（20k 小时）的数据集，由钢琴教学视频中交错排列的讲解与音乐转录构成。"
+              },
+              {
+                "t": "p",
+                "x": "PianoBench源自一个全新的多模态训练规模数据集，其中包含超过20,000小时来自钢琴教学视频的音乐转录与口头音乐讲解，两者交错排列。"
+              },
+              {
+                "t": "p",
+                "x": "开放权重的音频-语言模型准确率最高仅为52.8%，只略高于无音频对照组。使用思维链（chain of thought）的前沿模型在以文本形式获得音乐转录时，准确率最高可达93.2%，这暴露出从音频中感知音乐特征与在明确给定特征时进行推理之间的差距。"
+              },
+              {
+                "t": "p",
+                "x": "在交错排列的音乐教学数据上进行中期训练后，Qwen 3.5 9B Base在指令微调后使用音乐转录的零样本准确率从42.8%升至56.0%，这表明教学视频可能是音乐多模态监督中一个被忽视的来源。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "PianoBench evalúa qué oyen\nen la música los modelos de IA",
+          "body": "PianoBench une 20.000 horas de datos de piano con pruebas de qué rasgos musicales perciben los modelos multimodales.",
+          "mini_headline": "Una prueba de piano para el oído de la IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Los modelos de lenguaje multimodales siguen mejorando en pruebas amplias de comprensión musical, pero ¿qué rasgos musicales pueden percibir y sobre cuáles pueden razonar? Los autores presentan PianoBench, un benchmark que pide a los modelos de lenguaje razonar sobre interpretaciones musicales a partir de representaciones de entrada acústicas y simbólicas equivalentes."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.03839v1/pianobench_overview.png",
+                "cap": "Figura 1: PianoBench deriva de PianoTalk, un conjunto de datos a escala de entrenamiento (20k horas) de comentarios y transcripciones musicales intercalados, obtenido de vídeos didácticos de piano."
+              },
+              {
+                "t": "p",
+                "x": "PianoBench deriva de un nuevo conjunto de datos multimodal a escala de entrenamiento con más de 20.000 horas de transcripciones musicales intercaladas con comentarios musicales hablados, procedentes de vídeos didácticos de piano."
+              },
+              {
+                "t": "p",
+                "x": "Los modelos de audio y lenguaje de pesos abiertos logran como máximo un 52.8% de precisión, apenas por encima de un control sin audio. Los modelos de frontera que usan cadena de pensamiento alcanzan hasta un 93.2% cuando reciben las transcripciones musicales como texto, lo que revela una brecha entre percibir rasgos musicales a partir del audio y razonar sobre ellos cuando se dan de forma explícita."
+              },
+              {
+                "t": "p",
+                "x": "El entrenamiento intermedio con instrucción musical intercalada elevó la precisión zero-shot de Qwen 3.5 9B Base con transcripciones musicales del 42.8% al 56.0% tras el ajuste por instrucciones, lo que sugiere que los vídeos didácticos pueden ser una fuente pasada por alto de supervisión multimodal para la música."
               }
             ]
           }

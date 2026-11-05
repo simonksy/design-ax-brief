@@ -4842,6 +4842,149 @@
           "x": "The company running a chatbot is liable if violations are inherent to its business model or it has failed to take effective measures to prevent infringements such as unlawful web scraping, the advocate general argued."
         }
       ]
+    },
+    "politics/g7-ai-safety-france-us": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=740,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/05/G7-AI-scaled.jpg",
+          "cap": "G7 leaders, world dignitaries and representatives from tech and AI industries meet in Évian-les-Bains, France, on June 17, 2026."
+        },
+        {
+          "t": "p",
+          "x": "The U.S. government has scuttled a French push for the G7 to coordinate on advanced AI safety, with a White House official calling it “unnecessary bureaucracy.”"
+        },
+        {
+          "t": "p",
+          "x": "France’s digital minister Anne Le Hénanff told a French Senate hearing on Wednesday that she held two ministerial meetings in September and October to secure G7 commitments to a high-level working group to test frontier AI and share information about risks and incidents. That effort “did not reach a successful conclusion” because the U.S. wanted to pursue its own approach, she said."
+        },
+        {
+          "t": "p",
+          "x": "A White House official said the French government proposed a “poorly defined body” that the administration feared would “create unnecessary bureaucracy,” pointing instead to President Donald Trump’s Super Intelligence Force."
+        },
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/wp-content/uploads/2026/11/05/Anne-Le-Henanff-1024x683.jpg",
+          "cap": "Digital Minister Anne Le Hénanff speaks in the French parliament in Paris on Oct. 28, 2026."
+        },
+        {
+          "t": "p",
+          "x": "France, which holds the 2026 G7 presidency, issued a chair’s summary after the Oct. 20 virtual G7 tech ministerial; it was not a joint statement endorsed by all G7 members. Le Hénanff has proposed resuming talks in December and said France would keep pushing the issue, citing INESIA and Inria."
+        },
+        {
+          "t": "p",
+          "x": "The White House official said: “Under President Trump’s leadership, America will continue to lead the world in SI innovation.”"
+        }
+      ]
+    },
+    "politics/certin-ai-incident-6hr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.indianexpress.com/2026/11/ai-security-1600.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The Indian Computer Emergency Response Team (CERT-In) has issued new cybersecurity auditing guidelines for AI systems deployed by government agencies and private companies, requiring reportable AI-related security incidents to be disclosed within six hours. The six-hour requirement builds on CERT-In’s 2022 cybersecurity directions."
+        },
+        {
+          "t": "p",
+          "x": "AI systems will be classified into four categories — low, moderate, high and critical risk — which will determine the depth and frequency of audits, auditor independence, documentation, and the extent of human oversight and monitoring."
+        },
+        {
+          "t": "p",
+          "x": "Organisations must audit across nine domains, including governance and accountability, data management and privacy, AI model risk management, bias and fairness, and explainability, and retain security logs for at least 180 days."
+        },
+        {
+          "t": "p",
+          "x": "In an October 15 advisory, CERT-In said it had received multiple voluntary disclosures from AI developers whose systems had accessed live infrastructure belonging to Indian organisations during research and evaluation. None of the affected Indian organisations had independently detected the access, the agency said."
+        }
+      ]
+    },
+    "politics/delhi-hc-kriti-sanon-deepfakes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.indianexpress.com/2026/11/Kriti-Sanon_20261105093311.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In an interim relief to actor Kriti Sanon, the Delhi High Court has restrained various websites, social media accounts and AI platforms from using her identity to create or circulate sexually explicit deepfakes, impersonate her or falsely suggest an association with her. Justice Purushaindra Kumar Kaurav passed the order on her plea seeking protection of her personality rights."
+        },
+        {
+          "t": "p",
+          "x": "The court ordered take down of URLs containing objectionable materials and directed the authorities concerned to issue blocking directions to websites hosting pornographic deepfakes. It clarified the order doesn't restrain news, review, criticism, commentary, satire, parody, caricature or fan expression."
+        },
+        {
+          "t": "p",
+          "x": "Sanon alleged misuse of her name, image, likeness and voice, including AI chatbots and synthetic voice models presented as her. Senior advocate Pravin Anand submitted that much of the content was created using AI tools."
+        },
+        {
+          "t": "p",
+          "x": "The court said \"personality rights\" is not a single cause of action but a description of several distinct claims. The matter will be heard on December 10."
+        }
+      ]
+    },
+    "politics/ipophl-artists-ai-copyright": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://pna.gov.ph/_assets/storage/photo-assets/QcBTy2fJfkOzCUYhLONezB7N9vVmuziA86g2HzxS.webp"
+        },
+        {
+          "t": "p",
+          "x": "MANILA – The Intellectual Property Office of the Philippines (IPOPHL) is gathering the public’s insights on a draft guideline aimed towards having a copyright registration for creative works that used artificial intelligence (AI)."
+        },
+        {
+          "t": "p",
+          "x": "IPOPHL Bureau of Copyright and Related Rights director Emerson Cuyo said they have conducted two public consultations on the matter, and they continue to receive comments and feedbacks. He did not give specifics on when they intend to release the final guidelines."
+        },
+        {
+          "t": "p",
+          "x": "He explained that the measure aims to protect Filipino artists, amid the increased use of AI on various artworks. Under the draft guidelines, there will be four categories, namely AI-assisted, AI-enhanced, hybrid work and purely AI-generated work."
+        },
+        {
+          "t": "p",
+          "x": "Cuyo said the guidelines also call for the registration of the AI system or AI model per se, since this is protected as a computer program under the Intellectual Property Code, and that registration of works used with AI cannot be automatically done."
+        },
+        {
+          "t": "p",
+          "x": "“It can be registered or allowed to be registered once it was proven to have adequate personal artistic output from an individual. The AI-assisted or purely AI-generated content is not protected, and they have to declare this upon registration,” he added."
+        }
+      ]
+    },
+    "politics/brazil-meta-news-ruling": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A São Paulo court on Tuesday (3) prohibited Meta, the owner of Facebook, Instagram, WhatsApp and Threads, from using bots to collect news articles, photographs, videos and other content from media outlets affiliated with three Brazilian press associations."
+        },
+        {
+          "t": "p",
+          "x": "The ruling also prevents the use of that material to develop or train artificial intelligence systems, such as Meta AI. The lawsuit sought to suspend the company's new commercial terms, which are set to take effect on November 20."
+        },
+        {
+          "t": "img",
+          "src": "https://f.i.uol.com.br/fotografia/2026/10/27/17931137016ae0be65bfde7_1793113701_3x2_md.jpg",
+          "cap": "The logo of Meta Platforms at the Viva Technology conference in Paris, June 12, 2025. Benoit Tessier/REUTERS"
+        },
+        {
+          "t": "p",
+          "x": "According to the associations, the rules would allow Meta to access, copy, store and analyze content from news websites. The judge suspended the provision requiring companies to authorize, without compensation, the use of \"web scrapers\" and ruled that the requirement constituted contractual abuse."
+        },
+        {
+          "t": "p",
+          "x": "He said scraping news websites to feed language models constitutes reproduction of copyrighted works, which requires prior authorization, and that Brazilian law provides no exception for data mining for commercial purposes. According to the judge, the terms create an \"insoluble legal trap\" because media outlets publish third-party material."
+        },
+        {
+          "t": "p",
+          "x": "The fine for noncompliance is R$1 million ($182,400) per day, capped at R$100 million ($ 18 million). Meta has five days to challenge the ruling, and the associations have 30 business days to file their main claim. The company was not heard and said it would not comment. Marcelo Rech, executive president of the Brazilian Newspaper Association, called the injunction \"historic\" and said it shows that there are limits to the abuse of economic power by platforms."
+        },
+        {
+          "t": "p",
+          "x": "The ruling comes nearly a week after a Norwegian court suspended the same rules."
+        }
+      ]
     }
   }
 }

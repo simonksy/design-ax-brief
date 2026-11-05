@@ -1,353 +1,273 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "section": "marketing",
   "cards": [
     {
-      "id": "roku-outcomes-ctv-beta",
+      "id": "sej-ai-answer-ads-categories",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Roku Outcomes\nstreaming-TV에",
-      "body": "Roku AI 베타 아홉 건이 모두 목표 CPA를 맞췄고 중앙값은 38% 낮았다.",
-      "mini_headline": "Roku, AI 성과형 광고 시험",
+      "headline": "Google AI 답변 속\n광고, 의류·전자에 몰려",
+      "body": "연말 광고가 Google AI 답변과 ChatGPT에서 의류·전자제품에 쏠렸다.",
+      "mini_headline": "AI 답변 광고, 의류에 집중",
       "tool": "Marketing",
-      "source": "Media Play News",
-      "url": "https://www.mediaplaynews.com/roku-beta-launches-ai-driven-advertising-platform/",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/google-ai-answer-ads-apparel-electronics-report/595984/",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mediaplaynews.com/wp-content/uploads/2026/11/Roku-Outcomes.jpg"
+            "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-shopping-ads.jpg"
           },
           {
             "t": "p",
-            "x": "Roku가 Nov. 4 AI-driven 광고 플랫폼 Roku Outcomes의 베타 출시를 발표했다. 마케터가 스트리밍 TV 캠페인을 특정 행동에 맞춰 최적화하는 플랫폼이다."
+            "x": "Adthena가 6월부터 9월까지 U.S.(미국)의 Google AI Overview 패널과 AI Mode 패널을 살펴보니 유료 광고 노출은 약 175,100건이었다. 연말 쇼핑 카테고리 다섯 개를 봤는데 유료 광고는 대부분 의류와 가전에 몰렸다. Holiday AI Paid Search Report는 같은 기간, 같은 다섯 카테고리의 ChatGPT 광고 노출 204,489건도 집계했다."
           },
           {
             "t": "p",
-            "x": "Roku는 단일 운영체제 안에서 이뤄지는 폐쇄형 측정으로 광고 노출을 앱 설치와 이후 시청에 곧바로 잇고, 실시간 신호를 AI 학습 모델에 되먹인다."
+            "x": "Google 쪽은 의류가 약 111,000건, 가전 약 55,000건, 여행 약 6,500건, 뷰티 약 2,100건, 장난감·게임 약 685건이었다. 광고를 따로 살 필요는 없다. Search, Shopping, Performance Max 캠페인이면 자동으로 AI 답변에 노출될 자격이 생긴다. U.S. AI Overview 노출은 2025년 8월부터 2026년 8월 사이 3억400만 회에서 5억7500만 회로 89% 늘었다."
           },
           {
             "t": "p",
-            "x": "Roku에 따르면 베타 기간 외부 광고주 집행 아홉 건이 모두 목표 CPA 이하를 기록했고, CPA 중앙값은 목표보다 38% 낮았다. 제품군에는 TV 인벤토리를 퍼포먼스 마케팅 목표에 맞추는 핵심 최적화 도구 두 가지가 담겼다."
-          },
-          {
-            "t": "p",
-            "x": "플랫폼의 목표는 고유·증분 가구 도달을 최대로 늘리고 광고 빈도를 관리하면서 기존 리니어 TV나 기존 미디어 플랜 밖의 시청자에게 닿는 것이다. 앱 설치, 첫 시청, 가입, 구독, 체험처럼 광고주가 정한 특정 전환도 끌어낸다."
-          },
-          {
-            "t": "p",
-            "x": "Roku Outcomes는 현재 Home Screen 네이티브 지면과 인스트림 동영상을 포함한 Roku 광고 생태계 전반에서 쓸 수 있고, 우선 미디어·엔터테인먼트 광고주에게 제공된다. 구매, 웹사이트 방문, 장바구니 활동 지원은 향후 업데이트로 추가할 계획이다."
+            "x": "ChatGPT에서는 의류가 90,517건으로 가장 많았고 가전 56,569건, 여행 48,134건, 장난감·게임 4,694건, 뷰티 4,575건 순이었다. 뷰티 광고는 83%가 조사·탐색 단계 검색어에 붙었지만 의류와 가전은 각각 48%, 42%로 절반이 안 됐다. 보고서는 클릭·지출·전환을 추적하지 않았고 데이터도 Black Friday 전인 9월에서 끊긴다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Roku Outcomes brings AI\nto streaming-TV ad buying",
-          "body": "All nine beta flights of Roku's AI ad platform hit their target CPA, with a median 38% below target.",
-          "mini_headline": "Roku tests AI outcome ads",
+          "headline": "Ads in Google AI answers\ncluster in apparel, electronics",
+          "body": "Holiday data counting ads in Google AI Overviews, AI Mode and ChatGPT finds them clustered in apparel and electronics.",
+          "mini_headline": "AI answer ads cluster in apparel",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mediaplaynews.com/wp-content/uploads/2026/11/Roku-Outcomes.jpg"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-shopping-ads.jpg"
               },
               {
                 "t": "p",
-                "x": "Roku Nov. 4 announced the beta launch of Roku Outcomes, an AI-driven advertising platform that allows marketers to optimize streaming TV campaigns for specific actions."
+                "x": "Adthena reported that approximately 175,100 paid ad placements were found within Google’s AI Overview panel as well as AI Mode panels inside the U.S. during the period of June to September. This included five holiday shopping categories; however, the majority of these paid placements belonged to apparel and consumer electronics. The Holiday AI Paid Search Report also counts 204,489 ChatGPT ad placements in the same five categories over the same months."
               },
               {
                 "t": "p",
-                "x": "By utilizing closed-loop measurement within its single operating system, Roku connects ad exposure directly to app installs and subsequent viewing, feeding real-time signals back into its AI learning models."
+                "x": "In Google’s count, apparel has approximately 111,000 placements; consumer electronics about 55,000; travel roughly 6,500; beauty about 2,100; and toys and games around 685. There are no separate ad buys: all Search, Shopping, and Performance Max campaigns are automatically eligible to appear in AI answers. U.S. AI Overview appearances rose 89%, from 304 million to 575 million, between August 2025 and August 2026."
               },
               {
                 "t": "p",
-                "x": "During the beta phase, all nine external advertiser flights delivered at or below their target CPA, achieving a median CPA 38% below the target, according to Roku. The suite introduces two core optimization tools designed to align TV inventory with performance marketing goals."
-              },
-              {
-                "t": "p",
-                "x": "The platform aims to maximize unique and incremental household reach, manage ad frequency, and connect with audiences beyond traditional linear TV or existing media plans. It also will drive specific advertiser-defined conversions, including app installs, first-time views, sign-ups, subscriptions, and trials."
-              },
-              {
-                "t": "p",
-                "x": "Currently available across Roku’s ad ecosystem — including Home Screen native placements and in-stream video — Roku Outcomes is initially rolled out for media and entertainment advertisers, with future updates planned to support purchases, website visits, and cart activity."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Roku Outcomes lleva la AI\na los anuncios de streaming-TV",
-          "body": "Las nueve campañas beta de la plataforma de AI de Roku lograron su CPA objetivo, con una mediana 38% inferior.",
-          "mini_headline": "Roku prueba anuncios por resultados con AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mediaplaynews.com/wp-content/uploads/2026/11/Roku-Outcomes.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Roku anunció el 4 de noviembre (Nov. 4) el lanzamiento en beta de Roku Outcomes, una plataforma publicitaria AI-driven que permite a los profesionales del marketing optimizar campañas de TV en streaming para acciones específicas."
-              },
-              {
-                "t": "p",
-                "x": "Mediante la medición de circuito cerrado dentro de su sistema operativo único, Roku vincula directamente la exposición a los anuncios con las instalaciones de apps y la visualización posterior, y devuelve señales en tiempo real a sus modelos de aprendizaje de AI."
-              },
-              {
-                "t": "p",
-                "x": "Durante la fase beta, las nueve campañas de anunciantes externos alcanzaron o mejoraron su CPA objetivo, con una CPA mediana 38% inferior al objetivo, según Roku. El paquete introduce dos herramientas centrales de optimización diseñadas para alinear el inventario de TV con los objetivos de marketing de resultados."
-              },
-              {
-                "t": "p",
-                "x": "La plataforma busca maximizar el alcance único e incremental de hogares, gestionar la frecuencia de los anuncios y llegar a audiencias más allá de la TV lineal tradicional o de los planes de medios existentes. También impulsará conversiones específicas definidas por el anunciante, como instalaciones de apps, primeras visualizaciones, registros, suscripciones y pruebas."
-              },
-              {
-                "t": "p",
-                "x": "Disponible actualmente en todo el ecosistema publicitario de Roku —incluidos los espacios nativos de Home Screen y el video in-stream—, Roku Outcomes se lanza inicialmente para anunciantes de medios y entretenimiento, y se prevén actualizaciones para admitir compras, visitas a sitios web y actividad del carrito."
+                "x": "On ChatGPT, apparel led with 90,517 placements, then Consumer Electronics with 56,569, Travel with 48,134, Toys and Games with 4,694 and Beauty with 4,575. In beauty, 83% of ads ran on research and discovery queries; apparel and consumer electronics came in under half, at 48% and 42%. The report does not track clicks, spend or conversions, and its data ends in September, before Black Friday."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Roku Outcomes\nstreaming-TV에",
-          "body": "Roku AI 베타 아홉 건이 모두 목표 CPA를 맞췄고 중앙값은 38% 낮았다.",
-          "mini_headline": "Roku, AI 성과형 광고 시험",
+          "headline": "Google AI 답변 속\n광고, 의류·전자에 몰려",
+          "body": "연말 광고가 Google AI 답변과 ChatGPT에서 의류·전자제품에 쏠렸다.",
+          "mini_headline": "AI 답변 광고, 의류에 집중",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mediaplaynews.com/wp-content/uploads/2026/11/Roku-Outcomes.jpg"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-shopping-ads.jpg"
               },
               {
                 "t": "p",
-                "x": "Roku가 Nov. 4 AI-driven 광고 플랫폼 Roku Outcomes의 베타 출시를 발표했다. 마케터가 스트리밍 TV 캠페인을 특정 행동에 맞춰 최적화하는 플랫폼이다."
+                "x": "Adthena가 6월부터 9월까지 U.S.(미국)의 Google AI Overview 패널과 AI Mode 패널을 살펴보니 유료 광고 노출은 약 175,100건이었다. 연말 쇼핑 카테고리 다섯 개를 봤는데 유료 광고는 대부분 의류와 가전에 몰렸다. Holiday AI Paid Search Report는 같은 기간, 같은 다섯 카테고리의 ChatGPT 광고 노출 204,489건도 집계했다."
               },
               {
                 "t": "p",
-                "x": "Roku는 단일 운영체제 안에서 이뤄지는 폐쇄형 측정으로 광고 노출을 앱 설치와 이후 시청에 곧바로 잇고, 실시간 신호를 AI 학습 모델에 되먹인다."
+                "x": "Google 쪽은 의류가 약 111,000건, 가전 약 55,000건, 여행 약 6,500건, 뷰티 약 2,100건, 장난감·게임 약 685건이었다. 광고를 따로 살 필요는 없다. Search, Shopping, Performance Max 캠페인이면 자동으로 AI 답변에 노출될 자격이 생긴다. U.S. AI Overview 노출은 2025년 8월부터 2026년 8월 사이 3억400만 회에서 5억7500만 회로 89% 늘었다."
               },
               {
                 "t": "p",
-                "x": "Roku에 따르면 베타 기간 외부 광고주 집행 아홉 건이 모두 목표 CPA 이하를 기록했고, CPA 중앙값은 목표보다 38% 낮았다. 제품군에는 TV 인벤토리를 퍼포먼스 마케팅 목표에 맞추는 핵심 최적화 도구 두 가지가 담겼다."
-              },
-              {
-                "t": "p",
-                "x": "플랫폼의 목표는 고유·증분 가구 도달을 최대로 늘리고 광고 빈도를 관리하면서 기존 리니어 TV나 기존 미디어 플랜 밖의 시청자에게 닿는 것이다. 앱 설치, 첫 시청, 가입, 구독, 체험처럼 광고주가 정한 특정 전환도 끌어낸다."
-              },
-              {
-                "t": "p",
-                "x": "Roku Outcomes는 현재 Home Screen 네이티브 지면과 인스트림 동영상을 포함한 Roku 광고 생태계 전반에서 쓸 수 있고, 우선 미디어·엔터테인먼트 광고주에게 제공된다. 구매, 웹사이트 방문, 장바구니 활동 지원은 향후 업데이트로 추가할 계획이다."
+                "x": "ChatGPT에서는 의류가 90,517건으로 가장 많았고 가전 56,569건, 여행 48,134건, 장난감·게임 4,694건, 뷰티 4,575건 순이었다. 뷰티 광고는 83%가 조사·탐색 단계 검색어에 붙었지만 의류와 가전은 각각 48%, 42%로 절반이 안 됐다. 보고서는 클릭·지출·전환을 추적하지 않았고 데이터도 Black Friday 전인 9월에서 끊긴다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Roku Outcomes\nstreaming-TVへ",
-          "body": "RokuのAI広告ベータ九件すべてが目標CPAを達成し、中央値は目標を38%下回った。",
-          "mini_headline": "Roku、AI成果型広告を試験",
+          "headline": "Google AI回答の広告\nアパレルと家電に集中",
+          "body": "Google AI検索とChatGPTの年末商戦広告は、アパレルと家電に集中している。",
+          "mini_headline": "AI回答の広告はアパレルに集中",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mediaplaynews.com/wp-content/uploads/2026/11/Roku-Outcomes.jpg"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-shopping-ads.jpg"
               },
               {
                 "t": "p",
-                "x": "RokuはNov. 4、AI-driven広告プラットフォーム「Roku Outcomes」のベータ版提供開始を発表した。マーケターがストリーミングTVキャンペーンを特定の行動に向けて最適化できる。"
+                "x": "Adthenaによると、6月から9月にかけてU.S.（米国）のGoogle AI OverviewパネルとAI Modeパネル内で約175,100件の有料広告枠が確認された。対象は年末商戦の五つのカテゴリーだが、有料広告の大半はアパレルと家電が占めた。Holiday AI Paid Search Reportは同じ期間、同じ五つのカテゴリーでChatGPTの広告枠204,489件も集計している。"
               },
               {
                 "t": "p",
-                "x": "Rokuは単一のOS内でのクローズドループ計測により、広告接触をアプリのインストールやその後の視聴に直接結び付け、リアルタイムのシグナルをAI学習モデルに還元する。"
+                "x": "Googleの集計では、アパレルが約111,000件、家電が約55,000件、旅行が約6,500件、美容が約2,100件、玩具・ゲームが約685件だった。個別の広告購入はなく、Search、Shopping、Performance Maxの各キャンペーンはすべて自動的にAI回答への掲載対象となる。U.S.のAI Overview表示回数は2025年8月から2026年8月にかけて3億400万回から5億7500万回へ、89%増えた。"
               },
               {
                 "t": "p",
-                "x": "Rokuによると、ベータ期間中、外部広告主による九件の出稿はすべて目標CPA以下で成果を上げ、CPAの中央値は目標を38%下回った。このスイートは、TV在庫をパフォーマンスマーケティングの目標に合わせる二つの中核的な最適化ツールを備える。"
-              },
-              {
-                "t": "p",
-                "x": "同プラットフォームは、ユニークかつ増分の世帯リーチの最大化、広告フリークエンシーの管理、従来のリニアTVや既存のメディアプランを超えたオーディエンスとの接点づくりを狙う。アプリのインストール、初回視聴、登録、サブスクリプション、トライアルなど、広告主が定義する特定のコンバージョンも促す。"
-              },
-              {
-                "t": "p",
-                "x": "現在はHome Screenのネイティブ枠やインストリーム動画を含むRokuの広告エコシステム全体で利用でき、Roku Outcomesはまずメディア・エンターテインメント分野の広告主向けに展開される。今後のアップデートで購入、ウェブサイト訪問、カート行動にも対応する予定だ。"
+                "x": "ChatGPTではアパレルが90,517件で首位、次いで家電56,569件、旅行48,134件、玩具・ゲーム4,694件、美容4,575件だった。美容では広告の83%が調査・発見段階のクエリに表示され、アパレルと家電はそれぞれ48%、42%と半分を下回った。レポートはクリック、支出、コンバージョンを追跡しておらず、データはBlack Friday前の9月で終わっている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Roku Outcomes\n进军streaming-TV",
-          "body": "Roku AI广告平台九次测试投放全部达到目标CPA，中位数低于目标38%。",
-          "mini_headline": "Roku 测试 AI 效果广告",
+          "headline": "Google AI答案广告\n集中于服装和电子产品",
+          "body": "Google AI搜索与ChatGPT中的节日广告，主要集中在服装和电子产品领域。",
+          "mini_headline": "AI答案广告集中于服装",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mediaplaynews.com/wp-content/uploads/2026/11/Roku-Outcomes.jpg"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-shopping-ads.jpg"
               },
               {
                 "t": "p",
-                "x": "Roku 于 Nov. 4 宣布推出 AI-driven 广告平台 Roku Outcomes 测试版，营销人员可借此针对特定行动优化流媒体 TV 广告活动。"
+                "x": "Adthena报告称，6月至9月间，在U.S.（美国）的Google AI Overview面板和AI Mode面板中发现约175,100个付费广告展示位。统计涵盖五个节日购物类别，但大部分付费广告位属于服装和消费电子。Holiday AI Paid Search Report还统计了同期同五个类别中的204,489个ChatGPT广告展示位。"
               },
               {
                 "t": "p",
-                "x": "Roku 利用其单一操作系统内的闭环测量，将广告曝光直接与应用安装及后续观看相关联，并把实时信号回传至其 AI 学习模型。"
+                "x": "在Google的统计中，服装约111,000个，消费电子约55,000个，旅行约6,500个，美妆约2,100个，玩具与游戏约685个。广告主无需单独购买：所有Search、Shopping和Performance Max广告系列都会自动获得在AI答案中展示的资格。2025年8月至2026年8月，U.S. AI Overview的展示次数从3.04亿次增至5.75亿次，增长89%。"
               },
               {
                 "t": "p",
-                "x": "据 Roku 称，测试期间九次外部广告主投放全部达到或低于目标 CPA，CPA 中位数比目标低 38%。该套件推出两款核心优化工具，旨在让 TV 库存与效果营销目标相匹配。"
+                "x": "在ChatGPT上，服装以90,517个居首，其次是消费电子56,569个、旅行48,134个、玩具与游戏4,694个、美妆4,575个。美妆类广告中有83%出现在调研与发现类查询中；服装和消费电子不到一半，分别为48%和42%。该报告未追踪点击、支出或转化，数据截至9月，早于Black Friday。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Anuncios en la IA de Google\nse agrupan en ropa y electrónica",
+          "body": "Datos navideños de Google AI Overviews, AI Mode y ChatGPT muestran anuncios concentrados en ropa y electrónica.",
+          "mini_headline": "Los anuncios de IA se concentran en ropa",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-shopping-ads.jpg"
               },
               {
                 "t": "p",
-                "x": "该平台旨在最大化独立且增量的家庭触达、管理广告频次，并触及传统线性 TV 或现有媒体计划之外的受众。它还将推动广告主自定义的特定转化，包括应用安装、首次观看、注册、订阅和试用。"
+                "x": "Adthena informó que entre junio y septiembre se detectaron aproximadamente 175,100 ubicaciones de anuncios pagados en los paneles de AI Overview y de AI Mode de Google en U.S. (Estados Unidos). El análisis abarcó cinco categorías de compras navideñas, pero la mayoría de esas ubicaciones correspondió a ropa y electrónica de consumo. El Holiday AI Paid Search Report también contabiliza 204,489 ubicaciones de anuncios en ChatGPT en las mismas cinco categorías y los mismos meses."
               },
               {
                 "t": "p",
-                "x": "Roku Outcomes 目前可在 Roku 整个广告生态中使用，包括 Home Screen 原生广告位和插播视频，首先面向媒体和娱乐广告主推出，未来更新还计划支持购买、网站访问和购物车活动。"
+                "x": "En el recuento de Google, la ropa suma aproximadamente 111,000 ubicaciones; la electrónica de consumo, unas 55,000; viajes, cerca de 6,500; belleza, unas 2,100, y juguetes y juegos, alrededor de 685. No hay compras de anuncios separadas: todas las campañas de Search, Shopping y Performance Max pueden aparecer automáticamente en las respuestas de IA. Las apariciones de AI Overview en U.S. crecieron un 89%, de 304 millones a 575 millones, entre agosto de 2025 y agosto de 2026."
+              },
+              {
+                "t": "p",
+                "x": "En ChatGPT, la ropa encabezó con 90,517 ubicaciones, seguida de electrónica de consumo con 56,569, viajes con 48,134, juguetes y juegos con 4,694 y belleza con 4,575. En belleza, el 83% de los anuncios apareció en consultas de investigación y descubrimiento; en ropa y electrónica de consumo la proporción quedó por debajo de la mitad, con 48% y 42%. El informe no mide clics, gasto ni conversiones, y sus datos terminan en septiembre, antes del Black Friday."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "Roku Outcomes lleva la AI\na los anuncios de streaming-TV",
-          "body": "Las nueve campañas beta de la plataforma de AI de Roku lograron su CPA objetivo, con una mediana 38% inferior.",
-          "mini_headline": "Roku prueba anuncios por resultados con AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mediaplaynews.com/wp-content/uploads/2026/11/Roku-Outcomes.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Roku anunció el 4 de noviembre (Nov. 4) el lanzamiento en beta de Roku Outcomes, una plataforma publicitaria AI-driven que permite a los profesionales del marketing optimizar campañas de TV en streaming para acciones específicas."
-              },
-              {
-                "t": "p",
-                "x": "Mediante la medición de circuito cerrado dentro de su sistema operativo único, Roku vincula directamente la exposición a los anuncios con las instalaciones de apps y la visualización posterior, y devuelve señales en tiempo real a sus modelos de aprendizaje de AI."
-              },
-              {
-                "t": "p",
-                "x": "Durante la fase beta, las nueve campañas de anunciantes externos alcanzaron o mejoraron su CPA objetivo, con una CPA mediana 38% inferior al objetivo, según Roku. El paquete introduce dos herramientas centrales de optimización diseñadas para alinear el inventario de TV con los objetivos de marketing de resultados."
-              },
-              {
-                "t": "p",
-                "x": "La plataforma busca maximizar el alcance único e incremental de hogares, gestionar la frecuencia de los anuncios y llegar a audiencias más allá de la TV lineal tradicional o de los planes de medios existentes. También impulsará conversiones específicas definidas por el anunciante, como instalaciones de apps, primeras visualizaciones, registros, suscripciones y pruebas."
-              },
-              {
-                "t": "p",
-                "x": "Disponible actualmente en todo el ecosistema publicitario de Roku —incluidos los espacios nativos de Home Screen y el video in-stream—, Roku Outcomes se lanza inicialmente para anunciantes de medios y entretenimiento, y se prevén actualizaciones para admitir compras, visitas a sitios web y actividad del carrito."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "Roku Outcomes\nstreaming-TV에",
-          "body": "Roku AI 베타 아홉 건이 모두 목표 CPA를 맞췄고 중앙값은 38% 낮았다.",
-          "mini_headline": "Roku, AI 성과형 광고 시험",
+          "headline": "Google AI 답변 속\n광고, 의류·전자에 몰려",
+          "body": "Google AI 답변과 ChatGPT의 연말 광고는 의류·전자제품에 몰렸다.",
+          "mini_headline": "AI 답변 광고, 의류에 집중",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mediaplaynews.com/wp-content/uploads/2026/11/Roku-Outcomes.jpg"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-shopping-ads.jpg"
               },
               {
                 "t": "p",
-                "x": "Roku는 Nov. 4 AI-driven 광고 플랫폼 Roku Outcomes의 베타 출시를 발표했다. 마케터가 스트리밍 TV 캠페인을 특정 행동에 맞춰 최적화할 수 있는 플랫폼이다."
+                "x": "Adthena에 따르면 6월부터 9월까지 U.S.(미국) 내 Google AI Overview 패널과 AI Mode 패널에서 유료 광고 노출 약 175,100건이 확인됐다. 다섯 개 연말 쇼핑 카테고리를 대상으로 했지만 유료 광고 대부분은 의류와 가전에 속했다. Holiday AI Paid Search Report는 같은 기간 같은 다섯 카테고리에서 ChatGPT 광고 노출 204,489건도 집계했다."
               },
               {
                 "t": "p",
-                "x": "Roku는 단일 운영체제 안의 폐쇄형 측정으로 광고 노출을 앱 설치와 이후 시청에 직접 연결하고, 실시간 신호를 AI 학습 모델에 다시 반영한다."
+                "x": "Google 쪽 집계에서 의류는 약 111,000건, 가전은 약 55,000건, 여행은 약 6,500건, 뷰티는 약 2,100건, 장난감·게임은 약 685건이다. 별도 광고 구매는 없다. Search, Shopping, Performance Max 캠페인은 모두 자동으로 AI 답변에 노출될 자격을 얻는다. U.S. AI Overview 노출은 2025년 8월부터 2026년 8월 사이 3억400만 회에서 5억7500만 회로 89% 늘었다."
               },
               {
                 "t": "p",
-                "x": "Roku에 따르면 베타 기간 외부 광고주 집행 아홉 건 모두 목표 CPA 이하의 성과를 냈고, CPA 중앙값은 목표보다 38% 낮았다. 이 제품군은 TV 인벤토리를 퍼포먼스 마케팅 목표에 맞추는 두 가지 핵심 최적화 도구를 선보인다."
-              },
-              {
-                "t": "p",
-                "x": "플랫폼은 고유·증분 가구 도달을 극대화하고 광고 빈도를 관리하며, 기존 리니어 TV나 기존 미디어 플랜 밖의 시청자와 연결하는 것을 목표로 한다. 앱 설치, 첫 시청, 가입, 구독, 체험 등 광고주가 정의한 특정 전환도 이끌어 낸다."
-              },
-              {
-                "t": "p",
-                "x": "현재 Home Screen 네이티브 지면과 인스트림 동영상을 포함한 Roku 광고 생태계 전반에서 쓸 수 있으며, Roku Outcomes는 우선 미디어·엔터테인먼트 광고주에게 제공된다. 향후 업데이트로 구매, 웹사이트 방문, 장바구니 활동도 지원할 계획이다."
+                "x": "ChatGPT에서는 의류가 90,517건으로 가장 많았고 가전 56,569건, 여행 48,134건, 장난감·게임 4,694건, 뷰티 4,575건이 뒤를 이었다. 뷰티 광고의 83%는 조사·탐색 단계 검색어에 노출됐고, 의류와 가전은 각각 48%, 42%로 절반에 못 미쳤다. 보고서는 클릭·지출·전환을 추적하지 않으며, 데이터는 Black Friday 이전인 9월에서 끝난다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Roku Outcomes\nstreaming-TVへ",
-          "body": "RokuのAI広告ベータ九件すべてが目標CPAを達成し、中央値は目標を38%下回った。",
-          "mini_headline": "Roku、AI成果型広告を試験",
+          "headline": "Google AI回答の広告\nアパレルと家電に集中",
+          "body": "Google AI検索とChatGPTの年末商戦広告は、アパレルと家電に集中している。",
+          "mini_headline": "AI回答の広告はアパレルに集中",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mediaplaynews.com/wp-content/uploads/2026/11/Roku-Outcomes.jpg"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-shopping-ads.jpg"
               },
               {
                 "t": "p",
-                "x": "RokuはNov. 4、AI-driven広告プラットフォーム「Roku Outcomes」のベータ版提供開始を発表した。マーケターがストリーミングTVキャンペーンを特定の行動に向けて最適化できる。"
+                "x": "Adthenaによると、6月から9月にかけてU.S.（米国）のGoogle AI OverviewパネルとAI Modeパネル内で約175,100件の有料広告枠が確認された。対象は年末商戦の五つのカテゴリーだが、有料広告の大半はアパレルと家電が占めた。Holiday AI Paid Search Reportは同じ期間、同じ五つのカテゴリーでChatGPTの広告枠204,489件も集計している。"
               },
               {
                 "t": "p",
-                "x": "Rokuは単一のOS内でのクローズドループ計測により、広告接触をアプリのインストールやその後の視聴に直接結び付け、リアルタイムのシグナルをAI学習モデルに還元する。"
+                "x": "Googleの集計では、アパレルが約111,000件、家電が約55,000件、旅行が約6,500件、美容が約2,100件、玩具・ゲームが約685件だった。個別の広告購入はなく、Search、Shopping、Performance Maxの各キャンペーンはすべて自動的にAI回答への掲載対象となる。U.S.のAI Overview表示回数は2025年8月から2026年8月にかけて3億400万回から5億7500万回へ、89%増えた。"
               },
               {
                 "t": "p",
-                "x": "Rokuによると、ベータ期間中、外部広告主による九件の出稿はすべて目標CPA以下で成果を上げ、CPAの中央値は目標を38%下回った。このスイートは、TV在庫をパフォーマンスマーケティングの目標に合わせる二つの中核的な最適化ツールを備える。"
-              },
-              {
-                "t": "p",
-                "x": "同プラットフォームは、ユニークかつ増分の世帯リーチの最大化、広告フリークエンシーの管理、従来のリニアTVや既存のメディアプランを超えたオーディエンスとの接点づくりを狙う。アプリのインストール、初回視聴、登録、サブスクリプション、トライアルなど、広告主が定義する特定のコンバージョンも促す。"
-              },
-              {
-                "t": "p",
-                "x": "現在はHome Screenのネイティブ枠やインストリーム動画を含むRokuの広告エコシステム全体で利用でき、Roku Outcomesはまずメディア・エンターテインメント分野の広告主向けに展開される。今後のアップデートで購入、ウェブサイト訪問、カート行動にも対応する予定だ。"
+                "x": "ChatGPTではアパレルが90,517件で首位、次いで家電56,569件、旅行48,134件、玩具・ゲーム4,694件、美容4,575件だった。美容では広告の83%が調査・発見段階のクエリに表示され、アパレルと家電はそれぞれ48%、42%と半分を下回った。レポートはクリック、支出、コンバージョンを追跡しておらず、データはBlack Friday前の9月で終わっている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Roku Outcomes\n进军streaming-TV",
-          "body": "Roku AI广告平台九次测试投放全部达到目标CPA，中位数低于目标38%。",
-          "mini_headline": "Roku 测试 AI 效果广告",
+          "headline": "Google AI答案广告\n集中于服装和电子产品",
+          "body": "Google AI搜索与ChatGPT中的节日广告，主要集中在服装和电子产品领域。",
+          "mini_headline": "AI答案广告集中于服装",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mediaplaynews.com/wp-content/uploads/2026/11/Roku-Outcomes.jpg"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-shopping-ads.jpg"
               },
               {
                 "t": "p",
-                "x": "Roku 于 Nov. 4 宣布推出 AI-driven 广告平台 Roku Outcomes 测试版，营销人员可借此针对特定行动优化流媒体 TV 广告活动。"
+                "x": "Adthena报告称，6月至9月间，在U.S.（美国）的Google AI Overview面板和AI Mode面板中发现约175,100个付费广告展示位。统计涵盖五个节日购物类别，但大部分付费广告位属于服装和消费电子。Holiday AI Paid Search Report还统计了同期同五个类别中的204,489个ChatGPT广告展示位。"
               },
               {
                 "t": "p",
-                "x": "Roku 利用其单一操作系统内的闭环测量，将广告曝光直接与应用安装及后续观看相关联，并把实时信号回传至其 AI 学习模型。"
+                "x": "在Google的统计中，服装约111,000个，消费电子约55,000个，旅行约6,500个，美妆约2,100个，玩具与游戏约685个。广告主无需单独购买：所有Search、Shopping和Performance Max广告系列都会自动获得在AI答案中展示的资格。2025年8月至2026年8月，U.S. AI Overview的展示次数从3.04亿次增至5.75亿次，增长89%。"
               },
               {
                 "t": "p",
-                "x": "据 Roku 称，测试期间九次外部广告主投放全部达到或低于目标 CPA，CPA 中位数比目标低 38%。该套件推出两款核心优化工具，旨在让 TV 库存与效果营销目标相匹配。"
+                "x": "在ChatGPT上，服装以90,517个居首，其次是消费电子56,569个、旅行48,134个、玩具与游戏4,694个、美妆4,575个。美妆类广告中有83%出现在调研与发现类查询中；服装和消费电子不到一半，分别为48%和42%。该报告未追踪点击、支出或转化，数据截至9月，早于Black Friday。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Anuncios en la IA de Google\nse agrupan en ropa y electrónica",
+          "body": "Datos navideños de Google AI Overviews, AI Mode y ChatGPT muestran anuncios concentrados en ropa y electrónica.",
+          "mini_headline": "Los anuncios de IA se concentran en ropa",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-shopping-ads.jpg"
               },
               {
                 "t": "p",
-                "x": "该平台旨在最大化独立且增量的家庭触达、管理广告频次，并触及传统线性 TV 或现有媒体计划之外的受众。它还将推动广告主自定义的特定转化，包括应用安装、首次观看、注册、订阅和试用。"
+                "x": "Adthena informó que entre junio y septiembre se detectaron aproximadamente 175,100 ubicaciones de anuncios pagados en los paneles de AI Overview y de AI Mode de Google en U.S. (Estados Unidos). El análisis abarcó cinco categorías de compras navideñas, pero la mayoría de esas ubicaciones correspondió a ropa y electrónica de consumo. El Holiday AI Paid Search Report también contabiliza 204,489 ubicaciones de anuncios en ChatGPT en las mismas cinco categorías y los mismos meses."
               },
               {
                 "t": "p",
-                "x": "Roku Outcomes 目前可在 Roku 整个广告生态中使用，包括 Home Screen 原生广告位和插播视频，首先面向媒体和娱乐广告主推出，未来更新还计划支持购买、网站访问和购物车活动。"
+                "x": "En el recuento de Google, la ropa suma aproximadamente 111,000 ubicaciones; la electrónica de consumo, unas 55,000; viajes, cerca de 6,500; belleza, unas 2,100, y juguetes y juegos, alrededor de 685. No hay compras de anuncios separadas: todas las campañas de Search, Shopping y Performance Max pueden aparecer automáticamente en las respuestas de IA. Las apariciones de AI Overview en U.S. crecieron un 89%, de 304 millones a 575 millones, entre agosto de 2025 y agosto de 2026."
+              },
+              {
+                "t": "p",
+                "x": "En ChatGPT, la ropa encabezó con 90,517 ubicaciones, seguida de electrónica de consumo con 56,569, viajes con 48,134, juguetes y juegos con 4,694 y belleza con 4,575. En belleza, el 83% de los anuncios apareció en consultas de investigación y descubrimiento; en ropa y electrónica de consumo la proporción quedó por debajo de la mitad, con 48% y 42%. El informe no mide clics, gasto ni conversiones, y sus datos terminan en septiembre, antes del Black Friday."
               }
             ]
           }
@@ -355,15 +275,15 @@
       }
     },
     {
-      "id": "tradedesk-dstillery-agents",
+      "id": "clarity-copilot-catalog",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "The Trade Desk\nDstillery AI연동",
-      "body": "AI 에이전트가 캠페인 중 오디언스를 바꾸지만 바이어는 지출 증가를 의심한다.",
-      "mini_headline": "DSP 에이전트, 오디언스 재구성",
+      "headline": "Clarity가 카탈로그를\nCopilot·Bing으로",
+      "body": "약관에 동의하면 Shopify·WooCommerce 상품이 Copilot에 실린다.",
+      "mini_headline": "Clarity, 매장 상품을 Copilot으로",
       "tool": "Marketing",
-      "source": "ADWEEK",
-      "url": "https://www.adweek.com/programmatic/the-trade-desk-and-dstillery-link-ai-agents-to-reshape-audiences-mid-campaign/",
+      "source": "PPC Land",
+      "url": "https://ppc.land/microsoft-clarity-puts-shopify-and-woocommerce-products-in-copilot-and-bing/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -371,173 +291,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/agentic-ai-cannes-2026.webp?w=652"
+            "src": "https://ppc.land/content/images/2026/11/microsoft-clarity-brand-agents-copilot-bing-catalog-mail-slot-skyscraper-billboard.jpg"
           },
           {
             "t": "p",
-            "x": "The Trade Desk가 대화형 에이전틱 플랫폼 Ask Koa를 애드테크 기업 Dstillery의 에이전틱 플랫폼 DS-1과 연결했다. 광고 구매자는 이제 맞춤 오디언스를 며칠이 아니라 몇 분 만에 만들 수 있다."
+            "x": "Microsoft는 2026년 11월 4일 무료 웹사이트 분석 서비스 Clarity를 세 방향으로 넓혔다. 웹사이트를 찾는 AI 에이전트용 대시보드와 시뮬레이션 도구, 사이트 이용 행태를 물으면 답하는 AI 분석가 Ask Clarity, 마지막으로 Brand Agents 변경이다. 쇼핑객이 AI에 추천을 구하면 자격을 갖춘 Shopify·WooCommerce 판매자의 상품이 Microsoft Copilot, Bing, MSN에 뜰 수 있다."
           },
           {
             "t": "p",
-            "x": "연동 후 두 회사의 AI 에이전트는 진행 중인 캠페인에서 서로 소통한다. 성과 인사이트와 광고주의 타기팅 목표를 보고 The Trade Desk에서 활성화할 새 오디언스를 찾아 만든다."
+            "x": "Microsoft Learn에 따르면 Brand Agents 약관에 동의한 판매자는 카탈로그 사본이 Microsoft Merchant Center에 게시되고 상품은 Bing, Copilot 등 Bing 기반 AI 어시스턴트 전반에서 검색된다. 구매는 판매자 웹사이트에서 한다. Brand Agents로 Square, Jobber, HubSpot, Calendly, Housecall Pro, Salesforce를 거쳐 지역 서비스를 예약할 수도 있다."
           },
           {
             "t": "p",
-            "x": "Dstillery 최고제품책임자 Taejin “TJ” In에 따르면 광고주는 이전에도 The Trade Desk에서 Dstillery의 맞춤 오디언스를 살 수 있었지만, 이를 만들려면 수작업 조율이 필요했고 보통 나흘이 걸렸다."
-          },
-          {
-            "t": "p",
-            "x": "광고 구매자들은 시간을 아낄 수 있다는 점은 인정하면서도 광고비 증가로 이어질지는 의문이라는 반응이다. (ADWEEK 기사의 나머지 부분은 구독자 전용이다.)"
+            "x": "“현재 Agentic Analytics가 지원하는 에이전트에는 Google, OpenAI, Anthropic의 에이전트 운영사가 포함된다.” Ask Clarity는 리테일러 대상 비공개 베타 상태다. 두 게시물 모두 ‘자격’의 기준이나 가격은 밝히지 않았다. 무료 분석 태그는 Microsoft 자체 서비스로 들어가는 유통 채널이 됐다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "The Trade Desk and Dstillery\nlink AI agents mid-campaign",
-          "body": "Linked AI agents now reshape audiences mid-campaign, but buyers question whether that will raise ad spend.",
-          "mini_headline": "DSP agents reshape audiences",
+          "headline": "Microsoft Clarity sends store\ncatalogs to Copilot and Bing",
+          "body": "Accepting Brand Agents terms sends a Shopify or WooCommerce catalog to Microsoft Merchant Center for Copilot and Bing.",
+          "mini_headline": "Clarity feeds stores to Copilot",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/agentic-ai-cannes-2026.webp?w=652"
+                "src": "https://ppc.land/content/images/2026/11/microsoft-clarity-brand-agents-copilot-bing-catalog-mail-slot-skyscraper-billboard.jpg"
               },
               {
                 "t": "p",
-                "x": "The Trade Desk is connecting Ask Koa, its conversational agentic platform, with adtech firm Dstillery’s agentic platform, DS-1, to help ad buyers create custom audiences in minutes rather than days."
+                "x": "Microsoft on November 4, 2026 extended Clarity, its free website analytics service, in three directions: a dashboard and simulation tool for AI agents that visit websites, an AI analyst called Ask Clarity that answers questions about site behaviour, and a change to Brand Agents under which products from eligible Shopify and WooCommerce merchants can appear in Microsoft Copilot, Bing and MSN when shoppers ask AI for recommendations."
               },
               {
                 "t": "p",
-                "x": "The integration lets the two companies’ AI agents communicate during live campaigns, using performance insights and an advertiser’s targeting goals to identify and build new audiences that can be activated through The Trade Desk."
+                "x": "According to Microsoft Learn, accepting the Brand Agents terms publishes a copy of the merchant’s catalog to Microsoft Merchant Center, which makes the products discoverable across Bing, Copilot and other AI assistants grounded in Bing. Shoppers complete the purchase on the merchant’s website. Brand Agents can also book local services through Square, Jobber, HubSpot, Calendly, Housecall Pro and Salesforce."
               },
               {
                 "t": "p",
-                "x": "Advertisers could already buy Dstillery’s custom audiences through The Trade Desk, but building them required manual coordination and typically took four days, said Taejin “TJ” In, Dstillery’s chief product officer."
-              },
-              {
-                "t": "p",
-                "x": "Ad buyers acknowledged the potential time savings, but question whether this would lead to increases in ad spend. (The rest of the ADWEEK story is for subscribers.)"
+                "x": "“Supported agents at this time for Agentic Analytics include Google, OpenAI, and Anthropic agent operators.” Ask Clarity is in closed beta for retailers. Neither post defines “eligible” or gives a price, and a free analytics tag has become a distribution channel into Microsoft’s own surfaces."
               }
             ]
           }
         },
         "ko": {
-          "headline": "The Trade Desk\nDstillery AI연동",
-          "body": "AI 에이전트가 캠페인 중 오디언스를 바꾸지만 바이어는 지출 증가를 의심한다.",
-          "mini_headline": "DSP 에이전트, 오디언스 재구성",
+          "headline": "Clarity가 카탈로그를\nCopilot·Bing으로",
+          "body": "약관에 동의하면 Shopify·WooCommerce 상품이 Copilot에 실린다.",
+          "mini_headline": "Clarity, 매장 상품을 Copilot으로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/agentic-ai-cannes-2026.webp?w=652"
+                "src": "https://ppc.land/content/images/2026/11/microsoft-clarity-brand-agents-copilot-bing-catalog-mail-slot-skyscraper-billboard.jpg"
               },
               {
                 "t": "p",
-                "x": "The Trade Desk가 대화형 에이전틱 플랫폼 Ask Koa를 애드테크 기업 Dstillery의 에이전틱 플랫폼 DS-1과 연결했다. 광고 구매자는 이제 맞춤 오디언스를 며칠이 아니라 몇 분 만에 만들 수 있다."
+                "x": "Microsoft는 2026년 11월 4일 무료 웹사이트 분석 서비스 Clarity를 세 방향으로 넓혔다. 웹사이트를 찾는 AI 에이전트용 대시보드와 시뮬레이션 도구, 사이트 이용 행태를 물으면 답하는 AI 분석가 Ask Clarity, 마지막으로 Brand Agents 변경이다. 쇼핑객이 AI에 추천을 구하면 자격을 갖춘 Shopify·WooCommerce 판매자의 상품이 Microsoft Copilot, Bing, MSN에 뜰 수 있다."
               },
               {
                 "t": "p",
-                "x": "연동 후 두 회사의 AI 에이전트는 진행 중인 캠페인에서 서로 소통한다. 성과 인사이트와 광고주의 타기팅 목표를 보고 The Trade Desk에서 활성화할 새 오디언스를 찾아 만든다."
+                "x": "Microsoft Learn에 따르면 Brand Agents 약관에 동의한 판매자는 카탈로그 사본이 Microsoft Merchant Center에 게시되고 상품은 Bing, Copilot 등 Bing 기반 AI 어시스턴트 전반에서 검색된다. 구매는 판매자 웹사이트에서 한다. Brand Agents로 Square, Jobber, HubSpot, Calendly, Housecall Pro, Salesforce를 거쳐 지역 서비스를 예약할 수도 있다."
               },
               {
                 "t": "p",
-                "x": "Dstillery 최고제품책임자 Taejin “TJ” In에 따르면 광고주는 이전에도 The Trade Desk에서 Dstillery의 맞춤 오디언스를 살 수 있었지만, 이를 만들려면 수작업 조율이 필요했고 보통 나흘이 걸렸다."
-              },
-              {
-                "t": "p",
-                "x": "광고 구매자들은 시간을 아낄 수 있다는 점은 인정하면서도 광고비 증가로 이어질지는 의문이라는 반응이다. (ADWEEK 기사의 나머지 부분은 구독자 전용이다.)"
+                "x": "“현재 Agentic Analytics가 지원하는 에이전트에는 Google, OpenAI, Anthropic의 에이전트 운영사가 포함된다.” Ask Clarity는 리테일러 대상 비공개 베타 상태다. 두 게시물 모두 ‘자격’의 기준이나 가격은 밝히지 않았다. 무료 분석 태그는 Microsoft 자체 서비스로 들어가는 유통 채널이 됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "The Trade Desk\nDstilleryとAI連携",
-          "body": "連携したAIエージェントが配信中に客層を組み替えるが、広告費が増えるかは疑問視される。",
-          "mini_headline": "DSPエージェントが客層を再構成",
+          "headline": "Clarity、店の商品を\nCopilotとBingへ",
+          "body": "規約同意でShopifyとWooCommerceの商品がCopilotとBingに載る。",
+          "mini_headline": "Clarity、店舗をCopilotへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/agentic-ai-cannes-2026.webp?w=652"
+                "src": "https://ppc.land/content/images/2026/11/microsoft-clarity-brand-agents-copilot-bing-catalog-mail-slot-skyscraper-billboard.jpg"
               },
               {
                 "t": "p",
-                "x": "The Trade Deskは、対話型エージェントプラットフォーム「Ask Koa」をアドテク企業Dstilleryのエージェントプラットフォーム「DS-1」と接続し、広告バイヤーが数日ではなく数分でカスタムオーディエンスを作成できるよう支援する。"
+                "x": "Microsoftは2026年11月4日、無料のウェブサイト分析サービスClarityを三つの方向に拡張した。ウェブサイトを訪れるAIエージェント向けのダッシュボードとシミュレーションツール、サイト上の行動に関する質問に答えるAIアナリスト「Ask Clarity」、そして買い物客がAIにおすすめを尋ねた際、対象となるShopifyとWooCommerceの事業者の商品がMicrosoft Copilot、Bing、MSNに表示されうるようにするBrand Agentsの変更である。"
               },
               {
                 "t": "p",
-                "x": "この連携により、両社のAIエージェントは配信中のキャンペーンで相互に通信し、パフォーマンスの知見と広告主のターゲティング目標を用いて、The Trade Deskで有効化できる新たなオーディエンスを特定・構築する。"
+                "x": "Microsoft Learnによると、Brand Agentsの規約に同意すると事業者のカタログのコピーがMicrosoft Merchant Centerに公開され、商品はBing、CopilotなどBingを基盤とするAIアシスタント全体で見つけられるようになる。購入は事業者のウェブサイトで完了する。Brand AgentsはSquare、Jobber、HubSpot、Calendly、Housecall Pro、Salesforceを通じて地域サービスの予約もできる。"
               },
               {
                 "t": "p",
-                "x": "DstilleryのチーフプロダクトオフィサーであるTaejin “TJ” In氏によると、広告主はこれまでもThe Trade Desk経由でDstilleryのカスタムオーディエンスを購入できたが、その構築には手作業による調整が必要で、通常四日かかっていたという。"
-              },
-              {
-                "t": "p",
-                "x": "広告バイヤーは時間短縮の可能性を認めつつも、これが広告費の増加につながるかには疑問を呈している。（ADWEEKの記事の残りは購読者限定。）"
+                "x": "「現時点でAgentic Analyticsが対応するエージェントには、Google、OpenAI、Anthropicのエージェント運営者が含まれる」。Ask Clarityは小売事業者向けのクローズドベータだ。どちらの投稿も「対象」の定義や価格を示しておらず、無料の分析タグがMicrosoft自身のサービスへの流通チャネルになった形だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "The Trade Desk\n与Dstillery联通AI",
-          "body": "互联的AI代理可在投放中调整受众，但买方怀疑这能否提高广告支出。",
-          "mini_headline": "DSP代理重塑受众",
+          "headline": "Clarity把店铺商品目录\n送进Copilot和Bing",
+          "body": "同意条款后，Shopify与WooCommerce商品可出现在Copilot和Bing。",
+          "mini_headline": "Clarity把商店接入Copilot",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/agentic-ai-cannes-2026.webp?w=652"
+                "src": "https://ppc.land/content/images/2026/11/microsoft-clarity-brand-agents-copilot-bing-catalog-mail-slot-skyscraper-billboard.jpg"
               },
               {
                 "t": "p",
-                "x": "The Trade Desk正将其对话式智能体平台Ask Koa与广告技术公司Dstillery的智能体平台DS-1对接，帮助广告买家在几分钟而非几天内创建自定义受众。"
+                "x": "Microsoft于2026年11月4日从三个方向扩展了其免费网站分析服务Clarity：一是面向访问网站的AI代理的仪表盘和模拟工具；二是可回答网站用户行为相关问题的AI分析师Ask Clarity；三是调整Brand Agents，使购物者向AI寻求推荐时，符合条件的Shopify和WooCommerce商家的商品可出现在Microsoft Copilot、Bing和MSN中。"
               },
               {
                 "t": "p",
-                "x": "此次集成让两家公司的AI代理能在进行中的广告活动里相互沟通，利用效果洞察和广告主的定向目标，识别并构建可通过The Trade Desk激活的新受众。"
+                "x": "据Microsoft Learn介绍，接受Brand Agents条款后，商家商品目录的副本会发布到Microsoft Merchant Center，使商品可在Bing、Copilot及其他基于Bing的AI助手中被发现。购物者在商家网站上完成购买。Brand Agents还可通过Square、Jobber、HubSpot、Calendly、Housecall Pro和Salesforce预约本地服务。"
               },
               {
                 "t": "p",
-                "x": "Dstillery首席产品官Taejin “TJ” In表示，广告主此前已可通过The Trade Desk购买Dstillery的自定义受众，但构建这些受众需要人工协调，通常需要四天。"
-              },
-              {
-                "t": "p",
-                "x": "广告买家承认这可能节省时间，但质疑这能否带来广告支出的增长。（ADWEEK报道的其余内容仅限订阅用户阅读。）"
+                "x": "“目前Agentic Analytics支持的代理包括Google、OpenAI和Anthropic的代理运营方。”Ask Clarity目前面向零售商进行封闭测试。两篇文章都没有界定何为“符合条件”，也未公布价格；一个免费的分析标签由此成了通往Microsoft自有平台的分发渠道。"
               }
             ]
           }
         },
         "es": {
-          "headline": "The Trade Desk y Dstillery\nconectan agentes AI en campaña",
-          "body": "Los agentes de AI conectados reajustan audiencias en plena campaña, pero los compradores dudan que aumente el gasto.",
-          "mini_headline": "Agentes de DSP rehacen audiencias",
+          "headline": "Microsoft Clarity envía\ncatálogos a Copilot y Bing",
+          "body": "Aceptar los términos de Brand Agents envía el catálogo de Shopify o WooCommerce a Merchant Center para Copilot y Bing.",
+          "mini_headline": "Clarity lleva tiendas a Copilot",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/agentic-ai-cannes-2026.webp?w=652"
+                "src": "https://ppc.land/content/images/2026/11/microsoft-clarity-brand-agents-copilot-bing-catalog-mail-slot-skyscraper-billboard.jpg"
               },
               {
                 "t": "p",
-                "x": "The Trade Desk está conectando Ask Koa, su plataforma agéntica conversacional, con DS-1, la plataforma agéntica de la empresa de adtech Dstillery, para ayudar a los compradores de publicidad a crear audiencias personalizadas en minutos en lugar de días."
+                "x": "Microsoft amplió el 4 de noviembre de 2026 Clarity, su servicio gratuito de analítica web, en tres direcciones: un panel y una herramienta de simulación para los agentes de IA que visitan sitios web, un analista de IA llamado Ask Clarity que responde preguntas sobre el comportamiento en el sitio, y un cambio en Brand Agents por el que los productos de comercios elegibles de Shopify y WooCommerce pueden aparecer en Microsoft Copilot, Bing y MSN cuando los compradores piden recomendaciones a la IA."
               },
               {
                 "t": "p",
-                "x": "La integración permite que los agentes de AI de ambas compañías se comuniquen durante las campañas activas, usando datos de rendimiento y los objetivos de segmentación del anunciante para identificar y crear nuevas audiencias que pueden activarse a través de The Trade Desk."
+                "x": "Según Microsoft Learn, aceptar los términos de Brand Agents publica una copia del catálogo del comercio en Microsoft Merchant Center, lo que permite descubrir los productos en Bing, Copilot y otros asistentes de IA basados en Bing. Los compradores completan la compra en el sitio web del comercio. Brand Agents también puede reservar servicios locales a través de Square, Jobber, HubSpot, Calendly, Housecall Pro y Salesforce."
               },
               {
                 "t": "p",
-                "x": "Los anunciantes ya podían comprar las audiencias personalizadas de Dstillery a través de The Trade Desk, pero crearlas requería coordinación manual y solía llevar cuatro días, dijo Taejin “TJ” In, director de producto de Dstillery."
-              },
-              {
-                "t": "p",
-                "x": "Los compradores de publicidad reconocieron el posible ahorro de tiempo, pero dudan de que esto se traduzca en un aumento de la inversión publicitaria. (El resto del artículo de ADWEEK es para suscriptores.)"
+                "x": "«Por ahora, los agentes compatibles con Agentic Analytics incluyen a los operadores de agentes de Google, OpenAI y Anthropic». Ask Clarity está en beta cerrada para minoristas. Ninguna de las dos publicaciones define qué significa «elegible» ni indica un precio, y una etiqueta de analítica gratuita se ha convertido en un canal de distribución hacia las propias plataformas de Microsoft."
               }
             ]
           }
@@ -545,121 +441,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "The Trade Desk\nDstillery AI연동",
-          "body": "AI 에이전트가 캠페인 중 오디언스를 바꾸지만 바이어는 지출 증가를 의심한다.",
-          "mini_headline": "DSP 에이전트, 오디언스 재구성",
+          "headline": "Clarity가 카탈로그를\nCopilot·Bing으로",
+          "body": "약관 동의로 Shopify·WooCommerce 상품이 Copilot에 실린다.",
+          "mini_headline": "Clarity, 매장 상품을 Copilot으로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/agentic-ai-cannes-2026.webp?w=652"
+                "src": "https://ppc.land/content/images/2026/11/microsoft-clarity-brand-agents-copilot-bing-catalog-mail-slot-skyscraper-billboard.jpg"
               },
               {
                 "t": "p",
-                "x": "The Trade Desk는 대화형 에이전틱 플랫폼 Ask Koa를 애드테크 기업 Dstillery의 에이전틱 플랫폼 DS-1과 연결해, 광고 구매자가 며칠이 아니라 몇 분 만에 맞춤 오디언스를 만들 수 있도록 돕는다."
+                "x": "Microsoft는 2026년 11월 4일 무료 웹사이트 분석 서비스 Clarity를 세 방향으로 확장했다. 웹사이트를 방문하는 AI 에이전트를 위한 대시보드와 시뮬레이션 도구, 사이트 이용 행태에 관한 질문에 답하는 AI 분석가 Ask Clarity, 그리고 쇼핑객이 AI에 추천을 요청할 때 자격을 갖춘 Shopify·WooCommerce 판매자의 상품이 Microsoft Copilot, Bing, MSN에 노출될 수 있게 한 Brand Agents 변경이다."
               },
               {
                 "t": "p",
-                "x": "이번 연동으로 두 회사의 AI 에이전트는 진행 중인 캠페인에서 서로 소통하며, 성과 인사이트와 광고주의 타기팅 목표를 바탕으로 The Trade Desk에서 활성화할 수 있는 새 오디언스를 찾아 구축한다."
+                "x": "Microsoft Learn에 따르면 Brand Agents 약관에 동의하면 판매자 카탈로그 사본이 Microsoft Merchant Center에 게시되고, 상품은 Bing, Copilot 등 Bing 기반 AI 어시스턴트 전반에서 검색된다. 구매는 판매자 웹사이트에서 이뤄진다. Brand Agents는 Square, Jobber, HubSpot, Calendly, Housecall Pro, Salesforce를 통해 지역 서비스 예약도 할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Dstillery 최고제품책임자 Taejin “TJ” In은 광고주가 이전에도 The Trade Desk를 통해 Dstillery의 맞춤 오디언스를 구매할 수 있었지만, 이를 구축하려면 수작업 조율이 필요했고 보통 나흘이 걸렸다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "광고 구매자들은 시간 절약 가능성은 인정했지만, 이것이 광고비 증가로 이어질지에는 의문을 제기한다. (ADWEEK 기사의 나머지 부분은 구독자 전용이다.)"
+                "x": "“현재 Agentic Analytics가 지원하는 에이전트에는 Google, OpenAI, Anthropic의 에이전트 운영사가 포함된다.” Ask Clarity는 리테일러 대상 비공개 베타 상태다. 두 게시물 모두 ‘자격’의 기준이나 가격을 밝히지 않았고, 무료 분석 태그가 Microsoft 자체 서비스로 들어가는 유통 채널이 됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "The Trade Desk\nDstilleryとAI連携",
-          "body": "連携したAIエージェントが配信中に客層を組み替えるが、広告費が増えるかは疑問視される。",
-          "mini_headline": "DSPエージェントが客層を再構成",
+          "headline": "Clarity、店の商品を\nCopilotとBingへ",
+          "body": "規約同意でShopifyとWooCommerceの商品がCopilotとBingに載る。",
+          "mini_headline": "Clarity、店舗をCopilotへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/agentic-ai-cannes-2026.webp?w=652"
+                "src": "https://ppc.land/content/images/2026/11/microsoft-clarity-brand-agents-copilot-bing-catalog-mail-slot-skyscraper-billboard.jpg"
               },
               {
                 "t": "p",
-                "x": "The Trade Deskは、対話型エージェントプラットフォーム「Ask Koa」をアドテク企業Dstilleryのエージェントプラットフォーム「DS-1」と接続し、広告バイヤーが数日ではなく数分でカスタムオーディエンスを作成できるよう支援する。"
+                "x": "Microsoftは2026年11月4日、無料のウェブサイト分析サービスClarityを三つの方向に拡張した。ウェブサイトを訪れるAIエージェント向けのダッシュボードとシミュレーションツール、サイト上の行動に関する質問に答えるAIアナリスト「Ask Clarity」、そして買い物客がAIにおすすめを尋ねた際、対象となるShopifyとWooCommerceの事業者の商品がMicrosoft Copilot、Bing、MSNに表示されうるようにするBrand Agentsの変更である。"
               },
               {
                 "t": "p",
-                "x": "この連携により、両社のAIエージェントは配信中のキャンペーンで相互に通信し、パフォーマンスの知見と広告主のターゲティング目標を用いて、The Trade Deskで有効化できる新たなオーディエンスを特定・構築する。"
+                "x": "Microsoft Learnによると、Brand Agentsの規約に同意すると事業者のカタログのコピーがMicrosoft Merchant Centerに公開され、商品はBing、CopilotなどBingを基盤とするAIアシスタント全体で見つけられるようになる。購入は事業者のウェブサイトで完了する。Brand AgentsはSquare、Jobber、HubSpot、Calendly、Housecall Pro、Salesforceを通じて地域サービスの予約もできる。"
               },
               {
                 "t": "p",
-                "x": "DstilleryのチーフプロダクトオフィサーであるTaejin “TJ” In氏によると、広告主はこれまでもThe Trade Desk経由でDstilleryのカスタムオーディエンスを購入できたが、その構築には手作業による調整が必要で、通常四日かかっていたという。"
-              },
-              {
-                "t": "p",
-                "x": "広告バイヤーは時間短縮の可能性を認めつつも、これが広告費の増加につながるかには疑問を呈している。（ADWEEKの記事の残りは購読者限定。）"
+                "x": "「現時点でAgentic Analyticsが対応するエージェントには、Google、OpenAI、Anthropicのエージェント運営者が含まれる」。Ask Clarityは小売事業者向けのクローズドベータだ。どちらの投稿も「対象」の定義や価格を示しておらず、無料の分析タグがMicrosoft自身のサービスへの流通チャネルになった形だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "The Trade Desk\n与Dstillery联通AI",
-          "body": "互联的AI代理可在投放中调整受众，但买方怀疑这能否提高广告支出。",
-          "mini_headline": "DSP代理重塑受众",
+          "headline": "Clarity把店铺商品目录\n送进Copilot和Bing",
+          "body": "同意条款后，Shopify与WooCommerce商品可出现在Copilot和Bing。",
+          "mini_headline": "Clarity把商店接入Copilot",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/agentic-ai-cannes-2026.webp?w=652"
+                "src": "https://ppc.land/content/images/2026/11/microsoft-clarity-brand-agents-copilot-bing-catalog-mail-slot-skyscraper-billboard.jpg"
               },
               {
                 "t": "p",
-                "x": "The Trade Desk正将其对话式智能体平台Ask Koa与广告技术公司Dstillery的智能体平台DS-1对接，帮助广告买家在几分钟而非几天内创建自定义受众。"
+                "x": "Microsoft于2026年11月4日从三个方向扩展了其免费网站分析服务Clarity：一是面向访问网站的AI代理的仪表盘和模拟工具；二是可回答网站用户行为相关问题的AI分析师Ask Clarity；三是调整Brand Agents，使购物者向AI寻求推荐时，符合条件的Shopify和WooCommerce商家的商品可出现在Microsoft Copilot、Bing和MSN中。"
               },
               {
                 "t": "p",
-                "x": "此次集成让两家公司的AI代理能在进行中的广告活动里相互沟通，利用效果洞察和广告主的定向目标，识别并构建可通过The Trade Desk激活的新受众。"
+                "x": "据Microsoft Learn介绍，接受Brand Agents条款后，商家商品目录的副本会发布到Microsoft Merchant Center，使商品可在Bing、Copilot及其他基于Bing的AI助手中被发现。购物者在商家网站上完成购买。Brand Agents还可通过Square、Jobber、HubSpot、Calendly、Housecall Pro和Salesforce预约本地服务。"
               },
               {
                 "t": "p",
-                "x": "Dstillery首席产品官Taejin “TJ” In表示，广告主此前已可通过The Trade Desk购买Dstillery的自定义受众，但构建这些受众需要人工协调，通常需要四天。"
-              },
-              {
-                "t": "p",
-                "x": "广告买家承认这可能节省时间，但质疑这能否带来广告支出的增长。（ADWEEK报道的其余内容仅限订阅用户阅读。）"
+                "x": "“目前Agentic Analytics支持的代理包括Google、OpenAI和Anthropic的代理运营方。”Ask Clarity目前面向零售商进行封闭测试。两篇文章都没有界定何为“符合条件”，也未公布价格；一个免费的分析标签由此成了通往Microsoft自有平台的分发渠道。"
               }
             ]
           }
         },
         "es": {
-          "headline": "The Trade Desk y Dstillery\nconectan agentes AI en campaña",
-          "body": "Los agentes de AI conectados reajustan audiencias en plena campaña, pero los compradores dudan que aumente el gasto.",
-          "mini_headline": "Agentes de DSP rehacen audiencias",
+          "headline": "Microsoft Clarity envía\ncatálogos a Copilot y Bing",
+          "body": "Aceptar los términos de Brand Agents envía el catálogo de Shopify o WooCommerce a Merchant Center para Copilot y Bing.",
+          "mini_headline": "Clarity lleva tiendas a Copilot",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/agentic-ai-cannes-2026.webp?w=652"
+                "src": "https://ppc.land/content/images/2026/11/microsoft-clarity-brand-agents-copilot-bing-catalog-mail-slot-skyscraper-billboard.jpg"
               },
               {
                 "t": "p",
-                "x": "The Trade Desk está conectando Ask Koa, su plataforma agéntica conversacional, con DS-1, la plataforma agéntica de la empresa de adtech Dstillery, para ayudar a los compradores de publicidad a crear audiencias personalizadas en minutos en lugar de días."
+                "x": "Microsoft amplió el 4 de noviembre de 2026 Clarity, su servicio gratuito de analítica web, en tres direcciones: un panel y una herramienta de simulación para los agentes de IA que visitan sitios web, un analista de IA llamado Ask Clarity que responde preguntas sobre el comportamiento en el sitio, y un cambio en Brand Agents por el que los productos de comercios elegibles de Shopify y WooCommerce pueden aparecer en Microsoft Copilot, Bing y MSN cuando los compradores piden recomendaciones a la IA."
               },
               {
                 "t": "p",
-                "x": "La integración permite que los agentes de AI de ambas compañías se comuniquen durante las campañas activas, usando datos de rendimiento y los objetivos de segmentación del anunciante para identificar y crear nuevas audiencias que pueden activarse a través de The Trade Desk."
+                "x": "Según Microsoft Learn, aceptar los términos de Brand Agents publica una copia del catálogo del comercio en Microsoft Merchant Center, lo que permite descubrir los productos en Bing, Copilot y otros asistentes de IA basados en Bing. Los compradores completan la compra en el sitio web del comercio. Brand Agents también puede reservar servicios locales a través de Square, Jobber, HubSpot, Calendly, Housecall Pro y Salesforce."
               },
               {
                 "t": "p",
-                "x": "Los anunciantes ya podían comprar las audiencias personalizadas de Dstillery a través de The Trade Desk, pero crearlas requería coordinación manual y solía llevar cuatro días, dijo Taejin “TJ” In, director de producto de Dstillery."
-              },
-              {
-                "t": "p",
-                "x": "Los compradores de publicidad reconocieron el posible ahorro de tiempo, pero dudan de que esto se traduzca en un aumento de la inversión publicitaria. (El resto del artículo de ADWEEK es para suscriptores.)"
+                "x": "«Por ahora, los agentes compatibles con Agentic Analytics incluyen a los operadores de agentes de Google, OpenAI y Anthropic». Ask Clarity está en beta cerrada para minoristas. Ninguna de las dos publicaciones define qué significa «elegible» ni indica un precio, y una etiqueta de analítica gratuita se ha convertido en un canal de distribución hacia las propias plataformas de Microsoft."
               }
             ]
           }
@@ -667,219 +547,195 @@
       }
     },
     {
-      "id": "google-aimode-four-ads",
+      "id": "fresh-step-rece-ai-ads",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google AI Mode\n답변에 광고 최대 네 개",
-      "body": "Google이 AI Mode 답변당 Google Ads를 최대 네 개 싣는다.",
-      "mini_headline": "AI Mode 답변당 광고 네 개",
+      "headline": "Fresh Step 광고\nAI로 비용 10분의 1",
+      "body": "Clorox가 RECE와 AI로 한 달여 만에 1/10 비용의 캠페인을 냈다.",
+      "mini_headline": "Fresh Step, AI 광고 비용 10분의 1",
       "tool": "Marketing",
-      "source": "Search Engine Roundtable",
-      "url": "https://www.seroundtable.com/google-ai-mode-four-ads-42443.html",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/how-fresh-step-used-ai-to-go-from-brief-to-ads-at-one-tenth-the-cost/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.seroundtable.com/google-ads-logo-glow-4hDAWd1f.jpg"
+            "src": "https://imgproxy.divecdn.com/Ur5qvQtXNEKwNqJ8YxJ6WKhh_3fmTPoemZZdCJCA1DA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mcmVzaC1zdGVwLmpwZw==.webp",
+            "cap": "Fresh Step 새 광고에서는 AI로 생성한(AI-generated) 고양이들이 말을 하며 Clorox 브랜드의 가치 제안을 전한다."
           },
           {
             "t": "p",
-            "x": "Google은 이제 검색어 하나에 대한 AI Mode 답변에 Google Ads를 최대 네 개까지 띄울 수 있다. 사실 새로운 일인지는 잘 모르겠다. Google Ads는 2016년부터 공식적으로 검색 결과에 광고 네 개를 보여 왔다. 다만 Google이 실적 발표 콜에서 AI Mode에 광고를 더 많이, 더 자주 보여주겠다고 말한 것은 분명하다."
+            "x": "Clorox 고양이 모래 포트폴리오의 핵심 브랜드 Fresh Step은 대표 약속인 냄새 제거를 두고 카테고리 압박이 커지는 상황을 맞았다. The Clorox Company 고양이 모래 담당 시니어 마케팅 디렉터 Deb Crandall은 “실제 사업상 압박이 있었고, ‘여섯 달 뒤에 아이디어를 갖고 오겠다’고 [말하는 것은] 받아들여질 수 없었다”고 말했다."
+          },
+          {
+            "t": "video",
+            "yt": "4SsEMNM9oz0"
           },
           {
             "t": "p",
-            "x": "Sachin Patel은 Search Engine Watch에 Google AI Mode 검색어에 광고 네 개가 붙은 스크린샷을 올렸다. 스크린샷은 다음과 같다:"
-          },
-          {
-            "t": "img",
-            "src": "https://images.seroundtable.com/google-ai-mode-with-four-ads-3NkBKM12.jpg",
-            "cap": "광고 네 개가 붙은 Google AI Mode"
+            "x": "Fresh Step은 인공지능 기반 에이전시 RECE와 함께 15초 광고 세 편을 브리프부터 완성 크리에이티브까지 30일 만에 만들었다. 비용은 기존 제작 방식의 10분의 1이었다. 광고는 리니어 TV에서 방영을 시작했고 소셜용 축약본도 함께 나간다. 11월 9일까지 전편이 공개된다."
           },
           {
             "t": "p",
-            "x": "보통은 광고가 한두 개, 가끔 세 개 보인다. 그런데 Google이 검색에서는 AI Mode만큼 클릭을 수익화하지 못하는 탓인지 이제 광고를 최대 네 개까지 보여주는 듯하다... 물론 US에서는 후속 검색어에 붙는 광고, 즉 멀티턴 광고도 보게 된다. 광고는 더 늘어난다..."
-          },
-          {
-            "t": "p",
-            "x": "다음 분기에는 Google의 광고 수익이 늘어나는 모습을 보게 되지 않을까?"
+            "x": "AI는 크리에이티브 콘셉트를 빠르게 시제품으로 만들어 어떤 안이 반응을 얻는지 확인하는 데 쓰였다. Crandall은 “내가 보기에 이건 누가 봐도 AI였다. 여기서 누구를 속이려는 게 아니다”라고 말했다. 비용이 10분의 1이면 캠페인을 10개 더 만들 수 있다는 말과 거의 같다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google AI Mode answers\nnow carry up to four ads",
-          "body": "Google can now place up to four Google Ads in a single AI Mode response, following its pledge to show more ads.",
-          "mini_headline": "Four ads per AI Mode answer",
+          "headline": "Fresh Step used AI to make\nads at one-tenth the cost",
+          "body": "Clorox's litter brand and agency RECE used AI to get a campaign in market in about a month at a tenth of the cost.",
+          "mini_headline": "Fresh Step's AI ads at a tenth",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-logo-glow-4hDAWd1f.jpg"
+                "src": "https://imgproxy.divecdn.com/Ur5qvQtXNEKwNqJ8YxJ6WKhh_3fmTPoemZZdCJCA1DA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mcmVzaC1zdGVwLmpwZw==.webp",
+                "cap": "Fresh Step’s new ads feature a cast of AI-generated talking cats that speak to the Clorox brand's value proposition."
               },
               {
                 "t": "p",
-                "x": "Google can now show up to four Google Ads in the AI Mode responses for a single query. I mean, I am not sure if this is new, being that Google Ads has been showing four ads for search results officially since 2016 but we do know Google said it will show more ads, more often, in AI Mode during its earnings call."
+                "x": "Fresh Step, the crown jewel of Clorox’s cat litter portfolio, faced heightened category pressure on its core promise around odor control. “There's a real business pressure, and it was not going to be acceptable [to say] I'll come in six months with my idea,” said Deb Crandall, senior marketing director on litter at The Clorox Company."
+              },
+              {
+                "t": "video",
+                "yt": "4SsEMNM9oz0"
               },
               {
                 "t": "p",
-                "x": "Sachin Patel posted a screenshot on Search Engine Watch showing four ads for an AI Mode query in Google - here is that screenshot:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ai-mode-with-four-ads-3NkBKM12.jpg",
-                "cap": "Google AI Mode with four ads"
+                "x": "Fresh Step teamed with artificial intelligence-powered agency RECE to go from brief to finished ad creative on three 15-second spots in 30 days and at one-tenth the cost of a traditional production. The ads are rolling out now across linear TV with cutdowns on social and will be live by Nov. 9."
               },
               {
                 "t": "p",
-                "x": "Generally, you would see one or two ads, sometimes three. But I guess with Google not being able to monetize those clicks as well in search than they can in AI Mode, Google is now showing up to four ads... Of course, we will also see multiturn ads, ads on follow up queries, in the US. So even more ads are coming..."
-              },
-              {
-                "t": "p",
-                "x": "I guess we will be seeing an increase in ad earnings from Google next quarter?"
+                "x": "AI helped to rapidly prototype creative concepts to show what was resonating. “This, to me, was very clearly AI. We're not trying to fool anybody here,” Crandall said. Getting it done at one-tenth the cost roughly equates to being able to create 10 more campaigns."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google AI Mode\n답변에 광고 최대 네 개",
-          "body": "Google이 AI Mode 답변당 Google Ads를 최대 네 개 싣는다.",
-          "mini_headline": "AI Mode 답변당 광고 네 개",
+          "headline": "Fresh Step 광고\nAI로 비용 10분의 1",
+          "body": "Clorox가 RECE와 AI로 한 달여 만에 1/10 비용의 캠페인을 냈다.",
+          "mini_headline": "Fresh Step, AI 광고 비용 10분의 1",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-logo-glow-4hDAWd1f.jpg"
+                "src": "https://imgproxy.divecdn.com/Ur5qvQtXNEKwNqJ8YxJ6WKhh_3fmTPoemZZdCJCA1DA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mcmVzaC1zdGVwLmpwZw==.webp",
+                "cap": "Fresh Step 새 광고에서는 AI로 생성한(AI-generated) 고양이들이 말을 하며 Clorox 브랜드의 가치 제안을 전한다."
               },
               {
                 "t": "p",
-                "x": "Google은 이제 검색어 하나에 대한 AI Mode 답변에 Google Ads를 최대 네 개까지 띄울 수 있다. 사실 새로운 일인지는 잘 모르겠다. Google Ads는 2016년부터 공식적으로 검색 결과에 광고 네 개를 보여 왔다. 다만 Google이 실적 발표 콜에서 AI Mode에 광고를 더 많이, 더 자주 보여주겠다고 말한 것은 분명하다."
+                "x": "Clorox 고양이 모래 포트폴리오의 핵심 브랜드 Fresh Step은 대표 약속인 냄새 제거를 두고 카테고리 압박이 커지는 상황을 맞았다. The Clorox Company 고양이 모래 담당 시니어 마케팅 디렉터 Deb Crandall은 “실제 사업상 압박이 있었고, ‘여섯 달 뒤에 아이디어를 갖고 오겠다’고 [말하는 것은] 받아들여질 수 없었다”고 말했다."
+              },
+              {
+                "t": "video",
+                "yt": "4SsEMNM9oz0"
               },
               {
                 "t": "p",
-                "x": "Sachin Patel은 Search Engine Watch에 Google AI Mode 검색어에 광고 네 개가 붙은 스크린샷을 올렸다. 스크린샷은 다음과 같다:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ai-mode-with-four-ads-3NkBKM12.jpg",
-                "cap": "광고 네 개가 붙은 Google AI Mode"
+                "x": "Fresh Step은 인공지능 기반 에이전시 RECE와 함께 15초 광고 세 편을 브리프부터 완성 크리에이티브까지 30일 만에 만들었다. 비용은 기존 제작 방식의 10분의 1이었다. 광고는 리니어 TV에서 방영을 시작했고 소셜용 축약본도 함께 나간다. 11월 9일까지 전편이 공개된다."
               },
               {
                 "t": "p",
-                "x": "보통은 광고가 한두 개, 가끔 세 개 보인다. 그런데 Google이 검색에서는 AI Mode만큼 클릭을 수익화하지 못하는 탓인지 이제 광고를 최대 네 개까지 보여주는 듯하다... 물론 US에서는 후속 검색어에 붙는 광고, 즉 멀티턴 광고도 보게 된다. 광고는 더 늘어난다..."
-              },
-              {
-                "t": "p",
-                "x": "다음 분기에는 Google의 광고 수익이 늘어나는 모습을 보게 되지 않을까?"
+                "x": "AI는 크리에이티브 콘셉트를 빠르게 시제품으로 만들어 어떤 안이 반응을 얻는지 확인하는 데 쓰였다. Crandall은 “내가 보기에 이건 누가 봐도 AI였다. 여기서 누구를 속이려는 게 아니다”라고 말했다. 비용이 10분의 1이면 캠페인을 10개 더 만들 수 있다는 말과 거의 같다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google AI Mode\n回答の広告が最大四つに",
-          "body": "GoogleはAI Modeの回答一つにGoogle Adsを最大四つ載せられる。",
-          "mini_headline": "AI Mode回答に広告四つ",
+          "headline": "Fresh Step、AIで\n制作費10分の1の広告",
+          "body": "Cloroxの猫砂ブランドとRECEはAIで、約1カ月・10分の1の費用で広告を出した。",
+          "mini_headline": "Fresh StepのAI広告、費用10分の1",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-logo-glow-4hDAWd1f.jpg"
+                "src": "https://imgproxy.divecdn.com/Ur5qvQtXNEKwNqJ8YxJ6WKhh_3fmTPoemZZdCJCA1DA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mcmVzaC1zdGVwLmpwZw==.webp",
+                "cap": "Fresh Stepの新広告には、Cloroxブランドの価値を語る、AIで生成された（AI-generated）しゃべる猫たちが登場する。"
               },
               {
                 "t": "p",
-                "x": "Googleは一つのクエリに対するAI Modeの回答に、Google Adsを最大四つ表示できるようになった。もっとも、これが新しいことなのかは定かではない。Google Adsは2016年から検索結果に公式に四つの広告を表示してきたからだ。ただ、Googleが決算説明会でAI Modeにより多くの広告をより頻繁に表示すると述べたことは分かっている。"
+                "x": "Cloroxの猫砂ポートフォリオの看板ブランドであるFresh Stepは、中核となる消臭の約束をめぐり、カテゴリー内で高まる圧力に直面していた。The Clorox Companyで猫砂担当シニアマーケティングディレクターを務めるDeb Crandallは「現実のビジネス上の圧力があり、『6カ月後にアイデアを持ってきます』と［言うのは］許されなかった」と語った。"
+              },
+              {
+                "t": "video",
+                "yt": "4SsEMNM9oz0"
               },
               {
                 "t": "p",
-                "x": "Sachin PatelがSearch Engine Watchに、GoogleのAI Modeのクエリに四つの広告が表示されたスクリーンショットを投稿した。そのスクリーンショットがこちらだ:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ai-mode-with-four-ads-3NkBKM12.jpg",
-                "cap": "四つの広告が表示されたGoogle AI Mode"
+                "x": "Fresh Stepは人工知能を活用するエージェンシーRECEと組み、15秒のスポット3本をブリーフから完成したクリエイティブまで30日で、従来の制作の10分の1のコストで仕上げた。広告はリニアTVで順次放映が始まっており、ソーシャル向けの短縮版も展開し、11月9日までに公開される。"
               },
               {
                 "t": "p",
-                "x": "通常、広告は一つか二つ、ときに三つ表示される程度だ。だが、Googleは検索ではAI Modeほどクリックを収益化できていないためか、今では広告を最大四つ表示しているようだ……もちろん、USではマルチターン広告、つまり追加の質問に表示される広告も登場する。つまり、広告はさらに増えるということだ……"
-              },
-              {
-                "t": "p",
-                "x": "来四半期にはGoogleの広告収益が増えるのを目にすることになるのだろうか？"
+                "x": "AIは、クリエイティブのコンセプトを素早く試作し、何が響いているかを示すのに役立った。「私にとって、これは明らかにAIだった。誰かをだますつもりはない」とCrandallは述べた。10分の1のコストで実現できたことは、キャンペーンをおよそ10本多く作れることに相当する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google AI Mode\n回答最多可带四条广告",
-          "body": "Google现可在单个AI Mode回答中投放最多四条Google Ads广告。",
-          "mini_headline": "AI Mode每个回答四条广告",
+          "headline": "Fresh Step用AI\n以十分之一成本做广告",
+          "body": "Clorox旗下猫砂品牌与RECE借助AI，约一个月便以十分之一成本推出广告活动。",
+          "mini_headline": "Fresh Step AI广告成本仅十分之一",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-logo-glow-4hDAWd1f.jpg"
+                "src": "https://imgproxy.divecdn.com/Ur5qvQtXNEKwNqJ8YxJ6WKhh_3fmTPoemZZdCJCA1DA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mcmVzaC1zdGVwLmpwZw==.webp",
+                "cap": "Fresh Step的新广告中出现了一群AI-generated（由AI生成）、会说话的猫，讲述Clorox品牌的价值主张。"
               },
               {
                 "t": "p",
-                "x": "Google现在可以在单个查询的AI Mode回答中展示最多四条Google Ads。其实我也不确定这是否算新鲜事，因为Google Ads自2016年起就已正式在搜索结果中展示四条广告，但我们确实知道，Google在财报电话会上表示将在AI Mode中更频繁地展示更多广告。"
+                "x": "Fresh Step是Clorox猫砂产品组合中的王牌品牌，其核心卖点除臭面临日益加剧的品类压力。The Clorox Company猫砂业务高级营销总监Deb Crandall表示：“确实存在业务压力，[说]‘我六个月后再带着想法来’是不可接受的。”"
+              },
+              {
+                "t": "video",
+                "yt": "4SsEMNM9oz0"
               },
               {
                 "t": "p",
-                "x": "Sachin Patel在Search Engine Watch上发布了一张截图，显示Google中一个AI Mode查询出现了四条广告，截图如下："
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ai-mode-with-four-ads-3NkBKM12.jpg",
-                "cap": "出现四条广告的Google AI Mode"
+                "x": "Fresh Step与人工智能驱动的代理商RECE合作，在30天内以传统制作十分之一的成本，完成了三支15秒广告从简报到成片的全过程。广告目前正在线性TV上陆续投放，并在社交媒体上发布剪辑版，将于11月9日前全部上线。"
               },
               {
                 "t": "p",
-                "x": "通常你会看到一两条广告，有时三条。但我猜，由于Google在搜索中变现这些点击的能力不及在AI Mode中，Google现在会展示最多四条广告……当然，我们在US还会看到多轮广告，也就是后续查询中的广告。所以还会有更多广告……"
-              },
-              {
-                "t": "p",
-                "x": "我猜下个季度我们会看到Google的广告收入增长？"
+                "x": "AI帮助快速制作创意概念原型，以展示哪些方向能引起共鸣。Crandall说：“在我看来，这显然就是AI。我们并不想骗任何人。”以十分之一的成本完成制作，大致相当于能多做10个广告活动。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las respuestas de Google AI Mode\nllevan hasta cuatro anuncios",
-          "body": "Google ya puede mostrar hasta cuatro Google Ads en una sola respuesta de AI Mode, tras prometer más anuncios.",
-          "mini_headline": "Cuatro anuncios por respuesta de AI Mode",
+          "headline": "Fresh Step usó IA para hacer\nanuncios a una décima del costo",
+          "body": "La marca de arena de Clorox y la agencia RECE lanzaron con IA una campaña en cerca de un mes a una décima del costo.",
+          "mini_headline": "Anuncios con IA de Fresh Step a una décima del costo",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-logo-glow-4hDAWd1f.jpg"
+                "src": "https://imgproxy.divecdn.com/Ur5qvQtXNEKwNqJ8YxJ6WKhh_3fmTPoemZZdCJCA1DA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mcmVzaC1zdGVwLmpwZw==.webp",
+                "cap": "Los nuevos anuncios de Fresh Step muestran un elenco de gatos parlantes AI-generated (generados con IA) que transmiten la propuesta de valor de la marca Clorox."
               },
               {
                 "t": "p",
-                "x": "Google ya puede mostrar hasta cuatro Google Ads en las respuestas de AI Mode para una sola consulta. A decir verdad, no estoy seguro de que esto sea nuevo, ya que Google Ads muestra oficialmente cuatro anuncios en los resultados de búsqueda desde 2016, pero sí sabemos que Google dijo en su conferencia de resultados que mostrará más anuncios, con más frecuencia, en AI Mode."
+                "x": "Fresh Step, la joya de la corona del portafolio de arena para gatos de Clorox, enfrentaba una mayor presión en su categoría sobre su promesa central de control de olores. “Hay una presión de negocio real, y no iba a ser aceptable [decir] que vendría dentro de seis meses con mi idea”, dijo Deb Crandall, directora sénior de marketing de arena en The Clorox Company."
+              },
+              {
+                "t": "video",
+                "yt": "4SsEMNM9oz0"
               },
               {
                 "t": "p",
-                "x": "Sachin Patel publicó en Search Engine Watch una captura de pantalla que muestra cuatro anuncios para una consulta de AI Mode en Google; esta es la captura:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ai-mode-with-four-ads-3NkBKM12.jpg",
-                "cap": "Google AI Mode con cuatro anuncios"
+                "x": "Fresh Step se asoció con RECE, una agencia impulsada por inteligencia artificial, para pasar del brief a la creatividad terminada de tres spots de 15 segundos en 30 días y a una décima del costo de una producción tradicional. Los anuncios ya se están lanzando en TV lineal, con versiones recortadas en redes sociales, y estarán al aire a más tardar el 9 de noviembre."
               },
               {
                 "t": "p",
-                "x": "Por lo general, se ven uno o dos anuncios, a veces tres. Pero supongo que, como Google no logra monetizar esos clics en la búsqueda tan bien como en AI Mode, ahora muestra hasta cuatro anuncios... Por supuesto, en US también veremos anuncios multiturno, es decir, anuncios en consultas de seguimiento. Así que vienen todavía más anuncios..."
-              },
-              {
-                "t": "p",
-                "x": "Supongo que el próximo trimestre veremos un aumento de los ingresos publicitarios de Google, ¿no?"
+                "x": "La IA ayudó a crear prototipos rápidos de conceptos creativos para mostrar qué estaba funcionando. “Para mí, esto era muy claramente IA. No intentamos engañar a nadie”, dijo Crandall. Hacerlo a una décima del costo equivale aproximadamente a poder crear 10 campañas más."
               }
             ]
           }
@@ -887,141 +743,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google AI Mode\n답변에 광고 최대 네 개",
-          "body": "Google이 AI Mode 답변당 Google Ads를 최대 네 개 싣는다.",
-          "mini_headline": "AI Mode 답변당 광고 네 개",
+          "headline": "Fresh Step 광고\nAI로 비용 10분의 1",
+          "body": "Clorox는 RECE와 AI로 한 달여 만에 1/10 비용으로 캠페인을 냈다.",
+          "mini_headline": "Fresh Step, AI 광고 비용 10분의 1",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-logo-glow-4hDAWd1f.jpg"
+                "src": "https://imgproxy.divecdn.com/Ur5qvQtXNEKwNqJ8YxJ6WKhh_3fmTPoemZZdCJCA1DA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mcmVzaC1zdGVwLmpwZw==.webp",
+                "cap": "Fresh Step의 새 광고에는 Clorox 브랜드의 가치 제안을 전하는, AI로 생성한(AI-generated) 말하는 고양이들이 등장한다."
               },
               {
                 "t": "p",
-                "x": "Google은 이제 검색어 하나에 대한 AI Mode 답변에 Google Ads를 최대 네 개까지 보여줄 수 있다. 사실 이게 새로운 일인지는 잘 모르겠다. Google Ads는 2016년부터 공식적으로 검색 결과에 광고 네 개를 보여 왔기 때문이다. 다만 Google이 실적 발표 콜에서 AI Mode에 더 많은 광고를 더 자주 보여주겠다고 말한 것은 분명하다."
+                "x": "Clorox 고양이 모래 포트폴리오의 핵심 브랜드 Fresh Step은 대표 약속인 냄새 제거를 두고 커지는 카테고리 압박에 직면했다. The Clorox Company에서 고양이 모래 담당 시니어 마케팅 디렉터를 맡은 Deb Crandall은 “실제 사업상 압박이 있었고, ‘여섯 달 뒤에 아이디어를 갖고 오겠다’고 [말하는 것은] 받아들여질 수 없었다”고 말했다."
+              },
+              {
+                "t": "video",
+                "yt": "4SsEMNM9oz0"
               },
               {
                 "t": "p",
-                "x": "Sachin Patel은 Search Engine Watch에 Google의 AI Mode 검색어에 광고 네 개가 붙은 스크린샷을 올렸다. 그 스크린샷은 다음과 같다:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ai-mode-with-four-ads-3NkBKM12.jpg",
-                "cap": "광고 네 개가 붙은 Google AI Mode"
+                "x": "Fresh Step은 인공지능 기반 에이전시 RECE와 손잡고 15초 광고 세 편을 브리프부터 완성 크리에이티브까지 30일 만에, 기존 제작 방식의 10분의 1 비용으로 만들었다. 광고는 현재 리니어 TV에서 방영을 시작했고 소셜용 축약본도 함께 나가며, 11월 9일까지 모두 공개된다."
               },
               {
                 "t": "p",
-                "x": "보통은 광고가 한두 개, 가끔 세 개 보인다. 하지만 Google이 검색에서는 AI Mode만큼 클릭을 수익화하지 못하는 탓인지, 이제 광고를 최대 네 개까지 보여주는 것 같다... 물론 US에서는 후속 검색어에 붙는 광고, 즉 멀티턴 광고도 보게 될 것이다. 그러니 광고는 더 늘어난다..."
-              },
-              {
-                "t": "p",
-                "x": "다음 분기에는 Google의 광고 수익이 늘어나는 모습을 보게 되지 않을까?"
+                "x": "AI는 크리에이티브 콘셉트를 빠르게 시제품으로 만들어 어떤 안이 반응을 얻는지 보여주는 데 쓰였다. Crandall은 “내가 보기에 이건 누가 봐도 AI였다. 여기서 누구를 속이려는 게 아니다”라고 말했다. 비용을 10분의 1로 줄였다는 것은 캠페인을 10개 더 만들 수 있다는 뜻과 거의 같다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google AI Mode\n回答の広告が最大四つに",
-          "body": "GoogleはAI Modeの回答一つにGoogle Adsを最大四つ載せられる。",
-          "mini_headline": "AI Mode回答に広告四つ",
+          "headline": "Fresh Step、AIで\n制作費10分の1の広告",
+          "body": "Cloroxの猫砂ブランドとRECEはAIで、約1カ月・10分の1の費用で広告を出した。",
+          "mini_headline": "Fresh StepのAI広告、費用10分の1",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-logo-glow-4hDAWd1f.jpg"
+                "src": "https://imgproxy.divecdn.com/Ur5qvQtXNEKwNqJ8YxJ6WKhh_3fmTPoemZZdCJCA1DA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mcmVzaC1zdGVwLmpwZw==.webp",
+                "cap": "Fresh Stepの新広告には、Cloroxブランドの価値を語る、AIで生成された（AI-generated）しゃべる猫たちが登場する。"
               },
               {
                 "t": "p",
-                "x": "Googleは一つのクエリに対するAI Modeの回答に、Google Adsを最大四つ表示できるようになった。もっとも、これが新しいことなのかは定かではない。Google Adsは2016年から検索結果に公式に四つの広告を表示してきたからだ。ただ、Googleが決算説明会でAI Modeにより多くの広告をより頻繁に表示すると述べたことは分かっている。"
+                "x": "Cloroxの猫砂ポートフォリオの看板ブランドであるFresh Stepは、中核となる消臭の約束をめぐり、カテゴリー内で高まる圧力に直面していた。The Clorox Companyで猫砂担当シニアマーケティングディレクターを務めるDeb Crandallは「現実のビジネス上の圧力があり、『6カ月後にアイデアを持ってきます』と［言うのは］許されなかった」と語った。"
+              },
+              {
+                "t": "video",
+                "yt": "4SsEMNM9oz0"
               },
               {
                 "t": "p",
-                "x": "Sachin PatelがSearch Engine Watchに、GoogleのAI Modeのクエリに四つの広告が表示されたスクリーンショットを投稿した。そのスクリーンショットがこちらだ:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ai-mode-with-four-ads-3NkBKM12.jpg",
-                "cap": "四つの広告が表示されたGoogle AI Mode"
+                "x": "Fresh Stepは人工知能を活用するエージェンシーRECEと組み、15秒のスポット3本をブリーフから完成したクリエイティブまで30日で、従来の制作の10分の1のコストで仕上げた。広告はリニアTVで順次放映が始まっており、ソーシャル向けの短縮版も展開し、11月9日までに公開される。"
               },
               {
                 "t": "p",
-                "x": "通常、広告は一つか二つ、ときに三つ表示される程度だ。だが、Googleは検索ではAI Modeほどクリックを収益化できていないためか、今では広告を最大四つ表示しているようだ……もちろん、USではマルチターン広告、つまり追加の質問に表示される広告も登場する。つまり、広告はさらに増えるということだ……"
-              },
-              {
-                "t": "p",
-                "x": "来四半期にはGoogleの広告収益が増えるのを目にすることになるのだろうか？"
+                "x": "AIは、クリエイティブのコンセプトを素早く試作し、何が響いているかを示すのに役立った。「私にとって、これは明らかにAIだった。誰かをだますつもりはない」とCrandallは述べた。10分の1のコストで実現できたことは、キャンペーンをおよそ10本多く作れることに相当する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google AI Mode\n回答最多可带四条广告",
-          "body": "Google现可在单个AI Mode回答中投放最多四条Google Ads广告。",
-          "mini_headline": "AI Mode每个回答四条广告",
+          "headline": "Fresh Step用AI\n以十分之一成本做广告",
+          "body": "Clorox旗下猫砂品牌与RECE借助AI，约一个月便以十分之一成本推出广告活动。",
+          "mini_headline": "Fresh Step AI广告成本仅十分之一",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-logo-glow-4hDAWd1f.jpg"
+                "src": "https://imgproxy.divecdn.com/Ur5qvQtXNEKwNqJ8YxJ6WKhh_3fmTPoemZZdCJCA1DA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mcmVzaC1zdGVwLmpwZw==.webp",
+                "cap": "Fresh Step的新广告中出现了一群AI-generated（由AI生成）、会说话的猫，讲述Clorox品牌的价值主张。"
               },
               {
                 "t": "p",
-                "x": "Google现在可以在单个查询的AI Mode回答中展示最多四条Google Ads。其实我也不确定这是否算新鲜事，因为Google Ads自2016年起就已正式在搜索结果中展示四条广告，但我们确实知道，Google在财报电话会上表示将在AI Mode中更频繁地展示更多广告。"
+                "x": "Fresh Step是Clorox猫砂产品组合中的王牌品牌，其核心卖点除臭面临日益加剧的品类压力。The Clorox Company猫砂业务高级营销总监Deb Crandall表示：“确实存在业务压力，[说]‘我六个月后再带着想法来’是不可接受的。”"
+              },
+              {
+                "t": "video",
+                "yt": "4SsEMNM9oz0"
               },
               {
                 "t": "p",
-                "x": "Sachin Patel在Search Engine Watch上发布了一张截图，显示Google中一个AI Mode查询出现了四条广告，截图如下："
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ai-mode-with-four-ads-3NkBKM12.jpg",
-                "cap": "出现四条广告的Google AI Mode"
+                "x": "Fresh Step与人工智能驱动的代理商RECE合作，在30天内以传统制作十分之一的成本，完成了三支15秒广告从简报到成片的全过程。广告目前正在线性TV上陆续投放，并在社交媒体上发布剪辑版，将于11月9日前全部上线。"
               },
               {
                 "t": "p",
-                "x": "通常你会看到一两条广告，有时三条。但我猜，由于Google在搜索中变现这些点击的能力不及在AI Mode中，Google现在会展示最多四条广告……当然，我们在US还会看到多轮广告，也就是后续查询中的广告。所以还会有更多广告……"
-              },
-              {
-                "t": "p",
-                "x": "我猜下个季度我们会看到Google的广告收入增长？"
+                "x": "AI帮助快速制作创意概念原型，以展示哪些方向能引起共鸣。Crandall说：“在我看来，这显然就是AI。我们并不想骗任何人。”以十分之一的成本完成制作，大致相当于能多做10个广告活动。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las respuestas de Google AI Mode\nllevan hasta cuatro anuncios",
-          "body": "Google ya puede mostrar hasta cuatro Google Ads en una sola respuesta de AI Mode, tras prometer más anuncios.",
-          "mini_headline": "Cuatro anuncios por respuesta de AI Mode",
+          "headline": "Fresh Step usó IA para hacer\nanuncios a una décima del costo",
+          "body": "La marca de arena de Clorox y la agencia RECE lanzaron con IA una campaña en cerca de un mes a una décima del costo.",
+          "mini_headline": "Anuncios con IA de Fresh Step a una décima del costo",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-logo-glow-4hDAWd1f.jpg"
+                "src": "https://imgproxy.divecdn.com/Ur5qvQtXNEKwNqJ8YxJ6WKhh_3fmTPoemZZdCJCA1DA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mcmVzaC1zdGVwLmpwZw==.webp",
+                "cap": "Los nuevos anuncios de Fresh Step muestran un elenco de gatos parlantes AI-generated (generados con IA) que transmiten la propuesta de valor de la marca Clorox."
               },
               {
                 "t": "p",
-                "x": "Google ya puede mostrar hasta cuatro Google Ads en las respuestas de AI Mode para una sola consulta. A decir verdad, no estoy seguro de que esto sea nuevo, ya que Google Ads muestra oficialmente cuatro anuncios en los resultados de búsqueda desde 2016, pero sí sabemos que Google dijo en su conferencia de resultados que mostrará más anuncios, con más frecuencia, en AI Mode."
+                "x": "Fresh Step, la joya de la corona del portafolio de arena para gatos de Clorox, enfrentaba una mayor presión en su categoría sobre su promesa central de control de olores. “Hay una presión de negocio real, y no iba a ser aceptable [decir] que vendría dentro de seis meses con mi idea”, dijo Deb Crandall, directora sénior de marketing de arena en The Clorox Company."
+              },
+              {
+                "t": "video",
+                "yt": "4SsEMNM9oz0"
               },
               {
                 "t": "p",
-                "x": "Sachin Patel publicó en Search Engine Watch una captura de pantalla que muestra cuatro anuncios para una consulta de AI Mode en Google; esta es la captura:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ai-mode-with-four-ads-3NkBKM12.jpg",
-                "cap": "Google AI Mode con cuatro anuncios"
+                "x": "Fresh Step se asoció con RECE, una agencia impulsada por inteligencia artificial, para pasar del brief a la creatividad terminada de tres spots de 15 segundos en 30 días y a una décima del costo de una producción tradicional. Los anuncios ya se están lanzando en TV lineal, con versiones recortadas en redes sociales, y estarán al aire a más tardar el 9 de noviembre."
               },
               {
                 "t": "p",
-                "x": "Por lo general, se ven uno o dos anuncios, a veces tres. Pero supongo que, como Google no logra monetizar esos clics en la búsqueda tan bien como en AI Mode, ahora muestra hasta cuatro anuncios... Por supuesto, en US también veremos anuncios multiturno, es decir, anuncios en consultas de seguimiento. Así que vienen todavía más anuncios..."
-              },
-              {
-                "t": "p",
-                "x": "Supongo que el próximo trimestre veremos un aumento de los ingresos publicitarios de Google, ¿no?"
+                "x": "La IA ayudó a crear prototipos rápidos de conceptos creativos para mostrar qué estaba funcionando. “Para mí, esto era muy claramente IA. No intentamos engañar a nadie”, dijo Crandall. Hacerlo a una décima del costo equivale aproximadamente a poder crear 10 campañas más."
               }
             ]
           }
@@ -1029,15 +869,15 @@
       }
     },
     {
-      "id": "tiktokshop-listing-fix-ai",
+      "id": "walmart-sparky-holiday-features",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "TikTok Shop AI\n리스팅 개선 주문 예측",
-      "body": "TikTok Shop AI가 US 셀러의 추가 주문을 예측하고 영상도 만든다.",
-      "mini_headline": "셀러용 TikTok Shop AI",
+      "headline": "Walmart Sparky\n연말 쇼핑 기능 추가",
+      "body": "Walmart Sparky에 연말 쇼핑용 시각 인식·AI 장바구니 기능이 붙었다.",
+      "mini_headline": "Sparky, 연말 기능 강화",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/tiktok-shop-ai-estimates-extra-orders-per-listing-fix-ahead-of-black-friday/",
+      "source": "Retail Dive",
+      "url": "https://www.retaildive.com/news/walmart-sparky-features-AI-holidays/873718/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -1045,179 +885,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/size/w2000/2026/11/tiktok-shop-seller-ai-extra-orders-per-listing-fix-pointer-hand-outline-shopping-bags.jpg",
-            "cap": "TikTok Shop Seller AI는 리스팅 개선별 추가 주문을 추정하지만, 셀러는 모든 제안을 검토해야 한다"
+            "src": "https://imgproxy.divecdn.com/SPahFN-DITujS0d46GXMow7rdTGah6UMQbHoJI9mnfA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA1MjE3MDcxLmpwZw==.webp"
           },
           {
             "t": "p",
-            "x": "TikTok Shop은 November 4, 2026 US 셀러용 가이드 “Getting BFCM-Ready with Seller AI”를 내놓으며 Black Friday와 Cyber Monday를 앞두고 Seller Center 안의 AI 에이전트들을 하나의 이름으로 묶었다. 가이드에는 “Seller AI는 범용 챗봇이 아니다. 당신의 비즈니스를 중심으로 만들어졌다”라는 문장이 있다."
+            "x": "Walmart의 AI 어시스턴트는 이제 디지털 쇼핑 목록은 물론 아이가 산타에게 쓴 편지 같은 손글씨 목록까지 바로 구매할 수 있는 장바구니로 바꿔준다. Sparky에는 이 밖에도 얼룩 제거나 마음에 드는 스타일 따라 하기 같은 문제를 풀어주는 시각 인식, 장바구니까지 만들어주는 레시피 생성, 건강한 재료 대체, 매장 위치 안내 도구 “Shop to Light”가 새로 들어갔다."
           },
           {
             "t": "p",
-            "x": "Product Growth Opportunities는 각 상품을 유사 상품의 성과와 비교해 가격, 리스팅, 전환 쪽 변경을 추천한다. “추천마다 추가 주문 기준의 예상 효과를 보여준다.” One-Click SEO는 상품명을 쇼핑객이 검색하는 키워드에 맞춰 준다."
+            "x": "업데이트는 지금 U.S.(미국) 고객에게 제공된다. Sparky가 멕시코와 캐나다로 넓어지면서 스페인어·프랑스어 음성·텍스트 인식도 차례로 들어오고, 음성 인식은 연말까지 전 매장에서 쓸 수 있을 전망이다."
           },
           {
             "t": "p",
-            "x": "Content Opportunities는 “별도 촬영이나 긴 편집 없이 몇 분 만에 판매용 동영상과 사진을 만든다.” LIVE Recommendations는 LIVE 방송을 분석하고, Campaigns 에이전트는 “참여 자격이 있는 모든 캠페인을 한데 모은다.”"
-          },
-          {
-            "t": "p",
-            "x": "가이드에는 수치, 날짜, 수수료가 하나도 나오지 않고, 마지막 문장은 “실행하기 전에 이를 검토할 책임은 당신에게 있다”이다. Black Friday는 November 27, 2026로 가이드 발표 23일 뒤다."
+            "x": "Walmart CEO John Furner는 8월 Sparky 사용량이 2025년 6월 출시 이후 70% 급증했고 이 도구를 쓰는 고객이 그렇지 않은 고객보다 주문당 40% 더 쓴다고 밝혔다. 시각 검색의 전환율은 텍스트 검색보다 57% 높았다. Furner는 Sparky를 가격을 올리거나 저가 상품을 숨기는 데 쓰지 않겠다고 했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "TikTok Shop AI predicts\norders from listing fixes",
-          "body": "Ahead of Black Friday, TikTok Shop's AI estimates extra orders per listing fix and makes product videos for US sellers.",
-          "mini_headline": "TikTok Shop AI for sellers",
+          "headline": "Walmart gives Sparky new\nholiday shopping features",
+          "body": "Walmart's Sparky assistant gains visual recognition and AI cart generation for holiday shopping online and in stores.",
+          "mini_headline": "Sparky gets holiday upgrades",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/tiktok-shop-seller-ai-extra-orders-per-listing-fix-pointer-hand-outline-shopping-bags.jpg",
-                "cap": "TikTok Shop Seller AI estimates extra orders per listing fix, yet sellers must vet every suggestion"
+                "src": "https://imgproxy.divecdn.com/SPahFN-DITujS0d46GXMow7rdTGah6UMQbHoJI9mnfA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA1MjE3MDcxLmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "TikTok Shop on November 4, 2026 published a guide for US sellers, \"Getting BFCM-Ready with Seller AI,\" grouping the AI agents inside Seller Center under one name for Black Friday and Cyber Monday. \"Seller AI is not a general-purpose chatbot. It is built around your business,\" the guide states."
+                "x": "Walmart’s AI assistant can now turn digital shopping lists — or even handwritten ones like a child’s note to Santa — into ready-to-go shopping carts. Other new Sparky features include visual recognition to help solve problems like removing a stain or replicating a coveted look, recipe generation with cart creation, healthy ingredient swaps, and the “Shop to Light” store location tool."
               },
               {
                 "t": "p",
-                "x": "Product Growth Opportunities compares each product with how similar products perform and recommends pricing, listing or conversion changes. \"For each recommendation, it shows the expected payoff in additional orders.\" One-Click SEO aligns product names with keywords shoppers are searching."
+                "x": "The updates are available now for U.S. customers. As Sparky expands to Mexico and Canada, speech and text recognition in Spanish and French is also rolling out, with voice recognition capabilities expected to be available chainwide by year-end."
               },
               {
                 "t": "p",
-                "x": "Content Opportunities \"produces sale-ready videos and photos in minutes, without a separate shoot or a long edit.\" LIVE Recommendations analyzes LIVE sessions, and the Campaigns agent \"brings together every campaign you qualify for.\""
-              },
-              {
-                "t": "p",
-                "x": "The guide gives no figures, dates or fees and ends: \"You are responsible for reviewing them before you act.\" Black Friday falls on November 27, 2026, 23 days after the guide."
+                "x": "Since its June 2025 debut, Sparky has seen a 70% spike in usage, and customers who use the tool spend 40% more per order than shoppers who don’t, Walmart CEO John Furner shared in August. Visual search led to a 57% spike in conversion compared to text-based searches. Furner stated that Sparky would not be leveraged to increase prices or hide lower-priced items."
               }
             ]
           }
         },
         "ko": {
-          "headline": "TikTok Shop AI\n리스팅 개선 주문 예측",
-          "body": "TikTok Shop AI가 US 셀러의 추가 주문을 예측하고 영상도 만든다.",
-          "mini_headline": "셀러용 TikTok Shop AI",
+          "headline": "Walmart Sparky\n연말 쇼핑 기능 추가",
+          "body": "Walmart Sparky에 연말 쇼핑용 시각 인식·AI 장바구니 기능이 붙었다.",
+          "mini_headline": "Sparky, 연말 기능 강화",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/tiktok-shop-seller-ai-extra-orders-per-listing-fix-pointer-hand-outline-shopping-bags.jpg",
-                "cap": "TikTok Shop Seller AI는 리스팅 개선별 추가 주문을 추정하지만, 셀러는 모든 제안을 검토해야 한다"
+                "src": "https://imgproxy.divecdn.com/SPahFN-DITujS0d46GXMow7rdTGah6UMQbHoJI9mnfA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA1MjE3MDcxLmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "TikTok Shop은 November 4, 2026 US 셀러용 가이드 “Getting BFCM-Ready with Seller AI”를 내놓으며 Black Friday와 Cyber Monday를 앞두고 Seller Center 안의 AI 에이전트들을 하나의 이름으로 묶었다. 가이드에는 “Seller AI는 범용 챗봇이 아니다. 당신의 비즈니스를 중심으로 만들어졌다”라는 문장이 있다."
+                "x": "Walmart의 AI 어시스턴트는 이제 디지털 쇼핑 목록은 물론 아이가 산타에게 쓴 편지 같은 손글씨 목록까지 바로 구매할 수 있는 장바구니로 바꿔준다. Sparky에는 이 밖에도 얼룩 제거나 마음에 드는 스타일 따라 하기 같은 문제를 풀어주는 시각 인식, 장바구니까지 만들어주는 레시피 생성, 건강한 재료 대체, 매장 위치 안내 도구 “Shop to Light”가 새로 들어갔다."
               },
               {
                 "t": "p",
-                "x": "Product Growth Opportunities는 각 상품을 유사 상품의 성과와 비교해 가격, 리스팅, 전환 쪽 변경을 추천한다. “추천마다 추가 주문 기준의 예상 효과를 보여준다.” One-Click SEO는 상품명을 쇼핑객이 검색하는 키워드에 맞춰 준다."
+                "x": "업데이트는 지금 U.S.(미국) 고객에게 제공된다. Sparky가 멕시코와 캐나다로 넓어지면서 스페인어·프랑스어 음성·텍스트 인식도 차례로 들어오고, 음성 인식은 연말까지 전 매장에서 쓸 수 있을 전망이다."
               },
               {
                 "t": "p",
-                "x": "Content Opportunities는 “별도 촬영이나 긴 편집 없이 몇 분 만에 판매용 동영상과 사진을 만든다.” LIVE Recommendations는 LIVE 방송을 분석하고, Campaigns 에이전트는 “참여 자격이 있는 모든 캠페인을 한데 모은다.”"
-              },
-              {
-                "t": "p",
-                "x": "가이드에는 수치, 날짜, 수수료가 하나도 나오지 않고, 마지막 문장은 “실행하기 전에 이를 검토할 책임은 당신에게 있다”이다. Black Friday는 November 27, 2026로 가이드 발표 23일 뒤다."
+                "x": "Walmart CEO John Furner는 8월 Sparky 사용량이 2025년 6월 출시 이후 70% 급증했고 이 도구를 쓰는 고객이 그렇지 않은 고객보다 주문당 40% 더 쓴다고 밝혔다. 시각 검색의 전환율은 텍스트 검색보다 57% 높았다. Furner는 Sparky를 가격을 올리거나 저가 상품을 숨기는 데 쓰지 않겠다고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "TikTok Shop AI\n出品改善で注文増を予測",
-          "body": "TikTok Shop AIがUSセラーの出品改善ごとの追加注文を予測し動画も作る。",
-          "mini_headline": "セラー向けTikTok Shop AI",
+          "headline": "WalmartのSparky\n年末商戦向けに新機能",
+          "body": "WalmartのSparkyに、年末商戦向けの画像認識とAIカート生成機能が加わった。",
+          "mini_headline": "Sparkyが年末向けに進化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/tiktok-shop-seller-ai-extra-orders-per-listing-fix-pointer-hand-outline-shopping-bags.jpg",
-                "cap": "TikTok Shop Seller AIは出品改善ごとの追加注文を推定するが、セラーはすべての提案を精査する必要がある"
+                "src": "https://imgproxy.divecdn.com/SPahFN-DITujS0d46GXMow7rdTGah6UMQbHoJI9mnfA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA1MjE3MDcxLmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "TikTok ShopはNovember 4, 2026、USのセラー向けガイド「Getting BFCM-Ready with Seller AI」を公開し、Black FridayとCyber Mondayに向けてSeller Center内のAIエージェントを一つの名称にまとめた。ガイドには「Seller AIは汎用チャットボットではない。あなたのビジネスを中心に構築されている」とある。"
+                "x": "WalmartのAIアシスタントは、デジタルの買い物リストだけでなく、子どもがサンタに宛てた手書きのメモのようなリストまで、すぐに使えるショッピングカートに変換できるようになった。Sparkyのその他の新機能には、染み抜きや憧れのスタイルの再現といった課題解決を助ける画像認識、カート作成付きのレシピ生成、健康的な食材への置き換え、店舗内の場所を案内する「Shop to Light」ツールがある。"
               },
               {
                 "t": "p",
-                "x": "Product Growth Opportunitiesは各商品を類似商品の実績と比較し、価格、出品内容、コンバージョンに関する変更を提案する。「各提案について、追加注文数として見込まれる効果を示す」。One-Click SEOは商品名を買い物客が検索しているキーワードに合わせる。"
+                "x": "アップデートはU.S.（米国）の顧客向けにすでに提供されている。Sparkyのメキシコとカナダへの展開に合わせ、スペイン語とフランス語の音声・テキスト認識も順次導入されており、音声認識機能は年末までに全店舗で利用可能になる見込みだ。"
               },
               {
                 "t": "p",
-                "x": "Content Opportunitiesは「別途の撮影や長い編集なしに、数分で販売用の動画と写真を作成する」。LIVE RecommendationsはLIVE配信を分析し、Campaignsエージェントは「参加資格のあるすべてのキャンペーンを一か所にまとめる」。"
-              },
-              {
-                "t": "p",
-                "x": "ガイドは数値、日付、手数料を一切示さず、「実行する前にそれらを確認する責任はあなたにある」と締めくくっている。Black FridayはNovember 27, 2026で、ガイド公開の23日後にあたる。"
+                "x": "WalmartのCEO、John Furnerが8月に明らかにしたところによると、2025年6月の登場以来Sparkyの利用は70%急増し、このツールを使う顧客は使わない顧客より注文あたり40%多く支出している。画像検索はテキスト検索に比べてコンバージョンを57%押し上げた。FurnerはSparkyを値上げや低価格商品の隠蔽に利用することはないと述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "TikTok Shop AI\n按商品页优化预估订单",
-          "body": "黑五前，TikTok Shop AI为US卖家预估每项商品优化带来的新增订单并制作视频。",
-          "mini_headline": "面向卖家的TikTok Shop AI",
+          "headline": "Walmart为Sparky\n新增节日购物功能",
+          "body": "Walmart的Sparky助手新增视觉识别和AI购物车生成功能，服务线上线下节日购物。",
+          "mini_headline": "Sparky迎来节日升级",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/tiktok-shop-seller-ai-extra-orders-per-listing-fix-pointer-hand-outline-shopping-bags.jpg",
-                "cap": "TikTok Shop Seller AI会估算每项商品信息优化带来的新增订单，但卖家必须审核每条建议"
+                "src": "https://imgproxy.divecdn.com/SPahFN-DITujS0d46GXMow7rdTGah6UMQbHoJI9mnfA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA1MjE3MDcxLmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "TikTok Shop于November 4, 2026面向US卖家发布指南《Getting BFCM-Ready with Seller AI》，将Seller Center内的AI代理统一归入一个名称之下，以备战Black Friday和Cyber Monday。指南称：“Seller AI不是通用聊天机器人，它是围绕你的业务打造的。”"
+                "x": "Walmart的AI助手现在可以把数字购物清单，甚至是孩子写给圣诞老人的手写清单，直接转换成可随时结账的购物车。Sparky的其他新功能包括：帮助解决去除污渍、复刻心仪造型等问题的视觉识别，带购物车创建的食谱生成，健康食材替换，以及店内定位工具“Shop to Light”。"
               },
               {
                 "t": "p",
-                "x": "Product Growth Opportunities会将每件商品与同类商品的表现进行比较，并建议在定价、商品信息或转化方面做出调整。“对于每条建议，它都会显示以新增订单计的预期收益。”One-Click SEO则让商品名称与购物者正在搜索的关键词保持一致。"
+                "x": "这些更新现已面向U.S.（美国）用户开放。随着Sparky扩展至墨西哥和加拿大，西班牙语和法语的语音与文本识别也在陆续推出，语音识别功能预计在年底前覆盖所有门店。"
               },
               {
                 "t": "p",
-                "x": "Content Opportunities“无需另行拍摄或长时间剪辑，几分钟内即可生成可直接用于销售的视频和照片”。LIVE Recommendations会分析LIVE直播，Campaigns代理则“汇集你有资格参加的所有活动”。"
-              },
-              {
-                "t": "p",
-                "x": "指南没有给出任何数字、日期或费用，结尾写道：“在采取行动之前，你有责任先审核这些内容。”Black Friday是November 27, 2026，在指南发布23天之后。"
+                "x": "Walmart CEO John Furner在8月透露，自2025年6月推出以来，Sparky的使用量激增70%，使用该工具的顾客每单消费比不使用的顾客高出40%。与文本搜索相比，视觉搜索使转化率提升57%。Furner表示，Sparky不会被用来抬高价格或隐藏低价商品。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI de TikTok Shop predice\npedidos según ajustes de fichas",
-          "body": "Ante el Black Friday, la AI de TikTok Shop estima pedidos extra por ajuste de ficha y crea videos para vendedores US.",
-          "mini_headline": "TikTok Shop AI para vendedores",
+          "headline": "Walmart da a Sparky nuevas\nfunciones para las fiestas",
+          "body": "Sparky, de Walmart, suma reconocimiento visual y carritos creados con IA para compras navideñas en línea y en tienda.",
+          "mini_headline": "Sparky recibe mejoras para las fiestas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/tiktok-shop-seller-ai-extra-orders-per-listing-fix-pointer-hand-outline-shopping-bags.jpg",
-                "cap": "TikTok Shop Seller AI estima los pedidos extra por cada ajuste de ficha, pero los vendedores deben revisar cada sugerencia"
+                "src": "https://imgproxy.divecdn.com/SPahFN-DITujS0d46GXMow7rdTGah6UMQbHoJI9mnfA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA1MjE3MDcxLmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "TikTok Shop publicó el 4 de noviembre de 2026 una guía para vendedores de US, “Getting BFCM-Ready with Seller AI”, que agrupa bajo un solo nombre a los agentes de AI de Seller Center de cara al Black Friday y el Cyber Monday. “Seller AI no es un chatbot de uso general. Está construido en torno a tu negocio”, afirma la guía."
+                "x": "El asistente de IA de Walmart ahora puede convertir listas de compras digitales —o incluso listas escritas a mano, como la carta de un niño a Santa— en carritos listos para comprar. Otras funciones nuevas de Sparky incluyen reconocimiento visual para ayudar a resolver problemas como quitar una mancha o replicar un look deseado, generación de recetas con creación de carrito, sustituciones por ingredientes saludables y la herramienta de ubicación en tienda “Shop to Light”."
               },
               {
                 "t": "p",
-                "x": "Product Growth Opportunities compara cada producto con el rendimiento de productos similares y recomienda cambios de precio, de ficha o de conversión. “Para cada recomendación, muestra el beneficio esperado en pedidos adicionales.” One-Click SEO alinea los nombres de los productos con las palabras clave que buscan los compradores."
+                "x": "Las actualizaciones ya están disponibles para los clientes de U.S. (Estados Unidos). A medida que Sparky se expande a México y Canadá, también se está implementando el reconocimiento de voz y texto en español y francés, y se espera que las funciones de reconocimiento de voz estén disponibles en toda la cadena antes de fin de año."
               },
               {
                 "t": "p",
-                "x": "Content Opportunities “produce videos y fotos listos para la venta en minutos, sin una sesión de fotos aparte ni una edición larga”. LIVE Recommendations analiza las sesiones LIVE, y el agente Campaigns “reúne todas las campañas para las que cumples los requisitos”."
-              },
-              {
-                "t": "p",
-                "x": "La guía no ofrece cifras, fechas ni tarifas y termina así: “Eres responsable de revisarlas antes de actuar”. El Black Friday cae el 27 de noviembre de 2026, 23 días después de la guía."
+                "x": "Desde su debut en junio de 2025, el uso de Sparky ha aumentado un 70%, y los clientes que usan la herramienta gastan un 40% más por pedido que quienes no la usan, según compartió en agosto John Furner, CEO de Walmart. La búsqueda visual generó un aumento del 57% en la conversión frente a las búsquedas por texto. Furner afirmó que Sparky no se utilizará para subir precios ni ocultar artículos de menor precio."
               }
             ]
           }
@@ -1225,125 +1035,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "TikTok Shop AI\n리스팅 개선 주문 예측",
-          "body": "TikTok Shop AI가 US 셀러의 추가 주문을 예측하고 영상도 만든다.",
-          "mini_headline": "셀러용 TikTok Shop AI",
+          "headline": "Walmart Sparky\n연말 쇼핑 기능 추가",
+          "body": "Walmart Sparky가 연말 쇼핑용 시각 인식·AI 장바구니 기능을 얻었다.",
+          "mini_headline": "Sparky, 연말 기능 강화",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/tiktok-shop-seller-ai-extra-orders-per-listing-fix-pointer-hand-outline-shopping-bags.jpg",
-                "cap": "TikTok Shop Seller AI는 리스팅 개선별 추가 주문을 추정하지만, 셀러는 모든 제안을 검토해야 한다"
+                "src": "https://imgproxy.divecdn.com/SPahFN-DITujS0d46GXMow7rdTGah6UMQbHoJI9mnfA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA1MjE3MDcxLmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "TikTok Shop은 November 4, 2026 US 셀러용 가이드 “Getting BFCM-Ready with Seller AI”를 발표하고, Black Friday와 Cyber Monday를 앞두고 Seller Center 안의 AI 에이전트들을 하나의 이름으로 묶었다. 가이드는 “Seller AI는 범용 챗봇이 아니다. 당신의 비즈니스를 중심으로 만들어졌다”고 밝힌다."
+                "x": "Walmart의 AI 어시스턴트는 이제 디지털 쇼핑 목록은 물론 아이가 산타에게 쓴 편지 같은 손글씨 목록까지 바로 쓸 수 있는 장바구니로 바꿔준다. Sparky의 다른 새 기능으로는 얼룩 제거나 마음에 드는 스타일 따라 하기 같은 문제 해결을 돕는 시각 인식, 장바구니 생성을 곁들인 레시피 생성, 건강한 재료 대체, 매장 위치 안내 도구 “Shop to Light”가 있다."
               },
               {
                 "t": "p",
-                "x": "Product Growth Opportunities는 각 상품을 유사 상품의 성과와 비교해 가격, 리스팅, 전환 관련 변경을 추천한다. “추천마다 추가 주문 기준의 예상 효과를 보여준다.” One-Click SEO는 상품명을 쇼핑객이 검색하는 키워드에 맞춘다."
+                "x": "업데이트는 현재 U.S.(미국) 고객에게 제공된다. Sparky가 멕시코와 캐나다로 확대되면서 스페인어·프랑스어 음성·텍스트 인식도 순차 도입되며, 음성 인식 기능은 연말까지 전 매장에서 쓸 수 있을 전망이다."
               },
               {
                 "t": "p",
-                "x": "Content Opportunities는 “별도 촬영이나 긴 편집 없이 몇 분 만에 판매용 동영상과 사진을 만든다.” LIVE Recommendations는 LIVE 방송을 분석하고, Campaigns 에이전트는 “참여 자격이 있는 모든 캠페인을 한데 모은다.”"
-              },
-              {
-                "t": "p",
-                "x": "가이드는 수치, 날짜, 수수료를 전혀 밝히지 않으며 “실행하기 전에 이를 검토할 책임은 당신에게 있다”는 문장으로 끝난다. Black Friday는 November 27, 2026로, 가이드 발표 23일 뒤다."
+                "x": "Walmart CEO John Furner는 8월에 Sparky가 2025년 6월 출시 이후 사용량이 70% 급증했고, 이 도구를 쓰는 고객은 그렇지 않은 고객보다 주문당 40% 더 많이 지출한다고 밝혔다. 시각 검색은 텍스트 검색보다 전환율을 57% 끌어올렸다. Furner는 Sparky를 가격 인상이나 저가 상품 숨기기에 활용하지 않겠다고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "TikTok Shop AI\n出品改善で注文増を予測",
-          "body": "TikTok Shop AIがUSセラーの出品改善ごとの追加注文を予測し動画も作る。",
-          "mini_headline": "セラー向けTikTok Shop AI",
+          "headline": "WalmartのSparky\n年末商戦向けに新機能",
+          "body": "WalmartのSparkyに、年末商戦向けの画像認識とAIカート生成機能が加わった。",
+          "mini_headline": "Sparkyが年末向けに進化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/tiktok-shop-seller-ai-extra-orders-per-listing-fix-pointer-hand-outline-shopping-bags.jpg",
-                "cap": "TikTok Shop Seller AIは出品改善ごとの追加注文を推定するが、セラーはすべての提案を精査する必要がある"
+                "src": "https://imgproxy.divecdn.com/SPahFN-DITujS0d46GXMow7rdTGah6UMQbHoJI9mnfA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA1MjE3MDcxLmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "TikTok ShopはNovember 4, 2026、USのセラー向けガイド「Getting BFCM-Ready with Seller AI」を公開し、Black FridayとCyber Mondayに向けてSeller Center内のAIエージェントを一つの名称にまとめた。ガイドには「Seller AIは汎用チャットボットではない。あなたのビジネスを中心に構築されている」とある。"
+                "x": "WalmartのAIアシスタントは、デジタルの買い物リストだけでなく、子どもがサンタに宛てた手書きのメモのようなリストまで、すぐに使えるショッピングカートに変換できるようになった。Sparkyのその他の新機能には、染み抜きや憧れのスタイルの再現といった課題解決を助ける画像認識、カート作成付きのレシピ生成、健康的な食材への置き換え、店舗内の場所を案内する「Shop to Light」ツールがある。"
               },
               {
                 "t": "p",
-                "x": "Product Growth Opportunitiesは各商品を類似商品の実績と比較し、価格、出品内容、コンバージョンに関する変更を提案する。「各提案について、追加注文数として見込まれる効果を示す」。One-Click SEOは商品名を買い物客が検索しているキーワードに合わせる。"
+                "x": "アップデートはU.S.（米国）の顧客向けにすでに提供されている。Sparkyのメキシコとカナダへの展開に合わせ、スペイン語とフランス語の音声・テキスト認識も順次導入されており、音声認識機能は年末までに全店舗で利用可能になる見込みだ。"
               },
               {
                 "t": "p",
-                "x": "Content Opportunitiesは「別途の撮影や長い編集なしに、数分で販売用の動画と写真を作成する」。LIVE RecommendationsはLIVE配信を分析し、Campaignsエージェントは「参加資格のあるすべてのキャンペーンを一か所にまとめる」。"
-              },
-              {
-                "t": "p",
-                "x": "ガイドは数値、日付、手数料を一切示さず、「実行する前にそれらを確認する責任はあなたにある」と締めくくっている。Black FridayはNovember 27, 2026で、ガイド公開の23日後にあたる。"
+                "x": "WalmartのCEO、John Furnerが8月に明らかにしたところによると、2025年6月の登場以来Sparkyの利用は70%急増し、このツールを使う顧客は使わない顧客より注文あたり40%多く支出している。画像検索はテキスト検索に比べてコンバージョンを57%押し上げた。FurnerはSparkyを値上げや低価格商品の隠蔽に利用することはないと述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "TikTok Shop AI\n按商品页优化预估订单",
-          "body": "黑五前，TikTok Shop AI为US卖家预估每项商品优化带来的新增订单并制作视频。",
-          "mini_headline": "面向卖家的TikTok Shop AI",
+          "headline": "Walmart为Sparky\n新增节日购物功能",
+          "body": "Walmart的Sparky助手新增视觉识别和AI购物车生成功能，服务线上线下节日购物。",
+          "mini_headline": "Sparky迎来节日升级",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/tiktok-shop-seller-ai-extra-orders-per-listing-fix-pointer-hand-outline-shopping-bags.jpg",
-                "cap": "TikTok Shop Seller AI会估算每项商品信息优化带来的新增订单，但卖家必须审核每条建议"
+                "src": "https://imgproxy.divecdn.com/SPahFN-DITujS0d46GXMow7rdTGah6UMQbHoJI9mnfA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA1MjE3MDcxLmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "TikTok Shop于November 4, 2026面向US卖家发布指南《Getting BFCM-Ready with Seller AI》，将Seller Center内的AI代理统一归入一个名称之下，以备战Black Friday和Cyber Monday。指南称：“Seller AI不是通用聊天机器人，它是围绕你的业务打造的。”"
+                "x": "Walmart的AI助手现在可以把数字购物清单，甚至是孩子写给圣诞老人的手写清单，直接转换成可随时结账的购物车。Sparky的其他新功能包括：帮助解决去除污渍、复刻心仪造型等问题的视觉识别，带购物车创建的食谱生成，健康食材替换，以及店内定位工具“Shop to Light”。"
               },
               {
                 "t": "p",
-                "x": "Product Growth Opportunities会将每件商品与同类商品的表现进行比较，并建议在定价、商品信息或转化方面做出调整。“对于每条建议，它都会显示以新增订单计的预期收益。”One-Click SEO则让商品名称与购物者正在搜索的关键词保持一致。"
+                "x": "这些更新现已面向U.S.（美国）用户开放。随着Sparky扩展至墨西哥和加拿大，西班牙语和法语的语音与文本识别也在陆续推出，语音识别功能预计在年底前覆盖所有门店。"
               },
               {
                 "t": "p",
-                "x": "Content Opportunities“无需另行拍摄或长时间剪辑，几分钟内即可生成可直接用于销售的视频和照片”。LIVE Recommendations会分析LIVE直播，Campaigns代理则“汇集你有资格参加的所有活动”。"
-              },
-              {
-                "t": "p",
-                "x": "指南没有给出任何数字、日期或费用，结尾写道：“在采取行动之前，你有责任先审核这些内容。”Black Friday是November 27, 2026，在指南发布23天之后。"
+                "x": "Walmart CEO John Furner在8月透露，自2025年6月推出以来，Sparky的使用量激增70%，使用该工具的顾客每单消费比不使用的顾客高出40%。与文本搜索相比，视觉搜索使转化率提升57%。Furner表示，Sparky不会被用来抬高价格或隐藏低价商品。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI de TikTok Shop predice\npedidos según ajustes de fichas",
-          "body": "Ante el Black Friday, la AI de TikTok Shop estima pedidos extra por ajuste de ficha y crea videos para vendedores US.",
-          "mini_headline": "TikTok Shop AI para vendedores",
+          "headline": "Walmart da a Sparky nuevas\nfunciones para las fiestas",
+          "body": "Sparky, de Walmart, suma reconocimiento visual y carritos creados con IA para compras navideñas en línea y en tienda.",
+          "mini_headline": "Sparky recibe mejoras para las fiestas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/tiktok-shop-seller-ai-extra-orders-per-listing-fix-pointer-hand-outline-shopping-bags.jpg",
-                "cap": "TikTok Shop Seller AI estima los pedidos extra por cada ajuste de ficha, pero los vendedores deben revisar cada sugerencia"
+                "src": "https://imgproxy.divecdn.com/SPahFN-DITujS0d46GXMow7rdTGah6UMQbHoJI9mnfA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA1MjE3MDcxLmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "TikTok Shop publicó el 4 de noviembre de 2026 una guía para vendedores de US, “Getting BFCM-Ready with Seller AI”, que agrupa bajo un solo nombre a los agentes de AI de Seller Center de cara al Black Friday y el Cyber Monday. “Seller AI no es un chatbot de uso general. Está construido en torno a tu negocio”, afirma la guía."
+                "x": "El asistente de IA de Walmart ahora puede convertir listas de compras digitales —o incluso listas escritas a mano, como la carta de un niño a Santa— en carritos listos para comprar. Otras funciones nuevas de Sparky incluyen reconocimiento visual para ayudar a resolver problemas como quitar una mancha o replicar un look deseado, generación de recetas con creación de carrito, sustituciones por ingredientes saludables y la herramienta de ubicación en tienda “Shop to Light”."
               },
               {
                 "t": "p",
-                "x": "Product Growth Opportunities compara cada producto con el rendimiento de productos similares y recomienda cambios de precio, de ficha o de conversión. “Para cada recomendación, muestra el beneficio esperado en pedidos adicionales.” One-Click SEO alinea los nombres de los productos con las palabras clave que buscan los compradores."
+                "x": "Las actualizaciones ya están disponibles para los clientes de U.S. (Estados Unidos). A medida que Sparky se expande a México y Canadá, también se está implementando el reconocimiento de voz y texto en español y francés, y se espera que las funciones de reconocimiento de voz estén disponibles en toda la cadena antes de fin de año."
               },
               {
                 "t": "p",
-                "x": "Content Opportunities “produce videos y fotos listos para la venta en minutos, sin una sesión de fotos aparte ni una edición larga”. LIVE Recommendations analiza las sesiones LIVE, y el agente Campaigns “reúne todas las campañas para las que cumples los requisitos”."
-              },
-              {
-                "t": "p",
-                "x": "La guía no ofrece cifras, fechas ni tarifas y termina así: “Eres responsable de revisarlas antes de actuar”. El Black Friday cae el 27 de noviembre de 2026, 23 días después de la guía."
+                "x": "Desde su debut en junio de 2025, el uso de Sparky ha aumentado un 70%, y los clientes que usan la herramienta gastan un 40% más por pedido que quienes no la usan, según compartió en agosto John Furner, CEO de Walmart. La búsqueda visual generó un aumento del 57% en la conversión frente a las búsquedas por texto. Furner afirmó que Sparky no se utilizará para subir precios ni ocultar artículos de menor precio."
               }
             ]
           }
@@ -1351,15 +1141,15 @@
       }
     },
     {
-      "id": "google-aimode-home-services",
+      "id": "digiday-ai-brief-bloat",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google AI Mode\n홈서비스 예약 링크 추가",
-      "body": "AI Mode가 홈서비스 검색을 파트너 예약·견적으로 보내 수수료 의문이 인다.",
-      "mini_headline": "AI Mode로 홈서비스 예약",
+      "headline": "AI가 부풀린\n대행사 브리프",
+      "body": "대행사들은 AI로 쓴 브리프가 비대해지는 현상을 AI 남용의 초기 신호로 본다.",
+      "mini_headline": "AI로 부풀어 오른 대행사 브리프",
       "tool": "Marketing",
-      "source": "Search Engine Journal",
-      "url": "https://www.searchenginejournal.com/google-ai-mode-home-services-booking-quote-links/595871/",
+      "source": "Digiday",
+      "url": "https://digiday.com/marketing/a-little-bit-ridiculous-agencies-find-ai-overuse-is-leading-to-brief-bloat/",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1367,155 +1157,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/shutterstock-2671336519-featured-861.jpg",
-            "cap": "Google AI Mode, 홈서비스용 예약·견적 링크 추가"
+            "src": "https://digiday.com/wp-content/uploads/sites/3/2024/09/robot-hand-digiday.gif"
           },
           {
             "t": "p",
-            "x": "Google은 홈서비스 업체가 AI Mode에서 들어온 예약과 견적 요청을 Partner Platforms로 받을 수 있게 하고 있다. Marketplaces(Angi & Thumbtack)와 Field Service Software 제공업체(Housecall Pro & Jobber)가 여기에 들어간다. Google Search Product VP Robby Stein은 X에서 이 기능을 U.S.에서 지금 쓸 수 있고 ServiceTitan도 곧 지원한다고 밝혔다."
+            "x": "광고 대행사 리더들은 브리프 작성에 AI 도구를 남용하면 마케팅 직원의 생산성과 일상의 정신 건강이 흔들릴 수 있다고 본다. M&C Saatchi 북미 CEO Nadja Bellan-White는 브리프 작성을 AI에 지나치게 기대는 현상이 “임계점에 다가가고 있다… 좀 우스울 지경”이라고 말했다. 그는 고객사가 대행사에 보내는 브리프의 85%가 AI 도구로 작성된(AI-written) 것이라고 추산했다."
           },
           {
             "t": "p",
-            "x": "Jobber에 따르면 자격을 갖춘 U.S. 고객은 지금 리드 수수료 없이 이런 요청을 받을 수 있다. 업체는 유료 Jobber 구독과 연결된 Google Business Profile을 갖춰야 한다. Housecall Pro도 “요청 하나에 Pro 한 명, 리드 수수료도 입찰 경쟁도 없다”며 리드 수수료가 없다고 했지만, 보도자료에는 연동이 곧 제공된다고 적혀 있다."
+            "x": "결과물은 마케팅 용어로 가득하지만 실제 비전은 거의 없는 수백 쪽짜리 기업 문서다. Basis Technologies 조사에서는 마케터와 대행사의 절반 이상(56.4%)이 전략·미디어·캠페인 크리에이티브 브리프를 AI로 쓴다. 한 대행사 임원은 “AI가 상황을 더 나쁘게 만들고 있다. 문장 구조를 장황하게 늘어놓아 [브리프를] 10쪽 분량으로 만든다”고 말했다."
           },
           {
             "t": "p",
-            "x": "Google 자체의 Local Services Ads가 예약 요청을 리드로 보고 과금하는 것과 대비되는 조건이다. Angi는 AI Mode 발표에서 AI Mode에서 시작된 견적 요청에도 매칭 수수료가 붙는지 밝히지 않았다. 목록에 오른 플랫폼 어디에도 속하지 않은 업체는 AI Mode에서 바로 예약을 받을 경로가 없다."
+            "x": "영국 마케터 150명에게 물은 GWI 조사에서는 29%가 부정확하거나 오해를 부르는 인사이트 탓에 회사가 돈을 잃었다고 인정했다. Bellan-White의 조언은 이렇다. “노트북을 끄세요. 말 그대로 그냥 꺼버리세요.”"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google AI Mode adds\nhome-service booking links",
-          "body": "AI Mode now sends home-service searches straight to partner booking and quote pages, raising lead-fee questions.",
-          "mini_headline": "AI Mode books home services",
+          "headline": "Agencies find AI overuse\nis leading to brief bloat",
+          "body": "Agencies say AI-written media and creative briefs are growing bloated, an early sign of AI overuse in advertising.",
+          "mini_headline": "AI is bloating agency briefs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/shutterstock-2671336519-featured-861.jpg",
-                "cap": "Google AI Mode Adds Booking & Quote Links For Home Services"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2024/09/robot-hand-digiday.gif"
               },
               {
                 "t": "p",
-                "x": "Google is allowing home service businesses to accept bookings and quote requests generated by AI Mode via Partner Platforms such as the Marketplaces (Angi & Thumbtack) and Field Service Software providers (Housecall Pro & Jobber). Google Search Product VP Robby Stein said on X that it is available now in the U.S., with ServiceTitan coming soon."
+                "x": "Agency leaders are finding the over-use of AI tools to write advertising briefs risks undermining the productivity and the day-to-day sanity of marketing staffers. M&C Saatchi’s North American CEO, Nadja Bellan-White, said over-reliance on AI for brief writing is approaching “a tipping point… It’s a little bit ridiculous,” estimating that 85% of the briefs sent to the agency by clients were written using AI tools."
               },
               {
                 "t": "p",
-                "x": "Jobber says its eligible U.S. customers can take those requests now with no lead fees; businesses need a paid Jobber subscription and a connected Google Business Profile. Housecall Pro also says there are no lead fees — “One request, one Pro, no lead fee, no bidding war” — though its release says its integration is coming soon."
+                "x": "The impact? Corporate documents that run into the hundreds of pages, replete with marketing jargon but little actual vision. More than half (56.4%) of marketers and agencies now use AI to build out strategy, media or campaign creative briefs, according to a Basis Technologies survey. “AI is making it worse. It’s pontificating on a sentence structure that makes [a brief] 10 pages long,” said one agency executive."
               },
               {
                 "t": "p",
-                "x": "Those terms contrast with Google’s own Local Services Ads, which charge for booking requests as leads. Angi’s AI Mode announcement doesn’t say whether its match fees apply to quote requests that start in AI Mode. A business on none of the listed platforms has no route to direct bookings through AI Mode."
+                "x": "A GWI survey of 150 British marketers found 29% admitted inaccurate or misleading insights had cost their companies financially. Bellan-White’s advice: “Turn off your laptop. Just literally shut it down.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google AI Mode\n홈서비스 예약 링크 추가",
-          "body": "AI Mode가 홈서비스 검색을 파트너 예약·견적으로 보내 수수료 의문이 인다.",
-          "mini_headline": "AI Mode로 홈서비스 예약",
+          "headline": "AI가 부풀린\n대행사 브리프",
+          "body": "대행사들은 AI로 쓴 브리프가 비대해지는 현상을 AI 남용의 초기 신호로 본다.",
+          "mini_headline": "AI로 부풀어 오른 대행사 브리프",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/shutterstock-2671336519-featured-861.jpg",
-                "cap": "Google AI Mode, 홈서비스용 예약·견적 링크 추가"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2024/09/robot-hand-digiday.gif"
               },
               {
                 "t": "p",
-                "x": "Google은 홈서비스 업체가 AI Mode에서 들어온 예약과 견적 요청을 Partner Platforms로 받을 수 있게 하고 있다. Marketplaces(Angi & Thumbtack)와 Field Service Software 제공업체(Housecall Pro & Jobber)가 여기에 들어간다. Google Search Product VP Robby Stein은 X에서 이 기능을 U.S.에서 지금 쓸 수 있고 ServiceTitan도 곧 지원한다고 밝혔다."
+                "x": "광고 대행사 리더들은 브리프 작성에 AI 도구를 남용하면 마케팅 직원의 생산성과 일상의 정신 건강이 흔들릴 수 있다고 본다. M&C Saatchi 북미 CEO Nadja Bellan-White는 브리프 작성을 AI에 지나치게 기대는 현상이 “임계점에 다가가고 있다… 좀 우스울 지경”이라고 말했다. 그는 고객사가 대행사에 보내는 브리프의 85%가 AI 도구로 작성된(AI-written) 것이라고 추산했다."
               },
               {
                 "t": "p",
-                "x": "Jobber에 따르면 자격을 갖춘 U.S. 고객은 지금 리드 수수료 없이 이런 요청을 받을 수 있다. 업체는 유료 Jobber 구독과 연결된 Google Business Profile을 갖춰야 한다. Housecall Pro도 “요청 하나에 Pro 한 명, 리드 수수료도 입찰 경쟁도 없다”며 리드 수수료가 없다고 했지만, 보도자료에는 연동이 곧 제공된다고 적혀 있다."
+                "x": "결과물은 마케팅 용어로 가득하지만 실제 비전은 거의 없는 수백 쪽짜리 기업 문서다. Basis Technologies 조사에서는 마케터와 대행사의 절반 이상(56.4%)이 전략·미디어·캠페인 크리에이티브 브리프를 AI로 쓴다. 한 대행사 임원은 “AI가 상황을 더 나쁘게 만들고 있다. 문장 구조를 장황하게 늘어놓아 [브리프를] 10쪽 분량으로 만든다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "Google 자체의 Local Services Ads가 예약 요청을 리드로 보고 과금하는 것과 대비되는 조건이다. Angi는 AI Mode 발표에서 AI Mode에서 시작된 견적 요청에도 매칭 수수료가 붙는지 밝히지 않았다. 목록에 오른 플랫폼 어디에도 속하지 않은 업체는 AI Mode에서 바로 예약을 받을 경로가 없다."
+                "x": "영국 마케터 150명에게 물은 GWI 조사에서는 29%가 부정확하거나 오해를 부르는 인사이트 탓에 회사가 돈을 잃었다고 인정했다. Bellan-White의 조언은 이렇다. “노트북을 끄세요. 말 그대로 그냥 꺼버리세요.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google AI Mode\nに住宅サービス予約リンク",
-          "body": "AI Modeが住宅サービス検索を提携先予約・見積もりへ直結し、リード料金に疑問が出る。",
-          "mini_headline": "AI Modeで住宅サービス予約",
+          "headline": "AIの使いすぎで\n代理店のブリーフ肥大化",
+          "body": "代理店によると、AIで書いたブリーフが肥大化し、AI過多の初期兆候が出ている。",
+          "mini_headline": "AIで膨らむ代理店のブリーフ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/shutterstock-2671336519-featured-861.jpg",
-                "cap": "Google AI Mode、住宅サービス向けに予約・見積もりリンクを追加"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2024/09/robot-hand-digiday.gif"
               },
               {
                 "t": "p",
-                "x": "Googleは住宅サービス事業者に対し、AI Modeから生じた予約や見積もり依頼を、Marketplaces（Angi & Thumbtack）やField Service Softwareプロバイダー（Housecall Pro & Jobber）といったPartner Platformsを通じて受け付けられるようにしている。Google Search Product VPのRobby Stein氏はXで、U.S.では現在利用可能で、ServiceTitanも近く対応すると述べた。"
+                "x": "代理店の幹部たちは、広告ブリーフの作成にAIツールを使いすぎると、マーケティング担当者の生産性と日々の正気が損なわれかねないと感じている。M&C Saatchiの北米CEO、Nadja Bellan-Whiteは、ブリーフ作成でのAIへの過度な依存が「臨界点に近づいている……少しばかげている」と述べ、クライアントから代理店に届くブリーフの85%がAIツールで書かれたもの（AI-written）だと推定した。"
               },
               {
                 "t": "p",
-                "x": "Jobberによると、対象となるU.S.の顧客は現在、リード料金なしでこうした依頼を受けられる。事業者には有料のJobberサブスクリプションと、連携済みのGoogle Business Profileが必要だ。Housecall Proもリード料金はないとし、「依頼一件にPro一人、リード料金も入札合戦もなし」とうたうが、同社のリリースでは連携は近日提供予定とされている。"
+                "x": "その影響は？ マーケティング用語ばかりで実際のビジョンに乏しい、数百ページに及ぶ企業文書だ。Basis Technologiesの調査によると、マーケターと代理店の半数以上（56.4%）が、戦略、メディア、キャンペーンのクリエイティブブリーフの作成にAIを使っている。ある代理店幹部は「AIが事態を悪化させている。文の構造をこねくり回して、［ブリーフを］10ページにしてしまう」と語った。"
               },
               {
                 "t": "p",
-                "x": "こうした条件は、予約依頼をリードとして課金するGoogle自身のLocal Services Adsとは対照的だ。AngiのAI Modeに関する発表は、AI Modeで始まった見積もり依頼にマッチング料金がかかるかどうかに触れていない。掲載されたいずれのプラットフォームも利用していない事業者には、AI Mode経由で直接予約を受ける手段がない。"
+                "x": "英国のマーケター150人を対象にしたGWIの調査では、29%が不正確または誤解を招くインサイトによって会社が金銭的損失を被ったと認めた。Bellan-Whiteの助言はこうだ。「ノートパソコンの電源を切りなさい。文字どおり、ただシャットダウンするのです」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google AI Mode\n新增家居服务预约链接",
-          "body": "AI Mode将家居服务搜索直接导向合作方预约和报价页面，引发线索费疑问。",
-          "mini_headline": "AI Mode可预约家居服务",
+          "headline": "代理商发现AI滥用\n正让简报日益臃肿",
+          "body": "代理商称，AI撰写的媒体与创意简报日益臃肿，这是广告业AI滥用的早期迹象。",
+          "mini_headline": "AI让代理商简报膨胀",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/shutterstock-2671336519-featured-861.jpg",
-                "cap": "Google AI Mode为家居服务新增预约和报价链接"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2024/09/robot-hand-digiday.gif"
               },
               {
                 "t": "p",
-                "x": "Google正允许家居服务企业通过Partner Platforms接收由AI Mode生成的预约和报价请求，这些平台包括Marketplaces（Angi & Thumbtack）以及Field Service Software提供商（Housecall Pro & Jobber）。Google Search Product VP Robby Stein在X上表示，该功能现已在U.S.上线，ServiceTitan也即将支持。"
+                "x": "代理商负责人发现，过度使用AI工具撰写广告简报，可能损害营销人员的工作效率和日常心态。M&C Saatchi北美CEO Nadja Bellan-White表示，撰写简报时对AI的过度依赖正接近“临界点……有点荒谬了”，她估计客户发给代理商的简报中有85%是用AI工具写成的（AI-written）。"
               },
               {
                 "t": "p",
-                "x": "Jobber表示，其符合条件的U.S.客户现在即可接收这些请求，且不收取线索费；企业需要付费订阅Jobber，并关联Google Business Profile。Housecall Pro也表示不收线索费——“一个请求，一位Pro，不收线索费，没有竞价大战”——不过其新闻稿称相关集成即将推出。"
+                "x": "后果如何？动辄数百页的企业文件，充斥营销术语，却几乎没有真正的愿景。Basis Technologies的一项调查显示，超过一半（56.4%）的营销人员和代理商现在用AI来制定战略、媒体或活动创意简报。一位代理商高管说：“AI让情况更糟。它在句子结构上夸夸其谈，把[一份简报]写到10页长。”"
               },
               {
                 "t": "p",
-                "x": "这些条款与Google自家的Local Services Ads形成对比，后者会把预约请求作为线索收费。Angi关于AI Mode的公告并未说明其匹配费是否适用于从AI Mode发起的报价请求。不在上述任何平台上的企业，无法通过AI Mode获得直接预约。"
+                "x": "GWI对150名英国营销人员的调查发现，29%的人承认不准确或误导性的洞察曾给公司造成经济损失。Bellan-White的建议是：“关掉你的笔记本电脑。真的，直接关机。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google AI Mode suma enlaces\nde reserva de servicios al hogar",
-          "body": "AI Mode envía búsquedas de servicios del hogar a reservas y presupuestos de socios, con dudas sobre tarifas por lead.",
-          "mini_headline": "AI Mode reserva servicios del hogar",
+          "headline": "Las agencias ven que el abuso\nde la IA infla los briefs",
+          "body": "Las agencias ven briefs escritos con IA cada vez más inflados, una señal temprana del abuso de la IA en publicidad.",
+          "mini_headline": "La IA está inflando los briefs de las agencias",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/shutterstock-2671336519-featured-861.jpg",
-                "cap": "Google AI Mode añade enlaces de reserva y presupuesto para servicios del hogar"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2024/09/robot-hand-digiday.gif"
               },
               {
                 "t": "p",
-                "x": "Google permite a las empresas de servicios del hogar aceptar reservas y solicitudes de presupuesto generadas por AI Mode a través de Partner Platforms, como los Marketplaces (Angi & Thumbtack) y los proveedores de Field Service Software (Housecall Pro & Jobber). Robby Stein, Google Search Product VP, dijo en X que ya está disponible en U.S. y que ServiceTitan llegará pronto."
+                "x": "Los líderes de agencias constatan que el uso excesivo de herramientas de IA para redactar briefs publicitarios amenaza con socavar la productividad y la cordura cotidiana del personal de marketing. Nadja Bellan-White, CEO para Norteamérica de M&C Saatchi, dijo que la dependencia excesiva de la IA para escribir briefs se acerca a “un punto de inflexión… Es un poco ridículo”, y estimó que el 85% de los briefs que los clientes envían a la agencia se redactan con herramientas de IA (AI-written)."
               },
               {
                 "t": "p",
-                "x": "Jobber afirma que sus clientes elegibles en U.S. ya pueden recibir esas solicitudes sin tarifas por lead; las empresas necesitan una suscripción de pago a Jobber y un Google Business Profile conectado. Housecall Pro también asegura que no hay tarifas por lead —“Una solicitud, un Pro, sin tarifa por lead, sin guerra de pujas”—, aunque su comunicado indica que su integración llegará pronto."
+                "x": "¿El impacto? Documentos corporativos de cientos de páginas, repletos de jerga de marketing pero con poca visión real. Más de la mitad (56.4%) de los profesionales de marketing y agencias ya usa IA para elaborar briefs de estrategia, medios o creatividad de campañas, según una encuesta de Basis Technologies. “La IA lo está empeorando. Se pone a pontificar con una estructura de frases que hace que [un brief] tenga 10 páginas”, dijo un ejecutivo de agencia."
               },
               {
                 "t": "p",
-                "x": "Esas condiciones contrastan con los Local Services Ads de la propia Google, que cobran las solicitudes de reserva como leads. El anuncio de Angi sobre AI Mode no aclara si sus tarifas de emparejamiento se aplican a las solicitudes de presupuesto que se inician en AI Mode. Una empresa que no esté en ninguna de las plataformas mencionadas no tiene vía para recibir reservas directas a través de AI Mode."
+                "x": "Una encuesta de GWI a 150 profesionales de marketing británicos halló que el 29% admitió que perspectivas inexactas o engañosas habían costado dinero a sus empresas. El consejo de Bellan-White: “Apaga tu portátil. Literalmente, apágalo”."
               }
             ]
           }
@@ -1523,109 +1307,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google AI Mode\n홈서비스 예약 링크 추가",
-          "body": "AI Mode가 홈서비스 검색을 파트너 예약·견적으로 보내 수수료 의문이 인다.",
-          "mini_headline": "AI Mode로 홈서비스 예약",
+          "headline": "AI 남용이 부른\n대행사 브리프 비대화",
+          "body": "대행사들은 AI로 쓴 브리프가 비대해진다며 AI 남용의 초기 신호로 본다.",
+          "mini_headline": "AI로 부풀어 오른 대행사 브리프",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/shutterstock-2671336519-featured-861.jpg",
-                "cap": "Google AI Mode, 홈서비스용 예약·견적 링크 추가"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2024/09/robot-hand-digiday.gif"
               },
               {
                 "t": "p",
-                "x": "Google은 홈서비스 업체가 AI Mode에서 생긴 예약과 견적 요청을 Partner Platforms를 통해 받을 수 있도록 하고 있다. 여기에는 Marketplaces(Angi & Thumbtack)와 Field Service Software 제공업체(Housecall Pro & Jobber)가 포함된다. Google Search Product VP Robby Stein은 X에서 이 기능을 U.S.에서 지금 이용할 수 있으며 ServiceTitan도 곧 지원한다고 밝혔다."
+                "x": "광고 대행사 리더들은 광고 브리프 작성에 AI 도구를 남용하면 마케팅 직원의 생산성과 일상의 정신 건강이 흔들릴 수 있다고 본다. M&C Saatchi 북미 CEO Nadja Bellan-White는 브리프 작성을 AI에 과도하게 의존하는 현상이 “임계점에 다가가고 있다… 좀 우스울 지경”이라고 말했다. 그는 고객사가 대행사에 보내는 브리프의 85%가 AI 도구로 작성된(AI-written) 것으로 추산했다."
               },
               {
                 "t": "p",
-                "x": "Jobber는 자격을 갖춘 U.S. 고객이 지금 리드 수수료 없이 이런 요청을 받을 수 있다고 밝혔다. 업체에는 유료 Jobber 구독과 연결된 Google Business Profile이 필요하다. Housecall Pro도 “요청 하나에 Pro 한 명, 리드 수수료도 입찰 경쟁도 없다”며 리드 수수료가 없다고 밝혔지만, 보도자료에는 연동이 곧 제공된다고 적혀 있다."
+                "x": "그 결과는? 마케팅 용어로 가득하지만 실제 비전은 거의 없는 수백 쪽짜리 기업 문서다. Basis Technologies 조사에 따르면 마케터와 대행사의 절반 이상(56.4%)이 전략·미디어·캠페인 크리에이티브 브리프 작성에 AI를 쓴다. 한 대행사 임원은 “AI가 상황을 더 나쁘게 만들고 있다. 문장 구조를 장황하게 늘어놓아 [브리프를] 10쪽 분량으로 만든다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "이런 조건은 예약 요청을 리드로 보고 과금하는 Google 자체의 Local Services Ads와 대비된다. Angi의 AI Mode 발표는 AI Mode에서 시작된 견적 요청에도 매칭 수수료가 붙는지 밝히지 않는다. 목록에 오른 플랫폼 어디에도 속하지 않은 업체에는 AI Mode를 통한 직접 예약 경로가 없다."
+                "x": "영국 마케터 150명을 대상으로 한 GWI 조사에서는 29%가 부정확하거나 오해를 부르는 인사이트로 회사가 금전적 손실을 입었다고 인정했다. Bellan-White의 조언은 이렇다. “노트북을 끄세요. 말 그대로 그냥 꺼버리세요.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google AI Mode\nに住宅サービス予約リンク",
-          "body": "AI Modeが住宅サービス検索を提携先予約・見積もりへ直結し、リード料金に疑問が出る。",
-          "mini_headline": "AI Modeで住宅サービス予約",
+          "headline": "AIの使いすぎで\n代理店のブリーフ肥大化",
+          "body": "代理店によると、AIで書いたブリーフが肥大化し、AI過多の初期兆候が出ている。",
+          "mini_headline": "AIで膨らむ代理店のブリーフ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/shutterstock-2671336519-featured-861.jpg",
-                "cap": "Google AI Mode、住宅サービス向けに予約・見積もりリンクを追加"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2024/09/robot-hand-digiday.gif"
               },
               {
                 "t": "p",
-                "x": "Googleは住宅サービス事業者に対し、AI Modeから生じた予約や見積もり依頼を、Marketplaces（Angi & Thumbtack）やField Service Softwareプロバイダー（Housecall Pro & Jobber）といったPartner Platformsを通じて受け付けられるようにしている。Google Search Product VPのRobby Stein氏はXで、U.S.では現在利用可能で、ServiceTitanも近く対応すると述べた。"
+                "x": "代理店の幹部たちは、広告ブリーフの作成にAIツールを使いすぎると、マーケティング担当者の生産性と日々の正気が損なわれかねないと感じている。M&C Saatchiの北米CEO、Nadja Bellan-Whiteは、ブリーフ作成でのAIへの過度な依存が「臨界点に近づいている……少しばかげている」と述べ、クライアントから代理店に届くブリーフの85%がAIツールで書かれたもの（AI-written）だと推定した。"
               },
               {
                 "t": "p",
-                "x": "Jobberによると、対象となるU.S.の顧客は現在、リード料金なしでこうした依頼を受けられる。事業者には有料のJobberサブスクリプションと、連携済みのGoogle Business Profileが必要だ。Housecall Proもリード料金はないとし、「依頼一件にPro一人、リード料金も入札合戦もなし」とうたうが、同社のリリースでは連携は近日提供予定とされている。"
+                "x": "その影響は？ マーケティング用語ばかりで実際のビジョンに乏しい、数百ページに及ぶ企業文書だ。Basis Technologiesの調査によると、マーケターと代理店の半数以上（56.4%）が、戦略、メディア、キャンペーンのクリエイティブブリーフの作成にAIを使っている。ある代理店幹部は「AIが事態を悪化させている。文の構造をこねくり回して、［ブリーフを］10ページにしてしまう」と語った。"
               },
               {
                 "t": "p",
-                "x": "こうした条件は、予約依頼をリードとして課金するGoogle自身のLocal Services Adsとは対照的だ。AngiのAI Modeに関する発表は、AI Modeで始まった見積もり依頼にマッチング料金がかかるかどうかに触れていない。掲載されたいずれのプラットフォームも利用していない事業者には、AI Mode経由で直接予約を受ける手段がない。"
+                "x": "英国のマーケター150人を対象にしたGWIの調査では、29%が不正確または誤解を招くインサイトによって会社が金銭的損失を被ったと認めた。Bellan-Whiteの助言はこうだ。「ノートパソコンの電源を切りなさい。文字どおり、ただシャットダウンするのです」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google AI Mode\n新增家居服务预约链接",
-          "body": "AI Mode将家居服务搜索直接导向合作方预约和报价页面，引发线索费疑问。",
-          "mini_headline": "AI Mode可预约家居服务",
+          "headline": "代理商发现AI滥用\n正让简报日益臃肿",
+          "body": "代理商称，AI撰写的媒体与创意简报日益臃肿，这是广告业AI滥用的早期迹象。",
+          "mini_headline": "AI让代理商简报膨胀",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/shutterstock-2671336519-featured-861.jpg",
-                "cap": "Google AI Mode为家居服务新增预约和报价链接"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2024/09/robot-hand-digiday.gif"
               },
               {
                 "t": "p",
-                "x": "Google正允许家居服务企业通过Partner Platforms接收由AI Mode生成的预约和报价请求，这些平台包括Marketplaces（Angi & Thumbtack）以及Field Service Software提供商（Housecall Pro & Jobber）。Google Search Product VP Robby Stein在X上表示，该功能现已在U.S.上线，ServiceTitan也即将支持。"
+                "x": "代理商负责人发现，过度使用AI工具撰写广告简报，可能损害营销人员的工作效率和日常心态。M&C Saatchi北美CEO Nadja Bellan-White表示，撰写简报时对AI的过度依赖正接近“临界点……有点荒谬了”，她估计客户发给代理商的简报中有85%是用AI工具写成的（AI-written）。"
               },
               {
                 "t": "p",
-                "x": "Jobber表示，其符合条件的U.S.客户现在即可接收这些请求，且不收取线索费；企业需要付费订阅Jobber，并关联Google Business Profile。Housecall Pro也表示不收线索费——“一个请求，一位Pro，不收线索费，没有竞价大战”——不过其新闻稿称相关集成即将推出。"
+                "x": "后果如何？动辄数百页的企业文件，充斥营销术语，却几乎没有真正的愿景。Basis Technologies的一项调查显示，超过一半（56.4%）的营销人员和代理商现在用AI来制定战略、媒体或活动创意简报。一位代理商高管说：“AI让情况更糟。它在句子结构上夸夸其谈，把[一份简报]写到10页长。”"
               },
               {
                 "t": "p",
-                "x": "这些条款与Google自家的Local Services Ads形成对比，后者会把预约请求作为线索收费。Angi关于AI Mode的公告并未说明其匹配费是否适用于从AI Mode发起的报价请求。不在上述任何平台上的企业，无法通过AI Mode获得直接预约。"
+                "x": "GWI对150名英国营销人员的调查发现，29%的人承认不准确或误导性的洞察曾给公司造成经济损失。Bellan-White的建议是：“关掉你的笔记本电脑。真的，直接关机。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google AI Mode suma enlaces\nde reserva de servicios al hogar",
-          "body": "AI Mode envía búsquedas de servicios del hogar a reservas y presupuestos de socios, con dudas sobre tarifas por lead.",
-          "mini_headline": "AI Mode reserva servicios del hogar",
+          "headline": "Las agencias ven que el abuso\nde la IA infla los briefs",
+          "body": "Las agencias ven briefs escritos con IA cada vez más inflados, una señal temprana del abuso de la IA en publicidad.",
+          "mini_headline": "La IA está inflando los briefs de las agencias",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/shutterstock-2671336519-featured-861.jpg",
-                "cap": "Google AI Mode añade enlaces de reserva y presupuesto para servicios del hogar"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2024/09/robot-hand-digiday.gif"
               },
               {
                 "t": "p",
-                "x": "Google permite a las empresas de servicios del hogar aceptar reservas y solicitudes de presupuesto generadas por AI Mode a través de Partner Platforms, como los Marketplaces (Angi & Thumbtack) y los proveedores de Field Service Software (Housecall Pro & Jobber). Robby Stein, Google Search Product VP, dijo en X que ya está disponible en U.S. y que ServiceTitan llegará pronto."
+                "x": "Los líderes de agencias constatan que el uso excesivo de herramientas de IA para redactar briefs publicitarios amenaza con socavar la productividad y la cordura cotidiana del personal de marketing. Nadja Bellan-White, CEO para Norteamérica de M&C Saatchi, dijo que la dependencia excesiva de la IA para escribir briefs se acerca a “un punto de inflexión… Es un poco ridículo”, y estimó que el 85% de los briefs que los clientes envían a la agencia se redactan con herramientas de IA (AI-written)."
               },
               {
                 "t": "p",
-                "x": "Jobber afirma que sus clientes elegibles en U.S. ya pueden recibir esas solicitudes sin tarifas por lead; las empresas necesitan una suscripción de pago a Jobber y un Google Business Profile conectado. Housecall Pro también asegura que no hay tarifas por lead —“Una solicitud, un Pro, sin tarifa por lead, sin guerra de pujas”—, aunque su comunicado indica que su integración llegará pronto."
+                "x": "¿El impacto? Documentos corporativos de cientos de páginas, repletos de jerga de marketing pero con poca visión real. Más de la mitad (56.4%) de los profesionales de marketing y agencias ya usa IA para elaborar briefs de estrategia, medios o creatividad de campañas, según una encuesta de Basis Technologies. “La IA lo está empeorando. Se pone a pontificar con una estructura de frases que hace que [un brief] tenga 10 páginas”, dijo un ejecutivo de agencia."
               },
               {
                 "t": "p",
-                "x": "Esas condiciones contrastan con los Local Services Ads de la propia Google, que cobran las solicitudes de reserva como leads. El anuncio de Angi sobre AI Mode no aclara si sus tarifas de emparejamiento se aplican a las solicitudes de presupuesto que se inician en AI Mode. Una empresa que no esté en ninguna de las plataformas mencionadas no tiene vía para recibir reservas directas a través de AI Mode."
+                "x": "Una encuesta de GWI a 150 profesionales de marketing británicos halló que el 29% admitió que perspectivas inexactas o engañosas habían costado dinero a sus empresas. El consejo de Bellan-White: “Apaga tu portátil. Literalmente, apágalo”."
               }
             ]
           }

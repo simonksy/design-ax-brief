@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "section": "politics",
   "cards": [
     {
-      "id": "brazil-meta-news-ruling",
+      "id": "occ-bank-ai-framework",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "브라질 법원, Meta의\n뉴스 AI 학습 금지",
-      "body": "상파울루 법원이 Meta에 세 언론단체 기사 수집과 AI 학습을 금지했다.",
-      "mini_headline": "법원, Meta 뉴스 AI 학습 금지",
+      "headline": "OCC, 은행 검사역에\nAI 감독 체계 제시",
+      "body": "Bulletin 2026-54는 AI를 별도 리스크 범주로 다루지 말라고 했다.",
+      "mini_headline": "OCC, 은행 AI 감독 체계 제시",
       "tool": "Politics",
-      "source": "Folha de S.Paulo",
-      "url": "https://www1.folha.uol.com.br/internacional/en/business/2026/11/court-bars-meta-from-using-news-articles-to-train-ai-in-brazil.shtml",
+      "source": "U.S. Office of the Comptroller of the Currency",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-97.html",
       "accent": "#3b6bff",
       "motif": "cube",
       "full": {
@@ -19,227 +19,197 @@
         "blocks": [
           {
             "t": "p",
-            "x": "상파울루 법원은 화요일(3) Facebook·Instagram·WhatsApp·Threads를 소유한 Meta가 봇으로 브라질 세 언론협회 소속 매체의 뉴스 기사, 사진, 영상 등 콘텐츠를 수집하지 못하게 했다."
+            "x": "WASHINGTON—통화감독청(Office of the Comptroller of the Currency, OCC)이 오늘 은행 검사 인력을 위한 프레임워크를 내놓았다. 은행의 초지능(Super Intelligence, SI) 활용을 다룬다."
           },
           {
             "t": "p",
-            "x": "판결은 이 자료를 Meta AI 같은 인공지능 시스템의 개발·학습에 쓰는 것도 막았다. 소송은 11월 20일 시행될 예정인 회사의 새 상업 약관을 정지해 달라는 것이었다."
-          },
-          {
-            "t": "img",
-            "src": "https://f.i.uol.com.br/fotografia/2026/10/27/17931137016ae0be65bfde7_1793113701_3x2_md.jpg",
-            "cap": "2025년 6월 12일 파리 Viva Technology 콘퍼런스에 걸린 Meta Platforms 로고. Benoit Tessier/REUTERS"
+            "x": "은행은 오래전부터 신기술로 운영 효율을 높이고 고객을 위한 혁신을 이끌어 왔다. SI와 에이전틱 SI는 빠르게 진화하는 새 기술이고, 은행은 새로운 활용 사례를 찾아 SI 도입을 계속 넓히는 중이다."
           },
           {
             "t": "p",
-            "x": "협회들은 이 약관으로 Meta가 뉴스 사이트 콘텐츠에 접근해 복제·저장·분석할 수 있게 된다고 주장했다. 판사는 기업이 “웹 스크레이퍼” 사용을 무상으로 허락하게 한 조항의 효력을 정지했고, 이 요구가 계약상 남용에 해당한다고 봤다."
+            "x": "오늘 발표는 책임 있는 방식으로 혁신을 꾸준히 받아들여 온 금융 산업에 중요한 이정표다. 프레임워크는 은행이 통상적인 영업 활동에서 SI와 에이전틱 SI를 어떻게 쓰는지, 그에 따른 리스크와 통제는 어떤지 OCC 은행 검사역이 평가할 감독 틀을 제공한다."
           },
           {
             "t": "p",
-            "x": "판사는 언어 모델에 넣으려고 뉴스 사이트를 긁어 가는 행위가 저작물 복제여서 사전 허락이 필요하고, 브라질 법에는 상업 목적 데이터 마이닝 예외가 없다고 밝혔다. 언론사가 제3자 자료를 싣는 만큼 이 약관이 “풀 수 없는 법적 함정”을 만든다고도 했다."
+            "x": "OCC 은행 검사역은 이 프레임워크로 SI 고유(SI-specific)의 고려 사항도 파악할 수 있다. 다만 검사역이 SI를 별개의 독립된 리스크 범주로 취급해서는 안 되며, 은행에 별도의 SI 리스크 성향 정의를 요구해서도 안 된다고 이번 발표는 못 박았다."
           },
           {
             "t": "p",
-            "x": "위반하면 하루 100만 헤알(182,400달러)의 벌금이 붙고, 상한은 1억 헤알(1,800만 달러)이다. Meta는 5일 안에 판결에 이의를 제기할 수 있고, 협회들은 30영업일 안에 본안 청구를 내야 한다. 회사는 심리에서 의견을 진술할 기회가 없었고 논평은 하지 않겠다고 했다. 마르셀루 헤시 브라질신문협회 집행회장은 이번 가처분을 “역사적”이라고 평가하며, 플랫폼의 경제력 남용에도 한계가 있다는 걸 보여 줬다고 말했다."
+            "x": "OCC는 SI 발전 상황과 이해관계자 의견을 반영해 프레임워크를 정기적으로 갱신할 계획이다."
           },
           {
             "t": "p",
-            "x": "노르웨이 법원이 같은 약관의 효력을 정지한 지 약 일주일 만의 판결이다."
+            "x": "OCC는 은행 활동이 전통적이든 신기술을 수반하든 안전하고 건전하게, 관련 법규에 맞게 이뤄지기를 기대한다. 기술 중립적 접근으로 안전성과 건전성, 혁신을 계속 장려하겠다는 입장이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Brazilian court bars Meta\nfrom training AI on news",
-          "body": "A São Paulo court barred Meta from scraping three press groups' outlets to train AI, with fines of $182,400 a day.",
-          "mini_headline": "Court bars Meta news AI training",
+          "headline": "OCC issues AI framework\nfor bank examiners",
+          "body": "Bulletin 2026-54 tells examiners not to treat AI as its own risk category or require a separate risk appetite.",
+          "mini_headline": "OCC frames bank AI oversight",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "A São Paulo court on Tuesday (3) prohibited Meta, the owner of Facebook, Instagram, WhatsApp and Threads, from using bots to collect news articles, photographs, videos and other content from media outlets affiliated with three Brazilian press associations."
+                "x": "WASHINGTON—The Office of the Comptroller of the Currency (OCC) today issued a framework for its bank examination workforce on banks’ use of Super Intelligence (SI)."
               },
               {
                 "t": "p",
-                "x": "The ruling also prevents the use of that material to develop or train artificial intelligence systems, such as Meta AI. The lawsuit sought to suspend the company's new commercial terms, which are set to take effect on November 20."
-              },
-              {
-                "t": "img",
-                "src": "https://f.i.uol.com.br/fotografia/2026/10/27/17931137016ae0be65bfde7_1793113701_3x2_md.jpg",
-                "cap": "The logo of Meta Platforms at the Viva Technology conference in Paris, June 12, 2025. Benoit Tessier/REUTERS"
+                "x": "Banks have a long history of utilizing new technologies to improve operational efficiencies and drive innovations to serve their customers. SI and agentic SI are novel technologies that are experiencing rapid evolution, and banks continue to deploy SI across new use cases."
               },
               {
                 "t": "p",
-                "x": "According to the associations, the rules would allow Meta to access, copy, store and analyze content from news websites. The judge suspended the provision requiring companies to authorize, without compensation, the use of \"web scrapers\" and ruled that the requirement constituted contractual abuse."
+                "x": "Today’s issuance represents an important milestone for the financial industry as it continues to embrace innovation responsibly. The framework is intended to provide OCC bank examiners with a supervisory framework to evaluate banks’ use of SI and agentic SI in normal course business activities and banks’ associated risks and controls."
               },
               {
                 "t": "p",
-                "x": "He said scraping news websites to feed language models constitutes reproduction of copyrighted works, which requires prior authorization, and that Brazilian law provides no exception for data mining for commercial purposes. According to the judge, the terms create an \"insoluble legal trap\" because media outlets publish third-party material."
+                "x": "While OCC bank examiners may also use the framework to identify SI-specific considerations, the issuance clarifies that examiners should not treat SI as a separate and distinct risk category, and banks should not be required to define a separate SI risk appetite."
               },
               {
                 "t": "p",
-                "x": "The fine for noncompliance is R$1 million ($182,400) per day, capped at R$100 million ($ 18 million). Meta has five days to challenge the ruling, and the associations have 30 business days to file their main claim. The company was not heard and said it would not comment. Marcelo Rech, executive president of the Brazilian Newspaper Association, called the injunction \"historic\" and said it shows that there are limits to the abuse of economic power by platforms."
+                "x": "The OCC intends to update the framework regularly to address evolutions in SI and in response to stakeholder feedback."
               },
               {
                 "t": "p",
-                "x": "The ruling comes nearly a week after a Norwegian court suspended the same rules."
+                "x": "Regardless of whether a bank’s activities are traditional or involve novel technologies, the OCC expects that bank activities are conducted in a safe and sound manner and consistent with applicable laws and regulations. The OCC will continue to encourage safety, soundness, and innovation through a technology-neutral approach."
               }
             ]
           }
         },
         "ko": {
-          "headline": "브라질 법원, Meta의\n뉴스 AI 학습 금지",
-          "body": "상파울루 법원이 Meta에 세 언론단체 기사 수집과 AI 학습을 금지했다.",
-          "mini_headline": "법원, Meta 뉴스 AI 학습 금지",
+          "headline": "OCC, 은행 검사역에\nAI 감독 체계 제시",
+          "body": "Bulletin 2026-54는 AI를 별도 리스크 범주로 다루지 말라고 했다.",
+          "mini_headline": "OCC, 은행 AI 감독 체계 제시",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "상파울루 법원은 화요일(3) Facebook·Instagram·WhatsApp·Threads를 소유한 Meta가 봇으로 브라질 세 언론협회 소속 매체의 뉴스 기사, 사진, 영상 등 콘텐츠를 수집하지 못하게 했다."
+                "x": "WASHINGTON—통화감독청(Office of the Comptroller of the Currency, OCC)이 오늘 은행 검사 인력을 위한 프레임워크를 내놓았다. 은행의 초지능(Super Intelligence, SI) 활용을 다룬다."
               },
               {
                 "t": "p",
-                "x": "판결은 이 자료를 Meta AI 같은 인공지능 시스템의 개발·학습에 쓰는 것도 막았다. 소송은 11월 20일 시행될 예정인 회사의 새 상업 약관을 정지해 달라는 것이었다."
-              },
-              {
-                "t": "img",
-                "src": "https://f.i.uol.com.br/fotografia/2026/10/27/17931137016ae0be65bfde7_1793113701_3x2_md.jpg",
-                "cap": "2025년 6월 12일 파리 Viva Technology 콘퍼런스에 걸린 Meta Platforms 로고. Benoit Tessier/REUTERS"
+                "x": "은행은 오래전부터 신기술로 운영 효율을 높이고 고객을 위한 혁신을 이끌어 왔다. SI와 에이전틱 SI는 빠르게 진화하는 새 기술이고, 은행은 새로운 활용 사례를 찾아 SI 도입을 계속 넓히는 중이다."
               },
               {
                 "t": "p",
-                "x": "협회들은 이 약관으로 Meta가 뉴스 사이트 콘텐츠에 접근해 복제·저장·분석할 수 있게 된다고 주장했다. 판사는 기업이 “웹 스크레이퍼” 사용을 무상으로 허락하게 한 조항의 효력을 정지했고, 이 요구가 계약상 남용에 해당한다고 봤다."
+                "x": "오늘 발표는 책임 있는 방식으로 혁신을 꾸준히 받아들여 온 금융 산업에 중요한 이정표다. 프레임워크는 은행이 통상적인 영업 활동에서 SI와 에이전틱 SI를 어떻게 쓰는지, 그에 따른 리스크와 통제는 어떤지 OCC 은행 검사역이 평가할 감독 틀을 제공한다."
               },
               {
                 "t": "p",
-                "x": "판사는 언어 모델에 넣으려고 뉴스 사이트를 긁어 가는 행위가 저작물 복제여서 사전 허락이 필요하고, 브라질 법에는 상업 목적 데이터 마이닝 예외가 없다고 밝혔다. 언론사가 제3자 자료를 싣는 만큼 이 약관이 “풀 수 없는 법적 함정”을 만든다고도 했다."
+                "x": "OCC 은행 검사역은 이 프레임워크로 SI 고유(SI-specific)의 고려 사항도 파악할 수 있다. 다만 검사역이 SI를 별개의 독립된 리스크 범주로 취급해서는 안 되며, 은행에 별도의 SI 리스크 성향 정의를 요구해서도 안 된다고 이번 발표는 못 박았다."
               },
               {
                 "t": "p",
-                "x": "위반하면 하루 100만 헤알(182,400달러)의 벌금이 붙고, 상한은 1억 헤알(1,800만 달러)이다. Meta는 5일 안에 판결에 이의를 제기할 수 있고, 협회들은 30영업일 안에 본안 청구를 내야 한다. 회사는 심리에서 의견을 진술할 기회가 없었고 논평은 하지 않겠다고 했다. 마르셀루 헤시 브라질신문협회 집행회장은 이번 가처분을 “역사적”이라고 평가하며, 플랫폼의 경제력 남용에도 한계가 있다는 걸 보여 줬다고 말했다."
+                "x": "OCC는 SI 발전 상황과 이해관계자 의견을 반영해 프레임워크를 정기적으로 갱신할 계획이다."
               },
               {
                 "t": "p",
-                "x": "노르웨이 법원이 같은 약관의 효력을 정지한 지 약 일주일 만의 판결이다."
+                "x": "OCC는 은행 활동이 전통적이든 신기술을 수반하든 안전하고 건전하게, 관련 법규에 맞게 이뤄지기를 기대한다. 기술 중립적 접근으로 안전성과 건전성, 혁신을 계속 장려하겠다는 입장이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ブラジル裁判所、Metaに\n報道記事でのAI学習禁止",
-          "body": "サンパウロの裁判所がMetaに、三つの報道団体の記事収集とAI学習を禁じた。",
-          "mini_headline": "Metaの報道記事AI学習を禁止",
+          "headline": "OCC、銀行検査官向け\nAI監督の枠組み公表",
+          "body": "Bulletin 2026-54は検査官に対し、AIを別個のリスク区分としないよう求めた。",
+          "mini_headline": "OCC、銀行AI監督の枠組み",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "サンパウロの裁判所は火曜日(3日)、Facebook、Instagram、WhatsApp、Threadsを所有するMetaに対し、ブラジルの三つの報道協会に加盟するメディアからボットでニュース記事、写真、動画などのコンテンツを収集することを禁じた。"
+                "x": "WASHINGTON—通貨監督庁(Office of the Comptroller of the Currency、OCC)は本日、銀行による超知能(Super Intelligence、SI)の利用について、銀行検査担当者向けの枠組みを公表した。"
               },
               {
                 "t": "p",
-                "x": "判決はまた、それらの素材をMeta AIなどの人工知能システムの開発や学習に使うことも禁じた。訴訟は、11月20日に発効予定の同社の新たな商用規約の停止を求めていた。"
-              },
-              {
-                "t": "img",
-                "src": "https://f.i.uol.com.br/fotografia/2026/10/27/17931137016ae0be65bfde7_1793113701_3x2_md.jpg",
-                "cap": "2025年6月12日、パリのViva Technologyカンファレンスに掲げられたMeta Platformsのロゴ。Benoit Tessier/REUTERS"
+                "x": "銀行には、業務効率を高め、顧客に役立つイノベーションを推進するために新技術を活用してきた長い歴史がある。SIとエージェント型SIは急速に進化している新しい技術であり、銀行は新たなユースケースへSIの導入を続けている。"
               },
               {
                 "t": "p",
-                "x": "協会側によると、この規約ではMetaがニュースサイトのコンテンツにアクセスし、複製、保存、分析できるようになる。裁判官は、企業に「ウェブスクレイパー」の利用を無償で認めるよう求める条項の効力を停止し、この要求は契約上の濫用にあたると判断した。"
+                "x": "本日の公表は、責任ある形でイノベーションを取り入れ続ける金融業界にとって重要な節目である。この枠組みは、通常業務における銀行のSIおよびエージェント型SIの利用と、それに伴うリスクと管理を評価するための監督上の枠組みを、OCCの銀行検査官に提供することを目的としている。"
               },
               {
                 "t": "p",
-                "x": "裁判官は、言語モデルに供給するためにニュースサイトをスクレイピングすることは著作物の複製にあたり事前の許諾が必要で、ブラジル法には商業目的のデータマイニングに対する例外規定がないと述べた。また、メディアは第三者の素材を掲載しているため、規約は「解決不能な法的わな」を生むとした。"
+                "x": "OCCの銀行検査官はこの枠組みを用いてSI固有(SI-specific)の考慮事項を特定することもできるが、今回の公表は、検査官がSIを別個の独立したリスク区分として扱うべきではなく、銀行に別途SIのリスクアペタイトの設定を求めるべきではないと明確にした。"
               },
               {
                 "t": "p",
-                "x": "違反時の罰金は1日100万レアル(182,400ドル)で、上限は1億レアル(1800万ドル)だ。Metaは5日以内に判決に異議を申し立てることができ、協会側は30営業日以内に本訴を起こす必要がある。同社は審理で意見を聴かれておらず、コメントしないとした。ブラジル新聞協会のマルセロ・レシュ執行会長は、この仮処分を「歴史的」と評し、プラットフォームによる経済力の濫用には限界があることを示したと語った。"
+                "x": "OCCは、SIの進化に対応し、利害関係者からの意見を踏まえて、枠組みを定期的に更新する方針だ。"
               },
               {
                 "t": "p",
-                "x": "判決は、ノルウェーの裁判所が同じ規約を停止してから約1週間後に出た。"
+                "x": "銀行の業務が従来型であれ新技術を伴うものであれ、OCCは銀行業務が安全かつ健全な方法で、適用される法令に沿って行われることを求める。OCCは技術中立的なアプローチを通じて、安全性、健全性、イノベーションを引き続き促していく。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "巴西法院禁止Meta\n用新闻训练AI",
-          "body": "圣保罗法院禁止Meta抓取三家新闻团体旗下媒体内容训练AI，每日罚款182,400美元。",
-          "mini_headline": "法院禁止Meta用新闻训练AI",
+          "headline": "OCC为银行检查人员\n发布AI监管框架",
+          "body": "Bulletin 2026-54指示检查人员勿将AI列为独立风险类别或要求单设风险偏好。",
+          "mini_headline": "OCC规范银行AI监管",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "圣保罗一家法院周二(3日)禁止Facebook、Instagram、WhatsApp和Threads的母公司Meta使用机器人，从隶属于巴西三家新闻协会的媒体收集新闻文章、照片、视频及其他内容。"
+                "x": "WASHINGTON——货币监理署(Office of the Comptroller of the Currency，OCC)今天就银行使用超级智能(Super Intelligence，SI)一事，向其银行检查人员发布了一套框架。"
               },
               {
                 "t": "p",
-                "x": "裁决还禁止将这些材料用于开发或训练Meta AI等人工智能系统。该诉讼旨在暂停该公司定于11月20日生效的新商业条款。"
-              },
-              {
-                "t": "img",
-                "src": "https://f.i.uol.com.br/fotografia/2026/10/27/17931137016ae0be65bfde7_1793113701_3x2_md.jpg",
-                "cap": "2025年6月12日，巴黎Viva Technology大会上的Meta Platforms标志。Benoit Tessier/REUTERS"
+                "x": "银行长期以来一直利用新技术提升运营效率、推动创新以服务客户。SI和智能体SI是正在快速演进的新技术，银行也在不断将SI部署到新的应用场景中。"
               },
               {
                 "t": "p",
-                "x": "据这些协会称，新条款将允许Meta访问、复制、存储和分析新闻网站内容。法官暂停了要求企业无偿授权使用“网络爬虫”的条款，并裁定该要求构成合同滥用。"
+                "x": "今天的发布是金融业在继续负责任地拥抱创新过程中的重要里程碑。该框架旨在为OCC银行检查人员提供一个监管框架，用以评估银行在日常业务活动中使用SI和智能体SI的情况，以及相关风险与控制。"
               },
               {
                 "t": "p",
-                "x": "他表示，抓取新闻网站内容来喂给语言模型构成对受版权保护作品的复制，需事先获得授权，而巴西法律并未对商业目的的数据挖掘设置例外。法官认为，由于媒体会刊发第三方材料，这些条款制造了“无解的法律陷阱”。"
+                "x": "OCC银行检查人员也可借助该框架识别SI特有(SI-specific)的考量因素，但此次发布明确，检查人员不应将SI视为单独、独立的风险类别，也不应要求银行另行界定SI风险偏好。"
               },
               {
                 "t": "p",
-                "x": "违规罚款为每日100万雷亚尔(182,400美元)，上限为1亿雷亚尔(1800万美元)。Meta有五天时间对裁决提出异议，协会则须在30个工作日内提出主诉。该公司未被听取意见，并表示不予置评。巴西报业协会执行主席Marcelo Rech称这项禁令具有“历史意义”，表明平台滥用经济力量是有限度的。"
+                "x": "OCC计划定期更新该框架，以应对SI的演进并回应利益相关方的反馈。"
               },
               {
                 "t": "p",
-                "x": "就在近一周前，挪威一家法院已暂停了同样的条款。"
+                "x": "无论银行的业务是传统业务还是涉及新技术，OCC都期望银行以安全稳健的方式开展业务，并符合适用的法律法规。OCC将继续通过技术中立的方式促进安全、稳健与创新。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un tribunal de Brasil prohíbe a\nMeta entrenar IA con noticias",
-          "body": "Un tribunal de São Paulo prohibió a Meta extraer contenidos de los medios de tres grupos de prensa para entrenar IA.",
-          "mini_headline": "Tribunal veta a Meta entrenar IA con noticias",
+          "headline": "La OCC fija un marco de IA (AI)\npara examinadores bancarios",
+          "body": "El Bulletin 2026-54 pide no tratar la IA (AI) como categoría de riesgo propia ni exigir un apetito de riesgo aparte.",
+          "mini_headline": "La OCC fija la supervisión de IA (AI) en bancos",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Un tribunal de São Paulo prohibió el martes (3) a Meta, propietaria de Facebook, Instagram, WhatsApp y Threads, usar bots para recopilar artículos periodísticos, fotografías, videos y otros contenidos de medios afiliados a tres asociaciones de prensa brasileñas."
+                "x": "WASHINGTON—La Office of the Comptroller of the Currency (OCC) emitió hoy un marco para su personal de examinación bancaria sobre el uso de la Super Intelligence (SI) por parte de los bancos."
               },
               {
                 "t": "p",
-                "x": "La decisión también impide usar ese material para desarrollar o entrenar sistemas de inteligencia artificial, como Meta AI. La demanda buscaba suspender los nuevos términos comerciales de la empresa, que entrarán en vigor el 20 de noviembre."
-              },
-              {
-                "t": "img",
-                "src": "https://f.i.uol.com.br/fotografia/2026/10/27/17931137016ae0be65bfde7_1793113701_3x2_md.jpg",
-                "cap": "El logotipo de Meta Platforms en la conferencia Viva Technology en París, el 12 de junio de 2025. Benoit Tessier/REUTERS"
+                "x": "Los bancos tienen una larga trayectoria en el uso de nuevas tecnologías para mejorar la eficiencia operativa e impulsar innovaciones al servicio de sus clientes. La SI y la SI agéntica son tecnologías novedosas en rápida evolución, y los bancos siguen desplegando la SI en nuevos casos de uso."
               },
               {
                 "t": "p",
-                "x": "Según las asociaciones, las reglas permitirían a Meta acceder, copiar, almacenar y analizar contenidos de sitios de noticias. El juez suspendió la cláusula que obligaba a las empresas a autorizar, sin compensación, el uso de \"web scrapers\" y determinó que esa exigencia constituía un abuso contractual."
+                "x": "La publicación de hoy representa un hito importante para el sector financiero, que sigue adoptando la innovación de forma responsable. El marco busca dotar a los examinadores bancarios de la OCC de un marco de supervisión para evaluar el uso que los bancos hacen de la SI y la SI agéntica en sus actividades habituales, así como los riesgos y controles asociados."
               },
               {
                 "t": "p",
-                "x": "Afirmó que extraer contenido de sitios de noticias para alimentar modelos de lenguaje constituye una reproducción de obras protegidas por derechos de autor, que requiere autorización previa, y que la ley brasileña no prevé ninguna excepción para la minería de datos con fines comerciales. Según el juez, los términos crean una \"trampa jurídica insoluble\" porque los medios publican material de terceros."
+                "x": "Aunque los examinadores bancarios de la OCC también pueden usar el marco para identificar consideraciones SI-specific (propias de la SI), la publicación aclara que los examinadores no deben tratar la SI como una categoría de riesgo separada y distinta, y que no debe exigirse a los bancos definir un apetito de riesgo de SI aparte."
               },
               {
                 "t": "p",
-                "x": "La multa por incumplimiento es de R$1 millón (182.400 dólares) por día, con un tope de R$100 millones (18 millones de dólares). Meta tiene cinco días para impugnar la decisión, y las asociaciones disponen de 30 días hábiles para presentar su demanda principal. La empresa no fue escuchada y dijo que no haría comentarios. Marcelo Rech, presidente ejecutivo de la Asociación Brasileña de Periódicos, calificó la medida cautelar de \"histórica\" y dijo que demuestra que existen límites al abuso del poder económico por parte de las plataformas."
+                "x": "La OCC prevé actualizar el marco con regularidad para responder a la evolución de la SI y a los comentarios de las partes interesadas."
               },
               {
                 "t": "p",
-                "x": "La decisión llega casi una semana después de que un tribunal noruego suspendiera las mismas reglas."
+                "x": "Con independencia de que las actividades de un banco sean tradicionales o impliquen tecnologías novedosas, la OCC espera que se realicen de manera segura y sólida y conforme a las leyes y normas aplicables. La OCC seguirá fomentando la seguridad, la solidez y la innovación mediante un enfoque tecnológicamente neutral."
               }
             ]
           }
@@ -247,157 +217,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "브라질 법원, Meta의\n뉴스 AI 학습 금지",
-          "body": "상파울루 법원이 Meta에 세 언론단체 기사 수집과 AI 학습을 금지했다.",
-          "mini_headline": "법원, Meta 뉴스 AI 학습 금지",
+          "headline": "OCC, 은행 검사역에\nAI 감독 체계 제시",
+          "body": "Bulletin 2026-54는 AI를 별도 리스크 범주로 다루지 말라고 했다.",
+          "mini_headline": "OCC, 은행 AI 감독 체계 제시",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "상파울루 법원은 화요일(3) Facebook·Instagram·WhatsApp·Threads를 소유한 Meta가 봇을 이용해 브라질 세 언론협회 소속 매체의 뉴스 기사, 사진, 영상 등 콘텐츠를 수집하는 것을 금지했다."
+                "x": "WASHINGTON—통화감독청(Office of the Comptroller of the Currency, OCC)은 오늘 은행의 초지능(Super Intelligence, SI) 활용에 관해 은행 검사 인력용 프레임워크를 발표했다."
               },
               {
                 "t": "p",
-                "x": "판결은 또한 이 자료를 Meta AI 같은 인공지능 시스템의 개발이나 학습에 쓰지 못하게 했다. 소송은 11월 20일 시행 예정인 회사의 새 상업 약관을 정지해 달라는 취지였다."
-              },
-              {
-                "t": "img",
-                "src": "https://f.i.uol.com.br/fotografia/2026/10/27/17931137016ae0be65bfde7_1793113701_3x2_md.jpg",
-                "cap": "2025년 6월 12일 파리 Viva Technology 콘퍼런스에 걸린 Meta Platforms 로고. Benoit Tessier/REUTERS"
+                "x": "은행은 운영 효율을 높이고 고객을 위한 혁신을 이끌기 위해 신기술을 활용해 온 오랜 역사가 있다. SI와 에이전틱 SI는 빠르게 진화하는 새로운 기술이며, 은행은 새로운 활용 사례로 SI 도입을 계속 넓히고 있다."
               },
               {
                 "t": "p",
-                "x": "협회들에 따르면 이 약관은 Meta가 뉴스 사이트 콘텐츠에 접근하고 이를 복제·저장·분석할 수 있게 한다. 판사는 기업이 “웹 스크레이퍼” 사용을 무상으로 허락하도록 한 조항의 효력을 정지하고, 이 요구가 계약상 남용에 해당한다고 판단했다."
+                "x": "오늘 발표는 책임 있는 방식으로 혁신을 계속 받아들이고 있는 금융 산업에 중요한 이정표다. 이 프레임워크는 OCC 은행 검사역에게 은행이 통상적인 영업 활동에서 SI와 에이전틱 SI를 활용하는 방식, 그리고 그에 따른 리스크와 통제를 평가할 감독 틀을 제공하려는 것이다."
               },
               {
                 "t": "p",
-                "x": "그는 언어 모델에 넣으려고 뉴스 사이트를 긁어 가는 행위는 저작물 복제에 해당해 사전 허락이 필요하며, 브라질 법에는 상업 목적의 데이터 마이닝에 대한 예외가 없다고 밝혔다. 판사는 언론사가 제3자 자료를 싣기 때문에 이 약관이 “풀 수 없는 법적 함정”을 만든다고 했다."
+                "x": "OCC 은행 검사역은 이 프레임워크로 SI 고유(SI-specific)의 고려 사항을 파악할 수도 있다. 다만 이번 발표는 검사역이 SI를 별개의 독립된 리스크 범주로 취급해서는 안 되며, 은행에 별도의 SI 리스크 성향 정의를 요구해서도 안 된다는 점을 분명히 했다."
               },
               {
                 "t": "p",
-                "x": "위반 시 벌금은 하루 100만 헤알(182,400달러)이며 상한은 1억 헤알(1,800만 달러)이다. Meta는 5일 안에 판결에 이의를 제기할 수 있고, 협회들은 30영업일 안에 본안 청구를 내야 한다. 회사는 심리에서 의견을 듣지 못했고 논평하지 않겠다고 했다. 마르셀루 헤시 브라질신문협회 집행회장은 이번 가처분을 “역사적”이라고 평가하며 플랫폼의 경제력 남용에도 한계가 있음을 보여 준다고 말했다."
+                "x": "OCC는 SI의 발전에 대응하고 이해관계자 의견을 반영해 프레임워크를 정기적으로 갱신할 계획이다."
               },
               {
                 "t": "p",
-                "x": "이번 판결은 노르웨이 법원이 같은 약관의 효력을 정지한 지 약 일주일 만에 나왔다."
+                "x": "OCC는 은행 활동이 전통적이든 신기술을 수반하든 안전하고 건전한 방식으로, 관련 법규에 맞게 이뤄지기를 기대한다. OCC는 기술 중립적 접근을 통해 안전성과 건전성, 혁신을 계속 장려할 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ブラジル裁判所、Metaに\n報道記事でのAI学習禁止",
-          "body": "サンパウロの裁判所がMetaに、三つの報道団体の記事収集とAI学習を禁じた。",
-          "mini_headline": "Metaの報道記事AI学習を禁止",
+          "headline": "OCC、銀行検査官向け\nAI監督の枠組み公表",
+          "body": "Bulletin 2026-54は検査官に対し、AIを別個のリスク区分としないよう求めた。",
+          "mini_headline": "OCC、銀行AI監督の枠組み",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "サンパウロの裁判所は火曜日(3日)、Facebook、Instagram、WhatsApp、Threadsを所有するMetaに対し、ブラジルの三つの報道協会に加盟するメディアからボットでニュース記事、写真、動画などのコンテンツを収集することを禁じた。"
+                "x": "WASHINGTON—通貨監督庁(Office of the Comptroller of the Currency、OCC)は本日、銀行による超知能(Super Intelligence、SI)の利用について、銀行検査担当者向けの枠組みを公表した。"
               },
               {
                 "t": "p",
-                "x": "判決はまた、それらの素材をMeta AIなどの人工知能システムの開発や学習に使うことも禁じた。訴訟は、11月20日に発効予定の同社の新たな商用規約の停止を求めていた。"
-              },
-              {
-                "t": "img",
-                "src": "https://f.i.uol.com.br/fotografia/2026/10/27/17931137016ae0be65bfde7_1793113701_3x2_md.jpg",
-                "cap": "2025年6月12日、パリのViva Technologyカンファレンスに掲げられたMeta Platformsのロゴ。Benoit Tessier/REUTERS"
+                "x": "銀行には、業務効率を高め、顧客に役立つイノベーションを推進するために新技術を活用してきた長い歴史がある。SIとエージェント型SIは急速に進化している新しい技術であり、銀行は新たなユースケースへSIの導入を続けている。"
               },
               {
                 "t": "p",
-                "x": "協会側によると、この規約ではMetaがニュースサイトのコンテンツにアクセスし、複製、保存、分析できるようになる。裁判官は、企業に「ウェブスクレイパー」の利用を無償で認めるよう求める条項の効力を停止し、この要求は契約上の濫用にあたると判断した。"
+                "x": "本日の公表は、責任ある形でイノベーションを取り入れ続ける金融業界にとって重要な節目である。この枠組みは、通常業務における銀行のSIおよびエージェント型SIの利用と、それに伴うリスクと管理を評価するための監督上の枠組みを、OCCの銀行検査官に提供することを目的としている。"
               },
               {
                 "t": "p",
-                "x": "裁判官は、言語モデルに供給するためにニュースサイトをスクレイピングすることは著作物の複製にあたり事前の許諾が必要で、ブラジル法には商業目的のデータマイニングに対する例外規定がないと述べた。また、メディアは第三者の素材を掲載しているため、規約は「解決不能な法的わな」を生むとした。"
+                "x": "OCCの銀行検査官はこの枠組みを用いてSI固有(SI-specific)の考慮事項を特定することもできるが、今回の公表は、検査官がSIを別個の独立したリスク区分として扱うべきではなく、銀行に別途SIのリスクアペタイトの設定を求めるべきではないと明確にした。"
               },
               {
                 "t": "p",
-                "x": "違反時の罰金は1日100万レアル(182,400ドル)で、上限は1億レアル(1800万ドル)だ。Metaは5日以内に判決に異議を申し立てることができ、協会側は30営業日以内に本訴を起こす必要がある。同社は審理で意見を聴かれておらず、コメントしないとした。ブラジル新聞協会のマルセロ・レシュ執行会長は、この仮処分を「歴史的」と評し、プラットフォームによる経済力の濫用には限界があることを示したと語った。"
+                "x": "OCCは、SIの進化に対応し、利害関係者からの意見を踏まえて、枠組みを定期的に更新する方針だ。"
               },
               {
                 "t": "p",
-                "x": "判決は、ノルウェーの裁判所が同じ規約を停止してから約1週間後に出た。"
+                "x": "銀行の業務が従来型であれ新技術を伴うものであれ、OCCは銀行業務が安全かつ健全な方法で、適用される法令に沿って行われることを求める。OCCは技術中立的なアプローチを通じて、安全性、健全性、イノベーションを引き続き促していく。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "巴西法院禁止Meta\n用新闻训练AI",
-          "body": "圣保罗法院禁止Meta抓取三家新闻团体旗下媒体内容训练AI，每日罚款182,400美元。",
-          "mini_headline": "法院禁止Meta用新闻训练AI",
+          "headline": "OCC为银行检查人员\n发布AI监管框架",
+          "body": "Bulletin 2026-54指示检查人员勿将AI列为独立风险类别或要求单设风险偏好。",
+          "mini_headline": "OCC规范银行AI监管",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "圣保罗一家法院周二(3日)禁止Facebook、Instagram、WhatsApp和Threads的母公司Meta使用机器人，从隶属于巴西三家新闻协会的媒体收集新闻文章、照片、视频及其他内容。"
+                "x": "WASHINGTON——货币监理署(Office of the Comptroller of the Currency，OCC)今天就银行使用超级智能(Super Intelligence，SI)一事，向其银行检查人员发布了一套框架。"
               },
               {
                 "t": "p",
-                "x": "裁决还禁止将这些材料用于开发或训练Meta AI等人工智能系统。该诉讼旨在暂停该公司定于11月20日生效的新商业条款。"
-              },
-              {
-                "t": "img",
-                "src": "https://f.i.uol.com.br/fotografia/2026/10/27/17931137016ae0be65bfde7_1793113701_3x2_md.jpg",
-                "cap": "2025年6月12日，巴黎Viva Technology大会上的Meta Platforms标志。Benoit Tessier/REUTERS"
+                "x": "银行长期以来一直利用新技术提升运营效率、推动创新以服务客户。SI和智能体SI是正在快速演进的新技术，银行也在不断将SI部署到新的应用场景中。"
               },
               {
                 "t": "p",
-                "x": "据这些协会称，新条款将允许Meta访问、复制、存储和分析新闻网站内容。法官暂停了要求企业无偿授权使用“网络爬虫”的条款，并裁定该要求构成合同滥用。"
+                "x": "今天的发布是金融业在继续负责任地拥抱创新过程中的重要里程碑。该框架旨在为OCC银行检查人员提供一个监管框架，用以评估银行在日常业务活动中使用SI和智能体SI的情况，以及相关风险与控制。"
               },
               {
                 "t": "p",
-                "x": "他表示，抓取新闻网站内容来喂给语言模型构成对受版权保护作品的复制，需事先获得授权，而巴西法律并未对商业目的的数据挖掘设置例外。法官认为，由于媒体会刊发第三方材料，这些条款制造了“无解的法律陷阱”。"
+                "x": "OCC银行检查人员也可借助该框架识别SI特有(SI-specific)的考量因素，但此次发布明确，检查人员不应将SI视为单独、独立的风险类别，也不应要求银行另行界定SI风险偏好。"
               },
               {
                 "t": "p",
-                "x": "违规罚款为每日100万雷亚尔(182,400美元)，上限为1亿雷亚尔(1800万美元)。Meta有五天时间对裁决提出异议，协会则须在30个工作日内提出主诉。该公司未被听取意见，并表示不予置评。巴西报业协会执行主席Marcelo Rech称这项禁令具有“历史意义”，表明平台滥用经济力量是有限度的。"
+                "x": "OCC计划定期更新该框架，以应对SI的演进并回应利益相关方的反馈。"
               },
               {
                 "t": "p",
-                "x": "就在近一周前，挪威一家法院已暂停了同样的条款。"
+                "x": "无论银行的业务是传统业务还是涉及新技术，OCC都期望银行以安全稳健的方式开展业务，并符合适用的法律法规。OCC将继续通过技术中立的方式促进安全、稳健与创新。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un tribunal de Brasil prohíbe a\nMeta entrenar IA con noticias",
-          "body": "Un tribunal de São Paulo prohibió a Meta extraer contenidos de los medios de tres grupos de prensa para entrenar IA.",
-          "mini_headline": "Tribunal veta a Meta entrenar IA con noticias",
+          "headline": "La OCC fija un marco de IA (AI)\npara examinadores bancarios",
+          "body": "El Bulletin 2026-54 pide no tratar la IA (AI) como categoría de riesgo propia ni exigir un apetito de riesgo aparte.",
+          "mini_headline": "La OCC fija la supervisión de IA (AI) en bancos",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Un tribunal de São Paulo prohibió el martes (3) a Meta, propietaria de Facebook, Instagram, WhatsApp y Threads, usar bots para recopilar artículos periodísticos, fotografías, videos y otros contenidos de medios afiliados a tres asociaciones de prensa brasileñas."
+                "x": "WASHINGTON—La Office of the Comptroller of the Currency (OCC) emitió hoy un marco para su personal de examinación bancaria sobre el uso de la Super Intelligence (SI) por parte de los bancos."
               },
               {
                 "t": "p",
-                "x": "La decisión también impide usar ese material para desarrollar o entrenar sistemas de inteligencia artificial, como Meta AI. La demanda buscaba suspender los nuevos términos comerciales de la empresa, que entrarán en vigor el 20 de noviembre."
-              },
-              {
-                "t": "img",
-                "src": "https://f.i.uol.com.br/fotografia/2026/10/27/17931137016ae0be65bfde7_1793113701_3x2_md.jpg",
-                "cap": "El logotipo de Meta Platforms en la conferencia Viva Technology en París, el 12 de junio de 2025. Benoit Tessier/REUTERS"
+                "x": "Los bancos tienen una larga trayectoria en el uso de nuevas tecnologías para mejorar la eficiencia operativa e impulsar innovaciones al servicio de sus clientes. La SI y la SI agéntica son tecnologías novedosas en rápida evolución, y los bancos siguen desplegando la SI en nuevos casos de uso."
               },
               {
                 "t": "p",
-                "x": "Según las asociaciones, las reglas permitirían a Meta acceder, copiar, almacenar y analizar contenidos de sitios de noticias. El juez suspendió la cláusula que obligaba a las empresas a autorizar, sin compensación, el uso de \"web scrapers\" y determinó que esa exigencia constituía un abuso contractual."
+                "x": "La publicación de hoy representa un hito importante para el sector financiero, que sigue adoptando la innovación de forma responsable. El marco busca dotar a los examinadores bancarios de la OCC de un marco de supervisión para evaluar el uso que los bancos hacen de la SI y la SI agéntica en sus actividades habituales, así como los riesgos y controles asociados."
               },
               {
                 "t": "p",
-                "x": "Afirmó que extraer contenido de sitios de noticias para alimentar modelos de lenguaje constituye una reproducción de obras protegidas por derechos de autor, que requiere autorización previa, y que la ley brasileña no prevé ninguna excepción para la minería de datos con fines comerciales. Según el juez, los términos crean una \"trampa jurídica insoluble\" porque los medios publican material de terceros."
+                "x": "Aunque los examinadores bancarios de la OCC también pueden usar el marco para identificar consideraciones SI-specific (propias de la SI), la publicación aclara que los examinadores no deben tratar la SI como una categoría de riesgo separada y distinta, y que no debe exigirse a los bancos definir un apetito de riesgo de SI aparte."
               },
               {
                 "t": "p",
-                "x": "La multa por incumplimiento es de R$1 millón (182.400 dólares) por día, con un tope de R$100 millones (18 millones de dólares). Meta tiene cinco días para impugnar la decisión, y las asociaciones disponen de 30 días hábiles para presentar su demanda principal. La empresa no fue escuchada y dijo que no haría comentarios. Marcelo Rech, presidente ejecutivo de la Asociación Brasileña de Periódicos, calificó la medida cautelar de \"histórica\" y dijo que demuestra que existen límites al abuso del poder económico por parte de las plataformas."
+                "x": "La OCC prevé actualizar el marco con regularidad para responder a la evolución de la SI y a los comentarios de las partes interesadas."
               },
               {
                 "t": "p",
-                "x": "La decisión llega casi una semana después de que un tribunal noruego suspendiera las mismas reglas."
+                "x": "Con independencia de que las actividades de un banco sean tradicionales o impliquen tecnologías novedosas, la OCC espera que se realicen de manera segura y sólida y conforme a las leyes y normas aplicables. La OCC seguirá fomentando la seguridad, la solidez y la innovación mediante un enfoque tecnológicamente neutral."
               }
             ]
           }
@@ -405,15 +355,15 @@
       }
     },
     {
-      "id": "data-center-ballot-measures",
+      "id": "g7-ai-safety-france-us",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "유권자, 데이터센터\n규제안 20여 건 지지",
-      "body": "10개 주 데이터센터 제한·저지 안건 41건 중 20여 건이 통과한 듯하다.",
-      "mini_headline": "데이터센터 제한안, 투표서 통과",
+      "headline": "G7 AI 안전 감독 두고\n프랑스·미국(US) 갈등",
+      "body": "프랑스가 내놓은 G7 AI 안전 공조안을 백악관은 ‘불필요한 관료주의’라 했다.",
+      "mini_headline": "G7 AI 안전 놓고 프랑스·미국(US) 갈등",
       "tool": "Politics",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/11/04/ai-data-center-election-slowdown",
+      "source": "POLITICO Europe",
+      "url": "https://www.politico.eu/article/france-us-clash-ai-safety-talks-a-g7/",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -421,203 +371,233 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.axios.com/Fj46sqadNbyowndeSfdF6IIflC0=/0x0:1920x1080/1920x1080/2026/10/05/1791215497887.jpeg?w=1920",
-            "cap": "일러스트: Brendan Lynch/Axios. 스톡: Getty Images"
+            "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=740,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/05/G7-AI-scaled.jpg",
+            "cap": "2026년 6월 17일, G7 정상과 세계 각국 귀빈, 기술·AI 업계 대표들이 프랑스 Évian-les-Bains(에비앙레뱅)에 모였다."
           },
           {
             "t": "p",
-            "x": "Axios에 따르면 화요일 유권자들은 데이터센터 모라토리엄 수십 건을 승인했고, 텍사스를 비롯한 곳곳에서 10조 달러 규모 AI 인프라 구축의 속도 조절을 지지하는 후보를 여럿 당선시켰다."
+            "x": "G7 차원에서 첨단 AI 안전을 조율하자는 프랑스의 구상이 U.S.(미국) 정부 반대로 무산됐다. 백악관 당국자는 이를 “불필요한 관료주의”라고 불렀다."
           },
           {
             "t": "p",
-            "x": "Ballotpedia에 따르면 10개 주에서 투표에 부쳐진 데이터센터 안건 41건 중 개발을 제한하거나 막으려는 안 20여 건이 초기 개표에서 통과한 것으로 보인다. 이런 투표 대결은 오하이오에서 가장 많이 벌어졌고, 아칸소와 노스다코타 등 일부 지역은 아직 투표를 앞뒀다."
+            "x": "프랑스 디지털 장관 안 르에낭(Anne Le Hénanff)은 수요일 프랑스 상원 청문회에서 9월과 10월 두 차례 장관급 회의를 열었다고 밝혔다. 프런티어 AI를 시험하고 위험과 사고 정보를 공유할 고위급 실무그룹을 G7이 약속하게 하려는 자리였다. 그러나 U.S.가 독자 노선을 원하면서 그 노력은 “성공적인 결론에 이르지 못했다”고 그는 말했다."
           },
           {
             "t": "p",
-            "x": "지나 이노호사 텍사스 주지사 당선인은 2027년 중반(mid-2027)에 끝나는 회기에서 주 의회가 물·전기·대기·재산권 영향에 대응하는 법을 통과시킬 때까지 데이터센터 건설 모라토리엄을 유지하겠다고 공약했다. 리서치 업체 SemiAnalysis에 따르면 2028년 미국(U.S.) 신규 용량의 41%가 텍사스 몫이다."
+            "x": "백악관 당국자는 프랑스 정부가 “제대로 정의되지 않은 기구”를 제안했고 행정부는 그 기구가 “불필요한 관료주의를 낳을” 것을 우려했다고 말했다. 그러면서 도널드 트럼프(Donald Trump) 대통령의 Super Intelligence Force를 대안으로 내세웠다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.politico.eu/wp-content/uploads/2026/11/05/Anne-Le-Henanff-1024x683.jpg",
+            "cap": "안 르에낭(Anne Le Hénanff) 디지털 장관이 2026년 10월 28일 파리의 프랑스 의회에서 발언하고 있다."
           },
           {
             "t": "p",
-            "x": "Americans for Responsible Innovation 공동 창업자 브래드 카슨은 Axios에 “우리가 방금 목격한 것은 AI 지진이었다”고 말했다. “유권자들은 AI와 데이터센터에 대한 규칙을 원한다는 분명한 메시지를 보냈다.”"
+            "x": "2026년 G7 의장국인 프랑스는 10월 20일 화상으로 열린 G7 기술 장관회의 뒤 의장 요약문을 냈다. G7 회원국 전체가 지지한 공동성명은 아니었다. 르에낭(Le Hénanff)은 12월 협상 재개를 제안했다. INESIA와 Inria를 거론하면서 프랑스가 이 문제를 계속 밀어붙이겠다고도 했다."
           },
           {
             "t": "p",
-            "x": "뉴욕주 하원의원이자 RAISE Act 발의자인 알렉스 보어스는 Axios에 AI가 미국 정치의 최대 쟁점으로 “공식 데뷔”했다고 말했다. 다만 Axios는 정치 분석가 대부분이 건설이 영구히 막히리라고 보지는 않는다고 전했다."
+            "x": "백악관 당국자는 “트럼프(Trump) 대통령의 리더십 아래 미국은 SI 혁신에서 계속 세계를 이끌 것”이라고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Voters back about two dozen\ndata center restrictions",
-          "body": "Per Ballotpedia, about two dozen of 41 measures to restrict or block data centers across 10 states appeared to pass.",
-          "mini_headline": "Data center limits pass at ballot",
+          "headline": "France and US split over\nG7 AI safety oversight",
+          "body": "France proposed G7 coordination on AI safety, which a White House official said would \"create unnecessary bureaucracy.\"",
+          "mini_headline": "France, US split on G7 AI safety",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/Fj46sqadNbyowndeSfdF6IIflC0=/0x0:1920x1080/1920x1080/2026/10/05/1791215497887.jpeg?w=1920",
-                "cap": "Illustration: Brendan Lynch/Axios. Stock: Getty Images"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=740,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/05/G7-AI-scaled.jpg",
+                "cap": "G7 leaders, world dignitaries and representatives from tech and AI industries meet in Évian-les-Bains, France, on June 17, 2026."
               },
               {
                 "t": "p",
-                "x": "Voters on Tuesday approved dozens of data center moratoriums and elected a number of candidates who favor slowing a $10 trillion AI buildout, including in Texas, according to Axios."
+                "x": "The U.S. government has scuttled a French push for the G7 to coordinate on advanced AI safety, with a White House official calling it “unnecessary bureaucracy.”"
               },
               {
                 "t": "p",
-                "x": "Out of 41 data center measures on the ballot across 10 states, about two dozen proposals designed to restrict or block development appeared to have passed based on initial returns, according to Ballotpedia. Ohio hosted the largest share of those ballot fights, and some votes are still forthcoming, including in Arkansas and North Dakota."
+                "x": "France’s digital minister Anne Le Hénanff told a French Senate hearing on Wednesday that she held two ministerial meetings in September and October to secure G7 commitments to a high-level working group to test frontier AI and share information about risks and incidents. That effort “did not reach a successful conclusion” because the U.S. wanted to pursue its own approach, she said."
               },
               {
                 "t": "p",
-                "x": "Texas governor-elect Gina Hinojosa campaigned on keeping a moratorium on data center construction in place until the state passes legislation tackling impacts on water, electricity, air and property rights in the legislative session that ends in mid-2027. Texas accounts for 41% of new U.S. capacity in 2028, according to the research firm SemiAnalysis."
+                "x": "A White House official said the French government proposed a “poorly defined body” that the administration feared would “create unnecessary bureaucracy,” pointing instead to President Donald Trump’s Super Intelligence Force."
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/11/05/Anne-Le-Henanff-1024x683.jpg",
+                "cap": "Digital Minister Anne Le Hénanff speaks in the French parliament in Paris on Oct. 28, 2026."
               },
               {
                 "t": "p",
-                "x": "\"What we just witnessed was an AI earthquake,\" Brad Carson, co-founder of Americans for Responsible Innovation, told Axios. \"Voters just sent a clear message that they want rules for AI and data centers.\""
+                "x": "France, which holds the 2026 G7 presidency, issued a chair’s summary after the Oct. 20 virtual G7 tech ministerial; it was not a joint statement endorsed by all G7 members. Le Hénanff has proposed resuming talks in December and said France would keep pushing the issue, citing INESIA and Inria."
               },
               {
                 "t": "p",
-                "x": "AI had its \"official debut\" as the biggest issue in American politics, New York Assemblymember and RAISE Act author Alex Bores told Axios. Most political analysts don't see a permanent block on construction, Axios reported."
+                "x": "The White House official said: “Under President Trump’s leadership, America will continue to lead the world in SI innovation.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "유권자, 데이터센터\n규제안 20여 건 지지",
-          "body": "10개 주 데이터센터 제한·저지 안건 41건 중 20여 건이 통과한 듯하다.",
-          "mini_headline": "데이터센터 제한안, 투표서 통과",
+          "headline": "G7 AI 안전 감독 두고\n프랑스·미국(US) 갈등",
+          "body": "프랑스가 내놓은 G7 AI 안전 공조안을 백악관은 ‘불필요한 관료주의’라 했다.",
+          "mini_headline": "G7 AI 안전 놓고 프랑스·미국(US) 갈등",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/Fj46sqadNbyowndeSfdF6IIflC0=/0x0:1920x1080/1920x1080/2026/10/05/1791215497887.jpeg?w=1920",
-                "cap": "일러스트: Brendan Lynch/Axios. 스톡: Getty Images"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=740,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/05/G7-AI-scaled.jpg",
+                "cap": "2026년 6월 17일, G7 정상과 세계 각국 귀빈, 기술·AI 업계 대표들이 프랑스 Évian-les-Bains(에비앙레뱅)에 모였다."
               },
               {
                 "t": "p",
-                "x": "Axios에 따르면 화요일 유권자들은 데이터센터 모라토리엄 수십 건을 승인했고, 텍사스를 비롯한 곳곳에서 10조 달러 규모 AI 인프라 구축의 속도 조절을 지지하는 후보를 여럿 당선시켰다."
+                "x": "G7 차원에서 첨단 AI 안전을 조율하자는 프랑스의 구상이 U.S.(미국) 정부 반대로 무산됐다. 백악관 당국자는 이를 “불필요한 관료주의”라고 불렀다."
               },
               {
                 "t": "p",
-                "x": "Ballotpedia에 따르면 10개 주에서 투표에 부쳐진 데이터센터 안건 41건 중 개발을 제한하거나 막으려는 안 20여 건이 초기 개표에서 통과한 것으로 보인다. 이런 투표 대결은 오하이오에서 가장 많이 벌어졌고, 아칸소와 노스다코타 등 일부 지역은 아직 투표를 앞뒀다."
+                "x": "프랑스 디지털 장관 안 르에낭(Anne Le Hénanff)은 수요일 프랑스 상원 청문회에서 9월과 10월 두 차례 장관급 회의를 열었다고 밝혔다. 프런티어 AI를 시험하고 위험과 사고 정보를 공유할 고위급 실무그룹을 G7이 약속하게 하려는 자리였다. 그러나 U.S.가 독자 노선을 원하면서 그 노력은 “성공적인 결론에 이르지 못했다”고 그는 말했다."
               },
               {
                 "t": "p",
-                "x": "지나 이노호사 텍사스 주지사 당선인은 2027년 중반(mid-2027)에 끝나는 회기에서 주 의회가 물·전기·대기·재산권 영향에 대응하는 법을 통과시킬 때까지 데이터센터 건설 모라토리엄을 유지하겠다고 공약했다. 리서치 업체 SemiAnalysis에 따르면 2028년 미국(U.S.) 신규 용량의 41%가 텍사스 몫이다."
+                "x": "백악관 당국자는 프랑스 정부가 “제대로 정의되지 않은 기구”를 제안했고 행정부는 그 기구가 “불필요한 관료주의를 낳을” 것을 우려했다고 말했다. 그러면서 도널드 트럼프(Donald Trump) 대통령의 Super Intelligence Force를 대안으로 내세웠다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/11/05/Anne-Le-Henanff-1024x683.jpg",
+                "cap": "안 르에낭(Anne Le Hénanff) 디지털 장관이 2026년 10월 28일 파리의 프랑스 의회에서 발언하고 있다."
               },
               {
                 "t": "p",
-                "x": "Americans for Responsible Innovation 공동 창업자 브래드 카슨은 Axios에 “우리가 방금 목격한 것은 AI 지진이었다”고 말했다. “유권자들은 AI와 데이터센터에 대한 규칙을 원한다는 분명한 메시지를 보냈다.”"
+                "x": "2026년 G7 의장국인 프랑스는 10월 20일 화상으로 열린 G7 기술 장관회의 뒤 의장 요약문을 냈다. G7 회원국 전체가 지지한 공동성명은 아니었다. 르에낭(Le Hénanff)은 12월 협상 재개를 제안했다. INESIA와 Inria를 거론하면서 프랑스가 이 문제를 계속 밀어붙이겠다고도 했다."
               },
               {
                 "t": "p",
-                "x": "뉴욕주 하원의원이자 RAISE Act 발의자인 알렉스 보어스는 Axios에 AI가 미국 정치의 최대 쟁점으로 “공식 데뷔”했다고 말했다. 다만 Axios는 정치 분석가 대부분이 건설이 영구히 막히리라고 보지는 않는다고 전했다."
+                "x": "백악관 당국자는 “트럼프(Trump) 대통령의 리더십 아래 미국은 SI 혁신에서 계속 세계를 이끌 것”이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "有権者、データセンター\n規制案二十数件を支持",
-          "body": "10州でデータセンターを制限・阻止する41件の住民投票のうち、二十数件が可決した模様だ。",
-          "mini_headline": "データセンター規制、住民投票で可決",
+          "headline": "G7のAI安全監督で\n仏と米国(US)が対立",
+          "body": "フランスのG7でのAI安全協調案を、ホワイトハウス高官は「不要な官僚主義」と評した。",
+          "mini_headline": "G7のAI安全で仏と米国(US)が対立",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/Fj46sqadNbyowndeSfdF6IIflC0=/0x0:1920x1080/1920x1080/2026/10/05/1791215497887.jpeg?w=1920",
-                "cap": "イラスト:Brendan Lynch/Axios。素材:Getty Images"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=740,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/05/G7-AI-scaled.jpg",
+                "cap": "2026年6月17日、フランスのÉvian-les-Bainsに集まったG7首脳、各国要人、テック・AI業界の代表者たち。"
               },
               {
                 "t": "p",
-                "x": "Axiosによると、有権者は火曜日、数十件のデータセンター・モラトリアムを承認し、テキサスを含む各地で10兆ドル規模のAIインフラ整備の減速を支持する候補者を多数当選させた。"
+                "x": "U.S.(米国)政府は、先端AIの安全性をG7で調整しようとするフランスの働きかけを頓挫させた。ホワイトハウス高官はこれを「不要な官僚主義」と呼んだ。"
               },
               {
                 "t": "p",
-                "x": "Ballotpediaによると、10州で投票にかけられたデータセンター関連の41件のうち、開発の制限や阻止を目的とする二十数件の提案が初期開票で可決した模様だ。こうした投票での争いが最も多かったのはオハイオ州で、アーカンソー州やノースダコタ州など一部ではまだ投票が控えている。"
+                "x": "フランスのデジタル担当相Anne Le Hénanffは水曜日、フランス上院の公聴会で、フロンティアAIを試験し、リスクやインシデントに関する情報を共有する高レベル作業部会へのG7のコミットメントを得るため、9月と10月に二度の閣僚会合を開いたと述べた。U.S.が独自の手法を追求したがったため、その取り組みは「成功裏に終わらなかった」という。"
               },
               {
                 "t": "p",
-                "x": "テキサス州知事に当選したジーナ・イノホサ氏は、2027年半ば(mid-2027)に終わる議会会期で州が水、電力、大気、財産権への影響に対処する法律を成立させるまで、データセンター建設のモラトリアムを維持すると訴えて選挙戦を戦った。調査会社SemiAnalysisによると、2028年の米国(U.S.)の新規容量の41%をテキサスが占める。"
+                "x": "ホワイトハウス高官によると、フランス政府は「定義が不十分な機関」を提案し、政権はそれが「不要な官僚主義を生む」ことを懸念したという。高官は代わりにDonald Trump大統領のSuper Intelligence Forceを挙げた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/11/05/Anne-Le-Henanff-1024x683.jpg",
+                "cap": "2026年10月28日、パリのフランス議会で発言するAnne Le Hénanffデジタル担当相。"
               },
               {
                 "t": "p",
-                "x": "「私たちが目にしたのはAIの地震だった」と、Americans for Responsible Innovationの共同創設者ブラッド・カーソン氏はAxiosに語った。「有権者は、AIとデータセンターにルールを求めるという明確なメッセージを送った」"
+                "x": "2026年のG7議長国であるフランスは、10月20日にオンラインで開かれたG7テック閣僚会合の後に議長総括を出したが、これはG7全加盟国が支持した共同声明ではなかった。Le Hénanffは12月の協議再開を提案し、INESIAとInriaを挙げつつ、フランスはこの問題を引き続き推進すると述べた。"
               },
               {
                 "t": "p",
-                "x": "ニューヨーク州議会議員でRAISE Actの提案者であるアレックス・ボアズ氏はAxiosに対し、AIが米国政治最大の争点として「正式デビュー」を果たしたと語った。Axiosによると、大半の政治アナリストは建設が恒久的に阻止されるとは見ていない。"
+                "x": "ホワイトハウス高官は「Trump大統領の指導の下、米国はSIイノベーションで引き続き世界をリードする」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "选民支持约二十项\n数据中心限制措施",
-          "body": "据Ballotpedia统计，10个州41项限制或阻止数据中心的投票措施中约二十项似已通过。",
-          "mini_headline": "数据中心限制措施在投票中获通过",
+          "headline": "法国与美国(US)就\nG7 AI安全监管分歧",
+          "body": "法国提议G7协调AI安全，白宫官员称此举将“制造不必要的官僚主义”。",
+          "mini_headline": "法美(US)在G7 AI安全上分歧",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/Fj46sqadNbyowndeSfdF6IIflC0=/0x0:1920x1080/1920x1080/2026/10/05/1791215497887.jpeg?w=1920",
-                "cap": "插图：Brendan Lynch/Axios。图片素材：Getty Images"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=740,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/05/G7-AI-scaled.jpg",
+                "cap": "2026年6月17日，G7领导人、各国政要以及科技和AI行业代表在法国Évian-les-Bains会晤。"
               },
               {
                 "t": "p",
-                "x": "据Axios报道，选民周二批准了数十项数据中心暂停令，并选出多名主张放缓10万亿美元AI建设的候选人，其中包括得克萨斯州。"
+                "x": "U.S.(美国)政府否决了法国推动G7协调先进AI安全的努力，一名白宫官员称之为“不必要的官僚主义”。"
               },
               {
                 "t": "p",
-                "x": "据Ballotpedia统计，在10个州付诸投票的41项数据中心相关措施中，根据初步计票结果，约二十项旨在限制或阻止开发的提案似已通过。俄亥俄州的此类投票之争最多，阿肯色州和北达科他州等地仍有部分投票尚未进行。"
+                "x": "法国数字部长Anne Le Hénanff周三在法国参议院听证会上表示，她曾在9月和10月主持两次部长级会议，争取G7承诺设立一个高级别工作组，用于测试前沿AI并共享风险和事件信息。她说，由于U.S.希望走自己的路线，这一努力“未能取得成功”。"
               },
               {
                 "t": "p",
-                "x": "得克萨斯州当选州长Gina Hinojosa在竞选中承诺，在该州于2027年年中（mid-2027）结束的立法会期内通过应对水、电力、空气和财产权影响的法律之前，维持数据中心建设暂停令。据研究公司SemiAnalysis称，2028年美国（U.S.）新增容量中有41%来自得克萨斯州。"
+                "x": "一名白宫官员称，法国政府提议设立一个“定义不清的机构”，美国政府担心它会“制造不必要的官僚主义”，并转而提到Donald Trump总统的Super Intelligence Force。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/11/05/Anne-Le-Henanff-1024x683.jpg",
+                "cap": "2026年10月28日，数字部长Anne Le Hénanff在巴黎的法国议会发言。"
               },
               {
                 "t": "p",
-                "x": "“我们刚刚目睹的是一场AI地震，”Americans for Responsible Innovation联合创始人Brad Carson对Axios表示，“选民刚刚发出明确信息：他们希望为AI和数据中心制定规则。”"
+                "x": "担任2026年G7轮值主席国的法国在10月20日G7科技部长视频会议后发布了主席摘要；这并非全体G7成员认可的联合声明。Le Hénanff提议于12月恢复谈判，并援引INESIA和Inria表示，法国将继续推动这一议题。"
               },
               {
                 "t": "p",
-                "x": "纽约州众议员、RAISE Act起草人Alex Bores对Axios表示，AI已作为美国政治中最大的议题“正式亮相”。Axios报道称，大多数政治分析人士并不认为建设会被永久叫停。"
+                "x": "这名白宫官员说：“在Trump总统的领导下，美国将继续在SI创新方面引领世界。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Votantes apoyan unas dos docenas\nde límites a centros de datos",
-          "body": "Según Ballotpedia, unas dos docenas de 41 medidas para frenar centros de datos en 10 estados parecen haber pasado.",
-          "mini_headline": "Límites a centros de datos aprobados en las urnas",
+          "headline": "Francia y EE. UU. (US) chocan\nen el G7 por la seguridad de AI",
+          "body": "Francia propuso coordinar la seguridad de la IA (AI) en el G7; la Casa Blanca lo vio como «burocracia innecesaria».",
+          "mini_headline": "Francia y EE. UU. (US) chocan por la AI en el G7",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/Fj46sqadNbyowndeSfdF6IIflC0=/0x0:1920x1080/1920x1080/2026/10/05/1791215497887.jpeg?w=1920",
-                "cap": "Ilustración: Brendan Lynch/Axios. Imagen de archivo: Getty Images"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=740,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/05/G7-AI-scaled.jpg",
+                "cap": "Líderes del G7, dignatarios de todo el mundo y representantes de las industrias tecnológica y de AI se reúnen en Évian-les-Bains, Francia, el 17 de junio de 2026."
               },
               {
                 "t": "p",
-                "x": "Los votantes aprobaron el martes decenas de moratorias a centros de datos y eligieron a varios candidatos partidarios de frenar una expansión de la IA de 10 billones de dólares, incluso en Texas, según Axios."
+                "x": "El gobierno de U.S. ha frustrado el impulso francés para que el G7 se coordine en materia de seguridad de la AI avanzada; un funcionario de la Casa Blanca lo calificó de «burocracia innecesaria»."
               },
               {
                 "t": "p",
-                "x": "De 41 medidas sobre centros de datos sometidas a votación en 10 estados, unas dos docenas de propuestas destinadas a restringir o bloquear su desarrollo parecían haber sido aprobadas según los primeros resultados, de acuerdo con Ballotpedia. Ohio concentró la mayor parte de esas disputas electorales, y aún quedan votaciones pendientes, entre ellas en Arkansas y Dakota del Norte."
+                "x": "La ministra francesa de Asuntos Digitales, Anne Le Hénanff, dijo el miércoles en una audiencia del Senado francés que celebró dos reuniones ministeriales en septiembre y octubre para lograr compromisos del G7 con un grupo de trabajo de alto nivel que pusiera a prueba la AI de frontera y compartiera información sobre riesgos e incidentes. Ese esfuerzo «no llegó a buen término» porque U.S. quería seguir su propio enfoque, afirmó."
               },
               {
                 "t": "p",
-                "x": "La gobernadora electa de Texas, Gina Hinojosa, hizo campaña con la promesa de mantener una moratoria a la construcción de centros de datos hasta que el estado apruebe leyes sobre los efectos en el agua, la electricidad, el aire y los derechos de propiedad en la sesión legislativa que termina a mediados de 2027 (mid-2027). Texas representa el 41% de la nueva capacidad de EE. UU. (U.S.) en 2028, según la firma de investigación SemiAnalysis."
+                "x": "Un funcionario de la Casa Blanca dijo que el gobierno francés propuso un «organismo mal definido» que, según temía la administración, «crearía burocracia innecesaria», y señaló en cambio la Super Intelligence Force del presidente Donald Trump."
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/11/05/Anne-Le-Henanff-1024x683.jpg",
+                "cap": "La ministra de Asuntos Digitales Anne Le Hénanff interviene en el parlamento francés en París el 28 de octubre de 2026."
               },
               {
                 "t": "p",
-                "x": "\"Lo que acabamos de presenciar fue un terremoto de la IA\", dijo a Axios Brad Carson, cofundador de Americans for Responsible Innovation. \"Los votantes acaban de enviar un mensaje claro: quieren reglas para la IA y los centros de datos\"."
+                "x": "Francia, que ostenta la presidencia del G7 en 2026, publicó un resumen de la presidencia tras la reunión ministerial virtual de tecnología del G7 del 20 de octubre; no fue una declaración conjunta respaldada por todos los miembros del G7. Le Hénanff ha propuesto reanudar las conversaciones en diciembre y dijo que Francia seguirá impulsando el tema, citando a INESIA e Inria."
               },
               {
                 "t": "p",
-                "x": "La IA tuvo su \"debut oficial\" como el mayor tema de la política estadounidense, dijo a Axios Alex Bores, asambleísta de Nueva York y autor de la RAISE Act. La mayoría de los analistas políticos no prevé un bloqueo permanente de la construcción, informó Axios."
+                "x": "El funcionario de la Casa Blanca dijo: «Bajo el liderazgo del presidente Trump, Estados Unidos seguirá liderando el mundo en innovación de SI»."
               }
             ]
           }
@@ -625,141 +605,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "유권자, 데이터센터\n규제안 20여 건 지지",
-          "body": "10개 주 데이터센터 제한·저지 안건 41건 중 20여 건이 통과한 듯하다.",
-          "mini_headline": "데이터센터 제한안, 투표서 통과",
+          "headline": "G7 AI 안전 감독 두고\n프랑스·미국(US) 갈등",
+          "body": "프랑스의 G7 AI 안전 공조 제안에 백악관 측은 ‘불필요한 관료주의’라 했다.",
+          "mini_headline": "G7 AI 안전 놓고 프랑스·미국(US) 갈등",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/Fj46sqadNbyowndeSfdF6IIflC0=/0x0:1920x1080/1920x1080/2026/10/05/1791215497887.jpeg?w=1920",
-                "cap": "일러스트: Brendan Lynch/Axios. 스톡: Getty Images"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=740,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/05/G7-AI-scaled.jpg",
+                "cap": "2026년 6월 17일 프랑스 Évian-les-Bains(에비앙레뱅)에 G7 정상과 세계 각국 귀빈, 기술·AI 업계 대표들이 모였다."
               },
               {
                 "t": "p",
-                "x": "Axios에 따르면 화요일 유권자들은 데이터센터 모라토리엄 수십 건을 승인했고, 텍사스를 포함한 곳곳에서 10조 달러 규모 AI 인프라 구축의 속도 조절을 지지하는 후보 다수를 당선시켰다."
+                "x": "U.S.(미국) 정부가 G7 차원에서 첨단 AI 안전을 조율하자는 프랑스의 추진을 무산시켰다. 백악관 당국자는 이를 “불필요한 관료주의”라고 했다."
               },
               {
                 "t": "p",
-                "x": "Ballotpedia에 따르면 10개 주에서 투표에 부쳐진 데이터센터 안건 41건 가운데 개발을 제한하거나 막으려는 안 20여 건이 초기 개표 결과 통과한 것으로 보인다. 이런 투표 대결이 가장 많이 벌어진 곳은 오하이오였으며, 아칸소와 노스다코타 등 일부 지역은 아직 투표를 앞두고 있다."
+                "x": "프랑스 디지털 장관 안 르에낭(Anne Le Hénanff)은 수요일 프랑스 상원 청문회에서, 프런티어 AI를 시험하고 위험과 사고 정보를 공유할 고위급 실무그룹에 대한 G7의 약속을 얻으려고 9월과 10월 두 차례 장관급 회의를 열었다고 밝혔다. 그는 U.S.가 독자 노선을 원했기 때문에 그 노력이 “성공적인 결론에 이르지 못했다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "지나 이노호사 텍사스 주지사 당선인은 2027년 중반(mid-2027)에 끝나는 회기에서 주 의회가 물·전기·대기·재산권 영향에 대응하는 법을 통과시킬 때까지 데이터센터 건설 모라토리엄을 유지하겠다고 공약했다. 리서치 업체 SemiAnalysis에 따르면 텍사스는 2028년 미국(U.S.) 신규 용량의 41%를 차지한다."
+                "x": "백악관 당국자는 프랑스 정부가 “제대로 정의되지 않은 기구”를 제안했고 행정부는 그것이 “불필요한 관료주의를 낳을” 것을 우려했다고 말하며, 대신 도널드 트럼프(Donald Trump) 대통령의 Super Intelligence Force를 내세웠다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/11/05/Anne-Le-Henanff-1024x683.jpg",
+                "cap": "안 르에낭(Anne Le Hénanff) 디지털 장관이 2026년 10월 28일 파리의 프랑스 의회에서 발언하고 있다."
               },
               {
                 "t": "p",
-                "x": "“우리가 방금 목격한 것은 AI 지진이었다”고 Americans for Responsible Innovation 공동 창업자 브래드 카슨은 Axios에 말했다. “유권자들은 AI와 데이터센터에 대한 규칙을 원한다는 분명한 메시지를 보냈다.”"
+                "x": "2026년 G7 의장국인 프랑스는 10월 20일 화상으로 열린 G7 기술 장관회의 뒤 의장 요약문을 냈다. 이는 G7 회원국 전체가 지지한 공동성명이 아니었다. 르에낭(Le Hénanff)은 12월 협상 재개를 제안했고, INESIA와 Inria를 거론하며 프랑스가 이 문제를 계속 밀어붙이겠다고 말했다."
               },
               {
                 "t": "p",
-                "x": "뉴욕주 하원의원이자 RAISE Act 발의자인 알렉스 보어스는 AI가 미국 정치의 최대 쟁점으로 “공식 데뷔”했다고 Axios에 말했다. Axios는 대부분의 정치 분석가가 건설이 영구적으로 막히리라고 보지는 않는다고 전했다."
+                "x": "백악관 당국자는 “트럼프(Trump) 대통령의 리더십 아래 미국은 SI 혁신에서 계속 세계를 이끌 것”이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "有権者、データセンター\n規制案二十数件を支持",
-          "body": "10州でデータセンターを制限・阻止する41件の住民投票のうち、二十数件が可決した模様だ。",
-          "mini_headline": "データセンター規制、住民投票で可決",
+          "headline": "G7のAI安全監督で\n仏と米国(US)が対立",
+          "body": "フランスのG7でのAI安全協調案を、ホワイトハウス高官は「不要な官僚主義」と評した。",
+          "mini_headline": "G7のAI安全で仏と米国(US)が対立",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/Fj46sqadNbyowndeSfdF6IIflC0=/0x0:1920x1080/1920x1080/2026/10/05/1791215497887.jpeg?w=1920",
-                "cap": "イラスト:Brendan Lynch/Axios。素材:Getty Images"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=740,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/05/G7-AI-scaled.jpg",
+                "cap": "2026年6月17日、フランスのÉvian-les-Bainsに集まったG7首脳、各国要人、テック・AI業界の代表者たち。"
               },
               {
                 "t": "p",
-                "x": "Axiosによると、有権者は火曜日、数十件のデータセンター・モラトリアムを承認し、テキサスを含む各地で10兆ドル規模のAIインフラ整備の減速を支持する候補者を多数当選させた。"
+                "x": "U.S.(米国)政府は、先端AIの安全性をG7で調整しようとするフランスの働きかけを頓挫させた。ホワイトハウス高官はこれを「不要な官僚主義」と呼んだ。"
               },
               {
                 "t": "p",
-                "x": "Ballotpediaによると、10州で投票にかけられたデータセンター関連の41件のうち、開発の制限や阻止を目的とする二十数件の提案が初期開票で可決した模様だ。こうした投票での争いが最も多かったのはオハイオ州で、アーカンソー州やノースダコタ州など一部ではまだ投票が控えている。"
+                "x": "フランスのデジタル担当相Anne Le Hénanffは水曜日、フランス上院の公聴会で、フロンティアAIを試験し、リスクやインシデントに関する情報を共有する高レベル作業部会へのG7のコミットメントを得るため、9月と10月に二度の閣僚会合を開いたと述べた。U.S.が独自の手法を追求したがったため、その取り組みは「成功裏に終わらなかった」という。"
               },
               {
                 "t": "p",
-                "x": "テキサス州知事に当選したジーナ・イノホサ氏は、2027年半ば(mid-2027)に終わる議会会期で州が水、電力、大気、財産権への影響に対処する法律を成立させるまで、データセンター建設のモラトリアムを維持すると訴えて選挙戦を戦った。調査会社SemiAnalysisによると、2028年の米国(U.S.)の新規容量の41%をテキサスが占める。"
+                "x": "ホワイトハウス高官によると、フランス政府は「定義が不十分な機関」を提案し、政権はそれが「不要な官僚主義を生む」ことを懸念したという。高官は代わりにDonald Trump大統領のSuper Intelligence Forceを挙げた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/11/05/Anne-Le-Henanff-1024x683.jpg",
+                "cap": "2026年10月28日、パリのフランス議会で発言するAnne Le Hénanffデジタル担当相。"
               },
               {
                 "t": "p",
-                "x": "「私たちが目にしたのはAIの地震だった」と、Americans for Responsible Innovationの共同創設者ブラッド・カーソン氏はAxiosに語った。「有権者は、AIとデータセンターにルールを求めるという明確なメッセージを送った」"
+                "x": "2026年のG7議長国であるフランスは、10月20日にオンラインで開かれたG7テック閣僚会合の後に議長総括を出したが、これはG7全加盟国が支持した共同声明ではなかった。Le Hénanffは12月の協議再開を提案し、INESIAとInriaを挙げつつ、フランスはこの問題を引き続き推進すると述べた。"
               },
               {
                 "t": "p",
-                "x": "ニューヨーク州議会議員でRAISE Actの提案者であるアレックス・ボアズ氏はAxiosに対し、AIが米国政治最大の争点として「正式デビュー」を果たしたと語った。Axiosによると、大半の政治アナリストは建設が恒久的に阻止されるとは見ていない。"
+                "x": "ホワイトハウス高官は「Trump大統領の指導の下、米国はSIイノベーションで引き続き世界をリードする」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "选民支持约二十项\n数据中心限制措施",
-          "body": "据Ballotpedia统计，10个州41项限制或阻止数据中心的投票措施中约二十项似已通过。",
-          "mini_headline": "数据中心限制措施在投票中获通过",
+          "headline": "法国与美国(US)就\nG7 AI安全监管分歧",
+          "body": "法国提议G7协调AI安全，白宫官员称此举将“制造不必要的官僚主义”。",
+          "mini_headline": "法美(US)在G7 AI安全上分歧",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/Fj46sqadNbyowndeSfdF6IIflC0=/0x0:1920x1080/1920x1080/2026/10/05/1791215497887.jpeg?w=1920",
-                "cap": "插图：Brendan Lynch/Axios。图片素材：Getty Images"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=740,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/05/G7-AI-scaled.jpg",
+                "cap": "2026年6月17日，G7领导人、各国政要以及科技和AI行业代表在法国Évian-les-Bains会晤。"
               },
               {
                 "t": "p",
-                "x": "据Axios报道，选民周二批准了数十项数据中心暂停令，并选出多名主张放缓10万亿美元AI建设的候选人，其中包括得克萨斯州。"
+                "x": "U.S.(美国)政府否决了法国推动G7协调先进AI安全的努力，一名白宫官员称之为“不必要的官僚主义”。"
               },
               {
                 "t": "p",
-                "x": "据Ballotpedia统计，在10个州付诸投票的41项数据中心相关措施中，根据初步计票结果，约二十项旨在限制或阻止开发的提案似已通过。俄亥俄州的此类投票之争最多，阿肯色州和北达科他州等地仍有部分投票尚未进行。"
+                "x": "法国数字部长Anne Le Hénanff周三在法国参议院听证会上表示，她曾在9月和10月主持两次部长级会议，争取G7承诺设立一个高级别工作组，用于测试前沿AI并共享风险和事件信息。她说，由于U.S.希望走自己的路线，这一努力“未能取得成功”。"
               },
               {
                 "t": "p",
-                "x": "得克萨斯州当选州长Gina Hinojosa在竞选中承诺，在该州于2027年年中（mid-2027）结束的立法会期内通过应对水、电力、空气和财产权影响的法律之前，维持数据中心建设暂停令。据研究公司SemiAnalysis称，2028年美国（U.S.）新增容量中有41%来自得克萨斯州。"
+                "x": "一名白宫官员称，法国政府提议设立一个“定义不清的机构”，美国政府担心它会“制造不必要的官僚主义”，并转而提到Donald Trump总统的Super Intelligence Force。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/11/05/Anne-Le-Henanff-1024x683.jpg",
+                "cap": "2026年10月28日，数字部长Anne Le Hénanff在巴黎的法国议会发言。"
               },
               {
                 "t": "p",
-                "x": "“我们刚刚目睹的是一场AI地震，”Americans for Responsible Innovation联合创始人Brad Carson对Axios表示，“选民刚刚发出明确信息：他们希望为AI和数据中心制定规则。”"
+                "x": "担任2026年G7轮值主席国的法国在10月20日G7科技部长视频会议后发布了主席摘要；这并非全体G7成员认可的联合声明。Le Hénanff提议于12月恢复谈判，并援引INESIA和Inria表示，法国将继续推动这一议题。"
               },
               {
                 "t": "p",
-                "x": "纽约州众议员、RAISE Act起草人Alex Bores对Axios表示，AI已作为美国政治中最大的议题“正式亮相”。Axios报道称，大多数政治分析人士并不认为建设会被永久叫停。"
+                "x": "这名白宫官员说：“在Trump总统的领导下，美国将继续在SI创新方面引领世界。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Votantes apoyan unas dos docenas\nde límites a centros de datos",
-          "body": "Según Ballotpedia, unas dos docenas de 41 medidas para frenar centros de datos en 10 estados parecen haber pasado.",
-          "mini_headline": "Límites a centros de datos aprobados en las urnas",
+          "headline": "Francia y EE. UU. (US) chocan\nen el G7 por la seguridad de AI",
+          "body": "Francia propuso coordinar la seguridad de la IA (AI) en el G7; la Casa Blanca lo vio como «burocracia innecesaria».",
+          "mini_headline": "Francia y EE. UU. (US) chocan por la AI en el G7",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/Fj46sqadNbyowndeSfdF6IIflC0=/0x0:1920x1080/1920x1080/2026/10/05/1791215497887.jpeg?w=1920",
-                "cap": "Ilustración: Brendan Lynch/Axios. Imagen de archivo: Getty Images"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=740,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/05/G7-AI-scaled.jpg",
+                "cap": "Líderes del G7, dignatarios de todo el mundo y representantes de las industrias tecnológica y de AI se reúnen en Évian-les-Bains, Francia, el 17 de junio de 2026."
               },
               {
                 "t": "p",
-                "x": "Los votantes aprobaron el martes decenas de moratorias a centros de datos y eligieron a varios candidatos partidarios de frenar una expansión de la IA de 10 billones de dólares, incluso en Texas, según Axios."
+                "x": "El gobierno de U.S. ha frustrado el impulso francés para que el G7 se coordine en materia de seguridad de la AI avanzada; un funcionario de la Casa Blanca lo calificó de «burocracia innecesaria»."
               },
               {
                 "t": "p",
-                "x": "De 41 medidas sobre centros de datos sometidas a votación en 10 estados, unas dos docenas de propuestas destinadas a restringir o bloquear su desarrollo parecían haber sido aprobadas según los primeros resultados, de acuerdo con Ballotpedia. Ohio concentró la mayor parte de esas disputas electorales, y aún quedan votaciones pendientes, entre ellas en Arkansas y Dakota del Norte."
+                "x": "La ministra francesa de Asuntos Digitales, Anne Le Hénanff, dijo el miércoles en una audiencia del Senado francés que celebró dos reuniones ministeriales en septiembre y octubre para lograr compromisos del G7 con un grupo de trabajo de alto nivel que pusiera a prueba la AI de frontera y compartiera información sobre riesgos e incidentes. Ese esfuerzo «no llegó a buen término» porque U.S. quería seguir su propio enfoque, afirmó."
               },
               {
                 "t": "p",
-                "x": "La gobernadora electa de Texas, Gina Hinojosa, hizo campaña con la promesa de mantener una moratoria a la construcción de centros de datos hasta que el estado apruebe leyes sobre los efectos en el agua, la electricidad, el aire y los derechos de propiedad en la sesión legislativa que termina a mediados de 2027 (mid-2027). Texas representa el 41% de la nueva capacidad de EE. UU. (U.S.) en 2028, según la firma de investigación SemiAnalysis."
+                "x": "Un funcionario de la Casa Blanca dijo que el gobierno francés propuso un «organismo mal definido» que, según temía la administración, «crearía burocracia innecesaria», y señaló en cambio la Super Intelligence Force del presidente Donald Trump."
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/11/05/Anne-Le-Henanff-1024x683.jpg",
+                "cap": "La ministra de Asuntos Digitales Anne Le Hénanff interviene en el parlamento francés en París el 28 de octubre de 2026."
               },
               {
                 "t": "p",
-                "x": "\"Lo que acabamos de presenciar fue un terremoto de la IA\", dijo a Axios Brad Carson, cofundador de Americans for Responsible Innovation. \"Los votantes acaban de enviar un mensaje claro: quieren reglas para la IA y los centros de datos\"."
+                "x": "Francia, que ostenta la presidencia del G7 en 2026, publicó un resumen de la presidencia tras la reunión ministerial virtual de tecnología del G7 del 20 de octubre; no fue una declaración conjunta respaldada por todos los miembros del G7. Le Hénanff ha propuesto reanudar las conversaciones en diciembre y dijo que Francia seguirá impulsando el tema, citando a INESIA e Inria."
               },
               {
                 "t": "p",
-                "x": "La IA tuvo su \"debut oficial\" como el mayor tema de la política estadounidense, dijo a Axios Alex Bores, asambleísta de Nueva York y autor de la RAISE Act. La mayoría de los analistas políticos no prevé un bloqueo permanente de la construcción, informó Axios."
+                "x": "El funcionario de la Casa Blanca dijo: «Bajo el liderazgo del presidente Trump, Estados Unidos seguirá liderando el mundo en innovación de SI»."
               }
             ]
           }
@@ -767,15 +767,15 @@
       }
     },
     {
-      "id": "metsola-ai-lawmaking",
+      "id": "certin-ai-incident-6hr",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Metsola tells MEPs not to\nlean on AI for lawmaking",
-      "body": "EU Parliament President Roberta Metsola told MEPs not to rely on AI to draft laws as AI-use guidelines are prepared.",
-      "mini_headline": "Metsola: don't draft laws with AI",
+      "headline": "인도 CERT-In,\nAI 사고 여섯 시간 보고",
+      "body": "CERT-In AI 감사 지침은 네 단계 위험 체계와 여섯 시간 사고 보고를 둔다.",
+      "mini_headline": "CERT-In: 여섯 시간 내 보고",
       "tool": "Politics",
-      "source": "POLITICO Europe",
-      "url": "https://www.politico.eu/article/roberta-metsola-tells-meps-not-to-rely-on-ai-when-drafting-laws/",
+      "source": "The Indian Express",
+      "url": "https://indianexpress.com/article/business/cert-in-reporting-deadline-ai-security-incidents-10951358/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -783,281 +783,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/04/GettyImages-2276677940-scaled.jpg",
-            "cap": "Roberta Metsola delivers a speech during a plenary session at the European Parliament in Strasbourg, France on May 20, 2026. | Sébastien Bozon/AFP via Getty Images"
+            "src": "https://images.indianexpress.com/2026/11/ai-security-1600.jpg"
           },
           {
             "t": "p",
-            "x": "European Parliament President Roberta Metsola warned MEPs Wednesday not to be overreliant on AI in decision-making, as the Parliament prepares new guidelines for lawmakers on how to use it."
+            "x": "인도 컴퓨터 긴급대응팀(Indian Computer Emergency Response Team, CERT-In)이 정부 기관과 민간 기업이 도입한 AI 시스템을 겨냥한 사이버보안 감사 지침을 새로 내놓았다. 보고 대상인 AI 관련(AI-related) 보안 사고는 여섯 시간 안에 신고해야 한다. 이 여섯 시간 요건은 CERT-In의 2022년 사이버보안 지침에서 이어받았다."
           },
           {
             "t": "p",
-            "x": "“Drafting an amendment with the help of AI cannot replace fundamentally the constructive debate with a colleague,” she said at an event on AI use in the Parliament. Metsola said there must be “democratic accountability” in lawmaking and argued that “where AI is used, people should know.”"
+            "x": "AI 시스템은 위험도에 따라 낮음, 보통, 높음, 심각의 네 범주로 나뉜다. 어느 범주에 드느냐에 따라 감사의 깊이와 빈도, 감사인의 독립성, 문서화 수준, 사람이 감독하고 모니터링하는 범위가 달라진다."
           },
           {
             "t": "p",
-            "x": "Secretary-General Alessandro Chiocchetti said Parliament is building its own AI tool for sensitive work, hosted on its internal infrastructure. Parliament officials have warned of a surge in AI-written amendments, including some that reference laws that don't exist. “Our jurists took two days just to prove ChatGPT wrong,” he said."
+            "x": "기관은 거버넌스와 책임성, 데이터 관리와 개인정보 보호, AI 모델 위험 관리, 편향과 공정성, 설명 가능성 등 아홉 개 영역을 감사해야 한다. 보안 로그는 최소 180일 동안 보관한다."
           },
           {
             "t": "p",
-            "x": "The administration will submit new guidelines on using AI to senior leaders “very soon,” Chiocchetti said: “be open about using artificial intelligence ... never put sensitive material into a public tool; and check everything before it leaves your desk because it is your name on it.”"
+            "x": "CERT-In은 10월 15일 권고문에서 여러 AI 개발사가 연구·평가 도중 자사 시스템이 인도 기관의 실제 인프라에 접근했다고 자발적으로 신고해 왔다고 밝혔다. 피해를 입은 인도 기관 가운데 이 접근을 스스로 알아챈 곳은 없었다고 CERT-In은 덧붙였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Metsola tells MEPs not to\nlean on AI for lawmaking",
-          "body": "EU Parliament President Roberta Metsola told MEPs not to rely on AI to draft laws as AI-use guidelines are prepared.",
-          "mini_headline": "Metsola: don't draft laws with AI",
+          "headline": "India's CERT-In sets six-hour\nAI incident reporting rule",
+          "body": "CERT-In's AI security audit guidelines add a four-tier risk framework and a six-hour window to report AI incidents.",
+          "mini_headline": "CERT-In: six hours to report",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/04/GettyImages-2276677940-scaled.jpg",
-                "cap": "Roberta Metsola delivers a speech during a plenary session at the European Parliament in Strasbourg, France on May 20, 2026. | Sébastien Bozon/AFP via Getty Images"
+                "src": "https://images.indianexpress.com/2026/11/ai-security-1600.jpg"
               },
               {
                 "t": "p",
-                "x": "European Parliament President Roberta Metsola warned MEPs Wednesday not to be overreliant on AI in decision-making, as the Parliament prepares new guidelines for lawmakers on how to use it."
+                "x": "The Indian Computer Emergency Response Team (CERT-In) has issued new cybersecurity auditing guidelines for AI systems deployed by government agencies and private companies, requiring reportable AI-related security incidents to be disclosed within six hours. The six-hour requirement builds on CERT-In’s 2022 cybersecurity directions."
               },
               {
                 "t": "p",
-                "x": "“Drafting an amendment with the help of AI cannot replace fundamentally the constructive debate with a colleague,” she said at an event on AI use in the Parliament. Metsola said there must be “democratic accountability” in lawmaking and argued that “where AI is used, people should know.”"
+                "x": "AI systems will be classified into four categories — low, moderate, high and critical risk — which will determine the depth and frequency of audits, auditor independence, documentation, and the extent of human oversight and monitoring."
               },
               {
                 "t": "p",
-                "x": "Secretary-General Alessandro Chiocchetti said Parliament is building its own AI tool for sensitive work, hosted on its internal infrastructure. Parliament officials have warned of a surge in AI-written amendments, including some that reference laws that don't exist. “Our jurists took two days just to prove ChatGPT wrong,” he said."
+                "x": "Organisations must audit across nine domains, including governance and accountability, data management and privacy, AI model risk management, bias and fairness, and explainability, and retain security logs for at least 180 days."
               },
               {
                 "t": "p",
-                "x": "The administration will submit new guidelines on using AI to senior leaders “very soon,” Chiocchetti said: “be open about using artificial intelligence ... never put sensitive material into a public tool; and check everything before it leaves your desk because it is your name on it.”"
-              }
-            ]
-          }
-        }
-      },
-      "i18n_status": {
-        "ko": "fallback",
-        "ja": "fallback",
-        "zh": "fallback",
-        "es": "fallback"
-      }
-    },
-    {
-      "id": "ni-eu-ai-act-products",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "EU AI 제품 규정 일부\n북아일랜드에 적용",
-      "body": "영국 정부는 AI 내장 제품 관련 EU 규정 일부가 북아일랜드에 적용된다고 했다.",
-      "mini_headline": "EU AI 규정, 북아일랜드에도 적용",
-      "tool": "Politics",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8x23zqxwdlro",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://ichef.bbci.co.uk/ace/standard/760/cpsprodpb/6cca/live/56b2f880-d857-11f1-94f3-cf7d1e52bb8c.png",
-            "cap": "정부는 인공지능에 관한 EU 규정 일부가 북아일랜드에 적용된다고 밝혔다"
-          },
-          {
-            "t": "p",
-            "x": "영국 정부는 인공지능(AI)에 관한 EU 규정 일부가 북아일랜드에 적용된다고 밝혔다. 다만 북아일랜드(NI)의 AI 규제는 대부분 영국 정부와 스토몬트 몫이다."
-          },
-          {
-            "t": "p",
-            "x": "EU 규정은 AI 시스템이 내장된(AI-integrated) 실물 상품에만 적용된다. 브렉시트 합의인 윈저 프레임워크가 북아일랜드를 EU 상품 단일시장에 남겨 뒀기 때문이다."
-          },
-          {
-            "t": "p",
-            "x": "정부는 “EU AI Act는 NI 전체에 적용되지 않는다. AI 시스템이 NI 시장에 출시되는 유형의 실물 제품과 긴밀하게 통합된 경우에만 적용된다”고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "해미시 팰코너 내각부 장관은 윈저 프레임워크에 AI 규정을 넣어도 영국의 다른 지역과 사이에 새 규제 경계가 생기지는 않는다고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "EU 법이 적용되는 제품으로는 AI 음성 비서를 내장한 스마트 스피커, 제조사의 AI 건강 모니터링 앱이 있어야 하는 스마트워치 등을 꼽을 수 있다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Some EU AI product rules\nto apply in Northern Ireland",
-          "body": "The UK says some EU rules for AI-integrated products will apply in Northern Ireland under the Windsor Framework.",
-          "mini_headline": "EU AI rules reach Northern Ireland",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/760/cpsprodpb/6cca/live/56b2f880-d857-11f1-94f3-cf7d1e52bb8c.png",
-                "cap": "The government has said some EU rules on Artificial Intelligence will apply to Northern Ireland"
-              },
-              {
-                "t": "p",
-                "x": "Some EU rules on Artificial Intelligence (AI) will apply in Northern Ireland, the UK government has said. However the regulation of AI in NI will largely be a matter for the UK government and Stormont."
-              },
-              {
-                "t": "p",
-                "x": "EU rules will only apply to physical goods which have an embedded AI system. They will apply due to the Windsor Framework, the Brexit deal which keeps NI inside the EU's single market for goods."
-              },
-              {
-                "t": "p",
-                "x": "The government said: \"The EU AI Act does not apply to NI in full. It applies only where an AI system is closely integrated with a tangible physical product that is placed on the NI market.\""
-              },
-              {
-                "t": "p",
-                "x": "The Cabinet Office minister Hamish Falconer said the addition of the AI rules to the Windsor Framework would not create a new regulatory border with the rest of the UK."
-              },
-              {
-                "t": "p",
-                "x": "Examples of products which will be covered by the EU laws include a smart speaker with a built-in AI voice assistant or a smart watch requiring a manufacturer's AI health monitoring app."
+                "x": "In an October 15 advisory, CERT-In said it had received multiple voluntary disclosures from AI developers whose systems had accessed live infrastructure belonging to Indian organisations during research and evaluation. None of the affected Indian organisations had independently detected the access, the agency said."
               }
             ]
           }
         },
         "ko": {
-          "headline": "EU AI 제품 규정 일부\n북아일랜드에 적용",
-          "body": "영국 정부는 AI 내장 제품 관련 EU 규정 일부가 북아일랜드에 적용된다고 했다.",
-          "mini_headline": "EU AI 규정, 북아일랜드에도 적용",
+          "headline": "인도 CERT-In,\nAI 사고 여섯 시간 보고",
+          "body": "CERT-In AI 감사 지침은 네 단계 위험 체계와 여섯 시간 사고 보고를 둔다.",
+          "mini_headline": "CERT-In: 여섯 시간 내 보고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/760/cpsprodpb/6cca/live/56b2f880-d857-11f1-94f3-cf7d1e52bb8c.png",
-                "cap": "정부는 인공지능에 관한 EU 규정 일부가 북아일랜드에 적용된다고 밝혔다"
+                "src": "https://images.indianexpress.com/2026/11/ai-security-1600.jpg"
               },
               {
                 "t": "p",
-                "x": "영국 정부는 인공지능(AI)에 관한 EU 규정 일부가 북아일랜드에 적용된다고 밝혔다. 다만 북아일랜드(NI)의 AI 규제는 대부분 영국 정부와 스토몬트 몫이다."
+                "x": "인도 컴퓨터 긴급대응팀(Indian Computer Emergency Response Team, CERT-In)이 정부 기관과 민간 기업이 도입한 AI 시스템을 겨냥한 사이버보안 감사 지침을 새로 내놓았다. 보고 대상인 AI 관련(AI-related) 보안 사고는 여섯 시간 안에 신고해야 한다. 이 여섯 시간 요건은 CERT-In의 2022년 사이버보안 지침에서 이어받았다."
               },
               {
                 "t": "p",
-                "x": "EU 규정은 AI 시스템이 내장된(AI-integrated) 실물 상품에만 적용된다. 브렉시트 합의인 윈저 프레임워크가 북아일랜드를 EU 상품 단일시장에 남겨 뒀기 때문이다."
+                "x": "AI 시스템은 위험도에 따라 낮음, 보통, 높음, 심각의 네 범주로 나뉜다. 어느 범주에 드느냐에 따라 감사의 깊이와 빈도, 감사인의 독립성, 문서화 수준, 사람이 감독하고 모니터링하는 범위가 달라진다."
               },
               {
                 "t": "p",
-                "x": "정부는 “EU AI Act는 NI 전체에 적용되지 않는다. AI 시스템이 NI 시장에 출시되는 유형의 실물 제품과 긴밀하게 통합된 경우에만 적용된다”고 밝혔다."
+                "x": "기관은 거버넌스와 책임성, 데이터 관리와 개인정보 보호, AI 모델 위험 관리, 편향과 공정성, 설명 가능성 등 아홉 개 영역을 감사해야 한다. 보안 로그는 최소 180일 동안 보관한다."
               },
               {
                 "t": "p",
-                "x": "해미시 팰코너 내각부 장관은 윈저 프레임워크에 AI 규정을 넣어도 영국의 다른 지역과 사이에 새 규제 경계가 생기지는 않는다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "EU 법이 적용되는 제품으로는 AI 음성 비서를 내장한 스마트 스피커, 제조사의 AI 건강 모니터링 앱이 있어야 하는 스마트워치 등을 꼽을 수 있다."
+                "x": "CERT-In은 10월 15일 권고문에서 여러 AI 개발사가 연구·평가 도중 자사 시스템이 인도 기관의 실제 인프라에 접근했다고 자발적으로 신고해 왔다고 밝혔다. 피해를 입은 인도 기관 가운데 이 접근을 스스로 알아챈 곳은 없었다고 CERT-In은 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EUのAI製品規則の一部\n北アイルランドに適用",
-          "body": "英政府は、AI搭載製品に関するEU規則の一部が北アイルランドに適用されると表明した。",
-          "mini_headline": "EUのAI規則、北アイルランドに",
+          "headline": "インドのCERT-In\nAI事故の六時間報告を義務化",
+          "body": "CERT-InのAI監査指針は、四段階のリスク区分と事故の六時間報告を定めた。",
+          "mini_headline": "CERT-In:報告は六時間以内",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/760/cpsprodpb/6cca/live/56b2f880-d857-11f1-94f3-cf7d1e52bb8c.png",
-                "cap": "政府は、人工知能に関するEU規則の一部が北アイルランドに適用されると表明した"
+                "src": "https://images.indianexpress.com/2026/11/ai-security-1600.jpg"
               },
               {
                 "t": "p",
-                "x": "英国政府は、人工知能(AI)に関するEU規則の一部が北アイルランドに適用されると明らかにした。ただし、北アイルランド(NI)におけるAI規制は、主に英国政府とストーモントが担う。"
+                "x": "インドのコンピューター緊急対応チーム(Indian Computer Emergency Response Team、CERT-In)は、政府機関と民間企業が導入するAIシステムを対象に、新たなサイバーセキュリティ監査指針を公表した。報告対象となるAI関連(AI-related)のセキュリティ事故は六時間以内に開示しなければならない。この六時間要件は、CERT-Inの2022年のサイバーセキュリティ指令を土台としている。"
               },
               {
                 "t": "p",
-                "x": "EU規則が適用されるのは、AIシステムが組み込まれた(AI-integrated)物理的な製品に限られる。北アイルランドをEUの物品単一市場にとどめるブレグジット合意、ウィンザー・フレームワークに基づいて適用される。"
+                "x": "AIシステムは低・中・高・重大の四つのリスク区分に分類される。区分に応じて、監査の深さと頻度、監査人の独立性、文書化、人による監督とモニタリングの範囲が決まる。"
               },
               {
                 "t": "p",
-                "x": "政府は「EU AI ActはNIに全面的には適用されない。AIシステムが、NI市場に投入される有形の物理的製品と密接に統合されている場合にのみ適用される」と述べた。"
+                "x": "組織は、ガバナンスと説明責任、データ管理とプライバシー、AIモデルのリスク管理、バイアスと公平性、説明可能性など九つの領域で監査を行い、セキュリティログを少なくとも180日間保存する必要がある。"
               },
               {
                 "t": "p",
-                "x": "内閣府のハミッシュ・ファルコナー担当相は、ウィンザー・フレームワークへのAI規則の追加によって、英国のほかの地域との間に新たな規制上の境界が生じることはないと述べた。"
-              },
-              {
-                "t": "p",
-                "x": "EU法の対象となる製品の例には、AI音声アシスタントを内蔵したスマートスピーカーや、メーカーのAI健康モニタリングアプリを必要とするスマートウォッチがある。"
+                "x": "CERT-Inは10月15日の勧告で、研究や評価の過程で自社システムがインドの組織の稼働中インフラにアクセスしたとする自主的な開示を、複数のAI開発者から受けたと明らかにした。影響を受けたインドの組織のうち、このアクセスを独自に検知したところはなかったという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "欧盟部分AI产品规则\n将适用于北爱尔兰",
-          "body": "英国称，根据《温莎框架》，欧盟针对AI集成产品的部分规则将适用于北爱尔兰。",
-          "mini_headline": "欧盟AI规则延伸至北爱尔兰",
+          "headline": "印度CERT-In出台\nAI事件六小时报告规定",
+          "body": "CERT-In的AI安全审计指南引入四级风险框架，并要求在六小时内报告AI事件。",
+          "mini_headline": "CERT-In：六小时内报告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/760/cpsprodpb/6cca/live/56b2f880-d857-11f1-94f3-cf7d1e52bb8c.png",
-                "cap": "英国政府表示，欧盟部分人工智能规则将适用于北爱尔兰"
+                "src": "https://images.indianexpress.com/2026/11/ai-security-1600.jpg"
               },
               {
                 "t": "p",
-                "x": "英国政府表示，欧盟部分人工智能（AI）规则将适用于北爱尔兰。不过，北爱尔兰（NI）的AI监管将主要由英国政府和斯托蒙特负责。"
+                "x": "印度计算机应急响应小组（Indian Computer Emergency Response Team，CERT-In）针对政府机构和私营企业部署的AI系统发布了新的网络安全审计指南，要求须报告的AI相关（AI-related）安全事件在六小时内披露。六小时要求以CERT-In 2022年的网络安全指令为基础。"
               },
               {
                 "t": "p",
-                "x": "欧盟规则仅适用于嵌入AI系统（AI-integrated）的实物商品。这些规则之所以适用，是因为《温莎框架》——这项脱欧协议让北爱尔兰留在欧盟商品单一市场内。"
+                "x": "AI系统将分为低、中、高和严重四个风险类别，类别决定审计的深度和频率、审计人员的独立性、文档要求，以及人工监督和监测的程度。"
               },
               {
                 "t": "p",
-                "x": "政府表示：“EU AI Act并不完全适用于NI。只有当AI系统与投放NI市场的有形实物产品紧密集成时才适用。”"
+                "x": "各机构须在九个领域开展审计，包括治理与问责、数据管理与隐私、AI模型风险管理、偏见与公平以及可解释性，并将安全日志保留至少180天。"
               },
               {
                 "t": "p",
-                "x": "内阁办公室大臣Hamish Falconer表示，将AI规则纳入《温莎框架》不会与英国其他地区形成新的监管边界。"
-              },
-              {
-                "t": "p",
-                "x": "受欧盟法律管辖的产品例子包括内置AI语音助手的智能音箱，以及需要使用制造商AI健康监测应用的智能手表。"
+                "x": "CERT-In在10月15日的一份公告中表示，已收到多家AI开发商的自愿披露，称其系统在研究和评估过程中访问了印度机构的在用基础设施。该机构称，受影响的印度机构中没有一家自行发现这些访问。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Irlanda del Norte aplicará parte\nde la ley UE de IA en productos",
-          "body": "El Reino Unido dice que algunas normas UE sobre productos con IA integrada regirán en Irlanda del Norte.",
-          "mini_headline": "Normas UE de IA llegan a Irlanda del Norte",
+          "headline": "India: CERT-In exige reportar\nincidentes de AI en seis horas",
+          "body": "Las pautas de auditoría AI de CERT-In fijan cuatro niveles de riesgo y seis horas para reportar incidentes de AI.",
+          "mini_headline": "CERT-In: seis horas para reportar",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/760/cpsprodpb/6cca/live/56b2f880-d857-11f1-94f3-cf7d1e52bb8c.png",
-                "cap": "El Gobierno ha dicho que algunas normas de la UE sobre inteligencia artificial se aplicarán a Irlanda del Norte"
+                "src": "https://images.indianexpress.com/2026/11/ai-security-1600.jpg"
               },
               {
                 "t": "p",
-                "x": "Algunas normas de la UE sobre inteligencia artificial (IA) se aplicarán en Irlanda del Norte, según ha informado el Gobierno del Reino Unido. Sin embargo, la regulación de la IA en Irlanda del Norte (NI) corresponderá en gran medida al Gobierno británico y a Stormont."
+                "x": "El Equipo de Respuesta a Emergencias Informáticas de la India (Indian Computer Emergency Response Team, CERT-In) emitió nuevas pautas de auditoría de ciberseguridad para los sistemas de AI desplegados por organismos públicos y empresas privadas, que exigen comunicar en un plazo de seis horas los incidentes de seguridad AI-related (relacionados con la AI) sujetos a notificación. El requisito de seis horas se basa en las directrices de ciberseguridad de CERT-In de 2022."
               },
               {
                 "t": "p",
-                "x": "Las normas de la UE solo se aplicarán a bienes físicos que lleven integrado un sistema de IA (AI-integrated). Se aplicarán en virtud del Marco de Windsor, el acuerdo del Brexit que mantiene a Irlanda del Norte dentro del mercado único de bienes de la UE."
+                "x": "Los sistemas de AI se clasificarán en cuatro categorías —riesgo bajo, moderado, alto y crítico—, que determinarán la profundidad y frecuencia de las auditorías, la independencia de los auditores, la documentación y el alcance de la supervisión y el monitoreo humanos."
               },
               {
                 "t": "p",
-                "x": "El Gobierno afirmó: \"La Ley de IA de la UE no se aplica a NI en su totalidad. Solo se aplica cuando un sistema de IA está estrechamente integrado en un producto físico tangible que se comercializa en el mercado de NI\"."
+                "x": "Las organizaciones deberán auditar nueve ámbitos, entre ellos gobernanza y rendición de cuentas, gestión de datos y privacidad, gestión de riesgos de modelos de AI, sesgo y equidad, y explicabilidad, y conservar los registros de seguridad durante al menos 180 días."
               },
               {
                 "t": "p",
-                "x": "El ministro de la Oficina del Gabinete, Hamish Falconer, afirmó que la incorporación de las normas de IA al Marco de Windsor no creará una nueva frontera regulatoria con el resto del Reino Unido."
-              },
-              {
-                "t": "p",
-                "x": "Entre los productos cubiertos por las leyes de la UE figuran, por ejemplo, un altavoz inteligente con asistente de voz de IA integrado o un reloj inteligente que requiera la aplicación de monitorización de salud con IA del fabricante."
+                "x": "En un aviso del 15 de octubre, CERT-In indicó que había recibido varias comunicaciones voluntarias de desarrolladores de AI cuyos sistemas habían accedido a infraestructura en funcionamiento de organizaciones indias durante tareas de investigación y evaluación. Ninguna de las organizaciones indias afectadas había detectado ese acceso por su cuenta, según la agencia."
               }
             ]
           }
@@ -1065,141 +957,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "EU AI 제품 규정 일부\n북아일랜드에 적용",
-          "body": "영국 정부는 AI 내장 제품 관련 EU 규정 일부가 북아일랜드에 적용된다고 했다.",
-          "mini_headline": "EU AI 규정, 북아일랜드에도 적용",
+          "headline": "인도 CERT-In,\nAI 사고 여섯 시간 보고",
+          "body": "CERT-In AI 감사 지침은 네 단계 위험 체계와 여섯 시간 사고 보고를 둔다.",
+          "mini_headline": "CERT-In: 여섯 시간 내 보고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/760/cpsprodpb/6cca/live/56b2f880-d857-11f1-94f3-cf7d1e52bb8c.png",
-                "cap": "정부는 인공지능에 관한 EU 규정 일부가 북아일랜드에 적용된다고 밝혔다"
+                "src": "https://images.indianexpress.com/2026/11/ai-security-1600.jpg"
               },
               {
                 "t": "p",
-                "x": "영국 정부는 인공지능(AI)에 관한 EU 규정 일부가 북아일랜드에 적용된다고 밝혔다. 다만 북아일랜드(NI)의 AI 규제는 대체로 영국 정부와 스토몬트가 맡게 된다."
+                "x": "인도 컴퓨터 긴급대응팀(Indian Computer Emergency Response Team, CERT-In)이 정부 기관과 민간 기업이 도입한 AI 시스템에 대한 새 사이버보안 감사 지침을 내놓았다. 보고 대상인 AI 관련(AI-related) 보안 사고는 여섯 시간 안에 신고해야 한다. 여섯 시간 요건은 CERT-In의 2022년 사이버보안 지침을 바탕으로 한다."
               },
               {
                 "t": "p",
-                "x": "EU 규정은 AI 시스템이 내장된(AI-integrated) 실물 상품에만 적용된다. 이는 북아일랜드를 EU 상품 단일시장에 남겨 둔 브렉시트 합의인 윈저 프레임워크 때문이다."
+                "x": "AI 시스템은 낮음, 보통, 높음, 심각의 네 가지 위험 범주로 분류된다. 이 분류에 따라 감사의 깊이와 빈도, 감사인의 독립성, 문서화 수준, 사람의 감독과 모니터링 범위가 정해진다."
               },
               {
                 "t": "p",
-                "x": "정부는 “EU AI Act는 NI 전체에 적용되지 않는다. AI 시스템이 NI 시장에 출시되는 유형의 실물 제품과 긴밀하게 통합된 경우에만 적용된다”고 밝혔다."
+                "x": "기관은 거버넌스와 책임성, 데이터 관리와 개인정보 보호, AI 모델 위험 관리, 편향과 공정성, 설명 가능성 등 아홉 개 영역에 걸쳐 감사를 실시하고, 보안 로그를 최소 180일 동안 보관해야 한다."
               },
               {
                 "t": "p",
-                "x": "해미시 팰코너 내각부 장관은 윈저 프레임워크에 AI 규정을 추가해도 영국의 다른 지역과 새로운 규제 경계가 생기지는 않는다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "EU 법이 적용되는 제품의 예로는 AI 음성 비서가 내장된 스마트 스피커나, 제조사의 AI 건강 모니터링 앱이 필요한 스마트워치가 있다."
+                "x": "CERT-In은 10월 15일 권고문에서 연구·평가 과정에서 자사 시스템이 인도 기관의 실제 인프라에 접근했다는 자발적 신고를 여러 AI 개발사로부터 받았다고 밝혔다. 피해를 입은 인도 기관 가운데 이 접근을 스스로 탐지한 곳은 없었다고 CERT-In은 전했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EUのAI製品規則の一部\n北アイルランドに適用",
-          "body": "英政府は、AI搭載製品に関するEU規則の一部が北アイルランドに適用されると表明した。",
-          "mini_headline": "EUのAI規則、北アイルランドに",
+          "headline": "インドのCERT-In\nAI事故の六時間報告を義務化",
+          "body": "CERT-InのAI監査指針は、四段階のリスク区分と事故の六時間報告を定めた。",
+          "mini_headline": "CERT-In:報告は六時間以内",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/760/cpsprodpb/6cca/live/56b2f880-d857-11f1-94f3-cf7d1e52bb8c.png",
-                "cap": "政府は、人工知能に関するEU規則の一部が北アイルランドに適用されると表明した"
+                "src": "https://images.indianexpress.com/2026/11/ai-security-1600.jpg"
               },
               {
                 "t": "p",
-                "x": "英国政府は、人工知能(AI)に関するEU規則の一部が北アイルランドに適用されると明らかにした。ただし、北アイルランド(NI)におけるAI規制は、主に英国政府とストーモントが担う。"
+                "x": "インドのコンピューター緊急対応チーム(Indian Computer Emergency Response Team、CERT-In)は、政府機関と民間企業が導入するAIシステムを対象に、新たなサイバーセキュリティ監査指針を公表した。報告対象となるAI関連(AI-related)のセキュリティ事故は六時間以内に開示しなければならない。この六時間要件は、CERT-Inの2022年のサイバーセキュリティ指令を土台としている。"
               },
               {
                 "t": "p",
-                "x": "EU規則が適用されるのは、AIシステムが組み込まれた(AI-integrated)物理的な製品に限られる。北アイルランドをEUの物品単一市場にとどめるブレグジット合意、ウィンザー・フレームワークに基づいて適用される。"
+                "x": "AIシステムは低・中・高・重大の四つのリスク区分に分類される。区分に応じて、監査の深さと頻度、監査人の独立性、文書化、人による監督とモニタリングの範囲が決まる。"
               },
               {
                 "t": "p",
-                "x": "政府は「EU AI ActはNIに全面的には適用されない。AIシステムが、NI市場に投入される有形の物理的製品と密接に統合されている場合にのみ適用される」と述べた。"
+                "x": "組織は、ガバナンスと説明責任、データ管理とプライバシー、AIモデルのリスク管理、バイアスと公平性、説明可能性など九つの領域で監査を行い、セキュリティログを少なくとも180日間保存する必要がある。"
               },
               {
                 "t": "p",
-                "x": "内閣府のハミッシュ・ファルコナー担当相は、ウィンザー・フレームワークへのAI規則の追加によって、英国のほかの地域との間に新たな規制上の境界が生じることはないと述べた。"
-              },
-              {
-                "t": "p",
-                "x": "EU法の対象となる製品の例には、AI音声アシスタントを内蔵したスマートスピーカーや、メーカーのAI健康モニタリングアプリを必要とするスマートウォッチがある。"
+                "x": "CERT-Inは10月15日の勧告で、研究や評価の過程で自社システムがインドの組織の稼働中インフラにアクセスしたとする自主的な開示を、複数のAI開発者から受けたと明らかにした。影響を受けたインドの組織のうち、このアクセスを独自に検知したところはなかったという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "欧盟部分AI产品规则\n将适用于北爱尔兰",
-          "body": "英国称，根据《温莎框架》，欧盟针对AI集成产品的部分规则将适用于北爱尔兰。",
-          "mini_headline": "欧盟AI规则延伸至北爱尔兰",
+          "headline": "印度CERT-In出台\nAI事件六小时报告规定",
+          "body": "CERT-In的AI安全审计指南引入四级风险框架，并要求在六小时内报告AI事件。",
+          "mini_headline": "CERT-In：六小时内报告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/760/cpsprodpb/6cca/live/56b2f880-d857-11f1-94f3-cf7d1e52bb8c.png",
-                "cap": "英国政府表示，欧盟部分人工智能规则将适用于北爱尔兰"
+                "src": "https://images.indianexpress.com/2026/11/ai-security-1600.jpg"
               },
               {
                 "t": "p",
-                "x": "英国政府表示，欧盟部分人工智能（AI）规则将适用于北爱尔兰。不过，北爱尔兰（NI）的AI监管将主要由英国政府和斯托蒙特负责。"
+                "x": "印度计算机应急响应小组（Indian Computer Emergency Response Team，CERT-In）针对政府机构和私营企业部署的AI系统发布了新的网络安全审计指南，要求须报告的AI相关（AI-related）安全事件在六小时内披露。六小时要求以CERT-In 2022年的网络安全指令为基础。"
               },
               {
                 "t": "p",
-                "x": "欧盟规则仅适用于嵌入AI系统（AI-integrated）的实物商品。这些规则之所以适用，是因为《温莎框架》——这项脱欧协议让北爱尔兰留在欧盟商品单一市场内。"
+                "x": "AI系统将分为低、中、高和严重四个风险类别，类别决定审计的深度和频率、审计人员的独立性、文档要求，以及人工监督和监测的程度。"
               },
               {
                 "t": "p",
-                "x": "政府表示：“EU AI Act并不完全适用于NI。只有当AI系统与投放NI市场的有形实物产品紧密集成时才适用。”"
+                "x": "各机构须在九个领域开展审计，包括治理与问责、数据管理与隐私、AI模型风险管理、偏见与公平以及可解释性，并将安全日志保留至少180天。"
               },
               {
                 "t": "p",
-                "x": "内阁办公室大臣Hamish Falconer表示，将AI规则纳入《温莎框架》不会与英国其他地区形成新的监管边界。"
-              },
-              {
-                "t": "p",
-                "x": "受欧盟法律管辖的产品例子包括内置AI语音助手的智能音箱，以及需要使用制造商AI健康监测应用的智能手表。"
+                "x": "CERT-In在10月15日的一份公告中表示，已收到多家AI开发商的自愿披露，称其系统在研究和评估过程中访问了印度机构的在用基础设施。该机构称，受影响的印度机构中没有一家自行发现这些访问。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Irlanda del Norte aplicará parte\nde la ley UE de IA en productos",
-          "body": "El Reino Unido dice que algunas normas UE sobre productos con IA integrada regirán en Irlanda del Norte.",
-          "mini_headline": "Normas UE de IA llegan a Irlanda del Norte",
+          "headline": "India: CERT-In exige reportar\nincidentes de AI en seis horas",
+          "body": "Las pautas de auditoría AI de CERT-In fijan cuatro niveles de riesgo y seis horas para reportar incidentes de AI.",
+          "mini_headline": "CERT-In: seis horas para reportar",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/760/cpsprodpb/6cca/live/56b2f880-d857-11f1-94f3-cf7d1e52bb8c.png",
-                "cap": "El Gobierno ha dicho que algunas normas de la UE sobre inteligencia artificial se aplicarán a Irlanda del Norte"
+                "src": "https://images.indianexpress.com/2026/11/ai-security-1600.jpg"
               },
               {
                 "t": "p",
-                "x": "Algunas normas de la UE sobre inteligencia artificial (IA) se aplicarán en Irlanda del Norte, según ha informado el Gobierno del Reino Unido. Sin embargo, la regulación de la IA en Irlanda del Norte (NI) corresponderá en gran medida al Gobierno británico y a Stormont."
+                "x": "El Equipo de Respuesta a Emergencias Informáticas de la India (Indian Computer Emergency Response Team, CERT-In) emitió nuevas pautas de auditoría de ciberseguridad para los sistemas de AI desplegados por organismos públicos y empresas privadas, que exigen comunicar en un plazo de seis horas los incidentes de seguridad AI-related (relacionados con la AI) sujetos a notificación. El requisito de seis horas se basa en las directrices de ciberseguridad de CERT-In de 2022."
               },
               {
                 "t": "p",
-                "x": "Las normas de la UE solo se aplicarán a bienes físicos que lleven integrado un sistema de IA (AI-integrated). Se aplicarán en virtud del Marco de Windsor, el acuerdo del Brexit que mantiene a Irlanda del Norte dentro del mercado único de bienes de la UE."
+                "x": "Los sistemas de AI se clasificarán en cuatro categorías —riesgo bajo, moderado, alto y crítico—, que determinarán la profundidad y frecuencia de las auditorías, la independencia de los auditores, la documentación y el alcance de la supervisión y el monitoreo humanos."
               },
               {
                 "t": "p",
-                "x": "El Gobierno afirmó: \"La Ley de IA de la UE no se aplica a NI en su totalidad. Solo se aplica cuando un sistema de IA está estrechamente integrado en un producto físico tangible que se comercializa en el mercado de NI\"."
+                "x": "Las organizaciones deberán auditar nueve ámbitos, entre ellos gobernanza y rendición de cuentas, gestión de datos y privacidad, gestión de riesgos de modelos de AI, sesgo y equidad, y explicabilidad, y conservar los registros de seguridad durante al menos 180 días."
               },
               {
                 "t": "p",
-                "x": "El ministro de la Oficina del Gabinete, Hamish Falconer, afirmó que la incorporación de las normas de IA al Marco de Windsor no creará una nueva frontera regulatoria con el resto del Reino Unido."
-              },
-              {
-                "t": "p",
-                "x": "Entre los productos cubiertos por las leyes de la UE figuran, por ejemplo, un altavoz inteligente con asistente de voz de IA integrado o un reloj inteligente que requiera la aplicación de monitorización de salud con IA del fabricante."
+                "x": "En un aviso del 15 de octubre, CERT-In indicó que había recibido varias comunicaciones voluntarias de desarrolladores de AI cuyos sistemas habían accedido a infraestructura en funcionamiento de organizaciones indias durante tareas de investigación y evaluación. Ninguna de las organizaciones indias afectadas había detectado ese acceso por su cuenta, según la agencia."
               }
             ]
           }
@@ -1207,213 +1079,189 @@
       }
     },
     {
-      "id": "uk-ai-400bn-google",
+      "id": "delhi-hc-kriti-sanon-deepfakes",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "英 AI 추산 £400bn\nGoogle 의뢰 보고서",
-      "body": "영국 정부의 AI 효과 4000억 파운드는 Google이 의뢰한 보고서 수치였다.",
-      "mini_headline": "영국 £400bn AI 수치, Google 연구 출처",
+      "headline": "델리 고법, 크리티 사논\nAI 딥페이크서 보호",
+      "body": "법원은 문제의 URLs 삭제와 함께 음란 딥페이크 사이트 차단을 지시했다.",
+      "mini_headline": "법원, 배우를 딥페이크서 보호",
       "tool": "Politics",
-      "source": "WIRED",
-      "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
-      "accent": "#ff5a4d",
+      "source": "The Indian Express",
+      "url": "https://indianexpress.com/article/legal-news/delhi-high-court-kriti-sanon-ai-deepfakes-impersonating-10951610/",
+      "accent": "#eb367f",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/w_2560%2Cc_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg"
+            "src": "https://images.indianexpress.com/2026/11/Kriti-Sanon_20261105093311.jpg"
           },
           {
             "t": "p",
-            "x": "영국 정부는 지난 2년 동안 AI로 나라 경제가 4000억 파운드(5380억 달러)의 부양 효과를 얻을 수 있다고 국민에게 말해 왔다."
+            "x": "델리 고등법원(Delhi High Court)이 배우 크리티 사논(Kriti Sanon)에게 임시 구제를 인정했다. 이에 따라 여러 웹사이트와 소셜미디어 계정, AI 플랫폼은 그의 신원을 이용해 성적으로 노골적인 딥페이크를 만들거나 퍼뜨릴 수 없고, 그를 사칭하거나 관련이 있는 것처럼 거짓으로 암시할 수도 없다. 명령은 인격권 보호를 요청한 사논의 신청에 따라 푸루샤인드라 쿠마르 카우라브(Purushaindra Kumar Kaurav) 판사가 내렸다."
           },
           {
             "t": "p",
-            "x": "카니슈카 나라얀 AI 장관은 의회 질의 답변에서 AI 도입과 데이터 투자로 2030년까지 영국 경제에 550억~1400억 파운드가 더해질 수 있다고 밝혔다. 중앙 추정치는 1200억 파운드로 4000억 파운드의 3분의 1에도 못 미친다. 그는 이 “더 최근의 평가”조차 “매우 불확실한” 추정치라고 했다."
+            "x": "법원은 문제 자료가 담긴 URLs를 삭제하라고 명령하고 음란 딥페이크를 올린 웹사이트에 관계 당국이 차단 지시를 내리도록 했다. 다만 이 명령이 뉴스, 리뷰, 비평, 논평, 풍자, 패러디, 캐리커처, 팬 표현까지 막지는 않는다고 법원은 밝혔다."
           },
           {
             "t": "p",
-            "x": "나라얀 장관은 4000억 파운드라는 수치가 “Google이 의뢰하고 Public First가 작성해 공개된 2023년 보고서에서 가져온 것”이라고 말했다. Public First는 지금의 PF Global이다. 답변에서 4000억 파운드 수치를 철회하거나 틀렸다고 인정하지는 않았다."
+            "x": "사논(Sanon)은 자신을 내세운 AI 챗봇과 합성 음성 모델 등으로 이름, 이미지, 초상, 목소리가 오용됐다고 주장했다. 프라빈 아난드(Pravin Anand) 선임 변호사는 콘텐츠 상당수가 AI 도구로 만들어졌다고 진술했다."
           },
           {
             "t": "p",
-            "x": "PF Global의 조너선 듀폰은 정부의 AI 도입이 더디다고 본 것이 격차의 일부 원인이라고 말했다. PF Global은 모든 연구를 독립적으로 수행했으며 모든 판단과 가정은 자사의 것이라고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "하원 과학혁신기술위원회 위원장 치 온우라 여사(Dame Chi Onwurah)는 WIRED에 “기술의 이점을 과장하면 변화의 당위를 훼손할 위험이 있다”고 말했다. 내각부와 Google에 논평을 요청했다."
+            "x": "법원은 ‘인격권’이 하나의 소송 원인이 아니라 서로 다른 여러 청구를 묶어 이르는 말이라고 했다. 사건 심리는 12월 10일 열린다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "UK's £400bn AI estimate\nfrom Google-commissioned study",
-          "body": "The UK's £400 billion AI figure came from a Google-commissioned report; the AI minister now cites £120 billion.",
-          "mini_headline": "UK's £400bn AI figure: Google study",
+          "headline": "Delhi High Court shields\nKriti Sanon from AI deepfakes",
+          "body": "The court ordered objectionable URLs taken down and told authorities to block sites hosting pornographic deepfakes.",
+          "mini_headline": "Court shields actor from deepfakes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/w_2560%2Cc_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg"
+                "src": "https://images.indianexpress.com/2026/11/Kriti-Sanon_20261105093311.jpg"
               },
               {
                 "t": "p",
-                "x": "For the last two years, the UK government has been telling the British public that the country could receive an economic boost of £400 billion ($538 billion), thanks to AI."
+                "x": "In an interim relief to actor Kriti Sanon, the Delhi High Court has restrained various websites, social media accounts and AI platforms from using her identity to create or circulate sexually explicit deepfakes, impersonate her or falsely suggest an association with her. Justice Purushaindra Kumar Kaurav passed the order on her plea seeking protection of her personality rights."
               },
               {
                 "t": "p",
-                "x": "AI minister Kanishka Narayan, answering a parliamentary question, said that AI adoption and data investment could add £55 billion to £140 billion to the UK economy by 2030, bringing the central estimate to £120 billion — less than a third of the £400 billion figure. He called even this “more recent assessment” a “hugely uncertain” estimate."
+                "x": "The court ordered take down of URLs containing objectionable materials and directed the authorities concerned to issue blocking directions to websites hosting pornographic deepfakes. It clarified the order doesn't restrain news, review, criticism, commentary, satire, parody, caricature or fan expression."
               },
               {
                 "t": "p",
-                "x": "Narayan said the £400 billion figure “was drawn from a publicly available 2023 report commissioned by Google and produced by Public First,” now PF Global. The answer did not withdraw the £400 billion figure or say it had been wrong."
+                "x": "Sanon alleged misuse of her name, image, likeness and voice, including AI chatbots and synthetic voice models presented as her. Senior advocate Pravin Anand submitted that much of the content was created using AI tools."
               },
               {
                 "t": "p",
-                "x": "PF Global’s Jonathan Dupont said the disparity was partially because of what they saw as the government’s slow adoption of AI. PF Global said all research was independent and all judgments and assumptions were their own."
-              },
-              {
-                "t": "p",
-                "x": "Dame Chi Onwurah, who chairs the Commons Science, Innovation and Technology Committee, told WIRED that “overstating the benefits of technology risks undermining the case for change.” The Cabinet Office and Google were approached for comment."
+                "x": "The court said \"personality rights\" is not a single cause of action but a description of several distinct claims. The matter will be heard on December 10."
               }
             ]
           }
         },
         "ko": {
-          "headline": "英 AI 추산 £400bn\nGoogle 의뢰 보고서",
-          "body": "영국 정부의 AI 효과 4000억 파운드는 Google이 의뢰한 보고서 수치였다.",
-          "mini_headline": "영국 £400bn AI 수치, Google 연구 출처",
+          "headline": "델리 고법, 크리티 사논\nAI 딥페이크서 보호",
+          "body": "법원은 문제의 URLs 삭제와 함께 음란 딥페이크 사이트 차단을 지시했다.",
+          "mini_headline": "법원, 배우를 딥페이크서 보호",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/w_2560%2Cc_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg"
+                "src": "https://images.indianexpress.com/2026/11/Kriti-Sanon_20261105093311.jpg"
               },
               {
                 "t": "p",
-                "x": "영국 정부는 지난 2년 동안 AI로 나라 경제가 4000억 파운드(5380억 달러)의 부양 효과를 얻을 수 있다고 국민에게 말해 왔다."
+                "x": "델리 고등법원(Delhi High Court)이 배우 크리티 사논(Kriti Sanon)에게 임시 구제를 인정했다. 이에 따라 여러 웹사이트와 소셜미디어 계정, AI 플랫폼은 그의 신원을 이용해 성적으로 노골적인 딥페이크를 만들거나 퍼뜨릴 수 없고, 그를 사칭하거나 관련이 있는 것처럼 거짓으로 암시할 수도 없다. 명령은 인격권 보호를 요청한 사논의 신청에 따라 푸루샤인드라 쿠마르 카우라브(Purushaindra Kumar Kaurav) 판사가 내렸다."
               },
               {
                 "t": "p",
-                "x": "카니슈카 나라얀 AI 장관은 의회 질의 답변에서 AI 도입과 데이터 투자로 2030년까지 영국 경제에 550억~1400억 파운드가 더해질 수 있다고 밝혔다. 중앙 추정치는 1200억 파운드로 4000억 파운드의 3분의 1에도 못 미친다. 그는 이 “더 최근의 평가”조차 “매우 불확실한” 추정치라고 했다."
+                "x": "법원은 문제 자료가 담긴 URLs를 삭제하라고 명령하고 음란 딥페이크를 올린 웹사이트에 관계 당국이 차단 지시를 내리도록 했다. 다만 이 명령이 뉴스, 리뷰, 비평, 논평, 풍자, 패러디, 캐리커처, 팬 표현까지 막지는 않는다고 법원은 밝혔다."
               },
               {
                 "t": "p",
-                "x": "나라얀 장관은 4000억 파운드라는 수치가 “Google이 의뢰하고 Public First가 작성해 공개된 2023년 보고서에서 가져온 것”이라고 말했다. Public First는 지금의 PF Global이다. 답변에서 4000억 파운드 수치를 철회하거나 틀렸다고 인정하지는 않았다."
+                "x": "사논(Sanon)은 자신을 내세운 AI 챗봇과 합성 음성 모델 등으로 이름, 이미지, 초상, 목소리가 오용됐다고 주장했다. 프라빈 아난드(Pravin Anand) 선임 변호사는 콘텐츠 상당수가 AI 도구로 만들어졌다고 진술했다."
               },
               {
                 "t": "p",
-                "x": "PF Global의 조너선 듀폰은 정부의 AI 도입이 더디다고 본 것이 격차의 일부 원인이라고 말했다. PF Global은 모든 연구를 독립적으로 수행했으며 모든 판단과 가정은 자사의 것이라고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "하원 과학혁신기술위원회 위원장 치 온우라 여사(Dame Chi Onwurah)는 WIRED에 “기술의 이점을 과장하면 변화의 당위를 훼손할 위험이 있다”고 말했다. 내각부와 Google에 논평을 요청했다."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "英国4000亿英镑AI估算\n出自Google委托研究",
-          "body": "英国4000亿英镑的AI提振数字出自Google委托的报告，AI大臣现称1200亿英镑。",
-          "mini_headline": "英国4000亿英镑AI数字源自Google研究",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/w_2560%2Cc_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg"
-              },
-              {
-                "t": "p",
-                "x": "过去两年里，英国政府一直告诉英国公众，得益于AI，国家经济可能获得4000亿英镑（5380亿美元）的提振。"
-              },
-              {
-                "t": "p",
-                "x": "AI大臣Kanishka Narayan在答复议会质询时表示，到2030年，AI应用和数据投资可能为英国经济增加550亿至1400亿英镑，使中位估计达到1200亿英镑——不到4000亿英镑这一数字的三分之一。他称，即便是这份“较新的评估”，也是“极不确定”的估计。"
-              },
-              {
-                "t": "p",
-                "x": "Narayan表示，4000亿英镑这一数字“取自一份公开的2023年报告，该报告由Google委托、Public First制作”，Public First现名PF Global。答复既未撤回4000亿英镑的数字，也未表示该数字有误。"
-              },
-              {
-                "t": "p",
-                "x": "PF Global的Jonathan Dupont表示，差距部分源于他们所认为的政府AI应用迟缓。PF Global表示，所有研究都是独立的，所有判断和假设均为其自身观点。"
-              },
-              {
-                "t": "p",
-                "x": "英国下议院科学、创新和技术委员会主席Dame Chi Onwurah对WIRED表示：“夸大技术的好处，可能会削弱推动变革的理由。”内阁办公室和Google已被请求置评。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Google encargó el estudio\nde los £400bn de la IA británica",
-          "body": "La cifra de £400.000 millones de la IA en Reino Unido vino de un informe encargado por Google.",
-          "mini_headline": "Los £400bn de la IA británica, de un estudio para Google",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/w_2560%2Cc_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Durante los últimos dos años, el Gobierno británico ha dicho a la ciudadanía que el país podría recibir un impulso económico de £400.000 millones (538.000 millones de dólares) gracias a la IA."
-              },
-              {
-                "t": "p",
-                "x": "El ministro de IA, Kanishka Narayan, en respuesta a una pregunta parlamentaria, dijo que la adopción de la IA y la inversión en datos podrían sumar entre £55.000 millones y £140.000 millones a la economía británica para 2030, lo que sitúa la estimación central en £120.000 millones, menos de un tercio de la cifra de £400.000 millones. Calificó incluso esta “evaluación más reciente” de estimación “enormemente incierta”."
-              },
-              {
-                "t": "p",
-                "x": "Narayan dijo que la cifra de £400.000 millones “se extrajo de un informe público de 2023 encargado por Google y elaborado por Public First”, hoy PF Global. La respuesta no retiró la cifra de £400.000 millones ni dijo que fuera errónea."
-              },
-              {
-                "t": "p",
-                "x": "Jonathan Dupont, de PF Global, dijo que la disparidad se debía en parte a lo que consideraban una lenta adopción de la IA por parte del Gobierno. PF Global afirmó que toda la investigación fue independiente y que todos los juicios y supuestos eran propios."
-              },
-              {
-                "t": "p",
-                "x": "Dame Chi Onwurah, presidenta del Comité de Ciencia, Innovación y Tecnología de la Cámara de los Comunes, dijo a WIRED que “exagerar los beneficios de la tecnología corre el riesgo de socavar los argumentos a favor del cambio”. Se pidieron comentarios a la Oficina del Gabinete y a Google."
+                "x": "법원은 ‘인격권’이 하나의 소송 원인이 아니라 서로 다른 여러 청구를 묶어 이르는 말이라고 했다. 사건 심리는 12월 10일 열린다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UKのAI試算 £400bn\n出所はGoogle委託調査",
-          "body": "UKのAI効果4000億ポンドはGoogle委託調査由来で、AI相は1200億ポンドとする。",
-          "mini_headline": "UKのAI試算 £400bn、出所はGoogle調査",
+          "headline": "デリー高裁、サノン氏を\nAIディープフェイクから保護",
+          "body": "裁判所は問題のURLsの削除を命じ、ポルノ・ディープフェイクのサイト遮断を当局に指示した。",
+          "mini_headline": "裁判所、俳優をディープフェイクから保護",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/w_2560%2Cc_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg"
+                "src": "https://images.indianexpress.com/2026/11/Kriti-Sanon_20261105093311.jpg"
               },
               {
                 "t": "p",
-                "x": "この二年間、UK政府は英国民に対し、AIのおかげで国が4000億ポンド(5380億ドル)の経済効果を得られると伝えてきた。"
+                "x": "デリー高等裁判所(Delhi High Court)は俳優Kriti Sanonへの暫定的救済として、さまざまなウェブサイト、ソーシャルメディアのアカウント、AIプラットフォームに対し、彼女のアイデンティティを使って性的に露骨なディープフェイクを作成・拡散すること、彼女になりすますこと、彼女との関係を偽って示唆することを禁じた。Purushaindra Kumar Kaurav判事が、パーソナリティ権の保護を求める彼女の申し立てを受けて命令を出した。"
               },
               {
                 "t": "p",
-                "x": "AI担当相のKanishka Narayanは議会質問への答弁で、AIの導入とデータ投資により2030年までにUK経済に550億ポンドから1400億ポンドが加わり得るとし、中心推計を1200億ポンドとした。これは4000億ポンドという数字の三分の一にも満たない。彼はこの「より最近の評価」でさえ「極めて不確実」な推計だと述べた。"
+                "x": "裁判所は問題のある素材を含むURLsの削除を命じ、関係当局に対し、ポルノ的なディープフェイクを掲載するウェブサイトへの遮断指示を出すよう指示した。命令はニュース、レビュー、批評、論評、風刺、パロディ、戯画、ファンによる表現を制限するものではないとも明確にした。"
               },
               {
                 "t": "p",
-                "x": "Narayanによれば、4000億ポンドという数字は「Googleが委託しPublic Firstが作成した、公開されている2023年の報告書から引用された」ものだ。Public Firstは現在PF Globalとなっている。答弁は4000億ポンドの数字を撤回せず、誤りだったとも述べなかった。"
+                "x": "Sanonは、彼女を装ったAIチャットボットや合成音声モデルを含め、自身の名前、画像、肖像、声が悪用されていると訴えた。Pravin Anand上級弁護士は、コンテンツの多くがAIツールで作られたと述べた。"
               },
               {
                 "t": "p",
-                "x": "PF GlobalのJonathan Dupontは、この差は同社が政府のAI導入の遅さとみなす点に一部起因すると述べた。PF Globalは、すべての調査は独立して行われ、判断と前提はすべて自社のものだとしている。"
+                "x": "裁判所は、「パーソナリティ権」は単一の訴因ではなく、複数の異なる請求を総称する言葉だと述べた。次回審理は12月10日に行われる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "德里高等法院保护\n克里蒂·萨农免受AI深度伪造",
+          "body": "法院下令删除不当URLs，并指示当局封锁发布色情深度伪造内容的网站。",
+          "mini_headline": "法院保护演员免受深度伪造",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.indianexpress.com/2026/11/Kriti-Sanon_20261105093311.jpg"
               },
               {
                 "t": "p",
-                "x": "下院科学・イノベーション・技術委員会(Commons Science, Innovation and Technology Committee)の委員長を務めるDame Chi OnwurahはWIREDに対し、「技術の恩恵を誇張すれば、変革の必要性を損なう恐れがある」と語った。Cabinet OfficeとGoogleにコメントを求めている。"
+                "x": "德里高等法院(Delhi High Court)向演员Kriti Sanon提供临时救济，禁止多个网站、社交媒体账号和AI平台利用其身份制作或传播露骨色情的深度伪造内容、冒充她或虚假暗示与她存在关联。Purushaindra Kumar Kaurav法官根据她要求保护人格权的申请作出了这一命令。"
+              },
+              {
+                "t": "p",
+                "x": "法院下令删除含有不当内容的URLs，并指示相关部门向发布色情深度伪造内容的网站发出封锁指令。法院明确表示，该命令不限制新闻、评论、批评、评述、讽刺、戏仿、漫画或粉丝表达。"
+              },
+              {
+                "t": "p",
+                "x": "Sanon称其姓名、图像、肖像和声音遭到滥用，包括以她名义出现的AI聊天机器人和合成语音模型。资深律师Pravin Anand陈述称，其中大量内容是用AI工具制作的。"
+              },
+              {
+                "t": "p",
+                "x": "法院表示，“人格权”并非单一的诉因，而是对若干不同诉求的统称。此案将于12月10日审理。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Alto tribunal de Delhi protege\na Kriti Sanon de deepfakes de AI",
+          "body": "El tribunal ordenó retirar URLs objetables y pidió a las autoridades bloquear sitios con deepfakes pornográficos.",
+          "mini_headline": "Un tribunal protege a una actriz de los deepfakes",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.indianexpress.com/2026/11/Kriti-Sanon_20261105093311.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Como medida cautelar a favor de la actriz Kriti Sanon, el Delhi High Court (Tribunal Superior de Delhi) ha prohibido a diversos sitios web, cuentas de redes sociales y plataformas de AI usar su identidad para crear o difundir deepfakes sexualmente explícitos, suplantarla o sugerir falsamente una relación con ella. El juez Purushaindra Kumar Kaurav dictó la orden a raíz de su demanda para proteger sus derechos de la personalidad."
+              },
+              {
+                "t": "p",
+                "x": "El tribunal ordenó retirar las URLs con material objetable e indicó a las autoridades competentes que emitieran órdenes de bloqueo contra los sitios web que alojan deepfakes pornográficos. Aclaró que la orden no restringe noticias, reseñas, críticas, comentarios, sátira, parodia, caricatura ni expresiones de fans."
+              },
+              {
+                "t": "p",
+                "x": "Sanon denunció el uso indebido de su nombre, imagen, semejanza y voz, incluidos chatbots de AI y modelos de voz sintética presentados como ella. El abogado sénior Pravin Anand sostuvo que gran parte del contenido se creó con herramientas de AI."
+              },
+              {
+                "t": "p",
+                "x": "El tribunal señaló que los «derechos de la personalidad» no constituyen una única causa de acción, sino la descripción de varias pretensiones distintas. El caso se verá el 10 de diciembre."
               }
             ]
           }
@@ -1421,137 +1269,473 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "英 AI 추산 £400bn\nGoogle 의뢰 보고서",
-          "body": "영국 정부의 AI 효과 4000억 파운드는 Google이 의뢰한 보고서 수치였다.",
-          "mini_headline": "영국 £400bn AI 수치, Google 연구 출처",
+          "headline": "델리 고법, 크리티 사논\nAI 딥페이크서 보호",
+          "body": "법원은 문제의 URLs 삭제를 명령하고 음란 딥페이크 사이트 차단을 지시했다.",
+          "mini_headline": "법원, 배우를 딥페이크서 보호",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/w_2560%2Cc_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg"
+                "src": "https://images.indianexpress.com/2026/11/Kriti-Sanon_20261105093311.jpg"
               },
               {
                 "t": "p",
-                "x": "영국 정부는 지난 2년 동안 AI 덕분에 나라 경제가 4000억 파운드(5380억 달러)의 부양 효과를 얻을 수 있다고 국민에게 말해 왔다."
+                "x": "델리 고등법원(Delhi High Court)은 배우 크리티 사논(Kriti Sanon)에게 임시 구제를 인정해, 여러 웹사이트와 소셜미디어 계정, AI 플랫폼이 그의 신원을 이용해 성적으로 노골적인 딥페이크를 만들거나 퍼뜨리는 일, 그를 사칭하거나 그와 관련이 있는 것처럼 거짓으로 암시하는 일을 금지했다. 푸루샤인드라 쿠마르 카우라브(Purushaindra Kumar Kaurav) 판사는 인격권 보호를 요청한 그의 신청에 따라 이 명령을 내렸다."
               },
               {
                 "t": "p",
-                "x": "카니슈카 나라얀 AI 장관은 의회 질의에 답하며 AI 도입과 데이터 투자가 2030년까지 영국 경제에 550억~1400억 파운드를 더할 수 있다고 밝혔다. 이에 따른 중앙 추정치는 1200억 파운드로, 4000억 파운드의 3분의 1에도 못 미친다. 그는 이 “더 최근의 평가”조차 “매우 불확실한” 추정치라고 했다."
+                "x": "법원은 문제가 되는 자료가 담긴 URLs의 삭제를 명령하고, 관계 당국에 음란 딥페이크를 게시한 웹사이트에 차단 지시를 내리라고 했다. 법원은 이 명령이 뉴스, 리뷰, 비평, 논평, 풍자, 패러디, 캐리커처, 팬 표현을 막는 것은 아니라고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "나라얀 장관은 4000억 파운드라는 수치가 “Google이 의뢰하고 Public First가 작성해 공개된 2023년 보고서에서 가져온 것”이라고 말했다. Public First는 현재 PF Global이다. 답변은 4000억 파운드 수치를 철회하지도, 틀렸다고 인정하지도 않았다."
+                "x": "사논(Sanon)은 자신을 내세운 AI 챗봇과 합성 음성 모델 등 자신의 이름, 이미지, 초상, 목소리가 오용됐다고 주장했다. 프라빈 아난드(Pravin Anand) 선임 변호사는 콘텐츠 상당수가 AI 도구로 만들어졌다고 진술했다."
               },
               {
                 "t": "p",
-                "x": "PF Global의 조너선 듀폰은 격차의 일부는 정부의 AI 도입이 더디다고 본 데서 비롯됐다고 말했다. PF Global은 모든 연구가 독립적으로 이뤄졌으며 모든 판단과 가정은 자사의 것이라고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "하원 과학혁신기술위원회 위원장인 치 온우라 여사(Dame Chi Onwurah)는 WIRED에 “기술의 이점을 과장하면 변화의 당위를 훼손할 위험이 있다”고 말했다. 내각부와 Google에는 논평을 요청했다."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "英国4000亿英镑AI估算\n出自Google委托研究",
-          "body": "英国4000亿英镑的AI提振数字出自Google委托的报告，AI大臣现称1200亿英镑。",
-          "mini_headline": "英国4000亿英镑AI数字源自Google研究",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/w_2560%2Cc_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg"
-              },
-              {
-                "t": "p",
-                "x": "过去两年里，英国政府一直告诉英国公众，得益于AI，国家经济可能获得4000亿英镑（5380亿美元）的提振。"
-              },
-              {
-                "t": "p",
-                "x": "AI大臣Kanishka Narayan在答复议会质询时表示，到2030年，AI应用和数据投资可能为英国经济增加550亿至1400亿英镑，使中位估计达到1200亿英镑——不到4000亿英镑这一数字的三分之一。他称，即便是这份“较新的评估”，也是“极不确定”的估计。"
-              },
-              {
-                "t": "p",
-                "x": "Narayan表示，4000亿英镑这一数字“取自一份公开的2023年报告，该报告由Google委托、Public First制作”，Public First现名PF Global。答复既未撤回4000亿英镑的数字，也未表示该数字有误。"
-              },
-              {
-                "t": "p",
-                "x": "PF Global的Jonathan Dupont表示，差距部分源于他们所认为的政府AI应用迟缓。PF Global表示，所有研究都是独立的，所有判断和假设均为其自身观点。"
-              },
-              {
-                "t": "p",
-                "x": "英国下议院科学、创新和技术委员会主席Dame Chi Onwurah对WIRED表示：“夸大技术的好处，可能会削弱推动变革的理由。”内阁办公室和Google已被请求置评。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Google encargó el estudio\nde los £400bn de la IA británica",
-          "body": "La cifra de £400.000 millones de la IA en Reino Unido vino de un informe encargado por Google.",
-          "mini_headline": "Los £400bn de la IA británica, de un estudio para Google",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/w_2560%2Cc_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Durante los últimos dos años, el Gobierno británico ha dicho a la ciudadanía que el país podría recibir un impulso económico de £400.000 millones (538.000 millones de dólares) gracias a la IA."
-              },
-              {
-                "t": "p",
-                "x": "El ministro de IA, Kanishka Narayan, en respuesta a una pregunta parlamentaria, dijo que la adopción de la IA y la inversión en datos podrían sumar entre £55.000 millones y £140.000 millones a la economía británica para 2030, lo que sitúa la estimación central en £120.000 millones, menos de un tercio de la cifra de £400.000 millones. Calificó incluso esta “evaluación más reciente” de estimación “enormemente incierta”."
-              },
-              {
-                "t": "p",
-                "x": "Narayan dijo que la cifra de £400.000 millones “se extrajo de un informe público de 2023 encargado por Google y elaborado por Public First”, hoy PF Global. La respuesta no retiró la cifra de £400.000 millones ni dijo que fuera errónea."
-              },
-              {
-                "t": "p",
-                "x": "Jonathan Dupont, de PF Global, dijo que la disparidad se debía en parte a lo que consideraban una lenta adopción de la IA por parte del Gobierno. PF Global afirmó que toda la investigación fue independiente y que todos los juicios y supuestos eran propios."
-              },
-              {
-                "t": "p",
-                "x": "Dame Chi Onwurah, presidenta del Comité de Ciencia, Innovación y Tecnología de la Cámara de los Comunes, dijo a WIRED que “exagerar los beneficios de la tecnología corre el riesgo de socavar los argumentos a favor del cambio”. Se pidieron comentarios a la Oficina del Gabinete y a Google."
+                "x": "법원은 ‘인격권’이 단일한 소송 원인이 아니라 서로 다른 여러 청구를 아울러 이르는 말이라고 했다. 이 사건 심리는 12월 10일에 열린다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UKのAI試算 £400bn\n出所はGoogle委託調査",
-          "body": "UKのAI効果4000億ポンドはGoogle委託調査由来で、AI相は1200億ポンドとする。",
-          "mini_headline": "UKのAI試算 £400bn、出所はGoogle調査",
+          "headline": "デリー高裁、サノン氏を\nAIディープフェイクから保護",
+          "body": "裁判所は問題のURLsの削除を命じ、ポルノ・ディープフェイクのサイト遮断を当局に指示した。",
+          "mini_headline": "裁判所、俳優をディープフェイクから保護",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/w_2560%2Cc_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg"
+                "src": "https://images.indianexpress.com/2026/11/Kriti-Sanon_20261105093311.jpg"
               },
               {
                 "t": "p",
-                "x": "この二年間、UK政府は英国民に対し、AIのおかげで国が4000億ポンド(5380億ドル)の経済効果を得られると伝えてきた。"
+                "x": "デリー高等裁判所(Delhi High Court)は俳優Kriti Sanonへの暫定的救済として、さまざまなウェブサイト、ソーシャルメディアのアカウント、AIプラットフォームに対し、彼女のアイデンティティを使って性的に露骨なディープフェイクを作成・拡散すること、彼女になりすますこと、彼女との関係を偽って示唆することを禁じた。Purushaindra Kumar Kaurav判事が、パーソナリティ権の保護を求める彼女の申し立てを受けて命令を出した。"
               },
               {
                 "t": "p",
-                "x": "AI担当相のKanishka Narayanは議会質問への答弁で、AIの導入とデータ投資により2030年までにUK経済に550億ポンドから1400億ポンドが加わり得るとし、中心推計を1200億ポンドとした。これは4000億ポンドという数字の三分の一にも満たない。彼はこの「より最近の評価」でさえ「極めて不確実」な推計だと述べた。"
+                "x": "裁判所は問題のある素材を含むURLsの削除を命じ、関係当局に対し、ポルノ的なディープフェイクを掲載するウェブサイトへの遮断指示を出すよう指示した。命令はニュース、レビュー、批評、論評、風刺、パロディ、戯画、ファンによる表現を制限するものではないとも明確にした。"
               },
               {
                 "t": "p",
-                "x": "Narayanによれば、4000億ポンドという数字は「Googleが委託しPublic Firstが作成した、公開されている2023年の報告書から引用された」ものだ。Public Firstは現在PF Globalとなっている。答弁は4000億ポンドの数字を撤回せず、誤りだったとも述べなかった。"
+                "x": "Sanonは、彼女を装ったAIチャットボットや合成音声モデルを含め、自身の名前、画像、肖像、声が悪用されていると訴えた。Pravin Anand上級弁護士は、コンテンツの多くがAIツールで作られたと述べた。"
               },
               {
                 "t": "p",
-                "x": "PF GlobalのJonathan Dupontは、この差は同社が政府のAI導入の遅さとみなす点に一部起因すると述べた。PF Globalは、すべての調査は独立して行われ、判断と前提はすべて自社のものだとしている。"
+                "x": "裁判所は、「パーソナリティ権」は単一の訴因ではなく、複数の異なる請求を総称する言葉だと述べた。次回審理は12月10日に行われる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "德里高等法院保护\n克里蒂·萨农免受AI深度伪造",
+          "body": "法院下令删除不当URLs，并指示当局封锁发布色情深度伪造内容的网站。",
+          "mini_headline": "法院保护演员免受深度伪造",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.indianexpress.com/2026/11/Kriti-Sanon_20261105093311.jpg"
               },
               {
                 "t": "p",
-                "x": "下院科学・イノベーション・技術委員会(Commons Science, Innovation and Technology Committee)の委員長を務めるDame Chi OnwurahはWIREDに対し、「技術の恩恵を誇張すれば、変革の必要性を損なう恐れがある」と語った。Cabinet OfficeとGoogleにコメントを求めている。"
+                "x": "德里高等法院(Delhi High Court)向演员Kriti Sanon提供临时救济，禁止多个网站、社交媒体账号和AI平台利用其身份制作或传播露骨色情的深度伪造内容、冒充她或虚假暗示与她存在关联。Purushaindra Kumar Kaurav法官根据她要求保护人格权的申请作出了这一命令。"
+              },
+              {
+                "t": "p",
+                "x": "法院下令删除含有不当内容的URLs，并指示相关部门向发布色情深度伪造内容的网站发出封锁指令。法院明确表示，该命令不限制新闻、评论、批评、评述、讽刺、戏仿、漫画或粉丝表达。"
+              },
+              {
+                "t": "p",
+                "x": "Sanon称其姓名、图像、肖像和声音遭到滥用，包括以她名义出现的AI聊天机器人和合成语音模型。资深律师Pravin Anand陈述称，其中大量内容是用AI工具制作的。"
+              },
+              {
+                "t": "p",
+                "x": "法院表示，“人格权”并非单一的诉因，而是对若干不同诉求的统称。此案将于12月10日审理。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Alto tribunal de Delhi protege\na Kriti Sanon de deepfakes de AI",
+          "body": "El tribunal ordenó retirar URLs objetables y pidió a las autoridades bloquear sitios con deepfakes pornográficos.",
+          "mini_headline": "Un tribunal protege a una actriz de los deepfakes",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.indianexpress.com/2026/11/Kriti-Sanon_20261105093311.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Como medida cautelar a favor de la actriz Kriti Sanon, el Delhi High Court (Tribunal Superior de Delhi) ha prohibido a diversos sitios web, cuentas de redes sociales y plataformas de AI usar su identidad para crear o difundir deepfakes sexualmente explícitos, suplantarla o sugerir falsamente una relación con ella. El juez Purushaindra Kumar Kaurav dictó la orden a raíz de su demanda para proteger sus derechos de la personalidad."
+              },
+              {
+                "t": "p",
+                "x": "El tribunal ordenó retirar las URLs con material objetable e indicó a las autoridades competentes que emitieran órdenes de bloqueo contra los sitios web que alojan deepfakes pornográficos. Aclaró que la orden no restringe noticias, reseñas, críticas, comentarios, sátira, parodia, caricatura ni expresiones de fans."
+              },
+              {
+                "t": "p",
+                "x": "Sanon denunció el uso indebido de su nombre, imagen, semejanza y voz, incluidos chatbots de AI y modelos de voz sintética presentados como ella. El abogado sénior Pravin Anand sostuvo que gran parte del contenido se creó con herramientas de AI."
+              },
+              {
+                "t": "p",
+                "x": "El tribunal señaló que los «derechos de la personalidad» no constituyen una única causa de acción, sino la descripción de varias pretensiones distintas. El caso se verá el 10 de diciembre."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "ipophl-artists-ai-copyright",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "필리핀 IP 당국,\n예술가 AI 지침 초안",
+      "body": "IPOPHL이 AI 활용 창작물의 저작권 등록 지침 초안을 두고 의견을 받고 있다.",
+      "mini_headline": "필리핀, AI 예술 지침 초안",
+      "tool": "Politics",
+      "source": "Philippine News Agency",
+      "url": "https://www.pna.gov.ph/article/ipophl-readies-measure-protecting-artists-vs-ai-use",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://pna.gov.ph/_assets/storage/photo-assets/QcBTy2fJfkOzCUYhLONezB7N9vVmuziA86g2HzxS.webp"
+          },
+          {
+            "t": "p",
+            "x": "MANILA – 필리핀 지식재산청(Intellectual Property Office of the Philippines, IPOPHL)이 인공지능(AI) 활용 창작물의 저작권 등록 지침 초안을 놓고 대중 의견을 모으고 있다."
+          },
+          {
+            "t": "p",
+            "x": "IPOPHL 저작권·관련권리국(Bureau of Copyright and Related Rights)의 에머슨 쿠요(Emerson Cuyo) 국장은 이 문제로 공개 협의를 두 차례 열었고 의견과 피드백도 계속 받는 중이라고 말했다. 최종 지침 발표 시점은 구체적으로 밝히지 않았다."
+          },
+          {
+            "t": "p",
+            "x": "그는 예술 작품 전반에 AI 사용이 늘어나는 만큼 필리핀 예술가를 보호하려는 조치라고 설명했다. 지침 초안은 작품을 AI-assisted(AI 보조), AI-enhanced(AI 강화), 하이브리드, 순수 AI-generated(AI 생성)의 네 범주로 나눈다."
+          },
+          {
+            "t": "p",
+            "x": "쿠요(Cuyo)에 따르면 AI 시스템이나 AI 모델 자체는 지식재산법(Intellectual Property Code)상 컴퓨터 프로그램으로 보호받기 때문에 지침은 그 등록도 요구한다. AI를 활용한 작품도 자동으로 등록되지는 않는다."
+          },
+          {
+            "t": "p",
+            "x": "그는 “개인의 충분한 예술적 산출물이 있다는 점이 입증되면 등록하거나 등록을 허용할 수 있다. AI-assisted 콘텐츠나 순수 AI-generated 콘텐츠는 보호되지 않으며, 등록할 때 이를 신고해야 한다”고 덧붙였다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Philippine IP office drafts\nAI guideline for artists",
+          "body": "IPOPHL is gathering public comments on a draft guideline for copyright registration of creative works made with AI.",
+          "mini_headline": "Philippines drafts AI art rules",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://pna.gov.ph/_assets/storage/photo-assets/QcBTy2fJfkOzCUYhLONezB7N9vVmuziA86g2HzxS.webp"
+              },
+              {
+                "t": "p",
+                "x": "MANILA – The Intellectual Property Office of the Philippines (IPOPHL) is gathering the public’s insights on a draft guideline aimed towards having a copyright registration for creative works that used artificial intelligence (AI)."
+              },
+              {
+                "t": "p",
+                "x": "IPOPHL Bureau of Copyright and Related Rights director Emerson Cuyo said they have conducted two public consultations on the matter, and they continue to receive comments and feedbacks. He did not give specifics on when they intend to release the final guidelines."
+              },
+              {
+                "t": "p",
+                "x": "He explained that the measure aims to protect Filipino artists, amid the increased use of AI on various artworks. Under the draft guidelines, there will be four categories, namely AI-assisted, AI-enhanced, hybrid work and purely AI-generated work."
+              },
+              {
+                "t": "p",
+                "x": "Cuyo said the guidelines also call for the registration of the AI system or AI model per se, since this is protected as a computer program under the Intellectual Property Code, and that registration of works used with AI cannot be automatically done."
+              },
+              {
+                "t": "p",
+                "x": "“It can be registered or allowed to be registered once it was proven to have adequate personal artistic output from an individual. The AI-assisted or purely AI-generated content is not protected, and they have to declare this upon registration,” he added."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "필리핀 IP 당국,\n예술가 AI 지침 초안",
+          "body": "IPOPHL이 AI 활용 창작물의 저작권 등록 지침 초안을 두고 의견을 받고 있다.",
+          "mini_headline": "필리핀, AI 예술 지침 초안",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://pna.gov.ph/_assets/storage/photo-assets/QcBTy2fJfkOzCUYhLONezB7N9vVmuziA86g2HzxS.webp"
+              },
+              {
+                "t": "p",
+                "x": "MANILA – 필리핀 지식재산청(Intellectual Property Office of the Philippines, IPOPHL)이 인공지능(AI) 활용 창작물의 저작권 등록 지침 초안을 놓고 대중 의견을 모으고 있다."
+              },
+              {
+                "t": "p",
+                "x": "IPOPHL 저작권·관련권리국(Bureau of Copyright and Related Rights)의 에머슨 쿠요(Emerson Cuyo) 국장은 이 문제로 공개 협의를 두 차례 열었고 의견과 피드백도 계속 받는 중이라고 말했다. 최종 지침 발표 시점은 구체적으로 밝히지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "그는 예술 작품 전반에 AI 사용이 늘어나는 만큼 필리핀 예술가를 보호하려는 조치라고 설명했다. 지침 초안은 작품을 AI-assisted(AI 보조), AI-enhanced(AI 강화), 하이브리드, 순수 AI-generated(AI 생성)의 네 범주로 나눈다."
+              },
+              {
+                "t": "p",
+                "x": "쿠요(Cuyo)에 따르면 AI 시스템이나 AI 모델 자체는 지식재산법(Intellectual Property Code)상 컴퓨터 프로그램으로 보호받기 때문에 지침은 그 등록도 요구한다. AI를 활용한 작품도 자동으로 등록되지는 않는다."
+              },
+              {
+                "t": "p",
+                "x": "그는 “개인의 충분한 예술적 산출물이 있다는 점이 입증되면 등록하거나 등록을 허용할 수 있다. AI-assisted 콘텐츠나 순수 AI-generated 콘텐츠는 보호되지 않으며, 등록할 때 이를 신고해야 한다”고 덧붙였다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "フィリピンIP庁が\n芸術家向けAI指針案",
+          "body": "IPOPHLは、AIを使った創作物の著作権登録に関する指針案への意見を募っている。",
+          "mini_headline": "フィリピン、AIアート指針案",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://pna.gov.ph/_assets/storage/photo-assets/QcBTy2fJfkOzCUYhLONezB7N9vVmuziA86g2HzxS.webp"
+              },
+              {
+                "t": "p",
+                "x": "MANILA – フィリピン知的財産庁(Intellectual Property Office of the Philippines、IPOPHL)は、人工知能(AI)を使った創作物の著作権登録を目指す指針案について、一般からの意見を集めている。"
+              },
+              {
+                "t": "p",
+                "x": "IPOPHL著作権・関連権局(Bureau of Copyright and Related Rights)のEmerson Cuyo局長によると、この件で二度の公開協議を開き、現在もコメントやフィードバックを受け付けている。最終指針をいつ公表するかについて、具体的な時期は示さなかった。"
+              },
+              {
+                "t": "p",
+                "x": "同氏は、さまざまな美術作品でAIの利用が増えるなか、この措置はフィリピンの芸術家を守るためのものだと説明した。指針案では、AI-assisted(AI支援)、AI-enhanced(AI強化)、ハイブリッド作品、純粋なAI-generated(AI生成)作品の四つの区分が設けられる。"
+              },
+              {
+                "t": "p",
+                "x": "Cuyo氏によると、AIシステムやAIモデルそのものは知的財産法(Intellectual Property Code)上のコンピュータープログラムとして保護されるため、指針はその登録も求めている。また、AIを使った作品の登録は自動的には行えないという。"
+              },
+              {
+                "t": "p",
+                "x": "同氏は「個人による十分な芸術的成果があると証明されれば、登録できる、あるいは登録が認められる。AI-assistedのコンテンツや純粋なAI-generatedのコンテンツは保護されず、登録時にその旨を申告しなければならない」と付け加えた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "菲律宾IP局起草\n面向艺术家的AI指南",
+          "body": "IPOPHL正就借助AI创作的作品版权登记指南草案征求公众意见。",
+          "mini_headline": "菲律宾起草AI艺术规则",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://pna.gov.ph/_assets/storage/photo-assets/QcBTy2fJfkOzCUYhLONezB7N9vVmuziA86g2HzxS.webp"
+              },
+              {
+                "t": "p",
+                "x": "MANILA——菲律宾知识产权局(Intellectual Property Office of the Philippines，IPOPHL)正就一份指南草案征求公众意见，该草案旨在为使用人工智能(AI)的创作作品提供版权登记。"
+              },
+              {
+                "t": "p",
+                "x": "IPOPHL版权及相关权利局(Bureau of Copyright and Related Rights)局长Emerson Cuyo表示，他们已就此举行两次公众咨询，并仍在持续收到意见和反馈。他没有具体说明何时发布最终指南。"
+              },
+              {
+                "t": "p",
+                "x": "他解释说，在各类艺术作品中AI使用日益增多之际，这一措施旨在保护菲律宾艺术家。根据指南草案，作品将分为四类，即AI-assisted(AI辅助)、AI-enhanced(AI增强)、混合作品和纯AI-generated(AI生成)作品。"
+              },
+              {
+                "t": "p",
+                "x": "Cuyo表示，由于AI系统或AI模型本身作为计算机程序受《知识产权法》(Intellectual Property Code)保护，指南也要求对其进行登记，而使用AI的作品不能自动完成登记。"
+              },
+              {
+                "t": "p",
+                "x": "他补充说：“一旦证明其中有个人充分的艺术产出，就可以登记或获准登记。AI-assisted或纯AI-generated内容不受保护，登记时必须对此作出申报。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La oficina de IP de Filipinas\nredacta guía de AI para artistas",
+          "body": "La IPOPHL consulta al público sobre un borrador de guía para el registro de derechos de autor de obras hechas con AI.",
+          "mini_headline": "Filipinas prepara reglas de AI para el arte",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://pna.gov.ph/_assets/storage/photo-assets/QcBTy2fJfkOzCUYhLONezB7N9vVmuziA86g2HzxS.webp"
+              },
+              {
+                "t": "p",
+                "x": "MANILA – La Intellectual Property Office of the Philippines (IPOPHL) recoge las opiniones del público sobre un borrador de guía orientado al registro de derechos de autor de obras creativas en las que se usó inteligencia artificial (AI)."
+              },
+              {
+                "t": "p",
+                "x": "Emerson Cuyo, director del Bureau of Copyright and Related Rights de IPOPHL, dijo que han realizado dos consultas públicas sobre el asunto y que siguen recibiendo comentarios y observaciones. No precisó cuándo prevén publicar la guía definitiva."
+              },
+              {
+                "t": "p",
+                "x": "Explicó que la medida busca proteger a los artistas filipinos ante el creciente uso de AI en diversas obras de arte. Según el borrador, habrá cuatro categorías: AI-assisted (asistida por AI), AI-enhanced (mejorada con AI), obra híbrida y obra puramente AI-generated (generada por AI)."
+              },
+              {
+                "t": "p",
+                "x": "Cuyo dijo que la guía también exige registrar el sistema de AI o el modelo de AI en sí, ya que está protegido como programa informático por el Intellectual Property Code, y que el registro de obras hechas con AI no puede realizarse de forma automática."
+              },
+              {
+                "t": "p",
+                "x": "«Puede registrarse o permitirse su registro una vez que se demuestre que contiene una producción artística personal suficiente de un individuo. El contenido AI-assisted o puramente AI-generated no está protegido, y debe declararse al registrarlo», añadió."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "필리핀 IP 당국,\n예술가 AI 지침 초안",
+          "body": "IPOPHL은 AI로 만든 창작물의 저작권 등록 지침 초안에 의견을 모으고 있다.",
+          "mini_headline": "필리핀, AI 예술 지침 초안",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://pna.gov.ph/_assets/storage/photo-assets/QcBTy2fJfkOzCUYhLONezB7N9vVmuziA86g2HzxS.webp"
+              },
+              {
+                "t": "p",
+                "x": "MANILA – 필리핀 지식재산청(Intellectual Property Office of the Philippines, IPOPHL)이 인공지능(AI)을 활용한 창작물의 저작권 등록을 위한 지침 초안에 대해 대중의 의견을 모으고 있다."
+              },
+              {
+                "t": "p",
+                "x": "IPOPHL 저작권·관련권리국(Bureau of Copyright and Related Rights)의 에머슨 쿠요(Emerson Cuyo) 국장은 이 문제로 두 차례 공개 협의를 열었으며 의견과 피드백을 계속 받고 있다고 말했다. 그는 최종 지침을 언제 발표할지는 구체적으로 밝히지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "그는 여러 예술 작품에 AI 사용이 늘어나는 가운데 이 조치가 필리핀 예술가를 보호하려는 것이라고 설명했다. 지침 초안은 AI-assisted(AI 보조), AI-enhanced(AI 강화), 하이브리드 작품, 순수 AI-generated(AI 생성) 작품의 네 범주를 둔다."
+              },
+              {
+                "t": "p",
+                "x": "쿠요(Cuyo)는 AI 시스템이나 AI 모델 자체가 지식재산법(Intellectual Property Code)상 컴퓨터 프로그램으로 보호받기 때문에 지침은 그 등록도 요구하며, AI를 활용한 작품의 등록은 자동으로 이뤄질 수 없다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "그는 “개인의 충분한 예술적 산출물이 있다는 점이 입증되면 등록하거나 등록을 허용할 수 있다. AI-assisted 콘텐츠나 순수 AI-generated 콘텐츠는 보호되지 않으며, 등록할 때 이를 신고해야 한다”고 덧붙였다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "フィリピンIP庁が\n芸術家向けAI指針案",
+          "body": "IPOPHLは、AIを使った創作物の著作権登録に関する指針案への意見を募っている。",
+          "mini_headline": "フィリピン、AIアート指針案",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://pna.gov.ph/_assets/storage/photo-assets/QcBTy2fJfkOzCUYhLONezB7N9vVmuziA86g2HzxS.webp"
+              },
+              {
+                "t": "p",
+                "x": "MANILA – フィリピン知的財産庁(Intellectual Property Office of the Philippines、IPOPHL)は、人工知能(AI)を使った創作物の著作権登録を目指す指針案について、一般からの意見を集めている。"
+              },
+              {
+                "t": "p",
+                "x": "IPOPHL著作権・関連権局(Bureau of Copyright and Related Rights)のEmerson Cuyo局長によると、この件で二度の公開協議を開き、現在もコメントやフィードバックを受け付けている。最終指針をいつ公表するかについて、具体的な時期は示さなかった。"
+              },
+              {
+                "t": "p",
+                "x": "同氏は、さまざまな美術作品でAIの利用が増えるなか、この措置はフィリピンの芸術家を守るためのものだと説明した。指針案では、AI-assisted(AI支援)、AI-enhanced(AI強化)、ハイブリッド作品、純粋なAI-generated(AI生成)作品の四つの区分が設けられる。"
+              },
+              {
+                "t": "p",
+                "x": "Cuyo氏によると、AIシステムやAIモデルそのものは知的財産法(Intellectual Property Code)上のコンピュータープログラムとして保護されるため、指針はその登録も求めている。また、AIを使った作品の登録は自動的には行えないという。"
+              },
+              {
+                "t": "p",
+                "x": "同氏は「個人による十分な芸術的成果があると証明されれば、登録できる、あるいは登録が認められる。AI-assistedのコンテンツや純粋なAI-generatedのコンテンツは保護されず、登録時にその旨を申告しなければならない」と付け加えた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "菲律宾IP局起草\n面向艺术家的AI指南",
+          "body": "IPOPHL正就借助AI创作的作品版权登记指南草案征求公众意见。",
+          "mini_headline": "菲律宾起草AI艺术规则",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://pna.gov.ph/_assets/storage/photo-assets/QcBTy2fJfkOzCUYhLONezB7N9vVmuziA86g2HzxS.webp"
+              },
+              {
+                "t": "p",
+                "x": "MANILA——菲律宾知识产权局(Intellectual Property Office of the Philippines，IPOPHL)正就一份指南草案征求公众意见，该草案旨在为使用人工智能(AI)的创作作品提供版权登记。"
+              },
+              {
+                "t": "p",
+                "x": "IPOPHL版权及相关权利局(Bureau of Copyright and Related Rights)局长Emerson Cuyo表示，他们已就此举行两次公众咨询，并仍在持续收到意见和反馈。他没有具体说明何时发布最终指南。"
+              },
+              {
+                "t": "p",
+                "x": "他解释说，在各类艺术作品中AI使用日益增多之际，这一措施旨在保护菲律宾艺术家。根据指南草案，作品将分为四类，即AI-assisted(AI辅助)、AI-enhanced(AI增强)、混合作品和纯AI-generated(AI生成)作品。"
+              },
+              {
+                "t": "p",
+                "x": "Cuyo表示，由于AI系统或AI模型本身作为计算机程序受《知识产权法》(Intellectual Property Code)保护，指南也要求对其进行登记，而使用AI的作品不能自动完成登记。"
+              },
+              {
+                "t": "p",
+                "x": "他补充说：“一旦证明其中有个人充分的艺术产出，就可以登记或获准登记。AI-assisted或纯AI-generated内容不受保护，登记时必须对此作出申报。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La oficina de IP de Filipinas\nredacta guía de AI para artistas",
+          "body": "La IPOPHL consulta al público sobre un borrador de guía para el registro de derechos de autor de obras hechas con AI.",
+          "mini_headline": "Filipinas prepara reglas de AI para el arte",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://pna.gov.ph/_assets/storage/photo-assets/QcBTy2fJfkOzCUYhLONezB7N9vVmuziA86g2HzxS.webp"
+              },
+              {
+                "t": "p",
+                "x": "MANILA – La Intellectual Property Office of the Philippines (IPOPHL) recoge las opiniones del público sobre un borrador de guía orientado al registro de derechos de autor de obras creativas en las que se usó inteligencia artificial (AI)."
+              },
+              {
+                "t": "p",
+                "x": "Emerson Cuyo, director del Bureau of Copyright and Related Rights de IPOPHL, dijo que han realizado dos consultas públicas sobre el asunto y que siguen recibiendo comentarios y observaciones. No precisó cuándo prevén publicar la guía definitiva."
+              },
+              {
+                "t": "p",
+                "x": "Explicó que la medida busca proteger a los artistas filipinos ante el creciente uso de AI en diversas obras de arte. Según el borrador, habrá cuatro categorías: AI-assisted (asistida por AI), AI-enhanced (mejorada con AI), obra híbrida y obra puramente AI-generated (generada por AI)."
+              },
+              {
+                "t": "p",
+                "x": "Cuyo dijo que la guía también exige registrar el sistema de AI o el modelo de AI en sí, ya que está protegido como programa informático por el Intellectual Property Code, y que el registro de obras hechas con AI no puede realizarse de forma automática."
+              },
+              {
+                "t": "p",
+                "x": "«Puede registrarse o permitirse su registro una vez que se demuestre que contiene una producción artística personal suficiente de un individuo. El contenido AI-assisted o puramente AI-generated no está protegido, y debe declararse al registrarlo», añadió."
               }
             ]
           }

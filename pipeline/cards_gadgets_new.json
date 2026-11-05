@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-06",
   "section": "gadgets",
   "cards": [
     {
-      "id": "chatgpt-dots-astra-1104",
+      "id": "gadgets-gboard-rambler-learns",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ChatGPT Dots now pick\nthe best model on their own",
-      "body": "With GPT-6 Astra and GPT-6.1 Terra, ChatGPT Dots will automatically pick the best AI model for each task.",
-      "mini_headline": "ChatGPT Dots pick models",
+      "headline": "Gboard's Rambler may learn\nyour words and contact names",
+      "body": "A Gboard beta teardown suggests Rambler dictation may remember contact names and the words you have corrected.",
+      "mini_headline": "Gboard Rambler gets smarter",
       "tool": "Gadgets",
       "source": "Android Authority",
-      "url": "https://www.androidauthority.com/openai-chatgpt-dots-update-3731008/",
+      "url": "https://www.androidauthority.com/gboard-rambler-corrected-words-contacts-apk-teardown-3732028/",
       "accent": "#eb367f",
       "motif": "headset",
       "full": {
@@ -19,11 +19,28 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/ChatGPT-Dots.jpg"
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
+            "cap": "Using Gboard's Rambler on the Pixel 11 Pro."
           },
           {
             "t": "p",
-            "x": "OpenAI is making ChatGPT Dots smarter with GPT-6 Astra and GPT-6.1 Terra, allowing them to automatically pick the best AI model for each task."
+            "x": "The latest beta of the Gboard app includes evidence that suggests Rambler, the Gemini-powered voice typing feature, could soon remember corrected words and names on your contacts list. In its current form, Rambler cannot save any corrections or learn from your vocabulary over time."
+          },
+          {
+            "t": "img",
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Remember-corrected-words-watermarked-scaled.jpg"
+          },
+          {
+            "t": "p",
+            "x": "In version 18.6.3.10 beta, Rambler could get a new Remember corrected words toggle: “Learn and use words you’ve corrected when voice typing with Rambler.” A new Contact names toggle looks at the contacts on your phone to accurately identify names during voice typing."
+          },
+          {
+            "t": "img",
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Voice-Correction-List-Import-Export-watermarked-scaled.jpg"
+          },
+          {
+            "t": "p",
+            "x": "A new Voice correction list shows all corrected words, with Import to manually add words for Rambler to learn and Export to share them. A Clear all collected words button erases every saved correction. Rambler currently remains exclusive to the Pixel 11 series."
           }
         ]
       }

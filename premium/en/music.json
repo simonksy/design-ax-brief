@@ -9799,6 +9799,129 @@
           "x": "Suno also argues the case is doomed by federal “preemption,” saying it “would create a shadow state law IP regime … fundamentally conflicting with the federal regime that has been in place for more than two centuries.”"
         }
       ]
+    },
+    "music/avid-protools-sixstem-split": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/11/Pro-Tools-Stem-hero@2000x1500.jpg",
+          "cap": "Credit: Avid"
+        },
+        {
+          "t": "p",
+          "x": "As a producer, stem separation can be one of the most useful tools in your belt. So the fact Avid just introduced AI stem separation in its Pro Tools 2026.11 will come as a welcome addition for many producers working with the DAW."
+        },
+        {
+          "t": "p",
+          "x": "The new AI stem separation Pro Tools Extension is able to separate any recording into up to six stems: vocals, drums, bass, guitar, keys, and other instruments. Using it is as simple as dragging and dropping the audio file into the window, previewing the stems it will split up, and then sending those back to the main DAW as their own tracks."
+        },
+        {
+          "t": "p",
+          "x": "The new AI Stem Separator is just one of many functions available as part of Pro Tools Extensions. Where plugins work with one track at a time, Extensions can work with the entire session or any number of specific tracks. External companies such as Splice, SoundFlow, Pro Sound Effects, Soundly, Forte, and Pibox have also designed Extensions."
+        },
+        {
+          "t": "p",
+          "x": "“Extensions represent an important step forward, bringing new technologies and innovative capabilities directly into Pro Tools,” says Sam Butler, Vice President, Product Management, Avid."
+        },
+        {
+          "t": "p",
+          "x": "Pro Tools 2026.11 is available now for Pro Tools Artist, Studio, and Ultimate subscribers, perpetual licence holders with an active upgrade plan, and Pro Tools Intro users, including the 30-day trial."
+        }
+      ]
+    },
+    "music/elevenlabs-soundcloud-publish": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675"
+        },
+        {
+          "t": "p",
+          "x": "Audio AI company ElevenLabs on Thursday said users will be able to publish AI-generated music created using its ElevenMusic platform directly on SoundCloud. It is also offering SoundCloud Artist Pro users three months of ElevenMusic Pro, which lets you generate up to 1,000 songs, split songs’ stem files 500 times, and five custom styles or vocals per month."
+        },
+        {
+          "t": "p",
+          "x": "The company first released a music-generation model in 2025, followed in April 2026 by a consumer app, and a month later a model that could switch genres mid-track. ElevenLabs said that users have so far created over 25 million tracks using its models."
+        },
+        {
+          "t": "p",
+          "x": "“By becoming the first platform to bring ElevenMusic creations directly to fans beyond its own ecosystem, we’re opening up new possibilities for artists to experiment, share their work, and build an audience,” SoundCloud CEO Eliah Seton said."
+        },
+        {
+          "t": "p",
+          "x": "Other platforms lean toward labeling or filtering AI music: Deezer is introducing a toggle to filter it out, Bandcamp has banned AI-generated tracks, and Spotify and YouTube have taken a more cautious approach to labeling."
+        }
+      ]
+    },
+    "music/ddex-elevenlabs-membership": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ddex-announces-elevenlabs-as-first-ai-company-to-join-membership.png",
+          "cap": "Photo Credit: DDEX x ElevenLabs"
+        },
+        {
+          "t": "p",
+          "x": "Digital Data Exchange (DDEX), the not-for-profit international standards-setting organization for the music industry, has announced ElevenLabs joining as a full member—the first AI company to do so. DDEX’s membership includes more than 150 companies and individuals in music and technology."
+        },
+        {
+          "t": "p",
+          "x": "“As one of the leading AI companies in the music marketplace, their expertise will provide a plethora of insight,” said Mark Isherwood, DDEX Secretariat. “We’re looking forward to taking part in their plenaries and working groups to help shape their approach to the communication of music, as it relates to AI and more,” said Gabriella Heybourne of ElevenLabs."
+        },
+        {
+          "t": "p",
+          "x": "ElevenLabs joins after DDEX’s AI Working Group held its first physical meeting in Nashville on September 9 and 10. The group has finished soliciting comments on the committee draft of its Generative AI Declaration Standard (GAI-D), which moves to peer review before publication in early 2027."
+        }
+      ]
+    },
+    "music/pianobench-arxiv-benchmark": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Multimodal language models continue to improve on broad music understanding benchmarks, but which musical features can they perceive and reason about? The authors introduce PianoBench, a benchmark that tasks language models with reasoning about musical performances across congruent acoustic and symbolic input representations."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2611.03839v1/pianobench_overview.png",
+          "cap": "Figure 1: PianoBench is derived from PianoTalk, a training-scale (20k hours) dataset of interleaved commentary and music transcripts, which is derived from instructional piano videos."
+        },
+        {
+          "t": "p",
+          "x": "PianoBench is derived from a new multimodal, training-scale dataset comprising more than 20,000 hours of interleaved transcripts of music and spoken musical commentary from instructional piano videos."
+        },
+        {
+          "t": "p",
+          "x": "Open-weight audio-language models achieve at most 52.8% accuracy, only modestly outperforming a no-audio control. Frontier models using chain of thought achieve up to 93.2% when given transcripts of music as text, exposing a gap between perceiving musical features from audio and reasoning about them when given explicitly."
+        },
+        {
+          "t": "p",
+          "x": "Mid-training on interleaved musical instruction raised Qwen 3.5 9B Base's zero-shot accuracy with music transcripts from 42.8% to 56.0% after instruction tuning, suggesting instructional videos may be an overlooked source of multimodal supervision for music."
+        }
+      ]
+    },
+    "music/suno-midi-create-upload": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "You can now start a song on Suno from a MIDI file, by dragging and dropping the file onto the Create page or choosing MIDI from the '+' menu. A MIDI file holds the exact notes and timing of a musical part, so it gives you a much more precise starting point than any other way of creating on Suno."
+        },
+        {
+          "t": "p",
+          "x": "You can decide how closely Suno follows it: ask the model to play your notes exactly as you wrote them, or take a motif from the file and develop it into something new. MIDI contains no sound at all, which makes it different from uploading audio for Remix or Cover — it conveys exact note and timing information for very precise control."
+        },
+        {
+          "t": "p",
+          "x": "Suggested uses: export work-in-progress scores to hear them with high-quality instrumentation (\"Arrange this MIDI for a full orchestra, with strings, brass, woodwinds and percussion\"), let students and band leaders audition compositions, or revive MIDI from old band sessions (\"Transform this MIDI into a string quartet\")."
+        },
+        {
+          "t": "p",
+          "x": "At launch, MIDI uses Simple Create mode with v6-wild. The feature is available to all Pro and Premier subscribers, and Suno plans to expand MIDI capabilities over time."
+        }
+      ]
     }
   }
 }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "section": "movies",
   "cards": [
     {
-      "id": "disney-accelerator-ai-cohort",
+      "id": "instagram-edits-desktop-muse",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Disney 액셀러레이터\nAI에 모두 걸었다",
-      "body": "Disney의 all-AI 기수가 바이브 디렉팅·하이브리드 제작 도구를 선보였다.",
-      "mini_headline": "Disney, AI 스타트업에 베팅",
+      "headline": "인스타 Edits, 맥에\nAI 에이전트 편집 지원",
+      "body": "macOS판 Edits에선 Muse 등 AI 에이전트가 MCP로 영상을 편집한다.",
+      "mini_headline": "Edits, AI 품고 데스크톱으로",
       "tool": "Movies",
-      "source": "TheWrap",
-      "url": "https://www.thewrap.com/industry-news/tech/disney-ai-accelerator-startup-investor/",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,215 +19,185 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelorator.jpg?width=1200&height=675&fit=bounds",
-            "cap": "(사진: Disney)"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-timeline-1.jpg?quality=90&strip=all&w=2400",
+            "cap": "Instagram 데스크톱 Edits 앱 홍보용 스크린숏"
           },
           {
             "t": "p",
-            "x": "최첨단 스타트업에 투자하는 Disney의 프로그램 Disney Accelerator의 데모데이(Demo Day) 주제는 단연 AI였다. 올해 최신 기수는 다섯 개 기업이다. 스타트업들은 15주 동안 Disney와 함께하며 주로 테마파크에 초점을 맞춘다. Disney의 기업 혁신 담당 VP David Min은 “이 기술이 우리가 가진 워크플로에 들어맞는지 살펴보고 있으며, 그래서 그 과정 내내 아티스트가 함께한다”고 말했다."
+            "x": "Instagram의 독립형 영상 편집 앱 Edits가 macOS에 나왔다. 원하는 AI 에이전트를 붙여 영상을 짤 수도 있다. Edits 제품 관리 책임자 Matthew Simari는 The Verge에 이렇게 말했다. “Edits Desktop과 함께 내놓는 것 중 하나가 Edits Desktop 안의 모든 도구를 위한 MCP입니다. 원하는 어떤 에이전트든 쓸 수 있습니다. Muse를 써도 되고, 저희로선 그러길 바라지만, 사실 [여러분이] 고른 어떤 에이전트로든 영상을 편집하고 다듬고 작업할 수 있습니다.”"
+          },
+          {
+            "t": "p",
+            "x": "Simari는 사용자가 “에이전트 편집과 수동 편집을 오갈 수 있다”고 말했다. 크리에이터가 Meta의 Muse 에이전트에게 Edits MCP로 다운로드 폴더 속 영상의 러프 컷을 맡긴 뒤 그 프로젝트 파일을 Edits에서 열어 이어서 손보는 식이다. Instagram은 9월 모바일판 Edits에 AI “크리에이티브 어시스턴트”를 추가했다."
           },
           {
             "t": "img",
-            "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelerator-2026-Cohort.jpg?width=1024&height=683&fit=bounds",
-            "cap": "2026 Disney Accelerator 기수와 Disney 임원 Bonnie Rosen, David Min(가운데) (사진: Disney)"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-color-grading-1.jpg?quality=90&strip=all&w=2400",
+            "cap": "데스크톱 앱은 색 보정 도구가 더 정교하다."
           },
           {
             "t": "p",
-            "x": "Promise Advanced Imagination은 AI-native 스튜디오다. 운영체제 MUSE로 그레이박스 스튜디오를 활용한 하이브리드 영화 제작을 지원한다. AI가 배경과 박스를 거의 실시간으로 디지털 배경과 소품으로 채우는 방식이다. Doug Liman의 “Bitcoin: Killing Satoshi”가 그레이박스 AI 촬영의 첫 사례였다. OpenArt는 누구나 간단한 프롬프트로 생성형 AI 짧은 영상을 만들게 해 준다. CEO Coco Mao는 이런 대화형 지시를 영상을 ‘바이브 디렉팅(vibe directing)’하는 일이라고 불렀다."
-          },
-          {
-            "t": "p",
-            "x": "FieldAI와 Physical Intelligence는 로봇에 AI를 접목했다. Simile는 실제 사람의 디지털 트윈으로 만든 합성 군중으로 가상 포커스 그룹 테스트를 한다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.thewrap.com/wp-content/uploads/2026/11/FieldAI-Disney-Accelerator-Demo-Day.jpg?width=683&height=1024&fit=bounds",
-            "cap": "FieldAI의 지능과 Boston Dynamics 로봇 시연 (사진: Disney)"
+            "x": "데스크톱판은 완전한 멀티트랙 타임라인, 정밀한 오디오 파형, 색 보정 도구, 키보드 단축키를 갖췄고 워터마크 없는 4K 내보내기와 여러 화면비도 지원한다. 당분간은 macOS 전용(macOS-only)이며, 모바일과 데스크톱을 오가며 한 프로젝트를 편집하는 기능은 아직 없다. Meta는 앱을 매주 업데이트할 계획이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Disney's accelerator\ngoes all-in on AI",
-          "body": "Disney's all-AI accelerator cohort, including Promise and OpenArt, showed vibe directing and hybrid filmmaking tools.",
-          "mini_headline": "Disney bets on AI startups",
+          "headline": "Instagram Edits arrives on\ndesktop with AI agents",
+          "body": "Instagram's Edits comes to macOS with a multi-track timeline and an MCP that lets AI agents such as Muse edit videos.",
+          "mini_headline": "Edits goes desktop with AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelorator.jpg?width=1200&height=675&fit=bounds",
-                "cap": "(Credit: Disney)"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-timeline-1.jpg?quality=90&strip=all&w=2400",
+                "cap": "A promotional screenshot for Instagram’s desktop Edits app"
               },
               {
                 "t": "p",
-                "x": "At Demo Day for Disney Accelerator, its program to invest in cutting-edge startups, AI was the predominant theme. This year five companies made up the latest cohort; the startups spend 15 weeks with Disney, with much of the focus on theme parks. “We’re working with the technology to see if it can fit into workflows that we have, so we have the artist involved along the way,” said David Min, VP of corporate innovation at Disney."
+                "x": "Instagram’s standalone video editing app Edits is now available on macOS, where you can plug in your AI agent of choice to assemble your videos. Matthew Simari, head of product management for Edits, told The Verge: “One of the things we’re releasing with Edits Desktop is a MCP for all the tools within Edits Desktop. You can use any agent you want, you can use Muse — we would love you to — but really any agent you want of [your] choice, to edit, tweak, work with your video.”"
+              },
+              {
+                "t": "p",
+                "x": "Simari said users can “go back and forth from agentic to manual editing.” A creator could ask Meta’s Muse agent to use the Edits MCP to make a rough cut of a video in their downloads folder, then open that project file in Edits to continue editing. Instagram added an AI “creative assistant” to the mobile version of Edits in September."
               },
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelerator-2026-Cohort.jpg?width=1024&height=683&fit=bounds",
-                "cap": "The 2026 Disney Accelerator cohort with Disney executives Bonnie Rosen and David Min (center) (Credit: Disney)"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-color-grading-1.jpg?quality=90&strip=all&w=2400",
+                "cap": "The desktop app has more advanced color grading tools."
               },
               {
                 "t": "p",
-                "x": "Promise Advanced Imagination is an AI-native studio whose operating system, MUSE, allows for hybrid filmmaking using a gray box studio: AI fills the background and boxes with digital scenery and props in near-real time. Doug Liman’s “Bitcoin: Killing Satoshi” was the first example of a gray-box AI shoot. OpenArt lets anyone write simple prompts for generative AI to create short videos; CEO Coco Mao called the conversational instructions “vibe directing” a video."
-              },
-              {
-                "t": "p",
-                "x": "FieldAI and Physical Intelligence brought AI to robots, and Simile runs virtual focus group tests with synthetic crowds of digital twins of real people."
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/FieldAI-Disney-Accelerator-Demo-Day.jpg?width=683&height=1024&fit=bounds",
-                "cap": "A demonstration of FieldAI’s intelligence and a Boston Dynamics robot (Credit: Disney)"
+                "x": "The desktop version also has a full multi-track timeline, precise audio waveforms, color grading tools and keyboard shortcuts, plus watermark-free 4K exports and support for multiple aspect ratios. It is macOS-only for now, and projects can’t yet be edited across mobile and desktop; Meta plans to update the app weekly."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Disney 액셀러레이터\nAI에 모두 걸었다",
-          "body": "Disney의 all-AI 기수가 바이브 디렉팅·하이브리드 제작 도구를 선보였다.",
-          "mini_headline": "Disney, AI 스타트업에 베팅",
+          "headline": "인스타 Edits, 맥에\nAI 에이전트 편집 지원",
+          "body": "macOS판 Edits에선 Muse 등 AI 에이전트가 MCP로 영상을 편집한다.",
+          "mini_headline": "Edits, AI 품고 데스크톱으로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelorator.jpg?width=1200&height=675&fit=bounds",
-                "cap": "(사진: Disney)"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-timeline-1.jpg?quality=90&strip=all&w=2400",
+                "cap": "Instagram 데스크톱 Edits 앱 홍보용 스크린숏"
               },
               {
                 "t": "p",
-                "x": "최첨단 스타트업에 투자하는 Disney의 프로그램 Disney Accelerator의 데모데이(Demo Day) 주제는 단연 AI였다. 올해 최신 기수는 다섯 개 기업이다. 스타트업들은 15주 동안 Disney와 함께하며 주로 테마파크에 초점을 맞춘다. Disney의 기업 혁신 담당 VP David Min은 “이 기술이 우리가 가진 워크플로에 들어맞는지 살펴보고 있으며, 그래서 그 과정 내내 아티스트가 함께한다”고 말했다."
+                "x": "Instagram의 독립형 영상 편집 앱 Edits가 macOS에 나왔다. 원하는 AI 에이전트를 붙여 영상을 짤 수도 있다. Edits 제품 관리 책임자 Matthew Simari는 The Verge에 이렇게 말했다. “Edits Desktop과 함께 내놓는 것 중 하나가 Edits Desktop 안의 모든 도구를 위한 MCP입니다. 원하는 어떤 에이전트든 쓸 수 있습니다. Muse를 써도 되고, 저희로선 그러길 바라지만, 사실 [여러분이] 고른 어떤 에이전트로든 영상을 편집하고 다듬고 작업할 수 있습니다.”"
+              },
+              {
+                "t": "p",
+                "x": "Simari는 사용자가 “에이전트 편집과 수동 편집을 오갈 수 있다”고 말했다. 크리에이터가 Meta의 Muse 에이전트에게 Edits MCP로 다운로드 폴더 속 영상의 러프 컷을 맡긴 뒤 그 프로젝트 파일을 Edits에서 열어 이어서 손보는 식이다. Instagram은 9월 모바일판 Edits에 AI “크리에이티브 어시스턴트”를 추가했다."
               },
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelerator-2026-Cohort.jpg?width=1024&height=683&fit=bounds",
-                "cap": "2026 Disney Accelerator 기수와 Disney 임원 Bonnie Rosen, David Min(가운데) (사진: Disney)"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-color-grading-1.jpg?quality=90&strip=all&w=2400",
+                "cap": "데스크톱 앱은 색 보정 도구가 더 정교하다."
               },
               {
                 "t": "p",
-                "x": "Promise Advanced Imagination은 AI-native 스튜디오다. 운영체제 MUSE로 그레이박스 스튜디오를 활용한 하이브리드 영화 제작을 지원한다. AI가 배경과 박스를 거의 실시간으로 디지털 배경과 소품으로 채우는 방식이다. Doug Liman의 “Bitcoin: Killing Satoshi”가 그레이박스 AI 촬영의 첫 사례였다. OpenArt는 누구나 간단한 프롬프트로 생성형 AI 짧은 영상을 만들게 해 준다. CEO Coco Mao는 이런 대화형 지시를 영상을 ‘바이브 디렉팅(vibe directing)’하는 일이라고 불렀다."
-              },
-              {
-                "t": "p",
-                "x": "FieldAI와 Physical Intelligence는 로봇에 AI를 접목했다. Simile는 실제 사람의 디지털 트윈으로 만든 합성 군중으로 가상 포커스 그룹 테스트를 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/FieldAI-Disney-Accelerator-Demo-Day.jpg?width=683&height=1024&fit=bounds",
-                "cap": "FieldAI의 지능과 Boston Dynamics 로봇 시연 (사진: Disney)"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Disneyの起業支援\nAIに全振り",
-          "body": "Disneyのall-AI育成枠がバイブディレクティングやハイブリッド制作ツールを示した。",
-          "mini_headline": "DisneyがAIスタートアップに賭ける",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelorator.jpg?width=1200&height=675&fit=bounds",
-                "cap": "(写真: Disney)"
-              },
-              {
-                "t": "p",
-                "x": "最先端のスタートアップに投資するDisneyのプログラム、Disney Acceleratorのデモデー(Demo Day)では、AIが中心的なテーマだった。今年の最新の育成枠は5社で構成され、スタートアップは15週間Disneyと共に過ごし、その多くはテーマパークに焦点を当てる。Disneyのコーポレート・イノベーション担当VP、David Minは「この技術が我々の既存のワークフローに合うかを見極めており、その過程には常にアーティストが関わっている」と語った。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelerator-2026-Cohort.jpg?width=1024&height=683&fit=bounds",
-                "cap": "2026年のDisney Accelerator育成枠とDisney幹部のBonnie Rosen、David Min(中央) (写真: Disney)"
-              },
-              {
-                "t": "p",
-                "x": "Promise Advanced ImaginationはAI-nativeのスタジオで、そのオペレーティングシステムMUSEはグレーボックス・スタジオを使ったハイブリッドな映画制作を可能にする。AIが背景とボックスをデジタルの風景や小道具でほぼリアルタイムに埋めていく。Doug Limanの「Bitcoin: Killing Satoshi」は、グレーボックスによるAI撮影の最初の例だった。OpenArtは誰でも簡単なプロンプトを書いて生成AIで短い動画を作れるようにする。CEOのCoco Maoは、こうした対話形式の指示を動画の「バイブディレクティング(vibe directing)」と呼んだ。"
-              },
-              {
-                "t": "p",
-                "x": "FieldAIとPhysical IntelligenceはロボットにAIを持ち込み、Simileは実在の人々のデジタルツインから成る合成群衆を使って仮想フォーカスグループのテストを行う。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/FieldAI-Disney-Accelerator-Demo-Day.jpg?width=683&height=1024&fit=bounds",
-                "cap": "FieldAIの知能とBoston Dynamicsのロボットのデモ (写真: Disney)"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Disney加速器\n全力押注AI",
-          "body": "Disney的all-AI加速器批次展示了“氛围导演”与混合制片工具。",
-          "mini_headline": "Disney押注AI初创公司",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelorator.jpg?width=1200&height=675&fit=bounds",
-                "cap": "(图片来源：Disney)"
-              },
-              {
-                "t": "p",
-                "x": "在投资前沿初创公司的Disney Accelerator项目演示日(Demo Day)上，AI是压倒性的主题。今年最新一批共有五家公司，这些初创公司将与Disney共处15周，重点多放在主题公园上。Disney企业创新VP David Min表示：“我们正在用这项技术，看它能否融入我们现有的工作流程，因此整个过程中都有艺术家参与。”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelerator-2026-Cohort.jpg?width=1024&height=683&fit=bounds",
-                "cap": "2026年Disney Accelerator批次与Disney高管Bonnie Rosen和David Min(中) (图片来源：Disney)"
-              },
-              {
-                "t": "p",
-                "x": "Promise Advanced Imagination是一家AI-native工作室，其操作系统MUSE借助灰盒工作室实现混合制片：AI以近乎实时的速度用数字场景和道具填充背景与盒体。Doug Liman的《Bitcoin: Killing Satoshi》是首个灰盒AI拍摄案例。OpenArt让任何人都能写下简单提示词，用生成式AI制作短视频；CEO Coco Mao把这种对话式指令称为对视频进行“氛围导演”(vibe directing)。"
-              },
-              {
-                "t": "p",
-                "x": "FieldAI和Physical Intelligence把AI带进了机器人，Simile则用由真人数字孪生组成的合成人群开展虚拟焦点小组测试。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/FieldAI-Disney-Accelerator-Demo-Day.jpg?width=683&height=1024&fit=bounds",
-                "cap": "FieldAI的智能与一台Boston Dynamics机器人的演示 (图片来源：Disney)"
+                "x": "데스크톱판은 완전한 멀티트랙 타임라인, 정밀한 오디오 파형, 색 보정 도구, 키보드 단축키를 갖췄고 워터마크 없는 4K 내보내기와 여러 화면비도 지원한다. 당분간은 macOS 전용(macOS-only)이며, 모바일과 데스크톱을 오가며 한 프로젝트를 편집하는 기능은 아직 없다. Meta는 앱을 매주 업데이트할 계획이다."
               }
             ]
           }
         },
         "es": {
-          "headline": "La aceleradora de Disney\napuesta todo por la IA",
-          "body": "La cohorte all-AI de Disney, con Promise y OpenArt, mostró herramientas de vibe directing y cine híbrido.",
-          "mini_headline": "Disney apuesta por startups de IA",
+          "headline": "Instagram Edits llega al\nescritorio con agentes de AI",
+          "body": "Instagram Edits llega a macOS con línea de tiempo multipista y un MCP para que agentes de AI como Muse editen videos.",
+          "mini_headline": "Edits llega al escritorio con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelorator.jpg?width=1200&height=675&fit=bounds",
-                "cap": "(Crédito: Disney)"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-timeline-1.jpg?quality=90&strip=all&w=2400",
+                "cap": "Captura promocional de la app de escritorio Edits de Instagram"
               },
               {
                 "t": "p",
-                "x": "En el Demo Day de Disney Accelerator, su programa para invertir en startups de vanguardia, la IA fue el tema predominante. Este año, cinco empresas formaron la cohorte más reciente; las startups pasan 15 semanas con Disney, con gran parte del foco en los parques temáticos. “Estamos trabajando con la tecnología para ver si encaja en los flujos de trabajo que tenemos, así que el artista participa en todo el proceso”, dijo David Min, VP de innovación corporativa de Disney."
+                "x": "Edits, la app independiente de edición de video de Instagram, ya está disponible en macOS, donde se puede conectar el agente de AI que cada uno prefiera para montar sus videos. Matthew Simari, responsable de gestión de producto de Edits, dijo a The Verge: “Una de las cosas que lanzamos con Edits Desktop es un MCP para todas las herramientas de Edits Desktop. Puedes usar cualquier agente que quieras, puedes usar Muse —nos encantaría que lo hicieras—, pero en realidad cualquier agente de [tu] elección, para editar, ajustar y trabajar con tu video”."
+              },
+              {
+                "t": "p",
+                "x": "Simari afirmó que los usuarios pueden “alternar entre la edición agéntica y la manual”. Un creador podría pedir al agente Muse de Meta que use el Edits MCP para hacer un primer montaje de un video de su carpeta de descargas y luego abrir ese archivo de proyecto en Edits para seguir editando. Instagram añadió un “asistente creativo” de AI a la versión móvil de Edits en septiembre."
               },
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelerator-2026-Cohort.jpg?width=1024&height=683&fit=bounds",
-                "cap": "La cohorte 2026 de Disney Accelerator con los ejecutivos de Disney Bonnie Rosen y David Min (centro) (Crédito: Disney)"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-color-grading-1.jpg?quality=90&strip=all&w=2400",
+                "cap": "La app de escritorio tiene herramientas de etalonaje más avanzadas."
               },
               {
                 "t": "p",
-                "x": "Promise Advanced Imagination es un estudio AI-native cuyo sistema operativo, MUSE, permite el cine híbrido mediante un estudio de caja gris: la IA rellena el fondo y las cajas con escenografía y utilería digitales casi en tiempo real. “Bitcoin: Killing Satoshi”, de Doug Liman, fue el primer ejemplo de un rodaje con IA en caja gris. OpenArt permite que cualquiera escriba indicaciones sencillas para que la IA generativa cree videos cortos; su CEO, Coco Mao, llamó a esas instrucciones conversacionales hacer “vibe directing” de un video."
+                "x": "La versión de escritorio también ofrece una línea de tiempo multipista completa, formas de onda de audio precisas, herramientas de etalonaje y atajos de teclado, además de exportaciones en 4K sin marca de agua y compatibilidad con varias relaciones de aspecto. Por ahora es solo para macOS (macOS-only) y los proyectos aún no pueden editarse entre el móvil y el escritorio; Meta prevé actualizar la app cada semana."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Edits、デスクトップに\nAIエージェント対応",
+          "body": "InstagramのEditsがmacOSに登場し、MuseらAIがMCPで編集する。",
+          "mini_headline": "Edits、AI連携でデスクトップへ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-timeline-1.jpg?quality=90&strip=all&w=2400",
+                "cap": "InstagramのデスクトップEditsアプリのプロモーション用スクリーンショット"
               },
               {
                 "t": "p",
-                "x": "FieldAI y Physical Intelligence llevaron la IA a los robots, y Simile realiza pruebas virtuales de grupos focales con multitudes sintéticas de gemelos digitales de personas reales."
+                "x": "Instagramの単体動画編集アプリEditsがmacOSで利用可能になり、好みのAIエージェントを接続して動画を組み立てられるようになった。Editsのプロダクトマネジメント責任者Matthew SimariはThe Vergeにこう語った。「Edits Desktopとともにリリースするもののひとつが、Edits Desktop内のすべてのツールに対応するMCPだ。どんなエージェントでも使える。Museを使ってもいい――ぜひそうしてほしい――が、実際には好きなエージェントを選んで、動画の編集や微調整、作業ができる」"
+              },
+              {
+                "t": "p",
+                "x": "Simariによれば、ユーザーは「エージェントによる編集と手動編集を行き来できる」。たとえばクリエイターはMetaのMuseエージェントにEdits MCPを使わせ、ダウンロードフォルダ内の動画のラフカットを作らせたうえで、そのプロジェクトファイルをEditsで開いて編集を続けられる。Instagramは9月、Editsのモバイル版にAIの「クリエイティブアシスタント」を追加していた。"
               },
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/FieldAI-Disney-Accelerator-Demo-Day.jpg?width=683&height=1024&fit=bounds",
-                "cap": "Una demostración de la inteligencia de FieldAI y un robot de Boston Dynamics (Crédito: Disney)"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-color-grading-1.jpg?quality=90&strip=all&w=2400",
+                "cap": "デスクトップアプリには、より高度なカラーグレーディングツールが備わる。"
+              },
+              {
+                "t": "p",
+                "x": "デスクトップ版はフルのマルチトラック（multi-track）タイムライン、精密なオーディオ波形、カラーグレーディングツール、キーボードショートカットを備え、透かしなしの4K 書き出しと複数のアスペクト比にも対応する。現時点ではmacOS-only（macOS 専用）で、モバイルとデスクトップをまたいだプロジェクト編集はまだできない。Metaはアプリを毎週更新する予定だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Edits登陆桌面端\n引入AI智能体",
+          "body": "Instagram的Edits登陆macOS，Muse等AI智能体可借MCP剪辑视频。",
+          "mini_headline": "Edits携AI登陆桌面",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-timeline-1.jpg?quality=90&strip=all&w=2400",
+                "cap": "Instagram桌面版Edits应用的宣传截图"
+              },
+              {
+                "t": "p",
+                "x": "Instagram旗下独立视频剪辑应用Edits现已登陆macOS，用户可以接入自己选择的AI智能体来组装视频。Edits产品管理负责人Matthew Simari对The Verge表示：“我们随Edits Desktop一同发布的内容之一，是覆盖Edits Desktop内所有工具的MCP。你可以使用任何想用的智能体，可以用Muse——我们很希望你用——但实际上任何你自己选择的智能体都可以，用来剪辑、微调、处理你的视频。”"
+              },
+              {
+                "t": "p",
+                "x": "Simari说，用户可以“在智能体剪辑与手动剪辑之间来回切换”。例如，创作者可以让Meta的Muse智能体使用Edits MCP，为下载文件夹中的视频制作粗剪，然后在Edits中打开该项目文件继续剪辑。Instagram已于9月为移动版Edits加入了AI“创意助手”。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-color-grading-1.jpg?quality=90&strip=all&w=2400",
+                "cap": "桌面应用拥有更高级的调色工具。"
+              },
+              {
+                "t": "p",
+                "x": "桌面版还提供完整的多轨（multi-track）时间线、精确的音频波形、调色工具和键盘快捷键，并支持无水印4K 导出和多种画面比例。目前为macOS-only（仅限 macOS），项目暂时无法在移动端与桌面端之间跨端编辑；Meta计划每周更新该应用。"
               }
             ]
           }
@@ -235,149 +205,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Disney 액셀러레이터\nAI에 모두 걸었다",
-          "body": "Disney의 all-AI 기수가 바이브 디렉팅·하이브리드 제작 도구를 선보였다.",
-          "mini_headline": "Disney, AI 스타트업에 베팅",
+          "headline": "인스타 Edits, 맥에\nAI 에이전트 편집 지원",
+          "body": "macOS판 Edits에선 Muse 등 AI 에이전트가 MCP로 영상을 편집한다.",
+          "mini_headline": "Edits, AI 품고 데스크톱으로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelorator.jpg?width=1200&height=675&fit=bounds",
-                "cap": "(사진: Disney)"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-timeline-1.jpg?quality=90&strip=all&w=2400",
+                "cap": "Instagram 데스크톱 Edits 앱 홍보용 스크린숏"
               },
               {
                 "t": "p",
-                "x": "최첨단 스타트업에 투자하는 Disney의 프로그램 Disney Accelerator의 데모데이(Demo Day)에서는 AI가 단연 주된 주제였다. 올해 최신 기수는 다섯 개 기업으로 꾸려졌고, 스타트업들은 15주 동안 Disney와 함께하며 주로 테마파크에 초점을 맞춘다. Disney의 기업 혁신 담당 VP인 David Min은 “이 기술이 우리가 가진 워크플로에 들어맞는지 살펴보고 있으며, 그래서 그 과정 내내 아티스트가 함께한다”고 말했다."
+                "x": "Instagram의 독립형 영상 편집 앱 Edits가 macOS에 나왔다. 원하는 AI 에이전트를 연결해 영상을 구성할 수 있다. Edits 제품 관리 책임자 Matthew Simari는 The Verge에 이렇게 말했다. “Edits Desktop과 함께 내놓는 것 중 하나가 Edits Desktop 안의 모든 도구를 위한 MCP입니다. 원하는 어떤 에이전트든 쓸 수 있습니다. Muse를 써도 되고, 저희로선 그러길 바라지만, 사실 [여러분이] 고른 어떤 에이전트로든 영상을 편집하고 다듬고 작업할 수 있습니다.”"
+              },
+              {
+                "t": "p",
+                "x": "Simari는 사용자가 “에이전트 편집과 수동 편집을 오갈 수 있다”고 말했다. 예컨대 크리에이터가 Meta의 Muse 에이전트에게 Edits MCP로 다운로드 폴더 속 영상의 러프 컷을 만들어 달라고 한 뒤, 그 프로젝트 파일을 Edits에서 열어 편집을 이어갈 수 있다. Instagram은 9월 모바일판 Edits에 AI “크리에이티브 어시스턴트”를 추가했다."
               },
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelerator-2026-Cohort.jpg?width=1024&height=683&fit=bounds",
-                "cap": "2026 Disney Accelerator 기수와 Disney 임원 Bonnie Rosen, David Min(가운데) (사진: Disney)"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-color-grading-1.jpg?quality=90&strip=all&w=2400",
+                "cap": "데스크톱 앱에는 더 정교한 색 보정 도구가 있다."
               },
               {
                 "t": "p",
-                "x": "Promise Advanced Imagination은 AI-native 스튜디오로, 운영체제 MUSE를 통해 그레이박스 스튜디오를 활용한 하이브리드 영화 제작을 가능하게 한다. AI가 배경과 박스를 디지털 배경과 소품으로 거의 실시간에 채우는 방식이다. Doug Liman의 “Bitcoin: Killing Satoshi”는 그레이박스 AI 촬영의 첫 사례였다. OpenArt는 누구나 간단한 프롬프트를 써서 생성형 AI로 짧은 영상을 만들 수 있게 한다. CEO Coco Mao는 이런 대화형 지시를 영상을 ‘바이브 디렉팅(vibe directing)’하는 일이라고 불렀다."
-              },
-              {
-                "t": "p",
-                "x": "FieldAI와 Physical Intelligence는 로봇에 AI를 접목했고, Simile는 실제 사람의 디지털 트윈으로 구성한 합성 군중으로 가상 포커스 그룹 테스트를 진행한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/FieldAI-Disney-Accelerator-Demo-Day.jpg?width=683&height=1024&fit=bounds",
-                "cap": "FieldAI의 지능과 Boston Dynamics 로봇 시연 (사진: Disney)"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Disneyの起業支援\nAIに全振り",
-          "body": "Disneyのall-AI育成枠がバイブディレクティングやハイブリッド制作ツールを示した。",
-          "mini_headline": "DisneyがAIスタートアップに賭ける",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelorator.jpg?width=1200&height=675&fit=bounds",
-                "cap": "(写真: Disney)"
-              },
-              {
-                "t": "p",
-                "x": "最先端のスタートアップに投資するDisneyのプログラム、Disney Acceleratorのデモデー(Demo Day)では、AIが中心的なテーマだった。今年の最新の育成枠は5社で構成され、スタートアップは15週間Disneyと共に過ごし、その多くはテーマパークに焦点を当てる。Disneyのコーポレート・イノベーション担当VP、David Minは「この技術が我々の既存のワークフローに合うかを見極めており、その過程には常にアーティストが関わっている」と語った。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelerator-2026-Cohort.jpg?width=1024&height=683&fit=bounds",
-                "cap": "2026年のDisney Accelerator育成枠とDisney幹部のBonnie Rosen、David Min(中央) (写真: Disney)"
-              },
-              {
-                "t": "p",
-                "x": "Promise Advanced ImaginationはAI-nativeのスタジオで、そのオペレーティングシステムMUSEはグレーボックス・スタジオを使ったハイブリッドな映画制作を可能にする。AIが背景とボックスをデジタルの風景や小道具でほぼリアルタイムに埋めていく。Doug Limanの「Bitcoin: Killing Satoshi」は、グレーボックスによるAI撮影の最初の例だった。OpenArtは誰でも簡単なプロンプトを書いて生成AIで短い動画を作れるようにする。CEOのCoco Maoは、こうした対話形式の指示を動画の「バイブディレクティング(vibe directing)」と呼んだ。"
-              },
-              {
-                "t": "p",
-                "x": "FieldAIとPhysical IntelligenceはロボットにAIを持ち込み、Simileは実在の人々のデジタルツインから成る合成群衆を使って仮想フォーカスグループのテストを行う。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/FieldAI-Disney-Accelerator-Demo-Day.jpg?width=683&height=1024&fit=bounds",
-                "cap": "FieldAIの知能とBoston Dynamicsのロボットのデモ (写真: Disney)"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Disney加速器\n全力押注AI",
-          "body": "Disney的all-AI加速器批次展示了“氛围导演”与混合制片工具。",
-          "mini_headline": "Disney押注AI初创公司",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelorator.jpg?width=1200&height=675&fit=bounds",
-                "cap": "(图片来源：Disney)"
-              },
-              {
-                "t": "p",
-                "x": "在投资前沿初创公司的Disney Accelerator项目演示日(Demo Day)上，AI是压倒性的主题。今年最新一批共有五家公司，这些初创公司将与Disney共处15周，重点多放在主题公园上。Disney企业创新VP David Min表示：“我们正在用这项技术，看它能否融入我们现有的工作流程，因此整个过程中都有艺术家参与。”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelerator-2026-Cohort.jpg?width=1024&height=683&fit=bounds",
-                "cap": "2026年Disney Accelerator批次与Disney高管Bonnie Rosen和David Min(中) (图片来源：Disney)"
-              },
-              {
-                "t": "p",
-                "x": "Promise Advanced Imagination是一家AI-native工作室，其操作系统MUSE借助灰盒工作室实现混合制片：AI以近乎实时的速度用数字场景和道具填充背景与盒体。Doug Liman的《Bitcoin: Killing Satoshi》是首个灰盒AI拍摄案例。OpenArt让任何人都能写下简单提示词，用生成式AI制作短视频；CEO Coco Mao把这种对话式指令称为对视频进行“氛围导演”(vibe directing)。"
-              },
-              {
-                "t": "p",
-                "x": "FieldAI和Physical Intelligence把AI带进了机器人，Simile则用由真人数字孪生组成的合成人群开展虚拟焦点小组测试。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/FieldAI-Disney-Accelerator-Demo-Day.jpg?width=683&height=1024&fit=bounds",
-                "cap": "FieldAI的智能与一台Boston Dynamics机器人的演示 (图片来源：Disney)"
+                "x": "데스크톱판은 완전한 멀티트랙 타임라인, 정밀한 오디오 파형, 색 보정 도구, 키보드 단축키를 갖췄고 워터마크 없는 4K 내보내기와 여러 화면비도 지원한다. 당분간은 macOS 전용(macOS-only)이며, 모바일과 데스크톱을 오가며 프로젝트를 편집할 수는 아직 없다. Meta는 앱을 매주 업데이트할 계획이다."
               }
             ]
           }
         },
         "es": {
-          "headline": "La aceleradora de Disney\napuesta todo por la IA",
-          "body": "La cohorte all-AI de Disney, con Promise y OpenArt, mostró herramientas de vibe directing y cine híbrido.",
-          "mini_headline": "Disney apuesta por startups de IA",
+          "headline": "Instagram Edits llega al\nescritorio con agentes de AI",
+          "body": "Instagram Edits llega a macOS con línea de tiempo multipista y un MCP para que agentes de AI como Muse editen videos.",
+          "mini_headline": "Edits llega al escritorio con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelorator.jpg?width=1200&height=675&fit=bounds",
-                "cap": "(Crédito: Disney)"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-timeline-1.jpg?quality=90&strip=all&w=2400",
+                "cap": "Captura promocional de la app de escritorio Edits de Instagram"
               },
               {
                 "t": "p",
-                "x": "En el Demo Day de Disney Accelerator, su programa para invertir en startups de vanguardia, la IA fue el tema predominante. Este año, cinco empresas formaron la cohorte más reciente; las startups pasan 15 semanas con Disney, con gran parte del foco en los parques temáticos. “Estamos trabajando con la tecnología para ver si encaja en los flujos de trabajo que tenemos, así que el artista participa en todo el proceso”, dijo David Min, VP de innovación corporativa de Disney."
+                "x": "Edits, la app independiente de edición de video de Instagram, ya está disponible en macOS, donde se puede conectar el agente de AI que cada uno prefiera para montar sus videos. Matthew Simari, responsable de gestión de producto de Edits, dijo a The Verge: “Una de las cosas que lanzamos con Edits Desktop es un MCP para todas las herramientas de Edits Desktop. Puedes usar cualquier agente que quieras, puedes usar Muse —nos encantaría que lo hicieras—, pero en realidad cualquier agente de [tu] elección, para editar, ajustar y trabajar con tu video”."
+              },
+              {
+                "t": "p",
+                "x": "Simari afirmó que los usuarios pueden “alternar entre la edición agéntica y la manual”. Un creador podría pedir al agente Muse de Meta que use el Edits MCP para hacer un primer montaje de un video de su carpeta de descargas y luego abrir ese archivo de proyecto en Edits para seguir editando. Instagram añadió un “asistente creativo” de AI a la versión móvil de Edits en septiembre."
               },
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelerator-2026-Cohort.jpg?width=1024&height=683&fit=bounds",
-                "cap": "La cohorte 2026 de Disney Accelerator con los ejecutivos de Disney Bonnie Rosen y David Min (centro) (Crédito: Disney)"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-color-grading-1.jpg?quality=90&strip=all&w=2400",
+                "cap": "La app de escritorio tiene herramientas de etalonaje más avanzadas."
               },
               {
                 "t": "p",
-                "x": "Promise Advanced Imagination es un estudio AI-native cuyo sistema operativo, MUSE, permite el cine híbrido mediante un estudio de caja gris: la IA rellena el fondo y las cajas con escenografía y utilería digitales casi en tiempo real. “Bitcoin: Killing Satoshi”, de Doug Liman, fue el primer ejemplo de un rodaje con IA en caja gris. OpenArt permite que cualquiera escriba indicaciones sencillas para que la IA generativa cree videos cortos; su CEO, Coco Mao, llamó a esas instrucciones conversacionales hacer “vibe directing” de un video."
+                "x": "La versión de escritorio también ofrece una línea de tiempo multipista completa, formas de onda de audio precisas, herramientas de etalonaje y atajos de teclado, además de exportaciones en 4K sin marca de agua y compatibilidad con varias relaciones de aspecto. Por ahora es solo para macOS (macOS-only) y los proyectos aún no pueden editarse entre el móvil y el escritorio; Meta prevé actualizar la app cada semana."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Edits、デスクトップに\nAIエージェント対応",
+          "body": "InstagramのEditsがmacOSに登場し、MuseらAIがMCPで編集する。",
+          "mini_headline": "Edits、AI連携でデスクトップへ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-timeline-1.jpg?quality=90&strip=all&w=2400",
+                "cap": "InstagramのデスクトップEditsアプリのプロモーション用スクリーンショット"
               },
               {
                 "t": "p",
-                "x": "FieldAI y Physical Intelligence llevaron la IA a los robots, y Simile realiza pruebas virtuales de grupos focales con multitudes sintéticas de gemelos digitales de personas reales."
+                "x": "Instagramの単体動画編集アプリEditsがmacOSで利用可能になり、好みのAIエージェントを接続して動画を組み立てられるようになった。Editsのプロダクトマネジメント責任者Matthew SimariはThe Vergeにこう語った。「Edits Desktopとともにリリースするもののひとつが、Edits Desktop内のすべてのツールに対応するMCPだ。どんなエージェントでも使える。Museを使ってもいい――ぜひそうしてほしい――が、実際には好きなエージェントを選んで、動画の編集や微調整、作業ができる」"
+              },
+              {
+                "t": "p",
+                "x": "Simariによれば、ユーザーは「エージェントによる編集と手動編集を行き来できる」。たとえばクリエイターはMetaのMuseエージェントにEdits MCPを使わせ、ダウンロードフォルダ内の動画のラフカットを作らせたうえで、そのプロジェクトファイルをEditsで開いて編集を続けられる。Instagramは9月、Editsのモバイル版にAIの「クリエイティブアシスタント」を追加していた。"
               },
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/FieldAI-Disney-Accelerator-Demo-Day.jpg?width=683&height=1024&fit=bounds",
-                "cap": "Una demostración de la inteligencia de FieldAI y un robot de Boston Dynamics (Crédito: Disney)"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-color-grading-1.jpg?quality=90&strip=all&w=2400",
+                "cap": "デスクトップアプリには、より高度なカラーグレーディングツールが備わる。"
+              },
+              {
+                "t": "p",
+                "x": "デスクトップ版はフルのマルチトラック（multi-track）タイムライン、精密なオーディオ波形、カラーグレーディングツール、キーボードショートカットを備え、透かしなしの4K 書き出しと複数のアスペクト比にも対応する。現時点ではmacOS-only（macOS 専用）で、モバイルとデスクトップをまたいだプロジェクト編集はまだできない。Metaはアプリを毎週更新する予定だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Edits登陆桌面端\n引入AI智能体",
+          "body": "Instagram的Edits登陆macOS，Muse等AI智能体可借MCP剪辑视频。",
+          "mini_headline": "Edits携AI登陆桌面",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-timeline-1.jpg?quality=90&strip=all&w=2400",
+                "cap": "Instagram桌面版Edits应用的宣传截图"
+              },
+              {
+                "t": "p",
+                "x": "Instagram旗下独立视频剪辑应用Edits现已登陆macOS，用户可以接入自己选择的AI智能体来组装视频。Edits产品管理负责人Matthew Simari对The Verge表示：“我们随Edits Desktop一同发布的内容之一，是覆盖Edits Desktop内所有工具的MCP。你可以使用任何想用的智能体，可以用Muse——我们很希望你用——但实际上任何你自己选择的智能体都可以，用来剪辑、微调、处理你的视频。”"
+              },
+              {
+                "t": "p",
+                "x": "Simari说，用户可以“在智能体剪辑与手动剪辑之间来回切换”。例如，创作者可以让Meta的Muse智能体使用Edits MCP，为下载文件夹中的视频制作粗剪，然后在Edits中打开该项目文件继续剪辑。Instagram已于9月为移动版Edits加入了AI“创意助手”。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-color-grading-1.jpg?quality=90&strip=all&w=2400",
+                "cap": "桌面应用拥有更高级的调色工具。"
+              },
+              {
+                "t": "p",
+                "x": "桌面版还提供完整的多轨（multi-track）时间线、精确的音频波形、调色工具和键盘快捷键，并支持无水印4K 导出和多种画面比例。目前为macOS-only（仅限 macOS），项目暂时无法在移动端与桌面端之间跨端编辑；Meta计划每周更新该应用。"
               }
             ]
           }
@@ -385,195 +335,171 @@
       }
     },
     {
-      "id": "weta-fx-taicca-taiwan",
+      "id": "alcon-wbd-bladerunner-settlement",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Weta FX·TAICCA\n대만을 AI 허브로",
-      "body": "양측은 11월 6일 TCCF에서 공동투자·AI R&D·인재 육성 협약을 공개한다.",
-      "mini_headline": "Weta FX, 대만에 베팅",
+      "headline": "Alcon, WBD와\nAI 이미지 소송 합의",
+      "body": "Blade Runner 2049 제작사가 WBD와는 합의하고 Musk와는 맞선다.",
+      "mini_headline": "Alcon, WBD와 합의",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/film/markets-festivals/weta-fx-taicca-partner-taiwan-ai-screen-production-hub-1236938968/",
-      "accent": "#7928ca",
+      "source": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/business/business-news/blade-runner-2049-producer-lawsuit-tesla-1236748701/",
+      "accent": "#f5a623",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2024/05/Screen-Shot-2024-05-10-at-1.08.39-PM.png?w=1000&h=667&crop=1",
-            "cap": "©Warner Bros. Pictures/courtesy Everett Collection"
+            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/MCDBLRU_EC053-H-2026.jpg?w=1296&h=730&crop=1",
+            "cap": "'Blade Runner 2049'의 Ryan Gosling"
           },
           {
             "t": "p",
-            "x": "“반지의 제왕”과 “아바타”를 만든 뉴질랜드 시각효과 회사 Weta FX가 대만 문화콘텐츠진흥원(Taiwan Creative Content Agency, TAICCA)과 손잡고 대만을 아시아의 AI-driven 영상 제작 중심지로 키우는 계획에 나선다. 파트너십은 11월 6일 타이베이에서 열리는 Taiwan Creative Content Fest(TCCF)에서 공식 출범하며 공동 투자, AI 연구개발, 신규 인재 양성 세 갈래로 짜였다. 구체적인 내용은 출범 행사 때까지 공개하지 않는다."
+            "x": "Blade Runner 2049 제작사가 Warner Bros. Discovery와의 관련 청구에서 합의했다. 이 스튜디오는 저작권 침해를 도운 혐의를 받아 왔다. 제작사는 영화 이미지로 인공지능 생성 홍보물을 만든 Tesla를 상대로 소송을 벌이고 있다. 합의 조건은 공개되지 않았다. 법원 제출 문서에는 “Alcon과 WBD가 합의에 이르렀다”고 적혀 있다."
           },
           {
             "t": "p",
-            "x": "행사에는 TAICCA의 Sue Wang 이사장과 Weta FX 경영진인 CEO Daniel Seah, 최고기술책임자 Kimball Thurston, VFX 슈퍼바이저 Sheldon Stopsack 세 명이 함께한다."
+            "x": "Alcon은 Tesla와 Elon Musk를 상대로 한 소송은 그대로 이어간다. 사건의 발단은 2024년 Warner Bros. Discovery 스튜디오 부지에서 열린 Tesla의 로보택시 공개 행사다. 이 자리에서 Musk는 트렌치코트 차림의 남성이 주황빛에 잠긴 폐허 도시를 내려다보는 이미지를 보여 줬다. Alcon은 이 이미지가 영화 속 폐허가 된 Las Vegas 장면의 실제 스틸컷처럼 보이도록 일부러 만들어졌다고 주장했다."
           },
           {
             "t": "p",
-            "x": "이번 협약은 대만의 AI·첨단 기술 역량과 크리에이티브 인재풀에 Weta FX의 VFX 노하우, 해외 작품 제작 이력, 글로벌 네트워크를 더한다. 목표는 대만의 기술 인력과 창작자를 전 세계 영상 산업의 작업에 잇는 것이다. Seah에게는 개인적인 의미도 있는 계약이다. 그는 대만에서 자랐다."
-          },
-          {
-            "t": "p",
-            "x": "TAICCA는 대만 문화부가 2019년 세운 기관이다. Weta FX는 웰링턴에 본사를 두고 밴쿠버와 멜버른에 거점을 운영한다. 지금 제작 중인 작품으로는 “반지의 제왕: 골룸 사냥(The Lord of the Rings: The Hunt for Gollum)”과 Marvel Studios의 “어벤져스: 둠스데이(Avengers: Doomsday)”가 있다."
+            "x": "저작물 일부를 허락 없이 복제해 AI 이미지 생성기로 시각물을 만들면 저작권 침해인가. 이 사건이 새로 던지는 질문이다. Tesla와 Musk는 공정 이용이라고 맞선다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Weta FX and TAICCA aim\nto make Taiwan an AI hub",
-          "body": "Weta FX and Taiwan's TAICCA will unveil a TCCF pact on Nov. 6 spanning co-investment, AI R&D and talent development.",
-          "mini_headline": "Weta FX bets on Taiwan",
+          "headline": "Alcon settles AI image suit\nagainst Warner Bros. Discovery",
+          "body": "Blade Runner 2049 producer Alcon settled with WBD over AI promo images but is still pursuing Elon Musk and Tesla.",
+          "mini_headline": "Alcon settles with WBD",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2024/05/Screen-Shot-2024-05-10-at-1.08.39-PM.png?w=1000&h=667&crop=1",
-                "cap": "©Warner Bros. Pictures/courtesy Everett Collection"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/MCDBLRU_EC053-H-2026.jpg?w=1296&h=730&crop=1",
+                "cap": "Ryan Gosling in 'Blade Runner 2049.'"
               },
               {
                 "t": "p",
-                "x": "Weta FX, the New Zealand visual effects house behind “The Lord of the Rings” and “Avatar,” is teaming with the Taiwan Creative Content Agency (TAICCA) on a plan to turn Taiwan into a center for AI-driven screen production in Asia. The partnership will be formally launched on Nov. 6 at Taiwan Creative Content Fest (TCCF) in Taipei. The partnership will have three strands: joint investment, AI research and development, and training new talent. Specifics of the arrangement are being held back for the launch."
+                "x": "A production company for Blade Runner 2049 suing Tesla for using images from the movie to create artificial intelligence-generated promotional material has settled a related claim against Warner Bros. Discovery, which was accused of facilitating the copyright infringement. Terms weren’t disclosed. “Alcon and WBD have reached a settlement,” the filing said."
               },
               {
                 "t": "p",
-                "x": "TAICCA chair Sue Wang will appear at the event alongside three Weta FX executives: CEO Daniel Seah, chief technology officer Kimball Thurston and VFX supervisor Sheldon Stopsack."
+                "x": "Alcon continues to pursue the lawsuit against Tesla and Elon Musk. The case stems from Tesla’s 2024 robotaxi unveiling on a Warner Bros. Discovery studio lot, where Musk showed an image of a man in a trench coat surveying a ruined city bathed in orange light. Alcon alleged the image was meant to be understood as an actual still from the film’s ruined Las Vegas sequence."
               },
               {
                 "t": "p",
-                "x": "The pact pairs Taiwan’s AI and advanced-tech capabilities and its pool of creative talent with what Weta FX brings to the table – VFX know-how, a track record on international productions and a global network. The aim is to plug Taiwanese technologists and creatives into work across the worldwide screen business. For Seah, the deal carries a personal angle. He grew up in Taiwan."
-              },
-              {
-                "t": "p",
-                "x": "Taiwan’s Ministry of Culture set up TAICCA in 2019. Weta FX is based in Wellington, with outposts in Vancouver and Melbourne; titles in production include “The Lord of the Rings: The Hunt for Gollum” and Marvel Studios’ “Avengers: Doomsday.”"
+                "x": "The case raises the novel question of whether creating a visual with an AI image generator by copying a portion of a copyrighted work without a license constitutes copyright infringement. Tesla and Musk argue the practice is fair use."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Weta FX·TAICCA\n대만을 AI 허브로",
-          "body": "양측은 11월 6일 TCCF에서 공동투자·AI R&D·인재 육성 협약을 공개한다.",
-          "mini_headline": "Weta FX, 대만에 베팅",
+          "headline": "Alcon, WBD와\nAI 이미지 소송 합의",
+          "body": "Blade Runner 2049 제작사가 WBD와는 합의하고 Musk와는 맞선다.",
+          "mini_headline": "Alcon, WBD와 합의",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2024/05/Screen-Shot-2024-05-10-at-1.08.39-PM.png?w=1000&h=667&crop=1",
-                "cap": "©Warner Bros. Pictures/courtesy Everett Collection"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/MCDBLRU_EC053-H-2026.jpg?w=1296&h=730&crop=1",
+                "cap": "'Blade Runner 2049'의 Ryan Gosling"
               },
               {
                 "t": "p",
-                "x": "“반지의 제왕”과 “아바타”를 만든 뉴질랜드 시각효과 회사 Weta FX가 대만 문화콘텐츠진흥원(Taiwan Creative Content Agency, TAICCA)과 손잡고 대만을 아시아의 AI-driven 영상 제작 중심지로 키우는 계획에 나선다. 파트너십은 11월 6일 타이베이에서 열리는 Taiwan Creative Content Fest(TCCF)에서 공식 출범하며 공동 투자, AI 연구개발, 신규 인재 양성 세 갈래로 짜였다. 구체적인 내용은 출범 행사 때까지 공개하지 않는다."
+                "x": "Blade Runner 2049 제작사가 Warner Bros. Discovery와의 관련 청구에서 합의했다. 이 스튜디오는 저작권 침해를 도운 혐의를 받아 왔다. 제작사는 영화 이미지로 인공지능 생성 홍보물을 만든 Tesla를 상대로 소송을 벌이고 있다. 합의 조건은 공개되지 않았다. 법원 제출 문서에는 “Alcon과 WBD가 합의에 이르렀다”고 적혀 있다."
               },
               {
                 "t": "p",
-                "x": "행사에는 TAICCA의 Sue Wang 이사장과 Weta FX 경영진인 CEO Daniel Seah, 최고기술책임자 Kimball Thurston, VFX 슈퍼바이저 Sheldon Stopsack 세 명이 함께한다."
+                "x": "Alcon은 Tesla와 Elon Musk를 상대로 한 소송은 그대로 이어간다. 사건의 발단은 2024년 Warner Bros. Discovery 스튜디오 부지에서 열린 Tesla의 로보택시 공개 행사다. 이 자리에서 Musk는 트렌치코트 차림의 남성이 주황빛에 잠긴 폐허 도시를 내려다보는 이미지를 보여 줬다. Alcon은 이 이미지가 영화 속 폐허가 된 Las Vegas 장면의 실제 스틸컷처럼 보이도록 일부러 만들어졌다고 주장했다."
               },
               {
                 "t": "p",
-                "x": "이번 협약은 대만의 AI·첨단 기술 역량과 크리에이티브 인재풀에 Weta FX의 VFX 노하우, 해외 작품 제작 이력, 글로벌 네트워크를 더한다. 목표는 대만의 기술 인력과 창작자를 전 세계 영상 산업의 작업에 잇는 것이다. Seah에게는 개인적인 의미도 있는 계약이다. 그는 대만에서 자랐다."
-              },
-              {
-                "t": "p",
-                "x": "TAICCA는 대만 문화부가 2019년 세운 기관이다. Weta FX는 웰링턴에 본사를 두고 밴쿠버와 멜버른에 거점을 운영한다. 지금 제작 중인 작품으로는 “반지의 제왕: 골룸 사냥(The Lord of the Rings: The Hunt for Gollum)”과 Marvel Studios의 “어벤져스: 둠스데이(Avengers: Doomsday)”가 있다."
+                "x": "저작물 일부를 허락 없이 복제해 AI 이미지 생성기로 시각물을 만들면 저작권 침해인가. 이 사건이 새로 던지는 질문이다. Tesla와 Musk는 공정 이용이라고 맞선다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Weta FXとTAICCA\n台湾をAI拠点に",
-          "body": "両者は11月6日のTCCFで共同投資・AI R&D・人材育成の協定を発表する。",
-          "mini_headline": "Weta FX、台湾に賭ける",
+          "headline": "Alcon、WBDと和解\nAI画像をめぐる訴訟",
+          "body": "Blade Runner 2049の制作会社がWBDと和解、Muskとの訴訟は続ける。",
+          "mini_headline": "Alcon、WBDと和解",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2024/05/Screen-Shot-2024-05-10-at-1.08.39-PM.png?w=1000&h=667&crop=1",
-                "cap": "©Warner Bros. Pictures/courtesy Everett Collection"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/MCDBLRU_EC053-H-2026.jpg?w=1296&h=730&crop=1",
+                "cap": "『Blade Runner 2049』のRyan Gosling"
               },
               {
                 "t": "p",
-                "x": "「ロード・オブ・ザ・リング」や「アバター」を手がけたニュージーランドの視覚効果会社Weta FXが、台湾クリエイティブ・コンテンツ・エージェンシー(Taiwan Creative Content Agency、TAICCA)と組み、台湾をアジアにおけるAI-drivenな映像制作の拠点にする計画に乗り出す。この提携は11月6日、台北で開かれるTaiwan Creative Content Fest(TCCF)で正式に始動する。提携は共同投資、AIの研究開発、新たな人材の育成という三つの柱で構成される。取り決めの詳細は始動時まで明らかにされない。"
+                "x": "映画の画像を使って人工知能で生成した宣伝素材を作ったとしてTeslaを訴えているBlade Runner 2049の制作会社が、著作権侵害を助長したとされるWarner Bros. Discoveryへの関連請求について和解した。条件は明らかにされていない。提出書類には「AlconとWBDは和解に達した」と記されている。"
               },
               {
                 "t": "p",
-                "x": "イベントにはTAICCAのSue Wang董事長が、Weta FXの幹部3人、CEOのDaniel Seah、最高技術責任者のKimball Thurston、VFXスーパーバイザーのSheldon Stopsackと共に登壇する。"
+                "x": "AlconはTeslaとElon Muskに対する訴訟を続ける。発端は2024年、Warner Bros. Discoveryのスタジオ敷地で行われたTeslaのロボタクシー発表会だ。Muskはそこで、トレンチコート姿の男がオレンジ色の光に包まれた廃墟の街を見渡す画像を見せた。Alconは、この画像が映画に登場する荒廃したLas Vegasのシーンの実際のスチールだと受け取られるよう意図されていたと主張している。"
               },
               {
                 "t": "p",
-                "x": "この協定は、台湾のAIと先端技術の力、そしてクリエイティブ人材の層を、Weta FXが持ち込むVFXのノウハウ、国際作品での実績、グローバルなネットワークと組み合わせるものだ。狙いは、台湾の技術者とクリエイターを世界の映像ビジネス全体の仕事につなぐことにある。Seahにとって、この提携には個人的な意味もある。彼は台湾で育った。"
-              },
-              {
-                "t": "p",
-                "x": "台湾文化部は2019年にTAICCAを設立した。Weta FXはウェリントンを拠点とし、バンクーバーとメルボルンにも拠点を持つ。制作中の作品には「The Lord of the Rings: The Hunt for Gollum」やMarvel Studiosの「Avengers: Doomsday」がある。"
+                "x": "この訴訟は、著作物の一部をライセンスなしに複製し、AI画像生成ツールでビジュアルを作ることが著作権侵害にあたるのかという新たな問いを投げかける。TeslaとMuskは、この行為はフェアユースだと主張している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Weta FX与TAICCA\n欲打造台湾AI枢纽",
-          "body": "双方将于11月6日在TCCF上公布涵盖共同投资、AI研发与人才培养的合作协议。",
-          "mini_headline": "Weta FX押注台湾",
+          "headline": "Alcon就AI图像诉讼\n与WBD达成和解",
+          "body": "Blade Runner 2049制片方与WBD和解，但仍在起诉Musk和Tesla。",
+          "mini_headline": "Alcon与WBD和解",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2024/05/Screen-Shot-2024-05-10-at-1.08.39-PM.png?w=1000&h=667&crop=1",
-                "cap": "©Warner Bros. Pictures/courtesy Everett Collection"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/MCDBLRU_EC053-H-2026.jpg?w=1296&h=730&crop=1",
+                "cap": "《Blade Runner 2049》中的Ryan Gosling"
               },
               {
                 "t": "p",
-                "x": "曾打造《指环王》与《阿凡达》视效的新西兰视效公司Weta FX，正与台湾文化内容策进院(Taiwan Creative Content Agency，TAICCA)合作，计划把台湾打造为亚洲AI-driven影视制作中心。双方的合作将于11月6日在台北举行的Taiwan Creative Content Fest(TCCF)上正式启动。合作分为三条主线：共同投资、AI研发以及新人才培养。具体安排将留待启动时公布。"
+                "x": "《Blade Runner 2049》的一家制片公司正起诉Tesla使用影片画面制作人工智能生成的宣传素材，现已与被指协助版权侵权的Warner Bros. Discovery就相关索赔达成和解。和解条款未予披露。文件称：“Alcon与WBD已达成和解。”"
               },
               {
                 "t": "p",
-                "x": "TAICCA董事长Sue Wang将与Weta FX的三位高管一同出席：CEO Daniel Seah、首席技术官Kimball Thurston和VFX总监Sheldon Stopsack。"
+                "x": "Alcon继续对Tesla和Elon Musk提起诉讼。此案源于Tesla 2024年在Warner Bros. Discovery片场举行的无人驾驶出租车发布会，Musk在会上展示了一张图片：一名身穿风衣的男子俯瞰沐浴在橙色光线中的废墟城市。Alcon指称，这张图片意在让人以为是影片中废墟Las Vegas段落的真实剧照。"
               },
               {
                 "t": "p",
-                "x": "该协议把台湾的AI与先进技术能力及其创意人才储备，与Weta FX带来的VFX专业经验、国际制作履历和全球网络结合起来，目标是让台湾的技术人员与创作者融入全球影视产业的工作。对Seah而言，这项合作还有个人层面的意义——他在台湾长大。"
-              },
-              {
-                "t": "p",
-                "x": "台湾文化部于2019年成立TAICCA。Weta FX总部位于惠灵顿，并在温哥华和墨尔本设有据点；在制作品包括《The Lord of the Rings: The Hunt for Gollum》和Marvel Studios的《Avengers: Doomsday》。"
+                "x": "此案提出了一个新问题：未经许可复制受版权保护作品的一部分，并用AI图像生成器制作视觉内容，是否构成版权侵权。Tesla和Musk则认为这属于合理使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Weta FX y TAICCA quieren hacer\nde Taiwán un polo de IA",
-          "body": "Weta FX y la TAICCA de Taiwán presentarán el 6 de noviembre un pacto de coinversión, I+D en IA y formación de talento.",
-          "mini_headline": "Weta FX apuesta por Taiwán",
+          "headline": "Alcon y Warner Bros. Discovery\nzanjan la demanda por AI",
+          "body": "Alcon, productora de Blade Runner 2049, pactó con WBD por imágenes de AI, pero sigue contra Elon Musk y Tesla.",
+          "mini_headline": "Alcon pacta con WBD",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2024/05/Screen-Shot-2024-05-10-at-1.08.39-PM.png?w=1000&h=667&crop=1",
-                "cap": "©Warner Bros. Pictures/courtesy Everett Collection"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/MCDBLRU_EC053-H-2026.jpg?w=1296&h=730&crop=1",
+                "cap": "Ryan Gosling en 'Blade Runner 2049'."
               },
               {
                 "t": "p",
-                "x": "Weta FX, la empresa neozelandesa de efectos visuales detrás de “El Señor de los Anillos” y “Avatar”, se une a la Taiwan Creative Content Agency (TAICCA) en un plan para convertir Taiwán en un centro de producción audiovisual impulsada por IA (AI-driven) en Asia. La alianza se presentará formalmente el 6 de noviembre en el Taiwan Creative Content Fest (TCCF) de Taipéi. Tendrá tres ejes: inversión conjunta, investigación y desarrollo en IA, y formación de nuevo talento. Los detalles del acuerdo se reservan para el lanzamiento."
+                "x": "Una productora de Blade Runner 2049 que demanda a Tesla por usar imágenes de la película para crear material promocional generado con inteligencia artificial ha llegado a un acuerdo en una reclamación relacionada contra Warner Bros. Discovery, acusada de facilitar la infracción de derechos de autor. No se revelaron los términos. “Alcon y WBD han alcanzado un acuerdo”, señala el escrito."
               },
               {
                 "t": "p",
-                "x": "La presidenta de TAICCA, Sue Wang, participará en el evento junto a tres directivos de Weta FX: el CEO Daniel Seah, el director de tecnología Kimball Thurston y el supervisor de VFX Sheldon Stopsack."
+                "x": "Alcon sigue adelante con la demanda contra Tesla y Elon Musk. El caso se remonta a la presentación del robotaxi de Tesla en 2024 en un estudio de Warner Bros. Discovery, donde Musk mostró la imagen de un hombre con gabardina que contempla una ciudad en ruinas bañada por una luz anaranjada. Alcon sostuvo que la imagen pretendía pasar por un fotograma real de la secuencia de Las Vegas en ruinas de la película."
               },
               {
                 "t": "p",
-                "x": "El pacto combina las capacidades de Taiwán en IA y tecnología avanzada, y su cantera de talento creativo, con lo que aporta Weta FX: experiencia en VFX, trayectoria en producciones internacionales y una red global. El objetivo es integrar a tecnólogos y creativos taiwaneses en proyectos de toda la industria audiovisual mundial. Para Seah, el acuerdo tiene un componente personal: creció en Taiwán."
-              },
-              {
-                "t": "p",
-                "x": "El Ministerio de Cultura de Taiwán creó TAICCA en 2019. Weta FX tiene su sede en Wellington, con oficinas en Vancouver y Melbourne; entre sus títulos en producción figuran “The Lord of the Rings: The Hunt for Gollum” y “Avengers: Doomsday”, de Marvel Studios."
+                "x": "El caso plantea la cuestión inédita de si crear una imagen con un generador de imágenes de AI copiando sin licencia parte de una obra protegida constituye una infracción de derechos de autor. Tesla y Musk sostienen que se trata de uso legítimo."
               }
             ]
           }
@@ -581,125 +507,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Weta FX·TAICCA\n대만을 AI 허브로",
-          "body": "양측은 11월 6일 TCCF에서 공동투자·AI R&D·인재 육성 협약을 공개한다.",
-          "mini_headline": "Weta FX, 대만에 베팅",
+          "headline": "Alcon, WBD와\nAI 이미지 소송 합의",
+          "body": "Blade Runner 2049 제작사가 WBD와 합의했고 Musk와는 다툰다.",
+          "mini_headline": "Alcon, WBD와 합의",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2024/05/Screen-Shot-2024-05-10-at-1.08.39-PM.png?w=1000&h=667&crop=1",
-                "cap": "©Warner Bros. Pictures/courtesy Everett Collection"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/MCDBLRU_EC053-H-2026.jpg?w=1296&h=730&crop=1",
+                "cap": "'Blade Runner 2049'의 Ryan Gosling"
               },
               {
                 "t": "p",
-                "x": "“반지의 제왕”과 “아바타”를 만든 뉴질랜드 시각효과 회사 Weta FX가 대만 문화콘텐츠진흥원(Taiwan Creative Content Agency, TAICCA)과 손잡고 대만을 아시아의 AI-driven 영상 제작 중심지로 만드는 계획에 나선다. 이 파트너십은 11월 6일 타이베이에서 열리는 Taiwan Creative Content Fest(TCCF)에서 공식 출범한다. 파트너십은 공동 투자, AI 연구개발, 신규 인재 양성의 세 갈래로 이뤄진다. 구체적인 내용은 출범 행사 때까지 공개하지 않는다."
+                "x": "영화 이미지로 인공지능 생성 홍보물을 만든 Tesla를 상대로 소송 중인 Blade Runner 2049 제작사가, 저작권 침해를 도운 혐의를 받은 Warner Bros. Discovery와의 관련 청구에서 합의했다. 합의 조건은 공개되지 않았다. 법원 제출 문서에는 “Alcon과 WBD가 합의에 이르렀다”고 적혀 있다."
               },
               {
                 "t": "p",
-                "x": "행사에는 TAICCA의 Sue Wang 이사장과 Weta FX 경영진 세 명, 곧 CEO Daniel Seah, 최고기술책임자 Kimball Thurston, VFX 슈퍼바이저 Sheldon Stopsack이 함께한다."
+                "x": "Alcon은 Tesla와 Elon Musk를 상대로 한 소송은 계속 이어간다. 사건의 발단은 2024년 Warner Bros. Discovery 스튜디오 부지에서 열린 Tesla의 로보택시 공개 행사다. 이 자리에서 Musk는 트렌치코트 차림의 남성이 주황빛에 잠긴 폐허 도시를 내려다보는 이미지를 보여 줬다. Alcon은 이 이미지가 영화 속 폐허가 된 Las Vegas 장면의 실제 스틸컷으로 받아들여지도록 의도됐다고 주장했다."
               },
               {
                 "t": "p",
-                "x": "이번 협약은 대만의 AI·첨단 기술 역량과 크리에이티브 인재풀을 Weta FX가 지닌 강점, 곧 VFX 노하우와 해외 작품 제작 이력, 글로벌 네트워크와 결합한다. 대만의 기술 인력과 창작자를 전 세계 영상 산업의 작업에 연결하는 것이 목표다. Seah에게 이번 계약은 개인적인 의미도 있다. 그는 대만에서 자랐다."
-              },
-              {
-                "t": "p",
-                "x": "대만 문화부는 2019년 TAICCA를 설립했다. Weta FX는 웰링턴에 본사를 두고 밴쿠버와 멜버른에 거점을 운영한다. 제작 중인 작품으로는 “반지의 제왕: 골룸 사냥(The Lord of the Rings: The Hunt for Gollum)”과 Marvel Studios의 “어벤져스: 둠스데이(Avengers: Doomsday)”가 있다."
+                "x": "이 사건은 저작물의 일부를 허락 없이 복제해 AI 이미지 생성기로 시각물을 만드는 행위가 저작권 침해에 해당하는가라는 새로운 질문을 던진다. Tesla와 Musk는 이것이 공정 이용이라고 주장한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Weta FXとTAICCA\n台湾をAI拠点に",
-          "body": "両者は11月6日のTCCFで共同投資・AI R&D・人材育成の協定を発表する。",
-          "mini_headline": "Weta FX、台湾に賭ける",
+          "headline": "Alcon、WBDと和解\nAI画像をめぐる訴訟",
+          "body": "Blade Runner 2049の制作会社がWBDと和解、Muskとの訴訟は続ける。",
+          "mini_headline": "Alcon、WBDと和解",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2024/05/Screen-Shot-2024-05-10-at-1.08.39-PM.png?w=1000&h=667&crop=1",
-                "cap": "©Warner Bros. Pictures/courtesy Everett Collection"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/MCDBLRU_EC053-H-2026.jpg?w=1296&h=730&crop=1",
+                "cap": "『Blade Runner 2049』のRyan Gosling"
               },
               {
                 "t": "p",
-                "x": "「ロード・オブ・ザ・リング」や「アバター」を手がけたニュージーランドの視覚効果会社Weta FXが、台湾クリエイティブ・コンテンツ・エージェンシー(Taiwan Creative Content Agency、TAICCA)と組み、台湾をアジアにおけるAI-drivenな映像制作の拠点にする計画に乗り出す。この提携は11月6日、台北で開かれるTaiwan Creative Content Fest(TCCF)で正式に始動する。提携は共同投資、AIの研究開発、新たな人材の育成という三つの柱で構成される。取り決めの詳細は始動時まで明らかにされない。"
+                "x": "映画の画像を使って人工知能で生成した宣伝素材を作ったとしてTeslaを訴えているBlade Runner 2049の制作会社が、著作権侵害を助長したとされるWarner Bros. Discoveryへの関連請求について和解した。条件は明らかにされていない。提出書類には「AlconとWBDは和解に達した」と記されている。"
               },
               {
                 "t": "p",
-                "x": "イベントにはTAICCAのSue Wang董事長が、Weta FXの幹部3人、CEOのDaniel Seah、最高技術責任者のKimball Thurston、VFXスーパーバイザーのSheldon Stopsackと共に登壇する。"
+                "x": "AlconはTeslaとElon Muskに対する訴訟を続ける。発端は2024年、Warner Bros. Discoveryのスタジオ敷地で行われたTeslaのロボタクシー発表会だ。Muskはそこで、トレンチコート姿の男がオレンジ色の光に包まれた廃墟の街を見渡す画像を見せた。Alconは、この画像が映画に登場する荒廃したLas Vegasのシーンの実際のスチールだと受け取られるよう意図されていたと主張している。"
               },
               {
                 "t": "p",
-                "x": "この協定は、台湾のAIと先端技術の力、そしてクリエイティブ人材の層を、Weta FXが持ち込むVFXのノウハウ、国際作品での実績、グローバルなネットワークと組み合わせるものだ。狙いは、台湾の技術者とクリエイターを世界の映像ビジネス全体の仕事につなぐことにある。Seahにとって、この提携には個人的な意味もある。彼は台湾で育った。"
-              },
-              {
-                "t": "p",
-                "x": "台湾文化部は2019年にTAICCAを設立した。Weta FXはウェリントンを拠点とし、バンクーバーとメルボルンにも拠点を持つ。制作中の作品には「The Lord of the Rings: The Hunt for Gollum」やMarvel Studiosの「Avengers: Doomsday」がある。"
+                "x": "この訴訟は、著作物の一部をライセンスなしに複製し、AI画像生成ツールでビジュアルを作ることが著作権侵害にあたるのかという新たな問いを投げかける。TeslaとMuskは、この行為はフェアユースだと主張している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Weta FX与TAICCA\n欲打造台湾AI枢纽",
-          "body": "双方将于11月6日在TCCF上公布涵盖共同投资、AI研发与人才培养的合作协议。",
-          "mini_headline": "Weta FX押注台湾",
+          "headline": "Alcon就AI图像诉讼\n与WBD达成和解",
+          "body": "Blade Runner 2049制片方与WBD和解，但仍在起诉Musk和Tesla。",
+          "mini_headline": "Alcon与WBD和解",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2024/05/Screen-Shot-2024-05-10-at-1.08.39-PM.png?w=1000&h=667&crop=1",
-                "cap": "©Warner Bros. Pictures/courtesy Everett Collection"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/MCDBLRU_EC053-H-2026.jpg?w=1296&h=730&crop=1",
+                "cap": "《Blade Runner 2049》中的Ryan Gosling"
               },
               {
                 "t": "p",
-                "x": "曾打造《指环王》与《阿凡达》视效的新西兰视效公司Weta FX，正与台湾文化内容策进院(Taiwan Creative Content Agency，TAICCA)合作，计划把台湾打造为亚洲AI-driven影视制作中心。双方的合作将于11月6日在台北举行的Taiwan Creative Content Fest(TCCF)上正式启动。合作分为三条主线：共同投资、AI研发以及新人才培养。具体安排将留待启动时公布。"
+                "x": "《Blade Runner 2049》的一家制片公司正起诉Tesla使用影片画面制作人工智能生成的宣传素材，现已与被指协助版权侵权的Warner Bros. Discovery就相关索赔达成和解。和解条款未予披露。文件称：“Alcon与WBD已达成和解。”"
               },
               {
                 "t": "p",
-                "x": "TAICCA董事长Sue Wang将与Weta FX的三位高管一同出席：CEO Daniel Seah、首席技术官Kimball Thurston和VFX总监Sheldon Stopsack。"
+                "x": "Alcon继续对Tesla和Elon Musk提起诉讼。此案源于Tesla 2024年在Warner Bros. Discovery片场举行的无人驾驶出租车发布会，Musk在会上展示了一张图片：一名身穿风衣的男子俯瞰沐浴在橙色光线中的废墟城市。Alcon指称，这张图片意在让人以为是影片中废墟Las Vegas段落的真实剧照。"
               },
               {
                 "t": "p",
-                "x": "该协议把台湾的AI与先进技术能力及其创意人才储备，与Weta FX带来的VFX专业经验、国际制作履历和全球网络结合起来，目标是让台湾的技术人员与创作者融入全球影视产业的工作。对Seah而言，这项合作还有个人层面的意义——他在台湾长大。"
-              },
-              {
-                "t": "p",
-                "x": "台湾文化部于2019年成立TAICCA。Weta FX总部位于惠灵顿，并在温哥华和墨尔本设有据点；在制作品包括《The Lord of the Rings: The Hunt for Gollum》和Marvel Studios的《Avengers: Doomsday》。"
+                "x": "此案提出了一个新问题：未经许可复制受版权保护作品的一部分，并用AI图像生成器制作视觉内容，是否构成版权侵权。Tesla和Musk则认为这属于合理使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Weta FX y TAICCA quieren hacer\nde Taiwán un polo de IA",
-          "body": "Weta FX y la TAICCA de Taiwán presentarán el 6 de noviembre un pacto de coinversión, I+D en IA y formación de talento.",
-          "mini_headline": "Weta FX apuesta por Taiwán",
+          "headline": "Alcon y Warner Bros. Discovery\nzanjan la demanda por AI",
+          "body": "Alcon, productora de Blade Runner 2049, pactó con WBD por imágenes de AI, pero sigue contra Elon Musk y Tesla.",
+          "mini_headline": "Alcon pacta con WBD",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2024/05/Screen-Shot-2024-05-10-at-1.08.39-PM.png?w=1000&h=667&crop=1",
-                "cap": "©Warner Bros. Pictures/courtesy Everett Collection"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/MCDBLRU_EC053-H-2026.jpg?w=1296&h=730&crop=1",
+                "cap": "Ryan Gosling en 'Blade Runner 2049'."
               },
               {
                 "t": "p",
-                "x": "Weta FX, la empresa neozelandesa de efectos visuales detrás de “El Señor de los Anillos” y “Avatar”, se une a la Taiwan Creative Content Agency (TAICCA) en un plan para convertir Taiwán en un centro de producción audiovisual impulsada por IA (AI-driven) en Asia. La alianza se presentará formalmente el 6 de noviembre en el Taiwan Creative Content Fest (TCCF) de Taipéi. Tendrá tres ejes: inversión conjunta, investigación y desarrollo en IA, y formación de nuevo talento. Los detalles del acuerdo se reservan para el lanzamiento."
+                "x": "Una productora de Blade Runner 2049 que demanda a Tesla por usar imágenes de la película para crear material promocional generado con inteligencia artificial ha llegado a un acuerdo en una reclamación relacionada contra Warner Bros. Discovery, acusada de facilitar la infracción de derechos de autor. No se revelaron los términos. “Alcon y WBD han alcanzado un acuerdo”, señala el escrito."
               },
               {
                 "t": "p",
-                "x": "La presidenta de TAICCA, Sue Wang, participará en el evento junto a tres directivos de Weta FX: el CEO Daniel Seah, el director de tecnología Kimball Thurston y el supervisor de VFX Sheldon Stopsack."
+                "x": "Alcon sigue adelante con la demanda contra Tesla y Elon Musk. El caso se remonta a la presentación del robotaxi de Tesla en 2024 en un estudio de Warner Bros. Discovery, donde Musk mostró la imagen de un hombre con gabardina que contempla una ciudad en ruinas bañada por una luz anaranjada. Alcon sostuvo que la imagen pretendía pasar por un fotograma real de la secuencia de Las Vegas en ruinas de la película."
               },
               {
                 "t": "p",
-                "x": "El pacto combina las capacidades de Taiwán en IA y tecnología avanzada, y su cantera de talento creativo, con lo que aporta Weta FX: experiencia en VFX, trayectoria en producciones internacionales y una red global. El objetivo es integrar a tecnólogos y creativos taiwaneses en proyectos de toda la industria audiovisual mundial. Para Seah, el acuerdo tiene un componente personal: creció en Taiwán."
-              },
-              {
-                "t": "p",
-                "x": "El Ministerio de Cultura de Taiwán creó TAICCA en 2019. Weta FX tiene su sede en Wellington, con oficinas en Vancouver y Melbourne; entre sus títulos en producción figuran “The Lord of the Rings: The Hunt for Gollum” y “Avengers: Doomsday”, de Marvel Studios."
+                "x": "El caso plantea la cuestión inédita de si crear una imagen con un generador de imágenes de AI copiando sin licencia parte de una obra protegida constituye una infracción de derechos de autor. Tesla y Musk sostienen que se trata de uso legítimo."
               }
             ]
           }
@@ -707,15 +617,347 @@
       }
     },
     {
-      "id": "siff-ai-cinema-special",
+      "id": "raphael-ai-feature-korea",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "일곱 감독의 AI 단편\nSIFF에서 상영",
-      "body": "이명세 등 일곱 감독이 SIFF를 위해 AI 창작자와 각각 단편을 만들었다.",
-      "mini_headline": "SIFF에서 감독들, AI와 협업",
+      "headline": "AI-made 한국 영화\nRaphael 극장 개봉",
+      "body": "AI SF 장편 Raphael이 14개월 편집 끝에 오는 25일 국내 개봉한다.",
+      "mini_headline": "AI 영화 Raphael 개봉",
       "tool": "Movies",
-      "source": "Korea JoongAng Daily",
-      "url": "https://www.koreajoongangdaily.com/entertainment/seven-directors-to-unveil-ai-short-films-at-seoul-independent-film-festival/12955399",
+      "source": "The Korea Times",
+      "url": "https://www.koreatimes.co.kr/entertainment/films/20261105/ai-movies-make-leap-from-short-clips-to-big-screen",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://newsimg.koreatimes.co.kr/2026/11/04/3a0e1a84-3ca8-4f17-8284-1ca86f2f1608.jpg?w=728",
+            "cap": "개봉을 앞둔 영화 “Raphael”의 한 장면 / 300 & Co. 제공"
+          },
+          {
+            "t": "p",
+            "x": "생성형 AI만으로 만든 SF 영화 “Raphael”이 11월 25일 국내 극장에서 개봉한다. 양익준(Yang Ik-june), Moon Shin-woo, Jung Joo-won이 공동 연출했고 Mateo AI Studio와 MBC C&I AI Content Lab이 제작했다. 138분짜리 영화로, 등장인물 외모를 일관되게 유지하고 움직임을 자연스럽게 다듬느라 편집에만 14개월이 걸렸다. 지난달 개봉한 90분짜리 AI-generated 액션 영화 “Steelay”의 뒤를 잇는다."
+          },
+          {
+            "t": "p",
+            "x": "연상호(Yeon Sang-ho) 감독은 생성형 AI만으로 두 주 만에 만든 네 편짜리 스핀오프 시리즈 “Paradise Lost Universe”를 공개했다. 그는 “품질이 놀라울 만큼 괜찮고 AI 캐릭터들의 연기도 꽤 훌륭하다”며 “다만 AI가 실제 배우를 대체하기는 쉽지 않을 것”이라고 말했다."
+          },
+          {
+            "t": "img",
+            "src": "https://newsimg.koreatimes.co.kr/2026/11/04/eece63b8-8d2d-4752-ac62-ff296e044a20.jpg?w=728",
+            "cap": "연상호(Yeon Sang-ho) 감독이 생성형 AI로 만든 단편 “Paradise Lost Universe”의 한 장면"
+          },
+          {
+            "t": "p",
+            "x": "최근 두 해 사이 AI 단편 세 편을 연출한 중국 지아장커(Jia Zhangke) 감독은 부산국제영화제에서 이렇게 말했다. “AI의 도래는 막을 수 없고, 감정적인 논쟁을 벌이기보다 우리가 직접 한두 편을 만들어 보며 이해하는 것이 더 중요하다.”"
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Fully AI-made Korean film\nRaphael heads to theaters",
+          "body": "AI sci-fi feature Raphael opens in Korean theaters Nov. 25 after 14 months of editing to keep characters consistent.",
+          "mini_headline": "AI film Raphael hits theaters",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/04/3a0e1a84-3ca8-4f17-8284-1ca86f2f1608.jpg?w=728",
+                "cap": "A scene from upcoming movie “Raphael” / Courtesy of 300 & Co."
+              },
+              {
+                "t": "p",
+                "x": "\"Raphael,\" a science fiction movie created entirely using generative AI, will open in local theaters on Nov. 25. Co-directed by Yang Ik-june, Moon Shin-woo and Jung Joo-won and produced by Mateo AI Studio and MBC C&I AI Content Lab, the 138-minute movie required 14 months of editing to maintain consistent appearances and natural movements for the characters. It follows \"Steelay,\" a 90-minute AI-generated action film that opened last month."
+              },
+              {
+                "t": "p",
+                "x": "Director Yeon Sang-ho released a four-part spin-off series, \"Paradise Lost Universe,\" made entirely with generative AI in two weeks. \"The quality is surprisingly decent and the AI characters act quite well,\" Yeon said. \"However, it will not be easy for AI to replace real actors.\""
+              },
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/04/eece63b8-8d2d-4752-ac62-ff296e044a20.jpg?w=728",
+                "cap": "A scene from \"Paradise Lost Universe,\" a short film created using generative AI by director Yeon Sang-ho"
+              },
+              {
+                "t": "p",
+                "x": "Chinese director Jia Zhangke, who has directed three AI short films over the past two years, said at the Busan International Film Festival: \"We cannot block the arrival of AI, and it is more important to make one or two films ourselves to understand it rather than engaging in emotional debates.\""
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI-made 한국 영화\nRaphael 극장 개봉",
+          "body": "AI SF 장편 Raphael이 14개월 편집 끝에 오는 25일 국내 개봉한다.",
+          "mini_headline": "AI 영화 Raphael 개봉",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/04/3a0e1a84-3ca8-4f17-8284-1ca86f2f1608.jpg?w=728",
+                "cap": "개봉을 앞둔 영화 “Raphael”의 한 장면 / 300 & Co. 제공"
+              },
+              {
+                "t": "p",
+                "x": "생성형 AI만으로 만든 SF 영화 “Raphael”이 11월 25일 국내 극장에서 개봉한다. 양익준(Yang Ik-june), Moon Shin-woo, Jung Joo-won이 공동 연출했고 Mateo AI Studio와 MBC C&I AI Content Lab이 제작했다. 138분짜리 영화로, 등장인물 외모를 일관되게 유지하고 움직임을 자연스럽게 다듬느라 편집에만 14개월이 걸렸다. 지난달 개봉한 90분짜리 AI-generated 액션 영화 “Steelay”의 뒤를 잇는다."
+              },
+              {
+                "t": "p",
+                "x": "연상호(Yeon Sang-ho) 감독은 생성형 AI만으로 두 주 만에 만든 네 편짜리 스핀오프 시리즈 “Paradise Lost Universe”를 공개했다. 그는 “품질이 놀라울 만큼 괜찮고 AI 캐릭터들의 연기도 꽤 훌륭하다”며 “다만 AI가 실제 배우를 대체하기는 쉽지 않을 것”이라고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/04/eece63b8-8d2d-4752-ac62-ff296e044a20.jpg?w=728",
+                "cap": "연상호(Yeon Sang-ho) 감독이 생성형 AI로 만든 단편 “Paradise Lost Universe”의 한 장면"
+              },
+              {
+                "t": "p",
+                "x": "최근 두 해 사이 AI 단편 세 편을 연출한 중국 지아장커(Jia Zhangke) 감독은 부산국제영화제에서 이렇게 말했다. “AI의 도래는 막을 수 없고, 감정적인 논쟁을 벌이기보다 우리가 직접 한두 편을 만들어 보며 이해하는 것이 더 중요하다.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "全編AI-madeの韓国映画\nRaphaelが劇場公開へ",
+          "body": "AI製SF長編Raphaelは14か月の編集を経て25日に韓国で公開される。",
+          "mini_headline": "AI映画Raphaelが公開",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/04/3a0e1a84-3ca8-4f17-8284-1ca86f2f1608.jpg?w=728",
+                "cap": "公開を控える映画「Raphael」の一場面 / 300 & Co.提供"
+              },
+              {
+                "t": "p",
+                "x": "生成AIだけで作られたSF映画「Raphael」が11月25日に韓国の劇場で公開される。ヤン・イクチュン(Yang Ik-june)、Moon Shin-woo、Jung Joo-wonが共同監督し、Mateo AI StudioとMBC C&I AI Content Labが制作した138分の本作は、登場人物の外見を一貫させ、動きを自然に保つため14か月の編集を要した。先月公開された90分のAI-generatedアクション映画「Steelay」に続く作品となる。"
+              },
+              {
+                "t": "p",
+                "x": "ヨン・サンホ(Yeon Sang-ho)監督は、生成AIだけを使って二週間で制作した四部構成のスピンオフシリーズ「Paradise Lost Universe」を公開した。「品質は驚くほどまずまずで、AIキャラクターの演技もかなりいい」とヨン監督は語る。「ただ、AIが本物の俳優に取って代わるのは簡単ではないだろう」"
+              },
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/04/eece63b8-8d2d-4752-ac62-ff296e044a20.jpg?w=728",
+                "cap": "ヨン・サンホ(Yeon Sang-ho)監督が生成AIで制作した短編「Paradise Lost Universe」の一場面"
+              },
+              {
+                "t": "p",
+                "x": "過去二年間でAI短編を三本監督した中国のジャ・ジャンクー(Jia Zhangke)監督は、釜山国際映画祭でこう述べた。「AIの到来は止められない。感情的な議論をするより、自分たちで一、二本作って理解することのほうが重要だ」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "全片AI-made韩国电影\nRaphael即将上映",
+          "body": "AI科幻长片Raphael历经14个月剪辑以保持角色一致，将于25日在韩国上映。",
+          "mini_headline": "AI电影Raphael上映",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/04/3a0e1a84-3ca8-4f17-8284-1ca86f2f1608.jpg?w=728",
+                "cap": "即将上映的电影《Raphael》剧照 / 300 & Co.提供"
+              },
+              {
+                "t": "p",
+                "x": "完全使用生成式AI制作的科幻电影《Raphael》将于11月25日在韩国院线上映。该片由Yang Ik-june、Moon Shin-woo和Jung Joo-won联合执导，Mateo AI Studio与MBC C&I AI Content Lab出品，片长138分钟，为了保持角色外貌一致、动作自然，耗费了14个月进行剪辑。在它之前，90分钟的AI-generated动作片《Steelay》已于上月上映。"
+              },
+              {
+                "t": "p",
+                "x": "延尚昊(Yeon Sang-ho)导演发布了一部完全用生成式AI在两周内制作的四集衍生剧《Paradise Lost Universe》。延尚昊说：“画质出人意料地不错，AI角色的表演也相当好。不过，AI要取代真正的演员并不容易。”"
+              },
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/04/eece63b8-8d2d-4752-ac62-ff296e044a20.jpg?w=728",
+                "cap": "延尚昊(Yeon Sang-ho)导演用生成式AI制作的短片《Paradise Lost Universe》剧照"
+              },
+              {
+                "t": "p",
+                "x": "过去两年执导了三部AI短片的中国导演贾樟柯(Jia Zhangke)在釜山国际电影节上表示：“我们无法阻挡AI的到来，与其进行情绪化的争论，不如自己拍一两部电影去理解它，这更重要。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El filme coreano AI-made\nRaphael llega a los cines",
+          "body": "El largometraje de ciencia ficción con AI Raphael se estrena en Corea el 25 de noviembre tras 14 meses de edición.",
+          "mini_headline": "Raphael, cine con AI, llega a salas",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/04/3a0e1a84-3ca8-4f17-8284-1ca86f2f1608.jpg?w=728",
+                "cap": "Una escena de la próxima película “Raphael” / Cortesía de 300 & Co."
+              },
+              {
+                "t": "p",
+                "x": "“Raphael”, una película de ciencia ficción creada íntegramente con AI generativa, se estrenará en los cines del país el 25 de noviembre. Codirigida por Yang Ik-june, Moon Shin-woo y Jung Joo-won y producida por Mateo AI Studio y MBC C&I AI Content Lab, la película de 138 minutos requirió 14 meses de edición para mantener la apariencia coherente y los movimientos naturales de los personajes. Llega después de “Steelay”, una película de acción de 90 minutos generada con AI (AI-generated) que se estrenó el mes pasado."
+              },
+              {
+                "t": "p",
+                "x": "El director Yeon Sang-ho presentó una serie derivada de cuatro partes, “Paradise Lost Universe”, hecha íntegramente con AI generativa en dos semanas. “La calidad es sorprendentemente aceptable y los personajes de AI actúan bastante bien”, dijo Yeon. “Sin embargo, no será fácil que la AI sustituya a los actores reales”."
+              },
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/04/eece63b8-8d2d-4752-ac62-ff296e044a20.jpg?w=728",
+                "cap": "Una escena de “Paradise Lost Universe”, cortometraje creado con AI generativa por el director Yeon Sang-ho"
+              },
+              {
+                "t": "p",
+                "x": "El director chino Jia Zhangke, que ha dirigido tres cortometrajes con AI en los últimos dos años, dijo en el Festival Internacional de Cine de Busan: “No podemos impedir la llegada de la AI, y es más importante hacer nosotros mismos una o dos películas para entenderla que enzarzarnos en debates emocionales”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI-made 한국 영화\nRaphael 극장 개봉",
+          "body": "AI SF 장편 Raphael이 14개월 편집 끝에 오는 25일 국내 개봉한다.",
+          "mini_headline": "AI 영화 Raphael 개봉",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/04/3a0e1a84-3ca8-4f17-8284-1ca86f2f1608.jpg?w=728",
+                "cap": "개봉을 앞둔 영화 “Raphael”의 한 장면 / 300 & Co. 제공"
+              },
+              {
+                "t": "p",
+                "x": "생성형 AI만으로 만든 SF 영화 “Raphael”이 11월 25일 국내 극장에서 개봉한다. 양익준(Yang Ik-june), Moon Shin-woo, Jung Joo-won이 공동 연출하고 Mateo AI Studio와 MBC C&I AI Content Lab이 제작한 138분 분량의 이 영화는 등장인물의 외모를 일관되게 유지하고 움직임을 자연스럽게 다듬느라 14개월간 편집을 거쳤다. 지난달 개봉한 90분짜리 AI-generated 액션 영화 “Steelay”에 이은 작품이다."
+              },
+              {
+                "t": "p",
+                "x": "연상호(Yeon Sang-ho) 감독은 생성형 AI만으로 두 주 만에 만든 네 편짜리 스핀오프 시리즈 “Paradise Lost Universe”를 공개했다. 연상호 감독은 “품질이 놀라울 만큼 괜찮고 AI 캐릭터들의 연기도 꽤 훌륭하다”며 “다만 AI가 실제 배우를 대체하기는 쉽지 않을 것”이라고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/04/eece63b8-8d2d-4752-ac62-ff296e044a20.jpg?w=728",
+                "cap": "연상호(Yeon Sang-ho) 감독이 생성형 AI로 만든 단편 “Paradise Lost Universe”의 한 장면"
+              },
+              {
+                "t": "p",
+                "x": "지난 두 해 동안 AI 단편 세 편을 연출한 중국의 지아장커(Jia Zhangke) 감독은 부산국제영화제에서 이렇게 말했다. “AI의 도래는 막을 수 없고, 감정적인 논쟁을 벌이기보다 우리가 직접 한두 편을 만들어 보며 이해하는 것이 더 중요하다.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "全編AI-madeの韓国映画\nRaphaelが劇場公開へ",
+          "body": "AI製SF長編Raphaelは14か月の編集を経て25日に韓国で公開される。",
+          "mini_headline": "AI映画Raphaelが公開",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/04/3a0e1a84-3ca8-4f17-8284-1ca86f2f1608.jpg?w=728",
+                "cap": "公開を控える映画「Raphael」の一場面 / 300 & Co.提供"
+              },
+              {
+                "t": "p",
+                "x": "生成AIだけで作られたSF映画「Raphael」が11月25日に韓国の劇場で公開される。ヤン・イクチュン(Yang Ik-june)、Moon Shin-woo、Jung Joo-wonが共同監督し、Mateo AI StudioとMBC C&I AI Content Labが制作した138分の本作は、登場人物の外見を一貫させ、動きを自然に保つため14か月の編集を要した。先月公開された90分のAI-generatedアクション映画「Steelay」に続く作品となる。"
+              },
+              {
+                "t": "p",
+                "x": "ヨン・サンホ(Yeon Sang-ho)監督は、生成AIだけを使って二週間で制作した四部構成のスピンオフシリーズ「Paradise Lost Universe」を公開した。「品質は驚くほどまずまずで、AIキャラクターの演技もかなりいい」とヨン監督は語る。「ただ、AIが本物の俳優に取って代わるのは簡単ではないだろう」"
+              },
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/04/eece63b8-8d2d-4752-ac62-ff296e044a20.jpg?w=728",
+                "cap": "ヨン・サンホ(Yeon Sang-ho)監督が生成AIで制作した短編「Paradise Lost Universe」の一場面"
+              },
+              {
+                "t": "p",
+                "x": "過去二年間でAI短編を三本監督した中国のジャ・ジャンクー(Jia Zhangke)監督は、釜山国際映画祭でこう述べた。「AIの到来は止められない。感情的な議論をするより、自分たちで一、二本作って理解することのほうが重要だ」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "全片AI-made韩国电影\nRaphael即将上映",
+          "body": "AI科幻长片Raphael历经14个月剪辑以保持角色一致，将于25日在韩国上映。",
+          "mini_headline": "AI电影Raphael上映",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/04/3a0e1a84-3ca8-4f17-8284-1ca86f2f1608.jpg?w=728",
+                "cap": "即将上映的电影《Raphael》剧照 / 300 & Co.提供"
+              },
+              {
+                "t": "p",
+                "x": "完全使用生成式AI制作的科幻电影《Raphael》将于11月25日在韩国院线上映。该片由Yang Ik-june、Moon Shin-woo和Jung Joo-won联合执导，Mateo AI Studio与MBC C&I AI Content Lab出品，片长138分钟，为了保持角色外貌一致、动作自然，耗费了14个月进行剪辑。在它之前，90分钟的AI-generated动作片《Steelay》已于上月上映。"
+              },
+              {
+                "t": "p",
+                "x": "延尚昊(Yeon Sang-ho)导演发布了一部完全用生成式AI在两周内制作的四集衍生剧《Paradise Lost Universe》。延尚昊说：“画质出人意料地不错，AI角色的表演也相当好。不过，AI要取代真正的演员并不容易。”"
+              },
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/04/eece63b8-8d2d-4752-ac62-ff296e044a20.jpg?w=728",
+                "cap": "延尚昊(Yeon Sang-ho)导演用生成式AI制作的短片《Paradise Lost Universe》剧照"
+              },
+              {
+                "t": "p",
+                "x": "过去两年执导了三部AI短片的中国导演贾樟柯(Jia Zhangke)在釜山国际电影节上表示：“我们无法阻挡AI的到来，与其进行情绪化的争论，不如自己拍一两部电影去理解它，这更重要。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El filme coreano AI-made\nRaphael llega a los cines",
+          "body": "El largometraje de ciencia ficción con AI Raphael se estrena en Corea el 25 de noviembre tras 14 meses de edición.",
+          "mini_headline": "Raphael, cine con AI, llega a salas",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/04/3a0e1a84-3ca8-4f17-8284-1ca86f2f1608.jpg?w=728",
+                "cap": "Una escena de la próxima película “Raphael” / Cortesía de 300 & Co."
+              },
+              {
+                "t": "p",
+                "x": "“Raphael”, una película de ciencia ficción creada íntegramente con AI generativa, se estrenará en los cines del país el 25 de noviembre. Codirigida por Yang Ik-june, Moon Shin-woo y Jung Joo-won y producida por Mateo AI Studio y MBC C&I AI Content Lab, la película de 138 minutos requirió 14 meses de edición para mantener la apariencia coherente y los movimientos naturales de los personajes. Llega después de “Steelay”, una película de acción de 90 minutos generada con AI (AI-generated) que se estrenó el mes pasado."
+              },
+              {
+                "t": "p",
+                "x": "El director Yeon Sang-ho presentó una serie derivada de cuatro partes, “Paradise Lost Universe”, hecha íntegramente con AI generativa en dos semanas. “La calidad es sorprendentemente aceptable y los personajes de AI actúan bastante bien”, dijo Yeon. “Sin embargo, no será fácil que la AI sustituya a los actores reales”."
+              },
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/04/eece63b8-8d2d-4752-ac62-ff296e044a20.jpg?w=728",
+                "cap": "Una escena de “Paradise Lost Universe”, cortometraje creado con AI generativa por el director Yeon Sang-ho"
+              },
+              {
+                "t": "p",
+                "x": "El director chino Jia Zhangke, que ha dirigido tres cortometrajes con AI en los últimos dos años, dijo en el Festival Internacional de Cine de Busan: “No podemos impedir la llegada de la AI, y es más importante hacer nosotros mismos una o dos películas para entenderla que enzarzarnos en debates emocionales”."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "klemm-netflix-dub-voice-suit",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "독일 성우, AI 학습에\nNetflix 상대 소송",
+      "body": "Matti Klemm이 더빙 음성을 AI 학습에 썼다며 Netflix를 고소한다.",
+      "mini_headline": "더빙 성우, AI로 Netflix 제소",
+      "tool": "Movies",
+      "source": "Voice Over Herald",
+      "url": "https://www.voiceoverherald.com/matti-klemm-netflix-lawsuit-ai-training-voice-data/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -723,239 +965,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://image.koreajoongangdaily.com/12955618.webp?imageId=12955618&width=960&height=548&format=jpg",
-            "cap": "안상훈 감독의 AI 영화 “The Signal” 스틸"
+            "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-24.jpg"
           },
           {
             "t": "p",
-            "x": "생성형 AI로 만든 단편영화 일곱 편이 11월 25일부터 12월 4일까지 열리는 올해 서울독립영화제(SIFF)에서 상영된다. 이명세, 신연식, 장철수, 안상훈, 박신우, 조바른, 김다민 감독이 영화제 ‘AI 시네마 스페셜(AI Cinema Special)’ 섹션용으로 기획된 프로젝트에서 각자 AI 창작자와 손잡고 단편을 만들었다."
+            "x": "Jason Momoa와 Mahershala Ali의 독일어 목소리를 맡아 온 Matti Klemm은 Netflix가 묻지도 않고 대가도 없이 자기 목소리로 AI 시스템을 학습시켰다고 말한다. 독일 성우 협회 VDS는 Klemm이 인격권, 저작권, 개인정보 보호권을 침해당했다며 Netflix에 소송을 낸다고 발표했다."
+          },
+          {
+            "t": "video",
+            "yt": "mtoEU94dj0E"
           },
           {
             "t": "p",
-            "x": "김동현 집행위원장은 “AI가 기존 창작자를 대체하기보다 창작 과정에서 의미 있는 조력자가 될 수 있다고 믿는다”고 말했다."
-          },
-          {
-            "t": "img",
-            "src": "https://image.koreajoongangdaily.com/12955619.webp?imageId=12955619&width=960&height=548&format=jpg",
-            "cap": "박신우 감독의 AI 영화 “Girl with a blade : happy day” 스틸"
+            "x": "VDS에 따르면 Netflix는 Klemm의 정보 열람 요청에 답하다가 “과거에 이미 Klemm이 알지 못하고 동의하지도 않은 상태에서 그의 개인 음성 녹음으로 AI 시스템을 학습시켰다”고 스스로 밝혔다. Klemm은 2026년 초부터 독일 더빙 배우들 앞에 놓인 새 AI 학습 조항에 서명을 거부해 왔다."
           },
           {
             "t": "p",
-            "x": "일부 작품은 시각효과에 드는 시간과 비용 탓에 실사로는 구현하기 어려웠을 개념을 다룬다. 감독들은 작품의 소재와 장르에 맞는 상용 생성형 AI 모델을 골라 썼고, 기술은 Kling AI, BytePlus, TapNow, MiniMax, ElevenLabs가 제공했다."
-          },
-          {
-            "t": "img",
-            "src": "https://image.koreajoongangdaily.com/12955620.webp?imageId=12955620&width=960&height=548&format=jpg",
-            "cap": "장철수 감독의 AI 영화 “End of Species” 스틸"
-          },
-          {
-            "t": "p",
-            "x": "AI 영화 쇼케이스는 11월 27일 서울 남부의 CGV 압구정에서 열린다. 상영과 함께 제작 과정과 AI 활용을 소개하는 발표도 이어진다."
+            "x": "시민권 단체 GFF는 2026년 말 소송을 내 정보 공개와 손해배상, 앞으로 그의 목소리를 AI 학습에 쓰지 못하게 하는 명령을 청구할 계획이다. Netflix는 자사의 “AI 활용은 관련 법률에 부합한다”는 입장이다. 변호사 Jonas Kahl은 “목소리는 누구나 가져다 쓸 수 있는 원재료가 아니다”라고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Seven directors bring\nAI shorts to SIFF",
-          "body": "For SIFF's AI Cinema Special, seven directors including Lee Myung-se each paired with AI creators on a short film.",
-          "mini_headline": "Directors team with AI at SIFF",
+          "headline": "German dub actor sues Netflix\nover AI voice training",
+          "body": "Matti Klemm, Jason Momoa's German voice, will sue Netflix after a data request showed his dubbing trained AI.",
+          "mini_headline": "Dub actor sues Netflix over AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955618.webp?imageId=12955618&width=960&height=548&format=jpg",
-                "cap": "A still from Ahn Sang-hoon's AI film “The Signal”"
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-24.jpg"
               },
               {
                 "t": "p",
-                "x": "Seven short films created using generative AI will be screened at this year’s Seoul Independent Film Festival (SIFF), which runs from Nov. 25 to Dec. 4. Directors Lee Myung-se, Shin Youn-shick, Jang Cheol-soo, Ahn Sang-hoon, Park Sin-woo, Jo Ba-reun and Kim Da-min each collaborated with AI creators to produce a short film as part of a project organized for the festival’s “AI Cinema Special” section."
+                "x": "Matti Klemm, the German voice of Jason Momoa and Mahershala Ali, says Netflix trained AI systems on his voice without asking him or paying him. The VDS, the association of German voice artists, announced that Klemm will file a lawsuit against Netflix claiming a breach of his personality rights, copyright and data protection rights."
+              },
+              {
+                "t": "video",
+                "yt": "mtoEU94dj0E"
               },
               {
                 "t": "p",
-                "x": "“We believe that AI can serve as a meaningful assistant in the creative process rather than replace existing creators,” said Kim Dong-hyun, the executive director of the festival."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955619.webp?imageId=12955619&width=960&height=548&format=jpg",
-                "cap": "A still from Park Sin-woo's AI film “Girl with a blade : happy day”"
+                "x": "According to the VDS, Netflix answered a data access request from Klemm showing it “had already, in the past and without Klemm’s knowledge and consent, trained AI systems with his personal voice recordings.” Klemm had refused to sign the new AI training clauses offered to German dubbing actors since early 2026."
               },
               {
                 "t": "p",
-                "x": "Some of the films explore concepts that would have been difficult to achieve in live-action because of the time and expense required for visual effects. The directors used commercially available generative AI models selected to suit their film’s subject matter and genre; Kling AI, BytePlus, TapNow, MiniMax and ElevenLabs provided the technology."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955620.webp?imageId=12955620&width=960&height=548&format=jpg",
-                "cap": "A still from Jang Cheol-soo's AI film “End of Species”"
-              },
-              {
-                "t": "p",
-                "x": "A showcase for the AI films will take place at CGV Apgujeong in southern Seoul on Nov. 27, with screenings and presentations on their production processes and the use of AI."
+                "x": "The GFF civil rights group plans to file the case at the end of 2026, seeking disclosure, an order stopping future AI training on his voice, and damages. Netflix said its “use of AI is in accordance with applicable law.” Lawyer Jonas Kahl: “Voices are not a freely available raw material.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "일곱 감독의 AI 단편\nSIFF에서 상영",
-          "body": "이명세 등 일곱 감독이 SIFF를 위해 AI 창작자와 각각 단편을 만들었다.",
-          "mini_headline": "SIFF에서 감독들, AI와 협업",
+          "headline": "독일 성우, AI 학습에\nNetflix 상대 소송",
+          "body": "Matti Klemm이 더빙 음성을 AI 학습에 썼다며 Netflix를 고소한다.",
+          "mini_headline": "더빙 성우, AI로 Netflix 제소",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955618.webp?imageId=12955618&width=960&height=548&format=jpg",
-                "cap": "안상훈 감독의 AI 영화 “The Signal” 스틸"
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-24.jpg"
               },
               {
                 "t": "p",
-                "x": "생성형 AI로 만든 단편영화 일곱 편이 11월 25일부터 12월 4일까지 열리는 올해 서울독립영화제(SIFF)에서 상영된다. 이명세, 신연식, 장철수, 안상훈, 박신우, 조바른, 김다민 감독이 영화제 ‘AI 시네마 스페셜(AI Cinema Special)’ 섹션용으로 기획된 프로젝트에서 각자 AI 창작자와 손잡고 단편을 만들었다."
+                "x": "Jason Momoa와 Mahershala Ali의 독일어 목소리를 맡아 온 Matti Klemm은 Netflix가 묻지도 않고 대가도 없이 자기 목소리로 AI 시스템을 학습시켰다고 말한다. 독일 성우 협회 VDS는 Klemm이 인격권, 저작권, 개인정보 보호권을 침해당했다며 Netflix에 소송을 낸다고 발표했다."
+              },
+              {
+                "t": "video",
+                "yt": "mtoEU94dj0E"
               },
               {
                 "t": "p",
-                "x": "김동현 집행위원장은 “AI가 기존 창작자를 대체하기보다 창작 과정에서 의미 있는 조력자가 될 수 있다고 믿는다”고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955619.webp?imageId=12955619&width=960&height=548&format=jpg",
-                "cap": "박신우 감독의 AI 영화 “Girl with a blade : happy day” 스틸"
+                "x": "VDS에 따르면 Netflix는 Klemm의 정보 열람 요청에 답하다가 “과거에 이미 Klemm이 알지 못하고 동의하지도 않은 상태에서 그의 개인 음성 녹음으로 AI 시스템을 학습시켰다”고 스스로 밝혔다. Klemm은 2026년 초부터 독일 더빙 배우들 앞에 놓인 새 AI 학습 조항에 서명을 거부해 왔다."
               },
               {
                 "t": "p",
-                "x": "일부 작품은 시각효과에 드는 시간과 비용 탓에 실사로는 구현하기 어려웠을 개념을 다룬다. 감독들은 작품의 소재와 장르에 맞는 상용 생성형 AI 모델을 골라 썼고, 기술은 Kling AI, BytePlus, TapNow, MiniMax, ElevenLabs가 제공했다."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955620.webp?imageId=12955620&width=960&height=548&format=jpg",
-                "cap": "장철수 감독의 AI 영화 “End of Species” 스틸"
-              },
-              {
-                "t": "p",
-                "x": "AI 영화 쇼케이스는 11월 27일 서울 남부의 CGV 압구정에서 열린다. 상영과 함께 제작 과정과 AI 활용을 소개하는 발표도 이어진다."
+                "x": "시민권 단체 GFF는 2026년 말 소송을 내 정보 공개와 손해배상, 앞으로 그의 목소리를 AI 학습에 쓰지 못하게 하는 명령을 청구할 계획이다. Netflix는 자사의 “AI 활용은 관련 법률에 부합한다”는 입장이다. 변호사 Jonas Kahl은 “목소리는 누구나 가져다 쓸 수 있는 원재료가 아니다”라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "7人の監督のAI短編\nSIFFで上映",
-          "body": "李明世ら監督7人が、SIFFのAI特集でAIクリエイターと組み短編を制作した。",
-          "mini_headline": "SIFFで監督たちがAIと協働",
+          "headline": "ドイツの吹替声優が\nAI学習でNetflix提訴",
+          "body": "Matti Klemmが吹替音声のAI学習を理由にNetflixを提訴する。",
+          "mini_headline": "吹替声優、AIでNetflix提訴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955618.webp?imageId=12955618&width=960&height=548&format=jpg",
-                "cap": "Ahn Sang-hoon監督のAI映画「The Signal」のスチール"
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-24.jpg"
               },
               {
                 "t": "p",
-                "x": "生成AIで作られた短編映画7本が、11月25日から12月4日まで開かれる今年のソウル独立映画祭(SIFF)で上映される。Lee Myung-se、Shin Youn-shick、Jang Cheol-soo、Ahn Sang-hoon、Park Sin-woo、Jo Ba-reun、Kim Da-minの各監督は、映画祭の「AI Cinema Special」部門のために企画されたプロジェクトの一環として、それぞれAIクリエイターと協働して短編を制作した。"
+                "x": "Jason MomoaやMahershala Aliのドイツ語吹き替えを担当するMatti Klemmは、Netflixが本人に断りも対価もなく、彼の声でAIシステムを学習させたと訴える。ドイツの声優団体VDSは、Klemmが人格権、著作権、データ保護の権利の侵害を理由にNetflixを提訴すると発表した。"
+              },
+              {
+                "t": "video",
+                "yt": "mtoEU94dj0E"
               },
               {
                 "t": "p",
-                "x": "映画祭のエグゼクティブ・ディレクターKim Dong-hyunは「AIは既存のクリエイターに取って代わるのではなく、創作の過程で意味のある助手になり得ると考えている」と述べた。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955619.webp?imageId=12955619&width=960&height=548&format=jpg",
-                "cap": "Park Sin-woo監督のAI映画「Girl with a blade : happy day」のスチール"
+                "x": "VDSによると、NetflixはKlemmのデータ開示請求への回答で、「過去にすでに、Klemmが知らないうちに同意もなく、彼の個人的な音声録音でAIシステムを学習させていた」ことを明らかにした。Klemmは、2026年初めからドイツの吹き替え俳優に提示されている新たなAI学習条項への署名を拒んでいた。"
               },
               {
                 "t": "p",
-                "x": "一部の作品は、視覚効果にかかる時間と費用のために実写では実現が難しかったであろうコンセプトに挑んでいる。監督たちは作品の題材とジャンルに合わせて選んだ市販の生成AIモデルを使い、Kling AI、BytePlus、TapNow、MiniMax、ElevenLabsが技術を提供した。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955620.webp?imageId=12955620&width=960&height=548&format=jpg",
-                "cap": "Jang Cheol-soo監督のAI映画「End of Species」のスチール"
-              },
-              {
-                "t": "p",
-                "x": "AI映画のショーケースは11月27日、ソウル南部のCGV狎鴎亭で開かれ、上映に加えて制作過程とAI活用についての発表が行われる。"
+                "x": "市民権団体GFFは2026年末に提訴し、情報開示、彼の声を使った今後のAI学習の差し止め、損害賠償を求める計画だ。Netflixは「AIの利用は適用法に準拠している」としている。弁護士のJonas Kahlは「声は自由に使える原材料ではない」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "七位导演携AI短片\n亮相SIFF",
-          "body": "在SIFF的AI电影特别单元，李明世等七位导演各与AI创作者合作完成一部短片。",
-          "mini_headline": "SIFF导演携手AI",
+          "headline": "德国配音员起诉Netflix\n指其用声音训练AI",
+          "body": "德语配音演员Matti Klemm经查询发现声音被用于训练AI，将起诉Netflix。",
+          "mini_headline": "配音演员就AI起诉Netflix",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955618.webp?imageId=12955618&width=960&height=548&format=jpg",
-                "cap": "Ahn Sang-hoon执导的AI电影《The Signal》剧照"
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-24.jpg"
               },
               {
                 "t": "p",
-                "x": "七部用生成式AI制作的短片将在今年的首尔独立电影节(SIFF)上放映，电影节于11月25日至12月4日举行。导演Lee Myung-se、Shin Youn-shick、Jang Cheol-soo、Ahn Sang-hoon、Park Sin-woo、Jo Ba-reun和Kim Da-min各自与AI创作者合作完成一部短片，这是电影节为“AI Cinema Special”单元策划的项目的一部分。"
+                "x": "为Jason Momoa和Mahershala Ali担任德语配音的Matti Klemm表示，Netflix在未征询他、也未付酬的情况下，用他的声音训练了AI系统。德国配音艺术家协会VDS宣布，Klemm将起诉Netflix，指控其侵犯了他的人格权、著作权和数据保护权。"
+              },
+              {
+                "t": "video",
+                "yt": "mtoEU94dj0E"
               },
               {
                 "t": "p",
-                "x": "电影节执行总监Kim Dong-hyun表示：“我们相信，AI可以在创作过程中成为有意义的助手，而不是取代现有的创作者。”"
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955619.webp?imageId=12955619&width=960&height=548&format=jpg",
-                "cap": "Park Sin-woo执导的AI电影《Girl with a blade : happy day》剧照"
+                "x": "据VDS称，Netflix在答复Klemm的数据查阅请求时表明，其“过去已在Klemm不知情且未同意的情况下，用他的个人语音录音训练了AI系统”。自2026年初起，Klemm一直拒绝签署向德国配音演员提供的新AI训练条款。"
               },
               {
                 "t": "p",
-                "x": "部分作品探索了因视效所需的时间和成本而难以用实拍实现的构想。导演们使用了根据影片题材和类型挑选的商用生成式AI模型，技术由Kling AI、BytePlus、TapNow、MiniMax和ElevenLabs提供。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955620.webp?imageId=12955620&width=960&height=548&format=jpg",
-                "cap": "Jang Cheol-soo执导的AI电影《End of Species》剧照"
-              },
-              {
-                "t": "p",
-                "x": "这批AI电影的展映会将于11月27日在首尔南部的CGV狎鸥亭举行，届时将放映影片，并介绍制作过程与AI的使用。"
+                "x": "民权组织GFF计划于2026年底提起诉讼，要求披露信息、下令停止今后用他的声音进行AI训练，并索赔损失。Netflix表示，其“对AI的使用符合适用法律”。律师Jonas Kahl说：“声音不是可以随意取用的原材料。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Siete directores llevan\ncortos con IA al SIFF",
-          "body": "Para el AI Cinema Special del SIFF, siete directores como Lee Myung-se hicieron cortos con creadores de IA.",
-          "mini_headline": "Directores y IA en el SIFF",
+          "headline": "Actor de doblaje alemán demanda\na Netflix por entrenar AI",
+          "body": "Matti Klemm, voz alemana de Jason Momoa, demandará a Netflix al descubrir que se usó su doblaje para entrenar AI.",
+          "mini_headline": "Actor de doblaje demanda a Netflix por AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955618.webp?imageId=12955618&width=960&height=548&format=jpg",
-                "cap": "Fotograma de la película de IA de Ahn Sang-hoon “The Signal”"
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-24.jpg"
               },
               {
                 "t": "p",
-                "x": "Siete cortometrajes creados con IA generativa se proyectarán en la edición de este año del Seoul Independent Film Festival (SIFF), que se celebra del 25 de noviembre al 4 de diciembre. Los directores Lee Myung-se, Shin Youn-shick, Jang Cheol-soo, Ahn Sang-hoon, Park Sin-woo, Jo Ba-reun y Kim Da-min colaboraron cada uno con creadores de IA para producir un corto, dentro de un proyecto organizado para la sección “AI Cinema Special” del festival."
+                "x": "Matti Klemm, la voz alemana de Jason Momoa y Mahershala Ali, afirma que Netflix entrenó sistemas de AI con su voz sin pedirle permiso ni pagarle. La VDS, la asociación de actores de voz alemanes, anunció que Klemm presentará una demanda contra Netflix por vulneración de sus derechos de la personalidad, de sus derechos de autor y de su derecho a la protección de datos."
+              },
+              {
+                "t": "video",
+                "yt": "mtoEU94dj0E"
               },
               {
                 "t": "p",
-                "x": "“Creemos que la IA puede ser un asistente significativo en el proceso creativo, en lugar de reemplazar a los creadores existentes”, dijo Kim Dong-hyun, director ejecutivo del festival."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955619.webp?imageId=12955619&width=960&height=548&format=jpg",
-                "cap": "Fotograma de la película de IA de Park Sin-woo “Girl with a blade : happy day”"
+                "x": "Según la VDS, Netflix respondió a una solicitud de acceso a datos de Klemm mostrando que “ya había, en el pasado y sin el conocimiento ni el consentimiento de Klemm, entrenado sistemas de AI con sus grabaciones de voz personales”. Klemm se había negado a firmar las nuevas cláusulas de entrenamiento de AI ofrecidas a los actores de doblaje alemanes desde principios de 2026."
               },
               {
                 "t": "p",
-                "x": "Algunas de las películas exploran conceptos que habrían sido difíciles de lograr en imagen real por el tiempo y el costo que exigen los efectos visuales. Los directores usaron modelos comerciales de IA generativa elegidos según el tema y el género de cada película; Kling AI, BytePlus, TapNow, MiniMax y ElevenLabs aportaron la tecnología."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955620.webp?imageId=12955620&width=960&height=548&format=jpg",
-                "cap": "Fotograma de la película de IA de Jang Cheol-soo “End of Species”"
-              },
-              {
-                "t": "p",
-                "x": "Una muestra de las películas de IA tendrá lugar en CGV Apgujeong, en el sur de Seúl, el 27 de noviembre, con proyecciones y presentaciones sobre sus procesos de producción y el uso de la IA."
+                "x": "La organización de derechos civiles GFF prevé presentar la demanda a finales de 2026 para pedir información, una orden que impida el futuro entrenamiento de AI con su voz y una indemnización. Netflix dijo que su “uso de la AI se ajusta a la legislación aplicable”. El abogado Jonas Kahl: “Las voces no son una materia prima de libre disposición”."
               }
             ]
           }
@@ -963,165 +1139,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "일곱 감독의 AI 단편\nSIFF에서 상영",
-          "body": "이명세 등 일곱 감독이 SIFF를 위해 AI 창작자와 각각 단편을 만들었다.",
-          "mini_headline": "SIFF에서 감독들, AI와 협업",
+          "headline": "독일 성우, AI 학습에\nNetflix 상대 소송",
+          "body": "Matti Klemm이 더빙의 AI 학습을 이유로 Netflix를 고소한다.",
+          "mini_headline": "더빙 성우, AI로 Netflix 제소",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955618.webp?imageId=12955618&width=960&height=548&format=jpg",
-                "cap": "안상훈 감독의 AI 영화 “The Signal” 스틸"
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-24.jpg"
               },
               {
                 "t": "p",
-                "x": "생성형 AI로 만든 단편영화 일곱 편이 11월 25일부터 12월 4일까지 열리는 올해 서울독립영화제(SIFF)에서 상영된다. 이명세, 신연식, 장철수, 안상훈, 박신우, 조바른, 김다민 감독은 영화제의 ‘AI 시네마 스페셜(AI Cinema Special)’ 섹션을 위해 기획된 프로젝트의 하나로 각각 AI 창작자와 협업해 단편을 만들었다."
+                "x": "Jason Momoa와 Mahershala Ali의 독일어 목소리를 맡아 온 Matti Klemm은 Netflix가 자신에게 묻지도, 대가를 주지도 않고 자기 목소리로 AI 시스템을 학습시켰다고 말한다. 독일 성우 협회 VDS는 Klemm이 인격권, 저작권, 개인정보 보호권 침해를 이유로 Netflix를 상대로 소송을 낸다고 발표했다."
+              },
+              {
+                "t": "video",
+                "yt": "mtoEU94dj0E"
               },
               {
                 "t": "p",
-                "x": "김동현 집행위원장은 “AI가 기존 창작자를 대체하기보다 창작 과정에서 의미 있는 조력자가 될 수 있다고 믿는다”고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955619.webp?imageId=12955619&width=960&height=548&format=jpg",
-                "cap": "박신우 감독의 AI 영화 “Girl with a blade : happy day” 스틸"
+                "x": "VDS에 따르면 Netflix는 Klemm의 정보 열람 요청에 답하면서 “과거에 이미 Klemm이 알지 못하고 동의하지도 않은 상태에서 그의 개인 음성 녹음으로 AI 시스템을 학습시켰다”는 사실을 드러냈다. Klemm은 2026년 초부터 독일 더빙 배우들에게 제시된 새 AI 학습 조항에 서명하기를 거부해 왔다."
               },
               {
                 "t": "p",
-                "x": "일부 작품은 시각효과에 드는 시간과 비용 때문에 실사로는 구현하기 어려웠을 개념을 탐구한다. 감독들은 작품의 소재와 장르에 맞춰 고른 상용 생성형 AI 모델을 사용했고, Kling AI, BytePlus, TapNow, MiniMax, ElevenLabs가 기술을 제공했다."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955620.webp?imageId=12955620&width=960&height=548&format=jpg",
-                "cap": "장철수 감독의 AI 영화 “End of Species” 스틸"
-              },
-              {
-                "t": "p",
-                "x": "AI 영화 쇼케이스는 11월 27일 서울 남부의 CGV 압구정에서 열리며, 상영과 함께 제작 과정과 AI 활용에 관한 발표가 이어진다."
+                "x": "시민권 단체 GFF는 2026년 말 소송을 제기해 정보 공개, 그의 목소리를 활용한 향후 AI 학습 중단 명령, 손해배상을 청구할 계획이다. Netflix는 자사의 “AI 활용은 관련 법률에 부합한다”고 밝혔다. 변호사 Jonas Kahl은 “목소리는 누구나 가져다 쓸 수 있는 원재료가 아니다”라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "7人の監督のAI短編\nSIFFで上映",
-          "body": "李明世ら監督7人が、SIFFのAI特集でAIクリエイターと組み短編を制作した。",
-          "mini_headline": "SIFFで監督たちがAIと協働",
+          "headline": "ドイツの吹替声優が\nAI学習でNetflix提訴",
+          "body": "Matti Klemmが吹替音声のAI学習を理由にNetflixを提訴する。",
+          "mini_headline": "吹替声優、AIでNetflix提訴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955618.webp?imageId=12955618&width=960&height=548&format=jpg",
-                "cap": "Ahn Sang-hoon監督のAI映画「The Signal」のスチール"
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-24.jpg"
               },
               {
                 "t": "p",
-                "x": "生成AIで作られた短編映画7本が、11月25日から12月4日まで開かれる今年のソウル独立映画祭(SIFF)で上映される。Lee Myung-se、Shin Youn-shick、Jang Cheol-soo、Ahn Sang-hoon、Park Sin-woo、Jo Ba-reun、Kim Da-minの各監督は、映画祭の「AI Cinema Special」部門のために企画されたプロジェクトの一環として、それぞれAIクリエイターと協働して短編を制作した。"
+                "x": "Jason MomoaやMahershala Aliのドイツ語吹き替えを担当するMatti Klemmは、Netflixが本人に断りも対価もなく、彼の声でAIシステムを学習させたと訴える。ドイツの声優団体VDSは、Klemmが人格権、著作権、データ保護の権利の侵害を理由にNetflixを提訴すると発表した。"
+              },
+              {
+                "t": "video",
+                "yt": "mtoEU94dj0E"
               },
               {
                 "t": "p",
-                "x": "映画祭のエグゼクティブ・ディレクターKim Dong-hyunは「AIは既存のクリエイターに取って代わるのではなく、創作の過程で意味のある助手になり得ると考えている」と述べた。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955619.webp?imageId=12955619&width=960&height=548&format=jpg",
-                "cap": "Park Sin-woo監督のAI映画「Girl with a blade : happy day」のスチール"
+                "x": "VDSによると、NetflixはKlemmのデータ開示請求への回答で、「過去にすでに、Klemmが知らないうちに同意もなく、彼の個人的な音声録音でAIシステムを学習させていた」ことを明らかにした。Klemmは、2026年初めからドイツの吹き替え俳優に提示されている新たなAI学習条項への署名を拒んでいた。"
               },
               {
                 "t": "p",
-                "x": "一部の作品は、視覚効果にかかる時間と費用のために実写では実現が難しかったであろうコンセプトに挑んでいる。監督たちは作品の題材とジャンルに合わせて選んだ市販の生成AIモデルを使い、Kling AI、BytePlus、TapNow、MiniMax、ElevenLabsが技術を提供した。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955620.webp?imageId=12955620&width=960&height=548&format=jpg",
-                "cap": "Jang Cheol-soo監督のAI映画「End of Species」のスチール"
-              },
-              {
-                "t": "p",
-                "x": "AI映画のショーケースは11月27日、ソウル南部のCGV狎鴎亭で開かれ、上映に加えて制作過程とAI活用についての発表が行われる。"
+                "x": "市民権団体GFFは2026年末に提訴し、情報開示、彼の声を使った今後のAI学習の差し止め、損害賠償を求める計画だ。Netflixは「AIの利用は適用法に準拠している」としている。弁護士のJonas Kahlは「声は自由に使える原材料ではない」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "七位导演携AI短片\n亮相SIFF",
-          "body": "在SIFF的AI电影特别单元，李明世等七位导演各与AI创作者合作完成一部短片。",
-          "mini_headline": "SIFF导演携手AI",
+          "headline": "德国配音员起诉Netflix\n指其用声音训练AI",
+          "body": "德语配音演员Matti Klemm经查询发现声音被用于训练AI，将起诉Netflix。",
+          "mini_headline": "配音演员就AI起诉Netflix",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955618.webp?imageId=12955618&width=960&height=548&format=jpg",
-                "cap": "Ahn Sang-hoon执导的AI电影《The Signal》剧照"
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-24.jpg"
               },
               {
                 "t": "p",
-                "x": "七部用生成式AI制作的短片将在今年的首尔独立电影节(SIFF)上放映，电影节于11月25日至12月4日举行。导演Lee Myung-se、Shin Youn-shick、Jang Cheol-soo、Ahn Sang-hoon、Park Sin-woo、Jo Ba-reun和Kim Da-min各自与AI创作者合作完成一部短片，这是电影节为“AI Cinema Special”单元策划的项目的一部分。"
+                "x": "为Jason Momoa和Mahershala Ali担任德语配音的Matti Klemm表示，Netflix在未征询他、也未付酬的情况下，用他的声音训练了AI系统。德国配音艺术家协会VDS宣布，Klemm将起诉Netflix，指控其侵犯了他的人格权、著作权和数据保护权。"
+              },
+              {
+                "t": "video",
+                "yt": "mtoEU94dj0E"
               },
               {
                 "t": "p",
-                "x": "电影节执行总监Kim Dong-hyun表示：“我们相信，AI可以在创作过程中成为有意义的助手，而不是取代现有的创作者。”"
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955619.webp?imageId=12955619&width=960&height=548&format=jpg",
-                "cap": "Park Sin-woo执导的AI电影《Girl with a blade : happy day》剧照"
+                "x": "据VDS称，Netflix在答复Klemm的数据查阅请求时表明，其“过去已在Klemm不知情且未同意的情况下，用他的个人语音录音训练了AI系统”。自2026年初起，Klemm一直拒绝签署向德国配音演员提供的新AI训练条款。"
               },
               {
                 "t": "p",
-                "x": "部分作品探索了因视效所需的时间和成本而难以用实拍实现的构想。导演们使用了根据影片题材和类型挑选的商用生成式AI模型，技术由Kling AI、BytePlus、TapNow、MiniMax和ElevenLabs提供。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955620.webp?imageId=12955620&width=960&height=548&format=jpg",
-                "cap": "Jang Cheol-soo执导的AI电影《End of Species》剧照"
-              },
-              {
-                "t": "p",
-                "x": "这批AI电影的展映会将于11月27日在首尔南部的CGV狎鸥亭举行，届时将放映影片，并介绍制作过程与AI的使用。"
+                "x": "民权组织GFF计划于2026年底提起诉讼，要求披露信息、下令停止今后用他的声音进行AI训练，并索赔损失。Netflix表示，其“对AI的使用符合适用法律”。律师Jonas Kahl说：“声音不是可以随意取用的原材料。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Siete directores llevan\ncortos con IA al SIFF",
-          "body": "Para el AI Cinema Special del SIFF, siete directores como Lee Myung-se hicieron cortos con creadores de IA.",
-          "mini_headline": "Directores y IA en el SIFF",
+          "headline": "Actor de doblaje alemán demanda\na Netflix por entrenar AI",
+          "body": "Matti Klemm, voz alemana de Jason Momoa, demandará a Netflix al descubrir que se usó su doblaje para entrenar AI.",
+          "mini_headline": "Actor de doblaje demanda a Netflix por AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955618.webp?imageId=12955618&width=960&height=548&format=jpg",
-                "cap": "Fotograma de la película de IA de Ahn Sang-hoon “The Signal”"
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-24.jpg"
               },
               {
                 "t": "p",
-                "x": "Siete cortometrajes creados con IA generativa se proyectarán en la edición de este año del Seoul Independent Film Festival (SIFF), que se celebra del 25 de noviembre al 4 de diciembre. Los directores Lee Myung-se, Shin Youn-shick, Jang Cheol-soo, Ahn Sang-hoon, Park Sin-woo, Jo Ba-reun y Kim Da-min colaboraron cada uno con creadores de IA para producir un corto, dentro de un proyecto organizado para la sección “AI Cinema Special” del festival."
+                "x": "Matti Klemm, la voz alemana de Jason Momoa y Mahershala Ali, afirma que Netflix entrenó sistemas de AI con su voz sin pedirle permiso ni pagarle. La VDS, la asociación de actores de voz alemanes, anunció que Klemm presentará una demanda contra Netflix por vulneración de sus derechos de la personalidad, de sus derechos de autor y de su derecho a la protección de datos."
+              },
+              {
+                "t": "video",
+                "yt": "mtoEU94dj0E"
               },
               {
                 "t": "p",
-                "x": "“Creemos que la IA puede ser un asistente significativo en el proceso creativo, en lugar de reemplazar a los creadores existentes”, dijo Kim Dong-hyun, director ejecutivo del festival."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955619.webp?imageId=12955619&width=960&height=548&format=jpg",
-                "cap": "Fotograma de la película de IA de Park Sin-woo “Girl with a blade : happy day”"
+                "x": "Según la VDS, Netflix respondió a una solicitud de acceso a datos de Klemm mostrando que “ya había, en el pasado y sin el conocimiento ni el consentimiento de Klemm, entrenado sistemas de AI con sus grabaciones de voz personales”. Klemm se había negado a firmar las nuevas cláusulas de entrenamiento de AI ofrecidas a los actores de doblaje alemanes desde principios de 2026."
               },
               {
                 "t": "p",
-                "x": "Algunas de las películas exploran conceptos que habrían sido difíciles de lograr en imagen real por el tiempo y el costo que exigen los efectos visuales. Los directores usaron modelos comerciales de IA generativa elegidos según el tema y el género de cada película; Kling AI, BytePlus, TapNow, MiniMax y ElevenLabs aportaron la tecnología."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955620.webp?imageId=12955620&width=960&height=548&format=jpg",
-                "cap": "Fotograma de la película de IA de Jang Cheol-soo “End of Species”"
-              },
-              {
-                "t": "p",
-                "x": "Una muestra de las películas de IA tendrá lugar en CGV Apgujeong, en el sur de Seúl, el 27 de noviembre, con proyecciones y presentaciones sobre sus procesos de producción y el uso de la IA."
+                "x": "La organización de derechos civiles GFF prevé presentar la demanda a finales de 2026 para pedir información, una orden que impida el futuro entrenamiento de AI con su voz y una indemnización. Netflix dijo que su “uso de la AI se ajusta a la legislación aplicable”. El abogado Jonas Kahl: “Las voces no son una materia prima de libre disposición”."
               }
             ]
           }
@@ -1129,15 +1261,15 @@
       }
     },
     {
-      "id": "googilil-kerala-ai-feature",
+      "id": "movies-animaj-flipmove",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "케랄라 첫 AI 장편\n61세 신인의 작품",
-      "body": "61세 신인 감독 셰인 사다난단이 AI 도구만으로 말라얄람어 장편을 만들었다.",
-      "mini_headline": "케랄라 첫 AI 장편",
+      "headline": "FlipMove는 AI를\n애니메이터 손에 맡긴다",
+      "body": "FlipMove는 AI로 속도를 높이되 창작 통제권은 애니메이터에게 둔다.",
+      "mini_headline": "Animaj의 FlipMove 워크플로",
       "tool": "Movies",
-      "source": "The New Indian Express",
-      "url": "https://www.newindianexpress.com/kerala/2026/Nov/04/prompt-action-cut-here-comes-keralams-first-full-length-ai-feature-film",
+      "source": "Señal News",
+      "url": "https://senalnews.com/en/content/animaj-unveiled-flipmove-an-artist-led-ai-animation-workflow",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1145,173 +1277,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cf-images.assettype.com/newindianexpress%2F2026-11-04%2Ftar52kiq%2FWhatsApp-Image-2026-10-27-at-16.09.50.jpeg?w=1200&auto=format%2Ccompress"
+            "src": "https://senalnews.com/adjuntos/imagenes/000/187/0000187796.jpg"
           },
           {
             "t": "p",
-            "x": "파타남티타 출신 셰인 사다난단(Shane Sadanandan)이 전부 AI로 만든 영화 ‘Googilil Illaatha Oridam(구글에 없는 곳)’의 개봉을 준비하고 있다. 올해 61세인 그는 “늘 영화를 만들고 싶었다. 지난 이십 년 동안 시나리오를 10편쯤 쓰고 여러 제작자와 업계 관계자를 찾아갔지만 문은 한 번도 열리지 않았다”고 말한다. 4월에는 프롬프트 작성 기초부터 익히며 Google Gemini 실험에 나섰다."
+            "x": "Animaj가 AI-powered 애니메이션 워크플로 FlipMove를 내놓았다. 승인된 애니매틱에서 완성 애니메이션까지 제작 단계를 하나로 잇는 도구다. 반복적인 기술 작업은 자동화하고 창작자의 저작권은 온전히 지킨다."
+          },
+          {
+            "t": "video",
+            "yt": "_t8xmBqUYQw"
           },
           {
             "t": "p",
-            "x": "연속성을 지키기가 어려웠다. Gemini는 프롬프트 하나에 약 10초 분량의 영상을 만들고, 이 클립들을 이어 붙여 장편 길이로 편집해야 한다. “아주 사소한 디테일까지 봇에게 계속 일러 줘야 한다”고 그는 말한다. 플랫폼이 동의를 요구하기 때문에 출연진은 지인들에게 동의를 받았다."
+            "x": "Animaj의 CTO Antoine Lhermitte는 “애니메이션 기술을 하나의 워크플로로 연결하면 팀이 감독의 메모를 이십 분이 아니라 단 이 분 만에 수정 가능한 3D 수정안으로 바꿀 수 있다”고 말했다."
           },
           {
             "t": "p",
-            "x": "그는 “여섯 달 만에 극장 개봉이 가능한 장편영화를 완성했다”며 “중앙영화인증위원회(Central Board of Film Certification)에 심의를 받으려고 보냈다”고 말한다."
+            "x": "FlipMove는 Sketch-to-Pose, Motion-In-Betweening 등 그동안 따로 쓰던 Animaj의 애니메이션 도구를 수정 가능한 3D 제작 파이프라인 하나로 묶는다. 2D 애니매틱을 3D 카메라 배치, 소품, 캐릭터 동선으로 바꾸는 Animatic-to-Layout 기능과 감독 피드백을 수정 레이아웃에 반영하는 자동 리테이크 기능도 새로 들어갔다."
           },
           {
             "t": "p",
-            "x": "영화감독 Krishand R K는 Luma AI, Kling AI, Midjourney로 해외 스튜디오와 AI-generated 시리즈를 작업 중이다. Eunoians Studio의 Azeem Kattali는 AI가 저작권을 무시해 왔고 인간의 손길이 사치가 될 것이라고 경고한다."
+            "x": "워크플로는 이미 Disney Jr.와 공동 개발한 YouTube-first 미취학 아동 시리즈 “Ozzy Fox” 제작에 쓰인다. 7월 공개된 이 시리즈는 조회수 25M 회를 넘겼다. Animaj는 11월 3일 Los Angeles에서 열린 Disney Accelerator Demo Day에서 워크플로를 선보였고 “Pocoyo”와 “Maya the Bee”에도 적용할 계획이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Kerala's first AI feature\ncomes from a 61-year-old",
-          "body": "First-time filmmaker Shane Sadanandan, 61, made the Malayalam feature Googilil Illaatha Oridam entirely with AI tools.",
-          "mini_headline": "Kerala's first AI feature",
+          "headline": "Animaj's FlipMove keeps\nanimators in charge of AI",
+          "body": "Animaj's FlipMove, already used on Ozzy Fox, speeds animation with AI while animators keep creative control.",
+          "mini_headline": "Animaj's FlipMove workflow",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cf-images.assettype.com/newindianexpress%2F2026-11-04%2Ftar52kiq%2FWhatsApp-Image-2026-10-27-at-16.09.50.jpeg?w=1200&auto=format%2Ccompress"
+                "src": "https://senalnews.com/adjuntos/imagenes/000/187/0000187796.jpg"
               },
               {
                 "t": "p",
-                "x": "Pathanamthitta native Shane Sadanandan is preparing to release his film ‘Googilil Illaatha Oridam (A Place That Does Not Exist on Google)’, which has been made entirely using AI. “I always wanted to make films. In the past two decades, I wrote about 10 scripts and approached several producers and industry insiders. But the doors never opened for me,” says the 61-year-old. In April, he began experimenting with Google Gemini, right from the basics of prompt-writing."
+                "x": "Animaj has launched FlipMove, an AI-powered animation workflow designed to connect the production stages from an approved animatic to finished animation. The technology automates repetitive technical tasks while preserving full creative authorship."
+              },
+              {
+                "t": "video",
+                "yt": "_t8xmBqUYQw"
               },
               {
                 "t": "p",
-                "x": "Maintaining continuity proved difficult: Gemini generates videos of about 10 seconds for each prompt, and these clips have to be edited together into a feature-length film. “We need to keep reminding the bot about every minute detail,” he says. For the cast, he asked people he knows for consent, as the platform requires it."
+                "x": "\"Connecting our animation technologies into one workflow lets teams turn a director’s note into an editable 3D revision in two minutes rather than twenty,\" said Antoine Lhermitte, CTO of Animaj."
               },
               {
                 "t": "p",
-                "x": "“In six months, I have a feature film ready for theatrical release,” he says. “It has been sent to the Central Board of Film Certification for clearance.”"
+                "x": "FlipMove integrates Animaj’s previously separate animation tools—including Sketch-to-Pose and Motion-In-Betweening—into an editable 3D production pipeline. It introduces Animatic-to-Layout capabilities that convert 2D animatics into 3D camera placements, props, and character staging, plus automated retakes that translate director feedback into revised layouts."
               },
               {
                 "t": "p",
-                "x": "Meanwhile, filmmaker Krishand R K is working on an AI-generated series with an international studio using Luma AI, Kling AI and Midjourney, while Eunoians Studio’s Azeem Kattali warns that AI has been ignoring copyright and that the human touch will become a luxury."
+                "x": "The workflow is already in active production on \"Ozzy Fox,\" the YouTube-first preschool series co-developed with Disney Jr. that has generated over 25 million views since its July launch. Animaj showcased it at the Disney Accelerator Demo Day in Los Angeles on November 3, with plans to deploy it across \"Pocoyo\" and \"Maya the Bee.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "케랄라 첫 AI 장편\n61세 신인의 작품",
-          "body": "61세 신인 감독 셰인 사다난단이 AI 도구만으로 말라얄람어 장편을 만들었다.",
-          "mini_headline": "케랄라 첫 AI 장편",
+          "headline": "FlipMove는 AI를\n애니메이터 손에 맡긴다",
+          "body": "FlipMove는 AI로 속도를 높이되 창작 통제권은 애니메이터에게 둔다.",
+          "mini_headline": "Animaj의 FlipMove 워크플로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cf-images.assettype.com/newindianexpress%2F2026-11-04%2Ftar52kiq%2FWhatsApp-Image-2026-10-27-at-16.09.50.jpeg?w=1200&auto=format%2Ccompress"
+                "src": "https://senalnews.com/adjuntos/imagenes/000/187/0000187796.jpg"
               },
               {
                 "t": "p",
-                "x": "파타남티타 출신 셰인 사다난단(Shane Sadanandan)이 전부 AI로 만든 영화 ‘Googilil Illaatha Oridam(구글에 없는 곳)’의 개봉을 준비하고 있다. 올해 61세인 그는 “늘 영화를 만들고 싶었다. 지난 이십 년 동안 시나리오를 10편쯤 쓰고 여러 제작자와 업계 관계자를 찾아갔지만 문은 한 번도 열리지 않았다”고 말한다. 4월에는 프롬프트 작성 기초부터 익히며 Google Gemini 실험에 나섰다."
+                "x": "Animaj가 AI-powered 애니메이션 워크플로 FlipMove를 내놓았다. 승인된 애니매틱에서 완성 애니메이션까지 제작 단계를 하나로 잇는 도구다. 반복적인 기술 작업은 자동화하고 창작자의 저작권은 온전히 지킨다."
+              },
+              {
+                "t": "video",
+                "yt": "_t8xmBqUYQw"
               },
               {
                 "t": "p",
-                "x": "연속성을 지키기가 어려웠다. Gemini는 프롬프트 하나에 약 10초 분량의 영상을 만들고, 이 클립들을 이어 붙여 장편 길이로 편집해야 한다. “아주 사소한 디테일까지 봇에게 계속 일러 줘야 한다”고 그는 말한다. 플랫폼이 동의를 요구하기 때문에 출연진은 지인들에게 동의를 받았다."
+                "x": "Animaj의 CTO Antoine Lhermitte는 “애니메이션 기술을 하나의 워크플로로 연결하면 팀이 감독의 메모를 이십 분이 아니라 단 이 분 만에 수정 가능한 3D 수정안으로 바꿀 수 있다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "그는 “여섯 달 만에 극장 개봉이 가능한 장편영화를 완성했다”며 “중앙영화인증위원회(Central Board of Film Certification)에 심의를 받으려고 보냈다”고 말한다."
+                "x": "FlipMove는 Sketch-to-Pose, Motion-In-Betweening 등 그동안 따로 쓰던 Animaj의 애니메이션 도구를 수정 가능한 3D 제작 파이프라인 하나로 묶는다. 2D 애니매틱을 3D 카메라 배치, 소품, 캐릭터 동선으로 바꾸는 Animatic-to-Layout 기능과 감독 피드백을 수정 레이아웃에 반영하는 자동 리테이크 기능도 새로 들어갔다."
               },
               {
                 "t": "p",
-                "x": "영화감독 Krishand R K는 Luma AI, Kling AI, Midjourney로 해외 스튜디오와 AI-generated 시리즈를 작업 중이다. Eunoians Studio의 Azeem Kattali는 AI가 저작권을 무시해 왔고 인간의 손길이 사치가 될 것이라고 경고한다."
+                "x": "워크플로는 이미 Disney Jr.와 공동 개발한 YouTube-first 미취학 아동 시리즈 “Ozzy Fox” 제작에 쓰인다. 7월 공개된 이 시리즈는 조회수 25M 회를 넘겼다. Animaj는 11월 3일 Los Angeles에서 열린 Disney Accelerator Demo Day에서 워크플로를 선보였고 “Pocoyo”와 “Maya the Bee”에도 적용할 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ケララ初のAI長編\n61歳の新人が制作",
-          "body": "61歳の新人シェイン・サダナンダンがAIツールだけでマラヤーラム語長編を作った。",
-          "mini_headline": "ケララ初のAI長編映画",
+          "headline": "FlipMoveはAIを\nアニメーターの手に",
+          "body": "AnimajのFlipMoveはAIで制作を速めつつ、創作の主導権をアニメーターに残す。",
+          "mini_headline": "AnimajのFlipMove",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cf-images.assettype.com/newindianexpress%2F2026-11-04%2Ftar52kiq%2FWhatsApp-Image-2026-10-27-at-16.09.50.jpeg?w=1200&auto=format%2Ccompress"
+                "src": "https://senalnews.com/adjuntos/imagenes/000/187/0000187796.jpg"
               },
               {
                 "t": "p",
-                "x": "パタナムティッタ出身のShane Sadanandanは、すべてAIで制作した映画『Googilil Illaatha Oridam(Googleに存在しない場所)』の公開を準備している。「ずっと映画を作りたかった。この二十年で脚本を10本ほど書き、何人ものプロデューサーや業界関係者に掛け合ったが、扉が開くことは一度もなかった」と61歳の彼は語る。4月、彼はプロンプトの書き方の基本からGoogle Geminiを試し始めた。"
+                "x": "Animajは、承認済みのアニマティックから完成アニメーションまでの制作工程をつなぐよう設計したAI-poweredのアニメーションワークフロー「FlipMove」を発表した。この技術は反復的な技術作業を自動化しつつ、創作上の著作者性を完全に保つ。"
+              },
+              {
+                "t": "video",
+                "yt": "_t8xmBqUYQw"
               },
               {
                 "t": "p",
-                "x": "連続性を保つのは難しかった。Geminiはプロンプトごとに約10秒の動画を生成し、それらのクリップをつなぎ合わせて長編の長さに編集しなければならない。「細かなディテールをすべて、ボットに何度も思い出させる必要がある」と彼は言う。出演者については、プラットフォームが同意を求めるため、知人に同意を取った。"
+                "x": "「アニメーション技術を一つのワークフローにつなぐことで、チームは監督のメモを二十分ではなく二分で、編集可能な3Dの修正版に変えられる」と、AnimajのCTOであるAntoine Lhermitteは述べた。"
               },
               {
                 "t": "p",
-                "x": "「6か月で、劇場公開できる長編映画が仕上がった」と彼は話す。「中央映画認証委員会(Central Board of Film Certification)に審査のため提出した」"
+                "x": "FlipMoveは、Sketch-to-PoseやMotion-In-Betweeningなど、これまで別々だったAnimajのアニメーションツールを、編集可能な3D制作パイプラインに統合する。2Dアニマティックを3Dのカメラ配置、小道具、キャラクターの立ち位置に変換するAnimatic-to-Layout機能に加え、監督のフィードバックを修正済みレイアウトに反映する自動リテイクも導入した。"
               },
               {
                 "t": "p",
-                "x": "一方、映画監督のKrishand R KはLuma AI、Kling AI、Midjourneyを使い、海外のスタジオとAI-generatedのシリーズに取り組んでいる。Eunoians StudioのAzeem Kattaliは、AIが著作権を無視してきたこと、そして人の手による仕事が贅沢品になることに警鐘を鳴らす。"
+                "x": "このワークフローは、Disney Jr.と共同開発したYouTube-firstの未就学児向けシリーズ「Ozzy Fox」の制作ですでに稼働している。同シリーズは7月の配信開始以来、再生数が25M 回を超えた。Animajは11月3日にLos AngelesのDisney Accelerator Demo Dayでこれを披露し、「Pocoyo」や「Maya the Bee」にも展開する計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "喀拉拉邦首部AI长片\n出自61岁新人之手",
-          "body": "61岁的新人导演Shane Sadanandan完全用AI工具拍出马拉雅拉姆语长片。",
-          "mini_headline": "喀拉拉邦首部AI长片",
+          "headline": "FlipMove让动画师\n牢牢掌控AI",
+          "body": "FlipMove已用于Ozzy Fox，以AI加速动画制作，创作主导权仍归动画师。",
+          "mini_headline": "Animaj的FlipMove工作流",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cf-images.assettype.com/newindianexpress%2F2026-11-04%2Ftar52kiq%2FWhatsApp-Image-2026-10-27-at-16.09.50.jpeg?w=1200&auto=format%2Ccompress"
+                "src": "https://senalnews.com/adjuntos/imagenes/000/187/0000187796.jpg"
               },
               {
                 "t": "p",
-                "x": "来自帕塔南蒂塔的Shane Sadanandan正准备上映他完全用AI制作的电影《Googilil Illaatha Oridam(一个在Google上不存在的地方)》。这位61岁的创作者说：“我一直想拍电影。过去二十年里，我写了大约10个剧本，找过多位制片人和业内人士，但大门始终没有为我打开。”今年4月，他从最基础的提示词写作开始尝试Google Gemini。"
+                "x": "Animaj推出了FlipMove，这是一套AI-powered动画工作流，旨在打通从获批动态分镜到成品动画的各个制作环节。该技术在自动化重复性技术工作的同时，完整保留创作者的作者身份。"
+              },
+              {
+                "t": "video",
+                "yt": "_t8xmBqUYQw"
               },
               {
                 "t": "p",
-                "x": "保持连贯性并不容易：Gemini每条提示词生成约10秒的视频，这些片段必须剪辑拼接成长片长度的电影。他说：“我们得不断提醒机器人每一个细节。”至于演员，由于平台要求获得同意，他请熟人授权出镜。"
+                "x": "Animaj的CTO Antoine Lhermitte表示：“把我们的动画技术串联成一个工作流后，团队可以在两分钟而非二十分钟内，把导演的一条意见变成可编辑的3D修改版本。”"
               },
               {
                 "t": "p",
-                "x": "他说：“用了六个月，我就有了一部可以院线上映的长片。”“它已提交给中央电影认证委员会(Central Board of Film Certification)审查。”"
+                "x": "FlipMove将Animaj此前各自独立的动画工具——包括Sketch-to-Pose和Motion-In-Betweening——整合进一条可编辑的3D制作管线。它新增了Animatic-to-Layout功能，可将2D动态分镜转换为3D机位、道具和角色走位，并提供自动重拍功能，把导演反馈转化为修改后的布局。"
               },
               {
                 "t": "p",
-                "x": "与此同时，导演Krishand R K正与一家国际工作室合作，使用Luma AI、Kling AI和Midjourney制作一部AI-generated剧集；Eunoians Studio的Azeem Kattali则警告说，AI一直在无视版权，人工的痕迹将成为一种奢侈。"
+                "x": "该工作流已投入《Ozzy Fox》的实际制作。这部与Disney Jr.联合开发、YouTube-first的学龄前系列自7月上线以来播放量已超过25M 次。Animaj于11月3日在Los Angeles的Disney Accelerator Demo Day上展示了这一工作流，并计划将其用于《Pocoyo》和《Maya the Bee》。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El primer largo de IA de Kerala\nes obra de un novato de 61 años",
-          "body": "El debutante Shane Sadanandan, de 61 años, rodó el largo en malayalam Googilil Illaatha Oridam íntegramente con IA.",
-          "mini_headline": "El primer largo de IA de Kerala",
+          "headline": "FlipMove, de Animaj, deja la AI\nen manos de los animadores",
+          "body": "FlipMove, de Animaj, ya usado en Ozzy Fox, acelera la animación con AI y deja el control creativo a los animadores.",
+          "mini_headline": "El flujo FlipMove de Animaj",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cf-images.assettype.com/newindianexpress%2F2026-11-04%2Ftar52kiq%2FWhatsApp-Image-2026-10-27-at-16.09.50.jpeg?w=1200&auto=format%2Ccompress"
+                "src": "https://senalnews.com/adjuntos/imagenes/000/187/0000187796.jpg"
               },
               {
                 "t": "p",
-                "x": "Shane Sadanandan, natural de Pathanamthitta, se prepara para estrenar su película ‘Googilil Illaatha Oridam (Un lugar que no existe en Google)’, realizada íntegramente con IA. “Siempre quise hacer películas. En las dos últimas décadas escribí unos 10 guiones y acudí a varios productores y gente de la industria. Pero las puertas nunca se me abrieron”, cuenta este hombre de 61 años. En abril empezó a experimentar con Google Gemini, desde lo más básico de la redacción de prompts."
+                "x": "Animaj ha lanzado FlipMove, un flujo de trabajo de animación impulsado por AI (AI-powered) diseñado para conectar las etapas de producción desde una animática aprobada hasta la animación terminada. La tecnología automatiza las tareas técnicas repetitivas y preserva por completo la autoría creativa."
+              },
+              {
+                "t": "video",
+                "yt": "_t8xmBqUYQw"
               },
               {
                 "t": "p",
-                "x": "Mantener la continuidad resultó difícil: Gemini genera videos de unos 10 segundos por cada prompt, y esos clips deben editarse juntos hasta formar un largometraje. “Tenemos que recordarle al bot cada mínimo detalle una y otra vez”, dice. Para el reparto, pidió el consentimiento de personas conocidas, ya que la plataforma lo exige."
+                "x": "“Conectar nuestras tecnologías de animación en un solo flujo de trabajo permite a los equipos convertir una nota del director en una revisión 3D editable en dos minutos en lugar de veinte”, dijo Antoine Lhermitte, CTO de Animaj."
               },
               {
                 "t": "p",
-                "x": "“En seis meses tengo un largometraje listo para su estreno en cines”, afirma. “Se ha enviado a la Central Board of Film Certification para su aprobación”."
+                "x": "FlipMove integra herramientas de animación de Animaj que antes estaban separadas —entre ellas Sketch-to-Pose y Motion-In-Betweening— en un flujo de producción 3D editable. Incorpora funciones Animatic-to-Layout que convierten animáticas 2D en ubicaciones de cámara, utilería y puesta en escena de personajes en 3D, además de retomas automatizadas que traducen las indicaciones del director en diseños revisados."
               },
               {
                 "t": "p",
-                "x": "Mientras tanto, el cineasta Krishand R K trabaja en una serie generada con IA (AI-generated) con un estudio internacional usando Luma AI, Kling AI y Midjourney, mientras que Azeem Kattali, de Eunoians Studio, advierte que la IA ha ignorado los derechos de autor y que el toque humano se convertirá en un lujo."
+                "x": "El flujo de trabajo ya se usa en la producción de “Ozzy Fox”, la serie preescolar pensada primero para YouTube (YouTube-first) y codesarrollada con Disney Jr., que suma más de 25 millones de visualizaciones desde su estreno en julio. Animaj lo presentó en el Disney Accelerator Demo Day en Los Angeles el 3 de noviembre y prevé implantarlo en “Pocoyo” y “Maya the Bee”."
               }
             ]
           }
@@ -1319,121 +1475,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "케랄라 첫 AI 장편\n61세 신인의 작품",
-          "body": "61세 신인 감독 셰인 사다난단이 AI 도구만으로 말라얄람어 장편을 만들었다.",
-          "mini_headline": "케랄라 첫 AI 장편",
+          "headline": "FlipMove는 AI를\n애니메이터 손에 맡긴다",
+          "body": "FlipMove는 AI로 속도를 높이되 창작 통제권은 애니메이터에게 둔다.",
+          "mini_headline": "Animaj의 FlipMove 워크플로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cf-images.assettype.com/newindianexpress%2F2026-11-04%2Ftar52kiq%2FWhatsApp-Image-2026-10-27-at-16.09.50.jpeg?w=1200&auto=format%2Ccompress"
+                "src": "https://senalnews.com/adjuntos/imagenes/000/187/0000187796.jpg"
               },
               {
                 "t": "p",
-                "x": "파타남티타 출신 셰인 사다난단(Shane Sadanandan)은 전적으로 AI로 만든 영화 ‘Googilil Illaatha Oridam(구글에 없는 곳)’의 개봉을 준비하고 있다. 올해 61세인 그는 “늘 영화를 만들고 싶었다. 지난 이십 년 동안 시나리오를 10편쯤 쓰고 여러 제작자와 업계 관계자를 찾아갔지만 문은 한 번도 열리지 않았다”고 말한다. 그는 4월 프롬프트 작성의 기초부터 시작해 Google Gemini를 실험하기 시작했다."
+                "x": "Animaj가 승인된 애니매틱부터 완성 애니메이션까지 제작 단계를 잇도록 설계한 AI-powered 애니메이션 워크플로 FlipMove를 내놓았다. 이 기술은 반복적인 기술 작업을 자동화하면서도 창작자의 저작권을 온전히 지킨다."
+              },
+              {
+                "t": "video",
+                "yt": "_t8xmBqUYQw"
               },
               {
                 "t": "p",
-                "x": "연속성을 유지하기가 어려웠다. Gemini는 프롬프트 하나당 약 10초 분량의 영상을 만들고, 이 클립들을 이어 붙여 장편 길이의 영화로 편집해야 한다. 그는 “아주 사소한 디테일까지 봇에게 계속 일러 줘야 한다”고 말한다. 출연진은 플랫폼이 동의를 요구하기 때문에 지인들에게 동의를 구했다."
+                "x": "Animaj의 CTO Antoine Lhermitte는 “애니메이션 기술을 하나의 워크플로로 연결하면 팀이 감독의 메모를 이십 분이 아니라 단 이 분 만에 수정 가능한 3D 수정안으로 바꿀 수 있다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "그는 “여섯 달 만에 극장 개봉이 가능한 장편영화를 완성했다”며 “중앙영화인증위원회(Central Board of Film Certification)에 심의를 받으려고 보냈다”고 말한다."
+                "x": "FlipMove는 Sketch-to-Pose, Motion-In-Betweening 등 그동안 따로 쓰던 Animaj의 애니메이션 도구를 수정 가능한 3D 제작 파이프라인 하나로 통합한다. 2D 애니매틱을 3D 카메라 배치, 소품, 캐릭터 동선으로 바꾸는 Animatic-to-Layout 기능과, 감독 피드백을 수정된 레이아웃으로 옮기는 자동 리테이크 기능도 새로 넣었다."
               },
               {
                 "t": "p",
-                "x": "한편 영화감독 Krishand R K는 Luma AI, Kling AI, Midjourney를 활용해 해외 스튜디오와 AI-generated 시리즈를 작업하고 있다. Eunoians Studio의 Azeem Kattali는 AI가 저작권을 무시해 왔으며 인간의 손길이 사치가 될 것이라고 경고한다."
+                "x": "이 워크플로는 Disney Jr.와 공동 개발한 YouTube-first 미취학 아동 시리즈 “Ozzy Fox” 제작에 이미 쓰이고 있다. 이 시리즈는 7월 공개 이후 조회수 25M 회를 넘겼다. Animaj는 11월 3일 Los Angeles에서 열린 Disney Accelerator Demo Day에서 이 워크플로를 선보였으며, “Pocoyo”와 “Maya the Bee”에도 적용할 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ケララ初のAI長編\n61歳の新人が制作",
-          "body": "61歳の新人シェイン・サダナンダンがAIツールだけでマラヤーラム語長編を作った。",
-          "mini_headline": "ケララ初のAI長編映画",
+          "headline": "FlipMoveはAIを\nアニメーターの手に",
+          "body": "AnimajのFlipMoveはAIで制作を速めつつ、創作の主導権をアニメーターに残す。",
+          "mini_headline": "AnimajのFlipMove",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cf-images.assettype.com/newindianexpress%2F2026-11-04%2Ftar52kiq%2FWhatsApp-Image-2026-10-27-at-16.09.50.jpeg?w=1200&auto=format%2Ccompress"
+                "src": "https://senalnews.com/adjuntos/imagenes/000/187/0000187796.jpg"
               },
               {
                 "t": "p",
-                "x": "パタナムティッタ出身のShane Sadanandanは、すべてAIで制作した映画『Googilil Illaatha Oridam(Googleに存在しない場所)』の公開を準備している。「ずっと映画を作りたかった。この二十年で脚本を10本ほど書き、何人ものプロデューサーや業界関係者に掛け合ったが、扉が開くことは一度もなかった」と61歳の彼は語る。4月、彼はプロンプトの書き方の基本からGoogle Geminiを試し始めた。"
+                "x": "Animajは、承認済みのアニマティックから完成アニメーションまでの制作工程をつなぐよう設計したAI-poweredのアニメーションワークフロー「FlipMove」を発表した。この技術は反復的な技術作業を自動化しつつ、創作上の著作者性を完全に保つ。"
+              },
+              {
+                "t": "video",
+                "yt": "_t8xmBqUYQw"
               },
               {
                 "t": "p",
-                "x": "連続性を保つのは難しかった。Geminiはプロンプトごとに約10秒の動画を生成し、それらのクリップをつなぎ合わせて長編の長さに編集しなければならない。「細かなディテールをすべて、ボットに何度も思い出させる必要がある」と彼は言う。出演者については、プラットフォームが同意を求めるため、知人に同意を取った。"
+                "x": "「アニメーション技術を一つのワークフローにつなぐことで、チームは監督のメモを二十分ではなく二分で、編集可能な3Dの修正版に変えられる」と、AnimajのCTOであるAntoine Lhermitteは述べた。"
               },
               {
                 "t": "p",
-                "x": "「6か月で、劇場公開できる長編映画が仕上がった」と彼は話す。「中央映画認証委員会(Central Board of Film Certification)に審査のため提出した」"
+                "x": "FlipMoveは、Sketch-to-PoseやMotion-In-Betweeningなど、これまで別々だったAnimajのアニメーションツールを、編集可能な3D制作パイプラインに統合する。2Dアニマティックを3Dのカメラ配置、小道具、キャラクターの立ち位置に変換するAnimatic-to-Layout機能に加え、監督のフィードバックを修正済みレイアウトに反映する自動リテイクも導入した。"
               },
               {
                 "t": "p",
-                "x": "一方、映画監督のKrishand R KはLuma AI、Kling AI、Midjourneyを使い、海外のスタジオとAI-generatedのシリーズに取り組んでいる。Eunoians StudioのAzeem Kattaliは、AIが著作権を無視してきたこと、そして人の手による仕事が贅沢品になることに警鐘を鳴らす。"
+                "x": "このワークフローは、Disney Jr.と共同開発したYouTube-firstの未就学児向けシリーズ「Ozzy Fox」の制作ですでに稼働している。同シリーズは7月の配信開始以来、再生数が25M 回を超えた。Animajは11月3日にLos AngelesのDisney Accelerator Demo Dayでこれを披露し、「Pocoyo」や「Maya the Bee」にも展開する計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "喀拉拉邦首部AI长片\n出自61岁新人之手",
-          "body": "61岁的新人导演Shane Sadanandan完全用AI工具拍出马拉雅拉姆语长片。",
-          "mini_headline": "喀拉拉邦首部AI长片",
+          "headline": "FlipMove让动画师\n牢牢掌控AI",
+          "body": "FlipMove已用于Ozzy Fox，以AI加速动画制作，创作主导权仍归动画师。",
+          "mini_headline": "Animaj的FlipMove工作流",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cf-images.assettype.com/newindianexpress%2F2026-11-04%2Ftar52kiq%2FWhatsApp-Image-2026-10-27-at-16.09.50.jpeg?w=1200&auto=format%2Ccompress"
+                "src": "https://senalnews.com/adjuntos/imagenes/000/187/0000187796.jpg"
               },
               {
                 "t": "p",
-                "x": "来自帕塔南蒂塔的Shane Sadanandan正准备上映他完全用AI制作的电影《Googilil Illaatha Oridam(一个在Google上不存在的地方)》。这位61岁的创作者说：“我一直想拍电影。过去二十年里，我写了大约10个剧本，找过多位制片人和业内人士，但大门始终没有为我打开。”今年4月，他从最基础的提示词写作开始尝试Google Gemini。"
+                "x": "Animaj推出了FlipMove，这是一套AI-powered动画工作流，旨在打通从获批动态分镜到成品动画的各个制作环节。该技术在自动化重复性技术工作的同时，完整保留创作者的作者身份。"
+              },
+              {
+                "t": "video",
+                "yt": "_t8xmBqUYQw"
               },
               {
                 "t": "p",
-                "x": "保持连贯性并不容易：Gemini每条提示词生成约10秒的视频，这些片段必须剪辑拼接成长片长度的电影。他说：“我们得不断提醒机器人每一个细节。”至于演员，由于平台要求获得同意，他请熟人授权出镜。"
+                "x": "Animaj的CTO Antoine Lhermitte表示：“把我们的动画技术串联成一个工作流后，团队可以在两分钟而非二十分钟内，把导演的一条意见变成可编辑的3D修改版本。”"
               },
               {
                 "t": "p",
-                "x": "他说：“用了六个月，我就有了一部可以院线上映的长片。”“它已提交给中央电影认证委员会(Central Board of Film Certification)审查。”"
+                "x": "FlipMove将Animaj此前各自独立的动画工具——包括Sketch-to-Pose和Motion-In-Betweening——整合进一条可编辑的3D制作管线。它新增了Animatic-to-Layout功能，可将2D动态分镜转换为3D机位、道具和角色走位，并提供自动重拍功能，把导演反馈转化为修改后的布局。"
               },
               {
                 "t": "p",
-                "x": "与此同时，导演Krishand R K正与一家国际工作室合作，使用Luma AI、Kling AI和Midjourney制作一部AI-generated剧集；Eunoians Studio的Azeem Kattali则警告说，AI一直在无视版权，人工的痕迹将成为一种奢侈。"
+                "x": "该工作流已投入《Ozzy Fox》的实际制作。这部与Disney Jr.联合开发、YouTube-first的学龄前系列自7月上线以来播放量已超过25M 次。Animaj于11月3日在Los Angeles的Disney Accelerator Demo Day上展示了这一工作流，并计划将其用于《Pocoyo》和《Maya the Bee》。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El primer largo de IA de Kerala\nes obra de un novato de 61 años",
-          "body": "El debutante Shane Sadanandan, de 61 años, rodó el largo en malayalam Googilil Illaatha Oridam íntegramente con IA.",
-          "mini_headline": "El primer largo de IA de Kerala",
+          "headline": "FlipMove, de Animaj, deja la AI\nen manos de los animadores",
+          "body": "FlipMove, de Animaj, ya usado en Ozzy Fox, acelera la animación con AI y deja el control creativo a los animadores.",
+          "mini_headline": "El flujo FlipMove de Animaj",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cf-images.assettype.com/newindianexpress%2F2026-11-04%2Ftar52kiq%2FWhatsApp-Image-2026-10-27-at-16.09.50.jpeg?w=1200&auto=format%2Ccompress"
+                "src": "https://senalnews.com/adjuntos/imagenes/000/187/0000187796.jpg"
               },
               {
                 "t": "p",
-                "x": "Shane Sadanandan, natural de Pathanamthitta, se prepara para estrenar su película ‘Googilil Illaatha Oridam (Un lugar que no existe en Google)’, realizada íntegramente con IA. “Siempre quise hacer películas. En las dos últimas décadas escribí unos 10 guiones y acudí a varios productores y gente de la industria. Pero las puertas nunca se me abrieron”, cuenta este hombre de 61 años. En abril empezó a experimentar con Google Gemini, desde lo más básico de la redacción de prompts."
+                "x": "Animaj ha lanzado FlipMove, un flujo de trabajo de animación impulsado por AI (AI-powered) diseñado para conectar las etapas de producción desde una animática aprobada hasta la animación terminada. La tecnología automatiza las tareas técnicas repetitivas y preserva por completo la autoría creativa."
+              },
+              {
+                "t": "video",
+                "yt": "_t8xmBqUYQw"
               },
               {
                 "t": "p",
-                "x": "Mantener la continuidad resultó difícil: Gemini genera videos de unos 10 segundos por cada prompt, y esos clips deben editarse juntos hasta formar un largometraje. “Tenemos que recordarle al bot cada mínimo detalle una y otra vez”, dice. Para el reparto, pidió el consentimiento de personas conocidas, ya que la plataforma lo exige."
+                "x": "“Conectar nuestras tecnologías de animación en un solo flujo de trabajo permite a los equipos convertir una nota del director en una revisión 3D editable en dos minutos en lugar de veinte”, dijo Antoine Lhermitte, CTO de Animaj."
               },
               {
                 "t": "p",
-                "x": "“En seis meses tengo un largometraje listo para su estreno en cines”, afirma. “Se ha enviado a la Central Board of Film Certification para su aprobación”."
+                "x": "FlipMove integra herramientas de animación de Animaj que antes estaban separadas —entre ellas Sketch-to-Pose y Motion-In-Betweening— en un flujo de producción 3D editable. Incorpora funciones Animatic-to-Layout que convierten animáticas 2D en ubicaciones de cámara, utilería y puesta en escena de personajes en 3D, además de retomas automatizadas que traducen las indicaciones del director en diseños revisados."
               },
               {
                 "t": "p",
-                "x": "Mientras tanto, el cineasta Krishand R K trabaja en una serie generada con IA (AI-generated) con un estudio internacional usando Luma AI, Kling AI y Midjourney, mientras que Azeem Kattali, de Eunoians Studio, advierte que la IA ha ignorado los derechos de autor y que el toque humano se convertirá en un lujo."
+                "x": "El flujo de trabajo ya se usa en la producción de “Ozzy Fox”, la serie preescolar pensada primero para YouTube (YouTube-first) y codesarrollada con Disney Jr., que suma más de 25 millones de visualizaciones desde su estreno en julio. Animaj lo presentó en el Disney Accelerator Demo Day en Los Angeles el 3 de noviembre y prevé implantarlo en “Pocoyo” y “Maya the Bee”."
               }
             ]
           }

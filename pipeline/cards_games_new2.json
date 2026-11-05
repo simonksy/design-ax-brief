@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-06",
+  "section": "games",
+  "cards": [
+    {
+      "id": "games-tencent-hy4-multiplayer",
+      "source_lang": "ja",
+      "eyebrow": "AI NEWS",
+      "headline": "テンセント新AI「Hy4」\nマルチプレイ実装を支援",
+      "body": "テンセントのHy4はゲーム部門の知見で学び、Unityなどでマルチプレイ実装を支える。",
+      "mini_headline": "テンセントHy4登場",
+      "tool": "Games",
+      "source": "Real Sound テック",
+      "url": "https://realsound.jp/tech/2026/11/post-2575100.html",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://realsound.jp/wp-content/uploads/2026/11/20261105-hy4-99.jpg"
+          },
+          {
+            "t": "p",
+            "x": "テンセントは11月4日、大規模言語モデル「Hy4」を発表した。同社のゲーム部門の開発者が学習データの選定と評価に協力し、複数のプレイヤーが同時に遊ぶゲームの実装を支援できるようになったという。"
+          },
+          {
+            "t": "p",
+            "x": "開発では、ゲームのルールに沿って処理を進める仕組みや、プレイ中に変化するゲームの状態を追跡する処理に重点を置いた。Unreal Engine、Unity、Godotといった主要なゲームエンジンに合わせてモデルを調整した。同社によると、ゲーム開発に関する性能評価では、プレビュー版に比べ「GameDev」で19.1％、「GameLogic」で9.8％スコアが向上した。"
+          },
+          {
+            "t": "p",
+            "x": "公式開発ブログでは、Hy4を使った3Dドライビングシミュレーター「Electric Flying Car Climb Test」を紹介している。夜のテストコースで車を加速させ、弧を描いてほぼ垂直に立ち上がる走路をどこまで登れるか試すものだ。"
+          },
+          {
+            "t": "p",
+            "x": "Hy4には画像を読み取る機能と、PCの画面を操作する機能も加わった。3D制作ソフト「Blender」や設計用のCADソフトを使った訓練も行ったという。Hy4は同社の「Tencent Cloud TokenHub」「WorkBuddy」「CodeBuddy」などで利用できる。"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,11 +1,31 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "section": "gadgets",
   "media": [
-    {"id": "nothing-screenfree-ai-device", "type": "image", "src": "pipeline/media/nothing-screenfree-ai-device.jpg"},
-    {"id": "gemini-home-att-connected-life", "type": "image", "src": "pipeline/media/gemini-home-att-connected-life.jpg"},
-    {"id": "disneyland-robot-interns", "type": "image", "src": "pipeline/media/disneyland-robot-interns.jpg"},
-    {"id": "apple-watch-transfhar-gestures", "type": "video", "src": "pipeline/media/apple-watch-transfhar-gestures.mp4", "poster": "pipeline/media/apple-watch-transfhar-gestures.jpg"},
-    {"id": "claude-nordictrack-ifit", "type": "image", "src": "pipeline/media/claude-nordictrack-ifit.jpg"}
+    {
+      "id": "aina-agent-ring",
+      "type": "image",
+      "src": "pipeline/media/aina-agent-ring.jpg"
+    },
+    {
+      "id": "motorola-signature27-gemini",
+      "type": "image",
+      "src": "pipeline/media/motorola-signature27-gemini.jpg"
+    },
+    {
+      "id": "samsung-xr-glasses-preorder",
+      "type": "image",
+      "src": "pipeline/media/samsung-xr-glasses-preorder.jpg"
+    },
+    {
+      "id": "subvocal-silent-glasses",
+      "type": "image",
+      "src": "pipeline/media/subvocal-silent-glasses.jpg"
+    },
+    {
+      "id": "gadgets-gboard-rambler-learns",
+      "type": "image",
+      "src": "pipeline/media/gadgets-gboard-rambler-learns.jpg"
+    }
   ]
 }

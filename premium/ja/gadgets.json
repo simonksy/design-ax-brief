@@ -10397,6 +10397,143 @@
           "x": "Live Rewindはデバイス上で処理され、Siri Recapの要約はPrivate Cloud Computeで作成される。これらの機能にはApple IntelligenceとSiri AIに対応したiPhone 16以降が必要で、当初は英語のみの対応となる。watchOS 27.3はiOS 27.3とともに12月に配信される見込みだ。"
         }
       ]
+    },
+    "gadgets/motorola-signature27-gemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Motorolaは、Pixel以外への初の大規模展開としてGoogleのGemini Intelligence機能を採用し、GboardのRamblerなどに対応する。厳密にはGoogleのGemini IntelligenceはSamsungの最新Galaxy端末にも対応しているが、Pixelシリーズの外へ本格的に門戸を開くのはMotorolaだ。新しいMotorola Signature 27は、これまでGooglebookでしか使えなかった「Create My Widget」を含め、Googleの新機能の大半に正式対応する。"
+        },
+        {
+          "t": "p",
+          "x": "「Create My Widget」は、ウィジェットに求める機能をGeminiに説明すると、AIが実際に動くウィジェットを生成する機能だ。Motorolaは、11月19日の発売日から初期状態で利用できると認めた。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Create-My-Widget-7.jpg?quality=82&strip=all&w=800"
+        },
+        {
+          "t": "p",
+          "x": "Gboard Ramblerは長い音声入力のプロンプトからフィラーワードを取り除き、書式を加えることもできる。Sign-to-Textは動画を通じてアメリカ手話(American Sign Language)を英語テキストに翻訳する。Geminiのタスク自動化により、AIがUberやDoorDashなどの対応アプリを介してバックグラウンドでタスクを実行できる。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-on-Pixel-11.jpg?quality=82&strip=all&w=800"
+        },
+        {
+          "t": "p",
+          "x": "Motorola Signature 27は現在予約受付中で、このフラッグシップの米国(US)価格は$1,599だ。"
+        }
+      ]
+    },
+    "gadgets/samsung-xr-glasses-preorder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
+          "cap": "SamsungのWarby Parker製スマートグラスを手にする人"
+        },
+        {
+          "t": "p",
+          "x": "SamsungのAndroid XRスマートグラスの登場が目前に迫り、予約受付は11月12日開始と確定した。Googleと共同開発したこのオーディオ中心のスマートグラスには、Warby ParkerとGentle Monsterのフレームが採用される。価格と出荷日の詳細はまだ明らかになっていない。"
+        },
+        {
+          "t": "p",
+          "x": "オーディオ優先のAndroid XR体験になることはわかっており、ディスプレイを内蔵したSamsungモデルはまだ先になる。最近のうわさでは、このグラスは最終的に12月中に出荷されるという。大きなSamsung Galaxy XRヘッドセットの$1,800ほどにはならないものの、それなりのスマートフォン並みの価格になる可能性はある。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg",
+          "cap": "Warby ParkerがデザインしたSamsungのスマートグラス"
+        },
+        {
+          "t": "p",
+          "x": "購入者は、街中のナビゲーションや翻訳の手助け、あるいはGeminiとの会話による情報収集にこのスマートグラスを使える。カメラも搭載しており、Samsungは録画中にLEDを点灯させ、LEDが覆われたことを検知すると撮影を拒否する仕組みにしている。"
+        }
+      ]
+    },
+    "gadgets/subvocal-silent-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Subvocalのスマートグラスはレーダーで口の動きを追跡する"
+        },
+        {
+          "t": "p",
+          "x": "タイピングは常に、私たちが考えることと、それをコンピューターに伝える速さとの間のボトルネックだった。Wispr FlowのようなAI搭載(AI-powered)の音声入力ツールで状況はかなり改善したが、静かなオフィスや図書館、カフェでコンピューターに話しかけると人目を引きがちだ。The Subvocal Companyというスタートアップは、声を出さない口の動きを毎分200語を超える速さでテキストに変えるというスマートグラスを開発した。"
+        },
+        {
+          "t": "p",
+          "x": "同社によると、このメガネは顔を透過するレーダー信号を送る。声を出さずに言葉を形づくると、発話筋の微細な動きによって信号の跳ね返り方が変わる。その変化をAIモデルが解釈し、テキストに変換する。カメラは使わない。ただし、言葉を意識して口の形で示す必要はある。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses.jpg?resize=1728%2C1037&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "同社はY CombinatorとAfore Capitalから$1.3 millionを調達したとしており、米国(US)で早期割引価格$499、返金可能な$199のデポジットで予約を受け付けている。出荷は2027年の第一四半期に始まる見込みだ。タイピング速度は第三者による検証を受けていない。"
+        }
+      ]
+    },
+    "gadgets/gadgets-gboard-rambler-learns": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
+          "cap": "Pixel 11 ProでGboardのRamblerを使用しているところ。"
+        },
+        {
+          "t": "p",
+          "x": "Gboardアプリの最新ベータに、Geminiを活用した(Gemini-powered)音声入力機能Ramblerが、近く修正した単語や連絡先リストの名前を記憶できるようになることを示す手がかりが含まれている。現状のRamblerは修正内容を保存することも、時間をかけて語彙を学習することもできない。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Remember-corrected-words-watermarked-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "バージョン18.6.3.10ベータでは、Ramblerに新しいRemember corrected wordsトグルが加わる可能性がある。説明文は「Ramblerで音声入力する際に修正した単語を学習して使用します」だ。新しいContact namesトグルは、スマートフォンの連絡先を参照して音声入力中に名前を正確に認識する。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Voice-Correction-List-Import-Export-watermarked-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "新しいVoice correction listには修正した単語がすべて表示され、ImportでRamblerに学習させる単語を手動で追加し、Exportで共有できる。Clear all collected wordsボタンを押すと、保存された修正内容がすべて消去される。Ramblerは現在も引き続きPixel 11シリーズ専用だ。"
+        }
+      ]
+    },
+    "gadgets/nothing-screenfree-ai-device": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+          "cap": "写真：Dominic Preston / The Verge"
+        },
+        {
+          "t": "p",
+          "x": "Nothing CEOのCarl PeiはXへの投稿で、同社が12月に初のAIデバイスを発売すると明かした。Peiが“AI-native”デバイスとAIオペレーティングシステムの計画を発表してから、わずか一年余りでの発表となる。新デバイスの正体についてはほとんど語らず、画面がないことだけを示した："
+        },
+        {
+          "t": "p",
+          "x": "“当社初のAI-native製品は来月出荷される。ツールではあるが、Nothing製品の特徴となってきた個性とこだわりを込めて作った。新たな画面はなく、アプリでは実現できなかったものだ。”"
+        },
+        {
+          "t": "p",
+          "x": "Peiは投稿に、左上に“NOTHING(R)”と記され、その下に正体不明の黒い角丸が写った画像を添えた。先月には、Nothingがカメラ非搭載モデルを含む二種類のAIスマートグラスを投入する計画だという噂が流れ、それ以前にはAIアクセサリーへの転換によって“AI-first企業として自らを再定義している”との噂もあった。"
+        },
+        {
+          "t": "p",
+          "x": "NothingのAIデバイスは、画面のないAIガジェットとして初めてではない。Humane AI pinやFriend、さらにはAIぬいぐるみといった先例がある。OpenAIもJony IveとともにAIスマートスピーカーを開発中と報じられている。Peiは過去のAIデバイスに触れ、“業界全体が自らのiPhoneのような瞬間を探している。ペンダント、ピン、メガネ、コンパニオンなど、AIを誰もの生活の一部にする魔法のような消費者向けデバイスだ”と述べた。さらに“今日、AIのiPhoneを探すのは行き止まりだ”と付け加えた。"
+        }
+      ]
     }
   }
 }

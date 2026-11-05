@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "section": "design",
   "items": [
     {
-      "title": "ChatGPT will now make you animated GIFs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-      "source": "The Verge",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "published_iso": "2026-11-04T18:00:00+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "OpenAI is making ChatGPT image generation faster, too.",
-      "rationale": "New release: ChatGPT image generation (Images 2.6) now outputs animated GIFs and runs faster, so designers can make motion assets for social and UI mockups straight from the chat."
+      "title": "Edit and generate vectors with the Figma agent",
+      "url": "https://www.youtube.com/shorts/Vfh8hAEs7yk",
+      "source": "Figma (YouTube)",
+      "category": "social",
+      "tool": "Social",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "published_iso": "2026-11-05T08:00:06-08:00",
+      "og_image": "https://i.ytimg.com/vi/Vfh8hAEs7yk/maxresdefault.jpg",
+      "excerpt": "The Figma agent can now:Use style references to generate vector illustrations and iconsUtilize strokes for line work so you can adjust the weight or end caps...",
+      "rationale": "New Figma agent capability: style-referenced vector and icon generation with editable strokes, which designers can use in their files right away."
     },
     {
-      "title": "Accelerating engineering for the physical world",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "source": "OpenAI",
-      "category": "cad",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "published_iso": "2026-11-03T12:00:00+00:00",
-      "og_image": null,
-      "excerpt": "OpenAI says GPT-6 Astra designed a Codex hardware device with no direct human edits: it set the functional requirements and handled the look, the enclosure, the PCB and the software integration. The post also covers models that prepare drawings and set up simulations.",
-      "rationale": "Primary source: OpenAI says a model carried a hardware product from requirements through industrial design, enclosure and PCB with no direct human edits. That is a clear marker for where AI-assisted product design is going."
-    },
-    {
-      "title": "Tripo AI launches Agentic Canvas for node-based 3D workflows",
-      "url": "https://www.voxelmatters.com/tripo-ai-launches-agentic-canvas-for-node-based-3d-workflows/",
-      "source": "VoxelMatters",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "published_iso": "2026-11-03T10:30:09+00:00",
-      "og_image": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-Agentic-Canvas.jpg",
-      "excerpt": "Explore Tripo AI's Agentic Canvas, an innovative tool for creating 3D workflows on a visual node-based platform.",
-      "rationale": "New product: Tripo's node-based agentic canvas chains AI 3D generation steps into repeatable pipelines. 3D and product designers can try it right away."
-    },
-    {
-      "title": "nCircle Tech launches nVibe AI app builder",
-      "url": "https://aecmag.com/automation/ncircletech-launches-nvibe-ai-app-builder/",
-      "source": "AEC Magazine",
-      "category": "cad",
-      "tool": "Text-to-CAD",
-      "accent": "#3b6bff",
-      "motif": "cube",
-      "published_iso": "2026-11-03T15:00:54+00:00",
-      "og_image": "https://aecmag.com/wp-content/uploads/2026/11/nVibe2.jpg",
-      "excerpt": "nCircle Tech launches nVibe AI app builder. AEC professionals describe the workflow and AI application platform builds the app",
-      "rationale": "New release: AEC professionals describe a workflow in plain language and nVibe builds the app, bringing vibe-coding to architecture and engineering teams."
-    },
-    {
-      "title": "I ran the same Claude design request 4 times. Only the reference hand-off changed.",
-      "url": "https://dev.to/heynstudio/i-ran-the-same-claude-design-request-4-times-only-the-reference-hand-off-changed-4fnb",
-      "source": "DEV Community",
+      "title": "Transform a quick drawing into a live app with Gemini.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/",
+      "source": "Google Blog",
       "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "published_iso": "2026-11-03T10:24:29Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvxm9snr9s4bcx4f1f6iz.png",
-      "excerpt": "Ask Claude for a design and you often get something that looks like a template you've seen before....",
-      "rationale": "Controlled experiment: the same Claude design prompt run four ways, changing only how the references were handed over. It shows designers how to avoid template-looking output in their next prompt."
+      "published_iso": "2026-11-05T17:00:00+00:00",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bring_your_paper_sketches_to_life_with_Gemi.max-1440x810.png",
+      "excerpt": "Turn your sketches into functional apps using Gemini. Upload your drawings to the Canvas tool to generate and refine code instantly. Try it now.",
+      "rationale": "Primary-source launch: Gemini Canvas turns paper sketches into working app code, making it quicker to go from a sketch to a prototype."
+    },
+    {
+      "title": "Autodesk's most ambitious AI play yet",
+      "url": "https://develop3d.com/ai/autodesks-most-ambitious-ai-play-yet/",
+      "source": "DEVELOP3D",
+      "category": "cad",
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "published_iso": "2026-11-05T12:26:49+00:00",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/11/AU2026_DEMO-AutoAssemble.jpg",
+      "excerpt": "Autodesk AI vision goes beyond faster tools: a connected Assistant that decides how to solve tasks on your behalf.",
+      "rationale": "AU 2026 announcements: Autodesk's connected agentic Assistant and AutoAssemble demo, a new direction for CAD/product design work."
+    },
+    {
+      "title": "Making Immersive LLM Chat Experiences More Accessible",
+      "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+      "source": "Smashing Magazine",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "published_iso": "2026-11-05T13:00:00+00:00",
+      "og_image": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg",
+      "excerpt": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more acce",
+      "rationale": "Practical accessibility patterns from Eric Bailey for LLM chat UIs that teams can apply straight to the AI interfaces they are designing."
+    },
+    {
+      "title": "What AI has changed in Design Systems, and what is still up to us",
+      "url": "https://uxdesign.cc/what-ai-has-changed-in-design-systems-and-what-is-still-up-to-us-d4e8e8f4ceb2",
+      "source": "UX Collective",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#3b6bff",
+      "motif": "swatch",
+      "published_iso": "2026-11-04T22:12:07Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*er_HyzWo0FVdfLtEexv7KQ.jpeg",
+      "excerpt": "Design leaders argue AI can now spin up a component kit in minutes, but consistency across teams stays human work; a field study found 20 of 21 open-source design systems ship an MCP server while only 3 wire up Figma Code Connect.",
+      "rationale": "Field data (20 of 21 open-source design systems ship MCP, only 3 use Code Connect) that design-system teams can use to decide what to build next."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6": {
+      "https://www.youtube.com/shorts/Vfh8hAEs7yk": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+        "nearest": "https://www.youtube.com/watch?v=BS-N-AM5ql4",
         "new_action": ""
       },
-      "https://openai.com/index/accelerating-engineering-for-the-physical-world": {
+      "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/": {
         "verdict": "new",
-        "nearest": "https://develop3d.com/cad/mecagent-targets-complex-cad-tasks-with-gpt-6-astra-powered-v2/",
+        "nearest": "https://lovable.dev/blog/ai-models-and-tools-in-lovable",
         "new_action": ""
       },
-      "https://www.voxelmatters.com/tripo-ai-launches-agentic-canvas-for-node-based-3d-workflows/": {
+      "https://develop3d.com/ai/autodesks-most-ambitious-ai-play-yet/": {
         "verdict": "new",
-        "nearest": "https://www.engineering.com/siemens-expands-agentic-ai-for-3d-ic-design-workflows/",
+        "nearest": "https://www.autodesk.com/products/fusion-360/blog/top-5-features-october-2026-fusion-update/",
         "new_action": ""
       },
-      "https://aecmag.com/automation/ncircletech-launches-nvibe-ai-app-builder/": {
+      "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/": {
         "verdict": "new",
-        "nearest": "https://www.engineering.com/allplan-max-2027-launched-for-engineering-workflows/",
+        "nearest": "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9",
         "new_action": ""
       },
-      "https://dev.to/heynstudio/i-ran-the-same-claude-design-request-4-times-only-the-reference-hand-off-changed-4fnb": {
+      "https://uxdesign.cc/what-ai-has-changed-in-design-systems-and-what-is-still-up-to-us-d4e8e8f4ceb2": {
         "verdict": "new",
-        "nearest": "https://dev.to/haoli/i-built-a-claude-code-skill-that-de-slops-ai-generated-web-design-42kn",
+        "nearest": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2",
         "new_action": ""
       }
     },
-    "note": "Dropped as repeats or follow-ups: NVIDIA Cosmos world-model guide (same running story as the 10-25 Cosmos tools card, no new release); Adobe Firefly poster tutorial (evergreen tutorial, same series as the 10-23 Firefly poster video). Excluded for cross-section or topic reasons: Nothing screen-free AI device (gadgets owns it today); Pangram video/image detection (Pangram is a running story in books: NPR 11-03, Wired 09-04, Bookseller 10-08); Creative Bloq Spotify AI remixing (music-centred). Not selected: UX Collective x3 (Medium RSS re-publication dates; yesterday's run found 'Who's designing the stop button?' was really first published 10-28, outside the window); Vercel/Zapier (customer-story promotion); DEVELOP3D x2 (opinion only); Higgsfield Shorts and Mangaka (vendor blog posts with pricing, and render already has 2 picks); token-CSS and 'Done isn't a test result' dev.to posts (lower-ranked; would make a second DEV pick); Matt Wolfe Claude video editing (lower-ranked tutorial). Cross-section check: published_urls.json was read by hand for books (all), marketing (no higgsfield/openai hardware entries), gadgets (no openai.com entry and no Verge 1026474), and science (no openai.com entry). No pick URL appears in any section. Diversity: 5 outlets, 2 render, 2 cad, 1 figma. The second render and second cad cards get palette accents #eb367f and #3b6bff. Note: the OpenAI pick has og_image null, so ax-media must find an in-article image (openai.com gives no og:image)."
+    "note": "Dropped as a duplicate: Figma 'Workflow Lab: Build With Code on the Canvas' is a tutorial follow-up on code layers (published 2026-10-17 https://www.figma.com/blog/design-together-with-code-layers/) with no new release. Not picked on score or diversity: Qonic AI (2nd cad), Gemini Omni 1.2 Flash (2nd Google Blog; movies may also want it), NVIDIA Omniverse agents, IronCAD 2027 (AI is incidental), Bentley MCP, Firebase Studio sunset, DLSS 5 Hogwarts (game-side), DEVELOP3D opinion x2, Config India talk, dev.to Zoo Code MCP how-to, 'Agents struggle with bad UX'. Each history_match (related band) was checked: Gemini sketch-to-app vs Lovable 10-16, Autodesk AU2026 Assistant vs Fusion October update, UXC design-systems field study vs UXC 10-27 MCP library how-to. All are different events or articles, so they are new."
   }
 }
