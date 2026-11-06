@@ -1,0 +1,19 @@
+JWST 디지털 트윈, 놓친 행성을 다시 찾다
+
+Northwestern·Caltech·MIT·STScI 연구진이 JWST의 광학을 그대로 본뜬 물리 모델 FLIP을 Nature에 발표했습니다. 공개된 JWST 관측을 다시 처리하자, 표준 기법으로는 안 보이던 51 Eridani b가 4.3μm에서 처음 모습을 드러냈습니다.
+
+· 새 행성 발견이 아니라 방법 논문입니다. 51 Eridani b는 2015년 Gemini Planet Imager가 찾은 행성이고, 같은 4.3μm 데이터의 2025년 분석에서는 검출되지 않았습니다(이번엔 SNR 6.3).
+· 자동 미분으로 모델 변수 약 100만 개를 실제 영상에 맞추며, NVIDIA A30 GPU 한 장에 약 35분이 걸립니다. 감도는 표준 기법(KLIP)보다 2~15배 높았습니다.
+· "예전엔 볼 수 없던 행성을 실제로 되찾을 수 있다는 걸 보였습니다" — Jason Wang, Northwestern 조교수(공동 저자)
+
+저자들은 이 방식이 지구형 행성을 찍을 차세대 망원경 HWO의 까다로운 안정성 요구를 일부 덜어 줄 수 있다고 봅니다.
+
+밀어서 6장 →
+
+출처: Universe Today (2026.11.05) · Nature, Ferrer-Chavez 외 (2026.11.04)
+영상: Northwestern University
+이미지: Ferrer-Chavez et al., Nature 659, 58–62 (2026), CC BY 4.0 (일부 발췌·재배치)
+
+매일 아침 열 개 분야 AI 뉴스와 분야를 넘나드는 지식 그래프 → axitnow.com (프로필 링크)
+
+#AI #천문학 #JWST #외계행성 #Nature #axitnow

@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "issue": "JWST 디지털 트윈, 놓친 행성을 다시 찾다",
+    "date": "2026.11.05",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "Universe Today(Evan Gough, 2026.11.05 12:42 UTC) 원문과 Nature 논문(Ferrer-Chavez·Wang·Bouman·Freeman·Pueyo·Feng·Perrin, 'Imaging exoplanets below the telescope stability limit', Nature 659, 58–62, 2026.11.04 온라인, doi:10.1038/s41586-026-11213-z, CC BY 4.0) 대조. 소속: Northwestern(CIERA)·Caltech·MIT CSAIL·STScI. 방법 논문이다 — 새 행성 발견이 아니라 이미 알려진 51 Eri b(2015년 Gemini Planet Imager 발견)를 공개된 JWST NIRCam F430M 데이터에서 SNR 6.3으로 처음 검출(2025년 Balmer 외 KLIP 분석은 미검출, 행성 위치 감도 약 4배). 2–15배 감도(TYC 5899 주입 행성 0.5″ 약 15배), 변수 약 10^6개, A30 GPU 약 35분은 논문 본문 수치. 초안 '숨은 행성을 찾았다'는 발견처럼 읽혀 고쳤다. 영상: Northwestern University 공식 YouTube(kz-Tr7ScQI4, 'Subtracting starlight finds hidden planet', 29초 FLIP 반복 애니메이션, 워터마크 없음). 사진: Nature 논문 Fig.1b, Fig.2(51 Eri F430M KLIP/FLIP 패널 발췌·재배치) — CC BY 4.0, 캡션에 출처 표기. UT 대표 이미지(Gemini/NOIRLab)·비교 이미지는 쓰지 않았다.",
+    "sources": [
+      "Universe Today — Exoplanets Can't Hide From The JWST's 'Digital Twin' (2026.11.05)",
+      "Nature — Imaging exoplanets below the telescope stability limit (2026.11.04)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 과학 · 2026.11.05",
+      "headline": "디지털 트윈이 잡은 행성",
+      "body": "JWST를 본뜬 물리 모델 FLIP으로 별빛을 걷어내자, 기존 처리에선 안 보이던 51 Eridani b가 4.3μm에서 드러났다.",
+      "foot": "밀어서 보기 →",
+      "video": "src/flip.mp4",
+      "dur": 8,
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "어떻게 했나",
+      "headline": "망원경을 통째로 컴퓨터에",
+      "body": "20년 써 온 방식은 다른 별 영상을 빼는 것이라 망원경이 조금만 흔들려도 별빛이 남는다. FLIP은 그 흔들림까지 모델에 넣는다.",
+      "foot": "2026.11.05",
+      "media": "src/fig1b.png",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "무엇을 맞췄나",
+      "headline": "변수 100만 개를 실제 영상에 맞춘다",
+      "body": "자동 미분으로 모델 변수 약 100만 개를 실제 관측 영상에 맞춘다. NVIDIA A30 GPU 한 장으로 35분쯤 걸린다.",
+      "foot": "2026.11.05",
+      "video": "src/flip.mp4",
+      "start": 19,
+      "dur": 8,
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "짚을 대목",
+      "headline": "새 행성 발견은 아니다",
+      "body": "51 Eridani b는 2015년 Gemini가 찾은 행성이다. 2025년 분석에선 안 보였던 4.3μm 영상을 FLIP이 처음 잡아냈다.",
+      "foot": "2026.11.05",
+      "media": "src/fig2_51eri.png",
+      "n": 4
+    },
+    {
+      "kind": "stat",
+      "stat_top": "표준 기법 대비",
+      "stat_arrow": "감도",
+      "stat_bottom": "2–15배",
+      "stat_strike": false,
+      "eyebrow": "그래서 지금",
+      "headline": "흔들림은 계산으로 메운다",
+      "body": "비슷한 JWST 탐사 관측만 100건이 넘는다. 저자들은 지구형 행성을 노릴 HWO의 극한 안정성 요구를 일부 덜 수 있다고 본다.",
+      "foot": "2026.11.05",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
