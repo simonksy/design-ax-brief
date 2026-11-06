@@ -9247,6 +9247,185 @@
           "x": "Jaenada was honoured for ''L'Inconnue du quai de Javel'', which investigates the unsolved murder of a young woman in Paris in the late 1940s. Orélien's novel was removed from the second Goncourt shortlist over suspicions of AI use and accusations of plagiarism."
         }
       ]
+    },
+    "books/proudly-human-certify": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132673-2.JPG",
+          "cap": "Alan Finkel. Courtesy Proudly Human"
+        },
+        {
+          "t": "p",
+          "x": "As AI-generated writing becomes harder to spot, Australian-based Proudly Human is the latest company in an increasingly crowded field offering to certify that books and other cultural products were made by people. It was founded late last year by Alan Finkel, who previously served as the Australian government’s chief scientist."
+        },
+        {
+          "t": "p",
+          "x": "Authors must first attest that their use of AI was “de minimis,” under a standard adapted from U.S. Copyright Office guidance: AI may help with research, brainstorming and spell-checking, but not with writing sentences or paragraphs. “Here we use AI to test for the presence of AI,” Finkel said. Each manuscript runs through four commercial AI detectors; roughly, a book scoring under 10% AI-generated passes, one above 30% fails, and anything in between prompts a conversation with the author."
+        },
+        {
+          "t": "p",
+          "x": "Certification costs $60 per title, paid only on approval, and each certified book gets a unique number and a QR code linking to a verification page. Competitors include the Authors Guild’s Human Authored mark, which appears on about 6,500 books, and U.K. startup Books by People."
+        },
+        {
+          "t": "p",
+          "x": "Finkel said he is in talks with two of the Big Five, which are “sort of using it internally but they’re reluctant to do anything publicly.” He added, “We’re pro-human, we’re not anti-AI.”"
+        }
+      ]
+    },
+    "books/books-library-ai-scrapers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.cbc.ca/ais/47809d1c-efd6-4753-9529-d57b9893d8fb,1793831483888/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C64%2C3000%2C1687%29%3BResize%3D620",
+          "cap": "Students work on laptops in the Pedagogical Library at the Free University of Berlin. (Sean Gallup/Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "Academic libraries are fighting off swarms of data-scraping bots — that are slowing or crashing sites meant for students, researchers and the public — as AI companies continue hunting for content to feed their large language models."
+        },
+        {
+          "t": "p",
+          "x": "Libraries, museums and other cultural heritage institutions are prime targets because they have quality, vetted information that is generally not hidden behind paywalls or logins. “Sometimes the bot traffic gets so bad that it causes the sites to go down completely for a little while,” said Dean Seeman of University of Victoria Libraries."
+        },
+        {
+          "t": "img",
+          "src": "https://i.cbc.ca/ais/1796f05f-10dd-436d-a15e-0ec59c088e90,1793831895338/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8094%2C5399%29%3B",
+          "cap": "Workers enter data from an old document belonging to the McMillan Memorial Library during a digitization exercise in Nairobi. (Patrick Meinhardt/AFP/Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "The University of North Carolina at Chapel Hill reported that it received more than 11,000 searches for Finnish music from thousands of different internet addresses on the same day. Project Gutenberg’s Eric Hellman says AI scraping bots sometimes ignore robots.txt, and because one bot farm can work from thousands of IP addresses, blocking problematic IPs is no longer useful."
+        },
+        {
+          "t": "p",
+          "x": "Some libraries have set up CAPTCHA challenges or begun to require login credentials. Anthropic, OpenAI, Google and Microsoft expressed support for honouring a single, standardized opt-out signal in robots.txt, but compliance would be voluntary."
+        },
+        {
+          "t": "img",
+          "src": "https://i.cbc.ca/ais/1e1cc64e-730f-46b0-a285-74cec0166522,1793832286672/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5760%2C3840%29%3B",
+          "cap": "The main reading room of the New York Public Library. (Dominick Reuter/AFP/Getty Images)"
+        }
+      ]
+    },
+    "books/youngpoong-ai-bookbread": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "http://www.worktoday.co.kr/news/photo/202611/91560_131804_421.jpg",
+          "cap": "The ‘AI Book Bakery’ unveiled by Youngpoong Bookstore on the 3rd. (Photo courtesy of Youngpoong Bookstore)"
+        },
+        {
+          "t": "p",
+          "x": "On the 3rd, Youngpoong Bookstore unveiled ‘AI Book Bakery’, a service that uses artificial intelligence (AI) to analyze readers’ reading tendencies and suggest personalized books."
+        },
+        {
+          "t": "p",
+          "x": "The service stands out for using online and offline data together."
+        },
+        {
+          "t": "p",
+          "x": "It analyzes the books customers searched for or viewed on the online mall, titles added to their library and shopping cart, and their purchase and review histories, and uses them for personalized recommendations."
+        },
+        {
+          "t": "p",
+          "x": "On top of that, it separately provides a book list reflecting sales at Youngpoong Bookstore locations nationwide."
+        },
+        {
+          "t": "p",
+          "x": "By adding actual in-store sales to online usage records, it broadens the scope of its recommendations."
+        },
+        {
+          "t": "p",
+          "x": "Familiar bread characters are used to identify reading tendencies. After completing a balance-game-style test, users can see their reading taste as one of 8 types."
+        },
+        {
+          "t": "p",
+          "x": "Representative types include ‘Red Bean Bun (Proven type)’, which prefers long-loved books; ‘Castella (Emotional type)’, which responds emotionally to sentences and stories; and ‘Salt Bread (Realist type)’, which looks at social trends through books."
+        },
+        {
+          "t": "p",
+          "x": "There is also a space for reviewing individual reading activity. In ‘My Book Bread’, users can check a Book Bread card showing their reading type, as well as a 5-level reading level calculated from monthly activity scores."
+        },
+        {
+          "t": "p",
+          "x": "It also offers a bread-loaf-shaped infographic visualizing reading patterns by day of the week along with areas of interest and authors, and a reading calendar summarizing visits, purchases and reviews. Users can also share their Book Bread card with others."
+        },
+        {
+          "t": "p",
+          "x": "The book recommendation section, ‘Book Bread Stroll’, consists of 5 courses: Regular Eatery, Popular Eatery, Master's Eatery, Taste Eatery and Unique Eatery."
+        },
+        {
+          "t": "p",
+          "x": "Drawing on a total of 17 themes, it suggests a range of books matched to users’ interests, favorite authors and keywords. In particular, the Popular Eatery course shows books that sold well at offline stores nationwide."
+        },
+        {
+          "t": "p",
+          "x": "A feature for browsing other readers’ choices also stands out. In ‘Book Bread Village’, users can see books and reviews frequently chosen by readers of the same bread type."
+        },
+        {
+          "t": "p",
+          "x": "Books recommended by 3 readers with well-matched tastes are presented under ‘Spot-on, Relatable, Respect’. Users can also mark how well each recommended book fits their own taste."
+        },
+        {
+          "t": "p",
+          "x": "Shin Ho-young, head of Youngpoong Bookstore’s online team, said, \"The key is to offer a friendly, new reading experience in which people discover their reading taste the way they pick bread and get book recommendations that suit it,\" adding, \"We focused on creating new connections between books and readers by suggesting books that match each customer’s tastes and interests.\""
+        },
+        {
+          "t": "p",
+          "x": "He added, \"We will keep combining AI technology with Youngpoong Bookstore’s curation capabilities to bring the joy of reading into customers’ daily lives and develop it into the most exciting place to discover books.\""
+        }
+      ]
+    },
+    "books/holocaust-ai-transcription": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/what-ai-can-lose-when.jpg",
+          "cap": "“Clay Tablets” by Eliezer Heiman. Credit: Ghetto's Fighter's House Archive"
+        },
+        {
+          "t": "p",
+          "x": "Tel Aviv University researcher Yael S. Hacohen studies Holocaust writings on fragile surfaces, where words and their physical carriers stay closely connected. Computational tools make collections easier to search, transcribe and translate — “substantial gains” — but they can also obscure material evidence. Her study in AI & Society introduces “material uncertainty”: writing whose meaning stays tied to its damaged or unstable form."
+        },
+        {
+          "t": "p",
+          "x": "She followed digital reproductions of three writings through enhancement, region separation, handwriting recognition, text correction, translation and description generation: Sal Bramson’s drawings and captions on cotton cloth from an Amsterdam prison, Eva Schulzová’s illustrated poem from Terezín, and Eliezer Heiman’s clay tablets from the Kovno ghetto. The study does not measure AI’s overall accuracy."
+        },
+        {
+          "t": "p",
+          "x": "On Bramson’s cloth, separating drawings from writing helped processing but weakened the textile’s concealing role and the captions’ address to his mother. For Schulzová’s poem, the workflow recovered much of the text but described the imagined meal as a “food still life.” On Heiman’s tablets, engraved letters and damage cast similar shadows, so inscription could not be reliably separated from deterioration."
+        },
+        {
+          "t": "p",
+          "x": "Hacohen recommends that transcriptions link to the relevant image areas, that systems show what was enhanced, suppressed, inferred or manually corrected, and that uncertain readings stay marked as uncertain even when a fluent translation exists."
+        }
+      ]
+    },
+    "books/books-dreambeans-india": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?w=1024",
+          "cap": "Google Dreambeans"
+        },
+        {
+          "t": "p",
+          "x": "Google has launched its experimental AI app Dreambeans in India, its first market outside the U.S. On Monday, Google expanded Dreambeans, available on Android and iOS, to India with support for 13 local languages, including Hindi, Punjabi, Tamil, Telugu, and Bengali, alongside English. The launch comes less than two months after Google made the app available to all eligible U.S. users aged 18 and older."
+        },
+        {
+          "t": "p",
+          "x": "Introduced in June, Dreambeans uses information from connected Google services, including Calendar, Gemini, Gmail, Photos, Search, and YouTube, to proactively generate personalized, illustrated stories about users' interests and everyday lives, without requiring them to enter a prompt. Google recently added a feature that uses its Veo video-generation model to animate images in select stories."
+        },
+        {
+          "t": "p",
+          "x": "Dreambeans has recorded nearly 55,000 downloads in the U.S. since its June debut, according to Sensor Tower estimates; downloads dropped 84% month over month to about 5,500 in October. Users can select only one language at a time for their generated stories, which could limit its appeal in India, where many people mix Hindi and English."
+        },
+        {
+          "t": "p",
+          "x": "Users can choose which Google services to connect and disconnect them at any time, and can delete their Dreambeans data, product manager Gozde Oznur said. Dreambeans is available only to personal Gmail account holders, and generated stories are visible only to the account holder."
+        }
+      ]
     }
   }
 }

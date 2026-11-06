@@ -10952,6 +10952,142 @@
           "x": "Images 2.6 is rolling out to all ChatGPT and Codex users across web, desktop, and mobile apps. OpenAI is also launching GPT-Image-2.6 Flare and Sunburst in its API for faster and higher-quality image generation."
         }
       ]
+    },
+    "design/chaos-vray-ai-guidance": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/Lead_Thumb_Image_Skyscraper_Clouds_02.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Chaos has released a major AI-focused update to the V-Ray Collection, a suite of 3D visualisation tools built around photorealistic rendering software V-Ray. New tools allow users to generate 3D assets, while Model Context Protocol (MCP) servers enable them to connect external AI assistants, such as Claude and ChatGPT, directly to their workflows. V-Ray also gains an integrated AI assistant for guided analysis and advice on settings."
+        },
+        {
+          "t": "p",
+          "x": "With MCP servers, users can issue natural-language prompts to inspect scenes, adjust supported settings such as lights and materials, find and place assets, and automate repetitive tasks. The V-Ray AI assistant offers context-aware guidance, Sky Match for matching scene lighting to reference images, and Render Critique for actionable feedback on renders."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/Image-Based-Search.jpg",
+          "cap": "Image-based search in Cosmos"
+        },
+        {
+          "t": "p",
+          "x": "In Chaos Cosmos, users can now create custom 3D models from a single reference image, and image-based search scans more than 30,000 assets to find the closest match. Chaos Anima gains AI Pathfinding for People and Crowds."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/Veras-Support-for-VEO-3.1-v01.jpg",
+          "cap": "Veras now supports Veo-3.1 for video generation"
+        },
+        {
+          "t": "p",
+          "x": "Veras adds a node-based UI for automated, repeatable generation workflows, more models including Veo 3.1, and an Agent mode that turns reference images into 3D models."
+        }
+      ]
+    },
+    "design/qonic-ai-bim-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Qonic has introduced Qonic AI, a collection of agents built into its cloud-based, collaborative BIM modelling platform. Qonic AI works directly inside the BIM model, rather than sitting alongside it. Through the “Ask Qonic” chatbot, users describe what they want in plain language, and Qonic’s agents find, check and update elements using the platform’s own tools."
+        },
+        {
+          "t": "p",
+          "x": "“Anything you can do in Qonic in terms of geometry and data creation, editing, and manipulation can be done through prompting,” said Qonic’s Jacob De Sutter. Qonic AI can only change models the user is permitted to edit, and its changes can be undone like any manual operation."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_2.jpg",
+          "cap": "Qonic AI can find missing BIM data and assign it to model elements"
+        },
+        {
+          "t": "p",
+          "x": "Users can ask whether all windows have a fire rating, have it select those missing one and assign F60, build a concrete quality report, or widen selected windows by 0.5 metres. Users choose Sonnet, Opus or Astra to power requests; Qonic AI runs on tokens."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_3.jpg",
+          "cap": "Qonic AI can edit geometry"
+        },
+        {
+          "t": "p",
+          "x": "A new Qonic MCP server lets users work with the platform through their own AI assistant, such as Claude, Codex or Mistral Le Chat."
+        }
+      ]
+    },
+    "design/meta-muse-spaces-genui": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=9.1755530835981%2C0%2C89.724178139157%2C74.471659887186&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called “spaces,” allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app."
+        },
+        {
+          "t": "p",
+          "x": "Meta says you can create a new space by describing it. If you connect an outside app to Muse — like Gmail, Google Calendar, OpenTable, Notion, and others Muse works with — the AI assistant will continuously pull information from them, allowing it to update pricing, dates, and other information in your space in the background. You can also interact with elements inside your spaces by checking things off, adding notes, and making edits."
+        },
+        {
+          "t": "p",
+          "x": "You can also change the placement of your spaces in the Muse app, too, as Meta lets you keep them in the sidebar, move them into your main tab, or schedule when you see them. “For example, keep your weekly planner up front during the workweek, then swap it for your weekend plans on Saturday,” Meta says."
+        },
+        {
+          "t": "p",
+          "x": "Meta also announced that it’s bringing new “Active Memory” and “Active Focus” capabilities from its Muse Wonder AI model into the Muse app and its Meta AI chatbot. This will allow Muse to understand when past information becomes relevant during conversations, as well as make it better at working toward goals."
+        },
+        {
+          "t": "p",
+          "x": "Meta is rolling out spaces to all Muse users. The company is also looking into ways to share your spaces with other users and collaborate with them."
+        }
+      ]
+    },
+    "design/theo-opus-ui-hillclimb": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "xq0eB8vxeqk"
+        },
+        {
+          "t": "p",
+          "x": "It’s time to make agents good at design, so let’s breakdown how I made Opus hill climb till it finally was making what I wanted it to."
+        },
+        {
+          "t": "p",
+          "x": "Theo set out to give T3 Code a UI pass without a designer or extra skills, by turning it into a hill climb: after about 18 hours across five models and 30-plus rounds of reviews, he says he found a formula that can get good UI for real-world products out of an agent."
+        },
+        {
+          "t": "p",
+          "x": "He typed /goal and told the agent to keep iterating on a UI polish PR until a “council” of reviewer models — Opus 5.5, Muse Wonderful and Codex GPT 6.1 — rated screenshots of the app at least nine out of 10. Round one bombed; in round two Opus went from a six to an eight; by round three every reviewer gave it a nine."
+        },
+        {
+          "t": "p",
+          "x": "The changes were subtle: a new fallback font, clearer thread titles, readable branch names, card radius and softer inline code. The new design is a setting in the T3 Code beta tab."
+        }
+      ]
+    },
+    "design/figma-agent-vector-styles": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Vfh8hAEs7yk"
+        },
+        {
+          "t": "p",
+          "x": "Edit and generate vectors with the Figma agent"
+        },
+        {
+          "t": "p",
+          "x": "The Figma agent can now: Use style references to generate vector illustrations and icons; Utilize strokes for line work so you can adjust the weight or end caps; Group generated vectors in semantic layers for easier iteration."
+        }
+      ]
     }
   }
 }

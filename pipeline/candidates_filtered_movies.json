@@ -1,246 +1,251 @@
 {
   "section": "movies",
-  "now_iso": "2026-11-05T22:03:00Z",
+  "now_iso": "2026-11-06T22:03:00Z",
   "window_hours": 336,
-  "generated_by": "librarian",
   "items": [
     {
-      "title": "How Grimes’ Cameo in Theater-Bound AI Film ‘Gods Don’t Give Gifts’ Came Together (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/grimes-cameo-ai-film-gods-dont-give-gifts-1236940417/",
+      "title": "‘Kamen Rider’ Studio Toei Frames Generative AI Rules, Sets First Video Games for 2027",
+      "url": "https://variety.com/2026/tv/markets-festivals/kamen-rider-studio-toei-generative-ai-rules-2027-game-slate-1236941104/",
       "source": "Variety",
-      "published_iso": "2026-11-05T17:00:00+00:00",
-      "excerpt": "Grimes lends her likeness and real voice to a minutes-long cameo in Zack London's (Gossip Goblin) 'Gods Don't Give Gifts', billed as the first AI feature set to debut in U.S. theaters in December.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/11/2_Grimes_NoLogo-1.png?w=1000&h=563&crop=1",
       "category": "movies",
-      "history_match": {
-        "score": 0.36,
-        "date": "2026-10-07",
-        "url": "https://deadline.com/2026/10/youtube-gossip-goblin-trailer-ai-film-only-gods-give-gifts-1237146800/",
-        "title": "YouTuber Gossip Goblin Releases Trailer For R-Rated AI Theatrical Film 'Gods Don't Give Gifts'",
-        "band": "related"
-      },
-      "cluster": "c0"
+      "published_iso": "2026-11-06T08:21:04+00:00",
+      "excerpt": "Toei CEO Yoshimura Fumio said at TCCF Taipei the 'Kamen Rider' studio has set generative-AI rules and started using AI in film/video production (e.g. AI-made backgrounds), with a dedicated team testing production use and an AI budgeting assistant for producers.",
+      "og_image": "https://variety.com/wp-content/uploads/2017/12/kamen-rider-2.jpg?w=839&h=472&crop=1"
     },
     {
-      "title": "AI Movie ‘Gods Don’t Give Gifts’ Gets Serious with AI-Generated Grimes Cameo, Times Square Marketing Push, Oscar Screenings",
-      "url": "https://www.indiewire.com/news/breaking-news/ai-movie-gods-dont-give-gifts-grimes-cameo-times-square-1235225119/",
-      "source": "IndieWire",
-      "published_iso": "2026-11-05T17:00:00+00:00",
-      "excerpt": "The AI-generated sci-fi anthology adds an AI-rendered Grimes cameo, a Times Square ad campaign and awards-qualifying screenings ahead of its theatrical run.",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/11/Grimes_3-No-Logo-1.png?w=650",
+      "title": "Hollywood Has Flipped on GenAI, Says ‘Avatar’ VFX House Weta FX Chief: ‘If You Don’t Have an AI Strategy, Don’t Bother’",
+      "url": "https://variety.com/2026/film/markets-festivals/hollywood-flipped-genai-avatar-vfx-house-weta-fx-1236941070/",
+      "source": "Variety",
       "category": "movies",
+      "published_iso": "2026-11-06T06:46:06+00:00",
+      "excerpt": "Hollywood studios went from banning GenAI to demanding an AI strategy, Weta FX CEO Daniel Seah said in Taipei after signing a TAICCA deal.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/11/Sue-Wang-Daniel-Seah.jpg?w=1000&h=563&crop=1",
       "history_match": {
-        "score": 0.294,
+        "score": 0.162,
+        "date": "2026-11-05",
+        "url": "https://variety.com/2026/film/markets-festivals/weta-fx-taicca-partner-taiwan-ai-screen-production-hub-1236938968/",
+        "title": "Weta FX and TAICCA Partner to Turn Taiwan Into an AI Screen Production Hub for Asia",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Taiwan Audience Study Highlights Cross-Platform IP Opportunities as AI Raises New Risks for Content Industry",
+      "url": "https://variety.com/2026/film/markets-festivals/taiwan-audience-study-cross-platform-ip-ai-risks-1236941089/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-11-06T07:53:04+00:00",
+      "excerpt": "TAICCA research at TCCF examined AI adoption in audiovisual production, citing estimates of 70-85% AI adoption in post-production/VFX vs 60-75% in pre-production and 15-25% on set, alongside legal uncertainty and technical limits.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/11/Taiwan-insights.jpg?w=1000&h=563&crop=1",
+      "history_match": {
+        "score": 0.15,
+        "date": "2026-11-05",
+        "url": "https://variety.com/2026/film/markets-festivals/weta-fx-taicca-partner-taiwan-ai-screen-production-hub-1236938968/",
+        "title": "Weta FX and TAICCA Partner to Turn Taiwan Into an AI Screen Production Hub for Asia",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Bruno Dumont turns to generative AI to film English-language sci-fi thriller ‘The End’",
+      "url": "https://www.screendaily.com/news/bruno-dumont-turns-to-generative-ai-to-film-english-language-sci-fi-thriller-the-end/5222133.article",
+      "source": "Screen Daily",
+      "category": "movies",
+      "published_iso": "2026-11-06T12:35:00+00:00",
+      "excerpt": "Cannes-winning director Bruno Dumont is making his next feature 'The End', an English-language sci-fi thriller shelved for 25 years, entirely with generative AI from his Paris home - no actors or crew - generating footage scene by scene from his own shot breakdowns.",
+      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/2/6/1491626_Director-Burno-Dumont-Portrait.jpg",
+      "history_match": {
+        "score": 0.225,
+        "date": "2026-10-12",
+        "url": "https://variety.com/2026/film/markets-festivals/sci-fi-thriller-overstake-generative-ai-rebuild-busan-market-1236907993/",
+        "title": "Sci-Fi Thriller ‘Overstake’ Gets Generative AI Rebuild, Boarded by Cappu Films at Busan Market (EXCLUSIVE)",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Weta FX to build AI hub in Taiwan, buy into Moonshine Studio",
+      "url": "https://www.screendaily.com/news/weta-fx-to-build-ai-hub-in-taiwan-buy-into-moonshine-studio/5222119.article",
+      "source": "Screen Daily",
+      "category": "movies",
+      "published_iso": "2026-11-06T09:57:00+00:00",
+      "excerpt": "An MOU was signed on stage between TAICCA chairperson Sue Wang and Weta FX CEO Daniel Seah.",
+      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/0/8/1491608_img_8932_985057_crop.jpeg",
+      "history_match": {
+        "score": 0.395,
+        "date": "2026-11-05",
+        "url": "https://variety.com/2026/film/markets-festivals/weta-fx-taicca-partner-taiwan-ai-screen-production-hub-1236938968/",
+        "title": "Weta FX and TAICCA Partner to Turn Taiwan Into an AI Screen Production Hub for Asia",
+        "band": "related"
+      },
+      "cluster": "c4"
+    },
+    {
+      "title": "Weta CEO Daniel Seah Unpacks TAICCA Partnership",
+      "url": "https://deadline.com/2026/11/weta-fx-daniel-seah-taicca-taiwan-moonshine-studio-1237215367/",
+      "source": "Deadline",
+      "category": "movies",
+      "published_iso": "2026-11-06T12:37:50+00:00",
+      "excerpt": "Weta FX is partnering with TAICCA due to Taiwan's talent, government support and focus on AI driven by the success of its semiconductor industry. ",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/11/TCCF-opening2.jpg?w=1024",
+      "history_match": {
+        "score": 0.374,
+        "date": "2026-11-05",
+        "url": "https://variety.com/2026/film/markets-festivals/weta-fx-taicca-partner-taiwan-ai-screen-production-hub-1236938968/",
+        "title": "Weta FX and TAICCA Partner to Turn Taiwan Into an AI Screen Production Hub for Asia",
+        "band": "related"
+      },
+      "cluster": "c4"
+    },
+    {
+      "title": "日 후지TV \"드라마 제작에 AI 전면 도입…제작 비용·기간 절약\"",
+      "url": "https://www.yna.co.kr/view/AKR20261106154600009",
+      "source": "Yonhap (연합뉴스)",
+      "category": "movies",
+      "published_iso": "2026-11-06T17:08:43+09:00",
+      "excerpt": "후지TV가 2027년 10월부터 모든 실사 드라마 제작에 생성형 AI를 쓰기로 했다(닛케이). 9월 전담팀을 꾸렸고, VFX로 처리하던 장면을 AI로 만들어 작업 시간을 70~80% 줄였다.",
+      "og_image": "https://img4.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106154600009_02_i_P4.jpg"
+    },
+    {
+      "title": "최휘영 \"AI 파도, 연대의 방식으로 항로 찾는 영화인에 박수\"",
+      "url": "https://www.yna.co.kr/view/AKR20261106176100005",
+      "source": "Yonhap (연합뉴스)",
+      "category": "movies",
+      "published_iso": "2026-11-06T19:09:57+09:00",
+      "excerpt": "'2026 대한민국예술원 영화전'은 '임권택 없이 임권택 영화 만들기'를 주제로 임권택 감독의 연출 문법을 AI가 학습해 만든 영상을 상영했다. 최휘영 문체부 장관이 AI 단편 '확인'을 관람했다.",
+      "og_image": "https://img5.yna.co.kr/photo/yna/YH/2026/11/06/PYH2026110609630001300_P4.jpg",
+      "history_match": {
+        "score": 0.307,
+        "date": "2026-11-04",
+        "url": "https://www.yna.co.kr/view/AKR20261102043400005",
+        "title": "AI가 만든 '임권택 스타일' 영화 공개…대한민국예술원 영화전",
+        "band": "related"
+      }
+    },
+    {
+      "title": "AI Film 'Gods Don't Give Gifts' Hopes to Tap YouTube Following — and Grimes — for Breakout Moment",
+      "url": "https://www.thewrap.com/industry-news/tech/ai-film-gods-dont-give-gifts-youtube-grimes-gossip-goblin/",
+      "source": "TheWrap",
+      "category": "movies",
+      "published_iso": "2026-11-05T17:00:00+00:00",
+      "excerpt": "The \"animated film\" comes from Zack London, the AI artist behind the YouTube channel Gossip Goblin",
+      "og_image": "https://www.thewrap.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-5.37.19-PM.png",
+      "history_match": {
+        "score": 0.363,
         "date": "2026-10-26",
         "url": "https://deadline.com/2026/10/gossip-goblin-gods-dont-give-gifts-heads-to-afm-sales-1237170580/",
         "title": "Gossip Goblin's AI Sci-Fi Film 'Gods Don't Give Gifts' Heads To AFM Market For Sales With AGC",
         "band": "related"
       },
-      "cluster": "c0"
+      "cluster": "c8"
     },
     {
-      "title": "‘Blade Runner 2049’ Producer Settles Lawsuit Against Warner Bros. Discovery Over AI Images",
-      "url": "https://www.hollywoodreporter.com/business/business-news/blade-runner-2049-producer-lawsuit-tesla-1236748701/",
-      "source": "The Hollywood Reporter",
-      "published_iso": "2026-11-05T19:56:10+00:00",
-      "excerpt": "Alcon Entertainment settled its claims that Warner Bros. Discovery helped Elon Musk create unlicensed Blade Runner 2049-style promo images with an AI image generator; Alcon continues to pursue Musk and Tesla.",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/MCDBLRU_EC053-H-2026.jpg?w=1296&h=730&crop=1",
-      "category": "movies"
-    },
-    {
-      "title": "You can edit your videos with AI on Instagram’s new desktop Edits app",
-      "url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
-      "source": "The Verge",
-      "published_iso": "2026-11-05T15:00:00+00:00",
-      "excerpt": "Instagram's Edits video editor comes to desktop with a full timeline and AI agent-driven editing (Meta's Muse) for Reels.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-timeline-1.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "title": "AI Movie ‘Gods Don’t Give Gifts’ Gets Serious with AI-Generated Grimes Cameo, Times Square Marketing Push, Oscar Screenings",
+      "url": "https://www.indiewire.com/news/breaking-news/ai-movie-gods-dont-give-gifts-grimes-cameo-times-square-1235225119/",
+      "source": "IndieWire",
       "category": "movies",
+      "published_iso": "2026-11-05T17:00:00+00:00",
+      "excerpt": "AI film 'Gods Don't Give Gifts' will feature a cameo from Grimes and will be advertised with a massive Times Square ad campaign. ",
+      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/11/Grimes_3-No-Logo-1.png?w=650",
       "history_match": {
-        "score": 0.159,
-        "date": "2026-10-22",
-        "url": "https://www.cined.com/cinemaos-cutroom-and-invideo-compared-mac-studio-app-free-open-source-editor-cloud-ai-agent/",
-        "title": "cinemaOS, CUTROOM, and invideo Compared – Mac Studio App, Free Open-Source Editor, Cloud AI Agent | CineD",
+        "score": 0.309,
+        "date": "2026-10-26",
+        "url": "https://deadline.com/2026/10/gossip-goblin-gods-dont-give-gifts-heads-to-afm-sales-1237170580/",
+        "title": "Gossip Goblin's AI Sci-Fi Film 'Gods Don't Give Gifts' Heads To AFM Market For Sales With AGC",
+        "band": "related"
+      },
+      "cluster": "c8"
+    },
+    {
+      "title": "Sylvain Chomet’s Dior Ad Faces AI Accusations And We Apologize",
+      "url": "https://www.cartoonbrew.com/artificial-intelligence/sylvain-chomet-dior-ad-ai-use-269124.html",
+      "source": "Cartoon Brew",
+      "category": "movies",
+      "published_iso": "2026-11-06T17:15:50+00:00",
+      "excerpt": "Cartoon Brew issued a correction and apology after viewers flagged apparent generative-AI artifacts in Sylvain Chomet's Dior holiday short, which Dior promoted as hand-drawn.",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior.jpg"
+    },
+    {
+      "title": "China’s First AI Feature Earns Just $253,000 In 11 Days",
+      "url": "https://www.cartoonbrew.com/box-office-report/sanxingdui-future-past-week-2-box-office-268831.html",
+      "source": "Cartoon Brew",
+      "category": "movies",
+      "published_iso": "2026-11-02T14:09:35+00:00",
+      "excerpt": "‘Sanxingdui: Future Past’ reportedly cost $1.5 million to produce, but Chinese box office forecasts suggest it won’t gross even a third of that.",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Sanxingdui-Future-Past.jpg",
+      "history_match": {
+        "score": 0.291,
+        "date": "2026-10-27",
+        "url": "https://www.cartoonbrew.com/box-office-report/chinese-ai-film-sanxingdui-future-past-box-office-flop-268426.html",
+        "title": "China’s First AI Feature Flops At The Chinese Box Office",
         "band": "related"
       }
     },
     {
-      "title": "AI movies make leap from short clips to big screen",
-      "url": "https://www.koreatimes.co.kr/entertainment/films/20261105/ai-movies-make-leap-from-short-clips-to-big-screen",
+      "title": "Korean, Chinese filmmakers seek common ground beyond politics through AI",
+      "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20261105/korean-chinese-filmmakers-seek-common-ground-beyond-politics-through-ai",
       "source": "The Korea Times",
-      "published_iso": "2026-11-04T22:00:04+00:00",
-      "excerpt": "The fully AI-generated Korean sci-fi feature 'Raphael' opens in local theaters Nov. 25 after 14 months of editing to keep characters consistent, following 'Steelay' last month; Yeon Sang-ho and Jia Zhangke weigh in on human authorship.",
-      "og_image": "https://newsimg.koreatimes.co.kr/2026/11/04/3a0e1a84-3ca8-4f17-8284-1ca86f2f1608.jpg",
-      "off_list": true,
-      "category": "movies"
-    },
-    {
-      "title": "Remington Scott to Lead Eros Innovation's New AI Creative Unit",
-      "url": "https://www.awn.com/news/remington-scott-lead-eros-innovations-new-ai-creative-unit",
-      "source": "Animation World Network",
-      "published_iso": "2026-11-04T10:21:42-08:00",
-      "excerpt": "Eros Innovation launches an AI creative unit for VFX, digital humans and gaming, led by mocap veteran Remington Scott, with a Mohammed Rafi digital-human project among its first priorities.",
-      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081717-remington-scott-official-2026-3-1280.jpg?itok=XKeWgHFr",
-      "category": "movies"
-    },
-    {
-      "title": "iZotope Intros Photon for AI-Powered Stem Separation and Denoising",
-      "url": "https://postperspective.com/izotope-intros-photon-for-ai-powered-stem-separation-and-denoising/",
-      "source": "postPerspective",
-      "published_iso": "2026-11-03T17:13:06+00:00",
-      "excerpt": "iZotope's Photon is a standalone app and ARA plugin using 12 custom-trained machine-learning models for stem separation and dialogue/audio enhancement, processed locally on the GPU for post-production.",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/11/Photon-hero-copy.jpg",
       "category": "movies",
-      "history_match": {
-        "score": 0.254,
-        "date": "2026-10-20",
-        "url": "https://www.provideocoalition.com/stem-separation-moves-into-the-edit-what-enhance-audio-changes-for-dialogue-workflows-in-premiere-beta/",
-        "title": "Stem Separation Moves Into the Edit: What Enhance Audio Changes for Dialogue Workflows in Premiere (Beta)",
-        "band": "related"
-      }
+      "published_iso": "2026-11-05T03:00:03.000Z",
+      "excerpt": "Grand-prize winners of the China-Korea AI Video Competition hosted by the Chinese Embassy in Seoul used AI-generated short films to dramatize little-known acts of Korea-China solidarity.",
+      "og_image": "https://newsimg.koreatimes.co.kr/2026/11/04/f4d2ac9f-f7b5-4cb9-a2b5-9a8f6ec9360b.jpeg"
+    },
+    {
+      "title": "New iZotope Photon powered by 12 machine-learning models",
+      "url": "https://www.provideocoalition.com/new-izotope-photon-powered-by-12-machine-learning-models/",
+      "source": "ProVideo Coalition",
+      "category": "movies",
+      "published_iso": "2026-11-03T08:15:41-08:00",
+      "excerpt": "Fast and powerful, iZotope Photon, powered by 12 cutting-edge custom-trained models, brings GPU-accelerated stem separation and denoising to the desktop. ",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/izotopephoton001.jpg"
+    },
+    {
+      "title": "Pro Tools 2026.11: Extensions, Stem Separator, MPE",
+      "url": "https://www.redsharknews.com/pro-tools-2026-11-extensions-stem-separator-mpe",
+      "source": "RedShark News",
+      "category": "movies",
+      "published_iso": "2026-11-05T13:00:02.000Z",
+      "excerpt": "Pro Tools 2026.11 adds Extensions, an AI Stem Separator included in every version, MPE, and Windows High DPI support.",
+      "og_image": "https://www.redsharknews.com/hubfs/Pro%20Tools%202026.11.jpg"
     },
     {
       "title": "DaVinci Resolve 21.2: new features and fixes",
       "url": "https://www.redsharknews.com/davinci-resolve-21-2-whats-new",
       "source": "RedShark News",
-      "published_iso": "2026-11-05T06:25:46+00:00",
-      "excerpt": "Resolve 21.2 adds Gen 6 LUTs, MacBook Pro touchscreen support and 25+ fixes, while the Studio edition gets more AI assistant tools.",
-      "og_image": "https://www.redsharknews.com/hubfs/davinci%20resolve%20color%20control%20HD.jpg",
       "category": "movies",
+      "published_iso": "2026-11-05T06:25:46.000Z",
+      "excerpt": "DaVinci Resolve 21.2 adds Gen 6 LUTs and touchscreen support; the paid Studio version adds further AI assistant tools. (AI is a minor part - low priority.)",
+      "og_image": "https://www.redsharknews.com/hubfs/davinci%20resolve%20color%20control%20HD.jpg",
       "history_match": {
-        "score": 0.221,
+        "score": 0.219,
         "date": "2026-10-28",
         "url": "https://nofilmschool.com/davinci-resolve-update-21-1-2",
         "title": "DaVinci Resolve is Getting Faster as Latest Update Boosts IntelliSearch and OGraf Playback",
         "band": "related"
       }
-    },
-    {
-      "title": "“We’re not afraid of AI,” says GIFF Pro’s Mathieu Gayet as 2026 programme opens",
-      "url": "https://www.screendaily.com/features/were-not-afraid-of-ai-says-giff-pros-mathieu-gayet-as-2026-programme-opens/5221973.article",
-      "source": "Screen Daily",
-      "published_iso": "2026-11-03T07:00:00+00:00",
-      "excerpt": "GIFF Pro head Mathieu Gayet says the Geneva festival's industry arm is 'not afraid of AI' as its 2026 programme opens, positioning the event to engage with AI-driven work.",
-      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/1/7/6/1491176_mathieugayet_573911_crop.jpg",
-      "category": "movies"
-    },
-    {
-      "title": "CAA's Bryan Lourd Discusses AI As Agency Weighs In On NYT Vs. OpenAI Battle",
-      "url": "https://deadline.com/2026/11/bryan-lourd-caa-ai-lawsuit-1237212214/",
-      "source": "Deadline",
-      "published_iso": "2026-11-03T17:26:49+00:00",
-      "excerpt": "Hollywood agency CAA, with big-name clients on board, weighs in on the New York Times' AI-training lawsuit against OpenAI, and Bryan Lourd discusses the agency's position on AI.",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/11/caa-openai.jpg?w=1024",
-      "category": "movies"
-    },
-    {
-      "title": "AI Dubbing Pioneer Flawless Sells Tech To Steven Schuurman Venture",
-      "url": "https://deadline.com/2026/10/flawless-ai-dubbing-sells-technology-1237208379/",
-      "source": "Deadline",
-      "published_iso": "2026-10-30T09:23:09+00:00",
-      "excerpt": "Flawless, which spent $100M building SAG-AFTRA-endorsed TrueSync visual-dubbing tech used on films like 'Fall', has sold its IP after its UK entity entered administration.",
-      "og_image": "https://deadline.com/wp-content/uploads/2023/03/fall-2022-1200-1200-675-675-crop-000000.jpg?w=1024",
-      "category": "movies"
-    },
-    {
-      "title": "Matti Klemm sues Netflix over AI training on his voice",
-      "url": "https://www.voiceoverherald.com/matti-klemm-netflix-lawsuit-ai-training-voice-data/",
-      "source": "Voice Over Herald",
-      "published_iso": "2026-11-04T14:00:00+00:00",
-      "excerpt": "Jason Momoa's German dub voice Matti Klemm is suing Netflix, backed by the German voice-artists association VDS, after a data request showed his dubbing recordings were used to train AI.",
-      "og_image": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-24.jpg",
-      "off_list": true,
-      "category": "movies"
-    },
-    {
-      "title": "Kling 4.0 Flash Opens Web, API, and Adobe Plugin Access",
-      "url": "https://www.remio.ai/post/kling-4-0-flash-opens-web-api-and-adobe-plugin-access",
-      "source": "remio",
-      "published_iso": "2026-11-05T16:28:27+00:00",
-      "excerpt": "Per Kling's Nov. 4 announcement, Kling 4.0 Flash is now open on web and API with connections into Adobe apps, letting editors call the video model from inside existing post workflows.",
-      "og_image": "https://static.wixstatic.com/media/80334c_3df225541ea9441d95358f15a97549d7~mv2.png/v1/fill/w_2000,h_1125,al_c,q_95,usm_0.66_1.00_0.01/80334c_3df225541ea9441d95358f15a97549d7~mv2.png",
-      "off_list": true,
-      "category": "movies"
-    },
-    {
-      "title": "Pitch Black Expands REVIZE AI Globally Across its Studios",
-      "url": "https://content-technology.com/postproduction/pitch-black-expands-revize-ai-globally-across-its-studios/",
-      "source": "Content + Technology",
-      "published_iso": "2026-11-05T02:14:40+00:00",
-      "excerpt": "Pitch Black rolls its REVIZE AI/machine-learning VFX toolset, used on 'Sinners' and 'Mickey 17', out across all its global studios.",
-      "og_image": "https://content-technology.com/wp-content/uploads/2026/11/REVIZE_Thumb-1200x0-c-default_small.jpg",
-      "off_list": true,
-      "category": "movies"
-    },
-    {
-      "title": "Animaj unveiled FlipMove, an artist-led AI animation workflow",
-      "url": "https://senalnews.com/en/content/animaj-unveiled-flipmove-an-artist-led-ai-animation-workflow",
-      "source": "Señal News",
-      "published_iso": "2026-11-04T00:00:00+00:00",
-      "excerpt": "Animaj's proprietary FlipMove workflow, already used on preschool series 'Ozzy Fox', uses AI to accelerate animation production while keeping animators in creative control.",
-      "og_image": "https://senalnews.com/adjuntos/imagenes/000/187/0000187799.jpg",
-      "off_list": true,
-      "category": "movies"
-    },
-    {
-      "title": "View Conference’s AI Sales Pitches Were Exhausting",
-      "url": "https://www.cartoonbrew.com/events/view-conference-ai-sales-pitches-268698.html",
-      "source": "Cartoon Brew",
-      "published_iso": "2026-10-29T09:56:00-04:00",
-      "excerpt": "At Turin's View Conference, filmmakers shared craft while AI evangelists claimed everyone already uses the technology; Cartoon Brew reports the pitches and their gaps.",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Conference.jpg",
-      "category": "movies",
-      "history_match": {
-        "score": 0.199,
-        "date": "2026-10-21",
-        "url": "https://variety.com/2026/tv/global/ai-could-replace-actors-runway-ceo-cristobal-valenzuela-1236916525/",
-        "title": "AI Could ‘Absolutely’ Replace Human Actors, CEO of Generative AI Startup Runway Says at Italy’s View Conference: ‘It’s Already Happening in a Way’",
-        "band": "related"
-      }
     }
   ],
+  "notes": "Collected via outlet RSS + news sitemaps + Google News RSS (site: queries); 3 WebSearch calls used (1 failed on theverge.com domain block). Dropped: Joaquin Phoenix/Gentle Monster AI-glasses ad (product ad, not film-AI), Eros AI unit exec hire, Pangram AI-detection, Ken Ziffren opinion, Adobe-sponsored PVC Premiere piece, Kookmin AI master's program. Weta FX x TAICCA launch-day specifics appear in 3 items (Variety/Screen/Deadline) - curator should pick one. 'Gods Don't Give Gifts' appears twice (TheWrap/IndieWire) - Deadline AFM-sales angle was published 10-26, Grimes cameo/Times Square/Oscar push is new.",
   "dedup": {
-    "dropped": 1,
+    "dropped": 2,
     "kept": 16,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 6,
+    "review": 10,
     "same_story_pairs": [
       [
-        "https://variety.com/2026/film/news/grimes-cameo-ai-film-gods-dont-give-gifts-1236940417/",
+        "https://www.screendaily.com/news/weta-fx-to-build-ai-hub-in-taiwan-buy-into-moonshine-studio/5222119.article",
+        "https://deadline.com/2026/11/weta-fx-daniel-seah-taicca-taiwan-moonshine-studio-1237215367/",
+        0.365
+      ],
+      [
+        "https://www.thewrap.com/industry-news/tech/ai-film-gods-dont-give-gifts-youtube-grimes-gossip-goblin/",
         "https://www.indiewire.com/news/breaking-news/ai-movie-gods-dont-give-gifts-grimes-cameo-times-square-1235225119/",
-        0.357
+        0.318
       ]
     ]
   },
   "history_digest": [
-    {
-      "date": "2026-10-07",
-      "title": "YouTuber Gossip Goblin Releases Trailer For R-Rated AI Theatrical Film 'Gods Don't Give Gifts'",
-      "url": "https://deadline.com/2026/10/youtube-gossip-goblin-trailer-ai-film-only-gods-give-gifts-1237146800/"
-    },
-    {
-      "date": "2026-10-07",
-      "title": "The State of VFX and Animation Might Surprise You",
-      "url": "https://postperspective.com/the-state-of-vfx-and-animation-might-surprise-you/"
-    },
-    {
-      "date": "2026-10-07",
-      "title": "The Tools Shaping the Future of VFX",
-      "url": "https://vfxvoice.com/the-tools-shaping-the-future-of-vfx/"
-    },
-    {
-      "date": "2026-10-07",
-      "title": "LOFTAPPS to Debut LOFT Software and Peek at Phil Tippett's 'Mad God' Sequel at VIEW 2026",
-      "url": "https://www.awn.com/news/loftapps-debut-loft-software-and-peek-phil-tippetts-mad-god-sequel-view-2026"
-    },
-    {
-      "date": "2026-10-07",
-      "title": "SAG-AFTRA TV Animation Deal Boosts Wages, AI Protections",
-      "url": "https://www.cartoonbrew.com/artist-rights/sag-aftra-tv-animation-deal-vote-267544.html"
-    },
     {
       "date": "2026-10-08",
       "title": "We're making it easier to identify AI-generated content globally.",
@@ -885,6 +890,31 @@
       "date": "2026-11-05",
       "title": "'Vibe Directing,' Hybrid Filmmaking and Robots: Disney's Startup Program Goes All-In on AI",
       "url": "https://www.thewrap.com/industry-news/tech/disney-ai-accelerator-startup-investor/"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Animaj unveiled FlipMove, an artist-led AI animation workflow",
+      "url": "https://senalnews.com/en/content/animaj-unveiled-flipmove-an-artist-led-ai-animation-workflow"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "'Blade Runner 2049' Producer Settles Lawsuit Against Warner Bros. Discovery Over AI Images",
+      "url": "https://www.hollywoodreporter.com/business/business-news/blade-runner-2049-producer-lawsuit-tesla-1236748701/"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "AI movies make leap from short clips to big screen",
+      "url": "https://www.koreatimes.co.kr/entertainment/films/20261105/ai-movies-make-leap-from-short-clips-to-big-screen"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "You can edit your videos with AI on Instagram's new desktop Edits app",
+      "url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Matti Klemm sues Netflix over AI training on his voice",
+      "url": "https://www.voiceoverherald.com/matti-klemm-netflix-lawsuit-ai-training-voice-data/"
     }
   ]
 }

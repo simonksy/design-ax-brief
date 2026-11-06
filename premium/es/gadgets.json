@@ -10983,6 +10983,144 @@
           "x": "El dispositivo de AI de Nothing no sería el primer gadget de AI sin pantalla, tras ejemplos como el Humane AI pin, el Friend e incluso peluches con AI. Según se informa, OpenAI también trabaja en un altavoz inteligente con AI junto a Jony Ive. Pei aludió a dispositivos de AI anteriores al decir que “toda la industria está buscando su momento iPhone: el colgante, el pin, las gafas, el acompañante, algún dispositivo de consumo mágico que haga de la AI parte de la vida de todos”. Y añadió: “Buscar hoy el iPhone de la AI es un callejón sin salida”."
         }
       ]
+    },
+    "gadgets/tau-humanoid-home-cleaning": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.mp4"
+        },
+        {
+          "t": "p",
+          "x": "La startup Tau Robotics envía robots humanoides a limpiar casas en San Francisco. Todavía necesitan mucha guía humana, pero están aprendiendo."
+        },
+        {
+          "t": "p",
+          "x": "Por ahora, los robots los pilotan a distancia personas que observan a través de cámaras montadas en la cabeza y las muñecas de los robots. Mientras limpian, los robots recogen datos que Tau usará para entrenar a descendientes más independientes. Tareas como hacer la cama y doblar la ropa usan guía cinemática: el piloto humano ejecuta los movimientos y el robot los copia. La cofundadora Cornelia Weinzierl dice que el robot ya puede aspirar y fregar sin ayuda humana."
+        },
+        {
+          "t": "p",
+          "x": "Tau ofrecía una limpieza de una hora por $30; ahora cobra $60 por una limpieza semanal con dos robots, o $100 por una visita única. En la primera visita, el robot tuvo problemas con las escaleras y se fue antes de tiempo cuando se sobrecalentó el equipo de su controlador remoto; la segunda visita fue mucho mejor, e incluyó la limpieza del inodoro."
+        },
+        {
+          "t": "p",
+          "x": "Hasta ahora, Tau solo ha completado un par de cientos de limpiezas. \"Limpiar no es un trabajo que mucha gente realmente quiera hacer de forma activa\", dijo Weinzierl."
+        }
+      ]
+    },
+    "gadgets/syncere-lume-robot-lamp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero-1280x720.jpg",
+          "cap": "La lámpara robot Lume de Syncere sostiene ropa junto a una cama"
+        },
+        {
+          "t": "p",
+          "x": "Lume es una lámpara de pie con un robot plegado en su interior. Cuando se le pide trabajar, despliega un brazo articulado, rueda hasta la cama o el montón de ropa y se ocupa de las tareas suaves: doblar ropa, hacer la cama, colocar las almohadas, ordenar. Syncere es una startup de Palo Alto fundada por los roboticistas Aaron Tan y Angus Fung. Lume cuesta desde $2,699."
+        },
+        {
+          "t": "video",
+          "yt": "ahBF2XkA9No"
+        },
+        {
+          "t": "p",
+          "x": "Syncere construye el producto en torno a la manipulación robótica, la percepción integrada y el cómputo de AI local, de modo que ver y decidir ocurre en el dispositivo. Cada Lume incluye una Personalization Band: le muestras cómo doblas y cómo te gusta hacer la cama, y el robot aprende tus preferencias."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-folded.jpg",
+          "cap": "Plegada, Lume es una simple lámpara de pie. Imagen: Syncere"
+        },
+        {
+          "t": "p",
+          "x": "El Duet, con dos lámparas, cuesta $5,199. LumeCare cuesta $489; Autonomy vale $679 por acceso de por vida a nuevas funciones y tareas futuras, o $79 al mes por lámpara. Los pedidos son por invitación, con las primeras entregas en el primer y segundo trimestre de 2027. Syncere cerró una ronda presemilla de $11 millones liderada por a16z Speedrun."
+        }
+      ]
+    },
+    "gadgets/moto-buds-ultra27-translate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Motorola"
+        },
+        {
+          "t": "p",
+          "x": "Junto al Motorola Signature 27 llegaron los Moto Buds Ultra 27, los auriculares con más funciones de Motorola hasta la fecha. Combinan audio Bose-tuned, cancelación de ruido adaptativa y un conjunto de funciones AI-powered, entre ellas la traducción en tiempo real."
+        },
+        {
+          "t": "p",
+          "x": "Incluyen un controlador dinámico de 11mm con una armadura balanceada dedicada, ajuste Bose SoundDesign y Bose QuietControl ANC, además de Hi-Res Audio, Dolby Atmos y Dolby Head Tracking. La batería ofrece hasta ocho horas, y 37 horas con el estuche, con resistencia IP57."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27-lifestyle.jpg?resize=1920%2C1152&ssl=1",
+          "cap": "Motorola"
+        },
+        {
+          "t": "p",
+          "x": "AI Live Translate permite escuchar conversaciones traducidas directamente en los auriculares, aunque requiere un teléfono Motorola compatible y la disponibilidad de idiomas varía. Al mantener pulsado el auricular izquierdo se abre Motorola Qira, y el modo manos libres \"Hey Qira\" llegará en los próximos meses. Head Gestures permite contestar o rechazar llamadas asintiendo o negando con la cabeza."
+        },
+        {
+          "t": "p",
+          "x": "Los Moto Buds Ultra 27 estarán disponibles en Estados Unidos en los próximos meses; Motorola no ha anunciado un precio para US ni una fecha de lanzamiento."
+        }
+      ]
+    },
+    "gadgets/homeview-thirdparty-chatbots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&w=1600",
+          "cap": "Imagen: 9to5Mac/Anthropic/Pawel Czerwinski"
+        },
+        {
+          "t": "p",
+          "x": "Un código descubierto en la beta de iOS 27.3 sugiere que HomeView está a punto de admitir chatbots AI de terceros como ChatGPT y Claude."
+        },
+        {
+          "t": "p",
+          "x": "El filtrador pdfu dijo a principios de mes que ChatGPT, Claude y otras apps de AI \"podrían\" llegar a HomeView, tras detectar una marca sin usar para ConversationalApps. Ahora afirma que la beta de iOS 26.3 confirma su sospecha."
+        },
+        {
+          "t": "p",
+          "x": "\"Está pasando, amigos: las apps de AI llegan a HomeView. PebblePlay, el puente de CarPlay de HomeView, recibe la categoría Conversational Apps en iOS 27.3. La actualización también añade enrutamiento de audio bidireccional, gestión de sesiones y las bases para las interrupciones. Todavía no está todo conectado.\""
+        },
+        {
+          "t": "p",
+          "x": "Apple usa estas marcas para determinar qué categorías de apps de terceros pueden ejecutarse en el dispositivo, igual que hace con CarPlay. El mismo filtrador descubrió recientemente indicios de que HomeView podrá funcionar como cámara de seguridad de HomeKit."
+        }
+      ]
+    },
+    "gadgets/aina-agent-ring": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Apoorv Shankar cree que, en un futuro muy cercano, las personas interactuarán con la tecnología mediante una serie de aprobaciones y rechazos. Los agentes de AI acudirán a nosotros de forma proactiva para completar tareas. Sacar el teléfono cada vez para decir sí o no será un “cuello de botella”, afirma. Por eso creó el Aina Ring. Tiene una pequeña pantalla y un botón similar a un joystick que permite aceptar o rechazar rápidamente las acciones de un agente de AI. Las reservas ya están abiertas; el anillo cuesta $399 por tiempo limitado, antes de que el precio de venta suba a $499 cuando comience a enviarse en enero de 2027."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6aea53d84d3eef846d2fcf0b/master/w_1600%2Cc_limit/Aina%2520Ring%2520Hands.jpg",
+          "cap": "El anillo Aina en una mano"
+        },
+        {
+          "t": "p",
+          "x": "El Aina Ring de titanio se conecta a Macs o iPhones. Aprende tus rutinas a partir de tus datos personales, como la ubicación, el calendario y el correo electrónico, y de servicios de terceros conectados en la app de Aina, como Uber o Spotify. Si son las 8:30 am y sueles ir al trabajo en Uber, te sugerirá el viaje: basta con indicar que sí en el anillo y se encargará de la tarea. Shankar llama a estas sugerencias “Aina Cues”, impulsadas por el Context Aware Operating System del anillo. Los usuarios pueden crear sus propias Cues con lenguaje natural o conectar un agente de AI preferido, como Muse o Instinct."
+        },
+        {
+          "t": "p",
+          "x": "Aina Voice permite hablar con tus agentes de AI pulsando el botón central. “Las aprobaciones serán el futuro de las interfaces y de la interacción”, dice Shankar."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6aea54376c2140d939cde56c/master/w_1600%2Cc_limit/Aina%2520Speaker%2520and%2520Shifter.png"
+        }
+      ]
     }
   }
 }

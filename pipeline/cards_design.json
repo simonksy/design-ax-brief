@@ -1,143 +1,215 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "section": "design",
   "cards": [
     {
-      "id": "figma-agent-vector-styles",
+      "id": "cursor-live-apps-hosting",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Figma 에이전트가\n내 스타일로 벡터 그린다",
-      "body": "Figma 에이전트가 참조한 스타일대로 획까지 편집되는 벡터 삽화·아이콘을 그린다.",
-      "mini_headline": "Figma 에이전트, 벡터도 그린다",
-      "tool": "Social",
-      "source": "Figma (YouTube)",
-      "url": "https://www.youtube.com/shorts/Vfh8hAEs7yk",
-      "accent": "#ff2d55",
+      "headline": "Cursor, 라이브 앱\n제작부터 배포까지",
+      "body": "에디터에서 만든 웹앱의 호스팅·DB·인증·배포를 Cursor 에이전트가 맡는다.",
+      "mini_headline": "Cursor, 라이브 앱 배포",
+      "tool": "AI Workflow",
+      "source": "Cursor",
+      "url": "https://cursor.com/changelog/build-live-apps",
+      "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/changelog/opengraph-changelog-11-05-26.png"
+          },
+          {
+            "t": "p",
+            "x": "에이전트 덕에 코드 짜는 비용은 낮아졌지만, 사람들이 만든 앱과 도구는 대부분 localhost에 머문다. 이제는 Cursor 안에서 라이브 앱을 바로 만들어 링크로 공유한다. 원하는 걸 설명하기만 하면 앱 제작과 데이터베이스 구성, 인증 설정, 배포는 Cursor가 알아서 처리한다."
+          },
+          {
             "t": "video",
-            "yt": "Vfh8hAEs7yk"
+            "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/Cursor_PublishApps_15.mp4"
           },
           {
             "t": "p",
-            "x": "Figma 에이전트로 벡터를 편집하고 새로 만든다"
+            "x": "클라우드 에이전트를 실행하고 앱을 만들겠다고 분명히 말하면 시작된다. Cursor가 웹앱 뼈대를 잡고, 필요하면 Postgres 데이터베이스를 띄운 뒤 Cursor SSO 뒤에 인증을 걸고 호스팅까지 준비한다. 게시 단계에서 고유 도메인을 고르면 Cursor가 라이브 링크를 돌려준다."
           },
           {
             "t": "p",
-            "x": "이제 Figma 에이전트는 참조한 스타일에 맞춰 벡터 일러스트와 아이콘을 만든다. 선은 획(stroke)으로 그려 두께와 끝 모양을 나중에 바꿀 수 있고, 만든 벡터는 의미 단위 레이어로 묶여 반복 작업이 쉽다."
+            "x": "Cursor 사내에서도 영업·운영·법무·재무·엔지니어링 쪽 사람들이 운영 도구, 고객 프레젠테이션, 온보딩 경험, 실시간 영업 대시보드 같은 앱을 직접 만들어 쓴다."
+          },
+          {
+            "t": "p",
+            "x": "게시 시점에 Cursor는 결정론적 검사와 에이전트 보안 검사를 함께 돌려, 앱 파일에 박힌 시크릿이나 노출된 자격 증명 같은 흔한 문제를 걸러낸다. 검사를 통과하고 사용자가 직접 게시하기 전엔 아무것도 공개되지 않는다. 팀 관리자는 팀의 앱과 시크릿을 모두 본다. 클라우드 에이전트를 켠 유료 플랜이면 어디서나 쓸 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Figma agent now draws\nvectors in your style",
-          "body": "The Figma agent now generates vector illustrations and icons from style references, with editable strokes.",
-          "mini_headline": "Figma agent draws vectors",
+          "headline": "Cursor now builds and ships\nlive apps end to end",
+          "body": "Cursor's cloud agents now handle hosting, database, auth and deployment for web apps built inside the editor.",
+          "mini_headline": "Cursor ships live apps",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/changelog/opengraph-changelog-11-05-26.png"
+              },
+              {
+                "t": "p",
+                "x": "Agents have lowered the cost of writing code, but most apps and tools that users build never make it off of localhost. Now, you can build live apps directly in Cursor and share them with a link. Describe what you want to create and Cursor will handle the rest: build the app, set up a database, configure auth, and deploy it."
+              },
+              {
                 "t": "video",
-                "yt": "Vfh8hAEs7yk"
+                "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/Cursor_PublishApps_15.mp4"
               },
               {
                 "t": "p",
-                "x": "Edit and generate vectors with the Figma agent"
+                "x": "To get started, kick off a cloud agent and tell it explicitly that you want to build an app. Cursor will scaffold the web app, spin up a Postgres database if needed, set up authentication behind Cursor SSO, and provision hosting. When you go to publish, you pick a unique domain and Cursor gets you back a live link."
               },
               {
                 "t": "p",
-                "x": "The Figma agent can now: Use style references to generate vector illustrations and icons; Utilize strokes for line work so you can adjust the weight or end caps; Group generated vectors in semantic layers for easier iteration."
+                "x": "At Cursor, users across sales, operations, legal, finance, and engineering are building internal apps, from ops tools and customer presentations to onboarding experiences and live sales dashboards."
+              },
+              {
+                "t": "p",
+                "x": "When you publish, Cursor runs deterministic and agentic security checks to catch common issues, like secrets written in app files or exposed credentials. Nothing goes live until the checks pass and you explicitly publish the app. Team admins can see every app and secret on the team. The capability is available on all paid plans with cloud agents enabled."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Figma 에이전트가\n내 스타일로 벡터 그린다",
-          "body": "Figma 에이전트가 참조한 스타일대로 획까지 편집되는 벡터 삽화·아이콘을 그린다.",
-          "mini_headline": "Figma 에이전트, 벡터도 그린다",
+          "headline": "Cursor, 라이브 앱\n제작부터 배포까지",
+          "body": "에디터에서 만든 웹앱의 호스팅·DB·인증·배포를 Cursor 에이전트가 맡는다.",
+          "mini_headline": "Cursor, 라이브 앱 배포",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/changelog/opengraph-changelog-11-05-26.png"
+              },
+              {
+                "t": "p",
+                "x": "에이전트 덕에 코드 짜는 비용은 낮아졌지만, 사람들이 만든 앱과 도구는 대부분 localhost에 머문다. 이제는 Cursor 안에서 라이브 앱을 바로 만들어 링크로 공유한다. 원하는 걸 설명하기만 하면 앱 제작과 데이터베이스 구성, 인증 설정, 배포는 Cursor가 알아서 처리한다."
+              },
+              {
                 "t": "video",
-                "yt": "Vfh8hAEs7yk"
+                "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/Cursor_PublishApps_15.mp4"
               },
               {
                 "t": "p",
-                "x": "Figma 에이전트로 벡터를 편집하고 새로 만든다"
+                "x": "클라우드 에이전트를 실행하고 앱을 만들겠다고 분명히 말하면 시작된다. Cursor가 웹앱 뼈대를 잡고, 필요하면 Postgres 데이터베이스를 띄운 뒤 Cursor SSO 뒤에 인증을 걸고 호스팅까지 준비한다. 게시 단계에서 고유 도메인을 고르면 Cursor가 라이브 링크를 돌려준다."
               },
               {
                 "t": "p",
-                "x": "이제 Figma 에이전트는 참조한 스타일에 맞춰 벡터 일러스트와 아이콘을 만든다. 선은 획(stroke)으로 그려 두께와 끝 모양을 나중에 바꿀 수 있고, 만든 벡터는 의미 단위 레이어로 묶여 반복 작업이 쉽다."
+                "x": "Cursor 사내에서도 영업·운영·법무·재무·엔지니어링 쪽 사람들이 운영 도구, 고객 프레젠테이션, 온보딩 경험, 실시간 영업 대시보드 같은 앱을 직접 만들어 쓴다."
+              },
+              {
+                "t": "p",
+                "x": "게시 시점에 Cursor는 결정론적 검사와 에이전트 보안 검사를 함께 돌려, 앱 파일에 박힌 시크릿이나 노출된 자격 증명 같은 흔한 문제를 걸러낸다. 검사를 통과하고 사용자가 직접 게시하기 전엔 아무것도 공개되지 않는다. 팀 관리자는 팀의 앱과 시크릿을 모두 본다. 클라우드 에이전트를 켠 유료 플랜이면 어디서나 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Figmaエージェントが\n好みの画風でベクター描画",
-          "body": "Figmaエージェントがスタイル参照から線を編集できるベクターイラストやアイコンを作る。",
-          "mini_headline": "Figmaエージェントがベクター描画",
+          "headline": "Cursorがライブアプリを\n一貫して構築・公開",
+          "body": "Cursorのエージェントが、Webアプリのホスティング・DB・認証・デプロイを担う。",
+          "mini_headline": "Cursorがライブアプリを公開",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/changelog/opengraph-changelog-11-05-26.png"
+              },
+              {
+                "t": "p",
+                "x": "エージェントによってコードを書くコストは下がったが、ユーザーが作るアプリやツールの多くはlocalhostの外に出ることがない。今後はCursorの中で直接ライブアプリを構築し、リンクで共有できる。作りたいものを説明すれば、アプリの構築、データベースのセットアップ、認証の設定、デプロイまで、残りはCursorが引き受ける。"
+              },
+              {
                 "t": "video",
-                "yt": "Vfh8hAEs7yk"
+                "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/Cursor_PublishApps_15.mp4"
               },
               {
                 "t": "p",
-                "x": "Figmaエージェントでベクターを編集・生成する"
+                "x": "始めるには、クラウドエージェントを起動し、アプリを作りたいと明示的に伝える。Cursorはウェブアプリの雛形を作り、必要に応じてPostgresデータベースを立ち上げ、Cursor SSOによる認証を設定し、ホスティングを用意する。公開時に固有のドメインを選ぶと、Cursorがライブリンクを返す。"
               },
               {
                 "t": "p",
-                "x": "Figmaエージェントは新たに次のことができる。スタイル参照を使ってベクターのイラストやアイコンを生成する。線画にストロークを用い、太さや線端を調整できるようにする。生成したベクターを意味のあるレイヤーにまとめ、反復作業をしやすくする。"
+                "x": "Cursor社内では、営業、オペレーション、法務、財務、エンジニアリングにわたるユーザーが、運用ツールや顧客向けプレゼンテーションからオンボーディング体験、リアルタイムの営業ダッシュボードまで、社内アプリを構築している。"
+              },
+              {
+                "t": "p",
+                "x": "公開時には、Cursorが決定論的なチェックとエージェントによるセキュリティチェックを実行し、アプリファイルに書かれたシークレットや露出した認証情報といった一般的な問題を検出する。チェックを通過し、ユーザーが明示的に公開するまで、何も公開されない。チーム管理者はチーム内のすべてのアプリとシークレットを確認できる。この機能は、クラウドエージェントが有効なすべての有料プランで利用できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Figma智能体\n按你的风格绘制矢量图",
-          "body": "Figma智能体现可根据风格参考生成矢量插画和图标，且线条描边可编辑。",
-          "mini_headline": "Figma智能体绘制矢量图",
+          "headline": "Cursor现可端到端\n构建并上线应用",
+          "body": "Cursor的云端智能体现可为编辑器内构建的Web应用处理托管、数据库、认证与部署。",
+          "mini_headline": "Cursor上线应用",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/changelog/opengraph-changelog-11-05-26.png"
+              },
+              {
+                "t": "p",
+                "x": "智能体降低了编写代码的成本，但用户构建的大多数应用和工具从未离开 localhost。现在，你可以直接在 Cursor 中构建线上应用，并通过链接分享。描述你想创建的内容，其余交给 Cursor：构建应用、建立数据库、配置认证并完成部署。"
+              },
+              {
                 "t": "video",
-                "yt": "Vfh8hAEs7yk"
+                "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/Cursor_PublishApps_15.mp4"
               },
               {
                 "t": "p",
-                "x": "用Figma智能体编辑和生成矢量图"
+                "x": "开始时，启动一个云端智能体，并明确告诉它你想构建一个应用。Cursor 会搭建 Web 应用框架，按需启动 Postgres 数据库，在 Cursor SSO 之后设置认证，并配置托管。发布时，你选择一个唯一域名，Cursor 便会返回一个线上链接。"
               },
               {
                 "t": "p",
-                "x": "Figma智能体现在可以：借助风格参考生成矢量插画和图标；用描边绘制线条，便于调整粗细或端点样式；将生成的矢量图按语义分组到图层中，方便迭代。"
+                "x": "在 Cursor 内部，销售、运营、法务、财务和工程等部门的用户都在构建内部应用，从运营工具、客户演示到入职体验和实时销售仪表盘。"
+              },
+              {
+                "t": "p",
+                "x": "发布时，Cursor 会运行确定性检查和智能体安全检查，以发现常见问题，例如写在应用文件中的密钥或暴露的凭据。在检查通过且你明确发布应用之前，任何内容都不会上线。团队管理员可以看到团队中的每个应用和密钥。该功能面向所有启用了云端智能体的付费方案开放。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El agente de Figma dibuja\nvectores con tu estilo",
-          "body": "El agente de Figma genera ilustraciones e iconos vectoriales a partir de referencias de estilo, con trazos editables.",
-          "mini_headline": "El agente de Figma dibuja vectores",
+          "headline": "Cursor ya crea y publica\napps en vivo de principio a fin",
+          "body": "Los agentes en la nube de Cursor ya gestionan hosting, base de datos, autenticación y despliegue de apps web.",
+          "mini_headline": "Cursor publica apps en vivo",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/changelog/opengraph-changelog-11-05-26.png"
+              },
+              {
+                "t": "p",
+                "x": "Los agentes han reducido el costo de escribir código, pero la mayoría de las apps y herramientas que crean los usuarios nunca salen de localhost. Ahora es posible crear apps en vivo directamente en Cursor y compartirlas con un enlace. Basta con describir lo que se quiere crear y Cursor se encarga del resto: construye la app, configura una base de datos, establece la autenticación y la despliega."
+              },
+              {
                 "t": "video",
-                "yt": "Vfh8hAEs7yk"
+                "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/Cursor_PublishApps_15.mp4"
               },
               {
                 "t": "p",
-                "x": "Edita y genera vectores con el agente de Figma"
+                "x": "Para empezar, se inicia un agente en la nube y se le indica de forma explícita que se quiere crear una app. Cursor genera la estructura de la app web, levanta una base de datos Postgres si hace falta, configura la autenticación detrás de Cursor SSO y aprovisiona el hosting. Al publicar, se elige un dominio único y Cursor devuelve un enlace en vivo."
               },
               {
                 "t": "p",
-                "x": "El agente de Figma ahora puede: usar referencias de estilo para generar ilustraciones e iconos vectoriales; utilizar trazos para el dibujo lineal, de modo que puedas ajustar el grosor o los remates; agrupar los vectores generados en capas semánticas para iterar con más facilidad."
+                "x": "En Cursor, usuarios de ventas, operaciones, legal, finanzas e ingeniería crean apps internas, desde herramientas de operaciones y presentaciones para clientes hasta experiencias de incorporación y paneles de ventas en tiempo real."
+              },
+              {
+                "t": "p",
+                "x": "Al publicar, Cursor ejecuta comprobaciones de seguridad deterministas y agénticas para detectar problemas comunes, como secretos escritos en archivos de la app o credenciales expuestas. Nada se publica hasta que se superan las comprobaciones y el usuario publica la app de forma explícita. Los administradores del equipo pueden ver todas las apps y secretos del equipo. La función está disponible en todos los planes de pago con agentes en la nube habilitados."
               }
             ]
           }
@@ -145,89 +217,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Figma 에이전트가\n내 스타일로 벡터 그린다",
-          "body": "Figma 에이전트가 스타일 참조로 획 편집이 되는 벡터 삽화·아이콘을 만든다.",
-          "mini_headline": "Figma 에이전트의 벡터 생성",
+          "headline": "Cursor, 라이브 앱을\n끝까지 만들어 배포",
+          "body": "Cursor 에이전트가 에디터 속 웹앱의 호스팅·DB·인증·배포를 맡는다.",
+          "mini_headline": "Cursor, 라이브 앱 배포",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/changelog/opengraph-changelog-11-05-26.png"
+              },
+              {
+                "t": "p",
+                "x": "에이전트가 코드 작성 비용을 낮췄지만, 사용자가 만든 앱과 도구 대부분은 localhost를 벗어나지 못한다. 이제 Cursor 안에서 바로 라이브 앱을 만들고 링크로 공유할 수 있다. 만들고 싶은 것을 설명하면 앱 제작, 데이터베이스 구성, 인증 설정, 배포까지 나머지는 Cursor가 처리한다."
+              },
+              {
                 "t": "video",
-                "yt": "Vfh8hAEs7yk"
+                "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/Cursor_PublishApps_15.mp4"
               },
               {
                 "t": "p",
-                "x": "Figma 에이전트로 벡터를 편집하고 생성한다"
+                "x": "시작하려면 클라우드 에이전트를 실행하고 앱을 만들겠다고 분명히 알려주면 된다. Cursor는 웹앱의 뼈대를 잡고, 필요하면 Postgres 데이터베이스를 띄우고, Cursor SSO 뒤에 인증을 설정하고, 호스팅을 준비한다. 게시할 때 고유 도메인을 고르면 Cursor가 라이브 링크를 돌려준다."
               },
               {
                 "t": "p",
-                "x": "이제 Figma 에이전트는 스타일 참조를 바탕으로 벡터 일러스트와 아이콘을 생성한다. 선 작업에는 획(stroke)을 써서 두께나 끝 모양을 조절할 수 있게 하고, 생성한 벡터를 의미 단위 레이어로 묶어 반복 작업을 쉽게 한다."
+                "x": "Cursor 내부에서는 영업, 운영, 법무, 재무, 엔지니어링 전반의 사용자가 운영 도구와 고객 프레젠테이션부터 온보딩 경험, 실시간 영업 대시보드까지 사내 앱을 만들고 있다."
+              },
+              {
+                "t": "p",
+                "x": "게시할 때 Cursor는 결정론적 검사와 에이전트 기반 보안 검사를 돌려 앱 파일에 적힌 시크릿이나 노출된 자격 증명 같은 흔한 문제를 잡아낸다. 검사를 통과하고 사용자가 직접 게시하기 전까지는 아무것도 공개되지 않는다. 팀 관리자는 팀의 모든 앱과 시크릿을 볼 수 있다. 이 기능은 클라우드 에이전트가 활성화된 모든 유료 플랜에서 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Figmaエージェントが\n好みの画風でベクター描画",
-          "body": "Figmaエージェントがスタイル参照から線を編集できるベクターイラストやアイコンを作る。",
-          "mini_headline": "Figmaエージェントがベクター描画",
+          "headline": "Cursorがライブアプリを\n一貫して構築・公開",
+          "body": "Cursorのエージェントが、Webアプリのホスティング・DB・認証・デプロイを担う。",
+          "mini_headline": "Cursorがライブアプリを公開",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/changelog/opengraph-changelog-11-05-26.png"
+              },
+              {
+                "t": "p",
+                "x": "エージェントによってコードを書くコストは下がったが、ユーザーが作るアプリやツールの多くはlocalhostの外に出ることがない。今後はCursorの中で直接ライブアプリを構築し、リンクで共有できる。作りたいものを説明すれば、アプリの構築、データベースのセットアップ、認証の設定、デプロイまで、残りはCursorが引き受ける。"
+              },
+              {
                 "t": "video",
-                "yt": "Vfh8hAEs7yk"
+                "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/Cursor_PublishApps_15.mp4"
               },
               {
                 "t": "p",
-                "x": "Figmaエージェントでベクターを編集・生成する"
+                "x": "始めるには、クラウドエージェントを起動し、アプリを作りたいと明示的に伝える。Cursorはウェブアプリの雛形を作り、必要に応じてPostgresデータベースを立ち上げ、Cursor SSOによる認証を設定し、ホスティングを用意する。公開時に固有のドメインを選ぶと、Cursorがライブリンクを返す。"
               },
               {
                 "t": "p",
-                "x": "Figmaエージェントは新たに次のことができる。スタイル参照を使ってベクターのイラストやアイコンを生成する。線画にストロークを用い、太さや線端を調整できるようにする。生成したベクターを意味のあるレイヤーにまとめ、反復作業をしやすくする。"
+                "x": "Cursor社内では、営業、オペレーション、法務、財務、エンジニアリングにわたるユーザーが、運用ツールや顧客向けプレゼンテーションからオンボーディング体験、リアルタイムの営業ダッシュボードまで、社内アプリを構築している。"
+              },
+              {
+                "t": "p",
+                "x": "公開時には、Cursorが決定論的なチェックとエージェントによるセキュリティチェックを実行し、アプリファイルに書かれたシークレットや露出した認証情報といった一般的な問題を検出する。チェックを通過し、ユーザーが明示的に公開するまで、何も公開されない。チーム管理者はチーム内のすべてのアプリとシークレットを確認できる。この機能は、クラウドエージェントが有効なすべての有料プランで利用できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Figma智能体\n按你的风格绘制矢量图",
-          "body": "Figma智能体现可根据风格参考生成矢量插画和图标，且线条描边可编辑。",
-          "mini_headline": "Figma智能体绘制矢量图",
+          "headline": "Cursor现可端到端\n构建并上线应用",
+          "body": "Cursor的云端智能体现可为编辑器内构建的Web应用处理托管、数据库、认证与部署。",
+          "mini_headline": "Cursor上线应用",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/changelog/opengraph-changelog-11-05-26.png"
+              },
+              {
+                "t": "p",
+                "x": "智能体降低了编写代码的成本，但用户构建的大多数应用和工具从未离开 localhost。现在，你可以直接在 Cursor 中构建线上应用，并通过链接分享。描述你想创建的内容，其余交给 Cursor：构建应用、建立数据库、配置认证并完成部署。"
+              },
+              {
                 "t": "video",
-                "yt": "Vfh8hAEs7yk"
+                "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/Cursor_PublishApps_15.mp4"
               },
               {
                 "t": "p",
-                "x": "用Figma智能体编辑和生成矢量图"
+                "x": "开始时，启动一个云端智能体，并明确告诉它你想构建一个应用。Cursor 会搭建 Web 应用框架，按需启动 Postgres 数据库，在 Cursor SSO 之后设置认证，并配置托管。发布时，你选择一个唯一域名，Cursor 便会返回一个线上链接。"
               },
               {
                 "t": "p",
-                "x": "Figma智能体现在可以：借助风格参考生成矢量插画和图标；用描边绘制线条，便于调整粗细或端点样式；将生成的矢量图按语义分组到图层中，方便迭代。"
+                "x": "在 Cursor 内部，销售、运营、法务、财务和工程等部门的用户都在构建内部应用，从运营工具、客户演示到入职体验和实时销售仪表盘。"
+              },
+              {
+                "t": "p",
+                "x": "发布时，Cursor 会运行确定性检查和智能体安全检查，以发现常见问题，例如写在应用文件中的密钥或暴露的凭据。在检查通过且你明确发布应用之前，任何内容都不会上线。团队管理员可以看到团队中的每个应用和密钥。该功能面向所有启用了云端智能体的付费方案开放。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El agente de Figma dibuja\nvectores con tu estilo",
-          "body": "El agente de Figma genera ilustraciones e iconos vectoriales a partir de referencias de estilo, con trazos editables.",
-          "mini_headline": "El agente de Figma dibuja vectores",
+          "headline": "Cursor ya crea y publica\napps en vivo de principio a fin",
+          "body": "Los agentes en la nube de Cursor ya gestionan hosting, base de datos, autenticación y despliegue de apps web.",
+          "mini_headline": "Cursor publica apps en vivo",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/changelog/opengraph-changelog-11-05-26.png"
+              },
+              {
+                "t": "p",
+                "x": "Los agentes han reducido el costo de escribir código, pero la mayoría de las apps y herramientas que crean los usuarios nunca salen de localhost. Ahora es posible crear apps en vivo directamente en Cursor y compartirlas con un enlace. Basta con describir lo que se quiere crear y Cursor se encarga del resto: construye la app, configura una base de datos, establece la autenticación y la despliega."
+              },
+              {
                 "t": "video",
-                "yt": "Vfh8hAEs7yk"
+                "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/Cursor_PublishApps_15.mp4"
               },
               {
                 "t": "p",
-                "x": "Edita y genera vectores con el agente de Figma"
+                "x": "Para empezar, se inicia un agente en la nube y se le indica de forma explícita que se quiere crear una app. Cursor genera la estructura de la app web, levanta una base de datos Postgres si hace falta, configura la autenticación detrás de Cursor SSO y aprovisiona el hosting. Al publicar, se elige un dominio único y Cursor devuelve un enlace en vivo."
               },
               {
                 "t": "p",
-                "x": "El agente de Figma ahora puede: usar referencias de estilo para generar ilustraciones e iconos vectoriales; utilizar trazos para el dibujo lineal, de modo que puedas ajustar el grosor o los remates; agrupar los vectores generados en capas semánticas para iterar con más facilidad."
+                "x": "En Cursor, usuarios de ventas, operaciones, legal, finanzas e ingeniería crean apps internas, desde herramientas de operaciones y presentaciones para clientes hasta experiencias de incorporación y paneles de ventas en tiempo real."
+              },
+              {
+                "t": "p",
+                "x": "Al publicar, Cursor ejecuta comprobaciones de seguridad deterministas y agénticas para detectar problemas comunes, como secretos escritos en archivos de la app o credenciales expuestas. Nada se publica hasta que se superan las comprobaciones y el usuario publica la app de forma explícita. Los administradores del equipo pueden ver todas las apps y secretos del equipo. La función está disponible en todos los planes de pago con agentes en la nube habilitados."
               }
             ]
           }
@@ -235,213 +355,249 @@
       }
     },
     {
-      "id": "gemini-canvas-sketch-to-app",
+      "id": "chaos-vray-ai-guidance",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Gemini Canvas\n스케치를 앱으로 바꾼다",
-      "body": "Google에 따르면 Gemini Canvas는 손그림을 앱 코드로 옮겨 준다.",
-      "mini_headline": "Gemini, 스케치를 앱으로",
-      "tool": "Figma",
-      "source": "Google Blog",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/",
-      "accent": "#0070f3",
-      "motif": "frame",
+      "headline": "Chaos, V-Ray에\nAI 깊숙이 심었다",
+      "body": "Chaos가 V-Ray Collection에 AI 안내·MCP·3D 생성을 더했다.",
+      "mini_headline": "V-Ray에 AI 더 깊이",
+      "tool": "KeyShot",
+      "source": "AEC Magazine",
+      "url": "https://aecmag.com/visualisation/chaos-brings-ai-deeper-into-v-ray-collection/",
+      "accent": "#f5a623",
+      "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "좋은 앱 아이디어는 대개 종이 위에서 나온다. 그 스케치를 Gemini로 인터랙티브 도구로 바꾸는 방법은 이렇다."
-          },
-          {
-            "t": "video",
-            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Bring_your_paper_sketches_to_life_with_Gemini_no-end_inline_oRRbgSH.mp4"
+            "t": "img",
+            "src": "https://aecmag.com/wp-content/uploads/2026/11/Lead_Thumb_Image_Skyscraper_Clouds_02.jpg"
           },
           {
             "t": "p",
-            "x": "앱 목업, 습관 기록표, 게임판 같은 스케치를 사진으로 찍어 Gemini에 올린다."
+            "x": "Chaos가 포토리얼 렌더러 V-Ray를 축으로 한 3D 시각화 도구 모음 V-Ray Collection에 AI 중심(AI-focused) 대규모 업데이트를 내놓았다. 사용자는 새 도구로 3D 에셋을 생성하고, Model Context Protocol(MCP) 서버로 Claude, ChatGPT 같은 외부 AI 어시스턴트를 작업 흐름에 곧장 연결한다. V-Ray 안에는 설정을 분석하고 조언해 주는 통합 AI 어시스턴트도 들어갔다."
           },
           {
             "t": "p",
-            "x": "Canvas 도구를 고른 뒤 Gemini에 \"Can you code this app?\"(이 앱을 코딩해 줄 수 있어?)라고 묻는다. 그러면 Gemini가 이미지를 읽어 코드를 짠다."
+            "x": "MCP 서버를 쓰면 자연어 프롬프트로 장면을 점검하고 조명·재질 같은 지원 설정을 손보며, 에셋을 찾아 배치하고 반복 작업도 자동화한다. V-Ray AI 어시스턴트는 맥락에 맞는 안내에 더해, 장면 조명을 참조 이미지에 맞추는 Sky Match와 렌더에 실질 피드백을 주는 Render Critique를 갖췄다."
+          },
+          {
+            "t": "img",
+            "src": "https://aecmag.com/wp-content/uploads/2026/11/Image-Based-Search.jpg",
+            "cap": "Cosmos의 이미지 기반 검색"
           },
           {
             "t": "p",
-            "x": "미리보기 창에서 도구를 직접 써 본다. 색상과 글꼴, 기능은 Gemini가 실시간으로 고쳐 준다."
+            "x": "Chaos Cosmos에서는 이제 참조 이미지 한 장이면 맞춤형 3D 모델이 나오고, 이미지 기반 검색이 30,000개 넘는 에셋 가운데 가장 비슷한 것을 찾아 준다. Chaos Anima에는 사람과 군중용 AI Pathfinding이 붙었다."
+          },
+          {
+            "t": "img",
+            "src": "https://aecmag.com/wp-content/uploads/2026/11/Veras-Support-for-VEO-3.1-v01.jpg",
+            "cap": "Veras는 이제 영상 생성에 Veo-3.1을 지원한다"
           },
           {
             "t": "p",
-            "x": "다음에 영감이 떠오르면 Gemini로 바로 만들어 보면 된다."
+            "x": "Veras에는 생성 작업을 자동화하고 반복할 수 있게 해 주는 노드 기반 UI가 생겼다. Veo 3.1을 비롯해 고를 수 있는 모델도 늘었고, 참조 이미지를 3D 모델로 바꾸는 Agent 모드도 더해졌다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Gemini Canvas turns\nsketches into live apps",
-          "body": "Google says drawings uploaded to Gemini's Canvas tool can be turned into functional app code and refined instantly.",
-          "mini_headline": "Gemini turns sketches into apps",
+          "headline": "Chaos brings AI deeper\ninto V-Ray Collection",
+          "body": "Chaos's V-Ray Collection adds in-product AI guidance, MCP support and 3D asset generation to its rendering tools.",
+          "mini_headline": "AI deeper in V-Ray",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Great app ideas often start on paper. Turn them into interactive tools with Gemini. Here’s how."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Bring_your_paper_sketches_to_life_with_Gemini_no-end_inline_oRRbgSH.mp4"
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Lead_Thumb_Image_Skyscraper_Clouds_02.jpg"
               },
               {
                 "t": "p",
-                "x": "Upload a photo of your sketch, like an app mock-up, habit tracker, or game board to Gemini."
+                "x": "Chaos has released a major AI-focused update to the V-Ray Collection, a suite of 3D visualisation tools built around photorealistic rendering software V-Ray. New tools allow users to generate 3D assets, while Model Context Protocol (MCP) servers enable them to connect external AI assistants, such as Claude and ChatGPT, directly to their workflows. V-Ray also gains an integrated AI assistant for guided analysis and advice on settings."
               },
               {
                 "t": "p",
-                "x": "Select the Canvas tool and ask Gemini: \"Can you code this app?\" Gemini reads your visual and writes the code."
+                "x": "With MCP servers, users can issue natural-language prompts to inspect scenes, adjust supported settings such as lights and materials, find and place assets, and automate repetitive tasks. The V-Ray AI assistant offers context-aware guidance, Sky Match for matching scene lighting to reference images, and Render Critique for actionable feedback on renders."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Image-Based-Search.jpg",
+                "cap": "Image-based search in Cosmos"
               },
               {
                 "t": "p",
-                "x": "Test your tool in the preview window. Gemini can adjust colors, fonts, or features in real time."
+                "x": "In Chaos Cosmos, users can now create custom 3D models from a single reference image, and image-based search scans more than 30,000 assets to find the closest match. Chaos Anima gains AI Pathfinding for People and Crowds."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Veras-Support-for-VEO-3.1-v01.jpg",
+                "cap": "Veras now supports Veo-3.1 for video generation"
               },
               {
                 "t": "p",
-                "x": "Next time inspiration strikes, bring it to life with Gemini."
+                "x": "Veras adds a node-based UI for automated, repeatable generation workflows, more models including Veo 3.1, and an Agent mode that turns reference images into 3D models."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Gemini Canvas\n스케치를 앱으로 바꾼다",
-          "body": "Google에 따르면 Gemini Canvas는 손그림을 앱 코드로 옮겨 준다.",
-          "mini_headline": "Gemini, 스케치를 앱으로",
+          "headline": "Chaos, V-Ray에\nAI 깊숙이 심었다",
+          "body": "Chaos가 V-Ray Collection에 AI 안내·MCP·3D 생성을 더했다.",
+          "mini_headline": "V-Ray에 AI 더 깊이",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "좋은 앱 아이디어는 대개 종이 위에서 나온다. 그 스케치를 Gemini로 인터랙티브 도구로 바꾸는 방법은 이렇다."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Bring_your_paper_sketches_to_life_with_Gemini_no-end_inline_oRRbgSH.mp4"
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Lead_Thumb_Image_Skyscraper_Clouds_02.jpg"
               },
               {
                 "t": "p",
-                "x": "앱 목업, 습관 기록표, 게임판 같은 스케치를 사진으로 찍어 Gemini에 올린다."
+                "x": "Chaos가 포토리얼 렌더러 V-Ray를 축으로 한 3D 시각화 도구 모음 V-Ray Collection에 AI 중심(AI-focused) 대규모 업데이트를 내놓았다. 사용자는 새 도구로 3D 에셋을 생성하고, Model Context Protocol(MCP) 서버로 Claude, ChatGPT 같은 외부 AI 어시스턴트를 작업 흐름에 곧장 연결한다. V-Ray 안에는 설정을 분석하고 조언해 주는 통합 AI 어시스턴트도 들어갔다."
               },
               {
                 "t": "p",
-                "x": "Canvas 도구를 고른 뒤 Gemini에 \"Can you code this app?\"(이 앱을 코딩해 줄 수 있어?)라고 묻는다. 그러면 Gemini가 이미지를 읽어 코드를 짠다."
+                "x": "MCP 서버를 쓰면 자연어 프롬프트로 장면을 점검하고 조명·재질 같은 지원 설정을 손보며, 에셋을 찾아 배치하고 반복 작업도 자동화한다. V-Ray AI 어시스턴트는 맥락에 맞는 안내에 더해, 장면 조명을 참조 이미지에 맞추는 Sky Match와 렌더에 실질 피드백을 주는 Render Critique를 갖췄다."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Image-Based-Search.jpg",
+                "cap": "Cosmos의 이미지 기반 검색"
               },
               {
                 "t": "p",
-                "x": "미리보기 창에서 도구를 직접 써 본다. 색상과 글꼴, 기능은 Gemini가 실시간으로 고쳐 준다."
+                "x": "Chaos Cosmos에서는 이제 참조 이미지 한 장이면 맞춤형 3D 모델이 나오고, 이미지 기반 검색이 30,000개 넘는 에셋 가운데 가장 비슷한 것을 찾아 준다. Chaos Anima에는 사람과 군중용 AI Pathfinding이 붙었다."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Veras-Support-for-VEO-3.1-v01.jpg",
+                "cap": "Veras는 이제 영상 생성에 Veo-3.1을 지원한다"
               },
               {
                 "t": "p",
-                "x": "다음에 영감이 떠오르면 Gemini로 바로 만들어 보면 된다."
+                "x": "Veras에는 생성 작업을 자동화하고 반복할 수 있게 해 주는 노드 기반 UI가 생겼다. Veo 3.1을 비롯해 고를 수 있는 모델도 늘었고, 참조 이미지를 3D 모델로 바꾸는 Agent 모드도 더해졌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Gemini Canvasが\nスケッチを動くアプリに",
-          "body": "GoogleによればGemini Canvasで絵がアプリのコードになり、すぐ直せる。",
-          "mini_headline": "Geminiがスケッチをアプリに",
+          "headline": "Chaos、V-Rayに\nAIをさらに深く",
+          "body": "ChaosのV-Ray CollectionにAIガイド、MCP対応、3D生成が加わった。",
+          "mini_headline": "V-RayにAIをさらに深く",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "優れたアプリのアイデアは紙の上から始まることが多い。Geminiでそれをインタラクティブなツールに変えよう。その方法を紹介する。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Bring_your_paper_sketches_to_life_with_Gemini_no-end_inline_oRRbgSH.mp4"
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Lead_Thumb_Image_Skyscraper_Clouds_02.jpg"
               },
               {
                 "t": "p",
-                "x": "アプリのモックアップや習慣トラッカー、ゲーム盤などのスケッチを撮影し、Geminiにアップロードする。"
+                "x": "Chaosは、フォトリアルなレンダリングソフトV-Rayを核とする3D可視化ツール群V-Ray Collectionに、AI中心（AI-focused）の大型アップデートを公開した。新ツールでユーザーは3Dアセットを生成でき、Model Context Protocol（MCP）サーバーによってClaudeやChatGPTなど外部のAIアシスタントをワークフローに直接つなげられる。V-Rayには、設定に関するガイド付きの分析と助言を行う統合AIアシスタントも加わった。"
               },
               {
                 "t": "p",
-                "x": "Canvasツールを選び、Geminiに\"Can you code this app?\"(このアプリをコーディングできる?)と尋ねる。Geminiが画像を読み取り、コードを書く。"
+                "x": "MCPサーバーを使えば、自然言語のプロンプトでシーンを確認し、ライトやマテリアルなど対応する設定を調整し、アセットを探して配置し、繰り返し作業を自動化できる。V-Ray AIアシスタントは文脈に応じたガイドに加え、シーンの照明を参照画像に合わせるSky Matchと、レンダーに具体的なフィードバックを返すRender Critiqueを備える。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Image-Based-Search.jpg",
+                "cap": "Cosmosの画像ベース検索"
               },
               {
                 "t": "p",
-                "x": "プレビューウィンドウでツールを試す。Geminiは色やフォント、機能をリアルタイムで調整できる。"
+                "x": "Chaos Cosmosでは、1枚の参照画像からカスタムの3Dモデルを作れるようになり、画像ベース検索が30,000点を超えるアセットを走査して最も近いものを見つける。Chaos Animaには人物と群衆向けのAI Pathfindingが加わった。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Veras-Support-for-VEO-3.1-v01.jpg",
+                "cap": "Verasは動画生成でVeo-3.1に対応した"
               },
               {
                 "t": "p",
-                "x": "次にひらめいたときは、Geminiで形にしよう。"
+                "x": "Verasには、自動化された反復可能な生成ワークフローのためのノードベースUI、Veo 3.1を含むより多くのモデル、参照画像を3Dモデルに変えるAgentモードが追加された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini Canvas\n把草图变成可用应用",
-          "body": "Google称，上传到Gemini Canvas的草图可转为可运行的应用代码并即时调整。",
-          "mini_headline": "Gemini把草图变成应用",
+          "headline": "Chaos将AI\n更深融入V-Ray",
+          "body": "Chaos为V-Ray Collection加入产品内AI指导、MCP支持与3D资产生成。",
+          "mini_headline": "AI更深融入V-Ray",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "好的应用创意往往始于纸上。借助Gemini，把它们变成交互式工具。方法如下。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Bring_your_paper_sketches_to_life_with_Gemini_no-end_inline_oRRbgSH.mp4"
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Lead_Thumb_Image_Skyscraper_Clouds_02.jpg"
               },
               {
                 "t": "p",
-                "x": "将你的草图拍照上传到Gemini，比如应用原型图、习惯追踪表或游戏棋盘。"
+                "x": "Chaos为V-Ray Collection发布了一次以AI为核心（AI-focused）的重大更新。V-Ray Collection是一套围绕照片级渲染软件V-Ray打造的3D可视化工具。新工具让用户可以生成3D资产，而Model Context Protocol（MCP）服务器则让用户把Claude、ChatGPT等外部AI助手直接接入工作流程。V-Ray还新增了集成AI助手，可提供引导式分析和设置建议。"
               },
               {
                 "t": "p",
-                "x": "选择Canvas工具，然后问Gemini：\"Can you code this app?\"（你能为这个应用写代码吗？）Gemini会读取你的图像并编写代码。"
+                "x": "借助MCP服务器，用户可以用自然语言提示检查场景、调整灯光和材质等受支持的设置、查找并放置资产，以及自动化重复性任务。V-Ray AI助手提供基于上下文的指导，还有将场景光照与参考图像匹配的Sky Match，以及为渲染提供可操作反馈的Render Critique。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Image-Based-Search.jpg",
+                "cap": "Cosmos中的图像搜索"
               },
               {
                 "t": "p",
-                "x": "在预览窗口中测试你的工具。Gemini可以实时调整颜色、字体或功能。"
+                "x": "在Chaos Cosmos中，用户现在可以根据单张参考图像创建定制3D模型，图像搜索会扫描超过30,000个资产，找出最接近的匹配项。Chaos Anima新增了面向人物和人群的AI Pathfinding。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Veras-Support-for-VEO-3.1-v01.jpg",
+                "cap": "Veras现已支持用Veo-3.1生成视频"
               },
               {
                 "t": "p",
-                "x": "下次灵感来临时，就用Gemini把它变为现实。"
+                "x": "Veras新增了用于自动化、可重复生成工作流程的节点式UI，包括Veo 3.1在内的更多模型，以及可将参考图像转为3D模型的Agent模式。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemini Canvas convierte\nbocetos en apps funcionales",
-          "body": "Google dice que los dibujos subidos a Canvas de Gemini pasan a ser código de app funcional y se ajustan al instante.",
-          "mini_headline": "Gemini convierte bocetos en apps",
+          "headline": "Chaos lleva la IA más a fondo\nen V-Ray Collection",
+          "body": "La V-Ray Collection de Chaos suma guía de IA integrada, soporte para MCP y generación de recursos 3D.",
+          "mini_headline": "Más IA en V-Ray",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Muchas buenas ideas de apps empiezan en papel. Conviértelas en herramientas interactivas con Gemini. Así se hace."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Bring_your_paper_sketches_to_life_with_Gemini_no-end_inline_oRRbgSH.mp4"
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Lead_Thumb_Image_Skyscraper_Clouds_02.jpg"
               },
               {
                 "t": "p",
-                "x": "Sube a Gemini una foto de tu boceto, como una maqueta de app, un registro de hábitos o un tablero de juego."
+                "x": "Chaos ha lanzado una gran actualización centrada en la IA (AI-focused) para V-Ray Collection, un conjunto de herramientas de visualización 3D construido en torno al software de renderizado fotorrealista V-Ray. Las nuevas herramientas permiten generar recursos 3D, mientras que los servidores Model Context Protocol (MCP) permiten conectar asistentes de IA externos, como Claude y ChatGPT, directamente a los flujos de trabajo. V-Ray también incorpora un asistente de IA integrado que ofrece análisis guiado y consejos sobre la configuración."
               },
               {
                 "t": "p",
-                "x": "Selecciona la herramienta Canvas y pregunta a Gemini: \"Can you code this app?\" (¿Puedes programar esta app?). Gemini lee tu imagen y escribe el código."
+                "x": "Con los servidores MCP, los usuarios pueden dar instrucciones en lenguaje natural para inspeccionar escenas, ajustar parámetros compatibles como luces y materiales, buscar y colocar recursos y automatizar tareas repetitivas. El asistente V-Ray AI ofrece orientación según el contexto, Sky Match para ajustar la iluminación de la escena a imágenes de referencia y Render Critique para obtener comentarios prácticos sobre los renders."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Image-Based-Search.jpg",
+                "cap": "Búsqueda por imagen en Cosmos"
               },
               {
                 "t": "p",
-                "x": "Prueba tu herramienta en la ventana de vista previa. Gemini puede ajustar colores, fuentes o funciones en tiempo real."
+                "x": "En Chaos Cosmos, los usuarios ya pueden crear modelos 3D personalizados a partir de una sola imagen de referencia, y la búsqueda por imagen recorre más de 30.000 recursos para encontrar el más parecido. Chaos Anima incorpora AI Pathfinding para personas y multitudes."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Veras-Support-for-VEO-3.1-v01.jpg",
+                "cap": "Veras ya admite Veo-3.1 para generar video"
               },
               {
                 "t": "p",
-                "x": "La próxima vez que llegue la inspiración, hazla realidad con Gemini."
+                "x": "Veras añade una UI basada en nodos para flujos de generación automatizados y repetibles, más modelos, entre ellos Veo 3.1, y un modo Agent que convierte imágenes de referencia en modelos 3D."
               }
             ]
           }
@@ -449,137 +605,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Gemini Canvas\n스케치를 앱으로 바꾼다",
-          "body": "Google은 Gemini Canvas가 그림을 앱 코드로 바꿔 다듬는다고 했다.",
-          "mini_headline": "Gemini, 스케치를 앱으로",
+          "headline": "Chaos, V-Ray에\nAI 더 깊이 넣다",
+          "body": "Chaos가 V-Ray Collection에 AI 안내·MCP·3D 생성을 더했다.",
+          "mini_headline": "V-Ray에 AI 더 깊이",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "좋은 앱 아이디어는 종이 위에서 시작되는 경우가 많다. Gemini로 이를 인터랙티브 도구로 바꿔 보자. 방법은 이렇다."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Bring_your_paper_sketches_to_life_with_Gemini_no-end_inline_oRRbgSH.mp4"
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Lead_Thumb_Image_Skyscraper_Clouds_02.jpg"
               },
               {
                 "t": "p",
-                "x": "앱 목업, 습관 기록표, 게임판 같은 스케치를 사진으로 찍어 Gemini에 올린다."
+                "x": "Chaos가 포토리얼 렌더링 소프트웨어 V-Ray를 중심으로 한 3D 시각화 도구 모음 V-Ray Collection에 AI 중심(AI-focused)의 대규모 업데이트를 내놓았다. 새 도구로 사용자는 3D 에셋을 생성할 수 있고, Model Context Protocol(MCP) 서버를 통해 Claude, ChatGPT 같은 외부 AI 어시스턴트를 작업 흐름에 바로 연결할 수 있다. V-Ray에는 설정에 대한 안내형 분석과 조언을 제공하는 통합 AI 어시스턴트도 들어갔다."
               },
               {
                 "t": "p",
-                "x": "Canvas 도구를 선택하고 Gemini에 \"Can you code this app?\"(이 앱을 코딩해 줄 수 있어?)라고 묻는다. Gemini가 이미지를 읽고 코드를 작성한다."
+                "x": "MCP 서버를 쓰면 자연어 프롬프트로 장면을 점검하고, 조명과 재질 같은 지원 설정을 조정하고, 에셋을 찾아 배치하고, 반복 작업을 자동화할 수 있다. V-Ray AI 어시스턴트는 맥락에 맞춘 안내와 함께, 장면 조명을 참조 이미지에 맞추는 Sky Match, 렌더에 실질적인 피드백을 주는 Render Critique를 제공한다."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Image-Based-Search.jpg",
+                "cap": "Cosmos의 이미지 기반 검색"
               },
               {
                 "t": "p",
-                "x": "미리보기 창에서 도구를 테스트한다. Gemini는 색상, 글꼴, 기능을 실시간으로 조정할 수 있다."
+                "x": "Chaos Cosmos에서는 이제 참조 이미지 한 장으로 맞춤형 3D 모델을 만들 수 있고, 이미지 기반 검색이 30,000개가 넘는 에셋을 훑어 가장 가까운 것을 찾아 준다. Chaos Anima에는 사람과 군중을 위한 AI Pathfinding이 추가됐다."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Veras-Support-for-VEO-3.1-v01.jpg",
+                "cap": "Veras는 이제 영상 생성에 Veo-3.1을 지원한다"
               },
               {
                 "t": "p",
-                "x": "다음에 영감이 떠오르면 Gemini로 현실로 만들어 보자."
+                "x": "Veras에는 자동화되고 반복 가능한 생성 작업 흐름을 위한 노드 기반 UI, Veo 3.1을 포함한 더 많은 모델, 참조 이미지를 3D 모델로 바꾸는 Agent 모드가 더해졌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Gemini Canvasが\nスケッチを動くアプリに",
-          "body": "GoogleによればGemini Canvasで絵がアプリのコードになり、すぐ直せる。",
-          "mini_headline": "Geminiがスケッチをアプリに",
+          "headline": "Chaos、V-Rayに\nAIをさらに深く",
+          "body": "ChaosのV-Ray CollectionにAIガイド、MCP対応、3D生成が加わった。",
+          "mini_headline": "V-RayにAIをさらに深く",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "優れたアプリのアイデアは紙の上から始まることが多い。Geminiでそれをインタラクティブなツールに変えよう。その方法を紹介する。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Bring_your_paper_sketches_to_life_with_Gemini_no-end_inline_oRRbgSH.mp4"
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Lead_Thumb_Image_Skyscraper_Clouds_02.jpg"
               },
               {
                 "t": "p",
-                "x": "アプリのモックアップや習慣トラッカー、ゲーム盤などのスケッチを撮影し、Geminiにアップロードする。"
+                "x": "Chaosは、フォトリアルなレンダリングソフトV-Rayを核とする3D可視化ツール群V-Ray Collectionに、AI中心（AI-focused）の大型アップデートを公開した。新ツールでユーザーは3Dアセットを生成でき、Model Context Protocol（MCP）サーバーによってClaudeやChatGPTなど外部のAIアシスタントをワークフローに直接つなげられる。V-Rayには、設定に関するガイド付きの分析と助言を行う統合AIアシスタントも加わった。"
               },
               {
                 "t": "p",
-                "x": "Canvasツールを選び、Geminiに\"Can you code this app?\"(このアプリをコーディングできる?)と尋ねる。Geminiが画像を読み取り、コードを書く。"
+                "x": "MCPサーバーを使えば、自然言語のプロンプトでシーンを確認し、ライトやマテリアルなど対応する設定を調整し、アセットを探して配置し、繰り返し作業を自動化できる。V-Ray AIアシスタントは文脈に応じたガイドに加え、シーンの照明を参照画像に合わせるSky Matchと、レンダーに具体的なフィードバックを返すRender Critiqueを備える。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Image-Based-Search.jpg",
+                "cap": "Cosmosの画像ベース検索"
               },
               {
                 "t": "p",
-                "x": "プレビューウィンドウでツールを試す。Geminiは色やフォント、機能をリアルタイムで調整できる。"
+                "x": "Chaos Cosmosでは、1枚の参照画像からカスタムの3Dモデルを作れるようになり、画像ベース検索が30,000点を超えるアセットを走査して最も近いものを見つける。Chaos Animaには人物と群衆向けのAI Pathfindingが加わった。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Veras-Support-for-VEO-3.1-v01.jpg",
+                "cap": "Verasは動画生成でVeo-3.1に対応した"
               },
               {
                 "t": "p",
-                "x": "次にひらめいたときは、Geminiで形にしよう。"
+                "x": "Verasには、自動化された反復可能な生成ワークフローのためのノードベースUI、Veo 3.1を含むより多くのモデル、参照画像を3Dモデルに変えるAgentモードが追加された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini Canvas\n把草图变成可用应用",
-          "body": "Google称，上传到Gemini Canvas的草图可转为可运行的应用代码并即时调整。",
-          "mini_headline": "Gemini把草图变成应用",
+          "headline": "Chaos将AI\n更深融入V-Ray",
+          "body": "Chaos为V-Ray Collection加入产品内AI指导、MCP支持与3D资产生成。",
+          "mini_headline": "AI更深融入V-Ray",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "好的应用创意往往始于纸上。借助Gemini，把它们变成交互式工具。方法如下。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Bring_your_paper_sketches_to_life_with_Gemini_no-end_inline_oRRbgSH.mp4"
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Lead_Thumb_Image_Skyscraper_Clouds_02.jpg"
               },
               {
                 "t": "p",
-                "x": "将你的草图拍照上传到Gemini，比如应用原型图、习惯追踪表或游戏棋盘。"
+                "x": "Chaos为V-Ray Collection发布了一次以AI为核心（AI-focused）的重大更新。V-Ray Collection是一套围绕照片级渲染软件V-Ray打造的3D可视化工具。新工具让用户可以生成3D资产，而Model Context Protocol（MCP）服务器则让用户把Claude、ChatGPT等外部AI助手直接接入工作流程。V-Ray还新增了集成AI助手，可提供引导式分析和设置建议。"
               },
               {
                 "t": "p",
-                "x": "选择Canvas工具，然后问Gemini：\"Can you code this app?\"（你能为这个应用写代码吗？）Gemini会读取你的图像并编写代码。"
+                "x": "借助MCP服务器，用户可以用自然语言提示检查场景、调整灯光和材质等受支持的设置、查找并放置资产，以及自动化重复性任务。V-Ray AI助手提供基于上下文的指导，还有将场景光照与参考图像匹配的Sky Match，以及为渲染提供可操作反馈的Render Critique。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Image-Based-Search.jpg",
+                "cap": "Cosmos中的图像搜索"
               },
               {
                 "t": "p",
-                "x": "在预览窗口中测试你的工具。Gemini可以实时调整颜色、字体或功能。"
+                "x": "在Chaos Cosmos中，用户现在可以根据单张参考图像创建定制3D模型，图像搜索会扫描超过30,000个资产，找出最接近的匹配项。Chaos Anima新增了面向人物和人群的AI Pathfinding。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Veras-Support-for-VEO-3.1-v01.jpg",
+                "cap": "Veras现已支持用Veo-3.1生成视频"
               },
               {
                 "t": "p",
-                "x": "下次灵感来临时，就用Gemini把它变为现实。"
+                "x": "Veras新增了用于自动化、可重复生成工作流程的节点式UI，包括Veo 3.1在内的更多模型，以及可将参考图像转为3D模型的Agent模式。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemini Canvas convierte\nbocetos en apps funcionales",
-          "body": "Google dice que los dibujos subidos a Canvas de Gemini pasan a ser código de app funcional y se ajustan al instante.",
-          "mini_headline": "Gemini convierte bocetos en apps",
+          "headline": "Chaos lleva la IA más a fondo\nen V-Ray Collection",
+          "body": "La V-Ray Collection de Chaos suma guía de IA integrada, soporte para MCP y generación de recursos 3D.",
+          "mini_headline": "Más IA en V-Ray",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Muchas buenas ideas de apps empiezan en papel. Conviértelas en herramientas interactivas con Gemini. Así se hace."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Bring_your_paper_sketches_to_life_with_Gemini_no-end_inline_oRRbgSH.mp4"
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Lead_Thumb_Image_Skyscraper_Clouds_02.jpg"
               },
               {
                 "t": "p",
-                "x": "Sube a Gemini una foto de tu boceto, como una maqueta de app, un registro de hábitos o un tablero de juego."
+                "x": "Chaos ha lanzado una gran actualización centrada en la IA (AI-focused) para V-Ray Collection, un conjunto de herramientas de visualización 3D construido en torno al software de renderizado fotorrealista V-Ray. Las nuevas herramientas permiten generar recursos 3D, mientras que los servidores Model Context Protocol (MCP) permiten conectar asistentes de IA externos, como Claude y ChatGPT, directamente a los flujos de trabajo. V-Ray también incorpora un asistente de IA integrado que ofrece análisis guiado y consejos sobre la configuración."
               },
               {
                 "t": "p",
-                "x": "Selecciona la herramienta Canvas y pregunta a Gemini: \"Can you code this app?\" (¿Puedes programar esta app?). Gemini lee tu imagen y escribe el código."
+                "x": "Con los servidores MCP, los usuarios pueden dar instrucciones en lenguaje natural para inspeccionar escenas, ajustar parámetros compatibles como luces y materiales, buscar y colocar recursos y automatizar tareas repetitivas. El asistente V-Ray AI ofrece orientación según el contexto, Sky Match para ajustar la iluminación de la escena a imágenes de referencia y Render Critique para obtener comentarios prácticos sobre los renders."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Image-Based-Search.jpg",
+                "cap": "Búsqueda por imagen en Cosmos"
               },
               {
                 "t": "p",
-                "x": "Prueba tu herramienta en la ventana de vista previa. Gemini puede ajustar colores, fuentes o funciones en tiempo real."
+                "x": "En Chaos Cosmos, los usuarios ya pueden crear modelos 3D personalizados a partir de una sola imagen de referencia, y la búsqueda por imagen recorre más de 30.000 recursos para encontrar el más parecido. Chaos Anima incorpora AI Pathfinding para personas y multitudes."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/Veras-Support-for-VEO-3.1-v01.jpg",
+                "cap": "Veras ya admite Veo-3.1 para generar video"
               },
               {
                 "t": "p",
-                "x": "La próxima vez que llegue la inspiración, hazla realidad con Gemini."
+                "x": "Veras añade una UI basada en nodos para flujos de generación automatizados y repetibles, más modelos, entre ellos Veo 3.1, y un modo Agent que convierte imágenes de referencia en modelos 3D."
               }
             ]
           }
@@ -587,15 +767,15 @@
       }
     },
     {
-      "id": "autodesk-au2026-assistant",
+      "id": "qonic-ai-bim-agents",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Autodesk, 작업을\n계획하는 Assistant",
-      "body": "Autodesk AI가 빠른 도구를 넘어 해법을 정하는 Assistant로 간다.",
-      "mini_headline": "Autodesk, 판단하는 Assistant",
+      "headline": "Qonic, BIM 모델\n안에 AI 에이전트",
+      "body": "Qonic AI 에이전트가 BIM 모델 안에서 데이터를 찾고 검사·수정·생성한다.",
+      "mini_headline": "BIM 속 Qonic AI",
       "tool": "Text-to-CAD",
-      "source": "DEVELOP3D",
-      "url": "https://develop3d.com/ai/autodesks-most-ambitious-ai-play-yet/",
+      "source": "AEC Magazine",
+      "url": "https://aecmag.com/bim/qonic-ai-launches-inside-bim-platform/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -603,257 +783,233 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://develop3d.com/wp-content/uploads/2026/11/AU2026_DEMO-AutoAssemble.jpg"
+            "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_1.jpg"
           },
           {
             "t": "p",
-            "x": "Autodesk는 Autodesk University 2026에서 더 빠른 도구 이상의 AI 구상을 내놨다. 과제를 어떻게 풀지 사용자 대신 정해 주는, 서로 연결된 Assistant다. CEO Andrew Anagnost는 이를 ‘Project Intelligence’라 부르며 “모든 데이터 포인트, 모든 결정, 모든 분야를 하나로 모으는 중심의 연결된 두뇌”라고 설명했다."
+            "x": "Qonic이 클라우드 협업 BIM 모델링 플랫폼에 에이전트 모음 Qonic AI를 내장했다. Qonic AI는 BIM 모델 옆에 붙은 별도 도구가 아니라 모델 안에서 바로 돌아간다. “Ask Qonic” 챗봇에 원하는 걸 평소 말투로 적으면 Qonic 에이전트가 플랫폼 자체 도구로 요소를 찾아 검사하고 갱신한다."
           },
           {
             "t": "p",
-            "x": "가장 큰 발표는 Autodesk Assistant를 “제품 전반을 아우르는 독립형 에이전트 우선 경험”으로 내놓겠다는 것이다. 아직 개발 단계이고 출시는 내년으로 예상된다. Revit, AutoCAD, Fusion 안에 있는 제품 내 Assistants도 계속 늘어난다."
-          },
-          {
-            "t": "p",
-            "x": "그 밑에는 기업이 내린 결정이 쌓여 만들어지는 Autodesk Context와 AI Orchestrator가 깔린다. AI Orchestrator는 Autodesk-built 모델, Claude, OpenAI, 오픈 웨이트 모델 중에서 “정확도, 속도, 보안, 비용을 기준으로 어떤 AI 모델이 과제에 가장 적합한지”를 따져 고른다."
+            "x": "“Qonic에서 지오메트리와 데이터를 만들고 편집하고 다루는 일이라면 무엇이든 프롬프트로 할 수 있다”고 Qonic의 Jacob De Sutter는 말했다. Qonic AI가 손댈 수 있는 모델은 사용자에게 편집 권한이 있는 것뿐이고, 바꾼 내용은 수동 작업처럼 되돌릴 수 있다."
           },
           {
             "t": "img",
-            "src": "https://develop3d.com/wp-content/uploads/2026/11/Raji-Arasu-img.jpg",
-            "cap": "Autodesk CTO Raji Arasu"
+            "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_2.jpg",
+            "cap": "Qonic AI는 누락된 BIM 데이터를 찾아 모델 요소에 할당할 수 있다"
           },
           {
             "t": "p",
-            "x": "Expo 전시장에서는 주요 워크스테이션 업체 세 곳이 모두 제대로 된 로컬 AI를 보여 줬다. HP와 Perplexity는 머신 한 대에서 로컬 LLM으로 공식 Revit 2027 MCP 서버를 돌렸다. Nvidia는 Dell 하드웨어에서 Revit과 Fusion의 자율 모델링을 선보였고, Lenovo는 AutoCAD Civil 3D용 에이전트형 프런트엔드를 띄웠다."
+            "x": "모든 창에 방화 등급이 있는지 물어본 뒤 등급 없는 창을 골라 F60을 매기게 할 수도 있고, 콘크리트 품질 보고서를 뽑거나 선택한 창을 0.5미터 넓히라고 시킬 수도 있다. 요청을 처리할 모델은 Sonnet, Opus, Astra 중에서 고르며, Qonic AI는 토큰 방식으로 돌아간다."
           },
           {
             "t": "img",
-            "src": "https://develop3d.com/wp-content/uploads/2026/11/Nvidia-Agentic-Fusion-2.img_.jpg",
-            "cap": "Nvidia의 Autodesk Fusion Agentic Demo"
+            "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_3.jpg",
+            "cap": "Qonic AI는 지오메트리를 편집할 수 있다"
           },
           {
             "t": "p",
-            "x": "Autodesk가 내세우는 가치의 중심은 도구에서 성과로 옮겨 가는 중이다. 다만 차세대 Assistant는 내년 중에야 나올 전망이다."
+            "x": "새로 나온 Qonic MCP 서버로는 Claude, Codex, Mistral Le Chat 등 평소 쓰던 AI 어시스턴트에서 플랫폼을 다룬다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Autodesk pitches an Assistant\nthat plans the work for you",
-          "body": "Autodesk's AI vision moves past faster tools toward a connected Assistant that decides how to solve tasks for you.",
-          "mini_headline": "Autodesk's deciding Assistant",
+          "headline": "Qonic puts AI agents\ninside the BIM model",
+          "body": "Qonic AI agents work directly inside the BIM model, letting users find, check, fix and create data in plain language.",
+          "mini_headline": "Qonic AI inside BIM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/AU2026_DEMO-AutoAssemble.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_1.jpg"
               },
               {
                 "t": "p",
-                "x": "At Autodesk University 2026, Autodesk presented an AI ambition that goes beyond faster tools: a connected Assistant that decides how to solve tasks on your behalf. CEO Andrew Anagnost framed it as ‘Project Intelligence’, a “connected brain at the centre that brings every data point, every decision, every discipline together.”"
+                "x": "Qonic has introduced Qonic AI, a collection of agents built into its cloud-based, collaborative BIM modelling platform. Qonic AI works directly inside the BIM model, rather than sitting alongside it. Through the “Ask Qonic” chatbot, users describe what they want in plain language, and Qonic’s agents find, check and update elements using the platform’s own tools."
               },
               {
                 "t": "p",
-                "x": "The headline announcement: Autodesk Assistant will be available as a “standalone agent-first experience, one that reaches across products.” It is still in development and expected to launch next year; the in-product Assistants in Revit, AutoCAD and Fusion will keep expanding."
-              },
-              {
-                "t": "p",
-                "x": "Underneath sit Autodesk Context, built from the decisions a company makes, and AI Orchestrator, which picks “which AI model is best suited to the task based on accuracy, speed, security, and cost” from Autodesk-built models, Claude, OpenAI and open-weight models."
+                "x": "“Anything you can do in Qonic in terms of geometry and data creation, editing, and manipulation can be done through prompting,” said Qonic’s Jacob De Sutter. Qonic AI can only change models the user is permitted to edit, and its changes can be undone like any manual operation."
               },
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Raji-Arasu-img.jpg",
-                "cap": "Autodesk CTO Raji Arasu"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_2.jpg",
+                "cap": "Qonic AI can find missing BIM data and assign it to model elements"
               },
               {
                 "t": "p",
-                "x": "On the Expo floor, all three major workstation vendors demoed truly local AI: HP and Perplexity drove the official Revit 2027 MCP server with a local LLM on one machine, Nvidia showed autonomous modelling for Revit and Fusion on Dell hardware, and Lenovo ran an agentic front end to AutoCAD Civil 3D."
+                "x": "Users can ask whether all windows have a fire rating, have it select those missing one and assign F60, build a concrete quality report, or widen selected windows by 0.5 metres. Users choose Sonnet, Opus or Astra to power requests; Qonic AI runs on tokens."
               },
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Nvidia-Agentic-Fusion-2.img_.jpg",
-                "cap": "Nvidia’s Autodesk Fusion Agentic Demo"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_3.jpg",
+                "cap": "Qonic AI can edit geometry"
               },
               {
                 "t": "p",
-                "x": "Autodesk is shifting its value proposition from tools to outcomes. The next-generation Assistant isn’t expected until sometime next year."
+                "x": "A new Qonic MCP server lets users work with the platform through their own AI assistant, such as Claude, Codex or Mistral Le Chat."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Autodesk, 작업을\n계획하는 Assistant",
-          "body": "Autodesk AI가 빠른 도구를 넘어 해법을 정하는 Assistant로 간다.",
-          "mini_headline": "Autodesk, 판단하는 Assistant",
+          "headline": "Qonic, BIM 모델\n안에 AI 에이전트",
+          "body": "Qonic AI 에이전트가 BIM 모델 안에서 데이터를 찾고 검사·수정·생성한다.",
+          "mini_headline": "BIM 속 Qonic AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/AU2026_DEMO-AutoAssemble.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_1.jpg"
               },
               {
                 "t": "p",
-                "x": "Autodesk는 Autodesk University 2026에서 더 빠른 도구 이상의 AI 구상을 내놨다. 과제를 어떻게 풀지 사용자 대신 정해 주는, 서로 연결된 Assistant다. CEO Andrew Anagnost는 이를 ‘Project Intelligence’라 부르며 “모든 데이터 포인트, 모든 결정, 모든 분야를 하나로 모으는 중심의 연결된 두뇌”라고 설명했다."
+                "x": "Qonic이 클라우드 협업 BIM 모델링 플랫폼에 에이전트 모음 Qonic AI를 내장했다. Qonic AI는 BIM 모델 옆에 붙은 별도 도구가 아니라 모델 안에서 바로 돌아간다. “Ask Qonic” 챗봇에 원하는 걸 평소 말투로 적으면 Qonic 에이전트가 플랫폼 자체 도구로 요소를 찾아 검사하고 갱신한다."
               },
               {
                 "t": "p",
-                "x": "가장 큰 발표는 Autodesk Assistant를 “제품 전반을 아우르는 독립형 에이전트 우선 경험”으로 내놓겠다는 것이다. 아직 개발 단계이고 출시는 내년으로 예상된다. Revit, AutoCAD, Fusion 안에 있는 제품 내 Assistants도 계속 늘어난다."
-              },
-              {
-                "t": "p",
-                "x": "그 밑에는 기업이 내린 결정이 쌓여 만들어지는 Autodesk Context와 AI Orchestrator가 깔린다. AI Orchestrator는 Autodesk-built 모델, Claude, OpenAI, 오픈 웨이트 모델 중에서 “정확도, 속도, 보안, 비용을 기준으로 어떤 AI 모델이 과제에 가장 적합한지”를 따져 고른다."
+                "x": "“Qonic에서 지오메트리와 데이터를 만들고 편집하고 다루는 일이라면 무엇이든 프롬프트로 할 수 있다”고 Qonic의 Jacob De Sutter는 말했다. Qonic AI가 손댈 수 있는 모델은 사용자에게 편집 권한이 있는 것뿐이고, 바꾼 내용은 수동 작업처럼 되돌릴 수 있다."
               },
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Raji-Arasu-img.jpg",
-                "cap": "Autodesk CTO Raji Arasu"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_2.jpg",
+                "cap": "Qonic AI는 누락된 BIM 데이터를 찾아 모델 요소에 할당할 수 있다"
               },
               {
                 "t": "p",
-                "x": "Expo 전시장에서는 주요 워크스테이션 업체 세 곳이 모두 제대로 된 로컬 AI를 보여 줬다. HP와 Perplexity는 머신 한 대에서 로컬 LLM으로 공식 Revit 2027 MCP 서버를 돌렸다. Nvidia는 Dell 하드웨어에서 Revit과 Fusion의 자율 모델링을 선보였고, Lenovo는 AutoCAD Civil 3D용 에이전트형 프런트엔드를 띄웠다."
+                "x": "모든 창에 방화 등급이 있는지 물어본 뒤 등급 없는 창을 골라 F60을 매기게 할 수도 있고, 콘크리트 품질 보고서를 뽑거나 선택한 창을 0.5미터 넓히라고 시킬 수도 있다. 요청을 처리할 모델은 Sonnet, Opus, Astra 중에서 고르며, Qonic AI는 토큰 방식으로 돌아간다."
               },
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Nvidia-Agentic-Fusion-2.img_.jpg",
-                "cap": "Nvidia의 Autodesk Fusion Agentic Demo"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_3.jpg",
+                "cap": "Qonic AI는 지오메트리를 편집할 수 있다"
               },
               {
                 "t": "p",
-                "x": "Autodesk가 내세우는 가치의 중심은 도구에서 성과로 옮겨 가는 중이다. 다만 차세대 Assistant는 내년 중에야 나올 전망이다."
+                "x": "새로 나온 Qonic MCP 서버로는 Claude, Codex, Mistral Le Chat 등 평소 쓰던 AI 어시스턴트에서 플랫폼을 다룬다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Autodeskが示す\n段取りするAssistant",
-          "body": "AutodeskのAI構想は速いツールを超え、解き方を決めるAssistantへ向かう。",
-          "mini_headline": "Autodeskの判断するAssistant",
+          "headline": "QonicがBIMモデルに\nAIエージェント搭載",
+          "body": "Qonic AIはBIMモデル内で自然な言葉によるデータの検索・確認・修正・作成を担う。",
+          "mini_headline": "BIMに入るQonic AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/AU2026_DEMO-AutoAssemble.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_1.jpg"
               },
               {
                 "t": "p",
-                "x": "Autodesk University 2026で、Autodeskはより速いツールの先を行くAIの構想を示した。ユーザーに代わってタスクの解き方を決める、連携したAssistantである。CEOのAndrew Anagnostはこれを‘Project Intelligence’と位置づけ、「あらゆるデータポイント、あらゆる意思決定、あらゆる分野をひとつにまとめる、中心にある連携した頭脳」だと語った。"
+                "x": "Qonicは、クラウドベースの共同BIMモデリングプラットフォームに組み込まれたエージェント群「Qonic AI」を発表した。Qonic AIはBIMモデルの横に置かれるのではなく、モデルの内部で直接動作する。ユーザーが「Ask Qonic」チャットボットに平易な言葉で要望を伝えると、Qonicのエージェントがプラットフォーム自身のツールを使って要素を検索、確認、更新する。"
               },
               {
                 "t": "p",
-                "x": "目玉の発表は、Autodesk Assistantが「製品の垣根を越えて働く、スタンドアロンのエージェントファーストな体験」として提供されることだ。現在も開発中で、来年のリリースが見込まれる。Revit、AutoCAD、Fusionに組み込まれた製品内のAssistantsも拡充が続く。"
-              },
-              {
-                "t": "p",
-                "x": "その土台には、企業が下した意思決定から構築されるAutodesk Contextと、AI Orchestratorがある。AI OrchestratorはAutodesk-builtのモデル、Claude、OpenAI、オープンウェイトモデルの中から「精度、速度、セキュリティ、コストに基づき、どのAIモデルがタスクに最適か」を選ぶ。"
+                "x": "「Qonicでジオメトリやデータの作成、編集、操作としてできることは、すべてプロンプトで実行できる」と、QonicのJacob De Sutterは語った。Qonic AIが変更できるのはユーザーに編集権限のあるモデルだけで、その変更は手作業と同様に元に戻せる。"
               },
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Raji-Arasu-img.jpg",
-                "cap": "Autodesk CTO Raji Arasu"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_2.jpg",
+                "cap": "Qonic AIは欠けているBIMデータを見つけ、モデル要素に割り当てられる"
               },
               {
                 "t": "p",
-                "x": "Expo会場では、主要ワークステーションベンダー三社がそろって真のローカルAIを実演した。HPとPerplexityは一台のマシン上でローカルLLMを使って公式のRevit 2027 MCPサーバーを動かし、NvidiaはDellのハードウェア上でRevitとFusionの自律モデリングを披露し、LenovoはAutoCAD Civil 3D向けのエージェント型フロントエンドを動かした。"
+                "x": "ユーザーは、すべての窓に防火等級があるかを尋ね、等級のない窓を選択してF60を割り当てさせたり、コンクリート品質レポートを作成させたり、選択した窓を0.5メートル広げさせたりできる。リクエストの処理にはSonnet、Opus、Astraから選び、Qonic AIはトークン制で動く。"
               },
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Nvidia-Agentic-Fusion-2.img_.jpg",
-                "cap": "NvidiaのAutodesk Fusion Agentic Demo"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_3.jpg",
+                "cap": "Qonic AIはジオメトリを編集できる"
               },
               {
                 "t": "p",
-                "x": "Autodeskは価値提案をツールから成果へと移しつつある。次世代のAssistantが登場するのは来年のどこかになる見通しだ。"
+                "x": "新しいQonic MCPサーバーにより、ユーザーはClaude、Codex、Mistral Le Chatなど自分のAIアシスタントを通じてプラットフォームを操作できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Autodesk推出\n代你规划的Assistant",
-          "body": "Autodesk的AI愿景超越更快的工具，转向替你决定解法的互联Assistant。",
-          "mini_headline": "Autodesk会做决定的Assistant",
+          "headline": "Qonic把AI智能体\n放进BIM模型",
+          "body": "Qonic AI智能体直接在BIM模型内工作，用户可用自然语言查找、检查、修改和创建数据。",
+          "mini_headline": "BIM内的Qonic AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/AU2026_DEMO-AutoAssemble.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_1.jpg"
               },
               {
                 "t": "p",
-                "x": "在Autodesk University 2026上，Autodesk提出了超越更快工具的AI雄心：一个代你决定如何解决任务的互联Assistant。CEO Andrew Anagnost将其定位为‘Project Intelligence’，即“位于中心的互联大脑，把每一个数据点、每一项决策、每一个学科汇聚在一起”。"
+                "x": "Qonic 推出了 Qonic AI，这是一组内置于其云端协作 BIM 建模平台的智能体。Qonic AI 直接在 BIM 模型内部工作，而不是游离于模型之外。用户通过“Ask Qonic”聊天机器人用自然语言描述需求，Qonic 的智能体便会使用平台自身的工具查找、检查并更新构件。"
               },
               {
                 "t": "p",
-                "x": "重头发布是：Autodesk Assistant将以“跨越各产品的独立式、智能体优先体验”推出。它仍在开发中，预计明年发布；Revit、AutoCAD和Fusion中的产品内Assistants将继续扩展。"
-              },
-              {
-                "t": "p",
-                "x": "其底层是基于企业所做决策构建的Autodesk Context，以及AI Orchestrator；后者从Autodesk-built模型、Claude、OpenAI和开放权重模型中挑选“根据准确性、速度、安全性和成本最适合该任务的AI模型”。"
+                "x": "“凡是在 Qonic 中能做的几何与数据创建、编辑和操作，都可以通过提示词完成，”Qonic 的 Jacob De Sutter 说。Qonic AI 只能修改用户有权编辑的模型，其更改也可以像任何手动操作一样撤销。"
               },
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Raji-Arasu-img.jpg",
-                "cap": "Autodesk CTO Raji Arasu"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_2.jpg",
+                "cap": "Qonic AI 可以找出缺失的 BIM 数据并将其分配给模型构件"
               },
               {
                 "t": "p",
-                "x": "在Expo展区，三大工作站厂商都演示了真正的本地AI：HP与Perplexity在一台机器上用本地LLM驱动官方Revit 2027 MCP服务器，Nvidia在Dell硬件上展示了Revit和Fusion的自主建模，Lenovo则运行了面向AutoCAD Civil 3D的智能体前端。"
+                "x": "用户可以询问是否所有窗户都有防火等级，让它选中缺少等级的窗户并赋予 F60，生成混凝土质量报告，或将选中的窗户加宽 0.5 米。用户可选择 Sonnet、Opus 或 Astra 来处理请求；Qonic AI 按 token 计量运行。"
               },
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Nvidia-Agentic-Fusion-2.img_.jpg",
-                "cap": "Nvidia的Autodesk Fusion Agentic Demo"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_3.jpg",
+                "cap": "Qonic AI 可以编辑几何形体"
               },
               {
                 "t": "p",
-                "x": "Autodesk正把价值主张从工具转向成果。下一代Assistant预计要到明年某个时候才会推出。"
+                "x": "全新的 Qonic MCP 服务器让用户可以通过自己的 AI 助手（如 Claude、Codex 或 Mistral Le Chat）使用该平台。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Autodesk propone un Assistant\nque planifica el trabajo",
-          "body": "La visión de AI de Autodesk supera las herramientas rápidas: un Assistant conectado que decide cómo resolver tareas.",
-          "mini_headline": "El Assistant que decide de Autodesk",
+          "headline": "Qonic pone agentes de AI\ndentro del modelo BIM",
+          "body": "Los agentes de Qonic AI trabajan dentro del modelo BIM para buscar, revisar, corregir y crear datos en lenguaje llano.",
+          "mini_headline": "Qonic AI dentro de BIM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/AU2026_DEMO-AutoAssemble.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_1.jpg"
               },
               {
                 "t": "p",
-                "x": "En Autodesk University 2026, Autodesk presentó una ambición de AI que va más allá de herramientas más rápidas: un Assistant conectado que decide cómo resolver tareas en tu nombre. El CEO Andrew Anagnost lo definió como ‘Project Intelligence’, un “cerebro conectado en el centro que reúne cada dato, cada decisión y cada disciplina”."
+                "x": "Qonic ha presentado Qonic AI, un conjunto de agentes integrados en su plataforma colaborativa de modelado BIM en la nube. Qonic AI funciona directamente dentro del modelo BIM, en lugar de situarse a su lado. A través del chatbot “Ask Qonic”, los usuarios describen lo que quieren en lenguaje llano, y los agentes de Qonic buscan, revisan y actualizan elementos con las propias herramientas de la plataforma."
               },
               {
                 "t": "p",
-                "x": "El anuncio principal: Autodesk Assistant estará disponible como una “experiencia independiente y centrada en agentes, que abarca todos los productos”. Aún está en desarrollo y se espera que se lance el próximo año; los Assistants integrados en Revit, AutoCAD y Fusion seguirán ampliándose."
-              },
-              {
-                "t": "p",
-                "x": "Por debajo están Autodesk Context, construido a partir de las decisiones que toma una empresa, y AI Orchestrator, que elige “qué modelo de AI es el más adecuado para la tarea según precisión, velocidad, seguridad y coste” entre modelos Autodesk-built, Claude, OpenAI y modelos de pesos abiertos."
+                "x": "“Todo lo que se puede hacer en Qonic en cuanto a creación, edición y manipulación de geometría y datos se puede hacer mediante prompts”, afirmó Jacob De Sutter, de Qonic. Qonic AI solo puede modificar los modelos que el usuario tiene permiso para editar, y sus cambios se pueden deshacer como cualquier operación manual."
               },
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Raji-Arasu-img.jpg",
-                "cap": "Raji Arasu, CTO de Autodesk"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_2.jpg",
+                "cap": "Qonic AI puede encontrar datos BIM faltantes y asignarlos a elementos del modelo"
               },
               {
                 "t": "p",
-                "x": "En la zona de la Expo, los tres principales fabricantes de estaciones de trabajo mostraron AI realmente local: HP y Perplexity hicieron funcionar el servidor oficial Revit 2027 MCP con un LLM local en una sola máquina, Nvidia mostró modelado autónomo para Revit y Fusion en hardware de Dell, y Lenovo ejecutó una interfaz agéntica para AutoCAD Civil 3D."
+                "x": "Los usuarios pueden preguntar si todas las ventanas tienen clasificación de resistencia al fuego, pedirle que seleccione las que no la tienen y les asigne F60, generar un informe de calidad del hormigón o ensanchar 0.5 metros las ventanas seleccionadas. Los usuarios eligen Sonnet, Opus o Astra para procesar las solicitudes; Qonic AI funciona con tokens."
               },
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Nvidia-Agentic-Fusion-2.img_.jpg",
-                "cap": "Autodesk Fusion Agentic Demo de Nvidia"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_3.jpg",
+                "cap": "Qonic AI puede editar geometría"
               },
               {
                 "t": "p",
-                "x": "Autodesk está trasladando su propuesta de valor de las herramientas a los resultados. No se espera el Assistant de nueva generación hasta algún momento del próximo año."
+                "x": "Un nuevo servidor Qonic MCP permite trabajar con la plataforma a través del propio asistente de AI, como Claude, Codex o Mistral Le Chat."
               }
             ]
           }
@@ -861,177 +1017,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Autodesk, 작업을\n계획하는 Assistant",
-          "body": "Autodesk AI는 빠른 도구 너머 해법을 정하는 Assistant로 간다.",
-          "mini_headline": "Autodesk의 판단하는 Assistant",
+          "headline": "Qonic, BIM 모델에\nAI 에이전트 탑재",
+          "body": "Qonic AI 에이전트가 BIM 모델 안에서 데이터를 찾고 검사·수정·생성한다.",
+          "mini_headline": "BIM 속 Qonic AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/AU2026_DEMO-AutoAssemble.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_1.jpg"
               },
               {
                 "t": "p",
-                "x": "Autodesk University 2026에서 Autodesk는 더 빠른 도구를 넘어서는 AI 구상을 내놓았다. 사용자를 대신해 과제를 어떻게 풀지 정하는 연결된 Assistant다. CEO Andrew Anagnost는 이를 ‘Project Intelligence’로 규정하며 “모든 데이터 포인트, 모든 결정, 모든 분야를 하나로 모으는 중심의 연결된 두뇌”라고 설명했다."
+                "x": "Qonic이 클라우드 기반 협업 BIM 모델링 플랫폼에 내장된 에이전트 모음 Qonic AI를 내놓았다. Qonic AI는 BIM 모델 옆에 따로 있는 것이 아니라 모델 안에서 직접 작동한다. 사용자가 “Ask Qonic” 챗봇에 원하는 것을 일상 언어로 설명하면, Qonic의 에이전트가 플랫폼 자체 도구로 요소를 찾고 검사하고 갱신한다."
               },
               {
                 "t": "p",
-                "x": "핵심 발표는 Autodesk Assistant가 “제품 전반을 아우르는 독립형 에이전트 우선 경험”으로 제공된다는 것이다. 아직 개발 중이며 내년 출시가 예상된다. Revit, AutoCAD, Fusion에 들어 있는 제품 내 Assistants는 계속 확장된다."
-              },
-              {
-                "t": "p",
-                "x": "그 아래에는 기업이 내린 결정들로 구축되는 Autodesk Context와 AI Orchestrator가 있다. AI Orchestrator는 Autodesk-built 모델, Claude, OpenAI, 오픈 웨이트 모델 가운데 “정확도, 속도, 보안, 비용을 기준으로 어떤 AI 모델이 과제에 가장 적합한지”를 고른다."
+                "x": "“Qonic에서 지오메트리와 데이터를 만들고 편집하고 다루는 일이라면 무엇이든 프롬프트로 할 수 있다”고 Qonic의 Jacob De Sutter는 말했다. Qonic AI는 사용자에게 편집 권한이 있는 모델만 바꿀 수 있고, 그 변경은 수동 작업처럼 되돌릴 수 있다."
               },
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Raji-Arasu-img.jpg",
-                "cap": "Autodesk CTO Raji Arasu"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_2.jpg",
+                "cap": "Qonic AI는 누락된 BIM 데이터를 찾아 모델 요소에 할당할 수 있다"
               },
               {
                 "t": "p",
-                "x": "Expo 전시장에서는 주요 워크스테이션 업체 세 곳이 모두 진정한 로컬 AI를 시연했다. HP와 Perplexity는 한 대의 머신에서 로컬 LLM으로 공식 Revit 2027 MCP 서버를 구동했고, Nvidia는 Dell 하드웨어에서 Revit과 Fusion의 자율 모델링을 선보였으며, Lenovo는 AutoCAD Civil 3D용 에이전트형 프런트엔드를 실행했다."
+                "x": "사용자는 모든 창에 방화 등급이 있는지 묻고, 등급이 없는 창을 선택해 F60을 부여하게 하거나, 콘크리트 품질 보고서를 만들거나, 선택한 창을 0.5미터 넓히게 할 수 있다. 요청 처리에는 Sonnet, Opus, Astra 중 하나를 고르며, Qonic AI는 토큰 방식으로 작동한다."
               },
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Nvidia-Agentic-Fusion-2.img_.jpg",
-                "cap": "Nvidia의 Autodesk Fusion Agentic Demo"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_3.jpg",
+                "cap": "Qonic AI는 지오메트리를 편집할 수 있다"
               },
               {
                 "t": "p",
-                "x": "Autodesk는 가치 제안의 중심을 도구에서 성과로 옮기고 있다. 차세대 Assistant는 내년 중에나 나올 전망이다."
+                "x": "새 Qonic MCP 서버를 쓰면 Claude, Codex, Mistral Le Chat 같은 자신의 AI 어시스턴트로 플랫폼을 다룰 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Autodeskが示す\n段取りするAssistant",
-          "body": "AutodeskのAI構想は速いツールを超え、解き方を決めるAssistantへ向かう。",
-          "mini_headline": "Autodeskの判断するAssistant",
+          "headline": "QonicがBIMモデルに\nAIエージェント搭載",
+          "body": "Qonic AIはBIMモデル内で自然な言葉によるデータの検索・確認・修正・作成を担う。",
+          "mini_headline": "BIMに入るQonic AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/AU2026_DEMO-AutoAssemble.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_1.jpg"
               },
               {
                 "t": "p",
-                "x": "Autodesk University 2026で、Autodeskはより速いツールの先を行くAIの構想を示した。ユーザーに代わってタスクの解き方を決める、連携したAssistantである。CEOのAndrew Anagnostはこれを‘Project Intelligence’と位置づけ、「あらゆるデータポイント、あらゆる意思決定、あらゆる分野をひとつにまとめる、中心にある連携した頭脳」だと語った。"
+                "x": "Qonicは、クラウドベースの共同BIMモデリングプラットフォームに組み込まれたエージェント群「Qonic AI」を発表した。Qonic AIはBIMモデルの横に置かれるのではなく、モデルの内部で直接動作する。ユーザーが「Ask Qonic」チャットボットに平易な言葉で要望を伝えると、Qonicのエージェントがプラットフォーム自身のツールを使って要素を検索、確認、更新する。"
               },
               {
                 "t": "p",
-                "x": "目玉の発表は、Autodesk Assistantが「製品の垣根を越えて働く、スタンドアロンのエージェントファーストな体験」として提供されることだ。現在も開発中で、来年のリリースが見込まれる。Revit、AutoCAD、Fusionに組み込まれた製品内のAssistantsも拡充が続く。"
-              },
-              {
-                "t": "p",
-                "x": "その土台には、企業が下した意思決定から構築されるAutodesk Contextと、AI Orchestratorがある。AI OrchestratorはAutodesk-builtのモデル、Claude、OpenAI、オープンウェイトモデルの中から「精度、速度、セキュリティ、コストに基づき、どのAIモデルがタスクに最適か」を選ぶ。"
+                "x": "「Qonicでジオメトリやデータの作成、編集、操作としてできることは、すべてプロンプトで実行できる」と、QonicのJacob De Sutterは語った。Qonic AIが変更できるのはユーザーに編集権限のあるモデルだけで、その変更は手作業と同様に元に戻せる。"
               },
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Raji-Arasu-img.jpg",
-                "cap": "Autodesk CTO Raji Arasu"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_2.jpg",
+                "cap": "Qonic AIは欠けているBIMデータを見つけ、モデル要素に割り当てられる"
               },
               {
                 "t": "p",
-                "x": "Expo会場では、主要ワークステーションベンダー三社がそろって真のローカルAIを実演した。HPとPerplexityは一台のマシン上でローカルLLMを使って公式のRevit 2027 MCPサーバーを動かし、NvidiaはDellのハードウェア上でRevitとFusionの自律モデリングを披露し、LenovoはAutoCAD Civil 3D向けのエージェント型フロントエンドを動かした。"
+                "x": "ユーザーは、すべての窓に防火等級があるかを尋ね、等級のない窓を選択してF60を割り当てさせたり、コンクリート品質レポートを作成させたり、選択した窓を0.5メートル広げさせたりできる。リクエストの処理にはSonnet、Opus、Astraから選び、Qonic AIはトークン制で動く。"
               },
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Nvidia-Agentic-Fusion-2.img_.jpg",
-                "cap": "NvidiaのAutodesk Fusion Agentic Demo"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_3.jpg",
+                "cap": "Qonic AIはジオメトリを編集できる"
               },
               {
                 "t": "p",
-                "x": "Autodeskは価値提案をツールから成果へと移しつつある。次世代のAssistantが登場するのは来年のどこかになる見通しだ。"
+                "x": "新しいQonic MCPサーバーにより、ユーザーはClaude、Codex、Mistral Le Chatなど自分のAIアシスタントを通じてプラットフォームを操作できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Autodesk推出\n代你规划的Assistant",
-          "body": "Autodesk的AI愿景超越更快的工具，转向替你决定解法的互联Assistant。",
-          "mini_headline": "Autodesk会做决定的Assistant",
+          "headline": "Qonic把AI智能体\n放进BIM模型",
+          "body": "Qonic AI智能体直接在BIM模型内工作，用户可用自然语言查找、检查、修改和创建数据。",
+          "mini_headline": "BIM内的Qonic AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/AU2026_DEMO-AutoAssemble.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_1.jpg"
               },
               {
                 "t": "p",
-                "x": "在Autodesk University 2026上，Autodesk提出了超越更快工具的AI雄心：一个代你决定如何解决任务的互联Assistant。CEO Andrew Anagnost将其定位为‘Project Intelligence’，即“位于中心的互联大脑，把每一个数据点、每一项决策、每一个学科汇聚在一起”。"
+                "x": "Qonic 推出了 Qonic AI，这是一组内置于其云端协作 BIM 建模平台的智能体。Qonic AI 直接在 BIM 模型内部工作，而不是游离于模型之外。用户通过“Ask Qonic”聊天机器人用自然语言描述需求，Qonic 的智能体便会使用平台自身的工具查找、检查并更新构件。"
               },
               {
                 "t": "p",
-                "x": "重头发布是：Autodesk Assistant将以“跨越各产品的独立式、智能体优先体验”推出。它仍在开发中，预计明年发布；Revit、AutoCAD和Fusion中的产品内Assistants将继续扩展。"
-              },
-              {
-                "t": "p",
-                "x": "其底层是基于企业所做决策构建的Autodesk Context，以及AI Orchestrator；后者从Autodesk-built模型、Claude、OpenAI和开放权重模型中挑选“根据准确性、速度、安全性和成本最适合该任务的AI模型”。"
+                "x": "“凡是在 Qonic 中能做的几何与数据创建、编辑和操作，都可以通过提示词完成，”Qonic 的 Jacob De Sutter 说。Qonic AI 只能修改用户有权编辑的模型，其更改也可以像任何手动操作一样撤销。"
               },
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Raji-Arasu-img.jpg",
-                "cap": "Autodesk CTO Raji Arasu"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_2.jpg",
+                "cap": "Qonic AI 可以找出缺失的 BIM 数据并将其分配给模型构件"
               },
               {
                 "t": "p",
-                "x": "在Expo展区，三大工作站厂商都演示了真正的本地AI：HP与Perplexity在一台机器上用本地LLM驱动官方Revit 2027 MCP服务器，Nvidia在Dell硬件上展示了Revit和Fusion的自主建模，Lenovo则运行了面向AutoCAD Civil 3D的智能体前端。"
+                "x": "用户可以询问是否所有窗户都有防火等级，让它选中缺少等级的窗户并赋予 F60，生成混凝土质量报告，或将选中的窗户加宽 0.5 米。用户可选择 Sonnet、Opus 或 Astra 来处理请求；Qonic AI 按 token 计量运行。"
               },
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Nvidia-Agentic-Fusion-2.img_.jpg",
-                "cap": "Nvidia的Autodesk Fusion Agentic Demo"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_3.jpg",
+                "cap": "Qonic AI 可以编辑几何形体"
               },
               {
                 "t": "p",
-                "x": "Autodesk正把价值主张从工具转向成果。下一代Assistant预计要到明年某个时候才会推出。"
+                "x": "全新的 Qonic MCP 服务器让用户可以通过自己的 AI 助手（如 Claude、Codex 或 Mistral Le Chat）使用该平台。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Autodesk propone un Assistant\nque planifica el trabajo",
-          "body": "La visión de AI de Autodesk supera las herramientas rápidas: un Assistant conectado que decide cómo resolver tareas.",
-          "mini_headline": "El Assistant que decide de Autodesk",
+          "headline": "Qonic pone agentes de AI\ndentro del modelo BIM",
+          "body": "Los agentes de Qonic AI trabajan dentro del modelo BIM para buscar, revisar, corregir y crear datos en lenguaje llano.",
+          "mini_headline": "Qonic AI dentro de BIM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/AU2026_DEMO-AutoAssemble.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_1.jpg"
               },
               {
                 "t": "p",
-                "x": "En Autodesk University 2026, Autodesk presentó una ambición de AI que va más allá de herramientas más rápidas: un Assistant conectado que decide cómo resolver tareas en tu nombre. El CEO Andrew Anagnost lo definió como ‘Project Intelligence’, un “cerebro conectado en el centro que reúne cada dato, cada decisión y cada disciplina”."
+                "x": "Qonic ha presentado Qonic AI, un conjunto de agentes integrados en su plataforma colaborativa de modelado BIM en la nube. Qonic AI funciona directamente dentro del modelo BIM, en lugar de situarse a su lado. A través del chatbot “Ask Qonic”, los usuarios describen lo que quieren en lenguaje llano, y los agentes de Qonic buscan, revisan y actualizan elementos con las propias herramientas de la plataforma."
               },
               {
                 "t": "p",
-                "x": "El anuncio principal: Autodesk Assistant estará disponible como una “experiencia independiente y centrada en agentes, que abarca todos los productos”. Aún está en desarrollo y se espera que se lance el próximo año; los Assistants integrados en Revit, AutoCAD y Fusion seguirán ampliándose."
-              },
-              {
-                "t": "p",
-                "x": "Por debajo están Autodesk Context, construido a partir de las decisiones que toma una empresa, y AI Orchestrator, que elige “qué modelo de AI es el más adecuado para la tarea según precisión, velocidad, seguridad y coste” entre modelos Autodesk-built, Claude, OpenAI y modelos de pesos abiertos."
+                "x": "“Todo lo que se puede hacer en Qonic en cuanto a creación, edición y manipulación de geometría y datos se puede hacer mediante prompts”, afirmó Jacob De Sutter, de Qonic. Qonic AI solo puede modificar los modelos que el usuario tiene permiso para editar, y sus cambios se pueden deshacer como cualquier operación manual."
               },
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Raji-Arasu-img.jpg",
-                "cap": "Raji Arasu, CTO de Autodesk"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_2.jpg",
+                "cap": "Qonic AI puede encontrar datos BIM faltantes y asignarlos a elementos del modelo"
               },
               {
                 "t": "p",
-                "x": "En la zona de la Expo, los tres principales fabricantes de estaciones de trabajo mostraron AI realmente local: HP y Perplexity hicieron funcionar el servidor oficial Revit 2027 MCP con un LLM local en una sola máquina, Nvidia mostró modelado autónomo para Revit y Fusion en hardware de Dell, y Lenovo ejecutó una interfaz agéntica para AutoCAD Civil 3D."
+                "x": "Los usuarios pueden preguntar si todas las ventanas tienen clasificación de resistencia al fuego, pedirle que seleccione las que no la tienen y les asigne F60, generar un informe de calidad del hormigón o ensanchar 0.5 metros las ventanas seleccionadas. Los usuarios eligen Sonnet, Opus o Astra para procesar las solicitudes; Qonic AI funciona con tokens."
               },
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Nvidia-Agentic-Fusion-2.img_.jpg",
-                "cap": "Autodesk Fusion Agentic Demo de Nvidia"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_3.jpg",
+                "cap": "Qonic AI puede editar geometría"
               },
               {
                 "t": "p",
-                "x": "Autodesk está trasladando su propuesta de valor de las herramientas a los resultados. No se espera el Assistant de nueva generación hasta algún momento del próximo año."
+                "x": "Un nuevo servidor Qonic MCP permite trabajar con la plataforma a través del propio asistente de AI, como Claude, Codex o Mistral Le Chat."
               }
             ]
           }
@@ -1039,611 +1179,213 @@
       }
     },
     {
-      "id": "smashing-llm-chat-a11y",
+      "id": "meta-muse-spaces-genui",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "LLM 채팅 화면을\n누구나 쓸 수 있게",
-      "body": "Eric Bailey가 LLM 채팅의 접근성을 높이는 실전 방법을 정리했다.",
-      "mini_headline": "누구나 쓰는 LLM 채팅",
-      "tool": "Design Tokens",
-      "source": "Smashing Magazine",
-      "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg"
-          },
-          {
-            "t": "p",
-            "x": "LLM 채팅 패턴이 웹 곳곳으로 들불처럼 번지고 있다. 접근성을 처음부터 따지지 않고 이런 화면을 만들면 누군가는 밀려날 수 있다. Claude, ChatGPT, GitHub Copilot, Gemini처럼 전체 화면을 쓰는 몰입형 LLM 채팅 여러 곳의 접근성 개선을 도운 Eric Bailey가 그 노하우를 풀어놓는다."
-          },
-          {
-            "t": "p",
-            "x": "안내는 라이브 영역으로 한다. aria-live를 메시지마다 붙이지 말고 DOM 끝에 전용 라이브 영역을 하나 둔다. 완성된 메시지만 읽어 주고, 프롬프트를 낸 뒤 약 다섯 초가 지나면 “Loading”을 알린 다음 답변이 올 때까지 다섯 초마다 되풀이한다."
-          },
-          {
-            "t": "img",
-            "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/live-region-do-dont.png",
-            "cap": "권장: 전용 라이브 영역을 사용한다. 금지: 메시지마다 aria-live를 적용한다."
-          },
-          {
-            "t": "p",
-            "x": "채팅 메시지마다 앞에 “You said:”, “Cody said:” 같은 제목을 화면에는 안 보이게 넣는다. 랜드마크는 쓰되 아껴 쓰고, 건너뛰기 링크를 단다. 대화 목록은 화살표 키로 오갈 수 있는 복합 위젯으로 만든다."
-          },
-          {
-            "t": "p",
-            "x": "피드 패턴은 피한다. 채팅 입력란과 LLM의 마지막 답변 사이를 오가도록 Control+F6 탐색을 지원하는 방안도 검토할 만하다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Making LLM chat interfaces\naccessible to everyone",
-          "body": "Eric Bailey shares practical ways to make LLM chat experiences on the web accessible as the pattern spreads.",
-          "mini_headline": "Accessible LLM chat",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg"
-              },
-              {
-                "t": "p",
-                "x": "As the LLM chat pattern continues to spread like wildfire across the web, we risk excluding people if these experiences are not built with accessibility as a core consideration. Eric Bailey, who has helped improve the accessibility of multiple immersive LLM chat experiences — full-screen experiences like Claude, ChatGPT, GitHub Copilot and Gemini — shares this knowledge."
-              },
-              {
-                "t": "p",
-                "x": "Use live region announcements: a dedicated live region at the end of the DOM, not aria-live on each message. Only announce the completed message, and announce “Loading” about five seconds after a prompt is submitted, repeating every five seconds until the reply arrives."
-              },
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/live-region-do-dont.png",
-                "cap": "Do: Use a dedicated live region area. Don’t: Apply aria-live to each message."
-              },
-              {
-                "t": "p",
-                "x": "Insert visually-hidden headings such as “You said:” and “Cody said:” before each chat message, use landmarks but not too many, add skip links and make conversation lists composite widgets navigable with arrow keys."
-              },
-              {
-                "t": "p",
-                "x": "Avoid a feed pattern, and consider supporting Control+F6 navigation so people can hop from the chat input to the LLM’s last reply and back again."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "LLM 채팅 화면을\n누구나 쓸 수 있게",
-          "body": "Eric Bailey가 LLM 채팅의 접근성을 높이는 실전 방법을 정리했다.",
-          "mini_headline": "누구나 쓰는 LLM 채팅",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg"
-              },
-              {
-                "t": "p",
-                "x": "LLM 채팅 패턴이 웹 곳곳으로 들불처럼 번지고 있다. 접근성을 처음부터 따지지 않고 이런 화면을 만들면 누군가는 밀려날 수 있다. Claude, ChatGPT, GitHub Copilot, Gemini처럼 전체 화면을 쓰는 몰입형 LLM 채팅 여러 곳의 접근성 개선을 도운 Eric Bailey가 그 노하우를 풀어놓는다."
-              },
-              {
-                "t": "p",
-                "x": "안내는 라이브 영역으로 한다. aria-live를 메시지마다 붙이지 말고 DOM 끝에 전용 라이브 영역을 하나 둔다. 완성된 메시지만 읽어 주고, 프롬프트를 낸 뒤 약 다섯 초가 지나면 “Loading”을 알린 다음 답변이 올 때까지 다섯 초마다 되풀이한다."
-              },
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/live-region-do-dont.png",
-                "cap": "권장: 전용 라이브 영역을 사용한다. 금지: 메시지마다 aria-live를 적용한다."
-              },
-              {
-                "t": "p",
-                "x": "채팅 메시지마다 앞에 “You said:”, “Cody said:” 같은 제목을 화면에는 안 보이게 넣는다. 랜드마크는 쓰되 아껴 쓰고, 건너뛰기 링크를 단다. 대화 목록은 화살표 키로 오갈 수 있는 복합 위젯으로 만든다."
-              },
-              {
-                "t": "p",
-                "x": "피드 패턴은 피한다. 채팅 입력란과 LLM의 마지막 답변 사이를 오가도록 Control+F6 탐색을 지원하는 방안도 검토할 만하다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "LLMチャット画面を\n誰もが使えるものに",
-          "body": "Eric BaileyがLLMチャットのアクセシビリティを高める実践策を紹介する。",
-          "mini_headline": "アクセシブルなLLMチャット",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg"
-              },
-              {
-                "t": "p",
-                "x": "LLMチャットのパターンがウェブ上で燎原の火のように広がるなか、アクセシビリティを中核に据えずにこうした体験を作れば、人々を締め出すおそれがある。Claude、ChatGPT、GitHub Copilot、Geminiのような全画面型の没入型LLMチャット体験の数々でアクセシビリティ改善に携わってきたEric Baileyが、その知見を共有する。"
-              },
-              {
-                "t": "p",
-                "x": "ライブリージョンによる読み上げを使う。各メッセージにaria-liveを付けるのではなく、DOMの末尾に専用のライブリージョンを置く。読み上げるのは完成したメッセージだけにし、プロンプト送信から約五秒後に「Loading」と読み上げ、返答が届くまで五秒ごとに繰り返す。"
-              },
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/live-region-do-dont.png",
-                "cap": "推奨:専用のライブリージョン領域を使う。非推奨:各メッセージにaria-liveを適用する。"
-              },
-              {
-                "t": "p",
-                "x": "各チャットメッセージの前に「You said:」「Cody said:」のような視覚的に隠した見出しを入れ、ランドマークは使いすぎない程度に使い、スキップリンクを追加し、会話リストを矢印キーで移動できる複合ウィジェットにする。"
-              },
-              {
-                "t": "p",
-                "x": "フィードパターンは避け、チャット入力欄とLLMの最後の返答の間を行き来できるよう、Control+F6でのナビゲーションへの対応を検討する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "让LLM聊天界面\n人人都能无障碍使用",
-          "body": "Eric Bailey分享了让网页上的LLM聊天体验更具无障碍性的实用方法。",
-          "mini_headline": "无障碍的LLM聊天",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg"
-              },
-              {
-                "t": "p",
-                "x": "随着LLM聊天模式在网络上如野火般蔓延，如果这些体验在构建时不把无障碍作为核心考量，就可能把一部分人排除在外。Eric Bailey曾协助改进多款沉浸式LLM聊天体验的无障碍性——即Claude、ChatGPT、GitHub Copilot和Gemini这类全屏体验——他在此分享相关经验。"
-              },
-              {
-                "t": "p",
-                "x": "使用实时区域播报：在DOM末尾设置专用的实时区域，而不是给每条消息加aria-live。只播报已完成的消息，并在提交提示词约五秒后播报“Loading”，此后每五秒重复一次，直到回复到达。"
-              },
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/live-region-do-dont.png",
-                "cap": "应该：使用专用的实时区域。不应该：给每条消息应用aria-live。"
-              },
-              {
-                "t": "p",
-                "x": "在每条聊天消息前插入视觉上隐藏的标题，如“You said:”和“Cody said:”；使用地标但不要过多；添加跳转链接；并把对话列表做成可用方向键导航的复合控件。"
-              },
-              {
-                "t": "p",
-                "x": "避免使用信息流模式，并考虑支持Control+F6导航，让用户能在聊天输入框和LLM的最后一条回复之间来回跳转。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Chats con LLM accesibles\npara todas las personas",
-          "body": "Eric Bailey comparte formas prácticas de hacer accesibles los chats con LLM en la web mientras el patrón se extiende.",
-          "mini_headline": "Chats con LLM accesibles",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg"
-              },
-              {
-                "t": "p",
-                "x": "A medida que el patrón de chat con LLM se propaga como la pólvora por la web, corremos el riesgo de excluir a personas si estas experiencias no se construyen con la accesibilidad como consideración central. Eric Bailey, que ha ayudado a mejorar la accesibilidad de varias experiencias inmersivas de chat con LLM —experiencias a pantalla completa como Claude, ChatGPT, GitHub Copilot y Gemini—, comparte lo aprendido."
-              },
-              {
-                "t": "p",
-                "x": "Usa anuncios mediante live region: una live region dedicada al final del DOM, no aria-live en cada mensaje. Anuncia solo el mensaje completo y anuncia “Loading” unos cinco segundos después de enviar un prompt, repitiéndolo cada cinco segundos hasta que llegue la respuesta."
-              },
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/live-region-do-dont.png",
-                "cap": "Sí: usar un área de live region dedicada. No: aplicar aria-live a cada mensaje."
-              },
-              {
-                "t": "p",
-                "x": "Inserta encabezados visualmente ocultos como “You said:” y “Cody said:” antes de cada mensaje del chat, usa landmarks pero sin abusar, añade enlaces de salto y convierte las listas de conversaciones en widgets compuestos navegables con las teclas de flecha."
-              },
-              {
-                "t": "p",
-                "x": "Evita el patrón de feed y considera admitir la navegación con Control+F6 para que las personas puedan saltar del campo de entrada del chat a la última respuesta del LLM y volver."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "LLM 채팅 인터페이스,\n모두가 쓸 수 있게",
-          "body": "Eric Bailey가 LLM 채팅의 접근성을 높이는 실용적 방법을 공유한다.",
-          "mini_headline": "접근성 있는 LLM 채팅",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg"
-              },
-              {
-                "t": "p",
-                "x": "LLM 채팅 패턴이 웹 전반으로 들불처럼 번지는 지금, 접근성을 핵심으로 고려하지 않고 이런 경험을 만들면 사람들을 배제할 위험이 있다. Claude, ChatGPT, GitHub Copilot, Gemini 같은 전체 화면 방식의 몰입형 LLM 채팅 경험 여러 개에서 접근성 개선을 도운 Eric Bailey가 그 노하우를 공유한다."
-              },
-              {
-                "t": "p",
-                "x": "라이브 영역 안내를 활용한다. 메시지마다 aria-live를 붙이지 말고 DOM 끝에 전용 라이브 영역을 둔다. 완성된 메시지만 안내하고, 프롬프트를 제출하고 약 다섯 초 뒤 “Loading”을 안내한 다음 답변이 올 때까지 다섯 초마다 반복한다."
-              },
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/live-region-do-dont.png",
-                "cap": "권장: 전용 라이브 영역을 사용한다. 금지: 메시지마다 aria-live를 적용한다."
-              },
-              {
-                "t": "p",
-                "x": "각 채팅 메시지 앞에 “You said:”, “Cody said:” 같은 시각적으로 숨긴 제목을 넣고, 랜드마크는 쓰되 너무 많이 쓰지 않으며, 건너뛰기 링크를 추가하고, 대화 목록을 화살표 키로 탐색할 수 있는 복합 위젯으로 만든다."
-              },
-              {
-                "t": "p",
-                "x": "피드 패턴은 피하고, 채팅 입력란과 LLM의 마지막 답변 사이를 오갈 수 있도록 Control+F6 탐색 지원을 검토한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "LLMチャット画面を\n誰もが使えるものに",
-          "body": "Eric BaileyがLLMチャットのアクセシビリティを高める実践策を紹介する。",
-          "mini_headline": "アクセシブルなLLMチャット",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg"
-              },
-              {
-                "t": "p",
-                "x": "LLMチャットのパターンがウェブ上で燎原の火のように広がるなか、アクセシビリティを中核に据えずにこうした体験を作れば、人々を締め出すおそれがある。Claude、ChatGPT、GitHub Copilot、Geminiのような全画面型の没入型LLMチャット体験の数々でアクセシビリティ改善に携わってきたEric Baileyが、その知見を共有する。"
-              },
-              {
-                "t": "p",
-                "x": "ライブリージョンによる読み上げを使う。各メッセージにaria-liveを付けるのではなく、DOMの末尾に専用のライブリージョンを置く。読み上げるのは完成したメッセージだけにし、プロンプト送信から約五秒後に「Loading」と読み上げ、返答が届くまで五秒ごとに繰り返す。"
-              },
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/live-region-do-dont.png",
-                "cap": "推奨:専用のライブリージョン領域を使う。非推奨:各メッセージにaria-liveを適用する。"
-              },
-              {
-                "t": "p",
-                "x": "各チャットメッセージの前に「You said:」「Cody said:」のような視覚的に隠した見出しを入れ、ランドマークは使いすぎない程度に使い、スキップリンクを追加し、会話リストを矢印キーで移動できる複合ウィジェットにする。"
-              },
-              {
-                "t": "p",
-                "x": "フィードパターンは避け、チャット入力欄とLLMの最後の返答の間を行き来できるよう、Control+F6でのナビゲーションへの対応を検討する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "让LLM聊天界面\n人人都能无障碍使用",
-          "body": "Eric Bailey分享了让网页上的LLM聊天体验更具无障碍性的实用方法。",
-          "mini_headline": "无障碍的LLM聊天",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg"
-              },
-              {
-                "t": "p",
-                "x": "随着LLM聊天模式在网络上如野火般蔓延，如果这些体验在构建时不把无障碍作为核心考量，就可能把一部分人排除在外。Eric Bailey曾协助改进多款沉浸式LLM聊天体验的无障碍性——即Claude、ChatGPT、GitHub Copilot和Gemini这类全屏体验——他在此分享相关经验。"
-              },
-              {
-                "t": "p",
-                "x": "使用实时区域播报：在DOM末尾设置专用的实时区域，而不是给每条消息加aria-live。只播报已完成的消息，并在提交提示词约五秒后播报“Loading”，此后每五秒重复一次，直到回复到达。"
-              },
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/live-region-do-dont.png",
-                "cap": "应该：使用专用的实时区域。不应该：给每条消息应用aria-live。"
-              },
-              {
-                "t": "p",
-                "x": "在每条聊天消息前插入视觉上隐藏的标题，如“You said:”和“Cody said:”；使用地标但不要过多；添加跳转链接；并把对话列表做成可用方向键导航的复合控件。"
-              },
-              {
-                "t": "p",
-                "x": "避免使用信息流模式，并考虑支持Control+F6导航，让用户能在聊天输入框和LLM的最后一条回复之间来回跳转。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Chats con LLM accesibles\npara todas las personas",
-          "body": "Eric Bailey comparte formas prácticas de hacer accesibles los chats con LLM en la web mientras el patrón se extiende.",
-          "mini_headline": "Chats con LLM accesibles",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg"
-              },
-              {
-                "t": "p",
-                "x": "A medida que el patrón de chat con LLM se propaga como la pólvora por la web, corremos el riesgo de excluir a personas si estas experiencias no se construyen con la accesibilidad como consideración central. Eric Bailey, que ha ayudado a mejorar la accesibilidad de varias experiencias inmersivas de chat con LLM —experiencias a pantalla completa como Claude, ChatGPT, GitHub Copilot y Gemini—, comparte lo aprendido."
-              },
-              {
-                "t": "p",
-                "x": "Usa anuncios mediante live region: una live region dedicada al final del DOM, no aria-live en cada mensaje. Anuncia solo el mensaje completo y anuncia “Loading” unos cinco segundos después de enviar un prompt, repitiéndolo cada cinco segundos hasta que llegue la respuesta."
-              },
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/live-region-do-dont.png",
-                "cap": "Sí: usar un área de live region dedicada. No: aplicar aria-live a cada mensaje."
-              },
-              {
-                "t": "p",
-                "x": "Inserta encabezados visualmente ocultos como “You said:” y “Cody said:” antes de cada mensaje del chat, usa landmarks pero sin abusar, añade enlaces de salto y convierte las listas de conversaciones en widgets compuestos navegables con las teclas de flecha."
-              },
-              {
-                "t": "p",
-                "x": "Evita el patrón de feed y considera admitir la navegación con Control+F6 para que las personas puedan saltar del campo de entrada del chat a la última respuesta del LLM y volver."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "uxc-design-systems-mcp-study",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "디자인 시스템 21개 중\n20개가 MCP 지원",
-      "body": "21개 중 20개가 MCP를 갖췄고 Figma Code Connect는 3개뿐이다.",
-      "mini_headline": "MCP로 향하는 디자인 시스템",
-      "tool": "Design Tokens",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/what-ai-has-changed-in-design-systems-and-what-is-still-up-to-us-d4e8e8f4ceb2",
+      "headline": "Meta Muse, 말로\n앱 공간 만든다",
+      "body": "Meta Muse가 설명만 듣고 앱형 공간을 만들어 연결 앱 데이터로 갱신한다.",
+      "mini_headline": "Muse, 앱 공간 생성",
+      "tool": "AI Workflow",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
       "accent": "#3b6bff",
-      "motif": "swatch",
+      "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn-images-1.medium.com/max/1024/1*er_HyzWo0FVdfLtEexv7KQ.jpeg",
-            "cap": "AI 시대, 디자인 시스템을 만들고 유지하는 일에서 사람은 무엇을 맡을까? 이미지: Anna Lefour, Gemini 활용."
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=9.1755530835981%2C0%2C89.724178139157%2C74.471659887186&w=2400"
           },
           {
             "t": "p",
-            "x": "Anna Lefour는 디자인 전문가 세 명, Marianne Ashton-Booth(ITV), David Sward(Siemens), Nicolas Chatelain을 만나 AI 때문에 디자인 시스템을 만들고 관리하는 방식이 어떻게 달라지는지 물었다."
+            "x": "이제 Muse 안에서 앱처럼 쓰는 맞춤형 경험을 만들 수 있다. Meta가 내놓은 새 기능 “spaces”에서는 AI 어시스턴트가 쇼핑 허브, 학교 대시보드, 음악 트래커, 퀴즈 게임 같은 것을 만들어 주고, 사용자는 이를 Muse 앱에서 바로 쓴다."
           },
           {
             "t": "p",
-            "x": "AI가 쉬운 일은 자동화해도 어려운 일은 여전히 사람 몫이다. Ashton-Booth는 “누구나 몇 분 만에 프로토타입을 뚝딱 만들 수 있다”고 말한다. 정작 중요한 건 팀 사이의 일관성이고, 디자인 시스템에서 사람이 맡을 일도 바로 그것이다."
+            "x": "Meta 설명으로는 새 스페이스를 만들 때 원하는 것을 설명하기만 하면 된다. Gmail, Google Calendar, OpenTable, Notion 등 Muse와 연동되는 외부 앱을 붙이면 AI 어시스턴트가 그 앱들에서 정보를 계속 끌어와 스페이스 속 가격과 날짜 같은 정보를 백그라운드에서 갱신한다. 체크 표시를 하거나 메모를 달고 고치는 식으로 스페이스 안의 요소를 직접 만질 수도 있다."
           },
           {
             "t": "p",
-            "x": "이제 병목은 제작 속도가 아니라 검토다. David Sward는 “가장 큰 고민은 AI를 쓰는 사람들의 속도를 늦추는 일”이라고 했다."
-          },
-          {
-            "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:700/1*-Qfue98f02kXx1XxjHGXqA.png",
-            "cap": "Kaelig Deloumeau-Prigent 보고서에서 발췌한 자료로, 그가 분석한 시스템별 기능을 보여 준다"
+            "x": "스페이스를 Muse 앱 어디에 둘지도 정할 수 있다. Meta는 스페이스를 사이드바에 두거나 메인 탭으로 올리고, 화면에 뜨는 시점까지 예약하게 했다. Meta는 “예를 들어 주중에는 주간 플래너를 앞에 두고, 토요일에는 주말 계획으로 바꿔 보라”고 설명한다."
           },
           {
             "t": "p",
-            "x": "디자인 시스템을 읽는 쪽은 점점 AI가 된다. Kaelig Deloumeau-Prigent는 2026년 7월 내놓은 현장 연구에서 오픈소스 디자인 시스템 21개를 살폈다. 이 가운데 20개가 MCP 서버(공식 또는 커뮤니티 제작)를 제공했지만 Figma Code Connect를 설정한 곳은 3개뿐이었다."
+            "x": "Meta는 Muse Wonder AI 모델의 새 기능 “Active Memory”와 “Active Focus”를 Muse 앱과 Meta AI 챗봇에 도입한다고도 밝혔다. 덕분에 Muse는 대화 도중 예전 정보가 다시 필요해지는 순간을 알아채고, 목표에 맞춰 더 잘 움직인다."
           },
           {
             "t": "p",
-            "x": "Lefour의 결론은 이렇다. 진실의 원천은 디자인 파일이 아니라 코드로 옮겨 가고 있다."
+            "x": "스페이스는 지금 모든 Muse 사용자에게 배포되는 중이다. Meta는 다른 사용자와 스페이스를 공유해 함께 쓰는 방법도 검토한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "20 of 21 design systems\nship MCP, few Code Connect",
-          "body": "A field study found 20 of 21 open-source design systems ship an MCP server, yet only 3 wire up Figma Code Connect.",
-          "mini_headline": "Design systems bet on MCP",
+          "headline": "Meta's Muse builds custom\napp spaces on request",
+          "body": "Meta's Muse can now build app-like spaces from a plain description, kept live with data from connected apps.",
+          "mini_headline": "Muse builds app spaces",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*er_HyzWo0FVdfLtEexv7KQ.jpeg",
-                "cap": "What is the human role in creating and maintaining a design system in the AI era? Credit: Anna Lefour with Gemini."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=9.1755530835981%2C0%2C89.724178139157%2C74.471659887186&w=2400"
               },
               {
                 "t": "p",
-                "x": "Anna Lefour interviewed three design experts — Marianne Ashton-Booth (ITV), David Sward (Siemens) and Nicolas Chatelain — about how AI is changing the way we build and maintain Design Systems."
+                "x": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called “spaces,” allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app."
               },
               {
                 "t": "p",
-                "x": "AI automates the easy part, but the hard part still belongs to humans: “Anybody can spin up prototypes in minutes,” says Ashton-Booth. What matters is consistency across teams, and that is the human part of a Design System."
+                "x": "Meta says you can create a new space by describing it. If you connect an outside app to Muse — like Gmail, Google Calendar, OpenTable, Notion, and others Muse works with — the AI assistant will continuously pull information from them, allowing it to update pricing, dates, and other information in your space in the background. You can also interact with elements inside your spaces by checking things off, adding notes, and making edits."
               },
               {
                 "t": "p",
-                "x": "The bottleneck has moved from production speed to review. “My biggest problem is trying to slow people down with AI,” David Sward said."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*-Qfue98f02kXx1XxjHGXqA.png",
-                "cap": "This extract of Kaelig Deloumeau-Prigent’s report shows the capabilities of the systems he analysed"
+                "x": "You can also change the placement of your spaces in the Muse app, too, as Meta lets you keep them in the sidebar, move them into your main tab, or schedule when you see them. “For example, keep your weekly planner up front during the workweek, then swap it for your weekend plans on Saturday,” Meta says."
               },
               {
                 "t": "p",
-                "x": "The Design System is becoming something AI reads. In a field study published in July 2026, Kaelig Deloumeau-Prigent looked at 21 open-source Design Systems: 20 of them offer an MCP server (official or community-built), but only 3 have set up Figma Code Connect."
+                "x": "Meta also announced that it’s bringing new “Active Memory” and “Active Focus” capabilities from its Muse Wonder AI model into the Muse app and its Meta AI chatbot. This will allow Muse to understand when past information becomes relevant during conversations, as well as make it better at working toward goals."
               },
               {
                 "t": "p",
-                "x": "Lefour concludes that the code, rather than the design file, is becoming the source of truth."
+                "x": "Meta is rolling out spaces to all Muse users. The company is also looking into ways to share your spaces with other users and collaborate with them."
               }
             ]
           }
         },
         "ko": {
-          "headline": "디자인 시스템 21개 중\n20개가 MCP 지원",
-          "body": "21개 중 20개가 MCP를 갖췄고 Figma Code Connect는 3개뿐이다.",
-          "mini_headline": "MCP로 향하는 디자인 시스템",
+          "headline": "Meta Muse, 말로\n앱 공간 만든다",
+          "body": "Meta Muse가 설명만 듣고 앱형 공간을 만들어 연결 앱 데이터로 갱신한다.",
+          "mini_headline": "Muse, 앱 공간 생성",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*er_HyzWo0FVdfLtEexv7KQ.jpeg",
-                "cap": "AI 시대, 디자인 시스템을 만들고 유지하는 일에서 사람은 무엇을 맡을까? 이미지: Anna Lefour, Gemini 활용."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=9.1755530835981%2C0%2C89.724178139157%2C74.471659887186&w=2400"
               },
               {
                 "t": "p",
-                "x": "Anna Lefour는 디자인 전문가 세 명, Marianne Ashton-Booth(ITV), David Sward(Siemens), Nicolas Chatelain을 만나 AI 때문에 디자인 시스템을 만들고 관리하는 방식이 어떻게 달라지는지 물었다."
+                "x": "이제 Muse 안에서 앱처럼 쓰는 맞춤형 경험을 만들 수 있다. Meta가 내놓은 새 기능 “spaces”에서는 AI 어시스턴트가 쇼핑 허브, 학교 대시보드, 음악 트래커, 퀴즈 게임 같은 것을 만들어 주고, 사용자는 이를 Muse 앱에서 바로 쓴다."
               },
               {
                 "t": "p",
-                "x": "AI가 쉬운 일은 자동화해도 어려운 일은 여전히 사람 몫이다. Ashton-Booth는 “누구나 몇 분 만에 프로토타입을 뚝딱 만들 수 있다”고 말한다. 정작 중요한 건 팀 사이의 일관성이고, 디자인 시스템에서 사람이 맡을 일도 바로 그것이다."
+                "x": "Meta 설명으로는 새 스페이스를 만들 때 원하는 것을 설명하기만 하면 된다. Gmail, Google Calendar, OpenTable, Notion 등 Muse와 연동되는 외부 앱을 붙이면 AI 어시스턴트가 그 앱들에서 정보를 계속 끌어와 스페이스 속 가격과 날짜 같은 정보를 백그라운드에서 갱신한다. 체크 표시를 하거나 메모를 달고 고치는 식으로 스페이스 안의 요소를 직접 만질 수도 있다."
               },
               {
                 "t": "p",
-                "x": "이제 병목은 제작 속도가 아니라 검토다. David Sward는 “가장 큰 고민은 AI를 쓰는 사람들의 속도를 늦추는 일”이라고 했다."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*-Qfue98f02kXx1XxjHGXqA.png",
-                "cap": "Kaelig Deloumeau-Prigent 보고서에서 발췌한 자료로, 그가 분석한 시스템별 기능을 보여 준다"
+                "x": "스페이스를 Muse 앱 어디에 둘지도 정할 수 있다. Meta는 스페이스를 사이드바에 두거나 메인 탭으로 올리고, 화면에 뜨는 시점까지 예약하게 했다. Meta는 “예를 들어 주중에는 주간 플래너를 앞에 두고, 토요일에는 주말 계획으로 바꿔 보라”고 설명한다."
               },
               {
                 "t": "p",
-                "x": "디자인 시스템을 읽는 쪽은 점점 AI가 된다. Kaelig Deloumeau-Prigent는 2026년 7월 내놓은 현장 연구에서 오픈소스 디자인 시스템 21개를 살폈다. 이 가운데 20개가 MCP 서버(공식 또는 커뮤니티 제작)를 제공했지만 Figma Code Connect를 설정한 곳은 3개뿐이었다."
+                "x": "Meta는 Muse Wonder AI 모델의 새 기능 “Active Memory”와 “Active Focus”를 Muse 앱과 Meta AI 챗봇에 도입한다고도 밝혔다. 덕분에 Muse는 대화 도중 예전 정보가 다시 필요해지는 순간을 알아채고, 목표에 맞춰 더 잘 움직인다."
               },
               {
                 "t": "p",
-                "x": "Lefour의 결론은 이렇다. 진실의 원천은 디자인 파일이 아니라 코드로 옮겨 가고 있다."
+                "x": "스페이스는 지금 모든 Muse 사용자에게 배포되는 중이다. Meta는 다른 사용자와 스페이스를 공유해 함께 쓰는 방법도 검토한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "デザインシステム21件中\n20件がMCP対応",
-          "body": "調査では21件中20件がMCPを備え、Figma Code Connectは3件のみだ。",
-          "mini_headline": "デザインシステムはMCPに賭ける",
+          "headline": "MetaのMuse、依頼で\n専用アプリ空間を構築",
+          "body": "MetaのMuseは説明だけでアプリ風スペースを作り、連携アプリのデータで常に最新に保つ。",
+          "mini_headline": "Museがアプリ空間を構築",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*er_HyzWo0FVdfLtEexv7KQ.jpeg",
-                "cap": "AI時代に、デザインシステムの構築と維持で人間が担う役割とは何か。画像:Anna LefourがGeminiで作成。"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=9.1755530835981%2C0%2C89.724178139157%2C74.471659887186&w=2400"
               },
               {
                 "t": "p",
-                "x": "Anna Lefourは、Marianne Ashton-Booth(ITV)、David Sward(Siemens)、Nicolas Chatelainという三人のデザイン専門家に、AIがデザインシステムの構築と維持のあり方をどう変えているかを聞いた。"
+                "x": "Metaは、Muse内でカスタマイズされたアプリのような体験を構築できるようにする。「spaces」と呼ばれる新機能では、AIアシスタントがショッピングハブ、学校用ダッシュボード、音楽トラッカー、トリビアゲームなどを構築し、ユーザーはそれらをMuseアプリ内で直接操作できる。"
               },
               {
                 "t": "p",
-                "x": "AIは簡単な部分を自動化するが、難しい部分は依然として人間の仕事だ。「誰でも数分でプロトタイプを立ち上げられる」とAshton-Boothは言う。重要なのはチーム間の一貫性であり、それこそがデザインシステムの人間的な部分である。"
+                "x": "Metaによれば、新しいスペースは説明するだけで作成できる。Gmail、Google Calendar、OpenTable、NotionなどMuseが対応する外部アプリを接続すると、AIアシスタントがそれらから継続的に情報を取得し、スペース内の価格や日付などの情報をバックグラウンドで更新する。スペース内の要素にチェックを入れたり、メモを追加したり、編集したりして直接操作することもできる。"
               },
               {
                 "t": "p",
-                "x": "ボトルネックは制作スピードからレビューへと移った。「一番の悩みは、AIを使う人たちのペースを落とさせることだ」とDavid Swardは語った。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*-Qfue98f02kXx1XxjHGXqA.png",
-                "cap": "Kaelig Deloumeau-Prigentのレポートからの抜粋。彼が分析したシステムの機能を示している"
+                "x": "Museアプリ内でのスペースの配置も変更できる。Metaはスペースをサイドバーに置く、メインタブに移す、表示するタイミングをスケジュールする、といった選択肢を用意している。「たとえば平日は週間プランナーを前面に置き、土曜日には週末の予定に切り替える」とMetaは説明する。"
               },
               {
                 "t": "p",
-                "x": "デザインシステムはAIが読み込むものになりつつある。Kaelig Deloumeau-Prigentは2026年7月に公開した実地調査で、オープンソースのデザインシステム21件を調べた。そのうち20件がMCPサーバー(公式またはコミュニティ製)を提供しているが、Figma Code Connectを設定しているのは3件にとどまる。"
+                "x": "Metaはまた、Muse Wonder AIモデルの新機能「Active Memory」と「Active Focus」をMuseアプリとMeta AIチャットボットに導入すると発表した。これによりMuseは、会話の中で過去の情報が関係してくるタイミングを理解し、目標に向けた作業もより上手にこなせるようになる。"
               },
               {
                 "t": "p",
-                "x": "Lefourは、デザインファイルではなくコードこそが信頼できる唯一の情報源になりつつあると結論づけている。"
+                "x": "Metaはすべての Museユーザーにスペースを順次提供している。同社は、スペースを他のユーザーと共有し、共同作業する方法も検討している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "21个设计系统20个有MCP\nCode Connect寥寥",
-          "body": "21个开源设计系统中20个提供MCP，仅3个接入Figma Code Connect。",
-          "mini_headline": "设计系统押注MCP",
+          "headline": "Meta的Muse可按需\n搭建定制应用空间",
+          "body": "Meta的Muse现可根据简单描述搭建类应用空间，并用已连接应用的数据实时更新。",
+          "mini_headline": "Muse搭建应用空间",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*er_HyzWo0FVdfLtEexv7KQ.jpeg",
-                "cap": "在AI时代，人在创建和维护设计系统中扮演什么角色？图片：Anna Lefour借助Gemini制作。"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=9.1755530835981%2C0%2C89.724178139157%2C74.471659887186&w=2400"
               },
               {
                 "t": "p",
-                "x": "Anna Lefour采访了三位设计专家——Marianne Ashton-Booth（ITV）、David Sward（Siemens）和Nicolas Chatelain，探讨AI如何改变我们构建和维护设计系统的方式。"
+                "x": "Meta 现在允许用户在 Muse 中构建定制化、类似应用的体验。这项名为“spaces”的新功能可让其 AI 助手构建购物中心、学校仪表盘、音乐追踪器、知识问答游戏等内容，用户可以直接在 Muse 应用中与之互动。"
               },
               {
                 "t": "p",
-                "x": "AI把简单的部分自动化了，但难的部分仍属于人类。Ashton-Booth说：“任何人都能在几分钟内搭出原型。”重要的是跨团队的一致性，而这正是设计系统中属于人的部分。"
+                "x": "Meta 表示，只需描述即可创建新的空间。如果将外部应用连接到 Muse——例如 Gmail、Google Calendar、OpenTable、Notion 以及其他 Muse 支持的应用——AI 助手会持续从中获取信息，在后台更新空间中的价格、日期等信息。用户还可以通过勾选事项、添加备注和编辑等方式，与空间内的元素互动。"
               },
               {
                 "t": "p",
-                "x": "瓶颈已从生产速度转移到评审。David Sward说：“我最大的问题是设法让用AI的人慢下来。”"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*-Qfue98f02kXx1XxjHGXqA.png",
-                "cap": "这份摘自Kaelig Deloumeau-Prigent报告的内容展示了他所分析系统的能力"
+                "x": "用户也可以调整空间在 Muse 应用中的位置：Meta 允许把它们放在侧边栏、移到主标签页，或设定显示时间。“例如，工作日把每周计划放在最前面，周六再换成周末计划，”Meta 表示。"
               },
               {
                 "t": "p",
-                "x": "设计系统正在变成AI读取的对象。在2026年7月发表的一项实地研究中，Kaelig Deloumeau-Prigent考察了21个开源设计系统：其中20个提供MCP服务器（官方或社区构建），但只有3个配置了Figma Code Connect。"
+                "x": "Meta 还宣布，将把 Muse Wonder AI 模型中新的“Active Memory”和“Active Focus”能力引入 Muse 应用及其 Meta AI 聊天机器人。这将让 Muse 能够理解过去的信息何时在对话中变得相关，并更好地朝目标推进工作。"
               },
               {
                 "t": "p",
-                "x": "Lefour总结道，正在成为唯一事实来源的是代码，而非设计文件。"
+                "x": "Meta 正在向所有 Muse 用户推出空间功能。该公司也在研究如何让用户与他人共享空间并协作。"
               }
             ]
           }
         },
         "es": {
-          "headline": "20 de 21 sistemas de diseño\nusan MCP; pocos, Code Connect",
-          "body": "Un estudio halló que 20 de 21 sistemas de diseño abiertos tienen servidor MCP, pero solo 3 usan Figma Code Connect.",
-          "mini_headline": "Los sistemas de diseño apuestan por MCP",
+          "headline": "Muse de Meta crea espacios\nde apps a medida bajo pedido",
+          "body": "Muse de Meta puede crear espacios tipo app desde una descripción, actualizados con datos de apps conectadas.",
+          "mini_headline": "Muse crea espacios de apps",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*er_HyzWo0FVdfLtEexv7KQ.jpeg",
-                "cap": "¿Cuál es el papel humano en la creación y el mantenimiento de un sistema de diseño en la era de la AI? Crédito: Anna Lefour con Gemini."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=9.1755530835981%2C0%2C89.724178139157%2C74.471659887186&w=2400"
               },
               {
                 "t": "p",
-                "x": "Anna Lefour entrevistó a tres expertos en diseño —Marianne Ashton-Booth (ITV), David Sward (Siemens) y Nicolas Chatelain— sobre cómo la AI está cambiando la forma en que construimos y mantenemos los sistemas de diseño."
+                "x": "Meta permitirá crear experiencias personalizadas, similares a apps, dentro de Muse. La nueva función, llamada “spaces”, permite que su asistente de AI cree cosas como un centro de compras, un panel escolar, un registro de música, un juego de trivia y más, con los que se puede interactuar directamente en la app de Muse."
               },
               {
                 "t": "p",
-                "x": "La AI automatiza la parte fácil, pero la difícil sigue correspondiendo a las personas: “Cualquiera puede montar prototipos en minutos”, dice Ashton-Booth. Lo que importa es la coherencia entre equipos, y esa es la parte humana de un sistema de diseño."
+                "x": "Meta afirma que se puede crear un nuevo espacio con solo describirlo. Si se conecta una app externa a Muse —como Gmail, Google Calendar, OpenTable, Notion y otras compatibles con Muse—, el asistente de AI extraerá información de ellas de forma continua, lo que le permite actualizar precios, fechas y otros datos del espacio en segundo plano. También se puede interactuar con los elementos de los espacios marcando tareas, añadiendo notas y haciendo cambios."
               },
               {
                 "t": "p",
-                "x": "El cuello de botella ha pasado de la velocidad de producción a la revisión. “Mi mayor problema es intentar que la gente vaya más despacio con la AI”, dijo David Sward."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*-Qfue98f02kXx1XxjHGXqA.png",
-                "cap": "Este extracto del informe de Kaelig Deloumeau-Prigent muestra las capacidades de los sistemas que analizó"
+                "x": "También es posible cambiar la ubicación de los espacios en la app de Muse, ya que Meta permite mantenerlos en la barra lateral, moverlos a la pestaña principal o programar cuándo se ven. “Por ejemplo, mantén tu planificador semanal al frente durante la semana laboral y cámbialo por tus planes de fin de semana el sábado”, explica Meta."
               },
               {
                 "t": "p",
-                "x": "El sistema de diseño se está convirtiendo en algo que la AI lee. En un estudio de campo publicado en julio de 2026, Kaelig Deloumeau-Prigent examinó 21 sistemas de diseño de código abierto: 20 ofrecen un servidor MCP (oficial o creado por la comunidad), pero solo 3 han configurado Figma Code Connect."
+                "x": "Meta también anunció que llevará las nuevas capacidades “Active Memory” y “Active Focus” de su modelo Muse Wonder AI a la app de Muse y a su chatbot Meta AI. Esto permitirá a Muse entender cuándo la información pasada se vuelve relevante durante las conversaciones y trabajar mejor para alcanzar objetivos."
               },
               {
                 "t": "p",
-                "x": "Lefour concluye que el código, más que el archivo de diseño, se está convirtiendo en la fuente de verdad."
+                "x": "Meta está desplegando los espacios para todos los usuarios de Muse. La compañía también estudia formas de compartir los espacios con otros usuarios y colaborar con ellos."
               }
             ]
           }
@@ -1651,161 +1393,449 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "디자인 시스템 21개 중\n20개가 MCP 지원",
-          "body": "21개 중 20개가 MCP를, 3개만 Figma Code Connect를 갖췄다.",
-          "mini_headline": "MCP에 거는 디자인 시스템",
+          "headline": "Meta Muse, 요청에\n맞춘 앱 공간 생성",
+          "body": "Meta Muse는 설명만으로 앱형 공간을 만들고 연결 앱 데이터로 갱신한다.",
+          "mini_headline": "Muse, 앱 공간 생성",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*er_HyzWo0FVdfLtEexv7KQ.jpeg",
-                "cap": "AI 시대에 디자인 시스템을 만들고 유지하는 데 사람의 역할은 무엇일까? 이미지: Anna Lefour, Gemini 활용."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=9.1755530835981%2C0%2C89.724178139157%2C74.471659887186&w=2400"
               },
               {
                 "t": "p",
-                "x": "Anna Lefour는 디자인 전문가 세 명, Marianne Ashton-Booth(ITV), David Sward(Siemens), Nicolas Chatelain을 인터뷰해 AI가 디자인 시스템을 만들고 유지하는 방식을 어떻게 바꾸고 있는지 물었다."
+                "x": "Meta가 이제 Muse 안에서 맞춤형 앱 같은 경험을 만들 수 있게 한다. “spaces”라는 새 기능으로 AI 어시스턴트가 쇼핑 허브, 학교 대시보드, 음악 트래커, 퀴즈 게임 등을 만들고, 사용자는 이를 Muse 앱에서 바로 다룰 수 있다."
               },
               {
                 "t": "p",
-                "x": "AI는 쉬운 부분을 자동화하지만 어려운 부분은 여전히 사람의 몫이다. Ashton-Booth는 “누구나 몇 분 만에 프로토타입을 뚝딱 만들 수 있다”고 말한다. 중요한 것은 팀 간의 일관성이며, 그것이 디자인 시스템에서 사람이 맡는 부분이다."
+                "x": "Meta에 따르면 새 스페이스는 설명만으로 만들 수 있다. Gmail, Google Calendar, OpenTable, Notion 등 Muse와 연동되는 외부 앱을 연결하면 AI 어시스턴트가 이들 앱에서 정보를 계속 가져와 스페이스 속 가격, 날짜 등 정보를 백그라운드에서 갱신한다. 스페이스 안의 요소에 체크 표시를 하거나 메모를 더하고 수정하는 식으로 직접 다룰 수도 있다."
               },
               {
                 "t": "p",
-                "x": "병목은 제작 속도에서 검토로 옮겨갔다. David Sward는 “가장 큰 고민은 AI를 쓰는 사람들의 속도를 늦추는 일”이라고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*-Qfue98f02kXx1XxjHGXqA.png",
-                "cap": "Kaelig Deloumeau-Prigent의 보고서에서 발췌한 이 자료는 그가 분석한 시스템들의 기능을 보여준다"
+                "x": "Muse 앱에서 스페이스의 위치도 바꿀 수 있다. Meta는 스페이스를 사이드바에 두거나 메인 탭으로 옮기거나, 보이는 시점을 예약할 수 있게 했다. Meta는 “예를 들어 주중에는 주간 플래너를 앞에 두고, 토요일에는 주말 계획으로 바꿔 보라”고 설명한다."
               },
               {
                 "t": "p",
-                "x": "디자인 시스템은 AI가 읽는 대상이 되어 가고 있다. Kaelig Deloumeau-Prigent는 2026년 7월 발표한 현장 연구에서 오픈소스 디자인 시스템 21개를 살펴봤다. 이 가운데 20개가 MCP 서버(공식 또는 커뮤니티 제작)를 제공하지만, Figma Code Connect를 설정한 곳은 3개뿐이다."
+                "x": "Meta는 Muse Wonder AI 모델의 새 기능 “Active Memory”와 “Active Focus”를 Muse 앱과 Meta AI 챗봇에 도입한다고도 밝혔다. 이로써 Muse는 대화 중 과거 정보가 언제 다시 중요해지는지 파악하고, 목표를 향해 더 잘 작업하게 된다."
               },
               {
                 "t": "p",
-                "x": "Lefour는 디자인 파일이 아니라 코드가 진실의 원천이 되어 가고 있다고 결론짓는다."
+                "x": "Meta는 모든 Muse 사용자에게 스페이스를 배포하고 있다. 회사는 스페이스를 다른 사용자와 공유하고 함께 작업하는 방법도 검토하고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "デザインシステム21件中\n20件がMCP対応",
-          "body": "調査では21件中20件がMCPを備え、Figma Code Connectは3件のみだ。",
-          "mini_headline": "デザインシステムはMCPに賭ける",
+          "headline": "MetaのMuse、依頼で\n専用アプリ空間を構築",
+          "body": "MetaのMuseは説明だけでアプリ風スペースを作り、連携アプリのデータで常に最新に保つ。",
+          "mini_headline": "Museがアプリ空間を構築",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*er_HyzWo0FVdfLtEexv7KQ.jpeg",
-                "cap": "AI時代に、デザインシステムの構築と維持で人間が担う役割とは何か。画像:Anna LefourがGeminiで作成。"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=9.1755530835981%2C0%2C89.724178139157%2C74.471659887186&w=2400"
               },
               {
                 "t": "p",
-                "x": "Anna Lefourは、Marianne Ashton-Booth(ITV)、David Sward(Siemens)、Nicolas Chatelainという三人のデザイン専門家に、AIがデザインシステムの構築と維持のあり方をどう変えているかを聞いた。"
+                "x": "Metaは、Muse内でカスタマイズされたアプリのような体験を構築できるようにする。「spaces」と呼ばれる新機能では、AIアシスタントがショッピングハブ、学校用ダッシュボード、音楽トラッカー、トリビアゲームなどを構築し、ユーザーはそれらをMuseアプリ内で直接操作できる。"
               },
               {
                 "t": "p",
-                "x": "AIは簡単な部分を自動化するが、難しい部分は依然として人間の仕事だ。「誰でも数分でプロトタイプを立ち上げられる」とAshton-Boothは言う。重要なのはチーム間の一貫性であり、それこそがデザインシステムの人間的な部分である。"
+                "x": "Metaによれば、新しいスペースは説明するだけで作成できる。Gmail、Google Calendar、OpenTable、NotionなどMuseが対応する外部アプリを接続すると、AIアシスタントがそれらから継続的に情報を取得し、スペース内の価格や日付などの情報をバックグラウンドで更新する。スペース内の要素にチェックを入れたり、メモを追加したり、編集したりして直接操作することもできる。"
               },
               {
                 "t": "p",
-                "x": "ボトルネックは制作スピードからレビューへと移った。「一番の悩みは、AIを使う人たちのペースを落とさせることだ」とDavid Swardは語った。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*-Qfue98f02kXx1XxjHGXqA.png",
-                "cap": "Kaelig Deloumeau-Prigentのレポートからの抜粋。彼が分析したシステムの機能を示している"
+                "x": "Museアプリ内でのスペースの配置も変更できる。Metaはスペースをサイドバーに置く、メインタブに移す、表示するタイミングをスケジュールする、といった選択肢を用意している。「たとえば平日は週間プランナーを前面に置き、土曜日には週末の予定に切り替える」とMetaは説明する。"
               },
               {
                 "t": "p",
-                "x": "デザインシステムはAIが読み込むものになりつつある。Kaelig Deloumeau-Prigentは2026年7月に公開した実地調査で、オープンソースのデザインシステム21件を調べた。そのうち20件がMCPサーバー(公式またはコミュニティ製)を提供しているが、Figma Code Connectを設定しているのは3件にとどまる。"
+                "x": "Metaはまた、Muse Wonder AIモデルの新機能「Active Memory」と「Active Focus」をMuseアプリとMeta AIチャットボットに導入すると発表した。これによりMuseは、会話の中で過去の情報が関係してくるタイミングを理解し、目標に向けた作業もより上手にこなせるようになる。"
               },
               {
                 "t": "p",
-                "x": "Lefourは、デザインファイルではなくコードこそが信頼できる唯一の情報源になりつつあると結論づけている。"
+                "x": "Metaはすべての Museユーザーにスペースを順次提供している。同社は、スペースを他のユーザーと共有し、共同作業する方法も検討している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "21个设计系统20个有MCP\nCode Connect寥寥",
-          "body": "21个开源设计系统中20个提供MCP，仅3个接入Figma Code Connect。",
-          "mini_headline": "设计系统押注MCP",
+          "headline": "Meta的Muse可按需\n搭建定制应用空间",
+          "body": "Meta的Muse现可根据简单描述搭建类应用空间，并用已连接应用的数据实时更新。",
+          "mini_headline": "Muse搭建应用空间",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*er_HyzWo0FVdfLtEexv7KQ.jpeg",
-                "cap": "在AI时代，人在创建和维护设计系统中扮演什么角色？图片：Anna Lefour借助Gemini制作。"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=9.1755530835981%2C0%2C89.724178139157%2C74.471659887186&w=2400"
               },
               {
                 "t": "p",
-                "x": "Anna Lefour采访了三位设计专家——Marianne Ashton-Booth（ITV）、David Sward（Siemens）和Nicolas Chatelain，探讨AI如何改变我们构建和维护设计系统的方式。"
+                "x": "Meta 现在允许用户在 Muse 中构建定制化、类似应用的体验。这项名为“spaces”的新功能可让其 AI 助手构建购物中心、学校仪表盘、音乐追踪器、知识问答游戏等内容，用户可以直接在 Muse 应用中与之互动。"
               },
               {
                 "t": "p",
-                "x": "AI把简单的部分自动化了，但难的部分仍属于人类。Ashton-Booth说：“任何人都能在几分钟内搭出原型。”重要的是跨团队的一致性，而这正是设计系统中属于人的部分。"
+                "x": "Meta 表示，只需描述即可创建新的空间。如果将外部应用连接到 Muse——例如 Gmail、Google Calendar、OpenTable、Notion 以及其他 Muse 支持的应用——AI 助手会持续从中获取信息，在后台更新空间中的价格、日期等信息。用户还可以通过勾选事项、添加备注和编辑等方式，与空间内的元素互动。"
               },
               {
                 "t": "p",
-                "x": "瓶颈已从生产速度转移到评审。David Sward说：“我最大的问题是设法让用AI的人慢下来。”"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*-Qfue98f02kXx1XxjHGXqA.png",
-                "cap": "这份摘自Kaelig Deloumeau-Prigent报告的内容展示了他所分析系统的能力"
+                "x": "用户也可以调整空间在 Muse 应用中的位置：Meta 允许把它们放在侧边栏、移到主标签页，或设定显示时间。“例如，工作日把每周计划放在最前面，周六再换成周末计划，”Meta 表示。"
               },
               {
                 "t": "p",
-                "x": "设计系统正在变成AI读取的对象。在2026年7月发表的一项实地研究中，Kaelig Deloumeau-Prigent考察了21个开源设计系统：其中20个提供MCP服务器（官方或社区构建），但只有3个配置了Figma Code Connect。"
+                "x": "Meta 还宣布，将把 Muse Wonder AI 模型中新的“Active Memory”和“Active Focus”能力引入 Muse 应用及其 Meta AI 聊天机器人。这将让 Muse 能够理解过去的信息何时在对话中变得相关，并更好地朝目标推进工作。"
               },
               {
                 "t": "p",
-                "x": "Lefour总结道，正在成为唯一事实来源的是代码，而非设计文件。"
+                "x": "Meta 正在向所有 Muse 用户推出空间功能。该公司也在研究如何让用户与他人共享空间并协作。"
               }
             ]
           }
         },
         "es": {
-          "headline": "20 de 21 sistemas de diseño\nusan MCP; pocos, Code Connect",
-          "body": "Un estudio halló que 20 de 21 sistemas de diseño abiertos tienen servidor MCP, pero solo 3 usan Figma Code Connect.",
-          "mini_headline": "Los sistemas de diseño apuestan por MCP",
+          "headline": "Muse de Meta crea espacios\nde apps a medida bajo pedido",
+          "body": "Muse de Meta puede crear espacios tipo app desde una descripción, actualizados con datos de apps conectadas.",
+          "mini_headline": "Muse crea espacios de apps",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=9.1755530835981%2C0%2C89.724178139157%2C74.471659887186&w=2400"
+              },
+              {
+                "t": "p",
+                "x": "Meta permitirá crear experiencias personalizadas, similares a apps, dentro de Muse. La nueva función, llamada “spaces”, permite que su asistente de AI cree cosas como un centro de compras, un panel escolar, un registro de música, un juego de trivia y más, con los que se puede interactuar directamente en la app de Muse."
+              },
+              {
+                "t": "p",
+                "x": "Meta afirma que se puede crear un nuevo espacio con solo describirlo. Si se conecta una app externa a Muse —como Gmail, Google Calendar, OpenTable, Notion y otras compatibles con Muse—, el asistente de AI extraerá información de ellas de forma continua, lo que le permite actualizar precios, fechas y otros datos del espacio en segundo plano. También se puede interactuar con los elementos de los espacios marcando tareas, añadiendo notas y haciendo cambios."
+              },
+              {
+                "t": "p",
+                "x": "También es posible cambiar la ubicación de los espacios en la app de Muse, ya que Meta permite mantenerlos en la barra lateral, moverlos a la pestaña principal o programar cuándo se ven. “Por ejemplo, mantén tu planificador semanal al frente durante la semana laboral y cámbialo por tus planes de fin de semana el sábado”, explica Meta."
+              },
+              {
+                "t": "p",
+                "x": "Meta también anunció que llevará las nuevas capacidades “Active Memory” y “Active Focus” de su modelo Muse Wonder AI a la app de Muse y a su chatbot Meta AI. Esto permitirá a Muse entender cuándo la información pasada se vuelve relevante durante las conversaciones y trabajar mejor para alcanzar objetivos."
+              },
+              {
+                "t": "p",
+                "x": "Meta está desplegando los espacios para todos los usuarios de Muse. La compañía también estudia formas de compartir los espacios con otros usuarios y colaborar con ellos."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "theo-opus-ui-hillclimb",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Claude Opus로 한\nTheo의 UI 힐클라이밍",
+      "body": "Theo가 Claude Opus로 UI를 AI 평가 10점 중 아홉까지 올렸다.",
+      "mini_headline": "에이전트 UI 힐클라이밍",
+      "tool": "Social",
+      "source": "Theo - t3.gg (YouTube)",
+      "url": "https://www.youtube.com/watch?v=xq0eB8vxeqk",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "xq0eB8vxeqk"
+          },
+          {
+            "t": "p",
+            "x": "에이전트에게 디자인을 제대로 시켜 볼 차례다. Opus가 마침내 내가 원하던 걸 내놓기까지 어떻게 힐클라이밍을 돌렸는지 하나씩 풀어 본다."
+          },
+          {
+            "t": "p",
+            "x": "Theo는 디자이너도, 별도 스킬도 없이 T3 Code의 UI 다듬기를 힐클라이밍 문제로 바꿔 풀기로 했다. 모델 다섯 개로 약 18시간 동안 30회 넘게 리뷰를 돌린 끝에, 실제 제품에 쓸 만한 UI를 에이전트에게서 뽑아내는 공식을 찾았다고 한다."
+          },
+          {
+            "t": "p",
+            "x": "그는 /goal을 입력하고 에이전트에게 UI 다듬기 PR을 계속 반복하라고 했다. 리뷰 모델 “심사단”인 Opus 5.5, Muse Wonderful, Codex GPT 6.1이 앱 스크린샷에 10점 만점에 최소 아홉 점을 줄 때까지다. 첫 라운드는 실패했다. 두 번째 라운드에서 Opus는 여섯 점에서 여덟 점으로 올랐고, 세 번째에는 심사 모델 모두가 아홉 점을 줬다."
+          },
+          {
+            "t": "p",
+            "x": "바뀐 건 미묘하다. 새 대체 글꼴, 더 분명해진 스레드 제목, 읽기 쉬운 브랜치 이름, 둥글린 카드 모서리, 한결 부드러워진 인라인 코드 정도다. 새 디자인은 T3 Code 베타 탭의 설정에 있다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Theo makes Claude Opus\nhill climb on UI output",
+          "body": "Theo shows how he made Claude Opus hill climb on UI until a council of AI models rated the app's design nine out of 10.",
+          "mini_headline": "Hill climbing agent UI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*er_HyzWo0FVdfLtEexv7KQ.jpeg",
-                "cap": "¿Cuál es el papel humano en la creación y el mantenimiento de un sistema de diseño en la era de la AI? Crédito: Anna Lefour con Gemini."
+                "t": "video",
+                "yt": "xq0eB8vxeqk"
               },
               {
                 "t": "p",
-                "x": "Anna Lefour entrevistó a tres expertos en diseño —Marianne Ashton-Booth (ITV), David Sward (Siemens) y Nicolas Chatelain— sobre cómo la AI está cambiando la forma en que construimos y mantenemos los sistemas de diseño."
+                "x": "It’s time to make agents good at design, so let’s breakdown how I made Opus hill climb till it finally was making what I wanted it to."
               },
               {
                 "t": "p",
-                "x": "La AI automatiza la parte fácil, pero la difícil sigue correspondiendo a las personas: “Cualquiera puede montar prototipos en minutos”, dice Ashton-Booth. Lo que importa es la coherencia entre equipos, y esa es la parte humana de un sistema de diseño."
+                "x": "Theo set out to give T3 Code a UI pass without a designer or extra skills, by turning it into a hill climb: after about 18 hours across five models and 30-plus rounds of reviews, he says he found a formula that can get good UI for real-world products out of an agent."
               },
               {
                 "t": "p",
-                "x": "El cuello de botella ha pasado de la velocidad de producción a la revisión. “Mi mayor problema es intentar que la gente vaya más despacio con la AI”, dijo David Sward."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*-Qfue98f02kXx1XxjHGXqA.png",
-                "cap": "Este extracto del informe de Kaelig Deloumeau-Prigent muestra las capacidades de los sistemas que analizó"
+                "x": "He typed /goal and told the agent to keep iterating on a UI polish PR until a “council” of reviewer models — Opus 5.5, Muse Wonderful and Codex GPT 6.1 — rated screenshots of the app at least nine out of 10. Round one bombed; in round two Opus went from a six to an eight; by round three every reviewer gave it a nine."
               },
               {
                 "t": "p",
-                "x": "El sistema de diseño se está convirtiendo en algo que la AI lee. En un estudio de campo publicado en julio de 2026, Kaelig Deloumeau-Prigent examinó 21 sistemas de diseño de código abierto: 20 ofrecen un servidor MCP (oficial o creado por la comunidad), pero solo 3 han configurado Figma Code Connect."
+                "x": "The changes were subtle: a new fallback font, clearer thread titles, readable branch names, card radius and softer inline code. The new design is a setting in the T3 Code beta tab."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Claude Opus로 한\nTheo의 UI 힐클라이밍",
+          "body": "Theo가 Claude Opus로 UI를 AI 평가 10점 중 아홉까지 올렸다.",
+          "mini_headline": "에이전트 UI 힐클라이밍",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "xq0eB8vxeqk"
               },
               {
                 "t": "p",
-                "x": "Lefour concluye que el código, más que el archivo de diseño, se está convirtiendo en la fuente de verdad."
+                "x": "에이전트에게 디자인을 제대로 시켜 볼 차례다. Opus가 마침내 내가 원하던 걸 내놓기까지 어떻게 힐클라이밍을 돌렸는지 하나씩 풀어 본다."
+              },
+              {
+                "t": "p",
+                "x": "Theo는 디자이너도, 별도 스킬도 없이 T3 Code의 UI 다듬기를 힐클라이밍 문제로 바꿔 풀기로 했다. 모델 다섯 개로 약 18시간 동안 30회 넘게 리뷰를 돌린 끝에, 실제 제품에 쓸 만한 UI를 에이전트에게서 뽑아내는 공식을 찾았다고 한다."
+              },
+              {
+                "t": "p",
+                "x": "그는 /goal을 입력하고 에이전트에게 UI 다듬기 PR을 계속 반복하라고 했다. 리뷰 모델 “심사단”인 Opus 5.5, Muse Wonderful, Codex GPT 6.1이 앱 스크린샷에 10점 만점에 최소 아홉 점을 줄 때까지다. 첫 라운드는 실패했다. 두 번째 라운드에서 Opus는 여섯 점에서 여덟 점으로 올랐고, 세 번째에는 심사 모델 모두가 아홉 점을 줬다."
+              },
+              {
+                "t": "p",
+                "x": "바뀐 건 미묘하다. 새 대체 글꼴, 더 분명해진 스레드 제목, 읽기 쉬운 브랜치 이름, 둥글린 카드 모서리, 한결 부드러워진 인라인 코드 정도다. 새 디자인은 T3 Code 베타 탭의 설정에 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Claude Opusで挑む\nTheoのUIヒルクライム",
+          "body": "TheoはClaude OpusにUIを改善させ、AI審査団から10点中九点の評価を得た。",
+          "mini_headline": "エージェントUIのヒルクライム",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "xq0eB8vxeqk"
+              },
+              {
+                "t": "p",
+                "x": "エージェントをデザインに強くする時が来た。そこで、Opusが最終的に私の望むものを作れるようになるまで、どうヒルクライムさせたかを解説する。"
+              },
+              {
+                "t": "p",
+                "x": "Theoは、デザイナーや追加のスキルなしでT3 CodeのUIを磨くため、作業をヒルクライムに変えた。五つのモデルで約18時間、30回以上のレビューを重ねた結果、エージェントから実際の製品に使える良いUIを引き出す方法を見つけたという。"
+              },
+              {
+                "t": "p",
+                "x": "彼は/goalと入力し、レビュー役のモデルによる「評議会」——Opus 5.5、Muse Wonderful、Codex GPT 6.1——がアプリのスクリーンショットを10点中九点以上と評価するまで、UI改善のPRを繰り返すようエージェントに指示した。第一ラウンドは失敗し、第二ラウンドでOpusは六点から八点に上がり、第三ラウンドでは全レビュアーが九点をつけた。"
+              },
+              {
+                "t": "p",
+                "x": "変更は控えめだ。新しいフォールバックフォント、より明確なスレッドタイトル、読みやすいブランチ名、カードの角丸、柔らかくなったインラインコードである。新デザインはT3 Codeのベータタブにある設定で選べる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Theo让Claude\nOpus爬坡式优化UI",
+          "body": "Theo让Claude Opus爬坡优化UI，直到AI评审团打出10分中的九分。",
+          "mini_headline": "智能体UI爬坡优化",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "xq0eB8vxeqk"
+              },
+              {
+                "t": "p",
+                "x": "是时候让智能体擅长设计了，下面拆解我是如何让 Opus 不断爬坡优化，直到它终于做出我想要的东西。"
+              },
+              {
+                "t": "p",
+                "x": "Theo 想在没有设计师、也不借助额外技能的情况下为 T3 Code 打磨一遍 UI，于是把它变成了一次爬坡优化：在五个模型上花了约 18 小时、经过 30 多轮评审后，他说自己找到了一套能让智能体为真实产品做出好 UI 的方法。"
+              },
+              {
+                "t": "p",
+                "x": "他输入 /goal，让智能体不断迭代一个 UI 打磨 PR，直到由 Opus 5.5、Muse Wonderful 和 Codex GPT 6.1 组成的评审模型“委员会”给应用截图打出至少九分（满分 10 分）。第一轮失败；第二轮 Opus 从六分升到八分；到第三轮，每位评审都给出了九分。"
+              },
+              {
+                "t": "p",
+                "x": "改动很细微：新的后备字体、更清晰的线程标题、易读的分支名称、卡片圆角，以及更柔和的行内代码。新设计是 T3 Code 测试版标签页中的一项设置。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Theo pone a Claude Opus\na hacer hill climbing en UI",
+          "body": "Theo muestra cómo hizo que Claude Opus mejorara la UI hasta que un consejo de modelos de AI le diera nueve de 10.",
+          "mini_headline": "Hill climbing de UI con agentes",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "xq0eB8vxeqk"
+              },
+              {
+                "t": "p",
+                "x": "Es hora de hacer que los agentes sean buenos en diseño, así que voy a explicar cómo hice que Opus hiciera hill climbing hasta que por fin creó lo que yo quería."
+              },
+              {
+                "t": "p",
+                "x": "Theo se propuso darle una pasada a la UI de T3 Code sin diseñador ni skills adicionales, convirtiéndolo en un hill climb: tras unas 18 horas con cinco modelos y más de 30 rondas de revisiones, dice que encontró una fórmula para obtener de un agente una buena UI para productos reales."
+              },
+              {
+                "t": "p",
+                "x": "Escribió /goal y le pidió al agente que siguiera iterando un PR de pulido de UI hasta que un “consejo” de modelos revisores —Opus 5.5, Muse Wonderful y Codex GPT 6.1— calificara las capturas de la app con al menos nueve de 10. La primera ronda fracasó; en la segunda, Opus pasó de seis a ocho; en la tercera, todos los revisores le dieron un nueve."
+              },
+              {
+                "t": "p",
+                "x": "Los cambios fueron sutiles: una nueva fuente de respaldo, títulos de hilo más claros, nombres de rama legibles, radio de las tarjetas y un código en línea más suave. El nuevo diseño es un ajuste en la pestaña beta de T3 Code."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Claude Opus로 한\nTheo의 UI 힐클라이밍",
+          "body": "Theo가 Claude Opus로 UI를 AI 평가 10점 중 아홉까지 올렸다.",
+          "mini_headline": "에이전트 UI 힐클라이밍",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "xq0eB8vxeqk"
+              },
+              {
+                "t": "p",
+                "x": "이제 에이전트가 디자인을 잘하게 만들 때다. Opus가 마침내 내가 원하던 것을 만들 때까지 어떻게 힐클라이밍하게 했는지 하나씩 풀어본다."
+              },
+              {
+                "t": "p",
+                "x": "Theo는 디자이너나 추가 스킬 없이 T3 Code의 UI를 다듬는 작업을 힐클라이밍으로 바꿔 풀어보기로 했다. 다섯 개 모델로 약 18시간, 30회 이상의 리뷰를 거친 끝에 실제 제품에 쓸 만한 UI를 에이전트에게서 끌어내는 공식을 찾았다고 그는 말한다."
+              },
+              {
+                "t": "p",
+                "x": "그는 /goal을 입력하고, 리뷰 모델 “심사단”인 Opus 5.5, Muse Wonderful, Codex GPT 6.1이 앱 스크린샷에 10점 만점에 최소 아홉 점을 줄 때까지 UI 다듬기 PR을 계속 반복하라고 에이전트에 지시했다. 첫 라운드는 실패였다. 두 번째 라운드에서 Opus는 여섯 점에서 여덟 점으로 올랐고, 세 번째 라운드에서는 모든 심사 모델이 아홉 점을 줬다."
+              },
+              {
+                "t": "p",
+                "x": "변화는 미묘했다. 새 대체 글꼴, 더 명확한 스레드 제목, 읽기 쉬운 브랜치 이름, 카드 모서리 둥글기, 한결 부드러운 인라인 코드다. 새 디자인은 T3 Code 베타 탭의 설정에 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Claude Opusで挑む\nTheoのUIヒルクライム",
+          "body": "TheoはClaude OpusにUIを改善させ、AI審査団から10点中九点の評価を得た。",
+          "mini_headline": "エージェントUIのヒルクライム",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "xq0eB8vxeqk"
+              },
+              {
+                "t": "p",
+                "x": "エージェントをデザインに強くする時が来た。そこで、Opusが最終的に私の望むものを作れるようになるまで、どうヒルクライムさせたかを解説する。"
+              },
+              {
+                "t": "p",
+                "x": "Theoは、デザイナーや追加のスキルなしでT3 CodeのUIを磨くため、作業をヒルクライムに変えた。五つのモデルで約18時間、30回以上のレビューを重ねた結果、エージェントから実際の製品に使える良いUIを引き出す方法を見つけたという。"
+              },
+              {
+                "t": "p",
+                "x": "彼は/goalと入力し、レビュー役のモデルによる「評議会」——Opus 5.5、Muse Wonderful、Codex GPT 6.1——がアプリのスクリーンショットを10点中九点以上と評価するまで、UI改善のPRを繰り返すようエージェントに指示した。第一ラウンドは失敗し、第二ラウンドでOpusは六点から八点に上がり、第三ラウンドでは全レビュアーが九点をつけた。"
+              },
+              {
+                "t": "p",
+                "x": "変更は控えめだ。新しいフォールバックフォント、より明確なスレッドタイトル、読みやすいブランチ名、カードの角丸、柔らかくなったインラインコードである。新デザインはT3 Codeのベータタブにある設定で選べる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Theo让Claude\nOpus爬坡式优化UI",
+          "body": "Theo让Claude Opus爬坡优化UI，直到AI评审团打出10分中的九分。",
+          "mini_headline": "智能体UI爬坡优化",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "xq0eB8vxeqk"
+              },
+              {
+                "t": "p",
+                "x": "是时候让智能体擅长设计了，下面拆解我是如何让 Opus 不断爬坡优化，直到它终于做出我想要的东西。"
+              },
+              {
+                "t": "p",
+                "x": "Theo 想在没有设计师、也不借助额外技能的情况下为 T3 Code 打磨一遍 UI，于是把它变成了一次爬坡优化：在五个模型上花了约 18 小时、经过 30 多轮评审后，他说自己找到了一套能让智能体为真实产品做出好 UI 的方法。"
+              },
+              {
+                "t": "p",
+                "x": "他输入 /goal，让智能体不断迭代一个 UI 打磨 PR，直到由 Opus 5.5、Muse Wonderful 和 Codex GPT 6.1 组成的评审模型“委员会”给应用截图打出至少九分（满分 10 分）。第一轮失败；第二轮 Opus 从六分升到八分；到第三轮，每位评审都给出了九分。"
+              },
+              {
+                "t": "p",
+                "x": "改动很细微：新的后备字体、更清晰的线程标题、易读的分支名称、卡片圆角，以及更柔和的行内代码。新设计是 T3 Code 测试版标签页中的一项设置。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Theo pone a Claude Opus\na hacer hill climbing en UI",
+          "body": "Theo muestra cómo hizo que Claude Opus mejorara la UI hasta que un consejo de modelos de AI le diera nueve de 10.",
+          "mini_headline": "Hill climbing de UI con agentes",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "xq0eB8vxeqk"
+              },
+              {
+                "t": "p",
+                "x": "Es hora de hacer que los agentes sean buenos en diseño, así que voy a explicar cómo hice que Opus hiciera hill climbing hasta que por fin creó lo que yo quería."
+              },
+              {
+                "t": "p",
+                "x": "Theo se propuso darle una pasada a la UI de T3 Code sin diseñador ni skills adicionales, convirtiéndolo en un hill climb: tras unas 18 horas con cinco modelos y más de 30 rondas de revisiones, dice que encontró una fórmula para obtener de un agente una buena UI para productos reales."
+              },
+              {
+                "t": "p",
+                "x": "Escribió /goal y le pidió al agente que siguiera iterando un PR de pulido de UI hasta que un “consejo” de modelos revisores —Opus 5.5, Muse Wonderful y Codex GPT 6.1— calificara las capturas de la app con al menos nueve de 10. La primera ronda fracasó; en la segunda, Opus pasó de seis a ocho; en la tercera, todos los revisores le dieron un nueve."
+              },
+              {
+                "t": "p",
+                "x": "Los cambios fueron sutiles: una nueva fuente de respaldo, títulos de hilo más claros, nombres de rama legibles, radio de las tarjetas y un código en línea más suave. El nuevo diseño es un ajuste en la pestaña beta de T3 Code."
               }
             ]
           }

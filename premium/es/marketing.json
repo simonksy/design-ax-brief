@@ -3669,6 +3669,138 @@
           "x": "Disponible actualmente en todo el ecosistema publicitario de Roku —incluidos los espacios nativos de Home Screen y el video in-stream—, Roku Outcomes se lanza inicialmente para anunciantes de medios y entretenimiento, y se prevén actualizaciones para admitir compras, visitas a sitios web y actividad del carrito."
         }
       ]
+    },
+    "marketing/chatgpt-ads-bidding-nov9": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI acaba de enviar un correo a los anunciantes de ChatGPT Ads sobre los cambios en las opciones de puja que llegan el lunes 9 de noviembre. Esto afecta a los anunciantes que usan las opciones de puja Max Bid o Max CPC. \"A partir del lunes 9 de noviembre, podrá elegir de forma opcional un objetivo de costo en Ads Manager al crear una campaña o actualizar una existente\", escribió OpenAI."
+        },
+        {
+          "t": "p",
+          "x": "El costo por acción objetivo (Target CPA) llega a las campañas de conversión y sustituirá a Max Bid en las nuevas campañas de conversión de Ads Manager. El costo por clic objetivo (Target CPC) llega a las campañas de clics y sustituirá a Max CPC en las nuevas campañas de clics; mientras que Max CPC limita cada puja individual, Target CPC permite al sistema pujar por encima o por debajo de su objetivo en cada subasta."
+        },
+        {
+          "t": "p",
+          "x": "Max Bid y Max CPC se retirarán el 1 de enero de 2027. Maximize results (autobid), ahora llamada puja inteligente (intelligent bidding), seguirá ajustando automáticamente las pujas y la entrega."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI recomienda empezar la transición ahora, confirmar que Pixel o Conversions API envía el evento seleccionado y usar el CPA o CPC real reciente para fijar objetivos realistas. Los objetivos restrictivos o las señales de conversión débiles pueden reducir la entrega de anuncios y dejar presupuesto sin gastar."
+        }
+      ]
+    },
+    "marketing/google-ads-ai-disclosure-regions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-label-glow-55CezYGY.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Ads ha ampliado las regiones en las que se debe declarar si se usó AI en los anuncios. Google añadió California, Corea del Sur y Vietnam a la lista, que ya incluía la Unión Europea, India y Nueva York."
+        },
+        {
+          "t": "p",
+          "x": "Google ya actualizó algunos documentos con esta información, entre ellos el documento de ayuda de Google Ads Use AI content label settings and disclosures y el documento de ayuda de Google Merchant Center Product data specification."
+        },
+        {
+          "t": "p",
+          "x": "En el apartado de regiones ahora dice: \"En algunas zonas geográficas, las etiquetas de AI también se mostrarán en el propio anuncio. En las campañas dirigidas a las siguientes ubicaciones, los anuncios con recursos que usted designe como creados o editados con AI también incluirán superposiciones visibles:\" Unión Europea, India, Nueva York, California, Corea del Sur, Vietnam."
+        },
+        {
+          "t": "p",
+          "x": "Aquí hay una captura de pantalla de esta página, con lo añadido resaltado en rojo:"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png"
+        },
+        {
+          "t": "p",
+          "x": "En el documento de Merchant Center, Google escribió: las regulaciones de AI en la Unión Europea, India, Nueva York, California, Corea del Sur y Vietnam exigen que los anuncios con ciertos recursos AI-generated o editados incluyan avisos y/o etiquetas que informen a los consumidores de que los anuncios se hicieron con AI."
+        },
+        {
+          "t": "p",
+          "x": "Sospecho que esta lista seguirá ampliándose con el tiempo..."
+        }
+      ]
+    },
+    "marketing/google-ucp-checkout-canada": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-canada-checkout-1600x840-972.png"
+        },
+        {
+          "t": "p",
+          "x": "Google amplía a los compradores de Canadá el pago directo impulsado por el Universal Commerce Protocol (UCP) en AI Mode de Google Search y en la app Gemini. Sabrina Geremia, vicepresidenta y directora general de Google Canada, anunció el lanzamiento el 4 de noviembre de 2026."
+        },
+        {
+          "t": "p",
+          "x": "El lanzamiento inicial en Canadá incluye a lululemon, algunos comerciantes de Shopify, Shoppers Drug Mart y Simons. Los compradores pagan con Google Pay usando los métodos de pago y los datos de envío guardados en Google Wallet, y los minoristas siguen siendo el vendedor registrado. Google prevé añadir en los próximos meses funciones como la aplicación de recompensas de fidelidad."
+        },
+        {
+          "t": "p",
+          "x": "A partir del próximo año, según Google, ofrecerá una integración simplificada de UCP directamente dentro de Merchant Center, para que los minoristas activen el pago directo en sus fichas de AI Mode y la app Gemini desde sus cuentas."
+        },
+        {
+          "t": "p",
+          "x": "“Los canadienses ya le preguntan a la AI qué comprar, y ahora los comerciantes de Shopify que venden en Canadá pueden estar representados fielmente y recibir compras directas en AI Mode y la app Gemini, con cero trabajo adicional”, dijo Mani Fazeli, VP de Producto en Shopify. Google aún no ha dado una fecha concreta de lanzamiento para la integración con Merchant Center."
+        }
+      ]
+    },
+    "marketing/blend-agent-bot-blocks-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El software de seguridad de 29 de 200 minoristas de UK y US, entre ellos Home Depot, Best Buy, Macy's, Tesco, Argos y Next, rechazó en dos intentos distintos un agente de compras automatizado enviado por Blend Commerce. Blend publicó su AI Shopping Audit 2026 el 6 de octubre y emitió un comunicado sobre los resultados el 4 de noviembre de 2026, 23 días antes del Black Friday."
+        },
+        {
+          "t": "p",
+          "x": "Las pruebas se realizaron entre el 8 y el 15 de septiembre de 2026. De los 80 grandes minoristas, 16 rechazaron el navegador (20%). Doce de los 80 minoristas medianos (mid-sized) lo rechazaron (15%), frente a uno de los 40 minoristas emergentes (2.5%). Saks Fifth Avenue, Bergdorf Goodman, Anthropologie y JD Williams obtuvieron cero."
+        },
+        {
+          "t": "p",
+          "x": "Blend pudo leer el robots.txt de 24 de las 29 tiendas que lo rechazaron, y las 24 permiten los rastreadores de búsqueda de ChatGPT, Perplexity y Claude. \"Los rechazos provienen de la protección contra bots\", según el informe."
+        },
+        {
+          "t": "p",
+          "x": "\"Es probable que la mayoría de estos minoristas haya dicho a las empresas de AI que sus agentes son bienvenidos. Luego, el software de seguridad de la puerta de entrada lo rechaza\", dijo Adam Pearce, cofundador (co-founder) y CEO de Blend Commerce."
+        },
+        {
+          "t": "p",
+          "x": "La prueba usó el agente propio de Blend, no ChatGPT ni Gemini: \"Un minorista puede permitir agentes de AI identificados y, al mismo tiempo, rechazar la automatización que no reconoce\". Treinta y siete (Thirty-seven) de los 38 minoristas con un endpoint de checkout de agentes activo funcionan con Shopify."
+        }
+      ]
+    },
+    "marketing/sej-ai-answer-ads-categories": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-shopping-ads.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adthena informó que entre junio y septiembre se detectaron aproximadamente 175,100 ubicaciones de anuncios pagados en los paneles de AI Overview y de AI Mode de Google en U.S. (Estados Unidos). El análisis abarcó cinco categorías de compras navideñas, pero la mayoría de esas ubicaciones correspondió a ropa y electrónica de consumo. El Holiday AI Paid Search Report también contabiliza 204,489 ubicaciones de anuncios en ChatGPT en las mismas cinco categorías y los mismos meses."
+        },
+        {
+          "t": "p",
+          "x": "En el recuento de Google, la ropa suma aproximadamente 111,000 ubicaciones; la electrónica de consumo, unas 55,000; viajes, cerca de 6,500; belleza, unas 2,100, y juguetes y juegos, alrededor de 685. No hay compras de anuncios separadas: todas las campañas de Search, Shopping y Performance Max pueden aparecer automáticamente en las respuestas de IA. Las apariciones de AI Overview en U.S. crecieron un 89%, de 304 millones a 575 millones, entre agosto de 2025 y agosto de 2026."
+        },
+        {
+          "t": "p",
+          "x": "En ChatGPT, la ropa encabezó con 90,517 ubicaciones, seguida de electrónica de consumo con 56,569, viajes con 48,134, juguetes y juegos con 4,694 y belleza con 4,575. En belleza, el 83% de los anuncios apareció en consultas de investigación y descubrimiento; en ropa y electrónica de consumo la proporción quedó por debajo de la mitad, con 48% y 42%. El informe no mide clics, gasto ni conversiones, y sus datos terminan en septiembre, antes del Black Friday."
+        }
+      ]
     }
   }
 }

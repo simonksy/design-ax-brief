@@ -16914,6 +16914,142 @@
           "x": "Images 2.6은 웹, 데스크톱, 모바일 앱의 모든 ChatGPT 및 Codex 사용자에게 배포 중이다. OpenAI는 API용으로 더 빠르고 품질 높은 이미지 생성을 내세운 GPT-Image-2.6 Flare와 Sunburst도 출시한다."
         }
       ]
+    },
+    "design/chaos-vray-ai-guidance": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/Lead_Thumb_Image_Skyscraper_Clouds_02.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Chaos가 포토리얼 렌더러 V-Ray를 축으로 한 3D 시각화 도구 모음 V-Ray Collection에 AI 중심(AI-focused) 대규모 업데이트를 내놓았다. 사용자는 새 도구로 3D 에셋을 생성하고, Model Context Protocol(MCP) 서버로 Claude, ChatGPT 같은 외부 AI 어시스턴트를 작업 흐름에 곧장 연결한다. V-Ray 안에는 설정을 분석하고 조언해 주는 통합 AI 어시스턴트도 들어갔다."
+        },
+        {
+          "t": "p",
+          "x": "MCP 서버를 쓰면 자연어 프롬프트로 장면을 점검하고 조명·재질 같은 지원 설정을 손보며, 에셋을 찾아 배치하고 반복 작업도 자동화한다. V-Ray AI 어시스턴트는 맥락에 맞는 안내에 더해, 장면 조명을 참조 이미지에 맞추는 Sky Match와 렌더에 실질 피드백을 주는 Render Critique를 갖췄다."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/Image-Based-Search.jpg",
+          "cap": "Cosmos의 이미지 기반 검색"
+        },
+        {
+          "t": "p",
+          "x": "Chaos Cosmos에서는 이제 참조 이미지 한 장이면 맞춤형 3D 모델이 나오고, 이미지 기반 검색이 30,000개 넘는 에셋 가운데 가장 비슷한 것을 찾아 준다. Chaos Anima에는 사람과 군중용 AI Pathfinding이 붙었다."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/Veras-Support-for-VEO-3.1-v01.jpg",
+          "cap": "Veras는 이제 영상 생성에 Veo-3.1을 지원한다"
+        },
+        {
+          "t": "p",
+          "x": "Veras에는 생성 작업을 자동화하고 반복할 수 있게 해 주는 노드 기반 UI가 생겼다. Veo 3.1을 비롯해 고를 수 있는 모델도 늘었고, 참조 이미지를 3D 모델로 바꾸는 Agent 모드도 더해졌다."
+        }
+      ]
+    },
+    "design/qonic-ai-bim-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Qonic이 클라우드 협업 BIM 모델링 플랫폼에 에이전트 모음 Qonic AI를 내장했다. Qonic AI는 BIM 모델 옆에 붙은 별도 도구가 아니라 모델 안에서 바로 돌아간다. “Ask Qonic” 챗봇에 원하는 걸 평소 말투로 적으면 Qonic 에이전트가 플랫폼 자체 도구로 요소를 찾아 검사하고 갱신한다."
+        },
+        {
+          "t": "p",
+          "x": "“Qonic에서 지오메트리와 데이터를 만들고 편집하고 다루는 일이라면 무엇이든 프롬프트로 할 수 있다”고 Qonic의 Jacob De Sutter는 말했다. Qonic AI가 손댈 수 있는 모델은 사용자에게 편집 권한이 있는 것뿐이고, 바꾼 내용은 수동 작업처럼 되돌릴 수 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_2.jpg",
+          "cap": "Qonic AI는 누락된 BIM 데이터를 찾아 모델 요소에 할당할 수 있다"
+        },
+        {
+          "t": "p",
+          "x": "모든 창에 방화 등급이 있는지 물어본 뒤 등급 없는 창을 골라 F60을 매기게 할 수도 있고, 콘크리트 품질 보고서를 뽑거나 선택한 창을 0.5미터 넓히라고 시킬 수도 있다. 요청을 처리할 모델은 Sonnet, Opus, Astra 중에서 고르며, Qonic AI는 토큰 방식으로 돌아간다."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_3.jpg",
+          "cap": "Qonic AI는 지오메트리를 편집할 수 있다"
+        },
+        {
+          "t": "p",
+          "x": "새로 나온 Qonic MCP 서버로는 Claude, Codex, Mistral Le Chat 등 평소 쓰던 AI 어시스턴트에서 플랫폼을 다룬다."
+        }
+      ]
+    },
+    "design/meta-muse-spaces-genui": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=9.1755530835981%2C0%2C89.724178139157%2C74.471659887186&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "이제 Muse 안에서 앱처럼 쓰는 맞춤형 경험을 만들 수 있다. Meta가 내놓은 새 기능 “spaces”에서는 AI 어시스턴트가 쇼핑 허브, 학교 대시보드, 음악 트래커, 퀴즈 게임 같은 것을 만들어 주고, 사용자는 이를 Muse 앱에서 바로 쓴다."
+        },
+        {
+          "t": "p",
+          "x": "Meta 설명으로는 새 스페이스를 만들 때 원하는 것을 설명하기만 하면 된다. Gmail, Google Calendar, OpenTable, Notion 등 Muse와 연동되는 외부 앱을 붙이면 AI 어시스턴트가 그 앱들에서 정보를 계속 끌어와 스페이스 속 가격과 날짜 같은 정보를 백그라운드에서 갱신한다. 체크 표시를 하거나 메모를 달고 고치는 식으로 스페이스 안의 요소를 직접 만질 수도 있다."
+        },
+        {
+          "t": "p",
+          "x": "스페이스를 Muse 앱 어디에 둘지도 정할 수 있다. Meta는 스페이스를 사이드바에 두거나 메인 탭으로 올리고, 화면에 뜨는 시점까지 예약하게 했다. Meta는 “예를 들어 주중에는 주간 플래너를 앞에 두고, 토요일에는 주말 계획으로 바꿔 보라”고 설명한다."
+        },
+        {
+          "t": "p",
+          "x": "Meta는 Muse Wonder AI 모델의 새 기능 “Active Memory”와 “Active Focus”를 Muse 앱과 Meta AI 챗봇에 도입한다고도 밝혔다. 덕분에 Muse는 대화 도중 예전 정보가 다시 필요해지는 순간을 알아채고, 목표에 맞춰 더 잘 움직인다."
+        },
+        {
+          "t": "p",
+          "x": "스페이스는 지금 모든 Muse 사용자에게 배포되는 중이다. Meta는 다른 사용자와 스페이스를 공유해 함께 쓰는 방법도 검토한다."
+        }
+      ]
+    },
+    "design/theo-opus-ui-hillclimb": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "xq0eB8vxeqk"
+        },
+        {
+          "t": "p",
+          "x": "에이전트에게 디자인을 제대로 시켜 볼 차례다. Opus가 마침내 내가 원하던 걸 내놓기까지 어떻게 힐클라이밍을 돌렸는지 하나씩 풀어 본다."
+        },
+        {
+          "t": "p",
+          "x": "Theo는 디자이너도, 별도 스킬도 없이 T3 Code의 UI 다듬기를 힐클라이밍 문제로 바꿔 풀기로 했다. 모델 다섯 개로 약 18시간 동안 30회 넘게 리뷰를 돌린 끝에, 실제 제품에 쓸 만한 UI를 에이전트에게서 뽑아내는 공식을 찾았다고 한다."
+        },
+        {
+          "t": "p",
+          "x": "그는 /goal을 입력하고 에이전트에게 UI 다듬기 PR을 계속 반복하라고 했다. 리뷰 모델 “심사단”인 Opus 5.5, Muse Wonderful, Codex GPT 6.1이 앱 스크린샷에 10점 만점에 최소 아홉 점을 줄 때까지다. 첫 라운드는 실패했다. 두 번째 라운드에서 Opus는 여섯 점에서 여덟 점으로 올랐고, 세 번째에는 심사 모델 모두가 아홉 점을 줬다."
+        },
+        {
+          "t": "p",
+          "x": "바뀐 건 미묘하다. 새 대체 글꼴, 더 분명해진 스레드 제목, 읽기 쉬운 브랜치 이름, 둥글린 카드 모서리, 한결 부드러워진 인라인 코드 정도다. 새 디자인은 T3 Code 베타 탭의 설정에 있다."
+        }
+      ]
+    },
+    "design/figma-agent-vector-styles": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Vfh8hAEs7yk"
+        },
+        {
+          "t": "p",
+          "x": "Figma 에이전트로 벡터를 편집하고 새로 만든다"
+        },
+        {
+          "t": "p",
+          "x": "이제 Figma 에이전트는 참조한 스타일에 맞춰 벡터 일러스트와 아이콘을 만든다. 선은 획(stroke)으로 그려 두께와 끝 모양을 나중에 바꿀 수 있고, 만든 벡터는 의미 단위 레이어로 묶여 반복 작업이 쉽다."
+        }
+      ]
     }
   }
 }

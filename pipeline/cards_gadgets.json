@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "section": "gadgets",
   "cards": [
     {
-      "id": "aina-agent-ring",
+      "id": "wired-radar-ai-aircon",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Aina 스마트 링\n탭 한 번에 AI 에이전트",
-      "body": "폰을 꺼내지 않고 Aina 링을 한 번 탭해 AI 에이전트 작업을 승인·거절한다.",
-      "mini_headline": "탭 한 번으로 AI 에이전트를 다루는 Aina 링",
+      "headline": "레이더 추적 AI ACs\n냉방 에너지 줄일까",
+      "body": "LG·Samsung·Midea가 레이더 AI 냉방을 내놨지만 절감 폭은 모호하다.",
+      "mini_headline": "사람 쫓는 레이더 AI ACs",
       "tool": "Gadgets",
       "source": "WIRED",
-      "url": "https://www.wired.com/story/aina-smart-ring/",
+      "url": "https://www.wired.com/story/can-a-radar-equipped-ac-actually-cut-your-power-bill/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,203 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg"
+            "src": "https://media.wired.com/photos/6ad0bda38de176c462eac73d/master/w_2560%2Cc_limit/Screenshot%25202026-10-15%2520at%252012.48.10.jpg"
           },
           {
             "t": "p",
-            "x": "Apoorv Shankar는 머지않아 사람들이 승인과 거절을 반복하며 기술을 다루게 되리라고 본다. AI 에이전트가 먼저 다가와 일을 처리해 주는 식이다. 그는 그때마다 휴대폰을 꺼내 예, 아니오를 누르는 일이 “병목”이 된다고 말한다. 그렇게 나온 것이 Aina Ring이다. 작은 디스플레이와 조이스틱 같은 버튼으로 AI 에이전트의 작업을 빠르게 수락하거나 거절한다. 지금 사전 주문을 받는 중이며 한정 기간 가격은 $399다. 2027년 1월 배송이 시작되면 소매가는 $499로 오른다."
-          },
-          {
-            "t": "img",
-            "src": "https://media.wired.com/photos/6aea53d84d3eef846d2fcf0b/master/w_1600%2Cc_limit/Aina%2520Ring%2520Hands.jpg",
-            "cap": "손에 낀 Aina 링"
+            "x": "에어컨과 선풍기가 전 세계 건물 전력 사용량의 약 20퍼센트를 차지한다. 사용 중인 AC는 2050년이면 5.5B 대에 이를 수 있다. 2026년 지금, AI-powered ACs는 집 안 사람을 밀리미터 단위로 추적한다."
           },
           {
             "t": "p",
-            "x": "티타늄으로 만든 Aina Ring은 Macs나 iPhones와 연결된다. 위치·캘린더·이메일 같은 개인 데이터와, Aina 앱에 연결한 Uber·Spotify 등 서드파티 서비스를 보고 사용자의 일과를 익힌다. 평소 8:30 am에 Uber로 출근한다면 차량 호출을 제안하고, 링에서 ‘예’로 튕기면 바로 처리한다. Shankar는 이를 “Aina Cues”라 부르는데, 링의 Context Aware Operating System이 이 기능을 돌린다. 자연어로 나만의 Cues를 만들 수도 있고 Muse나 Instinct처럼 즐겨 쓰는 AI 에이전트를 연결해도 된다."
+            "x": "LG의 최신 DualCool AI AC에는 사람을 감지하는 5미터 레이더 센서가 달렸다. Hisense의 Companion Living AC는 스마트홈 센서로 생활 패턴을 읽어 \"목표 경로\"를 미리 식혀 둔다. Dyson의 Find+Follow 공기청정 선풍기는 저해상도 카메라로 17개 지점에서 사람을 감지하는데, 얼굴은 인식하지 않고 기기 안에서 처리한다."
           },
           {
             "t": "p",
-            "x": "Aina Voice로는 가운데 버튼을 눌러 AI 에이전트와 대화한다. Shankar는 “승인이 인터페이스와 상호작용의 미래가 될 것”이라고 말한다."
+            "x": "Samsung의 Bespoke AI WindFree Pro에는 두 명까지 추적하는 모션 레이더 센서가 더해졌다. Samsung은 AI 에너지 모드로 \"최대 30퍼센트\"의 에너지를 아낀다고 주장한다. 2027년 초 나오는 Midea의 VitaBreeze AC는 방 사진에 밀리미터파 레이더를 결합했다."
           },
           {
-            "t": "img",
-            "src": "https://media.wired.com/photos/6aea54376c2140d939cde56c/master/w_1600%2Cc_limit/Aina%2520Speaker%2520and%2520Shifter.png"
+            "t": "p",
+            "x": "KTH의 Björn Palm은 \"냉방에 쓰이는 전체 에너지를 줄일 잠재력은 분명히 있다\"고 말한다. 얼마나 줄일지는 덜 분명하다. Gradient CTO Vincent Romanin은 회의적이다. \"재실 센서가 달린 제품 중 제대로 작동한다고 느낀 것은 개인적으로 한 번도 없었다.\" Palm이 보기에 2050년의 지속 가능한 냉방은 부엌까지 따라오는 AC가 아니라 소형 히트펌프와 자연 냉매에 달렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Aina's smart ring taps\nyour AI agents into action",
-          "body": "Startup Aina's new smart ring lets you approve or reject your AI agents' actions with one tap, phone in pocket.",
-          "mini_headline": "Aina's one-tap AI agent ring",
+          "headline": "Radar-tracking AI ACs aim\nto cut cooling energy use",
+          "body": "LG, Samsung and Midea add radar that tracks occupants to aim AI cooling, but how much energy it saves is less clear.",
+          "mini_headline": "Radar AI ACs track occupants",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg"
+                "src": "https://media.wired.com/photos/6ad0bda38de176c462eac73d/master/w_2560%2Cc_limit/Screenshot%25202026-10-15%2520at%252012.48.10.jpg"
               },
               {
                 "t": "p",
-                "x": "Apoorv Shankar believes that in the very near future, humans will interact with technology through a series of approvals and rejections. AI agents will proactively come to us to complete tasks. Taking out your phone to say yes or no every time will be a “bottleneck,” he says. That's why he made the Aina Ring. It has a small display and a joystick-like button that lets you quickly accept or reject an AI agent's actions. Preorders are live now; the ring costs $399 for a limited time before the retail price rises to $499 when it starts shipping in January 2027."
-              },
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6aea53d84d3eef846d2fcf0b/master/w_1600%2Cc_limit/Aina%2520Ring%2520Hands.jpg",
-                "cap": "Aina ring on a hand"
+                "x": "Air conditioners and electric fans account for around 20 percent of electricity used in buildings worldwide, and the number of AC units in use could reach 5.5 billion by 2050. Fast-forward to 2026 and AI-powered ACs now track people in the home with millimeter-level precision."
               },
               {
                 "t": "p",
-                "x": "The titanium Aina Ring connects to Macs or iPhones. It learns your routines from your personal data, like location, calendar, and email, and from third-party services connected in the Aina app, like Uber or Spotify. If it's 8:30 am and you usually take an Uber to work, it'll suggest the ride—flick yes on the ring, and it'll handle the task. Shankar calls these “Aina Cues,” powered by the ring's Context Aware Operating System. Users can create their own Cues using natural language, or connect a preferred AI agent like Muse or Instinct."
+                "x": "LG's latest DualCool AI AC has a 5-meter radar sensor for people detection. Hisense's Companion Living AC uses smart home sensors to precool \"target paths\" based on your routines. Dyson's Find+Follow purifier and fan uses a low-resolution camera with 17-point person detection, processed on-device without face recognition."
               },
               {
                 "t": "p",
-                "x": "Aina Voice lets you talk to your AI agents by pressing the center button. “Approvals are going to be the future of interfaces and interaction,” Shankar says."
+                "x": "Samsung's Bespoke AI WindFree Pro adds a motion radar sensor that can track two occupants; Samsung claims energy savings of \"up to 30 percent\" with its AI energy mode. Midea's VitaBreeze AC, launching in early 2027, combines room photos with millimeter-wave radar."
               },
               {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6aea54376c2140d939cde56c/master/w_1600%2Cc_limit/Aina%2520Speaker%2520and%2520Shifter.png"
+                "t": "p",
+                "x": "\"It definitely has the potential to reduce the total energy use for air-conditioning,\" says Björn Palm of KTH. By how much? That's less clear. Gradient CTO Vincent Romanin is skeptical: \"I personally have never used a product with an occupancy sensor that I feel like worked well.\" For Palm, sustainable cooling by 2050 depends on compact heat pumps and natural refrigerants rather than an AC that tracks you to the kitchen."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Aina 스마트 링\n탭 한 번에 AI 에이전트",
-          "body": "폰을 꺼내지 않고 Aina 링을 한 번 탭해 AI 에이전트 작업을 승인·거절한다.",
-          "mini_headline": "탭 한 번으로 AI 에이전트를 다루는 Aina 링",
+          "headline": "레이더 추적 AI ACs\n냉방 에너지 줄일까",
+          "body": "LG·Samsung·Midea가 레이더 AI 냉방을 내놨지만 절감 폭은 모호하다.",
+          "mini_headline": "사람 쫓는 레이더 AI ACs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg"
+                "src": "https://media.wired.com/photos/6ad0bda38de176c462eac73d/master/w_2560%2Cc_limit/Screenshot%25202026-10-15%2520at%252012.48.10.jpg"
               },
               {
                 "t": "p",
-                "x": "Apoorv Shankar는 머지않아 사람들이 승인과 거절을 반복하며 기술을 다루게 되리라고 본다. AI 에이전트가 먼저 다가와 일을 처리해 주는 식이다. 그는 그때마다 휴대폰을 꺼내 예, 아니오를 누르는 일이 “병목”이 된다고 말한다. 그렇게 나온 것이 Aina Ring이다. 작은 디스플레이와 조이스틱 같은 버튼으로 AI 에이전트의 작업을 빠르게 수락하거나 거절한다. 지금 사전 주문을 받는 중이며 한정 기간 가격은 $399다. 2027년 1월 배송이 시작되면 소매가는 $499로 오른다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6aea53d84d3eef846d2fcf0b/master/w_1600%2Cc_limit/Aina%2520Ring%2520Hands.jpg",
-                "cap": "손에 낀 Aina 링"
+                "x": "에어컨과 선풍기가 전 세계 건물 전력 사용량의 약 20퍼센트를 차지한다. 사용 중인 AC는 2050년이면 5.5B 대에 이를 수 있다. 2026년 지금, AI-powered ACs는 집 안 사람을 밀리미터 단위로 추적한다."
               },
               {
                 "t": "p",
-                "x": "티타늄으로 만든 Aina Ring은 Macs나 iPhones와 연결된다. 위치·캘린더·이메일 같은 개인 데이터와, Aina 앱에 연결한 Uber·Spotify 등 서드파티 서비스를 보고 사용자의 일과를 익힌다. 평소 8:30 am에 Uber로 출근한다면 차량 호출을 제안하고, 링에서 ‘예’로 튕기면 바로 처리한다. Shankar는 이를 “Aina Cues”라 부르는데, 링의 Context Aware Operating System이 이 기능을 돌린다. 자연어로 나만의 Cues를 만들 수도 있고 Muse나 Instinct처럼 즐겨 쓰는 AI 에이전트를 연결해도 된다."
+                "x": "LG의 최신 DualCool AI AC에는 사람을 감지하는 5미터 레이더 센서가 달렸다. Hisense의 Companion Living AC는 스마트홈 센서로 생활 패턴을 읽어 \"목표 경로\"를 미리 식혀 둔다. Dyson의 Find+Follow 공기청정 선풍기는 저해상도 카메라로 17개 지점에서 사람을 감지하는데, 얼굴은 인식하지 않고 기기 안에서 처리한다."
               },
               {
                 "t": "p",
-                "x": "Aina Voice로는 가운데 버튼을 눌러 AI 에이전트와 대화한다. Shankar는 “승인이 인터페이스와 상호작용의 미래가 될 것”이라고 말한다."
+                "x": "Samsung의 Bespoke AI WindFree Pro에는 두 명까지 추적하는 모션 레이더 센서가 더해졌다. Samsung은 AI 에너지 모드로 \"최대 30퍼센트\"의 에너지를 아낀다고 주장한다. 2027년 초 나오는 Midea의 VitaBreeze AC는 방 사진에 밀리미터파 레이더를 결합했다."
               },
               {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6aea54376c2140d939cde56c/master/w_1600%2Cc_limit/Aina%2520Speaker%2520and%2520Shifter.png"
+                "t": "p",
+                "x": "KTH의 Björn Palm은 \"냉방에 쓰이는 전체 에너지를 줄일 잠재력은 분명히 있다\"고 말한다. 얼마나 줄일지는 덜 분명하다. Gradient CTO Vincent Romanin은 회의적이다. \"재실 센서가 달린 제품 중 제대로 작동한다고 느낀 것은 개인적으로 한 번도 없었다.\" Palm이 보기에 2050년의 지속 가능한 냉방은 부엌까지 따라오는 AC가 아니라 소형 히트펌프와 자연 냉매에 달렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ainaのスマートリング\nAIエージェントを一押しで",
-          "body": "Ainaのリングは、スマホを出さずにAIエージェントの操作をワンタップで承認・拒否できる。",
-          "mini_headline": "ワンタップでAIエージェントを操るAinaのリング",
+          "headline": "レーダー追跡のAI ACs\n冷房の省エネ狙う",
+          "body": "LG、Samsung、Mideaが在室者追跡レーダーでAI冷房を向けるが、効果は不透明だ。",
+          "mini_headline": "人を追うレーダーAI ACs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg"
+                "src": "https://media.wired.com/photos/6ad0bda38de176c462eac73d/master/w_2560%2Cc_limit/Screenshot%25202026-10-15%2520at%252012.48.10.jpg"
               },
               {
                 "t": "p",
-                "x": "Apoorv Shankarは、ごく近い将来、人は承認と拒否の連続を通じてテクノロジーと関わるようになると考えている。AIエージェントが自ら私たちのもとに来てタスクを片づけるようになる。そのたびにスマートフォンを取り出してイエスかノーかを答えるのは「ボトルネック」になると彼は言う。だからこそ彼はAina Ringを作った。小さなディスプレイとジョイスティックのようなボタンを備え、AIエージェントの操作をすばやく承認・拒否できる。現在予約を受け付けており、期間限定価格は$399、2027年1月に出荷が始まると小売価格は$499に上がる。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6aea53d84d3eef846d2fcf0b/master/w_1600%2Cc_limit/Aina%2520Ring%2520Hands.jpg",
-                "cap": "手にはめたAinaリング"
+                "x": "エアコンと扇風機は世界の建物で使われる電力の約20パーセントを占め、稼働するACの台数は2050年までに5.5B 台に達する可能性がある。2026年の今、AI-powered ACsは家の中の人をミリ単位の精度で追跡している。"
               },
               {
                 "t": "p",
-                "x": "チタン製のAina RingはMacsやiPhonesと接続する。位置情報、カレンダー、メールなどの個人データや、Ainaアプリで連携したUberやSpotifyなどのサードパーティーサービスから、ユーザーの日課を学習する。8:30 amにいつもUberで出勤しているなら配車を提案し、リングでイエスを弾けばタスクを処理してくれる。Shankarはこれを「Aina Cues」と呼び、リングのContext Aware Operating Systemがそれを支えている。ユーザーは自然言語で独自のCuesを作ったり、MuseやInstinctなど好みのAIエージェントを接続したりできる。"
+                "x": "LGの最新DualCool AI ACは、人を検知する5メートルのレーダーセンサーを備える。HisenseのCompanion Living ACはスマートホームのセンサーを使い、生活パターンに基づいて「ターゲット経路」を事前に冷やす。DysonのFind+Follow空気清浄ファンは17点で人を検知する低解像度カメラを使い、顔認識なしにデバイス上で処理する。"
               },
               {
                 "t": "p",
-                "x": "Aina Voiceでは、中央のボタンを押してAIエージェントと会話できる。「承認こそがインターフェースとインタラクションの未来になる」とShankarは語る。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6aea54376c2140d939cde56c/master/w_1600%2Cc_limit/Aina%2520Speaker%2520and%2520Shifter.png"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Aina智能戒指\n一点即可指挥AI智能体",
-          "body": "初创公司Aina的新款智能戒指让你无需掏出手机，轻点一下即可批准或拒绝AI智能体的操作。",
-          "mini_headline": "Aina一键AI智能体戒指",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg"
+                "x": "SamsungのBespoke AI WindFree Proは二人まで追跡できるモーションレーダーセンサーを追加した。SamsungはAI省エネモードで「最大30パーセント」の省エネになると主張する。2027年初めに発売されるMideaのVitaBreeze ACは、室内の写真とミリ波レーダーを組み合わせる。"
               },
               {
                 "t": "p",
-                "x": "Apoorv Shankar认为，在不远的将来，人们将通过一连串的批准与拒绝来与技术互动。AI智能体会主动找上门来完成任务。他说，每次都掏出手机说“是”或“否”将成为“瓶颈”。这正是他打造Aina Ring的原因。戒指配有一块小屏幕和一个类似摇杆的按钮，可以快速接受或拒绝AI智能体的操作。目前已开放预订；限时价格为$399，2027年1月开始发货时零售价将升至$499。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6aea53d84d3eef846d2fcf0b/master/w_1600%2Cc_limit/Aina%2520Ring%2520Hands.jpg",
-                "cap": "戴在手上的Aina戒指"
-              },
-              {
-                "t": "p",
-                "x": "钛金属材质的Aina Ring可连接Macs或iPhones。它会从位置、日历、电子邮件等个人数据，以及在Aina应用中接入的Uber、Spotify等第三方服务中学习你的日常习惯。如果现在是8:30 am，而你通常乘Uber上班，它就会建议叫车——在戒指上拨一下“是”，它便会处理这项任务。Shankar称之为“Aina Cues”，由戒指的Context Aware Operating System驱动。用户可以用自然语言创建自己的Cues，或连接Muse、Instinct等偏好的AI智能体。"
-              },
-              {
-                "t": "p",
-                "x": "借助Aina Voice，按下中间按钮即可与AI智能体对话。Shankar说：“批准将成为界面与交互的未来。”"
-              },
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6aea54376c2140d939cde56c/master/w_1600%2Cc_limit/Aina%2520Speaker%2520and%2520Shifter.png"
+                "x": "「空調の総エネルギー使用量を減らす可能性は確かにある」とKTHのBjörn Palmは言う。では、どれほどか。それははっきりしない。GradientのCTO、Vincent Romaninは懐疑的だ。「在室センサー付きの製品で、うまく機能したと感じたものは個人的に一度もない」。Palmにとって2050年の持続可能な冷房を左右するのは、台所までついてくるACではなく、小型ヒートポンプと自然冷媒だ。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El anillo de Aina activa tus\nagentes de AI con un toque",
-          "body": "El anillo de Aina permite aprobar o rechazar con un toque, sin sacar el teléfono, las acciones de tus agentes de AI.",
-          "mini_headline": "El anillo de Aina para agentes de AI",
+          "headline": "Los ACs con AI y radar buscan\nreducir el consumo al enfriar",
+          "body": "LG, Samsung y Midea suman un radar que sigue a los ocupantes para guiar el frío con AI, pero el ahorro es incierto.",
+          "mini_headline": "ACs con AI y radar siguen a ocupantes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg"
+                "src": "https://media.wired.com/photos/6ad0bda38de176c462eac73d/master/w_2560%2Cc_limit/Screenshot%25202026-10-15%2520at%252012.48.10.jpg"
               },
               {
                 "t": "p",
-                "x": "Apoorv Shankar cree que, en un futuro muy cercano, las personas interactuarán con la tecnología mediante una serie de aprobaciones y rechazos. Los agentes de AI acudirán a nosotros de forma proactiva para completar tareas. Sacar el teléfono cada vez para decir sí o no será un “cuello de botella”, afirma. Por eso creó el Aina Ring. Tiene una pequeña pantalla y un botón similar a un joystick que permite aceptar o rechazar rápidamente las acciones de un agente de AI. Las reservas ya están abiertas; el anillo cuesta $399 por tiempo limitado, antes de que el precio de venta suba a $499 cuando comience a enviarse en enero de 2027."
+                "x": "Los aires acondicionados y ventiladores eléctricos representan alrededor del 20 por ciento de la electricidad usada en edificios de todo el mundo, y el número de unidades de AC en uso podría llegar a 5.5 mil millones en 2050. En 2026, los AI-powered ACs ya rastrean a las personas en casa con precisión milimétrica."
               },
+              {
+                "t": "p",
+                "x": "El nuevo DualCool AI AC de LG tiene un sensor de radar de 5 metros para detectar personas. El Companion Living AC de Hisense usa sensores del hogar inteligente para preenfriar \"rutas objetivo\" según tus rutinas. El purificador y ventilador Find+Follow de Dyson usa una cámara de baja resolución con detección de personas en 17 puntos, procesada en el dispositivo sin reconocimiento facial."
+              },
+              {
+                "t": "p",
+                "x": "El Bespoke AI WindFree Pro de Samsung añade un sensor de radar de movimiento que puede seguir a dos ocupantes; Samsung asegura un ahorro de energía de \"hasta un 30 por ciento\" con su modo de energía AI. El VitaBreeze AC de Midea, que saldrá a la venta a principios de 2027, combina fotos de la habitación con radar de ondas milimétricas."
+              },
+              {
+                "t": "p",
+                "x": "\"Sin duda tiene el potencial de reducir el consumo total de energía del aire acondicionado\", dice Björn Palm, de KTH. ¿Cuánto? Eso está menos claro. Vincent Romanin, CTO de Gradient, es escéptico: \"Personalmente nunca he usado un producto con sensor de ocupación que sintiera que funcionaba bien\". Para Palm, la refrigeración sostenible en 2050 depende de bombas de calor compactas y refrigerantes naturales, más que de un AC que te sigue hasta la cocina."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "雷达追踪AI ACs\n力求降低制冷能耗",
+          "body": "LG、Samsung和Midea加装追踪人员的雷达来引导AI制冷，但能省多少电尚不明确。",
+          "mini_headline": "雷达AI ACs 追踪室内人员",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6aea53d84d3eef846d2fcf0b/master/w_1600%2Cc_limit/Aina%2520Ring%2520Hands.jpg",
-                "cap": "El anillo Aina en una mano"
+                "src": "https://media.wired.com/photos/6ad0bda38de176c462eac73d/master/w_2560%2Cc_limit/Screenshot%25202026-10-15%2520at%252012.48.10.jpg"
               },
               {
                 "t": "p",
-                "x": "El Aina Ring de titanio se conecta a Macs o iPhones. Aprende tus rutinas a partir de tus datos personales, como la ubicación, el calendario y el correo electrónico, y de servicios de terceros conectados en la app de Aina, como Uber o Spotify. Si son las 8:30 am y sueles ir al trabajo en Uber, te sugerirá el viaje: basta con indicar que sí en el anillo y se encargará de la tarea. Shankar llama a estas sugerencias “Aina Cues”, impulsadas por el Context Aware Operating System del anillo. Los usuarios pueden crear sus propias Cues con lenguaje natural o conectar un agente de AI preferido, como Muse o Instinct."
+                "x": "空调和电风扇约占全球建筑用电量的百分之二十，到2050年，在用空调数量可能达到5.5 billion 台。来到2026年，AI-powered ACs 已能以毫米级精度追踪家中的人。"
               },
               {
                 "t": "p",
-                "x": "Aina Voice permite hablar con tus agentes de AI pulsando el botón central. “Las aprobaciones serán el futuro de las interfaces y de la interacción”, dice Shankar."
+                "x": "LG最新的DualCool AI AC配备5米雷达传感器用于检测人员。Hisense的Companion Living AC借助智能家居传感器，根据你的生活规律预先冷却\"目标路径\"。Dyson的Find+Follow净化风扇使用低分辨率摄像头进行17点人体检测，在设备端处理，不做人脸识别。"
               },
               {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6aea54376c2140d939cde56c/master/w_1600%2Cc_limit/Aina%2520Speaker%2520and%2520Shifter.png"
+                "t": "p",
+                "x": "Samsung的Bespoke AI WindFree Pro加装了可追踪两名使用者的运动雷达传感器；Samsung称其AI节能模式可节能\"最高百分之三十\"。Midea的VitaBreeze AC将于2027年初上市，结合房间照片与毫米波雷达。"
+              },
+              {
+                "t": "p",
+                "x": "\"它确实有潜力降低空调的总能耗，\"KTH的Björn Palm说。能降多少？这就不太清楚了。Gradient CTO Vincent Romanin持怀疑态度：\"我个人从没用过一款让我觉得好用的带占用传感器的产品。\"在Palm看来，到2050年实现可持续制冷，靠的是紧凑型热泵和天然制冷剂，而不是一台跟着你走进厨房的AC。"
               }
             ]
           }
@@ -223,141 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Aina 스마트 링\n탭 한 번에 AI 에이전트",
-          "body": "Aina 스마트 링은 폰 없이 탭 한 번으로 AI 에이전트 작업을 승인·거절한다.",
-          "mini_headline": "탭 한 번으로 쓰는 Aina AI 에이전트 링",
+          "headline": "레이더 추적 AI ACs\n냉방 에너지 줄일까",
+          "body": "LG·Samsung·Midea가 레이더 AI 냉방을 내놨지만 절감 폭은 모호하다.",
+          "mini_headline": "사람 쫓는 레이더 AI ACs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg"
+                "src": "https://media.wired.com/photos/6ad0bda38de176c462eac73d/master/w_2560%2Cc_limit/Screenshot%25202026-10-15%2520at%252012.48.10.jpg"
               },
               {
                 "t": "p",
-                "x": "Apoorv Shankar는 머지않아 사람들이 승인과 거절의 연속으로 기술과 상호작용하게 될 것이라고 본다. AI 에이전트가 먼저 찾아와 일을 처리하게 된다는 것이다. 그는 매번 휴대폰을 꺼내 예, 아니오를 답하는 일이 “병목”이 될 것이라고 말한다. 그래서 그는 Aina Ring을 만들었다. 작은 디스플레이와 조이스틱 같은 버튼이 달려 있어 AI 에이전트의 작업을 빠르게 수락하거나 거절할 수 있다. 현재 사전 주문을 받고 있으며, 한정 기간 가격은 $399이고 2027년 1월 배송이 시작되면 소매가는 $499로 오른다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6aea53d84d3eef846d2fcf0b/master/w_1600%2Cc_limit/Aina%2520Ring%2520Hands.jpg",
-                "cap": "손에 낀 Aina 링"
+                "x": "에어컨과 선풍기는 전 세계 건물 전력 사용량의 약 20퍼센트를 차지하고, 사용 중인 AC 대수는 2050년까지 5.5B 대에 이를 수 있다. 2026년 현재 AI-powered ACs는 집 안의 사람을 밀리미터 수준의 정밀도로 추적한다."
               },
               {
                 "t": "p",
-                "x": "티타늄 소재의 Aina Ring은 Macs나 iPhones와 연결된다. 위치, 캘린더, 이메일 같은 개인 데이터와 Aina 앱에 연결한 Uber, Spotify 등 서드파티 서비스에서 사용자의 일과를 학습한다. 8:30 am에 평소 Uber로 출근한다면 차량 호출을 제안하고, 링에서 ‘예’로 튕기면 작업을 처리한다. Shankar는 이를 “Aina Cues”라고 부르며, 링의 Context Aware Operating System이 이를 구동한다. 사용자는 자연어로 자신만의 Cues를 만들거나 Muse, Instinct 같은 선호하는 AI 에이전트를 연결할 수 있다."
+                "x": "LG의 최신 DualCool AI AC는 사람을 감지하는 5미터 레이더 센서를 갖췄다. Hisense의 Companion Living AC는 스마트홈 센서로 사용자의 생활 패턴에 맞춰 \"목표 경로\"를 미리 냉방한다. Dyson의 Find+Follow 공기청정 선풍기는 17개 지점으로 사람을 감지하는 저해상도 카메라를 쓰며, 얼굴 인식 없이 기기 안에서 처리한다."
               },
               {
                 "t": "p",
-                "x": "Aina Voice를 쓰면 가운데 버튼을 눌러 AI 에이전트와 대화할 수 있다. Shankar는 “승인이 인터페이스와 상호작용의 미래가 될 것”이라고 말한다."
+                "x": "Samsung의 Bespoke AI WindFree Pro는 두 명까지 추적하는 모션 레이더 센서를 더했다. Samsung은 AI 에너지 모드로 \"최대 30퍼센트\"의 에너지를 아낀다고 주장한다. 2027년 초 출시되는 Midea의 VitaBreeze AC는 방 사진과 밀리미터파 레이더를 결합한다."
               },
               {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6aea54376c2140d939cde56c/master/w_1600%2Cc_limit/Aina%2520Speaker%2520and%2520Shifter.png"
+                "t": "p",
+                "x": "KTH의 Björn Palm은 \"냉방에 쓰이는 전체 에너지를 줄일 잠재력은 분명히 있다\"고 말한다. 얼마나 줄일 수 있을까? 그건 덜 분명하다. Gradient CTO Vincent Romanin은 회의적이다. \"재실 센서가 달린 제품 중 제대로 작동한다고 느낀 것은 개인적으로 한 번도 없었다.\" Palm은 2050년의 지속 가능한 냉방이 부엌까지 따라오는 AC가 아니라 소형 히트펌프와 자연 냉매에 달렸다고 본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ainaのスマートリング\nAIエージェントを一押しで",
-          "body": "Ainaのリングは、スマホを出さずにAIエージェントの操作をワンタップで承認・拒否できる。",
-          "mini_headline": "ワンタップでAIエージェントを操るAinaのリング",
+          "headline": "レーダー追跡のAI ACs\n冷房の省エネ狙う",
+          "body": "LG、Samsung、Mideaが在室者追跡レーダーでAI冷房を向けるが、効果は不透明だ。",
+          "mini_headline": "人を追うレーダーAI ACs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg"
+                "src": "https://media.wired.com/photos/6ad0bda38de176c462eac73d/master/w_2560%2Cc_limit/Screenshot%25202026-10-15%2520at%252012.48.10.jpg"
               },
               {
                 "t": "p",
-                "x": "Apoorv Shankarは、ごく近い将来、人は承認と拒否の連続を通じてテクノロジーと関わるようになると考えている。AIエージェントが自ら私たちのもとに来てタスクを片づけるようになる。そのたびにスマートフォンを取り出してイエスかノーかを答えるのは「ボトルネック」になると彼は言う。だからこそ彼はAina Ringを作った。小さなディスプレイとジョイスティックのようなボタンを備え、AIエージェントの操作をすばやく承認・拒否できる。現在予約を受け付けており、期間限定価格は$399、2027年1月に出荷が始まると小売価格は$499に上がる。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6aea53d84d3eef846d2fcf0b/master/w_1600%2Cc_limit/Aina%2520Ring%2520Hands.jpg",
-                "cap": "手にはめたAinaリング"
+                "x": "エアコンと扇風機は世界の建物で使われる電力の約20パーセントを占め、稼働するACの台数は2050年までに5.5B 台に達する可能性がある。2026年の今、AI-powered ACsは家の中の人をミリ単位の精度で追跡している。"
               },
               {
                 "t": "p",
-                "x": "チタン製のAina RingはMacsやiPhonesと接続する。位置情報、カレンダー、メールなどの個人データや、Ainaアプリで連携したUberやSpotifyなどのサードパーティーサービスから、ユーザーの日課を学習する。8:30 amにいつもUberで出勤しているなら配車を提案し、リングでイエスを弾けばタスクを処理してくれる。Shankarはこれを「Aina Cues」と呼び、リングのContext Aware Operating Systemがそれを支えている。ユーザーは自然言語で独自のCuesを作ったり、MuseやInstinctなど好みのAIエージェントを接続したりできる。"
+                "x": "LGの最新DualCool AI ACは、人を検知する5メートルのレーダーセンサーを備える。HisenseのCompanion Living ACはスマートホームのセンサーを使い、生活パターンに基づいて「ターゲット経路」を事前に冷やす。DysonのFind+Follow空気清浄ファンは17点で人を検知する低解像度カメラを使い、顔認識なしにデバイス上で処理する。"
               },
               {
                 "t": "p",
-                "x": "Aina Voiceでは、中央のボタンを押してAIエージェントと会話できる。「承認こそがインターフェースとインタラクションの未来になる」とShankarは語る。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6aea54376c2140d939cde56c/master/w_1600%2Cc_limit/Aina%2520Speaker%2520and%2520Shifter.png"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Aina智能戒指\n一点即可指挥AI智能体",
-          "body": "初创公司Aina的新款智能戒指让你无需掏出手机，轻点一下即可批准或拒绝AI智能体的操作。",
-          "mini_headline": "Aina一键AI智能体戒指",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg"
+                "x": "SamsungのBespoke AI WindFree Proは二人まで追跡できるモーションレーダーセンサーを追加した。SamsungはAI省エネモードで「最大30パーセント」の省エネになると主張する。2027年初めに発売されるMideaのVitaBreeze ACは、室内の写真とミリ波レーダーを組み合わせる。"
               },
               {
                 "t": "p",
-                "x": "Apoorv Shankar认为，在不远的将来，人们将通过一连串的批准与拒绝来与技术互动。AI智能体会主动找上门来完成任务。他说，每次都掏出手机说“是”或“否”将成为“瓶颈”。这正是他打造Aina Ring的原因。戒指配有一块小屏幕和一个类似摇杆的按钮，可以快速接受或拒绝AI智能体的操作。目前已开放预订；限时价格为$399，2027年1月开始发货时零售价将升至$499。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6aea53d84d3eef846d2fcf0b/master/w_1600%2Cc_limit/Aina%2520Ring%2520Hands.jpg",
-                "cap": "戴在手上的Aina戒指"
-              },
-              {
-                "t": "p",
-                "x": "钛金属材质的Aina Ring可连接Macs或iPhones。它会从位置、日历、电子邮件等个人数据，以及在Aina应用中接入的Uber、Spotify等第三方服务中学习你的日常习惯。如果现在是8:30 am，而你通常乘Uber上班，它就会建议叫车——在戒指上拨一下“是”，它便会处理这项任务。Shankar称之为“Aina Cues”，由戒指的Context Aware Operating System驱动。用户可以用自然语言创建自己的Cues，或连接Muse、Instinct等偏好的AI智能体。"
-              },
-              {
-                "t": "p",
-                "x": "借助Aina Voice，按下中间按钮即可与AI智能体对话。Shankar说：“批准将成为界面与交互的未来。”"
-              },
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6aea54376c2140d939cde56c/master/w_1600%2Cc_limit/Aina%2520Speaker%2520and%2520Shifter.png"
+                "x": "「空調の総エネルギー使用量を減らす可能性は確かにある」とKTHのBjörn Palmは言う。では、どれほどか。それははっきりしない。GradientのCTO、Vincent Romaninは懐疑的だ。「在室センサー付きの製品で、うまく機能したと感じたものは個人的に一度もない」。Palmにとって2050年の持続可能な冷房を左右するのは、台所までついてくるACではなく、小型ヒートポンプと自然冷媒だ。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El anillo de Aina activa tus\nagentes de AI con un toque",
-          "body": "El anillo de Aina permite aprobar o rechazar con un toque, sin sacar el teléfono, las acciones de tus agentes de AI.",
-          "mini_headline": "El anillo de Aina para agentes de AI",
+          "headline": "Los ACs con AI y radar buscan\nreducir el consumo al enfriar",
+          "body": "LG, Samsung y Midea suman un radar que sigue a los ocupantes para guiar el frío con AI, pero el ahorro es incierto.",
+          "mini_headline": "ACs con AI y radar siguen a ocupantes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg"
+                "src": "https://media.wired.com/photos/6ad0bda38de176c462eac73d/master/w_2560%2Cc_limit/Screenshot%25202026-10-15%2520at%252012.48.10.jpg"
               },
               {
                 "t": "p",
-                "x": "Apoorv Shankar cree que, en un futuro muy cercano, las personas interactuarán con la tecnología mediante una serie de aprobaciones y rechazos. Los agentes de AI acudirán a nosotros de forma proactiva para completar tareas. Sacar el teléfono cada vez para decir sí o no será un “cuello de botella”, afirma. Por eso creó el Aina Ring. Tiene una pequeña pantalla y un botón similar a un joystick que permite aceptar o rechazar rápidamente las acciones de un agente de AI. Las reservas ya están abiertas; el anillo cuesta $399 por tiempo limitado, antes de que el precio de venta suba a $499 cuando comience a enviarse en enero de 2027."
+                "x": "Los aires acondicionados y ventiladores eléctricos representan alrededor del 20 por ciento de la electricidad usada en edificios de todo el mundo, y el número de unidades de AC en uso podría llegar a 5.5 mil millones en 2050. En 2026, los AI-powered ACs ya rastrean a las personas en casa con precisión milimétrica."
               },
+              {
+                "t": "p",
+                "x": "El nuevo DualCool AI AC de LG tiene un sensor de radar de 5 metros para detectar personas. El Companion Living AC de Hisense usa sensores del hogar inteligente para preenfriar \"rutas objetivo\" según tus rutinas. El purificador y ventilador Find+Follow de Dyson usa una cámara de baja resolución con detección de personas en 17 puntos, procesada en el dispositivo sin reconocimiento facial."
+              },
+              {
+                "t": "p",
+                "x": "El Bespoke AI WindFree Pro de Samsung añade un sensor de radar de movimiento que puede seguir a dos ocupantes; Samsung asegura un ahorro de energía de \"hasta un 30 por ciento\" con su modo de energía AI. El VitaBreeze AC de Midea, que saldrá a la venta a principios de 2027, combina fotos de la habitación con radar de ondas milimétricas."
+              },
+              {
+                "t": "p",
+                "x": "\"Sin duda tiene el potencial de reducir el consumo total de energía del aire acondicionado\", dice Björn Palm, de KTH. ¿Cuánto? Eso está menos claro. Vincent Romanin, CTO de Gradient, es escéptico: \"Personalmente nunca he usado un producto con sensor de ocupación que sintiera que funcionaba bien\". Para Palm, la refrigeración sostenible en 2050 depende de bombas de calor compactas y refrigerantes naturales, más que de un AC que te sigue hasta la cocina."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "雷达追踪AI ACs\n力求降低制冷能耗",
+          "body": "LG、Samsung和Midea加装追踪人员的雷达来引导AI制冷，但能省多少电尚不明确。",
+          "mini_headline": "雷达AI ACs 追踪室内人员",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6aea53d84d3eef846d2fcf0b/master/w_1600%2Cc_limit/Aina%2520Ring%2520Hands.jpg",
-                "cap": "El anillo Aina en una mano"
+                "src": "https://media.wired.com/photos/6ad0bda38de176c462eac73d/master/w_2560%2Cc_limit/Screenshot%25202026-10-15%2520at%252012.48.10.jpg"
               },
               {
                 "t": "p",
-                "x": "El Aina Ring de titanio se conecta a Macs o iPhones. Aprende tus rutinas a partir de tus datos personales, como la ubicación, el calendario y el correo electrónico, y de servicios de terceros conectados en la app de Aina, como Uber o Spotify. Si son las 8:30 am y sueles ir al trabajo en Uber, te sugerirá el viaje: basta con indicar que sí en el anillo y se encargará de la tarea. Shankar llama a estas sugerencias “Aina Cues”, impulsadas por el Context Aware Operating System del anillo. Los usuarios pueden crear sus propias Cues con lenguaje natural o conectar un agente de AI preferido, como Muse o Instinct."
+                "x": "空调和电风扇约占全球建筑用电量的百分之二十，到2050年，在用空调数量可能达到5.5 billion 台。来到2026年，AI-powered ACs 已能以毫米级精度追踪家中的人。"
               },
               {
                 "t": "p",
-                "x": "Aina Voice permite hablar con tus agentes de AI pulsando el botón central. “Las aprobaciones serán el futuro de las interfaces y de la interacción”, dice Shankar."
+                "x": "LG最新的DualCool AI AC配备5米雷达传感器用于检测人员。Hisense的Companion Living AC借助智能家居传感器，根据你的生活规律预先冷却\"目标路径\"。Dyson的Find+Follow净化风扇使用低分辨率摄像头进行17点人体检测，在设备端处理，不做人脸识别。"
               },
               {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6aea54376c2140d939cde56c/master/w_1600%2Cc_limit/Aina%2520Speaker%2520and%2520Shifter.png"
+                "t": "p",
+                "x": "Samsung的Bespoke AI WindFree Pro加装了可追踪两名使用者的运动雷达传感器；Samsung称其AI节能模式可节能\"最高百分之三十\"。Midea的VitaBreeze AC将于2027年初上市，结合房间照片与毫米波雷达。"
+              },
+              {
+                "t": "p",
+                "x": "\"它确实有潜力降低空调的总能耗，\"KTH的Björn Palm说。能降多少？这就不太清楚了。Gradient CTO Vincent Romanin持怀疑态度：\"我个人从没用过一款让我觉得好用的带占用传感器的产品。\"在Palm看来，到2050年实现可持续制冷，靠的是紧凑型热泵和天然制冷剂，而不是一台跟着你走进厨房的AC。"
               }
             ]
           }
@@ -365,237 +315,189 @@
       }
     },
     {
-      "id": "motorola-signature27-gemini",
+      "id": "tau-humanoid-home-cleaning",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Gemini, Pixel\n넘어 Motorola로",
-      "body": "Pixel 밖에서는 Signature 27이 처음으로 Gemini 기능을 받는다.",
-      "mini_headline": "Motorola로 들어가는 Gemini Intelligence",
+      "headline": "휴머노이드 로봇이\n샌프란시스코 집 청소",
+      "body": "Tau Robotics의 샌프란시스코 청소 로봇은 아직 원격 조종에 크게 기댄다.",
+      "mini_headline": "휴머노이드 로봇이 집 청소",
       "tool": "Gadgets",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/11/05/motorola-signature-27-gemini-intelligence-features/",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&w=1600"
+            "t": "video",
+            "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.mp4"
           },
           {
             "t": "p",
-            "x": "Motorola가 Google의 Gemini Intelligence 기능을 들여온다. Pixel 밖으로는 첫 대규모 확장이며 Gboard의 Rambler 등도 지원한다. 엄밀히 따지면 Samsung의 최신 Galaxy 기기도 Google의 Gemini Intelligence를 지원하지만, Pixel 라인업 밖으로 문을 활짝 연 쪽은 Motorola다. 새 Motorola Signature 27은 지금까지 Googlebook에서만 쓸 수 있던 “Create My Widget”을 비롯해 Google의 새 기능 대부분을 공식 지원한다."
+            "x": "스타트업 Tau Robotics가 샌프란시스코 가정에 휴머노이드 로봇을 보내 청소를 시킨다. 아직은 사람이 많이 이끌어 줘야 하지만 로봇은 배우는 중이다."
           },
           {
             "t": "p",
-            "x": "“Create My Widget”은 위젯에 넣고 싶은 기능을 Gemini에 설명하면 AI가 작동하는 위젯을 만들어 주는 기능이다. Motorola는 11월 19일 출시 때부터 기본 탑재된다고 확인했다."
-          },
-          {
-            "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Create-My-Widget-7.jpg?quality=82&strip=all&w=800"
+            "x": "지금은 사람이 로봇 머리와 손목에 달린 카메라 화면을 보며 원격으로 조종한다. 로봇은 청소하는 동안 데이터를 모으고, Tau는 이 데이터로 더 독립적인 후속 로봇을 훈련할 계획이다. 침대 정리나 빨래 개기 같은 일에는 운동학적 안내를 쓴다. 사람 조종사가 동작을 하면 로봇이 그대로 따라 한다. 공동창업자 Cornelia Weinzierl은 로봇이 청소기 돌리기와 걸레질은 이미 사람 도움 없이 해낸다고 말한다."
           },
           {
             "t": "p",
-            "x": "Gboard Rambler는 긴 음성 입력 프롬프트에서 군더더기 말을 걷어내고 서식을 입힌다. Sign-to-Text는 미국 수어(American Sign Language) 영상을 영어 텍스트로 옮긴다. Gemini 작업 자동화를 켜면 AI가 Uber, DoorDash 같은 지원 앱에서 백그라운드로 작업을 처리한다."
-          },
-          {
-            "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-on-Pixel-11.jpg?quality=82&strip=all&w=800"
+            "x": "Tau는 전에는 한 시간 청소에 $30를 받았다. 지금은 로봇 두 대가 오는 주간 청소가 $60, 단발 방문이 $100다. 첫 방문 때 로봇은 계단에서 애를 먹었고, 원격 조종자의 장비가 과열되면서 일찍 철수했다. 두 번째 방문은 화장실 청소까지 훨씬 순조롭게 끝났다."
           },
           {
             "t": "p",
-            "x": "Motorola Signature 27은 지금 사전 주문을 받고 있다. 이 플래그십의 미국(US) 가격은 $1,599다."
+            "x": "Tau가 지금까지 마친 청소는 수백 건뿐이다. Weinzierl은 \"청소는 많은 사람이 정말 적극적으로 하고 싶어 하는 일이 아니다\"라고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Gemini Intelligence leaves\nPixel for Motorola",
-          "body": "Motorola's Signature 27 gets Gemini Intelligence's Rambler and Create My Widget, its first major expansion past Pixel.",
-          "mini_headline": "Motorola gets Gemini Intelligence",
+          "headline": "A humanoid robot cleans\nhomes in San Francisco",
+          "body": "Tau Robotics sends humanoid robots to clean San Francisco homes, still guided heavily by remote humans.",
+          "mini_headline": "Humanoid robot cleans homes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&w=1600"
+                "t": "video",
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.mp4"
               },
               {
                 "t": "p",
-                "x": "Motorola is adopting Google’s Gemini Intelligence features in the first major expansion beyond Pixel, with Gboard’s Rambler and more supported. While Google’s Gemini Intelligence is technically supporting Samsung’s latest Galaxy devices too, it’s Motorola that’s opening the floodgates beyond the Pixel lineup. The new Motorola Signature 27 is officially getting support for the bulk of Google’s new features, including “Create My Widget” which, so far, has only been available on Googlebook."
+                "x": "The startup Tau Robotics is sending humanoid robots to clean San Francisco homes. They still need lots of human guidance, but they're learning."
               },
               {
                 "t": "p",
-                "x": "“Create My Widget” allows users to describe the functionality they want in a widget to Gemini before the AI spits out a functional widget. Motorola confirmed it will be available out of the box on the November 19 launch date."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Create-My-Widget-7.jpg?quality=82&strip=all&w=800"
+                "x": "For now, the robots are piloted remotely by humans, who watch via cameras mounted in the robots' heads and wrists. As the robots clean, they collect data that Tau will use to train more independent descendants. Tasks like making the bed and folding laundry use kinematic guidance: the human pilot performs the motions and the robot copies them. Cofounder Cornelia Weinzierl says the robot can already vacuum and mop without human help."
               },
               {
                 "t": "p",
-                "x": "Gboard Rambler cleans up filler words in long voice-to-text prompts and can add formatting, while Sign-to-Text translates American Sign Language via video to English text. Gemini task automation lets the AI run tasks through supported apps such as Uber and DoorDash in the background."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-on-Pixel-11.jpg?quality=82&strip=all&w=800"
+                "x": "Tau was offering $30 for an hourlong cleaning; now it charges $60 per weekly cleaning with two robots, or $100 for a one-time visit. On the first visit the robot struggled with stairs and left early when its remote controller's equipment overheated; the second visit went much more smoothly, including cleaning the toilet."
               },
               {
                 "t": "p",
-                "x": "Motorola Signature 27 pre-orders are open now, with the flagship priced at $1,599 in the US."
+                "x": "Tau has completed only a couple hundred cleanings so far. \"Cleaning is not a job that a lot of people really actively want to be doing,\" Weinzierl said."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Gemini, Pixel\n넘어 Motorola로",
-          "body": "Pixel 밖에서는 Signature 27이 처음으로 Gemini 기능을 받는다.",
-          "mini_headline": "Motorola로 들어가는 Gemini Intelligence",
+          "headline": "휴머노이드 로봇이\n샌프란시스코 집 청소",
+          "body": "Tau Robotics의 샌프란시스코 청소 로봇은 아직 원격 조종에 크게 기댄다.",
+          "mini_headline": "휴머노이드 로봇이 집 청소",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&w=1600"
+                "t": "video",
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.mp4"
               },
               {
                 "t": "p",
-                "x": "Motorola가 Google의 Gemini Intelligence 기능을 들여온다. Pixel 밖으로는 첫 대규모 확장이며 Gboard의 Rambler 등도 지원한다. 엄밀히 따지면 Samsung의 최신 Galaxy 기기도 Google의 Gemini Intelligence를 지원하지만, Pixel 라인업 밖으로 문을 활짝 연 쪽은 Motorola다. 새 Motorola Signature 27은 지금까지 Googlebook에서만 쓸 수 있던 “Create My Widget”을 비롯해 Google의 새 기능 대부분을 공식 지원한다."
+                "x": "스타트업 Tau Robotics가 샌프란시스코 가정에 휴머노이드 로봇을 보내 청소를 시킨다. 아직은 사람이 많이 이끌어 줘야 하지만 로봇은 배우는 중이다."
               },
               {
                 "t": "p",
-                "x": "“Create My Widget”은 위젯에 넣고 싶은 기능을 Gemini에 설명하면 AI가 작동하는 위젯을 만들어 주는 기능이다. Motorola는 11월 19일 출시 때부터 기본 탑재된다고 확인했다."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Create-My-Widget-7.jpg?quality=82&strip=all&w=800"
+                "x": "지금은 사람이 로봇 머리와 손목에 달린 카메라 화면을 보며 원격으로 조종한다. 로봇은 청소하는 동안 데이터를 모으고, Tau는 이 데이터로 더 독립적인 후속 로봇을 훈련할 계획이다. 침대 정리나 빨래 개기 같은 일에는 운동학적 안내를 쓴다. 사람 조종사가 동작을 하면 로봇이 그대로 따라 한다. 공동창업자 Cornelia Weinzierl은 로봇이 청소기 돌리기와 걸레질은 이미 사람 도움 없이 해낸다고 말한다."
               },
               {
                 "t": "p",
-                "x": "Gboard Rambler는 긴 음성 입력 프롬프트에서 군더더기 말을 걷어내고 서식을 입힌다. Sign-to-Text는 미국 수어(American Sign Language) 영상을 영어 텍스트로 옮긴다. Gemini 작업 자동화를 켜면 AI가 Uber, DoorDash 같은 지원 앱에서 백그라운드로 작업을 처리한다."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-on-Pixel-11.jpg?quality=82&strip=all&w=800"
+                "x": "Tau는 전에는 한 시간 청소에 $30를 받았다. 지금은 로봇 두 대가 오는 주간 청소가 $60, 단발 방문이 $100다. 첫 방문 때 로봇은 계단에서 애를 먹었고, 원격 조종자의 장비가 과열되면서 일찍 철수했다. 두 번째 방문은 화장실 청소까지 훨씬 순조롭게 끝났다."
               },
               {
                 "t": "p",
-                "x": "Motorola Signature 27은 지금 사전 주문을 받고 있다. 이 플래그십의 미국(US) 가격은 $1,599다."
+                "x": "Tau가 지금까지 마친 청소는 수백 건뿐이다. Weinzierl은 \"청소는 많은 사람이 정말 적극적으로 하고 싶어 하는 일이 아니다\"라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "GeminiがPixel外へ\nMotorolaに本格展開",
-          "body": "Signature 27は、Pixel以外で初めてGemini新機能を本格搭載する。",
-          "mini_headline": "MotorolaにGemini Intelligence",
+          "headline": "人型ロボットが\nサンフランシスコの家を掃除",
+          "body": "Tau Roboticsはサンフランシスコの家庭に人型ロボットを送るが、遠隔操作頼みだ。",
+          "mini_headline": "人型ロボットが家を掃除",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&w=1600"
+                "t": "video",
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.mp4"
               },
               {
                 "t": "p",
-                "x": "Motorolaは、Pixel以外への初の大規模展開としてGoogleのGemini Intelligence機能を採用し、GboardのRamblerなどに対応する。厳密にはGoogleのGemini IntelligenceはSamsungの最新Galaxy端末にも対応しているが、Pixelシリーズの外へ本格的に門戸を開くのはMotorolaだ。新しいMotorola Signature 27は、これまでGooglebookでしか使えなかった「Create My Widget」を含め、Googleの新機能の大半に正式対応する。"
+                "x": "スタートアップのTau Roboticsは、サンフランシスコの家庭に人型ロボットを送り込んで掃除をさせている。まだ人間の手引きを多く必要とするが、学習は進んでいる。"
               },
               {
                 "t": "p",
-                "x": "「Create My Widget」は、ウィジェットに求める機能をGeminiに説明すると、AIが実際に動くウィジェットを生成する機能だ。Motorolaは、11月19日の発売日から初期状態で利用できると認めた。"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Create-My-Widget-7.jpg?quality=82&strip=all&w=800"
+                "x": "今のところロボットは人間が遠隔で操縦しており、操縦者はロボットの頭部と手首に付いたカメラで様子を見る。ロボットは掃除しながらデータを集め、Tauはそれを使ってより自律的な後継機を訓練する。ベッドメイクや洗濯物たたみなどの作業ではキネマティック誘導を使う。人間の操縦者が動作を行い、ロボットがそれをまねる仕組みだ。共同創業者のCornelia Weinzierlによると、ロボットはすでに人の助けなしで掃除機がけとモップがけができる。"
               },
               {
                 "t": "p",
-                "x": "Gboard Ramblerは長い音声入力のプロンプトからフィラーワードを取り除き、書式を加えることもできる。Sign-to-Textは動画を通じてアメリカ手話(American Sign Language)を英語テキストに翻訳する。Geminiのタスク自動化により、AIがUberやDoorDashなどの対応アプリを介してバックグラウンドでタスクを実行できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-on-Pixel-11.jpg?quality=82&strip=all&w=800"
+                "x": "Tauは以前、一時間の掃除を$30で提供していたが、現在はロボット二台による毎週の掃除で$60、単発の訪問で$100を請求する。初回の訪問ではロボットが階段に苦戦し、遠隔操縦者の機器が過熱したため早めに引き上げた。二回目の訪問はトイレ掃除も含めてはるかに順調だった。"
               },
               {
                 "t": "p",
-                "x": "Motorola Signature 27は現在予約受付中で、このフラッグシップの米国(US)価格は$1,599だ。"
+                "x": "Tauがこれまでに終えた掃除は数百件にすぎない。「掃除は、多くの人が本当に積極的にやりたがる仕事ではない」とWeinzierlは語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini走出Pixel\n登陆Motorola",
-          "body": "Signature 27获得Gemini新功能，这是其在Pixel之外的首次大规模扩展。",
-          "mini_headline": "Motorola迎来Gemini Intelligence",
+          "headline": "人形机器人上门\n为旧金山家庭做清洁",
+          "body": "Tau Robotics派人形机器人为旧金山家庭打扫，但仍高度依赖远程人工操控。",
+          "mini_headline": "人形机器人上门清洁",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&w=1600"
+                "t": "video",
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.mp4"
               },
               {
                 "t": "p",
-                "x": "Motorola正在采用Google的Gemini Intelligence功能，这是该功能在Pixel之外的首次大规模扩展，支持Gboard的Rambler等。虽然严格来说Google的Gemini Intelligence也支持Samsung最新的Galaxy设备，但真正为Pixel系列之外敞开大门的是Motorola。新款Motorola Signature 27正式支持Google大部分新功能，包括此前仅在Googlebook上提供的“Create My Widget”。"
+                "x": "初创公司Tau Robotics正派人形机器人为旧金山的家庭做清洁。它们仍需要大量人工指导，但正在学习。"
               },
               {
                 "t": "p",
-                "x": "“Create My Widget”让用户向Gemini描述想要的小组件功能，随后由AI生成可用的小组件。Motorola确认，该功能将在11月19日发售当天开箱即用。"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Create-My-Widget-7.jpg?quality=82&strip=all&w=800"
+                "x": "目前，机器人由人远程操控，操作者通过安装在机器人头部和手腕上的摄像头观察。机器人在清洁时收集数据，Tau将用这些数据训练更独立的后续机型。铺床和叠衣服等任务采用运动学引导：人类操作者做出动作，机器人照着模仿。联合创始人Cornelia Weinzierl表示，机器人已能在无人协助的情况下吸尘和拖地。"
               },
               {
                 "t": "p",
-                "x": "Gboard Rambler能清理长段语音转文字提示中的口头赘词，还能添加格式；Sign-to-Text则通过视频将美国手语（American Sign Language）翻译成英文文本。借助Gemini任务自动化，AI可在后台通过Uber、DoorDash等受支持的应用执行任务。"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-on-Pixel-11.jpg?quality=82&strip=all&w=800"
+                "x": "Tau此前提供一小时清洁服务，收费$30；现在由两台机器人每周清洁一次收费$60，单次上门收费$100。第一次上门时，机器人在楼梯上遇到困难，又因远程操控者的设备过热而提前离开；第二次上门则顺利得多，连马桶也清洁了。"
               },
               {
                 "t": "p",
-                "x": "Motorola Signature 27现已开放预订，这款旗舰机在美国（US）售价$1,599。"
+                "x": "到目前为止，Tau只完成了几百次清洁。“清洁并不是很多人真正主动想做的工作，”Weinzierl说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemini Intelligence sale\nde Pixel y llega a Motorola",
-          "body": "Motorola Signature 27 suma Rambler y Create My Widget, la primera gran expansión de Gemini Intelligence fuera de Pixel.",
-          "mini_headline": "Motorola recibe Gemini Intelligence",
+          "headline": "Un robot humanoide limpia\ncasas en San Francisco",
+          "body": "Tau Robotics envía robots humanoides a limpiar casas en San Francisco, aún muy guiados por humanos a distancia.",
+          "mini_headline": "Robot humanoide limpia casas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&w=1600"
+                "t": "video",
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.mp4"
               },
               {
                 "t": "p",
-                "x": "Motorola adopta las funciones Gemini Intelligence de Google en su primera gran expansión fuera de Pixel, con compatibilidad con Rambler de Gboard y más. Aunque técnicamente Gemini Intelligence de Google también es compatible con los dispositivos Galaxy más recientes de Samsung, es Motorola quien abre de par en par las puertas más allá de la línea Pixel. El nuevo Motorola Signature 27 recibe oficialmente la mayoría de las nuevas funciones de Google, incluida “Create My Widget”, que hasta ahora solo estaba disponible en Googlebook."
+                "x": "La startup Tau Robotics envía robots humanoides a limpiar casas en San Francisco. Todavía necesitan mucha guía humana, pero están aprendiendo."
               },
               {
                 "t": "p",
-                "x": "“Create My Widget” permite a los usuarios describir a Gemini la funcionalidad que desean en un widget para que la AI genere un widget funcional. Motorola confirmó que estará disponible de serie en la fecha de lanzamiento del 19 de noviembre."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Create-My-Widget-7.jpg?quality=82&strip=all&w=800"
+                "x": "Por ahora, los robots los pilotan a distancia personas que observan a través de cámaras montadas en la cabeza y las muñecas de los robots. Mientras limpian, los robots recogen datos que Tau usará para entrenar a descendientes más independientes. Tareas como hacer la cama y doblar la ropa usan guía cinemática: el piloto humano ejecuta los movimientos y el robot los copia. La cofundadora Cornelia Weinzierl dice que el robot ya puede aspirar y fregar sin ayuda humana."
               },
               {
                 "t": "p",
-                "x": "Gboard Rambler elimina las muletillas en las instrucciones largas de voz a texto y puede añadir formato, mientras que Sign-to-Text traduce mediante video la lengua de señas estadounidense (American Sign Language) a texto en inglés. La automatización de tareas de Gemini permite que la AI ejecute tareas en segundo plano a través de apps compatibles como Uber y DoorDash."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-on-Pixel-11.jpg?quality=82&strip=all&w=800"
+                "x": "Tau ofrecía una limpieza de una hora por $30; ahora cobra $60 por una limpieza semanal con dos robots, o $100 por una visita única. En la primera visita, el robot tuvo problemas con las escaleras y se fue antes de tiempo cuando se sobrecalentó el equipo de su controlador remoto; la segunda visita fue mucho mejor, e incluyó la limpieza del inodoro."
               },
               {
                 "t": "p",
-                "x": "Las reservas del Motorola Signature 27 ya están abiertas, y el buque insignia cuesta $1,599 en Estados Unidos (US)."
+                "x": "Hasta ahora, Tau solo ha completado un par de cientos de limpiezas. \"Limpiar no es un trabajo que mucha gente realmente quiera hacer de forma activa\", dijo Weinzierl."
               }
             ]
           }
@@ -603,153 +505,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Gemini, Pixel\n넘어 Motorola로",
-          "body": "Signature 27이 Pixel 밖 처음으로 Gemini 기능을 받는다.",
-          "mini_headline": "Motorola에 Gemini Intelligence 탑재",
+          "headline": "휴머노이드 로봇이\n샌프란시스코 집 청소",
+          "body": "Tau Robotics의 샌프란시스코 청소 로봇은 아직 원격 조종에 크게 기댄다.",
+          "mini_headline": "휴머노이드 로봇이 집 청소",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&w=1600"
+                "t": "video",
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.mp4"
               },
               {
                 "t": "p",
-                "x": "Motorola가 Google의 Gemini Intelligence 기능을 도입한다. Pixel을 넘어선 첫 대규모 확장으로, Gboard의 Rambler 등을 지원한다. 엄밀히 말해 Google의 Gemini Intelligence는 Samsung의 최신 Galaxy 기기도 지원하지만, Pixel 라인업 밖으로 문을 활짝 연 것은 Motorola다. 새 Motorola Signature 27은 지금까지 Googlebook에서만 쓸 수 있던 “Create My Widget”을 포함해 Google의 새 기능 대부분을 공식 지원한다."
+                "x": "스타트업 Tau Robotics가 샌프란시스코 가정에 휴머노이드 로봇을 보내 청소를 맡기고 있다. 아직 사람의 안내가 많이 필요하지만, 로봇은 배우는 중이다."
               },
               {
                 "t": "p",
-                "x": "“Create My Widget”은 사용자가 위젯에 원하는 기능을 Gemini에 설명하면 AI가 작동하는 위젯을 만들어 내는 기능이다. Motorola는 11월 19일 출시일부터 기본 탑재된다고 확인했다."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Create-My-Widget-7.jpg?quality=82&strip=all&w=800"
+                "x": "지금은 사람이 로봇의 머리와 손목에 달린 카메라로 보면서 원격 조종한다. 로봇은 청소하면서 데이터를 모으고, Tau는 이 데이터로 더 독립적인 후속 로봇을 훈련할 계획이다. 침대 정리나 빨래 개기 같은 작업에는 운동학적 안내를 쓴다. 사람 조종사가 동작을 하면 로봇이 따라 하는 방식이다. 공동창업자 Cornelia Weinzierl은 로봇이 이미 사람 도움 없이 청소기 돌리기와 걸레질을 할 수 있다고 말한다."
               },
               {
                 "t": "p",
-                "x": "Gboard Rambler는 긴 음성 입력 프롬프트에서 군더더기 말을 정리하고 서식을 더할 수 있으며, Sign-to-Text는 영상으로 미국 수어(American Sign Language)를 영어 텍스트로 옮긴다. Gemini 작업 자동화를 쓰면 AI가 Uber, DoorDash 같은 지원 앱을 통해 백그라운드에서 작업을 수행한다."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-on-Pixel-11.jpg?quality=82&strip=all&w=800"
+                "x": "Tau는 한 시간 청소에 $30를 받았지만, 지금은 로봇 두 대가 하는 주간 청소에 $60, 단발 방문에 $100를 받는다. 첫 방문에서 로봇은 계단에 애를 먹었고, 원격 조종자의 장비가 과열되자 일찍 철수했다. 두 번째 방문은 화장실 청소까지 포함해 훨씬 순조로웠다."
               },
               {
                 "t": "p",
-                "x": "Motorola Signature 27은 현재 사전 주문을 받고 있으며, 이 플래그십의 미국(US) 가격은 $1,599다."
+                "x": "Tau가 지금까지 마친 청소는 수백 건에 불과하다. Weinzierl은 \"청소는 많은 사람이 정말 적극적으로 하고 싶어 하는 일이 아니다\"라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "GeminiがPixel外へ\nMotorolaに本格展開",
-          "body": "Signature 27は、Pixel以外で初めてGemini新機能を本格搭載する。",
-          "mini_headline": "MotorolaにGemini Intelligence",
+          "headline": "人型ロボットが\nサンフランシスコの家を掃除",
+          "body": "Tau Roboticsはサンフランシスコの家庭に人型ロボットを送るが、遠隔操作頼みだ。",
+          "mini_headline": "人型ロボットが家を掃除",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&w=1600"
+                "t": "video",
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.mp4"
               },
               {
                 "t": "p",
-                "x": "Motorolaは、Pixel以外への初の大規模展開としてGoogleのGemini Intelligence機能を採用し、GboardのRamblerなどに対応する。厳密にはGoogleのGemini IntelligenceはSamsungの最新Galaxy端末にも対応しているが、Pixelシリーズの外へ本格的に門戸を開くのはMotorolaだ。新しいMotorola Signature 27は、これまでGooglebookでしか使えなかった「Create My Widget」を含め、Googleの新機能の大半に正式対応する。"
+                "x": "スタートアップのTau Roboticsは、サンフランシスコの家庭に人型ロボットを送り込んで掃除をさせている。まだ人間の手引きを多く必要とするが、学習は進んでいる。"
               },
               {
                 "t": "p",
-                "x": "「Create My Widget」は、ウィジェットに求める機能をGeminiに説明すると、AIが実際に動くウィジェットを生成する機能だ。Motorolaは、11月19日の発売日から初期状態で利用できると認めた。"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Create-My-Widget-7.jpg?quality=82&strip=all&w=800"
+                "x": "今のところロボットは人間が遠隔で操縦しており、操縦者はロボットの頭部と手首に付いたカメラで様子を見る。ロボットは掃除しながらデータを集め、Tauはそれを使ってより自律的な後継機を訓練する。ベッドメイクや洗濯物たたみなどの作業ではキネマティック誘導を使う。人間の操縦者が動作を行い、ロボットがそれをまねる仕組みだ。共同創業者のCornelia Weinzierlによると、ロボットはすでに人の助けなしで掃除機がけとモップがけができる。"
               },
               {
                 "t": "p",
-                "x": "Gboard Ramblerは長い音声入力のプロンプトからフィラーワードを取り除き、書式を加えることもできる。Sign-to-Textは動画を通じてアメリカ手話(American Sign Language)を英語テキストに翻訳する。Geminiのタスク自動化により、AIがUberやDoorDashなどの対応アプリを介してバックグラウンドでタスクを実行できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-on-Pixel-11.jpg?quality=82&strip=all&w=800"
+                "x": "Tauは以前、一時間の掃除を$30で提供していたが、現在はロボット二台による毎週の掃除で$60、単発の訪問で$100を請求する。初回の訪問ではロボットが階段に苦戦し、遠隔操縦者の機器が過熱したため早めに引き上げた。二回目の訪問はトイレ掃除も含めてはるかに順調だった。"
               },
               {
                 "t": "p",
-                "x": "Motorola Signature 27は現在予約受付中で、このフラッグシップの米国(US)価格は$1,599だ。"
+                "x": "Tauがこれまでに終えた掃除は数百件にすぎない。「掃除は、多くの人が本当に積極的にやりたがる仕事ではない」とWeinzierlは語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini走出Pixel\n登陆Motorola",
-          "body": "Signature 27获得Gemini新功能，这是其在Pixel之外的首次大规模扩展。",
-          "mini_headline": "Motorola迎来Gemini Intelligence",
+          "headline": "人形机器人上门\n为旧金山家庭做清洁",
+          "body": "Tau Robotics派人形机器人为旧金山家庭打扫，但仍高度依赖远程人工操控。",
+          "mini_headline": "人形机器人上门清洁",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&w=1600"
+                "t": "video",
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.mp4"
               },
               {
                 "t": "p",
-                "x": "Motorola正在采用Google的Gemini Intelligence功能，这是该功能在Pixel之外的首次大规模扩展，支持Gboard的Rambler等。虽然严格来说Google的Gemini Intelligence也支持Samsung最新的Galaxy设备，但真正为Pixel系列之外敞开大门的是Motorola。新款Motorola Signature 27正式支持Google大部分新功能，包括此前仅在Googlebook上提供的“Create My Widget”。"
+                "x": "初创公司Tau Robotics正派人形机器人为旧金山的家庭做清洁。它们仍需要大量人工指导，但正在学习。"
               },
               {
                 "t": "p",
-                "x": "“Create My Widget”让用户向Gemini描述想要的小组件功能，随后由AI生成可用的小组件。Motorola确认，该功能将在11月19日发售当天开箱即用。"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Create-My-Widget-7.jpg?quality=82&strip=all&w=800"
+                "x": "目前，机器人由人远程操控，操作者通过安装在机器人头部和手腕上的摄像头观察。机器人在清洁时收集数据，Tau将用这些数据训练更独立的后续机型。铺床和叠衣服等任务采用运动学引导：人类操作者做出动作，机器人照着模仿。联合创始人Cornelia Weinzierl表示，机器人已能在无人协助的情况下吸尘和拖地。"
               },
               {
                 "t": "p",
-                "x": "Gboard Rambler能清理长段语音转文字提示中的口头赘词，还能添加格式；Sign-to-Text则通过视频将美国手语（American Sign Language）翻译成英文文本。借助Gemini任务自动化，AI可在后台通过Uber、DoorDash等受支持的应用执行任务。"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-on-Pixel-11.jpg?quality=82&strip=all&w=800"
+                "x": "Tau此前提供一小时清洁服务，收费$30；现在由两台机器人每周清洁一次收费$60，单次上门收费$100。第一次上门时，机器人在楼梯上遇到困难，又因远程操控者的设备过热而提前离开；第二次上门则顺利得多，连马桶也清洁了。"
               },
               {
                 "t": "p",
-                "x": "Motorola Signature 27现已开放预订，这款旗舰机在美国（US）售价$1,599。"
+                "x": "到目前为止，Tau只完成了几百次清洁。“清洁并不是很多人真正主动想做的工作，”Weinzierl说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemini Intelligence sale\nde Pixel y llega a Motorola",
-          "body": "Motorola Signature 27 suma Rambler y Create My Widget, la primera gran expansión de Gemini Intelligence fuera de Pixel.",
-          "mini_headline": "Motorola recibe Gemini Intelligence",
+          "headline": "Un robot humanoide limpia\ncasas en San Francisco",
+          "body": "Tau Robotics envía robots humanoides a limpiar casas en San Francisco, aún muy guiados por humanos a distancia.",
+          "mini_headline": "Robot humanoide limpia casas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&w=1600"
+                "t": "video",
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.mp4"
               },
               {
                 "t": "p",
-                "x": "Motorola adopta las funciones Gemini Intelligence de Google en su primera gran expansión fuera de Pixel, con compatibilidad con Rambler de Gboard y más. Aunque técnicamente Gemini Intelligence de Google también es compatible con los dispositivos Galaxy más recientes de Samsung, es Motorola quien abre de par en par las puertas más allá de la línea Pixel. El nuevo Motorola Signature 27 recibe oficialmente la mayoría de las nuevas funciones de Google, incluida “Create My Widget”, que hasta ahora solo estaba disponible en Googlebook."
+                "x": "La startup Tau Robotics envía robots humanoides a limpiar casas en San Francisco. Todavía necesitan mucha guía humana, pero están aprendiendo."
               },
               {
                 "t": "p",
-                "x": "“Create My Widget” permite a los usuarios describir a Gemini la funcionalidad que desean en un widget para que la AI genere un widget funcional. Motorola confirmó que estará disponible de serie en la fecha de lanzamiento del 19 de noviembre."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Create-My-Widget-7.jpg?quality=82&strip=all&w=800"
+                "x": "Por ahora, los robots los pilotan a distancia personas que observan a través de cámaras montadas en la cabeza y las muñecas de los robots. Mientras limpian, los robots recogen datos que Tau usará para entrenar a descendientes más independientes. Tareas como hacer la cama y doblar la ropa usan guía cinemática: el piloto humano ejecuta los movimientos y el robot los copia. La cofundadora Cornelia Weinzierl dice que el robot ya puede aspirar y fregar sin ayuda humana."
               },
               {
                 "t": "p",
-                "x": "Gboard Rambler elimina las muletillas en las instrucciones largas de voz a texto y puede añadir formato, mientras que Sign-to-Text traduce mediante video la lengua de señas estadounidense (American Sign Language) a texto en inglés. La automatización de tareas de Gemini permite que la AI ejecute tareas en segundo plano a través de apps compatibles como Uber y DoorDash."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-on-Pixel-11.jpg?quality=82&strip=all&w=800"
+                "x": "Tau ofrecía una limpieza de una hora por $30; ahora cobra $60 por una limpieza semanal con dos robots, o $100 por una visita única. En la primera visita, el robot tuvo problemas con las escaleras y se fue antes de tiempo cuando se sobrecalentó el equipo de su controlador remoto; la segunda visita fue mucho mejor, e incluyó la limpieza del inodoro."
               },
               {
                 "t": "p",
-                "x": "Las reservas del Motorola Signature 27 ya están abiertas, y el buque insignia cuesta $1,599 en Estados Unidos (US)."
+                "x": "Hasta ahora, Tau solo ha completado un par de cientos de limpiezas. \"Limpiar no es un trabajo que mucha gente realmente quiera hacer de forma activa\", dijo Weinzierl."
               }
             ]
           }
@@ -757,15 +627,387 @@
       }
     },
     {
-      "id": "samsung-xr-glasses-preorder",
+      "id": "syncere-lume-robot-lamp",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Samsung XR 안경\n11월 12일 예약 시작",
-      "body": "Samsung Android XR 안경이 11월 12일부터 사전 주문을 받는다.",
-      "mini_headline": "Samsung XR 안경 11월 12일 예약",
+      "headline": "Syncere의 Lume은\n빨래 개는 로봇 램프",
+      "body": "Syncere의 $2,699 Lume은 로컬 AI 팔로 빨래 개고 침대를 정리한다.",
+      "mini_headline": "빨래 개는 Lume 램프",
       "tool": "Gadgets",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/samsung-smart-glasses-pre-orders-3732159/",
+      "source": "The Gadgeteer",
+      "url": "https://the-gadgeteer.com/2026/11/06/syncere-lume-robot-lamp-2699/",
+      "accent": "#f5a623",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero-1280x720.jpg",
+            "cap": "침대 옆에서 빨래를 들고 있는 Syncere Lume 로봇 램프"
+          },
+          {
+            "t": "p",
+            "x": "Lume은 안에 로봇이 접혀 있는 플로어 램프다. 일을 시키면 관절형 팔을 펴고 침대나 빨래 더미 쪽으로 굴러가 옷 개기, 침대 정리, 베개 정돈, 정리정돈 같은 부드러운 집안일을 한다. Syncere는 로봇공학자 Aaron Tan과 Angus Fung이 세운 Palo Alto 스타트업이다. Lume 가격은 $2,699부터다."
+          },
+          {
+            "t": "video",
+            "yt": "ahBF2XkA9No"
+          },
+          {
+            "t": "p",
+            "x": "Syncere는 로봇 조작, 온보드 인식, 로컬 AI 연산을 축으로 제품을 만든다. 보고 판단하는 일은 기기 안에서 이뤄진다. Lume마다 Personalization Band가 딸려 온다. 옷 개는 법과 원하는 침대 정리 방식을 직접 보여 주면 로봇이 취향을 익힌다."
+          },
+          {
+            "t": "img",
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-folded.jpg",
+            "cap": "접으면 Lume은 평범한 플로어 램프다. 이미지: Syncere"
+          },
+          {
+            "t": "p",
+            "x": "램프 두 개짜리 Duet은 $5,199다. LumeCare는 $489다. 새 기능과 앞으로 나올 작업을 평생 쓰는 Autonomy는 $679이며 램프당 월 $79로 낼 수도 있다. 주문은 초대제로 받고 첫 배송은 2027년 첫째와 둘째 분기다. Syncere는 a16z Speedrun이 이끈 $11M 규모 프리시드 투자를 마쳤다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Syncere's Lume lamp hides\na laundry-folding robot",
+          "body": "Syncere's $2,699 Lume floor lamp hides a robot arm with local AI that folds laundry and makes the bed.",
+          "mini_headline": "Lume lamp folds laundry",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero-1280x720.jpg",
+                "cap": "The Syncere Lume robot lamp holding laundry beside a bed"
+              },
+              {
+                "t": "p",
+                "x": "Lume is a floor lamp with a robot folded inside it. Asked to work, it unfolds an articulated arm, rolls to the bed or the laundry pile, and gets through the soft chores: folding clothes, making the bed, resetting pillows, tidying. Syncere is a Palo Alto startup founded by roboticists Aaron Tan and Angus Fung. Lume starts at $2,699."
+              },
+              {
+                "t": "video",
+                "yt": "ahBF2XkA9No"
+              },
+              {
+                "t": "p",
+                "x": "Syncere builds the product around robotic manipulation, onboard perception, and local AI compute, so the seeing and the deciding happen on the device. Every Lume ships with a Personalization Band: you demonstrate how you fold and how you like the bed made, and the robot learns your preferences."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-folded.jpg",
+                "cap": "Folded, Lume is a plain floor lamp. Image: Syncere"
+              },
+              {
+                "t": "p",
+                "x": "The Duet, two lamps, is $5,199. LumeCare runs $489; Autonomy costs $679 for lifetime access to new features and future tasks, or $79 a month per lamp. Ordering is by invitation, with initial deliveries in the first and second quarters of 2027. Syncere has closed an $11 million pre-seed round led by a16z Speedrun."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Syncere의 Lume은\n빨래 개는 로봇 램프",
+          "body": "Syncere의 $2,699 Lume은 로컬 AI 팔로 빨래 개고 침대를 정리한다.",
+          "mini_headline": "빨래 개는 Lume 램프",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero-1280x720.jpg",
+                "cap": "침대 옆에서 빨래를 들고 있는 Syncere Lume 로봇 램프"
+              },
+              {
+                "t": "p",
+                "x": "Lume은 안에 로봇이 접혀 있는 플로어 램프다. 일을 시키면 관절형 팔을 펴고 침대나 빨래 더미 쪽으로 굴러가 옷 개기, 침대 정리, 베개 정돈, 정리정돈 같은 부드러운 집안일을 한다. Syncere는 로봇공학자 Aaron Tan과 Angus Fung이 세운 Palo Alto 스타트업이다. Lume 가격은 $2,699부터다."
+              },
+              {
+                "t": "video",
+                "yt": "ahBF2XkA9No"
+              },
+              {
+                "t": "p",
+                "x": "Syncere는 로봇 조작, 온보드 인식, 로컬 AI 연산을 축으로 제품을 만든다. 보고 판단하는 일은 기기 안에서 이뤄진다. Lume마다 Personalization Band가 딸려 온다. 옷 개는 법과 원하는 침대 정리 방식을 직접 보여 주면 로봇이 취향을 익힌다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-folded.jpg",
+                "cap": "접으면 Lume은 평범한 플로어 램프다. 이미지: Syncere"
+              },
+              {
+                "t": "p",
+                "x": "램프 두 개짜리 Duet은 $5,199다. LumeCare는 $489다. 새 기능과 앞으로 나올 작업을 평생 쓰는 Autonomy는 $679이며 램프당 월 $79로 낼 수도 있다. 주문은 초대제로 받고 첫 배송은 2027년 첫째와 둘째 분기다. Syncere는 a16z Speedrun이 이끈 $11M 규모 프리시드 투자를 마쳤다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "SyncereのLumeに\n潜む洗濯たたみロボット",
+          "body": "Syncereの$2,699のLumeはローカルAIの腕で洗濯物をたたみ、ベッドを整える。",
+          "mini_headline": "Lumeランプが洗濯物をたたむ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero-1280x720.jpg",
+                "cap": "ベッドの横で洗濯物を持つSyncere Lumeロボットランプ"
+              },
+              {
+                "t": "p",
+                "x": "Lumeは、ロボットが中に折りたたまれたフロアランプだ。作業を頼むと関節式アームを広げ、ベッドや洗濯物の山まで移動し、服をたたむ、ベッドを整える、枕を直す、片付けるといった柔らかい家事をこなす。SyncereはロボットエンジニアのAaron TanとAngus Fungが創業したPalo Altoのスタートアップだ。Lumeは$2,699からだ。"
+              },
+              {
+                "t": "video",
+                "yt": "ahBF2XkA9No"
+              },
+              {
+                "t": "p",
+                "x": "Syncereはロボットによる物体操作、オンボードの知覚、ローカルAI演算を軸に製品を作っており、見ることも判断することもデバイス上で行われる。すべてのLumeにはPersonalization Bandが付属する。服のたたみ方やベッドの整え方を実演すると、ロボットが好みを学ぶ。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-folded.jpg",
+                "cap": "たたむとLumeは普通のフロアランプになる。画像：Syncere"
+              },
+              {
+                "t": "p",
+                "x": "ランプ二台のDuetは$5,199だ。LumeCareは$489、新機能と今後のタスクを生涯利用できるAutonomyは$679、またはランプ一台あたり月$79だ。注文は招待制で、最初の出荷は2027年の第一・第二四半期となる。Syncereはa16z Speedrunが主導した$11M のプレシードラウンドを完了した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Syncere的Lume台灯\n藏着叠衣服机器人",
+          "body": "Syncere售价$2,699的Lume落地灯藏有本地AI机械臂，能叠衣服、铺床。",
+          "mini_headline": "Lume台灯会叠衣服",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero-1280x720.jpg",
+                "cap": "Syncere Lume机器人台灯在床边拿着衣物"
+              },
+              {
+                "t": "p",
+                "x": "Lume是一盏内部折叠着机器人的落地灯。需要它干活时，它会展开关节臂，移动到床边或衣物堆旁，完成叠衣服、铺床、整理枕头、收拾房间等轻柔家务。Syncere是一家Palo Alto初创公司，由机器人专家Aaron Tan和Angus Fung创立。Lume起价$2,699。"
+              },
+              {
+                "t": "video",
+                "yt": "ahBF2XkA9No"
+              },
+              {
+                "t": "p",
+                "x": "Syncere围绕机器人操控、机载感知和本地AI算力打造产品，因此观察和决策都在设备上完成。每台Lume都附带Personalization Band：你示范如何叠衣服、喜欢怎样铺床，机器人就会学习你的偏好。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-folded.jpg",
+                "cap": "折叠起来时，Lume就是一盏普通的落地灯。图片：Syncere"
+              },
+              {
+                "t": "p",
+                "x": "两盏灯的Duet售价$5,199。LumeCare为$489；Autonomy售价$679，可终身使用新功能和未来任务，或每盏灯每月$79。产品采用邀请制订购，首批交付在2027年第一和第二季度。Syncere已完成由a16z Speedrun领投的$11M 种子前轮融资。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La lámpara Lume de Syncere\nesconde un robot que dobla ropa",
+          "body": "La lámpara de pie Lume de Syncere, de $2,699, oculta un brazo robótico con AI local que dobla la ropa y hace la cama.",
+          "mini_headline": "La lámpara Lume dobla la ropa",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero-1280x720.jpg",
+                "cap": "La lámpara robot Lume de Syncere sostiene ropa junto a una cama"
+              },
+              {
+                "t": "p",
+                "x": "Lume es una lámpara de pie con un robot plegado en su interior. Cuando se le pide trabajar, despliega un brazo articulado, rueda hasta la cama o el montón de ropa y se ocupa de las tareas suaves: doblar ropa, hacer la cama, colocar las almohadas, ordenar. Syncere es una startup de Palo Alto fundada por los roboticistas Aaron Tan y Angus Fung. Lume cuesta desde $2,699."
+              },
+              {
+                "t": "video",
+                "yt": "ahBF2XkA9No"
+              },
+              {
+                "t": "p",
+                "x": "Syncere construye el producto en torno a la manipulación robótica, la percepción integrada y el cómputo de AI local, de modo que ver y decidir ocurre en el dispositivo. Cada Lume incluye una Personalization Band: le muestras cómo doblas y cómo te gusta hacer la cama, y el robot aprende tus preferencias."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-folded.jpg",
+                "cap": "Plegada, Lume es una simple lámpara de pie. Imagen: Syncere"
+              },
+              {
+                "t": "p",
+                "x": "El Duet, con dos lámparas, cuesta $5,199. LumeCare cuesta $489; Autonomy vale $679 por acceso de por vida a nuevas funciones y tareas futuras, o $79 al mes por lámpara. Los pedidos son por invitación, con las primeras entregas en el primer y segundo trimestre de 2027. Syncere cerró una ronda presemilla de $11 millones liderada por a16z Speedrun."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Syncere의 Lume은\n빨래 개는 로봇 램프",
+          "body": "Syncere의 $2,699 Lume은 로컬 AI 팔로 빨래 개고 침대를 정리한다.",
+          "mini_headline": "빨래 개는 Lume 램프",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero-1280x720.jpg",
+                "cap": "침대 옆에서 빨래를 들고 있는 Syncere Lume 로봇 램프"
+              },
+              {
+                "t": "p",
+                "x": "Lume은 로봇이 접혀 들어간 플로어 램프다. 일을 시키면 관절형 팔을 펼치고 침대나 빨래 더미로 굴러가 옷 개기, 침대 정리, 베개 정돈, 정리정돈 같은 부드러운 집안일을 해낸다. Syncere는 로봇공학자 Aaron Tan과 Angus Fung이 세운 Palo Alto 스타트업이다. Lume 가격은 $2,699부터다."
+              },
+              {
+                "t": "video",
+                "yt": "ahBF2XkA9No"
+              },
+              {
+                "t": "p",
+                "x": "Syncere는 로봇 조작, 온보드 인식, 로컬 AI 연산을 중심으로 제품을 만들어, 보고 판단하는 일이 기기 안에서 이뤄진다. 모든 Lume에는 Personalization Band가 함께 제공된다. 옷 개는 법과 원하는 침대 정리 방식을 직접 보여 주면 로봇이 취향을 익힌다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-folded.jpg",
+                "cap": "접으면 Lume은 평범한 플로어 램프다. 이미지: Syncere"
+              },
+              {
+                "t": "p",
+                "x": "램프 두 개 구성인 Duet은 $5,199다. LumeCare는 $489이고, 새 기능과 향후 작업을 평생 이용하는 Autonomy는 $679, 또는 램프당 월 $79다. 주문은 초대제로 받으며 첫 배송은 2027년 첫째와 둘째 분기에 이뤄진다. Syncere는 a16z Speedrun이 주도한 $11M 규모 프리시드 투자를 마무리했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "SyncereのLumeに\n潜む洗濯たたみロボット",
+          "body": "Syncereの$2,699のLumeはローカルAIの腕で洗濯物をたたみ、ベッドを整える。",
+          "mini_headline": "Lumeランプが洗濯物をたたむ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero-1280x720.jpg",
+                "cap": "ベッドの横で洗濯物を持つSyncere Lumeロボットランプ"
+              },
+              {
+                "t": "p",
+                "x": "Lumeは、ロボットが中に折りたたまれたフロアランプだ。作業を頼むと関節式アームを広げ、ベッドや洗濯物の山まで移動し、服をたたむ、ベッドを整える、枕を直す、片付けるといった柔らかい家事をこなす。SyncereはロボットエンジニアのAaron TanとAngus Fungが創業したPalo Altoのスタートアップだ。Lumeは$2,699からだ。"
+              },
+              {
+                "t": "video",
+                "yt": "ahBF2XkA9No"
+              },
+              {
+                "t": "p",
+                "x": "Syncereはロボットによる物体操作、オンボードの知覚、ローカルAI演算を軸に製品を作っており、見ることも判断することもデバイス上で行われる。すべてのLumeにはPersonalization Bandが付属する。服のたたみ方やベッドの整え方を実演すると、ロボットが好みを学ぶ。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-folded.jpg",
+                "cap": "たたむとLumeは普通のフロアランプになる。画像：Syncere"
+              },
+              {
+                "t": "p",
+                "x": "ランプ二台のDuetは$5,199だ。LumeCareは$489、新機能と今後のタスクを生涯利用できるAutonomyは$679、またはランプ一台あたり月$79だ。注文は招待制で、最初の出荷は2027年の第一・第二四半期となる。Syncereはa16z Speedrunが主導した$11M のプレシードラウンドを完了した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Syncere的Lume台灯\n藏着叠衣服机器人",
+          "body": "Syncere售价$2,699的Lume落地灯藏有本地AI机械臂，能叠衣服、铺床。",
+          "mini_headline": "Lume台灯会叠衣服",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero-1280x720.jpg",
+                "cap": "Syncere Lume机器人台灯在床边拿着衣物"
+              },
+              {
+                "t": "p",
+                "x": "Lume是一盏内部折叠着机器人的落地灯。需要它干活时，它会展开关节臂，移动到床边或衣物堆旁，完成叠衣服、铺床、整理枕头、收拾房间等轻柔家务。Syncere是一家Palo Alto初创公司，由机器人专家Aaron Tan和Angus Fung创立。Lume起价$2,699。"
+              },
+              {
+                "t": "video",
+                "yt": "ahBF2XkA9No"
+              },
+              {
+                "t": "p",
+                "x": "Syncere围绕机器人操控、机载感知和本地AI算力打造产品，因此观察和决策都在设备上完成。每台Lume都附带Personalization Band：你示范如何叠衣服、喜欢怎样铺床，机器人就会学习你的偏好。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-folded.jpg",
+                "cap": "折叠起来时，Lume就是一盏普通的落地灯。图片：Syncere"
+              },
+              {
+                "t": "p",
+                "x": "两盏灯的Duet售价$5,199。LumeCare为$489；Autonomy售价$679，可终身使用新功能和未来任务，或每盏灯每月$79。产品采用邀请制订购，首批交付在2027年第一和第二季度。Syncere已完成由a16z Speedrun领投的$11M 种子前轮融资。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La lámpara Lume de Syncere\nesconde un robot que dobla ropa",
+          "body": "La lámpara de pie Lume de Syncere, de $2,699, oculta un brazo robótico con AI local que dobla la ropa y hace la cama.",
+          "mini_headline": "La lámpara Lume dobla la ropa",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero-1280x720.jpg",
+                "cap": "La lámpara robot Lume de Syncere sostiene ropa junto a una cama"
+              },
+              {
+                "t": "p",
+                "x": "Lume es una lámpara de pie con un robot plegado en su interior. Cuando se le pide trabajar, despliega un brazo articulado, rueda hasta la cama o el montón de ropa y se ocupa de las tareas suaves: doblar ropa, hacer la cama, colocar las almohadas, ordenar. Syncere es una startup de Palo Alto fundada por los roboticistas Aaron Tan y Angus Fung. Lume cuesta desde $2,699."
+              },
+              {
+                "t": "video",
+                "yt": "ahBF2XkA9No"
+              },
+              {
+                "t": "p",
+                "x": "Syncere construye el producto en torno a la manipulación robótica, la percepción integrada y el cómputo de AI local, de modo que ver y decidir ocurre en el dispositivo. Cada Lume incluye una Personalization Band: le muestras cómo doblas y cómo te gusta hacer la cama, y el robot aprende tus preferencias."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-folded.jpg",
+                "cap": "Plegada, Lume es una simple lámpara de pie. Imagen: Syncere"
+              },
+              {
+                "t": "p",
+                "x": "El Duet, con dos lámparas, cuesta $5,199. LumeCare cuesta $489; Autonomy vale $679 por acceso de por vida a nuevas funciones y tareas futuras, o $79 al mes por lámpara. Los pedidos son por invitación, con las primeras entregas en el primer y segundo trimestre de 2027. Syncere cerró una ronda presemilla de $11 millones liderada por a16z Speedrun."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "moto-buds-ultra27-translate",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Motorola AI 번역\n버즈로 AirPods 겨냥",
+      "body": "Moto Buds Ultra 27은 Bose-tuned 음향에 AI 번역을 더했다.",
+      "mini_headline": "Moto 버즈에 AI 번역 탑재",
+      "tool": "Gadgets",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/home-theater/motorolas-new-earbuds-are-gunning-for-airpods-with-bose-sound-and-some-handy-ai-features/",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
@@ -773,185 +1015,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
-            "cap": "Samsung Warby Parker 스마트 안경을 든 모습"
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C720&ssl=1",
+            "cap": "Motorola"
           },
           {
             "t": "p",
-            "x": "Samsung Android XR 스마트 안경 출시가 코앞이다. 사전 주문은 11월 12일에 시작한다. Google과 함께 만든 이 오디오 기반 스마트 안경에는 Warby Parker와 Gentle Monster의 테가 쓰인다. 가격과 배송 일정은 아직 나오지 않았다."
+            "x": "Motorola가 Motorola Signature 27과 함께 역대 가장 기능이 많은 이어버드 Moto Buds Ultra 27을 내놨다. Bose-tuned 음향과 적응형 노이즈 캔슬링에 실시간 번역 등 여러 AI-powered 기능을 담았다."
           },
           {
             "t": "p",
-            "x": "오디오 중심의 Android XR 경험이 될 것으로 알려졌고, 디스플레이를 넣은 Samsung 모델은 좀 더 기다려야 한다. 최근 소문으로는 결국 12월 중 출하될 전망이다. 덩치 큰 Samsung Galaxy XR 헤드셋처럼 $1,800까지는 아니겠지만, 괜찮은 휴대폰 한 대 값은 들 수 있다."
+            "x": "11mm 다이내믹 드라이버와 전용 밸런스드 아마추어에 Bose SoundDesign 튜닝과 Bose QuietControl ANC를 더했고 Hi-Res Audio, Dolby Atmos, Dolby Head Tracking도 지원한다. 배터리는 최대 여덟 시간, 케이스를 합치면 37시간 간다. IP57 등급도 받았다."
           },
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg",
-            "cap": "Warby Parker가 디자인한 Samsung 스마트 안경"
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27-lifestyle.jpg?resize=1920%2C1152&ssl=1",
+            "cap": "Motorola"
           },
           {
             "t": "p",
-            "x": "이 안경으로 시내 길 안내나 번역 도움을 받고, 그냥 Gemini와 대화하며 정보를 얻을 수도 있다. 카메라도 달려 있다. Samsung은 녹화 중에는 LED를 켜고, LED가 가려지면 이를 감지해 촬영을 막도록 했다."
+            "x": "AI Live Translate를 켜면 번역된 대화를 이어버드로 바로 듣는다. 다만 호환되는 Motorola 휴대폰이 있어야 하고 지원 언어는 다를 수 있다. 왼쪽 이어버드를 길게 누르면 Motorola Qira가 뜨며 핸즈프리 \"Hey Qira\"는 몇 달 안에 추가된다. Head Gestures를 쓰면 고개를 끄덕이거나 저어서 전화를 받거나 거절한다."
+          },
+          {
+            "t": "p",
+            "x": "Moto Buds Ultra 27은 앞으로 몇 달 안에 미국에 나온다. US 가격과 출시일은 Motorola가 아직 밝히지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Samsung's Android XR glasses\nopen for pre-order Nov. 12",
-          "body": "Pre-orders for Samsung's Android XR smart glasses, with frames from Warby Parker and Gentle Monster, begin November 12.",
-          "mini_headline": "Samsung XR glasses pre-orders Nov. 12",
+          "headline": "Motorola takes on AirPods\nwith AI translation buds",
+          "body": "Motorola's Moto Buds Ultra 27 pair Bose-tuned audio with live AI translation and gesture controls.",
+          "mini_headline": "Moto buds add AI translation",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
-                "cap": "A person holding the Samsung Warby Parker smart glasses"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Motorola"
               },
               {
                 "t": "p",
-                "x": "Samsung Android XR smart glasses are nearly here, with pre-orders now confirmed to open on November 12. The audio-based smart glasses, developed in collaboration with Google, will feature frames from Warby Parker and Gentle Monster. We’re still waiting for details on pricing and shipping dates."
+                "x": "Alongside the Motorola Signature 27 came the Moto Buds Ultra 27, Motorola's most feature-packed earbuds yet. They combine Bose-tuned audio, adaptive noise cancellation, and a collection of AI-powered features, including real-time translation."
               },
               {
                 "t": "p",
-                "x": "We know to expect an audio-first Android XR experience — Samsung models with integrated displays will have to wait. Recent rumors have suggested that the glasses will ultimately ship sometime in December. You won’t be paying anything like the $1,800 the bulky Samsung Galaxy XR headset runs, but these could still end up costing you as much as a decent phone."
+                "x": "They feature an 11mm dynamic driver with a dedicated balanced armature, Bose SoundDesign tuning and Bose QuietControl ANC, plus Hi-Res Audio, Dolby Atmos and Dolby Head Tracking. Battery life is rated at up to eight hours, and 37 hours with the case, with IP57 resistance."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg",
-                "cap": "The Samsung smart glasses designed by Warby Parker"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27-lifestyle.jpg?resize=1920%2C1152&ssl=1",
+                "cap": "Motorola"
               },
               {
                 "t": "p",
-                "x": "Shoppers can look forward to using the smart glasses for help navigating around town, assisting with translations, or just chatting with Gemini to get information. They’re also equipped with cameras, and Samsung lights up an LED while recording and refuses to film if it detects the LED has been covered."
+                "x": "AI Live Translate lets users hear translated conversations directly through their earbuds, though it requires a compatible Motorola phone and language availability varies. Long-pressing the left earbud brings up Motorola Qira, with hands-free \"Hey Qira\" coming in the coming months. Head Gestures let users answer or reject calls by nodding or shaking their head."
+              },
+              {
+                "t": "p",
+                "x": "The Moto Buds Ultra 27 will be available in the United States in the coming months; Motorola hasn't announced a US price or release date."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Samsung XR 안경\n11월 12일 예약 시작",
-          "body": "Samsung Android XR 안경이 11월 12일부터 사전 주문을 받는다.",
-          "mini_headline": "Samsung XR 안경 11월 12일 예약",
+          "headline": "Motorola AI 번역\n버즈로 AirPods 겨냥",
+          "body": "Moto Buds Ultra 27은 Bose-tuned 음향에 AI 번역을 더했다.",
+          "mini_headline": "Moto 버즈에 AI 번역 탑재",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
-                "cap": "Samsung Warby Parker 스마트 안경을 든 모습"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Motorola"
               },
               {
                 "t": "p",
-                "x": "Samsung Android XR 스마트 안경 출시가 코앞이다. 사전 주문은 11월 12일에 시작한다. Google과 함께 만든 이 오디오 기반 스마트 안경에는 Warby Parker와 Gentle Monster의 테가 쓰인다. 가격과 배송 일정은 아직 나오지 않았다."
+                "x": "Motorola가 Motorola Signature 27과 함께 역대 가장 기능이 많은 이어버드 Moto Buds Ultra 27을 내놨다. Bose-tuned 음향과 적응형 노이즈 캔슬링에 실시간 번역 등 여러 AI-powered 기능을 담았다."
               },
               {
                 "t": "p",
-                "x": "오디오 중심의 Android XR 경험이 될 것으로 알려졌고, 디스플레이를 넣은 Samsung 모델은 좀 더 기다려야 한다. 최근 소문으로는 결국 12월 중 출하될 전망이다. 덩치 큰 Samsung Galaxy XR 헤드셋처럼 $1,800까지는 아니겠지만, 괜찮은 휴대폰 한 대 값은 들 수 있다."
+                "x": "11mm 다이내믹 드라이버와 전용 밸런스드 아마추어에 Bose SoundDesign 튜닝과 Bose QuietControl ANC를 더했고 Hi-Res Audio, Dolby Atmos, Dolby Head Tracking도 지원한다. 배터리는 최대 여덟 시간, 케이스를 합치면 37시간 간다. IP57 등급도 받았다."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg",
-                "cap": "Warby Parker가 디자인한 Samsung 스마트 안경"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27-lifestyle.jpg?resize=1920%2C1152&ssl=1",
+                "cap": "Motorola"
               },
               {
                 "t": "p",
-                "x": "이 안경으로 시내 길 안내나 번역 도움을 받고, 그냥 Gemini와 대화하며 정보를 얻을 수도 있다. 카메라도 달려 있다. Samsung은 녹화 중에는 LED를 켜고, LED가 가려지면 이를 감지해 촬영을 막도록 했다."
+                "x": "AI Live Translate를 켜면 번역된 대화를 이어버드로 바로 듣는다. 다만 호환되는 Motorola 휴대폰이 있어야 하고 지원 언어는 다를 수 있다. 왼쪽 이어버드를 길게 누르면 Motorola Qira가 뜨며 핸즈프리 \"Hey Qira\"는 몇 달 안에 추가된다. Head Gestures를 쓰면 고개를 끄덕이거나 저어서 전화를 받거나 거절한다."
+              },
+              {
+                "t": "p",
+                "x": "Moto Buds Ultra 27은 앞으로 몇 달 안에 미국에 나온다. US 가격과 출시일은 Motorola가 아직 밝히지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Samsung XRグラス\n11月12日に予約開始",
-          "body": "SamsungのAndroid XRグラスは、11月12日に予約受付を始める。",
-          "mini_headline": "Samsung XRグラス、11月12日予約開始",
+          "headline": "MotorolaがAI翻訳\nイヤホンでAirPods対抗",
+          "body": "Moto Buds Ultra 27はBose-tunedの音にライブAI翻訳を加えた。",
+          "mini_headline": "MotoのイヤホンにAI翻訳",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
-                "cap": "SamsungのWarby Parker製スマートグラスを手にする人"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Motorola"
               },
               {
                 "t": "p",
-                "x": "SamsungのAndroid XRスマートグラスの登場が目前に迫り、予約受付は11月12日開始と確定した。Googleと共同開発したこのオーディオ中心のスマートグラスには、Warby ParkerとGentle Monsterのフレームが採用される。価格と出荷日の詳細はまだ明らかになっていない。"
+                "x": "Motorola Signature 27とともに、Motorola史上最も多機能なイヤホンMoto Buds Ultra 27が登場した。Bose-tunedのオーディオ、適応型ノイズキャンセリング、そしてリアルタイム翻訳を含む一連のAI-powered機能を組み合わせている。"
               },
               {
                 "t": "p",
-                "x": "オーディオ優先のAndroid XR体験になることはわかっており、ディスプレイを内蔵したSamsungモデルはまだ先になる。最近のうわさでは、このグラスは最終的に12月中に出荷されるという。大きなSamsung Galaxy XRヘッドセットの$1,800ほどにはならないものの、それなりのスマートフォン並みの価格になる可能性はある。"
+                "x": "11mmのダイナミックドライバーと専用のバランスドアーマチュア、Bose SoundDesignチューニングとBose QuietControl ANCを備え、Hi-Res Audio、Dolby Atmos、Dolby Head Trackingにも対応する。バッテリー持続時間は最大八時間、ケース併用で37時間とされ、IP57の耐性を持つ。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg",
-                "cap": "Warby ParkerがデザインしたSamsungのスマートグラス"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27-lifestyle.jpg?resize=1920%2C1152&ssl=1",
+                "cap": "Motorola"
               },
               {
                 "t": "p",
-                "x": "購入者は、街中のナビゲーションや翻訳の手助け、あるいはGeminiとの会話による情報収集にこのスマートグラスを使える。カメラも搭載しており、Samsungは録画中にLEDを点灯させ、LEDが覆われたことを検知すると撮影を拒否する仕組みにしている。"
+                "x": "AI Live Translateを使えば、翻訳された会話をイヤホンで直接聞けるが、対応するMotorolaのスマートフォンが必要で、利用できる言語は異なる。左のイヤホンを長押しするとMotorola Qiraが起動し、ハンズフリーの「Hey Qira」は今後数カ月以内に提供される。Head Gesturesでは、うなずいたり首を振ったりして通話に応答・拒否できる。"
+              },
+              {
+                "t": "p",
+                "x": "Moto Buds Ultra 27は今後数カ月以内に米国で発売される。MotorolaはUSでの価格や発売日をまだ発表していない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Samsung XR眼镜\n11月12日开启预订",
-          "body": "Samsung Android XR智能眼镜将于11月12日开启预订。",
-          "mini_headline": "Samsung XR眼镜11月12日开订",
+          "headline": "Motorola用AI翻译\n耳机挑战AirPods",
+          "body": "Moto Buds Ultra 27结合Bose-tuned音质、AI实时翻译与手势控制。",
+          "mini_headline": "Moto耳机加入AI翻译",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
-                "cap": "手持Samsung Warby Parker智能眼镜的人"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Motorola"
               },
               {
                 "t": "p",
-                "x": "Samsung Android XR智能眼镜即将到来，预订现已确定于11月12日开启。这款与Google合作开发、以音频为主的智能眼镜将采用Warby Parker和Gentle Monster的镜框。价格和发货日期等细节仍有待公布。"
+                "x": "与Motorola Signature 27一同亮相的还有Moto Buds Ultra 27，这是Motorola迄今功能最丰富的耳机。它结合了Bose-tuned音效、自适应降噪以及包括实时翻译在内的一系列AI-powered功能。"
               },
               {
                 "t": "p",
-                "x": "可以预期这将是一种音频优先的Android XR体验——带内置显示屏的Samsung型号还要再等等。近期传闻称，这款眼镜最终将在12月某个时候发货。它的价格不会接近笨重的Samsung Galaxy XR头显的$1,800，但仍可能与一部像样的手机相当。"
+                "x": "它配备11mm动圈单元和专用平衡电枢单元，采用Bose SoundDesign调音和Bose QuietControl ANC，并支持Hi-Res Audio、Dolby Atmos和Dolby Head Tracking。续航最长八小时，配合充电盒可达37小时，具备IP57防护。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg",
-                "cap": "由Warby Parker设计的Samsung智能眼镜"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27-lifestyle.jpg?resize=1920%2C1152&ssl=1",
+                "cap": "Motorola"
               },
               {
                 "t": "p",
-                "x": "购买者可以用这款智能眼镜在城中导航、辅助翻译，或者直接与Gemini聊天获取信息。眼镜还配有摄像头，Samsung会在录制时点亮LED，并在检测到LED被遮挡时拒绝拍摄。"
+                "x": "AI Live Translate让用户直接通过耳机听到翻译后的对话，但需要兼容的Motorola手机，可用语言也因情况而异。长按左耳耳机可唤出Motorola Qira，免提“Hey Qira”将在未来几个月推出。Head Gestures让用户点头或摇头即可接听或拒接电话。"
+              },
+              {
+                "t": "p",
+                "x": "Moto Buds Ultra 27将在未来几个月于美国上市；Motorola尚未公布US售价或发售日期。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las gafas Android XR de Samsung\nen preventa el 12 de noviembre",
-          "body": "La preventa de las gafas Android XR de Samsung, con monturas de Warby Parker y Gentle Monster, abre el 12 de noviembre.",
-          "mini_headline": "Gafas XR de Samsung: preventa el 12 de noviembre",
+          "headline": "Motorola reta a los AirPods\ncon auriculares de traducción AI",
+          "body": "Los Moto Buds Ultra 27 de Motorola combinan audio Bose-tuned con traducción AI en vivo y control por gestos.",
+          "mini_headline": "Los Moto Buds suman traducción AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
-                "cap": "Una persona sostiene las gafas inteligentes Samsung Warby Parker"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Motorola"
               },
               {
                 "t": "p",
-                "x": "Las gafas inteligentes Android XR de Samsung están cerca: ya se confirmó que la preventa abrirá el 12 de noviembre. Estas gafas inteligentes basadas en audio, desarrolladas en colaboración con Google, tendrán monturas de Warby Parker y Gentle Monster. Aún no se conocen detalles sobre precios ni fechas de envío."
+                "x": "Junto al Motorola Signature 27 llegaron los Moto Buds Ultra 27, los auriculares con más funciones de Motorola hasta la fecha. Combinan audio Bose-tuned, cancelación de ruido adaptativa y un conjunto de funciones AI-powered, entre ellas la traducción en tiempo real."
               },
               {
                 "t": "p",
-                "x": "Se sabe que ofrecerán una experiencia Android XR centrada en el audio; los modelos de Samsung con pantalla integrada tendrán que esperar. Rumores recientes apuntan a que las gafas se enviarán finalmente en algún momento de diciembre. No costarán nada parecido a los $1,800 del voluminoso visor Samsung Galaxy XR, pero aun así podrían costar tanto como un teléfono decente."
+                "x": "Incluyen un controlador dinámico de 11mm con una armadura balanceada dedicada, ajuste Bose SoundDesign y Bose QuietControl ANC, además de Hi-Res Audio, Dolby Atmos y Dolby Head Tracking. La batería ofrece hasta ocho horas, y 37 horas con el estuche, con resistencia IP57."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg",
-                "cap": "Las gafas inteligentes de Samsung diseñadas por Warby Parker"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27-lifestyle.jpg?resize=1920%2C1152&ssl=1",
+                "cap": "Motorola"
               },
               {
                 "t": "p",
-                "x": "Los compradores podrán usar las gafas inteligentes para orientarse por la ciudad, recibir ayuda con traducciones o simplemente conversar con Gemini para obtener información. También incorporan cámaras: Samsung enciende un LED mientras graban y se niegan a filmar si detectan que el LED está tapado."
+                "x": "AI Live Translate permite escuchar conversaciones traducidas directamente en los auriculares, aunque requiere un teléfono Motorola compatible y la disponibilidad de idiomas varía. Al mantener pulsado el auricular izquierdo se abre Motorola Qira, y el modo manos libres \"Hey Qira\" llegará en los próximos meses. Head Gestures permite contestar o rechazar llamadas asintiendo o negando con la cabeza."
+              },
+              {
+                "t": "p",
+                "x": "Los Moto Buds Ultra 27 estarán disponibles en Estados Unidos en los próximos meses; Motorola no ha anunciado un precio para US ni una fecha de lanzamiento."
               }
             ]
           }
@@ -959,129 +1225,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Samsung XR 안경\n11월 12일 예약 시작",
-          "body": "Samsung Android XR 안경, 11월 12일부터 사전 주문을 받는다.",
-          "mini_headline": "Samsung XR 안경 11월 12일 예약",
+          "headline": "Motorola AI 번역\n버즈로 AirPods 겨냥",
+          "body": "Moto Buds Ultra 27은 Bose-tuned 음향에 AI 번역을 더했다.",
+          "mini_headline": "Moto 버즈에 AI 번역 탑재",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
-                "cap": "Samsung Warby Parker 스마트 안경을 든 모습"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Motorola"
               },
               {
                 "t": "p",
-                "x": "Samsung Android XR 스마트 안경 출시가 코앞이다. 사전 주문은 11월 12일 시작으로 확정됐다. Google과 함께 개발한 이 오디오 기반 스마트 안경에는 Warby Parker와 Gentle Monster의 테가 쓰인다. 가격과 배송 일정은 아직 공개되지 않았다."
+                "x": "Motorola Signature 27과 함께 Motorola 역대 가장 기능이 풍부한 이어버드 Moto Buds Ultra 27이 나왔다. Bose-tuned 음향, 적응형 노이즈 캔슬링, 실시간 번역을 포함한 여러 AI-powered 기능을 결합했다."
               },
               {
                 "t": "p",
-                "x": "오디오 중심의 Android XR 경험이 될 것으로 알려져 있으며, 디스플레이를 내장한 Samsung 모델은 더 기다려야 한다. 최근 소문에 따르면 이 안경은 결국 12월 중 출하될 전망이다. 부피가 큰 Samsung Galaxy XR 헤드셋의 $1,800 같은 가격은 아니겠지만, 그래도 괜찮은 휴대폰 한 대 값만큼 들 수 있다."
+                "x": "11mm 다이내믹 드라이버와 전용 밸런스드 아마추어, Bose SoundDesign 튜닝과 Bose QuietControl ANC를 갖췄고, Hi-Res Audio, Dolby Atmos, Dolby Head Tracking도 지원한다. 배터리는 최대 여덟 시간, 케이스 포함 37시간이며 IP57 등급을 받았다."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg",
-                "cap": "Warby Parker가 디자인한 Samsung 스마트 안경"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27-lifestyle.jpg?resize=1920%2C1152&ssl=1",
+                "cap": "Motorola"
               },
               {
                 "t": "p",
-                "x": "구매자는 이 스마트 안경으로 시내 길 안내를 받거나 번역 도움을 받고, 그냥 Gemini와 대화하며 정보를 얻을 수도 있다. 카메라도 달려 있는데, Samsung은 녹화 중에 LED를 켜고, LED가 가려진 것을 감지하면 촬영을 거부하도록 했다."
+                "x": "AI Live Translate를 쓰면 번역된 대화를 이어버드로 바로 들을 수 있지만, 호환되는 Motorola 휴대폰이 필요하고 지원 언어는 다를 수 있다. 왼쪽 이어버드를 길게 누르면 Motorola Qira가 실행되며, 핸즈프리 \"Hey Qira\"는 앞으로 몇 달 안에 추가된다. Head Gestures로는 고개를 끄덕이거나 저어 전화를 받거나 거절할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Moto Buds Ultra 27은 앞으로 몇 달 안에 미국에서 출시된다. Motorola는 아직 US 가격이나 출시일을 발표하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Samsung XRグラス\n11月12日に予約開始",
-          "body": "SamsungのAndroid XRグラスは、11月12日に予約受付を始める。",
-          "mini_headline": "Samsung XRグラス、11月12日予約開始",
+          "headline": "MotorolaがAI翻訳\nイヤホンでAirPods対抗",
+          "body": "Moto Buds Ultra 27はBose-tunedの音にライブAI翻訳を加えた。",
+          "mini_headline": "MotoのイヤホンにAI翻訳",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
-                "cap": "SamsungのWarby Parker製スマートグラスを手にする人"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Motorola"
               },
               {
                 "t": "p",
-                "x": "SamsungのAndroid XRスマートグラスの登場が目前に迫り、予約受付は11月12日開始と確定した。Googleと共同開発したこのオーディオ中心のスマートグラスには、Warby ParkerとGentle Monsterのフレームが採用される。価格と出荷日の詳細はまだ明らかになっていない。"
+                "x": "Motorola Signature 27とともに、Motorola史上最も多機能なイヤホンMoto Buds Ultra 27が登場した。Bose-tunedのオーディオ、適応型ノイズキャンセリング、そしてリアルタイム翻訳を含む一連のAI-powered機能を組み合わせている。"
               },
               {
                 "t": "p",
-                "x": "オーディオ優先のAndroid XR体験になることはわかっており、ディスプレイを内蔵したSamsungモデルはまだ先になる。最近のうわさでは、このグラスは最終的に12月中に出荷されるという。大きなSamsung Galaxy XRヘッドセットの$1,800ほどにはならないものの、それなりのスマートフォン並みの価格になる可能性はある。"
+                "x": "11mmのダイナミックドライバーと専用のバランスドアーマチュア、Bose SoundDesignチューニングとBose QuietControl ANCを備え、Hi-Res Audio、Dolby Atmos、Dolby Head Trackingにも対応する。バッテリー持続時間は最大八時間、ケース併用で37時間とされ、IP57の耐性を持つ。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg",
-                "cap": "Warby ParkerがデザインしたSamsungのスマートグラス"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27-lifestyle.jpg?resize=1920%2C1152&ssl=1",
+                "cap": "Motorola"
               },
               {
                 "t": "p",
-                "x": "購入者は、街中のナビゲーションや翻訳の手助け、あるいはGeminiとの会話による情報収集にこのスマートグラスを使える。カメラも搭載しており、Samsungは録画中にLEDを点灯させ、LEDが覆われたことを検知すると撮影を拒否する仕組みにしている。"
+                "x": "AI Live Translateを使えば、翻訳された会話をイヤホンで直接聞けるが、対応するMotorolaのスマートフォンが必要で、利用できる言語は異なる。左のイヤホンを長押しするとMotorola Qiraが起動し、ハンズフリーの「Hey Qira」は今後数カ月以内に提供される。Head Gesturesでは、うなずいたり首を振ったりして通話に応答・拒否できる。"
+              },
+              {
+                "t": "p",
+                "x": "Moto Buds Ultra 27は今後数カ月以内に米国で発売される。MotorolaはUSでの価格や発売日をまだ発表していない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Samsung XR眼镜\n11月12日开启预订",
-          "body": "Samsung Android XR智能眼镜将于11月12日开启预订。",
-          "mini_headline": "Samsung XR眼镜11月12日开订",
+          "headline": "Motorola用AI翻译\n耳机挑战AirPods",
+          "body": "Moto Buds Ultra 27结合Bose-tuned音质、AI实时翻译与手势控制。",
+          "mini_headline": "Moto耳机加入AI翻译",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
-                "cap": "手持Samsung Warby Parker智能眼镜的人"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Motorola"
               },
               {
                 "t": "p",
-                "x": "Samsung Android XR智能眼镜即将到来，预订现已确定于11月12日开启。这款与Google合作开发、以音频为主的智能眼镜将采用Warby Parker和Gentle Monster的镜框。价格和发货日期等细节仍有待公布。"
+                "x": "与Motorola Signature 27一同亮相的还有Moto Buds Ultra 27，这是Motorola迄今功能最丰富的耳机。它结合了Bose-tuned音效、自适应降噪以及包括实时翻译在内的一系列AI-powered功能。"
               },
               {
                 "t": "p",
-                "x": "可以预期这将是一种音频优先的Android XR体验——带内置显示屏的Samsung型号还要再等等。近期传闻称，这款眼镜最终将在12月某个时候发货。它的价格不会接近笨重的Samsung Galaxy XR头显的$1,800，但仍可能与一部像样的手机相当。"
+                "x": "它配备11mm动圈单元和专用平衡电枢单元，采用Bose SoundDesign调音和Bose QuietControl ANC，并支持Hi-Res Audio、Dolby Atmos和Dolby Head Tracking。续航最长八小时，配合充电盒可达37小时，具备IP57防护。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg",
-                "cap": "由Warby Parker设计的Samsung智能眼镜"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27-lifestyle.jpg?resize=1920%2C1152&ssl=1",
+                "cap": "Motorola"
               },
               {
                 "t": "p",
-                "x": "购买者可以用这款智能眼镜在城中导航、辅助翻译，或者直接与Gemini聊天获取信息。眼镜还配有摄像头，Samsung会在录制时点亮LED，并在检测到LED被遮挡时拒绝拍摄。"
+                "x": "AI Live Translate让用户直接通过耳机听到翻译后的对话，但需要兼容的Motorola手机，可用语言也因情况而异。长按左耳耳机可唤出Motorola Qira，免提“Hey Qira”将在未来几个月推出。Head Gestures让用户点头或摇头即可接听或拒接电话。"
+              },
+              {
+                "t": "p",
+                "x": "Moto Buds Ultra 27将在未来几个月于美国上市；Motorola尚未公布US售价或发售日期。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las gafas Android XR de Samsung\nen preventa el 12 de noviembre",
-          "body": "La preventa de las gafas Android XR de Samsung, con monturas de Warby Parker y Gentle Monster, abre el 12 de noviembre.",
-          "mini_headline": "Gafas XR de Samsung: preventa el 12 de noviembre",
+          "headline": "Motorola reta a los AirPods\ncon auriculares de traducción AI",
+          "body": "Los Moto Buds Ultra 27 de Motorola combinan audio Bose-tuned con traducción AI en vivo y control por gestos.",
+          "mini_headline": "Los Moto Buds suman traducción AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
-                "cap": "Una persona sostiene las gafas inteligentes Samsung Warby Parker"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Motorola"
               },
               {
                 "t": "p",
-                "x": "Las gafas inteligentes Android XR de Samsung están cerca: ya se confirmó que la preventa abrirá el 12 de noviembre. Estas gafas inteligentes basadas en audio, desarrolladas en colaboración con Google, tendrán monturas de Warby Parker y Gentle Monster. Aún no se conocen detalles sobre precios ni fechas de envío."
+                "x": "Junto al Motorola Signature 27 llegaron los Moto Buds Ultra 27, los auriculares con más funciones de Motorola hasta la fecha. Combinan audio Bose-tuned, cancelación de ruido adaptativa y un conjunto de funciones AI-powered, entre ellas la traducción en tiempo real."
               },
               {
                 "t": "p",
-                "x": "Se sabe que ofrecerán una experiencia Android XR centrada en el audio; los modelos de Samsung con pantalla integrada tendrán que esperar. Rumores recientes apuntan a que las gafas se enviarán finalmente en algún momento de diciembre. No costarán nada parecido a los $1,800 del voluminoso visor Samsung Galaxy XR, pero aun así podrían costar tanto como un teléfono decente."
+                "x": "Incluyen un controlador dinámico de 11mm con una armadura balanceada dedicada, ajuste Bose SoundDesign y Bose QuietControl ANC, además de Hi-Res Audio, Dolby Atmos y Dolby Head Tracking. La batería ofrece hasta ocho horas, y 37 horas con el estuche, con resistencia IP57."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg",
-                "cap": "Las gafas inteligentes de Samsung diseñadas por Warby Parker"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27-lifestyle.jpg?resize=1920%2C1152&ssl=1",
+                "cap": "Motorola"
               },
               {
                 "t": "p",
-                "x": "Los compradores podrán usar las gafas inteligentes para orientarse por la ciudad, recibir ayuda con traducciones o simplemente conversar con Gemini para obtener información. También incorporan cámaras: Samsung enciende un LED mientras graban y se niegan a filmar si detectan que el LED está tapado."
+                "x": "AI Live Translate permite escuchar conversaciones traducidas directamente en los auriculares, aunque requiere un teléfono Motorola compatible y la disponibilidad de idiomas varía. Al mantener pulsado el auricular izquierdo se abre Motorola Qira, y el modo manos libres \"Hey Qira\" llegará en los próximos meses. Head Gestures permite contestar o rechazar llamadas asintiendo o negando con la cabeza."
+              },
+              {
+                "t": "p",
+                "x": "Los Moto Buds Ultra 27 estarán disponibles en Estados Unidos en los próximos meses; Motorola no ha anunciado un precio para US ni una fecha de lanzamiento."
               }
             ]
           }
@@ -1089,195 +1371,195 @@
       }
     },
     {
-      "id": "subvocal-silent-glasses",
+      "id": "homeview-thirdparty-chatbots",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Subvocal 안경\n소리 없이 컴퓨터와 대화",
-      "body": "Subvocal 안경은 타이핑도 말도 필요 없는 완전 무음 받아쓰기를 내세운다.",
-      "mini_headline": "Subvocal의 무음 발화 안경",
+      "headline": "Apple HomeView\n외부 AI 챗봇 열리나",
+      "body": "iOS 27.3 베타 코드에 HomeView의 외부 AI 챗봇 지원 흔적이 있다.",
+      "mini_headline": "HomeView에 AI 챗봇 추가되나",
       "tool": "Gadgets",
-      "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/computing/subvocals-glasses-promise-to-let-you-talk-to-your-computer-in-complete-silence/",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/05/homeview-will-support-third-party-ai-chatbots-suggests-code/",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C720&ssl=1",
-            "cap": "Subvocal 스마트 안경은 레이더로 입의 움직임을 추적한다"
+            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&w=1600",
+            "cap": "이미지: 9to5Mac/Anthropic/Pawel Czerwinski"
           },
           {
             "t": "p",
-            "x": "생각한 것을 컴퓨터에 옮기는 속도는 늘 타이핑에서 막혔다. Wispr Flow 같은 AI 기반(AI-powered) 받아쓰기 도구 덕에 사정은 크게 나아졌지만, 조용한 사무실이나 도서관, 카페에서 컴퓨터에 말을 걸면 눈길을 끌기 쉽다. 스타트업 The Subvocal Company는 소리 없는 입 모양을 분당 200단어 이상의 속도로 텍스트로 바꾼다는 스마트 안경을 개발했다."
+            "x": "iOS 27.3 베타에서 나온 코드를 보면 HomeView가 ChatGPT와 Claude 같은 서드파티 AI 챗봇을 지원할 예정이다."
           },
           {
             "t": "p",
-            "x": "회사 설명으로는 이 안경이 얼굴을 통과하는 레이더 신호를 쏜다. 소리 없이 단어를 만들 때 발화 근육이 미세하게 움직이고, 그 움직임이 되돌아오는 신호를 바꾼다. AI 모델은 이 변화를 읽어 텍스트로 옮긴다. 카메라는 쓰지 않는다. 다만 단어를 일부러 입 모양으로 만들어야 한다."
-          },
-          {
-            "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses.jpg?resize=1728%2C1037&ssl=1"
+            "x": "리커 pdfu는 이달 초 ConversationalApps용 미사용 플래그를 찾아낸 뒤 ChatGPT, Claude 등 AI 앱이 HomeView에 들어올 \"수도 있다\"고 했다. 이번에는 iOS 26.3 베타가 그 추측을 확인해 준다고 말한다."
           },
           {
             "t": "p",
-            "x": "이 스타트업은 Y Combinator와 Afore Capital에서 $1.3 million을 투자받았다. 미국(US)에서 얼리버드 가격 $499, 환불 가능한 보증금 $199로 예약을 받고 있으며 배송은 2027년 첫 분기에 시작할 예정이다. 타이핑 속도는 아직 독립적으로 검증되지 않았다."
+            "x": "\"드디어 현실이 됩니다. AI 앱이 HomeView에 들어옵니다. HomeView의 CarPlay 브리지인 PebblePlay가 iOS 27.3에서 Conversational Apps 카테고리를 얻습니다. 이번 업데이트는 양방향 오디오 라우팅, 세션 관리, 인터럽션 처리 기반도 추가합니다. 아직 완전히 연결되지는 않았습니다.\""
+          },
+          {
+            "t": "p",
+            "x": "CarPlay처럼 Apple도 이 플래그로 기기에서 돌릴 수 있는 서드파티 앱 범주를 정한다. 같은 리커는 HomeView가 HomeKit 보안 카메라 역할을 할 수 있다는 증거도 최근 찾아냈다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Subvocal's glasses promise\nsilent talk to your computer",
-          "body": "Subvocal's glasses promise to let you dictate to your computer in complete silence instead of typing or speaking aloud.",
-          "mini_headline": "Subvocal's silent-speech glasses",
+          "headline": "Apple's HomeView may open\nto third-party AI chatbots",
+          "body": "Code in the iOS 27.3 beta suggests Apple's HomeView will support third-party AI chatbots like ChatGPT and Claude.",
+          "mini_headline": "HomeView may add AI chatbots",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Subvocal smart glasses use radar to track your mouth movements"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&w=1600",
+                "cap": "Image: 9to5Mac/Anthropic/Pawel Czerwinski"
               },
               {
                 "t": "p",
-                "x": "Typing has always been a bottleneck between what we think and how quickly we can communicate it to a computer. AI-powered dictation tools like Wispr Flow have made things considerably better, but talking to your computer in a quiet office, a library, or a cafe tends to attract attention. A startup called The Subvocal Company has developed a pair of smart glasses that promise to turn silent mouth movements into text at over 200 words per minute."
+                "x": "Code discovered in the iOS 27.3 beta suggests that HomeView is set to gain support for third-party AI chatbots like ChatGPT and Claude."
               },
               {
                 "t": "p",
-                "x": "According to the company, its glasses send radar signals through your face. When you silently form words, tiny movements in your speech muscles change how those signals bounce back. An AI model then interprets those changes and turns them into text. There’s no camera involved. You still have to deliberately mouth the words, though."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses.jpg?resize=1728%2C1037&ssl=1"
+                "x": "Leaker pdfu said at the start of the month that ChatGPT, Claude and other AI apps \"may\" be coming to HomeView, after spotting an unused flag for ConversationalApps. They now say that the beta of iOS 26.3 confirms their suspicion."
               },
               {
                 "t": "p",
-                "x": "The startup says it has raised $1.3 million from Y Combinator and Afore Capital and is accepting reservations in the US at an early-bird price of $499, with a refundable $199 deposit. Shipping is expected to begin in the first quarter of 2027. The typing speeds haven’t been independently verified."
+                "x": "\"It's happening, folks: AI apps are coming to HomeView. PebblePlay, HomeView's CarPlay bridge, gets the Conversational Apps category in iOS 27.3. The update also adds bidirectional audio routing, session management, and interruption groundwork. Still not fully wired up.\""
+              },
+              {
+                "t": "p",
+                "x": "Apple uses these flags to determine which categories of third-party apps are allowed to run on the device, in the same way as it does with CarPlay. The same leaker recently discovered evidence that HomeView will be able to serve as a HomeKit security camera."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Subvocal 안경\n소리 없이 컴퓨터와 대화",
-          "body": "Subvocal 안경은 타이핑도 말도 필요 없는 완전 무음 받아쓰기를 내세운다.",
-          "mini_headline": "Subvocal의 무음 발화 안경",
+          "headline": "Apple HomeView\n외부 AI 챗봇 열리나",
+          "body": "iOS 27.3 베타 코드에 HomeView의 외부 AI 챗봇 지원 흔적이 있다.",
+          "mini_headline": "HomeView에 AI 챗봇 추가되나",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Subvocal 스마트 안경은 레이더로 입의 움직임을 추적한다"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&w=1600",
+                "cap": "이미지: 9to5Mac/Anthropic/Pawel Czerwinski"
               },
               {
                 "t": "p",
-                "x": "생각한 것을 컴퓨터에 옮기는 속도는 늘 타이핑에서 막혔다. Wispr Flow 같은 AI 기반(AI-powered) 받아쓰기 도구 덕에 사정은 크게 나아졌지만, 조용한 사무실이나 도서관, 카페에서 컴퓨터에 말을 걸면 눈길을 끌기 쉽다. 스타트업 The Subvocal Company는 소리 없는 입 모양을 분당 200단어 이상의 속도로 텍스트로 바꾼다는 스마트 안경을 개발했다."
+                "x": "iOS 27.3 베타에서 나온 코드를 보면 HomeView가 ChatGPT와 Claude 같은 서드파티 AI 챗봇을 지원할 예정이다."
               },
               {
                 "t": "p",
-                "x": "회사 설명으로는 이 안경이 얼굴을 통과하는 레이더 신호를 쏜다. 소리 없이 단어를 만들 때 발화 근육이 미세하게 움직이고, 그 움직임이 되돌아오는 신호를 바꾼다. AI 모델은 이 변화를 읽어 텍스트로 옮긴다. 카메라는 쓰지 않는다. 다만 단어를 일부러 입 모양으로 만들어야 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses.jpg?resize=1728%2C1037&ssl=1"
+                "x": "리커 pdfu는 이달 초 ConversationalApps용 미사용 플래그를 찾아낸 뒤 ChatGPT, Claude 등 AI 앱이 HomeView에 들어올 \"수도 있다\"고 했다. 이번에는 iOS 26.3 베타가 그 추측을 확인해 준다고 말한다."
               },
               {
                 "t": "p",
-                "x": "이 스타트업은 Y Combinator와 Afore Capital에서 $1.3 million을 투자받았다. 미국(US)에서 얼리버드 가격 $499, 환불 가능한 보증금 $199로 예약을 받고 있으며 배송은 2027년 첫 분기에 시작할 예정이다. 타이핑 속도는 아직 독립적으로 검증되지 않았다."
+                "x": "\"드디어 현실이 됩니다. AI 앱이 HomeView에 들어옵니다. HomeView의 CarPlay 브리지인 PebblePlay가 iOS 27.3에서 Conversational Apps 카테고리를 얻습니다. 이번 업데이트는 양방향 오디오 라우팅, 세션 관리, 인터럽션 처리 기반도 추가합니다. 아직 완전히 연결되지는 않았습니다.\""
+              },
+              {
+                "t": "p",
+                "x": "CarPlay처럼 Apple도 이 플래그로 기기에서 돌릴 수 있는 서드파티 앱 범주를 정한다. 같은 리커는 HomeView가 HomeKit 보안 카메라 역할을 할 수 있다는 증거도 최근 찾아냈다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Subvocalのメガネ\n声なくコンピューターと対話",
-          "body": "Subvocalのメガネは、タイピングも発声もせず完全な無音での口述入力を約束する。",
-          "mini_headline": "Subvocalの無音発話メガネ",
+          "headline": "AppleのHomeView\n外部AIチャットボット対応か",
+          "body": "iOS 27.3ベータのコードは、HomeViewの外部AIチャットボット対応を示唆する。",
+          "mini_headline": "HomeViewにAIチャットボットか",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Subvocalのスマートグラスはレーダーで口の動きを追跡する"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&w=1600",
+                "cap": "画像：9to5Mac/Anthropic/Pawel Czerwinski"
               },
               {
                 "t": "p",
-                "x": "タイピングは常に、私たちが考えることと、それをコンピューターに伝える速さとの間のボトルネックだった。Wispr FlowのようなAI搭載(AI-powered)の音声入力ツールで状況はかなり改善したが、静かなオフィスや図書館、カフェでコンピューターに話しかけると人目を引きがちだ。The Subvocal Companyというスタートアップは、声を出さない口の動きを毎分200語を超える速さでテキストに変えるというスマートグラスを開発した。"
+                "x": "iOS 27.3ベータで見つかったコードから、HomeViewがChatGPTやClaudeといったサードパーティ製AIチャットボットに対応する見通しであることがうかがえる。"
               },
               {
                 "t": "p",
-                "x": "同社によると、このメガネは顔を透過するレーダー信号を送る。声を出さずに言葉を形づくると、発話筋の微細な動きによって信号の跳ね返り方が変わる。その変化をAIモデルが解釈し、テキストに変換する。カメラは使わない。ただし、言葉を意識して口の形で示す必要はある。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses.jpg?resize=1728%2C1037&ssl=1"
+                "x": "リーカーのpdfuは今月初め、ConversationalApps向けの未使用フラグを見つけたことを受け、ChatGPTやClaudeなどのAIアプリがHomeViewに来る「かもしれない」と述べていた。pdfuは今、iOS 26.3のベータがその推測を裏付けたとしている。"
               },
               {
                 "t": "p",
-                "x": "同社はY CombinatorとAfore Capitalから$1.3 millionを調達したとしており、米国(US)で早期割引価格$499、返金可能な$199のデポジットで予約を受け付けている。出荷は2027年の第一四半期に始まる見込みだ。タイピング速度は第三者による検証を受けていない。"
+                "x": "「ついに来た。AIアプリがHomeViewにやって来る。HomeViewのCarPlayブリッジであるPebblePlayが、iOS 27.3でConversational Appsカテゴリーを得る。今回のアップデートでは双方向オーディオルーティング、セッション管理、割り込み処理の下地も加わる。まだ完全にはつながっていない」"
+              },
+              {
+                "t": "p",
+                "x": "AppleはCarPlayと同じように、これらのフラグでどのカテゴリーのサードパーティ製アプリをデバイス上で動かせるかを決めている。同じリーカーは最近、HomeViewがHomeKitのセキュリティカメラとして機能できることを示す証拠も見つけている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Subvocal眼镜\n无声与电脑对话",
-          "body": "Subvocal的眼镜承诺让你无需打字或出声，在完全静默中向电脑口述输入。",
-          "mini_headline": "Subvocal无声语音眼镜",
+          "headline": "Apple HomeView\n或开放第三方AI聊天机器人",
+          "body": "iOS 27.3测试版代码显示，HomeView将支持第三方AI聊天机器人。",
+          "mini_headline": "HomeView或加入AI聊天机器人",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Subvocal智能眼镜利用雷达追踪嘴部动作"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&w=1600",
+                "cap": "图片：9to5Mac/Anthropic/Pawel Czerwinski"
               },
               {
                 "t": "p",
-                "x": "打字一直是我们的想法与将其传达给电脑的速度之间的瓶颈。Wispr Flow等AI-powered听写工具已让情况大为改善，但在安静的办公室、图书馆或咖啡馆里对着电脑说话往往会引人侧目。一家名为The Subvocal Company的初创公司开发了一款智能眼镜，声称能以每分钟超过200个单词的速度把无声的嘴部动作转换为文字。"
+                "x": "在iOS 27.3测试版中发现的代码显示，HomeView将支持ChatGPT和Claude等第三方AI聊天机器人。"
               },
               {
                 "t": "p",
-                "x": "该公司称，这款眼镜会向你的面部发射雷达信号。当你无声地做出词语的口型时，发音肌肉的细微动作会改变信号的反射方式。随后，AI模型会解读这些变化并将其转换为文字。整个过程不涉及摄像头。不过，你仍需刻意做出词语的口型。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses.jpg?resize=1728%2C1037&ssl=1"
+                "x": "爆料者pdfu本月初发现一个用于ConversationalApps的未使用标志后表示，ChatGPT、Claude等AI应用“可能”会登陆HomeView。现在，pdfu称iOS 26.3测试版证实了这一猜测。"
               },
               {
                 "t": "p",
-                "x": "这家初创公司表示，已从Y Combinator和Afore Capital筹集$1.3 million，目前在美国（US）接受预约，早鸟价为$499，需支付可退还的$199定金。预计2027年第一季度开始发货。其打字速度尚未经过独立验证。"
+                "x": "“各位，这事成了：AI应用要登陆HomeView了。HomeView的CarPlay桥接组件PebblePlay在iOS 27.3中获得了Conversational Apps类别。此次更新还加入了双向音频路由、会话管理和中断处理的基础工作。目前还没有完全打通。”"
+              },
+              {
+                "t": "p",
+                "x": "Apple用这些标志来决定哪些类别的第三方应用可以在设备上运行，方式与CarPlay相同。同一位爆料者最近还发现证据，表明HomeView将能用作HomeKit安防摄像头。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gafas de Subvocal para hablar\ncon la computadora en silencio",
-          "body": "Las gafas de Subvocal prometen dictar a la computadora en completo silencio, sin teclear ni hablar en voz alta.",
-          "mini_headline": "Las gafas de habla silenciosa de Subvocal",
+          "headline": "HomeView de Apple podría abrirse\na chatbots AI de terceros",
+          "body": "El código de la beta de iOS 27.3 sugiere que HomeView de Apple admitirá chatbots AI de terceros como ChatGPT y Claude.",
+          "mini_headline": "HomeView podría sumar chatbots AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Las gafas inteligentes de Subvocal usan radar para seguir los movimientos de la boca"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&w=1600",
+                "cap": "Imagen: 9to5Mac/Anthropic/Pawel Czerwinski"
               },
               {
                 "t": "p",
-                "x": "Escribir en el teclado siempre ha sido un cuello de botella entre lo que pensamos y la rapidez con que podemos comunicarlo a una computadora. Las herramientas de dictado impulsadas por AI (AI-powered), como Wispr Flow, han mejorado mucho las cosas, pero hablarle a la computadora en una oficina silenciosa, una biblioteca o una cafetería suele llamar la atención. Una startup llamada The Subvocal Company ha desarrollado unas gafas inteligentes que prometen convertir movimientos silenciosos de la boca en texto a más de 200 palabras por minuto."
+                "x": "Un código descubierto en la beta de iOS 27.3 sugiere que HomeView está a punto de admitir chatbots AI de terceros como ChatGPT y Claude."
               },
               {
                 "t": "p",
-                "x": "Según la empresa, sus gafas envían señales de radar a través del rostro. Cuando formas palabras en silencio, pequeños movimientos de los músculos del habla cambian la forma en que esas señales rebotan. Después, un modelo de AI interpreta esos cambios y los convierte en texto. No interviene ninguna cámara. Aun así, hay que articular las palabras de forma deliberada."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses.jpg?resize=1728%2C1037&ssl=1"
+                "x": "El filtrador pdfu dijo a principios de mes que ChatGPT, Claude y otras apps de AI \"podrían\" llegar a HomeView, tras detectar una marca sin usar para ConversationalApps. Ahora afirma que la beta de iOS 26.3 confirma su sospecha."
               },
               {
                 "t": "p",
-                "x": "La startup afirma haber recaudado $1.3 millones de Y Combinator y Afore Capital, y acepta reservas en Estados Unidos (US) a un precio anticipado de $499, con un depósito reembolsable de $199. Se prevé que los envíos comiencen en el primer trimestre de 2027. Las velocidades de escritura no se han verificado de forma independiente."
+                "x": "\"Está pasando, amigos: las apps de AI llegan a HomeView. PebblePlay, el puente de CarPlay de HomeView, recibe la categoría Conversational Apps en iOS 27.3. La actualización también añade enrutamiento de audio bidireccional, gestión de sesiones y las bases para las interrupciones. Todavía no está todo conectado.\""
+              },
+              {
+                "t": "p",
+                "x": "Apple usa estas marcas para determinar qué categorías de apps de terceros pueden ejecutarse en el dispositivo, igual que hace con CarPlay. El mismo filtrador descubrió recientemente indicios de que HomeView podrá funcionar como cámara de seguridad de HomeKit."
               }
             ]
           }
@@ -1285,487 +1567,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Subvocal 안경\n소리 없이 컴퓨터와 대화",
-          "body": "Subvocal 안경은 타이핑도 말도 없이 완전한 침묵 속 받아쓰기를 내세운다.",
-          "mini_headline": "Subvocal의 무음 발화 안경",
+          "headline": "Apple HomeView\n외부 AI 챗봇 열리나",
+          "body": "iOS 27.3 베타 코드가 HomeView의 외부 AI 챗봇 지원을 시사한다.",
+          "mini_headline": "HomeView에 AI 챗봇 추가되나",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Subvocal 스마트 안경은 레이더로 입의 움직임을 추적한다"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&w=1600",
+                "cap": "이미지: 9to5Mac/Anthropic/Pawel Czerwinski"
               },
               {
                 "t": "p",
-                "x": "타이핑은 늘 우리가 생각하는 것과 그것을 컴퓨터에 전달하는 속도 사이의 병목이었다. Wispr Flow 같은 AI 기반(AI-powered) 받아쓰기 도구 덕분에 상황이 크게 나아졌지만, 조용한 사무실이나 도서관, 카페에서 컴퓨터에 말을 걸면 눈길을 끌기 쉽다. The Subvocal Company라는 스타트업은 소리 없는 입 모양을 분당 200단어 이상의 속도로 텍스트로 바꿔 준다는 스마트 안경을 개발했다."
+                "x": "iOS 27.3 베타에서 발견된 코드에 따르면 HomeView가 ChatGPT와 Claude 같은 서드파티 AI 챗봇을 지원할 예정이다."
               },
               {
                 "t": "p",
-                "x": "회사에 따르면 이 안경은 얼굴을 통과하는 레이더 신호를 보낸다. 소리 없이 단어를 만들 때 발화 근육의 미세한 움직임이 신호가 되돌아오는 방식을 바꾼다. 그러면 AI 모델이 이 변화를 해석해 텍스트로 바꾼다. 카메라는 쓰이지 않는다. 다만 단어를 의도적으로 입 모양으로 만들어야 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses.jpg?resize=1728%2C1037&ssl=1"
+                "x": "리커 pdfu는 이달 초 ConversationalApps용으로 쓰이지 않는 플래그를 발견한 뒤 ChatGPT, Claude 등 AI 앱이 HomeView에 들어올 \"수도 있다\"고 밝혔다. 이제 pdfu는 iOS 26.3 베타가 그 추측을 확인해 준다고 말한다."
               },
               {
                 "t": "p",
-                "x": "이 스타트업은 Y Combinator와 Afore Capital에서 $1.3 million을 투자받았으며, 미국(US)에서 얼리버드 가격 $499에 환불 가능한 보증금 $199로 예약을 받고 있다고 밝혔다. 배송은 2027년 첫 분기에 시작될 예정이다. 타이핑 속도는 독립적으로 검증되지 않았다."
+                "x": "\"드디어 현실이 됩니다. AI 앱이 HomeView에 들어옵니다. HomeView의 CarPlay 브리지인 PebblePlay가 iOS 27.3에서 Conversational Apps 카테고리를 얻습니다. 이번 업데이트는 양방향 오디오 라우팅, 세션 관리, 인터럽션 처리 기반도 추가합니다. 아직 완전히 연결되지는 않았습니다.\""
+              },
+              {
+                "t": "p",
+                "x": "Apple은 CarPlay와 마찬가지로 이 플래그로 어떤 범주의 서드파티 앱을 기기에서 실행할 수 있는지 정한다. 같은 리커는 최근 HomeView가 HomeKit 보안 카메라 역할을 할 수 있다는 증거도 찾아냈다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Subvocalのメガネ\n声なくコンピューターと対話",
-          "body": "Subvocalのメガネは、タイピングも発声もせず完全な無音での口述入力を約束する。",
-          "mini_headline": "Subvocalの無音発話メガネ",
+          "headline": "AppleのHomeView\n外部AIチャットボット対応か",
+          "body": "iOS 27.3ベータのコードは、HomeViewの外部AIチャットボット対応を示唆する。",
+          "mini_headline": "HomeViewにAIチャットボットか",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Subvocalのスマートグラスはレーダーで口の動きを追跡する"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&w=1600",
+                "cap": "画像：9to5Mac/Anthropic/Pawel Czerwinski"
               },
               {
                 "t": "p",
-                "x": "タイピングは常に、私たちが考えることと、それをコンピューターに伝える速さとの間のボトルネックだった。Wispr FlowのようなAI搭載(AI-powered)の音声入力ツールで状況はかなり改善したが、静かなオフィスや図書館、カフェでコンピューターに話しかけると人目を引きがちだ。The Subvocal Companyというスタートアップは、声を出さない口の動きを毎分200語を超える速さでテキストに変えるというスマートグラスを開発した。"
+                "x": "iOS 27.3ベータで見つかったコードから、HomeViewがChatGPTやClaudeといったサードパーティ製AIチャットボットに対応する見通しであることがうかがえる。"
               },
               {
                 "t": "p",
-                "x": "同社によると、このメガネは顔を透過するレーダー信号を送る。声を出さずに言葉を形づくると、発話筋の微細な動きによって信号の跳ね返り方が変わる。その変化をAIモデルが解釈し、テキストに変換する。カメラは使わない。ただし、言葉を意識して口の形で示す必要はある。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses.jpg?resize=1728%2C1037&ssl=1"
+                "x": "リーカーのpdfuは今月初め、ConversationalApps向けの未使用フラグを見つけたことを受け、ChatGPTやClaudeなどのAIアプリがHomeViewに来る「かもしれない」と述べていた。pdfuは今、iOS 26.3のベータがその推測を裏付けたとしている。"
               },
               {
                 "t": "p",
-                "x": "同社はY CombinatorとAfore Capitalから$1.3 millionを調達したとしており、米国(US)で早期割引価格$499、返金可能な$199のデポジットで予約を受け付けている。出荷は2027年の第一四半期に始まる見込みだ。タイピング速度は第三者による検証を受けていない。"
+                "x": "「ついに来た。AIアプリがHomeViewにやって来る。HomeViewのCarPlayブリッジであるPebblePlayが、iOS 27.3でConversational Appsカテゴリーを得る。今回のアップデートでは双方向オーディオルーティング、セッション管理、割り込み処理の下地も加わる。まだ完全にはつながっていない」"
+              },
+              {
+                "t": "p",
+                "x": "AppleはCarPlayと同じように、これらのフラグでどのカテゴリーのサードパーティ製アプリをデバイス上で動かせるかを決めている。同じリーカーは最近、HomeViewがHomeKitのセキュリティカメラとして機能できることを示す証拠も見つけている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Subvocal眼镜\n无声与电脑对话",
-          "body": "Subvocal的眼镜承诺让你无需打字或出声，在完全静默中向电脑口述输入。",
-          "mini_headline": "Subvocal无声语音眼镜",
+          "headline": "Apple HomeView\n或开放第三方AI聊天机器人",
+          "body": "iOS 27.3测试版代码显示，HomeView将支持第三方AI聊天机器人。",
+          "mini_headline": "HomeView或加入AI聊天机器人",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Subvocal智能眼镜利用雷达追踪嘴部动作"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&w=1600",
+                "cap": "图片：9to5Mac/Anthropic/Pawel Czerwinski"
               },
               {
                 "t": "p",
-                "x": "打字一直是我们的想法与将其传达给电脑的速度之间的瓶颈。Wispr Flow等AI-powered听写工具已让情况大为改善，但在安静的办公室、图书馆或咖啡馆里对着电脑说话往往会引人侧目。一家名为The Subvocal Company的初创公司开发了一款智能眼镜，声称能以每分钟超过200个单词的速度把无声的嘴部动作转换为文字。"
+                "x": "在iOS 27.3测试版中发现的代码显示，HomeView将支持ChatGPT和Claude等第三方AI聊天机器人。"
               },
               {
                 "t": "p",
-                "x": "该公司称，这款眼镜会向你的面部发射雷达信号。当你无声地做出词语的口型时，发音肌肉的细微动作会改变信号的反射方式。随后，AI模型会解读这些变化并将其转换为文字。整个过程不涉及摄像头。不过，你仍需刻意做出词语的口型。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses.jpg?resize=1728%2C1037&ssl=1"
+                "x": "爆料者pdfu本月初发现一个用于ConversationalApps的未使用标志后表示，ChatGPT、Claude等AI应用“可能”会登陆HomeView。现在，pdfu称iOS 26.3测试版证实了这一猜测。"
               },
               {
                 "t": "p",
-                "x": "这家初创公司表示，已从Y Combinator和Afore Capital筹集$1.3 million，目前在美国（US）接受预约，早鸟价为$499，需支付可退还的$199定金。预计2027年第一季度开始发货。其打字速度尚未经过独立验证。"
+                "x": "“各位，这事成了：AI应用要登陆HomeView了。HomeView的CarPlay桥接组件PebblePlay在iOS 27.3中获得了Conversational Apps类别。此次更新还加入了双向音频路由、会话管理和中断处理的基础工作。目前还没有完全打通。”"
+              },
+              {
+                "t": "p",
+                "x": "Apple用这些标志来决定哪些类别的第三方应用可以在设备上运行，方式与CarPlay相同。同一位爆料者最近还发现证据，表明HomeView将能用作HomeKit安防摄像头。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gafas de Subvocal para hablar\ncon la computadora en silencio",
-          "body": "Las gafas de Subvocal prometen dictar a la computadora en completo silencio, sin teclear ni hablar en voz alta.",
-          "mini_headline": "Las gafas de habla silenciosa de Subvocal",
+          "headline": "HomeView de Apple podría abrirse\na chatbots AI de terceros",
+          "body": "El código de la beta de iOS 27.3 sugiere que HomeView de Apple admitirá chatbots AI de terceros como ChatGPT y Claude.",
+          "mini_headline": "HomeView podría sumar chatbots AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Las gafas inteligentes de Subvocal usan radar para seguir los movimientos de la boca"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&w=1600",
+                "cap": "Imagen: 9to5Mac/Anthropic/Pawel Czerwinski"
               },
               {
                 "t": "p",
-                "x": "Escribir en el teclado siempre ha sido un cuello de botella entre lo que pensamos y la rapidez con que podemos comunicarlo a una computadora. Las herramientas de dictado impulsadas por AI (AI-powered), como Wispr Flow, han mejorado mucho las cosas, pero hablarle a la computadora en una oficina silenciosa, una biblioteca o una cafetería suele llamar la atención. Una startup llamada The Subvocal Company ha desarrollado unas gafas inteligentes que prometen convertir movimientos silenciosos de la boca en texto a más de 200 palabras por minuto."
+                "x": "Un código descubierto en la beta de iOS 27.3 sugiere que HomeView está a punto de admitir chatbots AI de terceros como ChatGPT y Claude."
               },
               {
                 "t": "p",
-                "x": "Según la empresa, sus gafas envían señales de radar a través del rostro. Cuando formas palabras en silencio, pequeños movimientos de los músculos del habla cambian la forma en que esas señales rebotan. Después, un modelo de AI interpreta esos cambios y los convierte en texto. No interviene ninguna cámara. Aun así, hay que articular las palabras de forma deliberada."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses.jpg?resize=1728%2C1037&ssl=1"
+                "x": "El filtrador pdfu dijo a principios de mes que ChatGPT, Claude y otras apps de AI \"podrían\" llegar a HomeView, tras detectar una marca sin usar para ConversationalApps. Ahora afirma que la beta de iOS 26.3 confirma su sospecha."
               },
               {
                 "t": "p",
-                "x": "La startup afirma haber recaudado $1.3 millones de Y Combinator y Afore Capital, y acepta reservas en Estados Unidos (US) a un precio anticipado de $499, con un depósito reembolsable de $199. Se prevé que los envíos comiencen en el primer trimestre de 2027. Las velocidades de escritura no se han verificado de forma independiente."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "gadgets-gboard-rambler-learns",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Gboard Rambler\n단어·연락처 학습할 듯",
-      "body": "Gboard 베타에 Rambler가 고친 단어와 연락처 이름을 익힐 단서가 있다.",
-      "mini_headline": "더 똑똑해지는 Gboard Rambler",
-      "tool": "Gadgets",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/gboard-rambler-corrected-words-contacts-apk-teardown-3732028/",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
-            "cap": "Pixel 11 Pro에서 Gboard의 Rambler를 쓰는 모습."
-          },
-          {
-            "t": "p",
-            "x": "Gboard 앱 최신 베타에서 Gemini 기반(Gemini-powered) 음성 입력 기능 Rambler가 곧 교정한 단어와 연락처 목록의 이름을 기억하게 될 단서가 나왔다. 지금의 Rambler는 교정 내용을 저장하지 못하고, 시간이 지나도 사용자의 어휘를 익히지 못한다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Remember-corrected-words-watermarked-scaled.jpg"
-          },
-          {
-            "t": "p",
-            "x": "버전 18.6.3.10 베타를 보면 Rambler에 Remember corrected words 토글이 새로 생길 것으로 보인다. 설명 문구는 “Rambler로 음성 입력할 때 교정한 단어를 학습하고 사용합니다”다. 새 Contact names 토글은 휴대폰 연락처를 참고해 음성 입력 중 이름을 정확히 알아듣는다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Voice-Correction-List-Import-Export-watermarked-scaled.jpg"
-          },
-          {
-            "t": "p",
-            "x": "새 Voice correction list에서는 교정한 단어를 한눈에 보고, Import로 Rambler가 익힐 단어를 직접 넣거나 Export로 공유할 수 있다. Clear all collected words 버튼을 누르면 저장된 교정 내용이 모두 지워진다. Rambler는 아직 Pixel 11 시리즈 전용이다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Gboard's Rambler may learn\nyour words and contact names",
-          "body": "A Gboard beta teardown suggests Rambler dictation may remember contact names and the words you have corrected.",
-          "mini_headline": "Gboard Rambler gets smarter",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
-                "cap": "Using Gboard's Rambler on the Pixel 11 Pro."
+                "x": "\"Está pasando, amigos: las apps de AI llegan a HomeView. PebblePlay, el puente de CarPlay de HomeView, recibe la categoría Conversational Apps en iOS 27.3. La actualización también añade enrutamiento de audio bidireccional, gestión de sesiones y las bases para las interrupciones. Todavía no está todo conectado.\""
               },
               {
                 "t": "p",
-                "x": "The latest beta of the Gboard app includes evidence that suggests Rambler, the Gemini-powered voice typing feature, could soon remember corrected words and names on your contacts list. In its current form, Rambler cannot save any corrections or learn from your vocabulary over time."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Remember-corrected-words-watermarked-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "In version 18.6.3.10 beta, Rambler could get a new Remember corrected words toggle: “Learn and use words you’ve corrected when voice typing with Rambler.” A new Contact names toggle looks at the contacts on your phone to accurately identify names during voice typing."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Voice-Correction-List-Import-Export-watermarked-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "A new Voice correction list shows all corrected words, with Import to manually add words for Rambler to learn and Export to share them. A Clear all collected words button erases every saved correction. Rambler currently remains exclusive to the Pixel 11 series."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Gboard Rambler\n단어·연락처 학습할 듯",
-          "body": "Gboard 베타에 Rambler가 고친 단어와 연락처 이름을 익힐 단서가 있다.",
-          "mini_headline": "더 똑똑해지는 Gboard Rambler",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
-                "cap": "Pixel 11 Pro에서 Gboard의 Rambler를 쓰는 모습."
-              },
-              {
-                "t": "p",
-                "x": "Gboard 앱 최신 베타에서 Gemini 기반(Gemini-powered) 음성 입력 기능 Rambler가 곧 교정한 단어와 연락처 목록의 이름을 기억하게 될 단서가 나왔다. 지금의 Rambler는 교정 내용을 저장하지 못하고, 시간이 지나도 사용자의 어휘를 익히지 못한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Remember-corrected-words-watermarked-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "버전 18.6.3.10 베타를 보면 Rambler에 Remember corrected words 토글이 새로 생길 것으로 보인다. 설명 문구는 “Rambler로 음성 입력할 때 교정한 단어를 학습하고 사용합니다”다. 새 Contact names 토글은 휴대폰 연락처를 참고해 음성 입력 중 이름을 정확히 알아듣는다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Voice-Correction-List-Import-Export-watermarked-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "새 Voice correction list에서는 교정한 단어를 한눈에 보고, Import로 Rambler가 익힐 단어를 직접 넣거나 Export로 공유할 수 있다. Clear all collected words 버튼을 누르면 저장된 교정 내용이 모두 지워진다. Rambler는 아직 Pixel 11 시리즈 전용이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "GboardのRambler\n単語と連絡先名を学習か",
-          "body": "Gboardベータから、Ramblerが連絡先名と修正した単語を覚える可能性が見えた。",
-          "mini_headline": "賢くなるGboard Rambler",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
-                "cap": "Pixel 11 ProでGboardのRamblerを使用しているところ。"
-              },
-              {
-                "t": "p",
-                "x": "Gboardアプリの最新ベータに、Geminiを活用した(Gemini-powered)音声入力機能Ramblerが、近く修正した単語や連絡先リストの名前を記憶できるようになることを示す手がかりが含まれている。現状のRamblerは修正内容を保存することも、時間をかけて語彙を学習することもできない。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Remember-corrected-words-watermarked-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "バージョン18.6.3.10ベータでは、Ramblerに新しいRemember corrected wordsトグルが加わる可能性がある。説明文は「Ramblerで音声入力する際に修正した単語を学習して使用します」だ。新しいContact namesトグルは、スマートフォンの連絡先を参照して音声入力中に名前を正確に認識する。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Voice-Correction-List-Import-Export-watermarked-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "新しいVoice correction listには修正した単語がすべて表示され、ImportでRamblerに学習させる単語を手動で追加し、Exportで共有できる。Clear all collected wordsボタンを押すと、保存された修正内容がすべて消去される。Ramblerは現在も引き続きPixel 11シリーズ専用だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Gboard Rambler\n或将学习词汇与联系人",
-          "body": "Gboard测试版拆解显示，Rambler听写或能记住联系人姓名和你纠正过的词。",
-          "mini_headline": "Gboard Rambler变得更聪明",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
-                "cap": "在Pixel 11 Pro上使用Gboard的Rambler。"
-              },
-              {
-                "t": "p",
-                "x": "Gboard应用的最新测试版中包含线索，显示由Gemini驱动（Gemini-powered）的语音输入功能Rambler可能很快就能记住纠正过的词语和联系人列表中的姓名。目前的Rambler无法保存任何纠正，也无法随着时间推移学习你的词汇。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Remember-corrected-words-watermarked-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "在18.6.3.10测试版中，Rambler可能新增一个Remember corrected words开关：“在使用Rambler语音输入时，学习并使用你纠正过的词语。”新的Contact names开关会查看手机中的联系人，以便在语音输入时准确识别姓名。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Voice-Correction-List-Import-Export-watermarked-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "新的Voice correction list会显示所有纠正过的词语，可通过Import手动添加供Rambler学习的词语，并通过Export分享。Clear all collected words按钮会清除所有已保存的纠正。Rambler目前仍是Pixel 11系列独占功能。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El Rambler de Gboard podría\naprender palabras y contactos",
-          "body": "Una beta de Gboard indica que el dictado de Rambler podría recordar nombres de contactos y las palabras corregidas.",
-          "mini_headline": "Rambler de Gboard, más inteligente",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
-                "cap": "Uso de Rambler de Gboard en el Pixel 11 Pro."
-              },
-              {
-                "t": "p",
-                "x": "La última beta de la app Gboard incluye indicios de que Rambler, la función de escritura por voz basada en Gemini (Gemini-powered), pronto podría recordar las palabras corregidas y los nombres de tu lista de contactos. En su forma actual, Rambler no puede guardar correcciones ni aprender de tu vocabulario con el tiempo."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Remember-corrected-words-watermarked-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "En la versión 18.6.3.10 beta, Rambler podría recibir un nuevo interruptor Remember corrected words: “Aprende y usa las palabras que has corregido al escribir por voz con Rambler”. Un nuevo interruptor Contact names consulta los contactos del teléfono para identificar con precisión los nombres durante la escritura por voz."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Voice-Correction-List-Import-Export-watermarked-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Una nueva Voice correction list muestra todas las palabras corregidas, con Import para añadir manualmente palabras que Rambler aprenda y Export para compartirlas. Un botón Clear all collected words borra todas las correcciones guardadas. Por ahora, Rambler sigue siendo exclusivo de la serie Pixel 11."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Gboard Rambler\n단어·연락처 학습할 듯",
-          "body": "Gboard 베타에서 Rambler가 고친 단어와 연락처 이름을 기억할 듯하다.",
-          "mini_headline": "더 똑똑해지는 Gboard Rambler",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
-                "cap": "Pixel 11 Pro에서 Gboard의 Rambler를 쓰는 모습."
-              },
-              {
-                "t": "p",
-                "x": "Gboard 앱 최신 베타에서, Gemini 기반(Gemini-powered) 음성 입력 기능 Rambler가 곧 교정한 단어와 연락처 목록의 이름을 기억할 수 있음을 시사하는 단서가 발견됐다. 현재 Rambler는 교정 내용을 저장하거나 시간이 지나며 사용자의 어휘를 학습하지 못한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Remember-corrected-words-watermarked-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "버전 18.6.3.10 베타에서 Rambler에 새 Remember corrected words 토글이 추가될 수 있다. 설명 문구는 “Rambler로 음성 입력할 때 교정한 단어를 학습하고 사용합니다”이다. 새 Contact names 토글은 휴대폰의 연락처를 참고해 음성 입력 중 이름을 정확히 인식한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Voice-Correction-List-Import-Export-watermarked-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "새 Voice correction list는 교정한 단어를 모두 보여 주며, Import로 Rambler가 학습할 단어를 직접 추가하고 Export로 공유할 수 있다. Clear all collected words 버튼은 저장된 교정 내용을 모두 지운다. Rambler는 현재 여전히 Pixel 11 시리즈 전용이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "GboardのRambler\n単語と連絡先名を学習か",
-          "body": "Gboardベータから、Ramblerが連絡先名と修正した単語を覚える可能性が見えた。",
-          "mini_headline": "賢くなるGboard Rambler",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
-                "cap": "Pixel 11 ProでGboardのRamblerを使用しているところ。"
-              },
-              {
-                "t": "p",
-                "x": "Gboardアプリの最新ベータに、Geminiを活用した(Gemini-powered)音声入力機能Ramblerが、近く修正した単語や連絡先リストの名前を記憶できるようになることを示す手がかりが含まれている。現状のRamblerは修正内容を保存することも、時間をかけて語彙を学習することもできない。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Remember-corrected-words-watermarked-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "バージョン18.6.3.10ベータでは、Ramblerに新しいRemember corrected wordsトグルが加わる可能性がある。説明文は「Ramblerで音声入力する際に修正した単語を学習して使用します」だ。新しいContact namesトグルは、スマートフォンの連絡先を参照して音声入力中に名前を正確に認識する。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Voice-Correction-List-Import-Export-watermarked-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "新しいVoice correction listには修正した単語がすべて表示され、ImportでRamblerに学習させる単語を手動で追加し、Exportで共有できる。Clear all collected wordsボタンを押すと、保存された修正内容がすべて消去される。Ramblerは現在も引き続きPixel 11シリーズ専用だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Gboard Rambler\n或将学习词汇与联系人",
-          "body": "Gboard测试版拆解显示，Rambler听写或能记住联系人姓名和你纠正过的词。",
-          "mini_headline": "Gboard Rambler变得更聪明",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
-                "cap": "在Pixel 11 Pro上使用Gboard的Rambler。"
-              },
-              {
-                "t": "p",
-                "x": "Gboard应用的最新测试版中包含线索，显示由Gemini驱动（Gemini-powered）的语音输入功能Rambler可能很快就能记住纠正过的词语和联系人列表中的姓名。目前的Rambler无法保存任何纠正，也无法随着时间推移学习你的词汇。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Remember-corrected-words-watermarked-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "在18.6.3.10测试版中，Rambler可能新增一个Remember corrected words开关：“在使用Rambler语音输入时，学习并使用你纠正过的词语。”新的Contact names开关会查看手机中的联系人，以便在语音输入时准确识别姓名。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Voice-Correction-List-Import-Export-watermarked-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "新的Voice correction list会显示所有纠正过的词语，可通过Import手动添加供Rambler学习的词语，并通过Export分享。Clear all collected words按钮会清除所有已保存的纠正。Rambler目前仍是Pixel 11系列独占功能。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El Rambler de Gboard podría\naprender palabras y contactos",
-          "body": "Una beta de Gboard indica que el dictado de Rambler podría recordar nombres de contactos y las palabras corregidas.",
-          "mini_headline": "Rambler de Gboard, más inteligente",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
-                "cap": "Uso de Rambler de Gboard en el Pixel 11 Pro."
-              },
-              {
-                "t": "p",
-                "x": "La última beta de la app Gboard incluye indicios de que Rambler, la función de escritura por voz basada en Gemini (Gemini-powered), pronto podría recordar las palabras corregidas y los nombres de tu lista de contactos. En su forma actual, Rambler no puede guardar correcciones ni aprender de tu vocabulario con el tiempo."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Remember-corrected-words-watermarked-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "En la versión 18.6.3.10 beta, Rambler podría recibir un nuevo interruptor Remember corrected words: “Aprende y usa las palabras que has corregido al escribir por voz con Rambler”. Un nuevo interruptor Contact names consulta los contactos del teléfono para identificar con precisión los nombres durante la escritura por voz."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Gboard-Rambler-Voice-Correction-List-Import-Export-watermarked-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Una nueva Voice correction list muestra todas las palabras corregidas, con Import para añadir manualmente palabras que Rambler aprenda y Export para compartirlas. Un botón Clear all collected words borra todas las correcciones guardadas. Por ahora, Rambler sigue siendo exclusivo de la serie Pixel 11."
+                "x": "Apple usa estas marcas para determinar qué categorías de apps de terceros pueden ejecutarse en el dispositivo, igual que hace con CarPlay. El mismo filtrador descubrió recientemente indicios de que HomeView podrá funcionar como cámara de seguridad de HomeKit."
               }
             ]
           }

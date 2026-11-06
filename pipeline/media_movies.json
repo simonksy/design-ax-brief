@@ -1,33 +1,31 @@
 {
- "date": "2026-11-06",
- "section": "movies",
- "media": [
-  {
-   "id": "instagram-edits-desktop-muse",
-   "type": "image",
-   "src": "pipeline/media/instagram-edits-desktop-muse.jpg"
-  },
-  {
-   "id": "alcon-wbd-bladerunner-settlement",
-   "type": "image",
-   "src": "pipeline/media/alcon-wbd-bladerunner-settlement.jpg"
-  },
-  {
-   "id": "raphael-ai-feature-korea",
-   "type": "image",
-   "src": "pipeline/media/raphael-ai-feature-korea.jpg"
-  },
-  {
-   "id": "klemm-netflix-dub-voice-suit",
-   "type": "video",
-   "src": "pipeline/media/klemm-netflix-dub-voice-suit.mp4",
-   "poster": "pipeline/media/klemm-netflix-dub-voice-suit.jpg"
-  },
-  {
-   "id": "movies-animaj-flipmove",
-   "type": "video",
-   "src": "pipeline/media/movies-animaj-flipmove.mp4",
-   "poster": "pipeline/media/movies-animaj-flipmove.jpg"
-  }
- ]
+  "date": "2026-11-07",
+  "section": "movies",
+  "media": [
+    {
+      "id": "dumont-the-end-genai-feature",
+      "type": "image",
+      "src": "pipeline/media/dumont-the-end-genai-feature.jpg"
+    },
+    {
+      "id": "fujitv-drama-genai-2027",
+      "type": "image",
+      "src": "pipeline/media/fujitv-drama-genai-2027.jpg"
+    },
+    {
+      "id": "toei-genai-production-rules",
+      "type": "image",
+      "src": "pipeline/media/toei-genai-production-rules.jpg"
+    },
+    {
+      "id": "chomet-dior-short-ai-claims",
+      "type": "image",
+      "src": "pipeline/media/chomet-dior-short-ai-claims.jpg"
+    },
+    {
+      "id": "taicca-ai-adoption-study",
+      "type": "image",
+      "src": "pipeline/media/taicca-ai-adoption-study.jpg"
+    }
+  ]
 }

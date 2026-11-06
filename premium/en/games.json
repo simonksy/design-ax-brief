@@ -10289,6 +10289,220 @@
           "x": "The move comes as Valve declines to block \"AI slop\" from Steam, Tim Sweeney calls mandatory AI disclaimers \"a political act,\" and Itch.io deletes what it called \"terabytes of AI slop.\""
         }
       ]
+    },
+    "games/aitachi-hakoniwa-minecraft-hardcore": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "On October 24, the YouTube channel \"AIたちの箱庭\" (AI-tachi no Hakoniwa) posted a video titled \"Can 11 talking AIs really work together and survive hardcore?\" It is the channel's first upload, yet it passed 420,000 views within 12 days of release."
+        },
+        {
+          "t": "img",
+          "src": "https://realsound.jp/wp-content/uploads/2026/11/20261106-minecraft-05.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The video drops 11 AI characters into the hardcore mode of Minecraft (a mode where you cannot come back after dying) to see whether they can survive for 5 days. The only things humans gave them were each character's personality and the goal \"survive for 5 days\"; there is no script. The AIs read their surroundings and think for themselves, acting while talking to the other AIs over in-game voice chat."
+        },
+        {
+          "t": "img",
+          "src": "https://realsound.jp/wp-content/uploads/2026/11/20261106-minecraft-02.jpg"
+        },
+        {
+          "t": "p",
+          "x": "There are 3 main characters. Kotonoha Akane runs on Claude, her younger sister Kotonoha Aoi on GPT, and Zundamon on Gemini. The other 8 run on a lighter GPT model."
+        },
+        {
+          "t": "img",
+          "src": "https://realsound.jp/wp-content/uploads/2026/11/20261106-minecraft-04.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Days 1 to 3 passed with no deaths. Things changed on day 4. That morning Tsumugi was killed by a zombie in front of the door, and later the same day Zundamon, who had gone deep into a cave alone, and Akane, who had been exploring the waterside alone, died one after another."
+        },
+        {
+          "t": "img",
+          "src": "https://realsound.jp/wp-content/uploads/2026/11/20261106-minecraft-03.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Because the game shows no death log, Aoi does not know her sister has died. On day 5, Aoi built graves for Akane and Zundamon by herself. In the end, 8 survived."
+        },
+        {
+          "t": "p",
+          "x": "The creator had set up an affinity system in anticipation of betrayal or infighting, but reflected at the end of the video that it \"didn't really mean much.\" According to the creator, the test was run about 5 times, at a cost of just under 10,000 yen per run in API terms."
+        },
+        {
+          "t": "video",
+          "yt": "aQAmW7a8IMI"
+        }
+      ]
+    },
+    "games/vermeij-gta6-pc-vibecode": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/ai-gta.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "Copycat fight. Image credit: Eurogamer"
+        },
+        {
+          "t": "p",
+          "x": "Former Rockstar Games North technical director Obbe Vermeij believes that the possibility of AI vibe coded ports of Grand Theft Auto 6 could push Rockstar to create an official PC version sooner than you'd expect."
+        },
+        {
+          "t": "p",
+          "x": "Speaking to RockPaperShotgun as part of a wider interview, Vermeij said generative AI \"really has changed the world.\". He elaborated: \"I think I would be concerned, if I was Rockstar, that somebody would just take the PS5 version and get AI to change it to PC, which won't be as good as [the developer's] effort, but it could still also hurt their sales. So, I wouldn't be surprised if there was an effort to get [the releases] a little bit closer together.\""
+        },
+        {
+          "t": "video",
+          "yt": "CbbOo-nENLc"
+        },
+        {
+          "t": "p",
+          "x": "Vermeij emphasised that he doesn't know what Rockstar's plans are, but with his technical expertise, he does believe that generative AI tools are \"probably\" capable of pulling off a GTA 6 PC port."
+        },
+        {
+          "t": "p",
+          "x": "\"It will take a long time. It actually, physically takes hours and hours and hours to do these things,\" Vermeij said. \"And it will take a bunch of tokens and everything, so it would probably cost like, tens of thousands of dollars in tokens. But like, you know, if it's GTA, I think people are gonna try it.\"."
+        },
+        {
+          "t": "p",
+          "x": "We've already seen people thrust footage of Grand Theft Auto 6 into AI software over the past few months. AI slop videos have been pulling in millions of views on social media, and people have been 'improving' trailer footage with Nvidia's DLSS5 'yassification' machine (thanks Ars Technica). Grand Theft Auto 6 itself will not feature any generative AI or microtransactions at launch."
+        }
+      ]
+    },
+    "games/mages-ai-translation-stance": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2026/11/20261106-74857-header.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In an October interview with Game*Spark (spotted by Kiri Kiri Basara), MAGES. president and CEO Makoto Asada talked about the hurdle of localizing text-heavy games into multiple languages, and why using AI translation is not a viable solution at this point."
+        },
+        {
+          "t": "p",
+          "x": "When it comes to visual novel games, Asada says translation costs are enormous, and releasing a localization also requires a thorough check of whether each fine nuance of the text has been conveyed as intended. In this context, he comments that “AI translation seems a long way from being practical.”"
+        },
+        {
+          "t": "p",
+          "x": "As an example, Asada says that if you were to task AI with reproducing the unique speech styles of the characters appearing in STEINS;GATE, it would not be able to do so. He argues that AI can arrive at something that feels similar, but that it cannot fully capture a character. “For the time being, it’s a process that ultimately requires a human touch,” he says."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2026/11/20261106-74857-001.jpg"
+        },
+        {
+          "t": "p",
+          "x": "As a company, MAGES. hardly seems hesitant to utilize AI in its smaller projects, as evident from the recent announcement of Juggernauts, an upcoming 90s style shooter that’s fully vibe-coded and heavily uses AI generated assets. However, it seems what when it comes to its bigger franchises, the developer is adopting a more cautious stance."
+        },
+        {
+          "t": "p",
+          "x": "Considering the high costs involved in localization, MAGES. has adopted the approach of giving simultaneous multi-language releases to its flagship Science Adventure series. Going forward, the CEO says he wants to carefully deliver the upcoming Memories Off remake to English-speaking audiences."
+        }
+      ]
+    },
+    "games/neoverse2-ai-art-gamespark": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "On October 31, 2026, Korean game studio Tinogames opened the Steam store page for the deckbuilding roguelike NEOVERSE 2: Companion Star (ネオバース2：共鳴する星)."
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1216207.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The NEOVERSE series is a deckbuilding roguelike set in a multiverse. The 1st game entered early access in 2019 and fully launched in 2020, making it one of the earliest games in the Slay the Spire (hereafter StS) mold."
+        },
+        {
+          "t": "p",
+          "x": "Right after early access began, the 1st game felt very much like an StS clone that had simply swapped its characters for beautiful women, but it went on to add original features such as a stage select system, combos and parries. Paired with a bold system that lets you churn through huge numbers of cards, it carved out its own path as a deckbuilding roguelike with a different flavor from StS."
+        },
+        {
+          "t": "p",
+          "x": "Developer Tinogames had kept a long silence in the 6 years since the previous game, but a sequel has finally arrived. This time, it seems you pick 2 from a group of 4 beautiful women, 1 more than last time, and team them up to take on tough enemies in timeline-based combat."
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1216209.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In the previous game, \"Naya\" was a black-haired, ponytailed beauty in a skintight full-body suit of the Taimanin variety, but this time she is a blonde in metal armor. As someone who has sunk more than 200 hours into the previous game, I'll admit she shows more skin now, but honestly, I can't shake the feeling that something is off...!"
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1216212.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The paladin Ms. Claire, who fights with holy power and life drain, was a beauty with the air of an aun... a veteran in the previous game, but this time she has become strikingly young. That said, her Binbocchama-style look, with her backside fully exposed from behind, appears unchanged."
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1216208.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In this game's art, however, illustrations that look like \"generative AI\" stand out."
+        },
+        {
+          "t": "p",
+          "x": "According to the \"AI Generated Content Disclosure\" section of the game's Steam store page, \"during development, AI tools were used for things such as 2D illustrations, icons, key art, music, some sound effects, voices (text-to-speech), and translation of in-game text.\""
+        },
+        {
+          "t": "p",
+          "x": "In any case, the generative AI feel is strong only in the art, and the game itself may well be a deckbuilding roguelike with the same distinctive edge as its predecessor. Fans of the previous game, and of deckbuilding roguelikes, should wait for early access starting November 14."
+        },
+        {
+          "t": "p",
+          "x": "NEOVERSE 2: Companion Star is scheduled to enter early access on PC (Steam) on November 14."
+        }
+      ]
+    },
+    "games/ncai-varco-gstar-cafe": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "[iNews24 reporter Kwak Min-gu] NC AI said on the 5th that it will run a hands-on cafe for its generative artificial intelligence (AI) platform VARCO at 'G-Star 2026', Korea's largest game exhibition."
+        },
+        {
+          "t": "img",
+          "src": "https://image.inews24.com/v1/e58954f733e2fa.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "VARCO is a generative AI platform developed by NC AI. It provides features for generating 3D models, sound and other assets needed for game and video production. It aims to reduce repetitive production work and help developers create the content they need."
+        },
+        {
+          "t": "p",
+          "x": "The cafe will operate from the 19th to the 21st at the Chachacoffeeco Centum Leaders Mark branch near Exhibition Hall 2 of BEXCO in Busan. Anyone can visit, including game industry professionals, indie game developers, students and content creators."
+        },
+        {
+          "t": "p",
+          "x": "Visitors can try 'VARCO 3D' and 'VARCO Sound' on site. VARCO 3D is a service that generates 3D models from text or image input and lets users edit their shape and surface texture. It also supports rigging, which builds a character's skeleton, and animation production."
+        },
+        {
+          "t": "p",
+          "x": "In the VARCO Sound area, visitors can generate the sounds of in-game creatures using voices they record themselves. The cafe will introduce AI-based audio production features and also display cases where they have been applied to actual video content."
+        },
+        {
+          "t": "p",
+          "x": "One-on-one adoption consultations will also be held for game developers and content production teams. NC AI plans to explain how to apply VARCO to existing production processes and how teams can use it, taking into account each company's development environment and project characteristics. Of the companies and production teams that take part in consultations, 10 will be given the opportunity to use VARCO free for 3 months. The company plans to help them assess how AI generation technology could be used in real projects."
+        },
+        {
+          "t": "p",
+          "x": "Online pre-registration is also open. Those who sign up for VARCO by the 18th and complete a survey can receive a 1-month pass for 'VARCO 3D Plus' or 'VARCO Sound Lite'. Participation is open regardless of whether one visits G-Star in person, and corporate consultation slots can also be booked through the survey."
+        },
+        {
+          "t": "p",
+          "x": "Lee Yeon-soo, CEO of NC AI, said, \"Through this G-Star, we will listen closely to the voices of game developers and creators, reflect the diverse needs from the field, and present more practical AI technologies and services.\""
+        }
+      ]
     }
   }
 }

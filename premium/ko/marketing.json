@@ -3669,6 +3669,138 @@
           "x": "Roku Outcomes는 현재 Home Screen 네이티브 지면과 인스트림 동영상을 포함한 Roku 광고 생태계 전반에서 쓸 수 있고, 우선 미디어·엔터테인먼트 광고주에게 제공된다. 구매, 웹사이트 방문, 장바구니 활동 지원은 향후 업데이트로 추가할 계획이다."
         }
       ]
+    },
+    "marketing/chatgpt-ads-bidding-nov9": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI가 ChatGPT Ads 광고주들에게 11월 9일 월요일부터 입찰 옵션이 바뀐다고 이메일로 알렸다. Max Bid나 Max CPC 입찰 옵션을 쓰는 광고주가 대상이다. OpenAI는 \"11월 9일 월요일부터 Ads Manager에서 캠페인을 만들거나 기존 캠페인을 수정할 때 비용 목표를 선택적으로 지정할 수 있다\"고 썼다."
+        },
+        {
+          "t": "p",
+          "x": "전환 캠페인에는 목표 액션당 비용(Target CPA)이 도입돼 Ads Manager의 신규 전환 캠페인에서 Max Bid를 대체한다. 클릭 캠페인에는 목표 클릭당 비용(Target CPC)이 들어와 신규 클릭 캠페인의 Max CPC를 대신한다. Max CPC는 입찰마다 상한을 두지만 Target CPC는 경매마다 목표보다 높게도 낮게도 입찰하도록 시스템에 맡긴다."
+        },
+        {
+          "t": "p",
+          "x": "Max Bid와 Max CPC는 2027년 1월 1일 종료된다. 이제 지능형 입찰(intelligent bidding)이라 부르는 Maximize results(autobid)는 지금처럼 입찰과 노출을 알아서 조정한다."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI는 지금 바로 전환을 시작하라고 권한다. Pixel이나 Conversions API가 선택한 이벤트를 제대로 보내는지 확인하고 최근 실제 CPA나 CPC를 보고 현실적인 목표를 잡으라는 것이다. 목표를 너무 빡빡하게 잡거나 전환 신호가 약하면 광고 노출이 줄고 예산이 남을 수 있다."
+        }
+      ]
+    },
+    "marketing/google-ads-ai-disclosure-regions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-label-glow-55CezYGY.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Ads가 광고의 AI 사용 여부를 밝혀야 하는 지역을 늘렸다. 유럽연합, 인도, 뉴욕이 있던 목록에 캘리포니아, 한국, 베트남이 더해졌다."
+        },
+        {
+          "t": "p",
+          "x": "Google은 이 내용을 반영해 이미 문서 몇 개를 고쳤다. Google Ads 도움말 'Use AI content label settings and disclosures'와 Google Merchant Center 도움말 'Product data specification'이 대표적이다."
+        },
+        {
+          "t": "p",
+          "x": "지역 항목 아래에는 이제 이렇게 적혀 있다. \"일부 지역에서는 광고 자체에도 AI 라벨이 표시된다. 다음 지역을 타기팅하는 캠페인의 경우, AI로 생성 또는 편집되었다고 지정한 애셋이 포함된 광고에는 눈에 보이는 오버레이도 함께 표시된다:\" 유럽연합, 인도, 뉴욕, 캘리포니아, 한국, 베트남."
+        },
+        {
+          "t": "p",
+          "x": "아래는 해당 페이지의 스크린샷이다. 새로 추가된 부분은 빨간색으로 표시했다:"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png"
+        },
+        {
+          "t": "p",
+          "x": "Merchant Center 문서에서 Google은 이렇게 설명한다. 유럽연합, 인도, 뉴욕, 캘리포니아, 한국, 베트남의 AI 규정에 따라 AI-generated 또는 편집된 특정 애셋이 들어간 광고에는 AI로 만든 광고임을 소비자에게 알리는 고지 및/또는 라벨을 넣어야 한다."
+        },
+        {
+          "t": "p",
+          "x": "목록은 앞으로도 더 늘어날 듯하다..."
+        }
+      ]
+    },
+    "marketing/google-ucp-checkout-canada": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-canada-checkout-1600x840-972.png"
+        },
+        {
+          "t": "p",
+          "x": "Google이 Universal Commerce Protocol(UCP) 기반 바로 결제를 캐나다 쇼핑객에게도 연다. 대상은 Google Search의 AI Mode와 Gemini 앱이다. 출시는 2026년 11월 4일 Google Canada 부사장 겸 국가 총괄 Sabrina Geremia가 발표했다."
+        },
+        {
+          "t": "p",
+          "x": "캐나다 첫 출시에는 lululemon, 일부 Shopify 판매자, Shoppers Drug Mart, Simons가 참여한다. 쇼핑객은 Google Wallet에 저장해 둔 결제 수단과 배송 정보로 Google Pay 결제를 하고, 판매 주체(seller of record)는 그대로 소매업체가 맡는다. Google은 몇 달 안에 로열티 리워드 적용 같은 기능도 넣을 계획이다."
+        },
+        {
+          "t": "p",
+          "x": "내년부터는 Merchant Center 안에서 간소화된 UCP 연동을 바로 제공한다. 소매업체가 자기 계정에서 AI Mode와 Gemini 앱 전반의 상품 목록에 바로 결제를 켤 수 있게 된다는 게 Google의 설명이다."
+        },
+        {
+          "t": "p",
+          "x": "Shopify 제품 담당 VP Mani Fazeli는 “캐나다인들은 이미 AI에게 무엇을 살지 묻고 있으며, 이제 캐나다에서 판매하는 Shopify 판매자는 추가 작업 하나 없이 AI Mode와 Gemini 앱에서 충실하게 소개되고 곧바로 구매될 수 있다”고 말했다. Merchant Center 연동의 구체적인 출시일은 Google이 아직 밝히지 않았다."
+        }
+      ]
+    },
+    "marketing/blend-agent-bot-blocks-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Home Depot, Best Buy, Macy's, Tesco, Argos, Next 등 UK와 US 소매업체 200곳 가운데 29곳의 보안 소프트웨어가 Blend Commerce의 자동 쇼핑 에이전트를 두 차례 시도 모두 돌려보냈다. Blend는 10월 6일 AI Shopping Audit 2026을 공개했고 Black Friday를 23일 앞둔 2026년 11월 4일 조사 결과에 관한 성명을 냈다."
+        },
+        {
+          "t": "p",
+          "x": "테스트는 2026년 9월 8일부터 15일까지 진행됐다. 대형 소매업체는 80곳 중 16곳이 브라우저를 거부했다(20%). 중견 소매업체는 80곳 중 열두 곳(15%), 신흥 소매업체는 40곳 중 한 곳(2.5%)에 그쳤다. Saks Fifth Avenue, Bergdorf Goodman, Anthropologie, JD Williams는 영점을 받았다."
+        },
+        {
+          "t": "p",
+          "x": "거부한 매장 29곳 중 Blend가 robots.txt를 읽을 수 있었던 곳은 24곳이다. 이 24곳은 모두 ChatGPT, Perplexity, Claude의 검색 크롤러를 허용하고 있었다. 보고서는 \"거부는 봇 차단에서 나온다\"고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "Blend Commerce 공동창업자 겸 CEO Adam Pearce는 \"이 소매업체 대부분은 아마 AI 기업들에 그들의 에이전트를 환영한다고 말했을 것이다. 그런데 정문의 보안 소프트웨어가 이를 거부한다\"고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "테스트에는 ChatGPT나 Gemini가 아니라 Blend의 자체 에이전트를 썼다. \"소매업체는 이름이 알려진 AI 에이전트는 허용하면서 알아보지 못하는 자동화는 거부할 수 있다.\" 에이전트 결제 엔드포인트를 운영하는 소매업체 38곳 가운데 서른일곱 곳이 Shopify 기반이다."
+        }
+      ]
+    },
+    "marketing/sej-ai-answer-ads-categories": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-shopping-ads.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adthena가 6월부터 9월까지 U.S.(미국)의 Google AI Overview 패널과 AI Mode 패널을 살펴보니 유료 광고 노출은 약 175,100건이었다. 연말 쇼핑 카테고리 다섯 개를 봤는데 유료 광고는 대부분 의류와 가전에 몰렸다. Holiday AI Paid Search Report는 같은 기간, 같은 다섯 카테고리의 ChatGPT 광고 노출 204,489건도 집계했다."
+        },
+        {
+          "t": "p",
+          "x": "Google 쪽은 의류가 약 111,000건, 가전 약 55,000건, 여행 약 6,500건, 뷰티 약 2,100건, 장난감·게임 약 685건이었다. 광고를 따로 살 필요는 없다. Search, Shopping, Performance Max 캠페인이면 자동으로 AI 답변에 노출될 자격이 생긴다. U.S. AI Overview 노출은 2025년 8월부터 2026년 8월 사이 3억400만 회에서 5억7500만 회로 89% 늘었다."
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT에서는 의류가 90,517건으로 가장 많았고 가전 56,569건, 여행 48,134건, 장난감·게임 4,694건, 뷰티 4,575건 순이었다. 뷰티 광고는 83%가 조사·탐색 단계 검색어에 붙었지만 의류와 가전은 각각 48%, 42%로 절반이 안 됐다. 보고서는 클릭·지출·전환을 추적하지 않았고 데이터도 Black Friday 전인 9월에서 끊긴다."
+        }
+      ]
     }
   }
 }

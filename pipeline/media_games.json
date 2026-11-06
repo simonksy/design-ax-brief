@@ -1,31 +1,7 @@
-{
-  "date": "2026-11-06",
-  "section": "games",
-  "media": [
-    {
-      "id": "ncai-varco-gstar-cafe",
-      "type": "svg"
-    },
-    {
-      "id": "google-cavill-mustache-protocol",
-      "type": "video",
-      "src": "pipeline/media/google-cavill-mustache-protocol.mp4",
-      "poster": "pipeline/media/google-cavill-mustache-protocol.jpg"
-    },
-    {
-      "id": "kojima-ai-creation-fun",
-      "type": "image",
-      "src": "pipeline/media/kojima-ai-creation-fun.jpg"
-    },
-    {
-      "id": "games-kimi-k31-gamedev-agents",
-      "type": "image",
-      "src": "pipeline/media/games-kimi-k31-gamedev-agents.png"
-    },
-    {
-      "id": "games-tencent-hy4-multiplayer",
-      "type": "image",
-      "src": "pipeline/media/games-tencent-hy4-multiplayer.jpg"
-    }
-  ]
-}
+{"date":"2026-11-07","section":"games","media":[
+{"id":"anthropic-project-eve-claude","type":"video","src":"pipeline/media/anthropic-project-eve-claude.mp4","poster":"pipeline/media/anthropic-project-eve-claude.jpg"},
+{"id":"aitachi-hakoniwa-minecraft-hardcore","type":"video","src":"pipeline/media/aitachi-hakoniwa-minecraft-hardcore.mp4","poster":"pipeline/media/aitachi-hakoniwa-minecraft-hardcore.jpg"},
+{"id":"vermeij-gta6-pc-vibecode","type":"video","src":"pipeline/media/vermeij-gta6-pc-vibecode.mp4","poster":"pipeline/media/vermeij-gta6-pc-vibecode.jpg"},
+{"id":"mages-ai-translation-stance","type":"image","src":"pipeline/media/mages-ai-translation-stance.jpg"},
+{"id":"neoverse2-ai-art-gamespark","type":"image","src":"pipeline/media/neoverse2-ai-art-gamespark.jpg"}
+]}

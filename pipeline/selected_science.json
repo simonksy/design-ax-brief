@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "section": "science",
   "items": [
     {
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "title": "Earth atmosphere emulators could enable faster and more accurate weather predictions",
-      "url": "https://phys.org/news/2026-11-earth-atmosphere-emulators-enable-faster.html",
-      "source": "Phys.org",
-      "published_iso": "2026-11-04T00:00:00-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula.jpg",
-      "excerpt": "Lawrence Livermore National Laboratory researchers, with DOE, NVIDIA and Los Alamos, train deep neural-network emulators such as STRATA on output from the physics-based E3SM model so they can predict atmospheric states without solving the equations; ML emulators for cloud microphysics and turbulence (STITCH) are also in development.",
-      "rationale": "Named national-lab ML emulators (STRATA, STITCH) trained on E3SM; new climate/weather-modeling work, distinct from earlier Ai2/Google and seasonal-forecast stories."
+      "title": "AI-Assisted Proof Settles Longstanding Question About Quantum Speedups",
+      "url": "https://thequantuminsider.com/2026/11/06/ai-assisted-proof-settles-longstanding-question-about-quantum-speedups/",
+      "source": "The Quantum Insider",
+      "published_iso": "2026-11-06T21:28:02+00:00",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-4.24.26-PM-1.png",
+      "excerpt": "Physical Superintelligence (PSI) says its research system running a non-public Anthropic model found a complete proof of the 2008 Aaronson-Ambainis conjecture on day three of a run, with the main theorem formalized and kernel-checked in Lean. The result bounds when quantum algorithms can beat classical ones on unstructured inputs.",
+      "rationale": "A new AI-found, Lean-verified proof of a famous 2008 quantum-complexity conjecture. It is a new result, not the earlier quantum-simulation, KLS or OpenAI/Anthropic proof stories."
     },
     {
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "title": "Exoplanets Can't Hide From The JWST's 'Digital Twin'",
-      "url": "https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin",
-      "source": "Universe Today",
-      "published_iso": "2026-11-05T12:42:40+00:00",
-      "og_image": "https://www.universetoday.com/article_images/STScI-01F3NW8E6TFNH2PDM8S6CSVA3P_20261104_225248.jpg",
-      "excerpt": "FLIP (Physics-based Learning for Imaging Planets) builds a differentiable 'digital twin' of JWST's optics, borrowing machine-learning optimization to strip starlight far more precisely and reveal a giant planet hidden in two-year-old data.",
-      "rationale": "New named method (FLIP) that recovers a hidden planet from archival JWST data; adds astronomy and a third outlet."
+      "title": "AI agents run this automated biology lab that sequences DNA and more",
+      "url": "https://www.nature.com/articles/d41586-026-03552-8",
+      "source": "Nature",
+      "published_iso": "2026-11-04T00:00:00Z",
+      "og_image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03552-8/d41586-026-03552-8_53940190.jpg",
+      "excerpt": "Shanghai Jiao Tong University's AutoDNA (Nature) is a self-driving genetics lab where Gemini-based AI agents design and execute DNA synthesis and sequencing experiments across 20+ instruments from a single prompt; one data-storage run took 11,382 steps over 203 hours.",
+      "rationale": "A Nature-published self-driving lab run end to end by AI agents, with concrete scale (11,382 steps, 203 hours). This is the primary source for the cluster, so the Chosun alternate is dropped."
     },
     {
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "AI learns to predict the world without ever seeing it",
-      "url": "https://techxplore.com/news/2026-11-ai-world.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-11-05T11:40:20-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-learns-to-predict-t.jpg",
-      "excerpt": "A Tel Aviv University and Stanford study asks whether a system can develop general learning capabilities without any exposure to real-world data, training models on synthetic inputs instead of books, images and recordings.",
-      "rationale": "Fresh cognition/learning-theory result: general learning from purely synthetic data, relevant to how models acquire world knowledge."
+      "title": "How to predict the behavior of molecules from scant data",
+      "url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
+      "source": "MIT News",
+      "published_iso": "2026-11-06T19:00:00Z",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202610/mit-cheme-chemeleon.jpg",
+      "excerpt": "MIT's CheMeleon is a molecular foundation model that produces reliable property predictions for pharmaceutical and other molecules even when only a handful of labeled data points exist.",
+      "rationale": "A new named chemistry foundation model (CheMeleon) for low-data property prediction. Useful for chemistry and materials work, and it adds an outlet."
     },
     {
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "title": "A sweeter future? AI helps scientists discover new sugar substitutes",
-      "url": "https://phys.org/news/2026-11-sweeter-future-ai-scientists-sugar.html",
+      "title": "AI points researchers toward new disease targets hidden in mitochondria",
+      "url": "https://phys.org/news/2026-11-ai-disease-hidden-mitochondria.html",
       "source": "Phys.org",
-      "published_iso": "2026-11-05T12:40:10-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-sweeter-future-ai-he.jpg",
-      "excerpt": "Hebrew University of Jerusalem researchers built a computational framework combining AI and molecular modeling that screened more than 50 million compounds and identified 92 promising sugar-substitute candidates (Food Chemistry).",
-      "rationale": "Concrete AI-driven molecular screening (50M compounds -> 92 candidates) in food chemistry; distinct materials/chemistry category."
+      "published_iso": "2026-11-06T14:20:01-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-27.jpg",
+      "excerpt": "Texas A&M AgriLife researchers used AlphaFold-Multimer to screen about 630,000 pairs of human mitochondrial proteins, predicting 2,895 likely interactions (more than half unreported) and confirming several in yeast and human cells (Nature Communications). Predictions are released as the free MitoMatch resource.",
+      "rationale": "Basic biology: a proteome-scale AI screen of protein interactions with a free MitoMatch resource. No specific disease or patient angle, so it belongs in science, not medicine."
     },
     {
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "title": "How 'reverse game theory' could keep AI agents in check",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "source": "MIT Technology Review",
-      "published_iso": "2026-11-03T05:43:41-05:00",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg?resize=1200,600",
-      "excerpt": "AI safety researchers are borrowing mechanism design from economics to control AI agents' behavior through incentives, even without understanding the models' internals.",
-      "rationale": "Research-direction piece on mechanism design for agent alignment; credible outlet, adds a fourth outlet and cross-disciplinary angle."
+      "title": "Fractal patterns reveal hidden limits to AI predictability",
+      "url": "https://phys.org/news/2026-11-fractal-patterns-reveal-hidden-limits.html",
+      "source": "Phys.org",
+      "published_iso": "2026-11-05T00:00:00-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/sydney-researchers-unc.jpg",
+      "excerpt": "University of Sydney researchers show in Nature Machine Intelligence that neural-network training outcomes form fractal 'riddled basins': across ~500,000 networks, a one-bit change in starting settings sent training elsewhere about 48% of the time, and extra precision did not restore reproducibility.",
+      "rationale": "A physics and dynamics result about whether neural-network training can be reproduced (~500k networks), published in Nature Machine Intelligence. It adds a physics/theory angle."
     }
   ],
   "dedup": {
     "checks": {
-      "https://phys.org/news/2026-11-earth-atmosphere-emulators-enable-faster.html": {
+      "https://thequantuminsider.com/2026/11/06/ai-assisted-proof-settles-longstanding-question-about-quantum-speedups/": {
         "verdict": "new",
-        "nearest": "https://allenai.org/blog/google-climate-partnership",
+        "nearest": "https://physicsworld.com/a/using-ai-agents-to-run-quantum-simulations/",
         "new_action": ""
       },
-      "https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin": {
+      "https://www.nature.com/articles/d41586-026-03552-8": {
         "verdict": "new",
-        "nearest": "https://www.scientificamerican.com/article/amateur-astronomer-harnesses-ai-to-find-a-possible-hidden-exoplanet/",
+        "nearest": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-11-ai-world.html": {
+      "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106": {
+        "verdict": "new",
+        "nearest": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+        "new_action": ""
+      },
+      "https://phys.org/news/2026-11-ai-disease-hidden-mitochondria.html": {
+        "verdict": "new",
+        "nearest": "https://phys.org/news/2026-10-ai-platform-database-protein-phase.html",
+        "new_action": ""
+      },
+      "https://phys.org/news/2026-11-fractal-patterns-reveal-hidden-limits.html": {
         "verdict": "new",
         "nearest": "",
-        "new_action": ""
-      },
-      "https://phys.org/news/2026-11-sweeter-future-ai-scientists-sugar.html": {
-        "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/": {
-        "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-10-simple-math-formula-ai-chatbots.html",
         "new_action": ""
       }
     },
-    "note": "SWAP 2026-11-06: removed 'AlphaFold 3 predicts complex immune interactions' (Phys.org) because a content classifier halted its translation twice (and the 11-05 run). It was replaced by LLNL atmosphere emulators (Phys.org, so Phys.org has 2 picks, which is within the cap). Emulators dedup: the nearest weather/climate-AI history is the 11-05 Ai2+Google climate-model partnership, the 10-15 HiRO-ACEv2 and phys.org AI-enhanced S2S weather model, and the 10-07 flash-flood diffusion forecasts. These come from different institutions with different models and events; LLNL's STRATA/STITCH E3SM emulators are a distinct story. Tech Xplore optical-hardware AI and SYNAPS-I X-ray were not used as the replacement because they are running-story risks (related to the 10-13 light-offloading and 10-07 agentic X-ray stories). Earlier choices are unchanged. FLIP history_match (GEN hybrid digital twins, 10-12) is only overlapping wording; its nearest real neighbour is the 10-15 SciAm amateur-astronomer exoplanet story (different team and method). Dropped: 'Is AI making you lazier?' (Live Science), which covers the same motivation-loss study as the 10-10 EurekAlert story. Excluded as medicine-facing: Stanford 'natural Ozempic' BRP and the GEN bird-flu H5 vaccine. Excluded off-list nature.com items. Lower priority: Pritzker prize, Live Science recursive self-improvement explainer, SciAm voice-clone explainer."
+    "note": "Pool 17, no URL or story repeats against the 30-day science history. The quantum-proof item was tagged 'related' to the 10-23 quantum-simulation story, but it is a different event (a new Aaronson-Ambainis proof). It is also distinct from the 10-28 KLS and 'dueling proofs' items. Within-pool duplicate: the Chosun AutoDNA piece is the same story as the Nature item, so I kept Nature. Checked published_urls.json medicine and other sections: none of the picks appear there. Sent to medicine (patient/clinic-facing): the GEN bird-flu vaccine, the ScienceDaily 'natural Ozempic', the Popular Mechanics ALS BCI avatar and the Medical Daily humor-coaching pilot. Lower-ranked, not dupes: the Tohoku solid-electrolyte perspective (no new data; related to the 10-22 sodium-ion story), the chatbot-personality study (related to 10-19), SYNAPS-I, the AI-agent upsell study, Anthropic's vault particles (overlaps the AutoDNA AI-run-lab theme), 'How scientists use Claude' and 'Teaching AI to build scientific models' (interview/essay). Outlets: TQI, Nature, MIT News, Phys.org x2."
   }
 }

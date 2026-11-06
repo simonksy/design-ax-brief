@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "section": "marketing",
   "cards": [
     {
-      "id": "sej-ai-answer-ads-categories",
+      "id": "amazon-agent-sponsored-text",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google AI 답변 속\n광고, 의류·전자에 몰려",
-      "body": "연말 광고가 Google AI 답변과 ChatGPT에서 의류·전자제품에 쏠렸다.",
-      "mini_headline": "AI 답변 광고, 의류에 집중",
+      "headline": "Amazon 쇼핑 에이전트\n대화창에 광고 싣는다",
+      "body": "Amazon 에이전트 문자 대화에 Sponsored Products 광고가 붙는다.",
+      "mini_headline": "Amazon 에이전트 대화에 광고",
       "tool": "Marketing",
-      "source": "Search Engine Journal",
-      "url": "https://www.searchenginejournal.com/google-ai-answer-ads-apparel-electronics-report/595984/",
+      "source": "Digiday",
+      "url": "https://digiday.com/media-buying/amazons-shopping-agent-now-takes-orders-by-text-with-sponsored-product-ads-in-the-replies/",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
@@ -19,149 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-shopping-ads.jpg"
+            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/Amazon-ads.jpg"
           },
           {
             "t": "p",
-            "x": "Adthena가 6월부터 9월까지 U.S.(미국)의 Google AI Overview 패널과 AI Mode 패널을 살펴보니 유료 광고 노출은 약 175,100건이었다. 연말 쇼핑 카테고리 다섯 개를 봤는데 유료 광고는 대부분 의류와 가전에 몰렸다. Holiday AI Paid Search Report는 같은 기간, 같은 다섯 카테고리의 ChatGPT 광고 노출 204,489건도 집계했다."
+            "x": "Amazon 쇼핑 에이전트가 이제 문자로 주문을 받는다. 주문이 오가는 대화창에는 광고도 붙는다. Sponsored Products가 이 대화 안에 노출될 예정인데, 당분간 광고주에게는 무료다. 에이전트가 직접 마무리하는 구매에는 광고가 붙지 않는다(ad-free)."
           },
           {
             "t": "p",
-            "x": "Google 쪽은 의류가 약 111,000건, 가전 약 55,000건, 여행 약 6,500건, 뷰티 약 2,100건, 장난감·게임 약 685건이었다. 광고를 따로 살 필요는 없다. Search, Shopping, Performance Max 캠페인이면 자동으로 AI 답변에 노출될 자격이 생긴다. U.S. AI Overview 노출은 2025년 8월부터 2026년 8월 사이 3억400만 회에서 5억7500만 회로 89% 늘었다."
+            "x": "문자 주문은 오늘 초대받은(invite-only) 소수의 U.S. 고객에게 먼저 열렸다. Amazon은 앞으로 몇 주 동안 수백만 명으로 넓힐 계획이다. 고객이 전화번호를 연결하면 “Alexa Shopping”이라는 연락처가 새로 생긴다. 이 연락처가 상품을 찾고 선택지를 비교해 추천을 문자로 보내며, 지시하면 결제까지 끝낸다. 자동 구매(auto-buy)를 켜 두면 가격이 목표치에 닿는 순간 에이전트가 알아서 산다."
           },
           {
             "t": "p",
-            "x": "ChatGPT에서는 의류가 90,517건으로 가장 많았고 가전 56,569건, 여행 48,134건, 장난감·게임 4,694건, 뷰티 4,575건 순이었다. 뷰티 광고는 83%가 조사·탐색 단계 검색어에 붙었지만 의류와 가전은 각각 48%, 42%로 절반이 안 됐다. 보고서는 클릭·지출·전환을 추적하지 않았고 데이터도 Black Friday 전인 9월에서 끊긴다."
+            "x": "광고가 들어갈 자리는 탐색 단계다. 에이전트가 선택지 몇 개를 묶어 문자로 보낼 때 그중 하나가 Sponsored Product일 수 있다. Amazon에 따르면 지난 12개월 동안 Alexa for Shopping을 쓴 고객은 4억(400 million) 명이 넘고, 에이전트 기능 사용량은 1월 이후 여덟 배 넘게 늘었다."
+          },
+          {
+            "t": "p",
+            "x": "독립 애드테크 컨설턴트 Jonathan D’Sousa-Rauto는 “에이전틱 커머스가 광고와 만나는 지금, 노출(impression)의 정의는 물론 리포팅과 측정도 매우 중요하다”고 말했다. 요청은 Amazon Shopping 앱과 웹사이트, Alexa-enabled 기기를 넘나들며 이어진다. 에이전트는 Shop Direct로 Amazon 밖 매장에서도 물건을 살 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ads in Google AI answers\ncluster in apparel, electronics",
-          "body": "Holiday data counting ads in Google AI Overviews, AI Mode and ChatGPT finds them clustered in apparel and electronics.",
-          "mini_headline": "AI answer ads cluster in apparel",
+          "headline": "Amazon puts sponsored ads\ninside its shopping agent",
+          "body": "Amazon's shopping agent now takes text orders, with Sponsored Products ads in the chats, free to advertisers for now.",
+          "mini_headline": "Amazon agent gets ads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-shopping-ads.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/Amazon-ads.jpg"
               },
               {
                 "t": "p",
-                "x": "Adthena reported that approximately 175,100 paid ad placements were found within Google’s AI Overview panel as well as AI Mode panels inside the U.S. during the period of June to September. This included five holiday shopping categories; however, the majority of these paid placements belonged to apparel and consumer electronics. The Holiday AI Paid Search Report also counts 204,489 ChatGPT ad placements in the same five categories over the same months."
+                "x": "Amazon’s shopping agent now takes orders by text message and the thread where those orders get placed will carry ads. Sponsored Products are set to appear inside those conversations, free to advertisers for the time being. Purchases the agent completes on its own will stay ad-free."
               },
               {
                 "t": "p",
-                "x": "In Google’s count, apparel has approximately 111,000 placements; consumer electronics about 55,000; travel roughly 6,500; beauty about 2,100; and toys and games around 685. There are no separate ad buys: all Search, Shopping, and Performance Max campaigns are automatically eligible to appear in AI answers. U.S. AI Overview appearances rose 89%, from 304 million to 575 million, between August 2025 and August 2026."
+                "x": "The texting option went live today for a small, invite-only group of U.S. customers, and Amazon plans to open it to millions more over the coming weeks. Customers link a phone number and get a new contact called “Alexa Shopping,” which searches, compares options, texts back suggestions, and checks out when told to; auto-buy lets the agent purchase when a price hits a target."
               },
               {
                 "t": "p",
-                "x": "On ChatGPT, apparel led with 90,517 placements, then Consumer Electronics with 56,569, Travel with 48,134, Toys and Games with 4,694 and Beauty with 4,575. In beauty, 83% of ads ran on research and discovery queries; apparel and consumer electronics came in under half, at 48% and 42%. The report does not track clicks, spend or conversions, and its data ends in September, before Black Friday."
+                "x": "The ad opportunity sits in the discovery stage: when the agent texts back a set of options, a Sponsored Product can be one of them. More than 400 million customers have used Alexa for Shopping in the past 12 months, according to Amazon, and use of its agentic features has grown more than eightfold since January."
+              },
+              {
+                "t": "p",
+                "x": "“As agentic commerce meets advertising, the definition of an impression is critical as well as the reporting and measurement,” said independent ad tech consultant Jonathan D’Sousa-Rauto. Requests carry across the Amazon Shopping app, the site and Alexa-enabled devices, and through Shop Direct the agent can also buy from stores beyond Amazon."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google AI 답변 속\n광고, 의류·전자에 몰려",
-          "body": "연말 광고가 Google AI 답변과 ChatGPT에서 의류·전자제품에 쏠렸다.",
-          "mini_headline": "AI 답변 광고, 의류에 집중",
+          "headline": "Amazon 쇼핑 에이전트\n대화창에 광고 싣는다",
+          "body": "Amazon 에이전트 문자 대화에 Sponsored Products 광고가 붙는다.",
+          "mini_headline": "Amazon 에이전트 대화에 광고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-shopping-ads.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/Amazon-ads.jpg"
               },
               {
                 "t": "p",
-                "x": "Adthena가 6월부터 9월까지 U.S.(미국)의 Google AI Overview 패널과 AI Mode 패널을 살펴보니 유료 광고 노출은 약 175,100건이었다. 연말 쇼핑 카테고리 다섯 개를 봤는데 유료 광고는 대부분 의류와 가전에 몰렸다. Holiday AI Paid Search Report는 같은 기간, 같은 다섯 카테고리의 ChatGPT 광고 노출 204,489건도 집계했다."
+                "x": "Amazon 쇼핑 에이전트가 이제 문자로 주문을 받는다. 주문이 오가는 대화창에는 광고도 붙는다. Sponsored Products가 이 대화 안에 노출될 예정인데, 당분간 광고주에게는 무료다. 에이전트가 직접 마무리하는 구매에는 광고가 붙지 않는다(ad-free)."
               },
               {
                 "t": "p",
-                "x": "Google 쪽은 의류가 약 111,000건, 가전 약 55,000건, 여행 약 6,500건, 뷰티 약 2,100건, 장난감·게임 약 685건이었다. 광고를 따로 살 필요는 없다. Search, Shopping, Performance Max 캠페인이면 자동으로 AI 답변에 노출될 자격이 생긴다. U.S. AI Overview 노출은 2025년 8월부터 2026년 8월 사이 3억400만 회에서 5억7500만 회로 89% 늘었다."
+                "x": "문자 주문은 오늘 초대받은(invite-only) 소수의 U.S. 고객에게 먼저 열렸다. Amazon은 앞으로 몇 주 동안 수백만 명으로 넓힐 계획이다. 고객이 전화번호를 연결하면 “Alexa Shopping”이라는 연락처가 새로 생긴다. 이 연락처가 상품을 찾고 선택지를 비교해 추천을 문자로 보내며, 지시하면 결제까지 끝낸다. 자동 구매(auto-buy)를 켜 두면 가격이 목표치에 닿는 순간 에이전트가 알아서 산다."
               },
               {
                 "t": "p",
-                "x": "ChatGPT에서는 의류가 90,517건으로 가장 많았고 가전 56,569건, 여행 48,134건, 장난감·게임 4,694건, 뷰티 4,575건 순이었다. 뷰티 광고는 83%가 조사·탐색 단계 검색어에 붙었지만 의류와 가전은 각각 48%, 42%로 절반이 안 됐다. 보고서는 클릭·지출·전환을 추적하지 않았고 데이터도 Black Friday 전인 9월에서 끊긴다."
+                "x": "광고가 들어갈 자리는 탐색 단계다. 에이전트가 선택지 몇 개를 묶어 문자로 보낼 때 그중 하나가 Sponsored Product일 수 있다. Amazon에 따르면 지난 12개월 동안 Alexa for Shopping을 쓴 고객은 4억(400 million) 명이 넘고, 에이전트 기능 사용량은 1월 이후 여덟 배 넘게 늘었다."
+              },
+              {
+                "t": "p",
+                "x": "독립 애드테크 컨설턴트 Jonathan D’Sousa-Rauto는 “에이전틱 커머스가 광고와 만나는 지금, 노출(impression)의 정의는 물론 리포팅과 측정도 매우 중요하다”고 말했다. 요청은 Amazon Shopping 앱과 웹사이트, Alexa-enabled 기기를 넘나들며 이어진다. 에이전트는 Shop Direct로 Amazon 밖 매장에서도 물건을 살 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google AI回答の広告\nアパレルと家電に集中",
-          "body": "Google AI検索とChatGPTの年末商戦広告は、アパレルと家電に集中している。",
-          "mini_headline": "AI回答の広告はアパレルに集中",
+          "headline": "Amazonの買い物\nエージェントに広告枠",
+          "body": "Amazonのエージェントが注文の対話にSponsored Products広告を載せる。",
+          "mini_headline": "Amazonエージェントに広告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-shopping-ads.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/Amazon-ads.jpg"
               },
               {
                 "t": "p",
-                "x": "Adthenaによると、6月から9月にかけてU.S.（米国）のGoogle AI OverviewパネルとAI Modeパネル内で約175,100件の有料広告枠が確認された。対象は年末商戦の五つのカテゴリーだが、有料広告の大半はアパレルと家電が占めた。Holiday AI Paid Search Reportは同じ期間、同じ五つのカテゴリーでChatGPTの広告枠204,489件も集計している。"
+                "x": "Amazonのショッピングエージェントがテキストメッセージで注文を受け付けるようになり、その注文が交わされるスレッドには広告が入る。Sponsored Productsがこの会話内に表示される予定で、当面は広告主に無料だ。エージェントが自ら完了する購入は広告なし(ad-free)のままとなる。"
               },
               {
                 "t": "p",
-                "x": "Googleの集計では、アパレルが約111,000件、家電が約55,000件、旅行が約6,500件、美容が約2,100件、玩具・ゲームが約685件だった。個別の広告購入はなく、Search、Shopping、Performance Maxの各キャンペーンはすべて自動的にAI回答への掲載対象となる。U.S.のAI Overview表示回数は2025年8月から2026年8月にかけて3億400万回から5億7500万回へ、89%増えた。"
+                "x": "テキスト機能は本日、招待制(invite-only)で一部のU.S.顧客向けに公開され、Amazonは今後数週間で数百万人規模に広げる計画だ。顧客が電話番号を連携すると「Alexa Shopping」という新しい連絡先が追加され、商品を検索し、選択肢を比較し、提案をテキストで返し、指示があれば決済まで行う。自動購入(auto-buy)を使えば、価格が目標に達した時点でエージェントが購入する。"
               },
               {
                 "t": "p",
-                "x": "ChatGPTではアパレルが90,517件で首位、次いで家電56,569件、旅行48,134件、玩具・ゲーム4,694件、美容4,575件だった。美容では広告の83%が調査・発見段階のクエリに表示され、アパレルと家電はそれぞれ48%、42%と半分を下回った。レポートはクリック、支出、コンバージョンを追跡しておらず、データはBlack Friday前の9月で終わっている。"
+                "x": "広告の機会は発見段階にある。エージェントが選択肢をまとめてテキストで返す際、その一つがSponsored Productになりうる。Amazonによると、過去12か月にAlexa for Shoppingを利用した顧客は4億(400 million)人を超え、エージェント機能の利用は1月以降で八倍超に伸びた。"
+              },
+              {
+                "t": "p",
+                "x": "独立系アドテクコンサルタントのJonathan D’Sousa-Rautoは「エージェンティックコマースが広告と交わる中、インプレッションの定義は、レポーティングや測定と同様に極めて重要だ」と述べた。リクエストはAmazon Shoppingアプリ、ウェブサイト、Alexa-enabledデバイスをまたいで引き継がれ、エージェントはShop Directを通じてAmazon以外の店舗でも購入できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google AI答案广告\n集中于服装和电子产品",
-          "body": "Google AI搜索与ChatGPT中的节日广告，主要集中在服装和电子产品领域。",
-          "mini_headline": "AI答案广告集中于服装",
+          "headline": "Amazon购物智能体\n嵌入赞助广告",
+          "body": "Amazon购物智能体接受短信下单，对话中将出现Sponsored Products广告。",
+          "mini_headline": "Amazon智能体加入广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-shopping-ads.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/Amazon-ads.jpg"
               },
               {
                 "t": "p",
-                "x": "Adthena报告称，6月至9月间，在U.S.（美国）的Google AI Overview面板和AI Mode面板中发现约175,100个付费广告展示位。统计涵盖五个节日购物类别，但大部分付费广告位属于服装和消费电子。Holiday AI Paid Search Report还统计了同期同五个类别中的204,489个ChatGPT广告展示位。"
+                "x": "Amazon的购物智能体现在可以通过短信接单，而下单所在的对话线程将承载广告。Sponsored Products将出现在这些对话中，目前对广告主免费。智能体自主完成的购买仍将保持无广告（ad-free）。"
               },
               {
                 "t": "p",
-                "x": "在Google的统计中，服装约111,000个，消费电子约55,000个，旅行约6,500个，美妆约2,100个，玩具与游戏约685个。广告主无需单独购买：所有Search、Shopping和Performance Max广告系列都会自动获得在AI答案中展示的资格。2025年8月至2026年8月，U.S. AI Overview的展示次数从3.04亿次增至5.75亿次，增长89%。"
+                "x": "短信功能今天面向一小批受邀（invite-only）的U.S.用户上线，Amazon计划在未来几周内向数百万用户开放。用户绑定手机号后会获得一个名为“Alexa Shopping”的新联系人，它能搜索商品、比较选项、以短信回复建议，并按指令完成结账；自动购买（auto-buy）功能可让智能体在价格达到目标时下单。"
               },
               {
                 "t": "p",
-                "x": "在ChatGPT上，服装以90,517个居首，其次是消费电子56,569个、旅行48,134个、玩具与游戏4,694个、美妆4,575个。美妆类广告中有83%出现在调研与发现类查询中；服装和消费电子不到一半，分别为48%和42%。该报告未追踪点击、支出或转化，数据截至9月，早于Black Friday。"
+                "x": "广告机会位于发现阶段：当智能体以短信发回一组选项时，其中一个可能是Sponsored Product。Amazon表示，过去12个月有超过4亿（400 million）名顾客使用过Alexa for Shopping，其智能体功能的使用量自一月以来增长了八倍多。"
+              },
+              {
+                "t": "p",
+                "x": "独立广告技术顾问Jonathan D’Sousa-Rauto表示：“当智能体商务与广告相遇，展示（impression）的定义以及报告和衡量都至关重要。”请求可在Amazon Shopping应用、网站和Alexa-enabled设备之间延续，智能体还可通过Shop Direct从Amazon以外的商店购买。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Anuncios en la IA de Google\nse agrupan en ropa y electrónica",
-          "body": "Datos navideños de Google AI Overviews, AI Mode y ChatGPT muestran anuncios concentrados en ropa y electrónica.",
-          "mini_headline": "Los anuncios de IA se concentran en ropa",
+          "headline": "Anuncios patrocinados llegan\nal agente de compras de Amazon",
+          "body": "El agente de compras de Amazon acepta pedidos por texto e incluye anuncios de Sponsored Products, gratis por ahora.",
+          "mini_headline": "Anuncios en el agente de Amazon",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-shopping-ads.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/Amazon-ads.jpg"
               },
               {
                 "t": "p",
-                "x": "Adthena informó que entre junio y septiembre se detectaron aproximadamente 175,100 ubicaciones de anuncios pagados en los paneles de AI Overview y de AI Mode de Google en U.S. (Estados Unidos). El análisis abarcó cinco categorías de compras navideñas, pero la mayoría de esas ubicaciones correspondió a ropa y electrónica de consumo. El Holiday AI Paid Search Report también contabiliza 204,489 ubicaciones de anuncios en ChatGPT en las mismas cinco categorías y los mismos meses."
+                "x": "El agente de compras de Amazon ya acepta pedidos por mensaje de texto, y el hilo donde se realizan esos pedidos llevará anuncios. Sponsored Products aparecerá dentro de esas conversaciones, de forma gratuita para los anunciantes por el momento. Las compras que el agente complete por su cuenta seguirán sin anuncios (ad-free)."
               },
               {
                 "t": "p",
-                "x": "En el recuento de Google, la ropa suma aproximadamente 111,000 ubicaciones; la electrónica de consumo, unas 55,000; viajes, cerca de 6,500; belleza, unas 2,100, y juguetes y juegos, alrededor de 685. No hay compras de anuncios separadas: todas las campañas de Search, Shopping y Performance Max pueden aparecer automáticamente en las respuestas de IA. Las apariciones de AI Overview en U.S. crecieron un 89%, de 304 millones a 575 millones, entre agosto de 2025 y agosto de 2026."
+                "x": "La opción de texto se activó hoy para un pequeño grupo de clientes de U.S. por invitación (invite-only), y Amazon planea abrirla a millones más en las próximas semanas. Los clientes vinculan un número de teléfono y obtienen un nuevo contacto llamado “Alexa Shopping”, que busca, compara opciones, responde con sugerencias por texto y completa la compra cuando se le indica; la función auto-buy permite que el agente compre cuando un precio alcanza un objetivo."
               },
               {
                 "t": "p",
-                "x": "En ChatGPT, la ropa encabezó con 90,517 ubicaciones, seguida de electrónica de consumo con 56,569, viajes con 48,134, juguetes y juegos con 4,694 y belleza con 4,575. En belleza, el 83% de los anuncios apareció en consultas de investigación y descubrimiento; en ropa y electrónica de consumo la proporción quedó por debajo de la mitad, con 48% y 42%. El informe no mide clics, gasto ni conversiones, y sus datos terminan en septiembre, antes del Black Friday."
+                "x": "La oportunidad publicitaria está en la fase de descubrimiento: cuando el agente envía por texto un conjunto de opciones, una de ellas puede ser un Sponsored Product. Más de 400 millones de clientes han usado Alexa for Shopping en los últimos 12 meses, según Amazon, y el uso de sus funciones agénticas se ha multiplicado más de ocho veces desde enero."
+              },
+              {
+                "t": "p",
+                "x": "“A medida que el comercio agéntico se une a la publicidad, la definición de una impresión es crucial, al igual que los informes y la medición”, dijo el consultor independiente de ad tech Jonathan D’Sousa-Rauto. Las solicitudes se mantienen entre la app Amazon Shopping, el sitio web y los dispositivos Alexa-enabled, y a través de Shop Direct el agente también puede comprar en tiendas fuera de Amazon."
               }
             ]
           }
@@ -169,105 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google AI 답변 속\n광고, 의류·전자에 몰려",
-          "body": "Google AI 답변과 ChatGPT의 연말 광고는 의류·전자제품에 몰렸다.",
-          "mini_headline": "AI 답변 광고, 의류에 집중",
+          "headline": "Amazon 쇼핑 에이전트\n대화창에 광고 싣는다",
+          "body": "Amazon 에이전트 문자창에 Sponsored Products 광고가 붙는다.",
+          "mini_headline": "Amazon 에이전트에 광고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-shopping-ads.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/Amazon-ads.jpg"
               },
               {
                 "t": "p",
-                "x": "Adthena에 따르면 6월부터 9월까지 U.S.(미국) 내 Google AI Overview 패널과 AI Mode 패널에서 유료 광고 노출 약 175,100건이 확인됐다. 다섯 개 연말 쇼핑 카테고리를 대상으로 했지만 유료 광고 대부분은 의류와 가전에 속했다. Holiday AI Paid Search Report는 같은 기간 같은 다섯 카테고리에서 ChatGPT 광고 노출 204,489건도 집계했다."
+                "x": "Amazon의 쇼핑 에이전트가 이제 문자 메시지로 주문을 받고, 주문이 오가는 대화창에는 광고가 붙는다. Sponsored Products가 이 대화 안에 노출될 예정이며, 당분간 광고주에게는 무료다. 에이전트가 스스로 마무리하는 구매에는 광고가 붙지 않는다(ad-free)."
               },
               {
                 "t": "p",
-                "x": "Google 쪽 집계에서 의류는 약 111,000건, 가전은 약 55,000건, 여행은 약 6,500건, 뷰티는 약 2,100건, 장난감·게임은 약 685건이다. 별도 광고 구매는 없다. Search, Shopping, Performance Max 캠페인은 모두 자동으로 AI 답변에 노출될 자격을 얻는다. U.S. AI Overview 노출은 2025년 8월부터 2026년 8월 사이 3억400만 회에서 5억7500만 회로 89% 늘었다."
+                "x": "문자 주문 기능은 오늘 초대받은(invite-only) 소수의 U.S. 고객을 대상으로 먼저 열렸고, Amazon은 앞으로 몇 주에 걸쳐 수백만 명에게 더 확대할 계획이다. 고객이 전화번호를 연결하면 “Alexa Shopping”이라는 새 연락처가 생기는데, 이 연락처가 상품을 검색하고 선택지를 비교해 추천을 문자로 보내며, 지시하면 결제까지 마친다. 자동 구매(auto-buy) 기능을 켜면 가격이 목표치에 닿을 때 에이전트가 알아서 산다."
               },
               {
                 "t": "p",
-                "x": "ChatGPT에서는 의류가 90,517건으로 가장 많았고 가전 56,569건, 여행 48,134건, 장난감·게임 4,694건, 뷰티 4,575건이 뒤를 이었다. 뷰티 광고의 83%는 조사·탐색 단계 검색어에 노출됐고, 의류와 가전은 각각 48%, 42%로 절반에 못 미쳤다. 보고서는 클릭·지출·전환을 추적하지 않으며, 데이터는 Black Friday 이전인 9월에서 끝난다."
+                "x": "광고 기회는 탐색 단계에 있다. 에이전트가 선택지 묶음을 문자로 보낼 때 그중 하나가 Sponsored Product일 수 있다. Amazon에 따르면 지난 12개월 동안 Alexa for Shopping을 쓴 고객은 4억(400 million) 명이 넘고, 에이전트 기능 사용량은 1월 이후 여덟 배 넘게 늘었다."
+              },
+              {
+                "t": "p",
+                "x": "독립 애드테크 컨설턴트 Jonathan D’Sousa-Rauto는 “에이전틱 커머스가 광고와 만나는 지금, 노출(impression)의 정의는 물론 리포팅과 측정도 매우 중요하다”고 말했다. 요청은 Amazon Shopping 앱과 웹사이트, Alexa-enabled 기기 전반에서 이어지며, 에이전트는 Shop Direct를 통해 Amazon 밖의 매장에서도 구매할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google AI回答の広告\nアパレルと家電に集中",
-          "body": "Google AI検索とChatGPTの年末商戦広告は、アパレルと家電に集中している。",
-          "mini_headline": "AI回答の広告はアパレルに集中",
+          "headline": "Amazonの買い物\nエージェントに広告枠",
+          "body": "Amazonのエージェントが注文の対話にSponsored Products広告を載せる。",
+          "mini_headline": "Amazonエージェントに広告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-shopping-ads.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/Amazon-ads.jpg"
               },
               {
                 "t": "p",
-                "x": "Adthenaによると、6月から9月にかけてU.S.（米国）のGoogle AI OverviewパネルとAI Modeパネル内で約175,100件の有料広告枠が確認された。対象は年末商戦の五つのカテゴリーだが、有料広告の大半はアパレルと家電が占めた。Holiday AI Paid Search Reportは同じ期間、同じ五つのカテゴリーでChatGPTの広告枠204,489件も集計している。"
+                "x": "Amazonのショッピングエージェントがテキストメッセージで注文を受け付けるようになり、その注文が交わされるスレッドには広告が入る。Sponsored Productsがこの会話内に表示される予定で、当面は広告主に無料だ。エージェントが自ら完了する購入は広告なし(ad-free)のままとなる。"
               },
               {
                 "t": "p",
-                "x": "Googleの集計では、アパレルが約111,000件、家電が約55,000件、旅行が約6,500件、美容が約2,100件、玩具・ゲームが約685件だった。個別の広告購入はなく、Search、Shopping、Performance Maxの各キャンペーンはすべて自動的にAI回答への掲載対象となる。U.S.のAI Overview表示回数は2025年8月から2026年8月にかけて3億400万回から5億7500万回へ、89%増えた。"
+                "x": "テキスト機能は本日、招待制(invite-only)で一部のU.S.顧客向けに公開され、Amazonは今後数週間で数百万人規模に広げる計画だ。顧客が電話番号を連携すると「Alexa Shopping」という新しい連絡先が追加され、商品を検索し、選択肢を比較し、提案をテキストで返し、指示があれば決済まで行う。自動購入(auto-buy)を使えば、価格が目標に達した時点でエージェントが購入する。"
               },
               {
                 "t": "p",
-                "x": "ChatGPTではアパレルが90,517件で首位、次いで家電56,569件、旅行48,134件、玩具・ゲーム4,694件、美容4,575件だった。美容では広告の83%が調査・発見段階のクエリに表示され、アパレルと家電はそれぞれ48%、42%と半分を下回った。レポートはクリック、支出、コンバージョンを追跡しておらず、データはBlack Friday前の9月で終わっている。"
+                "x": "広告の機会は発見段階にある。エージェントが選択肢をまとめてテキストで返す際、その一つがSponsored Productになりうる。Amazonによると、過去12か月にAlexa for Shoppingを利用した顧客は4億(400 million)人を超え、エージェント機能の利用は1月以降で八倍超に伸びた。"
+              },
+              {
+                "t": "p",
+                "x": "独立系アドテクコンサルタントのJonathan D’Sousa-Rautoは「エージェンティックコマースが広告と交わる中、インプレッションの定義は、レポーティングや測定と同様に極めて重要だ」と述べた。リクエストはAmazon Shoppingアプリ、ウェブサイト、Alexa-enabledデバイスをまたいで引き継がれ、エージェントはShop Directを通じてAmazon以外の店舗でも購入できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google AI答案广告\n集中于服装和电子产品",
-          "body": "Google AI搜索与ChatGPT中的节日广告，主要集中在服装和电子产品领域。",
-          "mini_headline": "AI答案广告集中于服装",
+          "headline": "Amazon购物智能体\n嵌入赞助广告",
+          "body": "Amazon购物智能体接受短信下单，对话中将出现Sponsored Products广告。",
+          "mini_headline": "Amazon智能体加入广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-shopping-ads.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/Amazon-ads.jpg"
               },
               {
                 "t": "p",
-                "x": "Adthena报告称，6月至9月间，在U.S.（美国）的Google AI Overview面板和AI Mode面板中发现约175,100个付费广告展示位。统计涵盖五个节日购物类别，但大部分付费广告位属于服装和消费电子。Holiday AI Paid Search Report还统计了同期同五个类别中的204,489个ChatGPT广告展示位。"
+                "x": "Amazon的购物智能体现在可以通过短信接单，而下单所在的对话线程将承载广告。Sponsored Products将出现在这些对话中，目前对广告主免费。智能体自主完成的购买仍将保持无广告（ad-free）。"
               },
               {
                 "t": "p",
-                "x": "在Google的统计中，服装约111,000个，消费电子约55,000个，旅行约6,500个，美妆约2,100个，玩具与游戏约685个。广告主无需单独购买：所有Search、Shopping和Performance Max广告系列都会自动获得在AI答案中展示的资格。2025年8月至2026年8月，U.S. AI Overview的展示次数从3.04亿次增至5.75亿次，增长89%。"
+                "x": "短信功能今天面向一小批受邀（invite-only）的U.S.用户上线，Amazon计划在未来几周内向数百万用户开放。用户绑定手机号后会获得一个名为“Alexa Shopping”的新联系人，它能搜索商品、比较选项、以短信回复建议，并按指令完成结账；自动购买（auto-buy）功能可让智能体在价格达到目标时下单。"
               },
               {
                 "t": "p",
-                "x": "在ChatGPT上，服装以90,517个居首，其次是消费电子56,569个、旅行48,134个、玩具与游戏4,694个、美妆4,575个。美妆类广告中有83%出现在调研与发现类查询中；服装和消费电子不到一半，分别为48%和42%。该报告未追踪点击、支出或转化，数据截至9月，早于Black Friday。"
+                "x": "广告机会位于发现阶段：当智能体以短信发回一组选项时，其中一个可能是Sponsored Product。Amazon表示，过去12个月有超过4亿（400 million）名顾客使用过Alexa for Shopping，其智能体功能的使用量自一月以来增长了八倍多。"
+              },
+              {
+                "t": "p",
+                "x": "独立广告技术顾问Jonathan D’Sousa-Rauto表示：“当智能体商务与广告相遇，展示（impression）的定义以及报告和衡量都至关重要。”请求可在Amazon Shopping应用、网站和Alexa-enabled设备之间延续，智能体还可通过Shop Direct从Amazon以外的商店购买。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Anuncios en la IA de Google\nse agrupan en ropa y electrónica",
-          "body": "Datos navideños de Google AI Overviews, AI Mode y ChatGPT muestran anuncios concentrados en ropa y electrónica.",
-          "mini_headline": "Los anuncios de IA se concentran en ropa",
+          "headline": "Anuncios patrocinados llegan\nal agente de compras de Amazon",
+          "body": "El agente de compras de Amazon acepta pedidos por texto e incluye anuncios de Sponsored Products, gratis por ahora.",
+          "mini_headline": "Anuncios en el agente de Amazon",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-shopping-ads.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/Amazon-ads.jpg"
               },
               {
                 "t": "p",
-                "x": "Adthena informó que entre junio y septiembre se detectaron aproximadamente 175,100 ubicaciones de anuncios pagados en los paneles de AI Overview y de AI Mode de Google en U.S. (Estados Unidos). El análisis abarcó cinco categorías de compras navideñas, pero la mayoría de esas ubicaciones correspondió a ropa y electrónica de consumo. El Holiday AI Paid Search Report también contabiliza 204,489 ubicaciones de anuncios en ChatGPT en las mismas cinco categorías y los mismos meses."
+                "x": "El agente de compras de Amazon ya acepta pedidos por mensaje de texto, y el hilo donde se realizan esos pedidos llevará anuncios. Sponsored Products aparecerá dentro de esas conversaciones, de forma gratuita para los anunciantes por el momento. Las compras que el agente complete por su cuenta seguirán sin anuncios (ad-free)."
               },
               {
                 "t": "p",
-                "x": "En el recuento de Google, la ropa suma aproximadamente 111,000 ubicaciones; la electrónica de consumo, unas 55,000; viajes, cerca de 6,500; belleza, unas 2,100, y juguetes y juegos, alrededor de 685. No hay compras de anuncios separadas: todas las campañas de Search, Shopping y Performance Max pueden aparecer automáticamente en las respuestas de IA. Las apariciones de AI Overview en U.S. crecieron un 89%, de 304 millones a 575 millones, entre agosto de 2025 y agosto de 2026."
+                "x": "La opción de texto se activó hoy para un pequeño grupo de clientes de U.S. por invitación (invite-only), y Amazon planea abrirla a millones más en las próximas semanas. Los clientes vinculan un número de teléfono y obtienen un nuevo contacto llamado “Alexa Shopping”, que busca, compara opciones, responde con sugerencias por texto y completa la compra cuando se le indica; la función auto-buy permite que el agente compre cuando un precio alcanza un objetivo."
               },
               {
                 "t": "p",
-                "x": "En ChatGPT, la ropa encabezó con 90,517 ubicaciones, seguida de electrónica de consumo con 56,569, viajes con 48,134, juguetes y juegos con 4,694 y belleza con 4,575. En belleza, el 83% de los anuncios apareció en consultas de investigación y descubrimiento; en ropa y electrónica de consumo la proporción quedó por debajo de la mitad, con 48% y 42%. El informe no mide clics, gasto ni conversiones, y sus datos terminan en septiembre, antes del Black Friday."
+                "x": "La oportunidad publicitaria está en la fase de descubrimiento: cuando el agente envía por texto un conjunto de opciones, una de ellas puede ser un Sponsored Product. Más de 400 millones de clientes han usado Alexa for Shopping en los últimos 12 meses, según Amazon, y el uso de sus funciones agénticas se ha multiplicado más de ocho veces desde enero."
+              },
+              {
+                "t": "p",
+                "x": "“A medida que el comercio agéntico se une a la publicidad, la definición de una impresión es crucial, al igual que los informes y la medición”, dijo el consultor independiente de ad tech Jonathan D’Sousa-Rauto. Las solicitudes se mantienen entre la app Amazon Shopping, el sitio web y los dispositivos Alexa-enabled, y a través de Shop Direct el agente también puede comprar en tiendas fuera de Amazon."
               }
             ]
           }
@@ -275,15 +315,15 @@
       }
     },
     {
-      "id": "clarity-copilot-catalog",
+      "id": "chatgpt-ads-bidding-nov9",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Clarity가 카탈로그를\nCopilot·Bing으로",
-      "body": "약관에 동의하면 Shopify·WooCommerce 상품이 Copilot에 실린다.",
-      "mini_headline": "Clarity, 매장 상품을 Copilot으로",
+      "headline": "ChatGPT Ads\n11월 9일 입찰 개편",
+      "body": "OpenAI가 11월 9일 ChatGPT Ads Max CPC 등 입찰을 손본다.",
+      "mini_headline": "ChatGPT Ads 입찰 개편",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/microsoft-clarity-puts-shopify-and-woocommerce-products-in-copilot-and-bing/",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/openai-updates-chatgpt-ads-bidding-options-42470.html",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -291,149 +331,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/2026/11/microsoft-clarity-brand-agents-copilot-bing-catalog-mail-slot-skyscraper-billboard.jpg"
+            "src": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg"
           },
           {
             "t": "p",
-            "x": "Microsoft는 2026년 11월 4일 무료 웹사이트 분석 서비스 Clarity를 세 방향으로 넓혔다. 웹사이트를 찾는 AI 에이전트용 대시보드와 시뮬레이션 도구, 사이트 이용 행태를 물으면 답하는 AI 분석가 Ask Clarity, 마지막으로 Brand Agents 변경이다. 쇼핑객이 AI에 추천을 구하면 자격을 갖춘 Shopify·WooCommerce 판매자의 상품이 Microsoft Copilot, Bing, MSN에 뜰 수 있다."
+            "x": "OpenAI가 ChatGPT Ads 광고주들에게 11월 9일 월요일부터 입찰 옵션이 바뀐다고 이메일로 알렸다. Max Bid나 Max CPC 입찰 옵션을 쓰는 광고주가 대상이다. OpenAI는 \"11월 9일 월요일부터 Ads Manager에서 캠페인을 만들거나 기존 캠페인을 수정할 때 비용 목표를 선택적으로 지정할 수 있다\"고 썼다."
           },
           {
             "t": "p",
-            "x": "Microsoft Learn에 따르면 Brand Agents 약관에 동의한 판매자는 카탈로그 사본이 Microsoft Merchant Center에 게시되고 상품은 Bing, Copilot 등 Bing 기반 AI 어시스턴트 전반에서 검색된다. 구매는 판매자 웹사이트에서 한다. Brand Agents로 Square, Jobber, HubSpot, Calendly, Housecall Pro, Salesforce를 거쳐 지역 서비스를 예약할 수도 있다."
+            "x": "전환 캠페인에는 목표 액션당 비용(Target CPA)이 도입돼 Ads Manager의 신규 전환 캠페인에서 Max Bid를 대체한다. 클릭 캠페인에는 목표 클릭당 비용(Target CPC)이 들어와 신규 클릭 캠페인의 Max CPC를 대신한다. Max CPC는 입찰마다 상한을 두지만 Target CPC는 경매마다 목표보다 높게도 낮게도 입찰하도록 시스템에 맡긴다."
           },
           {
             "t": "p",
-            "x": "“현재 Agentic Analytics가 지원하는 에이전트에는 Google, OpenAI, Anthropic의 에이전트 운영사가 포함된다.” Ask Clarity는 리테일러 대상 비공개 베타 상태다. 두 게시물 모두 ‘자격’의 기준이나 가격은 밝히지 않았다. 무료 분석 태그는 Microsoft 자체 서비스로 들어가는 유통 채널이 됐다."
+            "x": "Max Bid와 Max CPC는 2027년 1월 1일 종료된다. 이제 지능형 입찰(intelligent bidding)이라 부르는 Maximize results(autobid)는 지금처럼 입찰과 노출을 알아서 조정한다."
+          },
+          {
+            "t": "p",
+            "x": "OpenAI는 지금 바로 전환을 시작하라고 권한다. Pixel이나 Conversions API가 선택한 이벤트를 제대로 보내는지 확인하고 최근 실제 CPA나 CPC를 보고 현실적인 목표를 잡으라는 것이다. 목표를 너무 빡빡하게 잡거나 전환 신호가 약하면 광고 노출이 줄고 예산이 남을 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Microsoft Clarity sends store\ncatalogs to Copilot and Bing",
-          "body": "Accepting Brand Agents terms sends a Shopify or WooCommerce catalog to Microsoft Merchant Center for Copilot and Bing.",
-          "mini_headline": "Clarity feeds stores to Copilot",
+          "headline": "ChatGPT Ads changes its\nbidding options on Nov. 9",
+          "body": "OpenAI told advertisers ChatGPT Ads bidding changes on November 9, affecting Max Bid and Max CPC campaigns.",
+          "mini_headline": "ChatGPT Ads bidding shifts",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/microsoft-clarity-brand-agents-copilot-bing-catalog-mail-slot-skyscraper-billboard.jpg"
+                "src": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg"
               },
               {
                 "t": "p",
-                "x": "Microsoft on November 4, 2026 extended Clarity, its free website analytics service, in three directions: a dashboard and simulation tool for AI agents that visit websites, an AI analyst called Ask Clarity that answers questions about site behaviour, and a change to Brand Agents under which products from eligible Shopify and WooCommerce merchants can appear in Microsoft Copilot, Bing and MSN when shoppers ask AI for recommendations."
+                "x": "OpenAI has just emailed advertisers within ChatGPT Ads about bidding options changes coming Monday, November 9. This impacts advertisers using Max Bid or Max CPC bidding options. \"Starting Monday, November 9, you can optionally choose a cost target in Ads Manager when you create a campaign or update an existing one,\" OpenAI wrote."
               },
               {
                 "t": "p",
-                "x": "According to Microsoft Learn, accepting the Brand Agents terms publishes a copy of the merchant’s catalog to Microsoft Merchant Center, which makes the products discoverable across Bing, Copilot and other AI assistants grounded in Bing. Shoppers complete the purchase on the merchant’s website. Brand Agents can also book local services through Square, Jobber, HubSpot, Calendly, Housecall Pro and Salesforce."
+                "x": "Target cost per action (Target CPA) is launching for conversion campaigns and will replace Max Bid for new conversion campaigns in Ads Manager. Target cost per click (Target CPC) is launching for click campaigns and will replace Max CPC for new click campaigns; while Max CPC caps individual bids, Target CPC lets the system bid above or below your target in each auction."
               },
               {
                 "t": "p",
-                "x": "“Supported agents at this time for Agentic Analytics include Google, OpenAI, and Anthropic agent operators.” Ask Clarity is in closed beta for retailers. Neither post defines “eligible” or gives a price, and a free analytics tag has become a distribution channel into Microsoft’s own surfaces."
+                "x": "Max Bid and Max CPC will retire on January 1, 2027. Maximize results (autobid), now called intelligent bidding, will continue to automatically adjust bids and delivery."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI recommends starting the transition now, confirming Pixel or Conversions API is sending the selected event, and using recent actual CPA or CPC to choose realistic targets. Restrictive targets or weak conversion signals can reduce ad delivery and leave budget unspent."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Clarity가 카탈로그를\nCopilot·Bing으로",
-          "body": "약관에 동의하면 Shopify·WooCommerce 상품이 Copilot에 실린다.",
-          "mini_headline": "Clarity, 매장 상품을 Copilot으로",
+          "headline": "ChatGPT Ads\n11월 9일 입찰 개편",
+          "body": "OpenAI가 11월 9일 ChatGPT Ads Max CPC 등 입찰을 손본다.",
+          "mini_headline": "ChatGPT Ads 입찰 개편",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/microsoft-clarity-brand-agents-copilot-bing-catalog-mail-slot-skyscraper-billboard.jpg"
+                "src": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg"
               },
               {
                 "t": "p",
-                "x": "Microsoft는 2026년 11월 4일 무료 웹사이트 분석 서비스 Clarity를 세 방향으로 넓혔다. 웹사이트를 찾는 AI 에이전트용 대시보드와 시뮬레이션 도구, 사이트 이용 행태를 물으면 답하는 AI 분석가 Ask Clarity, 마지막으로 Brand Agents 변경이다. 쇼핑객이 AI에 추천을 구하면 자격을 갖춘 Shopify·WooCommerce 판매자의 상품이 Microsoft Copilot, Bing, MSN에 뜰 수 있다."
+                "x": "OpenAI가 ChatGPT Ads 광고주들에게 11월 9일 월요일부터 입찰 옵션이 바뀐다고 이메일로 알렸다. Max Bid나 Max CPC 입찰 옵션을 쓰는 광고주가 대상이다. OpenAI는 \"11월 9일 월요일부터 Ads Manager에서 캠페인을 만들거나 기존 캠페인을 수정할 때 비용 목표를 선택적으로 지정할 수 있다\"고 썼다."
               },
               {
                 "t": "p",
-                "x": "Microsoft Learn에 따르면 Brand Agents 약관에 동의한 판매자는 카탈로그 사본이 Microsoft Merchant Center에 게시되고 상품은 Bing, Copilot 등 Bing 기반 AI 어시스턴트 전반에서 검색된다. 구매는 판매자 웹사이트에서 한다. Brand Agents로 Square, Jobber, HubSpot, Calendly, Housecall Pro, Salesforce를 거쳐 지역 서비스를 예약할 수도 있다."
+                "x": "전환 캠페인에는 목표 액션당 비용(Target CPA)이 도입돼 Ads Manager의 신규 전환 캠페인에서 Max Bid를 대체한다. 클릭 캠페인에는 목표 클릭당 비용(Target CPC)이 들어와 신규 클릭 캠페인의 Max CPC를 대신한다. Max CPC는 입찰마다 상한을 두지만 Target CPC는 경매마다 목표보다 높게도 낮게도 입찰하도록 시스템에 맡긴다."
               },
               {
                 "t": "p",
-                "x": "“현재 Agentic Analytics가 지원하는 에이전트에는 Google, OpenAI, Anthropic의 에이전트 운영사가 포함된다.” Ask Clarity는 리테일러 대상 비공개 베타 상태다. 두 게시물 모두 ‘자격’의 기준이나 가격은 밝히지 않았다. 무료 분석 태그는 Microsoft 자체 서비스로 들어가는 유통 채널이 됐다."
+                "x": "Max Bid와 Max CPC는 2027년 1월 1일 종료된다. 이제 지능형 입찰(intelligent bidding)이라 부르는 Maximize results(autobid)는 지금처럼 입찰과 노출을 알아서 조정한다."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI는 지금 바로 전환을 시작하라고 권한다. Pixel이나 Conversions API가 선택한 이벤트를 제대로 보내는지 확인하고 최근 실제 CPA나 CPC를 보고 현실적인 목표를 잡으라는 것이다. 목표를 너무 빡빡하게 잡거나 전환 신호가 약하면 광고 노출이 줄고 예산이 남을 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Clarity、店の商品を\nCopilotとBingへ",
-          "body": "規約同意でShopifyとWooCommerceの商品がCopilotとBingに載る。",
-          "mini_headline": "Clarity、店舗をCopilotへ",
+          "headline": "ChatGPT Ads、\n11月9日に入札変更",
+          "body": "OpenAIは11月9日、ChatGPT AdsのMax CPCなど入札を変更する。",
+          "mini_headline": "ChatGPT Ads入札が変更",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/microsoft-clarity-brand-agents-copilot-bing-catalog-mail-slot-skyscraper-billboard.jpg"
+                "src": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg"
               },
               {
                 "t": "p",
-                "x": "Microsoftは2026年11月4日、無料のウェブサイト分析サービスClarityを三つの方向に拡張した。ウェブサイトを訪れるAIエージェント向けのダッシュボードとシミュレーションツール、サイト上の行動に関する質問に答えるAIアナリスト「Ask Clarity」、そして買い物客がAIにおすすめを尋ねた際、対象となるShopifyとWooCommerceの事業者の商品がMicrosoft Copilot、Bing、MSNに表示されうるようにするBrand Agentsの変更である。"
+                "x": "OpenAIはChatGPT Adsの広告主に対し、11月9日(月)から始まる入札オプションの変更をメールで通知した。対象はMax BidまたはMax CPCの入札オプションを使う広告主だ。OpenAIは「11月9日(月)から、Ads Managerでキャンペーンを作成するとき、または既存のキャンペーンを更新するときに、任意でコスト目標を選べる」と記した。"
               },
               {
                 "t": "p",
-                "x": "Microsoft Learnによると、Brand Agentsの規約に同意すると事業者のカタログのコピーがMicrosoft Merchant Centerに公開され、商品はBing、CopilotなどBingを基盤とするAIアシスタント全体で見つけられるようになる。購入は事業者のウェブサイトで完了する。Brand AgentsはSquare、Jobber、HubSpot、Calendly、Housecall Pro、Salesforceを通じて地域サービスの予約もできる。"
+                "x": "コンバージョンキャンペーン向けには目標アクション単価(Target CPA)が導入され、Ads Managerの新規コンバージョンキャンペーンでMax Bidに代わる。クリックキャンペーン向けには目標クリック単価(Target CPC)が導入され、新規クリックキャンペーンでMax CPCに代わる。Max CPCが個々の入札に上限を設けるのに対し、Target CPCでは各オークションでシステムが目標より高くも低くも入札できる。"
               },
               {
                 "t": "p",
-                "x": "「現時点でAgentic Analyticsが対応するエージェントには、Google、OpenAI、Anthropicのエージェント運営者が含まれる」。Ask Clarityは小売事業者向けのクローズドベータだ。どちらの投稿も「対象」の定義や価格を示しておらず、無料の分析タグがMicrosoft自身のサービスへの流通チャネルになった形だ。"
+                "x": "Max BidとMax CPCは2027年1月1日に廃止される。現在インテリジェント入札(intelligent bidding)と呼ばれるMaximize results(autobid)は、引き続き入札と配信を自動調整する。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAIは、今すぐ移行を始めること、PixelまたはConversions APIが選択したイベントを送信しているか確認すること、直近の実際のCPAやCPCをもとに現実的な目標を設定することを勧めている。厳しすぎる目標や弱いコンバージョンシグナルは広告配信を減らし、予算の消化不足を招くおそれがある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Clarity把店铺商品目录\n送进Copilot和Bing",
-          "body": "同意条款后，Shopify与WooCommerce商品可出现在Copilot和Bing。",
-          "mini_headline": "Clarity把商店接入Copilot",
+          "headline": "ChatGPT Ads\n11月9日调整出价",
+          "body": "OpenAI称ChatGPT Ads将于11月9日调整Max Bid与Max CPC出价。",
+          "mini_headline": "ChatGPT Ads出价调整",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/microsoft-clarity-brand-agents-copilot-bing-catalog-mail-slot-skyscraper-billboard.jpg"
+                "src": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg"
               },
               {
                 "t": "p",
-                "x": "Microsoft于2026年11月4日从三个方向扩展了其免费网站分析服务Clarity：一是面向访问网站的AI代理的仪表盘和模拟工具；二是可回答网站用户行为相关问题的AI分析师Ask Clarity；三是调整Brand Agents，使购物者向AI寻求推荐时，符合条件的Shopify和WooCommerce商家的商品可出现在Microsoft Copilot、Bing和MSN中。"
+                "x": "OpenAI刚刚向ChatGPT Ads的广告主发送邮件，告知将于11月9日（周一）生效的出价选项变更。此次变更影响使用Max Bid或Max CPC出价选项的广告主。OpenAI写道：“从11月9日（周一）起，你在Ads Manager中创建广告系列或更新现有广告系列时，可以选择设定成本目标。”"
               },
               {
                 "t": "p",
-                "x": "据Microsoft Learn介绍，接受Brand Agents条款后，商家商品目录的副本会发布到Microsoft Merchant Center，使商品可在Bing、Copilot及其他基于Bing的AI助手中被发现。购物者在商家网站上完成购买。Brand Agents还可通过Square、Jobber、HubSpot、Calendly、Housecall Pro和Salesforce预约本地服务。"
+                "x": "目标单次行动成本（Target CPA）将面向转化广告系列推出，并在Ads Manager的新转化广告系列中取代Max Bid。目标单次点击成本（Target CPC）将面向点击广告系列推出，并在新点击广告系列中取代Max CPC；Max CPC为单次出价设定上限，而Target CPC允许系统在每次竞价中高于或低于你的目标出价。"
               },
               {
                 "t": "p",
-                "x": "“目前Agentic Analytics支持的代理包括Google、OpenAI和Anthropic的代理运营方。”Ask Clarity目前面向零售商进行封闭测试。两篇文章都没有界定何为“符合条件”，也未公布价格；一个免费的分析标签由此成了通往Microsoft自有平台的分发渠道。"
+                "x": "Max Bid和Max CPC将于2027年1月1日停用。Maximize results（autobid）现称智能出价（intelligent bidding），将继续自动调整出价和投放。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI建议现在就开始过渡，确认Pixel或Conversions API正在发送所选事件，并参考近期实际的CPA或CPC来设定切实可行的目标。目标过严或转化信号偏弱，可能导致广告投放减少、预算花不出去。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Microsoft Clarity envía\ncatálogos a Copilot y Bing",
-          "body": "Aceptar los términos de Brand Agents envía el catálogo de Shopify o WooCommerce a Merchant Center para Copilot y Bing.",
-          "mini_headline": "Clarity lleva tiendas a Copilot",
+          "headline": "ChatGPT Ads cambia sus opciones\nde puja el 9 de noviembre",
+          "body": "OpenAI informó a los anunciantes de que la puja de ChatGPT Ads cambia el 9 de noviembre y afecta a Max Bid y Max CPC.",
+          "mini_headline": "Cambia la puja en ChatGPT Ads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/microsoft-clarity-brand-agents-copilot-bing-catalog-mail-slot-skyscraper-billboard.jpg"
+                "src": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg"
               },
               {
                 "t": "p",
-                "x": "Microsoft amplió el 4 de noviembre de 2026 Clarity, su servicio gratuito de analítica web, en tres direcciones: un panel y una herramienta de simulación para los agentes de IA que visitan sitios web, un analista de IA llamado Ask Clarity que responde preguntas sobre el comportamiento en el sitio, y un cambio en Brand Agents por el que los productos de comercios elegibles de Shopify y WooCommerce pueden aparecer en Microsoft Copilot, Bing y MSN cuando los compradores piden recomendaciones a la IA."
+                "x": "OpenAI acaba de enviar un correo a los anunciantes de ChatGPT Ads sobre los cambios en las opciones de puja que llegan el lunes 9 de noviembre. Esto afecta a los anunciantes que usan las opciones de puja Max Bid o Max CPC. \"A partir del lunes 9 de noviembre, podrá elegir de forma opcional un objetivo de costo en Ads Manager al crear una campaña o actualizar una existente\", escribió OpenAI."
               },
               {
                 "t": "p",
-                "x": "Según Microsoft Learn, aceptar los términos de Brand Agents publica una copia del catálogo del comercio en Microsoft Merchant Center, lo que permite descubrir los productos en Bing, Copilot y otros asistentes de IA basados en Bing. Los compradores completan la compra en el sitio web del comercio. Brand Agents también puede reservar servicios locales a través de Square, Jobber, HubSpot, Calendly, Housecall Pro y Salesforce."
+                "x": "El costo por acción objetivo (Target CPA) llega a las campañas de conversión y sustituirá a Max Bid en las nuevas campañas de conversión de Ads Manager. El costo por clic objetivo (Target CPC) llega a las campañas de clics y sustituirá a Max CPC en las nuevas campañas de clics; mientras que Max CPC limita cada puja individual, Target CPC permite al sistema pujar por encima o por debajo de su objetivo en cada subasta."
               },
               {
                 "t": "p",
-                "x": "«Por ahora, los agentes compatibles con Agentic Analytics incluyen a los operadores de agentes de Google, OpenAI y Anthropic». Ask Clarity está en beta cerrada para minoristas. Ninguna de las dos publicaciones define qué significa «elegible» ni indica un precio, y una etiqueta de analítica gratuita se ha convertido en un canal de distribución hacia las propias plataformas de Microsoft."
+                "x": "Max Bid y Max CPC se retirarán el 1 de enero de 2027. Maximize results (autobid), ahora llamada puja inteligente (intelligent bidding), seguirá ajustando automáticamente las pujas y la entrega."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI recomienda empezar la transición ahora, confirmar que Pixel o Conversions API envía el evento seleccionado y usar el CPA o CPC real reciente para fijar objetivos realistas. Los objetivos restrictivos o las señales de conversión débiles pueden reducir la entrega de anuncios y dejar presupuesto sin gastar."
               }
             ]
           }
@@ -441,105 +505,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Clarity가 카탈로그를\nCopilot·Bing으로",
-          "body": "약관 동의로 Shopify·WooCommerce 상품이 Copilot에 실린다.",
-          "mini_headline": "Clarity, 매장 상품을 Copilot으로",
+          "headline": "ChatGPT Ads,\n11월 9일 입찰 개편",
+          "body": "OpenAI가 11월 9일 ChatGPT Ads Max CPC 등 입찰을 바꾼다.",
+          "mini_headline": "ChatGPT Ads 입찰 개편",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/microsoft-clarity-brand-agents-copilot-bing-catalog-mail-slot-skyscraper-billboard.jpg"
+                "src": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg"
               },
               {
                 "t": "p",
-                "x": "Microsoft는 2026년 11월 4일 무료 웹사이트 분석 서비스 Clarity를 세 방향으로 확장했다. 웹사이트를 방문하는 AI 에이전트를 위한 대시보드와 시뮬레이션 도구, 사이트 이용 행태에 관한 질문에 답하는 AI 분석가 Ask Clarity, 그리고 쇼핑객이 AI에 추천을 요청할 때 자격을 갖춘 Shopify·WooCommerce 판매자의 상품이 Microsoft Copilot, Bing, MSN에 노출될 수 있게 한 Brand Agents 변경이다."
+                "x": "OpenAI가 ChatGPT Ads 광고주들에게 11월 9일 월요일부터 적용되는 입찰 옵션 변경을 이메일로 알렸다. 이번 변경은 Max Bid나 Max CPC 입찰 옵션을 쓰는 광고주에게 영향을 준다. OpenAI는 \"11월 9일 월요일부터 Ads Manager에서 캠페인을 만들거나 기존 캠페인을 수정할 때 비용 목표를 선택적으로 지정할 수 있다\"고 썼다."
               },
               {
                 "t": "p",
-                "x": "Microsoft Learn에 따르면 Brand Agents 약관에 동의하면 판매자 카탈로그 사본이 Microsoft Merchant Center에 게시되고, 상품은 Bing, Copilot 등 Bing 기반 AI 어시스턴트 전반에서 검색된다. 구매는 판매자 웹사이트에서 이뤄진다. Brand Agents는 Square, Jobber, HubSpot, Calendly, Housecall Pro, Salesforce를 통해 지역 서비스 예약도 할 수 있다."
+                "x": "전환 캠페인에는 목표 액션당 비용(Target CPA)이 도입되며, Ads Manager의 신규 전환 캠페인에서 Max Bid를 대체한다. 클릭 캠페인에는 목표 클릭당 비용(Target CPC)이 도입되어 신규 클릭 캠페인에서 Max CPC를 대체한다. Max CPC가 개별 입찰에 상한을 두는 반면, Target CPC는 경매마다 목표보다 높거나 낮게 입찰하도록 시스템에 맡긴다."
               },
               {
                 "t": "p",
-                "x": "“현재 Agentic Analytics가 지원하는 에이전트에는 Google, OpenAI, Anthropic의 에이전트 운영사가 포함된다.” Ask Clarity는 리테일러 대상 비공개 베타 상태다. 두 게시물 모두 ‘자격’의 기준이나 가격을 밝히지 않았고, 무료 분석 태그가 Microsoft 자체 서비스로 들어가는 유통 채널이 됐다."
+                "x": "Max Bid와 Max CPC는 2027년 1월 1일 종료된다. 이제 지능형 입찰(intelligent bidding)로 불리는 Maximize results(autobid)는 계속해서 입찰과 노출을 자동으로 조정한다."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI는 지금 바로 전환을 시작하고, Pixel이나 Conversions API가 선택한 이벤트를 보내고 있는지 확인하며, 최근 실제 CPA나 CPC를 근거로 현실적인 목표를 정하라고 권한다. 목표가 지나치게 빡빡하거나 전환 신호가 약하면 광고 노출이 줄고 예산이 남을 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Clarity、店の商品を\nCopilotとBingへ",
-          "body": "規約同意でShopifyとWooCommerceの商品がCopilotとBingに載る。",
-          "mini_headline": "Clarity、店舗をCopilotへ",
+          "headline": "ChatGPT Ads、\n11月9日に入札変更",
+          "body": "OpenAIは11月9日、ChatGPT AdsのMax CPCなど入札を変更する。",
+          "mini_headline": "ChatGPT Ads入札が変更",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/microsoft-clarity-brand-agents-copilot-bing-catalog-mail-slot-skyscraper-billboard.jpg"
+                "src": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg"
               },
               {
                 "t": "p",
-                "x": "Microsoftは2026年11月4日、無料のウェブサイト分析サービスClarityを三つの方向に拡張した。ウェブサイトを訪れるAIエージェント向けのダッシュボードとシミュレーションツール、サイト上の行動に関する質問に答えるAIアナリスト「Ask Clarity」、そして買い物客がAIにおすすめを尋ねた際、対象となるShopifyとWooCommerceの事業者の商品がMicrosoft Copilot、Bing、MSNに表示されうるようにするBrand Agentsの変更である。"
+                "x": "OpenAIはChatGPT Adsの広告主に対し、11月9日(月)から始まる入札オプションの変更をメールで通知した。対象はMax BidまたはMax CPCの入札オプションを使う広告主だ。OpenAIは「11月9日(月)から、Ads Managerでキャンペーンを作成するとき、または既存のキャンペーンを更新するときに、任意でコスト目標を選べる」と記した。"
               },
               {
                 "t": "p",
-                "x": "Microsoft Learnによると、Brand Agentsの規約に同意すると事業者のカタログのコピーがMicrosoft Merchant Centerに公開され、商品はBing、CopilotなどBingを基盤とするAIアシスタント全体で見つけられるようになる。購入は事業者のウェブサイトで完了する。Brand AgentsはSquare、Jobber、HubSpot、Calendly、Housecall Pro、Salesforceを通じて地域サービスの予約もできる。"
+                "x": "コンバージョンキャンペーン向けには目標アクション単価(Target CPA)が導入され、Ads Managerの新規コンバージョンキャンペーンでMax Bidに代わる。クリックキャンペーン向けには目標クリック単価(Target CPC)が導入され、新規クリックキャンペーンでMax CPCに代わる。Max CPCが個々の入札に上限を設けるのに対し、Target CPCでは各オークションでシステムが目標より高くも低くも入札できる。"
               },
               {
                 "t": "p",
-                "x": "「現時点でAgentic Analyticsが対応するエージェントには、Google、OpenAI、Anthropicのエージェント運営者が含まれる」。Ask Clarityは小売事業者向けのクローズドベータだ。どちらの投稿も「対象」の定義や価格を示しておらず、無料の分析タグがMicrosoft自身のサービスへの流通チャネルになった形だ。"
+                "x": "Max BidとMax CPCは2027年1月1日に廃止される。現在インテリジェント入札(intelligent bidding)と呼ばれるMaximize results(autobid)は、引き続き入札と配信を自動調整する。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAIは、今すぐ移行を始めること、PixelまたはConversions APIが選択したイベントを送信しているか確認すること、直近の実際のCPAやCPCをもとに現実的な目標を設定することを勧めている。厳しすぎる目標や弱いコンバージョンシグナルは広告配信を減らし、予算の消化不足を招くおそれがある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Clarity把店铺商品目录\n送进Copilot和Bing",
-          "body": "同意条款后，Shopify与WooCommerce商品可出现在Copilot和Bing。",
-          "mini_headline": "Clarity把商店接入Copilot",
+          "headline": "ChatGPT Ads\n11月9日调整出价",
+          "body": "OpenAI称ChatGPT Ads将于11月9日调整Max Bid与Max CPC出价。",
+          "mini_headline": "ChatGPT Ads出价调整",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/microsoft-clarity-brand-agents-copilot-bing-catalog-mail-slot-skyscraper-billboard.jpg"
+                "src": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg"
               },
               {
                 "t": "p",
-                "x": "Microsoft于2026年11月4日从三个方向扩展了其免费网站分析服务Clarity：一是面向访问网站的AI代理的仪表盘和模拟工具；二是可回答网站用户行为相关问题的AI分析师Ask Clarity；三是调整Brand Agents，使购物者向AI寻求推荐时，符合条件的Shopify和WooCommerce商家的商品可出现在Microsoft Copilot、Bing和MSN中。"
+                "x": "OpenAI刚刚向ChatGPT Ads的广告主发送邮件，告知将于11月9日（周一）生效的出价选项变更。此次变更影响使用Max Bid或Max CPC出价选项的广告主。OpenAI写道：“从11月9日（周一）起，你在Ads Manager中创建广告系列或更新现有广告系列时，可以选择设定成本目标。”"
               },
               {
                 "t": "p",
-                "x": "据Microsoft Learn介绍，接受Brand Agents条款后，商家商品目录的副本会发布到Microsoft Merchant Center，使商品可在Bing、Copilot及其他基于Bing的AI助手中被发现。购物者在商家网站上完成购买。Brand Agents还可通过Square、Jobber、HubSpot、Calendly、Housecall Pro和Salesforce预约本地服务。"
+                "x": "目标单次行动成本（Target CPA）将面向转化广告系列推出，并在Ads Manager的新转化广告系列中取代Max Bid。目标单次点击成本（Target CPC）将面向点击广告系列推出，并在新点击广告系列中取代Max CPC；Max CPC为单次出价设定上限，而Target CPC允许系统在每次竞价中高于或低于你的目标出价。"
               },
               {
                 "t": "p",
-                "x": "“目前Agentic Analytics支持的代理包括Google、OpenAI和Anthropic的代理运营方。”Ask Clarity目前面向零售商进行封闭测试。两篇文章都没有界定何为“符合条件”，也未公布价格；一个免费的分析标签由此成了通往Microsoft自有平台的分发渠道。"
+                "x": "Max Bid和Max CPC将于2027年1月1日停用。Maximize results（autobid）现称智能出价（intelligent bidding），将继续自动调整出价和投放。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI建议现在就开始过渡，确认Pixel或Conversions API正在发送所选事件，并参考近期实际的CPA或CPC来设定切实可行的目标。目标过严或转化信号偏弱，可能导致广告投放减少、预算花不出去。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Microsoft Clarity envía\ncatálogos a Copilot y Bing",
-          "body": "Aceptar los términos de Brand Agents envía el catálogo de Shopify o WooCommerce a Merchant Center para Copilot y Bing.",
-          "mini_headline": "Clarity lleva tiendas a Copilot",
+          "headline": "ChatGPT Ads cambia sus opciones\nde puja el 9 de noviembre",
+          "body": "OpenAI informó a los anunciantes de que la puja de ChatGPT Ads cambia el 9 de noviembre y afecta a Max Bid y Max CPC.",
+          "mini_headline": "Cambia la puja en ChatGPT Ads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/microsoft-clarity-brand-agents-copilot-bing-catalog-mail-slot-skyscraper-billboard.jpg"
+                "src": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg"
               },
               {
                 "t": "p",
-                "x": "Microsoft amplió el 4 de noviembre de 2026 Clarity, su servicio gratuito de analítica web, en tres direcciones: un panel y una herramienta de simulación para los agentes de IA que visitan sitios web, un analista de IA llamado Ask Clarity que responde preguntas sobre el comportamiento en el sitio, y un cambio en Brand Agents por el que los productos de comercios elegibles de Shopify y WooCommerce pueden aparecer en Microsoft Copilot, Bing y MSN cuando los compradores piden recomendaciones a la IA."
+                "x": "OpenAI acaba de enviar un correo a los anunciantes de ChatGPT Ads sobre los cambios en las opciones de puja que llegan el lunes 9 de noviembre. Esto afecta a los anunciantes que usan las opciones de puja Max Bid o Max CPC. \"A partir del lunes 9 de noviembre, podrá elegir de forma opcional un objetivo de costo en Ads Manager al crear una campaña o actualizar una existente\", escribió OpenAI."
               },
               {
                 "t": "p",
-                "x": "Según Microsoft Learn, aceptar los términos de Brand Agents publica una copia del catálogo del comercio en Microsoft Merchant Center, lo que permite descubrir los productos en Bing, Copilot y otros asistentes de IA basados en Bing. Los compradores completan la compra en el sitio web del comercio. Brand Agents también puede reservar servicios locales a través de Square, Jobber, HubSpot, Calendly, Housecall Pro y Salesforce."
+                "x": "El costo por acción objetivo (Target CPA) llega a las campañas de conversión y sustituirá a Max Bid en las nuevas campañas de conversión de Ads Manager. El costo por clic objetivo (Target CPC) llega a las campañas de clics y sustituirá a Max CPC en las nuevas campañas de clics; mientras que Max CPC limita cada puja individual, Target CPC permite al sistema pujar por encima o por debajo de su objetivo en cada subasta."
               },
               {
                 "t": "p",
-                "x": "«Por ahora, los agentes compatibles con Agentic Analytics incluyen a los operadores de agentes de Google, OpenAI y Anthropic». Ask Clarity está en beta cerrada para minoristas. Ninguna de las dos publicaciones define qué significa «elegible» ni indica un precio, y una etiqueta de analítica gratuita se ha convertido en un canal de distribución hacia las propias plataformas de Microsoft."
+                "x": "Max Bid y Max CPC se retirarán el 1 de enero de 2027. Maximize results (autobid), ahora llamada puja inteligente (intelligent bidding), seguirá ajustando automáticamente las pujas y la entrega."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI recomienda empezar la transición ahora, confirmar que Pixel o Conversions API envía el evento seleccionado y usar el CPA o CPC real reciente para fijar objetivos realistas. Los objetivos restrictivos o las señales de conversión débiles pueden reducir la entrega de anuncios y dejar presupuesto sin gastar."
               }
             ]
           }
@@ -547,195 +627,261 @@
       }
     },
     {
-      "id": "fresh-step-rece-ai-ads",
+      "id": "google-ads-ai-disclosure-regions",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Fresh Step 광고\nAI로 비용 10분의 1",
-      "body": "Clorox가 RECE와 AI로 한 달여 만에 1/10 비용의 캠페인을 냈다.",
-      "mini_headline": "Fresh Step, AI 광고 비용 10분의 1",
+      "headline": "Google Ads\nAI 표시 세 지역 추가",
+      "body": "Google Ads가 EU에 이어 캘리포니아·한국·베트남에도 AI 표시를 요구한다.",
+      "mini_headline": "Google AI 광고 표시 확대",
       "tool": "Marketing",
-      "source": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/how-fresh-step-used-ai-to-go-from-brief-to-ads-at-one-tenth-the-cost/",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-ads-expands-ai-content-label-disclosure-42461.html",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://imgproxy.divecdn.com/Ur5qvQtXNEKwNqJ8YxJ6WKhh_3fmTPoemZZdCJCA1DA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mcmVzaC1zdGVwLmpwZw==.webp",
-            "cap": "Fresh Step 새 광고에서는 AI로 생성한(AI-generated) 고양이들이 말을 하며 Clorox 브랜드의 가치 제안을 전한다."
+            "src": "https://images.seroundtable.com/google-label-glow-55CezYGY.jpg"
           },
           {
             "t": "p",
-            "x": "Clorox 고양이 모래 포트폴리오의 핵심 브랜드 Fresh Step은 대표 약속인 냄새 제거를 두고 카테고리 압박이 커지는 상황을 맞았다. The Clorox Company 고양이 모래 담당 시니어 마케팅 디렉터 Deb Crandall은 “실제 사업상 압박이 있었고, ‘여섯 달 뒤에 아이디어를 갖고 오겠다’고 [말하는 것은] 받아들여질 수 없었다”고 말했다."
-          },
-          {
-            "t": "video",
-            "yt": "4SsEMNM9oz0"
+            "x": "Google Ads가 광고의 AI 사용 여부를 밝혀야 하는 지역을 늘렸다. 유럽연합, 인도, 뉴욕이 있던 목록에 캘리포니아, 한국, 베트남이 더해졌다."
           },
           {
             "t": "p",
-            "x": "Fresh Step은 인공지능 기반 에이전시 RECE와 함께 15초 광고 세 편을 브리프부터 완성 크리에이티브까지 30일 만에 만들었다. 비용은 기존 제작 방식의 10분의 1이었다. 광고는 리니어 TV에서 방영을 시작했고 소셜용 축약본도 함께 나간다. 11월 9일까지 전편이 공개된다."
+            "x": "Google은 이 내용을 반영해 이미 문서 몇 개를 고쳤다. Google Ads 도움말 'Use AI content label settings and disclosures'와 Google Merchant Center 도움말 'Product data specification'이 대표적이다."
           },
           {
             "t": "p",
-            "x": "AI는 크리에이티브 콘셉트를 빠르게 시제품으로 만들어 어떤 안이 반응을 얻는지 확인하는 데 쓰였다. Crandall은 “내가 보기에 이건 누가 봐도 AI였다. 여기서 누구를 속이려는 게 아니다”라고 말했다. 비용이 10분의 1이면 캠페인을 10개 더 만들 수 있다는 말과 거의 같다."
+            "x": "지역 항목 아래에는 이제 이렇게 적혀 있다. \"일부 지역에서는 광고 자체에도 AI 라벨이 표시된다. 다음 지역을 타기팅하는 캠페인의 경우, AI로 생성 또는 편집되었다고 지정한 애셋이 포함된 광고에는 눈에 보이는 오버레이도 함께 표시된다:\" 유럽연합, 인도, 뉴욕, 캘리포니아, 한국, 베트남."
+          },
+          {
+            "t": "p",
+            "x": "아래는 해당 페이지의 스크린샷이다. 새로 추가된 부분은 빨간색으로 표시했다:"
+          },
+          {
+            "t": "img",
+            "src": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png"
+          },
+          {
+            "t": "p",
+            "x": "Merchant Center 문서에서 Google은 이렇게 설명한다. 유럽연합, 인도, 뉴욕, 캘리포니아, 한국, 베트남의 AI 규정에 따라 AI-generated 또는 편집된 특정 애셋이 들어간 광고에는 AI로 만든 광고임을 소비자에게 알리는 고지 및/또는 라벨을 넣어야 한다."
+          },
+          {
+            "t": "p",
+            "x": "목록은 앞으로도 더 늘어날 듯하다..."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Fresh Step used AI to make\nads at one-tenth the cost",
-          "body": "Clorox's litter brand and agency RECE used AI to get a campaign in market in about a month at a tenth of the cost.",
-          "mini_headline": "Fresh Step's AI ads at a tenth",
+          "headline": "Google Ads widens AI label\nrule to three new regions",
+          "body": "Google Ads now requires AI disclosure in California, South Korea and Vietnam, on top of the EU, India and New York.",
+          "mini_headline": "Google AI ad labels expand",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/Ur5qvQtXNEKwNqJ8YxJ6WKhh_3fmTPoemZZdCJCA1DA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mcmVzaC1zdGVwLmpwZw==.webp",
-                "cap": "Fresh Step’s new ads feature a cast of AI-generated talking cats that speak to the Clorox brand's value proposition."
+                "src": "https://images.seroundtable.com/google-label-glow-55CezYGY.jpg"
               },
               {
                 "t": "p",
-                "x": "Fresh Step, the crown jewel of Clorox’s cat litter portfolio, faced heightened category pressure on its core promise around odor control. “There's a real business pressure, and it was not going to be acceptable [to say] I'll come in six months with my idea,” said Deb Crandall, senior marketing director on litter at The Clorox Company."
-              },
-              {
-                "t": "video",
-                "yt": "4SsEMNM9oz0"
+                "x": "Google Ads has expanded the regions where you must disclose whether AI was used in your ads. Google added California, South Korea, and Vietnam to the list, which already included the European Union, India, and New York."
               },
               {
                 "t": "p",
-                "x": "Fresh Step teamed with artificial intelligence-powered agency RECE to go from brief to finished ad creative on three 15-second spots in 30 days and at one-tenth the cost of a traditional production. The ads are rolling out now across linear TV with cutdowns on social and will be live by Nov. 9."
+                "x": "Google updated a few documents already with this information including Use AI content label settings and disclosures Google Ads help document and Product data specification Google Merchant Center help document."
               },
               {
                 "t": "p",
-                "x": "AI helped to rapidly prototype creative concepts to show what was resonating. “This, to me, was very clearly AI. We're not trying to fool anybody here,” Crandall said. Getting it done at one-tenth the cost roughly equates to being able to create 10 more campaigns."
+                "x": "Under the regions, it now says, \"In some geographies, AI labels will also show on the ad itself. For campaigns that target the following locations, ads with assets that you designate as AI created or edited will also include visible overlays on the ads:\" European Union, India, New York, California, South Korea, Vietnam."
+              },
+              {
+                "t": "p",
+                "x": "Here is a screenshot of this page and I highlighted in red what was added:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png"
+              },
+              {
+                "t": "p",
+                "x": "In the Merchant Center document, Google wrote: AI regulations in the European Union, India, New York, California, South Korea, and Vietnam require that ads with certain AI-generated or edited assets include disclosures and/or labels that inform consumers that the ads were made with AI."
+              },
+              {
+                "t": "p",
+                "x": "I suspect this list will continue to expand over time..."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Fresh Step 광고\nAI로 비용 10분의 1",
-          "body": "Clorox가 RECE와 AI로 한 달여 만에 1/10 비용의 캠페인을 냈다.",
-          "mini_headline": "Fresh Step, AI 광고 비용 10분의 1",
+          "headline": "Google Ads\nAI 표시 세 지역 추가",
+          "body": "Google Ads가 EU에 이어 캘리포니아·한국·베트남에도 AI 표시를 요구한다.",
+          "mini_headline": "Google AI 광고 표시 확대",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/Ur5qvQtXNEKwNqJ8YxJ6WKhh_3fmTPoemZZdCJCA1DA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mcmVzaC1zdGVwLmpwZw==.webp",
-                "cap": "Fresh Step 새 광고에서는 AI로 생성한(AI-generated) 고양이들이 말을 하며 Clorox 브랜드의 가치 제안을 전한다."
+                "src": "https://images.seroundtable.com/google-label-glow-55CezYGY.jpg"
               },
               {
                 "t": "p",
-                "x": "Clorox 고양이 모래 포트폴리오의 핵심 브랜드 Fresh Step은 대표 약속인 냄새 제거를 두고 카테고리 압박이 커지는 상황을 맞았다. The Clorox Company 고양이 모래 담당 시니어 마케팅 디렉터 Deb Crandall은 “실제 사업상 압박이 있었고, ‘여섯 달 뒤에 아이디어를 갖고 오겠다’고 [말하는 것은] 받아들여질 수 없었다”고 말했다."
-              },
-              {
-                "t": "video",
-                "yt": "4SsEMNM9oz0"
+                "x": "Google Ads가 광고의 AI 사용 여부를 밝혀야 하는 지역을 늘렸다. 유럽연합, 인도, 뉴욕이 있던 목록에 캘리포니아, 한국, 베트남이 더해졌다."
               },
               {
                 "t": "p",
-                "x": "Fresh Step은 인공지능 기반 에이전시 RECE와 함께 15초 광고 세 편을 브리프부터 완성 크리에이티브까지 30일 만에 만들었다. 비용은 기존 제작 방식의 10분의 1이었다. 광고는 리니어 TV에서 방영을 시작했고 소셜용 축약본도 함께 나간다. 11월 9일까지 전편이 공개된다."
+                "x": "Google은 이 내용을 반영해 이미 문서 몇 개를 고쳤다. Google Ads 도움말 'Use AI content label settings and disclosures'와 Google Merchant Center 도움말 'Product data specification'이 대표적이다."
               },
               {
                 "t": "p",
-                "x": "AI는 크리에이티브 콘셉트를 빠르게 시제품으로 만들어 어떤 안이 반응을 얻는지 확인하는 데 쓰였다. Crandall은 “내가 보기에 이건 누가 봐도 AI였다. 여기서 누구를 속이려는 게 아니다”라고 말했다. 비용이 10분의 1이면 캠페인을 10개 더 만들 수 있다는 말과 거의 같다."
+                "x": "지역 항목 아래에는 이제 이렇게 적혀 있다. \"일부 지역에서는 광고 자체에도 AI 라벨이 표시된다. 다음 지역을 타기팅하는 캠페인의 경우, AI로 생성 또는 편집되었다고 지정한 애셋이 포함된 광고에는 눈에 보이는 오버레이도 함께 표시된다:\" 유럽연합, 인도, 뉴욕, 캘리포니아, 한국, 베트남."
+              },
+              {
+                "t": "p",
+                "x": "아래는 해당 페이지의 스크린샷이다. 새로 추가된 부분은 빨간색으로 표시했다:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png"
+              },
+              {
+                "t": "p",
+                "x": "Merchant Center 문서에서 Google은 이렇게 설명한다. 유럽연합, 인도, 뉴욕, 캘리포니아, 한국, 베트남의 AI 규정에 따라 AI-generated 또는 편집된 특정 애셋이 들어간 광고에는 AI로 만든 광고임을 소비자에게 알리는 고지 및/또는 라벨을 넣어야 한다."
+              },
+              {
+                "t": "p",
+                "x": "목록은 앞으로도 더 늘어날 듯하다..."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Fresh Step、AIで\n制作費10分の1の広告",
-          "body": "Cloroxの猫砂ブランドとRECEはAIで、約1カ月・10分の1の費用で広告を出した。",
-          "mini_headline": "Fresh StepのAI広告、費用10分の1",
+          "headline": "Google Adsが\nAI表示義務を三地域に拡大",
+          "body": "Google AdsはEUなどに加え、カリフォルニア、韓国、ベトナムでもAI開示を求める。",
+          "mini_headline": "GoogleのAI広告表示が拡大",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/Ur5qvQtXNEKwNqJ8YxJ6WKhh_3fmTPoemZZdCJCA1DA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mcmVzaC1zdGVwLmpwZw==.webp",
-                "cap": "Fresh Stepの新広告には、Cloroxブランドの価値を語る、AIで生成された（AI-generated）しゃべる猫たちが登場する。"
+                "src": "https://images.seroundtable.com/google-label-glow-55CezYGY.jpg"
               },
               {
                 "t": "p",
-                "x": "Cloroxの猫砂ポートフォリオの看板ブランドであるFresh Stepは、中核となる消臭の約束をめぐり、カテゴリー内で高まる圧力に直面していた。The Clorox Companyで猫砂担当シニアマーケティングディレクターを務めるDeb Crandallは「現実のビジネス上の圧力があり、『6カ月後にアイデアを持ってきます』と［言うのは］許されなかった」と語った。"
-              },
-              {
-                "t": "video",
-                "yt": "4SsEMNM9oz0"
+                "x": "Google Adsは、広告にAIを使用したかどうかを開示しなければならない地域を拡大した。Googleは、すでに欧州連合、インド、ニューヨークを含んでいたリストに、カリフォルニア、韓国、ベトナムを追加した。"
               },
               {
                 "t": "p",
-                "x": "Fresh Stepは人工知能を活用するエージェンシーRECEと組み、15秒のスポット3本をブリーフから完成したクリエイティブまで30日で、従来の制作の10分の1のコストで仕上げた。広告はリニアTVで順次放映が始まっており、ソーシャル向けの短縮版も展開し、11月9日までに公開される。"
+                "x": "Googleはこの情報を反映して、すでにいくつかのドキュメントを更新している。Google Adsのヘルプドキュメント「Use AI content label settings and disclosures」や、Google Merchant Centerのヘルプドキュメント「Product data specification」などだ。"
               },
               {
                 "t": "p",
-                "x": "AIは、クリエイティブのコンセプトを素早く試作し、何が響いているかを示すのに役立った。「私にとって、これは明らかにAIだった。誰かをだますつもりはない」とCrandallは述べた。10分の1のコストで実現できたことは、キャンペーンをおよそ10本多く作れることに相当する。"
+                "x": "地域の項目の下には現在、次のように書かれている。「一部の地域では、AIラベルが広告自体にも表示される。以下の地域をターゲットとするキャンペーンでは、AIで作成または編集されたと指定したアセットを含む広告に、目に見えるオーバーレイも表示される:」欧州連合、インド、ニューヨーク、カリフォルニア、韓国、ベトナム。"
+              },
+              {
+                "t": "p",
+                "x": "以下はこのページのスクリーンショットで、追加された部分を赤で強調した:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png"
+              },
+              {
+                "t": "p",
+                "x": "Merchant Centerのドキュメントで、Googleは次のように記している。欧州連合、インド、ニューヨーク、カリフォルニア、韓国、ベトナムのAI規制では、特定のAI-generatedまたは編集済みのアセットを含む広告に対し、その広告がAIで作られたことを消費者に知らせる開示および/またはラベルを含めることが求められている。"
+              },
+              {
+                "t": "p",
+                "x": "このリストは今後も広がり続けるのではないかと思う..."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Fresh Step用AI\n以十分之一成本做广告",
-          "body": "Clorox旗下猫砂品牌与RECE借助AI，约一个月便以十分之一成本推出广告活动。",
-          "mini_headline": "Fresh Step AI广告成本仅十分之一",
+          "headline": "Google Ads\nAI标注要求再扩三地",
+          "body": "Google Ads继EU、印度和纽约之后，要求加州、韩国和越南的广告披露AI使用。",
+          "mini_headline": "Google AI广告标注扩围",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/Ur5qvQtXNEKwNqJ8YxJ6WKhh_3fmTPoemZZdCJCA1DA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mcmVzaC1zdGVwLmpwZw==.webp",
-                "cap": "Fresh Step的新广告中出现了一群AI-generated（由AI生成）、会说话的猫，讲述Clorox品牌的价值主张。"
+                "src": "https://images.seroundtable.com/google-label-glow-55CezYGY.jpg"
               },
               {
                 "t": "p",
-                "x": "Fresh Step是Clorox猫砂产品组合中的王牌品牌，其核心卖点除臭面临日益加剧的品类压力。The Clorox Company猫砂业务高级营销总监Deb Crandall表示：“确实存在业务压力，[说]‘我六个月后再带着想法来’是不可接受的。”"
-              },
-              {
-                "t": "video",
-                "yt": "4SsEMNM9oz0"
+                "x": "Google Ads扩大了必须披露广告中是否使用AI的地区范围。Google在原有的欧盟、印度和纽约之外，新增了加利福尼亚、韩国和越南。"
               },
               {
                 "t": "p",
-                "x": "Fresh Step与人工智能驱动的代理商RECE合作，在30天内以传统制作十分之一的成本，完成了三支15秒广告从简报到成片的全过程。广告目前正在线性TV上陆续投放，并在社交媒体上发布剪辑版，将于11月9日前全部上线。"
+                "x": "Google已据此更新了几份文档，包括Google Ads帮助文档“Use AI content label settings and disclosures”以及Google Merchant Center帮助文档“Product data specification”。"
               },
               {
                 "t": "p",
-                "x": "AI帮助快速制作创意概念原型，以展示哪些方向能引起共鸣。Crandall说：“在我看来，这显然就是AI。我们并不想骗任何人。”以十分之一的成本完成制作，大致相当于能多做10个广告活动。"
+                "x": "在地区部分下，现在写道：“在部分地区，AI标签也会显示在广告本身上。对于定位以下地区的广告系列，含有你标记为AI创建或编辑的素材的广告，还将在广告上显示可见的叠加标识：”欧盟、印度、纽约、加利福尼亚、韩国、越南。"
+              },
+              {
+                "t": "p",
+                "x": "以下是该页面的截图，我用红色标出了新增内容："
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png"
+              },
+              {
+                "t": "p",
+                "x": "Google在Merchant Center文档中写道：欧盟、印度、纽约、加利福尼亚、韩国和越南的AI法规要求，含有特定AI-generated或经编辑素材的广告必须加入披露和/或标签，告知消费者该广告是用AI制作的。"
+              },
+              {
+                "t": "p",
+                "x": "我猜这份名单还会随着时间继续扩大……"
               }
             ]
           }
         },
         "es": {
-          "headline": "Fresh Step usó IA para hacer\nanuncios a una décima del costo",
-          "body": "La marca de arena de Clorox y la agencia RECE lanzaron con IA una campaña en cerca de un mes a una décima del costo.",
-          "mini_headline": "Anuncios con IA de Fresh Step a una décima del costo",
+          "headline": "Google Ads amplía su norma de\netiquetado de AI a tres regiones",
+          "body": "Google Ads exige divulgar el uso de AI en California, Corea del Sur y Vietnam, además de la EU, India y Nueva York.",
+          "mini_headline": "Se amplían las etiquetas AI de Google",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/Ur5qvQtXNEKwNqJ8YxJ6WKhh_3fmTPoemZZdCJCA1DA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mcmVzaC1zdGVwLmpwZw==.webp",
-                "cap": "Los nuevos anuncios de Fresh Step muestran un elenco de gatos parlantes AI-generated (generados con IA) que transmiten la propuesta de valor de la marca Clorox."
+                "src": "https://images.seroundtable.com/google-label-glow-55CezYGY.jpg"
               },
               {
                 "t": "p",
-                "x": "Fresh Step, la joya de la corona del portafolio de arena para gatos de Clorox, enfrentaba una mayor presión en su categoría sobre su promesa central de control de olores. “Hay una presión de negocio real, y no iba a ser aceptable [decir] que vendría dentro de seis meses con mi idea”, dijo Deb Crandall, directora sénior de marketing de arena en The Clorox Company."
-              },
-              {
-                "t": "video",
-                "yt": "4SsEMNM9oz0"
+                "x": "Google Ads ha ampliado las regiones en las que se debe declarar si se usó AI en los anuncios. Google añadió California, Corea del Sur y Vietnam a la lista, que ya incluía la Unión Europea, India y Nueva York."
               },
               {
                 "t": "p",
-                "x": "Fresh Step se asoció con RECE, una agencia impulsada por inteligencia artificial, para pasar del brief a la creatividad terminada de tres spots de 15 segundos en 30 días y a una décima del costo de una producción tradicional. Los anuncios ya se están lanzando en TV lineal, con versiones recortadas en redes sociales, y estarán al aire a más tardar el 9 de noviembre."
+                "x": "Google ya actualizó algunos documentos con esta información, entre ellos el documento de ayuda de Google Ads Use AI content label settings and disclosures y el documento de ayuda de Google Merchant Center Product data specification."
               },
               {
                 "t": "p",
-                "x": "La IA ayudó a crear prototipos rápidos de conceptos creativos para mostrar qué estaba funcionando. “Para mí, esto era muy claramente IA. No intentamos engañar a nadie”, dijo Crandall. Hacerlo a una décima del costo equivale aproximadamente a poder crear 10 campañas más."
+                "x": "En el apartado de regiones ahora dice: \"En algunas zonas geográficas, las etiquetas de AI también se mostrarán en el propio anuncio. En las campañas dirigidas a las siguientes ubicaciones, los anuncios con recursos que usted designe como creados o editados con AI también incluirán superposiciones visibles:\" Unión Europea, India, Nueva York, California, Corea del Sur, Vietnam."
+              },
+              {
+                "t": "p",
+                "x": "Aquí hay una captura de pantalla de esta página, con lo añadido resaltado en rojo:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png"
+              },
+              {
+                "t": "p",
+                "x": "En el documento de Merchant Center, Google escribió: las regulaciones de AI en la Unión Europea, India, Nueva York, California, Corea del Sur y Vietnam exigen que los anuncios con ciertos recursos AI-generated o editados incluyan avisos y/o etiquetas que informen a los consumidores de que los anuncios se hicieron con AI."
+              },
+              {
+                "t": "p",
+                "x": "Sospecho que esta lista seguirá ampliándose con el tiempo..."
               }
             ]
           }
@@ -743,125 +889,169 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Fresh Step 광고\nAI로 비용 10분의 1",
-          "body": "Clorox는 RECE와 AI로 한 달여 만에 1/10 비용으로 캠페인을 냈다.",
-          "mini_headline": "Fresh Step, AI 광고 비용 10분의 1",
+          "headline": "Google Ads,\nAI 표시 세 지역 추가",
+          "body": "Google Ads가 EU에 이어 캘리포니아·한국·베트남에 AI 표시를 요구한다.",
+          "mini_headline": "Google AI 광고 표시 확대",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/Ur5qvQtXNEKwNqJ8YxJ6WKhh_3fmTPoemZZdCJCA1DA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mcmVzaC1zdGVwLmpwZw==.webp",
-                "cap": "Fresh Step의 새 광고에는 Clorox 브랜드의 가치 제안을 전하는, AI로 생성한(AI-generated) 말하는 고양이들이 등장한다."
+                "src": "https://images.seroundtable.com/google-label-glow-55CezYGY.jpg"
               },
               {
                 "t": "p",
-                "x": "Clorox 고양이 모래 포트폴리오의 핵심 브랜드 Fresh Step은 대표 약속인 냄새 제거를 두고 커지는 카테고리 압박에 직면했다. The Clorox Company에서 고양이 모래 담당 시니어 마케팅 디렉터를 맡은 Deb Crandall은 “실제 사업상 압박이 있었고, ‘여섯 달 뒤에 아이디어를 갖고 오겠다’고 [말하는 것은] 받아들여질 수 없었다”고 말했다."
-              },
-              {
-                "t": "video",
-                "yt": "4SsEMNM9oz0"
+                "x": "Google Ads가 광고에 AI를 사용했는지 공개해야 하는 지역을 확대했다. Google은 이미 유럽연합, 인도, 뉴욕이 포함된 목록에 캘리포니아, 한국, 베트남을 추가했다."
               },
               {
                 "t": "p",
-                "x": "Fresh Step은 인공지능 기반 에이전시 RECE와 손잡고 15초 광고 세 편을 브리프부터 완성 크리에이티브까지 30일 만에, 기존 제작 방식의 10분의 1 비용으로 만들었다. 광고는 현재 리니어 TV에서 방영을 시작했고 소셜용 축약본도 함께 나가며, 11월 9일까지 모두 공개된다."
+                "x": "Google은 이 내용을 담아 이미 몇몇 문서를 업데이트했다. Google Ads 도움말 문서 'Use AI content label settings and disclosures'와 Google Merchant Center 도움말 문서 'Product data specification'이 대표적이다."
               },
               {
                 "t": "p",
-                "x": "AI는 크리에이티브 콘셉트를 빠르게 시제품으로 만들어 어떤 안이 반응을 얻는지 보여주는 데 쓰였다. Crandall은 “내가 보기에 이건 누가 봐도 AI였다. 여기서 누구를 속이려는 게 아니다”라고 말했다. 비용을 10분의 1로 줄였다는 것은 캠페인을 10개 더 만들 수 있다는 뜻과 거의 같다."
+                "x": "지역 항목 아래에는 이제 이렇게 적혀 있다. \"일부 지역에서는 광고 자체에도 AI 라벨이 표시된다. 다음 지역을 타기팅하는 캠페인의 경우, AI로 생성 또는 편집되었다고 지정한 애셋이 포함된 광고에는 눈에 보이는 오버레이도 함께 표시된다:\" 유럽연합, 인도, 뉴욕, 캘리포니아, 한국, 베트남."
+              },
+              {
+                "t": "p",
+                "x": "다음은 해당 페이지의 스크린샷으로, 새로 추가된 부분을 빨간색으로 표시했다:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png"
+              },
+              {
+                "t": "p",
+                "x": "Merchant Center 문서에서 Google은 이렇게 썼다. 유럽연합, 인도, 뉴욕, 캘리포니아, 한국, 베트남의 AI 규정은 특정 AI-generated 또는 편집된 애셋이 포함된 광고에 해당 광고가 AI로 만들어졌음을 소비자에게 알리는 고지 및/또는 라벨을 넣도록 요구한다."
+              },
+              {
+                "t": "p",
+                "x": "이 목록은 앞으로도 계속 늘어날 것으로 보인다..."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Fresh Step、AIで\n制作費10分の1の広告",
-          "body": "Cloroxの猫砂ブランドとRECEはAIで、約1カ月・10分の1の費用で広告を出した。",
-          "mini_headline": "Fresh StepのAI広告、費用10分の1",
+          "headline": "Google Adsが\nAI表示義務を三地域に拡大",
+          "body": "Google AdsはEUなどに加え、カリフォルニア、韓国、ベトナムでもAI開示を求める。",
+          "mini_headline": "GoogleのAI広告表示が拡大",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/Ur5qvQtXNEKwNqJ8YxJ6WKhh_3fmTPoemZZdCJCA1DA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mcmVzaC1zdGVwLmpwZw==.webp",
-                "cap": "Fresh Stepの新広告には、Cloroxブランドの価値を語る、AIで生成された（AI-generated）しゃべる猫たちが登場する。"
+                "src": "https://images.seroundtable.com/google-label-glow-55CezYGY.jpg"
               },
               {
                 "t": "p",
-                "x": "Cloroxの猫砂ポートフォリオの看板ブランドであるFresh Stepは、中核となる消臭の約束をめぐり、カテゴリー内で高まる圧力に直面していた。The Clorox Companyで猫砂担当シニアマーケティングディレクターを務めるDeb Crandallは「現実のビジネス上の圧力があり、『6カ月後にアイデアを持ってきます』と［言うのは］許されなかった」と語った。"
-              },
-              {
-                "t": "video",
-                "yt": "4SsEMNM9oz0"
+                "x": "Google Adsは、広告にAIを使用したかどうかを開示しなければならない地域を拡大した。Googleは、すでに欧州連合、インド、ニューヨークを含んでいたリストに、カリフォルニア、韓国、ベトナムを追加した。"
               },
               {
                 "t": "p",
-                "x": "Fresh Stepは人工知能を活用するエージェンシーRECEと組み、15秒のスポット3本をブリーフから完成したクリエイティブまで30日で、従来の制作の10分の1のコストで仕上げた。広告はリニアTVで順次放映が始まっており、ソーシャル向けの短縮版も展開し、11月9日までに公開される。"
+                "x": "Googleはこの情報を反映して、すでにいくつかのドキュメントを更新している。Google Adsのヘルプドキュメント「Use AI content label settings and disclosures」や、Google Merchant Centerのヘルプドキュメント「Product data specification」などだ。"
               },
               {
                 "t": "p",
-                "x": "AIは、クリエイティブのコンセプトを素早く試作し、何が響いているかを示すのに役立った。「私にとって、これは明らかにAIだった。誰かをだますつもりはない」とCrandallは述べた。10分の1のコストで実現できたことは、キャンペーンをおよそ10本多く作れることに相当する。"
+                "x": "地域の項目の下には現在、次のように書かれている。「一部の地域では、AIラベルが広告自体にも表示される。以下の地域をターゲットとするキャンペーンでは、AIで作成または編集されたと指定したアセットを含む広告に、目に見えるオーバーレイも表示される:」欧州連合、インド、ニューヨーク、カリフォルニア、韓国、ベトナム。"
+              },
+              {
+                "t": "p",
+                "x": "以下はこのページのスクリーンショットで、追加された部分を赤で強調した:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png"
+              },
+              {
+                "t": "p",
+                "x": "Merchant Centerのドキュメントで、Googleは次のように記している。欧州連合、インド、ニューヨーク、カリフォルニア、韓国、ベトナムのAI規制では、特定のAI-generatedまたは編集済みのアセットを含む広告に対し、その広告がAIで作られたことを消費者に知らせる開示および/またはラベルを含めることが求められている。"
+              },
+              {
+                "t": "p",
+                "x": "このリストは今後も広がり続けるのではないかと思う..."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Fresh Step用AI\n以十分之一成本做广告",
-          "body": "Clorox旗下猫砂品牌与RECE借助AI，约一个月便以十分之一成本推出广告活动。",
-          "mini_headline": "Fresh Step AI广告成本仅十分之一",
+          "headline": "Google Ads\nAI标注要求再扩三地",
+          "body": "Google Ads继EU、印度和纽约之后，要求加州、韩国和越南的广告披露AI使用。",
+          "mini_headline": "Google AI广告标注扩围",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/Ur5qvQtXNEKwNqJ8YxJ6WKhh_3fmTPoemZZdCJCA1DA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mcmVzaC1zdGVwLmpwZw==.webp",
-                "cap": "Fresh Step的新广告中出现了一群AI-generated（由AI生成）、会说话的猫，讲述Clorox品牌的价值主张。"
+                "src": "https://images.seroundtable.com/google-label-glow-55CezYGY.jpg"
               },
               {
                 "t": "p",
-                "x": "Fresh Step是Clorox猫砂产品组合中的王牌品牌，其核心卖点除臭面临日益加剧的品类压力。The Clorox Company猫砂业务高级营销总监Deb Crandall表示：“确实存在业务压力，[说]‘我六个月后再带着想法来’是不可接受的。”"
-              },
-              {
-                "t": "video",
-                "yt": "4SsEMNM9oz0"
+                "x": "Google Ads扩大了必须披露广告中是否使用AI的地区范围。Google在原有的欧盟、印度和纽约之外，新增了加利福尼亚、韩国和越南。"
               },
               {
                 "t": "p",
-                "x": "Fresh Step与人工智能驱动的代理商RECE合作，在30天内以传统制作十分之一的成本，完成了三支15秒广告从简报到成片的全过程。广告目前正在线性TV上陆续投放，并在社交媒体上发布剪辑版，将于11月9日前全部上线。"
+                "x": "Google已据此更新了几份文档，包括Google Ads帮助文档“Use AI content label settings and disclosures”以及Google Merchant Center帮助文档“Product data specification”。"
               },
               {
                 "t": "p",
-                "x": "AI帮助快速制作创意概念原型，以展示哪些方向能引起共鸣。Crandall说：“在我看来，这显然就是AI。我们并不想骗任何人。”以十分之一的成本完成制作，大致相当于能多做10个广告活动。"
+                "x": "在地区部分下，现在写道：“在部分地区，AI标签也会显示在广告本身上。对于定位以下地区的广告系列，含有你标记为AI创建或编辑的素材的广告，还将在广告上显示可见的叠加标识：”欧盟、印度、纽约、加利福尼亚、韩国、越南。"
+              },
+              {
+                "t": "p",
+                "x": "以下是该页面的截图，我用红色标出了新增内容："
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png"
+              },
+              {
+                "t": "p",
+                "x": "Google在Merchant Center文档中写道：欧盟、印度、纽约、加利福尼亚、韩国和越南的AI法规要求，含有特定AI-generated或经编辑素材的广告必须加入披露和/或标签，告知消费者该广告是用AI制作的。"
+              },
+              {
+                "t": "p",
+                "x": "我猜这份名单还会随着时间继续扩大……"
               }
             ]
           }
         },
         "es": {
-          "headline": "Fresh Step usó IA para hacer\nanuncios a una décima del costo",
-          "body": "La marca de arena de Clorox y la agencia RECE lanzaron con IA una campaña en cerca de un mes a una décima del costo.",
-          "mini_headline": "Anuncios con IA de Fresh Step a una décima del costo",
+          "headline": "Google Ads amplía su norma de\netiquetado de AI a tres regiones",
+          "body": "Google Ads exige divulgar el uso de AI en California, Corea del Sur y Vietnam, además de la EU, India y Nueva York.",
+          "mini_headline": "Se amplían las etiquetas AI de Google",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/Ur5qvQtXNEKwNqJ8YxJ6WKhh_3fmTPoemZZdCJCA1DA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mcmVzaC1zdGVwLmpwZw==.webp",
-                "cap": "Los nuevos anuncios de Fresh Step muestran un elenco de gatos parlantes AI-generated (generados con IA) que transmiten la propuesta de valor de la marca Clorox."
+                "src": "https://images.seroundtable.com/google-label-glow-55CezYGY.jpg"
               },
               {
                 "t": "p",
-                "x": "Fresh Step, la joya de la corona del portafolio de arena para gatos de Clorox, enfrentaba una mayor presión en su categoría sobre su promesa central de control de olores. “Hay una presión de negocio real, y no iba a ser aceptable [decir] que vendría dentro de seis meses con mi idea”, dijo Deb Crandall, directora sénior de marketing de arena en The Clorox Company."
-              },
-              {
-                "t": "video",
-                "yt": "4SsEMNM9oz0"
+                "x": "Google Ads ha ampliado las regiones en las que se debe declarar si se usó AI en los anuncios. Google añadió California, Corea del Sur y Vietnam a la lista, que ya incluía la Unión Europea, India y Nueva York."
               },
               {
                 "t": "p",
-                "x": "Fresh Step se asoció con RECE, una agencia impulsada por inteligencia artificial, para pasar del brief a la creatividad terminada de tres spots de 15 segundos en 30 días y a una décima del costo de una producción tradicional. Los anuncios ya se están lanzando en TV lineal, con versiones recortadas en redes sociales, y estarán al aire a más tardar el 9 de noviembre."
+                "x": "Google ya actualizó algunos documentos con esta información, entre ellos el documento de ayuda de Google Ads Use AI content label settings and disclosures y el documento de ayuda de Google Merchant Center Product data specification."
               },
               {
                 "t": "p",
-                "x": "La IA ayudó a crear prototipos rápidos de conceptos creativos para mostrar qué estaba funcionando. “Para mí, esto era muy claramente IA. No intentamos engañar a nadie”, dijo Crandall. Hacerlo a una décima del costo equivale aproximadamente a poder crear 10 campañas más."
+                "x": "En el apartado de regiones ahora dice: \"En algunas zonas geográficas, las etiquetas de AI también se mostrarán en el propio anuncio. En las campañas dirigidas a las siguientes ubicaciones, los anuncios con recursos que usted designe como creados o editados con AI también incluirán superposiciones visibles:\" Unión Europea, India, Nueva York, California, Corea del Sur, Vietnam."
+              },
+              {
+                "t": "p",
+                "x": "Aquí hay una captura de pantalla de esta página, con lo añadido resaltado en rojo:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png"
+              },
+              {
+                "t": "p",
+                "x": "En el documento de Merchant Center, Google escribió: las regulaciones de AI en la Unión Europea, India, Nueva York, California, Corea del Sur y Vietnam exigen que los anuncios con ciertos recursos AI-generated o editados incluyan avisos y/o etiquetas que informen a los consumidores de que los anuncios se hicieron con AI."
+              },
+              {
+                "t": "p",
+                "x": "Sospecho que esta lista seguirá ampliándose con el tiempo..."
               }
             ]
           }
@@ -869,15 +1059,15 @@
       }
     },
     {
-      "id": "walmart-sparky-holiday-features",
+      "id": "google-ucp-checkout-canada",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Walmart Sparky\n연말 쇼핑 기능 추가",
-      "body": "Walmart Sparky에 연말 쇼핑용 시각 인식·AI 장바구니 기능이 붙었다.",
-      "mini_headline": "Sparky, 연말 기능 강화",
+      "headline": "Google UCP 결제\n캐나다 AI Mode로",
+      "body": "Google이 AI Mode와 Gemini의 UCP 결제를 캐나다로 넓힌다.",
+      "mini_headline": "UCP 결제, 캐나다 상륙",
       "tool": "Marketing",
-      "source": "Retail Dive",
-      "url": "https://www.retaildive.com/news/walmart-sparky-features-AI-holidays/873718/",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/google-brings-ucp-direct-checkout-to-ai-mode-in-canada/595882/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -885,149 +1075,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://imgproxy.divecdn.com/SPahFN-DITujS0d46GXMow7rdTGah6UMQbHoJI9mnfA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA1MjE3MDcxLmpwZw==.webp"
+            "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-canada-checkout-1600x840-972.png"
           },
           {
             "t": "p",
-            "x": "Walmart의 AI 어시스턴트는 이제 디지털 쇼핑 목록은 물론 아이가 산타에게 쓴 편지 같은 손글씨 목록까지 바로 구매할 수 있는 장바구니로 바꿔준다. Sparky에는 이 밖에도 얼룩 제거나 마음에 드는 스타일 따라 하기 같은 문제를 풀어주는 시각 인식, 장바구니까지 만들어주는 레시피 생성, 건강한 재료 대체, 매장 위치 안내 도구 “Shop to Light”가 새로 들어갔다."
+            "x": "Google이 Universal Commerce Protocol(UCP) 기반 바로 결제를 캐나다 쇼핑객에게도 연다. 대상은 Google Search의 AI Mode와 Gemini 앱이다. 출시는 2026년 11월 4일 Google Canada 부사장 겸 국가 총괄 Sabrina Geremia가 발표했다."
           },
           {
             "t": "p",
-            "x": "업데이트는 지금 U.S.(미국) 고객에게 제공된다. Sparky가 멕시코와 캐나다로 넓어지면서 스페인어·프랑스어 음성·텍스트 인식도 차례로 들어오고, 음성 인식은 연말까지 전 매장에서 쓸 수 있을 전망이다."
+            "x": "캐나다 첫 출시에는 lululemon, 일부 Shopify 판매자, Shoppers Drug Mart, Simons가 참여한다. 쇼핑객은 Google Wallet에 저장해 둔 결제 수단과 배송 정보로 Google Pay 결제를 하고, 판매 주체(seller of record)는 그대로 소매업체가 맡는다. Google은 몇 달 안에 로열티 리워드 적용 같은 기능도 넣을 계획이다."
           },
           {
             "t": "p",
-            "x": "Walmart CEO John Furner는 8월 Sparky 사용량이 2025년 6월 출시 이후 70% 급증했고 이 도구를 쓰는 고객이 그렇지 않은 고객보다 주문당 40% 더 쓴다고 밝혔다. 시각 검색의 전환율은 텍스트 검색보다 57% 높았다. Furner는 Sparky를 가격을 올리거나 저가 상품을 숨기는 데 쓰지 않겠다고 했다."
+            "x": "내년부터는 Merchant Center 안에서 간소화된 UCP 연동을 바로 제공한다. 소매업체가 자기 계정에서 AI Mode와 Gemini 앱 전반의 상품 목록에 바로 결제를 켤 수 있게 된다는 게 Google의 설명이다."
+          },
+          {
+            "t": "p",
+            "x": "Shopify 제품 담당 VP Mani Fazeli는 “캐나다인들은 이미 AI에게 무엇을 살지 묻고 있으며, 이제 캐나다에서 판매하는 Shopify 판매자는 추가 작업 하나 없이 AI Mode와 Gemini 앱에서 충실하게 소개되고 곧바로 구매될 수 있다”고 말했다. Merchant Center 연동의 구체적인 출시일은 Google이 아직 밝히지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Walmart gives Sparky new\nholiday shopping features",
-          "body": "Walmart's Sparky assistant gains visual recognition and AI cart generation for holiday shopping online and in stores.",
-          "mini_headline": "Sparky gets holiday upgrades",
+          "headline": "Google brings UCP checkout\nto AI Mode in Canada",
+          "body": "Google extends UCP direct checkout in AI Mode and Gemini to Canada, with Merchant Center support planned next year.",
+          "mini_headline": "UCP checkout reaches Canada",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/SPahFN-DITujS0d46GXMow7rdTGah6UMQbHoJI9mnfA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA1MjE3MDcxLmpwZw==.webp"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-canada-checkout-1600x840-972.png"
               },
               {
                 "t": "p",
-                "x": "Walmart’s AI assistant can now turn digital shopping lists — or even handwritten ones like a child’s note to Santa — into ready-to-go shopping carts. Other new Sparky features include visual recognition to help solve problems like removing a stain or replicating a coveted look, recipe generation with cart creation, healthy ingredient swaps, and the “Shop to Light” store location tool."
+                "x": "Google is expanding direct checkout powered by the Universal Commerce Protocol (UCP) to shoppers in Canada across AI Mode in Google Search and the Gemini app. Sabrina Geremia, Vice President and Country Managing Director at Google Canada, announced the rollout on November 4, 2026."
               },
               {
                 "t": "p",
-                "x": "The updates are available now for U.S. customers. As Sparky expands to Mexico and Canada, speech and text recognition in Spanish and French is also rolling out, with voice recognition capabilities expected to be available chainwide by year-end."
+                "x": "The initial Canadian launch includes lululemon, select Shopify merchants, Shoppers Drug Mart and Simons. Shoppers pay with Google Pay using the payment methods and shipping details saved in Google Wallet, and retailers remain the seller of record. Google plans to add capabilities such as applying loyalty rewards in the coming months."
               },
               {
                 "t": "p",
-                "x": "Since its June 2025 debut, Sparky has seen a 70% spike in usage, and customers who use the tool spend 40% more per order than shoppers who don’t, Walmart CEO John Furner shared in August. Visual search led to a 57% spike in conversion compared to text-based searches. Furner stated that Sparky would not be leveraged to increase prices or hide lower-priced items."
+                "x": "Starting next year, Google says it will make simplified UCP integration available directly inside Merchant Center, letting retailers enable direct checkout for their listings across AI Mode and the Gemini app from their accounts."
+              },
+              {
+                "t": "p",
+                "x": "“Canadians are already asking AI what to buy, and now Shopify merchants selling into Canada can be faithfully represented and bought from directly in AI Mode and the Gemini app, with zero extra work,” said Mani Fazeli, VP of Product at Shopify. Google hasn’t yet shared a specific release date for the Merchant Center integration."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Walmart Sparky\n연말 쇼핑 기능 추가",
-          "body": "Walmart Sparky에 연말 쇼핑용 시각 인식·AI 장바구니 기능이 붙었다.",
-          "mini_headline": "Sparky, 연말 기능 강화",
+          "headline": "Google UCP 결제\n캐나다 AI Mode로",
+          "body": "Google이 AI Mode와 Gemini의 UCP 결제를 캐나다로 넓힌다.",
+          "mini_headline": "UCP 결제, 캐나다 상륙",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/SPahFN-DITujS0d46GXMow7rdTGah6UMQbHoJI9mnfA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA1MjE3MDcxLmpwZw==.webp"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-canada-checkout-1600x840-972.png"
               },
               {
                 "t": "p",
-                "x": "Walmart의 AI 어시스턴트는 이제 디지털 쇼핑 목록은 물론 아이가 산타에게 쓴 편지 같은 손글씨 목록까지 바로 구매할 수 있는 장바구니로 바꿔준다. Sparky에는 이 밖에도 얼룩 제거나 마음에 드는 스타일 따라 하기 같은 문제를 풀어주는 시각 인식, 장바구니까지 만들어주는 레시피 생성, 건강한 재료 대체, 매장 위치 안내 도구 “Shop to Light”가 새로 들어갔다."
+                "x": "Google이 Universal Commerce Protocol(UCP) 기반 바로 결제를 캐나다 쇼핑객에게도 연다. 대상은 Google Search의 AI Mode와 Gemini 앱이다. 출시는 2026년 11월 4일 Google Canada 부사장 겸 국가 총괄 Sabrina Geremia가 발표했다."
               },
               {
                 "t": "p",
-                "x": "업데이트는 지금 U.S.(미국) 고객에게 제공된다. Sparky가 멕시코와 캐나다로 넓어지면서 스페인어·프랑스어 음성·텍스트 인식도 차례로 들어오고, 음성 인식은 연말까지 전 매장에서 쓸 수 있을 전망이다."
+                "x": "캐나다 첫 출시에는 lululemon, 일부 Shopify 판매자, Shoppers Drug Mart, Simons가 참여한다. 쇼핑객은 Google Wallet에 저장해 둔 결제 수단과 배송 정보로 Google Pay 결제를 하고, 판매 주체(seller of record)는 그대로 소매업체가 맡는다. Google은 몇 달 안에 로열티 리워드 적용 같은 기능도 넣을 계획이다."
               },
               {
                 "t": "p",
-                "x": "Walmart CEO John Furner는 8월 Sparky 사용량이 2025년 6월 출시 이후 70% 급증했고 이 도구를 쓰는 고객이 그렇지 않은 고객보다 주문당 40% 더 쓴다고 밝혔다. 시각 검색의 전환율은 텍스트 검색보다 57% 높았다. Furner는 Sparky를 가격을 올리거나 저가 상품을 숨기는 데 쓰지 않겠다고 했다."
+                "x": "내년부터는 Merchant Center 안에서 간소화된 UCP 연동을 바로 제공한다. 소매업체가 자기 계정에서 AI Mode와 Gemini 앱 전반의 상품 목록에 바로 결제를 켤 수 있게 된다는 게 Google의 설명이다."
+              },
+              {
+                "t": "p",
+                "x": "Shopify 제품 담당 VP Mani Fazeli는 “캐나다인들은 이미 AI에게 무엇을 살지 묻고 있으며, 이제 캐나다에서 판매하는 Shopify 판매자는 추가 작업 하나 없이 AI Mode와 Gemini 앱에서 충실하게 소개되고 곧바로 구매될 수 있다”고 말했다. Merchant Center 연동의 구체적인 출시일은 Google이 아직 밝히지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "WalmartのSparky\n年末商戦向けに新機能",
-          "body": "WalmartのSparkyに、年末商戦向けの画像認識とAIカート生成機能が加わった。",
-          "mini_headline": "Sparkyが年末向けに進化",
+          "headline": "Google、UCP決済を\nカナダのAI Modeに",
+          "body": "GoogleはAI ModeとGeminiのUCP決済をカナダへ拡大する。",
+          "mini_headline": "UCP決済がカナダへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/SPahFN-DITujS0d46GXMow7rdTGah6UMQbHoJI9mnfA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA1MjE3MDcxLmpwZw==.webp"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-canada-checkout-1600x840-972.png"
               },
               {
                 "t": "p",
-                "x": "WalmartのAIアシスタントは、デジタルの買い物リストだけでなく、子どもがサンタに宛てた手書きのメモのようなリストまで、すぐに使えるショッピングカートに変換できるようになった。Sparkyのその他の新機能には、染み抜きや憧れのスタイルの再現といった課題解決を助ける画像認識、カート作成付きのレシピ生成、健康的な食材への置き換え、店舗内の場所を案内する「Shop to Light」ツールがある。"
+                "x": "Googleは、Universal Commerce Protocol(UCP)を基盤とするダイレクトチェックアウトを、Google SearchのAI ModeとGeminiアプリでカナダの買い物客向けに拡大する。Google Canadaのバイスプレジデント兼カントリーマネージングディレクターであるSabrina Geremiaが、2026年11月4日に展開を発表した。"
               },
               {
                 "t": "p",
-                "x": "アップデートはU.S.（米国）の顧客向けにすでに提供されている。Sparkyのメキシコとカナダへの展開に合わせ、スペイン語とフランス語の音声・テキスト認識も順次導入されており、音声認識機能は年末までに全店舗で利用可能になる見込みだ。"
+                "x": "カナダでの初期展開にはlululemon、一部のShopify加盟店、Shoppers Drug Mart、Simonsが参加する。買い物客はGoogle Walletに保存した支払い方法と配送情報を使ってGoogle Payで支払い、販売責任者(seller of record)は引き続き小売業者となる。Googleは今後数か月のうちに、ロイヤルティ特典の適用などの機能を追加する計画だ。"
               },
               {
                 "t": "p",
-                "x": "WalmartのCEO、John Furnerが8月に明らかにしたところによると、2025年6月の登場以来Sparkyの利用は70%急増し、このツールを使う顧客は使わない顧客より注文あたり40%多く支出している。画像検索はテキスト検索に比べてコンバージョンを57%押し上げた。FurnerはSparkyを値上げや低価格商品の隠蔽に利用することはないと述べた。"
+                "x": "Googleによると、来年からMerchant Center内で簡素化されたUCP連携を直接提供し、小売業者が自分のアカウントからAI ModeとGeminiアプリ全体の商品リスティングでダイレクトチェックアウトを有効にできるようにする。"
+              },
+              {
+                "t": "p",
+                "x": "Shopifyのプロダクト担当VPであるMani Fazeliは「カナダの人々はすでにAIに何を買うべきか尋ねている。今やカナダ向けに販売するShopify加盟店は、追加作業ゼロで、AI ModeとGeminiアプリ上で忠実に紹介され、直接購入されるようになる」と述べた。GoogleはMerchant Center連携の具体的なリリース日をまだ明らかにしていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Walmart为Sparky\n新增节日购物功能",
-          "body": "Walmart的Sparky助手新增视觉识别和AI购物车生成功能，服务线上线下节日购物。",
-          "mini_headline": "Sparky迎来节日升级",
+          "headline": "Google将UCP结账\n带入加拿大AI Mode",
+          "body": "Google将AI Mode和Gemini中的UCP直接结账扩展至加拿大。",
+          "mini_headline": "UCP结账登陆加拿大",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/SPahFN-DITujS0d46GXMow7rdTGah6UMQbHoJI9mnfA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA1MjE3MDcxLmpwZw==.webp"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-canada-checkout-1600x840-972.png"
               },
               {
                 "t": "p",
-                "x": "Walmart的AI助手现在可以把数字购物清单，甚至是孩子写给圣诞老人的手写清单，直接转换成可随时结账的购物车。Sparky的其他新功能包括：帮助解决去除污渍、复刻心仪造型等问题的视觉识别，带购物车创建的食谱生成，健康食材替换，以及店内定位工具“Shop to Light”。"
+                "x": "Google正将基于Universal Commerce Protocol（UCP）的直接结账功能扩展至加拿大购物者，覆盖Google Search中的AI Mode和Gemini应用。Google Canada副总裁兼国家总经理Sabrina Geremia于2026年11月4日宣布了这一上线。"
               },
               {
                 "t": "p",
-                "x": "这些更新现已面向U.S.（美国）用户开放。随着Sparky扩展至墨西哥和加拿大，西班牙语和法语的语音与文本识别也在陆续推出，语音识别功能预计在年底前覆盖所有门店。"
+                "x": "加拿大首批上线的商家包括lululemon、部分Shopify商家、Shoppers Drug Mart和Simons。购物者使用Google Wallet中保存的支付方式和收货信息，通过Google Pay付款，零售商仍是登记卖方（seller of record）。Google计划在未来几个月增加使用会员积分等功能。"
               },
               {
                 "t": "p",
-                "x": "Walmart CEO John Furner在8月透露，自2025年6月推出以来，Sparky的使用量激增70%，使用该工具的顾客每单消费比不使用的顾客高出40%。与文本搜索相比，视觉搜索使转化率提升57%。Furner表示，Sparky不会被用来抬高价格或隐藏低价商品。"
+                "x": "Google表示，从明年起将直接在Merchant Center内提供简化的UCP集成，让零售商可以在自己的账户中为其在AI Mode和Gemini应用中的商品开启直接结账。"
+              },
+              {
+                "t": "p",
+                "x": "Shopify产品副总裁（VP of Product）Mani Fazeli表示：“加拿大人已经在问AI该买什么，现在面向加拿大销售的Shopify商家无需做任何额外工作，就能在AI Mode和Gemini应用中被准确呈现并被直接购买，额外工作为零。”Google尚未公布Merchant Center集成的具体发布日期。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Walmart da a Sparky nuevas\nfunciones para las fiestas",
-          "body": "Sparky, de Walmart, suma reconocimiento visual y carritos creados con IA para compras navideñas en línea y en tienda.",
-          "mini_headline": "Sparky recibe mejoras para las fiestas",
+          "headline": "Google lleva el pago con UCP\nal AI Mode en Canadá",
+          "body": "Google extiende a Canadá el pago directo con UCP en AI Mode y Gemini, y llegará a Merchant Center el próximo año.",
+          "mini_headline": "El pago UCP llega a Canadá",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/SPahFN-DITujS0d46GXMow7rdTGah6UMQbHoJI9mnfA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA1MjE3MDcxLmpwZw==.webp"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-canada-checkout-1600x840-972.png"
               },
               {
                 "t": "p",
-                "x": "El asistente de IA de Walmart ahora puede convertir listas de compras digitales —o incluso listas escritas a mano, como la carta de un niño a Santa— en carritos listos para comprar. Otras funciones nuevas de Sparky incluyen reconocimiento visual para ayudar a resolver problemas como quitar una mancha o replicar un look deseado, generación de recetas con creación de carrito, sustituciones por ingredientes saludables y la herramienta de ubicación en tienda “Shop to Light”."
+                "x": "Google amplía a los compradores de Canadá el pago directo impulsado por el Universal Commerce Protocol (UCP) en AI Mode de Google Search y en la app Gemini. Sabrina Geremia, vicepresidenta y directora general de Google Canada, anunció el lanzamiento el 4 de noviembre de 2026."
               },
               {
                 "t": "p",
-                "x": "Las actualizaciones ya están disponibles para los clientes de U.S. (Estados Unidos). A medida que Sparky se expande a México y Canadá, también se está implementando el reconocimiento de voz y texto en español y francés, y se espera que las funciones de reconocimiento de voz estén disponibles en toda la cadena antes de fin de año."
+                "x": "El lanzamiento inicial en Canadá incluye a lululemon, algunos comerciantes de Shopify, Shoppers Drug Mart y Simons. Los compradores pagan con Google Pay usando los métodos de pago y los datos de envío guardados en Google Wallet, y los minoristas siguen siendo el vendedor registrado. Google prevé añadir en los próximos meses funciones como la aplicación de recompensas de fidelidad."
               },
               {
                 "t": "p",
-                "x": "Desde su debut en junio de 2025, el uso de Sparky ha aumentado un 70%, y los clientes que usan la herramienta gastan un 40% más por pedido que quienes no la usan, según compartió en agosto John Furner, CEO de Walmart. La búsqueda visual generó un aumento del 57% en la conversión frente a las búsquedas por texto. Furner afirmó que Sparky no se utilizará para subir precios ni ocultar artículos de menor precio."
+                "x": "A partir del próximo año, según Google, ofrecerá una integración simplificada de UCP directamente dentro de Merchant Center, para que los minoristas activen el pago directo en sus fichas de AI Mode y la app Gemini desde sus cuentas."
+              },
+              {
+                "t": "p",
+                "x": "“Los canadienses ya le preguntan a la AI qué comprar, y ahora los comerciantes de Shopify que venden en Canadá pueden estar representados fielmente y recibir compras directas en AI Mode y la app Gemini, con cero trabajo adicional”, dijo Mani Fazeli, VP de Producto en Shopify. Google aún no ha dado una fecha concreta de lanzamiento para la integración con Merchant Center."
               }
             ]
           }
@@ -1035,105 +1249,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Walmart Sparky\n연말 쇼핑 기능 추가",
-          "body": "Walmart Sparky가 연말 쇼핑용 시각 인식·AI 장바구니 기능을 얻었다.",
-          "mini_headline": "Sparky, 연말 기능 강화",
+          "headline": "Google UCP 결제\n캐나다 AI Mode로",
+          "body": "Google이 AI Mode·Gemini의 UCP 결제를 캐나다로 확대한다.",
+          "mini_headline": "UCP 결제, 캐나다 상륙",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/SPahFN-DITujS0d46GXMow7rdTGah6UMQbHoJI9mnfA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA1MjE3MDcxLmpwZw==.webp"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-canada-checkout-1600x840-972.png"
               },
               {
                 "t": "p",
-                "x": "Walmart의 AI 어시스턴트는 이제 디지털 쇼핑 목록은 물론 아이가 산타에게 쓴 편지 같은 손글씨 목록까지 바로 쓸 수 있는 장바구니로 바꿔준다. Sparky의 다른 새 기능으로는 얼룩 제거나 마음에 드는 스타일 따라 하기 같은 문제 해결을 돕는 시각 인식, 장바구니 생성을 곁들인 레시피 생성, 건강한 재료 대체, 매장 위치 안내 도구 “Shop to Light”가 있다."
+                "x": "Google이 Universal Commerce Protocol(UCP) 기반 바로 결제 기능을 Google Search의 AI Mode와 Gemini 앱에서 캐나다 쇼핑객에게 확대한다. Google Canada의 부사장 겸 국가 총괄 Sabrina Geremia가 2026년 11월 4일 출시를 발표했다."
               },
               {
                 "t": "p",
-                "x": "업데이트는 현재 U.S.(미국) 고객에게 제공된다. Sparky가 멕시코와 캐나다로 확대되면서 스페인어·프랑스어 음성·텍스트 인식도 순차 도입되며, 음성 인식 기능은 연말까지 전 매장에서 쓸 수 있을 전망이다."
+                "x": "캐나다 첫 출시에는 lululemon, 일부 Shopify 판매자, Shoppers Drug Mart, Simons가 참여한다. 쇼핑객은 Google Wallet에 저장된 결제 수단과 배송 정보를 이용해 Google Pay로 결제하며, 판매 주체(seller of record)는 계속 소매업체다. Google은 앞으로 몇 달 안에 로열티 리워드 적용 같은 기능을 추가할 계획이다."
               },
               {
                 "t": "p",
-                "x": "Walmart CEO John Furner는 8월에 Sparky가 2025년 6월 출시 이후 사용량이 70% 급증했고, 이 도구를 쓰는 고객은 그렇지 않은 고객보다 주문당 40% 더 많이 지출한다고 밝혔다. 시각 검색은 텍스트 검색보다 전환율을 57% 끌어올렸다. Furner는 Sparky를 가격 인상이나 저가 상품 숨기기에 활용하지 않겠다고 말했다."
+                "x": "Google은 내년부터 Merchant Center 안에서 바로 간소화된 UCP 연동을 제공해, 소매업체가 자기 계정에서 AI Mode와 Gemini 앱 전반의 상품 목록에 바로 결제를 켤 수 있게 하겠다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "Shopify 제품 담당 VP Mani Fazeli는 “캐나다인들은 이미 AI에게 무엇을 살지 묻고 있으며, 이제 캐나다에서 판매하는 Shopify 판매자는 추가 작업 하나 없이 AI Mode와 Gemini 앱에서 충실하게 소개되고 곧바로 구매될 수 있다”고 말했다. Google은 Merchant Center 연동의 구체적인 출시일을 아직 공개하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "WalmartのSparky\n年末商戦向けに新機能",
-          "body": "WalmartのSparkyに、年末商戦向けの画像認識とAIカート生成機能が加わった。",
-          "mini_headline": "Sparkyが年末向けに進化",
+          "headline": "Google、UCP決済を\nカナダのAI Modeに",
+          "body": "GoogleはAI ModeとGeminiのUCP決済をカナダへ拡大する。",
+          "mini_headline": "UCP決済がカナダへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/SPahFN-DITujS0d46GXMow7rdTGah6UMQbHoJI9mnfA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA1MjE3MDcxLmpwZw==.webp"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-canada-checkout-1600x840-972.png"
               },
               {
                 "t": "p",
-                "x": "WalmartのAIアシスタントは、デジタルの買い物リストだけでなく、子どもがサンタに宛てた手書きのメモのようなリストまで、すぐに使えるショッピングカートに変換できるようになった。Sparkyのその他の新機能には、染み抜きや憧れのスタイルの再現といった課題解決を助ける画像認識、カート作成付きのレシピ生成、健康的な食材への置き換え、店舗内の場所を案内する「Shop to Light」ツールがある。"
+                "x": "Googleは、Universal Commerce Protocol(UCP)を基盤とするダイレクトチェックアウトを、Google SearchのAI ModeとGeminiアプリでカナダの買い物客向けに拡大する。Google Canadaのバイスプレジデント兼カントリーマネージングディレクターであるSabrina Geremiaが、2026年11月4日に展開を発表した。"
               },
               {
                 "t": "p",
-                "x": "アップデートはU.S.（米国）の顧客向けにすでに提供されている。Sparkyのメキシコとカナダへの展開に合わせ、スペイン語とフランス語の音声・テキスト認識も順次導入されており、音声認識機能は年末までに全店舗で利用可能になる見込みだ。"
+                "x": "カナダでの初期展開にはlululemon、一部のShopify加盟店、Shoppers Drug Mart、Simonsが参加する。買い物客はGoogle Walletに保存した支払い方法と配送情報を使ってGoogle Payで支払い、販売責任者(seller of record)は引き続き小売業者となる。Googleは今後数か月のうちに、ロイヤルティ特典の適用などの機能を追加する計画だ。"
               },
               {
                 "t": "p",
-                "x": "WalmartのCEO、John Furnerが8月に明らかにしたところによると、2025年6月の登場以来Sparkyの利用は70%急増し、このツールを使う顧客は使わない顧客より注文あたり40%多く支出している。画像検索はテキスト検索に比べてコンバージョンを57%押し上げた。FurnerはSparkyを値上げや低価格商品の隠蔽に利用することはないと述べた。"
+                "x": "Googleによると、来年からMerchant Center内で簡素化されたUCP連携を直接提供し、小売業者が自分のアカウントからAI ModeとGeminiアプリ全体の商品リスティングでダイレクトチェックアウトを有効にできるようにする。"
+              },
+              {
+                "t": "p",
+                "x": "Shopifyのプロダクト担当VPであるMani Fazeliは「カナダの人々はすでにAIに何を買うべきか尋ねている。今やカナダ向けに販売するShopify加盟店は、追加作業ゼロで、AI ModeとGeminiアプリ上で忠実に紹介され、直接購入されるようになる」と述べた。GoogleはMerchant Center連携の具体的なリリース日をまだ明らかにしていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Walmart为Sparky\n新增节日购物功能",
-          "body": "Walmart的Sparky助手新增视觉识别和AI购物车生成功能，服务线上线下节日购物。",
-          "mini_headline": "Sparky迎来节日升级",
+          "headline": "Google将UCP结账\n带入加拿大AI Mode",
+          "body": "Google将AI Mode和Gemini中的UCP直接结账扩展至加拿大。",
+          "mini_headline": "UCP结账登陆加拿大",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/SPahFN-DITujS0d46GXMow7rdTGah6UMQbHoJI9mnfA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA1MjE3MDcxLmpwZw==.webp"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-canada-checkout-1600x840-972.png"
               },
               {
                 "t": "p",
-                "x": "Walmart的AI助手现在可以把数字购物清单，甚至是孩子写给圣诞老人的手写清单，直接转换成可随时结账的购物车。Sparky的其他新功能包括：帮助解决去除污渍、复刻心仪造型等问题的视觉识别，带购物车创建的食谱生成，健康食材替换，以及店内定位工具“Shop to Light”。"
+                "x": "Google正将基于Universal Commerce Protocol（UCP）的直接结账功能扩展至加拿大购物者，覆盖Google Search中的AI Mode和Gemini应用。Google Canada副总裁兼国家总经理Sabrina Geremia于2026年11月4日宣布了这一上线。"
               },
               {
                 "t": "p",
-                "x": "这些更新现已面向U.S.（美国）用户开放。随着Sparky扩展至墨西哥和加拿大，西班牙语和法语的语音与文本识别也在陆续推出，语音识别功能预计在年底前覆盖所有门店。"
+                "x": "加拿大首批上线的商家包括lululemon、部分Shopify商家、Shoppers Drug Mart和Simons。购物者使用Google Wallet中保存的支付方式和收货信息，通过Google Pay付款，零售商仍是登记卖方（seller of record）。Google计划在未来几个月增加使用会员积分等功能。"
               },
               {
                 "t": "p",
-                "x": "Walmart CEO John Furner在8月透露，自2025年6月推出以来，Sparky的使用量激增70%，使用该工具的顾客每单消费比不使用的顾客高出40%。与文本搜索相比，视觉搜索使转化率提升57%。Furner表示，Sparky不会被用来抬高价格或隐藏低价商品。"
+                "x": "Google表示，从明年起将直接在Merchant Center内提供简化的UCP集成，让零售商可以在自己的账户中为其在AI Mode和Gemini应用中的商品开启直接结账。"
+              },
+              {
+                "t": "p",
+                "x": "Shopify产品副总裁（VP of Product）Mani Fazeli表示：“加拿大人已经在问AI该买什么，现在面向加拿大销售的Shopify商家无需做任何额外工作，就能在AI Mode和Gemini应用中被准确呈现并被直接购买，额外工作为零。”Google尚未公布Merchant Center集成的具体发布日期。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Walmart da a Sparky nuevas\nfunciones para las fiestas",
-          "body": "Sparky, de Walmart, suma reconocimiento visual y carritos creados con IA para compras navideñas en línea y en tienda.",
-          "mini_headline": "Sparky recibe mejoras para las fiestas",
+          "headline": "Google lleva el pago con UCP\nal AI Mode en Canadá",
+          "body": "Google extiende a Canadá el pago directo con UCP en AI Mode y Gemini, y llegará a Merchant Center el próximo año.",
+          "mini_headline": "El pago UCP llega a Canadá",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/SPahFN-DITujS0d46GXMow7rdTGah6UMQbHoJI9mnfA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA1MjE3MDcxLmpwZw==.webp"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-canada-checkout-1600x840-972.png"
               },
               {
                 "t": "p",
-                "x": "El asistente de IA de Walmart ahora puede convertir listas de compras digitales —o incluso listas escritas a mano, como la carta de un niño a Santa— en carritos listos para comprar. Otras funciones nuevas de Sparky incluyen reconocimiento visual para ayudar a resolver problemas como quitar una mancha o replicar un look deseado, generación de recetas con creación de carrito, sustituciones por ingredientes saludables y la herramienta de ubicación en tienda “Shop to Light”."
+                "x": "Google amplía a los compradores de Canadá el pago directo impulsado por el Universal Commerce Protocol (UCP) en AI Mode de Google Search y en la app Gemini. Sabrina Geremia, vicepresidenta y directora general de Google Canada, anunció el lanzamiento el 4 de noviembre de 2026."
               },
               {
                 "t": "p",
-                "x": "Las actualizaciones ya están disponibles para los clientes de U.S. (Estados Unidos). A medida que Sparky se expande a México y Canadá, también se está implementando el reconocimiento de voz y texto en español y francés, y se espera que las funciones de reconocimiento de voz estén disponibles en toda la cadena antes de fin de año."
+                "x": "El lanzamiento inicial en Canadá incluye a lululemon, algunos comerciantes de Shopify, Shoppers Drug Mart y Simons. Los compradores pagan con Google Pay usando los métodos de pago y los datos de envío guardados en Google Wallet, y los minoristas siguen siendo el vendedor registrado. Google prevé añadir en los próximos meses funciones como la aplicación de recompensas de fidelidad."
               },
               {
                 "t": "p",
-                "x": "Desde su debut en junio de 2025, el uso de Sparky ha aumentado un 70%, y los clientes que usan la herramienta gastan un 40% más por pedido que quienes no la usan, según compartió en agosto John Furner, CEO de Walmart. La búsqueda visual generó un aumento del 57% en la conversión frente a las búsquedas por texto. Furner afirmó que Sparky no se utilizará para subir precios ni ocultar artículos de menor precio."
+                "x": "A partir del próximo año, según Google, ofrecerá una integración simplificada de UCP directamente dentro de Merchant Center, para que los minoristas activen el pago directo en sus fichas de AI Mode y la app Gemini desde sus cuentas."
+              },
+              {
+                "t": "p",
+                "x": "“Los canadienses ya le preguntan a la AI qué comprar, y ahora los comerciantes de Shopify que venden en Canadá pueden estar representados fielmente y recibir compras directas en AI Mode y la app Gemini, con cero trabajo adicional”, dijo Mani Fazeli, VP de Producto en Shopify. Google aún no ha dado una fecha concreta de lanzamiento para la integración con Merchant Center."
               }
             ]
           }
@@ -1141,15 +1371,15 @@
       }
     },
     {
-      "id": "digiday-ai-brief-bloat",
+      "id": "blend-agent-bot-blocks-audit",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 부풀린\n대행사 브리프",
-      "body": "대행사들은 AI로 쓴 브리프가 비대해지는 현상을 AI 남용의 초기 신호로 본다.",
-      "mini_headline": "AI로 부풀어 오른 대행사 브리프",
+      "headline": "봇 차단에 가로막힌\nBlend AI 에이전트",
+      "body": "소매업체 200곳 중 29곳의 봇 차단이 Blend의 AI 쇼핑 에이전트를 막았다.",
+      "mini_headline": "봇 차단벽에 막힌 Blend 에이전트",
       "tool": "Marketing",
-      "source": "Digiday",
-      "url": "https://digiday.com/marketing/a-little-bit-ridiculous-agencies-find-ai-overuse-is-leading-to-brief-bloat/",
+      "source": "PPC Land",
+      "url": "https://ppc.land/bot-protection-blocks-blends-ai-shopping-agent-at-29-of-200-retailers/",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1157,255 +1387,335 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://digiday.com/wp-content/uploads/sites/3/2024/09/robot-hand-digiday.gif"
+            "src": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
           },
           {
             "t": "p",
-            "x": "광고 대행사 리더들은 브리프 작성에 AI 도구를 남용하면 마케팅 직원의 생산성과 일상의 정신 건강이 흔들릴 수 있다고 본다. M&C Saatchi 북미 CEO Nadja Bellan-White는 브리프 작성을 AI에 지나치게 기대는 현상이 “임계점에 다가가고 있다… 좀 우스울 지경”이라고 말했다. 그는 고객사가 대행사에 보내는 브리프의 85%가 AI 도구로 작성된(AI-written) 것이라고 추산했다."
+            "x": "Home Depot, Best Buy, Macy's, Tesco, Argos, Next 등 UK와 US 소매업체 200곳 가운데 29곳의 보안 소프트웨어가 Blend Commerce의 자동 쇼핑 에이전트를 두 차례 시도 모두 돌려보냈다. Blend는 10월 6일 AI Shopping Audit 2026을 공개했고 Black Friday를 23일 앞둔 2026년 11월 4일 조사 결과에 관한 성명을 냈다."
           },
           {
             "t": "p",
-            "x": "결과물은 마케팅 용어로 가득하지만 실제 비전은 거의 없는 수백 쪽짜리 기업 문서다. Basis Technologies 조사에서는 마케터와 대행사의 절반 이상(56.4%)이 전략·미디어·캠페인 크리에이티브 브리프를 AI로 쓴다. 한 대행사 임원은 “AI가 상황을 더 나쁘게 만들고 있다. 문장 구조를 장황하게 늘어놓아 [브리프를] 10쪽 분량으로 만든다”고 말했다."
+            "x": "테스트는 2026년 9월 8일부터 15일까지 진행됐다. 대형 소매업체는 80곳 중 16곳이 브라우저를 거부했다(20%). 중견 소매업체는 80곳 중 열두 곳(15%), 신흥 소매업체는 40곳 중 한 곳(2.5%)에 그쳤다. Saks Fifth Avenue, Bergdorf Goodman, Anthropologie, JD Williams는 영점을 받았다."
           },
           {
             "t": "p",
-            "x": "영국 마케터 150명에게 물은 GWI 조사에서는 29%가 부정확하거나 오해를 부르는 인사이트 탓에 회사가 돈을 잃었다고 인정했다. Bellan-White의 조언은 이렇다. “노트북을 끄세요. 말 그대로 그냥 꺼버리세요.”"
+            "x": "거부한 매장 29곳 중 Blend가 robots.txt를 읽을 수 있었던 곳은 24곳이다. 이 24곳은 모두 ChatGPT, Perplexity, Claude의 검색 크롤러를 허용하고 있었다. 보고서는 \"거부는 봇 차단에서 나온다\"고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "Blend Commerce 공동창업자 겸 CEO Adam Pearce는 \"이 소매업체 대부분은 아마 AI 기업들에 그들의 에이전트를 환영한다고 말했을 것이다. 그런데 정문의 보안 소프트웨어가 이를 거부한다\"고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "테스트에는 ChatGPT나 Gemini가 아니라 Blend의 자체 에이전트를 썼다. \"소매업체는 이름이 알려진 AI 에이전트는 허용하면서 알아보지 못하는 자동화는 거부할 수 있다.\" 에이전트 결제 엔드포인트를 운영하는 소매업체 38곳 가운데 서른일곱 곳이 Shopify 기반이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Agencies find AI overuse\nis leading to brief bloat",
-          "body": "Agencies say AI-written media and creative briefs are growing bloated, an early sign of AI overuse in advertising.",
-          "mini_headline": "AI is bloating agency briefs",
+          "headline": "Bot protection turns away\nBlend's AI shopping agent",
+          "body": "Bot protection stopped Blend's AI shopping agent at 29 of 200 retailers: 20% of large ones, 2.5% of emerging ones.",
+          "mini_headline": "Bot walls stop Blend's agent",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2024/09/robot-hand-digiday.gif"
+                "src": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
               },
               {
                 "t": "p",
-                "x": "Agency leaders are finding the over-use of AI tools to write advertising briefs risks undermining the productivity and the day-to-day sanity of marketing staffers. M&C Saatchi’s North American CEO, Nadja Bellan-White, said over-reliance on AI for brief writing is approaching “a tipping point… It’s a little bit ridiculous,” estimating that 85% of the briefs sent to the agency by clients were written using AI tools."
+                "x": "Security software at 29 of 200 UK and US retailers, among them Home Depot, Best Buy, Macy's, Tesco, Argos and Next, refused an automated shopping agent sent by Blend Commerce on two separate attempts. Blend published its AI Shopping Audit 2026 on October 6 and issued a statement on the findings on November 4, 2026, 23 days before Black Friday."
               },
               {
                 "t": "p",
-                "x": "The impact? Corporate documents that run into the hundreds of pages, replete with marketing jargon but little actual vision. More than half (56.4%) of marketers and agencies now use AI to build out strategy, media or campaign creative briefs, according to a Basis Technologies survey. “AI is making it worse. It’s pontificating on a sentence structure that makes [a brief] 10 pages long,” said one agency executive."
+                "x": "Testing ran between September 8 and 15, 2026. Of the 80 large retailers, 16 refused the browser (20%). Twelve of the 80 mid-sized retailers refused (15%), against one of the 40 emerging retailers (2.5%). Saks Fifth Avenue, Bergdorf Goodman, Anthropologie and JD Williams scored zero."
               },
               {
                 "t": "p",
-                "x": "A GWI survey of 150 British marketers found 29% admitted inaccurate or misleading insights had cost their companies financially. Bellan-White’s advice: “Turn off your laptop. Just literally shut it down.”"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI가 부풀린\n대행사 브리프",
-          "body": "대행사들은 AI로 쓴 브리프가 비대해지는 현상을 AI 남용의 초기 신호로 본다.",
-          "mini_headline": "AI로 부풀어 오른 대행사 브리프",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2024/09/robot-hand-digiday.gif"
+                "x": "Blend could read robots.txt for 24 of the 29 refusing stores, and every one of the 24 allows the search crawlers from ChatGPT, Perplexity and Claude. \"The refusals come from bot protection,\" according to the report."
               },
               {
                 "t": "p",
-                "x": "광고 대행사 리더들은 브리프 작성에 AI 도구를 남용하면 마케팅 직원의 생산성과 일상의 정신 건강이 흔들릴 수 있다고 본다. M&C Saatchi 북미 CEO Nadja Bellan-White는 브리프 작성을 AI에 지나치게 기대는 현상이 “임계점에 다가가고 있다… 좀 우스울 지경”이라고 말했다. 그는 고객사가 대행사에 보내는 브리프의 85%가 AI 도구로 작성된(AI-written) 것이라고 추산했다."
+                "x": "\"Most of these retailers have likely told the AI companies their agents are welcome. Then the security software on the front door refuses it,\" said Adam Pearce, co-founder and CEO of Blend Commerce."
               },
               {
                 "t": "p",
-                "x": "결과물은 마케팅 용어로 가득하지만 실제 비전은 거의 없는 수백 쪽짜리 기업 문서다. Basis Technologies 조사에서는 마케터와 대행사의 절반 이상(56.4%)이 전략·미디어·캠페인 크리에이티브 브리프를 AI로 쓴다. 한 대행사 임원은 “AI가 상황을 더 나쁘게 만들고 있다. 문장 구조를 장황하게 늘어놓아 [브리프를] 10쪽 분량으로 만든다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "영국 마케터 150명에게 물은 GWI 조사에서는 29%가 부정확하거나 오해를 부르는 인사이트 탓에 회사가 돈을 잃었다고 인정했다. Bellan-White의 조언은 이렇다. “노트북을 끄세요. 말 그대로 그냥 꺼버리세요.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIの使いすぎで\n代理店のブリーフ肥大化",
-          "body": "代理店によると、AIで書いたブリーフが肥大化し、AI過多の初期兆候が出ている。",
-          "mini_headline": "AIで膨らむ代理店のブリーフ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2024/09/robot-hand-digiday.gif"
-              },
-              {
-                "t": "p",
-                "x": "代理店の幹部たちは、広告ブリーフの作成にAIツールを使いすぎると、マーケティング担当者の生産性と日々の正気が損なわれかねないと感じている。M&C Saatchiの北米CEO、Nadja Bellan-Whiteは、ブリーフ作成でのAIへの過度な依存が「臨界点に近づいている……少しばかげている」と述べ、クライアントから代理店に届くブリーフの85%がAIツールで書かれたもの（AI-written）だと推定した。"
-              },
-              {
-                "t": "p",
-                "x": "その影響は？ マーケティング用語ばかりで実際のビジョンに乏しい、数百ページに及ぶ企業文書だ。Basis Technologiesの調査によると、マーケターと代理店の半数以上（56.4%）が、戦略、メディア、キャンペーンのクリエイティブブリーフの作成にAIを使っている。ある代理店幹部は「AIが事態を悪化させている。文の構造をこねくり回して、［ブリーフを］10ページにしてしまう」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "英国のマーケター150人を対象にしたGWIの調査では、29%が不正確または誤解を招くインサイトによって会社が金銭的損失を被ったと認めた。Bellan-Whiteの助言はこうだ。「ノートパソコンの電源を切りなさい。文字どおり、ただシャットダウンするのです」"
+                "x": "The test used Blend's own agent, not ChatGPT or Gemini: \"A retailer may allow named AI agents while refusing automation it does not recognise.\" Thirty-seven of the 38 retailers with a live agent checkout endpoint run on Shopify."
               }
             ]
           }
         },
         "zh": {
-          "headline": "代理商发现AI滥用\n正让简报日益臃肿",
-          "body": "代理商称，AI撰写的媒体与创意简报日益臃肿，这是广告业AI滥用的早期迹象。",
-          "mini_headline": "AI让代理商简报膨胀",
+          "headline": "机器人防护拦下\nBlend AI购物智能体",
+          "body": "Blend的AI购物智能体在200家零售商中被29家拦截：大型20%，新兴2.5%。",
+          "mini_headline": "机器人防护拦下Blend智能体",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2024/09/robot-hand-digiday.gif"
+                "src": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
               },
               {
                 "t": "p",
-                "x": "代理商负责人发现，过度使用AI工具撰写广告简报，可能损害营销人员的工作效率和日常心态。M&C Saatchi北美CEO Nadja Bellan-White表示，撰写简报时对AI的过度依赖正接近“临界点……有点荒谬了”，她估计客户发给代理商的简报中有85%是用AI工具写成的（AI-written）。"
+                "x": "在200家UK和US零售商中，有29家的安全软件在两次独立尝试中都拒绝了Blend Commerce派出的自动购物智能体，其中包括Home Depot、Best Buy、Macy's、Tesco、Argos和Next。Blend于10月6日发布了AI Shopping Audit 2026，并于2026年11月4日、即Black Friday前23天就调查结果发表声明。"
               },
               {
                 "t": "p",
-                "x": "后果如何？动辄数百页的企业文件，充斥营销术语，却几乎没有真正的愿景。Basis Technologies的一项调查显示，超过一半（56.4%）的营销人员和代理商现在用AI来制定战略、媒体或活动创意简报。一位代理商高管说：“AI让情况更糟。它在句子结构上夸夸其谈，把[一份简报]写到10页长。”"
+                "x": "测试于2026年9月8日至15日进行。80家大型零售商中有16家拒绝了浏览器（20%）。80家中型（mid-sized）零售商中有十二家拒绝（15%），而40家新兴零售商中只有一家拒绝（2.5%）。Saks Fifth Avenue、Bergdorf Goodman、Anthropologie和JD Williams得分为零。"
               },
               {
                 "t": "p",
-                "x": "GWI对150名英国营销人员的调查发现，29%的人承认不准确或误导性的洞察曾给公司造成经济损失。Bellan-White的建议是：“关掉你的笔记本电脑。真的，直接关机。”"
+                "x": "在拒绝访问的29家商店中，Blend能读取其中24家的robots.txt，而这24家全部允许ChatGPT、Perplexity和Claude的搜索爬虫。报告称：“拒绝来自机器人防护。”"
+              },
+              {
+                "t": "p",
+                "x": "Blend Commerce联合创始人（co-founder）兼CEO Adam Pearce表示：“这些零售商中的大多数很可能已经告诉AI公司，欢迎它们的智能体。然而前门的安全软件却把它拒之门外。”"
+              },
+              {
+                "t": "p",
+                "x": "测试使用的是Blend自己的智能体，而非ChatGPT或Gemini：“零售商可能允许具名的AI智能体，同时拒绝它无法识别的自动化程序。”在38家拥有可用智能体结账端点的零售商中，有三十七家（Thirty-seven）运行在Shopify上。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las agencias ven que el abuso\nde la IA infla los briefs",
-          "body": "Las agencias ven briefs escritos con IA cada vez más inflados, una señal temprana del abuso de la IA en publicidad.",
-          "mini_headline": "La IA está inflando los briefs de las agencias",
+          "headline": "La protección antibots frena al\nagente de AI de Blend",
+          "body": "La protección antibots frenó al agente de AI de Blend en 29 de 200 tiendas: 20% de grandes y 2.5% de emergentes.",
+          "mini_headline": "Los muros antibots frenan a Blend",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2024/09/robot-hand-digiday.gif"
+                "src": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
               },
               {
                 "t": "p",
-                "x": "Los líderes de agencias constatan que el uso excesivo de herramientas de IA para redactar briefs publicitarios amenaza con socavar la productividad y la cordura cotidiana del personal de marketing. Nadja Bellan-White, CEO para Norteamérica de M&C Saatchi, dijo que la dependencia excesiva de la IA para escribir briefs se acerca a “un punto de inflexión… Es un poco ridículo”, y estimó que el 85% de los briefs que los clientes envían a la agencia se redactan con herramientas de IA (AI-written)."
+                "x": "El software de seguridad de 29 de 200 minoristas de UK y US, entre ellos Home Depot, Best Buy, Macy's, Tesco, Argos y Next, rechazó en dos intentos distintos un agente de compras automatizado enviado por Blend Commerce. Blend publicó su AI Shopping Audit 2026 el 6 de octubre y emitió un comunicado sobre los resultados el 4 de noviembre de 2026, 23 días antes del Black Friday."
               },
               {
                 "t": "p",
-                "x": "¿El impacto? Documentos corporativos de cientos de páginas, repletos de jerga de marketing pero con poca visión real. Más de la mitad (56.4%) de los profesionales de marketing y agencias ya usa IA para elaborar briefs de estrategia, medios o creatividad de campañas, según una encuesta de Basis Technologies. “La IA lo está empeorando. Se pone a pontificar con una estructura de frases que hace que [un brief] tenga 10 páginas”, dijo un ejecutivo de agencia."
+                "x": "Las pruebas se realizaron entre el 8 y el 15 de septiembre de 2026. De los 80 grandes minoristas, 16 rechazaron el navegador (20%). Doce de los 80 minoristas medianos (mid-sized) lo rechazaron (15%), frente a uno de los 40 minoristas emergentes (2.5%). Saks Fifth Avenue, Bergdorf Goodman, Anthropologie y JD Williams obtuvieron cero."
               },
               {
                 "t": "p",
-                "x": "Una encuesta de GWI a 150 profesionales de marketing británicos halló que el 29% admitió que perspectivas inexactas o engañosas habían costado dinero a sus empresas. El consejo de Bellan-White: “Apaga tu portátil. Literalmente, apágalo”."
+                "x": "Blend pudo leer el robots.txt de 24 de las 29 tiendas que lo rechazaron, y las 24 permiten los rastreadores de búsqueda de ChatGPT, Perplexity y Claude. \"Los rechazos provienen de la protección contra bots\", según el informe."
+              },
+              {
+                "t": "p",
+                "x": "\"Es probable que la mayoría de estos minoristas haya dicho a las empresas de AI que sus agentes son bienvenidos. Luego, el software de seguridad de la puerta de entrada lo rechaza\", dijo Adam Pearce, cofundador (co-founder) y CEO de Blend Commerce."
+              },
+              {
+                "t": "p",
+                "x": "La prueba usó el agente propio de Blend, no ChatGPT ni Gemini: \"Un minorista puede permitir agentes de AI identificados y, al mismo tiempo, rechazar la automatización que no reconoce\". Treinta y siete (Thirty-seven) de los 38 minoristas con un endpoint de checkout de agentes activo funcionan con Shopify."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "봇 차단에 가로막힌\nBlend AI 에이전트",
+          "body": "소매업체 200곳 중 29곳의 봇 차단이 Blend의 AI 쇼핑 에이전트를 막았다.",
+          "mini_headline": "봇 차단벽에 막힌 Blend 에이전트",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Home Depot, Best Buy, Macy's, Tesco, Argos, Next 등 UK와 US 소매업체 200곳 가운데 29곳의 보안 소프트웨어가 Blend Commerce의 자동 쇼핑 에이전트를 두 차례 시도 모두 돌려보냈다. Blend는 10월 6일 AI Shopping Audit 2026을 공개했고 Black Friday를 23일 앞둔 2026년 11월 4일 조사 결과에 관한 성명을 냈다."
+              },
+              {
+                "t": "p",
+                "x": "테스트는 2026년 9월 8일부터 15일까지 진행됐다. 대형 소매업체는 80곳 중 16곳이 브라우저를 거부했다(20%). 중견 소매업체는 80곳 중 열두 곳(15%), 신흥 소매업체는 40곳 중 한 곳(2.5%)에 그쳤다. Saks Fifth Avenue, Bergdorf Goodman, Anthropologie, JD Williams는 영점을 받았다."
+              },
+              {
+                "t": "p",
+                "x": "거부한 매장 29곳 중 Blend가 robots.txt를 읽을 수 있었던 곳은 24곳이다. 이 24곳은 모두 ChatGPT, Perplexity, Claude의 검색 크롤러를 허용하고 있었다. 보고서는 \"거부는 봇 차단에서 나온다\"고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "Blend Commerce 공동창업자 겸 CEO Adam Pearce는 \"이 소매업체 대부분은 아마 AI 기업들에 그들의 에이전트를 환영한다고 말했을 것이다. 그런데 정문의 보안 소프트웨어가 이를 거부한다\"고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "테스트에는 ChatGPT나 Gemini가 아니라 Blend의 자체 에이전트를 썼다. \"소매업체는 이름이 알려진 AI 에이전트는 허용하면서 알아보지 못하는 자동화는 거부할 수 있다.\" 에이전트 결제 엔드포인트를 운영하는 소매업체 38곳 가운데 서른일곱 곳이 Shopify 기반이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ボット対策が門前払い\nBlendのAIエージェント",
+          "body": "ボット対策が小売200社中29社でBlendのAIショッピングエージェントを阻んだ。",
+          "mini_headline": "ボット対策がBlendのエージェントを阻む",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Home Depot、Best Buy、Macy's、Tesco、Argos、Nextを含むUKとUSの小売200社のうち29社で、セキュリティソフトがBlend Commerceの送った自動ショッピングエージェントを二度の試行とも拒否した。Blendは10月6日にAI Shopping Audit 2026を公開し、Black Fridayの23日前にあたる2026年11月4日に調査結果に関する声明を出した。"
+              },
+              {
+                "t": "p",
+                "x": "テストは2026年9月8日から15日にかけて実施された。大手小売80社のうち16社がブラウザを拒否した(20%)。中堅小売では80社中十二社が拒否し(15%)、新興小売では40社中一社だった(2.5%)。Saks Fifth Avenue、Bergdorf Goodman、Anthropologie、JD Williamsのスコアはゼロだった。"
+              },
+              {
+                "t": "p",
+                "x": "Blendは拒否した29店舗のうち24店舗のrobots.txtを読み取ることができ、その24店舗はいずれもChatGPT、Perplexity、Claudeの検索クローラーを許可していた。報告書によれば「拒否はボット対策によるもの」である。"
+              },
+              {
+                "t": "p",
+                "x": "Blend Commerceの共同創業者兼CEO、Adam Pearceは「これらの小売業者の多くは、AI企業に対してエージェントを歓迎すると伝えているはずだ。ところが玄関のセキュリティソフトがそれを拒否する」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "テストにはChatGPTやGeminiではなく、Blend独自のエージェントが使われた。「小売業者は名前の分かるAIエージェントを許可しつつ、認識できない自動化を拒否することがある」。稼働中のエージェント決済エンドポイントを持つ小売38社のうち三十七社がShopifyで運営されている。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "AI 남용이 부른\n대행사 브리프 비대화",
-          "body": "대행사들은 AI로 쓴 브리프가 비대해진다며 AI 남용의 초기 신호로 본다.",
-          "mini_headline": "AI로 부풀어 오른 대행사 브리프",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2024/09/robot-hand-digiday.gif"
-              },
-              {
-                "t": "p",
-                "x": "광고 대행사 리더들은 광고 브리프 작성에 AI 도구를 남용하면 마케팅 직원의 생산성과 일상의 정신 건강이 흔들릴 수 있다고 본다. M&C Saatchi 북미 CEO Nadja Bellan-White는 브리프 작성을 AI에 과도하게 의존하는 현상이 “임계점에 다가가고 있다… 좀 우스울 지경”이라고 말했다. 그는 고객사가 대행사에 보내는 브리프의 85%가 AI 도구로 작성된(AI-written) 것으로 추산했다."
-              },
-              {
-                "t": "p",
-                "x": "그 결과는? 마케팅 용어로 가득하지만 실제 비전은 거의 없는 수백 쪽짜리 기업 문서다. Basis Technologies 조사에 따르면 마케터와 대행사의 절반 이상(56.4%)이 전략·미디어·캠페인 크리에이티브 브리프 작성에 AI를 쓴다. 한 대행사 임원은 “AI가 상황을 더 나쁘게 만들고 있다. 문장 구조를 장황하게 늘어놓아 [브리프를] 10쪽 분량으로 만든다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "영국 마케터 150명을 대상으로 한 GWI 조사에서는 29%가 부정확하거나 오해를 부르는 인사이트로 회사가 금전적 손실을 입었다고 인정했다. Bellan-White의 조언은 이렇다. “노트북을 끄세요. 말 그대로 그냥 꺼버리세요.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIの使いすぎで\n代理店のブリーフ肥大化",
-          "body": "代理店によると、AIで書いたブリーフが肥大化し、AI過多の初期兆候が出ている。",
-          "mini_headline": "AIで膨らむ代理店のブリーフ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2024/09/robot-hand-digiday.gif"
-              },
-              {
-                "t": "p",
-                "x": "代理店の幹部たちは、広告ブリーフの作成にAIツールを使いすぎると、マーケティング担当者の生産性と日々の正気が損なわれかねないと感じている。M&C Saatchiの北米CEO、Nadja Bellan-Whiteは、ブリーフ作成でのAIへの過度な依存が「臨界点に近づいている……少しばかげている」と述べ、クライアントから代理店に届くブリーフの85%がAIツールで書かれたもの（AI-written）だと推定した。"
-              },
-              {
-                "t": "p",
-                "x": "その影響は？ マーケティング用語ばかりで実際のビジョンに乏しい、数百ページに及ぶ企業文書だ。Basis Technologiesの調査によると、マーケターと代理店の半数以上（56.4%）が、戦略、メディア、キャンペーンのクリエイティブブリーフの作成にAIを使っている。ある代理店幹部は「AIが事態を悪化させている。文の構造をこねくり回して、［ブリーフを］10ページにしてしまう」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "英国のマーケター150人を対象にしたGWIの調査では、29%が不正確または誤解を招くインサイトによって会社が金銭的損失を被ったと認めた。Bellan-Whiteの助言はこうだ。「ノートパソコンの電源を切りなさい。文字どおり、ただシャットダウンするのです」"
-              }
-            ]
-          }
-        },
         "zh": {
-          "headline": "代理商发现AI滥用\n正让简报日益臃肿",
-          "body": "代理商称，AI撰写的媒体与创意简报日益臃肿，这是广告业AI滥用的早期迹象。",
-          "mini_headline": "AI让代理商简报膨胀",
+          "headline": "机器人防护拦下\nBlend AI购物智能体",
+          "body": "Blend的AI购物智能体在200家零售商中被29家拦截：大型20%，新兴2.5%。",
+          "mini_headline": "机器人防护拦下Blend智能体",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2024/09/robot-hand-digiday.gif"
+                "src": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
               },
               {
                 "t": "p",
-                "x": "代理商负责人发现，过度使用AI工具撰写广告简报，可能损害营销人员的工作效率和日常心态。M&C Saatchi北美CEO Nadja Bellan-White表示，撰写简报时对AI的过度依赖正接近“临界点……有点荒谬了”，她估计客户发给代理商的简报中有85%是用AI工具写成的（AI-written）。"
+                "x": "在200家UK和US零售商中，有29家的安全软件在两次独立尝试中都拒绝了Blend Commerce派出的自动购物智能体，其中包括Home Depot、Best Buy、Macy's、Tesco、Argos和Next。Blend于10月6日发布了AI Shopping Audit 2026，并于2026年11月4日、即Black Friday前23天就调查结果发表声明。"
               },
               {
                 "t": "p",
-                "x": "后果如何？动辄数百页的企业文件，充斥营销术语，却几乎没有真正的愿景。Basis Technologies的一项调查显示，超过一半（56.4%）的营销人员和代理商现在用AI来制定战略、媒体或活动创意简报。一位代理商高管说：“AI让情况更糟。它在句子结构上夸夸其谈，把[一份简报]写到10页长。”"
+                "x": "测试于2026年9月8日至15日进行。80家大型零售商中有16家拒绝了浏览器（20%）。80家中型（mid-sized）零售商中有十二家拒绝（15%），而40家新兴零售商中只有一家拒绝（2.5%）。Saks Fifth Avenue、Bergdorf Goodman、Anthropologie和JD Williams得分为零。"
               },
               {
                 "t": "p",
-                "x": "GWI对150名英国营销人员的调查发现，29%的人承认不准确或误导性的洞察曾给公司造成经济损失。Bellan-White的建议是：“关掉你的笔记本电脑。真的，直接关机。”"
+                "x": "在拒绝访问的29家商店中，Blend能读取其中24家的robots.txt，而这24家全部允许ChatGPT、Perplexity和Claude的搜索爬虫。报告称：“拒绝来自机器人防护。”"
+              },
+              {
+                "t": "p",
+                "x": "Blend Commerce联合创始人（co-founder）兼CEO Adam Pearce表示：“这些零售商中的大多数很可能已经告诉AI公司，欢迎它们的智能体。然而前门的安全软件却把它拒之门外。”"
+              },
+              {
+                "t": "p",
+                "x": "测试使用的是Blend自己的智能体，而非ChatGPT或Gemini：“零售商可能允许具名的AI智能体，同时拒绝它无法识别的自动化程序。”在38家拥有可用智能体结账端点的零售商中，有三十七家（Thirty-seven）运行在Shopify上。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las agencias ven que el abuso\nde la IA infla los briefs",
-          "body": "Las agencias ven briefs escritos con IA cada vez más inflados, una señal temprana del abuso de la IA en publicidad.",
-          "mini_headline": "La IA está inflando los briefs de las agencias",
+          "headline": "La protección antibots frena al\nagente de AI de Blend",
+          "body": "La protección antibots frenó al agente de AI de Blend en 29 de 200 tiendas: 20% de grandes y 2.5% de emergentes.",
+          "mini_headline": "Los muros antibots frenan a Blend",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2024/09/robot-hand-digiday.gif"
+                "src": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
               },
               {
                 "t": "p",
-                "x": "Los líderes de agencias constatan que el uso excesivo de herramientas de IA para redactar briefs publicitarios amenaza con socavar la productividad y la cordura cotidiana del personal de marketing. Nadja Bellan-White, CEO para Norteamérica de M&C Saatchi, dijo que la dependencia excesiva de la IA para escribir briefs se acerca a “un punto de inflexión… Es un poco ridículo”, y estimó que el 85% de los briefs que los clientes envían a la agencia se redactan con herramientas de IA (AI-written)."
+                "x": "El software de seguridad de 29 de 200 minoristas de UK y US, entre ellos Home Depot, Best Buy, Macy's, Tesco, Argos y Next, rechazó en dos intentos distintos un agente de compras automatizado enviado por Blend Commerce. Blend publicó su AI Shopping Audit 2026 el 6 de octubre y emitió un comunicado sobre los resultados el 4 de noviembre de 2026, 23 días antes del Black Friday."
               },
               {
                 "t": "p",
-                "x": "¿El impacto? Documentos corporativos de cientos de páginas, repletos de jerga de marketing pero con poca visión real. Más de la mitad (56.4%) de los profesionales de marketing y agencias ya usa IA para elaborar briefs de estrategia, medios o creatividad de campañas, según una encuesta de Basis Technologies. “La IA lo está empeorando. Se pone a pontificar con una estructura de frases que hace que [un brief] tenga 10 páginas”, dijo un ejecutivo de agencia."
+                "x": "Las pruebas se realizaron entre el 8 y el 15 de septiembre de 2026. De los 80 grandes minoristas, 16 rechazaron el navegador (20%). Doce de los 80 minoristas medianos (mid-sized) lo rechazaron (15%), frente a uno de los 40 minoristas emergentes (2.5%). Saks Fifth Avenue, Bergdorf Goodman, Anthropologie y JD Williams obtuvieron cero."
               },
               {
                 "t": "p",
-                "x": "Una encuesta de GWI a 150 profesionales de marketing británicos halló que el 29% admitió que perspectivas inexactas o engañosas habían costado dinero a sus empresas. El consejo de Bellan-White: “Apaga tu portátil. Literalmente, apágalo”."
+                "x": "Blend pudo leer el robots.txt de 24 de las 29 tiendas que lo rechazaron, y las 24 permiten los rastreadores de búsqueda de ChatGPT, Perplexity y Claude. \"Los rechazos provienen de la protección contra bots\", según el informe."
+              },
+              {
+                "t": "p",
+                "x": "\"Es probable que la mayoría de estos minoristas haya dicho a las empresas de AI que sus agentes son bienvenidos. Luego, el software de seguridad de la puerta de entrada lo rechaza\", dijo Adam Pearce, cofundador (co-founder) y CEO de Blend Commerce."
+              },
+              {
+                "t": "p",
+                "x": "La prueba usó el agente propio de Blend, no ChatGPT ni Gemini: \"Un minorista puede permitir agentes de AI identificados y, al mismo tiempo, rechazar la automatización que no reconoce\". Treinta y siete (Thirty-seven) de los 38 minoristas con un endpoint de checkout de agentes activo funcionan con Shopify."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "봇 차단에 가로막힌\nBlend AI 에이전트",
+          "body": "봇 차단이 200곳 중 29곳에서 Blend의 AI 쇼핑 에이전트를 막았다.",
+          "mini_headline": "봇 차단벽에 막힌 Blend 에이전트",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Home Depot, Best Buy, Macy's, Tesco, Argos, Next 등 UK와 US 소매업체 200곳 중 29곳의 보안 소프트웨어가 Blend Commerce가 보낸 자동 쇼핑 에이전트를 두 차례 시도 모두에서 거부했다. Blend는 10월 6일 AI Shopping Audit 2026을 공개했고, Black Friday를 23일 앞둔 2026년 11월 4일 조사 결과에 대한 성명을 냈다."
+              },
+              {
+                "t": "p",
+                "x": "테스트는 2026년 9월 8일부터 15일까지 진행됐다. 대형 소매업체 80곳 중 16곳이 브라우저를 거부했다(20%). 중견 소매업체는 80곳 중 열두 곳이 거부했고(15%), 신흥 소매업체는 40곳 중 한 곳에 그쳤다(2.5%). Saks Fifth Avenue, Bergdorf Goodman, Anthropologie, JD Williams는 영점을 받았다."
+              },
+              {
+                "t": "p",
+                "x": "Blend는 거부한 매장 29곳 중 24곳의 robots.txt를 읽을 수 있었고, 이 24곳은 모두 ChatGPT, Perplexity, Claude의 검색 크롤러를 허용하고 있었다. 보고서는 \"거부는 봇 차단에서 나온다\"고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "Blend Commerce 공동창업자 겸 CEO Adam Pearce는 \"이 소매업체 대부분은 아마 AI 기업들에 그들의 에이전트를 환영한다고 말했을 것이다. 그런데 정문의 보안 소프트웨어가 이를 거부한다\"고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "테스트에는 ChatGPT나 Gemini가 아닌 Blend 자체 에이전트가 쓰였다. \"소매업체는 이름이 알려진 AI 에이전트는 허용하면서 알아보지 못하는 자동화는 거부할 수 있다.\" 에이전트 결제 엔드포인트를 운영 중인 소매업체 38곳 중 서른일곱 곳이 Shopify 기반이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ボット対策が門前払い\nBlendのAIエージェント",
+          "body": "ボット対策が小売200社中29社でBlendのAIショッピングエージェントを阻んだ。",
+          "mini_headline": "ボット対策がBlendのエージェントを阻む",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Home Depot、Best Buy、Macy's、Tesco、Argos、Nextを含むUKとUSの小売200社のうち29社で、セキュリティソフトがBlend Commerceの送った自動ショッピングエージェントを二度の試行とも拒否した。Blendは10月6日にAI Shopping Audit 2026を公開し、Black Fridayの23日前にあたる2026年11月4日に調査結果に関する声明を出した。"
+              },
+              {
+                "t": "p",
+                "x": "テストは2026年9月8日から15日にかけて実施された。大手小売80社のうち16社がブラウザを拒否した(20%)。中堅小売では80社中十二社が拒否し(15%)、新興小売では40社中一社だった(2.5%)。Saks Fifth Avenue、Bergdorf Goodman、Anthropologie、JD Williamsのスコアはゼロだった。"
+              },
+              {
+                "t": "p",
+                "x": "Blendは拒否した29店舗のうち24店舗のrobots.txtを読み取ることができ、その24店舗はいずれもChatGPT、Perplexity、Claudeの検索クローラーを許可していた。報告書によれば「拒否はボット対策によるもの」である。"
+              },
+              {
+                "t": "p",
+                "x": "Blend Commerceの共同創業者兼CEO、Adam Pearceは「これらの小売業者の多くは、AI企業に対してエージェントを歓迎すると伝えているはずだ。ところが玄関のセキュリティソフトがそれを拒否する」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "テストにはChatGPTやGeminiではなく、Blend独自のエージェントが使われた。「小売業者は名前の分かるAIエージェントを許可しつつ、認識できない自動化を拒否することがある」。稼働中のエージェント決済エンドポイントを持つ小売38社のうち三十七社がShopifyで運営されている。"
               }
             ]
           }

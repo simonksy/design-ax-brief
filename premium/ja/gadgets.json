@@ -10534,6 +10534,144 @@
           "x": "NothingのAIデバイスは、画面のないAIガジェットとして初めてではない。Humane AI pinやFriend、さらにはAIぬいぐるみといった先例がある。OpenAIもJony IveとともにAIスマートスピーカーを開発中と報じられている。Peiは過去のAIデバイスに触れ、“業界全体が自らのiPhoneのような瞬間を探している。ペンダント、ピン、メガネ、コンパニオンなど、AIを誰もの生活の一部にする魔法のような消費者向けデバイスだ”と述べた。さらに“今日、AIのiPhoneを探すのは行き止まりだ”と付け加えた。"
         }
       ]
+    },
+    "gadgets/tau-humanoid-home-cleaning": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.mp4"
+        },
+        {
+          "t": "p",
+          "x": "スタートアップのTau Roboticsは、サンフランシスコの家庭に人型ロボットを送り込んで掃除をさせている。まだ人間の手引きを多く必要とするが、学習は進んでいる。"
+        },
+        {
+          "t": "p",
+          "x": "今のところロボットは人間が遠隔で操縦しており、操縦者はロボットの頭部と手首に付いたカメラで様子を見る。ロボットは掃除しながらデータを集め、Tauはそれを使ってより自律的な後継機を訓練する。ベッドメイクや洗濯物たたみなどの作業ではキネマティック誘導を使う。人間の操縦者が動作を行い、ロボットがそれをまねる仕組みだ。共同創業者のCornelia Weinzierlによると、ロボットはすでに人の助けなしで掃除機がけとモップがけができる。"
+        },
+        {
+          "t": "p",
+          "x": "Tauは以前、一時間の掃除を$30で提供していたが、現在はロボット二台による毎週の掃除で$60、単発の訪問で$100を請求する。初回の訪問ではロボットが階段に苦戦し、遠隔操縦者の機器が過熱したため早めに引き上げた。二回目の訪問はトイレ掃除も含めてはるかに順調だった。"
+        },
+        {
+          "t": "p",
+          "x": "Tauがこれまでに終えた掃除は数百件にすぎない。「掃除は、多くの人が本当に積極的にやりたがる仕事ではない」とWeinzierlは語った。"
+        }
+      ]
+    },
+    "gadgets/syncere-lume-robot-lamp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero-1280x720.jpg",
+          "cap": "ベッドの横で洗濯物を持つSyncere Lumeロボットランプ"
+        },
+        {
+          "t": "p",
+          "x": "Lumeは、ロボットが中に折りたたまれたフロアランプだ。作業を頼むと関節式アームを広げ、ベッドや洗濯物の山まで移動し、服をたたむ、ベッドを整える、枕を直す、片付けるといった柔らかい家事をこなす。SyncereはロボットエンジニアのAaron TanとAngus Fungが創業したPalo Altoのスタートアップだ。Lumeは$2,699からだ。"
+        },
+        {
+          "t": "video",
+          "yt": "ahBF2XkA9No"
+        },
+        {
+          "t": "p",
+          "x": "Syncereはロボットによる物体操作、オンボードの知覚、ローカルAI演算を軸に製品を作っており、見ることも判断することもデバイス上で行われる。すべてのLumeにはPersonalization Bandが付属する。服のたたみ方やベッドの整え方を実演すると、ロボットが好みを学ぶ。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-folded.jpg",
+          "cap": "たたむとLumeは普通のフロアランプになる。画像：Syncere"
+        },
+        {
+          "t": "p",
+          "x": "ランプ二台のDuetは$5,199だ。LumeCareは$489、新機能と今後のタスクを生涯利用できるAutonomyは$679、またはランプ一台あたり月$79だ。注文は招待制で、最初の出荷は2027年の第一・第二四半期となる。Syncereはa16z Speedrunが主導した$11M のプレシードラウンドを完了した。"
+        }
+      ]
+    },
+    "gadgets/moto-buds-ultra27-translate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Motorola"
+        },
+        {
+          "t": "p",
+          "x": "Motorola Signature 27とともに、Motorola史上最も多機能なイヤホンMoto Buds Ultra 27が登場した。Bose-tunedのオーディオ、適応型ノイズキャンセリング、そしてリアルタイム翻訳を含む一連のAI-powered機能を組み合わせている。"
+        },
+        {
+          "t": "p",
+          "x": "11mmのダイナミックドライバーと専用のバランスドアーマチュア、Bose SoundDesignチューニングとBose QuietControl ANCを備え、Hi-Res Audio、Dolby Atmos、Dolby Head Trackingにも対応する。バッテリー持続時間は最大八時間、ケース併用で37時間とされ、IP57の耐性を持つ。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27-lifestyle.jpg?resize=1920%2C1152&ssl=1",
+          "cap": "Motorola"
+        },
+        {
+          "t": "p",
+          "x": "AI Live Translateを使えば、翻訳された会話をイヤホンで直接聞けるが、対応するMotorolaのスマートフォンが必要で、利用できる言語は異なる。左のイヤホンを長押しするとMotorola Qiraが起動し、ハンズフリーの「Hey Qira」は今後数カ月以内に提供される。Head Gesturesでは、うなずいたり首を振ったりして通話に応答・拒否できる。"
+        },
+        {
+          "t": "p",
+          "x": "Moto Buds Ultra 27は今後数カ月以内に米国で発売される。MotorolaはUSでの価格や発売日をまだ発表していない。"
+        }
+      ]
+    },
+    "gadgets/homeview-thirdparty-chatbots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&w=1600",
+          "cap": "画像：9to5Mac/Anthropic/Pawel Czerwinski"
+        },
+        {
+          "t": "p",
+          "x": "iOS 27.3ベータで見つかったコードから、HomeViewがChatGPTやClaudeといったサードパーティ製AIチャットボットに対応する見通しであることがうかがえる。"
+        },
+        {
+          "t": "p",
+          "x": "リーカーのpdfuは今月初め、ConversationalApps向けの未使用フラグを見つけたことを受け、ChatGPTやClaudeなどのAIアプリがHomeViewに来る「かもしれない」と述べていた。pdfuは今、iOS 26.3のベータがその推測を裏付けたとしている。"
+        },
+        {
+          "t": "p",
+          "x": "「ついに来た。AIアプリがHomeViewにやって来る。HomeViewのCarPlayブリッジであるPebblePlayが、iOS 27.3でConversational Appsカテゴリーを得る。今回のアップデートでは双方向オーディオルーティング、セッション管理、割り込み処理の下地も加わる。まだ完全にはつながっていない」"
+        },
+        {
+          "t": "p",
+          "x": "AppleはCarPlayと同じように、これらのフラグでどのカテゴリーのサードパーティ製アプリをデバイス上で動かせるかを決めている。同じリーカーは最近、HomeViewがHomeKitのセキュリティカメラとして機能できることを示す証拠も見つけている。"
+        }
+      ]
+    },
+    "gadgets/aina-agent-ring": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Apoorv Shankarは、ごく近い将来、人は承認と拒否の連続を通じてテクノロジーと関わるようになると考えている。AIエージェントが自ら私たちのもとに来てタスクを片づけるようになる。そのたびにスマートフォンを取り出してイエスかノーかを答えるのは「ボトルネック」になると彼は言う。だからこそ彼はAina Ringを作った。小さなディスプレイとジョイスティックのようなボタンを備え、AIエージェントの操作をすばやく承認・拒否できる。現在予約を受け付けており、期間限定価格は$399、2027年1月に出荷が始まると小売価格は$499に上がる。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6aea53d84d3eef846d2fcf0b/master/w_1600%2Cc_limit/Aina%2520Ring%2520Hands.jpg",
+          "cap": "手にはめたAinaリング"
+        },
+        {
+          "t": "p",
+          "x": "チタン製のAina RingはMacsやiPhonesと接続する。位置情報、カレンダー、メールなどの個人データや、Ainaアプリで連携したUberやSpotifyなどのサードパーティーサービスから、ユーザーの日課を学習する。8:30 amにいつもUberで出勤しているなら配車を提案し、リングでイエスを弾けばタスクを処理してくれる。Shankarはこれを「Aina Cues」と呼び、リングのContext Aware Operating Systemがそれを支えている。ユーザーは自然言語で独自のCuesを作ったり、MuseやInstinctなど好みのAIエージェントを接続したりできる。"
+        },
+        {
+          "t": "p",
+          "x": "Aina Voiceでは、中央のボタンを押してAIエージェントと会話できる。「承認こそがインターフェースとインタラクションの未来になる」とShankarは語る。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6aea54376c2140d939cde56c/master/w_1600%2Cc_limit/Aina%2520Speaker%2520and%2520Shifter.png"
+        }
+      ]
     }
   }
 }

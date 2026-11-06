@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "section": "design",
   "items": [
     {
-      "title": "Edit and generate vectors with the Figma agent",
-      "url": "https://www.youtube.com/shorts/Vfh8hAEs7yk",
-      "source": "Figma (YouTube)",
-      "category": "social",
-      "tool": "Social",
-      "accent": "#ff2d55",
+      "title": "Build Live Apps in Cursor",
+      "url": "https://cursor.com/changelog/build-live-apps",
+      "source": "Cursor",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
       "motif": "frame",
-      "published_iso": "2026-11-05T08:00:06-08:00",
-      "og_image": "https://i.ytimg.com/vi/Vfh8hAEs7yk/maxresdefault.jpg",
-      "excerpt": "The Figma agent can now:Use style references to generate vector illustrations and iconsUtilize strokes for line work so you can adjust the weight or end caps...",
-      "rationale": "New Figma agent capability: style-referenced vector and icon generation with editable strokes, which designers can use in their files right away."
+      "published_iso": "2026-11-05T00:00:00.000Z",
+      "og_image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/changelog/opengraph-changelog-11-05-26.png",
+      "excerpt": "Build and deploy web apps directly in Cursor with cloud agents handling hosting, database, auth, and deployment.",
+      "rationale": "Primary-source release: Cursor now hosts and deploys live apps, with cloud agents handling the database and auth, so designer-built prototypes can ship without a separate backend setup."
     },
     {
-      "title": "Transform a quick drawing into a live app with Gemini.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/",
-      "source": "Google Blog",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "published_iso": "2026-11-05T17:00:00+00:00",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bring_your_paper_sketches_to_life_with_Gemi.max-1440x810.png",
-      "excerpt": "Turn your sketches into functional apps using Gemini. Upload your drawings to the Canvas tool to generate and refine code instantly. Try it now.",
-      "rationale": "Primary-source launch: Gemini Canvas turns paper sketches into working app code, making it quicker to go from a sketch to a prototype."
+      "title": "Chaos brings AI deeper into V-Ray Collection",
+      "url": "https://aecmag.com/visualisation/chaos-brings-ai-deeper-into-v-ray-collection/",
+      "source": "AEC Magazine",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "published_iso": "2026-11-06T12:08:04+00:00",
+      "og_image": "https://aecmag.com/wp-content/uploads/2026/11/Lead_Thumb_Image_Skyscraper_Clouds_02.jpg",
+      "excerpt": "Chaos brings AI deeper into V-Ray Collection. Features include in-product AI guidance, MCP support and 3D asset generation",
+      "rationale": "New V-Ray Collection release adds in-product AI guidance, MCP support and 3D asset generation, changing how viz artists drive the renderer."
     },
     {
-      "title": "Autodesk's most ambitious AI play yet",
-      "url": "https://develop3d.com/ai/autodesks-most-ambitious-ai-play-yet/",
-      "source": "DEVELOP3D",
+      "title": "Qonic AI launches inside BIM platform",
+      "url": "https://aecmag.com/bim/qonic-ai-launches-inside-bim-platform/",
+      "source": "AEC Magazine",
       "category": "cad",
       "tool": "Text-to-CAD",
       "accent": "#7928ca",
       "motif": "cube",
-      "published_iso": "2026-11-05T12:26:49+00:00",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/11/AU2026_DEMO-AutoAssemble.jpg",
-      "excerpt": "Autodesk AI vision goes beyond faster tools: a connected Assistant that decides how to solve tasks on your behalf.",
-      "rationale": "AU 2026 announcements: Autodesk's connected agentic Assistant and AutoAssemble demo, a new direction for CAD/product design work."
+      "published_iso": "2026-11-05T09:34:32+00:00",
+      "og_image": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_1.jpg",
+      "excerpt": "Qonic AI inside BIM platform. Agents work directly inside the model, letting users find, check, fix and create BIM data using plain language",
+      "rationale": "Launch of Qonic AI agents that work directly inside the BIM model, so users can find, check, fix and create model data in plain language."
     },
     {
-      "title": "Making Immersive LLM Chat Experiences More Accessible",
-      "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
-      "source": "Smashing Magazine",
-      "category": "tokens",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "published_iso": "2026-11-05T13:00:00+00:00",
-      "og_image": "https://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg",
-      "excerpt": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more acce",
-      "rationale": "Practical accessibility patterns from Eric Bailey for LLM chat UIs that teams can apply straight to the AI interfaces they are designing."
-    },
-    {
-      "title": "What AI has changed in Design Systems, and what is still up to us",
-      "url": "https://uxdesign.cc/what-ai-has-changed-in-design-systems-and-what-is-still-up-to-us-d4e8e8f4ceb2",
-      "source": "UX Collective",
-      "category": "tokens",
-      "tool": "Design Tokens",
+      "title": "Meta's Muse AI can create custom 'spaces' for the version of the app you need right now",
+      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "source": "The Verge",
+      "category": "workflow",
+      "tool": "AI Workflow",
       "accent": "#3b6bff",
-      "motif": "swatch",
-      "published_iso": "2026-11-04T22:12:07Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*er_HyzWo0FVdfLtEexv7KQ.jpeg",
-      "excerpt": "Design leaders argue AI can now spin up a component kit in minutes, but consistency across teams stays human work; a field study found 20 of 21 open-source design systems ship an MCP server while only 3 wire up Figma Code Connect.",
-      "rationale": "Field data (20 of 21 open-source design systems ship MCP, only 3 use Code Connect) that design-system teams can use to decide what to build next."
+      "motif": "frame",
+      "published_iso": "2026-11-06T18:10:10+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=8.0752843063528%2C7.2758349524933%2C91.924715693647%2C59.9199899822&w=1200",
+      "excerpt": "Meta's Muse assistant can now build 'spaces' - custom app-like experiences such as a shopping hub or school dashboard created by describing them, kept live with data from connected apps.",
+      "rationale": "New Muse feature generates app-like 'spaces' on demand from a description: generative UI reaching a mass consumer audience, which product designers will need to account for."
+    },
+    {
+      "title": "Agents Sucked At UI (Until Today)",
+      "url": "https://www.youtube.com/watch?v=xq0eB8vxeqk",
+      "source": "Theo - t3.gg (YouTube)",
+      "category": "social",
+      "tool": "Social",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "published_iso": "2026-11-03T15:00:28-08:00",
+      "og_image": "https://i.ytimg.com/vi/xq0eB8vxeqk/maxresdefault.jpg",
+      "excerpt": "Theo breaks down how he made Claude Opus 'hill climb' on UI output until agents finally produced the frontend design he wanted.",
+      "rationale": "Hands-on technique for iterating an agent on its UI output until the frontend design holds up, which design-engineers can reuse in their own agent loops."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.youtube.com/shorts/Vfh8hAEs7yk": {
+      "https://cursor.com/changelog/build-live-apps": {
         "verdict": "new",
-        "nearest": "https://www.youtube.com/watch?v=BS-N-AM5ql4",
+        "nearest": "https://runway.com/news/developers/runway-dev-plugins-for-coding-agents",
         "new_action": ""
       },
-      "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/": {
+      "https://aecmag.com/visualisation/chaos-brings-ai-deeper-into-v-ray-collection/": {
         "verdict": "new",
-        "nearest": "https://lovable.dev/blog/ai-models-and-tools-in-lovable",
+        "nearest": "https://www.cgchannel.com/2026/07/chaos-releases-v-ray-7-4-for-blender/",
         "new_action": ""
       },
-      "https://develop3d.com/ai/autodesks-most-ambitious-ai-play-yet/": {
+      "https://aecmag.com/bim/qonic-ai-launches-inside-bim-platform/": {
         "verdict": "new",
-        "nearest": "https://www.autodesk.com/products/fusion-360/blog/top-5-features-october-2026-fusion-update/",
+        "nearest": "https://aecmag.com/bim/snaptrude-agent-launches-for-bim-workflows/",
         "new_action": ""
       },
-      "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/": {
+      "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces": {
         "verdict": "new",
-        "nearest": "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9",
+        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
         "new_action": ""
       },
-      "https://uxdesign.cc/what-ai-has-changed-in-design-systems-and-what-is-still-up-to-us-d4e8e8f4ceb2": {
+      "https://www.youtube.com/watch?v=xq0eB8vxeqk": {
         "verdict": "new",
-        "nearest": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2",
+        "nearest": "https://dev.to/skillgild/claudes-frontend-design-skill-what-it-does-with-a-real-run-5alm",
         "new_action": ""
       }
     },
-    "note": "Dropped as a duplicate: Figma 'Workflow Lab: Build With Code on the Canvas' is a tutorial follow-up on code layers (published 2026-10-17 https://www.figma.com/blog/design-together-with-code-layers/) with no new release. Not picked on score or diversity: Qonic AI (2nd cad), Gemini Omni 1.2 Flash (2nd Google Blog; movies may also want it), NVIDIA Omniverse agents, IronCAD 2027 (AI is incidental), Bentley MCP, Firebase Studio sunset, DLSS 5 Hogwarts (game-side), DEVELOP3D opinion x2, Config India talk, dev.to Zoo Code MCP how-to, 'Agents struggle with bad UX'. Each history_match (related band) was checked: Gemini sketch-to-app vs Lovable 10-16, Autodesk AU2026 Assistant vs Fusion October update, UXC design-systems field study vs UXC 10-27 MCP library how-to. All are different events or articles, so they are new."
+    "note": "Exact-URL check against published_urls.json: none of the 5 picks appear in design or gadgets (gadgets has other Meta Muse stories, but not the 'spaces' feature). Dropped as duplicates: (1) Figma YouTube 'Speed up design system documentation with the Figma agent' is a tutorial rehash of the Figma agent design-system workflow already published 2026-10-24 (https://www.figma.com/blog/how-to-put-your-design-system-to-work-with-the-figma-agent/), with no new release. (2) Chaos 'brings AI design exploration into Enscape' comes from the same outlet on the same day as the V-Ray piece and covers the same Chaos AI rollout, so only the V-Ray article is kept. (3) Cluster c5: The AI Advantage video and the MindStudio Claude Design animation guide are one story (transcript to animated overlays with Claude Design). Both are how-tos, so neither was picked. Not picked on score or diversity: Figma Field/Friedberg conversation (interview, no release), UXC essays x2 (commentary), dev.to Figma MCP prep (how-to, close to the 10-27 UXC MCP library article), dev.to Lovable build and Design to Code #10 (personal accounts), DLSS 5 Hogwarts (game-side, and design ran the DLSS 5 launch on 09-03), Firebase Studio sunset (developer platform), NVIDIA Omniverse agents (closest earlier story is the 10-10 SimReady piece), Pika H3 Flex and Gemini Omni 1.2 Flash (secondary MindStudio pricing write-ups, and movies may also want them), Bentley MCP (analysis), DEVELOP3D opinion. Every history_match (related band) was reviewed: Qonic vs Snaptrude and Cursor live apps vs Runway Dev are different products, and Muse spaces vs Claude Duet are different features, so all are new."
   }
 }

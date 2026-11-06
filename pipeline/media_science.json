@@ -1,32 +1,7 @@
-{
-  "date": "2026-11-06",
-  "section": "science",
-  "media": [
-    {
-      "id": "llnl-strata-stitch-emulators",
-      "type": "image",
-      "src": "pipeline/media/llnl-strata-stitch-emulators.jpg"
-    },
-    {
-      "id": "jwst-flip-digital-twin",
-      "type": "video",
-      "src": "pipeline/media/jwst-flip-digital-twin.mp4",
-      "poster": "pipeline/media/jwst-flip-digital-twin.jpg"
-    },
-    {
-      "id": "tau-stanford-synthetic-learning",
-      "type": "image",
-      "src": "pipeline/media/tau-stanford-synthetic-learning.jpg"
-    },
-    {
-      "id": "hebrew-u-ai-sugar-substitutes",
-      "type": "image",
-      "src": "pipeline/media/hebrew-u-ai-sugar-substitutes.jpg"
-    },
-    {
-      "id": "mechanism-design-agent-alignment",
-      "type": "image",
-      "src": "pipeline/media/mechanism-design-agent-alignment.jpg"
-    }
-  ]
-}
+{"date":"2026-11-07","section":"science","media":[
+{"id":"psi-aaronson-ambainis-proof","type":"image","src":"pipeline/media/psi-aaronson-ambainis-proof.jpg"},
+{"id":"autodna-sjtu-selfdriving-lab","type":"image","src":"pipeline/media/autodna-sjtu-selfdriving-lab.jpg"},
+{"id":"mit-chemeleon-molecule-model","type":"image","src":"pipeline/media/mit-chemeleon-molecule-model.jpg"},
+{"id":"mitomatch-alphafold-mito-screen","type":"image","src":"pipeline/media/mitomatch-alphafold-mito-screen.jpg"},
+{"id":"sydney-riddled-basins-training","type":"image","src":"pipeline/media/sydney-riddled-basins-training.jpg"}
+]}

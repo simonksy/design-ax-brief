@@ -3368,6 +3368,121 @@
           "x": "Entre quienes estaban embarazadas al inscribirse, el chatbot se asoció con más complicaciones del embarazo autodeclaradas en el análisis secundario a 12 meses, pero no en los análisis longitudinales. Los autores señalan que los hallazgos secundarios y exploratorios deben interpretarse con cautela (NCT06053515)."
         }
       ]
+    },
+    "medicine/evident-vascular-ivus-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2020-01/carestream_3.jpg.webp?itok=2ti3yBTd"
+        },
+        {
+          "t": "p",
+          "x": "Evident Vascular, con sede en San Jose, California, afirma que la autorización regulatoria se aplica a su Guidance System y a los catéteres de imagen periférica Evident. Están destinados al examen de la patología durante ciertos procedimientos vasculares periféricos realizados por radiólogos y otros médicos."
+        },
+        {
+          "t": "p",
+          "x": "Evident afirma que el sistema está diseñado para mejorar la experiencia del clínico al combinar imágenes de alta fidelidad, “AI diseñada a medida” y flujos de trabajo sencillos y sin interrupciones. Entre sus características figuran catéteres plug-and-play sin lavado, una interfaz de usuario “intuitiva” y controles de voz manos libres."
+        },
+        {
+          "t": "p",
+          "x": "“La autorización de la FDA marca un hito importante para Evident y para los médicos que creyeron en esta plataforma desde el inicio de nuestra empresa”, dijo Howard Rosen, CEO y cofundador de Evident Vascular, en un comunicado el 4 de noviembre. “Diseñamos toda la arquitectura de imagen para ofrecer la fidelidad de imagen que los médicos necesitan en un sistema intuitivo y fácil de usar”."
+        },
+        {
+          "t": "p",
+          "x": "Evident señaló que su sistema integra un amplio ancho de banda de frecuencia, un diseño avanzado de transductor y un procesamiento de señal avanzado. Combina electrónica de imagen personalizada con procesamiento en tiempo real, aprovechando la computación acelerada de NVIDIA. Según la empresa, la AI está integrada en el sistema de imagen y recopila datos de los usuarios para ayudar a mejorar la experiencia. Evident indicó que planea incorporar más capacidades de AI para mejorar aún más los exámenes y los flujos de trabajo."
+        }
+      ]
+    },
+    "medicine/jama-scribes-language-equity": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los escribas de IA se han asociado con una menor carga de documentación y un cierre más rápido de las notas, pero su impacto en la equidad apenas se ha estudiado. Investigadores de Brigham and Women's Hospital y Harvard Medical School examinaron el cierre de notas en el mismo día según tipos de consulta definidos por la preferencia lingüística del paciente y el uso de intérprete."
+        },
+        {
+          "t": "p",
+          "x": "El estudio transversal abarcó consultas presenciales de atención primaria de adultos en 14 clínicas de Boston entre mayo de 2025 y mayo de 2026: 209.009 consultas, 117.121 pacientes y 286 clínicos, que decidían en cada consulta si usaban el escriba."
+        },
+        {
+          "t": "p",
+          "x": "Tras el ajuste, el uso del escriba de IA se asoció con un mayor cierre de notas en el mismo día en las consultas non-English-preference con concordancia lingüística (10,2 puntos porcentuales) y en las consultas concordantes en inglés (1,7 puntos porcentuales). Los resultados de las consultas con intérprete y sin intérprete no fueron concluyentes por la amplitud de los intervalos de confianza."
+        },
+        {
+          "t": "p",
+          "x": "Los autores sugieren que el menor rendimiento del escriba en conversaciones complejas, como las que tienen varios interlocutores o cambios de idioma, podría explicar los resultados con intérprete, y piden invertir en la formación de personal bilingüe y apoyar mejor los flujos de trabajo con intérprete."
+        }
+      ]
+    },
+    "medicine/nih-stroke-wrist-daps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.nih.gov/sites/default/files/2026-11/20261105-stroke.jpg",
+          "cap": "Los dispositivos de muñeca pueden aportar información útil sobre la capacidad de usar los brazos durante la rehabilitación tras un ictus. voronaman / Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "Tras un ictus, las pruebas clínicas que siguen la recuperación del brazo requieren mucho tiempo, a menudo no detectan cambios pequeños y no reflejan el uso cotidiano del brazo. Un equipo de investigadores NIH-funded (financiado por los NIH) dirigido por el Dr. Sunghoon Lee, de la University of Massachusetts Amherst, creó la escala digital de rendimiento del brazo (DAPS), publicada en Science Translational Medicine el 30 de septiembre de 2026."
+        },
+        {
+          "t": "p",
+          "x": "Sesenta y una personas que habían sufrido un ictus en los seis meses previos y 75 personas sanas llevaron acelerómetros de muñeca durante miles de horas en total. Los investigadores usaron aprendizaje automático para relacionar los movimientos cotidianos del brazo con el rendimiento en las pruebas clínicas."
+        },
+        {
+          "t": "p",
+          "x": "La DAPS siguió las mejoras del movimiento del brazo tan bien como las pruebas clínicas y resultó igual de útil en otros 79 pacientes que habían sufrido un ictus más de seis meses antes. Incluso pudo distinguir a pacientes con la máxima puntuación clínica posible de personas que nunca habían tenido un ictus, y en simulaciones de dos ensayos anteriores requirió muchos menos participantes."
+        }
+      ]
+    },
+    "medicine/cedars-tavr-cta-fibrosis": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un modelo de IA de aprendizaje profundo puede predecir la mortalidad a largo plazo al cuantificar el tejido fibrótico y calcificado de la válvula aórtica en angiografías por CT (CTA), según un estudio publicado el 5 de noviembre en JACC: Cardiovascular Imaging. El estudio internacional y multicéntrico, dirigido por Kajetan Grodecki, MD, PhD, de Cedars-Sinai Medical Center, incluyó a 1.674 pacientes que se sometieron a CTA en nueve centros para la planificación rutinaria de TAVR."
+        },
+        {
+          "t": "p",
+          "x": "El sistema nnU-Net-based se entrenó con 468 pacientes y se aplicó a un conjunto de prueba externo de 1.206 pacientes de centros de Polonia, Alemania, el Reino Unido y Estados Unidos."
+        },
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/cac-ai-model.5zit2QCAiF.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+          "cap": "Comparación de la segmentación por aprendizaje profundo (A) con la histología cuantitativa (B), que muestra una excelente concordancia entre ambos métodos (C). JACC: Cardiovascular Imaging"
+        },
+        {
+          "t": "p",
+          "x": "El modelo completó el análisis del tejido en 1,35 minutos de media, frente a 7,2 minutos de los lectores expertos, con una concordancia excelente con los expertos (r = 0,915) y con la histología (r = 0,909). En una media de 4,1 años murieron 469 pacientes (40 %). Los pacientes con mayor volumen de tejido fibrótico (>0,940 cm³) tuvieron un riesgo de muerte 2 veces mayor, y los de atenuación cálcica densa, 1,5 veces mayor."
+        }
+      ]
+    },
+    "medicine/medicine-llm-steering-depression": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Este estudio de mejora de la calidad evalúa si la dirección de activaciones (activation steering) cambia las respuestas de un modelo de lenguaje grande (LLM) de pesos abiertos a preguntas sobre el tratamiento de la depresión. La dirección de activaciones en tiempo de inferencia altera las activaciones del modelo para desplazar su comportamiento en una dimensión objetivo, sin que el usuario final pueda detectarlo."
+        },
+        {
+          "t": "p",
+          "x": "Con la herramienta de código abierto DS4 se aplicó a DeepSeek version 4 Flash una única dirección que contrastaba la medicación antidepresiva con enfoques autodirigidos (dieta, ejercicio, meditación, suplementos dietéticos). Se generaron respuestas a 12 escenarios de consejo sobre el tratamiento de la depresión con 30 amplitudes de dirección más una línea base sin dirección, y las puntuó un evaluador LLM validado frente a un experto humano cegado."
+        },
+        {
+          "t": "p",
+          "x": "El equilibrio entre medicación y autocuidado puntuado por el LLM (LLM-rated) disminuyó 0.32 por unidad de amplitud, de 1.25 con la dirección más fuerte hacia la medicación a 0.92 sin dirección y 0.17 con la dirección más fuerte hacia el autocuidado."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2dfd/13732501/7d90c3b3ea8e/jamanetwopen-e2641142-g001.webp",
+          "cap": "Resultados de la dirección de atención (attention steering) sobre el contenido de medicación y autocuidado en los consejos para tratar la depresión"
+        },
+        {
+          "t": "p",
+          "x": "En los escenarios sin preferencia de tratamiento declarada, la dirección desplazó con más fuerza el peso de la medicación (β = −0.44 por unidad de amplitud). La recomendación de consultar a un clínico apareció en 322 de 372 respuestas (87%) y no varió con la amplitud."
+        },
+        {
+          "t": "p",
+          "x": "El efecto dependió de la preferencia del paciente: no anuló una petición explícita a favor o en contra de la medicación, pero sí afectó a usuarios sin preferencia declarada, que pueden ser los más susceptibles al encuadre. Los resultados sugieren la necesidad de auditorías y evaluaciones comparativas independientes si los modelos se usan para orientar decisiones clínicas."
+        }
+      ]
     }
   }
 }

@@ -9013,6 +9013,185 @@
           "x": "Jaenada fue premiado por ''L'Inconnue du quai de Javel'', que investiga el asesinato sin resolver de una joven en Paris a finales de la década de 1940. La novela de Orélien fue retirada de la segunda lista de finalistas del Goncourt por sospechas de uso de AI y acusaciones de plagio."
         }
       ]
+    },
+    "books/proudly-human-certify": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132673-2.JPG",
+          "cap": "Alan Finkel. Cortesía de Proudly Human"
+        },
+        {
+          "t": "p",
+          "x": "A medida que la escritura generada por IA (AI-generated) se vuelve más difícil de detectar, Proudly Human, con sede en Australia, es la última empresa de un campo cada vez más concurrido que ofrece certificar que los libros y otros productos culturales fueron hechos por personas. La fundó a finales del año pasado Alan Finkel, que fue científico jefe del gobierno australiano."
+        },
+        {
+          "t": "p",
+          "x": "Los autores deben declarar primero que su uso de la IA fue “de minimis”, según un estándar adaptado de las directrices de la Oficina de Derechos de Autor de EE. UU. (U.S. Copyright Office): la IA puede ayudar con la investigación, la lluvia de ideas y la corrección ortográfica, pero no con la redacción de oraciones o párrafos. “Aquí usamos la IA para detectar la presencia de IA”, dijo Finkel. Cada manuscrito pasa por cuatro detectores comerciales de IA; a grandes rasgos, un libro con menos del 10% de contenido generado por IA aprueba, uno con más del 30% no aprueba, y cualquier resultado intermedio da pie a una conversación con el autor."
+        },
+        {
+          "t": "p",
+          "x": "La certificación cuesta 60 dólares por título, que solo se pagan si se aprueba, y cada libro certificado recibe un número único y un código QR que enlaza a una página de verificación. Entre los competidores están el sello Human Authored de la Authors Guild, presente en unos 6500 libros, y la startup británica (U.K.) Books by People."
+        },
+        {
+          "t": "p",
+          "x": "Finkel dijo que negocia con dos de las Big Five, que “de algún modo lo usan internamente, pero son reacias a hacer algo públicamente”. Y añadió: “Somos pro-humanos, no anti-IA” (“We’re pro-human, we’re not anti-AI”)."
+        }
+      ]
+    },
+    "books/books-library-ai-scrapers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.cbc.ca/ais/47809d1c-efd6-4753-9529-d57b9893d8fb,1793831483888/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C64%2C3000%2C1687%29%3BResize%3D620",
+          "cap": "Estudiantes trabajan con portátiles en la Biblioteca Pedagógica de la Universidad Libre de Berlín. (Sean Gallup/Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "Las bibliotecas académicas intentan contener enjambres de bots de extracción de datos —que ralentizan o hacen caer sitios pensados para estudiantes, investigadores y el público— mientras las empresas de IA siguen buscando contenido para alimentar sus grandes modelos de lenguaje."
+        },
+        {
+          "t": "p",
+          "x": "Las bibliotecas, los museos y otras instituciones del patrimonio cultural son objetivos prioritarios porque tienen información verificada y de calidad que, por lo general, no está detrás de muros de pago ni de inicios de sesión. “A veces el tráfico de bots empeora tanto que los sitios se caen por completo durante un rato”, dijo Dean Seeman, de las Bibliotecas de la Universidad de Victoria."
+        },
+        {
+          "t": "img",
+          "src": "https://i.cbc.ca/ais/1796f05f-10dd-436d-a15e-0ec59c088e90,1793831895338/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8094%2C5399%29%3B",
+          "cap": "Trabajadores introducen datos de un documento antiguo de la McMillan Memorial Library durante una tarea de digitalización en Nairobi. (Patrick Meinhardt/AFP/Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "La Universidad de Carolina del Norte en Chapel Hill informó que recibió más de 11.000 búsquedas de música finlandesa desde miles de direcciones de internet distintas en un mismo día. Eric Hellman, de Project Gutenberg, afirma que los bots de scraping de IA a veces ignoran robots.txt y que, como una granja de bots puede operar desde miles de direcciones IP, bloquear las IPs problemáticas ya no sirve."
+        },
+        {
+          "t": "p",
+          "x": "Algunas bibliotecas han implantado pruebas CAPTCHA o han empezado a exigir credenciales de acceso. Anthropic, OpenAI, Google y Microsoft se mostraron a favor de respetar una única señal estandarizada de exclusión en robots.txt, aunque su cumplimiento sería voluntario."
+        },
+        {
+          "t": "img",
+          "src": "https://i.cbc.ca/ais/1e1cc64e-730f-46b0-a285-74cec0166522,1793832286672/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5760%2C3840%29%3B",
+          "cap": "La sala de lectura principal de la Biblioteca Pública de Nueva York. (Dominick Reuter/AFP/Getty Images)"
+        }
+      ]
+    },
+    "books/youngpoong-ai-bookbread": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "http://www.worktoday.co.kr/news/photo/202611/91560_131804_421.jpg",
+          "cap": "La ‘Panadería de Libros IA’ que Youngpoong presentó el día 3. (Foto: cortesía de Youngpoong)"
+        },
+        {
+          "t": "p",
+          "x": "La librería Youngpoong presentó el día 3 la ‘Panadería de Libros IA’, un servicio que utiliza inteligencia artificial (IA) para analizar las tendencias de lectura de los lectores y proponer libros personalizados."
+        },
+        {
+          "t": "p",
+          "x": "Lo característico del servicio es que combina datos en línea y fuera de línea."
+        },
+        {
+          "t": "p",
+          "x": "Analiza los libros que el cliente buscó o consultó en la tienda en línea, los títulos guardados en su biblioteca y en el carrito, y su historial de compras y reseñas, y los utiliza para recomendaciones personalizadas."
+        },
+        {
+          "t": "p",
+          "x": "Además, ofrece por separado una lista de libros que refleja las ventas en las tiendas Youngpoong de todo el país."
+        },
+        {
+          "t": "p",
+          "x": "Al sumar la situación real de ventas en tienda a los registros de uso en línea, amplía el alcance de las recomendaciones."
+        },
+        {
+          "t": "p",
+          "x": "Para identificar las tendencias de lectura se recurrió a personajes de pan familiares. Cuando el usuario completa una prueba al estilo de un juego de dilemas, puede ver su gusto lector como uno de 8 tipos."
+        },
+        {
+          "t": "p",
+          "x": "Entre los representativos están el ‘pan de judía roja (tipo verificado)’, que prefiere libros apreciados durante mucho tiempo; el ‘castella (tipo emocional)’, que responde emocionalmente a frases e historias; y el ‘pan de sal (tipo realista)’, que observa las tendencias sociales a través de los libros."
+        },
+        {
+          "t": "p",
+          "x": "También hay un espacio para revisar la actividad lectora individual. En ‘Mi pan de libros’ se puede consultar la tarjeta que muestra el tipo de lector, así como un nivel de lectura de 5 grados calculado según la puntuación de actividad mensual."
+        },
+        {
+          "t": "p",
+          "x": "Ofrece además una infografía con forma de pan de molde que visualiza los patrones de lectura por día de la semana y las áreas y autores de interés, y un calendario de lectura que reúne visitas, compras y reseñas. También permite compartir la tarjeta propia con otras personas."
+        },
+        {
+          "t": "p",
+          "x": "La sección de recomendaciones ‘Paseo de pan de libros’ se compone de 5 rutas: restaurante de siempre, restaurante popular, restaurante de maestros, restaurante de gusto y restaurante singular."
+        },
+        {
+          "t": "p",
+          "x": "Con base en un total de 17 temas, propone libros variados según las áreas de interés, los autores preferidos y las palabras clave del usuario. En particular, en la ruta del restaurante popular se pueden ver los libros más vendidos en las tiendas físicas de todo el país."
+        },
+        {
+          "t": "p",
+          "x": "También destaca una función para ver lo que eligen otros lectores. En ‘Pueblo del pan de libros’ se pueden consultar los libros y reseñas más elegidos por lectores del mismo tipo de pan."
+        },
+        {
+          "t": "p",
+          "x": "Los libros recomendados por 3 lectores con gustos afines se presentan clasificados como ‘acierto de gusto, empatía y respeto’. El usuario también puede indicar cuánto se ajusta cada libro recomendado a su gusto."
+        },
+        {
+          "t": "p",
+          "x": "Shin Ho-young, jefe del equipo en línea de Youngpoong, dijo: \"Lo esencial es ofrecer una experiencia de lectura cercana y nueva en la que, como quien elige pan, uno descubre su gusto lector y recibe recomendaciones de libros acordes con él\". Y agregó: \"Nos centramos en crear nuevas conexiones entre libros y lectores proponiendo libros que se ajusten a los gustos e intereses de cada cliente\"."
+        },
+        {
+          "t": "p",
+          "x": "Añadió además: \"Seguiremos combinando la tecnología de IA con la capacidad de curaduría de Youngpoong para sumar el placer de la lectura a la vida diaria de los clientes y convertirlo en el espacio más emocionante para descubrir libros\"."
+        }
+      ]
+    },
+    "books/holocaust-ai-transcription": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/what-ai-can-lose-when.jpg",
+          "cap": "“Tablillas de arcilla”, de Eliezer Heiman. Crédito: Ghetto's Fighter's House Archive"
+        },
+        {
+          "t": "p",
+          "x": "La investigadora de la Universidad de Tel Aviv Yael S. Hacohen estudia escritos del Holocausto sobre superficies frágiles, en los que las palabras y sus soportes físicos permanecen estrechamente ligados. Las herramientas computacionales facilitan buscar, transcribir y traducir las colecciones —“ventajas sustanciales”—, pero también pueden ocultar evidencia material. Su estudio en AI & Society introduce la “incertidumbre material”: escritura cuyo significado sigue atado a su forma dañada o inestable."
+        },
+        {
+          "t": "p",
+          "x": "Siguió reproducciones digitales de tres escritos a lo largo de la mejora de imagen, la separación de regiones, el reconocimiento de escritura a mano, la corrección de texto, la traducción y la generación de descripciones: los dibujos y leyendas de Sal Bramson sobre tela de algodón procedentes de una prisión de Ámsterdam, el poema ilustrado de Eva Schulzová de Terezín y las tablillas de arcilla de Eliezer Heiman del gueto de Kovno. El estudio no mide la precisión general de la IA."
+        },
+        {
+          "t": "p",
+          "x": "En la tela de Bramson, separar los dibujos de la escritura facilitó el procesamiento, pero debilitó el papel de ocultamiento del tejido y el hecho de que las leyendas se dirigían a su madre. En el poema de Schulzová, el flujo de trabajo recuperó gran parte del texto, pero describió la comida imaginada como un “bodegón de comida”. En las tablillas de Heiman, las letras grabadas y los daños proyectaban sombras similares, por lo que no se pudo separar con fiabilidad la inscripción del deterioro."
+        },
+        {
+          "t": "p",
+          "x": "Hacohen recomienda que las transcripciones enlacen con las zonas correspondientes de la imagen, que los sistemas muestren qué se mejoró, suprimió, infirió o corrigió manualmente, y que las lecturas inciertas sigan marcadas como inciertas aunque exista una traducción fluida."
+        }
+      ]
+    },
+    "books/books-dreambeans-india": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?w=1024",
+          "cap": "Google Dreambeans"
+        },
+        {
+          "t": "p",
+          "x": "Google lanzó en India su aplicación experimental de AI, Dreambeans; es su primer mercado fuera de U.S. El lunes, Google amplió a India Dreambeans, disponible en Android e iOS, con soporte para 13 idiomas locales, entre ellos hindi, panyabí, tamil, telugu y bengalí, además del inglés. El lanzamiento llega menos de dos meses después de que Google abriera la aplicación a todos los usuarios elegibles de U.S. de 18 años o más."
+        },
+        {
+          "t": "p",
+          "x": "Presentada en junio, Dreambeans usa información de los servicios de Google conectados, como Calendar, Gemini, Gmail, Photos, Search y YouTube, para generar de forma proactiva historias ilustradas y personalizadas sobre los intereses y la vida cotidiana de los usuarios, sin que tengan que escribir un prompt. Google añadió hace poco una función que usa su modelo de generación de video Veo para animar imágenes en algunas historias."
+        },
+        {
+          "t": "p",
+          "x": "Según estimaciones de Sensor Tower, Dreambeans acumula cerca de 55,000 descargas en U.S. desde su debut en junio; en octubre las descargas cayeron un 84% respecto al mes anterior, hasta unas 5,500. Los usuarios solo pueden elegir un idioma a la vez para sus historias, lo que podría limitar su atractivo en India, donde mucha gente mezcla hindi e inglés."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios pueden elegir qué servicios de Google conectar y desconectarlos en cualquier momento, además de borrar sus datos de Dreambeans, dijo Gozde Oznur, gerente de producto. Dreambeans solo está disponible para titulares de cuentas personales de Gmail, y las historias generadas solo las ve el titular de la cuenta."
+        }
+      ]
     }
   }
 }

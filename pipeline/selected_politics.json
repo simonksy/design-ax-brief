@@ -1,107 +1,107 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "section": "politics",
   "selection_mode": "curator (user deferred)",
   "items": [
     {
       "rank": 1,
-      "title": "OCC Issues Supervisory Framework on Bank Use of Super Intelligence",
-      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-97.html",
-      "source": "U.S. Office of the Comptroller of the Currency",
-      "published_iso": "2026-11-04T11:30:00+00:00",
-      "og_image": "https://www.occ.gov/images/c-clamp-images/occ-gov.png",
-      "excerpt": "The OCC issued its first supervisory framework (Bulletin 2026-54) for bank examiners on banks' use of AI and agentic AI (branded 'Super Intelligence'); examiners are told not to treat it as a separate risk category and banks need no separate risk appetite.",
+      "title": "기본법 우선 등 'AI 입법 프레임워크' 나왔다…국가AI전략위, 7개 TF 신설",
+      "url": "https://www.etnews.com/20261106000224",
+      "source": "전자신문",
+      "published_iso": "2026-11-06T16:00:00+09:00",
+      "og_image": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1722109085f94daf9226ad339aae6bd1_P1.jpg",
+      "excerpt": "Korea's National AI Strategy Committee adopted the 'Korea AI Legislative Framework' at its 3rd plenary on Nov 6: amend the AI Basic Act or existing laws before writing new standalone AI laws, fill gaps in defense/national security, and boost predictability for businesses; 477 AI-related bills have been filed in the 22nd National Assembly.",
       "tool": "Politics",
       "category": "politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "rationale": "Primary agency release: first US bank-examiner framework for AI/agentic AI, a concrete rule change for anyone building AI for banks."
+      "rationale": "Official national framework that sets how Korea will legislate AI (amend the Basic Act first, no new standalone laws), with 477 pending bills in scope; changes the outlook for anyone building AI in Korea."
     },
     {
       "rank": 2,
-      "title": "France, US clash over G7 effort on AI safety",
-      "url": "https://www.politico.eu/article/france-us-clash-ai-safety-talks-a-g7/",
-      "source": "POLITICO Europe",
-      "published_iso": "2026-11-05T14:37:21+00:00",
-      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/05/G7-AI-scaled.jpg",
-      "excerpt": "France's proposal for G7-level oversight of AI safety met White House opposition, which called it 'unnecessary bureaucracy', exposing a split ahead of further G7 AI talks.",
+      "title": "Department of Justice Launches Super Intelligence Task Force",
+      "url": "https://www.justice.gov/opa/pr/department-justice-launches-super-intelligence-task-force",
+      "source": "U.S. Department of Justice",
+      "published_iso": "2026-11-04T12:34:40-05:00",
+      "og_image": "https://www.justice.gov/themes/custom/usdoj_uswds/images/metatag-image--press-release.png",
+      "excerpt": "DOJ announced its Super Intelligence (SI) Task Force (DOJ-SITF) to counter malicious use of AI and protect U.S. AI leadership, following a presidential memo last month; the administration uses 'super intelligence' as its term for AI.",
       "tool": "Politics",
       "category": "politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "Fresh geopolitics/policy news: a named French G7 AI-safety oversight proposal and the White House's attributed rejection; whitelisted outlet."
+      "rationale": "Primary agency release: a new federal enforcement body for AI misuse, the kind of decision this section prefers to commentary."
     },
     {
       "rank": 3,
-      "title": "CERT-In sets six-hour reporting deadline for AI security incidents",
-      "url": "https://indianexpress.com/article/business/cert-in-reporting-deadline-ai-security-incidents-10951358/",
-      "source": "The Indian Express",
-      "published_iso": "2026-11-05T02:11:04+00:00",
-      "og_image": "https://images.indianexpress.com/2026/11/ai-security-1600.jpg",
-      "excerpt": "India's CERT-In issued AI security audit guidelines with a four-tier risk framework and a mandatory six-hour reporting window for AI-related cybersecurity incidents, building on its 2022 directions.",
+      "title": "UK ministers seek powers to investigate when AI agents are let off the leash",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889",
+      "source": "The Register",
+      "published_iso": "2026-11-06T11:00:00.000Z",
+      "og_image": "https://image.theregister.com/2918046.jpg?imageId=2918046&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "excerpt": "A new clause added at Lords third reading of the UK Cyber Security and Resilience Bill would let ministers regulate how essential-service operators and digital providers deploy agentic AI, require incident reports when safeguards fail, and enable searches, seizures and inspections.",
       "tool": "Politics",
       "category": "politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "New binding regulator guideline (four-tier risk + 6-hour incident reporting) that directly changes compliance for AI deployers in India."
+      "rationale": "New government clause at Lords third reading giving ministers powers to regulate agentic AI deployment and require incident reports; directly affects anyone deploying AI agents in UK essential services."
     },
     {
       "rank": 4,
-      "title": "Delhi High Court protects actor Kriti Sanon against AI deepfakes, impersonation",
-      "url": "https://indianexpress.com/article/legal-news/delhi-high-court-kriti-sanon-ai-deepfakes-impersonating-10951610/",
-      "source": "The Indian Express",
-      "published_iso": "2026-11-05T10:35:37+00:00",
-      "og_image": "https://images.indianexpress.com/2026/11/Kriti-Sanon_20261105093311.jpg",
-      "excerpt": "The Delhi High Court ordered takedown of URLs carrying AI deepfakes of the actor and directed authorities to issue blocking orders against sites hosting pornographic deepfakes; the court said personality rights are not a single cause of action.",
+      "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+      "source": "Ars Technica",
+      "published_iso": "2026-11-06T14:13:32+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
+      "excerpt": "House Republican chairs Moolenaar, Mast and Crawford sent a letter asking Nvidia CEO Jensen Huang to brief Congress on his ties to an executive at Singapore cloud firm Megaspeed, previously scrutinized for possible AI-chip smuggling to China; Nvidia rejects the claims.",
       "tool": "Politics",
       "category": "politics",
-      "accent": "#eb367f",
+      "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Court ruling on AI deepfakes and personality rights with takedown and blocking orders — a concrete legal decision, not commentary."
+      "rationale": "Geopolitics axis: a formal congressional letter on AI-chip smuggling concerns. The claims are attributed to the committee chairs, and Nvidia's denial is included."
     },
     {
       "rank": 5,
-      "title": "IPOPHL readies measure protecting artists vs AI use",
-      "url": "https://www.pna.gov.ph/article/ipophl-readies-measure-protecting-artists-vs-ai-use",
-      "source": "Philippine News Agency",
-      "published_iso": "2026-11-05T06:14:02+00:00",
-      "og_image": "https://pna.gov.ph/_assets/storage/photo-assets/QcBTy2fJfkOzCUYhLONezB7N9vVmuziA86g2HzxS.webp",
-      "excerpt": "The Intellectual Property Office of the Philippines opened public consultation on a draft copyright guideline governing AI use of artists' works.",
+      "title": "'Defamatory, attack on woman's dignity': Delhi HC orders takedown of CM's AI videos shared by AAP",
+      "url": "https://indianexpress.com/article/legal-news/delhi-hc-orders-aap-takedown-ai-deepfake-videos-cm-rekha-gupta-10953913/",
+      "source": "The Indian Express",
+      "published_iso": "2026-11-06T22:33:45+05:30",
+      "og_image": "https://images.indianexpress.com/2026/10/rekha-gupta_20261001224747_20261007213622_20261008233608_20261016000054_20261020112732.jpg",
+      "excerpt": "The Delhi High Court ordered AAP and intermediaries including X and Meta to take down AI-generated videos and a deepfake depicting Delhi CM Rekha Gupta as a liquor vendor, calling them defamatory and an attack on a woman's dignity.",
       "tool": "Politics",
       "category": "politics",
-      "accent": "#f5a623",
+      "accent": "#ff5a4d",
       "motif": "cube",
-      "rationale": "Official draft copyright guideline on AI use of creative works opened for consultation — a new regulatory filing from an IP office."
+      "rationale": "Elections/political-communication axis: a court ruling that orders a political party and platforms to take down AI deepfakes of a sitting chief minister. It is a separate case from the 11-06 Kriti Sanon ruling."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-97.html": {
+      "https://www.etnews.com/20261106000224": {
         "verdict": "new",
-        "nearest": "https://www.theregister.com/ai-and-ml/2026/10/08/singapores-central-bank-wants-all-fintech-ai-use-cases-subject-to-independent-review/5301798",
+        "nearest": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&bbsSeqNo=94&nttSeqNo=3187861",
         "new_action": ""
       },
-      "https://www.politico.eu/article/france-us-clash-ai-safety-talks-a-g7/": {
+      "https://www.justice.gov/opa/pr/department-justice-launches-super-intelligence-task-force": {
         "verdict": "new",
-        "nearest": "https://www.politico.eu/article/document-read-the-charter-for-the-white-houses-super-intelligence-force/",
+        "nearest": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-launches-2027-presidential-si-challenge-and-establishes-first-lady-seal-of-si-readiness/",
         "new_action": ""
       },
-      "https://indianexpress.com/article/business/cert-in-reporting-deadline-ai-security-incidents-10951358/": {
+      "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889": {
+        "verdict": "follow-up",
+        "nearest": "https://www.parliament.uk/business/news/2026/october-2026/cyber-security-and-resilience-network-and-information-systems-bill-undergoes-further-scrutiny-in-the-lords/",
+        "new_action": "New clause added to the Cyber Security and Resilience Bill at Lords third reading, giving ministers powers to regulate agentic-AI deployment, require incident reports and carry out inspections/seizures (the 10-28 card covered report-stage votes on AISI review and a defeated frontier-AI amendment)."
+      },
+      "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/": {
         "verdict": "new",
-        "nearest": "https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872",
+        "nearest": "https://www.channelnewsasia.com/asia/malaysia-airport-customs-seize-advanced-ai-chips-smuggling-6498976",
         "new_action": ""
       },
-      "https://indianexpress.com/article/legal-news/delhi-high-court-kriti-sanon-ai-deepfakes-impersonating-10951610/": {
+      "https://indianexpress.com/article/legal-news/delhi-hc-orders-aap-takedown-ai-deepfake-videos-cm-rekha-gupta-10953913/": {
         "verdict": "new",
-        "nearest": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
-        "new_action": ""
-      },
-      "https://www.pna.gov.ph/article/ipophl-readies-measure-protecting-artists-vs-ai-use": {
-        "verdict": "new",
-        "nearest": "",
+        "nearest": "https://indianexpress.com/article/legal-news/delhi-high-court-kriti-sanon-ai-deepfakes-impersonating-10951610/",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates/follow-ups: Semafor 'AI-generated data found on Nigeria voter roll' (likely-repeat of 10-28 Channels TV INEC probe, no new decision); POLITICO EU 'Commission turns to AI to write better laws' (same running story as 11-04 Rapporteur 'EU executive wants to boost AI use in 2027 work plan' and 11-05 Metsola item; no new decision); Yonhap culture minister on AI bulk book buying (reaction in the Anthropic Korean-book-buying running story already covered by politics 10-07 Japanese publishers item and books section bizhankook 10-27; statement, not a decision). Dropped on scope: Lawfare x2, Tech Policy Press, The Register 'sovereign agents', The Verge Congress, MIT TR 'loyalty test' (analysis/commentary); GOV.UK Sovereign AI startup backing (funding noise); CNBC Moonshot and Tom's Hardware HBM smuggling (sourced reporting, no enforcement action; ranked below primary decisions); The Diplomat Korean startup (AI incidental); Scottish committee inquiry and etnews Assembly budget review (weaker than picks). Outlet spread: Indian Express x2 (cap), OCC, POLITICO EU, PNA = 4 outlets. Cross-section check: published_urls.json is too large to read in full here (no grep available); picks are politics-native regulator/court items dated 11-04/11-05 — orchestrator should exact-grep the 5 URLs before roll, especially the IPOPHL artists item against books/music/design."
+    "note": "Dropped as duplicate/running story: POLITICO EU 'Commission turns to AI to write better laws' (same running story as 11-04 Rapporteur EU 2027 work plan + 11-05 Metsola; already dropped 11-06, no new decision). Held back: Yonhap 'Meta halts AI terms indefinitely' (running story: 10-22 publishers, 10-24 Verge delay, 11-02 CMA probe, 11-05 Brazil court; the indefinite halt is a corporate decision, not a government one, and marketing may also claim it, so it was ranked below the primary decisions); The Verge 'OpenAI drops data-center NDAs' (corporate response to the 11-05 Axios 'AI earthquake' story). Dropped on scope: Yonhap Trump Truth Social post (statement/commentary); Ars ChatGPT murder lawsuit (valid filing, but Ars already has a pick and the 5 slots went to stronger policy items); GOV.UK facial recognition laws and Canada Budget ch.5 (good primary items, but the UK axis is already covered by the agentic-AI clause; Canada is next in line if a swap is needed); Indian Express CERT-In Crafty Falcon/Mythos (cyber advisory and testing access, weaker on policy; Indian Express at 1 pick); PIPC forum (event, no decision); Verge Amsterdam protest; POLITICO EU budget (AI incidental); off-list The Hill Gemini lawsuit, The Record CEO-spoofing, Tom's Hardware x2 (secondhand Bloomberg/CNBC reporting). Outlet spread: etnews, justice.gov, The Register, Ars Technica, Indian Express = 5 outlets, 1 each. Cross-section check: published_urls.json (233k tokens) is too large to read here and there is no grep tool. The orchestrator should exact-grep these 5 URLs plus 'Megaspeed' and 'Super Intelligence Task Force' across all sections before roll. Backups in order: Canada Budget ch.5, GOV.UK facial recognition, Ars ChatGPT lawsuit."
   }
 }

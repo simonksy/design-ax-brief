@@ -3368,6 +3368,121 @@
           "x": "Among those pregnant at enrollment, the chatbot was associated with more self-reported pregnancy-related complications in the secondary 12-month analysis, but not in longitudinal analyses. The authors say secondary and exploratory findings should be interpreted cautiously (NCT06053515)."
         }
       ]
+    },
+    "medicine/evident-vascular-ivus-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2020-01/carestream_3.jpg.webp?itok=2ti3yBTd"
+        },
+        {
+          "t": "p",
+          "x": "San Jose, California-based Evident Vascular says the regulatory win applies to its Guidance System and Evident peripheral imaging catheters. They're intended for examination of pathology during certain peripheral vascular procedures handled by radiologists and other docs."
+        },
+        {
+          "t": "p",
+          "x": "Evident says the system is designed to improve the clinician experience by combining high-fidelity imaging, “purpose-built AI,” and simple workflows without disruptions. Features include flush-less plug-and-play catheters, an “intuitive” user interface, and hands-free voice controls."
+        },
+        {
+          "t": "p",
+          "x": "“FDA clearance marks an important milestone for Evident and the physicians who believed in this platform from our company's inception,” Howard Rosen, CEO and co-founder of Evident Vascular, said in a statement Nov. 4. “We engineered the entire imaging architecture to deliver the image fidelity physicians need in a system that is both intuitive and easy to use.”"
+        },
+        {
+          "t": "p",
+          "x": "Evident said its system integrates broad frequency bandwidth, advanced transducer design and advanced signal processing. It pairs custom imaging electronics with real-time processing, harnessing NVIDIA accelerated computing. AI is integrated into the imaging system and gathers user data to help improve the experience, according to the company. Evident said it plans to introduce further AI capabilities to further enhance exams and workflows."
+        }
+      ]
+    },
+    "medicine/jama-scribes-language-equity": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI scribes have been linked to lower documentation burden and faster note closure, but their equity impact is poorly studied. Researchers at Brigham and Women's Hospital and Harvard Medical School examined same-day note closure across encounter types defined by patient language preference and interpreter use."
+        },
+        {
+          "t": "p",
+          "x": "The cross-sectional study covered in-person adult primary care encounters at 14 clinics in Boston from May 2025 to May 2026: 209,009 encounters, 117,121 patients and 286 clinicians, who chose whether to use the scribe for each encounter."
+        },
+        {
+          "t": "p",
+          "x": "After adjustment, AI scribe use was associated with higher same-day note closure for non-English-preference, language-concordant encounters (10.2 percentage points) and English-concordant encounters (1.7 percentage points). Results for interpreter-mediated and no-interpreter encounters were inconclusive because of wide confidence intervals."
+        },
+        {
+          "t": "p",
+          "x": "The authors suggest lower scribe performance in complex conversations, such as those with multiple speakers or language switching, may explain the interpreter findings, and call for investment in bilingual workforce development and better support for interpreter-mediated workflows."
+        }
+      ]
+    },
+    "medicine/nih-stroke-wrist-daps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.nih.gov/sites/default/files/2026-11/20261105-stroke.jpg",
+          "cap": "Wrist-worn devices can provide useful information about people's ability to use their arms during stroke rehab. voronaman / Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "After a stroke, clinical tests used to track arm recovery are time-consuming, often cannot detect small changes, and don't capture everyday arm use. A team of NIH-funded researchers led by Dr. Sunghoon Lee of the University of Massachusetts Amherst created the digital arm performance scale (DAPS), published in Science Translational Medicine on September 30, 2026."
+        },
+        {
+          "t": "p",
+          "x": "Sixty-one people who had a stroke within six months and 75 healthy people wore wrist accelerometers for thousands of hours in total. The researchers used machine learning to relate everyday arm movements to performance on clinical tests."
+        },
+        {
+          "t": "p",
+          "x": "DAPS tracked improvements in arm movement as well as the clinical tests did, and was similarly useful for 79 other patients who had a stroke more than six months before. It could even distinguish patients with the highest possible clinical score from people who never had a stroke, and in simulations of two previous trials it required far fewer participants."
+        }
+      ]
+    },
+    "medicine/cedars-tavr-cta-fibrosis": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A deep-learning AI model can predict long-term mortality by quantifying aortic valve fibrotic and calcific tissue from CT angiography (CTA) scans, according to a study published November 5 in JACC: Cardiovascular Imaging. The international, multicenter study included 1,674 patients who underwent CTA at nine sites for routine TAVR planning, led by Kajetan Grodecki, MD, PhD, of Cedars-Sinai Medical Center."
+        },
+        {
+          "t": "p",
+          "x": "The nnU-Net-based system was trained on 468 patients and applied to an external test set of 1,206 patients from centers in Poland, Germany, the United Kingdom and the United States."
+        },
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/cac-ai-model.5zit2QCAiF.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+          "cap": "Comparison of deep learning segmentation (A) with quantitative histology (B), demonstrating excellent agreement between methods (C). JACC: Cardiovascular Imaging"
+        },
+        {
+          "t": "p",
+          "x": "The model completed tissue analysis in 1.35 minutes on average versus 7.2 minutes for expert readers, with excellent agreement against experts (r = 0.915) and histology (r = 0.909). Over a mean 4.1 years, 469 patients (40%) died. Patients with the highest fibrotic tissue volumes (>0.940 cm³) faced a 2-fold higher death risk, and those with dense calcific attenuation a 1.5-fold higher risk."
+        }
+      ]
+    },
+    "medicine/medicine-llm-steering-depression": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This quality improvement study evaluates whether activation steering changes an open-weights large language model's (LLM) responses to questions about treatment for depression. Inference-time activation steering alters model activations to shift behavior on a target dimension while remaining undetectable by the end user."
+        },
+        {
+          "t": "p",
+          "x": "Using the open-source tool DS4, a single steering direction contrasting antidepressant medication with self-directed approaches (diet, exercise, meditation, dietary supplements) was applied to DeepSeek version 4 Flash. Responses to 12 depression-treatment advice scenarios were generated at 30 steering amplitudes plus an unsteered baseline and scored by an LLM rater validated against a blinded human expert."
+        },
+        {
+          "t": "p",
+          "x": "The LLM-rated medication-vs-self-care balance declined by 0.32 per unit of steering amplitude, from 1.25 at the strongest medication steering to 0.92 without steering and 0.17 at the strongest self-care steering."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2dfd/13732501/7d90c3b3ea8e/jamanetwopen-e2641142-g001.webp",
+          "cap": "Outcomes of attention steering on medication and self-care content of depression treatment advice"
+        },
+        {
+          "t": "p",
+          "x": "Among scenarios without stated treatment preference, steering shifted medication extent most substantially (β = −0.44 per unit amplitude). A recommendation to consult a clinician was present in 322 of 372 responses (87%) and did not vary by steering amplitude."
+        },
+        {
+          "t": "p",
+          "x": "The impact was dependent on patient preference: it did not override an explicit request for or against medication but impacted users without stated preference, who may be most susceptible to framing. The results suggest the need for independent auditing and benchmarking if models are used to inform clinical decisions."
+        }
+      ]
     }
   }
 }

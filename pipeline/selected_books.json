@@ -1,102 +1,101 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "section": "books",
-  "user_selection": null,
   "items": [
     {
+      "rank": 1,
+      "title": "AI errors, inflated prices: Tamil Nadu govt orders probe into Periyar library books",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/periyar-arivulagam-book-purchase-probe-ai-errors-inflated-prices-vijay-tvk-dmk-3034039-2026-11-06",
+      "source": "India Today",
+      "published_iso": "2026-11-06T21:25:46+05:30",
+      "og_image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/cm-vijay-205547621-16x9.jpg?VersionId=7qCzKNtw7N1mOORpLDXP0xY4TT4mDj43",
+      "excerpt": "Tamil Nadu ordered a probe after writer Perumal Murugan flagged suspected AI-generated books, phantom authors and factual errors among titles bought for the new Periyar Arivulagam library in Coimbatore.",
       "tool": "Books",
-      "category": "books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-      "source": "TechCrunch",
-      "published_iso": "2026-11-03T03:30:00+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?resize=1200,800",
-      "excerpt": "Google's Dreambeans, which generates illustrated personalized stories from users' Gmail, Photos and YouTube activity without a prompt (some animated via Veo), now supports 13 Indian languages in its first market outside the U.S.",
-      "rationale": "Concrete product expansion: Google's prompt-free AI storybook app goes to its first non-US market in 13 Indian languages; on-whitelist outlet."
+      "rationale": "Concrete government action: a state-ordered probe after AI-generated slop reached a public library's acquisitions, a first-of-its-kind procurement consequence."
     },
     {
+      "rank": 2,
+      "title": "Proudly Human Promises to Certify AI-Free Books",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101710-proudly-human-promises-to-certify-books-were-written-by-people-not-ai.html",
+      "source": "Publishers Weekly",
+      "published_iso": "2026-11-06T14:51:00Z",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132673-2.JPG",
+      "excerpt": "Australian startup Proudly Human, founded by former chief scientist Alan Finkel, joins a growing field of services certifying books as written without AI assistance; Finkel says two of the Big Five are in talks.",
       "tool": "Books",
-      "category": "books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "title": "The Gruffalo's illustrator is threatening legal action against AI companies — so I put ChatGPT and Gemini's copyright safeguards to the test",
-      "url": "https://www.techradar.com/ai-platforms-assistants/the-gruffalos-illustrator-is-seriously-considering-suing-ai-companies-so-i-tested-whether-chatgpt-and-gemini-would-recreate-his-famous-characters",
-      "source": "TechRadar",
-      "published_iso": "2026-11-03T18:20:50+00:00",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/xYwaj5VqTyTtVtz4gK7L4b-1920-80.jpg",
-      "excerpt": "Axel Scheffler says his Gruffalo images are being pumped out of AI models and is weighing legal action; TechRadar tested whether ChatGPT and Gemini would recreate the picture-book characters.",
-      "rationale": "New: Scheffler now weighing a lawsuit, plus a hands-on test of how ChatGPT and Gemini guard picture-book IP — directly useful to illustrators."
+      "rationale": "New certification service launch with Big Five talks; distinct from earlier UK IPO mark and Organic Literature stories."
     },
     {
+      "rank": 3,
+      "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+      "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+      "source": "CBC News",
+      "published_iso": "2026-11-05T09:00:00.000Z",
+      "og_image": "https://i.cbc.ca/ais/47809d1c-efd6-4753-9529-d57b9893d8fb,1793831483888/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C64%2C3000%2C1687%29%3BResize%3D620",
+      "excerpt": "Academic libraries are fighting swarms of AI data-scraping bots that slow or crash digital collections meant for students, researchers and the public.",
       "tool": "Books",
-      "category": "books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "title": "판권에 ‘AI 학습 거부’ 못 박고, 사용료도 받고···유럽 출판계의 반격",
-      "url": "https://www.khan.co.kr/article/202611051657001",
-      "source": "경향신문",
-      "published_iso": "2026-11-05T16:57:00+09:00",
-      "og_image": "https://img.khan.co.kr/news/2026/11/05/news-p.v1.20261105.86330c3d9cef4964837c6a302cb49e6b_P1.png",
-      "excerpt": "독일 미디어 플랫폼 DPR 창립자 슈테펜 마이어는 유럽 출판사들이 판권면 AI 학습 거부 조항, AI 기업과의 개별 라이선스 계약, 업계 공동 대응 등 세 갈래로 움직이고 있다고 소개했다.",
-      "rationale": "Actionable playbook for Korean publishers: European houses' copyright-page AI opt-out clauses, direct licensing and collective action."
+      "rationale": "Fresh reporting on AI scrapers degrading library digital collections; no prior coverage in the section."
     },
     {
+      "rank": 4,
+      "title": "내 독서 취향은 무슨 빵?…영풍문고, AI 도서 추천 '책빵집' 출시",
+      "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91560",
+      "source": "워크투데이",
+      "published_iso": "2026-11-05T23:42:00+09:00",
+      "og_image": "http://www.worktoday.co.kr/news/thumbnail/202611/91560_131804_421_v150.jpg",
+      "excerpt": "영풍문고가 온라인 이용 기록과 전국 매장 판매 데이터를 함께 분석해 8가지 '빵' 독서 유형별로 책을 추천하는 AI 서비스 'AI 책빵집'을 내놨다.",
       "tool": "Books",
-      "category": "books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "title": "Cleveland Public Library sets rules for how it will use AI",
-      "url": "https://signalcleveland.org/ai-policy-approved-at-cleveland-public-library/",
-      "source": "Signal Cleveland",
-      "published_iso": "2026-11-05T05:02:00+00:00",
-      "og_image": "https://signalcleveland.org/wp-content/uploads/2022/10/20240117_165935-scaled.jpg",
-      "excerpt": "The Cleveland Public Library board approved an AI governance policy that creates a staff AI council and sets rules for how the library will use AI tools.",
-      "rationale": "Concrete board decision: a major US public library adopts a formal AI governance policy and staff AI council — a template for other libraries."
+      "rationale": "New product release: a major Korean bookstore chain's AI recommendation service combining online and in-store sales data."
     },
     {
+      "rank": 5,
+      "title": "What AI can lose when it makes Holocaust writings easier to read",
+      "url": "https://phys.org/news/2026-11-ai-holocaust-easier.html",
+      "source": "Phys.org",
+      "published_iso": "2026-11-05T23:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/what-ai-can-lose-when.jpg",
+      "excerpt": "A Tel Aviv University study in AI & Society ran three Holocaust writings through AI enhancement, handwriting recognition, correction and translation, finding gains in access but losses in material evidence.",
       "tool": "Books",
-      "category": "books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "title": "에듀클라우드닷컴·KL매니지먼트, AI 음악으로 K문학 해외 홍보",
-      "url": "https://www.inews24.com/view/2022620",
-      "source": "아이뉴스24",
-      "published_iso": "2026-11-04T16:07:08+09:00",
-      "og_image": "https://image.inews24.com/v1/ba07ee7b70508a.jpg",
-      "excerpt": "출판 저작권 에이전시 KL매니지먼트와 에듀클라우드닷컴이 해외 판권 계약이 이뤄진 한국 소설의 인물·장면·메시지를 AI 음악 테마곡으로 만들어 글로벌 독자 홍보에 쓰기로 했다.",
-      "rationale": "New partnership: a literary rights agency uses AI-made theme songs to market translated Korean novels abroad — a fresh book-marketing use case."
+      "rationale": "New peer-reviewed study on what AI transcription/translation gains and loses for historical manuscripts; not in science history or today's science pool."
     }
   ],
   "dedup": {
     "checks": {
-      "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/": {
+      "https://www.indiatoday.in/india/tamil-nadu/story/periyar-arivulagam-book-purchase-probe-ai-errors-inflated-prices-vijay-tvk-dmk-3034039-2026-11-06": {
         "verdict": "new",
-        "nearest": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
+        "nearest": "https://www.sedaily.com/article/20102227",
         "new_action": ""
       },
-      "https://www.techradar.com/ai-platforms-assistants/the-gruffalos-illustrator-is-seriously-considering-suing-ai-companies-so-i-tested-whether-chatgpt-and-gemini-would-recreate-his-famous-characters": {
+      "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101710-proudly-human-promises-to-certify-books-were-written-by-people-not-ai.html": {
         "verdict": "new",
-        "nearest": "https://www.thebookseller.com/comment/ai-illustrators-threat-government-act-axel-scheffler",
+        "nearest": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
         "new_action": ""
       },
-      "https://www.khan.co.kr/article/202611051657001": {
+      "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287": {
         "verdict": "new",
-        "nearest": "https://www.thebookseller.com/news/global-creative-bodies-launch-ethical-ai-charter-in-the-vacuum-of-government-policy",
+        "nearest": "",
         "new_action": ""
       },
-      "https://signalcleveland.org/ai-policy-approved-at-cleveland-public-library/": {
+      "http://www.worktoday.co.kr/news/articleView.html?idxno=91560": {
         "verdict": "new",
-        "nearest": "https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/101589-pla-partners-with-microsoft-on-library-ai-info-sessions.html",
+        "nearest": "https://www.ddaily.co.kr/page/view/2026102014534352853",
         "new_action": ""
       },
-      "https://www.inews24.com/view/2022620": {
+      "https://phys.org/news/2026-11-ai-holocaust-easier.html": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates/no-new-event: ALLi podcast (Audible talk-to-characters published 10-02 via TechCrunch; Chakrabarty paper drop published 10-24 via ALLi); Publishing Perspectives 50 amicus briefs (running OpenAI fair-use story, publishers' amicus brief already published 10-30 — analysis of filings, no new ruling); Hani '.txt' column on the Frankfurt appeal (commentary on the AI-transparency appeal published 10-14 via chytomo); Asiae minister Choi Hwi-young remarks (reaction within the running Anthropic Korean-book-buying story, published 10-15/10-16/10-20/10-22/10-27 — statement, no new decision); Jane Friedman 'AI detection scandals will end' (opinion on the Pangram/detection thread, 10-08 & 11-03). Ranked below cut (not dups): WLOX general feature (evergreen, related to 11-03 Transparency Trap), dev.ua DIY Claude e-reader (personal project), two Scholarly Kitchen opinion posts. Gruffalo: Scheffler's 09-14 Bookseller op-ed urged government action; this item is new — he is now weighing legal action and TechRadar ran its own ChatGPT/Gemini test. Cross-section: checked books and gadgets blocks of published_urls.json for all 5 URLs/products (no hits); the full file (~4k lines) could not be exact-grepped with available tools, so orchestrator should run the cross-section grep for the remaining sections. Outlets: 5 distinct; Korean 2 / English 3."
+    "note": "Dropped as duplicates of published stories: Ars 'Meta abandons commercial terms update' and PW 'AAP calls on Meta to drop terms' (same story as janefriedman 2026-10-23 Meta terms reversal; Meta halt also in today's politics pool); Publishing Perspectives 50 amicus briefs in Authors Guild v. OpenAI (same running story as Bookseller 2026-10-30 publishers' amicus, no new ruling); ALLi 300 authors file claims against Meta (same as PW 2026-10-22 'Hundreds sue Meta'); 산학뉴스 모사재인 아이로쿠 Japan launch (same as wowtv 2026-10-23); Comics Beat Spiegelman AI sticker (likely-repeat of dailycartoonist 2026-10-29). Skipped on quality: PW '11 Books' listicle (cites IPO noise), Bookseller editor's letter, Hani column and JoongAng interview (commentary on already-published Anthropic book-buying story), Lit Hub essay, Good e-Reader evergreen piece, Khaleej Times (excerpt mismatched). Cross-section: checked today's science and politics pools/histories; no collision for picks. Diversity: 5 distinct outlets."
   }
 }

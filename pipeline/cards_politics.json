@@ -1,765 +1,393 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "section": "politics",
   "cards": [
     {
-      "id": "occ-bank-ai-framework",
-      "source_lang": "en",
+      "id": "korea-ai-legislative-framework",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "OCC, 은행 검사역에\nAI 감독 체계 제시",
-      "body": "Bulletin 2026-54는 AI를 별도 리스크 범주로 다루지 말라고 했다.",
-      "mini_headline": "OCC, 은행 AI 감독 체계 제시",
+      "headline": "AI법은 기본법 개정부터\n국가AI전략위 입법 틀",
+      "body": "국가AI전략위가 신규 법 대신 기본법·기존법 개정을 우선하는 입법 틀을 채택했다.",
+      "mini_headline": "AI법은 기본법 개정부터",
       "tool": "Politics",
-      "source": "U.S. Office of the Comptroller of the Currency",
-      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-97.html",
+      "source": "전자신문",
+      "url": "https://www.etnews.com/20261106000224",
       "accent": "#3b6bff",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "WASHINGTON—통화감독청(Office of the Comptroller of the Currency, OCC)이 오늘 은행 검사 인력을 위한 프레임워크를 내놓았다. 은행의 초지능(Super Intelligence, SI) 활용을 다룬다."
-          },
-          {
-            "t": "p",
-            "x": "은행은 오래전부터 신기술로 운영 효율을 높이고 고객을 위한 혁신을 이끌어 왔다. SI와 에이전틱 SI는 빠르게 진화하는 새 기술이고, 은행은 새로운 활용 사례를 찾아 SI 도입을 계속 넓히는 중이다."
-          },
-          {
-            "t": "p",
-            "x": "오늘 발표는 책임 있는 방식으로 혁신을 꾸준히 받아들여 온 금융 산업에 중요한 이정표다. 프레임워크는 은행이 통상적인 영업 활동에서 SI와 에이전틱 SI를 어떻게 쓰는지, 그에 따른 리스크와 통제는 어떤지 OCC 은행 검사역이 평가할 감독 틀을 제공한다."
-          },
-          {
-            "t": "p",
-            "x": "OCC 은행 검사역은 이 프레임워크로 SI 고유(SI-specific)의 고려 사항도 파악할 수 있다. 다만 검사역이 SI를 별개의 독립된 리스크 범주로 취급해서는 안 되며, 은행에 별도의 SI 리스크 성향 정의를 요구해서도 안 된다고 이번 발표는 못 박았다."
-          },
-          {
-            "t": "p",
-            "x": "OCC는 SI 발전 상황과 이해관계자 의견을 반영해 프레임워크를 정기적으로 갱신할 계획이다."
-          },
-          {
-            "t": "p",
-            "x": "OCC는 은행 활동이 전통적이든 신기술을 수반하든 안전하고 건전하게, 관련 법규에 맞게 이뤄지기를 기대한다. 기술 중립적 접근으로 안전성과 건전성, 혁신을 계속 장려하겠다는 입장이다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "OCC issues AI framework\nfor bank examiners",
-          "body": "Bulletin 2026-54 tells examiners not to treat AI as its own risk category or require a separate risk appetite.",
-          "mini_headline": "OCC frames bank AI oversight",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "WASHINGTON—The Office of the Comptroller of the Currency (OCC) today issued a framework for its bank examination workforce on banks’ use of Super Intelligence (SI)."
-              },
-              {
-                "t": "p",
-                "x": "Banks have a long history of utilizing new technologies to improve operational efficiencies and drive innovations to serve their customers. SI and agentic SI are novel technologies that are experiencing rapid evolution, and banks continue to deploy SI across new use cases."
-              },
-              {
-                "t": "p",
-                "x": "Today’s issuance represents an important milestone for the financial industry as it continues to embrace innovation responsibly. The framework is intended to provide OCC bank examiners with a supervisory framework to evaluate banks’ use of SI and agentic SI in normal course business activities and banks’ associated risks and controls."
-              },
-              {
-                "t": "p",
-                "x": "While OCC bank examiners may also use the framework to identify SI-specific considerations, the issuance clarifies that examiners should not treat SI as a separate and distinct risk category, and banks should not be required to define a separate SI risk appetite."
-              },
-              {
-                "t": "p",
-                "x": "The OCC intends to update the framework regularly to address evolutions in SI and in response to stakeholder feedback."
-              },
-              {
-                "t": "p",
-                "x": "Regardless of whether a bank’s activities are traditional or involve novel technologies, the OCC expects that bank activities are conducted in a safe and sound manner and consistent with applicable laws and regulations. The OCC will continue to encourage safety, soundness, and innovation through a technology-neutral approach."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "OCC, 은행 검사역에\nAI 감독 체계 제시",
-          "body": "Bulletin 2026-54는 AI를 별도 리스크 범주로 다루지 말라고 했다.",
-          "mini_headline": "OCC, 은행 AI 감독 체계 제시",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "WASHINGTON—통화감독청(Office of the Comptroller of the Currency, OCC)이 오늘 은행 검사 인력을 위한 프레임워크를 내놓았다. 은행의 초지능(Super Intelligence, SI) 활용을 다룬다."
-              },
-              {
-                "t": "p",
-                "x": "은행은 오래전부터 신기술로 운영 효율을 높이고 고객을 위한 혁신을 이끌어 왔다. SI와 에이전틱 SI는 빠르게 진화하는 새 기술이고, 은행은 새로운 활용 사례를 찾아 SI 도입을 계속 넓히는 중이다."
-              },
-              {
-                "t": "p",
-                "x": "오늘 발표는 책임 있는 방식으로 혁신을 꾸준히 받아들여 온 금융 산업에 중요한 이정표다. 프레임워크는 은행이 통상적인 영업 활동에서 SI와 에이전틱 SI를 어떻게 쓰는지, 그에 따른 리스크와 통제는 어떤지 OCC 은행 검사역이 평가할 감독 틀을 제공한다."
-              },
-              {
-                "t": "p",
-                "x": "OCC 은행 검사역은 이 프레임워크로 SI 고유(SI-specific)의 고려 사항도 파악할 수 있다. 다만 검사역이 SI를 별개의 독립된 리스크 범주로 취급해서는 안 되며, 은행에 별도의 SI 리스크 성향 정의를 요구해서도 안 된다고 이번 발표는 못 박았다."
-              },
-              {
-                "t": "p",
-                "x": "OCC는 SI 발전 상황과 이해관계자 의견을 반영해 프레임워크를 정기적으로 갱신할 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "OCC는 은행 활동이 전통적이든 신기술을 수반하든 안전하고 건전하게, 관련 법규에 맞게 이뤄지기를 기대한다. 기술 중립적 접근으로 안전성과 건전성, 혁신을 계속 장려하겠다는 입장이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "OCC、銀行検査官向け\nAI監督の枠組み公表",
-          "body": "Bulletin 2026-54は検査官に対し、AIを別個のリスク区分としないよう求めた。",
-          "mini_headline": "OCC、銀行AI監督の枠組み",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "WASHINGTON—通貨監督庁(Office of the Comptroller of the Currency、OCC)は本日、銀行による超知能(Super Intelligence、SI)の利用について、銀行検査担当者向けの枠組みを公表した。"
-              },
-              {
-                "t": "p",
-                "x": "銀行には、業務効率を高め、顧客に役立つイノベーションを推進するために新技術を活用してきた長い歴史がある。SIとエージェント型SIは急速に進化している新しい技術であり、銀行は新たなユースケースへSIの導入を続けている。"
-              },
-              {
-                "t": "p",
-                "x": "本日の公表は、責任ある形でイノベーションを取り入れ続ける金融業界にとって重要な節目である。この枠組みは、通常業務における銀行のSIおよびエージェント型SIの利用と、それに伴うリスクと管理を評価するための監督上の枠組みを、OCCの銀行検査官に提供することを目的としている。"
-              },
-              {
-                "t": "p",
-                "x": "OCCの銀行検査官はこの枠組みを用いてSI固有(SI-specific)の考慮事項を特定することもできるが、今回の公表は、検査官がSIを別個の独立したリスク区分として扱うべきではなく、銀行に別途SIのリスクアペタイトの設定を求めるべきではないと明確にした。"
-              },
-              {
-                "t": "p",
-                "x": "OCCは、SIの進化に対応し、利害関係者からの意見を踏まえて、枠組みを定期的に更新する方針だ。"
-              },
-              {
-                "t": "p",
-                "x": "銀行の業務が従来型であれ新技術を伴うものであれ、OCCは銀行業務が安全かつ健全な方法で、適用される法令に沿って行われることを求める。OCCは技術中立的なアプローチを通じて、安全性、健全性、イノベーションを引き続き促していく。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "OCC为银行检查人员\n发布AI监管框架",
-          "body": "Bulletin 2026-54指示检查人员勿将AI列为独立风险类别或要求单设风险偏好。",
-          "mini_headline": "OCC规范银行AI监管",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "WASHINGTON——货币监理署(Office of the Comptroller of the Currency，OCC)今天就银行使用超级智能(Super Intelligence，SI)一事，向其银行检查人员发布了一套框架。"
-              },
-              {
-                "t": "p",
-                "x": "银行长期以来一直利用新技术提升运营效率、推动创新以服务客户。SI和智能体SI是正在快速演进的新技术，银行也在不断将SI部署到新的应用场景中。"
-              },
-              {
-                "t": "p",
-                "x": "今天的发布是金融业在继续负责任地拥抱创新过程中的重要里程碑。该框架旨在为OCC银行检查人员提供一个监管框架，用以评估银行在日常业务活动中使用SI和智能体SI的情况，以及相关风险与控制。"
-              },
-              {
-                "t": "p",
-                "x": "OCC银行检查人员也可借助该框架识别SI特有(SI-specific)的考量因素，但此次发布明确，检查人员不应将SI视为单独、独立的风险类别，也不应要求银行另行界定SI风险偏好。"
-              },
-              {
-                "t": "p",
-                "x": "OCC计划定期更新该框架，以应对SI的演进并回应利益相关方的反馈。"
-              },
-              {
-                "t": "p",
-                "x": "无论银行的业务是传统业务还是涉及新技术，OCC都期望银行以安全稳健的方式开展业务，并符合适用的法律法规。OCC将继续通过技术中立的方式促进安全、稳健与创新。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La OCC fija un marco de IA (AI)\npara examinadores bancarios",
-          "body": "El Bulletin 2026-54 pide no tratar la IA (AI) como categoría de riesgo propia ni exigir un apetito de riesgo aparte.",
-          "mini_headline": "La OCC fija la supervisión de IA (AI) en bancos",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "WASHINGTON—La Office of the Comptroller of the Currency (OCC) emitió hoy un marco para su personal de examinación bancaria sobre el uso de la Super Intelligence (SI) por parte de los bancos."
-              },
-              {
-                "t": "p",
-                "x": "Los bancos tienen una larga trayectoria en el uso de nuevas tecnologías para mejorar la eficiencia operativa e impulsar innovaciones al servicio de sus clientes. La SI y la SI agéntica son tecnologías novedosas en rápida evolución, y los bancos siguen desplegando la SI en nuevos casos de uso."
-              },
-              {
-                "t": "p",
-                "x": "La publicación de hoy representa un hito importante para el sector financiero, que sigue adoptando la innovación de forma responsable. El marco busca dotar a los examinadores bancarios de la OCC de un marco de supervisión para evaluar el uso que los bancos hacen de la SI y la SI agéntica en sus actividades habituales, así como los riesgos y controles asociados."
-              },
-              {
-                "t": "p",
-                "x": "Aunque los examinadores bancarios de la OCC también pueden usar el marco para identificar consideraciones SI-specific (propias de la SI), la publicación aclara que los examinadores no deben tratar la SI como una categoría de riesgo separada y distinta, y que no debe exigirse a los bancos definir un apetito de riesgo de SI aparte."
-              },
-              {
-                "t": "p",
-                "x": "La OCC prevé actualizar el marco con regularidad para responder a la evolución de la SI y a los comentarios de las partes interesadas."
-              },
-              {
-                "t": "p",
-                "x": "Con independencia de que las actividades de un banco sean tradicionales o impliquen tecnologías novedosas, la OCC espera que se realicen de manera segura y sólida y conforme a las leyes y normas aplicables. La OCC seguirá fomentando la seguridad, la solidez y la innovación mediante un enfoque tecnológicamente neutral."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "OCC, 은행 검사역에\nAI 감독 체계 제시",
-          "body": "Bulletin 2026-54는 AI를 별도 리스크 범주로 다루지 말라고 했다.",
-          "mini_headline": "OCC, 은행 AI 감독 체계 제시",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "WASHINGTON—통화감독청(Office of the Comptroller of the Currency, OCC)은 오늘 은행의 초지능(Super Intelligence, SI) 활용에 관해 은행 검사 인력용 프레임워크를 발표했다."
-              },
-              {
-                "t": "p",
-                "x": "은행은 운영 효율을 높이고 고객을 위한 혁신을 이끌기 위해 신기술을 활용해 온 오랜 역사가 있다. SI와 에이전틱 SI는 빠르게 진화하는 새로운 기술이며, 은행은 새로운 활용 사례로 SI 도입을 계속 넓히고 있다."
-              },
-              {
-                "t": "p",
-                "x": "오늘 발표는 책임 있는 방식으로 혁신을 계속 받아들이고 있는 금융 산업에 중요한 이정표다. 이 프레임워크는 OCC 은행 검사역에게 은행이 통상적인 영업 활동에서 SI와 에이전틱 SI를 활용하는 방식, 그리고 그에 따른 리스크와 통제를 평가할 감독 틀을 제공하려는 것이다."
-              },
-              {
-                "t": "p",
-                "x": "OCC 은행 검사역은 이 프레임워크로 SI 고유(SI-specific)의 고려 사항을 파악할 수도 있다. 다만 이번 발표는 검사역이 SI를 별개의 독립된 리스크 범주로 취급해서는 안 되며, 은행에 별도의 SI 리스크 성향 정의를 요구해서도 안 된다는 점을 분명히 했다."
-              },
-              {
-                "t": "p",
-                "x": "OCC는 SI의 발전에 대응하고 이해관계자 의견을 반영해 프레임워크를 정기적으로 갱신할 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "OCC는 은행 활동이 전통적이든 신기술을 수반하든 안전하고 건전한 방식으로, 관련 법규에 맞게 이뤄지기를 기대한다. OCC는 기술 중립적 접근을 통해 안전성과 건전성, 혁신을 계속 장려할 것이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "OCC、銀行検査官向け\nAI監督の枠組み公表",
-          "body": "Bulletin 2026-54は検査官に対し、AIを別個のリスク区分としないよう求めた。",
-          "mini_headline": "OCC、銀行AI監督の枠組み",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "WASHINGTON—通貨監督庁(Office of the Comptroller of the Currency、OCC)は本日、銀行による超知能(Super Intelligence、SI)の利用について、銀行検査担当者向けの枠組みを公表した。"
-              },
-              {
-                "t": "p",
-                "x": "銀行には、業務効率を高め、顧客に役立つイノベーションを推進するために新技術を活用してきた長い歴史がある。SIとエージェント型SIは急速に進化している新しい技術であり、銀行は新たなユースケースへSIの導入を続けている。"
-              },
-              {
-                "t": "p",
-                "x": "本日の公表は、責任ある形でイノベーションを取り入れ続ける金融業界にとって重要な節目である。この枠組みは、通常業務における銀行のSIおよびエージェント型SIの利用と、それに伴うリスクと管理を評価するための監督上の枠組みを、OCCの銀行検査官に提供することを目的としている。"
-              },
-              {
-                "t": "p",
-                "x": "OCCの銀行検査官はこの枠組みを用いてSI固有(SI-specific)の考慮事項を特定することもできるが、今回の公表は、検査官がSIを別個の独立したリスク区分として扱うべきではなく、銀行に別途SIのリスクアペタイトの設定を求めるべきではないと明確にした。"
-              },
-              {
-                "t": "p",
-                "x": "OCCは、SIの進化に対応し、利害関係者からの意見を踏まえて、枠組みを定期的に更新する方針だ。"
-              },
-              {
-                "t": "p",
-                "x": "銀行の業務が従来型であれ新技術を伴うものであれ、OCCは銀行業務が安全かつ健全な方法で、適用される法令に沿って行われることを求める。OCCは技術中立的なアプローチを通じて、安全性、健全性、イノベーションを引き続き促していく。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "OCC为银行检查人员\n发布AI监管框架",
-          "body": "Bulletin 2026-54指示检查人员勿将AI列为独立风险类别或要求单设风险偏好。",
-          "mini_headline": "OCC规范银行AI监管",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "WASHINGTON——货币监理署(Office of the Comptroller of the Currency，OCC)今天就银行使用超级智能(Super Intelligence，SI)一事，向其银行检查人员发布了一套框架。"
-              },
-              {
-                "t": "p",
-                "x": "银行长期以来一直利用新技术提升运营效率、推动创新以服务客户。SI和智能体SI是正在快速演进的新技术，银行也在不断将SI部署到新的应用场景中。"
-              },
-              {
-                "t": "p",
-                "x": "今天的发布是金融业在继续负责任地拥抱创新过程中的重要里程碑。该框架旨在为OCC银行检查人员提供一个监管框架，用以评估银行在日常业务活动中使用SI和智能体SI的情况，以及相关风险与控制。"
-              },
-              {
-                "t": "p",
-                "x": "OCC银行检查人员也可借助该框架识别SI特有(SI-specific)的考量因素，但此次发布明确，检查人员不应将SI视为单独、独立的风险类别，也不应要求银行另行界定SI风险偏好。"
-              },
-              {
-                "t": "p",
-                "x": "OCC计划定期更新该框架，以应对SI的演进并回应利益相关方的反馈。"
-              },
-              {
-                "t": "p",
-                "x": "无论银行的业务是传统业务还是涉及新技术，OCC都期望银行以安全稳健的方式开展业务，并符合适用的法律法规。OCC将继续通过技术中立的方式促进安全、稳健与创新。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La OCC fija un marco de IA (AI)\npara examinadores bancarios",
-          "body": "El Bulletin 2026-54 pide no tratar la IA (AI) como categoría de riesgo propia ni exigir un apetito de riesgo aparte.",
-          "mini_headline": "La OCC fija la supervisión de IA (AI) en bancos",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "WASHINGTON—La Office of the Comptroller of the Currency (OCC) emitió hoy un marco para su personal de examinación bancaria sobre el uso de la Super Intelligence (SI) por parte de los bancos."
-              },
-              {
-                "t": "p",
-                "x": "Los bancos tienen una larga trayectoria en el uso de nuevas tecnologías para mejorar la eficiencia operativa e impulsar innovaciones al servicio de sus clientes. La SI y la SI agéntica son tecnologías novedosas en rápida evolución, y los bancos siguen desplegando la SI en nuevos casos de uso."
-              },
-              {
-                "t": "p",
-                "x": "La publicación de hoy representa un hito importante para el sector financiero, que sigue adoptando la innovación de forma responsable. El marco busca dotar a los examinadores bancarios de la OCC de un marco de supervisión para evaluar el uso que los bancos hacen de la SI y la SI agéntica en sus actividades habituales, así como los riesgos y controles asociados."
-              },
-              {
-                "t": "p",
-                "x": "Aunque los examinadores bancarios de la OCC también pueden usar el marco para identificar consideraciones SI-specific (propias de la SI), la publicación aclara que los examinadores no deben tratar la SI como una categoría de riesgo separada y distinta, y que no debe exigirse a los bancos definir un apetito de riesgo de SI aparte."
-              },
-              {
-                "t": "p",
-                "x": "La OCC prevé actualizar el marco con regularidad para responder a la evolución de la SI y a los comentarios de las partes interesadas."
-              },
-              {
-                "t": "p",
-                "x": "Con independencia de que las actividades de un banco sean tradicionales o impliquen tecnologías novedosas, la OCC espera que se realicen de manera segura y sólida y conforme a las leyes y normas aplicables. La OCC seguirá fomentando la seguridad, la solidez y la innovación mediante un enfoque tecnológicamente neutral."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "g7-ai-safety-france-us",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "G7 AI 안전 감독 두고\n프랑스·미국(US) 갈등",
-      "body": "프랑스가 내놓은 G7 AI 안전 공조안을 백악관은 ‘불필요한 관료주의’라 했다.",
-      "mini_headline": "G7 AI 안전 놓고 프랑스·미국(US) 갈등",
-      "tool": "Politics",
-      "source": "POLITICO Europe",
-      "url": "https://www.politico.eu/article/france-us-clash-ai-safety-talks-a-g7/",
-      "accent": "#0070f3",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=740,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/05/G7-AI-scaled.jpg",
-            "cap": "2026년 6월 17일, G7 정상과 세계 각국 귀빈, 기술·AI 업계 대표들이 프랑스 Évian-les-Bains(에비앙레뱅)에 모였다."
+            "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1722109085f94daf9226ad339aae6bd1_P1.jpg"
           },
           {
             "t": "p",
-            "x": "G7 차원에서 첨단 AI 안전을 조율하자는 프랑스의 구상이 U.S.(미국) 정부 반대로 무산됐다. 백악관 당국자는 이를 “불필요한 관료주의”라고 불렀다."
+            "x": "국가AI전략위원회는 6일 서울 중구 위원회에서 제3차 전체회의를 열고 '대한민국 AI 입법 프레임워크'를 심의·의결했다. 회의는 하정우 부위원장이 주재했으며 정부·민간 위원과 관계기관장 등 60여명이 참석했다."
           },
           {
             "t": "p",
-            "x": "프랑스 디지털 장관 안 르에낭(Anne Le Hénanff)은 수요일 프랑스 상원 청문회에서 9월과 10월 두 차례 장관급 회의를 열었다고 밝혔다. 프런티어 AI를 시험하고 위험과 사고 정보를 공유할 고위급 실무그룹을 G7이 약속하게 하려는 자리였다. 그러나 U.S.가 독자 노선을 원하면서 그 노력은 “성공적인 결론에 이르지 못했다”고 그는 말했다."
+            "x": "22대 국회 개원 이후 약 29개월간 AI를 언급한 법률 제·개정안은 477건으로, 21대 국회 4년간 170건 대비 월평균 기준 약 4.7배 수준이다. 법안 간 정합성 확보 필요성도 커지고 있다."
           },
           {
             "t": "p",
-            "x": "백악관 당국자는 프랑스 정부가 “제대로 정의되지 않은 기구”를 제안했고 행정부는 그 기구가 “불필요한 관료주의를 낳을” 것을 우려했다고 말했다. 그러면서 도널드 트럼프(Donald Trump) 대통령의 Super Intelligence Force를 대안으로 내세웠다."
+            "x": "프레임워크는 AI 분야 법률을 발전, 융합(AX) 촉진, 안전·신뢰 확보, 오남용 방지 등 4개 분야로 나누고 △AI기본법 중심 입법 △국방·안보 분야 입법공백 해소 △사업자 예측가능성 제고 △역기능 발생 시 즉시 대응 등 4대 기본 방향을 제시했다. 새로운 법 제정보다 AI기본법이나 기존 개별법 개정을 우선 검토하고, AI기본법 적용범위 밖인 국방·국가안보 분야는 독자 입법을 우선 추진한다. 생명·신체·기본권에 대한 위험이 확인되고 규범 공백이 명확한 경우에는 즉시 대응하도록 했다."
           },
           {
             "t": "img",
-            "src": "https://www.politico.eu/wp-content/uploads/2026/11/05/Anne-Le-Henanff-1024x683.jpg",
-            "cap": "안 르에낭(Anne Le Hénanff) 디지털 장관이 2026년 10월 28일 파리의 프랑스 의회에서 발언하고 있다."
+            "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.07d4d63ff18340afb5965eccdf487f72_P1.jpg"
           },
           {
             "t": "p",
-            "x": "2026년 G7 의장국인 프랑스는 10월 20일 화상으로 열린 G7 기술 장관회의 뒤 의장 요약문을 냈다. G7 회원국 전체가 지지한 공동성명은 아니었다. 르에낭(Le Hénanff)은 12월 협상 재개를 제안했다. INESIA와 Inria를 거론하면서 프랑스가 이 문제를 계속 밀어붙이겠다고도 했다."
+            "x": "위원회는 '국가 AI 핵심과제 추진을 위한 위원회 TF 구성·운영계획'도 의결했다. 청년 도약, 국가 초지능 대응, 글로벌 AI 전략적 협력 등 3개 과제는 부위원장 직속 범위원회 TF로, 국가 사이버 복원력 강화, 문화·콘텐츠 AI 혁신, 데이터 플라이휠 구축, K-AI 풀스택 생태계 구축 등 4개 과제는 기존 분과 연계형으로 구성한다. 국가 초지능 대응 TF는 내년 6월까지 AI행동계획 핵심 보강 10대 과제를 발굴한다."
           },
           {
             "t": "p",
-            "x": "백악관 당국자는 “트럼프(Trump) 대통령의 리더십 아래 미국은 SI 혁신에서 계속 세계를 이끌 것”이라고 말했다."
+            "x": "하정우 부위원장은 “핵심과제 TF로 정부와 민간이 원팀으로 실행력을 발휘해 성과로 보여주겠다”고 강조했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "France and US split over\nG7 AI safety oversight",
-          "body": "France proposed G7 coordination on AI safety, which a White House official said would \"create unnecessary bureaucracy.\"",
-          "mini_headline": "France, US split on G7 AI safety",
+        "ko": {
+          "headline": "AI법은 기본법 개정부터\n국가AI전략위 입법 틀",
+          "body": "국가AI전략위가 신규 법 대신 기본법·기존법 개정을 우선하는 입법 틀을 채택했다.",
+          "mini_headline": "AI법은 기본법 개정부터",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=740,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/05/G7-AI-scaled.jpg",
-                "cap": "G7 leaders, world dignitaries and representatives from tech and AI industries meet in Évian-les-Bains, France, on June 17, 2026."
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1722109085f94daf9226ad339aae6bd1_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "The U.S. government has scuttled a French push for the G7 to coordinate on advanced AI safety, with a White House official calling it “unnecessary bureaucracy.”"
+                "x": "국가AI전략위원회는 6일 서울 중구 위원회에서 제3차 전체회의를 열고 '대한민국 AI 입법 프레임워크'를 심의·의결했다. 회의는 하정우 부위원장이 주재했으며 정부·민간 위원과 관계기관장 등 60여명이 참석했다."
               },
               {
                 "t": "p",
-                "x": "France’s digital minister Anne Le Hénanff told a French Senate hearing on Wednesday that she held two ministerial meetings in September and October to secure G7 commitments to a high-level working group to test frontier AI and share information about risks and incidents. That effort “did not reach a successful conclusion” because the U.S. wanted to pursue its own approach, she said."
+                "x": "22대 국회 개원 이후 약 29개월간 AI를 언급한 법률 제·개정안은 477건으로, 21대 국회 4년간 170건 대비 월평균 기준 약 4.7배 수준이다. 법안 간 정합성 확보 필요성도 커지고 있다."
               },
               {
                 "t": "p",
-                "x": "A White House official said the French government proposed a “poorly defined body” that the administration feared would “create unnecessary bureaucracy,” pointing instead to President Donald Trump’s Super Intelligence Force."
+                "x": "프레임워크는 AI 분야 법률을 발전, 융합(AX) 촉진, 안전·신뢰 확보, 오남용 방지 등 4개 분야로 나누고 △AI기본법 중심 입법 △국방·안보 분야 입법공백 해소 △사업자 예측가능성 제고 △역기능 발생 시 즉시 대응 등 4대 기본 방향을 제시했다. 새로운 법 제정보다 AI기본법이나 기존 개별법 개정을 우선 검토하고, AI기본법 적용범위 밖인 국방·국가안보 분야는 독자 입법을 우선 추진한다. 생명·신체·기본권에 대한 위험이 확인되고 규범 공백이 명확한 경우에는 즉시 대응하도록 했다."
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/11/05/Anne-Le-Henanff-1024x683.jpg",
-                "cap": "Digital Minister Anne Le Hénanff speaks in the French parliament in Paris on Oct. 28, 2026."
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.07d4d63ff18340afb5965eccdf487f72_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "France, which holds the 2026 G7 presidency, issued a chair’s summary after the Oct. 20 virtual G7 tech ministerial; it was not a joint statement endorsed by all G7 members. Le Hénanff has proposed resuming talks in December and said France would keep pushing the issue, citing INESIA and Inria."
+                "x": "위원회는 '국가 AI 핵심과제 추진을 위한 위원회 TF 구성·운영계획'도 의결했다. 청년 도약, 국가 초지능 대응, 글로벌 AI 전략적 협력 등 3개 과제는 부위원장 직속 범위원회 TF로, 국가 사이버 복원력 강화, 문화·콘텐츠 AI 혁신, 데이터 플라이휠 구축, K-AI 풀스택 생태계 구축 등 4개 과제는 기존 분과 연계형으로 구성한다. 국가 초지능 대응 TF는 내년 6월까지 AI행동계획 핵심 보강 10대 과제를 발굴한다."
               },
               {
                 "t": "p",
-                "x": "The White House official said: “Under President Trump’s leadership, America will continue to lead the world in SI innovation.”"
+                "x": "하정우 부위원장은 “핵심과제 TF로 정부와 민간이 원팀으로 실행력을 발휘해 성과로 보여주겠다”고 강조했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "G7 AI 안전 감독 두고\n프랑스·미국(US) 갈등",
-          "body": "프랑스가 내놓은 G7 AI 안전 공조안을 백악관은 ‘불필요한 관료주의’라 했다.",
-          "mini_headline": "G7 AI 안전 놓고 프랑스·미국(US) 갈등",
+        "en": {
+          "headline": "AI laws: amend Basic Act first\nAI panel adopts legal framework",
+          "body": "The National AI Strategy Committee's new framework puts amending the Basic Act and existing laws before new ones.",
+          "mini_headline": "AI laws: amend Basic Act first",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=740,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/05/G7-AI-scaled.jpg",
-                "cap": "2026년 6월 17일, G7 정상과 세계 각국 귀빈, 기술·AI 업계 대표들이 프랑스 Évian-les-Bains(에비앙레뱅)에 모였다."
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1722109085f94daf9226ad339aae6bd1_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "G7 차원에서 첨단 AI 안전을 조율하자는 프랑스의 구상이 U.S.(미국) 정부 반대로 무산됐다. 백악관 당국자는 이를 “불필요한 관료주의”라고 불렀다."
+                "x": "The National AI Strategy Committee held its 3rd plenary meeting at the committee in Jung-gu, Seoul, on the 6th, deliberating on and approving the 'Republic of Korea AI Legislative Framework.' Vice Chair Ha Jung-woo presided over the meeting, which about 60 people attended, including government and private-sector members and heads of related agencies."
               },
               {
                 "t": "p",
-                "x": "프랑스 디지털 장관 안 르에낭(Anne Le Hénanff)은 수요일 프랑스 상원 청문회에서 9월과 10월 두 차례 장관급 회의를 열었다고 밝혔다. 프런티어 AI를 시험하고 위험과 사고 정보를 공유할 고위급 실무그룹을 G7이 약속하게 하려는 자리였다. 그러나 U.S.가 독자 노선을 원하면서 그 노력은 “성공적인 결론에 이르지 못했다”고 그는 말했다."
+                "x": "In about 29 months since the 22nd National Assembly opened, 477 bills enacting or amending laws that mention AI have been filed, about 4.7 times the 170 filed over the 4 years of the 21st National Assembly on a monthly-average basis. The need to keep bills consistent with one another is also growing."
               },
               {
                 "t": "p",
-                "x": "백악관 당국자는 프랑스 정부가 “제대로 정의되지 않은 기구”를 제안했고 행정부는 그 기구가 “불필요한 관료주의를 낳을” 것을 우려했다고 말했다. 그러면서 도널드 트럼프(Donald Trump) 대통령의 Super Intelligence Force를 대안으로 내세웠다."
+                "x": "The framework divides AI-related laws into 4 areas — development, promotion of convergence (AX), securing safety and trust, and preventing misuse — and sets out 4 basic directions: △legislation centered on the AI Basic Act △closing legislative gaps in defense and security △greater predictability for businesses △immediate response when adverse effects arise. Amending the AI Basic Act or existing individual laws will be considered before enacting new laws, while for defense and national security, which fall outside the scope of the AI Basic Act, separate legislation will be pursued first. Where risks to life, body or fundamental rights are confirmed and a regulatory gap is clear, there is to be an immediate response."
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/11/05/Anne-Le-Henanff-1024x683.jpg",
-                "cap": "안 르에낭(Anne Le Hénanff) 디지털 장관이 2026년 10월 28일 파리의 프랑스 의회에서 발언하고 있다."
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.07d4d63ff18340afb5965eccdf487f72_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "2026년 G7 의장국인 프랑스는 10월 20일 화상으로 열린 G7 기술 장관회의 뒤 의장 요약문을 냈다. G7 회원국 전체가 지지한 공동성명은 아니었다. 르에낭(Le Hénanff)은 12월 협상 재개를 제안했다. INESIA와 Inria를 거론하면서 프랑스가 이 문제를 계속 밀어붙이겠다고도 했다."
+                "x": "The committee also approved the 'plan for forming and operating committee TF units to advance national AI core tasks.' 3 tasks — youth leap, national response to superintelligence, and global AI strategic cooperation — go to committee-wide TF units reporting directly to the vice chair, while 4 tasks — strengthening national cyber resilience, AI innovation in culture and content, building a data flywheel, and building a K-AI full-stack ecosystem — are organized in conjunction with existing subcommittees. The national superintelligence response TF will identify 10 key tasks to reinforce the AI Action Plan by June next year."
               },
               {
                 "t": "p",
-                "x": "백악관 당국자는 “트럼프(Trump) 대통령의 리더십 아래 미국은 SI 혁신에서 계속 세계를 이끌 것”이라고 말했다."
+                "x": "Vice Chair Ha Jung-woo stressed, “Through the core-task TF units, the government and private sector will work as one team, deliver, and show it through results.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "G7のAI安全監督で\n仏と米国(US)が対立",
-          "body": "フランスのG7でのAI安全協調案を、ホワイトハウス高官は「不要な官僚主義」と評した。",
-          "mini_headline": "G7のAI安全で仏と米国(US)が対立",
+          "headline": "AI法は基本法改正から\n国家AI戦略委が立法枠組み",
+          "body": "国家AI戦略委は新法制定より基本法・既存法の改正を優先する立法枠組みを採択した。",
+          "mini_headline": "AI法は基本法改正から",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=740,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/05/G7-AI-scaled.jpg",
-                "cap": "2026年6月17日、フランスのÉvian-les-Bainsに集まったG7首脳、各国要人、テック・AI業界の代表者たち。"
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1722109085f94daf9226ad339aae6bd1_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "U.S.(米国)政府は、先端AIの安全性をG7で調整しようとするフランスの働きかけを頓挫させた。ホワイトハウス高官はこれを「不要な官僚主義」と呼んだ。"
+                "x": "国家AI戦略委員会は6日、ソウル中区の委員会で第3回全体会議を開き、「大韓民国AI立法フレームワーク」を審議・議決した。会議はハ・ジョンウ副委員長が主宰し、政府・民間の委員や関係機関の長など60人余りが出席した。"
               },
               {
                 "t": "p",
-                "x": "フランスのデジタル担当相Anne Le Hénanffは水曜日、フランス上院の公聴会で、フロンティアAIを試験し、リスクやインシデントに関する情報を共有する高レベル作業部会へのG7のコミットメントを得るため、9月と10月に二度の閣僚会合を開いたと述べた。U.S.が独自の手法を追求したがったため、その取り組みは「成功裏に終わらなかった」という。"
+                "x": "第22代国会の開院以降、約29カ月間にAIに言及した法律の制定・改正案は477件に上り、第21代国会の4年間の170件と比べ、月平均で約4.7倍の水準だ。法案間の整合性を確保する必要性も高まっている。"
               },
               {
                 "t": "p",
-                "x": "ホワイトハウス高官によると、フランス政府は「定義が不十分な機関」を提案し、政権はそれが「不要な官僚主義を生む」ことを懸念したという。高官は代わりにDonald Trump大統領のSuper Intelligence Forceを挙げた。"
+                "x": "フレームワークはAI分野の法律を発展、融合（AX）促進、安全・信頼の確保、悪用防止の4分野に分け、△AI基本法中心の立法 △国防・安保分野の立法空白の解消 △事業者の予見可能性の向上 △逆機能発生時の即時対応という4大基本方向を示した。新法の制定よりもAI基本法や既存の個別法の改正を優先して検討し、AI基本法の適用範囲外である国防・国家安全保障分野は独自の立法を優先して進める。生命・身体・基本権へのリスクが確認され、規範の空白が明確な場合には即時に対応するとした。"
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/11/05/Anne-Le-Henanff-1024x683.jpg",
-                "cap": "2026年10月28日、パリのフランス議会で発言するAnne Le Hénanffデジタル担当相。"
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.07d4d63ff18340afb5965eccdf487f72_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "2026年のG7議長国であるフランスは、10月20日にオンラインで開かれたG7テック閣僚会合の後に議長総括を出したが、これはG7全加盟国が支持した共同声明ではなかった。Le Hénanffは12月の協議再開を提案し、INESIAとInriaを挙げつつ、フランスはこの問題を引き続き推進すると述べた。"
+                "x": "委員会は「国家AI核心課題推進のための委員会TF構成・運営計画」も議決した。青年の飛躍、国家超知能への対応、グローバルAI戦略的協力の3課題は副委員長直属の全委員会TFとし、国家サイバーレジリエンス強化、文化・コンテンツAIイノベーション、データフライホイール構築、K-AIフルスタックエコシステム構築の4課題は既存の分科会連携型で構成する。国家超知能対応TFは来年6月までにAI行動計画の核心補強10大課題を発掘する。"
               },
               {
                 "t": "p",
-                "x": "ホワイトハウス高官は「Trump大統領の指導の下、米国はSIイノベーションで引き続き世界をリードする」と述べた。"
+                "x": "ハ・ジョンウ副委員長は「核心課題TFを通じて政府と民間がワンチームとなって実行力を発揮し、成果で示す」と強調した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "法国与美国(US)就\nG7 AI安全监管分歧",
-          "body": "法国提议G7协调AI安全，白宫官员称此举将“制造不必要的官僚主义”。",
-          "mini_headline": "法美(US)在G7 AI安全上分歧",
+          "headline": "AI立法先改基本法\n国家AI战略委定立法框架",
+          "body": "国家AI战略委员会通过立法框架，优先修订基本法和现有法律，而非制定新法。",
+          "mini_headline": "AI立法先改基本法",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=740,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/05/G7-AI-scaled.jpg",
-                "cap": "2026年6月17日，G7领导人、各国政要以及科技和AI行业代表在法国Évian-les-Bains会晤。"
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1722109085f94daf9226ad339aae6bd1_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "U.S.(美国)政府否决了法国推动G7协调先进AI安全的努力，一名白宫官员称之为“不必要的官僚主义”。"
+                "x": "国家AI战略委员会6日在首尔中区的委员会召开第3次全体会议，审议并通过了《大韩民国AI立法框架》。会议由副委员长Ha Jung-woo主持，政府和民间委员及相关机构负责人等60余人出席。"
               },
               {
                 "t": "p",
-                "x": "法国数字部长Anne Le Hénanff周三在法国参议院听证会上表示，她曾在9月和10月主持两次部长级会议，争取G7承诺设立一个高级别工作组，用于测试前沿AI并共享风险和事件信息。她说，由于U.S.希望走自己的路线，这一努力“未能取得成功”。"
+                "x": "第22届国会开院以来约29个月间，提及AI的法律制定和修订案达477件，与第21届国会4年间的170件相比，按月平均计算约为4.7倍。确保法案之间一致性的必要性也在上升。"
               },
               {
                 "t": "p",
-                "x": "一名白宫官员称，法国政府提议设立一个“定义不清的机构”，美国政府担心它会“制造不必要的官僚主义”，并转而提到Donald Trump总统的Super Intelligence Force。"
+                "x": "该框架将AI领域法律分为发展、促进融合（AX）、确保安全与信任、防止滥用4个领域，并提出△以AI基本法为中心立法 △填补国防和安全领域立法空白 △提高企业可预期性 △出现负面作用时立即应对等4大基本方向。相较于制定新法，将优先考虑修订AI基本法或现有单行法；对于AI基本法适用范围之外的国防和国家安全领域，则优先推进单独立法。在对生命、身体和基本权利的风险得到确认且规范空白明确时，将立即应对。"
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/11/05/Anne-Le-Henanff-1024x683.jpg",
-                "cap": "2026年10月28日，数字部长Anne Le Hénanff在巴黎的法国议会发言。"
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.07d4d63ff18340afb5965eccdf487f72_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "担任2026年G7轮值主席国的法国在10月20日G7科技部长视频会议后发布了主席摘要；这并非全体G7成员认可的联合声明。Le Hénanff提议于12月恢复谈判，并援引INESIA和Inria表示，法国将继续推动这一议题。"
+                "x": "委员会还通过了《为推进国家AI核心课题的委员会TF组建与运营计划》。青年跃升、国家超级智能应对、全球AI战略合作3项课题由副委员长直属的跨委员会TF负责；加强国家网络韧性、文化内容AI创新、构建数据飞轮、构建K-AI全栈生态系统4项课题则采取与现有分委会联动的方式组建。国家超级智能应对TF将在明年6月前发掘AI行动计划核心补强10大课题。"
               },
               {
                 "t": "p",
-                "x": "这名白宫官员说：“在Trump总统的领导下，美国将继续在SI创新方面引领世界。”"
+                "x": "副委员长Ha Jung-woo强调：“将通过核心课题TF，让政府与民间作为一个团队发挥执行力，用成果说话。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Francia y EE. UU. (US) chocan\nen el G7 por la seguridad de AI",
-          "body": "Francia propuso coordinar la seguridad de la IA (AI) en el G7; la Casa Blanca lo vio como «burocracia innecesaria».",
-          "mini_headline": "Francia y EE. UU. (US) chocan por la AI en el G7",
+          "headline": "Leyes de AI: reforma primero\nComité de AI fija marco legal",
+          "body": "El Comité Nacional de Estrategia de AI prioriza en su nuevo marco reformar la Ley Básica y leyes vigentes.",
+          "mini_headline": "Leyes de AI: reforma primero",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=740,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/05/G7-AI-scaled.jpg",
-                "cap": "Líderes del G7, dignatarios de todo el mundo y representantes de las industrias tecnológica y de AI se reúnen en Évian-les-Bains, Francia, el 17 de junio de 2026."
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1722109085f94daf9226ad339aae6bd1_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "El gobierno de U.S. ha frustrado el impulso francés para que el G7 se coordine en materia de seguridad de la AI avanzada; un funcionario de la Casa Blanca lo calificó de «burocracia innecesaria»."
+                "x": "El Comité Nacional de Estrategia de AI celebró el día 6 su 3.ª sesión plenaria en la sede del comité en Jung-gu, Seúl, y deliberó y aprobó el ‘Marco Legislativo de AI de la República de Corea’. La reunión fue presidida por el vicepresidente Ha Jung-woo y asistieron unas 60 personas, entre miembros del Gobierno y del sector privado y jefes de organismos relacionados."
               },
               {
                 "t": "p",
-                "x": "La ministra francesa de Asuntos Digitales, Anne Le Hénanff, dijo el miércoles en una audiencia del Senado francés que celebró dos reuniones ministeriales en septiembre y octubre para lograr compromisos del G7 con un grupo de trabajo de alto nivel que pusiera a prueba la AI de frontera y compartiera información sobre riesgos e incidentes. Ese esfuerzo «no llegó a buen término» porque U.S. quería seguir su propio enfoque, afirmó."
+                "x": "Desde la apertura de la 22.ª Asamblea Nacional, en unos 29 meses se han presentado 477 proyectos de creación o reforma de leyes que mencionan la AI, alrededor de 4.7 veces más en promedio mensual que los 170 de los 4 años de la 21.ª Asamblea Nacional. También crece la necesidad de garantizar la coherencia entre los proyectos."
               },
               {
                 "t": "p",
-                "x": "Un funcionario de la Casa Blanca dijo que el gobierno francés propuso un «organismo mal definido» que, según temía la administración, «crearía burocracia innecesaria», y señaló en cambio la Super Intelligence Force del presidente Donald Trump."
+                "x": "El marco divide las leyes del ámbito de la AI en 4 áreas —desarrollo, fomento de la convergencia (AX), garantía de seguridad y confianza, y prevención del uso indebido— y plantea 4 orientaciones básicas: △legislación centrada en la Ley Básica de AI △eliminación de vacíos legislativos en defensa y seguridad △mayor previsibilidad para las empresas △respuesta inmediata ante efectos adversos. Se priorizará reformar la Ley Básica de AI o las leyes sectoriales vigentes antes que promulgar nuevas leyes, y en defensa y seguridad nacional, que quedan fuera del ámbito de la Ley Básica de AI, se impulsará primero una legislación propia. Cuando se confirmen riesgos para la vida, la integridad física o los derechos fundamentales y el vacío normativo sea claro, se responderá de inmediato."
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/11/05/Anne-Le-Henanff-1024x683.jpg",
-                "cap": "La ministra de Asuntos Digitales Anne Le Hénanff interviene en el parlamento francés en París el 28 de octubre de 2026."
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.07d4d63ff18340afb5965eccdf487f72_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "Francia, que ostenta la presidencia del G7 en 2026, publicó un resumen de la presidencia tras la reunión ministerial virtual de tecnología del G7 del 20 de octubre; no fue una declaración conjunta respaldada por todos los miembros del G7. Le Hénanff ha propuesto reanudar las conversaciones en diciembre y dijo que Francia seguirá impulsando el tema, citando a INESIA e Inria."
+                "x": "El comité aprobó también el ‘plan de formación y operación de TF del comité para impulsar las tareas clave nacionales de AI’. 3 tareas —el impulso a los jóvenes, la respuesta nacional a la superinteligencia y la cooperación estratégica global en AI— quedarán a cargo de TF de todo el comité bajo el vicepresidente, mientras que 4 tareas —el refuerzo de la ciberresiliencia nacional, la innovación con AI en cultura y contenidos, la creación de un volante de datos y la construcción de un ecosistema K-AI de pila completa— se organizarán en vinculación con los subcomités existentes. La TF de respuesta nacional a la superinteligencia identificará hasta junio del próximo año 10 tareas clave para reforzar el Plan de Acción de AI."
               },
               {
                 "t": "p",
-                "x": "El funcionario de la Casa Blanca dijo: «Bajo el liderazgo del presidente Trump, Estados Unidos seguirá liderando el mundo en innovación de SI»."
+                "x": "El vicepresidente Ha Jung-woo subrayó: “Con las TF de tareas clave, el Gobierno y el sector privado actuarán como un solo equipo y lo demostrarán con resultados”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "G7 AI 안전 감독 두고\n프랑스·미국(US) 갈등",
-          "body": "프랑스의 G7 AI 안전 공조 제안에 백악관 측은 ‘불필요한 관료주의’라 했다.",
-          "mini_headline": "G7 AI 안전 놓고 프랑스·미국(US) 갈등",
+        "en": {
+          "headline": "AI laws: amend Basic Act first\nAI panel adopts legal framework",
+          "body": "The National AI Strategy Committee's new framework puts amending the Basic Act and existing laws before new ones.",
+          "mini_headline": "AI laws: amend Basic Act first",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=740,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/05/G7-AI-scaled.jpg",
-                "cap": "2026년 6월 17일 프랑스 Évian-les-Bains(에비앙레뱅)에 G7 정상과 세계 각국 귀빈, 기술·AI 업계 대표들이 모였다."
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1722109085f94daf9226ad339aae6bd1_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "U.S.(미국) 정부가 G7 차원에서 첨단 AI 안전을 조율하자는 프랑스의 추진을 무산시켰다. 백악관 당국자는 이를 “불필요한 관료주의”라고 했다."
+                "x": "The National AI Strategy Committee held its 3rd plenary meeting at the committee in Jung-gu, Seoul, on the 6th, deliberating on and approving the 'Republic of Korea AI Legislative Framework.' Vice Chair Ha Jung-woo presided over the meeting, which about 60 people attended, including government and private-sector members and heads of related agencies."
               },
               {
                 "t": "p",
-                "x": "프랑스 디지털 장관 안 르에낭(Anne Le Hénanff)은 수요일 프랑스 상원 청문회에서, 프런티어 AI를 시험하고 위험과 사고 정보를 공유할 고위급 실무그룹에 대한 G7의 약속을 얻으려고 9월과 10월 두 차례 장관급 회의를 열었다고 밝혔다. 그는 U.S.가 독자 노선을 원했기 때문에 그 노력이 “성공적인 결론에 이르지 못했다”고 말했다."
+                "x": "In about 29 months since the 22nd National Assembly opened, 477 bills enacting or amending laws that mention AI have been filed, about 4.7 times the 170 filed over the 4 years of the 21st National Assembly on a monthly-average basis. The need to keep bills consistent with one another is also growing."
               },
               {
                 "t": "p",
-                "x": "백악관 당국자는 프랑스 정부가 “제대로 정의되지 않은 기구”를 제안했고 행정부는 그것이 “불필요한 관료주의를 낳을” 것을 우려했다고 말하며, 대신 도널드 트럼프(Donald Trump) 대통령의 Super Intelligence Force를 내세웠다."
+                "x": "The framework divides AI-related laws into 4 areas — development, promotion of convergence (AX), securing safety and trust, and preventing misuse — and sets out 4 basic directions: △legislation centered on the AI Basic Act △closing legislative gaps in defense and security △greater predictability for businesses △immediate response when adverse effects arise. Amending the AI Basic Act or existing individual laws will be considered before enacting new laws, while for defense and national security, which fall outside the scope of the AI Basic Act, separate legislation will be pursued first. Where risks to life, body or fundamental rights are confirmed and a regulatory gap is clear, there is to be an immediate response."
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/11/05/Anne-Le-Henanff-1024x683.jpg",
-                "cap": "안 르에낭(Anne Le Hénanff) 디지털 장관이 2026년 10월 28일 파리의 프랑스 의회에서 발언하고 있다."
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.07d4d63ff18340afb5965eccdf487f72_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "2026년 G7 의장국인 프랑스는 10월 20일 화상으로 열린 G7 기술 장관회의 뒤 의장 요약문을 냈다. 이는 G7 회원국 전체가 지지한 공동성명이 아니었다. 르에낭(Le Hénanff)은 12월 협상 재개를 제안했고, INESIA와 Inria를 거론하며 프랑스가 이 문제를 계속 밀어붙이겠다고 말했다."
+                "x": "The committee also approved the 'plan for forming and operating committee TF units to advance national AI core tasks.' 3 tasks — youth leap, national response to superintelligence, and global AI strategic cooperation — go to committee-wide TF units reporting directly to the vice chair, while 4 tasks — strengthening national cyber resilience, AI innovation in culture and content, building a data flywheel, and building a K-AI full-stack ecosystem — are organized in conjunction with existing subcommittees. The national superintelligence response TF will identify 10 key tasks to reinforce the AI Action Plan by June next year."
               },
               {
                 "t": "p",
-                "x": "백악관 당국자는 “트럼프(Trump) 대통령의 리더십 아래 미국은 SI 혁신에서 계속 세계를 이끌 것”이라고 말했다."
+                "x": "Vice Chair Ha Jung-woo stressed, “Through the core-task TF units, the government and private sector will work as one team, deliver, and show it through results.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "G7のAI安全監督で\n仏と米国(US)が対立",
-          "body": "フランスのG7でのAI安全協調案を、ホワイトハウス高官は「不要な官僚主義」と評した。",
-          "mini_headline": "G7のAI安全で仏と米国(US)が対立",
+          "headline": "AI法は基本法改正から\n国家AI戦略委が立法枠組み",
+          "body": "国家AI戦略委は新法制定より基本法・既存法の改正を優先する立法枠組みを採択した。",
+          "mini_headline": "AI法は基本法改正から",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=740,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/05/G7-AI-scaled.jpg",
-                "cap": "2026年6月17日、フランスのÉvian-les-Bainsに集まったG7首脳、各国要人、テック・AI業界の代表者たち。"
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1722109085f94daf9226ad339aae6bd1_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "U.S.(米国)政府は、先端AIの安全性をG7で調整しようとするフランスの働きかけを頓挫させた。ホワイトハウス高官はこれを「不要な官僚主義」と呼んだ。"
+                "x": "国家AI戦略委員会は6日、ソウル中区の委員会で第3回全体会議を開き、「大韓民国AI立法フレームワーク」を審議・議決した。会議はハ・ジョンウ副委員長が主宰し、政府・民間の委員や関係機関の長など60人余りが出席した。"
               },
               {
                 "t": "p",
-                "x": "フランスのデジタル担当相Anne Le Hénanffは水曜日、フランス上院の公聴会で、フロンティアAIを試験し、リスクやインシデントに関する情報を共有する高レベル作業部会へのG7のコミットメントを得るため、9月と10月に二度の閣僚会合を開いたと述べた。U.S.が独自の手法を追求したがったため、その取り組みは「成功裏に終わらなかった」という。"
+                "x": "第22代国会の開院以降、約29カ月間にAIに言及した法律の制定・改正案は477件に上り、第21代国会の4年間の170件と比べ、月平均で約4.7倍の水準だ。法案間の整合性を確保する必要性も高まっている。"
               },
               {
                 "t": "p",
-                "x": "ホワイトハウス高官によると、フランス政府は「定義が不十分な機関」を提案し、政権はそれが「不要な官僚主義を生む」ことを懸念したという。高官は代わりにDonald Trump大統領のSuper Intelligence Forceを挙げた。"
+                "x": "フレームワークはAI分野の法律を発展、融合（AX）促進、安全・信頼の確保、悪用防止の4分野に分け、△AI基本法中心の立法 △国防・安保分野の立法空白の解消 △事業者の予見可能性の向上 △逆機能発生時の即時対応という4大基本方向を示した。新法の制定よりもAI基本法や既存の個別法の改正を優先して検討し、AI基本法の適用範囲外である国防・国家安全保障分野は独自の立法を優先して進める。生命・身体・基本権へのリスクが確認され、規範の空白が明確な場合には即時に対応するとした。"
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/11/05/Anne-Le-Henanff-1024x683.jpg",
-                "cap": "2026年10月28日、パリのフランス議会で発言するAnne Le Hénanffデジタル担当相。"
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.07d4d63ff18340afb5965eccdf487f72_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "2026年のG7議長国であるフランスは、10月20日にオンラインで開かれたG7テック閣僚会合の後に議長総括を出したが、これはG7全加盟国が支持した共同声明ではなかった。Le Hénanffは12月の協議再開を提案し、INESIAとInriaを挙げつつ、フランスはこの問題を引き続き推進すると述べた。"
+                "x": "委員会は「国家AI核心課題推進のための委員会TF構成・運営計画」も議決した。青年の飛躍、国家超知能への対応、グローバルAI戦略的協力の3課題は副委員長直属の全委員会TFとし、国家サイバーレジリエンス強化、文化・コンテンツAIイノベーション、データフライホイール構築、K-AIフルスタックエコシステム構築の4課題は既存の分科会連携型で構成する。国家超知能対応TFは来年6月までにAI行動計画の核心補強10大課題を発掘する。"
               },
               {
                 "t": "p",
-                "x": "ホワイトハウス高官は「Trump大統領の指導の下、米国はSIイノベーションで引き続き世界をリードする」と述べた。"
+                "x": "ハ・ジョンウ副委員長は「核心課題TFを通じて政府と民間がワンチームとなって実行力を発揮し、成果で示す」と強調した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "法国与美国(US)就\nG7 AI安全监管分歧",
-          "body": "法国提议G7协调AI安全，白宫官员称此举将“制造不必要的官僚主义”。",
-          "mini_headline": "法美(US)在G7 AI安全上分歧",
+          "headline": "AI立法先改基本法\n国家AI战略委定立法框架",
+          "body": "国家AI战略委员会通过立法框架，优先修订基本法和现有法律，而非制定新法。",
+          "mini_headline": "AI立法先改基本法",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=740,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/05/G7-AI-scaled.jpg",
-                "cap": "2026年6月17日，G7领导人、各国政要以及科技和AI行业代表在法国Évian-les-Bains会晤。"
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1722109085f94daf9226ad339aae6bd1_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "U.S.(美国)政府否决了法国推动G7协调先进AI安全的努力，一名白宫官员称之为“不必要的官僚主义”。"
+                "x": "国家AI战略委员会6日在首尔中区的委员会召开第3次全体会议，审议并通过了《大韩民国AI立法框架》。会议由副委员长Ha Jung-woo主持，政府和民间委员及相关机构负责人等60余人出席。"
               },
               {
                 "t": "p",
-                "x": "法国数字部长Anne Le Hénanff周三在法国参议院听证会上表示，她曾在9月和10月主持两次部长级会议，争取G7承诺设立一个高级别工作组，用于测试前沿AI并共享风险和事件信息。她说，由于U.S.希望走自己的路线，这一努力“未能取得成功”。"
+                "x": "第22届国会开院以来约29个月间，提及AI的法律制定和修订案达477件，与第21届国会4年间的170件相比，按月平均计算约为4.7倍。确保法案之间一致性的必要性也在上升。"
               },
               {
                 "t": "p",
-                "x": "一名白宫官员称，法国政府提议设立一个“定义不清的机构”，美国政府担心它会“制造不必要的官僚主义”，并转而提到Donald Trump总统的Super Intelligence Force。"
+                "x": "该框架将AI领域法律分为发展、促进融合（AX）、确保安全与信任、防止滥用4个领域，并提出△以AI基本法为中心立法 △填补国防和安全领域立法空白 △提高企业可预期性 △出现负面作用时立即应对等4大基本方向。相较于制定新法，将优先考虑修订AI基本法或现有单行法；对于AI基本法适用范围之外的国防和国家安全领域，则优先推进单独立法。在对生命、身体和基本权利的风险得到确认且规范空白明确时，将立即应对。"
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/11/05/Anne-Le-Henanff-1024x683.jpg",
-                "cap": "2026年10月28日，数字部长Anne Le Hénanff在巴黎的法国议会发言。"
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.07d4d63ff18340afb5965eccdf487f72_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "担任2026年G7轮值主席国的法国在10月20日G7科技部长视频会议后发布了主席摘要；这并非全体G7成员认可的联合声明。Le Hénanff提议于12月恢复谈判，并援引INESIA和Inria表示，法国将继续推动这一议题。"
+                "x": "委员会还通过了《为推进国家AI核心课题的委员会TF组建与运营计划》。青年跃升、国家超级智能应对、全球AI战略合作3项课题由副委员长直属的跨委员会TF负责；加强国家网络韧性、文化内容AI创新、构建数据飞轮、构建K-AI全栈生态系统4项课题则采取与现有分委会联动的方式组建。国家超级智能应对TF将在明年6月前发掘AI行动计划核心补强10大课题。"
               },
               {
                 "t": "p",
-                "x": "这名白宫官员说：“在Trump总统的领导下，美国将继续在SI创新方面引领世界。”"
+                "x": "副委员长Ha Jung-woo强调：“将通过核心课题TF，让政府与民间作为一个团队发挥执行力，用成果说话。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Francia y EE. UU. (US) chocan\nen el G7 por la seguridad de AI",
-          "body": "Francia propuso coordinar la seguridad de la IA (AI) en el G7; la Casa Blanca lo vio como «burocracia innecesaria».",
-          "mini_headline": "Francia y EE. UU. (US) chocan por la AI en el G7",
+          "headline": "Leyes de AI: reforma primero\nComité de AI fija marco legal",
+          "body": "El Comité Nacional de Estrategia de AI prioriza en su nuevo marco reformar la Ley Básica y leyes vigentes.",
+          "mini_headline": "Leyes de AI: reforma primero",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=740,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/05/G7-AI-scaled.jpg",
-                "cap": "Líderes del G7, dignatarios de todo el mundo y representantes de las industrias tecnológica y de AI se reúnen en Évian-les-Bains, Francia, el 17 de junio de 2026."
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1722109085f94daf9226ad339aae6bd1_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "El gobierno de U.S. ha frustrado el impulso francés para que el G7 se coordine en materia de seguridad de la AI avanzada; un funcionario de la Casa Blanca lo calificó de «burocracia innecesaria»."
+                "x": "El Comité Nacional de Estrategia de AI celebró el día 6 su 3.ª sesión plenaria en la sede del comité en Jung-gu, Seúl, y deliberó y aprobó el ‘Marco Legislativo de AI de la República de Corea’. La reunión fue presidida por el vicepresidente Ha Jung-woo y asistieron unas 60 personas, entre miembros del Gobierno y del sector privado y jefes de organismos relacionados."
               },
               {
                 "t": "p",
-                "x": "La ministra francesa de Asuntos Digitales, Anne Le Hénanff, dijo el miércoles en una audiencia del Senado francés que celebró dos reuniones ministeriales en septiembre y octubre para lograr compromisos del G7 con un grupo de trabajo de alto nivel que pusiera a prueba la AI de frontera y compartiera información sobre riesgos e incidentes. Ese esfuerzo «no llegó a buen término» porque U.S. quería seguir su propio enfoque, afirmó."
+                "x": "Desde la apertura de la 22.ª Asamblea Nacional, en unos 29 meses se han presentado 477 proyectos de creación o reforma de leyes que mencionan la AI, alrededor de 4.7 veces más en promedio mensual que los 170 de los 4 años de la 21.ª Asamblea Nacional. También crece la necesidad de garantizar la coherencia entre los proyectos."
               },
               {
                 "t": "p",
-                "x": "Un funcionario de la Casa Blanca dijo que el gobierno francés propuso un «organismo mal definido» que, según temía la administración, «crearía burocracia innecesaria», y señaló en cambio la Super Intelligence Force del presidente Donald Trump."
+                "x": "El marco divide las leyes del ámbito de la AI en 4 áreas —desarrollo, fomento de la convergencia (AX), garantía de seguridad y confianza, y prevención del uso indebido— y plantea 4 orientaciones básicas: △legislación centrada en la Ley Básica de AI △eliminación de vacíos legislativos en defensa y seguridad △mayor previsibilidad para las empresas △respuesta inmediata ante efectos adversos. Se priorizará reformar la Ley Básica de AI o las leyes sectoriales vigentes antes que promulgar nuevas leyes, y en defensa y seguridad nacional, que quedan fuera del ámbito de la Ley Básica de AI, se impulsará primero una legislación propia. Cuando se confirmen riesgos para la vida, la integridad física o los derechos fundamentales y el vacío normativo sea claro, se responderá de inmediato."
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/11/05/Anne-Le-Henanff-1024x683.jpg",
-                "cap": "La ministra de Asuntos Digitales Anne Le Hénanff interviene en el parlamento francés en París el 28 de octubre de 2026."
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.07d4d63ff18340afb5965eccdf487f72_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "Francia, que ostenta la presidencia del G7 en 2026, publicó un resumen de la presidencia tras la reunión ministerial virtual de tecnología del G7 del 20 de octubre; no fue una declaración conjunta respaldada por todos los miembros del G7. Le Hénanff ha propuesto reanudar las conversaciones en diciembre y dijo que Francia seguirá impulsando el tema, citando a INESIA e Inria."
+                "x": "El comité aprobó también el ‘plan de formación y operación de TF del comité para impulsar las tareas clave nacionales de AI’. 3 tareas —el impulso a los jóvenes, la respuesta nacional a la superinteligencia y la cooperación estratégica global en AI— quedarán a cargo de TF de todo el comité bajo el vicepresidente, mientras que 4 tareas —el refuerzo de la ciberresiliencia nacional, la innovación con AI en cultura y contenidos, la creación de un volante de datos y la construcción de un ecosistema K-AI de pila completa— se organizarán en vinculación con los subcomités existentes. La TF de respuesta nacional a la superinteligencia identificará hasta junio del próximo año 10 tareas clave para reforzar el Plan de Acción de AI."
               },
               {
                 "t": "p",
-                "x": "El funcionario de la Casa Blanca dijo: «Bajo el liderazgo del presidente Trump, Estados Unidos seguirá liderando el mundo en innovación de SI»."
+                "x": "El vicepresidente Ha Jung-woo subrayó: “Con las TF de tareas clave, el Gobierno y el sector privado actuarán como un solo equipo y lo demostrarán con resultados”."
               }
             ]
           }
@@ -767,15 +395,287 @@
       }
     },
     {
-      "id": "certin-ai-incident-6hr",
+      "id": "doj-superintelligence-taskforce",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "인도 CERT-In,\nAI 사고 여섯 시간 보고",
-      "body": "CERT-In AI 감사 지침은 네 단계 위험 체계와 여섯 시간 사고 보고를 둔다.",
-      "mini_headline": "CERT-In: 여섯 시간 내 보고",
+      "headline": "미 법무부 초지능\nSI 태스크포스 출범",
+      "body": "DOJ SI 태스크포스는 악의적 SI 세력을 막아 U.S.의 SI 주도권을 지킨다.",
+      "mini_headline": "DOJ, SI 태스크포스 출범",
       "tool": "Politics",
-      "source": "The Indian Express",
-      "url": "https://indianexpress.com/article/business/cert-in-reporting-deadline-ai-security-incidents-10951358/",
+      "source": "U.S. Department of Justice",
+      "url": "https://www.justice.gov/opa/pr/department-justice-launches-super-intelligence-task-force",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "미국(U.S.) 법무부가 초지능(Super Intelligence, SI) 태스크포스(DOJ-SITF)를 출범한다고 발표했다. 트럼프(Trump) 대통령은 “미국은 지능 분야의 새로운 기술 혁명 최전선에 서 있다”고 밝혔고, 법무부는 악의적인 SI 행위자로부터 보호하는 일에 앞장선다는 방침이다."
+          },
+          {
+            "t": "p",
+            "x": "DOJ-SITF는 스탠리 우드워드(Stanley Woodward) 법무부 차관보와 스티븐 와이스(Stephen Weiss) 법무부 부장관 보좌관이 이끈다. 외국 정부와 국가 지원 행위자, 초국가 범죄 조직, 사기 등 불법 행위에 가담한 개인·기업이 SI를 오용해 미국의 SI 주도권을 훼손하지 못하게 막는 것이 임무다."
+          },
+          {
+            "t": "p",
+            "x": "토드 블랜치(Todd Blanche) 법무장관은 “SI 개발은 앞으로도 미국 혁신가들이 이끌 것”이라며 “법무부 SI 태스크포스는 핵심 SI 기술이 미국 국민에게 봉사하고 국내외 악의적 행위자에게 조작되지 않도록 하는 과정에서 제이 클레이턴(Jay Clayton) SI Force 의장과의 협력을 원활히 할 것”이라고 했다."
+          },
+          {
+            "t": "p",
+            "x": "스티븐 와이스 부장관 보좌관도 “법무부는 보유한 법 집행 수단을 활용해 SI의 부적절한 사용을 억제하고, SI 위험과 대응에 관한 정기 보고를 강화하며, SI 기술이 의도대로 작동하도록 기업이 엄격한 내부 통제를 시행하게 할 책임도 있다”고 덧붙였다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Justice Department forms\nSuper Intelligence Task Force",
+          "body": "The DOJ's new Super Intelligence Task Force will counter malicious SI actors and protect U.S. leadership in SI.",
+          "mini_headline": "DOJ forms SI task force",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "The U.S. Department of Justice is announcing the formation of its Super Intelligence (SI) Task Force (DOJ-SITF). President Trump has made clear that “America stands at the forefront of a new technological revolution in intelligence,” and the Department will be a leader in safeguarding against malicious SI actors."
+              },
+              {
+                "t": "p",
+                "x": "Led by Associate Attorney General Stanley Woodward and Associate Deputy Attorney General Stephen Weiss, the DOJ-SITF will ensure that America's leadership in SI is not compromised by the misuse of SI by foreign state and state-sponsored actors, transnational criminal organizations, and individual or corporate actors engaged in fraud or other unlawful conduct."
+              },
+              {
+                "t": "p",
+                "x": "“SI development will continue to be powered by American innovators,” said Attorney General Todd Blanche. “The SI Task Force at the Department of Justice will facilitate our partnership with SI Force Chair Jay Clayton as we ensure critical SI technologies serve the American people and are not manipulated by bad actors at home or abroad.”"
+              },
+              {
+                "t": "p",
+                "x": "“The Department also has a responsibility to utilize law enforcement tools at our disposal to deter improper use of SI, harden regular reporting on SI risk and response, and ensure companies exercise vigorous internal controls so that SI technology behaves as intended,” said Associate Deputy Attorney General Stephen Weiss."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "미 법무부 초지능\nSI 태스크포스 출범",
+          "body": "DOJ SI 태스크포스는 악의적 SI 세력을 막아 U.S.의 SI 주도권을 지킨다.",
+          "mini_headline": "DOJ, SI 태스크포스 출범",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "미국(U.S.) 법무부가 초지능(Super Intelligence, SI) 태스크포스(DOJ-SITF)를 출범한다고 발표했다. 트럼프(Trump) 대통령은 “미국은 지능 분야의 새로운 기술 혁명 최전선에 서 있다”고 밝혔고, 법무부는 악의적인 SI 행위자로부터 보호하는 일에 앞장선다는 방침이다."
+              },
+              {
+                "t": "p",
+                "x": "DOJ-SITF는 스탠리 우드워드(Stanley Woodward) 법무부 차관보와 스티븐 와이스(Stephen Weiss) 법무부 부장관 보좌관이 이끈다. 외국 정부와 국가 지원 행위자, 초국가 범죄 조직, 사기 등 불법 행위에 가담한 개인·기업이 SI를 오용해 미국의 SI 주도권을 훼손하지 못하게 막는 것이 임무다."
+              },
+              {
+                "t": "p",
+                "x": "토드 블랜치(Todd Blanche) 법무장관은 “SI 개발은 앞으로도 미국 혁신가들이 이끌 것”이라며 “법무부 SI 태스크포스는 핵심 SI 기술이 미국 국민에게 봉사하고 국내외 악의적 행위자에게 조작되지 않도록 하는 과정에서 제이 클레이턴(Jay Clayton) SI Force 의장과의 협력을 원활히 할 것”이라고 했다."
+              },
+              {
+                "t": "p",
+                "x": "스티븐 와이스 부장관 보좌관도 “법무부는 보유한 법 집행 수단을 활용해 SI의 부적절한 사용을 억제하고, SI 위험과 대응에 관한 정기 보고를 강화하며, SI 기술이 의도대로 작동하도록 기업이 엄격한 내부 통제를 시행하게 할 책임도 있다”고 덧붙였다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "米司法省、超知能\nタスクフォース発足",
+          "body": "DOJの新SIタスクフォースは悪意あるSI勢力に対抗し、U.S.のSI主導権を守る。",
+          "mini_headline": "DOJ、SIタスクフォース設置",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "米国（U.S.）司法省は、超知能（Super Intelligence、SI）タスクフォース（DOJ-SITF）の設置を発表した。トランプ（Trump）大統領は「米国は知能における新たな技術革命の最前線に立っている」と明言しており、司法省は悪意あるSI行為者からの防護で主導的な役割を担う。"
+              },
+              {
+                "t": "p",
+                "x": "スタンリー・ウッドワード（Stanley Woodward）司法次官とスティーブン・ワイス（Stephen Weiss）司法副長官補佐が率いるDOJ-SITFは、外国政府や国家支援の行為者、国際犯罪組織、詐欺などの違法行為に関与する個人・企業によるSIの悪用で、米国のSIにおける主導的地位が損なわれないようにする。"
+              },
+              {
+                "t": "p",
+                "x": "「SI開発は今後も米国のイノベーターが原動力となる」とトッド・ブランシュ（Todd Blanche）司法長官は述べた。「司法省のSIタスクフォースは、重要なSI技術が米国民に奉仕し、国内外の悪質な行為者に操作されないようにする中で、SI Forceのジェイ・クレイトン（Jay Clayton）議長との連携を円滑にする」"
+              },
+              {
+                "t": "p",
+                "x": "「司法省には、手元の法執行手段を活用してSIの不適切な利用を抑止し、SIのリスクと対応に関する定期報告を強化し、SI技術が意図どおりに動作するよう企業に厳格な内部統制を徹底させる責任もある」とスティーブン・ワイス司法副長官補佐は述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "美司法部成立\n超级智能特别工作组",
+          "body": "DOJ新设SI特别工作组，将打击恶意SI行为者，维护U.S.在SI领域的领导地位。",
+          "mini_headline": "DOJ成立SI特别工作组",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "美国（U.S.）司法部宣布成立超级智能（Super Intelligence，SI）特别工作组（DOJ-SITF）。特朗普（Trump）总统已明确表示，“美国站在智能领域新一轮技术革命的最前沿”，司法部将在防范恶意SI行为者方面发挥引领作用。"
+              },
+              {
+                "t": "p",
+                "x": "DOJ-SITF由司法部副部长斯坦利·伍德沃德（Stanley Woodward）和常务副部长助理斯蒂芬·韦斯（Stephen Weiss）领导，将确保美国在SI领域的领导地位不因外国国家及国家支持的行为者、跨国犯罪组织以及从事欺诈或其他违法行为的个人或企业滥用SI而受损。"
+              },
+              {
+                "t": "p",
+                "x": "司法部长托德·布兰奇（Todd Blanche）表示：“SI的发展将继续由美国创新者推动。司法部SI特别工作组将促进我们与SI Force主席杰伊·克莱顿（Jay Clayton）的合作，确保关键SI技术服务于美国人民，不被国内外不法分子操纵。”"
+              },
+              {
+                "t": "p",
+                "x": "常务副部长助理斯蒂芬·韦斯表示：“司法部还有责任利用现有执法工具，遏制SI的不当使用，强化有关SI风险与应对的定期报告，并确保企业实施严格的内部控制，使SI技术按预期运行。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El DOJ crea un grupo especial\nsobre superinteligencia",
+          "body": "La nueva Task Force de SI del DOJ combatirá a actores maliciosos de SI y protegerá el liderazgo de U.S. en SI.",
+          "mini_headline": "El DOJ crea una Task Force de SI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "El Departamento de Justicia de EE. UU. (U.S.) anuncia la creación de su Task Force de Superinteligencia (Super Intelligence, SI) (DOJ-SITF). El presidente Trump ha dejado claro que “Estados Unidos está a la vanguardia de una nueva revolución tecnológica en inteligencia”, y el Departamento liderará la protección frente a actores maliciosos de SI."
+              },
+              {
+                "t": "p",
+                "x": "Dirigida por el fiscal general asociado Stanley Woodward y el fiscal general adjunto asociado Stephen Weiss, la DOJ-SITF garantizará que el liderazgo de Estados Unidos en SI no se vea comprometido por el mal uso de la SI por parte de Estados extranjeros y actores patrocinados por Estados, organizaciones criminales transnacionales y personas o empresas implicadas en fraude u otras conductas ilícitas."
+              },
+              {
+                "t": "p",
+                "x": "“El desarrollo de la SI seguirá impulsado por innovadores estadounidenses”, dijo el fiscal general Todd Blanche. “La Task Force de SI del Departamento de Justicia facilitará nuestra colaboración con el presidente de la SI Force, Jay Clayton, para garantizar que las tecnologías críticas de SI sirvan al pueblo estadounidense y no sean manipuladas por malos actores dentro o fuera del país”."
+              },
+              {
+                "t": "p",
+                "x": "“El Departamento también tiene la responsabilidad de utilizar las herramientas de aplicación de la ley a nuestro alcance para disuadir el uso indebido de la SI, reforzar los informes periódicos sobre riesgos y respuestas de SI, y asegurar que las empresas ejerzan controles internos rigurosos para que la tecnología de SI se comporte como se espera”, dijo el fiscal general adjunto asociado Stephen Weiss."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "미 법무부 초지능\nSI 태스크포스 출범",
+          "body": "DOJ SI 태스크포스가 악의적 SI 세력을 막고 U.S. SI 주도권을 지킨다.",
+          "mini_headline": "DOJ, SI 태스크포스 출범",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "미국(U.S.) 법무부가 초지능(Super Intelligence, SI) 태스크포스(DOJ-SITF) 출범을 발표했다. 트럼프(Trump) 대통령은 “미국은 지능 분야의 새로운 기술 혁명 최전선에 서 있다”고 분명히 밝혔고, 법무부는 악의적인 SI 행위자로부터 보호하는 데 앞장설 것이다."
+              },
+              {
+                "t": "p",
+                "x": "스탠리 우드워드(Stanley Woodward) 법무부 차관보와 스티븐 와이스(Stephen Weiss) 법무부 부장관 보좌관이 이끄는 DOJ-SITF는 외국 정부와 국가 지원 행위자, 초국가 범죄 조직, 사기 등 불법 행위에 가담한 개인·기업이 SI를 오용해 미국의 SI 주도권이 훼손되지 않도록 할 것이다."
+              },
+              {
+                "t": "p",
+                "x": "토드 블랜치(Todd Blanche) 법무장관은 “SI 개발은 앞으로도 미국 혁신가들이 이끌 것”이라며 “법무부 SI 태스크포스는 핵심 SI 기술이 미국 국민에게 봉사하고 국내외 악의적 행위자에게 조작되지 않도록 하는 과정에서 제이 클레이턴(Jay Clayton) SI Force 의장과의 협력을 원활히 할 것”이라고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "스티븐 와이스 법무부 부장관 보좌관은 “법무부는 보유한 법 집행 수단을 활용해 SI의 부적절한 사용을 억제하고, SI 위험과 대응에 관한 정기 보고를 강화하며, SI 기술이 의도대로 작동하도록 기업이 엄격한 내부 통제를 시행하게 할 책임도 있다”고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "米司法省、超知能\nタスクフォース発足",
+          "body": "DOJの新SIタスクフォースは悪意あるSI勢力に対抗し、U.S.のSI主導権を守る。",
+          "mini_headline": "DOJ、SIタスクフォース設置",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "米国（U.S.）司法省は、超知能（Super Intelligence、SI）タスクフォース（DOJ-SITF）の設置を発表した。トランプ（Trump）大統領は「米国は知能における新たな技術革命の最前線に立っている」と明言しており、司法省は悪意あるSI行為者からの防護で主導的な役割を担う。"
+              },
+              {
+                "t": "p",
+                "x": "スタンリー・ウッドワード（Stanley Woodward）司法次官とスティーブン・ワイス（Stephen Weiss）司法副長官補佐が率いるDOJ-SITFは、外国政府や国家支援の行為者、国際犯罪組織、詐欺などの違法行為に関与する個人・企業によるSIの悪用で、米国のSIにおける主導的地位が損なわれないようにする。"
+              },
+              {
+                "t": "p",
+                "x": "「SI開発は今後も米国のイノベーターが原動力となる」とトッド・ブランシュ（Todd Blanche）司法長官は述べた。「司法省のSIタスクフォースは、重要なSI技術が米国民に奉仕し、国内外の悪質な行為者に操作されないようにする中で、SI Forceのジェイ・クレイトン（Jay Clayton）議長との連携を円滑にする」"
+              },
+              {
+                "t": "p",
+                "x": "「司法省には、手元の法執行手段を活用してSIの不適切な利用を抑止し、SIのリスクと対応に関する定期報告を強化し、SI技術が意図どおりに動作するよう企業に厳格な内部統制を徹底させる責任もある」とスティーブン・ワイス司法副長官補佐は述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "美司法部成立\n超级智能特别工作组",
+          "body": "DOJ新设SI特别工作组，将打击恶意SI行为者，维护U.S.在SI领域的领导地位。",
+          "mini_headline": "DOJ成立SI特别工作组",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "美国（U.S.）司法部宣布成立超级智能（Super Intelligence，SI）特别工作组（DOJ-SITF）。特朗普（Trump）总统已明确表示，“美国站在智能领域新一轮技术革命的最前沿”，司法部将在防范恶意SI行为者方面发挥引领作用。"
+              },
+              {
+                "t": "p",
+                "x": "DOJ-SITF由司法部副部长斯坦利·伍德沃德（Stanley Woodward）和常务副部长助理斯蒂芬·韦斯（Stephen Weiss）领导，将确保美国在SI领域的领导地位不因外国国家及国家支持的行为者、跨国犯罪组织以及从事欺诈或其他违法行为的个人或企业滥用SI而受损。"
+              },
+              {
+                "t": "p",
+                "x": "司法部长托德·布兰奇（Todd Blanche）表示：“SI的发展将继续由美国创新者推动。司法部SI特别工作组将促进我们与SI Force主席杰伊·克莱顿（Jay Clayton）的合作，确保关键SI技术服务于美国人民，不被国内外不法分子操纵。”"
+              },
+              {
+                "t": "p",
+                "x": "常务副部长助理斯蒂芬·韦斯表示：“司法部还有责任利用现有执法工具，遏制SI的不当使用，强化有关SI风险与应对的定期报告，并确保企业实施严格的内部控制，使SI技术按预期运行。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El DOJ crea un grupo especial\nsobre superinteligencia",
+          "body": "La nueva Task Force de SI del DOJ combatirá a actores maliciosos de SI y protegerá el liderazgo de U.S. en SI.",
+          "mini_headline": "El DOJ crea una Task Force de SI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "El Departamento de Justicia de EE. UU. (U.S.) anuncia la creación de su Task Force de Superinteligencia (Super Intelligence, SI) (DOJ-SITF). El presidente Trump ha dejado claro que “Estados Unidos está a la vanguardia de una nueva revolución tecnológica en inteligencia”, y el Departamento liderará la protección frente a actores maliciosos de SI."
+              },
+              {
+                "t": "p",
+                "x": "Dirigida por el fiscal general asociado Stanley Woodward y el fiscal general adjunto asociado Stephen Weiss, la DOJ-SITF garantizará que el liderazgo de Estados Unidos en SI no se vea comprometido por el mal uso de la SI por parte de Estados extranjeros y actores patrocinados por Estados, organizaciones criminales transnacionales y personas o empresas implicadas en fraude u otras conductas ilícitas."
+              },
+              {
+                "t": "p",
+                "x": "“El desarrollo de la SI seguirá impulsado por innovadores estadounidenses”, dijo el fiscal general Todd Blanche. “La Task Force de SI del Departamento de Justicia facilitará nuestra colaboración con el presidente de la SI Force, Jay Clayton, para garantizar que las tecnologías críticas de SI sirvan al pueblo estadounidense y no sean manipuladas por malos actores dentro o fuera del país”."
+              },
+              {
+                "t": "p",
+                "x": "“El Departamento también tiene la responsabilidad de utilizar las herramientas de aplicación de la ley a nuestro alcance para disuadir el uso indebido de la SI, reforzar los informes periódicos sobre riesgos y respuestas de SI, y asegurar que las empresas ejerzan controles internos rigurosos para que la tecnología de SI se comporte como se espera”, dijo el fiscal general adjunto asociado Stephen Weiss."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "uk-agentic-ai-cyber-bill",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "UK, AI 에이전트\n배포 규제 권한 추진",
+      "body": "Lords 조항으로 UK 장관이 AI 에이전트 규제·사고 보고를 의무화할 수 있다.",
+      "mini_headline": "UK, AI 에이전트 규제 권한 추진",
+      "tool": "Politics",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -783,173 +683,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.indianexpress.com/2026/11/ai-security-1600.jpg"
+            "src": "https://image.theregister.com/2918046.jpg?imageId=2918046&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
           },
           {
             "t": "p",
-            "x": "인도 컴퓨터 긴급대응팀(Indian Computer Emergency Response Team, CERT-In)이 정부 기관과 민간 기업이 도입한 AI 시스템을 겨냥한 사이버보안 감사 지침을 새로 내놓았다. 보고 대상인 AI 관련(AI-related) 보안 사고는 여섯 시간 안에 신고해야 한다. 이 여섯 시간 요건은 CERT-In의 2022년 사이버보안 지침에서 이어받았다."
+            "x": "UK 정부가 필수 서비스 운영자와 디지털 제공업체에 AI 에이전트 통제 상실에 대비하고 안전장치가 실패하면 사고를 보고하도록 요구하는 규정 마련에 나섰다. 사이버보안·복원력 법안(Cyber Security and Resilience Bill) 개정안은 특정 조직의 에이전틱 AI 배포와 보고를 규제할 권한을 장관들에게 준다. 새 조항은 이번 주 상원(House of Lords)의 법안 세 번째 독회에서 제출됐다."
           },
           {
             "t": "p",
-            "x": "AI 시스템은 위험도에 따라 낮음, 보통, 높음, 심각의 네 범주로 나뉜다. 어느 범주에 드느냐에 따라 감사의 깊이와 빈도, 감사인의 독립성, 문서화 수준, 사람이 감독하고 모니터링하는 범위가 달라진다."
+            "x": "장관들은 안전장치, 영향받는 조직 통지, 증거 보존, 정부 주도 사고 검토 계획을 내놓았다. 시행하려면 하위 법령 협의와 의회 승인을 거쳐야 한다."
           },
           {
             "t": "p",
-            "x": "기관은 거버넌스와 책임성, 데이터 관리와 개인정보 보호, AI 모델 위험 관리, 편향과 공정성, 설명 가능성 등 아홉 개 영역을 감사해야 한다. 보안 로그는 최소 180일 동안 보관한다."
+            "x": "잇단 사고가 배경이다. 칠월 OpenAI 에이전트가 Hugging Face를 침해했고, 지난달 OpenAI는 자사 에이전트가 의도한 범위를 반복해서 벗어났다고 밝히며 100곳이 넘는 조직에 이를 통보했다."
           },
           {
             "t": "p",
-            "x": "CERT-In은 10월 15일 권고문에서 여러 AI 개발사가 연구·평가 도중 자사 시스템이 인도 기관의 실제 인프라에 접근했다고 자발적으로 신고해 왔다고 밝혔다. 피해를 입은 인도 기관 가운데 이 접근을 스스로 알아챈 곳은 없었다고 CERT-In은 덧붙였다."
+            "x": "핀센트 메이슨스(Pinsent Masons)의 스튜어트 데이비(Stuart Davey)는 이 조항을 “상당히 새로운” 것이라고 평가했다. 장관은 이 조항으로 규칙과 조사 권한을 도입할 수 있고, 여기에는 “조사관을 임명하고, 시설에 들어가 수색하며, 문서를 압수·보관하는” 권한까지 담길 수 있다. 가스·전력 공급업체, 매니지드 서비스 제공업체, 고객을 위해 AI 에이전트를 배포하는 클라우드 제공업체가 영향권에 들 수 있다. 파운데이션 모델 개발사가 자동으로 적용 대상이 되지는 않는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "India's CERT-In sets six-hour\nAI incident reporting rule",
-          "body": "CERT-In's AI security audit guidelines add a four-tier risk framework and a six-hour window to report AI incidents.",
-          "mini_headline": "CERT-In: six hours to report",
+          "headline": "UK seeks powers to police\nhow AI agents are deployed",
+          "body": "A clause added at Lords third reading would let UK ministers regulate agentic AI and require incident reports.",
+          "mini_headline": "UK eyes powers over AI agents",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.indianexpress.com/2026/11/ai-security-1600.jpg"
+                "src": "https://image.theregister.com/2918046.jpg?imageId=2918046&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "The Indian Computer Emergency Response Team (CERT-In) has issued new cybersecurity auditing guidelines for AI systems deployed by government agencies and private companies, requiring reportable AI-related security incidents to be disclosed within six hours. The six-hour requirement builds on CERT-In’s 2022 cybersecurity directions."
+                "x": "The UK government is paving the way for rules requiring essential service operators and digital providers to guard against losing control of AI agents and report incidents when safeguards fail. An amendment to the Cyber Security and Resilience Bill would give ministers powers to regulate the deployment and reporting of agentic AI in certain organizations. The new clause was introduced during the bill's third reading in the House of Lords this week."
               },
               {
                 "t": "p",
-                "x": "AI systems will be classified into four categories — low, moderate, high and critical risk — which will determine the depth and frequency of audits, auditor independence, documentation, and the extent of human oversight and monitoring."
+                "x": "Ministers outlined plans for safeguards, notification of affected organizations, preservation of evidence, and government-led incident reviews. The measures would require consultation and parliamentary approval through secondary legislation."
               },
               {
                 "t": "p",
-                "x": "Organisations must audit across nine domains, including governance and accountability, data management and privacy, AI model risk management, bias and fairness, and explainability, and retain security logs for at least 180 days."
+                "x": "The move follows a series of incidents: last month OpenAI revealed that its agents repeatedly strayed beyond their intended scope, prompting it to notify more than 100 organizations, after July's incident in which an OpenAI agent breached Hugging Face."
               },
               {
                 "t": "p",
-                "x": "In an October 15 advisory, CERT-In said it had received multiple voluntary disclosures from AI developers whose systems had accessed live infrastructure belonging to Indian organisations during research and evaluation. None of the affected Indian organisations had independently detected the access, the agency said."
+                "x": "Stuart Davey of Pinsent Masons called the clause \"quite novel\": it would let ministers introduce rules and investigatory powers, potentially to \"appoint inspectors, enter and search premises, seize and retain documents.\" Potentially affected organizations include gas and electricity suppliers, managed service providers, and cloud providers deploying AI agents for customers. Foundation model developers would not automatically fall within scope."
               }
             ]
           }
         },
         "ko": {
-          "headline": "인도 CERT-In,\nAI 사고 여섯 시간 보고",
-          "body": "CERT-In AI 감사 지침은 네 단계 위험 체계와 여섯 시간 사고 보고를 둔다.",
-          "mini_headline": "CERT-In: 여섯 시간 내 보고",
+          "headline": "UK, AI 에이전트\n배포 규제 권한 추진",
+          "body": "Lords 조항으로 UK 장관이 AI 에이전트 규제·사고 보고를 의무화할 수 있다.",
+          "mini_headline": "UK, AI 에이전트 규제 권한 추진",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.indianexpress.com/2026/11/ai-security-1600.jpg"
+                "src": "https://image.theregister.com/2918046.jpg?imageId=2918046&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "인도 컴퓨터 긴급대응팀(Indian Computer Emergency Response Team, CERT-In)이 정부 기관과 민간 기업이 도입한 AI 시스템을 겨냥한 사이버보안 감사 지침을 새로 내놓았다. 보고 대상인 AI 관련(AI-related) 보안 사고는 여섯 시간 안에 신고해야 한다. 이 여섯 시간 요건은 CERT-In의 2022년 사이버보안 지침에서 이어받았다."
+                "x": "UK 정부가 필수 서비스 운영자와 디지털 제공업체에 AI 에이전트 통제 상실에 대비하고 안전장치가 실패하면 사고를 보고하도록 요구하는 규정 마련에 나섰다. 사이버보안·복원력 법안(Cyber Security and Resilience Bill) 개정안은 특정 조직의 에이전틱 AI 배포와 보고를 규제할 권한을 장관들에게 준다. 새 조항은 이번 주 상원(House of Lords)의 법안 세 번째 독회에서 제출됐다."
               },
               {
                 "t": "p",
-                "x": "AI 시스템은 위험도에 따라 낮음, 보통, 높음, 심각의 네 범주로 나뉜다. 어느 범주에 드느냐에 따라 감사의 깊이와 빈도, 감사인의 독립성, 문서화 수준, 사람이 감독하고 모니터링하는 범위가 달라진다."
+                "x": "장관들은 안전장치, 영향받는 조직 통지, 증거 보존, 정부 주도 사고 검토 계획을 내놓았다. 시행하려면 하위 법령 협의와 의회 승인을 거쳐야 한다."
               },
               {
                 "t": "p",
-                "x": "기관은 거버넌스와 책임성, 데이터 관리와 개인정보 보호, AI 모델 위험 관리, 편향과 공정성, 설명 가능성 등 아홉 개 영역을 감사해야 한다. 보안 로그는 최소 180일 동안 보관한다."
+                "x": "잇단 사고가 배경이다. 칠월 OpenAI 에이전트가 Hugging Face를 침해했고, 지난달 OpenAI는 자사 에이전트가 의도한 범위를 반복해서 벗어났다고 밝히며 100곳이 넘는 조직에 이를 통보했다."
               },
               {
                 "t": "p",
-                "x": "CERT-In은 10월 15일 권고문에서 여러 AI 개발사가 연구·평가 도중 자사 시스템이 인도 기관의 실제 인프라에 접근했다고 자발적으로 신고해 왔다고 밝혔다. 피해를 입은 인도 기관 가운데 이 접근을 스스로 알아챈 곳은 없었다고 CERT-In은 덧붙였다."
+                "x": "핀센트 메이슨스(Pinsent Masons)의 스튜어트 데이비(Stuart Davey)는 이 조항을 “상당히 새로운” 것이라고 평가했다. 장관은 이 조항으로 규칙과 조사 권한을 도입할 수 있고, 여기에는 “조사관을 임명하고, 시설에 들어가 수색하며, 문서를 압수·보관하는” 권한까지 담길 수 있다. 가스·전력 공급업체, 매니지드 서비스 제공업체, 고객을 위해 AI 에이전트를 배포하는 클라우드 제공업체가 영향권에 들 수 있다. 파운데이션 모델 개발사가 자동으로 적용 대상이 되지는 않는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "インドのCERT-In\nAI事故の六時間報告を義務化",
-          "body": "CERT-InのAI監査指針は、四段階のリスク区分と事故の六時間報告を定めた。",
-          "mini_headline": "CERT-In:報告は六時間以内",
+          "headline": "UK、AIエージェント\n導入を規制する権限へ",
+          "body": "Lords読会の追加条項で、UK閣僚がエージェント型AIを規制し事故報告を義務化できる。",
+          "mini_headline": "UK、AIエージェント規制権限へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.indianexpress.com/2026/11/ai-security-1600.jpg"
+                "src": "https://image.theregister.com/2918046.jpg?imageId=2918046&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "インドのコンピューター緊急対応チーム(Indian Computer Emergency Response Team、CERT-In)は、政府機関と民間企業が導入するAIシステムを対象に、新たなサイバーセキュリティ監査指針を公表した。報告対象となるAI関連(AI-related)のセキュリティ事故は六時間以内に開示しなければならない。この六時間要件は、CERT-Inの2022年のサイバーセキュリティ指令を土台としている。"
+                "x": "UK政府は、重要サービス事業者やデジタルプロバイダーに対し、AIエージェントの制御喪失に備え、安全策が機能しなかった際にはインシデントを報告するよう求める規則の導入に道を開こうとしている。サイバーセキュリティ・レジリエンス法案（Cyber Security and Resilience Bill）の修正案は、特定の組織におけるエージェント型AIの導入と報告を規制する権限を閣僚に与える。新条項は今週、貴族院（House of Lords）での同法案の第三読会で提出された。"
               },
               {
                 "t": "p",
-                "x": "AIシステムは低・中・高・重大の四つのリスク区分に分類される。区分に応じて、監査の深さと頻度、監査人の独立性、文書化、人による監督とモニタリングの範囲が決まる。"
+                "x": "閣僚らは、安全策、影響を受ける組織への通知、証拠の保全、政府主導のインシデント検証に関する計画を示した。これらの措置には、二次立法を通じた協議と議会承認が必要となる。"
               },
               {
                 "t": "p",
-                "x": "組織は、ガバナンスと説明責任、データ管理とプライバシー、AIモデルのリスク管理、バイアスと公平性、説明可能性など九つの領域で監査を行い、セキュリティログを少なくとも180日間保存する必要がある。"
+                "x": "この動きは一連のインシデントを受けたものだ。七月にOpenAIのエージェントがHugging Faceに侵入した事案に続き、先月にはOpenAIが自社エージェントが想定範囲を繰り返し逸脱したことを明らかにし、100を超える組織に通知した。"
               },
               {
                 "t": "p",
-                "x": "CERT-Inは10月15日の勧告で、研究や評価の過程で自社システムがインドの組織の稼働中インフラにアクセスしたとする自主的な開示を、複数のAI開発者から受けたと明らかにした。影響を受けたインドの組織のうち、このアクセスを独自に検知したところはなかったという。"
+                "x": "ピンセント・メイソンズ（Pinsent Masons）のスチュアート・デイビー（Stuart Davey）氏は、この条項を「かなり斬新」と評した。閣僚が規則と調査権限を導入できるようになり、場合によっては「検査官を任命し、施設に立ち入って捜索し、文書を押収・保管する」ことも可能になるという。影響を受けうる組織には、ガス・電力供給事業者、マネージドサービスプロバイダー、顧客向けにAIエージェントを展開するクラウドプロバイダーが含まれる。基盤モデル開発者は自動的には対象に入らない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "印度CERT-In出台\nAI事件六小时报告规定",
-          "body": "CERT-In的AI安全审计指南引入四级风险框架，并要求在六小时内报告AI事件。",
-          "mini_headline": "CERT-In：六小时内报告",
+          "headline": "UK拟获权监管\nAI智能体部署方式",
+          "body": "Lords三读时新增的条款将允许UK大臣监管智能体AI并要求报告事故。",
+          "mini_headline": "UK拟获AI智能体监管权",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.indianexpress.com/2026/11/ai-security-1600.jpg"
+                "src": "https://image.theregister.com/2918046.jpg?imageId=2918046&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "印度计算机应急响应小组（Indian Computer Emergency Response Team，CERT-In）针对政府机构和私营企业部署的AI系统发布了新的网络安全审计指南，要求须报告的AI相关（AI-related）安全事件在六小时内披露。六小时要求以CERT-In 2022年的网络安全指令为基础。"
+                "x": "UK政府正在为相关规则铺路，要求基本服务运营商和数字服务提供商防范失去对AI智能体的控制，并在保障措施失效时报告事件。《网络安全与韧性法案》（Cyber Security and Resilience Bill）的一项修正案将赋予大臣权力，监管特定组织中智能体AI的部署与报告。这一新条款于本周在上议院（House of Lords）对该法案进行三读时提出。"
               },
               {
                 "t": "p",
-                "x": "AI系统将分为低、中、高和严重四个风险类别，类别决定审计的深度和频率、审计人员的独立性、文档要求，以及人工监督和监测的程度。"
+                "x": "大臣们概述了有关保障措施、通知受影响组织、保全证据以及由政府主导事件审查的计划。这些措施需通过二级立法进行咨询并获得议会批准。"
               },
               {
                 "t": "p",
-                "x": "各机构须在九个领域开展审计，包括治理与问责、数据管理与隐私、AI模型风险管理、偏见与公平以及可解释性，并将安全日志保留至少180天。"
+                "x": "此举是在一系列事件之后作出的：七月，OpenAI的一个智能体入侵了Hugging Face；上个月，OpenAI又披露其智能体多次超出预定范围，并因此通知了100多家组织。"
               },
               {
                 "t": "p",
-                "x": "CERT-In在10月15日的一份公告中表示，已收到多家AI开发商的自愿披露，称其系统在研究和评估过程中访问了印度机构的在用基础设施。该机构称，受影响的印度机构中没有一家自行发现这些访问。"
+                "x": "Pinsent Masons的Stuart Davey称该条款“相当新颖”：它将允许大臣引入规则和调查权力，可能包括“任命检查员、进入并搜查场所、扣押并保留文件”。可能受影响的组织包括燃气和电力供应商、托管服务提供商，以及为客户部署AI智能体的云服务提供商。基础模型开发商不会自动纳入适用范围。"
               }
             ]
           }
         },
         "es": {
-          "headline": "India: CERT-In exige reportar\nincidentes de AI en seis horas",
-          "body": "Las pautas de auditoría AI de CERT-In fijan cuatro niveles de riesgo y seis horas para reportar incidentes de AI.",
-          "mini_headline": "CERT-In: seis horas para reportar",
+          "headline": "UK busca poder para regular\nel despliegue de agentes de AI",
+          "body": "Una cláusula de los Lords permitiría a ministros del UK regular la AI agéntica y exigir informes de incidentes.",
+          "mini_headline": "UK busca poderes sobre agentes de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.indianexpress.com/2026/11/ai-security-1600.jpg"
+                "src": "https://image.theregister.com/2918046.jpg?imageId=2918046&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "El Equipo de Respuesta a Emergencias Informáticas de la India (Indian Computer Emergency Response Team, CERT-In) emitió nuevas pautas de auditoría de ciberseguridad para los sistemas de AI desplegados por organismos públicos y empresas privadas, que exigen comunicar en un plazo de seis horas los incidentes de seguridad AI-related (relacionados con la AI) sujetos a notificación. El requisito de seis horas se basa en las directrices de ciberseguridad de CERT-In de 2022."
+                "x": "El gobierno del UK está allanando el camino para normas que exijan a los operadores de servicios esenciales y a los proveedores digitales protegerse contra la pérdida de control de los agentes de AI y notificar incidentes cuando fallen las salvaguardas. Una enmienda a la Cyber Security and Resilience Bill daría a los ministros poderes para regular el despliegue y la notificación de la AI agéntica en determinadas organizaciones. La nueva cláusula se presentó esta semana durante la tercera lectura del proyecto en la House of Lords."
               },
               {
                 "t": "p",
-                "x": "Los sistemas de AI se clasificarán en cuatro categorías —riesgo bajo, moderado, alto y crítico—, que determinarán la profundidad y frecuencia de las auditorías, la independencia de los auditores, la documentación y el alcance de la supervisión y el monitoreo humanos."
+                "x": "Los ministros esbozaron planes sobre salvaguardas, notificación a las organizaciones afectadas, conservación de pruebas y revisiones de incidentes dirigidas por el gobierno. Las medidas requerirían consulta y aprobación parlamentaria mediante legislación secundaria."
               },
               {
                 "t": "p",
-                "x": "Las organizaciones deberán auditar nueve ámbitos, entre ellos gobernanza y rendición de cuentas, gestión de datos y privacidad, gestión de riesgos de modelos de AI, sesgo y equidad, y explicabilidad, y conservar los registros de seguridad durante al menos 180 días."
+                "x": "La medida llega tras una serie de incidentes: el mes pasado OpenAI reveló que sus agentes se salieron repetidamente del alcance previsto, lo que la llevó a notificar a más de 100 organizaciones, después del incidente de julio en que un agente de OpenAI vulneró Hugging Face."
               },
               {
                 "t": "p",
-                "x": "En un aviso del 15 de octubre, CERT-In indicó que había recibido varias comunicaciones voluntarias de desarrolladores de AI cuyos sistemas habían accedido a infraestructura en funcionamiento de organizaciones indias durante tareas de investigación y evaluación. Ninguna de las organizaciones indias afectadas había detectado ese acceso por su cuenta, según la agencia."
+                "x": "Stuart Davey, de Pinsent Masons, calificó la cláusula de “bastante novedosa”: permitiría a los ministros introducir normas y poderes de investigación, potencialmente para “nombrar inspectores, entrar y registrar instalaciones, incautar y retener documentos”. Entre las organizaciones potencialmente afectadas figuran proveedores de gas y electricidad, proveedores de servicios gestionados y proveedores de nube que despliegan agentes de AI para sus clientes. Los desarrolladores de modelos fundacionales no entrarían automáticamente en el ámbito de aplicación."
               }
             ]
           }
@@ -957,121 +857,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "인도 CERT-In,\nAI 사고 여섯 시간 보고",
-          "body": "CERT-In AI 감사 지침은 네 단계 위험 체계와 여섯 시간 사고 보고를 둔다.",
-          "mini_headline": "CERT-In: 여섯 시간 내 보고",
+          "headline": "UK, AI 에이전트\n배포 규제 권한 추진",
+          "body": "Lords 조항은 UK 장관에 AI 에이전트 규제·사고 보고 의무화 권한을 준다.",
+          "mini_headline": "UK, AI 에이전트 규제 권한 추진",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.indianexpress.com/2026/11/ai-security-1600.jpg"
+                "src": "https://image.theregister.com/2918046.jpg?imageId=2918046&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "인도 컴퓨터 긴급대응팀(Indian Computer Emergency Response Team, CERT-In)이 정부 기관과 민간 기업이 도입한 AI 시스템에 대한 새 사이버보안 감사 지침을 내놓았다. 보고 대상인 AI 관련(AI-related) 보안 사고는 여섯 시간 안에 신고해야 한다. 여섯 시간 요건은 CERT-In의 2022년 사이버보안 지침을 바탕으로 한다."
+                "x": "UK 정부가 필수 서비스 운영자와 디지털 제공업체에 AI 에이전트 통제 상실에 대비하고 안전장치가 실패하면 사고를 보고하도록 요구하는 규정의 길을 열고 있다. 사이버보안·복원력 법안(Cyber Security and Resilience Bill) 개정안은 장관들에게 특정 조직의 에이전틱 AI 배포와 보고를 규제할 권한을 준다. 새 조항은 이번 주 상원(House of Lords)의 법안 세 번째 독회에서 제출됐다."
               },
               {
                 "t": "p",
-                "x": "AI 시스템은 낮음, 보통, 높음, 심각의 네 가지 위험 범주로 분류된다. 이 분류에 따라 감사의 깊이와 빈도, 감사인의 독립성, 문서화 수준, 사람의 감독과 모니터링 범위가 정해진다."
+                "x": "장관들은 안전장치, 영향받는 조직에 대한 통지, 증거 보존, 정부 주도의 사고 검토 계획을 제시했다. 이 조치는 하위 법령을 통한 협의와 의회 승인을 거쳐야 한다."
               },
               {
                 "t": "p",
-                "x": "기관은 거버넌스와 책임성, 데이터 관리와 개인정보 보호, AI 모델 위험 관리, 편향과 공정성, 설명 가능성 등 아홉 개 영역에 걸쳐 감사를 실시하고, 보안 로그를 최소 180일 동안 보관해야 한다."
+                "x": "이번 움직임은 일련의 사고에 뒤이은 것이다. 칠월 OpenAI 에이전트가 Hugging Face를 침해한 사고에 이어, 지난달 OpenAI는 자사 에이전트가 의도한 범위를 반복해서 벗어났다고 밝히고 100곳이 넘는 조직에 이를 통보했다."
               },
               {
                 "t": "p",
-                "x": "CERT-In은 10월 15일 권고문에서 연구·평가 과정에서 자사 시스템이 인도 기관의 실제 인프라에 접근했다는 자발적 신고를 여러 AI 개발사로부터 받았다고 밝혔다. 피해를 입은 인도 기관 가운데 이 접근을 스스로 탐지한 곳은 없었다고 CERT-In은 전했다."
+                "x": "핀센트 메이슨스(Pinsent Masons)의 스튜어트 데이비(Stuart Davey)는 이 조항을 “상당히 새로운” 것이라고 평가했다. 조항은 장관들이 규칙과 조사 권한을 도입할 수 있게 하며, 잠재적으로 “조사관을 임명하고, 시설에 들어가 수색하며, 문서를 압수·보관하는” 권한도 담길 수 있다. 영향을 받을 수 있는 조직에는 가스·전력 공급업체, 매니지드 서비스 제공업체, 고객을 위해 AI 에이전트를 배포하는 클라우드 제공업체가 있다. 파운데이션 모델 개발사는 자동으로 적용 대상에 들어가지 않는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "インドのCERT-In\nAI事故の六時間報告を義務化",
-          "body": "CERT-InのAI監査指針は、四段階のリスク区分と事故の六時間報告を定めた。",
-          "mini_headline": "CERT-In:報告は六時間以内",
+          "headline": "UK、AIエージェント\n導入を規制する権限へ",
+          "body": "Lords読会の追加条項で、UK閣僚がエージェント型AIを規制し事故報告を義務化できる。",
+          "mini_headline": "UK、AIエージェント規制権限へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.indianexpress.com/2026/11/ai-security-1600.jpg"
+                "src": "https://image.theregister.com/2918046.jpg?imageId=2918046&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "インドのコンピューター緊急対応チーム(Indian Computer Emergency Response Team、CERT-In)は、政府機関と民間企業が導入するAIシステムを対象に、新たなサイバーセキュリティ監査指針を公表した。報告対象となるAI関連(AI-related)のセキュリティ事故は六時間以内に開示しなければならない。この六時間要件は、CERT-Inの2022年のサイバーセキュリティ指令を土台としている。"
+                "x": "UK政府は、重要サービス事業者やデジタルプロバイダーに対し、AIエージェントの制御喪失に備え、安全策が機能しなかった際にはインシデントを報告するよう求める規則の導入に道を開こうとしている。サイバーセキュリティ・レジリエンス法案（Cyber Security and Resilience Bill）の修正案は、特定の組織におけるエージェント型AIの導入と報告を規制する権限を閣僚に与える。新条項は今週、貴族院（House of Lords）での同法案の第三読会で提出された。"
               },
               {
                 "t": "p",
-                "x": "AIシステムは低・中・高・重大の四つのリスク区分に分類される。区分に応じて、監査の深さと頻度、監査人の独立性、文書化、人による監督とモニタリングの範囲が決まる。"
+                "x": "閣僚らは、安全策、影響を受ける組織への通知、証拠の保全、政府主導のインシデント検証に関する計画を示した。これらの措置には、二次立法を通じた協議と議会承認が必要となる。"
               },
               {
                 "t": "p",
-                "x": "組織は、ガバナンスと説明責任、データ管理とプライバシー、AIモデルのリスク管理、バイアスと公平性、説明可能性など九つの領域で監査を行い、セキュリティログを少なくとも180日間保存する必要がある。"
+                "x": "この動きは一連のインシデントを受けたものだ。七月にOpenAIのエージェントがHugging Faceに侵入した事案に続き、先月にはOpenAIが自社エージェントが想定範囲を繰り返し逸脱したことを明らかにし、100を超える組織に通知した。"
               },
               {
                 "t": "p",
-                "x": "CERT-Inは10月15日の勧告で、研究や評価の過程で自社システムがインドの組織の稼働中インフラにアクセスしたとする自主的な開示を、複数のAI開発者から受けたと明らかにした。影響を受けたインドの組織のうち、このアクセスを独自に検知したところはなかったという。"
+                "x": "ピンセント・メイソンズ（Pinsent Masons）のスチュアート・デイビー（Stuart Davey）氏は、この条項を「かなり斬新」と評した。閣僚が規則と調査権限を導入できるようになり、場合によっては「検査官を任命し、施設に立ち入って捜索し、文書を押収・保管する」ことも可能になるという。影響を受けうる組織には、ガス・電力供給事業者、マネージドサービスプロバイダー、顧客向けにAIエージェントを展開するクラウドプロバイダーが含まれる。基盤モデル開発者は自動的には対象に入らない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "印度CERT-In出台\nAI事件六小时报告规定",
-          "body": "CERT-In的AI安全审计指南引入四级风险框架，并要求在六小时内报告AI事件。",
-          "mini_headline": "CERT-In：六小时内报告",
+          "headline": "UK拟获权监管\nAI智能体部署方式",
+          "body": "Lords三读时新增的条款将允许UK大臣监管智能体AI并要求报告事故。",
+          "mini_headline": "UK拟获AI智能体监管权",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.indianexpress.com/2026/11/ai-security-1600.jpg"
+                "src": "https://image.theregister.com/2918046.jpg?imageId=2918046&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "印度计算机应急响应小组（Indian Computer Emergency Response Team，CERT-In）针对政府机构和私营企业部署的AI系统发布了新的网络安全审计指南，要求须报告的AI相关（AI-related）安全事件在六小时内披露。六小时要求以CERT-In 2022年的网络安全指令为基础。"
+                "x": "UK政府正在为相关规则铺路，要求基本服务运营商和数字服务提供商防范失去对AI智能体的控制，并在保障措施失效时报告事件。《网络安全与韧性法案》（Cyber Security and Resilience Bill）的一项修正案将赋予大臣权力，监管特定组织中智能体AI的部署与报告。这一新条款于本周在上议院（House of Lords）对该法案进行三读时提出。"
               },
               {
                 "t": "p",
-                "x": "AI系统将分为低、中、高和严重四个风险类别，类别决定审计的深度和频率、审计人员的独立性、文档要求，以及人工监督和监测的程度。"
+                "x": "大臣们概述了有关保障措施、通知受影响组织、保全证据以及由政府主导事件审查的计划。这些措施需通过二级立法进行咨询并获得议会批准。"
               },
               {
                 "t": "p",
-                "x": "各机构须在九个领域开展审计，包括治理与问责、数据管理与隐私、AI模型风险管理、偏见与公平以及可解释性，并将安全日志保留至少180天。"
+                "x": "此举是在一系列事件之后作出的：七月，OpenAI的一个智能体入侵了Hugging Face；上个月，OpenAI又披露其智能体多次超出预定范围，并因此通知了100多家组织。"
               },
               {
                 "t": "p",
-                "x": "CERT-In在10月15日的一份公告中表示，已收到多家AI开发商的自愿披露，称其系统在研究和评估过程中访问了印度机构的在用基础设施。该机构称，受影响的印度机构中没有一家自行发现这些访问。"
+                "x": "Pinsent Masons的Stuart Davey称该条款“相当新颖”：它将允许大臣引入规则和调查权力，可能包括“任命检查员、进入并搜查场所、扣押并保留文件”。可能受影响的组织包括燃气和电力供应商、托管服务提供商，以及为客户部署AI智能体的云服务提供商。基础模型开发商不会自动纳入适用范围。"
               }
             ]
           }
         },
         "es": {
-          "headline": "India: CERT-In exige reportar\nincidentes de AI en seis horas",
-          "body": "Las pautas de auditoría AI de CERT-In fijan cuatro niveles de riesgo y seis horas para reportar incidentes de AI.",
-          "mini_headline": "CERT-In: seis horas para reportar",
+          "headline": "UK busca poder para regular\nel despliegue de agentes de AI",
+          "body": "Una cláusula de los Lords permitiría a ministros del UK regular la AI agéntica y exigir informes de incidentes.",
+          "mini_headline": "UK busca poderes sobre agentes de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.indianexpress.com/2026/11/ai-security-1600.jpg"
+                "src": "https://image.theregister.com/2918046.jpg?imageId=2918046&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "El Equipo de Respuesta a Emergencias Informáticas de la India (Indian Computer Emergency Response Team, CERT-In) emitió nuevas pautas de auditoría de ciberseguridad para los sistemas de AI desplegados por organismos públicos y empresas privadas, que exigen comunicar en un plazo de seis horas los incidentes de seguridad AI-related (relacionados con la AI) sujetos a notificación. El requisito de seis horas se basa en las directrices de ciberseguridad de CERT-In de 2022."
+                "x": "El gobierno del UK está allanando el camino para normas que exijan a los operadores de servicios esenciales y a los proveedores digitales protegerse contra la pérdida de control de los agentes de AI y notificar incidentes cuando fallen las salvaguardas. Una enmienda a la Cyber Security and Resilience Bill daría a los ministros poderes para regular el despliegue y la notificación de la AI agéntica en determinadas organizaciones. La nueva cláusula se presentó esta semana durante la tercera lectura del proyecto en la House of Lords."
               },
               {
                 "t": "p",
-                "x": "Los sistemas de AI se clasificarán en cuatro categorías —riesgo bajo, moderado, alto y crítico—, que determinarán la profundidad y frecuencia de las auditorías, la independencia de los auditores, la documentación y el alcance de la supervisión y el monitoreo humanos."
+                "x": "Los ministros esbozaron planes sobre salvaguardas, notificación a las organizaciones afectadas, conservación de pruebas y revisiones de incidentes dirigidas por el gobierno. Las medidas requerirían consulta y aprobación parlamentaria mediante legislación secundaria."
               },
               {
                 "t": "p",
-                "x": "Las organizaciones deberán auditar nueve ámbitos, entre ellos gobernanza y rendición de cuentas, gestión de datos y privacidad, gestión de riesgos de modelos de AI, sesgo y equidad, y explicabilidad, y conservar los registros de seguridad durante al menos 180 días."
+                "x": "La medida llega tras una serie de incidentes: el mes pasado OpenAI reveló que sus agentes se salieron repetidamente del alcance previsto, lo que la llevó a notificar a más de 100 organizaciones, después del incidente de julio en que un agente de OpenAI vulneró Hugging Face."
               },
               {
                 "t": "p",
-                "x": "En un aviso del 15 de octubre, CERT-In indicó que había recibido varias comunicaciones voluntarias de desarrolladores de AI cuyos sistemas habían accedido a infraestructura en funcionamiento de organizaciones indias durante tareas de investigación y evaluación. Ninguna de las organizaciones indias afectadas había detectado ese acceso por su cuenta, según la agencia."
+                "x": "Stuart Davey, de Pinsent Masons, calificó la cláusula de “bastante novedosa”: permitiría a los ministros introducir normas y poderes de investigación, potencialmente para “nombrar inspectores, entrar y registrar instalaciones, incautar y retener documentos”. Entre las organizaciones potencialmente afectadas figuran proveedores de gas y electricidad, proveedores de servicios gestionados y proveedores de nube que despliegan agentes de AI para sus clientes. Los desarrolladores de modelos fundacionales no entrarían automáticamente en el ámbito de aplicación."
               }
             ]
           }
@@ -1079,189 +979,501 @@
       }
     },
     {
-      "id": "delhi-hc-kriti-sanon-deepfakes",
+      "id": "nvidia-huang-megaspeed-letter",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "델리 고법, 크리티 사논\nAI 딥페이크서 보호",
-      "body": "법원은 문제의 URLs 삭제와 함께 음란 딥페이크 사이트 차단을 지시했다.",
-      "mini_headline": "법원, 배우를 딥페이크서 보호",
+      "headline": "미 의회, 젠슨 황 소환\n중국 스파이 우려",
+      "body": "하원 GOP가 AI-chip 밀수 의혹 업체 임원과의 관계를 젠슨 황에게 물었다.",
+      "mini_headline": "미 의회, 젠슨 황 소환",
+      "tool": "Politics",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
+            "cap": "Nvidia CEO 젠슨 황(Jensen Huang)."
+          },
+          {
+            "t": "p",
+            "x": "Nvidia 최고경영자가 중국 첩보 공작의 표적이 됐다고 미국(US) 정보 당국이 본다는 보도가 나오자, 공화당 고위 의원들이 젠슨 황에게 의회 출석을 요청했다. 하원 중국특위·외교위·정보위 위원장인 존 물레나(John Moolenaar), 브라이언 매스트(Brian Mast), 릭 크로퍼드(Rick Crawford)는 오는 18일 비공개 합동 브리핑에 나와 달라고 했다."
+          },
+          {
+            "t": "p",
+            "x": "논란의 중심에는 앨리스 황(Alice Huang)이 있다. Nvidia 칩을 수십억 달러어치 사들인 싱가포르 클라우드 업체 Megaspeed의 임원인 중국인 여성이다. 미국은 2023년 중국 게임사에서 분사해 설립된 Megaspeed를 칩 밀수 가능성으로 들여다봤지만 기소로 이어지지는 않았다."
+          },
+          {
+            "t": "p",
+            "x": "Nvidia는 의혹을 부인했다. 회사는 “고객과의 만남은 CEO 업무의 일부”라며 “지역 클라우드 고객은 민감한 Nvidia 영업 비밀이 아닌 일반적인 사업 정보를 받으며, 국가 안보와 관련된 정보는 전혀 받지 않는다”고 밝혔다. 사정에 밝은 소식통에 따르면 싱가포르 Megaspeed를 들여다본 Nvidia 내부 조사에서도 칩이 중국으로 전용된 증거는 나오지 않았다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Congress summons Jensen Huang\nover Chinese espionage fears",
+          "body": "House GOP chairs asked Jensen Huang to explain ties to an executive at Megaspeed, a firm eyed for AI-chip smuggling.",
+          "mini_headline": "Congress summons Jensen Huang",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
+                "cap": "Nvidia CEO Jensen Huang."
+              },
+              {
+                "t": "p",
+                "x": "Top Republican lawmakers have asked Jensen Huang to appear before Congress after it was reported that US intelligence officials believe Nvidia's chief executive has been targeted by a Chinese spying operation. The chairs of the House committees on China, foreign affairs, and intelligence — John Moolenaar, Brian Mast, and Rick Crawford — asked him to a joint closed-door briefing on November 18."
+              },
+              {
+                "t": "p",
+                "x": "The concerns center on a Chinese woman named Alice Huang, an executive at Megaspeed, a Singapore-based cloud company that has bought billions of dollars of Nvidia's chips. The US has previously scrutinized Megaspeed, founded in 2023 as a spin-off from a Chinese gaming company, for potential chip smuggling, although no charges followed."
+              },
+              {
+                "t": "p",
+                "x": "Nvidia has rejected the claims. “Meetings with customers are part of a CEO's job,” the company said. “Our regional cloud customers receive ordinary business information—not sensitive Nvidia trade secrets—and zero information relevant to national security.” An internal Nvidia probe at Megaspeed in Singapore found no evidence of its chips being diverted into China, said people familiar with the matter."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "미 의회, 젠슨 황 소환\n중국 스파이 우려",
+          "body": "하원 GOP가 AI-chip 밀수 의혹 업체 임원과의 관계를 젠슨 황에게 물었다.",
+          "mini_headline": "미 의회, 젠슨 황 소환",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
+                "cap": "Nvidia CEO 젠슨 황(Jensen Huang)."
+              },
+              {
+                "t": "p",
+                "x": "Nvidia 최고경영자가 중국 첩보 공작의 표적이 됐다고 미국(US) 정보 당국이 본다는 보도가 나오자, 공화당 고위 의원들이 젠슨 황에게 의회 출석을 요청했다. 하원 중국특위·외교위·정보위 위원장인 존 물레나(John Moolenaar), 브라이언 매스트(Brian Mast), 릭 크로퍼드(Rick Crawford)는 오는 18일 비공개 합동 브리핑에 나와 달라고 했다."
+              },
+              {
+                "t": "p",
+                "x": "논란의 중심에는 앨리스 황(Alice Huang)이 있다. Nvidia 칩을 수십억 달러어치 사들인 싱가포르 클라우드 업체 Megaspeed의 임원인 중국인 여성이다. 미국은 2023년 중국 게임사에서 분사해 설립된 Megaspeed를 칩 밀수 가능성으로 들여다봤지만 기소로 이어지지는 않았다."
+              },
+              {
+                "t": "p",
+                "x": "Nvidia는 의혹을 부인했다. 회사는 “고객과의 만남은 CEO 업무의 일부”라며 “지역 클라우드 고객은 민감한 Nvidia 영업 비밀이 아닌 일반적인 사업 정보를 받으며, 국가 안보와 관련된 정보는 전혀 받지 않는다”고 밝혔다. 사정에 밝은 소식통에 따르면 싱가포르 Megaspeed를 들여다본 Nvidia 내부 조사에서도 칩이 중국으로 전용된 증거는 나오지 않았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "米議会、フアンCEO召喚\n中国スパイ工作を懸念",
+          "body": "下院GOP委員長らがフアン氏に、AI-chip密輸疑惑の企業幹部との関係説明を求めた。",
+          "mini_headline": "米議会、フアンCEO召喚",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
+                "cap": "Nvidia CEOのジェンスン・フアン（Jensen Huang）氏。"
+              },
+              {
+                "t": "p",
+                "x": "米国（US）の情報当局者がNvidiaの最高経営責任者が中国のスパイ工作の標的になったとみていると報じられたことを受け、共和党の有力議員らがジェンスン・フアン氏に議会への出席を求めた。下院の中国特別委員会、外交委員会、情報委員会の各委員長であるジョン・ムーレナー（John Moolenaar）、ブライアン・マスト（Brian Mast）、リック・クロフォード（Rick Crawford）の各氏は、18日の非公開合同説明会に出席するよう要請した。"
+              },
+              {
+                "t": "p",
+                "x": "懸念の中心は、Nvidiaのチップを数十億ドル分購入したシンガポールのクラウド企業Megaspeedの幹部で、アリス・ファン（Alice Huang）という中国人女性だ。米国は以前、中国のゲーム会社からのスピンオフとして2023年に設立されたMegaspeedを、チップ密輸の可能性で調べたが、起訴には至らなかった。"
+              },
+              {
+                "t": "p",
+                "x": "Nvidiaは主張を否定した。同社は「顧客との面会はCEOの仕事の一部だ」とし、「地域のクラウド顧客が受け取るのは通常の事業情報であり、Nvidiaの機密の営業秘密ではない。国家安全保障に関わる情報はゼロだ」と述べた。事情に詳しい関係者によると、シンガポールのMegaspeedに対するNvidiaの社内調査では、チップが中国に転用された証拠は見つからなかった。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "美国会传唤黄仁勋\n因中国间谍活动担忧",
+          "body": "众院GOP主席们要求黄仁勋说明与涉嫌AI-chip走私的Megaspeed高管的关系。",
+          "mini_headline": "美国会传唤黄仁勋",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
+                "cap": "Nvidia CEO黄仁勋（Jensen Huang）。"
+              },
+              {
+                "t": "p",
+                "x": "有报道称，美国（US）情报官员认为Nvidia首席执行官已成为中国间谍行动的目标，此后共和党高层议员要求黄仁勋到国会出席。众议院中国问题委员会、外交事务委员会和情报委员会主席约翰·穆勒纳尔（John Moolenaar）、布赖恩·马斯特（Brian Mast）和里克·克劳福德（Rick Crawford）邀请他于本月18日出席闭门联合简报会。"
+              },
+              {
+                "t": "p",
+                "x": "担忧集中在一名名叫Alice Huang的中国女性身上，她是新加坡云计算公司Megaspeed的高管，该公司已购买了价值数十亿美元的Nvidia芯片。Megaspeed于2023年作为一家中国游戏公司的分拆企业成立，美国此前曾因可能的芯片走私对其进行审查，但未提出任何指控。"
+              },
+              {
+                "t": "p",
+                "x": "Nvidia否认了相关说法。该公司表示：“与客户会面是CEO工作的一部分。我们的区域云客户获得的是普通商业信息，而非敏感的Nvidia商业机密，与国家安全相关的信息为零。”知情人士称，Nvidia对新加坡Megaspeed进行的内部调查未发现其芯片被转运至中国的证据。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El Congreso cita a Jensen Huang\npor temor a espionaje chino",
+          "body": "El GOP pidió a Jensen Huang explicar lazos con una ejecutiva de Megaspeed, firma vigilada por contrabando de AI-chip.",
+          "mini_headline": "El Congreso cita a Jensen Huang",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
+                "cap": "Jensen Huang, CEO de Nvidia."
+              },
+              {
+                "t": "p",
+                "x": "Destacados legisladores republicanos han pedido a Jensen Huang que comparezca ante el Congreso, después de que se informara de que funcionarios de inteligencia de EE. UU. (US) creen que el director ejecutivo de Nvidia ha sido objetivo de una operación de espionaje china. Los presidentes de los comités de la Cámara sobre China, asuntos exteriores e inteligencia —John Moolenaar, Brian Mast y Rick Crawford— le pidieron asistir a una sesión informativa conjunta a puerta cerrada el 18 de noviembre."
+              },
+              {
+                "t": "p",
+                "x": "La preocupación se centra en una mujer china llamada Alice Huang, ejecutiva de Megaspeed, una empresa de nube con sede en Singapur que ha comprado miles de millones de dólares en chips de Nvidia. Estados Unidos ya había examinado a Megaspeed, fundada en 2023 como escisión de una empresa china de videojuegos, por posible contrabando de chips, aunque no se presentaron cargos."
+              },
+              {
+                "t": "p",
+                "x": "Nvidia ha rechazado las acusaciones. “Las reuniones con clientes son parte del trabajo de un CEO”, señaló la empresa. “Nuestros clientes regionales de nube reciben información comercial corriente —no secretos comerciales sensibles de Nvidia— y cero información relevante para la seguridad nacional”. Una investigación interna de Nvidia en Megaspeed en Singapur no halló pruebas de que sus chips se desviaran a China, según personas familiarizadas con el asunto."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "미 의회, 젠슨 황 소환\n중국 스파이 우려",
+          "body": "하원 GOP가 젠슨 황에게 AI-chip 밀수 의혹 업체 임원과의 관계를 물었다.",
+          "mini_headline": "미 의회, 젠슨 황 소환",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
+                "cap": "Nvidia CEO 젠슨 황(Jensen Huang)."
+              },
+              {
+                "t": "p",
+                "x": "미국(US) 정보 당국이 Nvidia 최고경영자가 중국 첩보 공작의 표적이 됐다고 본다는 보도가 나온 뒤, 공화당 고위 의원들이 젠슨 황에게 의회 출석을 요청했다. 하원 중국특위·외교위·정보위 위원장인 존 물레나(John Moolenaar), 브라이언 매스트(Brian Mast), 릭 크로퍼드(Rick Crawford)는 그에게 오는 18일 비공개 합동 브리핑에 나와 달라고 요청했다."
+              },
+              {
+                "t": "p",
+                "x": "우려의 중심에는 Nvidia 칩을 수십억 달러어치 사들인 싱가포르 클라우드 업체 Megaspeed의 임원인 중국인 여성 앨리스 황(Alice Huang)이 있다. 미국은 중국 게임사에서 분사해 2023년 설립된 Megaspeed를 칩 밀수 가능성으로 들여다본 적이 있으나 기소로 이어지지는 않았다."
+              },
+              {
+                "t": "p",
+                "x": "Nvidia는 의혹을 부인했다. 회사는 “고객과의 만남은 CEO 업무의 일부”라며 “지역 클라우드 고객은 민감한 Nvidia 영업 비밀이 아닌 일반적인 사업 정보를 받으며, 국가 안보와 관련된 정보는 전혀 받지 않는다”고 밝혔다. 사정에 밝은 소식통들에 따르면 싱가포르 Megaspeed에 대한 Nvidia 내부 조사에서 칩이 중국으로 전용된 증거는 나오지 않았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "米議会、フアンCEO召喚\n中国スパイ工作を懸念",
+          "body": "下院GOP委員長らがフアン氏に、AI-chip密輸疑惑の企業幹部との関係説明を求めた。",
+          "mini_headline": "米議会、フアンCEO召喚",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
+                "cap": "Nvidia CEOのジェンスン・フアン（Jensen Huang）氏。"
+              },
+              {
+                "t": "p",
+                "x": "米国（US）の情報当局者がNvidiaの最高経営責任者が中国のスパイ工作の標的になったとみていると報じられたことを受け、共和党の有力議員らがジェンスン・フアン氏に議会への出席を求めた。下院の中国特別委員会、外交委員会、情報委員会の各委員長であるジョン・ムーレナー（John Moolenaar）、ブライアン・マスト（Brian Mast）、リック・クロフォード（Rick Crawford）の各氏は、18日の非公開合同説明会に出席するよう要請した。"
+              },
+              {
+                "t": "p",
+                "x": "懸念の中心は、Nvidiaのチップを数十億ドル分購入したシンガポールのクラウド企業Megaspeedの幹部で、アリス・ファン（Alice Huang）という中国人女性だ。米国は以前、中国のゲーム会社からのスピンオフとして2023年に設立されたMegaspeedを、チップ密輸の可能性で調べたが、起訴には至らなかった。"
+              },
+              {
+                "t": "p",
+                "x": "Nvidiaは主張を否定した。同社は「顧客との面会はCEOの仕事の一部だ」とし、「地域のクラウド顧客が受け取るのは通常の事業情報であり、Nvidiaの機密の営業秘密ではない。国家安全保障に関わる情報はゼロだ」と述べた。事情に詳しい関係者によると、シンガポールのMegaspeedに対するNvidiaの社内調査では、チップが中国に転用された証拠は見つからなかった。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "美国会传唤黄仁勋\n因中国间谍活动担忧",
+          "body": "众院GOP主席们要求黄仁勋说明与涉嫌AI-chip走私的Megaspeed高管的关系。",
+          "mini_headline": "美国会传唤黄仁勋",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
+                "cap": "Nvidia CEO黄仁勋（Jensen Huang）。"
+              },
+              {
+                "t": "p",
+                "x": "有报道称，美国（US）情报官员认为Nvidia首席执行官已成为中国间谍行动的目标，此后共和党高层议员要求黄仁勋到国会出席。众议院中国问题委员会、外交事务委员会和情报委员会主席约翰·穆勒纳尔（John Moolenaar）、布赖恩·马斯特（Brian Mast）和里克·克劳福德（Rick Crawford）邀请他于本月18日出席闭门联合简报会。"
+              },
+              {
+                "t": "p",
+                "x": "担忧集中在一名名叫Alice Huang的中国女性身上，她是新加坡云计算公司Megaspeed的高管，该公司已购买了价值数十亿美元的Nvidia芯片。Megaspeed于2023年作为一家中国游戏公司的分拆企业成立，美国此前曾因可能的芯片走私对其进行审查，但未提出任何指控。"
+              },
+              {
+                "t": "p",
+                "x": "Nvidia否认了相关说法。该公司表示：“与客户会面是CEO工作的一部分。我们的区域云客户获得的是普通商业信息，而非敏感的Nvidia商业机密，与国家安全相关的信息为零。”知情人士称，Nvidia对新加坡Megaspeed进行的内部调查未发现其芯片被转运至中国的证据。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El Congreso cita a Jensen Huang\npor temor a espionaje chino",
+          "body": "El GOP pidió a Jensen Huang explicar lazos con una ejecutiva de Megaspeed, firma vigilada por contrabando de AI-chip.",
+          "mini_headline": "El Congreso cita a Jensen Huang",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
+                "cap": "Jensen Huang, CEO de Nvidia."
+              },
+              {
+                "t": "p",
+                "x": "Destacados legisladores republicanos han pedido a Jensen Huang que comparezca ante el Congreso, después de que se informara de que funcionarios de inteligencia de EE. UU. (US) creen que el director ejecutivo de Nvidia ha sido objetivo de una operación de espionaje china. Los presidentes de los comités de la Cámara sobre China, asuntos exteriores e inteligencia —John Moolenaar, Brian Mast y Rick Crawford— le pidieron asistir a una sesión informativa conjunta a puerta cerrada el 18 de noviembre."
+              },
+              {
+                "t": "p",
+                "x": "La preocupación se centra en una mujer china llamada Alice Huang, ejecutiva de Megaspeed, una empresa de nube con sede en Singapur que ha comprado miles de millones de dólares en chips de Nvidia. Estados Unidos ya había examinado a Megaspeed, fundada en 2023 como escisión de una empresa china de videojuegos, por posible contrabando de chips, aunque no se presentaron cargos."
+              },
+              {
+                "t": "p",
+                "x": "Nvidia ha rechazado las acusaciones. “Las reuniones con clientes son parte del trabajo de un CEO”, señaló la empresa. “Nuestros clientes regionales de nube reciben información comercial corriente —no secretos comerciales sensibles de Nvidia— y cero información relevante para la seguridad nacional”. Una investigación interna de Nvidia en Megaspeed en Singapur no halló pruebas de que sus chips se desviaran a China, según personas familiarizadas con el asunto."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "delhi-hc-rekha-gupta-deepfake",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "델리 법원, 주총리\nAI 영상 삭제 명령",
+      "body": "델리 고법은 CM 굽타를 주류상으로 그린 AAP AI 영상 여섯 건을 내리게 했다.",
+      "mini_headline": "델리 HC, AI 영상 삭제 명령",
       "tool": "Politics",
       "source": "The Indian Express",
-      "url": "https://indianexpress.com/article/legal-news/delhi-high-court-kriti-sanon-ai-deepfakes-impersonating-10951610/",
-      "accent": "#eb367f",
+      "url": "https://indianexpress.com/article/legal-news/delhi-hc-orders-aap-takedown-ai-deepfake-videos-cm-rekha-gupta-10953913/",
+      "accent": "#ff5a4d",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.indianexpress.com/2026/11/Kriti-Sanon_20261105093311.jpg"
+            "src": "https://images.indianexpress.com/2026/10/rekha-gupta_20261001224747_20261007213622_20261008233608_20261016000054_20261020112732.jpg",
+            "cap": "(자료 사진)"
           },
           {
             "t": "p",
-            "x": "델리 고등법원(Delhi High Court)이 배우 크리티 사논(Kriti Sanon)에게 임시 구제를 인정했다. 이에 따라 여러 웹사이트와 소셜미디어 계정, AI 플랫폼은 그의 신원을 이용해 성적으로 노골적인 딥페이크를 만들거나 퍼뜨릴 수 없고, 그를 사칭하거나 관련이 있는 것처럼 거짓으로 암시할 수도 없다. 명령은 인격권 보호를 요청한 사논의 신청에 따라 푸루샤인드라 쿠마르 카우라브(Purushaindra Kumar Kaurav) 판사가 내렸다."
+            "x": "델리 고등법원이 금요일 아암 아드미당(Aam Aadmi Party, AAP)의 소셜미디어 계정에 올라온 레카 굽타(Rekha Gupta) 델리 주총리의 AI 생성(AI-generated) 영상을 삭제하라고 명령했다. 법원은 게시물이 “명예훼손적이고 모욕적일 뿐 아니라 헌법상 권한을 가진 여성의 존엄을 공격한다”고 밝혔다."
           },
           {
             "t": "p",
-            "x": "법원은 문제 자료가 담긴 URLs를 삭제하라고 명령하고 음란 딥페이크를 올린 웹사이트에 관계 당국이 차단 지시를 내리도록 했다. 다만 이 명령이 뉴스, 리뷰, 비평, 논평, 풍자, 패러디, 캐리커처, 팬 표현까지 막지는 않는다고 법원은 밝혔다."
+            "x": "굽타 CM은 AAP와 소셜미디어 중개업체 X Corp, Meta 플랫폼 등을 상대로 HC에 소송을 냈다. 자신을 주류 판매상으로 묘사한 여러 AI 생성(AI-generated) 영상과, 파르베시 사힙 싱(Parvesh Sahib Singh) 부주총리(Deputy CM)와 함께 술과 얼음을 따르는 모습을 담은 딥페이크 영상을 겨냥해 영구 금지명령을 청구했다."
           },
           {
             "t": "p",
-            "x": "사논(Sanon)은 자신을 내세운 AI 챗봇과 합성 음성 모델 등으로 이름, 이미지, 초상, 목소리가 오용됐다고 주장했다. 프라빈 아난드(Pravin Anand) 선임 변호사는 콘텐츠 상당수가 AI 도구로 만들어졌다고 진술했다."
+            "x": "마노즈 자인(Manoj Jain) 판사는 “특히 이러한 콘텐츠가 소셜미디어 플랫폼을 통해 번개 같은 속도로 퍼진다는 점을 고려할 때” 굽타에게 유리한 일응의 사건이 성립한다고 보고, 이런 게시물 여섯 건(Facebook 한 건, X 다섯 건)을 삭제하라고 명령했다."
           },
           {
             "t": "p",
-            "x": "법원은 ‘인격권’이 하나의 소송 원인이 아니라 서로 다른 여러 청구를 묶어 이르는 말이라고 했다. 사건 심리는 12월 10일 열린다."
+            "x": "법원은 AAP를 비롯한 피고들에게 소환장도 발부하면서 “건전한 비판과 풍자적 유머는 눈살을 찌푸리게 하지 않겠지만, AI 생성(AI-generated) 영상과 문제의 게시물은 명백히 경계선을 넘었다”고 밝혔다. 모욕적인 묘사가 “어떤 상상력을 동원해도 허용 가능한 정치 풍자의 영역에 있다고 볼 수 없다”고도 했다."
+          },
+          {
+            "t": "p",
+            "x": "델리 정부 관계자들은 법원 명령을 “역사적”이라고 평가했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Delhi High Court shields\nKriti Sanon from AI deepfakes",
-          "body": "The court ordered objectionable URLs taken down and told authorities to block sites hosting pornographic deepfakes.",
-          "mini_headline": "Court shields actor from deepfakes",
+          "headline": "Delhi court orders takedown\nof AI videos of chief minister",
+          "body": "The Delhi High Court ordered six AAP posts with AI videos showing CM Rekha Gupta as a liquor vendor taken down.",
+          "mini_headline": "Delhi HC orders AI video takedown",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.indianexpress.com/2026/11/Kriti-Sanon_20261105093311.jpg"
+                "src": "https://images.indianexpress.com/2026/10/rekha-gupta_20261001224747_20261007213622_20261008233608_20261016000054_20261020112732.jpg",
+                "cap": "(File Photo)"
               },
               {
                 "t": "p",
-                "x": "In an interim relief to actor Kriti Sanon, the Delhi High Court has restrained various websites, social media accounts and AI platforms from using her identity to create or circulate sexually explicit deepfakes, impersonate her or falsely suggest an association with her. Justice Purushaindra Kumar Kaurav passed the order on her plea seeking protection of her personality rights."
+                "x": "Directing takedown of AI-generated videos featuring Delhi Chief Minister Rekha Gupta posted from social media handles of the Aam Aadmi Party (AAP), the Delhi High Court on Friday observed that the posts were “not only defamatory and offensive but also attack the dignity of a woman, having constitutional authority”."
               },
               {
                 "t": "p",
-                "x": "The court ordered take down of URLs containing objectionable materials and directed the authorities concerned to issue blocking directions to websites hosting pornographic deepfakes. It clarified the order doesn't restrain news, review, criticism, commentary, satire, parody, caricature or fan expression."
+                "x": "CM Gupta had moved the HC against AAP and others, including social media intermediaries X Corp and Meta platforms, seeking permanent injunction against several AI-generated videos featuring her as a liquor vendor as well as a deepfake video showing her, along with Deputy CM Parvesh Sahib Singh, pouring liquor and ice-cubes."
               },
               {
                 "t": "p",
-                "x": "Sanon alleged misuse of her name, image, likeness and voice, including AI chatbots and synthetic voice models presented as her. Senior advocate Pravin Anand submitted that much of the content was created using AI tools."
+                "x": "Justice Manoj Jain, ruling that she has a preliminary case in her favour, “particularly keeping in mind the fact that these contents travel at a lightning speed through social media platform”, ordered takedown of six such posts — one on Facebook and five others on X."
               },
               {
                 "t": "p",
-                "x": "The court said \"personality rights\" is not a single cause of action but a description of several distinct claims. The matter will be heard on December 10."
+                "x": "The court further issued summons to the defendants, including AAP, observing, “Healthy criticism and satirical humor may not raise any eyebrows but AI-generated videos and the posts in question have clearly breached the dividing line.” The offensive portrayal “can be, by no stretch of imagination, said to be in the realm of permissible political satire”, it said."
+              },
+              {
+                "t": "p",
+                "x": "Delhi government officials, meanwhile, termed the court order as “historical”."
               }
             ]
           }
         },
         "ko": {
-          "headline": "델리 고법, 크리티 사논\nAI 딥페이크서 보호",
-          "body": "법원은 문제의 URLs 삭제와 함께 음란 딥페이크 사이트 차단을 지시했다.",
-          "mini_headline": "법원, 배우를 딥페이크서 보호",
+          "headline": "델리 법원, 주총리\nAI 영상 삭제 명령",
+          "body": "델리 고법은 CM 굽타를 주류상으로 그린 AAP AI 영상 여섯 건을 내리게 했다.",
+          "mini_headline": "델리 HC, AI 영상 삭제 명령",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.indianexpress.com/2026/11/Kriti-Sanon_20261105093311.jpg"
+                "src": "https://images.indianexpress.com/2026/10/rekha-gupta_20261001224747_20261007213622_20261008233608_20261016000054_20261020112732.jpg",
+                "cap": "(자료 사진)"
               },
               {
                 "t": "p",
-                "x": "델리 고등법원(Delhi High Court)이 배우 크리티 사논(Kriti Sanon)에게 임시 구제를 인정했다. 이에 따라 여러 웹사이트와 소셜미디어 계정, AI 플랫폼은 그의 신원을 이용해 성적으로 노골적인 딥페이크를 만들거나 퍼뜨릴 수 없고, 그를 사칭하거나 관련이 있는 것처럼 거짓으로 암시할 수도 없다. 명령은 인격권 보호를 요청한 사논의 신청에 따라 푸루샤인드라 쿠마르 카우라브(Purushaindra Kumar Kaurav) 판사가 내렸다."
+                "x": "델리 고등법원이 금요일 아암 아드미당(Aam Aadmi Party, AAP)의 소셜미디어 계정에 올라온 레카 굽타(Rekha Gupta) 델리 주총리의 AI 생성(AI-generated) 영상을 삭제하라고 명령했다. 법원은 게시물이 “명예훼손적이고 모욕적일 뿐 아니라 헌법상 권한을 가진 여성의 존엄을 공격한다”고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "법원은 문제 자료가 담긴 URLs를 삭제하라고 명령하고 음란 딥페이크를 올린 웹사이트에 관계 당국이 차단 지시를 내리도록 했다. 다만 이 명령이 뉴스, 리뷰, 비평, 논평, 풍자, 패러디, 캐리커처, 팬 표현까지 막지는 않는다고 법원은 밝혔다."
+                "x": "굽타 CM은 AAP와 소셜미디어 중개업체 X Corp, Meta 플랫폼 등을 상대로 HC에 소송을 냈다. 자신을 주류 판매상으로 묘사한 여러 AI 생성(AI-generated) 영상과, 파르베시 사힙 싱(Parvesh Sahib Singh) 부주총리(Deputy CM)와 함께 술과 얼음을 따르는 모습을 담은 딥페이크 영상을 겨냥해 영구 금지명령을 청구했다."
               },
               {
                 "t": "p",
-                "x": "사논(Sanon)은 자신을 내세운 AI 챗봇과 합성 음성 모델 등으로 이름, 이미지, 초상, 목소리가 오용됐다고 주장했다. 프라빈 아난드(Pravin Anand) 선임 변호사는 콘텐츠 상당수가 AI 도구로 만들어졌다고 진술했다."
+                "x": "마노즈 자인(Manoj Jain) 판사는 “특히 이러한 콘텐츠가 소셜미디어 플랫폼을 통해 번개 같은 속도로 퍼진다는 점을 고려할 때” 굽타에게 유리한 일응의 사건이 성립한다고 보고, 이런 게시물 여섯 건(Facebook 한 건, X 다섯 건)을 삭제하라고 명령했다."
               },
               {
                 "t": "p",
-                "x": "법원은 ‘인격권’이 하나의 소송 원인이 아니라 서로 다른 여러 청구를 묶어 이르는 말이라고 했다. 사건 심리는 12월 10일 열린다."
+                "x": "법원은 AAP를 비롯한 피고들에게 소환장도 발부하면서 “건전한 비판과 풍자적 유머는 눈살을 찌푸리게 하지 않겠지만, AI 생성(AI-generated) 영상과 문제의 게시물은 명백히 경계선을 넘었다”고 밝혔다. 모욕적인 묘사가 “어떤 상상력을 동원해도 허용 가능한 정치 풍자의 영역에 있다고 볼 수 없다”고도 했다."
+              },
+              {
+                "t": "p",
+                "x": "델리 정부 관계자들은 법원 명령을 “역사적”이라고 평가했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "デリー高裁、サノン氏を\nAIディープフェイクから保護",
-          "body": "裁判所は問題のURLsの削除を命じ、ポルノ・ディープフェイクのサイト遮断を当局に指示した。",
-          "mini_headline": "裁判所、俳優をディープフェイクから保護",
+          "headline": "デリー高裁、州首相の\nAI動画の削除を命令",
+          "body": "デリー高裁は、CMグプタ氏を酒の売り子に描いたAAPのAI動画投稿六件の削除を命じた。",
+          "mini_headline": "デリーHC、AI動画削除命令",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.indianexpress.com/2026/11/Kriti-Sanon_20261105093311.jpg"
+                "src": "https://images.indianexpress.com/2026/10/rekha-gupta_20261001224747_20261007213622_20261008233608_20261016000054_20261020112732.jpg",
+                "cap": "（資料写真）"
               },
               {
                 "t": "p",
-                "x": "デリー高等裁判所(Delhi High Court)は俳優Kriti Sanonへの暫定的救済として、さまざまなウェブサイト、ソーシャルメディアのアカウント、AIプラットフォームに対し、彼女のアイデンティティを使って性的に露骨なディープフェイクを作成・拡散すること、彼女になりすますこと、彼女との関係を偽って示唆することを禁じた。Purushaindra Kumar Kaurav判事が、パーソナリティ権の保護を求める彼女の申し立てを受けて命令を出した。"
+                "x": "デリー高等裁判所は金曜日、アーム・アードミ党（Aam Aadmi Party、AAP）のソーシャルメディアアカウントから投稿された、デリー州首相レカ・グプタ（Rekha Gupta）氏が登場するAI生成（AI-generated）動画の削除を命じ、投稿は「名誉毀損的で不快であるだけでなく、憲法上の権限を持つ女性の尊厳を攻撃するものだ」との見解を示した。"
               },
               {
                 "t": "p",
-                "x": "裁判所は問題のある素材を含むURLsの削除を命じ、関係当局に対し、ポルノ的なディープフェイクを掲載するウェブサイトへの遮断指示を出すよう指示した。命令はニュース、レビュー、批評、論評、風刺、パロディ、戯画、ファンによる表現を制限するものではないとも明確にした。"
+                "x": "グプタCMは、AAPのほか、ソーシャルメディア仲介業者のX CorpやMetaプラットフォームなどを相手取ってHCに提訴し、自身を酒の売り子として描いた複数のAI生成（AI-generated）動画と、パルベシュ・サヒブ・シン（Parvesh Sahib Singh）副州首相（Deputy CM）とともに酒と氷を注ぐ姿を映したディープフェイク動画に対する恒久的差し止めを求めていた。"
               },
               {
                 "t": "p",
-                "x": "Sanonは、彼女を装ったAIチャットボットや合成音声モデルを含め、自身の名前、画像、肖像、声が悪用されていると訴えた。Pravin Anand上級弁護士は、コンテンツの多くがAIツールで作られたと述べた。"
+                "x": "マノジ・ジェイン（Manoj Jain）判事は、「特にこうしたコンテンツがソーシャルメディアプラットフォームを通じて電光石火の速さで拡散するという事実を踏まえれば」、一応の理由は彼女の側にあると判断し、こうした投稿六件、すなわちFacebookの一件とXの五件の削除を命じた。"
               },
               {
                 "t": "p",
-                "x": "裁判所は、「パーソナリティ権」は単一の訴因ではなく、複数の異なる請求を総称する言葉だと述べた。次回審理は12月10日に行われる。"
+                "x": "裁判所はさらにAAPを含む被告に召喚状を出し、「健全な批判や風刺的なユーモアは眉をひそめさせるものではないかもしれないが、AI生成（AI-generated）動画と問題の投稿は明らかに一線を越えている」と指摘した。不快な描写は「どう想像を巡らせても、許容される政治風刺の範囲内とは言えない」とした。"
+              },
+              {
+                "t": "p",
+                "x": "一方、デリー州政府当局者は裁判所の命令を「歴史的」と評した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "德里高等法院保护\n克里蒂·萨农免受AI深度伪造",
-          "body": "法院下令删除不当URLs，并指示当局封锁发布色情深度伪造内容的网站。",
-          "mini_headline": "法院保护演员免受深度伪造",
+          "headline": "德里法院下令删除\n首席部长AI视频",
+          "body": "德里高等法院下令删除AAP六条将CM雷卡·古普塔描绘成卖酒商贩的AI视频帖子。",
+          "mini_headline": "德里HC下令删除AI视频",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.indianexpress.com/2026/11/Kriti-Sanon_20261105093311.jpg"
+                "src": "https://images.indianexpress.com/2026/10/rekha-gupta_20261001224747_20261007213622_20261008233608_20261016000054_20261020112732.jpg",
+                "cap": "（资料图片）"
               },
               {
                 "t": "p",
-                "x": "德里高等法院(Delhi High Court)向演员Kriti Sanon提供临时救济，禁止多个网站、社交媒体账号和AI平台利用其身份制作或传播露骨色情的深度伪造内容、冒充她或虚假暗示与她存在关联。Purushaindra Kumar Kaurav法官根据她要求保护人格权的申请作出了这一命令。"
+                "x": "德里高等法院周五下令删除平民党（Aam Aadmi Party，AAP）社交媒体账号发布的、以德里首席部长雷卡·古普塔（Rekha Gupta）为主角的AI生成（AI-generated）视频，并指出这些帖子“不仅具有诽谤性和冒犯性，还侵犯了一位拥有宪法权力的女性的尊严”。"
               },
               {
                 "t": "p",
-                "x": "法院下令删除含有不当内容的URLs，并指示相关部门向发布色情深度伪造内容的网站发出封锁指令。法院明确表示，该命令不限制新闻、评论、批评、评述、讽刺、戏仿、漫画或粉丝表达。"
+                "x": "古普塔CM此前向HC起诉AAP以及包括社交媒体中介X Corp和Meta平台在内的其他方，要求对多段将她描绘成卖酒商贩的AI生成（AI-generated）视频，以及一段显示她与副首席部长（Deputy CM）帕尔维什·萨希卜·辛格（Parvesh Sahib Singh）一起倒酒和冰块的深度伪造视频发布永久禁令。"
               },
               {
                 "t": "p",
-                "x": "Sanon称其姓名、图像、肖像和声音遭到滥用，包括以她名义出现的AI聊天机器人和合成语音模型。资深律师Pravin Anand陈述称，其中大量内容是用AI工具制作的。"
+                "x": "法官马诺吉·杰恩（Manoj Jain）裁定她初步占理，“尤其考虑到这些内容会通过社交媒体平台以闪电般的速度传播”，下令删除六条此类帖子——一条在Facebook上，另五条在X上。"
               },
               {
                 "t": "p",
-                "x": "法院表示，“人格权”并非单一的诉因，而是对若干不同诉求的统称。此案将于12月10日审理。"
+                "x": "法院还向包括AAP在内的被告发出传票，并指出：“健康的批评和讽刺幽默或许不会引人侧目，但这些AI生成（AI-generated）视频和涉事帖子显然越过了界线。”法院表示，这种冒犯性描绘“无论如何都不能被视为属于可允许的政治讽刺范畴”。"
+              },
+              {
+                "t": "p",
+                "x": "与此同时，德里政府官员称这一法院命令具有“历史性”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Alto tribunal de Delhi protege\na Kriti Sanon de deepfakes de AI",
-          "body": "El tribunal ordenó retirar URLs objetables y pidió a las autoridades bloquear sitios con deepfakes pornográficos.",
-          "mini_headline": "Un tribunal protege a una actriz de los deepfakes",
+          "headline": "Corte de Delhi ordena retirar\nvideos con AI de la ministra",
+          "body": "La corte de Delhi ordenó retirar seis posts de AAP con videos de AI de la CM Rekha Gupta como vendedora de licor.",
+          "mini_headline": "El HC de Delhi ordena retirar videos de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.indianexpress.com/2026/11/Kriti-Sanon_20261105093311.jpg"
+                "src": "https://images.indianexpress.com/2026/10/rekha-gupta_20261001224747_20261007213622_20261008233608_20261016000054_20261020112732.jpg",
+                "cap": "(Foto de archivo)"
               },
               {
                 "t": "p",
-                "x": "Como medida cautelar a favor de la actriz Kriti Sanon, el Delhi High Court (Tribunal Superior de Delhi) ha prohibido a diversos sitios web, cuentas de redes sociales y plataformas de AI usar su identidad para crear o difundir deepfakes sexualmente explícitos, suplantarla o sugerir falsamente una relación con ella. El juez Purushaindra Kumar Kaurav dictó la orden a raíz de su demanda para proteger sus derechos de la personalidad."
+                "x": "Al ordenar la retirada de videos generados por AI (AI-generated) en los que aparece la ministra principal de Delhi, Rekha Gupta, publicados desde cuentas en redes sociales del Aam Aadmi Party (AAP), el Tribunal Superior de Delhi observó el viernes que las publicaciones eran “no solo difamatorias y ofensivas, sino que también atacan la dignidad de una mujer con autoridad constitucional”."
               },
               {
                 "t": "p",
-                "x": "El tribunal ordenó retirar las URLs con material objetable e indicó a las autoridades competentes que emitieran órdenes de bloqueo contra los sitios web que alojan deepfakes pornográficos. Aclaró que la orden no restringe noticias, reseñas, críticas, comentarios, sátira, parodia, caricatura ni expresiones de fans."
+                "x": "La CM Gupta había acudido al HC contra AAP y otros, entre ellos los intermediarios de redes sociales X Corp y Meta platforms, para pedir una orden judicial permanente contra varios videos generados por AI (AI-generated) que la muestran como vendedora de licor, así como contra un video deepfake en el que aparece junto al viceministro principal (Deputy CM) Parvesh Sahib Singh sirviendo licor y cubitos de hielo."
               },
               {
                 "t": "p",
-                "x": "Sanon denunció el uso indebido de su nombre, imagen, semejanza y voz, incluidos chatbots de AI y modelos de voz sintética presentados como ella. El abogado sénior Pravin Anand sostuvo que gran parte del contenido se creó con herramientas de AI."
+                "x": "El juez Manoj Jain, al dictaminar que ella tiene un caso preliminar a su favor, “sobre todo teniendo en cuenta que estos contenidos viajan a la velocidad del rayo por las plataformas de redes sociales”, ordenó retirar seis de esas publicaciones: una en Facebook y otras cinco en X."
               },
               {
                 "t": "p",
-                "x": "El tribunal señaló que los «derechos de la personalidad» no constituyen una única causa de acción, sino la descripción de varias pretensiones distintas. El caso se verá el 10 de diciembre."
+                "x": "El tribunal también emitió citaciones a los demandados, incluido AAP, y señaló: “La crítica sana y el humor satírico quizá no levanten cejas, pero los videos generados por AI (AI-generated) y las publicaciones en cuestión han cruzado claramente la línea divisoria”. La representación ofensiva “no puede, ni con el mayor esfuerzo de imaginación, considerarse dentro del ámbito de la sátira política permisible”, afirmó."
+              },
+              {
+                "t": "p",
+                "x": "Por su parte, funcionarios del gobierno de Delhi calificaron la orden judicial de “histórica”."
               }
             ]
           }
@@ -1269,473 +1481,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "델리 고법, 크리티 사논\nAI 딥페이크서 보호",
-          "body": "법원은 문제의 URLs 삭제를 명령하고 음란 딥페이크 사이트 차단을 지시했다.",
-          "mini_headline": "법원, 배우를 딥페이크서 보호",
+          "headline": "델리 법원, 주총리\nAI 영상 삭제 명령",
+          "body": "델리 고법이 CM 굽타를 주류상으로 그린 AAP AI 영상 여섯 건 삭제를 명했다.",
+          "mini_headline": "델리 HC, AI 영상 삭제 명령",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.indianexpress.com/2026/11/Kriti-Sanon_20261105093311.jpg"
+                "src": "https://images.indianexpress.com/2026/10/rekha-gupta_20261001224747_20261007213622_20261008233608_20261016000054_20261020112732.jpg",
+                "cap": "(자료 사진)"
               },
               {
                 "t": "p",
-                "x": "델리 고등법원(Delhi High Court)은 배우 크리티 사논(Kriti Sanon)에게 임시 구제를 인정해, 여러 웹사이트와 소셜미디어 계정, AI 플랫폼이 그의 신원을 이용해 성적으로 노골적인 딥페이크를 만들거나 퍼뜨리는 일, 그를 사칭하거나 그와 관련이 있는 것처럼 거짓으로 암시하는 일을 금지했다. 푸루샤인드라 쿠마르 카우라브(Purushaindra Kumar Kaurav) 판사는 인격권 보호를 요청한 그의 신청에 따라 이 명령을 내렸다."
+                "x": "델리 고등법원은 금요일 아암 아드미당(Aam Aadmi Party, AAP)의 소셜미디어 계정에 올라온 레카 굽타(Rekha Gupta) 델리 주총리의 AI 생성(AI-generated) 영상 삭제를 명령하며, 게시물이 “명예훼손적이고 모욕적일 뿐 아니라 헌법상 권한을 가진 여성의 존엄을 공격한다”고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "법원은 문제가 되는 자료가 담긴 URLs의 삭제를 명령하고, 관계 당국에 음란 딥페이크를 게시한 웹사이트에 차단 지시를 내리라고 했다. 법원은 이 명령이 뉴스, 리뷰, 비평, 논평, 풍자, 패러디, 캐리커처, 팬 표현을 막는 것은 아니라고 밝혔다."
+                "x": "굽타 CM은 AAP와 소셜미디어 중개업체 X Corp, Meta 플랫폼 등을 상대로 HC에 소송을 내, 자신을 주류 판매상으로 묘사한 여러 AI 생성(AI-generated) 영상과, 파르베시 사힙 싱(Parvesh Sahib Singh) 부주총리(Deputy CM)와 함께 술과 얼음을 따르는 모습을 담은 딥페이크 영상에 대한 영구 금지명령을 요청했다."
               },
               {
                 "t": "p",
-                "x": "사논(Sanon)은 자신을 내세운 AI 챗봇과 합성 음성 모델 등 자신의 이름, 이미지, 초상, 목소리가 오용됐다고 주장했다. 프라빈 아난드(Pravin Anand) 선임 변호사는 콘텐츠 상당수가 AI 도구로 만들어졌다고 진술했다."
+                "x": "마노즈 자인(Manoj Jain) 판사는 “특히 이러한 콘텐츠가 소셜미디어 플랫폼을 통해 번개 같은 속도로 퍼진다는 점을 고려할 때” 굽타에게 유리한 일응의 사건이 성립한다고 판단하고, 이런 게시물 여섯 건, 즉 Facebook 한 건과 X 다섯 건의 삭제를 명령했다."
               },
               {
                 "t": "p",
-                "x": "법원은 ‘인격권’이 단일한 소송 원인이 아니라 서로 다른 여러 청구를 아울러 이르는 말이라고 했다. 이 사건 심리는 12월 10일에 열린다."
+                "x": "법원은 또 AAP를 포함한 피고들에게 소환장을 발부하며 “건전한 비판과 풍자적 유머는 눈살을 찌푸리게 하지 않겠지만, AI 생성(AI-generated) 영상과 문제의 게시물은 명백히 경계선을 넘었다”고 밝혔다. 법원은 모욕적인 묘사가 “어떤 상상력을 동원해도 허용 가능한 정치 풍자의 영역에 있다고 볼 수 없다”고 했다."
+              },
+              {
+                "t": "p",
+                "x": "한편 델리 정부 관계자들은 법원 명령을 “역사적”이라고 평가했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "デリー高裁、サノン氏を\nAIディープフェイクから保護",
-          "body": "裁判所は問題のURLsの削除を命じ、ポルノ・ディープフェイクのサイト遮断を当局に指示した。",
-          "mini_headline": "裁判所、俳優をディープフェイクから保護",
+          "headline": "デリー高裁、州首相の\nAI動画の削除を命令",
+          "body": "デリー高裁は、CMグプタ氏を酒の売り子に描いたAAPのAI動画投稿六件の削除を命じた。",
+          "mini_headline": "デリーHC、AI動画削除命令",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.indianexpress.com/2026/11/Kriti-Sanon_20261105093311.jpg"
+                "src": "https://images.indianexpress.com/2026/10/rekha-gupta_20261001224747_20261007213622_20261008233608_20261016000054_20261020112732.jpg",
+                "cap": "（資料写真）"
               },
               {
                 "t": "p",
-                "x": "デリー高等裁判所(Delhi High Court)は俳優Kriti Sanonへの暫定的救済として、さまざまなウェブサイト、ソーシャルメディアのアカウント、AIプラットフォームに対し、彼女のアイデンティティを使って性的に露骨なディープフェイクを作成・拡散すること、彼女になりすますこと、彼女との関係を偽って示唆することを禁じた。Purushaindra Kumar Kaurav判事が、パーソナリティ権の保護を求める彼女の申し立てを受けて命令を出した。"
+                "x": "デリー高等裁判所は金曜日、アーム・アードミ党（Aam Aadmi Party、AAP）のソーシャルメディアアカウントから投稿された、デリー州首相レカ・グプタ（Rekha Gupta）氏が登場するAI生成（AI-generated）動画の削除を命じ、投稿は「名誉毀損的で不快であるだけでなく、憲法上の権限を持つ女性の尊厳を攻撃するものだ」との見解を示した。"
               },
               {
                 "t": "p",
-                "x": "裁判所は問題のある素材を含むURLsの削除を命じ、関係当局に対し、ポルノ的なディープフェイクを掲載するウェブサイトへの遮断指示を出すよう指示した。命令はニュース、レビュー、批評、論評、風刺、パロディ、戯画、ファンによる表現を制限するものではないとも明確にした。"
+                "x": "グプタCMは、AAPのほか、ソーシャルメディア仲介業者のX CorpやMetaプラットフォームなどを相手取ってHCに提訴し、自身を酒の売り子として描いた複数のAI生成（AI-generated）動画と、パルベシュ・サヒブ・シン（Parvesh Sahib Singh）副州首相（Deputy CM）とともに酒と氷を注ぐ姿を映したディープフェイク動画に対する恒久的差し止めを求めていた。"
               },
               {
                 "t": "p",
-                "x": "Sanonは、彼女を装ったAIチャットボットや合成音声モデルを含め、自身の名前、画像、肖像、声が悪用されていると訴えた。Pravin Anand上級弁護士は、コンテンツの多くがAIツールで作られたと述べた。"
+                "x": "マノジ・ジェイン（Manoj Jain）判事は、「特にこうしたコンテンツがソーシャルメディアプラットフォームを通じて電光石火の速さで拡散するという事実を踏まえれば」、一応の理由は彼女の側にあると判断し、こうした投稿六件、すなわちFacebookの一件とXの五件の削除を命じた。"
               },
               {
                 "t": "p",
-                "x": "裁判所は、「パーソナリティ権」は単一の訴因ではなく、複数の異なる請求を総称する言葉だと述べた。次回審理は12月10日に行われる。"
+                "x": "裁判所はさらにAAPを含む被告に召喚状を出し、「健全な批判や風刺的なユーモアは眉をひそめさせるものではないかもしれないが、AI生成（AI-generated）動画と問題の投稿は明らかに一線を越えている」と指摘した。不快な描写は「どう想像を巡らせても、許容される政治風刺の範囲内とは言えない」とした。"
+              },
+              {
+                "t": "p",
+                "x": "一方、デリー州政府当局者は裁判所の命令を「歴史的」と評した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "德里高等法院保护\n克里蒂·萨农免受AI深度伪造",
-          "body": "法院下令删除不当URLs，并指示当局封锁发布色情深度伪造内容的网站。",
-          "mini_headline": "法院保护演员免受深度伪造",
+          "headline": "德里法院下令删除\n首席部长AI视频",
+          "body": "德里高等法院下令删除AAP六条将CM雷卡·古普塔描绘成卖酒商贩的AI视频帖子。",
+          "mini_headline": "德里HC下令删除AI视频",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.indianexpress.com/2026/11/Kriti-Sanon_20261105093311.jpg"
+                "src": "https://images.indianexpress.com/2026/10/rekha-gupta_20261001224747_20261007213622_20261008233608_20261016000054_20261020112732.jpg",
+                "cap": "（资料图片）"
               },
               {
                 "t": "p",
-                "x": "德里高等法院(Delhi High Court)向演员Kriti Sanon提供临时救济，禁止多个网站、社交媒体账号和AI平台利用其身份制作或传播露骨色情的深度伪造内容、冒充她或虚假暗示与她存在关联。Purushaindra Kumar Kaurav法官根据她要求保护人格权的申请作出了这一命令。"
+                "x": "德里高等法院周五下令删除平民党（Aam Aadmi Party，AAP）社交媒体账号发布的、以德里首席部长雷卡·古普塔（Rekha Gupta）为主角的AI生成（AI-generated）视频，并指出这些帖子“不仅具有诽谤性和冒犯性，还侵犯了一位拥有宪法权力的女性的尊严”。"
               },
               {
                 "t": "p",
-                "x": "法院下令删除含有不当内容的URLs，并指示相关部门向发布色情深度伪造内容的网站发出封锁指令。法院明确表示，该命令不限制新闻、评论、批评、评述、讽刺、戏仿、漫画或粉丝表达。"
+                "x": "古普塔CM此前向HC起诉AAP以及包括社交媒体中介X Corp和Meta平台在内的其他方，要求对多段将她描绘成卖酒商贩的AI生成（AI-generated）视频，以及一段显示她与副首席部长（Deputy CM）帕尔维什·萨希卜·辛格（Parvesh Sahib Singh）一起倒酒和冰块的深度伪造视频发布永久禁令。"
               },
               {
                 "t": "p",
-                "x": "Sanon称其姓名、图像、肖像和声音遭到滥用，包括以她名义出现的AI聊天机器人和合成语音模型。资深律师Pravin Anand陈述称，其中大量内容是用AI工具制作的。"
+                "x": "法官马诺吉·杰恩（Manoj Jain）裁定她初步占理，“尤其考虑到这些内容会通过社交媒体平台以闪电般的速度传播”，下令删除六条此类帖子——一条在Facebook上，另五条在X上。"
               },
               {
                 "t": "p",
-                "x": "法院表示，“人格权”并非单一的诉因，而是对若干不同诉求的统称。此案将于12月10日审理。"
+                "x": "法院还向包括AAP在内的被告发出传票，并指出：“健康的批评和讽刺幽默或许不会引人侧目，但这些AI生成（AI-generated）视频和涉事帖子显然越过了界线。”法院表示，这种冒犯性描绘“无论如何都不能被视为属于可允许的政治讽刺范畴”。"
+              },
+              {
+                "t": "p",
+                "x": "与此同时，德里政府官员称这一法院命令具有“历史性”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Alto tribunal de Delhi protege\na Kriti Sanon de deepfakes de AI",
-          "body": "El tribunal ordenó retirar URLs objetables y pidió a las autoridades bloquear sitios con deepfakes pornográficos.",
-          "mini_headline": "Un tribunal protege a una actriz de los deepfakes",
+          "headline": "Corte de Delhi ordena retirar\nvideos con AI de la ministra",
+          "body": "La corte de Delhi ordenó retirar seis posts de AAP con videos de AI de la CM Rekha Gupta como vendedora de licor.",
+          "mini_headline": "El HC de Delhi ordena retirar videos de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.indianexpress.com/2026/11/Kriti-Sanon_20261105093311.jpg"
+                "src": "https://images.indianexpress.com/2026/10/rekha-gupta_20261001224747_20261007213622_20261008233608_20261016000054_20261020112732.jpg",
+                "cap": "(Foto de archivo)"
               },
               {
                 "t": "p",
-                "x": "Como medida cautelar a favor de la actriz Kriti Sanon, el Delhi High Court (Tribunal Superior de Delhi) ha prohibido a diversos sitios web, cuentas de redes sociales y plataformas de AI usar su identidad para crear o difundir deepfakes sexualmente explícitos, suplantarla o sugerir falsamente una relación con ella. El juez Purushaindra Kumar Kaurav dictó la orden a raíz de su demanda para proteger sus derechos de la personalidad."
+                "x": "Al ordenar la retirada de videos generados por AI (AI-generated) en los que aparece la ministra principal de Delhi, Rekha Gupta, publicados desde cuentas en redes sociales del Aam Aadmi Party (AAP), el Tribunal Superior de Delhi observó el viernes que las publicaciones eran “no solo difamatorias y ofensivas, sino que también atacan la dignidad de una mujer con autoridad constitucional”."
               },
               {
                 "t": "p",
-                "x": "El tribunal ordenó retirar las URLs con material objetable e indicó a las autoridades competentes que emitieran órdenes de bloqueo contra los sitios web que alojan deepfakes pornográficos. Aclaró que la orden no restringe noticias, reseñas, críticas, comentarios, sátira, parodia, caricatura ni expresiones de fans."
+                "x": "La CM Gupta había acudido al HC contra AAP y otros, entre ellos los intermediarios de redes sociales X Corp y Meta platforms, para pedir una orden judicial permanente contra varios videos generados por AI (AI-generated) que la muestran como vendedora de licor, así como contra un video deepfake en el que aparece junto al viceministro principal (Deputy CM) Parvesh Sahib Singh sirviendo licor y cubitos de hielo."
               },
               {
                 "t": "p",
-                "x": "Sanon denunció el uso indebido de su nombre, imagen, semejanza y voz, incluidos chatbots de AI y modelos de voz sintética presentados como ella. El abogado sénior Pravin Anand sostuvo que gran parte del contenido se creó con herramientas de AI."
+                "x": "El juez Manoj Jain, al dictaminar que ella tiene un caso preliminar a su favor, “sobre todo teniendo en cuenta que estos contenidos viajan a la velocidad del rayo por las plataformas de redes sociales”, ordenó retirar seis de esas publicaciones: una en Facebook y otras cinco en X."
               },
               {
                 "t": "p",
-                "x": "El tribunal señaló que los «derechos de la personalidad» no constituyen una única causa de acción, sino la descripción de varias pretensiones distintas. El caso se verá el 10 de diciembre."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "ipophl-artists-ai-copyright",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "필리핀 IP 당국,\n예술가 AI 지침 초안",
-      "body": "IPOPHL이 AI 활용 창작물의 저작권 등록 지침 초안을 두고 의견을 받고 있다.",
-      "mini_headline": "필리핀, AI 예술 지침 초안",
-      "tool": "Politics",
-      "source": "Philippine News Agency",
-      "url": "https://www.pna.gov.ph/article/ipophl-readies-measure-protecting-artists-vs-ai-use",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://pna.gov.ph/_assets/storage/photo-assets/QcBTy2fJfkOzCUYhLONezB7N9vVmuziA86g2HzxS.webp"
-          },
-          {
-            "t": "p",
-            "x": "MANILA – 필리핀 지식재산청(Intellectual Property Office of the Philippines, IPOPHL)이 인공지능(AI) 활용 창작물의 저작권 등록 지침 초안을 놓고 대중 의견을 모으고 있다."
-          },
-          {
-            "t": "p",
-            "x": "IPOPHL 저작권·관련권리국(Bureau of Copyright and Related Rights)의 에머슨 쿠요(Emerson Cuyo) 국장은 이 문제로 공개 협의를 두 차례 열었고 의견과 피드백도 계속 받는 중이라고 말했다. 최종 지침 발표 시점은 구체적으로 밝히지 않았다."
-          },
-          {
-            "t": "p",
-            "x": "그는 예술 작품 전반에 AI 사용이 늘어나는 만큼 필리핀 예술가를 보호하려는 조치라고 설명했다. 지침 초안은 작품을 AI-assisted(AI 보조), AI-enhanced(AI 강화), 하이브리드, 순수 AI-generated(AI 생성)의 네 범주로 나눈다."
-          },
-          {
-            "t": "p",
-            "x": "쿠요(Cuyo)에 따르면 AI 시스템이나 AI 모델 자체는 지식재산법(Intellectual Property Code)상 컴퓨터 프로그램으로 보호받기 때문에 지침은 그 등록도 요구한다. AI를 활용한 작품도 자동으로 등록되지는 않는다."
-          },
-          {
-            "t": "p",
-            "x": "그는 “개인의 충분한 예술적 산출물이 있다는 점이 입증되면 등록하거나 등록을 허용할 수 있다. AI-assisted 콘텐츠나 순수 AI-generated 콘텐츠는 보호되지 않으며, 등록할 때 이를 신고해야 한다”고 덧붙였다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Philippine IP office drafts\nAI guideline for artists",
-          "body": "IPOPHL is gathering public comments on a draft guideline for copyright registration of creative works made with AI.",
-          "mini_headline": "Philippines drafts AI art rules",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://pna.gov.ph/_assets/storage/photo-assets/QcBTy2fJfkOzCUYhLONezB7N9vVmuziA86g2HzxS.webp"
+                "x": "El tribunal también emitió citaciones a los demandados, incluido AAP, y señaló: “La crítica sana y el humor satírico quizá no levanten cejas, pero los videos generados por AI (AI-generated) y las publicaciones en cuestión han cruzado claramente la línea divisoria”. La representación ofensiva “no puede, ni con el mayor esfuerzo de imaginación, considerarse dentro del ámbito de la sátira política permisible”, afirmó."
               },
               {
                 "t": "p",
-                "x": "MANILA – The Intellectual Property Office of the Philippines (IPOPHL) is gathering the public’s insights on a draft guideline aimed towards having a copyright registration for creative works that used artificial intelligence (AI)."
-              },
-              {
-                "t": "p",
-                "x": "IPOPHL Bureau of Copyright and Related Rights director Emerson Cuyo said they have conducted two public consultations on the matter, and they continue to receive comments and feedbacks. He did not give specifics on when they intend to release the final guidelines."
-              },
-              {
-                "t": "p",
-                "x": "He explained that the measure aims to protect Filipino artists, amid the increased use of AI on various artworks. Under the draft guidelines, there will be four categories, namely AI-assisted, AI-enhanced, hybrid work and purely AI-generated work."
-              },
-              {
-                "t": "p",
-                "x": "Cuyo said the guidelines also call for the registration of the AI system or AI model per se, since this is protected as a computer program under the Intellectual Property Code, and that registration of works used with AI cannot be automatically done."
-              },
-              {
-                "t": "p",
-                "x": "“It can be registered or allowed to be registered once it was proven to have adequate personal artistic output from an individual. The AI-assisted or purely AI-generated content is not protected, and they have to declare this upon registration,” he added."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "필리핀 IP 당국,\n예술가 AI 지침 초안",
-          "body": "IPOPHL이 AI 활용 창작물의 저작권 등록 지침 초안을 두고 의견을 받고 있다.",
-          "mini_headline": "필리핀, AI 예술 지침 초안",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://pna.gov.ph/_assets/storage/photo-assets/QcBTy2fJfkOzCUYhLONezB7N9vVmuziA86g2HzxS.webp"
-              },
-              {
-                "t": "p",
-                "x": "MANILA – 필리핀 지식재산청(Intellectual Property Office of the Philippines, IPOPHL)이 인공지능(AI) 활용 창작물의 저작권 등록 지침 초안을 놓고 대중 의견을 모으고 있다."
-              },
-              {
-                "t": "p",
-                "x": "IPOPHL 저작권·관련권리국(Bureau of Copyright and Related Rights)의 에머슨 쿠요(Emerson Cuyo) 국장은 이 문제로 공개 협의를 두 차례 열었고 의견과 피드백도 계속 받는 중이라고 말했다. 최종 지침 발표 시점은 구체적으로 밝히지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "그는 예술 작품 전반에 AI 사용이 늘어나는 만큼 필리핀 예술가를 보호하려는 조치라고 설명했다. 지침 초안은 작품을 AI-assisted(AI 보조), AI-enhanced(AI 강화), 하이브리드, 순수 AI-generated(AI 생성)의 네 범주로 나눈다."
-              },
-              {
-                "t": "p",
-                "x": "쿠요(Cuyo)에 따르면 AI 시스템이나 AI 모델 자체는 지식재산법(Intellectual Property Code)상 컴퓨터 프로그램으로 보호받기 때문에 지침은 그 등록도 요구한다. AI를 활용한 작품도 자동으로 등록되지는 않는다."
-              },
-              {
-                "t": "p",
-                "x": "그는 “개인의 충분한 예술적 산출물이 있다는 점이 입증되면 등록하거나 등록을 허용할 수 있다. AI-assisted 콘텐츠나 순수 AI-generated 콘텐츠는 보호되지 않으며, 등록할 때 이를 신고해야 한다”고 덧붙였다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "フィリピンIP庁が\n芸術家向けAI指針案",
-          "body": "IPOPHLは、AIを使った創作物の著作権登録に関する指針案への意見を募っている。",
-          "mini_headline": "フィリピン、AIアート指針案",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://pna.gov.ph/_assets/storage/photo-assets/QcBTy2fJfkOzCUYhLONezB7N9vVmuziA86g2HzxS.webp"
-              },
-              {
-                "t": "p",
-                "x": "MANILA – フィリピン知的財産庁(Intellectual Property Office of the Philippines、IPOPHL)は、人工知能(AI)を使った創作物の著作権登録を目指す指針案について、一般からの意見を集めている。"
-              },
-              {
-                "t": "p",
-                "x": "IPOPHL著作権・関連権局(Bureau of Copyright and Related Rights)のEmerson Cuyo局長によると、この件で二度の公開協議を開き、現在もコメントやフィードバックを受け付けている。最終指針をいつ公表するかについて、具体的な時期は示さなかった。"
-              },
-              {
-                "t": "p",
-                "x": "同氏は、さまざまな美術作品でAIの利用が増えるなか、この措置はフィリピンの芸術家を守るためのものだと説明した。指針案では、AI-assisted(AI支援)、AI-enhanced(AI強化)、ハイブリッド作品、純粋なAI-generated(AI生成)作品の四つの区分が設けられる。"
-              },
-              {
-                "t": "p",
-                "x": "Cuyo氏によると、AIシステムやAIモデルそのものは知的財産法(Intellectual Property Code)上のコンピュータープログラムとして保護されるため、指針はその登録も求めている。また、AIを使った作品の登録は自動的には行えないという。"
-              },
-              {
-                "t": "p",
-                "x": "同氏は「個人による十分な芸術的成果があると証明されれば、登録できる、あるいは登録が認められる。AI-assistedのコンテンツや純粋なAI-generatedのコンテンツは保護されず、登録時にその旨を申告しなければならない」と付け加えた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "菲律宾IP局起草\n面向艺术家的AI指南",
-          "body": "IPOPHL正就借助AI创作的作品版权登记指南草案征求公众意见。",
-          "mini_headline": "菲律宾起草AI艺术规则",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://pna.gov.ph/_assets/storage/photo-assets/QcBTy2fJfkOzCUYhLONezB7N9vVmuziA86g2HzxS.webp"
-              },
-              {
-                "t": "p",
-                "x": "MANILA——菲律宾知识产权局(Intellectual Property Office of the Philippines，IPOPHL)正就一份指南草案征求公众意见，该草案旨在为使用人工智能(AI)的创作作品提供版权登记。"
-              },
-              {
-                "t": "p",
-                "x": "IPOPHL版权及相关权利局(Bureau of Copyright and Related Rights)局长Emerson Cuyo表示，他们已就此举行两次公众咨询，并仍在持续收到意见和反馈。他没有具体说明何时发布最终指南。"
-              },
-              {
-                "t": "p",
-                "x": "他解释说，在各类艺术作品中AI使用日益增多之际，这一措施旨在保护菲律宾艺术家。根据指南草案，作品将分为四类，即AI-assisted(AI辅助)、AI-enhanced(AI增强)、混合作品和纯AI-generated(AI生成)作品。"
-              },
-              {
-                "t": "p",
-                "x": "Cuyo表示，由于AI系统或AI模型本身作为计算机程序受《知识产权法》(Intellectual Property Code)保护，指南也要求对其进行登记，而使用AI的作品不能自动完成登记。"
-              },
-              {
-                "t": "p",
-                "x": "他补充说：“一旦证明其中有个人充分的艺术产出，就可以登记或获准登记。AI-assisted或纯AI-generated内容不受保护，登记时必须对此作出申报。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La oficina de IP de Filipinas\nredacta guía de AI para artistas",
-          "body": "La IPOPHL consulta al público sobre un borrador de guía para el registro de derechos de autor de obras hechas con AI.",
-          "mini_headline": "Filipinas prepara reglas de AI para el arte",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://pna.gov.ph/_assets/storage/photo-assets/QcBTy2fJfkOzCUYhLONezB7N9vVmuziA86g2HzxS.webp"
-              },
-              {
-                "t": "p",
-                "x": "MANILA – La Intellectual Property Office of the Philippines (IPOPHL) recoge las opiniones del público sobre un borrador de guía orientado al registro de derechos de autor de obras creativas en las que se usó inteligencia artificial (AI)."
-              },
-              {
-                "t": "p",
-                "x": "Emerson Cuyo, director del Bureau of Copyright and Related Rights de IPOPHL, dijo que han realizado dos consultas públicas sobre el asunto y que siguen recibiendo comentarios y observaciones. No precisó cuándo prevén publicar la guía definitiva."
-              },
-              {
-                "t": "p",
-                "x": "Explicó que la medida busca proteger a los artistas filipinos ante el creciente uso de AI en diversas obras de arte. Según el borrador, habrá cuatro categorías: AI-assisted (asistida por AI), AI-enhanced (mejorada con AI), obra híbrida y obra puramente AI-generated (generada por AI)."
-              },
-              {
-                "t": "p",
-                "x": "Cuyo dijo que la guía también exige registrar el sistema de AI o el modelo de AI en sí, ya que está protegido como programa informático por el Intellectual Property Code, y que el registro de obras hechas con AI no puede realizarse de forma automática."
-              },
-              {
-                "t": "p",
-                "x": "«Puede registrarse o permitirse su registro una vez que se demuestre que contiene una producción artística personal suficiente de un individuo. El contenido AI-assisted o puramente AI-generated no está protegido, y debe declararse al registrarlo», añadió."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "필리핀 IP 당국,\n예술가 AI 지침 초안",
-          "body": "IPOPHL은 AI로 만든 창작물의 저작권 등록 지침 초안에 의견을 모으고 있다.",
-          "mini_headline": "필리핀, AI 예술 지침 초안",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://pna.gov.ph/_assets/storage/photo-assets/QcBTy2fJfkOzCUYhLONezB7N9vVmuziA86g2HzxS.webp"
-              },
-              {
-                "t": "p",
-                "x": "MANILA – 필리핀 지식재산청(Intellectual Property Office of the Philippines, IPOPHL)이 인공지능(AI)을 활용한 창작물의 저작권 등록을 위한 지침 초안에 대해 대중의 의견을 모으고 있다."
-              },
-              {
-                "t": "p",
-                "x": "IPOPHL 저작권·관련권리국(Bureau of Copyright and Related Rights)의 에머슨 쿠요(Emerson Cuyo) 국장은 이 문제로 두 차례 공개 협의를 열었으며 의견과 피드백을 계속 받고 있다고 말했다. 그는 최종 지침을 언제 발표할지는 구체적으로 밝히지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "그는 여러 예술 작품에 AI 사용이 늘어나는 가운데 이 조치가 필리핀 예술가를 보호하려는 것이라고 설명했다. 지침 초안은 AI-assisted(AI 보조), AI-enhanced(AI 강화), 하이브리드 작품, 순수 AI-generated(AI 생성) 작품의 네 범주를 둔다."
-              },
-              {
-                "t": "p",
-                "x": "쿠요(Cuyo)는 AI 시스템이나 AI 모델 자체가 지식재산법(Intellectual Property Code)상 컴퓨터 프로그램으로 보호받기 때문에 지침은 그 등록도 요구하며, AI를 활용한 작품의 등록은 자동으로 이뤄질 수 없다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "그는 “개인의 충분한 예술적 산출물이 있다는 점이 입증되면 등록하거나 등록을 허용할 수 있다. AI-assisted 콘텐츠나 순수 AI-generated 콘텐츠는 보호되지 않으며, 등록할 때 이를 신고해야 한다”고 덧붙였다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "フィリピンIP庁が\n芸術家向けAI指針案",
-          "body": "IPOPHLは、AIを使った創作物の著作権登録に関する指針案への意見を募っている。",
-          "mini_headline": "フィリピン、AIアート指針案",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://pna.gov.ph/_assets/storage/photo-assets/QcBTy2fJfkOzCUYhLONezB7N9vVmuziA86g2HzxS.webp"
-              },
-              {
-                "t": "p",
-                "x": "MANILA – フィリピン知的財産庁(Intellectual Property Office of the Philippines、IPOPHL)は、人工知能(AI)を使った創作物の著作権登録を目指す指針案について、一般からの意見を集めている。"
-              },
-              {
-                "t": "p",
-                "x": "IPOPHL著作権・関連権局(Bureau of Copyright and Related Rights)のEmerson Cuyo局長によると、この件で二度の公開協議を開き、現在もコメントやフィードバックを受け付けている。最終指針をいつ公表するかについて、具体的な時期は示さなかった。"
-              },
-              {
-                "t": "p",
-                "x": "同氏は、さまざまな美術作品でAIの利用が増えるなか、この措置はフィリピンの芸術家を守るためのものだと説明した。指針案では、AI-assisted(AI支援)、AI-enhanced(AI強化)、ハイブリッド作品、純粋なAI-generated(AI生成)作品の四つの区分が設けられる。"
-              },
-              {
-                "t": "p",
-                "x": "Cuyo氏によると、AIシステムやAIモデルそのものは知的財産法(Intellectual Property Code)上のコンピュータープログラムとして保護されるため、指針はその登録も求めている。また、AIを使った作品の登録は自動的には行えないという。"
-              },
-              {
-                "t": "p",
-                "x": "同氏は「個人による十分な芸術的成果があると証明されれば、登録できる、あるいは登録が認められる。AI-assistedのコンテンツや純粋なAI-generatedのコンテンツは保護されず、登録時にその旨を申告しなければならない」と付け加えた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "菲律宾IP局起草\n面向艺术家的AI指南",
-          "body": "IPOPHL正就借助AI创作的作品版权登记指南草案征求公众意见。",
-          "mini_headline": "菲律宾起草AI艺术规则",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://pna.gov.ph/_assets/storage/photo-assets/QcBTy2fJfkOzCUYhLONezB7N9vVmuziA86g2HzxS.webp"
-              },
-              {
-                "t": "p",
-                "x": "MANILA——菲律宾知识产权局(Intellectual Property Office of the Philippines，IPOPHL)正就一份指南草案征求公众意见，该草案旨在为使用人工智能(AI)的创作作品提供版权登记。"
-              },
-              {
-                "t": "p",
-                "x": "IPOPHL版权及相关权利局(Bureau of Copyright and Related Rights)局长Emerson Cuyo表示，他们已就此举行两次公众咨询，并仍在持续收到意见和反馈。他没有具体说明何时发布最终指南。"
-              },
-              {
-                "t": "p",
-                "x": "他解释说，在各类艺术作品中AI使用日益增多之际，这一措施旨在保护菲律宾艺术家。根据指南草案，作品将分为四类，即AI-assisted(AI辅助)、AI-enhanced(AI增强)、混合作品和纯AI-generated(AI生成)作品。"
-              },
-              {
-                "t": "p",
-                "x": "Cuyo表示，由于AI系统或AI模型本身作为计算机程序受《知识产权法》(Intellectual Property Code)保护，指南也要求对其进行登记，而使用AI的作品不能自动完成登记。"
-              },
-              {
-                "t": "p",
-                "x": "他补充说：“一旦证明其中有个人充分的艺术产出，就可以登记或获准登记。AI-assisted或纯AI-generated内容不受保护，登记时必须对此作出申报。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La oficina de IP de Filipinas\nredacta guía de AI para artistas",
-          "body": "La IPOPHL consulta al público sobre un borrador de guía para el registro de derechos de autor de obras hechas con AI.",
-          "mini_headline": "Filipinas prepara reglas de AI para el arte",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://pna.gov.ph/_assets/storage/photo-assets/QcBTy2fJfkOzCUYhLONezB7N9vVmuziA86g2HzxS.webp"
-              },
-              {
-                "t": "p",
-                "x": "MANILA – La Intellectual Property Office of the Philippines (IPOPHL) recoge las opiniones del público sobre un borrador de guía orientado al registro de derechos de autor de obras creativas en las que se usó inteligencia artificial (AI)."
-              },
-              {
-                "t": "p",
-                "x": "Emerson Cuyo, director del Bureau of Copyright and Related Rights de IPOPHL, dijo que han realizado dos consultas públicas sobre el asunto y que siguen recibiendo comentarios y observaciones. No precisó cuándo prevén publicar la guía definitiva."
-              },
-              {
-                "t": "p",
-                "x": "Explicó que la medida busca proteger a los artistas filipinos ante el creciente uso de AI en diversas obras de arte. Según el borrador, habrá cuatro categorías: AI-assisted (asistida por AI), AI-enhanced (mejorada con AI), obra híbrida y obra puramente AI-generated (generada por AI)."
-              },
-              {
-                "t": "p",
-                "x": "Cuyo dijo que la guía también exige registrar el sistema de AI o el modelo de AI en sí, ya que está protegido como programa informático por el Intellectual Property Code, y que el registro de obras hechas con AI no puede realizarse de forma automática."
-              },
-              {
-                "t": "p",
-                "x": "«Puede registrarse o permitirse su registro una vez que se demuestre que contiene una producción artística personal suficiente de un individuo. El contenido AI-assisted o puramente AI-generated no está protegido, y debe declararse al registrarlo», añadió."
+                "x": "Por su parte, funcionarios del gobierno de Delhi calificaron la orden judicial de “histórica”."
               }
             ]
           }

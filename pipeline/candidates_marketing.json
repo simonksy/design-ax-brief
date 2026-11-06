@@ -1,79 +1,88 @@
 {
   "section": "marketing",
-  "now_iso": "2026-11-05T22:03:00Z",
+  "now_iso": "2026-11-06T22:03:00Z",
   "window_hours": 72,
   "items": [
+    {
+      "title": "Amazon’s shopping agent now takes orders by text, with Sponsored Product ads in the replies",
+      "url": "https://digiday.com/media-buying/amazons-shopping-agent-now-takes-orders-by-text-with-sponsored-product-ads-in-the-replies/",
+      "source": "Digiday",
+      "category": "marketing",
+      "published_iso": "2026-11-06T14:00:00+00:00",
+      "excerpt": "Sponsored Products ads are set to appear inside those conversations, free to advertisers for the time being.",
+      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/03/Amazon-ads.jpg"
+    },
     {
       "title": "In graphic detail: Six thousand brands later, ChatGPT ads still have a conversion problem",
       "url": "https://digiday.com/marketing/in-graphic-detail-chatgpt-s-ad-growth-is-outrunning-the-proof-that-it-works/",
       "source": "Digiday",
       "category": "marketing",
       "published_iso": "2026-11-05T05:01:00+00:00",
-      "excerpt": "For OpenAI, turning ChatGPT’s audience into a $100 billion ad business depends on advertiser demand, measurement and monetisation.",
+      "excerpt": "Six thousand brands into ChatGPT ads, Digiday charts how OpenAI's ad growth is outrunning proof of conversion — the measurement and demand gap behind its $100 billion ad ambition.",
       "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/04/openai-cpc-digiday.jpg"
     },
     {
-      "title": "Agencies find AI overuse is leading to brief bloat",
-      "url": "https://digiday.com/marketing/a-little-bit-ridiculous-agencies-find-ai-overuse-is-leading-to-brief-bloat/",
+      "title": "Digiday Media Buying Summit October Recap: Assessing the ups and challenges of AI's spread across the media agency landscape",
+      "url": "https://digiday.com/media-buying/digiday-media-buying-summit-october-recap-assessing-the-ups-and-challenges-of-ais-spread-across-the-media-agency-landscape/",
       "source": "Digiday",
       "category": "marketing",
-      "published_iso": "2026-11-05T05:01:00+00:00",
-      "excerpt": "Agencies and marketers now frequently use AI tools to create media and creative briefs. But the practice could be a canary in the coalmine for AI overuse in advertising.",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2024/09/robot-hand-digiday.gif"
+      "published_iso": "2026-11-06T05:01:00+00:00",
+      "excerpt": "A recap of the sessions and insights coming out of Digiday's Fall Media Buying Summit, which centered on AI's impact",
+      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2024/02/media-cord-digiday.png"
     },
     {
-      "title": "How Fresh Step used AI to go from brief to ads at one-tenth the cost",
-      "url": "https://www.marketingdive.com/news/how-fresh-step-used-ai-to-go-from-brief-to-ads-at-one-tenth-the-cost/",
-      "source": "Marketing Dive",
+      "title": "OpenAI Updates ChatGPT Ads Bidding Options",
+      "url": "https://www.seroundtable.com/openai-updates-chatgpt-ads-bidding-options-42470.html",
+      "source": "Search Engine Roundtable",
       "category": "marketing",
-      "published_iso": "2026-11-05T13:00:00Z",
-      "excerpt": "To address ongoing category pressure, the Clorox cat litter brand worked with agency RECE to get a new campaign in market in about a month.",
-      "og_image": "https://imgproxy.divecdn.com/Bn_WJ0i9YgCFjJKbvjA24MjpYtThNtj9w0COdhfhgtc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mcmVzaC1zdGVwLmpwZw==.webp"
+      "published_iso": "2026-11-05T13:29:00-05:00",
+      "excerpt": "OpenAI emailed ChatGPT Ads advertisers that bidding options change on Monday, November 9, affecting campaigns using Max Bid or Max CPC.",
+      "og_image": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg"
     },
     {
-      "title": "Levi’s claymation holiday campaign celebrates handmade craft amid AI bloat",
-      "url": "https://www.marketingdive.com/news/levis-claymation-holiday-campaign-celebrates-handmade-craft-amid-ai-bloat/873496/",
-      "source": "Marketing Dive",
+      "title": "Google Ads Expands AI Content Label Disclosure To California, South Korea & Vietnam",
+      "url": "https://www.seroundtable.com/google-ads-expands-ai-content-label-disclosure-42461.html",
+      "source": "Search Engine Roundtable",
       "category": "marketing",
-      "published_iso": "2026-11-03T17:00:00Z",
-      "excerpt": "The nostalgic effort follows a back-to-school campaign that CEO Michelle Gass said failed to generate the expected demand and traffic.",
-      "og_image": "https://imgproxy.divecdn.com/DsgPRMNPogyL8kLXZoSWRyUhCHpjtdD2GzRgYILGGnQ/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yNl9IMl9CQi1Ib2wtRDNfT0ZfMTA0WWV0aVN0aWxsc18wMV9YMV8wMDA4X1JHQi5qcGc=.webp"
+      "published_iso": "2026-11-05T07:51:00-05:00",
+      "excerpt": "Google Ads has expanded the regions where you must disclose whether AI was used in your ads. Google added California, South Korea, and Vietnam to the list, which already included the European Union, India, and New York.",
+      "og_image": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png"
     },
     {
-      "title": "Amazon adds over 100 Alexa for Shopping functions",
-      "url": "https://www.retaildive.com/news/amazon-adds-alexa-ai-shopping-functions/873602/",
-      "source": "Retail Dive",
+      "title": "Swivel Wants To Create Agentic Infrastructure For CTV",
+      "url": "https://www.adexchanger.com/ctv-roundup/swivel-wants-to-create-agentic-infrastructure-for-ctv/",
+      "source": "AdExchanger",
       "category": "marketing",
-      "published_iso": "2026-11-05T17:38:00Z",
-      "excerpt": "New capabilities include managing subscriptions, resolving billing questions, and creating and editing lists and registries. ",
-      "og_image": "https://imgproxy.divecdn.com/noVkxr-Gn1kNhjmbtHqY8qr7zOR_5lgQfQ9vs_Barsk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMTEtMDNfMTEzMjU5LnBuZw==.webp"
+      "published_iso": "2026-11-06T05:45:53+00:00",
+      "excerpt": "Agentic media buying is the No. 1 topic du jour in ad tech discussion circles. The startup Swivel aims to make it work in CTV environments.",
+      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/11/tv-remote-stock-square-1-scaled.jpeg"
     },
     {
-      "title": "Walmart ramps up Sparky features in time for the holidays",
-      "url": "https://www.retaildive.com/news/walmart-sparky-features-AI-holidays/873718/",
-      "source": "Retail Dive",
+      "title": "60% of UK adults would drop an AI shopping agent after one mistake, ACI finds",
+      "url": "https://ppc.land/60-of-uk-adults-would-drop-an-ai-shopping-agent-after-one-mistake-aci-finds/",
+      "source": "PPC Land",
       "category": "marketing",
-      "published_iso": "2026-11-05T18:01:00Z",
-      "excerpt": "New visual recognition and cart generation capabilities for the AI assistant aim to ease the pain of holiday shopping, both online and in stores.",
-      "og_image": "https://imgproxy.divecdn.com/iurzjjexXgSCUGlG_wLCPIt4hVQTjna8rP0UNZW-Ds8/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA1MjE3MDcxLmpwZw==.webp"
+      "published_iso": "2026-11-06T17:56:42.000Z",
+      "excerpt": "Only 19% trust AI to make everyday purchases, against 55% for a human adviser, in a YouGov poll of 2,080 UK adults. Who should pay refunds when agents fail?",
+      "og_image": "https://ppc.land/content/images/2026/11/aci-uk-ai-shopping-agent-60-drop-after-one-mistake-tin-retriever-wrong-shoe-dropped-leash.jpg"
     },
     {
-      "title": "Google makes big plans for wallet",
-      "url": "https://www.retaildive.com/news/google-wallet-digital-agentic-retail/873721/",
-      "source": "Retail Dive",
+      "title": "Bot protection blocks Blend's AI shopping agent at 29 of 200 retailers",
+      "url": "https://ppc.land/bot-protection-blocks-blends-ai-shopping-agent-at-29-of-200-retailers/",
+      "source": "PPC Land",
       "category": "marketing",
-      "published_iso": "2026-11-04T21:41:00Z",
-      "excerpt": "The tech giant thinks a digital wallet should act as a repository for receipts, track online orders and arrange refunds, among other tasks.",
-      "og_image": "https://imgproxy.divecdn.com/GJU5H64o11nqk2SfoUIxYEfG0E_zVlotAcPerdpYTzY/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzODYzMTEwLmpwZw==.webp"
+      "published_iso": "2026-11-05T05:20:35.000Z",
+      "excerpt": "Large retailers refused the agent at a 20% rate, emerging ones at 2.5%, yet all 24 refusers with readable robots.txt allow AI crawlers. Who set those blocks?",
+      "og_image": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
     },
     {
-      "title": "Ads In Google AI Answers Concentrate In Apparel & Electronics",
-      "url": "https://www.searchenginejournal.com/google-ai-answer-ads-apparel-electronics-report/595984/",
-      "source": "Search Engine Journal",
+      "title": "ChatGPT reaches a fifth of Google search volume as Taboola blames AI",
+      "url": "https://ppc.land/chatgpt-reaches-a-fifth-of-google-search-volume-as-taboola-blames-ai/",
+      "source": "PPC Land",
       "category": "marketing",
-      "published_iso": "2026-11-05T15:15:08+00:00",
-      "excerpt": "New holiday data counts ads inside Google AI Overviews, AI Mode and ChatGPT across five shopping categories and shows which prompts ChatGPT ads ran on.",
-      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-shopping-ads.jpg"
+      "published_iso": "2026-11-05T05:56:20.000Z",
+      "excerpt": "OpenAI said ChatGPT handles a fifth of Google's search-like volume, Taboola cited AI summaries as revenue fell 6.9% and Anthropic signed its first news licence.",
+      "og_image": "https://ppc.land/content/images/2026/11/landline-2026-11-05-chatgpt-fifth-google-search-taboola-ai-summaries-teller-hatch-newsstand-coin.jpg"
     },
     {
       "title": "Google Brings UCP Direct Checkout To AI Mode In Canada",
@@ -94,40 +103,22 @@
       "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/duane-forrester-decodes-google-search-752.png"
     },
     {
-      "title": "Microsoft Clarity puts Shopify and WooCommerce products in Copilot and Bing",
-      "url": "https://ppc.land/microsoft-clarity-puts-shopify-and-woocommerce-products-in-copilot-and-bing/",
-      "source": "PPC Land",
+      "title": "Amazon adds over 100 Alexa for Shopping functions",
+      "url": "https://www.retaildive.com/news/amazon-adds-alexa-ai-shopping-functions/873602/",
+      "source": "Retail Dive",
       "category": "marketing",
-      "published_iso": "2026-11-05T04:56:14.000Z",
-      "excerpt": "Accepting the terms sends a store catalog to Microsoft Merchant Center; agent tracking sees only Google, OpenAI and Anthropic. Who qualifies, and at what cost?",
-      "og_image": "https://ppc.land/content/images/2026/11/microsoft-clarity-brand-agents-copilot-bing-catalog-mail-slot-skyscraper-billboard.jpg"
+      "published_iso": "2026-11-05T17:38:00+00:00",
+      "excerpt": "Amazon added over 100 Alexa for Shopping functions, including managing subscriptions, resolving billing questions, and creating and editing lists and registries.",
+      "og_image": null
     },
     {
-      "title": "Bot protection blocks Blend's AI shopping agent at 29 of 200 retailers",
-      "url": "https://ppc.land/bot-protection-blocks-blends-ai-shopping-agent-at-29-of-200-retailers/",
-      "source": "PPC Land",
+      "title": "Google makes big plans for wallet",
+      "url": "https://www.retaildive.com/news/google-wallet-digital-agentic-retail/873721/",
+      "source": "Retail Dive",
       "category": "marketing",
-      "published_iso": "2026-11-05T05:20:35.000Z",
-      "excerpt": "Large retailers refused the agent at a 20% rate, emerging ones at 2.5%, yet all 24 refusers with readable robots.txt allow AI crawlers. Who set those blocks?",
-      "og_image": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
-    },
-    {
-      "title": "Meta's API v27 may add catalog products to new ads by default",
-      "url": "https://ppc.land/metas-api-v27-may-add-catalog-products-to-new-ads-by-default/",
-      "source": "PPC Land",
-      "category": "marketing",
-      "published_iso": "2026-11-04T21:13:31.000Z",
-      "excerpt": "From today on v27.0, and on all versions in about 90 days, new device-targeted Sales ad sets widen by default. Which catalog and lookalike API calls now fail?",
-      "og_image": "https://ppc.land/content/images/2026/11/meta-api-v27-product-showcase-default-silent-diner-waiter-cloche.jpg"
-    },
-    {
-      "title": "Criteo Is A Survivor, But Expanding Beyond Retail Media Will Be Its Toughest Challenge Yet",
-      "url": "https://www.adexchanger.com/commerce/criteo-is-a-survivor-but-expanding-beyond-retail-media-will-be-its-toughest-challenge-yet/",
-      "source": "AdExchanger",
-      "category": "marketing",
-      "published_iso": "2026-11-04T20:30:10+00:00",
-      "excerpt": "Criteo has weathered considerable storms in its day, including a painful moment in March 2020 when its market cap bottomed out below $500 million. But for a month now, Criteo’s market cap has hovered between $700 million and $750 million. So, can it pull off yet another turnaround? The numbers from the company’s earnings report […]",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2025/01/lastofthehighflyers_crop_detail.jpg"
+      "published_iso": "2026-11-04T21:41:00+00:00",
+      "excerpt": "The tech giant thinks a digital wallet should act as a repository for receipts, track online orders and arrange refunds, among other tasks.",
+      "og_image": "https://imgproxy.divecdn.com/GJU5H64o11nqk2SfoUIxYEfG0E_zVlotAcPerdpYTzY/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzODYzMTEwLmpwZw==.webp"
     },
     {
       "title": "AI Is Both Canva’s Biggest Bet and Its Biggest Threat",
@@ -157,40 +148,13 @@
       "og_image": "https://image.zdnet.co.kr/2026/11/05/845ec97bf665d3eb6b6cb71f8d508dad.jpg"
     },
     {
-      "title": "어도비, 스타트업에 AI 제작·마케팅 도구 1년 무료 제공",
-      "url": "https://zdnet.co.kr/view/?no=20261104160433",
-      "source": "ZDNet Korea",
-      "category": "marketing",
-      "published_iso": "2026-11-04T16:04:33+09:00",
-      "excerpt": "어도비가 초기 스타트업을 대상으로 인공지능(AI) 콘텐츠 제작과 문서 관리, 마케팅 도구를 1년간 무료로 제공한다. 적은 인력과 예산으로 사업을 시작하는 기업이 브랜드를 구축하고 고객을 확보하도록 지원한다는 취지다.어도비는 설립 5년 이내이면서 누적 투자 유치액이 1500만 달러(약 210...",
-      "og_image": "https://image.zdnet.co.kr/2026/05/02/1b38f56ce0687872465686ebd22212a1.jpg"
-    },
-    {
       "title": "에이전틱 커머스 확산...유통·결제사, 브랜드 노출 전략 바꾼다",
       "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712962",
       "source": "디지털투데이",
       "category": "marketing",
       "published_iso": "2026-11-05T14:44:38+09:00",
-      "excerpt": "[디지털투데이 최재원 기자] AI가 상품 검색과 비교, 추천을 대신하는 ",
+      "excerpt": "[디지털투데이 최재원 기자] AI가 상품 검색과 비교, 추천을 대신하는 '에이전틱 커머스'(Agentic Commerce)가 확산하면서 유통·결제업계의 고객 확보 전략이 바뀌고 있다. 기업들은 소비자가 자사 홈페이지를 방문하지 않더라도 AI 추천에 상품을 노출하고 기존 결제 수단을 연결할 방안을 모색하고 있다.최근 아메리칸 뱅커에 따르면 아메리칸 익스프레스(아멕스), 구글, 월마트 관계자들은 지난달 미국 라스베이거스에서 열린 '머니20/20' 행사에서 AI 쇼핑 시대의 고객 관계와 결제 신뢰 문제를 논의했다.에이전틱 커머스는 AI가",
       "og_image": "https://cdn.digitaltoday.co.kr/news/photo/202611/712962_660396_3333.jpg"
-    },
-    {
-      "title": "AI 에이전트 '피클' 써보니…쇼핑·예매까지 수행·속도는 아쉬워",
-      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712647",
-      "source": "디지털투데이",
-      "category": "marketing",
-      "published_iso": "2026-11-06T06:30:13+09:00",
-      "excerpt": "[디지털투데이 손슬기 기자] \"아버님과 어머님께 전화가 닿지 않아 연락드렸어요. 11월 20일 금요일 밤에 울산 댁으로 가신다고 하시네요.\"4일 오후 기자의 동생에게 걸려온 전화 한통. 수화기 너머 목소리는 사람이 아닌 AI 비서. 기자가 부산 출장 후 본가에 방문한다는 소식을 가족에게 전해달라고 지시하자 AI 에이전트 ",
-      "og_image": "https://cdn.digitaltoday.co.kr/news/photo/202611/712647_660091_1112.jpg"
-    },
-    {
-      "title": "Amazon’s new Shop Direct Merchant Workspace makes it even easier for stores across the web to have their products discovered by customers on Alexa for Shopping and Amazon",
-      "url": "https://www.aboutamazon.com/news/retail/amazon-shop-direct-merchant-workspace",
-      "source": "Amazon",
-      "category": "marketing",
-      "published_iso": "2026-11-04T14:00:07.101Z",
-      "excerpt": "Tens of millions of customers have already discovered hundreds of millions of products from stores across the web through Amazon’s Shop Direct. With the new Shop Direct Merchant Workspace, merchants have a fast, free direct AI connector from their store to Alexa for Shopping and Amazon.",
-      "og_image": "https://assets.aboutamazon.com/dims4/default/c47ddde/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2Fc9%2Fda%2F7937f0e14095a1c2a326efa68bd8%2Fshop-direct-hero-amazon-news-lt-11032026.jpg"
     }
   ]
 }

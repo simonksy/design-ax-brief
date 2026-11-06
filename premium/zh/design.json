@@ -10693,6 +10693,142 @@
           "x": "Images 2.6正向网页版、桌面版和移动应用上的所有ChatGPT和Codex用户推出。OpenAI还在其API中推出GPT-Image-2.6 Flare和Sunburst，以实现更快、更高质量的图像生成。"
         }
       ]
+    },
+    "design/chaos-vray-ai-guidance": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/Lead_Thumb_Image_Skyscraper_Clouds_02.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Chaos为V-Ray Collection发布了一次以AI为核心（AI-focused）的重大更新。V-Ray Collection是一套围绕照片级渲染软件V-Ray打造的3D可视化工具。新工具让用户可以生成3D资产，而Model Context Protocol（MCP）服务器则让用户把Claude、ChatGPT等外部AI助手直接接入工作流程。V-Ray还新增了集成AI助手，可提供引导式分析和设置建议。"
+        },
+        {
+          "t": "p",
+          "x": "借助MCP服务器，用户可以用自然语言提示检查场景、调整灯光和材质等受支持的设置、查找并放置资产，以及自动化重复性任务。V-Ray AI助手提供基于上下文的指导，还有将场景光照与参考图像匹配的Sky Match，以及为渲染提供可操作反馈的Render Critique。"
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/Image-Based-Search.jpg",
+          "cap": "Cosmos中的图像搜索"
+        },
+        {
+          "t": "p",
+          "x": "在Chaos Cosmos中，用户现在可以根据单张参考图像创建定制3D模型，图像搜索会扫描超过30,000个资产，找出最接近的匹配项。Chaos Anima新增了面向人物和人群的AI Pathfinding。"
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/Veras-Support-for-VEO-3.1-v01.jpg",
+          "cap": "Veras现已支持用Veo-3.1生成视频"
+        },
+        {
+          "t": "p",
+          "x": "Veras新增了用于自动化、可重复生成工作流程的节点式UI，包括Veo 3.1在内的更多模型，以及可将参考图像转为3D模型的Agent模式。"
+        }
+      ]
+    },
+    "design/qonic-ai-bim-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Qonic 推出了 Qonic AI，这是一组内置于其云端协作 BIM 建模平台的智能体。Qonic AI 直接在 BIM 模型内部工作，而不是游离于模型之外。用户通过“Ask Qonic”聊天机器人用自然语言描述需求，Qonic 的智能体便会使用平台自身的工具查找、检查并更新构件。"
+        },
+        {
+          "t": "p",
+          "x": "“凡是在 Qonic 中能做的几何与数据创建、编辑和操作，都可以通过提示词完成，”Qonic 的 Jacob De Sutter 说。Qonic AI 只能修改用户有权编辑的模型，其更改也可以像任何手动操作一样撤销。"
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_2.jpg",
+          "cap": "Qonic AI 可以找出缺失的 BIM 数据并将其分配给模型构件"
+        },
+        {
+          "t": "p",
+          "x": "用户可以询问是否所有窗户都有防火等级，让它选中缺少等级的窗户并赋予 F60，生成混凝土质量报告，或将选中的窗户加宽 0.5 米。用户可选择 Sonnet、Opus 或 Astra 来处理请求；Qonic AI 按 token 计量运行。"
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/QonicAI_3.jpg",
+          "cap": "Qonic AI 可以编辑几何形体"
+        },
+        {
+          "t": "p",
+          "x": "全新的 Qonic MCP 服务器让用户可以通过自己的 AI 助手（如 Claude、Codex 或 Mistral Le Chat）使用该平台。"
+        }
+      ]
+    },
+    "design/meta-muse-spaces-genui": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=9.1755530835981%2C0%2C89.724178139157%2C74.471659887186&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Meta 现在允许用户在 Muse 中构建定制化、类似应用的体验。这项名为“spaces”的新功能可让其 AI 助手构建购物中心、学校仪表盘、音乐追踪器、知识问答游戏等内容，用户可以直接在 Muse 应用中与之互动。"
+        },
+        {
+          "t": "p",
+          "x": "Meta 表示，只需描述即可创建新的空间。如果将外部应用连接到 Muse——例如 Gmail、Google Calendar、OpenTable、Notion 以及其他 Muse 支持的应用——AI 助手会持续从中获取信息，在后台更新空间中的价格、日期等信息。用户还可以通过勾选事项、添加备注和编辑等方式，与空间内的元素互动。"
+        },
+        {
+          "t": "p",
+          "x": "用户也可以调整空间在 Muse 应用中的位置：Meta 允许把它们放在侧边栏、移到主标签页，或设定显示时间。“例如，工作日把每周计划放在最前面，周六再换成周末计划，”Meta 表示。"
+        },
+        {
+          "t": "p",
+          "x": "Meta 还宣布，将把 Muse Wonder AI 模型中新的“Active Memory”和“Active Focus”能力引入 Muse 应用及其 Meta AI 聊天机器人。这将让 Muse 能够理解过去的信息何时在对话中变得相关，并更好地朝目标推进工作。"
+        },
+        {
+          "t": "p",
+          "x": "Meta 正在向所有 Muse 用户推出空间功能。该公司也在研究如何让用户与他人共享空间并协作。"
+        }
+      ]
+    },
+    "design/theo-opus-ui-hillclimb": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "xq0eB8vxeqk"
+        },
+        {
+          "t": "p",
+          "x": "是时候让智能体擅长设计了，下面拆解我是如何让 Opus 不断爬坡优化，直到它终于做出我想要的东西。"
+        },
+        {
+          "t": "p",
+          "x": "Theo 想在没有设计师、也不借助额外技能的情况下为 T3 Code 打磨一遍 UI，于是把它变成了一次爬坡优化：在五个模型上花了约 18 小时、经过 30 多轮评审后，他说自己找到了一套能让智能体为真实产品做出好 UI 的方法。"
+        },
+        {
+          "t": "p",
+          "x": "他输入 /goal，让智能体不断迭代一个 UI 打磨 PR，直到由 Opus 5.5、Muse Wonderful 和 Codex GPT 6.1 组成的评审模型“委员会”给应用截图打出至少九分（满分 10 分）。第一轮失败；第二轮 Opus 从六分升到八分；到第三轮，每位评审都给出了九分。"
+        },
+        {
+          "t": "p",
+          "x": "改动很细微：新的后备字体、更清晰的线程标题、易读的分支名称、卡片圆角，以及更柔和的行内代码。新设计是 T3 Code 测试版标签页中的一项设置。"
+        }
+      ]
+    },
+    "design/figma-agent-vector-styles": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Vfh8hAEs7yk"
+        },
+        {
+          "t": "p",
+          "x": "用Figma智能体编辑和生成矢量图"
+        },
+        {
+          "t": "p",
+          "x": "Figma智能体现在可以：借助风格参考生成矢量插画和图标；用描边绘制线条，便于调整粗细或端点样式；将生成的矢量图按语义分组到图层中，方便迭代。"
+        }
+      ]
     }
   }
 }

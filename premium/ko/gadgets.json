@@ -16204,6 +16204,144 @@
           "x": "Nothing의 AI 기기가 화면 없는 첫 AI 가젯은 아니다. Humane AI pin, Friend, AI 봉제 인형까지 이미 나왔다. OpenAI도 Jony Ive와 함께 AI 스마트 스피커를 개발 중인 것으로 알려졌다. Pei는 이전 AI 기기들을 두고 “업계 전체가 자신의 iPhone 같은 순간을 찾고 있다. 펜던트, 핀, 안경, 컴패니언처럼 AI를 모두의 삶의 일부로 만들 마법 같은 소비자 기기 말이다”라고 했다. 그러고는 “지금 AI의 iPhone을 찾는 것은 막다른 길이다”라고 덧붙였다."
         }
       ]
+    },
+    "gadgets/tau-humanoid-home-cleaning": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.mp4"
+        },
+        {
+          "t": "p",
+          "x": "스타트업 Tau Robotics가 샌프란시스코 가정에 휴머노이드 로봇을 보내 청소를 시킨다. 아직은 사람이 많이 이끌어 줘야 하지만 로봇은 배우는 중이다."
+        },
+        {
+          "t": "p",
+          "x": "지금은 사람이 로봇 머리와 손목에 달린 카메라 화면을 보며 원격으로 조종한다. 로봇은 청소하는 동안 데이터를 모으고, Tau는 이 데이터로 더 독립적인 후속 로봇을 훈련할 계획이다. 침대 정리나 빨래 개기 같은 일에는 운동학적 안내를 쓴다. 사람 조종사가 동작을 하면 로봇이 그대로 따라 한다. 공동창업자 Cornelia Weinzierl은 로봇이 청소기 돌리기와 걸레질은 이미 사람 도움 없이 해낸다고 말한다."
+        },
+        {
+          "t": "p",
+          "x": "Tau는 전에는 한 시간 청소에 $30를 받았다. 지금은 로봇 두 대가 오는 주간 청소가 $60, 단발 방문이 $100다. 첫 방문 때 로봇은 계단에서 애를 먹었고, 원격 조종자의 장비가 과열되면서 일찍 철수했다. 두 번째 방문은 화장실 청소까지 훨씬 순조롭게 끝났다."
+        },
+        {
+          "t": "p",
+          "x": "Tau가 지금까지 마친 청소는 수백 건뿐이다. Weinzierl은 \"청소는 많은 사람이 정말 적극적으로 하고 싶어 하는 일이 아니다\"라고 말했다."
+        }
+      ]
+    },
+    "gadgets/syncere-lume-robot-lamp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero-1280x720.jpg",
+          "cap": "침대 옆에서 빨래를 들고 있는 Syncere Lume 로봇 램프"
+        },
+        {
+          "t": "p",
+          "x": "Lume은 안에 로봇이 접혀 있는 플로어 램프다. 일을 시키면 관절형 팔을 펴고 침대나 빨래 더미 쪽으로 굴러가 옷 개기, 침대 정리, 베개 정돈, 정리정돈 같은 부드러운 집안일을 한다. Syncere는 로봇공학자 Aaron Tan과 Angus Fung이 세운 Palo Alto 스타트업이다. Lume 가격은 $2,699부터다."
+        },
+        {
+          "t": "video",
+          "yt": "ahBF2XkA9No"
+        },
+        {
+          "t": "p",
+          "x": "Syncere는 로봇 조작, 온보드 인식, 로컬 AI 연산을 축으로 제품을 만든다. 보고 판단하는 일은 기기 안에서 이뤄진다. Lume마다 Personalization Band가 딸려 온다. 옷 개는 법과 원하는 침대 정리 방식을 직접 보여 주면 로봇이 취향을 익힌다."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-folded.jpg",
+          "cap": "접으면 Lume은 평범한 플로어 램프다. 이미지: Syncere"
+        },
+        {
+          "t": "p",
+          "x": "램프 두 개짜리 Duet은 $5,199다. LumeCare는 $489다. 새 기능과 앞으로 나올 작업을 평생 쓰는 Autonomy는 $679이며 램프당 월 $79로 낼 수도 있다. 주문은 초대제로 받고 첫 배송은 2027년 첫째와 둘째 분기다. Syncere는 a16z Speedrun이 이끈 $11M 규모 프리시드 투자를 마쳤다."
+        }
+      ]
+    },
+    "gadgets/moto-buds-ultra27-translate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Motorola"
+        },
+        {
+          "t": "p",
+          "x": "Motorola가 Motorola Signature 27과 함께 역대 가장 기능이 많은 이어버드 Moto Buds Ultra 27을 내놨다. Bose-tuned 음향과 적응형 노이즈 캔슬링에 실시간 번역 등 여러 AI-powered 기능을 담았다."
+        },
+        {
+          "t": "p",
+          "x": "11mm 다이내믹 드라이버와 전용 밸런스드 아마추어에 Bose SoundDesign 튜닝과 Bose QuietControl ANC를 더했고 Hi-Res Audio, Dolby Atmos, Dolby Head Tracking도 지원한다. 배터리는 최대 여덟 시간, 케이스를 합치면 37시간 간다. IP57 등급도 받았다."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27-lifestyle.jpg?resize=1920%2C1152&ssl=1",
+          "cap": "Motorola"
+        },
+        {
+          "t": "p",
+          "x": "AI Live Translate를 켜면 번역된 대화를 이어버드로 바로 듣는다. 다만 호환되는 Motorola 휴대폰이 있어야 하고 지원 언어는 다를 수 있다. 왼쪽 이어버드를 길게 누르면 Motorola Qira가 뜨며 핸즈프리 \"Hey Qira\"는 몇 달 안에 추가된다. Head Gestures를 쓰면 고개를 끄덕이거나 저어서 전화를 받거나 거절한다."
+        },
+        {
+          "t": "p",
+          "x": "Moto Buds Ultra 27은 앞으로 몇 달 안에 미국에 나온다. US 가격과 출시일은 Motorola가 아직 밝히지 않았다."
+        }
+      ]
+    },
+    "gadgets/homeview-thirdparty-chatbots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&w=1600",
+          "cap": "이미지: 9to5Mac/Anthropic/Pawel Czerwinski"
+        },
+        {
+          "t": "p",
+          "x": "iOS 27.3 베타에서 나온 코드를 보면 HomeView가 ChatGPT와 Claude 같은 서드파티 AI 챗봇을 지원할 예정이다."
+        },
+        {
+          "t": "p",
+          "x": "리커 pdfu는 이달 초 ConversationalApps용 미사용 플래그를 찾아낸 뒤 ChatGPT, Claude 등 AI 앱이 HomeView에 들어올 \"수도 있다\"고 했다. 이번에는 iOS 26.3 베타가 그 추측을 확인해 준다고 말한다."
+        },
+        {
+          "t": "p",
+          "x": "\"드디어 현실이 됩니다. AI 앱이 HomeView에 들어옵니다. HomeView의 CarPlay 브리지인 PebblePlay가 iOS 27.3에서 Conversational Apps 카테고리를 얻습니다. 이번 업데이트는 양방향 오디오 라우팅, 세션 관리, 인터럽션 처리 기반도 추가합니다. 아직 완전히 연결되지는 않았습니다.\""
+        },
+        {
+          "t": "p",
+          "x": "CarPlay처럼 Apple도 이 플래그로 기기에서 돌릴 수 있는 서드파티 앱 범주를 정한다. 같은 리커는 HomeView가 HomeKit 보안 카메라 역할을 할 수 있다는 증거도 최근 찾아냈다."
+        }
+      ]
+    },
+    "gadgets/aina-agent-ring": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Apoorv Shankar는 머지않아 사람들이 승인과 거절을 반복하며 기술을 다루게 되리라고 본다. AI 에이전트가 먼저 다가와 일을 처리해 주는 식이다. 그는 그때마다 휴대폰을 꺼내 예, 아니오를 누르는 일이 “병목”이 된다고 말한다. 그렇게 나온 것이 Aina Ring이다. 작은 디스플레이와 조이스틱 같은 버튼으로 AI 에이전트의 작업을 빠르게 수락하거나 거절한다. 지금 사전 주문을 받는 중이며 한정 기간 가격은 $399다. 2027년 1월 배송이 시작되면 소매가는 $499로 오른다."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6aea53d84d3eef846d2fcf0b/master/w_1600%2Cc_limit/Aina%2520Ring%2520Hands.jpg",
+          "cap": "손에 낀 Aina 링"
+        },
+        {
+          "t": "p",
+          "x": "티타늄으로 만든 Aina Ring은 Macs나 iPhones와 연결된다. 위치·캘린더·이메일 같은 개인 데이터와, Aina 앱에 연결한 Uber·Spotify 등 서드파티 서비스를 보고 사용자의 일과를 익힌다. 평소 8:30 am에 Uber로 출근한다면 차량 호출을 제안하고, 링에서 ‘예’로 튕기면 바로 처리한다. Shankar는 이를 “Aina Cues”라 부르는데, 링의 Context Aware Operating System이 이 기능을 돌린다. 자연어로 나만의 Cues를 만들 수도 있고 Muse나 Instinct처럼 즐겨 쓰는 AI 에이전트를 연결해도 된다."
+        },
+        {
+          "t": "p",
+          "x": "Aina Voice로는 가운데 버튼을 눌러 AI 에이전트와 대화한다. Shankar는 “승인이 인터페이스와 상호작용의 미래가 될 것”이라고 말한다."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6aea54376c2140d939cde56c/master/w_1600%2Cc_limit/Aina%2520Speaker%2520and%2520Shifter.png"
+        }
+      ]
     }
   }
 }

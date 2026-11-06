@@ -9237,6 +9237,167 @@
           "cap": "FieldAI的智能与一台Boston Dynamics机器人的演示 (图片来源：Disney)"
         }
       ]
+    },
+    "movies/fujitv-drama-genai-2027": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img4.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106154600009_02_i_P4.jpg",
+          "cap": "日本富士电视台利用生成式Ai制作的电视剧《救命病栋24小时》[富士电视台官网截图]"
+        },
+        {
+          "t": "p",
+          "x": "日本主要地面民营电视台之一的富士电视台决定在电视剧制作中全面引入人工智能(AI)。"
+        },
+        {
+          "t": "p",
+          "x": "《日本经济新闻》(日经)6日报道，富士媒体控股旗下的富士电视台计划从明年10月起，在所有真人电视剧制作中使用生成式AI。"
+        },
+        {
+          "t": "p",
+          "x": "富士电视台将在电视剧制作中使用Google的视频生成工具“Nano Banana”等。富士电视台于9月新设相关团队，并向一家AI视频制作公司学习了技术。"
+        },
+        {
+          "t": "p",
+          "x": "该公司已在正在播出的电视剧《救命病栋24小时》制作中使用AI，手术场景中血液喷涌的画面就是用AI制作的。"
+        },
+        {
+          "t": "p",
+          "x": "过去描绘类似场景时，要么实拍液体喷出，要么使用视觉特效(VFX)；借助AI，所需时间比VFX作业缩短了70~80%。"
+        },
+        {
+          "t": "p",
+          "x": "富士电视台期待借助AI降低制作成本。实际上，《救命病栋24小时》中爆炸事故现场的航拍画面并未动用直升机，而是由AI生成。"
+        },
+        {
+          "t": "p",
+          "x": "据日经报道，受移动时代观众流失影响，日本地面电视台广告收入不断下滑。制作经费随之缩减，上一财年(2025年4月~2026年3月)5家民营电视台的节目制作费比9年前减少了12%。"
+        },
+        {
+          "t": "p",
+          "x": "富士电视台是日本首家在所有电视剧制作中使用AI的电视台，预计AI应用将扩展到其他电视台。TBS的《VIVANT》和日本电视台的《东京巫女忍者》已在制作中使用了AI。"
+        },
+        {
+          "t": "p",
+          "x": "此前，在线视频服务(OTT)Netflix曾于7月表示，AI已被用于300多部作品，主要用于剪辑和加工。"
+        },
+        {
+          "t": "p",
+          "x": "Netflix还公布了禁止输入个人数据、禁止擅自使用演员肖像和声音等内容的指导方针；富士电视台同样规定，使用AI时不得让其学习演员的面孔。"
+        },
+        {
+          "t": "img",
+          "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106154600009_01_i_P4.jpg",
+          "cap": "位于日本东京台场的富士电视台总部大楼[共同社资料照片]"
+        }
+      ]
+    },
+    "movies/toei-genai-production-rules": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2017/12/kamen-rider-2.jpg?w=839&h=472&crop=1",
+          "cap": "Kamen Rider 2017"
+        },
+        {
+          "t": "p",
+          "x": "推出“Kamen Rider”以及后来衍生出“Power Rangers”的Super Sentai系列的日本大型片厂Toei，已制定生成式AI规则，并开始在电影和影像制作中使用AI。社长兼CEO Yoshimura Fumio在台北举行的Taiwan Creative Content Fest(TCCF)上透露了这一消息。"
+        },
+        {
+          "t": "p",
+          "x": "一支专门团队正在测试AI在实际内容制作中能用到什么程度，Toei还在开发一套帮助经验较少的制片人估算预算的AI系统。“我们已经在做用AI制作背景之类的工作，”Yoshimura说。"
+        },
+        {
+          "t": "p",
+          "x": "后台部门也用AI处理日常事务、数据处理和内部咨询。Yoshimura提到完全用生成式AI制作、入选Tribeca Festival的真人长片“Dreams of Violets”，并表示：“我认为AI不是抢走工作的东西，而是拓展表达与商业可能性的工具。”"
+        },
+        {
+          "t": "p",
+          "x": "Toei Games将于2027年初推出“Hino”，“Killa”和“Debug Nephemee”将从2027年春季起陆续推出；根据Toei New Wave 2033计划，公司目标是将海外销售占比从30%提高到50%。"
+        }
+      ]
+    },
+    "movies/chomet-dior-short-ai-claims": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Cartoon Brew发表了一篇关于四度获Oscar提名的导演Sylvain Chomet执导的Dior新广告的文章后，该公司明确宣称短片为手绘的说法很快遭到质疑，社交媒体上的用户纷纷贴出似乎显示使用了生成式AI的图片。"
+        },
+        {
+          "t": "p",
+          "x": "“这些说法看来确有几分道理，影片部分最终画面和动画很可能是用AI制作的。我们无法将其作为事实报道，也不想基于猜测下定论，但证据很有说服力。”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior-1.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Chomet和Dior的PR团队均未回应置评请求。原有宣传材料和幕后花絮视频都没有提到AI；如果使用了AI却未披露，“这场营销活动似乎是有意设计来欺骗的。”"
+        },
+        {
+          "t": "p",
+          "x": "主编Jamie Lang致歉称，原文标题将短片描述为手绘，该描述现已删除。“我很抱歉，今后会更加谨慎。”"
+        }
+      ]
+    },
+    "movies/taicca-ai-adoption-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/Taiwan-insights.jpg?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "在台北举行的Taiwan Creative Content Fest（TCCF）上，Taiwan Creative Content Agency（TAICCA）发布了观众研究，并对视听制作中的AI进行了评估。"
+        },
+        {
+          "t": "p",
+          "x": "TAICCA研究分析师Chhoa Hiok-chong考察了视听制作中的AI应用，指出其潜在的成本节约，同时也提到法律不确定性和技术局限。演示中引用的是更广泛的行业估算，而非台湾本地数据：后期制作与视觉特效领域的AI采用率为70%至85%，前期制作为60%至75%，现场拍摄制作为15%至25%。"
+        },
+        {
+          "t": "p",
+          "x": "技术障碍依然存在，包括镜头之间的视觉一致性、摄影机控制、叙事连贯性，以及与既有制作流程的整合。演示援引Database of AI Litigation的数据指出，截至2026年8月共有489起AI相关（AI-related）法律案件，其中153起涉及文化创意产业。"
+        },
+        {
+          "t": "p",
+          "x": "Luminate于2025年11月进行的调查显示，51%的U.S.（美国）受访者拒绝完全合成的虚拟表演者；在韩国，81.6%的受访者支持事先披露AI生成内容（AI-generated content）。观众研究发现，96%的受访者在2025年观看过视听内容。"
+        }
+      ]
+    },
+    "movies/instagram-edits-desktop-muse": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-timeline-1.jpg?quality=90&strip=all&w=2400",
+          "cap": "Instagram桌面版Edits应用的宣传截图"
+        },
+        {
+          "t": "p",
+          "x": "Instagram旗下独立视频剪辑应用Edits现已登陆macOS，用户可以接入自己选择的AI智能体来组装视频。Edits产品管理负责人Matthew Simari对The Verge表示：“我们随Edits Desktop一同发布的内容之一，是覆盖Edits Desktop内所有工具的MCP。你可以使用任何想用的智能体，可以用Muse——我们很希望你用——但实际上任何你自己选择的智能体都可以，用来剪辑、微调、处理你的视频。”"
+        },
+        {
+          "t": "p",
+          "x": "Simari说，用户可以“在智能体剪辑与手动剪辑之间来回切换”。例如，创作者可以让Meta的Muse智能体使用Edits MCP，为下载文件夹中的视频制作粗剪，然后在Edits中打开该项目文件继续剪辑。Instagram已于9月为移动版Edits加入了AI“创意助手”。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-color-grading-1.jpg?quality=90&strip=all&w=2400",
+          "cap": "桌面应用拥有更高级的调色工具。"
+        },
+        {
+          "t": "p",
+          "x": "桌面版还提供完整的多轨（multi-track）时间线、精确的音频波形、调色工具和键盘快捷键，并支持无水印4K 导出和多种画面比例。目前为macOS-only（仅限 macOS），项目暂时无法在移动端与桌面端之间跨端编辑；Meta计划每周更新该应用。"
+        }
+      ]
     }
   }
 }

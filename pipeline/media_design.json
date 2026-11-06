@@ -1,33 +1,7 @@
-{
-  "date": "2026-11-06",
-  "section": "design",
-  "media": [
-    {
-      "id": "figma-agent-vector-styles",
-      "type": "video",
-      "src": "pipeline/media/figma-agent-vector-styles.mp4",
-      "poster": "pipeline/media/figma-agent-vector-styles.jpg"
-    },
-    {
-      "id": "gemini-canvas-sketch-to-app",
-      "type": "video",
-      "src": "pipeline/media/gemini-canvas-sketch-to-app.mp4",
-      "poster": "pipeline/media/gemini-canvas-sketch-to-app.jpg"
-    },
-    {
-      "id": "autodesk-au2026-assistant",
-      "type": "image",
-      "src": "pipeline/media/autodesk-au2026-assistant.jpg"
-    },
-    {
-      "id": "smashing-llm-chat-a11y",
-      "type": "image",
-      "src": "pipeline/media/smashing-llm-chat-a11y.jpg"
-    },
-    {
-      "id": "uxc-design-systems-mcp-study",
-      "type": "image",
-      "src": "pipeline/media/uxc-design-systems-mcp-study.jpg"
-    }
-  ]
-}
+{"date":"2026-11-07","section":"design","media":[
+{"id":"cursor-live-apps-hosting","type":"video","src":"pipeline/media/cursor-live-apps-hosting.mp4","poster":"pipeline/media/cursor-live-apps-hosting.jpg"},
+{"id":"chaos-vray-ai-guidance","type":"image","src":"pipeline/media/chaos-vray-ai-guidance.jpg"},
+{"id":"qonic-ai-bim-agents","type":"image","src":"pipeline/media/qonic-ai-bim-agents.jpg"},
+{"id":"meta-muse-spaces-genui","type":"image","src":"pipeline/media/meta-muse-spaces-genui.png"},
+{"id":"theo-opus-ui-hillclimb","type":"video","src":"pipeline/media/theo-opus-ui-hillclimb.mp4","poster":"pipeline/media/theo-opus-ui-hillclimb.jpg"}
+]}

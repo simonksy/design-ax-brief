@@ -9645,6 +9645,167 @@
           "cap": "FieldAIの知能とBoston Dynamicsのロボットのデモ (写真: Disney)"
         }
       ]
+    },
+    "movies/fujitv-drama-genai-2027": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img4.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106154600009_02_i_P4.jpg",
+          "cap": "フジテレビが生成Aiを活用して制作したドラマ『救命病棟24時』[フジテレビのホームページより]"
+        },
+        {
+          "t": "p",
+          "x": "日本の主要な民放地上波局の一つであるフジテレビが、ドラマ制作に人工知能(AI)を全面導入することを決めた。"
+        },
+        {
+          "t": "p",
+          "x": "日本経済新聞(日経)は6日、フジ・メディア・ホールディングス傘下のフジテレビが来年10月から、すべての実写ドラマ制作に生成AIを活用する計画だと報じた。"
+        },
+        {
+          "t": "p",
+          "x": "Googleの動画生成ツール「Nano Banana」などをドラマ制作に使う。フジテレビは9月に専門チームを新設し、AI動画制作会社から技術を学んだ。"
+        },
+        {
+          "t": "p",
+          "x": "同社は放送中のドラマ『救命病棟24時』の制作ですでにAIを活用している。手術シーンで血液が噴き出す様子をAIで作った。"
+        },
+        {
+          "t": "p",
+          "x": "従来は同様の場面を描く際、液体が噴き出す様子を実際に撮影するか、視覚効果(VFX)を使っていたが、AIの活用でVFX作業に比べて時間を70~80%短縮できた。"
+        },
+        {
+          "t": "p",
+          "x": "フジテレビはAIの活用で制作費を削減できると期待している。実際に『救命病棟24時』では、爆発事故現場の空撮をヘリコプターを使わずにAIで生成した。"
+        },
+        {
+          "t": "p",
+          "x": "日経によると、日本の地上波局はモバイル時代の視聴者離れで広告収入の減少に直面している。これに伴い制作費も縮小し、昨年度(2025年4月~2026年3月)の民放5社の番組制作費は9年前より12%も減った。"
+        },
+        {
+          "t": "p",
+          "x": "すべてのドラマ制作にAIを活用するのは日本の放送局でフジテレビが初めてで、他局にもAI活用が広がるとみられる。すでにTBSの『VIVANT』、日本テレビの『東京ミコニンジャ』が制作にAIを使っている。"
+        },
+        {
+          "t": "p",
+          "x": "これに先立ち、動画配信サービス(OTT)のNetflixは7月、300以上の作品でAIを主に編集・加工に使ったと明らかにしていた。"
+        },
+        {
+          "t": "p",
+          "x": "Netflixは個人データの入力禁止や俳優の肖像・声の無断使用禁止などを盛り込んだガイドラインも公表しており、フジテレビもAI活用時に俳優の顔を学習させない方針を取っている。"
+        },
+        {
+          "t": "img",
+          "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106154600009_01_i_P4.jpg",
+          "cap": "東京・お台場にあるフジテレビ本社ビル[共同通信資料写真]"
+        }
+      ]
+    },
+    "movies/toei-genai-production-rules": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2017/12/kamen-rider-2.jpg?w=839&h=472&crop=1",
+          "cap": "Kamen Rider 2017"
+        },
+        {
+          "t": "p",
+          "x": "「Kamen Rider」や、「Power Rangers」の原型となったSuper Sentaiシリーズで知られる日本の大手スタジオToeiが、生成AIのルールを策定し、映画・映像制作でAIの活用を始めた。社長兼CEOのYoshimura Fumioが台北で開かれたTaiwan Creative Content Fest(TCCF)で明らかにした。"
+        },
+        {
+          "t": "p",
+          "x": "専任チームが実際のコンテンツ制作でAIをどこまで使えるかを検証しており、Toeiは経験の浅いプロデューサーの予算見積もりを支援するAIシステムも構築している。「AIで背景を作るといったことにはすでに取り組んでいる」とYoshimuraは述べた。"
+        },
+        {
+          "t": "p",
+          "x": "バックオフィス部門も定型業務やデータ処理、社内の問い合わせにAIを使っている。Yoshimuraは、全編を生成AIで制作し、Tribeca Festivalに選出された実写長編「Dreams of Violets」に触れ、「AIは仕事を奪うものではなく、表現とビジネスの可能性を広げる道具だと考えている」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "Toei Gamesは2027年初めに「Hino」を発売し、2027年春から「Killa」と「Debug Nephemee」が続く。同社はToei New Wave 2033計画のもと、海外売上比率を30%から50%に引き上げることを目指す。"
+        }
+      ]
+    },
+    "movies/chomet-dior-short-ai-claims": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Cartoon Brewが、Oscarに四度ノミネートされた映画監督Sylvain Chometが手がけるDiorの新しい広告キャンペーンについて記事を掲載すると、短編は手描きだという同社の明確な主張にすぐさま疑問の声が上がった。SNS上では、生成AIが使われたことを示すとみられる画像が次々と投稿された。"
+        },
+        {
+          "t": "p",
+          "x": "「この指摘にはある程度の根拠があり、作品の最終的な映像やアニメーションの一部にAIが使われた可能性は高いように思える。事実として報じることはできず、憶測に基づいて断定したくもないが、証拠には説得力がある」"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior-1.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ChometもDiorのPRチームもコメント要請に応じていない。当初の宣伝資料にもメイキング映像にもAIへの言及はなく、AIを使いながら開示していなかったのであれば、「このキャンペーンは意図的に欺くよう仕組まれているように見える」。"
+        },
+        {
+          "t": "p",
+          "x": "編集長のJamie Langは、元の記事がタイトルで短編を手描きと紹介していたとして謝罪した。その表現はすでに削除されている。「申し訳なく思う。今後はより慎重を期す」"
+        }
+      ]
+    },
+    "movies/taicca-ai-adoption-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/Taiwan-insights.jpg?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "At Taiwan Creative Content Fest (TCCF) in Taipei, the Taiwan Creative Content Agency (TAICCA) presented audience research alongside an evaluation of AI in audiovisual production."
+        },
+        {
+          "t": "p",
+          "x": "TAICCA research analyst Chhoa Hiok-chong examined AI adoption in audiovisual production, highlighting potential cost savings alongside legal uncertainty and technical limitations. Broader industry estimates cited in the presentation, rather than Taiwan-specific figures, placed AI adoption in post-production and visual effects at 70% to 85%, compared with 60% to 75% in pre-production and 15% to 25% in on-set production."
+        },
+        {
+          "t": "p",
+          "x": "Technical obstacles remain, including visual consistency across shots, camera control, narrative continuity and integration into established production pipelines. Citing the Database of AI Litigation, the presentation identified 489 AI-related legal cases through August 2026, including 153 involving cultural and creative industries."
+        },
+        {
+          "t": "p",
+          "x": "A November 2025 Luminate survey found 51% of U.S. respondents rejected fully synthetic virtual performers; in South Korea, 81.6% supported advance disclosure of AI-generated content. The audience study found 96% of respondents watched audiovisual content in 2025."
+        }
+      ]
+    },
+    "movies/instagram-edits-desktop-muse": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-timeline-1.jpg?quality=90&strip=all&w=2400",
+          "cap": "InstagramのデスクトップEditsアプリのプロモーション用スクリーンショット"
+        },
+        {
+          "t": "p",
+          "x": "Instagramの単体動画編集アプリEditsがmacOSで利用可能になり、好みのAIエージェントを接続して動画を組み立てられるようになった。Editsのプロダクトマネジメント責任者Matthew SimariはThe Vergeにこう語った。「Edits Desktopとともにリリースするもののひとつが、Edits Desktop内のすべてのツールに対応するMCPだ。どんなエージェントでも使える。Museを使ってもいい――ぜひそうしてほしい――が、実際には好きなエージェントを選んで、動画の編集や微調整、作業ができる」"
+        },
+        {
+          "t": "p",
+          "x": "Simariによれば、ユーザーは「エージェントによる編集と手動編集を行き来できる」。たとえばクリエイターはMetaのMuseエージェントにEdits MCPを使わせ、ダウンロードフォルダ内の動画のラフカットを作らせたうえで、そのプロジェクトファイルをEditsで開いて編集を続けられる。Instagramは9月、Editsのモバイル版にAIの「クリエイティブアシスタント」を追加していた。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-color-grading-1.jpg?quality=90&strip=all&w=2400",
+          "cap": "デスクトップアプリには、より高度なカラーグレーディングツールが備わる。"
+        },
+        {
+          "t": "p",
+          "x": "デスクトップ版はフルのマルチトラック（multi-track）タイムライン、精密なオーディオ波形、カラーグレーディングツール、キーボードショートカットを備え、透かしなしの4K 書き出しと複数のアスペクト比にも対応する。現時点ではmacOS-only（macOS 専用）で、モバイルとデスクトップをまたいだプロジェクト編集はまだできない。Metaはアプリを毎週更新する予定だ。"
+        }
+      ]
     }
   }
 }

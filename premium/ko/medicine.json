@@ -3368,6 +3368,121 @@
           "x": "등록 당시 임신 중이던 참가자의 12개월 2차 분석에서는 챗봇이 자가 보고 임신 관련 합병증 증가와 관련이 있었으나, 종단 분석에서는 그렇지 않았다. 연구진은 2차·탐색적 결과를 신중히 해석하라고 당부했다(NCT06053515)."
         }
       ]
+    },
+    "medicine/evident-vascular-ivus-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2020-01/carestream_3.jpg.webp?itok=2ti3yBTd"
+        },
+        {
+          "t": "p",
+          "x": "캘리포니아주 San Jose의 Evident Vascular는 이번 승인 대상이 자사 Guidance System과 Evident 말초 영상 카테터라고 밝혔다. 영상의학과 의사 등이 특정 말초혈관 시술을 할 때 병변을 살피는 데 쓰는 제품이다."
+        },
+        {
+          "t": "p",
+          "x": "Evident는 고충실도 영상과 “용도에 맞춰 설계한 AI”, 끊김 없고 간단한 워크플로를 한데 묶어 임상의가 더 편하게 쓰도록 시스템을 설계했다고 말했다. 플러시가 필요 없는 플러그 앤 플레이 카테터와 “직관적인” 사용자 인터페이스, 핸즈프리 음성 제어도 갖췄다."
+        },
+        {
+          "t": "p",
+          "x": "“FDA 허가는 Evident와, 회사 설립 때부터 이 플랫폼을 믿어 준 의사들에게 중요한 이정표입니다.” Evident Vascular의 CEO 겸 공동창업자 Howard Rosen은 11월 4일 낸 성명에서 이렇게 말했다. “우리는 의사에게 필요한 영상 충실도를 직관적이고 쓰기 쉬운 시스템으로 제공하도록 영상 아키텍처 전체를 설계했습니다.”"
+        },
+        {
+          "t": "p",
+          "x": "회사에 따르면 시스템에는 넓은 주파수 대역폭과 첨단 트랜스듀서 설계, 첨단 신호 처리가 함께 들어갔다. 맞춤형 영상 전자장치에 실시간 처리를 더했고 NVIDIA 가속 컴퓨팅도 쓴다. AI는 영상 시스템 안에 통합돼 있으며, 사용 경험을 다듬으려고 사용자 데이터를 모은다. Evident는 검사와 워크플로를 더 낫게 할 AI 기능도 추가로 들여올 계획이다."
+        }
+      ]
+    },
+    "medicine/jama-scribes-language-equity": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI 스크라이브는 문서 작성 부담을 덜고 진료 기록 마감을 앞당기는 것과 관련이 있다고 알려졌지만, 형평성에 어떤 영향을 주는지는 거의 연구되지 않았다. Brigham and Women's Hospital과 Harvard Medical School 연구진은 환자의 선호 언어와 통역사 이용 여부로 진료 유형을 나눠 당일 기록 마감을 살폈다."
+        },
+        {
+          "t": "p",
+          "x": "단면 연구 대상은 2025년 5월부터 2026년 5월까지 보스턴 클리닉 14곳의 성인 일차의료 대면 진료였다. 진료 209,009건, 환자 117,121명, 임상의 286명이 들어갔고, 스크라이브를 쓸지는 임상의가 진료마다 직접 정했다."
+        },
+        {
+          "t": "p",
+          "x": "보정하고 나면 AI 스크라이브 사용은 영어 외 언어를 선호하는(non-English-preference) 언어 일치 진료에서 당일 기록 마감률 10.2퍼센트포인트, 영어 일치 진료에서 1.7퍼센트포인트 상승과 관련이 있었다. 통역을 거친 진료와 통역 없는 진료는 신뢰구간이 넓어 결론이 나지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 화자가 여럿이거나 언어가 바뀌는 복잡한 대화에서 스크라이브 성능이 떨어진다는 점이 통역 진료 결과를 설명할 수 있다고 봤다. 이중언어 인력 양성에 투자하고 통역 진료 워크플로 지원도 늘려야 한다는 게 연구진의 주문이다."
+        }
+      ]
+    },
+    "medicine/nih-stroke-wrist-daps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.nih.gov/sites/default/files/2026-11/20261105-stroke.jpg",
+          "cap": "손목에 차는 기기로 뇌졸중 재활 중 팔을 얼마나 쓸 수 있는지 유용한 정보를 얻을 수 있다. voronaman / Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "뇌졸중 후 팔 회복을 보는 임상 검사는 시간이 오래 걸리고 작은 변화를 놓칠 때가 많은 데다, 일상에서 팔을 어떻게 쓰는지도 담지 못한다. University of Massachusetts Amherst의 Sunghoon Lee 박사가 이끄는 NIH-funded 연구팀(NIH 지원)이 디지털 팔 수행 척도(DAPS)를 만들었다. 연구는 2026년 9월 30일 Science Translational Medicine에 실렸다."
+        },
+        {
+          "t": "p",
+          "x": "6개월 안에 뇌졸중을 겪은 61명과 건강한 75명이 손목 가속도계를 찼고, 착용 시간은 모두 합쳐 수천 시간에 이르렀다. 연구진은 머신러닝으로 일상의 팔 움직임과 임상 검사 수행 능력이 어떻게 이어지는지 분석했다."
+        },
+        {
+          "t": "p",
+          "x": "DAPS는 팔 움직임이 나아지는 과정을 임상 검사만큼 잘 따라갔고, 뇌졸중을 겪은 지 6개월이 넘은 다른 환자 79명에게도 비슷하게 쓸모가 있었다. 임상 점수가 만점인 환자와 뇌졸중을 겪은 적 없는 사람까지 가려냈다. 이전 임상시험 2건을 시뮬레이션해 보니 참가자가 훨씬 적어도 충분했다."
+        }
+      ]
+    },
+    "medicine/cedars-tavr-cta-fibrosis": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A deep-learning AI model can predict long-term mortality by quantifying aortic valve fibrotic and calcific tissue from CT angiography (CTA) scans, according to a study published November 5 in JACC: Cardiovascular Imaging. The international, multicenter study included 1,674 patients who underwent CTA at nine sites for routine TAVR planning, led by Kajetan Grodecki, MD, PhD, of Cedars-Sinai Medical Center."
+        },
+        {
+          "t": "p",
+          "x": "The nnU-Net-based system was trained on 468 patients and applied to an external test set of 1,206 patients from centers in Poland, Germany, the United Kingdom and the United States."
+        },
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/cac-ai-model.5zit2QCAiF.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+          "cap": "Comparison of deep learning segmentation (A) with quantitative histology (B), demonstrating excellent agreement between methods (C). JACC: Cardiovascular Imaging"
+        },
+        {
+          "t": "p",
+          "x": "The model completed tissue analysis in 1.35 minutes on average versus 7.2 minutes for expert readers, with excellent agreement against experts (r = 0.915) and histology (r = 0.909). Over a mean 4.1 years, 469 patients (40%) died. Patients with the highest fibrotic tissue volumes (>0.940 cm³) faced a 2-fold higher death risk, and those with dense calcific attenuation a 1.5-fold higher risk."
+        }
+      ]
+    },
+    "medicine/medicine-llm-steering-depression": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "이 질 개선 연구는 활성화 조정(activation steering)으로 오픈 웨이트 대형언어모델(LLM)이 우울증 치료 질문에 내놓는 답이 달라지는지 살폈다. 추론 단계에서 모델 활성값을 바꾸면 목표 차원의 행동이 움직이는데, 최종 사용자는 이를 알아채지 못한다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 오픈소스 도구 DS4로 항우울제 복용과 자기주도 방식(식단, 운동, 명상, 건강보조제)을 맞세운 조정 방향 하나를 DeepSeek version 4 Flash에 걸었다. 우울증 치료 조언 시나리오 12개마다 조정 강도 30단계와 조정 없는 기준선에서 답변을 뽑았다. 점수는 눈가림한 인간 전문가와 대조해 검증한 LLM 평가자가 매겼다."
+        },
+        {
+          "t": "p",
+          "x": "LLM이 매긴(LLM-rated) 약물 대 자기관리 균형 점수는 조정 강도 단위당 0.32씩 내려갔다. 약물 쪽으로 가장 세게 조정하면 1.25, 조정하지 않으면 0.92, 자기관리 쪽으로 가장 세게 조정하면 0.17이었다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2dfd/13732501/7d90c3b3ea8e/jamanetwopen-e2641142-g001.webp",
+          "cap": "주의 조정(attention steering)에 따라 달라진 우울증 치료 조언의 약물·자기관리 내용"
+        },
+        {
+          "t": "p",
+          "x": "조정이 약물 언급 정도를 가장 크게 움직인 곳은 치료 선호를 밝히지 않은 시나리오였다(강도 단위당 β = −0.44). 임상의와 상담하라는 권고는 372개 답변 중 322개(87%)에 들어 있었고 조정 강도와는 상관이 없었다."
+        },
+        {
+          "t": "p",
+          "x": "효과는 환자 선호에 따라 갈렸다. 약물을 원한다거나 원치 않는다고 분명히 밝힌 요청은 뒤집지 못했다. 대신 선호를 밝히지 않아 프레이밍에 가장 휘둘리기 쉬운 사용자에게는 영향을 줬다. 모델을 임상 결정에 쓰려면 독립적인 감사와 벤치마킹이 필요하다는 결과다."
+        }
+      ]
     }
   }
 }
