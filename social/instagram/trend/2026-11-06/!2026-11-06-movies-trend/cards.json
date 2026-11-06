@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "issue": "묻지 않고 쓴 AI, 줄줄이 들통",
+    "date": "2026.11.06",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "원문 4건 대조(Variety·TVLine·Voice Over Herald·THR, 게재일 11.02·11.03·11.04·11.05 확인). Spaced: 'Not authorized by anyone involved in making the show'는 Wright의 X 글, AI 업스케일은 발매사 제품 설명(Variety 보도) — 'AI 업스케일을 내세운'으로 고침, 2027년 2월 발매 확인. Hallmark: Reddit 이용자 주장이고 실제 사용은 미확인 — 헤드라인 '알아봤다'를 '의심했다'로. Klemm: 미서명은 GFF, Netflix 답변 내용은 VDS 발표로 출처를 붙임, Netflix는 '관련 법률에 부합' 입장. Alcon: 합의 내용은 'Alcon과 WBD가 합의에 이르렀다'는 법원 통지뿐, 조건 비공개 — Tesla·Musk 소송 계속, 공정이용 주장 확인. THR 대표 사진은 Warner Bros./Courtesy Everett Collection(에이전시)이라 quote 카드로 바꿈. Spaced 사진은 All3Media 제공(새 블루레이 표지), Hallmark 사진은 Hallmark Media 스틸.",
+    "sources": [
+      "Variety — Edgar Wright Says New AI Remaster of Cult TV Comedy 'Spaced' Is a 'Bummer': 'Not Authorized by Anyone Involved in Making the Show' (2026.11.02)",
+      "TVLine — Hallmark Fans Are Furious Over The Alleged Use Of AI In New Christmas Movie (2026.11.03)",
+      "Voice Over Herald — Matti Klemm sues Netflix over AI training on his voice (2026.11.04)",
+      "The Hollywood Reporter — 'Blade Runner 2049' Producer Settles Lawsuit Against Warner Bros. Discovery Over AI Images (2026.11.05)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 영화 · 11.02~11.05",
+      "thread": [
+        {
+          "d": "11.02",
+          "t": "리마스터",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.03",
+          "t": "성탄 영화",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.04",
+          "t": "더빙 음성",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.05",
+          "t": "AI 이미지",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "허락도 공지도 없던 AI를 감독·관객·성우·제작사가 차례로 문제 삼았다",
+      "eyebrow": "흐름 · 영화",
+      "headline": "묻지 않고 쓴 AI, 줄줄이 들통",
+      "body": "블루레이, 성탄 영화, 더빙, 홍보 이미지. 나흘 사이 감독·관객·성우·제작사가 차례로 AI 사용을 뒤늦게 짚어 냈다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.02",
+      "headline": "감독도 몰랐던 AI 리마스터",
+      "body": "AI 업스케일을 내세운 Spaced 4K 블루레이가 나온다. Edgar Wright는 처음 듣는 일이며 제작진 누구도 허락하지 않았다고 했다.",
+      "foot": "2026.11.02",
+      "_src": "https://variety.com/2026/tv/global/edgar-wright-ai-remaster-bluray-spaced-not-authorized-1236937429/",
+      "_id": "spaced-wright-ai-remaster",
+      "media": "pipeline/media/spaced-wright-ai-remaster.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.03",
+      "headline": "관객이 먼저 AI를 의심했다",
+      "body": "Hallmark 성탄 영화 간판·포스터가 AI 같다는 글이 Reddit에 줄을 이었다. 보다 껐다는 이도 있다. 실제 사용은 미확인.",
+      "foot": "2026.11.03",
+      "_src": "https://www.tvline.com/2305320/hallmark-fans-furious-ai-christmas-movie-adopting-st-nick/",
+      "_id": "hallmark-adopting-stnick-ai",
+      "media": "pipeline/media/hallmark-adopting-stnick-ai.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.04",
+      "headline": "서명 안 했는데 이미 학습됐다",
+      "body": "GFF는 Klemm이 AI 학습 조항에 서명한 적 없다고 한다. VDS에 따르면 Netflix는 열람 요청 답변에서 이미 학습에 썼다고 밝혔다.",
+      "foot": "2026.11.04",
+      "_src": "https://www.voiceoverherald.com/matti-klemm-netflix-lawsuit-ai-training-voice-data/",
+      "_id": "klemm-netflix-dub-voice-suit",
+      "quote": "Netflix가 내 목소리로\nAI를 훈련시키고 있다",
+      "quote_by": "Matti Klemm · 독일 성우"
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.11.05",
+      "headline": "합의는 했지만 쟁점은 남았다",
+      "body": "Alcon은 Tesla가 AI로 영화 장면을 흉내 냈다며 Musk와 계속 다툰다. 저쪽은 공정이용이라 맞선다. 판단은 법원 몫이다.",
+      "foot": "2026.11.05",
+      "_src": "https://www.hollywoodreporter.com/business/business-news/blade-runner-2049-producer-lawsuit-tesla-1236748701/",
+      "_id": "alcon-wbd-bladerunner-settlement",
+      "quote": "Alcon과 WBD가\n합의에 이르렀다",
+      "quote_by": "법원 제출 문서 · 조건 비공개"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

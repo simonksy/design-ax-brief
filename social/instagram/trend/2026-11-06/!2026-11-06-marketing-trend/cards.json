@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "issue": "AI 답변 광고, 이제 값을 묻는다",
+    "date": "2026.11.06",
+    "section": "MARKETING",
+    "accent": "#ff8a3d",
+    "note": "원문 4건 대조(SEJ·Digiday·SER·SEJ, 게재일 11.02·11.03·11.04·11.05 확인). 11.02 'AI 답변이 광고 지면이 된다'의 후속이라 지면이 아닌 수익을 묶음 — 그 회차의 멀티턴·10개국·89개국·10만 광고주·질의 3배는 쓰지 않음(4번 카드 '후속 질문 광고도 예고' 삭제). $0.89·$2.45는 Kaiser·Schulze 워킹 페이퍼(심사 중), 판매 추적 광고주 사이트 102곳의 U.S. 트래픽, 87곳 중 73곳 0건 확인. Digiday: 10.28 실적 발표 질의 5년 새 최고 증가, Schindler가 AI Mode 수익화 제한 인정, 10.29 주가 약 12.6% 하락. SER: 광고 네 개 화면은 Sachin Patel 캡처, '보통 한두 개, 가끔 세 개'는 Barry Schwartz 관찰. SEJ: Adthena 집계, 6~9월 U.S. AI Overview·AI Mode, 다섯 업종, 게재 약 175,100건(의류 약 111,000·가전 약 55,000), 클릭·지출·전환은 미추적 — '광고 개수'를 '게재 건수'로 고침.",
+    "sources": [
+      "Search Engine Journal — Google Search Ad Visits Out-Earned ChatGPT Ads In U.S. (2026.11.02)",
+      "Digiday — Ad Tech Briefing: Google's AI-reckoning (2026.11.03)",
+      "Search Engine Roundtable — Google AI Mode Now With Up To Four Ads (2026.11.04)",
+      "Search Engine Journal — Ads In Google AI Answers Concentrate In Apparel & Electronics (2026.11.05)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 마케팅 · 11.02~11.05",
+      "thread": [
+        {
+          "d": "11.02",
+          "t": "방문당 수익",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.03",
+          "t": "실적 발표",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.04",
+          "t": "광고 네 개",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.05",
+          "t": "쏠린 업종",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        }
+      ],
+      "thread_note": "AI 답변 광고는 자리를 넓혔지만, 아직 검색만큼 벌지 못한다",
+      "eyebrow": "흐름 · 마케팅",
+      "headline": "AI 답변 광고, 이제 값을 묻는다",
+      "body": "따로 보면 논문 하나, 실적 하나다. 나흘을 이어 보면 덜 버는 자리에 광고를 더 싣는 흐름이 보인다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.02",
+      "headline": "ChatGPT 광고, 방문당 $0.89",
+      "body": "광고주 사이트 102곳의 U.S. 트래픽을 본 논문. 두 광고를 다 산 87곳 중 73곳은 ChatGPT 광고 판매가 0건이었다.",
+      "foot": "2026.11.02",
+      "_src": "https://www.searchenginejournal.com/google-search-chatgpt-ad-revenue-per-visit/595596/",
+      "_id": "sej-chatgpt-ad-revenue-per-visit",
+      "stat_top": "검색광고 방문당 $2.45",
+      "stat_arrow": "ChatGPT 광고 방문당",
+      "stat_bottom": "$0.89",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.03",
+      "headline": "검색은 늘었는데 AI는 덜 번다",
+      "body": "Alphabet 검색 질의는 5년 새 가장 빨리 늘었다. AI Mode 수익화가 아직 제한적이라고 인정한 다음 날 주가는 약 12.6% 빠졌다.",
+      "foot": "2026.11.03",
+      "_src": "https://digiday.com/media-buying/ad-tech-briefing-googles-ai-reckoning/",
+      "_id": "digiday-google-ai-search-revenue",
+      "stat_top": "검색 질의 증가, 5년 새 최고",
+      "stat_arrow": "10월 29일 Alphabet 주가",
+      "stat_bottom": "약 −12.6%",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.04",
+      "headline": "AI Mode 답변 하나, 광고 네 개",
+      "body": "Sachin Patel이 올린 AI Mode 화면에 광고가 네 개 붙었다. SER은 보통 한두 개, 가끔 세 개였다고 전한다.",
+      "foot": "2026.11.04",
+      "_src": "https://www.seroundtable.com/google-ai-mode-four-ads-42443.html",
+      "_id": "google-aimode-four-ads",
+      "media": "pipeline/media/google-aimode-four-ads.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.05",
+      "headline": "광고는 의류·전자로 몰렸다",
+      "body": "Adthena가 6~9월 U.S. AI 답변 속 다섯 업종 광고 게재를 셌다. 의류가 약 111,000건. 클릭·지출은 세지 않았다.",
+      "foot": "2026.11.05",
+      "_src": "https://www.searchenginejournal.com/google-ai-answer-ads-apparel-electronics-report/595984/",
+      "_id": "sej-ai-answer-ads-categories",
+      "stat_top": "전체 약 175,100건",
+      "stat_arrow": "그중 의류",
+      "stat_bottom": "약 111,000건",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
