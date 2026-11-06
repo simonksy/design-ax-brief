@@ -10195,6 +10195,144 @@
           "x": "Nothing的AI设备并不会是首款无屏幕AI小工具，此前已有Humane AI pin、Friend，甚至AI毛绒玩具。另据报道，OpenAI也在与Jony Ive合作开发一款AI智能音箱。Pei提到此前的AI设备时说：“整个行业都在寻找自己的iPhone时刻：吊坠、别针、眼镜、陪伴设备，某种能让AI融入每个人生活的神奇消费设备。”他补充道：“如今寻找AI界的iPhone是一条死胡同。”"
         }
       ]
+    },
+    "gadgets/tau-humanoid-home-cleaning": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.mp4"
+        },
+        {
+          "t": "p",
+          "x": "初创公司Tau Robotics正派人形机器人为旧金山的家庭做清洁。它们仍需要大量人工指导，但正在学习。"
+        },
+        {
+          "t": "p",
+          "x": "目前，机器人由人远程操控，操作者通过安装在机器人头部和手腕上的摄像头观察。机器人在清洁时收集数据，Tau将用这些数据训练更独立的后续机型。铺床和叠衣服等任务采用运动学引导：人类操作者做出动作，机器人照着模仿。联合创始人Cornelia Weinzierl表示，机器人已能在无人协助的情况下吸尘和拖地。"
+        },
+        {
+          "t": "p",
+          "x": "Tau此前提供一小时清洁服务，收费$30；现在由两台机器人每周清洁一次收费$60，单次上门收费$100。第一次上门时，机器人在楼梯上遇到困难，又因远程操控者的设备过热而提前离开；第二次上门则顺利得多，连马桶也清洁了。"
+        },
+        {
+          "t": "p",
+          "x": "到目前为止，Tau只完成了几百次清洁。“清洁并不是很多人真正主动想做的工作，”Weinzierl说。"
+        }
+      ]
+    },
+    "gadgets/syncere-lume-robot-lamp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero-1280x720.jpg",
+          "cap": "Syncere Lume机器人台灯在床边拿着衣物"
+        },
+        {
+          "t": "p",
+          "x": "Lume是一盏内部折叠着机器人的落地灯。需要它干活时，它会展开关节臂，移动到床边或衣物堆旁，完成叠衣服、铺床、整理枕头、收拾房间等轻柔家务。Syncere是一家Palo Alto初创公司，由机器人专家Aaron Tan和Angus Fung创立。Lume起价$2,699。"
+        },
+        {
+          "t": "video",
+          "yt": "ahBF2XkA9No"
+        },
+        {
+          "t": "p",
+          "x": "Syncere围绕机器人操控、机载感知和本地AI算力打造产品，因此观察和决策都在设备上完成。每台Lume都附带Personalization Band：你示范如何叠衣服、喜欢怎样铺床，机器人就会学习你的偏好。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-folded.jpg",
+          "cap": "折叠起来时，Lume就是一盏普通的落地灯。图片：Syncere"
+        },
+        {
+          "t": "p",
+          "x": "两盏灯的Duet售价$5,199。LumeCare为$489；Autonomy售价$679，可终身使用新功能和未来任务，或每盏灯每月$79。产品采用邀请制订购，首批交付在2027年第一和第二季度。Syncere已完成由a16z Speedrun领投的$11M 种子前轮融资。"
+        }
+      ]
+    },
+    "gadgets/moto-buds-ultra27-translate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Motorola"
+        },
+        {
+          "t": "p",
+          "x": "与Motorola Signature 27一同亮相的还有Moto Buds Ultra 27，这是Motorola迄今功能最丰富的耳机。它结合了Bose-tuned音效、自适应降噪以及包括实时翻译在内的一系列AI-powered功能。"
+        },
+        {
+          "t": "p",
+          "x": "它配备11mm动圈单元和专用平衡电枢单元，采用Bose SoundDesign调音和Bose QuietControl ANC，并支持Hi-Res Audio、Dolby Atmos和Dolby Head Tracking。续航最长八小时，配合充电盒可达37小时，具备IP57防护。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27-lifestyle.jpg?resize=1920%2C1152&ssl=1",
+          "cap": "Motorola"
+        },
+        {
+          "t": "p",
+          "x": "AI Live Translate让用户直接通过耳机听到翻译后的对话，但需要兼容的Motorola手机，可用语言也因情况而异。长按左耳耳机可唤出Motorola Qira，免提“Hey Qira”将在未来几个月推出。Head Gestures让用户点头或摇头即可接听或拒接电话。"
+        },
+        {
+          "t": "p",
+          "x": "Moto Buds Ultra 27将在未来几个月于美国上市；Motorola尚未公布US售价或发售日期。"
+        }
+      ]
+    },
+    "gadgets/homeview-thirdparty-chatbots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&w=1600",
+          "cap": "图片：9to5Mac/Anthropic/Pawel Czerwinski"
+        },
+        {
+          "t": "p",
+          "x": "在iOS 27.3测试版中发现的代码显示，HomeView将支持ChatGPT和Claude等第三方AI聊天机器人。"
+        },
+        {
+          "t": "p",
+          "x": "爆料者pdfu本月初发现一个用于ConversationalApps的未使用标志后表示，ChatGPT、Claude等AI应用“可能”会登陆HomeView。现在，pdfu称iOS 26.3测试版证实了这一猜测。"
+        },
+        {
+          "t": "p",
+          "x": "“各位，这事成了：AI应用要登陆HomeView了。HomeView的CarPlay桥接组件PebblePlay在iOS 27.3中获得了Conversational Apps类别。此次更新还加入了双向音频路由、会话管理和中断处理的基础工作。目前还没有完全打通。”"
+        },
+        {
+          "t": "p",
+          "x": "Apple用这些标志来决定哪些类别的第三方应用可以在设备上运行，方式与CarPlay相同。同一位爆料者最近还发现证据，表明HomeView将能用作HomeKit安防摄像头。"
+        }
+      ]
+    },
+    "gadgets/aina-agent-ring": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Apoorv Shankar认为，在不远的将来，人们将通过一连串的批准与拒绝来与技术互动。AI智能体会主动找上门来完成任务。他说，每次都掏出手机说“是”或“否”将成为“瓶颈”。这正是他打造Aina Ring的原因。戒指配有一块小屏幕和一个类似摇杆的按钮，可以快速接受或拒绝AI智能体的操作。目前已开放预订；限时价格为$399，2027年1月开始发货时零售价将升至$499。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6aea53d84d3eef846d2fcf0b/master/w_1600%2Cc_limit/Aina%2520Ring%2520Hands.jpg",
+          "cap": "戴在手上的Aina戒指"
+        },
+        {
+          "t": "p",
+          "x": "钛金属材质的Aina Ring可连接Macs或iPhones。它会从位置、日历、电子邮件等个人数据，以及在Aina应用中接入的Uber、Spotify等第三方服务中学习你的日常习惯。如果现在是8:30 am，而你通常乘Uber上班，它就会建议叫车——在戒指上拨一下“是”，它便会处理这项任务。Shankar称之为“Aina Cues”，由戒指的Context Aware Operating System驱动。用户可以用自然语言创建自己的Cues，或连接Muse、Instinct等偏好的AI智能体。"
+        },
+        {
+          "t": "p",
+          "x": "借助Aina Voice，按下中间按钮即可与AI智能体对话。Shankar说：“批准将成为界面与交互的未来。”"
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6aea54376c2140d939cde56c/master/w_1600%2Cc_limit/Aina%2520Speaker%2520and%2520Shifter.png"
+        }
+      ]
     }
   }
 }

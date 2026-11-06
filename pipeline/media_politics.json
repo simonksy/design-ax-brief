@@ -1,30 +1,31 @@
 {
-    "date": "2026-11-06",
-    "section": "politics",
-    "media": [
-        {
-            "id": "occ-bank-ai-framework",
-            "type": "image",
-            "src": "pipeline/media/occ-bank-ai-framework.jpg"
-        },
-        {
-            "id": "g7-ai-safety-france-us",
-            "type": "image",
-            "src": "pipeline/media/g7-ai-safety-france-us.jpg"
-        },
-        {
-            "id": "certin-ai-incident-6hr",
-            "type": "image",
-            "src": "pipeline/media/certin-ai-incident-6hr.jpg"
-        },
-        {
-            "id": "delhi-hc-kriti-sanon-deepfakes",
-            "type": "image",
-            "src": "pipeline/media/delhi-hc-kriti-sanon-deepfakes.jpg"
-        },
-        {
-            "id": "ipophl-artists-ai-copyright",
-            "type": "svg"
-        }
-    ]
+  "date": "2026-11-07",
+  "section": "politics",
+  "media": [
+    {
+      "id": "korea-ai-legislative-framework",
+      "type": "image",
+      "src": "pipeline/media/korea-ai-legislative-framework.jpg"
+    },
+    {
+      "id": "doj-superintelligence-taskforce",
+      "type": "image",
+      "src": "pipeline/media/doj-superintelligence-taskforce.png"
+    },
+    {
+      "id": "uk-agentic-ai-cyber-bill",
+      "type": "image",
+      "src": "pipeline/media/uk-agentic-ai-cyber-bill.jpg"
+    },
+    {
+      "id": "nvidia-huang-megaspeed-letter",
+      "type": "image",
+      "src": "pipeline/media/nvidia-huang-megaspeed-letter.jpg"
+    },
+    {
+      "id": "delhi-hc-rekha-gupta-deepfake",
+      "type": "image",
+      "src": "pipeline/media/delhi-hc-rekha-gupta-deepfake.jpg"
+    }
+  ]
 }

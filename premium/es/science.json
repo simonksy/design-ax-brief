@@ -10079,6 +10079,143 @@
           "x": "Percibir a un compañero AI como emocionalmente capaz se asoció tanto con un mayor bienestar como con una mayor vulnerabilidad, mientras que los compañeros percibidos como cálidos y atentos se vincularon con más bienestar y menos vulnerabilidad. Los investigadores recomiendan consultar a los usuarios antes de cambiar las apps, ayudarlos a afrontar las relaciones interrumpidas y recordarles con claridad que los compañeros AI no experimentan emociones reales."
         }
       ]
+    },
+    "science/autodna-sjtu-selfdriving-lab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03552-8/d41586-026-03552-8_53940190.jpg",
+          "cap": "Un laboratorio autónomo llamado AutoDNA puede identificar las ‘letras’ que componen un fragmento de DNA."
+        },
+        {
+          "t": "p",
+          "x": "En un laboratorio de genética poco común de la Universidad Jiao Tong de Shanghái (Shanghai Jiao Tong University), en China, un equipo de robots impulsados por inteligencia artificial diseña y realiza experimentos prácticamente sin manos humanas."
+        },
+        {
+          "t": "p",
+          "x": "La instalación, descrita en Nature, es uno de los pasos más recientes hacia laboratorios ‘autónomos’ guiados por AI. Con brazos robóticos que trasladan las muestras, el laboratorio puede operar más de 20 tipos de instrumentos, completar miles de operaciones en un solo proyecto y realizar experimentos que incluyen la síntesis y la secuenciación de DNA."
+        },
+        {
+          "t": "p",
+          "x": "Un equipo de agentes de AI diseña y ejecuta cada experimento de principio a fin a partir de una instrucción sencilla de un operador humano. Después, solo hacen falta manos humanas para reponer reactivos y dar mantenimiento al hardware."
+        },
+        {
+          "t": "p",
+          "x": "“El futuro de la ciencia va a incluir muchos laboratorios autónomos”, afirma Milad Abolhasani, de North Carolina State University. El coautor Haibo Chen explica que el equipo construyó AutoDNA desde el inicio pensando en la AI, en lugar de añadir AI a un sistema existente."
+        },
+        {
+          "t": "p",
+          "x": "El equipo lo probó en proyectos como la detección de una mutación ligada al cáncer en el DNA y la codificación de la frase “La inteligencia es la capacidad de adaptarse al cambio” en las cuatro bases del DNA."
+        }
+      ]
+    },
+    "science/mit-chemeleon-molecule-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202610/mit-cheme-chemeleon.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo método desarrollado en el MIT muestra que, cuando hay pocos datos sobre alguna propiedad tecnológicamente relevante, como la afinidad de ligandos por una diana farmacológica recién descubierta, puede superar a los métodos existentes para seleccionar las moléculas que vale la pena estudiar."
+        },
+        {
+          "t": "p",
+          "x": "El modelo de código abierto CheMeleon se presentó en el Journal of Chemical Information and Modeling y se construyó sobre ChemProp. En un concurso de OpenADMET, nueve de las 20 mejores propuestas habían usado CheMeleon; una farmacéutica estableció como norma iniciar todos sus modelos de propiedades con él."
+        },
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202610/chemeleon_toc.png"
+        },
+        {
+          "t": "p",
+          "x": "CheMeleon es un modelo fundacional preentrenado: aprende de los descriptores moleculares de un millón de moléculas de PubChem, prediciendo un catálogo de unos 1,600 descriptores, y luego puede ajustarse para propiedades que van desde la solubilidad hasta la bioactividad."
+        },
+        {
+          "t": "p",
+          "x": "“Aunque lo ajustes con solo unos pocos datos para la tarea que te interesa, aún puedes obtener un buen rendimiento”, dice Zalte. En 58 casos de prueba, “vemos que nuestro modelo queda en primer lugar”."
+        }
+      ]
+    },
+    "science/mitomatch-alphafold-mito-screen": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-27.jpg",
+          "cap": "Uso de AlphaFold-Multimer como modelo de clasificación para predecir interacciones proteína-proteína mitocondriales. Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77112-z"
+        },
+        {
+          "t": "p",
+          "x": "Científicos de Texas A&M AgriLife Research usaron AlphaFold-Multimer, una herramienta de AI de Google DeepMind que predice cómo se unen las proteínas, para cribar unos 630,000 pares posibles entre aproximadamente 1,100 proteínas mitocondriales humanas."
+        },
+        {
+          "t": "p",
+          "x": "Identificaron 2,895 interacciones probables, más de la mitad de las cuales no se habían descrito antes. Las predicciones asignaron socios probables a 85 proteínas hasta ahora sin caracterizar, y varias se confirmaron en células de levadura y humanas."
+        },
+        {
+          "t": "p",
+          "x": "“Si no conocemos la función de estas proteínas individuales, no podemos determinar cómo tratar las enfermedades que pueden causar”, dijo el autor principal, Abhinav Swaminathan, quien señaló que las curas probablemente aún están lejos, pero que el enfoque ofrece un punto de partida práctico."
+        },
+        {
+          "t": "p",
+          "x": "El equipo publicó las predicciones como un recurso gratuito llamado MitoMatch. El estudio aparece en Nature Communications."
+        }
+      ]
+    },
+    "science/sydney-riddled-basins-training": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sydney-researchers-unc.jpg",
+          "cap": "Credit: Professor Pulin Gong/The University of Sydney"
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores de la University of Sydney Pulin Gong y Andrew Ly, en un estudio publicado en Nature Machine Intelligence, hallaron que parte de la imprevisibilidad de la AI se debe a las matemáticas del entrenamiento de redes neuronales y no al ruido del hardware o del orden de los datos."
+        },
+        {
+          "t": "p",
+          "x": "Las regiones de condiciones iniciales que llevan a distintos resultados de entrenamiento forman intrincados fractales llamados ‘riddled basins’ (cuencas acribilladas), de modo que diferencias mínimas en las condiciones iniciales pueden producir resultados distintos. “Nuestros hallazgos apuntan a algo más profundo”."
+        },
+        {
+          "t": "p",
+          "x": "En una red de reconocimiento de imágenes, hacer los ajustes iniciales 10.000 millones de veces más precisos no mejoró la reproducibilidad, y un cambio de un bit llevó a una configuración distinta en cerca del 48% de los casos. En unas 500,000 redes entrenadas, el patrón apareció de forma generalizada."
+        },
+        {
+          "t": "p",
+          "x": "También encontraron una disyuntiva: los ajustes de aprendizaje que mejor funcionan hacen que los resultados sean más difíciles de reproducir, y reducir la tasa de aprendizaje mejora la reproducibilidad a costa de la eficacia del aprendizaje."
+        }
+      ]
+    },
+    "science/llnl-strata-stitch-emulators": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula.jpg",
+          "cap": "El emulador STRATA busca predecir con precisión el tiempo a largo plazo sin simulaciones costosas en cómputo y que consumen mucho tiempo. Crédito: gráfico de Peter Caldwell"
+        },
+        {
+          "t": "p",
+          "x": "Modelar una década hacia el futuro lleva meses en los mejores superordenadores del mundo. En el Lawrence Livermore National Laboratory (LLNL), los investigadores están desplegando emuladores para ofrecer predicciones meteorológicas más rápidas y precisas, con meses o años de antelación."
+        },
+        {
+          "t": "p",
+          "x": "E3SM puede simular la atmósfera con una resolución de 3 kilómetros resolviendo ecuaciones físicas. En cambio, científicos del LLNL, el DOE y NVIDIA entrenan un emulador llamado STRATA con los resultados de un modelo como E3SM y luego le piden que prediga cómo será la atmósfera días, meses o años después, sin resolver nunca las ecuaciones físicas. \"En un emulador usamos aprendizaje automático, como una red neuronal profunda, para imitar lo que habría hecho la física real\", dijo la científica del LLNL Yunyan Zhang."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula-1.jpg",
+          "cap": "Pronóstico a 12 horas del emulador STRATA (fila superior) comparado con el Simple Cloud-Resolving E3SM Atmosphere Model (SCREAM, fila inferior). Crédito: gráfico de Peter Caldwell"
+        },
+        {
+          "t": "p",
+          "x": "La velocidad permite a los científicos ejecutar cientos de simulaciones para sopesar muchas predicciones a la vez. Sobre el proyecto MAGGIE, liderado por Los Alamos, que usa modelos generativos para crear condiciones iniciales, Peter Caldwell dijo: \"Habríamos tardado tres meses en hacer este conjunto de simulaciones con un modelo basado en la física\". Y añadió: \"Con nuestros nuevos emuladores, lo hicimos en un fin de semana\"."
+        },
+        {
+          "t": "p",
+          "x": "A través de la DOE Genesis Mission, el proyecto STITCH, dirigido por Zhang, entrena emuladores con simulaciones localizadas de microfísica de nubes y turbulencia a pequeña escala; sus resultados pueden incorporarse a E3SM, que a su vez aporta nuevos datos de entrenamiento para STRATA."
+        }
+      ]
     }
   }
 }

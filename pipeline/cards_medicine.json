@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "section": "medicine",
   "cards": [
     {
-      "id": "medicine-llm-steering-depression",
+      "id": "nature-gait-foundation-model",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "숨은 LLM 설정이\n우울증 조언을 바꿨다",
-      "body": "숨은 설정에 공개 LLM 우울증 조언이 바뀌었고 선호 없는 이용자가 가장 흔들렸다.",
-      "mini_headline": "숨은 LLM 설정, 우울증 조언 바꿔",
+      "headline": "3D 골격 움직임으로\n건강 읽는 보행 모델",
+      "body": "3,328명 3D 보행 모델이 표현형 3,210개 중 1,887개를 예측해냈다.",
+      "mini_headline": "건강 읽는 보행 모델",
       "tool": "Medicine",
-      "source": "JAMA Network Open",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41142",
+      "source": "Nature Medicine",
+      "url": "https://www.nature.com/articles/s41591-026-04724-9",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
@@ -19,203 +19,185 @@
         "blocks": [
           {
             "t": "p",
-            "x": "이 질 개선 연구는 활성화 조정(activation steering)으로 오픈 웨이트 대형언어모델(LLM)이 우울증 치료 질문에 내놓는 답이 달라지는지 살폈다. 추론 단계에서 모델 활성값을 바꾸면 목표 차원의 행동이 움직이는데, 최종 사용자는 이를 알아채지 못한다."
-          },
-          {
-            "t": "p",
-            "x": "연구진은 오픈소스 도구 DS4로 항우울제 복용과 자기주도 방식(식단, 운동, 명상, 건강보조제)을 맞세운 조정 방향 하나를 DeepSeek version 4 Flash에 걸었다. 우울증 치료 조언 시나리오 12개마다 조정 강도 30단계와 조정 없는 기준선에서 답변을 뽑았다. 점수는 눈가림한 인간 전문가와 대조해 검증한 LLM 평가자가 매겼다."
-          },
-          {
-            "t": "p",
-            "x": "LLM이 매긴(LLM-rated) 약물 대 자기관리 균형 점수는 조정 강도 단위당 0.32씩 내려갔다. 약물 쪽으로 가장 세게 조정하면 1.25, 조정하지 않으면 0.92, 자기관리 쪽으로 가장 세게 조정하면 0.17이었다."
+            "x": "보행을 활력징후로 보는 시각은 늘고 있지만, 지금의 접근법은 보행을 전신 바이오마커보다는 특정 질환의 증상으로 다룬다. 연구진은 정밀 표현형 분석을 거친 성인 3,328명이 5가지 운동 과제를 하는 모습을 깊이 카메라 한 대로 기록해 3차원 골격 움직임을 얻었다. 이 데이터로 보행 파운데이션 모델을 만들어 18개 신체 계통에서 악력, 수면의 질 같은 건강 표현형을 예측했다."
           },
           {
             "t": "img",
-            "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2dfd/13732501/7d90c3b3ea8e/jamanetwopen-e2641142-g001.webp",
-            "cap": "주의 조정(attention steering)에 따라 달라진 우울증 치료 조언의 약물·자기관리 내용"
+            "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig1_HTML.png",
+            "cap": "Fig. 1: 보행 파운데이션 모델의 데이터 수집과 학습 파이프라인."
           },
           {
             "t": "p",
-            "x": "조정이 약물 언급 정도를 가장 크게 움직인 곳은 치료 선호를 밝히지 않은 시나리오였다(강도 단위당 β = −0.44). 임상의와 상담하라는 권고는 372개 답변 중 322개(87%)에 들어 있었고 조정 강도와는 상관이 없었다."
+            "x": "학습한 임베딩은 연령(Pearson's r = 0.69), 체질량지수(r = 0.91), 내장지방 면적(r = 0.83) 예측에서 설계된 특징을 앞섰고, 검사한 표현형 3,210개 중 1,887개를 유의하게 예측했다. 연령·체질량지수·내장지방·키만 넣은 기준 모델과 견주면 남성에서는 18개 계통 전부, 여성에서는 18개 중 17개 계통의 예측이 좋아졌다. 임상 진단과 약물 사용 예측도 나아졌다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig5_HTML.png",
+            "cap": "Fig. 5: 보행 임베딩은 인구통계·신체계측 기준 모델보다 임상 진단과 약물 사용을 더 잘 예측한다."
           },
           {
             "t": "p",
-            "x": "효과는 환자 선호에 따라 갈렸다. 약물을 원한다거나 원치 않는다고 분명히 밝힌 요청은 뒤집지 못했다. 대신 선호를 밝히지 않아 프레이밍에 가장 휘둘리기 쉬운 사용자에게는 영향을 줬다. 모델을 임상 결정에 쓰려면 독립적인 감사와 벤치마킹이 필요하다는 결과다."
+            "x": "대사와 노쇠 예측은 주로 다리 움직임에서 나왔고, 수면과 생활습관 표현형은 몸통 움직임에 담겨 있었다. 저자들은 이 결과로 보행이 독립적인 다계통 생체신호로 자리 잡았다고 말한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Hidden LLM setting quietly\nshifts depression advice",
-          "body": "A hidden steering setting shifted an open LLM's depression-treatment advice, most for users with no stated preference.",
-          "mini_headline": "Hidden LLM setting\nshifts depression advice",
+          "headline": "Gait model reads health\nfrom 3D skeletal motion",
+          "body": "A model trained on 3D gait from 3,328 adults significantly predicted 1,887 of 3,210 tested health phenotypes.",
+          "mini_headline": "Gait model reads health",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "This quality improvement study evaluates whether activation steering changes an open-weights large language model's (LLM) responses to questions about treatment for depression. Inference-time activation steering alters model activations to shift behavior on a target dimension while remaining undetectable by the end user."
-              },
-              {
-                "t": "p",
-                "x": "Using the open-source tool DS4, a single steering direction contrasting antidepressant medication with self-directed approaches (diet, exercise, meditation, dietary supplements) was applied to DeepSeek version 4 Flash. Responses to 12 depression-treatment advice scenarios were generated at 30 steering amplitudes plus an unsteered baseline and scored by an LLM rater validated against a blinded human expert."
-              },
-              {
-                "t": "p",
-                "x": "The LLM-rated medication-vs-self-care balance declined by 0.32 per unit of steering amplitude, from 1.25 at the strongest medication steering to 0.92 without steering and 0.17 at the strongest self-care steering."
+                "x": "Gait is increasingly recognized as a vital sign, yet current approaches treat it as a symptom of specific pathologies rather than a systemic biomarker. The researchers developed a gait foundation model for three-dimensional skeletal motion, recorded via a single-depth camera during 5 motor tasks, from 3,328 deeply phenotyped adults, to predict health phenotypes such as grip strength and sleep quality across 18 body systems."
               },
               {
                 "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2dfd/13732501/7d90c3b3ea8e/jamanetwopen-e2641142-g001.webp",
-                "cap": "Outcomes of attention steering on medication and self-care content of depression treatment advice"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig1_HTML.png",
+                "cap": "Fig. 1: Overview of the gait foundation model, data acquisition and training pipeline."
               },
               {
                 "t": "p",
-                "x": "Among scenarios without stated treatment preference, steering shifted medication extent most substantially (β = −0.44 per unit amplitude). A recommendation to consult a clinician was present in 322 of 372 responses (87%) and did not vary by steering amplitude."
+                "x": "Learned embeddings outperformed engineered features for prediction of age (Pearson's r = 0.69), body mass index (r = 0.91) and visceral adipose tissue area (r = 0.83), and significantly predicted 1,887 of 3,210 tested phenotypes. Relative to a baseline using age, body mass index, visceral adipose tissue and height alone, gait embeddings improved prediction in all 18 systems in males and 17 of 18 in females, as well as prediction of clinical diagnoses and medication use."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig5_HTML.png",
+                "cap": "Fig. 5: Gait embeddings improve prediction of clinical diagnoses and medication use beyond demographic and anthropometric baselines."
               },
               {
                 "t": "p",
-                "x": "The impact was dependent on patient preference: it did not override an explicit request for or against medication but impacted users without stated preference, who may be most susceptible to framing. The results suggest the need for independent auditing and benchmarking if models are used to inform clinical decisions."
+                "x": "Leg dynamics dominated metabolic and frailty predictions, and torso dynamics encoded sleep and lifestyle phenotypes. The authors say the findings establish gait as an independent, multisystem biosignal."
               }
             ]
           }
         },
         "ko": {
-          "headline": "숨은 LLM 설정이\n우울증 조언을 바꿨다",
-          "body": "숨은 설정에 공개 LLM 우울증 조언이 바뀌었고 선호 없는 이용자가 가장 흔들렸다.",
-          "mini_headline": "숨은 LLM 설정, 우울증 조언 바꿔",
+          "headline": "3D 골격 움직임으로\n건강 읽는 보행 모델",
+          "body": "3,328명 3D 보행 모델이 표현형 3,210개 중 1,887개를 예측해냈다.",
+          "mini_headline": "건강 읽는 보행 모델",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "이 질 개선 연구는 활성화 조정(activation steering)으로 오픈 웨이트 대형언어모델(LLM)이 우울증 치료 질문에 내놓는 답이 달라지는지 살폈다. 추론 단계에서 모델 활성값을 바꾸면 목표 차원의 행동이 움직이는데, 최종 사용자는 이를 알아채지 못한다."
-              },
-              {
-                "t": "p",
-                "x": "연구진은 오픈소스 도구 DS4로 항우울제 복용과 자기주도 방식(식단, 운동, 명상, 건강보조제)을 맞세운 조정 방향 하나를 DeepSeek version 4 Flash에 걸었다. 우울증 치료 조언 시나리오 12개마다 조정 강도 30단계와 조정 없는 기준선에서 답변을 뽑았다. 점수는 눈가림한 인간 전문가와 대조해 검증한 LLM 평가자가 매겼다."
-              },
-              {
-                "t": "p",
-                "x": "LLM이 매긴(LLM-rated) 약물 대 자기관리 균형 점수는 조정 강도 단위당 0.32씩 내려갔다. 약물 쪽으로 가장 세게 조정하면 1.25, 조정하지 않으면 0.92, 자기관리 쪽으로 가장 세게 조정하면 0.17이었다."
+                "x": "보행을 활력징후로 보는 시각은 늘고 있지만, 지금의 접근법은 보행을 전신 바이오마커보다는 특정 질환의 증상으로 다룬다. 연구진은 정밀 표현형 분석을 거친 성인 3,328명이 5가지 운동 과제를 하는 모습을 깊이 카메라 한 대로 기록해 3차원 골격 움직임을 얻었다. 이 데이터로 보행 파운데이션 모델을 만들어 18개 신체 계통에서 악력, 수면의 질 같은 건강 표현형을 예측했다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2dfd/13732501/7d90c3b3ea8e/jamanetwopen-e2641142-g001.webp",
-                "cap": "주의 조정(attention steering)에 따라 달라진 우울증 치료 조언의 약물·자기관리 내용"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig1_HTML.png",
+                "cap": "Fig. 1: 보행 파운데이션 모델의 데이터 수집과 학습 파이프라인."
               },
               {
                 "t": "p",
-                "x": "조정이 약물 언급 정도를 가장 크게 움직인 곳은 치료 선호를 밝히지 않은 시나리오였다(강도 단위당 β = −0.44). 임상의와 상담하라는 권고는 372개 답변 중 322개(87%)에 들어 있었고 조정 강도와는 상관이 없었다."
+                "x": "학습한 임베딩은 연령(Pearson's r = 0.69), 체질량지수(r = 0.91), 내장지방 면적(r = 0.83) 예측에서 설계된 특징을 앞섰고, 검사한 표현형 3,210개 중 1,887개를 유의하게 예측했다. 연령·체질량지수·내장지방·키만 넣은 기준 모델과 견주면 남성에서는 18개 계통 전부, 여성에서는 18개 중 17개 계통의 예측이 좋아졌다. 임상 진단과 약물 사용 예측도 나아졌다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig5_HTML.png",
+                "cap": "Fig. 5: 보행 임베딩은 인구통계·신체계측 기준 모델보다 임상 진단과 약물 사용을 더 잘 예측한다."
               },
               {
                 "t": "p",
-                "x": "효과는 환자 선호에 따라 갈렸다. 약물을 원한다거나 원치 않는다고 분명히 밝힌 요청은 뒤집지 못했다. 대신 선호를 밝히지 않아 프레이밍에 가장 휘둘리기 쉬운 사용자에게는 영향을 줬다. 모델을 임상 결정에 쓰려면 독립적인 감사와 벤치마킹이 필요하다는 결과다."
+                "x": "대사와 노쇠 예측은 주로 다리 움직임에서 나왔고, 수면과 생활습관 표현형은 몸통 움직임에 담겨 있었다. 저자들은 이 결과로 보행이 독립적인 다계통 생체신호로 자리 잡았다고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "隠れたLLM設定が\nうつ病助言を静かに変える",
-          "body": "隠れた設定が公開LLMのうつ病治療助言を変え、希望を示さない利用者で影響が最大だった。",
-          "mini_headline": "隠れたLLM設定がうつ病助言を変える",
+          "headline": "3D骨格の動きから\n健康を読む歩行モデル",
+          "body": "成人3,328人の3D歩行で学んだモデルが表現型3,210個中1,887個を予測した。",
+          "mini_headline": "健康を読む歩行モデル",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "この品質改善研究は、活性化ステアリング(activation steering)がオープンウェイトの大規模言語モデル(LLM)によるうつ病治療に関する質問への回答を変えるかを評価した。推論時の活性化ステアリングはモデルの活性化を変えて目標とする次元で挙動をずらすが、エンドユーザーには検知できない。"
-              },
-              {
-                "t": "p",
-                "x": "オープンソースのツールDS4を使い、抗うつ薬と自己主導型の方法(食事、運動、瞑想、サプリメント)を対比させた単一のステアリング方向をDeepSeek version 4 Flashに適用した。12のうつ病治療助言シナリオへの回答を30段階のステアリング強度と非ステアリングの基準条件で生成し、盲検化した人間の専門家に照らして検証したLLM評価者が採点した。"
-              },
-              {
-                "t": "p",
-                "x": "LLMが評価した(LLM-rated)薬物対セルフケアのバランスはステアリング強度の単位あたり0.32低下し、薬物方向の最強ステアリングで1.25、ステアリングなしで0.92、セルフケア方向の最強ステアリングで0.17だった。"
+                "x": "歩行はバイタルサインとして認識されつつあるが、現在のアプローチは歩行を全身的なバイオマーカーではなく特定の病態の症状として扱っている。研究チームは、詳細な表現型データを持つ成人3,328人が5つの運動課題を行う間に単一の深度カメラで記録した3次元の骨格運動を用いて歩行基盤モデルを開発し、18の身体系にわたって握力や睡眠の質などの健康表現型を予測した。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2dfd/13732501/7d90c3b3ea8e/jamanetwopen-e2641142-g001.webp",
-                "cap": "注意ステアリング(attention steering)がうつ病治療助言の薬物・セルフケア内容に与えた結果"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig1_HTML.png",
+                "cap": "Fig. 1: 歩行基盤モデル、データ取得、学習パイプラインの概要。"
               },
               {
                 "t": "p",
-                "x": "治療の希望を示さないシナリオでは、ステアリングが薬物への言及度合いを最も大きく動かした(強度の単位あたりβ = −0.44)。臨床医への相談を勧める記述は372件中322件(87%)にあり、ステアリング強度で変わらなかった。"
+                "x": "学習された埋め込みは、年齢(Pearson's r = 0.69)、体格指数(r = 0.91)、内臓脂肪面積(r = 0.83)の予測で設計特徴量を上回り、検証した3,210の表現型のうち1,887を有意に予測した。年齢、体格指数、内臓脂肪、身長のみを用いたベースラインと比べ、歩行埋め込みは男性で18系すべて、女性で18系中17系の予測を改善し、臨床診断と服薬の予測も改善した。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig5_HTML.png",
+                "cap": "Fig. 5: 歩行埋め込みは、人口統計学的・身体計測的ベースラインを超えて臨床診断と服薬の予測を改善する。"
               },
               {
                 "t": "p",
-                "x": "影響は患者の希望に左右された。薬物を望む、あるいは望まないという明示的な要望を覆すことはなかったが、希望を示さず、枠組みの影響を最も受けやすいとみられる利用者には影響した。結果は、モデルを臨床判断に使うなら独立した監査とベンチマーキングが必要であることを示唆する。"
+                "x": "代謝とフレイルの予測では脚の動きが支配的で、体幹の動きは睡眠と生活習慣の表現型を符号化していた。著者らは、この結果により歩行が独立した多系統の生体信号として確立されたとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "隐藏LLM设置\n悄然改变抑郁症建议",
-          "body": "隐藏的引导设置改变了开放LLM的抑郁症治疗建议，对未表明偏好的用户影响最大。",
-          "mini_headline": "隐藏LLM设置改变抑郁症建议",
+          "headline": "步态模型读懂健康\n依据3D骨骼运动",
+          "body": "基于3,328名成人3D步态训练的模型，显著预测了3,210项健康表型中的1,887项。",
+          "mini_headline": "步态模型读懂健康",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "这项质量改进研究评估了激活引导(activation steering)是否会改变开放权重大语言模型(LLM)对抑郁症治疗相关问题的回答。推理时的激活引导通过改变模型激活值，使其在目标维度上的行为发生偏移，而终端用户无法察觉。"
-              },
-              {
-                "t": "p",
-                "x": "研究使用开源工具DS4，将一个对比抗抑郁药物与自主方式(饮食、运动、冥想、膳食补充剂)的单一引导方向施加于DeepSeek version 4 Flash。研究在30个引导强度及一个无引导基线下，针对12个抑郁症治疗建议情境生成回答，并由一个经盲法人类专家验证的LLM评分者打分。"
-              },
-              {
-                "t": "p",
-                "x": "LLM评分(LLM-rated)的药物与自我护理平衡度随引导强度每单位下降0.32，从最强药物引导时的1.25，到无引导时的0.92，再到最强自我护理引导时的0.17。"
+                "x": "步态日益被视为一项生命体征，但现有方法将其当作特定疾病的症状，而非全身性生物标志物。研究人员基于3,328名经过深度表型分析的成人，在5项运动任务中通过单个深度摄像头记录三维骨骼运动，开发了步态基础模型，用于预测覆盖18个身体系统的握力、睡眠质量等健康表型。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2dfd/13732501/7d90c3b3ea8e/jamanetwopen-e2641142-g001.webp",
-                "cap": "注意力引导(attention steering)对抑郁症治疗建议中药物与自我护理内容的影响"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig1_HTML.png",
+                "cap": "Fig. 1: 步态基础模型、数据采集与训练流程概览。"
               },
               {
                 "t": "p",
-                "x": "在未表明治疗偏好的情境中，引导对药物推荐程度的影响最大(每单位强度β = −0.44)。372条回答中有322条(87%)建议咨询临床医生，且不随引导强度变化。"
+                "x": "学习到的嵌入在预测年龄（Pearson's r = 0.69）、体重指数（r = 0.91）和内脏脂肪面积（r = 0.83）方面优于人工设计特征，并显著预测了3,210项受测表型中的1,887项。与仅使用年龄、体重指数、内脏脂肪和身高的基线相比，步态嵌入在男性全部18个系统、女性18个系统中的17个上均改善了预测，也改善了对临床诊断和用药情况的预测。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig5_HTML.png",
+                "cap": "Fig. 5: 步态嵌入在人口统计学和人体测量基线之外，进一步改善了临床诊断和用药情况的预测。"
               },
               {
                 "t": "p",
-                "x": "影响取决于患者偏好：引导不会推翻支持或反对用药的明确请求，但会影响未表明偏好、可能最易受表述框架左右的用户。结果提示，若用模型辅助临床决策，需要进行独立审计与基准测试。"
+                "x": "腿部动态主导了代谢和衰弱的预测，躯干动态则编码了睡眠与生活方式表型。作者表示，这些发现确立了步态作为一种独立的多系统生物信号的地位。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un ajuste oculto del LLM cambia\nsus consejos sobre depresión",
-          "body": "Un ajuste oculto alteró los consejos sobre depresión de un LLM abierto, sobre todo en usuarios sin preferencia expresa.",
-          "mini_headline": "Un ajuste oculto del LLM cambia consejos sobre depresión",
+          "headline": "Un modelo lee la salud\nen el movimiento esquelético 3D",
+          "body": "Un modelo entrenado con la marcha 3D de 3,328 adultos predijo significativamente 1,887 de 3,210 fenotipos de salud.",
+          "mini_headline": "Un modelo de marcha lee la salud",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Este estudio de mejora de la calidad evalúa si la dirección de activaciones (activation steering) cambia las respuestas de un modelo de lenguaje grande (LLM) de pesos abiertos a preguntas sobre el tratamiento de la depresión. La dirección de activaciones en tiempo de inferencia altera las activaciones del modelo para desplazar su comportamiento en una dimensión objetivo, sin que el usuario final pueda detectarlo."
-              },
-              {
-                "t": "p",
-                "x": "Con la herramienta de código abierto DS4 se aplicó a DeepSeek version 4 Flash una única dirección que contrastaba la medicación antidepresiva con enfoques autodirigidos (dieta, ejercicio, meditación, suplementos dietéticos). Se generaron respuestas a 12 escenarios de consejo sobre el tratamiento de la depresión con 30 amplitudes de dirección más una línea base sin dirección, y las puntuó un evaluador LLM validado frente a un experto humano cegado."
-              },
-              {
-                "t": "p",
-                "x": "El equilibrio entre medicación y autocuidado puntuado por el LLM (LLM-rated) disminuyó 0.32 por unidad de amplitud, de 1.25 con la dirección más fuerte hacia la medicación a 0.92 sin dirección y 0.17 con la dirección más fuerte hacia el autocuidado."
+                "x": "La marcha se reconoce cada vez más como un signo vital, pero los enfoques actuales la tratan como un síntoma de patologías específicas y no como un biomarcador sistémico. Los investigadores desarrollaron un modelo fundacional de la marcha a partir del movimiento esquelético tridimensional, registrado con una sola cámara de profundidad durante 5 tareas motoras, de 3,328 adultos con fenotipado exhaustivo, para predecir fenotipos de salud como la fuerza de prensión y la calidad del sueño en 18 sistemas corporales."
               },
               {
                 "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2dfd/13732501/7d90c3b3ea8e/jamanetwopen-e2641142-g001.webp",
-                "cap": "Resultados de la dirección de atención (attention steering) sobre el contenido de medicación y autocuidado en los consejos para tratar la depresión"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig1_HTML.png",
+                "cap": "Fig. 1: Visión general del modelo fundacional de la marcha, la adquisición de datos y el proceso de entrenamiento."
               },
               {
                 "t": "p",
-                "x": "En los escenarios sin preferencia de tratamiento declarada, la dirección desplazó con más fuerza el peso de la medicación (β = −0.44 por unidad de amplitud). La recomendación de consultar a un clínico apareció en 322 de 372 respuestas (87%) y no varió con la amplitud."
+                "x": "Los embeddings aprendidos superaron a las variables diseñadas en la predicción de la edad (Pearson's r = 0.69), el índice de masa corporal (r = 0.91) y el área de tejido adiposo visceral (r = 0.83), y predijeron de forma significativa 1,887 de 3,210 fenotipos evaluados. Frente a una línea de base que solo usaba edad, índice de masa corporal, tejido adiposo visceral y estatura, los embeddings de la marcha mejoraron la predicción en los 18 sistemas en hombres y en 17 de 18 en mujeres, así como la predicción de diagnósticos clínicos y del uso de medicamentos."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig5_HTML.png",
+                "cap": "Fig. 5: Los embeddings de la marcha mejoran la predicción de diagnósticos clínicos y del uso de medicamentos más allá de las líneas de base demográficas y antropométricas."
               },
               {
                 "t": "p",
-                "x": "El efecto dependió de la preferencia del paciente: no anuló una petición explícita a favor o en contra de la medicación, pero sí afectó a usuarios sin preferencia declarada, que pueden ser los más susceptibles al encuadre. Los resultados sugieren la necesidad de auditorías y evaluaciones comparativas independientes si los modelos se usan para orientar decisiones clínicas."
+                "x": "La dinámica de las piernas dominó las predicciones metabólicas y de fragilidad, y la del torso codificó los fenotipos de sueño y estilo de vida. Los autores afirman que los hallazgos establecen la marcha como una bioseñal independiente y multisistémica."
               }
             ]
           }
@@ -223,141 +205,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "숨은 LLM 설정이\n우울증 조언을 바꿨다",
-          "body": "숨은 설정이 공개 LLM 우울증 조언을 바꿨고 선호 없는 이용자가 가장 흔들렸다.",
-          "mini_headline": "숨은 LLM 설정, 우울증 조언 바꿔",
+          "headline": "3D 골격 움직임으로\n건강 읽는 보행 모델",
+          "body": "3,328명의 3D 보행 모델이 표현형 3,210개 중 1,887개를 예측했다.",
+          "mini_headline": "건강 읽는 보행 모델",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "이 질 개선 연구는 활성화 조정(activation steering)이 오픈 웨이트 대형언어모델(LLM)의 우울증 치료 질문 답변을 바꾸는지 평가했다. 추론 단계의 활성화 조정은 모델 활성값을 바꿔 목표 차원의 행동을 움직이지만, 최종 사용자는 이를 알아챌 수 없다."
-              },
-              {
-                "t": "p",
-                "x": "연구진은 오픈소스 도구 DS4로 항우울제 복용과 자기주도 방식(식단, 운동, 명상, 건강보조제)을 대비시킨 단일 조정 방향을 DeepSeek version 4 Flash에 적용했다. 우울증 치료 조언 시나리오 12개에 대해 조정 강도 30단계와 조정 없는 기준선에서 답변을 생성했고, 눈가림한 인간 전문가와 대조해 검증한 LLM 평가자가 점수를 매겼다."
-              },
-              {
-                "t": "p",
-                "x": "LLM이 평가한(LLM-rated) 약물 대 자기관리 균형은 조정 강도 단위당 0.32씩 낮아졌다. 약물 쪽 최강 조정에서 1.25, 조정이 없을 때 0.92, 자기관리 쪽 최강 조정에서 0.17이었다."
+                "x": "보행은 활력징후로 점점 더 인정받고 있지만, 현재 접근법은 보행을 전신적 바이오마커가 아니라 특정 질환의 증상으로 다룬다. 연구진은 정밀 표현형 분석을 거친 성인 3,328명이 5가지 운동 과제를 하는 동안 단일 깊이 카메라로 기록한 3차원 골격 움직임으로 보행 파운데이션 모델을 개발해, 18개 신체 계통에 걸쳐 악력과 수면의 질 같은 건강 표현형을 예측했다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2dfd/13732501/7d90c3b3ea8e/jamanetwopen-e2641142-g001.webp",
-                "cap": "주의 조정(attention steering)이 우울증 치료 조언의 약물·자기관리 내용에 미친 결과"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig1_HTML.png",
+                "cap": "Fig. 1: 보행 파운데이션 모델, 데이터 수집과 학습 파이프라인 개요."
               },
               {
                 "t": "p",
-                "x": "치료 선호를 밝히지 않은 시나리오에서 조정은 약물 언급 정도를 가장 크게 움직였다(강도 단위당 β = −0.44). 임상의 상담 권고는 372개 답변 중 322개(87%)에 들어 있었고, 조정 강도에 따라 달라지지 않았다."
+                "x": "학습된 임베딩은 연령(Pearson's r = 0.69), 체질량지수(r = 0.91), 내장지방 면적(r = 0.83) 예측에서 설계된 특징을 앞섰고, 검사한 표현형 3,210개 중 1,887개를 유의하게 예측했다. 연령·체질량지수·내장지방·키만 쓴 기준 모델과 비교해 보행 임베딩은 남성에서 18개 계통 전부, 여성에서 18개 중 17개 계통의 예측을 개선했으며, 임상 진단과 약물 사용 예측도 개선했다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig5_HTML.png",
+                "cap": "Fig. 5: 보행 임베딩은 인구통계·신체계측 기준 모델을 넘어 임상 진단과 약물 사용 예측을 개선한다."
               },
               {
                 "t": "p",
-                "x": "영향은 환자 선호에 따라 달랐다. 약물을 원하거나 원치 않는다는 명시적 요청을 뒤집지는 않았지만, 선호를 밝히지 않아 프레이밍에 가장 취약할 수 있는 사용자에게는 영향을 줬다. 결과는 모델을 임상 결정에 활용한다면 독립적인 감사와 벤치마킹이 필요하다는 점을 시사한다."
+                "x": "대사와 노쇠 예측은 다리 움직임이 주도했고, 몸통 움직임은 수면과 생활습관 표현형을 담고 있었다. 저자들은 이 결과로 보행이 독립적인 다계통 생체신호로 자리매김했다고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "隠れたLLM設定が\nうつ病助言を静かに変える",
-          "body": "隠れた設定が公開LLMのうつ病治療助言を変え、希望を示さない利用者で影響が最大だった。",
-          "mini_headline": "隠れたLLM設定がうつ病助言を変える",
+          "headline": "3D骨格の動きから\n健康を読む歩行モデル",
+          "body": "成人3,328人の3D歩行で学んだモデルが表現型3,210個中1,887個を予測した。",
+          "mini_headline": "健康を読む歩行モデル",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "この品質改善研究は、活性化ステアリング(activation steering)がオープンウェイトの大規模言語モデル(LLM)によるうつ病治療に関する質問への回答を変えるかを評価した。推論時の活性化ステアリングはモデルの活性化を変えて目標とする次元で挙動をずらすが、エンドユーザーには検知できない。"
-              },
-              {
-                "t": "p",
-                "x": "オープンソースのツールDS4を使い、抗うつ薬と自己主導型の方法(食事、運動、瞑想、サプリメント)を対比させた単一のステアリング方向をDeepSeek version 4 Flashに適用した。12のうつ病治療助言シナリオへの回答を30段階のステアリング強度と非ステアリングの基準条件で生成し、盲検化した人間の専門家に照らして検証したLLM評価者が採点した。"
-              },
-              {
-                "t": "p",
-                "x": "LLMが評価した(LLM-rated)薬物対セルフケアのバランスはステアリング強度の単位あたり0.32低下し、薬物方向の最強ステアリングで1.25、ステアリングなしで0.92、セルフケア方向の最強ステアリングで0.17だった。"
+                "x": "歩行はバイタルサインとして認識されつつあるが、現在のアプローチは歩行を全身的なバイオマーカーではなく特定の病態の症状として扱っている。研究チームは、詳細な表現型データを持つ成人3,328人が5つの運動課題を行う間に単一の深度カメラで記録した3次元の骨格運動を用いて歩行基盤モデルを開発し、18の身体系にわたって握力や睡眠の質などの健康表現型を予測した。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2dfd/13732501/7d90c3b3ea8e/jamanetwopen-e2641142-g001.webp",
-                "cap": "注意ステアリング(attention steering)がうつ病治療助言の薬物・セルフケア内容に与えた結果"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig1_HTML.png",
+                "cap": "Fig. 1: 歩行基盤モデル、データ取得、学習パイプラインの概要。"
               },
               {
                 "t": "p",
-                "x": "治療の希望を示さないシナリオでは、ステアリングが薬物への言及度合いを最も大きく動かした(強度の単位あたりβ = −0.44)。臨床医への相談を勧める記述は372件中322件(87%)にあり、ステアリング強度で変わらなかった。"
+                "x": "学習された埋め込みは、年齢(Pearson's r = 0.69)、体格指数(r = 0.91)、内臓脂肪面積(r = 0.83)の予測で設計特徴量を上回り、検証した3,210の表現型のうち1,887を有意に予測した。年齢、体格指数、内臓脂肪、身長のみを用いたベースラインと比べ、歩行埋め込みは男性で18系すべて、女性で18系中17系の予測を改善し、臨床診断と服薬の予測も改善した。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig5_HTML.png",
+                "cap": "Fig. 5: 歩行埋め込みは、人口統計学的・身体計測的ベースラインを超えて臨床診断と服薬の予測を改善する。"
               },
               {
                 "t": "p",
-                "x": "影響は患者の希望に左右された。薬物を望む、あるいは望まないという明示的な要望を覆すことはなかったが、希望を示さず、枠組みの影響を最も受けやすいとみられる利用者には影響した。結果は、モデルを臨床判断に使うなら独立した監査とベンチマーキングが必要であることを示唆する。"
+                "x": "代謝とフレイルの予測では脚の動きが支配的で、体幹の動きは睡眠と生活習慣の表現型を符号化していた。著者らは、この結果により歩行が独立した多系統の生体信号として確立されたとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "隐藏LLM设置\n悄然改变抑郁症建议",
-          "body": "隐藏的引导设置改变了开放LLM的抑郁症治疗建议，对未表明偏好的用户影响最大。",
-          "mini_headline": "隐藏LLM设置改变抑郁症建议",
+          "headline": "步态模型读懂健康\n依据3D骨骼运动",
+          "body": "基于3,328名成人3D步态训练的模型，显著预测了3,210项健康表型中的1,887项。",
+          "mini_headline": "步态模型读懂健康",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "这项质量改进研究评估了激活引导(activation steering)是否会改变开放权重大语言模型(LLM)对抑郁症治疗相关问题的回答。推理时的激活引导通过改变模型激活值，使其在目标维度上的行为发生偏移，而终端用户无法察觉。"
-              },
-              {
-                "t": "p",
-                "x": "研究使用开源工具DS4，将一个对比抗抑郁药物与自主方式(饮食、运动、冥想、膳食补充剂)的单一引导方向施加于DeepSeek version 4 Flash。研究在30个引导强度及一个无引导基线下，针对12个抑郁症治疗建议情境生成回答，并由一个经盲法人类专家验证的LLM评分者打分。"
-              },
-              {
-                "t": "p",
-                "x": "LLM评分(LLM-rated)的药物与自我护理平衡度随引导强度每单位下降0.32，从最强药物引导时的1.25，到无引导时的0.92，再到最强自我护理引导时的0.17。"
+                "x": "步态日益被视为一项生命体征，但现有方法将其当作特定疾病的症状，而非全身性生物标志物。研究人员基于3,328名经过深度表型分析的成人，在5项运动任务中通过单个深度摄像头记录三维骨骼运动，开发了步态基础模型，用于预测覆盖18个身体系统的握力、睡眠质量等健康表型。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2dfd/13732501/7d90c3b3ea8e/jamanetwopen-e2641142-g001.webp",
-                "cap": "注意力引导(attention steering)对抑郁症治疗建议中药物与自我护理内容的影响"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig1_HTML.png",
+                "cap": "Fig. 1: 步态基础模型、数据采集与训练流程概览。"
               },
               {
                 "t": "p",
-                "x": "在未表明治疗偏好的情境中，引导对药物推荐程度的影响最大(每单位强度β = −0.44)。372条回答中有322条(87%)建议咨询临床医生，且不随引导强度变化。"
+                "x": "学习到的嵌入在预测年龄（Pearson's r = 0.69）、体重指数（r = 0.91）和内脏脂肪面积（r = 0.83）方面优于人工设计特征，并显著预测了3,210项受测表型中的1,887项。与仅使用年龄、体重指数、内脏脂肪和身高的基线相比，步态嵌入在男性全部18个系统、女性18个系统中的17个上均改善了预测，也改善了对临床诊断和用药情况的预测。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig5_HTML.png",
+                "cap": "Fig. 5: 步态嵌入在人口统计学和人体测量基线之外，进一步改善了临床诊断和用药情况的预测。"
               },
               {
                 "t": "p",
-                "x": "影响取决于患者偏好：引导不会推翻支持或反对用药的明确请求，但会影响未表明偏好、可能最易受表述框架左右的用户。结果提示，若用模型辅助临床决策，需要进行独立审计与基准测试。"
+                "x": "腿部动态主导了代谢和衰弱的预测，躯干动态则编码了睡眠与生活方式表型。作者表示，这些发现确立了步态作为一种独立的多系统生物信号的地位。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un ajuste oculto del LLM cambia\nsus consejos sobre depresión",
-          "body": "Un ajuste oculto alteró los consejos sobre depresión de un LLM abierto, sobre todo en usuarios sin preferencia expresa.",
-          "mini_headline": "Un ajuste oculto del LLM cambia consejos sobre depresión",
+          "headline": "Un modelo lee la salud\nen el movimiento esquelético 3D",
+          "body": "Un modelo entrenado con la marcha 3D de 3,328 adultos predijo significativamente 1,887 de 3,210 fenotipos de salud.",
+          "mini_headline": "Un modelo de marcha lee la salud",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Este estudio de mejora de la calidad evalúa si la dirección de activaciones (activation steering) cambia las respuestas de un modelo de lenguaje grande (LLM) de pesos abiertos a preguntas sobre el tratamiento de la depresión. La dirección de activaciones en tiempo de inferencia altera las activaciones del modelo para desplazar su comportamiento en una dimensión objetivo, sin que el usuario final pueda detectarlo."
-              },
-              {
-                "t": "p",
-                "x": "Con la herramienta de código abierto DS4 se aplicó a DeepSeek version 4 Flash una única dirección que contrastaba la medicación antidepresiva con enfoques autodirigidos (dieta, ejercicio, meditación, suplementos dietéticos). Se generaron respuestas a 12 escenarios de consejo sobre el tratamiento de la depresión con 30 amplitudes de dirección más una línea base sin dirección, y las puntuó un evaluador LLM validado frente a un experto humano cegado."
-              },
-              {
-                "t": "p",
-                "x": "El equilibrio entre medicación y autocuidado puntuado por el LLM (LLM-rated) disminuyó 0.32 por unidad de amplitud, de 1.25 con la dirección más fuerte hacia la medicación a 0.92 sin dirección y 0.17 con la dirección más fuerte hacia el autocuidado."
+                "x": "La marcha se reconoce cada vez más como un signo vital, pero los enfoques actuales la tratan como un síntoma de patologías específicas y no como un biomarcador sistémico. Los investigadores desarrollaron un modelo fundacional de la marcha a partir del movimiento esquelético tridimensional, registrado con una sola cámara de profundidad durante 5 tareas motoras, de 3,328 adultos con fenotipado exhaustivo, para predecir fenotipos de salud como la fuerza de prensión y la calidad del sueño en 18 sistemas corporales."
               },
               {
                 "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2dfd/13732501/7d90c3b3ea8e/jamanetwopen-e2641142-g001.webp",
-                "cap": "Resultados de la dirección de atención (attention steering) sobre el contenido de medicación y autocuidado en los consejos para tratar la depresión"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig1_HTML.png",
+                "cap": "Fig. 1: Visión general del modelo fundacional de la marcha, la adquisición de datos y el proceso de entrenamiento."
               },
               {
                 "t": "p",
-                "x": "En los escenarios sin preferencia de tratamiento declarada, la dirección desplazó con más fuerza el peso de la medicación (β = −0.44 por unidad de amplitud). La recomendación de consultar a un clínico apareció en 322 de 372 respuestas (87%) y no varió con la amplitud."
+                "x": "Los embeddings aprendidos superaron a las variables diseñadas en la predicción de la edad (Pearson's r = 0.69), el índice de masa corporal (r = 0.91) y el área de tejido adiposo visceral (r = 0.83), y predijeron de forma significativa 1,887 de 3,210 fenotipos evaluados. Frente a una línea de base que solo usaba edad, índice de masa corporal, tejido adiposo visceral y estatura, los embeddings de la marcha mejoraron la predicción en los 18 sistemas en hombres y en 17 de 18 en mujeres, así como la predicción de diagnósticos clínicos y del uso de medicamentos."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig5_HTML.png",
+                "cap": "Fig. 5: Los embeddings de la marcha mejoran la predicción de diagnósticos clínicos y del uso de medicamentos más allá de las líneas de base demográficas y antropométricas."
               },
               {
                 "t": "p",
-                "x": "El efecto dependió de la preferencia del paciente: no anuló una petición explícita a favor o en contra de la medicación, pero sí afectó a usuarios sin preferencia declarada, que pueden ser los más susceptibles al encuadre. Los resultados sugieren la necesidad de auditorías y evaluaciones comparativas independientes si los modelos se usan para orientar decisiones clínicas."
+                "x": "La dinámica de las piernas dominó las predicciones metabólicas y de fragilidad, y la del torso codificó los fenotipos de sueño y estilo de vida. Los autores afirman que los hallazgos establecen la marcha como una bioseñal independiente y multisistémica."
               }
             ]
           }
@@ -365,141 +335,189 @@
       }
     },
     {
-      "id": "medicine-brainct-clip-worklist",
+      "id": "evident-vascular-ivus-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "범용·전문 AI가\n정상 두부 CTs 후순위로",
-      "body": "BrainCT-CLIP과 전문 검출기가 민감도를 지키며 정상 두부 CTs를 미룬다.",
-      "mini_headline": "짝 이룬 AI, 정상 두부 CTs 후순위로",
+      "headline": "AI-powered 혈관내\n초음파 FDA 허가",
+      "body": "FDA가 전용 AI를 탑재한 Evident Vascular의 IVUS를 허가했다.",
+      "mini_headline": "FDA, AI IVUS 시스템 허가",
       "tool": "Medicine",
-      "source": "npj Digital Medicine",
-      "url": "https://www.nature.com/articles/s41746-026-03447-y",
+      "source": "Radiology Business",
+      "url": "https://radiologybusiness.com/topics/medical-imaging/interventional-radiology/fda-clears-ai-powered-intravascular-ultrasound-imaging-platform",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "조영제를 쓰지 않은 뇌 컴퓨터단층촬영(NCCT)을 안전하게 후순위로 돌리려면 임상적 주의가 필요한 소견을 흔하든 드물든 높은 민감도와 음성예측도(NPV)로 잡아내야 한다. 연구진은 대조 언어-이미지 사전학습(CLIP)으로 만든 범용 파운데이션 모델 BrainCT-CLIP에 상용 검출기를 묶은 협업 안전망을 내놓았다. 판독 워크플로에서 빠진 검사는 없었고, 어느 모델도 양성 결과를 내지 않을 때만 후순위로 밀렸다."
+            "t": "img",
+            "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2020-01/carestream_3.jpg.webp?itok=2ti3yBTd"
           },
           {
             "t": "p",
-            "x": "연속 응급·외상 코호트(n = 2001)로 한 후향적 다기관 외부 검증에서 상용 검출기만 쓰면 이상 소견이 있는 검사 324건 중 31건이 후순위로 밀렸다. 16건은 대상 질환 위음성, 15건은 검출기 적응증 밖의 소견이었다. 협업 시스템은 개발 코호트에서 미리 정한 임계값으로 이상 소견 검사를 모두 되찾았다. 민감도와 NPV는 100%였고 전체 검사의 18%(368/2001; 95% CI, 17–20)를 후순위로 돌렸다."
+            "x": "캘리포니아주 San Jose의 Evident Vascular는 이번 승인 대상이 자사 Guidance System과 Evident 말초 영상 카테터라고 밝혔다. 영상의학과 의사 등이 특정 말초혈관 시술을 할 때 병변을 살피는 데 쓰는 제품이다."
           },
           {
             "t": "p",
-            "x": "영상의학과 전문의가 감독한다면 범용-전문 AI로 워크리스트를 안전하게 후순위 조정할 수 있다는 근거다. 임상적 주의가 필요한 두개내 소견을 잡는 민감도도 높았다."
+            "x": "Evident는 고충실도 영상과 “용도에 맞춰 설계한 AI”, 끊김 없고 간단한 워크플로를 한데 묶어 임상의가 더 편하게 쓰도록 시스템을 설계했다고 말했다. 플러시가 필요 없는 플러그 앤 플레이 카테터와 “직관적인” 사용자 인터페이스, 핸즈프리 음성 제어도 갖췄다."
+          },
+          {
+            "t": "p",
+            "x": "“FDA 허가는 Evident와, 회사 설립 때부터 이 플랫폼을 믿어 준 의사들에게 중요한 이정표입니다.” Evident Vascular의 CEO 겸 공동창업자 Howard Rosen은 11월 4일 낸 성명에서 이렇게 말했다. “우리는 의사에게 필요한 영상 충실도를 직관적이고 쓰기 쉬운 시스템으로 제공하도록 영상 아키텍처 전체를 설계했습니다.”"
+          },
+          {
+            "t": "p",
+            "x": "회사에 따르면 시스템에는 넓은 주파수 대역폭과 첨단 트랜스듀서 설계, 첨단 신호 처리가 함께 들어갔다. 맞춤형 영상 전자장치에 실시간 처리를 더했고 NVIDIA 가속 컴퓨팅도 쓴다. AI는 영상 시스템 안에 통합돼 있으며, 사용 경험을 다듬으려고 사용자 데이터를 모은다. Evident는 검사와 워크플로를 더 낫게 할 AI 기능도 추가로 들여올 계획이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Generalist and specialist AI\ndeprioritize normal head CTs",
-          "body": "BrainCT-CLIP and specialist detectors cross-check to push normal head CTs down the worklist with high sensitivity.",
-          "mini_headline": "Paired AI moves\nnormal head CTs down",
+          "headline": "FDA clears AI-powered\nintravascular ultrasound",
+          "body": "The FDA cleared Evident Vascular's peripheral IVUS system, which pairs purpose-built AI with real-time processing.",
+          "mini_headline": "FDA clears AI IVUS system",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Safe deprioritization of non-contrast brain computed tomography (NCCT) demands high sensitivity and negative predictive value (NPV) across common and uncommon findings requiring clinical attention. Here, we present a collaborative safety net integrating BrainCT-CLIP, a generalist foundation model via contrastive language-image pre-training (CLIP), with commercial detectors. Every examination remained in the reporting workflow, deprioritized only when no model returned a positive result."
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2020-01/carestream_3.jpg.webp?itok=2ti3yBTd"
               },
               {
                 "t": "p",
-                "x": "In a retrospective multicenter external validation of consecutive emergency and trauma cohorts (n = 2001), standalone commercial detectors left 31 of 324 remarkable examinations deprioritized, including 16 target-disease false negatives and 15 outside their indications. In contrast, the collaborative system recovered every remarkable examination at a threshold prespecified in the development cohort, achieving 100% sensitivity and NPV while deprioritizing 18% of examinations (368/2001; 95% CI, 17–20)."
+                "x": "San Jose, California-based Evident Vascular says the regulatory win applies to its Guidance System and Evident peripheral imaging catheters. They're intended for examination of pathology during certain peripheral vascular procedures handled by radiologists and other docs."
               },
               {
                 "t": "p",
-                "x": "These findings support generalist-specialist AI for safe worklist deprioritization under radiologist oversight, with high sensitivity for intracranial findings requiring clinical attention."
+                "x": "Evident says the system is designed to improve the clinician experience by combining high-fidelity imaging, “purpose-built AI,” and simple workflows without disruptions. Features include flush-less plug-and-play catheters, an “intuitive” user interface, and hands-free voice controls."
+              },
+              {
+                "t": "p",
+                "x": "“FDA clearance marks an important milestone for Evident and the physicians who believed in this platform from our company's inception,” Howard Rosen, CEO and co-founder of Evident Vascular, said in a statement Nov. 4. “We engineered the entire imaging architecture to deliver the image fidelity physicians need in a system that is both intuitive and easy to use.”"
+              },
+              {
+                "t": "p",
+                "x": "Evident said its system integrates broad frequency bandwidth, advanced transducer design and advanced signal processing. It pairs custom imaging electronics with real-time processing, harnessing NVIDIA accelerated computing. AI is integrated into the imaging system and gathers user data to help improve the experience, according to the company. Evident said it plans to introduce further AI capabilities to further enhance exams and workflows."
               }
             ]
           }
         },
         "ko": {
-          "headline": "범용·전문 AI가\n정상 두부 CTs 후순위로",
-          "body": "BrainCT-CLIP과 전문 검출기가 민감도를 지키며 정상 두부 CTs를 미룬다.",
-          "mini_headline": "짝 이룬 AI, 정상 두부 CTs 후순위로",
+          "headline": "AI-powered 혈관내\n초음파 FDA 허가",
+          "body": "FDA가 전용 AI를 탑재한 Evident Vascular의 IVUS를 허가했다.",
+          "mini_headline": "FDA, AI IVUS 시스템 허가",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "조영제를 쓰지 않은 뇌 컴퓨터단층촬영(NCCT)을 안전하게 후순위로 돌리려면 임상적 주의가 필요한 소견을 흔하든 드물든 높은 민감도와 음성예측도(NPV)로 잡아내야 한다. 연구진은 대조 언어-이미지 사전학습(CLIP)으로 만든 범용 파운데이션 모델 BrainCT-CLIP에 상용 검출기를 묶은 협업 안전망을 내놓았다. 판독 워크플로에서 빠진 검사는 없었고, 어느 모델도 양성 결과를 내지 않을 때만 후순위로 밀렸다."
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2020-01/carestream_3.jpg.webp?itok=2ti3yBTd"
               },
               {
                 "t": "p",
-                "x": "연속 응급·외상 코호트(n = 2001)로 한 후향적 다기관 외부 검증에서 상용 검출기만 쓰면 이상 소견이 있는 검사 324건 중 31건이 후순위로 밀렸다. 16건은 대상 질환 위음성, 15건은 검출기 적응증 밖의 소견이었다. 협업 시스템은 개발 코호트에서 미리 정한 임계값으로 이상 소견 검사를 모두 되찾았다. 민감도와 NPV는 100%였고 전체 검사의 18%(368/2001; 95% CI, 17–20)를 후순위로 돌렸다."
+                "x": "캘리포니아주 San Jose의 Evident Vascular는 이번 승인 대상이 자사 Guidance System과 Evident 말초 영상 카테터라고 밝혔다. 영상의학과 의사 등이 특정 말초혈관 시술을 할 때 병변을 살피는 데 쓰는 제품이다."
               },
               {
                 "t": "p",
-                "x": "영상의학과 전문의가 감독한다면 범용-전문 AI로 워크리스트를 안전하게 후순위 조정할 수 있다는 근거다. 임상적 주의가 필요한 두개내 소견을 잡는 민감도도 높았다."
+                "x": "Evident는 고충실도 영상과 “용도에 맞춰 설계한 AI”, 끊김 없고 간단한 워크플로를 한데 묶어 임상의가 더 편하게 쓰도록 시스템을 설계했다고 말했다. 플러시가 필요 없는 플러그 앤 플레이 카테터와 “직관적인” 사용자 인터페이스, 핸즈프리 음성 제어도 갖췄다."
+              },
+              {
+                "t": "p",
+                "x": "“FDA 허가는 Evident와, 회사 설립 때부터 이 플랫폼을 믿어 준 의사들에게 중요한 이정표입니다.” Evident Vascular의 CEO 겸 공동창업자 Howard Rosen은 11월 4일 낸 성명에서 이렇게 말했다. “우리는 의사에게 필요한 영상 충실도를 직관적이고 쓰기 쉬운 시스템으로 제공하도록 영상 아키텍처 전체를 설계했습니다.”"
+              },
+              {
+                "t": "p",
+                "x": "회사에 따르면 시스템에는 넓은 주파수 대역폭과 첨단 트랜스듀서 설계, 첨단 신호 처리가 함께 들어갔다. 맞춤형 영상 전자장치에 실시간 처리를 더했고 NVIDIA 가속 컴퓨팅도 쓴다. AI는 영상 시스템 안에 통합돼 있으며, 사용 경험을 다듬으려고 사용자 데이터를 모은다. Evident는 검사와 워크플로를 더 낫게 할 AI 기능도 추가로 들여올 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "汎用AIと専門AIが\n正常な頭部CTsを後回し",
-          "body": "BrainCT-CLIPと専門検出器が照合し、正常な頭部CTsを高感度で後回しにする。",
-          "mini_headline": "AIの組み合わせで正常な頭部CTsを後回し",
+          "headline": "AI-powered血管内\n超音波をFDAが承認",
+          "body": "FDAは専用AIを備えたEvident Vascularの末梢IVUSを承認した。",
+          "mini_headline": "FDAがAI IVUSを承認",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "非造影頭部CT(NCCT)を安全に後回しにするには、臨床的対応が必要な一般的な所見とまれな所見の双方で、高い感度と陰性的中率(NPV)が求められる。本研究では、対照言語画像事前学習(CLIP)による汎用基盤モデルBrainCT-CLIPを商用検出器と統合した協調型セーフティネットを提示する。すべての検査は読影ワークフローに残り、いずれのモデルも陽性を返さなかった場合にのみ後回しにされた。"
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2020-01/carestream_3.jpg.webp?itok=2ti3yBTd"
               },
               {
                 "t": "p",
-                "x": "連続した救急・外傷コホート(n = 2001)を対象とする後ろ向き多施設外部検証では、商用検出器単独では所見のある検査324件中31件が後回しにされ、うち16件は対象疾患の偽陰性、15件は適応外の所見だった。これに対し協調システムは、開発コホートで事前に定めた閾値で所見のある検査をすべて拾い上げ、感度とNPVは100%に達し、検査の18%(368/2001; 95% CI, 17–20)を後回しにした。"
+                "x": "カリフォルニア州San Joseに本社を置くEvident Vascularによると、今回の承認は同社のGuidance SystemとEvident末梢イメージングカテーテルに適用される。これらは放射線科医などの医師が行う特定の末梢血管処置中に病変を検査するためのものだ。"
               },
               {
                 "t": "p",
-                "x": "これらの結果は、放射線科医の監督下で汎用AIと専門AIを組み合わせ、ワークリストを安全に後回し調整する手法を支持するもので、臨床的対応が必要な頭蓋内所見に対して高い感度を示した。"
+                "x": "Evidentによると、このシステムは高精細なイメージング、「専用設計のAI」、中断のないシンプルなワークフローを組み合わせ、臨床医の使用体験を改善するよう設計されている。フラッシュ不要のプラグアンドプレイ式カテーテル、「直感的な」ユーザーインターフェース、ハンズフリーの音声操作などを備える。"
+              },
+              {
+                "t": "p",
+                "x": "「FDAの承認は、Evidentと、創業当初からこのプラットフォームを信じてくれた医師にとって重要な節目だ」と、Evident VascularのCEO兼共同創業者Howard Rosenは11月4日の声明で述べた。「医師が必要とする画像の忠実度を、直感的で使いやすいシステムで提供するため、イメージングアーキテクチャ全体を設計した」"
+              },
+              {
+                "t": "p",
+                "x": "Evidentによると、このシステムは広い周波数帯域、先進的なトランスデューサー設計、高度な信号処理を統合している。独自のイメージング電子回路とリアルタイム処理を組み合わせ、NVIDIAのアクセラレーテッドコンピューティングを活用する。同社によれば、AIはイメージングシステムに組み込まれ、使用体験の改善に役立てるためユーザーデータを収集する。Evidentは、検査とワークフローをさらに向上させるため、AI機能を追加導入する計画だという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "通用与专科AI联手\n将正常头部CTs后置",
-          "body": "BrainCT-CLIP与专科检测器交叉核对，以高灵敏度将正常头部CTs移至列表后端。",
-          "mini_headline": "AI组合将正常头部CTs后置",
+          "headline": "AI-powered血管内\n超声获FDA批准",
+          "body": "FDA批准Evident Vascular的外周IVUS系统，其结合专用AI与实时处理。",
+          "mini_headline": "FDA批准AI IVUS系统",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "要安全地降低非增强头部CT(NCCT)的优先级，需要在需临床关注的常见与少见发现上都具备高灵敏度和高阴性预测值(NPV)。本研究提出一种协作式安全网，将通过对比语言-图像预训练(CLIP)构建的通用基础模型BrainCT-CLIP与商用检测器整合。所有检查都保留在报告流程中，仅当没有任何模型给出阳性结果时才降低优先级。"
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2020-01/carestream_3.jpg.webp?itok=2ti3yBTd"
               },
               {
                 "t": "p",
-                "x": "在对连续急诊和创伤队列(n = 2001)进行的回顾性多中心外部验证中，单独使用商用检测器时，324例有异常发现的检查中有31例被降低优先级，其中16例为目标疾病假阴性，15例超出其适应范围。相比之下，协作系统在开发队列预先设定的阈值下找回了全部异常检查，灵敏度和NPV均达100%，同时将18%的检查(368/2001; 95% CI, 17–20)降低优先级。"
+                "x": "总部位于加利福尼亚州San Jose的Evident Vascular表示，此次监管获批适用于其Guidance System和Evident外周成像导管。这些产品用于放射科医生及其他医生实施的特定外周血管手术中的病变检查。"
               },
               {
                 "t": "p",
-                "x": "这些结果支持在放射科医生监督下使用通用-专科AI安全地降低工作列表优先级，并对需临床关注的颅内发现保持高灵敏度。"
+                "x": "Evident表示，该系统结合高保真成像、“专门打造的AI”和不受干扰的简洁工作流程，旨在改善临床医生的使用体验。其特点包括免冲洗的即插即用导管、“直观的”用户界面以及免提语音控制。"
+              },
+              {
+                "t": "p",
+                "x": "“FDA批准对Evident以及自公司创立之初就信任这一平台的医生而言，是一个重要的里程碑，”Evident Vascular的CEO兼联合创始人Howard Rosen在11月4日的声明中表示。“我们设计了整个成像架构，以便在一个直观且易用的系统中提供医生所需的图像保真度。”"
+              },
+              {
+                "t": "p",
+                "x": "Evident表示，该系统集成了宽频带宽、先进的换能器设计和先进的信号处理，将定制成像电子元件与实时处理相结合，并借助NVIDIA加速计算。据该公司介绍，AI已集成到成像系统中，并收集用户数据以帮助改善使用体验。Evident表示，计划推出更多AI功能，以进一步提升检查和工作流程。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Dos AI, generalista y experta,\nrelegan CTs craneales normales",
-          "body": "BrainCT-CLIP y detectores expertos se verifican entre sí para relegar CTs craneales normales con alta sensibilidad.",
-          "mini_headline": "AI combinada relega CTs craneales normales",
+          "headline": "La FDA autoriza un ultrasonido\nintravascular AI-powered",
+          "body": "La FDA autorizó el sistema IVUS periférico de Evident Vascular, que une AI dedicada y procesamiento en tiempo real.",
+          "mini_headline": "La FDA autoriza un sistema IVUS con AI",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Relegar de forma segura las tomografías computarizadas cerebrales sin contraste (NCCT) exige alta sensibilidad y valor predictivo negativo (NPV) tanto en hallazgos frecuentes como infrecuentes que requieren atención clínica. Aquí presentamos una red de seguridad colaborativa que integra BrainCT-CLIP, un modelo fundacional generalista basado en preentrenamiento contrastivo lenguaje-imagen (CLIP), con detectores comerciales. Todos los estudios permanecieron en el flujo de informes y solo se relegaron cuando ningún modelo dio un resultado positivo."
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2020-01/carestream_3.jpg.webp?itok=2ti3yBTd"
               },
               {
                 "t": "p",
-                "x": "En una validación externa multicéntrica retrospectiva de cohortes consecutivas de urgencias y trauma (n = 2001), los detectores comerciales por sí solos dejaron relegados 31 de 324 estudios con hallazgos relevantes, incluidos 16 falsos negativos de la enfermedad objetivo y 15 fuera de sus indicaciones. En cambio, el sistema colaborativo recuperó todos los estudios con hallazgos relevantes con un umbral predefinido en la cohorte de desarrollo, con 100% de sensibilidad y NPV, y relegó el 18% de los estudios (368/2001; 95% CI, 17–20)."
+                "x": "Evident Vascular, con sede en San Jose, California, afirma que la autorización regulatoria se aplica a su Guidance System y a los catéteres de imagen periférica Evident. Están destinados al examen de la patología durante ciertos procedimientos vasculares periféricos realizados por radiólogos y otros médicos."
               },
               {
                 "t": "p",
-                "x": "Estos resultados respaldan el uso de AI generalista-especialista para relegar de forma segura estudios en la lista de trabajo bajo supervisión del radiólogo, con alta sensibilidad para hallazgos intracraneales que requieren atención clínica."
+                "x": "Evident afirma que el sistema está diseñado para mejorar la experiencia del clínico al combinar imágenes de alta fidelidad, “AI diseñada a medida” y flujos de trabajo sencillos y sin interrupciones. Entre sus características figuran catéteres plug-and-play sin lavado, una interfaz de usuario “intuitiva” y controles de voz manos libres."
+              },
+              {
+                "t": "p",
+                "x": "“La autorización de la FDA marca un hito importante para Evident y para los médicos que creyeron en esta plataforma desde el inicio de nuestra empresa”, dijo Howard Rosen, CEO y cofundador de Evident Vascular, en un comunicado el 4 de noviembre. “Diseñamos toda la arquitectura de imagen para ofrecer la fidelidad de imagen que los médicos necesitan en un sistema intuitivo y fácil de usar”."
+              },
+              {
+                "t": "p",
+                "x": "Evident señaló que su sistema integra un amplio ancho de banda de frecuencia, un diseño avanzado de transductor y un procesamiento de señal avanzado. Combina electrónica de imagen personalizada con procesamiento en tiempo real, aprovechando la computación acelerada de NVIDIA. Según la empresa, la AI está integrada en el sistema de imagen y recopila datos de los usuarios para ayudar a mejorar la experiencia. Evident indicó que planea incorporar más capacidades de AI para mejorar aún más los exámenes y los flujos de trabajo."
               }
             ]
           }
@@ -507,89 +525,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "범용·전문 AI가\n정상 두부 CTs 후순위로",
-          "body": "BrainCT-CLIP과 전문 검출기가 고민감도로 정상 두부 CTs를 미룬다.",
-          "mini_headline": "짝 이룬 AI, 정상 두부 CTs 후순위로",
+          "headline": "AI-powered 혈관내\n초음파 FDA 허가",
+          "body": "FDA가 전용 AI를 갖춘 Evident Vascular의 IVUS를 허가했다.",
+          "mini_headline": "FDA, AI IVUS 시스템 허가",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "조영제를 쓰지 않은 뇌 컴퓨터단층촬영(NCCT)을 안전하게 후순위로 돌리려면, 임상적 주의가 필요한 흔한 소견과 드문 소견 모두에서 높은 민감도와 음성예측도(NPV)가 필요하다. 연구진은 대조 언어-이미지 사전학습(CLIP)으로 만든 범용 파운데이션 모델 BrainCT-CLIP을 상용 검출기와 결합한 협업 안전망을 제시한다. 모든 검사는 판독 워크플로에 남아 있었고, 어떤 모델도 양성 결과를 내지 않은 경우에만 후순위로 밀렸다."
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2020-01/carestream_3.jpg.webp?itok=2ti3yBTd"
               },
               {
                 "t": "p",
-                "x": "연속된 응급·외상 코호트(n = 2001)를 대상으로 한 후향적 다기관 외부 검증에서, 상용 검출기만 쓰면 이상 소견이 있는 검사 324건 중 31건이 후순위로 밀렸다. 이 중 16건은 대상 질환 위음성이었고 15건은 검출기 적응증 밖의 소견이었다. 반면 협업 시스템은 개발 코호트에서 미리 정한 임계값으로 이상 소견 검사를 모두 되찾아 민감도와 NPV 100%를 달성했으며, 전체 검사의 18%(368/2001; 95% CI, 17–20)를 후순위로 돌렸다."
+                "x": "캘리포니아주 San Jose에 본사를 둔 Evident Vascular는 이번 규제 승인이 자사 Guidance System과 Evident 말초 영상 카테터에 적용된다고 밝혔다. 이 제품들은 영상의학과 의사 등이 시행하는 특정 말초혈관 시술 중 병변을 검사하는 용도다."
               },
               {
                 "t": "p",
-                "x": "이 결과는 영상의학과 전문의의 감독 아래 범용-전문 AI로 워크리스트를 안전하게 후순위 조정하는 방식을 뒷받침하며, 임상적 주의가 필요한 두개내 소견에 대한 민감도가 높다."
+                "x": "Evident는 이 시스템이 고충실도 영상, “용도에 맞춰 설계한 AI”, 끊김 없는 간단한 워크플로를 결합해 임상의의 사용 경험을 개선하도록 설계됐다고 말했다. 플러시가 필요 없는 플러그 앤 플레이 카테터, “직관적인” 사용자 인터페이스, 핸즈프리 음성 제어 등을 갖췄다."
+              },
+              {
+                "t": "p",
+                "x": "“FDA 허가는 Evident와, 회사 설립 때부터 이 플랫폼을 믿어 준 의사들에게 중요한 이정표입니다.” Evident Vascular의 CEO 겸 공동창업자 Howard Rosen은 11월 4일 성명에서 이렇게 말했다. “우리는 의사에게 필요한 영상 충실도를 직관적이고 쓰기 쉬운 시스템으로 제공하도록 영상 아키텍처 전체를 설계했습니다.”"
+              },
+              {
+                "t": "p",
+                "x": "Evident는 이 시스템이 넓은 주파수 대역폭, 첨단 트랜스듀서 설계, 첨단 신호 처리를 통합했다고 밝혔다. 맞춤형 영상 전자장치와 실시간 처리를 결합했으며, NVIDIA 가속 컴퓨팅을 활용한다. 회사에 따르면 AI는 영상 시스템에 통합돼 있으며 사용 경험 개선을 위해 사용자 데이터를 수집한다. Evident는 검사와 워크플로를 한층 개선하기 위해 AI 기능을 추가로 도입할 계획이라고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "汎用AIと専門AIが\n正常な頭部CTsを後回し",
-          "body": "BrainCT-CLIPと専門検出器が照合し、正常な頭部CTsを高感度で後回しにする。",
-          "mini_headline": "AIの組み合わせで正常な頭部CTsを後回し",
+          "headline": "AI-powered血管内\n超音波をFDAが承認",
+          "body": "FDAは専用AIを備えたEvident Vascularの末梢IVUSを承認した。",
+          "mini_headline": "FDAがAI IVUSを承認",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "非造影頭部CT(NCCT)を安全に後回しにするには、臨床的対応が必要な一般的な所見とまれな所見の双方で、高い感度と陰性的中率(NPV)が求められる。本研究では、対照言語画像事前学習(CLIP)による汎用基盤モデルBrainCT-CLIPを商用検出器と統合した協調型セーフティネットを提示する。すべての検査は読影ワークフローに残り、いずれのモデルも陽性を返さなかった場合にのみ後回しにされた。"
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2020-01/carestream_3.jpg.webp?itok=2ti3yBTd"
               },
               {
                 "t": "p",
-                "x": "連続した救急・外傷コホート(n = 2001)を対象とする後ろ向き多施設外部検証では、商用検出器単独では所見のある検査324件中31件が後回しにされ、うち16件は対象疾患の偽陰性、15件は適応外の所見だった。これに対し協調システムは、開発コホートで事前に定めた閾値で所見のある検査をすべて拾い上げ、感度とNPVは100%に達し、検査の18%(368/2001; 95% CI, 17–20)を後回しにした。"
+                "x": "カリフォルニア州San Joseに本社を置くEvident Vascularによると、今回の承認は同社のGuidance SystemとEvident末梢イメージングカテーテルに適用される。これらは放射線科医などの医師が行う特定の末梢血管処置中に病変を検査するためのものだ。"
               },
               {
                 "t": "p",
-                "x": "これらの結果は、放射線科医の監督下で汎用AIと専門AIを組み合わせ、ワークリストを安全に後回し調整する手法を支持するもので、臨床的対応が必要な頭蓋内所見に対して高い感度を示した。"
+                "x": "Evidentによると、このシステムは高精細なイメージング、「専用設計のAI」、中断のないシンプルなワークフローを組み合わせ、臨床医の使用体験を改善するよう設計されている。フラッシュ不要のプラグアンドプレイ式カテーテル、「直感的な」ユーザーインターフェース、ハンズフリーの音声操作などを備える。"
+              },
+              {
+                "t": "p",
+                "x": "「FDAの承認は、Evidentと、創業当初からこのプラットフォームを信じてくれた医師にとって重要な節目だ」と、Evident VascularのCEO兼共同創業者Howard Rosenは11月4日の声明で述べた。「医師が必要とする画像の忠実度を、直感的で使いやすいシステムで提供するため、イメージングアーキテクチャ全体を設計した」"
+              },
+              {
+                "t": "p",
+                "x": "Evidentによると、このシステムは広い周波数帯域、先進的なトランスデューサー設計、高度な信号処理を統合している。独自のイメージング電子回路とリアルタイム処理を組み合わせ、NVIDIAのアクセラレーテッドコンピューティングを活用する。同社によれば、AIはイメージングシステムに組み込まれ、使用体験の改善に役立てるためユーザーデータを収集する。Evidentは、検査とワークフローをさらに向上させるため、AI機能を追加導入する計画だという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "通用与专科AI联手\n将正常头部CTs后置",
-          "body": "BrainCT-CLIP与专科检测器交叉核对，以高灵敏度将正常头部CTs移至列表后端。",
-          "mini_headline": "AI组合将正常头部CTs后置",
+          "headline": "AI-powered血管内\n超声获FDA批准",
+          "body": "FDA批准Evident Vascular的外周IVUS系统，其结合专用AI与实时处理。",
+          "mini_headline": "FDA批准AI IVUS系统",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "要安全地降低非增强头部CT(NCCT)的优先级，需要在需临床关注的常见与少见发现上都具备高灵敏度和高阴性预测值(NPV)。本研究提出一种协作式安全网，将通过对比语言-图像预训练(CLIP)构建的通用基础模型BrainCT-CLIP与商用检测器整合。所有检查都保留在报告流程中，仅当没有任何模型给出阳性结果时才降低优先级。"
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2020-01/carestream_3.jpg.webp?itok=2ti3yBTd"
               },
               {
                 "t": "p",
-                "x": "在对连续急诊和创伤队列(n = 2001)进行的回顾性多中心外部验证中，单独使用商用检测器时，324例有异常发现的检查中有31例被降低优先级，其中16例为目标疾病假阴性，15例超出其适应范围。相比之下，协作系统在开发队列预先设定的阈值下找回了全部异常检查，灵敏度和NPV均达100%，同时将18%的检查(368/2001; 95% CI, 17–20)降低优先级。"
+                "x": "总部位于加利福尼亚州San Jose的Evident Vascular表示，此次监管获批适用于其Guidance System和Evident外周成像导管。这些产品用于放射科医生及其他医生实施的特定外周血管手术中的病变检查。"
               },
               {
                 "t": "p",
-                "x": "这些结果支持在放射科医生监督下使用通用-专科AI安全地降低工作列表优先级，并对需临床关注的颅内发现保持高灵敏度。"
+                "x": "Evident表示，该系统结合高保真成像、“专门打造的AI”和不受干扰的简洁工作流程，旨在改善临床医生的使用体验。其特点包括免冲洗的即插即用导管、“直观的”用户界面以及免提语音控制。"
+              },
+              {
+                "t": "p",
+                "x": "“FDA批准对Evident以及自公司创立之初就信任这一平台的医生而言，是一个重要的里程碑，”Evident Vascular的CEO兼联合创始人Howard Rosen在11月4日的声明中表示。“我们设计了整个成像架构，以便在一个直观且易用的系统中提供医生所需的图像保真度。”"
+              },
+              {
+                "t": "p",
+                "x": "Evident表示，该系统集成了宽频带宽、先进的换能器设计和先进的信号处理，将定制成像电子元件与实时处理相结合，并借助NVIDIA加速计算。据该公司介绍，AI已集成到成像系统中，并收集用户数据以帮助改善使用体验。Evident表示，计划推出更多AI功能，以进一步提升检查和工作流程。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Dos AI, generalista y experta,\nrelegan CTs craneales normales",
-          "body": "BrainCT-CLIP y detectores expertos se verifican entre sí para relegar CTs craneales normales con alta sensibilidad.",
-          "mini_headline": "AI combinada relega CTs craneales normales",
+          "headline": "La FDA autoriza un ultrasonido\nintravascular AI-powered",
+          "body": "La FDA autorizó el sistema IVUS periférico de Evident Vascular, que une AI dedicada y procesamiento en tiempo real.",
+          "mini_headline": "La FDA autoriza un sistema IVUS con AI",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Relegar de forma segura las tomografías computarizadas cerebrales sin contraste (NCCT) exige alta sensibilidad y valor predictivo negativo (NPV) tanto en hallazgos frecuentes como infrecuentes que requieren atención clínica. Aquí presentamos una red de seguridad colaborativa que integra BrainCT-CLIP, un modelo fundacional generalista basado en preentrenamiento contrastivo lenguaje-imagen (CLIP), con detectores comerciales. Todos los estudios permanecieron en el flujo de informes y solo se relegaron cuando ningún modelo dio un resultado positivo."
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2020-01/carestream_3.jpg.webp?itok=2ti3yBTd"
               },
               {
                 "t": "p",
-                "x": "En una validación externa multicéntrica retrospectiva de cohortes consecutivas de urgencias y trauma (n = 2001), los detectores comerciales por sí solos dejaron relegados 31 de 324 estudios con hallazgos relevantes, incluidos 16 falsos negativos de la enfermedad objetivo y 15 fuera de sus indicaciones. En cambio, el sistema colaborativo recuperó todos los estudios con hallazgos relevantes con un umbral predefinido en la cohorte de desarrollo, con 100% de sensibilidad y NPV, y relegó el 18% de los estudios (368/2001; 95% CI, 17–20)."
+                "x": "Evident Vascular, con sede en San Jose, California, afirma que la autorización regulatoria se aplica a su Guidance System y a los catéteres de imagen periférica Evident. Están destinados al examen de la patología durante ciertos procedimientos vasculares periféricos realizados por radiólogos y otros médicos."
               },
               {
                 "t": "p",
-                "x": "Estos resultados respaldan el uso de AI generalista-especialista para relegar de forma segura estudios en la lista de trabajo bajo supervisión del radiólogo, con alta sensibilidad para hallazgos intracraneales que requieren atención clínica."
+                "x": "Evident afirma que el sistema está diseñado para mejorar la experiencia del clínico al combinar imágenes de alta fidelidad, “AI diseñada a medida” y flujos de trabajo sencillos y sin interrupciones. Entre sus características figuran catéteres plug-and-play sin lavado, una interfaz de usuario “intuitiva” y controles de voz manos libres."
+              },
+              {
+                "t": "p",
+                "x": "“La autorización de la FDA marca un hito importante para Evident y para los médicos que creyeron en esta plataforma desde el inicio de nuestra empresa”, dijo Howard Rosen, CEO y cofundador de Evident Vascular, en un comunicado el 4 de noviembre. “Diseñamos toda la arquitectura de imagen para ofrecer la fidelidad de imagen que los médicos necesitan en un sistema intuitivo y fácil de usar”."
+              },
+              {
+                "t": "p",
+                "x": "Evident señaló que su sistema integra un amplio ancho de banda de frecuencia, un diseño avanzado de transductor y un procesamiento de señal avanzado. Combina electrónica de imagen personalizada con procesamiento en tiempo real, aprovechando la computación acelerada de NVIDIA. Según la empresa, la AI está integrada en el sistema de imagen y recopila datos de los usuarios para ayudar a mejorar la experiencia. Evident indicó que planea incorporar más capacidades de AI para mejorar aún más los exámenes y los flujos de trabajo."
               }
             ]
           }
@@ -597,15 +647,15 @@
       }
     },
     {
-      "id": "medicine-fda-510k-ai-updates",
+      "id": "jama-scribes-language-equity",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "FDA-cleared AI\n기기 셋 중 하나 갱신",
-      "body": "510(k) AI 163개 중 56개(34.4%) 갱신, 85.7%는 근거 없다.",
-      "mini_headline": "FDA-cleared AI 기기 업데이트 추적",
+      "headline": "AI 스크라이브 효과\nnon-English 최대",
+      "body": "209,009건 중 AI 스크라이브 효과는 언어 일치 비영어 진료가 가장 컸다.",
+      "mini_headline": "AI 스크라이브와 언어",
       "tool": "Medicine",
       "source": "JAMA Network Open",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41071",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.42403",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -613,173 +663,149 @@
         "blocks": [
           {
             "t": "p",
-            "x": "이 단면 연구는 2025년 3월 31일까지의 공개 FDA 510(k) 데이터베이스를 써서 식품의약국(Food and Drug Administration, FDA) 510(k) 경로로 허가받은 인공지능(AI)/머신러닝 기반 의료기기가 어떻게 업데이트되고 보고됐는지 들여다봤다."
+            "x": "AI 스크라이브는 문서 작성 부담을 덜고 진료 기록 마감을 앞당기는 것과 관련이 있다고 알려졌지만, 형평성에 어떤 영향을 주는지는 거의 연구되지 않았다. Brigham and Women's Hospital과 Harvard Medical School 연구진은 환자의 선호 언어와 통역사 이용 여부로 진료 유형을 나눠 당일 기록 마감을 살폈다."
           },
           {
             "t": "p",
-            "x": "대상은 AI/ML 사용을 명시한 고유 기기 163개로, 대부분(89.0%)이 의료영상 데이터를 분석했다. 56개(34.4%)가 AI/ML 알고리즘 업데이트를 1회 이상 받았다. 첫 업데이트까지 걸린 시간은 중앙값(IQR) 1.8(0.9-2.5)년이었다."
+            "x": "단면 연구 대상은 2025년 5월부터 2026년 5월까지 보스턴 클리닉 14곳의 성인 일차의료 대면 진료였다. 진료 209,009건, 환자 117,121명, 임상의 286명이 들어갔고, 스크라이브를 쓸지는 임상의가 진료마다 직접 정했다."
           },
           {
             "t": "p",
-            "x": "업데이트된 기기 중 42개(75.0%)는 이전 버전보다 사용 방식이 바뀐 업데이트를 1회 이상 거쳤고, 9개(16.1%)는 성능만 개선됐다."
+            "x": "보정하고 나면 AI 스크라이브 사용은 영어 외 언어를 선호하는(non-English-preference) 언어 일치 진료에서 당일 기록 마감률 10.2퍼센트포인트, 영어 일치 진료에서 1.7퍼센트포인트 상승과 관련이 있었다. 통역을 거친 진료와 통역 없는 진료는 신뢰구간이 넓어 결론이 나지 않았다."
           },
           {
             "t": "p",
-            "x": "보고는 들쭉날쭉했다. 업데이트된 기기의 42.9%는 참여자 정보가, 26.8%는 표본 크기가 빠져 있었다. 48개(85.7%)는 업데이트 관련 항목 어디에도 임상적·조직적 이점을 적지 않았다."
-          },
-          {
-            "t": "p",
-            "x": "저자들은 보고 표준화와 배포 후 모니터링을 주문했다. FDA의 사전 변경관리계획(Predetermined Change Control Plan)을 쓰면 개발사가 일부 변경을 새 신청 없이 미리 지정해 둘 수 있다는 점도 짚었다."
+            "x": "연구진은 화자가 여럿이거나 언어가 바뀌는 복잡한 대화에서 스크라이브 성능이 떨어진다는 점이 통역 진료 결과를 설명할 수 있다고 봤다. 이중언어 인력 양성에 투자하고 통역 진료 워크플로 지원도 늘려야 한다는 게 연구진의 주문이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A third of FDA-cleared AI\ndevices got algorithm updates",
-          "body": "Of 163 FDA 510(k)-cleared AI devices, 56 (34.4%) had algorithm updates; 85.7% of those gave no clinical-benefit data.",
-          "mini_headline": "Tracking updates to\nFDA-cleared AI devices",
+          "headline": "AI scribes lift note closure\nmost in non-English visits",
+          "body": "Across 209,009 visits, AI scribes lifted note closure most in non-English visits with a language-concordant clinician.",
+          "mini_headline": "AI scribes and language",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "This cross-sectional study investigated characteristics and reporting of updates to artificial intelligence (AI)/machine learning–based medical devices cleared through the Food and Drug Administration (FDA) 510(k) pathway, using the public FDA 510(k) database through March 31, 2025."
+                "x": "AI scribes have been linked to lower documentation burden and faster note closure, but their equity impact is poorly studied. Researchers at Brigham and Women's Hospital and Harvard Medical School examined same-day note closure across encounter types defined by patient language preference and interpreter use."
               },
               {
                 "t": "p",
-                "x": "The study included 163 unique devices that explicitly reported using AI/ML; most (89.0%) analyzed medical imaging data. Among these devices, 56 (34.4%) received at least 1 update to their AI/ML algorithm, with a median (IQR) time until first update of 1.8 (0.9-2.5) years."
+                "x": "The cross-sectional study covered in-person adult primary care encounters at 14 clinics in Boston from May 2025 to May 2026: 209,009 encounters, 117,121 patients and 286 clinicians, who chose whether to use the scribe for each encounter."
               },
               {
                 "t": "p",
-                "x": "Of the updated devices, 42 (75.0%) received at least 1 update that changed their usage compared with the previous version; 9 (16.1%) had updates that only improved performance."
+                "x": "After adjustment, AI scribe use was associated with higher same-day note closure for non-English-preference, language-concordant encounters (10.2 percentage points) and English-concordant encounters (1.7 percentage points). Results for interpreter-mediated and no-interpreter encounters were inconclusive because of wide confidence intervals."
               },
               {
                 "t": "p",
-                "x": "Reporting was inconsistent: participant information was absent for 42.9% of updated devices and sample size for 26.8%, and 48 devices (85.7%) provided no information on clinical or organizational benefit in any entry related to their updates."
-              },
-              {
-                "t": "p",
-                "x": "The authors call for standardized reporting and postdeployment monitoring, noting that the FDA Predetermined Change Control Plan lets developers prespecify some changes without a new submission."
+                "x": "The authors suggest lower scribe performance in complex conversations, such as those with multiple speakers or language switching, may explain the interpreter findings, and call for investment in bilingual workforce development and better support for interpreter-mediated workflows."
               }
             ]
           }
         },
         "ko": {
-          "headline": "FDA-cleared AI\n기기 셋 중 하나 갱신",
-          "body": "510(k) AI 163개 중 56개(34.4%) 갱신, 85.7%는 근거 없다.",
-          "mini_headline": "FDA-cleared AI 기기 업데이트 추적",
+          "headline": "AI 스크라이브 효과\nnon-English 최대",
+          "body": "209,009건 중 AI 스크라이브 효과는 언어 일치 비영어 진료가 가장 컸다.",
+          "mini_headline": "AI 스크라이브와 언어",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "이 단면 연구는 2025년 3월 31일까지의 공개 FDA 510(k) 데이터베이스를 써서 식품의약국(Food and Drug Administration, FDA) 510(k) 경로로 허가받은 인공지능(AI)/머신러닝 기반 의료기기가 어떻게 업데이트되고 보고됐는지 들여다봤다."
+                "x": "AI 스크라이브는 문서 작성 부담을 덜고 진료 기록 마감을 앞당기는 것과 관련이 있다고 알려졌지만, 형평성에 어떤 영향을 주는지는 거의 연구되지 않았다. Brigham and Women's Hospital과 Harvard Medical School 연구진은 환자의 선호 언어와 통역사 이용 여부로 진료 유형을 나눠 당일 기록 마감을 살폈다."
               },
               {
                 "t": "p",
-                "x": "대상은 AI/ML 사용을 명시한 고유 기기 163개로, 대부분(89.0%)이 의료영상 데이터를 분석했다. 56개(34.4%)가 AI/ML 알고리즘 업데이트를 1회 이상 받았다. 첫 업데이트까지 걸린 시간은 중앙값(IQR) 1.8(0.9-2.5)년이었다."
+                "x": "단면 연구 대상은 2025년 5월부터 2026년 5월까지 보스턴 클리닉 14곳의 성인 일차의료 대면 진료였다. 진료 209,009건, 환자 117,121명, 임상의 286명이 들어갔고, 스크라이브를 쓸지는 임상의가 진료마다 직접 정했다."
               },
               {
                 "t": "p",
-                "x": "업데이트된 기기 중 42개(75.0%)는 이전 버전보다 사용 방식이 바뀐 업데이트를 1회 이상 거쳤고, 9개(16.1%)는 성능만 개선됐다."
+                "x": "보정하고 나면 AI 스크라이브 사용은 영어 외 언어를 선호하는(non-English-preference) 언어 일치 진료에서 당일 기록 마감률 10.2퍼센트포인트, 영어 일치 진료에서 1.7퍼센트포인트 상승과 관련이 있었다. 통역을 거친 진료와 통역 없는 진료는 신뢰구간이 넓어 결론이 나지 않았다."
               },
               {
                 "t": "p",
-                "x": "보고는 들쭉날쭉했다. 업데이트된 기기의 42.9%는 참여자 정보가, 26.8%는 표본 크기가 빠져 있었다. 48개(85.7%)는 업데이트 관련 항목 어디에도 임상적·조직적 이점을 적지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "저자들은 보고 표준화와 배포 후 모니터링을 주문했다. FDA의 사전 변경관리계획(Predetermined Change Control Plan)을 쓰면 개발사가 일부 변경을 새 신청 없이 미리 지정해 둘 수 있다는 점도 짚었다."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "FDA-cleared AI\n设备三分之一算法更新",
-          "body": "163款FDA 510(k) AI设备中56款(34.4%)更新，85.7%无获益数据。",
-          "mini_headline": "追踪FDA-cleared AI设备的更新",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "这项横断面研究利用截至2025年3月31日的公开FDA 510(k)数据库，调查了经食品药品监督管理局(Food and Drug Administration, FDA) 510(k)途径获批的人工智能(AI)/机器学习医疗器械的更新特征及报告情况。"
-              },
-              {
-                "t": "p",
-                "x": "研究纳入163款明确报告使用AI/ML的独立器械，其中大多数(89.0%)分析医学影像数据。在这些器械中，56款(34.4%)的AI/ML算法至少更新过1次，首次更新的中位时间(IQR)为1.8(0.9-2.5)年。"
-              },
-              {
-                "t": "p",
-                "x": "在已更新的器械中，42款(75.0%)至少有1次更新相较前一版本改变了用途；9款(16.1%)的更新仅提升了性能。"
-              },
-              {
-                "t": "p",
-                "x": "报告情况参差不齐：42.9%的已更新器械缺少受试者信息，26.8%缺少样本量；48款(85.7%)在任何与更新相关的条目中都未提供临床或组织层面获益的信息。"
-              },
-              {
-                "t": "p",
-                "x": "作者呼吁建立标准化报告和部署后监测，并指出FDA的预定变更控制计划(Predetermined Change Control Plan)允许开发者预先指定部分变更，而无需重新提交申请。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un tercio de los equipos de AI\nFDA-cleared cambió su algoritmo",
-          "body": "De 163 equipos AI con 510(k) de la FDA, 56 (34.4%) se actualizaron y el 85.7% de ellos no aportó datos de beneficio.",
-          "mini_headline": "Actualizaciones de dispositivos AI FDA-cleared",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Este estudio transversal investigó las características y la notificación de las actualizaciones de dispositivos médicos basados en inteligencia artificial (AI)/aprendizaje automático autorizados por la vía 510(k) de la Food and Drug Administration (FDA), con la base de datos pública FDA 510(k) hasta el 31 de marzo de 2025."
-              },
-              {
-                "t": "p",
-                "x": "El estudio incluyó 163 dispositivos únicos que declaraban explícitamente usar AI/ML; la mayoría (89.0%) analizaba datos de imagen médica. De ellos, 56 (34.4%) recibieron al menos 1 actualización de su algoritmo de AI/ML, con una mediana (IQR) hasta la primera actualización de 1.8 (0.9-2.5) años."
-              },
-              {
-                "t": "p",
-                "x": "De los dispositivos actualizados, 42 (75.0%) recibieron al menos 1 actualización que cambió su uso respecto de la versión anterior; 9 (16.1%) tuvieron actualizaciones que solo mejoraron el rendimiento."
-              },
-              {
-                "t": "p",
-                "x": "La notificación fue irregular: faltaba información de los participantes en el 42.9% de los dispositivos actualizados y el tamaño muestral en el 26.8%, y 48 dispositivos (85.7%) no aportaron información sobre beneficios clínicos u organizativos en ninguna entrada relacionada con sus actualizaciones."
-              },
-              {
-                "t": "p",
-                "x": "Los autores piden una notificación estandarizada y un seguimiento posterior al despliegue, y señalan que el Predetermined Change Control Plan de la FDA permite a los desarrolladores predefinir algunos cambios sin una nueva solicitud."
+                "x": "연구진은 화자가 여럿이거나 언어가 바뀌는 복잡한 대화에서 스크라이브 성능이 떨어진다는 점이 통역 진료 결과를 설명할 수 있다고 봤다. 이중언어 인력 양성에 투자하고 통역 진료 워크플로 지원도 늘려야 한다는 게 연구진의 주문이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "FDA-cleared AI\n機器の三分の一が更新",
-          "body": "FDA 510(k)のAI機器163件中56件(34.4%)が更新、85.7%は利益未記載。",
-          "mini_headline": "FDA-cleared AI機器の更新を追跡",
+          "headline": "AIスクライブの効果\nnon-Englishで最大",
+          "body": "209,009件の診療で、AIスクライブは言語一致の非英語診療で記録完了を最も高めた。",
+          "mini_headline": "AIスクライブと言語",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "この横断研究は、2025年3月31日までの公開FDA 510(k)データベースを用い、食品医薬品局(Food and Drug Administration、FDA)の510(k)経路で承認された人工知能(AI)/機械学習ベースの医療機器について、アップデートの特徴と報告状況を調べた。"
+                "x": "AIスクライブは文書作成負担の軽減や診療記録の早期完了と関連づけられてきたが、公平性への影響はほとんど研究されていない。Brigham and Women's HospitalとHarvard Medical Schoolの研究チームは、患者の希望言語と通訳の利用有無で分けた診療タイプごとに、当日の記録完了を調べた。"
               },
               {
                 "t": "p",
-                "x": "対象はAI/MLの使用を明記した163の固有機器で、大半(89.0%)は医用画像データを解析していた。このうち56機器(34.4%)がAI/MLアルゴリズムの更新を1回以上受け、初回更新までの期間の中央値(IQR)は1.8(0.9-2.5)年だった。"
+                "x": "この横断研究は、2025年5月から2026年5月までにボストンの14のクリニックで行われた成人プライマリケアの対面診療を対象とした。診療209,009件、患者117,121人、臨床医286人で、臨床医は診療ごとにスクライブを使うかどうかを選んだ。"
               },
               {
                 "t": "p",
-                "x": "更新された機器のうち42機器(75.0%)は前バージョンと比べて使用法を変える更新を1回以上受け、9機器(16.1%)は性能向上のみの更新だった。"
+                "x": "調整後、AIスクライブの使用は、英語以外を希望する（non-English-preference）言語一致の診療で当日記録完了率が10.2パーセントポイント、英語一致の診療で1.7パーセントポイント高いことと関連していた。通訳を介した診療と通訳なしの診療については、信頼区間が広く結論が出なかった。"
               },
               {
                 "t": "p",
-                "x": "報告には一貫性がなかった。更新機器の42.9%で参加者情報が、26.8%でサンプルサイズが欠けており、48機器(85.7%)は更新に関するどの記載でも臨床的・組織的な利益に関する情報を示していなかった。"
+                "x": "著者らは、複数の話者や言語の切り替えを含む複雑な会話でスクライブの性能が下がることが通訳診療の結果を説明しうるとし、バイリンガル人材の育成への投資と、通訳を介したワークフローへの支援強化を求めている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI病历助手效果\nnon-English最显著",
+          "body": "在209,009次诊疗中，AI病历助手对语言一致的非英语诊疗病历完成率提升最大。",
+          "mini_headline": "AI病历助手与语言",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "AI病历助手被认为可减轻文书负担、加快病历完成，但其对公平性的影响鲜有研究。Brigham and Women's Hospital与Harvard Medical School的研究人员按患者语言偏好和是否使用口译员划分就诊类型，考察了当日病历完成情况。"
               },
               {
                 "t": "p",
-                "x": "著者らは標準化された報告と展開後のモニタリングを求め、FDAの事前変更管理計画(Predetermined Change Control Plan)により開発者が一部の変更を新たな申請なしに事前指定できる点を指摘した。"
+                "x": "这项横断面研究覆盖2025年5月至2026年5月波士顿14家诊所的成人初级保健面诊，共209,009次就诊、117,121名患者和286名临床医生，医生可自行决定每次就诊是否使用该助手。"
+              },
+              {
+                "t": "p",
+                "x": "经调整后，使用AI病历助手与非英语偏好（non-English-preference）、语言一致就诊的当日病历完成率提高10.2个百分点相关，在英语一致的就诊中则提高1.7个百分点。由于置信区间较宽，口译介导就诊和无口译就诊的结果尚无定论。"
+              },
+              {
+                "t": "p",
+                "x": "作者认为，在多人说话或语言切换等复杂对话中助手表现较差，可能解释了口译相关结果，并呼吁投资培养双语人才，加强对口译介导工作流程的支持。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Escribas de IA cierran más notas\nen visitas non-English",
+          "body": "En 209.009 visitas, los escribas de IA elevaron más el cierre de notas en consultas no inglesas con médico concordante.",
+          "mini_headline": "Escribas de IA e idioma",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Los escribas de IA se han asociado con una menor carga de documentación y un cierre más rápido de las notas, pero su impacto en la equidad apenas se ha estudiado. Investigadores de Brigham and Women's Hospital y Harvard Medical School examinaron el cierre de notas en el mismo día según tipos de consulta definidos por la preferencia lingüística del paciente y el uso de intérprete."
+              },
+              {
+                "t": "p",
+                "x": "El estudio transversal abarcó consultas presenciales de atención primaria de adultos en 14 clínicas de Boston entre mayo de 2025 y mayo de 2026: 209.009 consultas, 117.121 pacientes y 286 clínicos, que decidían en cada consulta si usaban el escriba."
+              },
+              {
+                "t": "p",
+                "x": "Tras el ajuste, el uso del escriba de IA se asoció con un mayor cierre de notas en el mismo día en las consultas non-English-preference con concordancia lingüística (10,2 puntos porcentuales) y en las consultas concordantes en inglés (1,7 puntos porcentuales). Los resultados de las consultas con intérprete y sin intérprete no fueron concluyentes por la amplitud de los intervalos de confianza."
+              },
+              {
+                "t": "p",
+                "x": "Los autores sugieren que el menor rendimiento del escriba en conversaciones complejas, como las que tienen varios interlocutores o cambios de idioma, podría explicar los resultados con intérprete, y piden invertir en la formación de personal bilingüe y apoyar mejor los flujos de trabajo con intérprete."
               }
             ]
           }
@@ -787,121 +813,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "FDA-cleared AI\n기기 셋 중 하나 갱신",
-          "body": "510(k) AI 163개 중 56개(34.4%) 갱신, 85.7%는 근거 없다.",
-          "mini_headline": "FDA-cleared AI 기기 업데이트 추적",
+          "headline": "AI 스크라이브 효과\nnon-English 최대",
+          "body": "209,009건 중 AI 스크라이브 효과는 언어 일치 비영어 진료에서 가장 컸다.",
+          "mini_headline": "AI 스크라이브와 언어",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "이 단면 연구는 2025년 3월 31일까지의 공개 FDA 510(k) 데이터베이스를 이용해, 식품의약국(Food and Drug Administration, FDA) 510(k) 경로로 허가된 인공지능(AI)/머신러닝 기반 의료기기의 업데이트 특성과 보고 실태를 조사했다."
+                "x": "AI 스크라이브는 문서 작성 부담을 줄이고 진료 기록 마감을 앞당기는 것과 관련이 있지만, 형평성에 미치는 영향은 거의 연구되지 않았다. Brigham and Women's Hospital과 Harvard Medical School 연구진은 환자의 선호 언어와 통역사 이용 여부로 나눈 진료 유형별로 당일 기록 마감을 살폈다."
               },
               {
                 "t": "p",
-                "x": "연구에는 AI/ML 사용을 명시한 고유 기기 163개가 포함됐으며, 대부분(89.0%)은 의료영상 데이터를 분석했다. 이 중 56개(34.4%)가 AI/ML 알고리즘 업데이트를 1회 이상 받았고, 첫 업데이트까지 걸린 시간의 중앙값(IQR)은 1.8(0.9-2.5)년이었다."
+                "x": "이 단면 연구는 2025년 5월부터 2026년 5월까지 보스턴의 클리닉 14곳에서 이뤄진 성인 일차의료 대면 진료를 대상으로 했다. 진료 209,009건, 환자 117,121명, 임상의 286명이 포함됐으며, 임상의는 진료마다 스크라이브 사용 여부를 직접 골랐다."
               },
               {
                 "t": "p",
-                "x": "업데이트된 기기 가운데 42개(75.0%)는 이전 버전과 비교해 사용 방식이 바뀐 업데이트를 1회 이상 받았고, 9개(16.1%)는 성능 개선만 이뤄진 업데이트를 받았다."
+                "x": "보정 후 AI 스크라이브 사용은 영어 외 언어를 선호하는(non-English-preference) 언어 일치 진료에서 당일 기록 마감률이 10.2퍼센트포인트, 영어 일치 진료에서 1.7퍼센트포인트 높은 것과 관련이 있었다. 통역을 거친 진료와 통역 없는 진료의 결과는 신뢰구간이 넓어 결론을 내리지 못했다."
               },
               {
                 "t": "p",
-                "x": "보고는 일관되지 않았다. 업데이트된 기기의 42.9%는 참여자 정보가, 26.8%는 표본 크기가 빠져 있었고, 48개(85.7%)는 업데이트 관련 어떤 항목에서도 임상적·조직적 이점에 관한 정보를 제공하지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "저자들은 표준화된 보고와 배포 후 모니터링을 촉구하며, FDA의 사전 변경관리계획(Predetermined Change Control Plan)으로 개발사가 일부 변경을 새 신청 없이 미리 지정할 수 있다고 짚었다."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "FDA-cleared AI\n设备三分之一算法更新",
-          "body": "163款FDA 510(k) AI设备中56款(34.4%)更新，85.7%无获益数据。",
-          "mini_headline": "追踪FDA-cleared AI设备的更新",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "这项横断面研究利用截至2025年3月31日的公开FDA 510(k)数据库，调查了经食品药品监督管理局(Food and Drug Administration, FDA) 510(k)途径获批的人工智能(AI)/机器学习医疗器械的更新特征及报告情况。"
-              },
-              {
-                "t": "p",
-                "x": "研究纳入163款明确报告使用AI/ML的独立器械，其中大多数(89.0%)分析医学影像数据。在这些器械中，56款(34.4%)的AI/ML算法至少更新过1次，首次更新的中位时间(IQR)为1.8(0.9-2.5)年。"
-              },
-              {
-                "t": "p",
-                "x": "在已更新的器械中，42款(75.0%)至少有1次更新相较前一版本改变了用途；9款(16.1%)的更新仅提升了性能。"
-              },
-              {
-                "t": "p",
-                "x": "报告情况参差不齐：42.9%的已更新器械缺少受试者信息，26.8%缺少样本量；48款(85.7%)在任何与更新相关的条目中都未提供临床或组织层面获益的信息。"
-              },
-              {
-                "t": "p",
-                "x": "作者呼吁建立标准化报告和部署后监测，并指出FDA的预定变更控制计划(Predetermined Change Control Plan)允许开发者预先指定部分变更，而无需重新提交申请。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un tercio de los equipos de AI\nFDA-cleared cambió su algoritmo",
-          "body": "De 163 equipos AI con 510(k) de la FDA, 56 (34.4%) se actualizaron y el 85.7% de ellos no aportó datos de beneficio.",
-          "mini_headline": "Actualizaciones de dispositivos AI FDA-cleared",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Este estudio transversal investigó las características y la notificación de las actualizaciones de dispositivos médicos basados en inteligencia artificial (AI)/aprendizaje automático autorizados por la vía 510(k) de la Food and Drug Administration (FDA), con la base de datos pública FDA 510(k) hasta el 31 de marzo de 2025."
-              },
-              {
-                "t": "p",
-                "x": "El estudio incluyó 163 dispositivos únicos que declaraban explícitamente usar AI/ML; la mayoría (89.0%) analizaba datos de imagen médica. De ellos, 56 (34.4%) recibieron al menos 1 actualización de su algoritmo de AI/ML, con una mediana (IQR) hasta la primera actualización de 1.8 (0.9-2.5) años."
-              },
-              {
-                "t": "p",
-                "x": "De los dispositivos actualizados, 42 (75.0%) recibieron al menos 1 actualización que cambió su uso respecto de la versión anterior; 9 (16.1%) tuvieron actualizaciones que solo mejoraron el rendimiento."
-              },
-              {
-                "t": "p",
-                "x": "La notificación fue irregular: faltaba información de los participantes en el 42.9% de los dispositivos actualizados y el tamaño muestral en el 26.8%, y 48 dispositivos (85.7%) no aportaron información sobre beneficios clínicos u organizativos en ninguna entrada relacionada con sus actualizaciones."
-              },
-              {
-                "t": "p",
-                "x": "Los autores piden una notificación estandarizada y un seguimiento posterior al despliegue, y señalan que el Predetermined Change Control Plan de la FDA permite a los desarrolladores predefinir algunos cambios sin una nueva solicitud."
+                "x": "연구진은 여러 화자가 말하거나 언어가 바뀌는 복잡한 대화에서 스크라이브 성능이 떨어지는 점이 통역 진료 결과를 설명할 수 있다고 보고, 이중언어 인력 양성에 대한 투자와 통역 진료 워크플로 지원 강화를 촉구했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "FDA-cleared AI\n機器の三分の一が更新",
-          "body": "FDA 510(k)のAI機器163件中56件(34.4%)が更新、85.7%は利益未記載。",
-          "mini_headline": "FDA-cleared AI機器の更新を追跡",
+          "headline": "AIスクライブの効果\nnon-Englishで最大",
+          "body": "209,009件の診療で、AIスクライブは言語一致の非英語診療で記録完了を最も高めた。",
+          "mini_headline": "AIスクライブと言語",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "この横断研究は、2025年3月31日までの公開FDA 510(k)データベースを用い、食品医薬品局(Food and Drug Administration、FDA)の510(k)経路で承認された人工知能(AI)/機械学習ベースの医療機器について、アップデートの特徴と報告状況を調べた。"
+                "x": "AIスクライブは文書作成負担の軽減や診療記録の早期完了と関連づけられてきたが、公平性への影響はほとんど研究されていない。Brigham and Women's HospitalとHarvard Medical Schoolの研究チームは、患者の希望言語と通訳の利用有無で分けた診療タイプごとに、当日の記録完了を調べた。"
               },
               {
                 "t": "p",
-                "x": "対象はAI/MLの使用を明記した163の固有機器で、大半(89.0%)は医用画像データを解析していた。このうち56機器(34.4%)がAI/MLアルゴリズムの更新を1回以上受け、初回更新までの期間の中央値(IQR)は1.8(0.9-2.5)年だった。"
+                "x": "この横断研究は、2025年5月から2026年5月までにボストンの14のクリニックで行われた成人プライマリケアの対面診療を対象とした。診療209,009件、患者117,121人、臨床医286人で、臨床医は診療ごとにスクライブを使うかどうかを選んだ。"
               },
               {
                 "t": "p",
-                "x": "更新された機器のうち42機器(75.0%)は前バージョンと比べて使用法を変える更新を1回以上受け、9機器(16.1%)は性能向上のみの更新だった。"
+                "x": "調整後、AIスクライブの使用は、英語以外を希望する（non-English-preference）言語一致の診療で当日記録完了率が10.2パーセントポイント、英語一致の診療で1.7パーセントポイント高いことと関連していた。通訳を介した診療と通訳なしの診療については、信頼区間が広く結論が出なかった。"
               },
               {
                 "t": "p",
-                "x": "報告には一貫性がなかった。更新機器の42.9%で参加者情報が、26.8%でサンプルサイズが欠けており、48機器(85.7%)は更新に関するどの記載でも臨床的・組織的な利益に関する情報を示していなかった。"
+                "x": "著者らは、複数の話者や言語の切り替えを含む複雑な会話でスクライブの性能が下がることが通訳診療の結果を説明しうるとし、バイリンガル人材の育成への投資と、通訳を介したワークフローへの支援強化を求めている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI病历助手效果\nnon-English最显著",
+          "body": "在209,009次诊疗中，AI病历助手对语言一致的非英语诊疗病历完成率提升最大。",
+          "mini_headline": "AI病历助手与语言",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "AI病历助手被认为可减轻文书负担、加快病历完成，但其对公平性的影响鲜有研究。Brigham and Women's Hospital与Harvard Medical School的研究人员按患者语言偏好和是否使用口译员划分就诊类型，考察了当日病历完成情况。"
               },
               {
                 "t": "p",
-                "x": "著者らは標準化された報告と展開後のモニタリングを求め、FDAの事前変更管理計画(Predetermined Change Control Plan)により開発者が一部の変更を新たな申請なしに事前指定できる点を指摘した。"
+                "x": "这项横断面研究覆盖2025年5月至2026年5月波士顿14家诊所的成人初级保健面诊，共209,009次就诊、117,121名患者和286名临床医生，医生可自行决定每次就诊是否使用该助手。"
+              },
+              {
+                "t": "p",
+                "x": "经调整后，使用AI病历助手与非英语偏好（non-English-preference）、语言一致就诊的当日病历完成率提高10.2个百分点相关，在英语一致的就诊中则提高1.7个百分点。由于置信区间较宽，口译介导就诊和无口译就诊的结果尚无定论。"
+              },
+              {
+                "t": "p",
+                "x": "作者认为，在多人说话或语言切换等复杂对话中助手表现较差，可能解释了口译相关结果，并呼吁投资培养双语人才，加强对口译介导工作流程的支持。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Escribas de IA cierran más notas\nen visitas non-English",
+          "body": "En 209.009 visitas, los escribas de IA elevaron más el cierre de notas en consultas no inglesas con médico concordante.",
+          "mini_headline": "Escribas de IA e idioma",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Los escribas de IA se han asociado con una menor carga de documentación y un cierre más rápido de las notas, pero su impacto en la equidad apenas se ha estudiado. Investigadores de Brigham and Women's Hospital y Harvard Medical School examinaron el cierre de notas en el mismo día según tipos de consulta definidos por la preferencia lingüística del paciente y el uso de intérprete."
+              },
+              {
+                "t": "p",
+                "x": "El estudio transversal abarcó consultas presenciales de atención primaria de adultos en 14 clínicas de Boston entre mayo de 2025 y mayo de 2026: 209.009 consultas, 117.121 pacientes y 286 clínicos, que decidían en cada consulta si usaban el escriba."
+              },
+              {
+                "t": "p",
+                "x": "Tras el ajuste, el uso del escriba de IA se asoció con un mayor cierre de notas en el mismo día en las consultas non-English-preference con concordancia lingüística (10,2 puntos porcentuales) y en las consultas concordantes en inglés (1,7 puntos porcentuales). Los resultados de las consultas con intérprete y sin intérprete no fueron concluyentes por la amplitud de los intervalos de confianza."
+              },
+              {
+                "t": "p",
+                "x": "Los autores sugieren que el menor rendimiento del escriba en conversaciones complejas, como las que tienen varios interlocutores o cambios de idioma, podría explicar los resultados con intérprete, y piden invertir en la formación de personal bilingüe y apoyar mejor los flujos de trabajo con intérprete."
               }
             ]
           }
@@ -909,611 +919,171 @@
       }
     },
     {
-      "id": "seoulstmary-ckd-risk-app",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "서울성모병원, 만성콩팥병\n위험 예측 AI 앱 검증",
-      "body": "검진·유전체·웨어러블 데이터로 콩팥병 위험을 예측하는 AI 앱 검증이 시작됐다.",
-      "mini_headline": "콩팥병 위험\nAI 앱 검증",
-      "tool": "Medicine",
-      "source": "메디게이트뉴스",
-      "url": "https://m.medigatenews.com/news/2393566577",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.medigatenews.com/file/news/539561"
-          },
-          {
-            "t": "p",
-            "x": "가톨릭대학교 서울성모병원 소화기내과 이인석 교수 연구팀이 건강검진 자료와 유전체 정보, 웨어러블 기기 데이터를 인공지능(AI)으로 분석해 만성콩팥병 위험도를 알려주는 모바일 앱의 효용성 검증을 시작했다고 4일 밝혔다. 이번 검증은 과학기술정보통신부와 정보통신기획평가원(IITP)이 지원하는 AI 기반 맞춤형 케어서비스 융합선도 사업 가운데 ‘페놈데이터 기반AI 생애 전주기 건강위험 예측·관리 초격차 기술 개발’ 과제의 일부다."
-          },
-          {
-            "t": "p",
-            "x": "연구팀은 여러 의료기관의 전자의무기록(Electronic Medical Record)과 건강검진 데이터를 연계·표준화하고, 유전체 분석 자료에 웨어러블 기기와 앱으로 수집한 신체활동, 수면, 식습관 정보를 더해 만성콩팥병 등 질병 발생과 진행 위험을 예측하는 AI 모델을 개발하고 있다. 앱은 건강검진과 유전체검사 등 여러 임상 변수를 종합해 개인별 절대위험도를 계산하고, 갤럭시 워치로 받은 활동량, 수면, 심박수 데이터를 더한다. 이 과정은 AI 환자 건강 플랫폼(PHAIR)에서 이뤄지며, 앱은 만성콩팥병 위험도 외에 라이프코칭도 제공한다."
-          },
-          {
-            "t": "p",
-            "x": "여러 병원이 환자 자료를 직접 공유하지 않고도 AI를 함께 학습시키는 연합학습(Federated Learning) 기술도 적용했다. 임상검증은 2026년 10월에 시작됐다. 50명을 모집해 3개월간 앱과 웨어러블을 사용하게 하고, 3개월 차에 흉부 영상검사와 추적 혈액검사로 신장 기능(eGFR, 추정 사구체여과율)을 확인한다."
-          },
-          {
-            "t": "p",
-            "x": "전체 연구 기간은 6개월이며, 연구팀은 서비스 활용도와 만족도, 유용성을 평가해 일상 적용 가능성을 살필 계획이다. 연구팀은 기존 위험도 예측모델이 특정 시점의 임상정보로 질병의 발생이나 진행 가능성을 산출하는 데 초점이 맞춰져 있어, 예측 결과를 실제 건강관리로 연결하는 데 한계가 있었다고 설명했다. 개인별 위험 요인을 지속적으로 추적하고 맞춤형 피드백을 제공하려면 의료진의 시간과 인력이 계속 투입돼야 하기 때문이라는 것이다."
-          },
-          {
-            "t": "p",
-            "x": "연구팀은 AI가 산출한 질병 위험도를 앱 기반 맞춤형 생활 코칭과 연계하고, 개인의 건강 상태와 생활습관 변화를 지속 반영해 위험 요인 개선과 질병 예방을 돕는 관리 체계를 구축하는 것을 목표로 한다. 역할 분담도 나눠져 있다."
-          },
-          {
-            "t": "p",
-            "x": "서울성모병원은 건강검진과 임상정보를 제공하고, 가톨릭대학교 의료정보학교실은 만성콩팥병(CKD) 및 폐암의 발병 위험도를 예측하는 AI 모델 개발을 담당한다. 디지털팜은 AI 분석과 플랫폼 운영을, 평화이즈는 병원 정보시스템 운영과 자료 변환·전송을 맡는다. 연구팀은 한국인의 건강 특성을 반영한 AI 기술이 고위험군을 일찍 찾아내 발병과 악화 전에 개인별 관리를 제공하는 부분에서 의미가 있으며, 정밀의료 발전과 미래 의료기술 경쟁력 강화에 기여할 것으로 기대하고 있다. 이인석 교수는 “외래 진료만으로는 구현하기 어려웠던 지속적인 위험 관리와 피드백을 AI와 웨어러블로 해결할 수 있는지 실제 임상 현장에서 확인하는 연구”라고 말했다. 이번 과제에는 서울성모병원을 중심으로 강북삼성병원, 성균바이오융합과학기술원, 웨이센, 삼성전자, 네이버클라우드, 미소정보기술, 마크로젠, 디지털팜 등이 참여하고 있다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "서울성모병원, 만성콩팥병\n위험 예측 AI 앱 검증",
-          "body": "검진·유전체·웨어러블 데이터로 콩팥병 위험을 예측하는 AI 앱 검증이 시작됐다.",
-          "mini_headline": "콩팥병 위험\nAI 앱 검증",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.medigatenews.com/file/news/539561"
-              },
-              {
-                "t": "p",
-                "x": "가톨릭대학교 서울성모병원 소화기내과 이인석 교수 연구팀이 건강검진 자료와 유전체 정보, 웨어러블 기기 데이터를 인공지능(AI)으로 분석해 만성콩팥병 위험도를 알려주는 모바일 앱의 효용성 검증을 시작했다고 4일 밝혔다. 이번 검증은 과학기술정보통신부와 정보통신기획평가원(IITP)이 지원하는 AI 기반 맞춤형 케어서비스 융합선도 사업 가운데 ‘페놈데이터 기반AI 생애 전주기 건강위험 예측·관리 초격차 기술 개발’ 과제의 일부다."
-              },
-              {
-                "t": "p",
-                "x": "연구팀은 여러 의료기관의 전자의무기록(Electronic Medical Record)과 건강검진 데이터를 연계·표준화하고, 유전체 분석 자료에 웨어러블 기기와 앱으로 수집한 신체활동, 수면, 식습관 정보를 더해 만성콩팥병 등 질병 발생과 진행 위험을 예측하는 AI 모델을 개발하고 있다. 앱은 건강검진과 유전체검사 등 여러 임상 변수를 종합해 개인별 절대위험도를 계산하고, 갤럭시 워치로 받은 활동량, 수면, 심박수 데이터를 더한다. 이 과정은 AI 환자 건강 플랫폼(PHAIR)에서 이뤄지며, 앱은 만성콩팥병 위험도 외에 라이프코칭도 제공한다."
-              },
-              {
-                "t": "p",
-                "x": "여러 병원이 환자 자료를 직접 공유하지 않고도 AI를 함께 학습시키는 연합학습(Federated Learning) 기술도 적용했다. 임상검증은 2026년 10월에 시작됐다. 50명을 모집해 3개월간 앱과 웨어러블을 사용하게 하고, 3개월 차에 흉부 영상검사와 추적 혈액검사로 신장 기능(eGFR, 추정 사구체여과율)을 확인한다."
-              },
-              {
-                "t": "p",
-                "x": "전체 연구 기간은 6개월이며, 연구팀은 서비스 활용도와 만족도, 유용성을 평가해 일상 적용 가능성을 살필 계획이다. 연구팀은 기존 위험도 예측모델이 특정 시점의 임상정보로 질병의 발생이나 진행 가능성을 산출하는 데 초점이 맞춰져 있어, 예측 결과를 실제 건강관리로 연결하는 데 한계가 있었다고 설명했다. 개인별 위험 요인을 지속적으로 추적하고 맞춤형 피드백을 제공하려면 의료진의 시간과 인력이 계속 투입돼야 하기 때문이라는 것이다."
-              },
-              {
-                "t": "p",
-                "x": "연구팀은 AI가 산출한 질병 위험도를 앱 기반 맞춤형 생활 코칭과 연계하고, 개인의 건강 상태와 생활습관 변화를 지속 반영해 위험 요인 개선과 질병 예방을 돕는 관리 체계를 구축하는 것을 목표로 한다. 역할 분담도 나눠져 있다."
-              },
-              {
-                "t": "p",
-                "x": "서울성모병원은 건강검진과 임상정보를 제공하고, 가톨릭대학교 의료정보학교실은 만성콩팥병(CKD) 및 폐암의 발병 위험도를 예측하는 AI 모델 개발을 담당한다. 디지털팜은 AI 분석과 플랫폼 운영을, 평화이즈는 병원 정보시스템 운영과 자료 변환·전송을 맡는다. 연구팀은 한국인의 건강 특성을 반영한 AI 기술이 고위험군을 일찍 찾아내 발병과 악화 전에 개인별 관리를 제공하는 부분에서 의미가 있으며, 정밀의료 발전과 미래 의료기술 경쟁력 강화에 기여할 것으로 기대하고 있다. 이인석 교수는 “외래 진료만으로는 구현하기 어려웠던 지속적인 위험 관리와 피드백을 AI와 웨어러블로 해결할 수 있는지 실제 임상 현장에서 확인하는 연구”라고 말했다. 이번 과제에는 서울성모병원을 중심으로 강북삼성병원, 성균바이오융합과학기술원, 웨이센, 삼성전자, 네이버클라우드, 미소정보기술, 마크로젠, 디지털팜 등이 참여하고 있다."
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "Seoul St. Mary's tests AI app\nfor chronic kidney disease risk",
-          "body": "Validation has begun on an AI app that predicts kidney disease risk from checkup, genomic and wearable data.",
-          "mini_headline": "AI app for kidney disease risk under validation",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.medigatenews.com/file/news/539561"
-              },
-              {
-                "t": "p",
-                "x": "A research team led by Professor Lee In-seok of the Department of Gastroenterology at The Catholic University of Korea Seoul St. Mary's Hospital said on the 4th that it has begun validating the usefulness of a mobile app that uses artificial intelligence (AI) to analyze health checkup records, genomic information and wearable device data and show a person's risk of chronic kidney disease. The validation is part of the project ‘Development of super-gap technology for phenome data-based AI prediction and management of health risks across the life cycle,’ under the AI-based personalized care service convergence leading program supported by the Ministry of Science and ICT and the Institute of Information & Communications Technology Planning & Evaluation (IITP)."
-              },
-              {
-                "t": "p",
-                "x": "The team is linking and standardizing Electronic Medical Record and health checkup data from multiple medical institutions, and adding physical activity, sleep and eating-habit information collected through wearable devices and the app to genomic analysis data, to develop AI models that predict the risk of onset and progression of diseases including chronic kidney disease. The app combines multiple clinical variables, such as health checkups and genomic tests, to calculate each person's absolute risk, and adds activity, sleep and heart rate data received from a Galaxy Watch. This process runs on the AI patient health platform (PHAIR), and in addition to chronic kidney disease risk, the app also provides life coaching."
-              },
-              {
-                "t": "p",
-                "x": "The team also applied Federated Learning, a technique that lets several hospitals train AI together without directly sharing patient data. Clinical validation began in October 2026. The study recruits 50 people to use the app and a wearable for 3 months, and at month 3, kidney function (eGFR, estimated glomerular filtration rate) is checked with chest imaging and follow-up blood tests."
-              },
-              {
-                "t": "p",
-                "x": "The full study period is 6 months, and the team plans to assess the service's use, satisfaction and usefulness to examine whether it can be applied in daily life. The team explained that existing risk prediction models focus on calculating the likelihood of disease onset or progression from clinical information at a single point in time, which has limited how well predictions translate into actual health management. This is because continuously tracking individual risk factors and providing tailored feedback requires an ongoing investment of clinicians' time and staff."
-              },
-              {
-                "t": "p",
-                "x": "The team aims to link AI-calculated disease risk with app-based personalized lifestyle coaching, and to build a management system that continuously reflects changes in a person's health status and habits to help improve risk factors and prevent disease. Roles are also divided."
-              },
-              {
-                "t": "p",
-                "x": "Seoul St. Mary's Hospital provides health checkup and clinical information, and the Department of Medical Informatics at The Catholic University of Korea is responsible for developing AI models that predict the risk of developing chronic kidney disease (CKD) and lung cancer. DigitalPharm handles AI analysis and platform operation, and Pyunghwa IS handles hospital information system operation and data conversion and transmission. The team expects AI technology that reflects Koreans' health characteristics to be meaningful in identifying high-risk groups early and providing individualized care before onset and worsening, and to contribute to advancing precision medicine and strengthening the competitiveness of future medical technology. Professor Lee In-seok said, “This study checks in a real clinical setting whether AI and wearables can solve the continuous risk management and feedback that were hard to achieve through outpatient care alone.” Led by Seoul St. Mary's Hospital, the project's participants include Kangbuk Samsung Hospital, the Sungkyun Institute of Bio-Convergence Science and Technology, WAYCEN, Samsung Electronics, NAVER Cloud, Miso Info Tech, Macrogen and DigitalPharm."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ソウル聖母病院、慢性腎臓病\nリスク予測AIアプリを検証",
-          "body": "健診・ゲノム・ウェアラブルのデータで腎臓病リスクを予測するAIアプリの検証が始まった。",
-          "mini_headline": "腎臓病リスクAIアプリを検証",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.medigatenews.com/file/news/539561"
-              },
-              {
-                "t": "p",
-                "x": "カトリック大学ソウル聖母病院消化器内科のイ・インソク教授の研究チームは、健康診断データとゲノム情報、ウェアラブル機器のデータを人工知能(AI)で分析し、慢性腎臓病のリスクを知らせるモバイルアプリの有用性の検証を始めたと4日に明らかにした。今回の検証は、科学技術情報通信部と情報通信企画評価院(IITP)が支援するAI基盤の個人向けケアサービス融合先導事業のうち、「フェノームデータ基盤AIによる生涯全周期の健康リスク予測・管理の超格差技術開発」課題の一部である。"
-              },
-              {
-                "t": "p",
-                "x": "研究チームは複数の医療機関の電子カルテ(Electronic Medical Record)と健康診断データを連携・標準化し、ゲノム解析データにウェアラブル機器とアプリで収集した身体活動、睡眠、食習慣の情報を加え、慢性腎臓病などの疾患の発症と進行のリスクを予測するAIモデルを開発している。アプリは健康診断やゲノム検査など複数の臨床変数を総合して個人ごとの絶対リスクを算出し、Galaxy Watchで得た活動量、睡眠、心拍数のデータを加える。この処理はAI患者健康プラットフォーム(PHAIR)上で行われ、アプリは慢性腎臓病のリスクに加えてライフコーチングも提供する。"
-              },
-              {
-                "t": "p",
-                "x": "複数の病院が患者データを直接共有せずにAIを共同で学習させる連合学習(Federated Learning)技術も適用した。臨床検証は2026年10月に始まった。50人を募集して3か月間アプリとウェアラブルを使ってもらい、3か月目に胸部画像検査と追跡血液検査で腎機能(eGFR、推算糸球体濾過量)を確認する。"
-              },
-              {
-                "t": "p",
-                "x": "研究期間は全体で6か月で、研究チームはサービスの活用度と満足度、有用性を評価し、日常での適用可能性を探る計画だ。研究チームは、既存のリスク予測モデルが特定時点の臨床情報から疾患の発症や進行の可能性を算出することに重点を置いており、予測結果を実際の健康管理につなげるには限界があったと説明した。個人ごとのリスク要因を継続的に追跡し、個別のフィードバックを提供するには、医療スタッフの時間と人手を投入し続ける必要があるためだという。"
-              },
-              {
-                "t": "p",
-                "x": "研究チームは、AIが算出した疾患リスクをアプリによる個別の生活コーチングと結びつけ、個人の健康状態や生活習慣の変化を継続的に反映して、リスク要因の改善と疾病予防を支える管理体制を構築することを目指す。役割分担も決まっている。"
-              },
-              {
-                "t": "p",
-                "x": "ソウル聖母病院は健康診断と臨床情報を提供し、カトリック大学医療情報学教室は慢性腎臓病(CKD)と肺がんの発症リスクを予測するAIモデルの開発を担う。デジタルファームはAI分析とプラットフォーム運営を、ピョンファイズは病院情報システムの運営とデータの変換・送信を担当する。研究チームは、韓国人の健康特性を反映したAI技術が高リスク群を早期に見つけ、発症や悪化の前に個別の管理を提供する点で意義があり、精密医療の発展と将来の医療技術の競争力強化に貢献すると期待している。イ・インソク教授は「外来診療だけでは実現が難しかった継続的なリスク管理とフィードバックを、AIとウェアラブルで解決できるかを実際の臨床現場で確かめる研究だ」と述べた。この課題にはソウル聖母病院を中心に、江北サムスン病院、成均バイオ融合科学技術院、ウェイセン、サムスン電子、NAVER Cloud、ミソ情報技術、マクロジェン、デジタルファームなどが参加している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "首尔圣母医院验证\n慢性肾病风险预测AI应用",
-          "body": "利用体检、基因组和可穿戴数据预测肾病风险的AI应用已开始验证。",
-          "mini_headline": "肾病风险AI应用启动验证",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.medigatenews.com/file/news/539561"
-              },
-              {
-                "t": "p",
-                "x": "天主教大学首尔圣母医院消化内科李仁锡教授研究团队4日表示，已开始验证一款移动应用的实用性。该应用利用人工智能(AI)分析体检资料、基因组信息和可穿戴设备数据，提示慢性肾病风险。此次验证是科学技术信息通信部和信息通信企划评价院(IITP)支持的基于AI的定制化护理服务融合先导项目中“基于表型组数据的AI全生命周期健康风险预测与管理超差距技术开发”课题的一部分。"
-              },
-              {
-                "t": "p",
-                "x": "研究团队正在打通并标准化多家医疗机构的电子病历(Electronic Medical Record)和体检数据，在基因组分析资料中加入通过可穿戴设备和应用收集的身体活动、睡眠和饮食习惯信息，开发预测慢性肾病等疾病发生和进展风险的AI模型。该应用综合体检和基因组检测等多项临床变量计算个人绝对风险，并加入从Galaxy Watch获取的活动量、睡眠和心率数据。这一过程在AI患者健康平台(PHAIR)上完成，应用除慢性肾病风险外还提供生活指导。"
-              },
-              {
-                "t": "p",
-                "x": "研究还采用了联邦学习(Federated Learning)技术，让多家医院无需直接共享患者资料即可共同训练AI。临床验证于2026年10月启动。研究招募50人，让其使用应用和可穿戴设备3个月，并在第3个月通过胸部影像检查和随访血液检查确认肾功能(eGFR，估算肾小球滤过率)。"
-              },
-              {
-                "t": "p",
-                "x": "整个研究为期6个月，团队计划评估服务的使用度、满意度和实用性，考察其在日常生活中应用的可能性。团队解释说，现有风险预测模型侧重于根据某一时点的临床信息计算疾病发生或进展的可能性，在将预测结果转化为实际健康管理方面存在局限。原因在于，要持续追踪个人风险因素并提供定制化反馈，就必须不断投入医护人员的时间和人力。"
-              },
-              {
-                "t": "p",
-                "x": "研究团队的目标是将AI计算出的疾病风险与基于应用的定制化生活指导相结合，持续反映个人健康状况和生活习惯的变化，构建帮助改善风险因素、预防疾病的管理体系。各方也有明确分工。"
-              },
-              {
-                "t": "p",
-                "x": "首尔圣母医院提供体检和临床信息，天主教大学医疗信息学教研室负责开发预测慢性肾病(CKD)和肺癌发病风险的AI模型。DigitalPharm负责AI分析和平台运营，Pyunghwa IS负责医院信息系统运营及资料转换与传输。研究团队认为，反映韩国人健康特征的AI技术能够及早发现高危人群，在发病和恶化之前提供个性化管理，具有重要意义，并期待其为精准医疗发展和增强未来医疗技术竞争力作出贡献。李仁锡教授表示：“这项研究是在真实临床现场检验，能否借助AI和可穿戴设备解决仅靠门诊难以实现的持续风险管理与反馈。”该课题以首尔圣母医院为中心，江北三星医院、成均生物融合科学技术院、WAYCEN、三星电子、NAVER Cloud、Miso Info Tech、Macrogen、DigitalPharm等机构参与。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Seoul St. Mary's valida una app\nAI de riesgo renal crónico",
-          "body": "Se empezó a validar una app AI que predice el riesgo de enfermedad renal con datos de chequeos, genoma y wearables.",
-          "mini_headline": "Validan una app AI de riesgo renal",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.medigatenews.com/file/news/539561"
-              },
-              {
-                "t": "p",
-                "x": "El equipo del profesor Lee In-seok, del Servicio de Gastroenterología del Hospital Seoul St. Mary's de la Universidad Católica de Corea, anunció el día 4 que ha comenzado a validar la utilidad de una app móvil que analiza con inteligencia artificial (AI) datos de chequeos médicos, información genómica y datos de dispositivos wearables para indicar el riesgo de enfermedad renal crónica. La validación forma parte del proyecto ‘Desarrollo de tecnología de brecha superior para la predicción y gestión de riesgos de salud a lo largo de todo el ciclo vital con AI basada en datos del fenoma’, dentro del programa líder de convergencia de servicios de atención personalizada basados en AI que apoyan el Ministerio de Ciencia y TIC y el Instituto de Planificación y Evaluación de Tecnologías de la Información y las Comunicaciones (IITP)."
-              },
-              {
-                "t": "p",
-                "x": "El equipo vincula y estandariza los historiales clínicos electrónicos (Electronic Medical Record) y los datos de chequeos de varias instituciones médicas, y añade a los datos de análisis genómico información sobre actividad física, sueño y hábitos alimentarios recogida con dispositivos wearables y la app, para desarrollar modelos de AI que predicen el riesgo de aparición y progresión de enfermedades como la enfermedad renal crónica. La app combina diversas variables clínicas, como chequeos y pruebas genómicas, para calcular el riesgo absoluto de cada persona, y suma datos de actividad, sueño y frecuencia cardíaca recibidos de un Galaxy Watch. Este proceso se realiza en la plataforma de salud del paciente con AI (PHAIR) y, además del riesgo de enfermedad renal crónica, la app ofrece coaching de estilo de vida."
-              },
-              {
-                "t": "p",
-                "x": "También se aplicó el aprendizaje federado (Federated Learning), que permite a varios hospitales entrenar una AI conjuntamente sin compartir directamente los datos de los pacientes. La validación clínica comenzó en octubre de 2026. Se reclutan 50 personas que usarán la app y el wearable durante 3 meses, y en el mes 3 se comprobará la función renal (eGFR, tasa de filtración glomerular estimada) con pruebas de imagen torácica y análisis de sangre de seguimiento."
-              },
-              {
-                "t": "p",
-                "x": "El estudio durará 6 meses en total, y el equipo prevé evaluar el uso, la satisfacción y la utilidad del servicio para examinar su aplicabilidad en la vida diaria. El equipo explicó que los modelos de predicción de riesgo existentes se centran en calcular la probabilidad de aparición o progresión de una enfermedad a partir de información clínica de un momento concreto, lo que limitaba su traslado a la gestión real de la salud. Esto se debe a que seguir de forma continua los factores de riesgo individuales y ofrecer retroalimentación personalizada exige una inversión constante de tiempo y personal médico."
-              },
-              {
-                "t": "p",
-                "x": "El equipo aspira a vincular el riesgo de enfermedad calculado por la AI con un coaching de estilo de vida personalizado basado en la app, y a construir un sistema de gestión que refleje de forma continua los cambios en el estado de salud y los hábitos de cada persona para ayudar a mejorar los factores de riesgo y prevenir enfermedades. Las funciones también están repartidas."
-              },
-              {
-                "t": "p",
-                "x": "El Hospital Seoul St. Mary's aporta datos de chequeos e información clínica, y el Departamento de Informática Médica de la Universidad Católica de Corea se encarga de desarrollar modelos de AI que predicen el riesgo de enfermedad renal crónica (CKD) y cáncer de pulmón. DigitalPharm se ocupa del análisis con AI y la operación de la plataforma, y Pyunghwa IS, de la operación del sistema de información hospitalaria y la conversión y transmisión de datos. El equipo considera que una tecnología de AI que refleje las características de salud de la población coreana es valiosa para detectar pronto a los grupos de alto riesgo y ofrecer atención individualizada antes de la aparición o el agravamiento de la enfermedad, y espera que contribuya al avance de la medicina de precisión y a la competitividad de la tecnología médica futura. El profesor Lee In-seok afirmó: “Es un estudio que comprueba en la práctica clínica real si la AI y los wearables pueden resolver la gestión continua del riesgo y la retroalimentación que eran difíciles de lograr solo con la consulta externa”. En el proyecto participan, con el Hospital Seoul St. Mary's como eje, el Hospital Kangbuk Samsung, el Sungkyun Institute of Bio-Convergence Science and Technology, WAYCEN, Samsung Electronics, NAVER Cloud, Miso Info Tech, Macrogen y DigitalPharm, entre otros."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "Seoul St. Mary's tests AI app\nfor chronic kidney disease risk",
-          "body": "Validation has begun on an AI app that predicts kidney disease risk from checkup, genomic and wearable data.",
-          "mini_headline": "AI app for kidney disease risk under validation",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.medigatenews.com/file/news/539561"
-              },
-              {
-                "t": "p",
-                "x": "A research team led by Professor Lee In-seok of the Department of Gastroenterology at The Catholic University of Korea Seoul St. Mary's Hospital said on the 4th that it has begun validating the usefulness of a mobile app that uses artificial intelligence (AI) to analyze health checkup records, genomic information and wearable device data and show a person's risk of chronic kidney disease. The validation is part of the project ‘Development of super-gap technology for phenome data-based AI prediction and management of health risks across the life cycle,’ under the AI-based personalized care service convergence leading program supported by the Ministry of Science and ICT and the Institute of Information & Communications Technology Planning & Evaluation (IITP)."
-              },
-              {
-                "t": "p",
-                "x": "The team is linking and standardizing Electronic Medical Record and health checkup data from multiple medical institutions, and adding physical activity, sleep and eating-habit information collected through wearable devices and the app to genomic analysis data, to develop AI models that predict the risk of onset and progression of diseases including chronic kidney disease. The app combines multiple clinical variables, such as health checkups and genomic tests, to calculate each person's absolute risk, and adds activity, sleep and heart rate data received from a Galaxy Watch. This process runs on the AI patient health platform (PHAIR), and in addition to chronic kidney disease risk, the app also provides life coaching."
-              },
-              {
-                "t": "p",
-                "x": "The team also applied Federated Learning, a technique that lets several hospitals train AI together without directly sharing patient data. Clinical validation began in October 2026. The study recruits 50 people to use the app and a wearable for 3 months, and at month 3, kidney function (eGFR, estimated glomerular filtration rate) is checked with chest imaging and follow-up blood tests."
-              },
-              {
-                "t": "p",
-                "x": "The full study period is 6 months, and the team plans to assess the service's use, satisfaction and usefulness to examine whether it can be applied in daily life. The team explained that existing risk prediction models focus on calculating the likelihood of disease onset or progression from clinical information at a single point in time, which has limited how well predictions translate into actual health management. This is because continuously tracking individual risk factors and providing tailored feedback requires an ongoing investment of clinicians' time and staff."
-              },
-              {
-                "t": "p",
-                "x": "The team aims to link AI-calculated disease risk with app-based personalized lifestyle coaching, and to build a management system that continuously reflects changes in a person's health status and habits to help improve risk factors and prevent disease. Roles are also divided."
-              },
-              {
-                "t": "p",
-                "x": "Seoul St. Mary's Hospital provides health checkup and clinical information, and the Department of Medical Informatics at The Catholic University of Korea is responsible for developing AI models that predict the risk of developing chronic kidney disease (CKD) and lung cancer. DigitalPharm handles AI analysis and platform operation, and Pyunghwa IS handles hospital information system operation and data conversion and transmission. The team expects AI technology that reflects Koreans' health characteristics to be meaningful in identifying high-risk groups early and providing individualized care before onset and worsening, and to contribute to advancing precision medicine and strengthening the competitiveness of future medical technology. Professor Lee In-seok said, “This study checks in a real clinical setting whether AI and wearables can solve the continuous risk management and feedback that were hard to achieve through outpatient care alone.” Led by Seoul St. Mary's Hospital, the project's participants include Kangbuk Samsung Hospital, the Sungkyun Institute of Bio-Convergence Science and Technology, WAYCEN, Samsung Electronics, NAVER Cloud, Miso Info Tech, Macrogen and DigitalPharm."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ソウル聖母病院、慢性腎臓病\nリスク予測AIアプリを検証",
-          "body": "健診・ゲノム・ウェアラブルのデータで腎臓病リスクを予測するAIアプリの検証が始まった。",
-          "mini_headline": "腎臓病リスクAIアプリを検証",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.medigatenews.com/file/news/539561"
-              },
-              {
-                "t": "p",
-                "x": "カトリック大学ソウル聖母病院消化器内科のイ・インソク教授の研究チームは、健康診断データとゲノム情報、ウェアラブル機器のデータを人工知能(AI)で分析し、慢性腎臓病のリスクを知らせるモバイルアプリの有用性の検証を始めたと4日に明らかにした。今回の検証は、科学技術情報通信部と情報通信企画評価院(IITP)が支援するAI基盤の個人向けケアサービス融合先導事業のうち、「フェノームデータ基盤AIによる生涯全周期の健康リスク予測・管理の超格差技術開発」課題の一部である。"
-              },
-              {
-                "t": "p",
-                "x": "研究チームは複数の医療機関の電子カルテ(Electronic Medical Record)と健康診断データを連携・標準化し、ゲノム解析データにウェアラブル機器とアプリで収集した身体活動、睡眠、食習慣の情報を加え、慢性腎臓病などの疾患の発症と進行のリスクを予測するAIモデルを開発している。アプリは健康診断やゲノム検査など複数の臨床変数を総合して個人ごとの絶対リスクを算出し、Galaxy Watchで得た活動量、睡眠、心拍数のデータを加える。この処理はAI患者健康プラットフォーム(PHAIR)上で行われ、アプリは慢性腎臓病のリスクに加えてライフコーチングも提供する。"
-              },
-              {
-                "t": "p",
-                "x": "複数の病院が患者データを直接共有せずにAIを共同で学習させる連合学習(Federated Learning)技術も適用した。臨床検証は2026年10月に始まった。50人を募集して3か月間アプリとウェアラブルを使ってもらい、3か月目に胸部画像検査と追跡血液検査で腎機能(eGFR、推算糸球体濾過量)を確認する。"
-              },
-              {
-                "t": "p",
-                "x": "研究期間は全体で6か月で、研究チームはサービスの活用度と満足度、有用性を評価し、日常での適用可能性を探る計画だ。研究チームは、既存のリスク予測モデルが特定時点の臨床情報から疾患の発症や進行の可能性を算出することに重点を置いており、予測結果を実際の健康管理につなげるには限界があったと説明した。個人ごとのリスク要因を継続的に追跡し、個別のフィードバックを提供するには、医療スタッフの時間と人手を投入し続ける必要があるためだという。"
-              },
-              {
-                "t": "p",
-                "x": "研究チームは、AIが算出した疾患リスクをアプリによる個別の生活コーチングと結びつけ、個人の健康状態や生活習慣の変化を継続的に反映して、リスク要因の改善と疾病予防を支える管理体制を構築することを目指す。役割分担も決まっている。"
-              },
-              {
-                "t": "p",
-                "x": "ソウル聖母病院は健康診断と臨床情報を提供し、カトリック大学医療情報学教室は慢性腎臓病(CKD)と肺がんの発症リスクを予測するAIモデルの開発を担う。デジタルファームはAI分析とプラットフォーム運営を、ピョンファイズは病院情報システムの運営とデータの変換・送信を担当する。研究チームは、韓国人の健康特性を反映したAI技術が高リスク群を早期に見つけ、発症や悪化の前に個別の管理を提供する点で意義があり、精密医療の発展と将来の医療技術の競争力強化に貢献すると期待している。イ・インソク教授は「外来診療だけでは実現が難しかった継続的なリスク管理とフィードバックを、AIとウェアラブルで解決できるかを実際の臨床現場で確かめる研究だ」と述べた。この課題にはソウル聖母病院を中心に、江北サムスン病院、成均バイオ融合科学技術院、ウェイセン、サムスン電子、NAVER Cloud、ミソ情報技術、マクロジェン、デジタルファームなどが参加している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "首尔圣母医院验证\n慢性肾病风险预测AI应用",
-          "body": "利用体检、基因组和可穿戴数据预测肾病风险的AI应用已开始验证。",
-          "mini_headline": "肾病风险AI应用启动验证",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.medigatenews.com/file/news/539561"
-              },
-              {
-                "t": "p",
-                "x": "天主教大学首尔圣母医院消化内科李仁锡教授研究团队4日表示，已开始验证一款移动应用的实用性。该应用利用人工智能(AI)分析体检资料、基因组信息和可穿戴设备数据，提示慢性肾病风险。此次验证是科学技术信息通信部和信息通信企划评价院(IITP)支持的基于AI的定制化护理服务融合先导项目中“基于表型组数据的AI全生命周期健康风险预测与管理超差距技术开发”课题的一部分。"
-              },
-              {
-                "t": "p",
-                "x": "研究团队正在打通并标准化多家医疗机构的电子病历(Electronic Medical Record)和体检数据，在基因组分析资料中加入通过可穿戴设备和应用收集的身体活动、睡眠和饮食习惯信息，开发预测慢性肾病等疾病发生和进展风险的AI模型。该应用综合体检和基因组检测等多项临床变量计算个人绝对风险，并加入从Galaxy Watch获取的活动量、睡眠和心率数据。这一过程在AI患者健康平台(PHAIR)上完成，应用除慢性肾病风险外还提供生活指导。"
-              },
-              {
-                "t": "p",
-                "x": "研究还采用了联邦学习(Federated Learning)技术，让多家医院无需直接共享患者资料即可共同训练AI。临床验证于2026年10月启动。研究招募50人，让其使用应用和可穿戴设备3个月，并在第3个月通过胸部影像检查和随访血液检查确认肾功能(eGFR，估算肾小球滤过率)。"
-              },
-              {
-                "t": "p",
-                "x": "整个研究为期6个月，团队计划评估服务的使用度、满意度和实用性，考察其在日常生活中应用的可能性。团队解释说，现有风险预测模型侧重于根据某一时点的临床信息计算疾病发生或进展的可能性，在将预测结果转化为实际健康管理方面存在局限。原因在于，要持续追踪个人风险因素并提供定制化反馈，就必须不断投入医护人员的时间和人力。"
-              },
-              {
-                "t": "p",
-                "x": "研究团队的目标是将AI计算出的疾病风险与基于应用的定制化生活指导相结合，持续反映个人健康状况和生活习惯的变化，构建帮助改善风险因素、预防疾病的管理体系。各方也有明确分工。"
-              },
-              {
-                "t": "p",
-                "x": "首尔圣母医院提供体检和临床信息，天主教大学医疗信息学教研室负责开发预测慢性肾病(CKD)和肺癌发病风险的AI模型。DigitalPharm负责AI分析和平台运营，Pyunghwa IS负责医院信息系统运营及资料转换与传输。研究团队认为，反映韩国人健康特征的AI技术能够及早发现高危人群，在发病和恶化之前提供个性化管理，具有重要意义，并期待其为精准医疗发展和增强未来医疗技术竞争力作出贡献。李仁锡教授表示：“这项研究是在真实临床现场检验，能否借助AI和可穿戴设备解决仅靠门诊难以实现的持续风险管理与反馈。”该课题以首尔圣母医院为中心，江北三星医院、成均生物融合科学技术院、WAYCEN、三星电子、NAVER Cloud、Miso Info Tech、Macrogen、DigitalPharm等机构参与。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Seoul St. Mary's valida una app\nAI de riesgo renal crónico",
-          "body": "Se empezó a validar una app AI que predice el riesgo de enfermedad renal con datos de chequeos, genoma y wearables.",
-          "mini_headline": "Validan una app AI de riesgo renal",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.medigatenews.com/file/news/539561"
-              },
-              {
-                "t": "p",
-                "x": "El equipo del profesor Lee In-seok, del Servicio de Gastroenterología del Hospital Seoul St. Mary's de la Universidad Católica de Corea, anunció el día 4 que ha comenzado a validar la utilidad de una app móvil que analiza con inteligencia artificial (AI) datos de chequeos médicos, información genómica y datos de dispositivos wearables para indicar el riesgo de enfermedad renal crónica. La validación forma parte del proyecto ‘Desarrollo de tecnología de brecha superior para la predicción y gestión de riesgos de salud a lo largo de todo el ciclo vital con AI basada en datos del fenoma’, dentro del programa líder de convergencia de servicios de atención personalizada basados en AI que apoyan el Ministerio de Ciencia y TIC y el Instituto de Planificación y Evaluación de Tecnologías de la Información y las Comunicaciones (IITP)."
-              },
-              {
-                "t": "p",
-                "x": "El equipo vincula y estandariza los historiales clínicos electrónicos (Electronic Medical Record) y los datos de chequeos de varias instituciones médicas, y añade a los datos de análisis genómico información sobre actividad física, sueño y hábitos alimentarios recogida con dispositivos wearables y la app, para desarrollar modelos de AI que predicen el riesgo de aparición y progresión de enfermedades como la enfermedad renal crónica. La app combina diversas variables clínicas, como chequeos y pruebas genómicas, para calcular el riesgo absoluto de cada persona, y suma datos de actividad, sueño y frecuencia cardíaca recibidos de un Galaxy Watch. Este proceso se realiza en la plataforma de salud del paciente con AI (PHAIR) y, además del riesgo de enfermedad renal crónica, la app ofrece coaching de estilo de vida."
-              },
-              {
-                "t": "p",
-                "x": "También se aplicó el aprendizaje federado (Federated Learning), que permite a varios hospitales entrenar una AI conjuntamente sin compartir directamente los datos de los pacientes. La validación clínica comenzó en octubre de 2026. Se reclutan 50 personas que usarán la app y el wearable durante 3 meses, y en el mes 3 se comprobará la función renal (eGFR, tasa de filtración glomerular estimada) con pruebas de imagen torácica y análisis de sangre de seguimiento."
-              },
-              {
-                "t": "p",
-                "x": "El estudio durará 6 meses en total, y el equipo prevé evaluar el uso, la satisfacción y la utilidad del servicio para examinar su aplicabilidad en la vida diaria. El equipo explicó que los modelos de predicción de riesgo existentes se centran en calcular la probabilidad de aparición o progresión de una enfermedad a partir de información clínica de un momento concreto, lo que limitaba su traslado a la gestión real de la salud. Esto se debe a que seguir de forma continua los factores de riesgo individuales y ofrecer retroalimentación personalizada exige una inversión constante de tiempo y personal médico."
-              },
-              {
-                "t": "p",
-                "x": "El equipo aspira a vincular el riesgo de enfermedad calculado por la AI con un coaching de estilo de vida personalizado basado en la app, y a construir un sistema de gestión que refleje de forma continua los cambios en el estado de salud y los hábitos de cada persona para ayudar a mejorar los factores de riesgo y prevenir enfermedades. Las funciones también están repartidas."
-              },
-              {
-                "t": "p",
-                "x": "El Hospital Seoul St. Mary's aporta datos de chequeos e información clínica, y el Departamento de Informática Médica de la Universidad Católica de Corea se encarga de desarrollar modelos de AI que predicen el riesgo de enfermedad renal crónica (CKD) y cáncer de pulmón. DigitalPharm se ocupa del análisis con AI y la operación de la plataforma, y Pyunghwa IS, de la operación del sistema de información hospitalaria y la conversión y transmisión de datos. El equipo considera que una tecnología de AI que refleje las características de salud de la población coreana es valiosa para detectar pronto a los grupos de alto riesgo y ofrecer atención individualizada antes de la aparición o el agravamiento de la enfermedad, y espera que contribuya al avance de la medicina de precisión y a la competitividad de la tecnología médica futura. El profesor Lee In-seok afirmó: “Es un estudio que comprueba en la práctica clínica real si la AI y los wearables pueden resolver la gestión continua del riesgo y la retroalimentación que eran difíciles de lograr solo con la consulta externa”. En el proyecto participan, con el Hospital Seoul St. Mary's como eje, el Hospital Kangbuk Samsung, el Sungkyun Institute of Bio-Convergence Science and Technology, WAYCEN, Samsung Electronics, NAVER Cloud, Miso Info Tech, Macrogen y DigitalPharm, entre otros."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "aha-rural-echo-ai-guidance",
+      "id": "nih-stroke-wrist-daps",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 안내로 비전문가도\n농촌 심장 초음파 촬영",
-      "body": "실시간 AI 안내 덕에 비전문 인력도 농촌 이동진료소에서 양질의 심초음파를 찍었다.",
-      "mini_headline": "AI 안내로 비전문가도 심장 촬영",
+      "headline": "손목 웨어러블로\n뇌졸중 팔 회복 추적",
+      "body": "뇌졸중 61명 손목 데이터로 만든 ML 척도가 팔 회복을 임상 검사만큼 잡았다.",
+      "mini_headline": "웨어러블로 뇌졸중 회복 추적",
       "tool": "Medicine",
-      "source": "American Heart Association Newsroom",
-      "url": "https://newsroom.heart.org/news/non-experts-with-ai-guidance-and-off-site-review-perform-quality-mobile-rural-heart-scans",
-      "accent": "#f5a623",
+      "source": "NIH Research Matters",
+      "url": "https://www.nih.gov/news-events/nih-research-matters/stroke-recovery-tracked-wearable-device",
+      "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://iprsoftwaremedia.com/67/files/20269/eec50b9c834cefd555f05b13149e03ca/6ad983fe3d633211624a8985_Ravi%20-%20Mobile%20Health%20Unit/Ravi%20-%20Mobile%20Health%20Unit_hero.jpg?v=452cc052-eaae-4f6d-93f1-4363f72b0584",
-            "cap": "RURAL 연구에 쓰인 이동진료소(Mobile Health Unit) - American Heart Association Scientific Sessions 2026 초록 포스터 MDP2290."
+            "src": "https://www.nih.gov/sites/default/files/2026-11/20261105-stroke.jpg",
+            "cap": "손목에 차는 기기로 뇌졸중 재활 중 팔을 얼마나 쓸 수 있는지 유용한 정보를 얻을 수 있다. voronaman / Shutterstock"
           },
           {
             "t": "p",
-            "x": "초음파 경험이 없는 의료 인력이 인공지능(AI)의 도움을 받아 농촌 지역에서 양질의 심장 스캔을 찍었고, 외부 전문가가 이 영상을 원격으로 검토했다. 미국심장협회(American Heart Association) Scientific Sessions 2026에서 발표될 새 예비 연구 결과다."
+            "x": "뇌졸중 후 팔 회복을 보는 임상 검사는 시간이 오래 걸리고 작은 변화를 놓칠 때가 많은 데다, 일상에서 팔을 어떻게 쓰는지도 담지 못한다. University of Massachusetts Amherst의 Sunghoon Lee 박사가 이끄는 NIH-funded 연구팀(NIH 지원)이 디지털 팔 수행 척도(DAPS)를 만들었다. 연구는 2026년 9월 30일 Science Translational Medicine에 실렸다."
           },
           {
             "t": "p",
-            "x": "RURAL 연구에 자원한 참가자 4,597명의 심장 스캔 가운데 98%가 표준 심초음파 시야 여섯 개를 모두 담았다. 핵심 판독실 전문가들은 99%가 넘는 검사를 적절하다고 봤다. 81%는 목표 시간인 15분 안에 끝났고 소요 시간 중앙값은 9.5분이었다."
+            "x": "6개월 안에 뇌졸중을 겪은 61명과 건강한 75명이 손목 가속도계를 찼고, 착용 시간은 모두 합쳐 수천 시간에 이르렀다. 연구진은 머신러닝으로 일상의 팔 움직임과 임상 검사 수행 능력이 어떻게 이어지는지 분석했다."
           },
           {
             "t": "p",
-            "x": "위급한 결과가 나온 스캔은 133건이었고 이 중 99%가 사흘 안에 참가자에게 전달됐다. 초음파사가 아닌 열네 명(간호사, 간호조무사, CT 기사)은 AI 안내(AI-guided) 초음파 교육을 2시간 받았다."
-          },
-          {
-            "t": "p",
-            "x": "Duke University School of Medicine의 연구 저자 Sanjana Ravi, M.D.는 “실시간 AI 안내와 이를 뒷받침하는 엄격한 품질관리 체계가 있으면, 이동진료소의 간호사나 CT 기사도 연구에 쓸 만하고 추적 관찰이 필요한 심각한 심장 문제를 짚어낼 만큼 좋은 심장 영상을 만들 수 있다”고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "초음파사가 얻은 영상과 AI 안내를 받은(AI-guided) 비초음파사의 영상을 직접 비교하지는 않았다. 소프트웨어도 한 브랜드만 썼다."
+            "x": "DAPS는 팔 움직임이 나아지는 과정을 임상 검사만큼 잘 따라갔고, 뇌졸중을 겪은 지 6개월이 넘은 다른 환자 79명에게도 비슷하게 쓸모가 있었다. 임상 점수가 만점인 환자와 뇌졸중을 겪은 적 없는 사람까지 가려냈다. 이전 임상시험 2건을 시뮬레이션해 보니 참가자가 훨씬 적어도 충분했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI guidance lets non-experts\ncapture rural heart scans",
-          "body": "With real-time AI guidance, staff without ultrasound training captured quality echocardiograms in a rural mobile unit.",
-          "mini_headline": "Non-experts scan hearts\nwith AI guidance",
+          "headline": "Wrist wearable tracks arm\nrecovery after stroke",
+          "body": "An ML scale built from wrist accelerometer data of 61 stroke patients tracked arm recovery as well as clinical tests.",
+          "mini_headline": "Wearable tracks stroke recovery",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20269/eec50b9c834cefd555f05b13149e03ca/6ad983fe3d633211624a8985_Ravi%20-%20Mobile%20Health%20Unit/Ravi%20-%20Mobile%20Health%20Unit_hero.jpg?v=452cc052-eaae-4f6d-93f1-4363f72b0584",
-                "cap": "Mobile Health Unit used in the RURAL study - American Heart Association Scientific Sessions 2026 Abstract Poster MDP2290."
+                "src": "https://www.nih.gov/sites/default/files/2026-11/20261105-stroke.jpg",
+                "cap": "Wrist-worn devices can provide useful information about people's ability to use their arms during stroke rehab. voronaman / Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Artificial intelligence (AI) helped health professionals with no ultrasound experience in capturing quality heart scans in rural communities, which were then reviewed by off-site experts, according to new preliminary research to be presented at the American Heart Association's Scientific Sessions 2026."
+                "x": "After a stroke, clinical tests used to track arm recovery are time-consuming, often cannot detect small changes, and don't capture everyday arm use. A team of NIH-funded researchers led by Dr. Sunghoon Lee of the University of Massachusetts Amherst created the digital arm performance scale (DAPS), published in Science Translational Medicine on September 30, 2026."
               },
               {
                 "t": "p",
-                "x": "In heart scans for 4,597 volunteer participants in the RURAL study, 98% of the scans included all six standard echocardiography views. Studies were rated adequate by the core laboratory experts more than 99% of the time. Scans were performed within a 15-minute target window 81% of the time, with a median time of 9.5 minutes."
+                "x": "Sixty-one people who had a stroke within six months and 75 healthy people wore wrist accelerometers for thousands of hours in total. The researchers used machine learning to relate everyday arm movements to performance on clinical tests."
               },
               {
                 "t": "p",
-                "x": "Critical results were identified in 133 scans; 99% were returned to participants within three days. Fourteen non-sonographers (nurses, nursing assistants and CT technicians) completed the 2-hour training in AI-guided ultrasound."
-              },
-              {
-                "t": "p",
-                "x": "“With real-time AI guidance and a rigorous quality-control system behind it, a nurse or CT technologist in a mobile unit can produce heart images good enough for research and good enough to flag serious heart problems that need follow-up,” said study author Sanjana Ravi, M.D., of the Duke University School of Medicine."
-              },
-              {
-                "t": "p",
-                "x": "There was no direct comparison between sonographer-acquired images and those from AI-guided non-sonographers, and only one brand of software was used."
+                "x": "DAPS tracked improvements in arm movement as well as the clinical tests did, and was similarly useful for 79 other patients who had a stroke more than six months before. It could even distinguish patients with the highest possible clinical score from people who never had a stroke, and in simulations of two previous trials it required far fewer participants."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 안내로 비전문가도\n농촌 심장 초음파 촬영",
-          "body": "실시간 AI 안내 덕에 비전문 인력도 농촌 이동진료소에서 양질의 심초음파를 찍었다.",
-          "mini_headline": "AI 안내로 비전문가도 심장 촬영",
+          "headline": "손목 웨어러블로\n뇌졸중 팔 회복 추적",
+          "body": "뇌졸중 61명 손목 데이터로 만든 ML 척도가 팔 회복을 임상 검사만큼 잡았다.",
+          "mini_headline": "웨어러블로 뇌졸중 회복 추적",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20269/eec50b9c834cefd555f05b13149e03ca/6ad983fe3d633211624a8985_Ravi%20-%20Mobile%20Health%20Unit/Ravi%20-%20Mobile%20Health%20Unit_hero.jpg?v=452cc052-eaae-4f6d-93f1-4363f72b0584",
-                "cap": "RURAL 연구에 쓰인 이동진료소(Mobile Health Unit) - American Heart Association Scientific Sessions 2026 초록 포스터 MDP2290."
+                "src": "https://www.nih.gov/sites/default/files/2026-11/20261105-stroke.jpg",
+                "cap": "손목에 차는 기기로 뇌졸중 재활 중 팔을 얼마나 쓸 수 있는지 유용한 정보를 얻을 수 있다. voronaman / Shutterstock"
               },
               {
                 "t": "p",
-                "x": "초음파 경험이 없는 의료 인력이 인공지능(AI)의 도움을 받아 농촌 지역에서 양질의 심장 스캔을 찍었고, 외부 전문가가 이 영상을 원격으로 검토했다. 미국심장협회(American Heart Association) Scientific Sessions 2026에서 발표될 새 예비 연구 결과다."
+                "x": "뇌졸중 후 팔 회복을 보는 임상 검사는 시간이 오래 걸리고 작은 변화를 놓칠 때가 많은 데다, 일상에서 팔을 어떻게 쓰는지도 담지 못한다. University of Massachusetts Amherst의 Sunghoon Lee 박사가 이끄는 NIH-funded 연구팀(NIH 지원)이 디지털 팔 수행 척도(DAPS)를 만들었다. 연구는 2026년 9월 30일 Science Translational Medicine에 실렸다."
               },
               {
                 "t": "p",
-                "x": "RURAL 연구에 자원한 참가자 4,597명의 심장 스캔 가운데 98%가 표준 심초음파 시야 여섯 개를 모두 담았다. 핵심 판독실 전문가들은 99%가 넘는 검사를 적절하다고 봤다. 81%는 목표 시간인 15분 안에 끝났고 소요 시간 중앙값은 9.5분이었다."
+                "x": "6개월 안에 뇌졸중을 겪은 61명과 건강한 75명이 손목 가속도계를 찼고, 착용 시간은 모두 합쳐 수천 시간에 이르렀다. 연구진은 머신러닝으로 일상의 팔 움직임과 임상 검사 수행 능력이 어떻게 이어지는지 분석했다."
               },
               {
                 "t": "p",
-                "x": "위급한 결과가 나온 스캔은 133건이었고 이 중 99%가 사흘 안에 참가자에게 전달됐다. 초음파사가 아닌 열네 명(간호사, 간호조무사, CT 기사)은 AI 안내(AI-guided) 초음파 교육을 2시간 받았다."
-              },
-              {
-                "t": "p",
-                "x": "Duke University School of Medicine의 연구 저자 Sanjana Ravi, M.D.는 “실시간 AI 안내와 이를 뒷받침하는 엄격한 품질관리 체계가 있으면, 이동진료소의 간호사나 CT 기사도 연구에 쓸 만하고 추적 관찰이 필요한 심각한 심장 문제를 짚어낼 만큼 좋은 심장 영상을 만들 수 있다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "초음파사가 얻은 영상과 AI 안내를 받은(AI-guided) 비초음파사의 영상을 직접 비교하지는 않았다. 소프트웨어도 한 브랜드만 썼다."
+                "x": "DAPS는 팔 움직임이 나아지는 과정을 임상 검사만큼 잘 따라갔고, 뇌졸중을 겪은 지 6개월이 넘은 다른 환자 79명에게도 비슷하게 쓸모가 있었다. 임상 점수가 만점인 환자와 뇌졸중을 겪은 적 없는 사람까지 가려냈다. 이전 임상시험 2건을 시뮬레이션해 보니 참가자가 훨씬 적어도 충분했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIの誘導で非専門家も\n農村部で心エコー撮影",
-          "body": "リアルタイムのAI誘導で、超音波未訓練の職員が農村の移動診療車で良質な心エコー画像を得た。",
-          "mini_headline": "AI誘導で非専門家が心エコー",
+          "headline": "手首ウェアラブルで\n脳卒中後の腕の回復を追跡",
+          "body": "脳卒中患者61人の手首加速度計データによるMLスケールが、臨床検査並みに腕の回復を追跡した。",
+          "mini_headline": "ウェアラブルで脳卒中回復を追跡",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20269/eec50b9c834cefd555f05b13149e03ca/6ad983fe3d633211624a8985_Ravi%20-%20Mobile%20Health%20Unit/Ravi%20-%20Mobile%20Health%20Unit_hero.jpg?v=452cc052-eaae-4f6d-93f1-4363f72b0584",
-                "cap": "RURAL研究で使われた移動診療ユニット(Mobile Health Unit) - American Heart Association Scientific Sessions 2026 抄録ポスターMDP2290。"
+                "src": "https://www.nih.gov/sites/default/files/2026-11/20261105-stroke.jpg",
+                "cap": "手首装着型デバイスは、脳卒中リハビリ中の腕の使用能力について有用な情報をもたらしうる。voronaman / Shutterstock"
               },
               {
                 "t": "p",
-                "x": "人工知能(AI)の支援により、超音波の経験がない医療従事者が農村地域で良質な心臓スキャンを撮影でき、その画像は遠隔の専門家が確認した。米国心臓協会(American Heart Association)のScientific Sessions 2026で発表予定の新たな予備研究による。"
+                "x": "脳卒中後に腕の回復を追う臨床検査は時間がかかり、小さな変化を捉えられないことが多く、日常の腕の使用も反映しない。University of Massachusetts AmherstのSunghoon Lee博士が率いるNIH-funded（NIHの助成を受けた）研究チームは、デジタル腕パフォーマンス尺度（DAPS）を開発し、2026年9月30日にScience Translational Medicineで発表した。"
               },
               {
                 "t": "p",
-                "x": "RURAL研究のボランティア参加者4,597人の心臓スキャンでは、98%が標準的な心エコーの六つの断面をすべて含んでいた。コアラボの専門家は99%を超える検査を適切と評価した。スキャンの81%は目標の15分以内に行われ、所要時間の中央値は9.5分だった。"
+                "x": "発症から6か月以内の脳卒中患者61人と健康な75人が、手首の加速度計を合計で数千時間装着した。研究者らは機械学習を用いて、日常の腕の動きと臨床検査の成績を関連づけた。"
               },
               {
                 "t": "p",
-                "x": "133件のスキャンで重大な所見が見つかり、その99%は三日以内に参加者に返された。超音波検査士ではない十四人(看護師、看護助手、CT技師)が、AI誘導(AI-guided)超音波の2時間の研修を修了した。"
-              },
-              {
-                "t": "p",
-                "x": "「リアルタイムのAI誘導とそれを支える厳格な品質管理体制があれば、移動ユニットの看護師やCT技師でも、研究に十分で、追跡が必要な重い心臓の問題を見つけるのにも十分な心臓画像を撮れる」と、Duke University School of Medicineの研究著者Sanjana Ravi, M.D.は述べた。"
-              },
-              {
-                "t": "p",
-                "x": "超音波検査士が撮影した画像とAI誘導(AI-guided)の非検査士による画像を直接比較してはおらず、使われたソフトウェアも一つのブランドだけだった。"
+                "x": "DAPSは腕の動きの改善を臨床検査と同等に追跡し、発症から6か月以上たった別の患者79人でも同様に有用だった。臨床スコアが満点の患者と脳卒中歴のない人を区別することさえでき、過去の2つの試験をシミュレーションすると、必要な参加者ははるかに少なかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI引导下非专业人员\n完成乡村心脏扫描",
-          "body": "借助实时AI引导，未受超声培训的人员在乡村流动医疗车中获得了高质量超声心动图。",
-          "mini_headline": "非专业人员借AI引导做心脏扫描",
+          "headline": "腕戴设备追踪\n中风后手臂恢复",
+          "body": "基于61名中风患者手腕加速度计数据的ML量表，追踪手臂恢复的效果与临床测试相当。",
+          "mini_headline": "可穿戴设备追踪中风恢复",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20269/eec50b9c834cefd555f05b13149e03ca/6ad983fe3d633211624a8985_Ravi%20-%20Mobile%20Health%20Unit/Ravi%20-%20Mobile%20Health%20Unit_hero.jpg?v=452cc052-eaae-4f6d-93f1-4363f72b0584",
-                "cap": "RURAL研究中使用的流动医疗单元(Mobile Health Unit) - American Heart Association Scientific Sessions 2026摘要海报MDP2290。"
+                "src": "https://www.nih.gov/sites/default/files/2026-11/20261105-stroke.jpg",
+                "cap": "腕戴设备可为中风康复期间患者使用手臂的能力提供有用信息。voronaman / Shutterstock"
               },
               {
                 "t": "p",
-                "x": "根据将在美国心脏协会(American Heart Association) Scientific Sessions 2026上发布的一项新的初步研究，人工智能(AI)帮助没有超声经验的医务人员在农村社区采集到高质量心脏扫描，随后由异地专家审阅。"
+                "x": "中风后用于追踪手臂恢复的临床测试耗时较长，往往无法发现细微变化，也不能反映日常手臂使用情况。由University of Massachusetts Amherst的Sunghoon Lee博士领导的NIH-funded（NIH资助）研究团队开发了数字手臂表现量表（DAPS），成果于2026年9月30日发表在Science Translational Medicine上。"
               },
               {
                 "t": "p",
-                "x": "在RURAL研究4,597名志愿参与者的心脏扫描中，98%包含全部六个标准超声心动图切面。核心实验室专家评定超过99%的检查合格。81%的扫描在15分钟目标时间内完成，中位用时9.5分钟。"
+                "x": "61名在六个月内发生中风的患者和75名健康人佩戴手腕加速度计，累计时长达数千小时。研究人员利用机器学习，将日常手臂动作与临床测试表现联系起来。"
               },
               {
                 "t": "p",
-                "x": "133次扫描发现危急结果，其中99%在三天内反馈给参与者。十四名非超声技师(护士、护理助理和CT技师)完成了2小时的AI引导(AI-guided)超声培训。"
-              },
-              {
-                "t": "p",
-                "x": "“有了实时AI引导及其背后严格的质量控制体系，流动单元中的护士或CT技师就能拍出足以用于研究、也足以发现需要随访的严重心脏问题的心脏图像，”Duke University School of Medicine的研究作者Sanjana Ravi, M.D.说。"
-              },
-              {
-                "t": "p",
-                "x": "研究没有直接比较超声技师采集的图像与AI引导(AI-guided)下非超声技师采集的图像，且只使用了一个品牌的软件。"
+                "x": "DAPS追踪手臂运动改善的效果与临床测试相当，对另外79名中风已超过六个月的患者同样有效。它甚至能区分临床评分满分的患者与从未中风的人；在对两项既往试验的模拟中，所需参与者也少得多。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Con guía de AI, no expertos\nescanean corazones en el campo",
-          "body": "Con AI en tiempo real, personal sin formación en ecografía logró ecocardiogramas de calidad en una unidad móvil rural.",
-          "mini_headline": "No expertos escanean corazones con guía de AI",
+          "headline": "Una pulsera mide la recuperación\ndel brazo tras un ictus",
+          "body": "Una escala de ML con datos de muñeca de 61 pacientes con ictus siguió la recuperación del brazo como el examen clínico.",
+          "mini_headline": "Un wearable sigue la recuperación del ictus",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20269/eec50b9c834cefd555f05b13149e03ca/6ad983fe3d633211624a8985_Ravi%20-%20Mobile%20Health%20Unit/Ravi%20-%20Mobile%20Health%20Unit_hero.jpg?v=452cc052-eaae-4f6d-93f1-4363f72b0584",
-                "cap": "Unidad móvil de salud (Mobile Health Unit) usada en el estudio RURAL - American Heart Association Scientific Sessions 2026, póster de resumen MDP2290."
+                "src": "https://www.nih.gov/sites/default/files/2026-11/20261105-stroke.jpg",
+                "cap": "Los dispositivos de muñeca pueden aportar información útil sobre la capacidad de usar los brazos durante la rehabilitación tras un ictus. voronaman / Shutterstock"
               },
               {
                 "t": "p",
-                "x": "La inteligencia artificial (AI) ayudó a profesionales sanitarios sin experiencia en ecografía a obtener exploraciones cardíacas de calidad en comunidades rurales, que luego revisaron expertos a distancia, según una nueva investigación preliminar que se presentará en las Scientific Sessions 2026 de la American Heart Association."
+                "x": "Tras un ictus, las pruebas clínicas que siguen la recuperación del brazo requieren mucho tiempo, a menudo no detectan cambios pequeños y no reflejan el uso cotidiano del brazo. Un equipo de investigadores NIH-funded (financiado por los NIH) dirigido por el Dr. Sunghoon Lee, de la University of Massachusetts Amherst, creó la escala digital de rendimiento del brazo (DAPS), publicada en Science Translational Medicine el 30 de septiembre de 2026."
               },
               {
                 "t": "p",
-                "x": "En las exploraciones cardíacas de 4,597 participantes voluntarios del estudio RURAL, el 98% incluyó las seis vistas ecocardiográficas estándar. Los expertos del laboratorio central calificaron los estudios como adecuados en más del 99% de los casos. El 81% de las exploraciones se realizó dentro del objetivo de 15 minutos, con una mediana de 9.5 minutos."
+                "x": "Sesenta y una personas que habían sufrido un ictus en los seis meses previos y 75 personas sanas llevaron acelerómetros de muñeca durante miles de horas en total. Los investigadores usaron aprendizaje automático para relacionar los movimientos cotidianos del brazo con el rendimiento en las pruebas clínicas."
               },
               {
                 "t": "p",
-                "x": "Se identificaron resultados críticos en 133 exploraciones; el 99% se comunicó a los participantes en un plazo de tres días. Catorce no ecografistas (enfermeras, auxiliares de enfermería y técnicos de CT) completaron la formación de 2 horas en ecografía guiada por AI (AI-guided)."
-              },
-              {
-                "t": "p",
-                "x": "“Con guía de AI en tiempo real y un riguroso sistema de control de calidad detrás, una enfermera o un técnico de CT en una unidad móvil puede producir imágenes cardíacas lo bastante buenas para la investigación y para señalar problemas cardíacos graves que requieren seguimiento”, afirmó la autora del estudio Sanjana Ravi, M.D., de la Duke University School of Medicine."
-              },
-              {
-                "t": "p",
-                "x": "No hubo una comparación directa entre las imágenes obtenidas por ecografistas y las de no ecografistas guiados por AI (AI-guided), y solo se usó una marca de software."
+                "x": "La DAPS siguió las mejoras del movimiento del brazo tan bien como las pruebas clínicas y resultó igual de útil en otros 79 pacientes que habían sufrido un ictus más de seis meses antes. Incluso pudo distinguir a pacientes con la máxima puntuación clínica posible de personas que nunca habían tenido un ictus, y en simulaciones de dos ensayos anteriores requirió muchos menos participantes."
               }
             ]
           }
@@ -1521,145 +1091,344 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 안내로 비전문가도\n농촌 심장 초음파 촬영",
-          "body": "실시간 AI 안내로 비전문 인력이 농촌 이동진료소에서 양질의 심초음파를 찍었다.",
-          "mini_headline": "AI 안내로 비전문가도 심장 촬영",
+          "headline": "손목 웨어러블로\n뇌졸중 팔 회복 추적",
+          "body": "뇌졸중 61명의 손목 데이터로 만든 ML 척도가 팔 회복을 임상 검사만큼 추적했다.",
+          "mini_headline": "웨어러블로 뇌졸중 회복 추적",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20269/eec50b9c834cefd555f05b13149e03ca/6ad983fe3d633211624a8985_Ravi%20-%20Mobile%20Health%20Unit/Ravi%20-%20Mobile%20Health%20Unit_hero.jpg?v=452cc052-eaae-4f6d-93f1-4363f72b0584",
-                "cap": "RURAL 연구에 쓰인 이동진료소(Mobile Health Unit) - American Heart Association Scientific Sessions 2026 초록 포스터 MDP2290."
+                "src": "https://www.nih.gov/sites/default/files/2026-11/20261105-stroke.jpg",
+                "cap": "손목 착용 기기는 뇌졸중 재활 중 팔 사용 능력에 대한 유용한 정보를 제공할 수 있다. voronaman / Shutterstock"
               },
               {
                 "t": "p",
-                "x": "인공지능(AI)의 도움으로 초음파 경험이 없는 의료 인력이 농촌 지역에서 양질의 심장 스캔을 촬영했고, 이 영상은 외부 전문가가 원격으로 검토했다. 미국심장협회(American Heart Association) Scientific Sessions 2026에서 발표될 새 예비 연구 결과다."
+                "x": "뇌졸중 후 팔 회복을 추적하는 임상 검사는 시간이 많이 들고, 작은 변화를 잡아내지 못할 때가 많으며, 일상적인 팔 사용을 반영하지 못한다. University of Massachusetts Amherst의 Sunghoon Lee 박사가 이끄는 NIH-funded 연구팀(NIH 지원)은 디지털 팔 수행 척도(DAPS)를 만들었고, 이 연구는 2026년 9월 30일 Science Translational Medicine에 실렸다."
               },
               {
                 "t": "p",
-                "x": "RURAL 연구의 자원 참가자 4,597명의 심장 스캔 중 98%가 표준 심초음파 시야 여섯 개를 모두 담았다. 핵심 판독실 전문가들은 99%가 넘는 검사를 적절하다고 평가했다. 스캔의 81%가 15분 목표 시간 안에 끝났고, 소요 시간 중앙값은 9.5분이었다."
+                "x": "6개월 이내에 뇌졸중을 겪은 61명과 건강한 75명이 손목 가속도계를 모두 합쳐 수천 시간 착용했다. 연구진은 머신러닝으로 일상적인 팔 움직임과 임상 검사 수행 능력의 관계를 분석했다."
               },
               {
                 "t": "p",
-                "x": "133건의 스캔에서 위급한 결과가 확인됐고, 이 중 99%가 사흘 안에 참가자에게 전달됐다. 초음파사가 아닌 열네 명(간호사, 간호조무사, CT 기사)이 AI 안내(AI-guided) 초음파 2시간 교육을 마쳤다."
-              },
-              {
-                "t": "p",
-                "x": "Duke University School of Medicine의 연구 저자 Sanjana Ravi, M.D.는 “실시간 AI 안내와 이를 뒷받침하는 엄격한 품질관리 체계가 있으면, 이동진료소의 간호사나 CT 기사도 연구에 쓸 만하고 추적 관찰이 필요한 심각한 심장 문제를 짚어낼 만큼 좋은 심장 영상을 만들 수 있다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "초음파사가 얻은 영상과 AI 안내를 받은(AI-guided) 비초음파사의 영상을 직접 비교하지는 않았고, 소프트웨어도 한 브랜드만 썼다."
+                "x": "DAPS는 팔 움직임의 개선을 임상 검사만큼 잘 추적했고, 뇌졸중을 겪은 지 6개월이 넘은 다른 환자 79명에게도 비슷하게 유용했다. 임상 점수 만점인 환자와 뇌졸중을 겪은 적 없는 사람을 구별하기까지 했으며, 이전 임상시험 2건을 시뮬레이션한 결과 훨씬 적은 참가자로 충분했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIの誘導で非専門家も\n農村部で心エコー撮影",
-          "body": "リアルタイムのAI誘導で、超音波未訓練の職員が農村の移動診療車で良質な心エコー画像を得た。",
-          "mini_headline": "AI誘導で非専門家が心エコー",
+          "headline": "手首ウェアラブルで\n脳卒中後の腕の回復を追跡",
+          "body": "脳卒中患者61人の手首加速度計データによるMLスケールが、臨床検査並みに腕の回復を追跡した。",
+          "mini_headline": "ウェアラブルで脳卒中回復を追跡",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20269/eec50b9c834cefd555f05b13149e03ca/6ad983fe3d633211624a8985_Ravi%20-%20Mobile%20Health%20Unit/Ravi%20-%20Mobile%20Health%20Unit_hero.jpg?v=452cc052-eaae-4f6d-93f1-4363f72b0584",
-                "cap": "RURAL研究で使われた移動診療ユニット(Mobile Health Unit) - American Heart Association Scientific Sessions 2026 抄録ポスターMDP2290。"
+                "src": "https://www.nih.gov/sites/default/files/2026-11/20261105-stroke.jpg",
+                "cap": "手首装着型デバイスは、脳卒中リハビリ中の腕の使用能力について有用な情報をもたらしうる。voronaman / Shutterstock"
               },
               {
                 "t": "p",
-                "x": "人工知能(AI)の支援により、超音波の経験がない医療従事者が農村地域で良質な心臓スキャンを撮影でき、その画像は遠隔の専門家が確認した。米国心臓協会(American Heart Association)のScientific Sessions 2026で発表予定の新たな予備研究による。"
+                "x": "脳卒中後に腕の回復を追う臨床検査は時間がかかり、小さな変化を捉えられないことが多く、日常の腕の使用も反映しない。University of Massachusetts AmherstのSunghoon Lee博士が率いるNIH-funded（NIHの助成を受けた）研究チームは、デジタル腕パフォーマンス尺度（DAPS）を開発し、2026年9月30日にScience Translational Medicineで発表した。"
               },
               {
                 "t": "p",
-                "x": "RURAL研究のボランティア参加者4,597人の心臓スキャンでは、98%が標準的な心エコーの六つの断面をすべて含んでいた。コアラボの専門家は99%を超える検査を適切と評価した。スキャンの81%は目標の15分以内に行われ、所要時間の中央値は9.5分だった。"
+                "x": "発症から6か月以内の脳卒中患者61人と健康な75人が、手首の加速度計を合計で数千時間装着した。研究者らは機械学習を用いて、日常の腕の動きと臨床検査の成績を関連づけた。"
               },
               {
                 "t": "p",
-                "x": "133件のスキャンで重大な所見が見つかり、その99%は三日以内に参加者に返された。超音波検査士ではない十四人(看護師、看護助手、CT技師)が、AI誘導(AI-guided)超音波の2時間の研修を修了した。"
-              },
-              {
-                "t": "p",
-                "x": "「リアルタイムのAI誘導とそれを支える厳格な品質管理体制があれば、移動ユニットの看護師やCT技師でも、研究に十分で、追跡が必要な重い心臓の問題を見つけるのにも十分な心臓画像を撮れる」と、Duke University School of Medicineの研究著者Sanjana Ravi, M.D.は述べた。"
-              },
-              {
-                "t": "p",
-                "x": "超音波検査士が撮影した画像とAI誘導(AI-guided)の非検査士による画像を直接比較してはおらず、使われたソフトウェアも一つのブランドだけだった。"
+                "x": "DAPSは腕の動きの改善を臨床検査と同等に追跡し、発症から6か月以上たった別の患者79人でも同様に有用だった。臨床スコアが満点の患者と脳卒中歴のない人を区別することさえでき、過去の2つの試験をシミュレーションすると、必要な参加者ははるかに少なかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI引导下非专业人员\n完成乡村心脏扫描",
-          "body": "借助实时AI引导，未受超声培训的人员在乡村流动医疗车中获得了高质量超声心动图。",
-          "mini_headline": "非专业人员借AI引导做心脏扫描",
+          "headline": "腕戴设备追踪\n中风后手臂恢复",
+          "body": "基于61名中风患者手腕加速度计数据的ML量表，追踪手臂恢复的效果与临床测试相当。",
+          "mini_headline": "可穿戴设备追踪中风恢复",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20269/eec50b9c834cefd555f05b13149e03ca/6ad983fe3d633211624a8985_Ravi%20-%20Mobile%20Health%20Unit/Ravi%20-%20Mobile%20Health%20Unit_hero.jpg?v=452cc052-eaae-4f6d-93f1-4363f72b0584",
-                "cap": "RURAL研究中使用的流动医疗单元(Mobile Health Unit) - American Heart Association Scientific Sessions 2026摘要海报MDP2290。"
+                "src": "https://www.nih.gov/sites/default/files/2026-11/20261105-stroke.jpg",
+                "cap": "腕戴设备可为中风康复期间患者使用手臂的能力提供有用信息。voronaman / Shutterstock"
               },
               {
                 "t": "p",
-                "x": "根据将在美国心脏协会(American Heart Association) Scientific Sessions 2026上发布的一项新的初步研究，人工智能(AI)帮助没有超声经验的医务人员在农村社区采集到高质量心脏扫描，随后由异地专家审阅。"
+                "x": "中风后用于追踪手臂恢复的临床测试耗时较长，往往无法发现细微变化，也不能反映日常手臂使用情况。由University of Massachusetts Amherst的Sunghoon Lee博士领导的NIH-funded（NIH资助）研究团队开发了数字手臂表现量表（DAPS），成果于2026年9月30日发表在Science Translational Medicine上。"
               },
               {
                 "t": "p",
-                "x": "在RURAL研究4,597名志愿参与者的心脏扫描中，98%包含全部六个标准超声心动图切面。核心实验室专家评定超过99%的检查合格。81%的扫描在15分钟目标时间内完成，中位用时9.5分钟。"
+                "x": "61名在六个月内发生中风的患者和75名健康人佩戴手腕加速度计，累计时长达数千小时。研究人员利用机器学习，将日常手臂动作与临床测试表现联系起来。"
               },
               {
                 "t": "p",
-                "x": "133次扫描发现危急结果，其中99%在三天内反馈给参与者。十四名非超声技师(护士、护理助理和CT技师)完成了2小时的AI引导(AI-guided)超声培训。"
-              },
-              {
-                "t": "p",
-                "x": "“有了实时AI引导及其背后严格的质量控制体系，流动单元中的护士或CT技师就能拍出足以用于研究、也足以发现需要随访的严重心脏问题的心脏图像，”Duke University School of Medicine的研究作者Sanjana Ravi, M.D.说。"
-              },
-              {
-                "t": "p",
-                "x": "研究没有直接比较超声技师采集的图像与AI引导(AI-guided)下非超声技师采集的图像，且只使用了一个品牌的软件。"
+                "x": "DAPS追踪手臂运动改善的效果与临床测试相当，对另外79名中风已超过六个月的患者同样有效。它甚至能区分临床评分满分的患者与从未中风的人；在对两项既往试验的模拟中，所需参与者也少得多。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Con guía de AI, no expertos\nescanean corazones en el campo",
-          "body": "Con AI en tiempo real, personal sin formación en ecografía logró ecocardiogramas de calidad en una unidad móvil rural.",
-          "mini_headline": "No expertos escanean corazones con guía de AI",
+          "headline": "Una pulsera mide la recuperación\ndel brazo tras un ictus",
+          "body": "Una escala de ML con datos de muñeca de 61 pacientes con ictus siguió la recuperación del brazo como el examen clínico.",
+          "mini_headline": "Un wearable sigue la recuperación del ictus",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20269/eec50b9c834cefd555f05b13149e03ca/6ad983fe3d633211624a8985_Ravi%20-%20Mobile%20Health%20Unit/Ravi%20-%20Mobile%20Health%20Unit_hero.jpg?v=452cc052-eaae-4f6d-93f1-4363f72b0584",
-                "cap": "Unidad móvil de salud (Mobile Health Unit) usada en el estudio RURAL - American Heart Association Scientific Sessions 2026, póster de resumen MDP2290."
+                "src": "https://www.nih.gov/sites/default/files/2026-11/20261105-stroke.jpg",
+                "cap": "Los dispositivos de muñeca pueden aportar información útil sobre la capacidad de usar los brazos durante la rehabilitación tras un ictus. voronaman / Shutterstock"
               },
               {
                 "t": "p",
-                "x": "La inteligencia artificial (AI) ayudó a profesionales sanitarios sin experiencia en ecografía a obtener exploraciones cardíacas de calidad en comunidades rurales, que luego revisaron expertos a distancia, según una nueva investigación preliminar que se presentará en las Scientific Sessions 2026 de la American Heart Association."
+                "x": "Tras un ictus, las pruebas clínicas que siguen la recuperación del brazo requieren mucho tiempo, a menudo no detectan cambios pequeños y no reflejan el uso cotidiano del brazo. Un equipo de investigadores NIH-funded (financiado por los NIH) dirigido por el Dr. Sunghoon Lee, de la University of Massachusetts Amherst, creó la escala digital de rendimiento del brazo (DAPS), publicada en Science Translational Medicine el 30 de septiembre de 2026."
               },
               {
                 "t": "p",
-                "x": "En las exploraciones cardíacas de 4,597 participantes voluntarios del estudio RURAL, el 98% incluyó las seis vistas ecocardiográficas estándar. Los expertos del laboratorio central calificaron los estudios como adecuados en más del 99% de los casos. El 81% de las exploraciones se realizó dentro del objetivo de 15 minutos, con una mediana de 9.5 minutos."
+                "x": "Sesenta y una personas que habían sufrido un ictus en los seis meses previos y 75 personas sanas llevaron acelerómetros de muñeca durante miles de horas en total. Los investigadores usaron aprendizaje automático para relacionar los movimientos cotidianos del brazo con el rendimiento en las pruebas clínicas."
               },
               {
                 "t": "p",
-                "x": "Se identificaron resultados críticos en 133 exploraciones; el 99% se comunicó a los participantes en un plazo de tres días. Catorce no ecografistas (enfermeras, auxiliares de enfermería y técnicos de CT) completaron la formación de 2 horas en ecografía guiada por AI (AI-guided)."
-              },
-              {
-                "t": "p",
-                "x": "“Con guía de AI en tiempo real y un riguroso sistema de control de calidad detrás, una enfermera o un técnico de CT en una unidad móvil puede producir imágenes cardíacas lo bastante buenas para la investigación y para señalar problemas cardíacos graves que requieren seguimiento”, afirmó la autora del estudio Sanjana Ravi, M.D., de la Duke University School of Medicine."
-              },
-              {
-                "t": "p",
-                "x": "No hubo una comparación directa entre las imágenes obtenidas por ecografistas y las de no ecografistas guiados por AI (AI-guided), y solo se usó una marca de software."
+                "x": "La DAPS siguió las mejoras del movimiento del brazo tan bien como las pruebas clínicas y resultó igual de útil en otros 79 pacientes que habían sufrido un ictus más de seis meses antes. Incluso pudo distinguir a pacientes con la máxima puntuación clínica posible de personas que nunca habían tenido un ictus, y en simulaciones de dos ensayos anteriores requirió muchos menos participantes."
               }
             ]
           }
         }
+      }
+    },
+    {
+      "id": "cedars-tavr-cta-fibrosis",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Deep-learning model predicts\nmortality from CTA scans",
+      "body": "AI quantified valve fibrosis on CTA in 1.35 minutes, and the highest fibrotic volume carried twice the mortality risk.",
+      "mini_headline": "AI CTA model predicts mortality",
+      "tool": "Medicine",
+      "source": "AuntMinnie",
+      "url": "https://www.auntminnie.com/clinical-news/ct/article/16424554/deeplearning-model-predicts-mortality-from-cta-scans",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "A deep-learning AI model can predict long-term mortality by quantifying aortic valve fibrotic and calcific tissue from CT angiography (CTA) scans, according to a study published November 5 in JACC: Cardiovascular Imaging. The international, multicenter study included 1,674 patients who underwent CTA at nine sites for routine TAVR planning, led by Kajetan Grodecki, MD, PhD, of Cedars-Sinai Medical Center."
+          },
+          {
+            "t": "p",
+            "x": "The nnU-Net-based system was trained on 468 patients and applied to an external test set of 1,206 patients from centers in Poland, Germany, the United Kingdom and the United States."
+          },
+          {
+            "t": "img",
+            "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/cac-ai-model.5zit2QCAiF.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+            "cap": "Comparison of deep learning segmentation (A) with quantitative histology (B), demonstrating excellent agreement between methods (C). JACC: Cardiovascular Imaging"
+          },
+          {
+            "t": "p",
+            "x": "The model completed tissue analysis in 1.35 minutes on average versus 7.2 minutes for expert readers, with excellent agreement against experts (r = 0.915) and histology (r = 0.909). Over a mean 4.1 years, 469 patients (40%) died. Patients with the highest fibrotic tissue volumes (>0.940 cm³) faced a 2-fold higher death risk, and those with dense calcific attenuation a 1.5-fold higher risk."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Deep-learning model predicts\nmortality from CTA scans",
+          "body": "AI quantified valve fibrosis on CTA in 1.35 minutes, and the highest fibrotic volume carried twice the mortality risk.",
+          "mini_headline": "AI CTA model predicts mortality",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "A deep-learning AI model can predict long-term mortality by quantifying aortic valve fibrotic and calcific tissue from CT angiography (CTA) scans, according to a study published November 5 in JACC: Cardiovascular Imaging. The international, multicenter study included 1,674 patients who underwent CTA at nine sites for routine TAVR planning, led by Kajetan Grodecki, MD, PhD, of Cedars-Sinai Medical Center."
+              },
+              {
+                "t": "p",
+                "x": "The nnU-Net-based system was trained on 468 patients and applied to an external test set of 1,206 patients from centers in Poland, Germany, the United Kingdom and the United States."
+              },
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/cac-ai-model.5zit2QCAiF.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+                "cap": "Comparison of deep learning segmentation (A) with quantitative histology (B), demonstrating excellent agreement between methods (C). JACC: Cardiovascular Imaging"
+              },
+              {
+                "t": "p",
+                "x": "The model completed tissue analysis in 1.35 minutes on average versus 7.2 minutes for expert readers, with excellent agreement against experts (r = 0.915) and histology (r = 0.909). Over a mean 4.1 years, 469 patients (40%) died. Patients with the highest fibrotic tissue volumes (>0.940 cm³) faced a 2-fold higher death risk, and those with dense calcific attenuation a 1.5-fold higher risk."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "深層学習モデルが\nCTAで死亡リスク予測",
+          "body": "AIはCTAで弁線維化を1.35分で定量し、線維化量最大群の死亡リスクは2倍だった。",
+          "mini_headline": "AI CTAモデルが死亡を予測",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "11月5日にJACC: Cardiovascular Imagingに掲載された研究によると、深層学習AIモデルはCT血管造影（CTA）画像から大動脈弁の線維性・石灰化組織を定量化し、長期死亡率を予測できる。Cedars-Sinai Medical CenterのKajetan Grodecki（MD, PhD）が率いたこの国際多施設研究には、9施設で通常のTAVR計画のためにCTAを受けた患者1,674人が含まれた。"
+              },
+              {
+                "t": "p",
+                "x": "nnU-Net-basedのシステムは患者468人で学習し、ポーランド、ドイツ、英国、米国の施設の患者1,206人からなる外部テストセットに適用された。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/cac-ai-model.5zit2QCAiF.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+                "cap": "深層学習によるセグメンテーション（A）と定量的組織学（B）の比較。両手法の一致は極めて良好だった（C）。JACC: Cardiovascular Imaging"
+              },
+              {
+                "t": "p",
+                "x": "モデルの組織解析は平均1.35分で完了し、専門読影医の7.2分を下回った。専門家（r = 0.915）や組織学（r = 0.909）との一致も極めて良好だった。平均4.1年の間に469人（40%）が死亡した。線維性組織量が最も多い患者（>0.940 cm³）は死亡リスクが2倍、石灰化の減衰が高密度の患者は1.5倍高かった。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "深度学习模型\n从CTA预测死亡风险",
+          "body": "AI在1.35分钟内完成CTA瓣膜纤维化定量，纤维化体积最高者死亡风险翻倍。",
+          "mini_headline": "AI CTA模型预测死亡",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "据11月5日发表于JACC: Cardiovascular Imaging的一项研究，深度学习AI模型可通过量化CT血管造影（CTA）图像中的主动脉瓣纤维化和钙化组织来预测长期死亡率。这项国际多中心研究由Cedars-Sinai Medical Center的Kajetan Grodecki（MD, PhD）领导，纳入了在9个中心因常规TAVR规划接受CTA检查的1,674名患者。"
+              },
+              {
+                "t": "p",
+                "x": "这一nnU-Net-based系统（基于nnU-Net）以468名患者进行训练，并应用于来自波兰、德国、英国和美国各中心的1,206名患者组成的外部测试集。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/cac-ai-model.5zit2QCAiF.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+                "cap": "深度学习分割（A）与定量组织学（B）的比较，显示两种方法高度一致（C）。JACC: Cardiovascular Imaging"
+              },
+              {
+                "t": "p",
+                "x": "该模型完成组织分析平均用时1.35分钟，专家阅片则需7.2分钟；其与专家（r = 0.915）和组织学（r = 0.909）的一致性极佳。在平均4.1年的随访中，469名患者（40%）死亡。纤维化组织体积最高（>0.940 cm³）的患者死亡风险升至2倍，钙化衰减致密者升至1.5倍。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Aprendizaje profundo predice\nla mortalidad con escáneres CTA",
+          "body": "La IA cuantificó la fibrosis valvular en CTA en 1,35 minutos, y el mayor volumen fibrótico duplicó el riesgo de muerte.",
+          "mini_headline": "Modelo de IA con CTA predice mortalidad",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Un modelo de IA de aprendizaje profundo puede predecir la mortalidad a largo plazo al cuantificar el tejido fibrótico y calcificado de la válvula aórtica en angiografías por CT (CTA), según un estudio publicado el 5 de noviembre en JACC: Cardiovascular Imaging. El estudio internacional y multicéntrico, dirigido por Kajetan Grodecki, MD, PhD, de Cedars-Sinai Medical Center, incluyó a 1.674 pacientes que se sometieron a CTA en nueve centros para la planificación rutinaria de TAVR."
+              },
+              {
+                "t": "p",
+                "x": "El sistema nnU-Net-based se entrenó con 468 pacientes y se aplicó a un conjunto de prueba externo de 1.206 pacientes de centros de Polonia, Alemania, el Reino Unido y Estados Unidos."
+              },
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/cac-ai-model.5zit2QCAiF.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+                "cap": "Comparación de la segmentación por aprendizaje profundo (A) con la histología cuantitativa (B), que muestra una excelente concordancia entre ambos métodos (C). JACC: Cardiovascular Imaging"
+              },
+              {
+                "t": "p",
+                "x": "El modelo completó el análisis del tejido en 1,35 minutos de media, frente a 7,2 minutos de los lectores expertos, con una concordancia excelente con los expertos (r = 0,915) y con la histología (r = 0,909). En una media de 4,1 años murieron 469 pacientes (40 %). Los pacientes con mayor volumen de tejido fibrótico (>0,940 cm³) tuvieron un riesgo de muerte 2 veces mayor, y los de atenuación cálcica densa, 1,5 veces mayor."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ja": {
+          "headline": "深層学習モデルが\nCTAで死亡リスク予測",
+          "body": "AIはCTAで弁線維化を1.35分で定量し、線維化量最大群の死亡リスクは2倍だった。",
+          "mini_headline": "AI CTAモデルが死亡を予測",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "11月5日にJACC: Cardiovascular Imagingに掲載された研究によると、深層学習AIモデルはCT血管造影（CTA）画像から大動脈弁の線維性・石灰化組織を定量化し、長期死亡率を予測できる。Cedars-Sinai Medical CenterのKajetan Grodecki（MD, PhD）が率いたこの国際多施設研究には、9施設で通常のTAVR計画のためにCTAを受けた患者1,674人が含まれた。"
+              },
+              {
+                "t": "p",
+                "x": "nnU-Net-basedのシステムは患者468人で学習し、ポーランド、ドイツ、英国、米国の施設の患者1,206人からなる外部テストセットに適用された。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/cac-ai-model.5zit2QCAiF.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+                "cap": "深層学習によるセグメンテーション（A）と定量的組織学（B）の比較。両手法の一致は極めて良好だった（C）。JACC: Cardiovascular Imaging"
+              },
+              {
+                "t": "p",
+                "x": "モデルの組織解析は平均1.35分で完了し、専門読影医の7.2分を下回った。専門家（r = 0.915）や組織学（r = 0.909）との一致も極めて良好だった。平均4.1年の間に469人（40%）が死亡した。線維性組織量が最も多い患者（>0.940 cm³）は死亡リスクが2倍、石灰化の減衰が高密度の患者は1.5倍高かった。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "深度学习模型\n从CTA预测死亡风险",
+          "body": "AI在1.35分钟内完成CTA瓣膜纤维化定量，纤维化体积最高者死亡风险翻倍。",
+          "mini_headline": "AI CTA模型预测死亡",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "据11月5日发表于JACC: Cardiovascular Imaging的一项研究，深度学习AI模型可通过量化CT血管造影（CTA）图像中的主动脉瓣纤维化和钙化组织来预测长期死亡率。这项国际多中心研究由Cedars-Sinai Medical Center的Kajetan Grodecki（MD, PhD）领导，纳入了在9个中心因常规TAVR规划接受CTA检查的1,674名患者。"
+              },
+              {
+                "t": "p",
+                "x": "这一nnU-Net-based系统（基于nnU-Net）以468名患者进行训练，并应用于来自波兰、德国、英国和美国各中心的1,206名患者组成的外部测试集。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/cac-ai-model.5zit2QCAiF.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+                "cap": "深度学习分割（A）与定量组织学（B）的比较，显示两种方法高度一致（C）。JACC: Cardiovascular Imaging"
+              },
+              {
+                "t": "p",
+                "x": "该模型完成组织分析平均用时1.35分钟，专家阅片则需7.2分钟；其与专家（r = 0.915）和组织学（r = 0.909）的一致性极佳。在平均4.1年的随访中，469名患者（40%）死亡。纤维化组织体积最高（>0.940 cm³）的患者死亡风险升至2倍，钙化衰减致密者升至1.5倍。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Aprendizaje profundo predice\nla mortalidad con escáneres CTA",
+          "body": "La IA cuantificó la fibrosis valvular en CTA en 1,35 minutos, y el mayor volumen fibrótico duplicó el riesgo de muerte.",
+          "mini_headline": "Modelo de IA con CTA predice mortalidad",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Un modelo de IA de aprendizaje profundo puede predecir la mortalidad a largo plazo al cuantificar el tejido fibrótico y calcificado de la válvula aórtica en angiografías por CT (CTA), según un estudio publicado el 5 de noviembre en JACC: Cardiovascular Imaging. El estudio internacional y multicéntrico, dirigido por Kajetan Grodecki, MD, PhD, de Cedars-Sinai Medical Center, incluyó a 1.674 pacientes que se sometieron a CTA en nueve centros para la planificación rutinaria de TAVR."
+              },
+              {
+                "t": "p",
+                "x": "El sistema nnU-Net-based se entrenó con 468 pacientes y se aplicó a un conjunto de prueba externo de 1.206 pacientes de centros de Polonia, Alemania, el Reino Unido y Estados Unidos."
+              },
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/cac-ai-model.5zit2QCAiF.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+                "cap": "Comparación de la segmentación por aprendizaje profundo (A) con la histología cuantitativa (B), que muestra una excelente concordancia entre ambos métodos (C). JACC: Cardiovascular Imaging"
+              },
+              {
+                "t": "p",
+                "x": "El modelo completó el análisis del tejido en 1,35 minutos de media, frente a 7,2 minutos de los lectores expertos, con una concordancia excelente con los expertos (r = 0,915) y con la histología (r = 0,909). En una media de 4,1 años murieron 469 pacientes (40 %). Los pacientes con mayor volumen de tejido fibrótico (>0,940 cm³) tuvieron un riesgo de muerte 2 veces mayor, y los de atenuación cálcica densa, 1,5 veces mayor."
+              }
+            ]
+          }
+        }
+      },
+      "i18n_status": {
+        "ko": "fallback"
       }
     }
   ]

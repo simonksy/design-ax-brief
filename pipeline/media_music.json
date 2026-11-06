@@ -1,31 +1,7 @@
-{
- "date": "2026-11-06",
- "section": "music",
- "media": [
-  {
-   "id": "splice-create-ai-daw",
-   "type": "image",
-   "src": "pipeline/media/splice-create-ai-daw.png"
-  },
-  {
-   "id": "avid-protools-sixstem-split",
-   "type": "image",
-   "src": "pipeline/media/avid-protools-sixstem-split.jpg"
-  },
-  {
-   "id": "elevenlabs-soundcloud-publish",
-   "type": "image",
-   "src": "pipeline/media/elevenlabs-soundcloud-publish.jpg"
-  },
-  {
-   "id": "ddex-elevenlabs-membership",
-   "type": "image",
-   "src": "pipeline/media/ddex-elevenlabs-membership.jpg"
-  },
-  {
-   "id": "pianobench-arxiv-benchmark",
-   "type": "image",
-   "src": "pipeline/media/pianobench-arxiv-benchmark.png"
-  }
- ]
-}
+{"date":"2026-11-07","section":"music","media":[
+{"id":"cubase16-stem-omnivocal","type":"video","src":"pipeline/media/cubase16-stem-omnivocal.mp4","poster":"pipeline/media/cubase16-stem-omnivocal.jpg"},
+{"id":"newjeans-ador-ai-voice","type":"image","src":"pipeline/media/newjeans-ador-ai-voice.jpg"},
+{"id":"mashup-edu-nia-agent","type":"image","src":"pipeline/media/mashup-edu-nia-agent.jpg"},
+{"id":"nile-rodgers-ai-video","type":"image","src":"pipeline/media/nile-rodgers-ai-video.jpg"},
+{"id":"impala-cop31-ai-sustainability","type":"image","src":"pipeline/media/impala-cop31-ai-sustainability.png"}
+]}

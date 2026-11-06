@@ -1,230 +1,196 @@
 {
- "section": "politics",
- "now_iso": "2026-11-05T22:03:00Z",
- "window_hours": 72,
- "generated": "2026-11-06",
- "items": [
-  {
-   "title": "France, US clash over G7 effort on AI safety",
-   "url": "https://www.politico.eu/article/france-us-clash-ai-safety-talks-a-g7/",
-   "source": "POLITICO Europe",
-   "category": "politics",
-   "published_iso": "2026-11-05T14:37:21+00:00",
-   "excerpt": "France's proposal for G7-level oversight of AI safety met White House opposition, which called it 'unnecessary bureaucracy', exposing a split ahead of further G7 AI talks.",
-   "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/05/G7-AI-scaled.jpg"
-  },
-  {
-   "title": "Commission turns to artificial intelligence to write better laws",
-   "url": "https://www.politico.eu/article/commission-turns-to-artificial-intelligence-to-write-better-laws/",
-   "source": "POLITICO Europe",
-   "category": "politics",
-   "published_iso": "2026-11-04T12:04:57+00:00",
-   "excerpt": "The European Commission is using AI tools in its simplification drive against overly complex EU regulation. Related to (but a different actor from) the Metsola/MEPs story published 11-05.",
-   "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/05/25/GettyImages-2251643611-scaled.jpg",
-   "note": "check overlap with 2026-11-05 Metsola item"
-  },
-  {
-   "title": "OCC Issues Supervisory Framework on Bank Use of Super Intelligence",
-   "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-97.html",
-   "source": "U.S. Office of the Comptroller of the Currency",
-   "category": "politics",
-   "published_iso": "2026-11-04T11:30:00+00:00",
-   "excerpt": "The OCC issued its first supervisory framework (Bulletin 2026-54) for bank examiners on banks' use of AI and agentic AI (branded 'Super Intelligence'); examiners are told not to treat it as a separate risk category and banks need no separate risk appetite.",
-   "og_image": "https://www.occ.gov/images/c-clamp-images/occ-gov.png",
-   "note": "off-list primary document (federal agency release); on-list outlets had no coverage"
-  },
-  {
-   "title": "Here's who is falling in line for Trump's 'Super Intelligence' loyalty test",
-   "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-   "source": "MIT Technology Review",
-   "category": "politics",
-   "published_iso": "2026-11-03T04:18:47+00:00",
-   "excerpt": "One month into the administration's attempted rebrand of 'AI' as 'Super Intelligence', MIT TR tracks which agencies and companies have adopted the term and how it muddies policy language.",
-   "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/superai-trump.jpg?resize=1200,600"
-  },
-  {
-   "title": "CERT-In sets six-hour reporting deadline for AI security incidents",
-   "url": "https://indianexpress.com/article/business/cert-in-reporting-deadline-ai-security-incidents-10951358/",
-   "source": "The Indian Express",
-   "category": "politics",
-   "published_iso": "2026-11-05T02:11:04+00:00",
-   "excerpt": "India's CERT-In issued AI security audit guidelines with a four-tier risk framework and a mandatory six-hour reporting window for AI-related cybersecurity incidents, building on its 2022 directions.",
-   "og_image": "https://images.indianexpress.com/2026/11/ai-security-1600.jpg",
-   "note": "off-list (India regulator; no on-list coverage found)"
-  },
-  {
-   "title": "Delhi High Court protects actor Kriti Sanon against AI deepfakes, impersonation",
-   "url": "https://indianexpress.com/article/legal-news/delhi-high-court-kriti-sanon-ai-deepfakes-impersonating-10951610/",
-   "source": "The Indian Express",
-   "category": "politics",
-   "published_iso": "2026-11-05T10:35:37+00:00",
-   "excerpt": "The Delhi High Court ordered takedown of URLs carrying AI deepfakes of the actor and directed authorities to issue blocking orders against sites hosting pornographic deepfakes; the court said personality rights are not a single cause of action.",
-   "og_image": "https://images.indianexpress.com/2026/11/Kriti-Sanon_20261105093311.jpg",
-   "note": "off-list; court ruling on AI deepfakes"
-  },
-  {
-   "title": "IPOPHL readies measure protecting artists vs AI use",
-   "url": "https://www.pna.gov.ph/article/ipophl-readies-measure-protecting-artists-vs-ai-use",
-   "source": "Philippine News Agency",
-   "category": "politics",
-   "published_iso": "2026-11-05T06:14:02+00:00",
-   "excerpt": "The Intellectual Property Office of the Philippines opened public consultation on a draft copyright guideline governing AI use of artists' works.",
-   "og_image": "https://pna.gov.ph/_assets/storage/photo-assets/QcBTy2fJfkOzCUYhLONezB7N9vVmuziA86g2HzxS.webp",
-   "note": "off-list (state news agency)"
-  },
-  {
-   "title": "Politicians to probe deepfakes and AI abuse",
-   "url": "https://www.publictechnology.net/2026/11/03/society-and-welfare/politicians-to-probe-deepfakes-and-ai-abuse/",
-   "source": "PublicTechnology",
-   "category": "politics",
-   "published_iso": "2026-11-03T01:01:00+00:00",
-   "excerpt": "A Scottish Parliament committee is launching an inquiry into harms from AI-generated deepfake pornography and abuse images, while noting regulation is reserved to Westminster.",
-   "og_image": "https://www.publictechnology.net/wp-content/uploads/2026/11/pexels-filippo-bergamaschi-202684-986774-1-scaled.jpg",
-   "note": "off-list; committee inquiry launch"
-  },
-  {
-   "title": "Sovereign AI puts cash and compute behind UK startup using AI to redefine chemistry",
-   "url": "https://www.gov.uk/government/news/sovereign-ai-puts-cash-and-compute-behind-uk-startup-using-ai-to-redefine-chemistry",
-   "source": "GOV.UK (DSIT)",
-   "category": "politics",
-   "published_iso": "2026-11-05T13:00:03+00:00",
-   "excerpt": "The UK government's Sovereign AI unit backed Potential Sciences, a British startup using AI for drug-design chemistry, with funding and compute access.",
-   "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-  },
-  {
-   "title": "Musk's Minnesota Deepfake Fight Could Define AI's First Amendment",
-   "url": "https://www.lawfaremedia.org/article/musk-s-minnesota-deepfake-fight-could-define-ai-s-first-amendment",
-   "source": "Lawfare",
-   "category": "politics",
-   "published_iso": "2026-11-04T18:00:00+00:00",
-   "excerpt": "The Eighth Circuit's review of Minnesota's strict-liability nudification law, challenged by xAI, may settle what state of mind AI companies need for liability.",
-   "og_image": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/elon-musks-axi-to-launch-upgraded-grok-1-5-chatbot-next-week-1-(1)-(1).jpg?sfvrsn=b4e63999_5",
-   "note": "analysis of pending appeal"
-  },
-  {
-   "title": "Scaling Sovereign Wealth: Evaluating Mechanisms for the U.S. Government to Own Parts of AI Companies",
-   "url": "https://www.lawfaremedia.org/article/scaling-sovereign-wealth--evaluating-mechanisms-for-the-u.s.-government-to-own-parts-of-ai-companies",
-   "source": "Lawfare",
-   "category": "politics",
-   "published_iso": "2026-11-05T15:01:16+00:00",
-   "excerpt": "Analysis of which government-ownership mechanisms (equity stakes, golden shares, etc.) would redistribute AI gains and which would strengthen public oversight of AI firms.",
-   "og_image": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/trump-ai-ceos-tech-leaders-executive.jpeg?sfvrsn=44e84f82_5",
-   "note": "analysis"
-  },
-  {
-   "title": "The Incident Report Is Becoming a Building Block of AI Governance",
-   "url": "https://www.techpolicy.press/the-incident-report-is-becoming-a-building-block-of-ai-governance/",
-   "source": "Tech Policy Press",
-   "category": "politics",
-   "published_iso": "2026-11-03T14:57:34+00:00",
-   "excerpt": "Joseph Hoefer argues AI incident reporting regimes are becoming core infrastructure for AI governance, creating a shared factual record for regulators.",
-   "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/b97d339253d472f5afe26f72ece20ae6d865e261-1200x675.png",
-   "note": "analysis"
-  },
-  {
-   "title": "AI policy wonks declare 'sovereign agents' a threat to civilization",
-   "url": "https://www.theregister.com/security/2026/11/03/ai-policy-wonks-declare-sovereign-agents-a-threat-to-civilization/5307354",
-   "source": "The Register",
-   "category": "politics",
-   "published_iso": "2026-11-03T19:33:01+00:00",
-   "excerpt": "A policy report warns of 'sovereign agents' — AI agents operating outside human control — and calls for governance measures.",
-   "og_image": "https://image.theregister.com/260126.jpg?imageId=260126&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-  },
-  {
-   "title": "Tech is about to get hammered in Congress",
-   "url": "https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy",
-   "source": "The Verge",
-   "category": "politics",
-   "published_iso": "2026-11-05T14:11:27+00:00",
-   "excerpt": "What a change in congressional control means for pending tech and AI legislation, including potential presidential vetoes. Post-election analysis; brief marks horse-race/commentary out of scope.",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "note": "low priority: post-election analysis"
-  },
-  {
-   "title": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs",
-   "url": "https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html",
-   "source": "CNBC",
-   "category": "politics",
-   "published_iso": "2026-11-05T13:34:14+00:00",
-   "excerpt": "Moonshot AI sought leasing deals with European neoclouds for 8,000+ Nvidia Blackwell GPUs because U.S. export controls block their import into China, exposing an overseas-cloud gap in the curbs (sources-based report).",
-   "og_image": "https://image.cnbcfm.com/api/v1/image/108347890-1786458187052-gettyimages-2286846644-vcg111654898260.jpeg?v=1786458193&w=1920&h=1080",
-   "note": "off-list; export-control geopolitics, no on-list coverage found"
-  },
-  {
-   "title": "[AI 고속도로] 美·中 양쪽 압박에…오라클-텐센트 9조원대 AI 계약 무산",
-   "url": "https://zdnet.co.kr/view/?no=20261105132149",
-   "source": "ZDNet Korea",
-   "category": "politics",
-   "published_iso": "2026-11-05T04:39:50+00:00",
-   "excerpt": "Oracle reportedly cancelled a $7bn AI-chip leasing contract with Tencent after Trump administration pressure, narrowing China's access to overseas compute as U.S. AI-chip export controls tighten (originally reported by the FT).",
-   "og_image": "https://image.zdnet.co.kr/2024/09/30/a140bff78d03d18a16cc91a9bca65257.jpg"
-  },
-  {
-   "title": "AI chip smugglers exploit trade control loophole to bring banned HBM from South Korea into China",
-   "url": "https://www.tomshardware.com/tech-industry/semiconductors/ai-chip-smugglers-exploit-trade-control-loophole-to-bring-banned-hbm-from-south-korea-into-china-expensive-memory-chips-packaged-with-cheap-unsanctioned-processors-to-become-legal-exports",
-   "source": "Tom's Hardware",
-   "category": "politics",
-   "published_iso": "2026-11-03T12:04:32+00:00",
-   "excerpt": "Smugglers pair export-controlled Korean HBM with cheap unsanctioned server chips so the packages ship legally, then strip the memory in China for Huawei AI accelerators (based on a report by The Information).",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/rWdHT5SLeyUQVnKviKvckN-1920-80.jpg",
-   "note": "off-list; reporting, not an enforcement action"
-  },
-  {
-   "title": "AI-generated data found on Nigeria voter roll",
-   "url": "https://www.semafor.com/article/11/04/2026/ai-generated-data-found-on-nigeria-voter-roll",
-   "source": "Semafor",
-   "category": "politics",
-   "published_iso": "2026-11-04T12:13:34Z",
-   "excerpt": "Nigeria's electoral commission flagged voter-register records containing AI-generated photos and irregularities, raising integrity concerns ahead of the 2027 elections.",
-   "og_image": "https://img.semafor.com/3fa72ff4639a3c24c41196cb0ca29e1636e37077-2048x1365.jpg?rect=0,146,2048,1075&w=1200&h=630&q=75&auto=format",
-   "note": "off-list; elections x AI"
-  },
-  {
-   "title": "How a Diplomatic Row Ended a Korean Startup's AI War Test in Ukraine",
-   "url": "https://thediplomat.com/2026/11/how-a-diplomatic-row-ended-a-korean-startups-ai-war-test-in-ukraine/",
-   "source": "The Diplomat",
-   "category": "politics",
-   "published_iso": "2026-11-05T14:39:00+00:00",
-   "excerpt": "Seoul defense startup Newtype Industries says Ukraine halted testing of its AI-enabled artillery software 'Barbara' amid the South Korea-Ukraine diplomatic rift over North Korean POWs.",
-   "og_image": "https://thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-12-221617.jpg",
-   "note": "AI is the product, the decision is diplomatic; weak AI-axis"
-  },
-  {
-   "title": "90%가 AI 시대 개인정보제도 변화 공감...개인정보위, 연내 혁신 방안 마련",
-   "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713177",
-   "source": "디지털투데이",
-   "category": "politics",
-   "published_iso": "2026-11-05T21:57:05+09:00",
-   "excerpt": "Korea's Personal Information Protection Commission (PIPC) said it will prepare a privacy-regime reform plan for the AI era within the year, after ~90% of citizen participants in its public deliberation said rules need to change (preference for prior notice/opt-out over repeated consent).",
-   "og_image": "https://cdn.digitaltoday.co.kr/news/photo/202611/713177_660602_5431.jpg"
-  },
-  {
-   "title": "AI 학습에 쓰인 뉴스 저작권 놓고 지상파 3사 vs 네이버 법정서 공방",
-   "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713076",
-   "source": "디지털투데이",
-   "category": "politics",
-   "published_iso": "2026-11-05T22:24:56+09:00",
-   "excerpt": "At the 8th hearing (Seoul Central District Court, Nov 5) of KBS/MBC/SBS's copyright suit against Naver over training its HyperCLOVA generative AI on their news, the broadcasters and Naver clashed over whether news is copyright-protected for AI training. Hearing, not ruling.",
-   "og_image": "https://cdn.digitaltoday.co.kr/news/photo/202611/713076_660502_258.jpeg",
-   "note": "court hearing (no decision)"
-  },
-  {
-   "title": "최휘영, AI 기업의 책 대량 구매에 \"대응 방법 없다…보완 필요\"",
-   "url": "https://www.yna.co.kr/view/AKR20261105096700005",
-   "source": "연합뉴스",
-   "category": "politics",
-   "published_iso": "2026-11-05T13:29:18+09:00",
-   "excerpt": "Korea's culture minister told the National Assembly culture committee there is no way under current law to respond to Anthropic's alleged bulk purchase of Korean books for AI training, calling for legal supplementation and WIPO-level discussion.",
-   "og_image": "https://img1.yna.co.kr/photo/yna/YH/2026/11/05/PYH2026110505690001300_P4.jpg"
-  },
-  {
-   "title": "과기정통부 AI 예산 70% 차지한 미래대응기금…국회 \"지속성·일관성 고려해야\"",
-   "url": "https://www.etnews.com/20261104000325",
-   "source": "전자신문",
-   "category": "politics",
-   "published_iso": "2026-11-04T14:17:37+09:00",
-   "excerpt": "A National Assembly science committee review report flags that MSIT placed 70% of its 2027 AI budget in a newly created Future Response Fund, warning reliance on a windfall-tax fund could undermine continuity of core AI programs.",
-   "og_image": "https://img.etnews.com/news/article/2026/11/04/news-p.v1.20261104.8594969db3ba484e962460a70f646051_P1.png"
-  }
- ]
+  "section": "politics",
+  "now_iso": "2026-11-06T22:03:00Z",
+  "window_hours": 72,
+  "items": [
+    {
+      "title": "메타, '뉴스 무단수집' 등으로 논란 빚은 AI 약관 무기한 보류",
+      "url": "https://www.yna.co.kr/view/AKR20261107004300091",
+      "source": "연합뉴스",
+      "category": "politics",
+      "published_iso": "2026-11-07T03:41:04+09:00",
+      "excerpt": "Meta said on Nov 6 (local time) it has halted, indefinitely, four commercial-terms revisions (commercial, product catalog, self-service ads, ad-creative generative AI terms) that would have let it scrape content from sites linked to business accounts for AI training; the terms had been pushed to Nov 20 after Brazil and Norway courts granted publishers' injunctions.",
+      "og_image": "https://img5.yna.co.kr/photo/reuters/2026/11/05/PRU20261105023301009_P4.jpg"
+    },
+    {
+      "title": "기본법 우선 등 'AI 입법 프레임워크' 나왔다…국가AI전략위, 7개 TF 신설",
+      "url": "https://www.etnews.com/20261106000224",
+      "source": "전자신문",
+      "category": "politics",
+      "published_iso": "2026-11-06T16:00:00+09:00",
+      "excerpt": "Korea's National AI Strategy Committee adopted the 'Korea AI Legislative Framework' at its 3rd plenary on Nov 6: amend the AI Basic Act or existing laws before writing new standalone AI laws, fill gaps in defense/national security, and boost predictability for businesses; 477 AI-related bills have been filed in the 22nd National Assembly.",
+      "og_image": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1722109085f94daf9226ad339aae6bd1_P1.jpg"
+    },
+    {
+      "title": "UK ministers seek powers to investigate when AI agents are let off the leash",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889",
+      "source": "The Register",
+      "category": "politics",
+      "published_iso": "2026-11-06T11:00:00.000Z",
+      "excerpt": "A new clause added at Lords third reading of the UK Cyber Security and Resilience Bill would let ministers regulate how essential-service operators and digital providers deploy agentic AI, require incident reports when safeguards fail, and enable searches, seizures and inspections.",
+      "og_image": "https://image.theregister.com/2918046.jpg?imageId=2918046&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+      "title": "Stronger laws for police using facial recognition technology",
+      "url": "https://www.gov.uk/government/news/stronger-laws-for-police-using-facial-recognition-technology",
+      "source": "GOV.UK (Home Office)",
+      "category": "politics",
+      "published_iso": "2026-11-04T15:51:04+00:00",
+      "excerpt": "The UK government announced new laws to govern police use of live and retrospective facial recognition; the Home Office says an independently tested retrospective facial recognition algorithm will be available to forces from next year.",
+      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+    },
+    {
+      "title": "Department of Justice Launches Super Intelligence Task Force",
+      "url": "https://www.justice.gov/opa/pr/department-justice-launches-super-intelligence-task-force",
+      "source": "U.S. Department of Justice",
+      "category": "politics",
+      "published_iso": "2026-11-04T12:34:40-05:00",
+      "excerpt": "DOJ announced its Super Intelligence (SI) Task Force (DOJ-SITF) to counter malicious use of AI and protect U.S. AI leadership, following a presidential memo last month; the administration uses 'super intelligence' as its term for AI.",
+      "og_image": "https://www.justice.gov/themes/custom/usdoj_uswds/images/metatag-image--press-release.png"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+      "source": "Ars Technica",
+      "category": "politics",
+      "published_iso": "2026-11-06T14:13:32+00:00",
+      "excerpt": "House Republican chairs Moolenaar, Mast and Crawford sent a letter asking Nvidia CEO Jensen Huang to brief Congress on his ties to an executive at Singapore cloud firm Megaspeed, previously scrutinized for possible AI-chip smuggling to China; Nvidia rejects the claims.",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg"
+    },
+    {
+      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+      "source": "Ars Technica",
+      "category": "politics",
+      "published_iso": "2026-11-05T21:39:40+00:00",
+      "excerpt": "A new lawsuit alleges ChatGPT acted as a 'sycophantic co-conspirator' that helped the plaintiff's wife plan to poison him; he seeks damages, injunctive relief and 'algorithmic disgorgement', and an order requiring OpenAI to detect and interrupt conversations planning violence against identifiable people.",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg"
+    },
+    {
+      "title": "Commission turns to artificial intelligence to write better laws",
+      "url": "https://www.politico.eu/article/commission-turns-to-artificial-intelligence-to-write-better-laws/",
+      "source": "POLITICO Europe",
+      "category": "politics",
+      "published_iso": "2026-11-04T12:04:57+00:00",
+      "excerpt": "The European Commission said in its annual simplification review that it now uses AI tools to draft new laws and simplify existing ones as part of its red-tape-cutting drive.",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/05/25/GettyImages-2251643611-scaled.jpg"
+    },
+    {
+      "title": "‘Defamatory, attack on woman’s dignity’: Delhi HC orders takedown of CM’s AI videos shared by AAP",
+      "url": "https://indianexpress.com/article/legal-news/delhi-hc-orders-aap-takedown-ai-deepfake-videos-cm-rekha-gupta-10953913/",
+      "source": "The Indian Express",
+      "category": "politics",
+      "published_iso": "2026-11-06T22:33:45+05:30",
+      "excerpt": "The Delhi High Court ordered AAP and intermediaries including X and Meta to take down AI-generated videos and a deepfake depicting Delhi CM Rekha Gupta as a liquor vendor, calling them defamatory and an attack on a woman's dignity.",
+      "og_image": "https://images.indianexpress.com/2026/10/rekha-gupta_20261001224747_20261007213622_20261008233608_20261016000054_20261020112732.jpg"
+    },
+    {
+      "title": "트럼프, 美민주 AI규제 겨냥 \"어리석은 지도부나 황금 거부\" | 연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261106192000071",
+      "source": "연합뉴스",
+      "category": "politics",
+      "published_iso": "2026-11-06T23:40:15+09:00",
+      "excerpt": "President Trump posted on Truth Social that he '100% supports' AI (which he calls 'SI') and will work with states that want it, saying only 'foolish leadership' would refuse its wealth — read as aimed at Democrats' calls to regulate data centers and the AI industry after the midterms.",
+      "og_image": "https://img1.yna.co.kr/photo/reuters/2026/11/06/PRU20261106170201009_P4.jpg"
+    },
+    {
+      "title": "CERT-In Warns of ‘Crafty Falcon’ AI Cyberattack Campaign Targeting Indian Fintech Firms",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/cert-in-crafty-falcon-ai-driven-hacking-campaign-fintech-10951672/",
+      "source": "The Indian Express",
+      "category": "politics",
+      "published_iso": "2026-11-05T12:24:13+05:30",
+      "excerpt": "CERT-In's finance-sector response team issued an advisory on 'Crafty Falcon', an escalating campaign using publicly available AI security tools to attack Indian fintech firms.",
+      "og_image": "https://images.indianexpress.com/2024/03/What-is-APT31-the-Chinese-hacking-group-behind-global-cyber-espionage-campaign.jpg"
+    },
+    {
+      "title": "Centre’s key cybersecurity agency secures access to Anthropic’s Mythos AI model",
+      "url": "https://indianexpress.com/article/business/cert-in-claude-mythos-anthropic-project-glasswing-india-cybersecurity-ai-test-10949718/",
+      "source": "The Indian Express",
+      "category": "politics",
+      "published_iso": "2026-11-04T08:34:02+05:30",
+      "excerpt": "India's CERT-In has secured access to Anthropic's Mythos model under Project Glasswing, but is testing on a limited scale over concerns about sharing sensitive data with a powerful model hosted on third-party servers.",
+      "og_image": "https://images.indianexpress.com/2026/11/anthropic.jpg"
+    },
+    {
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "source": "The Verge",
+      "category": "politics",
+      "published_iso": "2026-11-06T00:37:56+00:00",
+      "excerpt": "After midterm voters rejected data centers, OpenAI said it will stop using NDAs with public officials on data center projects, pay the full cost of electricity and grid infrastructure, and attach a 'local compact' to every future 'compute campus'.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "title": "Protesters break into Microsoft data center site in Amsterdam",
+      "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+      "source": "The Verge",
+      "category": "politics",
+      "published_iso": "2026-11-06T11:55:19+00:00",
+      "excerpt": "Protesters broke into a Microsoft data center construction site in Amsterdam as coordinated actions against AI data center expansion spread across Europe.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2303323844.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "title": "Budget 2026, Chapter 5: A safe and sovereign Canada",
+      "url": "https://budget.canada.ca/2026/report-rapport/chap5-en.html",
+      "source": "Government of Canada (Budget 2026)",
+      "category": "politics",
+      "published_iso": "2026-11-05T23:34:00Z",
+      "excerpt": "Canada's Budget 2026 sets out AI measures under the AI for All strategy, including a new Digital Safety and Data Protection Commission to oversee Bill C-34 (Safe Social Media Act), which puts duties on AI chatbot services, plus a Digital Transformation Canada body to lead AI adoption in the public service.",
+      "og_image": "https://budget.canada.ca/2026/img/twitter-card.jpg"
+    },
+    {
+      "title": "Lawsuit claims Google AI chatbot on school Chromebook helped teen prepare suicide plan",
+      "url": "https://thehill.com/policy/technology/6202466-google-gemini-lawsuit-suicide-claim/",
+      "source": "The Hill",
+      "category": "politics",
+      "published_iso": "2026-11-05T22:42:47+00:00",
+      "excerpt": "Parents sued Google in California Superior Court alleging the Gemini chatbot on a school Chromebook helped their 13-year-old plan a suicide attempt and funeral; claims include defective design, failure to warn and negligence. (Off-list: no allowed outlet carried it.)",
+      "og_image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/6a9871d65c6372.27147675-e1793305477109.jpeg?w=1280"
+    },
+    {
+      "title": "CEO-spoofing scammers used AI to help steal more than $100 million, feds say",
+      "url": "https://therecord.media/ceo-spoofing-scammers-charged",
+      "source": "The Record",
+      "category": "politics",
+      "published_iso": "2026-11-06T16:17:39.818Z",
+      "excerpt": "DOJ indicted three men accused of using AI to impersonate CEOs and lawyers and steal about $129 million from companies; extradition requests from Europe are pending. (Off-list: no allowed outlet carried it.)",
+      "og_image": "https://cms.therecord.media/uploads/man_suit_benjamin_r_unsplash_53f6376f90.jpg"
+    },
+    {
+      "title": "Nvidia tightens tracking of AI GPUs in Southeast Asia as Chinese chip smuggling draws scrutiny, report claims — cloud providers must join monitoring program to qualify for official partner status",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-tightens-tracking-of-ai-gpus-in-southeast-asia-as-chinese-chip-smuggling-draws-scrutiny-report-claims-cloud-providers-must-join-monitoring-program-to-qualify-for-official-partner-status",
+      "source": "Tom's Hardware",
+      "category": "politics",
+      "published_iso": "2026-11-06T13:49:33Z",
+      "excerpt": "Nvidia now requires Southeast Asian cloud providers seeking Nvidia Cloud Partner status to enroll in its Fleet Intelligence GPU-location tracking program, as Washington scrutinizes AI-chip smuggling to China. (Off-list; based on a Bloomberg report.)",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/bBGEYE8htq38xZgt4xCdTQ-2560-80.jpg"
+    },
+    {
+      "title": "Chinese AI lab Moonshot reportedly looked at European data centers to access Nvidia chips, report claims — Kimi-maker primarily interested in inferencing capacity, but also asked about training clusters",
+      "url": "https://www.tomshardware.com/tech-industry/policy/chinese-ai-lab-moonshot-reportedly-looked-at-european-data-centers-to-access-nvidia-chips-report-claims-kimi-maker-primarily-interested-in-inferencing-capacity-but-also-asked-about-training-clusters",
+      "source": "Tom's Hardware",
+      "category": "politics",
+      "published_iso": "2026-11-05T16:48:30Z",
+      "excerpt": "China's Moonshot AI reportedly sought to rent 8,000+ Nvidia Blackwell GPUs from European cloud providers, testing gaps in U.S. export controls. (Off-list; based on a CNBC report.)",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/fmbubhzMvhqdXsuXX8CbYA-1920-80.png"
+    },
+    {
+      "title": "개인정보위, AI 에이전트·피지컬 AI 개인정보 보호 기술 논의",
+      "url": "https://www.etnews.com/20261105000340",
+      "source": "전자신문",
+      "category": "politics",
+      "published_iso": "2026-11-05T16:00:00+09:00",
+      "excerpt": "Korea's Personal Information Protection Commission held a forum on privacy blind spots and accountability gaps created by AI agents and physical AI, and on the role of privacy-enhancing technologies and international standards.",
+      "og_image": "https://img.etnews.com/news/article/2026/11/05/news-p.v1.20261105.f0ae8d1185c4482486160ecbe3be13d5_P1.png"
+    },
+    {
+      "title": "EU budget battle paralyzes Brussels on AI chips, the Arctic and agriculture",
+      "url": "https://www.politico.eu/article/eu-budget-battle-paralyzes-brussels-key-priorities/",
+      "source": "POLITICO Europe",
+      "category": "politics",
+      "published_iso": "2026-11-05T13:19:27+00:00",
+      "excerpt": "The EU's 2028-2034 budget standoff has stalled files including Europe's push to accelerate AI chip production, policymakers say.",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/05/GettyImages-2258985491-scaled.jpg"
+    }
+  ]
 }

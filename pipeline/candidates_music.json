@@ -1,170 +1,196 @@
 {
- "section": "music",
- "now_iso": "2026-11-05T22:03:00Z",
- "window_hours": 336,
- "items": [
-  {
-   "title": "Splice's new AI DAW feels like a cheat code for music production",
-   "url": "https://www.musicradar.com/music-tech/splices-new-ai-daw-feels-like-a-cheat-code-for-music-production-but-it-left-us-with-one-big-question",
-   "source": "MusicRadar",
-   "category": "music",
-   "published_iso": "2026-11-05T15:36:29Z",
-   "excerpt": "Splice launches Create in beta: a free Mac DAW built around the Splice library with a voice-controlled AI chatbot, Rheo, that can teach you to make a track or assemble a full song from Splice samples and stock instruments.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/MKxdBMTbkaGpg7vnhZevTo-2560-80.png"
-  },
-  {
-   "title": "Pro Tools now features AI stem separation",
-   "url": "https://musictech.com/news/pro-tools-now-features-ai-stem-separation/",
-   "source": "MusicTech",
-   "category": "music",
-   "published_iso": "2026-11-05T10:56:12+00:00",
-   "excerpt": "Avid's Pro Tools 2026.11 adds an AI stem separation extension that splits any recording into up to six stems (vocals, drums, bass, guitar, keys, other) via drag-and-drop.",
-   "og_image": "https://musictech.com/wp-content/uploads/2026/11/Pro-Tools-Stem-hero@2000x1500-1068x801.jpg",
-   "note": "Release of the tool previewed at IBC (production-expert, published 09-15); stem separation hit 11-05 (Photon) - deprioritized slot"
-  },
-  {
-   "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
-   "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
-   "source": "TechCrunch",
-   "category": "music",
-   "published_iso": "2026-11-05T15:00:00+00:00",
-   "excerpt": "ElevenLabs' Eleven Music now publishes tracks straight to SoundCloud without a download step; the company says more than 25 million tracks have been generated with its music models.",
-   "og_image": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675"
-  },
-  {
-   "title": "You can post AI music straight to SoundCloud from ElevenLabs",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
-   "source": "The Verge",
-   "category": "music",
-   "published_iso": "2026-11-05T15:00:00+00:00",
-   "excerpt": "SoundCloud partners with another generative AI music service, ElevenLabs, letting Eleven Music users push AI-made songs directly to SoundCloud.",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1083228772.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "note": "Same story as TechCrunch item - alternate source"
-  },
-  {
-   "title": "DDEX Announces ElevenLabs as First AI Company to Join Membership",
-   "url": "https://www.digitalmusicnews.com/2026/11/05/ddex-elevenlabs-first-ai-company/",
-   "source": "Digital Music News",
-   "category": "music",
-   "published_iso": "2026-11-05T20:23:51+00:00",
-   "excerpt": "Music metadata standards body DDEX has admitted ElevenLabs as its first AI-company member, bringing an AI music generator into the industry's delivery/metadata standards process.",
-   "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ddex-announces-elevenlabs-as-first-ai-company-to-join-membership.png"
-  },
-  {
-   "title": "Nile Rodgers Defends His Use of AI in New Music Video: \"You're Being Hypocritical\"",
-   "url": "https://consequence.net/2026/11/nile-rodgers-ai-music-video-defensds/",
-   "source": "Consequence",
-   "category": "music",
-   "published_iso": "2026-11-05T14:45:15-05:00",
-   "excerpt": "Nile Rodgers pushes back at fans criticizing the AI-generated visuals in his upcoming music video for 'The Christmas Song' with Rebecca Ferguson.",
-   "og_image": "https://consequence.net/wp-content/uploads/2026/11/nile-rogers-ai-christmas-song.jpg"
-  },
-  {
-   "title": "Paid $200 for Logic Pro? Apple Says You Won't Get This New Feature",
-   "url": "https://www.macrumors.com/2026/11/05/logic-pro-new-feature-requires-subscription/",
-   "source": "MacRumors",
-   "category": "music",
-   "published_iso": "2026-11-05T17:51:57+00:00",
-   "excerpt": "Logic Pro 13.0 for Mac shipped today; per Apple's release notes, its AI-powered Intelligent Assistant requires an Apple Creator Studio subscription ($12.99/mo or $129/yr), so one-time $199 buyers don't get it.",
-   "og_image": "https://images.macrumors.com/t/ixV27noKvMa7O0Ww351rwhL4ydQ=/1920x/article-new/2026/11/Logic-Pro-Intelligent-Assistant.jpg",
-   "note": "OFF-LIST exception: Logic Pro 13 public release (beta covered 10-28; keywords ask for public release). No allowed-domain coverage of the 11-05 release found (musicradar/gearnews pieces are 10-28)."
-  },
-  {
-   "title": "Apple Creator Studio App Updates Rolling Out, Starting With Logic Pro",
-   "url": "https://www.macrumors.com/2026/11/05/apples-creator-studio-updates-start-rolling-out/",
-   "source": "MacRumors",
-   "category": "music",
-   "published_iso": "2026-11-05T14:57:37+00:00",
-   "excerpt": "Apple began rolling out its announced Creator Studio app updates; both Creator Studio and standalone Logic Pro for Mac were updated today (Logic Pro 13 with AI assistant), with other apps later in November.",
-   "og_image": "https://images.macrumors.com/t/6S8wSij9JY0-k95_m12h78HXuQE=/1920x/article-new/2026/01/Apple-Creator-Studio.jpg",
-   "note": "OFF-LIST exception, same Logic Pro 13 release story"
-  },
-  {
-   "title": "Mods for everyone: inMusic is opening up MPC, more new gear to coders",
-   "url": "https://cdm.link/inmusic-opens-up-for-namm/",
-   "source": "CDM Create Digital Music",
-   "category": "music",
-   "published_iso": "2026-11-05T21:53:46+00:00",
-   "excerpt": "inMusic (Akai, Moog, Numark, Alesis, Denon) says many of its 22 January product launches will be open to modders and developers, including AI 'vibe coders' using tools like Claude Code and Codex alongside traditional developers.",
-   "og_image": "https://cdm.link/app/uploads/2026/11/new-mpc-hardware.png",
-   "note": "Follow-up to 10-29 Akai vibe-coded firmware item - new: inMusic-wide policy"
-  },
-  {
-   "title": "From Ticketing To Vocals, The 'Mind-Blowing' Ways Concerts Are Using AI",
-   "url": "https://www.billboard.com/pro/artificial-intelligence-concerts-marketing-production/",
-   "source": "Billboard",
-   "category": "music",
-   "published_iso": "2026-11-05T17:01:39+00:00",
-   "excerpt": "How the live business is deploying AI across marketing, ticketing, production and on-stage vocals.",
-   "og_image": "https://www.billboard.com/wp-content/uploads/2026/11/feat-ai-billboard-2026-bb12-cr-mark-pernice-1800.jpg?w=1024"
-  },
-  {
-   "title": "How IFPI CEO Victoria Oakley Is Tackling AI & Streaming Fraud Head-On: 'We've Got Work to Do'",
-   "url": "https://www.billboard.com/pro/ifpi-ceo-victoria-oakley-ai-streaming-fraud-interview/",
-   "source": "Billboard",
-   "category": "music",
-   "published_iso": "2026-11-05T15:40:46+00:00",
-   "excerpt": "IFPI CEO Victoria Oakley on AI, streaming fraud and the collaborative process she says is needed to address the industry's most pressing issues.",
-   "og_image": "https://www.billboard.com/wp-content/uploads/2026/11/victoria-oakley-billboard-2026-bb12-cr-Louise-Haywood-Schiefer-1800.jpg?w=1024",
-   "note": "Interview - may fail 'new decision' bar"
-  },
-  {
-   "title": "Grimes to Star in the First-Ever AI-Generated Film Coming to Theaters: Watch a Clip",
-   "url": "https://www.billboard.com/culture/tv-film/grimes-star-first-ai-movie-coming-theaters-video-clip-1236375024/",
-   "source": "Billboard",
-   "category": "music",
-   "published_iso": "2026-11-05T19:25:14+00:00",
-   "excerpt": "Grimes stars in 'Gods Don't Give Gifts', billed as the first AI-generated feature film headed to theaters; Billboard shares a clip of her character.",
-   "og_image": "https://www.billboard.com/wp-content/uploads/2026/11/grimes-gods-dont-give-gifts-fable-2026-billboard-1800.jpg?w=1024",
-   "note": "Music-adjacent (film); also covered by Consequence"
-  },
-  {
-   "title": "Apple Doubles Down on Its Motion to Quash Suno's Deposition Subpoena",
-   "url": "https://www.digitalmusicnews.com/2026/11/04/suno-apple-subpoena-opposition/",
-   "source": "Digital Music News",
-   "category": "music",
-   "published_iso": "2026-11-05T00:30:59+00:00",
-   "excerpt": "Apple files a reply again opposing Suno's third-party deposition subpoena in the label lawsuits, calling the information sought 'irrelevant'.",
-   "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Apple-Suno-Subpoena-Reply.jpg",
-   "note": "Litigation follow-up - deprioritized topic"
-  },
-  {
-   "title": "Is Spotify's Anti-Spam Crackdown Catching Legitimate Music in the Crossfire?",
-   "url": "https://www.digitalmusicnews.com/2026/11/03/spotify-anti-spam-crackdown-legitimate-music/",
-   "source": "Digital Music News",
-   "category": "music",
-   "published_iso": "2026-11-03T17:46:09+00:00",
-   "excerpt": "Evidence suggests Spotify's filter against AI-driven slop and spam uploads may be suppressing discovery of legitimate recordings, per 11A founder Austin Staubus.",
-   "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/is-spotify-spam-crackdown-catching-legitimate-music.png"
-  },
-  {
-   "title": "5 things to know about CISAC's global report, as songwriter royalty collections hit record $15.9B in 2025, with $900M+ from The MLC, and AI in focus",
-   "url": "https://www.musicbusinessworldwide.com/5-things-to-know-about-cisacs-global-report-as-songwriter-royalty-collections-hit-record-15-9b-in-2025-with-900m-from-the-mlc-and-ai-in-focus/",
-   "source": "Music Business Worldwide",
-   "category": "music",
-   "published_iso": "2026-11-04T17:54:11+00:00",
-   "excerpt": "CISAC's global collections report: record $15.9B songwriter royalties in 2025, with AI flagged as a central concern.",
-   "og_image": null,
-   "note": "Body unreadable (Cloudflare/403); date from MBW news sitemap. Verify AI substance before picking."
-  },
-  {
-   "title": "PianoBench: Evaluating Musical Perception and Reasoning in Language Models",
-   "url": "http://arxiv.org/abs/2611.03839v1",
-   "source": "arXiv",
-   "category": "music",
-   "published_iso": "2026-11-02T19:11:56Z",
-   "excerpt": "New benchmark and 20,000+ hour multimodal piano dataset (interleaved audio, symbolic transcripts and speech) testing which musical features multimodal language models can actually perceive and reason about.",
-   "og_image": null
-  },
-  {
-   "title": "Text-to-music Generation via Structured Captions and Interpretable Evaluation",
-   "url": "http://arxiv.org/abs/2611.00685v1",
-   "source": "arXiv",
-   "category": "music",
-   "published_iso": "2026-10-31T06:24:49Z",
-   "excerpt": "Trains latent diffusion/flow text-to-music models on structured captions (SCAPs) vs free-form prompts, with controlled ablations on caption coverage and temporal conditioning.",
-   "og_image": null,
-   "note": "Older than 11-04 preferred window but within 336h"
-  }
- ]
+  "section": "music",
+  "now_iso": "2026-11-06T22:03:00Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "title": "Nile Rodgers Defends AI Use in Music Video: 'We Created Everything ... The AI Did What We Told It to Do'",
+      "url": "https://www.rollingstone.com/music/music-news/nile-rodgers-defends-ai-use-new-music-video-christmas-song-1235653717/",
+      "source": "Rolling Stone",
+      "category": "music",
+      "published_iso": "2026-11-06T01:30:10+00:00",
+      "excerpt": "Nile Rodgers defended the AI-generated visuals in an upcoming Christmas charity music video after fan backlash, saying the team created everything and the AI only executed their direction.",
+      "og_image": "https://www.rollingstone.com/wp-content/uploads/2026/11/NileRodgers-1.jpg?w=1600&h=900&crop=1"
+    },
+    {
+      "title": "“Drop the slop dude! Not very chic!”: Nile Rodgers’ AI-generated video leads to heated tech debate",
+      "url": "https://www.musicradar.com/artists/guitarists/drop-the-slop-dude-not-very-chic-nile-rodgers-ai-generated-video-leads-to-heated-tech-debate-and-textbook-what-aboutery",
+      "source": "MusicRadar",
+      "category": "music",
+      "published_iso": "2026-11-06T14:39:21Z",
+      "excerpt": "MusicRadar unpacks the online fight over Nile Rodgers' AI-generated music video and his 'you use tech too' rebuttal, arguing he underestimated public anger at AI visuals.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/vp3gTjib5ykPr3ustdT2B7-1218-80.jpg"
+    },
+    {
+      "title": "Nile Rodgers Becomes the Latest Musician to Support AI",
+      "url": "https://www.digitalmusicnews.com/2026/11/06/nile-rodgers-comments-on-ai-use/",
+      "source": "Digital Music News",
+      "category": "music",
+      "published_iso": "2026-11-06T19:39:53+00:00",
+      "excerpt": "Digital Music News places Rodgers' defence of his AI-made charity video alongside other high-profile artists embracing generative tools.",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/nile-rodgers-latest-musician-to-support-ai.png"
+    },
+    {
+      "title": "Apple Logic Pro 13 out now: redesigned DAW UI, new browser, and AI not for everyone",
+      "url": "https://synthanatomy.com/2026/11/apple-logic-13-ai-powered-assistant-redesigned-sound-browser-and-more.html",
+      "source": "Synth Anatomy",
+      "category": "music",
+      "published_iso": "2026-11-05T19:42:19+00:00",
+      "excerpt": "Logic Pro 13 is now publicly released with a redesigned interface, a smart sound browser and the natural-language Intelligent Assistant that can create tracks, open plugins and set levels. Off-list: allowed outlets had no release-day piece (only the 10-28 announcement).",
+      "og_image": "https://synthanatomy.com/wp-content/uploads/2026/10/Apple-Logic-Pro-13.jpg"
+    },
+    {
+      "title": "Paid $200 for Logic Pro? Apple Says You Won't Get This New Feature",
+      "url": "https://www.macrumors.com/2026/11/05/logic-pro-new-feature-requires-subscription/",
+      "source": "MacRumors",
+      "category": "music",
+      "published_iso": "2026-11-05T17:51:57+00:00",
+      "excerpt": "Apple's Logic Pro 13.0 release notes confirm the AI Intelligent Assistant needs an Apple Creator Studio subscription ($12.99/mo) and is not included in the $199.99 one-time purchase. Off-list, same gap as above.",
+      "og_image": "https://images.macrumors.com/t/ixV27noKvMa7O0Ww351rwhL4ydQ=/1920x/article-new/2026/11/Logic-Pro-Intelligent-Assistant.jpg"
+    },
+    {
+      "title": "Grimes is going to star in an AI movie that's coming to theaters",
+      "url": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
+      "source": "The Verge",
+      "category": "music",
+      "published_iso": "2026-11-05T17:00:00+00:00",
+      "excerpt": "Grimes joins the cast of Gods Don't Give Gifts, a fully AI-generated sci-fi anthology film getting a US theatrical release in December.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GDGG_Grimes_2.png?quality=90&strip=all&crop=0%2C12.21468233833%2C100%2C41.841457730372&w=1200"
+    },
+    {
+      "title": "Grimes Joins AI-Generated Sci-Fi Film Gods Don't Give Gifts",
+      "url": "https://consequence.net/2026/11/grimes-gods-dont-give-gifts-ai-film/",
+      "source": "Consequence",
+      "category": "music",
+      "published_iso": "2026-11-05T12:00:55-05:00",
+      "excerpt": "Grimes has joined the cast of Gods Don't Give Gifts, an AI-generated sci-fi film arriving in US theaters on December 4th.",
+      "og_image": "https://consequence.net/wp-content/uploads/2026/11/Grimes-AI-sci-fi-movie.jpg"
+    },
+    {
+      "title": "From Ticketing To Vocals, The 'Mind-Blowing' Ways Concerts Are Using AI",
+      "url": "https://www.billboard.com/pro/artificial-intelligence-concerts-marketing-production/",
+      "source": "Billboard",
+      "category": "music",
+      "published_iso": "2026-11-05T17:01:39+00:00",
+      "excerpt": "Billboard surveys how live music is deploying AI across marketing, ticketing, stage production and live vocal processing.",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/11/feat-ai-billboard-2026-bb12-cr-mark-pernice-1800.jpg?w=1024"
+    },
+    {
+      "title": "How IFPI CEO Victoria Oakley Is Tackling AI & Streaming Fraud Head-On",
+      "url": "https://www.billboard.com/pro/ifpi-ceo-victoria-oakley-ai-streaming-fraud-interview/",
+      "source": "Billboard",
+      "category": "music",
+      "published_iso": "2026-11-05T15:40:46+00:00",
+      "excerpt": "IFPI CEO Victoria Oakley on AI training licences, AI-driven streaming fraud and the collaborative process she says the industry needs.",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/11/victoria-oakley-billboard-2026-bb12-cr-Louise-Haywood-Schiefer-1800.jpg?w=1024"
+    },
+    {
+      "title": "'A Vast Landgrab': ICMP Weighs in on Big AI's Australian Copyright Battleground",
+      "url": "https://www.billboard.com/pro/icmp-john-phelan-interview-big-ai-australian-copyright/",
+      "source": "Billboard",
+      "category": "music",
+      "published_iso": "2026-11-05T06:09:59+00:00",
+      "excerpt": "ICMP's John Phelan on AI companies' push for a text-and-data-mining exception in Australia and what it means for music publishers.",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/01/ai-music-generic-illustration-billboard-1-1800.jpg?w=1024"
+    },
+    {
+      "title": "Mashup Edu's AI-agent Nia is designed to 'run the business side' of indie acts' careers",
+      "url": "https://musically.com/2026/11/06/mashup-edus-ai-agent-nia-is-designed-to-run-the-business-side-of-indie-acts-careers/",
+      "source": "Music Ally",
+      "category": "music",
+      "published_iso": "2026-11-06T05:46:05+00:00",
+      "excerpt": "Indian music-education platform Mashup Edu launches Nia, an AI agent that handles release planning and admin for independent artists.",
+      "og_image": "https://musically.com/wp-content/uploads/2026/11/Mashup-Edu-Nia.jpg"
+    },
+    {
+      "title": "Mods for everyone: inMusic is opening up MPC, more new gear to coders",
+      "url": "https://cdm.link/inmusic-opens-up-for-namm/",
+      "source": "CDM Create Digital Music",
+      "category": "music",
+      "published_iso": "2026-11-05T21:53:46+00:00",
+      "excerpt": "inMusic (Akai, Moog, Numark, Denon) says many of its 22 NAMM launches will be open to modders, extending the 'vibe-coded' AI-assisted MPC mod approach across its brands.",
+      "og_image": "https://cdm.link/app/uploads/2026/11/new-mpc-hardware.png"
+    },
+    {
+      "title": "How Akai and Moog are embracing vibe-coded mods",
+      "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+      "source": "The Verge",
+      "category": "music",
+      "published_iso": "2026-11-06T16:34:39+00:00",
+      "excerpt": "inMusic is making open-source MPCs and hackable synths, inviting users to build firmware mods with AI coding tools.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/assets_47c5d023e7b3451a86ac03602c65dce8_43f25647cf8a4cbb8786829bc29ee2fb.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+    },
+    {
+      "title": "Cubase 16 adds six-part stem separation and AI vocals",
+      "url": "https://www.notebookcheck.net/Cubase-16-adds-six-part-stem-separation-and-AI-vocals.1442941.0.html",
+      "source": "Notebookcheck",
+      "category": "music",
+      "published_iso": "2026-11-05T16:17:00+01:00",
+      "excerpt": "Steinberg's Cubase 16 adds six-stem separation and Yamaha's upgraded Omnivocal AI singing synthesizer, plus instrument layering. Off-list: allowed outlets' Cubase 16 pieces barely mention the AI features.",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Cubase-Studio-Production-Setup.png"
+    },
+    {
+      "title": "NewJeans' Contract Reportedly Gives Label Right to Use AI-Generated Versions of Their Voices",
+      "url": "https://www.complex.com/music/a/alex-ocho/newjeans-contracts-indefinite-voice-rights",
+      "source": "Complex",
+      "category": "music",
+      "published_iso": "2026-11-05T17:07:47.230Z",
+      "excerpt": "A New York Times report on NewJeans' ADOR contracts says the label holds indefinite rights to AI-generated versions of the members' voices and likenesses. Off-list: Pitchfork's version omits the AI clause.",
+      "og_image": "https://images.complex.com/complex/image/upload/c_crop,h_1078,w_1920,x_0,y_0/g_auto:aoi_778_264_384_216,ar_1.91,c_fill,q_auto,w_1200/sanity-new/aq7vzcujejcvekyraolq"
+    },
+    {
+      "title": "아이돌 뺨치는 AI 음악의 인기 롱런…머무르 \"누구나 공감할 질문 담았죠\"",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=04598566645642768&mediaCodeNo=257",
+      "source": "이데일리",
+      "category": "music",
+      "published_iso": "2026-11-05T11:21:35+09:00",
+      "excerpt": "생성형 AI 음악 앱으로 만든 머무르의 '꿈꾸던 어른이 되었나요?'가 아이돌 신곡 공세 속에서도 음원·노래방 차트 상위권을 지키고 있다. Off-list Korean source.",
+      "og_image": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26110501106.jpg"
+    },
+    {
+      "title": "인공지능이 작곡, 로봇이 춤…저작권은 누구 것?",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706303",
+      "source": "KBS 뉴스",
+      "category": "music",
+      "published_iso": "2026-11-06T21:34:58+09:00",
+      "excerpt": "AI 작곡 음악의 완성도가 높아지면서 AI 음악과 로봇 공연의 저작권 귀속 문제가 쟁점으로 떠오르고 있다. Off-list Korean source.",
+      "og_image": "http://news.kbs.co.kr/data/news/2026/11/06/20261106_z6EgDo.png"
+    },
+    {
+      "title": "AI 음악산업 성장 방안 찾는다… 저작권협회 정책 간담회",
+      "url": "https://www.paxetv.com/news/articleView.html?idxno=286294",
+      "source": "팍스경제TV",
+      "category": "music",
+      "published_iso": "2026-11-06T08:35:49Z",
+      "excerpt": "(사)AI음악저작권협회가 AI 작곡·편곡, 음성 합성, 자동 마스터링이 음악 산업의 생산·유통 구조에 미치는 영향을 논의하는 정책 간담회를 열었다. Off-list Korean; page shows date only, time from Google News.",
+      "og_image": "http://www.paxetv.com/news/thumbnail/202611/286294_261918_4837_v150.jpg"
+    },
+    {
+      "title": "The Edge asked AI to come up with a U2 song: 'They couldn't' says guitarist",
+      "url": "https://www.musicradar.com/artists/bands/its-possible-to-get-it-to-write-a-country-song-because-its-very-strictly-codified-the-edge-feels-u2-are-uncategorisable",
+      "source": "MusicRadar",
+      "category": "music",
+      "published_iso": "2026-11-06T16:42:31Z",
+      "excerpt": "The Edge says AI can write a formulaic country song, but couldn't produce a U2 song when he tried.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/mVsjxc2Ck5FhS7jQJVDNHG-2000-80.jpg"
+    },
+    {
+      "title": "With artificial intelligence on COP31 agenda, IMPALA calls for action on AI and sustainability",
+      "url": "https://www.musicweek.com/labels/read/with-artificial-intelligence-on-cop31-agenda-impala-calls-for-action-on-ai-and-sustainability/095418",
+      "source": "Music Week",
+      "category": "music",
+      "published_iso": "2026-11-06T10:18:00Z",
+      "excerpt": "Ahead of COP31, indie-label body IMPALA calls on the music sector and governments to work together on AI and sustainability. Off-list; page shows date only, time from Google News.",
+      "og_image": "https://www.musicweek.com/cimages/3b400724e4030bddc66a18105114df9b.png"
+    },
+    {
+      "title": "Wendy's Fans Question Authenticity of Emo Album Amid AI Controversy",
+      "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/wendys-fans-authenticity-emo-album-043340671.html",
+      "source": "Yahoo Entertainment (Parade)",
+      "category": "music",
+      "published_iso": "2026-11-06T04:33:40Z",
+      "excerpt": "Wendy's brand emo album faces backlash after a YouTuber questioned whether its sound was AI-generated. Off-list.",
+      "og_image": "https://s.yimg.com/lo/mysterio/api/a43b74505ad7eaea445a300edcca7e2321c944d1e6b29535566ac8755e445e3d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparade_250%2F314acd4f955cf7bfd693affd66097c31.jpg"
+    }
+  ]
 }

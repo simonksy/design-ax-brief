@@ -10329,6 +10329,143 @@
           "x": "Perceiving an AI companion as emotionally capable was associated with both better well-being and greater vulnerability, while companions experienced as warm and caring were linked to better well-being and less vulnerability. The researchers recommend consulting users before changing apps, helping them cope with disrupted relationships and clearly reminding them that AI companions do not experience real emotions."
         }
       ]
+    },
+    "science/autodna-sjtu-selfdriving-lab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03552-8/d41586-026-03552-8_53940190.jpg",
+          "cap": "A self-driving lab named AutoDNA can work out the constituent ‘letters’ in a snippet of DNA."
+        },
+        {
+          "t": "p",
+          "x": "In an unusual genetics lab at Shanghai Jiao Tong University in China, a team of robots driven by artificial intelligence is designing and doing experiments with no hands to speak of."
+        },
+        {
+          "t": "p",
+          "x": "The facility, described in Nature, is one of the latest steps towards ‘self-driving’ labs guided by AI. With samples moved around by robotic arms, the lab can operate more than 20 types of instrument, complete thousands of operations in a single project and do experiments that involve synthesizing and sequencing DNA."
+        },
+        {
+          "t": "p",
+          "x": "An experiment is designed and executed from start to finish by a team of AI agents, following a simple prompt from a human operator. After that, human hands are needed only to refresh reagents and to service hardware."
+        },
+        {
+          "t": "p",
+          "x": "“The future of science is going to involve a lot of autonomous labs,” says Milad Abolhasani of North Carolina State University. Co-author Haibo Chen says the team built AutoDNA from the start with AI in mind, rather than adding AI to a pre-existing system."
+        },
+        {
+          "t": "p",
+          "x": "The team tested it on projects including detecting a cancer-linked mutation in DNA and encoding the quote “Intelligence is the ability to adapt to change” in DNA's four bases."
+        }
+      ]
+    },
+    "science/mit-chemeleon-molecule-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202610/mit-cheme-chemeleon.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A new method developed at MIT shows that when there are few data on some technologically relevant property, such as ligand affinities for a newly discovered drug target, it can outperform existing methods for winnowing down molecules worth looking at."
+        },
+        {
+          "t": "p",
+          "x": "The open-source model, CheMeleon, was reported in the Journal of Chemical Information and Modeling and built on ChemProp. In an OpenADMET contest, nine of the top 20 entries had used CheMeleon; one pharma company made it policy to start every property model with it."
+        },
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202610/chemeleon_toc.png"
+        },
+        {
+          "t": "p",
+          "x": "CheMeleon is a pre-trained foundation model: it learns from molecular descriptors of a million molecules from PubChem, predicting a catalog of about 1,600 descriptors, then can be fine-tuned for properties from solubility to bioactivity."
+        },
+        {
+          "t": "p",
+          "x": "“Even if you fine-tune it with just a few data points for the task you care about, you can still get some good performance,” says Zalte. Across 58 test cases, “we see that our model comes out on top.”"
+        }
+      ]
+    },
+    "science/mitomatch-alphafold-mito-screen": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-27.jpg",
+          "cap": "Using AlphaFold-Multimer as a classification model to predict mitochondrial protein-protein interactions. Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77112-z"
+        },
+        {
+          "t": "p",
+          "x": "Texas A&M AgriLife Research scientists used AlphaFold-Multimer, a Google DeepMind AI tool that predicts how proteins bind together, to screen about 630,000 possible pairs among roughly 1,100 human mitochondrial proteins."
+        },
+        {
+          "t": "p",
+          "x": "They identified 2,895 likely interactions, more than half of which had not been reported before. The predictions gave 85 previously uncharacterized proteins probable partners, and several were confirmed in yeast and human cells."
+        },
+        {
+          "t": "p",
+          "x": "“If we don't know the function of these individual proteins, we cannot determine how to treat the diseases they may cause,” said lead author Abhinav Swaminathan, noting that cures are likely still far off but the approach offers a practical starting point."
+        },
+        {
+          "t": "p",
+          "x": "The team released the predictions as a free resource called MitoMatch. The study appears in Nature Communications."
+        }
+      ]
+    },
+    "science/sydney-riddled-basins-training": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sydney-researchers-unc.jpg",
+          "cap": "Credit: Professor Pulin Gong/The University of Sydney"
+        },
+        {
+          "t": "p",
+          "x": "University of Sydney researchers Pulin Gong and Andrew Ly, publishing in Nature Machine Intelligence, found that some AI unpredictability comes from the mathematics of neural network training rather than from hardware or data-ordering noise."
+        },
+        {
+          "t": "p",
+          "x": "The regions of starting conditions that lead to different training outcomes form intricate fractals called ‘riddled basins’, so tiny differences in starting conditions can produce different results. “Our findings point to something deeper.”"
+        },
+        {
+          "t": "p",
+          "x": "In one image-recognition network, making starting settings 10 billion times more precise did not improve reproducibility, and a one-bit change led to a different configuration in about 48% of cases. Across roughly 500,000 trained networks, the pattern appeared widely."
+        },
+        {
+          "t": "p",
+          "x": "They also found a trade-off: the learning settings that work best make outcomes harder to reproduce, and lowering the learning rate improves reproducibility at the cost of learning effectiveness."
+        }
+      ]
+    },
+    "science/llnl-strata-stitch-emulators": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula.jpg",
+          "cap": "The STRATA emulator aims to accurately predict long-term weather without computationally expensive and time-intensive simulations. Credit: Graphic by Peter Caldwell"
+        },
+        {
+          "t": "p",
+          "x": "Modeling a decade into the future takes months on the world's best supercomputers. At Lawrence Livermore National Laboratory (LLNL), researchers are deploying emulators to provide faster and more accurate weather predictions, months to years into the future."
+        },
+        {
+          "t": "p",
+          "x": "E3SM can simulate the atmosphere at 3-kilometer resolution by solving physics equations. Instead, scientists from LLNL, DOE and NVIDIA train an emulator named STRATA on the outputs from a model like E3SM, then ask it to predict how the atmosphere looks days to months to years later—without ever solving the physics equations. \"For an emulator, we use machine learning, like a deep neural network, to mimic what the real physics would have done,\" said LLNL scientist Yunyan Zhang."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula-1.jpg",
+          "cap": "The STRATA emulator 12-hour forecast (top row) compared to the Simple Cloud-Resolving E3SM Atmosphere Model (SCREAM, bottom row). Credit: Graphic by Peter Caldwell"
+        },
+        {
+          "t": "p",
+          "x": "The speed lets scientists run hundreds of simulations to weigh many predictions at once. For the Los Alamos-led MAGGIE project, which uses generative models to create initial conditions, \"it would have taken us three months to do this ensemble of simulations with a physics-based model,\" said Peter Caldwell. \"With our new emulators, we did it over a weekend.\""
+        },
+        {
+          "t": "p",
+          "x": "Through the DOE Genesis Mission, the STITCH project, led by Zhang, trains emulators on localized simulations of cloud microphysics and small-scale turbulence; their results can be fed into E3SM, which in turn provides new training data for STRATA."
+        }
+      ]
     }
   }
 }

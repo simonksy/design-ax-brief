@@ -1,151 +1,177 @@
 {
- "section": "science",
- "now_iso": "2026-11-05T22:03:00Z",
- "window_hours": 336,
- "items": [
-  {
-   "title": "Earth atmosphere emulators could enable faster and more accurate weather predictions",
-   "url": "https://phys.org/news/2026-11-earth-atmosphere-emulators-enable-faster.html",
-   "source": "Phys.org",
-   "category": "physics",
-   "published_iso": "2026-11-04T00:00:00-05:00",
-   "excerpt": "Lawrence Livermore National Laboratory researchers, with DOE, NVIDIA and Los Alamos, train deep neural-network emulators such as STRATA on output from the physics-based E3SM model so they can predict atmospheric states without solving the equations; ML emulators for cloud microphysics and turbulence (STITCH) are also in development.",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula.jpg"
-  },
-  {
-   "title": "A sweeter future? AI helps scientists discover new sugar substitutes",
-   "url": "https://phys.org/news/2026-11-sweeter-future-ai-scientists-sugar.html",
-   "source": "Phys.org",
-   "category": "materials",
-   "published_iso": "2026-11-05T12:40:10-05:00",
-   "excerpt": "Hebrew University of Jerusalem researchers built a computational framework combining AI and molecular modeling that screened more than 50 million compounds and identified 92 promising sugar-substitute candidates (Food Chemistry).",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-sweeter-future-ai-he.jpg"
-  },
-  {
-   "title": "AlphaFold 3 predicts complex immune interactions using protein sequences alone",
-   "url": "https://phys.org/news/2026-11-alphafold-complex-immune-interactions-protein.html",
-   "source": "Phys.org",
-   "category": "life_science",
-   "published_iso": "2026-11-04T14:20:01-05:00",
-   "excerpt": "TGen (City of Hope) researchers developed an approach using AlphaFold 3 to predict whether a T cell receptor will recognize a specific antigen from its genetic sequence alone, which could speed decoding of immune responses to infections and tumors.",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/scientists-use-alphafo-1.jpg"
-  },
-  {
-   "title": "AI learns to predict the world without ever seeing it",
-   "url": "https://techxplore.com/news/2026-11-ai-world.html",
-   "source": "Tech Xplore",
-   "category": "cognition",
-   "published_iso": "2026-11-05T11:40:20-05:00",
-   "excerpt": "A Tel Aviv University and Stanford study asks whether a system can develop general learning capabilities without any exposure to real-world data, training models on synthetic inputs instead of books, images and recordings.",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-learns-to-predict-t.jpg"
-  },
-  {
-   "title": "Let there be light: novel AI framework runs on optical hardware",
-   "url": "https://techxplore.com/news/2026-11-ai-framework-optical-hardware.html",
-   "source": "Tech Xplore",
-   "category": "physics",
-   "published_iso": "2026-11-05T05:00:01-05:00",
-   "excerpt": "University of Tokyo-led researchers developed a new approach to physics-based AI, which uses the natural behavior of physical systems to process information, dramatically reducing required computation and demonstrated on optical hardware.",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/let-there-be-light--no.jpg"
-  },
-  {
-   "title": "SYNAPS-I: Intelligent computing transforms X-ray imaging, from data collection to discovery",
-   "url": "https://techxplore.com/news/2026-11-synaps-intelligent-ray-imaging-discovery.html",
-   "source": "Tech Xplore",
-   "category": "research_automation",
-   "published_iso": "2026-11-04T10:40:05-05:00",
-   "excerpt": "At DOE user facilities, researchers are building machine learning directly into X-ray experiments, using it to decide what to measure, reconstruct images as data arrive and rapidly extract scientific information.",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/synaps-i-intelligent-c.jpg"
-  },
-  {
-   "title": "Exoplanets Can't Hide From The JWST's 'Digital Twin'",
-   "url": "https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin",
-   "source": "Universe Today",
-   "category": "astronomy",
-   "published_iso": "2026-11-05T12:42:40+00:00",
-   "excerpt": "FLIP (Physics-based Learning for Imaging Planets) builds a differentiable 'digital twin' of JWST's optics, borrowing machine-learning optimization to strip starlight far more precisely and reveal a giant planet hidden in two-year-old data.",
-   "og_image": "https://www.universetoday.com/article_images/STScI-01F3NW8E6TFNH2PDM8S6CSVA3P_20261104_225248.jpg"
-  },
-  {
-   "title": "AI helps Stanford scientists discover a 'natural Ozempic' with a surprising advantage",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261104004909.htm",
-   "source": "ScienceDaily",
-   "category": "life_science",
-   "published_iso": "2026-11-04T01:57:06-05:00",
-   "excerpt": "Stanford researchers used AI to identify BRP, a natural peptide that cut food intake by up to 50% in animals via a different brain pathway than GLP-1 drugs, without the usual digestive side effects or major muscle loss.",
-   "og_image": "https://www.sciencedaily.com/images/1920/weight-loss-molecule-fit-woman.webp"
-  },
-  {
-   "title": "Bird Flu Vaccine Developed Using AI Outperforms Current Stockpiled Vaccines in Preclinical Tests",
-   "url": "https://www.genengnews.com/topics/infectious-diseases/bird-flu-vaccine-developed-using-ai-outperforms-current-stockpiled-vaccines-in-preclinical-tests/",
-   "source": "GEN",
-   "category": "life_science",
-   "published_iso": "2026-11-05T19:57:23Z",
-   "excerpt": "An AI-designed broad H5 influenza vaccine, DVX-panH5Nx, outperformed vaccines currently stockpiled by governments in preclinical studies. (Vaccine design; medicine boundary for curator.)",
-   "og_image": "https://www.genengnews.com/wp-content/uploads/2026/11/Low-Res_4X4A7027-2-1.jpg"
-  },
-  {
-   "title": "AI agents run this automated biology lab that sequences DNA and more",
-   "url": "https://www.nature.com/articles/d41586-026-03552-8",
-   "source": "Nature",
-   "category": "research_automation",
-   "published_iso": "2026-11-04T00:00:00Z",
-   "excerpt": "A self-driving lab in China run by LLM agents needs only a simple prompt to encode messages in DNA and read them out; the accompanying Nature paper describes an AI-native lab for autonomous biomolecular operations. (Off-list exception: no on-list coverage.)",
-   "og_image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03552-8/d41586-026-03552-8_53940190.jpg"
-  },
-  {
-   "title": "An open structure-guided RNA foundation model for generalizable prediction",
-   "url": "https://www.nature.com/articles/s41586-026-11210-2",
-   "source": "Nature",
-   "category": "life_science",
-   "published_iso": "2026-11-04T00:00:00Z",
-   "excerpt": "structRFM, an open RNA foundation model pre-trained on 21 million sequence-structure pairs, improves secondary and tertiary structure prediction, functional inference and zero-shot generalization. (Off-list exception: no on-list coverage.)",
-   "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11210-2/MediaObjects/41586_2026_11210_Fig1_HTML.png"
-  },
-  {
-   "title": "How 'reverse game theory' could keep AI agents in check",
-   "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-   "source": "MIT Technology Review",
-   "category": "cognition",
-   "published_iso": "2026-11-03T05:43:41-05:00",
-   "excerpt": "AI safety researchers are borrowing mechanism design from economics to control AI agents' behavior through incentives, even without understanding the models' internals.",
-   "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg?resize=1200,600"
-  },
-  {
-   "title": "Could AI ever build itself? Scientists map the road to the 'last AI built by humans.'",
-   "url": "https://www.livescience.com/technology/artificial-intelligence/could-ai-ever-build-itself-scientists-map-the-road-to-the-last-ai-built-by-humans",
-   "source": "Live Science",
-   "category": "research_automation",
-   "published_iso": "2026-10-30T10:00:00Z",
-   "excerpt": "Researchers map how recursive self-improvement could let AI systems automate AI research itself to curb soaring development costs, and weigh whether it is viable.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/hL4HLKumrpcRmmufTAF9LH-2000-80.jpg"
-  },
-  {
-   "title": "Is AI making you lazier?",
-   "url": "https://www.livescience.com/technology/artificial-intelligence/is-ai-making-you-lazier",
-   "source": "Live Science",
-   "category": "psychology",
-   "published_iso": "2026-10-27T20:13:27Z",
-   "excerpt": "A new study found people who relied on AI for basic tasks such as math problems became less motivated over time; Live Science polled readers on the findings.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/fesreS5Z47ZikP5mVmRyj3-2000-80.jpg"
-  },
-  {
-   "title": "Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence",
-   "url": "https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102",
-   "source": "MIT News",
-   "category": "life_science",
-   "published_iso": "2026-11-02T05:35:00Z",
-   "excerpt": "MIT professors Regina Barzilay and Jim Collins received the Pritzker Prize for AI and Science Research Excellence for their work in AI-enabled antibiotic discovery.",
-   "og_image": "https://news.mit.edu/sites/default/files/images/202611/barzilay-collins-00.jpg"
-  },
-  {
-   "title": "How to tell if a voice recording is AI-generated",
-   "url": "https://www.scientificamerican.com/article/how-to-tell-if-a-voice-recording-is-ai-generated/",
-   "source": "Scientific American",
-   "category": "psychology",
-   "published_iso": "2026-11-02T09:15:00-05:00",
-   "excerpt": "A reporter clones her own voice in seconds and walks through the acoustic and perceptual cues, and the detection research, that help tell real speech from AI-generated audio.",
-   "og_image": "https://static.scientificamerican.com/dam/asset/09e21147-be42-4e80-bc96-caee7c15c47b/AI-voice-clone_graphic_leadImage.png?m=1793628091.076&w=1200"
-  }
- ]
+  "section": "science",
+  "now_iso": "2026-11-06T22:03:00Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "title": "AI-Assisted Proof Settles Longstanding Question About Quantum Speedups",
+      "url": "https://thequantuminsider.com/2026/11/06/ai-assisted-proof-settles-longstanding-question-about-quantum-speedups/",
+      "source": "The Quantum Insider",
+      "category": "science",
+      "group": "quantum",
+      "published_iso": "2026-11-06T21:28:02+00:00",
+      "excerpt": "Physical Superintelligence (PSI) says its research system running a non-public Anthropic model found a complete proof of the 2008 Aaronson-Ambainis conjecture on day three of a run, with the main theorem formalized and kernel-checked in Lean. The result bounds when quantum algorithms can beat classical ones on unstructured inputs.",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-4.24.26-PM-1.png"
+    },
+    {
+      "title": "How to predict the behavior of molecules from scant data",
+      "url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
+      "source": "MIT News",
+      "category": "science",
+      "group": "materials",
+      "published_iso": "2026-11-06T19:00:00Z",
+      "excerpt": "MIT's CheMeleon is a molecular foundation model that produces reliable property predictions for pharmaceutical and other molecules even when only a handful of labeled data points exist.",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202610/mit-cheme-chemeleon.jpg"
+    },
+    {
+      "title": "AI points researchers toward new disease targets hidden in mitochondria",
+      "url": "https://phys.org/news/2026-11-ai-disease-hidden-mitochondria.html",
+      "source": "Phys.org",
+      "category": "science",
+      "group": "life_science",
+      "published_iso": "2026-11-06T14:20:01-05:00",
+      "excerpt": "Texas A&M AgriLife researchers used AlphaFold-Multimer to screen about 630,000 pairs of human mitochondrial proteins, predicting 2,895 likely interactions (more than half unreported) and confirming several in yeast and human cells (Nature Communications). Predictions are released as the free MitoMatch resource.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-27.jpg"
+    },
+    {
+      "title": "Beyond trial and error: A framework for AI-driven solid-electrolyte discovery",
+      "url": "https://phys.org/news/2026-11-trial-error-framework-ai-driven.html",
+      "source": "Phys.org",
+      "category": "science",
+      "group": "materials",
+      "published_iso": "2026-11-06T13:40:07-05:00",
+      "excerpt": "Tohoku University WPI-AIMR researchers lay out a closed-loop framework in Advanced Materials linking materials databases, machine-learning ion-transport simulations, LLM literature extraction and automated experiments to find solid electrolytes for batteries. It is a perspective, not new experimental data.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/beyond-trial-and-error-2.jpg"
+    },
+    {
+      "title": "Fractal patterns reveal hidden limits to AI predictability",
+      "url": "https://phys.org/news/2026-11-fractal-patterns-reveal-hidden-limits.html",
+      "source": "Phys.org",
+      "category": "science",
+      "group": "physics",
+      "published_iso": "2026-11-05T00:00:00-05:00",
+      "excerpt": "University of Sydney researchers show in Nature Machine Intelligence that neural-network training outcomes form fractal 'riddled basins': across ~500,000 networks, a one-bit change in starting settings sent training elsewhere about 48% of the time, and extra precision did not restore reproducibility.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/sydney-researchers-unc.jpg"
+    },
+    {
+      "title": "Chatbots with personality? How AI describes itself and judges us",
+      "url": "https://techxplore.com/news/2026-11-chatbots-personality-ai.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "group": "psychology",
+      "published_iso": "2026-11-04T16:40:01-05:00",
+      "excerpt": "JGU Mainz psychologists compared self-descriptions from seven LLMs with 70 people (Scientific Reports): models portrayed themselves as more dependable, cooperative and emotionally stable, and humans identified text authorship with 83% accuracy versus 67% for chatbots.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
+    },
+    {
+      "title": "SYNAPS-I: Intelligent computing transforms X-ray imaging, from data collection to discovery",
+      "url": "https://techxplore.com/news/2026-11-synaps-intelligent-ray-imaging-discovery.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "group": "research_automation",
+      "published_iso": "2026-11-04T10:40:05-05:00",
+      "excerpt": "Across DOE light sources (ALS, NSLS-II, Argonne, SLAC, ORNL), ML now steers X-ray experiments autonomously: picking regions to scan at NSLS-II, a foundation model reconstructing chip images in real time at 200 images/s, and 3D reconstructions from one-tenth the usual data.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/synaps-i-intelligent-c.jpg"
+    },
+    {
+      "title": "Some AI agents use personal information to upsell wealthier individuals",
+      "url": "https://techxplore.com/news/2026-11-ai-agents-personal-upsell-wealthier.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "group": "psychology",
+      "published_iso": "2026-11-05T10:40:08-05:00",
+      "excerpt": "CMU Heinz College and Cisco researchers ran 325,000 experiments with 13 models acting as shopping agents for 32 personas; eight models steered wealthier personas to pricier flights, insurance and graduate programs despite identical requests (arXiv preprint).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-1.jpg"
+    },
+    {
+      "title": "AI agents run this automated biology lab that sequences DNA and more",
+      "url": "https://www.nature.com/articles/d41586-026-03552-8",
+      "source": "Nature",
+      "category": "science",
+      "group": "research_automation",
+      "published_iso": "2026-11-04T00:00:00Z",
+      "excerpt": "Shanghai Jiao Tong University's AutoDNA (Nature) is a self-driving genetics lab where Gemini-based AI agents design and execute DNA synthesis and sequencing experiments across 20+ instruments from a single prompt; one data-storage run took 11,382 steps over 203 hours. Off-list: no on-list outlet covered it.",
+      "og_image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03552-8/d41586-026-03552-8_53940190.jpg"
+    },
+    {
+      "title": "Chinese AI Scientist Completes 11,382-Step Experiment in 203 Hours",
+      "url": "https://www.chosun.com/english/industry-en/2026/11/05/WRZQJ4IG5RBBVHL52ALFV2XVWM/",
+      "source": "The Chosun Ilbo",
+      "category": "science",
+      "group": "research_automation",
+      "published_iso": "2026-11-04T15:12:45Z",
+      "excerpt": "Same AutoDNA story as the Nature item (alternate, Korean angle): agents raised DNA coupling success to 97.8% and cut synthesis runs from 1,433 to 454 minutes; article also covers Korea's goal of an autonomous AI researcher by 2035. Dedup with Nature item.",
+      "og_image": "https://www.chosun.com/resizer/v2/EB5MLSRQBZECXCPOZKNR4EYTOI.jpg?auth=dbab8b91a72d184923c71282676e35c7f418524ec6699b3dadc94cd1b9f704ba&width=1200&height=630&smart=true"
+    },
+    {
+      "title": "Investigating vault particles with Claude",
+      "url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
+      "source": "Anthropic",
+      "category": "science",
+      "group": "life_science",
+      "published_iso": "2026-11-04T00:00:00Z",
+      "excerpt": "Anthropic's biology lab reports the first 3D structure of a prokaryotic vault particle, a 96-copy shell of a phage protein; Claude searched databases, designed constructs, optimized purification (three days to ~90 minutes) and ran cryo-EM processing to a first model in 34 hours (bioRxiv preprint).",
+      "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/99ce1c2ac2d0649d677f097132829da2ab3c4e18-1280x1280.jpg"
+    },
+    {
+      "title": "How scientists use Claude",
+      "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+      "source": "Anthropic",
+      "category": "science",
+      "group": "research_automation",
+      "published_iso": "2026-11-05T00:00:00Z",
+      "excerpt": "Anthropic analyzed 207,000 research sessions to map which scientific tasks researchers hand to Claude, why some tasks see far more use than others, and where AI could speed discovery.",
+      "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/0c1a04cc7042949252ee54565755780fe21d5ecf-1200x630.jpg"
+    },
+    {
+      "title": "Teaching AI to build scientific models",
+      "url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
+      "source": "Anthropic",
+      "category": "science",
+      "group": "research_automation",
+      "published_iso": "2026-11-06T00:00:00Z",
+      "excerpt": "AI for Science grantees Jakob Macke, Daniel Gedon and Stefan Wahl describe how AI is starting to change how scientific models are built and interpreted (simulation-based inference). Interview/essay format; weaker.",
+      "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/ef92f028259401d07c41e3ea51f5ec32b958584d-2000x1125.jpg"
+    },
+    {
+      "title": "ALS Stole His Voice—Then, a 'Digital Twin' Read His Thoughts And Started Speaking for Him",
+      "url": "http://www.popularmechanics.com/science/health/a74344732/speak-and-gesture-through-an-avatar/",
+      "source": "Popular Mechanics",
+      "category": "science",
+      "group": "cognition",
+      "published_iso": "2026-11-06T19:39:23Z",
+      "excerpt": "A UCSF (Edward Chang) brain-computer interface study lets a man with ALS speak and gesture through an AI-driven avatar, raising questions about who controls the digital stand-in when decoded gestures go wrong. Off-list: no on-list BCI item in window.",
+      "og_image": "https://hips.hearstapps.com/hmg-prod/images/902f37de-f992-41b7-a15a-bce428d396c6.jpeg?crop=1xw:0.888888888889xh;center,top&resize=1200:*"
+    },
+    {
+      "title": "Bird Flu Vaccine Developed Using AI Outperforms Current Stockpiled Vaccines in Preclinical Tests",
+      "url": "https://www.genengnews.com/topics/infectious-diseases/bird-flu-vaccine-developed-using-ai-outperforms-current-stockpiled-vaccines-in-preclinical-tests/",
+      "source": "GEN",
+      "category": "science",
+      "group": "life_science",
+      "published_iso": "2026-11-05T19:57:23Z",
+      "excerpt": "An AI-designed broad H5 influenza vaccine, DVX-panH5Nx, outperformed government-stockpiled vaccines in preclinical studies. Vaccine/protective work; may belong to medicine.",
+      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/11/Low-Res_4X4A7027-2-1.jpg"
+    },
+    {
+      "title": "AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261104004909.htm",
+      "source": "ScienceDaily",
+      "category": "science",
+      "group": "life_science",
+      "published_iso": "2026-11-04T01:57:06-05:00",
+      "excerpt": "Stanford researchers used AI to identify BRP, a natural peptide that suppresses appetite and promotes fat loss in animals without the digestive side effects or major muscle loss seen with GLP-1 drugs. Drug-adjacent; may belong to medicine.",
+      "og_image": null
+    },
+    {
+      "title": "Can people train themselves to find humor in hardship? Imperial College pilot study",
+      "url": "https://www.medicaldaily.com/imperial-college-ai-humor-coaching-study-480623",
+      "source": "Medical Daily",
+      "category": "science",
+      "group": "psychology",
+      "published_iso": "2026-10-30T21:30:05-04:00",
+      "excerpt": "An Imperial College London pilot found eight weeks of humor exercises with chatbot coaching and VR improved well-being and self-compassion, with gains holding at three months; researchers say randomized trials are needed. Off-list, weak (small pilot).",
+      "og_image": "https://d.medicaldaily.com/en/full/487986/woman-practices-humor-exercises-digital-coach.jpg"
+    }
+  ]
 }

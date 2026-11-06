@@ -3669,6 +3669,138 @@
           "x": "現在はHome Screenのネイティブ枠やインストリーム動画を含むRokuの広告エコシステム全体で利用でき、Roku Outcomesはまずメディア・エンターテインメント分野の広告主向けに展開される。今後のアップデートで購入、ウェブサイト訪問、カート行動にも対応する予定だ。"
         }
       ]
+    },
+    "marketing/chatgpt-ads-bidding-nov9": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIはChatGPT Adsの広告主に対し、11月9日(月)から始まる入札オプションの変更をメールで通知した。対象はMax BidまたはMax CPCの入札オプションを使う広告主だ。OpenAIは「11月9日(月)から、Ads Managerでキャンペーンを作成するとき、または既存のキャンペーンを更新するときに、任意でコスト目標を選べる」と記した。"
+        },
+        {
+          "t": "p",
+          "x": "コンバージョンキャンペーン向けには目標アクション単価(Target CPA)が導入され、Ads Managerの新規コンバージョンキャンペーンでMax Bidに代わる。クリックキャンペーン向けには目標クリック単価(Target CPC)が導入され、新規クリックキャンペーンでMax CPCに代わる。Max CPCが個々の入札に上限を設けるのに対し、Target CPCでは各オークションでシステムが目標より高くも低くも入札できる。"
+        },
+        {
+          "t": "p",
+          "x": "Max BidとMax CPCは2027年1月1日に廃止される。現在インテリジェント入札(intelligent bidding)と呼ばれるMaximize results(autobid)は、引き続き入札と配信を自動調整する。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIは、今すぐ移行を始めること、PixelまたはConversions APIが選択したイベントを送信しているか確認すること、直近の実際のCPAやCPCをもとに現実的な目標を設定することを勧めている。厳しすぎる目標や弱いコンバージョンシグナルは広告配信を減らし、予算の消化不足を招くおそれがある。"
+        }
+      ]
+    },
+    "marketing/google-ads-ai-disclosure-regions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-label-glow-55CezYGY.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Adsは、広告にAIを使用したかどうかを開示しなければならない地域を拡大した。Googleは、すでに欧州連合、インド、ニューヨークを含んでいたリストに、カリフォルニア、韓国、ベトナムを追加した。"
+        },
+        {
+          "t": "p",
+          "x": "Googleはこの情報を反映して、すでにいくつかのドキュメントを更新している。Google Adsのヘルプドキュメント「Use AI content label settings and disclosures」や、Google Merchant Centerのヘルプドキュメント「Product data specification」などだ。"
+        },
+        {
+          "t": "p",
+          "x": "地域の項目の下には現在、次のように書かれている。「一部の地域では、AIラベルが広告自体にも表示される。以下の地域をターゲットとするキャンペーンでは、AIで作成または編集されたと指定したアセットを含む広告に、目に見えるオーバーレイも表示される:」欧州連合、インド、ニューヨーク、カリフォルニア、韓国、ベトナム。"
+        },
+        {
+          "t": "p",
+          "x": "以下はこのページのスクリーンショットで、追加された部分を赤で強調した:"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png"
+        },
+        {
+          "t": "p",
+          "x": "Merchant Centerのドキュメントで、Googleは次のように記している。欧州連合、インド、ニューヨーク、カリフォルニア、韓国、ベトナムのAI規制では、特定のAI-generatedまたは編集済みのアセットを含む広告に対し、その広告がAIで作られたことを消費者に知らせる開示および/またはラベルを含めることが求められている。"
+        },
+        {
+          "t": "p",
+          "x": "このリストは今後も広がり続けるのではないかと思う..."
+        }
+      ]
+    },
+    "marketing/google-ucp-checkout-canada": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-canada-checkout-1600x840-972.png"
+        },
+        {
+          "t": "p",
+          "x": "Googleは、Universal Commerce Protocol(UCP)を基盤とするダイレクトチェックアウトを、Google SearchのAI ModeとGeminiアプリでカナダの買い物客向けに拡大する。Google Canadaのバイスプレジデント兼カントリーマネージングディレクターであるSabrina Geremiaが、2026年11月4日に展開を発表した。"
+        },
+        {
+          "t": "p",
+          "x": "カナダでの初期展開にはlululemon、一部のShopify加盟店、Shoppers Drug Mart、Simonsが参加する。買い物客はGoogle Walletに保存した支払い方法と配送情報を使ってGoogle Payで支払い、販売責任者(seller of record)は引き続き小売業者となる。Googleは今後数か月のうちに、ロイヤルティ特典の適用などの機能を追加する計画だ。"
+        },
+        {
+          "t": "p",
+          "x": "Googleによると、来年からMerchant Center内で簡素化されたUCP連携を直接提供し、小売業者が自分のアカウントからAI ModeとGeminiアプリ全体の商品リスティングでダイレクトチェックアウトを有効にできるようにする。"
+        },
+        {
+          "t": "p",
+          "x": "Shopifyのプロダクト担当VPであるMani Fazeliは「カナダの人々はすでにAIに何を買うべきか尋ねている。今やカナダ向けに販売するShopify加盟店は、追加作業ゼロで、AI ModeとGeminiアプリ上で忠実に紹介され、直接購入されるようになる」と述べた。GoogleはMerchant Center連携の具体的なリリース日をまだ明らかにしていない。"
+        }
+      ]
+    },
+    "marketing/blend-agent-bot-blocks-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Home Depot、Best Buy、Macy's、Tesco、Argos、Nextを含むUKとUSの小売200社のうち29社で、セキュリティソフトがBlend Commerceの送った自動ショッピングエージェントを二度の試行とも拒否した。Blendは10月6日にAI Shopping Audit 2026を公開し、Black Fridayの23日前にあたる2026年11月4日に調査結果に関する声明を出した。"
+        },
+        {
+          "t": "p",
+          "x": "テストは2026年9月8日から15日にかけて実施された。大手小売80社のうち16社がブラウザを拒否した(20%)。中堅小売では80社中十二社が拒否し(15%)、新興小売では40社中一社だった(2.5%)。Saks Fifth Avenue、Bergdorf Goodman、Anthropologie、JD Williamsのスコアはゼロだった。"
+        },
+        {
+          "t": "p",
+          "x": "Blendは拒否した29店舗のうち24店舗のrobots.txtを読み取ることができ、その24店舗はいずれもChatGPT、Perplexity、Claudeの検索クローラーを許可していた。報告書によれば「拒否はボット対策によるもの」である。"
+        },
+        {
+          "t": "p",
+          "x": "Blend Commerceの共同創業者兼CEO、Adam Pearceは「これらの小売業者の多くは、AI企業に対してエージェントを歓迎すると伝えているはずだ。ところが玄関のセキュリティソフトがそれを拒否する」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "テストにはChatGPTやGeminiではなく、Blend独自のエージェントが使われた。「小売業者は名前の分かるAIエージェントを許可しつつ、認識できない自動化を拒否することがある」。稼働中のエージェント決済エンドポイントを持つ小売38社のうち三十七社がShopifyで運営されている。"
+        }
+      ]
+    },
+    "marketing/sej-ai-answer-ads-categories": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-shopping-ads.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adthenaによると、6月から9月にかけてU.S.（米国）のGoogle AI OverviewパネルとAI Modeパネル内で約175,100件の有料広告枠が確認された。対象は年末商戦の五つのカテゴリーだが、有料広告の大半はアパレルと家電が占めた。Holiday AI Paid Search Reportは同じ期間、同じ五つのカテゴリーでChatGPTの広告枠204,489件も集計している。"
+        },
+        {
+          "t": "p",
+          "x": "Googleの集計では、アパレルが約111,000件、家電が約55,000件、旅行が約6,500件、美容が約2,100件、玩具・ゲームが約685件だった。個別の広告購入はなく、Search、Shopping、Performance Maxの各キャンペーンはすべて自動的にAI回答への掲載対象となる。U.S.のAI Overview表示回数は2025年8月から2026年8月にかけて3億400万回から5億7500万回へ、89%増えた。"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPTではアパレルが90,517件で首位、次いで家電56,569件、旅行48,134件、玩具・ゲーム4,694件、美容4,575件だった。美容では広告の83%が調査・発見段階のクエリに表示され、アパレルと家電はそれぞれ48%、42%と半分を下回った。レポートはクリック、支出、コンバージョンを追跡しておらず、データはBlack Friday前の9月で終わっている。"
+        }
+      ]
     }
   }
 }

@@ -1,31 +1,7 @@
-{
-  "date": "2026-11-06",
-  "section": "gadgets",
-  "media": [
-    {
-      "id": "aina-agent-ring",
-      "type": "image",
-      "src": "pipeline/media/aina-agent-ring.jpg"
-    },
-    {
-      "id": "motorola-signature27-gemini",
-      "type": "image",
-      "src": "pipeline/media/motorola-signature27-gemini.jpg"
-    },
-    {
-      "id": "samsung-xr-glasses-preorder",
-      "type": "image",
-      "src": "pipeline/media/samsung-xr-glasses-preorder.jpg"
-    },
-    {
-      "id": "subvocal-silent-glasses",
-      "type": "image",
-      "src": "pipeline/media/subvocal-silent-glasses.jpg"
-    },
-    {
-      "id": "gadgets-gboard-rambler-learns",
-      "type": "image",
-      "src": "pipeline/media/gadgets-gboard-rambler-learns.jpg"
-    }
-  ]
-}
+{"date":"2026-11-07","section":"gadgets","media":[
+{"id":"wired-radar-ai-aircon","type":"image","src":"pipeline/media/wired-radar-ai-aircon.jpg"},
+{"id":"tau-humanoid-home-cleaning","type":"video","src":"pipeline/media/tau-humanoid-home-cleaning.mp4","poster":"pipeline/media/tau-humanoid-home-cleaning.jpg"},
+{"id":"syncere-lume-robot-lamp","type":"video","src":"pipeline/media/syncere-lume-robot-lamp.mp4","poster":"pipeline/media/syncere-lume-robot-lamp.jpg"},
+{"id":"moto-buds-ultra27-translate","type":"image","src":"pipeline/media/moto-buds-ultra27-translate.jpg"},
+{"id":"homeview-thirdparty-chatbots","type":"image","src":"pipeline/media/homeview-thirdparty-chatbots.jpg"}
+]}

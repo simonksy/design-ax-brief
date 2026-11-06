@@ -9640,6 +9640,143 @@
           "x": "认为AI伴侣具备情感能力,既与更好的幸福感相关,也与更高的脆弱性相关;而被感受为温暖、体贴的伴侣则与更好的幸福感和更低的脆弱性相关。研究人员建议,在更改应用前征询用户意见,帮助用户应对关系中断,并明确提醒用户AI伴侣并不会体验真实的情感。"
         }
       ]
+    },
+    "science/autodna-sjtu-selfdriving-lab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03552-8/d41586-026-03552-8_53940190.jpg",
+          "cap": "名为AutoDNA的自动驾驶实验室能够读出一段DNA的组成“字母”。"
+        },
+        {
+          "t": "p",
+          "x": "在中国上海交通大学（Shanghai Jiao Tong University）一间不同寻常的遗传学实验室里，一支由人工智能驱动的机器人团队几乎无需人手就能设计并开展实验。"
+        },
+        {
+          "t": "p",
+          "x": "这一发表于Nature的设施，是迈向AI引导的“自动驾驶”实验室的最新进展之一。实验室由机械臂搬运样本，可操作20多种仪器，在单个项目中完成数千次操作，并开展涉及DNA合成与测序的实验。"
+        },
+        {
+          "t": "p",
+          "x": "实验在人类操作员给出一条简单提示后，由一支AI智能体团队从头到尾设计并执行。此后只需人手补充试剂和维护硬件。"
+        },
+        {
+          "t": "p",
+          "x": "北卡罗来纳州立大学（North Carolina State University）的Milad Abolhasani说：“科学的未来将涉及大量自主实验室。”共同作者Haibo Chen表示，团队从一开始就以AI为核心打造AutoDNA，而不是给既有系统加上AI。"
+        },
+        {
+          "t": "p",
+          "x": "团队用多个项目对其进行了测试，包括检测DNA中与癌症相关的突变，以及将“智能是适应变化的能力”这句话编码进DNA的四种碱基。"
+        }
+      ]
+    },
+    "science/mit-chemeleon-molecule-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202610/mit-cheme-chemeleon.jpg"
+        },
+        {
+          "t": "p",
+          "x": "MIT开发的一种新方法表明，当某些技术相关特性（例如新发现药物靶点的配体亲和力）的数据很少时，它在筛选值得研究的分子方面可以胜过现有方法。"
+        },
+        {
+          "t": "p",
+          "x": "开源模型CheMeleon发表于Journal of Chemical Information and Modeling，基于ChemProp构建。在一场OpenADMET竞赛中，前20名参赛作品中有九个使用了CheMeleon；一家制药公司还规定，所有性质模型都要从它起步。"
+        },
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202610/chemeleon_toc.png"
+        },
+        {
+          "t": "p",
+          "x": "CheMeleon是一个预训练基础模型：它从PubChem中一百万个分子的分子描述符中学习，预测约1,600个描述符组成的目录，随后可针对从溶解度到生物活性等各类性质进行微调。"
+        },
+        {
+          "t": "p",
+          "x": "Zalte说：“即使只用你所关心任务的少量数据点进行微调，仍能获得不错的性能。”在58个测试案例中，“我们看到我们的模型名列前茅。”"
+        }
+      ]
+    },
+    "science/mitomatch-alphafold-mito-screen": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-27.jpg",
+          "cap": "将AlphaFold-Multimer用作分类模型，预测线粒体蛋白质间的相互作用。Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77112-z"
+        },
+        {
+          "t": "p",
+          "x": "Texas A&M AgriLife Research的科学家利用Google DeepMind开发、可预测蛋白质如何相互结合的AI工具AlphaFold-Multimer，在约1,100种人类线粒体蛋白质之间筛查了约630,000个可能的配对。"
+        },
+        {
+          "t": "p",
+          "x": "他们识别出2,895个可能的相互作用，其中一半以上此前未见报道。预测结果为85个此前功能未明的蛋白质找到了可能的伙伴，其中数个已在酵母和人类细胞中得到证实。"
+        },
+        {
+          "t": "p",
+          "x": "第一作者Abhinav Swaminathan说：“如果我们不了解这些单个蛋白质的功能，就无法确定如何治疗它们可能引发的疾病。”他指出，治愈手段可能仍很遥远，但这一方法提供了切实的起点。"
+        },
+        {
+          "t": "p",
+          "x": "团队将预测结果作为名为MitoMatch的免费资源发布。该研究发表于Nature Communications。"
+        }
+      ]
+    },
+    "science/sydney-riddled-basins-training": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sydney-researchers-unc.jpg",
+          "cap": "Credit: Professor Pulin Gong/The University of Sydney"
+        },
+        {
+          "t": "p",
+          "x": "悉尼大学（University of Sydney）研究人员Pulin Gong和Andrew Ly在Nature Machine Intelligence上发表研究，发现AI的部分不可预测性源于神经网络训练的数学本身，而非硬件或数据顺序带来的噪声。"
+        },
+        {
+          "t": "p",
+          "x": "通向不同训练结果的初始条件区域构成了被称为“riddled basins”（多孔吸引盆）的复杂分形，因此初始条件的微小差异就可能产生不同结果。“我们的发现指向更深层的东西。”"
+        },
+        {
+          "t": "p",
+          "x": "在一个图像识别网络中，将初始设置的精度提高100亿倍并未改善可复现性，而改动一个比特就会在约48%的情况下得到不同的构型。在约500,000个训练好的网络中，这一模式普遍存在。"
+        },
+        {
+          "t": "p",
+          "x": "他们还发现了一种权衡：效果最好的学习设置会让结果更难复现，而降低学习率能提升可复现性，代价是学习效果下降。"
+        }
+      ]
+    },
+    "science/llnl-strata-stitch-emulators": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula.jpg",
+          "cap": "STRATA仿真器旨在无需计算昂贵、耗时漫长的模拟，就能准确预测长期天气。图片来源：Peter Caldwell制图"
+        },
+        {
+          "t": "p",
+          "x": "在世界顶级超级计算机上模拟未来十年需要数月时间。Lawrence Livermore National Laboratory（LLNL）的研究人员正在部署仿真器，以便更快、更准确地预测未来数月到数年的天气。"
+        },
+        {
+          "t": "p",
+          "x": "E3SM可通过求解物理方程，以3公里分辨率模拟大气。LLNL、DOE和NVIDIA的科学家则另辟蹊径：用E3SM这类模型的输出训练名为STRATA的仿真器，再让它预测数天、数月乃至数年后的大气状态，全程无需求解物理方程。LLNL科学家Yunyan Zhang表示：“对仿真器而言，我们使用深度神经网络等机器学习方法，来模仿真实物理过程本应得出的结果。”"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula-1.jpg",
+          "cap": "STRATA仿真器的12小时预报（上排）与Simple Cloud-Resolving E3SM Atmosphere Model（SCREAM，下排）的对比。图片来源：Peter Caldwell制图"
+        },
+        {
+          "t": "p",
+          "x": "这样的速度让科学家能够运行数百次模拟，同时权衡多种预测。对于由Los Alamos牵头、利用生成模型构建初始条件的MAGGIE项目，Peter Caldwell说：“如果用基于物理的模型，完成这组集合模拟要花三个月。”“用我们的新仿真器，一个周末就完成了。”"
+        },
+        {
+          "t": "p",
+          "x": "在DOE Genesis Mission框架下，由Zhang领导的STITCH项目利用云微物理和小尺度湍流的局地模拟训练仿真器；其结果可输入E3SM，而E3SM又能为STRATA提供新的训练数据。"
+        }
+      ]
     }
   }
 }

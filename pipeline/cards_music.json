@@ -1,251 +1,221 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "section": "music",
   "cards": [
     {
-      "id": "splice-create-ai-daw",
+      "id": "cubase16-stem-omnivocal",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Splice Create\n무료 DAW에 AI 탑재",
-      "body": "무료 Mac DAW Splice Create에서는 AI 챗봇 Rheo가 곡을 쓴다.",
-      "mini_headline": "Splice, AI DAW 출시",
+      "headline": "Cubase 16에 내장된\n스템 분리·AI 보컬",
+      "body": "Cubase 16이 DAW 안에 여섯 스템 분리와 Omnivocal AI를 들였다.",
+      "mini_headline": "Cubase 16에 AI 보컬",
       "tool": "Music",
-      "source": "MusicRadar",
-      "url": "https://www.musicradar.com/music-tech/splices-new-ai-daw-feels-like-a-cheat-code-for-music-production-but-it-left-us-with-one-big-question",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Cubase-16-adds-six-part-stem-separation-and-AI-vocals.1442941.0.html",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/MKxdBMTbkaGpg7vnhZevTo-2560-80.png"
-          },
-          {
             "t": "p",
-            "x": "Splice가 Mac용 Create를 베타로 내놨다. Splice의 샘플 라이브러리를 작업 흐름에 녹인 본격 DAW로, 회사는 “지금까지 어떤 DAW에서도 본 적 없는 가장 앞선 AI 기반(AI-powered) 기능”을 갖췄다고 말한다. 내려받기는 무료다. 곡을 내보내려면 월 $9.99짜리 Create Pro를 구독해야 한다."
+            "x": "Steinberg가 Cubase 16을 내놨다. 프로듀서와 리믹서, 뮤지션을 위한 새 도구로 디지털 오디오 워크스테이션(DAW)의 폭을 넓혔다. 큰 변화 중 하나는 오디오 기술 기업 zplane과 함께 손본 스템 분리 기능이다. 이제 믹스된 녹음을 보컬, 드럼, 베이스, 피아노, 기타, 그 밖의 악기까지 여섯 요소로 나눈다. 이전 버전은 네 가지였다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/NjYYssBf6dN3KhhuMiewYV.jpg",
-            "cap": "이미지 출처: Splice"
+            "src": "https://www.notebookcheck.net/fileadmin/_processed_/b/3/csm_Cubase-16-04_master_291774746e.jpg",
+            "cap": "전문 녹음 스튜디오에서 일렉트릭 기타와 함께한 Cubase 16 음악 제작 워크플로"
           },
           {
             "t": "p",
-            "x": "빈 클립에 원하는 소리를 적으면 Splice가 샘플을 골라 프로젝트에 맞게 조옮김하고 템포까지 맞춘다. 샘플은 MP3 미리듣기로 들어온다. 내보내기 전에 라이선스를 받지 않으면 그 부분은 무음으로 바운스된다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/8DzYguARbCHYrXPdMYVfvB.jpg",
-            "cap": "여느 챗봇처럼 Rheo도 음악 제작 전반을 조언하고 안내한다(이미지 출처: Splice)"
+            "x": "Instrument Stacks도 새로 들어갔다. 가상 악기를 최대 여덟 개까지 묶어 한 트랙에서 연주한다. 새 MIDI 도구는 프로그래밍한 코드를 자연스러운 스트로크처럼 들리게 해 준다. 템포 감지를 새로 설계하고 설정을 검색할 수 있게 바꾼 것도 일상 작업 속도를 끌어올리려는 변화다."
           },
           {
             "t": "p",
-            "x": "Create를 남다르게 만드는 건 AI 챗봇 Rheo다. 텍스트나 음성으로 말하면 Rheo가 DAW를 직접 움직여 소리를 찾고 멜로디를 만든다. 신스 패치 디자인과 편곡, 오디오 분석도 맡는다. Point 모드는 빛나는 커서로 한 단계씩 짚어 주고 Assist 모드는 작업을 대신 처리한다. Rheo 유닛은 1000개에 $10이고 무료 사용자는 100개를 받는다."
+            "x": "Yamaha의 보컬 신시사이저 Omnivocal Basic도 눈에 띈다. 새 Omnivocal NX 엔진으로 돌아가며, Cubase의 Key Editor에 직접 입력한 MIDI 음표와 가사로 노래를 만든다. Basic에는 보이스 뱅크가 두 개 들어 있다. 따로 파는 Omnivocal Pro는 이를 열 개로 늘리고, 여러 겹의 연주를 쌓는 보컬 스태킹 기능을 더한다."
           },
           {
             "t": "p",
-            "x": "요청만 하면 Rheo가 Splice 샘플과 기본 악기로 곡 하나를 통째로 만들기도 한다. Suno식 오디오 생성 기능은 없다. Splice는 모든 모델을 “완전히 라이선스를 확보한” 데이터로 학습시켰다고 밝혔다. MusicRadar는 창작의 주도권을 AI 에이전트에 넘기면 음악 만들기가 너무 쉬워지지 않느냐고 묻는다."
+            "x": "Cubase 16은 Pro($599.99 / €599), Artist($299.99 / €299), Elements($99.99 / €99) 에디션으로 나온다. Omnivocal Basic은 무료로 딸려 오고 Omnivocal Pro는 $149.99에 따로 판다. 2026년 10월 7일부터 활성화한 라이선스는 무료로 업데이트할 수 있다."
+          },
+          {
+            "t": "video",
+            "yt": "rUJ8NZDcEoo"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Splice Create puts an AI\nproducer in a free DAW",
-          "body": "Splice Create, a free Mac DAW in beta, lets an AI chatbot called Rheo build songs from Splice samples.",
-          "mini_headline": "Splice launches an AI DAW",
+          "headline": "Cubase 16 builds in stem\nsplitting and AI vocals",
+          "body": "Steinberg's Cubase 16 adds six-stem separation and Yamaha's Omnivocal AI singing synth inside the DAW.",
+          "mini_headline": "Cubase 16 adds\nAI vocals",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/MKxdBMTbkaGpg7vnhZevTo-2560-80.png"
-              },
-              {
                 "t": "p",
-                "x": "Splice has launched Create in beta for Mac: a fully-fledged DAW with Splice's sample library embedded in its workflow and \"the most advanced AI-powered features we've seen in any DAW to date\". It's free to download, but exporting songs requires a Create Pro subscription at $9.99/month."
+                "x": "Steinberg has released Cubase 16, expanding its digital audio workstation with new tools for producers, remixers and musicians. One of the biggest additions is improved stem separation, developed with audio technology company zplane. Cubase can now split a mixed recording into six components: vocals, drums, bass, piano, guitar and other instruments. The previous version supported four."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NjYYssBf6dN3KhhuMiewYV.jpg",
-                "cap": "Image credit: Splice"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/b/3/csm_Cubase-16-04_master_291774746e.jpg",
+                "cap": "Cubase 16 music production workflow with electric guitar in a professional recording studio"
               },
               {
                 "t": "p",
-                "x": "Type what you're after into an empty clip and Splice picks a sample, transposed and time-stretched to your project. Samples land as MP3 previews and must be licensed before export, otherwise they bounce as silence."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/8DzYguARbCHYrXPdMYVfvB.jpg",
-                "cap": "Like most chatbots, Rheo can offer advice and guidance on topics related to music production (Image credit: Splice)"
+                "x": "The update also introduces Instrument Stacks, allowing up to eight virtual instruments to be combined and played from a single track. New MIDI tools can make programmed chords sound more like natural strumming, while redesigned tempo detection and searchable settings aim to speed up everyday production tasks."
               },
               {
                 "t": "p",
-                "x": "What sets Create apart is its AI chatbot, Rheo, which can control the DAW via text or voice: search for sounds, generate melodies, design synth patches, create arrangements and analyse audio. Its Point mode guides you step by step with a glowing cursor; Assist executes the task for you. Rheo units cost $10 per 1000, and free users get 100."
+                "x": "Yamaha's Omnivocal Basic vocal synthesizer is another notable addition. Using the new Omnivocal NX engine, it generates singing from MIDI notes and lyrics entered directly in Cubase's Key Editor. Basic includes two voice banks, while the separately priced Omnivocal Pro expands the selection to ten and adds vocal stacking for layered performances."
               },
               {
                 "t": "p",
-                "x": "Rheo will even produce a full song on demand from Splice samples and stock instruments, though there's no Suno-style audio generation. Splice says all models were trained on \"fully licensed\" data, while MusicRadar asks whether handing creative control to an AI agent makes music production too easy."
+                "x": "Cubase 16 comes in Pro ($599.99 / €599), Artist ($299.99 / €299) and Elements ($99.99 / €99) editions. Omnivocal Basic is included for free, while Omnivocal Pro costs $149.99 separately. Licenses activated on or after October 7, 2026, qualify for a free update."
+              },
+              {
+                "t": "video",
+                "yt": "rUJ8NZDcEoo"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Splice Create\n무료 DAW에 AI 탑재",
-          "body": "무료 Mac DAW Splice Create에서는 AI 챗봇 Rheo가 곡을 쓴다.",
-          "mini_headline": "Splice, AI DAW 출시",
+          "headline": "Cubase 16에 내장된\n스템 분리·AI 보컬",
+          "body": "Cubase 16이 DAW 안에 여섯 스템 분리와 Omnivocal AI를 들였다.",
+          "mini_headline": "Cubase 16에 AI 보컬",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/MKxdBMTbkaGpg7vnhZevTo-2560-80.png"
-              },
-              {
                 "t": "p",
-                "x": "Splice가 Mac용 Create를 베타로 내놨다. Splice의 샘플 라이브러리를 작업 흐름에 녹인 본격 DAW로, 회사는 “지금까지 어떤 DAW에서도 본 적 없는 가장 앞선 AI 기반(AI-powered) 기능”을 갖췄다고 말한다. 내려받기는 무료다. 곡을 내보내려면 월 $9.99짜리 Create Pro를 구독해야 한다."
+                "x": "Steinberg가 Cubase 16을 내놨다. 프로듀서와 리믹서, 뮤지션을 위한 새 도구로 디지털 오디오 워크스테이션(DAW)의 폭을 넓혔다. 큰 변화 중 하나는 오디오 기술 기업 zplane과 함께 손본 스템 분리 기능이다. 이제 믹스된 녹음을 보컬, 드럼, 베이스, 피아노, 기타, 그 밖의 악기까지 여섯 요소로 나눈다. 이전 버전은 네 가지였다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NjYYssBf6dN3KhhuMiewYV.jpg",
-                "cap": "이미지 출처: Splice"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/b/3/csm_Cubase-16-04_master_291774746e.jpg",
+                "cap": "전문 녹음 스튜디오에서 일렉트릭 기타와 함께한 Cubase 16 음악 제작 워크플로"
               },
               {
                 "t": "p",
-                "x": "빈 클립에 원하는 소리를 적으면 Splice가 샘플을 골라 프로젝트에 맞게 조옮김하고 템포까지 맞춘다. 샘플은 MP3 미리듣기로 들어온다. 내보내기 전에 라이선스를 받지 않으면 그 부분은 무음으로 바운스된다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/8DzYguARbCHYrXPdMYVfvB.jpg",
-                "cap": "여느 챗봇처럼 Rheo도 음악 제작 전반을 조언하고 안내한다(이미지 출처: Splice)"
+                "x": "Instrument Stacks도 새로 들어갔다. 가상 악기를 최대 여덟 개까지 묶어 한 트랙에서 연주한다. 새 MIDI 도구는 프로그래밍한 코드를 자연스러운 스트로크처럼 들리게 해 준다. 템포 감지를 새로 설계하고 설정을 검색할 수 있게 바꾼 것도 일상 작업 속도를 끌어올리려는 변화다."
               },
               {
                 "t": "p",
-                "x": "Create를 남다르게 만드는 건 AI 챗봇 Rheo다. 텍스트나 음성으로 말하면 Rheo가 DAW를 직접 움직여 소리를 찾고 멜로디를 만든다. 신스 패치 디자인과 편곡, 오디오 분석도 맡는다. Point 모드는 빛나는 커서로 한 단계씩 짚어 주고 Assist 모드는 작업을 대신 처리한다. Rheo 유닛은 1000개에 $10이고 무료 사용자는 100개를 받는다."
+                "x": "Yamaha의 보컬 신시사이저 Omnivocal Basic도 눈에 띈다. 새 Omnivocal NX 엔진으로 돌아가며, Cubase의 Key Editor에 직접 입력한 MIDI 음표와 가사로 노래를 만든다. Basic에는 보이스 뱅크가 두 개 들어 있다. 따로 파는 Omnivocal Pro는 이를 열 개로 늘리고, 여러 겹의 연주를 쌓는 보컬 스태킹 기능을 더한다."
               },
               {
                 "t": "p",
-                "x": "요청만 하면 Rheo가 Splice 샘플과 기본 악기로 곡 하나를 통째로 만들기도 한다. Suno식 오디오 생성 기능은 없다. Splice는 모든 모델을 “완전히 라이선스를 확보한” 데이터로 학습시켰다고 밝혔다. MusicRadar는 창작의 주도권을 AI 에이전트에 넘기면 음악 만들기가 너무 쉬워지지 않느냐고 묻는다."
+                "x": "Cubase 16은 Pro($599.99 / €599), Artist($299.99 / €299), Elements($99.99 / €99) 에디션으로 나온다. Omnivocal Basic은 무료로 딸려 오고 Omnivocal Pro는 $149.99에 따로 판다. 2026년 10월 7일부터 활성화한 라이선스는 무료로 업데이트할 수 있다."
+              },
+              {
+                "t": "video",
+                "yt": "rUJ8NZDcEoo"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Splice Create、\n無料DAWにAI搭載",
-          "body": "Splice Createは無料のMac用DAWで、AIチャットボットRheoが曲を作る。",
-          "mini_headline": "SpliceがAI搭載DAWを公開",
+          "headline": "Cubase 16が内蔵\nステム分離とAIボーカル",
+          "body": "Cubase 16はDAW内に六ステム分離とOmnivocal AIを加えた。",
+          "mini_headline": "Cubase 16にAIボーカル",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/MKxdBMTbkaGpg7vnhZevTo-2560-80.png"
-              },
-              {
                 "t": "p",
-                "x": "SpliceはMac向けにCreateのベータ版を公開した。Spliceのサンプルライブラリをワークフローに組み込んだ本格的なDAWで、「これまでどのDAWでも見たことのない最も高度なAI機能（AI-powered）」を備えるという。ダウンロードは無料だが、曲の書き出しには月額$9.99のCreate Pro購読が必要だ。"
+                "x": "SteinbergはCubase 16をリリースし、プロデューサー、リミキサー、ミュージシャン向けの新ツールでデジタル・オーディオ・ワークステーション（DAW）の機能を広げた。最大の追加点の一つは、オーディオ技術企業zplaneと共同開発した改良版のステム分離だ。Cubaseはミックス済みの録音を、ボーカル、ドラム、ベース、ピアノ、ギター、その他の楽器という六つの要素に分けられるようになった。前バージョンは四つに対応していた。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NjYYssBf6dN3KhhuMiewYV.jpg",
-                "cap": "画像提供：Splice"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/b/3/csm_Cubase-16-04_master_291774746e.jpg",
+                "cap": "プロのレコーディングスタジオでエレキギターを使うCubase 16の音楽制作ワークフロー"
               },
               {
                 "t": "p",
-                "x": "空のクリップに欲しい音を入力すると、Spliceがサンプルを選び、プロジェクトに合わせて移調とタイムストレッチを施す。サンプルはMP3のプレビューとして読み込まれ、書き出し前にライセンスを取得しなければ無音としてバウンスされる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/8DzYguARbCHYrXPdMYVfvB.jpg",
-                "cap": "多くのチャットボットと同様に、Rheoは音楽制作に関する話題で助言や手引きを提供できる（画像提供：Splice）"
+                "x": "アップデートではInstrument Stacksも導入され、最大八つの仮想楽器を組み合わせて一つのトラックから演奏できる。新しいMIDIツールは打ち込んだコードを自然なストロークのように響かせ、刷新したテンポ検出と検索可能な設定は日々の制作作業の効率化を狙う。"
               },
               {
                 "t": "p",
-                "x": "Createを際立たせるのはAIチャットボットのRheoだ。テキストや音声でDAWを操作し、音の検索、メロディの生成、シンセパッチの設計、アレンジの作成、オーディオの解析をこなす。Pointモードは光るカーソルで一歩ずつ案内し、Assistモードは作業を代わりに実行する。Rheoユニットは1000単位あたり$10で、無料ユーザーには100単位が付与される。"
+                "x": "YamahaのOmnivocal Basicボーカルシンセサイザーも注目すべき追加だ。新しいOmnivocal NXエンジンを使い、CubaseのKey Editorに直接入力したMIDIノートと歌詞から歌声を生成する。Basicには二つのボイスバンクが含まれ、別売りのOmnivocal Proは選択肢を十に広げ、重ねた歌唱のためのボーカルスタッキングを加える。"
               },
               {
                 "t": "p",
-                "x": "Rheoは求めに応じてSpliceのサンプルと標準音源でフルの楽曲を制作することもできるが、Suno型の音声生成機能はない。Spliceはすべてのモデルを「完全にライセンスを得た」データで学習させたとしている。一方MusicRadarは、創作の主導権をAIエージェントに渡すと音楽制作が簡単になりすぎないかと問いかけている。"
+                "x": "Cubase 16はPro（$599.99 / €599）、Artist（$299.99 / €299）、Elements（$99.99 / €99）の各エディションで提供される。Omnivocal Basicは無償で付属し、Omnivocal Proは別途$149.99だ。2026年10月7日以降にアクティベートしたライセンスは無償アップデートの対象となる。"
+              },
+              {
+                "t": "video",
+                "yt": "rUJ8NZDcEoo"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Splice Create\n把AI制作人放进免费DAW",
-          "body": "Splice Create是免费Mac DAW测试版，AI聊天机器人Rheo能用采样作曲。",
-          "mini_headline": "Splice推出AI DAW",
+          "headline": "Cubase 16内置\n分轨分离与AI人声",
+          "body": "Cubase 16在DAW内加入六轨分离与Omnivocal AI歌声合成器。",
+          "mini_headline": "Cubase 16加入AI人声",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/MKxdBMTbkaGpg7vnhZevTo-2560-80.png"
-              },
-              {
                 "t": "p",
-                "x": "Splice推出了Mac版Create测试版：这是一款功能完整的DAW，把Splice的采样库嵌入工作流程，并拥有“迄今在所有DAW中见过的最先进的AI驱动（AI-powered）功能”。软件可免费下载，但导出歌曲需订阅每月$9.99的Create Pro。"
+                "x": "Steinberg发布了Cubase 16，为制作人、混音师和音乐人带来新工具，扩展了这款数字音频工作站（DAW）。最大的新增功能之一是与音频技术公司zplane合作开发的改进版分轨分离。Cubase现在可将混音录音拆分为六个部分：人声、鼓、贝斯、钢琴、吉他及其他乐器。上一版本支持四个。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NjYYssBf6dN3KhhuMiewYV.jpg",
-                "cap": "图片来源：Splice"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/b/3/csm_Cubase-16-04_master_291774746e.jpg",
+                "cap": "专业录音棚中搭配电吉他的Cubase 16音乐制作流程"
               },
               {
                 "t": "p",
-                "x": "在空白片段中输入想要的声音，Splice就会挑选一段采样，并按项目进行移调和时间伸缩。采样以MP3预览形式载入，导出前必须获得授权，否则会以静音形式导出。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/8DzYguARbCHYrXPdMYVfvB.jpg",
-                "cap": "与大多数聊天机器人一样，Rheo可以就音乐制作相关话题提供建议和指导（图片来源：Splice）"
+                "x": "此次更新还引入了Instrument Stacks，可将最多八件虚拟乐器组合起来，在单条音轨上演奏。新的MIDI工具能让编程和弦听起来更像自然扫弦，重新设计的速度检测和可搜索的设置则旨在加快日常制作任务。"
               },
               {
                 "t": "p",
-                "x": "Create的独特之处在于AI聊天机器人Rheo，它能通过文字或语音控制DAW：搜索声音、生成旋律、设计合成器音色、编排段落和分析音频。Point模式用发光的光标一步步引导用户，Assist模式则直接代为执行任务。Rheo点数每1000个售价$10，免费用户可获得100个。"
+                "x": "Yamaha的Omnivocal Basic人声合成器是另一项值得关注的新增功能。它采用全新的Omnivocal NX引擎，根据直接在Cubase的Key Editor中输入的MIDI音符和歌词生成歌声。Basic包含两个声库，单独定价的Omnivocal Pro则将可选声库扩展到十个，并增加用于多层演唱的人声叠加功能。"
               },
               {
                 "t": "p",
-                "x": "Rheo甚至能按需用Splice采样和内置乐器制作一整首歌，但没有Suno式的音频生成功能。Splice表示所有模型都使用“完全授权”的数据训练，而MusicRadar则提出疑问：把创作控制权交给AI智能体，是否会让音乐制作变得过于容易。"
+                "x": "Cubase 16提供Pro（$599.99 / €599）、Artist（$299.99 / €299）和Elements（$99.99 / €99）版本。Omnivocal Basic免费附带，Omnivocal Pro需另付$149.99。2026年10月7日当天或之后激活的许可证可免费升级。"
+              },
+              {
+                "t": "video",
+                "yt": "rUJ8NZDcEoo"
               }
             ]
           }
         },
         "es": {
-          "headline": "Splice Create pone un productor\nde IA en un DAW gratuito",
-          "body": "Splice Create, un DAW gratuito para Mac en beta, deja que el chatbot de IA Rheo cree canciones con samples de Splice.",
-          "mini_headline": "Splice lanza un DAW con IA",
+          "headline": "Cubase 16 integra separación\nde stems y voces con AI",
+          "body": "Cubase 16 de Steinberg añade separación en seis stems y el sintetizador vocal Omnivocal AI de Yamaha dentro del DAW.",
+          "mini_headline": "Cubase 16 suma voces con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/MKxdBMTbkaGpg7vnhZevTo-2560-80.png"
-              },
-              {
                 "t": "p",
-                "x": "Splice ha lanzado Create en beta para Mac: un DAW completo con la biblioteca de samples de Splice integrada en su flujo de trabajo y “las funciones basadas en IA (AI-powered) más avanzadas que hemos visto hasta la fecha en cualquier DAW”. La descarga es gratuita, pero exportar canciones requiere una suscripción a Create Pro de $9.99 al mes."
+                "x": "Steinberg ha lanzado Cubase 16, que amplía su estación de trabajo de audio digital (DAW) con nuevas herramientas para productores, remezcladores y músicos. Una de las principales novedades es una separación de stems mejorada, desarrollada con la empresa de tecnología de audio zplane. Cubase ahora puede dividir una grabación mezclada en seis componentes: voces, batería, bajo, piano, guitarra y otros instrumentos. La versión anterior admitía cuatro."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NjYYssBf6dN3KhhuMiewYV.jpg",
-                "cap": "Imagen: Splice"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/b/3/csm_Cubase-16-04_master_291774746e.jpg",
+                "cap": "Flujo de trabajo de producción musical en Cubase 16 con guitarra eléctrica en un estudio de grabación profesional"
               },
               {
                 "t": "p",
-                "x": "Basta con escribir lo que se busca en un clip vacío para que Splice elija un sample, transportado y ajustado en tempo al proyecto. Los samples llegan como previsualizaciones en MP3 y deben licenciarse antes de exportar; de lo contrario, se exportan como silencio."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/8DzYguARbCHYrXPdMYVfvB.jpg",
-                "cap": "Como la mayoría de los chatbots, Rheo puede ofrecer consejos y orientación sobre temas de producción musical (Imagen: Splice)"
+                "x": "La actualización también introduce Instrument Stacks, que permite combinar hasta ocho instrumentos virtuales y tocarlos desde una sola pista. Nuevas herramientas MIDI pueden hacer que los acordes programados suenen más como un rasgueo natural, mientras que la detección de tempo rediseñada y los ajustes con búsqueda buscan agilizar las tareas cotidianas de producción."
               },
               {
                 "t": "p",
-                "x": "Lo que distingue a Create es su chatbot de IA, Rheo, capaz de controlar el DAW por texto o voz: buscar sonidos, generar melodías, diseñar patches de sintetizador, crear arreglos y analizar audio. Su modo Point guía paso a paso con un cursor luminoso; Assist ejecuta la tarea por el usuario. Las unidades de Rheo cuestan $10 por cada 1000, y los usuarios gratuitos reciben 100."
+                "x": "El sintetizador vocal Omnivocal Basic de Yamaha es otra incorporación destacada. Con el nuevo motor Omnivocal NX, genera canto a partir de notas MIDI y letras introducidas directamente en el Key Editor de Cubase. Basic incluye dos bancos de voces, mientras que Omnivocal Pro, de precio aparte, amplía la selección a diez y añade apilamiento vocal para interpretaciones en capas."
               },
               {
                 "t": "p",
-                "x": "Rheo puede incluso producir una canción completa a petición con samples de Splice e instrumentos de serie, aunque no ofrece generación de audio al estilo de Suno. Splice afirma que todos los modelos se entrenaron con datos “totalmente licenciados”, mientras que MusicRadar se pregunta si ceder el control creativo a un agente de IA hace la producción musical demasiado fácil."
+                "x": "Cubase 16 se ofrece en las ediciones Pro ($599.99 / €599), Artist ($299.99 / €299) y Elements ($99.99 / €99). Omnivocal Basic se incluye gratis, mientras que Omnivocal Pro cuesta $149.99 por separado. Las licencias activadas el 7 de octubre de 2026 o después tienen derecho a una actualización gratuita."
+              },
+              {
+                "t": "video",
+                "yt": "rUJ8NZDcEoo"
               }
             ]
           }
@@ -253,161 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Splice Create\n무료 DAW에 AI 탑재",
-          "body": "무료 Mac DAW Splice Create에서 AI 챗봇 Rheo가 작곡한다.",
-          "mini_headline": "Splice, AI DAW 출시",
+          "headline": "Cubase 16에 내장된\n스템 분리·AI 보컬",
+          "body": "Cubase 16은 DAW에 여섯 스템 분리와 Omnivocal AI를 더했다.",
+          "mini_headline": "Cubase 16에 AI 보컬",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/MKxdBMTbkaGpg7vnhZevTo-2560-80.png"
-              },
-              {
                 "t": "p",
-                "x": "Splice가 Mac용 Create를 베타로 출시했다. Splice의 샘플 라이브러리를 작업 흐름 안에 넣은 본격 DAW로, “지금까지 어떤 DAW에서도 본 적 없는 가장 앞선 AI 기반(AI-powered) 기능”을 갖췄다고 한다. 내려받기는 무료지만 곡을 내보내려면 월 $9.99의 Create Pro 구독이 필요하다."
+                "x": "Steinberg가 Cubase 16을 내놨다. 프로듀서와 리믹서, 뮤지션을 위한 새 도구로 디지털 오디오 워크스테이션(DAW)의 폭을 넓혔다. 가장 큰 변화 중 하나는 오디오 기술 기업 zplane과 함께 개발한 스템 분리 기능의 개선이다. 이제 Cubase는 믹스된 녹음을 보컬, 드럼, 베이스, 피아노, 기타, 그 밖의 악기 등 여섯 요소로 나눌 수 있다. 이전 버전은 네 가지를 지원했다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NjYYssBf6dN3KhhuMiewYV.jpg",
-                "cap": "이미지 출처: Splice"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/b/3/csm_Cubase-16-04_master_291774746e.jpg",
+                "cap": "전문 녹음 스튜디오에서 일렉트릭 기타와 함께한 Cubase 16 음악 제작 워크플로"
               },
               {
                 "t": "p",
-                "x": "빈 클립에 원하는 소리를 입력하면 Splice가 샘플을 골라 프로젝트에 맞게 조옮김하고 템포를 맞춰 준다. 샘플은 MP3 미리듣기로 들어오며, 내보내기 전에 라이선스를 받아야 한다. 그렇지 않으면 무음으로 바운스된다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/8DzYguARbCHYrXPdMYVfvB.jpg",
-                "cap": "여느 챗봇처럼 Rheo도 음악 제작 관련 주제에 조언과 안내를 해 준다(이미지 출처: Splice)"
+                "x": "이번 업데이트에는 Instrument Stacks도 새로 들어갔다. 최대 여덟 개의 가상 악기를 묶어 하나의 트랙에서 연주할 수 있다. 새 MIDI 도구는 프로그래밍한 코드를 자연스러운 스트로크처럼 들리게 하고, 새로 설계한 템포 감지와 검색 가능한 설정은 일상적인 제작 작업의 속도를 높이는 데 초점을 맞췄다."
               },
               {
                 "t": "p",
-                "x": "Create의 차별점은 AI 챗봇 Rheo다. Rheo는 텍스트나 음성으로 DAW를 조작해 소리를 찾고, 멜로디를 만들고, 신스 패치를 디자인하고, 편곡을 짜고, 오디오를 분석한다. Point 모드는 빛나는 커서로 한 단계씩 안내하고, Assist 모드는 작업을 대신 실행한다. Rheo 유닛은 1000개당 $10이며, 무료 사용자에게는 100개가 주어진다."
+                "x": "Yamaha의 Omnivocal Basic 보컬 신시사이저도 눈에 띄는 추가 기능이다. 새 Omnivocal NX 엔진을 바탕으로, Cubase의 Key Editor에 직접 입력한 MIDI 음표와 가사로 노래를 만들어낸다. Basic에는 보이스 뱅크 두 개가 들어 있고, 별도 판매하는 Omnivocal Pro는 이를 열 개로 늘리고 겹겹이 쌓은 연주를 위한 보컬 스태킹 기능을 더한다."
               },
               {
                 "t": "p",
-                "x": "Rheo는 요청하면 Splice 샘플과 기본 악기로 곡 하나를 통째로 만들어 주기도 한다. 다만 Suno식 오디오 생성 기능은 없다. Splice는 모든 모델을 “완전히 라이선스를 확보한” 데이터로 학습시켰다고 밝혔다. MusicRadar는 창작의 주도권을 AI 에이전트에 넘기면 음악 제작이 지나치게 쉬워지는 것은 아닌지 묻는다."
+                "x": "Cubase 16은 Pro($599.99 / €599), Artist($299.99 / €299), Elements($99.99 / €99) 에디션으로 나온다. Omnivocal Basic은 무료로 포함되며, Omnivocal Pro는 별도로 $149.99다. 2026년 10월 7일 또는 그 이후에 활성화한 라이선스는 무료 업데이트 대상이다."
+              },
+              {
+                "t": "video",
+                "yt": "rUJ8NZDcEoo"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Splice Create、\n無料DAWにAI搭載",
-          "body": "Splice Createは無料のMac用DAWで、AIチャットボットRheoが曲を作る。",
-          "mini_headline": "SpliceがAI搭載DAWを公開",
+          "headline": "Cubase 16が内蔵\nステム分離とAIボーカル",
+          "body": "Cubase 16はDAW内に六ステム分離とOmnivocal AIを加えた。",
+          "mini_headline": "Cubase 16にAIボーカル",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/MKxdBMTbkaGpg7vnhZevTo-2560-80.png"
-              },
-              {
                 "t": "p",
-                "x": "SpliceはMac向けにCreateのベータ版を公開した。Spliceのサンプルライブラリをワークフローに組み込んだ本格的なDAWで、「これまでどのDAWでも見たことのない最も高度なAI機能（AI-powered）」を備えるという。ダウンロードは無料だが、曲の書き出しには月額$9.99のCreate Pro購読が必要だ。"
+                "x": "SteinbergはCubase 16をリリースし、プロデューサー、リミキサー、ミュージシャン向けの新ツールでデジタル・オーディオ・ワークステーション（DAW）の機能を広げた。最大の追加点の一つは、オーディオ技術企業zplaneと共同開発した改良版のステム分離だ。Cubaseはミックス済みの録音を、ボーカル、ドラム、ベース、ピアノ、ギター、その他の楽器という六つの要素に分けられるようになった。前バージョンは四つに対応していた。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NjYYssBf6dN3KhhuMiewYV.jpg",
-                "cap": "画像提供：Splice"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/b/3/csm_Cubase-16-04_master_291774746e.jpg",
+                "cap": "プロのレコーディングスタジオでエレキギターを使うCubase 16の音楽制作ワークフロー"
               },
               {
                 "t": "p",
-                "x": "空のクリップに欲しい音を入力すると、Spliceがサンプルを選び、プロジェクトに合わせて移調とタイムストレッチを施す。サンプルはMP3のプレビューとして読み込まれ、書き出し前にライセンスを取得しなければ無音としてバウンスされる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/8DzYguARbCHYrXPdMYVfvB.jpg",
-                "cap": "多くのチャットボットと同様に、Rheoは音楽制作に関する話題で助言や手引きを提供できる（画像提供：Splice）"
+                "x": "アップデートではInstrument Stacksも導入され、最大八つの仮想楽器を組み合わせて一つのトラックから演奏できる。新しいMIDIツールは打ち込んだコードを自然なストロークのように響かせ、刷新したテンポ検出と検索可能な設定は日々の制作作業の効率化を狙う。"
               },
               {
                 "t": "p",
-                "x": "Createを際立たせるのはAIチャットボットのRheoだ。テキストや音声でDAWを操作し、音の検索、メロディの生成、シンセパッチの設計、アレンジの作成、オーディオの解析をこなす。Pointモードは光るカーソルで一歩ずつ案内し、Assistモードは作業を代わりに実行する。Rheoユニットは1000単位あたり$10で、無料ユーザーには100単位が付与される。"
+                "x": "YamahaのOmnivocal Basicボーカルシンセサイザーも注目すべき追加だ。新しいOmnivocal NXエンジンを使い、CubaseのKey Editorに直接入力したMIDIノートと歌詞から歌声を生成する。Basicには二つのボイスバンクが含まれ、別売りのOmnivocal Proは選択肢を十に広げ、重ねた歌唱のためのボーカルスタッキングを加える。"
               },
               {
                 "t": "p",
-                "x": "Rheoは求めに応じてSpliceのサンプルと標準音源でフルの楽曲を制作することもできるが、Suno型の音声生成機能はない。Spliceはすべてのモデルを「完全にライセンスを得た」データで学習させたとしている。一方MusicRadarは、創作の主導権をAIエージェントに渡すと音楽制作が簡単になりすぎないかと問いかけている。"
+                "x": "Cubase 16はPro（$599.99 / €599）、Artist（$299.99 / €299）、Elements（$99.99 / €99）の各エディションで提供される。Omnivocal Basicは無償で付属し、Omnivocal Proは別途$149.99だ。2026年10月7日以降にアクティベートしたライセンスは無償アップデートの対象となる。"
+              },
+              {
+                "t": "video",
+                "yt": "rUJ8NZDcEoo"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Splice Create\n把AI制作人放进免费DAW",
-          "body": "Splice Create是免费Mac DAW测试版，AI聊天机器人Rheo能用采样作曲。",
-          "mini_headline": "Splice推出AI DAW",
+          "headline": "Cubase 16内置\n分轨分离与AI人声",
+          "body": "Cubase 16在DAW内加入六轨分离与Omnivocal AI歌声合成器。",
+          "mini_headline": "Cubase 16加入AI人声",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/MKxdBMTbkaGpg7vnhZevTo-2560-80.png"
-              },
-              {
                 "t": "p",
-                "x": "Splice推出了Mac版Create测试版：这是一款功能完整的DAW，把Splice的采样库嵌入工作流程，并拥有“迄今在所有DAW中见过的最先进的AI驱动（AI-powered）功能”。软件可免费下载，但导出歌曲需订阅每月$9.99的Create Pro。"
+                "x": "Steinberg发布了Cubase 16，为制作人、混音师和音乐人带来新工具，扩展了这款数字音频工作站（DAW）。最大的新增功能之一是与音频技术公司zplane合作开发的改进版分轨分离。Cubase现在可将混音录音拆分为六个部分：人声、鼓、贝斯、钢琴、吉他及其他乐器。上一版本支持四个。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NjYYssBf6dN3KhhuMiewYV.jpg",
-                "cap": "图片来源：Splice"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/b/3/csm_Cubase-16-04_master_291774746e.jpg",
+                "cap": "专业录音棚中搭配电吉他的Cubase 16音乐制作流程"
               },
               {
                 "t": "p",
-                "x": "在空白片段中输入想要的声音，Splice就会挑选一段采样，并按项目进行移调和时间伸缩。采样以MP3预览形式载入，导出前必须获得授权，否则会以静音形式导出。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/8DzYguARbCHYrXPdMYVfvB.jpg",
-                "cap": "与大多数聊天机器人一样，Rheo可以就音乐制作相关话题提供建议和指导（图片来源：Splice）"
+                "x": "此次更新还引入了Instrument Stacks，可将最多八件虚拟乐器组合起来，在单条音轨上演奏。新的MIDI工具能让编程和弦听起来更像自然扫弦，重新设计的速度检测和可搜索的设置则旨在加快日常制作任务。"
               },
               {
                 "t": "p",
-                "x": "Create的独特之处在于AI聊天机器人Rheo，它能通过文字或语音控制DAW：搜索声音、生成旋律、设计合成器音色、编排段落和分析音频。Point模式用发光的光标一步步引导用户，Assist模式则直接代为执行任务。Rheo点数每1000个售价$10，免费用户可获得100个。"
+                "x": "Yamaha的Omnivocal Basic人声合成器是另一项值得关注的新增功能。它采用全新的Omnivocal NX引擎，根据直接在Cubase的Key Editor中输入的MIDI音符和歌词生成歌声。Basic包含两个声库，单独定价的Omnivocal Pro则将可选声库扩展到十个，并增加用于多层演唱的人声叠加功能。"
               },
               {
                 "t": "p",
-                "x": "Rheo甚至能按需用Splice采样和内置乐器制作一整首歌，但没有Suno式的音频生成功能。Splice表示所有模型都使用“完全授权”的数据训练，而MusicRadar则提出疑问：把创作控制权交给AI智能体，是否会让音乐制作变得过于容易。"
+                "x": "Cubase 16提供Pro（$599.99 / €599）、Artist（$299.99 / €299）和Elements（$99.99 / €99）版本。Omnivocal Basic免费附带，Omnivocal Pro需另付$149.99。2026年10月7日当天或之后激活的许可证可免费升级。"
+              },
+              {
+                "t": "video",
+                "yt": "rUJ8NZDcEoo"
               }
             ]
           }
         },
         "es": {
-          "headline": "Splice Create pone un productor\nde IA en un DAW gratuito",
-          "body": "Splice Create, un DAW gratuito para Mac en beta, deja que el chatbot de IA Rheo cree canciones con samples de Splice.",
-          "mini_headline": "Splice lanza un DAW con IA",
+          "headline": "Cubase 16 integra separación\nde stems y voces con AI",
+          "body": "Cubase 16 de Steinberg añade separación en seis stems y el sintetizador vocal Omnivocal AI de Yamaha dentro del DAW.",
+          "mini_headline": "Cubase 16 suma voces con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/MKxdBMTbkaGpg7vnhZevTo-2560-80.png"
-              },
-              {
                 "t": "p",
-                "x": "Splice ha lanzado Create en beta para Mac: un DAW completo con la biblioteca de samples de Splice integrada en su flujo de trabajo y “las funciones basadas en IA (AI-powered) más avanzadas que hemos visto hasta la fecha en cualquier DAW”. La descarga es gratuita, pero exportar canciones requiere una suscripción a Create Pro de $9.99 al mes."
+                "x": "Steinberg ha lanzado Cubase 16, que amplía su estación de trabajo de audio digital (DAW) con nuevas herramientas para productores, remezcladores y músicos. Una de las principales novedades es una separación de stems mejorada, desarrollada con la empresa de tecnología de audio zplane. Cubase ahora puede dividir una grabación mezclada en seis componentes: voces, batería, bajo, piano, guitarra y otros instrumentos. La versión anterior admitía cuatro."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NjYYssBf6dN3KhhuMiewYV.jpg",
-                "cap": "Imagen: Splice"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/b/3/csm_Cubase-16-04_master_291774746e.jpg",
+                "cap": "Flujo de trabajo de producción musical en Cubase 16 con guitarra eléctrica en un estudio de grabación profesional"
               },
               {
                 "t": "p",
-                "x": "Basta con escribir lo que se busca en un clip vacío para que Splice elija un sample, transportado y ajustado en tempo al proyecto. Los samples llegan como previsualizaciones en MP3 y deben licenciarse antes de exportar; de lo contrario, se exportan como silencio."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/8DzYguARbCHYrXPdMYVfvB.jpg",
-                "cap": "Como la mayoría de los chatbots, Rheo puede ofrecer consejos y orientación sobre temas de producción musical (Imagen: Splice)"
+                "x": "La actualización también introduce Instrument Stacks, que permite combinar hasta ocho instrumentos virtuales y tocarlos desde una sola pista. Nuevas herramientas MIDI pueden hacer que los acordes programados suenen más como un rasgueo natural, mientras que la detección de tempo rediseñada y los ajustes con búsqueda buscan agilizar las tareas cotidianas de producción."
               },
               {
                 "t": "p",
-                "x": "Lo que distingue a Create es su chatbot de IA, Rheo, capaz de controlar el DAW por texto o voz: buscar sonidos, generar melodías, diseñar patches de sintetizador, crear arreglos y analizar audio. Su modo Point guía paso a paso con un cursor luminoso; Assist ejecuta la tarea por el usuario. Las unidades de Rheo cuestan $10 por cada 1000, y los usuarios gratuitos reciben 100."
+                "x": "El sintetizador vocal Omnivocal Basic de Yamaha es otra incorporación destacada. Con el nuevo motor Omnivocal NX, genera canto a partir de notas MIDI y letras introducidas directamente en el Key Editor de Cubase. Basic incluye dos bancos de voces, mientras que Omnivocal Pro, de precio aparte, amplía la selección a diez y añade apilamiento vocal para interpretaciones en capas."
               },
               {
                 "t": "p",
-                "x": "Rheo puede incluso producir una canción completa a petición con samples de Splice e instrumentos de serie, aunque no ofrece generación de audio al estilo de Suno. Splice afirma que todos los modelos se entrenaron con datos “totalmente licenciados”, mientras que MusicRadar se pregunta si ceder el control creativo a un agente de IA hace la producción musical demasiado fácil."
+                "x": "Cubase 16 se ofrece en las ediciones Pro ($599.99 / €599), Artist ($299.99 / €299) y Elements ($99.99 / €99). Omnivocal Basic se incluye gratis, mientras que Omnivocal Pro cuesta $149.99 por separado. Las licencias activadas el 7 de octubre de 2026 o después tienen derecho a una actualización gratuita."
+              },
+              {
+                "t": "video",
+                "yt": "rUJ8NZDcEoo"
               }
             ]
           }
@@ -415,15 +365,15 @@
       }
     },
     {
-      "id": "avid-protools-sixstem-split",
+      "id": "newjeans-ador-ai-voice",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Pro Tools,\nAI 스템 분리 내장",
-      "body": "Pro Tools 2026.11이 AI로 녹음을 최대 여섯 스템까지 쪼갠다.",
-      "mini_headline": "Pro Tools, AI로 스템 분리",
+      "headline": "NewJeans 계약,\nADOR에 AI 음성 권리",
+      "body": "ADOR가 NewJeans 멤버 목소리·외모의 AI 버전 권리를 무기한 갖는다.",
+      "mini_headline": "NewJeans 소속사, AI 음성 권리 보유",
       "tool": "Music",
-      "source": "MusicTech",
-      "url": "https://musictech.com/news/pro-tools-now-features-ai-stem-separation/",
+      "source": "Complex",
+      "url": "https://www.complex.com/music/a/alex-ocho/newjeans-contracts-indefinite-voice-rights",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -431,203 +381,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://musictech.com/wp-content/uploads/2026/11/Pro-Tools-Stem-hero@2000x1500.jpg",
-            "cap": "출처: Avid"
+            "src": "https://images.complex.com/complex/image/upload/c_crop,h_1078,w_1920,x_0,y_0/g_auto:aoi_768_431_384_216,q_auto,c_fill,ar_1.78,w_2048/sanity-new/aq7vzcujejcvekyraolq",
+            "cap": "Josh Brasted/FilmMagic"
           },
           {
             "t": "p",
-            "x": "프로듀서가 가장 요긴하게 쓰는 도구를 꼽으면 스템 분리가 빠지지 않는다. Avid가 Pro Tools 2026.11에 AI 스템 분리를 넣었으니 이 DAW를 쓰는 프로듀서 상당수가 반길 소식이다."
+            "x": "The New York Times가 입수해 공개한 계약서에 따르면, HYBE 자회사 ADOR는 2029년 계약이 끝난 뒤에도 이 K-pop 걸그룹 멤버들 목소리의 AI-generated(AI 생성) 버전을 무기한 쓰고 라이선스할 수 있다."
           },
           {
             "t": "p",
-            "x": "새 AI 스템 분리 Pro Tools Extension은 어떤 녹음이든 보컬, 드럼, 베이스, 기타, 건반, 그 밖의 악기 등 최대 여섯 개 스템으로 나눈다. 쓰는 법도 간단하다. 오디오 파일을 창에 끌어다 놓고 분리될 스템을 미리 들어 본 다음 각각 별도 트랙으로 메인 DAW에 돌려보내면 끝이다."
+            "x": "한국의 표준 K-pop 계약서에서는 계약이 끝나면 레이블이 가진 아티스트 이름·이미지·목소리 권리도 함께 끝난다. ADOR의 계약은 다르다. AI “목소리 클론이나 챗봇”을 포함해 멤버들의 정체성을 계속 쓸 수 있게 했다. 멤버들은 대가를 받아야 하지만 자기 모습과 목소리가 어떻게 쓰일지에는 아무 발언권이 없다. 법률 전문가들은 이 조항이 법정에서 유지될지 불분명하다고 Times에 말했다."
           },
           {
             "t": "p",
-            "x": "새 AI Stem Separator는 Pro Tools Extensions로 나오는 여러 기능 중 하나다. 플러그인은 한 번에 트랙 하나만 다루지만 Extensions는 세션 전체나 원하는 만큼의 특정 트랙을 한꺼번에 다룬다. Splice, SoundFlow, Pro Sound Effects, Soundly, Forte, Pibox 같은 외부 업체도 Extensions를 만들었다."
+            "x": "ADOR는 2029년 이후에도 NewJeans 음악을 계속 팔고 재포장하면서 멤버들 몫의 지급액은 줄일 수 있다. 조기 해지 위약금도 높다. 계약은 멤버들이 14세에서 17세 사이일 때 맺었는데, 미성년자를 위한 표준 보호 조항이 빠져 있었다. Jong-eon Roh 변호사는 이를 \"이례적으로 공격적\"이라고 평했다. HYBE는 계약이 합법이고 업계 기준에도 맞는다는 입장이다."
           },
           {
             "t": "p",
-            "x": "“Extensions는 새로운 기술과 혁신적인 기능을 Pro Tools 안으로 직접 들여오는 중요한 진전입니다.” Avid 제품 관리 부문 부사장 Sam Butler의 말이다."
-          },
-          {
-            "t": "p",
-            "x": "Pro Tools 2026.11은 지금 Pro Tools Artist, Studio, Ultimate 구독자와 업그레이드 플랜이 유효한 영구 라이선스 보유자, 30일 체험판을 포함한 Pro Tools Intro 사용자가 쓸 수 있다."
+            "x": "2025년 10월 30일 서울의 한 법원은 계약이 2029년까지 유효하다고 판결했다. 이후 Haerin, Hyein, Hanni는 ADOR로 돌아왔다. 회사는 Danielle Marsh와의 계약을 해지하고, 주로 이탈 위약금 명목으로 약 $22 million을 청구하는 소송을 냈다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Pro Tools adds built-in\nAI stem separation",
-          "body": "Pro Tools 2026.11 adds an AI extension that splits any recording into up to six stems with a simple drag-and-drop.",
-          "mini_headline": "Pro Tools splits stems with AI",
+          "headline": "NewJeans contract gives ADOR\nAI rights to their voices",
+          "body": "Per a New York Times report, ADOR holds indefinite rights to AI versions of NewJeans members' voices and likenesses.",
+          "mini_headline": "NewJeans label holds\nAI voice rights",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Pro-Tools-Stem-hero@2000x1500.jpg",
-                "cap": "Credit: Avid"
+                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1078,w_1920,x_0,y_0/g_auto:aoi_768_431_384_216,q_auto,c_fill,ar_1.78,w_2048/sanity-new/aq7vzcujejcvekyraolq",
+                "cap": "Josh Brasted/FilmMagic"
               },
               {
                 "t": "p",
-                "x": "As a producer, stem separation can be one of the most useful tools in your belt. So the fact Avid just introduced AI stem separation in its Pro Tools 2026.11 will come as a welcome addition for many producers working with the DAW."
+                "x": "The K-pop girl group's contracts contain provisions allowing HYBE subsidiary ADOR to use and license AI-generated versions of the members' voices indefinitely after their deals expire in 2029, according to The New York Times, which obtained and published the agreements."
               },
               {
                 "t": "p",
-                "x": "The new AI stem separation Pro Tools Extension is able to separate any recording into up to six stems: vocals, drums, bass, guitar, keys, and other instruments. Using it is as simple as dragging and dropping the audio file into the window, previewing the stems it will split up, and then sending those back to the main DAW as their own tracks."
+                "x": "Unlike South Korea's standard K-pop contract template, which ends a label's rights to an artist's name, image and voice when a contract expires, ADOR's deals permit continued use of the members' identities, including AI “voice clones or chatbots.” Although the singers must be paid, they have no say in how their likenesses and voices are used. Legal experts told the Times it is unclear whether these provisions would hold up in court."
               },
               {
                 "t": "p",
-                "x": "The new AI Stem Separator is just one of many functions available as part of Pro Tools Extensions. Where plugins work with one track at a time, Extensions can work with the entire session or any number of specific tracks. External companies such as Splice, SoundFlow, Pro Sound Effects, Soundly, Forte, and Pibox have also designed Extensions."
+                "x": "The agreements also allow ADOR to keep selling and repackaging NewJeans music after 2029 while reducing payments to the members, and carry steep early-termination penalties. The contracts were signed when the members were between 14 and 17, and omitted standard protections for minors. Lawyer Jong-eon Roh called them \"unusually aggressive.\" HYBE maintains its contracts are legal and consistent with industry standards."
               },
               {
                 "t": "p",
-                "x": "“Extensions represent an important step forward, bringing new technologies and innovative capabilities directly into Pro Tools,” says Sam Butler, Vice President, Product Management, Avid."
-              },
-              {
-                "t": "p",
-                "x": "Pro Tools 2026.11 is available now for Pro Tools Artist, Studio, and Ultimate subscribers, perpetual licence holders with an active upgrade plan, and Pro Tools Intro users, including the 30-day trial."
+                "x": "A Seoul court ruled on October 30, 2025, that the contracts remain valid through 2029. Haerin, Hyein and Hanni have since returned to ADOR, while the company terminated Danielle Marsh's contract and sued her for approximately $22 million, primarily in exit fees."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Pro Tools,\nAI 스템 분리 내장",
-          "body": "Pro Tools 2026.11이 AI로 녹음을 최대 여섯 스템까지 쪼갠다.",
-          "mini_headline": "Pro Tools, AI로 스템 분리",
+          "headline": "NewJeans 계약,\nADOR에 AI 음성 권리",
+          "body": "ADOR가 NewJeans 멤버 목소리·외모의 AI 버전 권리를 무기한 갖는다.",
+          "mini_headline": "NewJeans 소속사, AI 음성 권리 보유",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Pro-Tools-Stem-hero@2000x1500.jpg",
-                "cap": "출처: Avid"
+                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1078,w_1920,x_0,y_0/g_auto:aoi_768_431_384_216,q_auto,c_fill,ar_1.78,w_2048/sanity-new/aq7vzcujejcvekyraolq",
+                "cap": "Josh Brasted/FilmMagic"
               },
               {
                 "t": "p",
-                "x": "프로듀서가 가장 요긴하게 쓰는 도구를 꼽으면 스템 분리가 빠지지 않는다. Avid가 Pro Tools 2026.11에 AI 스템 분리를 넣었으니 이 DAW를 쓰는 프로듀서 상당수가 반길 소식이다."
+                "x": "The New York Times가 입수해 공개한 계약서에 따르면, HYBE 자회사 ADOR는 2029년 계약이 끝난 뒤에도 이 K-pop 걸그룹 멤버들 목소리의 AI-generated(AI 생성) 버전을 무기한 쓰고 라이선스할 수 있다."
               },
               {
                 "t": "p",
-                "x": "새 AI 스템 분리 Pro Tools Extension은 어떤 녹음이든 보컬, 드럼, 베이스, 기타, 건반, 그 밖의 악기 등 최대 여섯 개 스템으로 나눈다. 쓰는 법도 간단하다. 오디오 파일을 창에 끌어다 놓고 분리될 스템을 미리 들어 본 다음 각각 별도 트랙으로 메인 DAW에 돌려보내면 끝이다."
+                "x": "한국의 표준 K-pop 계약서에서는 계약이 끝나면 레이블이 가진 아티스트 이름·이미지·목소리 권리도 함께 끝난다. ADOR의 계약은 다르다. AI “목소리 클론이나 챗봇”을 포함해 멤버들의 정체성을 계속 쓸 수 있게 했다. 멤버들은 대가를 받아야 하지만 자기 모습과 목소리가 어떻게 쓰일지에는 아무 발언권이 없다. 법률 전문가들은 이 조항이 법정에서 유지될지 불분명하다고 Times에 말했다."
               },
               {
                 "t": "p",
-                "x": "새 AI Stem Separator는 Pro Tools Extensions로 나오는 여러 기능 중 하나다. 플러그인은 한 번에 트랙 하나만 다루지만 Extensions는 세션 전체나 원하는 만큼의 특정 트랙을 한꺼번에 다룬다. Splice, SoundFlow, Pro Sound Effects, Soundly, Forte, Pibox 같은 외부 업체도 Extensions를 만들었다."
+                "x": "ADOR는 2029년 이후에도 NewJeans 음악을 계속 팔고 재포장하면서 멤버들 몫의 지급액은 줄일 수 있다. 조기 해지 위약금도 높다. 계약은 멤버들이 14세에서 17세 사이일 때 맺었는데, 미성년자를 위한 표준 보호 조항이 빠져 있었다. Jong-eon Roh 변호사는 이를 \"이례적으로 공격적\"이라고 평했다. HYBE는 계약이 합법이고 업계 기준에도 맞는다는 입장이다."
               },
               {
                 "t": "p",
-                "x": "“Extensions는 새로운 기술과 혁신적인 기능을 Pro Tools 안으로 직접 들여오는 중요한 진전입니다.” Avid 제품 관리 부문 부사장 Sam Butler의 말이다."
-              },
-              {
-                "t": "p",
-                "x": "Pro Tools 2026.11은 지금 Pro Tools Artist, Studio, Ultimate 구독자와 업그레이드 플랜이 유효한 영구 라이선스 보유자, 30일 체험판을 포함한 Pro Tools Intro 사용자가 쓸 수 있다."
+                "x": "2025년 10월 30일 서울의 한 법원은 계약이 2029년까지 유효하다고 판결했다. 이후 Haerin, Hyein, Hanni는 ADOR로 돌아왔다. 회사는 Danielle Marsh와의 계약을 해지하고, 주로 이탈 위약금 명목으로 약 $22 million을 청구하는 소송을 냈다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pro Toolsに\nAIステム分離を内蔵",
-          "body": "Pro Tools 2026.11は、録音を最大6つのステムに分けるAI拡張を備えた。",
-          "mini_headline": "Pro ToolsがAIでステム分離",
+          "headline": "NewJeansの契約\nADORにAI音声の権利",
+          "body": "報道によると、ADORはNewJeansメンバーの声と容姿のAI版の権利を無期限に持つ。",
+          "mini_headline": "NewJeansの所属事務所がAI音声の権利",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Pro-Tools-Stem-hero@2000x1500.jpg",
-                "cap": "提供：Avid"
+                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1078,w_1920,x_0,y_0/g_auto:aoi_768_431_384_216,q_auto,c_fill,ar_1.78,w_2048/sanity-new/aq7vzcujejcvekyraolq",
+                "cap": "Josh Brasted/FilmMagic"
               },
               {
                 "t": "p",
-                "x": "プロデューサーにとって、ステム分離は手持ちの道具の中でも特に役立つものの一つだ。AvidがPro Tools 2026.11にAIステム分離を導入したことは、このDAWを使う多くのプロデューサーに歓迎されるだろう。"
+                "x": "契約書を入手・公開したThe New York Timesによると、このK-popガールグループの契約には、HYBE傘下のADORが2029年の契約満了後もメンバーの声のAI-generated（AI生成）版を無期限に使用・ライセンスできる条項が含まれている。"
               },
               {
                 "t": "p",
-                "x": "新しいAIステム分離のPro Tools Extensionは、あらゆる録音をボーカル、ドラム、ベース、ギター、キー、その他の楽器の最大6つのステムに分離できる。使い方は簡単で、オーディオファイルをウィンドウにドラッグ＆ドロップし、分離されるステムをプレビューしてから、それぞれ独立したトラックとしてメインのDAWに戻すだけだ。"
+                "x": "契約満了時にレーベルのアーティストの名前・肖像・声に関する権利が終わる韓国の標準K-pop契約書と異なり、ADORの契約はAIによる「ボイスクローンやチャットボット」を含め、メンバーのアイデンティティの継続使用を認めている。メンバーには対価が支払われるが、自分の肖像や声の使われ方に口を出す権利はない。法律の専門家はTimesに対し、これらの条項が法廷で通用するかは不透明だと語った。"
               },
               {
                 "t": "p",
-                "x": "新しいAI Stem Separatorは、Pro Tools Extensionsとして提供される多くの機能の一つにすぎない。プラグインが一度に一つのトラックを扱うのに対し、Extensionsはセッション全体や任意の数の特定トラックを扱える。Splice、SoundFlow、Pro Sound Effects、Soundly、Forte、Piboxといった外部企業もExtensionsを設計している。"
+                "x": "契約はまた、ADORが2029年以降もNewJeansの楽曲を販売・再パッケージし続けながらメンバーへの支払いを減らすことを認め、高額な早期解約違約金も定めている。契約はメンバーが14歳から17歳の時に結ばれ、未成年者向けの標準的な保護規定が欠けていた。弁護士のJong-eon Rohは「異例なほど攻撃的」と評した。HYBEは契約が合法で業界標準に沿っているとしている。"
               },
               {
                 "t": "p",
-                "x": "「Extensionsは、新しい技術と革新的な機能をPro Toolsに直接もたらす重要な一歩だ」と、Avidのプロダクトマネジメント担当バイスプレジデント、Sam Butler氏は述べる。"
-              },
-              {
-                "t": "p",
-                "x": "Pro Tools 2026.11は現在、Pro Tools Artist、Studio、Ultimateの購読者、有効なアップグレードプランを持つ永続ライセンス保有者、そして30日間の試用版を含むPro Tools Introのユーザーが利用できる。"
+                "x": "ソウルの裁判所は2025年10月30日、契約は2029年まで有効だと判断した。その後Haerin、Hyein、HanniはADORに復帰したが、同社はDanielle Marshとの契約を解除し、主に離脱違約金として約$22 millionを求めて提訴した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pro Tools新增\n内置AI音轨分离",
-          "body": "Pro Tools 2026.11新增AI扩展，拖放即可把录音拆成最多六条分轨。",
-          "mini_headline": "Pro Tools用AI分离分轨",
+          "headline": "NewJeans合约\n赋予ADOR AI声音权",
+          "body": "据报道，ADOR无限期拥有NewJeans成员声音与肖像的AI版本权利。",
+          "mini_headline": "NewJeans经纪公司握有AI声音权",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Pro-Tools-Stem-hero@2000x1500.jpg",
-                "cap": "图片来源：Avid"
+                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1078,w_1920,x_0,y_0/g_auto:aoi_768_431_384_216,q_auto,c_fill,ar_1.78,w_2048/sanity-new/aq7vzcujejcvekyraolq",
+                "cap": "Josh Brasted/FilmMagic"
               },
               {
                 "t": "p",
-                "x": "对制作人来说，分轨分离可能是手头最有用的工具之一。因此，Avid刚刚在Pro Tools 2026.11中引入AI分轨分离，对许多使用这款DAW的制作人而言会是一项受欢迎的新功能。"
+                "x": "据获取并公开相关协议的The New York Times报道，这支K-pop女团的合约中有条款允许HYBE旗下子公司ADOR在2029年合约到期后，无限期使用并授权成员声音的AI-generated（AI生成）版本。"
               },
               {
                 "t": "p",
-                "x": "新的AI分轨分离Pro Tools Extension能把任意录音拆分为最多六条分轨：人声、鼓、贝斯、吉他、键盘和其他乐器。使用方法很简单：把音频文件拖放到窗口中，预览将被拆分出的分轨，再将它们作为独立音轨送回主DAW。"
+                "x": "韩国标准K-pop合约模板规定，合约到期时厂牌对艺人姓名、形象和声音的权利随之终止；ADOR的合约则不同，允许继续使用成员的身份，包括AI“声音克隆或聊天机器人”。尽管成员必须获得报酬，但她们对自己的形象和声音如何被使用没有发言权。法律专家对Times表示，这些条款能否在法庭上站得住脚尚不清楚。"
               },
               {
                 "t": "p",
-                "x": "新的AI Stem Separator只是Pro Tools Extensions提供的众多功能之一。插件一次只能处理一条音轨，而Extensions可以处理整个工程或任意数量的指定音轨。Splice、SoundFlow、Pro Sound Effects、Soundly、Forte和Pibox等外部公司也设计了Extensions。"
+                "x": "协议还允许ADOR在2029年后继续销售和重新包装NewJeans的音乐，同时减少给成员的报酬，并设有高额提前解约罚金。签约时成员年龄在14至17岁之间，合约却省略了针对未成年人的标准保护条款。律师Jong-eon Roh称其\"异常激进\"。HYBE坚称其合约合法且符合行业标准。"
               },
               {
                 "t": "p",
-                "x": "Avid产品管理副总裁Sam Butler表示：“Extensions是重要的一步，它把新技术和创新能力直接带进了Pro Tools。”"
-              },
-              {
-                "t": "p",
-                "x": "Pro Tools 2026.11现已面向Pro Tools Artist、Studio和Ultimate订阅用户、拥有有效升级计划的永久授权用户，以及包括30天试用版在内的Pro Tools Intro用户推出。"
+                "x": "首尔一家法院于2025年10月30日裁定，合约有效期至2029年。此后Haerin、Hyein和Hanni已回归ADOR，而公司终止了Danielle Marsh的合约，并起诉她索赔约$22 million，主要为退出费用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Pro Tools integra separación\nde stems con IA",
-          "body": "Pro Tools 2026.11 añade una extensión de IA que separa cualquier grabación en hasta seis stems arrastrando y soltando.",
-          "mini_headline": "Pro Tools separa stems con IA",
+          "headline": "Contrato de NewJeans da a ADOR\nderechos de IA sobre sus voces",
+          "body": "Según The New York Times, ADOR tiene derechos indefinidos sobre versiones con IA de las voces e imagen de NewJeans.",
+          "mini_headline": "El sello de NewJeans tiene\nderechos de voz con IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Pro-Tools-Stem-hero@2000x1500.jpg",
-                "cap": "Crédito: Avid"
+                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1078,w_1920,x_0,y_0/g_auto:aoi_768_431_384_216,q_auto,c_fill,ar_1.78,w_2048/sanity-new/aq7vzcujejcvekyraolq",
+                "cap": "Josh Brasted/FilmMagic"
               },
               {
                 "t": "p",
-                "x": "Para un productor, la separación de stems puede ser una de las herramientas más útiles. Por eso, que Avid acabe de introducir la separación de stems con IA en Pro Tools 2026.11 será una incorporación bienvenida para muchos productores que trabajan con este DAW."
+                "x": "Los contratos del grupo femenino de K-pop contienen cláusulas que permiten a ADOR, filial de HYBE, usar y licenciar versiones de las voces de las integrantes generadas por IA (AI-generated) de forma indefinida después de que sus contratos venzan en 2029, según The New York Times, que obtuvo y publicó los acuerdos."
               },
               {
                 "t": "p",
-                "x": "La nueva Pro Tools Extension de separación de stems con IA puede dividir cualquier grabación en hasta seis stems: voces, batería, bajo, guitarra, teclados y otros instrumentos. Usarla es tan sencillo como arrastrar y soltar el archivo de audio en la ventana, escuchar una vista previa de los stems que va a separar y enviarlos de vuelta al DAW principal como pistas independientes."
+                "x": "A diferencia del modelo estándar de contrato de K-pop de Corea del Sur, que pone fin a los derechos de un sello sobre el nombre, la imagen y la voz de un artista cuando vence el contrato, los acuerdos de ADOR permiten seguir usando la identidad de las integrantes, incluidos “clones de voz o chatbots” con IA. Aunque las cantantes deben recibir un pago, no tienen voz sobre cómo se usan su imagen y sus voces. Expertos legales dijeron al Times que no está claro si estas cláusulas se sostendrían ante un tribunal."
               },
               {
                 "t": "p",
-                "x": "El nuevo AI Stem Separator es solo una de las muchas funciones disponibles dentro de Pro Tools Extensions. Mientras que los plugins trabajan con una pista a la vez, las Extensions pueden trabajar con toda la sesión o con cualquier número de pistas concretas. Empresas externas como Splice, SoundFlow, Pro Sound Effects, Soundly, Forte y Pibox también han diseñado Extensions."
+                "x": "Los acuerdos también permiten a ADOR seguir vendiendo y reeditando la música de NewJeans después de 2029 mientras reduce los pagos a las integrantes, e incluyen fuertes penalizaciones por rescisión anticipada. Los contratos se firmaron cuando las integrantes tenían entre 14 y 17 años y omitían las protecciones habituales para menores. El abogado Jong-eon Roh los calificó de \"inusualmente agresivos\". HYBE sostiene que sus contratos son legales y acordes con los estándares del sector."
               },
               {
                 "t": "p",
-                "x": "“Las Extensions representan un paso importante, ya que llevan nuevas tecnologías y capacidades innovadoras directamente a Pro Tools”, afirma Sam Butler, vicepresidente de Gestión de Producto de Avid."
-              },
-              {
-                "t": "p",
-                "x": "Pro Tools 2026.11 ya está disponible para los suscriptores de Pro Tools Artist, Studio y Ultimate, los titulares de licencias perpetuas con un plan de actualización activo y los usuarios de Pro Tools Intro, incluida la prueba de 30 días."
+                "x": "Un tribunal de Seúl dictaminó el 30 de octubre de 2025 que los contratos siguen vigentes hasta 2029. Desde entonces, Haerin, Hyein y Hanni han vuelto a ADOR, mientras que la empresa rescindió el contrato de Danielle Marsh y la demandó por aproximadamente $22 millones, principalmente en penalizaciones por salida."
               }
             ]
           }
@@ -635,141 +561,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Pro Tools,\nAI 스템 분리 내장",
-          "body": "Pro Tools 2026.11은 AI로 녹음을 최대 여섯 스템으로 나눈다.",
-          "mini_headline": "Pro Tools, AI로 스템 분리",
+          "headline": "NewJeans 계약,\nADOR에 AI 음성 권리",
+          "body": "ADOR가 NewJeans 멤버 목소리·외모의 AI 버전 권리를 무기한 갖는다.",
+          "mini_headline": "NewJeans 소속사, AI 음성 권리 보유",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Pro-Tools-Stem-hero@2000x1500.jpg",
-                "cap": "출처: Avid"
+                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1078,w_1920,x_0,y_0/g_auto:aoi_768_431_384_216,q_auto,c_fill,ar_1.78,w_2048/sanity-new/aq7vzcujejcvekyraolq",
+                "cap": "Josh Brasted/FilmMagic"
               },
               {
                 "t": "p",
-                "x": "프로듀서에게 스템 분리는 가장 쓸모 있는 도구 중 하나다. 그래서 Avid가 Pro Tools 2026.11에 AI 스템 분리를 도입했다는 소식은 이 DAW를 쓰는 많은 프로듀서에게 반가운 추가 기능이 될 것이다."
+                "x": "계약서를 입수해 공개한 The New York Times에 따르면, 이 K-pop 걸그룹의 계약서에는 HYBE 자회사 ADOR가 2029년 계약 만료 후에도 멤버들 목소리의 AI-generated(AI 생성) 버전을 무기한 사용하고 라이선스할 수 있다는 조항이 들어 있다."
               },
               {
                 "t": "p",
-                "x": "새 AI 스템 분리 Pro Tools Extension은 어떤 녹음이든 보컬, 드럼, 베이스, 기타, 건반, 그 밖의 악기 등 최대 여섯 개 스템으로 나눈다. 사용법도 간단하다. 오디오 파일을 창에 끌어다 놓고, 분리될 스템을 미리 들어 본 뒤, 각각 별도 트랙으로 메인 DAW에 다시 보내면 된다."
+                "x": "계약이 끝나면 레이블의 아티스트 이름·이미지·목소리 권리도 끝나는 한국의 표준 K-pop 계약서와 달리, ADOR의 계약은 AI “목소리 클론이나 챗봇”을 포함해 멤버들의 정체성을 계속 쓸 수 있게 한다. 멤버들은 대가를 받아야 하지만, 자신의 모습과 목소리가 어떻게 쓰일지에 대해서는 아무 발언권이 없다. 법률 전문가들은 Times에 이 조항이 법정에서 유지될지 불분명하다고 말했다."
               },
               {
                 "t": "p",
-                "x": "새 AI Stem Separator는 Pro Tools Extensions로 제공되는 여러 기능 가운데 하나일 뿐이다. 플러그인이 한 번에 트랙 하나를 다루는 반면, Extensions는 세션 전체나 원하는 수의 특정 트랙을 다룰 수 있다. Splice, SoundFlow, Pro Sound Effects, Soundly, Forte, Pibox 같은 외부 업체도 Extensions를 설계했다."
+                "x": "계약은 또 ADOR가 2029년 이후에도 NewJeans 음악을 계속 판매하고 재포장하면서 멤버들에게 돌아가는 지급액은 줄일 수 있게 하고, 높은 조기 해지 위약금을 담고 있다. 계약은 멤버들이 14세에서 17세 사이일 때 체결됐고, 미성년자를 위한 표준 보호 조항이 빠져 있었다. Jong-eon Roh 변호사는 이를 \"이례적으로 공격적\"이라고 평했다. HYBE는 계약이 합법이며 업계 기준에 부합한다는 입장이다."
               },
               {
                 "t": "p",
-                "x": "“Extensions는 새로운 기술과 혁신적인 기능을 Pro Tools 안으로 직접 들여오는 중요한 진전입니다.” Avid 제품 관리 부문 부사장 Sam Butler의 말이다."
-              },
-              {
-                "t": "p",
-                "x": "Pro Tools 2026.11은 현재 Pro Tools Artist, Studio, Ultimate 구독자, 업그레이드 플랜이 유효한 영구 라이선스 보유자, 30일 체험판을 포함한 Pro Tools Intro 사용자에게 제공된다."
+                "x": "서울의 한 법원은 2025년 10월 30일 계약이 2029년까지 유효하다고 판결했다. 이후 Haerin, Hyein, Hanni는 ADOR로 돌아왔고, 회사는 Danielle Marsh의 계약을 해지한 뒤 주로 이탈 위약금 명목으로 약 $22 million을 청구하는 소송을 냈다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pro Toolsに\nAIステム分離を内蔵",
-          "body": "Pro Tools 2026.11は、録音を最大6つのステムに分けるAI拡張を備えた。",
-          "mini_headline": "Pro ToolsがAIでステム分離",
+          "headline": "NewJeansの契約\nADORにAI音声の権利",
+          "body": "報道によると、ADORはNewJeansメンバーの声と容姿のAI版の権利を無期限に持つ。",
+          "mini_headline": "NewJeansの所属事務所がAI音声の権利",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Pro-Tools-Stem-hero@2000x1500.jpg",
-                "cap": "提供：Avid"
+                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1078,w_1920,x_0,y_0/g_auto:aoi_768_431_384_216,q_auto,c_fill,ar_1.78,w_2048/sanity-new/aq7vzcujejcvekyraolq",
+                "cap": "Josh Brasted/FilmMagic"
               },
               {
                 "t": "p",
-                "x": "プロデューサーにとって、ステム分離は手持ちの道具の中でも特に役立つものの一つだ。AvidがPro Tools 2026.11にAIステム分離を導入したことは、このDAWを使う多くのプロデューサーに歓迎されるだろう。"
+                "x": "契約書を入手・公開したThe New York Timesによると、このK-popガールグループの契約には、HYBE傘下のADORが2029年の契約満了後もメンバーの声のAI-generated（AI生成）版を無期限に使用・ライセンスできる条項が含まれている。"
               },
               {
                 "t": "p",
-                "x": "新しいAIステム分離のPro Tools Extensionは、あらゆる録音をボーカル、ドラム、ベース、ギター、キー、その他の楽器の最大6つのステムに分離できる。使い方は簡単で、オーディオファイルをウィンドウにドラッグ＆ドロップし、分離されるステムをプレビューしてから、それぞれ独立したトラックとしてメインのDAWに戻すだけだ。"
+                "x": "契約満了時にレーベルのアーティストの名前・肖像・声に関する権利が終わる韓国の標準K-pop契約書と異なり、ADORの契約はAIによる「ボイスクローンやチャットボット」を含め、メンバーのアイデンティティの継続使用を認めている。メンバーには対価が支払われるが、自分の肖像や声の使われ方に口を出す権利はない。法律の専門家はTimesに対し、これらの条項が法廷で通用するかは不透明だと語った。"
               },
               {
                 "t": "p",
-                "x": "新しいAI Stem Separatorは、Pro Tools Extensionsとして提供される多くの機能の一つにすぎない。プラグインが一度に一つのトラックを扱うのに対し、Extensionsはセッション全体や任意の数の特定トラックを扱える。Splice、SoundFlow、Pro Sound Effects、Soundly、Forte、Piboxといった外部企業もExtensionsを設計している。"
+                "x": "契約はまた、ADORが2029年以降もNewJeansの楽曲を販売・再パッケージし続けながらメンバーへの支払いを減らすことを認め、高額な早期解約違約金も定めている。契約はメンバーが14歳から17歳の時に結ばれ、未成年者向けの標準的な保護規定が欠けていた。弁護士のJong-eon Rohは「異例なほど攻撃的」と評した。HYBEは契約が合法で業界標準に沿っているとしている。"
               },
               {
                 "t": "p",
-                "x": "「Extensionsは、新しい技術と革新的な機能をPro Toolsに直接もたらす重要な一歩だ」と、Avidのプロダクトマネジメント担当バイスプレジデント、Sam Butler氏は述べる。"
-              },
-              {
-                "t": "p",
-                "x": "Pro Tools 2026.11は現在、Pro Tools Artist、Studio、Ultimateの購読者、有効なアップグレードプランを持つ永続ライセンス保有者、そして30日間の試用版を含むPro Tools Introのユーザーが利用できる。"
+                "x": "ソウルの裁判所は2025年10月30日、契約は2029年まで有効だと判断した。その後Haerin、Hyein、HanniはADORに復帰したが、同社はDanielle Marshとの契約を解除し、主に離脱違約金として約$22 millionを求めて提訴した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pro Tools新增\n内置AI音轨分离",
-          "body": "Pro Tools 2026.11新增AI扩展，拖放即可把录音拆成最多六条分轨。",
-          "mini_headline": "Pro Tools用AI分离分轨",
+          "headline": "NewJeans合约\n赋予ADOR AI声音权",
+          "body": "据报道，ADOR无限期拥有NewJeans成员声音与肖像的AI版本权利。",
+          "mini_headline": "NewJeans经纪公司握有AI声音权",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Pro-Tools-Stem-hero@2000x1500.jpg",
-                "cap": "图片来源：Avid"
+                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1078,w_1920,x_0,y_0/g_auto:aoi_768_431_384_216,q_auto,c_fill,ar_1.78,w_2048/sanity-new/aq7vzcujejcvekyraolq",
+                "cap": "Josh Brasted/FilmMagic"
               },
               {
                 "t": "p",
-                "x": "对制作人来说，分轨分离可能是手头最有用的工具之一。因此，Avid刚刚在Pro Tools 2026.11中引入AI分轨分离，对许多使用这款DAW的制作人而言会是一项受欢迎的新功能。"
+                "x": "据获取并公开相关协议的The New York Times报道，这支K-pop女团的合约中有条款允许HYBE旗下子公司ADOR在2029年合约到期后，无限期使用并授权成员声音的AI-generated（AI生成）版本。"
               },
               {
                 "t": "p",
-                "x": "新的AI分轨分离Pro Tools Extension能把任意录音拆分为最多六条分轨：人声、鼓、贝斯、吉他、键盘和其他乐器。使用方法很简单：把音频文件拖放到窗口中，预览将被拆分出的分轨，再将它们作为独立音轨送回主DAW。"
+                "x": "韩国标准K-pop合约模板规定，合约到期时厂牌对艺人姓名、形象和声音的权利随之终止；ADOR的合约则不同，允许继续使用成员的身份，包括AI“声音克隆或聊天机器人”。尽管成员必须获得报酬，但她们对自己的形象和声音如何被使用没有发言权。法律专家对Times表示，这些条款能否在法庭上站得住脚尚不清楚。"
               },
               {
                 "t": "p",
-                "x": "新的AI Stem Separator只是Pro Tools Extensions提供的众多功能之一。插件一次只能处理一条音轨，而Extensions可以处理整个工程或任意数量的指定音轨。Splice、SoundFlow、Pro Sound Effects、Soundly、Forte和Pibox等外部公司也设计了Extensions。"
+                "x": "协议还允许ADOR在2029年后继续销售和重新包装NewJeans的音乐，同时减少给成员的报酬，并设有高额提前解约罚金。签约时成员年龄在14至17岁之间，合约却省略了针对未成年人的标准保护条款。律师Jong-eon Roh称其\"异常激进\"。HYBE坚称其合约合法且符合行业标准。"
               },
               {
                 "t": "p",
-                "x": "Avid产品管理副总裁Sam Butler表示：“Extensions是重要的一步，它把新技术和创新能力直接带进了Pro Tools。”"
-              },
-              {
-                "t": "p",
-                "x": "Pro Tools 2026.11现已面向Pro Tools Artist、Studio和Ultimate订阅用户、拥有有效升级计划的永久授权用户，以及包括30天试用版在内的Pro Tools Intro用户推出。"
+                "x": "首尔一家法院于2025年10月30日裁定，合约有效期至2029年。此后Haerin、Hyein和Hanni已回归ADOR，而公司终止了Danielle Marsh的合约，并起诉她索赔约$22 million，主要为退出费用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Pro Tools integra separación\nde stems con IA",
-          "body": "Pro Tools 2026.11 añade una extensión de IA que separa cualquier grabación en hasta seis stems arrastrando y soltando.",
-          "mini_headline": "Pro Tools separa stems con IA",
+          "headline": "Contrato de NewJeans da a ADOR\nderechos de IA sobre sus voces",
+          "body": "Según The New York Times, ADOR tiene derechos indefinidos sobre versiones con IA de las voces e imagen de NewJeans.",
+          "mini_headline": "El sello de NewJeans tiene\nderechos de voz con IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Pro-Tools-Stem-hero@2000x1500.jpg",
-                "cap": "Crédito: Avid"
+                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1078,w_1920,x_0,y_0/g_auto:aoi_768_431_384_216,q_auto,c_fill,ar_1.78,w_2048/sanity-new/aq7vzcujejcvekyraolq",
+                "cap": "Josh Brasted/FilmMagic"
               },
               {
                 "t": "p",
-                "x": "Para un productor, la separación de stems puede ser una de las herramientas más útiles. Por eso, que Avid acabe de introducir la separación de stems con IA en Pro Tools 2026.11 será una incorporación bienvenida para muchos productores que trabajan con este DAW."
+                "x": "Los contratos del grupo femenino de K-pop contienen cláusulas que permiten a ADOR, filial de HYBE, usar y licenciar versiones de las voces de las integrantes generadas por IA (AI-generated) de forma indefinida después de que sus contratos venzan en 2029, según The New York Times, que obtuvo y publicó los acuerdos."
               },
               {
                 "t": "p",
-                "x": "La nueva Pro Tools Extension de separación de stems con IA puede dividir cualquier grabación en hasta seis stems: voces, batería, bajo, guitarra, teclados y otros instrumentos. Usarla es tan sencillo como arrastrar y soltar el archivo de audio en la ventana, escuchar una vista previa de los stems que va a separar y enviarlos de vuelta al DAW principal como pistas independientes."
+                "x": "A diferencia del modelo estándar de contrato de K-pop de Corea del Sur, que pone fin a los derechos de un sello sobre el nombre, la imagen y la voz de un artista cuando vence el contrato, los acuerdos de ADOR permiten seguir usando la identidad de las integrantes, incluidos “clones de voz o chatbots” con IA. Aunque las cantantes deben recibir un pago, no tienen voz sobre cómo se usan su imagen y sus voces. Expertos legales dijeron al Times que no está claro si estas cláusulas se sostendrían ante un tribunal."
               },
               {
                 "t": "p",
-                "x": "El nuevo AI Stem Separator es solo una de las muchas funciones disponibles dentro de Pro Tools Extensions. Mientras que los plugins trabajan con una pista a la vez, las Extensions pueden trabajar con toda la sesión o con cualquier número de pistas concretas. Empresas externas como Splice, SoundFlow, Pro Sound Effects, Soundly, Forte y Pibox también han diseñado Extensions."
+                "x": "Los acuerdos también permiten a ADOR seguir vendiendo y reeditando la música de NewJeans después de 2029 mientras reduce los pagos a las integrantes, e incluyen fuertes penalizaciones por rescisión anticipada. Los contratos se firmaron cuando las integrantes tenían entre 14 y 17 años y omitían las protecciones habituales para menores. El abogado Jong-eon Roh los calificó de \"inusualmente agresivos\". HYBE sostiene que sus contratos son legales y acordes con los estándares del sector."
               },
               {
                 "t": "p",
-                "x": "“Las Extensions representan un paso importante, ya que llevan nuevas tecnologías y capacidades innovadoras directamente a Pro Tools”, afirma Sam Butler, vicepresidente de Gestión de Producto de Avid."
-              },
-              {
-                "t": "p",
-                "x": "Pro Tools 2026.11 ya está disponible para los suscriptores de Pro Tools Artist, Studio y Ultimate, los titulares de licencias perpetuas con un plan de actualización activo y los usuarios de Pro Tools Intro, incluida la prueba de 30 días."
+                "x": "Un tribunal de Seúl dictaminó el 30 de octubre de 2025 que los contratos siguen vigentes hasta 2029. Desde entonces, Haerin, Hyein y Hanni han vuelto a ADOR, mientras que la empresa rescindió el contrato de Danielle Marsh y la demandó por aproximadamente $22 millones, principalmente en penalizaciones por salida."
               }
             ]
           }
@@ -777,15 +687,15 @@
       }
     },
     {
-      "id": "elevenlabs-soundcloud-publish",
+      "id": "mashup-edu-nia-agent",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ElevenLabs 음악,\nSoundCloud로 직행",
-      "body": "이제 ElevenMusic으로 만든 곡을 SoundCloud에 바로 올린다.",
-      "mini_headline": "ElevenLabs, SoundCloud에 바로 게시",
+      "headline": "Mashup Edu의\nNia가 인디 경영 대행",
+      "body": "인도 Mashup Edu가 인디 아티스트용 AI 에이전트 Nia를 내놓는다.",
+      "mini_headline": "Nia, 인디 업무를 대신하다",
       "tool": "Music",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/11/06/mashup-edus-ai-agent-nia-is-designed-to-run-the-business-side-of-indie-acts-careers/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -793,173 +703,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675"
+            "src": "https://musically.com/wp-content/uploads/2026/11/Mashup-Edu-Nia.jpg",
+            "cap": "Mashup Edu의 Nia"
           },
           {
             "t": "p",
-            "x": "오디오 AI 기업 ElevenLabs는 목요일, 사용자가 자사 ElevenMusic 플랫폼으로 만든 AI 생성(AI-generated) 음악을 이제 SoundCloud에 바로 올릴 수 있다고 밝혔다. SoundCloud Artist Pro 사용자에게는 ElevenMusic Pro 석 달 이용권도 준다. ElevenMusic Pro에서는 매달 최대 1,000곡 생성과 500회 스템 분리, 맞춤 스타일이나 보컬 다섯 가지를 쓸 수 있다."
+            "x": "인도의 음악 교육·크리에이터 육성 플랫폼 Mashup Edu가 AI 에이전트 Nia를 출시한다. “독립 음악 창작자의 비즈니스 운영을 처리하도록 설계된” 에이전트다."
           },
           {
             "t": "p",
-            "x": "회사는 2025년 첫 음악 생성 모델을 내놓은 뒤 2026년 4월 소비자용 앱을 냈다. 한 달 뒤에는 곡 중간에 장르를 바꾸는 모델도 선보였다. ElevenLabs에 따르면 지금까지 사용자들이 자사 모델로 만든 트랙은 2500만 곡이 넘는다."
+            "x": "Nia는 ‘Next-gen Industry Access’의 약자다. 독립 음악 커리어를 꾸리려면 공연 예약, 스트리밍·소셜 플랫폼 통계 분석, 로열티 추적까지 약 “17가지 별개의 일”을 해내야 한다는 데서 출발했다. Nia는 “조언만 하는 데 그치지 않고” 크로스 플랫폼 스트리밍 데이터 수집, 맞춤형 공연장 제안서 작성, 응답 기한 추적 같은 일을 직접 한다."
           },
           {
             "t": "p",
-            "x": "“ElevenMusic 창작물을 자체 생태계 밖의 팬들에게 직접 전하는 첫 플랫폼이 되면서, 아티스트가 실험하고 작품을 공유하고 청중을 모을 새로운 가능성을 열고 있습니다.” SoundCloud CEO Eliah Seton의 말이다."
+            "x": "Mashup Edu 창업자 겸 CEO Mandeep Singh은 “크리에이터에게 숙제를 내주는 또 하나의 챗봇이나 한꺼번에 열어 둔 다섯 개의 대시보드는 필요 없다. 그들에게 필요한 건 일을 끝내주는 AI 에이전트다”라고 말한다. 에이전트 로직은 삼 년치 운영 데이터와 Xcelerator 프로그램에 참여한 음악 창작자 87명, 마스터클래스 226회에서 얻은 플레이북을 토대로 짰다."
           },
           {
             "t": "p",
-            "x": "다른 플랫폼은 대체로 AI 음악에 표시를 붙이거나 걸러 내는 쪽이다. Deezer는 AI 음악을 걸러 내는 토글을 들여오는 중이고 Bandcamp는 AI 생성 트랙을 아예 금지했다. Spotify와 YouTube는 표시 문제에 좀 더 조심스럽게 접근해 왔다."
+            "x": "인도의 독립 음악가들은 2027년 초로 잡힌 베타의 얼리 액세스를 신청할 수 있다. 가격은 월 약 $20(약 Rs1,900) 선이 될 전망이고, 전 세계 출시는 내년 후반이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "ElevenLabs sends AI music\nstraight to SoundCloud",
-          "body": "ElevenMusic now publishes tracks directly to SoundCloud, and ElevenLabs' models have made over 25 million tracks.",
-          "mini_headline": "ElevenLabs posts to SoundCloud",
+          "headline": "Mashup Edu's Nia agent runs\nthe business side for indies",
+          "body": "India's Mashup Edu is launching Nia, an AI agent that pulls streaming data and drafts venue pitches for indie artists.",
+          "mini_headline": "Nia agent runs\nindie admin",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675"
+                "src": "https://musically.com/wp-content/uploads/2026/11/Mashup-Edu-Nia.jpg",
+                "cap": "Mashup Edu's Nia"
               },
               {
                 "t": "p",
-                "x": "Audio AI company ElevenLabs on Thursday said users will be able to publish AI-generated music created using its ElevenMusic platform directly on SoundCloud. It is also offering SoundCloud Artist Pro users three months of ElevenMusic Pro, which lets you generate up to 1,000 songs, split songs’ stem files 500 times, and five custom styles or vocals per month."
+                "x": "Indian music education and creator-development platform Mashup Edu is launching Nia, an AI agent “engineered to handle the business operations of independent music creators”."
               },
               {
                 "t": "p",
-                "x": "The company first released a music-generation model in 2025, followed in April 2026 by a consumer app, and a month later a model that could switch genres mid-track. ElevenLabs said that users have so far created over 25 million tracks using its models."
+                "x": "Nia, which stands for ‘Next-gen Industry Access’, grew from the realisation that managing an independent music career requires handling around “17 distinct jobs”, from booking gigs and analysing statistics across streaming and social platforms, to tracking royalties. Nia “does not just offer advice” but performs tasks such as pulling cross-platform streaming data, drafting personalised venue pitches, and tracking response windows."
               },
               {
                 "t": "p",
-                "x": "“By becoming the first platform to bring ElevenMusic creations directly to fans beyond its own ecosystem, we’re opening up new possibilities for artists to experiment, share their work, and build an audience,” SoundCloud CEO Eliah Seton said."
+                "x": "“Creators don’t need another chatbot giving them homework or five different dashboards open at once. They need an AI agent that gets the work done,” says Mandeep Singh, founder and CEO of Mashup Edu. The agent's logic draws on three years of operational data, 87 music creators in its Xcelerator programme, and playbooks from 226 masterclasses."
               },
               {
                 "t": "p",
-                "x": "Other platforms lean toward labeling or filtering AI music: Deezer is introducing a toggle to filter it out, Bandcamp has banned AI-generated tracks, and Spotify and YouTube have taken a more cautious approach to labeling."
+                "x": "Indian independent musicians can sign up for early access to the beta, scheduled for early 2027. Nia is likely to cost around $20 (approx. Rs1,900) per month and will be available globally later next year."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ElevenLabs 음악,\nSoundCloud로 직행",
-          "body": "이제 ElevenMusic으로 만든 곡을 SoundCloud에 바로 올린다.",
-          "mini_headline": "ElevenLabs, SoundCloud에 바로 게시",
+          "headline": "Mashup Edu의\nNia가 인디 경영 대행",
+          "body": "인도 Mashup Edu가 인디 아티스트용 AI 에이전트 Nia를 내놓는다.",
+          "mini_headline": "Nia, 인디 업무를 대신하다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675"
+                "src": "https://musically.com/wp-content/uploads/2026/11/Mashup-Edu-Nia.jpg",
+                "cap": "Mashup Edu의 Nia"
               },
               {
                 "t": "p",
-                "x": "오디오 AI 기업 ElevenLabs는 목요일, 사용자가 자사 ElevenMusic 플랫폼으로 만든 AI 생성(AI-generated) 음악을 이제 SoundCloud에 바로 올릴 수 있다고 밝혔다. SoundCloud Artist Pro 사용자에게는 ElevenMusic Pro 석 달 이용권도 준다. ElevenMusic Pro에서는 매달 최대 1,000곡 생성과 500회 스템 분리, 맞춤 스타일이나 보컬 다섯 가지를 쓸 수 있다."
+                "x": "인도의 음악 교육·크리에이터 육성 플랫폼 Mashup Edu가 AI 에이전트 Nia를 출시한다. “독립 음악 창작자의 비즈니스 운영을 처리하도록 설계된” 에이전트다."
               },
               {
                 "t": "p",
-                "x": "회사는 2025년 첫 음악 생성 모델을 내놓은 뒤 2026년 4월 소비자용 앱을 냈다. 한 달 뒤에는 곡 중간에 장르를 바꾸는 모델도 선보였다. ElevenLabs에 따르면 지금까지 사용자들이 자사 모델로 만든 트랙은 2500만 곡이 넘는다."
+                "x": "Nia는 ‘Next-gen Industry Access’의 약자다. 독립 음악 커리어를 꾸리려면 공연 예약, 스트리밍·소셜 플랫폼 통계 분석, 로열티 추적까지 약 “17가지 별개의 일”을 해내야 한다는 데서 출발했다. Nia는 “조언만 하는 데 그치지 않고” 크로스 플랫폼 스트리밍 데이터 수집, 맞춤형 공연장 제안서 작성, 응답 기한 추적 같은 일을 직접 한다."
               },
               {
                 "t": "p",
-                "x": "“ElevenMusic 창작물을 자체 생태계 밖의 팬들에게 직접 전하는 첫 플랫폼이 되면서, 아티스트가 실험하고 작품을 공유하고 청중을 모을 새로운 가능성을 열고 있습니다.” SoundCloud CEO Eliah Seton의 말이다."
+                "x": "Mashup Edu 창업자 겸 CEO Mandeep Singh은 “크리에이터에게 숙제를 내주는 또 하나의 챗봇이나 한꺼번에 열어 둔 다섯 개의 대시보드는 필요 없다. 그들에게 필요한 건 일을 끝내주는 AI 에이전트다”라고 말한다. 에이전트 로직은 삼 년치 운영 데이터와 Xcelerator 프로그램에 참여한 음악 창작자 87명, 마스터클래스 226회에서 얻은 플레이북을 토대로 짰다."
               },
               {
                 "t": "p",
-                "x": "다른 플랫폼은 대체로 AI 음악에 표시를 붙이거나 걸러 내는 쪽이다. Deezer는 AI 음악을 걸러 내는 토글을 들여오는 중이고 Bandcamp는 AI 생성 트랙을 아예 금지했다. Spotify와 YouTube는 표시 문제에 좀 더 조심스럽게 접근해 왔다."
+                "x": "인도의 독립 음악가들은 2027년 초로 잡힌 베타의 얼리 액세스를 신청할 수 있다. 가격은 월 약 $20(약 Rs1,900) 선이 될 전망이고, 전 세계 출시는 내년 후반이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ElevenLabsのAI曲\nSoundCloudへ直送",
-          "body": "ElevenMusicの曲をSoundCloudへ直接公開できるようになった。",
-          "mini_headline": "ElevenLabs、SoundCloudへ直接投稿",
+          "headline": "Mashup EduのNia\nインディの事業を代行",
+          "body": "インドのMashup Eduが、インディ向けAIエージェントNiaを投入する。",
+          "mini_headline": "Niaがインディの事務を代行",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675"
+                "src": "https://musically.com/wp-content/uploads/2026/11/Mashup-Edu-Nia.jpg",
+                "cap": "Mashup EduのNia"
               },
               {
                 "t": "p",
-                "x": "音声AI企業のElevenLabsは木曜日、同社のElevenMusicプラットフォームで作ったAI生成（AI-generated）音楽をSoundCloudに直接公開できるようになると発表した。SoundCloud Artist Proのユーザーには、ElevenMusic Proの三か月分も提供する。ElevenMusic Proでは毎月、最大1,000曲の生成、500回のステム分離、五つのカスタムスタイルまたはボーカルが使える。"
+                "x": "インドの音楽教育・クリエイター育成プラットフォームMashup Eduが、「インディペンデントな音楽クリエイターのビジネス運営を担うよう設計された」AIエージェントNiaを投入する。"
               },
               {
                 "t": "p",
-                "x": "同社は2025年に初の音楽生成モデルを公開し、2026年4月に一般向けアプリを、その一か月後には曲の途中でジャンルを切り替えられるモデルを発表した。ElevenLabsによると、ユーザーはこれまでに同社のモデルで2500万曲を超えるトラックを作成したという。"
+                "x": "‘Next-gen Industry Access’の略であるNiaは、インディペンデントな音楽キャリアの運営には、ライブのブッキングやストリーミング・ソーシャル各プラットフォームの統計分析からロイヤリティの追跡まで、約「17の異なる仕事」をこなす必要があるという気づきから生まれた。Niaは「助言するだけではなく」、プラットフォームを横断したストリーミングデータの取得、会場ごとに最適化した売り込み文の作成、返信期限の追跡といった作業を実行する。"
               },
               {
                 "t": "p",
-                "x": "「ElevenMusicの作品を自社エコシステムの外のファンに直接届ける初のプラットフォームとなることで、アーティストが実験し、作品を共有し、聴衆を築く新たな可能性を開いている」と、SoundCloudのCEO、Eliah Seton氏は述べた。"
+                "x": "「クリエイターに必要なのは、宿題を出してくるもう一つのチャットボットでも、同時に開いた五つのダッシュボードでもない。仕事を片付けてくれるAIエージェントだ」とMashup Eduの創業者兼CEO、Mandeep Singhは語る。エージェントのロジックは、三年分の運用データ、Xceleratorプログラムに参加する87人の音楽クリエイター、226回のマスタークラスのプレイブックに基づく。"
               },
               {
                 "t": "p",
-                "x": "他のプラットフォームはAI音楽へのラベル付けや除外に傾いている。DeezerはAI音楽を除外するトグルを導入中で、BandcampはAI生成トラックを禁止し、SpotifyとYouTubeはラベル付けにより慎重な姿勢をとっている。"
+                "x": "インドのインディペンデント・ミュージシャンは、2027年初めに予定されるベータ版の早期アクセスに登録できる。Niaの料金は月額約$20（約Rs1,900）になる見込みで、来年後半に世界で利用可能になる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ElevenLabs音乐\n直发SoundCloud",
-          "body": "ElevenMusic作品可直接发布到SoundCloud，模型已生成超2500万首曲目。",
-          "mini_headline": "ElevenLabs直发SoundCloud",
+          "headline": "Mashup Edu的Nia\n代理独立音乐人业务",
+          "body": "印度Mashup Edu推出AI代理Nia，为独立音乐人抓取流媒体数据并起草场地提案。",
+          "mini_headline": "Nia代办独立音乐人事务",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675"
+                "src": "https://musically.com/wp-content/uploads/2026/11/Mashup-Edu-Nia.jpg",
+                "cap": "Mashup Edu的Nia"
               },
               {
                 "t": "p",
-                "x": "音频AI公司ElevenLabs周四表示，用户将能把通过其ElevenMusic平台创作的AI生成（AI-generated）音乐直接发布到SoundCloud。公司还向SoundCloud Artist Pro用户提供三个月的ElevenMusic Pro，该服务每月可生成最多1,000首歌曲、拆分分轨文件500次，并使用五种自定义风格或人声。"
+                "x": "印度音乐教育与创作者培养平台Mashup Edu推出AI代理Nia，这款代理“专为处理独立音乐创作者的商业运营而设计”。"
               },
               {
                 "t": "p",
-                "x": "该公司于2025年首次发布音乐生成模型，2026年4月推出面向消费者的应用，一个月后又发布了可在曲中切换曲风的模型。ElevenLabs表示，迄今用户已使用其模型创作了超过2500万首曲目。"
+                "x": "Nia是‘Next-gen Industry Access’的缩写，源于这样一个认识：经营独立音乐事业需要处理约“17项不同的工作”，从预订演出、分析各流媒体和社交平台的统计数据，到追踪版税。Nia“不只是提供建议”，还会执行各项任务，例如抓取跨平台流媒体数据、起草个性化的演出场地提案，以及跟踪回复时限。"
               },
               {
                 "t": "p",
-                "x": "SoundCloud首席执行官Eliah Seton表示：“作为首个将ElevenMusic作品直接带给其自身生态之外粉丝的平台，我们正在为艺术家开启尝试、分享作品和积累听众的新可能。”"
+                "x": "“创作者不需要又一个给他们布置作业的聊天机器人，也不需要同时打开五个不同的仪表盘。他们需要的是能把事情办成的AI代理。”Mashup Edu创始人兼CEO Mandeep Singh说。该代理的逻辑基于三年的运营数据、其Xcelerator项目中的87位音乐创作者，以及226场大师课的操作手册。"
               },
               {
                 "t": "p",
-                "x": "其他平台则倾向于为AI音乐加标签或进行过滤：Deezer正在推出过滤此类音乐的开关，Bandcamp已禁止AI生成的曲目，Spotify和YouTube则在标签问题上采取了更谨慎的做法。"
+                "x": "印度独立音乐人可报名参加定于2027年初推出的测试版抢先体验。Nia预计每月收费约$20（约Rs1,900），并将于明年晚些时候面向全球推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ElevenLabs envía música de IA\ndirectamente a SoundCloud",
-          "body": "ElevenMusic ya publica directamente en SoundCloud y los modelos de ElevenLabs suman más de 25 millones de temas.",
-          "mini_headline": "ElevenLabs publica en SoundCloud",
+          "headline": "El agente Nia de Mashup Edu\ngestiona el negocio indie",
+          "body": "La india Mashup Edu lanza Nia, un agente de AI que reúne datos de streaming y redacta propuestas a salas para indies.",
+          "mini_headline": "Nia gestiona la parte administrativa indie",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675"
+                "src": "https://musically.com/wp-content/uploads/2026/11/Mashup-Edu-Nia.jpg",
+                "cap": "Nia, de Mashup Edu"
               },
               {
                 "t": "p",
-                "x": "La empresa de IA de audio ElevenLabs anunció el jueves que los usuarios podrán publicar directamente en SoundCloud la música generada por IA (AI-generated) creada con su plataforma ElevenMusic. También ofrece a los usuarios de SoundCloud Artist Pro tres meses de ElevenMusic Pro, que permite generar hasta 1.000 canciones al mes, separar los stems de las canciones 500 veces y usar cinco estilos o voces personalizados."
+                "x": "La plataforma india de educación musical y desarrollo de creadores Mashup Edu lanza Nia, un agente de AI “diseñado para gestionar las operaciones de negocio de los creadores musicales independientes”."
               },
               {
                 "t": "p",
-                "x": "La compañía lanzó su primer modelo de generación musical en 2025, al que siguieron una aplicación para consumidores en abril de 2026 y, un mes después, un modelo capaz de cambiar de género a mitad de una pista. ElevenLabs afirma que hasta ahora los usuarios han creado más de 25 millones de pistas con sus modelos."
+                "x": "Nia, siglas de ‘Next-gen Industry Access’, nació de la constatación de que gestionar una carrera musical independiente exige ocuparse de unos “17 trabajos distintos”, desde contratar conciertos y analizar estadísticas en plataformas de streaming y redes sociales hasta hacer seguimiento de las regalías. Nia “no se limita a dar consejos”, sino que ejecuta tareas como reunir datos de streaming de distintas plataformas, redactar propuestas personalizadas para salas y controlar los plazos de respuesta."
               },
               {
                 "t": "p",
-                "x": "“Al convertirnos en la primera plataforma que lleva las creaciones de ElevenMusic directamente a los fans más allá de su propio ecosistema, abrimos nuevas posibilidades para que los artistas experimenten, compartan su trabajo y formen una audiencia”, dijo Eliah Seton, CEO de SoundCloud."
+                "x": "“Los creadores no necesitan otro chatbot que les ponga deberes ni cinco paneles distintos abiertos a la vez. Necesitan un agente de AI que haga el trabajo”, afirma Mandeep Singh, fundador y CEO de Mashup Edu. La lógica del agente se basa en tres años de datos operativos, 87 creadores musicales de su programa Xcelerator y manuales de 226 clases magistrales."
               },
               {
                 "t": "p",
-                "x": "Otras plataformas se inclinan por etiquetar o filtrar la música de IA: Deezer está introduciendo un interruptor para excluirla, Bandcamp ha prohibido las pistas generadas por IA, y Spotify y YouTube han adoptado un enfoque más cauteloso con el etiquetado."
+                "x": "Los músicos independientes de India pueden inscribirse para el acceso anticipado a la beta, prevista para principios de 2027. Nia costará probablemente unos $20 (aprox. Rs1,900) al mes y estará disponible a nivel mundial a finales del próximo año."
               }
             ]
           }
@@ -967,121 +883,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ElevenLabs 음악,\nSoundCloud로 직행",
-          "body": "이제 ElevenMusic 곡을 SoundCloud에 바로 올릴 수 있다.",
-          "mini_headline": "ElevenLabs, SoundCloud에 바로 게시",
+          "headline": "Mashup Edu의\nNia가 인디 경영 대행",
+          "body": "인도 Mashup Edu가 인디 아티스트용 AI 에이전트 Nia를 출시한다.",
+          "mini_headline": "Nia, 인디 업무를 대신하다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675"
+                "src": "https://musically.com/wp-content/uploads/2026/11/Mashup-Edu-Nia.jpg",
+                "cap": "Mashup Edu의 Nia"
               },
               {
                 "t": "p",
-                "x": "오디오 AI 기업 ElevenLabs는 목요일, 사용자가 자사 ElevenMusic 플랫폼으로 만든 AI 생성(AI-generated) 음악을 SoundCloud에 바로 게시할 수 있게 된다고 밝혔다. SoundCloud Artist Pro 사용자에게는 ElevenMusic Pro 석 달 이용권도 제공한다. ElevenMusic Pro로는 매달 최대 1,000곡 생성, 500회 스템 분리, 다섯 가지 맞춤 스타일 또는 보컬을 쓸 수 있다."
+                "x": "인도의 음악 교육·크리에이터 육성 플랫폼 Mashup Edu가 “독립 음악 창작자의 비즈니스 운영을 처리하도록 설계된” AI 에이전트 Nia를 출시한다."
               },
               {
                 "t": "p",
-                "x": "회사는 2025년 첫 음악 생성 모델을 내놓았고, 2026년 4월 소비자용 앱을, 한 달 뒤에는 곡 중간에 장르를 바꿀 수 있는 모델을 선보였다. ElevenLabs는 지금까지 사용자들이 자사 모델로 2500만 곡이 넘는 트랙을 만들었다고 밝혔다."
+                "x": "‘Next-gen Industry Access’의 약자인 Nia는 독립 음악 커리어를 꾸리려면 공연 예약, 스트리밍·소셜 플랫폼 전반의 통계 분석부터 로열티 추적까지 약 “17가지 별개의 일”을 처리해야 한다는 깨달음에서 출발했다. Nia는 “조언만 하는 데 그치지 않고” 크로스 플랫폼 스트리밍 데이터 수집, 맞춤형 공연장 제안서 작성, 응답 기한 추적 같은 작업을 직접 수행한다."
               },
               {
                 "t": "p",
-                "x": "“ElevenMusic 창작물을 자체 생태계 밖의 팬들에게 직접 전하는 첫 플랫폼이 되면서, 아티스트가 실험하고 작품을 공유하고 청중을 모을 새로운 가능성을 열고 있습니다.” SoundCloud CEO Eliah Seton의 말이다."
+                "x": "Mashup Edu 창업자 겸 CEO Mandeep Singh은 “크리에이터에게 숙제를 내주는 또 하나의 챗봇이나 한꺼번에 열어 둔 다섯 개의 대시보드는 필요 없다. 그들에게 필요한 건 일을 끝내주는 AI 에이전트다”라고 말한다. 에이전트의 로직은 삼 년치 운영 데이터, Xcelerator 프로그램에 참여한 음악 창작자 87명, 마스터클래스 226회의 플레이북을 바탕으로 한다."
               },
               {
                 "t": "p",
-                "x": "다른 플랫폼들은 AI 음악에 표시를 붙이거나 걸러 내는 쪽으로 기운다. Deezer는 AI 음악을 걸러 내는 토글을 도입하고 있고, Bandcamp는 AI 생성 트랙을 금지했으며, Spotify와 YouTube는 표시 문제에 더 신중한 태도를 보여 왔다."
+                "x": "인도의 독립 음악가들은 2027년 초로 예정된 베타의 얼리 액세스를 신청할 수 있다. Nia의 가격은 월 약 $20(약 Rs1,900) 수준이 될 것으로 보이며, 내년 후반 전 세계에 출시된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ElevenLabsのAI曲\nSoundCloudへ直送",
-          "body": "ElevenMusicの曲をSoundCloudへ直接公開できるようになった。",
-          "mini_headline": "ElevenLabs、SoundCloudへ直接投稿",
+          "headline": "Mashup EduのNia\nインディの事業を代行",
+          "body": "インドのMashup Eduが、インディ向けAIエージェントNiaを投入する。",
+          "mini_headline": "Niaがインディの事務を代行",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675"
+                "src": "https://musically.com/wp-content/uploads/2026/11/Mashup-Edu-Nia.jpg",
+                "cap": "Mashup EduのNia"
               },
               {
                 "t": "p",
-                "x": "音声AI企業のElevenLabsは木曜日、同社のElevenMusicプラットフォームで作ったAI生成（AI-generated）音楽をSoundCloudに直接公開できるようになると発表した。SoundCloud Artist Proのユーザーには、ElevenMusic Proの三か月分も提供する。ElevenMusic Proでは毎月、最大1,000曲の生成、500回のステム分離、五つのカスタムスタイルまたはボーカルが使える。"
+                "x": "インドの音楽教育・クリエイター育成プラットフォームMashup Eduが、「インディペンデントな音楽クリエイターのビジネス運営を担うよう設計された」AIエージェントNiaを投入する。"
               },
               {
                 "t": "p",
-                "x": "同社は2025年に初の音楽生成モデルを公開し、2026年4月に一般向けアプリを、その一か月後には曲の途中でジャンルを切り替えられるモデルを発表した。ElevenLabsによると、ユーザーはこれまでに同社のモデルで2500万曲を超えるトラックを作成したという。"
+                "x": "‘Next-gen Industry Access’の略であるNiaは、インディペンデントな音楽キャリアの運営には、ライブのブッキングやストリーミング・ソーシャル各プラットフォームの統計分析からロイヤリティの追跡まで、約「17の異なる仕事」をこなす必要があるという気づきから生まれた。Niaは「助言するだけではなく」、プラットフォームを横断したストリーミングデータの取得、会場ごとに最適化した売り込み文の作成、返信期限の追跡といった作業を実行する。"
               },
               {
                 "t": "p",
-                "x": "「ElevenMusicの作品を自社エコシステムの外のファンに直接届ける初のプラットフォームとなることで、アーティストが実験し、作品を共有し、聴衆を築く新たな可能性を開いている」と、SoundCloudのCEO、Eliah Seton氏は述べた。"
+                "x": "「クリエイターに必要なのは、宿題を出してくるもう一つのチャットボットでも、同時に開いた五つのダッシュボードでもない。仕事を片付けてくれるAIエージェントだ」とMashup Eduの創業者兼CEO、Mandeep Singhは語る。エージェントのロジックは、三年分の運用データ、Xceleratorプログラムに参加する87人の音楽クリエイター、226回のマスタークラスのプレイブックに基づく。"
               },
               {
                 "t": "p",
-                "x": "他のプラットフォームはAI音楽へのラベル付けや除外に傾いている。DeezerはAI音楽を除外するトグルを導入中で、BandcampはAI生成トラックを禁止し、SpotifyとYouTubeはラベル付けにより慎重な姿勢をとっている。"
+                "x": "インドのインディペンデント・ミュージシャンは、2027年初めに予定されるベータ版の早期アクセスに登録できる。Niaの料金は月額約$20（約Rs1,900）になる見込みで、来年後半に世界で利用可能になる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ElevenLabs音乐\n直发SoundCloud",
-          "body": "ElevenMusic作品可直接发布到SoundCloud，模型已生成超2500万首曲目。",
-          "mini_headline": "ElevenLabs直发SoundCloud",
+          "headline": "Mashup Edu的Nia\n代理独立音乐人业务",
+          "body": "印度Mashup Edu推出AI代理Nia，为独立音乐人抓取流媒体数据并起草场地提案。",
+          "mini_headline": "Nia代办独立音乐人事务",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675"
+                "src": "https://musically.com/wp-content/uploads/2026/11/Mashup-Edu-Nia.jpg",
+                "cap": "Mashup Edu的Nia"
               },
               {
                 "t": "p",
-                "x": "音频AI公司ElevenLabs周四表示，用户将能把通过其ElevenMusic平台创作的AI生成（AI-generated）音乐直接发布到SoundCloud。公司还向SoundCloud Artist Pro用户提供三个月的ElevenMusic Pro，该服务每月可生成最多1,000首歌曲、拆分分轨文件500次，并使用五种自定义风格或人声。"
+                "x": "印度音乐教育与创作者培养平台Mashup Edu推出AI代理Nia，这款代理“专为处理独立音乐创作者的商业运营而设计”。"
               },
               {
                 "t": "p",
-                "x": "该公司于2025年首次发布音乐生成模型，2026年4月推出面向消费者的应用，一个月后又发布了可在曲中切换曲风的模型。ElevenLabs表示，迄今用户已使用其模型创作了超过2500万首曲目。"
+                "x": "Nia是‘Next-gen Industry Access’的缩写，源于这样一个认识：经营独立音乐事业需要处理约“17项不同的工作”，从预订演出、分析各流媒体和社交平台的统计数据，到追踪版税。Nia“不只是提供建议”，还会执行各项任务，例如抓取跨平台流媒体数据、起草个性化的演出场地提案，以及跟踪回复时限。"
               },
               {
                 "t": "p",
-                "x": "SoundCloud首席执行官Eliah Seton表示：“作为首个将ElevenMusic作品直接带给其自身生态之外粉丝的平台，我们正在为艺术家开启尝试、分享作品和积累听众的新可能。”"
+                "x": "“创作者不需要又一个给他们布置作业的聊天机器人，也不需要同时打开五个不同的仪表盘。他们需要的是能把事情办成的AI代理。”Mashup Edu创始人兼CEO Mandeep Singh说。该代理的逻辑基于三年的运营数据、其Xcelerator项目中的87位音乐创作者，以及226场大师课的操作手册。"
               },
               {
                 "t": "p",
-                "x": "其他平台则倾向于为AI音乐加标签或进行过滤：Deezer正在推出过滤此类音乐的开关，Bandcamp已禁止AI生成的曲目，Spotify和YouTube则在标签问题上采取了更谨慎的做法。"
+                "x": "印度独立音乐人可报名参加定于2027年初推出的测试版抢先体验。Nia预计每月收费约$20（约Rs1,900），并将于明年晚些时候面向全球推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ElevenLabs envía música de IA\ndirectamente a SoundCloud",
-          "body": "ElevenMusic ya publica directamente en SoundCloud y los modelos de ElevenLabs suman más de 25 millones de temas.",
-          "mini_headline": "ElevenLabs publica en SoundCloud",
+          "headline": "El agente Nia de Mashup Edu\ngestiona el negocio indie",
+          "body": "La india Mashup Edu lanza Nia, un agente de AI que reúne datos de streaming y redacta propuestas a salas para indies.",
+          "mini_headline": "Nia gestiona la parte administrativa indie",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675"
+                "src": "https://musically.com/wp-content/uploads/2026/11/Mashup-Edu-Nia.jpg",
+                "cap": "Nia, de Mashup Edu"
               },
               {
                 "t": "p",
-                "x": "La empresa de IA de audio ElevenLabs anunció el jueves que los usuarios podrán publicar directamente en SoundCloud la música generada por IA (AI-generated) creada con su plataforma ElevenMusic. También ofrece a los usuarios de SoundCloud Artist Pro tres meses de ElevenMusic Pro, que permite generar hasta 1.000 canciones al mes, separar los stems de las canciones 500 veces y usar cinco estilos o voces personalizados."
+                "x": "La plataforma india de educación musical y desarrollo de creadores Mashup Edu lanza Nia, un agente de AI “diseñado para gestionar las operaciones de negocio de los creadores musicales independientes”."
               },
               {
                 "t": "p",
-                "x": "La compañía lanzó su primer modelo de generación musical en 2025, al que siguieron una aplicación para consumidores en abril de 2026 y, un mes después, un modelo capaz de cambiar de género a mitad de una pista. ElevenLabs afirma que hasta ahora los usuarios han creado más de 25 millones de pistas con sus modelos."
+                "x": "Nia, siglas de ‘Next-gen Industry Access’, nació de la constatación de que gestionar una carrera musical independiente exige ocuparse de unos “17 trabajos distintos”, desde contratar conciertos y analizar estadísticas en plataformas de streaming y redes sociales hasta hacer seguimiento de las regalías. Nia “no se limita a dar consejos”, sino que ejecuta tareas como reunir datos de streaming de distintas plataformas, redactar propuestas personalizadas para salas y controlar los plazos de respuesta."
               },
               {
                 "t": "p",
-                "x": "“Al convertirnos en la primera plataforma que lleva las creaciones de ElevenMusic directamente a los fans más allá de su propio ecosistema, abrimos nuevas posibilidades para que los artistas experimenten, compartan su trabajo y formen una audiencia”, dijo Eliah Seton, CEO de SoundCloud."
+                "x": "“Los creadores no necesitan otro chatbot que les ponga deberes ni cinco paneles distintos abiertos a la vez. Necesitan un agente de AI que haga el trabajo”, afirma Mandeep Singh, fundador y CEO de Mashup Edu. La lógica del agente se basa en tres años de datos operativos, 87 creadores musicales de su programa Xcelerator y manuales de 226 clases magistrales."
               },
               {
                 "t": "p",
-                "x": "Otras plataformas se inclinan por etiquetar o filtrar la música de IA: Deezer está introduciendo un interruptor para excluirla, Bandcamp ha prohibido las pistas generadas por IA, y Spotify y YouTube han adoptado un enfoque más cauteloso con el etiquetado."
+                "x": "Los músicos independientes de India pueden inscribirse para el acceso anticipado a la beta, prevista para principios de 2027. Nia costará probablemente unos $20 (aprox. Rs1,900) al mes y estará disponible a nivel mundial a finales del próximo año."
               }
             ]
           }
@@ -1089,15 +1009,15 @@
       }
     },
     {
-      "id": "ddex-elevenlabs-membership",
+      "id": "nile-rodgers-ai-video",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "DDEX 첫 AI 회원에\nElevenLabs 가입",
-      "body": "음악 메타데이터 기구 DDEX가 ElevenLabs를 첫 AI 회원으로 맞았다.",
-      "mini_headline": "DDEX 첫 AI 회원",
+      "headline": "Nile Rodgers,\n자선 캐럴 영상 AI 옹호",
+      "body": "팬 반발에 Nile Rodgers는 팀이 다 만들고 AI는 지시만 따랐다고 했다.",
+      "mini_headline": "Nile Rodgers, AI 영상 옹호",
       "tool": "Music",
-      "source": "Digital Music News",
-      "url": "https://www.digitalmusicnews.com/2026/11/05/ddex-elevenlabs-first-ai-company/",
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-news/nile-rodgers-defends-ai-use-new-music-video-christmas-song-1235653717/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -1105,155 +1025,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ddex-announces-elevenlabs-as-first-ai-company-to-join-membership.png",
-            "cap": "사진 출처: DDEX x ElevenLabs"
+            "src": "https://www.rollingstone.com/wp-content/uploads/2026/11/NileRodgers-1.jpg?w=1581&h=1054&crop=1",
+            "cap": "DKMS Gala 2026에서 공연하는 Nile Rodgers. Astrid Stawiarz/Getty Images for DKMS Gala"
           },
           {
             "t": "p",
-            "x": "음악 산업의 비영리 국제 표준 제정 기구인 Digital Data Exchange(DDEX)가 ElevenLabs를 정회원으로 받아들였다고 발표했다. AI 기업으로는 처음이다. DDEX 회원은 음악·기술 분야 기업과 개인을 합쳐 150곳이 넘는다."
+            "x": "Nile Rodgers는 2020년 Rebecca Ferguson과 함께한 자선 협업곡 “The Christmas Song”의 새 버전 뮤직비디오 일부를 최근 공개하면서 AI를 썼다고 자랑스럽게 밝혔다. 팬들이 이를 문제 삼자 그는 목요일 기술 사용을 옹호했다."
           },
           {
             "t": "p",
-            "x": "DDEX 사무국의 Mark Isherwood는 “음악 시장을 이끄는 AI 기업 중 하나로서 이들의 전문성은 풍부한 통찰을 줄 것”이라고 말했다. ElevenLabs의 Gabriella Heybourne은 “총회와 워킹그룹에 참여해 AI를 비롯한 음악 정보 전달 방식을 함께 만들어 가기를 기대한다”고 밝혔다."
+            "x": "Rodgers는 병상에 있거나 아픈 아이들에게 “연말 시즌에 작은 #joy”를 주려고 이 곡을 만들었다고 했다. 생성형 AI 사용을 지적하는 댓글에는 이렇게 답했다. “우리가 모든 걸 만들었다. 무드 보드, 스토리보드를 만들고 영화를 만들 때와 똑같은 방식으로 작업했다. AI는 우리가 시킨 대로 했고, 화면에서 보게 될 모든 순간을 우리가 공들여 만들었다… 전통적인 영화였다면 약 $100,000가 들었을 것이다.”"
           },
           {
             "t": "p",
-            "x": "ElevenLabs는 DDEX AI 워킹그룹이 9월 9일과 10일 내슈빌에서 첫 대면 회의를 연 뒤 합류했다. 워킹그룹은 생성형 AI 선언 표준(GAI-D) 위원회 초안의 의견 수렴을 마쳤다. 초안은 동료 검토를 거쳐 2027년 초 공개된다."
+            "x": "또 다른 댓글에는 “삶을 편하게 해 준다는 이유로 늘 AI를 쓰면서 반AI라고 말하는 건 다소 위선적”이라고 받아쳤다. Rodgers의 AI 지지는 처음이 아니다. 2024년 Euronews에는 AI 보컬로 남의 사운드를 베끼는 건 “끔찍하다”고 하면서도, AI로 자신을 예술적으로 표현하는 건 “환상적”이라고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "DDEX admits ElevenLabs as\nits first AI member",
-          "body": "Music metadata body DDEX has made ElevenLabs its first AI member, giving it a seat in setting industry data standards.",
-          "mini_headline": "DDEX's first AI member",
+          "headline": "Nile Rodgers defends AI\nin a Christmas charity video",
+          "body": "After fan backlash, Nile Rodgers said his team created everything in the charity video and the AI only did as told.",
+          "mini_headline": "Nile Rodgers\ndefends AI video",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ddex-announces-elevenlabs-as-first-ai-company-to-join-membership.png",
-                "cap": "Photo Credit: DDEX x ElevenLabs"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/11/NileRodgers-1.jpg?w=1581&h=1054&crop=1",
+                "cap": "Nile Rodgers performs during the DKMS Gala 2026. Astrid Stawiarz/Getty Images for DKMS Gala"
               },
               {
                 "t": "p",
-                "x": "Digital Data Exchange (DDEX), the not-for-profit international standards-setting organization for the music industry, has announced ElevenLabs joining as a full member—the first AI company to do so. DDEX’s membership includes more than 150 companies and individuals in music and technology."
+                "x": "Nile Rodgers recently shared a snippet of his upcoming video for a new version of “The Christmas Song,” his 2020 charity collaboration with Rebecca Ferguson, proudly revealing it used AI, which fans took issue with. On Thursday, he defended his use of the technology."
               },
               {
                 "t": "p",
-                "x": "“As one of the leading AI companies in the music marketplace, their expertise will provide a plethora of insight,” said Mark Isherwood, DDEX Secretariat. “We’re looking forward to taking part in their plenaries and working groups to help shape their approach to the communication of music, as it relates to AI and more,” said Gabriella Heybourne of ElevenLabs."
+                "x": "Rodgers said he produced the song to give bedridden and ill children “a little #joy during the holiday season.” When commenters took him to task for using generative AI, he replied: “We created everything. Mood boards, story boards and did it the same way we’d do a film. The AI did what we told it to do and we painstakingly created every second you’ll see on the screen… If this were a traditional film it would’ve cost about $100,000.”"
               },
               {
                 "t": "p",
-                "x": "ElevenLabs joins after DDEX’s AI Working Group held its first physical meeting in Nashville on September 9 and 10. The group has finished soliciting comments on the committee draft of its Generative AI Declaration Standard (GAI-D), which moves to peer review before publication in early 2027."
+                "x": "He told another commenter that “it’s somewhat hypocritical to say you’re anti AI and you’re using it all the time because it makes your life convenient.” Rodgers has previously shown support for AI, telling Euronews in 2024 that copying another person's sound with AI vocals is “horrible,” but using AI to artistically express yourself is “fantastic.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "DDEX 첫 AI 회원에\nElevenLabs 가입",
-          "body": "음악 메타데이터 기구 DDEX가 ElevenLabs를 첫 AI 회원으로 맞았다.",
-          "mini_headline": "DDEX 첫 AI 회원",
+          "headline": "Nile Rodgers,\n자선 캐럴 영상 AI 옹호",
+          "body": "팬 반발에 Nile Rodgers는 팀이 다 만들고 AI는 지시만 따랐다고 했다.",
+          "mini_headline": "Nile Rodgers, AI 영상 옹호",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ddex-announces-elevenlabs-as-first-ai-company-to-join-membership.png",
-                "cap": "사진 출처: DDEX x ElevenLabs"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/11/NileRodgers-1.jpg?w=1581&h=1054&crop=1",
+                "cap": "DKMS Gala 2026에서 공연하는 Nile Rodgers. Astrid Stawiarz/Getty Images for DKMS Gala"
               },
               {
                 "t": "p",
-                "x": "음악 산업의 비영리 국제 표준 제정 기구인 Digital Data Exchange(DDEX)가 ElevenLabs를 정회원으로 받아들였다고 발표했다. AI 기업으로는 처음이다. DDEX 회원은 음악·기술 분야 기업과 개인을 합쳐 150곳이 넘는다."
+                "x": "Nile Rodgers는 2020년 Rebecca Ferguson과 함께한 자선 협업곡 “The Christmas Song”의 새 버전 뮤직비디오 일부를 최근 공개하면서 AI를 썼다고 자랑스럽게 밝혔다. 팬들이 이를 문제 삼자 그는 목요일 기술 사용을 옹호했다."
               },
               {
                 "t": "p",
-                "x": "DDEX 사무국의 Mark Isherwood는 “음악 시장을 이끄는 AI 기업 중 하나로서 이들의 전문성은 풍부한 통찰을 줄 것”이라고 말했다. ElevenLabs의 Gabriella Heybourne은 “총회와 워킹그룹에 참여해 AI를 비롯한 음악 정보 전달 방식을 함께 만들어 가기를 기대한다”고 밝혔다."
+                "x": "Rodgers는 병상에 있거나 아픈 아이들에게 “연말 시즌에 작은 #joy”를 주려고 이 곡을 만들었다고 했다. 생성형 AI 사용을 지적하는 댓글에는 이렇게 답했다. “우리가 모든 걸 만들었다. 무드 보드, 스토리보드를 만들고 영화를 만들 때와 똑같은 방식으로 작업했다. AI는 우리가 시킨 대로 했고, 화면에서 보게 될 모든 순간을 우리가 공들여 만들었다… 전통적인 영화였다면 약 $100,000가 들었을 것이다.”"
               },
               {
                 "t": "p",
-                "x": "ElevenLabs는 DDEX AI 워킹그룹이 9월 9일과 10일 내슈빌에서 첫 대면 회의를 연 뒤 합류했다. 워킹그룹은 생성형 AI 선언 표준(GAI-D) 위원회 초안의 의견 수렴을 마쳤다. 초안은 동료 검토를 거쳐 2027년 초 공개된다."
+                "x": "또 다른 댓글에는 “삶을 편하게 해 준다는 이유로 늘 AI를 쓰면서 반AI라고 말하는 건 다소 위선적”이라고 받아쳤다. Rodgers의 AI 지지는 처음이 아니다. 2024년 Euronews에는 AI 보컬로 남의 사운드를 베끼는 건 “끔찍하다”고 하면서도, AI로 자신을 예술적으로 표현하는 건 “환상적”이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "DDEX、初のAI会員に\nElevenLabsを迎える",
-          "body": "音楽メタデータ団体DDEXが、ElevenLabsを初のAI会員に迎えた。",
-          "mini_headline": "DDEX初のAI会員",
+          "headline": "Nile Rodgers\nクリスマス動画のAIを擁護",
+          "body": "ファンの反発にNile Rodgersは全てチームが作りAIは指示に従っただけだと述べた。",
+          "mini_headline": "Nile RodgersがAI動画を擁護",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ddex-announces-elevenlabs-as-first-ai-company-to-join-membership.png",
-                "cap": "写真提供：DDEX x ElevenLabs"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/11/NileRodgers-1.jpg?w=1581&h=1054&crop=1",
+                "cap": "DKMS Gala 2026で演奏するNile Rodgers。Astrid Stawiarz/Getty Images for DKMS Gala"
               },
               {
                 "t": "p",
-                "x": "音楽業界の非営利の国際標準化団体Digital Data Exchange（DDEX）は、ElevenLabsが正会員として加わったと発表した。AI企業としては初めてだ。DDEXの会員には、音楽とテクノロジー分野の150を超える企業と個人が名を連ねる。"
+                "x": "Nile Rodgersは最近、Rebecca Fergusonとの2020年のチャリティー共作「The Christmas Song」の新バージョンに向けた近日公開の映像の一部を公開し、AIを使ったと誇らしげに明かしたが、ファンはこれに反発した。木曜日、彼はこの技術の使用を擁護した。"
               },
               {
                 "t": "p",
-                "x": "「音楽市場をリードするAI企業の一つとして、彼らの専門知識は多くの洞察をもたらすだろう」とDDEX事務局のMark Isherwood氏は述べた。ElevenLabsのGabriella Heybourne氏は「総会やワーキンググループに参加し、AIなどに関わる音楽情報のやり取りのあり方づくりに貢献できることを楽しみにしている」と語った。"
+                "x": "Rodgersは、寝たきりの子どもや病気の子どもたちに「ホリデーシーズンにささやかな#joy」を届けるためにこの曲を制作したと述べた。生成AIの使用をコメント欄で批判されると、こう返した。「すべて私たちが作った。ムードボードもストーリーボードも作り、映画と同じやり方で進めた。AIは私たちの指示どおりに動き、画面で目にするすべての瞬間を私たちが丹念に作り上げた…従来の映画なら約$100,000かかっていただろう」"
               },
               {
                 "t": "p",
-                "x": "ElevenLabsの加入は、DDEXのAIワーキンググループが9月9日と10日にナッシュビルで初の対面会合を開いた後のことだ。同グループは生成AI申告標準（GAI-D）の委員会草案に対する意見募集を終えており、草案はピアレビューを経て2027年初めに公開される予定だ。"
+                "x": "別のコメント投稿者には「生活が便利になるからといって常にAIを使っているのに、反AIを名乗るのはいささか偽善的だ」と語った。Rodgersは以前からAIへの支持を示しており、2024年にはEuronewsに対し、AIボーカルで他人のサウンドを真似るのは「ひどい」が、AIを使って芸術的に自己表現するのは「素晴らしい」と話していた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "DDEX迎来首个\nAI会员ElevenLabs",
-          "body": "音乐元数据组织DDEX接纳ElevenLabs为首个AI会员，使其参与制定行业数据标准。",
-          "mini_headline": "DDEX首个AI会员",
+          "headline": "Nile Rodgers\n为圣诞慈善视频AI辩护",
+          "body": "面对粉丝反弹，Nile Rodgers称慈善视频全由团队创作，AI只是照指令行事。",
+          "mini_headline": "Nile Rodgers为AI视频辩护",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ddex-announces-elevenlabs-as-first-ai-company-to-join-membership.png",
-                "cap": "图片来源：DDEX x ElevenLabs"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/11/NileRodgers-1.jpg?w=1581&h=1054&crop=1",
+                "cap": "Nile Rodgers在DKMS Gala 2026上演出。Astrid Stawiarz/Getty Images for DKMS Gala"
               },
               {
                 "t": "p",
-                "x": "音乐产业的非营利国际标准制定组织Digital Data Exchange（DDEX）宣布，ElevenLabs以正式会员身份加入，成为首家加入的AI公司。DDEX的会员包括音乐和科技领域的150多家公司和个人。"
+                "x": "Nile Rodgers近日发布了一段即将推出的视频片段，该视频为他2020年与Rebecca Ferguson合作的慈善歌曲“The Christmas Song”的新版本而作。他自豪地透露视频使用了AI，引发粉丝不满。周四，他为自己使用这项技术进行了辩护。"
               },
               {
                 "t": "p",
-                "x": "DDEX秘书处的Mark Isherwood表示：“作为音乐市场领先的AI公司之一，他们的专业知识将带来丰富的洞见。”ElevenLabs的Gabriella Heybourne则表示：“我们期待参与他们的全体会议和工作组，帮助塑造与AI等相关的音乐信息传递方式。”"
+                "x": "Rodgers表示，他制作这首歌是为了给卧床和患病的孩子们“在节日期间带来一点#joy”。当评论者指责他使用生成式AI时，他回应称：“一切都是我们创作的。情绪板、故事板，我们完全按照拍电影的方式来做。AI按我们的指示行事，你在屏幕上看到的每一秒都是我们精心打造的……如果这是一部传统电影，大约要花$100,000。”"
               },
               {
                 "t": "p",
-                "x": "在ElevenLabs加入之前，DDEX的AI工作组于9月9日至10日在纳什维尔举行了首次线下会议。该工作组已完成对其生成式AI声明标准（GAI-D）委员会草案的意见征集，草案将进入同行评审，并于2027年初发布。"
+                "x": "他对另一位评论者说：“一边因为AI让生活更方便而一直在用它，一边又说自己反AI，这多少有些虚伪。”Rodgers此前就表达过对AI的支持，他在2024年对Euronews表示，用AI人声模仿他人的声音“很可怕”，但用AI进行艺术表达则“很棒”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "DDEX admite a ElevenLabs como\nsu primer miembro de IA",
-          "body": "DDEX, entidad de metadatos musicales, admite a ElevenLabs como su primer miembro de IA y le da voz en sus estándares.",
-          "mini_headline": "El primer miembro de IA de DDEX",
+          "headline": "Nile Rodgers defiende la AI\nen un video benéfico navideño",
+          "body": "Tras críticas de sus fans, Nile Rodgers dijo que su equipo creó todo en el video benéfico y que la AI solo obedeció.",
+          "mini_headline": "Nile Rodgers defiende su video con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ddex-announces-elevenlabs-as-first-ai-company-to-join-membership.png",
-                "cap": "Foto: DDEX x ElevenLabs"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/11/NileRodgers-1.jpg?w=1581&h=1054&crop=1",
+                "cap": "Nile Rodgers actúa durante la DKMS Gala 2026. Astrid Stawiarz/Getty Images for DKMS Gala"
               },
               {
                 "t": "p",
-                "x": "Digital Data Exchange (DDEX), la organización internacional sin ánimo de lucro que fija estándares para la industria musical, ha anunciado la incorporación de ElevenLabs como miembro de pleno derecho, la primera empresa de IA en hacerlo. Entre los miembros de DDEX figuran más de 150 empresas y particulares del ámbito de la música y la tecnología."
+                "x": "Nile Rodgers compartió hace poco un fragmento de su próximo video para una nueva versión de “The Christmas Song”, su colaboración benéfica de 2020 con Rebecca Ferguson, y reveló con orgullo que se hizo con AI, algo que molestó a sus fans. El jueves defendió su uso de la tecnología."
               },
               {
                 "t": "p",
-                "x": "“Como una de las principales empresas de IA del mercado musical, su experiencia aportará una gran cantidad de conocimiento”, dijo Mark Isherwood, de la Secretaría de DDEX. “Esperamos participar en sus plenarios y grupos de trabajo para ayudar a definir su enfoque sobre la comunicación de la música, en lo relativo a la IA y más”, dijo Gabriella Heybourne, de ElevenLabs."
+                "x": "Rodgers dijo que produjo la canción para dar a niños enfermos y postrados en cama “un poco de #joy durante las fiestas”. Cuando algunos comentaristas le reprocharon el uso de AI generativa, respondió: “Lo creamos todo. Moodboards, storyboards, y lo hicimos igual que haríamos una película. La AI hizo lo que le dijimos y creamos minuciosamente cada segundo que verás en pantalla… Si fuera una película tradicional, habría costado unos $100,000”."
               },
               {
                 "t": "p",
-                "x": "ElevenLabs se une después de que el grupo de trabajo de IA de DDEX celebrara su primera reunión presencial en Nashville los días 9 y 10 de septiembre. El grupo ha terminado de recabar comentarios sobre el borrador de comité de su Generative AI Declaration Standard (GAI-D), que pasará a revisión por pares antes de publicarse a principios de 2027."
+                "x": "A otro comentarista le dijo que “es algo hipócrita decir que estás en contra de la AI y usarla todo el tiempo porque te hace la vida más cómoda”. Rodgers ya había mostrado su apoyo a la AI: en 2024 dijo a Euronews que copiar el sonido de otra persona con voces de AI es “horrible”, pero que usar AI para expresarse artísticamente es “fantástico”."
               }
             ]
           }
@@ -1261,109 +1181,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "DDEX 첫 AI 회원에\nElevenLabs 가입",
-          "body": "음악 메타데이터 기구 DDEX가 ElevenLabs를 첫 AI 회원으로 받았다.",
-          "mini_headline": "DDEX 첫 AI 회원",
+          "headline": "Nile Rodgers,\n자선 캐럴 영상 AI 옹호",
+          "body": "팬 반발에 Nile Rodgers는 팀이 다 만들고 AI는 지시만 따랐다고 했다.",
+          "mini_headline": "Nile Rodgers, AI 영상 옹호",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ddex-announces-elevenlabs-as-first-ai-company-to-join-membership.png",
-                "cap": "사진 출처: DDEX x ElevenLabs"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/11/NileRodgers-1.jpg?w=1581&h=1054&crop=1",
+                "cap": "DKMS Gala 2026에서 공연하는 Nile Rodgers. Astrid Stawiarz/Getty Images for DKMS Gala"
               },
               {
                 "t": "p",
-                "x": "음악 산업의 비영리 국제 표준 제정 기구 Digital Data Exchange(DDEX)가 ElevenLabs의 정회원 가입을 발표했다. AI 기업으로는 처음이다. DDEX에는 음악과 기술 분야의 기업과 개인 150곳 이상이 회원으로 참여하고 있다."
+                "x": "Nile Rodgers는 최근 Rebecca Ferguson과 2020년에 함께한 자선 협업곡 “The Christmas Song”의 새 버전을 위한 뮤직비디오 일부를 공개하며 AI를 썼다고 자랑스럽게 밝혔고, 팬들은 이를 문제 삼았다. 그는 목요일 이 기술을 쓴 것을 옹호했다."
               },
               {
                 "t": "p",
-                "x": "DDEX 사무국의 Mark Isherwood는 “음악 시장을 이끄는 AI 기업 중 하나로서 이들의 전문성은 풍부한 통찰을 줄 것”이라고 말했다. ElevenLabs의 Gabriella Heybourne은 “총회와 워킹그룹에 참여해 AI를 비롯한 음악 정보 전달 방식을 함께 만들어 가기를 기대한다”고 말했다."
+                "x": "Rodgers는 병상에 누워 있거나 아픈 아이들에게 “연말 시즌에 작은 #joy”를 주려고 이 곡을 제작했다고 말했다. 댓글 작성자들이 생성형 AI 사용을 문제 삼자 그는 이렇게 답했다. “우리가 모든 걸 만들었다. 무드 보드, 스토리보드를 만들고 영화를 만들 때와 똑같은 방식으로 작업했다. AI는 우리가 시킨 대로 했고, 화면에서 보게 될 모든 순간을 우리가 공들여 만들었다… 전통적인 영화였다면 약 $100,000가 들었을 것이다.”"
               },
               {
                 "t": "p",
-                "x": "ElevenLabs의 합류는 DDEX AI 워킹그룹이 9월 9일과 10일 내슈빌에서 첫 대면 회의를 연 뒤 이뤄졌다. 이 그룹은 생성형 AI 선언 표준(GAI-D) 위원회 초안에 대한 의견 수렴을 마쳤으며, 초안은 동료 검토를 거쳐 2027년 초 공개된다."
+                "x": "그는 또 다른 댓글 작성자에게 “삶을 편하게 해 준다는 이유로 늘 AI를 쓰면서 반AI라고 말하는 건 다소 위선적”이라고 했다. Rodgers는 이전에도 AI 지지 입장을 보였다. 2024년 Euronews에는 AI 보컬로 다른 사람의 사운드를 베끼는 것은 “끔찍하다”면서도, AI로 자신을 예술적으로 표현하는 것은 “환상적”이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "DDEX、初のAI会員に\nElevenLabsを迎える",
-          "body": "音楽メタデータ団体DDEXが、ElevenLabsを初のAI会員に迎えた。",
-          "mini_headline": "DDEX初のAI会員",
+          "headline": "Nile Rodgers\nクリスマス動画のAIを擁護",
+          "body": "ファンの反発にNile Rodgersは全てチームが作りAIは指示に従っただけだと述べた。",
+          "mini_headline": "Nile RodgersがAI動画を擁護",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ddex-announces-elevenlabs-as-first-ai-company-to-join-membership.png",
-                "cap": "写真提供：DDEX x ElevenLabs"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/11/NileRodgers-1.jpg?w=1581&h=1054&crop=1",
+                "cap": "DKMS Gala 2026で演奏するNile Rodgers。Astrid Stawiarz/Getty Images for DKMS Gala"
               },
               {
                 "t": "p",
-                "x": "音楽業界の非営利の国際標準化団体Digital Data Exchange（DDEX）は、ElevenLabsが正会員として加わったと発表した。AI企業としては初めてだ。DDEXの会員には、音楽とテクノロジー分野の150を超える企業と個人が名を連ねる。"
+                "x": "Nile Rodgersは最近、Rebecca Fergusonとの2020年のチャリティー共作「The Christmas Song」の新バージョンに向けた近日公開の映像の一部を公開し、AIを使ったと誇らしげに明かしたが、ファンはこれに反発した。木曜日、彼はこの技術の使用を擁護した。"
               },
               {
                 "t": "p",
-                "x": "「音楽市場をリードするAI企業の一つとして、彼らの専門知識は多くの洞察をもたらすだろう」とDDEX事務局のMark Isherwood氏は述べた。ElevenLabsのGabriella Heybourne氏は「総会やワーキンググループに参加し、AIなどに関わる音楽情報のやり取りのあり方づくりに貢献できることを楽しみにしている」と語った。"
+                "x": "Rodgersは、寝たきりの子どもや病気の子どもたちに「ホリデーシーズンにささやかな#joy」を届けるためにこの曲を制作したと述べた。生成AIの使用をコメント欄で批判されると、こう返した。「すべて私たちが作った。ムードボードもストーリーボードも作り、映画と同じやり方で進めた。AIは私たちの指示どおりに動き、画面で目にするすべての瞬間を私たちが丹念に作り上げた…従来の映画なら約$100,000かかっていただろう」"
               },
               {
                 "t": "p",
-                "x": "ElevenLabsの加入は、DDEXのAIワーキンググループが9月9日と10日にナッシュビルで初の対面会合を開いた後のことだ。同グループは生成AI申告標準（GAI-D）の委員会草案に対する意見募集を終えており、草案はピアレビューを経て2027年初めに公開される予定だ。"
+                "x": "別のコメント投稿者には「生活が便利になるからといって常にAIを使っているのに、反AIを名乗るのはいささか偽善的だ」と語った。Rodgersは以前からAIへの支持を示しており、2024年にはEuronewsに対し、AIボーカルで他人のサウンドを真似るのは「ひどい」が、AIを使って芸術的に自己表現するのは「素晴らしい」と話していた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "DDEX迎来首个\nAI会员ElevenLabs",
-          "body": "音乐元数据组织DDEX接纳ElevenLabs为首个AI会员，使其参与制定行业数据标准。",
-          "mini_headline": "DDEX首个AI会员",
+          "headline": "Nile Rodgers\n为圣诞慈善视频AI辩护",
+          "body": "面对粉丝反弹，Nile Rodgers称慈善视频全由团队创作，AI只是照指令行事。",
+          "mini_headline": "Nile Rodgers为AI视频辩护",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ddex-announces-elevenlabs-as-first-ai-company-to-join-membership.png",
-                "cap": "图片来源：DDEX x ElevenLabs"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/11/NileRodgers-1.jpg?w=1581&h=1054&crop=1",
+                "cap": "Nile Rodgers在DKMS Gala 2026上演出。Astrid Stawiarz/Getty Images for DKMS Gala"
               },
               {
                 "t": "p",
-                "x": "音乐产业的非营利国际标准制定组织Digital Data Exchange（DDEX）宣布，ElevenLabs以正式会员身份加入，成为首家加入的AI公司。DDEX的会员包括音乐和科技领域的150多家公司和个人。"
+                "x": "Nile Rodgers近日发布了一段即将推出的视频片段，该视频为他2020年与Rebecca Ferguson合作的慈善歌曲“The Christmas Song”的新版本而作。他自豪地透露视频使用了AI，引发粉丝不满。周四，他为自己使用这项技术进行了辩护。"
               },
               {
                 "t": "p",
-                "x": "DDEX秘书处的Mark Isherwood表示：“作为音乐市场领先的AI公司之一，他们的专业知识将带来丰富的洞见。”ElevenLabs的Gabriella Heybourne则表示：“我们期待参与他们的全体会议和工作组，帮助塑造与AI等相关的音乐信息传递方式。”"
+                "x": "Rodgers表示，他制作这首歌是为了给卧床和患病的孩子们“在节日期间带来一点#joy”。当评论者指责他使用生成式AI时，他回应称：“一切都是我们创作的。情绪板、故事板，我们完全按照拍电影的方式来做。AI按我们的指示行事，你在屏幕上看到的每一秒都是我们精心打造的……如果这是一部传统电影，大约要花$100,000。”"
               },
               {
                 "t": "p",
-                "x": "在ElevenLabs加入之前，DDEX的AI工作组于9月9日至10日在纳什维尔举行了首次线下会议。该工作组已完成对其生成式AI声明标准（GAI-D）委员会草案的意见征集，草案将进入同行评审，并于2027年初发布。"
+                "x": "他对另一位评论者说：“一边因为AI让生活更方便而一直在用它，一边又说自己反AI，这多少有些虚伪。”Rodgers此前就表达过对AI的支持，他在2024年对Euronews表示，用AI人声模仿他人的声音“很可怕”，但用AI进行艺术表达则“很棒”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "DDEX admite a ElevenLabs como\nsu primer miembro de IA",
-          "body": "DDEX, entidad de metadatos musicales, admite a ElevenLabs como su primer miembro de IA y le da voz en sus estándares.",
-          "mini_headline": "El primer miembro de IA de DDEX",
+          "headline": "Nile Rodgers defiende la AI\nen un video benéfico navideño",
+          "body": "Tras críticas de sus fans, Nile Rodgers dijo que su equipo creó todo en el video benéfico y que la AI solo obedeció.",
+          "mini_headline": "Nile Rodgers defiende su video con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ddex-announces-elevenlabs-as-first-ai-company-to-join-membership.png",
-                "cap": "Foto: DDEX x ElevenLabs"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/11/NileRodgers-1.jpg?w=1581&h=1054&crop=1",
+                "cap": "Nile Rodgers actúa durante la DKMS Gala 2026. Astrid Stawiarz/Getty Images for DKMS Gala"
               },
               {
                 "t": "p",
-                "x": "Digital Data Exchange (DDEX), la organización internacional sin ánimo de lucro que fija estándares para la industria musical, ha anunciado la incorporación de ElevenLabs como miembro de pleno derecho, la primera empresa de IA en hacerlo. Entre los miembros de DDEX figuran más de 150 empresas y particulares del ámbito de la música y la tecnología."
+                "x": "Nile Rodgers compartió hace poco un fragmento de su próximo video para una nueva versión de “The Christmas Song”, su colaboración benéfica de 2020 con Rebecca Ferguson, y reveló con orgullo que se hizo con AI, algo que molestó a sus fans. El jueves defendió su uso de la tecnología."
               },
               {
                 "t": "p",
-                "x": "“Como una de las principales empresas de IA del mercado musical, su experiencia aportará una gran cantidad de conocimiento”, dijo Mark Isherwood, de la Secretaría de DDEX. “Esperamos participar en sus plenarios y grupos de trabajo para ayudar a definir su enfoque sobre la comunicación de la música, en lo relativo a la IA y más”, dijo Gabriella Heybourne, de ElevenLabs."
+                "x": "Rodgers dijo que produjo la canción para dar a niños enfermos y postrados en cama “un poco de #joy durante las fiestas”. Cuando algunos comentaristas le reprocharon el uso de AI generativa, respondió: “Lo creamos todo. Moodboards, storyboards, y lo hicimos igual que haríamos una película. La AI hizo lo que le dijimos y creamos minuciosamente cada segundo que verás en pantalla… Si fuera una película tradicional, habría costado unos $100,000”."
               },
               {
                 "t": "p",
-                "x": "ElevenLabs se une después de que el grupo de trabajo de IA de DDEX celebrara su primera reunión presencial en Nashville los días 9 y 10 de septiembre. El grupo ha terminado de recabar comentarios sobre el borrador de comité de su Generative AI Declaration Standard (GAI-D), que pasará a revisión por pares antes de publicarse a principios de 2027."
+                "x": "A otro comentarista le dijo que “es algo hipócrita decir que estás en contra de la AI y usarla todo el tiempo porque te hace la vida más cómoda”. Rodgers ya había mostrado su apoyo a la AI: en 2024 dijo a Euronews que copiar el sonido de otra persona con voces de AI es “horrible”, pero que usar AI para expresarse artísticamente es “fantástico”."
               }
             ]
           }
@@ -1371,195 +1291,195 @@
       }
     },
     {
-      "id": "pianobench-arxiv-benchmark",
+      "id": "impala-cop31-ai-sustainability",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 듣는 음악을\nPianoBench로 시험",
-      "body": "PianoBench는 20,000시간 피아노 데이터로 모델의 음악 인식을 잰다.",
-      "mini_headline": "AI의 귀를 시험하는 피아노 테스트",
+      "headline": "IMPALA, COP31\n앞서 AI·지속가능성 촉구",
+      "body": "IMPALA는 COP31에 앞서 음악계와 정부에 AI·지속가능성 협력을 촉구했다.",
+      "mini_headline": "IMPALA, AI 지속가능성 행동 촉구",
       "tool": "Music",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2611.03839v1",
+      "source": "Music Week",
+      "url": "https://www.musicweek.com/labels/read/with-artificial-intelligence-on-cop31-agenda-impala-calls-for-action-on-ai-and-sustainability/095418",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "멀티모달 언어 모델은 폭넓은 음악 이해 벤치마크에서 성적이 꾸준히 오르고 있다. 그런데 이 모델들이 실제로 지각하고 추론하는 음악적 특징은 무엇일까. 저자들이 내놓은 PianoBench는 서로 일치하는 음향 입력 표현과 기호 입력 표현을 오가며 언어 모델에게 음악 연주를 추론하게 하는 벤치마크다."
-          },
-          {
             "t": "img",
-            "src": "https://arxiv.org/html/2611.03839v1/pianobench_overview.png",
-            "cap": "그림 1: PianoBench는 PianoTalk에서 나왔다. PianoTalk는 피아노 교습 영상의 해설과 음악 전사본을 교차 배열한 학습 규모(20k 시간) 데이터셋이다."
+            "src": "https://www.musicweek.com/cimages/ffe40ef230bdd2cad086506f9d5bf1d4.png",
+            "cap": "IMPALA"
           },
           {
             "t": "p",
-            "x": "PianoBench의 바탕은 피아노 교습 영상에서 얻은 음악 전사본과 음성 음악 해설을 교차 배열한 새 학습 규모 멀티모달 데이터셋으로, 분량이 20,000시간이 넘는다."
+            "x": "튀르키예에서 열리는 COP31(9-20 Nov)을 앞두고 IMPALA가 음악계와 각국 정부에 협력을 촉구했다. IMPALA 디지털 음악 계획에 담긴 AI와 그 밖의 지속가능성 사안이 대상이다."
           },
           {
             "t": "p",
-            "x": "오픈 웨이트 오디오-언어 모델의 정확도는 최대 52.8%에 머물러 오디오 없는 대조군을 조금 앞서는 데 그쳤다. 반면 생각의 사슬(chain of thought)을 쓰는 프런티어 모델은 음악 전사본을 텍스트로 받자 최대 93.2%까지 올라갔다. 오디오에서 음악적 특징을 지각하는 능력과 명시적으로 주어진 특징을 추론하는 능력 사이에 틈이 있다는 얘기다."
+            "x": "인공지능의 기후 영향이 COP31 의제에 오른 가운데, IMPALA는 계획의 우선순위 No.5인 ‘기후 영향을 줄이고 집단 혁신을 강화하기’를 앞세운다. 권고안은 AI 생성 콘텐츠 표시, 대량 업로드 중단, AI-related 사기 강력 대응, 생성형 AI 콘텐츠 호스팅의 탄소 영향을 보여줄 보고 지표를 제안한다."
           },
           {
             "t": "p",
-            "x": "교차 배열된 음악 교습 데이터로 중간 학습을 하자 Qwen 3.5 9B Base의 음악 전사본 제로샷 정확도는 인스트럭션 튜닝 후 42.8%에서 56.0%로 올랐다. 음악 멀티모달 지도 학습에서 교습 영상이 그동안 놓쳐 온 자료원일 수 있다는 결과다."
+            "x": "성명은 “AI-generated 콘텐츠와 사기를 통제하는 일도 필요하며, 여기서 AI는 모니터링을 돕는 데 유용하다”고 밝혔다. DSPs에는 저장된 트랙당·재생당 배출량 같은 지표를 써서 함께, 투명하게 영향을 줄이라고 요구했다."
+          },
+          {
+            "t": "p",
+            "x": "IMPALA 집행위원장 Helen Smith는 “올해 COP가 AI에 초점을 맞춘 것을 환영한다. 사무실과 기타 기능의 에너지 소비를 측정하고 줄이는 것과 같은 방식으로, 우리 모두 모든 산업에서 AI 적용의 영향을 측정해야 한다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "PianoBench tests what AI\nmodels hear in music",
-          "body": "PianoBench pairs a 20,000-hour piano dataset with tests of which musical features multimodal models can perceive.",
-          "mini_headline": "A piano test for AI ears",
+          "headline": "Ahead of COP31, IMPALA urges\naction on AI and sustainability",
+          "body": "IMPALA called on the music sector and governments to work together on AI and sustainability before COP31.",
+          "mini_headline": "IMPALA calls for\nAI sustainability action",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Multimodal language models continue to improve on broad music understanding benchmarks, but which musical features can they perceive and reason about? The authors introduce PianoBench, a benchmark that tasks language models with reasoning about musical performances across congruent acoustic and symbolic input representations."
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.03839v1/pianobench_overview.png",
-                "cap": "Figure 1: PianoBench is derived from PianoTalk, a training-scale (20k hours) dataset of interleaved commentary and music transcripts, which is derived from instructional piano videos."
+                "src": "https://www.musicweek.com/cimages/ffe40ef230bdd2cad086506f9d5bf1d4.png",
+                "cap": "IMPALA"
               },
               {
                 "t": "p",
-                "x": "PianoBench is derived from a new multimodal, training-scale dataset comprising more than 20,000 hours of interleaved transcripts of music and spoken musical commentary from instructional piano videos."
+                "x": "Ahead of COP31 (9-20 Nov) in Turkey, IMPALA has called on the music sector and governments to collaborate on AI and other sustainability-related aspects in IMPALA’s digital music plan."
               },
               {
                 "t": "p",
-                "x": "Open-weight audio-language models achieve at most 52.8% accuracy, only modestly outperforming a no-audio control. Frontier models using chain of thought achieve up to 93.2% when given transcripts of music as text, exposing a gap between perceiving musical features from audio and reasoning about them when given explicitly."
+                "x": "With the climate impact of artificial intelligence on the agenda at COP31, IMPALA is highlighting priority No.5 of its plan: reduce climate impact and strengthen collective innovation. Recommendations include labelling AI generated content, stopping mass uploading, taking tough action on AI-related fraud and proposing reporting metrics that would illustrate the carbon impact of hosting generative AI content."
               },
               {
                 "t": "p",
-                "x": "Mid-training on interleaved musical instruction raised Qwen 3.5 9B Base's zero-shot accuracy with music transcripts from 42.8% to 56.0% after instruction tuning, suggesting instructional videos may be an overlooked source of multimodal supervision for music."
+                "x": "“It also requires controlling AI-generated content and fraud, and here AI is useful to help monitor,” said a statement, urging DSPs to reduce their impact collaboratively and transparently, with metrics such as emissions per track stored and per play."
+              },
+              {
+                "t": "p",
+                "x": "Helen Smith, IMPALA executive chair, said: “We welcome that this year's COP focuses on AI. We all need to measure the impact of applying AI in all of our industries, in the same way as we measure and reduce energy consumption for our offices and other functions.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI가 듣는 음악을\nPianoBench로 시험",
-          "body": "PianoBench는 20,000시간 피아노 데이터로 모델의 음악 인식을 잰다.",
-          "mini_headline": "AI의 귀를 시험하는 피아노 테스트",
+          "headline": "IMPALA, COP31\n앞서 AI·지속가능성 촉구",
+          "body": "IMPALA는 COP31에 앞서 음악계와 정부에 AI·지속가능성 협력을 촉구했다.",
+          "mini_headline": "IMPALA, AI 지속가능성 행동 촉구",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "멀티모달 언어 모델은 폭넓은 음악 이해 벤치마크에서 성적이 꾸준히 오르고 있다. 그런데 이 모델들이 실제로 지각하고 추론하는 음악적 특징은 무엇일까. 저자들이 내놓은 PianoBench는 서로 일치하는 음향 입력 표현과 기호 입력 표현을 오가며 언어 모델에게 음악 연주를 추론하게 하는 벤치마크다."
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.03839v1/pianobench_overview.png",
-                "cap": "그림 1: PianoBench는 PianoTalk에서 나왔다. PianoTalk는 피아노 교습 영상의 해설과 음악 전사본을 교차 배열한 학습 규모(20k 시간) 데이터셋이다."
+                "src": "https://www.musicweek.com/cimages/ffe40ef230bdd2cad086506f9d5bf1d4.png",
+                "cap": "IMPALA"
               },
               {
                 "t": "p",
-                "x": "PianoBench의 바탕은 피아노 교습 영상에서 얻은 음악 전사본과 음성 음악 해설을 교차 배열한 새 학습 규모 멀티모달 데이터셋으로, 분량이 20,000시간이 넘는다."
+                "x": "튀르키예에서 열리는 COP31(9-20 Nov)을 앞두고 IMPALA가 음악계와 각국 정부에 협력을 촉구했다. IMPALA 디지털 음악 계획에 담긴 AI와 그 밖의 지속가능성 사안이 대상이다."
               },
               {
                 "t": "p",
-                "x": "오픈 웨이트 오디오-언어 모델의 정확도는 최대 52.8%에 머물러 오디오 없는 대조군을 조금 앞서는 데 그쳤다. 반면 생각의 사슬(chain of thought)을 쓰는 프런티어 모델은 음악 전사본을 텍스트로 받자 최대 93.2%까지 올라갔다. 오디오에서 음악적 특징을 지각하는 능력과 명시적으로 주어진 특징을 추론하는 능력 사이에 틈이 있다는 얘기다."
+                "x": "인공지능의 기후 영향이 COP31 의제에 오른 가운데, IMPALA는 계획의 우선순위 No.5인 ‘기후 영향을 줄이고 집단 혁신을 강화하기’를 앞세운다. 권고안은 AI 생성 콘텐츠 표시, 대량 업로드 중단, AI-related 사기 강력 대응, 생성형 AI 콘텐츠 호스팅의 탄소 영향을 보여줄 보고 지표를 제안한다."
               },
               {
                 "t": "p",
-                "x": "교차 배열된 음악 교습 데이터로 중간 학습을 하자 Qwen 3.5 9B Base의 음악 전사본 제로샷 정확도는 인스트럭션 튜닝 후 42.8%에서 56.0%로 올랐다. 음악 멀티모달 지도 학습에서 교습 영상이 그동안 놓쳐 온 자료원일 수 있다는 결과다."
+                "x": "성명은 “AI-generated 콘텐츠와 사기를 통제하는 일도 필요하며, 여기서 AI는 모니터링을 돕는 데 유용하다”고 밝혔다. DSPs에는 저장된 트랙당·재생당 배출량 같은 지표를 써서 함께, 투명하게 영향을 줄이라고 요구했다."
+              },
+              {
+                "t": "p",
+                "x": "IMPALA 집행위원장 Helen Smith는 “올해 COP가 AI에 초점을 맞춘 것을 환영한다. 사무실과 기타 기능의 에너지 소비를 측정하고 줄이는 것과 같은 방식으로, 우리 모두 모든 산업에서 AI 적용의 영향을 측정해야 한다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIは音楽の何を聴くか\nPianoBenchで検証",
-          "body": "PianoBenchは20,000時間のピアノデータで、モデルの音楽知覚を測る。",
-          "mini_headline": "AIの耳を試すピアノテスト",
+          "headline": "COP31前にIMPALA\nAIと持続可能性で行動要請",
+          "body": "IMPALAはCOP31を前に、音楽業界と各国政府にAIと持続可能性での協働を求めた。",
+          "mini_headline": "IMPALA、AIと持続可能性で行動要請",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "マルチモーダル言語モデルは幅広い音楽理解ベンチマークで性能を伸ばし続けているが、どの音楽的特徴を知覚し推論できるのか。著者らは、対応する音響表現と記号表現の入力にまたがって、言語モデルに音楽演奏について推論させるベンチマーク、PianoBenchを提案する。"
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.03839v1/pianobench_overview.png",
-                "cap": "図1：PianoBenchは、ピアノ教則動画から作られた解説と音楽の書き起こしを交互に並べた学習規模（20k 時間）のデータセットPianoTalkから派生している。"
+                "src": "https://www.musicweek.com/cimages/ffe40ef230bdd2cad086506f9d5bf1d4.png",
+                "cap": "IMPALA"
               },
               {
                 "t": "p",
-                "x": "PianoBenchは、ピアノ教則動画から得た音楽の書き起こしと音声による音楽解説を交互に並べた、20,000時間を超える新たな学習規模のマルチモーダルデータセットから派生している。"
+                "x": "トルコで開かれるCOP31（9-20 Nov）を前に、IMPALAは音楽業界と各国政府に対し、IMPALAのデジタル音楽計画に盛り込まれたAIやその他の持続可能性に関わる分野で協力するよう呼びかけた。"
               },
               {
                 "t": "p",
-                "x": "オープンウェイトの音声言語モデルの正解率は最大52.8%にとどまり、音声なしの対照条件をわずかに上回るだけだった。思考の連鎖（chain of thought）を用いるフロンティアモデルは、音楽の書き起こしをテキストで与えられると最大93.2%に達した。音声から音楽的特徴を知覚することと、明示的に与えられた特徴について推論することの間に隔たりがあることを示している。"
+                "x": "人工知能が気候に与える影響がCOP31の議題に上るなか、IMPALAは計画の優先事項No.5「気候への影響を減らし、集団的イノベーションを強化する」を強調している。提言には、AI生成コンテンツへのラベル付け、大量アップロードの阻止、AI-related（AI関連）の不正への厳しい対処、生成AIコンテンツのホスティングによる炭素への影響を示す報告指標の提案が含まれる。"
               },
               {
                 "t": "p",
-                "x": "音楽指導を交互に並べたデータで中間学習を行うと、Qwen 3.5 9B Baseの音楽書き起こしを用いたゼロショット正解率は、インストラクションチューニング後に42.8%から56.0%へ上昇した。教則動画が音楽のマルチモーダル教師信号として見過ごされてきた資源である可能性を示唆している。"
+                "x": "声明は「AI-generatedコンテンツと不正を管理することも必要であり、その監視にはAIが役立つ」と述べ、DSPsに対し、保存トラック当たり・再生当たりの排出量といった指標を用いて、協調的かつ透明に影響を減らすよう求めた。"
+              },
+              {
+                "t": "p",
+                "x": "IMPALAのエグゼクティブ・チェアであるHelen Smithは「今年のCOPがAIに焦点を当てていることを歓迎する。オフィスやその他の業務のエネルギー消費を測定し削減するのと同じように、私たちはあらゆる産業でAIを適用することの影響を測定する必要がある」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "PianoBench检验\nAI从音乐中听到什么",
-          "body": "PianoBench以20,000小时钢琴数据集，检验多模态模型能感知哪些音乐特征。",
-          "mini_headline": "测试AI听觉的钢琴基准",
+          "headline": "COP31前夕IMPALA\n呼吁AI与可持续行动",
+          "body": "IMPALA呼吁音乐行业与各国政府在COP31前就AI和可持续发展展开合作。",
+          "mini_headline": "IMPALA呼吁AI可持续行动",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "多模态语言模型在广泛的音乐理解基准上持续进步，但它们究竟能感知并推理哪些音乐特征？作者提出了PianoBench，这一基准要求语言模型在相互对应的声学与符号输入表示之间，对音乐演奏进行推理。"
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.03839v1/pianobench_overview.png",
-                "cap": "图1：PianoBench源自PianoTalk，这是一个训练规模（20k 小时）的数据集，由钢琴教学视频中交错排列的讲解与音乐转录构成。"
+                "src": "https://www.musicweek.com/cimages/ffe40ef230bdd2cad086506f9d5bf1d4.png",
+                "cap": "IMPALA"
               },
               {
                 "t": "p",
-                "x": "PianoBench源自一个全新的多模态训练规模数据集，其中包含超过20,000小时来自钢琴教学视频的音乐转录与口头音乐讲解，两者交错排列。"
+                "x": "在土耳其举行的COP31（9-20 Nov）召开前，IMPALA呼吁音乐行业与各国政府就IMPALA数字音乐计划中的AI及其他可持续发展相关事项展开合作。"
               },
               {
                 "t": "p",
-                "x": "开放权重的音频-语言模型准确率最高仅为52.8%，只略高于无音频对照组。使用思维链（chain of thought）的前沿模型在以文本形式获得音乐转录时，准确率最高可达93.2%，这暴露出从音频中感知音乐特征与在明确给定特征时进行推理之间的差距。"
+                "x": "随着人工智能的气候影响被列入COP31议程，IMPALA正着重强调其计划中的优先事项No.5：减少气候影响，加强集体创新。建议包括为AI生成内容添加标签、阻止大规模上传、严厉打击AI-related（与AI相关的）欺诈，以及提出可反映托管生成式AI内容碳影响的报告指标。"
               },
               {
                 "t": "p",
-                "x": "在交错排列的音乐教学数据上进行中期训练后，Qwen 3.5 9B Base在指令微调后使用音乐转录的零样本准确率从42.8%升至56.0%，这表明教学视频可能是音乐多模态监督中一个被忽视的来源。"
+                "x": "一份声明称：“这还需要管控AI-generated内容和欺诈，而在这方面AI有助于监测。”声明敦促DSPs以协作且透明的方式减少影响，并采用每首存储曲目和每次播放的排放量等指标。"
+              },
+              {
+                "t": "p",
+                "x": "IMPALA执行主席Helen Smith表示：“我们欢迎今年的COP聚焦AI。我们都需要衡量在各行各业应用AI的影响，就像我们衡量并减少办公室和其他职能的能源消耗一样。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "PianoBench evalúa qué oyen\nen la música los modelos de IA",
-          "body": "PianoBench une 20.000 horas de datos de piano con pruebas de qué rasgos musicales perciben los modelos multimodales.",
-          "mini_headline": "Una prueba de piano para el oído de la IA",
+          "headline": "Antes de la COP31, IMPALA pide\nactuar en IA y sostenibilidad",
+          "body": "IMPALA pidió al sector musical y a los gobiernos colaborar en IA y sostenibilidad antes de la COP31.",
+          "mini_headline": "IMPALA pide actuar en\nIA y sostenibilidad",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Los modelos de lenguaje multimodales siguen mejorando en pruebas amplias de comprensión musical, pero ¿qué rasgos musicales pueden percibir y sobre cuáles pueden razonar? Los autores presentan PianoBench, un benchmark que pide a los modelos de lenguaje razonar sobre interpretaciones musicales a partir de representaciones de entrada acústicas y simbólicas equivalentes."
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.03839v1/pianobench_overview.png",
-                "cap": "Figura 1: PianoBench deriva de PianoTalk, un conjunto de datos a escala de entrenamiento (20k horas) de comentarios y transcripciones musicales intercalados, obtenido de vídeos didácticos de piano."
+                "src": "https://www.musicweek.com/cimages/ffe40ef230bdd2cad086506f9d5bf1d4.png",
+                "cap": "IMPALA"
               },
               {
                 "t": "p",
-                "x": "PianoBench deriva de un nuevo conjunto de datos multimodal a escala de entrenamiento con más de 20.000 horas de transcripciones musicales intercaladas con comentarios musicales hablados, procedentes de vídeos didácticos de piano."
+                "x": "Antes de la COP31 (9-20 nov.) en Turquía, IMPALA ha pedido al sector musical y a los gobiernos que colaboren en materia de IA y otros aspectos relacionados con la sostenibilidad incluidos en el plan de música digital de IMPALA."
               },
               {
                 "t": "p",
-                "x": "Los modelos de audio y lenguaje de pesos abiertos logran como máximo un 52.8% de precisión, apenas por encima de un control sin audio. Los modelos de frontera que usan cadena de pensamiento alcanzan hasta un 93.2% cuando reciben las transcripciones musicales como texto, lo que revela una brecha entre percibir rasgos musicales a partir del audio y razonar sobre ellos cuando se dan de forma explícita."
+                "x": "Con el impacto climático de la inteligencia artificial en la agenda de la COP31, IMPALA destaca la prioridad No.5 de su plan: reducir el impacto climático y reforzar la innovación colectiva. Entre las recomendaciones figuran etiquetar el contenido generado por IA, frenar las subidas masivas, actuar con firmeza contra el fraude relacionado con la IA (AI-related) y proponer métricas de reporte que muestren el impacto de carbono de alojar contenido de IA generativa."
               },
               {
                 "t": "p",
-                "x": "El entrenamiento intermedio con instrucción musical intercalada elevó la precisión zero-shot de Qwen 3.5 9B Base con transcripciones musicales del 42.8% al 56.0% tras el ajuste por instrucciones, lo que sugiere que los vídeos didácticos pueden ser una fuente pasada por alto de supervisión multimodal para la música."
+                "x": "“También exige controlar el contenido generado por IA (AI-generated) y el fraude, y aquí la IA es útil para ayudar a vigilar”, señaló un comunicado, que instó a las DSPs a reducir su impacto de forma colaborativa y transparente, con métricas como las emisiones por pista almacenada y por reproducción."
+              },
+              {
+                "t": "p",
+                "x": "Helen Smith, presidenta ejecutiva de IMPALA, dijo: “Celebramos que la COP de este año se centre en la IA. Todos necesitamos medir el impacto de aplicar la IA en todas nuestras industrias, del mismo modo que medimos y reducimos el consumo de energía de nuestras oficinas y otras funciones”."
               }
             ]
           }
@@ -1567,125 +1487,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI가 듣는 음악을\nPianoBench로 시험",
-          "body": "PianoBench는 20,000시간 피아노 데이터로 모델의 음악 인식을 잰다.",
-          "mini_headline": "AI의 귀를 시험하는 피아노 테스트",
+          "headline": "IMPALA, COP31\n앞서 AI·지속가능성 촉구",
+          "body": "IMPALA는 COP31에 앞서 음악계와 정부에 AI·지속가능성 협력을 촉구했다.",
+          "mini_headline": "IMPALA, AI 지속가능성 행동 촉구",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "멀티모달 언어 모델은 폭넓은 음악 이해 벤치마크에서 꾸준히 성적을 높이고 있다. 그렇다면 이 모델들은 어떤 음악적 특징을 지각하고 추론할 수 있을까. 저자들은 서로 일치하는 음향 입력 표현과 기호 입력 표현을 오가며 언어 모델이 음악 연주를 추론하도록 하는 벤치마크 PianoBench를 소개한다."
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.03839v1/pianobench_overview.png",
-                "cap": "그림 1: PianoBench는 PianoTalk에서 파생됐다. PianoTalk는 피아노 교습 영상에서 얻은 해설과 음악 전사본을 교차 배열한 학습 규모(20k 시간)의 데이터셋이다."
+                "src": "https://www.musicweek.com/cimages/ffe40ef230bdd2cad086506f9d5bf1d4.png",
+                "cap": "IMPALA"
               },
               {
                 "t": "p",
-                "x": "PianoBench는 피아노 교습 영상에서 나온 음악 전사본과 음성 음악 해설을 교차 배열한 20,000시간 이상 분량의 새로운 학습 규모 멀티모달 데이터셋에서 파생됐다."
+                "x": "튀르키예에서 열리는 COP31(9-20 Nov)을 앞두고, IMPALA는 음악계와 각국 정부에 IMPALA 디지털 음악 계획에 담긴 AI 및 기타 지속가능성 관련 사안에서 협력하라고 촉구했다."
               },
               {
                 "t": "p",
-                "x": "오픈 웨이트 오디오-언어 모델의 정확도는 최대 52.8%로, 오디오 없는 대조군을 소폭 앞서는 데 그쳤다. 생각의 사슬(chain of thought)을 쓰는 프런티어 모델은 음악 전사본을 텍스트로 받으면 최대 93.2%를 기록했다. 오디오에서 음악적 특징을 지각하는 능력과 명시적으로 주어진 특징을 추론하는 능력 사이에 격차가 있다는 뜻이다."
+                "x": "인공지능의 기후 영향이 COP31 의제에 오른 가운데, IMPALA는 계획의 우선순위 No.5인 ‘기후 영향을 줄이고 집단 혁신을 강화하기’를 강조하고 있다. 권고안에는 AI 생성 콘텐츠 표시, 대량 업로드 중단, AI-related 사기에 대한 강력한 조치, 생성형 AI 콘텐츠 호스팅의 탄소 영향을 보여줄 보고 지표 제안이 들어 있다."
               },
               {
                 "t": "p",
-                "x": "교차 배열된 음악 교습 데이터로 중간 학습을 하자 Qwen 3.5 9B Base의 음악 전사본 제로샷 정확도는 인스트럭션 튜닝 후 42.8%에서 56.0%로 올랐다. 교습 영상이 음악 멀티모달 지도 학습에서 간과된 자료원일 수 있음을 시사한다."
+                "x": "성명은 “AI-generated 콘텐츠와 사기를 통제하는 일도 필요하며, 여기서 AI는 모니터링을 돕는 데 유용하다”고 밝히고, DSPs가 저장된 트랙당·재생당 배출량 같은 지표로 협력적이고 투명하게 영향을 줄여야 한다고 촉구했다."
+              },
+              {
+                "t": "p",
+                "x": "IMPALA 집행위원장 Helen Smith는 “올해 COP가 AI에 초점을 맞춘 것을 환영한다. 사무실과 기타 기능의 에너지 소비를 측정하고 줄이는 것과 같은 방식으로, 우리 모두 모든 산업에서 AI 적용의 영향을 측정해야 한다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIは音楽の何を聴くか\nPianoBenchで検証",
-          "body": "PianoBenchは20,000時間のピアノデータで、モデルの音楽知覚を測る。",
-          "mini_headline": "AIの耳を試すピアノテスト",
+          "headline": "COP31前にIMPALA\nAIと持続可能性で行動要請",
+          "body": "IMPALAはCOP31を前に、音楽業界と各国政府にAIと持続可能性での協働を求めた。",
+          "mini_headline": "IMPALA、AIと持続可能性で行動要請",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "マルチモーダル言語モデルは幅広い音楽理解ベンチマークで性能を伸ばし続けているが、どの音楽的特徴を知覚し推論できるのか。著者らは、対応する音響表現と記号表現の入力にまたがって、言語モデルに音楽演奏について推論させるベンチマーク、PianoBenchを提案する。"
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.03839v1/pianobench_overview.png",
-                "cap": "図1：PianoBenchは、ピアノ教則動画から作られた解説と音楽の書き起こしを交互に並べた学習規模（20k 時間）のデータセットPianoTalkから派生している。"
+                "src": "https://www.musicweek.com/cimages/ffe40ef230bdd2cad086506f9d5bf1d4.png",
+                "cap": "IMPALA"
               },
               {
                 "t": "p",
-                "x": "PianoBenchは、ピアノ教則動画から得た音楽の書き起こしと音声による音楽解説を交互に並べた、20,000時間を超える新たな学習規模のマルチモーダルデータセットから派生している。"
+                "x": "トルコで開かれるCOP31（9-20 Nov）を前に、IMPALAは音楽業界と各国政府に対し、IMPALAのデジタル音楽計画に盛り込まれたAIやその他の持続可能性に関わる分野で協力するよう呼びかけた。"
               },
               {
                 "t": "p",
-                "x": "オープンウェイトの音声言語モデルの正解率は最大52.8%にとどまり、音声なしの対照条件をわずかに上回るだけだった。思考の連鎖（chain of thought）を用いるフロンティアモデルは、音楽の書き起こしをテキストで与えられると最大93.2%に達した。音声から音楽的特徴を知覚することと、明示的に与えられた特徴について推論することの間に隔たりがあることを示している。"
+                "x": "人工知能が気候に与える影響がCOP31の議題に上るなか、IMPALAは計画の優先事項No.5「気候への影響を減らし、集団的イノベーションを強化する」を強調している。提言には、AI生成コンテンツへのラベル付け、大量アップロードの阻止、AI-related（AI関連）の不正への厳しい対処、生成AIコンテンツのホスティングによる炭素への影響を示す報告指標の提案が含まれる。"
               },
               {
                 "t": "p",
-                "x": "音楽指導を交互に並べたデータで中間学習を行うと、Qwen 3.5 9B Baseの音楽書き起こしを用いたゼロショット正解率は、インストラクションチューニング後に42.8%から56.0%へ上昇した。教則動画が音楽のマルチモーダル教師信号として見過ごされてきた資源である可能性を示唆している。"
+                "x": "声明は「AI-generatedコンテンツと不正を管理することも必要であり、その監視にはAIが役立つ」と述べ、DSPsに対し、保存トラック当たり・再生当たりの排出量といった指標を用いて、協調的かつ透明に影響を減らすよう求めた。"
+              },
+              {
+                "t": "p",
+                "x": "IMPALAのエグゼクティブ・チェアであるHelen Smithは「今年のCOPがAIに焦点を当てていることを歓迎する。オフィスやその他の業務のエネルギー消費を測定し削減するのと同じように、私たちはあらゆる産業でAIを適用することの影響を測定する必要がある」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "PianoBench检验\nAI从音乐中听到什么",
-          "body": "PianoBench以20,000小时钢琴数据集，检验多模态模型能感知哪些音乐特征。",
-          "mini_headline": "测试AI听觉的钢琴基准",
+          "headline": "COP31前夕IMPALA\n呼吁AI与可持续行动",
+          "body": "IMPALA呼吁音乐行业与各国政府在COP31前就AI和可持续发展展开合作。",
+          "mini_headline": "IMPALA呼吁AI可持续行动",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "多模态语言模型在广泛的音乐理解基准上持续进步，但它们究竟能感知并推理哪些音乐特征？作者提出了PianoBench，这一基准要求语言模型在相互对应的声学与符号输入表示之间，对音乐演奏进行推理。"
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.03839v1/pianobench_overview.png",
-                "cap": "图1：PianoBench源自PianoTalk，这是一个训练规模（20k 小时）的数据集，由钢琴教学视频中交错排列的讲解与音乐转录构成。"
+                "src": "https://www.musicweek.com/cimages/ffe40ef230bdd2cad086506f9d5bf1d4.png",
+                "cap": "IMPALA"
               },
               {
                 "t": "p",
-                "x": "PianoBench源自一个全新的多模态训练规模数据集，其中包含超过20,000小时来自钢琴教学视频的音乐转录与口头音乐讲解，两者交错排列。"
+                "x": "在土耳其举行的COP31（9-20 Nov）召开前，IMPALA呼吁音乐行业与各国政府就IMPALA数字音乐计划中的AI及其他可持续发展相关事项展开合作。"
               },
               {
                 "t": "p",
-                "x": "开放权重的音频-语言模型准确率最高仅为52.8%，只略高于无音频对照组。使用思维链（chain of thought）的前沿模型在以文本形式获得音乐转录时，准确率最高可达93.2%，这暴露出从音频中感知音乐特征与在明确给定特征时进行推理之间的差距。"
+                "x": "随着人工智能的气候影响被列入COP31议程，IMPALA正着重强调其计划中的优先事项No.5：减少气候影响，加强集体创新。建议包括为AI生成内容添加标签、阻止大规模上传、严厉打击AI-related（与AI相关的）欺诈，以及提出可反映托管生成式AI内容碳影响的报告指标。"
               },
               {
                 "t": "p",
-                "x": "在交错排列的音乐教学数据上进行中期训练后，Qwen 3.5 9B Base在指令微调后使用音乐转录的零样本准确率从42.8%升至56.0%，这表明教学视频可能是音乐多模态监督中一个被忽视的来源。"
+                "x": "一份声明称：“这还需要管控AI-generated内容和欺诈，而在这方面AI有助于监测。”声明敦促DSPs以协作且透明的方式减少影响，并采用每首存储曲目和每次播放的排放量等指标。"
+              },
+              {
+                "t": "p",
+                "x": "IMPALA执行主席Helen Smith表示：“我们欢迎今年的COP聚焦AI。我们都需要衡量在各行各业应用AI的影响，就像我们衡量并减少办公室和其他职能的能源消耗一样。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "PianoBench evalúa qué oyen\nen la música los modelos de IA",
-          "body": "PianoBench une 20.000 horas de datos de piano con pruebas de qué rasgos musicales perciben los modelos multimodales.",
-          "mini_headline": "Una prueba de piano para el oído de la IA",
+          "headline": "Antes de la COP31, IMPALA pide\nactuar en IA y sostenibilidad",
+          "body": "IMPALA pidió al sector musical y a los gobiernos colaborar en IA y sostenibilidad antes de la COP31.",
+          "mini_headline": "IMPALA pide actuar en\nIA y sostenibilidad",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Los modelos de lenguaje multimodales siguen mejorando en pruebas amplias de comprensión musical, pero ¿qué rasgos musicales pueden percibir y sobre cuáles pueden razonar? Los autores presentan PianoBench, un benchmark que pide a los modelos de lenguaje razonar sobre interpretaciones musicales a partir de representaciones de entrada acústicas y simbólicas equivalentes."
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.03839v1/pianobench_overview.png",
-                "cap": "Figura 1: PianoBench deriva de PianoTalk, un conjunto de datos a escala de entrenamiento (20k horas) de comentarios y transcripciones musicales intercalados, obtenido de vídeos didácticos de piano."
+                "src": "https://www.musicweek.com/cimages/ffe40ef230bdd2cad086506f9d5bf1d4.png",
+                "cap": "IMPALA"
               },
               {
                 "t": "p",
-                "x": "PianoBench deriva de un nuevo conjunto de datos multimodal a escala de entrenamiento con más de 20.000 horas de transcripciones musicales intercaladas con comentarios musicales hablados, procedentes de vídeos didácticos de piano."
+                "x": "Antes de la COP31 (9-20 nov.) en Turquía, IMPALA ha pedido al sector musical y a los gobiernos que colaboren en materia de IA y otros aspectos relacionados con la sostenibilidad incluidos en el plan de música digital de IMPALA."
               },
               {
                 "t": "p",
-                "x": "Los modelos de audio y lenguaje de pesos abiertos logran como máximo un 52.8% de precisión, apenas por encima de un control sin audio. Los modelos de frontera que usan cadena de pensamiento alcanzan hasta un 93.2% cuando reciben las transcripciones musicales como texto, lo que revela una brecha entre percibir rasgos musicales a partir del audio y razonar sobre ellos cuando se dan de forma explícita."
+                "x": "Con el impacto climático de la inteligencia artificial en la agenda de la COP31, IMPALA destaca la prioridad No.5 de su plan: reducir el impacto climático y reforzar la innovación colectiva. Entre las recomendaciones figuran etiquetar el contenido generado por IA, frenar las subidas masivas, actuar con firmeza contra el fraude relacionado con la IA (AI-related) y proponer métricas de reporte que muestren el impacto de carbono de alojar contenido de IA generativa."
               },
               {
                 "t": "p",
-                "x": "El entrenamiento intermedio con instrucción musical intercalada elevó la precisión zero-shot de Qwen 3.5 9B Base con transcripciones musicales del 42.8% al 56.0% tras el ajuste por instrucciones, lo que sugiere que los vídeos didácticos pueden ser una fuente pasada por alto de supervisión multimodal para la música."
+                "x": "“También exige controlar el contenido generado por IA (AI-generated) y el fraude, y aquí la IA es útil para ayudar a vigilar”, señaló un comunicado, que instó a las DSPs a reducir su impacto de forma colaborativa y transparente, con métricas como las emisiones por pista almacenada y por reproducción."
+              },
+              {
+                "t": "p",
+                "x": "Helen Smith, presidenta ejecutiva de IMPALA, dijo: “Celebramos que la COP de este año se centre en la IA. Todos necesitamos medir el impacto de aplicar la IA en todas nuestras industrias, del mismo modo que medimos y reducimos el consumo de energía de nuestras oficinas y otras funciones”."
               }
             ]
           }

@@ -14522,6 +14522,143 @@
           "x": "AI 동반자에게 감정이 있다고 여기는 태도는 더 나은 웰빙과도, 더 큰 취약성과도 연관됐다. 따뜻하고 다정하게 느껴지는 동반자는 웰빙을 높이고 취약성은 낮췄다. 연구진은 앱을 바꾸기 전에 사용자와 상의하고, 관계가 끊겼을 때 대처하도록 도우며, AI 동반자가 실제로 감정을 느끼지 않는다는 사실을 분명히 알리라고 권고했다."
         }
       ]
+    },
+    "science/autodna-sjtu-selfdriving-lab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03552-8/d41586-026-03552-8_53940190.jpg",
+          "cap": "자율 실험실 AutoDNA는 DNA 조각을 이루는 ‘글자’를 읽어 낸다."
+        },
+        {
+          "t": "p",
+          "x": "중국 상하이교통대(Shanghai Jiao Tong University)의 한 독특한 유전학 실험실에서는 인공지능이 움직이는 로봇 팀이 사람 손을 거의 빌리지 않고 실험을 설계하고 수행한다."
+        },
+        {
+          "t": "p",
+          "x": "Nature에 소개된 이 시설은 AI가 이끄는 ‘자율주행’ 실험실로 가는 최신 단계 가운데 하나다. 로봇 팔이 시료를 나르는 이곳은 20종이 넘는 장비를 다루고 한 프로젝트에서 수천 건의 작업을 해낸다. DNA 합성과 시퀀싱이 들어간 실험도 할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "사람 운영자가 간단한 프롬프트를 주면 AI 에이전트 팀이 실험을 처음부터 끝까지 설계하고 실행한다. 이후 사람이 할 일은 시약 교체와 하드웨어 정비뿐이다."
+        },
+        {
+          "t": "p",
+          "x": "노스캐롤라이나주립대(North Carolina State University)의 Milad Abolhasani는 “과학의 미래에는 자율 실험실이 많이 등장할 것”이라고 말한다. 공동 저자 Haibo Chen은 기존 시스템에 AI를 덧붙인 게 아니라 처음부터 AI를 염두에 두고 AutoDNA를 만들었다고 설명했다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 DNA에서 암 관련 돌연변이를 찾아내거나 “지능은 변화에 적응하는 능력이다”라는 문장을 DNA의 네 염기로 암호화하는 프로젝트로 시스템을 시험했다."
+        }
+      ]
+    },
+    "science/mit-chemeleon-molecule-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202610/mit-cheme-chemeleon.jpg"
+        },
+        {
+          "t": "p",
+          "x": "MIT가 개발한 새 방법은 새로 발견된 약물 표적의 리간드 친화도처럼 기술적으로 중요한 특성의 데이터가 적을 때, 살펴볼 만한 분자를 기존 방법보다 잘 추려 낼 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "오픈소스 모델 CheMeleon은 ChemProp을 바탕으로 만들었고 Journal of Chemical Information and Modeling에 보고됐다. OpenADMET 대회 상위 20개 출품작 가운데 아홉 개가 CheMeleon을 썼다. 한 제약사는 모든 특성 모델을 CheMeleon으로 시작하기로 방침을 정했다."
+        },
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202610/chemeleon_toc.png"
+        },
+        {
+          "t": "p",
+          "x": "CheMeleon은 사전 학습된 파운데이션 모델이다. PubChem에 있는 분자 백만 개의 분자 기술자로 학습해 약 1,600개 기술자 목록을 예측한다. 이후 용해도에서 생물활성까지 여러 특성에 맞춰 미세 조정할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Zalte는 “관심 있는 과제에 대한 데이터 몇 개만으로 미세 조정해도 꽤 좋은 성능을 얻을 수 있다”고 말한다. 58개 테스트 사례 전반에서도 “우리 모델이 가장 앞선다”고 했다."
+        }
+      ]
+    },
+    "science/mitomatch-alphafold-mito-screen": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-27.jpg",
+          "cap": "AlphaFold-Multimer를 분류 모델로 써서 미토콘드리아 단백질 간 상호작용을 예측한다. Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77112-z"
+        },
+        {
+          "t": "p",
+          "x": "Texas A&M AgriLife Research 연구진은 Google DeepMind의 AI 도구 AlphaFold-Multimer로 사람 미토콘드리아 단백질 약 1,100개 사이에서 나올 수 있는 쌍 약 630,000개를 걸러 냈다. 단백질끼리 어떻게 결합할지 예측하는 도구다."
+        },
+        {
+          "t": "p",
+          "x": "가능성 높은 상호작용 2,895건이 나왔고, 그중 절반 이상은 이전에 보고된 적이 없다. 기능이 알려지지 않았던 단백질 85개도 유력한 결합 상대를 얻었으며 일부는 효모와 사람 세포에서 확인됐다."
+        },
+        {
+          "t": "p",
+          "x": "제1저자 Abhinav Swaminathan은 “이 개별 단백질들의 기능을 모르면, 이들이 일으킬 수 있는 질병을 어떻게 치료할지 정할 수 없다”고 말했다. 그는 치료법까지는 아직 멀었겠지만 이 접근법이 실질적인 출발점이 된다고 덧붙였다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 예측 결과를 MitoMatch라는 이름의 무료 자료로 공개했다. 연구는 Nature Communications에 실렸다."
+        }
+      ]
+    },
+    "science/sydney-riddled-basins-training": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sydney-researchers-unc.jpg",
+          "cap": "Credit: Professor Pulin Gong/The University of Sydney"
+        },
+        {
+          "t": "p",
+          "x": "University of Sydney의 Pulin Gong과 Andrew Ly는 Nature Machine Intelligence에 실은 연구에서 AI가 예측을 벗어나는 원인 일부가 하드웨어나 데이터 순서의 잡음이 아니라 신경망 학습의 수학 자체에 있다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "학습 결과를 가르는 초기 조건 영역은 ‘구멍 난 분지(riddled basins)’라는 복잡한 프랙털을 이룬다. 초기 조건이 아주 조금만 달라도 결과가 바뀔 수 있는 이유다. “우리 연구 결과는 더 깊은 무언가를 가리킨다.”"
+        },
+        {
+          "t": "p",
+          "x": "한 이미지 인식 신경망은 초기 설정을 100억 배 더 정밀하게 맞춰도 재현성이 나아지지 않았다. 한 비트만 바꿔도 약 48%의 경우 다른 구성에 도달했다. 학습된 신경망 약 500,000개 전반에서 이런 패턴이 폭넓게 나타났다."
+        },
+        {
+          "t": "p",
+          "x": "상충 관계도 드러났다. 가장 잘 작동하는 학습 설정일수록 결과를 재현하기 어렵고, 학습률을 낮추면 재현성은 나아지지만 학습 효과는 떨어진다."
+        }
+      ]
+    },
+    "science/llnl-strata-stitch-emulators": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula.jpg",
+          "cap": "STRATA 에뮬레이터의 목표는 비용이 크고 오래 걸리는 시뮬레이션 없이 장기 날씨를 정확히 예측하는 것이다. 출처: Peter Caldwell 그래픽"
+        },
+        {
+          "t": "p",
+          "x": "십 년 뒤를 모델링하려면 세계 최고 수준의 슈퍼컴퓨터로도 몇 달이 걸린다. Lawrence Livermore National Laboratory(LLNL) 연구진은 에뮬레이터로 몇 달에서 몇 년 뒤의 날씨를 더 빠르고 정확하게 예측하려 한다."
+        },
+        {
+          "t": "p",
+          "x": "E3SM은 물리 방정식을 풀어 대기를 3킬로미터 해상도로 시뮬레이션한다. LLNL, DOE, NVIDIA 과학자들은 방식을 바꿨다. E3SM 같은 모델의 출력으로 STRATA라는 에뮬레이터를 학습시켜, 물리 방정식을 한 번도 풀지 않고 며칠, 몇 달, 몇 년 뒤의 대기를 예측하게 한 것이다. LLNL 과학자 Yunyan Zhang은 \"에뮬레이터에서는 심층 신경망 같은 머신러닝을 써서 실제 물리가 했을 일을 흉내 낸다\"고 말했다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula-1.jpg",
+          "cap": "STRATA 에뮬레이터의 12시간 예보(위)와 Simple Cloud-Resolving E3SM Atmosphere Model(SCREAM, 아래) 비교. 출처: Peter Caldwell 그래픽"
+        },
+        {
+          "t": "p",
+          "x": "빠른 만큼 과학자들은 시뮬레이션을 수백 번 돌려 여러 예측을 한꺼번에 비교할 수 있다. Los Alamos가 이끄는 MAGGIE 프로젝트는 생성 모델로 초기 조건을 만든다. 이 프로젝트를 두고 Peter Caldwell은 \"물리 기반 모델로 이 앙상블 시뮬레이션을 했다면 석 달이 걸렸을 것\"이라며 \"새 에뮬레이터로는 주말 사이에 끝냈다\"고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Zhang이 이끄는 STITCH 프로젝트는 DOE Genesis Mission의 하나로, 구름 미세물리와 소규모 난류를 국지적으로 시뮬레이션한 결과로 에뮬레이터를 학습시킨다. 여기서 나온 결과를 E3SM에 넣을 수 있고, E3SM은 다시 STRATA의 새 학습 데이터가 된다."
+        }
+      ]
     }
   }
 }

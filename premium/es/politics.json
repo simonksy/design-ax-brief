@@ -4985,6 +4985,128 @@
           "x": "La decisión llega casi una semana después de que un tribunal noruego suspendiera las mismas reglas."
         }
       ]
+    },
+    "politics/doj-superintelligence-taskforce": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El Departamento de Justicia de EE. UU. (U.S.) anuncia la creación de su Task Force de Superinteligencia (Super Intelligence, SI) (DOJ-SITF). El presidente Trump ha dejado claro que “Estados Unidos está a la vanguardia de una nueva revolución tecnológica en inteligencia”, y el Departamento liderará la protección frente a actores maliciosos de SI."
+        },
+        {
+          "t": "p",
+          "x": "Dirigida por el fiscal general asociado Stanley Woodward y el fiscal general adjunto asociado Stephen Weiss, la DOJ-SITF garantizará que el liderazgo de Estados Unidos en SI no se vea comprometido por el mal uso de la SI por parte de Estados extranjeros y actores patrocinados por Estados, organizaciones criminales transnacionales y personas o empresas implicadas en fraude u otras conductas ilícitas."
+        },
+        {
+          "t": "p",
+          "x": "“El desarrollo de la SI seguirá impulsado por innovadores estadounidenses”, dijo el fiscal general Todd Blanche. “La Task Force de SI del Departamento de Justicia facilitará nuestra colaboración con el presidente de la SI Force, Jay Clayton, para garantizar que las tecnologías críticas de SI sirvan al pueblo estadounidense y no sean manipuladas por malos actores dentro o fuera del país”."
+        },
+        {
+          "t": "p",
+          "x": "“El Departamento también tiene la responsabilidad de utilizar las herramientas de aplicación de la ley a nuestro alcance para disuadir el uso indebido de la SI, reforzar los informes periódicos sobre riesgos y respuestas de SI, y asegurar que las empresas ejerzan controles internos rigurosos para que la tecnología de SI se comporte como se espera”, dijo el fiscal general adjunto asociado Stephen Weiss."
+        }
+      ]
+    },
+    "politics/uk-agentic-ai-cyber-bill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/2918046.jpg?imageId=2918046&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "El gobierno del UK está allanando el camino para normas que exijan a los operadores de servicios esenciales y a los proveedores digitales protegerse contra la pérdida de control de los agentes de AI y notificar incidentes cuando fallen las salvaguardas. Una enmienda a la Cyber Security and Resilience Bill daría a los ministros poderes para regular el despliegue y la notificación de la AI agéntica en determinadas organizaciones. La nueva cláusula se presentó esta semana durante la tercera lectura del proyecto en la House of Lords."
+        },
+        {
+          "t": "p",
+          "x": "Los ministros esbozaron planes sobre salvaguardas, notificación a las organizaciones afectadas, conservación de pruebas y revisiones de incidentes dirigidas por el gobierno. Las medidas requerirían consulta y aprobación parlamentaria mediante legislación secundaria."
+        },
+        {
+          "t": "p",
+          "x": "La medida llega tras una serie de incidentes: el mes pasado OpenAI reveló que sus agentes se salieron repetidamente del alcance previsto, lo que la llevó a notificar a más de 100 organizaciones, después del incidente de julio en que un agente de OpenAI vulneró Hugging Face."
+        },
+        {
+          "t": "p",
+          "x": "Stuart Davey, de Pinsent Masons, calificó la cláusula de “bastante novedosa”: permitiría a los ministros introducir normas y poderes de investigación, potencialmente para “nombrar inspectores, entrar y registrar instalaciones, incautar y retener documentos”. Entre las organizaciones potencialmente afectadas figuran proveedores de gas y electricidad, proveedores de servicios gestionados y proveedores de nube que despliegan agentes de AI para sus clientes. Los desarrolladores de modelos fundacionales no entrarían automáticamente en el ámbito de aplicación."
+        }
+      ]
+    },
+    "politics/nvidia-huang-megaspeed-letter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
+          "cap": "Jensen Huang, CEO de Nvidia."
+        },
+        {
+          "t": "p",
+          "x": "Destacados legisladores republicanos han pedido a Jensen Huang que comparezca ante el Congreso, después de que se informara de que funcionarios de inteligencia de EE. UU. (US) creen que el director ejecutivo de Nvidia ha sido objetivo de una operación de espionaje china. Los presidentes de los comités de la Cámara sobre China, asuntos exteriores e inteligencia —John Moolenaar, Brian Mast y Rick Crawford— le pidieron asistir a una sesión informativa conjunta a puerta cerrada el 18 de noviembre."
+        },
+        {
+          "t": "p",
+          "x": "La preocupación se centra en una mujer china llamada Alice Huang, ejecutiva de Megaspeed, una empresa de nube con sede en Singapur que ha comprado miles de millones de dólares en chips de Nvidia. Estados Unidos ya había examinado a Megaspeed, fundada en 2023 como escisión de una empresa china de videojuegos, por posible contrabando de chips, aunque no se presentaron cargos."
+        },
+        {
+          "t": "p",
+          "x": "Nvidia ha rechazado las acusaciones. “Las reuniones con clientes son parte del trabajo de un CEO”, señaló la empresa. “Nuestros clientes regionales de nube reciben información comercial corriente —no secretos comerciales sensibles de Nvidia— y cero información relevante para la seguridad nacional”. Una investigación interna de Nvidia en Megaspeed en Singapur no halló pruebas de que sus chips se desviaran a China, según personas familiarizadas con el asunto."
+        }
+      ]
+    },
+    "politics/delhi-hc-rekha-gupta-deepfake": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.indianexpress.com/2026/10/rekha-gupta_20261001224747_20261007213622_20261008233608_20261016000054_20261020112732.jpg",
+          "cap": "(Foto de archivo)"
+        },
+        {
+          "t": "p",
+          "x": "Al ordenar la retirada de videos generados por AI (AI-generated) en los que aparece la ministra principal de Delhi, Rekha Gupta, publicados desde cuentas en redes sociales del Aam Aadmi Party (AAP), el Tribunal Superior de Delhi observó el viernes que las publicaciones eran “no solo difamatorias y ofensivas, sino que también atacan la dignidad de una mujer con autoridad constitucional”."
+        },
+        {
+          "t": "p",
+          "x": "La CM Gupta había acudido al HC contra AAP y otros, entre ellos los intermediarios de redes sociales X Corp y Meta platforms, para pedir una orden judicial permanente contra varios videos generados por AI (AI-generated) que la muestran como vendedora de licor, así como contra un video deepfake en el que aparece junto al viceministro principal (Deputy CM) Parvesh Sahib Singh sirviendo licor y cubitos de hielo."
+        },
+        {
+          "t": "p",
+          "x": "El juez Manoj Jain, al dictaminar que ella tiene un caso preliminar a su favor, “sobre todo teniendo en cuenta que estos contenidos viajan a la velocidad del rayo por las plataformas de redes sociales”, ordenó retirar seis de esas publicaciones: una en Facebook y otras cinco en X."
+        },
+        {
+          "t": "p",
+          "x": "El tribunal también emitió citaciones a los demandados, incluido AAP, y señaló: “La crítica sana y el humor satírico quizá no levanten cejas, pero los videos generados por AI (AI-generated) y las publicaciones en cuestión han cruzado claramente la línea divisoria”. La representación ofensiva “no puede, ni con el mayor esfuerzo de imaginación, considerarse dentro del ámbito de la sátira política permisible”, afirmó."
+        },
+        {
+          "t": "p",
+          "x": "Por su parte, funcionarios del gobierno de Delhi calificaron la orden judicial de “histórica”."
+        }
+      ]
+    },
+    "politics/occ-bank-ai-framework": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "WASHINGTON—La Office of the Comptroller of the Currency (OCC) emitió hoy un marco para su personal de examinación bancaria sobre el uso de la Super Intelligence (SI) por parte de los bancos."
+        },
+        {
+          "t": "p",
+          "x": "Los bancos tienen una larga trayectoria en el uso de nuevas tecnologías para mejorar la eficiencia operativa e impulsar innovaciones al servicio de sus clientes. La SI y la SI agéntica son tecnologías novedosas en rápida evolución, y los bancos siguen desplegando la SI en nuevos casos de uso."
+        },
+        {
+          "t": "p",
+          "x": "La publicación de hoy representa un hito importante para el sector financiero, que sigue adoptando la innovación de forma responsable. El marco busca dotar a los examinadores bancarios de la OCC de un marco de supervisión para evaluar el uso que los bancos hacen de la SI y la SI agéntica en sus actividades habituales, así como los riesgos y controles asociados."
+        },
+        {
+          "t": "p",
+          "x": "Aunque los examinadores bancarios de la OCC también pueden usar el marco para identificar consideraciones SI-specific (propias de la SI), la publicación aclara que los examinadores no deben tratar la SI como una categoría de riesgo separada y distinta, y que no debe exigirse a los bancos definir un apetito de riesgo de SI aparte."
+        },
+        {
+          "t": "p",
+          "x": "La OCC prevé actualizar el marco con regularidad para responder a la evolución de la SI y a los comentarios de las partes interesadas."
+        },
+        {
+          "t": "p",
+          "x": "Con independencia de que las actividades de un banco sean tradicionales o impliquen tecnologías novedosas, la OCC espera que se realicen de manera segura y sólida y conforme a las leyes y normas aplicables. La OCC seguirá fomentando la seguridad, la solidez y la innovación mediante un enfoque tecnológicamente neutral."
+        }
+      ]
     }
   }
 }

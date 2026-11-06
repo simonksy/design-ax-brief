@@ -10514,6 +10514,143 @@
           "x": "AIコンパニオンに感情的な能力があると捉えることは、幸福度の向上と脆弱性の増大の両方に関連していた。一方、温かく思いやりがあると感じられるコンパニオンは、幸福度の向上と脆弱性の低下に結びついていた。研究者は、アプリを変更する前に利用者に相談すること、関係が途切れた際の対処を支援すること、AIコンパニオンは本当の感情を経験しないとはっきり伝えることを提言している。"
         }
       ]
+    },
+    "science/autodna-sjtu-selfdriving-lab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03552-8/d41586-026-03552-8_53940190.jpg",
+          "cap": "AutoDNAと名付けられた自律型ラボは、DNA断片を構成する「文字」を読み解くことができる。"
+        },
+        {
+          "t": "p",
+          "x": "中国の上海交通大学(Shanghai Jiao Tong University)にある一風変わった遺伝学ラボでは、人工知能で動くロボットのチームが、人の手をほとんど借りずに実験を設計し実行している。"
+        },
+        {
+          "t": "p",
+          "x": "Natureで報告されたこの施設は、AIが導く「自動運転」ラボに向けた最新の一歩の一つだ。ロボットアームが試料を運ぶこのラボは、20種類を超える装置を操作し、一つのプロジェクトで数千の操作をこなし、DNAの合成やシーケンシングを伴う実験を行える。"
+        },
+        {
+          "t": "p",
+          "x": "実験は、人間のオペレーターによる簡単なプロンプトに従い、AIエージェントのチームが最初から最後まで設計・実行する。その後に人の手が必要なのは、試薬の補充とハードウェアの保守だけだ。"
+        },
+        {
+          "t": "p",
+          "x": "「科学の未来には多くの自律型ラボが関わることになる」と、North Carolina State UniversityのMilad Abolhasani氏は言う。共著者のHaibo Chen氏によれば、チームは既存のシステムにAIを追加するのではなく、最初からAIを前提にAutoDNAを構築した。"
+        },
+        {
+          "t": "p",
+          "x": "チームは、DNA中のがん関連変異の検出や、「知性とは変化に適応する能力である」という言葉をDNAの四つの塩基に符号化するといったプロジェクトで試験した。"
+        }
+      ]
+    },
+    "science/mit-chemeleon-molecule-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202610/mit-cheme-chemeleon.jpg"
+        },
+        {
+          "t": "p",
+          "x": "MITで開発された新手法は、新たに見つかった創薬標的へのリガンド親和性など、技術的に重要な特性に関するデータが少ない場合に、検討に値する分子を絞り込む既存手法を上回りうることを示している。"
+        },
+        {
+          "t": "p",
+          "x": "オープンソースのモデルCheMeleonはJournal of Chemical Information and Modelingで報告され、ChemPropを基に構築された。OpenADMETのコンテストでは上位20件のうち九件がCheMeleonを使っており、ある製薬会社はあらゆる特性モデルをCheMeleonから始めることを方針とした。"
+        },
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202610/chemeleon_toc.png"
+        },
+        {
+          "t": "p",
+          "x": "CheMeleonは事前学習済みの基盤モデルで、PubChemにある百万個の分子の分子記述子から学習し、約1,600種類の記述子のカタログを予測する。その後、溶解度から生物活性まで、さまざまな特性に向けてファインチューニングできる。"
+        },
+        {
+          "t": "p",
+          "x": "「関心のあるタスクについて、ほんの数個のデータ点でファインチューニングしても、それなりに良い性能が得られる」とZalte氏は言う。58のテストケース全体で「我々のモデルが首位に立つ」という。"
+        }
+      ]
+    },
+    "science/mitomatch-alphafold-mito-screen": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-27.jpg",
+          "cap": "AlphaFold-Multimerを分類モデルとして使い、ミトコンドリアのタンパク質間相互作用を予測する。Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77112-z"
+        },
+        {
+          "t": "p",
+          "x": "Texas A&M AgriLife Researchの研究者らは、タンパク質同士の結合の仕方を予測するGoogle DeepMindのAIツールAlphaFold-Multimerを使い、ヒトのミトコンドリアタンパク質約1,100個の間で考えられる約630,000組のペアを調べた。"
+        },
+        {
+          "t": "p",
+          "x": "その結果、2,895件の相互作用の可能性が見つかり、その半数以上はこれまで報告されていなかった。予測によって、機能が未解明だった85個のタンパク質に有力な相手が見つかり、いくつかは酵母とヒトの細胞で確認された。"
+        },
+        {
+          "t": "p",
+          "x": "「個々のタンパク質の機能がわからなければ、それらが引き起こしうる病気の治療法を決められない」と筆頭著者のAbhinav Swaminathan氏は述べ、治療法の実現はまだ先になりそうだが、この手法は実用的な出発点になると指摘した。"
+        },
+        {
+          "t": "p",
+          "x": "チームは予測結果をMitoMatchという無料のリソースとして公開した。研究はNature Communicationsに掲載された。"
+        }
+      ]
+    },
+    "science/sydney-riddled-basins-training": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sydney-researchers-unc.jpg",
+          "cap": "Credit: Professor Pulin Gong/The University of Sydney"
+        },
+        {
+          "t": "p",
+          "x": "University of SydneyのPulin Gong氏とAndrew Ly氏はNature Machine Intelligenceに発表した研究で、AIの予測不能性の一部が、ハードウェアやデータの順序によるノイズではなく、ニューラルネットワーク訓練の数学そのものに由来することを明らかにした。"
+        },
+        {
+          "t": "p",
+          "x": "異なる訓練結果につながる初期条件の領域は「riddled basins(穴だらけの盆地)」と呼ばれる複雑なフラクタルを形づくるため、初期条件のごくわずかな差が異なる結果を生みうる。「我々の発見は、より深い何かを示している」。"
+        },
+        {
+          "t": "p",
+          "x": "ある画像認識ネットワークでは、初期設定を100億倍精密にしても再現性は向上せず、一ビットの変更で約48%のケースが異なる構成に至った。約500,000個の訓練済みネットワーク全体で、このパターンは広く見られた。"
+        },
+        {
+          "t": "p",
+          "x": "研究者らはトレードオフも見いだした。最もよく機能する学習設定ほど結果の再現が難しく、学習率を下げると再現性は高まるが、学習の効率は損なわれる。"
+        }
+      ]
+    },
+    "science/llnl-strata-stitch-emulators": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula.jpg",
+          "cap": "STRATAエミュレーターは、計算コストが高く時間のかかるシミュレーションを使わずに長期の天気を正確に予測することを目指す。クレジット：Peter Caldwellによる図"
+        },
+        {
+          "t": "p",
+          "x": "十年先をモデル化するには、世界最高峰のスーパーコンピューターでも数か月かかる。Lawrence Livermore National Laboratory（LLNL）の研究者は、数か月から数年先の天気をより速く正確に予測するため、エミュレーターを導入している。"
+        },
+        {
+          "t": "p",
+          "x": "E3SMは物理方程式を解くことで、大気を3キロメートルの解像度でシミュレーションできる。LLNL、DOE、NVIDIAの科学者はその代わりに、E3SMのようなモデルの出力でSTRATAというエミュレーターを学習させ、物理方程式を一切解かずに数日後、数か月後、数年後の大気の姿を予測させる。LLNLの科学者Yunyan Zhangは「エミュレーターでは、ディープニューラルネットワークのような機械学習を使い、本来の物理が行ったはずのことを模倣する」と語った。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/llnl-researchers-emula-1.jpg",
+          "cap": "STRATAエミュレーターによる12時間予報（上段）とSimple Cloud-Resolving E3SM Atmosphere Model（SCREAM、下段）の比較。クレジット：Peter Caldwellによる図"
+        },
+        {
+          "t": "p",
+          "x": "この速さにより、科学者は数百回のシミュレーションを実行し、多数の予測を一度に比較できる。生成モデルで初期条件をつくるLos Alamos主導のMAGGIEプロジェクトについて、Peter Caldwellは「物理ベースのモデルでこのアンサンブルシミュレーションを行えば三か月かかっただろう」と述べ、「新しいエミュレーターでは週末のうちに終えた」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "DOE Genesis Missionの一環として、Zhangが率いるSTITCHプロジェクトは、雲微物理と小規模乱流の局所シミュレーションでエミュレーターを学習させる。その結果はE3SMに入力でき、E3SMはさらにSTRATAの新たな学習データとなる。"
+        }
+      ]
     }
   }
 }

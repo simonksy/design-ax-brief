@@ -1,51 +1,60 @@
 {
   "section": "gadgets",
-  "now_iso": "2026-11-05T22:03:00Z",
+  "now_iso": "2026-11-06T22:03:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
-      "url": "https://www.wired.com/story/aina-smart-ring/",
-      "source": "WIRED",
+      "title": "Amazon will let you text Alexa your shopping list",
+      "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+      "source": "The Verge",
       "category": "gadgets",
-      "published_iso": "2026-11-05T14:00:00.000Z",
-      "excerpt": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
-      "og_image": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg"
+      "published_iso": "2026-11-06T14:00:00+00:00",
+      "excerpt": "The Alexa for Shopping AI assistant can now order groceries and recommend products over text messages, launching by invite in the US ahead of the holidays.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Amazon-Alexa-for-Shopping-text-order.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
-      "title": "Samsung Android XR smart glasses pre-orders get started on November 12",
-      "url": "https://www.androidauthority.com/samsung-smart-glasses-pre-orders-3732159/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-11-05T17:43:22+00:00",
-      "excerpt": "The smart glasses collaboration, featuring frames from Warby Parker and Gentle Monster, is about to start taking pre-orders.",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg"
-    },
-    {
-      "title": "Warby Parker seemingly spilled the beans on Google's Android XR smart glasses launch",
-      "url": "https://www.engadget.com/2308376/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/",
+      "title": "Google's eyewear partners can't keep a lid on its smart glasses plans",
+      "url": "https://www.engadget.com/2309631/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/",
       "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-11-05T19:39:01+00:00",
-      "excerpt": "\"Intelligent Eyewear\" is apparently only a week away.",
-      "og_image": "https://www.engadget.com/img/gallery/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/l-intro-1793907386.jpg"
+      "published_iso": "2026-11-06T19:45:23+00:00",
+      "excerpt": "Gentle Monster says its Gemini-powered Android XR 'Intelligent Eyewear' opens for pre-order November 12, teased with a Jonathan Glazer short film starring Joaquin Phoenix; the display-free, audio-first glasses offer Gemini access. (Glasses slot; follow-up to 11-06 Samsung XR glasses coverage.)",
+      "og_image": "https://www.engadget.com/img/gallery/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/l-intro-1793994268.jpg"
     },
     {
-      "title": "Motorola Signature 27 gets Pixel's Gemini Intelligence features with Rambler, Create My Widget",
-      "url": "https://9to5google.com/2026/11/05/motorola-signature-27-gemini-intelligence-features/",
-      "source": "9to5Google",
+      "title": "엔비디아, 'RTX 스파크' 기술 소개…차세대 'AI PC' 경험 제시",
+      "url": "https://www.etnews.com/20261106000278",
+      "source": "전자신문",
       "category": "gadgets",
-      "published_iso": "2026-11-05T13:15:00+00:00",
-      "excerpt": "Motorola is adopting Google’s Gemini Intelligence features in the first major expansion beyond Pixel, with Gboard’s Rambler and more supported....",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&resize=1200,628"
+      "published_iso": "2026-11-06T16:03:09+09:00",
+      "excerpt": "엔비디아가 서울 기자간담회에서 GPU·CPU 단일 슈퍼칩 'RTX 스파크(N1X)'로 클라우드 없이 PC에서 AI 에이전트를 구동하는 로컬 AI 전략과 경량 모델, 로컬·클라우드 하이브리드 기술을 공개했다. 최대 128GB 통합 메모리, 1페타플롭 AI 성능.",
+      "og_image": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.7c595977012a423b8b5fa1b52cd5b411_P1.png"
     },
     {
-      "title": "Motorola’s new earbuds are gunning for AirPods with Bose sound and some handy AI features",
+      "title": "Latest Google app reveals Gemini Live's offline mode requires an online setup",
+      "url": "https://www.androidauthority.com/gemini-live-offline-mode-caveats-apk-teardown-3732544/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-11-06T14:14:19+00:00",
+      "excerpt": "Google app v17.73.15 strings show Gemini Live's upcoming offline mode must be set up while connected and will run 'with limited features' on-device. APK teardown; follow-up to an earlier offline-mode teardown.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/09/gemini-live-on-a-smartphone-screen-scaled.jpg"
+    },
+    {
+      "title": "Apple just added Suggested Actions to iOS 27.2 — the Apple Intelligence upgrade scans your texts to create one-tap buttons",
+      "url": "https://www.tomsguide.com/phones/iphones/the-hidden-ios-27-2-upgrade-that-turns-messages-into-one-tap-actions",
+      "source": "Tom's Guide",
+      "category": "gadgets",
+      "published_iso": "2026-11-06T09:00:00Z",
+      "excerpt": "iOS 27.2 adds Apple Intelligence-powered Suggested Actions in Messages that turn texts into one-tap shortcuts for Calendar, Reminders, Notes and Maps.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/fJJqLFfXfgVDL6N4y9kqU8-2000-80.jpg"
+    },
+    {
+      "title": "Motorola's new earbuds are gunning for AirPods with Bose sound and some handy AI features",
       "url": "https://www.digitaltrends.com/home-theater/motorolas-new-earbuds-are-gunning-for-airpods-with-bose-sound-and-some-handy-ai-features/",
       "source": "Digital Trends",
       "category": "gadgets",
       "published_iso": "2026-11-05T08:09:04-08:00",
-      "excerpt": "Motorola's new Moto Buds Ultra 27 challenge Apple's AirPods Pro and Samsung's Galaxy Buds 4 Pro with Bose-tuned audio, adaptive noise cancellation, live AI translation, and gesture controls.",
+      "excerpt": "Motorola's Moto Buds Ultra 27 (Moto Buds 2 Ultra) pair Bose-tuned audio with live AI translation and gesture controls to take on AirPods Pro and Galaxy Buds 4 Pro.",
       "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C630&ssl=1"
     },
     {
@@ -54,98 +63,98 @@
       "source": "9to5Mac",
       "category": "gadgets",
       "published_iso": "2026-11-05T12:35:39+00:00",
-      "excerpt": "Code discovered in the iOS 27.3 beta suggests that HomeView is set to gain support for third-party AI chatbots like...",
+      "excerpt": "Code in the iOS 27.3 beta suggests Apple's HomeView smart home hub will gain support for third-party AI chatbots alongside Siri.",
       "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&resize=1200,628"
     },
     {
-      "title": "Open source project renders your Windows 11 desktop using the NPU rather than the GPU — ‘npu-driver’ can only run at 2 to 3 Hz, targets 30 Hz performance",
+      "title": "Sonos AI coming in controlled beta as company aims to avoid another app disaster",
+      "url": "https://9to5mac.com/2026/11/04/how-to-get-access-to-sonos-ai-features-as-company-aims-to-avoid-another-app-disaster/",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "published_iso": "2026-11-04T12:04:22+00:00",
+      "excerpt": "Sonos is rolling out its AI voice assistant and app features through a controlled beta and explains how speaker owners can get access. (Follow-up to previously published Sonos voice early-access news.)",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Hey-Sonos-coming-in-controlled-beta-as-company-aims-to-avoid-another-app-disaster.jpg?quality=82&strip=all&resize=1200,628"
+    },
+    {
+      "title": "Open source project renders your Windows 11 desktop using the NPU rather than the GPU",
       "url": "https://www.tomshardware.com/pc-components/gpu-drivers/open-source-project-renders-your-windows-11-desktop-using-the-npu-rather-than-the-gpu-npu-driver-can-only-run-at-2-to-3-hz-targets-30-hz-performance",
       "source": "Tom's Hardware",
       "category": "gadgets",
       "published_iso": "2026-11-04T12:00:00Z",
-      "excerpt": "Developer is aiming for 30 Hz performance on Intel Panther Lake NPUs but the current version of this research driver is only achieving 2 to 3 Hz.",
+      "excerpt": "A research 'npu-driver' renders the Windows 11 desktop on an Intel Panther Lake NPU instead of the GPU; it currently manages only 2-3 Hz and targets 30 Hz.",
       "og_image": "https://cdn.mos.cms.futurecdn.net/Ro4sQLyJUnVjqu8DK7qu85-1920-80.jpg"
     },
     {
-      "title": "Gboard beta hints at a smarter Rambler that learns your words and contact names",
-      "url": "https://www.androidauthority.com/gboard-rambler-corrected-words-contacts-apk-teardown-3732028/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-11-05T15:00:06+00:00",
-      "excerpt": "Gboard’s voice dictation feature, Rambler, may soon get a lot better by remembering contact names and corrected words.",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg"
-    },
-    {
-      "title": "Android Auto's latest Gemini failing keeps asking 'who do you want to call'",
-      "url": "https://9to5google.com/2026/11/05/android-auto-gemini-call-text-voice-command-bug/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-11-05T17:05:00+00:00",
-      "excerpt": "The switch to Gemini on Android Auto has resulted in some good functionality add-ons, but also some very noticeable slip-ups....",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-Personal-Intelligence-Android-Auto.jpg?quality=82&strip=all&resize=1200,628"
-    },
-    {
-      "title": "While EU iPhone users wait for Siri AI, the Galaxy Z Fold 8 is getting things done",
-      "url": "https://www.sammobile.com/opinion/while-eu-iphone-users-wait-siri-ai-galaxy-z-fold-8-getting-things-done/",
-      "source": "SamMobile",
-      "category": "gadgets",
-      "published_iso": "2026-11-05T16:29:10+00:00",
-      "excerpt": "Samsung Galaxy Z Fold 8 users already have access to Galaxy AI and Gemini in the EU, giving them a clear advantage.",
-      "og_image": "https://www.sammobile.com/wp-content/uploads/2026/11/Galaxy-Z-Fold-8-Galaxy-AI-Gemini-2.jpg"
-    },
-    {
-      "title": "AI robots apparently can't do nothing: They start working even without instructions",
-      "url": "https://www.notebookcheck.net/AI-robots-apparently-can-t-do-nothing-They-start-working-even-without-instructions.1440109.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-11-02T12:16:00+01:00",
-      "excerpt": "Six AI-powered robot models were tasked with performing activities in a simulation – but even without receiving any instructions, all of them started moving. Five systems even independently carried out tasks that nobody had asked them to perform. Researchers see this as a previously underestimated safety vulnerability in autonomous robots and demonstrate why even a simple stop command isn't a reliable solution.",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/robots-working.jpg"
-    },
-    {
-      "title": "Subvocal’s glasses promise to let you talk to your computer in complete silence",
-      "url": "https://www.digitaltrends.com/computing/subvocals-glasses-promise-to-let-you-talk-to-your-computer-in-complete-silence/",
-      "source": "Digital Trends",
-      "category": "gadgets",
-      "published_iso": "2026-10-30T12:28:49-07:00",
-      "excerpt": "Typing has always been a bottleneck between what we think and how quickly we can communicate it to a computer. AI-powered dictation tools like Wispr Flow have made things considerably better. You can practically ramble your way through an entire email, or even an article, and have it transcribed into text in seconds. But there’s […]",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C630&ssl=1"
-    },
-    {
-      "title": "The Philips Hue app now lets AI build smart light automations for you, but early adopters are running into errors and unhelpful limitations",
-      "url": "https://www.techradar.com/home/smart-lights/philips-hue-just-launched-its-ambitious-custom-ai-behaviors-but-early-teething-troubles-show-the-smart-assistant-might-not-be-quite-ready-for-prime-time",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-11-02T11:26:14Z",
-      "excerpt": "The promised Custom AI Behaviors are now available in the Hue app for Hue Bridge Pro owners.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/A9pUpHUdRuqBZNLELt2kfK-2048-80.png"
-    },
-    {
-      "title": "I put a local AI model on a bootable USB, so I can troubleshoot a dead PC with a chatbot that doesn't need the internet",
-      "url": "https://www.xda-developers.com/put-local-ai-bootable-usb-troubleshoot-dead-pc-chatbot-doesnt-need-internet/",
+      "title": "My local LLM turns my voice notes into to-do items automatically, and nothing falls through the cracks",
+      "url": "https://www.xda-developers.com/my-local-llm-turns-my-voice-notes-into-to-do-items-automatically/",
       "source": "XDA Developers",
       "category": "gadgets",
-      "published_iso": "2026-11-03T00:01:19Z",
-      "excerpt": "My rescue USB now also helps me make sense of disk errors.",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/drive-windows.png?w=1600&h=900&fit=crop"
+      "published_iso": "2026-11-06T19:00:21Z",
+      "excerpt": "A hands-on workflow using a locally run LLM to transcribe voice notes and turn them into to-do items without sending data to the cloud.",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/microphone-recording-voice-notes-for-to-do-items.jpg?w=1600&h=900&fit=crop"
     },
     {
-      "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
-      "url": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+      "title": "I replaced Grammarly Pro with a local model on my GPU, and my drafts never leave my PC",
+      "url": "https://www.xda-developers.com/i-replaced-grammarly-premium-with-a-local-model-on-my-gpu-and-my-drafts-never-leave-my-pc/",
+      "source": "XDA Developers",
+      "category": "gadgets",
+      "published_iso": "2026-11-06T21:01:22Z",
+      "excerpt": "XDA swaps a Grammarly subscription for a local Qwen model running on a consumer GPU, keeping writing private on-device.",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/writing-tools-qwen3-6.jpg?w=1600&h=900&fit=crop"
+    },
+    {
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "source": "MIT Technology Review",
+      "category": "gadgets",
+      "published_iso": "2026-11-06T05:00:00-05:00",
+      "excerpt": "Tau Robotics is sending humanoid robots to clean San Francisco homes; they still need lots of remote human guidance but are learning. (Off-list: no on-list outlet covered Tau this week.)",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.jpg?resize=1200,600"
+    },
+    {
+      "title": "Tau Robotics opens robot cleaner subscriptions at $60 a visit as the hourly rate climbs to $50",
+      "url": "https://the-gadgeteer.com/2026/11/06/tau-robotics-robot-cleaner-subscriptions/",
+      "source": "The Gadgeteer",
+      "category": "gadgets",
+      "published_iso": "2026-11-06T10:00:00-06:00",
+      "excerpt": "Tau's humanoid cleaning service leaves pilot: $50 per humanoid per hour, weekly subscriptions at $60 a visit, Los Angeles expansion, and recorded-home footage used for training. (Off-list; same story as MIT TR item.)",
+      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/tau-robotics-cleaner-hero.jpg"
+    },
+    {
+      "title": "Syncere Lume robot lamp folds laundry and makes the bed for $2,699",
+      "url": "https://the-gadgeteer.com/2026/11/06/syncere-lume-robot-lamp-2699/",
+      "source": "The Gadgeteer",
+      "category": "gadgets",
+      "published_iso": "2026-11-06T06:00:00-06:00",
+      "excerpt": "Syncere's Lume is a $2,699 floor lamp hiding a robot arm with onboard perception and local AI compute that folds laundry, makes the bed and tidies; lifetime autonomy costs $679, invite-only deliveries in H1 2027. (Off-list.)",
+      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero.jpg"
+    },
+    {
+      "title": "Pudu TOMO S robot mower sharpens its own blades at the dock",
+      "url": "https://the-gadgeteer.com/2026/11/06/pudu-tomo-s-robot-mower-sharpens-its-own-blades/",
+      "source": "The Gadgeteer",
+      "category": "gadgets",
+      "published_iso": "2026-11-06T14:00:00-06:00",
+      "excerpt": "Pudu's TOMO S robot mower combines 360-degree LiDAR with binocular AI vision and an AI Mowing Planner, and sharpens its own blades at the dock; on sale early 2027. (Off-list; AI is secondary to the blade-sharpening hook.)",
+      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pudu-tomo-s-hero.jpg"
+    },
+    {
+      "title": "Can a Radar-Equipped AC Actually Cut Your Power Bill?",
+      "url": "https://www.wired.com/story/can-a-radar-equipped-ac-actually-cut-your-power-bill/",
+      "source": "WIRED",
+      "category": "gadgets",
+      "published_iso": "2026-11-06T11:00:00.000Z",
+      "excerpt": "AI-powered air conditioners from LG, Samsung and Dyson now use radar to track occupants room to room; WIRED tests whether 'AI Direct/Indirect Wind' and AI energy modes actually save power.",
+      "og_image": "https://media.wired.com/photos/6ad0bda38de176c462eac73d/191:100/w_1280,c_limit/Screenshot%202026-10-15%20at%2012.48.10.jpg"
+    },
+    {
+      "title": "How Akai and Moog are embracing vibe-coded mods",
+      "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
       "source": "The Verge",
       "category": "gadgets",
-      "published_iso": "2026-11-04T18:00:00+00:00",
-      "excerpt": "Filtering conversations and memories through AI is a reality-bending lesson in why intelligence can’t replace wisdom.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268817_Bee_Frontier_AKrales_0098.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "title": "How to Turn Off AI Slop on Your Echo Show Smart Display",
-      "url": "https://www.cnet.com/home/smart-home/how-to-turn-off-ai-slop-on-your-echo-show-smart-display/",
-      "source": "CNET",
-      "category": "gadgets",
-      "published_iso": "2026-11-03T07:00:03-05:00",
-      "excerpt": "My Amazon smart display has been filling with AI garbage. Here's how to clear it out if you're struggling.",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Echo-Show-Elephant-AI.jpg"
+      "published_iso": "2026-11-06T16:34:39+00:00",
+      "excerpt": "inMusic is opening up MPCs and hackable synths as AI vibe-coded firmware mods upend the music gear world; Akai and Moog embrace them while Elektron is wary.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/assets_47c5d023e7b3451a86ac03602c65dce8_43f25647cf8a4cbb8786829bc29ee2fb.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
     }
   ]
 }

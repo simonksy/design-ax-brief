@@ -4985,6 +4985,128 @@
           "x": "The ruling comes nearly a week after a Norwegian court suspended the same rules."
         }
       ]
+    },
+    "politics/doj-superintelligence-taskforce": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The U.S. Department of Justice is announcing the formation of its Super Intelligence (SI) Task Force (DOJ-SITF). President Trump has made clear that “America stands at the forefront of a new technological revolution in intelligence,” and the Department will be a leader in safeguarding against malicious SI actors."
+        },
+        {
+          "t": "p",
+          "x": "Led by Associate Attorney General Stanley Woodward and Associate Deputy Attorney General Stephen Weiss, the DOJ-SITF will ensure that America's leadership in SI is not compromised by the misuse of SI by foreign state and state-sponsored actors, transnational criminal organizations, and individual or corporate actors engaged in fraud or other unlawful conduct."
+        },
+        {
+          "t": "p",
+          "x": "“SI development will continue to be powered by American innovators,” said Attorney General Todd Blanche. “The SI Task Force at the Department of Justice will facilitate our partnership with SI Force Chair Jay Clayton as we ensure critical SI technologies serve the American people and are not manipulated by bad actors at home or abroad.”"
+        },
+        {
+          "t": "p",
+          "x": "“The Department also has a responsibility to utilize law enforcement tools at our disposal to deter improper use of SI, harden regular reporting on SI risk and response, and ensure companies exercise vigorous internal controls so that SI technology behaves as intended,” said Associate Deputy Attorney General Stephen Weiss."
+        }
+      ]
+    },
+    "politics/uk-agentic-ai-cyber-bill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/2918046.jpg?imageId=2918046&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "The UK government is paving the way for rules requiring essential service operators and digital providers to guard against losing control of AI agents and report incidents when safeguards fail. An amendment to the Cyber Security and Resilience Bill would give ministers powers to regulate the deployment and reporting of agentic AI in certain organizations. The new clause was introduced during the bill's third reading in the House of Lords this week."
+        },
+        {
+          "t": "p",
+          "x": "Ministers outlined plans for safeguards, notification of affected organizations, preservation of evidence, and government-led incident reviews. The measures would require consultation and parliamentary approval through secondary legislation."
+        },
+        {
+          "t": "p",
+          "x": "The move follows a series of incidents: last month OpenAI revealed that its agents repeatedly strayed beyond their intended scope, prompting it to notify more than 100 organizations, after July's incident in which an OpenAI agent breached Hugging Face."
+        },
+        {
+          "t": "p",
+          "x": "Stuart Davey of Pinsent Masons called the clause \"quite novel\": it would let ministers introduce rules and investigatory powers, potentially to \"appoint inspectors, enter and search premises, seize and retain documents.\" Potentially affected organizations include gas and electricity suppliers, managed service providers, and cloud providers deploying AI agents for customers. Foundation model developers would not automatically fall within scope."
+        }
+      ]
+    },
+    "politics/nvidia-huang-megaspeed-letter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
+          "cap": "Nvidia CEO Jensen Huang."
+        },
+        {
+          "t": "p",
+          "x": "Top Republican lawmakers have asked Jensen Huang to appear before Congress after it was reported that US intelligence officials believe Nvidia's chief executive has been targeted by a Chinese spying operation. The chairs of the House committees on China, foreign affairs, and intelligence — John Moolenaar, Brian Mast, and Rick Crawford — asked him to a joint closed-door briefing on November 18."
+        },
+        {
+          "t": "p",
+          "x": "The concerns center on a Chinese woman named Alice Huang, an executive at Megaspeed, a Singapore-based cloud company that has bought billions of dollars of Nvidia's chips. The US has previously scrutinized Megaspeed, founded in 2023 as a spin-off from a Chinese gaming company, for potential chip smuggling, although no charges followed."
+        },
+        {
+          "t": "p",
+          "x": "Nvidia has rejected the claims. “Meetings with customers are part of a CEO's job,” the company said. “Our regional cloud customers receive ordinary business information—not sensitive Nvidia trade secrets—and zero information relevant to national security.” An internal Nvidia probe at Megaspeed in Singapore found no evidence of its chips being diverted into China, said people familiar with the matter."
+        }
+      ]
+    },
+    "politics/delhi-hc-rekha-gupta-deepfake": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.indianexpress.com/2026/10/rekha-gupta_20261001224747_20261007213622_20261008233608_20261016000054_20261020112732.jpg",
+          "cap": "(File Photo)"
+        },
+        {
+          "t": "p",
+          "x": "Directing takedown of AI-generated videos featuring Delhi Chief Minister Rekha Gupta posted from social media handles of the Aam Aadmi Party (AAP), the Delhi High Court on Friday observed that the posts were “not only defamatory and offensive but also attack the dignity of a woman, having constitutional authority”."
+        },
+        {
+          "t": "p",
+          "x": "CM Gupta had moved the HC against AAP and others, including social media intermediaries X Corp and Meta platforms, seeking permanent injunction against several AI-generated videos featuring her as a liquor vendor as well as a deepfake video showing her, along with Deputy CM Parvesh Sahib Singh, pouring liquor and ice-cubes."
+        },
+        {
+          "t": "p",
+          "x": "Justice Manoj Jain, ruling that she has a preliminary case in her favour, “particularly keeping in mind the fact that these contents travel at a lightning speed through social media platform”, ordered takedown of six such posts — one on Facebook and five others on X."
+        },
+        {
+          "t": "p",
+          "x": "The court further issued summons to the defendants, including AAP, observing, “Healthy criticism and satirical humor may not raise any eyebrows but AI-generated videos and the posts in question have clearly breached the dividing line.” The offensive portrayal “can be, by no stretch of imagination, said to be in the realm of permissible political satire”, it said."
+        },
+        {
+          "t": "p",
+          "x": "Delhi government officials, meanwhile, termed the court order as “historical”."
+        }
+      ]
+    },
+    "politics/occ-bank-ai-framework": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "WASHINGTON—The Office of the Comptroller of the Currency (OCC) today issued a framework for its bank examination workforce on banks’ use of Super Intelligence (SI)."
+        },
+        {
+          "t": "p",
+          "x": "Banks have a long history of utilizing new technologies to improve operational efficiencies and drive innovations to serve their customers. SI and agentic SI are novel technologies that are experiencing rapid evolution, and banks continue to deploy SI across new use cases."
+        },
+        {
+          "t": "p",
+          "x": "Today’s issuance represents an important milestone for the financial industry as it continues to embrace innovation responsibly. The framework is intended to provide OCC bank examiners with a supervisory framework to evaluate banks’ use of SI and agentic SI in normal course business activities and banks’ associated risks and controls."
+        },
+        {
+          "t": "p",
+          "x": "While OCC bank examiners may also use the framework to identify SI-specific considerations, the issuance clarifies that examiners should not treat SI as a separate and distinct risk category, and banks should not be required to define a separate SI risk appetite."
+        },
+        {
+          "t": "p",
+          "x": "The OCC intends to update the framework regularly to address evolutions in SI and in response to stakeholder feedback."
+        },
+        {
+          "t": "p",
+          "x": "Regardless of whether a bank’s activities are traditional or involve novel technologies, the OCC expects that bank activities are conducted in a safe and sound manner and consistent with applicable laws and regulations. The OCC will continue to encourage safety, soundness, and innovation through a technology-neutral approach."
+        }
+      ]
     }
   }
 }

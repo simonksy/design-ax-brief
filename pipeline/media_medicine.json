@@ -1,31 +1,7 @@
-{
-    "date": "2026-11-06",
-    "section": "medicine",
-    "media": [
-        {
-            "id": "medicine-llm-steering-depression",
-            "type": "image",
-            "src": "pipeline/media/medicine-llm-steering-depression.jpg"
-        },
-        {
-            "id": "medicine-brainct-clip-worklist",
-            "type": "image",
-            "src": "pipeline/media/medicine-brainct-clip-worklist.jpg"
-        },
-        {
-            "id": "medicine-fda-510k-ai-updates",
-            "type": "image",
-            "src": "pipeline/media/medicine-fda-510k-ai-updates.png"
-        },
-        {
-            "id": "seoulstmary-ckd-risk-app",
-            "type": "image",
-            "src": "pipeline/media/seoulstmary-ckd-risk-app.jpg"
-        },
-        {
-            "id": "aha-rural-echo-ai-guidance",
-            "type": "image",
-            "src": "pipeline/media/aha-rural-echo-ai-guidance.jpg"
-        }
-    ]
-}
+{"date":"2026-11-07","section":"medicine","media":[
+{"id":"nature-gait-foundation-model","type":"image","src":"pipeline/media/nature-gait-foundation-model.jpg"},
+{"id":"evident-vascular-ivus-ai","type":"image","src":"pipeline/media/evident-vascular-ivus-ai.jpg"},
+{"id":"jama-scribes-language-equity","type":"svg"},
+{"id":"nih-stroke-wrist-daps","type":"svg"},
+{"id":"cedars-tavr-cta-fibrosis","type":"image","src":"pipeline/media/cedars-tavr-cta-fibrosis.jpg"}
+]}

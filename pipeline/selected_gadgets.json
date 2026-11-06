@@ -1,96 +1,101 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "section": "gadgets",
   "items": [
     {
+      "title": "Can a Radar-Equipped AC Actually Cut Your Power Bill?",
+      "url": "https://www.wired.com/story/can-a-radar-equipped-ac-actually-cut-your-power-bill/",
+      "source": "WIRED",
+      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
-      "url": "https://www.wired.com/story/aina-smart-ring/",
-      "source": "WIRED",
-      "published_iso": "2026-11-05T14:00:00.000Z",
-      "og_image": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/191:100/w_1280,c_limit/Aina%20Ring%20colors%20standing.jpeg",
-      "excerpt": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
-      "rationale": "WIRED exclusive on a new one-tap agent-control ring; a different company and product from the Natura ring published 10-09."
+      "published_iso": "2026-11-06T11:00:00.000Z",
+      "og_image": "https://media.wired.com/photos/6ad0bda38de176c462eac73d/191:100/w_1280,c_limit/Screenshot%202026-10-15%20at%2012.48.10.jpg",
+      "excerpt": "AI-powered air conditioners from LG, Samsung and Dyson now use radar to track occupants room to room; WIRED tests whether 'AI Direct/Indirect Wind' and AI energy modes actually save power.",
+      "rationale": "Hands-on test of radar-sensing AI air conditioners from LG/Samsung/Dyson; a fresh home-appliance AI angle from a new outlet, replacing the Alexa shopping pick that marketing keeps."
     },
     {
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "source": "MIT Technology Review",
+      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "title": "Motorola Signature 27 gets Pixel's Gemini Intelligence features with Rambler, Create My Widget",
-      "url": "https://9to5google.com/2026/11/05/motorola-signature-27-gemini-intelligence-features/",
-      "source": "9to5Google",
-      "published_iso": "2026-11-05T13:15:00+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Motorola is adopting Google’s Gemini Intelligence features in the first major expansion beyond Pixel, with Gboard’s Rambler and more supported....",
-      "rationale": "First time Pixel-only Gemini Intelligence features (Rambler, Create My Widget) reach another phone maker."
+      "published_iso": "2026-11-06T05:00:00-05:00",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.jpg?resize=1200,600",
+      "excerpt": "Tau Robotics is sending humanoid robots to clean San Francisco homes; they still need lots of remote human guidance but are learning.",
+      "rationale": "First-hand account of a paid humanoid home-cleaning service leaving pilot; strongest outlet in the Tau cluster (Gadgeteer duplicate dropped)."
     },
     {
+      "title": "Syncere Lume robot lamp folds laundry and makes the bed for $2,699",
+      "url": "https://the-gadgeteer.com/2026/11/06/syncere-lume-robot-lamp-2699/",
+      "source": "The Gadgeteer",
+      "category": "gadgets",
+      "tool": "Gadgets",
+      "accent": "#f5a623",
+      "motif": "headset",
+      "published_iso": "2026-11-06T06:00:00-06:00",
+      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero.jpg",
+      "excerpt": "Syncere's Lume is a $2,699 floor lamp hiding a robot arm with onboard perception and local AI compute that folds laundry, makes the bed and tidies; lifetime autonomy costs $679, invite-only deliveries in H1 2027.",
+      "rationale": "Novel product announcement with pricing; on-device AI is the core of the device, and its form factor is a striking design idea."
+    },
+    {
+      "title": "Motorola's new earbuds are gunning for AirPods with Bose sound and some handy AI features",
+      "url": "https://www.digitaltrends.com/home-theater/motorolas-new-earbuds-are-gunning-for-airpods-with-bose-sound-and-some-handy-ai-features/",
+      "source": "Digital Trends",
+      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "title": "Samsung Android XR smart glasses pre-orders get started on November 12",
-      "url": "https://www.androidauthority.com/samsung-smart-glasses-pre-orders-3732159/",
-      "source": "Android Authority",
-      "published_iso": "2026-11-05T17:43:22+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
-      "excerpt": "The smart glasses collaboration, featuring frames from Warby Parker and Gentle Monster, is about to start taking pre-orders.",
-      "rationale": "Follow-up to the 10-14 reveal with a new concrete event: a fixed pre-order date for the Samsung/Warby Parker/Gentle Monster AI glasses."
+      "published_iso": "2026-11-05T08:09:04-08:00",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C630&ssl=1",
+      "excerpt": "Motorola's Moto Buds Ultra 27 (Moto Buds 2 Ultra) pair Bose-tuned audio with live AI translation and gesture controls to take on AirPods Pro and Galaxy Buds 4 Pro.",
+      "rationale": "New hardware launch with live AI translation; adds a wearables/audio slot to the mix and is unrelated to the Galaxy Buds hands-on it loosely matched."
     },
     {
+      "title": "HomeView will support third-party AI chatbots, suggests code",
+      "url": "https://9to5mac.com/2026/11/05/homeview-will-support-third-party-ai-chatbots-suggests-code/",
+      "source": "9to5Mac",
+      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "title": "Subvocal’s glasses promise to let you talk to your computer in complete silence",
-      "url": "https://www.digitaltrends.com/computing/subvocals-glasses-promise-to-let-you-talk-to-your-computer-in-complete-silence/",
-      "source": "Digital Trends",
-      "published_iso": "2026-10-30T12:28:49-07:00",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Subvocal-smart-glasses-1.jpg?resize=1200%2C630&ssl=1",
-      "excerpt": "Typing has always been a bottleneck between what we think and how quickly we can communicate it to a computer. AI-powered dictation tools like Wispr Flow have made things considerably better. You can practically ramble your way through an entire email, or even an article, and have it transcribed into text in seconds. But there’s […]",
-      "rationale": "A new input approach: silent-speech glasses that feed AI dictation without speaking aloud; nothing like it in the 30-day history."
-    },
-    {
-      "tool": "Gadgets",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "title": "Gboard beta hints at a smarter Rambler that learns your words and contact names",
-      "url": "https://www.androidauthority.com/gboard-rambler-corrected-words-contacts-apk-teardown-3732028/",
-      "source": "Android Authority",
-      "published_iso": "2026-11-05T15:00:06+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg",
-      "excerpt": "Gboard’s voice dictation feature, Rambler, may soon get a lot better by remembering contact names and corrected words.",
-      "rationale": "Replacement pick: a concrete new capability for Gboard's AI dictation (it learns your corrected words and contact names), found in the current beta; it is about the keyboard itself, not Motorola's adoption of it."
+      "published_iso": "2026-11-05T12:35:39+00:00",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Code in the iOS 27.3 beta suggests Apple's HomeView smart home hub will gain support for third-party AI chatbots alongside Siri.",
+      "rationale": "New iOS 27.3 beta finding: third-party chatbots on Apple's smart display, a different capability from the published Siri-to-third-party-apps story."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.wired.com/story/aina-smart-ring/": {
+      "https://www.wired.com/story/can-a-radar-equipped-ac-actually-cut-your-power-bill/": {
         "verdict": "new",
-        "nearest": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+        "nearest": "https://www.androidauthority.com/hue-bridge-pro-custom-ai-behaviors-launch-3726230/",
         "new_action": ""
       },
-      "https://9to5google.com/2026/11/05/motorola-signature-27-gemini-intelligence-features/": {
+      "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
         "new_action": ""
       },
-      "https://www.androidauthority.com/samsung-smart-glasses-pre-orders-3732159/": {
-        "verdict": "follow-up",
-        "nearest": "https://www.cnet.com/tech/mobile/samsung-smart-glasses-reveal/",
-        "new_action": "Pre-orders for the Samsung Android XR glasses (Warby Parker / Gentle Monster frames) open on a set date, November 12"
-      },
-      "https://www.digitaltrends.com/computing/subvocals-glasses-promise-to-let-you-talk-to-your-computer-in-complete-silence/": {
+      "https://the-gadgeteer.com/2026/11/06/syncere-lume-robot-lamp-2699/": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.notebookcheck.net/Voxel-1-robot-can-tidy-up-water-plants-and-clean-up-dirt.1429483.0.html",
         "new_action": ""
       },
-      "https://www.androidauthority.com/gboard-rambler-corrected-words-contacts-apk-teardown-3732028/": {
+      "https://www.digitaltrends.com/home-theater/motorolas-new-earbuds-are-gunning-for-airpods-with-bose-sound-and-some-handy-ai-features/": {
         "verdict": "new",
-        "nearest": "https://www.digitaltrends.com/phones/raycast-primary-ios-keyboard-lets-you-dictate-swipe-type-and-use-ai-commands-without-switching-apps/",
+        "nearest": "https://news.samsung.com/global/hands-on-comfort-convenience-and-more-a-day-with-galaxy-buds-on",
+        "new_action": ""
+      },
+      "https://9to5mac.com/2026/11/05/homeview-will-support-third-party-ai-chatbots-suggests-code/": {
+        "verdict": "new",
+        "nearest": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
         "new_action": ""
       }
     },
-    "note": "Swap 2026-11-06: removed Tom's Hardware 'npu-driver' pick. The enrichment fetch showed the NPU only does plain compositing, with no AI involved. Replacement: Android Authority Gboard Rambler teardown, which is new in the 30-day gadgets history (no Rambler story; the nearest is the 10-30 Raycast keyboard dictation card, a different product). It is distinct from the Motorola pick, which is about a phone maker adopting Pixel features, while this one is a new Rambler capability. Other candidates passed over: Moto Buds Ultra 27 (would be a second Motorola card, and its AI features are incidental), HomeView third-party chatbots (a code rumor close to the Verge 11-04 Siri third-party story), Notebookcheck robot study (possibly the same robot-safety research as zdnet.co.kr 10-25, with a cross-section risk for science), Android Auto Gemini bug (running story), SamMobile opinion, Verge Bee column (commentary), XDA/CNET how-tos, Engadget Warby Parker leak (same cluster as the Samsung pick), TechRadar Hue AI behaviors (likely repeat of 10-22). Outlets: WIRED, 9to5Google, Android Authority x2, Digital Trends (4 distinct, none over 2). Cross-section: published_urls.json is too large to read in full with Read-only tools, so I could not grep it. The replacement is a gadget-specific Gboard beta feature and unlikely to have run in another section."
+    "note": "Re-curation: dropped 'Amazon will let you text Alexa your shopping list' (The Verge) — same story as today's marketing pick (Digiday, Amazon shopping agent takes orders by text); marketing keeps it. Replaced with WIRED radar-equipped AI air conditioner test (no AC/HVAC-appliance story in the 30-day gadgets history; nearest is the 10-22 Hue Bridge Pro AI behaviors smart-home item). Remaining pool items not used: Tom's Hardware NPU desktop renderer (AI incidental), two XDA local-LLM how-tos (evergreen), Pudu TOMO S mower (AI secondary). Earlier drops stand: Gemini Live offline caveats (likely-repeat of 11-02 teardown); Sonos AI controlled beta (likely-repeat of 11-04 Engadget); Gentle Monster Android XR glasses (same launch as 11-06 Samsung pre-order card); Nvidia RTX Spark Seoul briefing (no new release); iOS 27.2 Suggested Actions (overlaps 10-08 and 10-27); Tau Robotics Gadgeteer post (within-pool dup of MIT TR); inMusic/Akai vibe-coded mods (AI incidental). Cross-section caveat: orchestrator should exact-grep the WIRED url and 'radar' AC across all sections in published_urls.json before roll."
   }
 }

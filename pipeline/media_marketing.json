@@ -1,32 +1,31 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "section": "marketing",
   "media": [
     {
-      "id": "sej-ai-answer-ads-categories",
+      "id": "amazon-agent-sponsored-text",
       "type": "image",
-      "src": "pipeline/media/sej-ai-answer-ads-categories.jpg"
+      "src": "pipeline/media/amazon-agent-sponsored-text.jpg"
     },
     {
-      "id": "clarity-copilot-catalog",
+      "id": "chatgpt-ads-bidding-nov9",
       "type": "image",
-      "src": "pipeline/media/clarity-copilot-catalog.jpg"
+      "src": "pipeline/media/chatgpt-ads-bidding-nov9.jpg"
     },
     {
-      "id": "fresh-step-rece-ai-ads",
-      "type": "video",
-      "src": "pipeline/media/fresh-step-rece-ai-ads.mp4",
-      "poster": "pipeline/media/fresh-step-rece-ai-ads.jpg"
+      "id": "google-ads-ai-disclosure-regions",
+      "type": "image",
+      "src": "pipeline/media/google-ads-ai-disclosure-regions.png"
     },
     {
-      "id": "walmart-sparky-holiday-features",
+      "id": "google-ucp-checkout-canada",
       "type": "image",
-      "src": "pipeline/media/walmart-sparky-holiday-features.jpg"
+      "src": "pipeline/media/google-ucp-checkout-canada.png"
     },
     {
-      "id": "digiday-ai-brief-bloat",
+      "id": "blend-agent-bot-blocks-audit",
       "type": "image",
-      "src": "pipeline/media/digiday-ai-brief-bloat.jpg"
+      "src": "pipeline/media/blend-agent-bot-blocks-audit.jpg"
     }
   ]
 }

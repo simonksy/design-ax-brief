@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "section": "medicine",
   "items": [
     {
-      "title": "Silent Manipulation of Mental Health Treatment Recommendations From a Large Language Model",
+      "title": "A gait foundation model for prediction of multisystem health phenotypes from 3D skeletal motion",
       "tool": "Medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41142",
-      "source": "JAMA Network Open",
-      "published_iso": "2026-11-03T16:13:28Z",
-      "og_image": null,
-      "excerpt": "Quality improvement study testing whether activation steering of an open-weights LLM silently shifts its answers about depression treatment; coverage reports a hidden setting changed advice especially for users who had not stated a treatment preference. (Date from Crossref created.)",
+      "url": "https://www.nature.com/articles/s41591-026-04724-9",
+      "source": "Nature Medicine",
+      "published_iso": "2026-11-06T00:00:00Z",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig1_HTML.png",
+      "excerpt": "Foundation model trained on 3D skeletal motion from 3,328 adults predicts cardiometabolic, mental-health and frailty diagnoses and clinical characteristics from gait.",
       "category": "medicine",
-      "rationale": "Patient-safety finding: a hidden model setting can quietly steer depression-treatment advice, which matters to anyone deploying LLMs in front of patients."
+      "rationale": "Nature Medicine: a walking-gait foundation model reads cardiometabolic, mental-health and frailty diagnoses from 3D motion, opening a low-cost, non-invasive screening signal."
     },
     {
-      "title": "Collaborative generalist-specialist AI for safe worklist deprioritization of non-contrast brain computed tomography",
+      "title": "FDA clears AI-powered intravascular ultrasound imaging platform",
       "tool": "Medicine",
       "accent": "#0070f3",
       "motif": "sphere",
-      "url": "https://www.nature.com/articles/s41746-026-03447-y",
-      "source": "npj Digital Medicine",
-      "published_iso": "2026-11-05T00:00:00Z",
-      "og_image": null,
-      "excerpt": "A collaborative safety net pairing BrainCT-CLIP, a generalist foundation model, with specialist detectors aims to safely move normal non-contrast head CTs down the radiology worklist with high sensitivity and NPV across common and uncommon findings.",
+      "url": "https://radiologybusiness.com/topics/medical-imaging/interventional-radiology/fda-clears-ai-powered-intravascular-ultrasound-imaging-platform",
+      "source": "Radiology Business",
+      "published_iso": "2026-11-06T07:14:14Z",
+      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2020-01/carestream_3.jpg?h=84d12988&itok=A6p-gaLn",
+      "excerpt": "FDA cleared Evident Vascular's Guidance System and peripheral IVUS catheters, which integrate 'purpose-built AI' and NVIDIA-accelerated real-time processing for peripheral vascular procedures; the company plans further AI capabilities.",
       "category": "medicine",
-      "rationale": "Changes radiology workflow: instead of flagging positives, the AI safely pushes normal head CTs down the queue, with a foundation model and specialist detectors cross-checking each other."
+      "rationale": "Regulatory clearance: an AI-integrated IVUS system for peripheral vascular procedures is now cleared for use in the cath/IR lab."
     },
     {
-      "title": "Updated AI and/or Machine Learning–Based Medical Devices Cleared Through the FDA 510(k) Pathway",
+      "title": "Artificial Intelligence Scribes and Same-Day Note Closure by Patient Language Preference and Interpreter Modality",
       "tool": "Medicine",
       "accent": "#7928ca",
       "motif": "sphere",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41071",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.42403",
       "source": "JAMA Network Open",
-      "published_iso": "2026-11-05T16:30:22Z",
+      "published_iso": "2026-11-06T16:30:25Z",
       "og_image": null,
-      "excerpt": "Cross-sectional study of the characteristics and reporting of updates to AI/ML-based medical devices cleared through the FDA 510(k) pathway. (Date from Crossref created; article page is Cloudflare-gated.)",
+      "excerpt": "Brigham and Women's cross-sectional study of 209,009 primary-care encounters (286 clinicians, 14 clinics): AI scribes raised same-day note closure most for non-English-language-preference visits with a language-concordant clinician (+10.2 points adjusted vs +1.7 for English); interpreter-mediated visits inconclusive. Date per Crossref created.",
       "category": "medicine",
-      "rationale": "Regulator-facing evidence on how cleared AI devices get updated and how thinly those updates are reported."
+      "rationale": "Equity angle on ambient scribes: across 209k visits the biggest documentation gain came in non-English visits with a language-concordant clinician, while interpreter visits stayed unclear."
     },
     {
-      "title": "서울성모병원, 만성콩팥병 위험 예측 AI 앱 임상검증 착수",
+      "title": "Stroke recovery tracked with wearable device",
       "tool": "Medicine",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "url": "https://m.medigatenews.com/news/2393566577",
-      "source": "메디게이트뉴스",
-      "published_iso": "2026-11-04T23:11:00+09:00",
-      "og_image": "https://www.medigatenews.com/file/news/539561",
-      "excerpt": "서울성모병원 이인석 교수팀이 건강검진·유전체·웨어러블 데이터를 AI로 분석해 만성콩팥병 위험도를 알려주는 모바일 앱의 효용성 검증을 시작했다. 과기정통부·IITP 지원 페놈데이터 기반 AI 건강위험 예측 과제의 일부다.",
+      "url": "https://www.nih.gov/news-events/nih-research-matters/stroke-recovery-tracked-wearable-device",
+      "source": "NIH Research Matters",
+      "published_iso": "2026-11-05T12:00:00Z",
+      "og_image": "https://www.nih.gov/sites/default/files/2026-11/20261105-stroke.jpg",
+      "excerpt": "NIH-funded UMass team used machine learning on wrist accelerometer data from 61 stroke patients to build a digital arm performance scale (DAPS) that tracked arm recovery as well as clinical tests (Science Translational Medicine).",
       "category": "medicine",
-      "rationale": "A Korean hospital starts clinical validation of a patient-facing AI risk app for a specific disease (CKD) built on checkup, genomic and wearable data."
+      "rationale": "Rehab monitoring: an ML scale built from a wrist accelerometer tracked stroke patients' arm recovery as well as in-clinic tests, pointing to at-home outcome tracking."
     },
     {
-      "title": "Non-experts with AI guidance and off-site review perform quality mobile rural heart scans",
+      "title": "Deep-learning model predicts mortality from CTA scans",
       "tool": "Medicine",
       "accent": "#f5a623",
       "motif": "sphere",
-      "url": "https://newsroom.heart.org/news/non-experts-with-ai-guidance-and-off-site-review-perform-quality-mobile-rural-heart-scans",
-      "source": "American Heart Association Newsroom",
-      "published_iso": "2026-11-02T10:00:00Z",
-      "og_image": "https://iprsoftwaremedia.com/67/files/20269/eec50b9c834cefd555f05b13149e03ca/6ad983fe3d633211624a8985_Ravi%20-%20Mobile%20Health%20Unit/Ravi%20-%20Mobile%20Health%20Unit_hero.jpg?v=452cc052-eaae-4f6d-93f1-4363f72b0584",
-      "excerpt": "AHA Scientific Sessions 2026 abstract: health professionals with no ultrasound training captured quality echocardiograms in a mobile unit visiting rural U.S. communities using real-time AI guidance, with off-site expert review.",
+      "url": "https://www.auntminnie.com/clinical-news/ct/article/16424554/deeplearning-model-predicts-mortality-from-cta-scans",
+      "source": "AuntMinnie",
+      "published_iso": "2026-11-06T19:29:57Z",
+      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/cac-ai-model.5zit2QCAiF.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+      "excerpt": "Cedars-Sinai-led multicenter study (1,674 TAVR-planning patients, 9 sites, JACC: Cardiovascular Imaging) shows a deep-learning model quantifies aortic valve fibrotic and calcific tissue on CTA in 1.35 min vs 7.2 min for experts; highest fibrotic volume carried 2x mortality risk.",
       "category": "medicine",
-      "rationale": "Care-delivery result: with AI guidance, untrained staff captured usable echocardiograms in rural mobile clinics, which extends who can perform cardiac imaging."
+      "rationale": "TAVR planning: deep learning quantifies valve fibrosis and calcium on pre-procedure CTA about 5x faster than experts, and the fibrotic burden it measures predicts mortality."
     }
   ],
   "dedup": {
     "checks": {
-      "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41142": {
-        "verdict": "new",
-        "nearest": "https://www.nature.com/articles/s44360-026-00205-y",
-        "new_action": ""
-      },
-      "https://www.nature.com/articles/s41746-026-03447-y": {
-        "verdict": "new",
-        "nearest": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15975544/siimcaimi-ai-triaging-for-ich-leads-to-faster-turnaround-times",
-        "new_action": ""
-      },
-      "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41071": {
-        "verdict": "new",
-        "nearest": "https://radiologybusiness.com/topics/artificial-intelligence/radiology-ai-authorizations-rise-42-regulatory-landscape-evolves",
-        "new_action": ""
-      },
-      "https://m.medigatenews.com/news/2393566577": {
+      "https://www.nature.com/articles/s41591-026-04724-9": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://newsroom.heart.org/news/non-experts-with-ai-guidance-and-off-site-review-perform-quality-mobile-rural-heart-scans": {
+      "https://radiologybusiness.com/topics/medical-imaging/interventional-radiology/fda-clears-ai-powered-intravascular-ultrasound-imaging-platform": {
         "verdict": "new",
-        "nearest": "https://www.auntminnie.com/clinical-news/ultrasound/news/16349404/ge-healthcare-gehc-adds-lung-aortic-stenosis-ai-tools-to-vscan-air",
+        "nearest": "https://cardiovascularbusiness.com/topics/artificial-intelligence/fda-clears-elucids-new-ai-enabled-ffr-ct-software",
+        "new_action": ""
+      },
+      "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.42403": {
+        "verdict": "new",
+        "nearest": "https://www.medpagetoday.com/practicemanagement/informationtechnology/123591",
+        "new_action": ""
+      },
+      "https://www.nih.gov/news-events/nih-research-matters/stroke-recovery-tracked-wearable-device": {
+        "verdict": "new",
+        "nearest": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
+        "new_action": ""
+      },
+      "https://www.auntminnie.com/clinical-news/ct/article/16424554/deeplearning-model-predicts-mortality-from-cta-scans": {
+        "verdict": "new",
+        "nearest": "https://www.nature.com/articles/s41746-026-03392-w",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates/running stories: MedCity '7 Potential Problems with Medicare's AI Prior Authorization Experiment' (likely-repeat of JAMA WISeR 2026-10-30, commentary with no new decision); Radiology Business night-shift residents + AI (same study as AuntMinnie 2026-10-27); Healthcare Dive 'How should the FDA regulate generative AI in medtech? 5 takes' (same FDA genAI docket-comment story as Healthcare Dive 2026-10-23 'Developers, not doctors...'). Not picked on merit: MedCity 'AI Didn't Reduce Clinician Burden' (opinion); Healthcare Dive patient human-in-loop survey (close to 2026-10-18 public-perception item); STAT chatbots / STAT FDA-CMS-states (paywalled; the states piece could also clash with politics); Nature Medicine primary-care conversational AI (dated 10-23, a news-and-views piece); Dailypharm pathology AI reimbursement and Digital Pathology Association statement (advocacy/analysis; same running story); Medigate Soombit conference talk; npj Chilean ultrasound delivery-date validation (ranked 6th). Picks with history_match: the JAMA silent-manipulation study is a different study from the 11-03 drug-name-convergence paper; the AHA rural echo abstract is a different event from the 11-04 GEHC Vscan Air product update. Cross-section check: published_urls.json was only partly read (3992 lines, too large for this agent's Read-only tools). The orchestrator should exact-grep the 5 pick URLs across all sections before roll."
+    "note": "Dropped as duplicates or running stories: Medigate 'Lunit SITC with Labcorp/Cellcarta' (same SITC ovarian/bladder Lunit SCOPE IO presentations already published via Dailypharm 343389 on 2026-10-20, no new release); Healthcare Dive 'How should the FDA regulate generative AI in medtech? 5 takes' (same FDA genAI docket-comment story as Healthcare Dive 2026-10-23, commentary only; also dropped 11-06); MedCity '7 Potential Problems with Medicare's AI Prior Authorization Experiment' (WISeR running story, JAMA 2026-10-30; commentary on documents, no new CMS decision; also dropped 11-06). Not picked on merit: Healthcare Dive patient human-in-loop survey (close to 2026-10-18 JAMA public-perception item), JAMA Pediatrics parent comfort survey, Stanford SpatialWhisperer (pathology cell-type inference, close to science/biology and to 10-12 pancreatic histopathology item), Dailypharm pathology-AI reimbursement analysis, Medigate Dongtan City Hospital home-care talk, npj HFpEF risk model, npj RETBind. History_match picks: JAMA scribes study is a different study (language/interpreter equity, Brigham) from the MedPage 10-27 scribe productivity study; AuntMinnie CTA is unrelated to the 10-20 opioid model; NIH wearable stroke scale is distinct from the 10-21 robotic stroke therapy piece. Cross-section check: published_urls.json medicine and science blocks read for nature.com / med.stanford / nih.gov / auntminnie / radiologybusiness / jamanetwork entries; none of the 5 pick URLs appear. Same-day (11-07) picks in other sections not yet in the ledger; orchestrator should check science for the gait model and NIH stroke item."
   }
 }

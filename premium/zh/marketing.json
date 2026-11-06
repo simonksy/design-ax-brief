@@ -3669,6 +3669,138 @@
           "x": "Roku Outcomes 目前可在 Roku 整个广告生态中使用，包括 Home Screen 原生广告位和插播视频，首先面向媒体和娱乐广告主推出，未来更新还计划支持购买、网站访问和购物车活动。"
         }
       ]
+    },
+    "marketing/chatgpt-ads-bidding-nov9": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI刚刚向ChatGPT Ads的广告主发送邮件，告知将于11月9日（周一）生效的出价选项变更。此次变更影响使用Max Bid或Max CPC出价选项的广告主。OpenAI写道：“从11月9日（周一）起，你在Ads Manager中创建广告系列或更新现有广告系列时，可以选择设定成本目标。”"
+        },
+        {
+          "t": "p",
+          "x": "目标单次行动成本（Target CPA）将面向转化广告系列推出，并在Ads Manager的新转化广告系列中取代Max Bid。目标单次点击成本（Target CPC）将面向点击广告系列推出，并在新点击广告系列中取代Max CPC；Max CPC为单次出价设定上限，而Target CPC允许系统在每次竞价中高于或低于你的目标出价。"
+        },
+        {
+          "t": "p",
+          "x": "Max Bid和Max CPC将于2027年1月1日停用。Maximize results（autobid）现称智能出价（intelligent bidding），将继续自动调整出价和投放。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI建议现在就开始过渡，确认Pixel或Conversions API正在发送所选事件，并参考近期实际的CPA或CPC来设定切实可行的目标。目标过严或转化信号偏弱，可能导致广告投放减少、预算花不出去。"
+        }
+      ]
+    },
+    "marketing/google-ads-ai-disclosure-regions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-label-glow-55CezYGY.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Ads扩大了必须披露广告中是否使用AI的地区范围。Google在原有的欧盟、印度和纽约之外，新增了加利福尼亚、韩国和越南。"
+        },
+        {
+          "t": "p",
+          "x": "Google已据此更新了几份文档，包括Google Ads帮助文档“Use AI content label settings and disclosures”以及Google Merchant Center帮助文档“Product data specification”。"
+        },
+        {
+          "t": "p",
+          "x": "在地区部分下，现在写道：“在部分地区，AI标签也会显示在广告本身上。对于定位以下地区的广告系列，含有你标记为AI创建或编辑的素材的广告，还将在广告上显示可见的叠加标识：”欧盟、印度、纽约、加利福尼亚、韩国、越南。"
+        },
+        {
+          "t": "p",
+          "x": "以下是该页面的截图，我用红色标出了新增内容："
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png"
+        },
+        {
+          "t": "p",
+          "x": "Google在Merchant Center文档中写道：欧盟、印度、纽约、加利福尼亚、韩国和越南的AI法规要求，含有特定AI-generated或经编辑素材的广告必须加入披露和/或标签，告知消费者该广告是用AI制作的。"
+        },
+        {
+          "t": "p",
+          "x": "我猜这份名单还会随着时间继续扩大……"
+        }
+      ]
+    },
+    "marketing/google-ucp-checkout-canada": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-canada-checkout-1600x840-972.png"
+        },
+        {
+          "t": "p",
+          "x": "Google正将基于Universal Commerce Protocol（UCP）的直接结账功能扩展至加拿大购物者，覆盖Google Search中的AI Mode和Gemini应用。Google Canada副总裁兼国家总经理Sabrina Geremia于2026年11月4日宣布了这一上线。"
+        },
+        {
+          "t": "p",
+          "x": "加拿大首批上线的商家包括lululemon、部分Shopify商家、Shoppers Drug Mart和Simons。购物者使用Google Wallet中保存的支付方式和收货信息，通过Google Pay付款，零售商仍是登记卖方（seller of record）。Google计划在未来几个月增加使用会员积分等功能。"
+        },
+        {
+          "t": "p",
+          "x": "Google表示，从明年起将直接在Merchant Center内提供简化的UCP集成，让零售商可以在自己的账户中为其在AI Mode和Gemini应用中的商品开启直接结账。"
+        },
+        {
+          "t": "p",
+          "x": "Shopify产品副总裁（VP of Product）Mani Fazeli表示：“加拿大人已经在问AI该买什么，现在面向加拿大销售的Shopify商家无需做任何额外工作，就能在AI Mode和Gemini应用中被准确呈现并被直接购买，额外工作为零。”Google尚未公布Merchant Center集成的具体发布日期。"
+        }
+      ]
+    },
+    "marketing/blend-agent-bot-blocks-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
+        },
+        {
+          "t": "p",
+          "x": "在200家UK和US零售商中，有29家的安全软件在两次独立尝试中都拒绝了Blend Commerce派出的自动购物智能体，其中包括Home Depot、Best Buy、Macy's、Tesco、Argos和Next。Blend于10月6日发布了AI Shopping Audit 2026，并于2026年11月4日、即Black Friday前23天就调查结果发表声明。"
+        },
+        {
+          "t": "p",
+          "x": "测试于2026年9月8日至15日进行。80家大型零售商中有16家拒绝了浏览器（20%）。80家中型（mid-sized）零售商中有十二家拒绝（15%），而40家新兴零售商中只有一家拒绝（2.5%）。Saks Fifth Avenue、Bergdorf Goodman、Anthropologie和JD Williams得分为零。"
+        },
+        {
+          "t": "p",
+          "x": "在拒绝访问的29家商店中，Blend能读取其中24家的robots.txt，而这24家全部允许ChatGPT、Perplexity和Claude的搜索爬虫。报告称：“拒绝来自机器人防护。”"
+        },
+        {
+          "t": "p",
+          "x": "Blend Commerce联合创始人（co-founder）兼CEO Adam Pearce表示：“这些零售商中的大多数很可能已经告诉AI公司，欢迎它们的智能体。然而前门的安全软件却把它拒之门外。”"
+        },
+        {
+          "t": "p",
+          "x": "测试使用的是Blend自己的智能体，而非ChatGPT或Gemini：“零售商可能允许具名的AI智能体，同时拒绝它无法识别的自动化程序。”在38家拥有可用智能体结账端点的零售商中，有三十七家（Thirty-seven）运行在Shopify上。"
+        }
+      ]
+    },
+    "marketing/sej-ai-answer-ads-categories": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-shopping-ads.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adthena报告称，6月至9月间，在U.S.（美国）的Google AI Overview面板和AI Mode面板中发现约175,100个付费广告展示位。统计涵盖五个节日购物类别，但大部分付费广告位属于服装和消费电子。Holiday AI Paid Search Report还统计了同期同五个类别中的204,489个ChatGPT广告展示位。"
+        },
+        {
+          "t": "p",
+          "x": "在Google的统计中，服装约111,000个，消费电子约55,000个，旅行约6,500个，美妆约2,100个，玩具与游戏约685个。广告主无需单独购买：所有Search、Shopping和Performance Max广告系列都会自动获得在AI答案中展示的资格。2025年8月至2026年8月，U.S. AI Overview的展示次数从3.04亿次增至5.75亿次，增长89%。"
+        },
+        {
+          "t": "p",
+          "x": "在ChatGPT上，服装以90,517个居首，其次是消费电子56,569个、旅行48,134个、玩具与游戏4,694个、美妆4,575个。美妆类广告中有83%出现在调研与发现类查询中；服装和消费电子不到一半，分别为48%和42%。该报告未追踪点击、支出或转化，数据截至9月，早于Black Friday。"
+        }
+      ]
     }
   }
 }
