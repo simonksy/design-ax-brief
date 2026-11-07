@@ -1,31 +1,31 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "section": "marketing",
   "media": [
     {
-      "id": "amazon-agent-sponsored-text",
+      "id": "google-ads-creative-drop2",
       "type": "image",
-      "src": "pipeline/media/amazon-agent-sponsored-text.jpg"
+      "src": "pipeline/media/google-ads-creative-drop2.jpg"
     },
     {
-      "id": "chatgpt-ads-bidding-nov9",
+      "id": "jet-jetads-retail-media",
       "type": "image",
-      "src": "pipeline/media/chatgpt-ads-bidding-nov9.jpg"
+      "src": "pipeline/media/jet-jetads-retail-media.png"
     },
     {
-      "id": "google-ads-ai-disclosure-regions",
+      "id": "kakao-ai-crew-ad-agent",
       "type": "image",
-      "src": "pipeline/media/google-ads-ai-disclosure-regions.png"
+      "src": "pipeline/media/kakao-ai-crew-ad-agent.jpg"
     },
     {
-      "id": "google-ucp-checkout-canada",
+      "id": "swivel-ctv-agentic-infra",
       "type": "image",
-      "src": "pipeline/media/google-ucp-checkout-canada.png"
+      "src": "pipeline/media/swivel-ctv-agentic-infra.jpg"
     },
     {
-      "id": "blend-agent-bot-blocks-audit",
+      "id": "visa-agentic-commerce-benchmark",
       "type": "image",
-      "src": "pipeline/media/blend-agent-bot-blocks-audit.jpg"
+      "src": "pipeline/media/visa-agentic-commerce-benchmark.jpg"
     }
   ]
 }

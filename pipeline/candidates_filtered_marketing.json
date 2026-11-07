@@ -1,31 +1,15 @@
 {
   "section": "marketing",
-  "now_iso": "2026-11-06T22:03:00Z",
+  "now_iso": "2026-11-07T22:02:33Z",
   "window_hours": 72,
   "items": [
-    {
-      "title": "Amazon’s shopping agent now takes orders by text, with Sponsored Product ads in the replies",
-      "url": "https://digiday.com/media-buying/amazons-shopping-agent-now-takes-orders-by-text-with-sponsored-product-ads-in-the-replies/",
-      "source": "Digiday",
-      "category": "marketing",
-      "published_iso": "2026-11-06T14:00:00+00:00",
-      "excerpt": "Sponsored Products ads are set to appear inside those conversations, free to advertisers for the time being.",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/03/Amazon-ads.jpg",
-      "history_match": {
-        "score": 0.213,
-        "date": "2026-11-03",
-        "url": "https://digiday.com/marketing/amazon-says-more-than-400m-customers-have-used-alexa-for-shopping-in-the-last-12-months/",
-        "title": "Amazon says more than 400M customers have used Alexa for Shopping in the last 12 months",
-        "band": "related"
-      }
-    },
     {
       "title": "In graphic detail: Six thousand brands later, ChatGPT ads still have a conversion problem",
       "url": "https://digiday.com/marketing/in-graphic-detail-chatgpt-s-ad-growth-is-outrunning-the-proof-that-it-works/",
       "source": "Digiday",
       "category": "marketing",
       "published_iso": "2026-11-05T05:01:00+00:00",
-      "excerpt": "Six thousand brands into ChatGPT ads, Digiday charts how OpenAI's ad growth is outrunning proof of conversion — the measurement and demand gap behind its $100 billion ad ambition.",
+      "excerpt": "Digiday charts ChatGPT Ads' growth to roughly 6,000 brands against thin conversion proof; OpenAI's path to a $100B ad business hinges on advertiser demand, measurement and monetisation.",
       "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/04/openai-cpc-digiday.jpg"
     },
     {
@@ -34,40 +18,8 @@
       "source": "Digiday",
       "category": "marketing",
       "published_iso": "2026-11-06T05:01:00+00:00",
-      "excerpt": "A recap of the sessions and insights coming out of Digiday's Fall Media Buying Summit, which centered on AI's impact",
+      "excerpt": "AI has swept across media agencies, from planning and measurement tools that mine audience data to creative work, while clients also demand guidance on putting AI to use. (Weaker, recap-style.)",
       "og_image": "https://digiday.com/wp-content/uploads/sites/3/2024/02/media-cord-digiday.png"
-    },
-    {
-      "title": "OpenAI Updates ChatGPT Ads Bidding Options",
-      "url": "https://www.seroundtable.com/openai-updates-chatgpt-ads-bidding-options-42470.html",
-      "source": "Search Engine Roundtable",
-      "category": "marketing",
-      "published_iso": "2026-11-05T13:29:00-05:00",
-      "excerpt": "OpenAI emailed ChatGPT Ads advertisers that bidding options change on Monday, November 9, affecting campaigns using Max Bid or Max CPC.",
-      "og_image": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg",
-      "history_match": {
-        "score": 0.254,
-        "date": "2026-10-26",
-        "url": "https://searchengineland.com/google-ads-expands-smart-bidding-exploration-to-performance-max-and-shopping-campaigns-498529",
-        "title": "Google Ads expands Smart Bidding Exploration to Performance Max and Shopping campaigns",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Google Ads Expands AI Content Label Disclosure To California, South Korea & Vietnam",
-      "url": "https://www.seroundtable.com/google-ads-expands-ai-content-label-disclosure-42461.html",
-      "source": "Search Engine Roundtable",
-      "category": "marketing",
-      "published_iso": "2026-11-05T07:51:00-05:00",
-      "excerpt": "Google Ads has expanded the regions where you must disclose whether AI was used in your ads. Google added California, South Korea, and Vietnam to the list, which already included the European Union, India, and New York.",
-      "og_image": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png",
-      "history_match": {
-        "score": 0.16,
-        "date": "2026-10-29",
-        "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
-        "title": "Ads in AI Mode expand to new markets.",
-        "band": "related"
-      }
     },
     {
       "title": "Swivel Wants To Create Agentic Infrastructure For CTV",
@@ -75,92 +27,28 @@
       "source": "AdExchanger",
       "category": "marketing",
       "published_iso": "2026-11-06T05:45:53+00:00",
-      "excerpt": "Agentic media buying is the No. 1 topic du jour in ad tech discussion circles. The startup Swivel aims to make it work in CTV environments.",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/11/tv-remote-stock-square-1-scaled.jpeg",
-      "history_match": {
-        "score": 0.163,
-        "date": "2026-10-20",
-        "url": "https://www.adexchanger.com/ai/ai-startup-minerva-built-an-agentic-cdp-but-dont-call-it-that/",
-        "title": "AI Startup Minerva Built An Agentic CDP, But Don't Call It That",
-        "band": "related"
-      }
+      "excerpt": "Publisher-tech startup Swivel, founded by ex-FreeWheel and SpringServe executives, is building infrastructure so AI agents can buy TV and streaming ads, automating manual direct-deal tasks in CTV.",
+      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/11/tv-remote-stock-square-1-scaled.jpeg"
     },
     {
       "title": "60% of UK adults would drop an AI shopping agent after one mistake, ACI finds",
       "url": "https://ppc.land/60-of-uk-adults-would-drop-an-ai-shopping-agent-after-one-mistake-aci-finds/",
       "source": "PPC Land",
       "category": "marketing",
-      "published_iso": "2026-11-06T17:56:42.000Z",
-      "excerpt": "Only 19% trust AI to make everyday purchases, against 55% for a human adviser, in a YouGov poll of 2,080 UK adults. Who should pay refunds when agents fail?",
-      "og_image": "https://ppc.land/content/images/2026/11/aci-uk-ai-shopping-agent-60-drop-after-one-mistake-tin-retriever-wrong-shoe-dropped-leash.jpg",
-      "history_match": {
-        "score": 0.163,
-        "date": "2026-10-20",
-        "url": "https://ppc.land/chatgpt-drops-to-74-5-of-marketers-as-claude-climbs-to-72-3-basis-finds/",
-        "title": "ChatGPT drops to 74.5% of marketers as Claude climbs to 72.3%, Basis finds",
-        "band": "related"
-      }
+      "published_iso": "2026-11-06T17:56:42Z",
+      "excerpt": "A YouGov poll of 2,080 UK adults for ACI found only 19% trust AI to make everyday purchases versus 55% for a human adviser, and 60% would abandon an AI shopping agent after one error.",
+      "og_image": "https://ppc.land/content/images/2026/11/aci-uk-ai-shopping-agent-60-drop-after-one-mistake-tin-retriever-wrong-shoe-dropped-leash.jpg"
     },
     {
-      "title": "Bot protection blocks Blend's AI shopping agent at 29 of 200 retailers",
-      "url": "https://ppc.land/bot-protection-blocks-blends-ai-shopping-agent-at-29-of-200-retailers/",
+      "title": "Amazon opens its search to outside stores as bots block AI shoppers",
+      "url": "https://ppc.land/amazon-opens-its-search-to-outside-stores-as-bots-block-ai-shoppers/",
       "source": "PPC Land",
       "category": "marketing",
-      "published_iso": "2026-11-05T05:20:35.000Z",
-      "excerpt": "Large retailers refused the agent at a 20% rate, emerging ones at 2.5%, yet all 24 refusers with readable robots.txt allow AI crawlers. Who set those blocks?",
-      "og_image": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
-    },
-    {
-      "title": "ChatGPT reaches a fifth of Google search volume as Taboola blames AI",
-      "url": "https://ppc.land/chatgpt-reaches-a-fifth-of-google-search-volume-as-taboola-blames-ai/",
-      "source": "PPC Land",
-      "category": "marketing",
-      "published_iso": "2026-11-05T05:56:20.000Z",
-      "excerpt": "OpenAI said ChatGPT handles a fifth of Google's search-like volume, Taboola cited AI summaries as revenue fell 6.9% and Anthropic signed its first news licence.",
-      "og_image": "https://ppc.land/content/images/2026/11/landline-2026-11-05-chatgpt-fifth-google-search-taboola-ai-summaries-teller-hatch-newsstand-coin.jpg"
-    },
-    {
-      "title": "Google Brings UCP Direct Checkout To AI Mode In Canada",
-      "url": "https://www.searchenginejournal.com/google-brings-ucp-direct-checkout-to-ai-mode-in-canada/595882/",
-      "source": "Search Engine Journal",
-      "category": "marketing",
-      "published_iso": "2026-11-05T03:38:11+00:00",
-      "excerpt": "Google is expanding UCP-powered direct checkout in AI Mode and the Gemini app to Canadian shoppers, with a Merchant Center integration planned for next year.",
-      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-canada-checkout-1600x840-972.png",
+      "published_iso": "2026-11-06T07:36:19Z",
+      "excerpt": "Amazon launched the Shop Direct Merchant Workspace so eligible non-Amazon retailers can list in its search for free; shoppers click through or let Amazon's Buy for Me AI complete the purchase. (Blend audit part already covered.)",
+      "og_image": "https://ppc.land/content/images/size/w1200/2026/11/landline-2026-11-06-amazon-shop-direct-ai-shoppers-blocked-29-of-200-giant-rolodex-basket-shopper-rejected-card.jpg",
       "history_match": {
-        "score": 0.347,
-        "date": "2026-10-08",
-        "url": "https://www.seroundtable.com/google-merchant-center-ucp-integration-hub-42243.html",
-        "title": "Google Merchant Center UCP Integration Hub",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Google Search Queries Hit A 5-Year High, And Search Revenue Didn’t Follow",
-      "url": "https://www.searchenginejournal.com/google-search-queries-hit-a-5-year-high-and-search-revenue-didnt-follow/595485/",
-      "source": "Search Engine Journal",
-      "category": "marketing",
-      "published_iso": "2026-11-05T20:00:58+00:00",
-      "excerpt": "Alphabet’s Q3 numbers show AI Mode growing faster than it earns, and every reason Google gave for the slowdown is temporary except one.",
-      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/duane-forrester-decodes-google-search-752.png",
-      "history_match": {
-        "score": 0.178,
-        "date": "2026-11-03",
-        "url": "https://www.searchenginejournal.com/google-search-chatgpt-ad-revenue-per-visit/595596/",
-        "title": "Google Search Ad Visits Out-Earned ChatGPT Ads In U.S.",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Amazon adds over 100 Alexa for Shopping functions",
-      "url": "https://www.retaildive.com/news/amazon-adds-alexa-ai-shopping-functions/873602/",
-      "source": "Retail Dive",
-      "category": "marketing",
-      "published_iso": "2026-11-05T17:38:00+00:00",
-      "excerpt": "Amazon added over 100 Alexa for Shopping functions, including managing subscriptions, resolving billing questions, and creating and editing lists and registries.",
-      "og_image": null,
-      "history_match": {
-        "score": 0.272,
+        "score": 0.222,
         "date": "2026-11-03",
         "url": "https://digiday.com/marketing/amazon-says-more-than-400m-customers-have-used-alexa-for-shopping-in-the-last-12-months/",
         "title": "Amazon says more than 400M customers have used Alexa for Shopping in the last 12 months",
@@ -168,61 +56,159 @@
       }
     },
     {
-      "title": "Google makes big plans for wallet",
-      "url": "https://www.retaildive.com/news/google-wallet-digital-agentic-retail/873721/",
-      "source": "Retail Dive",
+      "title": "ChatGPT reaches a fifth of Google search volume as Taboola blames AI",
+      "url": "https://ppc.land/chatgpt-reaches-a-fifth-of-google-search-volume-as-taboola-blames-ai/",
+      "source": "PPC Land",
       "category": "marketing",
-      "published_iso": "2026-11-04T21:41:00+00:00",
-      "excerpt": "The tech giant thinks a digital wallet should act as a repository for receipts, track online orders and arrange refunds, among other tasks.",
-      "og_image": "https://imgproxy.divecdn.com/GJU5H64o11nqk2SfoUIxYEfG0E_zVlotAcPerdpYTzY/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzODYzMTEwLmpwZw==.webp"
+      "published_iso": "2026-11-05T05:56:20Z",
+      "excerpt": "OpenAI said ChatGPT's search-like query volume is about one-fifth of Google's, while Taboola blamed AI summaries for a 6.9% revenue drop, signalling where search ad budgets may move. (Weaker; roundup.)",
+      "og_image": "https://ppc.land/content/images/2026/11/landline-2026-11-05-chatgpt-fifth-google-search-taboola-ai-summaries-teller-hatch-newsstand-coin.jpg"
     },
     {
-      "title": "AI Is Both Canva’s Biggest Bet and Its Biggest Threat",
-      "url": "https://www.adweek.com/creativity/ai-is-both-canvas-biggest-bet-and-its-biggest-threat/",
-      "source": "ADWEEK",
+      "title": "카카오 \"내달 광고 AI 에이전트 'AI 크루' 베타 시작\"",
+      "url": "https://www.hankyung.com/article/202611057601i",
+      "source": "한국경제",
       "category": "marketing",
-      "published_iso": "2026-11-05T12:28:13-05:00",
-      "excerpt": "Rising AI costs, falling valuations, and a wave of AI-native rivals are converging on the design giant.",
-      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/11/canva-layoff-ai-saaspocalypse-2026.png?w=600&h=315&crop=1"
+      "published_iso": "2026-11-05T10:10:25+09:00",
+      "excerpt": "카카오가 3분기 실적 발표에서 목표만 입력하면 광고 집행과 성과 분석을 돕는 광고 AI 에이전트 'AI 크루'를 12월 베타로 시작한다고 밝혔다. 내년 1분기까지 AI 광고 추천용 공통 메모리 인프라도 구축한다.",
+      "og_image": "https://img.hankyung.com/photo/202611/ZK.46317333.1.jpg"
+    },
+    {
+      "title": "몰로코, AI 광고 최적화 기술로 콘텐츠·서비스 발견 앞당긴다",
+      "url": "https://www.etnews.com/20261105000377",
+      "source": "전자신문",
+      "category": "marketing",
+      "published_iso": "2026-11-05T14:51:38+09:00",
+      "excerpt": "몰로코가 AI 광고 최적화 엔진을 앱 광고에서 독립 앱·CTV·쇼핑몰로 넓히고, AI 에이전트 쇼핑 시대에도 광고로 상품·서비스 발견을 돕겠다고 밝혔다.",
+      "og_image": "https://img.etnews.com/news/article/2026/11/05/news-p.v1.20261105.71c3ca1c301648db8eb66047b09a4862_P1.png"
+    },
+    {
+      "title": "Bring Your Holiday Campaigns to Life with Google AI | Creative Drop #2",
+      "url": "https://business.google.com/us/accelerate/announcements/optimize-holiday-ads-with-google-ai-creative-drop-2/",
+      "source": "Google Ads",
+      "category": "marketing",
+      "published_iso": "2026-11-05T07:09:00-08:00",
+      "excerpt": "Google Ads' Creative Drop #2 adds AI tools to localize campaigns, generate festive product shots in Asset Studio and turn photos into YouTube video ads for the holiday season. (Off-list google first-party domain.)",
+      "og_image": "https://www.gstatic.com/marketing-cms/assets/images/ads/1c/4c/496f057d4eea9af7b10020b29137/cd2-3x2-card-01.webp=n-w1050-h700-fcrop64=1,00000000ffffffff-rw",
+      "history_match": {
+        "score": 0.157,
+        "date": "2026-10-24",
+        "url": "https://www.seroundtable.com/google-ads-sourced-videos-42365.html",
+        "title": "Google Ads Asset Optimization Sourced Videos Toggle",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Top 5 Learnings from Vercel's COO: 10 SDRs Down to 1, a $5K-a-Year Lead Agent, and 93% of Support Cases Handled by AI",
+      "url": "https://www.saastr.com/top-5-learnings-from-vercels-coo-10-sdrs-down-to-1-a-5k-a-year-lead-agent-and-93-of-support-cases-handled-by-ai/",
+      "source": "SaaStr",
+      "category": "marketing",
+      "published_iso": "2026-11-06T15:00:25+00:00",
+      "excerpt": "Vercel went from 10 people qualifying inbound leads to one six weeks after turning on an AI lead agent costing under $5,000 a year, with SDR quotas up 30%. (Off-list; no on-list AI SDR story.)",
+      "og_image": "https://i0.wp.com/www.saastr.com/wp-content/uploads/2026/11/vercel-sdr-video-thumbnail-scaled.jpg?fit=1000%2C563&quality=70&ssl=1"
+    },
+    {
+      "title": "Visa launches benchmark for AI shopping agents",
+      "url": "https://thepaypers.com/payments/news/visa-benchmark-tests-how-well-ai-agents-handle-shopping-tasks",
+      "source": "The Paypers",
+      "category": "marketing",
+      "published_iso": "2026-11-06T13:57:55+00:00",
+      "excerpt": "Visa's new Agentic Commerce Benchmark found leading AI models passed 57.2% of realistic shopping tests, and 54% of failed runs still ended in a purchase. (Off-list; agentic checkout.)",
+      "og_image": "https://assets.thepaypers.com/news%20team/225-visa.jpg",
+      "history_match": {
+        "score": 0.17,
+        "date": "2026-10-16",
+        "url": "https://www.paymentsdive.com/news/stripe-agentic-commerce-revs-up/833109/",
+        "title": "Stripe agentic commerce revs up",
+        "band": "related"
+      }
+    },
+    {
+      "title": "A growing streetwear retailer reveals its AI agent shopping strategy ahead of the holidays",
+      "url": "https://www.businessinsider.com/all-star-elite-streetwear-ai-agent-shopping-strategy-holidays-2026-11",
+      "source": "Business Insider",
+      "category": "marketing",
+      "published_iso": "2026-11-07T00:00:00Z",
+      "excerpt": "All Star Elite, a 60-store US streetwear chain, is optimizing its online catalog and pricing for AI shopping bots ahead of the holidays. (Off-list; page gives date only.)",
+      "og_image": "https://i.insider.com/6aee5b6480d4b24f183472a2?width=1200&format=jpeg",
+      "history_match": {
+        "score": 0.22,
+        "date": "2026-10-19",
+        "url": "https://www.semafor.com/article/10/16/2026/ecommerce-confronts-ai-shopping-agents-ahead-of-holiday-season",
+        "title": "Ecommerce confronts AI shopping agents ahead of holiday season",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Just Eat Takeaway.com launches JETads, a new AI-first advertising platform for European advertisers",
+      "url": "https://newsroom.justeattakeaway.com/en-WW/274080-just-eat-takeaway-com-launches-jetads-a-new-ai-first-advertising-platform-for-european-advertisers/",
+      "source": "Just Eat Takeaway.com",
+      "category": "marketing",
+      "published_iso": "2026-11-05T09:00:00+01:00",
+      "excerpt": "JET launched JETads, an AI-first retail media platform live in 14 markets, using its personalisation models across 59M consumers and 592M yearly orders, with closed-loop measurement for restaurants, FMCG and non-endemic brands. (Off-list first-party.)",
+      "og_image": "https://d21buns5ku92am.cloudfront.net/69466/images/714382-image_20261104135837_alq-494b13-large-1793801006.png"
+    },
+    {
+      "title": "Ads in Chatbots Have Arrived. Here's What's Working—and What's Not",
+      "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+      "source": "WIRED",
+      "category": "marketing",
+      "published_iso": "2026-11-05T21:37:18Z",
+      "excerpt": "With OpenAI past 100,000 ChatGPT advertisers and Google expanding AI Mode ads, WIRED looks at what is working in chatbot ad formats, including niche-chatbot ad tech such as Koah Labs, while Anthropic keeps Claude ad-free. (Off-list.)",
+      "og_image": "https://media.wired.com/photos/6aeccd4b5e88c9a490858b81/191:100/w_1280,c_limit/Model-Behavior-11052026-option2.jpg",
+      "history_match": {
+        "score": 0.262,
+        "date": "2026-10-22",
+        "url": "https://www.adexchanger.com/marketers/chatgpt-ads-is-expanding-to-new-markets-and-exploring-new-ad-formats/",
+        "title": "ChatGPT Ads Is Expanding To New Markets And Exploring New Ad Formats",
+        "band": "related"
+      }
+    },
+    {
+      "title": "HS Ad links AI agent to forecast Netflix ad reach and unify media planning",
+      "url": "https://biz.chosun.com/en/en-industry/2026/11/05/FJONISLEMJEH3LM2TUSAZQND7M/",
+      "source": "Chosunbiz",
+      "category": "marketing",
+      "published_iso": "2026-11-05T00:10:02Z",
+      "excerpt": "Korean agency HS Ad connected an AI agent to its media planning system so planners can ask in natural language for expected Netflix ad reach by target and budget and compare scenarios. (Off-list.)",
+      "og_image": "https://biz.chosun.com/resizer/v2/MJSWCYZVMRTGKNRXGUZWMNBXMQ.jpg?auth=615d675311bb6b5fc880266c9b9b99410b3b0681c8c2577ff618baa748b601db&width=1200&height=630&smart=true",
+      "history_match": {
+        "score": 0.179,
+        "date": "2026-10-18",
+        "url": "https://www.adexchanger.com/ai/videoamp-bets-on-ai-to-connect-ad-planning-and-measurement/",
+        "title": "VideoAmp Bets On AI To Connect Ad Planning And Measurement",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Google allows Gmail and Photos data for personalised ads in Search, Gemini",
+      "url": "https://dataconomy.com/2026/11/05/google-allows-gmail-and-photos-data-for-personalised-ads/",
+      "source": "Dataconomy",
+      "category": "marketing",
+      "published_iso": "2026-11-05T11:26:20+01:00",
+      "excerpt": "Google's updated privacy policy lets Search and Gemini use content from connected Gmail, Drive, Calendar and Photos to personalise ads, e.g. calendar events connected to Gemini. (Off-list; policy effective Oct 16, reported Nov 5.)",
+      "og_image": "https://dataconomy.com/wp-content/uploads/2026/11/google-updates-privacy-policy-allowing-search-gemi.jpg",
+      "history_match": {
+        "score": 0.316,
+        "date": "2026-10-24",
+        "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+        "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+        "band": "related"
+      }
     }
   ],
   "dedup": {
-    "dropped": 3,
-    "kept": 14,
+    "dropped": 2,
+    "kept": 16,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 8,
+    "review": 7,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-08",
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "url": "https://openai.com/index/radisson"
-    },
-    {
-      "date": "2026-10-08",
-      "title": "Ads Uploader: 17.5% of 36,289 Meta ad batches came from AI agents",
-      "url": "https://ppc.land/ads-uploader-17-5-of-36-289-meta-ad-batches-came-from-ai-agents/"
-    },
-    {
-      "date": "2026-10-08",
-      "title": "TrafficGuard finds up to 34% of clicks on some ChatGPT ads were invalid",
-      "url": "https://ppc.land/trafficguard-finds-up-to-34-of-clicks-on-some-chatgpt-ads-were-invalid/"
-    },
-    {
-      "date": "2026-10-08",
-      "title": "AI Agents Are Coming For CTV; It’s Cheaper For Politicians To Buy National Ads Than To Target Texas",
-      "url": "https://www.adexchanger.com/daily-news-roundup/ai-agents-are-coming-for-ctv-its-cheaper-for-politicians-to-buy-national-ads-than-to-target-texas/"
-    },
-    {
-      "date": "2026-10-08",
-      "title": "Google Merchant Center UCP Integration Hub",
-      "url": "https://www.seroundtable.com/google-merchant-center-ucp-integration-hub-42243.html"
-    },
     {
       "date": "2026-10-09",
       "title": "Inside agency OK Future’s AI 'pressure cooker' experiment with Goodwipes",
@@ -872,6 +858,31 @@
       "date": "2026-11-06",
       "title": "Ads In Google AI Answers Concentrate In Apparel & Electronics",
       "url": "https://www.searchenginejournal.com/google-ai-answer-ads-apparel-electronics-report/595984/"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "Amazon’s shopping agent now takes orders by text, with Sponsored Product ads in the replies",
+      "url": "https://digiday.com/media-buying/amazons-shopping-agent-now-takes-orders-by-text-with-sponsored-product-ads-in-the-replies/"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "Bot protection blocks Blend's AI shopping agent at 29 of 200 retailers",
+      "url": "https://ppc.land/bot-protection-blocks-blends-ai-shopping-agent-at-29-of-200-retailers/"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "Google Brings UCP Direct Checkout To AI Mode In Canada",
+      "url": "https://www.searchenginejournal.com/google-brings-ucp-direct-checkout-to-ai-mode-in-canada/595882/"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "Google Ads Expands AI Content Label Disclosure To California, South Korea & Vietnam",
+      "url": "https://www.seroundtable.com/google-ads-expands-ai-content-label-disclosure-42461.html"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "OpenAI Updates ChatGPT Ads Bidding Options",
+      "url": "https://www.seroundtable.com/openai-updates-chatgpt-ads-bidding-options-42470.html"
     }
   ]
 }

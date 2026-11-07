@@ -3483,6 +3483,116 @@
           "x": "El efecto dependió de la preferencia del paciente: no anuló una petición explícita a favor o en contra de la medicación, pero sí afectó a usuarios sin preferencia declarada, que pueden ser los más susceptibles al encuadre. Los resultados sugieren la necesidad de auditorías y evaluaciones comparativas independientes si los modelos se usan para orientar decisiones clínicas."
         }
       ]
+    },
+    "medicine/jama-lipid-llm-nonescalation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Este estudio de cohorte retrospectivo con adultos con enfermedad cardiovascular aterosclerótica en Stanford Health Care (January 2019 a May 2025) usó una canalización de modelo de lenguaje grande (GPT 5.0) para identificar en las notas clínicas estrategias de tratamiento por objetivos y los motivos de no intensificar la terapia hipolipemiante (LLT)."
+        },
+        {
+          "t": "p",
+          "x": "Un total de 28,113 pacientes cumplieron los criterios de inclusión, de los cuales 13,810 (49.1%) tenían el LDL-C por encima del objetivo. El conjunto de inferencia incluyó 14,785 notas de 13,394 pacientes, entre ellas 13,354 notas de visita relevantes."
+        },
+        {
+          "t": "p",
+          "x": "Se documentó una estrategia de tratamiento por objetivos en el 28.1% de las notas relevantes, sobre todo un objetivo de LDL-C inferior a 70 mg/dL (17.1%). La LLT no se intensificó en 11,842 notas (88.7%). De ellas, 4,788 (40.4%) recogían al menos 1 motivo, sobre todo efectos adversos referidos por el paciente (12.6%), LDL-C cercano al objetivo (6.9%), preferencia del paciente (6.8%), cambios en el estilo de vida (6.1%) y aplazamiento hasta repetir análisis (4.6%). Las puntuaciones Micro-weighted F1 oscilaron entre 0.80 y 0.98."
+        },
+        {
+          "t": "p",
+          "x": "Casi 9 de cada 10 consultas con LDL-C por encima del objetivo no intensificaron la terapia; los autores sugieren que los hallazgos podrían orientar intervenciones de salud digital a nivel de sistema."
+        }
+      ]
+    },
+    "medicine/bcr-mllm-breast-pathology-errors": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El tratamiento del cáncer de mama depende de rasgos histopatológicos como el grado de Nottingham y el subtipo definido por receptores, pero el acceso a patólogos especializados es limitado donde falta personal."
+        },
+        {
+          "t": "p",
+          "x": "Este estudio retrospectivo de concordancia pareada en un solo centro comparó tres LLMs multimodales comerciales de referencia (Claude Sonnet 4.6, Gemini 2.5 Pro, GPT-5.5) con el criterio de un patólogo de mama certificado en 427 cánceres de mama invasivos. Cada modelo recibió por caso la misma vista general, 16 teselas de tejido teñidas con H&E y el mismo prompt."
+        },
+        {
+          "t": "p",
+          "x": "Ningún modelo alcanzó una concordancia suficiente para respaldar la extracción autónoma de ningún rasgo. Gemini informó invasión linfovascular en 26 paquetes, ninguno respaldado por las imágenes. Cinco paquetes no contenían carcinoma invasivo, pero se devolvió un grado de Nottingham en 14 de 15 pares modelo-caso. Claude obtuvo la mayor concordancia bruta de tipo histológico (87.4%), pero clasificó todos los carcinomas lobulillares y micropapilares como de tipo no especial. La concordancia de los modelos con el informe en el grado (0.27–0.42) se solapó con la de un segundo patólogo (0.36)."
+        },
+        {
+          "t": "p",
+          "x": "Con el mismo prompt, cada modelo mostró una dirección de error sistemática, incluidas detecciones positivas de hallazgos ausentes en la entrada. Los resultados no respaldan su uso autónomo."
+        }
+      ]
+    },
+    "medicine/deepreasoning-neurodr-cta": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Deep Reasoning AI ha recibido la autorización FDA 510(k) (K262134) para NeuroDR, un software de AI para angiografía por CT neurovascular, 105 días después de presentar la solicitud."
+        },
+        {
+          "t": "p",
+          "x": "NeuroDR elimina tejido blando, hueso y venas de las CTA de cabeza y cuello y genera proyecciones 3D de máxima intensidad, reformateos planares curvos y renderizados volumétricos de las arterias carótidas internas y vertebrales izquierdas y derechas, con las circulaciones anterior y posterior en pantallas separadas."
+        },
+        {
+          "t": "p",
+          "x": "Funciona automáticamente en segundo plano al terminar el estudio y envía las visualizaciones directamente al PACS del hospital como imágenes DICOM."
+        },
+        {
+          "t": "p",
+          "x": "Se desarrolló junto con el proveedor de posprocesado 3DR Labs, que realizó los estudios de rendimiento, y la consultora regulatoria Innolitics, que gestionó el trámite ante la FDA."
+        }
+      ]
+    },
+    "medicine/asan-urine-ai-bladder": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores coreanos (Korean) han desarrollado una técnica de análisis de orina que usa AI para distinguir entre cistitis intersticial, vejiga hiperactiva y personas sanas con hasta un 92 por ciento de precisión, lo que podría ayudar a los médicos a diferenciar afecciones con síntomas que se solapan."
+        },
+        {
+          "t": "p",
+          "x": "El Asan Medical Center (AMC) informó el martes (Tuesday) de que un equipo dirigido por el profesor Kim Jun-ki, del Department of Convergence Medicine del hospital, y el profesor Shin Jung-hyun, del Department of Urology del Ewha Womans University Mokdong Hospital, desarrolló la técnica combinando la detección molecular de alta sensibilidad con inteligencia artificial."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.koreabiomed.com/news/photo/202611/33718_36861_5520.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores combinaron la espectroscopia Raman de superficie aumentada (SERS) con AI. El equipo fabricó un chip SERS con nanoestructuras de oro y óxido de zinc y analizó muestras de orina de unos 5 microlitros cada una de 181 participantes: 117 controles sanos, 19 pacientes con cistitis intersticial y 45 con vejiga hiperactiva."
+        },
+        {
+          "t": "p",
+          "x": "Con cuatro métodos de aprendizaje automático (PCA-PLS-DA, PCA-LDA, XGBoost y LightGBM), los modelos distinguieron entre los tres grupos con hasta un 92 por ciento de precisión. Los hallazgos se publicaron como artículo de portada en ACS Sensors; el equipo prevé validar la técnica en grupos de pacientes más amplios."
+        }
+      ]
+    },
+    "medicine/nature-gait-foundation-model": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La marcha se reconoce cada vez más como un signo vital, pero los enfoques actuales la tratan como un síntoma de patologías específicas y no como un biomarcador sistémico. Los investigadores desarrollaron un modelo fundacional de la marcha a partir del movimiento esquelético tridimensional, registrado con una sola cámara de profundidad durante 5 tareas motoras, de 3,328 adultos con fenotipado exhaustivo, para predecir fenotipos de salud como la fuerza de prensión y la calidad del sueño en 18 sistemas corporales."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig1_HTML.png",
+          "cap": "Fig. 1: Visión general del modelo fundacional de la marcha, la adquisición de datos y el proceso de entrenamiento."
+        },
+        {
+          "t": "p",
+          "x": "Los embeddings aprendidos superaron a las variables diseñadas en la predicción de la edad (Pearson's r = 0.69), el índice de masa corporal (r = 0.91) y el área de tejido adiposo visceral (r = 0.83), y predijeron de forma significativa 1,887 de 3,210 fenotipos evaluados. Frente a una línea de base que solo usaba edad, índice de masa corporal, tejido adiposo visceral y estatura, los embeddings de la marcha mejoraron la predicción en los 18 sistemas en hombres y en 17 de 18 en mujeres, así como la predicción de diagnósticos clínicos y del uso de medicamentos."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig5_HTML.png",
+          "cap": "Fig. 5: Los embeddings de la marcha mejoran la predicción de diagnósticos clínicos y del uso de medicamentos más allá de las líneas de base demográficas y antropométricas."
+        },
+        {
+          "t": "p",
+          "x": "La dinámica de las piernas dominó las predicciones metabólicas y de fragilidad, y la del torso codificó los fenotipos de sueño y estilo de vida. Los autores afirman que los hallazgos establecen la marcha como una bioseñal independiente y multisistémica."
+        }
+      ]
     }
   }
 }

@@ -9201,6 +9201,131 @@
           "x": "Rheo甚至能按需用Splice采样和内置乐器制作一整首歌，但没有Suno式的音频生成功能。Splice表示所有模型都使用“完全授权”的数据训练，而MusicRadar则提出疑问：把创作控制权交给AI智能体，是否会让音乐制作变得过于容易。"
         }
       ]
+    },
+    "music/sampleson-wavefinder-local-search": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "HH2709Zcn8A"
+        },
+        {
+          "t": "p",
+          "x": "Sampleson推出了桌面音频搜索应用Wavefinder，帮助用户在庞大的采样库中找到所需声音。Wavefinder不依赖文件名或手动添加的标签，而是分析音频文件，并按与文字描述或参考录音的相似度进行排序。"
+        },
+        {
+          "t": "p",
+          "x": "该软件在本地运行AI模型，无需上传音频，也没有持续订阅费用。用户可以用自然语言描述声音——质感、氛围、房间声或演奏手法——也可以把参考音频拖入应用，以查找相似录音。"
+        },
+        {
+          "t": "p",
+          "x": "索引在本地构建和存储，包括嵌套文件夹。搜索次数不限。支持WAV、AIFF、AIF、FLAC、OGG和MP3格式；可在macOS和Windows上独立运行，也可作为兼容DAWs的插件使用。"
+        },
+        {
+          "t": "p",
+          "x": "Wavefinder现已上市，售价$29.00 USD（首发优惠价；原价$49.00 USD，优惠截至November 15, 2026）。"
+        }
+      ]
+    },
+    "music/heritage-i73pro-nam-a2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/h/heritage_audio_nam_a2_0-hbH78FIVnEagNT4vjmT0H48ZpPbbIcyU.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Heritage Audio刚刚发布固件更新，让旗下i73 Pro音频接口可以在内置DSP上运行NAM（Neural Amp Modeler）A2捕获。此次更新对所有现有用户免费，用户可通过吉他放大器、效果器和外置设备的高品质模拟进行录音。"
+        },
+        {
+          "t": "p",
+          "x": "NAM是一项开源技术，可将真实的放大器、效果器、外置设备乃至完整信号链捕获为神经网络模型。其第二代架构A2于2 June 2026发布，在消耗更少计算资源的同时带来更好的音质。用户现在可以直接在i73 Pro的DSP上加载.nam文件，通过捕获进行录音，既不占用CPU资源，也不会增加任何延迟。"
+        },
+        {
+          "t": "p",
+          "x": "Heritage Audio创始人（Founder）Peter Rodriguez表示：“借助内置加载器，i73 Pro用户无需插件、无需额外设备，也不必担心延迟，就能通过NAM世界中的任何放大器、效果器或外置设备演奏。”固件和Mixer应用现已可从Heritage Audio官网获取。"
+        }
+      ]
+    },
+    "music/procraft-instruction-music-edit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "音乐制作通常涉及多种编辑操作，每种都需要专门的工具和专业知识。ProCraft是一个0.5B 参数的轻量级自回归编解码器语言模型，可根据自由形式的指令（包括复合请求）端到端编辑30秒的音乐片段。它支持八种乐器上的七种操作，涵盖从音轨移除到伴奏生成。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2611.07423v1/fig_architecture.svg",
+          "cap": "图1：ProCraft的架构。"
+        },
+        {
+          "t": "p",
+          "x": "通过与预训练音乐嵌入进行表征对齐，模型能保留编辑范围之外的内容；每个解码器层中的门控交叉注意力则让生成始终贴合指令。为在复合请求上训练，作者提出了On-the-fly Editing-pair Synthesis。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2611.07423v1/fig_data_pipeline.svg",
+          "cap": "图2：On-the-fly editing-pair synthesis。"
+        },
+        {
+          "t": "p",
+          "x": "在MoisesDB和Slakh上的音轨移除、提取和降噪复合指令中，ProCraft优于四款自由文本编辑器。在一项用户研究（16名听众）中，它在移除和降噪上获评最高，在提取和乐器转换上与一个大16倍的模型相当。"
+        }
+      ]
+    },
+    "music/a2o-lite-neon-ai-memes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12958354.webp?imageId=12958354&width=960&height=548&format=jpg",
+          "cap": "AI-generated图像中，SK Group会长Chey Tae-won（左）与Samsung Electronics执行董事长Lee Jae-yong随女团A2O Lite的新歌《Neon》起舞。"
+        },
+        {
+          "t": "p",
+          "x": "新出道女团A2O Lite的《Neon》登上排行榜时，另一样东西也火了——AI-generated的编舞恶搞视频，把成员的脸换成了SK Group会长Chey Tae-won、Samsung Electronics执行董事长Lee Jae-yong等公众人物。听众此前指出，副歌听起来像韩语中的“未婚”和“离婚”。"
+        },
+        {
+          "t": "p",
+          "x": "尝试制作一段恶搞视频，用时不到三分钟，而且分文未花。AI视频平台Higgsfield提供了一个现成模板，内含该曲音乐视频的开场画面；几分钟内就生成了一段15秒的恶搞视频。"
+        },
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12958352.webp?imageId=12958352&width=960&height=740&format=jpg",
+          "cap": "AI-generated视频中，一群猫随女团A2O Lite的新歌《Neon》起舞。"
+        },
+        {
+          "t": "p",
+          "x": "这些视频即便不是全部，也大多未经被使用面孔者本人同意。Lawfirm Taeryun律师Hwang Jin-seop说：“‘恶搞’之名可以当作盾牌，但不能当作免责金牌。”Blackpink的Jennie和Girls' Generation的Yoona所属经纪公司已宣布，将对深度伪造视频采取零容忍的法律措施。"
+        }
+      ]
+    },
+    "music/cubase16-stem-omnivocal": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Steinberg发布了Cubase 16，为制作人、混音师和音乐人带来新工具，扩展了这款数字音频工作站（DAW）。最大的新增功能之一是与音频技术公司zplane合作开发的改进版分轨分离。Cubase现在可将混音录音拆分为六个部分：人声、鼓、贝斯、钢琴、吉他及其他乐器。上一版本支持四个。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/b/3/csm_Cubase-16-04_master_291774746e.jpg",
+          "cap": "专业录音棚中搭配电吉他的Cubase 16音乐制作流程"
+        },
+        {
+          "t": "p",
+          "x": "此次更新还引入了Instrument Stacks，可将最多八件虚拟乐器组合起来，在单条音轨上演奏。新的MIDI工具能让编程和弦听起来更像自然扫弦，重新设计的速度检测和可搜索的设置则旨在加快日常制作任务。"
+        },
+        {
+          "t": "p",
+          "x": "Yamaha的Omnivocal Basic人声合成器是另一项值得关注的新增功能。它采用全新的Omnivocal NX引擎，根据直接在Cubase的Key Editor中输入的MIDI音符和歌词生成歌声。Basic包含两个声库，单独定价的Omnivocal Pro则将可选声库扩展到十个，并增加用于多层演唱的人声叠加功能。"
+        },
+        {
+          "t": "p",
+          "x": "Cubase 16提供Pro（$599.99 / €599）、Artist（$299.99 / €299）和Elements（$99.99 / €99）版本。Omnivocal Basic免费附带，Omnivocal Pro需另付$149.99。2026年10月7日当天或之后激活的许可证可免费升级。"
+        },
+        {
+          "t": "video",
+          "yt": "rUJ8NZDcEoo"
+        }
+      ]
     }
   }
 }

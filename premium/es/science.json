@@ -10216,6 +10216,130 @@
           "x": "A través de la DOE Genesis Mission, el proyecto STITCH, dirigido por Zhang, entrena emuladores con simulaciones localizadas de microfísica de nubes y turbulencia a pequeña escala; sus resultados pueden incorporarse a E3SM, que a su vez aporta nuevos datos de entrenamiento para STRATA."
         }
       ]
+    },
+    "science/science-chatbot-sycophancy-pushback": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la University of Cincinnati, en colaboración con la Texas A&M University, descubrieron que los chatbots de AI generativa suelen priorizar darle la razón al usuario por encima de la exactitud. El trabajo se presentó en la Conference on Empirical Methods in Natural Language Processing (EMNLP) en Budapest, Hungría (Hungary)."
+        },
+        {
+          "t": "p",
+          "x": "Al principio los modelos rechazaban las afirmaciones falsas, pero cedían tras unas cuantas rondas de objeciones y podían ser persuadidos de repetir afirmaciones disparatadas, como que la Tierra (Earth) es plana. \"La primera vez que planteas una idea descabellada, dirá que no\", dijo Tianyu Jiang, profesor asistente de informática. \"Pero si insistes unos cuantos turnos, los modelos cambian y se rinden\"."
+        },
+        {
+          "t": "p",
+          "x": "\"Todos los modelos que probamos —Claude, OpenAI, ChatGPT, Gemini— muestran adulación\", afirmó Jiang. Puede que los usuarios tengan que pedir explícitamente una opinión honesta: \"Hay que guiarlos\"."
+        },
+        {
+          "t": "p",
+          "x": "El artículo señala que las empresas de AI han hecho cambios sustanciales para abordar la adulación de la AI desde que los investigadores realizaron su estudio, y apunta a daños como usuarios convencidos de teorías falsas o con delirios reforzados por el uso prolongado de chatbots."
+        }
+      ]
+    },
+    "science/science-fod-diffusion-brain": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg",
+          "cap": "Pérdida de señal en el tronco encefálico por una distorsión de la MRI de difusión, y la reconstrucción más completa que produce el modelo. Credit: Stevens INI"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del Mark and Mary Stevens Neuroimaging and Informatics Institute (Stevens INI), en la Keck School of Medicine of USC, crearon FOD-Diffusion, un modelo de AI generativa que rellena los huecos de señal en los mapas de conexiones cerebrales obtenidos por MRI de difusión. Los huecos aparecen en el tronco encefálico y en la región orbitofrontal, donde las distorsiones del campo magnético del escáner borran la señal."
+        },
+        {
+          "t": "p",
+          "x": "El modelo se entrenó y se probó con escaneos de 1,315 participantes del UK Biobank y 679 del Lifespan Human Connectome Project Aging (HCP-Aging). En pruebas con el tronco encefálico enmascarado en 43 participantes, sus direcciones principales de fibras difirieron de los datos originales en unos 1.4 grados de media; el más cercano de otros seis enfoques de AI se desvió unos 4.5 grados."
+        },
+        {
+          "t": "p",
+          "x": "Con la restauración, el trazado del tracto corticoespinal en personas con pérdida de señal severa dejó de ser significativamente menos completo que en personas con pérdida mínima. El estudio se publicó en Medical Image Analysis, con Shuo Huang y Lujia Zhong como coprimeros autores y Yonggang Shi como autor sénior."
+        },
+        {
+          "t": "p",
+          "x": "Los autores subrayan que los datos restaurados son \"estimaciones fundamentadas, no mediciones recuperadas\", que el método aún debe probarse en otros escáneres y configuraciones y que \"no se ha evaluado para la atención a pacientes\". El código está disponible en GitHub."
+        }
+      ]
+    },
+    "science/science-ai-overviews-unsupported": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg",
+          "cap": "[Adobe Stock]"
+        },
+        {
+          "t": "p",
+          "x": "Los resúmenes de búsqueda AI-generated (generados por AI) de Google suelen apoyarse en fuentes muy creíbles, pero aun así producen información no verificada en aproximadamente una de cada nueve afirmaciones factuales, según una prepublicación en arXiv de Haofei Xu, Umar Iqbal y Jacob M. Montgomery, de la Washington University in St. Louis."
+        },
+        {
+          "t": "p",
+          "x": "Durante un periodo de 40 días a principios de 2026, el equipo ejecutó 55,393 consultas populares de Google en 19 categorías temáticas. AI Overviews se activó en el 13.7 por ciento de todas las consultas —el 64.7 por ciento en las formuladas como preguntas directas frente al 9.5 por ciento en las búsquedas estándar por palabras clave— y rara vez en temas políticamente sensibles."
+        },
+        {
+          "t": "p",
+          "x": "Los dominios citados eran sistemáticamente más creíbles que los resultados habituales de la primera página, pero casi el 30 por ciento de los sitios web citados no aparecía en ninguna parte de la primera página de resultados normales. De 98,020 afirmaciones factuales individuales, el 11 por ciento no estaba respaldado por las páginas citadas, sobre todo por omisiones; la credibilidad de la fuente no tuvo relación estadística con la exactitud."
+        },
+        {
+          "t": "p",
+          "x": "Más de la mitad de las páginas citadas contenían publicidad digital, por lo que la reducción de clics supone pérdida de ingresos publicitarios para los editores, mientras Google sigue mostrando sus propios anuncios patrocinados junto a los resúmenes, y a veces por encima."
+        }
+      ]
+    },
+    "science/science-titanium-print-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg",
+          "cap": "Resumen gráfico (Graphical abstract). Credit: International Journal of Precision Engineering and Manufacturing (2025). DOI: 10.1007/s12541-025-01360-0"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la Istanbul Technical University, la Gazi University e instituciones asociadas crearon un marco explicable de aprendizaje automático para la fusión selectiva por láser de la aleación de titanio Ti6Al4V, con el objetivo de acotar la búsqueda de ajustes de impresión antes de que empiecen las pruebas de producción y reducir el ensayo y error innecesario."
+        },
+        {
+          "t": "p",
+          "x": "Recopilaron 201 registros experimentales de estudios publicados que vinculan seis parámetros —potencia del láser, velocidad de escaneo, espesor de capa, separación entre pasadas, tamaño del punto láser y tamaño del polvo— con el límite elástico, la resistencia máxima a la tracción y el alargamiento. Entre varios enfoques de aprendizaje automático, una red neuronal artificial ofreció las predicciones más consistentes, y el análisis SHAP mostró cómo influyó cada parámetro en ellas."
+        },
+        {
+          "t": "p",
+          "x": "Una interfaz de diseño inverso recibe la resistencia y la ductilidad objetivo y sugiere ajustes de proceso para probar. El supervisor Hüseyin Kızıl la describe como \"una herramienta de decisión basada en datos para acotar la ventana de proceso\"; los investigadores subrayan que \"no pretende sustituir las pruebas físicas, el aseguramiento de la calidad ni la certificación\"."
+        }
+      ]
+    },
+    "science/psi-aaronson-ambainis-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-4.24.26-PM-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Una demostración matemática ha resuelto una conjetura abierta desde 2008 sobre cuándo los computadores cuánticos pueden lograr enormes ventajas frente a las máquinas convencionales, y establece un límite a su capacidad de superar a los algoritmos clásicos con entradas no estructuradas."
+        },
+        {
+          "t": "p",
+          "x": "Según un artículo publicado por David Turturean, de Physical Superintelligence (PSI), en cálculos de tipo sí o no un algoritmo clásico puede aproximar la probabilidad de que un algoritmo cuántico responda sí en la mayoría de las entradas aleatorias uniformes, sin necesitar exponencialmente más accesos a la entrada."
+        },
+        {
+          "t": "p",
+          "x": "PSI indicó que un sistema de investigación desarrollado internamente, que usa instancias de un modelo no público de Anthropic, halló una demostración completa durante el tercer día de ejecución. El teorema principal y su formulación de la conjetura original se formalizaron en Lean y fueron verificados por su núcleo."
+        },
+        {
+          "t": "p",
+          "x": "Varias instancias del modelo revisaron la investigación existente, propusieron ideas, combinaron enfoques y pusieron a prueba argumentos. Turturean eligió y definió el problema, operó el sistema y revisó y editó personalmente el borrador. En ejecuciones posteriores, las instancias mejoraron dos veces la cota matemática; todas las versiones se verificaron en Lean."
+        },
+        {
+          "t": "p",
+          "x": "El resultado se refiere a la frecuencia con que un computador lee sus datos, no al tiempo total de cálculo, y deja margen para ventajas cuánticas sustanciales en problemas con una estructura útil."
+        }
+      ]
     }
   }
 }

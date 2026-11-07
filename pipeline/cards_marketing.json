@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "section": "marketing",
   "cards": [
     {
-      "id": "amazon-agent-sponsored-text",
+      "id": "google-ads-creative-drop2",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Amazon 쇼핑 에이전트\n대화창에 광고 싣는다",
-      "body": "Amazon 에이전트 문자 대화에 Sponsored Products 광고가 붙는다.",
-      "mini_headline": "Amazon 에이전트 대화에 광고",
+      "headline": "Google Ads에\n연말 AI 제작 도구",
+      "body": "Google Creative Drop #2, 번역·사진·YouTube AI 더했다.",
+      "mini_headline": "Google 연말 AI 광고 도구",
       "tool": "Marketing",
-      "source": "Digiday",
-      "url": "https://digiday.com/media-buying/amazons-shopping-agent-now-takes-orders-by-text-with-sponsored-product-ads-in-the-replies/",
+      "source": "Google Ads",
+      "url": "https://business.google.com/us/accelerate/announcements/optimize-holiday-ads-with-google-ai-creative-drop-2/",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
@@ -19,173 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/Amazon-ads.jpg"
+            "src": "https://www.gstatic.com/marketing-cms/assets/images/ads/1c/4c/496f057d4eea9af7b10020b29137/cd2-3x2-card-01.webp=n-w1050-h700-fcrop64=1,00000000ffffffff-rw",
+            "cap": "Creative Drop #2 들여다보기: 캠페인을 연말 시즌에 맞추는 새 AI 기능"
           },
           {
             "t": "p",
-            "x": "Amazon 쇼핑 에이전트가 이제 문자로 주문을 받는다. 주문이 오가는 대화창에는 광고도 붙는다. Sponsored Products가 이 대화 안에 노출될 예정인데, 당분간 광고주에게는 무료다. 에이전트가 직접 마무리하는 구매에는 광고가 붙지 않는다(ad-free)."
+            "x": "Creative Drop #2는 Google Ads Product 팀이 매달 내는 시리즈다. 이번 회차는 Google AI로 연말 캠페인을 준비하는 방법 세 가지를 소개한다."
           },
           {
             "t": "p",
-            "x": "문자 주문은 오늘 초대받은(invite-only) 소수의 U.S. 고객에게 먼저 열렸다. Amazon은 앞으로 몇 주 동안 수백만 명으로 넓힐 계획이다. 고객이 전화번호를 연결하면 “Alexa Shopping”이라는 연락처가 새로 생긴다. 이 연락처가 상품을 찾고 선택지를 비교해 추천을 문자로 보내며, 지시하면 결제까지 끝낸다. 자동 구매(auto-buy)를 켜 두면 가격이 목표치에 닿는 순간 에이전트가 알아서 산다."
+            "x": "1. Holiday-ready Text: AI Campaign Translation을 쓰면 스페인어, 프랑스어, 독일어, 포르투갈어 등 15개 언어로 캠페인을 현지화하고 검토해 집행하는 일까지 Google Ads 안에서 바로 끝난다. Product Manager Mindy Lin은 번역된 캠페인을 Paused 상태로 두고 검토하면서 게시 전에 브랜드 톤을 확정하라고 권한다."
           },
           {
             "t": "p",
-            "x": "광고가 들어갈 자리는 탐색 단계다. 에이전트가 선택지 몇 개를 묶어 문자로 보낼 때 그중 하나가 Sponsored Product일 수 있다. Amazon에 따르면 지난 12개월 동안 Alexa for Shopping을 쓴 고객은 4억(400 million) 명이 넘고, 에이전트 기능 사용량은 1월 이후 여덟 배 넘게 늘었다."
+            "x": "2. Holiday-ready Images: Google Ads Asset Studio의 Multimodal 기능을 쓰면 이미 갖고 있는 평범한 제품 사진을 겨울 축제나 선물 장면으로 바꾸면서 브랜드 기준도 지킬 수 있다. Charles Boyd는 Brand Guidelines PDF와 실제 제품 각도 사진 4~5장을 함께 넣고 프롬프트에 계절 조명을 구체적으로 적으라고 조언한다."
           },
           {
             "t": "p",
-            "x": "독립 애드테크 컨설턴트 Jonathan D’Sousa-Rauto는 “에이전틱 커머스가 광고와 만나는 지금, 노출(impression)의 정의는 물론 리포팅과 측정도 매우 중요하다”고 말했다. 요청은 Amazon Shopping 앱과 웹사이트, Alexa-enabled 기기를 넘나들며 이어진다. 에이전트는 Shop Direct로 Amazon 밖 매장에서도 물건을 살 수 있다."
+            "x": "3. Holiday-ready assets for YouTube: Google DeepMind가 개선한 영상 생성 모델 Gemini Omni 1.2를 Asset Studio에서 쓰면 가로·세로·정사각형 어느 비율에서든 일관성이 높아지고 영상을 대량으로 빠르게 만들 수 있다. Max Hagler는 첫 3초 안에 서로 다른 오프닝 비주얼 훅 두 가지를 놓고 A/B 테스트해 보라고 권한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Amazon puts sponsored ads\ninside its shopping agent",
-          "body": "Amazon's shopping agent now takes text orders, with Sponsored Products ads in the chats, free to advertisers for now.",
-          "mini_headline": "Amazon agent gets ads",
+          "headline": "Google Ads adds holiday\nAI creative tools",
+          "body": "Google's Creative Drop #2 adds AI tools to translate ads, restage product photos and generate YouTube videos.",
+          "mini_headline": "Google holiday AI ad tools",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/Amazon-ads.jpg"
+                "src": "https://www.gstatic.com/marketing-cms/assets/images/ads/1c/4c/496f057d4eea9af7b10020b29137/cd2-3x2-card-01.webp=n-w1050-h700-fcrop64=1,00000000ffffffff-rw",
+                "cap": "Inside Creative Drop #2: Fresh AI features to get your campaigns holiday-ready"
               },
               {
                 "t": "p",
-                "x": "Amazon’s shopping agent now takes orders by text message and the thread where those orders get placed will carry ads. Sponsored Products are set to appear inside those conversations, free to advertisers for the time being. Purchases the agent completes on its own will stay ad-free."
+                "x": "Creative Drop #2, part of Google Ads' monthly series from its Product teams, unpacks three ways to get holiday campaigns ready with Google AI."
               },
               {
                 "t": "p",
-                "x": "The texting option went live today for a small, invite-only group of U.S. customers, and Amazon plans to open it to millions more over the coming weeks. Customers link a phone number and get a new contact called “Alexa Shopping,” which searches, compares options, texts back suggestions, and checks out when told to; auto-buy lets the agent purchase when a price hits a target."
+                "x": "1. Holiday-ready Text: With AI Campaign Translation, you can localize, review, and launch campaigns right inside Google Ads across 15 languages, including Spanish, French, German, Portuguese, and more. Product Manager Mindy Lin suggests reviewing translated campaigns in a Paused state to lock in brand tone before they go live."
               },
               {
                 "t": "p",
-                "x": "The ad opportunity sits in the discovery stage: when the agent texts back a set of options, a Sponsored Product can be one of them. More than 400 million customers have used Alexa for Shopping in the past 12 months, according to Amazon, and use of its agentic features has grown more than eightfold since January."
+                "x": "2. Holiday-ready Images: With Multimodal capabilities in Google Ads Asset Studio, you can turn the everyday product photos you already have into festive winter or gifting scenes while keeping your assets brand-compliant. Charles Boyd advises importing a Brand Guidelines PDF alongside 4 to 5 real product angles, and being specific about seasonal lighting in the prompt."
               },
               {
                 "t": "p",
-                "x": "“As agentic commerce meets advertising, the definition of an impression is critical as well as the reporting and measurement,” said independent ad tech consultant Jonathan D’Sousa-Rauto. Requests carry across the Amazon Shopping app, the site and Alexa-enabled devices, and through Shop Direct the agent can also buy from stores beyond Amazon."
+                "x": "3. Holiday-ready assets for YouTube: Gemini Omni 1.2, the updated video generation model from Google DeepMind, brings stronger consistency and faster video creation at scale in Asset Studio, across horizontal, vertical and square ratios. Max Hagler recommends A/B testing two different opening visual hooks in the first 3 seconds."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Amazon 쇼핑 에이전트\n대화창에 광고 싣는다",
-          "body": "Amazon 에이전트 문자 대화에 Sponsored Products 광고가 붙는다.",
-          "mini_headline": "Amazon 에이전트 대화에 광고",
+          "headline": "Google Ads에\n연말 AI 제작 도구",
+          "body": "Google Creative Drop #2, 번역·사진·YouTube AI 더했다.",
+          "mini_headline": "Google 연말 AI 광고 도구",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/Amazon-ads.jpg"
+                "src": "https://www.gstatic.com/marketing-cms/assets/images/ads/1c/4c/496f057d4eea9af7b10020b29137/cd2-3x2-card-01.webp=n-w1050-h700-fcrop64=1,00000000ffffffff-rw",
+                "cap": "Creative Drop #2 들여다보기: 캠페인을 연말 시즌에 맞추는 새 AI 기능"
               },
               {
                 "t": "p",
-                "x": "Amazon 쇼핑 에이전트가 이제 문자로 주문을 받는다. 주문이 오가는 대화창에는 광고도 붙는다. Sponsored Products가 이 대화 안에 노출될 예정인데, 당분간 광고주에게는 무료다. 에이전트가 직접 마무리하는 구매에는 광고가 붙지 않는다(ad-free)."
+                "x": "Creative Drop #2는 Google Ads Product 팀이 매달 내는 시리즈다. 이번 회차는 Google AI로 연말 캠페인을 준비하는 방법 세 가지를 소개한다."
               },
               {
                 "t": "p",
-                "x": "문자 주문은 오늘 초대받은(invite-only) 소수의 U.S. 고객에게 먼저 열렸다. Amazon은 앞으로 몇 주 동안 수백만 명으로 넓힐 계획이다. 고객이 전화번호를 연결하면 “Alexa Shopping”이라는 연락처가 새로 생긴다. 이 연락처가 상품을 찾고 선택지를 비교해 추천을 문자로 보내며, 지시하면 결제까지 끝낸다. 자동 구매(auto-buy)를 켜 두면 가격이 목표치에 닿는 순간 에이전트가 알아서 산다."
+                "x": "1. Holiday-ready Text: AI Campaign Translation을 쓰면 스페인어, 프랑스어, 독일어, 포르투갈어 등 15개 언어로 캠페인을 현지화하고 검토해 집행하는 일까지 Google Ads 안에서 바로 끝난다. Product Manager Mindy Lin은 번역된 캠페인을 Paused 상태로 두고 검토하면서 게시 전에 브랜드 톤을 확정하라고 권한다."
               },
               {
                 "t": "p",
-                "x": "광고가 들어갈 자리는 탐색 단계다. 에이전트가 선택지 몇 개를 묶어 문자로 보낼 때 그중 하나가 Sponsored Product일 수 있다. Amazon에 따르면 지난 12개월 동안 Alexa for Shopping을 쓴 고객은 4억(400 million) 명이 넘고, 에이전트 기능 사용량은 1월 이후 여덟 배 넘게 늘었다."
+                "x": "2. Holiday-ready Images: Google Ads Asset Studio의 Multimodal 기능을 쓰면 이미 갖고 있는 평범한 제품 사진을 겨울 축제나 선물 장면으로 바꾸면서 브랜드 기준도 지킬 수 있다. Charles Boyd는 Brand Guidelines PDF와 실제 제품 각도 사진 4~5장을 함께 넣고 프롬프트에 계절 조명을 구체적으로 적으라고 조언한다."
               },
               {
                 "t": "p",
-                "x": "독립 애드테크 컨설턴트 Jonathan D’Sousa-Rauto는 “에이전틱 커머스가 광고와 만나는 지금, 노출(impression)의 정의는 물론 리포팅과 측정도 매우 중요하다”고 말했다. 요청은 Amazon Shopping 앱과 웹사이트, Alexa-enabled 기기를 넘나들며 이어진다. 에이전트는 Shop Direct로 Amazon 밖 매장에서도 물건을 살 수 있다."
+                "x": "3. Holiday-ready assets for YouTube: Google DeepMind가 개선한 영상 생성 모델 Gemini Omni 1.2를 Asset Studio에서 쓰면 가로·세로·정사각형 어느 비율에서든 일관성이 높아지고 영상을 대량으로 빠르게 만들 수 있다. Max Hagler는 첫 3초 안에 서로 다른 오프닝 비주얼 훅 두 가지를 놓고 A/B 테스트해 보라고 권한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Amazonの買い物\nエージェントに広告枠",
-          "body": "Amazonのエージェントが注文の対話にSponsored Products広告を載せる。",
-          "mini_headline": "Amazonエージェントに広告",
+          "headline": "Google Adsに\n年末向けAI制作ツール",
+          "body": "Google Creative Drop #2に翻訳・写真・YouTube用AIが加わる。",
+          "mini_headline": "Google 年末向けAI広告ツール",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/Amazon-ads.jpg"
+                "src": "https://www.gstatic.com/marketing-cms/assets/images/ads/1c/4c/496f057d4eea9af7b10020b29137/cd2-3x2-card-01.webp=n-w1050-h700-fcrop64=1,00000000ffffffff-rw",
+                "cap": "Creative Drop #2の中身:キャンペーンを年末商戦に備える新AI機能"
               },
               {
                 "t": "p",
-                "x": "Amazonのショッピングエージェントがテキストメッセージで注文を受け付けるようになり、その注文が交わされるスレッドには広告が入る。Sponsored Productsがこの会話内に表示される予定で、当面は広告主に無料だ。エージェントが自ら完了する購入は広告なし(ad-free)のままとなる。"
+                "x": "Creative Drop #2は、Google AdsのProductチームが毎月届けるシリーズの一つで、Google AIを使って年末キャンペーンを準備する三つの方法を紹介する。"
               },
               {
                 "t": "p",
-                "x": "テキスト機能は本日、招待制(invite-only)で一部のU.S.顧客向けに公開され、Amazonは今後数週間で数百万人規模に広げる計画だ。顧客が電話番号を連携すると「Alexa Shopping」という新しい連絡先が追加され、商品を検索し、選択肢を比較し、提案をテキストで返し、指示があれば決済まで行う。自動購入(auto-buy)を使えば、価格が目標に達した時点でエージェントが購入する。"
+                "x": "1. Holiday-ready Text:AI Campaign Translationを使えば、スペイン語、フランス語、ドイツ語、ポルトガル語など15言語で、キャンペーンをGoogle Ads内でそのまま現地化・確認・配信できる。Product ManagerのMindy Linは、公開前にブランドのトーンを固めるため、翻訳したキャンペーンをPaused状態で確認するよう勧める。"
               },
               {
                 "t": "p",
-                "x": "広告の機会は発見段階にある。エージェントが選択肢をまとめてテキストで返す際、その一つがSponsored Productになりうる。Amazonによると、過去12か月にAlexa for Shoppingを利用した顧客は4億(400 million)人を超え、エージェント機能の利用は1月以降で八倍超に伸びた。"
+                "x": "2. Holiday-ready Images:Google Ads Asset StudioのMultimodal機能で、手元にある普段の商品写真を冬のお祝いやギフトの場面に変えつつ、アセットをブランド基準に沿ったまま保てる。Charles Boydは、Brand Guidelines PDFと実際の商品アングル4〜5点を一緒に読み込み、プロンプトで季節の照明を具体的に指定するよう助言する。"
               },
               {
                 "t": "p",
-                "x": "独立系アドテクコンサルタントのJonathan D’Sousa-Rautoは「エージェンティックコマースが広告と交わる中、インプレッションの定義は、レポーティングや測定と同様に極めて重要だ」と述べた。リクエストはAmazon Shoppingアプリ、ウェブサイト、Alexa-enabledデバイスをまたいで引き継がれ、エージェントはShop Directを通じてAmazon以外の店舗でも購入できる。"
+                "x": "3. Holiday-ready assets for YouTube:Google DeepMindの最新動画生成モデルGemini Omni 1.2は、Asset Studioで横長・縦長・正方形の各比率にわたり、一貫性を高め、大規模な動画制作を速める。Max Haglerは、冒頭3秒で異なる二つのオープニング映像フックをA/Bテストするよう勧める。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon购物智能体\n嵌入赞助广告",
-          "body": "Amazon购物智能体接受短信下单，对话中将出现Sponsored Products广告。",
-          "mini_headline": "Amazon智能体加入广告",
+          "headline": "Google Ads推出\n节日季AI创意工具",
+          "body": "Google Creative Drop #2新增翻译、修图与YouTube视频AI工具。",
+          "mini_headline": "Google节日季AI广告工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/Amazon-ads.jpg"
+                "src": "https://www.gstatic.com/marketing-cms/assets/images/ads/1c/4c/496f057d4eea9af7b10020b29137/cd2-3x2-card-01.webp=n-w1050-h700-fcrop64=1,00000000ffffffff-rw",
+                "cap": "Creative Drop #2详解:让广告系列为节日季做好准备的全新AI功能"
               },
               {
                 "t": "p",
-                "x": "Amazon的购物智能体现在可以通过短信接单，而下单所在的对话线程将承载广告。Sponsored Products将出现在这些对话中，目前对广告主免费。智能体自主完成的购买仍将保持无广告（ad-free）。"
+                "x": "Creative Drop #2是Google Ads Product团队推出的月度系列之一,介绍了借助Google AI为节日广告系列做好准备的三种方式。"
               },
               {
                 "t": "p",
-                "x": "短信功能今天面向一小批受邀（invite-only）的U.S.用户上线，Amazon计划在未来几周内向数百万用户开放。用户绑定手机号后会获得一个名为“Alexa Shopping”的新联系人，它能搜索商品、比较选项、以短信回复建议，并按指令完成结账；自动购买（auto-buy）功能可让智能体在价格达到目标时下单。"
+                "x": "1. Holiday-ready Text:借助AI Campaign Translation,可直接在Google Ads内以西班牙语、法语、德语、葡萄牙语等15种语言本地化、审核并上线广告系列。Product Manager Mindy Lin建议在Paused状态下审核翻译后的广告系列,在上线前锁定品牌语气。"
               },
               {
                 "t": "p",
-                "x": "广告机会位于发现阶段：当智能体以短信发回一组选项时，其中一个可能是Sponsored Product。Amazon表示，过去12个月有超过4亿（400 million）名顾客使用过Alexa for Shopping，其智能体功能的使用量自一月以来增长了八倍多。"
+                "x": "2. Holiday-ready Images:借助Google Ads Asset Studio的Multimodal功能,可将手头已有的日常产品照片转换为节日冬季或送礼场景,同时让素材符合品牌规范。Charles Boyd建议同时导入Brand Guidelines PDF和4到5张真实产品角度图,并在提示词中具体描述季节性光线。"
               },
               {
                 "t": "p",
-                "x": "独立广告技术顾问Jonathan D’Sousa-Rauto表示：“当智能体商务与广告相遇，展示（impression）的定义以及报告和衡量都至关重要。”请求可在Amazon Shopping应用、网站和Alexa-enabled设备之间延续，智能体还可通过Shop Direct从Amazon以外的商店购买。"
+                "x": "3. Holiday-ready assets for YouTube:Google DeepMind更新后的视频生成模型Gemini Omni 1.2在Asset Studio中带来更强的一致性和更快的规模化视频制作,覆盖横版、竖版和方形比例。Max Hagler建议在前3秒内对两种不同的开场视觉钩子进行A/B测试。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Anuncios patrocinados llegan\nal agente de compras de Amazon",
-          "body": "El agente de compras de Amazon acepta pedidos por texto e incluye anuncios de Sponsored Products, gratis por ahora.",
-          "mini_headline": "Anuncios en el agente de Amazon",
+          "headline": "Google Ads lanza herramientas\ncreativas de AI para fiestas",
+          "body": "Creative Drop #2 de Google añade AI para traducir anuncios, reambientar fotos de producto y crear videos de YouTube.",
+          "mini_headline": "Herramientas AI de Google para fiestas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/Amazon-ads.jpg"
+                "src": "https://www.gstatic.com/marketing-cms/assets/images/ads/1c/4c/496f057d4eea9af7b10020b29137/cd2-3x2-card-01.webp=n-w1050-h700-fcrop64=1,00000000ffffffff-rw",
+                "cap": "Dentro de Creative Drop #2: nuevas funciones de AI para preparar sus campañas para las fiestas"
               },
               {
                 "t": "p",
-                "x": "El agente de compras de Amazon ya acepta pedidos por mensaje de texto, y el hilo donde se realizan esos pedidos llevará anuncios. Sponsored Products aparecerá dentro de esas conversaciones, de forma gratuita para los anunciantes por el momento. Las compras que el agente complete por su cuenta seguirán sin anuncios (ad-free)."
+                "x": "Creative Drop #2, parte de la serie mensual de Google Ads elaborada por sus equipos Product, presenta tres formas de preparar las campañas de fiestas con Google AI."
               },
               {
                 "t": "p",
-                "x": "La opción de texto se activó hoy para un pequeño grupo de clientes de U.S. por invitación (invite-only), y Amazon planea abrirla a millones más en las próximas semanas. Los clientes vinculan un número de teléfono y obtienen un nuevo contacto llamado “Alexa Shopping”, que busca, compara opciones, responde con sugerencias por texto y completa la compra cuando se le indica; la función auto-buy permite que el agente compre cuando un precio alcanza un objetivo."
+                "x": "1. Holiday-ready Text: con AI Campaign Translation se pueden localizar, revisar y lanzar campañas directamente en Google Ads en 15 idiomas, entre ellos español, francés, alemán, portugués y otros. La Product Manager Mindy Lin sugiere revisar las campañas traducidas en estado Paused para fijar el tono de marca antes de que se publiquen."
               },
               {
                 "t": "p",
-                "x": "La oportunidad publicitaria está en la fase de descubrimiento: cuando el agente envía por texto un conjunto de opciones, una de ellas puede ser un Sponsored Product. Más de 400 millones de clientes han usado Alexa for Shopping en los últimos 12 meses, según Amazon, y el uso de sus funciones agénticas se ha multiplicado más de ocho veces desde enero."
+                "x": "2. Holiday-ready Images: con las capacidades Multimodal de Google Ads Asset Studio, las fotos de producto cotidianas que ya se tienen pueden convertirse en escenas festivas de invierno o de regalo, manteniendo los recursos conformes a la marca. Charles Boyd aconseja importar un PDF de Brand Guidelines junto con 4 a 5 ángulos reales del producto y ser específico sobre la iluminación estacional en el prompt."
               },
               {
                 "t": "p",
-                "x": "“A medida que el comercio agéntico se une a la publicidad, la definición de una impresión es crucial, al igual que los informes y la medición”, dijo el consultor independiente de ad tech Jonathan D’Sousa-Rauto. Las solicitudes se mantienen entre la app Amazon Shopping, el sitio web y los dispositivos Alexa-enabled, y a través de Shop Direct el agente también puede comprar en tiendas fuera de Amazon."
+                "x": "3. Holiday-ready assets for YouTube: Gemini Omni 1.2, el modelo de generación de video actualizado de Google DeepMind, aporta mayor coherencia y una creación de videos más rápida a escala en Asset Studio, en formatos horizontal, vertical y cuadrado. Max Hagler recomienda hacer pruebas A/B con dos ganchos visuales de apertura distintos en los primeros 3 segundos."
               }
             ]
           }
@@ -193,121 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Amazon 쇼핑 에이전트\n대화창에 광고 싣는다",
-          "body": "Amazon 에이전트 문자창에 Sponsored Products 광고가 붙는다.",
-          "mini_headline": "Amazon 에이전트에 광고",
+          "headline": "Google Ads에\n연말 AI 제작 도구",
+          "body": "Google Creative Drop #2, 번역·사진·YouTube AI 더했다.",
+          "mini_headline": "Google 연말 AI 광고 도구",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/Amazon-ads.jpg"
+                "src": "https://www.gstatic.com/marketing-cms/assets/images/ads/1c/4c/496f057d4eea9af7b10020b29137/cd2-3x2-card-01.webp=n-w1050-h700-fcrop64=1,00000000ffffffff-rw",
+                "cap": "Creative Drop #2 들여다보기: 캠페인을 연말 시즌에 맞추는 새 AI 기능"
               },
               {
                 "t": "p",
-                "x": "Amazon의 쇼핑 에이전트가 이제 문자 메시지로 주문을 받고, 주문이 오가는 대화창에는 광고가 붙는다. Sponsored Products가 이 대화 안에 노출될 예정이며, 당분간 광고주에게는 무료다. 에이전트가 스스로 마무리하는 구매에는 광고가 붙지 않는다(ad-free)."
+                "x": "Creative Drop #2는 Google Ads Product 팀이 매달 내는 시리즈의 하나로, Google AI로 연말 캠페인을 준비하는 세 가지 방법을 소개한다."
               },
               {
                 "t": "p",
-                "x": "문자 주문 기능은 오늘 초대받은(invite-only) 소수의 U.S. 고객을 대상으로 먼저 열렸고, Amazon은 앞으로 몇 주에 걸쳐 수백만 명에게 더 확대할 계획이다. 고객이 전화번호를 연결하면 “Alexa Shopping”이라는 새 연락처가 생기는데, 이 연락처가 상품을 검색하고 선택지를 비교해 추천을 문자로 보내며, 지시하면 결제까지 마친다. 자동 구매(auto-buy) 기능을 켜면 가격이 목표치에 닿을 때 에이전트가 알아서 산다."
+                "x": "1. Holiday-ready Text: AI Campaign Translation을 쓰면 스페인어, 프랑스어, 독일어, 포르투갈어 등 15개 언어로 Google Ads 안에서 바로 캠페인을 현지화하고 검토해 집행할 수 있다. Product Manager Mindy Lin은 번역된 캠페인을 Paused 상태로 검토해 게시 전에 브랜드 톤을 확정하라고 권한다."
               },
               {
                 "t": "p",
-                "x": "광고 기회는 탐색 단계에 있다. 에이전트가 선택지 묶음을 문자로 보낼 때 그중 하나가 Sponsored Product일 수 있다. Amazon에 따르면 지난 12개월 동안 Alexa for Shopping을 쓴 고객은 4억(400 million) 명이 넘고, 에이전트 기능 사용량은 1월 이후 여덟 배 넘게 늘었다."
+                "x": "2. Holiday-ready Images: Google Ads Asset Studio의 Multimodal 기능으로 이미 가진 일상적인 제품 사진을 겨울 축제나 선물 장면으로 바꾸면서도 브랜드 기준을 지킬 수 있다. Charles Boyd는 Brand Guidelines PDF와 함께 실제 제품 각도 사진 4~5장을 넣고, 프롬프트에 계절 조명을 구체적으로 적으라고 조언한다."
               },
               {
                 "t": "p",
-                "x": "독립 애드테크 컨설턴트 Jonathan D’Sousa-Rauto는 “에이전틱 커머스가 광고와 만나는 지금, 노출(impression)의 정의는 물론 리포팅과 측정도 매우 중요하다”고 말했다. 요청은 Amazon Shopping 앱과 웹사이트, Alexa-enabled 기기 전반에서 이어지며, 에이전트는 Shop Direct를 통해 Amazon 밖의 매장에서도 구매할 수 있다."
+                "x": "3. Holiday-ready assets for YouTube: Google DeepMind가 개선한 영상 생성 모델 Gemini Omni 1.2는 Asset Studio에서 가로·세로·정사각형 비율 전반에 걸쳐 더 높은 일관성과 빠른 대규모 영상 제작을 제공한다. Max Hagler는 첫 3초 안에 서로 다른 오프닝 비주얼 훅 두 가지를 A/B 테스트하라고 권한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Amazonの買い物\nエージェントに広告枠",
-          "body": "Amazonのエージェントが注文の対話にSponsored Products広告を載せる。",
-          "mini_headline": "Amazonエージェントに広告",
+          "headline": "Google Adsに\n年末向けAI制作ツール",
+          "body": "Google Creative Drop #2に翻訳・写真・YouTube用AIが加わる。",
+          "mini_headline": "Google 年末向けAI広告ツール",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/Amazon-ads.jpg"
+                "src": "https://www.gstatic.com/marketing-cms/assets/images/ads/1c/4c/496f057d4eea9af7b10020b29137/cd2-3x2-card-01.webp=n-w1050-h700-fcrop64=1,00000000ffffffff-rw",
+                "cap": "Creative Drop #2の中身:キャンペーンを年末商戦に備える新AI機能"
               },
               {
                 "t": "p",
-                "x": "Amazonのショッピングエージェントがテキストメッセージで注文を受け付けるようになり、その注文が交わされるスレッドには広告が入る。Sponsored Productsがこの会話内に表示される予定で、当面は広告主に無料だ。エージェントが自ら完了する購入は広告なし(ad-free)のままとなる。"
+                "x": "Creative Drop #2は、Google AdsのProductチームが毎月届けるシリーズの一つで、Google AIを使って年末キャンペーンを準備する三つの方法を紹介する。"
               },
               {
                 "t": "p",
-                "x": "テキスト機能は本日、招待制(invite-only)で一部のU.S.顧客向けに公開され、Amazonは今後数週間で数百万人規模に広げる計画だ。顧客が電話番号を連携すると「Alexa Shopping」という新しい連絡先が追加され、商品を検索し、選択肢を比較し、提案をテキストで返し、指示があれば決済まで行う。自動購入(auto-buy)を使えば、価格が目標に達した時点でエージェントが購入する。"
+                "x": "1. Holiday-ready Text:AI Campaign Translationを使えば、スペイン語、フランス語、ドイツ語、ポルトガル語など15言語で、キャンペーンをGoogle Ads内でそのまま現地化・確認・配信できる。Product ManagerのMindy Linは、公開前にブランドのトーンを固めるため、翻訳したキャンペーンをPaused状態で確認するよう勧める。"
               },
               {
                 "t": "p",
-                "x": "広告の機会は発見段階にある。エージェントが選択肢をまとめてテキストで返す際、その一つがSponsored Productになりうる。Amazonによると、過去12か月にAlexa for Shoppingを利用した顧客は4億(400 million)人を超え、エージェント機能の利用は1月以降で八倍超に伸びた。"
+                "x": "2. Holiday-ready Images:Google Ads Asset StudioのMultimodal機能で、手元にある普段の商品写真を冬のお祝いやギフトの場面に変えつつ、アセットをブランド基準に沿ったまま保てる。Charles Boydは、Brand Guidelines PDFと実際の商品アングル4〜5点を一緒に読み込み、プロンプトで季節の照明を具体的に指定するよう助言する。"
               },
               {
                 "t": "p",
-                "x": "独立系アドテクコンサルタントのJonathan D’Sousa-Rautoは「エージェンティックコマースが広告と交わる中、インプレッションの定義は、レポーティングや測定と同様に極めて重要だ」と述べた。リクエストはAmazon Shoppingアプリ、ウェブサイト、Alexa-enabledデバイスをまたいで引き継がれ、エージェントはShop Directを通じてAmazon以外の店舗でも購入できる。"
+                "x": "3. Holiday-ready assets for YouTube:Google DeepMindの最新動画生成モデルGemini Omni 1.2は、Asset Studioで横長・縦長・正方形の各比率にわたり、一貫性を高め、大規模な動画制作を速める。Max Haglerは、冒頭3秒で異なる二つのオープニング映像フックをA/Bテストするよう勧める。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon购物智能体\n嵌入赞助广告",
-          "body": "Amazon购物智能体接受短信下单，对话中将出现Sponsored Products广告。",
-          "mini_headline": "Amazon智能体加入广告",
+          "headline": "Google Ads推出\n节日季AI创意工具",
+          "body": "Google Creative Drop #2新增翻译、修图与YouTube视频AI工具。",
+          "mini_headline": "Google节日季AI广告工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/Amazon-ads.jpg"
+                "src": "https://www.gstatic.com/marketing-cms/assets/images/ads/1c/4c/496f057d4eea9af7b10020b29137/cd2-3x2-card-01.webp=n-w1050-h700-fcrop64=1,00000000ffffffff-rw",
+                "cap": "Creative Drop #2详解:让广告系列为节日季做好准备的全新AI功能"
               },
               {
                 "t": "p",
-                "x": "Amazon的购物智能体现在可以通过短信接单，而下单所在的对话线程将承载广告。Sponsored Products将出现在这些对话中，目前对广告主免费。智能体自主完成的购买仍将保持无广告（ad-free）。"
+                "x": "Creative Drop #2是Google Ads Product团队推出的月度系列之一,介绍了借助Google AI为节日广告系列做好准备的三种方式。"
               },
               {
                 "t": "p",
-                "x": "短信功能今天面向一小批受邀（invite-only）的U.S.用户上线，Amazon计划在未来几周内向数百万用户开放。用户绑定手机号后会获得一个名为“Alexa Shopping”的新联系人，它能搜索商品、比较选项、以短信回复建议，并按指令完成结账；自动购买（auto-buy）功能可让智能体在价格达到目标时下单。"
+                "x": "1. Holiday-ready Text:借助AI Campaign Translation,可直接在Google Ads内以西班牙语、法语、德语、葡萄牙语等15种语言本地化、审核并上线广告系列。Product Manager Mindy Lin建议在Paused状态下审核翻译后的广告系列,在上线前锁定品牌语气。"
               },
               {
                 "t": "p",
-                "x": "广告机会位于发现阶段：当智能体以短信发回一组选项时，其中一个可能是Sponsored Product。Amazon表示，过去12个月有超过4亿（400 million）名顾客使用过Alexa for Shopping，其智能体功能的使用量自一月以来增长了八倍多。"
+                "x": "2. Holiday-ready Images:借助Google Ads Asset Studio的Multimodal功能,可将手头已有的日常产品照片转换为节日冬季或送礼场景,同时让素材符合品牌规范。Charles Boyd建议同时导入Brand Guidelines PDF和4到5张真实产品角度图,并在提示词中具体描述季节性光线。"
               },
               {
                 "t": "p",
-                "x": "独立广告技术顾问Jonathan D’Sousa-Rauto表示：“当智能体商务与广告相遇，展示（impression）的定义以及报告和衡量都至关重要。”请求可在Amazon Shopping应用、网站和Alexa-enabled设备之间延续，智能体还可通过Shop Direct从Amazon以外的商店购买。"
+                "x": "3. Holiday-ready assets for YouTube:Google DeepMind更新后的视频生成模型Gemini Omni 1.2在Asset Studio中带来更强的一致性和更快的规模化视频制作,覆盖横版、竖版和方形比例。Max Hagler建议在前3秒内对两种不同的开场视觉钩子进行A/B测试。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Anuncios patrocinados llegan\nal agente de compras de Amazon",
-          "body": "El agente de compras de Amazon acepta pedidos por texto e incluye anuncios de Sponsored Products, gratis por ahora.",
-          "mini_headline": "Anuncios en el agente de Amazon",
+          "headline": "Google Ads lanza herramientas\ncreativas de AI para fiestas",
+          "body": "Creative Drop #2 de Google añade AI para traducir anuncios, reambientar fotos de producto y crear videos de YouTube.",
+          "mini_headline": "Herramientas AI de Google para fiestas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/Amazon-ads.jpg"
+                "src": "https://www.gstatic.com/marketing-cms/assets/images/ads/1c/4c/496f057d4eea9af7b10020b29137/cd2-3x2-card-01.webp=n-w1050-h700-fcrop64=1,00000000ffffffff-rw",
+                "cap": "Dentro de Creative Drop #2: nuevas funciones de AI para preparar sus campañas para las fiestas"
               },
               {
                 "t": "p",
-                "x": "El agente de compras de Amazon ya acepta pedidos por mensaje de texto, y el hilo donde se realizan esos pedidos llevará anuncios. Sponsored Products aparecerá dentro de esas conversaciones, de forma gratuita para los anunciantes por el momento. Las compras que el agente complete por su cuenta seguirán sin anuncios (ad-free)."
+                "x": "Creative Drop #2, parte de la serie mensual de Google Ads elaborada por sus equipos Product, presenta tres formas de preparar las campañas de fiestas con Google AI."
               },
               {
                 "t": "p",
-                "x": "La opción de texto se activó hoy para un pequeño grupo de clientes de U.S. por invitación (invite-only), y Amazon planea abrirla a millones más en las próximas semanas. Los clientes vinculan un número de teléfono y obtienen un nuevo contacto llamado “Alexa Shopping”, que busca, compara opciones, responde con sugerencias por texto y completa la compra cuando se le indica; la función auto-buy permite que el agente compre cuando un precio alcanza un objetivo."
+                "x": "1. Holiday-ready Text: con AI Campaign Translation se pueden localizar, revisar y lanzar campañas directamente en Google Ads en 15 idiomas, entre ellos español, francés, alemán, portugués y otros. La Product Manager Mindy Lin sugiere revisar las campañas traducidas en estado Paused para fijar el tono de marca antes de que se publiquen."
               },
               {
                 "t": "p",
-                "x": "La oportunidad publicitaria está en la fase de descubrimiento: cuando el agente envía por texto un conjunto de opciones, una de ellas puede ser un Sponsored Product. Más de 400 millones de clientes han usado Alexa for Shopping en los últimos 12 meses, según Amazon, y el uso de sus funciones agénticas se ha multiplicado más de ocho veces desde enero."
+                "x": "2. Holiday-ready Images: con las capacidades Multimodal de Google Ads Asset Studio, las fotos de producto cotidianas que ya se tienen pueden convertirse en escenas festivas de invierno o de regalo, manteniendo los recursos conformes a la marca. Charles Boyd aconseja importar un PDF de Brand Guidelines junto con 4 a 5 ángulos reales del producto y ser específico sobre la iluminación estacional en el prompt."
               },
               {
                 "t": "p",
-                "x": "“A medida que el comercio agéntico se une a la publicidad, la definición de una impresión es crucial, al igual que los informes y la medición”, dijo el consultor independiente de ad tech Jonathan D’Sousa-Rauto. Las solicitudes se mantienen entre la app Amazon Shopping, el sitio web y los dispositivos Alexa-enabled, y a través de Shop Direct el agente también puede comprar en tiendas fuera de Amazon."
+                "x": "3. Holiday-ready assets for YouTube: Gemini Omni 1.2, el modelo de generación de video actualizado de Google DeepMind, aporta mayor coherencia y una creación de videos más rápida a escala en Asset Studio, en formatos horizontal, vertical y cuadrado. Max Hagler recomienda hacer pruebas A/B con dos ganchos visuales de apertura distintos en los primeros 3 segundos."
               }
             ]
           }
@@ -315,189 +325,165 @@
       }
     },
     {
-      "id": "chatgpt-ads-bidding-nov9",
+      "id": "jet-jetads-retail-media",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ChatGPT Ads\n11월 9일 입찰 개편",
-      "body": "OpenAI가 11월 9일 ChatGPT Ads Max CPC 등 입찰을 손본다.",
-      "mini_headline": "ChatGPT Ads 입찰 개편",
+      "headline": "JET, AI-first\n광고 플랫폼 JETads",
+      "body": "JETads는 14개 시장에 JET 개인화와 closed-loop 측정을 묶었다.",
+      "mini_headline": "JET, JETads 출시",
       "tool": "Marketing",
-      "source": "Search Engine Roundtable",
-      "url": "https://www.seroundtable.com/openai-updates-chatgpt-ads-bidding-options-42470.html",
+      "source": "Just Eat Takeaway.com",
+      "url": "https://newsroom.justeattakeaway.com/en-WW/274080-just-eat-takeaway-com-launches-jetads-a-new-ai-first-advertising-platform-for-european-advertisers/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "Just Eat Takeaway.com(JET)이 유럽 광고주용 광고 플랫폼 JETads를 새로 내놓았다. 14개 시장의 활성 소비자 5,900만 명과 연간 주문 5억9,200만 건, 342,000곳 넘는 파트너에 닿는다. 오늘부터 전 시장에서 가동한다."
+          },
+          {
             "t": "img",
-            "src": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg"
+            "src": "https://d21buns5ku92am.cloudfront.net/69466/images/714382-image_20261104135837_alq-494b13-original-1793801006.png"
           },
           {
             "t": "p",
-            "x": "OpenAI가 ChatGPT Ads 광고주들에게 11월 9일 월요일부터 입찰 옵션이 바뀐다고 이메일로 알렸다. Max Bid나 Max CPC 입찰 옵션을 쓰는 광고주가 대상이다. OpenAI는 \"11월 9일 월요일부터 Ads Manager에서 캠페인을 만들거나 기존 캠페인을 수정할 때 비용 목표를 선택적으로 지정할 수 있다\"고 썼다."
+            "x": "JETads의 바탕은 소비자와 파트너가 주고받은 수십억 건의 상호작용을 분석하는 JET의 개인화 기술이다. 광고주는 세 그룹으로 나뉜다. 레스토랑·식료품 파트너는 검색과 탐색 화면에서 프리미엄 노출을 얻는다. FMCG 브랜드는 장바구니를 채우는 쇼핑객을 만나고, 광고비가 장바구니 추가와 완료 주문으로 이어지는 흐름을 보여주는 closed-loop 리포트를 받는다. non-endemic 브랜드의 자리는 결제 이후다. 고객이 최대 30분간 주문을 추적하는 그 시간에 고객을 만난다."
           },
           {
             "t": "p",
-            "x": "전환 캠페인에는 목표 액션당 비용(Target CPA)이 도입돼 Ads Manager의 신규 전환 캠페인에서 Max Bid를 대체한다. 클릭 캠페인에는 목표 클릭당 비용(Target CPC)이 들어와 신규 클릭 캠페인의 Max CPC를 대신한다. Max CPC는 입찰마다 상한을 두지만 Target CPC는 경매마다 목표보다 높게도 낮게도 입찰하도록 시스템에 맡긴다."
-          },
-          {
-            "t": "p",
-            "x": "Max Bid와 Max CPC는 2027년 1월 1일 종료된다. 이제 지능형 입찰(intelligent bidding)이라 부르는 Maximize results(autobid)는 지금처럼 입찰과 노출을 알아서 조정한다."
-          },
-          {
-            "t": "p",
-            "x": "OpenAI는 지금 바로 전환을 시작하라고 권한다. Pixel이나 Conversions API가 선택한 이벤트를 제대로 보내는지 확인하고 최근 실제 CPA나 CPC를 보고 현실적인 목표를 잡으라는 것이다. 목표를 너무 빡빡하게 잡거나 전환 신호가 약하면 광고 노출이 줄고 예산이 남을 수 있다."
+            "x": "Chief Growth Officer David Vismans는 \"우리는 AI 시대를 위해 JETads를 처음부터 새로 만들었다\"고 말했다. JETads의 엔진은 JET의 모회사 Prosus가 개발한 커머스 AI, Prosus Large Commerce Model(LCM)이다. 이 모델은 실제 고객 행동을 학습해 고객이 원할 만한 것을 원할 만한 순간에 내놓는다. 화요일 점심과 금요일 밤에 보여주는 레스토랑이 달라지는 식이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "ChatGPT Ads changes its\nbidding options on Nov. 9",
-          "body": "OpenAI told advertisers ChatGPT Ads bidding changes on November 9, affecting Max Bid and Max CPC campaigns.",
-          "mini_headline": "ChatGPT Ads bidding shifts",
+          "headline": "Just Eat Takeaway launches\nAI-first JETads platform",
+          "body": "JETads goes live in 14 markets, pairing JET's personalisation models with closed-loop ad measurement.",
+          "mini_headline": "JET launches JETads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Just Eat Takeaway.com (JET) announced the launch of JETads, a new advertising platform for European advertisers, with reach across 59 million active consumers, 592 million orders per year and more than 342,000 partners in 14 markets. It is live across all of them from today."
+              },
+              {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg"
+                "src": "https://d21buns5ku92am.cloudfront.net/69466/images/714382-image_20261104135837_alq-494b13-original-1793801006.png"
               },
               {
                 "t": "p",
-                "x": "OpenAI has just emailed advertisers within ChatGPT Ads about bidding options changes coming Monday, November 9. This impacts advertisers using Max Bid or Max CPC bidding options. \"Starting Monday, November 9, you can optionally choose a cost target in Ads Manager when you create a campaign or update an existing one,\" OpenAI wrote."
+                "x": "JETads builds on JET's personalisation technology, which analyses billions of interactions between consumers and partners. It serves three advertiser groups: restaurant and grocery partners get premium visibility in search and browse; FMCG brands reach shoppers as they build baskets, with closed-loop reporting that connects spend to basket adds and completed orders; and non-endemic brands reach customers in the post-checkout window, while they follow their orders for up to 30 minutes."
               },
               {
                 "t": "p",
-                "x": "Target cost per action (Target CPA) is launching for conversion campaigns and will replace Max Bid for new conversion campaigns in Ads Manager. Target cost per click (Target CPC) is launching for click campaigns and will replace Max CPC for new click campaigns; while Max CPC caps individual bids, Target CPC lets the system bid above or below your target in each auction."
-              },
-              {
-                "t": "p",
-                "x": "Max Bid and Max CPC will retire on January 1, 2027. Maximize results (autobid), now called intelligent bidding, will continue to automatically adjust bids and delivery."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI recommends starting the transition now, confirming Pixel or Conversions API is sending the selected event, and using recent actual CPA or CPC to choose realistic targets. Restrictive targets or weak conversion signals can reduce ad delivery and leave budget unspent."
+                "x": "\"We built JETads from scratch, for the AI era,\" said David Vismans, Chief Growth Officer. JETads uses the Prosus Large Commerce Model (LCM), a commerce AI developed by JET's parent group Prosus, which learns from real customer behaviour to surface what a customer is likely to want at the moment they are likely to want it — such as different restaurants on a Friday night than on a Tuesday lunchtime."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ChatGPT Ads\n11월 9일 입찰 개편",
-          "body": "OpenAI가 11월 9일 ChatGPT Ads Max CPC 등 입찰을 손본다.",
-          "mini_headline": "ChatGPT Ads 입찰 개편",
+          "headline": "JET, AI-first\n광고 플랫폼 JETads",
+          "body": "JETads는 14개 시장에 JET 개인화와 closed-loop 측정을 묶었다.",
+          "mini_headline": "JET, JETads 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Just Eat Takeaway.com(JET)이 유럽 광고주용 광고 플랫폼 JETads를 새로 내놓았다. 14개 시장의 활성 소비자 5,900만 명과 연간 주문 5억9,200만 건, 342,000곳 넘는 파트너에 닿는다. 오늘부터 전 시장에서 가동한다."
+              },
+              {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg"
+                "src": "https://d21buns5ku92am.cloudfront.net/69466/images/714382-image_20261104135837_alq-494b13-original-1793801006.png"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 ChatGPT Ads 광고주들에게 11월 9일 월요일부터 입찰 옵션이 바뀐다고 이메일로 알렸다. Max Bid나 Max CPC 입찰 옵션을 쓰는 광고주가 대상이다. OpenAI는 \"11월 9일 월요일부터 Ads Manager에서 캠페인을 만들거나 기존 캠페인을 수정할 때 비용 목표를 선택적으로 지정할 수 있다\"고 썼다."
+                "x": "JETads의 바탕은 소비자와 파트너가 주고받은 수십억 건의 상호작용을 분석하는 JET의 개인화 기술이다. 광고주는 세 그룹으로 나뉜다. 레스토랑·식료품 파트너는 검색과 탐색 화면에서 프리미엄 노출을 얻는다. FMCG 브랜드는 장바구니를 채우는 쇼핑객을 만나고, 광고비가 장바구니 추가와 완료 주문으로 이어지는 흐름을 보여주는 closed-loop 리포트를 받는다. non-endemic 브랜드의 자리는 결제 이후다. 고객이 최대 30분간 주문을 추적하는 그 시간에 고객을 만난다."
               },
               {
                 "t": "p",
-                "x": "전환 캠페인에는 목표 액션당 비용(Target CPA)이 도입돼 Ads Manager의 신규 전환 캠페인에서 Max Bid를 대체한다. 클릭 캠페인에는 목표 클릭당 비용(Target CPC)이 들어와 신규 클릭 캠페인의 Max CPC를 대신한다. Max CPC는 입찰마다 상한을 두지만 Target CPC는 경매마다 목표보다 높게도 낮게도 입찰하도록 시스템에 맡긴다."
-              },
-              {
-                "t": "p",
-                "x": "Max Bid와 Max CPC는 2027년 1월 1일 종료된다. 이제 지능형 입찰(intelligent bidding)이라 부르는 Maximize results(autobid)는 지금처럼 입찰과 노출을 알아서 조정한다."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI는 지금 바로 전환을 시작하라고 권한다. Pixel이나 Conversions API가 선택한 이벤트를 제대로 보내는지 확인하고 최근 실제 CPA나 CPC를 보고 현실적인 목표를 잡으라는 것이다. 목표를 너무 빡빡하게 잡거나 전환 신호가 약하면 광고 노출이 줄고 예산이 남을 수 있다."
+                "x": "Chief Growth Officer David Vismans는 \"우리는 AI 시대를 위해 JETads를 처음부터 새로 만들었다\"고 말했다. JETads의 엔진은 JET의 모회사 Prosus가 개발한 커머스 AI, Prosus Large Commerce Model(LCM)이다. 이 모델은 실제 고객 행동을 학습해 고객이 원할 만한 것을 원할 만한 순간에 내놓는다. 화요일 점심과 금요일 밤에 보여주는 레스토랑이 달라지는 식이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPT Ads、\n11月9日に入札変更",
-          "body": "OpenAIは11月9日、ChatGPT AdsのMax CPCなど入札を変更する。",
-          "mini_headline": "ChatGPT Ads入札が変更",
+          "headline": "JET、AI-firstの\n広告基盤JETads",
+          "body": "JETadsは14市場でJETの個人化モデルとclosed-loop計測を組み合わせる。",
+          "mini_headline": "JETがJETadsを開始",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Just Eat Takeaway.com(JET)は、欧州の広告主向けの新しい広告プラットフォームJETadsの開始を発表した。14市場で5,900万人のアクティブ消費者、年間5億9,200万件の注文、342,000以上のパートナーにリーチする。本日から全市場で稼働している。"
+              },
+              {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg"
+                "src": "https://d21buns5ku92am.cloudfront.net/69466/images/714382-image_20261104135837_alq-494b13-original-1793801006.png"
               },
               {
                 "t": "p",
-                "x": "OpenAIはChatGPT Adsの広告主に対し、11月9日(月)から始まる入札オプションの変更をメールで通知した。対象はMax BidまたはMax CPCの入札オプションを使う広告主だ。OpenAIは「11月9日(月)から、Ads Managerでキャンペーンを作成するとき、または既存のキャンペーンを更新するときに、任意でコスト目標を選べる」と記した。"
+                "x": "JETadsは、消費者とパートナー間の数十億件のやり取りを分析するJETのパーソナライゼーション技術を基盤とする。対象は三つの広告主グループだ。レストランと食料品のパートナーは検索や閲覧画面で目立つ露出を得る。FMCGブランドは買い物かごを作る段階の買い物客に届き、広告費をかごへの追加や完了した注文に結び付けるclosed-loopレポートを使える。non-endemicブランドは、注文確定後、顧客が最大30分にわたり注文を追跡する時間帯に顧客へ届く。"
               },
               {
                 "t": "p",
-                "x": "コンバージョンキャンペーン向けには目標アクション単価(Target CPA)が導入され、Ads Managerの新規コンバージョンキャンペーンでMax Bidに代わる。クリックキャンペーン向けには目標クリック単価(Target CPC)が導入され、新規クリックキャンペーンでMax CPCに代わる。Max CPCが個々の入札に上限を設けるのに対し、Target CPCでは各オークションでシステムが目標より高くも低くも入札できる。"
-              },
-              {
-                "t": "p",
-                "x": "Max BidとMax CPCは2027年1月1日に廃止される。現在インテリジェント入札(intelligent bidding)と呼ばれるMaximize results(autobid)は、引き続き入札と配信を自動調整する。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAIは、今すぐ移行を始めること、PixelまたはConversions APIが選択したイベントを送信しているか確認すること、直近の実際のCPAやCPCをもとに現実的な目標を設定することを勧めている。厳しすぎる目標や弱いコンバージョンシグナルは広告配信を減らし、予算の消化不足を招くおそれがある。"
+                "x": "「JETadsはAI時代に向けてゼロから作った」とChief Growth OfficerのDavid Vismansは語った。JETadsは、JETの親会社Prosusが開発したコマースAI「Prosus Large Commerce Model(LCM)」を使う。実際の顧客行動から学び、顧客が欲しがりそうなものを欲しがりそうな瞬間に示す。たとえば火曜の昼と金曜の夜では異なるレストランを出す。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT Ads\n11月9日调整出价",
-          "body": "OpenAI称ChatGPT Ads将于11月9日调整Max Bid与Max CPC出价。",
-          "mini_headline": "ChatGPT Ads出价调整",
+          "headline": "JET推出AI-first\n广告平台JETads",
+          "body": "JETads在14个市场上线,结合JET个性化模型与closed-loop广告衡量。",
+          "mini_headline": "JET推出JETads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Just Eat Takeaway.com(JET)宣布推出面向欧洲广告主的全新广告平台JETads,覆盖14个市场的5900万活跃消费者、每年5.92亿笔订单以及超过342,000家合作伙伴。即日起已在全部市场上线。"
+              },
+              {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg"
+                "src": "https://d21buns5ku92am.cloudfront.net/69466/images/714382-image_20261104135837_alq-494b13-original-1793801006.png"
               },
               {
                 "t": "p",
-                "x": "OpenAI刚刚向ChatGPT Ads的广告主发送邮件，告知将于11月9日（周一）生效的出价选项变更。此次变更影响使用Max Bid或Max CPC出价选项的广告主。OpenAI写道：“从11月9日（周一）起，你在Ads Manager中创建广告系列或更新现有广告系列时，可以选择设定成本目标。”"
+                "x": "JETads以JET的个性化技术为基础,该技术分析消费者与合作伙伴之间的数十亿次互动。平台服务三类广告主:餐厅和生鲜杂货合作伙伴在搜索和浏览中获得优质曝光;FMCG品牌在购物者添加购物篮时触达他们,并通过closed-loop报告将投放花费与加购和完成订单相关联;non-endemic品牌则在结账后的时段触达顾客,此时顾客会追踪订单长达30分钟。"
               },
               {
                 "t": "p",
-                "x": "目标单次行动成本（Target CPA）将面向转化广告系列推出，并在Ads Manager的新转化广告系列中取代Max Bid。目标单次点击成本（Target CPC）将面向点击广告系列推出，并在新点击广告系列中取代Max CPC；Max CPC为单次出价设定上限，而Target CPC允许系统在每次竞价中高于或低于你的目标出价。"
-              },
-              {
-                "t": "p",
-                "x": "Max Bid和Max CPC将于2027年1月1日停用。Maximize results（autobid）现称智能出价（intelligent bidding），将继续自动调整出价和投放。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAI建议现在就开始过渡，确认Pixel或Conversions API正在发送所选事件，并参考近期实际的CPA或CPC来设定切实可行的目标。目标过严或转化信号偏弱，可能导致广告投放减少、预算花不出去。"
+                "x": "“我们为AI时代从零打造了JETads,”Chief Growth Officer David Vismans表示。JETads采用JET母公司Prosus开发的商业AI——Prosus Large Commerce Model(LCM),它从真实顾客行为中学习,在顾客可能想要某样东西的时刻呈现其可能想要的内容,例如周五晚上和周二午餐时段推荐的餐厅各不相同。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT Ads cambia sus opciones\nde puja el 9 de noviembre",
-          "body": "OpenAI informó a los anunciantes de que la puja de ChatGPT Ads cambia el 9 de noviembre y afecta a Max Bid y Max CPC.",
-          "mini_headline": "Cambia la puja en ChatGPT Ads",
+          "headline": "Just Eat Takeaway lanza\nJETads, plataforma AI-first",
+          "body": "JETads arranca en 14 mercados y combina los modelos de personalización de JET con medición publicitaria closed-loop.",
+          "mini_headline": "JET lanza JETads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Just Eat Takeaway.com (JET) anunció el lanzamiento de JETads, una nueva plataforma publicitaria para anunciantes europeos, con alcance a 59 millones de consumidores activos, 592 millones de pedidos al año y más de 342,000 socios en 14 mercados. Está activa en todos ellos desde hoy."
+              },
+              {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg"
+                "src": "https://d21buns5ku92am.cloudfront.net/69466/images/714382-image_20261104135837_alq-494b13-original-1793801006.png"
               },
               {
                 "t": "p",
-                "x": "OpenAI acaba de enviar un correo a los anunciantes de ChatGPT Ads sobre los cambios en las opciones de puja que llegan el lunes 9 de noviembre. Esto afecta a los anunciantes que usan las opciones de puja Max Bid o Max CPC. \"A partir del lunes 9 de noviembre, podrá elegir de forma opcional un objetivo de costo en Ads Manager al crear una campaña o actualizar una existente\", escribió OpenAI."
+                "x": "JETads se basa en la tecnología de personalización de JET, que analiza miles de millones de interacciones entre consumidores y socios. Atiende a tres grupos de anunciantes: los restaurantes y socios de alimentación obtienen visibilidad premium en búsqueda y navegación; las marcas FMCG llegan a los compradores mientras llenan su cesta, con informes closed-loop que vinculan el gasto con los productos añadidos a la cesta y los pedidos completados; y las marcas non-endemic llegan a los clientes en la ventana posterior al pago, mientras siguen sus pedidos durante hasta 30 minutos."
               },
               {
                 "t": "p",
-                "x": "El costo por acción objetivo (Target CPA) llega a las campañas de conversión y sustituirá a Max Bid en las nuevas campañas de conversión de Ads Manager. El costo por clic objetivo (Target CPC) llega a las campañas de clics y sustituirá a Max CPC en las nuevas campañas de clics; mientras que Max CPC limita cada puja individual, Target CPC permite al sistema pujar por encima o por debajo de su objetivo en cada subasta."
-              },
-              {
-                "t": "p",
-                "x": "Max Bid y Max CPC se retirarán el 1 de enero de 2027. Maximize results (autobid), ahora llamada puja inteligente (intelligent bidding), seguirá ajustando automáticamente las pujas y la entrega."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI recomienda empezar la transición ahora, confirmar que Pixel o Conversions API envía el evento seleccionado y usar el CPA o CPC real reciente para fijar objetivos realistas. Los objetivos restrictivos o las señales de conversión débiles pueden reducir la entrega de anuncios y dejar presupuesto sin gastar."
+                "x": "\"Creamos JETads desde cero, para la era de la AI\", dijo David Vismans, Chief Growth Officer. JETads utiliza el Prosus Large Commerce Model (LCM), una AI de comercio desarrollada por Prosus, grupo matriz de JET, que aprende del comportamiento real de los clientes para mostrar lo que probablemente quieran en el momento en que probablemente lo quieran, como restaurantes distintos un viernes por la noche que un martes al mediodía."
               }
             ]
           }
@@ -505,121 +491,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ChatGPT Ads,\n11월 9일 입찰 개편",
-          "body": "OpenAI가 11월 9일 ChatGPT Ads Max CPC 등 입찰을 바꾼다.",
-          "mini_headline": "ChatGPT Ads 입찰 개편",
+          "headline": "JET, AI-first\n광고 플랫폼 JETads",
+          "body": "JETads는 14개 시장서 JET 개인화·closed-loop 측정을 묶는다.",
+          "mini_headline": "JET, JETads 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Just Eat Takeaway.com(JET)이 유럽 광고주를 위한 새 광고 플랫폼 JETads를 출시했다. 14개 시장에서 활성 소비자 5,900만 명, 연간 주문 5억9,200만 건, 342,000곳이 넘는 파트너에 닿는다. 오늘부터 모든 시장에서 가동한다."
+              },
+              {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg"
+                "src": "https://d21buns5ku92am.cloudfront.net/69466/images/714382-image_20261104135837_alq-494b13-original-1793801006.png"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 ChatGPT Ads 광고주들에게 11월 9일 월요일부터 적용되는 입찰 옵션 변경을 이메일로 알렸다. 이번 변경은 Max Bid나 Max CPC 입찰 옵션을 쓰는 광고주에게 영향을 준다. OpenAI는 \"11월 9일 월요일부터 Ads Manager에서 캠페인을 만들거나 기존 캠페인을 수정할 때 비용 목표를 선택적으로 지정할 수 있다\"고 썼다."
+                "x": "JETads는 소비자와 파트너 사이의 수십억 건 상호작용을 분석하는 JET의 개인화 기술을 토대로 한다. 광고주는 세 그룹으로 나뉜다. 레스토랑·식료품 파트너는 검색과 탐색 화면에서 프리미엄 노출을 얻는다. FMCG 브랜드는 장바구니를 채우는 쇼핑객에게 닿고, 광고비를 장바구니 추가와 완료 주문으로 잇는 closed-loop 리포트를 받는다. non-endemic 브랜드는 결제 이후, 고객이 최대 30분간 주문을 추적하는 시간대에 고객에게 닿는다."
               },
               {
                 "t": "p",
-                "x": "전환 캠페인에는 목표 액션당 비용(Target CPA)이 도입되며, Ads Manager의 신규 전환 캠페인에서 Max Bid를 대체한다. 클릭 캠페인에는 목표 클릭당 비용(Target CPC)이 도입되어 신규 클릭 캠페인에서 Max CPC를 대체한다. Max CPC가 개별 입찰에 상한을 두는 반면, Target CPC는 경매마다 목표보다 높거나 낮게 입찰하도록 시스템에 맡긴다."
-              },
-              {
-                "t": "p",
-                "x": "Max Bid와 Max CPC는 2027년 1월 1일 종료된다. 이제 지능형 입찰(intelligent bidding)로 불리는 Maximize results(autobid)는 계속해서 입찰과 노출을 자동으로 조정한다."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI는 지금 바로 전환을 시작하고, Pixel이나 Conversions API가 선택한 이벤트를 보내고 있는지 확인하며, 최근 실제 CPA나 CPC를 근거로 현실적인 목표를 정하라고 권한다. 목표가 지나치게 빡빡하거나 전환 신호가 약하면 광고 노출이 줄고 예산이 남을 수 있다."
+                "x": "Chief Growth Officer David Vismans는 \"우리는 AI 시대를 위해 JETads를 처음부터 새로 만들었다\"고 말했다. JETads는 JET의 모회사 Prosus가 개발한 커머스 AI인 Prosus Large Commerce Model(LCM)을 쓴다. 이 모델은 실제 고객 행동을 학습해 고객이 원할 법한 것을 원할 법한 순간에 보여준다. 화요일 점심과 금요일 밤에 서로 다른 레스토랑을 보여주는 식이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPT Ads、\n11月9日に入札変更",
-          "body": "OpenAIは11月9日、ChatGPT AdsのMax CPCなど入札を変更する。",
-          "mini_headline": "ChatGPT Ads入札が変更",
+          "headline": "JET、AI-firstの\n広告基盤JETads",
+          "body": "JETadsは14市場でJETの個人化モデルとclosed-loop計測を組み合わせる。",
+          "mini_headline": "JETがJETadsを開始",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Just Eat Takeaway.com(JET)は、欧州の広告主向けの新しい広告プラットフォームJETadsの開始を発表した。14市場で5,900万人のアクティブ消費者、年間5億9,200万件の注文、342,000以上のパートナーにリーチする。本日から全市場で稼働している。"
+              },
+              {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg"
+                "src": "https://d21buns5ku92am.cloudfront.net/69466/images/714382-image_20261104135837_alq-494b13-original-1793801006.png"
               },
               {
                 "t": "p",
-                "x": "OpenAIはChatGPT Adsの広告主に対し、11月9日(月)から始まる入札オプションの変更をメールで通知した。対象はMax BidまたはMax CPCの入札オプションを使う広告主だ。OpenAIは「11月9日(月)から、Ads Managerでキャンペーンを作成するとき、または既存のキャンペーンを更新するときに、任意でコスト目標を選べる」と記した。"
+                "x": "JETadsは、消費者とパートナー間の数十億件のやり取りを分析するJETのパーソナライゼーション技術を基盤とする。対象は三つの広告主グループだ。レストランと食料品のパートナーは検索や閲覧画面で目立つ露出を得る。FMCGブランドは買い物かごを作る段階の買い物客に届き、広告費をかごへの追加や完了した注文に結び付けるclosed-loopレポートを使える。non-endemicブランドは、注文確定後、顧客が最大30分にわたり注文を追跡する時間帯に顧客へ届く。"
               },
               {
                 "t": "p",
-                "x": "コンバージョンキャンペーン向けには目標アクション単価(Target CPA)が導入され、Ads Managerの新規コンバージョンキャンペーンでMax Bidに代わる。クリックキャンペーン向けには目標クリック単価(Target CPC)が導入され、新規クリックキャンペーンでMax CPCに代わる。Max CPCが個々の入札に上限を設けるのに対し、Target CPCでは各オークションでシステムが目標より高くも低くも入札できる。"
-              },
-              {
-                "t": "p",
-                "x": "Max BidとMax CPCは2027年1月1日に廃止される。現在インテリジェント入札(intelligent bidding)と呼ばれるMaximize results(autobid)は、引き続き入札と配信を自動調整する。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAIは、今すぐ移行を始めること、PixelまたはConversions APIが選択したイベントを送信しているか確認すること、直近の実際のCPAやCPCをもとに現実的な目標を設定することを勧めている。厳しすぎる目標や弱いコンバージョンシグナルは広告配信を減らし、予算の消化不足を招くおそれがある。"
+                "x": "「JETadsはAI時代に向けてゼロから作った」とChief Growth OfficerのDavid Vismansは語った。JETadsは、JETの親会社Prosusが開発したコマースAI「Prosus Large Commerce Model(LCM)」を使う。実際の顧客行動から学び、顧客が欲しがりそうなものを欲しがりそうな瞬間に示す。たとえば火曜の昼と金曜の夜では異なるレストランを出す。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT Ads\n11月9日调整出价",
-          "body": "OpenAI称ChatGPT Ads将于11月9日调整Max Bid与Max CPC出价。",
-          "mini_headline": "ChatGPT Ads出价调整",
+          "headline": "JET推出AI-first\n广告平台JETads",
+          "body": "JETads在14个市场上线,结合JET个性化模型与closed-loop广告衡量。",
+          "mini_headline": "JET推出JETads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Just Eat Takeaway.com(JET)宣布推出面向欧洲广告主的全新广告平台JETads,覆盖14个市场的5900万活跃消费者、每年5.92亿笔订单以及超过342,000家合作伙伴。即日起已在全部市场上线。"
+              },
+              {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg"
+                "src": "https://d21buns5ku92am.cloudfront.net/69466/images/714382-image_20261104135837_alq-494b13-original-1793801006.png"
               },
               {
                 "t": "p",
-                "x": "OpenAI刚刚向ChatGPT Ads的广告主发送邮件，告知将于11月9日（周一）生效的出价选项变更。此次变更影响使用Max Bid或Max CPC出价选项的广告主。OpenAI写道：“从11月9日（周一）起，你在Ads Manager中创建广告系列或更新现有广告系列时，可以选择设定成本目标。”"
+                "x": "JETads以JET的个性化技术为基础,该技术分析消费者与合作伙伴之间的数十亿次互动。平台服务三类广告主:餐厅和生鲜杂货合作伙伴在搜索和浏览中获得优质曝光;FMCG品牌在购物者添加购物篮时触达他们,并通过closed-loop报告将投放花费与加购和完成订单相关联;non-endemic品牌则在结账后的时段触达顾客,此时顾客会追踪订单长达30分钟。"
               },
               {
                 "t": "p",
-                "x": "目标单次行动成本（Target CPA）将面向转化广告系列推出，并在Ads Manager的新转化广告系列中取代Max Bid。目标单次点击成本（Target CPC）将面向点击广告系列推出，并在新点击广告系列中取代Max CPC；Max CPC为单次出价设定上限，而Target CPC允许系统在每次竞价中高于或低于你的目标出价。"
-              },
-              {
-                "t": "p",
-                "x": "Max Bid和Max CPC将于2027年1月1日停用。Maximize results（autobid）现称智能出价（intelligent bidding），将继续自动调整出价和投放。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAI建议现在就开始过渡，确认Pixel或Conversions API正在发送所选事件，并参考近期实际的CPA或CPC来设定切实可行的目标。目标过严或转化信号偏弱，可能导致广告投放减少、预算花不出去。"
+                "x": "“我们为AI时代从零打造了JETads,”Chief Growth Officer David Vismans表示。JETads采用JET母公司Prosus开发的商业AI——Prosus Large Commerce Model(LCM),它从真实顾客行为中学习,在顾客可能想要某样东西的时刻呈现其可能想要的内容,例如周五晚上和周二午餐时段推荐的餐厅各不相同。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT Ads cambia sus opciones\nde puja el 9 de noviembre",
-          "body": "OpenAI informó a los anunciantes de que la puja de ChatGPT Ads cambia el 9 de noviembre y afecta a Max Bid y Max CPC.",
-          "mini_headline": "Cambia la puja en ChatGPT Ads",
+          "headline": "Just Eat Takeaway lanza\nJETads, plataforma AI-first",
+          "body": "JETads arranca en 14 mercados y combina los modelos de personalización de JET con medición publicitaria closed-loop.",
+          "mini_headline": "JET lanza JETads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Just Eat Takeaway.com (JET) anunció el lanzamiento de JETads, una nueva plataforma publicitaria para anunciantes europeos, con alcance a 59 millones de consumidores activos, 592 millones de pedidos al año y más de 342,000 socios en 14 mercados. Está activa en todos ellos desde hoy."
+              },
+              {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg"
+                "src": "https://d21buns5ku92am.cloudfront.net/69466/images/714382-image_20261104135837_alq-494b13-original-1793801006.png"
               },
               {
                 "t": "p",
-                "x": "OpenAI acaba de enviar un correo a los anunciantes de ChatGPT Ads sobre los cambios en las opciones de puja que llegan el lunes 9 de noviembre. Esto afecta a los anunciantes que usan las opciones de puja Max Bid o Max CPC. \"A partir del lunes 9 de noviembre, podrá elegir de forma opcional un objetivo de costo en Ads Manager al crear una campaña o actualizar una existente\", escribió OpenAI."
+                "x": "JETads se basa en la tecnología de personalización de JET, que analiza miles de millones de interacciones entre consumidores y socios. Atiende a tres grupos de anunciantes: los restaurantes y socios de alimentación obtienen visibilidad premium en búsqueda y navegación; las marcas FMCG llegan a los compradores mientras llenan su cesta, con informes closed-loop que vinculan el gasto con los productos añadidos a la cesta y los pedidos completados; y las marcas non-endemic llegan a los clientes en la ventana posterior al pago, mientras siguen sus pedidos durante hasta 30 minutos."
               },
               {
                 "t": "p",
-                "x": "El costo por acción objetivo (Target CPA) llega a las campañas de conversión y sustituirá a Max Bid en las nuevas campañas de conversión de Ads Manager. El costo por clic objetivo (Target CPC) llega a las campañas de clics y sustituirá a Max CPC en las nuevas campañas de clics; mientras que Max CPC limita cada puja individual, Target CPC permite al sistema pujar por encima o por debajo de su objetivo en cada subasta."
-              },
-              {
-                "t": "p",
-                "x": "Max Bid y Max CPC se retirarán el 1 de enero de 2027. Maximize results (autobid), ahora llamada puja inteligente (intelligent bidding), seguirá ajustando automáticamente las pujas y la entrega."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI recomienda empezar la transición ahora, confirmar que Pixel o Conversions API envía el evento seleccionado y usar el CPA o CPC real reciente para fijar objetivos realistas. Los objetivos restrictivos o las señales de conversión débiles pueden reducir la entrega de anuncios y dejar presupuesto sin gastar."
+                "x": "\"Creamos JETads desde cero, para la era de la AI\", dijo David Vismans, Chief Growth Officer. JETads utiliza el Prosus Large Commerce Model (LCM), una AI de comercio desarrollada por Prosus, grupo matriz de JET, que aprende del comportamiento real de los clientes para mostrar lo que probablemente quieran en el momento en que probablemente lo quieran, como restaurantes distintos un viernes por la noche que un martes al mediodía."
               }
             ]
           }
@@ -627,431 +597,351 @@
       }
     },
     {
-      "id": "google-ads-ai-disclosure-regions",
-      "source_lang": "en",
+      "id": "kakao-ai-crew-ad-agent",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Google Ads\nAI 표시 세 지역 추가",
-      "body": "Google Ads가 EU에 이어 캘리포니아·한국·베트남에도 AI 표시를 요구한다.",
-      "mini_headline": "Google AI 광고 표시 확대",
+      "headline": "카카오 광고 AI 에이전트\n'AI 크루' 12월 베타",
+      "body": "카카오는 목표만 넣으면 광고 집행·분석을 돕는 AI 에이전트를 12월 베타로 연다.",
+      "mini_headline": "카카오 'AI 크루' 베타",
       "tool": "Marketing",
-      "source": "Search Engine Roundtable",
-      "url": "https://www.seroundtable.com/google-ads-expands-ai-content-label-disclosure-42461.html",
-      "accent": "#7928ca",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611057601i",
+      "accent": "#f5a623",
       "motif": "frame",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.seroundtable.com/google-label-glow-55CezYGY.jpg"
+            "src": "https://img.hankyung.com/photo/202611/ZK.46317333.1.jpg"
           },
           {
             "t": "p",
-            "x": "Google Ads가 광고의 AI 사용 여부를 밝혀야 하는 지역을 늘렸다. 유럽연합, 인도, 뉴욕이 있던 목록에 캘리포니아, 한국, 베트남이 더해졌다."
+            "x": "카카오가 다음 달 광고주의 광고 집행과 운영을 지원하는 인공지능(AI) 에이전트 ‘AI 크루’의 비공개 베타 테스트를 시작한다. AI 광고 수익화 방안을 본격 추진한다는 설명이다."
           },
           {
             "t": "p",
-            "x": "Google은 이 내용을 반영해 이미 문서 몇 개를 고쳤다. Google Ads 도움말 'Use AI content label settings and disclosures'와 Google Merchant Center 도움말 'Product data specification'이 대표적이다."
+            "x": "정신아 카카오 대표는 5일 3분기 실적발표 콘퍼런스콜에서 “다음달에는 광고주의 광고 집행과 운영을 지원하는 AI 에이전트인 AI 크루의 비공개 베타 테스트를 시작할 예정”이라고 말했다."
           },
           {
             "t": "p",
-            "x": "지역 항목 아래에는 이제 이렇게 적혀 있다. \"일부 지역에서는 광고 자체에도 AI 라벨이 표시된다. 다음 지역을 타기팅하는 캠페인의 경우, AI로 생성 또는 편집되었다고 지정한 애셋이 포함된 광고에는 눈에 보이는 오버레이도 함께 표시된다:\" 유럽연합, 인도, 뉴욕, 캘리포니아, 한국, 베트남."
+            "x": "AI 크루는 광고주가 대화형 인터페이스에 사업 목표를 입력하면 AI가 적합한 광고 상품과 운영 전략을 제안하는 서비스다. 광고 상품 추천부터 설정, 성과 분석까지 AI가 지원하는 서비스를 통해 더 많은 광고주를 확보한다는 구상이다. 카카오는 AI 광고 서비스가 자리 잡으면 매출 확대에 도움이 될 것으로 보고 있다."
           },
           {
             "t": "p",
-            "x": "아래는 해당 페이지의 스크린샷이다. 새로 추가된 부분은 빨간색으로 표시했다:"
-          },
-          {
-            "t": "img",
-            "src": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png"
+            "x": "정 대표는 “광고 운영에 익숙하지 않은 중소형 광고주들도 보다 쉽고 효율적으로 광고를 집행할 수 있도록 할 것”이라며 “기존 광고주의 운영 효율도 높여 신규 광고주 유입과 광고 집행 확대를 이끌어 내려고 한다”고 설명했다."
           },
           {
             "t": "p",
-            "x": "Merchant Center 문서에서 Google은 이렇게 설명한다. 유럽연합, 인도, 뉴욕, 캘리포니아, 한국, 베트남의 AI 규정에 따라 AI-generated 또는 편집된 특정 애셋이 들어간 광고에는 AI로 만든 광고임을 소비자에게 알리는 고지 및/또는 라벨을 넣어야 한다."
-          },
-          {
-            "t": "p",
-            "x": "목록은 앞으로도 더 늘어날 듯하다..."
+            "x": "AI를 활용한 광고 추천 기술도 고도화한다. 이용자의 행동과 선호, 경험을 AI가 이해하고 활용할 수 있는 공통 메모리 인프라를 내년 1분기까지 구축할 계획이다. 기존 머신러닝 기반 추천·타기팅 기술도 개선한다. 정 대표는 “내년부터는 AI를 통한 광고 효율 개선과 새로운 수익화 기회가 실질적인 매출 성장으로 이어지는 모습을 보여 드리겠다”고 말했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Google Ads widens AI label\nrule to three new regions",
-          "body": "Google Ads now requires AI disclosure in California, South Korea and Vietnam, on top of the EU, India and New York.",
-          "mini_headline": "Google AI ad labels expand",
+        "ko": {
+          "headline": "카카오 광고 AI 에이전트\n'AI 크루' 12월 베타",
+          "body": "카카오는 목표만 넣으면 광고 집행·분석을 돕는 AI 에이전트를 12월 베타로 연다.",
+          "mini_headline": "카카오 'AI 크루' 베타",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-label-glow-55CezYGY.jpg"
+                "src": "https://img.hankyung.com/photo/202611/ZK.46317333.1.jpg"
               },
               {
                 "t": "p",
-                "x": "Google Ads has expanded the regions where you must disclose whether AI was used in your ads. Google added California, South Korea, and Vietnam to the list, which already included the European Union, India, and New York."
+                "x": "카카오가 다음 달 광고주의 광고 집행과 운영을 지원하는 인공지능(AI) 에이전트 ‘AI 크루’의 비공개 베타 테스트를 시작한다. AI 광고 수익화 방안을 본격 추진한다는 설명이다."
               },
               {
                 "t": "p",
-                "x": "Google updated a few documents already with this information including Use AI content label settings and disclosures Google Ads help document and Product data specification Google Merchant Center help document."
+                "x": "정신아 카카오 대표는 5일 3분기 실적발표 콘퍼런스콜에서 “다음달에는 광고주의 광고 집행과 운영을 지원하는 AI 에이전트인 AI 크루의 비공개 베타 테스트를 시작할 예정”이라고 말했다."
               },
               {
                 "t": "p",
-                "x": "Under the regions, it now says, \"In some geographies, AI labels will also show on the ad itself. For campaigns that target the following locations, ads with assets that you designate as AI created or edited will also include visible overlays on the ads:\" European Union, India, New York, California, South Korea, Vietnam."
+                "x": "AI 크루는 광고주가 대화형 인터페이스에 사업 목표를 입력하면 AI가 적합한 광고 상품과 운영 전략을 제안하는 서비스다. 광고 상품 추천부터 설정, 성과 분석까지 AI가 지원하는 서비스를 통해 더 많은 광고주를 확보한다는 구상이다. 카카오는 AI 광고 서비스가 자리 잡으면 매출 확대에 도움이 될 것으로 보고 있다."
               },
               {
                 "t": "p",
-                "x": "Here is a screenshot of this page and I highlighted in red what was added:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png"
+                "x": "정 대표는 “광고 운영에 익숙하지 않은 중소형 광고주들도 보다 쉽고 효율적으로 광고를 집행할 수 있도록 할 것”이라며 “기존 광고주의 운영 효율도 높여 신규 광고주 유입과 광고 집행 확대를 이끌어 내려고 한다”고 설명했다."
               },
               {
                 "t": "p",
-                "x": "In the Merchant Center document, Google wrote: AI regulations in the European Union, India, New York, California, South Korea, and Vietnam require that ads with certain AI-generated or edited assets include disclosures and/or labels that inform consumers that the ads were made with AI."
-              },
-              {
-                "t": "p",
-                "x": "I suspect this list will continue to expand over time..."
+                "x": "AI를 활용한 광고 추천 기술도 고도화한다. 이용자의 행동과 선호, 경험을 AI가 이해하고 활용할 수 있는 공통 메모리 인프라를 내년 1분기까지 구축할 계획이다. 기존 머신러닝 기반 추천·타기팅 기술도 개선한다. 정 대표는 “내년부터는 AI를 통한 광고 효율 개선과 새로운 수익화 기회가 실질적인 매출 성장으로 이어지는 모습을 보여 드리겠다”고 말했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Google Ads\nAI 표시 세 지역 추가",
-          "body": "Google Ads가 EU에 이어 캘리포니아·한국·베트남에도 AI 표시를 요구한다.",
-          "mini_headline": "Google AI 광고 표시 확대",
+        "en": {
+          "headline": "Kakao AI ad agent 'AI Crew'\nopens beta in December",
+          "body": "Kakao will open a December beta of an AI agent that helps run and analyze ads once advertisers enter their goals.",
+          "mini_headline": "Kakao 'AI Crew' beta",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-label-glow-55CezYGY.jpg"
+                "src": "https://img.hankyung.com/photo/202611/ZK.46317333.1.jpg"
               },
               {
                 "t": "p",
-                "x": "Google Ads가 광고의 AI 사용 여부를 밝혀야 하는 지역을 늘렸다. 유럽연합, 인도, 뉴욕이 있던 목록에 캘리포니아, 한국, 베트남이 더해졌다."
+                "x": "Kakao will begin a closed beta test next month of 'AI Crew,' an artificial intelligence (AI) agent that supports advertisers in running and managing their ads. The company said it is pushing ahead in earnest with plans to monetize AI advertising."
               },
               {
                 "t": "p",
-                "x": "Google은 이 내용을 반영해 이미 문서 몇 개를 고쳤다. Google Ads 도움말 'Use AI content label settings and disclosures'와 Google Merchant Center 도움말 'Product data specification'이 대표적이다."
+                "x": "Kakao CEO Shina Chung said on the Q3 earnings conference call on the 5th, \"Next month, we plan to begin a closed beta test of AI Crew, an AI agent that supports advertisers in running and managing their ads.\""
               },
               {
                 "t": "p",
-                "x": "지역 항목 아래에는 이제 이렇게 적혀 있다. \"일부 지역에서는 광고 자체에도 AI 라벨이 표시된다. 다음 지역을 타기팅하는 캠페인의 경우, AI로 생성 또는 편집되었다고 지정한 애셋이 포함된 광고에는 눈에 보이는 오버레이도 함께 표시된다:\" 유럽연합, 인도, 뉴욕, 캘리포니아, 한국, 베트남."
+                "x": "AI Crew is a service in which advertisers enter their business goals into a conversational interface and AI proposes suitable ad products and operating strategies. The plan is to win more advertisers through a service in which AI supports everything from ad product recommendations to setup and performance analysis. Kakao expects that once its AI ad services take hold, they will help expand revenue."
               },
               {
                 "t": "p",
-                "x": "아래는 해당 페이지의 스크린샷이다. 새로 추가된 부분은 빨간색으로 표시했다:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png"
+                "x": "\"We will make it easier and more efficient for small and mid-sized advertisers who are unfamiliar with running ads to place them,\" Chung explained, adding, \"We also aim to raise operating efficiency for existing advertisers, driving the inflow of new advertisers and expanded ad spending.\""
               },
               {
                 "t": "p",
-                "x": "Merchant Center 문서에서 Google은 이렇게 설명한다. 유럽연합, 인도, 뉴욕, 캘리포니아, 한국, 베트남의 AI 규정에 따라 AI-generated 또는 편집된 특정 애셋이 들어간 광고에는 AI로 만든 광고임을 소비자에게 알리는 고지 및/또는 라벨을 넣어야 한다."
-              },
-              {
-                "t": "p",
-                "x": "목록은 앞으로도 더 늘어날 듯하다..."
+                "x": "Kakao will also upgrade its AI ad recommendation technology. It plans to build, by Q1 next year, a shared memory infrastructure that lets AI understand and use users' behavior, preferences and experiences. It will also improve its existing machine learning-based recommendation and targeting technology. \"From next year, we will show how AI-driven gains in ad efficiency and new monetization opportunities translate into real revenue growth,\" Chung said."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google Adsが\nAI表示義務を三地域に拡大",
-          "body": "Google AdsはEUなどに加え、カリフォルニア、韓国、ベトナムでもAI開示を求める。",
-          "mini_headline": "GoogleのAI広告表示が拡大",
+          "headline": "カカオの広告AIエージェント\n「AIクルー」12月ベータ",
+          "body": "カカオは目標を入れるだけで広告運用・分析を助けるAIエージェントを12月にベータ公開する。",
+          "mini_headline": "カカオ「AIクルー」ベータ",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-label-glow-55CezYGY.jpg"
+                "src": "https://img.hankyung.com/photo/202611/ZK.46317333.1.jpg"
               },
               {
                 "t": "p",
-                "x": "Google Adsは、広告にAIを使用したかどうかを開示しなければならない地域を拡大した。Googleは、すでに欧州連合、インド、ニューヨークを含んでいたリストに、カリフォルニア、韓国、ベトナムを追加した。"
+                "x": "カカオは来月、広告主の広告出稿と運用を支援する人工知能(AI)エージェント「AIクルー」の非公開ベータテストを始める。AI広告の収益化策を本格的に進めるという。"
               },
               {
                 "t": "p",
-                "x": "Googleはこの情報を反映して、すでにいくつかのドキュメントを更新している。Google Adsのヘルプドキュメント「Use AI content label settings and disclosures」や、Google Merchant Centerのヘルプドキュメント「Product data specification」などだ。"
+                "x": "カカオの鄭信娥(チョン・シナ)代表は5日の第3四半期決算発表カンファレンスコールで「来月には、広告主の広告出稿と運用を支援するAIエージェントであるAIクルーの非公開ベータテストを始める予定だ」と述べた。"
               },
               {
                 "t": "p",
-                "x": "地域の項目の下には現在、次のように書かれている。「一部の地域では、AIラベルが広告自体にも表示される。以下の地域をターゲットとするキャンペーンでは、AIで作成または編集されたと指定したアセットを含む広告に、目に見えるオーバーレイも表示される:」欧州連合、インド、ニューヨーク、カリフォルニア、韓国、ベトナム。"
+                "x": "AIクルーは、広告主が対話型インターフェースに事業目標を入力すると、AIが適した広告商品と運用戦略を提案するサービスだ。広告商品の推薦から設定、成果分析までAIが支援するサービスを通じて、より多くの広告主を確保する構想だ。カカオは、AI広告サービスが定着すれば売上拡大につながるとみている。"
               },
               {
                 "t": "p",
-                "x": "以下はこのページのスクリーンショットで、追加された部分を赤で強調した:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png"
+                "x": "鄭代表は「広告運用に慣れていない中小規模の広告主も、より簡単かつ効率的に広告を出稿できるようにする」とし、「既存広告主の運用効率も高め、新規広告主の流入と広告出稿の拡大を引き出したい」と説明した。"
               },
               {
                 "t": "p",
-                "x": "Merchant Centerのドキュメントで、Googleは次のように記している。欧州連合、インド、ニューヨーク、カリフォルニア、韓国、ベトナムのAI規制では、特定のAI-generatedまたは編集済みのアセットを含む広告に対し、その広告がAIで作られたことを消費者に知らせる開示および/またはラベルを含めることが求められている。"
-              },
-              {
-                "t": "p",
-                "x": "このリストは今後も広がり続けるのではないかと思う..."
+                "x": "AIを活用した広告推薦技術も高度化する。利用者の行動や好み、経験をAIが理解し活用できる共通メモリー基盤を来年第1四半期までに構築する計画だ。既存の機械学習ベースの推薦・ターゲティング技術も改善する。鄭代表は「来年からは、AIによる広告効率の改善と新たな収益化の機会が実質的な売上成長につながる姿をお見せする」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Ads\nAI标注要求再扩三地",
-          "body": "Google Ads继EU、印度和纽约之后，要求加州、韩国和越南的广告披露AI使用。",
-          "mini_headline": "Google AI广告标注扩围",
+          "headline": "Kakao广告AI智能体\nAI Crew 12月内测",
+          "body": "Kakao将于12月内测AI智能体,广告主只需输入目标即可获得投放与分析协助。",
+          "mini_headline": "Kakao“AI Crew”内测",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-label-glow-55CezYGY.jpg"
+                "src": "https://img.hankyung.com/photo/202611/ZK.46317333.1.jpg"
               },
               {
                 "t": "p",
-                "x": "Google Ads扩大了必须披露广告中是否使用AI的地区范围。Google在原有的欧盟、印度和纽约之外，新增了加利福尼亚、韩国和越南。"
+                "x": "Kakao将于下个月启动人工智能(AI)智能体“AI Crew”的封闭测试,该智能体帮助广告主投放和运营广告。公司表示,将全面推进AI广告变现。"
               },
               {
                 "t": "p",
-                "x": "Google已据此更新了几份文档，包括Google Ads帮助文档“Use AI content label settings and disclosures”以及Google Merchant Center帮助文档“Product data specification”。"
+                "x": "Kakao首席执行官郑信娥5日在第3季度财报电话会议上表示:“下个月我们将启动AI Crew的封闭测试,这是一款帮助广告主投放和运营广告的AI智能体。”"
               },
               {
                 "t": "p",
-                "x": "在地区部分下，现在写道：“在部分地区，AI标签也会显示在广告本身上。对于定位以下地区的广告系列，含有你标记为AI创建或编辑的素材的广告，还将在广告上显示可见的叠加标识：”欧盟、印度、纽约、加利福尼亚、韩国、越南。"
+                "x": "AI Crew是这样一项服务:广告主在对话式界面中输入业务目标后,AI会推荐合适的广告产品和运营策略。Kakao计划通过从广告产品推荐到设置、效果分析全程由AI支持的服务,吸引更多广告主。Kakao认为,AI广告服务一旦站稳脚跟,将有助于扩大营收。"
               },
               {
                 "t": "p",
-                "x": "以下是该页面的截图，我用红色标出了新增内容："
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png"
+                "x": "郑信娥解释说:“我们将让不熟悉广告运营的中小广告主也能更轻松、高效地投放广告。”并表示:“我们也将提升现有广告主的运营效率,以带动新广告主流入和广告投放扩大。”"
               },
               {
                 "t": "p",
-                "x": "Google在Merchant Center文档中写道：欧盟、印度、纽约、加利福尼亚、韩国和越南的AI法规要求，含有特定AI-generated或经编辑素材的广告必须加入披露和/或标签，告知消费者该广告是用AI制作的。"
-              },
-              {
-                "t": "p",
-                "x": "我猜这份名单还会随着时间继续扩大……"
+                "x": "Kakao还将升级基于AI的广告推荐技术,计划在明年第1季度前建成让AI能够理解和利用用户行为、偏好与体验的共享记忆基础设施,并改进现有基于机器学习的推荐与定向技术。郑信娥表示:“从明年起,我们将展示AI带来的广告效率提升和新的变现机会如何转化为实际的营收增长。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Ads amplía su norma de\netiquetado de AI a tres regiones",
-          "body": "Google Ads exige divulgar el uso de AI en California, Corea del Sur y Vietnam, además de la EU, India y Nueva York.",
-          "mini_headline": "Se amplían las etiquetas AI de Google",
+          "headline": "Kakao abre en diciembre la beta\nde su agente de AI 'AI Crew'",
+          "body": "Kakao abrirá en diciembre una beta de un agente de AI que ayuda a gestionar y analizar anuncios a partir de objetivos.",
+          "mini_headline": "Beta de 'AI Crew' de Kakao",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-label-glow-55CezYGY.jpg"
+                "src": "https://img.hankyung.com/photo/202611/ZK.46317333.1.jpg"
               },
               {
                 "t": "p",
-                "x": "Google Ads ha ampliado las regiones en las que se debe declarar si se usó AI en los anuncios. Google añadió California, Corea del Sur y Vietnam a la lista, que ya incluía la Unión Europea, India y Nueva York."
+                "x": "Kakao iniciará el próximo mes una prueba beta cerrada de 'AI Crew', un agente de inteligencia artificial (AI) que ayuda a los anunciantes a ejecutar y gestionar sus anuncios. Según la empresa, impulsará de lleno sus planes para monetizar la publicidad con AI."
               },
               {
                 "t": "p",
-                "x": "Google ya actualizó algunos documentos con esta información, entre ellos el documento de ayuda de Google Ads Use AI content label settings and disclosures y el documento de ayuda de Google Merchant Center Product data specification."
+                "x": "Shina Chung, directora ejecutiva de Kakao, dijo el día 5 en la conferencia telefónica de resultados del 3.er trimestre: \"El próximo mes prevemos iniciar una prueba beta cerrada de AI Crew, un agente de AI que ayuda a los anunciantes a ejecutar y gestionar sus anuncios\"."
               },
               {
                 "t": "p",
-                "x": "En el apartado de regiones ahora dice: \"En algunas zonas geográficas, las etiquetas de AI también se mostrarán en el propio anuncio. En las campañas dirigidas a las siguientes ubicaciones, los anuncios con recursos que usted designe como creados o editados con AI también incluirán superposiciones visibles:\" Unión Europea, India, Nueva York, California, Corea del Sur, Vietnam."
+                "x": "AI Crew es un servicio en el que los anunciantes introducen sus objetivos de negocio en una interfaz conversacional y la AI les propone productos publicitarios y estrategias de operación adecuados. La idea es atraer a más anunciantes con un servicio en el que la AI apoya desde la recomendación de productos publicitarios hasta la configuración y el análisis de resultados. Kakao considera que, si sus servicios publicitarios con AI se consolidan, contribuirán a aumentar sus ingresos."
               },
               {
                 "t": "p",
-                "x": "Aquí hay una captura de pantalla de esta página, con lo añadido resaltado en rojo:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png"
+                "x": "\"Haremos que incluso los anunciantes pequeños y medianos que no están familiarizados con la gestión de anuncios puedan invertir en publicidad de forma más sencilla y eficiente\", explicó Chung. \"También queremos mejorar la eficiencia operativa de los anunciantes actuales para atraer a nuevos anunciantes y ampliar la inversión publicitaria\", añadió."
               },
               {
                 "t": "p",
-                "x": "En el documento de Merchant Center, Google escribió: las regulaciones de AI en la Unión Europea, India, Nueva York, California, Corea del Sur y Vietnam exigen que los anuncios con ciertos recursos AI-generated o editados incluyan avisos y/o etiquetas que informen a los consumidores de que los anuncios se hicieron con AI."
-              },
-              {
-                "t": "p",
-                "x": "Sospecho que esta lista seguirá ampliándose con el tiempo..."
+                "x": "Kakao también perfeccionará su tecnología de recomendación de anuncios basada en AI. Planea construir antes del 1.er trimestre del próximo año una infraestructura de memoria común que permita a la AI comprender y aprovechar el comportamiento, las preferencias y las experiencias de los usuarios. También mejorará su actual tecnología de recomendación y segmentación basada en aprendizaje automático. \"A partir del próximo año mostraremos cómo la mejora de la eficiencia publicitaria gracias a la AI y las nuevas oportunidades de monetización se traducen en un crecimiento real de los ingresos\", dijo Chung."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Google Ads,\nAI 표시 세 지역 추가",
-          "body": "Google Ads가 EU에 이어 캘리포니아·한국·베트남에 AI 표시를 요구한다.",
-          "mini_headline": "Google AI 광고 표시 확대",
+        "en": {
+          "headline": "Kakao AI ad agent 'AI Crew'\nopens beta in December",
+          "body": "Kakao will open a December beta of an AI agent that helps run and analyze ads once advertisers enter their goals.",
+          "mini_headline": "Kakao 'AI Crew' beta",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-label-glow-55CezYGY.jpg"
+                "src": "https://img.hankyung.com/photo/202611/ZK.46317333.1.jpg"
               },
               {
                 "t": "p",
-                "x": "Google Ads가 광고에 AI를 사용했는지 공개해야 하는 지역을 확대했다. Google은 이미 유럽연합, 인도, 뉴욕이 포함된 목록에 캘리포니아, 한국, 베트남을 추가했다."
+                "x": "Kakao will begin a closed beta test next month of 'AI Crew,' an artificial intelligence (AI) agent that supports advertisers in running and managing their ads. The company said it is pushing ahead in earnest with plans to monetize AI advertising."
               },
               {
                 "t": "p",
-                "x": "Google은 이 내용을 담아 이미 몇몇 문서를 업데이트했다. Google Ads 도움말 문서 'Use AI content label settings and disclosures'와 Google Merchant Center 도움말 문서 'Product data specification'이 대표적이다."
+                "x": "Kakao CEO Shina Chung said on the Q3 earnings conference call on the 5th, \"Next month, we plan to begin a closed beta test of AI Crew, an AI agent that supports advertisers in running and managing their ads.\""
               },
               {
                 "t": "p",
-                "x": "지역 항목 아래에는 이제 이렇게 적혀 있다. \"일부 지역에서는 광고 자체에도 AI 라벨이 표시된다. 다음 지역을 타기팅하는 캠페인의 경우, AI로 생성 또는 편집되었다고 지정한 애셋이 포함된 광고에는 눈에 보이는 오버레이도 함께 표시된다:\" 유럽연합, 인도, 뉴욕, 캘리포니아, 한국, 베트남."
+                "x": "AI Crew is a service in which advertisers enter their business goals into a conversational interface and AI proposes suitable ad products and operating strategies. The plan is to win more advertisers through a service in which AI supports everything from ad product recommendations to setup and performance analysis. Kakao expects that once its AI ad services take hold, they will help expand revenue."
               },
               {
                 "t": "p",
-                "x": "다음은 해당 페이지의 스크린샷으로, 새로 추가된 부분을 빨간색으로 표시했다:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png"
+                "x": "\"We will make it easier and more efficient for small and mid-sized advertisers who are unfamiliar with running ads to place them,\" Chung explained, adding, \"We also aim to raise operating efficiency for existing advertisers, driving the inflow of new advertisers and expanded ad spending.\""
               },
               {
                 "t": "p",
-                "x": "Merchant Center 문서에서 Google은 이렇게 썼다. 유럽연합, 인도, 뉴욕, 캘리포니아, 한국, 베트남의 AI 규정은 특정 AI-generated 또는 편집된 애셋이 포함된 광고에 해당 광고가 AI로 만들어졌음을 소비자에게 알리는 고지 및/또는 라벨을 넣도록 요구한다."
-              },
-              {
-                "t": "p",
-                "x": "이 목록은 앞으로도 계속 늘어날 것으로 보인다..."
+                "x": "Kakao will also upgrade its AI ad recommendation technology. It plans to build, by Q1 next year, a shared memory infrastructure that lets AI understand and use users' behavior, preferences and experiences. It will also improve its existing machine learning-based recommendation and targeting technology. \"From next year, we will show how AI-driven gains in ad efficiency and new monetization opportunities translate into real revenue growth,\" Chung said."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google Adsが\nAI表示義務を三地域に拡大",
-          "body": "Google AdsはEUなどに加え、カリフォルニア、韓国、ベトナムでもAI開示を求める。",
-          "mini_headline": "GoogleのAI広告表示が拡大",
+          "headline": "カカオの広告AIエージェント\n「AIクルー」12月ベータ",
+          "body": "カカオは目標を入れるだけで広告運用・分析を助けるAIエージェントを12月にベータ公開する。",
+          "mini_headline": "カカオ「AIクルー」ベータ",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-label-glow-55CezYGY.jpg"
+                "src": "https://img.hankyung.com/photo/202611/ZK.46317333.1.jpg"
               },
               {
                 "t": "p",
-                "x": "Google Adsは、広告にAIを使用したかどうかを開示しなければならない地域を拡大した。Googleは、すでに欧州連合、インド、ニューヨークを含んでいたリストに、カリフォルニア、韓国、ベトナムを追加した。"
+                "x": "カカオは来月、広告主の広告出稿と運用を支援する人工知能(AI)エージェント「AIクルー」の非公開ベータテストを始める。AI広告の収益化策を本格的に進めるという。"
               },
               {
                 "t": "p",
-                "x": "Googleはこの情報を反映して、すでにいくつかのドキュメントを更新している。Google Adsのヘルプドキュメント「Use AI content label settings and disclosures」や、Google Merchant Centerのヘルプドキュメント「Product data specification」などだ。"
+                "x": "カカオの鄭信娥(チョン・シナ)代表は5日の第3四半期決算発表カンファレンスコールで「来月には、広告主の広告出稿と運用を支援するAIエージェントであるAIクルーの非公開ベータテストを始める予定だ」と述べた。"
               },
               {
                 "t": "p",
-                "x": "地域の項目の下には現在、次のように書かれている。「一部の地域では、AIラベルが広告自体にも表示される。以下の地域をターゲットとするキャンペーンでは、AIで作成または編集されたと指定したアセットを含む広告に、目に見えるオーバーレイも表示される:」欧州連合、インド、ニューヨーク、カリフォルニア、韓国、ベトナム。"
+                "x": "AIクルーは、広告主が対話型インターフェースに事業目標を入力すると、AIが適した広告商品と運用戦略を提案するサービスだ。広告商品の推薦から設定、成果分析までAIが支援するサービスを通じて、より多くの広告主を確保する構想だ。カカオは、AI広告サービスが定着すれば売上拡大につながるとみている。"
               },
               {
                 "t": "p",
-                "x": "以下はこのページのスクリーンショットで、追加された部分を赤で強調した:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png"
+                "x": "鄭代表は「広告運用に慣れていない中小規模の広告主も、より簡単かつ効率的に広告を出稿できるようにする」とし、「既存広告主の運用効率も高め、新規広告主の流入と広告出稿の拡大を引き出したい」と説明した。"
               },
               {
                 "t": "p",
-                "x": "Merchant Centerのドキュメントで、Googleは次のように記している。欧州連合、インド、ニューヨーク、カリフォルニア、韓国、ベトナムのAI規制では、特定のAI-generatedまたは編集済みのアセットを含む広告に対し、その広告がAIで作られたことを消費者に知らせる開示および/またはラベルを含めることが求められている。"
-              },
-              {
-                "t": "p",
-                "x": "このリストは今後も広がり続けるのではないかと思う..."
+                "x": "AIを活用した広告推薦技術も高度化する。利用者の行動や好み、経験をAIが理解し活用できる共通メモリー基盤を来年第1四半期までに構築する計画だ。既存の機械学習ベースの推薦・ターゲティング技術も改善する。鄭代表は「来年からは、AIによる広告効率の改善と新たな収益化の機会が実質的な売上成長につながる姿をお見せする」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Ads\nAI标注要求再扩三地",
-          "body": "Google Ads继EU、印度和纽约之后，要求加州、韩国和越南的广告披露AI使用。",
-          "mini_headline": "Google AI广告标注扩围",
+          "headline": "Kakao广告AI智能体\nAI Crew 12月内测",
+          "body": "Kakao将于12月内测AI智能体,广告主只需输入目标即可获得投放与分析协助。",
+          "mini_headline": "Kakao“AI Crew”内测",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-label-glow-55CezYGY.jpg"
+                "src": "https://img.hankyung.com/photo/202611/ZK.46317333.1.jpg"
               },
               {
                 "t": "p",
-                "x": "Google Ads扩大了必须披露广告中是否使用AI的地区范围。Google在原有的欧盟、印度和纽约之外，新增了加利福尼亚、韩国和越南。"
+                "x": "Kakao将于下个月启动人工智能(AI)智能体“AI Crew”的封闭测试,该智能体帮助广告主投放和运营广告。公司表示,将全面推进AI广告变现。"
               },
               {
                 "t": "p",
-                "x": "Google已据此更新了几份文档，包括Google Ads帮助文档“Use AI content label settings and disclosures”以及Google Merchant Center帮助文档“Product data specification”。"
+                "x": "Kakao首席执行官郑信娥5日在第3季度财报电话会议上表示:“下个月我们将启动AI Crew的封闭测试,这是一款帮助广告主投放和运营广告的AI智能体。”"
               },
               {
                 "t": "p",
-                "x": "在地区部分下，现在写道：“在部分地区，AI标签也会显示在广告本身上。对于定位以下地区的广告系列，含有你标记为AI创建或编辑的素材的广告，还将在广告上显示可见的叠加标识：”欧盟、印度、纽约、加利福尼亚、韩国、越南。"
+                "x": "AI Crew是这样一项服务:广告主在对话式界面中输入业务目标后,AI会推荐合适的广告产品和运营策略。Kakao计划通过从广告产品推荐到设置、效果分析全程由AI支持的服务,吸引更多广告主。Kakao认为,AI广告服务一旦站稳脚跟,将有助于扩大营收。"
               },
               {
                 "t": "p",
-                "x": "以下是该页面的截图，我用红色标出了新增内容："
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png"
+                "x": "郑信娥解释说:“我们将让不熟悉广告运营的中小广告主也能更轻松、高效地投放广告。”并表示:“我们也将提升现有广告主的运营效率,以带动新广告主流入和广告投放扩大。”"
               },
               {
                 "t": "p",
-                "x": "Google在Merchant Center文档中写道：欧盟、印度、纽约、加利福尼亚、韩国和越南的AI法规要求，含有特定AI-generated或经编辑素材的广告必须加入披露和/或标签，告知消费者该广告是用AI制作的。"
-              },
-              {
-                "t": "p",
-                "x": "我猜这份名单还会随着时间继续扩大……"
+                "x": "Kakao还将升级基于AI的广告推荐技术,计划在明年第1季度前建成让AI能够理解和利用用户行为、偏好与体验的共享记忆基础设施,并改进现有基于机器学习的推荐与定向技术。郑信娥表示:“从明年起,我们将展示AI带来的广告效率提升和新的变现机会如何转化为实际的营收增长。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Ads amplía su norma de\netiquetado de AI a tres regiones",
-          "body": "Google Ads exige divulgar el uso de AI en California, Corea del Sur y Vietnam, además de la EU, India y Nueva York.",
-          "mini_headline": "Se amplían las etiquetas AI de Google",
+          "headline": "Kakao abre en diciembre la beta\nde su agente de AI 'AI Crew'",
+          "body": "Kakao abrirá en diciembre una beta de un agente de AI que ayuda a gestionar y analizar anuncios a partir de objetivos.",
+          "mini_headline": "Beta de 'AI Crew' de Kakao",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-label-glow-55CezYGY.jpg"
+                "src": "https://img.hankyung.com/photo/202611/ZK.46317333.1.jpg"
               },
               {
                 "t": "p",
-                "x": "Google Ads ha ampliado las regiones en las que se debe declarar si se usó AI en los anuncios. Google añadió California, Corea del Sur y Vietnam a la lista, que ya incluía la Unión Europea, India y Nueva York."
+                "x": "Kakao iniciará el próximo mes una prueba beta cerrada de 'AI Crew', un agente de inteligencia artificial (AI) que ayuda a los anunciantes a ejecutar y gestionar sus anuncios. Según la empresa, impulsará de lleno sus planes para monetizar la publicidad con AI."
               },
               {
                 "t": "p",
-                "x": "Google ya actualizó algunos documentos con esta información, entre ellos el documento de ayuda de Google Ads Use AI content label settings and disclosures y el documento de ayuda de Google Merchant Center Product data specification."
+                "x": "Shina Chung, directora ejecutiva de Kakao, dijo el día 5 en la conferencia telefónica de resultados del 3.er trimestre: \"El próximo mes prevemos iniciar una prueba beta cerrada de AI Crew, un agente de AI que ayuda a los anunciantes a ejecutar y gestionar sus anuncios\"."
               },
               {
                 "t": "p",
-                "x": "En el apartado de regiones ahora dice: \"En algunas zonas geográficas, las etiquetas de AI también se mostrarán en el propio anuncio. En las campañas dirigidas a las siguientes ubicaciones, los anuncios con recursos que usted designe como creados o editados con AI también incluirán superposiciones visibles:\" Unión Europea, India, Nueva York, California, Corea del Sur, Vietnam."
+                "x": "AI Crew es un servicio en el que los anunciantes introducen sus objetivos de negocio en una interfaz conversacional y la AI les propone productos publicitarios y estrategias de operación adecuados. La idea es atraer a más anunciantes con un servicio en el que la AI apoya desde la recomendación de productos publicitarios hasta la configuración y el análisis de resultados. Kakao considera que, si sus servicios publicitarios con AI se consolidan, contribuirán a aumentar sus ingresos."
               },
               {
                 "t": "p",
-                "x": "Aquí hay una captura de pantalla de esta página, con lo añadido resaltado en rojo:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png"
+                "x": "\"Haremos que incluso los anunciantes pequeños y medianos que no están familiarizados con la gestión de anuncios puedan invertir en publicidad de forma más sencilla y eficiente\", explicó Chung. \"También queremos mejorar la eficiencia operativa de los anunciantes actuales para atraer a nuevos anunciantes y ampliar la inversión publicitaria\", añadió."
               },
               {
                 "t": "p",
-                "x": "En el documento de Merchant Center, Google escribió: las regulaciones de AI en la Unión Europea, India, Nueva York, California, Corea del Sur y Vietnam exigen que los anuncios con ciertos recursos AI-generated o editados incluyan avisos y/o etiquetas que informen a los consumidores de que los anuncios se hicieron con AI."
-              },
-              {
-                "t": "p",
-                "x": "Sospecho que esta lista seguirá ampliándose con el tiempo..."
+                "x": "Kakao también perfeccionará su tecnología de recomendación de anuncios basada en AI. Planea construir antes del 1.er trimestre del próximo año una infraestructura de memoria común que permita a la AI comprender y aprovechar el comportamiento, las preferencias y las experiencias de los usuarios. También mejorará su actual tecnología de recomendación y segmentación basada en aprendizaje automático. \"A partir del próximo año mostraremos cómo la mejora de la eficiencia publicitaria gracias a la AI y las nuevas oportunidades de monetización se traducen en un crecimiento real de los ingresos\", dijo Chung."
               }
             ]
           }
@@ -1059,15 +949,287 @@
       }
     },
     {
-      "id": "google-ucp-checkout-canada",
+      "id": "swivel-ctv-agentic-infra",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google UCP 결제\n캐나다 AI Mode로",
-      "body": "Google이 AI Mode와 Gemini의 UCP 결제를 캐나다로 넓힌다.",
-      "mini_headline": "UCP 결제, 캐나다 상륙",
+      "headline": "Swivel, CTV 광고\nAI 에이전트 길 닦는다",
+      "body": "Swivel은 ex-FreeWheel·SpringServe 출신의 CTV AI다.",
+      "mini_headline": "Swivel의 CTV 에이전트 인프라",
       "tool": "Marketing",
-      "source": "Search Engine Journal",
-      "url": "https://www.searchenginejournal.com/google-brings-ucp-direct-checkout-to-ai-mode-in-canada/595882/",
+      "source": "AdExchanger",
+      "url": "https://www.adexchanger.com/ctv-roundup/swivel-wants-to-create-agentic-infrastructure-for-ctv/",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/tv-remote-stock-square-1-1024x1024.jpeg"
+          },
+          {
+            "t": "p",
+            "x": "Swivel은 전 FreeWheeler Frans Vermeulen과 SpringServe 공동창업자 Matt Dearborn, Rich Lin, Joseph Hirsch가 세운 퍼블리셔 기술 스타트업이다. 퍼블리셔 광고 운영에서 캠페인 최적화부터 가격 조정까지 손으로 하던 일을 자동화하려 한다. Hirsch는 이를 에이전트로 이뤄진 “엔드투엔드 시스템”이라 불렀다. 최종 목표는 CTV 광고 체인 전체를 아우르는 에이전트 인프라다."
+          },
+          {
+            "t": "p",
+            "x": "Swivel은 통합 제품 하나 대신 여러 에이전트를 둔다. 예산 편성, 입찰 트래피킹, 페이싱, 수익 관리, 캠페인 후 리포팅처럼 캠페인 구매를 부분별로 나눠 맡는 구조다. 퍼블리셔 상당수는 “광고 운영 워크플로 전체를 흔들지 않으려고” 에이전트를 한두 개만 쓴다."
+          },
+          {
+            "t": "p",
+            "x": "Hirsch는 파편화 문제의 해법으로 Ad Context Protocol(AdCP)을 꼽았다. 퍼블리셔는 AdCP의 adagents.json 사양으로 자사 인벤토리를 팔 권한이 어느 에이전트에 있는지 밝힐 수 있다. 에이전트가 구매를 맡으면 스폰서십, 홈 화면 광고, 일시정지 광고, 순차 미디어처럼 프로그래매틱으로 사기 어려운 형식도 자동으로 팔 수 있다. Swivel은 지금은 100% CTV에 집중하지만 리테일 미디어로도 넓힐 계획이다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Swivel builds rails for AI\nagents buying CTV ads",
+          "body": "Swivel, founded by ex-FreeWheel and SpringServe executives, builds AI agents to automate CTV publisher ad ops.",
+          "mini_headline": "Swivel's agentic CTV rails",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/tv-remote-stock-square-1-1024x1024.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Swivel is a publisher tech startup founded by the former FreeWheeler Frans Vermeulen and SpringServe co-founders Matt Dearborn, Rich Lin and Joseph Hirsch. It aims to automate the manual tasks in publisher ad operations, from campaign optimization to pricing adjustments — an “end-to-end system” of agents, Hirsch said, with the eventual goal of an agentic infrastructure that spans the CTV advertising chain."
+              },
+              {
+                "t": "p",
+                "x": "Rather than a single consolidated product, Swivel has multiple agents each responsible for parts of a campaign buy, such as budgeting, bid trafficking, pacing, yield management and post-campaign reporting. Many publishers use one or two agents “so as not to disrupt their entire ad ops workflow.”"
+              },
+              {
+                "t": "p",
+                "x": "To address fragmentation, Hirsch pointed to the Ad Context Protocol (AdCP), whose adagents.json specification lets publishers declare which agents are authorized to sell their inventory. Agentic buying can also automate sales of formats hard to buy programmatically, such as sponsorships, home screen ads, pause ads and sequential media. Swivel's focus is still 100% CTV, but it intends to expand into retail media."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Swivel, CTV 광고\nAI 에이전트 길 닦는다",
+          "body": "Swivel은 ex-FreeWheel·SpringServe 출신의 CTV AI다.",
+          "mini_headline": "Swivel의 CTV 에이전트 인프라",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/tv-remote-stock-square-1-1024x1024.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Swivel은 전 FreeWheeler Frans Vermeulen과 SpringServe 공동창업자 Matt Dearborn, Rich Lin, Joseph Hirsch가 세운 퍼블리셔 기술 스타트업이다. 퍼블리셔 광고 운영에서 캠페인 최적화부터 가격 조정까지 손으로 하던 일을 자동화하려 한다. Hirsch는 이를 에이전트로 이뤄진 “엔드투엔드 시스템”이라 불렀다. 최종 목표는 CTV 광고 체인 전체를 아우르는 에이전트 인프라다."
+              },
+              {
+                "t": "p",
+                "x": "Swivel은 통합 제품 하나 대신 여러 에이전트를 둔다. 예산 편성, 입찰 트래피킹, 페이싱, 수익 관리, 캠페인 후 리포팅처럼 캠페인 구매를 부분별로 나눠 맡는 구조다. 퍼블리셔 상당수는 “광고 운영 워크플로 전체를 흔들지 않으려고” 에이전트를 한두 개만 쓴다."
+              },
+              {
+                "t": "p",
+                "x": "Hirsch는 파편화 문제의 해법으로 Ad Context Protocol(AdCP)을 꼽았다. 퍼블리셔는 AdCP의 adagents.json 사양으로 자사 인벤토리를 팔 권한이 어느 에이전트에 있는지 밝힐 수 있다. 에이전트가 구매를 맡으면 스폰서십, 홈 화면 광고, 일시정지 광고, 순차 미디어처럼 프로그래매틱으로 사기 어려운 형식도 자동으로 팔 수 있다. Swivel은 지금은 100% CTV에 집중하지만 리테일 미디어로도 넓힐 계획이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Swivel、CTV広告を\n買うAIエージェント基盤",
+          "body": "ex-FreeWheel・SpringServe出身のSwivelがCTV運用をAI化する。",
+          "mini_headline": "SwivelのエージェントCTV基盤",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/tv-remote-stock-square-1-1024x1024.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Swivelは、元FreeWheelerのFrans Vermeulenと、SpringServe共同創業者のMatt Dearborn、Rich Lin、Joseph Hirschが立ち上げたパブリッシャー向けテック企業だ。キャンペーン最適化から価格調整まで、パブリッシャーの広告運用における手作業の自動化を目指す。Hirschはこれをエージェントによる「エンドツーエンドのシステム」と呼び、最終的にはCTV広告のチェーン全体にまたがるエージェント基盤を目指すという。"
+              },
+              {
+                "t": "p",
+                "x": "Swivelは単一の統合製品ではなく、予算配分、入札トラフィッキング、ペーシング、イールド管理、キャンペーン後のレポーティングなど、キャンペーン購入の各部分を担う複数のエージェントを持つ。多くのパブリッシャーは「広告運用のワークフロー全体を乱さないよう」一つか二つのエージェントを使っている。"
+              },
+              {
+                "t": "p",
+                "x": "断片化への対策として、HirschはAd Context Protocol(AdCP)を挙げた。そのadagents.json仕様により、パブリッシャーはどのエージェントに在庫の販売権限があるかを宣言できる。エージェントによる購入は、スポンサーシップ、ホーム画面広告、一時停止広告、シーケンシャルメディアなど、プログラマティックで買いにくいフォーマットの販売も自動化できる。Swivelの軸足は今も100% CTVだが、リテールメディアへの拡大を計画している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Swivel为AI代理\n搭建CTV广告购买通道",
+          "body": "Swivel由ex-FreeWheel和SpringServe高管创办,主攻CTV广告AI。",
+          "mini_headline": "Swivel的CTV代理基础设施",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/tv-remote-stock-square-1-1024x1024.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Swivel是一家出版商技术初创公司,由前FreeWheeler Frans Vermeulen以及SpringServe联合创始人Matt Dearborn、Rich Lin和Joseph Hirsch创立。公司旨在将出版商广告运营中的手动工作自动化,从广告活动优化到价格调整——Hirsch称之为由代理组成的“端到端系统”,最终目标是打造贯穿CTV广告链条的代理式基础设施。"
+              },
+              {
+                "t": "p",
+                "x": "Swivel并非提供单一的整合产品,而是拥有多个代理,各自负责广告活动购买的某一环节,如预算、出价投放、节奏控制、收益管理和活动后报告。许多出版商只使用一两个代理,“以免打乱整个广告运营工作流程”。"
+              },
+              {
+                "t": "p",
+                "x": "针对碎片化问题,Hirsch提到了Ad Context Protocol(AdCP),其adagents.json规范允许出版商声明哪些代理获授权销售其库存。代理式购买还能自动化那些难以通过程序化方式购买的形式的销售,例如赞助、主屏幕广告、暂停广告和序列媒体。Swivel目前仍100%专注于CTV,但计划拓展至零售媒体。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Swivel crea la base para que\nagentes AI compren anuncios CTV",
+          "body": "Swivel, creada por ejecutivos ex-FreeWheel y SpringServe, automatiza con agentes de AI la gestión de anuncios CTV.",
+          "mini_headline": "Rieles agénticos de Swivel para CTV",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/tv-remote-stock-square-1-1024x1024.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Swivel es una startup de tecnología para editores fundada por el antiguo FreeWheeler Frans Vermeulen y los cofundadores de SpringServe Matt Dearborn, Rich Lin y Joseph Hirsch. Su objetivo es automatizar las tareas manuales de las operaciones publicitarias de los editores, desde la optimización de campañas hasta los ajustes de precios —un “sistema de extremo a extremo” de agentes, según Hirsch—, con la meta final de una infraestructura agéntica que abarque toda la cadena publicitaria de CTV."
+              },
+              {
+                "t": "p",
+                "x": "En lugar de un único producto consolidado, Swivel tiene varios agentes, cada uno responsable de una parte de la compra de una campaña, como presupuestos, tráfico de pujas, ritmo de entrega, gestión del rendimiento e informes posteriores a la campaña. Muchos editores usan uno o dos agentes “para no alterar todo su flujo de trabajo de operaciones publicitarias”."
+              },
+              {
+                "t": "p",
+                "x": "Para abordar la fragmentación, Hirsch señaló el Ad Context Protocol (AdCP), cuya especificación adagents.json permite a los editores declarar qué agentes están autorizados para vender su inventario. La compra agéntica también puede automatizar la venta de formatos difíciles de comprar de forma programática, como patrocinios, anuncios en la pantalla de inicio, anuncios de pausa y medios secuenciales. Swivel sigue centrada al 100% en CTV, pero tiene previsto expandirse a retail media."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Swivel, CTV 광고\nAI 에이전트 길 닦는다",
+          "body": "Swivel은 ex-FreeWheel·SpringServe 출신의 CTV AI다.",
+          "mini_headline": "Swivel의 CTV 에이전트 인프라",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/tv-remote-stock-square-1-1024x1024.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Swivel은 전 FreeWheeler Frans Vermeulen과 SpringServe 공동창업자 Matt Dearborn, Rich Lin, Joseph Hirsch가 세운 퍼블리셔 기술 스타트업이다. 캠페인 최적화부터 가격 조정까지 퍼블리셔 광고 운영의 수작업을 자동화하는 것이 목표다. Hirsch는 이를 에이전트로 이뤄진 “엔드투엔드 시스템”이라 불렀고, 최종 목표는 CTV 광고 체인 전반을 아우르는 에이전트 인프라다."
+              },
+              {
+                "t": "p",
+                "x": "Swivel은 하나로 통합된 제품 대신 예산 편성, 입찰 트래피킹, 페이싱, 수익 관리, 캠페인 후 리포팅 등 캠페인 구매의 각 부분을 맡는 여러 에이전트를 둔다. 많은 퍼블리셔는 “광고 운영 워크플로 전체를 흔들지 않으려고” 에이전트를 한두 개만 쓴다."
+              },
+              {
+                "t": "p",
+                "x": "Hirsch는 파편화 문제의 해법으로 Ad Context Protocol(AdCP)을 꼽았다. AdCP의 adagents.json 사양을 쓰면 퍼블리셔는 어떤 에이전트가 자사 인벤토리를 판매할 권한이 있는지 밝힐 수 있다. 에이전트 기반 구매는 스폰서십, 홈 화면 광고, 일시정지 광고, 순차 미디어처럼 프로그래매틱으로 사기 어려운 형식의 판매도 자동화할 수 있다. Swivel은 여전히 100% CTV에 집중하지만 리테일 미디어로 확장할 계획이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Swivel、CTV広告を\n買うAIエージェント基盤",
+          "body": "ex-FreeWheel・SpringServe出身のSwivelがCTV運用をAI化する。",
+          "mini_headline": "SwivelのエージェントCTV基盤",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/tv-remote-stock-square-1-1024x1024.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Swivelは、元FreeWheelerのFrans Vermeulenと、SpringServe共同創業者のMatt Dearborn、Rich Lin、Joseph Hirschが立ち上げたパブリッシャー向けテック企業だ。キャンペーン最適化から価格調整まで、パブリッシャーの広告運用における手作業の自動化を目指す。Hirschはこれをエージェントによる「エンドツーエンドのシステム」と呼び、最終的にはCTV広告のチェーン全体にまたがるエージェント基盤を目指すという。"
+              },
+              {
+                "t": "p",
+                "x": "Swivelは単一の統合製品ではなく、予算配分、入札トラフィッキング、ペーシング、イールド管理、キャンペーン後のレポーティングなど、キャンペーン購入の各部分を担う複数のエージェントを持つ。多くのパブリッシャーは「広告運用のワークフロー全体を乱さないよう」一つか二つのエージェントを使っている。"
+              },
+              {
+                "t": "p",
+                "x": "断片化への対策として、HirschはAd Context Protocol(AdCP)を挙げた。そのadagents.json仕様により、パブリッシャーはどのエージェントに在庫の販売権限があるかを宣言できる。エージェントによる購入は、スポンサーシップ、ホーム画面広告、一時停止広告、シーケンシャルメディアなど、プログラマティックで買いにくいフォーマットの販売も自動化できる。Swivelの軸足は今も100% CTVだが、リテールメディアへの拡大を計画している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Swivel为AI代理\n搭建CTV广告购买通道",
+          "body": "Swivel由ex-FreeWheel和SpringServe高管创办,主攻CTV广告AI。",
+          "mini_headline": "Swivel的CTV代理基础设施",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/tv-remote-stock-square-1-1024x1024.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Swivel是一家出版商技术初创公司,由前FreeWheeler Frans Vermeulen以及SpringServe联合创始人Matt Dearborn、Rich Lin和Joseph Hirsch创立。公司旨在将出版商广告运营中的手动工作自动化,从广告活动优化到价格调整——Hirsch称之为由代理组成的“端到端系统”,最终目标是打造贯穿CTV广告链条的代理式基础设施。"
+              },
+              {
+                "t": "p",
+                "x": "Swivel并非提供单一的整合产品,而是拥有多个代理,各自负责广告活动购买的某一环节,如预算、出价投放、节奏控制、收益管理和活动后报告。许多出版商只使用一两个代理,“以免打乱整个广告运营工作流程”。"
+              },
+              {
+                "t": "p",
+                "x": "针对碎片化问题,Hirsch提到了Ad Context Protocol(AdCP),其adagents.json规范允许出版商声明哪些代理获授权销售其库存。代理式购买还能自动化那些难以通过程序化方式购买的形式的销售,例如赞助、主屏幕广告、暂停广告和序列媒体。Swivel目前仍100%专注于CTV,但计划拓展至零售媒体。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Swivel crea la base para que\nagentes AI compren anuncios CTV",
+          "body": "Swivel, creada por ejecutivos ex-FreeWheel y SpringServe, automatiza con agentes de AI la gestión de anuncios CTV.",
+          "mini_headline": "Rieles agénticos de Swivel para CTV",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/tv-remote-stock-square-1-1024x1024.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Swivel es una startup de tecnología para editores fundada por el antiguo FreeWheeler Frans Vermeulen y los cofundadores de SpringServe Matt Dearborn, Rich Lin y Joseph Hirsch. Su objetivo es automatizar las tareas manuales de las operaciones publicitarias de los editores, desde la optimización de campañas hasta los ajustes de precios —un “sistema de extremo a extremo” de agentes, según Hirsch—, con la meta final de una infraestructura agéntica que abarque toda la cadena publicitaria de CTV."
+              },
+              {
+                "t": "p",
+                "x": "En lugar de un único producto consolidado, Swivel tiene varios agentes, cada uno responsable de una parte de la compra de una campaña, como presupuestos, tráfico de pujas, ritmo de entrega, gestión del rendimiento e informes posteriores a la campaña. Muchos editores usan uno o dos agentes “para no alterar todo su flujo de trabajo de operaciones publicitarias”."
+              },
+              {
+                "t": "p",
+                "x": "Para abordar la fragmentación, Hirsch señaló el Ad Context Protocol (AdCP), cuya especificación adagents.json permite a los editores declarar qué agentes están autorizados para vender su inventario. La compra agéntica también puede automatizar la venta de formatos difíciles de comprar de forma programática, como patrocinios, anuncios en la pantalla de inicio, anuncios de pausa y medios secuenciales. Swivel sigue centrada al 100% en CTV, pero tiene previsto expandirse a retail media."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "visa-agentic-commerce-benchmark",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Visa 벤치마크로\nAI 쇼핑 에이전트 검증",
+      "body": "22개 AI 모델이 Visa 테스트 57.2%를 통과했고 실패의 54%에도 샀다.",
+      "mini_headline": "Visa, AI 쇼핑 에이전트 시험",
+      "tool": "Marketing",
+      "source": "The Paypers",
+      "url": "https://thepaypers.com/payments/news/visa-benchmark-tests-how-well-ai-agents-handle-shopping-tasks",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -1075,173 +1237,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-canada-checkout-1600x840-972.png"
+            "src": "https://assets.thepaypers.com/news%20team/225-visa.jpg"
           },
           {
             "t": "p",
-            "x": "Google이 Universal Commerce Protocol(UCP) 기반 바로 결제를 캐나다 쇼핑객에게도 연다. 대상은 Google Search의 AI Mode와 Gemini 앱이다. 출시는 2026년 11월 4일 Google Canada 부사장 겸 국가 총괄 Sabrina Geremia가 발표했다."
+            "x": "Visa가 Visa Agentic Commerce Benchmark를 내놓았다. 현실적인 쇼핑 테스트에서 22개 AI 모델의 전체 통과율은 57.2%였다. 모델은 대화로 소비자가 원하는 바를 파악하고, 요건에 맞는 제품이 없으면 사지 않는 판단까지 내려야 한다. 첫 라운드에서는 12개 AI 연구소의 22개 모델이 TV, 노트북, 개인 위생 가전 구매 등 15개 쇼핑 과제를 풀었다."
           },
           {
             "t": "p",
-            "x": "캐나다 첫 출시에는 lululemon, 일부 Shopify 판매자, Shoppers Drug Mart, Simons가 참여한다. 쇼핑객은 Google Wallet에 저장해 둔 결제 수단과 배송 정보로 Google Pay 결제를 하고, 판매 주체(seller of record)는 그대로 소매업체가 맡는다. Google은 몇 달 안에 로열티 리워드 적용 같은 기능도 넣을 계획이다."
+            "x": "가장 성적이 좋은 모델은 시도의 82.2%를 통과했고 가장 약한 모델은 28.9%에 그쳤다. 숨은 구매 요건을 가장 많이 찾아낸 다섯 모델은 평균 70.2%를 통과해, 가장 적게 찾은 다섯 모델(44.4%)보다 높았다. 한 시나리오에서 세 번 시도를 모두 통과한 경우는 34.2%뿐이었다. 실패한 실행의 54%에서는 AI가 그대로 구매를 진행했다."
           },
           {
             "t": "p",
-            "x": "내년부터는 Merchant Center 안에서 간소화된 UCP 연동을 바로 제공한다. 소매업체가 자기 계정에서 AI Mode와 Gemini 앱 전반의 상품 목록에 바로 결제를 켤 수 있게 된다는 게 Google의 설명이다."
-          },
-          {
-            "t": "p",
-            "x": "Shopify 제품 담당 VP Mani Fazeli는 “캐나다인들은 이미 AI에게 무엇을 살지 묻고 있으며, 이제 캐나다에서 판매하는 Shopify 판매자는 추가 작업 하나 없이 AI Mode와 Gemini 앱에서 충실하게 소개되고 곧바로 구매될 수 있다”고 말했다. Merchant Center 연동의 구체적인 출시일은 Google이 아직 밝히지 않았다."
+            "x": "Visa의 Global Head of Growth인 Rubail Birwadker는 핵심은 신뢰라고 말했다. Visa의 Trust Index에 따르면 미국(US) 소비자의 72%가 AI 어시스턴트를 써 봤지만, AI에 결제를 맡길 만큼 믿는 사람은 23%에 그쳤다. Visa는 시나리오를 늘리고 테스트도 체크아웃, 결제, 주문 접수까지 넓힐 계획이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google brings UCP checkout\nto AI Mode in Canada",
-          "body": "Google extends UCP direct checkout in AI Mode and Gemini to Canada, with Merchant Center support planned next year.",
-          "mini_headline": "UCP checkout reaches Canada",
+          "headline": "Visa benchmark puts AI\nshopping agents to the test",
+          "body": "22 AI models passed 57.2% of Visa's shopping tests, and 54% of failed runs still ended in a purchase.",
+          "mini_headline": "Visa tests AI shopping agents",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-canada-checkout-1600x840-972.png"
+                "src": "https://assets.thepaypers.com/news%20team/225-visa.jpg"
               },
               {
                 "t": "p",
-                "x": "Google is expanding direct checkout powered by the Universal Commerce Protocol (UCP) to shoppers in Canada across AI Mode in Google Search and the Gemini app. Sabrina Geremia, Vice President and Country Managing Director at Google Canada, announced the rollout on November 4, 2026."
+                "x": "Visa has launched the Visa Agentic Commerce Benchmark, finding that 22 AI models passed 57.2% of realistic shopping tests overall. Models must identify a consumer's needs through conversation and decide not to buy if no product meets the requirements. The first round tested 22 models from 12 AI labs on 15 shopping tasks, including buying a TV, a laptop, and a personal care appliance."
               },
               {
                 "t": "p",
-                "x": "The initial Canadian launch includes lululemon, select Shopify merchants, Shoppers Drug Mart and Simons. Shoppers pay with Google Pay using the payment methods and shipping details saved in Google Wallet, and retailers remain the seller of record. Google plans to add capabilities such as applying loyalty rewards in the coming months."
+                "x": "The best-performing models passed 82.2% of attempts, while the weakest passed 28.9%. The five models that uncovered the most hidden buying requirements averaged a 70.2% pass rate, compared with 44.4% for the five that uncovered the fewest. All three attempts at a scenario passed only 34.2% of the time, and in 54% of failed runs the AI still made a purchase."
               },
               {
                 "t": "p",
-                "x": "Starting next year, Google says it will make simplified UCP integration available directly inside Merchant Center, letting retailers enable direct checkout for their listings across AI Mode and the Gemini app from their accounts."
-              },
-              {
-                "t": "p",
-                "x": "“Canadians are already asking AI what to buy, and now Shopify merchants selling into Canada can be faithfully represented and bought from directly in AI Mode and the Gemini app, with zero extra work,” said Mani Fazeli, VP of Product at Shopify. Google hasn’t yet shared a specific release date for the Merchant Center integration."
+                "x": "Rubail Birwadker, Global Head of Growth at Visa, said trust is key. Visa's Trust Index found 72% of US consumers had used an AI assistant, but only 23% trusted AI to handle payments on their behalf. Visa plans to add more scenarios and extend testing to checkout, payment, and order placement."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google UCP 결제\n캐나다 AI Mode로",
-          "body": "Google이 AI Mode와 Gemini의 UCP 결제를 캐나다로 넓힌다.",
-          "mini_headline": "UCP 결제, 캐나다 상륙",
+          "headline": "Visa 벤치마크로\nAI 쇼핑 에이전트 검증",
+          "body": "22개 AI 모델이 Visa 테스트 57.2%를 통과했고 실패의 54%에도 샀다.",
+          "mini_headline": "Visa, AI 쇼핑 에이전트 시험",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-canada-checkout-1600x840-972.png"
+                "src": "https://assets.thepaypers.com/news%20team/225-visa.jpg"
               },
               {
                 "t": "p",
-                "x": "Google이 Universal Commerce Protocol(UCP) 기반 바로 결제를 캐나다 쇼핑객에게도 연다. 대상은 Google Search의 AI Mode와 Gemini 앱이다. 출시는 2026년 11월 4일 Google Canada 부사장 겸 국가 총괄 Sabrina Geremia가 발표했다."
+                "x": "Visa가 Visa Agentic Commerce Benchmark를 내놓았다. 현실적인 쇼핑 테스트에서 22개 AI 모델의 전체 통과율은 57.2%였다. 모델은 대화로 소비자가 원하는 바를 파악하고, 요건에 맞는 제품이 없으면 사지 않는 판단까지 내려야 한다. 첫 라운드에서는 12개 AI 연구소의 22개 모델이 TV, 노트북, 개인 위생 가전 구매 등 15개 쇼핑 과제를 풀었다."
               },
               {
                 "t": "p",
-                "x": "캐나다 첫 출시에는 lululemon, 일부 Shopify 판매자, Shoppers Drug Mart, Simons가 참여한다. 쇼핑객은 Google Wallet에 저장해 둔 결제 수단과 배송 정보로 Google Pay 결제를 하고, 판매 주체(seller of record)는 그대로 소매업체가 맡는다. Google은 몇 달 안에 로열티 리워드 적용 같은 기능도 넣을 계획이다."
+                "x": "가장 성적이 좋은 모델은 시도의 82.2%를 통과했고 가장 약한 모델은 28.9%에 그쳤다. 숨은 구매 요건을 가장 많이 찾아낸 다섯 모델은 평균 70.2%를 통과해, 가장 적게 찾은 다섯 모델(44.4%)보다 높았다. 한 시나리오에서 세 번 시도를 모두 통과한 경우는 34.2%뿐이었다. 실패한 실행의 54%에서는 AI가 그대로 구매를 진행했다."
               },
               {
                 "t": "p",
-                "x": "내년부터는 Merchant Center 안에서 간소화된 UCP 연동을 바로 제공한다. 소매업체가 자기 계정에서 AI Mode와 Gemini 앱 전반의 상품 목록에 바로 결제를 켤 수 있게 된다는 게 Google의 설명이다."
-              },
-              {
-                "t": "p",
-                "x": "Shopify 제품 담당 VP Mani Fazeli는 “캐나다인들은 이미 AI에게 무엇을 살지 묻고 있으며, 이제 캐나다에서 판매하는 Shopify 판매자는 추가 작업 하나 없이 AI Mode와 Gemini 앱에서 충실하게 소개되고 곧바로 구매될 수 있다”고 말했다. Merchant Center 연동의 구체적인 출시일은 Google이 아직 밝히지 않았다."
+                "x": "Visa의 Global Head of Growth인 Rubail Birwadker는 핵심은 신뢰라고 말했다. Visa의 Trust Index에 따르면 미국(US) 소비자의 72%가 AI 어시스턴트를 써 봤지만, AI에 결제를 맡길 만큼 믿는 사람은 23%에 그쳤다. Visa는 시나리오를 늘리고 테스트도 체크아웃, 결제, 주문 접수까지 넓힐 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google、UCP決済を\nカナダのAI Modeに",
-          "body": "GoogleはAI ModeとGeminiのUCP決済をカナダへ拡大する。",
-          "mini_headline": "UCP決済がカナダへ",
+          "headline": "Visaのベンチマークで\nAI買い物エージェント検証",
+          "body": "22のAIモデルはVisaの買い物テストの57.2%に合格し、失敗の54%でも購入した。",
+          "mini_headline": "VisaがAI買い物エージェントを試験",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-canada-checkout-1600x840-972.png"
+                "src": "https://assets.thepaypers.com/news%20team/225-visa.jpg"
               },
               {
                 "t": "p",
-                "x": "Googleは、Universal Commerce Protocol(UCP)を基盤とするダイレクトチェックアウトを、Google SearchのAI ModeとGeminiアプリでカナダの買い物客向けに拡大する。Google Canadaのバイスプレジデント兼カントリーマネージングディレクターであるSabrina Geremiaが、2026年11月4日に展開を発表した。"
+                "x": "VisaはVisa Agentic Commerce Benchmarkを公開し、22のAIモデルが現実的な買い物テスト全体の57.2%に合格したと明らかにした。モデルは会話を通じて消費者のニーズを把握し、条件を満たす商品がなければ買わない判断を下さなければならない。初回は12のAIラボの22モデルを、TV、ノートPC、パーソナルケア家電の購入を含む15の買い物タスクで試した。"
               },
               {
                 "t": "p",
-                "x": "カナダでの初期展開にはlululemon、一部のShopify加盟店、Shoppers Drug Mart、Simonsが参加する。買い物客はGoogle Walletに保存した支払い方法と配送情報を使ってGoogle Payで支払い、販売責任者(seller of record)は引き続き小売業者となる。Googleは今後数か月のうちに、ロイヤルティ特典の適用などの機能を追加する計画だ。"
+                "x": "最も成績の良いモデルは試行の82.2%に合格し、最も弱いモデルは28.9%だった。隠れた購入条件を最も多く見つけた五つのモデルの平均合格率は70.2%で、最も少なかった五つのモデルの44.4%を上回った。あるシナリオの三回の試行すべてに合格したのは34.2%にとどまり、失敗した実行の54%ではAIがそれでも購入した。"
               },
               {
                 "t": "p",
-                "x": "Googleによると、来年からMerchant Center内で簡素化されたUCP連携を直接提供し、小売業者が自分のアカウントからAI ModeとGeminiアプリ全体の商品リスティングでダイレクトチェックアウトを有効にできるようにする。"
-              },
-              {
-                "t": "p",
-                "x": "Shopifyのプロダクト担当VPであるMani Fazeliは「カナダの人々はすでにAIに何を買うべきか尋ねている。今やカナダ向けに販売するShopify加盟店は、追加作業ゼロで、AI ModeとGeminiアプリ上で忠実に紹介され、直接購入されるようになる」と述べた。GoogleはMerchant Center連携の具体的なリリース日をまだ明らかにしていない。"
+                "x": "VisaのGlobal Head of GrowthであるRubail Birwadkerは、信頼が鍵だと述べた。VisaのTrust Indexによると、US(米国)の消費者の72%がAIアシスタントを使ったことがある一方、決済をAIに任せられると信頼しているのは23%にとどまった。Visaはシナリオを追加し、チェックアウト、支払い、注文確定にもテストを広げる計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google将UCP结账\n带入加拿大AI Mode",
-          "body": "Google将AI Mode和Gemini中的UCP直接结账扩展至加拿大。",
-          "mini_headline": "UCP结账登陆加拿大",
+          "headline": "Visa基准测试\n检验AI购物代理",
+          "body": "22个AI模型通过了Visa购物测试的57.2%,失败运行中54%仍完成购买。",
+          "mini_headline": "Visa测试AI购物代理",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-canada-checkout-1600x840-972.png"
+                "src": "https://assets.thepaypers.com/news%20team/225-visa.jpg"
               },
               {
                 "t": "p",
-                "x": "Google正将基于Universal Commerce Protocol（UCP）的直接结账功能扩展至加拿大购物者，覆盖Google Search中的AI Mode和Gemini应用。Google Canada副总裁兼国家总经理Sabrina Geremia于2026年11月4日宣布了这一上线。"
+                "x": "Visa推出Visa Agentic Commerce Benchmark,发现22个AI模型总体通过了57.2%的真实购物测试。模型须通过对话识别消费者需求,并在没有产品符合要求时决定不购买。首轮测试了来自12家AI实验室的22个模型,涵盖15项购物任务,包括购买TV、笔记本电脑和个人护理电器。"
               },
               {
                 "t": "p",
-                "x": "加拿大首批上线的商家包括lululemon、部分Shopify商家、Shoppers Drug Mart和Simons。购物者使用Google Wallet中保存的支付方式和收货信息，通过Google Pay付款，零售商仍是登记卖方（seller of record）。Google计划在未来几个月增加使用会员积分等功能。"
+                "x": "表现最好的模型通过了82.2%的尝试,最弱的仅为28.9%。发现隐藏购买需求最多的五个模型平均通过率为70.2%,而发现最少的五个模型为44.4%。一个场景的三次尝试全部通过的情况仅占34.2%,而在54%的失败运行中,AI仍然完成了购买。"
               },
               {
                 "t": "p",
-                "x": "Google表示，从明年起将直接在Merchant Center内提供简化的UCP集成，让零售商可以在自己的账户中为其在AI Mode和Gemini应用中的商品开启直接结账。"
-              },
-              {
-                "t": "p",
-                "x": "Shopify产品副总裁（VP of Product）Mani Fazeli表示：“加拿大人已经在问AI该买什么，现在面向加拿大销售的Shopify商家无需做任何额外工作，就能在AI Mode和Gemini应用中被准确呈现并被直接购买，额外工作为零。”Google尚未公布Merchant Center集成的具体发布日期。"
+                "x": "Visa全球增长负责人(Global Head of Growth)Rubail Birwadker表示,信任是关键。Visa的Trust Index显示,72%的US消费者用过AI助手,但只有23%信任AI代其处理支付。Visa计划增加更多场景,并将测试扩展至结账、支付和下单环节。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google lleva el pago con UCP\nal AI Mode en Canadá",
-          "body": "Google extiende a Canadá el pago directo con UCP en AI Mode y Gemini, y llegará a Merchant Center el próximo año.",
-          "mini_headline": "El pago UCP llega a Canadá",
+          "headline": "Visa pone a prueba a los\nagentes de compra con AI",
+          "body": "22 modelos de AI superaron el 57.2% de las pruebas de compra de Visa, y en el 54% de los fallos aun así hubo compra.",
+          "mini_headline": "Visa prueba agentes de compra AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-canada-checkout-1600x840-972.png"
+                "src": "https://assets.thepaypers.com/news%20team/225-visa.jpg"
               },
               {
                 "t": "p",
-                "x": "Google amplía a los compradores de Canadá el pago directo impulsado por el Universal Commerce Protocol (UCP) en AI Mode de Google Search y en la app Gemini. Sabrina Geremia, vicepresidenta y directora general de Google Canada, anunció el lanzamiento el 4 de noviembre de 2026."
+                "x": "Visa lanzó el Visa Agentic Commerce Benchmark y halló que 22 modelos de AI superaron en conjunto el 57.2% de las pruebas de compra realistas. Los modelos deben identificar las necesidades del consumidor mediante la conversación y decidir no comprar si ningún producto cumple los requisitos. La primera ronda evaluó 22 modelos de 12 laboratorios de AI en 15 tareas de compra, entre ellas comprar una TV, un equipo portátil y un aparato de cuidado personal."
               },
               {
                 "t": "p",
-                "x": "El lanzamiento inicial en Canadá incluye a lululemon, algunos comerciantes de Shopify, Shoppers Drug Mart y Simons. Los compradores pagan con Google Pay usando los métodos de pago y los datos de envío guardados en Google Wallet, y los minoristas siguen siendo el vendedor registrado. Google prevé añadir en los próximos meses funciones como la aplicación de recompensas de fidelidad."
+                "x": "Los modelos con mejor desempeño superaron el 82.2% de los intentos, mientras que los más débiles superaron el 28.9%. Los cinco modelos que descubrieron más requisitos de compra ocultos promediaron una tasa de aprobación del 70.2%, frente al 44.4% de los cinco que descubrieron menos. Los tres intentos de un escenario se superaron solo el 34.2% de las veces, y en el 54% de las ejecuciones fallidas la AI realizó igualmente una compra."
               },
               {
                 "t": "p",
-                "x": "A partir del próximo año, según Google, ofrecerá una integración simplificada de UCP directamente dentro de Merchant Center, para que los minoristas activen el pago directo en sus fichas de AI Mode y la app Gemini desde sus cuentas."
-              },
-              {
-                "t": "p",
-                "x": "“Los canadienses ya le preguntan a la AI qué comprar, y ahora los comerciantes de Shopify que venden en Canadá pueden estar representados fielmente y recibir compras directas en AI Mode y la app Gemini, con cero trabajo adicional”, dijo Mani Fazeli, VP de Producto en Shopify. Google aún no ha dado una fecha concreta de lanzamiento para la integración con Merchant Center."
+                "x": "Rubail Birwadker, Global Head of Growth de Visa, afirmó que la confianza es clave. El Trust Index de Visa reveló que el 72% de los consumidores de Estados Unidos (US) había usado un asistente de AI, pero solo el 23% confiaba en que la AI gestionara pagos en su nombre. Visa prevé añadir más escenarios y extender las pruebas al checkout, el pago y la realización de pedidos."
               }
             ]
           }
@@ -1249,473 +1387,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google UCP 결제\n캐나다 AI Mode로",
-          "body": "Google이 AI Mode·Gemini의 UCP 결제를 캐나다로 확대한다.",
-          "mini_headline": "UCP 결제, 캐나다 상륙",
+          "headline": "Visa 벤치마크로\nAI 쇼핑 에이전트 검증",
+          "body": "22개 AI 모델은 Visa 테스트 57.2%를 통과했고 실패의 54%도 구매했다.",
+          "mini_headline": "Visa, AI 쇼핑 에이전트 시험",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-canada-checkout-1600x840-972.png"
+                "src": "https://assets.thepaypers.com/news%20team/225-visa.jpg"
               },
               {
                 "t": "p",
-                "x": "Google이 Universal Commerce Protocol(UCP) 기반 바로 결제 기능을 Google Search의 AI Mode와 Gemini 앱에서 캐나다 쇼핑객에게 확대한다. Google Canada의 부사장 겸 국가 총괄 Sabrina Geremia가 2026년 11월 4일 출시를 발표했다."
+                "x": "Visa가 Visa Agentic Commerce Benchmark를 내놓았다. 22개 AI 모델이 현실적인 쇼핑 테스트를 전체 57.2% 통과한 것으로 나타났다. 모델은 대화로 소비자의 필요를 파악해야 하고, 요건에 맞는 제품이 없으면 사지 않기로 판단해야 한다. 첫 라운드에서는 12개 AI 연구소의 22개 모델이 TV, 노트북, 개인 위생 가전 구매 등 15개 쇼핑 과제를 수행했다."
               },
               {
                 "t": "p",
-                "x": "캐나다 첫 출시에는 lululemon, 일부 Shopify 판매자, Shoppers Drug Mart, Simons가 참여한다. 쇼핑객은 Google Wallet에 저장된 결제 수단과 배송 정보를 이용해 Google Pay로 결제하며, 판매 주체(seller of record)는 계속 소매업체다. Google은 앞으로 몇 달 안에 로열티 리워드 적용 같은 기능을 추가할 계획이다."
+                "x": "가장 성적이 좋은 모델은 시도의 82.2%를 통과했고, 가장 약한 모델은 28.9%에 그쳤다. 숨은 구매 요건을 가장 많이 찾아낸 다섯 모델의 평균 통과율은 70.2%로, 가장 적게 찾아낸 다섯 모델의 44.4%를 웃돌았다. 한 시나리오의 세 차례 시도를 모두 통과한 경우는 34.2%에 불과했고, 실패한 실행의 54%에서는 AI가 그래도 구매를 진행했다."
               },
               {
                 "t": "p",
-                "x": "Google은 내년부터 Merchant Center 안에서 바로 간소화된 UCP 연동을 제공해, 소매업체가 자기 계정에서 AI Mode와 Gemini 앱 전반의 상품 목록에 바로 결제를 켤 수 있게 하겠다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "Shopify 제품 담당 VP Mani Fazeli는 “캐나다인들은 이미 AI에게 무엇을 살지 묻고 있으며, 이제 캐나다에서 판매하는 Shopify 판매자는 추가 작업 하나 없이 AI Mode와 Gemini 앱에서 충실하게 소개되고 곧바로 구매될 수 있다”고 말했다. Google은 Merchant Center 연동의 구체적인 출시일을 아직 공개하지 않았다."
+                "x": "Visa의 Global Head of Growth인 Rubail Birwadker는 신뢰가 핵심이라고 말했다. Visa의 Trust Index에 따르면 미국(US) 소비자의 72%가 AI 어시스턴트를 써 봤지만, AI에 결제를 맡길 만큼 신뢰하는 비율은 23%에 그쳤다. Visa는 시나리오를 늘리고 테스트 범위를 체크아웃, 결제, 주문 접수까지 넓힐 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google、UCP決済を\nカナダのAI Modeに",
-          "body": "GoogleはAI ModeとGeminiのUCP決済をカナダへ拡大する。",
-          "mini_headline": "UCP決済がカナダへ",
+          "headline": "Visaのベンチマークで\nAI買い物エージェント検証",
+          "body": "22のAIモデルはVisaの買い物テストの57.2%に合格し、失敗の54%でも購入した。",
+          "mini_headline": "VisaがAI買い物エージェントを試験",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-canada-checkout-1600x840-972.png"
+                "src": "https://assets.thepaypers.com/news%20team/225-visa.jpg"
               },
               {
                 "t": "p",
-                "x": "Googleは、Universal Commerce Protocol(UCP)を基盤とするダイレクトチェックアウトを、Google SearchのAI ModeとGeminiアプリでカナダの買い物客向けに拡大する。Google Canadaのバイスプレジデント兼カントリーマネージングディレクターであるSabrina Geremiaが、2026年11月4日に展開を発表した。"
+                "x": "VisaはVisa Agentic Commerce Benchmarkを公開し、22のAIモデルが現実的な買い物テスト全体の57.2%に合格したと明らかにした。モデルは会話を通じて消費者のニーズを把握し、条件を満たす商品がなければ買わない判断を下さなければならない。初回は12のAIラボの22モデルを、TV、ノートPC、パーソナルケア家電の購入を含む15の買い物タスクで試した。"
               },
               {
                 "t": "p",
-                "x": "カナダでの初期展開にはlululemon、一部のShopify加盟店、Shoppers Drug Mart、Simonsが参加する。買い物客はGoogle Walletに保存した支払い方法と配送情報を使ってGoogle Payで支払い、販売責任者(seller of record)は引き続き小売業者となる。Googleは今後数か月のうちに、ロイヤルティ特典の適用などの機能を追加する計画だ。"
+                "x": "最も成績の良いモデルは試行の82.2%に合格し、最も弱いモデルは28.9%だった。隠れた購入条件を最も多く見つけた五つのモデルの平均合格率は70.2%で、最も少なかった五つのモデルの44.4%を上回った。あるシナリオの三回の試行すべてに合格したのは34.2%にとどまり、失敗した実行の54%ではAIがそれでも購入した。"
               },
               {
                 "t": "p",
-                "x": "Googleによると、来年からMerchant Center内で簡素化されたUCP連携を直接提供し、小売業者が自分のアカウントからAI ModeとGeminiアプリ全体の商品リスティングでダイレクトチェックアウトを有効にできるようにする。"
-              },
-              {
-                "t": "p",
-                "x": "Shopifyのプロダクト担当VPであるMani Fazeliは「カナダの人々はすでにAIに何を買うべきか尋ねている。今やカナダ向けに販売するShopify加盟店は、追加作業ゼロで、AI ModeとGeminiアプリ上で忠実に紹介され、直接購入されるようになる」と述べた。GoogleはMerchant Center連携の具体的なリリース日をまだ明らかにしていない。"
+                "x": "VisaのGlobal Head of GrowthであるRubail Birwadkerは、信頼が鍵だと述べた。VisaのTrust Indexによると、US(米国)の消費者の72%がAIアシスタントを使ったことがある一方、決済をAIに任せられると信頼しているのは23%にとどまった。Visaはシナリオを追加し、チェックアウト、支払い、注文確定にもテストを広げる計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google将UCP结账\n带入加拿大AI Mode",
-          "body": "Google将AI Mode和Gemini中的UCP直接结账扩展至加拿大。",
-          "mini_headline": "UCP结账登陆加拿大",
+          "headline": "Visa基准测试\n检验AI购物代理",
+          "body": "22个AI模型通过了Visa购物测试的57.2%,失败运行中54%仍完成购买。",
+          "mini_headline": "Visa测试AI购物代理",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-canada-checkout-1600x840-972.png"
+                "src": "https://assets.thepaypers.com/news%20team/225-visa.jpg"
               },
               {
                 "t": "p",
-                "x": "Google正将基于Universal Commerce Protocol（UCP）的直接结账功能扩展至加拿大购物者，覆盖Google Search中的AI Mode和Gemini应用。Google Canada副总裁兼国家总经理Sabrina Geremia于2026年11月4日宣布了这一上线。"
+                "x": "Visa推出Visa Agentic Commerce Benchmark,发现22个AI模型总体通过了57.2%的真实购物测试。模型须通过对话识别消费者需求,并在没有产品符合要求时决定不购买。首轮测试了来自12家AI实验室的22个模型,涵盖15项购物任务,包括购买TV、笔记本电脑和个人护理电器。"
               },
               {
                 "t": "p",
-                "x": "加拿大首批上线的商家包括lululemon、部分Shopify商家、Shoppers Drug Mart和Simons。购物者使用Google Wallet中保存的支付方式和收货信息，通过Google Pay付款，零售商仍是登记卖方（seller of record）。Google计划在未来几个月增加使用会员积分等功能。"
+                "x": "表现最好的模型通过了82.2%的尝试,最弱的仅为28.9%。发现隐藏购买需求最多的五个模型平均通过率为70.2%,而发现最少的五个模型为44.4%。一个场景的三次尝试全部通过的情况仅占34.2%,而在54%的失败运行中,AI仍然完成了购买。"
               },
               {
                 "t": "p",
-                "x": "Google表示，从明年起将直接在Merchant Center内提供简化的UCP集成，让零售商可以在自己的账户中为其在AI Mode和Gemini应用中的商品开启直接结账。"
-              },
-              {
-                "t": "p",
-                "x": "Shopify产品副总裁（VP of Product）Mani Fazeli表示：“加拿大人已经在问AI该买什么，现在面向加拿大销售的Shopify商家无需做任何额外工作，就能在AI Mode和Gemini应用中被准确呈现并被直接购买，额外工作为零。”Google尚未公布Merchant Center集成的具体发布日期。"
+                "x": "Visa全球增长负责人(Global Head of Growth)Rubail Birwadker表示,信任是关键。Visa的Trust Index显示,72%的US消费者用过AI助手,但只有23%信任AI代其处理支付。Visa计划增加更多场景,并将测试扩展至结账、支付和下单环节。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google lleva el pago con UCP\nal AI Mode en Canadá",
-          "body": "Google extiende a Canadá el pago directo con UCP en AI Mode y Gemini, y llegará a Merchant Center el próximo año.",
-          "mini_headline": "El pago UCP llega a Canadá",
+          "headline": "Visa pone a prueba a los\nagentes de compra con AI",
+          "body": "22 modelos de AI superaron el 57.2% de las pruebas de compra de Visa, y en el 54% de los fallos aun así hubo compra.",
+          "mini_headline": "Visa prueba agentes de compra AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-canada-checkout-1600x840-972.png"
+                "src": "https://assets.thepaypers.com/news%20team/225-visa.jpg"
               },
               {
                 "t": "p",
-                "x": "Google amplía a los compradores de Canadá el pago directo impulsado por el Universal Commerce Protocol (UCP) en AI Mode de Google Search y en la app Gemini. Sabrina Geremia, vicepresidenta y directora general de Google Canada, anunció el lanzamiento el 4 de noviembre de 2026."
+                "x": "Visa lanzó el Visa Agentic Commerce Benchmark y halló que 22 modelos de AI superaron en conjunto el 57.2% de las pruebas de compra realistas. Los modelos deben identificar las necesidades del consumidor mediante la conversación y decidir no comprar si ningún producto cumple los requisitos. La primera ronda evaluó 22 modelos de 12 laboratorios de AI en 15 tareas de compra, entre ellas comprar una TV, un equipo portátil y un aparato de cuidado personal."
               },
               {
                 "t": "p",
-                "x": "El lanzamiento inicial en Canadá incluye a lululemon, algunos comerciantes de Shopify, Shoppers Drug Mart y Simons. Los compradores pagan con Google Pay usando los métodos de pago y los datos de envío guardados en Google Wallet, y los minoristas siguen siendo el vendedor registrado. Google prevé añadir en los próximos meses funciones como la aplicación de recompensas de fidelidad."
+                "x": "Los modelos con mejor desempeño superaron el 82.2% de los intentos, mientras que los más débiles superaron el 28.9%. Los cinco modelos que descubrieron más requisitos de compra ocultos promediaron una tasa de aprobación del 70.2%, frente al 44.4% de los cinco que descubrieron menos. Los tres intentos de un escenario se superaron solo el 34.2% de las veces, y en el 54% de las ejecuciones fallidas la AI realizó igualmente una compra."
               },
               {
                 "t": "p",
-                "x": "A partir del próximo año, según Google, ofrecerá una integración simplificada de UCP directamente dentro de Merchant Center, para que los minoristas activen el pago directo en sus fichas de AI Mode y la app Gemini desde sus cuentas."
-              },
-              {
-                "t": "p",
-                "x": "“Los canadienses ya le preguntan a la AI qué comprar, y ahora los comerciantes de Shopify que venden en Canadá pueden estar representados fielmente y recibir compras directas en AI Mode y la app Gemini, con cero trabajo adicional”, dijo Mani Fazeli, VP de Producto en Shopify. Google aún no ha dado una fecha concreta de lanzamiento para la integración con Merchant Center."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "blend-agent-bot-blocks-audit",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "봇 차단에 가로막힌\nBlend AI 에이전트",
-      "body": "소매업체 200곳 중 29곳의 봇 차단이 Blend의 AI 쇼핑 에이전트를 막았다.",
-      "mini_headline": "봇 차단벽에 막힌 Blend 에이전트",
-      "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/bot-protection-blocks-blends-ai-shopping-agent-at-29-of-200-retailers/",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Home Depot, Best Buy, Macy's, Tesco, Argos, Next 등 UK와 US 소매업체 200곳 가운데 29곳의 보안 소프트웨어가 Blend Commerce의 자동 쇼핑 에이전트를 두 차례 시도 모두 돌려보냈다. Blend는 10월 6일 AI Shopping Audit 2026을 공개했고 Black Friday를 23일 앞둔 2026년 11월 4일 조사 결과에 관한 성명을 냈다."
-          },
-          {
-            "t": "p",
-            "x": "테스트는 2026년 9월 8일부터 15일까지 진행됐다. 대형 소매업체는 80곳 중 16곳이 브라우저를 거부했다(20%). 중견 소매업체는 80곳 중 열두 곳(15%), 신흥 소매업체는 40곳 중 한 곳(2.5%)에 그쳤다. Saks Fifth Avenue, Bergdorf Goodman, Anthropologie, JD Williams는 영점을 받았다."
-          },
-          {
-            "t": "p",
-            "x": "거부한 매장 29곳 중 Blend가 robots.txt를 읽을 수 있었던 곳은 24곳이다. 이 24곳은 모두 ChatGPT, Perplexity, Claude의 검색 크롤러를 허용하고 있었다. 보고서는 \"거부는 봇 차단에서 나온다\"고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "Blend Commerce 공동창업자 겸 CEO Adam Pearce는 \"이 소매업체 대부분은 아마 AI 기업들에 그들의 에이전트를 환영한다고 말했을 것이다. 그런데 정문의 보안 소프트웨어가 이를 거부한다\"고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "테스트에는 ChatGPT나 Gemini가 아니라 Blend의 자체 에이전트를 썼다. \"소매업체는 이름이 알려진 AI 에이전트는 허용하면서 알아보지 못하는 자동화는 거부할 수 있다.\" 에이전트 결제 엔드포인트를 운영하는 소매업체 38곳 가운데 서른일곱 곳이 Shopify 기반이다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Bot protection turns away\nBlend's AI shopping agent",
-          "body": "Bot protection stopped Blend's AI shopping agent at 29 of 200 retailers: 20% of large ones, 2.5% of emerging ones.",
-          "mini_headline": "Bot walls stop Blend's agent",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Security software at 29 of 200 UK and US retailers, among them Home Depot, Best Buy, Macy's, Tesco, Argos and Next, refused an automated shopping agent sent by Blend Commerce on two separate attempts. Blend published its AI Shopping Audit 2026 on October 6 and issued a statement on the findings on November 4, 2026, 23 days before Black Friday."
-              },
-              {
-                "t": "p",
-                "x": "Testing ran between September 8 and 15, 2026. Of the 80 large retailers, 16 refused the browser (20%). Twelve of the 80 mid-sized retailers refused (15%), against one of the 40 emerging retailers (2.5%). Saks Fifth Avenue, Bergdorf Goodman, Anthropologie and JD Williams scored zero."
-              },
-              {
-                "t": "p",
-                "x": "Blend could read robots.txt for 24 of the 29 refusing stores, and every one of the 24 allows the search crawlers from ChatGPT, Perplexity and Claude. \"The refusals come from bot protection,\" according to the report."
-              },
-              {
-                "t": "p",
-                "x": "\"Most of these retailers have likely told the AI companies their agents are welcome. Then the security software on the front door refuses it,\" said Adam Pearce, co-founder and CEO of Blend Commerce."
-              },
-              {
-                "t": "p",
-                "x": "The test used Blend's own agent, not ChatGPT or Gemini: \"A retailer may allow named AI agents while refusing automation it does not recognise.\" Thirty-seven of the 38 retailers with a live agent checkout endpoint run on Shopify."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "机器人防护拦下\nBlend AI购物智能体",
-          "body": "Blend的AI购物智能体在200家零售商中被29家拦截：大型20%，新兴2.5%。",
-          "mini_headline": "机器人防护拦下Blend智能体",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
-              },
-              {
-                "t": "p",
-                "x": "在200家UK和US零售商中，有29家的安全软件在两次独立尝试中都拒绝了Blend Commerce派出的自动购物智能体，其中包括Home Depot、Best Buy、Macy's、Tesco、Argos和Next。Blend于10月6日发布了AI Shopping Audit 2026，并于2026年11月4日、即Black Friday前23天就调查结果发表声明。"
-              },
-              {
-                "t": "p",
-                "x": "测试于2026年9月8日至15日进行。80家大型零售商中有16家拒绝了浏览器（20%）。80家中型（mid-sized）零售商中有十二家拒绝（15%），而40家新兴零售商中只有一家拒绝（2.5%）。Saks Fifth Avenue、Bergdorf Goodman、Anthropologie和JD Williams得分为零。"
-              },
-              {
-                "t": "p",
-                "x": "在拒绝访问的29家商店中，Blend能读取其中24家的robots.txt，而这24家全部允许ChatGPT、Perplexity和Claude的搜索爬虫。报告称：“拒绝来自机器人防护。”"
-              },
-              {
-                "t": "p",
-                "x": "Blend Commerce联合创始人（co-founder）兼CEO Adam Pearce表示：“这些零售商中的大多数很可能已经告诉AI公司，欢迎它们的智能体。然而前门的安全软件却把它拒之门外。”"
-              },
-              {
-                "t": "p",
-                "x": "测试使用的是Blend自己的智能体，而非ChatGPT或Gemini：“零售商可能允许具名的AI智能体，同时拒绝它无法识别的自动化程序。”在38家拥有可用智能体结账端点的零售商中，有三十七家（Thirty-seven）运行在Shopify上。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La protección antibots frena al\nagente de AI de Blend",
-          "body": "La protección antibots frenó al agente de AI de Blend en 29 de 200 tiendas: 20% de grandes y 2.5% de emergentes.",
-          "mini_headline": "Los muros antibots frenan a Blend",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
-              },
-              {
-                "t": "p",
-                "x": "El software de seguridad de 29 de 200 minoristas de UK y US, entre ellos Home Depot, Best Buy, Macy's, Tesco, Argos y Next, rechazó en dos intentos distintos un agente de compras automatizado enviado por Blend Commerce. Blend publicó su AI Shopping Audit 2026 el 6 de octubre y emitió un comunicado sobre los resultados el 4 de noviembre de 2026, 23 días antes del Black Friday."
-              },
-              {
-                "t": "p",
-                "x": "Las pruebas se realizaron entre el 8 y el 15 de septiembre de 2026. De los 80 grandes minoristas, 16 rechazaron el navegador (20%). Doce de los 80 minoristas medianos (mid-sized) lo rechazaron (15%), frente a uno de los 40 minoristas emergentes (2.5%). Saks Fifth Avenue, Bergdorf Goodman, Anthropologie y JD Williams obtuvieron cero."
-              },
-              {
-                "t": "p",
-                "x": "Blend pudo leer el robots.txt de 24 de las 29 tiendas que lo rechazaron, y las 24 permiten los rastreadores de búsqueda de ChatGPT, Perplexity y Claude. \"Los rechazos provienen de la protección contra bots\", según el informe."
-              },
-              {
-                "t": "p",
-                "x": "\"Es probable que la mayoría de estos minoristas haya dicho a las empresas de AI que sus agentes son bienvenidos. Luego, el software de seguridad de la puerta de entrada lo rechaza\", dijo Adam Pearce, cofundador (co-founder) y CEO de Blend Commerce."
-              },
-              {
-                "t": "p",
-                "x": "La prueba usó el agente propio de Blend, no ChatGPT ni Gemini: \"Un minorista puede permitir agentes de AI identificados y, al mismo tiempo, rechazar la automatización que no reconoce\". Treinta y siete (Thirty-seven) de los 38 minoristas con un endpoint de checkout de agentes activo funcionan con Shopify."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "봇 차단에 가로막힌\nBlend AI 에이전트",
-          "body": "소매업체 200곳 중 29곳의 봇 차단이 Blend의 AI 쇼핑 에이전트를 막았다.",
-          "mini_headline": "봇 차단벽에 막힌 Blend 에이전트",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Home Depot, Best Buy, Macy's, Tesco, Argos, Next 등 UK와 US 소매업체 200곳 가운데 29곳의 보안 소프트웨어가 Blend Commerce의 자동 쇼핑 에이전트를 두 차례 시도 모두 돌려보냈다. Blend는 10월 6일 AI Shopping Audit 2026을 공개했고 Black Friday를 23일 앞둔 2026년 11월 4일 조사 결과에 관한 성명을 냈다."
-              },
-              {
-                "t": "p",
-                "x": "테스트는 2026년 9월 8일부터 15일까지 진행됐다. 대형 소매업체는 80곳 중 16곳이 브라우저를 거부했다(20%). 중견 소매업체는 80곳 중 열두 곳(15%), 신흥 소매업체는 40곳 중 한 곳(2.5%)에 그쳤다. Saks Fifth Avenue, Bergdorf Goodman, Anthropologie, JD Williams는 영점을 받았다."
-              },
-              {
-                "t": "p",
-                "x": "거부한 매장 29곳 중 Blend가 robots.txt를 읽을 수 있었던 곳은 24곳이다. 이 24곳은 모두 ChatGPT, Perplexity, Claude의 검색 크롤러를 허용하고 있었다. 보고서는 \"거부는 봇 차단에서 나온다\"고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "Blend Commerce 공동창업자 겸 CEO Adam Pearce는 \"이 소매업체 대부분은 아마 AI 기업들에 그들의 에이전트를 환영한다고 말했을 것이다. 그런데 정문의 보안 소프트웨어가 이를 거부한다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "테스트에는 ChatGPT나 Gemini가 아니라 Blend의 자체 에이전트를 썼다. \"소매업체는 이름이 알려진 AI 에이전트는 허용하면서 알아보지 못하는 자동화는 거부할 수 있다.\" 에이전트 결제 엔드포인트를 운영하는 소매업체 38곳 가운데 서른일곱 곳이 Shopify 기반이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ボット対策が門前払い\nBlendのAIエージェント",
-          "body": "ボット対策が小売200社中29社でBlendのAIショッピングエージェントを阻んだ。",
-          "mini_headline": "ボット対策がBlendのエージェントを阻む",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Home Depot、Best Buy、Macy's、Tesco、Argos、Nextを含むUKとUSの小売200社のうち29社で、セキュリティソフトがBlend Commerceの送った自動ショッピングエージェントを二度の試行とも拒否した。Blendは10月6日にAI Shopping Audit 2026を公開し、Black Fridayの23日前にあたる2026年11月4日に調査結果に関する声明を出した。"
-              },
-              {
-                "t": "p",
-                "x": "テストは2026年9月8日から15日にかけて実施された。大手小売80社のうち16社がブラウザを拒否した(20%)。中堅小売では80社中十二社が拒否し(15%)、新興小売では40社中一社だった(2.5%)。Saks Fifth Avenue、Bergdorf Goodman、Anthropologie、JD Williamsのスコアはゼロだった。"
-              },
-              {
-                "t": "p",
-                "x": "Blendは拒否した29店舗のうち24店舗のrobots.txtを読み取ることができ、その24店舗はいずれもChatGPT、Perplexity、Claudeの検索クローラーを許可していた。報告書によれば「拒否はボット対策によるもの」である。"
-              },
-              {
-                "t": "p",
-                "x": "Blend Commerceの共同創業者兼CEO、Adam Pearceは「これらの小売業者の多くは、AI企業に対してエージェントを歓迎すると伝えているはずだ。ところが玄関のセキュリティソフトがそれを拒否する」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "テストにはChatGPTやGeminiではなく、Blend独自のエージェントが使われた。「小売業者は名前の分かるAIエージェントを許可しつつ、認識できない自動化を拒否することがある」。稼働中のエージェント決済エンドポイントを持つ小売38社のうち三十七社がShopifyで運営されている。"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "zh": {
-          "headline": "机器人防护拦下\nBlend AI购物智能体",
-          "body": "Blend的AI购物智能体在200家零售商中被29家拦截：大型20%，新兴2.5%。",
-          "mini_headline": "机器人防护拦下Blend智能体",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
-              },
-              {
-                "t": "p",
-                "x": "在200家UK和US零售商中，有29家的安全软件在两次独立尝试中都拒绝了Blend Commerce派出的自动购物智能体，其中包括Home Depot、Best Buy、Macy's、Tesco、Argos和Next。Blend于10月6日发布了AI Shopping Audit 2026，并于2026年11月4日、即Black Friday前23天就调查结果发表声明。"
-              },
-              {
-                "t": "p",
-                "x": "测试于2026年9月8日至15日进行。80家大型零售商中有16家拒绝了浏览器（20%）。80家中型（mid-sized）零售商中有十二家拒绝（15%），而40家新兴零售商中只有一家拒绝（2.5%）。Saks Fifth Avenue、Bergdorf Goodman、Anthropologie和JD Williams得分为零。"
-              },
-              {
-                "t": "p",
-                "x": "在拒绝访问的29家商店中，Blend能读取其中24家的robots.txt，而这24家全部允许ChatGPT、Perplexity和Claude的搜索爬虫。报告称：“拒绝来自机器人防护。”"
-              },
-              {
-                "t": "p",
-                "x": "Blend Commerce联合创始人（co-founder）兼CEO Adam Pearce表示：“这些零售商中的大多数很可能已经告诉AI公司，欢迎它们的智能体。然而前门的安全软件却把它拒之门外。”"
-              },
-              {
-                "t": "p",
-                "x": "测试使用的是Blend自己的智能体，而非ChatGPT或Gemini：“零售商可能允许具名的AI智能体，同时拒绝它无法识别的自动化程序。”在38家拥有可用智能体结账端点的零售商中，有三十七家（Thirty-seven）运行在Shopify上。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La protección antibots frena al\nagente de AI de Blend",
-          "body": "La protección antibots frenó al agente de AI de Blend en 29 de 200 tiendas: 20% de grandes y 2.5% de emergentes.",
-          "mini_headline": "Los muros antibots frenan a Blend",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
-              },
-              {
-                "t": "p",
-                "x": "El software de seguridad de 29 de 200 minoristas de UK y US, entre ellos Home Depot, Best Buy, Macy's, Tesco, Argos y Next, rechazó en dos intentos distintos un agente de compras automatizado enviado por Blend Commerce. Blend publicó su AI Shopping Audit 2026 el 6 de octubre y emitió un comunicado sobre los resultados el 4 de noviembre de 2026, 23 días antes del Black Friday."
-              },
-              {
-                "t": "p",
-                "x": "Las pruebas se realizaron entre el 8 y el 15 de septiembre de 2026. De los 80 grandes minoristas, 16 rechazaron el navegador (20%). Doce de los 80 minoristas medianos (mid-sized) lo rechazaron (15%), frente a uno de los 40 minoristas emergentes (2.5%). Saks Fifth Avenue, Bergdorf Goodman, Anthropologie y JD Williams obtuvieron cero."
-              },
-              {
-                "t": "p",
-                "x": "Blend pudo leer el robots.txt de 24 de las 29 tiendas que lo rechazaron, y las 24 permiten los rastreadores de búsqueda de ChatGPT, Perplexity y Claude. \"Los rechazos provienen de la protección contra bots\", según el informe."
-              },
-              {
-                "t": "p",
-                "x": "\"Es probable que la mayoría de estos minoristas haya dicho a las empresas de AI que sus agentes son bienvenidos. Luego, el software de seguridad de la puerta de entrada lo rechaza\", dijo Adam Pearce, cofundador (co-founder) y CEO de Blend Commerce."
-              },
-              {
-                "t": "p",
-                "x": "La prueba usó el agente propio de Blend, no ChatGPT ni Gemini: \"Un minorista puede permitir agentes de AI identificados y, al mismo tiempo, rechazar la automatización que no reconoce\". Treinta y siete (Thirty-seven) de los 38 minoristas con un endpoint de checkout de agentes activo funcionan con Shopify."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "봇 차단에 가로막힌\nBlend AI 에이전트",
-          "body": "봇 차단이 200곳 중 29곳에서 Blend의 AI 쇼핑 에이전트를 막았다.",
-          "mini_headline": "봇 차단벽에 막힌 Blend 에이전트",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Home Depot, Best Buy, Macy's, Tesco, Argos, Next 등 UK와 US 소매업체 200곳 중 29곳의 보안 소프트웨어가 Blend Commerce가 보낸 자동 쇼핑 에이전트를 두 차례 시도 모두에서 거부했다. Blend는 10월 6일 AI Shopping Audit 2026을 공개했고, Black Friday를 23일 앞둔 2026년 11월 4일 조사 결과에 대한 성명을 냈다."
-              },
-              {
-                "t": "p",
-                "x": "테스트는 2026년 9월 8일부터 15일까지 진행됐다. 대형 소매업체 80곳 중 16곳이 브라우저를 거부했다(20%). 중견 소매업체는 80곳 중 열두 곳이 거부했고(15%), 신흥 소매업체는 40곳 중 한 곳에 그쳤다(2.5%). Saks Fifth Avenue, Bergdorf Goodman, Anthropologie, JD Williams는 영점을 받았다."
-              },
-              {
-                "t": "p",
-                "x": "Blend는 거부한 매장 29곳 중 24곳의 robots.txt를 읽을 수 있었고, 이 24곳은 모두 ChatGPT, Perplexity, Claude의 검색 크롤러를 허용하고 있었다. 보고서는 \"거부는 봇 차단에서 나온다\"고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "Blend Commerce 공동창업자 겸 CEO Adam Pearce는 \"이 소매업체 대부분은 아마 AI 기업들에 그들의 에이전트를 환영한다고 말했을 것이다. 그런데 정문의 보안 소프트웨어가 이를 거부한다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "테스트에는 ChatGPT나 Gemini가 아닌 Blend 자체 에이전트가 쓰였다. \"소매업체는 이름이 알려진 AI 에이전트는 허용하면서 알아보지 못하는 자동화는 거부할 수 있다.\" 에이전트 결제 엔드포인트를 운영 중인 소매업체 38곳 중 서른일곱 곳이 Shopify 기반이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ボット対策が門前払い\nBlendのAIエージェント",
-          "body": "ボット対策が小売200社中29社でBlendのAIショッピングエージェントを阻んだ。",
-          "mini_headline": "ボット対策がBlendのエージェントを阻む",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Home Depot、Best Buy、Macy's、Tesco、Argos、Nextを含むUKとUSの小売200社のうち29社で、セキュリティソフトがBlend Commerceの送った自動ショッピングエージェントを二度の試行とも拒否した。Blendは10月6日にAI Shopping Audit 2026を公開し、Black Fridayの23日前にあたる2026年11月4日に調査結果に関する声明を出した。"
-              },
-              {
-                "t": "p",
-                "x": "テストは2026年9月8日から15日にかけて実施された。大手小売80社のうち16社がブラウザを拒否した(20%)。中堅小売では80社中十二社が拒否し(15%)、新興小売では40社中一社だった(2.5%)。Saks Fifth Avenue、Bergdorf Goodman、Anthropologie、JD Williamsのスコアはゼロだった。"
-              },
-              {
-                "t": "p",
-                "x": "Blendは拒否した29店舗のうち24店舗のrobots.txtを読み取ることができ、その24店舗はいずれもChatGPT、Perplexity、Claudeの検索クローラーを許可していた。報告書によれば「拒否はボット対策によるもの」である。"
-              },
-              {
-                "t": "p",
-                "x": "Blend Commerceの共同創業者兼CEO、Adam Pearceは「これらの小売業者の多くは、AI企業に対してエージェントを歓迎すると伝えているはずだ。ところが玄関のセキュリティソフトがそれを拒否する」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "テストにはChatGPTやGeminiではなく、Blend独自のエージェントが使われた。「小売業者は名前の分かるAIエージェントを許可しつつ、認識できない自動化を拒否することがある」。稼働中のエージェント決済エンドポイントを持つ小売38社のうち三十七社がShopifyで運営されている。"
+                "x": "Rubail Birwadker, Global Head of Growth de Visa, afirmó que la confianza es clave. El Trust Index de Visa reveló que el 72% de los consumidores de Estados Unidos (US) había usado un asistente de AI, pero solo el 23% confiaba en que la AI gestionara pagos en su nombre. Visa prevé añadir más escenarios y extender las pruebas al checkout, el pago y la realización de pedidos."
               }
             ]
           }

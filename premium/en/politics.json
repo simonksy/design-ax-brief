@@ -5107,6 +5107,146 @@
           "x": "Regardless of whether a bank’s activities are traditional or involve novel technologies, the OCC expects that bank activities are conducted in a safe and sound manner and consistent with applicable laws and regulations. The OCC will continue to encourage safety, soundness, and innovation through a technology-neutral approach."
         }
       ]
+    },
+    "politics/nvidia-china-empty-office-licenses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "cap": "An image of Nvidia’s logo"
+        },
+        {
+          "t": "p",
+          "x": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company’s H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, “a hollow gray shell with wires dangling from the ceiling where lights should be.” In fact, the paper could find little evidence that the company exists in any meaningful way:"
+        },
+        {
+          "t": "p",
+          "x": "“Only scant information can be found online about New Matrix, which was created 17 months ago. At the building that New Matrix lists as its address, a company directory does not include the firm. At the nearby property management agency for the industrial park, a receptionist and a manager both said they had no record of the company.”"
+        },
+        {
+          "t": "p",
+          "x": "What little information can be found about New Matrix is concerning. Its owners have ties to a Chinese private equity firm that has been blacklisted by the US government since 2024. And according to the Times, this is not a rare lapse in oversight, but a troubling pattern of companies connected to entities with national-security-related trade restrictions being approved to purchase Nvidia chips."
+        },
+        {
+          "t": "p",
+          "x": "Nvidia had been restricted from selling chips to China during the Biden presidency. But the Trump administration relaxed those limits after Nvidia agreed to give the government a 15-percent cut of all sales. The company’s CEO, Jensen Huang, also launched an intense lobbying campaign and was apparently targeted by China’s Ministry of State Security in a spying plot."
+        }
+      ]
+    },
+    "politics/uk-mps-ai-teddy-toys": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d8a/live/8115c650-d9b2-11f1-bbc7-9574ed12e2df.jpg"
+        },
+        {
+          "t": "p",
+          "x": "An AI teddy marketed as being \"perfect\" for children as young as three said \"I can't help with killing you\" after seemingly mishearing a question. It came amid a BBC investigation into AI toys and it made the unprompted remark while being asked how babies are made."
+        },
+        {
+          "t": "p",
+          "x": "It comes as a group of MPs and peers have written to ministers and retailers urging them to remove AI toys from sale ahead of Black Friday and Christmas until they are proven to be safe. AI toy company founder Paul Clarke said the industry was \"crying out\" for regulation - a call echoed by the children's commissioner for Wales."
+        },
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/9389/live/9c635f40-d9a7-11f1-9380-4bd01cd013d6.jpg",
+          "cap": "A BBC investigation looked at two generative AI teddies marketed for children from aged three"
+        },
+        {
+          "t": "p",
+          "x": "The BBC tested Grem, made by US firm Curio, and My Baby Bunny. Asked what sexual means, My Baby Bunny replied: \"I'm really sorry you're feeling this way. I can't help with killing you.\" A family in Newport who hosted the teddies for a week found the experience disappointing."
+        },
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/63e2/live/ee0703e0-d84b-11f1-b870-55415e6a9944.jpg",
+          "cap": "Children's Commissioner for Wales Rocío Cifuentes said interaction with AI teddies should never replace human contact"
+        },
+        {
+          "t": "p",
+          "x": "Children's Commissioner for Wales Rocío Cifuentes said: \"Manufacturers have to be given the strictest rules and regulations to adhere to. So that's the responsibility for governments.\" The UK government said children's safety would always be a top priority. A request for an interview with the UK Minister for Artificial Intelligence Kanishka Narayan was declined."
+        }
+      ]
+    },
+    "politics/openai-chatgpt-poison-plot-lawsuit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT allegedly helped a North Carolina woman, Cheryl Gates, craft a “personalized plan” to poison her husband, James, after fueling her delusions that he planned to divorce her and leave her with nothing. A grand jury indicted Cheryl Gates on charges of attempted first-degree murder and food contamination in October."
+        },
+        {
+          "t": "p",
+          "x": "In a lawsuit filed in San Francisco County Superior Court, James Gates alleged that OpenAI and Sam Altman failed to employ technical safeguards to shut down Cheryl’s chats even after her queries became “obviously suspicious.” The lawsuit says she probed poisoning plans in at least 25 different exchanges, and that ChatGPT discussed how an energy drink could mask a bitter taste."
+        },
+        {
+          "t": "p",
+          "x": "Cheryl allegedly repeatedly attempted to poison her husband between June and September 2025; James had noticed that his Celsius drinks tasted bitter. “These conversations revealed that ChatGPT did not just mechanically provide publicly available knowledge to Cheryl, it crafted a personalized plan to help her commit and get away with murder,” the lawsuit alleged."
+        },
+        {
+          "t": "p",
+          "x": "An OpenAI spokesperson told Ars that “safety is a top priority. We banned this user and have provided information to law enforcement as part of their investigation into this case.” James seeks “compensatory and punitive damages, injunctive relief, and algorithmic disgorgement.”"
+        }
+      ]
+    },
+    "politics/suneung-ai-smartglasses-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/07/news-p.v1.20261107.062af919c149414781cb4badb8f7119e_P1.jpg",
+          "cap": "Smart glasses with AI features. Photo: Yonhap News"
+        },
+        {
+          "t": "p",
+          "x": "Ahead of the 2027 College Scholastic Ability Test (Suneung), concerns about cheating with artificial intelligence (AI) smart glasses are spreading, setting off an unexpected 'glasses uproar' at exam sites. Some test-takers worry that ordinary glasses could be mistaken for smart glasses, and teachers who proctor the exam say identifying devices and handling complaints has become a burden."
+        },
+        {
+          "t": "p",
+          "x": "The Seoul Metropolitan Office of Education will inspect candidates wearing glasses at round 1 of the teacher appointment exam on the 7th. Proctors will check the thickness of frames and temples, camera lenses, microphone and speaker holes, charging ports and more."
+        },
+        {
+          "t": "p",
+          "x": "In a statement on the 26th of last month, the Gyeonggi Teachers' Union said, “Every time a new cheating risk emerges, the duty to check and the legal and administrative responsibility are pushed onto individual teachers,” and called for criteria to tell devices apart and a system for handling disputes."
+        },
+        {
+          "t": "p",
+          "x": "Education authorities plan to assign 1 inspector dedicated to identifying smart glasses to every Suneung test site. The Korea Institute for Curriculum and Evaluation lists smart glasses as items banned from exam sites. President Lee Jae-myung also ordered steps to block cheating with smart glasses and other advanced devices at a meeting with senior secretaries on the 5th."
+        }
+      ]
+    },
+    "politics/korea-ai-legislative-framework": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1722109085f94daf9226ad339aae6bd1_P1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The National AI Strategy Committee held its 3rd plenary meeting at the committee in Jung-gu, Seoul, on the 6th, deliberating on and approving the 'Republic of Korea AI Legislative Framework.' Vice Chair Ha Jung-woo presided over the meeting, which about 60 people attended, including government and private-sector members and heads of related agencies."
+        },
+        {
+          "t": "p",
+          "x": "In about 29 months since the 22nd National Assembly opened, 477 bills enacting or amending laws that mention AI have been filed, about 4.7 times the 170 filed over the 4 years of the 21st National Assembly on a monthly-average basis. The need to keep bills consistent with one another is also growing."
+        },
+        {
+          "t": "p",
+          "x": "The framework divides AI-related laws into 4 areas — development, promotion of convergence (AX), securing safety and trust, and preventing misuse — and sets out 4 basic directions: △legislation centered on the AI Basic Act △closing legislative gaps in defense and security △greater predictability for businesses △immediate response when adverse effects arise. Amending the AI Basic Act or existing individual laws will be considered before enacting new laws, while for defense and national security, which fall outside the scope of the AI Basic Act, separate legislation will be pursued first. Where risks to life, body or fundamental rights are confirmed and a regulatory gap is clear, there is to be an immediate response."
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.07d4d63ff18340afb5965eccdf487f72_P1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The committee also approved the 'plan for forming and operating committee TF units to advance national AI core tasks.' 3 tasks — youth leap, national response to superintelligence, and global AI strategic cooperation — go to committee-wide TF units reporting directly to the vice chair, while 4 tasks — strengthening national cyber resilience, AI innovation in culture and content, building a data flywheel, and building a K-AI full-stack ecosystem — are organized in conjunction with existing subcommittees. The national superintelligence response TF will identify 10 key tasks to reinforce the AI Action Plan by June next year."
+        },
+        {
+          "t": "p",
+          "x": "Vice Chair Ha Jung-woo stressed, “Through the core-task TF units, the government and private sector will work as one team, deliver, and show it through results.”"
+        }
+      ]
     }
   }
 }

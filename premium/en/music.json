@@ -10052,6 +10052,131 @@
           "x": "Rheo will even produce a full song on demand from Splice samples and stock instruments, though there's no Suno-style audio generation. Splice says all models were trained on \"fully licensed\" data, while MusicRadar asks whether handing creative control to an AI agent makes music production too easy."
         }
       ]
+    },
+    "music/sampleson-wavefinder-local-search": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "HH2709Zcn8A"
+        },
+        {
+          "t": "p",
+          "x": "Sampleson has introduced Wavefinder, a desktop audio search application designed to help you locate sounds in large sample libraries. Rather than relying on filenames or manually assigned tags, Wavefinder analyzes audio files and ranks them by similarity to a text description or reference recording."
+        },
+        {
+          "t": "p",
+          "x": "The software runs its AI model locally, with no audio uploads or recurring subscription fees. Users can describe a sound in natural language — texture, atmosphere, room sound, or performance gesture — or drag an audio reference into the application to find similar recordings."
+        },
+        {
+          "t": "p",
+          "x": "The index is built and stored locally, including nested folders. Searches are unlimited. Supported formats include WAV, AIFF, AIF, FLAC, OGG, and MP3; it runs standalone on macOS and Windows and as plug-ins for compatible DAWs."
+        },
+        {
+          "t": "p",
+          "x": "Wavefinder is available now for $29.00 USD (introductory price; regularly $49.00 USD, with the launch offer running through November 15, 2026)."
+        }
+      ]
+    },
+    "music/heritage-i73pro-nam-a2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/h/heritage_audio_nam_a2_0-hbH78FIVnEagNT4vjmT0H48ZpPbbIcyU.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Heritage Audio have just launched a firmware update that makes it possible for their i73 Pro audio interfaces to host NAM (Neural Amp Modeler) A2 captures on their internal DSP. Free to all existing owners, the update allows users to track through high-quality emulations of guitar amps, pedals and outboard gear."
+        },
+        {
+          "t": "p",
+          "x": "NAM is an open-source technology that captures real amps, pedals, outboard gear and even full signal chains as neural models. A2, its second-generation architecture released on 2 June 2026, delivers improved sound quality while using fewer computational resources. Users can now host .nam files directly on the i73 Pro’s DSP, tracking through captures without using any CPU resources or incurring any additional latency."
+        },
+        {
+          "t": "p",
+          "x": "“With the built-in loader, an i73 Pro owner can play through any amp, pedal or piece of outboard in the NAM universe, with no plug-in, no extra device and no latency to worry about,” said Peter Rodriguez, Founder, Heritage Audio. The firmware and Mixer application are available now from Heritage Audio’s website."
+        }
+      ]
+    },
+    "music/procraft-instruction-music-edit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Music production typically involves multiple editing operations that each require specialized tools and expertise. ProCraft is a lightweight 0.5B-parameter autoregressive codec language model that edits 30s music excerpts end-to-end from free-form instructions, including compound requests. It supports seven operations across eight instruments, from track removal to accompaniment generation."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2611.07423v1/fig_architecture.svg",
+          "cap": "Figure 1: Architecture of ProCraft."
+        },
+        {
+          "t": "p",
+          "x": "Representation alignment with pretrained music embeddings preserves content outside the edit, and gated cross-attention in every decoder layer keeps generation tied to the instruction. To train on compound requests, the authors introduce On-the-fly Editing-pair Synthesis."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2611.07423v1/fig_data_pipeline.svg",
+          "cap": "Figure 2: On-the-fly editing-pair synthesis."
+        },
+        {
+          "t": "p",
+          "x": "ProCraft outperforms four free-text editors on compound instructions for track removal, extraction and denoising on MoisesDB and Slakh. In a user study (16 listeners), it was rated highest on removal and denoising and on-par with a 16-times larger model on extraction and instrument transfer."
+        }
+      ]
+    },
+    "music/a2o-lite-neon-ai-memes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12958354.webp?imageId=12958354&width=960&height=548&format=jpg",
+          "cap": "AI-generated images of SK Group Chairman Chey Tae-won, left, and Samsung Electronics Executive Chairman Lee Jae-yong dance to girl group A2O Lite's new track \"Neon.\""
+        },
+        {
+          "t": "p",
+          "x": "When the newly debuted girl group A2O Lite’s “Neon” rocked the charts, something else went viral — AI-generated parody videos of the song’s choreography with the members' faces swapped in with public figures, including SK Group Chairman Chey Tae-won and Samsung Electronics Executive Chairman Lee Jae-yong. Listeners had pointed out that the chorus sounds like Korean words for “unmarried” and “divorce.”"
+        },
+        {
+          "t": "p",
+          "x": "An attempt to make a parody video took less than three minutes — and cost nothing. The AI video platform Higgsfield offered a ready-made template with footage from the music video’s opening sequence; within minutes it produced a 15-second parody."
+        },
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12958352.webp?imageId=12958352&width=960&height=740&format=jpg",
+          "cap": "An AI-generated video features cats dancing to girl group A2O Lite's new song \"Neon.\""
+        },
+        {
+          "t": "p",
+          "x": "Most, if not all, of the videos were created without the consent of the people whose faces were used. \"The name of 'parody' can serve as a shield, but not as immunity,\" attorney Hwang Jin-seop of Lawfirm Taeryun said. Agencies of Blackpink's Jennie and Girls' Generation's Yoona have announced legal measures with zero tolerance over deepfake videos."
+        }
+      ]
+    },
+    "music/cubase16-stem-omnivocal": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Steinberg has released Cubase 16, expanding its digital audio workstation with new tools for producers, remixers and musicians. One of the biggest additions is improved stem separation, developed with audio technology company zplane. Cubase can now split a mixed recording into six components: vocals, drums, bass, piano, guitar and other instruments. The previous version supported four."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/b/3/csm_Cubase-16-04_master_291774746e.jpg",
+          "cap": "Cubase 16 music production workflow with electric guitar in a professional recording studio"
+        },
+        {
+          "t": "p",
+          "x": "The update also introduces Instrument Stacks, allowing up to eight virtual instruments to be combined and played from a single track. New MIDI tools can make programmed chords sound more like natural strumming, while redesigned tempo detection and searchable settings aim to speed up everyday production tasks."
+        },
+        {
+          "t": "p",
+          "x": "Yamaha's Omnivocal Basic vocal synthesizer is another notable addition. Using the new Omnivocal NX engine, it generates singing from MIDI notes and lyrics entered directly in Cubase's Key Editor. Basic includes two voice banks, while the separately priced Omnivocal Pro expands the selection to ten and adds vocal stacking for layered performances."
+        },
+        {
+          "t": "p",
+          "x": "Cubase 16 comes in Pro ($599.99 / €599), Artist ($299.99 / €299) and Elements ($99.99 / €99) editions. Omnivocal Basic is included for free, while Omnivocal Pro costs $149.99 separately. Licenses activated on or after October 7, 2026, qualify for a free update."
+        },
+        {
+          "t": "video",
+          "yt": "rUJ8NZDcEoo"
+        }
+      ]
     }
   }
 }

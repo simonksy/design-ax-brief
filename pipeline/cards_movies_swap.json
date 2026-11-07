@@ -1,56 +1,25 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-11-08",
   "section": "movies",
   "cards": [
     {
-      "id": "movies-ai-listers-kilmer",
+      "id": "curiousrefuge-ai-clone-shoot",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI Val Kilmer and Tilly Norwood\nput synthetic stars to the test",
-      "body": "As an AI Val Kilmer stars in a western, experts are split on whether synthetic actors can rival real performers.",
-      "mini_headline": "AI-listers meet real stars",
+      "headline": "An AI clone stands in\nfor the on-camera shoot",
+      "body": "Curious Refuge shows how recorded audio and a reference video can yield on-camera footage without a studio.",
+      "mini_headline": "AI clone replaces the shoot",
       "tool": "Movies",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood",
-      "accent": "#eb367f",
+      "source": "Curious Refuge",
+      "url": "https://www.youtube.com/watch?v=CM1rPwuXw2A",
+      "accent": "#7928ca",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
-          {
-            "t": "img",
-            "src": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&quality=85&auto=format&fit=max&s=b1ca27496def2de12e1099098a3dbabc",
-            "cap": "‘Really, really scary’ … AI actor Tilly Norwood."
-          },
-          {
-            "t": "p",
-            "x": "An AI-created version of the late Val Kilmer, approved by his family, appears in the new western As Deep as the Grave from director Coerte Voorhees, bringing controversy about whether such technology could make flesh-and-blood actors redundant."
-          },
-          {
-            "t": "p",
-            "x": "AI “starlet” Tilly Norwood, whom Emily Blunt described as “really, really scary”, will soon appear in the feature-length film Misaligned."
-          },
-          {
-            "t": "p",
-            "x": "Framestore’s chief creative officer Tim Webber is sceptical: “AI models are trained on the surface of things … To get to the level where it’s a human performance, where there’s genuine emotion involved, is a long way further down.”"
-          },
-          {
-            "t": "p",
-            "x": "Higgsfield AI has released two entirely AI-generated features this year, Hell Grind and The Cully Hill Boys. Content lead Adil Alimzhanov says the tools liberate artists and shortcut Hollywood production; The Cully Hill Boys was assembled in 30-second chunks, each defined in a 4,000-word prompt."
-          },
-          {
-            "t": "img",
-            "src": "https://i.guim.co.uk/img/media/23483265fd1c7220a16680ff9715e1ba686881f0/363_0_1500_1200/master/1500.jpg?width=1225&quality=85&auto=format&fit=max&s=06b876a2db74e96ff2285bb48a7533bb",
-            "cap": "‘You can’t put your finger on it’ … Tye Sheridan in Ready Player One."
-          },
-          {
-            "t": "p",
-            "x": "Wonder Dynamics co-founder Tye Sheridan, Webber and AI film-maker Zack London favour hybrid methods that keep a human performance at the core. “Are they really designed to deliver legendary performances, or are they designed to cut to an average?” asks Sheridan."
-          },
-          {
-            "t": "p",
-            "x": "It is still not clear whether box office demand, and thus a true economic case, for AI cinema exists."
-          }
+          {"t": "video", "yt": "CM1rPwuXw2A"},
+          {"t": "p", "x": "Curious Refuge walks through a realistic AI-clone workflow for video production."},
+          {"t": "p", "x": "The process starts from two inputs: a recorded audio track and a reference video of the presenter. From these, the workflow produces on-camera footage without booking a studio or setting up a shoot."}
         ]
       }
     }

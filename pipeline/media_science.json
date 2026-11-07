@@ -1,7 +1,31 @@
-{"date":"2026-11-07","section":"science","media":[
-{"id":"psi-aaronson-ambainis-proof","type":"image","src":"pipeline/media/psi-aaronson-ambainis-proof.jpg"},
-{"id":"autodna-sjtu-selfdriving-lab","type":"image","src":"pipeline/media/autodna-sjtu-selfdriving-lab.jpg"},
-{"id":"mit-chemeleon-molecule-model","type":"image","src":"pipeline/media/mit-chemeleon-molecule-model.jpg"},
-{"id":"mitomatch-alphafold-mito-screen","type":"image","src":"pipeline/media/mitomatch-alphafold-mito-screen.jpg"},
-{"id":"sydney-riddled-basins-training","type":"image","src":"pipeline/media/sydney-riddled-basins-training.jpg"}
-]}
+{
+  "date": "2026-11-08",
+  "section": "science",
+  "media": [
+    {
+      "id": "science-ucl-reconstruct-everything",
+      "type": "image",
+      "src": "pipeline/media/science-ucl-reconstruct-everything.png"
+    },
+    {
+      "id": "science-chatbot-sycophancy-pushback",
+      "type": "image",
+      "src": "pipeline/media/science-chatbot-sycophancy-pushback.jpg"
+    },
+    {
+      "id": "science-fod-diffusion-brain",
+      "type": "image",
+      "src": "pipeline/media/science-fod-diffusion-brain.jpg"
+    },
+    {
+      "id": "science-ai-overviews-unsupported",
+      "type": "image",
+      "src": "pipeline/media/science-ai-overviews-unsupported.jpg"
+    },
+    {
+      "id": "science-titanium-print-ai",
+      "type": "image",
+      "src": "pipeline/media/science-titanium-print-ai.jpg"
+    }
+  ]
+}

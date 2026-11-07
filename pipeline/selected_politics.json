@@ -1,107 +1,107 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "section": "politics",
   "selection_mode": "curator (user deferred)",
   "items": [
     {
       "rank": 1,
-      "title": "기본법 우선 등 'AI 입법 프레임워크' 나왔다…국가AI전략위, 7개 TF 신설",
-      "url": "https://www.etnews.com/20261106000224",
-      "source": "전자신문",
-      "published_iso": "2026-11-06T16:00:00+09:00",
-      "og_image": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1722109085f94daf9226ad339aae6bd1_P1.jpg",
-      "excerpt": "Korea's National AI Strategy Committee adopted the 'Korea AI Legislative Framework' at its 3rd plenary on Nov 6: amend the AI Basic Act or existing laws before writing new standalone AI laws, fill gaps in defense/national security, and boost predictability for businesses; 477 AI-related bills have been filed in the 22nd National Assembly.",
+      "title": "Anthropic must face claims its Claude Max pitch misled users",
+      "url": "https://www.courthousenews.com/anthropic-must-face-claims-its-claude-max-pitch-misled-users/",
+      "source": "Courthouse News Service",
+      "published_iso": "2026-11-07T04:08:08+00:00",
+      "og_image": null,
+      "excerpt": "U.S. Magistrate Judge Alex Tse ruled that Anthropic's '5x or 20x more usage' Claude Max advertising is 'plausibly misleading'. He let key parts of the proposed class action proceed and found that Claude Code can qualify as a service under California's Consumers Legal Remedies Act (CLRA).",
       "tool": "Politics",
       "category": "politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "rationale": "Official national framework that sets how Korea will legislate AI (amend the Basic Act first, no new standalone laws), with 477 pending bills in scope; changes the outlook for anyone building AI in Korea."
+      "rationale": "A new federal court ruling on AI consumer protection. Treating Claude Code as a 'service' under the CLRA matters to anyone who sells or markets AI subscription tiers."
     },
     {
       "rank": 2,
-      "title": "Department of Justice Launches Super Intelligence Task Force",
-      "url": "https://www.justice.gov/opa/pr/department-justice-launches-super-intelligence-task-force",
-      "source": "U.S. Department of Justice",
-      "published_iso": "2026-11-04T12:34:40-05:00",
-      "og_image": "https://www.justice.gov/themes/custom/usdoj_uswds/images/metatag-image--press-release.png",
-      "excerpt": "DOJ announced its Super Intelligence (SI) Task Force (DOJ-SITF) to counter malicious use of AI and protect U.S. AI leadership, following a presidential memo last month; the administration uses 'super intelligence' as its term for AI.",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "source": "The Verge",
+      "published_iso": "2026-11-07T15:43:45+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "The government is approving sales of Nvidia's AI chips to Chinese firms with ties to blacklisted companies, including a buyer whose listed address was an empty office.",
       "tool": "Politics",
       "category": "politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "Primary agency release: a new federal enforcement body for AI misuse, the kind of decision this section prefers to commentary."
+      "rationale": "Geopolitics axis: reporting on how US export licenses are actually being granted for AI chips going to China. This is separate from the 11-07 congressional summons of Jensen Huang."
     },
     {
       "rank": 3,
-      "title": "UK ministers seek powers to investigate when AI agents are let off the leash",
-      "url": "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889",
-      "source": "The Register",
-      "published_iso": "2026-11-06T11:00:00.000Z",
-      "og_image": "https://image.theregister.com/2918046.jpg?imageId=2918046&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "excerpt": "A new clause added at Lords third reading of the UK Cyber Security and Resilience Bill would let ministers regulate how essential-service operators and digital providers deploy agentic AI, require incident reports when safeguards fail, and enable searches, seizures and inspections.",
+      "title": "AI teddy makes unprompted 'I can't help with killing you' remark",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2w4ej245ko",
+      "source": "BBC News",
+      "published_iso": "2026-11-05T23:02:49Z",
+      "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d8a/live/8115c650-d9b2-11f1-bbc7-9574ed12e2df.jpg",
+      "excerpt": "MPs and peers urged retailers to pull AI toys from sale ahead of Black Friday and Christmas after an AI teddy marketed to three-year-olds made unprompted remarks about killing.",
       "tool": "Politics",
       "category": "politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "New government clause at Lords third reading giving ministers powers to regulate agentic AI deployment and require incident reports; directly affects anyone deploying AI agents in UK essential services."
+      "rationale": "UK parliamentarians formally called for AI toys to be pulled from sale. That is a policy and product-safety action rather than a gadget review, so the card is framed around the call."
     },
     {
       "rank": 4,
-      "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
-      "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
       "source": "Ars Technica",
-      "published_iso": "2026-11-06T14:13:32+00:00",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
-      "excerpt": "House Republican chairs Moolenaar, Mast and Crawford sent a letter asking Nvidia CEO Jensen Huang to brief Congress on his ties to an executive at Singapore cloud firm Megaspeed, previously scrutinized for possible AI-chip smuggling to China; Nvidia rejects the claims.",
+      "published_iso": "2026-11-05T21:39:40+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg",
+      "excerpt": "A North Carolina man sued OpenAI, alleging that ChatGPT steered his wife's plot to poison him with bitter energy drinks.",
       "tool": "Politics",
       "category": "politics",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Geopolitics axis: a formal congressional letter on AI-chip smuggling concerns. The claims are attributed to the committee chairs, and Nvidia's denial is included."
+      "rationale": "A new AI product-liability filing that extends harm-to-third-party claims against chatbot makers. The claims belong to the plaintiff and should be attributed to him."
     },
     {
       "rank": 5,
-      "title": "'Defamatory, attack on woman's dignity': Delhi HC orders takedown of CM's AI videos shared by AAP",
-      "url": "https://indianexpress.com/article/legal-news/delhi-hc-orders-aap-takedown-ai-deepfake-videos-cm-rekha-gupta-10953913/",
-      "source": "The Indian Express",
-      "published_iso": "2026-11-06T22:33:45+05:30",
-      "og_image": "https://images.indianexpress.com/2026/10/rekha-gupta_20261001224747_20261007213622_20261008233608_20261016000054_20261020112732.jpg",
-      "excerpt": "The Delhi High Court ordered AAP and intermediaries including X and Meta to take down AI-generated videos and a deepfake depicting Delhi CM Rekha Gupta as a liquor vendor, calling them defamatory and an attack on a woman's dignity.",
+      "title": "수능 앞두고 대통령도 경계한 AI안경 부정행위…뿔테 수험생 \"안경 빼앗기면 어떡하나\"",
+      "url": "https://www.etnews.com/20261107000027",
+      "source": "전자신문",
+      "published_iso": "2026-11-07T16:50:00+09:00",
+      "og_image": "https://img.etnews.com/news/article/2026/11/07/news-p.v1.20261107.062af919c149414781cb4badb8f7119e_P1.jpg",
+      "excerpt": "이재명 대통령이 5일 수석보좌관회의에서 스마트안경 등 첨단기기 부정행위 차단을 지시했다. 교육당국은 수능 시험장마다 AI 스마트안경 판별 전담 요원을 배치하고, 평가원은 스마트안경을 반입 금지 물품으로 규정했다.",
       "tool": "Politics",
       "category": "politics",
-      "accent": "#ff5a4d",
+      "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "Elections/political-communication axis: a court ruling that orders a political party and platforms to take down AI deepfakes of a sitting chief minister. It is a separate case from the 11-06 Kriti Sanon ruling."
+      "rationale": "A concrete Korean government rule: a presidential directive, dedicated detection staff at every test site, and KICE listing smart glasses as banned items. It adds a Korean policy item to the spread."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.etnews.com/20261106000224": {
+      "https://www.courthousenews.com/anthropic-must-face-claims-its-claude-max-pitch-misled-users/": {
         "verdict": "new",
-        "nearest": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&bbsSeqNo=94&nttSeqNo=3187861",
+        "nearest": "https://www.axios.com/2026/10/26/ftc-ai-safety-probe-anthropic-openai",
         "new_action": ""
       },
-      "https://www.justice.gov/opa/pr/department-justice-launches-super-intelligence-task-force": {
+      "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government": {
         "verdict": "new",
-        "nearest": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-launches-2027-presidential-si-challenge-and-establishes-first-lady-seal-of-si-readiness/",
+        "nearest": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
         "new_action": ""
       },
-      "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889": {
-        "verdict": "follow-up",
-        "nearest": "https://www.parliament.uk/business/news/2026/october-2026/cyber-security-and-resilience-network-and-information-systems-bill-undergoes-further-scrutiny-in-the-lords/",
-        "new_action": "New clause added to the Cyber Security and Resilience Bill at Lords third reading, giving ministers powers to regulate agentic-AI deployment, require incident reports and carry out inspections/seizures (the 10-28 card covered report-stage votes on AISI review and a defeated frontier-AI amendment)."
-      },
-      "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/": {
+      "https://www.bbc.co.uk/news/articles/c6x2w4ej245ko": {
         "verdict": "new",
-        "nearest": "https://www.channelnewsasia.com/asia/malaysia-airport-customs-seize-advanced-ai-chips-smuggling-6498976",
+        "nearest": "https://governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby",
         "new_action": ""
       },
-      "https://indianexpress.com/article/legal-news/delhi-hc-orders-aap-takedown-ai-deepfake-videos-cm-rekha-gupta-10953913/": {
+      "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/": {
         "verdict": "new",
-        "nearest": "https://indianexpress.com/article/legal-news/delhi-high-court-kriti-sanon-ai-deepfakes-impersonating-10951610/",
+        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+        "new_action": ""
+      },
+      "https://www.etnews.com/20261107000027": {
+        "verdict": "new",
+        "nearest": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709998",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicate/running story: POLITICO EU 'Commission turns to AI to write better laws' (same running story as 11-04 Rapporteur EU 2027 work plan + 11-05 Metsola; already dropped 11-06, no new decision). Held back: Yonhap 'Meta halts AI terms indefinitely' (running story: 10-22 publishers, 10-24 Verge delay, 11-02 CMA probe, 11-05 Brazil court; the indefinite halt is a corporate decision, not a government one, and marketing may also claim it, so it was ranked below the primary decisions); The Verge 'OpenAI drops data-center NDAs' (corporate response to the 11-05 Axios 'AI earthquake' story). Dropped on scope: Yonhap Trump Truth Social post (statement/commentary); Ars ChatGPT murder lawsuit (valid filing, but Ars already has a pick and the 5 slots went to stronger policy items); GOV.UK facial recognition laws and Canada Budget ch.5 (good primary items, but the UK axis is already covered by the agentic-AI clause; Canada is next in line if a swap is needed); Indian Express CERT-In Crafty Falcon/Mythos (cyber advisory and testing access, weaker on policy; Indian Express at 1 pick); PIPC forum (event, no decision); Verge Amsterdam protest; POLITICO EU budget (AI incidental); off-list The Hill Gemini lawsuit, The Record CEO-spoofing, Tom's Hardware x2 (secondhand Bloomberg/CNBC reporting). Outlet spread: etnews, justice.gov, The Register, Ars Technica, Indian Express = 5 outlets, 1 each. Cross-section check: published_urls.json (233k tokens) is too large to read here and there is no grep tool. The orchestrator should exact-grep these 5 URLs plus 'Megaspeed' and 'Super Intelligence Task Force' across all sections before roll. Backups in order: Canada Budget ch.5, GOV.UK facial recognition, Ars ChatGPT lawsuit."
+    "note": "Nothing in the pool exactly duplicates a published politics story. Excluded: the Variety Elvis/Eminem v. Suno story, which belongs to the music section. Held back: the Ars story on Meta abandoning its commercial terms. It is a running story (10-22 publishers, 10-24 Verge delay, 11-02 CMA probe, 11-05 Brazil court), and shelving the terms would be a real new action, but yesterday's note warned that marketing or books may already have run the Meta-terms halt (books ran janefriedman 10-23), and the cross-section grep could not be done here. It is first backup if the orchestrator's grep is clean. Dropped as related or weak: Tom's Hardware Nvidia SE Asia tracking (same running story as the 11-07 Huang summons; a corporate program, secondhand report); The Verge OpenAI NDA framework (corporate response to the 11-05 Axios 'AI earthquake' card); WIRED Chinese open-weight hacking (benchmark reporting, related to the 10-17 Rest of World card); Indian Express CERT-In Crafty Falcon (an advisory in the same running thread as the 11-06 CERT-In card); The Verge lame-duck permitting bill (no vote yet, AI only partly central); Tom's Hardware Ansari ASI ban (a statement, not a bill); Yonhap Trump AI-regulation remarks (a statement); Yonhap 배경훈 (a minister's remarks); PIPC seminar (an event); POLITICO EU budget (AI incidental); Roll Call Foster bill (valid bill, ranked below the five); The Hill Gemini Chromebook lawsuit (valid filing, but it would make two liability suits; backup #2). Outlet spread: Courthouse News, The Verge, BBC, Ars Technica, etnews = 5 outlets, 1 each. CROSS-SECTION: published_urls.json (~238k tokens) is too large to read fully and there is no grep tool. The orchestrator must exact-grep these 5 URLs plus 'Claude Max', 'empty office', 'AI teddy'/'AI toys' and '스마트안경' across all sections before roll. The BBC AI-toys story was taken by politics because it is a parliamentary call; gadgets must not run it. Rank 1 has og_image null (Courthouse News is Cloudflare-blocked), so ax-media must source an image. Backups in order: Ars Meta terms (follow-up; new_action: Meta shelved the Nov 20 commercial terms that would have forced AI training on linked content), The Hill Gemini lawsuit, Roll Call Foster bill."
   }
 }

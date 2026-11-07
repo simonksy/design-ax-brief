@@ -3801,6 +3801,118 @@
           "x": "On ChatGPT, apparel led with 90,517 placements, then Consumer Electronics with 56,569, Travel with 48,134, Toys and Games with 4,694 and Beauty with 4,575. In beauty, 83% of ads ran on research and discovery queries; apparel and consumer electronics came in under half, at 48% and 42%. The report does not track clicks, spend or conversions, and its data ends in September, before Black Friday."
         }
       ]
+    },
+    "marketing/jet-jetads-retail-media": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Just Eat Takeaway.com (JET) announced the launch of JETads, a new advertising platform for European advertisers, with reach across 59 million active consumers, 592 million orders per year and more than 342,000 partners in 14 markets. It is live across all of them from today."
+        },
+        {
+          "t": "img",
+          "src": "https://d21buns5ku92am.cloudfront.net/69466/images/714382-image_20261104135837_alq-494b13-original-1793801006.png"
+        },
+        {
+          "t": "p",
+          "x": "JETads builds on JET's personalisation technology, which analyses billions of interactions between consumers and partners. It serves three advertiser groups: restaurant and grocery partners get premium visibility in search and browse; FMCG brands reach shoppers as they build baskets, with closed-loop reporting that connects spend to basket adds and completed orders; and non-endemic brands reach customers in the post-checkout window, while they follow their orders for up to 30 minutes."
+        },
+        {
+          "t": "p",
+          "x": "\"We built JETads from scratch, for the AI era,\" said David Vismans, Chief Growth Officer. JETads uses the Prosus Large Commerce Model (LCM), a commerce AI developed by JET's parent group Prosus, which learns from real customer behaviour to surface what a customer is likely to want at the moment they are likely to want it — such as different restaurants on a Friday night than on a Tuesday lunchtime."
+        }
+      ]
+    },
+    "marketing/kakao-ai-crew-ad-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.hankyung.com/photo/202611/ZK.46317333.1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Kakao will begin a closed beta test next month of 'AI Crew,' an artificial intelligence (AI) agent that supports advertisers in running and managing their ads. The company said it is pushing ahead in earnest with plans to monetize AI advertising."
+        },
+        {
+          "t": "p",
+          "x": "Kakao CEO Shina Chung said on the Q3 earnings conference call on the 5th, \"Next month, we plan to begin a closed beta test of AI Crew, an AI agent that supports advertisers in running and managing their ads.\""
+        },
+        {
+          "t": "p",
+          "x": "AI Crew is a service in which advertisers enter their business goals into a conversational interface and AI proposes suitable ad products and operating strategies. The plan is to win more advertisers through a service in which AI supports everything from ad product recommendations to setup and performance analysis. Kakao expects that once its AI ad services take hold, they will help expand revenue."
+        },
+        {
+          "t": "p",
+          "x": "\"We will make it easier and more efficient for small and mid-sized advertisers who are unfamiliar with running ads to place them,\" Chung explained, adding, \"We also aim to raise operating efficiency for existing advertisers, driving the inflow of new advertisers and expanded ad spending.\""
+        },
+        {
+          "t": "p",
+          "x": "Kakao will also upgrade its AI ad recommendation technology. It plans to build, by Q1 next year, a shared memory infrastructure that lets AI understand and use users' behavior, preferences and experiences. It will also improve its existing machine learning-based recommendation and targeting technology. \"From next year, we will show how AI-driven gains in ad efficiency and new monetization opportunities translate into real revenue growth,\" Chung said."
+        }
+      ]
+    },
+    "marketing/swivel-ctv-agentic-infra": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/tv-remote-stock-square-1-1024x1024.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Swivel is a publisher tech startup founded by the former FreeWheeler Frans Vermeulen and SpringServe co-founders Matt Dearborn, Rich Lin and Joseph Hirsch. It aims to automate the manual tasks in publisher ad operations, from campaign optimization to pricing adjustments — an “end-to-end system” of agents, Hirsch said, with the eventual goal of an agentic infrastructure that spans the CTV advertising chain."
+        },
+        {
+          "t": "p",
+          "x": "Rather than a single consolidated product, Swivel has multiple agents each responsible for parts of a campaign buy, such as budgeting, bid trafficking, pacing, yield management and post-campaign reporting. Many publishers use one or two agents “so as not to disrupt their entire ad ops workflow.”"
+        },
+        {
+          "t": "p",
+          "x": "To address fragmentation, Hirsch pointed to the Ad Context Protocol (AdCP), whose adagents.json specification lets publishers declare which agents are authorized to sell their inventory. Agentic buying can also automate sales of formats hard to buy programmatically, such as sponsorships, home screen ads, pause ads and sequential media. Swivel's focus is still 100% CTV, but it intends to expand into retail media."
+        }
+      ]
+    },
+    "marketing/visa-agentic-commerce-benchmark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.thepaypers.com/news%20team/225-visa.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Visa has launched the Visa Agentic Commerce Benchmark, finding that 22 AI models passed 57.2% of realistic shopping tests overall. Models must identify a consumer's needs through conversation and decide not to buy if no product meets the requirements. The first round tested 22 models from 12 AI labs on 15 shopping tasks, including buying a TV, a laptop, and a personal care appliance."
+        },
+        {
+          "t": "p",
+          "x": "The best-performing models passed 82.2% of attempts, while the weakest passed 28.9%. The five models that uncovered the most hidden buying requirements averaged a 70.2% pass rate, compared with 44.4% for the five that uncovered the fewest. All three attempts at a scenario passed only 34.2% of the time, and in 54% of failed runs the AI still made a purchase."
+        },
+        {
+          "t": "p",
+          "x": "Rubail Birwadker, Global Head of Growth at Visa, said trust is key. Visa's Trust Index found 72% of US consumers had used an AI assistant, but only 23% trusted AI to handle payments on their behalf. Visa plans to add more scenarios and extend testing to checkout, payment, and order placement."
+        }
+      ]
+    },
+    "marketing/amazon-agent-sponsored-text": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/Amazon-ads.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Amazon’s shopping agent now takes orders by text message and the thread where those orders get placed will carry ads. Sponsored Products are set to appear inside those conversations, free to advertisers for the time being. Purchases the agent completes on its own will stay ad-free."
+        },
+        {
+          "t": "p",
+          "x": "The texting option went live today for a small, invite-only group of U.S. customers, and Amazon plans to open it to millions more over the coming weeks. Customers link a phone number and get a new contact called “Alexa Shopping,” which searches, compares options, texts back suggestions, and checks out when told to; auto-buy lets the agent purchase when a price hits a target."
+        },
+        {
+          "t": "p",
+          "x": "The ad opportunity sits in the discovery stage: when the agent texts back a set of options, a Sponsored Product can be one of them. More than 400 million customers have used Alexa for Shopping in the past 12 months, according to Amazon, and use of its agentic features has grown more than eightfold since January."
+        },
+        {
+          "t": "p",
+          "x": "“As agentic commerce meets advertising, the definition of an impression is critical as well as the reporting and measurement,” said independent ad tech consultant Jonathan D’Sousa-Rauto. Requests carry across the Amazon Shopping app, the site and Alexa-enabled devices, and through Shop Direct the agent can also buy from stores beyond Amazon."
+        }
+      ]
     }
   }
 }

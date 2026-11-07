@@ -11215,6 +11215,164 @@
           "x": "Figmaエージェントは新たに次のことができる。スタイル参照を使ってベクターのイラストやアイコンを生成する。線画にストロークを用い、太さや線端を調整できるようにする。生成したベクターを意味のあるレイヤーにまとめ、反復作業をしやすくする。"
         }
       ]
+    },
+    "design/vercel-json-render-chat": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "json-renderを使えば、Chat SDKのエージェントから生成UIをストリーミングできるようになった。"
+        },
+        {
+          "t": "p",
+          "x": "型付きのコンポーネントカタログをもとにエージェントがJSONスペックを書き、json-renderがそれをChat SDKカードに変換する。各アダプターはそのカードを、SlackならBlock Kit、TeamsならAdaptive Cardsといった各プラットフォームのネイティブ形式で投稿する。"
+        },
+        {
+          "t": "p",
+          "x": "カタログは表、チャート、ボタンなどを網羅しており、メッセージの形ごとに別のツールを作って保守する必要はない。"
+        },
+        {
+          "t": "video",
+          "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6S2Z82rxxVRa8ZUwSN0ZEN/b4093a11584a8a2c186fb766afd8fd6a/slack-block-stream-light__1_.mp4"
+        },
+        {
+          "t": "p",
+          "x": "モデルの書き込みに合わせてカードをストリーミングする:streamCardはルート要素に内容が入った時点でカードを投稿し、新しい要素が流れ込むたびにメッセージを更新する。編集の送信はデフォルトで最大500 msに一度で、Chat SDKのストリーミング間隔と一致する。ストリームが終わると、メッセージには検証済みの最終カードが表示される。"
+        },
+        {
+          "t": "p",
+          "x": "スペックの検証とプラットフォーム制限の適用:toCardはすべての要素のpropsをコンポーネントスキーマと照合し、不正なスペックにはCardSpecErrorを投げる。問題ごとに読みやすいissueが個別に生成されるため、その一覧をモデルに返して修正済みのスペックを得られる。"
+        },
+        {
+          "t": "p",
+          "x": "プラットフォームには一件のメッセージに収められる量の上限があり、Chat SDKのアダプターは上限を超えた内容を劣化させる。たとえばSlackアダプターは二つ目の表をコードブロックに変える。代わりにlimitsを渡せば、そうしたスペックを拒否できる。"
+        }
+      ]
+    },
+    "design/autodesk-flame-2027-normals": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "2026年11月7日更新:AutodeskがFlame 2027.2をリリースした。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261107_Flame20272_AINormal.jpg"
+        },
+        {
+          "t": "p",
+          "x": "かなり大きなアップデートで、新機能には、リライティングやショットへのエフェクト適用に使える、映像からノーマルマップを生成する新しい機械学習モデルが含まれる。FlameにはすでにAIノーマルマップ生成機能があったが、人の顔専用だった。新モデルはMatchboxシェーダー、Selectiveオブジェクト、Normal Mapオブジェクトで利用できる。"
+        },
+        {
+          "t": "p",
+          "x": "Flameの3Dコンポジット環境であるActionに、USDシーンを読み込めるようにもなった。USDのジオメトリ、マテリアル、ライト、カメラに対応し、USDZファイルを含むすべてのUSD拡張子(.usd、.usda、.usdc、.usdz)をサポートする。"
+        },
+        {
+          "t": "p",
+          "x": "Actionではほかに、新しい3D Primitiveノードと、すべてのOpenSubdivスキームへの対応が加わった。パイプライン統合では、Python HooksでBatchのセットアップを制御するオプションと、シーケンスをOpenTimelineIO形式でパブリッシュするオプションが追加された。"
+        },
+        {
+          "t": "p",
+          "x": "これに先立ち、Flame 2027ではAnnotationsシステム、映像から深度マップを生成する二つの新AIモデル(ML Depth IndoorとML Depth Outdoor)、Autodesk Assistant、OpenTimelineIO対応が導入され、Flame 2027.1ではIsolateツールとProRes RAW対応が加わった。"
+        },
+        {
+          "t": "p",
+          "x": "Flameのサブスクリプションは月額$650または年額$5,215だ。Flame AssistとFlareのサブスクリプションは年額$2,775だ。"
+        }
+      ]
+    },
+    "design/ironcad-2027-ai-scripting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/IronCAD-2027-update-adds-design-automation-tools.png"
+        },
+        {
+          "t": "p",
+          "x": "IronCADはIronCAD 2027 Product Update 1の提供開始を発表した。今回のリリースでは、産業機器・機械設計、金属加工、機械エンジニアリングのチーム向けに、AI-assistedの設計自動化、板金ワークフロー、配管、製図、フィーチャー認識、ファイル相互運用性が更新された。"
+        },
+        {
+          "t": "p",
+          "x": "AI Design Assistantの改善:AI Design AssistantがAI-assistedのスクリプト生成に新たに対応した。ユーザーは自然言語のプロンプトでスクリプトを生成し、繰り返しのモデリング作業を自動化したり、メタデータ、パラメーター、材料、Smart Attachmentsを含むカタログデータから部品を構成したり、設計自動化ワークフローを支えたりできる。"
+        },
+        {
+          "t": "p",
+          "x": "曲げ、穴、エッジのラウンドの組み合わせを含む板金フィーチャーをカタログにドラッグし、ほかのプロジェクトで再利用できる。配管コマンドはスプライン経路を使ったフレキシブルパイプに対応し、インポートしたモデルを編集可能なIronCADフィーチャーへより速く変換できるようになった。"
+        },
+        {
+          "t": "p",
+          "x": "Native CAD Translator Add-onは、CATIA V5、Creo、NX、Inventor、SolidWorks、Solid Edgeなど主要フォーマットの最新バージョンに対応した。"
+        },
+        {
+          "t": "p",
+          "x": "IronCAD 2027 Product Update 1は、対象となるIronCAD Design Collaboration Suiteユーザーであれば、IronCAD Live UpdateまたはIronCADのウェブサイトからのダウンロードで入手できる。"
+        }
+      ]
+    },
+    "design/uxc-ai-ui-emotional-context": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AIツールにタスク完了画面のデザインを頼んだとしよう。結果にはチェックマーク、親しみやすいメッセージ、小さな紙吹雪が並ぶ。コンポーネントは正しい。余白はシステムどおりだ。アニメーションも洗練されている。"
+        },
+        {
+          "t": "p",
+          "x": "一方のタスクでは、ある人が何か月も立ち上げに取り組んできた事業の設定をようやく終えた。もう一方では、管理者がその朝四十七件目のレコードを更新した。コンポーネントは一貫している。だが体験はおそらく別物であるべきだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*3TA1JRp7-caokhilM29rqQ.jpeg",
+          "cap": "場面が違えば、ふさわしい労いの度合いも違う。画像クレジット:Kudzai Chinyadza, Celebratory Success States."
+        },
+        {
+          "t": "p",
+          "x": "だが、システムを忠実に再現しても、感情的には不適切な応答になりうる。成功メッセージは正確でありながら、相手を見下したものにもなりうる。"
+        },
+        {
+          "t": "p",
+          "x": "Mailchimpのボイスは一貫して見分けがつく一方、トーンは読み手の状況に応じて変わる。「親しみやすく遊び心のある感じに」では多くが曖昧なまま残る。AIへのより有用な指示とは、状況を描写するものだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*-XcYBSSqvdEFnphJb5HiLw.jpeg",
+          "cap": "クレジット:Asana"
+        },
+        {
+          "t": "p",
+          "x": "Asanaのお祝い演出は、同じディテールがある人には歓迎され、別の人には疎まれうることを示している。AIは表現の選択肢を探る助けにはなるが、選択肢を生み出すことと、それがいつ歓迎されるかを見極めることは別の種類の仕事だ。"
+        },
+        {
+          "t": "p",
+          "x": "AIは両方の応答を生成できる。それでも、場面が違うと気づくのは私たちの役目だ。"
+        }
+      ]
+    },
+    "design/cursor-live-apps-hosting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/changelog/opengraph-changelog-11-05-26.png"
+        },
+        {
+          "t": "p",
+          "x": "エージェントによってコードを書くコストは下がったが、ユーザーが作るアプリやツールの多くはlocalhostの外に出ることがない。今後はCursorの中で直接ライブアプリを構築し、リンクで共有できる。作りたいものを説明すれば、アプリの構築、データベースのセットアップ、認証の設定、デプロイまで、残りはCursorが引き受ける。"
+        },
+        {
+          "t": "video",
+          "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/Cursor_PublishApps_15.mp4"
+        },
+        {
+          "t": "p",
+          "x": "始めるには、クラウドエージェントを起動し、アプリを作りたいと明示的に伝える。Cursorはウェブアプリの雛形を作り、必要に応じてPostgresデータベースを立ち上げ、Cursor SSOによる認証を設定し、ホスティングを用意する。公開時に固有のドメインを選ぶと、Cursorがライブリンクを返す。"
+        },
+        {
+          "t": "p",
+          "x": "Cursor社内では、営業、オペレーション、法務、財務、エンジニアリングにわたるユーザーが、運用ツールや顧客向けプレゼンテーションからオンボーディング体験、リアルタイムの営業ダッシュボードまで、社内アプリを構築している。"
+        },
+        {
+          "t": "p",
+          "x": "公開時には、Cursorが決定論的なチェックとエージェントによるセキュリティチェックを実行し、アプリファイルに書かれたシークレットや露出した認証情報といった一般的な問題を検出する。チェックを通過し、ユーザーが明示的に公開するまで、何も公開されない。チーム管理者はチーム内のすべてのアプリとシークレットを確認できる。この機能は、クラウドエージェントが有効なすべての有料プランで利用できる。"
+        }
+      ]
     }
   }
 }

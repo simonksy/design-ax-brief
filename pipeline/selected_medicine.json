@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "section": "medicine",
   "items": [
     {
-      "title": "A gait foundation model for prediction of multisystem health phenotypes from 3D skeletal motion",
+      "title": "Performance of artificial intelligence versus clinician left-ventricular segmentation of cardiac MRI for mortality prediction: a retrospective, multicentre, prognostic study",
       "tool": "Medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "url": "https://www.nature.com/articles/s41591-026-04724-9",
-      "source": "Nature Medicine",
-      "published_iso": "2026-11-06T00:00:00Z",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig1_HTML.png",
-      "excerpt": "Foundation model trained on 3D skeletal motion from 3,328 adults predicts cardiometabolic, mental-health and frailty diagnoses and clinical characteristics from gait.",
+      "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00065-8/fulltext",
+      "source": "The Lancet Digital Health",
+      "published_iso": "2026-11-02T23:32:43Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-scan.jpg",
+      "excerpt": "In 27,382 UK and US patients followed for more than five years (3,458 deaths), AI-derived ejection fraction from cardiac MRI predicted mortality slightly but significantly better than clinician measurements; the AI analysed each scan in about 2-3 seconds versus roughly 13 minutes for an expert (City St George's / UCL).",
       "category": "medicine",
-      "rationale": "Nature Medicine: a walking-gait foundation model reads cardiometabolic, mental-health and frailty diagnoses from 3D motion, opening a low-cost, non-invasive screening signal."
+      "rationale": "Head-to-head in 27k patients: AI cardiac-MRI ejection fraction predicts death at least as well as clinicians in seconds instead of ~13 minutes, a direct case for automating LV segmentation."
     },
     {
-      "title": "FDA clears AI-powered intravascular ultrasound imaging platform",
+      "title": "AI-Identified Reasons for Nonescalation of Lipid-Lowering Therapy for Secondary Prevention",
       "tool": "Medicine",
       "accent": "#0070f3",
       "motif": "sphere",
-      "url": "https://radiologybusiness.com/topics/medical-imaging/interventional-radiology/fda-clears-ai-powered-intravascular-ultrasound-imaging-platform",
-      "source": "Radiology Business",
-      "published_iso": "2026-11-06T07:14:14Z",
-      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2020-01/carestream_3.jpg?h=84d12988&itok=A6p-gaLn",
-      "excerpt": "FDA cleared Evident Vascular's Guidance System and peripheral IVUS catheters, which integrate 'purpose-built AI' and NVIDIA-accelerated real-time processing for peripheral vascular procedures; the company plans further AI capabilities.",
+      "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2856385",
+      "source": "JAMA Cardiology",
+      "published_iso": "2026-11-07T16:30:17Z",
+      "og_image": null,
+      "excerpt": "Large language models read clinical notes for 28,113 patients with ASCVD: among 13,810 with above-goal LDL-C, therapy was not escalated in 88.7% of relevant notes, and 40.4% of those documented a reason, most often patient-reported adverse effects (12.6%), LDL-C near goal (6.9%) and patient preference (6.8%).",
       "category": "medicine",
-      "rationale": "Regulatory clearance: an AI-integrated IVUS system for peripheral vascular procedures is now cleared for use in the cath/IR lab."
+      "rationale": "LLMs mined 28k ASCVD charts to show why statin/lipid therapy goes unescalated, turning free-text notes into a measurable care-gap audit."
     },
     {
-      "title": "Artificial Intelligence Scribes and Same-Day Note Closure by Patient Language Preference and Interpreter Modality",
+      "title": "Commercial multimodal large language models show systematic model-specific errors in breast cancer pathology reporting: a paired concordance study",
       "tool": "Medicine",
       "accent": "#7928ca",
       "motif": "sphere",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.42403",
-      "source": "JAMA Network Open",
-      "published_iso": "2026-11-06T16:30:25Z",
+      "url": "https://breast-cancer-research.biomedcentral.com/articles/10.1186/s13058-026-02413-6",
+      "source": "Breast Cancer Research",
+      "published_iso": "2026-11-04T16:36:44Z",
       "og_image": null,
-      "excerpt": "Brigham and Women's cross-sectional study of 209,009 primary-care encounters (286 clinicians, 14 clinics): AI scribes raised same-day note closure most for non-English-language-preference visits with a language-concordant clinician (+10.2 points adjusted vs +1.7 for English); interpreter-mediated visits inconclusive. Date per Crossref created.",
+      "excerpt": "Claude Sonnet 4.6, Gemini 2.5 Pro and GPT-5.5 were each given 16 H&E tiles per case for 427 invasive breast cancers and compared against a board-certified breast pathologist on Nottingham grade and receptor-defined subtype; each model showed systematic, model-specific errors.",
       "category": "medicine",
-      "rationale": "Equity angle on ambient scribes: across 209k visits the biggest documentation gain came in non-English visits with a language-concordant clinician, while interpreter visits stayed unclear."
+      "rationale": "Patient-safety check on general chatbots in pathology: three frontier MLLMs each mis-grade and mis-subtype breast cancers in their own systematic way across 427 cases."
     },
     {
-      "title": "Stroke recovery tracked with wearable device",
+      "title": "FDA clears Deep Reasoning AI's neurovascular CTA software",
+      "tool": "Medicine",
+      "accent": "#ff5a4d",
+      "motif": "sphere",
+      "url": "https://www.auntminnie.com/clinical-news/ct/news/16050236/fda-clears-deep-reasoning-ais-neurovascular-cta-software",
+      "source": "AuntMinnie",
+      "published_iso": "2026-10-28T18:48:41Z",
+      "og_image": null,
+      "excerpt": "Deep Reasoning AI received FDA 510(k) clearance for NeuroDR, which runs automatically after a head-and-neck CTA, removes bone, soft tissue and veins, and sends 3D vessel reconstructions to PACS.",
+      "category": "medicine",
+      "rationale": "Regulatory clearance: a 510(k)-cleared tool auto-builds bone-free 3D neurovascular reconstructions from head-and-neck CTA straight into PACS."
+    },
+    {
+      "title": "AI-powered urine test distinguishes bladder disorders with up to 92% accuracy",
       "tool": "Medicine",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "url": "https://www.nih.gov/news-events/nih-research-matters/stroke-recovery-tracked-wearable-device",
-      "source": "NIH Research Matters",
-      "published_iso": "2026-11-05T12:00:00Z",
-      "og_image": "https://www.nih.gov/sites/default/files/2026-11/20261105-stroke.jpg",
-      "excerpt": "NIH-funded UMass team used machine learning on wrist accelerometer data from 61 stroke patients to build a digital arm performance scale (DAPS) that tracked arm recovery as well as clinical tests (Science Translational Medicine).",
+      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33718",
+      "source": "Korea Biomedical Review",
+      "published_iso": "2026-11-03T16:57:05+09:00",
+      "og_image": "https://cdn.koreabiomed.com/news/thumbnail/202611/33718_36861_5520_v150.jpg",
+      "excerpt": "Asan Medical Center researchers developed an AI urine-testing technique that distinguishes interstitial cystitis, overactive bladder and healthy individuals with up to 92% accuracy, helping separate conditions with overlapping symptoms.",
       "category": "medicine",
-      "rationale": "Rehab monitoring: an ML scale built from a wrist accelerometer tracked stroke patients' arm recovery as well as in-clinic tests, pointing to at-home outcome tracking."
-    },
-    {
-      "title": "Deep-learning model predicts mortality from CTA scans",
-      "tool": "Medicine",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "url": "https://www.auntminnie.com/clinical-news/ct/article/16424554/deeplearning-model-predicts-mortality-from-cta-scans",
-      "source": "AuntMinnie",
-      "published_iso": "2026-11-06T19:29:57Z",
-      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/cac-ai-model.5zit2QCAiF.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
-      "excerpt": "Cedars-Sinai-led multicenter study (1,674 TAVR-planning patients, 9 sites, JACC: Cardiovascular Imaging) shows a deep-learning model quantifies aortic valve fibrotic and calcific tissue on CTA in 1.35 min vs 7.2 min for experts; highest fibrotic volume carried 2x mortality risk.",
-      "category": "medicine",
-      "rationale": "TAVR planning: deep learning quantifies valve fibrosis and calcium on pre-procedure CTA about 5x faster than experts, and the fibrotic burden it measures predicts mortality."
+      "rationale": "Non-invasive diagnosis: Asan Medical Center's AI urine test separates interstitial cystitis from overactive bladder, two conditions patients often wait years to tell apart."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.nature.com/articles/s41591-026-04724-9": {
+      "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00065-8/fulltext": {
+        "verdict": "new",
+        "nearest": "https://www.auntminnie.com/clinical-news/ct/article/16424554/deeplearning-model-predicts-mortality-from-cta-scans",
+        "new_action": ""
+      },
+      "https://jamanetwork.com/journals/jamacardiology/fullarticle/2856385": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://radiologybusiness.com/topics/medical-imaging/interventional-radiology/fda-clears-ai-powered-intravascular-ultrasound-imaging-platform": {
+      "https://breast-cancer-research.biomedcentral.com/articles/10.1186/s13058-026-02413-6": {
         "verdict": "new",
-        "nearest": "https://cardiovascularbusiness.com/topics/artificial-intelligence/fda-clears-elucids-new-ai-enabled-ffr-ct-software",
+        "nearest": "https://radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-checks-trustworthiness-breast-cancer-ai-models",
         "new_action": ""
       },
-      "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.42403": {
+      "https://www.auntminnie.com/clinical-news/ct/news/16050236/fda-clears-deep-reasoning-ais-neurovascular-cta-software": {
         "verdict": "new",
-        "nearest": "https://www.medpagetoday.com/practicemanagement/informationtechnology/123591",
+        "nearest": "https://www.auntminnie.com/clinical-news/ct/news/15975406/coreline-soft-coreline-soft-secures-fda-clearance-for-aortic-ct-software",
         "new_action": ""
       },
-      "https://www.nih.gov/news-events/nih-research-matters/stroke-recovery-tracked-wearable-device": {
+      "https://www.koreabiomed.com/news/articleView.html?idxno=33718": {
         "verdict": "new",
-        "nearest": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
-        "new_action": ""
-      },
-      "https://www.auntminnie.com/clinical-news/ct/article/16424554/deeplearning-model-predicts-mortality-from-cta-scans": {
-        "verdict": "new",
-        "nearest": "https://www.nature.com/articles/s41746-026-03392-w",
+        "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates or running stories: Medigate 'Lunit SITC with Labcorp/Cellcarta' (same SITC ovarian/bladder Lunit SCOPE IO presentations already published via Dailypharm 343389 on 2026-10-20, no new release); Healthcare Dive 'How should the FDA regulate generative AI in medtech? 5 takes' (same FDA genAI docket-comment story as Healthcare Dive 2026-10-23, commentary only; also dropped 11-06); MedCity '7 Potential Problems with Medicare's AI Prior Authorization Experiment' (WISeR running story, JAMA 2026-10-30; commentary on documents, no new CMS decision; also dropped 11-06). Not picked on merit: Healthcare Dive patient human-in-loop survey (close to 2026-10-18 JAMA public-perception item), JAMA Pediatrics parent comfort survey, Stanford SpatialWhisperer (pathology cell-type inference, close to science/biology and to 10-12 pancreatic histopathology item), Dailypharm pathology-AI reimbursement analysis, Medigate Dongtan City Hospital home-care talk, npj HFpEF risk model, npj RETBind. History_match picks: JAMA scribes study is a different study (language/interpreter equity, Brigham) from the MedPage 10-27 scribe productivity study; AuntMinnie CTA is unrelated to the 10-20 opioid model; NIH wearable stroke scale is distinct from the 10-21 robotic stroke therapy piece. Cross-section check: published_urls.json medicine and science blocks read for nature.com / med.stanford / nih.gov / auntminnie / radiologybusiness / jamanetwork entries; none of the 5 pick URLs appear. Same-day (11-07) picks in other sections not yet in the ledger; orchestrator should check science for the gait model and NIH stroke item."
+    "note": "Dropped as duplicates: Radiology Business 'residents miss more findings after night shifts even with AI' (likely-repeat of AuntMinnie 2026-10-27 night-shift fatigue story); The BMJ 'AI recommends vastly more expensive treatment' (news report on the same 24-system/200-case cost study published 2026-10-17 as NEJM AI AIoa2600537); Medigate 'Lunit SITC with Labcorp/Cellcarta' (same SITC Lunit SCOPE IO presentations as Dailypharm 343389 on 2026-10-20); Healthcare Dive 'FDA generative AI 5 takes' (same FDA genAI docket-comment story as Healthcare Dive 2026-10-23, commentary); MedCity '7 potential problems with Medicare's AI prior authorization' (WISeR running story, JAMA 2026-10-30; analysis of FOIA documents, no new CMS decision; also dropped 11-06/11-07). Not picked on merit: STAT chatbot-licensing and FDA/CMS-states pieces (paywalled, thin), STAT women's-records opinion, MedCity clinician-burden opinion, Healthcare Dive human-in-loop survey (close to 10-18 JAMA perception item), JAMA Pediatrics parent survey, NEJM AI-scribe Clinical Decisions and RSNA stroke false-negatives (bodies unretrievable), npj AMD agent, npj HFpEF risk model (related to 10-26 HF item), Dailypharm pathology reimbursement analysis, Medigate Dongtan home-care, Diagnostic Imaging NFL CCTA and hepatic steatosis interview. Cross-section: published_urls.json science block read in full; none of the 5 pick URLs or their studies (cardiac MRI LV segmentation, lipid nonescalation, MLLM breast pathology, NeuroDR, Asan urine test) appear. Lancet DH heart-MRI og_image is a phys.org CDN image, so medicalxpress likely covered it; no medicalxpress 2026-11 entry is in the science ledger, but orchestrator should confirm today's science picks do not include it. Outlets: 5 distinct (Lancet DH, JAMA Cardiology, Breast Cancer Research, AuntMinnie, Korea Biomedical Review)."
   }
 }

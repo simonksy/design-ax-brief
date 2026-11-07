@@ -10829,6 +10829,164 @@
           "x": "Figma智能体现在可以：借助风格参考生成矢量插画和图标；用描边绘制线条，便于调整粗细或端点样式；将生成的矢量图按语义分组到图层中，方便迭代。"
         }
       ]
+    },
+    "design/vercel-json-render-chat": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "现在可以借助json-render，从Chat SDK智能体流式输出生成式UI。"
+        },
+        {
+          "t": "p",
+          "x": "智能体依据带类型的组件目录编写JSON规范，再由json-render将其转换为Chat SDK卡片。随后各适配器以各平台的原生格式发布卡片，例如Slack上的Block Kit和Teams上的Adaptive Cards。"
+        },
+        {
+          "t": "p",
+          "x": "目录涵盖表格、图表、按钮等，因此无需为每种消息形态单独构建和维护工具。"
+        },
+        {
+          "t": "video",
+          "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6S2Z82rxxVRa8ZUwSN0ZEN/b4093a11584a8a2c186fb766afd8fd6a/slack-block-stream-light__1_.mp4"
+        },
+        {
+          "t": "p",
+          "x": "随模型输出流式发送卡片：根元素一有内容，streamCard就发布卡片，并在新元素流入时更新消息。默认情况下编辑最多每500 ms发送一次，与Chat SDK的流式间隔一致。流结束后，消息显示经过验证的最终卡片。"
+        },
+        {
+          "t": "p",
+          "x": "验证规范并执行平台限制：toCard会将每个元素的props与其组件schema比对，遇到无效规范时抛出CardSpecError。每个问题都会生成一条独立、易读的issue，因此可以把这份列表发回模型，获取修正后的规范。"
+        },
+        {
+          "t": "p",
+          "x": "各平台对单条消息可容纳的内容设有上限，Chat SDK适配器会对超出上限的内容进行降级处理。例如，Slack适配器会把第二张表格变成代码块。传入limits即可直接拒绝这类规范。"
+        }
+      ]
+    },
+    "design/autodesk-flame-2027-normals": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "2026年11月7日更新：Autodesk已发布Flame 2027.2。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261107_Flame20272_AINormal.jpg"
+        },
+        {
+          "t": "p",
+          "x": "这是一次相当重要的更新，新功能包括一个从视频生成法线贴图的全新机器学习模型，可用于重新打光或为镜头添加特效。Flame此前已有AI法线贴图生成器，但仅限人脸。新模型以Matchbox着色器形式提供，也可在Selective对象和Normal Map对象中使用。"
+        },
+        {
+          "t": "p",
+          "x": "用户现在还能把USD场景导入Flame的3D合成环境Action。该实现支持USD几何体、材质、灯光和摄像机，以及包括USDZ文件在内的所有USD扩展名（.usd、.usda、.usdc和.usdz）。"
+        },
+        {
+          "t": "p",
+          "x": "Action的其他变化包括新的3D Primitive节点和对所有OpenSubdiv方案的支持。管线集成方面，新增了用Python Hooks控制Batch设置以及以OpenTimelineIO格式发布序列的选项。"
+        },
+        {
+          "t": "p",
+          "x": "此前，Flame 2027引入了Annotations系统、两个从素材生成深度图的新AI模型（ML Depth Indoor和ML Depth Outdoor）、Autodesk Assistant以及OpenTimelineIO支持；Flame 2027.1则新增了Isolate工具和ProRes RAW支持。"
+        },
+        {
+          "t": "p",
+          "x": "Flame订阅价格为每月$650或每年$5,215。Flame Assist和Flare订阅价格为每年$2,775。"
+        }
+      ]
+    },
+    "design/ironcad-2027-ai-scripting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/IronCAD-2027-update-adds-design-automation-tools.png"
+        },
+        {
+          "t": "p",
+          "x": "IronCAD宣布推出IronCAD 2027 Product Update 1。此次发布面向工业设备与机械设计、金属加工和机械工程团队，更新了AI-assisted设计自动化、钣金工作流、管道、制图、特征识别和文件互操作性。"
+        },
+        {
+          "t": "p",
+          "x": "AI Design Assistant改进：AI Design Assistant现在新增对AI-assisted脚本生成的支持。用户可用自然语言提示生成脚本，自动化重复的建模任务，依据包含元数据、参数、材料和Smart Attachments的目录数据配置组件，并支持设计自动化工作流。"
+        },
+        {
+          "t": "p",
+          "x": "包含折弯、孔和边缘倒圆组合的钣金特征可拖入目录，在其他项目中复用。管道命令现支持沿样条路径的柔性管，导入的模型也能更快转换为可编辑的IronCAD特征。"
+        },
+        {
+          "t": "p",
+          "x": "Native CAD Translator Add-on现已支持CATIA V5、Creo、NX、Inventor、SolidWorks和Solid Edge等主要格式的更新版本。"
+        },
+        {
+          "t": "p",
+          "x": "符合条件的IronCAD Design Collaboration Suite用户可通过IronCAD Live Update或从IronCAD网站下载获取IronCAD 2027 Product Update 1。"
+        }
+      ]
+    },
+    "design/uxc-ai-ui-emotional-context": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "设想让一款AI工具设计一个任务完成状态。结果有一个对勾、一句友好的提示，还有一小簇彩纸特效。组件用对了，间距符合系统，动画也很精致。"
+        },
+        {
+          "t": "p",
+          "x": "在一个任务中，有人终于完成了筹备数月的创业项目设置；在另一个任务中，一位管理员刚更新了当天上午的第四十七条记录。组件是一致的，但体验大概应该有所不同。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*3TA1JRp7-caokhilM29rqQ.jpeg",
+          "cap": "不同的时刻需要不同程度的回应。图片来源：Kudzai Chinyadza, Celebratory Success States."
+        },
+        {
+          "t": "p",
+          "x": "但忠实还原一套系统，仍可能给出情感上不恰当的回应。一条成功提示可以既正确又显得居高临下。"
+        },
+        {
+          "t": "p",
+          "x": "Mailchimp的品牌声音始终可辨，语气却会随读者的处境而变。“做得友好、有趣一点”留下了大量未决之处；更有用的AI指令会描述具体情境。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*-XcYBSSqvdEFnphJb5HiLw.jpeg",
+          "cap": "来源：Asana"
+        },
+        {
+          "t": "p",
+          "x": "Asana的庆祝效果表明，同一个细节对一个人可能是惊喜，对另一个人却可能是打扰。AI可以帮助探索更具表现力的备选方案，但生成备选方案与判断它何时受欢迎，是两种不同的工作。"
+        },
+        {
+          "t": "p",
+          "x": "AI能生成两种回应。但察觉场合不同，仍是我们的事。"
+        }
+      ]
+    },
+    "design/cursor-live-apps-hosting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/changelog/opengraph-changelog-11-05-26.png"
+        },
+        {
+          "t": "p",
+          "x": "智能体降低了编写代码的成本，但用户构建的大多数应用和工具从未离开 localhost。现在，你可以直接在 Cursor 中构建线上应用，并通过链接分享。描述你想创建的内容，其余交给 Cursor：构建应用、建立数据库、配置认证并完成部署。"
+        },
+        {
+          "t": "video",
+          "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/Cursor_PublishApps_15.mp4"
+        },
+        {
+          "t": "p",
+          "x": "开始时，启动一个云端智能体，并明确告诉它你想构建一个应用。Cursor 会搭建 Web 应用框架，按需启动 Postgres 数据库，在 Cursor SSO 之后设置认证，并配置托管。发布时，你选择一个唯一域名，Cursor 便会返回一个线上链接。"
+        },
+        {
+          "t": "p",
+          "x": "在 Cursor 内部，销售、运营、法务、财务和工程等部门的用户都在构建内部应用，从运营工具、客户演示到入职体验和实时销售仪表盘。"
+        },
+        {
+          "t": "p",
+          "x": "发布时，Cursor 会运行确定性检查和智能体安全检查，以发现常见问题，例如写在应用文件中的密钥或暴露的凭据。在检查通过且你明确发布应用之前，任何内容都不会上线。团队管理员可以看到团队中的每个应用和密钥。该功能面向所有启用了云端智能体的付费方案开放。"
+        }
+      ]
     }
   }
 }

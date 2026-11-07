@@ -1,17 +1,771 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "section": "gadgets",
   "cards": [
     {
-      "id": "wired-radar-ai-aircon",
+      "id": "raycast-mac-dictate-screen",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "레이더 추적 AI ACs\n냉방 에너지 줄일까",
-      "body": "LG·Samsung·Midea가 레이더 AI 냉방을 내놨지만 절감 폭은 모호하다.",
-      "mini_headline": "사람 쫓는 레이더 AI ACs",
+      "headline": "Raycast 받아쓰기에\nMac 화면 맥락 담다",
+      "body": "Raycast 업데이트로 Mac 화면 내용을 따로 설명하지 않고 AI에 묻는다.",
+      "mini_headline": "Raycast, 화면 인식 받아쓰기 추가",
       "tool": "Gadgets",
-      "source": "WIRED",
-      "url": "https://www.wired.com/story/can-a-radar-equipped-ac-actually-cut-your-power-bill/",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/06/raycast-combines-voice-dictation-and-screen-awareness-in-new-ai-feature/",
+      "accent": "#7928ca",
+      "motif": "headset",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/raycast-dictate-ai.jpg?quality=82&strip=all&w=1600"
+          },
+          {
+            "t": "p",
+            "x": "최근 Screen Awareness를 내놓은 Raycast가 이번 주 흥미로운 업데이트를 냈다. 이제 맥락을 따로 설명하지 않아도 화면에 떠 있는 내용을 두고 AI와 대화할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Raycast가 Screen Awareness를 발표한 건 지난 팔월이다. 활성 앱이나 창의 맥락을 AI Chat으로 곧장 가져오는 기능으로, 당시 Raycast는 “텍스트를 복사하거나 스크린숏을 첨부하거나 보고 있는 내용을 설명할 필요가 없다”고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "Raycast는 이번 주 새 명령 Dictate to AI로 이 기능을 한 단계 끌어올렸다. 요청을 말로 하면 활성 앱의 맥락이 AI에 알아서 넘어간다."
+          },
+          {
+            "t": "p",
+            "x": "Raycast에 따르면 이번 릴리스에는 이런 기능도 들어갔다. 받아쓴 내용을 AI Chat에서 쓰고 스타일을 관리하며 피드백도 받는 새 Dictation AI 확장, Mac에서 AI 사용량을 확인하는 메뉴 막대 명령(Settings → AI → Show AI Usage in Menu Bar), Mac의 AI Chat으로 연락처를 검색·생성·수정·삭제하는 Contacts AI 확장이다."
+          },
+          {
+            "t": "p",
+            "x": "최근 나온 다른 업데이트와 추가 기능도 Raycast가 함께 소개했다. Raycast Notes는 이제 이미지를 넣을 수 있고 무료 사용자도 노트를 무제한 쓴다. Mac 앱은 검색이 빨라지고 메모리를 덜 쓰는 등 성능이 여러모로 좋아졌다. iOS용 Raycast에는 AI-powered 글쓰기 도구를 담은 새 키보드가 생겼고 Cloud Sync 기능도 나아졌다."
+          },
+          {
+            "t": "p",
+            "x": "Windows 사용자에게도 소식이 있다. Screen Awareness에 개별 요소나 창 전체를 AI Chat으로 보내는 새 명령이 생겼다. Raycast v2.11의 자세한 내용은 이 링크에서 볼 수 있다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Raycast pairs voice dictation\nwith what's on your Mac screen",
+          "body": "A Raycast update lets Mac users talk to AI about whatever is on their screen without explaining the context.",
+          "mini_headline": "Raycast adds screen-aware dictation",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/raycast-dictate-ai.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "Following the recent release of Screen Awareness, Raycast got an interesting update this week that lets users talk to AI about whatever is on their screen without having to explain the context."
+              },
+              {
+                "t": "p",
+                "x": "Last August, Raycast announced Screen Awareness, which lets users bring context from their active app or window directly into AI Chat, “so you don’t have to copy text, attach screenshots, or explain what you’re looking at,” said Raycast."
+              },
+              {
+                "t": "p",
+                "x": "This week, Raycast took that functionality a step further with Dictate to AI, a new command that lets users speak their requests while automatically providing AI with context from the active app."
+              },
+              {
+                "t": "p",
+                "x": "Raycast notes that the release also includes: a new Dictation AI extension, so you can use your transcriptions in AI Chat, manage your styles and get feedback on them; on Mac, a menu bar command to keep track of your AI usage (Settings → AI → Show AI Usage in Menu Bar); and on Mac, a Contacts AI extension to search, create, update and delete contacts from AI Chat."
+              },
+              {
+                "t": "p",
+                "x": "Raycast also noted other recent updates and additions, including that Raycast Notes now supports images and unlimited notes for free users, while the Mac app received several performance improvements, including faster search and lower memory usage. Meanwhile, Raycast for iOS got a new keyboard with AI-powered writing tools, along with improved Cloud Sync capabilities."
+              },
+              {
+                "t": "p",
+                "x": "Windows users also got some love, with Screen Awareness gaining new commands to send individual elements or entire windows to AI Chat. To learn more about Raycast v2.11, follow this link."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Raycast 받아쓰기에\nMac 화면 맥락 담다",
+          "body": "Raycast 업데이트로 Mac 화면 내용을 따로 설명하지 않고 AI에 묻는다.",
+          "mini_headline": "Raycast, 화면 인식 받아쓰기 추가",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/raycast-dictate-ai.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "최근 Screen Awareness를 내놓은 Raycast가 이번 주 흥미로운 업데이트를 냈다. 이제 맥락을 따로 설명하지 않아도 화면에 떠 있는 내용을 두고 AI와 대화할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Raycast가 Screen Awareness를 발표한 건 지난 팔월이다. 활성 앱이나 창의 맥락을 AI Chat으로 곧장 가져오는 기능으로, 당시 Raycast는 “텍스트를 복사하거나 스크린숏을 첨부하거나 보고 있는 내용을 설명할 필요가 없다”고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "Raycast는 이번 주 새 명령 Dictate to AI로 이 기능을 한 단계 끌어올렸다. 요청을 말로 하면 활성 앱의 맥락이 AI에 알아서 넘어간다."
+              },
+              {
+                "t": "p",
+                "x": "Raycast에 따르면 이번 릴리스에는 이런 기능도 들어갔다. 받아쓴 내용을 AI Chat에서 쓰고 스타일을 관리하며 피드백도 받는 새 Dictation AI 확장, Mac에서 AI 사용량을 확인하는 메뉴 막대 명령(Settings → AI → Show AI Usage in Menu Bar), Mac의 AI Chat으로 연락처를 검색·생성·수정·삭제하는 Contacts AI 확장이다."
+              },
+              {
+                "t": "p",
+                "x": "최근 나온 다른 업데이트와 추가 기능도 Raycast가 함께 소개했다. Raycast Notes는 이제 이미지를 넣을 수 있고 무료 사용자도 노트를 무제한 쓴다. Mac 앱은 검색이 빨라지고 메모리를 덜 쓰는 등 성능이 여러모로 좋아졌다. iOS용 Raycast에는 AI-powered 글쓰기 도구를 담은 새 키보드가 생겼고 Cloud Sync 기능도 나아졌다."
+              },
+              {
+                "t": "p",
+                "x": "Windows 사용자에게도 소식이 있다. Screen Awareness에 개별 요소나 창 전체를 AI Chat으로 보내는 새 명령이 생겼다. Raycast v2.11의 자세한 내용은 이 링크에서 볼 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Raycastの音声入力\nMac画面の文脈と連携",
+          "body": "Raycastの更新で、Macユーザーは文脈を説明せずに画面の内容についてAIと話せる。",
+          "mini_headline": "Raycast、画面認識型の音声入力を追加",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/raycast-dictate-ai.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "最近のScreen Awarenessのリリースに続き、Raycastは今週、興味深いアップデートを実施した。ユーザーは文脈を説明しなくても、画面に表示されている内容についてAIと会話できる。"
+              },
+              {
+                "t": "p",
+                "x": "Raycastは去る八月にScreen Awarenessを発表した。アクティブなアプリやウインドウの文脈をAI Chatに直接取り込める機能で、Raycastは「テキストをコピーしたり、スクリーンショットを添付したり、見ているものを説明したりする必要はない」と述べていた。"
+              },
+              {
+                "t": "p",
+                "x": "今週、Raycastはこの機能をさらに一歩進め、新コマンドDictate to AIを追加した。ユーザーが要望を声で伝えると、アクティブなアプリの文脈が自動的にAIに渡される。"
+              },
+              {
+                "t": "p",
+                "x": "Raycastによると、今回のリリースには次の内容も含まれる。AI Chatで文字起こしを使い、スタイルを管理してフィードバックを得られる新しいDictation AI拡張機能。Mac向けに、AIの使用量を確認できるメニューバーコマンド(Settings → AI → Show AI Usage in Menu Bar)。そしてMac向けに、AI Chatから連絡先の検索、作成、更新、削除ができるContacts AI拡張機能である。"
+              },
+              {
+                "t": "p",
+                "x": "Raycastはほかの最近のアップデートや追加機能にも触れた。Raycast Notesは画像に対応し、無料ユーザーもノートを無制限に使えるようになった。Macアプリは検索の高速化やメモリ使用量の削減など、いくつかの性能改善を受けた。一方、iOS版RaycastにはAI-poweredのライティングツールを備えた新しいキーボードが加わり、Cloud Sync機能も改善された。"
+              },
+              {
+                "t": "p",
+                "x": "Windowsユーザー向けの改善もあり、Screen Awarenessに個々の要素やウインドウ全体をAI Chatへ送る新コマンドが加わった。Raycast v2.11の詳細はこちらのリンクから確認できる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Raycast语音听写\n结合Mac屏幕内容",
+          "body": "Raycast更新后，Mac用户无需解释上下文即可就屏幕内容与AI对话。",
+          "mini_headline": "Raycast新增屏幕感知听写",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/raycast-dictate-ai.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "继近期推出Screen Awareness之后，Raycast本周又迎来一项有趣的更新：用户无需解释上下文，就能就屏幕上的任何内容与AI对话。"
+              },
+              {
+                "t": "p",
+                "x": "Raycast在八月发布了Screen Awareness，让用户可以把当前应用或窗口中的上下文直接带入AI Chat。Raycast表示，“这样你就不必复制文本、附上截图，或解释你正在看什么”。"
+              },
+              {
+                "t": "p",
+                "x": "本周，Raycast推出新命令Dictate to AI，将这一功能又推进了一步：用户可以用语音说出请求，同时自动向AI提供当前应用的上下文。"
+              },
+              {
+                "t": "p",
+                "x": "Raycast指出，此次版本还包括：全新的Dictation AI扩展，可在AI Chat中使用转写内容、管理风格并获得反馈；在Mac上新增用于追踪AI用量的菜单栏命令（Settings → AI → Show AI Usage in Menu Bar）；以及在Mac上新增Contacts AI扩展，可在AI Chat中搜索、创建、更新和删除联系人。"
+              },
+              {
+                "t": "p",
+                "x": "Raycast还提到了近期的其他更新和新增功能：Raycast Notes现已支持图片，并向免费用户开放无限笔记；Mac应用获得多项性能改进，包括更快的搜索和更低的内存占用。与此同时，iOS版Raycast推出了配备AI-powered写作工具的新键盘，Cloud Sync功能也得到改进。"
+              },
+              {
+                "t": "p",
+                "x": "Windows用户同样有所收获：Screen Awareness新增命令，可将单个元素或整个窗口发送到AI Chat。如需了解Raycast v2.11的更多信息，请点击此链接。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Raycast une el dictado por voz\ncon la pantalla de tu Mac",
+          "body": "Una actualización de Raycast permite hablar con AI en Mac sobre lo que hay en pantalla sin explicar el contexto.",
+          "mini_headline": "Raycast añade dictado con contexto de pantalla",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/raycast-dictate-ai.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "Tras el reciente lanzamiento de Screen Awareness, Raycast recibió esta semana una actualización interesante que permite hablar con AI sobre cualquier cosa que haya en pantalla sin tener que explicar el contexto."
+              },
+              {
+                "t": "p",
+                "x": "El pasado agosto, Raycast anunció Screen Awareness, que permite llevar el contexto de la app o ventana activa directamente a AI Chat, “para que no tengas que copiar texto, adjuntar capturas de pantalla ni explicar lo que estás viendo”, según Raycast."
+              },
+              {
+                "t": "p",
+                "x": "Esta semana, Raycast llevó esa función un paso más allá con Dictate to AI, un nuevo comando que permite dictar las peticiones mientras se proporciona automáticamente a la AI el contexto de la app activa."
+              },
+              {
+                "t": "p",
+                "x": "Raycast señala que la versión también incluye: una nueva extensión Dictation AI, para usar las transcripciones en AI Chat, gestionar estilos y recibir comentarios sobre ellos; en Mac, un comando en la barra de menús para controlar el uso de AI (Settings → AI → Show AI Usage in Menu Bar); y en Mac, una extensión Contacts AI para buscar, crear, actualizar y eliminar contactos desde AI Chat."
+              },
+              {
+                "t": "p",
+                "x": "Raycast también mencionó otras actualizaciones y novedades recientes: Raycast Notes ahora admite imágenes y notas ilimitadas para los usuarios gratuitos, mientras que la app para Mac recibió varias mejoras de rendimiento, como búsquedas más rápidas y menor uso de memoria. Por su parte, Raycast para iOS estrenó un nuevo teclado con herramientas de escritura AI-powered, junto con mejoras en Cloud Sync."
+              },
+              {
+                "t": "p",
+                "x": "Los usuarios de Windows también recibieron novedades: Screen Awareness incorpora nuevos comandos para enviar elementos individuales o ventanas completas a AI Chat. Para saber más sobre Raycast v2.11, consulta este enlace."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Raycast 받아쓰기에\nMac 화면 맥락 담다",
+          "body": "Raycast 업데이트로 Mac 화면 내용을 맥락 설명 없이 AI와 논의한다.",
+          "mini_headline": "Raycast, 화면 인식 받아쓰기 추가",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/raycast-dictate-ai.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "최근 Screen Awareness를 출시한 Raycast가 이번 주 흥미로운 업데이트를 내놓았다. 사용자는 맥락을 설명하지 않고도 화면에 떠 있는 내용에 대해 AI와 대화할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Raycast는 지난 팔월 Screen Awareness를 발표했다. 활성 앱이나 창의 맥락을 AI Chat으로 바로 가져오는 기능으로, Raycast는 “텍스트를 복사하거나 스크린숏을 첨부하거나 보고 있는 내용을 설명할 필요가 없다”고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "이번 주 Raycast는 새 명령 Dictate to AI로 이 기능을 한 단계 더 발전시켰다. 사용자가 요청을 말로 하면 활성 앱의 맥락이 AI에 자동으로 전달된다."
+              },
+              {
+                "t": "p",
+                "x": "Raycast에 따르면 이번 릴리스에는 다음 기능도 들어갔다. AI Chat에서 받아쓰기 내용을 활용하고 스타일을 관리하며 피드백을 받을 수 있는 새 Dictation AI 확장, Mac에서 AI 사용량을 확인하는 메뉴 막대 명령(Settings → AI → Show AI Usage in Menu Bar), 그리고 Mac에서 AI Chat으로 연락처를 검색·생성·수정·삭제하는 Contacts AI 확장이다."
+              },
+              {
+                "t": "p",
+                "x": "Raycast는 최근의 다른 업데이트와 추가 기능도 소개했다. Raycast Notes는 이제 이미지를 지원하고 무료 사용자에게도 노트를 무제한 제공한다. Mac 앱은 검색 속도 향상과 메모리 사용량 감소 등 여러 성능 개선을 거쳤다. iOS용 Raycast에는 AI-powered 글쓰기 도구를 갖춘 새 키보드가 들어갔고 Cloud Sync 기능도 나아졌다."
+              },
+              {
+                "t": "p",
+                "x": "Windows 사용자를 위한 소식도 있다. Screen Awareness에 개별 요소나 창 전체를 AI Chat으로 보내는 새 명령이 추가됐다. Raycast v2.11에 대한 자세한 내용은 이 링크에서 확인할 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Raycastの音声入力\nMac画面の文脈と連携",
+          "body": "Raycastの更新で、Macユーザーは文脈を説明せずに画面の内容についてAIと話せる。",
+          "mini_headline": "Raycast、画面認識型の音声入力を追加",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/raycast-dictate-ai.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "最近のScreen Awarenessのリリースに続き、Raycastは今週、興味深いアップデートを実施した。ユーザーは文脈を説明しなくても、画面に表示されている内容についてAIと会話できる。"
+              },
+              {
+                "t": "p",
+                "x": "Raycastは去る八月にScreen Awarenessを発表した。アクティブなアプリやウインドウの文脈をAI Chatに直接取り込める機能で、Raycastは「テキストをコピーしたり、スクリーンショットを添付したり、見ているものを説明したりする必要はない」と述べていた。"
+              },
+              {
+                "t": "p",
+                "x": "今週、Raycastはこの機能をさらに一歩進め、新コマンドDictate to AIを追加した。ユーザーが要望を声で伝えると、アクティブなアプリの文脈が自動的にAIに渡される。"
+              },
+              {
+                "t": "p",
+                "x": "Raycastによると、今回のリリースには次の内容も含まれる。AI Chatで文字起こしを使い、スタイルを管理してフィードバックを得られる新しいDictation AI拡張機能。Mac向けに、AIの使用量を確認できるメニューバーコマンド(Settings → AI → Show AI Usage in Menu Bar)。そしてMac向けに、AI Chatから連絡先の検索、作成、更新、削除ができるContacts AI拡張機能である。"
+              },
+              {
+                "t": "p",
+                "x": "Raycastはほかの最近のアップデートや追加機能にも触れた。Raycast Notesは画像に対応し、無料ユーザーもノートを無制限に使えるようになった。Macアプリは検索の高速化やメモリ使用量の削減など、いくつかの性能改善を受けた。一方、iOS版RaycastにはAI-poweredのライティングツールを備えた新しいキーボードが加わり、Cloud Sync機能も改善された。"
+              },
+              {
+                "t": "p",
+                "x": "Windowsユーザー向けの改善もあり、Screen Awarenessに個々の要素やウインドウ全体をAI Chatへ送る新コマンドが加わった。Raycast v2.11の詳細はこちらのリンクから確認できる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Raycast语音听写\n结合Mac屏幕内容",
+          "body": "Raycast更新后，Mac用户无需解释上下文即可就屏幕内容与AI对话。",
+          "mini_headline": "Raycast新增屏幕感知听写",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/raycast-dictate-ai.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "继近期推出Screen Awareness之后，Raycast本周又迎来一项有趣的更新：用户无需解释上下文，就能就屏幕上的任何内容与AI对话。"
+              },
+              {
+                "t": "p",
+                "x": "Raycast在八月发布了Screen Awareness，让用户可以把当前应用或窗口中的上下文直接带入AI Chat。Raycast表示，“这样你就不必复制文本、附上截图，或解释你正在看什么”。"
+              },
+              {
+                "t": "p",
+                "x": "本周，Raycast推出新命令Dictate to AI，将这一功能又推进了一步：用户可以用语音说出请求，同时自动向AI提供当前应用的上下文。"
+              },
+              {
+                "t": "p",
+                "x": "Raycast指出，此次版本还包括：全新的Dictation AI扩展，可在AI Chat中使用转写内容、管理风格并获得反馈；在Mac上新增用于追踪AI用量的菜单栏命令（Settings → AI → Show AI Usage in Menu Bar）；以及在Mac上新增Contacts AI扩展，可在AI Chat中搜索、创建、更新和删除联系人。"
+              },
+              {
+                "t": "p",
+                "x": "Raycast还提到了近期的其他更新和新增功能：Raycast Notes现已支持图片，并向免费用户开放无限笔记；Mac应用获得多项性能改进，包括更快的搜索和更低的内存占用。与此同时，iOS版Raycast推出了配备AI-powered写作工具的新键盘，Cloud Sync功能也得到改进。"
+              },
+              {
+                "t": "p",
+                "x": "Windows用户同样有所收获：Screen Awareness新增命令，可将单个元素或整个窗口发送到AI Chat。如需了解Raycast v2.11的更多信息，请点击此链接。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Raycast une el dictado por voz\ncon la pantalla de tu Mac",
+          "body": "Una actualización de Raycast permite hablar con AI en Mac sobre lo que hay en pantalla sin explicar el contexto.",
+          "mini_headline": "Raycast añade dictado con contexto de pantalla",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/raycast-dictate-ai.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "Tras el reciente lanzamiento de Screen Awareness, Raycast recibió esta semana una actualización interesante que permite hablar con AI sobre cualquier cosa que haya en pantalla sin tener que explicar el contexto."
+              },
+              {
+                "t": "p",
+                "x": "El pasado agosto, Raycast anunció Screen Awareness, que permite llevar el contexto de la app o ventana activa directamente a AI Chat, “para que no tengas que copiar texto, adjuntar capturas de pantalla ni explicar lo que estás viendo”, según Raycast."
+              },
+              {
+                "t": "p",
+                "x": "Esta semana, Raycast llevó esa función un paso más allá con Dictate to AI, un nuevo comando que permite dictar las peticiones mientras se proporciona automáticamente a la AI el contexto de la app activa."
+              },
+              {
+                "t": "p",
+                "x": "Raycast señala que la versión también incluye: una nueva extensión Dictation AI, para usar las transcripciones en AI Chat, gestionar estilos y recibir comentarios sobre ellos; en Mac, un comando en la barra de menús para controlar el uso de AI (Settings → AI → Show AI Usage in Menu Bar); y en Mac, una extensión Contacts AI para buscar, crear, actualizar y eliminar contactos desde AI Chat."
+              },
+              {
+                "t": "p",
+                "x": "Raycast también mencionó otras actualizaciones y novedades recientes: Raycast Notes ahora admite imágenes y notas ilimitadas para los usuarios gratuitos, mientras que la app para Mac recibió varias mejoras de rendimiento, como búsquedas más rápidas y menor uso de memoria. Por su parte, Raycast para iOS estrenó un nuevo teclado con herramientas de escritura AI-powered, junto con mejoras en Cloud Sync."
+              },
+              {
+                "t": "p",
+                "x": "Los usuarios de Windows también recibieron novedades: Screen Awareness incorpora nuevos comandos para enviar elementos individuales o ventanas completas a AI Chat. Para saber más sobre Raycast v2.11, consulta este enlace."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "dji-matrice5t-drone",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "DJI 매트리스 5T\n라이다·AI 품은 드론",
+      "body": "DJI가 라이다·레이더·AI로 야간·악천후에도 점검하는 드론을 출시했다.",
+      "mini_headline": "DJI 매트리스 5T 출시",
+      "tool": "Gadgets",
+      "source": "전자신문",
+      "url": "https://www.etnews.com/20261106000295",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "DJI가 라이다(LiDAR)와 밀리미터파 레이더, 인공지능(AI) 영상 분석 기술을 결합한 산업용 드론 '매트리스5T'를 6일 출시했다. 야간이나 악천후에도 장애물을 감지하고 시설물 점검과 긴급 대응 등 산업 현장 임무를 수행할 수 있도록 설계한 제품이다. 신제품은 DJI의 소형 산업용 드론 플래그십 모델이다. 라이다는 야간에도 최대 32m 떨어진 전선 등 가느다란 장애물을 감지한다. 밀리미터파 레이더는 안개와 비, 먼지로 시야가 제한되는 환경에서도 주변 상황을 파악한다."
+          },
+          {
+            "t": "p",
+            "x": "카메라 성능도 강화했다. 기본 해상도 1280×1024의 적외선 열화상 카메라를 탑재해 기존 640×512 센서보다 화소 수를 4배로 늘렸다. 초고해상도(UHR) 모드에서는 2560×2048 해상도를 지원한다. 광각 카메라에는 1/0.98인치 이미지센서와 AI 저조도 향상 기술을 적용했다. 최대 ISO160만감도로 0.01럭스 수준의 어두운 환경에서도 컬러 영상을 촬영할 수 있다. 50메가픽셀(MP) 중망원 카메라와 11배 광학 줌을 지원하는 망원 카메라도 탑재했다."
+          },
+          {
+            "t": "p",
+            "x": "AI를 활용한 현장 작업 자동화 기능도 갖췄다. 기체에 탑재된 AI 모델은 열화상과 일반 영상을 함께 분석해 차량과 선박 등 20종 이상의 대상을 식별한다. 전력시설 점검에도 활용할 수 있다. 기체 상단 라이다로 전력선과 가공지선을 감지하고 선로를 따라 비행하면서 끊어진 전선 가닥이나 이물질 등 이상 징후를 확인하도록 설계했다."
+          },
+          {
+            "t": "img",
+            "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1fd4e188c2ba4460b8e2ed290ad6ca7c_P1.jpg",
+            "cap": "DJI Matrice 5T"
+          },
+          {
+            "t": "p",
+            "x": "비행 성능은 최대 59분이며, 영하 20도부터 영상 50도까지 운용할 수 있다. 방진·방수 등급은 IP55다. 영상 전송 거리는 제조사 시험 기준 최대 40㎞로, 이전 세대의 25㎞보다 늘었다. 통신이 어려운 지형에서는 중계 기능을 활용해 전송 범위를 확장할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "DJI는 매트리스 5T를 공공안전과 재난 대응, 전력·통신시설 점검, 측량 등 다양한 산업 현장에 공급할 계획이다."
+          }
+        ]
+      },
+      "text": {
+        "ko": {
+          "headline": "DJI 매트리스 5T\n라이다·AI 품은 드론",
+          "body": "DJI가 라이다·레이더·AI로 야간·악천후에도 점검하는 드론을 출시했다.",
+          "mini_headline": "DJI 매트리스 5T 출시",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "DJI가 라이다(LiDAR)와 밀리미터파 레이더, 인공지능(AI) 영상 분석 기술을 결합한 산업용 드론 '매트리스5T'를 6일 출시했다. 야간이나 악천후에도 장애물을 감지하고 시설물 점검과 긴급 대응 등 산업 현장 임무를 수행할 수 있도록 설계한 제품이다. 신제품은 DJI의 소형 산업용 드론 플래그십 모델이다. 라이다는 야간에도 최대 32m 떨어진 전선 등 가느다란 장애물을 감지한다. 밀리미터파 레이더는 안개와 비, 먼지로 시야가 제한되는 환경에서도 주변 상황을 파악한다."
+              },
+              {
+                "t": "p",
+                "x": "카메라 성능도 강화했다. 기본 해상도 1280×1024의 적외선 열화상 카메라를 탑재해 기존 640×512 센서보다 화소 수를 4배로 늘렸다. 초고해상도(UHR) 모드에서는 2560×2048 해상도를 지원한다. 광각 카메라에는 1/0.98인치 이미지센서와 AI 저조도 향상 기술을 적용했다. 최대 ISO160만감도로 0.01럭스 수준의 어두운 환경에서도 컬러 영상을 촬영할 수 있다. 50메가픽셀(MP) 중망원 카메라와 11배 광학 줌을 지원하는 망원 카메라도 탑재했다."
+              },
+              {
+                "t": "p",
+                "x": "AI를 활용한 현장 작업 자동화 기능도 갖췄다. 기체에 탑재된 AI 모델은 열화상과 일반 영상을 함께 분석해 차량과 선박 등 20종 이상의 대상을 식별한다. 전력시설 점검에도 활용할 수 있다. 기체 상단 라이다로 전력선과 가공지선을 감지하고 선로를 따라 비행하면서 끊어진 전선 가닥이나 이물질 등 이상 징후를 확인하도록 설계했다."
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1fd4e188c2ba4460b8e2ed290ad6ca7c_P1.jpg",
+                "cap": "DJI Matrice 5T"
+              },
+              {
+                "t": "p",
+                "x": "비행 성능은 최대 59분이며, 영하 20도부터 영상 50도까지 운용할 수 있다. 방진·방수 등급은 IP55다. 영상 전송 거리는 제조사 시험 기준 최대 40㎞로, 이전 세대의 25㎞보다 늘었다. 통신이 어려운 지형에서는 중계 기능을 활용해 전송 범위를 확장할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "DJI는 매트리스 5T를 공공안전과 재난 대응, 전력·통신시설 점검, 측량 등 다양한 산업 현장에 공급할 계획이다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "DJI Matrice 5T drone\npacks LiDAR and AI",
+          "body": "DJI has launched a drone that uses LiDAR, radar and AI to run inspections at night and in bad weather.",
+          "mini_headline": "DJI launches Matrice 5T",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "DJI launched the Matrice 5T on the 6th, an industrial drone that combines LiDAR, millimeter-wave radar and artificial intelligence (AI) video analysis. It is designed to detect obstacles at night or in bad weather and to carry out industrial missions such as facility inspection and emergency response. The new product is DJI's flagship small industrial drone. The LiDAR detects thin obstacles such as power lines up to 32m away, even at night. The millimeter-wave radar reads the surroundings even when fog, rain or dust limit visibility."
+              },
+              {
+                "t": "p",
+                "x": "Camera performance has also been upgraded. An infrared thermal camera with a base resolution of 1280×1024 brings 4 times the pixel count of the previous 640×512 sensor. In ultra-high-resolution (UHR) mode it supports 2560×2048. The wide-angle camera uses a 1/0.98-inch image sensor and AI low-light enhancement, and with a maximum sensitivity of ISO160만 it can shoot color video in conditions as dark as 0.01 lux. The drone also carries a 50-megapixel (MP) medium telephoto camera and a telephoto camera with 11x optical zoom."
+              },
+              {
+                "t": "p",
+                "x": "The drone also automates field work with AI. The onboard AI model analyzes thermal and regular footage together to identify more than 20 types of targets, including vehicles and ships. It can also be used to inspect power facilities: the LiDAR on top of the aircraft detects power lines and overhead ground wires, and the drone is designed to fly along the lines checking for anomalies such as broken strands or foreign objects."
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1fd4e188c2ba4460b8e2ed290ad6ca7c_P1.jpg",
+                "cap": "DJI Matrice 5T"
+              },
+              {
+                "t": "p",
+                "x": "Flight time is up to 59 minutes, and it can operate from minus 20 to 50 degrees Celsius. Its dust and water resistance rating is IP55. Video transmission range reaches up to 40㎞ in the manufacturer's tests, up from 25㎞ on the previous generation. In terrain where communication is difficult, a relay function can extend the transmission range."
+              },
+              {
+                "t": "p",
+                "x": "DJI plans to supply the Matrice 5T to a range of industrial settings, including public safety and disaster response, power and telecom facility inspection, and surveying."
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "DJI Matrice 5T, un dron\ncon LiDAR y AI",
+          "body": "DJI lanzó un dron que inspecciona de noche y con mal tiempo gracias a LiDAR, radar y AI.",
+          "mini_headline": "DJI lanza el Matrice 5T",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "DJI lanzó el día 6 el Matrice 5T, un dron industrial que combina LiDAR, radar de ondas milimétricas y tecnología de análisis de imagen con inteligencia artificial (AI). Está diseñado para detectar obstáculos de noche o con mal tiempo y realizar tareas industriales como la inspección de instalaciones y la respuesta a emergencias. El nuevo producto es el modelo insignia de los drones industriales compactos de DJI. El LiDAR detecta obstáculos finos, como cables eléctricos, a hasta 32m incluso de noche. El radar de ondas milimétricas percibe el entorno aun cuando la niebla, la lluvia o el polvo limitan la visibilidad."
+              },
+              {
+                "t": "p",
+                "x": "También se ha mejorado la cámara. Incorpora una cámara térmica infrarroja con una resolución base de 1280×1024, que multiplica por 4 el número de píxeles frente al anterior sensor de 640×512. En el modo de ultra alta resolución (UHR) admite 2560×2048. La cámara gran angular usa un sensor de imagen de 1/0.98 pulgadas y tecnología AI de mejora con poca luz, y con una sensibilidad máxima de ISO160만 puede grabar vídeo en color en entornos de apenas 0.01 lux. También lleva una cámara de teleobjetivo medio de 50 megapíxeles (MP) y un teleobjetivo con zoom óptico de 11 aumentos."
+              },
+              {
+                "t": "p",
+                "x": "Cuenta además con funciones de automatización del trabajo de campo basadas en AI. El modelo de AI integrado analiza a la vez imágenes térmicas y convencionales para identificar más de 20 tipos de objetivos, como vehículos y barcos. También sirve para inspeccionar instalaciones eléctricas: el LiDAR de la parte superior detecta líneas eléctricas y cables de tierra aéreos, y el dron está diseñado para volar a lo largo de la línea comprobando anomalías como hilos rotos u objetos extraños."
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1fd4e188c2ba4460b8e2ed290ad6ca7c_P1.jpg",
+                "cap": "DJI Matrice 5T"
+              },
+              {
+                "t": "p",
+                "x": "La autonomía de vuelo es de hasta 59 minutos y puede operar entre 20 grados bajo cero y 50 grados. Su protección contra polvo y agua es IP55. La distancia de transmisión de vídeo alcanza hasta 40㎞ según las pruebas del fabricante, frente a los 25㎞ de la generación anterior. En terrenos con comunicación difícil, una función de retransmisión permite ampliar el alcance."
+              },
+              {
+                "t": "p",
+                "x": "DJI prevé suministrar el Matrice 5T a diversos entornos industriales, como seguridad pública y respuesta a desastres, inspección de instalaciones eléctricas y de telecomunicaciones, y topografía."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "DJI Matrice 5T\nライダー・AI搭載ドローン",
+          "body": "DJIがライダーとレーダー、AIで夜間や悪天候でも点検できるドローンを発売した。",
+          "mini_headline": "DJI Matrice 5T発売",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "DJIは、ライダー(LiDAR)とミリ波レーダー、人工知能(AI)による映像解析技術を組み合わせた産業用ドローン「Matrice 5T」を6日に発売した。夜間や悪天候でも障害物を検知し、施設点検や緊急対応など産業現場の任務を遂行できるよう設計した製品だ。新製品はDJIの小型産業用ドローンのフラッグシップモデルである。ライダーは夜間でも最大32m 先の電線など細い障害物を検知する。ミリ波レーダーは霧や雨、粉じんで視界が限られる環境でも周囲の状況を把握する。"
+              },
+              {
+                "t": "p",
+                "x": "カメラ性能も強化した。基本解像度1280×1024の赤外線サーマルカメラを搭載し、従来の640×512センサーに比べ画素数を4倍に増やした。超高解像度(UHR)モードでは2560×2048の解像度に対応する。広角カメラには1/0.98インチのイメージセンサーとAIによる低照度補正技術を採用した。最大ISO160万の感度により、0.01ルクス程度の暗い環境でもカラー映像を撮影できる。50MP中望遠カメラと、11倍光学ズームに対応する望遠カメラも搭載した。"
+              },
+              {
+                "t": "p",
+                "x": "AIを活用した現場作業の自動化機能も備える。機体に搭載したAIモデルは熱画像と通常映像をあわせて解析し、車両や船舶など20種類以上の対象を識別する。電力設備の点検にも活用できる。機体上部のライダーで電力線と架空地線を検知し、線路に沿って飛行しながら断線した素線や異物などの異常の兆候を確認するよう設計した。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1fd4e188c2ba4460b8e2ed290ad6ca7c_P1.jpg",
+                "cap": "DJI Matrice 5T"
+              },
+              {
+                "t": "p",
+                "x": "飛行時間は最大59分で、氷点下20度から50度まで運用できる。防塵・防水等級はIP55だ。映像伝送距離はメーカー試験基準で最大40㎞と、前世代の25㎞から延びた。通信が難しい地形では中継機能を使って伝送範囲を広げられる。"
+              },
+              {
+                "t": "p",
+                "x": "DJIはMatrice 5Tを公共安全や災害対応、電力・通信設備の点検、測量など多様な産業現場に供給する計画だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "DJI Matrice 5T\n搭载激光雷达与AI的无人机",
+          "body": "DJI推出借助激光雷达、雷达和AI在夜间及恶劣天气下执行巡检的无人机。",
+          "mini_headline": "DJI Matrice 5T发布",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "DJI于6日推出一款融合激光雷达(LiDAR)、毫米波雷达与人工智能(AI)影像分析技术的工业无人机“Matrice 5T”。该产品专为在夜间或恶劣天气下探测障碍物、执行设施巡检与应急响应等工业现场任务而设计。新品是DJI小型工业无人机的旗舰机型。激光雷达在夜间也能探测最远32m 外的电线等细小障碍物。毫米波雷达在雾、雨、粉尘导致视野受限的环境中同样能感知周边状况。"
+              },
+              {
+                "t": "p",
+                "x": "相机性能也有所增强。机身搭载基础分辨率为1280×1024的红外热成像相机，像素数达到此前640×512传感器的4倍。超高分辨率(UHR)模式下支持2560×2048分辨率。广角相机采用1/0.98英寸图像传感器及AI低照度增强技术，最高ISO160万感光度可在0.01勒克斯级别的暗光环境中拍摄彩色影像。此外还搭载了50MP中长焦相机，以及支持11倍光学变焦的长焦相机。"
+              },
+              {
+                "t": "p",
+                "x": "该机还具备利用AI实现现场作业自动化的功能。机载AI模型可同时分析热成像与普通影像，识别车辆、船舶等20种以上目标。它也可用于电力设施巡检：通过机身顶部的激光雷达感知电力线与架空地线，并沿线路飞行，检查断股、异物等异常迹象。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1fd4e188c2ba4460b8e2ed290ad6ca7c_P1.jpg",
+                "cap": "DJI Matrice 5T"
+              },
+              {
+                "t": "p",
+                "x": "最长飞行时间为59分钟，可在零下20度至零上50度的环境中运行。防尘防水等级为IP55。按制造商测试标准，图传距离最远可达40㎞，较上一代的25㎞有所提升。在通信困难的地形中，可借助中继功能扩展传输范围。"
+              },
+              {
+                "t": "p",
+                "x": "DJI计划将Matrice 5T供应给公共安全、灾害应对、电力与通信设施巡检、测绘等多个行业现场。"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "DJI Matrice 5T drone\npacks LiDAR and AI",
+          "body": "DJI has launched a drone that uses LiDAR, radar and AI to run inspections at night and in bad weather.",
+          "mini_headline": "DJI launches Matrice 5T",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "DJI launched the Matrice 5T on the 6th, an industrial drone that combines LiDAR, millimeter-wave radar and artificial intelligence (AI) video analysis. It is designed to detect obstacles at night or in bad weather and to carry out industrial missions such as facility inspection and emergency response. The new product is DJI's flagship small industrial drone. The LiDAR detects thin obstacles such as power lines up to 32m away, even at night. The millimeter-wave radar reads the surroundings even when fog, rain or dust limit visibility."
+              },
+              {
+                "t": "p",
+                "x": "Camera performance has also been upgraded. An infrared thermal camera with a base resolution of 1280×1024 brings 4 times the pixel count of the previous 640×512 sensor. In ultra-high-resolution (UHR) mode it supports 2560×2048. The wide-angle camera uses a 1/0.98-inch image sensor and AI low-light enhancement, and with a maximum sensitivity of ISO160만 it can shoot color video in conditions as dark as 0.01 lux. The drone also carries a 50-megapixel (MP) medium telephoto camera and a telephoto camera with 11x optical zoom."
+              },
+              {
+                "t": "p",
+                "x": "The drone also automates field work with AI. The onboard AI model analyzes thermal and regular footage together to identify more than 20 types of targets, including vehicles and ships. It can also be used to inspect power facilities: the LiDAR on top of the aircraft detects power lines and overhead ground wires, and the drone is designed to fly along the lines checking for anomalies such as broken strands or foreign objects."
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1fd4e188c2ba4460b8e2ed290ad6ca7c_P1.jpg",
+                "cap": "DJI Matrice 5T"
+              },
+              {
+                "t": "p",
+                "x": "Flight time is up to 59 minutes, and it can operate from minus 20 to 50 degrees Celsius. Its dust and water resistance rating is IP55. Video transmission range reaches up to 40㎞ in the manufacturer's tests, up from 25㎞ on the previous generation. In terrain where communication is difficult, a relay function can extend the transmission range."
+              },
+              {
+                "t": "p",
+                "x": "DJI plans to supply the Matrice 5T to a range of industrial settings, including public safety and disaster response, power and telecom facility inspection, and surveying."
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "DJI Matrice 5T, un dron\ncon LiDAR y AI",
+          "body": "DJI lanzó un dron que inspecciona de noche y con mal tiempo gracias a LiDAR, radar y AI.",
+          "mini_headline": "DJI lanza el Matrice 5T",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "DJI lanzó el día 6 el Matrice 5T, un dron industrial que combina LiDAR, radar de ondas milimétricas y tecnología de análisis de imagen con inteligencia artificial (AI). Está diseñado para detectar obstáculos de noche o con mal tiempo y realizar tareas industriales como la inspección de instalaciones y la respuesta a emergencias. El nuevo producto es el modelo insignia de los drones industriales compactos de DJI. El LiDAR detecta obstáculos finos, como cables eléctricos, a hasta 32m incluso de noche. El radar de ondas milimétricas percibe el entorno aun cuando la niebla, la lluvia o el polvo limitan la visibilidad."
+              },
+              {
+                "t": "p",
+                "x": "También se ha mejorado la cámara. Incorpora una cámara térmica infrarroja con una resolución base de 1280×1024, que multiplica por 4 el número de píxeles frente al anterior sensor de 640×512. En el modo de ultra alta resolución (UHR) admite 2560×2048. La cámara gran angular usa un sensor de imagen de 1/0.98 pulgadas y tecnología AI de mejora con poca luz, y con una sensibilidad máxima de ISO160만 puede grabar vídeo en color en entornos de apenas 0.01 lux. También lleva una cámara de teleobjetivo medio de 50 megapíxeles (MP) y un teleobjetivo con zoom óptico de 11 aumentos."
+              },
+              {
+                "t": "p",
+                "x": "Cuenta además con funciones de automatización del trabajo de campo basadas en AI. El modelo de AI integrado analiza a la vez imágenes térmicas y convencionales para identificar más de 20 tipos de objetivos, como vehículos y barcos. También sirve para inspeccionar instalaciones eléctricas: el LiDAR de la parte superior detecta líneas eléctricas y cables de tierra aéreos, y el dron está diseñado para volar a lo largo de la línea comprobando anomalías como hilos rotos u objetos extraños."
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1fd4e188c2ba4460b8e2ed290ad6ca7c_P1.jpg",
+                "cap": "DJI Matrice 5T"
+              },
+              {
+                "t": "p",
+                "x": "La autonomía de vuelo es de hasta 59 minutos y puede operar entre 20 grados bajo cero y 50 grados. Su protección contra polvo y agua es IP55. La distancia de transmisión de vídeo alcanza hasta 40㎞ según las pruebas del fabricante, frente a los 25㎞ de la generación anterior. En terrenos con comunicación difícil, una función de retransmisión permite ampliar el alcance."
+              },
+              {
+                "t": "p",
+                "x": "DJI prevé suministrar el Matrice 5T a diversos entornos industriales, como seguridad pública y respuesta a desastres, inspección de instalaciones eléctricas y de telecomunicaciones, y topografía."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "DJI Matrice 5T\nライダー・AI搭載ドローン",
+          "body": "DJIがライダーとレーダー、AIで夜間や悪天候でも点検できるドローンを発売した。",
+          "mini_headline": "DJI Matrice 5T発売",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "DJIは、ライダー(LiDAR)とミリ波レーダー、人工知能(AI)による映像解析技術を組み合わせた産業用ドローン「Matrice 5T」を6日に発売した。夜間や悪天候でも障害物を検知し、施設点検や緊急対応など産業現場の任務を遂行できるよう設計した製品だ。新製品はDJIの小型産業用ドローンのフラッグシップモデルである。ライダーは夜間でも最大32m 先の電線など細い障害物を検知する。ミリ波レーダーは霧や雨、粉じんで視界が限られる環境でも周囲の状況を把握する。"
+              },
+              {
+                "t": "p",
+                "x": "カメラ性能も強化した。基本解像度1280×1024の赤外線サーマルカメラを搭載し、従来の640×512センサーに比べ画素数を4倍に増やした。超高解像度(UHR)モードでは2560×2048の解像度に対応する。広角カメラには1/0.98インチのイメージセンサーとAIによる低照度補正技術を採用した。最大ISO160万の感度により、0.01ルクス程度の暗い環境でもカラー映像を撮影できる。50MP中望遠カメラと、11倍光学ズームに対応する望遠カメラも搭載した。"
+              },
+              {
+                "t": "p",
+                "x": "AIを活用した現場作業の自動化機能も備える。機体に搭載したAIモデルは熱画像と通常映像をあわせて解析し、車両や船舶など20種類以上の対象を識別する。電力設備の点検にも活用できる。機体上部のライダーで電力線と架空地線を検知し、線路に沿って飛行しながら断線した素線や異物などの異常の兆候を確認するよう設計した。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1fd4e188c2ba4460b8e2ed290ad6ca7c_P1.jpg",
+                "cap": "DJI Matrice 5T"
+              },
+              {
+                "t": "p",
+                "x": "飛行時間は最大59分で、氷点下20度から50度まで運用できる。防塵・防水等級はIP55だ。映像伝送距離はメーカー試験基準で最大40㎞と、前世代の25㎞から延びた。通信が難しい地形では中継機能を使って伝送範囲を広げられる。"
+              },
+              {
+                "t": "p",
+                "x": "DJIはMatrice 5Tを公共安全や災害対応、電力・通信設備の点検、測量など多様な産業現場に供給する計画だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "DJI Matrice 5T\n搭载激光雷达与AI的无人机",
+          "body": "DJI推出借助激光雷达、雷达和AI在夜间及恶劣天气下执行巡检的无人机。",
+          "mini_headline": "DJI Matrice 5T发布",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "DJI于6日推出一款融合激光雷达(LiDAR)、毫米波雷达与人工智能(AI)影像分析技术的工业无人机“Matrice 5T”。该产品专为在夜间或恶劣天气下探测障碍物、执行设施巡检与应急响应等工业现场任务而设计。新品是DJI小型工业无人机的旗舰机型。激光雷达在夜间也能探测最远32m 外的电线等细小障碍物。毫米波雷达在雾、雨、粉尘导致视野受限的环境中同样能感知周边状况。"
+              },
+              {
+                "t": "p",
+                "x": "相机性能也有所增强。机身搭载基础分辨率为1280×1024的红外热成像相机，像素数达到此前640×512传感器的4倍。超高分辨率(UHR)模式下支持2560×2048分辨率。广角相机采用1/0.98英寸图像传感器及AI低照度增强技术，最高ISO160万感光度可在0.01勒克斯级别的暗光环境中拍摄彩色影像。此外还搭载了50MP中长焦相机，以及支持11倍光学变焦的长焦相机。"
+              },
+              {
+                "t": "p",
+                "x": "该机还具备利用AI实现现场作业自动化的功能。机载AI模型可同时分析热成像与普通影像，识别车辆、船舶等20种以上目标。它也可用于电力设施巡检：通过机身顶部的激光雷达感知电力线与架空地线，并沿线路飞行，检查断股、异物等异常迹象。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1fd4e188c2ba4460b8e2ed290ad6ca7c_P1.jpg",
+                "cap": "DJI Matrice 5T"
+              },
+              {
+                "t": "p",
+                "x": "最长飞行时间为59分钟，可在零下20度至零上50度的环境中运行。防尘防水等级为IP55。按制造商测试标准，图传距离最远可达40㎞，较上一代的25㎞有所提升。在通信困难的地形中，可借助中继功能扩展传输范围。"
+              },
+              {
+                "t": "p",
+                "x": "DJI计划将Matrice 5T供应给公共安全、灾害应对、电力与通信设施巡检、测绘等多个行业现场。"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "siri-ai-waitlist-ios27",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Siri AI 베타\niOS 27 대기열 폐지",
+      "body": "Apple이 iOS 27 Siri AI 베타 대기열을 없애 오늘부터 쓸 수 있다.",
+      "mini_headline": "Siri AI 베타 대기열 폐지",
+      "tool": "Gadgets",
+      "source": "ZDNET",
+      "url": "https://www.zdnet.com/business/siri-ai-beta-waitlist-ends-ios-27/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,173 +773,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://media.wired.com/photos/6ad0bda38de176c462eac73d/master/w_2560%2Cc_limit/Screenshot%25202026-10-15%2520at%252012.48.10.jpg"
+            "src": "https://www.zdnet.com/wp-content/uploads/sites/3/1_9958c8.jpg",
+            "cap": "Maria Diaz/ZDNET"
           },
           {
             "t": "p",
-            "x": "에어컨과 선풍기가 전 세계 건물 전력 사용량의 약 20퍼센트를 차지한다. 사용 중인 AC는 2050년이면 5.5B 대에 이를 수 있다. 2026년 지금, AI-powered ACs는 집 안 사람을 밀리미터 단위로 추적한다."
+            "x": "그동안 Apple의 새 생성형 AI 기반(AI-powered) 가상 비서 Siri AI를 iOS 27이 돌아가는 호환 Apple 기기에서 켜면, 기기가 대기열에 올라가며 대기 시간은 제각각이라는 메시지가 떴다. 이제는 호환되는 iPhone, Mac, iPad에서 켜는 즉시 Siri AI를 자동으로 내려받는다. 예외는 하나다. 수요가 이례적으로 몰리면 Apple이 대기열을 잠시 다시 둘 수 있다."
           },
           {
             "t": "p",
-            "x": "LG의 최신 DualCool AI AC에는 사람을 감지하는 5미터 레이더 센서가 달렸다. Hisense의 Companion Living AC는 스마트홈 센서로 생활 패턴을 읽어 \"목표 경로\"를 미리 식혀 둔다. Dyson의 Find+Follow 공기청정 선풍기는 저해상도 카메라로 17개 지점에서 사람을 감지하는데, 얼굴은 인식하지 않고 기기 안에서 처리한다."
+            "x": "설정(Settings)에서 Siri를 누르고 Try Siri AI (Beta)를 눌러 안내를 따르면 된다. 대기열을 거치지 않고 Siri AI 다운로드가 바로 시작된다. Apple Intelligence가 돌아가는 호환 기기여야 하며 iPhone(15 Pro 이후), iPad(Mini A17 Pro 이후 또는 M-series 칩), Mac(MacBook Neo 또는 M-series 칩), Apple Watch(Series 9 및 Ultra 2 이후), Apple Vision Pro가 해당한다."
           },
           {
             "t": "p",
-            "x": "Samsung의 Bespoke AI WindFree Pro에는 두 명까지 추적하는 모션 레이더 센서가 더해졌다. Samsung은 AI 에너지 모드로 \"최대 30퍼센트\"의 에너지를 아낀다고 주장한다. 2027년 초 나오는 Midea의 VitaBreeze AC는 방 사진에 밀리미터파 레이더를 결합했다."
+            "x": "Siri AI는 정해진 답 대신 복잡한 질문에 답하고 더 자연스러운 말도 알아듣는다. 대화가 이어지는 동안은 물론 Apple 생태계 전반에서 맥락도 놓치지 않는다. ZDNET의 Lance Whitney는 화면 인식 기능으로 길을 묻거나 화면 속 내용을 설명해 달라고 하거나 화면의 항목을 목록에 넣어 보라고 권한다."
           },
           {
             "t": "p",
-            "x": "KTH의 Björn Palm은 \"냉방에 쓰이는 전체 에너지를 줄일 잠재력은 분명히 있다\"고 말한다. 얼마나 줄일지는 덜 분명하다. Gradient CTO Vincent Romanin은 회의적이다. \"재실 센서가 달린 제품 중 제대로 작동한다고 느낀 것은 개인적으로 한 번도 없었다.\" Palm이 보기에 2050년의 지속 가능한 냉방은 부엌까지 따라오는 AC가 아니라 소형 히트펌프와 자연 냉매에 달렸다."
+            "x": "iOS 27은 올가을 iPadOS 27, MacOS 27 Golden Gate, VisionOS 27, WatchOS 27과 함께 Siri AI를 베타로 내놓았다. 지원 언어는 영어, 프랑스어, 일본어, 한국어, 포르투갈어, 스페인어다. 중국 본토에서는 쓸 수 없고 유럽연합의 iOS, iPadOS, WatchOS에서도 빠졌다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Radar-tracking AI ACs aim\nto cut cooling energy use",
-          "body": "LG, Samsung and Midea add radar that tracks occupants to aim AI cooling, but how much energy it saves is less clear.",
-          "mini_headline": "Radar AI ACs track occupants",
+          "headline": "Apple drops the waitlist\nfor the Siri AI beta in iOS 27",
+          "body": "Apple has dropped the beta waitlist for Siri AI on iOS 27, so users can start trying the beta today.",
+          "mini_headline": "Siri AI beta waitlist ends",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ad0bda38de176c462eac73d/master/w_2560%2Cc_limit/Screenshot%25202026-10-15%2520at%252012.48.10.jpg"
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/1_9958c8.jpg",
+                "cap": "Maria Diaz/ZDNET"
               },
               {
                 "t": "p",
-                "x": "Air conditioners and electric fans account for around 20 percent of electricity used in buildings worldwide, and the number of AC units in use could reach 5.5 billion by 2050. Fast-forward to 2026 and AI-powered ACs now track people in the home with millimeter-level precision."
+                "x": "Enabling Siri AI, Apple’s new generative AI-powered virtual assistant, on a compatible Apple device running iOS 27 used to prompt a message informing the user that the device would be added to a waitlist with varying wait times. Now, you can download Siri AI automatically as soon as you enable it on your compatible iPhone, Mac, or iPad. The one exception is that, if there is unusually high demand, Apple could temporarily reinstate its waitlist."
               },
               {
                 "t": "p",
-                "x": "LG's latest DualCool AI AC has a 5-meter radar sensor for people detection. Hisense's Companion Living AC uses smart home sensors to precool \"target paths\" based on your routines. Dyson's Find+Follow purifier and fan uses a low-resolution camera with 17-point person detection, processed on-device without face recognition."
+                "x": "To get it, go to Settings, tap Siri, then tap Try Siri AI (Beta) and follow the prompts — instead of adding you to a waitlist, Siri AI will begin downloading right away. You’ll need a compatible device that runs Apple Intelligence, like an iPhone (15 Pro or newer), iPad (Mini A17 Pro or newer or an M-series chip), Mac (MacBook Neo or M-series chip), Apple Watch (Series 9 and Ultra 2 or newer), or Apple Vision Pro."
               },
               {
                 "t": "p",
-                "x": "Samsung's Bespoke AI WindFree Pro adds a motion radar sensor that can track two occupants; Samsung claims energy savings of \"up to 30 percent\" with its AI energy mode. Midea's VitaBreeze AC, launching in early 2027, combines room photos with millimeter-wave radar."
+                "x": "Instead of giving you canned responses, Siri AI will be able to answer complex questions, understand more natural-sounding phrases, and maintain context throughout conversations and across your Apple ecosystem. ZDNET’s Lance Whitney recommends using its onscreen awareness feature to ask for directions, explain something on screen, or add items from your screen to a list."
               },
               {
                 "t": "p",
-                "x": "\"It definitely has the potential to reduce the total energy use for air-conditioning,\" says Björn Palm of KTH. By how much? That's less clear. Gradient CTO Vincent Romanin is skeptical: \"I personally have never used a product with an occupancy sensor that I feel like worked well.\" For Palm, sustainable cooling by 2050 depends on compact heat pumps and natural refrigerants rather than an AC that tracks you to the kitchen."
+                "x": "iOS 27 delivered Siri AI in beta this fall, along with iPadOS 27, MacOS 27 Golden Gate, VisionOS 27, and WatchOS 27. Supported languages are English, French, Japanese, Korean, Portuguese, and Spanish; it is not available in mainland China or in iOS, iPadOS, or WatchOS in the European Union."
               }
             ]
           }
         },
         "ko": {
-          "headline": "레이더 추적 AI ACs\n냉방 에너지 줄일까",
-          "body": "LG·Samsung·Midea가 레이더 AI 냉방을 내놨지만 절감 폭은 모호하다.",
-          "mini_headline": "사람 쫓는 레이더 AI ACs",
+          "headline": "Siri AI 베타\niOS 27 대기열 폐지",
+          "body": "Apple이 iOS 27 Siri AI 베타 대기열을 없애 오늘부터 쓸 수 있다.",
+          "mini_headline": "Siri AI 베타 대기열 폐지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ad0bda38de176c462eac73d/master/w_2560%2Cc_limit/Screenshot%25202026-10-15%2520at%252012.48.10.jpg"
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/1_9958c8.jpg",
+                "cap": "Maria Diaz/ZDNET"
               },
               {
                 "t": "p",
-                "x": "에어컨과 선풍기가 전 세계 건물 전력 사용량의 약 20퍼센트를 차지한다. 사용 중인 AC는 2050년이면 5.5B 대에 이를 수 있다. 2026년 지금, AI-powered ACs는 집 안 사람을 밀리미터 단위로 추적한다."
+                "x": "그동안 Apple의 새 생성형 AI 기반(AI-powered) 가상 비서 Siri AI를 iOS 27이 돌아가는 호환 Apple 기기에서 켜면, 기기가 대기열에 올라가며 대기 시간은 제각각이라는 메시지가 떴다. 이제는 호환되는 iPhone, Mac, iPad에서 켜는 즉시 Siri AI를 자동으로 내려받는다. 예외는 하나다. 수요가 이례적으로 몰리면 Apple이 대기열을 잠시 다시 둘 수 있다."
               },
               {
                 "t": "p",
-                "x": "LG의 최신 DualCool AI AC에는 사람을 감지하는 5미터 레이더 센서가 달렸다. Hisense의 Companion Living AC는 스마트홈 센서로 생활 패턴을 읽어 \"목표 경로\"를 미리 식혀 둔다. Dyson의 Find+Follow 공기청정 선풍기는 저해상도 카메라로 17개 지점에서 사람을 감지하는데, 얼굴은 인식하지 않고 기기 안에서 처리한다."
+                "x": "설정(Settings)에서 Siri를 누르고 Try Siri AI (Beta)를 눌러 안내를 따르면 된다. 대기열을 거치지 않고 Siri AI 다운로드가 바로 시작된다. Apple Intelligence가 돌아가는 호환 기기여야 하며 iPhone(15 Pro 이후), iPad(Mini A17 Pro 이후 또는 M-series 칩), Mac(MacBook Neo 또는 M-series 칩), Apple Watch(Series 9 및 Ultra 2 이후), Apple Vision Pro가 해당한다."
               },
               {
                 "t": "p",
-                "x": "Samsung의 Bespoke AI WindFree Pro에는 두 명까지 추적하는 모션 레이더 센서가 더해졌다. Samsung은 AI 에너지 모드로 \"최대 30퍼센트\"의 에너지를 아낀다고 주장한다. 2027년 초 나오는 Midea의 VitaBreeze AC는 방 사진에 밀리미터파 레이더를 결합했다."
+                "x": "Siri AI는 정해진 답 대신 복잡한 질문에 답하고 더 자연스러운 말도 알아듣는다. 대화가 이어지는 동안은 물론 Apple 생태계 전반에서 맥락도 놓치지 않는다. ZDNET의 Lance Whitney는 화면 인식 기능으로 길을 묻거나 화면 속 내용을 설명해 달라고 하거나 화면의 항목을 목록에 넣어 보라고 권한다."
               },
               {
                 "t": "p",
-                "x": "KTH의 Björn Palm은 \"냉방에 쓰이는 전체 에너지를 줄일 잠재력은 분명히 있다\"고 말한다. 얼마나 줄일지는 덜 분명하다. Gradient CTO Vincent Romanin은 회의적이다. \"재실 센서가 달린 제품 중 제대로 작동한다고 느낀 것은 개인적으로 한 번도 없었다.\" Palm이 보기에 2050년의 지속 가능한 냉방은 부엌까지 따라오는 AC가 아니라 소형 히트펌프와 자연 냉매에 달렸다."
+                "x": "iOS 27은 올가을 iPadOS 27, MacOS 27 Golden Gate, VisionOS 27, WatchOS 27과 함께 Siri AI를 베타로 내놓았다. 지원 언어는 영어, 프랑스어, 일본어, 한국어, 포르투갈어, 스페인어다. 중국 본토에서는 쓸 수 없고 유럽연합의 iOS, iPadOS, WatchOS에서도 빠졌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "レーダー追跡のAI ACs\n冷房の省エネ狙う",
-          "body": "LG、Samsung、Mideaが在室者追跡レーダーでAI冷房を向けるが、効果は不透明だ。",
-          "mini_headline": "人を追うレーダーAI ACs",
+          "headline": "AppleのSiri AI\niOS 27で順番待ち廃止",
+          "body": "AppleがiOS 27のSiri AIベータの順番待ちを廃止、今日から試せる。",
+          "mini_headline": "Siri AIベータの順番待ち終了",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ad0bda38de176c462eac73d/master/w_2560%2Cc_limit/Screenshot%25202026-10-15%2520at%252012.48.10.jpg"
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/1_9958c8.jpg",
+                "cap": "Maria Diaz/ZDNET"
               },
               {
                 "t": "p",
-                "x": "エアコンと扇風機は世界の建物で使われる電力の約20パーセントを占め、稼働するACの台数は2050年までに5.5B 台に達する可能性がある。2026年の今、AI-powered ACsは家の中の人をミリ単位の精度で追跡している。"
+                "x": "iOS 27を搭載した対応Appleデバイスで、Appleの新しい生成AI搭載(AI-powered)仮想アシスタントであるSiri AIを有効にすると、これまではデバイスが順番待ちリストに追加され、待ち時間はまちまちだというメッセージが表示されていた。現在は対応するiPhone、Mac、iPadで有効にすると、すぐに自動でSiri AIをダウンロードできる。唯一の例外として、需要が異常に高まった場合、Appleは一時的に順番待ちを再開する可能性がある。"
               },
               {
                 "t": "p",
-                "x": "LGの最新DualCool AI ACは、人を検知する5メートルのレーダーセンサーを備える。HisenseのCompanion Living ACはスマートホームのセンサーを使い、生活パターンに基づいて「ターゲット経路」を事前に冷やす。DysonのFind+Follow空気清浄ファンは17点で人を検知する低解像度カメラを使い、顔認識なしにデバイス上で処理する。"
+                "x": "入手するには、Settings(設定)でSiriをタップし、Try Siri AI (Beta)をタップして案内に従う。順番待ちリストに登録される代わりに、Siri AIのダウンロードがすぐに始まる。Apple Intelligenceが動作する対応デバイスが必要で、iPhone(15 Pro以降)、iPad(Mini A17 Pro以降またはM-seriesチップ搭載機)、Mac(MacBook NeoまたはM-seriesチップ搭載機)、Apple Watch(Series 9およびUltra 2以降)、Apple Vision Proが該当する。"
               },
               {
                 "t": "p",
-                "x": "SamsungのBespoke AI WindFree Proは二人まで追跡できるモーションレーダーセンサーを追加した。SamsungはAI省エネモードで「最大30パーセント」の省エネになると主張する。2027年初めに発売されるMideaのVitaBreeze ACは、室内の写真とミリ波レーダーを組み合わせる。"
+                "x": "Siri AIは決まりきった応答ではなく、複雑な質問に答え、より自然な言い回しを理解し、会話全体を通じて、またApple製品全体にわたって文脈を保てるようになる。ZDNETのLance Whitneyは、画面認識機能を使って道順を尋ねたり、画面上のものを説明させたり、画面上の項目をリストに追加したりすることを勧めている。"
               },
               {
                 "t": "p",
-                "x": "「空調の総エネルギー使用量を減らす可能性は確かにある」とKTHのBjörn Palmは言う。では、どれほどか。それははっきりしない。GradientのCTO、Vincent Romaninは懐疑的だ。「在室センサー付きの製品で、うまく機能したと感じたものは個人的に一度もない」。Palmにとって2050年の持続可能な冷房を左右するのは、台所までついてくるACではなく、小型ヒートポンプと自然冷媒だ。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Los ACs con AI y radar buscan\nreducir el consumo al enfriar",
-          "body": "LG, Samsung y Midea suman un radar que sigue a los ocupantes para guiar el frío con AI, pero el ahorro es incierto.",
-          "mini_headline": "ACs con AI y radar siguen a ocupantes",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6ad0bda38de176c462eac73d/master/w_2560%2Cc_limit/Screenshot%25202026-10-15%2520at%252012.48.10.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Los aires acondicionados y ventiladores eléctricos representan alrededor del 20 por ciento de la electricidad usada en edificios de todo el mundo, y el número de unidades de AC en uso podría llegar a 5.5 mil millones en 2050. En 2026, los AI-powered ACs ya rastrean a las personas en casa con precisión milimétrica."
-              },
-              {
-                "t": "p",
-                "x": "El nuevo DualCool AI AC de LG tiene un sensor de radar de 5 metros para detectar personas. El Companion Living AC de Hisense usa sensores del hogar inteligente para preenfriar \"rutas objetivo\" según tus rutinas. El purificador y ventilador Find+Follow de Dyson usa una cámara de baja resolución con detección de personas en 17 puntos, procesada en el dispositivo sin reconocimiento facial."
-              },
-              {
-                "t": "p",
-                "x": "El Bespoke AI WindFree Pro de Samsung añade un sensor de radar de movimiento que puede seguir a dos ocupantes; Samsung asegura un ahorro de energía de \"hasta un 30 por ciento\" con su modo de energía AI. El VitaBreeze AC de Midea, que saldrá a la venta a principios de 2027, combina fotos de la habitación con radar de ondas milimétricas."
-              },
-              {
-                "t": "p",
-                "x": "\"Sin duda tiene el potencial de reducir el consumo total de energía del aire acondicionado\", dice Björn Palm, de KTH. ¿Cuánto? Eso está menos claro. Vincent Romanin, CTO de Gradient, es escéptico: \"Personalmente nunca he usado un producto con sensor de ocupación que sintiera que funcionaba bien\". Para Palm, la refrigeración sostenible en 2050 depende de bombas de calor compactas y refrigerantes naturales, más que de un AC que te sigue hasta la cocina."
+                "x": "iOS 27はこの秋、iPadOS 27、MacOS 27 Golden Gate、VisionOS 27、WatchOS 27とともにSiri AIをベータ版として提供した。対応言語は英語、フランス語、日本語、韓国語、ポルトガル語、スペイン語である。中国本土では利用できず、欧州連合ではiOS、iPadOS、WatchOSで提供されていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "雷达追踪AI ACs\n力求降低制冷能耗",
-          "body": "LG、Samsung和Midea加装追踪人员的雷达来引导AI制冷，但能省多少电尚不明确。",
-          "mini_headline": "雷达AI ACs 追踪室内人员",
+          "headline": "Apple取消iOS 27\nSiri AI测试版排队",
+          "body": "Apple取消了iOS 27上Siri AI测试版的候补名单，用户今天即可开始试用。",
+          "mini_headline": "Siri AI测试版取消排队",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ad0bda38de176c462eac73d/master/w_2560%2Cc_limit/Screenshot%25202026-10-15%2520at%252012.48.10.jpg"
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/1_9958c8.jpg",
+                "cap": "Maria Diaz/ZDNET"
               },
               {
                 "t": "p",
-                "x": "空调和电风扇约占全球建筑用电量的百分之二十，到2050年，在用空调数量可能达到5.5 billion 台。来到2026年，AI-powered ACs 已能以毫米级精度追踪家中的人。"
+                "x": "Siri AI是Apple推出的全新生成式AI驱动（AI-powered）虚拟助手。此前，在运行iOS 27的兼容Apple设备上启用Siri AI时，会弹出提示，告知设备将被加入候补名单，等待时间长短不一。现在，只要在兼容的iPhone、Mac或iPad上启用，即可自动下载Siri AI。唯一的例外是，如果需求异常旺盛，Apple可能会暂时恢复候补名单。"
               },
               {
                 "t": "p",
-                "x": "LG最新的DualCool AI AC配备5米雷达传感器用于检测人员。Hisense的Companion Living AC借助智能家居传感器，根据你的生活规律预先冷却\"目标路径\"。Dyson的Find+Follow净化风扇使用低分辨率摄像头进行17点人体检测，在设备端处理，不做人脸识别。"
+                "x": "获取方法：前往Settings（设置），点击Siri，再点击Try Siri AI (Beta)并按提示操作——Siri AI会立即开始下载，而不是把你加入候补名单。你需要一台能运行Apple Intelligence的兼容设备，例如iPhone（15 Pro或更新机型）、iPad（Mini A17 Pro或更新机型，或搭载M-series芯片的机型）、Mac（MacBook Neo或搭载M-series芯片的机型）、Apple Watch（Series 9和Ultra 2或更新机型）或Apple Vision Pro。"
               },
               {
                 "t": "p",
-                "x": "Samsung的Bespoke AI WindFree Pro加装了可追踪两名使用者的运动雷达传感器；Samsung称其AI节能模式可节能\"最高百分之三十\"。Midea的VitaBreeze AC将于2027年初上市，结合房间照片与毫米波雷达。"
+                "x": "Siri AI不再给出千篇一律的回答，而是能回答复杂问题、理解更自然的表达，并在整段对话中以及整个Apple生态内保持上下文。ZDNET的Lance Whitney建议使用其屏幕感知功能来询问路线、解释屏幕上的内容，或将屏幕上的项目添加到列表中。"
               },
               {
                 "t": "p",
-                "x": "\"它确实有潜力降低空调的总能耗，\"KTH的Björn Palm说。能降多少？这就不太清楚了。Gradient CTO Vincent Romanin持怀疑态度：\"我个人从没用过一款让我觉得好用的带占用传感器的产品。\"在Palm看来，到2050年实现可持续制冷，靠的是紧凑型热泵和天然制冷剂，而不是一台跟着你走进厨房的AC。"
+                "x": "今年秋天，iOS 27随iPadOS 27、MacOS 27 Golden Gate、VisionOS 27和WatchOS 27一同推出了Siri AI测试版。支持的语言包括英语、法语、日语、韩语、葡萄牙语和西班牙语；该功能在中国大陆不可用，在欧盟的iOS、iPadOS和WatchOS上也不提供。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Apple elimina la lista de espera\nde la beta de Siri AI en iOS 27",
+          "body": "Apple eliminó la lista de espera de la beta de Siri AI en iOS 27, así que ya se puede probar desde hoy.",
+          "mini_headline": "Fin de la lista de espera de Siri AI beta",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/1_9958c8.jpg",
+                "cap": "Maria Diaz/ZDNET"
+              },
+              {
+                "t": "p",
+                "x": "Al activar Siri AI, el nuevo asistente virtual de Apple basado en AI generativa (AI-powered), en un dispositivo Apple compatible con iOS 27, antes aparecía un mensaje que informaba al usuario de que el dispositivo se añadiría a una lista de espera con tiempos variables. Ahora, Siri AI se descarga automáticamente en cuanto se activa en un iPhone, Mac o iPad compatible. La única excepción es que, si la demanda es inusualmente alta, Apple podría restablecer temporalmente la lista de espera."
+              },
+              {
+                "t": "p",
+                "x": "Para obtenerlo, hay que ir a Settings (Ajustes), tocar Siri, luego Try Siri AI (Beta) y seguir las indicaciones: en lugar de añadirte a una lista de espera, Siri AI empezará a descargarse de inmediato. Se necesita un dispositivo compatible con Apple Intelligence, como un iPhone (15 Pro o posterior), iPad (Mini A17 Pro o posterior, o con chip M-series), Mac (MacBook Neo o chip M-series), Apple Watch (Series 9 y Ultra 2 o posterior) o Apple Vision Pro."
+              },
+              {
+                "t": "p",
+                "x": "En lugar de dar respuestas predefinidas, Siri AI podrá responder preguntas complejas, entender frases más naturales y mantener el contexto a lo largo de las conversaciones y en todo el ecosistema de Apple. Lance Whitney, de ZDNET, recomienda usar su función de reconocimiento de pantalla para pedir indicaciones, que explique algo en pantalla o añadir elementos de la pantalla a una lista."
+              },
+              {
+                "t": "p",
+                "x": "iOS 27 trajo Siri AI en beta este otoño, junto con iPadOS 27, MacOS 27 Golden Gate, VisionOS 27 y WatchOS 27. Los idiomas compatibles son inglés, francés, japonés, coreano, portugués y español; no está disponible en China continental ni en iOS, iPadOS o WatchOS en la Unión Europea."
               }
             ]
           }
@@ -193,121 +953,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "레이더 추적 AI ACs\n냉방 에너지 줄일까",
-          "body": "LG·Samsung·Midea가 레이더 AI 냉방을 내놨지만 절감 폭은 모호하다.",
-          "mini_headline": "사람 쫓는 레이더 AI ACs",
+          "headline": "Siri AI 베타\niOS 27 대기열 폐지",
+          "body": "Apple이 iOS 27 Siri AI 베타 대기열을 없애 오늘부터 쓸 수 있다.",
+          "mini_headline": "Siri AI 베타 대기열 폐지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ad0bda38de176c462eac73d/master/w_2560%2Cc_limit/Screenshot%25202026-10-15%2520at%252012.48.10.jpg"
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/1_9958c8.jpg",
+                "cap": "Maria Diaz/ZDNET"
               },
               {
                 "t": "p",
-                "x": "에어컨과 선풍기는 전 세계 건물 전력 사용량의 약 20퍼센트를 차지하고, 사용 중인 AC 대수는 2050년까지 5.5B 대에 이를 수 있다. 2026년 현재 AI-powered ACs는 집 안의 사람을 밀리미터 수준의 정밀도로 추적한다."
+                "x": "Apple의 새 생성형 AI 기반(AI-powered) 가상 비서 Siri AI는 그동안 iOS 27을 실행하는 호환 Apple 기기에서 켜면 기기가 대기열에 추가되며 대기 시간은 제각각이라는 메시지가 떴다. 이제는 호환되는 iPhone, Mac, iPad에서 켜는 즉시 Siri AI를 자동으로 내려받을 수 있다. 단 하나의 예외로, 수요가 이례적으로 몰리면 Apple이 일시적으로 대기열을 다시 도입할 수 있다."
               },
               {
                 "t": "p",
-                "x": "LG의 최신 DualCool AI AC는 사람을 감지하는 5미터 레이더 센서를 갖췄다. Hisense의 Companion Living AC는 스마트홈 센서로 사용자의 생활 패턴에 맞춰 \"목표 경로\"를 미리 냉방한다. Dyson의 Find+Follow 공기청정 선풍기는 17개 지점으로 사람을 감지하는 저해상도 카메라를 쓰며, 얼굴 인식 없이 기기 안에서 처리한다."
+                "x": "설정(Settings)에서 Siri를 누른 뒤 Try Siri AI (Beta)를 눌러 안내를 따르면 된다. 대기열에 올리는 대신 Siri AI 다운로드가 곧바로 시작된다. Apple Intelligence를 실행하는 호환 기기가 필요하다. iPhone(15 Pro 이후), iPad(Mini A17 Pro 이후 또는 M-series 칩), Mac(MacBook Neo 또는 M-series 칩), Apple Watch(Series 9 및 Ultra 2 이후), Apple Vision Pro가 해당한다."
               },
               {
                 "t": "p",
-                "x": "Samsung의 Bespoke AI WindFree Pro는 두 명까지 추적하는 모션 레이더 센서를 더했다. Samsung은 AI 에너지 모드로 \"최대 30퍼센트\"의 에너지를 아낀다고 주장한다. 2027년 초 출시되는 Midea의 VitaBreeze AC는 방 사진과 밀리미터파 레이더를 결합한다."
+                "x": "Siri AI는 정해진 답변 대신 복잡한 질문에 답하고, 더 자연스러운 표현을 이해하며, 대화 내내 그리고 Apple 생태계 전반에서 맥락을 유지한다. ZDNET의 Lance Whitney는 화면 인식 기능을 활용해 길을 묻거나, 화면 속 내용을 설명받거나, 화면의 항목을 목록에 추가해 보라고 권한다."
               },
               {
                 "t": "p",
-                "x": "KTH의 Björn Palm은 \"냉방에 쓰이는 전체 에너지를 줄일 잠재력은 분명히 있다\"고 말한다. 얼마나 줄일 수 있을까? 그건 덜 분명하다. Gradient CTO Vincent Romanin은 회의적이다. \"재실 센서가 달린 제품 중 제대로 작동한다고 느낀 것은 개인적으로 한 번도 없었다.\" Palm은 2050년의 지속 가능한 냉방이 부엌까지 따라오는 AC가 아니라 소형 히트펌프와 자연 냉매에 달렸다고 본다."
+                "x": "iOS 27은 올가을 iPadOS 27, MacOS 27 Golden Gate, VisionOS 27, WatchOS 27과 함께 Siri AI를 베타로 선보였다. 지원 언어는 영어, 프랑스어, 일본어, 한국어, 포르투갈어, 스페인어다. 중국 본토에서는 쓸 수 없고, 유럽연합에서는 iOS, iPadOS, WatchOS에서 제공되지 않는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "レーダー追跡のAI ACs\n冷房の省エネ狙う",
-          "body": "LG、Samsung、Mideaが在室者追跡レーダーでAI冷房を向けるが、効果は不透明だ。",
-          "mini_headline": "人を追うレーダーAI ACs",
+          "headline": "AppleのSiri AI\niOS 27で順番待ち廃止",
+          "body": "AppleがiOS 27のSiri AIベータの順番待ちを廃止、今日から試せる。",
+          "mini_headline": "Siri AIベータの順番待ち終了",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ad0bda38de176c462eac73d/master/w_2560%2Cc_limit/Screenshot%25202026-10-15%2520at%252012.48.10.jpg"
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/1_9958c8.jpg",
+                "cap": "Maria Diaz/ZDNET"
               },
               {
                 "t": "p",
-                "x": "エアコンと扇風機は世界の建物で使われる電力の約20パーセントを占め、稼働するACの台数は2050年までに5.5B 台に達する可能性がある。2026年の今、AI-powered ACsは家の中の人をミリ単位の精度で追跡している。"
+                "x": "iOS 27を搭載した対応Appleデバイスで、Appleの新しい生成AI搭載(AI-powered)仮想アシスタントであるSiri AIを有効にすると、これまではデバイスが順番待ちリストに追加され、待ち時間はまちまちだというメッセージが表示されていた。現在は対応するiPhone、Mac、iPadで有効にすると、すぐに自動でSiri AIをダウンロードできる。唯一の例外として、需要が異常に高まった場合、Appleは一時的に順番待ちを再開する可能性がある。"
               },
               {
                 "t": "p",
-                "x": "LGの最新DualCool AI ACは、人を検知する5メートルのレーダーセンサーを備える。HisenseのCompanion Living ACはスマートホームのセンサーを使い、生活パターンに基づいて「ターゲット経路」を事前に冷やす。DysonのFind+Follow空気清浄ファンは17点で人を検知する低解像度カメラを使い、顔認識なしにデバイス上で処理する。"
+                "x": "入手するには、Settings(設定)でSiriをタップし、Try Siri AI (Beta)をタップして案内に従う。順番待ちリストに登録される代わりに、Siri AIのダウンロードがすぐに始まる。Apple Intelligenceが動作する対応デバイスが必要で、iPhone(15 Pro以降)、iPad(Mini A17 Pro以降またはM-seriesチップ搭載機)、Mac(MacBook NeoまたはM-seriesチップ搭載機)、Apple Watch(Series 9およびUltra 2以降)、Apple Vision Proが該当する。"
               },
               {
                 "t": "p",
-                "x": "SamsungのBespoke AI WindFree Proは二人まで追跡できるモーションレーダーセンサーを追加した。SamsungはAI省エネモードで「最大30パーセント」の省エネになると主張する。2027年初めに発売されるMideaのVitaBreeze ACは、室内の写真とミリ波レーダーを組み合わせる。"
+                "x": "Siri AIは決まりきった応答ではなく、複雑な質問に答え、より自然な言い回しを理解し、会話全体を通じて、またApple製品全体にわたって文脈を保てるようになる。ZDNETのLance Whitneyは、画面認識機能を使って道順を尋ねたり、画面上のものを説明させたり、画面上の項目をリストに追加したりすることを勧めている。"
               },
               {
                 "t": "p",
-                "x": "「空調の総エネルギー使用量を減らす可能性は確かにある」とKTHのBjörn Palmは言う。では、どれほどか。それははっきりしない。GradientのCTO、Vincent Romaninは懐疑的だ。「在室センサー付きの製品で、うまく機能したと感じたものは個人的に一度もない」。Palmにとって2050年の持続可能な冷房を左右するのは、台所までついてくるACではなく、小型ヒートポンプと自然冷媒だ。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Los ACs con AI y radar buscan\nreducir el consumo al enfriar",
-          "body": "LG, Samsung y Midea suman un radar que sigue a los ocupantes para guiar el frío con AI, pero el ahorro es incierto.",
-          "mini_headline": "ACs con AI y radar siguen a ocupantes",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6ad0bda38de176c462eac73d/master/w_2560%2Cc_limit/Screenshot%25202026-10-15%2520at%252012.48.10.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Los aires acondicionados y ventiladores eléctricos representan alrededor del 20 por ciento de la electricidad usada en edificios de todo el mundo, y el número de unidades de AC en uso podría llegar a 5.5 mil millones en 2050. En 2026, los AI-powered ACs ya rastrean a las personas en casa con precisión milimétrica."
-              },
-              {
-                "t": "p",
-                "x": "El nuevo DualCool AI AC de LG tiene un sensor de radar de 5 metros para detectar personas. El Companion Living AC de Hisense usa sensores del hogar inteligente para preenfriar \"rutas objetivo\" según tus rutinas. El purificador y ventilador Find+Follow de Dyson usa una cámara de baja resolución con detección de personas en 17 puntos, procesada en el dispositivo sin reconocimiento facial."
-              },
-              {
-                "t": "p",
-                "x": "El Bespoke AI WindFree Pro de Samsung añade un sensor de radar de movimiento que puede seguir a dos ocupantes; Samsung asegura un ahorro de energía de \"hasta un 30 por ciento\" con su modo de energía AI. El VitaBreeze AC de Midea, que saldrá a la venta a principios de 2027, combina fotos de la habitación con radar de ondas milimétricas."
-              },
-              {
-                "t": "p",
-                "x": "\"Sin duda tiene el potencial de reducir el consumo total de energía del aire acondicionado\", dice Björn Palm, de KTH. ¿Cuánto? Eso está menos claro. Vincent Romanin, CTO de Gradient, es escéptico: \"Personalmente nunca he usado un producto con sensor de ocupación que sintiera que funcionaba bien\". Para Palm, la refrigeración sostenible en 2050 depende de bombas de calor compactas y refrigerantes naturales, más que de un AC que te sigue hasta la cocina."
+                "x": "iOS 27はこの秋、iPadOS 27、MacOS 27 Golden Gate、VisionOS 27、WatchOS 27とともにSiri AIをベータ版として提供した。対応言語は英語、フランス語、日本語、韓国語、ポルトガル語、スペイン語である。中国本土では利用できず、欧州連合ではiOS、iPadOS、WatchOSで提供されていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "雷达追踪AI ACs\n力求降低制冷能耗",
-          "body": "LG、Samsung和Midea加装追踪人员的雷达来引导AI制冷，但能省多少电尚不明确。",
-          "mini_headline": "雷达AI ACs 追踪室内人员",
+          "headline": "Apple取消iOS 27\nSiri AI测试版排队",
+          "body": "Apple取消了iOS 27上Siri AI测试版的候补名单，用户今天即可开始试用。",
+          "mini_headline": "Siri AI测试版取消排队",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ad0bda38de176c462eac73d/master/w_2560%2Cc_limit/Screenshot%25202026-10-15%2520at%252012.48.10.jpg"
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/1_9958c8.jpg",
+                "cap": "Maria Diaz/ZDNET"
               },
               {
                 "t": "p",
-                "x": "空调和电风扇约占全球建筑用电量的百分之二十，到2050年，在用空调数量可能达到5.5 billion 台。来到2026年，AI-powered ACs 已能以毫米级精度追踪家中的人。"
+                "x": "Siri AI是Apple推出的全新生成式AI驱动（AI-powered）虚拟助手。此前，在运行iOS 27的兼容Apple设备上启用Siri AI时，会弹出提示，告知设备将被加入候补名单，等待时间长短不一。现在，只要在兼容的iPhone、Mac或iPad上启用，即可自动下载Siri AI。唯一的例外是，如果需求异常旺盛，Apple可能会暂时恢复候补名单。"
               },
               {
                 "t": "p",
-                "x": "LG最新的DualCool AI AC配备5米雷达传感器用于检测人员。Hisense的Companion Living AC借助智能家居传感器，根据你的生活规律预先冷却\"目标路径\"。Dyson的Find+Follow净化风扇使用低分辨率摄像头进行17点人体检测，在设备端处理，不做人脸识别。"
+                "x": "获取方法：前往Settings（设置），点击Siri，再点击Try Siri AI (Beta)并按提示操作——Siri AI会立即开始下载，而不是把你加入候补名单。你需要一台能运行Apple Intelligence的兼容设备，例如iPhone（15 Pro或更新机型）、iPad（Mini A17 Pro或更新机型，或搭载M-series芯片的机型）、Mac（MacBook Neo或搭载M-series芯片的机型）、Apple Watch（Series 9和Ultra 2或更新机型）或Apple Vision Pro。"
               },
               {
                 "t": "p",
-                "x": "Samsung的Bespoke AI WindFree Pro加装了可追踪两名使用者的运动雷达传感器；Samsung称其AI节能模式可节能\"最高百分之三十\"。Midea的VitaBreeze AC将于2027年初上市，结合房间照片与毫米波雷达。"
+                "x": "Siri AI不再给出千篇一律的回答，而是能回答复杂问题、理解更自然的表达，并在整段对话中以及整个Apple生态内保持上下文。ZDNET的Lance Whitney建议使用其屏幕感知功能来询问路线、解释屏幕上的内容，或将屏幕上的项目添加到列表中。"
               },
               {
                 "t": "p",
-                "x": "\"它确实有潜力降低空调的总能耗，\"KTH的Björn Palm说。能降多少？这就不太清楚了。Gradient CTO Vincent Romanin持怀疑态度：\"我个人从没用过一款让我觉得好用的带占用传感器的产品。\"在Palm看来，到2050年实现可持续制冷，靠的是紧凑型热泵和天然制冷剂，而不是一台跟着你走进厨房的AC。"
+                "x": "今年秋天，iOS 27随iPadOS 27、MacOS 27 Golden Gate、VisionOS 27和WatchOS 27一同推出了Siri AI测试版。支持的语言包括英语、法语、日语、韩语、葡萄牙语和西班牙语；该功能在中国大陆不可用，在欧盟的iOS、iPadOS和WatchOS上也不提供。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Apple elimina la lista de espera\nde la beta de Siri AI en iOS 27",
+          "body": "Apple eliminó la lista de espera de la beta de Siri AI en iOS 27, así que ya se puede probar desde hoy.",
+          "mini_headline": "Fin de la lista de espera de Siri AI beta",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/1_9958c8.jpg",
+                "cap": "Maria Diaz/ZDNET"
+              },
+              {
+                "t": "p",
+                "x": "Al activar Siri AI, el nuevo asistente virtual de Apple basado en AI generativa (AI-powered), en un dispositivo Apple compatible con iOS 27, antes aparecía un mensaje que informaba al usuario de que el dispositivo se añadiría a una lista de espera con tiempos variables. Ahora, Siri AI se descarga automáticamente en cuanto se activa en un iPhone, Mac o iPad compatible. La única excepción es que, si la demanda es inusualmente alta, Apple podría restablecer temporalmente la lista de espera."
+              },
+              {
+                "t": "p",
+                "x": "Para obtenerlo, hay que ir a Settings (Ajustes), tocar Siri, luego Try Siri AI (Beta) y seguir las indicaciones: en lugar de añadirte a una lista de espera, Siri AI empezará a descargarse de inmediato. Se necesita un dispositivo compatible con Apple Intelligence, como un iPhone (15 Pro o posterior), iPad (Mini A17 Pro o posterior, o con chip M-series), Mac (MacBook Neo o chip M-series), Apple Watch (Series 9 y Ultra 2 o posterior) o Apple Vision Pro."
+              },
+              {
+                "t": "p",
+                "x": "En lugar de dar respuestas predefinidas, Siri AI podrá responder preguntas complejas, entender frases más naturales y mantener el contexto a lo largo de las conversaciones y en todo el ecosistema de Apple. Lance Whitney, de ZDNET, recomienda usar su función de reconocimiento de pantalla para pedir indicaciones, que explique algo en pantalla o añadir elementos de la pantalla a una lista."
+              },
+              {
+                "t": "p",
+                "x": "iOS 27 trajo Siri AI en beta este otoño, junto con iPadOS 27, MacOS 27 Golden Gate, VisionOS 27 y WatchOS 27. Los idiomas compatibles son inglés, francés, japonés, coreano, portugués y español; no está disponible en China continental ni en iOS, iPadOS o WatchOS en la Unión Europea."
               }
             ]
           }
@@ -315,189 +1079,303 @@
       }
     },
     {
-      "id": "tau-humanoid-home-cleaning",
+      "id": "snap-specs-gen6-handson",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "휴머노이드 로봇이\n샌프란시스코 집 청소",
-      "body": "Tau Robotics의 샌프란시스코 청소 로봇은 아직 원격 조종에 크게 기댄다.",
-      "mini_headline": "휴머노이드 로봇이 집 청소",
+      "headline": "Snap Specs\nAI·자막으로 업무 겨냥",
+      "body": "£1,999 Snap Specs는 빠른 음성 AI에 자막식 실시간 번역까지 갖췄다.",
+      "mini_headline": "Snap Specs 체험기",
       "tool": "Gadgets",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "accent": "#0070f3",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/pro/i-went-hands-on-with-the-new-snap-specs-and-found-out-why-they-could-soon-be-a-useful-workplace-tool",
+      "accent": "#eb367f",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.mp4"
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/Azv3TgGUqcELXYvsSeg4Hj.jpg",
+            "cap": "Snap Specs 시연 현장 (이미지 출처: Future/ Mike Moore)"
           },
           {
             "t": "p",
-            "x": "스타트업 Tau Robotics가 샌프란시스코 가정에 휴머노이드 로봇을 보내 청소를 시킨다. 아직은 사람이 많이 이끌어 줘야 하지만 로봇은 배우는 중이다."
+            "x": "일상에서 도움을 조금 더 받고 싶은 사람에게 AR 안경이 새로운 기회로 떠오르고 있다. 필자는 영국(UK) 출시를 앞둔 새 Snap Specs를 직접 써 봤다. 여섯 번째 세대인 새 Snap Specs는 확실히 액세서리 쪽에 가깝다. 조작은 주로 AR로 하고 다리에는 녹화·초기화용 버튼 두 개가 달렸다."
           },
           {
             "t": "p",
-            "x": "지금은 사람이 로봇 머리와 손목에 달린 카메라 화면을 보며 원격으로 조종한다. 로봇은 청소하는 동안 데이터를 모으고, Tau는 이 데이터로 더 독립적인 후속 로봇을 훈련할 계획이다. 침대 정리나 빨래 개기 같은 일에는 운동학적 안내를 쓴다. 사람 조종사가 동작을 하면 로봇이 그대로 따라 한다. 공동창업자 Cornelia Weinzierl은 로봇이 청소기 돌리기와 걸레질은 이미 사람 도움 없이 해낸다고 말한다."
+            "x": "다른 AR 안경과 달리 Snap Specs는 스마트폰에 연결하지 않아도 된다. 가장 큰 장점이다. 원하는 곳 어디서든 쓸 수 있고 필요하면 휴대용 충전 패드로 배터리를 채우면 된다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/3rD3RDGiN3836nBAJhDuDC.jpg",
+            "cap": "Snap Specs (이미지 출처: Future/Mike Moore)"
           },
           {
             "t": "p",
-            "x": "Tau는 전에는 한 시간 청소에 $30를 받았다. 지금은 로봇 두 대가 오는 주간 청소가 $60, 단발 방문이 $100다. 첫 방문 때 로봇은 계단에서 애를 먹었고, 원격 조종자의 장비가 과열되면서 일찍 철수했다. 두 번째 방문은 화장실 청소까지 훨씬 순조롭게 끝났다."
+            "x": "필자가 쓴 안경에는 Google Docs가 깔려 있었고 입력은 가상 키보드로 했다. Bluetooth 키보드를 연결해도 된다. 사진과 최대 30초짜리 동영상을 찍을 수 있으며 내장 브라우저는 미디어 뷰어 노릇도 한다."
           },
           {
             "t": "p",
-            "x": "Tau가 지금까지 마친 청소는 수백 건뿐이다. Weinzierl은 \"청소는 많은 사람이 정말 적극적으로 하고 싶어 하는 일이 아니다\"라고 말했다."
+            "x": "음성 AI 비서도 질문에 빠르고 쓸모 있게 답했다(지금 있는 곳에서 가장 가까운 지하철역을 물었을 때는 답이 맞는지 미심쩍었지만). 헤드업 디스플레이로 Google Maps를 쓰는 경험은 말 그대로 판도를 바꿀 만했다."
+          },
+          {
+            "t": "p",
+            "x": "가장 인상적인 시연은 번역 도구였다. 외국어로 말하는 사람을 바라보면 그 말이 바로 번역돼 그 사람 위로 말풍선처럼 겹쳐 떴다. TV 프로그램 자막을 보는 것과 다름없었다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/aeZwHJyEZ3TuVAyJ4WHfa5.jpg",
+            "cap": "Snap Specs가 나를 화가로 만들 수 있을까? 놀랍게도 그렇다 (이미지 출처: Future/Mike Moore)"
+          },
+          {
+            "t": "p",
+            "x": "그럼 £1,999짜리 Snap Specs가 일의 미래가 될까? 필자가 본 재미있는 시연은 도미노 게임, 축구 실력 향상, 그림 강좌, 인터랙티브 Harry Potter 체험이었다. 그러니 아직은 장담하기 어렵다. 그래도 이 기술이 앞으로 어디로 갈지는 무척 기대된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A humanoid robot cleans\nhomes in San Francisco",
-          "body": "Tau Robotics sends humanoid robots to clean San Francisco homes, still guided heavily by remote humans.",
-          "mini_headline": "Humanoid robot cleans homes",
+          "headline": "Snap Specs eye the workplace\nwith voice AI and live subtitles",
+          "body": "Snap's £1,999 sixth-generation Specs pair a fast voice AI assistant with live translation shown as subtitles.",
+          "mini_headline": "Hands-on with Snap Specs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.mp4"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Azv3TgGUqcELXYvsSeg4Hj.jpg",
+                "cap": "Snap Specs demo session (Image credit: Future/ Mike Moore)"
               },
               {
                 "t": "p",
-                "x": "The startup Tau Robotics is sending humanoid robots to clean San Francisco homes. They still need lots of human guidance, but they're learning."
+                "x": "AR glasses have offered a new opportunity for those looking for some extra assistance in everyday life - I went to try out the new Snap Specs ahead of their UK launch. The new sixth-generation Snap Specs are much more obviously an accessory; control is mainly in AR, with two buttons on the arms for recording and resetting."
               },
               {
                 "t": "p",
-                "x": "For now, the robots are piloted remotely by humans, who watch via cameras mounted in the robots' heads and wrists. As the robots clean, they collect data that Tau will use to train more independent descendants. Tasks like making the bed and folding laundry use kinematic guidance: the human pilot performs the motions and the robot copies them. Cofounder Cornelia Weinzierl says the robot can already vacuum and mop without human help."
+                "x": "Unlike other AR glasses, the big selling point of Snap Specs is that they don’t need to be tethered to a smartphone, so you can wear them wherever you want - with a portable charging pad helping to top up battery life when needed."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/3rD3RDGiN3836nBAJhDuDC.jpg",
+                "cap": "Snap Specs (Image credit: Future/Mike Moore)"
               },
               {
                 "t": "p",
-                "x": "Tau was offering $30 for an hourlong cleaning; now it charges $60 per weekly cleaning with two robots, or $100 for a one-time visit. On the first visit the robot struggled with stairs and left early when its remote controller's equipment overheated; the second visit went much more smoothly, including cleaning the toilet."
+                "x": "My glasses came loaded with Google Docs, with typing carried out on a virtual keyboard - and it can also connect to a Bluetooth keyboard. The glasses can capture video clips up to 30 seconds and still images, and a built-in browser doubles as a media viewer."
               },
               {
                 "t": "p",
-                "x": "Tau has completed only a couple hundred cleanings so far. \"Cleaning is not a job that a lot of people really actively want to be doing,\" Weinzierl said."
+                "x": "The voice AI assistant was also fast and effective when answering my questions (even if I doubted its accuracy on finding the nearest tube station to our location), and using Google Maps with a heads-up display was an absolute game-changer."
+              },
+              {
+                "t": "p",
+                "x": "Perhaps the most striking demo was the translation tool - when looking at someone speaking in a foreign language, their speech would be instantly translated and shown in a speech bubble overlaying them - essentially like subtitles when watching a TV show."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/aeZwHJyEZ3TuVAyJ4WHfa5.jpg",
+                "cap": "Could the Snap Specs make an artist out of me? Surprisingly, yes (Image credit: Future/Mike Moore)"
+              },
+              {
+                "t": "p",
+                "x": "So will the £1,999 Snap Specs be the future of work? Given that the more fun demos I saw involved playing dominoes, improving my football skills, a drawing tutorial and an interactive Harry Potter experience, I’m not sure it’s there just yet - but I can’t wait to see where the technology goes next."
               }
             ]
           }
         },
         "ko": {
-          "headline": "휴머노이드 로봇이\n샌프란시스코 집 청소",
-          "body": "Tau Robotics의 샌프란시스코 청소 로봇은 아직 원격 조종에 크게 기댄다.",
-          "mini_headline": "휴머노이드 로봇이 집 청소",
+          "headline": "Snap Specs\nAI·자막으로 업무 겨냥",
+          "body": "£1,999 Snap Specs는 빠른 음성 AI에 자막식 실시간 번역까지 갖췄다.",
+          "mini_headline": "Snap Specs 체험기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.mp4"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Azv3TgGUqcELXYvsSeg4Hj.jpg",
+                "cap": "Snap Specs 시연 현장 (이미지 출처: Future/ Mike Moore)"
               },
               {
                 "t": "p",
-                "x": "스타트업 Tau Robotics가 샌프란시스코 가정에 휴머노이드 로봇을 보내 청소를 시킨다. 아직은 사람이 많이 이끌어 줘야 하지만 로봇은 배우는 중이다."
+                "x": "일상에서 도움을 조금 더 받고 싶은 사람에게 AR 안경이 새로운 기회로 떠오르고 있다. 필자는 영국(UK) 출시를 앞둔 새 Snap Specs를 직접 써 봤다. 여섯 번째 세대인 새 Snap Specs는 확실히 액세서리 쪽에 가깝다. 조작은 주로 AR로 하고 다리에는 녹화·초기화용 버튼 두 개가 달렸다."
               },
               {
                 "t": "p",
-                "x": "지금은 사람이 로봇 머리와 손목에 달린 카메라 화면을 보며 원격으로 조종한다. 로봇은 청소하는 동안 데이터를 모으고, Tau는 이 데이터로 더 독립적인 후속 로봇을 훈련할 계획이다. 침대 정리나 빨래 개기 같은 일에는 운동학적 안내를 쓴다. 사람 조종사가 동작을 하면 로봇이 그대로 따라 한다. 공동창업자 Cornelia Weinzierl은 로봇이 청소기 돌리기와 걸레질은 이미 사람 도움 없이 해낸다고 말한다."
+                "x": "다른 AR 안경과 달리 Snap Specs는 스마트폰에 연결하지 않아도 된다. 가장 큰 장점이다. 원하는 곳 어디서든 쓸 수 있고 필요하면 휴대용 충전 패드로 배터리를 채우면 된다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/3rD3RDGiN3836nBAJhDuDC.jpg",
+                "cap": "Snap Specs (이미지 출처: Future/Mike Moore)"
               },
               {
                 "t": "p",
-                "x": "Tau는 전에는 한 시간 청소에 $30를 받았다. 지금은 로봇 두 대가 오는 주간 청소가 $60, 단발 방문이 $100다. 첫 방문 때 로봇은 계단에서 애를 먹었고, 원격 조종자의 장비가 과열되면서 일찍 철수했다. 두 번째 방문은 화장실 청소까지 훨씬 순조롭게 끝났다."
+                "x": "필자가 쓴 안경에는 Google Docs가 깔려 있었고 입력은 가상 키보드로 했다. Bluetooth 키보드를 연결해도 된다. 사진과 최대 30초짜리 동영상을 찍을 수 있으며 내장 브라우저는 미디어 뷰어 노릇도 한다."
               },
               {
                 "t": "p",
-                "x": "Tau가 지금까지 마친 청소는 수백 건뿐이다. Weinzierl은 \"청소는 많은 사람이 정말 적극적으로 하고 싶어 하는 일이 아니다\"라고 말했다."
+                "x": "음성 AI 비서도 질문에 빠르고 쓸모 있게 답했다(지금 있는 곳에서 가장 가까운 지하철역을 물었을 때는 답이 맞는지 미심쩍었지만). 헤드업 디스플레이로 Google Maps를 쓰는 경험은 말 그대로 판도를 바꿀 만했다."
+              },
+              {
+                "t": "p",
+                "x": "가장 인상적인 시연은 번역 도구였다. 외국어로 말하는 사람을 바라보면 그 말이 바로 번역돼 그 사람 위로 말풍선처럼 겹쳐 떴다. TV 프로그램 자막을 보는 것과 다름없었다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/aeZwHJyEZ3TuVAyJ4WHfa5.jpg",
+                "cap": "Snap Specs가 나를 화가로 만들 수 있을까? 놀랍게도 그렇다 (이미지 출처: Future/Mike Moore)"
+              },
+              {
+                "t": "p",
+                "x": "그럼 £1,999짜리 Snap Specs가 일의 미래가 될까? 필자가 본 재미있는 시연은 도미노 게임, 축구 실력 향상, 그림 강좌, 인터랙티브 Harry Potter 체험이었다. 그러니 아직은 장담하기 어렵다. 그래도 이 기술이 앞으로 어디로 갈지는 무척 기대된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "人型ロボットが\nサンフランシスコの家を掃除",
-          "body": "Tau Roboticsはサンフランシスコの家庭に人型ロボットを送るが、遠隔操作頼みだ。",
-          "mini_headline": "人型ロボットが家を掃除",
+          "headline": "Snap Specsが職場へ\n音声AIとライブ字幕",
+          "body": "£1,999のSnapの第六世代Specsは高速な音声AIと字幕型ライブ翻訳を備える。",
+          "mini_headline": "Snap Specs体験レポート",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.mp4"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Azv3TgGUqcELXYvsSeg4Hj.jpg",
+                "cap": "Snap Specsのデモセッション(画像クレジット:Future/ Mike Moore)"
               },
               {
                 "t": "p",
-                "x": "スタートアップのTau Roboticsは、サンフランシスコの家庭に人型ロボットを送り込んで掃除をさせている。まだ人間の手引きを多く必要とするが、学習は進んでいる。"
+                "x": "ARグラスは、日常生活でもう少し手助けが欲しい人に新たな可能性をもたらしている。筆者は英国(UK)での発売を前に、新しいSnap Specsを試した。第六世代となる新しいSnap Specsは、明らかにアクセサリーとしての性格が強い。操作は主にARで行い、つるには録画とリセット用の二つのボタンがある。"
               },
               {
                 "t": "p",
-                "x": "今のところロボットは人間が遠隔で操縦しており、操縦者はロボットの頭部と手首に付いたカメラで様子を見る。ロボットは掃除しながらデータを集め、Tauはそれを使ってより自律的な後継機を訓練する。ベッドメイクや洗濯物たたみなどの作業ではキネマティック誘導を使う。人間の操縦者が動作を行い、ロボットがそれをまねる仕組みだ。共同創業者のCornelia Weinzierlによると、ロボットはすでに人の助けなしで掃除機がけとモップがけができる。"
+                "x": "他のARグラスと違い、Snap Specsの最大の売りはスマートフォンとつなぐ必要がない点だ。好きな場所で装着でき、必要なときは携帯型の充電パッドでバッテリーを補える。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/3rD3RDGiN3836nBAJhDuDC.jpg",
+                "cap": "Snap Specs(画像クレジット:Future/Mike Moore)"
               },
               {
                 "t": "p",
-                "x": "Tauは以前、一時間の掃除を$30で提供していたが、現在はロボット二台による毎週の掃除で$60、単発の訪問で$100を請求する。初回の訪問ではロボットが階段に苦戦し、遠隔操縦者の機器が過熱したため早めに引き上げた。二回目の訪問はトイレ掃除も含めてはるかに順調だった。"
+                "x": "筆者のグラスにはGoogle Docsが入っており、入力は仮想キーボードで行った。Bluetoothキーボードも接続できる。最長30秒の動画クリップと静止画を撮影でき、内蔵ブラウザーはメディアビューアーも兼ねる。"
               },
               {
                 "t": "p",
-                "x": "Tauがこれまでに終えた掃除は数百件にすぎない。「掃除は、多くの人が本当に積極的にやりたがる仕事ではない」とWeinzierlは語った。"
+                "x": "音声AIアシスタントも質問に素早く的確に答えた(現在地から最寄りの地下鉄駅を探す精度には疑問が残ったが)。ヘッドアップディスプレイでGoogle Mapsを使う体験は、まさに革命的だった。"
+              },
+              {
+                "t": "p",
+                "x": "最も印象的だったのは翻訳ツールのデモだ。外国語で話す人を見ると、その発言が即座に翻訳され、本人に重なる吹き出しに表示される。TV番組を見るときの字幕とほぼ同じである。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/aeZwHJyEZ3TuVAyJ4WHfa5.jpg",
+                "cap": "Snap Specsで自分も画家になれるか?意外にも、なれる(画像クレジット:Future/Mike Moore)"
+              },
+              {
+                "t": "p",
+                "x": "では、£1,999のSnap Specsは仕事の未来になるのか。筆者が体験した楽しいデモがドミノ遊び、サッカーの技術向上、お絵描き講座、インタラクティブなHarry Potter体験だったことを考えると、まだその段階には達していないように思う。それでも、この技術が次にどこへ向かうのかが待ち遠しい。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "人形机器人上门\n为旧金山家庭做清洁",
-          "body": "Tau Robotics派人形机器人为旧金山家庭打扫，但仍高度依赖远程人工操控。",
-          "mini_headline": "人形机器人上门清洁",
+          "headline": "Snap Specs瞄准职场\n语音AI配实时字幕",
+          "body": "Snap售价£1,999的第六代Specs配备快速语音AI助手和字幕式实时翻译。",
+          "mini_headline": "Snap Specs上手体验",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.mp4"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Azv3TgGUqcELXYvsSeg4Hj.jpg",
+                "cap": "Snap Specs演示现场（图片来源：Future/ Mike Moore）"
               },
               {
                 "t": "p",
-                "x": "初创公司Tau Robotics正派人形机器人为旧金山的家庭做清洁。它们仍需要大量人工指导，但正在学习。"
+                "x": "AR眼镜为那些希望在日常生活中多一些辅助的人带来了新的机会——我在新款Snap Specs于英国（UK）上市前去试用了一番。第六代Snap Specs明显更像一件配饰；操作主要在AR中完成，镜腿上有两个按钮，分别用于录制和重置。"
               },
               {
                 "t": "p",
-                "x": "目前，机器人由人远程操控，操作者通过安装在机器人头部和手腕上的摄像头观察。机器人在清洁时收集数据，Tau将用这些数据训练更独立的后续机型。铺床和叠衣服等任务采用运动学引导：人类操作者做出动作，机器人照着模仿。联合创始人Cornelia Weinzierl表示，机器人已能在无人协助的情况下吸尘和拖地。"
+                "x": "与其他AR眼镜不同，Snap Specs的最大卖点是无需连接智能手机，可以随时随地佩戴；需要时还可以用便携式充电板补充电量。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/3rD3RDGiN3836nBAJhDuDC.jpg",
+                "cap": "Snap Specs（图片来源：Future/Mike Moore）"
               },
               {
                 "t": "p",
-                "x": "Tau此前提供一小时清洁服务，收费$30；现在由两台机器人每周清洁一次收费$60，单次上门收费$100。第一次上门时，机器人在楼梯上遇到困难，又因远程操控者的设备过热而提前离开；第二次上门则顺利得多，连马桶也清洁了。"
+                "x": "我试用的眼镜预装了Google Docs，可通过虚拟键盘输入，也能连接Bluetooth键盘。眼镜可拍摄最长30秒的视频片段和静态照片，内置浏览器还兼作媒体查看器。"
               },
               {
                 "t": "p",
-                "x": "到目前为止，Tau只完成了几百次清洁。“清洁并不是很多人真正主动想做的工作，”Weinzierl说。"
+                "x": "语音AI助手回答问题也又快又准（尽管它查找离我们最近的地铁站时的准确性让我存疑），而通过抬头显示使用Google Maps则彻底改变了体验。"
+              },
+              {
+                "t": "p",
+                "x": "最令人印象深刻的演示或许是翻译工具：当你看着一个说外语的人时，对方的话会被即时翻译，并以对话气泡的形式叠加显示在其身上——基本就像看TV节目时的字幕。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/aeZwHJyEZ3TuVAyJ4WHfa5.jpg",
+                "cap": "Snap Specs能让我成为画家吗？出人意料，答案是肯定的（图片来源：Future/Mike Moore）"
+              },
+              {
+                "t": "p",
+                "x": "那么，售价£1,999的Snap Specs会成为未来的工作方式吗？鉴于我看到的较有趣的演示包括玩多米诺骨牌、提升足球技巧、绘画教程以及互动式Harry Potter体验，我不确定它是否已经到位——但我很期待看到这项技术接下来的发展。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un robot humanoide limpia\ncasas en San Francisco",
-          "body": "Tau Robotics envía robots humanoides a limpiar casas en San Francisco, aún muy guiados por humanos a distancia.",
-          "mini_headline": "Robot humanoide limpia casas",
+          "headline": "Snap Specs apunta al trabajo\ncon AI de voz y subtítulos",
+          "body": "Las Specs de sexta generación de Snap, de £1,999, combinan un asistente de voz con AI y traducción en subtítulos.",
+          "mini_headline": "Probamos las Snap Specs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.mp4"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Azv3TgGUqcELXYvsSeg4Hj.jpg",
+                "cap": "Sesión de demostración de Snap Specs (Imagen: Future/ Mike Moore)"
               },
               {
                 "t": "p",
-                "x": "La startup Tau Robotics envía robots humanoides a limpiar casas en San Francisco. Todavía necesitan mucha guía humana, pero están aprendiendo."
+                "x": "Las gafas AR ofrecen una nueva oportunidad a quienes buscan algo de ayuda extra en su vida diaria; fui a probar las nuevas Snap Specs antes de su lanzamiento en el Reino Unido (UK). Las nuevas Snap Specs de sexta generación son, de forma mucho más evidente, un accesorio; el control se hace principalmente en AR, con dos botones en las patillas para grabar y reiniciar."
               },
               {
                 "t": "p",
-                "x": "Por ahora, los robots los pilotan a distancia personas que observan a través de cámaras montadas en la cabeza y las muñecas de los robots. Mientras limpian, los robots recogen datos que Tau usará para entrenar a descendientes más independientes. Tareas como hacer la cama y doblar la ropa usan guía cinemática: el piloto humano ejecuta los movimientos y el robot los copia. La cofundadora Cornelia Weinzierl dice que el robot ya puede aspirar y fregar sin ayuda humana."
+                "x": "A diferencia de otras gafas AR, el gran atractivo de las Snap Specs es que no necesitan estar conectadas a un smartphone, así que se pueden llevar a cualquier parte, con una base de carga portátil que ayuda a recargar la batería cuando hace falta."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/3rD3RDGiN3836nBAJhDuDC.jpg",
+                "cap": "Snap Specs (Imagen: Future/Mike Moore)"
               },
               {
                 "t": "p",
-                "x": "Tau ofrecía una limpieza de una hora por $30; ahora cobra $60 por una limpieza semanal con dos robots, o $100 por una visita única. En la primera visita, el robot tuvo problemas con las escaleras y se fue antes de tiempo cuando se sobrecalentó el equipo de su controlador remoto; la segunda visita fue mucho mejor, e incluyó la limpieza del inodoro."
+                "x": "Mis gafas venían con Google Docs, y se escribía con un teclado virtual; también pueden conectarse a un teclado Bluetooth. Las gafas pueden grabar videoclips de hasta 30 segundos y tomar fotos fijas, y un navegador integrado sirve también como visor multimedia."
               },
               {
                 "t": "p",
-                "x": "Hasta ahora, Tau solo ha completado un par de cientos de limpiezas. \"Limpiar no es un trabajo que mucha gente realmente quiera hacer de forma activa\", dijo Weinzierl."
+                "x": "El asistente de voz con AI también fue rápido y eficaz al responder mis preguntas (aunque dudé de su precisión al buscar la estación de metro más cercana a nuestra ubicación), y usar Google Maps con una pantalla de visualización frontal cambió por completo la experiencia."
+              },
+              {
+                "t": "p",
+                "x": "Quizá la demostración más llamativa fue la herramienta de traducción: al mirar a alguien que hablaba en un idioma extranjero, sus palabras se traducían al instante y aparecían en un bocadillo superpuesto, básicamente como los subtítulos de un programa de TV."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/aeZwHJyEZ3TuVAyJ4WHfa5.jpg",
+                "cap": "¿Podrían las Snap Specs convertirme en artista? Sorprendentemente, sí (Imagen: Future/Mike Moore)"
+              },
+              {
+                "t": "p",
+                "x": "Entonces, ¿serán las Snap Specs de £1,999 el futuro del trabajo? Dado que las demostraciones más divertidas que vi consistían en jugar al dominó, mejorar mis habilidades futbolísticas, un tutorial de dibujo y una experiencia interactiva de Harry Potter, no estoy seguro de que hayan llegado todavía, pero tengo muchas ganas de ver hacia dónde avanza esta tecnología."
               }
             ]
           }
@@ -505,121 +1383,197 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "휴머노이드 로봇이\n샌프란시스코 집 청소",
-          "body": "Tau Robotics의 샌프란시스코 청소 로봇은 아직 원격 조종에 크게 기댄다.",
-          "mini_headline": "휴머노이드 로봇이 집 청소",
+          "headline": "Snap Specs\nAI·자막으로 업무 겨냥",
+          "body": "£1,999 Snap Specs는 빠른 음성 AI와 자막식 실시간 번역을 갖췄다.",
+          "mini_headline": "Snap Specs 체험기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.mp4"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Azv3TgGUqcELXYvsSeg4Hj.jpg",
+                "cap": "Snap Specs 시연 현장 (이미지 출처: Future/ Mike Moore)"
               },
               {
                 "t": "p",
-                "x": "스타트업 Tau Robotics가 샌프란시스코 가정에 휴머노이드 로봇을 보내 청소를 맡기고 있다. 아직 사람의 안내가 많이 필요하지만, 로봇은 배우는 중이다."
+                "x": "AR 안경은 일상에서 조금 더 도움을 받고 싶은 이들에게 새로운 기회가 되고 있다. 필자는 영국(UK) 출시를 앞둔 새 Snap Specs를 직접 써 봤다. 여섯 번째 세대인 새 Snap Specs는 확실히 액세서리에 가깝다. 조작은 주로 AR로 하며, 다리 부분에 녹화와 초기화용 버튼 두 개가 있다."
               },
               {
                 "t": "p",
-                "x": "지금은 사람이 로봇의 머리와 손목에 달린 카메라로 보면서 원격 조종한다. 로봇은 청소하면서 데이터를 모으고, Tau는 이 데이터로 더 독립적인 후속 로봇을 훈련할 계획이다. 침대 정리나 빨래 개기 같은 작업에는 운동학적 안내를 쓴다. 사람 조종사가 동작을 하면 로봇이 따라 하는 방식이다. 공동창업자 Cornelia Weinzierl은 로봇이 이미 사람 도움 없이 청소기 돌리기와 걸레질을 할 수 있다고 말한다."
+                "x": "다른 AR 안경과 달리 Snap Specs의 가장 큰 장점은 스마트폰에 연결할 필요가 없다는 점이다. 원하는 곳 어디서나 쓸 수 있고, 필요하면 휴대용 충전 패드로 배터리를 채울 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/3rD3RDGiN3836nBAJhDuDC.jpg",
+                "cap": "Snap Specs (이미지 출처: Future/Mike Moore)"
               },
               {
                 "t": "p",
-                "x": "Tau는 한 시간 청소에 $30를 받았지만, 지금은 로봇 두 대가 하는 주간 청소에 $60, 단발 방문에 $100를 받는다. 첫 방문에서 로봇은 계단에 애를 먹었고, 원격 조종자의 장비가 과열되자 일찍 철수했다. 두 번째 방문은 화장실 청소까지 포함해 훨씬 순조로웠다."
+                "x": "필자의 안경에는 Google Docs가 설치돼 있었고, 입력은 가상 키보드로 했다. Bluetooth 키보드도 연결할 수 있다. 최대 30초 길이의 동영상과 사진을 찍을 수 있고, 내장 브라우저는 미디어 뷰어 역할도 한다."
               },
               {
                 "t": "p",
-                "x": "Tau가 지금까지 마친 청소는 수백 건에 불과하다. Weinzierl은 \"청소는 많은 사람이 정말 적극적으로 하고 싶어 하는 일이 아니다\"라고 말했다."
+                "x": "음성 AI 비서도 질문에 빠르고 효과적으로 답했다(현재 위치에서 가장 가까운 지하철역을 찾는 답의 정확도는 의심스러웠지만). 헤드업 디스플레이로 Google Maps를 쓰는 경험은 그야말로 판도를 바꿀 만했다."
+              },
+              {
+                "t": "p",
+                "x": "가장 인상적인 시연은 번역 도구였다. 외국어로 말하는 사람을 바라보면 그 말이 즉시 번역돼 그 사람 위에 말풍선으로 겹쳐 나타났다. TV 프로그램을 볼 때의 자막과 다름없었다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/aeZwHJyEZ3TuVAyJ4WHfa5.jpg",
+                "cap": "Snap Specs가 나를 화가로 만들 수 있을까? 놀랍게도 그렇다 (이미지 출처: Future/Mike Moore)"
+              },
+              {
+                "t": "p",
+                "x": "그렇다면 £1,999짜리 Snap Specs가 일의 미래가 될까? 필자가 본 재미있는 시연이 도미노 게임, 축구 실력 향상, 그림 강좌, 인터랙티브 Harry Potter 체험이었다는 점을 생각하면 아직은 확신하기 어렵다. 다만 이 기술이 앞으로 어디로 갈지 무척 기대된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "人型ロボットが\nサンフランシスコの家を掃除",
-          "body": "Tau Roboticsはサンフランシスコの家庭に人型ロボットを送るが、遠隔操作頼みだ。",
-          "mini_headline": "人型ロボットが家を掃除",
+          "headline": "Snap Specsが職場へ\n音声AIとライブ字幕",
+          "body": "£1,999のSnapの第六世代Specsは高速な音声AIと字幕型ライブ翻訳を備える。",
+          "mini_headline": "Snap Specs体験レポート",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.mp4"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Azv3TgGUqcELXYvsSeg4Hj.jpg",
+                "cap": "Snap Specsのデモセッション(画像クレジット:Future/ Mike Moore)"
               },
               {
                 "t": "p",
-                "x": "スタートアップのTau Roboticsは、サンフランシスコの家庭に人型ロボットを送り込んで掃除をさせている。まだ人間の手引きを多く必要とするが、学習は進んでいる。"
+                "x": "ARグラスは、日常生活でもう少し手助けが欲しい人に新たな可能性をもたらしている。筆者は英国(UK)での発売を前に、新しいSnap Specsを試した。第六世代となる新しいSnap Specsは、明らかにアクセサリーとしての性格が強い。操作は主にARで行い、つるには録画とリセット用の二つのボタンがある。"
               },
               {
                 "t": "p",
-                "x": "今のところロボットは人間が遠隔で操縦しており、操縦者はロボットの頭部と手首に付いたカメラで様子を見る。ロボットは掃除しながらデータを集め、Tauはそれを使ってより自律的な後継機を訓練する。ベッドメイクや洗濯物たたみなどの作業ではキネマティック誘導を使う。人間の操縦者が動作を行い、ロボットがそれをまねる仕組みだ。共同創業者のCornelia Weinzierlによると、ロボットはすでに人の助けなしで掃除機がけとモップがけができる。"
+                "x": "他のARグラスと違い、Snap Specsの最大の売りはスマートフォンとつなぐ必要がない点だ。好きな場所で装着でき、必要なときは携帯型の充電パッドでバッテリーを補える。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/3rD3RDGiN3836nBAJhDuDC.jpg",
+                "cap": "Snap Specs(画像クレジット:Future/Mike Moore)"
               },
               {
                 "t": "p",
-                "x": "Tauは以前、一時間の掃除を$30で提供していたが、現在はロボット二台による毎週の掃除で$60、単発の訪問で$100を請求する。初回の訪問ではロボットが階段に苦戦し、遠隔操縦者の機器が過熱したため早めに引き上げた。二回目の訪問はトイレ掃除も含めてはるかに順調だった。"
+                "x": "筆者のグラスにはGoogle Docsが入っており、入力は仮想キーボードで行った。Bluetoothキーボードも接続できる。最長30秒の動画クリップと静止画を撮影でき、内蔵ブラウザーはメディアビューアーも兼ねる。"
               },
               {
                 "t": "p",
-                "x": "Tauがこれまでに終えた掃除は数百件にすぎない。「掃除は、多くの人が本当に積極的にやりたがる仕事ではない」とWeinzierlは語った。"
+                "x": "音声AIアシスタントも質問に素早く的確に答えた(現在地から最寄りの地下鉄駅を探す精度には疑問が残ったが)。ヘッドアップディスプレイでGoogle Mapsを使う体験は、まさに革命的だった。"
+              },
+              {
+                "t": "p",
+                "x": "最も印象的だったのは翻訳ツールのデモだ。外国語で話す人を見ると、その発言が即座に翻訳され、本人に重なる吹き出しに表示される。TV番組を見るときの字幕とほぼ同じである。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/aeZwHJyEZ3TuVAyJ4WHfa5.jpg",
+                "cap": "Snap Specsで自分も画家になれるか?意外にも、なれる(画像クレジット:Future/Mike Moore)"
+              },
+              {
+                "t": "p",
+                "x": "では、£1,999のSnap Specsは仕事の未来になるのか。筆者が体験した楽しいデモがドミノ遊び、サッカーの技術向上、お絵描き講座、インタラクティブなHarry Potter体験だったことを考えると、まだその段階には達していないように思う。それでも、この技術が次にどこへ向かうのかが待ち遠しい。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "人形机器人上门\n为旧金山家庭做清洁",
-          "body": "Tau Robotics派人形机器人为旧金山家庭打扫，但仍高度依赖远程人工操控。",
-          "mini_headline": "人形机器人上门清洁",
+          "headline": "Snap Specs瞄准职场\n语音AI配实时字幕",
+          "body": "Snap售价£1,999的第六代Specs配备快速语音AI助手和字幕式实时翻译。",
+          "mini_headline": "Snap Specs上手体验",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.mp4"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Azv3TgGUqcELXYvsSeg4Hj.jpg",
+                "cap": "Snap Specs演示现场（图片来源：Future/ Mike Moore）"
               },
               {
                 "t": "p",
-                "x": "初创公司Tau Robotics正派人形机器人为旧金山的家庭做清洁。它们仍需要大量人工指导，但正在学习。"
+                "x": "AR眼镜为那些希望在日常生活中多一些辅助的人带来了新的机会——我在新款Snap Specs于英国（UK）上市前去试用了一番。第六代Snap Specs明显更像一件配饰；操作主要在AR中完成，镜腿上有两个按钮，分别用于录制和重置。"
               },
               {
                 "t": "p",
-                "x": "目前，机器人由人远程操控，操作者通过安装在机器人头部和手腕上的摄像头观察。机器人在清洁时收集数据，Tau将用这些数据训练更独立的后续机型。铺床和叠衣服等任务采用运动学引导：人类操作者做出动作，机器人照着模仿。联合创始人Cornelia Weinzierl表示，机器人已能在无人协助的情况下吸尘和拖地。"
+                "x": "与其他AR眼镜不同，Snap Specs的最大卖点是无需连接智能手机，可以随时随地佩戴；需要时还可以用便携式充电板补充电量。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/3rD3RDGiN3836nBAJhDuDC.jpg",
+                "cap": "Snap Specs（图片来源：Future/Mike Moore）"
               },
               {
                 "t": "p",
-                "x": "Tau此前提供一小时清洁服务，收费$30；现在由两台机器人每周清洁一次收费$60，单次上门收费$100。第一次上门时，机器人在楼梯上遇到困难，又因远程操控者的设备过热而提前离开；第二次上门则顺利得多，连马桶也清洁了。"
+                "x": "我试用的眼镜预装了Google Docs，可通过虚拟键盘输入，也能连接Bluetooth键盘。眼镜可拍摄最长30秒的视频片段和静态照片，内置浏览器还兼作媒体查看器。"
               },
               {
                 "t": "p",
-                "x": "到目前为止，Tau只完成了几百次清洁。“清洁并不是很多人真正主动想做的工作，”Weinzierl说。"
+                "x": "语音AI助手回答问题也又快又准（尽管它查找离我们最近的地铁站时的准确性让我存疑），而通过抬头显示使用Google Maps则彻底改变了体验。"
+              },
+              {
+                "t": "p",
+                "x": "最令人印象深刻的演示或许是翻译工具：当你看着一个说外语的人时，对方的话会被即时翻译，并以对话气泡的形式叠加显示在其身上——基本就像看TV节目时的字幕。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/aeZwHJyEZ3TuVAyJ4WHfa5.jpg",
+                "cap": "Snap Specs能让我成为画家吗？出人意料，答案是肯定的（图片来源：Future/Mike Moore）"
+              },
+              {
+                "t": "p",
+                "x": "那么，售价£1,999的Snap Specs会成为未来的工作方式吗？鉴于我看到的较有趣的演示包括玩多米诺骨牌、提升足球技巧、绘画教程以及互动式Harry Potter体验，我不确定它是否已经到位——但我很期待看到这项技术接下来的发展。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un robot humanoide limpia\ncasas en San Francisco",
-          "body": "Tau Robotics envía robots humanoides a limpiar casas en San Francisco, aún muy guiados por humanos a distancia.",
-          "mini_headline": "Robot humanoide limpia casas",
+          "headline": "Snap Specs apunta al trabajo\ncon AI de voz y subtítulos",
+          "body": "Las Specs de sexta generación de Snap, de £1,999, combinan un asistente de voz con AI y traducción en subtítulos.",
+          "mini_headline": "Probamos las Snap Specs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.mp4"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Azv3TgGUqcELXYvsSeg4Hj.jpg",
+                "cap": "Sesión de demostración de Snap Specs (Imagen: Future/ Mike Moore)"
               },
               {
                 "t": "p",
-                "x": "La startup Tau Robotics envía robots humanoides a limpiar casas en San Francisco. Todavía necesitan mucha guía humana, pero están aprendiendo."
+                "x": "Las gafas AR ofrecen una nueva oportunidad a quienes buscan algo de ayuda extra en su vida diaria; fui a probar las nuevas Snap Specs antes de su lanzamiento en el Reino Unido (UK). Las nuevas Snap Specs de sexta generación son, de forma mucho más evidente, un accesorio; el control se hace principalmente en AR, con dos botones en las patillas para grabar y reiniciar."
               },
               {
                 "t": "p",
-                "x": "Por ahora, los robots los pilotan a distancia personas que observan a través de cámaras montadas en la cabeza y las muñecas de los robots. Mientras limpian, los robots recogen datos que Tau usará para entrenar a descendientes más independientes. Tareas como hacer la cama y doblar la ropa usan guía cinemática: el piloto humano ejecuta los movimientos y el robot los copia. La cofundadora Cornelia Weinzierl dice que el robot ya puede aspirar y fregar sin ayuda humana."
+                "x": "A diferencia de otras gafas AR, el gran atractivo de las Snap Specs es que no necesitan estar conectadas a un smartphone, así que se pueden llevar a cualquier parte, con una base de carga portátil que ayuda a recargar la batería cuando hace falta."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/3rD3RDGiN3836nBAJhDuDC.jpg",
+                "cap": "Snap Specs (Imagen: Future/Mike Moore)"
               },
               {
                 "t": "p",
-                "x": "Tau ofrecía una limpieza de una hora por $30; ahora cobra $60 por una limpieza semanal con dos robots, o $100 por una visita única. En la primera visita, el robot tuvo problemas con las escaleras y se fue antes de tiempo cuando se sobrecalentó el equipo de su controlador remoto; la segunda visita fue mucho mejor, e incluyó la limpieza del inodoro."
+                "x": "Mis gafas venían con Google Docs, y se escribía con un teclado virtual; también pueden conectarse a un teclado Bluetooth. Las gafas pueden grabar videoclips de hasta 30 segundos y tomar fotos fijas, y un navegador integrado sirve también como visor multimedia."
               },
               {
                 "t": "p",
-                "x": "Hasta ahora, Tau solo ha completado un par de cientos de limpiezas. \"Limpiar no es un trabajo que mucha gente realmente quiera hacer de forma activa\", dijo Weinzierl."
+                "x": "El asistente de voz con AI también fue rápido y eficaz al responder mis preguntas (aunque dudé de su precisión al buscar la estación de metro más cercana a nuestra ubicación), y usar Google Maps con una pantalla de visualización frontal cambió por completo la experiencia."
+              },
+              {
+                "t": "p",
+                "x": "Quizá la demostración más llamativa fue la herramienta de traducción: al mirar a alguien que hablaba en un idioma extranjero, sus palabras se traducían al instante y aparecían en un bocadillo superpuesto, básicamente como los subtítulos de un programa de TV."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/aeZwHJyEZ3TuVAyJ4WHfa5.jpg",
+                "cap": "¿Podrían las Snap Specs convertirme en artista? Sorprendentemente, sí (Imagen: Future/Mike Moore)"
+              },
+              {
+                "t": "p",
+                "x": "Entonces, ¿serán las Snap Specs de £1,999 el futuro del trabajo? Dado que las demostraciones más divertidas que vi consistían en jugar al dominó, mejorar mis habilidades futbolísticas, un tutorial de dibujo y una experiencia interactiva de Harry Potter, no estoy seguro de que hayan llegado todavía, pero tengo muchas ganas de ver hacia dónde avanza esta tecnología."
               }
             ]
           }
@@ -627,15 +1581,15 @@
       }
     },
     {
-      "id": "syncere-lume-robot-lamp",
+      "id": "pudu-tomo-s-mower",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Syncere의 Lume은\n빨래 개는 로봇 램프",
-      "body": "Syncere의 $2,699 Lume은 로컬 AI 팔로 빨래 개고 침대를 정리한다.",
-      "mini_headline": "빨래 개는 Lume 램프",
+      "headline": "Pudu TOMO S 로봇\n스스로 날 가는 잔디깎이",
+      "body": "Pudu 첫 가정용 잔디깎이는 LiDAR·AI 비전으로 와이어 없이 달린다.",
+      "mini_headline": "Pudu 잔디깎이, 날을 스스로 간다",
       "tool": "Gadgets",
       "source": "The Gadgeteer",
-      "url": "https://the-gadgeteer.com/2026/11/06/syncere-lume-robot-lamp-2699/",
+      "url": "https://the-gadgeteer.com/2026/11/06/pudu-tomo-s-robot-mower-sharpens-its-own-blades/",
       "accent": "#f5a623",
       "motif": "headset",
       "full": {
@@ -643,209 +1597,257 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero-1280x720.jpg",
-            "cap": "침대 옆에서 빨래를 들고 있는 Syncere Lume 로봇 램프"
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pudu-tomo-s-hero-1280x720.jpg",
+            "cap": "PUDU TOMO S 로봇 잔디깎이"
           },
           {
             "t": "p",
-            "x": "Lume은 안에 로봇이 접혀 있는 플로어 램프다. 일을 시키면 관절형 팔을 펴고 침대나 빨래 더미 쪽으로 굴러가 옷 개기, 침대 정리, 베개 정돈, 정리정돈 같은 부드러운 집안일을 한다. Syncere는 로봇공학자 Aaron Tan과 Angus Fung이 세운 Palo Alto 스타트업이다. Lume 가격은 $2,699부터다."
+            "x": "Pudu의 TOMO S는 날 문제를 정면으로 파고든다. 날을 갈 때가 되면 충전 스테이션으로 돌아가 회전 날을 알아서 간다. 공구도, 주기적인 날 교체도 필요 없다. 상업용 로봇을 85개국 이상에 130,000대 넘게 공급한 Pudu가 처음 내놓는 소비자용 제품군이다. 버전은 세 가지로, 1,500제곱미터에서 5,000제곱미터(약 0.37에서 1.24에이커)의 잔디밭을 맡는다."
+          },
+          {
+            "t": "p",
+            "x": "Pudu가 자체 실험실에서 비교한 결과 이 회전 날은 삼 년이 지나도 날카롭고 녹에도 강했다. 반면 소형 날은 한 달 만에 무뎌지고 녹도 잘 슬었다. 제조사 시험 결과이며 자료에도 그렇게 표기돼 있다."
           },
           {
             "t": "video",
-            "yt": "ahBF2XkA9No"
+            "yt": "lg-OQwfREYc"
           },
           {
             "t": "p",
-            "x": "Syncere는 로봇 조작, 온보드 인식, 로컬 AI 연산을 축으로 제품을 만든다. 보고 판단하는 일은 기기 안에서 이뤄진다. Lume마다 Personalization Band가 딸려 온다. 옷 개는 법과 원하는 침대 정리 방식을 직접 보여 주면 로봇이 취향을 익힌다."
+            "x": "TOMO S는 636와트 모터 두 개로 공기역학적 하이리프트 날을 최대 6,000 RPM으로 돌린다. 후면 배출 채널과 플로팅 데크도 갖췄다. 오프셋 커팅 데크와 측면 감지 덕분에 벽과 나무, 화단 바로 앞까지 깎는다."
           },
           {
             "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-folded.jpg",
-            "cap": "접으면 Lume은 평범한 플로어 램프다. 이미지: Syncere"
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pudu-tomo-s-planner.jpg",
+            "cap": "AI Mowing Planner는 지역 날씨에 맞춰 작동한다. 이미지: PUDU HOME"
           },
           {
             "t": "p",
-            "x": "램프 두 개짜리 Duet은 $5,199다. LumeCare는 $489다. 새 기능과 앞으로 나올 작업을 평생 쓰는 Autonomy는 $679이며 램프당 월 $79로 낼 수도 있다. 주문은 초대제로 받고 첫 배송은 2027년 첫째와 둘째 분기다. Syncere는 a16z Speedrun이 이끈 $11M 규모 프리시드 투자를 마쳤다."
+            "x": "Triple-Sense Navigation은 360도 LiDAR와 AI 비전, 네트워크 RTK를 묶어 센티미터 단위로 위치를 잡는다. One-Tap Auto Mapping은 첫 주행에서 깎을 구역과 경계를 익힌다. 허브 모터 네 개로 사륜구동을 해 Pudu 수치 기준 최대 45도 경사까지 오른다. 앱의 AI Mowing Planner가 날씨와 위치에 맞춰 일정을 짜고 Smart Recut은 놓친 곳에 잔디깎이를 다시 보낸다."
+          },
+          {
+            "t": "p",
+            "x": "가격은 세 버전 모두 아직 정해지지 않았고 지역별 출시 여부도 Pudu가 밝히지 않았다. 주문은 2027년 이른 봄 PUDU HOME에서 받는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Syncere's Lume lamp hides\na laundry-folding robot",
-          "body": "Syncere's $2,699 Lume floor lamp hides a robot arm with local AI that folds laundry and makes the bed.",
-          "mini_headline": "Lume lamp folds laundry",
+          "headline": "Pudu's TOMO S robot mower\nsharpens its own blades",
+          "body": "Pudu's first home mower steers wire-free with LiDAR and AI vision while an AI planner schedules around weather.",
+          "mini_headline": "Pudu mower sharpens its blades",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero-1280x720.jpg",
-                "cap": "The Syncere Lume robot lamp holding laundry beside a bed"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pudu-tomo-s-hero-1280x720.jpg",
+                "cap": "PUDU TOMO S robot lawn mower"
               },
               {
                 "t": "p",
-                "x": "Lume is a floor lamp with a robot folded inside it. Asked to work, it unfolds an articulated arm, rolls to the bed or the laundry pile, and gets through the soft chores: folding clothes, making the bed, resetting pillows, tidying. Syncere is a Palo Alto startup founded by roboticists Aaron Tan and Angus Fung. Lume starts at $2,699."
+                "x": "Pudu’s TOMO S goes at the blade problem directly: when sharpening is due, it heads back to its charging station and sharpens its own rotary blades. No tools, no routine blade changes. It’s Pudu’s first consumer line, built by a company that has shipped more than 130,000 commercial robots into 85-plus countries. Three versions cover lawns from 1,500 to 5,000 square meters, about 0.37 to 1.24 acres."
+              },
+              {
+                "t": "p",
+                "x": "Pudu’s own lab comparison shows its rotary blades still sharp and rust-resistant after three years, where small blades show dull and rust-prone after one month - a manufacturer test, labeled as one."
               },
               {
                 "t": "video",
-                "yt": "ahBF2XkA9No"
+                "yt": "lg-OQwfREYc"
               },
               {
                 "t": "p",
-                "x": "Syncere builds the product around robotic manipulation, onboard perception, and local AI compute, so the seeing and the deciding happen on the device. Every Lume ships with a Personalization Band: you demonstrate how you fold and how you like the bed made, and the robot learns your preferences."
+                "x": "The TOMO S drives aerodynamic high-lift blades with dual 636-watt motors at up to 6,000 RPM, with a rear discharge channel and a floating deck. An offset cutting deck and side sensing let it cut right up to walls, trees, and flower beds."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-folded.jpg",
-                "cap": "Folded, Lume is a plain floor lamp. Image: Syncere"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pudu-tomo-s-planner.jpg",
+                "cap": "The AI Mowing Planner works around local weather. Image: PUDU HOME"
               },
               {
                 "t": "p",
-                "x": "The Duet, two lamps, is $5,199. LumeCare runs $489; Autonomy costs $679 for lifetime access to new features and future tasks, or $79 a month per lamp. Ordering is by invitation, with initial deliveries in the first and second quarters of 2027. Syncere has closed an $11 million pre-seed round led by a16z Speedrun."
+                "x": "Triple-Sense Navigation combines a 360-degree LiDAR, AI vision, and network RTK for centimeter-level positioning, and One-Tap Auto Mapping identifies the mowable areas and boundaries on the first run. Four hub motors give all-wheel drive for slopes up to 45 degrees on Pudu’s figure. In the app, the AI Mowing Planner works around your weather and location, and Smart Recut sends the mower back over any missed spots."
+              },
+              {
+                "t": "p",
+                "x": "Pudu hasn’t priced any of the three versions, and regional availability hasn’t been announced; orders open on PUDU HOME in early spring 2027."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Syncere의 Lume은\n빨래 개는 로봇 램프",
-          "body": "Syncere의 $2,699 Lume은 로컬 AI 팔로 빨래 개고 침대를 정리한다.",
-          "mini_headline": "빨래 개는 Lume 램프",
+          "headline": "Pudu TOMO S 로봇\n스스로 날 가는 잔디깎이",
+          "body": "Pudu 첫 가정용 잔디깎이는 LiDAR·AI 비전으로 와이어 없이 달린다.",
+          "mini_headline": "Pudu 잔디깎이, 날을 스스로 간다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero-1280x720.jpg",
-                "cap": "침대 옆에서 빨래를 들고 있는 Syncere Lume 로봇 램프"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pudu-tomo-s-hero-1280x720.jpg",
+                "cap": "PUDU TOMO S 로봇 잔디깎이"
               },
               {
                 "t": "p",
-                "x": "Lume은 안에 로봇이 접혀 있는 플로어 램프다. 일을 시키면 관절형 팔을 펴고 침대나 빨래 더미 쪽으로 굴러가 옷 개기, 침대 정리, 베개 정돈, 정리정돈 같은 부드러운 집안일을 한다. Syncere는 로봇공학자 Aaron Tan과 Angus Fung이 세운 Palo Alto 스타트업이다. Lume 가격은 $2,699부터다."
+                "x": "Pudu의 TOMO S는 날 문제를 정면으로 파고든다. 날을 갈 때가 되면 충전 스테이션으로 돌아가 회전 날을 알아서 간다. 공구도, 주기적인 날 교체도 필요 없다. 상업용 로봇을 85개국 이상에 130,000대 넘게 공급한 Pudu가 처음 내놓는 소비자용 제품군이다. 버전은 세 가지로, 1,500제곱미터에서 5,000제곱미터(약 0.37에서 1.24에이커)의 잔디밭을 맡는다."
+              },
+              {
+                "t": "p",
+                "x": "Pudu가 자체 실험실에서 비교한 결과 이 회전 날은 삼 년이 지나도 날카롭고 녹에도 강했다. 반면 소형 날은 한 달 만에 무뎌지고 녹도 잘 슬었다. 제조사 시험 결과이며 자료에도 그렇게 표기돼 있다."
               },
               {
                 "t": "video",
-                "yt": "ahBF2XkA9No"
+                "yt": "lg-OQwfREYc"
               },
               {
                 "t": "p",
-                "x": "Syncere는 로봇 조작, 온보드 인식, 로컬 AI 연산을 축으로 제품을 만든다. 보고 판단하는 일은 기기 안에서 이뤄진다. Lume마다 Personalization Band가 딸려 온다. 옷 개는 법과 원하는 침대 정리 방식을 직접 보여 주면 로봇이 취향을 익힌다."
+                "x": "TOMO S는 636와트 모터 두 개로 공기역학적 하이리프트 날을 최대 6,000 RPM으로 돌린다. 후면 배출 채널과 플로팅 데크도 갖췄다. 오프셋 커팅 데크와 측면 감지 덕분에 벽과 나무, 화단 바로 앞까지 깎는다."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-folded.jpg",
-                "cap": "접으면 Lume은 평범한 플로어 램프다. 이미지: Syncere"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pudu-tomo-s-planner.jpg",
+                "cap": "AI Mowing Planner는 지역 날씨에 맞춰 작동한다. 이미지: PUDU HOME"
               },
               {
                 "t": "p",
-                "x": "램프 두 개짜리 Duet은 $5,199다. LumeCare는 $489다. 새 기능과 앞으로 나올 작업을 평생 쓰는 Autonomy는 $679이며 램프당 월 $79로 낼 수도 있다. 주문은 초대제로 받고 첫 배송은 2027년 첫째와 둘째 분기다. Syncere는 a16z Speedrun이 이끈 $11M 규모 프리시드 투자를 마쳤다."
+                "x": "Triple-Sense Navigation은 360도 LiDAR와 AI 비전, 네트워크 RTK를 묶어 센티미터 단위로 위치를 잡는다. One-Tap Auto Mapping은 첫 주행에서 깎을 구역과 경계를 익힌다. 허브 모터 네 개로 사륜구동을 해 Pudu 수치 기준 최대 45도 경사까지 오른다. 앱의 AI Mowing Planner가 날씨와 위치에 맞춰 일정을 짜고 Smart Recut은 놓친 곳에 잔디깎이를 다시 보낸다."
+              },
+              {
+                "t": "p",
+                "x": "가격은 세 버전 모두 아직 정해지지 않았고 지역별 출시 여부도 Pudu가 밝히지 않았다. 주문은 2027년 이른 봄 PUDU HOME에서 받는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SyncereのLumeに\n潜む洗濯たたみロボット",
-          "body": "Syncereの$2,699のLumeはローカルAIの腕で洗濯物をたたみ、ベッドを整える。",
-          "mini_headline": "Lumeランプが洗濯物をたたむ",
+          "headline": "PuduのTOMO S\n自ら刃を研ぐロボット芝刈り機",
+          "body": "Pudu初の家庭用芝刈り機は、LiDARとAIビジョンでワイヤーなしに走行する。",
+          "mini_headline": "Pudu芝刈り機、刃を自ら研ぐ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero-1280x720.jpg",
-                "cap": "ベッドの横で洗濯物を持つSyncere Lumeロボットランプ"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pudu-tomo-s-hero-1280x720.jpg",
+                "cap": "PUDU TOMO S ロボット芝刈り機"
               },
               {
                 "t": "p",
-                "x": "Lumeは、ロボットが中に折りたたまれたフロアランプだ。作業を頼むと関節式アームを広げ、ベッドや洗濯物の山まで移動し、服をたたむ、ベッドを整える、枕を直す、片付けるといった柔らかい家事をこなす。SyncereはロボットエンジニアのAaron TanとAngus Fungが創業したPalo Altoのスタートアップだ。Lumeは$2,699からだ。"
+                "x": "PuduのTOMO Sは刃の問題に正面から取り組む。研ぐ時期が来ると充電ステーションに戻り、回転刃を自ら研ぐ。工具も定期的な刃の交換も要らない。85カ国以上に130,000台を超える業務用ロボットを出荷してきた企業による、Pudu初の消費者向け製品ラインである。三つのバージョンで1,500〜5,000平方メートル、約0.37〜1.24エーカーの芝生に対応する。"
+              },
+              {
+                "t": "p",
+                "x": "Pudu自身のラボ比較では、同社の回転刃は三年後も鋭さと錆びにくさを保っていたのに対し、小型の刃はひと月で切れ味が落ち、錆びやすくなっていた。これはメーカーによる試験であり、その旨が明記されている。"
               },
               {
                 "t": "video",
-                "yt": "ahBF2XkA9No"
+                "yt": "lg-OQwfREYc"
               },
               {
                 "t": "p",
-                "x": "Syncereはロボットによる物体操作、オンボードの知覚、ローカルAI演算を軸に製品を作っており、見ることも判断することもデバイス上で行われる。すべてのLumeにはPersonalization Bandが付属する。服のたたみ方やベッドの整え方を実演すると、ロボットが好みを学ぶ。"
+                "x": "TOMO Sは636ワットのデュアルモーターで空力設計のハイリフト刃を最大6,000 RPMで回転させ、後方排出チャネルとフローティングデッキを備える。オフセットされた刈り取りデッキと側面センサーにより、壁や木、花壇のきわまで刈り込める。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-folded.jpg",
-                "cap": "たたむとLumeは普通のフロアランプになる。画像：Syncere"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pudu-tomo-s-planner.jpg",
+                "cap": "AI Mowing Plannerは地域の天気に合わせて動作する。画像:PUDU HOME"
               },
               {
                 "t": "p",
-                "x": "ランプ二台のDuetは$5,199だ。LumeCareは$489、新機能と今後のタスクを生涯利用できるAutonomyは$679、またはランプ一台あたり月$79だ。注文は招待制で、最初の出荷は2027年の第一・第二四半期となる。Syncereはa16z Speedrunが主導した$11M のプレシードラウンドを完了した。"
+                "x": "Triple-Sense Navigationは360度LiDAR、AIビジョン、ネットワークRTKを組み合わせてセンチメートル級の測位を実現し、One-Tap Auto Mappingは初回の走行で刈り取り可能なエリアと境界を識別する。四つのハブモーターによる全輪駆動で、Puduの公称値では最大45度の斜面に対応する。アプリではAI Mowing Plannerが天気と場所に合わせて作業を組み、Smart Recutが刈り残しの箇所へ芝刈り機を戻す。"
+              },
+              {
+                "t": "p",
+                "x": "Puduは三つのバージョンいずれの価格も示しておらず、地域ごとの販売状況も発表していない。注文は2027年の早春にPUDU HOMEで受け付けを開始する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Syncere的Lume台灯\n藏着叠衣服机器人",
-          "body": "Syncere售价$2,699的Lume落地灯藏有本地AI机械臂，能叠衣服、铺床。",
-          "mini_headline": "Lume台灯会叠衣服",
+          "headline": "Pudu TOMO S割草机\n可自行打磨刀片",
+          "body": "Pudu首款家用割草机借助LiDAR和AI视觉免埋线导航，AI规划器还会根据天气安排作业。",
+          "mini_headline": "Pudu割草机可自行磨刀",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero-1280x720.jpg",
-                "cap": "Syncere Lume机器人台灯在床边拿着衣物"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pudu-tomo-s-hero-1280x720.jpg",
+                "cap": "PUDU TOMO S机器人割草机"
               },
               {
                 "t": "p",
-                "x": "Lume是一盏内部折叠着机器人的落地灯。需要它干活时，它会展开关节臂，移动到床边或衣物堆旁，完成叠衣服、铺床、整理枕头、收拾房间等轻柔家务。Syncere是一家Palo Alto初创公司，由机器人专家Aaron Tan和Angus Fung创立。Lume起价$2,699。"
+                "x": "Pudu的TOMO S直接解决刀片问题：需要打磨时，它会返回充电站，自行打磨旋转刀片。无需工具，也无需定期更换刀片。这是Pudu首个消费级产品线，出自一家已向85个以上国家交付超过130,000台商用机器人的公司。三个版本覆盖1,500至5,000平方米的草坪，约合0.37至1.24英亩。"
+              },
+              {
+                "t": "p",
+                "x": "Pudu自己的实验室对比显示，其旋转刀片在三年后依然锋利且耐锈，而小刀片在一个月后就变钝、易生锈——这是制造商测试，并已如实标注。"
               },
               {
                 "t": "video",
-                "yt": "ahBF2XkA9No"
+                "yt": "lg-OQwfREYc"
               },
               {
                 "t": "p",
-                "x": "Syncere围绕机器人操控、机载感知和本地AI算力打造产品，因此观察和决策都在设备上完成。每台Lume都附带Personalization Band：你示范如何叠衣服、喜欢怎样铺床，机器人就会学习你的偏好。"
+                "x": "TOMO S以两台636瓦电机驱动空气动力学高升力刀片，转速最高可达6,000 RPM，并配有后排草通道和浮动刀盘。偏置切割刀盘和侧面感应让它能紧贴墙壁、树木和花坛修剪。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-folded.jpg",
-                "cap": "折叠起来时，Lume就是一盏普通的落地灯。图片：Syncere"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pudu-tomo-s-planner.jpg",
+                "cap": "AI Mowing Planner会根据当地天气安排作业。图片：PUDU HOME"
               },
               {
                 "t": "p",
-                "x": "两盏灯的Duet售价$5,199。LumeCare为$489；Autonomy售价$679，可终身使用新功能和未来任务，或每盏灯每月$79。产品采用邀请制订购，首批交付在2027年第一和第二季度。Syncere已完成由a16z Speedrun领投的$11M 种子前轮融资。"
+                "x": "Triple-Sense Navigation结合360度LiDAR、AI视觉和网络RTK，实现厘米级定位；One-Tap Auto Mapping可在首次运行时识别可割草区域和边界。按Pudu的数据，四个轮毂电机提供全轮驱动，可应对最高45度的坡度。在应用中，AI Mowing Planner会根据你的天气和位置安排作业，Smart Recut则会让割草机返回补割遗漏之处。"
+              },
+              {
+                "t": "p",
+                "x": "Pudu尚未公布三个版本中任何一款的价格，也未宣布各地区上市情况；订单将于2027年早春在PUDU HOME开放。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La lámpara Lume de Syncere\nesconde un robot que dobla ropa",
-          "body": "La lámpara de pie Lume de Syncere, de $2,699, oculta un brazo robótico con AI local que dobla la ropa y hace la cama.",
-          "mini_headline": "La lámpara Lume dobla la ropa",
+          "headline": "El cortacésped TOMO S de Pudu\nafila sus propias cuchillas",
+          "body": "El primer cortacésped doméstico de Pudu se guía sin cables con LiDAR y visión AI y planifica según el clima.",
+          "mini_headline": "El cortacésped de Pudu afila sus cuchillas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero-1280x720.jpg",
-                "cap": "La lámpara robot Lume de Syncere sostiene ropa junto a una cama"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pudu-tomo-s-hero-1280x720.jpg",
+                "cap": "Robot cortacésped PUDU TOMO S"
               },
               {
                 "t": "p",
-                "x": "Lume es una lámpara de pie con un robot plegado en su interior. Cuando se le pide trabajar, despliega un brazo articulado, rueda hasta la cama o el montón de ropa y se ocupa de las tareas suaves: doblar ropa, hacer la cama, colocar las almohadas, ordenar. Syncere es una startup de Palo Alto fundada por los roboticistas Aaron Tan y Angus Fung. Lume cuesta desde $2,699."
+                "x": "El TOMO S de Pudu ataca directamente el problema de las cuchillas: cuando toca afilarlas, vuelve a su estación de carga y afila él mismo sus cuchillas rotativas. Sin herramientas ni cambios periódicos de cuchillas. Es la primera línea de consumo de Pudu, creada por una empresa que ha enviado más de 130,000 robots comerciales a más de 85 países. Tres versiones cubren céspedes de 1,500 a 5,000 metros cuadrados, unos 0.37 a 1.24 acres."
+              },
+              {
+                "t": "p",
+                "x": "La comparación de laboratorio de la propia Pudu muestra que sus cuchillas rotativas siguen afiladas y resistentes al óxido después de tres años, mientras que las cuchillas pequeñas aparecen desafiladas y propensas al óxido tras un mes; se trata de una prueba del fabricante, identificada como tal."
               },
               {
                 "t": "video",
-                "yt": "ahBF2XkA9No"
+                "yt": "lg-OQwfREYc"
               },
               {
                 "t": "p",
-                "x": "Syncere construye el producto en torno a la manipulación robótica, la percepción integrada y el cómputo de AI local, de modo que ver y decidir ocurre en el dispositivo. Cada Lume incluye una Personalization Band: le muestras cómo doblas y cómo te gusta hacer la cama, y el robot aprende tus preferencias."
+                "x": "El TOMO S mueve cuchillas aerodinámicas de alta elevación con dos motores de 636 vatios a hasta 6,000 RPM, con un canal de descarga trasera y una plataforma flotante. Una plataforma de corte desplazada y la detección lateral le permiten cortar justo hasta paredes, árboles y parterres."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-folded.jpg",
-                "cap": "Plegada, Lume es una simple lámpara de pie. Imagen: Syncere"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pudu-tomo-s-planner.jpg",
+                "cap": "El AI Mowing Planner se adapta al clima local. Imagen: PUDU HOME"
               },
               {
                 "t": "p",
-                "x": "El Duet, con dos lámparas, cuesta $5,199. LumeCare cuesta $489; Autonomy vale $679 por acceso de por vida a nuevas funciones y tareas futuras, o $79 al mes por lámpara. Los pedidos son por invitación, con las primeras entregas en el primer y segundo trimestre de 2027. Syncere cerró una ronda presemilla de $11 millones liderada por a16z Speedrun."
+                "x": "Triple-Sense Navigation combina un LiDAR de 360 grados, visión AI y RTK en red para un posicionamiento a nivel de centímetro, y One-Tap Auto Mapping identifica las zonas de corte y los límites en la primera pasada. Cuatro motores en los cubos ofrecen tracción total para pendientes de hasta 45 grados, según los datos de Pudu. En la app, el AI Mowing Planner se ajusta al clima y la ubicación, y Smart Recut envía de nuevo el cortacésped a las zonas que se hayan pasado por alto."
+              },
+              {
+                "t": "p",
+                "x": "Pudu no ha fijado el precio de ninguna de las tres versiones ni ha anunciado su disponibilidad por regiones; los pedidos se abrirán en PUDU HOME a principios de la primavera de 2027."
               }
             ]
           }
@@ -853,839 +1855,177 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Syncere의 Lume은\n빨래 개는 로봇 램프",
-          "body": "Syncere의 $2,699 Lume은 로컬 AI 팔로 빨래 개고 침대를 정리한다.",
-          "mini_headline": "빨래 개는 Lume 램프",
+          "headline": "Pudu TOMO S 로봇\n스스로 날 가는 잔디깎이",
+          "body": "Pudu 첫 가정용 잔디깎이는 LiDAR·AI 비전으로 와이어 없이 달린다.",
+          "mini_headline": "Pudu 잔디깎이, 날을 스스로 간다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero-1280x720.jpg",
-                "cap": "침대 옆에서 빨래를 들고 있는 Syncere Lume 로봇 램프"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pudu-tomo-s-hero-1280x720.jpg",
+                "cap": "PUDU TOMO S 로봇 잔디깎이"
               },
               {
                 "t": "p",
-                "x": "Lume은 로봇이 접혀 들어간 플로어 램프다. 일을 시키면 관절형 팔을 펼치고 침대나 빨래 더미로 굴러가 옷 개기, 침대 정리, 베개 정돈, 정리정돈 같은 부드러운 집안일을 해낸다. Syncere는 로봇공학자 Aaron Tan과 Angus Fung이 세운 Palo Alto 스타트업이다. Lume 가격은 $2,699부터다."
+                "x": "Pudu의 TOMO S는 날 문제를 정면으로 다룬다. 날을 갈 때가 되면 충전 스테이션으로 돌아가 회전 날을 스스로 간다. 공구도, 정기적인 날 교체도 필요 없다. 상업용 로봇을 85개국 이상에 130,000대 넘게 공급한 회사가 만든 Pudu의 첫 소비자용 제품군이다. 세 가지 버전이 1,500제곱미터에서 5,000제곱미터, 약 0.37에서 1.24에이커의 잔디밭을 맡는다."
+              },
+              {
+                "t": "p",
+                "x": "Pudu의 자체 실험실 비교에 따르면 이 회전 날은 삼 년이 지나도 날카롭고 녹에 강했지만, 소형 날은 한 달 만에 무뎌지고 녹이 슬기 쉬웠다. 제조사 시험이며 그렇게 표기돼 있다."
               },
               {
                 "t": "video",
-                "yt": "ahBF2XkA9No"
+                "yt": "lg-OQwfREYc"
               },
               {
                 "t": "p",
-                "x": "Syncere는 로봇 조작, 온보드 인식, 로컬 AI 연산을 중심으로 제품을 만들어, 보고 판단하는 일이 기기 안에서 이뤄진다. 모든 Lume에는 Personalization Band가 함께 제공된다. 옷 개는 법과 원하는 침대 정리 방식을 직접 보여 주면 로봇이 취향을 익힌다."
+                "x": "TOMO S는 636와트 모터 두 개로 공기역학적 하이리프트 날을 최대 6,000 RPM으로 돌린다. 후면 배출 채널과 플로팅 데크도 갖췄다. 오프셋 커팅 데크와 측면 감지 덕분에 벽, 나무, 화단 바로 앞까지 깎을 수 있다."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-folded.jpg",
-                "cap": "접으면 Lume은 평범한 플로어 램프다. 이미지: Syncere"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pudu-tomo-s-planner.jpg",
+                "cap": "AI Mowing Planner는 지역 날씨에 맞춰 작동한다. 이미지: PUDU HOME"
               },
               {
                 "t": "p",
-                "x": "램프 두 개 구성인 Duet은 $5,199다. LumeCare는 $489이고, 새 기능과 향후 작업을 평생 이용하는 Autonomy는 $679, 또는 램프당 월 $79다. 주문은 초대제로 받으며 첫 배송은 2027년 첫째와 둘째 분기에 이뤄진다. Syncere는 a16z Speedrun이 주도한 $11M 규모 프리시드 투자를 마무리했다."
+                "x": "Triple-Sense Navigation은 360도 LiDAR, AI 비전, 네트워크 RTK를 결합해 센티미터 수준으로 위치를 잡는다. One-Tap Auto Mapping은 첫 주행에서 깎을 구역과 경계를 파악한다. 허브 모터 네 개로 사륜구동을 구현해 Pudu 수치 기준 최대 45도 경사까지 오른다. 앱의 AI Mowing Planner는 날씨와 위치에 맞춰 일정을 조정하고, Smart Recut은 놓친 곳으로 잔디깎이를 다시 보낸다."
+              },
+              {
+                "t": "p",
+                "x": "Pudu는 세 가지 버전 모두 가격을 정하지 않았고 지역별 출시 여부도 발표하지 않았다. 주문은 2027년 이른 봄 PUDU HOME에서 시작된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SyncereのLumeに\n潜む洗濯たたみロボット",
-          "body": "Syncereの$2,699のLumeはローカルAIの腕で洗濯物をたたみ、ベッドを整える。",
-          "mini_headline": "Lumeランプが洗濯物をたたむ",
+          "headline": "PuduのTOMO S\n自ら刃を研ぐロボット芝刈り機",
+          "body": "Pudu初の家庭用芝刈り機は、LiDARとAIビジョンでワイヤーなしに走行する。",
+          "mini_headline": "Pudu芝刈り機、刃を自ら研ぐ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero-1280x720.jpg",
-                "cap": "ベッドの横で洗濯物を持つSyncere Lumeロボットランプ"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pudu-tomo-s-hero-1280x720.jpg",
+                "cap": "PUDU TOMO S ロボット芝刈り機"
               },
               {
                 "t": "p",
-                "x": "Lumeは、ロボットが中に折りたたまれたフロアランプだ。作業を頼むと関節式アームを広げ、ベッドや洗濯物の山まで移動し、服をたたむ、ベッドを整える、枕を直す、片付けるといった柔らかい家事をこなす。SyncereはロボットエンジニアのAaron TanとAngus Fungが創業したPalo Altoのスタートアップだ。Lumeは$2,699からだ。"
+                "x": "PuduのTOMO Sは刃の問題に正面から取り組む。研ぐ時期が来ると充電ステーションに戻り、回転刃を自ら研ぐ。工具も定期的な刃の交換も要らない。85カ国以上に130,000台を超える業務用ロボットを出荷してきた企業による、Pudu初の消費者向け製品ラインである。三つのバージョンで1,500〜5,000平方メートル、約0.37〜1.24エーカーの芝生に対応する。"
+              },
+              {
+                "t": "p",
+                "x": "Pudu自身のラボ比較では、同社の回転刃は三年後も鋭さと錆びにくさを保っていたのに対し、小型の刃はひと月で切れ味が落ち、錆びやすくなっていた。これはメーカーによる試験であり、その旨が明記されている。"
               },
               {
                 "t": "video",
-                "yt": "ahBF2XkA9No"
+                "yt": "lg-OQwfREYc"
               },
               {
                 "t": "p",
-                "x": "Syncereはロボットによる物体操作、オンボードの知覚、ローカルAI演算を軸に製品を作っており、見ることも判断することもデバイス上で行われる。すべてのLumeにはPersonalization Bandが付属する。服のたたみ方やベッドの整え方を実演すると、ロボットが好みを学ぶ。"
+                "x": "TOMO Sは636ワットのデュアルモーターで空力設計のハイリフト刃を最大6,000 RPMで回転させ、後方排出チャネルとフローティングデッキを備える。オフセットされた刈り取りデッキと側面センサーにより、壁や木、花壇のきわまで刈り込める。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-folded.jpg",
-                "cap": "たたむとLumeは普通のフロアランプになる。画像：Syncere"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pudu-tomo-s-planner.jpg",
+                "cap": "AI Mowing Plannerは地域の天気に合わせて動作する。画像:PUDU HOME"
               },
               {
                 "t": "p",
-                "x": "ランプ二台のDuetは$5,199だ。LumeCareは$489、新機能と今後のタスクを生涯利用できるAutonomyは$679、またはランプ一台あたり月$79だ。注文は招待制で、最初の出荷は2027年の第一・第二四半期となる。Syncereはa16z Speedrunが主導した$11M のプレシードラウンドを完了した。"
+                "x": "Triple-Sense Navigationは360度LiDAR、AIビジョン、ネットワークRTKを組み合わせてセンチメートル級の測位を実現し、One-Tap Auto Mappingは初回の走行で刈り取り可能なエリアと境界を識別する。四つのハブモーターによる全輪駆動で、Puduの公称値では最大45度の斜面に対応する。アプリではAI Mowing Plannerが天気と場所に合わせて作業を組み、Smart Recutが刈り残しの箇所へ芝刈り機を戻す。"
+              },
+              {
+                "t": "p",
+                "x": "Puduは三つのバージョンいずれの価格も示しておらず、地域ごとの販売状況も発表していない。注文は2027年の早春にPUDU HOMEで受け付けを開始する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Syncere的Lume台灯\n藏着叠衣服机器人",
-          "body": "Syncere售价$2,699的Lume落地灯藏有本地AI机械臂，能叠衣服、铺床。",
-          "mini_headline": "Lume台灯会叠衣服",
+          "headline": "Pudu TOMO S割草机\n可自行打磨刀片",
+          "body": "Pudu首款家用割草机借助LiDAR和AI视觉免埋线导航，AI规划器还会根据天气安排作业。",
+          "mini_headline": "Pudu割草机可自行磨刀",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero-1280x720.jpg",
-                "cap": "Syncere Lume机器人台灯在床边拿着衣物"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pudu-tomo-s-hero-1280x720.jpg",
+                "cap": "PUDU TOMO S机器人割草机"
               },
               {
                 "t": "p",
-                "x": "Lume是一盏内部折叠着机器人的落地灯。需要它干活时，它会展开关节臂，移动到床边或衣物堆旁，完成叠衣服、铺床、整理枕头、收拾房间等轻柔家务。Syncere是一家Palo Alto初创公司，由机器人专家Aaron Tan和Angus Fung创立。Lume起价$2,699。"
+                "x": "Pudu的TOMO S直接解决刀片问题：需要打磨时，它会返回充电站，自行打磨旋转刀片。无需工具，也无需定期更换刀片。这是Pudu首个消费级产品线，出自一家已向85个以上国家交付超过130,000台商用机器人的公司。三个版本覆盖1,500至5,000平方米的草坪，约合0.37至1.24英亩。"
+              },
+              {
+                "t": "p",
+                "x": "Pudu自己的实验室对比显示，其旋转刀片在三年后依然锋利且耐锈，而小刀片在一个月后就变钝、易生锈——这是制造商测试，并已如实标注。"
               },
               {
                 "t": "video",
-                "yt": "ahBF2XkA9No"
+                "yt": "lg-OQwfREYc"
               },
               {
                 "t": "p",
-                "x": "Syncere围绕机器人操控、机载感知和本地AI算力打造产品，因此观察和决策都在设备上完成。每台Lume都附带Personalization Band：你示范如何叠衣服、喜欢怎样铺床，机器人就会学习你的偏好。"
+                "x": "TOMO S以两台636瓦电机驱动空气动力学高升力刀片，转速最高可达6,000 RPM，并配有后排草通道和浮动刀盘。偏置切割刀盘和侧面感应让它能紧贴墙壁、树木和花坛修剪。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-folded.jpg",
-                "cap": "折叠起来时，Lume就是一盏普通的落地灯。图片：Syncere"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pudu-tomo-s-planner.jpg",
+                "cap": "AI Mowing Planner会根据当地天气安排作业。图片：PUDU HOME"
               },
               {
                 "t": "p",
-                "x": "两盏灯的Duet售价$5,199。LumeCare为$489；Autonomy售价$679，可终身使用新功能和未来任务，或每盏灯每月$79。产品采用邀请制订购，首批交付在2027年第一和第二季度。Syncere已完成由a16z Speedrun领投的$11M 种子前轮融资。"
+                "x": "Triple-Sense Navigation结合360度LiDAR、AI视觉和网络RTK，实现厘米级定位；One-Tap Auto Mapping可在首次运行时识别可割草区域和边界。按Pudu的数据，四个轮毂电机提供全轮驱动，可应对最高45度的坡度。在应用中，AI Mowing Planner会根据你的天气和位置安排作业，Smart Recut则会让割草机返回补割遗漏之处。"
+              },
+              {
+                "t": "p",
+                "x": "Pudu尚未公布三个版本中任何一款的价格，也未宣布各地区上市情况；订单将于2027年早春在PUDU HOME开放。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La lámpara Lume de Syncere\nesconde un robot que dobla ropa",
-          "body": "La lámpara de pie Lume de Syncere, de $2,699, oculta un brazo robótico con AI local que dobla la ropa y hace la cama.",
-          "mini_headline": "La lámpara Lume dobla la ropa",
+          "headline": "El cortacésped TOMO S de Pudu\nafila sus propias cuchillas",
+          "body": "El primer cortacésped doméstico de Pudu se guía sin cables con LiDAR y visión AI y planifica según el clima.",
+          "mini_headline": "El cortacésped de Pudu afila sus cuchillas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero-1280x720.jpg",
-                "cap": "La lámpara robot Lume de Syncere sostiene ropa junto a una cama"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pudu-tomo-s-hero-1280x720.jpg",
+                "cap": "Robot cortacésped PUDU TOMO S"
               },
               {
                 "t": "p",
-                "x": "Lume es una lámpara de pie con un robot plegado en su interior. Cuando se le pide trabajar, despliega un brazo articulado, rueda hasta la cama o el montón de ropa y se ocupa de las tareas suaves: doblar ropa, hacer la cama, colocar las almohadas, ordenar. Syncere es una startup de Palo Alto fundada por los roboticistas Aaron Tan y Angus Fung. Lume cuesta desde $2,699."
+                "x": "El TOMO S de Pudu ataca directamente el problema de las cuchillas: cuando toca afilarlas, vuelve a su estación de carga y afila él mismo sus cuchillas rotativas. Sin herramientas ni cambios periódicos de cuchillas. Es la primera línea de consumo de Pudu, creada por una empresa que ha enviado más de 130,000 robots comerciales a más de 85 países. Tres versiones cubren céspedes de 1,500 a 5,000 metros cuadrados, unos 0.37 a 1.24 acres."
+              },
+              {
+                "t": "p",
+                "x": "La comparación de laboratorio de la propia Pudu muestra que sus cuchillas rotativas siguen afiladas y resistentes al óxido después de tres años, mientras que las cuchillas pequeñas aparecen desafiladas y propensas al óxido tras un mes; se trata de una prueba del fabricante, identificada como tal."
               },
               {
                 "t": "video",
-                "yt": "ahBF2XkA9No"
+                "yt": "lg-OQwfREYc"
               },
               {
                 "t": "p",
-                "x": "Syncere construye el producto en torno a la manipulación robótica, la percepción integrada y el cómputo de AI local, de modo que ver y decidir ocurre en el dispositivo. Cada Lume incluye una Personalization Band: le muestras cómo doblas y cómo te gusta hacer la cama, y el robot aprende tus preferencias."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-folded.jpg",
-                "cap": "Plegada, Lume es una simple lámpara de pie. Imagen: Syncere"
-              },
-              {
-                "t": "p",
-                "x": "El Duet, con dos lámparas, cuesta $5,199. LumeCare cuesta $489; Autonomy vale $679 por acceso de por vida a nuevas funciones y tareas futuras, o $79 al mes por lámpara. Los pedidos son por invitación, con las primeras entregas en el primer y segundo trimestre de 2027. Syncere cerró una ronda presemilla de $11 millones liderada por a16z Speedrun."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "moto-buds-ultra27-translate",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Motorola AI 번역\n버즈로 AirPods 겨냥",
-      "body": "Moto Buds Ultra 27은 Bose-tuned 음향에 AI 번역을 더했다.",
-      "mini_headline": "Moto 버즈에 AI 번역 탑재",
-      "tool": "Gadgets",
-      "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/home-theater/motorolas-new-earbuds-are-gunning-for-airpods-with-bose-sound-and-some-handy-ai-features/",
-      "accent": "#7928ca",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C720&ssl=1",
-            "cap": "Motorola"
-          },
-          {
-            "t": "p",
-            "x": "Motorola가 Motorola Signature 27과 함께 역대 가장 기능이 많은 이어버드 Moto Buds Ultra 27을 내놨다. Bose-tuned 음향과 적응형 노이즈 캔슬링에 실시간 번역 등 여러 AI-powered 기능을 담았다."
-          },
-          {
-            "t": "p",
-            "x": "11mm 다이내믹 드라이버와 전용 밸런스드 아마추어에 Bose SoundDesign 튜닝과 Bose QuietControl ANC를 더했고 Hi-Res Audio, Dolby Atmos, Dolby Head Tracking도 지원한다. 배터리는 최대 여덟 시간, 케이스를 합치면 37시간 간다. IP57 등급도 받았다."
-          },
-          {
-            "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27-lifestyle.jpg?resize=1920%2C1152&ssl=1",
-            "cap": "Motorola"
-          },
-          {
-            "t": "p",
-            "x": "AI Live Translate를 켜면 번역된 대화를 이어버드로 바로 듣는다. 다만 호환되는 Motorola 휴대폰이 있어야 하고 지원 언어는 다를 수 있다. 왼쪽 이어버드를 길게 누르면 Motorola Qira가 뜨며 핸즈프리 \"Hey Qira\"는 몇 달 안에 추가된다. Head Gestures를 쓰면 고개를 끄덕이거나 저어서 전화를 받거나 거절한다."
-          },
-          {
-            "t": "p",
-            "x": "Moto Buds Ultra 27은 앞으로 몇 달 안에 미국에 나온다. US 가격과 출시일은 Motorola가 아직 밝히지 않았다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Motorola takes on AirPods\nwith AI translation buds",
-          "body": "Motorola's Moto Buds Ultra 27 pair Bose-tuned audio with live AI translation and gesture controls.",
-          "mini_headline": "Moto buds add AI translation",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Motorola"
-              },
-              {
-                "t": "p",
-                "x": "Alongside the Motorola Signature 27 came the Moto Buds Ultra 27, Motorola's most feature-packed earbuds yet. They combine Bose-tuned audio, adaptive noise cancellation, and a collection of AI-powered features, including real-time translation."
-              },
-              {
-                "t": "p",
-                "x": "They feature an 11mm dynamic driver with a dedicated balanced armature, Bose SoundDesign tuning and Bose QuietControl ANC, plus Hi-Res Audio, Dolby Atmos and Dolby Head Tracking. Battery life is rated at up to eight hours, and 37 hours with the case, with IP57 resistance."
+                "x": "El TOMO S mueve cuchillas aerodinámicas de alta elevación con dos motores de 636 vatios a hasta 6,000 RPM, con un canal de descarga trasera y una plataforma flotante. Una plataforma de corte desplazada y la detección lateral le permiten cortar justo hasta paredes, árboles y parterres."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27-lifestyle.jpg?resize=1920%2C1152&ssl=1",
-                "cap": "Motorola"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pudu-tomo-s-planner.jpg",
+                "cap": "El AI Mowing Planner se adapta al clima local. Imagen: PUDU HOME"
               },
               {
                 "t": "p",
-                "x": "AI Live Translate lets users hear translated conversations directly through their earbuds, though it requires a compatible Motorola phone and language availability varies. Long-pressing the left earbud brings up Motorola Qira, with hands-free \"Hey Qira\" coming in the coming months. Head Gestures let users answer or reject calls by nodding or shaking their head."
+                "x": "Triple-Sense Navigation combina un LiDAR de 360 grados, visión AI y RTK en red para un posicionamiento a nivel de centímetro, y One-Tap Auto Mapping identifica las zonas de corte y los límites en la primera pasada. Cuatro motores en los cubos ofrecen tracción total para pendientes de hasta 45 grados, según los datos de Pudu. En la app, el AI Mowing Planner se ajusta al clima y la ubicación, y Smart Recut envía de nuevo el cortacésped a las zonas que se hayan pasado por alto."
               },
               {
                 "t": "p",
-                "x": "The Moto Buds Ultra 27 will be available in the United States in the coming months; Motorola hasn't announced a US price or release date."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Motorola AI 번역\n버즈로 AirPods 겨냥",
-          "body": "Moto Buds Ultra 27은 Bose-tuned 음향에 AI 번역을 더했다.",
-          "mini_headline": "Moto 버즈에 AI 번역 탑재",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Motorola"
-              },
-              {
-                "t": "p",
-                "x": "Motorola가 Motorola Signature 27과 함께 역대 가장 기능이 많은 이어버드 Moto Buds Ultra 27을 내놨다. Bose-tuned 음향과 적응형 노이즈 캔슬링에 실시간 번역 등 여러 AI-powered 기능을 담았다."
-              },
-              {
-                "t": "p",
-                "x": "11mm 다이내믹 드라이버와 전용 밸런스드 아마추어에 Bose SoundDesign 튜닝과 Bose QuietControl ANC를 더했고 Hi-Res Audio, Dolby Atmos, Dolby Head Tracking도 지원한다. 배터리는 최대 여덟 시간, 케이스를 합치면 37시간 간다. IP57 등급도 받았다."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27-lifestyle.jpg?resize=1920%2C1152&ssl=1",
-                "cap": "Motorola"
-              },
-              {
-                "t": "p",
-                "x": "AI Live Translate를 켜면 번역된 대화를 이어버드로 바로 듣는다. 다만 호환되는 Motorola 휴대폰이 있어야 하고 지원 언어는 다를 수 있다. 왼쪽 이어버드를 길게 누르면 Motorola Qira가 뜨며 핸즈프리 \"Hey Qira\"는 몇 달 안에 추가된다. Head Gestures를 쓰면 고개를 끄덕이거나 저어서 전화를 받거나 거절한다."
-              },
-              {
-                "t": "p",
-                "x": "Moto Buds Ultra 27은 앞으로 몇 달 안에 미국에 나온다. US 가격과 출시일은 Motorola가 아직 밝히지 않았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "MotorolaがAI翻訳\nイヤホンでAirPods対抗",
-          "body": "Moto Buds Ultra 27はBose-tunedの音にライブAI翻訳を加えた。",
-          "mini_headline": "MotoのイヤホンにAI翻訳",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Motorola"
-              },
-              {
-                "t": "p",
-                "x": "Motorola Signature 27とともに、Motorola史上最も多機能なイヤホンMoto Buds Ultra 27が登場した。Bose-tunedのオーディオ、適応型ノイズキャンセリング、そしてリアルタイム翻訳を含む一連のAI-powered機能を組み合わせている。"
-              },
-              {
-                "t": "p",
-                "x": "11mmのダイナミックドライバーと専用のバランスドアーマチュア、Bose SoundDesignチューニングとBose QuietControl ANCを備え、Hi-Res Audio、Dolby Atmos、Dolby Head Trackingにも対応する。バッテリー持続時間は最大八時間、ケース併用で37時間とされ、IP57の耐性を持つ。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27-lifestyle.jpg?resize=1920%2C1152&ssl=1",
-                "cap": "Motorola"
-              },
-              {
-                "t": "p",
-                "x": "AI Live Translateを使えば、翻訳された会話をイヤホンで直接聞けるが、対応するMotorolaのスマートフォンが必要で、利用できる言語は異なる。左のイヤホンを長押しするとMotorola Qiraが起動し、ハンズフリーの「Hey Qira」は今後数カ月以内に提供される。Head Gesturesでは、うなずいたり首を振ったりして通話に応答・拒否できる。"
-              },
-              {
-                "t": "p",
-                "x": "Moto Buds Ultra 27は今後数カ月以内に米国で発売される。MotorolaはUSでの価格や発売日をまだ発表していない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Motorola用AI翻译\n耳机挑战AirPods",
-          "body": "Moto Buds Ultra 27结合Bose-tuned音质、AI实时翻译与手势控制。",
-          "mini_headline": "Moto耳机加入AI翻译",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Motorola"
-              },
-              {
-                "t": "p",
-                "x": "与Motorola Signature 27一同亮相的还有Moto Buds Ultra 27，这是Motorola迄今功能最丰富的耳机。它结合了Bose-tuned音效、自适应降噪以及包括实时翻译在内的一系列AI-powered功能。"
-              },
-              {
-                "t": "p",
-                "x": "它配备11mm动圈单元和专用平衡电枢单元，采用Bose SoundDesign调音和Bose QuietControl ANC，并支持Hi-Res Audio、Dolby Atmos和Dolby Head Tracking。续航最长八小时，配合充电盒可达37小时，具备IP57防护。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27-lifestyle.jpg?resize=1920%2C1152&ssl=1",
-                "cap": "Motorola"
-              },
-              {
-                "t": "p",
-                "x": "AI Live Translate让用户直接通过耳机听到翻译后的对话，但需要兼容的Motorola手机，可用语言也因情况而异。长按左耳耳机可唤出Motorola Qira，免提“Hey Qira”将在未来几个月推出。Head Gestures让用户点头或摇头即可接听或拒接电话。"
-              },
-              {
-                "t": "p",
-                "x": "Moto Buds Ultra 27将在未来几个月于美国上市；Motorola尚未公布US售价或发售日期。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Motorola reta a los AirPods\ncon auriculares de traducción AI",
-          "body": "Los Moto Buds Ultra 27 de Motorola combinan audio Bose-tuned con traducción AI en vivo y control por gestos.",
-          "mini_headline": "Los Moto Buds suman traducción AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Motorola"
-              },
-              {
-                "t": "p",
-                "x": "Junto al Motorola Signature 27 llegaron los Moto Buds Ultra 27, los auriculares con más funciones de Motorola hasta la fecha. Combinan audio Bose-tuned, cancelación de ruido adaptativa y un conjunto de funciones AI-powered, entre ellas la traducción en tiempo real."
-              },
-              {
-                "t": "p",
-                "x": "Incluyen un controlador dinámico de 11mm con una armadura balanceada dedicada, ajuste Bose SoundDesign y Bose QuietControl ANC, además de Hi-Res Audio, Dolby Atmos y Dolby Head Tracking. La batería ofrece hasta ocho horas, y 37 horas con el estuche, con resistencia IP57."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27-lifestyle.jpg?resize=1920%2C1152&ssl=1",
-                "cap": "Motorola"
-              },
-              {
-                "t": "p",
-                "x": "AI Live Translate permite escuchar conversaciones traducidas directamente en los auriculares, aunque requiere un teléfono Motorola compatible y la disponibilidad de idiomas varía. Al mantener pulsado el auricular izquierdo se abre Motorola Qira, y el modo manos libres \"Hey Qira\" llegará en los próximos meses. Head Gestures permite contestar o rechazar llamadas asintiendo o negando con la cabeza."
-              },
-              {
-                "t": "p",
-                "x": "Los Moto Buds Ultra 27 estarán disponibles en Estados Unidos en los próximos meses; Motorola no ha anunciado un precio para US ni una fecha de lanzamiento."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Motorola AI 번역\n버즈로 AirPods 겨냥",
-          "body": "Moto Buds Ultra 27은 Bose-tuned 음향에 AI 번역을 더했다.",
-          "mini_headline": "Moto 버즈에 AI 번역 탑재",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Motorola"
-              },
-              {
-                "t": "p",
-                "x": "Motorola Signature 27과 함께 Motorola 역대 가장 기능이 풍부한 이어버드 Moto Buds Ultra 27이 나왔다. Bose-tuned 음향, 적응형 노이즈 캔슬링, 실시간 번역을 포함한 여러 AI-powered 기능을 결합했다."
-              },
-              {
-                "t": "p",
-                "x": "11mm 다이내믹 드라이버와 전용 밸런스드 아마추어, Bose SoundDesign 튜닝과 Bose QuietControl ANC를 갖췄고, Hi-Res Audio, Dolby Atmos, Dolby Head Tracking도 지원한다. 배터리는 최대 여덟 시간, 케이스 포함 37시간이며 IP57 등급을 받았다."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27-lifestyle.jpg?resize=1920%2C1152&ssl=1",
-                "cap": "Motorola"
-              },
-              {
-                "t": "p",
-                "x": "AI Live Translate를 쓰면 번역된 대화를 이어버드로 바로 들을 수 있지만, 호환되는 Motorola 휴대폰이 필요하고 지원 언어는 다를 수 있다. 왼쪽 이어버드를 길게 누르면 Motorola Qira가 실행되며, 핸즈프리 \"Hey Qira\"는 앞으로 몇 달 안에 추가된다. Head Gestures로는 고개를 끄덕이거나 저어 전화를 받거나 거절할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Moto Buds Ultra 27은 앞으로 몇 달 안에 미국에서 출시된다. Motorola는 아직 US 가격이나 출시일을 발표하지 않았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "MotorolaがAI翻訳\nイヤホンでAirPods対抗",
-          "body": "Moto Buds Ultra 27はBose-tunedの音にライブAI翻訳を加えた。",
-          "mini_headline": "MotoのイヤホンにAI翻訳",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Motorola"
-              },
-              {
-                "t": "p",
-                "x": "Motorola Signature 27とともに、Motorola史上最も多機能なイヤホンMoto Buds Ultra 27が登場した。Bose-tunedのオーディオ、適応型ノイズキャンセリング、そしてリアルタイム翻訳を含む一連のAI-powered機能を組み合わせている。"
-              },
-              {
-                "t": "p",
-                "x": "11mmのダイナミックドライバーと専用のバランスドアーマチュア、Bose SoundDesignチューニングとBose QuietControl ANCを備え、Hi-Res Audio、Dolby Atmos、Dolby Head Trackingにも対応する。バッテリー持続時間は最大八時間、ケース併用で37時間とされ、IP57の耐性を持つ。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27-lifestyle.jpg?resize=1920%2C1152&ssl=1",
-                "cap": "Motorola"
-              },
-              {
-                "t": "p",
-                "x": "AI Live Translateを使えば、翻訳された会話をイヤホンで直接聞けるが、対応するMotorolaのスマートフォンが必要で、利用できる言語は異なる。左のイヤホンを長押しするとMotorola Qiraが起動し、ハンズフリーの「Hey Qira」は今後数カ月以内に提供される。Head Gesturesでは、うなずいたり首を振ったりして通話に応答・拒否できる。"
-              },
-              {
-                "t": "p",
-                "x": "Moto Buds Ultra 27は今後数カ月以内に米国で発売される。MotorolaはUSでの価格や発売日をまだ発表していない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Motorola用AI翻译\n耳机挑战AirPods",
-          "body": "Moto Buds Ultra 27结合Bose-tuned音质、AI实时翻译与手势控制。",
-          "mini_headline": "Moto耳机加入AI翻译",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Motorola"
-              },
-              {
-                "t": "p",
-                "x": "与Motorola Signature 27一同亮相的还有Moto Buds Ultra 27，这是Motorola迄今功能最丰富的耳机。它结合了Bose-tuned音效、自适应降噪以及包括实时翻译在内的一系列AI-powered功能。"
-              },
-              {
-                "t": "p",
-                "x": "它配备11mm动圈单元和专用平衡电枢单元，采用Bose SoundDesign调音和Bose QuietControl ANC，并支持Hi-Res Audio、Dolby Atmos和Dolby Head Tracking。续航最长八小时，配合充电盒可达37小时，具备IP57防护。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27-lifestyle.jpg?resize=1920%2C1152&ssl=1",
-                "cap": "Motorola"
-              },
-              {
-                "t": "p",
-                "x": "AI Live Translate让用户直接通过耳机听到翻译后的对话，但需要兼容的Motorola手机，可用语言也因情况而异。长按左耳耳机可唤出Motorola Qira，免提“Hey Qira”将在未来几个月推出。Head Gestures让用户点头或摇头即可接听或拒接电话。"
-              },
-              {
-                "t": "p",
-                "x": "Moto Buds Ultra 27将在未来几个月于美国上市；Motorola尚未公布US售价或发售日期。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Motorola reta a los AirPods\ncon auriculares de traducción AI",
-          "body": "Los Moto Buds Ultra 27 de Motorola combinan audio Bose-tuned con traducción AI en vivo y control por gestos.",
-          "mini_headline": "Los Moto Buds suman traducción AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Motorola"
-              },
-              {
-                "t": "p",
-                "x": "Junto al Motorola Signature 27 llegaron los Moto Buds Ultra 27, los auriculares con más funciones de Motorola hasta la fecha. Combinan audio Bose-tuned, cancelación de ruido adaptativa y un conjunto de funciones AI-powered, entre ellas la traducción en tiempo real."
-              },
-              {
-                "t": "p",
-                "x": "Incluyen un controlador dinámico de 11mm con una armadura balanceada dedicada, ajuste Bose SoundDesign y Bose QuietControl ANC, además de Hi-Res Audio, Dolby Atmos y Dolby Head Tracking. La batería ofrece hasta ocho horas, y 37 horas con el estuche, con resistencia IP57."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27-lifestyle.jpg?resize=1920%2C1152&ssl=1",
-                "cap": "Motorola"
-              },
-              {
-                "t": "p",
-                "x": "AI Live Translate permite escuchar conversaciones traducidas directamente en los auriculares, aunque requiere un teléfono Motorola compatible y la disponibilidad de idiomas varía. Al mantener pulsado el auricular izquierdo se abre Motorola Qira, y el modo manos libres \"Hey Qira\" llegará en los próximos meses. Head Gestures permite contestar o rechazar llamadas asintiendo o negando con la cabeza."
-              },
-              {
-                "t": "p",
-                "x": "Los Moto Buds Ultra 27 estarán disponibles en Estados Unidos en los próximos meses; Motorola no ha anunciado un precio para US ni una fecha de lanzamiento."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "homeview-thirdparty-chatbots",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Apple HomeView\n외부 AI 챗봇 열리나",
-      "body": "iOS 27.3 베타 코드에 HomeView의 외부 AI 챗봇 지원 흔적이 있다.",
-      "mini_headline": "HomeView에 AI 챗봇 추가되나",
-      "tool": "Gadgets",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/05/homeview-will-support-third-party-ai-chatbots-suggests-code/",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&w=1600",
-            "cap": "이미지: 9to5Mac/Anthropic/Pawel Czerwinski"
-          },
-          {
-            "t": "p",
-            "x": "iOS 27.3 베타에서 나온 코드를 보면 HomeView가 ChatGPT와 Claude 같은 서드파티 AI 챗봇을 지원할 예정이다."
-          },
-          {
-            "t": "p",
-            "x": "리커 pdfu는 이달 초 ConversationalApps용 미사용 플래그를 찾아낸 뒤 ChatGPT, Claude 등 AI 앱이 HomeView에 들어올 \"수도 있다\"고 했다. 이번에는 iOS 26.3 베타가 그 추측을 확인해 준다고 말한다."
-          },
-          {
-            "t": "p",
-            "x": "\"드디어 현실이 됩니다. AI 앱이 HomeView에 들어옵니다. HomeView의 CarPlay 브리지인 PebblePlay가 iOS 27.3에서 Conversational Apps 카테고리를 얻습니다. 이번 업데이트는 양방향 오디오 라우팅, 세션 관리, 인터럽션 처리 기반도 추가합니다. 아직 완전히 연결되지는 않았습니다.\""
-          },
-          {
-            "t": "p",
-            "x": "CarPlay처럼 Apple도 이 플래그로 기기에서 돌릴 수 있는 서드파티 앱 범주를 정한다. 같은 리커는 HomeView가 HomeKit 보안 카메라 역할을 할 수 있다는 증거도 최근 찾아냈다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Apple's HomeView may open\nto third-party AI chatbots",
-          "body": "Code in the iOS 27.3 beta suggests Apple's HomeView will support third-party AI chatbots like ChatGPT and Claude.",
-          "mini_headline": "HomeView may add AI chatbots",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&w=1600",
-                "cap": "Image: 9to5Mac/Anthropic/Pawel Czerwinski"
-              },
-              {
-                "t": "p",
-                "x": "Code discovered in the iOS 27.3 beta suggests that HomeView is set to gain support for third-party AI chatbots like ChatGPT and Claude."
-              },
-              {
-                "t": "p",
-                "x": "Leaker pdfu said at the start of the month that ChatGPT, Claude and other AI apps \"may\" be coming to HomeView, after spotting an unused flag for ConversationalApps. They now say that the beta of iOS 26.3 confirms their suspicion."
-              },
-              {
-                "t": "p",
-                "x": "\"It's happening, folks: AI apps are coming to HomeView. PebblePlay, HomeView's CarPlay bridge, gets the Conversational Apps category in iOS 27.3. The update also adds bidirectional audio routing, session management, and interruption groundwork. Still not fully wired up.\""
-              },
-              {
-                "t": "p",
-                "x": "Apple uses these flags to determine which categories of third-party apps are allowed to run on the device, in the same way as it does with CarPlay. The same leaker recently discovered evidence that HomeView will be able to serve as a HomeKit security camera."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Apple HomeView\n외부 AI 챗봇 열리나",
-          "body": "iOS 27.3 베타 코드에 HomeView의 외부 AI 챗봇 지원 흔적이 있다.",
-          "mini_headline": "HomeView에 AI 챗봇 추가되나",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&w=1600",
-                "cap": "이미지: 9to5Mac/Anthropic/Pawel Czerwinski"
-              },
-              {
-                "t": "p",
-                "x": "iOS 27.3 베타에서 나온 코드를 보면 HomeView가 ChatGPT와 Claude 같은 서드파티 AI 챗봇을 지원할 예정이다."
-              },
-              {
-                "t": "p",
-                "x": "리커 pdfu는 이달 초 ConversationalApps용 미사용 플래그를 찾아낸 뒤 ChatGPT, Claude 등 AI 앱이 HomeView에 들어올 \"수도 있다\"고 했다. 이번에는 iOS 26.3 베타가 그 추측을 확인해 준다고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "\"드디어 현실이 됩니다. AI 앱이 HomeView에 들어옵니다. HomeView의 CarPlay 브리지인 PebblePlay가 iOS 27.3에서 Conversational Apps 카테고리를 얻습니다. 이번 업데이트는 양방향 오디오 라우팅, 세션 관리, 인터럽션 처리 기반도 추가합니다. 아직 완전히 연결되지는 않았습니다.\""
-              },
-              {
-                "t": "p",
-                "x": "CarPlay처럼 Apple도 이 플래그로 기기에서 돌릴 수 있는 서드파티 앱 범주를 정한다. 같은 리커는 HomeView가 HomeKit 보안 카메라 역할을 할 수 있다는 증거도 최근 찾아냈다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AppleのHomeView\n外部AIチャットボット対応か",
-          "body": "iOS 27.3ベータのコードは、HomeViewの外部AIチャットボット対応を示唆する。",
-          "mini_headline": "HomeViewにAIチャットボットか",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&w=1600",
-                "cap": "画像：9to5Mac/Anthropic/Pawel Czerwinski"
-              },
-              {
-                "t": "p",
-                "x": "iOS 27.3ベータで見つかったコードから、HomeViewがChatGPTやClaudeといったサードパーティ製AIチャットボットに対応する見通しであることがうかがえる。"
-              },
-              {
-                "t": "p",
-                "x": "リーカーのpdfuは今月初め、ConversationalApps向けの未使用フラグを見つけたことを受け、ChatGPTやClaudeなどのAIアプリがHomeViewに来る「かもしれない」と述べていた。pdfuは今、iOS 26.3のベータがその推測を裏付けたとしている。"
-              },
-              {
-                "t": "p",
-                "x": "「ついに来た。AIアプリがHomeViewにやって来る。HomeViewのCarPlayブリッジであるPebblePlayが、iOS 27.3でConversational Appsカテゴリーを得る。今回のアップデートでは双方向オーディオルーティング、セッション管理、割り込み処理の下地も加わる。まだ完全にはつながっていない」"
-              },
-              {
-                "t": "p",
-                "x": "AppleはCarPlayと同じように、これらのフラグでどのカテゴリーのサードパーティ製アプリをデバイス上で動かせるかを決めている。同じリーカーは最近、HomeViewがHomeKitのセキュリティカメラとして機能できることを示す証拠も見つけている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Apple HomeView\n或开放第三方AI聊天机器人",
-          "body": "iOS 27.3测试版代码显示，HomeView将支持第三方AI聊天机器人。",
-          "mini_headline": "HomeView或加入AI聊天机器人",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&w=1600",
-                "cap": "图片：9to5Mac/Anthropic/Pawel Czerwinski"
-              },
-              {
-                "t": "p",
-                "x": "在iOS 27.3测试版中发现的代码显示，HomeView将支持ChatGPT和Claude等第三方AI聊天机器人。"
-              },
-              {
-                "t": "p",
-                "x": "爆料者pdfu本月初发现一个用于ConversationalApps的未使用标志后表示，ChatGPT、Claude等AI应用“可能”会登陆HomeView。现在，pdfu称iOS 26.3测试版证实了这一猜测。"
-              },
-              {
-                "t": "p",
-                "x": "“各位，这事成了：AI应用要登陆HomeView了。HomeView的CarPlay桥接组件PebblePlay在iOS 27.3中获得了Conversational Apps类别。此次更新还加入了双向音频路由、会话管理和中断处理的基础工作。目前还没有完全打通。”"
-              },
-              {
-                "t": "p",
-                "x": "Apple用这些标志来决定哪些类别的第三方应用可以在设备上运行，方式与CarPlay相同。同一位爆料者最近还发现证据，表明HomeView将能用作HomeKit安防摄像头。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "HomeView de Apple podría abrirse\na chatbots AI de terceros",
-          "body": "El código de la beta de iOS 27.3 sugiere que HomeView de Apple admitirá chatbots AI de terceros como ChatGPT y Claude.",
-          "mini_headline": "HomeView podría sumar chatbots AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&w=1600",
-                "cap": "Imagen: 9to5Mac/Anthropic/Pawel Czerwinski"
-              },
-              {
-                "t": "p",
-                "x": "Un código descubierto en la beta de iOS 27.3 sugiere que HomeView está a punto de admitir chatbots AI de terceros como ChatGPT y Claude."
-              },
-              {
-                "t": "p",
-                "x": "El filtrador pdfu dijo a principios de mes que ChatGPT, Claude y otras apps de AI \"podrían\" llegar a HomeView, tras detectar una marca sin usar para ConversationalApps. Ahora afirma que la beta de iOS 26.3 confirma su sospecha."
-              },
-              {
-                "t": "p",
-                "x": "\"Está pasando, amigos: las apps de AI llegan a HomeView. PebblePlay, el puente de CarPlay de HomeView, recibe la categoría Conversational Apps en iOS 27.3. La actualización también añade enrutamiento de audio bidireccional, gestión de sesiones y las bases para las interrupciones. Todavía no está todo conectado.\""
-              },
-              {
-                "t": "p",
-                "x": "Apple usa estas marcas para determinar qué categorías de apps de terceros pueden ejecutarse en el dispositivo, igual que hace con CarPlay. El mismo filtrador descubrió recientemente indicios de que HomeView podrá funcionar como cámara de seguridad de HomeKit."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Apple HomeView\n외부 AI 챗봇 열리나",
-          "body": "iOS 27.3 베타 코드가 HomeView의 외부 AI 챗봇 지원을 시사한다.",
-          "mini_headline": "HomeView에 AI 챗봇 추가되나",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&w=1600",
-                "cap": "이미지: 9to5Mac/Anthropic/Pawel Czerwinski"
-              },
-              {
-                "t": "p",
-                "x": "iOS 27.3 베타에서 발견된 코드에 따르면 HomeView가 ChatGPT와 Claude 같은 서드파티 AI 챗봇을 지원할 예정이다."
-              },
-              {
-                "t": "p",
-                "x": "리커 pdfu는 이달 초 ConversationalApps용으로 쓰이지 않는 플래그를 발견한 뒤 ChatGPT, Claude 등 AI 앱이 HomeView에 들어올 \"수도 있다\"고 밝혔다. 이제 pdfu는 iOS 26.3 베타가 그 추측을 확인해 준다고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "\"드디어 현실이 됩니다. AI 앱이 HomeView에 들어옵니다. HomeView의 CarPlay 브리지인 PebblePlay가 iOS 27.3에서 Conversational Apps 카테고리를 얻습니다. 이번 업데이트는 양방향 오디오 라우팅, 세션 관리, 인터럽션 처리 기반도 추가합니다. 아직 완전히 연결되지는 않았습니다.\""
-              },
-              {
-                "t": "p",
-                "x": "Apple은 CarPlay와 마찬가지로 이 플래그로 어떤 범주의 서드파티 앱을 기기에서 실행할 수 있는지 정한다. 같은 리커는 최근 HomeView가 HomeKit 보안 카메라 역할을 할 수 있다는 증거도 찾아냈다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AppleのHomeView\n外部AIチャットボット対応か",
-          "body": "iOS 27.3ベータのコードは、HomeViewの外部AIチャットボット対応を示唆する。",
-          "mini_headline": "HomeViewにAIチャットボットか",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&w=1600",
-                "cap": "画像：9to5Mac/Anthropic/Pawel Czerwinski"
-              },
-              {
-                "t": "p",
-                "x": "iOS 27.3ベータで見つかったコードから、HomeViewがChatGPTやClaudeといったサードパーティ製AIチャットボットに対応する見通しであることがうかがえる。"
-              },
-              {
-                "t": "p",
-                "x": "リーカーのpdfuは今月初め、ConversationalApps向けの未使用フラグを見つけたことを受け、ChatGPTやClaudeなどのAIアプリがHomeViewに来る「かもしれない」と述べていた。pdfuは今、iOS 26.3のベータがその推測を裏付けたとしている。"
-              },
-              {
-                "t": "p",
-                "x": "「ついに来た。AIアプリがHomeViewにやって来る。HomeViewのCarPlayブリッジであるPebblePlayが、iOS 27.3でConversational Appsカテゴリーを得る。今回のアップデートでは双方向オーディオルーティング、セッション管理、割り込み処理の下地も加わる。まだ完全にはつながっていない」"
-              },
-              {
-                "t": "p",
-                "x": "AppleはCarPlayと同じように、これらのフラグでどのカテゴリーのサードパーティ製アプリをデバイス上で動かせるかを決めている。同じリーカーは最近、HomeViewがHomeKitのセキュリティカメラとして機能できることを示す証拠も見つけている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Apple HomeView\n或开放第三方AI聊天机器人",
-          "body": "iOS 27.3测试版代码显示，HomeView将支持第三方AI聊天机器人。",
-          "mini_headline": "HomeView或加入AI聊天机器人",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&w=1600",
-                "cap": "图片：9to5Mac/Anthropic/Pawel Czerwinski"
-              },
-              {
-                "t": "p",
-                "x": "在iOS 27.3测试版中发现的代码显示，HomeView将支持ChatGPT和Claude等第三方AI聊天机器人。"
-              },
-              {
-                "t": "p",
-                "x": "爆料者pdfu本月初发现一个用于ConversationalApps的未使用标志后表示，ChatGPT、Claude等AI应用“可能”会登陆HomeView。现在，pdfu称iOS 26.3测试版证实了这一猜测。"
-              },
-              {
-                "t": "p",
-                "x": "“各位，这事成了：AI应用要登陆HomeView了。HomeView的CarPlay桥接组件PebblePlay在iOS 27.3中获得了Conversational Apps类别。此次更新还加入了双向音频路由、会话管理和中断处理的基础工作。目前还没有完全打通。”"
-              },
-              {
-                "t": "p",
-                "x": "Apple用这些标志来决定哪些类别的第三方应用可以在设备上运行，方式与CarPlay相同。同一位爆料者最近还发现证据，表明HomeView将能用作HomeKit安防摄像头。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "HomeView de Apple podría abrirse\na chatbots AI de terceros",
-          "body": "El código de la beta de iOS 27.3 sugiere que HomeView de Apple admitirá chatbots AI de terceros como ChatGPT y Claude.",
-          "mini_headline": "HomeView podría sumar chatbots AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&w=1600",
-                "cap": "Imagen: 9to5Mac/Anthropic/Pawel Czerwinski"
-              },
-              {
-                "t": "p",
-                "x": "Un código descubierto en la beta de iOS 27.3 sugiere que HomeView está a punto de admitir chatbots AI de terceros como ChatGPT y Claude."
-              },
-              {
-                "t": "p",
-                "x": "El filtrador pdfu dijo a principios de mes que ChatGPT, Claude y otras apps de AI \"podrían\" llegar a HomeView, tras detectar una marca sin usar para ConversationalApps. Ahora afirma que la beta de iOS 26.3 confirma su sospecha."
-              },
-              {
-                "t": "p",
-                "x": "\"Está pasando, amigos: las apps de AI llegan a HomeView. PebblePlay, el puente de CarPlay de HomeView, recibe la categoría Conversational Apps en iOS 27.3. La actualización también añade enrutamiento de audio bidireccional, gestión de sesiones y las bases para las interrupciones. Todavía no está todo conectado.\""
-              },
-              {
-                "t": "p",
-                "x": "Apple usa estas marcas para determinar qué categorías de apps de terceros pueden ejecutarse en el dispositivo, igual que hace con CarPlay. El mismo filtrador descubrió recientemente indicios de que HomeView podrá funcionar como cámara de seguridad de HomeKit."
+                "x": "Pudu no ha fijado el precio de ninguna de las tres versiones ni ha anunciado su disponibilidad por regiones; los pedidos se abrirán en PUDU HOME a principios de la primavera de 2027."
               }
             ]
           }
