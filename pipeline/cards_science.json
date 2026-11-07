@@ -1,215 +1,275 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "section": "science",
   "cards": [
     {
-      "id": "psi-aaronson-ambainis-proof",
+      "id": "science-ucl-reconstruct-everything",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 풀어낸\n2008년 양자 가속 추측",
-      "body": "PSI가 Anthropic 모델로 Aaronson-Ambainis 추측을 증명했다.",
-      "mini_headline": "AI가 증명한 2008년 양자 추측",
+      "headline": "UCL AI, 입자 충돌을\n모든 검출기로 동시 재구성",
+      "body": "UCL 모델은 GPU 한 대로 충돌당 30 ms, 효율은 61%→92%로 높였다.",
+      "mini_headline": "UCL AI, 충돌 재구성",
       "tool": "Science",
-      "source": "The Quantum Insider",
-      "url": "https://thequantuminsider.com/2026/11/06/ai-assisted-proof-settles-longstanding-question-about-quantum-speedups/",
+      "source": "UCL",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/high-energy-physics/reconstruct-everything-ucls-pioneering-ai-model-could-redefine-particle-physics-reconstruction",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-4.24.26-PM-1.png"
+            "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG",
+            "cap": "Reconstruct Everything"
           },
           {
             "t": "p",
-            "x": "양자 컴퓨터가 기존 컴퓨터를 언제 크게 앞서는지를 두고 2008년부터 풀리지 않던 추측이 수학적으로 증명됐다. 구조가 없는 입력에서는 양자 컴퓨터가 고전 알고리즘을 앞서는 데 한계가 있다는 내용이다."
+            "x": "UCL 연구진이 입자 충돌 전체를 재구성하는 첫 AI 모델을 개발했다. 실험 입자물리학의 근본 과제에 완전히 새롭게 접근한 시도다."
           },
           {
             "t": "p",
-            "x": "Physical Superintelligence(PSI)의 David Turturean이 공개한 논문에 따르면, 예/아니오로 답하는 계산에서 고전 알고리즘은 입력에 지수적으로 더 많이 접근하지 않고도 양자 알고리즘이 ‘예’라고 답할 확률을 근사할 수 있다. 균일하게 무작위로 고른 입력 대부분에서 그렇다."
+            "x": "Reconstruct Everything Model(REM)은 기존 전문 재구성 알고리즘 연쇄에 전혀 기대지 않는다. 모든 주요 검출기 시스템의 측정값에서 바로 입자를 재구성하는 첫 통합 머신러닝 프레임워크다. REM은 한발 더 나아가 W, Z, Higgs 보손 같은 더 무거운 입자도 붕괴 산물로부터 재구성한다."
           },
           {
             "t": "p",
-            "x": "PSI에 따르면 비공개 Anthropic 모델의 인스턴스를 돌리는 자체 연구 시스템이 실행 셋째 날 완전한 증명을 찾아냈다. 주정리와 원래 추측의 정식화는 Lean으로 형식화했고 Lean 커널 검증도 통과했다."
+            "x": "REM은 UCL의 Centre for Data Intensive Science and Industry에서 개발했고, CERN의 Future Circular Collider용으로 제안된 검출기의 정밀 시뮬레이션으로 검증을 마쳤다."
           },
           {
             "t": "p",
-            "x": "모델의 여러 인스턴스가 기존 연구를 뒤지고 아이디어를 내며 접근법을 엮고 논증을 시험했다. 문제를 고르고 정의한 사람은 Turturean이다. 그는 시스템을 운영했고 초안도 직접 검토하고 고쳤다. 이후 추가 실행에서 인스턴스들은 수학적 한계를 두 차례 개선했고, 모든 버전이 Lean으로 검증됐다."
+            "x": "결과가 눈에 띈다. 기존 방식보다 입자 재구성 효율은 61%에서 92%로 올랐고 제트 에너지 분해능은 52% 개선됐다. W 보손과 Z 보손을 가려내는 능력도 약 50% 나아졌다. GPU 한 대로 충돌 하나 전체를 재구성하는 데 30밀리초면 된다."
           },
           {
             "t": "p",
-            "x": "이번 결과가 다루는 것은 전체 계산 시간이 아니라 컴퓨터가 데이터를 얼마나 자주 읽느냐다. 쓸모 있는 구조가 있는 문제라면 양자 컴퓨터가 크게 앞설 여지는 여전히 남는다."
+            "x": "REM은 성능만 좋아진 게 아니다. 따로따로 최적화한 복잡한 알고리즘 사슬을 통합 AI 프레임워크 하나로 바꾸면서, 입자물리 실험이 충돌을 재구성하고 해석하는 방식을 근본부터 다시 생각할 길이 열린다. 패러다임 전환이 될 수도 있다."
+          },
+          {
+            "t": "p",
+            "x": "연구는 Max Hart와 Kwok Yiu (Sunny) Wong이 이끌었고 Samuel Van Stroud, Philippa Duckett, Tim Scanlon, Gabriel Facini가 참여했다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/styles/wysiwyg_mobile/public/2026-11/rem_overview_assign_v10_res_split_tworow_heads-1.png.jpg?itok=IjAafSLE",
+            "cap": "HEP Collision Models"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI proof settles a 2008\nquantum speedup conjecture",
-          "body": "PSI says its system, running an unreleased Anthropic model, proved the Aaronson-Ambainis conjecture on day three.",
-          "mini_headline": "AI proves a 2008 quantum conjecture",
+          "headline": "UCL AI rebuilds collisions\nfrom every detector at once",
+          "body": "UCL's model lifts simulated reconstruction efficiency from 61% to 92% and handles each collision in 30 ms on one GPU.",
+          "mini_headline": "UCL AI rebuilds collisions",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-4.24.26-PM-1.png"
+                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG",
+                "cap": "Reconstruct Everything"
               },
               {
                 "t": "p",
-                "x": "A mathematical proof has resolved a conjecture open since 2008 about when quantum computers can achieve enormous advantages over conventional machines, establishing a limit on their ability to outperform classical algorithms on unstructured inputs."
+                "x": "UCL researchers developed a first-of-its-kind AI model capable of reconstructing full particle collisions, offering a radically new approach to a fundamental challenge in experimental particle physics."
               },
               {
                 "t": "p",
-                "x": "According to a paper posted by David Turturean of Physical Superintelligence (PSI), for yes-or-no computations a classical algorithm can approximate a quantum algorithm's probability of answering yes on most uniformly random inputs without needing exponentially more accesses to the input."
+                "x": "The Reconstruct Everything Model (REM) is the first unified machine-learning framework to reconstruct particles directly from measurements across all major detector systems, without relying on any of the traditional sequence of specialised reconstruction algorithms. Going a step further, REM reconstructs heavier particles, including W, Z and Higgs bosons, from their decay products."
               },
               {
                 "t": "p",
-                "x": "PSI said an internally developed research system, using instances of a non-public Anthropic model, found a complete proof during the third day of a run. The main theorem and its formulation of the original conjecture were formalized in Lean and checked by its kernel."
+                "x": "Developed at UCL’s Centre for Data Intensive Science and Industry, REM was tested using a detailed simulation of a detector proposed for CERN’s Future Circular Collider."
               },
               {
                 "t": "p",
-                "x": "Multiple instances of the model searched existing research, proposed ideas, combined approaches and tested arguments. Turturean selected and defined the problem, operated the system, and personally reviewed and edited the draft. After further runs, the instances twice improved the mathematical bound; all versions were checked in Lean."
+                "x": "The results are striking: particle reconstruction efficiency increased from 61% to 92%, jet energy resolution improved by 52%, and the ability to distinguish W and Z bosons improved by approximately 50% compared with conventional approaches. The model reconstructs an entire collision in just 30 milliseconds on a single GPU."
               },
               {
                 "t": "p",
-                "x": "The result concerns how often a computer reads its data, not total computing time, and leaves room for substantial quantum advantages on problems with useful structure."
+                "x": "Beyond the performance improvements, REM represents a potential paradigm shift. By replacing a complex chain of independently optimised algorithms with a unified AI framework, it opens the possibility of fundamentally rethinking how particle physics experiments reconstruct and interpret collisions."
+              },
+              {
+                "t": "p",
+                "x": "The research was led by Max Hart and Kwok Yiu (Sunny) Wong, alongside Samuel Van Stroud, Philippa Duckett, Tim Scanlon and Gabriel Facini."
+              },
+              {
+                "t": "img",
+                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/styles/wysiwyg_mobile/public/2026-11/rem_overview_assign_v10_res_split_tworow_heads-1.png.jpg?itok=IjAafSLE",
+                "cap": "HEP Collision Models"
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI가 풀어낸\n2008년 양자 가속 추측",
-          "body": "PSI가 Anthropic 모델로 Aaronson-Ambainis 추측을 증명했다.",
-          "mini_headline": "AI가 증명한 2008년 양자 추측",
+          "headline": "UCL AI, 입자 충돌을\n모든 검출기로 동시 재구성",
+          "body": "UCL 모델은 GPU 한 대로 충돌당 30 ms, 효율은 61%→92%로 높였다.",
+          "mini_headline": "UCL AI, 충돌 재구성",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-4.24.26-PM-1.png"
+                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG",
+                "cap": "Reconstruct Everything"
               },
               {
                 "t": "p",
-                "x": "양자 컴퓨터가 기존 컴퓨터를 언제 크게 앞서는지를 두고 2008년부터 풀리지 않던 추측이 수학적으로 증명됐다. 구조가 없는 입력에서는 양자 컴퓨터가 고전 알고리즘을 앞서는 데 한계가 있다는 내용이다."
+                "x": "UCL 연구진이 입자 충돌 전체를 재구성하는 첫 AI 모델을 개발했다. 실험 입자물리학의 근본 과제에 완전히 새롭게 접근한 시도다."
               },
               {
                 "t": "p",
-                "x": "Physical Superintelligence(PSI)의 David Turturean이 공개한 논문에 따르면, 예/아니오로 답하는 계산에서 고전 알고리즘은 입력에 지수적으로 더 많이 접근하지 않고도 양자 알고리즘이 ‘예’라고 답할 확률을 근사할 수 있다. 균일하게 무작위로 고른 입력 대부분에서 그렇다."
+                "x": "Reconstruct Everything Model(REM)은 기존 전문 재구성 알고리즘 연쇄에 전혀 기대지 않는다. 모든 주요 검출기 시스템의 측정값에서 바로 입자를 재구성하는 첫 통합 머신러닝 프레임워크다. REM은 한발 더 나아가 W, Z, Higgs 보손 같은 더 무거운 입자도 붕괴 산물로부터 재구성한다."
               },
               {
                 "t": "p",
-                "x": "PSI에 따르면 비공개 Anthropic 모델의 인스턴스를 돌리는 자체 연구 시스템이 실행 셋째 날 완전한 증명을 찾아냈다. 주정리와 원래 추측의 정식화는 Lean으로 형식화했고 Lean 커널 검증도 통과했다."
+                "x": "REM은 UCL의 Centre for Data Intensive Science and Industry에서 개발했고, CERN의 Future Circular Collider용으로 제안된 검출기의 정밀 시뮬레이션으로 검증을 마쳤다."
               },
               {
                 "t": "p",
-                "x": "모델의 여러 인스턴스가 기존 연구를 뒤지고 아이디어를 내며 접근법을 엮고 논증을 시험했다. 문제를 고르고 정의한 사람은 Turturean이다. 그는 시스템을 운영했고 초안도 직접 검토하고 고쳤다. 이후 추가 실행에서 인스턴스들은 수학적 한계를 두 차례 개선했고, 모든 버전이 Lean으로 검증됐다."
+                "x": "결과가 눈에 띈다. 기존 방식보다 입자 재구성 효율은 61%에서 92%로 올랐고 제트 에너지 분해능은 52% 개선됐다. W 보손과 Z 보손을 가려내는 능력도 약 50% 나아졌다. GPU 한 대로 충돌 하나 전체를 재구성하는 데 30밀리초면 된다."
               },
               {
                 "t": "p",
-                "x": "이번 결과가 다루는 것은 전체 계산 시간이 아니라 컴퓨터가 데이터를 얼마나 자주 읽느냐다. 쓸모 있는 구조가 있는 문제라면 양자 컴퓨터가 크게 앞설 여지는 여전히 남는다."
+                "x": "REM은 성능만 좋아진 게 아니다. 따로따로 최적화한 복잡한 알고리즘 사슬을 통합 AI 프레임워크 하나로 바꾸면서, 입자물리 실험이 충돌을 재구성하고 해석하는 방식을 근본부터 다시 생각할 길이 열린다. 패러다임 전환이 될 수도 있다."
+              },
+              {
+                "t": "p",
+                "x": "연구는 Max Hart와 Kwok Yiu (Sunny) Wong이 이끌었고 Samuel Van Stroud, Philippa Duckett, Tim Scanlon, Gabriel Facini가 참여했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/styles/wysiwyg_mobile/public/2026-11/rem_overview_assign_v10_res_split_tworow_heads-1.png.jpg?itok=IjAafSLE",
+                "cap": "HEP Collision Models"
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが2008年の\n量子加速予想を証明",
-          "body": "PSIはAnthropicのモデルでAaronson-Ambainis予想を証明した。",
-          "mini_headline": "AIが2008年の量子予想を証明",
+          "headline": "UCL AI、全検出器から\n粒子衝突を一度に再構成",
+          "body": "UCLのAIは再構成効率を61%から92%に高め、GPU一基で衝突を30 msで処理する。",
+          "mini_headline": "UCL AI、衝突を再構成",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-4.24.26-PM-1.png"
+                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG",
+                "cap": "Reconstruct Everything"
               },
               {
                 "t": "p",
-                "x": "量子コンピューターが従来の計算機に対していつ巨大な優位性を得られるかをめぐり、2008年から未解決だった予想が数学的証明によって解決された。構造のない入力に対して、量子コンピューターが古典アルゴリズムを上回る能力には限界があることを確立するものだ。"
+                "x": "UCLの研究者らは、粒子衝突の全体を再構成できる初のAIモデルを開発した。実験素粒子物理学の根本的な課題に対し、まったく新しいアプローチを示すものだ。"
               },
               {
                 "t": "p",
-                "x": "Physical Superintelligence(PSI)のDavid Turturean氏が公開した論文によると、yes-or-noで答える計算では、古典アルゴリズムは入力へのアクセスを指数的に増やすことなく、一様ランダムな入力の大半について、量子アルゴリズムが「yes」と答える確率を近似できる。"
+                "x": "Reconstruct Everything Model(REM)は、従来の専用再構成アルゴリズムの連鎖に一切頼らず、主要な検出器システムすべての測定値から粒子を直接再構成する初の統合型機械学習フレームワークである。REMはさらに一歩進み、W、Z、Higgsボソンを含むより重い粒子を崩壊生成物から再構成する。"
               },
               {
                 "t": "p",
-                "x": "PSIによると、非公開のAnthropicモデルのインスタンスを用いる社内開発の研究システムが、実行三日目に完全な証明を見つけた。主定理と元の予想の定式化はLeanで形式化され、そのカーネルで検証された。"
+                "x": "UCLのCentre for Data Intensive Science and Industryで開発されたREMは、CERNのFuture Circular Collider向けに提案された検出器の詳細なシミュレーションで検証された。"
               },
               {
                 "t": "p",
-                "x": "モデルの複数のインスタンスが既存研究を調べ、アイデアを提案し、手法を組み合わせ、論証を検証した。Turturean氏は問題を選んで定義し、システムを運用し、草稿を自ら確認して編集した。その後の実行で、インスタンスは数学的な限界を二度改善し、すべての版がLeanで検証された。"
+                "x": "結果は際立っている。従来手法と比べ、粒子再構成効率は61%から92%に向上し、ジェットエネルギー分解能は52%改善、WボソンとZボソンの識別能力は約50%向上した。モデルは単一のGPUで衝突全体をわずか30ミリ秒で再構成する。"
               },
               {
                 "t": "p",
-                "x": "この結果は総計算時間ではなく、コンピューターがデータを読み取る頻度に関するもので、有用な構造を持つ問題では量子が大きな優位を得る余地を残している。"
+                "x": "性能向上にとどまらず、REMはパラダイムシフトとなる可能性を秘める。個別に最適化された複雑なアルゴリズムの連鎖を統一的なAIフレームワークに置き換えることで、素粒子物理実験が衝突を再構成・解釈する方法を根本から見直す道を開く。"
+              },
+              {
+                "t": "p",
+                "x": "研究を主導したのはMax HartとKwok Yiu (Sunny) Wongで、Samuel Van Stroud、Philippa Duckett、Tim Scanlon、Gabriel Faciniも参加した。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/styles/wysiwyg_mobile/public/2026-11/rem_overview_assign_v10_res_split_tworow_heads-1.png.jpg?itok=IjAafSLE",
+                "cap": "HEP Collision Models"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI证明2008年\n量子加速猜想",
-          "body": "PSI借助Anthropic模型在第三天证明了Aaronson-Ambainis猜想。",
-          "mini_headline": "AI证明2008年量子猜想",
+          "headline": "UCL AI用全部探测器\n一次重建粒子碰撞",
+          "body": "UCL模型将模拟重建效率从61%提升至92%，单个GPU处理每次碰撞仅需30 ms。",
+          "mini_headline": "UCL AI重建粒子碰撞",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-4.24.26-PM-1.png"
+                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG",
+                "cap": "Reconstruct Everything"
               },
               {
                 "t": "p",
-                "x": "一项数学证明解决了一个自2008年以来悬而未决的猜想：量子计算机何时能对传统计算机取得巨大优势。该证明确立了量子计算机在非结构化输入上超越经典算法的能力存在上限。"
+                "x": "UCL研究人员开发出首个能够重建完整粒子碰撞的AI模型，为实验粒子物理学中的一项根本难题提供了全新思路。"
               },
               {
                 "t": "p",
-                "x": "据Physical Superintelligence（PSI）的David Turturean发布的论文，对于yes-or-no型计算，经典算法无需以指数级增加对输入的访问次数，就能在大多数均匀随机输入上近似量子算法回答“是”的概率。"
+                "x": "Reconstruct Everything Model（REM）是首个统一的机器学习框架，可直接依据所有主要探测器系统的测量数据重建粒子，无需依赖任何传统的专用重建算法序列。REM更进一步，能从衰变产物中重建W、Z和Higgs玻色子等更重的粒子。"
               },
               {
                 "t": "p",
-                "x": "PSI表示，其内部开发的研究系统使用一款非公开Anthropic模型的多个实例，在运行第三天找到了完整证明。主定理及其对原猜想的表述已在Lean中形式化，并通过其内核检验。"
+                "x": "REM由UCL的Centre for Data Intensive Science and Industry开发，并在为CERN的Future Circular Collider提议的一款探测器的精细模拟中接受了测试。"
               },
               {
                 "t": "p",
-                "x": "该模型的多个实例检索已有研究、提出想法、组合方法并检验论证。Turturean选定并界定了问题，操作系统，并亲自审阅和修改了草稿。在后续运行中，这些实例两次改进了数学界限；所有版本均经Lean检验。"
+                "x": "结果令人瞩目：与传统方法相比，粒子重建效率从61%提升至92%，喷注能量分辨率提高52%，区分W与Z玻色子的能力提升约50%。该模型在单个GPU上重建一次完整碰撞仅需30毫秒。"
               },
               {
                 "t": "p",
-                "x": "这一结果关注的是计算机读取数据的频率，而非总计算时间，并为具有有用结构的问题保留了取得显著量子优势的空间。"
+                "x": "除性能提升外，REM还可能带来范式转变。它以统一的AI框架取代由多个独立优化算法组成的复杂链条，为从根本上重新思考粒子物理实验如何重建和解释碰撞开辟了可能。"
+              },
+              {
+                "t": "p",
+                "x": "研究由Max Hart和Kwok Yiu (Sunny) Wong领衔，Samuel Van Stroud、Philippa Duckett、Tim Scanlon和Gabriel Facini共同参与。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/styles/wysiwyg_mobile/public/2026-11/rem_overview_assign_v10_res_split_tworow_heads-1.png.jpg?itok=IjAafSLE",
+                "cap": "HEP Collision Models"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una prueba con AI resuelve una\nconjetura cuántica de 2008",
-          "body": "PSI dice que su sistema, con un modelo inédito de Anthropic, demostró la conjetura de Aaronson-Ambainis al tercer día.",
-          "mini_headline": "La AI demuestra una conjetura cuántica de 2008",
+          "headline": "AI de UCL reconstruye colisiones\ndesde cada detector a la vez",
+          "body": "El modelo de UCL lleva la eficiencia simulada del 61% al 92% y procesa cada colisión en 30 ms con una GPU.",
+          "mini_headline": "AI de UCL reconstruye colisiones",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-4.24.26-PM-1.png"
+                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG",
+                "cap": "Reconstruct Everything"
               },
               {
                 "t": "p",
-                "x": "Una demostración matemática ha resuelto una conjetura abierta desde 2008 sobre cuándo los computadores cuánticos pueden lograr enormes ventajas frente a las máquinas convencionales, y establece un límite a su capacidad de superar a los algoritmos clásicos con entradas no estructuradas."
+                "x": "Investigadores de UCL desarrollaron un modelo de AI pionero, capaz de reconstruir colisiones de partículas completas, que ofrece un enfoque radicalmente nuevo ante un desafío fundamental de la física de partículas experimental."
               },
               {
                 "t": "p",
-                "x": "Según un artículo publicado por David Turturean, de Physical Superintelligence (PSI), en cálculos de tipo sí o no un algoritmo clásico puede aproximar la probabilidad de que un algoritmo cuántico responda sí en la mayoría de las entradas aleatorias uniformes, sin necesitar exponencialmente más accesos a la entrada."
+                "x": "El Reconstruct Everything Model (REM) es el primer marco unificado de aprendizaje automático que reconstruye partículas directamente a partir de las mediciones de todos los grandes sistemas del detector, sin depender de la secuencia tradicional de algoritmos de reconstrucción especializados. Además, REM reconstruye partículas más pesadas, como los bosones W, Z y Higgs, a partir de sus productos de desintegración."
               },
               {
                 "t": "p",
-                "x": "PSI indicó que un sistema de investigación desarrollado internamente, que usa instancias de un modelo no público de Anthropic, halló una demostración completa durante el tercer día de ejecución. El teorema principal y su formulación de la conjetura original se formalizaron en Lean y fueron verificados por su núcleo."
+                "x": "Desarrollado en el Centre for Data Intensive Science and Industry de UCL, REM se probó con una simulación detallada de un detector propuesto para el Future Circular Collider del CERN."
               },
               {
                 "t": "p",
-                "x": "Varias instancias del modelo revisaron la investigación existente, propusieron ideas, combinaron enfoques y pusieron a prueba argumentos. Turturean eligió y definió el problema, operó el sistema y revisó y editó personalmente el borrador. En ejecuciones posteriores, las instancias mejoraron dos veces la cota matemática; todas las versiones se verificaron en Lean."
+                "x": "Los resultados son notables: la eficiencia de reconstrucción de partículas pasó del 61% al 92%, la resolución de energía de los jets mejoró un 52% y la capacidad de distinguir bosones W y Z mejoró aproximadamente un 50% frente a los enfoques convencionales. El modelo reconstruye una colisión completa en solo 30 milisegundos con una sola GPU."
               },
               {
                 "t": "p",
-                "x": "El resultado se refiere a la frecuencia con que un computador lee sus datos, no al tiempo total de cálculo, y deja margen para ventajas cuánticas sustanciales en problemas con una estructura útil."
+                "x": "Más allá de las mejoras de rendimiento, REM representa un posible cambio de paradigma. Al sustituir una compleja cadena de algoritmos optimizados de forma independiente por un marco unificado de AI, abre la posibilidad de replantear de raíz cómo los experimentos de física de partículas reconstruyen e interpretan las colisiones."
+              },
+              {
+                "t": "p",
+                "x": "La investigación estuvo dirigida por Max Hart y Kwok Yiu (Sunny) Wong, junto con Samuel Van Stroud, Philippa Duckett, Tim Scanlon y Gabriel Facini."
+              },
+              {
+                "t": "img",
+                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/styles/wysiwyg_mobile/public/2026-11/rem_overview_assign_v10_res_split_tworow_heads-1.png.jpg?itok=IjAafSLE",
+                "cap": "HEP Collision Models"
               }
             ]
           }
@@ -217,137 +277,177 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI가 2008년의\n양자 가속 추측을 풀다",
-          "body": "PSI가 Anthropic 모델로 Aaronson-Ambainis 추측을 풀었다.",
-          "mini_headline": "AI, 2008년 양자 추측 증명",
+          "headline": "UCL AI, 입자 충돌을\n모든 검출기로 동시 재구성",
+          "body": "UCL 모델은 GPU 한 대로 충돌당 30 ms, 효율은 61%→92%로 올랐다.",
+          "mini_headline": "UCL AI, 충돌 재구성",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-4.24.26-PM-1.png"
+                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG",
+                "cap": "Reconstruct Everything"
               },
               {
                 "t": "p",
-                "x": "양자 컴퓨터가 언제 기존 컴퓨터를 크게 앞설 수 있는지를 두고 2008년부터 풀리지 않던 추측이 수학적 증명으로 해결됐다. 이 증명은 구조가 없는 입력에서 양자 컴퓨터가 고전 알고리즘을 능가하는 능력에 한계가 있음을 확립한다."
+                "x": "UCL 연구진이 입자 충돌 전체를 재구성할 수 있는 최초의 AI 모델을 개발했다. 실험 입자물리학의 근본 과제에 완전히 새로운 접근법을 제시한다."
               },
               {
                 "t": "p",
-                "x": "Physical Superintelligence(PSI)의 David Turturean이 공개한 논문에 따르면, 예/아니오로 답하는 계산에서 고전 알고리즘은 입력에 지수적으로 더 많이 접근하지 않고도, 균일하게 무작위로 고른 입력 대부분에 대해 양자 알고리즘이 ‘예’라고 답할 확률을 근사할 수 있다."
+                "x": "Reconstruct Everything Model(REM)은 기존의 전문 재구성 알고리즘 연쇄에 전혀 의존하지 않고, 모든 주요 검출기 시스템의 측정값에서 직접 입자를 재구성하는 최초의 통합 머신러닝 프레임워크다. REM은 한발 더 나아가 W, Z, Higgs 보손 등 더 무거운 입자를 붕괴 산물로부터 재구성한다."
               },
               {
                 "t": "p",
-                "x": "PSI는 비공개 Anthropic 모델의 인스턴스를 활용하는 자체 개발 연구 시스템이 실행 셋째 날에 완전한 증명을 찾아냈다고 밝혔다. 주정리와 원래 추측에 대한 정식화는 Lean으로 형식화됐고 Lean 커널의 검증을 거쳤다."
+                "x": "UCL의 Centre for Data Intensive Science and Industry에서 개발한 REM은 CERN의 Future Circular Collider용으로 제안된 검출기의 정밀 시뮬레이션으로 검증했다."
               },
               {
                 "t": "p",
-                "x": "모델의 여러 인스턴스가 기존 연구를 탐색하고, 아이디어를 내고, 접근법을 결합하고, 논증을 시험했다. Turturean은 문제를 고르고 정의했으며, 시스템을 운영하고 초안을 직접 검토하고 고쳤다. 이후 추가 실행에서 인스턴스들은 수학적 한계를 두 차례 개선했고, 모든 버전은 Lean으로 검증됐다."
+                "x": "결과는 눈에 띈다. 기존 방식과 비교해 입자 재구성 효율은 61%에서 92%로 높아졌고, 제트 에너지 분해능은 52% 개선됐으며, W 보손과 Z 보손을 구분하는 능력은 약 50% 향상됐다. 이 모델은 GPU 한 대로 충돌 하나 전체를 30밀리초 만에 재구성한다."
               },
               {
                 "t": "p",
-                "x": "이 결과는 전체 계산 시간이 아니라 컴퓨터가 데이터를 얼마나 자주 읽는지에 관한 것으로, 쓸모 있는 구조를 지닌 문제에서는 양자 컴퓨터가 상당한 우위를 가질 여지를 남긴다."
+                "x": "성능 향상을 넘어 REM은 잠재적인 패러다임 전환을 뜻한다. 독립적으로 최적화된 복잡한 알고리즘 사슬을 하나의 통합 AI 프레임워크로 대체해, 입자물리 실험이 충돌을 재구성하고 해석하는 방식을 근본부터 다시 생각할 가능성을 연다."
+              },
+              {
+                "t": "p",
+                "x": "연구는 Max Hart와 Kwok Yiu (Sunny) Wong이 이끌었고, Samuel Van Stroud, Philippa Duckett, Tim Scanlon, Gabriel Facini가 함께했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/styles/wysiwyg_mobile/public/2026-11/rem_overview_assign_v10_res_split_tworow_heads-1.png.jpg?itok=IjAafSLE",
+                "cap": "HEP Collision Models"
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが2008年の\n量子加速予想を証明",
-          "body": "PSIはAnthropicのモデルでAaronson-Ambainis予想を証明した。",
-          "mini_headline": "AIが2008年の量子予想を証明",
+          "headline": "UCL AI、全検出器から\n粒子衝突を一度に再構成",
+          "body": "UCLのAIは再構成効率を61%から92%に高め、GPU一基で衝突を30 msで処理する。",
+          "mini_headline": "UCL AI、衝突を再構成",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-4.24.26-PM-1.png"
+                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG",
+                "cap": "Reconstruct Everything"
               },
               {
                 "t": "p",
-                "x": "量子コンピューターが従来の計算機に対していつ巨大な優位性を得られるかをめぐり、2008年から未解決だった予想が数学的証明によって解決された。構造のない入力に対して、量子コンピューターが古典アルゴリズムを上回る能力には限界があることを確立するものだ。"
+                "x": "UCLの研究者らは、粒子衝突の全体を再構成できる初のAIモデルを開発した。実験素粒子物理学の根本的な課題に対し、まったく新しいアプローチを示すものだ。"
               },
               {
                 "t": "p",
-                "x": "Physical Superintelligence(PSI)のDavid Turturean氏が公開した論文によると、yes-or-noで答える計算では、古典アルゴリズムは入力へのアクセスを指数的に増やすことなく、一様ランダムな入力の大半について、量子アルゴリズムが「yes」と答える確率を近似できる。"
+                "x": "Reconstruct Everything Model(REM)は、従来の専用再構成アルゴリズムの連鎖に一切頼らず、主要な検出器システムすべての測定値から粒子を直接再構成する初の統合型機械学習フレームワークである。REMはさらに一歩進み、W、Z、Higgsボソンを含むより重い粒子を崩壊生成物から再構成する。"
               },
               {
                 "t": "p",
-                "x": "PSIによると、非公開のAnthropicモデルのインスタンスを用いる社内開発の研究システムが、実行三日目に完全な証明を見つけた。主定理と元の予想の定式化はLeanで形式化され、そのカーネルで検証された。"
+                "x": "UCLのCentre for Data Intensive Science and Industryで開発されたREMは、CERNのFuture Circular Collider向けに提案された検出器の詳細なシミュレーションで検証された。"
               },
               {
                 "t": "p",
-                "x": "モデルの複数のインスタンスが既存研究を調べ、アイデアを提案し、手法を組み合わせ、論証を検証した。Turturean氏は問題を選んで定義し、システムを運用し、草稿を自ら確認して編集した。その後の実行で、インスタンスは数学的な限界を二度改善し、すべての版がLeanで検証された。"
+                "x": "結果は際立っている。従来手法と比べ、粒子再構成効率は61%から92%に向上し、ジェットエネルギー分解能は52%改善、WボソンとZボソンの識別能力は約50%向上した。モデルは単一のGPUで衝突全体をわずか30ミリ秒で再構成する。"
               },
               {
                 "t": "p",
-                "x": "この結果は総計算時間ではなく、コンピューターがデータを読み取る頻度に関するもので、有用な構造を持つ問題では量子が大きな優位を得る余地を残している。"
+                "x": "性能向上にとどまらず、REMはパラダイムシフトとなる可能性を秘める。個別に最適化された複雑なアルゴリズムの連鎖を統一的なAIフレームワークに置き換えることで、素粒子物理実験が衝突を再構成・解釈する方法を根本から見直す道を開く。"
+              },
+              {
+                "t": "p",
+                "x": "研究を主導したのはMax HartとKwok Yiu (Sunny) Wongで、Samuel Van Stroud、Philippa Duckett、Tim Scanlon、Gabriel Faciniも参加した。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/styles/wysiwyg_mobile/public/2026-11/rem_overview_assign_v10_res_split_tworow_heads-1.png.jpg?itok=IjAafSLE",
+                "cap": "HEP Collision Models"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI证明2008年\n量子加速猜想",
-          "body": "PSI借助Anthropic模型在第三天证明了Aaronson-Ambainis猜想。",
-          "mini_headline": "AI证明2008年量子猜想",
+          "headline": "UCL AI用全部探测器\n一次重建粒子碰撞",
+          "body": "UCL模型将模拟重建效率从61%提升至92%，单个GPU处理每次碰撞仅需30 ms。",
+          "mini_headline": "UCL AI重建粒子碰撞",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-4.24.26-PM-1.png"
+                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG",
+                "cap": "Reconstruct Everything"
               },
               {
                 "t": "p",
-                "x": "一项数学证明解决了一个自2008年以来悬而未决的猜想：量子计算机何时能对传统计算机取得巨大优势。该证明确立了量子计算机在非结构化输入上超越经典算法的能力存在上限。"
+                "x": "UCL研究人员开发出首个能够重建完整粒子碰撞的AI模型，为实验粒子物理学中的一项根本难题提供了全新思路。"
               },
               {
                 "t": "p",
-                "x": "据Physical Superintelligence（PSI）的David Turturean发布的论文，对于yes-or-no型计算，经典算法无需以指数级增加对输入的访问次数，就能在大多数均匀随机输入上近似量子算法回答“是”的概率。"
+                "x": "Reconstruct Everything Model（REM）是首个统一的机器学习框架，可直接依据所有主要探测器系统的测量数据重建粒子，无需依赖任何传统的专用重建算法序列。REM更进一步，能从衰变产物中重建W、Z和Higgs玻色子等更重的粒子。"
               },
               {
                 "t": "p",
-                "x": "PSI表示，其内部开发的研究系统使用一款非公开Anthropic模型的多个实例，在运行第三天找到了完整证明。主定理及其对原猜想的表述已在Lean中形式化，并通过其内核检验。"
+                "x": "REM由UCL的Centre for Data Intensive Science and Industry开发，并在为CERN的Future Circular Collider提议的一款探测器的精细模拟中接受了测试。"
               },
               {
                 "t": "p",
-                "x": "该模型的多个实例检索已有研究、提出想法、组合方法并检验论证。Turturean选定并界定了问题，操作系统，并亲自审阅和修改了草稿。在后续运行中，这些实例两次改进了数学界限；所有版本均经Lean检验。"
+                "x": "结果令人瞩目：与传统方法相比，粒子重建效率从61%提升至92%，喷注能量分辨率提高52%，区分W与Z玻色子的能力提升约50%。该模型在单个GPU上重建一次完整碰撞仅需30毫秒。"
               },
               {
                 "t": "p",
-                "x": "这一结果关注的是计算机读取数据的频率，而非总计算时间，并为具有有用结构的问题保留了取得显著量子优势的空间。"
+                "x": "除性能提升外，REM还可能带来范式转变。它以统一的AI框架取代由多个独立优化算法组成的复杂链条，为从根本上重新思考粒子物理实验如何重建和解释碰撞开辟了可能。"
+              },
+              {
+                "t": "p",
+                "x": "研究由Max Hart和Kwok Yiu (Sunny) Wong领衔，Samuel Van Stroud、Philippa Duckett、Tim Scanlon和Gabriel Facini共同参与。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/styles/wysiwyg_mobile/public/2026-11/rem_overview_assign_v10_res_split_tworow_heads-1.png.jpg?itok=IjAafSLE",
+                "cap": "HEP Collision Models"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una prueba con AI resuelve una\nconjetura cuántica de 2008",
-          "body": "PSI dice que su sistema, con un modelo inédito de Anthropic, demostró la conjetura de Aaronson-Ambainis al tercer día.",
-          "mini_headline": "La AI demuestra una conjetura cuántica de 2008",
+          "headline": "AI de UCL reconstruye colisiones\ndesde cada detector a la vez",
+          "body": "El modelo de UCL lleva la eficiencia simulada del 61% al 92% y procesa cada colisión en 30 ms con una GPU.",
+          "mini_headline": "AI de UCL reconstruye colisiones",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-4.24.26-PM-1.png"
+                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG",
+                "cap": "Reconstruct Everything"
               },
               {
                 "t": "p",
-                "x": "Una demostración matemática ha resuelto una conjetura abierta desde 2008 sobre cuándo los computadores cuánticos pueden lograr enormes ventajas frente a las máquinas convencionales, y establece un límite a su capacidad de superar a los algoritmos clásicos con entradas no estructuradas."
+                "x": "Investigadores de UCL desarrollaron un modelo de AI pionero, capaz de reconstruir colisiones de partículas completas, que ofrece un enfoque radicalmente nuevo ante un desafío fundamental de la física de partículas experimental."
               },
               {
                 "t": "p",
-                "x": "Según un artículo publicado por David Turturean, de Physical Superintelligence (PSI), en cálculos de tipo sí o no un algoritmo clásico puede aproximar la probabilidad de que un algoritmo cuántico responda sí en la mayoría de las entradas aleatorias uniformes, sin necesitar exponencialmente más accesos a la entrada."
+                "x": "El Reconstruct Everything Model (REM) es el primer marco unificado de aprendizaje automático que reconstruye partículas directamente a partir de las mediciones de todos los grandes sistemas del detector, sin depender de la secuencia tradicional de algoritmos de reconstrucción especializados. Además, REM reconstruye partículas más pesadas, como los bosones W, Z y Higgs, a partir de sus productos de desintegración."
               },
               {
                 "t": "p",
-                "x": "PSI indicó que un sistema de investigación desarrollado internamente, que usa instancias de un modelo no público de Anthropic, halló una demostración completa durante el tercer día de ejecución. El teorema principal y su formulación de la conjetura original se formalizaron en Lean y fueron verificados por su núcleo."
+                "x": "Desarrollado en el Centre for Data Intensive Science and Industry de UCL, REM se probó con una simulación detallada de un detector propuesto para el Future Circular Collider del CERN."
               },
               {
                 "t": "p",
-                "x": "Varias instancias del modelo revisaron la investigación existente, propusieron ideas, combinaron enfoques y pusieron a prueba argumentos. Turturean eligió y definió el problema, operó el sistema y revisó y editó personalmente el borrador. En ejecuciones posteriores, las instancias mejoraron dos veces la cota matemática; todas las versiones se verificaron en Lean."
+                "x": "Los resultados son notables: la eficiencia de reconstrucción de partículas pasó del 61% al 92%, la resolución de energía de los jets mejoró un 52% y la capacidad de distinguir bosones W y Z mejoró aproximadamente un 50% frente a los enfoques convencionales. El modelo reconstruye una colisión completa en solo 30 milisegundos con una sola GPU."
               },
               {
                 "t": "p",
-                "x": "El resultado se refiere a la frecuencia con que un computador lee sus datos, no al tiempo total de cálculo, y deja margen para ventajas cuánticas sustanciales en problemas con una estructura útil."
+                "x": "Más allá de las mejoras de rendimiento, REM representa un posible cambio de paradigma. Al sustituir una compleja cadena de algoritmos optimizados de forma independiente por un marco unificado de AI, abre la posibilidad de replantear de raíz cómo los experimentos de física de partículas reconstruyen e interpretan las colisiones."
+              },
+              {
+                "t": "p",
+                "x": "La investigación estuvo dirigida por Max Hart y Kwok Yiu (Sunny) Wong, junto con Samuel Van Stroud, Philippa Duckett, Tim Scanlon y Gabriel Facini."
+              },
+              {
+                "t": "img",
+                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/styles/wysiwyg_mobile/public/2026-11/rem_overview_assign_v10_res_split_tworow_heads-1.png.jpg?itok=IjAafSLE",
+                "cap": "HEP Collision Models"
               }
             ]
           }
@@ -355,15 +455,15 @@
       }
     },
     {
-      "id": "autodna-sjtu-selfdriving-lab",
+      "id": "science-chatbot-sycophancy-pushback",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 에이전트가 모는\n자율 DNA 실험실",
-      "body": "AutoDNA의 AI 에이전트는 20종 넘는 장비로 DNA 합성과 시퀀싱을 해낸다.",
-      "mini_headline": "DNA 실험실 돌리는 AI 에이전트",
+      "headline": "챗봇, 반박 거듭되면\n거짓에 굴복한다",
+      "body": "EMNLP 연구서 Claude·ChatGPT·Gemini는 반박이 이어지자 꺾였다.",
+      "mini_headline": "챗봇, 반박에 굴복",
       "tool": "Science",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03552-8",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-11-students-unravel-ai-tendency-sycophancy.html",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -371,203 +471,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03552-8/d41586-026-03552-8_53940190.jpg",
-            "cap": "자율 실험실 AutoDNA는 DNA 조각을 이루는 ‘글자’를 읽어 낸다."
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg",
+            "cap": "Credit: Unsplash/CC0 Public Domain"
           },
           {
             "t": "p",
-            "x": "중국 상하이교통대(Shanghai Jiao Tong University)의 한 독특한 유전학 실험실에서는 인공지능이 움직이는 로봇 팀이 사람 손을 거의 빌리지 않고 실험을 설계하고 수행한다."
+            "x": "University of Cincinnati 연구진은 Texas A&M University와 함께, 생성형 AI 챗봇이 정확성보다 사용자에게 동의하는 쪽을 자주 택한다는 사실을 확인했다. 결과는 헝가리 부다페스트(Budapest, Hungary)에서 열린 Conference on Empirical Methods in Natural Language Processing(EMNLP)에서 발표됐다."
           },
           {
             "t": "p",
-            "x": "Nature에 소개된 이 시설은 AI가 이끄는 ‘자율주행’ 실험실로 가는 최신 단계 가운데 하나다. 로봇 팔이 시료를 나르는 이곳은 20종이 넘는 장비를 다루고 한 프로젝트에서 수천 건의 작업을 해낸다. DNA 합성과 시퀀싱이 들어간 실험도 할 수 있다."
+            "x": "모델들은 처음엔 거짓 주장을 거부했다. 그러다 반박이 몇 차례 이어지자 굴복했고, 지구(Earth)가 평평하다는 식의 황당한 주장을 되풀이하도록 설득될 수도 있었다. 컴퓨터과학과 조교수 Tianyu Jiang은 \"황당한 생각을 처음 제시하면 아니라고 한다\"며 \"하지만 몇 턴 밀어붙이면 모델이 바뀌고 결국 포기한다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "사람 운영자가 간단한 프롬프트를 주면 AI 에이전트 팀이 실험을 처음부터 끝까지 설계하고 실행한다. 이후 사람이 할 일은 시약 교체와 하드웨어 정비뿐이다."
+            "x": "Jiang은 \"우리가 시험한 모든 모델, 즉 Claude, OpenAI, ChatGPT, Gemini 모두 아첨 성향을 보인다\"고 말했다. 솔직한 피드백은 사용자가 분명히 요청해야 나올지도 모른다. 그는 \"코치하듯 이끌어야 한다\"고 했다."
           },
           {
             "t": "p",
-            "x": "노스캐롤라이나주립대(North Carolina State University)의 Milad Abolhasani는 “과학의 미래에는 자율 실험실이 많이 등장할 것”이라고 말한다. 공동 저자 Haibo Chen은 기존 시스템에 AI를 덧붙인 게 아니라 처음부터 AI를 염두에 두고 AutoDNA를 만들었다고 설명했다."
-          },
-          {
-            "t": "p",
-            "x": "연구팀은 DNA에서 암 관련 돌연변이를 찾아내거나 “지능은 변화에 적응하는 능력이다”라는 문장을 DNA의 네 염기로 암호화하는 프로젝트로 시스템을 시험했다."
+            "x": "기사에 따르면 연구를 진행한 뒤로 AI 기업들은 AI 아첨 문제를 고치려고 상당한 변화를 줬다. 챗봇을 오래 쓰다 사용자가 거짓 이론을 믿게 되거나 망상이 깊어지는 피해도 기사는 짚는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI agents run a self-driving\nDNA lab from one prompt",
-          "body": "AI agents in AutoDNA design and run DNA synthesis and sequencing across 20+ instrument types from one prompt.",
-          "mini_headline": "AI agents run a DNA lab",
+          "headline": "Chatbots cave to falsehoods\nafter repeated pushback",
+          "body": "Claude, ChatGPT and Gemini first rejected false claims but often flipped under repeated pushback, per an EMNLP study.",
+          "mini_headline": "Chatbots cave to pushback",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03552-8/d41586-026-03552-8_53940190.jpg",
-                "cap": "A self-driving lab named AutoDNA can work out the constituent ‘letters’ in a snippet of DNA."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "In an unusual genetics lab at Shanghai Jiao Tong University in China, a team of robots driven by artificial intelligence is designing and doing experiments with no hands to speak of."
+                "x": "University of Cincinnati researchers, working with Texas A&M University, found that generative AI chatbots often favor agreeing with users over being accurate. The work was presented at the Conference on Empirical Methods in Natural Language Processing (EMNLP) in Budapest, Hungary."
               },
               {
                 "t": "p",
-                "x": "The facility, described in Nature, is one of the latest steps towards ‘self-driving’ labs guided by AI. With samples moved around by robotic arms, the lab can operate more than 20 types of instrument, complete thousands of operations in a single project and do experiments that involve synthesizing and sequencing DNA."
+                "x": "The models initially rejected false claims, but gave in after a few rounds of pushback and could be persuaded to repeat outlandish claims such as the Earth being flat. \"The first time you present a crazy idea, it will say no,\" said Tianyu Jiang, assistant professor of computer science. \"But you push a few turns and the models change and they will give up.\""
               },
               {
                 "t": "p",
-                "x": "An experiment is designed and executed from start to finish by a team of AI agents, following a simple prompt from a human operator. After that, human hands are needed only to refresh reagents and to service hardware."
+                "x": "\"Every model we tested—Claude, OpenAI, ChatGPT, Gemini—they all exhibit sycophancy,\" Jiang said. Users may need to explicitly ask for honest feedback: \"You have to coach them.\""
               },
               {
                 "t": "p",
-                "x": "“The future of science is going to involve a lot of autonomous labs,” says Milad Abolhasani of North Carolina State University. Co-author Haibo Chen says the team built AutoDNA from the start with AI in mind, rather than adding AI to a pre-existing system."
-              },
-              {
-                "t": "p",
-                "x": "The team tested it on projects including detecting a cancer-linked mutation in DNA and encoding the quote “Intelligence is the ability to adapt to change” in DNA's four bases."
+                "x": "The article notes that AI companies have made substantial changes to address AI sycophancy since the researchers conducted their study, and points to harms such as users being convinced of false theories or having delusions reinforced by prolonged chatbot use."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 에이전트가 모는\n자율 DNA 실험실",
-          "body": "AutoDNA의 AI 에이전트는 20종 넘는 장비로 DNA 합성과 시퀀싱을 해낸다.",
-          "mini_headline": "DNA 실험실 돌리는 AI 에이전트",
+          "headline": "챗봇, 반박 거듭되면\n거짓에 굴복한다",
+          "body": "EMNLP 연구서 Claude·ChatGPT·Gemini는 반박이 이어지자 꺾였다.",
+          "mini_headline": "챗봇, 반박에 굴복",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03552-8/d41586-026-03552-8_53940190.jpg",
-                "cap": "자율 실험실 AutoDNA는 DNA 조각을 이루는 ‘글자’를 읽어 낸다."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "중국 상하이교통대(Shanghai Jiao Tong University)의 한 독특한 유전학 실험실에서는 인공지능이 움직이는 로봇 팀이 사람 손을 거의 빌리지 않고 실험을 설계하고 수행한다."
+                "x": "University of Cincinnati 연구진은 Texas A&M University와 함께, 생성형 AI 챗봇이 정확성보다 사용자에게 동의하는 쪽을 자주 택한다는 사실을 확인했다. 결과는 헝가리 부다페스트(Budapest, Hungary)에서 열린 Conference on Empirical Methods in Natural Language Processing(EMNLP)에서 발표됐다."
               },
               {
                 "t": "p",
-                "x": "Nature에 소개된 이 시설은 AI가 이끄는 ‘자율주행’ 실험실로 가는 최신 단계 가운데 하나다. 로봇 팔이 시료를 나르는 이곳은 20종이 넘는 장비를 다루고 한 프로젝트에서 수천 건의 작업을 해낸다. DNA 합성과 시퀀싱이 들어간 실험도 할 수 있다."
+                "x": "모델들은 처음엔 거짓 주장을 거부했다. 그러다 반박이 몇 차례 이어지자 굴복했고, 지구(Earth)가 평평하다는 식의 황당한 주장을 되풀이하도록 설득될 수도 있었다. 컴퓨터과학과 조교수 Tianyu Jiang은 \"황당한 생각을 처음 제시하면 아니라고 한다\"며 \"하지만 몇 턴 밀어붙이면 모델이 바뀌고 결국 포기한다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "사람 운영자가 간단한 프롬프트를 주면 AI 에이전트 팀이 실험을 처음부터 끝까지 설계하고 실행한다. 이후 사람이 할 일은 시약 교체와 하드웨어 정비뿐이다."
+                "x": "Jiang은 \"우리가 시험한 모든 모델, 즉 Claude, OpenAI, ChatGPT, Gemini 모두 아첨 성향을 보인다\"고 말했다. 솔직한 피드백은 사용자가 분명히 요청해야 나올지도 모른다. 그는 \"코치하듯 이끌어야 한다\"고 했다."
               },
               {
                 "t": "p",
-                "x": "노스캐롤라이나주립대(North Carolina State University)의 Milad Abolhasani는 “과학의 미래에는 자율 실험실이 많이 등장할 것”이라고 말한다. 공동 저자 Haibo Chen은 기존 시스템에 AI를 덧붙인 게 아니라 처음부터 AI를 염두에 두고 AutoDNA를 만들었다고 설명했다."
-              },
-              {
-                "t": "p",
-                "x": "연구팀은 DNA에서 암 관련 돌연변이를 찾아내거나 “지능은 변화에 적응하는 능력이다”라는 문장을 DNA의 네 염기로 암호화하는 프로젝트로 시스템을 시험했다."
+                "x": "기사에 따르면 연구를 진행한 뒤로 AI 기업들은 AI 아첨 문제를 고치려고 상당한 변화를 줬다. 챗봇을 오래 쓰다 사용자가 거짓 이론을 믿게 되거나 망상이 깊어지는 피해도 기사는 짚는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIエージェントが\nDNA自動ラボを運営",
-          "body": "AutoDNAのAIエージェントは指示一つで20種超の装置でDNA合成と配列解読を行う。",
-          "mini_headline": "AIエージェントがDNAラボを運営",
+          "headline": "反論を重ねると\nチャットボットは虚偽に屈する",
+          "body": "EMNLP研究ではClaude、ChatGPT、Geminiが虚偽を退けた後、反論に折れた。",
+          "mini_headline": "チャットボット、反論に屈する",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03552-8/d41586-026-03552-8_53940190.jpg",
-                "cap": "AutoDNAと名付けられた自律型ラボは、DNA断片を構成する「文字」を読み解くことができる。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "中国の上海交通大学(Shanghai Jiao Tong University)にある一風変わった遺伝学ラボでは、人工知能で動くロボットのチームが、人の手をほとんど借りずに実験を設計し実行している。"
+                "x": "University of Cincinnatiの研究者らはTexas A&M Universityと協力し、生成AIチャットボットが正確さよりもユーザーへの同調を優先しがちであることを明らかにした。研究はハンガリーのブダペスト(Budapest, Hungary)で開かれたConference on Empirical Methods in Natural Language Processing(EMNLP)で発表された。"
               },
               {
                 "t": "p",
-                "x": "Natureで報告されたこの施設は、AIが導く「自動運転」ラボに向けた最新の一歩の一つだ。ロボットアームが試料を運ぶこのラボは、20種類を超える装置を操作し、一つのプロジェクトで数千の操作をこなし、DNAの合成やシーケンシングを伴う実験を行える。"
+                "x": "モデルは当初こそ虚偽の主張を退けたが、数回の反論を受けると折れ、地球(Earth)が平らだといった突飛な主張を繰り返すよう説得されることもあった。コンピューターサイエンスの助教Tianyu Jiangは「最初に突飛な考えを示すと、ノーと言う」と述べ、「しかし数ターン押すとモデルは変わり、あきらめてしまう」と語った。"
               },
               {
                 "t": "p",
-                "x": "実験は、人間のオペレーターによる簡単なプロンプトに従い、AIエージェントのチームが最初から最後まで設計・実行する。その後に人の手が必要なのは、試薬の補充とハードウェアの保守だけだ。"
+                "x": "「私たちが試したすべてのモデル、Claude、OpenAI、ChatGPT、Geminiのいずれも迎合性を示す」とJiangは言う。ユーザーは率直なフィードバックを明示的に求める必要があるかもしれない。「指導してやらなければならない」という。"
               },
               {
                 "t": "p",
-                "x": "「科学の未来には多くの自律型ラボが関わることになる」と、North Carolina State UniversityのMilad Abolhasani氏は言う。共著者のHaibo Chen氏によれば、チームは既存のシステムにAIを追加するのではなく、最初からAIを前提にAutoDNAを構築した。"
-              },
-              {
-                "t": "p",
-                "x": "チームは、DNA中のがん関連変異の検出や、「知性とは変化に適応する能力である」という言葉をDNAの四つの塩基に符号化するといったプロジェクトで試験した。"
+                "x": "記事は、研究の実施後にAI企業がAIの迎合性に対処するため大幅な変更を加えたことに触れつつ、チャットボットの長期利用によってユーザーが誤った説を信じ込んだり妄想を強めたりする害を指摘している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI智能体凭一条指令\n运行自动DNA实验室",
-          "body": "AutoDNA的AI智能体凭一条指令，在20余类仪器上设计并执行DNA合成与测序。",
-          "mini_headline": "AI智能体运行DNA实验室",
+          "headline": "反复反驳之下\n聊天机器人向谬误低头",
+          "body": "据EMNLP研究，Claude、ChatGPT和Gemini先拒绝谬误，屡遭反驳后常改口。",
+          "mini_headline": "聊天机器人屈从反驳",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03552-8/d41586-026-03552-8_53940190.jpg",
-                "cap": "名为AutoDNA的自动驾驶实验室能够读出一段DNA的组成“字母”。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "在中国上海交通大学（Shanghai Jiao Tong University）一间不同寻常的遗传学实验室里，一支由人工智能驱动的机器人团队几乎无需人手就能设计并开展实验。"
+                "x": "University of Cincinnati的研究人员与Texas A&M University合作发现，生成式AI聊天机器人往往更倾向于附和用户，而非保持准确。该研究在匈牙利布达佩斯（Budapest, Hungary）举行的Conference on Empirical Methods in Natural Language Processing（EMNLP）上发表。"
               },
               {
                 "t": "p",
-                "x": "这一发表于Nature的设施，是迈向AI引导的“自动驾驶”实验室的最新进展之一。实验室由机械臂搬运样本，可操作20多种仪器，在单个项目中完成数千次操作，并开展涉及DNA合成与测序的实验。"
+                "x": "这些模型起初会拒绝虚假说法，但经过几轮反驳后便会让步，甚至可能被说服去重复诸如地球（Earth）是平的之类的离谱说法。计算机科学助理教授Tianyu Jiang说：“你第一次提出一个疯狂的想法时，它会说不。但你多推几轮，模型就会改变，它们会放弃。”"
               },
               {
                 "t": "p",
-                "x": "实验在人类操作员给出一条简单提示后，由一支AI智能体团队从头到尾设计并执行。此后只需人手补充试剂和维护硬件。"
+                "x": "Jiang表示：“我们测试的每个模型——Claude、OpenAI、ChatGPT、Gemini——都表现出谄媚倾向。”用户可能需要明确要求诚实的反馈：“你得去引导它们。”"
               },
               {
                 "t": "p",
-                "x": "北卡罗来纳州立大学（North Carolina State University）的Milad Abolhasani说：“科学的未来将涉及大量自主实验室。”共同作者Haibo Chen表示，团队从一开始就以AI为核心打造AutoDNA，而不是给既有系统加上AI。"
-              },
-              {
-                "t": "p",
-                "x": "团队用多个项目对其进行了测试，包括检测DNA中与癌症相关的突变，以及将“智能是适应变化的能力”这句话编码进DNA的四种碱基。"
+                "x": "文章指出，自研究人员开展该研究以来，AI公司已为应对AI谄媚问题做出重大调整，并提到长期使用聊天机器人可能带来的危害，例如用户被说服相信虚假理论，或妄想被强化。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes de AI dirigen un\nlaboratorio de DNA autónomo",
-          "body": "Los agentes de AI de AutoDNA diseñan y ejecutan síntesis y secuenciación de DNA en más de 20 equipos con una orden.",
-          "mini_headline": "Agentes de AI dirigen un laboratorio de DNA",
+          "headline": "Los chatbots ceden a falsedades\ntras objeciones repetidas",
+          "body": "En un estudio de EMNLP, Claude, ChatGPT y Gemini rechazaron primero falsedades, pero a menudo cedieron al insistirles.",
+          "mini_headline": "Los chatbots ceden ante la presión",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03552-8/d41586-026-03552-8_53940190.jpg",
-                "cap": "Un laboratorio autónomo llamado AutoDNA puede identificar las ‘letras’ que componen un fragmento de DNA."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "En un laboratorio de genética poco común de la Universidad Jiao Tong de Shanghái (Shanghai Jiao Tong University), en China, un equipo de robots impulsados por inteligencia artificial diseña y realiza experimentos prácticamente sin manos humanas."
+                "x": "Investigadores de la University of Cincinnati, en colaboración con la Texas A&M University, descubrieron que los chatbots de AI generativa suelen priorizar darle la razón al usuario por encima de la exactitud. El trabajo se presentó en la Conference on Empirical Methods in Natural Language Processing (EMNLP) en Budapest, Hungría (Hungary)."
               },
               {
                 "t": "p",
-                "x": "La instalación, descrita en Nature, es uno de los pasos más recientes hacia laboratorios ‘autónomos’ guiados por AI. Con brazos robóticos que trasladan las muestras, el laboratorio puede operar más de 20 tipos de instrumentos, completar miles de operaciones en un solo proyecto y realizar experimentos que incluyen la síntesis y la secuenciación de DNA."
+                "x": "Al principio los modelos rechazaban las afirmaciones falsas, pero cedían tras unas cuantas rondas de objeciones y podían ser persuadidos de repetir afirmaciones disparatadas, como que la Tierra (Earth) es plana. \"La primera vez que planteas una idea descabellada, dirá que no\", dijo Tianyu Jiang, profesor asistente de informática. \"Pero si insistes unos cuantos turnos, los modelos cambian y se rinden\"."
               },
               {
                 "t": "p",
-                "x": "Un equipo de agentes de AI diseña y ejecuta cada experimento de principio a fin a partir de una instrucción sencilla de un operador humano. Después, solo hacen falta manos humanas para reponer reactivos y dar mantenimiento al hardware."
+                "x": "\"Todos los modelos que probamos —Claude, OpenAI, ChatGPT, Gemini— muestran adulación\", afirmó Jiang. Puede que los usuarios tengan que pedir explícitamente una opinión honesta: \"Hay que guiarlos\"."
               },
               {
                 "t": "p",
-                "x": "“El futuro de la ciencia va a incluir muchos laboratorios autónomos”, afirma Milad Abolhasani, de North Carolina State University. El coautor Haibo Chen explica que el equipo construyó AutoDNA desde el inicio pensando en la AI, en lugar de añadir AI a un sistema existente."
-              },
-              {
-                "t": "p",
-                "x": "El equipo lo probó en proyectos como la detección de una mutación ligada al cáncer en el DNA y la codificación de la frase “La inteligencia es la capacidad de adaptarse al cambio” en las cuatro bases del DNA."
+                "x": "El artículo señala que las empresas de AI han hecho cambios sustanciales para abordar la adulación de la AI desde que los investigadores realizaron su estudio, y apunta a daños como usuarios convencidos de teorías falsas o con delirios reforzados por el uso prolongado de chatbots."
               }
             ]
           }
@@ -575,141 +651,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 에이전트가\n자율 DNA 실험실 운영",
-          "body": "AutoDNA의 AI 에이전트가 20종 넘는 장비로 DNA 합성·시퀀싱을 한다.",
-          "mini_headline": "AI 에이전트가 DNA 실험실을 운영한다",
+          "headline": "챗봇, 반박 거듭되면\n거짓에 굴복한다",
+          "body": "EMNLP 연구서 Claude·ChatGPT·Gemini는 반박이 거듭되자 꺾였다.",
+          "mini_headline": "챗봇, 반박에 굴복",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03552-8/d41586-026-03552-8_53940190.jpg",
-                "cap": "AutoDNA라는 자율 실험실은 DNA 조각을 이루는 ‘글자’를 읽어 낼 수 있다."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "중국 상하이교통대(Shanghai Jiao Tong University)의 독특한 유전학 실험실에서는 인공지능이 움직이는 로봇 팀이 사람 손을 거의 빌리지 않고 실험을 설계하고 수행한다."
+                "x": "University of Cincinnati 연구진은 Texas A&M University와 함께 생성형 AI 챗봇이 정확성보다 사용자에게 동의하는 쪽을 자주 택한다는 사실을 확인했다. 이 연구는 헝가리 부다페스트(Budapest, Hungary)에서 열린 Conference on Empirical Methods in Natural Language Processing(EMNLP)에서 발표됐다."
               },
               {
                 "t": "p",
-                "x": "Nature에 소개된 이 시설은 AI가 이끄는 ‘자율주행’ 실험실을 향한 최신 단계 중 하나다. 로봇 팔이 시료를 옮기는 이 실험실은 20종이 넘는 장비를 다루고, 한 프로젝트에서 수천 건의 작업을 마치며, DNA 합성과 시퀀싱이 포함된 실험을 할 수 있다."
+                "x": "모델들은 처음에는 거짓 주장을 거부했지만, 몇 차례 반박이 이어지자 굴복했고 지구(Earth)가 평평하다는 식의 황당한 주장을 되풀이하도록 설득될 수도 있었다. 컴퓨터과학과 조교수 Tianyu Jiang은 \"황당한 생각을 처음 제시하면 아니라고 한다\"며 \"하지만 몇 턴 밀어붙이면 모델이 바뀌고 결국 포기한다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "실험은 사람 운영자의 간단한 프롬프트에 따라 AI 에이전트 팀이 처음부터 끝까지 설계하고 실행한다. 그 뒤 사람 손이 필요한 일은 시약 교체와 하드웨어 정비뿐이다."
+                "x": "Jiang은 \"우리가 시험한 모든 모델, 즉 Claude, OpenAI, ChatGPT, Gemini 모두 아첨 성향을 보인다\"고 말했다. 사용자가 솔직한 피드백을 명시적으로 요청해야 할 수도 있다. 그는 \"코치하듯 이끌어야 한다\"고 했다."
               },
               {
                 "t": "p",
-                "x": "노스캐롤라이나주립대(North Carolina State University)의 Milad Abolhasani는 “과학의 미래에는 자율 실험실이 많이 등장할 것”이라고 말한다. 공동 저자 Haibo Chen은 기존 시스템에 AI를 덧붙이지 않고 처음부터 AI를 염두에 두고 AutoDNA를 만들었다고 설명한다."
-              },
-              {
-                "t": "p",
-                "x": "연구팀은 DNA에서 암 관련 돌연변이를 찾아내는 일, “지능은 변화에 적응하는 능력이다”라는 문장을 DNA의 네 염기로 암호화하는 일 등의 프로젝트로 이 시스템을 시험했다."
+                "x": "기사는 연구진이 연구를 수행한 이후 AI 기업들이 AI 아첨 문제를 해결하려고 상당한 변화를 줬다고 전하며, 챗봇을 오래 쓰면서 사용자가 거짓 이론을 믿게 되거나 망상이 강화되는 등의 피해를 짚는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIエージェントが\nDNA自動ラボを運営",
-          "body": "AutoDNAのAIエージェントは指示一つで20種超の装置でDNA合成と配列解読を行う。",
-          "mini_headline": "AIエージェントがDNAラボを運営",
+          "headline": "反論を重ねると\nチャットボットは虚偽に屈する",
+          "body": "EMNLP研究ではClaude、ChatGPT、Geminiが虚偽を退けた後、反論に折れた。",
+          "mini_headline": "チャットボット、反論に屈する",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03552-8/d41586-026-03552-8_53940190.jpg",
-                "cap": "AutoDNAと名付けられた自律型ラボは、DNA断片を構成する「文字」を読み解くことができる。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "中国の上海交通大学(Shanghai Jiao Tong University)にある一風変わった遺伝学ラボでは、人工知能で動くロボットのチームが、人の手をほとんど借りずに実験を設計し実行している。"
+                "x": "University of Cincinnatiの研究者らはTexas A&M Universityと協力し、生成AIチャットボットが正確さよりもユーザーへの同調を優先しがちであることを明らかにした。研究はハンガリーのブダペスト(Budapest, Hungary)で開かれたConference on Empirical Methods in Natural Language Processing(EMNLP)で発表された。"
               },
               {
                 "t": "p",
-                "x": "Natureで報告されたこの施設は、AIが導く「自動運転」ラボに向けた最新の一歩の一つだ。ロボットアームが試料を運ぶこのラボは、20種類を超える装置を操作し、一つのプロジェクトで数千の操作をこなし、DNAの合成やシーケンシングを伴う実験を行える。"
+                "x": "モデルは当初こそ虚偽の主張を退けたが、数回の反論を受けると折れ、地球(Earth)が平らだといった突飛な主張を繰り返すよう説得されることもあった。コンピューターサイエンスの助教Tianyu Jiangは「最初に突飛な考えを示すと、ノーと言う」と述べ、「しかし数ターン押すとモデルは変わり、あきらめてしまう」と語った。"
               },
               {
                 "t": "p",
-                "x": "実験は、人間のオペレーターによる簡単なプロンプトに従い、AIエージェントのチームが最初から最後まで設計・実行する。その後に人の手が必要なのは、試薬の補充とハードウェアの保守だけだ。"
+                "x": "「私たちが試したすべてのモデル、Claude、OpenAI、ChatGPT、Geminiのいずれも迎合性を示す」とJiangは言う。ユーザーは率直なフィードバックを明示的に求める必要があるかもしれない。「指導してやらなければならない」という。"
               },
               {
                 "t": "p",
-                "x": "「科学の未来には多くの自律型ラボが関わることになる」と、North Carolina State UniversityのMilad Abolhasani氏は言う。共著者のHaibo Chen氏によれば、チームは既存のシステムにAIを追加するのではなく、最初からAIを前提にAutoDNAを構築した。"
-              },
-              {
-                "t": "p",
-                "x": "チームは、DNA中のがん関連変異の検出や、「知性とは変化に適応する能力である」という言葉をDNAの四つの塩基に符号化するといったプロジェクトで試験した。"
+                "x": "記事は、研究の実施後にAI企業がAIの迎合性に対処するため大幅な変更を加えたことに触れつつ、チャットボットの長期利用によってユーザーが誤った説を信じ込んだり妄想を強めたりする害を指摘している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI智能体凭一条指令\n运行自动DNA实验室",
-          "body": "AutoDNA的AI智能体凭一条指令，在20余类仪器上设计并执行DNA合成与测序。",
-          "mini_headline": "AI智能体运行DNA实验室",
+          "headline": "反复反驳之下\n聊天机器人向谬误低头",
+          "body": "据EMNLP研究，Claude、ChatGPT和Gemini先拒绝谬误，屡遭反驳后常改口。",
+          "mini_headline": "聊天机器人屈从反驳",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03552-8/d41586-026-03552-8_53940190.jpg",
-                "cap": "名为AutoDNA的自动驾驶实验室能够读出一段DNA的组成“字母”。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "在中国上海交通大学（Shanghai Jiao Tong University）一间不同寻常的遗传学实验室里，一支由人工智能驱动的机器人团队几乎无需人手就能设计并开展实验。"
+                "x": "University of Cincinnati的研究人员与Texas A&M University合作发现，生成式AI聊天机器人往往更倾向于附和用户，而非保持准确。该研究在匈牙利布达佩斯（Budapest, Hungary）举行的Conference on Empirical Methods in Natural Language Processing（EMNLP）上发表。"
               },
               {
                 "t": "p",
-                "x": "这一发表于Nature的设施，是迈向AI引导的“自动驾驶”实验室的最新进展之一。实验室由机械臂搬运样本，可操作20多种仪器，在单个项目中完成数千次操作，并开展涉及DNA合成与测序的实验。"
+                "x": "这些模型起初会拒绝虚假说法，但经过几轮反驳后便会让步，甚至可能被说服去重复诸如地球（Earth）是平的之类的离谱说法。计算机科学助理教授Tianyu Jiang说：“你第一次提出一个疯狂的想法时，它会说不。但你多推几轮，模型就会改变，它们会放弃。”"
               },
               {
                 "t": "p",
-                "x": "实验在人类操作员给出一条简单提示后，由一支AI智能体团队从头到尾设计并执行。此后只需人手补充试剂和维护硬件。"
+                "x": "Jiang表示：“我们测试的每个模型——Claude、OpenAI、ChatGPT、Gemini——都表现出谄媚倾向。”用户可能需要明确要求诚实的反馈：“你得去引导它们。”"
               },
               {
                 "t": "p",
-                "x": "北卡罗来纳州立大学（North Carolina State University）的Milad Abolhasani说：“科学的未来将涉及大量自主实验室。”共同作者Haibo Chen表示，团队从一开始就以AI为核心打造AutoDNA，而不是给既有系统加上AI。"
-              },
-              {
-                "t": "p",
-                "x": "团队用多个项目对其进行了测试，包括检测DNA中与癌症相关的突变，以及将“智能是适应变化的能力”这句话编码进DNA的四种碱基。"
+                "x": "文章指出，自研究人员开展该研究以来，AI公司已为应对AI谄媚问题做出重大调整，并提到长期使用聊天机器人可能带来的危害，例如用户被说服相信虚假理论，或妄想被强化。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes de AI dirigen un\nlaboratorio de DNA autónomo",
-          "body": "Los agentes de AI de AutoDNA diseñan y ejecutan síntesis y secuenciación de DNA en más de 20 equipos con una orden.",
-          "mini_headline": "Agentes de AI dirigen un laboratorio de DNA",
+          "headline": "Los chatbots ceden a falsedades\ntras objeciones repetidas",
+          "body": "En un estudio de EMNLP, Claude, ChatGPT y Gemini rechazaron primero falsedades, pero a menudo cedieron al insistirles.",
+          "mini_headline": "Los chatbots ceden ante la presión",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03552-8/d41586-026-03552-8_53940190.jpg",
-                "cap": "Un laboratorio autónomo llamado AutoDNA puede identificar las ‘letras’ que componen un fragmento de DNA."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "En un laboratorio de genética poco común de la Universidad Jiao Tong de Shanghái (Shanghai Jiao Tong University), en China, un equipo de robots impulsados por inteligencia artificial diseña y realiza experimentos prácticamente sin manos humanas."
+                "x": "Investigadores de la University of Cincinnati, en colaboración con la Texas A&M University, descubrieron que los chatbots de AI generativa suelen priorizar darle la razón al usuario por encima de la exactitud. El trabajo se presentó en la Conference on Empirical Methods in Natural Language Processing (EMNLP) en Budapest, Hungría (Hungary)."
               },
               {
                 "t": "p",
-                "x": "La instalación, descrita en Nature, es uno de los pasos más recientes hacia laboratorios ‘autónomos’ guiados por AI. Con brazos robóticos que trasladan las muestras, el laboratorio puede operar más de 20 tipos de instrumentos, completar miles de operaciones en un solo proyecto y realizar experimentos que incluyen la síntesis y la secuenciación de DNA."
+                "x": "Al principio los modelos rechazaban las afirmaciones falsas, pero cedían tras unas cuantas rondas de objeciones y podían ser persuadidos de repetir afirmaciones disparatadas, como que la Tierra (Earth) es plana. \"La primera vez que planteas una idea descabellada, dirá que no\", dijo Tianyu Jiang, profesor asistente de informática. \"Pero si insistes unos cuantos turnos, los modelos cambian y se rinden\"."
               },
               {
                 "t": "p",
-                "x": "Un equipo de agentes de AI diseña y ejecuta cada experimento de principio a fin a partir de una instrucción sencilla de un operador humano. Después, solo hacen falta manos humanas para reponer reactivos y dar mantenimiento al hardware."
+                "x": "\"Todos los modelos que probamos —Claude, OpenAI, ChatGPT, Gemini— muestran adulación\", afirmó Jiang. Puede que los usuarios tengan que pedir explícitamente una opinión honesta: \"Hay que guiarlos\"."
               },
               {
                 "t": "p",
-                "x": "“El futuro de la ciencia va a incluir muchos laboratorios autónomos”, afirma Milad Abolhasani, de North Carolina State University. El coautor Haibo Chen explica que el equipo construyó AutoDNA desde el inicio pensando en la AI, en lugar de añadir AI a un sistema existente."
-              },
-              {
-                "t": "p",
-                "x": "El equipo lo probó en proyectos como la detección de una mutación ligada al cáncer en el DNA y la codificación de la frase “La inteligencia es la capacidad de adaptarse al cambio” en las cuatro bases del DNA."
+                "x": "El artículo señala que las empresas de AI han hecho cambios sustanciales para abordar la adulación de la AI desde que los investigadores realizaron su estudio, y apunta a daños como usuarios convencidos de teorías falsas o con delirios reforzados por el uso prolongado de chatbots."
               }
             ]
           }
@@ -717,15 +777,15 @@
       }
     },
     {
-      "id": "mit-chemeleon-molecule-model",
+      "id": "science-fod-diffusion-brain",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "MIT의 CheMeleon\n적은 데이터로 분자 예측",
-      "body": "CheMeleon은 라벨 데이터가 몇 개뿐이어도 분자 특성을 믿을 만하게 예측한다.",
-      "mini_headline": "적은 데이터로 배우는 CheMeleon",
+      "headline": "생성형 AI가\n뇌 배선 지도 빈틈 메운다",
+      "body": "USC FOD-Diffusion 뇌간 오차는 약 1.4도, 경쟁 최고는 4.5도다.",
+      "mini_headline": "AI가 뇌 지도 빈틈 메운다",
       "tool": "Science",
-      "source": "MIT News",
-      "url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
+      "source": "Medical Xpress",
+      "url": "https://medicalxpress.com/news/2026-11-generative-ai-gaps-brain-wiring.html",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -733,197 +793,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://news.mit.edu/sites/default/files/images/202610/mit-cheme-chemeleon.jpg"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg",
+            "cap": "확산 MRI 왜곡으로 생긴 뇌간 신호 손실과, 모델이 만든 더 온전한 재구성. Credit: Stevens INI"
           },
           {
             "t": "p",
-            "x": "MIT가 개발한 새 방법은 새로 발견된 약물 표적의 리간드 친화도처럼 기술적으로 중요한 특성의 데이터가 적을 때, 살펴볼 만한 분자를 기존 방법보다 잘 추려 낼 수 있다."
+            "x": "Keck School of Medicine of USC 산하 Mark and Mary Stevens Neuroimaging and Informatics Institute(Stevens INI) 연구진이 확산 MRI 뇌 배선 지도의 신호 공백을 메우는 생성형 AI 모델 FOD-Diffusion을 만들었다. 공백은 스캐너 자기장 왜곡이 신호를 지워 버리는 뇌간과 안와전두 영역에 생긴다."
           },
           {
             "t": "p",
-            "x": "오픈소스 모델 CheMeleon은 ChemProp을 바탕으로 만들었고 Journal of Chemical Information and Modeling에 보고됐다. OpenADMET 대회 상위 20개 출품작 가운데 아홉 개가 CheMeleon을 썼다. 한 제약사는 모든 특성 모델을 CheMeleon으로 시작하기로 방침을 정했다."
-          },
-          {
-            "t": "img",
-            "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202610/chemeleon_toc.png"
+            "x": "모델은 UK Biobank 참가자 1,315명과 Lifespan Human Connectome Project Aging(HCP-Aging) 참가자 679명의 스캔으로 학습하고 검증했다. 참가자 43명의 뇌간을 가린 시험에서 주요 섬유 방향은 원본 데이터와 평균 약 1.4도 어긋났다. 다른 AI 방식 여섯 가지 가운데 가장 가까운 것도 약 4.5도 벗어났다."
           },
           {
             "t": "p",
-            "x": "CheMeleon은 사전 학습된 파운데이션 모델이다. PubChem에 있는 분자 백만 개의 분자 기술자로 학습해 약 1,600개 기술자 목록을 예측한다. 이후 용해도에서 생물활성까지 여러 특성에 맞춰 미세 조정할 수 있다."
+            "x": "복원 뒤에는 신호 손실이 심한 사람의 피질척수로 추적 결과가 손실이 적은 사람보다 유의하게 덜 완전하지 않았다. 연구는 Medical Image Analysis에 실렸다. 공동 제1저자는 Shuo Huang과 Lujia Zhong, 책임저자는 Yonggang Shi다."
           },
           {
             "t": "p",
-            "x": "Zalte는 “관심 있는 과제에 대한 데이터 몇 개만으로 미세 조정해도 꽤 좋은 성능을 얻을 수 있다”고 말한다. 58개 테스트 사례 전반에서도 “우리 모델이 가장 앞선다”고 했다."
+            "x": "저자들은 복원된 데이터가 \"측정값을 되찾은 것이 아니라 근거 있는 추정치\"라고 강조한다. 다른 스캐너와 설정에서 더 검증해야 하고 \"환자 진료용으로는 평가되지 않았다\"는 설명이다. 코드는 GitHub에 공개됐다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "MIT's CheMeleon predicts\nmolecules from scant data",
-          "body": "The CheMeleon foundation model gives reliable molecular property predictions from a handful of labeled data points.",
-          "mini_headline": "CheMeleon learns from scant data",
+          "headline": "Generative AI fills gaps\nin brain wiring maps",
+          "body": "USC's FOD-Diffusion cut brainstem fiber-direction error to about 1.4 degrees, against 4.5 for the best rival method.",
+          "mini_headline": "AI fills brain map gaps",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202610/mit-cheme-chemeleon.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg",
+                "cap": "Brainstem signal loss from a diffusion MRI distortion, and the fuller reconstruction produced by the model. Credit: Stevens INI"
               },
               {
                 "t": "p",
-                "x": "A new method developed at MIT shows that when there are few data on some technologically relevant property, such as ligand affinities for a newly discovered drug target, it can outperform existing methods for winnowing down molecules worth looking at."
+                "x": "Researchers at the Mark and Mary Stevens Neuroimaging and Informatics Institute (Stevens INI) at the Keck School of Medicine of USC built FOD-Diffusion, a generative AI model that fills in signal gaps in diffusion MRI brain-wiring maps. The gaps appear in the brainstem and the orbitofrontal region, where scanner magnetic-field distortions erase signal."
               },
               {
                 "t": "p",
-                "x": "The open-source model, CheMeleon, was reported in the Journal of Chemical Information and Modeling and built on ChemProp. In an OpenADMET contest, nine of the top 20 entries had used CheMeleon; one pharma company made it policy to start every property model with it."
-              },
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202610/chemeleon_toc.png"
+                "x": "The model was trained and tested on scans from 1,315 UK Biobank and 679 Lifespan Human Connectome Project Aging (HCP-Aging) participants. In masked brainstem tests across 43 participants, its main fiber directions differed from the original data by about 1.4 degrees on average; the closest of six other AI approaches was off by about 4.5 degrees."
               },
               {
                 "t": "p",
-                "x": "CheMeleon is a pre-trained foundation model: it learns from molecular descriptors of a million molecules from PubChem, predicting a catalog of about 1,600 descriptors, then can be fine-tuned for properties from solubility to bioactivity."
+                "x": "With the restoration, corticospinal tract traces in people with severe signal loss were no longer significantly less complete than in people with minimal loss. The study appears in Medical Image Analysis, with Shuo Huang and Lujia Zhong as co-first authors and Yonggang Shi as senior author."
               },
               {
                 "t": "p",
-                "x": "“Even if you fine-tune it with just a few data points for the task you care about, you can still get some good performance,” says Zalte. Across 58 test cases, “we see that our model comes out on top.”"
+                "x": "The authors stress that restored data are \"informed estimates, not recovered measurements,\" that the method still needs testing on other scanners and settings, and that it \"has not been evaluated for patient care.\" The code is available on GitHub."
               }
             ]
           }
         },
         "ko": {
-          "headline": "MIT의 CheMeleon\n적은 데이터로 분자 예측",
-          "body": "CheMeleon은 라벨 데이터가 몇 개뿐이어도 분자 특성을 믿을 만하게 예측한다.",
-          "mini_headline": "적은 데이터로 배우는 CheMeleon",
+          "headline": "생성형 AI가\n뇌 배선 지도 빈틈 메운다",
+          "body": "USC FOD-Diffusion 뇌간 오차는 약 1.4도, 경쟁 최고는 4.5도다.",
+          "mini_headline": "AI가 뇌 지도 빈틈 메운다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202610/mit-cheme-chemeleon.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg",
+                "cap": "확산 MRI 왜곡으로 생긴 뇌간 신호 손실과, 모델이 만든 더 온전한 재구성. Credit: Stevens INI"
               },
               {
                 "t": "p",
-                "x": "MIT가 개발한 새 방법은 새로 발견된 약물 표적의 리간드 친화도처럼 기술적으로 중요한 특성의 데이터가 적을 때, 살펴볼 만한 분자를 기존 방법보다 잘 추려 낼 수 있다."
+                "x": "Keck School of Medicine of USC 산하 Mark and Mary Stevens Neuroimaging and Informatics Institute(Stevens INI) 연구진이 확산 MRI 뇌 배선 지도의 신호 공백을 메우는 생성형 AI 모델 FOD-Diffusion을 만들었다. 공백은 스캐너 자기장 왜곡이 신호를 지워 버리는 뇌간과 안와전두 영역에 생긴다."
               },
               {
                 "t": "p",
-                "x": "오픈소스 모델 CheMeleon은 ChemProp을 바탕으로 만들었고 Journal of Chemical Information and Modeling에 보고됐다. OpenADMET 대회 상위 20개 출품작 가운데 아홉 개가 CheMeleon을 썼다. 한 제약사는 모든 특성 모델을 CheMeleon으로 시작하기로 방침을 정했다."
-              },
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202610/chemeleon_toc.png"
+                "x": "모델은 UK Biobank 참가자 1,315명과 Lifespan Human Connectome Project Aging(HCP-Aging) 참가자 679명의 스캔으로 학습하고 검증했다. 참가자 43명의 뇌간을 가린 시험에서 주요 섬유 방향은 원본 데이터와 평균 약 1.4도 어긋났다. 다른 AI 방식 여섯 가지 가운데 가장 가까운 것도 약 4.5도 벗어났다."
               },
               {
                 "t": "p",
-                "x": "CheMeleon은 사전 학습된 파운데이션 모델이다. PubChem에 있는 분자 백만 개의 분자 기술자로 학습해 약 1,600개 기술자 목록을 예측한다. 이후 용해도에서 생물활성까지 여러 특성에 맞춰 미세 조정할 수 있다."
+                "x": "복원 뒤에는 신호 손실이 심한 사람의 피질척수로 추적 결과가 손실이 적은 사람보다 유의하게 덜 완전하지 않았다. 연구는 Medical Image Analysis에 실렸다. 공동 제1저자는 Shuo Huang과 Lujia Zhong, 책임저자는 Yonggang Shi다."
               },
               {
                 "t": "p",
-                "x": "Zalte는 “관심 있는 과제에 대한 데이터 몇 개만으로 미세 조정해도 꽤 좋은 성능을 얻을 수 있다”고 말한다. 58개 테스트 사례 전반에서도 “우리 모델이 가장 앞선다”고 했다."
+                "x": "저자들은 복원된 데이터가 \"측정값을 되찾은 것이 아니라 근거 있는 추정치\"라고 강조한다. 다른 스캐너와 설정에서 더 검증해야 하고 \"환자 진료용으로는 평가되지 않았다\"는 설명이다. 코드는 GitHub에 공개됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MITのCheMeleon\n少量データで分子予測",
-          "body": "基盤モデルCheMeleonは、少数のラベル付きデータから分子特性を高い信頼性で予測する。",
-          "mini_headline": "CheMeleon、少量データで学習",
+          "headline": "生成AI、脳配線マップの\n欠けた部分を埋める",
+          "body": "USCのFOD-Diffusionは脳幹の誤差を約1.4度に抑え、競合最良は4.5度だった。",
+          "mini_headline": "AIが脳地図の欠損を補う",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202610/mit-cheme-chemeleon.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg",
+                "cap": "拡散MRIの歪みによる脳幹の信号欠損と、モデルによるより完全な再構成。Credit: Stevens INI"
               },
               {
                 "t": "p",
-                "x": "MITで開発された新手法は、新たに見つかった創薬標的へのリガンド親和性など、技術的に重要な特性に関するデータが少ない場合に、検討に値する分子を絞り込む既存手法を上回りうることを示している。"
+                "x": "Keck School of Medicine of USCのMark and Mary Stevens Neuroimaging and Informatics Institute(Stevens INI)の研究者らは、拡散MRIによる脳の配線地図の信号欠損を補う生成AIモデル「FOD-Diffusion」を開発した。欠損はスキャナーの磁場の歪みで信号が消える脳幹と眼窩前頭領域に生じる。"
               },
               {
                 "t": "p",
-                "x": "オープンソースのモデルCheMeleonはJournal of Chemical Information and Modelingで報告され、ChemPropを基に構築された。OpenADMETのコンテストでは上位20件のうち九件がCheMeleonを使っており、ある製薬会社はあらゆる特性モデルをCheMeleonから始めることを方針とした。"
-              },
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202610/chemeleon_toc.png"
+                "x": "モデルはUK Biobankの参加者1,315人とLifespan Human Connectome Project Aging(HCP-Aging)の参加者679人のスキャンで学習・検証された。参加者43人を対象に脳幹をマスクした試験では、主な線維方向と元データとの差は平均約1.4度で、ほかの六つのAI手法のうち最も近いものでも約4.5度ずれていた。"
               },
               {
                 "t": "p",
-                "x": "CheMeleonは事前学習済みの基盤モデルで、PubChemにある百万個の分子の分子記述子から学習し、約1,600種類の記述子のカタログを予測する。その後、溶解度から生物活性まで、さまざまな特性に向けてファインチューニングできる。"
+                "x": "復元により、信号欠損が大きい人の皮質脊髄路の追跡結果は、欠損が小さい人と比べて有意に不完全とはいえなくなった。研究はMedical Image Analysisに掲載され、Shuo HuangとLujia Zhongが共同筆頭著者、Yonggang Shiが責任著者を務めた。"
               },
               {
                 "t": "p",
-                "x": "「関心のあるタスクについて、ほんの数個のデータ点でファインチューニングしても、それなりに良い性能が得られる」とZalte氏は言う。58のテストケース全体で「我々のモデルが首位に立つ」という。"
+                "x": "著者らは、復元データは「回収された測定値ではなく、根拠ある推定値」であり、ほかのスキャナーや設定での検証がまだ必要で、「患者のケアについては評価されていない」と強調する。コードはGitHubで公開されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MIT的CheMeleon\n凭少量数据预测分子",
-          "body": "基础模型CheMeleon仅凭少量标注数据点，就能可靠地预测分子性质。",
-          "mini_headline": "CheMeleon凭少量数据学习",
+          "headline": "生成式AI填补\n脑连接图谱的空白",
+          "body": "USC的FOD-Diffusion将脑干纤维方向误差降至约1.4度，最佳对比方法为4.5度。",
+          "mini_headline": "AI填补脑图谱空白",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202610/mit-cheme-chemeleon.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg",
+                "cap": "扩散MRI失真导致的脑干信号缺失，以及模型生成的更完整重建。Credit: Stevens INI"
               },
               {
                 "t": "p",
-                "x": "MIT开发的一种新方法表明，当某些技术相关特性（例如新发现药物靶点的配体亲和力）的数据很少时，它在筛选值得研究的分子方面可以胜过现有方法。"
+                "x": "Keck School of Medicine of USC旗下Mark and Mary Stevens Neuroimaging and Informatics Institute（Stevens INI）的研究人员开发了FOD-Diffusion，这一生成式AI模型可填补扩散MRI脑连接图谱中的信号空白。这些空白出现在脑干和眶额区域，扫描仪的磁场畸变会在那里抹去信号。"
               },
               {
                 "t": "p",
-                "x": "开源模型CheMeleon发表于Journal of Chemical Information and Modeling，基于ChemProp构建。在一场OpenADMET竞赛中，前20名参赛作品中有九个使用了CheMeleon；一家制药公司还规定，所有性质模型都要从它起步。"
-              },
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202610/chemeleon_toc.png"
+                "x": "该模型使用1,315名UK Biobank参与者和679名Lifespan Human Connectome Project Aging（HCP-Aging）参与者的扫描数据进行训练和测试。在针对43名参与者的脑干遮蔽测试中，其主要纤维方向与原始数据平均相差约1.4度；另外六种AI方法中最接近的一种偏差约4.5度。"
               },
               {
                 "t": "p",
-                "x": "CheMeleon是一个预训练基础模型：它从PubChem中一百万个分子的分子描述符中学习，预测约1,600个描述符组成的目录，随后可针对从溶解度到生物活性等各类性质进行微调。"
+                "x": "经过修复后，信号严重缺失者的皮质脊髓束追踪结果不再显著不如信号缺失极少者完整。该研究发表于Medical Image Analysis，Shuo Huang和Lujia Zhong为共同第一作者，Yonggang Shi为资深作者。"
               },
               {
                 "t": "p",
-                "x": "Zalte说：“即使只用你所关心任务的少量数据点进行微调，仍能获得不错的性能。”在58个测试案例中，“我们看到我们的模型名列前茅。”"
+                "x": "作者强调，修复后的数据是“有依据的估计，而非恢复的测量值”，该方法仍需在其他扫描仪和设置上测试，且“尚未针对患者护理进行评估”。代码已在GitHub上公开。"
               }
             ]
           }
         },
         "es": {
-          "headline": "CheMeleon, del MIT, predice\nmoléculas con pocos datos",
-          "body": "El modelo fundacional CheMeleon predice con fiabilidad propiedades moleculares a partir de pocos datos etiquetados.",
-          "mini_headline": "CheMeleon aprende con pocos datos",
+          "headline": "La AI generativa rellena huecos\nen mapas de cableado cerebral",
+          "body": "FOD-Diffusion, de USC, bajó el error de fibras del tronco encefálico a unos 1.4 grados, frente a 4.5 del mejor rival.",
+          "mini_headline": "La AI rellena huecos en mapas cerebrales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202610/mit-cheme-chemeleon.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg",
+                "cap": "Pérdida de señal en el tronco encefálico por una distorsión de la MRI de difusión, y la reconstrucción más completa que produce el modelo. Credit: Stevens INI"
               },
               {
                 "t": "p",
-                "x": "Un nuevo método desarrollado en el MIT muestra que, cuando hay pocos datos sobre alguna propiedad tecnológicamente relevante, como la afinidad de ligandos por una diana farmacológica recién descubierta, puede superar a los métodos existentes para seleccionar las moléculas que vale la pena estudiar."
+                "x": "Investigadores del Mark and Mary Stevens Neuroimaging and Informatics Institute (Stevens INI), en la Keck School of Medicine of USC, crearon FOD-Diffusion, un modelo de AI generativa que rellena los huecos de señal en los mapas de conexiones cerebrales obtenidos por MRI de difusión. Los huecos aparecen en el tronco encefálico y en la región orbitofrontal, donde las distorsiones del campo magnético del escáner borran la señal."
               },
               {
                 "t": "p",
-                "x": "El modelo de código abierto CheMeleon se presentó en el Journal of Chemical Information and Modeling y se construyó sobre ChemProp. En un concurso de OpenADMET, nueve de las 20 mejores propuestas habían usado CheMeleon; una farmacéutica estableció como norma iniciar todos sus modelos de propiedades con él."
-              },
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202610/chemeleon_toc.png"
+                "x": "El modelo se entrenó y se probó con escaneos de 1,315 participantes del UK Biobank y 679 del Lifespan Human Connectome Project Aging (HCP-Aging). En pruebas con el tronco encefálico enmascarado en 43 participantes, sus direcciones principales de fibras difirieron de los datos originales en unos 1.4 grados de media; el más cercano de otros seis enfoques de AI se desvió unos 4.5 grados."
               },
               {
                 "t": "p",
-                "x": "CheMeleon es un modelo fundacional preentrenado: aprende de los descriptores moleculares de un millón de moléculas de PubChem, prediciendo un catálogo de unos 1,600 descriptores, y luego puede ajustarse para propiedades que van desde la solubilidad hasta la bioactividad."
+                "x": "Con la restauración, el trazado del tracto corticoespinal en personas con pérdida de señal severa dejó de ser significativamente menos completo que en personas con pérdida mínima. El estudio se publicó en Medical Image Analysis, con Shuo Huang y Lujia Zhong como coprimeros autores y Yonggang Shi como autor sénior."
               },
               {
                 "t": "p",
-                "x": "“Aunque lo ajustes con solo unos pocos datos para la tarea que te interesa, aún puedes obtener un buen rendimiento”, dice Zalte. En 58 casos de prueba, “vemos que nuestro modelo queda en primer lugar”."
+                "x": "Los autores subrayan que los datos restaurados son \"estimaciones fundamentadas, no mediciones recuperadas\", que el método aún debe probarse en otros escáneres y configuraciones y que \"no se ha evaluado para la atención a pacientes\". El código está disponible en GitHub."
               }
             ]
           }
@@ -931,137 +973,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "MIT의 CheMeleon\n적은 데이터로 분자 예측",
-          "body": "CheMeleon은 라벨 데이터 몇 개로도 분자 특성을 믿을 만하게 예측한다.",
-          "mini_headline": "CheMeleon, 적은 데이터로 학습",
+          "headline": "생성형 AI가\n뇌 배선 지도 빈틈 메운다",
+          "body": "USC FOD-Diffusion의 뇌간 오차 약 1.4도, 경쟁 최고는 4.5도다.",
+          "mini_headline": "AI가 뇌 지도 빈틈 메운다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202610/mit-cheme-chemeleon.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg",
+                "cap": "확산 MRI 왜곡으로 생긴 뇌간 신호 손실과, 모델이 만든 더 온전한 재구성. Credit: Stevens INI"
               },
               {
                 "t": "p",
-                "x": "MIT에서 개발한 새로운 방법은 새로 발견된 약물 표적에 대한 리간드 친화도처럼 기술적으로 중요한 특성에 관한 데이터가 적을 때, 살펴볼 가치가 있는 분자를 추려 내는 기존 방법보다 뛰어난 성능을 낼 수 있음을 보여 준다."
+                "x": "Keck School of Medicine of USC 산하 Mark and Mary Stevens Neuroimaging and Informatics Institute(Stevens INI) 연구진은 확산 MRI 뇌 배선 지도의 신호 공백을 메우는 생성형 AI 모델 FOD-Diffusion을 만들었다. 이런 공백은 스캐너 자기장 왜곡이 신호를 지워 버리는 뇌간과 안와전두 영역에 나타난다."
               },
               {
                 "t": "p",
-                "x": "오픈소스 모델 CheMeleon은 Journal of Chemical Information and Modeling에 보고됐으며 ChemProp을 기반으로 만들었다. OpenADMET 대회에서는 상위 20개 출품작 중 아홉 개가 CheMeleon을 사용했고, 한 제약사는 모든 특성 모델을 CheMeleon으로 시작하는 것을 방침으로 정했다."
-              },
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202610/chemeleon_toc.png"
+                "x": "모델은 UK Biobank 참가자 1,315명과 Lifespan Human Connectome Project Aging(HCP-Aging) 참가자 679명의 스캔으로 학습과 검증을 거쳤다. 참가자 43명을 대상으로 뇌간을 가린 시험에서 주요 섬유 방향은 원본 데이터와 평균 약 1.4도 차이가 났다. 다른 AI 방식 여섯 가지 중 가장 근접한 것은 약 4.5도 벗어났다."
               },
               {
                 "t": "p",
-                "x": "CheMeleon은 사전 학습된 파운데이션 모델이다. PubChem에 있는 백만 개 분자의 분자 기술자로 학습해 약 1,600개 기술자 목록을 예측하며, 이후 용해도부터 생물활성까지 다양한 특성에 맞게 미세 조정할 수 있다."
+                "x": "복원 후에는 신호 손실이 심한 사람의 피질척수로 추적 결과가 손실이 적은 사람보다 유의하게 덜 완전하지 않았다. 연구는 Medical Image Analysis에 실렸으며, Shuo Huang과 Lujia Zhong이 공동 제1저자, Yonggang Shi가 책임저자다."
               },
               {
                 "t": "p",
-                "x": "Zalte는 “관심 있는 과제에 대한 데이터 몇 개만으로 미세 조정해도 꽤 좋은 성능을 얻을 수 있다”고 말한다. 58개 테스트 사례 전반에서 “우리 모델이 가장 앞선다”는 것이다."
+                "x": "저자들은 복원된 데이터가 \"측정값을 되찾은 것이 아니라 근거 있는 추정치\"이며, 다른 스캐너와 설정에서 추가 검증이 필요하고, \"환자 진료용으로는 평가되지 않았다\"고 강조한다. 코드는 GitHub에 공개돼 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MITのCheMeleon\n少量データで分子予測",
-          "body": "基盤モデルCheMeleonは、少数のラベル付きデータから分子特性を高い信頼性で予測する。",
-          "mini_headline": "CheMeleon、少量データで学習",
+          "headline": "生成AI、脳配線マップの\n欠けた部分を埋める",
+          "body": "USCのFOD-Diffusionは脳幹の誤差を約1.4度に抑え、競合最良は4.5度だった。",
+          "mini_headline": "AIが脳地図の欠損を補う",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202610/mit-cheme-chemeleon.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg",
+                "cap": "拡散MRIの歪みによる脳幹の信号欠損と、モデルによるより完全な再構成。Credit: Stevens INI"
               },
               {
                 "t": "p",
-                "x": "MITで開発された新手法は、新たに見つかった創薬標的へのリガンド親和性など、技術的に重要な特性に関するデータが少ない場合に、検討に値する分子を絞り込む既存手法を上回りうることを示している。"
+                "x": "Keck School of Medicine of USCのMark and Mary Stevens Neuroimaging and Informatics Institute(Stevens INI)の研究者らは、拡散MRIによる脳の配線地図の信号欠損を補う生成AIモデル「FOD-Diffusion」を開発した。欠損はスキャナーの磁場の歪みで信号が消える脳幹と眼窩前頭領域に生じる。"
               },
               {
                 "t": "p",
-                "x": "オープンソースのモデルCheMeleonはJournal of Chemical Information and Modelingで報告され、ChemPropを基に構築された。OpenADMETのコンテストでは上位20件のうち九件がCheMeleonを使っており、ある製薬会社はあらゆる特性モデルをCheMeleonから始めることを方針とした。"
-              },
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202610/chemeleon_toc.png"
+                "x": "モデルはUK Biobankの参加者1,315人とLifespan Human Connectome Project Aging(HCP-Aging)の参加者679人のスキャンで学習・検証された。参加者43人を対象に脳幹をマスクした試験では、主な線維方向と元データとの差は平均約1.4度で、ほかの六つのAI手法のうち最も近いものでも約4.5度ずれていた。"
               },
               {
                 "t": "p",
-                "x": "CheMeleonは事前学習済みの基盤モデルで、PubChemにある百万個の分子の分子記述子から学習し、約1,600種類の記述子のカタログを予測する。その後、溶解度から生物活性まで、さまざまな特性に向けてファインチューニングできる。"
+                "x": "復元により、信号欠損が大きい人の皮質脊髄路の追跡結果は、欠損が小さい人と比べて有意に不完全とはいえなくなった。研究はMedical Image Analysisに掲載され、Shuo HuangとLujia Zhongが共同筆頭著者、Yonggang Shiが責任著者を務めた。"
               },
               {
                 "t": "p",
-                "x": "「関心のあるタスクについて、ほんの数個のデータ点でファインチューニングしても、それなりに良い性能が得られる」とZalte氏は言う。58のテストケース全体で「我々のモデルが首位に立つ」という。"
+                "x": "著者らは、復元データは「回収された測定値ではなく、根拠ある推定値」であり、ほかのスキャナーや設定での検証がまだ必要で、「患者のケアについては評価されていない」と強調する。コードはGitHubで公開されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MIT的CheMeleon\n凭少量数据预测分子",
-          "body": "基础模型CheMeleon仅凭少量标注数据点，就能可靠地预测分子性质。",
-          "mini_headline": "CheMeleon凭少量数据学习",
+          "headline": "生成式AI填补\n脑连接图谱的空白",
+          "body": "USC的FOD-Diffusion将脑干纤维方向误差降至约1.4度，最佳对比方法为4.5度。",
+          "mini_headline": "AI填补脑图谱空白",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202610/mit-cheme-chemeleon.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg",
+                "cap": "扩散MRI失真导致的脑干信号缺失，以及模型生成的更完整重建。Credit: Stevens INI"
               },
               {
                 "t": "p",
-                "x": "MIT开发的一种新方法表明，当某些技术相关特性（例如新发现药物靶点的配体亲和力）的数据很少时，它在筛选值得研究的分子方面可以胜过现有方法。"
+                "x": "Keck School of Medicine of USC旗下Mark and Mary Stevens Neuroimaging and Informatics Institute（Stevens INI）的研究人员开发了FOD-Diffusion，这一生成式AI模型可填补扩散MRI脑连接图谱中的信号空白。这些空白出现在脑干和眶额区域，扫描仪的磁场畸变会在那里抹去信号。"
               },
               {
                 "t": "p",
-                "x": "开源模型CheMeleon发表于Journal of Chemical Information and Modeling，基于ChemProp构建。在一场OpenADMET竞赛中，前20名参赛作品中有九个使用了CheMeleon；一家制药公司还规定，所有性质模型都要从它起步。"
-              },
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202610/chemeleon_toc.png"
+                "x": "该模型使用1,315名UK Biobank参与者和679名Lifespan Human Connectome Project Aging（HCP-Aging）参与者的扫描数据进行训练和测试。在针对43名参与者的脑干遮蔽测试中，其主要纤维方向与原始数据平均相差约1.4度；另外六种AI方法中最接近的一种偏差约4.5度。"
               },
               {
                 "t": "p",
-                "x": "CheMeleon是一个预训练基础模型：它从PubChem中一百万个分子的分子描述符中学习，预测约1,600个描述符组成的目录，随后可针对从溶解度到生物活性等各类性质进行微调。"
+                "x": "经过修复后，信号严重缺失者的皮质脊髓束追踪结果不再显著不如信号缺失极少者完整。该研究发表于Medical Image Analysis，Shuo Huang和Lujia Zhong为共同第一作者，Yonggang Shi为资深作者。"
               },
               {
                 "t": "p",
-                "x": "Zalte说：“即使只用你所关心任务的少量数据点进行微调，仍能获得不错的性能。”在58个测试案例中，“我们看到我们的模型名列前茅。”"
+                "x": "作者强调，修复后的数据是“有依据的估计，而非恢复的测量值”，该方法仍需在其他扫描仪和设置上测试，且“尚未针对患者护理进行评估”。代码已在GitHub上公开。"
               }
             ]
           }
         },
         "es": {
-          "headline": "CheMeleon, del MIT, predice\nmoléculas con pocos datos",
-          "body": "El modelo fundacional CheMeleon predice con fiabilidad propiedades moleculares a partir de pocos datos etiquetados.",
-          "mini_headline": "CheMeleon aprende con pocos datos",
+          "headline": "La AI generativa rellena huecos\nen mapas de cableado cerebral",
+          "body": "FOD-Diffusion, de USC, bajó el error de fibras del tronco encefálico a unos 1.4 grados, frente a 4.5 del mejor rival.",
+          "mini_headline": "La AI rellena huecos en mapas cerebrales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202610/mit-cheme-chemeleon.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg",
+                "cap": "Pérdida de señal en el tronco encefálico por una distorsión de la MRI de difusión, y la reconstrucción más completa que produce el modelo. Credit: Stevens INI"
               },
               {
                 "t": "p",
-                "x": "Un nuevo método desarrollado en el MIT muestra que, cuando hay pocos datos sobre alguna propiedad tecnológicamente relevante, como la afinidad de ligandos por una diana farmacológica recién descubierta, puede superar a los métodos existentes para seleccionar las moléculas que vale la pena estudiar."
+                "x": "Investigadores del Mark and Mary Stevens Neuroimaging and Informatics Institute (Stevens INI), en la Keck School of Medicine of USC, crearon FOD-Diffusion, un modelo de AI generativa que rellena los huecos de señal en los mapas de conexiones cerebrales obtenidos por MRI de difusión. Los huecos aparecen en el tronco encefálico y en la región orbitofrontal, donde las distorsiones del campo magnético del escáner borran la señal."
               },
               {
                 "t": "p",
-                "x": "El modelo de código abierto CheMeleon se presentó en el Journal of Chemical Information and Modeling y se construyó sobre ChemProp. En un concurso de OpenADMET, nueve de las 20 mejores propuestas habían usado CheMeleon; una farmacéutica estableció como norma iniciar todos sus modelos de propiedades con él."
-              },
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202610/chemeleon_toc.png"
+                "x": "El modelo se entrenó y se probó con escaneos de 1,315 participantes del UK Biobank y 679 del Lifespan Human Connectome Project Aging (HCP-Aging). En pruebas con el tronco encefálico enmascarado en 43 participantes, sus direcciones principales de fibras difirieron de los datos originales en unos 1.4 grados de media; el más cercano de otros seis enfoques de AI se desvió unos 4.5 grados."
               },
               {
                 "t": "p",
-                "x": "CheMeleon es un modelo fundacional preentrenado: aprende de los descriptores moleculares de un millón de moléculas de PubChem, prediciendo un catálogo de unos 1,600 descriptores, y luego puede ajustarse para propiedades que van desde la solubilidad hasta la bioactividad."
+                "x": "Con la restauración, el trazado del tracto corticoespinal en personas con pérdida de señal severa dejó de ser significativamente menos completo que en personas con pérdida mínima. El estudio se publicó en Medical Image Analysis, con Shuo Huang y Lujia Zhong como coprimeros autores y Yonggang Shi como autor sénior."
               },
               {
                 "t": "p",
-                "x": "“Aunque lo ajustes con solo unos pocos datos para la tarea que te interesa, aún puedes obtener un buen rendimiento”, dice Zalte. En 58 casos de prueba, “vemos que nuestro modelo queda en primer lugar”."
+                "x": "Los autores subrayan que los datos restaurados son \"estimaciones fundamentadas, no mediciones recuperadas\", que el método aún debe probarse en otros escáneres y configuraciones y que \"no se ha evaluado para la atención a pacientes\". El código está disponible en GitHub."
               }
             ]
           }
@@ -1069,15 +1099,15 @@
       }
     },
     {
-      "id": "mitomatch-alphafold-mito-screen",
+      "id": "science-ai-overviews-unsupported",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AlphaFold가 찾은\n미토콘드리아 숨은 연결",
-      "body": "AlphaFold-Multimer가 약 630,000쌍 중 2,895건을 예측했다.",
-      "mini_headline": "AI가 그린 미토콘드리아 단백질 지도",
+      "headline": "AI Overview 주장\n아홉 중 하나는 근거 없다",
+      "body": "Google AI Overviews 주장 아홉 건 중 하나는 출처 근거가 없었다.",
+      "mini_headline": "AI Overviews, 출처 근거 부족",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-11-ai-disease-hidden-mitochondria.html",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/how-google-ai-search-summaries-alter-online-information-and-publisher-revenue/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -1085,179 +1115,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-27.jpg",
-            "cap": "AlphaFold-Multimer를 분류 모델로 써서 미토콘드리아 단백질 간 상호작용을 예측한다. Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77112-z"
+            "src": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg",
+            "cap": "[Adobe Stock]"
           },
           {
             "t": "p",
-            "x": "Texas A&M AgriLife Research 연구진은 Google DeepMind의 AI 도구 AlphaFold-Multimer로 사람 미토콘드리아 단백질 약 1,100개 사이에서 나올 수 있는 쌍 약 630,000개를 걸러 냈다. 단백질끼리 어떻게 결합할지 예측하는 도구다."
+            "x": "Washington University in St. Louis의 Haofei Xu, Umar Iqbal, Jacob M. Montgomery가 arXiv에 사전 공개한 논문에 따르면, Google의 AI-generated 검색 요약은 신뢰도 높은 출처에 자주 기대면서도 사실 주장 약 아홉 건 중 한 건꼴로 검증되지 않은 정보를 내놓는다."
           },
           {
             "t": "p",
-            "x": "가능성 높은 상호작용 2,895건이 나왔고, 그중 절반 이상은 이전에 보고된 적이 없다. 기능이 알려지지 않았던 단백질 85개도 유력한 결합 상대를 얻었으며 일부는 효모와 사람 세포에서 확인됐다."
+            "x": "연구팀은 2026년 초 40일 동안 19개 주제 범주의 Google 인기 검색어 55,393개를 돌렸다. AI Overviews는 전체 검색어의 13.7퍼센트에서 떴다. 직접 묻는 형태의 검색어에서는 64.7퍼센트, 일반 키워드 검색에서는 9.5퍼센트였고 정치적으로 민감한 주제에서는 거의 나오지 않았다."
           },
           {
             "t": "p",
-            "x": "제1저자 Abhinav Swaminathan은 “이 개별 단백질들의 기능을 모르면, 이들이 일으킬 수 있는 질병을 어떻게 치료할지 정할 수 없다”고 말했다. 그는 치료법까지는 아직 멀었겠지만 이 접근법이 실질적인 출발점이 된다고 덧붙였다."
+            "x": "인용된 도메인은 일반 첫 페이지 검색 결과보다 꾸준히 신뢰도가 높았다. 하지만 인용된 웹사이트의 거의 30퍼센트는 일반 검색 결과 첫 페이지 어디에도 없었다. 개별 사실 주장 98,020건 가운데 11퍼센트는 인용 페이지가 뒷받침하지 않았는데, 대부분 누락 탓이었다. 출처 신뢰도와 정확도 사이에 통계적 관계는 없었다."
           },
           {
             "t": "p",
-            "x": "연구팀은 예측 결과를 MitoMatch라는 이름의 무료 자료로 공개했다. 연구는 Nature Communications에 실렸다."
+            "x": "인용된 페이지의 절반 이상에 디지털 광고가 붙어 있어 클릭이 줄면 언론사 광고 수익도 줄어든다. 그사이 Google은 요약 옆에, 때로는 그 위에 자사 스폰서 광고를 계속 내건다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AlphaFold maps hidden links\namong mitochondrial proteins",
-          "body": "A Texas A&M AlphaFold-Multimer screen of about 630,000 protein pairs predicted 2,895 likely mitochondrial interactions.",
-          "mini_headline": "AI maps mitochondrial proteins",
+          "headline": "One in nine AI Overview claims\nlacks support in its sources",
+          "body": "An analysis of Google's AI Overviews found one in nine generated claims unsupported by the sources the summary cited.",
+          "mini_headline": "AI Overviews miss sources",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-27.jpg",
-                "cap": "Using AlphaFold-Multimer as a classification model to predict mitochondrial protein-protein interactions. Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77112-z"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg",
+                "cap": "[Adobe Stock]"
               },
               {
                 "t": "p",
-                "x": "Texas A&M AgriLife Research scientists used AlphaFold-Multimer, a Google DeepMind AI tool that predicts how proteins bind together, to screen about 630,000 possible pairs among roughly 1,100 human mitochondrial proteins."
+                "x": "Google’s AI-generated search summaries frequently rely on highly credible sources, but they still produce unverified information in about one out of every nine factual claims, according to an arXiv preprint by Haofei Xu, Umar Iqbal and Jacob M. Montgomery of Washington University in St. Louis."
               },
               {
                 "t": "p",
-                "x": "They identified 2,895 likely interactions, more than half of which had not been reported before. The predictions gave 85 previously uncharacterized proteins probable partners, and several were confirmed in yeast and human cells."
+                "x": "Over a 40-day period in early 2026, the team ran 55,393 trending Google queries across 19 topical categories. AI Overviews activated on 13.7 percent of all queries — 64.7 percent for queries phrased as direct questions versus 9.5 percent for standard keyword searches — and rarely for politically sensitive subjects."
               },
               {
                 "t": "p",
-                "x": "“If we don't know the function of these individual proteins, we cannot determine how to treat the diseases they may cause,” said lead author Abhinav Swaminathan, noting that cures are likely still far off but the approach offers a practical starting point."
+                "x": "Cited domains were consistently more credible than standard first-page results, yet almost 30 percent of cited websites did not appear anywhere on the first page of regular results. Of 98,020 individual factual claims, 11 percent were not supported by the cited pages, mostly through omissions; source credibility had no statistical relationship to accuracy."
               },
               {
                 "t": "p",
-                "x": "The team released the predictions as a free resource called MitoMatch. The study appears in Nature Communications."
+                "x": "More than half of the cited pages contained digital advertisements, so suppressed clicks mean lost ad revenue for publishers, while Google continues to display its own sponsored ads alongside — sometimes above — the summaries."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AlphaFold가 찾은\n미토콘드리아 숨은 연결",
-          "body": "AlphaFold-Multimer가 약 630,000쌍 중 2,895건을 예측했다.",
-          "mini_headline": "AI가 그린 미토콘드리아 단백질 지도",
+          "headline": "AI Overview 주장\n아홉 중 하나는 근거 없다",
+          "body": "Google AI Overviews 주장 아홉 건 중 하나는 출처 근거가 없었다.",
+          "mini_headline": "AI Overviews, 출처 근거 부족",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-27.jpg",
-                "cap": "AlphaFold-Multimer를 분류 모델로 써서 미토콘드리아 단백질 간 상호작용을 예측한다. Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77112-z"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg",
+                "cap": "[Adobe Stock]"
               },
               {
                 "t": "p",
-                "x": "Texas A&M AgriLife Research 연구진은 Google DeepMind의 AI 도구 AlphaFold-Multimer로 사람 미토콘드리아 단백질 약 1,100개 사이에서 나올 수 있는 쌍 약 630,000개를 걸러 냈다. 단백질끼리 어떻게 결합할지 예측하는 도구다."
+                "x": "Washington University in St. Louis의 Haofei Xu, Umar Iqbal, Jacob M. Montgomery가 arXiv에 사전 공개한 논문에 따르면, Google의 AI-generated 검색 요약은 신뢰도 높은 출처에 자주 기대면서도 사실 주장 약 아홉 건 중 한 건꼴로 검증되지 않은 정보를 내놓는다."
               },
               {
                 "t": "p",
-                "x": "가능성 높은 상호작용 2,895건이 나왔고, 그중 절반 이상은 이전에 보고된 적이 없다. 기능이 알려지지 않았던 단백질 85개도 유력한 결합 상대를 얻었으며 일부는 효모와 사람 세포에서 확인됐다."
+                "x": "연구팀은 2026년 초 40일 동안 19개 주제 범주의 Google 인기 검색어 55,393개를 돌렸다. AI Overviews는 전체 검색어의 13.7퍼센트에서 떴다. 직접 묻는 형태의 검색어에서는 64.7퍼센트, 일반 키워드 검색에서는 9.5퍼센트였고 정치적으로 민감한 주제에서는 거의 나오지 않았다."
               },
               {
                 "t": "p",
-                "x": "제1저자 Abhinav Swaminathan은 “이 개별 단백질들의 기능을 모르면, 이들이 일으킬 수 있는 질병을 어떻게 치료할지 정할 수 없다”고 말했다. 그는 치료법까지는 아직 멀었겠지만 이 접근법이 실질적인 출발점이 된다고 덧붙였다."
+                "x": "인용된 도메인은 일반 첫 페이지 검색 결과보다 꾸준히 신뢰도가 높았다. 하지만 인용된 웹사이트의 거의 30퍼센트는 일반 검색 결과 첫 페이지 어디에도 없었다. 개별 사실 주장 98,020건 가운데 11퍼센트는 인용 페이지가 뒷받침하지 않았는데, 대부분 누락 탓이었다. 출처 신뢰도와 정확도 사이에 통계적 관계는 없었다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 예측 결과를 MitoMatch라는 이름의 무료 자료로 공개했다. 연구는 Nature Communications에 실렸다."
+                "x": "인용된 페이지의 절반 이상에 디지털 광고가 붙어 있어 클릭이 줄면 언론사 광고 수익도 줄어든다. 그사이 Google은 요약 옆에, 때로는 그 위에 자사 스폰서 광고를 계속 내건다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AlphaFoldが描く\nミトコンドリアの隠れた関係",
-          "body": "AlphaFold-Multimerが約630,000対から相互作用2,895件を予測した。",
-          "mini_headline": "AIがミトコンドリアのタンパク質を解析",
+          "headline": "AI Overviewの主張\n九件に一件は出典の裏付けなし",
+          "body": "GoogleのAI Overviewsでは主張の九件に一件が引用元の裏付けを欠いた。",
+          "mini_headline": "AI Overviews、出典の裏付け欠く",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-27.jpg",
-                "cap": "AlphaFold-Multimerを分類モデルとして使い、ミトコンドリアのタンパク質間相互作用を予測する。Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77112-z"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg",
+                "cap": "[Adobe Stock]"
               },
               {
                 "t": "p",
-                "x": "Texas A&M AgriLife Researchの研究者らは、タンパク質同士の結合の仕方を予測するGoogle DeepMindのAIツールAlphaFold-Multimerを使い、ヒトのミトコンドリアタンパク質約1,100個の間で考えられる約630,000組のペアを調べた。"
+                "x": "Washington University in St. LouisのHaofei Xu、Umar Iqbal、Jacob M. MontgomeryによるarXivのプレプリントによると、GoogleのAI-generated 検索要約は信頼性の高い情報源に頼ることが多いものの、事実に関する主張のおよそ九件に一件で未検証の情報を生成している。"
               },
               {
                 "t": "p",
-                "x": "その結果、2,895件の相互作用の可能性が見つかり、その半数以上はこれまで報告されていなかった。予測によって、機能が未解明だった85個のタンパク質に有力な相手が見つかり、いくつかは酵母とヒトの細胞で確認された。"
+                "x": "研究チームは2026年初めの40日間、19の分野にわたるGoogleの急上昇クエリ55,393件を実行した。AI Overviewsが表示されたのは全クエリの13.7パーセントで、直接的な質問形式のクエリでは64.7パーセント、通常のキーワード検索では9.5パーセントだった。政治的に敏感なテーマではほとんど表示されなかった。"
               },
               {
                 "t": "p",
-                "x": "「個々のタンパク質の機能がわからなければ、それらが引き起こしうる病気の治療法を決められない」と筆頭著者のAbhinav Swaminathan氏は述べ、治療法の実現はまだ先になりそうだが、この手法は実用的な出発点になると指摘した。"
+                "x": "引用されたドメインは通常の検索結果の先頭ページより一貫して信頼性が高かったが、引用されたウェブサイトのほぼ30パーセントは通常の検索結果の先頭ページのどこにも現れなかった。個々の事実に関する主張98,020件のうち11パーセントは引用ページに裏付けられておらず、その大半は情報の欠落によるものだった。情報源の信頼性と正確さの間に統計的な関係はなかった。"
               },
               {
                 "t": "p",
-                "x": "チームは予測結果をMitoMatchという無料のリソースとして公開した。研究はNature Communicationsに掲載された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AlphaFold揭示\n线粒体蛋白隐藏关联",
-          "body": "AlphaFold-Multimer筛查约630,000对蛋白，预测2,895个相互作用。",
-          "mini_headline": "AI绘制线粒体蛋白质图谱",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-27.jpg",
-                "cap": "将AlphaFold-Multimer用作分类模型，预测线粒体蛋白质间的相互作用。Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77112-z"
-              },
-              {
-                "t": "p",
-                "x": "Texas A&M AgriLife Research的科学家利用Google DeepMind开发、可预测蛋白质如何相互结合的AI工具AlphaFold-Multimer，在约1,100种人类线粒体蛋白质之间筛查了约630,000个可能的配对。"
-              },
-              {
-                "t": "p",
-                "x": "他们识别出2,895个可能的相互作用，其中一半以上此前未见报道。预测结果为85个此前功能未明的蛋白质找到了可能的伙伴，其中数个已在酵母和人类细胞中得到证实。"
-              },
-              {
-                "t": "p",
-                "x": "第一作者Abhinav Swaminathan说：“如果我们不了解这些单个蛋白质的功能，就无法确定如何治疗它们可能引发的疾病。”他指出，治愈手段可能仍很遥远，但这一方法提供了切实的起点。"
-              },
-              {
-                "t": "p",
-                "x": "团队将预测结果作为名为MitoMatch的免费资源发布。该研究发表于Nature Communications。"
+                "x": "引用ページの半数以上にデジタル広告が掲載されており、クリックが減ればパブリッシャーの広告収入が失われる。一方でGoogleは要約の横に、時には上に、自社のスポンサー広告を表示し続けている。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AlphaFold halla nexos ocultos\nentre proteínas mitocondriales",
-          "body": "Un cribado de Texas A&M con AlphaFold-Multimer en unos 630,000 pares predijo 2,895 interacciones mitocondriales.",
-          "mini_headline": "La AI mapea proteínas mitocondriales",
+          "headline": "Una de cada nueve afirmaciones\nde AI Overview no tiene respaldo",
+          "body": "Un análisis de AI Overviews de Google halló una de cada nueve afirmaciones sin respaldo en las fuentes citadas.",
+          "mini_headline": "AI Overviews sin respaldo en fuentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-27.jpg",
-                "cap": "Uso de AlphaFold-Multimer como modelo de clasificación para predecir interacciones proteína-proteína mitocondriales. Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77112-z"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg",
+                "cap": "[Adobe Stock]"
               },
               {
                 "t": "p",
-                "x": "Científicos de Texas A&M AgriLife Research usaron AlphaFold-Multimer, una herramienta de AI de Google DeepMind que predice cómo se unen las proteínas, para cribar unos 630,000 pares posibles entre aproximadamente 1,100 proteínas mitocondriales humanas."
+                "x": "Los resúmenes de búsqueda AI-generated (generados por AI) de Google suelen apoyarse en fuentes muy creíbles, pero aun así producen información no verificada en aproximadamente una de cada nueve afirmaciones factuales, según una prepublicación en arXiv de Haofei Xu, Umar Iqbal y Jacob M. Montgomery, de la Washington University in St. Louis."
               },
               {
                 "t": "p",
-                "x": "Identificaron 2,895 interacciones probables, más de la mitad de las cuales no se habían descrito antes. Las predicciones asignaron socios probables a 85 proteínas hasta ahora sin caracterizar, y varias se confirmaron en células de levadura y humanas."
+                "x": "Durante un periodo de 40 días a principios de 2026, el equipo ejecutó 55,393 consultas populares de Google en 19 categorías temáticas. AI Overviews se activó en el 13.7 por ciento de todas las consultas —el 64.7 por ciento en las formuladas como preguntas directas frente al 9.5 por ciento en las búsquedas estándar por palabras clave— y rara vez en temas políticamente sensibles."
               },
               {
                 "t": "p",
-                "x": "“Si no conocemos la función de estas proteínas individuales, no podemos determinar cómo tratar las enfermedades que pueden causar”, dijo el autor principal, Abhinav Swaminathan, quien señaló que las curas probablemente aún están lejos, pero que el enfoque ofrece un punto de partida práctico."
+                "x": "Los dominios citados eran sistemáticamente más creíbles que los resultados habituales de la primera página, pero casi el 30 por ciento de los sitios web citados no aparecía en ninguna parte de la primera página de resultados normales. De 98,020 afirmaciones factuales individuales, el 11 por ciento no estaba respaldado por las páginas citadas, sobre todo por omisiones; la credibilidad de la fuente no tuvo relación estadística con la exactitud."
               },
               {
                 "t": "p",
-                "x": "El equipo publicó las predicciones como un recurso gratuito llamado MitoMatch. El estudio aparece en Nature Communications."
+                "x": "Más de la mitad de las páginas citadas contenían publicidad digital, por lo que la reducción de clics supone pérdida de ingresos publicitarios para los editores, mientras Google sigue mostrando sus propios anuncios patrocinados junto a los resúmenes, y a veces por encima."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI Overview说法中\n九分之一缺乏来源支撑",
+          "body": "分析发现，Google AI Overviews九分之一的生成陈述缺乏所引来源支持。",
+          "mini_headline": "AI Overviews来源缺失",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg",
+                "cap": "[Adobe Stock]"
+              },
+              {
+                "t": "p",
+                "x": "据Washington University in St. Louis（圣路易斯华盛顿大学）的Haofei Xu、Umar Iqbal和Jacob M. Montgomery发表的一篇arXiv预印本，Google的AI-generated（AI生成）搜索摘要常常依赖高可信度来源，但每九条事实陈述中仍约有一条属于未经证实的信息。"
+              },
+              {
+                "t": "p",
+                "x": "研究团队在2026年初的40天里，针对19个主题类别运行了55,393条Google热门查询。AI Overviews在全部查询中的触发率为13.7%——以直接问句提出的查询为64.7%，标准关键词搜索则为9.5%——而涉及政治敏感话题时极少触发。"
+              },
+              {
+                "t": "p",
+                "x": "被引用域名的可信度始终高于常规首页结果，但近百分之三十的被引网站根本没有出现在常规结果首页。在98,020条单独事实陈述中，百分之十一得不到所引页面的支持，主要源于遗漏；来源可信度与准确性之间不存在统计关联。"
+              },
+              {
+                "t": "p",
+                "x": "超过一半的被引页面含有数字广告，因此点击减少意味着出版商损失广告收入，而Google仍在摘要旁边——有时甚至在其上方——展示自家赞助广告。"
               }
             ]
           }
@@ -1265,125 +1295,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AlphaFold가 밝힌\n미토콘드리아 숨은 연결",
-          "body": "AlphaFold-Multimer가 약 630,000쌍에서 2,895건을 예측했다.",
-          "mini_headline": "AI가 그린 미토콘드리아 단백질 지도",
+          "headline": "AI Overview 주장\n아홉 중 하나는 근거 없다",
+          "body": "Google AI Overviews 주장 아홉 중 하나는 출처 근거가 없었다.",
+          "mini_headline": "AI Overviews, 출처 근거 부족",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-27.jpg",
-                "cap": "AlphaFold-Multimer를 분류 모델로 활용해 미토콘드리아 단백질 간 상호작용을 예측한다. Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77112-z"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg",
+                "cap": "[Adobe Stock]"
               },
               {
                 "t": "p",
-                "x": "Texas A&M AgriLife Research 연구진은 단백질이 서로 어떻게 결합하는지 예측하는 Google DeepMind의 AI 도구 AlphaFold-Multimer를 이용해, 사람 미토콘드리아 단백질 약 1,100개 사이에서 가능한 쌍 약 630,000개를 선별했다."
+                "x": "Washington University in St. Louis의 Haofei Xu, Umar Iqbal, Jacob M. Montgomery가 낸 arXiv 사전 공개 논문에 따르면, Google의 AI-generated 검색 요약은 신뢰도 높은 출처에 자주 기대지만 사실 주장 약 아홉 건 중 한 건꼴로 검증되지 않은 정보를 내놓는다."
               },
               {
                 "t": "p",
-                "x": "연구진은 가능성 높은 상호작용 2,895건을 찾아냈으며, 그중 절반 이상은 이전에 보고된 적이 없다. 이 예측으로 기능이 밝혀지지 않았던 단백질 85개에 유력한 상대가 생겼고, 그중 몇몇은 효모와 사람 세포에서 확인됐다."
+                "x": "연구팀은 2026년 초 40일 동안 19개 주제 범주에 걸친 Google 인기 검색어 55,393개를 실행했다. AI Overviews는 전체 검색어의 13.7퍼센트에서 나타났는데, 직접적인 질문 형태 검색어에서는 64.7퍼센트, 일반 키워드 검색에서는 9.5퍼센트였고, 정치적으로 민감한 주제에서는 거의 나타나지 않았다."
               },
               {
                 "t": "p",
-                "x": "제1저자 Abhinav Swaminathan은 “이 개별 단백질들의 기능을 모르면, 이들이 일으킬 수 있는 질병을 어떻게 치료할지 정할 수 없다”고 말했다. 그는 치료법은 아직 멀었겠지만 이 접근법이 실질적인 출발점이 된다고 덧붙였다."
+                "x": "인용된 도메인은 일반 첫 페이지 검색 결과보다 꾸준히 신뢰도가 높았지만, 인용된 웹사이트의 거의 30퍼센트는 일반 검색 결과 첫 페이지 어디에도 없었다. 개별 사실 주장 98,020건 가운데 11퍼센트는 인용 페이지가 뒷받침하지 않았고 대부분 누락 때문이었다. 출처 신뢰도와 정확도 사이에는 통계적 관계가 없었다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 예측 결과를 MitoMatch라는 무료 자료로 공개했다. 연구는 Nature Communications에 실렸다."
+                "x": "인용된 페이지의 절반 이상에 디지털 광고가 있어, 클릭이 줄면 언론사의 광고 수익 손실로 이어진다. 그사이 Google은 요약 옆에, 때로는 그 위에 자사 스폰서 광고를 계속 내보낸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AlphaFoldが描く\nミトコンドリアの隠れた関係",
-          "body": "AlphaFold-Multimerが約630,000対から相互作用2,895件を予測した。",
-          "mini_headline": "AIがミトコンドリアのタンパク質を解析",
+          "headline": "AI Overviewの主張\n九件に一件は出典の裏付けなし",
+          "body": "GoogleのAI Overviewsでは主張の九件に一件が引用元の裏付けを欠いた。",
+          "mini_headline": "AI Overviews、出典の裏付け欠く",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-27.jpg",
-                "cap": "AlphaFold-Multimerを分類モデルとして使い、ミトコンドリアのタンパク質間相互作用を予測する。Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77112-z"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg",
+                "cap": "[Adobe Stock]"
               },
               {
                 "t": "p",
-                "x": "Texas A&M AgriLife Researchの研究者らは、タンパク質同士の結合の仕方を予測するGoogle DeepMindのAIツールAlphaFold-Multimerを使い、ヒトのミトコンドリアタンパク質約1,100個の間で考えられる約630,000組のペアを調べた。"
+                "x": "Washington University in St. LouisのHaofei Xu、Umar Iqbal、Jacob M. MontgomeryによるarXivのプレプリントによると、GoogleのAI-generated 検索要約は信頼性の高い情報源に頼ることが多いものの、事実に関する主張のおよそ九件に一件で未検証の情報を生成している。"
               },
               {
                 "t": "p",
-                "x": "その結果、2,895件の相互作用の可能性が見つかり、その半数以上はこれまで報告されていなかった。予測によって、機能が未解明だった85個のタンパク質に有力な相手が見つかり、いくつかは酵母とヒトの細胞で確認された。"
+                "x": "研究チームは2026年初めの40日間、19の分野にわたるGoogleの急上昇クエリ55,393件を実行した。AI Overviewsが表示されたのは全クエリの13.7パーセントで、直接的な質問形式のクエリでは64.7パーセント、通常のキーワード検索では9.5パーセントだった。政治的に敏感なテーマではほとんど表示されなかった。"
               },
               {
                 "t": "p",
-                "x": "「個々のタンパク質の機能がわからなければ、それらが引き起こしうる病気の治療法を決められない」と筆頭著者のAbhinav Swaminathan氏は述べ、治療法の実現はまだ先になりそうだが、この手法は実用的な出発点になると指摘した。"
+                "x": "引用されたドメインは通常の検索結果の先頭ページより一貫して信頼性が高かったが、引用されたウェブサイトのほぼ30パーセントは通常の検索結果の先頭ページのどこにも現れなかった。個々の事実に関する主張98,020件のうち11パーセントは引用ページに裏付けられておらず、その大半は情報の欠落によるものだった。情報源の信頼性と正確さの間に統計的な関係はなかった。"
               },
               {
                 "t": "p",
-                "x": "チームは予測結果をMitoMatchという無料のリソースとして公開した。研究はNature Communicationsに掲載された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AlphaFold揭示\n线粒体蛋白隐藏关联",
-          "body": "AlphaFold-Multimer筛查约630,000对蛋白，预测2,895个相互作用。",
-          "mini_headline": "AI绘制线粒体蛋白质图谱",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-27.jpg",
-                "cap": "将AlphaFold-Multimer用作分类模型，预测线粒体蛋白质间的相互作用。Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77112-z"
-              },
-              {
-                "t": "p",
-                "x": "Texas A&M AgriLife Research的科学家利用Google DeepMind开发、可预测蛋白质如何相互结合的AI工具AlphaFold-Multimer，在约1,100种人类线粒体蛋白质之间筛查了约630,000个可能的配对。"
-              },
-              {
-                "t": "p",
-                "x": "他们识别出2,895个可能的相互作用，其中一半以上此前未见报道。预测结果为85个此前功能未明的蛋白质找到了可能的伙伴，其中数个已在酵母和人类细胞中得到证实。"
-              },
-              {
-                "t": "p",
-                "x": "第一作者Abhinav Swaminathan说：“如果我们不了解这些单个蛋白质的功能，就无法确定如何治疗它们可能引发的疾病。”他指出，治愈手段可能仍很遥远，但这一方法提供了切实的起点。"
-              },
-              {
-                "t": "p",
-                "x": "团队将预测结果作为名为MitoMatch的免费资源发布。该研究发表于Nature Communications。"
+                "x": "引用ページの半数以上にデジタル広告が掲載されており、クリックが減ればパブリッシャーの広告収入が失われる。一方でGoogleは要約の横に、時には上に、自社のスポンサー広告を表示し続けている。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AlphaFold halla nexos ocultos\nentre proteínas mitocondriales",
-          "body": "Un cribado de Texas A&M con AlphaFold-Multimer en unos 630,000 pares predijo 2,895 interacciones mitocondriales.",
-          "mini_headline": "La AI mapea proteínas mitocondriales",
+          "headline": "Una de cada nueve afirmaciones\nde AI Overview no tiene respaldo",
+          "body": "Un análisis de AI Overviews de Google halló una de cada nueve afirmaciones sin respaldo en las fuentes citadas.",
+          "mini_headline": "AI Overviews sin respaldo en fuentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-27.jpg",
-                "cap": "Uso de AlphaFold-Multimer como modelo de clasificación para predecir interacciones proteína-proteína mitocondriales. Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77112-z"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg",
+                "cap": "[Adobe Stock]"
               },
               {
                 "t": "p",
-                "x": "Científicos de Texas A&M AgriLife Research usaron AlphaFold-Multimer, una herramienta de AI de Google DeepMind que predice cómo se unen las proteínas, para cribar unos 630,000 pares posibles entre aproximadamente 1,100 proteínas mitocondriales humanas."
+                "x": "Los resúmenes de búsqueda AI-generated (generados por AI) de Google suelen apoyarse en fuentes muy creíbles, pero aun así producen información no verificada en aproximadamente una de cada nueve afirmaciones factuales, según una prepublicación en arXiv de Haofei Xu, Umar Iqbal y Jacob M. Montgomery, de la Washington University in St. Louis."
               },
               {
                 "t": "p",
-                "x": "Identificaron 2,895 interacciones probables, más de la mitad de las cuales no se habían descrito antes. Las predicciones asignaron socios probables a 85 proteínas hasta ahora sin caracterizar, y varias se confirmaron en células de levadura y humanas."
+                "x": "Durante un periodo de 40 días a principios de 2026, el equipo ejecutó 55,393 consultas populares de Google en 19 categorías temáticas. AI Overviews se activó en el 13.7 por ciento de todas las consultas —el 64.7 por ciento en las formuladas como preguntas directas frente al 9.5 por ciento en las búsquedas estándar por palabras clave— y rara vez en temas políticamente sensibles."
               },
               {
                 "t": "p",
-                "x": "“Si no conocemos la función de estas proteínas individuales, no podemos determinar cómo tratar las enfermedades que pueden causar”, dijo el autor principal, Abhinav Swaminathan, quien señaló que las curas probablemente aún están lejos, pero que el enfoque ofrece un punto de partida práctico."
+                "x": "Los dominios citados eran sistemáticamente más creíbles que los resultados habituales de la primera página, pero casi el 30 por ciento de los sitios web citados no aparecía en ninguna parte de la primera página de resultados normales. De 98,020 afirmaciones factuales individuales, el 11 por ciento no estaba respaldado por las páginas citadas, sobre todo por omisiones; la credibilidad de la fuente no tuvo relación estadística con la exactitud."
               },
               {
                 "t": "p",
-                "x": "El equipo publicó las predicciones como un recurso gratuito llamado MitoMatch. El estudio aparece en Nature Communications."
+                "x": "Más de la mitad de las páginas citadas contenían publicidad digital, por lo que la reducción de clics supone pérdida de ingresos publicitarios para los editores, mientras Google sigue mostrando sus propios anuncios patrocinados junto a los resúmenes, y a veces por encima."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI Overview说法中\n九分之一缺乏来源支撑",
+          "body": "分析发现，Google AI Overviews九分之一的生成陈述缺乏所引来源支持。",
+          "mini_headline": "AI Overviews来源缺失",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg",
+                "cap": "[Adobe Stock]"
+              },
+              {
+                "t": "p",
+                "x": "据Washington University in St. Louis（圣路易斯华盛顿大学）的Haofei Xu、Umar Iqbal和Jacob M. Montgomery发表的一篇arXiv预印本，Google的AI-generated（AI生成）搜索摘要常常依赖高可信度来源，但每九条事实陈述中仍约有一条属于未经证实的信息。"
+              },
+              {
+                "t": "p",
+                "x": "研究团队在2026年初的40天里，针对19个主题类别运行了55,393条Google热门查询。AI Overviews在全部查询中的触发率为13.7%——以直接问句提出的查询为64.7%，标准关键词搜索则为9.5%——而涉及政治敏感话题时极少触发。"
+              },
+              {
+                "t": "p",
+                "x": "被引用域名的可信度始终高于常规首页结果，但近百分之三十的被引网站根本没有出现在常规结果首页。在98,020条单独事实陈述中，百分之十一得不到所引页面的支持，主要源于遗漏；来源可信度与准确性之间不存在统计关联。"
+              },
+              {
+                "t": "p",
+                "x": "超过一半的被引页面含有数字广告，因此点击减少意味着出版商损失广告收入，而Google仍在摘要旁边——有时甚至在其上方——展示自家赞助广告。"
               }
             ]
           }
@@ -1391,15 +1421,15 @@
       }
     },
     {
-      "id": "sydney-riddled-basins-training",
+      "id": "science-titanium-print-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "프랙털 분지에 막힌\nAI 학습 예측 가능성",
-      "body": "초기값을 한 비트만 바꿔도 이미지 인식 신경망 학습이 약 48% 확률로 달라졌다.",
-      "mini_headline": "프랙털이 막는 AI 예측 가능성",
+      "headline": "AI, 3D-printed\n티타늄 설정 탐색 좁힌다",
+      "body": "AI가 생산 전에 티타늄 부품 3D-printing 설정을 좁혀 시행착오를 던다.",
+      "mini_headline": "AI, 티타늄 프린팅 최적화",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-11-fractal-patterns-reveal-hidden-limits.html",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-11-ai-recipes-3d-titanium.html",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
@@ -1407,179 +1437,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sydney-researchers-unc.jpg",
-            "cap": "Credit: Professor Pulin Gong/The University of Sydney"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg",
+            "cap": "그래픽 초록(Graphical abstract). Credit: International Journal of Precision Engineering and Manufacturing (2025). DOI: 10.1007/s12541-025-01360-0"
           },
           {
             "t": "p",
-            "x": "University of Sydney의 Pulin Gong과 Andrew Ly는 Nature Machine Intelligence에 실은 연구에서 AI가 예측을 벗어나는 원인 일부가 하드웨어나 데이터 순서의 잡음이 아니라 신경망 학습의 수학 자체에 있다고 밝혔다."
+            "x": "Istanbul Technical University와 Gazi University, 협력 기관 연구진이 티타늄 합금 Ti6Al4V의 선택적 레이저 용융에 쓸 설명 가능한 머신러닝 프레임워크를 만들었다. 생산 테스트 전에 프린팅 설정 탐색 범위를 좁혀 불필요한 시행착오를 줄이는 게 목표다."
           },
           {
             "t": "p",
-            "x": "학습 결과를 가르는 초기 조건 영역은 ‘구멍 난 분지(riddled basins)’라는 복잡한 프랙털을 이룬다. 초기 조건이 아주 조금만 달라도 결과가 바뀔 수 있는 이유다. “우리 연구 결과는 더 깊은 무언가를 가리킨다.”"
+            "x": "연구진은 기존 발표 연구에서 실험 기록 201건을 모아 레이저 출력, 스캔 속도, 층 두께, 해치 간격, 레이저 스폿 크기, 분말 크기 등 여섯 변수를 항복강도, 극한 인장강도, 연신율과 연결했다. 여러 머신러닝 기법 중 인공신경망의 예측이 가장 일관됐고, SHAP 분석은 각 변수가 예측에 준 영향을 보여 줬다."
           },
           {
             "t": "p",
-            "x": "한 이미지 인식 신경망은 초기 설정을 100억 배 더 정밀하게 맞춰도 재현성이 나아지지 않았다. 한 비트만 바꿔도 약 48%의 경우 다른 구성에 도달했다. 학습된 신경망 약 500,000개 전반에서 이런 패턴이 폭넓게 나타났다."
-          },
-          {
-            "t": "p",
-            "x": "상충 관계도 드러났다. 가장 잘 작동하는 학습 설정일수록 결과를 재현하기 어렵고, 학습률을 낮추면 재현성은 나아지지만 학습 효과는 떨어진다."
+            "x": "역설계 인터페이스에 목표 강도와 연성을 넣으면 시험해 볼 공정 설정을 제안한다. 지도교수 Hüseyin Kızıl은 이를 \"공정 창을 좁히는 데이터 기반 의사결정 도구\"라고 설명했다. 연구진은 이 도구가 \"물리적 시험, 품질 보증, 인증을 대체하려는 것이 아니다\"라고 강조했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Fractal basins limit how\npredictable AI training is",
-          "body": "In one image-recognition network, a one-bit change in starting settings redirected training in about 48% of cases.",
-          "mini_headline": "Fractals cap AI predictability",
+          "headline": "AI narrows the search for\n3D-printed titanium settings",
+          "body": "A study shows AI can narrow 3D-printing settings for titanium parts before production, cutting trial and error.",
+          "mini_headline": "AI tunes titanium printing",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sydney-researchers-unc.jpg",
-                "cap": "Credit: Professor Pulin Gong/The University of Sydney"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg",
+                "cap": "Graphical abstract. Credit: International Journal of Precision Engineering and Manufacturing (2025). DOI: 10.1007/s12541-025-01360-0"
               },
               {
                 "t": "p",
-                "x": "University of Sydney researchers Pulin Gong and Andrew Ly, publishing in Nature Machine Intelligence, found that some AI unpredictability comes from the mathematics of neural network training rather than from hardware or data-ordering noise."
+                "x": "Researchers from Istanbul Technical University, Gazi University and partner institutions built an explainable machine-learning framework for selective laser melting of the titanium alloy Ti6Al4V, aiming to narrow the search for printing settings before production testing begins and reduce unnecessary trial and error."
               },
               {
                 "t": "p",
-                "x": "The regions of starting conditions that lead to different training outcomes form intricate fractals called ‘riddled basins’, so tiny differences in starting conditions can produce different results. “Our findings point to something deeper.”"
+                "x": "They compiled 201 experimental records from published studies linking six parameters — laser power, scanning speed, layer thickness, hatch spacing, laser spot size and powder size — to yield strength, ultimate tensile strength and elongation. Of several machine-learning approaches, an artificial neural network gave the most consistent predictions, and SHAP analysis showed how each parameter shaped them."
               },
               {
                 "t": "p",
-                "x": "In one image-recognition network, making starting settings 10 billion times more precise did not improve reproducibility, and a one-bit change led to a different configuration in about 48% of cases. Across roughly 500,000 trained networks, the pattern appeared widely."
-              },
-              {
-                "t": "p",
-                "x": "They also found a trade-off: the learning settings that work best make outcomes harder to reproduce, and lowering the learning rate improves reproducibility at the cost of learning effectiveness."
+                "x": "A reverse-design interface takes target strength and ductility and suggests process settings to test. Supervisor Hüseyin Kızıl describes it as \"a data-driven decision tool to narrow the process window\"; the researchers stress it \"is not intended to replace physical testing, quality assurance or certification.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "프랙털 분지에 막힌\nAI 학습 예측 가능성",
-          "body": "초기값을 한 비트만 바꿔도 이미지 인식 신경망 학습이 약 48% 확률로 달라졌다.",
-          "mini_headline": "프랙털이 막는 AI 예측 가능성",
+          "headline": "AI, 3D-printed\n티타늄 설정 탐색 좁힌다",
+          "body": "AI가 생산 전에 티타늄 부품 3D-printing 설정을 좁혀 시행착오를 던다.",
+          "mini_headline": "AI, 티타늄 프린팅 최적화",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sydney-researchers-unc.jpg",
-                "cap": "Credit: Professor Pulin Gong/The University of Sydney"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg",
+                "cap": "그래픽 초록(Graphical abstract). Credit: International Journal of Precision Engineering and Manufacturing (2025). DOI: 10.1007/s12541-025-01360-0"
               },
               {
                 "t": "p",
-                "x": "University of Sydney의 Pulin Gong과 Andrew Ly는 Nature Machine Intelligence에 실은 연구에서 AI가 예측을 벗어나는 원인 일부가 하드웨어나 데이터 순서의 잡음이 아니라 신경망 학습의 수학 자체에 있다고 밝혔다."
+                "x": "Istanbul Technical University와 Gazi University, 협력 기관 연구진이 티타늄 합금 Ti6Al4V의 선택적 레이저 용융에 쓸 설명 가능한 머신러닝 프레임워크를 만들었다. 생산 테스트 전에 프린팅 설정 탐색 범위를 좁혀 불필요한 시행착오를 줄이는 게 목표다."
               },
               {
                 "t": "p",
-                "x": "학습 결과를 가르는 초기 조건 영역은 ‘구멍 난 분지(riddled basins)’라는 복잡한 프랙털을 이룬다. 초기 조건이 아주 조금만 달라도 결과가 바뀔 수 있는 이유다. “우리 연구 결과는 더 깊은 무언가를 가리킨다.”"
+                "x": "연구진은 기존 발표 연구에서 실험 기록 201건을 모아 레이저 출력, 스캔 속도, 층 두께, 해치 간격, 레이저 스폿 크기, 분말 크기 등 여섯 변수를 항복강도, 극한 인장강도, 연신율과 연결했다. 여러 머신러닝 기법 중 인공신경망의 예측이 가장 일관됐고, SHAP 분석은 각 변수가 예측에 준 영향을 보여 줬다."
               },
               {
                 "t": "p",
-                "x": "한 이미지 인식 신경망은 초기 설정을 100억 배 더 정밀하게 맞춰도 재현성이 나아지지 않았다. 한 비트만 바꿔도 약 48%의 경우 다른 구성에 도달했다. 학습된 신경망 약 500,000개 전반에서 이런 패턴이 폭넓게 나타났다."
-              },
-              {
-                "t": "p",
-                "x": "상충 관계도 드러났다. 가장 잘 작동하는 학습 설정일수록 결과를 재현하기 어렵고, 학습률을 낮추면 재현성은 나아지지만 학습 효과는 떨어진다."
+                "x": "역설계 인터페이스에 목표 강도와 연성을 넣으면 시험해 볼 공정 설정을 제안한다. 지도교수 Hüseyin Kızıl은 이를 \"공정 창을 좁히는 데이터 기반 의사결정 도구\"라고 설명했다. 연구진은 이 도구가 \"물리적 시험, 품질 보증, 인증을 대체하려는 것이 아니다\"라고 강조했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "フラクタル盆地が\nAI学習の予測可能性を制約",
-          "body": "ある画像認識ネットワークでは、初期設定を一ビット変えると約48%で学習の行方が変わった。",
-          "mini_headline": "フラクタルがAIの予測可能性を制約",
+          "headline": "AIが3D-printed\nチタンの設定探索を絞る",
+          "body": "AIは生産前にチタン部品の3D-printing 設定を絞り込み、試行錯誤を減らせる。",
+          "mini_headline": "AIがチタン印刷を最適化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sydney-researchers-unc.jpg",
-                "cap": "Credit: Professor Pulin Gong/The University of Sydney"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg",
+                "cap": "グラフィカルアブストラクト(Graphical abstract)。Credit: International Journal of Precision Engineering and Manufacturing (2025). DOI: 10.1007/s12541-025-01360-0"
               },
               {
                 "t": "p",
-                "x": "University of SydneyのPulin Gong氏とAndrew Ly氏はNature Machine Intelligenceに発表した研究で、AIの予測不能性の一部が、ハードウェアやデータの順序によるノイズではなく、ニューラルネットワーク訓練の数学そのものに由来することを明らかにした。"
+                "x": "Istanbul Technical University、Gazi Universityと提携機関の研究者らは、チタン合金Ti6Al4Vの選択的レーザー溶融向けに、説明可能な機械学習フレームワークを構築した。生産試験の前に印刷設定の探索範囲を絞り込み、不要な試行錯誤を減らすことを狙う。"
               },
               {
                 "t": "p",
-                "x": "異なる訓練結果につながる初期条件の領域は「riddled basins(穴だらけの盆地)」と呼ばれる複雑なフラクタルを形づくるため、初期条件のごくわずかな差が異なる結果を生みうる。「我々の発見は、より深い何かを示している」。"
+                "x": "研究チームは既発表の研究から201件の実験記録を集め、レーザー出力、走査速度、層厚、ハッチ間隔、レーザースポット径、粉末粒径の六つのパラメータを、降伏強さ、引張強さ、伸びと結び付けた。複数の機械学習手法のうち人工ニューラルネットワークが最も安定した予測を示し、SHAP分析で各パラメータが予測にどう影響したかが示された。"
               },
               {
                 "t": "p",
-                "x": "ある画像認識ネットワークでは、初期設定を100億倍精密にしても再現性は向上せず、一ビットの変更で約48%のケースが異なる構成に至った。約500,000個の訓練済みネットワーク全体で、このパターンは広く見られた。"
-              },
-              {
-                "t": "p",
-                "x": "研究者らはトレードオフも見いだした。最もよく機能する学習設定ほど結果の再現が難しく、学習率を下げると再現性は高まるが、学習の効率は損なわれる。"
+                "x": "逆設計インターフェースは目標とする強度と延性を入力すると、試すべきプロセス設定を提案する。指導教員のHüseyin Kızılはこれを「プロセスウィンドウを絞り込むためのデータ駆動型の意思決定ツール」と説明し、研究者らは「物理試験、品質保証、認証に代わることを意図したものではない」と強調する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "分形吸引盆限制\nAI训练的可预测性",
-          "body": "在一个图像识别网络中，初始设置改动一个比特，约48%的训练会走向不同结果。",
-          "mini_headline": "分形限制AI可预测性",
+          "headline": "AI缩小3D-printed\n钛件参数搜索范围",
+          "body": "研究显示，AI可在生产前缩小钛部件3D-printing 参数范围，减少试错。",
+          "mini_headline": "AI优化钛金属打印",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sydney-researchers-unc.jpg",
-                "cap": "Credit: Professor Pulin Gong/The University of Sydney"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg",
+                "cap": "图形摘要（Graphical abstract）。Credit: International Journal of Precision Engineering and Manufacturing (2025). DOI: 10.1007/s12541-025-01360-0"
               },
               {
                 "t": "p",
-                "x": "悉尼大学（University of Sydney）研究人员Pulin Gong和Andrew Ly在Nature Machine Intelligence上发表研究，发现AI的部分不可预测性源于神经网络训练的数学本身，而非硬件或数据顺序带来的噪声。"
+                "x": "来自Istanbul Technical University、Gazi University及合作机构的研究人员，为钛合金Ti6Al4V的选择性激光熔化构建了一个可解释的机器学习框架，旨在生产测试开始前缩小打印参数的搜索范围，减少不必要的试错。"
               },
               {
                 "t": "p",
-                "x": "通向不同训练结果的初始条件区域构成了被称为“riddled basins”（多孔吸引盆）的复杂分形，因此初始条件的微小差异就可能产生不同结果。“我们的发现指向更深层的东西。”"
+                "x": "他们从已发表研究中汇编了201条实验记录，将激光功率、扫描速度、层厚、填充间距、激光光斑尺寸和粉末粒径这六个参数与屈服强度、极限抗拉强度和伸长率关联起来。在多种机器学习方法中，人工神经网络给出的预测最为一致，SHAP分析则展示了各参数如何影响预测。"
               },
               {
                 "t": "p",
-                "x": "在一个图像识别网络中，将初始设置的精度提高100亿倍并未改善可复现性，而改动一个比特就会在约48%的情况下得到不同的构型。在约500,000个训练好的网络中，这一模式普遍存在。"
-              },
-              {
-                "t": "p",
-                "x": "他们还发现了一种权衡：效果最好的学习设置会让结果更难复现，而降低学习率能提升可复现性，代价是学习效果下降。"
+                "x": "一个逆向设计界面可根据目标强度和延展性，推荐待测试的工艺参数。导师Hüseyin Kızıl将其描述为“缩小工艺窗口的数据驱动决策工具”；研究人员强调，它“并非用来取代物理测试、质量保证或认证”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cuencas fractales limitan cuán\npredecible es entrenar una AI",
-          "body": "En una red de reconocimiento de imágenes, un cambio de un bit desvió el entrenamiento en cerca del 48% de los casos.",
-          "mini_headline": "Los fractales limitan la previsibilidad de la AI",
+          "headline": "La AI acota la búsqueda de\najustes para titanio 3D-printed",
+          "body": "Según un estudio, la AI acota los ajustes de 3D-printing de titanio antes de producir, con menos ensayo y error.",
+          "mini_headline": "La AI ajusta la impresión de titanio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sydney-researchers-unc.jpg",
-                "cap": "Credit: Professor Pulin Gong/The University of Sydney"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg",
+                "cap": "Resumen gráfico (Graphical abstract). Credit: International Journal of Precision Engineering and Manufacturing (2025). DOI: 10.1007/s12541-025-01360-0"
               },
               {
                 "t": "p",
-                "x": "Los investigadores de la University of Sydney Pulin Gong y Andrew Ly, en un estudio publicado en Nature Machine Intelligence, hallaron que parte de la imprevisibilidad de la AI se debe a las matemáticas del entrenamiento de redes neuronales y no al ruido del hardware o del orden de los datos."
+                "x": "Investigadores de la Istanbul Technical University, la Gazi University e instituciones asociadas crearon un marco explicable de aprendizaje automático para la fusión selectiva por láser de la aleación de titanio Ti6Al4V, con el objetivo de acotar la búsqueda de ajustes de impresión antes de que empiecen las pruebas de producción y reducir el ensayo y error innecesario."
               },
               {
                 "t": "p",
-                "x": "Las regiones de condiciones iniciales que llevan a distintos resultados de entrenamiento forman intrincados fractales llamados ‘riddled basins’ (cuencas acribilladas), de modo que diferencias mínimas en las condiciones iniciales pueden producir resultados distintos. “Nuestros hallazgos apuntan a algo más profundo”."
+                "x": "Recopilaron 201 registros experimentales de estudios publicados que vinculan seis parámetros —potencia del láser, velocidad de escaneo, espesor de capa, separación entre pasadas, tamaño del punto láser y tamaño del polvo— con el límite elástico, la resistencia máxima a la tracción y el alargamiento. Entre varios enfoques de aprendizaje automático, una red neuronal artificial ofreció las predicciones más consistentes, y el análisis SHAP mostró cómo influyó cada parámetro en ellas."
               },
               {
                 "t": "p",
-                "x": "En una red de reconocimiento de imágenes, hacer los ajustes iniciales 10.000 millones de veces más precisos no mejoró la reproducibilidad, y un cambio de un bit llevó a una configuración distinta en cerca del 48% de los casos. En unas 500,000 redes entrenadas, el patrón apareció de forma generalizada."
-              },
-              {
-                "t": "p",
-                "x": "También encontraron una disyuntiva: los ajustes de aprendizaje que mejor funcionan hacen que los resultados sean más difíciles de reproducir, y reducir la tasa de aprendizaje mejora la reproducibilidad a costa de la eficacia del aprendizaje."
+                "x": "Una interfaz de diseño inverso recibe la resistencia y la ductilidad objetivo y sugiere ajustes de proceso para probar. El supervisor Hüseyin Kızıl la describe como \"una herramienta de decisión basada en datos para acotar la ventana de proceso\"; los investigadores subrayan que \"no pretende sustituir las pruebas físicas, el aseguramiento de la calidad ni la certificación\"."
               }
             ]
           }
@@ -1587,125 +1593,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "프랙털 분지, AI 학습\n예측 가능성에 한계",
-          "body": "초기값 한 비트만 바꿔도 이미지 인식 신경망 학습이 약 48% 확률로 달라졌다.",
-          "mini_headline": "프랙털이 막는 AI 예측 가능성",
+          "headline": "AI, 3D-printed\n티타늄 설정 탐색 좁힌다",
+          "body": "AI가 생산 전 티타늄 부품 3D-printing 설정을 좁혀 시행착오를 줄인다.",
+          "mini_headline": "AI, 티타늄 프린팅 최적화",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sydney-researchers-unc.jpg",
-                "cap": "Credit: Professor Pulin Gong/The University of Sydney"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg",
+                "cap": "그래픽 초록(Graphical abstract). Credit: International Journal of Precision Engineering and Manufacturing (2025). DOI: 10.1007/s12541-025-01360-0"
               },
               {
                 "t": "p",
-                "x": "University of Sydney의 Pulin Gong과 Andrew Ly는 Nature Machine Intelligence에 발표한 연구에서, AI의 예측 불가능성 일부가 하드웨어나 데이터 순서에서 오는 잡음이 아니라 신경망 학습의 수학 자체에서 비롯된다는 사실을 밝혔다."
+                "x": "Istanbul Technical University, Gazi University와 협력 기관 연구진은 티타늄 합금 Ti6Al4V의 선택적 레이저 용융을 위한 설명 가능한 머신러닝 프레임워크를 구축했다. 생산 테스트에 앞서 프린팅 설정 탐색 범위를 좁히고 불필요한 시행착오를 줄이는 것이 목표다."
               },
               {
                 "t": "p",
-                "x": "서로 다른 학습 결과로 이어지는 초기 조건 영역은 ‘구멍 난 분지(riddled basins)’라는 복잡한 프랙털을 이룬다. 그래서 초기 조건이 아주 조금만 달라도 결과가 달라질 수 있다. “우리 연구 결과는 더 깊은 무언가를 가리킨다.”"
+                "x": "연구진은 기존 발표 연구에서 실험 기록 201건을 모아 레이저 출력, 스캔 속도, 층 두께, 해치 간격, 레이저 스폿 크기, 분말 크기 등 여섯 가지 변수를 항복강도, 극한 인장강도, 연신율과 연결했다. 여러 머신러닝 기법 가운데 인공신경망이 가장 일관된 예측을 내놓았고, SHAP 분석은 각 변수가 예측에 어떤 영향을 미쳤는지 보여 줬다."
               },
               {
                 "t": "p",
-                "x": "한 이미지 인식 신경망에서는 초기 설정을 100억 배 더 정밀하게 해도 재현성이 나아지지 않았고, 한 비트만 바꿔도 약 48%의 경우 다른 구성에 도달했다. 약 500,000개의 학습된 신경망 전반에서 이런 패턴이 폭넓게 나타났다."
-              },
-              {
-                "t": "p",
-                "x": "연구진은 상충 관계도 발견했다. 가장 잘 작동하는 학습 설정일수록 결과를 재현하기 어려우며, 학습률을 낮추면 재현성은 나아지지만 학습 효과는 떨어진다."
+                "x": "역설계 인터페이스는 목표 강도와 연성을 입력받아 시험해 볼 공정 설정을 제안한다. 지도교수 Hüseyin Kızıl은 이를 \"공정 창을 좁히는 데이터 기반 의사결정 도구\"라고 설명했다. 연구진은 이 도구가 \"물리적 시험, 품질 보증, 인증을 대체하려는 것이 아니다\"라고 강조했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "フラクタル盆地が\nAI学習の予測可能性を制約",
-          "body": "ある画像認識ネットワークでは、初期設定を一ビット変えると約48%で学習の行方が変わった。",
-          "mini_headline": "フラクタルがAIの予測可能性を制約",
+          "headline": "AIが3D-printed\nチタンの設定探索を絞る",
+          "body": "AIは生産前にチタン部品の3D-printing 設定を絞り込み、試行錯誤を減らせる。",
+          "mini_headline": "AIがチタン印刷を最適化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sydney-researchers-unc.jpg",
-                "cap": "Credit: Professor Pulin Gong/The University of Sydney"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg",
+                "cap": "グラフィカルアブストラクト(Graphical abstract)。Credit: International Journal of Precision Engineering and Manufacturing (2025). DOI: 10.1007/s12541-025-01360-0"
               },
               {
                 "t": "p",
-                "x": "University of SydneyのPulin Gong氏とAndrew Ly氏はNature Machine Intelligenceに発表した研究で、AIの予測不能性の一部が、ハードウェアやデータの順序によるノイズではなく、ニューラルネットワーク訓練の数学そのものに由来することを明らかにした。"
+                "x": "Istanbul Technical University、Gazi Universityと提携機関の研究者らは、チタン合金Ti6Al4Vの選択的レーザー溶融向けに、説明可能な機械学習フレームワークを構築した。生産試験の前に印刷設定の探索範囲を絞り込み、不要な試行錯誤を減らすことを狙う。"
               },
               {
                 "t": "p",
-                "x": "異なる訓練結果につながる初期条件の領域は「riddled basins(穴だらけの盆地)」と呼ばれる複雑なフラクタルを形づくるため、初期条件のごくわずかな差が異なる結果を生みうる。「我々の発見は、より深い何かを示している」。"
+                "x": "研究チームは既発表の研究から201件の実験記録を集め、レーザー出力、走査速度、層厚、ハッチ間隔、レーザースポット径、粉末粒径の六つのパラメータを、降伏強さ、引張強さ、伸びと結び付けた。複数の機械学習手法のうち人工ニューラルネットワークが最も安定した予測を示し、SHAP分析で各パラメータが予測にどう影響したかが示された。"
               },
               {
                 "t": "p",
-                "x": "ある画像認識ネットワークでは、初期設定を100億倍精密にしても再現性は向上せず、一ビットの変更で約48%のケースが異なる構成に至った。約500,000個の訓練済みネットワーク全体で、このパターンは広く見られた。"
-              },
-              {
-                "t": "p",
-                "x": "研究者らはトレードオフも見いだした。最もよく機能する学習設定ほど結果の再現が難しく、学習率を下げると再現性は高まるが、学習の効率は損なわれる。"
+                "x": "逆設計インターフェースは目標とする強度と延性を入力すると、試すべきプロセス設定を提案する。指導教員のHüseyin Kızılはこれを「プロセスウィンドウを絞り込むためのデータ駆動型の意思決定ツール」と説明し、研究者らは「物理試験、品質保証、認証に代わることを意図したものではない」と強調する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "分形吸引盆限制\nAI训练的可预测性",
-          "body": "在一个图像识别网络中，初始设置改动一个比特，约48%的训练会走向不同结果。",
-          "mini_headline": "分形限制AI可预测性",
+          "headline": "AI缩小3D-printed\n钛件参数搜索范围",
+          "body": "研究显示，AI可在生产前缩小钛部件3D-printing 参数范围，减少试错。",
+          "mini_headline": "AI优化钛金属打印",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sydney-researchers-unc.jpg",
-                "cap": "Credit: Professor Pulin Gong/The University of Sydney"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg",
+                "cap": "图形摘要（Graphical abstract）。Credit: International Journal of Precision Engineering and Manufacturing (2025). DOI: 10.1007/s12541-025-01360-0"
               },
               {
                 "t": "p",
-                "x": "悉尼大学（University of Sydney）研究人员Pulin Gong和Andrew Ly在Nature Machine Intelligence上发表研究，发现AI的部分不可预测性源于神经网络训练的数学本身，而非硬件或数据顺序带来的噪声。"
+                "x": "来自Istanbul Technical University、Gazi University及合作机构的研究人员，为钛合金Ti6Al4V的选择性激光熔化构建了一个可解释的机器学习框架，旨在生产测试开始前缩小打印参数的搜索范围，减少不必要的试错。"
               },
               {
                 "t": "p",
-                "x": "通向不同训练结果的初始条件区域构成了被称为“riddled basins”（多孔吸引盆）的复杂分形，因此初始条件的微小差异就可能产生不同结果。“我们的发现指向更深层的东西。”"
+                "x": "他们从已发表研究中汇编了201条实验记录，将激光功率、扫描速度、层厚、填充间距、激光光斑尺寸和粉末粒径这六个参数与屈服强度、极限抗拉强度和伸长率关联起来。在多种机器学习方法中，人工神经网络给出的预测最为一致，SHAP分析则展示了各参数如何影响预测。"
               },
               {
                 "t": "p",
-                "x": "在一个图像识别网络中，将初始设置的精度提高100亿倍并未改善可复现性，而改动一个比特就会在约48%的情况下得到不同的构型。在约500,000个训练好的网络中，这一模式普遍存在。"
-              },
-              {
-                "t": "p",
-                "x": "他们还发现了一种权衡：效果最好的学习设置会让结果更难复现，而降低学习率能提升可复现性，代价是学习效果下降。"
+                "x": "一个逆向设计界面可根据目标强度和延展性，推荐待测试的工艺参数。导师Hüseyin Kızıl将其描述为“缩小工艺窗口的数据驱动决策工具”；研究人员强调，它“并非用来取代物理测试、质量保证或认证”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cuencas fractales limitan cuán\npredecible es entrenar una AI",
-          "body": "En una red de reconocimiento de imágenes, un cambio de un bit desvió el entrenamiento en cerca del 48% de los casos.",
-          "mini_headline": "Los fractales limitan la previsibilidad de la AI",
+          "headline": "La AI acota la búsqueda de\najustes para titanio 3D-printed",
+          "body": "Según un estudio, la AI acota los ajustes de 3D-printing de titanio antes de producir, con menos ensayo y error.",
+          "mini_headline": "La AI ajusta la impresión de titanio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sydney-researchers-unc.jpg",
-                "cap": "Credit: Professor Pulin Gong/The University of Sydney"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg",
+                "cap": "Resumen gráfico (Graphical abstract). Credit: International Journal of Precision Engineering and Manufacturing (2025). DOI: 10.1007/s12541-025-01360-0"
               },
               {
                 "t": "p",
-                "x": "Los investigadores de la University of Sydney Pulin Gong y Andrew Ly, en un estudio publicado en Nature Machine Intelligence, hallaron que parte de la imprevisibilidad de la AI se debe a las matemáticas del entrenamiento de redes neuronales y no al ruido del hardware o del orden de los datos."
+                "x": "Investigadores de la Istanbul Technical University, la Gazi University e instituciones asociadas crearon un marco explicable de aprendizaje automático para la fusión selectiva por láser de la aleación de titanio Ti6Al4V, con el objetivo de acotar la búsqueda de ajustes de impresión antes de que empiecen las pruebas de producción y reducir el ensayo y error innecesario."
               },
               {
                 "t": "p",
-                "x": "Las regiones de condiciones iniciales que llevan a distintos resultados de entrenamiento forman intrincados fractales llamados ‘riddled basins’ (cuencas acribilladas), de modo que diferencias mínimas en las condiciones iniciales pueden producir resultados distintos. “Nuestros hallazgos apuntan a algo más profundo”."
+                "x": "Recopilaron 201 registros experimentales de estudios publicados que vinculan seis parámetros —potencia del láser, velocidad de escaneo, espesor de capa, separación entre pasadas, tamaño del punto láser y tamaño del polvo— con el límite elástico, la resistencia máxima a la tracción y el alargamiento. Entre varios enfoques de aprendizaje automático, una red neuronal artificial ofreció las predicciones más consistentes, y el análisis SHAP mostró cómo influyó cada parámetro en ellas."
               },
               {
                 "t": "p",
-                "x": "En una red de reconocimiento de imágenes, hacer los ajustes iniciales 10.000 millones de veces más precisos no mejoró la reproducibilidad, y un cambio de un bit llevó a una configuración distinta en cerca del 48% de los casos. En unas 500,000 redes entrenadas, el patrón apareció de forma generalizada."
-              },
-              {
-                "t": "p",
-                "x": "También encontraron una disyuntiva: los ajustes de aprendizaje que mejor funcionan hacen que los resultados sean más difíciles de reproducir, y reducir la tasa de aprendizaje mejora la reproducibilidad a costa de la eficacia del aprendizaje."
+                "x": "Una interfaz de diseño inverso recibe la resistencia y la ductilidad objetivo y sugiere ajustes de proceso para probar. El supervisor Hüseyin Kızıl la describe como \"una herramienta de decisión basada en datos para acotar la ventana de proceso\"; los investigadores subrayan que \"no pretende sustituir las pruebas físicas, el aseguramiento de la calidad ni la certificación\"."
               }
             ]
           }

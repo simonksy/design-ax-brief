@@ -1,158 +1,102 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "section": "games",
+  "user_selection": "none (deferred - curator scored)",
   "items": [
     {
-      "url": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs",
-      "title": "Project EVE: Claude plays MMORPGs",
-      "source": "Anthropic",
       "tool": "Games",
+      "category": "games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "This is primary research from Anthropic. Claude agents were placed in two EVE games to see how they handle player markets and teamwork, where they break down, and what safeguards they need. It is direct evidence for anyone designing agent-populated game worlds.",
-      "published_iso": "2026-11-06T00:00:00.000Z",
-      "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/3412bc3ca96f5ba0b24b3d2284c81a70b0e574df-1668x1238.png",
-      "excerpt": "We put Claude in two EVE games to study how AI agents handle markets and teamwork, where they break down, and what safeguards they might need."
+      "title": "Frameboy: Atlas in Real-time",
+      "url": "https://www.worldlabs.ai/blog/atlas-realtime",
+      "source": "World Labs",
+      "published_iso": "2026-11-05T19:50:00+00:00",
+      "og_image": "https://www.worldlabs.ai/api/opengraph-image?imageUrl=/images/blog/atlas-realtime-frameboy-daydream.jpg&title=Frameboy:%20Atlas%20in%20Real-time",
+      "excerpt": "World Labs released a research preview of Frameboy, streaming its Atlas autoregressive world model from cloud GPUs to the browser at up to 15 fps so users can explore generated worlds in real time; also integrated into the Viewfinder scene-building app.",
+      "rationale": "Primary-source release of a playable real-time world model in the browser, now wired into a scene-building app - the clearest new tool for world/level designers this week."
     },
     {
-      "url": "https://realsound.jp/tech/2026/11/post-2576894.html",
-      "title": "AIだけで『マイクラ』ハードコアに挑戦したら“切ない結果”に　モデルごとの性格や行動の違いが興味深い",
-      "source": "Real Sound",
       "tool": "Games",
+      "category": "games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "A new YouTube channel had 11 talking AI models try to survive Minecraft hardcore together. The video passed 420,000 views in 12 days, and each model behaved and cooperated differently, which gives a viewer-facing look at how models differ as in-game agents.",
-      "published_iso": "2026-11-06T20:00:40+09:00",
-      "og_image": "https://realsound.jp/wp-content/uploads/2026/11/20261106-minecraft-99.jpg",
-      "excerpt": "YouTubeチャンネル「AIたちの箱庭」が10月24日、「11人の話せるAIは本当に協力してハードコアを生き残れるのか？」という動画を公開した。チャンネル初投稿の動画だが、公開から12日で42万回再生を超えている。"
+      "title": "Entire Quixel Megascans Library Now Available For Free — and now licensed for AI training",
+      "url": "https://80.lv/articles/entire-quixel-megascans-library-now-available-for-free/",
+      "source": "80 Level",
+      "published_iso": "2026-11-06T10:53:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50915/images/6aedb18c36225/contain_1200x630.jpg",
+      "excerpt": "Epic's Quixel made the full Megascans library free on Fab and updated terms so Megascans and Megaplants can be used to train AI models: 'Your AI models can now learn from real-world scans to help you generate varied, photorealistic environments.'",
+      "rationale": "Concrete licence change: the whole Megascans/Megaplants library is free and explicitly cleared for AI training - directly changes what environment artists and tool builders can legally train on."
     },
     {
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone",
-      "title": "Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones: \"It really has changed the world\"",
-      "source": "Eurogamer",
       "tool": "Games",
+      "category": "games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "Former Rockstar North tech director Obbe Vermeij argues that AI reverse-engineering and vibe-coded ports are now cheap enough to change platform-release strategy. If he is right, the AI port wave would start shaping AAA PC launch timing.",
-      "published_iso": "2026-11-06T12:02:40+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/ai-gta.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Obbe Vermeij believes that the possibility of Grand Theft Auto 6 being vibecoded onto the PC will push Rockstar Games to port sooner than you'd think."
+      "title": "GTA6 모회사 대표, \"광고비 5만→800달러 비결은 AI\"",
+      "url": "http://www.gamey.kr/news/articleView.html?idxno=3019570",
+      "source": "게임와이",
+      "published_iso": "2026-11-08T06:59:26+09:00",
+      "og_image": "https://cdn.gamey.kr/news/thumbnail/202611/3019570_173609_5044_v150.jpg",
+      "excerpt": "테이크투 스트라우스 젤닉 CEO가 WSJ 테크 행사에서 AI와 불법 복제에 대한 생각을 밝히며, 배우를 써 2만5000~5만 달러 들던 모바일 게임 광고를 AI로 약 800달러에 만든 사례를 소개했다.",
+      "rationale": "A concrete AI production case from a major publisher: an actor-shot mobile game ad (USD 25-50K) remade with AI for about USD 800, as described by Take-Two's CEO. It is a specific production-cost data point for game marketing and creative teams, not an earnings comment."
     },
     {
-      "url": "https://automaton-media.com/en/news/steinsgate-developer-mages-says-ai-translation-is-a-long-way-from-being-viable-for-visual-novels/",
-      "title": "Steins;Gate developer MAGES says AI translation is a long way from being viable for visual novels",
-      "source": "AUTOMATON WEST",
       "tool": "Games",
+      "category": "games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "MAGES CEO Makoto Asada sets out the studio's position on AI localization. It is a publisher-level stance on AI translation for text-heavy games, and AI localization is a theme this section has not yet covered.",
-      "published_iso": "2026-11-06T05:36:56+00:00",
-      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/11/20261106-74857-header.jpg",
-      "excerpt": "MAGES. president and CEO Makoto Asada recently talked about the studio's stance on AI translation."
+      "title": "[인디言] 20년 멈췄던 만화 '굿모닝! 티처' 팬게임의 재시작",
+      "url": "https://www.gamemeca.com/view.php?gid=1783014",
+      "source": "게임메카",
+      "published_iso": "2026-11-07T10:00:00+09:00",
+      "og_image": "https://cdn.gamemeca.com/gmdata/0001/783/014/gm120244_asd.webp",
+      "excerpt": "1990년대 학원 만화 '굿모닝 티처' 팬게임 프로젝트가 AI 기술의 도움을 받아 약 20년 만에 다시 개발돼 첫 빌드를 공개했다. 도키메키 메모리얼 방식의 육성 시뮬레이션.",
+      "rationale": "Creator-side case: a fan-game project stalled for about 20 years was revived with AI tools and has shipped a first build. It shows small or solo teams using AI to finish work they had abandoned."
     },
     {
-      "url": "http://www.gamespark.jp/article/2026/11/06/174568.html",
-      "title": "人気美女デッキ構築型ローグライク続編『NEOVERSE 2』11月14日Steam早期アクセスへ。6年越し新作だけどアートはAIフル活用、キャラの見た目ぜんぜん違う！？",
-      "source": "Game*Spark",
       "tool": "Games",
+      "category": "games",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "NEOVERSE 2 is a commercial sequel arriving in Steam Early Access on Nov 14 with art made extensively with generative AI, and its characters visibly drift from the originals. It is a concrete case of AI art replacing a franchise's established look.",
-      "published_iso": "2026-11-06T16:15:03+09:00",
-      "og_image": "https://www.gamespark.jp/imgs/ogp_f/1216208.jpg",
-      "excerpt": "6年も経てば女は顔が変わる？そうかな……そうかも……。"
-    }
-  ],
-  "picks": [
-    {
-      "url": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs",
-      "title": "Project EVE: Claude plays MMORPGs",
-      "source": "Anthropic",
-      "tool": "Games",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "rationale": "This is primary research from Anthropic. Claude agents were placed in two EVE games to see how they handle player markets and teamwork, where they break down, and what safeguards they need. It is direct evidence for anyone designing agent-populated game worlds.",
-      "published_iso": "2026-11-06T00:00:00.000Z",
-      "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/3412bc3ca96f5ba0b24b3d2284c81a70b0e574df-1668x1238.png",
-      "excerpt": "We put Claude in two EVE games to study how AI agents handle markets and teamwork, where they break down, and what safeguards they might need."
-    },
-    {
-      "url": "https://realsound.jp/tech/2026/11/post-2576894.html",
-      "title": "AIだけで『マイクラ』ハードコアに挑戦したら“切ない結果”に　モデルごとの性格や行動の違いが興味深い",
-      "source": "Real Sound",
-      "tool": "Games",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "rationale": "A new YouTube channel had 11 talking AI models try to survive Minecraft hardcore together. The video passed 420,000 views in 12 days, and each model behaved and cooperated differently, which gives a viewer-facing look at how models differ as in-game agents.",
-      "published_iso": "2026-11-06T20:00:40+09:00",
-      "og_image": "https://realsound.jp/wp-content/uploads/2026/11/20261106-minecraft-99.jpg",
-      "excerpt": "YouTubeチャンネル「AIたちの箱庭」が10月24日、「11人の話せるAIは本当に協力してハードコアを生き残れるのか？」という動画を公開した。チャンネル初投稿の動画だが、公開から12日で42万回再生を超えている。"
-    },
-    {
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone",
-      "title": "Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones: \"It really has changed the world\"",
-      "source": "Eurogamer",
-      "tool": "Games",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "rationale": "Former Rockstar North tech director Obbe Vermeij argues that AI reverse-engineering and vibe-coded ports are now cheap enough to change platform-release strategy. If he is right, the AI port wave would start shaping AAA PC launch timing.",
-      "published_iso": "2026-11-06T12:02:40+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/ai-gta.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Obbe Vermeij believes that the possibility of Grand Theft Auto 6 being vibecoded onto the PC will push Rockstar Games to port sooner than you'd think."
-    },
-    {
-      "url": "https://automaton-media.com/en/news/steinsgate-developer-mages-says-ai-translation-is-a-long-way-from-being-viable-for-visual-novels/",
-      "title": "Steins;Gate developer MAGES says AI translation is a long way from being viable for visual novels",
-      "source": "AUTOMATON WEST",
-      "tool": "Games",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "rationale": "MAGES CEO Makoto Asada sets out the studio's position on AI localization. It is a publisher-level stance on AI translation for text-heavy games, and AI localization is a theme this section has not yet covered.",
-      "published_iso": "2026-11-06T05:36:56+00:00",
-      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/11/20261106-74857-header.jpg",
-      "excerpt": "MAGES. president and CEO Makoto Asada recently talked about the studio's stance on AI translation."
-    },
-    {
-      "url": "http://www.gamespark.jp/article/2026/11/06/174568.html",
-      "title": "人気美女デッキ構築型ローグライク続編『NEOVERSE 2』11月14日Steam早期アクセスへ。6年越し新作だけどアートはAIフル活用、キャラの見た目ぜんぜん違う！？",
-      "source": "Game*Spark",
-      "tool": "Games",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "rationale": "NEOVERSE 2 is a commercial sequel arriving in Steam Early Access on Nov 14 with art made extensively with generative AI, and its characters visibly drift from the originals. It is a concrete case of AI art replacing a franchise's established look.",
-      "published_iso": "2026-11-06T16:15:03+09:00",
-      "og_image": "https://www.gamespark.jp/imgs/ogp_f/1216208.jpg",
-      "excerpt": "6年も経てば女は顔が変わる？そうかな……そうかも……。"
+      "title": "'I Feel Like Modding is Kind Of Dying' – Mass Effect 3 Multiplayer Modder on AI's Impact on the Scene",
+      "url": "https://www.ign.com/articles/i-feel-like-modding-is-kind-of-dying-mass-effect-3-multiplayer-modder-on-ais-impact-on-the-scene",
+      "source": "IGN",
+      "published_iso": "2026-11-07T17:00:00.000Z",
+      "og_image": "https://assets-prd.ignimgs.com/2026/10/29/me3-1793234529955.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "excerpt": "AI has exploded across the modding scene, from mashup mods to full decompilations done by Claude; a veteran Mass Effect 3 multiplayer modder explains how it may be killing the hobby.",
+      "rationale": "Fresh practitioner insight on how AI decompilation and mashup tools are reshaping the modding community - a creator-side perspective not yet covered."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs": {
+      "https://www.worldlabs.ai/blog/atlas-realtime": {
         "verdict": "new",
-        "nearest": "https://automaton-media.com/articles/newsjp/20261102-477130/",
+        "nearest": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
         "new_action": ""
       },
-      "https://realsound.jp/tech/2026/11/post-2576894.html": {
+      "https://80.lv/articles/entire-quixel-megascans-library-now-available-for-free/": {
+        "verdict": "follow-up",
+        "nearest": "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman",
+        "new_action": "Quixel makes the full Megascans/Megaplants library free on Fab and updates its licence to allow AI-model training on the scans (separate from the 10-28 UE/MetaHuman EULA change)."
+      },
+      "http://www.gamey.kr/news/articleView.html?idxno=3019570": {
         "verdict": "new",
-        "nearest": "https://automaton-media.com/articles/newsjp/20261102-477130/",
+        "nearest": "https://kotaku.com/zero-escape-writer-is-pro-ai-believes-his-new-studios-game-wouldnt-have-been-canceled-if-hed-used-it-to-cut-costs-2000749911",
         "new_action": ""
       },
-      "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone": {
+      "https://www.gamemeca.com/view.php?gid=1783014": {
         "verdict": "new",
-        "nearest": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
+        "nearest": "https://www.gamemeca.com/view.php?gid=1782007",
         "new_action": ""
       },
-      "https://automaton-media.com/en/news/steinsgate-developer-mages-says-ai-translation-is-a-long-way-from-being-viable-for-visual-novels/": {
+      "https://www.ign.com/articles/i-feel-like-modding-is-kind-of-dying-mass-effect-3-multiplayer-modder-on-ais-impact-on-the-scene": {
         "verdict": "new",
-        "nearest": "https://automaton-media.com/en/news/hideo-kojima-says-ai-lacks-what-makes-the-creative-process-fun-despite-its-efficiency-its-not-a-form-of-creation-i-find-particularly-interesting/",
-        "new_action": ""
-      },
-      "http://www.gamespark.jp/article/2026/11/06/174568.html": {
-        "verdict": "new",
-        "nearest": "https://www.gamesradar.com/games/new-mmo-aion-2-soars-on-steam-with-nearly-400-000-concurrent-players-despite-mixed-reviews-grilling-ai-slop-and-pay-to-win-shop/",
+        "nearest": "https://www.inven.co.kr/webzine/news/?news=322451",
         "new_action": ""
       }
     },
-    "note": "Re-curation 11-07: removed the Unity Codex plugin YouTube video (https://www.youtube.com/watch?v=1WHkOc-hCHc). It repeats https://unity.com/blog/unity-plugin-codex, published in games on 2026-09-19 (same release; that card predates the 30-day history_digest). Backfilled with Real Sound's Minecraft AI hardcore item, a fresh and distinct event: the 'AIたちの箱庭' YouTube video of 11 talking AI models attempting hardcore survival. It differs from the 11-05 YC/Olam Labs 50-agent Minecraft civilisation card and the 10-21 Google Ender Dragon card (different creators, experiment, and date). Other remaining candidates were passed over: GamesBeat '3 more DLSS 5 games' (boilerplate excerpt, DLSS 5 has run repeatedly, and it may overlap the Hogwarts likely-repeat) and Dexerto Astrocade $100K contest (a marketing contest, similar to the 10-23 Epic $50K vibe-code contest). Still excluded from the original curation: the GTA 6 cluster c1 (only Eurogamer kept), NVIDIA Hogwarts DLSS 5 (likely repeat of 10-14), GI.biz Shogun 2 (commentary on the 10-15/10-16 story), and Valve Steam approvals / 4Gamer (a continuation of the 11-04 and 10-29 stories). NEOVERSE 2's c13 cluster tag is a false match. Outlets: anthropic.com, realsound.jp, eurogamer.net, automaton-media.com, gamespark.jp (5 distinct). Cross-section: published_urls.json was not grepped for the Real Sound URL in this pass. The orchestrator should confirm no other section ran it."
+    "note": "Swap pass (fetch/fact-check): DROPPED Game Developer 'SAG-AFTRA introduces new process for using actors in game pitches' (AI appears only in the reporter's speculation and is not central) and GamesBeat 'Nvidia announces 3 more DLSS 5 games' (Hogwarts Legacy, War Thunder and Where Winds Meet; Hogwarts and Where Winds Meet were already in the 10-14 wccftech card, and War Thunder DLSS 5 ran 11-04, so it is a repeat). REPLACED with gamey.kr Take-Two/Zelnick AI ad-cost item (idxno=3019570) and gamemeca 'Good Morning! Teacher' fan-game revived with AI (gid=1783014). Both were absent from candidates_filtered_games.json because the URL-dedup step collapsed their query strings (the known norm_url false-dup). I took them from candidates_games.json and exact-checked their full URLs in published_urls.json: the games section has only gamey idxno=3019481 and gamemeca gid=1781560..1782378, and the marketing section has no Take-Two/Zelnick URL. Neither is in today's selected_marketing.json. Not picked: inven RTX Spark (news=323085), which repeats the NVIDIA RTX Spark platform story published 10-16 (blogs.nvidia.com local-ai-rtx-spark) and also covers DLSS 5 again; gamey and gamemeca Megascans items, which repeat the kept 80 Level Megascans pick. Earlier calls stand: Kotaku Sweeney UE Fest Tokyo (same keynote as 4gamer 11-05); NVIDIA blog and Game*Spark Hogwarts DLSS 5 (cluster c7, likely repeat of 10-14); GamesIndustry.biz SAG-AFTRA (c4); Unity Codex short (content-hub sibling of the 11-03 Antigravity card); PC Gamer artist-vs-Sweeney spat (commentary with no new action); Dexerto Astrocade contest (promotional contest). Cross-section: I exact-read only the games and marketing sections of published_urls.json; the orchestrator should exact-grep 'idxno=3019570', 'gid=1783014', 'Zelnick' and '굿모닝' across all sections before roll."
   }
 }

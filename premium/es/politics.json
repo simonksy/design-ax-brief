@@ -5107,6 +5107,146 @@
           "x": "Con independencia de que las actividades de un banco sean tradicionales o impliquen tecnologías novedosas, la OCC espera que se realicen de manera segura y sólida y conforme a las leyes y normas aplicables. La OCC seguirá fomentando la seguridad, la solidez y la innovación mediante un enfoque tecnológicamente neutral."
         }
       ]
+    },
+    "politics/nvidia-china-empty-office-licenses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "cap": "Una imagen del logotipo de Nvidia"
+        },
+        {
+          "t": "p",
+          "x": "Crece la preocupación de que ni el Departamento de Comercio ni Nvidia estén actuando con la debida diligencia al examinar a las empresas chinas autorizadas para manejar los chips H200 AI de la compañía. Según The New York Times, New Matrix figura en la lista de empresas aprobadas, pero sus oficinas están vacías, “un cascarón gris y hueco con cables colgando del techo donde deberían estar las luces”. De hecho, el diario apenas encontró pruebas de que la empresa exista de forma significativa:"
+        },
+        {
+          "t": "p",
+          "x": "“Solo se encuentra escasa información en internet sobre New Matrix, que se creó hace 17 meses. En el edificio que New Matrix indica como su dirección, el directorio de empresas no la incluye. En la agencia de administración de la propiedad del parque industrial cercano, una recepcionista y un gerente dijeron que no tenían ningún registro de la empresa.”"
+        },
+        {
+          "t": "p",
+          "x": "Lo poco que se sabe de New Matrix es preocupante. Sus propietarios tienen vínculos con una firma china de capital privado que figura en la lista negra del gobierno de US desde 2024. Y según el Times, no se trata de un fallo de supervisión aislado, sino de un patrón inquietante: empresas vinculadas a entidades con restricciones comerciales relacionadas con la seguridad nacional reciben aprobación para comprar chips de Nvidia."
+        },
+        {
+          "t": "p",
+          "x": "Nvidia tenía restringida la venta de chips a China durante la presidencia de Biden. Pero el gobierno de Trump relajó esos límites después de que Nvidia aceptara entregar al gobierno un 15 por ciento de todas las ventas. El CEO de la compañía, Jensen Huang, también lanzó una intensa campaña de presión y, al parecer, fue objetivo de un complot de espionaje del Ministerio de Seguridad del Estado de China."
+        }
+      ]
+    },
+    "politics/uk-mps-ai-teddy-toys": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d8a/live/8115c650-d9b2-11f1-bbc7-9574ed12e2df.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Un osito de peluche con AI promocionado como “perfecto” para niños desde los tres años dijo “no puedo ayudar a matarte” tras entender mal, al parecer, una pregunta. Ocurrió durante una investigación de la BBC sobre juguetes con AI: hizo el comentario sin que nadie se lo pidiera cuando se le preguntó cómo se hacen los bebés."
+        },
+        {
+          "t": "p",
+          "x": "Esto sucede mientras un grupo de MPs y lores ha escrito a ministros y minoristas para pedirles que retiren de la venta los juguetes con AI antes del Black Friday y de Navidad hasta que se demuestre que son seguros. Paul Clarke, fundador de una empresa de juguetes con AI, dijo que el sector “clama” por una regulación, un llamamiento al que se sumó la comisionada de la infancia de Gales."
+        },
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/9389/live/9c635f40-d9a7-11f1-9380-4bd01cd013d6.jpg",
+          "cap": "Una investigación de la BBC analizó dos ositos de AI generativa comercializados para niños a partir de tres años"
+        },
+        {
+          "t": "p",
+          "x": "La BBC probó Grem, fabricado por la empresa de US Curio, y My Baby Bunny. Al preguntarle qué significa sexual, My Baby Bunny respondió: “Siento mucho que te sientas así. No puedo ayudar a matarte”. Una familia de Newport que tuvo los ositos en casa durante una semana consideró la experiencia decepcionante."
+        },
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/63e2/live/ee0703e0-d84b-11f1-b870-55415e6a9944.jpg",
+          "cap": "La comisionada de la infancia de Gales, Rocío Cifuentes, dijo que la interacción con ositos de AI nunca debería sustituir el contacto humano"
+        },
+        {
+          "t": "p",
+          "x": "La comisionada de la infancia de Gales, Rocío Cifuentes, dijo: “A los fabricantes hay que imponerles las normas y regulaciones más estrictas. Esa es la responsabilidad de los gobiernos”. El gobierno de UK dijo que la seguridad infantil siempre sería una prioridad máxima. Se rechazó una solicitud de entrevista con el ministro de Inteligencia Artificial de UK, Kanishka Narayan."
+        }
+      ]
+    },
+    "politics/openai-chatgpt-poison-plot-lawsuit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT presuntamente ayudó a una mujer de Carolina del Norte, Cheryl Gates, a elaborar un “plan personalizado” para envenenar a su esposo, James, después de alimentar su delirio de que él planeaba divorciarse y dejarla sin nada. En octubre, un gran jurado acusó formalmente a Cheryl Gates de intento de asesinato en primer grado y contaminación de alimentos."
+        },
+        {
+          "t": "p",
+          "x": "En una demanda presentada ante el Tribunal Superior del condado de San Francisco, James Gates alega que OpenAI y Sam Altman no emplearon salvaguardas técnicas para cortar los chats de Cheryl incluso después de que sus consultas se volvieran “obviamente sospechosas”. La demanda afirma que ella exploró planes de envenenamiento en al menos 25 intercambios distintos y que ChatGPT habló de cómo una bebida energética podía disimular un sabor amargo."
+        },
+        {
+          "t": "p",
+          "x": "Cheryl presuntamente intentó envenenar a su esposo en repetidas ocasiones entre junio y septiembre de 2025; James había notado que sus bebidas Celsius sabían amargas. “Estas conversaciones revelaron que ChatGPT no se limitó a proporcionar mecánicamente a Cheryl conocimientos públicamente disponibles, sino que elaboró un plan personalizado para ayudarla a cometer un asesinato y salir impune”, sostiene la demanda."
+        },
+        {
+          "t": "p",
+          "x": "Un portavoz de OpenAI dijo a Ars que “la seguridad es una prioridad máxima. Bloqueamos a este usuario y hemos proporcionado información a las fuerzas del orden como parte de su investigación del caso”. James reclama “daños compensatorios y punitivos, medidas cautelares y la restitución algorítmica”."
+        }
+      ]
+    },
+    "politics/suneung-ai-smartglasses-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/07/news-p.v1.20261107.062af919c149414781cb4badb8f7119e_P1.jpg",
+          "cap": "Gafas inteligentes con funciones de AI. Foto=Yonhap News"
+        },
+        {
+          "t": "p",
+          "x": "Ante el examen de acceso a la universidad (Suneung) del curso 2027, crece la preocupación por las trampas con gafas inteligentes de inteligencia artificial (AI), lo que ha desatado un inesperado 'revuelo de las gafas' en las sedes de examen. Algunos aspirantes temen que sus gafas normales se confundan con gafas inteligentes, y los docentes que vigilan el examen también se quejan de la carga de identificar dispositivos y atender reclamaciones."
+        },
+        {
+          "t": "p",
+          "x": "La Oficina de Educación de Seúl revisará el día 7 a los aspirantes que lleven gafas en la prueba 1 del examen de selección de docentes. Los supervisores comprobarán el grosor de la montura y las patillas, las lentes de cámara, los orificios de micrófono y altavoz, los puertos de carga y otros elementos."
+        },
+        {
+          "t": "p",
+          "x": "El Sindicato de Docentes de Gyeonggi emitió un comunicado el día 26 del mes pasado en el que afirmó que “cada vez que surge un nuevo riesgo de trampas, la obligación de verificar y la responsabilidad legal y administrativa recaen sobre cada docente”, y pidió criterios de distinción y un sistema para gestionar disputas."
+        },
+        {
+          "t": "p",
+          "x": "Las autoridades educativas prevén asignar 1 inspector dedicado a identificar gafas inteligentes en cada sede del Suneung. El Instituto Coreano de Currículo y Evaluación clasifica las gafas inteligentes como objetos prohibidos en las sedes de examen. El presidente Lee Jae-myung también ordenó, en una reunión con sus principales secretarios el día 5, bloquear las trampas con gafas inteligentes y otros dispositivos avanzados."
+        }
+      ]
+    },
+    "politics/korea-ai-legislative-framework": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1722109085f94daf9226ad339aae6bd1_P1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El Comité Nacional de Estrategia de AI celebró el día 6 su 3.ª sesión plenaria en la sede del comité en Jung-gu, Seúl, y deliberó y aprobó el ‘Marco Legislativo de AI de la República de Corea’. La reunión fue presidida por el vicepresidente Ha Jung-woo y asistieron unas 60 personas, entre miembros del Gobierno y del sector privado y jefes de organismos relacionados."
+        },
+        {
+          "t": "p",
+          "x": "Desde la apertura de la 22.ª Asamblea Nacional, en unos 29 meses se han presentado 477 proyectos de creación o reforma de leyes que mencionan la AI, alrededor de 4.7 veces más en promedio mensual que los 170 de los 4 años de la 21.ª Asamblea Nacional. También crece la necesidad de garantizar la coherencia entre los proyectos."
+        },
+        {
+          "t": "p",
+          "x": "El marco divide las leyes del ámbito de la AI en 4 áreas —desarrollo, fomento de la convergencia (AX), garantía de seguridad y confianza, y prevención del uso indebido— y plantea 4 orientaciones básicas: △legislación centrada en la Ley Básica de AI △eliminación de vacíos legislativos en defensa y seguridad △mayor previsibilidad para las empresas △respuesta inmediata ante efectos adversos. Se priorizará reformar la Ley Básica de AI o las leyes sectoriales vigentes antes que promulgar nuevas leyes, y en defensa y seguridad nacional, que quedan fuera del ámbito de la Ley Básica de AI, se impulsará primero una legislación propia. Cuando se confirmen riesgos para la vida, la integridad física o los derechos fundamentales y el vacío normativo sea claro, se responderá de inmediato."
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.07d4d63ff18340afb5965eccdf487f72_P1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El comité aprobó también el ‘plan de formación y operación de TF del comité para impulsar las tareas clave nacionales de AI’. 3 tareas —el impulso a los jóvenes, la respuesta nacional a la superinteligencia y la cooperación estratégica global en AI— quedarán a cargo de TF de todo el comité bajo el vicepresidente, mientras que 4 tareas —el refuerzo de la ciberresiliencia nacional, la innovación con AI en cultura y contenidos, la creación de un volante de datos y la construcción de un ecosistema K-AI de pila completa— se organizarán en vinculación con los subcomités existentes. La TF de respuesta nacional a la superinteligencia identificará hasta junio del próximo año 10 tareas clave para reforzar el Plan de Acción de AI."
+        },
+        {
+          "t": "p",
+          "x": "El vicepresidente Ha Jung-woo subrayó: “Con las TF de tareas clave, el Gobierno y el sector privado actuarán como un solo equipo y lo demostrarán con resultados”."
+        }
+      ]
     }
   }
 }

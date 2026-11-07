@@ -3483,6 +3483,116 @@
           "x": "The impact was dependent on patient preference: it did not override an explicit request for or against medication but impacted users without stated preference, who may be most susceptible to framing. The results suggest the need for independent auditing and benchmarking if models are used to inform clinical decisions."
         }
       ]
+    },
+    "medicine/jama-lipid-llm-nonescalation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In this retrospective cohort study of adults with atherosclerotic cardiovascular disease at Stanford Health Care (January 2019 to May 2025), a large language model pathway (GPT 5.0) was used to identify treat-to-target strategies and reasons for lipid-lowering therapy (LLT) nonescalation in clinical notes."
+        },
+        {
+          "t": "p",
+          "x": "A total of 28,113 patients met the inclusion criteria, of whom 13,810 (49.1%) had above-goal LDL-C. The inference set comprised 14,785 notes from 13,394 patients, including 13,354 relevant visit notes."
+        },
+        {
+          "t": "p",
+          "x": "A treat-to-target strategy was documented in 28.1% of relevant notes, most often an LDL-C target below 70 mg/dL (17.1%). LLT was not escalated in 11,842 notes (88.7%). Of these notes, 4,788 (40.4%) had at least 1 documented reason, most commonly patient-reported adverse effects (12.6%), LDL-C close to goal (6.9%), patient preference (6.8%), lifestyle changes (6.1%) and deferral to repeat labs (4.6%). Micro-weighted F1 scores ranged from 0.80 to 0.98."
+        },
+        {
+          "t": "p",
+          "x": "Nearly 9 in 10 encounters with above-goal LDL-C did not escalate therapy; the authors suggest the findings could inform system-level digital health interventions."
+        }
+      ]
+    },
+    "medicine/bcr-mllm-breast-pathology-errors": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Breast cancer treatment depends on histopathological features such as Nottingham grade and receptor-defined subtype, yet specialist pathologist access is limited where the workforce is scarce."
+        },
+        {
+          "t": "p",
+          "x": "This single-center retrospective paired concordance study compared three flagship commercial multimodal LLMs (Claude Sonnet 4.6, Gemini 2.5 Pro, GPT-5.5) with a board-certified breast pathologist reference in 427 invasive breast cancers. Each model received the same overview and 16 H&E tissue tiles per case and the same prompt."
+        },
+        {
+          "t": "p",
+          "x": "No model achieved agreement sufficient to support autonomous extraction of any feature. Gemini reported lymphovascular invasion in 26 packets, none supported by the images. Invasive carcinoma was absent from five packets, yet a Nottingham grade was returned in 14 of 15 model-case pairs. Claude ranked highest by raw histological-type concordance (87.4%) yet classified every lobular and micropapillary carcinoma as no-special-type. Model agreement with the report for grade (0.27–0.42) overlapped with that of a second pathologist (0.36)."
+        },
+        {
+          "t": "p",
+          "x": "Under the same prompt, each model showed a systematic error direction, including positive calls for findings absent from the input. The findings do not support autonomous use."
+        }
+      ]
+    },
+    "medicine/deepreasoning-neurodr-cta": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Deep Reasoning AI has received FDA 510(k) clearance (K262134) for NeuroDR, AI software for neurovascular CT angiography, 105 days after submission."
+        },
+        {
+          "t": "p",
+          "x": "NeuroDR strips away soft tissue, bone and veins from head-and-neck CTA scans and produces 3D maximum intensity projections, curved planar reformats and volume renderings of the left and right internal carotid and vertebral arteries, with anterior and posterior circulations shown in separate displays."
+        },
+        {
+          "t": "p",
+          "x": "It operates automatically in the background after a scan finishes and delivers the visualisations directly into hospital PACS as DICOM images."
+        },
+        {
+          "t": "p",
+          "x": "It was created alongside post-processing provider 3DR Labs, which conducted the performance studies, and regulatory consultancy Innolitics, which handled the FDA pathway."
+        }
+      ]
+    },
+    "medicine/asan-urine-ai-bladder": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Korean researchers have developed a urine-testing technique that uses AI to distinguish between interstitial cystitis, overactive bladder and healthy individuals with up to 92 percent accuracy, potentially helping physicians differentiate between conditions with overlapping symptoms."
+        },
+        {
+          "t": "p",
+          "x": "Asan Medical Center (AMC) said Tuesday that a team led by Professor Kim Jun-ki of the hospital’s Department of Convergence Medicine and Professor Shin Jung-hyun of the Department of Urology at Ewha Womans University Mokdong Hospital developed the technique by combining highly sensitive molecular detection with artificial intelligence."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.koreabiomed.com/news/photo/202611/33718_36861_5520.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The researchers combined surface-enhanced Raman spectroscopy (SERS) with AI. The team fabricated a SERS chip incorporating gold and zinc oxide nanostructures and analyzed urine samples of approximately 5 microliters each from 181 participants: 117 healthy controls, 19 patients with interstitial cystitis and 45 with overactive bladder."
+        },
+        {
+          "t": "p",
+          "x": "Applying four machine learning methods (PCA-PLS-DA, PCA-LDA, XGBoost and LightGBM), the models distinguished among the three groups with up to 92 percent accuracy. The findings were published as a cover article in ACS Sensors; the team plans to validate the technique in larger patient groups."
+        }
+      ]
+    },
+    "medicine/nature-gait-foundation-model": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Gait is increasingly recognized as a vital sign, yet current approaches treat it as a symptom of specific pathologies rather than a systemic biomarker. The researchers developed a gait foundation model for three-dimensional skeletal motion, recorded via a single-depth camera during 5 motor tasks, from 3,328 deeply phenotyped adults, to predict health phenotypes such as grip strength and sleep quality across 18 body systems."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig1_HTML.png",
+          "cap": "Fig. 1: Overview of the gait foundation model, data acquisition and training pipeline."
+        },
+        {
+          "t": "p",
+          "x": "Learned embeddings outperformed engineered features for prediction of age (Pearson's r = 0.69), body mass index (r = 0.91) and visceral adipose tissue area (r = 0.83), and significantly predicted 1,887 of 3,210 tested phenotypes. Relative to a baseline using age, body mass index, visceral adipose tissue and height alone, gait embeddings improved prediction in all 18 systems in males and 17 of 18 in females, as well as prediction of clinical diagnoses and medication use."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig5_HTML.png",
+          "cap": "Fig. 5: Gait embeddings improve prediction of clinical diagnoses and medication use beyond demographic and anthropometric baselines."
+        },
+        {
+          "t": "p",
+          "x": "Leg dynamics dominated metabolic and frailty predictions, and torso dynamics encoded sleep and lifestyle phenotypes. The authors say the findings establish gait as an independent, multisystem biosignal."
+        }
+      ]
     }
   }
 }

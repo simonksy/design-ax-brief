@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "issue": "AI 에이전트, 실험대에 오르다",
+    "date": "2026.11.07",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "원문 대조: 날짜를 원문 게재일로 고침(MutexaGPT 11.02→10.31, 오사카 11.03→11.02, DeepMind 11.04→11.03, QCR 11.05→11.04, Nature AutoDNA 11.07→11.04). IBM 카드는 '500여 개'를 원문대로 699종·신규 564종으로 정정하고 도식 이미지 대신 stat. 수치 24.4%·한 시간/며칠·수천 개·20종 넘는 장비 확인. phys.org·Tech Xplore는 차단돼 enrich 본문·published_iso로 확인.",
+    "sources": [
+      "Phys.org — Chemists develop AI tool to convert human ingenuity into life-enhancing enzymes (2026.10.31)",
+      "Tech Xplore — Robot platform combines AI and rapid imaging to improve perovskite solar cell fabrication (2026.11.02)",
+      "Google DeepMind — Agentic cheminformatics with Google Antigravity (2026.11.03)",
+      "Quantum Computing Report — IBM Quantum and QuICS Deploy AI Agents to Discover Over 500 High-Efficiency Magic-State Factories (2026.11.04)",
+      "Nature — AI agents run this automated biology lab that sequences DNA and more (2026.11.04)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 과학 · 10.31~11.04",
+      "thread": [
+        {
+          "d": "10.31",
+          "t": "효소",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.02",
+          "t": "태양전지",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.03",
+          "t": "신약",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.04",
+          "t": "양자",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.04",
+          "t": "DNA랩",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        }
+      ],
+      "thread_note": "AI 에이전트가 실험 설계를 넘어 실험 실행까지 맡기 시작했다",
+      "eyebrow": "흐름 · 과학",
+      "headline": "에이전트,\n실험대에 오르다",
+      "body": "한 건씩 보면 연구 도구 하나다. 그런데 닷새 사이 효소·전지·신약·양자·DNA에서 에이전트가 설계를 넘어 실행까지 맡았다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.31",
+      "headline": "말로 주문하는\n효소 설계",
+      "body": "Vanderbilt의 MutexaGPT. 원하는 효소 변화를 평소 말로 적으면 LLM 에이전트가 물리 모델을 세우고 변이를 예측한다.",
+      "foot": "2026.10.31",
+      "_src": "https://phys.org/news/2026-10-chemists-ai-tool-human-ingenuity.html",
+      "_id": "mutexagpt-enzyme-agents",
+      "media": "pipeline/media/mutexagpt-enzyme-agents.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.02",
+      "headline": "로봇이 지켜본\n박막, 24.4%",
+      "body": "오사카대 로봇이 1초도 안 되는 색 변화와 액적 움직임을 잡고, 머신러닝이 공정 조건을 골라 효율 24.4% 전지를 냈다.",
+      "foot": "2026.11.02",
+      "_src": "https://techxplore.com/news/2026-11-robot-platform-combines-ai-rapid.html",
+      "_id": "osaka-perovskite-robot",
+      "media": "pipeline/media/osaka-perovskite-robot.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.03",
+      "headline": "며칠 걸릴 일을\n한 시간에",
+      "body": "DeepMind가 Antigravity에 화학 스킬을 붙였다. 에이전트가 화합물 수천 개를 뒤져 거대고리 후보와 합성 경로까지 냈다.",
+      "foot": "2026.11.03",
+      "_src": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "_id": "deepmind-antigravity-cheminformatics",
+      "video": "pipeline/media/deepmind-antigravity-cheminformatics.mp4"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.04",
+      "headline": "에이전트가 찾은\n양자 공장",
+      "body": "IBM·QuICS·MIT 팀. LLM 에이전트가 대칭을 제안하고 솔버가 회로를 짜 매직 스테이트 공장 699종을 찾았다.",
+      "foot": "2026.11.04",
+      "_src": "https://quantumcomputingreport.com/ibm-quantum-and-quics-deploy-ai-agents-to-discover-over-500-high-efficiency-magic-state-factories/",
+      "_id": "ibm-quics-magic-state-agents",
+      "stat_top": "찾은 공장 699종",
+      "stat_arrow": "그중 처음 알려진 것",
+      "stat_bottom": "564종",
+      "stat_strike": false
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "2026.11.04",
+      "headline": "실험실을\n통째로 맡기다",
+      "body": "상하이교통대 AutoDNA. 프롬프트 하나면 AI 에이전트들이 20종 넘는 장비로 DNA 합성·시퀀싱 실험을 끝까지 해낸다.",
+      "foot": "2026.11.04",
+      "_src": "https://www.nature.com/articles/d41586-026-03552-8",
+      "_id": "autodna-sjtu-selfdriving-lab",
+      "media": "pipeline/media/autodna-sjtu-selfdriving-lab.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

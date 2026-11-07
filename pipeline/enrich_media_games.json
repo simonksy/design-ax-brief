@@ -1,27 +1,37 @@
 {
-  "anthropic-project-eve-claude": {
-    "lead_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/3412bc3ca96f5ba0b24b3d2284c81a70b0e574df-1668x1238.png",
-    "video": "https://cdn.sanity.io/files/4zrzovbb/website/e355ce159228bb87a5b69e7f4bfd9fc94b9b1fad.mp4",
+  "worldlabs-frameboy-atlas": {
+    "lead_image": "https://www.worldlabs.ai/api/opengraph-image?imageUrl=/images/blog/atlas-realtime-frameboy-daydream.jpg&title=Frameboy:%20Atlas%20in%20Real-time",
+    "video": "https://wlt-ai-cdn.art/videos/2026-atlas-realtime/frameboy-hero.mp4",
     "yt": ""
   },
-  "aitachi-hakoniwa-minecraft-hardcore": {
-    "lead_image": "https://realsound.jp/wp-content/uploads/2026/11/20261106-minecraft-99.jpg",
-    "video": "",
-    "yt": "aQAmW7a8IMI"
-  },
-  "vermeij-gta6-pc-vibecode": {
-    "lead_image": "https://assetsio.gnwcdn.com/ai-gta.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "video": "",
-    "yt": "CbbOo-nENLc"
-  },
-  "mages-ai-translation-stance": {
-    "lead_image": "https://automaton-media.com/en/wp-content/uploads/2026/11/20261106-74857-header.jpg",
+  "quixel-megascans-ai-training": {
+    "lead_image": "https://cdn.80.lv/api/upload/meta/50915/images/6aedb18c36225/contain_1200x630.jpg",
     "video": "",
     "yt": ""
   },
-  "neoverse2-ai-art-gamespark": {
-    "lead_image": "https://www.gamespark.jp/imgs/ogp_f/1216208.jpg",
+  "sagaftra-pitch-agreement": {
+    "lead_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltd2c6ef59fc1e919f/669e70619d85eed2432cc9c2/SAGAFTRA_Header.png?width=1280&auto=webp&quality=80&disable=upscale",
     "video": "",
     "yt": ""
+  },
+  "nvidia-dlss5-three-games": {
+    "lead_image": "https://gamesbeat.com/wp-content/uploads/2026/11/dlss-5-nvidia.jpg",
+    "video": "",
+    "yt": "58FagrSqC4M"
+  },
+  "ign-me3-modding-ai": {
+    "lead_image": "https://assets-prd.ignimgs.com/2026/10/29/me3-1793234529955.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "video": "",
+    "yt": ""
+  },
+  "taketwo-zelnick-ai-ad": {
+    "lead_image": "https://cdn.gamey.kr/news/photo/202611/3019570_173609_5044.jpg",
+    "video": "",
+    "yt": ""
+  },
+  "goodmorning-teacher-fangame": {
+    "lead_image": "https://cdn.gamemeca.com/gmdata/0001/783/014/gm120244_asd.webp",
+    "video": "https://www.youtube.com/watch?v=b8tFuAjy3xg",
+    "yt": "b8tFuAjy3xg"
   }
 }

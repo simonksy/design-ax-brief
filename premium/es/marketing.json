@@ -3801,6 +3801,118 @@
           "x": "En ChatGPT, la ropa encabezó con 90,517 ubicaciones, seguida de electrónica de consumo con 56,569, viajes con 48,134, juguetes y juegos con 4,694 y belleza con 4,575. En belleza, el 83% de los anuncios apareció en consultas de investigación y descubrimiento; en ropa y electrónica de consumo la proporción quedó por debajo de la mitad, con 48% y 42%. El informe no mide clics, gasto ni conversiones, y sus datos terminan en septiembre, antes del Black Friday."
         }
       ]
+    },
+    "marketing/jet-jetads-retail-media": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Just Eat Takeaway.com (JET) anunció el lanzamiento de JETads, una nueva plataforma publicitaria para anunciantes europeos, con alcance a 59 millones de consumidores activos, 592 millones de pedidos al año y más de 342,000 socios en 14 mercados. Está activa en todos ellos desde hoy."
+        },
+        {
+          "t": "img",
+          "src": "https://d21buns5ku92am.cloudfront.net/69466/images/714382-image_20261104135837_alq-494b13-original-1793801006.png"
+        },
+        {
+          "t": "p",
+          "x": "JETads se basa en la tecnología de personalización de JET, que analiza miles de millones de interacciones entre consumidores y socios. Atiende a tres grupos de anunciantes: los restaurantes y socios de alimentación obtienen visibilidad premium en búsqueda y navegación; las marcas FMCG llegan a los compradores mientras llenan su cesta, con informes closed-loop que vinculan el gasto con los productos añadidos a la cesta y los pedidos completados; y las marcas non-endemic llegan a los clientes en la ventana posterior al pago, mientras siguen sus pedidos durante hasta 30 minutos."
+        },
+        {
+          "t": "p",
+          "x": "\"Creamos JETads desde cero, para la era de la AI\", dijo David Vismans, Chief Growth Officer. JETads utiliza el Prosus Large Commerce Model (LCM), una AI de comercio desarrollada por Prosus, grupo matriz de JET, que aprende del comportamiento real de los clientes para mostrar lo que probablemente quieran en el momento en que probablemente lo quieran, como restaurantes distintos un viernes por la noche que un martes al mediodía."
+        }
+      ]
+    },
+    "marketing/kakao-ai-crew-ad-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.hankyung.com/photo/202611/ZK.46317333.1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Kakao iniciará el próximo mes una prueba beta cerrada de 'AI Crew', un agente de inteligencia artificial (AI) que ayuda a los anunciantes a ejecutar y gestionar sus anuncios. Según la empresa, impulsará de lleno sus planes para monetizar la publicidad con AI."
+        },
+        {
+          "t": "p",
+          "x": "Shina Chung, directora ejecutiva de Kakao, dijo el día 5 en la conferencia telefónica de resultados del 3.er trimestre: \"El próximo mes prevemos iniciar una prueba beta cerrada de AI Crew, un agente de AI que ayuda a los anunciantes a ejecutar y gestionar sus anuncios\"."
+        },
+        {
+          "t": "p",
+          "x": "AI Crew es un servicio en el que los anunciantes introducen sus objetivos de negocio en una interfaz conversacional y la AI les propone productos publicitarios y estrategias de operación adecuados. La idea es atraer a más anunciantes con un servicio en el que la AI apoya desde la recomendación de productos publicitarios hasta la configuración y el análisis de resultados. Kakao considera que, si sus servicios publicitarios con AI se consolidan, contribuirán a aumentar sus ingresos."
+        },
+        {
+          "t": "p",
+          "x": "\"Haremos que incluso los anunciantes pequeños y medianos que no están familiarizados con la gestión de anuncios puedan invertir en publicidad de forma más sencilla y eficiente\", explicó Chung. \"También queremos mejorar la eficiencia operativa de los anunciantes actuales para atraer a nuevos anunciantes y ampliar la inversión publicitaria\", añadió."
+        },
+        {
+          "t": "p",
+          "x": "Kakao también perfeccionará su tecnología de recomendación de anuncios basada en AI. Planea construir antes del 1.er trimestre del próximo año una infraestructura de memoria común que permita a la AI comprender y aprovechar el comportamiento, las preferencias y las experiencias de los usuarios. También mejorará su actual tecnología de recomendación y segmentación basada en aprendizaje automático. \"A partir del próximo año mostraremos cómo la mejora de la eficiencia publicitaria gracias a la AI y las nuevas oportunidades de monetización se traducen en un crecimiento real de los ingresos\", dijo Chung."
+        }
+      ]
+    },
+    "marketing/swivel-ctv-agentic-infra": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/tv-remote-stock-square-1-1024x1024.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Swivel es una startup de tecnología para editores fundada por el antiguo FreeWheeler Frans Vermeulen y los cofundadores de SpringServe Matt Dearborn, Rich Lin y Joseph Hirsch. Su objetivo es automatizar las tareas manuales de las operaciones publicitarias de los editores, desde la optimización de campañas hasta los ajustes de precios —un “sistema de extremo a extremo” de agentes, según Hirsch—, con la meta final de una infraestructura agéntica que abarque toda la cadena publicitaria de CTV."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de un único producto consolidado, Swivel tiene varios agentes, cada uno responsable de una parte de la compra de una campaña, como presupuestos, tráfico de pujas, ritmo de entrega, gestión del rendimiento e informes posteriores a la campaña. Muchos editores usan uno o dos agentes “para no alterar todo su flujo de trabajo de operaciones publicitarias”."
+        },
+        {
+          "t": "p",
+          "x": "Para abordar la fragmentación, Hirsch señaló el Ad Context Protocol (AdCP), cuya especificación adagents.json permite a los editores declarar qué agentes están autorizados para vender su inventario. La compra agéntica también puede automatizar la venta de formatos difíciles de comprar de forma programática, como patrocinios, anuncios en la pantalla de inicio, anuncios de pausa y medios secuenciales. Swivel sigue centrada al 100% en CTV, pero tiene previsto expandirse a retail media."
+        }
+      ]
+    },
+    "marketing/visa-agentic-commerce-benchmark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.thepaypers.com/news%20team/225-visa.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Visa lanzó el Visa Agentic Commerce Benchmark y halló que 22 modelos de AI superaron en conjunto el 57.2% de las pruebas de compra realistas. Los modelos deben identificar las necesidades del consumidor mediante la conversación y decidir no comprar si ningún producto cumple los requisitos. La primera ronda evaluó 22 modelos de 12 laboratorios de AI en 15 tareas de compra, entre ellas comprar una TV, un equipo portátil y un aparato de cuidado personal."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos con mejor desempeño superaron el 82.2% de los intentos, mientras que los más débiles superaron el 28.9%. Los cinco modelos que descubrieron más requisitos de compra ocultos promediaron una tasa de aprobación del 70.2%, frente al 44.4% de los cinco que descubrieron menos. Los tres intentos de un escenario se superaron solo el 34.2% de las veces, y en el 54% de las ejecuciones fallidas la AI realizó igualmente una compra."
+        },
+        {
+          "t": "p",
+          "x": "Rubail Birwadker, Global Head of Growth de Visa, afirmó que la confianza es clave. El Trust Index de Visa reveló que el 72% de los consumidores de Estados Unidos (US) había usado un asistente de AI, pero solo el 23% confiaba en que la AI gestionara pagos en su nombre. Visa prevé añadir más escenarios y extender las pruebas al checkout, el pago y la realización de pedidos."
+        }
+      ]
+    },
+    "marketing/amazon-agent-sponsored-text": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/Amazon-ads.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El agente de compras de Amazon ya acepta pedidos por mensaje de texto, y el hilo donde se realizan esos pedidos llevará anuncios. Sponsored Products aparecerá dentro de esas conversaciones, de forma gratuita para los anunciantes por el momento. Las compras que el agente complete por su cuenta seguirán sin anuncios (ad-free)."
+        },
+        {
+          "t": "p",
+          "x": "La opción de texto se activó hoy para un pequeño grupo de clientes de U.S. por invitación (invite-only), y Amazon planea abrirla a millones más en las próximas semanas. Los clientes vinculan un número de teléfono y obtienen un nuevo contacto llamado “Alexa Shopping”, que busca, compara opciones, responde con sugerencias por texto y completa la compra cuando se le indica; la función auto-buy permite que el agente compre cuando un precio alcanza un objetivo."
+        },
+        {
+          "t": "p",
+          "x": "La oportunidad publicitaria está en la fase de descubrimiento: cuando el agente envía por texto un conjunto de opciones, una de ellas puede ser un Sponsored Product. Más de 400 millones de clientes han usado Alexa for Shopping en los últimos 12 meses, según Amazon, y el uso de sus funciones agénticas se ha multiplicado más de ocho veces desde enero."
+        },
+        {
+          "t": "p",
+          "x": "“A medida que el comercio agéntico se une a la publicidad, la definición de una impresión es crucial, al igual que los informes y la medición”, dijo el consultor independiente de ad tech Jonathan D’Sousa-Rauto. Las solicitudes se mantienen entre la app Amazon Shopping, el sitio web y los dispositivos Alexa-enabled, y a través de Shop Direct el agente también puede comprar en tiendas fuera de Amazon."
+        }
+      ]
     }
   }
 }

@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI 사고, 나라마다 보고받는다",
+    "date": "2026.11.07",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "원문 4건 curl 전문 대조. 날짜는 원문 게재일로 고침(NCSC 11.04→11.03, G7 11.06→11.05, CERT-In 11.06→11.05 IST·지침 발표는 11.04 수, UK 11.07→11.06). 전선은 'AI 에이전트 사고를 누가 보고받나' 하나: G7 공조가 미국 반대로 무산되는 사이 인도·영국이 각자 보고 의무를 만든다(G7·UK 기사 모두 7월 Hugging Face 침입을 근거로 듦). 수치 2028·'highly likely', 6시간·4단계·180일 확인. UK 조항은 장관 권한만 주고 의무는 2차 입법 뒤라 그렇게 적음. 사진은 UK 장 하나만 남기고 나머지는 stat·quote로.",
+    "sources": [
+      "The Register — Britain on notice: AI-powered ransomware attacks to arrive by 2028 (2026.11.03)",
+      "POLITICO Europe — France, US clash over G7 effort on AI safety (2026.11.05)",
+      "The Indian Express — CERT-In sets six-hour reporting deadline for AI security incidents (2026.11.05)",
+      "The Register — UK ministers seek powers to investigate when AI agents are let off the leash (2026.11.06)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 정책 · 11.03~11.06",
+      "thread": [
+        {
+          "d": "11.03",
+          "t": "NCSC 경고",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.05",
+          "t": "G7 무산",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.05",
+          "t": "6시간 보고",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.06",
+          "t": "에이전트법",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        }
+      ],
+      "thread_note": "AI 에이전트 사고를 함께 들여다볼 틀은 무산되고, 나라마다 따로 보고받는 규칙을 만든다",
+      "eyebrow": "흐름 · 정책",
+      "headline": "AI 사고,\n나라마다 보고받는다",
+      "body": "한 건씩 보면 사이버 소식이다. 사흘 새 G7 공조는 무산됐고, 인도와 영국은 각자 AI 사고 보고 규칙을 내놨다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.03",
+      "headline": "영국, 2028년\nAI 공격 경고",
+      "body": "영국 NCSC는 2028년까지 기반시설을 노린 랜섬웨어에 AI 악성코드가 쓰일 가능성이 매우 높다고 봤다.",
+      "foot": "2026.11.03",
+      "_src": "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200",
+      "_id": "politics-ncsc-ai-ransomware-2028",
+      "stat_top": "기반시설 랜섬웨어",
+      "stat_arrow": "2028년까지 AI 악성코드 동원",
+      "stat_bottom": "매우 유력",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.05",
+      "headline": "G7 AI 안전 공조,\n미국이 막았다",
+      "body": "프랑스는 프런티어 AI 시험과 사고 정보 공유를 맡을 G7 실무단을 추진했다. 백악관은 불필요한 관료주의라 했다.",
+      "foot": "2026.11.05",
+      "_src": "https://www.politico.eu/article/france-us-clash-ai-safety-talks-a-g7/",
+      "_id": "g7-ai-safety-france-us",
+      "quote": "유감이지만,\n유럽 차원에서\n계속 밀고 나간다",
+      "quote_by": "안 르에낭프 · 프랑스 디지털 장관"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.05",
+      "headline": "인도, AI 사고\n6시간 안에 보고",
+      "body": "CERT-In의 새 AI 감사 지침. 위험을 네 단계로 나누고 보안 로그를 180일 이상 보관하게 했다.",
+      "foot": "2026.11.05",
+      "_src": "https://indianexpress.com/article/business/cert-in-reporting-deadline-ai-security-incidents-10951358/",
+      "_id": "certin-ai-incident-6hr",
+      "stat_top": "AI 보안 사고 발생",
+      "stat_arrow": "CERT-In 보고 기한",
+      "stat_bottom": "6시간",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.06",
+      "headline": "영국, 에이전트 사고\n조사 권한 추진",
+      "body": "사이버보안법 개정 조항으로 장관이 AI 에이전트 배포·사고 보고 규칙을 정할 수 있다. 시행엔 2차 입법이 필요하다.",
+      "foot": "2026.11.06",
+      "_src": "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889",
+      "_id": "uk-agentic-ai-cyber-bill",
+      "media": "pipeline/media/uk-agentic-ai-cyber-bill.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "issue": "AI 장편, 닷새 새 네 나라",
+    "date": "2026.11.07",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(인공지능신문 11.03→11.02, NIE 11.05→11.04, Korea Times 11.06→11.05 KST, Screen 11.07→11.06). 하이브리드 제작인 iQIYI는 완전 AI가 아니라 뺌. 배우 3명·ChatGPT·Suno·2027년, 61세·Gemini·10초·여섯 달, 138분·14개월·25일 개봉·Steelay, 25년·파리 집·2027년 확인. Raphael은 stat으로.",
+    "sources": [
+      "인공지능신문 — 영화 각본도 챗GPT가 쓴다…일본, 전편 생성형 AI 장편영화 2027년 공개 (2026.11.02)",
+      "The New Indian Express — Prompt, action, cut! Here comes Keralam's first full-length AI feature film (2026.11.04)",
+      "The Korea Times — AI movies make leap from short clips to big screen (2026.11.05)",
+      "Screen — Bruno Dumont turns to generative AI to film English-language sci-fi thriller 'The End' (2026.11.06)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 영화 · 11.02~11.06",
+      "thread": [
+        {
+          "d": "11.02",
+          "t": "일본",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.04",
+          "t": "인도",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.05",
+          "t": "한국",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.06",
+          "t": "프랑스",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "완전 AI 장편이 한 나라의 실험을 넘어 여러 나라로 번진다",
+      "eyebrow": "흐름 · 영화",
+      "headline": "AI 장편,\n닷새 새 네 나라",
+      "body": "한 편씩 보면 한 나라의 실험이다. 꿰어 보면 일본·인도·한국·프랑스에서 신인부터 칸 거장까지 장편을 AI로 만든다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.02",
+      "headline": "일본, 전편 AI 장편\n2027년 공개",
+      "body": "'시공유곽 라비린스'. 각본은 ChatGPT가 쓰고, 실제 배우 3명은 AI로 재현하고, 주제가는 Suno로 만든다.",
+      "foot": "2026.11.02",
+      "_src": "https://www.aitimes.kr/news/articleView.html?idxno=42538",
+      "_id": "jikuyukaku-japan-ai-feature",
+      "video": "pipeline/media/jikuyukaku-japan-ai-feature.mp4"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.04",
+      "headline": "61세 신인,\nGemini로 장편",
+      "body": "20년간 제작자 문이 열리지 않자 Gemini를 택했다. 10초 클립을 이어 붙여 여섯 달 만에 완성해 심의에 넣었다.",
+      "foot": "2026.11.04",
+      "_src": "https://www.newindianexpress.com/kerala/2026/Nov/04/prompt-action-cut-here-comes-keralams-first-full-length-ai-feature-film",
+      "_id": "googilil-kerala-ai-feature",
+      "media": "pipeline/media/googilil-kerala-ai-feature.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.05",
+      "headline": "Raphael,\n25일 극장 개봉",
+      "body": "실사 촬영 없이 생성형 AI로 만든 138분 SF. 지난달 Steelay에 이어 극장에 걸리는 완전 AI 장편이다.",
+      "foot": "2026.11.05",
+      "_src": "https://www.koreatimes.co.kr/entertainment/films/20261105/ai-movies-make-leap-from-short-clips-to-big-screen",
+      "_id": "raphael-ai-feature-korea",
+      "stat_top": "138분 장편",
+      "stat_arrow": "인물 얼굴·동작 맞추는 편집",
+      "stat_bottom": "14개월",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.06",
+      "headline": "칸 거장도\n제작진 없이 AI로",
+      "body": "Bruno Dumont이 25년 묵힌 각본 The End를 배우·제작진 없이 파리 집에서 AI로 만들었다. 2027년 공개.",
+      "foot": "2026.11.06",
+      "_src": "https://www.screendaily.com/news/bruno-dumont-turns-to-generative-ai-to-film-english-language-sci-fi-thriller-the-end/5222133.article",
+      "_id": "dumont-the-end-genai-feature",
+      "media": "pipeline/media/dumont-the-end-genai-feature.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

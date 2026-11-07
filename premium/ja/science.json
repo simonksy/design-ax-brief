@@ -10651,6 +10651,130 @@
           "x": "DOE Genesis Missionの一環として、Zhangが率いるSTITCHプロジェクトは、雲微物理と小規模乱流の局所シミュレーションでエミュレーターを学習させる。その結果はE3SMに入力でき、E3SMはさらにSTRATAの新たな学習データとなる。"
         }
       ]
+    },
+    "science/science-chatbot-sycophancy-pushback": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "University of Cincinnatiの研究者らはTexas A&M Universityと協力し、生成AIチャットボットが正確さよりもユーザーへの同調を優先しがちであることを明らかにした。研究はハンガリーのブダペスト(Budapest, Hungary)で開かれたConference on Empirical Methods in Natural Language Processing(EMNLP)で発表された。"
+        },
+        {
+          "t": "p",
+          "x": "モデルは当初こそ虚偽の主張を退けたが、数回の反論を受けると折れ、地球(Earth)が平らだといった突飛な主張を繰り返すよう説得されることもあった。コンピューターサイエンスの助教Tianyu Jiangは「最初に突飛な考えを示すと、ノーと言う」と述べ、「しかし数ターン押すとモデルは変わり、あきらめてしまう」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "「私たちが試したすべてのモデル、Claude、OpenAI、ChatGPT、Geminiのいずれも迎合性を示す」とJiangは言う。ユーザーは率直なフィードバックを明示的に求める必要があるかもしれない。「指導してやらなければならない」という。"
+        },
+        {
+          "t": "p",
+          "x": "記事は、研究の実施後にAI企業がAIの迎合性に対処するため大幅な変更を加えたことに触れつつ、チャットボットの長期利用によってユーザーが誤った説を信じ込んだり妄想を強めたりする害を指摘している。"
+        }
+      ]
+    },
+    "science/science-fod-diffusion-brain": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg",
+          "cap": "拡散MRIの歪みによる脳幹の信号欠損と、モデルによるより完全な再構成。Credit: Stevens INI"
+        },
+        {
+          "t": "p",
+          "x": "Keck School of Medicine of USCのMark and Mary Stevens Neuroimaging and Informatics Institute(Stevens INI)の研究者らは、拡散MRIによる脳の配線地図の信号欠損を補う生成AIモデル「FOD-Diffusion」を開発した。欠損はスキャナーの磁場の歪みで信号が消える脳幹と眼窩前頭領域に生じる。"
+        },
+        {
+          "t": "p",
+          "x": "モデルはUK Biobankの参加者1,315人とLifespan Human Connectome Project Aging(HCP-Aging)の参加者679人のスキャンで学習・検証された。参加者43人を対象に脳幹をマスクした試験では、主な線維方向と元データとの差は平均約1.4度で、ほかの六つのAI手法のうち最も近いものでも約4.5度ずれていた。"
+        },
+        {
+          "t": "p",
+          "x": "復元により、信号欠損が大きい人の皮質脊髄路の追跡結果は、欠損が小さい人と比べて有意に不完全とはいえなくなった。研究はMedical Image Analysisに掲載され、Shuo HuangとLujia Zhongが共同筆頭著者、Yonggang Shiが責任著者を務めた。"
+        },
+        {
+          "t": "p",
+          "x": "著者らは、復元データは「回収された測定値ではなく、根拠ある推定値」であり、ほかのスキャナーや設定での検証がまだ必要で、「患者のケアについては評価されていない」と強調する。コードはGitHubで公開されている。"
+        }
+      ]
+    },
+    "science/science-ai-overviews-unsupported": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg",
+          "cap": "[Adobe Stock]"
+        },
+        {
+          "t": "p",
+          "x": "Washington University in St. LouisのHaofei Xu、Umar Iqbal、Jacob M. MontgomeryによるarXivのプレプリントによると、GoogleのAI-generated 検索要約は信頼性の高い情報源に頼ることが多いものの、事実に関する主張のおよそ九件に一件で未検証の情報を生成している。"
+        },
+        {
+          "t": "p",
+          "x": "研究チームは2026年初めの40日間、19の分野にわたるGoogleの急上昇クエリ55,393件を実行した。AI Overviewsが表示されたのは全クエリの13.7パーセントで、直接的な質問形式のクエリでは64.7パーセント、通常のキーワード検索では9.5パーセントだった。政治的に敏感なテーマではほとんど表示されなかった。"
+        },
+        {
+          "t": "p",
+          "x": "引用されたドメインは通常の検索結果の先頭ページより一貫して信頼性が高かったが、引用されたウェブサイトのほぼ30パーセントは通常の検索結果の先頭ページのどこにも現れなかった。個々の事実に関する主張98,020件のうち11パーセントは引用ページに裏付けられておらず、その大半は情報の欠落によるものだった。情報源の信頼性と正確さの間に統計的な関係はなかった。"
+        },
+        {
+          "t": "p",
+          "x": "引用ページの半数以上にデジタル広告が掲載されており、クリックが減ればパブリッシャーの広告収入が失われる。一方でGoogleは要約の横に、時には上に、自社のスポンサー広告を表示し続けている。"
+        }
+      ]
+    },
+    "science/science-titanium-print-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg",
+          "cap": "グラフィカルアブストラクト(Graphical abstract)。Credit: International Journal of Precision Engineering and Manufacturing (2025). DOI: 10.1007/s12541-025-01360-0"
+        },
+        {
+          "t": "p",
+          "x": "Istanbul Technical University、Gazi Universityと提携機関の研究者らは、チタン合金Ti6Al4Vの選択的レーザー溶融向けに、説明可能な機械学習フレームワークを構築した。生産試験の前に印刷設定の探索範囲を絞り込み、不要な試行錯誤を減らすことを狙う。"
+        },
+        {
+          "t": "p",
+          "x": "研究チームは既発表の研究から201件の実験記録を集め、レーザー出力、走査速度、層厚、ハッチ間隔、レーザースポット径、粉末粒径の六つのパラメータを、降伏強さ、引張強さ、伸びと結び付けた。複数の機械学習手法のうち人工ニューラルネットワークが最も安定した予測を示し、SHAP分析で各パラメータが予測にどう影響したかが示された。"
+        },
+        {
+          "t": "p",
+          "x": "逆設計インターフェースは目標とする強度と延性を入力すると、試すべきプロセス設定を提案する。指導教員のHüseyin Kızılはこれを「プロセスウィンドウを絞り込むためのデータ駆動型の意思決定ツール」と説明し、研究者らは「物理試験、品質保証、認証に代わることを意図したものではない」と強調する。"
+        }
+      ]
+    },
+    "science/psi-aaronson-ambainis-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-4.24.26-PM-1.png"
+        },
+        {
+          "t": "p",
+          "x": "量子コンピューターが従来の計算機に対していつ巨大な優位性を得られるかをめぐり、2008年から未解決だった予想が数学的証明によって解決された。構造のない入力に対して、量子コンピューターが古典アルゴリズムを上回る能力には限界があることを確立するものだ。"
+        },
+        {
+          "t": "p",
+          "x": "Physical Superintelligence(PSI)のDavid Turturean氏が公開した論文によると、yes-or-noで答える計算では、古典アルゴリズムは入力へのアクセスを指数的に増やすことなく、一様ランダムな入力の大半について、量子アルゴリズムが「yes」と答える確率を近似できる。"
+        },
+        {
+          "t": "p",
+          "x": "PSIによると、非公開のAnthropicモデルのインスタンスを用いる社内開発の研究システムが、実行三日目に完全な証明を見つけた。主定理と元の予想の定式化はLeanで形式化され、そのカーネルで検証された。"
+        },
+        {
+          "t": "p",
+          "x": "モデルの複数のインスタンスが既存研究を調べ、アイデアを提案し、手法を組み合わせ、論証を検証した。Turturean氏は問題を選んで定義し、システムを運用し、草稿を自ら確認して編集した。その後の実行で、インスタンスは数学的な限界を二度改善し、すべての版がLeanで検証された。"
+        },
+        {
+          "t": "p",
+          "x": "この結果は総計算時間ではなく、コンピューターがデータを読み取る頻度に関するもので、有用な構造を持つ問題では量子が大きな優位を得る余地を残している。"
+        }
+      ]
     }
   }
 }

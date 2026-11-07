@@ -10333,6 +10333,165 @@
           "src": "https://media.wired.com/photos/6aea54376c2140d939cde56c/master/w_1600%2Cc_limit/Aina%2520Speaker%2520and%2520Shifter.png"
         }
       ]
+    },
+    "gadgets/dji-matrice5t-drone": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "DJI于6日推出一款融合激光雷达(LiDAR)、毫米波雷达与人工智能(AI)影像分析技术的工业无人机“Matrice 5T”。该产品专为在夜间或恶劣天气下探测障碍物、执行设施巡检与应急响应等工业现场任务而设计。新品是DJI小型工业无人机的旗舰机型。激光雷达在夜间也能探测最远32m 外的电线等细小障碍物。毫米波雷达在雾、雨、粉尘导致视野受限的环境中同样能感知周边状况。"
+        },
+        {
+          "t": "p",
+          "x": "相机性能也有所增强。机身搭载基础分辨率为1280×1024的红外热成像相机，像素数达到此前640×512传感器的4倍。超高分辨率(UHR)模式下支持2560×2048分辨率。广角相机采用1/0.98英寸图像传感器及AI低照度增强技术，最高ISO160万感光度可在0.01勒克斯级别的暗光环境中拍摄彩色影像。此外还搭载了50MP中长焦相机，以及支持11倍光学变焦的长焦相机。"
+        },
+        {
+          "t": "p",
+          "x": "该机还具备利用AI实现现场作业自动化的功能。机载AI模型可同时分析热成像与普通影像，识别车辆、船舶等20种以上目标。它也可用于电力设施巡检：通过机身顶部的激光雷达感知电力线与架空地线，并沿线路飞行，检查断股、异物等异常迹象。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1fd4e188c2ba4460b8e2ed290ad6ca7c_P1.jpg",
+          "cap": "DJI Matrice 5T"
+        },
+        {
+          "t": "p",
+          "x": "最长飞行时间为59分钟，可在零下20度至零上50度的环境中运行。防尘防水等级为IP55。按制造商测试标准，图传距离最远可达40㎞，较上一代的25㎞有所提升。在通信困难的地形中，可借助中继功能扩展传输范围。"
+        },
+        {
+          "t": "p",
+          "x": "DJI计划将Matrice 5T供应给公共安全、灾害应对、电力与通信设施巡检、测绘等多个行业现场。"
+        }
+      ]
+    },
+    "gadgets/siri-ai-waitlist-ios27": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.zdnet.com/wp-content/uploads/sites/3/1_9958c8.jpg",
+          "cap": "Maria Diaz/ZDNET"
+        },
+        {
+          "t": "p",
+          "x": "Siri AI是Apple推出的全新生成式AI驱动（AI-powered）虚拟助手。此前，在运行iOS 27的兼容Apple设备上启用Siri AI时，会弹出提示，告知设备将被加入候补名单，等待时间长短不一。现在，只要在兼容的iPhone、Mac或iPad上启用，即可自动下载Siri AI。唯一的例外是，如果需求异常旺盛，Apple可能会暂时恢复候补名单。"
+        },
+        {
+          "t": "p",
+          "x": "获取方法：前往Settings（设置），点击Siri，再点击Try Siri AI (Beta)并按提示操作——Siri AI会立即开始下载，而不是把你加入候补名单。你需要一台能运行Apple Intelligence的兼容设备，例如iPhone（15 Pro或更新机型）、iPad（Mini A17 Pro或更新机型，或搭载M-series芯片的机型）、Mac（MacBook Neo或搭载M-series芯片的机型）、Apple Watch（Series 9和Ultra 2或更新机型）或Apple Vision Pro。"
+        },
+        {
+          "t": "p",
+          "x": "Siri AI不再给出千篇一律的回答，而是能回答复杂问题、理解更自然的表达，并在整段对话中以及整个Apple生态内保持上下文。ZDNET的Lance Whitney建议使用其屏幕感知功能来询问路线、解释屏幕上的内容，或将屏幕上的项目添加到列表中。"
+        },
+        {
+          "t": "p",
+          "x": "今年秋天，iOS 27随iPadOS 27、MacOS 27 Golden Gate、VisionOS 27和WatchOS 27一同推出了Siri AI测试版。支持的语言包括英语、法语、日语、韩语、葡萄牙语和西班牙语；该功能在中国大陆不可用，在欧盟的iOS、iPadOS和WatchOS上也不提供。"
+        }
+      ]
+    },
+    "gadgets/snap-specs-gen6-handson": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Azv3TgGUqcELXYvsSeg4Hj.jpg",
+          "cap": "Snap Specs演示现场（图片来源：Future/ Mike Moore）"
+        },
+        {
+          "t": "p",
+          "x": "AR眼镜为那些希望在日常生活中多一些辅助的人带来了新的机会——我在新款Snap Specs于英国（UK）上市前去试用了一番。第六代Snap Specs明显更像一件配饰；操作主要在AR中完成，镜腿上有两个按钮，分别用于录制和重置。"
+        },
+        {
+          "t": "p",
+          "x": "与其他AR眼镜不同，Snap Specs的最大卖点是无需连接智能手机，可以随时随地佩戴；需要时还可以用便携式充电板补充电量。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/3rD3RDGiN3836nBAJhDuDC.jpg",
+          "cap": "Snap Specs（图片来源：Future/Mike Moore）"
+        },
+        {
+          "t": "p",
+          "x": "我试用的眼镜预装了Google Docs，可通过虚拟键盘输入，也能连接Bluetooth键盘。眼镜可拍摄最长30秒的视频片段和静态照片，内置浏览器还兼作媒体查看器。"
+        },
+        {
+          "t": "p",
+          "x": "语音AI助手回答问题也又快又准（尽管它查找离我们最近的地铁站时的准确性让我存疑），而通过抬头显示使用Google Maps则彻底改变了体验。"
+        },
+        {
+          "t": "p",
+          "x": "最令人印象深刻的演示或许是翻译工具：当你看着一个说外语的人时，对方的话会被即时翻译，并以对话气泡的形式叠加显示在其身上——基本就像看TV节目时的字幕。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/aeZwHJyEZ3TuVAyJ4WHfa5.jpg",
+          "cap": "Snap Specs能让我成为画家吗？出人意料，答案是肯定的（图片来源：Future/Mike Moore）"
+        },
+        {
+          "t": "p",
+          "x": "那么，售价£1,999的Snap Specs会成为未来的工作方式吗？鉴于我看到的较有趣的演示包括玩多米诺骨牌、提升足球技巧、绘画教程以及互动式Harry Potter体验，我不确定它是否已经到位——但我很期待看到这项技术接下来的发展。"
+        }
+      ]
+    },
+    "gadgets/pudu-tomo-s-mower": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pudu-tomo-s-hero-1280x720.jpg",
+          "cap": "PUDU TOMO S机器人割草机"
+        },
+        {
+          "t": "p",
+          "x": "Pudu的TOMO S直接解决刀片问题：需要打磨时，它会返回充电站，自行打磨旋转刀片。无需工具，也无需定期更换刀片。这是Pudu首个消费级产品线，出自一家已向85个以上国家交付超过130,000台商用机器人的公司。三个版本覆盖1,500至5,000平方米的草坪，约合0.37至1.24英亩。"
+        },
+        {
+          "t": "p",
+          "x": "Pudu自己的实验室对比显示，其旋转刀片在三年后依然锋利且耐锈，而小刀片在一个月后就变钝、易生锈——这是制造商测试，并已如实标注。"
+        },
+        {
+          "t": "video",
+          "yt": "lg-OQwfREYc"
+        },
+        {
+          "t": "p",
+          "x": "TOMO S以两台636瓦电机驱动空气动力学高升力刀片，转速最高可达6,000 RPM，并配有后排草通道和浮动刀盘。偏置切割刀盘和侧面感应让它能紧贴墙壁、树木和花坛修剪。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pudu-tomo-s-planner.jpg",
+          "cap": "AI Mowing Planner会根据当地天气安排作业。图片：PUDU HOME"
+        },
+        {
+          "t": "p",
+          "x": "Triple-Sense Navigation结合360度LiDAR、AI视觉和网络RTK，实现厘米级定位；One-Tap Auto Mapping可在首次运行时识别可割草区域和边界。按Pudu的数据，四个轮毂电机提供全轮驱动，可应对最高45度的坡度。在应用中，AI Mowing Planner会根据你的天气和位置安排作业，Smart Recut则会让割草机返回补割遗漏之处。"
+        },
+        {
+          "t": "p",
+          "x": "Pudu尚未公布三个版本中任何一款的价格，也未宣布各地区上市情况；订单将于2027年早春在PUDU HOME开放。"
+        }
+      ]
+    },
+    "gadgets/wired-radar-ai-aircon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ad0bda38de176c462eac73d/master/w_2560%2Cc_limit/Screenshot%25202026-10-15%2520at%252012.48.10.jpg"
+        },
+        {
+          "t": "p",
+          "x": "空调和电风扇约占全球建筑用电量的百分之二十，到2050年，在用空调数量可能达到5.5 billion 台。来到2026年，AI-powered ACs 已能以毫米级精度追踪家中的人。"
+        },
+        {
+          "t": "p",
+          "x": "LG最新的DualCool AI AC配备5米雷达传感器用于检测人员。Hisense的Companion Living AC借助智能家居传感器，根据你的生活规律预先冷却\"目标路径\"。Dyson的Find+Follow净化风扇使用低分辨率摄像头进行17点人体检测，在设备端处理，不做人脸识别。"
+        },
+        {
+          "t": "p",
+          "x": "Samsung的Bespoke AI WindFree Pro加装了可追踪两名使用者的运动雷达传感器；Samsung称其AI节能模式可节能\"最高百分之三十\"。Midea的VitaBreeze AC将于2027年初上市，结合房间照片与毫米波雷达。"
+        },
+        {
+          "t": "p",
+          "x": "\"它确实有潜力降低空调的总能耗，\"KTH的Björn Palm说。能降多少？这就不太清楚了。Gradient CTO Vincent Romanin持怀疑态度：\"我个人从没用过一款让我觉得好用的带占用传感器的产品。\"在Palm看来，到2050年实现可持续制冷，靠的是紧凑型热泵和天然制冷剂，而不是一台跟着你走进厨房的AC。"
+        }
+      ]
     }
   }
 }

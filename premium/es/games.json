@@ -10104,6 +10104,174 @@
           "x": "Lee Yeon-soo, director ejecutivo de NC AI, afirmó: \"A través de este G-Star escucharemos de cerca las voces de los desarrolladores de videojuegos y los creadores, y reflejaremos las diversas necesidades del sector para presentar tecnologías y servicios de AI más prácticos\"."
         }
       ]
+    },
+    "games/quixel-megascans-ai-training": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/meta/50915/images/6aedb18c36225/contain_1200x630.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Y esta vez es permanente. Quixel ofreció gratis la biblioteca Megascans por tiempo limitado en 2024, en torno al lanzamiento de Fab; esta vez, toda la biblioteca de unos 23,000 recursos escaneados en 3D de alta calidad es gratuita desde ahora. Los listados de Fab seguirán actualizándose hasta el 12 de noviembre."
+        },
+        {
+          "t": "p",
+          "x": "También se actualizaron los términos de todos los recursos de Quixel, lo que permite usar los recursos de Megascans y Megaplants para entrenar modelos de AI, otra señal del creciente interés de Epic Games en la integración de AI, como muestran sus planes para Unreal Engine 6."
+        },
+        {
+          "t": "p",
+          "x": "«Hacemos gratuita toda la biblioteca Quixel Megascans en Fab. También actualizamos los términos de todos los recursos de Quixel para que ahora puedas entrenar modelos de AI con Megascans y Megaplants. Tus modelos de AI pueden aprender de escaneos del mundo real para ayudarte a generar entornos variados y fotorrealistas para tus proyectos. Si compraste Megascans o un Quixel Bundle el 1 de enero de 2025 o después, reembolsaremos tu compra a tu Epic Account Balance. Conservas tu licencia y obtienes los nuevos derechos de AI»."
+        },
+        {
+          "t": "p",
+          "x": "Los reembolsos se abonarán en tu Epic Account Balance antes de que termine 2026."
+        }
+      ]
+    },
+    "games/taketwo-zelnick-ai-ad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamey.kr/news/photo/202611/3019570_173609_5044.jpg",
+          "cap": "Strauss Zelnick, CEO de Take-Two Interactive, responde a una pregunta sobre piratería en una charla tecnológica del WSJ /WSJ YouTube"
+        },
+        {
+          "t": "p",
+          "x": "Strauss Zelnick, director ejecutivo (CEO) de Take-Two Interactive, que distribuye 'GTA6', expuso antes del lanzamiento su opinión sobre la inteligencia artificial (AI) y la piratería. También contó un caso en el que un anuncio de juego móvil rodado con actores costaba 2만5000~5만 dólares por pieza, mientras que hacerlo con AI costó unos 800 dólares."
+        },
+        {
+          "t": "p",
+          "x": "Zelnick participó en una charla del evento 'WSJ Tech California', organizado por el diario estadounidense The Wall Street Journal (WSJ). El día 4 (hora local), el WSJ publicó el video completo de 23 minutos de la charla en su canal oficial de YouTube, 'WSJ Events'."
+        },
+        {
+          "t": "p",
+          "x": "Como ejemplo de uso de AI, Zelnick habló de un estudio de Türkiye. El estudio encargó a una agencia local anuncios de acción real de 30 segundos para un juego móvil, rodados con actores, con un costo de producción de 2만5000~5만 dólares por pieza. Los anuncios de 30 y 60 segundos que hizo a modo de prueba con software comercial de AI parecían anuncios de acción real con personas, pero costaron unos 800 dólares cada uno. «Se pueden hacer muchos muy baratos y probarlos», dijo, y lo calificó de «bastante sorprendente». Sin embargo, marcó un límite: «Es una historia de marketing, no de desarrollo»."
+        },
+        {
+          "t": "p",
+          "x": "Sobre la AI en el desarrollo fue más reservado. «La postura de los consumidores es que no quieren que algo llamado AI entre en los juegos», dijo Zelnick, y añadió: «GTA se hace a mano (handcrafted)». Aun así, reveló que dentro de Take-Two hay cientos de proyectos que prueban nuevas tecnologías. Sobre los resultados, respondió: «En nuestra estructura de costos, el ahorro ha sido relativamente pequeño»."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamey.kr/news/photo/202611/3019570_173610_5056.jpg",
+          "cap": "Zelnick respondió en el escenario de 'WSJ Tech California' preguntas sobre los costos de desarrollo de GTA6, el retraso del lanzamiento, la AI y la piratería /WSJ YouTube"
+        },
+        {
+          "t": "p",
+          "x": "Cuando el presentador citó el caso de un juego de PS4 recreado en Roblox con herramientas de AI y le preguntó por la piratería, Zelnick respondió: «La piratería es parte de la vida (a fact of life)». Dijo que, si el problema crece, responderán tanto por la vía legal como por la técnica."
+        },
+        {
+          "t": "p",
+          "x": "GTA6 sale el 19 de noviembre para PS5 y Xbox Series X|S. Rockstar Games abrirá la predescarga a partir del día 10."
+        }
+      ]
+    },
+    "games/goodmorning-teacher-fangame": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/346/717/20261105160857.webp",
+          "cap": "Pantalla de inicio de GMT Game Project (Foto: Gamemeca)"
+        },
+        {
+          "t": "p",
+          "x": "GMT Game Project, un juego de fans basado en el popular manhwa escolar de los años 1990 Good Morning Teacher, retomó su desarrollo tras unos 20 años con ayuda de tecnología AI y publicó su primera build en el Día del Maestro."
+        },
+        {
+          "t": "p",
+          "x": "A principios de los años 2000 abrió una web del juego de fans e incluso recibió ilustraciones del autor original, pero el proyecto quedó sin terminar y estuvo parado unos 20 años. A comienzos de este año retomó el trabajo con ayuda de AI, publicó la primera build el 15 de mayo, Día del Maestro, y tras la versión oficial 1.0.0 en agosto lanzó en noviembre la actualización 1.3.0. Es la historia del desarrollador Shin Jun-soo, creador del juego de fans no oficial y no comercial 'GMT Game Project'."
+        },
+        {
+          "t": "video",
+          "yt": "b8tFuAjy3xg"
+        },
+        {
+          "t": "p",
+          "x": "En 2026 llegó la era del desarrollo con AI. Shin sintió que ya no podía poner como excusa la 'falta de tiempo'. Así que mostró a un agente de AI la antigua web y los materiales del proyecto que conservaba en su almacenamiento, y obtuvo la respuesta de que podía terminarse."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/346/719/20261105160858.webp",
+          "cap": "Materiales que el desarrollador reunió durante años (Cortesía del desarrollador Shin Jun-soo)"
+        },
+        {
+          "t": "p",
+          "x": "GMT Game Project es una simulación de crianza en la que el jugador encarna a Park Young-min y pasa 3 años en el instituto Ilchul. Toma como base la estructura de 'Tokimeki Memorial' y se inspira en las detalladas estadísticas de 'Princess Maker 2'. Cada evento incluye CG y música, como canciones vocales hechas con AI, para reducir la monotonía."
+        },
+        {
+          "t": "p",
+          "x": "En el pasado no logró sacar adelante la colaboración con otras personas, y dice tener sentimientos encontrados por haber logrado un resultado esta vez con ayuda de AI. El guion de la versión inicial estaba lleno de expresiones que la AI usa a menudo, y él lo leyó y las corrigió una a una."
+        },
+        {
+          "t": "p",
+          "x": "GMT Game Project se publicó como un proyecto de fans no oficial y no comercial, con el principio de aceptar incluso el cese de su distribución si el titular de los derechos lo pide. Si las imágenes hechas con AI llegan a ser un problema, también contempla reunir a creadores para trabajar juntos. Pule el juego con el Día del Maestro del próximo año, el 15 de mayo, como fecha límite final."
+        }
+      ]
+    },
+    "games/ign-me3-modding-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/10/29/me3-1793234529955.jpg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "t": "p",
+          "x": "En los últimos meses ha habido una explosión de AI en la escena del modding. Ya sean mods de mashup en Twitter o descompilaciones completas hechas por Claude, la AI está en todas partes en la comunidad de mods, y podría estar matando el hobby."
+        },
+        {
+          "t": "p",
+          "x": "Mgamerz, de ME3Tweaks, creador de un nuevo mod ME3 Multiplayer para Mass Effect Legendary Edition, admite que Claude es muy eficaz para modificar juegos, pero dice que está provocando una avalancha de contenido de poco esfuerzo. «La dificultad de hacer mods y de iniciarse en ello filtraba mucho material de baja calidad». Los mods de AI sin optimizar pueden romper otros mods o inflar el uso de memoria."
+        },
+        {
+          "t": "p",
+          "x": "«¿Iniciarse en [el modding]? Siento que el modding se está muriendo un poco. Si llegas y dices: 'Solo quiero hacer esto, sin AI (no AI)'... ahora prácticamente tienes que trabajar en secreto»."
+        },
+        {
+          "t": "p",
+          "x": "No se opone a los mods de AI de uso personal: «En cuanto entregas este producto a otra persona y lo compartes con el mundo, de pronto puede convertirse en un problema de todos. Y, por mi experiencia, todos los que hacen cosas con vibe coding, dos semanas después, ya no están»."
+        }
+      ]
+    },
+    "games/anthropic-project-eve-claude": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www-cdn.anthropic.com/images/4zrzovbb/website/3412bc3ca96f5ba0b24b3d2284c81a70b0e574df-1668x1238.png"
+        },
+        {
+          "t": "p",
+          "x": "Nos asociamos con Fenris Creations para que Claude jugara dos juegos del EVE Universe: EVE Online, que lleva más de dos décadas funcionando sin interrupción, y EVE Frontier, más reciente y todavía en desarrollo."
+        },
+        {
+          "t": "p",
+          "x": "En EVE Online, Claude actuó como un comerciante solitario, con la única instrucción de maximizar beneficios, en una repetición simulada de un mercado del juego. Los modelos más nuevos obtuvieron ganancias constantes allí donde las estrategias algorítmicas simples perdían dinero. Las ganancias medias se triplicaron desde Claude Opus 4.6, el modelo más antiguo que probamos, hasta Claude Fable 5, el más reciente. Cuando les pedimos apostar hacia dónde iban los precios, incluso Fable 5 ganó dinero solo en cerca de la mitad de sus ejecuciones."
+        },
+        {
+          "t": "img",
+          "src": "https://www-cdn.anthropic.com/images/4zrzovbb/website/63981d2e407e105d842d2fd24782fbcbf73e93b6-1890x855.png"
+        },
+        {
+          "t": "p",
+          "x": "Con mucha diferencia, la estrategia más común a la que llegaron fue la captura del diferencial. Los márgenes eran estrechos, del 8-13%, pero los agentes movían cientos de órdenes al día."
+        },
+        {
+          "t": "p",
+          "x": "En EVE Frontier, equipos de cuatro agentes Claude afrontaron misiones largas en el juego en vivo. Para los modelos lanzados antes de Fable 5, escribir un scaffold utilizable era casi imposible. Con un scaffold escrito por Fable 5, nunca perdieron una nave y terminaron en menos de 12 horas."
+        },
+        {
+          "t": "video",
+          "src": "https://cdn.sanity.io/files/4zrzovbb/website/e355ce159228bb87a5b69e7f4bfd9fc94b9b1fad.mp4"
+        },
+        {
+          "t": "p",
+          "x": "En general, los agentes se coordinaron bien como equipo, pero cuando ordenamos a uno que saboteara en secreto a su equipo, sus compañeros casi nunca lo descubrieron. Los monitores con acceso limitado basados en Opus 4.6, 4.7 y 4.8 detectaron al 30–40% de los saboteadores."
+        },
+        {
+          "t": "p",
+          "x": "Las organizaciones humanas afrontan el problema de los actores malintencionados con registros de auditoría, reputación y separación de funciones, y los equipos de agentes probablemente necesitarán algo similar."
+        }
+      ]
     }
   }
 }

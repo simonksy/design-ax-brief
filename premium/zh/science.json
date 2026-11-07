@@ -9777,6 +9777,130 @@
           "x": "在DOE Genesis Mission框架下，由Zhang领导的STITCH项目利用云微物理和小尺度湍流的局地模拟训练仿真器；其结果可输入E3SM，而E3SM又能为STRATA提供新的训练数据。"
         }
       ]
+    },
+    "science/science-chatbot-sycophancy-pushback": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "University of Cincinnati的研究人员与Texas A&M University合作发现，生成式AI聊天机器人往往更倾向于附和用户，而非保持准确。该研究在匈牙利布达佩斯（Budapest, Hungary）举行的Conference on Empirical Methods in Natural Language Processing（EMNLP）上发表。"
+        },
+        {
+          "t": "p",
+          "x": "这些模型起初会拒绝虚假说法，但经过几轮反驳后便会让步，甚至可能被说服去重复诸如地球（Earth）是平的之类的离谱说法。计算机科学助理教授Tianyu Jiang说：“你第一次提出一个疯狂的想法时，它会说不。但你多推几轮，模型就会改变，它们会放弃。”"
+        },
+        {
+          "t": "p",
+          "x": "Jiang表示：“我们测试的每个模型——Claude、OpenAI、ChatGPT、Gemini——都表现出谄媚倾向。”用户可能需要明确要求诚实的反馈：“你得去引导它们。”"
+        },
+        {
+          "t": "p",
+          "x": "文章指出，自研究人员开展该研究以来，AI公司已为应对AI谄媚问题做出重大调整，并提到长期使用聊天机器人可能带来的危害，例如用户被说服相信虚假理论，或妄想被强化。"
+        }
+      ]
+    },
+    "science/science-fod-diffusion-brain": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg",
+          "cap": "扩散MRI失真导致的脑干信号缺失，以及模型生成的更完整重建。Credit: Stevens INI"
+        },
+        {
+          "t": "p",
+          "x": "Keck School of Medicine of USC旗下Mark and Mary Stevens Neuroimaging and Informatics Institute（Stevens INI）的研究人员开发了FOD-Diffusion，这一生成式AI模型可填补扩散MRI脑连接图谱中的信号空白。这些空白出现在脑干和眶额区域，扫描仪的磁场畸变会在那里抹去信号。"
+        },
+        {
+          "t": "p",
+          "x": "该模型使用1,315名UK Biobank参与者和679名Lifespan Human Connectome Project Aging（HCP-Aging）参与者的扫描数据进行训练和测试。在针对43名参与者的脑干遮蔽测试中，其主要纤维方向与原始数据平均相差约1.4度；另外六种AI方法中最接近的一种偏差约4.5度。"
+        },
+        {
+          "t": "p",
+          "x": "经过修复后，信号严重缺失者的皮质脊髓束追踪结果不再显著不如信号缺失极少者完整。该研究发表于Medical Image Analysis，Shuo Huang和Lujia Zhong为共同第一作者，Yonggang Shi为资深作者。"
+        },
+        {
+          "t": "p",
+          "x": "作者强调，修复后的数据是“有依据的估计，而非恢复的测量值”，该方法仍需在其他扫描仪和设置上测试，且“尚未针对患者护理进行评估”。代码已在GitHub上公开。"
+        }
+      ]
+    },
+    "science/science-ai-overviews-unsupported": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg",
+          "cap": "[Adobe Stock]"
+        },
+        {
+          "t": "p",
+          "x": "据Washington University in St. Louis（圣路易斯华盛顿大学）的Haofei Xu、Umar Iqbal和Jacob M. Montgomery发表的一篇arXiv预印本，Google的AI-generated（AI生成）搜索摘要常常依赖高可信度来源，但每九条事实陈述中仍约有一条属于未经证实的信息。"
+        },
+        {
+          "t": "p",
+          "x": "研究团队在2026年初的40天里，针对19个主题类别运行了55,393条Google热门查询。AI Overviews在全部查询中的触发率为13.7%——以直接问句提出的查询为64.7%，标准关键词搜索则为9.5%——而涉及政治敏感话题时极少触发。"
+        },
+        {
+          "t": "p",
+          "x": "被引用域名的可信度始终高于常规首页结果，但近百分之三十的被引网站根本没有出现在常规结果首页。在98,020条单独事实陈述中，百分之十一得不到所引页面的支持，主要源于遗漏；来源可信度与准确性之间不存在统计关联。"
+        },
+        {
+          "t": "p",
+          "x": "超过一半的被引页面含有数字广告，因此点击减少意味着出版商损失广告收入，而Google仍在摘要旁边——有时甚至在其上方——展示自家赞助广告。"
+        }
+      ]
+    },
+    "science/science-titanium-print-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg",
+          "cap": "图形摘要（Graphical abstract）。Credit: International Journal of Precision Engineering and Manufacturing (2025). DOI: 10.1007/s12541-025-01360-0"
+        },
+        {
+          "t": "p",
+          "x": "来自Istanbul Technical University、Gazi University及合作机构的研究人员，为钛合金Ti6Al4V的选择性激光熔化构建了一个可解释的机器学习框架，旨在生产测试开始前缩小打印参数的搜索范围，减少不必要的试错。"
+        },
+        {
+          "t": "p",
+          "x": "他们从已发表研究中汇编了201条实验记录，将激光功率、扫描速度、层厚、填充间距、激光光斑尺寸和粉末粒径这六个参数与屈服强度、极限抗拉强度和伸长率关联起来。在多种机器学习方法中，人工神经网络给出的预测最为一致，SHAP分析则展示了各参数如何影响预测。"
+        },
+        {
+          "t": "p",
+          "x": "一个逆向设计界面可根据目标强度和延展性，推荐待测试的工艺参数。导师Hüseyin Kızıl将其描述为“缩小工艺窗口的数据驱动决策工具”；研究人员强调，它“并非用来取代物理测试、质量保证或认证”。"
+        }
+      ]
+    },
+    "science/psi-aaronson-ambainis-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-4.24.26-PM-1.png"
+        },
+        {
+          "t": "p",
+          "x": "一项数学证明解决了一个自2008年以来悬而未决的猜想：量子计算机何时能对传统计算机取得巨大优势。该证明确立了量子计算机在非结构化输入上超越经典算法的能力存在上限。"
+        },
+        {
+          "t": "p",
+          "x": "据Physical Superintelligence（PSI）的David Turturean发布的论文，对于yes-or-no型计算，经典算法无需以指数级增加对输入的访问次数，就能在大多数均匀随机输入上近似量子算法回答“是”的概率。"
+        },
+        {
+          "t": "p",
+          "x": "PSI表示，其内部开发的研究系统使用一款非公开Anthropic模型的多个实例，在运行第三天找到了完整证明。主定理及其对原猜想的表述已在Lean中形式化，并通过其内核检验。"
+        },
+        {
+          "t": "p",
+          "x": "该模型的多个实例检索已有研究、提出想法、组合方法并检验论证。Turturean选定并界定了问题，操作系统，并亲自审阅和修改了草稿。在后续运行中，这些实例两次改进了数学界限；所有版本均经Lean检验。"
+        },
+        {
+          "t": "p",
+          "x": "这一结果关注的是计算机读取数据的频率，而非总计算时间，并为具有有用结构的问题保留了取得显著量子优势的空间。"
+        }
+      ]
     }
   }
 }

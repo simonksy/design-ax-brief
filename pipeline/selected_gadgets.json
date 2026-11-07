@@ -1,101 +1,96 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "section": "gadgets",
   "items": [
     {
-      "title": "Can a Radar-Equipped AC Actually Cut Your Power Bill?",
-      "url": "https://www.wired.com/story/can-a-radar-equipped-ac-actually-cut-your-power-bill/",
-      "source": "WIRED",
-      "category": "gadgets",
-      "tool": "Gadgets",
-      "accent": "#ff5a4d",
-      "motif": "headset",
-      "published_iso": "2026-11-06T11:00:00.000Z",
-      "og_image": "https://media.wired.com/photos/6ad0bda38de176c462eac73d/191:100/w_1280,c_limit/Screenshot%202026-10-15%20at%2012.48.10.jpg",
-      "excerpt": "AI-powered air conditioners from LG, Samsung and Dyson now use radar to track occupants room to room; WIRED tests whether 'AI Direct/Indirect Wind' and AI energy modes actually save power.",
-      "rationale": "Hands-on test of radar-sensing AI air conditioners from LG/Samsung/Dyson; a fresh home-appliance AI angle from a new outlet, replacing the Alexa shopping pick that marketing keeps."
-    },
-    {
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "source": "MIT Technology Review",
-      "category": "gadgets",
-      "tool": "Gadgets",
-      "accent": "#0070f3",
-      "motif": "headset",
-      "published_iso": "2026-11-06T05:00:00-05:00",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.jpg?resize=1200,600",
-      "excerpt": "Tau Robotics is sending humanoid robots to clean San Francisco homes; they still need lots of remote human guidance but are learning.",
-      "rationale": "First-hand account of a paid humanoid home-cleaning service leaving pilot; strongest outlet in the Tau cluster (Gadgeteer duplicate dropped)."
-    },
-    {
-      "title": "Syncere Lume robot lamp folds laundry and makes the bed for $2,699",
-      "url": "https://the-gadgeteer.com/2026/11/06/syncere-lume-robot-lamp-2699/",
-      "source": "The Gadgeteer",
-      "category": "gadgets",
-      "tool": "Gadgets",
-      "accent": "#f5a623",
-      "motif": "headset",
-      "published_iso": "2026-11-06T06:00:00-06:00",
-      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/syncere-hero.jpg",
-      "excerpt": "Syncere's Lume is a $2,699 floor lamp hiding a robot arm with onboard perception and local AI compute that folds laundry, makes the bed and tidies; lifetime autonomy costs $679, invite-only deliveries in H1 2027.",
-      "rationale": "Novel product announcement with pricing; on-device AI is the core of the device, and its form factor is a striking design idea."
-    },
-    {
-      "title": "Motorola's new earbuds are gunning for AirPods with Bose sound and some handy AI features",
-      "url": "https://www.digitaltrends.com/home-theater/motorolas-new-earbuds-are-gunning-for-airpods-with-bose-sound-and-some-handy-ai-features/",
-      "source": "Digital Trends",
-      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "published_iso": "2026-11-05T08:09:04-08:00",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Moto-Buds-Ultra-27.jpg?resize=1200%2C630&ssl=1",
-      "excerpt": "Motorola's Moto Buds Ultra 27 (Moto Buds 2 Ultra) pair Bose-tuned audio with live AI translation and gesture controls to take on AirPods Pro and Galaxy Buds 4 Pro.",
-      "rationale": "New hardware launch with live AI translation; adds a wearables/audio slot to the mix and is unrelated to the Galaxy Buds hands-on it loosely matched."
+      "title": "Raycast combines voice dictation and screen awareness in new AI feature",
+      "url": "https://9to5mac.com/2026/11/06/raycast-combines-voice-dictation-and-screen-awareness-in-new-ai-feature/",
+      "source": "9to5Mac",
+      "published_iso": "2026-11-06T22:28:13+00:00",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/raycast-dictate-ai.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "A Raycast update lets Mac users talk to AI about whatever is on screen without having to explain the context.",
+      "rationale": "A new Mac feature that combines voice with screen context. It is a different release from Raycast's iOS keyboard app (10-30)."
     },
     {
-      "title": "HomeView will support third-party AI chatbots, suggests code",
-      "url": "https://9to5mac.com/2026/11/05/homeview-will-support-third-party-ai-chatbots-suggests-code/",
-      "source": "9to5Mac",
-      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "published_iso": "2026-11-05T12:35:39+00:00",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Code in the iOS 27.3 beta suggests Apple's HomeView smart home hub will gain support for third-party AI chatbots alongside Siri.",
-      "rationale": "New iOS 27.3 beta finding: third-party chatbots on Apple's smart display, a different capability from the published Siri-to-third-party-apps story."
+      "title": "DJI, 라이다·레이더·AI 통합 산업용 드론 '매트리스 5T' 출시",
+      "url": "https://www.etnews.com/20261106000295",
+      "source": "전자신문",
+      "published_iso": "2026-11-06T16:43:02+09:00",
+      "og_image": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1fd4e188c2ba4460b8e2ed290ad6ca7c_P1.jpg",
+      "excerpt": "DJI가 라이다·밀리미터파 레이더와 AI 영상 분석을 결합해 야간·악천후에도 점검·긴급 대응이 가능한 소형 산업용 드론 매트리스 5T를 출시했다.",
+      "rationale": "A new hardware launch with on-board AI analysis. It adds a drone/industrial category and a Korean outlet."
+    },
+    {
+      "tool": "Gadgets",
+      "accent": "#ff5a4d",
+      "motif": "headset",
+      "title": "The Siri AI waitlist is gone in iOS 27: How to try the beta today",
+      "url": "https://www.zdnet.com/business/siri-ai-beta-waitlist-ends-ios-27/",
+      "source": "ZDNET",
+      "published_iso": "2026-11-05T11:08:49-05:00",
+      "og_image": "https://www.zdnet.com/wp-content/uploads/sites/3/1_9958c8.jpg",
+      "excerpt": "The wait is over for trying Siri AI on iOS 27: Apple has dropped the beta waitlist. Here's what you need to know to get started.",
+      "rationale": "A concrete access change: Apple removed the Siri AI beta waitlist, so any iOS 27 user can turn it on now. Earlier cards covered features (10-27) and third-party app access (11-04), not this."
+    },
+    {
+      "tool": "Gadgets",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "title": "I went hands on with the new Snap Specs — and found out why they could soon be a useful workplace tool",
+      "url": "https://www.techradar.com/pro/i-went-hands-on-with-the-new-snap-specs-and-found-out-why-they-could-soon-be-a-useful-workplace-tool",
+      "source": "TechRadar",
+      "published_iso": "2026-11-07T13:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Azv3TgGUqcELXYvsSeg4Hj-2560-80.jpg",
+      "excerpt": "A hands-on with Snap's untethered sixth-generation Specs AR glasses (£1,999) ahead of their UK launch: a fast voice AI assistant, live speech translation shown as subtitles over the speaker, heads-up Maps and a mid-air keyboard for Google Docs.",
+      "rationale": "First hands-on with Snap's sixth-gen Specs before their UK launch, with a £1,999 price. The voice AI assistant and live subtitle translation are the main features. The section has not run a Snap Specs card in the last 30 days."
+    },
+    {
+      "tool": "Gadgets",
+      "accent": "#f5a623",
+      "motif": "headset",
+      "title": "Pudu TOMO S robot mower sharpens its own blades at the dock",
+      "url": "https://the-gadgeteer.com/2026/11/06/pudu-tomo-s-robot-mower-sharpens-its-own-blades/",
+      "source": "The Gadgeteer",
+      "published_iso": "2026-11-06T14:00:00-06:00",
+      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pudu-tomo-s-hero.jpg",
+      "excerpt": "Pudu's first residential robot mower combines 360-degree LiDAR, AI vision and network RTK for wire-free navigation, an AI Mowing Planner that schedules around weather, and a dock that sharpens its rotary blades; on sale early 2027.",
+      "rationale": "A new product launch where AI vision and an AI planner do the navigation and scheduling. It adds a home-robotics category, and no mower has run in the last 30 days."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.wired.com/story/can-a-radar-equipped-ac-actually-cut-your-power-bill/": {
+      "https://9to5mac.com/2026/11/06/raycast-combines-voice-dictation-and-screen-awareness-in-new-ai-feature/": {
         "verdict": "new",
-        "nearest": "https://www.androidauthority.com/hue-bridge-pro-custom-ai-behaviors-launch-3726230/",
+        "nearest": "https://www.digitaltrends.com/phones/raycast-primary-ios-keyboard-lets-you-dictate-swipe-type-and-use-ai-commands-without-switching-apps/",
         "new_action": ""
       },
-      "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/": {
+      "https://www.etnews.com/20261106000295": {
         "verdict": "new",
-        "nearest": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+        "nearest": "",
         "new_action": ""
       },
-      "https://the-gadgeteer.com/2026/11/06/syncere-lume-robot-lamp-2699/": {
+      "https://www.zdnet.com/business/siri-ai-beta-waitlist-ends-ios-27/": {
+        "verdict": "follow-up",
+        "nearest": "https://9to5mac.com/2026/10/26/siri-ai-keeps-getting-better-heres-whats-new-in-ios-27-2/",
+        "new_action": "Apple ended the Siri AI beta waitlist in iOS 27, opening the beta to every eligible user (11-05). The 10-27 card covered iOS 27.2 features and the 11-04 card (theverge.com/tech/1025694) covered third-party app access; neither reported the waitlist removal."
+      },
+      "https://www.techradar.com/pro/i-went-hands-on-with-the-new-snap-specs-and-found-out-why-they-could-soon-be-a-useful-workplace-tool": {
         "verdict": "new",
-        "nearest": "https://www.notebookcheck.net/Voxel-1-robot-can-tidy-up-water-plants-and-clean-up-dirt.1429483.0.html",
+        "nearest": "https://www.cnet.com/tech/mobile/samsung-smart-glasses-reveal/",
         "new_action": ""
       },
-      "https://www.digitaltrends.com/home-theater/motorolas-new-earbuds-are-gunning-for-airpods-with-bose-sound-and-some-handy-ai-features/": {
+      "https://the-gadgeteer.com/2026/11/06/pudu-tomo-s-robot-mower-sharpens-its-own-blades/": {
         "verdict": "new",
-        "nearest": "https://news.samsung.com/global/hands-on-comfort-convenience-and-more-a-day-with-galaxy-buds-on",
-        "new_action": ""
-      },
-      "https://9to5mac.com/2026/11/05/homeview-will-support-third-party-ai-chatbots-suggests-code/": {
-        "verdict": "new",
-        "nearest": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+        "nearest": "https://the-gadgeteer.com/2026/11/06/syncere-lume-robot-lamp-2699/",
         "new_action": ""
       }
     },
-    "note": "Re-curation: dropped 'Amazon will let you text Alexa your shopping list' (The Verge) — same story as today's marketing pick (Digiday, Amazon shopping agent takes orders by text); marketing keeps it. Replaced with WIRED radar-equipped AI air conditioner test (no AC/HVAC-appliance story in the 30-day gadgets history; nearest is the 10-22 Hue Bridge Pro AI behaviors smart-home item). Remaining pool items not used: Tom's Hardware NPU desktop renderer (AI incidental), two XDA local-LLM how-tos (evergreen), Pudu TOMO S mower (AI secondary). Earlier drops stand: Gemini Live offline caveats (likely-repeat of 11-02 teardown); Sonos AI controlled beta (likely-repeat of 11-04 Engadget); Gentle Monster Android XR glasses (same launch as 11-06 Samsung pre-order card); Nvidia RTX Spark Seoul briefing (no new release); iOS 27.2 Suggested Actions (overlaps 10-08 and 10-27); Tau Robotics Gadgeteer post (within-pool dup of MIT TR); inMusic/Akai vibe-coded mods (AI incidental). Cross-section caveat: orchestrator should exact-grep the WIRED url and 'radar' AC across all sections in published_urls.json before roll."
+    "note": "RE-CURATION 2026-11-08. Dropped from the prior selection: The Verge 'Amazon will let you text Alexa your shopping list', a cross-section duplicate of marketing's Digiday Alexa for Shopping story (2026-11-03), already swapped out as a duplicate on 11-07. Also dropped: Engadget 'One UI 9 coolest features', a features roundup on One UI 9, which gadgets covered on 07-22, 07-29, 08-29 and 10-08 (SamMobile, S26 rollout). The excerpt names no new device line or new rollout event, so it is not a new action. Also dropped: 9to5Google 'Ray-Ban Meta Audio review', a review of a product whose launch ran 10-05 (UploadVR); it reports no new release, price or availability fact. Kept: Raycast. The 10-30 card was the iOS keyboard app; this is a separate Mac Dictate + screen-awareness release. Kept: DJI Matrice 5T. Backfill: ZDNET Siri waitlist, kept as a follow-up because the waitlist removal is a new concrete access change. Rejected for backfill: etnews 수능 AI glasses and TechRadar AI teddy bear (politics owns both); Garmin COO interview and Android Authority Google Health (commentary/opinion); XDA Gemini Nest and XDA Ollama/Intel Arc (personal how-to, related to published local-LLM items); Notebookcheck ProArt P14 (a RAM-config critique on the RTX Spark line, already covered 10-10/10-18); etnews LG CineBeam AI (hands-on review where AI is incidental); Tesla SI roadmap (AI compute/business); 9to5Mac iOS 27.3 China (same story as MacRumors 10-15). RECOVERY PASS (candidates_filtered_recovery_gadgets.json): added TechRadar Snap Specs hands-on (new product/UK launch, AI central, no Snap Specs card in the 30-day history) and The Gadgeteer Pudu TOMO S (new product launch, AI vision + AI planner; nearest is a different Gadgeteer product, Syncere Lume 11-07). Dropped from recovery: XDA Kindle Paperwhite offline LLM (books runs the same story today); Anker Eufy E10 window camera (likely-repeat of Notebookcheck 10-18 Anker window-camera launch, no new fact); The Verge Bee Frontier column (lifestyle commentary on the 10-16 Bee launch, no new action); Tom's Guide RTX Spark Linux slowdown (third-party test finding on the 10-10 RTX Spark launch, not a new release); The Verge Peloton mystery AI product (earnings-call tease, no product details); 9to5Google Android Auto Gemini call bug (user-reported regression, no fix or release; weaker than picks); XDA Claude Code AirPods 3 hack (hobby hack, related to XDA 10-26 Claude Code item); etnews Dyson r3 robot vacuum (viable, but weaker AI centrality; held as reserve). Outlets: 9to5Mac, 전자신문, ZDNET, TechRadar, The Gadgeteer (1 each)."
   }
 }

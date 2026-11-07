@@ -10925,6 +10925,164 @@
           "x": "El agente de Figma ahora puede: usar referencias de estilo para generar ilustraciones e iconos vectoriales; utilizar trazos para el dibujo lineal, de modo que puedas ajustar el grosor o los remates; agrupar los vectores generados en capas semánticas para iterar con más facilidad."
         }
       ]
+    },
+    "design/vercel-json-render-chat": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ahora puedes transmitir UI generativa desde tu agente de Chat SDK con json-render."
+        },
+        {
+          "t": "p",
+          "x": "Con un catálogo tipado de componentes, el agente escribe una especificación JSON que json-render convierte en una tarjeta de Chat SDK. Después, cada adaptador publica la tarjeta en el formato nativo de su plataforma, como Block Kit en Slack y Adaptive Cards en Teams."
+        },
+        {
+          "t": "p",
+          "x": "El catálogo abarca tablas, gráficos, botones y más, así que no hace falta crear y mantener una herramienta aparte para cada forma de mensaje."
+        },
+        {
+          "t": "video",
+          "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6S2Z82rxxVRa8ZUwSN0ZEN/b4093a11584a8a2c186fb766afd8fd6a/slack-block-stream-light__1_.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Transmite tarjetas mientras el modelo escribe: streamCard publica la tarjeta en cuanto su elemento raíz tiene contenido y actualiza el mensaje a medida que llegan nuevos elementos. Por defecto, las ediciones se envían como máximo una vez cada 500 ms, en línea con el intervalo de streaming de Chat SDK. Cuando termina la transmisión, el mensaje muestra la tarjeta final validada."
+        },
+        {
+          "t": "p",
+          "x": "Valida especificaciones y aplica los límites de cada plataforma: toCard comprueba las props de cada elemento con el esquema de su componente y lanza CardSpecError ante una especificación no válida. Cada problema genera su propio aviso legible, de modo que puedes devolver la lista al modelo para obtener una especificación corregida."
+        },
+        {
+          "t": "p",
+          "x": "Las plataformas limitan lo que cabe en un solo mensaje, y los adaptadores de Chat SDK degradan el contenido que supera esos límites. Por ejemplo, el adaptador de Slack convierte una segunda tabla en un bloque de código. Pasa limits para rechazar esas especificaciones."
+        }
+      ]
+    },
+    "design/autodesk-flame-2027-normals": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Actualizado el 7 de noviembre de 2026: Autodesk ha lanzado Flame 2027.2."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261107_Flame20272_AINormal.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Es una actualización bastante importante, con novedades como un nuevo modelo de aprendizaje automático que genera mapas de normales a partir de video, para reiluminar o aplicar efectos a una toma. Flame ya tenía un generador de mapas de normales con AI, pero estaba pensado específicamente para rostros humanos. El nuevo modelo está disponible como shader de Matchbox, en el objeto Selective y en el objeto Normal Map."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios ahora también pueden importar escenas USD en Action, el entorno de composición 3D de Flame. La implementación admite geometría, materiales, luces y cámaras USD, y todas las extensiones de archivo USD, incluidos los archivos USDZ (.usd, .usda, .usdc y .usdz)."
+        },
+        {
+          "t": "p",
+          "x": "Otros cambios en Action incluyen un nuevo nodo 3D Primitive y compatibilidad con todos los esquemas de OpenSubdiv. En la integración con el pipeline, se añade la opción de usar Python Hooks para controlar configuraciones de Batch y de publicar secuencias en formato OpenTimelineIO."
+        },
+        {
+          "t": "p",
+          "x": "Antes, Flame 2027 introdujo un sistema de Annotations, dos nuevos modelos de AI para generar mapas de profundidad a partir de metraje (ML Depth Indoor y ML Depth Outdoor), Autodesk Assistant y compatibilidad con OpenTimelineIO; Flame 2027.1 añadió la herramienta Isolate y compatibilidad con ProRes RAW."
+        },
+        {
+          "t": "p",
+          "x": "La suscripción a Flame cuesta $650 al mes o $5,215 al año. Las suscripciones a Flame Assist y Flare cuestan $2,775 al año."
+        }
+      ]
+    },
+    "design/ironcad-2027-ai-scripting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/IronCAD-2027-update-adds-design-automation-tools.png"
+        },
+        {
+          "t": "p",
+          "x": "IronCAD anunció la disponibilidad de IronCAD 2027 Product Update 1. La versión actualiza la automatización del diseño AI-assisted, los flujos de trabajo de chapa, las tuberías, el dibujo técnico, el reconocimiento de operaciones y la interoperabilidad de archivos para equipos de diseño de maquinaria y equipo industrial, fabricación metálica e ingeniería mecánica."
+        },
+        {
+          "t": "p",
+          "x": "Mejoras en AI Design Assistant: AI Design Assistant ahora ofrece soporte adicional para la generación de scripts AI-assisted. Los usuarios pueden usar instrucciones en lenguaje natural para generar scripts que automaticen tareas de modelado repetitivas, configuren componentes a partir de datos de catálogo, incluidos metadatos, parámetros, materiales y Smart Attachments, y apoyen flujos de automatización del diseño."
+        },
+        {
+          "t": "p",
+          "x": "Las operaciones de chapa, incluidas combinaciones de pliegues, agujeros y redondeos de aristas, pueden arrastrarse a catálogos para reutilizarlas en otros proyectos. El comando de tuberías ahora admite tubos flexibles con una trayectoria spline, y los modelos importados pueden convertirse más rápido en operaciones editables de IronCAD."
+        },
+        {
+          "t": "p",
+          "x": "Native CAD Translator Add-on ahora admite versiones actualizadas de los principales formatos, como CATIA V5, Creo, NX, Inventor, SolidWorks y Solid Edge."
+        },
+        {
+          "t": "p",
+          "x": "IronCAD 2027 Product Update 1 está disponible para los usuarios elegibles de IronCAD Design Collaboration Suite mediante IronCAD Live Update o por descarga desde el sitio web de IronCAD."
+        }
+      ]
+    },
+    "design/uxc-ai-ui-emotional-context": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Imagina que le pides a una herramienta de AI que diseñe un estado de tarea completada. El resultado tiene una marca de verificación, un mensaje amable y una pequeña explosión de confeti. Usa los componentes correctos. El espaciado coincide con el sistema. La animación está pulida."
+        },
+        {
+          "t": "p",
+          "x": "En una tarea, alguien ha terminado de configurar un negocio que llevaba meses intentando lanzar. En la otra, un administrador ha actualizado el cuadragésimo séptimo registro de la mañana. El componente es coherente. Las experiencias probablemente deberían ser distintas."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*3TA1JRp7-caokhilM29rqQ.jpeg",
+          "cap": "Cada momento pide un nivel distinto de reconocimiento. Crédito de la imagen: Kudzai Chinyadza, Celebratory Success States."
+        },
+        {
+          "t": "p",
+          "x": "Pero una representación fiel de un sistema puede seguir siendo una respuesta emocionalmente inadecuada. Un mensaje de éxito puede ser correcto y condescendiente."
+        },
+        {
+          "t": "p",
+          "x": "La voz de Mailchimp sigue siendo reconocible mientras su tono responde a las circunstancias del lector. “Hazlo amable y divertido” deja mucho sin resolver; una instrucción más útil para la AI describe la situación."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*-XcYBSSqvdEFnphJb5HiLw.jpeg",
+          "cap": "Crédito: Asana"
+        },
+        {
+          "t": "p",
+          "x": "Las celebraciones de Asana muestran que el mismo detalle puede ser bienvenido para una persona y molesto para otra. La AI puede ayudar a explorar alternativas expresivas, pero producir una alternativa y establecer cuándo es bienvenida son trabajos distintos."
+        },
+        {
+          "t": "p",
+          "x": "La AI puede generar ambas respuestas. Aún nos toca a nosotros notar que las ocasiones son distintas."
+        }
+      ]
+    },
+    "design/cursor-live-apps-hosting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/changelog/opengraph-changelog-11-05-26.png"
+        },
+        {
+          "t": "p",
+          "x": "Los agentes han reducido el costo de escribir código, pero la mayoría de las apps y herramientas que crean los usuarios nunca salen de localhost. Ahora es posible crear apps en vivo directamente en Cursor y compartirlas con un enlace. Basta con describir lo que se quiere crear y Cursor se encarga del resto: construye la app, configura una base de datos, establece la autenticación y la despliega."
+        },
+        {
+          "t": "video",
+          "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/Cursor_PublishApps_15.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Para empezar, se inicia un agente en la nube y se le indica de forma explícita que se quiere crear una app. Cursor genera la estructura de la app web, levanta una base de datos Postgres si hace falta, configura la autenticación detrás de Cursor SSO y aprovisiona el hosting. Al publicar, se elige un dominio único y Cursor devuelve un enlace en vivo."
+        },
+        {
+          "t": "p",
+          "x": "En Cursor, usuarios de ventas, operaciones, legal, finanzas e ingeniería crean apps internas, desde herramientas de operaciones y presentaciones para clientes hasta experiencias de incorporación y paneles de ventas en tiempo real."
+        },
+        {
+          "t": "p",
+          "x": "Al publicar, Cursor ejecuta comprobaciones de seguridad deterministas y agénticas para detectar problemas comunes, como secretos escritos en archivos de la app o credenciales expuestas. Nada se publica hasta que se superan las comprobaciones y el usuario publica la app de forma explícita. Los administradores del equipo pueden ver todas las apps y secretos del equipo. La función está disponible en todos los planes de pago con agentes en la nube habilitados."
+        }
+      ]
     }
   }
 }

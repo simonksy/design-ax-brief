@@ -1,202 +1,161 @@
 {
-  "section": "games",
-  "now_iso": "2026-11-06T22:03:00Z",
-  "window_hours": 336,
-  "items": [
-    {
-      "title": "Project EVE: Claude plays MMORPGs",
-      "url": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs",
-      "source": "Anthropic",
-      "category": "games",
-      "published_iso": "2026-11-06T00:00:00.000Z",
-      "excerpt": "We put Claude in two EVE games to study how AI agents handle markets and teamwork, where they break down, and what safeguards they might need.",
-      "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/3412bc3ca96f5ba0b24b3d2284c81a70b0e574df-1668x1238.png",
-      "note": "Off-list (anthropic.com): Anthropic research putting Claude agents into two EVE games to study markets/teamwork; no on-list outlet coverage yet. AI playable worlds / agents-in-games."
-    },
-    {
-      "title": "Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones: \"It really has changed the world\"",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone",
-      "source": "Eurogamer",
-      "category": "games",
-      "published_iso": "2026-11-06T12:02:40+00:00",
-      "excerpt": "Obbe Vermeij believes that the possibility of Grand Theft Auto 6 being vibecoded onto the PC will push Rockstar Games to port sooner than you'd think.",
-      "og_image": "https://assetsio.gnwcdn.com/ai-gta.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-    },
-    {
-      "title": "\"It's a brave new world\": GTA 6's PC port will release sooner than you think to avoid losing money to AI rip-offs, says former Rockstar tech director",
-      "url": "https://www.rockpapershotgun.com/its-a-brave-new-world-gta-6s-pc-port-will-release-sooner-than-you-think-to-avoid-losing-money-to-ai-rip-offs-says-former-rockstar-tech-director",
-      "source": "Rock Paper Shotgun",
-      "category": "games",
-      "published_iso": "2026-11-06T11:09:10+00:00",
-      "excerpt": "GTA 6's PC release may come sooner than you think, says former Rockstar North technical director Obbe Vermeij, because Take-Two will be worried about AI ports.",
-      "og_image": "https://assetsio.gnwcdn.com/gta-6-pool-of-money.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "note": "Same story as Eurogamer GTA 6 / AI ports item"
-    },
-    {
-      "title": "GTA 6 PC may become a reality sooner than you think to avoid losing money to AI 'slopcomps'",
-      "url": "https://www.destructoid.com/gta-6-pc-may-become-a-reality-sooner-than-you-think-to-avoid-losing-money-to-ai-slopcomps/",
-      "source": "Destructoid",
-      "category": "games",
-      "published_iso": "2026-11-06T21:24:00+00:00",
-      "excerpt": "we look into the likelihood that the new AI reverse engineering tools might hav",
-      "og_image": "https://www.destructoid.com/wp-content/uploads/2026/10/GTA-6-Lucia-Skirt-1280.jpg",
-      "note": "Same story as Eurogamer GTA 6 / AI ports item; adds analysis of AI reverse-engineering tools"
-    },
-    {
-      "title": "GTA 6 Could Cost \"Tens of Thousands Of Dollars\" in Tokens To Develop Unofficial PC Port, Yet Former Rockstar Tech Director Believes It Will Be Attempted",
-      "url": "https://wccftech.com/gta-6-tens-of-thousands-dollars-tokens-unofficial-pc-port/",
-      "source": "Wccftech",
-      "category": "games",
-      "published_iso": "2026-11-06T16:18:11+00:00",
-      "excerpt": "GTA 6 on PC could arrive sooner than expected to prevent unofficial AI ports, according to an ex-Rockstar director.",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/GTA-6-PC-Port-Thousands-Of-Dollars-of-Tokens-1920x1080.jpg",
-      "note": "Same story; token-cost angle"
-    },
-    {
-      "title": "Nvidia announces 3 more DLSS 5 games",
-      "url": "https://gamesbeat.com/nvidia-announces-3-more-dlss-5-games/",
-      "source": "GamesBeat",
-      "category": "games",
-      "published_iso": "2026-11-06T14:30:00+00:00",
-      "excerpt": "Hollywood & Games returns to Los Angeles on December 10, bringing together 250+ executives, founders, investors and decision-makers at the Grammy Museum's Clive Davis...",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/11/dlss-5-nvidia.jpg",
-      "note": "DLSS 5 neural rendering; War Thunder DLSS 5 ran 11-04 - new titles only"
-    },
-    {
-      "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
-      "source": "NVIDIA Blog",
-      "category": "games",
-      "published_iso": "2026-11-05T14:00:34+00:00",
-      "excerpt": "Look forward to 24 games coming in November, including eight this week, and claim a ‘World of Warcraft: Forever’ launch reward.",
-      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/gfn-thursday-11-5-blog-1920x1080-no-copy.jpg",
-      "note": "DLSS 5 on GeForce NOW; overlaps GamesBeat DLSS 5 item"
-    },
-    {
-      "title": "AIだけで『マイクラ』ハードコアに挑戦したら“切ない結果”に　モデルごとの性格や行動の違いが興味深い",
-      "url": "https://realsound.jp/tech/2026/11/post-2576894.html",
-      "source": "Real Sound",
-      "category": "games",
-      "published_iso": "2026-11-06T20:00:40+09:00",
-      "excerpt": "YouTubeチャンネル「AIたちの箱庭」が10月24日、「11人の話せるAIは本当に協力してハードコアを生き残れるのか？」という動画を公開した。チャンネル初投稿の動画だが、公開から12日で42万回再生を超えている。",
-      "og_image": "https://realsound.jp/wp-content/uploads/2026/11/20261106-minecraft-99.jpg"
-    },
-    {
-      "title": "人気美女デッキ構築型ローグライク続編『NEOVERSE 2』11月14日Steam早期アクセスへ。6年越し新作だけどアートはAIフル活用、キャラの見た目ぜんぜん違う！？",
-      "url": "http://www.gamespark.jp/article/2026/11/06/174568.html",
-      "source": "Game*Spark",
-      "category": "games",
-      "published_iso": "2026-11-06T16:15:03+09:00",
-      "excerpt": "6年も経てば女は顔が変わる？そうかな……そうかも……。",
-      "og_image": "https://www.gamespark.jp/imgs/ogp_f/1216208.jpg"
-    },
-    {
-      "title": "\"로컬 에이전트부터 DLSS 5 게임까지\" 엔비디아 'RTX 스파크'의 가능성",
-      "url": "https://www.inven.co.kr/webzine/news/?news=323085",
-      "source": "인벤",
-      "category": "games",
-      "published_iso": "2026-11-06T14:38:07+09:00",
-      "excerpt": "엔비디아는 11월 6일 서울 JW 메리어트 호텔에서 기자간담회를 열고 로컬 AI 에이전트 구동에 특화된 차세대 프리미엄 PC 플랫폼 'RTX 스파크'를 소개했다. 제프 옌 디렉터가 발표한 'RTX 스파크'는 블랙웰 RTX GPU와 그레이스 CPU 기반의 슈퍼칩을 탑재해 클라우드 의존도를 줄이고 개인정보 보호와 고성능 작업을 지원한다. 해당 플랫폼은 'NBA 2K27'의 DLSS 5와 '아이온2' 등 고사양 게임 구동을 지원하며, 10월 16일부터 국내 판매를 시작했다. 엔비디아는 이를 통해 AI 개발과 콘텐츠 제작을 아우르는 차세대",
-      "og_image": "https://static.inven.co.kr/column/2026/11/06/news/i1474474973.png"
-    },
-    {
-      "title": "[이구동성] 바야흐로 AI 악용 폭동의 시대",
-      "url": "https://www.gamemeca.com/view.php?gid=1783092",
-      "source": "게임메카",
-      "category": "games",
-      "published_iso": "2026-11-06T16:41:46+09:00",
-      "excerpt": "AI 기술의 발전과 함께 게임업계에서는 이를 악용한 해킹과 도둑질 등 부작용이 급격히 증가하고 있다. 디컴파일을 통한 게임 모방과 위탁사를 겨냥한 해킹으로 민감한 정보 유출 피해가 끊이지 않고 있다. 방어의 어려움과 비용 부담 속에서 보안 위협이 커지며 향후 업계에 큰 부담으로 ...",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/783/092/gm310490_3487487347.webp",
-      "note": "Editorial roundup/opinion column on AI-enabled game cloning and hacking"
-    },
-    {
-      "title": "Steins;Gate developer MAGES says AI translation is a long way from being viable for visual novels",
-      "url": "https://automaton-media.com/en/news/steinsgate-developer-mages-says-ai-translation-is-a-long-way-from-being-viable-for-visual-novels/",
-      "source": "AUTOMATON WEST",
-      "category": "games",
-      "published_iso": "2026-11-06T05:36:56+00:00",
-      "excerpt": "MAGES. president and CEO Makoto Asada recently talked about the studio's stance on AI translation.",
-      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/11/20261106-74857-header.jpg",
-      "note": "AI localization keyword"
-    },
-    {
-      "title": "Official Unity plugin for OpenAI’s Codex",
-      "url": "https://www.youtube.com/watch?v=1WHkOc-hCHc",
-      "source": "Unity",
-      "category": "games",
-      "published_iso": "2026-11-03T10:52:58-08:00",
-      "excerpt": "ICYMI: We launched the official Unity plugin for OpenAI’s Codex, available directly in OpenAI’s universal plugin directory.Once installed, Codex can choose a...",
-      "og_image": "https://i.ytimg.com/vi/1WHkOc-hCHc/maxresdefault.jpg",
-      "note": "Unity official channel; Unity x Antigravity plugin ran 11-03 - Codex plugin is a separate release"
-    },
-    {
-      "title": "Astrocade launches $100K contest to vibe code games using AI",
-      "url": "https://www.dexerto.com/gaming/astrocade-launches-100k-contest-to-vibe-code-games-using-ai-3424330/",
-      "source": "Dexerto",
-      "category": "games",
-      "published_iso": "2026-11-05T18:30:18.000Z",
-      "excerpt": "Astrocade is launching a $100,000 creator competition, challenging 25 creators to produce viral playable content, with the entire prize going to whoever attracts the most plays.",
-      "og_image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/05/astrocade1.jpg",
-      "note": "Off-list (dexerto.com): no on-list coverage of Astrocade contest found; text-to-game keyword"
-    },
-    {
-      "title": "Shogun 2 – Complete Edition was \"not a Creative Assembly developed game,\" says Total War VP after it was pulled amid generative AI concerns",
-      "url": "https://www.gamesindustry.biz/shogun-2-complete-edition-was-not-a-creative-assembly-developed-game-says-total-war-vp-after-it-was-pulled-amid-generative-ai-concerns",
-      "source": "GamesIndustry.biz",
-      "category": "games",
-      "published_iso": "2026-10-26T08:40:16.970509+00:00",
-      "excerpt": "\"We took our eyes off its external development, with all our teams focused on our next big projects,\" says Roger Collum",
-      "og_image": "https://assetsio.gnwcdn.com/Total-War-Shogun-2-Complete-Edition_KL4qx2j.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-    },
-    {
-      "title": "Valve warns of slower Steam approvals, possibly because of AI",
-      "url": "https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approval-process-due-to-flood-of-new-games",
-      "source": "Game Developer",
-      "category": "games",
-      "published_iso": "2026-11-04T16:50:48.000Z",
-      "excerpt": "New games on Valve's Steam platform are getting delayed due to an extended approval process, right as a spree of AI-made games flood the platform.",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltaac5a34f9185515e/66abe43fb5726fad82854851/valve_logo.png?disable=upscale&width=1200&height=630&fit=crop",
-      "note": "Possible same-story with 11-04 Food Devils / Steam review queue card"
-    },
-    {
-      "title": "Steamへのゲーム登録申請が急増し，審査に最大12営業日を要する状況に。生成AIを利用したゲーム開発の普及が背景にある可能性も",
-      "url": "https://www.4gamer.net/games/038/G003821/20261105022/",
-      "source": "4Gamer.net",
-      "category": "games",
-      "published_iso": "2026-11-05T14:45:56+09:00",
-      "excerpt": "Valveは，Steamへのゲーム登録申請の急増を受け，リリース前の審査プロセスを見直したと発表した。通常3〜5営業日での完了を目指す審査が，現在は最大12営業日かかっており，チェックリストの改訂で…",
-      "og_image": "https://www.4gamer.net/games/038/G003821/20261105022/SS/001.jpg",
-      "note": "Same story as Game Developer Valve item"
-    },
-    {
-      "title": "AI 신작 폭증 때문? 스팀 출시 심사 적체 중",
-      "url": "https://www.gamemeca.com/view.php?gid=1782970",
-      "source": "게임메카",
-      "category": "games",
-      "published_iso": "2026-11-05T12:21:18+09:00",
-      "excerpt": "스팀 출시 심사가 지연되면서 일정을 미루는 게임이 늘어나고 있다. 밸브는 재심사 증가가 지연의 원인이라며 강화된 체크리스트를 공개했다. 최소 5분 실행 등 필수 조건을 추가해 심사 적체를 해소할 계획이다",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/782/970/gm806937_steamworks.webp",
-      "note": "Same story as Game Developer Valve item"
-    },
-    {
-      "title": "[지스타 2026] 유니티, 지스타서 인디 개발자 지원 총력",
-      "url": "http://www.gamey.kr/news/articleView.html?idxno=3019505",
-      "source": "게임와이",
-      "category": "games",
-      "published_iso": "2026-11-04T19:35:07+09:00",
-      "excerpt": "글로벌 게임 엔진 유니티(NYSE: U)가 게임 개발부터 쇼케이스, 네트워킹까지 인디 개발자의 성장을 돕는 종합 지원에 나선다. 유니티는 11월 19일부터 22일까지 부산 벡스코에서 열리는 ‘지스타 2026’ 기간 동안 제2전시장 BTC관에서 인디 쇼케이스 '유니티 월드(Unity World)'와 개발자 교류 프로그램을 운영하며, 개막에 앞서 ‘유니티 AI 게임잼(Unity AI Game Jam)’도 개최한다. 게임 엔진 제공을 넘어 인디 개발자들이 업계에 자신의 작품을 알리고 개발 경험을 나눌 수 있는 장을 마련한다는 계획이다.유",
-      "og_image": "https://cdn.gamey.kr/news/thumbnail/202611/3019505_173352_3638_v150.jpg",
-      "note": "G-Star pre-show; Unity AI Game Jam is an event announcement, not a tool release"
-    },
-    {
-      "title": "Rockstar could release GTA 6 on PC sooner to head off AI ports, former Grand Theft Auto lead suggests: \"I think I would be concerned\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-could-release-gta-6-on-pc-sooner-to-head-off-ai-ports-former-grand-theft-auto-lead-suggests-i-think-i-would-be-concerned/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-11-06T17:08:43Z",
-      "excerpt": "It really has changed the world",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/BgXa4HNPsmD2f4Ld99fpLh-1920-80.jpg",
-      "note": "Same story as Eurogamer GTA 6 / AI ports item"
-    }
-  ]
+ "section": "games",
+ "now_iso": "2026-11-07T22:02:33Z",
+ "window_hours": 336,
+ "expansion_note": "Feeds harvested (34 outlet RSS + Google News RSS for Megascans/AI training, World Labs world model, SAG-AFTRA AI voice, Roblox/Unity AI, NVIDIA neural rendering, Korean/Japanese AI game terms). 3 WebSearch used (Roblox Reality, Unity 7, Toei) - all stale/unverifiable, dropped. Off-list: worldlabs.ai (no on-list coverage of Frameboy), dexerto (carried from prior pool). Weekend-thin; Megascans/SAG-AFTRA/DLSS5 each have 2-3 outlet versions for curator dedup.",
+ "items": [
+  {
+   "title": "Entire Quixel Megascans Library Now Available For Free — and now licensed for AI training",
+   "url": "https://80.lv/articles/entire-quixel-megascans-library-now-available-for-free/",
+   "source": "80 Level",
+   "category": "games",
+   "published_iso": "2026-11-06T10:53:00+00:00",
+   "excerpt": "Epic's Quixel made the full Megascans library free on Fab and updated terms so Megascans and Megaplants can be used to train AI models: 'Your AI models can now learn from real-world scans to help you generate varied, photorealistic environments.'",
+   "og_image": "https://cdn.80.lv/api/upload/meta/50915/images/6aedb18c36225/contain_1200x630.jpg"
+  },
+  {
+   "title": "메가스캔 전부 공짜...에픽, AI 학습까지 풀었다",
+   "url": "http://www.gamey.kr/news/articleView.html?idxno=3019566",
+   "source": "게임와이",
+   "category": "games",
+   "published_iso": "2026-11-07T18:32:49+09:00",
+   "excerpt": "퀵셀이 메가스캔 라이브러리 전체를 Fab에서 다시 무료로 풀면서, 메가스캔과 메가플랜츠를 AI 모델 학습에 써도 된다는 조건을 이용약관에 새로 넣었다.",
+   "og_image": "https://cdn.gamey.kr/news/thumbnail/202611/3019566_173590_3451_v150.jpg"
+  },
+  {
+   "title": "3D 에셋 라이브러리 퀵셀 메가스캔, 전면 무료로 전환",
+   "url": "https://www.gamemeca.com/view.php?gid=1783100",
+   "source": "게임메카",
+   "category": "games",
+   "published_iso": "2026-11-06T17:21:57+09:00",
+   "excerpt": "퀵셀 메가스캔 전체가 Fab을 통해 다시 무료로 전환되고, 2025년 이후 구매자에게는 환급. 메가스캔·메가플랜트 에셋을 AI 모델 학습에 쓸 수 있도록 이용약관을 변경했다.",
+   "og_image": "https://cdn.gamemeca.com/gmdata/0001/783/100/gm262000_240517426.webp"
+  },
+  {
+   "title": "GTA6 모회사 대표, \"광고비 5만→800달러 비결은 AI\"",
+   "url": "http://www.gamey.kr/news/articleView.html?idxno=3019570",
+   "source": "게임와이",
+   "category": "games",
+   "published_iso": "2026-11-08T06:59:26+09:00",
+   "excerpt": "테이크투 스트라우스 젤닉 CEO가 WSJ 테크 행사에서 AI와 불법 복제에 대한 생각을 밝히며, 배우를 써 2만5000~5만 달러 들던 모바일 게임 광고를 AI로 약 800달러에 만든 사례를 소개했다.",
+   "og_image": "https://cdn.gamey.kr/news/thumbnail/202611/3019570_173609_5044_v150.jpg"
+  },
+  {
+   "title": "'I Feel Like Modding is Kind Of Dying' – Mass Effect 3 Multiplayer Modder on AI's Impact on the Scene",
+   "url": "https://www.ign.com/articles/i-feel-like-modding-is-kind-of-dying-mass-effect-3-multiplayer-modder-on-ais-impact-on-the-scene",
+   "source": "IGN",
+   "category": "games",
+   "published_iso": "2026-11-07T17:00:00.000Z",
+   "excerpt": "AI has exploded across the modding scene, from mashup mods to full decompilations done by Claude; a veteran Mass Effect 3 multiplayer modder explains how it may be killing the hobby.",
+   "og_image": "https://assets-prd.ignimgs.com/2026/10/29/me3-1793234529955.jpg?width=1280&format=jpg&auto=webp&quality=80"
+  },
+  {
+   "title": "The AI posting war is heating up: 'Please, leave me behind,' says artist who got into it with Epic CEO Tim Sweeney on X",
+   "url": "https://www.pcgamer.com/software/ai/the-ai-posting-war-is-heating-up-please-leave-me-behind-says-artist-who-got-into-it-with-epic-ceo-tim-sweeney-on-x/",
+   "source": "PC Gamer",
+   "category": "games",
+   "published_iso": "2026-11-06T22:21:50Z",
+   "excerpt": "An artist's public clash with Tim Sweeney over generative AI crystallizes the impasse between pro-AI developers and artists pushing back on AI in games.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg"
+  },
+  {
+   "title": "Epic Games' Tim Sweeney Insists AI Adoption 'Unlikely To Be Reversed' As Company Crams AI Into Unreal Engine 6",
+   "url": "https://kotaku.com/epic-games-tim-sweeney-unreal-engine-6-ai-workflows-2000754115",
+   "source": "Kotaku",
+   "category": "games",
+   "published_iso": "2026-11-05T14:00:42+00:00",
+   "excerpt": "At Unreal Fest Tokyo, Tim Sweeney told developers that AI adoption is unlikely to be reversed as Epic builds AI workflows into Unreal Engine 6.",
+   "og_image": "https://kotaku.com/app/uploads/2026/11/Unreal-Engine-6-1200x675.jpeg"
+  },
+  {
+   "title": "SAG-AFTRA introduces new process for using actors in game pitches",
+   "url": "https://www.gamedeveloper.com/production/sag-aftra-introduces-new-process-for-using-actors-in-game-pitches",
+   "source": "Game Developer",
+   "category": "games",
+   "published_iso": "2026-11-06T19:17:10.000Z",
+   "excerpt": "A new SAG-AFTRA pre-funding pitch agreement lets devs hire union actors for demos and vertical slices — read as an effort to keep studios from relying on generative AI voices in pre-production.",
+   "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltd2c6ef59fc1e919f/669e70619d85eed2432cc9c2/SAGAFTRA_Header.png?disable=upscale&width=1200&height=630&fit=crop"
+  },
+  {
+   "title": "SAG-AFTRA launches new video game agreement enabling devs to hire professional actors for demos and vertical slices",
+   "url": "https://www.gamesindustry.biz/sag-aftra-launches-new-video-game-agreement-enabling-devs-to-hire-professional-actors-for-demos-and-vertical-slices",
+   "source": "GamesIndustry.biz",
+   "category": "games",
+   "published_iso": "2026-11-06T14:50:40+00:00",
+   "excerpt": "The Pre-Funding Pitch Interactive Media Agreement will 'streamline the hiring of professional union talent' for pitches, demos and vertical slices.",
+   "og_image": "https://assetsio.gnwcdn.com/APP_Pre-Funding_Pitch_IMA_2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+   "title": "[인디言] 20년 멈췄던 만화 '굿모닝! 티처' 팬게임의 재시작",
+   "url": "https://www.gamemeca.com/view.php?gid=1783014",
+   "source": "게임메카",
+   "category": "games",
+   "published_iso": "2026-11-07T10:00:00+09:00",
+   "excerpt": "1990년대 학원 만화 '굿모닝 티처' 팬게임 프로젝트가 AI 기술의 도움을 받아 약 20년 만에 다시 개발돼 첫 빌드를 공개했다. 도키메키 메모리얼 방식의 육성 시뮬레이션.",
+   "og_image": "https://cdn.gamemeca.com/gmdata/0001/783/014/gm120244_asd.webp"
+  },
+  {
+   "title": "Frameboy: Atlas in Real-time",
+   "url": "https://www.worldlabs.ai/blog/atlas-realtime",
+   "source": "World Labs",
+   "category": "games",
+   "published_iso": "2026-11-05T19:50:00+00:00",
+   "excerpt": "World Labs released a research preview of Frameboy, streaming its Atlas autoregressive world model from cloud GPUs to the browser at up to 15 fps so users can explore generated worlds in real time; also integrated into the Viewfinder scene-building app.",
+   "og_image": "https://www.worldlabs.ai/api/opengraph-image?imageUrl=/images/blog/atlas-realtime-frameboy-daydream.jpg&title=Frameboy:%20Atlas%20in%20Real-time"
+  },
+  {
+   "title": "'Hogwarts Legacy' Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
+   "source": "NVIDIA",
+   "category": "games",
+   "published_iso": "2026-11-05T14:00:34+00:00",
+   "excerpt": "Hogwarts Legacy adds DLSS 5 neural rendering, playable on GeForce NOW Ultimate without a hardware upgrade — first of three November DLSS 5 titles.",
+   "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/gfn-thursday-11-5-blog-1920x1080-no-copy.jpg"
+  },
+  {
+   "title": "Nvidia announces 3 more DLSS 5 games",
+   "url": "https://gamesbeat.com/nvidia-announces-3-more-dlss-5-games/",
+   "source": "GamesBeat",
+   "category": "games",
+   "published_iso": "2026-11-06T14:30:00+00:00",
+   "excerpt": "Nvidia named three more games getting DLSS 5 neural rendering support, expanding the generative upscaling tech's lineup.",
+   "og_image": "https://gamesbeat.com/wp-content/uploads/2026/11/dlss-5-nvidia.jpg"
+  },
+  {
+   "title": "顔の変化が物議を醸したこともあったDLSS 5対応『ホグワーツ・レガシー』がGeForce NOWでプレイ可能に",
+   "url": "http://www.gamespark.jp/article/2026/11/06/174569.html",
+   "source": "Game*Spark",
+   "category": "games",
+   "published_iso": "2026-11-06T16:46:44+09:00",
+   "excerpt": "顔の変化が物議を醸したDLSS 5対応『ホグワーツ・レガシー』がGeForce NOWで遊べるように。アーティストの意図や作風は維持されるとNVIDIAは説明。",
+   "og_image": "https://www.gamespark.jp/imgs/ogp_f/1216320.jpg"
+  },
+  {
+   "title": "\"로컬 에이전트부터 DLSS 5 게임까지\" 엔비디아 'RTX 스파크'의 가능성",
+   "url": "https://www.inven.co.kr/webzine/news/?news=323085",
+   "source": "인벤",
+   "category": "games",
+   "published_iso": "2026-11-06T14:38:07+09:00",
+   "excerpt": "엔비디아가 로컬 AI 에이전트 구동에 특화된 PC 플랫폼 'RTX 스파크'를 국내 공개. 'NBA 2K27' DLSS 5와 '아이온2' 등 고사양 게임 구동을 지원한다.",
+   "og_image": "https://static.inven.co.kr/column/2026/11/06/news/i1474474973.png"
+  },
+  {
+   "title": "Official Unity plugin for OpenAI's Codex",
+   "url": "https://www.youtube.com/shorts/1WHkOc-hCHc",
+   "source": "Unity",
+   "category": "games",
+   "published_iso": "2026-11-03T10:52:58-08:00",
+   "excerpt": "Unity launched an official plugin for OpenAI's Codex in OpenAI's universal plugin directory, letting the coding agent work directly with Unity projects.",
+   "og_image": "https://i.ytimg.com/vi/1WHkOc-hCHc/maxresdefault.jpg"
+  },
+  {
+   "title": "Astrocade launches $100K contest to vibe code games using AI",
+   "url": "https://www.dexerto.com/gaming/astrocade-launches-100k-contest-to-vibe-code-games-using-ai-3424330/",
+   "source": "Dexerto",
+   "category": "games",
+   "published_iso": "2026-11-05T18:30:18.000Z",
+   "excerpt": "Prompt-to-game platform Astrocade is running a $100,000 creator competition challenging 25 creators to make viral AI-built playable content; the whole prize goes to the most-played.",
+   "og_image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/05/astrocade1.jpg"
+  }
+ ]
 }

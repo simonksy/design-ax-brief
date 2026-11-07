@@ -14659,6 +14659,130 @@
           "x": "Zhang이 이끄는 STITCH 프로젝트는 DOE Genesis Mission의 하나로, 구름 미세물리와 소규모 난류를 국지적으로 시뮬레이션한 결과로 에뮬레이터를 학습시킨다. 여기서 나온 결과를 E3SM에 넣을 수 있고, E3SM은 다시 STRATA의 새 학습 데이터가 된다."
         }
       ]
+    },
+    "science/science-chatbot-sycophancy-pushback": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "University of Cincinnati 연구진은 Texas A&M University와 함께, 생성형 AI 챗봇이 정확성보다 사용자에게 동의하는 쪽을 자주 택한다는 사실을 확인했다. 결과는 헝가리 부다페스트(Budapest, Hungary)에서 열린 Conference on Empirical Methods in Natural Language Processing(EMNLP)에서 발표됐다."
+        },
+        {
+          "t": "p",
+          "x": "모델들은 처음엔 거짓 주장을 거부했다. 그러다 반박이 몇 차례 이어지자 굴복했고, 지구(Earth)가 평평하다는 식의 황당한 주장을 되풀이하도록 설득될 수도 있었다. 컴퓨터과학과 조교수 Tianyu Jiang은 \"황당한 생각을 처음 제시하면 아니라고 한다\"며 \"하지만 몇 턴 밀어붙이면 모델이 바뀌고 결국 포기한다\"고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Jiang은 \"우리가 시험한 모든 모델, 즉 Claude, OpenAI, ChatGPT, Gemini 모두 아첨 성향을 보인다\"고 말했다. 솔직한 피드백은 사용자가 분명히 요청해야 나올지도 모른다. 그는 \"코치하듯 이끌어야 한다\"고 했다."
+        },
+        {
+          "t": "p",
+          "x": "기사에 따르면 연구를 진행한 뒤로 AI 기업들은 AI 아첨 문제를 고치려고 상당한 변화를 줬다. 챗봇을 오래 쓰다 사용자가 거짓 이론을 믿게 되거나 망상이 깊어지는 피해도 기사는 짚는다."
+        }
+      ]
+    },
+    "science/science-fod-diffusion-brain": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg",
+          "cap": "확산 MRI 왜곡으로 생긴 뇌간 신호 손실과, 모델이 만든 더 온전한 재구성. Credit: Stevens INI"
+        },
+        {
+          "t": "p",
+          "x": "Keck School of Medicine of USC 산하 Mark and Mary Stevens Neuroimaging and Informatics Institute(Stevens INI) 연구진이 확산 MRI 뇌 배선 지도의 신호 공백을 메우는 생성형 AI 모델 FOD-Diffusion을 만들었다. 공백은 스캐너 자기장 왜곡이 신호를 지워 버리는 뇌간과 안와전두 영역에 생긴다."
+        },
+        {
+          "t": "p",
+          "x": "모델은 UK Biobank 참가자 1,315명과 Lifespan Human Connectome Project Aging(HCP-Aging) 참가자 679명의 스캔으로 학습하고 검증했다. 참가자 43명의 뇌간을 가린 시험에서 주요 섬유 방향은 원본 데이터와 평균 약 1.4도 어긋났다. 다른 AI 방식 여섯 가지 가운데 가장 가까운 것도 약 4.5도 벗어났다."
+        },
+        {
+          "t": "p",
+          "x": "복원 뒤에는 신호 손실이 심한 사람의 피질척수로 추적 결과가 손실이 적은 사람보다 유의하게 덜 완전하지 않았다. 연구는 Medical Image Analysis에 실렸다. 공동 제1저자는 Shuo Huang과 Lujia Zhong, 책임저자는 Yonggang Shi다."
+        },
+        {
+          "t": "p",
+          "x": "저자들은 복원된 데이터가 \"측정값을 되찾은 것이 아니라 근거 있는 추정치\"라고 강조한다. 다른 스캐너와 설정에서 더 검증해야 하고 \"환자 진료용으로는 평가되지 않았다\"는 설명이다. 코드는 GitHub에 공개됐다."
+        }
+      ]
+    },
+    "science/science-ai-overviews-unsupported": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg",
+          "cap": "[Adobe Stock]"
+        },
+        {
+          "t": "p",
+          "x": "Washington University in St. Louis의 Haofei Xu, Umar Iqbal, Jacob M. Montgomery가 arXiv에 사전 공개한 논문에 따르면, Google의 AI-generated 검색 요약은 신뢰도 높은 출처에 자주 기대면서도 사실 주장 약 아홉 건 중 한 건꼴로 검증되지 않은 정보를 내놓는다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 2026년 초 40일 동안 19개 주제 범주의 Google 인기 검색어 55,393개를 돌렸다. AI Overviews는 전체 검색어의 13.7퍼센트에서 떴다. 직접 묻는 형태의 검색어에서는 64.7퍼센트, 일반 키워드 검색에서는 9.5퍼센트였고 정치적으로 민감한 주제에서는 거의 나오지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "인용된 도메인은 일반 첫 페이지 검색 결과보다 꾸준히 신뢰도가 높았다. 하지만 인용된 웹사이트의 거의 30퍼센트는 일반 검색 결과 첫 페이지 어디에도 없었다. 개별 사실 주장 98,020건 가운데 11퍼센트는 인용 페이지가 뒷받침하지 않았는데, 대부분 누락 탓이었다. 출처 신뢰도와 정확도 사이에 통계적 관계는 없었다."
+        },
+        {
+          "t": "p",
+          "x": "인용된 페이지의 절반 이상에 디지털 광고가 붙어 있어 클릭이 줄면 언론사 광고 수익도 줄어든다. 그사이 Google은 요약 옆에, 때로는 그 위에 자사 스폰서 광고를 계속 내건다."
+        }
+      ]
+    },
+    "science/science-titanium-print-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg",
+          "cap": "그래픽 초록(Graphical abstract). Credit: International Journal of Precision Engineering and Manufacturing (2025). DOI: 10.1007/s12541-025-01360-0"
+        },
+        {
+          "t": "p",
+          "x": "Istanbul Technical University와 Gazi University, 협력 기관 연구진이 티타늄 합금 Ti6Al4V의 선택적 레이저 용융에 쓸 설명 가능한 머신러닝 프레임워크를 만들었다. 생산 테스트 전에 프린팅 설정 탐색 범위를 좁혀 불필요한 시행착오를 줄이는 게 목표다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 기존 발표 연구에서 실험 기록 201건을 모아 레이저 출력, 스캔 속도, 층 두께, 해치 간격, 레이저 스폿 크기, 분말 크기 등 여섯 변수를 항복강도, 극한 인장강도, 연신율과 연결했다. 여러 머신러닝 기법 중 인공신경망의 예측이 가장 일관됐고, SHAP 분석은 각 변수가 예측에 준 영향을 보여 줬다."
+        },
+        {
+          "t": "p",
+          "x": "역설계 인터페이스에 목표 강도와 연성을 넣으면 시험해 볼 공정 설정을 제안한다. 지도교수 Hüseyin Kızıl은 이를 \"공정 창을 좁히는 데이터 기반 의사결정 도구\"라고 설명했다. 연구진은 이 도구가 \"물리적 시험, 품질 보증, 인증을 대체하려는 것이 아니다\"라고 강조했다."
+        }
+      ]
+    },
+    "science/psi-aaronson-ambainis-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-4.24.26-PM-1.png"
+        },
+        {
+          "t": "p",
+          "x": "양자 컴퓨터가 기존 컴퓨터를 언제 크게 앞서는지를 두고 2008년부터 풀리지 않던 추측이 수학적으로 증명됐다. 구조가 없는 입력에서는 양자 컴퓨터가 고전 알고리즘을 앞서는 데 한계가 있다는 내용이다."
+        },
+        {
+          "t": "p",
+          "x": "Physical Superintelligence(PSI)의 David Turturean이 공개한 논문에 따르면, 예/아니오로 답하는 계산에서 고전 알고리즘은 입력에 지수적으로 더 많이 접근하지 않고도 양자 알고리즘이 ‘예’라고 답할 확률을 근사할 수 있다. 균일하게 무작위로 고른 입력 대부분에서 그렇다."
+        },
+        {
+          "t": "p",
+          "x": "PSI에 따르면 비공개 Anthropic 모델의 인스턴스를 돌리는 자체 연구 시스템이 실행 셋째 날 완전한 증명을 찾아냈다. 주정리와 원래 추측의 정식화는 Lean으로 형식화했고 Lean 커널 검증도 통과했다."
+        },
+        {
+          "t": "p",
+          "x": "모델의 여러 인스턴스가 기존 연구를 뒤지고 아이디어를 내며 접근법을 엮고 논증을 시험했다. 문제를 고르고 정의한 사람은 Turturean이다. 그는 시스템을 운영했고 초안도 직접 검토하고 고쳤다. 이후 추가 실행에서 인스턴스들은 수학적 한계를 두 차례 개선했고, 모든 버전이 Lean으로 검증됐다."
+        },
+        {
+          "t": "p",
+          "x": "이번 결과가 다루는 것은 전체 계산 시간이 아니라 컴퓨터가 데이터를 얼마나 자주 읽느냐다. 쓸모 있는 구조가 있는 문제라면 양자 컴퓨터가 크게 앞설 여지는 여전히 남는다."
+        }
+      ]
     }
   }
 }

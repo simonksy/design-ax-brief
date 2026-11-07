@@ -9793,6 +9793,146 @@
           "x": "La versión de escritorio también ofrece una línea de tiempo multipista completa, formas de onda de audio precisas, herramientas de etalonaje y atajos de teclado, además de exportaciones en 4K sin marca de agua y compatibilidad con varias relaciones de aspecto. Por ahora es solo para macOS (macOS-only) y los proyectos aún no pueden editarse entre el móvil y el escritorio; Meta prevé actualizar la app cada semana."
         }
       ]
+    },
+    "movies/hotsea-melochu-anime": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i3n.news1.kr/system/photos/2026/11/4/8197258/high.jpg",
+          "cap": "Imagen promocional de la protagonista de la animación de AI generativa Dugeun Dugeun Mello-Chu (cortesía de Hotsea; prohibida su reventa y uso en DB) 2026.11.5/News1"
+        },
+        {
+          "t": "p",
+          "x": "El estudio creativo Hotsea presentó 'Dugeun Dugeun Mello-Chu!' (Beat On! Mello-Chu!), una animación original producida con tecnología de inteligencia artificial (AI) generativa. El primer episodio transcurre en Nueva York, Estados Unidos."
+        },
+        {
+          "t": "p",
+          "x": "La obra cuenta la historia de 4 chicas que viajan por distintos países del mundo, aprenden sus culturas e idiomas y crecen a través de la música. Es una aventura musical que combina el K-pop con un relato de viajes."
+        },
+        {
+          "t": "p",
+          "x": "En el primer episodio, las protagonistas conocen la cultura local de Nueva York y preparan una actuación. El video publicado dura unos 5 minutos."
+        },
+        {
+          "t": "p",
+          "x": "Hotsea se encargó por su cuenta de la planificación, el diseño de personajes, la estructura de la historia y la producción de las escenas. La letra y la composición de la música original también formaron parte de la producción."
+        },
+        {
+          "t": "p",
+          "x": "En la producción se utilizó tecnología de video con AI generativa. El objetivo fue construir una propiedad intelectual (IP) independiente uniendo la experiencia en creación musical con la construcción narrativa."
+        },
+        {
+          "t": "p",
+          "x": "Jin Ho-hyun, PD de Hotsea, dirigió la planificación y la producción. Pese al ensayo y error propio de la producción con AI generativa, trabajó para que el video y la música se unieran en una sola historia."
+        },
+        {
+          "t": "p",
+          "x": "Hotsea planea seguir desarrollando IP originales de distintos géneros y formatos, con la idea de ampliar a largo plazo su propio portafolio de contenidos."
+        },
+        {
+          "t": "p",
+          "x": "El primer video de 'Dugeun Dugeun Mello-Chu!' se publicó en el canal oficial de YouTube de Hotsea. La empresa planifica y produce videos de marca y contenidos propios con AI generativa."
+        }
+      ]
+    },
+    "movies/curiousrefuge-ai-clone-shoot": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "CM1rPwuXw2A"
+        },
+        {
+          "t": "p",
+          "x": "En este tutorial, Curious Refuge muestra cómo crear un estudio desde cualquier lugar del mundo: solo se necesita audio y un video de referencia. El equipo llama a este flujo de trabajo “Studio Anywhere”."
+        },
+        {
+          "t": "p",
+          "x": "1. Graba tu audio con un teléfono o un micrófono y luego límpialo en Adobe Podcast. 2. Lleva la grabación mejorada a un editor de video (ellos usaron Adobe Premiere) y expórtala como un video con pantalla negra. 3. Elige un clip corto en el que hables a cámara; ellos usaron unos seis segundos de Caleb hablando en el estudio, ya que una referencia en video le da al modelo más información que una imagen fija."
+        },
+        {
+          "t": "p",
+          "x": "4. Sube el audio y la referencia a Seedance 2.5 (ellos usaron Magnific) e indícale en el prompt que use el audio del video negro y el aspecto, el movimiento y el entorno de la referencia. Las dos entradas tenían un límite combinado de 30 segundos, así que las grabaciones más largas tuvieron que dividirse. Todas las personas a las que se lo mostraron en Promise Studios pensaron que el resultado era real."
+        },
+        {
+          "t": "p",
+          "x": "Frente a HeyGen y a un flujo de trabajo con un LoRA entrenado a medida, Seedance 2.5 fue el más convincente; HeyGen todavía caía en el valle inquietante. Costos reportados para estos ejemplos: unos $16 para Seedance 2.5 a 1080p, $0.05 para HeyGen y $24 para el tercer flujo de trabajo a través de fal.ai."
+        },
+        {
+          "t": "p",
+          "x": "Generar toda la actuación a partir de un guion con Seedance 2.5, Wan 3 y MiniMax H3 produjo imágenes convincentes, pero la interpretación todavía no estaba a la altura. Grabar tu propio audio conservó el ritmo y la personalidad."
+        }
+      ]
+    },
+    "movies/curiousrefuge-sam-audio-music": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "u78B727zbRI"
+        },
+        {
+          "t": "p",
+          "x": "En este breve tutorial, Caleb muestra cómo quitar la música de cualquier clip con SAM Audio, la herramienta gratuita de aislamiento de sonido de Meta. Así se obtienen efectos de sonido limpios y se puede añadir música propia en el editor. También funciona con metraje normal, no solo con clips de AI."
+        },
+        {
+          "t": "p",
+          "x": "Time Code: 0:00 El problema de la música con AI · 0:44 Presentamos SAM Audio de Meta · 1:09 Subir tu clip de Seedance · 2:21 Aislar la música con un prompt · 2:57 Solo música (Music-only) vs. solo efectos de sonido (sound effects-only) · 4:21 Ejemplo: escena de café · 5:43 Ejemplo: escena de ciencia ficción (Sci-fi) · 6:51 Funciona con cualquier metraje"
+        }
+      ]
+    },
+    "movies/pvc-ai-firmware-framerate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Framerate-malpractice-hero.jpg",
+          "cap": "Framerate Malpractice"
+        },
+        {
+          "t": "p",
+          "x": "Hasta ahora he hablado de dos fabricantes de cámaras culpables de Framerate Malpractice: GoPro y Sony (en parte de su línea). Más tarde descubrí que DJI es igual de culpable. Ahora mi feed de YouTube empieza a mostrar casos en los que varias personas han usado AI para añadir a sus cámaras funciones que faltaban mediante actualizaciones de firmware."
+        },
+        {
+          "t": "p",
+          "x": "Así que la pregunta es: ¿los mods con AI resolverán la Framerate Malpractice antes de que los fabricantes culpables se molesten en hacerlo ellos mismos? Todavía no he visto esa corrección concreta hecha con un hack de terceros (third-party), pero probablemente sea cuestión de tiempo. Incluso antes de la AI ya existía el famoso firmware Magic Lantern para varios modelos de Canon, y el hack de Sony para convertir las cámaras en quasi-worldcam."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Sony-A7S-III-rounded-framerates.png",
+          "cap": "Frame rates redondeados de la Sony A7S III"
+        },
+        {
+          "t": "p",
+          "x": "Ejemplos recientes de modificaciones con AI, en orden cronológico: “Hacking Camera Software with AI is Getting Crazy”, de Breno Loves Cameras; “AI Camera Jailbreaking Changes Everything”, de FUTC; y “I hacked my camera with AI (and so can you)”, de Tony & Chelsea Northrup."
+        },
+        {
+          "t": "video",
+          "yt": "sJYBs5CLywk"
+        }
+      ]
+    },
+    "movies/dumont-the-end-genai-feature": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/2/6/1491626_Director-Burno-Dumont-Portrait.jpg",
+          "cap": "Bruno Dumont"
+        },
+        {
+          "t": "p",
+          "x": "El director francés Bruno Dumont, premiado en Cannes, ha revelado que su próximo largometraje, The End, se está realizando íntegramente con AI generativa, sin actores ni equipo de rodaje tradicional y con un presupuesto mínimo. Comenzó a trabajar en este thriller de ciencia ficción en inglés en agosto y ya ha terminado la producción: generó él mismo las imágenes, las interpretaciones y el sonido. Prevé un recorrido por festivales y el estreno en salas en 2027."
+        },
+        {
+          "t": "p",
+          "x": "La película sigue a un ambicioso policía de Los Angeles que investiga un crimen mientras la ciudad sufre terremotos y la caída de asteroides. Dumont escribió el guion hace más de 25 años, pero sus secuencias de catástrofe lo hacían prohibitivamente caro, así que quedó archivado."
+        },
+        {
+          "t": "p",
+          "x": "Desde su casa en París, genera las imágenes escena por escena a partir de su propio desglose de planos, sin ceder el control de las interpretaciones, la puesta en escena ni el montaje. “Soy como un director que trabaja con un equipo, solo que mi equipo es una máquina”, dijo. “Le doy instrucciones constantemente”."
+        },
+        {
+          "t": "p",
+          "x": "Produce The End de forma independiente, todavía sin agente de ventas. “Cada vez es más difícil financiar películas en Francia”, afirmó. “Hoy tengo libertad total. Puedo hacer lo que quiero”."
+        }
+      ]
     }
   }
 }

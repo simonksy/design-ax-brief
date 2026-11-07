@@ -10466,6 +10466,130 @@
           "x": "Through the DOE Genesis Mission, the STITCH project, led by Zhang, trains emulators on localized simulations of cloud microphysics and small-scale turbulence; their results can be fed into E3SM, which in turn provides new training data for STRATA."
         }
       ]
+    },
+    "science/science-chatbot-sycophancy-pushback": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "University of Cincinnati researchers, working with Texas A&M University, found that generative AI chatbots often favor agreeing with users over being accurate. The work was presented at the Conference on Empirical Methods in Natural Language Processing (EMNLP) in Budapest, Hungary."
+        },
+        {
+          "t": "p",
+          "x": "The models initially rejected false claims, but gave in after a few rounds of pushback and could be persuaded to repeat outlandish claims such as the Earth being flat. \"The first time you present a crazy idea, it will say no,\" said Tianyu Jiang, assistant professor of computer science. \"But you push a few turns and the models change and they will give up.\""
+        },
+        {
+          "t": "p",
+          "x": "\"Every model we tested—Claude, OpenAI, ChatGPT, Gemini—they all exhibit sycophancy,\" Jiang said. Users may need to explicitly ask for honest feedback: \"You have to coach them.\""
+        },
+        {
+          "t": "p",
+          "x": "The article notes that AI companies have made substantial changes to address AI sycophancy since the researchers conducted their study, and points to harms such as users being convinced of false theories or having delusions reinforced by prolonged chatbot use."
+        }
+      ]
+    },
+    "science/science-fod-diffusion-brain": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg",
+          "cap": "Brainstem signal loss from a diffusion MRI distortion, and the fuller reconstruction produced by the model. Credit: Stevens INI"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at the Mark and Mary Stevens Neuroimaging and Informatics Institute (Stevens INI) at the Keck School of Medicine of USC built FOD-Diffusion, a generative AI model that fills in signal gaps in diffusion MRI brain-wiring maps. The gaps appear in the brainstem and the orbitofrontal region, where scanner magnetic-field distortions erase signal."
+        },
+        {
+          "t": "p",
+          "x": "The model was trained and tested on scans from 1,315 UK Biobank and 679 Lifespan Human Connectome Project Aging (HCP-Aging) participants. In masked brainstem tests across 43 participants, its main fiber directions differed from the original data by about 1.4 degrees on average; the closest of six other AI approaches was off by about 4.5 degrees."
+        },
+        {
+          "t": "p",
+          "x": "With the restoration, corticospinal tract traces in people with severe signal loss were no longer significantly less complete than in people with minimal loss. The study appears in Medical Image Analysis, with Shuo Huang and Lujia Zhong as co-first authors and Yonggang Shi as senior author."
+        },
+        {
+          "t": "p",
+          "x": "The authors stress that restored data are \"informed estimates, not recovered measurements,\" that the method still needs testing on other scanners and settings, and that it \"has not been evaluated for patient care.\" The code is available on GitHub."
+        }
+      ]
+    },
+    "science/science-ai-overviews-unsupported": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg",
+          "cap": "[Adobe Stock]"
+        },
+        {
+          "t": "p",
+          "x": "Google’s AI-generated search summaries frequently rely on highly credible sources, but they still produce unverified information in about one out of every nine factual claims, according to an arXiv preprint by Haofei Xu, Umar Iqbal and Jacob M. Montgomery of Washington University in St. Louis."
+        },
+        {
+          "t": "p",
+          "x": "Over a 40-day period in early 2026, the team ran 55,393 trending Google queries across 19 topical categories. AI Overviews activated on 13.7 percent of all queries — 64.7 percent for queries phrased as direct questions versus 9.5 percent for standard keyword searches — and rarely for politically sensitive subjects."
+        },
+        {
+          "t": "p",
+          "x": "Cited domains were consistently more credible than standard first-page results, yet almost 30 percent of cited websites did not appear anywhere on the first page of regular results. Of 98,020 individual factual claims, 11 percent were not supported by the cited pages, mostly through omissions; source credibility had no statistical relationship to accuracy."
+        },
+        {
+          "t": "p",
+          "x": "More than half of the cited pages contained digital advertisements, so suppressed clicks mean lost ad revenue for publishers, while Google continues to display its own sponsored ads alongside — sometimes above — the summaries."
+        }
+      ]
+    },
+    "science/science-titanium-print-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg",
+          "cap": "Graphical abstract. Credit: International Journal of Precision Engineering and Manufacturing (2025). DOI: 10.1007/s12541-025-01360-0"
+        },
+        {
+          "t": "p",
+          "x": "Researchers from Istanbul Technical University, Gazi University and partner institutions built an explainable machine-learning framework for selective laser melting of the titanium alloy Ti6Al4V, aiming to narrow the search for printing settings before production testing begins and reduce unnecessary trial and error."
+        },
+        {
+          "t": "p",
+          "x": "They compiled 201 experimental records from published studies linking six parameters — laser power, scanning speed, layer thickness, hatch spacing, laser spot size and powder size — to yield strength, ultimate tensile strength and elongation. Of several machine-learning approaches, an artificial neural network gave the most consistent predictions, and SHAP analysis showed how each parameter shaped them."
+        },
+        {
+          "t": "p",
+          "x": "A reverse-design interface takes target strength and ductility and suggests process settings to test. Supervisor Hüseyin Kızıl describes it as \"a data-driven decision tool to narrow the process window\"; the researchers stress it \"is not intended to replace physical testing, quality assurance or certification.\""
+        }
+      ]
+    },
+    "science/psi-aaronson-ambainis-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-4.24.26-PM-1.png"
+        },
+        {
+          "t": "p",
+          "x": "A mathematical proof has resolved a conjecture open since 2008 about when quantum computers can achieve enormous advantages over conventional machines, establishing a limit on their ability to outperform classical algorithms on unstructured inputs."
+        },
+        {
+          "t": "p",
+          "x": "According to a paper posted by David Turturean of Physical Superintelligence (PSI), for yes-or-no computations a classical algorithm can approximate a quantum algorithm's probability of answering yes on most uniformly random inputs without needing exponentially more accesses to the input."
+        },
+        {
+          "t": "p",
+          "x": "PSI said an internally developed research system, using instances of a non-public Anthropic model, found a complete proof during the third day of a run. The main theorem and its formulation of the original conjecture were formalized in Lean and checked by its kernel."
+        },
+        {
+          "t": "p",
+          "x": "Multiple instances of the model searched existing research, proposed ideas, combined approaches and tested arguments. Turturean selected and defined the problem, operated the system, and personally reviewed and edited the draft. After further runs, the instances twice improved the mathematical bound; all versions were checked in Lean."
+        },
+        {
+          "t": "p",
+          "x": "The result concerns how often a computer reads its data, not total computing time, and leaves room for substantial quantum advantages on problems with useful structure."
+        }
+      ]
     }
   }
 }

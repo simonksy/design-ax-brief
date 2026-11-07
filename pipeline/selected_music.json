@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "section": "music",
   "picks": [
     {
-      "url": "https://www.notebookcheck.net/Cubase-16-adds-six-part-stem-separation-and-AI-vocals.1442941.0.html",
-      "title": "Cubase 16 adds six-part stem separation and AI vocals",
-      "source": "Notebookcheck",
+      "url": "https://www.billboard.com/pro/elvis-presley-ai-voice-cloning-lawsuit-suno/",
+      "title": "Elvis Presley Rights Owners Sue Suno Over AI Voice Cloning: 'Elvis' Identity Was Stolen'",
+      "source": "Billboard",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "published_iso": "2026-11-05T16:17:00+01:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Cubase-Studio-Production-Setup.png",
-      "excerpt": "Steinberg's Cubase 16 adds six-stem separation and Yamaha's upgraded Omnivocal AI singing synthesizer, plus instrument layering. Off-list: allowed outlets' Cubase 16 pieces barely mention the AI features.",
-      "rationale": "A major DAW version ships built-in six-stem separation and an AI singing synth, so Cubase users get both without third-party plugins."
+      "published_iso": "2026-11-07T15:38:11+00:00",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/03/elvis-presley-1956-billboard-1800.jpg?w=1024",
+      "excerpt": "A new lawsuit from Elvis Presley's rights owners claims Suno violated the singer's likeness rights by letting users clone his famous voice; Eminem's publisher Eight Mile Style filed a separate $41M suit the same day - new filings, not a continuation of the earlier Suno cases.",
+      "rationale": "A new likeness-rights suit against Suno over voice cloning, separate from the Elvis estate's 10-25 training suit against Anthropic, which tests whether letting users clone a famous voice is unlawful."
     },
     {
-      "url": "https://www.complex.com/music/a/alex-ocho/newjeans-contracts-indefinite-voice-rights",
-      "title": "NewJeans' Contract Reportedly Gives Label Right to Use AI-Generated Versions of Their Voices",
-      "source": "Complex",
+      "url": "https://www.synthtopia.com/content/2026/11/07/sampleson-wavefinder-uses-local-ai-to-search-audio-libraries-by-sound/",
+      "title": "Sampleson Wavefinder Uses Local AI To Search Audio Libraries By Sound",
+      "source": "Synthtopia",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "published_iso": "2026-11-05T17:07:47.230Z",
-      "og_image": "https://images.complex.com/complex/image/upload/c_crop,h_1078,w_1920,x_0,y_0/g_auto:aoi_778_264_384_216,ar_1.91,c_fill,q_auto,w_1200/sanity-new/aq7vzcujejcvekyraolq",
-      "excerpt": "A New York Times report on NewJeans' ADOR contracts says the label holds indefinite rights to AI-generated versions of the members' voices and likenesses. Off-list: Pitchfork's version omits the AI clause.",
-      "rationale": "A concrete K-pop contract clause giving a label indefinite AI voice and likeness rights, a reference point for artist deal terms."
+      "published_iso": "2026-11-07T14:00:57+00:00",
+      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/11/sampleson-wavefinder.png",
+      "excerpt": "Sampleson's new desktop app Wavefinder skips filenames and tags: a locally run AI model analyses your sample library and ranks sounds by similarity to a text description or a reference recording, with no uploads or subscription.",
+      "rationale": "A new tool producers can use tomorrow: an on-device AI that searches a sample library by sound or text description, with no uploads and no subscription."
     },
     {
-      "url": "https://musically.com/2026/11/06/mashup-edus-ai-agent-nia-is-designed-to-run-the-business-side-of-indie-acts-careers/",
-      "title": "Mashup Edu's AI-agent Nia is designed to 'run the business side' of indie acts' careers",
-      "source": "Music Ally",
+      "url": "https://www.soundonsound.com/news/heritage-audios-i73-pro-gains-nam-a2-support",
+      "title": "Heritage Audio's i73 Pro gains NAM A2 support",
+      "source": "Sound On Sound",
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "published_iso": "2026-11-06T05:46:05+00:00",
-      "og_image": "https://musically.com/wp-content/uploads/2026/11/Mashup-Edu-Nia.jpg",
-      "excerpt": "Indian music-education platform Mashup Edu launches Nia, an AI agent that handles release planning and admin for independent artists.",
-      "rationale": "A new agent product that takes over release planning and admin for independent artists, the business-side counterpart to the creation tools."
+      "published_iso": "2026-11-06T18:00:52+00:00",
+      "og_image": null,
+      "excerpt": "A firmware update lets Heritage Audio's i73 Pro interfaces run Neural Amp Modeler (NAM) A2 machine-learning amp captures directly on their internal DSP, bringing neural amp models into hardware.",
+      "rationale": "A firmware release that runs Neural Amp Modeler captures on an audio interface's own DSP. Earlier cards covered NAM in pedals, and this brings it to recording interfaces."
     },
     {
-      "url": "https://www.rollingstone.com/music/music-news/nile-rodgers-defends-ai-use-new-music-video-christmas-song-1235653717/",
-      "title": "Nile Rodgers Defends AI Use in Music Video: 'We Created Everything ... The AI Did What We Told It to Do'",
-      "source": "Rolling Stone",
+      "url": "https://arxiv.org/abs/2611.07423",
+      "title": "ProCraft: Instruction-Driven Music Production from Free-Form Text",
+      "source": "arXiv",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "published_iso": "2026-11-06T01:30:10+00:00",
-      "og_image": "https://www.rollingstone.com/wp-content/uploads/2026/11/NileRodgers-1.jpg?w=1600&h=900&crop=1",
-      "excerpt": "Nile Rodgers defended the AI-generated visuals in an upcoming Christmas charity music video after fan backlash, saying the team created everything and the AI only executed their direction.",
-      "rationale": "A legacy hitmaker publicly defends an AI-made video after fan backlash; Rolling Stone is the primary report among three outlets covering it."
+      "published_iso": "2026-11-05T04:18:46Z",
+      "og_image": null,
+      "excerpt": "ProCraft is a 0.5B-parameter codec language model that edits 30-second music excerpts end-to-end from free-form instructions, including compound requests - seven operations across eight instruments, from track removal to accompaniment generation.",
+      "rationale": "A small model that edits a mix from plain-language instructions, including compound edits like removing a track and generating accompaniment, which points toward instruction-driven production tools."
     },
     {
-      "url": "https://www.musicweek.com/labels/read/with-artificial-intelligence-on-cop31-agenda-impala-calls-for-action-on-ai-and-sustainability/095418",
-      "title": "With artificial intelligence on COP31 agenda, IMPALA calls for action on AI and sustainability",
-      "source": "Music Week",
+      "url": "https://www.koreajoongangdaily.com/entertainment/ai-meme-era-hits-kpop-and-even-tycoons-are-dancing-to-neon/12958219",
+      "title": "AI meme era hits K-pop — and even tycoons are dancing to 'Neon'",
+      "source": "Korea JoongAng Daily",
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "published_iso": "2026-11-06T10:18:00Z",
-      "og_image": "https://www.musicweek.com/cimages/3b400724e4030bddc66a18105114df9b.png",
-      "excerpt": "Ahead of COP31, indie-label body IMPALA calls on the music sector and governments to work together on AI and sustainability. Off-list; page shows date only, time from Google News.",
-      "rationale": "The European indie-label body's formal call ahead of COP31 adds AI's environmental cost to the music-policy agenda, which no earlier card covered."
+      "published_iso": "2026-11-06T02:30:04Z",
+      "og_image": "https://image.koreajoongangdaily.com/12958384.jpg?imageId=12958384&x=0&y=6.49&cropw=100&croph=62.02&panox=0&panoy=6.49&panow=100&panoh=62.02&width=1200&height=683",
+      "excerpt": "A2O Lite's 'Neon' choreography went viral through AI-generated meme videos putting celebrities and tycoons in the dance - a promotion win that also brings new likeness/legal liability for K-pop labels. (Off-list.)",
+      "rationale": "AI-generated meme videos became a K-pop promotion channel, and they bring likeness and legal risk for labels. No earlier card covered this."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.notebookcheck.net/Cubase-16-adds-six-part-stem-separation-and-AI-vocals.1442941.0.html": {
+      "https://www.billboard.com/pro/elvis-presley-ai-voice-cloning-lawsuit-suno/": {
         "verdict": "new",
-        "nearest": "https://musictech.com/news/pro-tools-now-features-ai-stem-separation/",
+        "nearest": "https://www.rollingstone.com/music/music-news/elvis-presley-rightsholders-anthropic-lawsuit-infringement-1235647682/",
         "new_action": ""
       },
-      "https://www.complex.com/music/a/alex-ocho/newjeans-contracts-indefinite-voice-rights": {
-        "verdict": "new",
-        "nearest": "https://www.hypebot.com/lalus-corner-who-controls-the-digital-version-of-you/",
-        "new_action": ""
-      },
-      "https://musically.com/2026/11/06/mashup-edus-ai-agent-nia-is-designed-to-run-the-business-side-of-indie-acts-careers/": {
+      "https://www.synthtopia.com/content/2026/11/07/sampleson-wavefinder-uses-local-ai-to-search-audio-libraries-by-sound/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.rollingstone.com/music/music-news/nile-rodgers-defends-ai-use-new-music-video-christmas-song-1235653717/": {
+      "https://www.soundonsound.com/news/heritage-audios-i73-pro-gains-nam-a2-support": {
         "verdict": "new",
-        "nearest": "https://metalinjection.net/news/avenged-sevenfolds-zacky-vengeance-defends-ai-art-calls-majority-of-designers-hes-worked-with-lazy",
+        "nearest": "https://www.guitarworld.com/gear/amp-modeler-pedals/zoom-neurig",
         "new_action": ""
       },
-      "https://www.musicweek.com/labels/read/with-artificial-intelligence-on-cop31-agenda-impala-calls-for-action-on-ai-and-sustainability/095418": {
+      "https://arxiv.org/abs/2611.07423": {
         "verdict": "new",
         "nearest": "",
+        "new_action": ""
+      },
+      "https://www.koreajoongangdaily.com/entertainment/ai-meme-era-hits-kpop-and-even-tycoons-are-dancing-to-neon/12958219": {
+        "verdict": "new",
+        "nearest": "https://www.koreajoongangdaily.com/entertainment/seoul-music-forum-explores-humanism-in-ai-age-with-one-in-four-kpop-acts-now-virtual/12949369",
         "new_action": ""
       }
     },
-    "note": "Pool 21. Within-pool dups: Nile Rodgers cluster (MusicRadar 'drop the slop' and DMN 'latest musician to support AI' are commentary on the same event, so Rolling Stone kept); Grimes AI film cluster c5 (Verge/Consequence). Dropped as already-published or running stories: edaily 머무르 '꿈꾸던 어른이 되었나요?' (same Suno-made Korean hit as musically 10-18 'The Adult I Dreamed Of'); CDM inMusic opening gear to modders (follow-up to the theverge 10-29 Akai vibe-coded MPC story, a policy widening rather than a new release; the Verge version was already auto-dropped); Logic Pro 13 public release (Synth Anatomy) and MacRumors' Logic subscription caveat (running story from the engadget 10-28 Creator Studio/Logic 13 announcement, release-day availability rather than a new release). Grimes 'Gods Don't Give Gifts' was not picked: the news is the film, it belongs to movies, and it risks a cross-section clash (no URL found in published_urls movies). Not picked on scoring: Billboard concert-AI feature, IFPI CEO interview, ICMP interview (interviews/analysis), The Edge comment, KBS copyright explainer, paxetv KAMCA policy roundtable, Wendy's emo album (brand controversy, marketing territory, off-list). Cubase 16 is a different product from Pro Tools stem separation (11-06) and iZotope Photon (11-05). Diversity: 5 distinct outlets. published_urls.json is too large to fully grep with Read-only tools. I checked the movies block (no Grimes/Rodgers/NewJeans URLs), so the orchestrator should exact-grep these 5 URLs across all sections before roll. Picks are under 'picks' (the README/roll.py key used through 11-06); the brief's 'items' wording refers to the same list."
+    "note": "Pool 14. Dropped as already-published or running stories: inthenews 주간AI노트 머무르 '꿈꾸던 어른이 되었나요?' chart story (same Suno-made Korean hit as musically 10-18 'The Adult I Dreamed Of', also dropped on 11-07); Trusted Reviews Logic Pro 13.0 public release (running story from the engadget 10-28 Creator Studio/Logic 13 announcement, same verdict as 11-07 when the Synth Anatomy version was dropped). The Verge Akai/Moog vibe-coded mods story was already auto-dropped. Elvis v. Suno is a NEW filing (a likeness and voice-cloning claim against Suno). It is not the 10-25 Elvis v. Anthropic training suit, the 10-23 Reservoir suit, or the Isbell v. Suno motion to dismiss (11-04). CROSS-SECTION: the politics pool also has Suno lawsuit items, so the orchestrator must keep this story in only one section. If politics takes it, the replacement for this slot is Latent Terrain (arXiv 2611.07210) or Dr. Dre (Complex), and it must get its own dedup check. Not picked on scoring: Dr. Dre and The Edge (commentary), KBS copyright explainer, paxetv KAMCA policy roundtable, FUSEMOS and Latent Terrain (a second arXiv paper adds less than ProCraft). Grimes 'Gods Don't Give Gifts' belongs to movies. Diversity: 5 distinct outlets. published_urls.json is too large to grep fully with Read-only tools, so the orchestrator should exact-grep these 5 URLs and 'Wavefinder', 'i73', 'ProCraft', 'Neon' across all sections before roll. The list is under 'picks' (the roll.py key used through 11-07); the brief's 'items' means the same list."
   }
 }

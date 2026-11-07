@@ -1,31 +1,34 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "section": "movies",
   "media": [
     {
-      "id": "dumont-the-end-genai-feature",
+      "id": "movies-imcore-core-studio",
       "type": "image",
-      "src": "pipeline/media/dumont-the-end-genai-feature.jpg"
+      "src": "pipeline/media/movies-imcore-core-studio.jpg"
     },
     {
-      "id": "fujitv-drama-genai-2027",
+      "id": "hotsea-melochu-anime",
       "type": "image",
-      "src": "pipeline/media/fujitv-drama-genai-2027.jpg"
+      "src": "pipeline/media/hotsea-melochu-anime.jpg"
     },
     {
-      "id": "toei-genai-production-rules",
-      "type": "image",
-      "src": "pipeline/media/toei-genai-production-rules.jpg"
+      "id": "curiousrefuge-ai-clone-shoot",
+      "type": "video",
+      "src": "pipeline/media/curiousrefuge-ai-clone-shoot.mp4",
+      "poster": "pipeline/media/curiousrefuge-ai-clone-shoot.jpg"
     },
     {
-      "id": "chomet-dior-short-ai-claims",
-      "type": "image",
-      "src": "pipeline/media/chomet-dior-short-ai-claims.jpg"
+      "id": "curiousrefuge-sam-audio-music",
+      "type": "video",
+      "src": "pipeline/media/curiousrefuge-sam-audio-music.mp4",
+      "poster": "pipeline/media/curiousrefuge-sam-audio-music.jpg"
     },
     {
-      "id": "taicca-ai-adoption-study",
-      "type": "image",
-      "src": "pipeline/media/taicca-ai-adoption-study.jpg"
+      "id": "pvc-ai-firmware-framerate",
+      "type": "video",
+      "src": "pipeline/media/pvc-ai-firmware-framerate.mp4",
+      "poster": "pipeline/media/pvc-ai-firmware-framerate.jpg"
     }
   ]
 }

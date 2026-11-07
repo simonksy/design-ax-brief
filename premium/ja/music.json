@@ -9405,6 +9405,131 @@
           "x": "Rheoは求めに応じてSpliceのサンプルと標準音源でフルの楽曲を制作することもできるが、Suno型の音声生成機能はない。Spliceはすべてのモデルを「完全にライセンスを得た」データで学習させたとしている。一方MusicRadarは、創作の主導権をAIエージェントに渡すと音楽制作が簡単になりすぎないかと問いかけている。"
         }
       ]
+    },
+    "music/sampleson-wavefinder-local-search": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "HH2709Zcn8A"
+        },
+        {
+          "t": "p",
+          "x": "Samplesonは、大規模なサンプルライブラリから目当ての音を見つけるためのデスクトップ用オーディオ検索アプリWavefinderを発表した。Wavefinderはファイル名や手作業で付けたタグに頼らず、オーディオファイルを解析し、テキストによる説明や参照録音との類似度で順位付けする。"
+        },
+        {
+          "t": "p",
+          "x": "ソフトウェアはAIモデルをローカルで実行し、音声のアップロードや継続的なサブスクリプション料金は不要だ。ユーザーは質感、雰囲気、ルームサウンド、演奏のジェスチャーといった音を自然言語で説明するか、参照音源をアプリにドラッグして似た録音を探せる。"
+        },
+        {
+          "t": "p",
+          "x": "インデックスはネストされたフォルダーも含めローカルで構築・保存される。検索回数は無制限だ。対応フォーマットはWAV、AIFF、AIF、FLAC、OGG、MP3で、macOSとWindowsでスタンドアロンとして、また対応DAWsのプラグインとして動作する。"
+        },
+        {
+          "t": "p",
+          "x": "Wavefinderは現在$29.00 USDで販売中だ（導入価格。通常価格は$49.00 USDで、発売記念価格はNovember 15, 2026まで）。"
+        }
+      ]
+    },
+    "music/heritage-i73pro-nam-a2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/h/heritage_audio_nam_a2_0-hbH78FIVnEagNT4vjmT0H48ZpPbbIcyU.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Heritage Audioは、同社のi73 Proオーディオインターフェースが内蔵DSP上でNAM（Neural Amp Modeler）A2キャプチャをホストできるようにするファームウェアアップデートを公開した。既存ユーザー全員に無償で提供され、ギターアンプやペダル、アウトボード機器の高品質なエミュレーションを通して録音できる。"
+        },
+        {
+          "t": "p",
+          "x": "NAMは、実機のアンプ、ペダル、アウトボード機器、さらにはシグナルチェーン全体をニューラルモデルとしてキャプチャするオープンソース技術だ。2 June 2026に公開された第二世代アーキテクチャのA2は、より少ない計算資源で音質を高めている。ユーザーは.namファイルをi73 ProのDSPで直接ホストでき、CPUリソースを使わず、追加のレイテンシーもなくキャプチャを通して録音できる。"
+        },
+        {
+          "t": "p",
+          "x": "Heritage Audioの創業者（Founder）Peter Rodriguezは「内蔵ローダーにより、i73 Proのオーナーはプラグインも追加機器も不要で、レイテンシーを気にすることもなく、NAMの世界にあるあらゆるアンプ、ペダル、アウトボードを通して演奏できる」と述べた。ファームウェアとMixerアプリケーションは、Heritage Audioのウェブサイトで現在入手できる。"
+        }
+      ]
+    },
+    "music/procraft-instruction-music-edit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "音楽制作では通常、複数の編集作業が必要で、それぞれに専用ツールと専門知識が求められる。ProCraftは0.5B パラメータの軽量な自己回帰型コーデック言語モデルで、複合的な要求を含む自由形式の指示から30秒の音楽抜粋をエンドツーエンドで編集する。トラック除去から伴奏生成まで、八つの楽器にわたる七つの操作に対応する。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2611.07423v1/fig_architecture.svg",
+          "cap": "図1：ProCraftのアーキテクチャ。"
+        },
+        {
+          "t": "p",
+          "x": "事前学習済み音楽埋め込みとの表現アライメントにより編集対象外の内容を保ち、すべてのデコーダー層に置いたゲート付きクロスアテンションが生成を指示に結び付ける。複合的な要求で学習させるため、著者らはOn-the-fly Editing-pair Synthesisを導入した。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2611.07423v1/fig_data_pipeline.svg",
+          "cap": "図2：On-the-fly editing-pair synthesis。"
+        },
+        {
+          "t": "p",
+          "x": "ProCraftは、MoisesDBとSlakhにおけるトラック除去、抽出、ノイズ除去の複合指示で、自由テキスト型の編集モデル四つを上回った。ユーザー調査（聴取者16人）では除去とノイズ除去で最高評価を得て、抽出と楽器変換では16倍大きいモデルと同等だった。"
+        }
+      ]
+    },
+    "music/a2o-lite-neon-ai-memes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12958354.webp?imageId=12958354&width=960&height=548&format=jpg",
+          "cap": "AI-generatedの画像で、ガールズグループA2O Liteの新曲「Neon」に合わせて踊るSK GroupのChey Tae-won会長（左）とSamsung ElectronicsのLee Jae-yong会長。"
+        },
+        {
+          "t": "p",
+          "x": "デビューしたばかりのガールズグループA2O Liteの「Neon」がチャートを席巻すると、別のものも話題になった。メンバーの顔をSK GroupのChey Tae-won会長やSamsung ElectronicsのLee Jae-yong会長ら著名人の顔に差し替えた、AI-generatedの振り付けパロディ動画だ。リスナーからは、サビが韓国語の「未婚」と「離婚」に聞こえるとの指摘が出ていた。"
+        },
+        {
+          "t": "p",
+          "x": "パロディ動画を作ってみると、三分足らずで、費用もかからなかった。AI動画プラットフォームHiggsfieldはミュージックビデオ冒頭の映像を使った既製テンプレートを用意しており、数分で15秒のパロディが完成した。"
+        },
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12958352.webp?imageId=12958352&width=960&height=740&format=jpg",
+          "cap": "ガールズグループA2O Liteの新曲「Neon」に合わせて猫が踊るAI-generatedの動画。"
+        },
+        {
+          "t": "p",
+          "x": "動画の大半、あるいはすべてが、顔を使われた本人の同意なく作られた。Lawfirm TaeryunのHwang Jin-seop弁護士は「『パロディ』という名目は盾にはなっても、免罪符にはならない」と語った。BlackpinkのJennieとGirls' GenerationのYoonaの所属事務所は、ディープフェイク動画に対しゼロトレランスで法的措置を取ると発表している。"
+        }
+      ]
+    },
+    "music/cubase16-stem-omnivocal": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "SteinbergはCubase 16をリリースし、プロデューサー、リミキサー、ミュージシャン向けの新ツールでデジタル・オーディオ・ワークステーション（DAW）の機能を広げた。最大の追加点の一つは、オーディオ技術企業zplaneと共同開発した改良版のステム分離だ。Cubaseはミックス済みの録音を、ボーカル、ドラム、ベース、ピアノ、ギター、その他の楽器という六つの要素に分けられるようになった。前バージョンは四つに対応していた。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/b/3/csm_Cubase-16-04_master_291774746e.jpg",
+          "cap": "プロのレコーディングスタジオでエレキギターを使うCubase 16の音楽制作ワークフロー"
+        },
+        {
+          "t": "p",
+          "x": "アップデートではInstrument Stacksも導入され、最大八つの仮想楽器を組み合わせて一つのトラックから演奏できる。新しいMIDIツールは打ち込んだコードを自然なストロークのように響かせ、刷新したテンポ検出と検索可能な設定は日々の制作作業の効率化を狙う。"
+        },
+        {
+          "t": "p",
+          "x": "YamahaのOmnivocal Basicボーカルシンセサイザーも注目すべき追加だ。新しいOmnivocal NXエンジンを使い、CubaseのKey Editorに直接入力したMIDIノートと歌詞から歌声を生成する。Basicには二つのボイスバンクが含まれ、別売りのOmnivocal Proは選択肢を十に広げ、重ねた歌唱のためのボーカルスタッキングを加える。"
+        },
+        {
+          "t": "p",
+          "x": "Cubase 16はPro（$599.99 / €599）、Artist（$299.99 / €299）、Elements（$99.99 / €99）の各エディションで提供される。Omnivocal Basicは無償で付属し、Omnivocal Proは別途$149.99だ。2026年10月7日以降にアクティベートしたライセンスは無償アップデートの対象となる。"
+        },
+        {
+          "t": "video",
+          "yt": "rUJ8NZDcEoo"
+        }
+      ]
     }
   }
 }

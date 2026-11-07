@@ -1,221 +1,173 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "section": "music",
   "cards": [
     {
-      "id": "cubase16-stem-omnivocal",
+      "id": "elvis-suno-voice-clone-suit",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Cubase 16에 내장된\n스템 분리·AI 보컬",
-      "body": "Cubase 16이 DAW 안에 여섯 스템 분리와 Omnivocal AI를 들였다.",
-      "mini_headline": "Cubase 16에 AI 보컬",
+      "headline": "Elvis 권리 보유사\nSuno에 AI 음성 소송",
+      "body": "Elvis Presley 측은 Suno의 음성 복제 허용을 초상권 침해로 본다.",
+      "mini_headline": "Elvis 측, Suno 고소",
       "tool": "Music",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Cubase-16-adds-six-part-stem-separation-and-AI-vocals.1442941.0.html",
+      "source": "Billboard",
+      "url": "https://www.billboard.com/pro/elvis-presley-ai-voice-cloning-lawsuit-suno/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Steinberg가 Cubase 16을 내놨다. 프로듀서와 리믹서, 뮤지션을 위한 새 도구로 디지털 오디오 워크스테이션(DAW)의 폭을 넓혔다. 큰 변화 중 하나는 오디오 기술 기업 zplane과 함께 손본 스템 분리 기능이다. 이제 믹스된 녹음을 보컬, 드럼, 베이스, 피아노, 기타, 그 밖의 악기까지 여섯 요소로 나눈다. 이전 버전은 네 가지였다."
-          },
-          {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/_processed_/b/3/csm_Cubase-16-04_master_291774746e.jpg",
-            "cap": "전문 녹음 스튜디오에서 일렉트릭 기타와 함께한 Cubase 16 음악 제작 워크플로"
+            "src": "https://www.billboard.com/wp-content/uploads/2026/03/elvis-presley-1956-billboard-1800.jpg?w=942&h=628&crop=1",
+            "cap": "April 1956, 21세의 Elvis Presley."
           },
           {
             "t": "p",
-            "x": "Instrument Stacks도 새로 들어갔다. 가상 악기를 최대 여덟 개까지 묶어 한 트랙에서 연주한다. 새 MIDI 도구는 프로그래밍한 코드를 자연스러운 스트로크처럼 들리게 해 준다. 템포 감지를 새로 설계하고 설정을 검색할 수 있게 바꾼 것도 일상 작업 속도를 끌어올리려는 변화다."
+            "x": "Elvis Presley의 지식재산권을 가진 측이 AI 음악 기업 Suno에 새 소송을 걸었다. Suno가 로큰롤의 제왕(King of Rock ‘n’ Roll)의 목소리를 훔쳐 초상권을 침해했다는 것이다. Authentic Brands Group 산하 Elvis Presley Enterprises가 금요일(Nov. 6) 낸 소장에는 앞서 Anthropic을 상대로 낸 소송과 비슷한 저작권 침해 주장도 들어 있다."
           },
           {
             "t": "p",
-            "x": "Yamaha의 보컬 신시사이저 Omnivocal Basic도 눈에 띈다. 새 Omnivocal NX 엔진으로 돌아가며, Cubase의 Key Editor에 직접 입력한 MIDI 음표와 가사로 노래를 만든다. Basic에는 보이스 뱅크가 두 개 들어 있다. 따로 파는 Omnivocal Pro는 이를 열 개로 늘리고, 여러 겹의 연주를 쌓는 보컬 스태킹 기능을 더한다."
+            "x": "Tennessee주 ELVIS Act에 따른 첫 주요 소송 가운데 하나다. 이 법은 음성·이미지 복제를 가능하게 하는 기술 기업까지 소송 대상으로 삼는다. 소장은 사용자가 실존 아티스트를 프롬프트로 지정할 수 없다는 Suno의 주장을 “명백한 거짓”이라고 반박했다. 지난달까지도 Suno가 그의 이름이 들어간 가사로 Elvis 복제 음성을 만들어 냈다는 것이다."
           },
           {
             "t": "p",
-            "x": "Cubase 16은 Pro($599.99 / €599), Artist($299.99 / €299), Elements($99.99 / €99) 에디션으로 나온다. Omnivocal Basic은 무료로 딸려 오고 Omnivocal Pro는 $149.99에 따로 판다. 2026년 10월 7일부터 활성화한 라이선스는 무료로 업데이트할 수 있다."
-          },
-          {
-            "t": "video",
-            "yt": "rUJ8NZDcEoo"
+            "x": "Suno는 특정 아티스트의 이름과 곡을 프롬프트로 쓰지 못하게 막고 업로드된 오디오와 가사도 걸러낸다고 밝혔다. 같은 금요일, 같은 변호인단은 Eminem 카탈로그의 상당 부분을 가진 퍼블리셔 Eight Mile Style을 대리해 Suno에 또 다른 소송을 냈다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Cubase 16 builds in stem\nsplitting and AI vocals",
-          "body": "Steinberg's Cubase 16 adds six-stem separation and Yamaha's Omnivocal AI singing synth inside the DAW.",
-          "mini_headline": "Cubase 16 adds\nAI vocals",
+          "headline": "Elvis rights owners sue Suno\nover AI voice cloning",
+          "body": "Elvis Presley's rights owners say Suno broke his likeness rights by letting users clone his famous voice.",
+          "mini_headline": "Elvis estate sues Suno",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Steinberg has released Cubase 16, expanding its digital audio workstation with new tools for producers, remixers and musicians. One of the biggest additions is improved stem separation, developed with audio technology company zplane. Cubase can now split a mixed recording into six components: vocals, drums, bass, piano, guitar and other instruments. The previous version supported four."
-              },
-              {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/b/3/csm_Cubase-16-04_master_291774746e.jpg",
-                "cap": "Cubase 16 music production workflow with electric guitar in a professional recording studio"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/03/elvis-presley-1956-billboard-1800.jpg?w=942&h=628&crop=1",
+                "cap": "Elvis Presley, 21, seen in April 1956."
               },
               {
                 "t": "p",
-                "x": "The update also introduces Instrument Stacks, allowing up to eight virtual instruments to be combined and played from a single track. New MIDI tools can make programmed chords sound more like natural strumming, while redesigned tempo detection and searchable settings aim to speed up everyday production tasks."
+                "x": "The owners of Elvis Presley’s intellectual property are suing Suno in a new lawsuit that claims the AI music company violated the King of Rock ‘n’ Roll’s likeness rights by stealing his voice. Filed Friday (Nov. 6) by Elvis Presley Enterprises, a unit of Authentic Brands Group, the case also levels copyright accusations similar to its earlier suit against Anthropic."
               },
               {
                 "t": "p",
-                "x": "Yamaha's Omnivocal Basic vocal synthesizer is another notable addition. Using the new Omnivocal NX engine, it generates singing from MIDI notes and lyrics entered directly in Cubase's Key Editor. Basic includes two voice banks, while the separately priced Omnivocal Pro expands the selection to ten and adds vocal stacking for layered performances."
+                "x": "It is one of the first major cases under Tennessee’s ELVIS Act, which also allows lawsuits against tech firms that enable voice and image cloning. The complaint says Suno’s claim that users can’t prompt for real artists is “unequivocally false,” and that as recently as last month Suno generated an Elvis clone from lyrics that included his name."
               },
               {
                 "t": "p",
-                "x": "Cubase 16 comes in Pro ($599.99 / €599), Artist ($299.99 / €299) and Elements ($99.99 / €99) editions. Omnivocal Basic is included for free, while Omnivocal Pro costs $149.99 separately. Licenses activated on or after October 7, 2026, qualify for a free update."
-              },
-              {
-                "t": "video",
-                "yt": "rUJ8NZDcEoo"
+                "x": "Suno said it does not allow prompts for specific artists’ names and songs and screens uploaded audio and lyrics. Separately on Friday, the same attorneys filed another case against Suno on behalf of Eight Mile Style, a publisher that owns much of Eminem’s catalog."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Cubase 16에 내장된\n스템 분리·AI 보컬",
-          "body": "Cubase 16이 DAW 안에 여섯 스템 분리와 Omnivocal AI를 들였다.",
-          "mini_headline": "Cubase 16에 AI 보컬",
+          "headline": "Elvis 권리 보유사\nSuno에 AI 음성 소송",
+          "body": "Elvis Presley 측은 Suno의 음성 복제 허용을 초상권 침해로 본다.",
+          "mini_headline": "Elvis 측, Suno 고소",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Steinberg가 Cubase 16을 내놨다. 프로듀서와 리믹서, 뮤지션을 위한 새 도구로 디지털 오디오 워크스테이션(DAW)의 폭을 넓혔다. 큰 변화 중 하나는 오디오 기술 기업 zplane과 함께 손본 스템 분리 기능이다. 이제 믹스된 녹음을 보컬, 드럼, 베이스, 피아노, 기타, 그 밖의 악기까지 여섯 요소로 나눈다. 이전 버전은 네 가지였다."
-              },
-              {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/b/3/csm_Cubase-16-04_master_291774746e.jpg",
-                "cap": "전문 녹음 스튜디오에서 일렉트릭 기타와 함께한 Cubase 16 음악 제작 워크플로"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/03/elvis-presley-1956-billboard-1800.jpg?w=942&h=628&crop=1",
+                "cap": "April 1956, 21세의 Elvis Presley."
               },
               {
                 "t": "p",
-                "x": "Instrument Stacks도 새로 들어갔다. 가상 악기를 최대 여덟 개까지 묶어 한 트랙에서 연주한다. 새 MIDI 도구는 프로그래밍한 코드를 자연스러운 스트로크처럼 들리게 해 준다. 템포 감지를 새로 설계하고 설정을 검색할 수 있게 바꾼 것도 일상 작업 속도를 끌어올리려는 변화다."
+                "x": "Elvis Presley의 지식재산권을 가진 측이 AI 음악 기업 Suno에 새 소송을 걸었다. Suno가 로큰롤의 제왕(King of Rock ‘n’ Roll)의 목소리를 훔쳐 초상권을 침해했다는 것이다. Authentic Brands Group 산하 Elvis Presley Enterprises가 금요일(Nov. 6) 낸 소장에는 앞서 Anthropic을 상대로 낸 소송과 비슷한 저작권 침해 주장도 들어 있다."
               },
               {
                 "t": "p",
-                "x": "Yamaha의 보컬 신시사이저 Omnivocal Basic도 눈에 띈다. 새 Omnivocal NX 엔진으로 돌아가며, Cubase의 Key Editor에 직접 입력한 MIDI 음표와 가사로 노래를 만든다. Basic에는 보이스 뱅크가 두 개 들어 있다. 따로 파는 Omnivocal Pro는 이를 열 개로 늘리고, 여러 겹의 연주를 쌓는 보컬 스태킹 기능을 더한다."
+                "x": "Tennessee주 ELVIS Act에 따른 첫 주요 소송 가운데 하나다. 이 법은 음성·이미지 복제를 가능하게 하는 기술 기업까지 소송 대상으로 삼는다. 소장은 사용자가 실존 아티스트를 프롬프트로 지정할 수 없다는 Suno의 주장을 “명백한 거짓”이라고 반박했다. 지난달까지도 Suno가 그의 이름이 들어간 가사로 Elvis 복제 음성을 만들어 냈다는 것이다."
               },
               {
                 "t": "p",
-                "x": "Cubase 16은 Pro($599.99 / €599), Artist($299.99 / €299), Elements($99.99 / €99) 에디션으로 나온다. Omnivocal Basic은 무료로 딸려 오고 Omnivocal Pro는 $149.99에 따로 판다. 2026년 10월 7일부터 활성화한 라이선스는 무료로 업데이트할 수 있다."
-              },
-              {
-                "t": "video",
-                "yt": "rUJ8NZDcEoo"
+                "x": "Suno는 특정 아티스트의 이름과 곡을 프롬프트로 쓰지 못하게 막고 업로드된 오디오와 가사도 걸러낸다고 밝혔다. 같은 금요일, 같은 변호인단은 Eminem 카탈로그의 상당 부분을 가진 퍼블리셔 Eight Mile Style을 대리해 Suno에 또 다른 소송을 냈다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Cubase 16が内蔵\nステム分離とAIボーカル",
-          "body": "Cubase 16はDAW内に六ステム分離とOmnivocal AIを加えた。",
-          "mini_headline": "Cubase 16にAIボーカル",
+          "headline": "Elvis側がSunoを提訴\nAI音声クローンを巡り",
+          "body": "Elvis Presleyの権利者は、Sunoが声の複製を許し肖像権を侵害したと主張する。",
+          "mini_headline": "Elvis側、Sunoを提訴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "SteinbergはCubase 16をリリースし、プロデューサー、リミキサー、ミュージシャン向けの新ツールでデジタル・オーディオ・ワークステーション（DAW）の機能を広げた。最大の追加点の一つは、オーディオ技術企業zplaneと共同開発した改良版のステム分離だ。Cubaseはミックス済みの録音を、ボーカル、ドラム、ベース、ピアノ、ギター、その他の楽器という六つの要素に分けられるようになった。前バージョンは四つに対応していた。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/b/3/csm_Cubase-16-04_master_291774746e.jpg",
-                "cap": "プロのレコーディングスタジオでエレキギターを使うCubase 16の音楽制作ワークフロー"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/03/elvis-presley-1956-billboard-1800.jpg?w=942&h=628&crop=1",
+                "cap": "April 1956、21歳のElvis Presley。"
               },
               {
                 "t": "p",
-                "x": "アップデートではInstrument Stacksも導入され、最大八つの仮想楽器を組み合わせて一つのトラックから演奏できる。新しいMIDIツールは打ち込んだコードを自然なストロークのように響かせ、刷新したテンポ検出と検索可能な設定は日々の制作作業の効率化を狙う。"
+                "x": "Elvis Presleyの知的財産権を保有する側が、AI音楽企業Sunoを相手取り新たな訴訟を起こした。Sunoが「キング・オブ・ロックンロール」（King of Rock ‘n’ Roll）の声を盗み、肖像権を侵害したと訴えている。Authentic Brands Group傘下のElvis Presley Enterprisesが金曜日（Nov. 6）に提起したこの訴訟は、以前Anthropicを相手取った訴訟と同様の著作権侵害も主張している。"
               },
               {
                 "t": "p",
-                "x": "YamahaのOmnivocal Basicボーカルシンセサイザーも注目すべき追加だ。新しいOmnivocal NXエンジンを使い、CubaseのKey Editorに直接入力したMIDIノートと歌詞から歌声を生成する。Basicには二つのボイスバンクが含まれ、別売りのOmnivocal Proは選択肢を十に広げ、重ねた歌唱のためのボーカルスタッキングを加える。"
+                "x": "これはTennessee州のELVIS Actに基づく初期の主要訴訟の一つで、同法は声や画像の複製を可能にするテック企業への訴訟も認めている。訴状は、ユーザーが実在のアーティストを指定してプロンプトできないというSunoの主張を「明白な虚偽」とし、先月にもSunoがElvisの名前を含む歌詞からElvisのクローン音声を生成したと指摘する。"
               },
               {
                 "t": "p",
-                "x": "Cubase 16はPro（$599.99 / €599）、Artist（$299.99 / €299）、Elements（$99.99 / €99）の各エディションで提供される。Omnivocal Basicは無償で付属し、Omnivocal Proは別途$149.99だ。2026年10月7日以降にアクティベートしたライセンスは無償アップデートの対象となる。"
-              },
-              {
-                "t": "video",
-                "yt": "rUJ8NZDcEoo"
+                "x": "Sunoは、特定アーティストの名前や楽曲を指定するプロンプトは認めておらず、アップロードされた音声と歌詞も審査していると説明した。同じ金曜日、同じ弁護士団はEminemのカタログの多くを保有する出版社Eight Mile Styleの代理として、Sunoを相手取る別の訴訟も起こした。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Cubase 16内置\n分轨分离与AI人声",
-          "body": "Cubase 16在DAW内加入六轨分离与Omnivocal AI歌声合成器。",
-          "mini_headline": "Cubase 16加入AI人声",
+          "headline": "Elvis权利方起诉Suno\n指其AI克隆嗓音",
+          "body": "Elvis Presley的权利方称，Suno让用户克隆其标志性嗓音，侵犯了他的肖像权。",
+          "mini_headline": "Elvis遗产方起诉Suno",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Steinberg发布了Cubase 16，为制作人、混音师和音乐人带来新工具，扩展了这款数字音频工作站（DAW）。最大的新增功能之一是与音频技术公司zplane合作开发的改进版分轨分离。Cubase现在可将混音录音拆分为六个部分：人声、鼓、贝斯、钢琴、吉他及其他乐器。上一版本支持四个。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/b/3/csm_Cubase-16-04_master_291774746e.jpg",
-                "cap": "专业录音棚中搭配电吉他的Cubase 16音乐制作流程"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/03/elvis-presley-1956-billboard-1800.jpg?w=942&h=628&crop=1",
+                "cap": "April 1956，21岁的Elvis Presley。"
               },
               {
                 "t": "p",
-                "x": "此次更新还引入了Instrument Stacks，可将最多八件虚拟乐器组合起来，在单条音轨上演奏。新的MIDI工具能让编程和弦听起来更像自然扫弦，重新设计的速度检测和可搜索的设置则旨在加快日常制作任务。"
+                "x": "Elvis Presley知识产权的所有方对AI音乐公司Suno提起新诉讼，称其窃取“摇滚之王”（King of Rock ‘n’ Roll）的嗓音，侵犯了他的肖像权。该诉讼由Authentic Brands Group旗下的Elvis Presley Enterprises于周五（Nov. 6）提起，还提出了与此前起诉Anthropic案类似的版权指控。"
               },
               {
                 "t": "p",
-                "x": "Yamaha的Omnivocal Basic人声合成器是另一项值得关注的新增功能。它采用全新的Omnivocal NX引擎，根据直接在Cubase的Key Editor中输入的MIDI音符和歌词生成歌声。Basic包含两个声库，单独定价的Omnivocal Pro则将可选声库扩展到十个，并增加用于多层演唱的人声叠加功能。"
+                "x": "这是依据Tennessee州ELVIS Act提起的首批重大案件之一，该法也允许起诉为声音和形象克隆提供便利的科技公司。诉状称，Suno所谓用户无法以真实艺人作为提示词的说法“毫无疑问是虚假的”，并指出就在上个月，Suno还根据含有Elvis名字的歌词生成了Elvis的克隆声音。"
               },
               {
                 "t": "p",
-                "x": "Cubase 16提供Pro（$599.99 / €599）、Artist（$299.99 / €299）和Elements（$99.99 / €99）版本。Omnivocal Basic免费附带，Omnivocal Pro需另付$149.99。2026年10月7日当天或之后激活的许可证可免费升级。"
-              },
-              {
-                "t": "video",
-                "yt": "rUJ8NZDcEoo"
+                "x": "Suno表示，平台不允许以特定艺人的名字和歌曲作为提示词，并会筛查上传的音频和歌词。同样在周五，同一批律师还代表拥有Eminem大部分曲目目录的出版商Eight Mile Style，对Suno提起了另一起诉讼。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cubase 16 integra separación\nde stems y voces con AI",
-          "body": "Cubase 16 de Steinberg añade separación en seis stems y el sintetizador vocal Omnivocal AI de Yamaha dentro del DAW.",
-          "mini_headline": "Cubase 16 suma voces con AI",
+          "headline": "Los dueños de Elvis demandan\na Suno por clonar su voz con AI",
+          "body": "Los titulares de los derechos de Elvis Presley afirman que Suno vulneró su imagen al dejar clonar su famosa voz.",
+          "mini_headline": "El patrimonio de Elvis demanda a Suno",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Steinberg ha lanzado Cubase 16, que amplía su estación de trabajo de audio digital (DAW) con nuevas herramientas para productores, remezcladores y músicos. Una de las principales novedades es una separación de stems mejorada, desarrollada con la empresa de tecnología de audio zplane. Cubase ahora puede dividir una grabación mezclada en seis componentes: voces, batería, bajo, piano, guitarra y otros instrumentos. La versión anterior admitía cuatro."
-              },
-              {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/b/3/csm_Cubase-16-04_master_291774746e.jpg",
-                "cap": "Flujo de trabajo de producción musical en Cubase 16 con guitarra eléctrica en un estudio de grabación profesional"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/03/elvis-presley-1956-billboard-1800.jpg?w=942&h=628&crop=1",
+                "cap": "Elvis Presley, a los 21 años, en abril de 1956."
               },
               {
                 "t": "p",
-                "x": "La actualización también introduce Instrument Stacks, que permite combinar hasta ocho instrumentos virtuales y tocarlos desde una sola pista. Nuevas herramientas MIDI pueden hacer que los acordes programados suenen más como un rasgueo natural, mientras que la detección de tempo rediseñada y los ajustes con búsqueda buscan agilizar las tareas cotidianas de producción."
+                "x": "Los titulares de la propiedad intelectual de Elvis Presley demandan a Suno en un nuevo pleito que acusa a la empresa de música con AI de vulnerar los derechos de imagen del Rey del Rock and Roll (King of Rock ‘n’ Roll) al robar su voz. Presentada el viernes (6 de noviembre) por Elvis Presley Enterprises, filial de Authentic Brands Group, la demanda también incluye acusaciones de infracción de copyright similares a las de su demanda anterior contra Anthropic."
               },
               {
                 "t": "p",
-                "x": "El sintetizador vocal Omnivocal Basic de Yamaha es otra incorporación destacada. Con el nuevo motor Omnivocal NX, genera canto a partir de notas MIDI y letras introducidas directamente en el Key Editor de Cubase. Basic incluye dos bancos de voces, mientras que Omnivocal Pro, de precio aparte, amplía la selección a diez y añade apilamiento vocal para interpretaciones en capas."
+                "x": "Es uno de los primeros casos importantes bajo la ELVIS Act de Tennessee, que también permite demandar a las tecnológicas que facilitan la clonación de voz e imagen. La demanda sostiene que la afirmación de Suno de que los usuarios no pueden pedir artistas reales es “inequívocamente falsa”, y que el mes pasado Suno generó un clon de Elvis a partir de una letra que incluía su nombre."
               },
               {
                 "t": "p",
-                "x": "Cubase 16 se ofrece en las ediciones Pro ($599.99 / €599), Artist ($299.99 / €299) y Elements ($99.99 / €99). Omnivocal Basic se incluye gratis, mientras que Omnivocal Pro cuesta $149.99 por separado. Las licencias activadas el 7 de octubre de 2026 o después tienen derecho a una actualización gratuita."
-              },
-              {
-                "t": "video",
-                "yt": "rUJ8NZDcEoo"
+                "x": "Suno afirmó que no permite instrucciones con nombres y canciones de artistas concretos y que filtra el audio y las letras que se suben. Por separado, el viernes, los mismos abogados presentaron otra demanda contra Suno en nombre de Eight Mile Style, una editorial que posee gran parte del catálogo de Eminem."
               }
             ]
           }
@@ -223,141 +175,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Cubase 16에 내장된\n스템 분리·AI 보컬",
-          "body": "Cubase 16은 DAW에 여섯 스템 분리와 Omnivocal AI를 더했다.",
-          "mini_headline": "Cubase 16에 AI 보컬",
+          "headline": "Elvis 권리 보유사\nSuno에 AI 음성 소송",
+          "body": "Elvis Presley 측은 Suno의 음성 복제 허용이 초상권 침해라고 본다.",
+          "mini_headline": "Elvis 측, Suno 고소",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Steinberg가 Cubase 16을 내놨다. 프로듀서와 리믹서, 뮤지션을 위한 새 도구로 디지털 오디오 워크스테이션(DAW)의 폭을 넓혔다. 가장 큰 변화 중 하나는 오디오 기술 기업 zplane과 함께 개발한 스템 분리 기능의 개선이다. 이제 Cubase는 믹스된 녹음을 보컬, 드럼, 베이스, 피아노, 기타, 그 밖의 악기 등 여섯 요소로 나눌 수 있다. 이전 버전은 네 가지를 지원했다."
-              },
-              {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/b/3/csm_Cubase-16-04_master_291774746e.jpg",
-                "cap": "전문 녹음 스튜디오에서 일렉트릭 기타와 함께한 Cubase 16 음악 제작 워크플로"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/03/elvis-presley-1956-billboard-1800.jpg?w=942&h=628&crop=1",
+                "cap": "April 1956, 21세의 Elvis Presley."
               },
               {
                 "t": "p",
-                "x": "이번 업데이트에는 Instrument Stacks도 새로 들어갔다. 최대 여덟 개의 가상 악기를 묶어 하나의 트랙에서 연주할 수 있다. 새 MIDI 도구는 프로그래밍한 코드를 자연스러운 스트로크처럼 들리게 하고, 새로 설계한 템포 감지와 검색 가능한 설정은 일상적인 제작 작업의 속도를 높이는 데 초점을 맞췄다."
+                "x": "Elvis Presley의 지식재산권을 보유한 측이 AI 음악 기업 Suno를 상대로 새 소송을 냈다. Suno가 로큰롤의 제왕(King of Rock ‘n’ Roll)의 목소리를 훔쳐 초상권을 침해했다는 주장이다. Authentic Brands Group 산하 Elvis Presley Enterprises가 금요일(Nov. 6) 제기한 이번 소송에는 앞서 Anthropic을 상대로 낸 소송과 비슷한 저작권 침해 주장도 담겼다."
               },
               {
                 "t": "p",
-                "x": "Yamaha의 Omnivocal Basic 보컬 신시사이저도 눈에 띄는 추가 기능이다. 새 Omnivocal NX 엔진을 바탕으로, Cubase의 Key Editor에 직접 입력한 MIDI 음표와 가사로 노래를 만들어낸다. Basic에는 보이스 뱅크 두 개가 들어 있고, 별도 판매하는 Omnivocal Pro는 이를 열 개로 늘리고 겹겹이 쌓은 연주를 위한 보컬 스태킹 기능을 더한다."
+                "x": "이번 사건은 Tennessee주 ELVIS Act에 따른 첫 주요 소송 가운데 하나다. 이 법은 음성·이미지 복제를 가능하게 하는 기술 기업을 상대로 한 소송도 허용한다. 소장은 사용자가 실존 아티스트를 프롬프트로 지정할 수 없다는 Suno의 주장이 “명백한 거짓”이라며, 지난달까지도 Suno가 그의 이름이 들어간 가사로 Elvis 복제 음성을 만들어 냈다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Cubase 16은 Pro($599.99 / €599), Artist($299.99 / €299), Elements($99.99 / €99) 에디션으로 나온다. Omnivocal Basic은 무료로 포함되며, Omnivocal Pro는 별도로 $149.99다. 2026년 10월 7일 또는 그 이후에 활성화한 라이선스는 무료 업데이트 대상이다."
-              },
-              {
-                "t": "video",
-                "yt": "rUJ8NZDcEoo"
+                "x": "Suno는 특정 아티스트의 이름과 곡을 프롬프트로 쓰는 것을 허용하지 않으며, 업로드된 오디오와 가사도 걸러낸다고 밝혔다. 같은 금요일, 같은 변호인단은 Eminem 카탈로그의 상당 부분을 보유한 퍼블리셔 Eight Mile Style을 대리해 Suno를 상대로 또 다른 소송을 냈다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Cubase 16が内蔵\nステム分離とAIボーカル",
-          "body": "Cubase 16はDAW内に六ステム分離とOmnivocal AIを加えた。",
-          "mini_headline": "Cubase 16にAIボーカル",
+          "headline": "Elvis側がSunoを提訴\nAI音声クローンを巡り",
+          "body": "Elvis Presleyの権利者は、Sunoが声の複製を許し肖像権を侵害したと主張する。",
+          "mini_headline": "Elvis側、Sunoを提訴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "SteinbergはCubase 16をリリースし、プロデューサー、リミキサー、ミュージシャン向けの新ツールでデジタル・オーディオ・ワークステーション（DAW）の機能を広げた。最大の追加点の一つは、オーディオ技術企業zplaneと共同開発した改良版のステム分離だ。Cubaseはミックス済みの録音を、ボーカル、ドラム、ベース、ピアノ、ギター、その他の楽器という六つの要素に分けられるようになった。前バージョンは四つに対応していた。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/b/3/csm_Cubase-16-04_master_291774746e.jpg",
-                "cap": "プロのレコーディングスタジオでエレキギターを使うCubase 16の音楽制作ワークフロー"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/03/elvis-presley-1956-billboard-1800.jpg?w=942&h=628&crop=1",
+                "cap": "April 1956、21歳のElvis Presley。"
               },
               {
                 "t": "p",
-                "x": "アップデートではInstrument Stacksも導入され、最大八つの仮想楽器を組み合わせて一つのトラックから演奏できる。新しいMIDIツールは打ち込んだコードを自然なストロークのように響かせ、刷新したテンポ検出と検索可能な設定は日々の制作作業の効率化を狙う。"
+                "x": "Elvis Presleyの知的財産権を保有する側が、AI音楽企業Sunoを相手取り新たな訴訟を起こした。Sunoが「キング・オブ・ロックンロール」（King of Rock ‘n’ Roll）の声を盗み、肖像権を侵害したと訴えている。Authentic Brands Group傘下のElvis Presley Enterprisesが金曜日（Nov. 6）に提起したこの訴訟は、以前Anthropicを相手取った訴訟と同様の著作権侵害も主張している。"
               },
               {
                 "t": "p",
-                "x": "YamahaのOmnivocal Basicボーカルシンセサイザーも注目すべき追加だ。新しいOmnivocal NXエンジンを使い、CubaseのKey Editorに直接入力したMIDIノートと歌詞から歌声を生成する。Basicには二つのボイスバンクが含まれ、別売りのOmnivocal Proは選択肢を十に広げ、重ねた歌唱のためのボーカルスタッキングを加える。"
+                "x": "これはTennessee州のELVIS Actに基づく初期の主要訴訟の一つで、同法は声や画像の複製を可能にするテック企業への訴訟も認めている。訴状は、ユーザーが実在のアーティストを指定してプロンプトできないというSunoの主張を「明白な虚偽」とし、先月にもSunoがElvisの名前を含む歌詞からElvisのクローン音声を生成したと指摘する。"
               },
               {
                 "t": "p",
-                "x": "Cubase 16はPro（$599.99 / €599）、Artist（$299.99 / €299）、Elements（$99.99 / €99）の各エディションで提供される。Omnivocal Basicは無償で付属し、Omnivocal Proは別途$149.99だ。2026年10月7日以降にアクティベートしたライセンスは無償アップデートの対象となる。"
-              },
-              {
-                "t": "video",
-                "yt": "rUJ8NZDcEoo"
+                "x": "Sunoは、特定アーティストの名前や楽曲を指定するプロンプトは認めておらず、アップロードされた音声と歌詞も審査していると説明した。同じ金曜日、同じ弁護士団はEminemのカタログの多くを保有する出版社Eight Mile Styleの代理として、Sunoを相手取る別の訴訟も起こした。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Cubase 16内置\n分轨分离与AI人声",
-          "body": "Cubase 16在DAW内加入六轨分离与Omnivocal AI歌声合成器。",
-          "mini_headline": "Cubase 16加入AI人声",
+          "headline": "Elvis权利方起诉Suno\n指其AI克隆嗓音",
+          "body": "Elvis Presley的权利方称，Suno让用户克隆其标志性嗓音，侵犯了他的肖像权。",
+          "mini_headline": "Elvis遗产方起诉Suno",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Steinberg发布了Cubase 16，为制作人、混音师和音乐人带来新工具，扩展了这款数字音频工作站（DAW）。最大的新增功能之一是与音频技术公司zplane合作开发的改进版分轨分离。Cubase现在可将混音录音拆分为六个部分：人声、鼓、贝斯、钢琴、吉他及其他乐器。上一版本支持四个。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/b/3/csm_Cubase-16-04_master_291774746e.jpg",
-                "cap": "专业录音棚中搭配电吉他的Cubase 16音乐制作流程"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/03/elvis-presley-1956-billboard-1800.jpg?w=942&h=628&crop=1",
+                "cap": "April 1956，21岁的Elvis Presley。"
               },
               {
                 "t": "p",
-                "x": "此次更新还引入了Instrument Stacks，可将最多八件虚拟乐器组合起来，在单条音轨上演奏。新的MIDI工具能让编程和弦听起来更像自然扫弦，重新设计的速度检测和可搜索的设置则旨在加快日常制作任务。"
+                "x": "Elvis Presley知识产权的所有方对AI音乐公司Suno提起新诉讼，称其窃取“摇滚之王”（King of Rock ‘n’ Roll）的嗓音，侵犯了他的肖像权。该诉讼由Authentic Brands Group旗下的Elvis Presley Enterprises于周五（Nov. 6）提起，还提出了与此前起诉Anthropic案类似的版权指控。"
               },
               {
                 "t": "p",
-                "x": "Yamaha的Omnivocal Basic人声合成器是另一项值得关注的新增功能。它采用全新的Omnivocal NX引擎，根据直接在Cubase的Key Editor中输入的MIDI音符和歌词生成歌声。Basic包含两个声库，单独定价的Omnivocal Pro则将可选声库扩展到十个，并增加用于多层演唱的人声叠加功能。"
+                "x": "这是依据Tennessee州ELVIS Act提起的首批重大案件之一，该法也允许起诉为声音和形象克隆提供便利的科技公司。诉状称，Suno所谓用户无法以真实艺人作为提示词的说法“毫无疑问是虚假的”，并指出就在上个月，Suno还根据含有Elvis名字的歌词生成了Elvis的克隆声音。"
               },
               {
                 "t": "p",
-                "x": "Cubase 16提供Pro（$599.99 / €599）、Artist（$299.99 / €299）和Elements（$99.99 / €99）版本。Omnivocal Basic免费附带，Omnivocal Pro需另付$149.99。2026年10月7日当天或之后激活的许可证可免费升级。"
-              },
-              {
-                "t": "video",
-                "yt": "rUJ8NZDcEoo"
+                "x": "Suno表示，平台不允许以特定艺人的名字和歌曲作为提示词，并会筛查上传的音频和歌词。同样在周五，同一批律师还代表拥有Eminem大部分曲目目录的出版商Eight Mile Style，对Suno提起了另一起诉讼。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cubase 16 integra separación\nde stems y voces con AI",
-          "body": "Cubase 16 de Steinberg añade separación en seis stems y el sintetizador vocal Omnivocal AI de Yamaha dentro del DAW.",
-          "mini_headline": "Cubase 16 suma voces con AI",
+          "headline": "Los dueños de Elvis demandan\na Suno por clonar su voz con AI",
+          "body": "Los titulares de los derechos de Elvis Presley afirman que Suno vulneró su imagen al dejar clonar su famosa voz.",
+          "mini_headline": "El patrimonio de Elvis demanda a Suno",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Steinberg ha lanzado Cubase 16, que amplía su estación de trabajo de audio digital (DAW) con nuevas herramientas para productores, remezcladores y músicos. Una de las principales novedades es una separación de stems mejorada, desarrollada con la empresa de tecnología de audio zplane. Cubase ahora puede dividir una grabación mezclada en seis componentes: voces, batería, bajo, piano, guitarra y otros instrumentos. La versión anterior admitía cuatro."
-              },
-              {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/b/3/csm_Cubase-16-04_master_291774746e.jpg",
-                "cap": "Flujo de trabajo de producción musical en Cubase 16 con guitarra eléctrica en un estudio de grabación profesional"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/03/elvis-presley-1956-billboard-1800.jpg?w=942&h=628&crop=1",
+                "cap": "Elvis Presley, a los 21 años, en abril de 1956."
               },
               {
                 "t": "p",
-                "x": "La actualización también introduce Instrument Stacks, que permite combinar hasta ocho instrumentos virtuales y tocarlos desde una sola pista. Nuevas herramientas MIDI pueden hacer que los acordes programados suenen más como un rasgueo natural, mientras que la detección de tempo rediseñada y los ajustes con búsqueda buscan agilizar las tareas cotidianas de producción."
+                "x": "Los titulares de la propiedad intelectual de Elvis Presley demandan a Suno en un nuevo pleito que acusa a la empresa de música con AI de vulnerar los derechos de imagen del Rey del Rock and Roll (King of Rock ‘n’ Roll) al robar su voz. Presentada el viernes (6 de noviembre) por Elvis Presley Enterprises, filial de Authentic Brands Group, la demanda también incluye acusaciones de infracción de copyright similares a las de su demanda anterior contra Anthropic."
               },
               {
                 "t": "p",
-                "x": "El sintetizador vocal Omnivocal Basic de Yamaha es otra incorporación destacada. Con el nuevo motor Omnivocal NX, genera canto a partir de notas MIDI y letras introducidas directamente en el Key Editor de Cubase. Basic incluye dos bancos de voces, mientras que Omnivocal Pro, de precio aparte, amplía la selección a diez y añade apilamiento vocal para interpretaciones en capas."
+                "x": "Es uno de los primeros casos importantes bajo la ELVIS Act de Tennessee, que también permite demandar a las tecnológicas que facilitan la clonación de voz e imagen. La demanda sostiene que la afirmación de Suno de que los usuarios no pueden pedir artistas reales es “inequívocamente falsa”, y que el mes pasado Suno generó un clon de Elvis a partir de una letra que incluía su nombre."
               },
               {
                 "t": "p",
-                "x": "Cubase 16 se ofrece en las ediciones Pro ($599.99 / €599), Artist ($299.99 / €299) y Elements ($99.99 / €99). Omnivocal Basic se incluye gratis, mientras que Omnivocal Pro cuesta $149.99 por separado. Las licencias activadas el 7 de octubre de 2026 o después tienen derecho a una actualización gratuita."
-              },
-              {
-                "t": "video",
-                "yt": "rUJ8NZDcEoo"
+                "x": "Suno afirmó que no permite instrucciones con nombres y canciones de artistas concretos y que filtra el audio y las letras que se suben. Por separado, el viernes, los mismos abogados presentaron otra demanda contra Suno en nombre de Eight Mile Style, una editorial que posee gran parte del catálogo de Eminem."
               }
             ]
           }
@@ -365,195 +285,189 @@
       }
     },
     {
-      "id": "newjeans-ador-ai-voice",
+      "id": "sampleson-wavefinder-local-search",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "NewJeans 계약,\nADOR에 AI 음성 권리",
-      "body": "ADOR가 NewJeans 멤버 목소리·외모의 AI 버전 권리를 무기한 갖는다.",
-      "mini_headline": "NewJeans 소속사, AI 음성 권리 보유",
+      "headline": "Sampleson, 샘플을\nWavefinder로 검색",
+      "body": "Wavefinder는 로컬 AI로 텍스트 설명·참조 녹음과 닮은 샘플을 찾는다.",
+      "mini_headline": "Wavefinder, 소리로 검색",
       "tool": "Music",
-      "source": "Complex",
-      "url": "https://www.complex.com/music/a/alex-ocho/newjeans-contracts-indefinite-voice-rights",
+      "source": "Synthtopia",
+      "url": "https://www.synthtopia.com/content/2026/11/07/sampleson-wavefinder-uses-local-ai-to-search-audio-libraries-by-sound/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://images.complex.com/complex/image/upload/c_crop,h_1078,w_1920,x_0,y_0/g_auto:aoi_768_431_384_216,q_auto,c_fill,ar_1.78,w_2048/sanity-new/aq7vzcujejcvekyraolq",
-            "cap": "Josh Brasted/FilmMagic"
+            "t": "video",
+            "yt": "HH2709Zcn8A"
           },
           {
             "t": "p",
-            "x": "The New York Times가 입수해 공개한 계약서에 따르면, HYBE 자회사 ADOR는 2029년 계약이 끝난 뒤에도 이 K-pop 걸그룹 멤버들 목소리의 AI-generated(AI 생성) 버전을 무기한 쓰고 라이선스할 수 있다."
+            "x": "Sampleson이 데스크톱 오디오 검색 앱 Wavefinder를 내놓았다. 대용량 샘플 라이브러리에서 원하는 소리를 찾아 주는 앱이다. 파일명이나 수동 태그에 기대지 않고 오디오 파일을 분석해 텍스트 설명이나 참조 녹음과 얼마나 닮았는지로 순위를 매긴다."
           },
           {
             "t": "p",
-            "x": "한국의 표준 K-pop 계약서에서는 계약이 끝나면 레이블이 가진 아티스트 이름·이미지·목소리 권리도 함께 끝난다. ADOR의 계약은 다르다. AI “목소리 클론이나 챗봇”을 포함해 멤버들의 정체성을 계속 쓸 수 있게 했다. 멤버들은 대가를 받아야 하지만 자기 모습과 목소리가 어떻게 쓰일지에는 아무 발언권이 없다. 법률 전문가들은 이 조항이 법정에서 유지될지 불분명하다고 Times에 말했다."
+            "x": "AI 모델은 로컬에서 돌아가므로 오디오를 올리거나 정기 구독료를 낼 필요가 없다. 질감, 분위기, 룸 사운드, 연주 제스처 같은 소리를 자연어로 묘사하거나 참조 오디오를 앱에 끌어다 놓으면 비슷한 녹음을 찾아 준다."
           },
           {
             "t": "p",
-            "x": "ADOR는 2029년 이후에도 NewJeans 음악을 계속 팔고 재포장하면서 멤버들 몫의 지급액은 줄일 수 있다. 조기 해지 위약금도 높다. 계약은 멤버들이 14세에서 17세 사이일 때 맺었는데, 미성년자를 위한 표준 보호 조항이 빠져 있었다. Jong-eon Roh 변호사는 이를 \"이례적으로 공격적\"이라고 평했다. HYBE는 계약이 합법이고 업계 기준에도 맞는다는 입장이다."
+            "x": "인덱스는 하위 폴더까지 훑어 로컬에서 만들고 저장한다. 검색 횟수 제한은 없다. 지원 형식은 WAV, AIFF, AIF, FLAC, OGG, MP3다. macOS와 Windows에서는 단독 앱으로, 호환 DAWs에서는 플러그인으로 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "2025년 10월 30일 서울의 한 법원은 계약이 2029년까지 유효하다고 판결했다. 이후 Haerin, Hyein, Hanni는 ADOR로 돌아왔다. 회사는 Danielle Marsh와의 계약을 해지하고, 주로 이탈 위약금 명목으로 약 $22 million을 청구하는 소송을 냈다."
+            "x": "Wavefinder 가격은 현재 $29.00 USD다. 정가 $49.00 USD에서 내린 출시 할인가로, 할인은 November 15, 2026까지 이어진다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "NewJeans contract gives ADOR\nAI rights to their voices",
-          "body": "Per a New York Times report, ADOR holds indefinite rights to AI versions of NewJeans members' voices and likenesses.",
-          "mini_headline": "NewJeans label holds\nAI voice rights",
+          "headline": "Sampleson Wavefinder searches\nsamples by sound",
+          "body": "Wavefinder runs an AI model locally to rank your samples by similarity to a text description or a reference recording.",
+          "mini_headline": "Wavefinder searches by sound",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1078,w_1920,x_0,y_0/g_auto:aoi_768_431_384_216,q_auto,c_fill,ar_1.78,w_2048/sanity-new/aq7vzcujejcvekyraolq",
-                "cap": "Josh Brasted/FilmMagic"
+                "t": "video",
+                "yt": "HH2709Zcn8A"
               },
               {
                 "t": "p",
-                "x": "The K-pop girl group's contracts contain provisions allowing HYBE subsidiary ADOR to use and license AI-generated versions of the members' voices indefinitely after their deals expire in 2029, according to The New York Times, which obtained and published the agreements."
+                "x": "Sampleson has introduced Wavefinder, a desktop audio search application designed to help you locate sounds in large sample libraries. Rather than relying on filenames or manually assigned tags, Wavefinder analyzes audio files and ranks them by similarity to a text description or reference recording."
               },
               {
                 "t": "p",
-                "x": "Unlike South Korea's standard K-pop contract template, which ends a label's rights to an artist's name, image and voice when a contract expires, ADOR's deals permit continued use of the members' identities, including AI “voice clones or chatbots.” Although the singers must be paid, they have no say in how their likenesses and voices are used. Legal experts told the Times it is unclear whether these provisions would hold up in court."
+                "x": "The software runs its AI model locally, with no audio uploads or recurring subscription fees. Users can describe a sound in natural language — texture, atmosphere, room sound, or performance gesture — or drag an audio reference into the application to find similar recordings."
               },
               {
                 "t": "p",
-                "x": "The agreements also allow ADOR to keep selling and repackaging NewJeans music after 2029 while reducing payments to the members, and carry steep early-termination penalties. The contracts were signed when the members were between 14 and 17, and omitted standard protections for minors. Lawyer Jong-eon Roh called them \"unusually aggressive.\" HYBE maintains its contracts are legal and consistent with industry standards."
+                "x": "The index is built and stored locally, including nested folders. Searches are unlimited. Supported formats include WAV, AIFF, AIF, FLAC, OGG, and MP3; it runs standalone on macOS and Windows and as plug-ins for compatible DAWs."
               },
               {
                 "t": "p",
-                "x": "A Seoul court ruled on October 30, 2025, that the contracts remain valid through 2029. Haerin, Hyein and Hanni have since returned to ADOR, while the company terminated Danielle Marsh's contract and sued her for approximately $22 million, primarily in exit fees."
+                "x": "Wavefinder is available now for $29.00 USD (introductory price; regularly $49.00 USD, with the launch offer running through November 15, 2026)."
               }
             ]
           }
         },
         "ko": {
-          "headline": "NewJeans 계약,\nADOR에 AI 음성 권리",
-          "body": "ADOR가 NewJeans 멤버 목소리·외모의 AI 버전 권리를 무기한 갖는다.",
-          "mini_headline": "NewJeans 소속사, AI 음성 권리 보유",
+          "headline": "Sampleson, 샘플을\nWavefinder로 검색",
+          "body": "Wavefinder는 로컬 AI로 텍스트 설명·참조 녹음과 닮은 샘플을 찾는다.",
+          "mini_headline": "Wavefinder, 소리로 검색",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1078,w_1920,x_0,y_0/g_auto:aoi_768_431_384_216,q_auto,c_fill,ar_1.78,w_2048/sanity-new/aq7vzcujejcvekyraolq",
-                "cap": "Josh Brasted/FilmMagic"
+                "t": "video",
+                "yt": "HH2709Zcn8A"
               },
               {
                 "t": "p",
-                "x": "The New York Times가 입수해 공개한 계약서에 따르면, HYBE 자회사 ADOR는 2029년 계약이 끝난 뒤에도 이 K-pop 걸그룹 멤버들 목소리의 AI-generated(AI 생성) 버전을 무기한 쓰고 라이선스할 수 있다."
+                "x": "Sampleson이 데스크톱 오디오 검색 앱 Wavefinder를 내놓았다. 대용량 샘플 라이브러리에서 원하는 소리를 찾아 주는 앱이다. 파일명이나 수동 태그에 기대지 않고 오디오 파일을 분석해 텍스트 설명이나 참조 녹음과 얼마나 닮았는지로 순위를 매긴다."
               },
               {
                 "t": "p",
-                "x": "한국의 표준 K-pop 계약서에서는 계약이 끝나면 레이블이 가진 아티스트 이름·이미지·목소리 권리도 함께 끝난다. ADOR의 계약은 다르다. AI “목소리 클론이나 챗봇”을 포함해 멤버들의 정체성을 계속 쓸 수 있게 했다. 멤버들은 대가를 받아야 하지만 자기 모습과 목소리가 어떻게 쓰일지에는 아무 발언권이 없다. 법률 전문가들은 이 조항이 법정에서 유지될지 불분명하다고 Times에 말했다."
+                "x": "AI 모델은 로컬에서 돌아가므로 오디오를 올리거나 정기 구독료를 낼 필요가 없다. 질감, 분위기, 룸 사운드, 연주 제스처 같은 소리를 자연어로 묘사하거나 참조 오디오를 앱에 끌어다 놓으면 비슷한 녹음을 찾아 준다."
               },
               {
                 "t": "p",
-                "x": "ADOR는 2029년 이후에도 NewJeans 음악을 계속 팔고 재포장하면서 멤버들 몫의 지급액은 줄일 수 있다. 조기 해지 위약금도 높다. 계약은 멤버들이 14세에서 17세 사이일 때 맺었는데, 미성년자를 위한 표준 보호 조항이 빠져 있었다. Jong-eon Roh 변호사는 이를 \"이례적으로 공격적\"이라고 평했다. HYBE는 계약이 합법이고 업계 기준에도 맞는다는 입장이다."
+                "x": "인덱스는 하위 폴더까지 훑어 로컬에서 만들고 저장한다. 검색 횟수 제한은 없다. 지원 형식은 WAV, AIFF, AIF, FLAC, OGG, MP3다. macOS와 Windows에서는 단독 앱으로, 호환 DAWs에서는 플러그인으로 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "2025년 10월 30일 서울의 한 법원은 계약이 2029년까지 유효하다고 판결했다. 이후 Haerin, Hyein, Hanni는 ADOR로 돌아왔다. 회사는 Danielle Marsh와의 계약을 해지하고, 주로 이탈 위약금 명목으로 약 $22 million을 청구하는 소송을 냈다."
+                "x": "Wavefinder 가격은 현재 $29.00 USD다. 정가 $49.00 USD에서 내린 출시 할인가로, 할인은 November 15, 2026까지 이어진다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "NewJeansの契約\nADORにAI音声の権利",
-          "body": "報道によると、ADORはNewJeansメンバーの声と容姿のAI版の権利を無期限に持つ。",
-          "mini_headline": "NewJeansの所属事務所がAI音声の権利",
+          "headline": "Sampleson発表\n音で探すWavefinder",
+          "body": "WavefinderはローカルAIで、テキストや参照音源に近い順にサンプルを並べる。",
+          "mini_headline": "Wavefinder、音で検索",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1078,w_1920,x_0,y_0/g_auto:aoi_768_431_384_216,q_auto,c_fill,ar_1.78,w_2048/sanity-new/aq7vzcujejcvekyraolq",
-                "cap": "Josh Brasted/FilmMagic"
+                "t": "video",
+                "yt": "HH2709Zcn8A"
               },
               {
                 "t": "p",
-                "x": "契約書を入手・公開したThe New York Timesによると、このK-popガールグループの契約には、HYBE傘下のADORが2029年の契約満了後もメンバーの声のAI-generated（AI生成）版を無期限に使用・ライセンスできる条項が含まれている。"
+                "x": "Samplesonは、大規模なサンプルライブラリから目当ての音を見つけるためのデスクトップ用オーディオ検索アプリWavefinderを発表した。Wavefinderはファイル名や手作業で付けたタグに頼らず、オーディオファイルを解析し、テキストによる説明や参照録音との類似度で順位付けする。"
               },
               {
                 "t": "p",
-                "x": "契約満了時にレーベルのアーティストの名前・肖像・声に関する権利が終わる韓国の標準K-pop契約書と異なり、ADORの契約はAIによる「ボイスクローンやチャットボット」を含め、メンバーのアイデンティティの継続使用を認めている。メンバーには対価が支払われるが、自分の肖像や声の使われ方に口を出す権利はない。法律の専門家はTimesに対し、これらの条項が法廷で通用するかは不透明だと語った。"
+                "x": "ソフトウェアはAIモデルをローカルで実行し、音声のアップロードや継続的なサブスクリプション料金は不要だ。ユーザーは質感、雰囲気、ルームサウンド、演奏のジェスチャーといった音を自然言語で説明するか、参照音源をアプリにドラッグして似た録音を探せる。"
               },
               {
                 "t": "p",
-                "x": "契約はまた、ADORが2029年以降もNewJeansの楽曲を販売・再パッケージし続けながらメンバーへの支払いを減らすことを認め、高額な早期解約違約金も定めている。契約はメンバーが14歳から17歳の時に結ばれ、未成年者向けの標準的な保護規定が欠けていた。弁護士のJong-eon Rohは「異例なほど攻撃的」と評した。HYBEは契約が合法で業界標準に沿っているとしている。"
+                "x": "インデックスはネストされたフォルダーも含めローカルで構築・保存される。検索回数は無制限だ。対応フォーマットはWAV、AIFF、AIF、FLAC、OGG、MP3で、macOSとWindowsでスタンドアロンとして、また対応DAWsのプラグインとして動作する。"
               },
               {
                 "t": "p",
-                "x": "ソウルの裁判所は2025年10月30日、契約は2029年まで有効だと判断した。その後Haerin、Hyein、HanniはADORに復帰したが、同社はDanielle Marshとの契約を解除し、主に離脱違約金として約$22 millionを求めて提訴した。"
+                "x": "Wavefinderは現在$29.00 USDで販売中だ（導入価格。通常価格は$49.00 USDで、発売記念価格はNovember 15, 2026まで）。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "NewJeans合约\n赋予ADOR AI声音权",
-          "body": "据报道，ADOR无限期拥有NewJeans成员声音与肖像的AI版本权利。",
-          "mini_headline": "NewJeans经纪公司握有AI声音权",
+          "headline": "Sampleson推出\nWavefinder以声寻样",
+          "body": "Wavefinder在本地运行AI模型，按与文字描述或参考录音的相似度为样本排序。",
+          "mini_headline": "Wavefinder按声音搜索",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1078,w_1920,x_0,y_0/g_auto:aoi_768_431_384_216,q_auto,c_fill,ar_1.78,w_2048/sanity-new/aq7vzcujejcvekyraolq",
-                "cap": "Josh Brasted/FilmMagic"
+                "t": "video",
+                "yt": "HH2709Zcn8A"
               },
               {
                 "t": "p",
-                "x": "据获取并公开相关协议的The New York Times报道，这支K-pop女团的合约中有条款允许HYBE旗下子公司ADOR在2029年合约到期后，无限期使用并授权成员声音的AI-generated（AI生成）版本。"
+                "x": "Sampleson推出了桌面音频搜索应用Wavefinder，帮助用户在庞大的采样库中找到所需声音。Wavefinder不依赖文件名或手动添加的标签，而是分析音频文件，并按与文字描述或参考录音的相似度进行排序。"
               },
               {
                 "t": "p",
-                "x": "韩国标准K-pop合约模板规定，合约到期时厂牌对艺人姓名、形象和声音的权利随之终止；ADOR的合约则不同，允许继续使用成员的身份，包括AI“声音克隆或聊天机器人”。尽管成员必须获得报酬，但她们对自己的形象和声音如何被使用没有发言权。法律专家对Times表示，这些条款能否在法庭上站得住脚尚不清楚。"
+                "x": "该软件在本地运行AI模型，无需上传音频，也没有持续订阅费用。用户可以用自然语言描述声音——质感、氛围、房间声或演奏手法——也可以把参考音频拖入应用，以查找相似录音。"
               },
               {
                 "t": "p",
-                "x": "协议还允许ADOR在2029年后继续销售和重新包装NewJeans的音乐，同时减少给成员的报酬，并设有高额提前解约罚金。签约时成员年龄在14至17岁之间，合约却省略了针对未成年人的标准保护条款。律师Jong-eon Roh称其\"异常激进\"。HYBE坚称其合约合法且符合行业标准。"
+                "x": "索引在本地构建和存储，包括嵌套文件夹。搜索次数不限。支持WAV、AIFF、AIF、FLAC、OGG和MP3格式；可在macOS和Windows上独立运行，也可作为兼容DAWs的插件使用。"
               },
               {
                 "t": "p",
-                "x": "首尔一家法院于2025年10月30日裁定，合约有效期至2029年。此后Haerin、Hyein和Hanni已回归ADOR，而公司终止了Danielle Marsh的合约，并起诉她索赔约$22 million，主要为退出费用。"
+                "x": "Wavefinder现已上市，售价$29.00 USD（首发优惠价；原价$49.00 USD，优惠截至November 15, 2026）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Contrato de NewJeans da a ADOR\nderechos de IA sobre sus voces",
-          "body": "Según The New York Times, ADOR tiene derechos indefinidos sobre versiones con IA de las voces e imagen de NewJeans.",
-          "mini_headline": "El sello de NewJeans tiene\nderechos de voz con IA",
+          "headline": "Sampleson Wavefinder busca\nmuestras por su sonido",
+          "body": "Wavefinder ejecuta un modelo de AI en local y ordena las muestras por similitud con un texto o un audio de referencia.",
+          "mini_headline": "Wavefinder busca por sonido",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1078,w_1920,x_0,y_0/g_auto:aoi_768_431_384_216,q_auto,c_fill,ar_1.78,w_2048/sanity-new/aq7vzcujejcvekyraolq",
-                "cap": "Josh Brasted/FilmMagic"
+                "t": "video",
+                "yt": "HH2709Zcn8A"
               },
               {
                 "t": "p",
-                "x": "Los contratos del grupo femenino de K-pop contienen cláusulas que permiten a ADOR, filial de HYBE, usar y licenciar versiones de las voces de las integrantes generadas por IA (AI-generated) de forma indefinida después de que sus contratos venzan en 2029, según The New York Times, que obtuvo y publicó los acuerdos."
+                "x": "Sampleson ha presentado Wavefinder, una aplicación de escritorio para buscar audio pensada para localizar sonidos en grandes bibliotecas de muestras. En lugar de depender de nombres de archivo o etiquetas asignadas a mano, Wavefinder analiza los archivos de audio y los ordena por similitud con una descripción de texto o una grabación de referencia."
               },
               {
                 "t": "p",
-                "x": "A diferencia del modelo estándar de contrato de K-pop de Corea del Sur, que pone fin a los derechos de un sello sobre el nombre, la imagen y la voz de un artista cuando vence el contrato, los acuerdos de ADOR permiten seguir usando la identidad de las integrantes, incluidos “clones de voz o chatbots” con IA. Aunque las cantantes deben recibir un pago, no tienen voz sobre cómo se usan su imagen y sus voces. Expertos legales dijeron al Times que no está claro si estas cláusulas se sostendrían ante un tribunal."
+                "x": "El software ejecuta su modelo de AI en local, sin subir audio ni pagar suscripciones periódicas. Los usuarios pueden describir un sonido en lenguaje natural —textura, atmósfera, sonido de sala o gesto interpretativo— o arrastrar un audio de referencia a la aplicación para encontrar grabaciones similares."
               },
               {
                 "t": "p",
-                "x": "Los acuerdos también permiten a ADOR seguir vendiendo y reeditando la música de NewJeans después de 2029 mientras reduce los pagos a las integrantes, e incluyen fuertes penalizaciones por rescisión anticipada. Los contratos se firmaron cuando las integrantes tenían entre 14 y 17 años y omitían las protecciones habituales para menores. El abogado Jong-eon Roh los calificó de \"inusualmente agresivos\". HYBE sostiene que sus contratos son legales y acordes con los estándares del sector."
+                "x": "El índice se crea y se guarda en local, incluidas las carpetas anidadas. Las búsquedas son ilimitadas. Admite WAV, AIFF, AIF, FLAC, OGG y MP3; funciona de forma independiente en macOS y Windows, y como plug-in en DAWs compatibles."
               },
               {
                 "t": "p",
-                "x": "Un tribunal de Seúl dictaminó el 30 de octubre de 2025 que los contratos siguen vigentes hasta 2029. Desde entonces, Haerin, Hyein y Hanni han vuelto a ADOR, mientras que la empresa rescindió el contrato de Danielle Marsh y la demandó por aproximadamente $22 millones, principalmente en penalizaciones por salida."
+                "x": "Wavefinder ya está disponible por $29.00 USD (precio de lanzamiento; el precio habitual es de $49.00 USD y la oferta dura hasta el 15 de noviembre de 2026)."
               }
             ]
           }
@@ -561,125 +475,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "NewJeans 계약,\nADOR에 AI 음성 권리",
-          "body": "ADOR가 NewJeans 멤버 목소리·외모의 AI 버전 권리를 무기한 갖는다.",
-          "mini_headline": "NewJeans 소속사, AI 음성 권리 보유",
+          "headline": "Sampleson, 샘플을\nWavefinder로 검색",
+          "body": "Wavefinder는 로컬 AI로 텍스트 설명이나 참조 녹음과 닮은 샘플을 찾는다.",
+          "mini_headline": "Wavefinder, 소리로 검색",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1078,w_1920,x_0,y_0/g_auto:aoi_768_431_384_216,q_auto,c_fill,ar_1.78,w_2048/sanity-new/aq7vzcujejcvekyraolq",
-                "cap": "Josh Brasted/FilmMagic"
+                "t": "video",
+                "yt": "HH2709Zcn8A"
               },
               {
                 "t": "p",
-                "x": "계약서를 입수해 공개한 The New York Times에 따르면, 이 K-pop 걸그룹의 계약서에는 HYBE 자회사 ADOR가 2029년 계약 만료 후에도 멤버들 목소리의 AI-generated(AI 생성) 버전을 무기한 사용하고 라이선스할 수 있다는 조항이 들어 있다."
+                "x": "Sampleson이 대용량 샘플 라이브러리에서 소리를 찾도록 돕는 데스크톱 오디오 검색 앱 Wavefinder를 내놓았다. Wavefinder는 파일명이나 수동으로 붙인 태그에 기대지 않고, 오디오 파일을 분석해 텍스트 설명이나 참조 녹음과 얼마나 비슷한지에 따라 순위를 매긴다."
               },
               {
                 "t": "p",
-                "x": "계약이 끝나면 레이블의 아티스트 이름·이미지·목소리 권리도 끝나는 한국의 표준 K-pop 계약서와 달리, ADOR의 계약은 AI “목소리 클론이나 챗봇”을 포함해 멤버들의 정체성을 계속 쓸 수 있게 한다. 멤버들은 대가를 받아야 하지만, 자신의 모습과 목소리가 어떻게 쓰일지에 대해서는 아무 발언권이 없다. 법률 전문가들은 Times에 이 조항이 법정에서 유지될지 불분명하다고 말했다."
+                "x": "이 소프트웨어는 AI 모델을 로컬에서 실행하며, 오디오를 업로드하거나 정기 구독료를 낼 필요가 없다. 사용자는 질감, 분위기, 룸 사운드, 연주 제스처 같은 소리를 자연어로 묘사하거나, 참조 오디오를 앱에 끌어다 놓아 비슷한 녹음을 찾을 수 있다."
               },
               {
                 "t": "p",
-                "x": "계약은 또 ADOR가 2029년 이후에도 NewJeans 음악을 계속 판매하고 재포장하면서 멤버들에게 돌아가는 지급액은 줄일 수 있게 하고, 높은 조기 해지 위약금을 담고 있다. 계약은 멤버들이 14세에서 17세 사이일 때 체결됐고, 미성년자를 위한 표준 보호 조항이 빠져 있었다. Jong-eon Roh 변호사는 이를 \"이례적으로 공격적\"이라고 평했다. HYBE는 계약이 합법이며 업계 기준에 부합한다는 입장이다."
+                "x": "인덱스는 하위 폴더까지 포함해 로컬에서 만들어지고 저장된다. 검색 횟수에는 제한이 없다. WAV, AIFF, AIF, FLAC, OGG, MP3 형식을 지원하며, macOS와 Windows에서 단독 앱으로, 호환 DAWs에서는 플러그인으로 작동한다."
               },
               {
                 "t": "p",
-                "x": "서울의 한 법원은 2025년 10월 30일 계약이 2029년까지 유효하다고 판결했다. 이후 Haerin, Hyein, Hanni는 ADOR로 돌아왔고, 회사는 Danielle Marsh의 계약을 해지한 뒤 주로 이탈 위약금 명목으로 약 $22 million을 청구하는 소송을 냈다."
+                "x": "Wavefinder는 현재 $29.00 USD에 판매 중이다(출시 할인가이며 정가는 $49.00 USD, 할인은 November 15, 2026까지)."
               }
             ]
           }
         },
         "ja": {
-          "headline": "NewJeansの契約\nADORにAI音声の権利",
-          "body": "報道によると、ADORはNewJeansメンバーの声と容姿のAI版の権利を無期限に持つ。",
-          "mini_headline": "NewJeansの所属事務所がAI音声の権利",
+          "headline": "Sampleson発表\n音で探すWavefinder",
+          "body": "WavefinderはローカルAIで、テキストや参照音源に近い順にサンプルを並べる。",
+          "mini_headline": "Wavefinder、音で検索",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1078,w_1920,x_0,y_0/g_auto:aoi_768_431_384_216,q_auto,c_fill,ar_1.78,w_2048/sanity-new/aq7vzcujejcvekyraolq",
-                "cap": "Josh Brasted/FilmMagic"
+                "t": "video",
+                "yt": "HH2709Zcn8A"
               },
               {
                 "t": "p",
-                "x": "契約書を入手・公開したThe New York Timesによると、このK-popガールグループの契約には、HYBE傘下のADORが2029年の契約満了後もメンバーの声のAI-generated（AI生成）版を無期限に使用・ライセンスできる条項が含まれている。"
+                "x": "Samplesonは、大規模なサンプルライブラリから目当ての音を見つけるためのデスクトップ用オーディオ検索アプリWavefinderを発表した。Wavefinderはファイル名や手作業で付けたタグに頼らず、オーディオファイルを解析し、テキストによる説明や参照録音との類似度で順位付けする。"
               },
               {
                 "t": "p",
-                "x": "契約満了時にレーベルのアーティストの名前・肖像・声に関する権利が終わる韓国の標準K-pop契約書と異なり、ADORの契約はAIによる「ボイスクローンやチャットボット」を含め、メンバーのアイデンティティの継続使用を認めている。メンバーには対価が支払われるが、自分の肖像や声の使われ方に口を出す権利はない。法律の専門家はTimesに対し、これらの条項が法廷で通用するかは不透明だと語った。"
+                "x": "ソフトウェアはAIモデルをローカルで実行し、音声のアップロードや継続的なサブスクリプション料金は不要だ。ユーザーは質感、雰囲気、ルームサウンド、演奏のジェスチャーといった音を自然言語で説明するか、参照音源をアプリにドラッグして似た録音を探せる。"
               },
               {
                 "t": "p",
-                "x": "契約はまた、ADORが2029年以降もNewJeansの楽曲を販売・再パッケージし続けながらメンバーへの支払いを減らすことを認め、高額な早期解約違約金も定めている。契約はメンバーが14歳から17歳の時に結ばれ、未成年者向けの標準的な保護規定が欠けていた。弁護士のJong-eon Rohは「異例なほど攻撃的」と評した。HYBEは契約が合法で業界標準に沿っているとしている。"
+                "x": "インデックスはネストされたフォルダーも含めローカルで構築・保存される。検索回数は無制限だ。対応フォーマットはWAV、AIFF、AIF、FLAC、OGG、MP3で、macOSとWindowsでスタンドアロンとして、また対応DAWsのプラグインとして動作する。"
               },
               {
                 "t": "p",
-                "x": "ソウルの裁判所は2025年10月30日、契約は2029年まで有効だと判断した。その後Haerin、Hyein、HanniはADORに復帰したが、同社はDanielle Marshとの契約を解除し、主に離脱違約金として約$22 millionを求めて提訴した。"
+                "x": "Wavefinderは現在$29.00 USDで販売中だ（導入価格。通常価格は$49.00 USDで、発売記念価格はNovember 15, 2026まで）。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "NewJeans合约\n赋予ADOR AI声音权",
-          "body": "据报道，ADOR无限期拥有NewJeans成员声音与肖像的AI版本权利。",
-          "mini_headline": "NewJeans经纪公司握有AI声音权",
+          "headline": "Sampleson推出\nWavefinder以声寻样",
+          "body": "Wavefinder在本地运行AI模型，按与文字描述或参考录音的相似度为样本排序。",
+          "mini_headline": "Wavefinder按声音搜索",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1078,w_1920,x_0,y_0/g_auto:aoi_768_431_384_216,q_auto,c_fill,ar_1.78,w_2048/sanity-new/aq7vzcujejcvekyraolq",
-                "cap": "Josh Brasted/FilmMagic"
+                "t": "video",
+                "yt": "HH2709Zcn8A"
               },
               {
                 "t": "p",
-                "x": "据获取并公开相关协议的The New York Times报道，这支K-pop女团的合约中有条款允许HYBE旗下子公司ADOR在2029年合约到期后，无限期使用并授权成员声音的AI-generated（AI生成）版本。"
+                "x": "Sampleson推出了桌面音频搜索应用Wavefinder，帮助用户在庞大的采样库中找到所需声音。Wavefinder不依赖文件名或手动添加的标签，而是分析音频文件，并按与文字描述或参考录音的相似度进行排序。"
               },
               {
                 "t": "p",
-                "x": "韩国标准K-pop合约模板规定，合约到期时厂牌对艺人姓名、形象和声音的权利随之终止；ADOR的合约则不同，允许继续使用成员的身份，包括AI“声音克隆或聊天机器人”。尽管成员必须获得报酬，但她们对自己的形象和声音如何被使用没有发言权。法律专家对Times表示，这些条款能否在法庭上站得住脚尚不清楚。"
+                "x": "该软件在本地运行AI模型，无需上传音频，也没有持续订阅费用。用户可以用自然语言描述声音——质感、氛围、房间声或演奏手法——也可以把参考音频拖入应用，以查找相似录音。"
               },
               {
                 "t": "p",
-                "x": "协议还允许ADOR在2029年后继续销售和重新包装NewJeans的音乐，同时减少给成员的报酬，并设有高额提前解约罚金。签约时成员年龄在14至17岁之间，合约却省略了针对未成年人的标准保护条款。律师Jong-eon Roh称其\"异常激进\"。HYBE坚称其合约合法且符合行业标准。"
+                "x": "索引在本地构建和存储，包括嵌套文件夹。搜索次数不限。支持WAV、AIFF、AIF、FLAC、OGG和MP3格式；可在macOS和Windows上独立运行，也可作为兼容DAWs的插件使用。"
               },
               {
                 "t": "p",
-                "x": "首尔一家法院于2025年10月30日裁定，合约有效期至2029年。此后Haerin、Hyein和Hanni已回归ADOR，而公司终止了Danielle Marsh的合约，并起诉她索赔约$22 million，主要为退出费用。"
+                "x": "Wavefinder现已上市，售价$29.00 USD（首发优惠价；原价$49.00 USD，优惠截至November 15, 2026）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Contrato de NewJeans da a ADOR\nderechos de IA sobre sus voces",
-          "body": "Según The New York Times, ADOR tiene derechos indefinidos sobre versiones con IA de las voces e imagen de NewJeans.",
-          "mini_headline": "El sello de NewJeans tiene\nderechos de voz con IA",
+          "headline": "Sampleson Wavefinder busca\nmuestras por su sonido",
+          "body": "Wavefinder ejecuta un modelo de AI en local y ordena las muestras por similitud con un texto o un audio de referencia.",
+          "mini_headline": "Wavefinder busca por sonido",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1078,w_1920,x_0,y_0/g_auto:aoi_768_431_384_216,q_auto,c_fill,ar_1.78,w_2048/sanity-new/aq7vzcujejcvekyraolq",
-                "cap": "Josh Brasted/FilmMagic"
+                "t": "video",
+                "yt": "HH2709Zcn8A"
               },
               {
                 "t": "p",
-                "x": "Los contratos del grupo femenino de K-pop contienen cláusulas que permiten a ADOR, filial de HYBE, usar y licenciar versiones de las voces de las integrantes generadas por IA (AI-generated) de forma indefinida después de que sus contratos venzan en 2029, según The New York Times, que obtuvo y publicó los acuerdos."
+                "x": "Sampleson ha presentado Wavefinder, una aplicación de escritorio para buscar audio pensada para localizar sonidos en grandes bibliotecas de muestras. En lugar de depender de nombres de archivo o etiquetas asignadas a mano, Wavefinder analiza los archivos de audio y los ordena por similitud con una descripción de texto o una grabación de referencia."
               },
               {
                 "t": "p",
-                "x": "A diferencia del modelo estándar de contrato de K-pop de Corea del Sur, que pone fin a los derechos de un sello sobre el nombre, la imagen y la voz de un artista cuando vence el contrato, los acuerdos de ADOR permiten seguir usando la identidad de las integrantes, incluidos “clones de voz o chatbots” con IA. Aunque las cantantes deben recibir un pago, no tienen voz sobre cómo se usan su imagen y sus voces. Expertos legales dijeron al Times que no está claro si estas cláusulas se sostendrían ante un tribunal."
+                "x": "El software ejecuta su modelo de AI en local, sin subir audio ni pagar suscripciones periódicas. Los usuarios pueden describir un sonido en lenguaje natural —textura, atmósfera, sonido de sala o gesto interpretativo— o arrastrar un audio de referencia a la aplicación para encontrar grabaciones similares."
               },
               {
                 "t": "p",
-                "x": "Los acuerdos también permiten a ADOR seguir vendiendo y reeditando la música de NewJeans después de 2029 mientras reduce los pagos a las integrantes, e incluyen fuertes penalizaciones por rescisión anticipada. Los contratos se firmaron cuando las integrantes tenían entre 14 y 17 años y omitían las protecciones habituales para menores. El abogado Jong-eon Roh los calificó de \"inusualmente agresivos\". HYBE sostiene que sus contratos son legales y acordes con los estándares del sector."
+                "x": "El índice se crea y se guarda en local, incluidas las carpetas anidadas. Las búsquedas son ilimitadas. Admite WAV, AIFF, AIF, FLAC, OGG y MP3; funciona de forma independiente en macOS y Windows, y como plug-in en DAWs compatibles."
               },
               {
                 "t": "p",
-                "x": "Un tribunal de Seúl dictaminó el 30 de octubre de 2025 que los contratos siguen vigentes hasta 2029. Desde entonces, Haerin, Hyein y Hanni han vuelto a ADOR, mientras que la empresa rescindió el contrato de Danielle Marsh y la demandó por aproximadamente $22 millones, principalmente en penalizaciones por salida."
+                "x": "Wavefinder ya está disponible por $29.00 USD (precio de lanzamiento; el precio habitual es de $49.00 USD y la oferta dura hasta el 15 de noviembre de 2026)."
               }
             ]
           }
@@ -687,15 +597,15 @@
       }
     },
     {
-      "id": "mashup-edu-nia-agent",
+      "id": "heritage-i73pro-nam-a2",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Mashup Edu의\nNia가 인디 경영 대행",
-      "body": "인도 Mashup Edu가 인디 아티스트용 AI 에이전트 Nia를 내놓는다.",
-      "mini_headline": "Nia, 인디 업무를 대신하다",
+      "headline": "Heritage 신경망앰프\ni73 Pro DSP 구동",
+      "body": "펌웨어 업데이트로 i73 Pro 내장 DSP가 NAM A2 캡처를 직접 돌린다.",
+      "mini_headline": "i73 Pro, NAM A2 지원",
       "tool": "Music",
-      "source": "Music Ally",
-      "url": "https://musically.com/2026/11/06/mashup-edus-ai-agent-nia-is-designed-to-run-the-business-side-of-indie-acts-careers/",
+      "source": "Sound On Sound",
+      "url": "https://www.soundonsound.com/news/heritage-audios-i73-pro-gains-nam-a2-support",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -703,179 +613,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://musically.com/wp-content/uploads/2026/11/Mashup-Edu-Nia.jpg",
-            "cap": "Mashup Edu의 Nia"
+            "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/h/heritage_audio_nam_a2_0-hbH78FIVnEagNT4vjmT0H48ZpPbbIcyU.jpg"
           },
           {
             "t": "p",
-            "x": "인도의 음악 교육·크리에이터 육성 플랫폼 Mashup Edu가 AI 에이전트 Nia를 출시한다. “독립 음악 창작자의 비즈니스 운영을 처리하도록 설계된” 에이전트다."
+            "x": "Heritage Audio가 i73 Pro 오디오 인터페이스용 펌웨어 업데이트를 내놓았다. 내장 DSP에서 NAM(Neural Amp Modeler) A2 캡처를 호스팅하는 업데이트로, 기존 사용자는 모두 무료로 받는다. 기타 앰프·페달·아웃보드 장비를 고품질로 에뮬레이션한 사운드를 거쳐 녹음할 수 있게 됐다."
           },
           {
             "t": "p",
-            "x": "Nia는 ‘Next-gen Industry Access’의 약자다. 독립 음악 커리어를 꾸리려면 공연 예약, 스트리밍·소셜 플랫폼 통계 분석, 로열티 추적까지 약 “17가지 별개의 일”을 해내야 한다는 데서 출발했다. Nia는 “조언만 하는 데 그치지 않고” 크로스 플랫폼 스트리밍 데이터 수집, 맞춤형 공연장 제안서 작성, 응답 기한 추적 같은 일을 직접 한다."
+            "x": "NAM은 실제 앰프, 페달, 아웃보드 장비는 물론 시그널 체인 전체를 신경망 모델로 캡처하는 오픈소스 기술이다. A2는 2 June 2026에 공개된 두 번째 세대 아키텍처로, 연산 자원을 덜 쓰면서도 음질은 더 좋다. 이제 .nam 파일을 i73 Pro의 DSP에 직접 올리면 CPU 자원을 쓰지 않고 지연도 늘리지 않은 채 캡처를 거쳐 녹음한다."
           },
           {
             "t": "p",
-            "x": "Mashup Edu 창업자 겸 CEO Mandeep Singh은 “크리에이터에게 숙제를 내주는 또 하나의 챗봇이나 한꺼번에 열어 둔 다섯 개의 대시보드는 필요 없다. 그들에게 필요한 건 일을 끝내주는 AI 에이전트다”라고 말한다. 에이전트 로직은 삼 년치 운영 데이터와 Xcelerator 프로그램에 참여한 음악 창작자 87명, 마스터클래스 226회에서 얻은 플레이북을 토대로 짰다."
-          },
-          {
-            "t": "p",
-            "x": "인도의 독립 음악가들은 2027년 초로 잡힌 베타의 얼리 액세스를 신청할 수 있다. 가격은 월 약 $20(약 Rs1,900) 선이 될 전망이고, 전 세계 출시는 내년 후반이다."
+            "x": "Heritage Audio 창립자(Founder) Peter Rodriguez는 “내장 로더 덕분에 i73 Pro 사용자는 플러그인도, 추가 장치도, 지연 걱정도 없이 NAM 세계의 어떤 앰프, 페달, 아웃보드든 거쳐 연주할 수 있다”고 말했다. 펌웨어와 Mixer 애플리케이션은 지금 Heritage Audio 웹사이트에서 내려받을 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Mashup Edu's Nia agent runs\nthe business side for indies",
-          "body": "India's Mashup Edu is launching Nia, an AI agent that pulls streaming data and drafts venue pitches for indie artists.",
-          "mini_headline": "Nia agent runs\nindie admin",
+          "headline": "Heritage i73 Pro runs neural\namp captures on its DSP",
+          "body": "A firmware update lets the i73 Pro interfaces run NAM A2 amp captures directly on their internal DSP.",
+          "mini_headline": "i73 Pro gets NAM A2",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/11/Mashup-Edu-Nia.jpg",
-                "cap": "Mashup Edu's Nia"
+                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/h/heritage_audio_nam_a2_0-hbH78FIVnEagNT4vjmT0H48ZpPbbIcyU.jpg"
               },
               {
                 "t": "p",
-                "x": "Indian music education and creator-development platform Mashup Edu is launching Nia, an AI agent “engineered to handle the business operations of independent music creators”."
+                "x": "Heritage Audio have just launched a firmware update that makes it possible for their i73 Pro audio interfaces to host NAM (Neural Amp Modeler) A2 captures on their internal DSP. Free to all existing owners, the update allows users to track through high-quality emulations of guitar amps, pedals and outboard gear."
               },
               {
                 "t": "p",
-                "x": "Nia, which stands for ‘Next-gen Industry Access’, grew from the realisation that managing an independent music career requires handling around “17 distinct jobs”, from booking gigs and analysing statistics across streaming and social platforms, to tracking royalties. Nia “does not just offer advice” but performs tasks such as pulling cross-platform streaming data, drafting personalised venue pitches, and tracking response windows."
+                "x": "NAM is an open-source technology that captures real amps, pedals, outboard gear and even full signal chains as neural models. A2, its second-generation architecture released on 2 June 2026, delivers improved sound quality while using fewer computational resources. Users can now host .nam files directly on the i73 Pro’s DSP, tracking through captures without using any CPU resources or incurring any additional latency."
               },
               {
                 "t": "p",
-                "x": "“Creators don’t need another chatbot giving them homework or five different dashboards open at once. They need an AI agent that gets the work done,” says Mandeep Singh, founder and CEO of Mashup Edu. The agent's logic draws on three years of operational data, 87 music creators in its Xcelerator programme, and playbooks from 226 masterclasses."
-              },
-              {
-                "t": "p",
-                "x": "Indian independent musicians can sign up for early access to the beta, scheduled for early 2027. Nia is likely to cost around $20 (approx. Rs1,900) per month and will be available globally later next year."
+                "x": "“With the built-in loader, an i73 Pro owner can play through any amp, pedal or piece of outboard in the NAM universe, with no plug-in, no extra device and no latency to worry about,” said Peter Rodriguez, Founder, Heritage Audio. The firmware and Mixer application are available now from Heritage Audio’s website."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Mashup Edu의\nNia가 인디 경영 대행",
-          "body": "인도 Mashup Edu가 인디 아티스트용 AI 에이전트 Nia를 내놓는다.",
-          "mini_headline": "Nia, 인디 업무를 대신하다",
+          "headline": "Heritage 신경망앰프\ni73 Pro DSP 구동",
+          "body": "펌웨어 업데이트로 i73 Pro 내장 DSP가 NAM A2 캡처를 직접 돌린다.",
+          "mini_headline": "i73 Pro, NAM A2 지원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/11/Mashup-Edu-Nia.jpg",
-                "cap": "Mashup Edu의 Nia"
+                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/h/heritage_audio_nam_a2_0-hbH78FIVnEagNT4vjmT0H48ZpPbbIcyU.jpg"
               },
               {
                 "t": "p",
-                "x": "인도의 음악 교육·크리에이터 육성 플랫폼 Mashup Edu가 AI 에이전트 Nia를 출시한다. “독립 음악 창작자의 비즈니스 운영을 처리하도록 설계된” 에이전트다."
+                "x": "Heritage Audio가 i73 Pro 오디오 인터페이스용 펌웨어 업데이트를 내놓았다. 내장 DSP에서 NAM(Neural Amp Modeler) A2 캡처를 호스팅하는 업데이트로, 기존 사용자는 모두 무료로 받는다. 기타 앰프·페달·아웃보드 장비를 고품질로 에뮬레이션한 사운드를 거쳐 녹음할 수 있게 됐다."
               },
               {
                 "t": "p",
-                "x": "Nia는 ‘Next-gen Industry Access’의 약자다. 독립 음악 커리어를 꾸리려면 공연 예약, 스트리밍·소셜 플랫폼 통계 분석, 로열티 추적까지 약 “17가지 별개의 일”을 해내야 한다는 데서 출발했다. Nia는 “조언만 하는 데 그치지 않고” 크로스 플랫폼 스트리밍 데이터 수집, 맞춤형 공연장 제안서 작성, 응답 기한 추적 같은 일을 직접 한다."
+                "x": "NAM은 실제 앰프, 페달, 아웃보드 장비는 물론 시그널 체인 전체를 신경망 모델로 캡처하는 오픈소스 기술이다. A2는 2 June 2026에 공개된 두 번째 세대 아키텍처로, 연산 자원을 덜 쓰면서도 음질은 더 좋다. 이제 .nam 파일을 i73 Pro의 DSP에 직접 올리면 CPU 자원을 쓰지 않고 지연도 늘리지 않은 채 캡처를 거쳐 녹음한다."
               },
               {
                 "t": "p",
-                "x": "Mashup Edu 창업자 겸 CEO Mandeep Singh은 “크리에이터에게 숙제를 내주는 또 하나의 챗봇이나 한꺼번에 열어 둔 다섯 개의 대시보드는 필요 없다. 그들에게 필요한 건 일을 끝내주는 AI 에이전트다”라고 말한다. 에이전트 로직은 삼 년치 운영 데이터와 Xcelerator 프로그램에 참여한 음악 창작자 87명, 마스터클래스 226회에서 얻은 플레이북을 토대로 짰다."
-              },
-              {
-                "t": "p",
-                "x": "인도의 독립 음악가들은 2027년 초로 잡힌 베타의 얼리 액세스를 신청할 수 있다. 가격은 월 약 $20(약 Rs1,900) 선이 될 전망이고, 전 세계 출시는 내년 후반이다."
+                "x": "Heritage Audio 창립자(Founder) Peter Rodriguez는 “내장 로더 덕분에 i73 Pro 사용자는 플러그인도, 추가 장치도, 지연 걱정도 없이 NAM 세계의 어떤 앰프, 페달, 아웃보드든 거쳐 연주할 수 있다”고 말했다. 펌웨어와 Mixer 애플리케이션은 지금 Heritage Audio 웹사이트에서 내려받을 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Mashup EduのNia\nインディの事業を代行",
-          "body": "インドのMashup Eduが、インディ向けAIエージェントNiaを投入する。",
-          "mini_headline": "Niaがインディの事務を代行",
+          "headline": "Heritage、DSP上で\ni73 Proが神経網アンプ",
+          "body": "ファームウェア更新で、i73 Proが内蔵DSPでNAM A2キャプチャを直接動かす。",
+          "mini_headline": "i73 ProがNAM A2対応",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/11/Mashup-Edu-Nia.jpg",
-                "cap": "Mashup EduのNia"
+                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/h/heritage_audio_nam_a2_0-hbH78FIVnEagNT4vjmT0H48ZpPbbIcyU.jpg"
               },
               {
                 "t": "p",
-                "x": "インドの音楽教育・クリエイター育成プラットフォームMashup Eduが、「インディペンデントな音楽クリエイターのビジネス運営を担うよう設計された」AIエージェントNiaを投入する。"
+                "x": "Heritage Audioは、同社のi73 Proオーディオインターフェースが内蔵DSP上でNAM（Neural Amp Modeler）A2キャプチャをホストできるようにするファームウェアアップデートを公開した。既存ユーザー全員に無償で提供され、ギターアンプやペダル、アウトボード機器の高品質なエミュレーションを通して録音できる。"
               },
               {
                 "t": "p",
-                "x": "‘Next-gen Industry Access’の略であるNiaは、インディペンデントな音楽キャリアの運営には、ライブのブッキングやストリーミング・ソーシャル各プラットフォームの統計分析からロイヤリティの追跡まで、約「17の異なる仕事」をこなす必要があるという気づきから生まれた。Niaは「助言するだけではなく」、プラットフォームを横断したストリーミングデータの取得、会場ごとに最適化した売り込み文の作成、返信期限の追跡といった作業を実行する。"
+                "x": "NAMは、実機のアンプ、ペダル、アウトボード機器、さらにはシグナルチェーン全体をニューラルモデルとしてキャプチャするオープンソース技術だ。2 June 2026に公開された第二世代アーキテクチャのA2は、より少ない計算資源で音質を高めている。ユーザーは.namファイルをi73 ProのDSPで直接ホストでき、CPUリソースを使わず、追加のレイテンシーもなくキャプチャを通して録音できる。"
               },
               {
                 "t": "p",
-                "x": "「クリエイターに必要なのは、宿題を出してくるもう一つのチャットボットでも、同時に開いた五つのダッシュボードでもない。仕事を片付けてくれるAIエージェントだ」とMashup Eduの創業者兼CEO、Mandeep Singhは語る。エージェントのロジックは、三年分の運用データ、Xceleratorプログラムに参加する87人の音楽クリエイター、226回のマスタークラスのプレイブックに基づく。"
-              },
-              {
-                "t": "p",
-                "x": "インドのインディペンデント・ミュージシャンは、2027年初めに予定されるベータ版の早期アクセスに登録できる。Niaの料金は月額約$20（約Rs1,900）になる見込みで、来年後半に世界で利用可能になる。"
+                "x": "Heritage Audioの創業者（Founder）Peter Rodriguezは「内蔵ローダーにより、i73 Proのオーナーはプラグインも追加機器も不要で、レイテンシーを気にすることもなく、NAMの世界にあるあらゆるアンプ、ペダル、アウトボードを通して演奏できる」と述べた。ファームウェアとMixerアプリケーションは、Heritage Audioのウェブサイトで現在入手できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Mashup Edu的Nia\n代理独立音乐人业务",
-          "body": "印度Mashup Edu推出AI代理Nia，为独立音乐人抓取流媒体数据并起草场地提案。",
-          "mini_headline": "Nia代办独立音乐人事务",
+          "headline": "Heritage：神经放大器\n跑在i73 Pro DSP上",
+          "body": "固件更新让i73 Pro接口可直接在内置DSP上运行NAM A2放大器捕获。",
+          "mini_headline": "i73 Pro支持NAM A2",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/11/Mashup-Edu-Nia.jpg",
-                "cap": "Mashup Edu的Nia"
+                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/h/heritage_audio_nam_a2_0-hbH78FIVnEagNT4vjmT0H48ZpPbbIcyU.jpg"
               },
               {
                 "t": "p",
-                "x": "印度音乐教育与创作者培养平台Mashup Edu推出AI代理Nia，这款代理“专为处理独立音乐创作者的商业运营而设计”。"
+                "x": "Heritage Audio刚刚发布固件更新，让旗下i73 Pro音频接口可以在内置DSP上运行NAM（Neural Amp Modeler）A2捕获。此次更新对所有现有用户免费，用户可通过吉他放大器、效果器和外置设备的高品质模拟进行录音。"
               },
               {
                 "t": "p",
-                "x": "Nia是‘Next-gen Industry Access’的缩写，源于这样一个认识：经营独立音乐事业需要处理约“17项不同的工作”，从预订演出、分析各流媒体和社交平台的统计数据，到追踪版税。Nia“不只是提供建议”，还会执行各项任务，例如抓取跨平台流媒体数据、起草个性化的演出场地提案，以及跟踪回复时限。"
+                "x": "NAM是一项开源技术，可将真实的放大器、效果器、外置设备乃至完整信号链捕获为神经网络模型。其第二代架构A2于2 June 2026发布，在消耗更少计算资源的同时带来更好的音质。用户现在可以直接在i73 Pro的DSP上加载.nam文件，通过捕获进行录音，既不占用CPU资源，也不会增加任何延迟。"
               },
               {
                 "t": "p",
-                "x": "“创作者不需要又一个给他们布置作业的聊天机器人，也不需要同时打开五个不同的仪表盘。他们需要的是能把事情办成的AI代理。”Mashup Edu创始人兼CEO Mandeep Singh说。该代理的逻辑基于三年的运营数据、其Xcelerator项目中的87位音乐创作者，以及226场大师课的操作手册。"
-              },
-              {
-                "t": "p",
-                "x": "印度独立音乐人可报名参加定于2027年初推出的测试版抢先体验。Nia预计每月收费约$20（约Rs1,900），并将于明年晚些时候面向全球推出。"
+                "x": "Heritage Audio创始人（Founder）Peter Rodriguez表示：“借助内置加载器，i73 Pro用户无需插件、无需额外设备，也不必担心延迟，就能通过NAM世界中的任何放大器、效果器或外置设备演奏。”固件和Mixer应用现已可从Heritage Audio官网获取。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El agente Nia de Mashup Edu\ngestiona el negocio indie",
-          "body": "La india Mashup Edu lanza Nia, un agente de AI que reúne datos de streaming y redacta propuestas a salas para indies.",
-          "mini_headline": "Nia gestiona la parte administrativa indie",
+          "headline": "El Heritage i73 Pro ejecuta\ncapturas neuronales en su DSP",
+          "body": "Una actualización de firmware permite a las interfaces i73 Pro ejecutar capturas NAM A2 directamente en su DSP interno.",
+          "mini_headline": "El i73 Pro recibe NAM A2",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/11/Mashup-Edu-Nia.jpg",
-                "cap": "Nia, de Mashup Edu"
+                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/h/heritage_audio_nam_a2_0-hbH78FIVnEagNT4vjmT0H48ZpPbbIcyU.jpg"
               },
               {
                 "t": "p",
-                "x": "La plataforma india de educación musical y desarrollo de creadores Mashup Edu lanza Nia, un agente de AI “diseñado para gestionar las operaciones de negocio de los creadores musicales independientes”."
+                "x": "Heritage Audio acaba de lanzar una actualización de firmware que permite a sus interfaces de audio i73 Pro alojar capturas NAM (Neural Amp Modeler) A2 en su DSP interno. Gratuita para todos los propietarios actuales, la actualización permite grabar a través de emulaciones de alta calidad de amplificadores de guitarra, pedales y equipos outboard."
               },
               {
                 "t": "p",
-                "x": "Nia, siglas de ‘Next-gen Industry Access’, nació de la constatación de que gestionar una carrera musical independiente exige ocuparse de unos “17 trabajos distintos”, desde contratar conciertos y analizar estadísticas en plataformas de streaming y redes sociales hasta hacer seguimiento de las regalías. Nia “no se limita a dar consejos”, sino que ejecuta tareas como reunir datos de streaming de distintas plataformas, redactar propuestas personalizadas para salas y controlar los plazos de respuesta."
+                "x": "NAM es una tecnología de código abierto que captura amplificadores, pedales y equipos outboard reales, e incluso cadenas de señal completas, como modelos neuronales. A2, su arquitectura de segunda generación publicada el 2 de junio de 2026, ofrece mejor calidad de sonido con menos recursos de cálculo. Ahora los usuarios pueden alojar archivos .nam directamente en el DSP del i73 Pro y grabar a través de las capturas sin usar recursos de CPU ni añadir latencia."
               },
               {
                 "t": "p",
-                "x": "“Los creadores no necesitan otro chatbot que les ponga deberes ni cinco paneles distintos abiertos a la vez. Necesitan un agente de AI que haga el trabajo”, afirma Mandeep Singh, fundador y CEO de Mashup Edu. La lógica del agente se basa en tres años de datos operativos, 87 creadores musicales de su programa Xcelerator y manuales de 226 clases magistrales."
-              },
-              {
-                "t": "p",
-                "x": "Los músicos independientes de India pueden inscribirse para el acceso anticipado a la beta, prevista para principios de 2027. Nia costará probablemente unos $20 (aprox. Rs1,900) al mes y estará disponible a nivel mundial a finales del próximo año."
+                "x": "“Con el cargador integrado, el propietario de un i73 Pro puede tocar a través de cualquier amplificador, pedal o equipo outboard del universo NAM, sin plug-in, sin dispositivo adicional y sin preocuparse por la latencia”, dijo Peter Rodriguez, fundador de Heritage Audio. El firmware y la aplicación Mixer ya están disponibles en el sitio web de Heritage Audio."
               }
             ]
           }
@@ -883,125 +763,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Mashup Edu의\nNia가 인디 경영 대행",
-          "body": "인도 Mashup Edu가 인디 아티스트용 AI 에이전트 Nia를 출시한다.",
-          "mini_headline": "Nia, 인디 업무를 대신하다",
+          "headline": "Heritage 신경망앰프\ni73 Pro DSP 구동",
+          "body": "펌웨어 업데이트로 i73 Pro가 내장 DSP에서 NAM A2 캡처를 구동한다.",
+          "mini_headline": "i73 Pro, NAM A2 지원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/11/Mashup-Edu-Nia.jpg",
-                "cap": "Mashup Edu의 Nia"
+                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/h/heritage_audio_nam_a2_0-hbH78FIVnEagNT4vjmT0H48ZpPbbIcyU.jpg"
               },
               {
                 "t": "p",
-                "x": "인도의 음악 교육·크리에이터 육성 플랫폼 Mashup Edu가 “독립 음악 창작자의 비즈니스 운영을 처리하도록 설계된” AI 에이전트 Nia를 출시한다."
+                "x": "Heritage Audio가 자사 i73 Pro 오디오 인터페이스의 내장 DSP에서 NAM(Neural Amp Modeler) A2 캡처를 호스팅할 수 있게 하는 펌웨어 업데이트를 내놓았다. 기존 사용자 모두에게 무료인 이번 업데이트로, 기타 앰프·페달·아웃보드 장비를 고품질로 에뮬레이션한 사운드를 거쳐 녹음할 수 있다."
               },
               {
                 "t": "p",
-                "x": "‘Next-gen Industry Access’의 약자인 Nia는 독립 음악 커리어를 꾸리려면 공연 예약, 스트리밍·소셜 플랫폼 전반의 통계 분석부터 로열티 추적까지 약 “17가지 별개의 일”을 처리해야 한다는 깨달음에서 출발했다. Nia는 “조언만 하는 데 그치지 않고” 크로스 플랫폼 스트리밍 데이터 수집, 맞춤형 공연장 제안서 작성, 응답 기한 추적 같은 작업을 직접 수행한다."
+                "x": "NAM은 실제 앰프, 페달, 아웃보드 장비는 물론 전체 시그널 체인까지 신경망 모델로 캡처하는 오픈소스 기술이다. 2 June 2026에 공개된 두 번째 세대 아키텍처 A2는 더 적은 연산 자원으로 더 나은 음질을 낸다. 이제 사용자는 .nam 파일을 i73 Pro의 DSP에 직접 올려, CPU 자원을 쓰거나 추가 지연을 겪지 않고 캡처를 거쳐 녹음할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Mashup Edu 창업자 겸 CEO Mandeep Singh은 “크리에이터에게 숙제를 내주는 또 하나의 챗봇이나 한꺼번에 열어 둔 다섯 개의 대시보드는 필요 없다. 그들에게 필요한 건 일을 끝내주는 AI 에이전트다”라고 말한다. 에이전트의 로직은 삼 년치 운영 데이터, Xcelerator 프로그램에 참여한 음악 창작자 87명, 마스터클래스 226회의 플레이북을 바탕으로 한다."
-              },
-              {
-                "t": "p",
-                "x": "인도의 독립 음악가들은 2027년 초로 예정된 베타의 얼리 액세스를 신청할 수 있다. Nia의 가격은 월 약 $20(약 Rs1,900) 수준이 될 것으로 보이며, 내년 후반 전 세계에 출시된다."
+                "x": "Heritage Audio 창립자(Founder) Peter Rodriguez는 “내장 로더 덕분에 i73 Pro 사용자는 플러그인도, 추가 장치도, 지연 걱정도 없이 NAM 세계의 어떤 앰프, 페달, 아웃보드든 거쳐 연주할 수 있다”고 말했다. 펌웨어와 Mixer 애플리케이션은 현재 Heritage Audio 웹사이트에서 받을 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Mashup EduのNia\nインディの事業を代行",
-          "body": "インドのMashup Eduが、インディ向けAIエージェントNiaを投入する。",
-          "mini_headline": "Niaがインディの事務を代行",
+          "headline": "Heritage、DSP上で\ni73 Proが神経網アンプ",
+          "body": "ファームウェア更新で、i73 Proが内蔵DSPでNAM A2キャプチャを直接動かす。",
+          "mini_headline": "i73 ProがNAM A2対応",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/11/Mashup-Edu-Nia.jpg",
-                "cap": "Mashup EduのNia"
+                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/h/heritage_audio_nam_a2_0-hbH78FIVnEagNT4vjmT0H48ZpPbbIcyU.jpg"
               },
               {
                 "t": "p",
-                "x": "インドの音楽教育・クリエイター育成プラットフォームMashup Eduが、「インディペンデントな音楽クリエイターのビジネス運営を担うよう設計された」AIエージェントNiaを投入する。"
+                "x": "Heritage Audioは、同社のi73 Proオーディオインターフェースが内蔵DSP上でNAM（Neural Amp Modeler）A2キャプチャをホストできるようにするファームウェアアップデートを公開した。既存ユーザー全員に無償で提供され、ギターアンプやペダル、アウトボード機器の高品質なエミュレーションを通して録音できる。"
               },
               {
                 "t": "p",
-                "x": "‘Next-gen Industry Access’の略であるNiaは、インディペンデントな音楽キャリアの運営には、ライブのブッキングやストリーミング・ソーシャル各プラットフォームの統計分析からロイヤリティの追跡まで、約「17の異なる仕事」をこなす必要があるという気づきから生まれた。Niaは「助言するだけではなく」、プラットフォームを横断したストリーミングデータの取得、会場ごとに最適化した売り込み文の作成、返信期限の追跡といった作業を実行する。"
+                "x": "NAMは、実機のアンプ、ペダル、アウトボード機器、さらにはシグナルチェーン全体をニューラルモデルとしてキャプチャするオープンソース技術だ。2 June 2026に公開された第二世代アーキテクチャのA2は、より少ない計算資源で音質を高めている。ユーザーは.namファイルをi73 ProのDSPで直接ホストでき、CPUリソースを使わず、追加のレイテンシーもなくキャプチャを通して録音できる。"
               },
               {
                 "t": "p",
-                "x": "「クリエイターに必要なのは、宿題を出してくるもう一つのチャットボットでも、同時に開いた五つのダッシュボードでもない。仕事を片付けてくれるAIエージェントだ」とMashup Eduの創業者兼CEO、Mandeep Singhは語る。エージェントのロジックは、三年分の運用データ、Xceleratorプログラムに参加する87人の音楽クリエイター、226回のマスタークラスのプレイブックに基づく。"
-              },
-              {
-                "t": "p",
-                "x": "インドのインディペンデント・ミュージシャンは、2027年初めに予定されるベータ版の早期アクセスに登録できる。Niaの料金は月額約$20（約Rs1,900）になる見込みで、来年後半に世界で利用可能になる。"
+                "x": "Heritage Audioの創業者（Founder）Peter Rodriguezは「内蔵ローダーにより、i73 Proのオーナーはプラグインも追加機器も不要で、レイテンシーを気にすることもなく、NAMの世界にあるあらゆるアンプ、ペダル、アウトボードを通して演奏できる」と述べた。ファームウェアとMixerアプリケーションは、Heritage Audioのウェブサイトで現在入手できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Mashup Edu的Nia\n代理独立音乐人业务",
-          "body": "印度Mashup Edu推出AI代理Nia，为独立音乐人抓取流媒体数据并起草场地提案。",
-          "mini_headline": "Nia代办独立音乐人事务",
+          "headline": "Heritage：神经放大器\n跑在i73 Pro DSP上",
+          "body": "固件更新让i73 Pro接口可直接在内置DSP上运行NAM A2放大器捕获。",
+          "mini_headline": "i73 Pro支持NAM A2",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/11/Mashup-Edu-Nia.jpg",
-                "cap": "Mashup Edu的Nia"
+                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/h/heritage_audio_nam_a2_0-hbH78FIVnEagNT4vjmT0H48ZpPbbIcyU.jpg"
               },
               {
                 "t": "p",
-                "x": "印度音乐教育与创作者培养平台Mashup Edu推出AI代理Nia，这款代理“专为处理独立音乐创作者的商业运营而设计”。"
+                "x": "Heritage Audio刚刚发布固件更新，让旗下i73 Pro音频接口可以在内置DSP上运行NAM（Neural Amp Modeler）A2捕获。此次更新对所有现有用户免费，用户可通过吉他放大器、效果器和外置设备的高品质模拟进行录音。"
               },
               {
                 "t": "p",
-                "x": "Nia是‘Next-gen Industry Access’的缩写，源于这样一个认识：经营独立音乐事业需要处理约“17项不同的工作”，从预订演出、分析各流媒体和社交平台的统计数据，到追踪版税。Nia“不只是提供建议”，还会执行各项任务，例如抓取跨平台流媒体数据、起草个性化的演出场地提案，以及跟踪回复时限。"
+                "x": "NAM是一项开源技术，可将真实的放大器、效果器、外置设备乃至完整信号链捕获为神经网络模型。其第二代架构A2于2 June 2026发布，在消耗更少计算资源的同时带来更好的音质。用户现在可以直接在i73 Pro的DSP上加载.nam文件，通过捕获进行录音，既不占用CPU资源，也不会增加任何延迟。"
               },
               {
                 "t": "p",
-                "x": "“创作者不需要又一个给他们布置作业的聊天机器人，也不需要同时打开五个不同的仪表盘。他们需要的是能把事情办成的AI代理。”Mashup Edu创始人兼CEO Mandeep Singh说。该代理的逻辑基于三年的运营数据、其Xcelerator项目中的87位音乐创作者，以及226场大师课的操作手册。"
-              },
-              {
-                "t": "p",
-                "x": "印度独立音乐人可报名参加定于2027年初推出的测试版抢先体验。Nia预计每月收费约$20（约Rs1,900），并将于明年晚些时候面向全球推出。"
+                "x": "Heritage Audio创始人（Founder）Peter Rodriguez表示：“借助内置加载器，i73 Pro用户无需插件、无需额外设备，也不必担心延迟，就能通过NAM世界中的任何放大器、效果器或外置设备演奏。”固件和Mixer应用现已可从Heritage Audio官网获取。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El agente Nia de Mashup Edu\ngestiona el negocio indie",
-          "body": "La india Mashup Edu lanza Nia, un agente de AI que reúne datos de streaming y redacta propuestas a salas para indies.",
-          "mini_headline": "Nia gestiona la parte administrativa indie",
+          "headline": "El Heritage i73 Pro ejecuta\ncapturas neuronales en su DSP",
+          "body": "Una actualización de firmware permite a las interfaces i73 Pro ejecutar capturas NAM A2 directamente en su DSP interno.",
+          "mini_headline": "El i73 Pro recibe NAM A2",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/11/Mashup-Edu-Nia.jpg",
-                "cap": "Nia, de Mashup Edu"
+                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/h/heritage_audio_nam_a2_0-hbH78FIVnEagNT4vjmT0H48ZpPbbIcyU.jpg"
               },
               {
                 "t": "p",
-                "x": "La plataforma india de educación musical y desarrollo de creadores Mashup Edu lanza Nia, un agente de AI “diseñado para gestionar las operaciones de negocio de los creadores musicales independientes”."
+                "x": "Heritage Audio acaba de lanzar una actualización de firmware que permite a sus interfaces de audio i73 Pro alojar capturas NAM (Neural Amp Modeler) A2 en su DSP interno. Gratuita para todos los propietarios actuales, la actualización permite grabar a través de emulaciones de alta calidad de amplificadores de guitarra, pedales y equipos outboard."
               },
               {
                 "t": "p",
-                "x": "Nia, siglas de ‘Next-gen Industry Access’, nació de la constatación de que gestionar una carrera musical independiente exige ocuparse de unos “17 trabajos distintos”, desde contratar conciertos y analizar estadísticas en plataformas de streaming y redes sociales hasta hacer seguimiento de las regalías. Nia “no se limita a dar consejos”, sino que ejecuta tareas como reunir datos de streaming de distintas plataformas, redactar propuestas personalizadas para salas y controlar los plazos de respuesta."
+                "x": "NAM es una tecnología de código abierto que captura amplificadores, pedales y equipos outboard reales, e incluso cadenas de señal completas, como modelos neuronales. A2, su arquitectura de segunda generación publicada el 2 de junio de 2026, ofrece mejor calidad de sonido con menos recursos de cálculo. Ahora los usuarios pueden alojar archivos .nam directamente en el DSP del i73 Pro y grabar a través de las capturas sin usar recursos de CPU ni añadir latencia."
               },
               {
                 "t": "p",
-                "x": "“Los creadores no necesitan otro chatbot que les ponga deberes ni cinco paneles distintos abiertos a la vez. Necesitan un agente de AI que haga el trabajo”, afirma Mandeep Singh, fundador y CEO de Mashup Edu. La lógica del agente se basa en tres años de datos operativos, 87 creadores musicales de su programa Xcelerator y manuales de 226 clases magistrales."
-              },
-              {
-                "t": "p",
-                "x": "Los músicos independientes de India pueden inscribirse para el acceso anticipado a la beta, prevista para principios de 2027. Nia costará probablemente unos $20 (aprox. Rs1,900) al mes y estará disponible a nivel mundial a finales del próximo año."
+                "x": "“Con el cargador integrado, el propietario de un i73 Pro puede tocar a través de cualquier amplificador, pedal o equipo outboard del universo NAM, sin plug-in, sin dispositivo adicional y sin preocuparse por la latencia”, dijo Peter Rodriguez, fundador de Heritage Audio. El firmware y la aplicación Mixer ya están disponibles en el sitio web de Heritage Audio."
               }
             ]
           }
@@ -1009,171 +869,201 @@
       }
     },
     {
-      "id": "nile-rodgers-ai-video",
+      "id": "procraft-instruction-music-edit",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Nile Rodgers,\n자선 캐럴 영상 AI 옹호",
-      "body": "팬 반발에 Nile Rodgers는 팀이 다 만들고 AI는 지시만 따랐다고 했다.",
-      "mini_headline": "Nile Rodgers, AI 영상 옹호",
+      "headline": "ProCraft, 텍스트\n지시만으로 음악 편집",
+      "body": "0.5B 코덱 언어 모델 ProCraft가 30초 음악을 자유 지시대로 편집한다.",
+      "mini_headline": "ProCraft, 텍스트로 믹스 편집",
       "tool": "Music",
-      "source": "Rolling Stone",
-      "url": "https://www.rollingstone.com/music/music-news/nile-rodgers-defends-ai-use-new-music-video-christmas-song-1235653717/",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.07423",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "음악 제작에는 보통 여러 편집 작업이 따르는데, 작업마다 전문 도구와 전문 지식이 든다. ProCraft는 0.5B 파라미터 규모의 가벼운 자기회귀 코덱 언어 모델이다. 복합 요청이 섞인 자유 형식 지시를 받아 30초 길이 음악 발췌를 처음부터 끝까지 편집한다. 지원 작업은 트랙 제거부터 반주 생성까지 일곱 가지로, 여덟 가지 악기를 다룬다."
+          },
+          {
             "t": "img",
-            "src": "https://www.rollingstone.com/wp-content/uploads/2026/11/NileRodgers-1.jpg?w=1581&h=1054&crop=1",
-            "cap": "DKMS Gala 2026에서 공연하는 Nile Rodgers. Astrid Stawiarz/Getty Images for DKMS Gala"
+            "src": "https://arxiv.org/html/2611.07423v1/fig_architecture.svg",
+            "cap": "그림 1: ProCraft 아키텍처."
           },
           {
             "t": "p",
-            "x": "Nile Rodgers는 2020년 Rebecca Ferguson과 함께한 자선 협업곡 “The Christmas Song”의 새 버전 뮤직비디오 일부를 최근 공개하면서 AI를 썼다고 자랑스럽게 밝혔다. 팬들이 이를 문제 삼자 그는 목요일 기술 사용을 옹호했다."
+            "x": "사전 학습된 음악 임베딩에 표현을 정렬해 편집 범위 밖의 내용은 그대로 지키며 모든 디코더 층의 게이트 교차 어텐션으로 생성 결과를 지시에 묶어 둔다. 연구진은 복합 요청을 학습시키려고 On-the-fly Editing-pair Synthesis를 도입했다."
+          },
+          {
+            "t": "img",
+            "src": "https://arxiv.org/html/2611.07423v1/fig_data_pipeline.svg",
+            "cap": "그림 2: On-the-fly editing-pair synthesis."
           },
           {
             "t": "p",
-            "x": "Rodgers는 병상에 있거나 아픈 아이들에게 “연말 시즌에 작은 #joy”를 주려고 이 곡을 만들었다고 했다. 생성형 AI 사용을 지적하는 댓글에는 이렇게 답했다. “우리가 모든 걸 만들었다. 무드 보드, 스토리보드를 만들고 영화를 만들 때와 똑같은 방식으로 작업했다. AI는 우리가 시킨 대로 했고, 화면에서 보게 될 모든 순간을 우리가 공들여 만들었다… 전통적인 영화였다면 약 $100,000가 들었을 것이다.”"
-          },
-          {
-            "t": "p",
-            "x": "또 다른 댓글에는 “삶을 편하게 해 준다는 이유로 늘 AI를 쓰면서 반AI라고 말하는 건 다소 위선적”이라고 받아쳤다. Rodgers의 AI 지지는 처음이 아니다. 2024년 Euronews에는 AI 보컬로 남의 사운드를 베끼는 건 “끔찍하다”고 하면서도, AI로 자신을 예술적으로 표현하는 건 “환상적”이라고 말했다."
+            "x": "MoisesDB와 Slakh에서 트랙 제거·추출·노이즈 제거 복합 지시를 처리할 때 ProCraft는 자유 텍스트 기반 편집기 네 종을 앞섰다. 청취자 16명이 참여한 사용자 연구에서는 제거와 노이즈 제거에서 가장 높은 평가를 받았다. 추출과 악기 전환에서는 16배 큰 모델과 대등했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Nile Rodgers defends AI\nin a Christmas charity video",
-          "body": "After fan backlash, Nile Rodgers said his team created everything in the charity video and the AI only did as told.",
-          "mini_headline": "Nile Rodgers\ndefends AI video",
+          "headline": "ProCraft edits music\nfrom plain-text instructions",
+          "body": "ProCraft, a 0.5B-parameter codec language model, edits 30-second music clips from free-form instructions end to end.",
+          "mini_headline": "ProCraft edits mixes by text",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Music production typically involves multiple editing operations that each require specialized tools and expertise. ProCraft is a lightweight 0.5B-parameter autoregressive codec language model that edits 30s music excerpts end-to-end from free-form instructions, including compound requests. It supports seven operations across eight instruments, from track removal to accompaniment generation."
+              },
+              {
                 "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/11/NileRodgers-1.jpg?w=1581&h=1054&crop=1",
-                "cap": "Nile Rodgers performs during the DKMS Gala 2026. Astrid Stawiarz/Getty Images for DKMS Gala"
+                "src": "https://arxiv.org/html/2611.07423v1/fig_architecture.svg",
+                "cap": "Figure 1: Architecture of ProCraft."
               },
               {
                 "t": "p",
-                "x": "Nile Rodgers recently shared a snippet of his upcoming video for a new version of “The Christmas Song,” his 2020 charity collaboration with Rebecca Ferguson, proudly revealing it used AI, which fans took issue with. On Thursday, he defended his use of the technology."
+                "x": "Representation alignment with pretrained music embeddings preserves content outside the edit, and gated cross-attention in every decoder layer keeps generation tied to the instruction. To train on compound requests, the authors introduce On-the-fly Editing-pair Synthesis."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.07423v1/fig_data_pipeline.svg",
+                "cap": "Figure 2: On-the-fly editing-pair synthesis."
               },
               {
                 "t": "p",
-                "x": "Rodgers said he produced the song to give bedridden and ill children “a little #joy during the holiday season.” When commenters took him to task for using generative AI, he replied: “We created everything. Mood boards, story boards and did it the same way we’d do a film. The AI did what we told it to do and we painstakingly created every second you’ll see on the screen… If this were a traditional film it would’ve cost about $100,000.”"
-              },
-              {
-                "t": "p",
-                "x": "He told another commenter that “it’s somewhat hypocritical to say you’re anti AI and you’re using it all the time because it makes your life convenient.” Rodgers has previously shown support for AI, telling Euronews in 2024 that copying another person's sound with AI vocals is “horrible,” but using AI to artistically express yourself is “fantastic.”"
+                "x": "ProCraft outperforms four free-text editors on compound instructions for track removal, extraction and denoising on MoisesDB and Slakh. In a user study (16 listeners), it was rated highest on removal and denoising and on-par with a 16-times larger model on extraction and instrument transfer."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Nile Rodgers,\n자선 캐럴 영상 AI 옹호",
-          "body": "팬 반발에 Nile Rodgers는 팀이 다 만들고 AI는 지시만 따랐다고 했다.",
-          "mini_headline": "Nile Rodgers, AI 영상 옹호",
+          "headline": "ProCraft, 텍스트\n지시만으로 음악 편집",
+          "body": "0.5B 코덱 언어 모델 ProCraft가 30초 음악을 자유 지시대로 편집한다.",
+          "mini_headline": "ProCraft, 텍스트로 믹스 편집",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "음악 제작에는 보통 여러 편집 작업이 따르는데, 작업마다 전문 도구와 전문 지식이 든다. ProCraft는 0.5B 파라미터 규모의 가벼운 자기회귀 코덱 언어 모델이다. 복합 요청이 섞인 자유 형식 지시를 받아 30초 길이 음악 발췌를 처음부터 끝까지 편집한다. 지원 작업은 트랙 제거부터 반주 생성까지 일곱 가지로, 여덟 가지 악기를 다룬다."
+              },
+              {
                 "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/11/NileRodgers-1.jpg?w=1581&h=1054&crop=1",
-                "cap": "DKMS Gala 2026에서 공연하는 Nile Rodgers. Astrid Stawiarz/Getty Images for DKMS Gala"
+                "src": "https://arxiv.org/html/2611.07423v1/fig_architecture.svg",
+                "cap": "그림 1: ProCraft 아키텍처."
               },
               {
                 "t": "p",
-                "x": "Nile Rodgers는 2020년 Rebecca Ferguson과 함께한 자선 협업곡 “The Christmas Song”의 새 버전 뮤직비디오 일부를 최근 공개하면서 AI를 썼다고 자랑스럽게 밝혔다. 팬들이 이를 문제 삼자 그는 목요일 기술 사용을 옹호했다."
+                "x": "사전 학습된 음악 임베딩에 표현을 정렬해 편집 범위 밖의 내용은 그대로 지키며 모든 디코더 층의 게이트 교차 어텐션으로 생성 결과를 지시에 묶어 둔다. 연구진은 복합 요청을 학습시키려고 On-the-fly Editing-pair Synthesis를 도입했다."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.07423v1/fig_data_pipeline.svg",
+                "cap": "그림 2: On-the-fly editing-pair synthesis."
               },
               {
                 "t": "p",
-                "x": "Rodgers는 병상에 있거나 아픈 아이들에게 “연말 시즌에 작은 #joy”를 주려고 이 곡을 만들었다고 했다. 생성형 AI 사용을 지적하는 댓글에는 이렇게 답했다. “우리가 모든 걸 만들었다. 무드 보드, 스토리보드를 만들고 영화를 만들 때와 똑같은 방식으로 작업했다. AI는 우리가 시킨 대로 했고, 화면에서 보게 될 모든 순간을 우리가 공들여 만들었다… 전통적인 영화였다면 약 $100,000가 들었을 것이다.”"
-              },
-              {
-                "t": "p",
-                "x": "또 다른 댓글에는 “삶을 편하게 해 준다는 이유로 늘 AI를 쓰면서 반AI라고 말하는 건 다소 위선적”이라고 받아쳤다. Rodgers의 AI 지지는 처음이 아니다. 2024년 Euronews에는 AI 보컬로 남의 사운드를 베끼는 건 “끔찍하다”고 하면서도, AI로 자신을 예술적으로 표현하는 건 “환상적”이라고 말했다."
+                "x": "MoisesDB와 Slakh에서 트랙 제거·추출·노이즈 제거 복합 지시를 처리할 때 ProCraft는 자유 텍스트 기반 편집기 네 종을 앞섰다. 청취자 16명이 참여한 사용자 연구에서는 제거와 노이즈 제거에서 가장 높은 평가를 받았다. 추출과 악기 전환에서는 16배 큰 모델과 대등했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Nile Rodgers\nクリスマス動画のAIを擁護",
-          "body": "ファンの反発にNile Rodgersは全てチームが作りAIは指示に従っただけだと述べた。",
-          "mini_headline": "Nile RodgersがAI動画を擁護",
+          "headline": "ProCraft、テキスト\n指示で音楽を編集",
+          "body": "0.5B パラメータのProCraftは、30秒の音楽を自由な指示で丸ごと編集する。",
+          "mini_headline": "ProCraft、テキストでミックス編集",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "音楽制作では通常、複数の編集作業が必要で、それぞれに専用ツールと専門知識が求められる。ProCraftは0.5B パラメータの軽量な自己回帰型コーデック言語モデルで、複合的な要求を含む自由形式の指示から30秒の音楽抜粋をエンドツーエンドで編集する。トラック除去から伴奏生成まで、八つの楽器にわたる七つの操作に対応する。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/11/NileRodgers-1.jpg?w=1581&h=1054&crop=1",
-                "cap": "DKMS Gala 2026で演奏するNile Rodgers。Astrid Stawiarz/Getty Images for DKMS Gala"
+                "src": "https://arxiv.org/html/2611.07423v1/fig_architecture.svg",
+                "cap": "図1：ProCraftのアーキテクチャ。"
               },
               {
                 "t": "p",
-                "x": "Nile Rodgersは最近、Rebecca Fergusonとの2020年のチャリティー共作「The Christmas Song」の新バージョンに向けた近日公開の映像の一部を公開し、AIを使ったと誇らしげに明かしたが、ファンはこれに反発した。木曜日、彼はこの技術の使用を擁護した。"
+                "x": "事前学習済み音楽埋め込みとの表現アライメントにより編集対象外の内容を保ち、すべてのデコーダー層に置いたゲート付きクロスアテンションが生成を指示に結び付ける。複合的な要求で学習させるため、著者らはOn-the-fly Editing-pair Synthesisを導入した。"
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.07423v1/fig_data_pipeline.svg",
+                "cap": "図2：On-the-fly editing-pair synthesis。"
               },
               {
                 "t": "p",
-                "x": "Rodgersは、寝たきりの子どもや病気の子どもたちに「ホリデーシーズンにささやかな#joy」を届けるためにこの曲を制作したと述べた。生成AIの使用をコメント欄で批判されると、こう返した。「すべて私たちが作った。ムードボードもストーリーボードも作り、映画と同じやり方で進めた。AIは私たちの指示どおりに動き、画面で目にするすべての瞬間を私たちが丹念に作り上げた…従来の映画なら約$100,000かかっていただろう」"
-              },
-              {
-                "t": "p",
-                "x": "別のコメント投稿者には「生活が便利になるからといって常にAIを使っているのに、反AIを名乗るのはいささか偽善的だ」と語った。Rodgersは以前からAIへの支持を示しており、2024年にはEuronewsに対し、AIボーカルで他人のサウンドを真似るのは「ひどい」が、AIを使って芸術的に自己表現するのは「素晴らしい」と話していた。"
+                "x": "ProCraftは、MoisesDBとSlakhにおけるトラック除去、抽出、ノイズ除去の複合指示で、自由テキスト型の編集モデル四つを上回った。ユーザー調査（聴取者16人）では除去とノイズ除去で最高評価を得て、抽出と楽器変換では16倍大きいモデルと同等だった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nile Rodgers\n为圣诞慈善视频AI辩护",
-          "body": "面对粉丝反弹，Nile Rodgers称慈善视频全由团队创作，AI只是照指令行事。",
-          "mini_headline": "Nile Rodgers为AI视频辩护",
+          "headline": "ProCraft用纯文本\n指令编辑音乐",
+          "body": "ProCraft是0.5B 参数的编解码器语言模型，可按自由指令端到端编辑30秒音乐。",
+          "mini_headline": "ProCraft用文字编辑混音",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "音乐制作通常涉及多种编辑操作，每种都需要专门的工具和专业知识。ProCraft是一个0.5B 参数的轻量级自回归编解码器语言模型，可根据自由形式的指令（包括复合请求）端到端编辑30秒的音乐片段。它支持八种乐器上的七种操作，涵盖从音轨移除到伴奏生成。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/11/NileRodgers-1.jpg?w=1581&h=1054&crop=1",
-                "cap": "Nile Rodgers在DKMS Gala 2026上演出。Astrid Stawiarz/Getty Images for DKMS Gala"
+                "src": "https://arxiv.org/html/2611.07423v1/fig_architecture.svg",
+                "cap": "图1：ProCraft的架构。"
               },
               {
                 "t": "p",
-                "x": "Nile Rodgers近日发布了一段即将推出的视频片段，该视频为他2020年与Rebecca Ferguson合作的慈善歌曲“The Christmas Song”的新版本而作。他自豪地透露视频使用了AI，引发粉丝不满。周四，他为自己使用这项技术进行了辩护。"
+                "x": "通过与预训练音乐嵌入进行表征对齐，模型能保留编辑范围之外的内容；每个解码器层中的门控交叉注意力则让生成始终贴合指令。为在复合请求上训练，作者提出了On-the-fly Editing-pair Synthesis。"
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.07423v1/fig_data_pipeline.svg",
+                "cap": "图2：On-the-fly editing-pair synthesis。"
               },
               {
                 "t": "p",
-                "x": "Rodgers表示，他制作这首歌是为了给卧床和患病的孩子们“在节日期间带来一点#joy”。当评论者指责他使用生成式AI时，他回应称：“一切都是我们创作的。情绪板、故事板，我们完全按照拍电影的方式来做。AI按我们的指示行事，你在屏幕上看到的每一秒都是我们精心打造的……如果这是一部传统电影，大约要花$100,000。”"
-              },
-              {
-                "t": "p",
-                "x": "他对另一位评论者说：“一边因为AI让生活更方便而一直在用它，一边又说自己反AI，这多少有些虚伪。”Rodgers此前就表达过对AI的支持，他在2024年对Euronews表示，用AI人声模仿他人的声音“很可怕”，但用AI进行艺术表达则“很棒”。"
+                "x": "在MoisesDB和Slakh上的音轨移除、提取和降噪复合指令中，ProCraft优于四款自由文本编辑器。在一项用户研究（16名听众）中，它在移除和降噪上获评最高，在提取和乐器转换上与一个大16倍的模型相当。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nile Rodgers defiende la AI\nen un video benéfico navideño",
-          "body": "Tras críticas de sus fans, Nile Rodgers dijo que su equipo creó todo en el video benéfico y que la AI solo obedeció.",
-          "mini_headline": "Nile Rodgers defiende su video con AI",
+          "headline": "ProCraft edita música a partir\nde instrucciones en texto",
+          "body": "ProCraft, un modelo de lenguaje de códec de 0.5B parámetros, edita música de 30 segundos con instrucciones libres.",
+          "mini_headline": "ProCraft edita mezclas con texto",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "La producción musical suele implicar varias operaciones de edición, cada una con herramientas y conocimientos especializados. ProCraft es un modelo de lenguaje de códec autorregresivo y ligero de 0.5B parámetros que edita de principio a fin fragmentos musicales de 30 s a partir de instrucciones libres, incluidas peticiones compuestas. Admite siete operaciones en ocho instrumentos, desde la eliminación de pistas hasta la generación de acompañamiento."
+              },
+              {
                 "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/11/NileRodgers-1.jpg?w=1581&h=1054&crop=1",
-                "cap": "Nile Rodgers actúa durante la DKMS Gala 2026. Astrid Stawiarz/Getty Images for DKMS Gala"
+                "src": "https://arxiv.org/html/2611.07423v1/fig_architecture.svg",
+                "cap": "Figura 1: Arquitectura de ProCraft."
               },
               {
                 "t": "p",
-                "x": "Nile Rodgers compartió hace poco un fragmento de su próximo video para una nueva versión de “The Christmas Song”, su colaboración benéfica de 2020 con Rebecca Ferguson, y reveló con orgullo que se hizo con AI, algo que molestó a sus fans. El jueves defendió su uso de la tecnología."
+                "x": "La alineación de representaciones con embeddings musicales preentrenados conserva el contenido fuera de la edición, y la atención cruzada con compuerta en cada capa del decodificador mantiene la generación ligada a la instrucción. Para entrenar con peticiones compuestas, los autores presentan On-the-fly Editing-pair Synthesis."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.07423v1/fig_data_pipeline.svg",
+                "cap": "Figura 2: On-the-fly editing-pair synthesis."
               },
               {
                 "t": "p",
-                "x": "Rodgers dijo que produjo la canción para dar a niños enfermos y postrados en cama “un poco de #joy durante las fiestas”. Cuando algunos comentaristas le reprocharon el uso de AI generativa, respondió: “Lo creamos todo. Moodboards, storyboards, y lo hicimos igual que haríamos una película. La AI hizo lo que le dijimos y creamos minuciosamente cada segundo que verás en pantalla… Si fuera una película tradicional, habría costado unos $100,000”."
-              },
-              {
-                "t": "p",
-                "x": "A otro comentarista le dijo que “es algo hipócrita decir que estás en contra de la AI y usarla todo el tiempo porque te hace la vida más cómoda”. Rodgers ya había mostrado su apoyo a la AI: en 2024 dijo a Euronews que copiar el sonido de otra persona con voces de AI es “horrible”, pero que usar AI para expresarse artísticamente es “fantástico”."
+                "x": "ProCraft supera a cuatro editores de texto libre en instrucciones compuestas de eliminación de pistas, extracción y reducción de ruido en MoisesDB y Slakh. En un estudio con usuarios (16 oyentes), obtuvo la mejor valoración en eliminación y reducción de ruido, y quedó a la par de un modelo 16 veces mayor en extracción y transferencia de instrumentos."
               }
             ]
           }
@@ -1181,109 +1071,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Nile Rodgers,\n자선 캐럴 영상 AI 옹호",
-          "body": "팬 반발에 Nile Rodgers는 팀이 다 만들고 AI는 지시만 따랐다고 했다.",
-          "mini_headline": "Nile Rodgers, AI 영상 옹호",
+          "headline": "ProCraft, 텍스트\n지시만으로 음악 편집",
+          "body": "0.5B 코덱 언어 모델 ProCraft는 30초 음악을 자유 지시로 편집한다.",
+          "mini_headline": "ProCraft, 텍스트로 믹스 편집",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "음악 제작에는 보통 여러 편집 작업이 따르고, 작업마다 전문 도구와 전문 지식이 필요하다. ProCraft는 0.5B 파라미터 규모의 가벼운 자기회귀 코덱 언어 모델로, 복합 요청을 포함한 자유 형식 지시에 따라 30초 길이의 음악 발췌를 처음부터 끝까지 편집한다. 트랙 제거부터 반주 생성까지 여덟 가지 악기에 걸쳐 일곱 가지 작업을 지원한다."
+              },
+              {
                 "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/11/NileRodgers-1.jpg?w=1581&h=1054&crop=1",
-                "cap": "DKMS Gala 2026에서 공연하는 Nile Rodgers. Astrid Stawiarz/Getty Images for DKMS Gala"
+                "src": "https://arxiv.org/html/2611.07423v1/fig_architecture.svg",
+                "cap": "그림 1: ProCraft의 아키텍처."
               },
               {
                 "t": "p",
-                "x": "Nile Rodgers는 최근 Rebecca Ferguson과 2020년에 함께한 자선 협업곡 “The Christmas Song”의 새 버전을 위한 뮤직비디오 일부를 공개하며 AI를 썼다고 자랑스럽게 밝혔고, 팬들은 이를 문제 삼았다. 그는 목요일 이 기술을 쓴 것을 옹호했다."
+                "x": "사전 학습된 음악 임베딩과의 표현 정렬로 편집 범위 밖의 내용을 보존하고, 모든 디코더 층의 게이트 교차 어텐션이 생성 결과를 지시에 묶어 둔다. 복합 요청을 학습시키기 위해 연구진은 On-the-fly Editing-pair Synthesis를 도입했다."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.07423v1/fig_data_pipeline.svg",
+                "cap": "그림 2: On-the-fly editing-pair synthesis."
               },
               {
                 "t": "p",
-                "x": "Rodgers는 병상에 누워 있거나 아픈 아이들에게 “연말 시즌에 작은 #joy”를 주려고 이 곡을 제작했다고 말했다. 댓글 작성자들이 생성형 AI 사용을 문제 삼자 그는 이렇게 답했다. “우리가 모든 걸 만들었다. 무드 보드, 스토리보드를 만들고 영화를 만들 때와 똑같은 방식으로 작업했다. AI는 우리가 시킨 대로 했고, 화면에서 보게 될 모든 순간을 우리가 공들여 만들었다… 전통적인 영화였다면 약 $100,000가 들었을 것이다.”"
-              },
-              {
-                "t": "p",
-                "x": "그는 또 다른 댓글 작성자에게 “삶을 편하게 해 준다는 이유로 늘 AI를 쓰면서 반AI라고 말하는 건 다소 위선적”이라고 했다. Rodgers는 이전에도 AI 지지 입장을 보였다. 2024년 Euronews에는 AI 보컬로 다른 사람의 사운드를 베끼는 것은 “끔찍하다”면서도, AI로 자신을 예술적으로 표현하는 것은 “환상적”이라고 말했다."
+                "x": "ProCraft는 MoisesDB와 Slakh에서 트랙 제거, 추출, 노이즈 제거에 관한 복합 지시를 처리할 때 자유 텍스트 기반 편집기 네 종을 앞섰다. 사용자 연구(청취자 16명)에서는 제거와 노이즈 제거에서 가장 높은 평가를 받았고, 추출과 악기 전환에서는 16배 큰 모델과 대등했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Nile Rodgers\nクリスマス動画のAIを擁護",
-          "body": "ファンの反発にNile Rodgersは全てチームが作りAIは指示に従っただけだと述べた。",
-          "mini_headline": "Nile RodgersがAI動画を擁護",
+          "headline": "ProCraft、テキスト\n指示で音楽を編集",
+          "body": "0.5B パラメータのProCraftは、30秒の音楽を自由な指示で丸ごと編集する。",
+          "mini_headline": "ProCraft、テキストでミックス編集",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "音楽制作では通常、複数の編集作業が必要で、それぞれに専用ツールと専門知識が求められる。ProCraftは0.5B パラメータの軽量な自己回帰型コーデック言語モデルで、複合的な要求を含む自由形式の指示から30秒の音楽抜粋をエンドツーエンドで編集する。トラック除去から伴奏生成まで、八つの楽器にわたる七つの操作に対応する。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/11/NileRodgers-1.jpg?w=1581&h=1054&crop=1",
-                "cap": "DKMS Gala 2026で演奏するNile Rodgers。Astrid Stawiarz/Getty Images for DKMS Gala"
+                "src": "https://arxiv.org/html/2611.07423v1/fig_architecture.svg",
+                "cap": "図1：ProCraftのアーキテクチャ。"
               },
               {
                 "t": "p",
-                "x": "Nile Rodgersは最近、Rebecca Fergusonとの2020年のチャリティー共作「The Christmas Song」の新バージョンに向けた近日公開の映像の一部を公開し、AIを使ったと誇らしげに明かしたが、ファンはこれに反発した。木曜日、彼はこの技術の使用を擁護した。"
+                "x": "事前学習済み音楽埋め込みとの表現アライメントにより編集対象外の内容を保ち、すべてのデコーダー層に置いたゲート付きクロスアテンションが生成を指示に結び付ける。複合的な要求で学習させるため、著者らはOn-the-fly Editing-pair Synthesisを導入した。"
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.07423v1/fig_data_pipeline.svg",
+                "cap": "図2：On-the-fly editing-pair synthesis。"
               },
               {
                 "t": "p",
-                "x": "Rodgersは、寝たきりの子どもや病気の子どもたちに「ホリデーシーズンにささやかな#joy」を届けるためにこの曲を制作したと述べた。生成AIの使用をコメント欄で批判されると、こう返した。「すべて私たちが作った。ムードボードもストーリーボードも作り、映画と同じやり方で進めた。AIは私たちの指示どおりに動き、画面で目にするすべての瞬間を私たちが丹念に作り上げた…従来の映画なら約$100,000かかっていただろう」"
-              },
-              {
-                "t": "p",
-                "x": "別のコメント投稿者には「生活が便利になるからといって常にAIを使っているのに、反AIを名乗るのはいささか偽善的だ」と語った。Rodgersは以前からAIへの支持を示しており、2024年にはEuronewsに対し、AIボーカルで他人のサウンドを真似るのは「ひどい」が、AIを使って芸術的に自己表現するのは「素晴らしい」と話していた。"
+                "x": "ProCraftは、MoisesDBとSlakhにおけるトラック除去、抽出、ノイズ除去の複合指示で、自由テキスト型の編集モデル四つを上回った。ユーザー調査（聴取者16人）では除去とノイズ除去で最高評価を得て、抽出と楽器変換では16倍大きいモデルと同等だった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nile Rodgers\n为圣诞慈善视频AI辩护",
-          "body": "面对粉丝反弹，Nile Rodgers称慈善视频全由团队创作，AI只是照指令行事。",
-          "mini_headline": "Nile Rodgers为AI视频辩护",
+          "headline": "ProCraft用纯文本\n指令编辑音乐",
+          "body": "ProCraft是0.5B 参数的编解码器语言模型，可按自由指令端到端编辑30秒音乐。",
+          "mini_headline": "ProCraft用文字编辑混音",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "音乐制作通常涉及多种编辑操作，每种都需要专门的工具和专业知识。ProCraft是一个0.5B 参数的轻量级自回归编解码器语言模型，可根据自由形式的指令（包括复合请求）端到端编辑30秒的音乐片段。它支持八种乐器上的七种操作，涵盖从音轨移除到伴奏生成。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/11/NileRodgers-1.jpg?w=1581&h=1054&crop=1",
-                "cap": "Nile Rodgers在DKMS Gala 2026上演出。Astrid Stawiarz/Getty Images for DKMS Gala"
+                "src": "https://arxiv.org/html/2611.07423v1/fig_architecture.svg",
+                "cap": "图1：ProCraft的架构。"
               },
               {
                 "t": "p",
-                "x": "Nile Rodgers近日发布了一段即将推出的视频片段，该视频为他2020年与Rebecca Ferguson合作的慈善歌曲“The Christmas Song”的新版本而作。他自豪地透露视频使用了AI，引发粉丝不满。周四，他为自己使用这项技术进行了辩护。"
+                "x": "通过与预训练音乐嵌入进行表征对齐，模型能保留编辑范围之外的内容；每个解码器层中的门控交叉注意力则让生成始终贴合指令。为在复合请求上训练，作者提出了On-the-fly Editing-pair Synthesis。"
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.07423v1/fig_data_pipeline.svg",
+                "cap": "图2：On-the-fly editing-pair synthesis。"
               },
               {
                 "t": "p",
-                "x": "Rodgers表示，他制作这首歌是为了给卧床和患病的孩子们“在节日期间带来一点#joy”。当评论者指责他使用生成式AI时，他回应称：“一切都是我们创作的。情绪板、故事板，我们完全按照拍电影的方式来做。AI按我们的指示行事，你在屏幕上看到的每一秒都是我们精心打造的……如果这是一部传统电影，大约要花$100,000。”"
-              },
-              {
-                "t": "p",
-                "x": "他对另一位评论者说：“一边因为AI让生活更方便而一直在用它，一边又说自己反AI，这多少有些虚伪。”Rodgers此前就表达过对AI的支持，他在2024年对Euronews表示，用AI人声模仿他人的声音“很可怕”，但用AI进行艺术表达则“很棒”。"
+                "x": "在MoisesDB和Slakh上的音轨移除、提取和降噪复合指令中，ProCraft优于四款自由文本编辑器。在一项用户研究（16名听众）中，它在移除和降噪上获评最高，在提取和乐器转换上与一个大16倍的模型相当。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nile Rodgers defiende la AI\nen un video benéfico navideño",
-          "body": "Tras críticas de sus fans, Nile Rodgers dijo que su equipo creó todo en el video benéfico y que la AI solo obedeció.",
-          "mini_headline": "Nile Rodgers defiende su video con AI",
+          "headline": "ProCraft edita música a partir\nde instrucciones en texto",
+          "body": "ProCraft, un modelo de lenguaje de códec de 0.5B parámetros, edita música de 30 segundos con instrucciones libres.",
+          "mini_headline": "ProCraft edita mezclas con texto",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "La producción musical suele implicar varias operaciones de edición, cada una con herramientas y conocimientos especializados. ProCraft es un modelo de lenguaje de códec autorregresivo y ligero de 0.5B parámetros que edita de principio a fin fragmentos musicales de 30 s a partir de instrucciones libres, incluidas peticiones compuestas. Admite siete operaciones en ocho instrumentos, desde la eliminación de pistas hasta la generación de acompañamiento."
+              },
+              {
                 "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/11/NileRodgers-1.jpg?w=1581&h=1054&crop=1",
-                "cap": "Nile Rodgers actúa durante la DKMS Gala 2026. Astrid Stawiarz/Getty Images for DKMS Gala"
+                "src": "https://arxiv.org/html/2611.07423v1/fig_architecture.svg",
+                "cap": "Figura 1: Arquitectura de ProCraft."
               },
               {
                 "t": "p",
-                "x": "Nile Rodgers compartió hace poco un fragmento de su próximo video para una nueva versión de “The Christmas Song”, su colaboración benéfica de 2020 con Rebecca Ferguson, y reveló con orgullo que se hizo con AI, algo que molestó a sus fans. El jueves defendió su uso de la tecnología."
+                "x": "La alineación de representaciones con embeddings musicales preentrenados conserva el contenido fuera de la edición, y la atención cruzada con compuerta en cada capa del decodificador mantiene la generación ligada a la instrucción. Para entrenar con peticiones compuestas, los autores presentan On-the-fly Editing-pair Synthesis."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.07423v1/fig_data_pipeline.svg",
+                "cap": "Figura 2: On-the-fly editing-pair synthesis."
               },
               {
                 "t": "p",
-                "x": "Rodgers dijo que produjo la canción para dar a niños enfermos y postrados en cama “un poco de #joy durante las fiestas”. Cuando algunos comentaristas le reprocharon el uso de AI generativa, respondió: “Lo creamos todo. Moodboards, storyboards, y lo hicimos igual que haríamos una película. La AI hizo lo que le dijimos y creamos minuciosamente cada segundo que verás en pantalla… Si fuera una película tradicional, habría costado unos $100,000”."
-              },
-              {
-                "t": "p",
-                "x": "A otro comentarista le dijo que “es algo hipócrita decir que estás en contra de la AI y usarla todo el tiempo porque te hace la vida más cómoda”. Rodgers ya había mostrado su apoyo a la AI: en 2024 dijo a Euronews que copiar el sonido de otra persona con voces de AI es “horrible”, pero que usar AI para expresarse artísticamente es “fantástico”."
+                "x": "ProCraft supera a cuatro editores de texto libre en instrucciones compuestas de eliminación de pistas, extracción y reducción de ruido en MoisesDB y Slakh. En un estudio con usuarios (16 oyentes), obtuvo la mejor valoración en eliminación y reducción de ruido, y quedó a la par de un modelo 16 veces mayor en extracción y transferencia de instrumentos."
               }
             ]
           }
@@ -1291,15 +1201,15 @@
       }
     },
     {
-      "id": "impala-cop31-ai-sustainability",
+      "id": "a2o-lite-neon-ai-memes",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "IMPALA, COP31\n앞서 AI·지속가능성 촉구",
-      "body": "IMPALA는 COP31에 앞서 음악계와 정부에 AI·지속가능성 협력을 촉구했다.",
-      "mini_headline": "IMPALA, AI 지속가능성 행동 촉구",
+      "headline": "AI 밈, 재벌 총수를\nK-pop Neon 춤판에",
+      "body": "A2O Lite Neon을 띄운 AI-generated 밈에 딥페이크 우려도 인다.",
+      "mini_headline": "AI 밈이 띄운 K-pop Neon",
       "tool": "Music",
-      "source": "Music Week",
-      "url": "https://www.musicweek.com/labels/read/with-artificial-intelligence-on-cop31-agenda-impala-calls-for-action-on-ai-and-sustainability/095418",
+      "source": "Korea JoongAng Daily",
+      "url": "https://www.koreajoongangdaily.com/entertainment/ai-meme-era-hits-kpop-and-even-tycoons-are-dancing-to-neon/12958219",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -1307,179 +1217,185 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.musicweek.com/cimages/ffe40ef230bdd2cad086506f9d5bf1d4.png",
-            "cap": "IMPALA"
+            "src": "https://image.koreajoongangdaily.com/12958354.webp?imageId=12958354&width=960&height=548&format=jpg",
+            "cap": "AI-generated 이미지에서 SK Group Chey Tae-won 회장(왼쪽)과 Samsung Electronics Lee Jae-yong 회장이 걸그룹 A2O Lite 신곡 “Neon”에 맞춰 춤춘다."
           },
           {
             "t": "p",
-            "x": "튀르키예에서 열리는 COP31(9-20 Nov)을 앞두고 IMPALA가 음악계와 각국 정부에 협력을 촉구했다. IMPALA 디지털 음악 계획에 담긴 AI와 그 밖의 지속가능성 사안이 대상이다."
+            "x": "갓 데뷔한 걸그룹 A2O Lite의 “Neon”이 차트를 휩쓰는 사이 또 다른 것이 화제가 됐다. 멤버 얼굴을 SK Group Chey Tae-won 회장, Samsung Electronics Lee Jae-yong 회장 같은 공인의 얼굴로 바꾼 AI-generated 안무 패러디 영상이다. 청취자들은 후렴이 한국어 ‘미혼’과 ‘이혼’처럼 들린다고 짚었다."
           },
           {
             "t": "p",
-            "x": "인공지능의 기후 영향이 COP31 의제에 오른 가운데, IMPALA는 계획의 우선순위 No.5인 ‘기후 영향을 줄이고 집단 혁신을 강화하기’를 앞세운다. 권고안은 AI 생성 콘텐츠 표시, 대량 업로드 중단, AI-related 사기 강력 대응, 생성형 AI 콘텐츠 호스팅의 탄소 영향을 보여줄 보고 지표를 제안한다."
+            "x": "직접 패러디 영상을 만들어 보니 삼 분이 채 안 걸렸고 돈도 들지 않았다. AI 영상 플랫폼 Higgsfield에 뮤직비디오 오프닝 장면을 담은 기성 템플릿이 있어서 15초짜리 패러디가 몇 분 만에 완성됐다."
+          },
+          {
+            "t": "img",
+            "src": "https://image.koreajoongangdaily.com/12958352.webp?imageId=12958352&width=960&height=740&format=jpg",
+            "cap": "AI-generated 영상 속 고양이들이 걸그룹 A2O Lite 신곡 “Neon”에 맞춰 춤춘다."
           },
           {
             "t": "p",
-            "x": "성명은 “AI-generated 콘텐츠와 사기를 통제하는 일도 필요하며, 여기서 AI는 모니터링을 돕는 데 유용하다”고 밝혔다. DSPs에는 저장된 트랙당·재생당 배출량 같은 지표를 써서 함께, 투명하게 영향을 줄이라고 요구했다."
-          },
-          {
-            "t": "p",
-            "x": "IMPALA 집행위원장 Helen Smith는 “올해 COP가 AI에 초점을 맞춘 것을 환영한다. 사무실과 기타 기능의 에너지 소비를 측정하고 줄이는 것과 같은 방식으로, 우리 모두 모든 산업에서 AI 적용의 영향을 측정해야 한다”고 말했다."
+            "x": "이런 영상은 대부분, 어쩌면 전부가 얼굴 주인의 동의 없이 만들어졌다. Lawfirm Taeryun의 Hwang Jin-seop 변호사는 “‘패러디’라는 이름은 방패가 될 수는 있어도 면죄부는 아니다”라고 말했다. Blackpink Jennie와 Girls' Generation Yoona의 소속사는 딥페이크 영상에 무관용 원칙으로 법적 대응하겠다고 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ahead of COP31, IMPALA urges\naction on AI and sustainability",
-          "body": "IMPALA called on the music sector and governments to work together on AI and sustainability before COP31.",
-          "mini_headline": "IMPALA calls for\nAI sustainability action",
+          "headline": "AI memes put tycoons\nin K-pop's Neon dance",
+          "body": "AI-generated meme videos made A2O Lite's Neon choreography go viral, but also raise likeness and deepfake concerns.",
+          "mini_headline": "AI memes drive K-pop's Neon",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicweek.com/cimages/ffe40ef230bdd2cad086506f9d5bf1d4.png",
-                "cap": "IMPALA"
+                "src": "https://image.koreajoongangdaily.com/12958354.webp?imageId=12958354&width=960&height=548&format=jpg",
+                "cap": "AI-generated images of SK Group Chairman Chey Tae-won, left, and Samsung Electronics Executive Chairman Lee Jae-yong dance to girl group A2O Lite's new track \"Neon.\""
               },
               {
                 "t": "p",
-                "x": "Ahead of COP31 (9-20 Nov) in Turkey, IMPALA has called on the music sector and governments to collaborate on AI and other sustainability-related aspects in IMPALA’s digital music plan."
+                "x": "When the newly debuted girl group A2O Lite’s “Neon” rocked the charts, something else went viral — AI-generated parody videos of the song’s choreography with the members' faces swapped in with public figures, including SK Group Chairman Chey Tae-won and Samsung Electronics Executive Chairman Lee Jae-yong. Listeners had pointed out that the chorus sounds like Korean words for “unmarried” and “divorce.”"
               },
               {
                 "t": "p",
-                "x": "With the climate impact of artificial intelligence on the agenda at COP31, IMPALA is highlighting priority No.5 of its plan: reduce climate impact and strengthen collective innovation. Recommendations include labelling AI generated content, stopping mass uploading, taking tough action on AI-related fraud and proposing reporting metrics that would illustrate the carbon impact of hosting generative AI content."
+                "x": "An attempt to make a parody video took less than three minutes — and cost nothing. The AI video platform Higgsfield offered a ready-made template with footage from the music video’s opening sequence; within minutes it produced a 15-second parody."
+              },
+              {
+                "t": "img",
+                "src": "https://image.koreajoongangdaily.com/12958352.webp?imageId=12958352&width=960&height=740&format=jpg",
+                "cap": "An AI-generated video features cats dancing to girl group A2O Lite's new song \"Neon.\""
               },
               {
                 "t": "p",
-                "x": "“It also requires controlling AI-generated content and fraud, and here AI is useful to help monitor,” said a statement, urging DSPs to reduce their impact collaboratively and transparently, with metrics such as emissions per track stored and per play."
-              },
-              {
-                "t": "p",
-                "x": "Helen Smith, IMPALA executive chair, said: “We welcome that this year's COP focuses on AI. We all need to measure the impact of applying AI in all of our industries, in the same way as we measure and reduce energy consumption for our offices and other functions.”"
+                "x": "Most, if not all, of the videos were created without the consent of the people whose faces were used. \"The name of 'parody' can serve as a shield, but not as immunity,\" attorney Hwang Jin-seop of Lawfirm Taeryun said. Agencies of Blackpink's Jennie and Girls' Generation's Yoona have announced legal measures with zero tolerance over deepfake videos."
               }
             ]
           }
         },
         "ko": {
-          "headline": "IMPALA, COP31\n앞서 AI·지속가능성 촉구",
-          "body": "IMPALA는 COP31에 앞서 음악계와 정부에 AI·지속가능성 협력을 촉구했다.",
-          "mini_headline": "IMPALA, AI 지속가능성 행동 촉구",
+          "headline": "AI 밈, 재벌 총수를\nK-pop Neon 춤판에",
+          "body": "A2O Lite Neon을 띄운 AI-generated 밈에 딥페이크 우려도 인다.",
+          "mini_headline": "AI 밈이 띄운 K-pop Neon",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicweek.com/cimages/ffe40ef230bdd2cad086506f9d5bf1d4.png",
-                "cap": "IMPALA"
+                "src": "https://image.koreajoongangdaily.com/12958354.webp?imageId=12958354&width=960&height=548&format=jpg",
+                "cap": "AI-generated 이미지에서 SK Group Chey Tae-won 회장(왼쪽)과 Samsung Electronics Lee Jae-yong 회장이 걸그룹 A2O Lite 신곡 “Neon”에 맞춰 춤춘다."
               },
               {
                 "t": "p",
-                "x": "튀르키예에서 열리는 COP31(9-20 Nov)을 앞두고 IMPALA가 음악계와 각국 정부에 협력을 촉구했다. IMPALA 디지털 음악 계획에 담긴 AI와 그 밖의 지속가능성 사안이 대상이다."
+                "x": "갓 데뷔한 걸그룹 A2O Lite의 “Neon”이 차트를 휩쓰는 사이 또 다른 것이 화제가 됐다. 멤버 얼굴을 SK Group Chey Tae-won 회장, Samsung Electronics Lee Jae-yong 회장 같은 공인의 얼굴로 바꾼 AI-generated 안무 패러디 영상이다. 청취자들은 후렴이 한국어 ‘미혼’과 ‘이혼’처럼 들린다고 짚었다."
               },
               {
                 "t": "p",
-                "x": "인공지능의 기후 영향이 COP31 의제에 오른 가운데, IMPALA는 계획의 우선순위 No.5인 ‘기후 영향을 줄이고 집단 혁신을 강화하기’를 앞세운다. 권고안은 AI 생성 콘텐츠 표시, 대량 업로드 중단, AI-related 사기 강력 대응, 생성형 AI 콘텐츠 호스팅의 탄소 영향을 보여줄 보고 지표를 제안한다."
+                "x": "직접 패러디 영상을 만들어 보니 삼 분이 채 안 걸렸고 돈도 들지 않았다. AI 영상 플랫폼 Higgsfield에 뮤직비디오 오프닝 장면을 담은 기성 템플릿이 있어서 15초짜리 패러디가 몇 분 만에 완성됐다."
+              },
+              {
+                "t": "img",
+                "src": "https://image.koreajoongangdaily.com/12958352.webp?imageId=12958352&width=960&height=740&format=jpg",
+                "cap": "AI-generated 영상 속 고양이들이 걸그룹 A2O Lite 신곡 “Neon”에 맞춰 춤춘다."
               },
               {
                 "t": "p",
-                "x": "성명은 “AI-generated 콘텐츠와 사기를 통제하는 일도 필요하며, 여기서 AI는 모니터링을 돕는 데 유용하다”고 밝혔다. DSPs에는 저장된 트랙당·재생당 배출량 같은 지표를 써서 함께, 투명하게 영향을 줄이라고 요구했다."
-              },
-              {
-                "t": "p",
-                "x": "IMPALA 집행위원장 Helen Smith는 “올해 COP가 AI에 초점을 맞춘 것을 환영한다. 사무실과 기타 기능의 에너지 소비를 측정하고 줄이는 것과 같은 방식으로, 우리 모두 모든 산업에서 AI 적용의 영향을 측정해야 한다”고 말했다."
+                "x": "이런 영상은 대부분, 어쩌면 전부가 얼굴 주인의 동의 없이 만들어졌다. Lawfirm Taeryun의 Hwang Jin-seop 변호사는 “‘패러디’라는 이름은 방패가 될 수는 있어도 면죄부는 아니다”라고 말했다. Blackpink Jennie와 Girls' Generation Yoona의 소속사는 딥페이크 영상에 무관용 원칙으로 법적 대응하겠다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "COP31前にIMPALA\nAIと持続可能性で行動要請",
-          "body": "IMPALAはCOP31を前に、音楽業界と各国政府にAIと持続可能性での協働を求めた。",
-          "mini_headline": "IMPALA、AIと持続可能性で行動要請",
+          "headline": "AIミームで財閥トップが\nK-pop「Neon」を踊る",
+          "body": "AI-generatedミームでA2O LiteのNeonが拡散し、肖像権の懸念も生んだ。",
+          "mini_headline": "AIミームがK-pop「Neon」を後押し",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicweek.com/cimages/ffe40ef230bdd2cad086506f9d5bf1d4.png",
-                "cap": "IMPALA"
+                "src": "https://image.koreajoongangdaily.com/12958354.webp?imageId=12958354&width=960&height=548&format=jpg",
+                "cap": "AI-generatedの画像で、ガールズグループA2O Liteの新曲「Neon」に合わせて踊るSK GroupのChey Tae-won会長（左）とSamsung ElectronicsのLee Jae-yong会長。"
               },
               {
                 "t": "p",
-                "x": "トルコで開かれるCOP31（9-20 Nov）を前に、IMPALAは音楽業界と各国政府に対し、IMPALAのデジタル音楽計画に盛り込まれたAIやその他の持続可能性に関わる分野で協力するよう呼びかけた。"
+                "x": "デビューしたばかりのガールズグループA2O Liteの「Neon」がチャートを席巻すると、別のものも話題になった。メンバーの顔をSK GroupのChey Tae-won会長やSamsung ElectronicsのLee Jae-yong会長ら著名人の顔に差し替えた、AI-generatedの振り付けパロディ動画だ。リスナーからは、サビが韓国語の「未婚」と「離婚」に聞こえるとの指摘が出ていた。"
               },
               {
                 "t": "p",
-                "x": "人工知能が気候に与える影響がCOP31の議題に上るなか、IMPALAは計画の優先事項No.5「気候への影響を減らし、集団的イノベーションを強化する」を強調している。提言には、AI生成コンテンツへのラベル付け、大量アップロードの阻止、AI-related（AI関連）の不正への厳しい対処、生成AIコンテンツのホスティングによる炭素への影響を示す報告指標の提案が含まれる。"
+                "x": "パロディ動画を作ってみると、三分足らずで、費用もかからなかった。AI動画プラットフォームHiggsfieldはミュージックビデオ冒頭の映像を使った既製テンプレートを用意しており、数分で15秒のパロディが完成した。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.koreajoongangdaily.com/12958352.webp?imageId=12958352&width=960&height=740&format=jpg",
+                "cap": "ガールズグループA2O Liteの新曲「Neon」に合わせて猫が踊るAI-generatedの動画。"
               },
               {
                 "t": "p",
-                "x": "声明は「AI-generatedコンテンツと不正を管理することも必要であり、その監視にはAIが役立つ」と述べ、DSPsに対し、保存トラック当たり・再生当たりの排出量といった指標を用いて、協調的かつ透明に影響を減らすよう求めた。"
-              },
-              {
-                "t": "p",
-                "x": "IMPALAのエグゼクティブ・チェアであるHelen Smithは「今年のCOPがAIに焦点を当てていることを歓迎する。オフィスやその他の業務のエネルギー消費を測定し削減するのと同じように、私たちはあらゆる産業でAIを適用することの影響を測定する必要がある」と述べた。"
+                "x": "動画の大半、あるいはすべてが、顔を使われた本人の同意なく作られた。Lawfirm TaeryunのHwang Jin-seop弁護士は「『パロディ』という名目は盾にはなっても、免罪符にはならない」と語った。BlackpinkのJennieとGirls' GenerationのYoonaの所属事務所は、ディープフェイク動画に対しゼロトレランスで法的措置を取ると発表している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "COP31前夕IMPALA\n呼吁AI与可持续行动",
-          "body": "IMPALA呼吁音乐行业与各国政府在COP31前就AI和可持续发展展开合作。",
-          "mini_headline": "IMPALA呼吁AI可持续行动",
+          "headline": "AI梗视频让富豪\n跳起K-pop《Neon》",
+          "body": "AI-generated梗视频带火A2O Lite的Neon，也引发肖像权与深度伪造担忧。",
+          "mini_headline": "AI梗视频带火K-pop《Neon》",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicweek.com/cimages/ffe40ef230bdd2cad086506f9d5bf1d4.png",
-                "cap": "IMPALA"
+                "src": "https://image.koreajoongangdaily.com/12958354.webp?imageId=12958354&width=960&height=548&format=jpg",
+                "cap": "AI-generated图像中，SK Group会长Chey Tae-won（左）与Samsung Electronics执行董事长Lee Jae-yong随女团A2O Lite的新歌《Neon》起舞。"
               },
               {
                 "t": "p",
-                "x": "在土耳其举行的COP31（9-20 Nov）召开前，IMPALA呼吁音乐行业与各国政府就IMPALA数字音乐计划中的AI及其他可持续发展相关事项展开合作。"
+                "x": "新出道女团A2O Lite的《Neon》登上排行榜时，另一样东西也火了——AI-generated的编舞恶搞视频，把成员的脸换成了SK Group会长Chey Tae-won、Samsung Electronics执行董事长Lee Jae-yong等公众人物。听众此前指出，副歌听起来像韩语中的“未婚”和“离婚”。"
               },
               {
                 "t": "p",
-                "x": "随着人工智能的气候影响被列入COP31议程，IMPALA正着重强调其计划中的优先事项No.5：减少气候影响，加强集体创新。建议包括为AI生成内容添加标签、阻止大规模上传、严厉打击AI-related（与AI相关的）欺诈，以及提出可反映托管生成式AI内容碳影响的报告指标。"
+                "x": "尝试制作一段恶搞视频，用时不到三分钟，而且分文未花。AI视频平台Higgsfield提供了一个现成模板，内含该曲音乐视频的开场画面；几分钟内就生成了一段15秒的恶搞视频。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.koreajoongangdaily.com/12958352.webp?imageId=12958352&width=960&height=740&format=jpg",
+                "cap": "AI-generated视频中，一群猫随女团A2O Lite的新歌《Neon》起舞。"
               },
               {
                 "t": "p",
-                "x": "一份声明称：“这还需要管控AI-generated内容和欺诈，而在这方面AI有助于监测。”声明敦促DSPs以协作且透明的方式减少影响，并采用每首存储曲目和每次播放的排放量等指标。"
-              },
-              {
-                "t": "p",
-                "x": "IMPALA执行主席Helen Smith表示：“我们欢迎今年的COP聚焦AI。我们都需要衡量在各行各业应用AI的影响，就像我们衡量并减少办公室和其他职能的能源消耗一样。”"
+                "x": "这些视频即便不是全部，也大多未经被使用面孔者本人同意。Lawfirm Taeryun律师Hwang Jin-seop说：“‘恶搞’之名可以当作盾牌，但不能当作免责金牌。”Blackpink的Jennie和Girls' Generation的Yoona所属经纪公司已宣布，将对深度伪造视频采取零容忍的法律措施。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Antes de la COP31, IMPALA pide\nactuar en IA y sostenibilidad",
-          "body": "IMPALA pidió al sector musical y a los gobiernos colaborar en IA y sostenibilidad antes de la COP31.",
-          "mini_headline": "IMPALA pide actuar en\nIA y sostenibilidad",
+          "headline": "Memes con AI ponen a magnates\na bailar el Neon del K-pop",
+          "body": "Los memes AI-generated viralizaron la coreografía de Neon de A2O Lite, pero plantean dudas sobre imagen y deepfakes.",
+          "mini_headline": "Memes con AI impulsan Neon del K-pop",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicweek.com/cimages/ffe40ef230bdd2cad086506f9d5bf1d4.png",
-                "cap": "IMPALA"
+                "src": "https://image.koreajoongangdaily.com/12958354.webp?imageId=12958354&width=960&height=548&format=jpg",
+                "cap": "Imágenes AI-generated del presidente de SK Group, Chey Tae-won (izquierda), y del presidente ejecutivo de Samsung Electronics, Lee Jae-yong, bailando el nuevo tema del grupo femenino A2O Lite, “Neon”."
               },
               {
                 "t": "p",
-                "x": "Antes de la COP31 (9-20 nov.) en Turquía, IMPALA ha pedido al sector musical y a los gobiernos que colaboren en materia de IA y otros aspectos relacionados con la sostenibilidad incluidos en el plan de música digital de IMPALA."
+                "x": "Cuando “Neon”, del recién debutado grupo femenino A2O Lite, arrasó en las listas, otra cosa se hizo viral: videos paródicos AI-generated de la coreografía en los que las caras de las integrantes se sustituían por las de figuras públicas, como el presidente de SK Group, Chey Tae-won, y el presidente ejecutivo de Samsung Electronics, Lee Jae-yong. Los oyentes habían señalado que el estribillo suena como las palabras coreanas para “soltero” y “divorcio”."
               },
               {
                 "t": "p",
-                "x": "Con el impacto climático de la inteligencia artificial en la agenda de la COP31, IMPALA destaca la prioridad No.5 de su plan: reducir el impacto climático y reforzar la innovación colectiva. Entre las recomendaciones figuran etiquetar el contenido generado por IA, frenar las subidas masivas, actuar con firmeza contra el fraude relacionado con la IA (AI-related) y proponer métricas de reporte que muestren el impacto de carbono de alojar contenido de IA generativa."
+                "x": "Hacer un video paródico llevó menos de tres minutos y no costó nada. La plataforma de video con AI Higgsfield ofrecía una plantilla lista con imágenes de la secuencia inicial del videoclip; en minutos produjo una parodia de 15 segundos."
+              },
+              {
+                "t": "img",
+                "src": "https://image.koreajoongangdaily.com/12958352.webp?imageId=12958352&width=960&height=740&format=jpg",
+                "cap": "Un video AI-generated muestra gatos bailando “Neon”, la nueva canción del grupo femenino A2O Lite."
               },
               {
                 "t": "p",
-                "x": "“También exige controlar el contenido generado por IA (AI-generated) y el fraude, y aquí la IA es útil para ayudar a vigilar”, señaló un comunicado, que instó a las DSPs a reducir su impacto de forma colaborativa y transparente, con métricas como las emisiones por pista almacenada y por reproducción."
-              },
-              {
-                "t": "p",
-                "x": "Helen Smith, presidenta ejecutiva de IMPALA, dijo: “Celebramos que la COP de este año se centre en la IA. Todos necesitamos medir el impacto de aplicar la IA en todas nuestras industrias, del mismo modo que medimos y reducimos el consumo de energía de nuestras oficinas y otras funciones”."
+                "x": "La mayoría de los videos, si no todos, se crearon sin el consentimiento de las personas cuyos rostros se usaron. “El nombre de ‘parodia’ puede servir de escudo, pero no de inmunidad”, dijo el abogado Hwang Jin-seop, de Lawfirm Taeryun. Las agencias de Jennie, de Blackpink, y de Yoona, de Girls' Generation, han anunciado medidas legales con tolerancia cero frente a los videos deepfake."
               }
             ]
           }
@@ -1487,125 +1403,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "IMPALA, COP31\n앞서 AI·지속가능성 촉구",
-          "body": "IMPALA는 COP31에 앞서 음악계와 정부에 AI·지속가능성 협력을 촉구했다.",
-          "mini_headline": "IMPALA, AI 지속가능성 행동 촉구",
+          "headline": "AI 밈, 재벌 총수를\nK-pop Neon 춤판에",
+          "body": "A2O Lite Neon을 띄운 AI-generated 밈에 딥페이크 우려도 인다.",
+          "mini_headline": "AI 밈이 띄운 K-pop Neon",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicweek.com/cimages/ffe40ef230bdd2cad086506f9d5bf1d4.png",
-                "cap": "IMPALA"
+                "src": "https://image.koreajoongangdaily.com/12958354.webp?imageId=12958354&width=960&height=548&format=jpg",
+                "cap": "AI-generated 이미지 속 SK Group Chey Tae-won 회장(왼쪽)과 Samsung Electronics Lee Jae-yong 회장이 걸그룹 A2O Lite의 신곡 “Neon”에 맞춰 춤추고 있다."
               },
               {
                 "t": "p",
-                "x": "튀르키예에서 열리는 COP31(9-20 Nov)을 앞두고, IMPALA는 음악계와 각국 정부에 IMPALA 디지털 음악 계획에 담긴 AI 및 기타 지속가능성 관련 사안에서 협력하라고 촉구했다."
+                "x": "새로 데뷔한 걸그룹 A2O Lite의 “Neon”이 차트를 휩쓸 때 다른 것도 함께 화제가 됐다. 멤버들의 얼굴을 SK Group Chey Tae-won 회장, Samsung Electronics Lee Jae-yong 회장 등 공인의 얼굴로 바꾼 AI-generated 안무 패러디 영상이다. 청취자들은 후렴이 한국어 ‘미혼’과 ‘이혼’처럼 들린다고 짚은 바 있다."
               },
               {
                 "t": "p",
-                "x": "인공지능의 기후 영향이 COP31 의제에 오른 가운데, IMPALA는 계획의 우선순위 No.5인 ‘기후 영향을 줄이고 집단 혁신을 강화하기’를 강조하고 있다. 권고안에는 AI 생성 콘텐츠 표시, 대량 업로드 중단, AI-related 사기에 대한 강력한 조치, 생성형 AI 콘텐츠 호스팅의 탄소 영향을 보여줄 보고 지표 제안이 들어 있다."
+                "x": "패러디 영상을 직접 만들어 보니 삼 분도 걸리지 않았고 비용도 들지 않았다. AI 영상 플랫폼 Higgsfield는 뮤직비디오 오프닝 장면을 담은 기성 템플릿을 제공했고, 몇 분 만에 15초짜리 패러디가 완성됐다."
+              },
+              {
+                "t": "img",
+                "src": "https://image.koreajoongangdaily.com/12958352.webp?imageId=12958352&width=960&height=740&format=jpg",
+                "cap": "AI-generated 영상 속 고양이들이 걸그룹 A2O Lite의 신곡 “Neon”에 맞춰 춤추고 있다."
               },
               {
                 "t": "p",
-                "x": "성명은 “AI-generated 콘텐츠와 사기를 통제하는 일도 필요하며, 여기서 AI는 모니터링을 돕는 데 유용하다”고 밝히고, DSPs가 저장된 트랙당·재생당 배출량 같은 지표로 협력적이고 투명하게 영향을 줄여야 한다고 촉구했다."
-              },
-              {
-                "t": "p",
-                "x": "IMPALA 집행위원장 Helen Smith는 “올해 COP가 AI에 초점을 맞춘 것을 환영한다. 사무실과 기타 기능의 에너지 소비를 측정하고 줄이는 것과 같은 방식으로, 우리 모두 모든 산업에서 AI 적용의 영향을 측정해야 한다”고 말했다."
+                "x": "이 영상들은 대부분, 어쩌면 전부가 얼굴이 쓰인 당사자의 동의 없이 만들어졌다. Lawfirm Taeryun의 Hwang Jin-seop 변호사는 “‘패러디’라는 이름은 방패가 될 수는 있어도 면죄부는 아니다”라고 말했다. Blackpink Jennie와 Girls' Generation Yoona의 소속사는 딥페이크 영상에 무관용 원칙으로 법적 대응하겠다고 발표했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "COP31前にIMPALA\nAIと持続可能性で行動要請",
-          "body": "IMPALAはCOP31を前に、音楽業界と各国政府にAIと持続可能性での協働を求めた。",
-          "mini_headline": "IMPALA、AIと持続可能性で行動要請",
+          "headline": "AIミームで財閥トップが\nK-pop「Neon」を踊る",
+          "body": "AI-generatedミームでA2O LiteのNeonが拡散し、肖像権の懸念も生んだ。",
+          "mini_headline": "AIミームがK-pop「Neon」を後押し",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicweek.com/cimages/ffe40ef230bdd2cad086506f9d5bf1d4.png",
-                "cap": "IMPALA"
+                "src": "https://image.koreajoongangdaily.com/12958354.webp?imageId=12958354&width=960&height=548&format=jpg",
+                "cap": "AI-generatedの画像で、ガールズグループA2O Liteの新曲「Neon」に合わせて踊るSK GroupのChey Tae-won会長（左）とSamsung ElectronicsのLee Jae-yong会長。"
               },
               {
                 "t": "p",
-                "x": "トルコで開かれるCOP31（9-20 Nov）を前に、IMPALAは音楽業界と各国政府に対し、IMPALAのデジタル音楽計画に盛り込まれたAIやその他の持続可能性に関わる分野で協力するよう呼びかけた。"
+                "x": "デビューしたばかりのガールズグループA2O Liteの「Neon」がチャートを席巻すると、別のものも話題になった。メンバーの顔をSK GroupのChey Tae-won会長やSamsung ElectronicsのLee Jae-yong会長ら著名人の顔に差し替えた、AI-generatedの振り付けパロディ動画だ。リスナーからは、サビが韓国語の「未婚」と「離婚」に聞こえるとの指摘が出ていた。"
               },
               {
                 "t": "p",
-                "x": "人工知能が気候に与える影響がCOP31の議題に上るなか、IMPALAは計画の優先事項No.5「気候への影響を減らし、集団的イノベーションを強化する」を強調している。提言には、AI生成コンテンツへのラベル付け、大量アップロードの阻止、AI-related（AI関連）の不正への厳しい対処、生成AIコンテンツのホスティングによる炭素への影響を示す報告指標の提案が含まれる。"
+                "x": "パロディ動画を作ってみると、三分足らずで、費用もかからなかった。AI動画プラットフォームHiggsfieldはミュージックビデオ冒頭の映像を使った既製テンプレートを用意しており、数分で15秒のパロディが完成した。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.koreajoongangdaily.com/12958352.webp?imageId=12958352&width=960&height=740&format=jpg",
+                "cap": "ガールズグループA2O Liteの新曲「Neon」に合わせて猫が踊るAI-generatedの動画。"
               },
               {
                 "t": "p",
-                "x": "声明は「AI-generatedコンテンツと不正を管理することも必要であり、その監視にはAIが役立つ」と述べ、DSPsに対し、保存トラック当たり・再生当たりの排出量といった指標を用いて、協調的かつ透明に影響を減らすよう求めた。"
-              },
-              {
-                "t": "p",
-                "x": "IMPALAのエグゼクティブ・チェアであるHelen Smithは「今年のCOPがAIに焦点を当てていることを歓迎する。オフィスやその他の業務のエネルギー消費を測定し削減するのと同じように、私たちはあらゆる産業でAIを適用することの影響を測定する必要がある」と述べた。"
+                "x": "動画の大半、あるいはすべてが、顔を使われた本人の同意なく作られた。Lawfirm TaeryunのHwang Jin-seop弁護士は「『パロディ』という名目は盾にはなっても、免罪符にはならない」と語った。BlackpinkのJennieとGirls' GenerationのYoonaの所属事務所は、ディープフェイク動画に対しゼロトレランスで法的措置を取ると発表している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "COP31前夕IMPALA\n呼吁AI与可持续行动",
-          "body": "IMPALA呼吁音乐行业与各国政府在COP31前就AI和可持续发展展开合作。",
-          "mini_headline": "IMPALA呼吁AI可持续行动",
+          "headline": "AI梗视频让富豪\n跳起K-pop《Neon》",
+          "body": "AI-generated梗视频带火A2O Lite的Neon，也引发肖像权与深度伪造担忧。",
+          "mini_headline": "AI梗视频带火K-pop《Neon》",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicweek.com/cimages/ffe40ef230bdd2cad086506f9d5bf1d4.png",
-                "cap": "IMPALA"
+                "src": "https://image.koreajoongangdaily.com/12958354.webp?imageId=12958354&width=960&height=548&format=jpg",
+                "cap": "AI-generated图像中，SK Group会长Chey Tae-won（左）与Samsung Electronics执行董事长Lee Jae-yong随女团A2O Lite的新歌《Neon》起舞。"
               },
               {
                 "t": "p",
-                "x": "在土耳其举行的COP31（9-20 Nov）召开前，IMPALA呼吁音乐行业与各国政府就IMPALA数字音乐计划中的AI及其他可持续发展相关事项展开合作。"
+                "x": "新出道女团A2O Lite的《Neon》登上排行榜时，另一样东西也火了——AI-generated的编舞恶搞视频，把成员的脸换成了SK Group会长Chey Tae-won、Samsung Electronics执行董事长Lee Jae-yong等公众人物。听众此前指出，副歌听起来像韩语中的“未婚”和“离婚”。"
               },
               {
                 "t": "p",
-                "x": "随着人工智能的气候影响被列入COP31议程，IMPALA正着重强调其计划中的优先事项No.5：减少气候影响，加强集体创新。建议包括为AI生成内容添加标签、阻止大规模上传、严厉打击AI-related（与AI相关的）欺诈，以及提出可反映托管生成式AI内容碳影响的报告指标。"
+                "x": "尝试制作一段恶搞视频，用时不到三分钟，而且分文未花。AI视频平台Higgsfield提供了一个现成模板，内含该曲音乐视频的开场画面；几分钟内就生成了一段15秒的恶搞视频。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.koreajoongangdaily.com/12958352.webp?imageId=12958352&width=960&height=740&format=jpg",
+                "cap": "AI-generated视频中，一群猫随女团A2O Lite的新歌《Neon》起舞。"
               },
               {
                 "t": "p",
-                "x": "一份声明称：“这还需要管控AI-generated内容和欺诈，而在这方面AI有助于监测。”声明敦促DSPs以协作且透明的方式减少影响，并采用每首存储曲目和每次播放的排放量等指标。"
-              },
-              {
-                "t": "p",
-                "x": "IMPALA执行主席Helen Smith表示：“我们欢迎今年的COP聚焦AI。我们都需要衡量在各行各业应用AI的影响，就像我们衡量并减少办公室和其他职能的能源消耗一样。”"
+                "x": "这些视频即便不是全部，也大多未经被使用面孔者本人同意。Lawfirm Taeryun律师Hwang Jin-seop说：“‘恶搞’之名可以当作盾牌，但不能当作免责金牌。”Blackpink的Jennie和Girls' Generation的Yoona所属经纪公司已宣布，将对深度伪造视频采取零容忍的法律措施。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Antes de la COP31, IMPALA pide\nactuar en IA y sostenibilidad",
-          "body": "IMPALA pidió al sector musical y a los gobiernos colaborar en IA y sostenibilidad antes de la COP31.",
-          "mini_headline": "IMPALA pide actuar en\nIA y sostenibilidad",
+          "headline": "Memes con AI ponen a magnates\na bailar el Neon del K-pop",
+          "body": "Los memes AI-generated viralizaron la coreografía de Neon de A2O Lite, pero plantean dudas sobre imagen y deepfakes.",
+          "mini_headline": "Memes con AI impulsan Neon del K-pop",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicweek.com/cimages/ffe40ef230bdd2cad086506f9d5bf1d4.png",
-                "cap": "IMPALA"
+                "src": "https://image.koreajoongangdaily.com/12958354.webp?imageId=12958354&width=960&height=548&format=jpg",
+                "cap": "Imágenes AI-generated del presidente de SK Group, Chey Tae-won (izquierda), y del presidente ejecutivo de Samsung Electronics, Lee Jae-yong, bailando el nuevo tema del grupo femenino A2O Lite, “Neon”."
               },
               {
                 "t": "p",
-                "x": "Antes de la COP31 (9-20 nov.) en Turquía, IMPALA ha pedido al sector musical y a los gobiernos que colaboren en materia de IA y otros aspectos relacionados con la sostenibilidad incluidos en el plan de música digital de IMPALA."
+                "x": "Cuando “Neon”, del recién debutado grupo femenino A2O Lite, arrasó en las listas, otra cosa se hizo viral: videos paródicos AI-generated de la coreografía en los que las caras de las integrantes se sustituían por las de figuras públicas, como el presidente de SK Group, Chey Tae-won, y el presidente ejecutivo de Samsung Electronics, Lee Jae-yong. Los oyentes habían señalado que el estribillo suena como las palabras coreanas para “soltero” y “divorcio”."
               },
               {
                 "t": "p",
-                "x": "Con el impacto climático de la inteligencia artificial en la agenda de la COP31, IMPALA destaca la prioridad No.5 de su plan: reducir el impacto climático y reforzar la innovación colectiva. Entre las recomendaciones figuran etiquetar el contenido generado por IA, frenar las subidas masivas, actuar con firmeza contra el fraude relacionado con la IA (AI-related) y proponer métricas de reporte que muestren el impacto de carbono de alojar contenido de IA generativa."
+                "x": "Hacer un video paródico llevó menos de tres minutos y no costó nada. La plataforma de video con AI Higgsfield ofrecía una plantilla lista con imágenes de la secuencia inicial del videoclip; en minutos produjo una parodia de 15 segundos."
+              },
+              {
+                "t": "img",
+                "src": "https://image.koreajoongangdaily.com/12958352.webp?imageId=12958352&width=960&height=740&format=jpg",
+                "cap": "Un video AI-generated muestra gatos bailando “Neon”, la nueva canción del grupo femenino A2O Lite."
               },
               {
                 "t": "p",
-                "x": "“También exige controlar el contenido generado por IA (AI-generated) y el fraude, y aquí la IA es útil para ayudar a vigilar”, señaló un comunicado, que instó a las DSPs a reducir su impacto de forma colaborativa y transparente, con métricas como las emisiones por pista almacenada y por reproducción."
-              },
-              {
-                "t": "p",
-                "x": "Helen Smith, presidenta ejecutiva de IMPALA, dijo: “Celebramos que la COP de este año se centre en la IA. Todos necesitamos medir el impacto de aplicar la IA en todas nuestras industrias, del mismo modo que medimos y reducimos el consumo de energía de nuestras oficinas y otras funciones”."
+                "x": "La mayoría de los videos, si no todos, se crearon sin el consentimiento de las personas cuyos rostros se usaron. “El nombre de ‘parodia’ puede servir de escudo, pero no de inmunidad”, dijo el abogado Hwang Jin-seop, de Lawfirm Taeryun. Las agencias de Jennie, de Blackpink, y de Yoona, de Girls' Generation, han anunciado medidas legales con tolerancia cero frente a los videos deepfake."
               }
             ]
           }

@@ -10208,6 +10208,146 @@
           "x": "The desktop version also has a full multi-track timeline, precise audio waveforms, color grading tools and keyboard shortcuts, plus watermark-free 4K exports and support for multiple aspect ratios. It is macOS-only for now, and projects can’t yet be edited across mobile and desktop; Meta plans to update the app weekly."
         }
       ]
+    },
+    "movies/hotsea-melochu-anime": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i3n.news1.kr/system/photos/2026/11/4/8197258/high.jpg",
+          "cap": "Promotional image of the main character of the generative AI animation Dugeun Dugeun Mello-Chu (courtesy of Hotsea; resale and DB use prohibited) 2026.11.5/News1"
+        },
+        {
+          "t": "p",
+          "x": "Creative studio Hotsea has released 'Dugeun Dugeun Mello-Chu!' (Beat On! Mello-Chu!), an original animation made with generative artificial intelligence (AI) technology. The first episode is set in New York, in the United States."
+        },
+        {
+          "t": "p",
+          "x": "The series follows 4 girls who travel to countries around the world, learning their cultures and languages and growing through music. It is a music adventure that combines K-pop with a travel narrative."
+        },
+        {
+          "t": "p",
+          "x": "In the first episode, the main characters experience local culture in New York and prepare for a performance. The released video runs about 5 minutes."
+        },
+        {
+          "t": "p",
+          "x": "Hotsea handled the planning, character design, story structure and scene production in-house. The lyrics and composition of the original music were also part of the production."
+        },
+        {
+          "t": "p",
+          "x": "Generative AI video technology was used in production. The focus was on building a standalone intellectual property (IP) by linking experience in music creation with narrative structure."
+        },
+        {
+          "t": "p",
+          "x": "Hotsea PD Jin Ho-hyun led planning and production. Despite trial and error in the generative AI production process, he worked to make the video and music connect into a single story."
+        },
+        {
+          "t": "p",
+          "x": "Hotsea plans to keep developing original IP in different genres and formats, with the aim of expanding its own content portfolio over the long term."
+        },
+        {
+          "t": "p",
+          "x": "The first video of 'Dugeun Dugeun Mello-Chu!' was released on Hotsea's official YouTube channel. The company plans and produces brand videos and original content using generative AI."
+        }
+      ]
+    },
+    "movies/curiousrefuge-ai-clone-shoot": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "CM1rPwuXw2A"
+        },
+        {
+          "t": "p",
+          "x": "In this tutorial, Curious Refuge shows how to create a studio from anywhere in the world: all you need is audio and a reference video. The team calls the workflow \"Studio Anywhere.\""
+        },
+        {
+          "t": "p",
+          "x": "1. Record your audio on a phone or microphone, then clean it up in Adobe Podcast. 2. Bring the enhanced recording into a video editor (they used Adobe Premiere) and export it as a video with a black screen. 3. Choose a short clip of yourself speaking on camera; they used roughly six seconds of Caleb talking in the studio, since video reference gives the model more to work with than a still image."
+        },
+        {
+          "t": "p",
+          "x": "4. Upload the audio and reference to Seedance 2.5 (they used Magnific) and prompt it to use the audio from the black video and the look, movement and environment from the reference. The two inputs had a combined 30-second limit, so longer recordings had to be split. Everyone they showed at Promise Studios thought the result was real."
+        },
+        {
+          "t": "p",
+          "x": "Compared with HeyGen and a custom-trained LoRA workflow, Seedance 2.5 was the most convincing; HeyGen still landed in the uncanny valley. Reported costs for these examples: about $16 for Seedance 2.5 at 1080p, $0.05 for HeyGen and $24 for the third workflow through fal.ai."
+        },
+        {
+          "t": "p",
+          "x": "Generating the whole performance from a script with Seedance 2.5, Wan 3 and MiniMax H3 produced convincing visuals, but the delivery wasn't there yet. Recording your own audio preserved the timing and personality."
+        }
+      ]
+    },
+    "movies/curiousrefuge-sam-audio-music": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "u78B727zbRI"
+        },
+        {
+          "t": "p",
+          "x": "In this quick tutorial, Caleb shows you how to strip the music out of any clip using SAM Audio, Meta’s free sound isolation tool. That way, you get clean sound effects and can add your own music in your editor. It works on regular footage too, not just AI clips."
+        },
+        {
+          "t": "p",
+          "x": "Time Code: 0:00 The AI music problem · 0:44 Meet SAM Audio from Meta · 1:09 Uploading your Seedance clip · 2:21 Isolating the music with a prompt · 2:57 Music-only vs. sound effects-only · 4:21 Example: Coffee scene · 5:43 Example: Sci-fi scene · 6:51 Works on any footage"
+        }
+      ]
+    },
+    "movies/pvc-ai-firmware-framerate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Framerate-malpractice-hero.jpg",
+          "cap": "Framerate Malpractice"
+        },
+        {
+          "t": "p",
+          "x": "So far, I have covered two camera manufacturers which are guilty of Framerate Malpractice. They are GoPro and Sony (in part of its line). Later, I discovered that DJI is equally guilty. Now, my YouTube feed is starting to include situations where several different people have used AI to add missing features to their cameras via firmware updates."
+        },
+        {
+          "t": "p",
+          "x": "So now, the question is: Will AI mods fix Framerate Malpractice before the guilty manufacturers bother to do it themselves? I have not yet seen that specific fix done via a third-party hack, but it is likely just a question of time. Even before AI, we had the famous Magic Lantern firmware for various Canon models, and the Sony hack to make cameras become quasi-worldcam."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Sony-A7S-III-rounded-framerates.png",
+          "cap": "Sony A7S III rounded framerates"
+        },
+        {
+          "t": "p",
+          "x": "Recent examples of AI modifications, in chronological order: “Hacking Camera Software with AI is Getting Crazy” from Breno Loves Cameras; “AI Camera Jailbreaking Changes Everything” from FUTC; and “I hacked my camera with AI (and so can you)” from Tony & Chelsea Northrup."
+        },
+        {
+          "t": "video",
+          "yt": "sJYBs5CLywk"
+        }
+      ]
+    },
+    "movies/dumont-the-end-genai-feature": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/2/6/1491626_Director-Burno-Dumont-Portrait.jpg",
+          "cap": "Bruno Dumont"
+        },
+        {
+          "t": "p",
+          "x": "Cannes award-winning French director Bruno Dumont has revealed his next feature The End is being made entirely using generative AI, without actors or a traditional film crew and on a shoestring budget. He began work on the English-language sci-fi thriller in August and has since wrapped production, generating its images, performances and sound himself, with a festival rollout and theatrical release planned for 2027."
+        },
+        {
+          "t": "p",
+          "x": "The film follows an ambitious Los Angeles police officer investigating a crime as the city is engulfed by earthquakes and falling asteroids. Dumont wrote the screenplay more than 25 years ago, but its disaster sequences made it prohibitively expensive, so it was shelved."
+        },
+        {
+          "t": "p",
+          "x": "Working from his Paris home, he generates footage scene by scene from his own shot breakdowns while retaining control over performances, mise-en-scène and editing. “I’m like a director working with a crew, except that my crew is a machine,” he said. “I give it instructions constantly.”"
+        },
+        {
+          "t": "p",
+          "x": "He is producing The End independently, with no sales agent attached yet. “It is becoming harder and harder to finance films in France,” he said. “Today I have complete freedom. I can do what I want.”"
+        }
+      ]
     }
   }
 }

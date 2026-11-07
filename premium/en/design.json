@@ -11088,6 +11088,164 @@
           "x": "The Figma agent can now: Use style references to generate vector illustrations and icons; Utilize strokes for line work so you can adjust the weight or end caps; Group generated vectors in semantic layers for easier iteration."
         }
       ]
+    },
+    "design/vercel-json-render-chat": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "You can now stream generative UI from your Chat SDK agent with json-render."
+        },
+        {
+          "t": "p",
+          "x": "With a typed catalog of components, the agent writes a JSON spec that json-render converts into a Chat SDK card. Each adapter then posts the card in its platform’s native format, such as Block Kit on Slack and Adaptive Cards on Teams."
+        },
+        {
+          "t": "p",
+          "x": "The catalog covers tables, charts, buttons, and more, so there’s no separate tool to build and maintain for each message shape."
+        },
+        {
+          "t": "video",
+          "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6S2Z82rxxVRa8ZUwSN0ZEN/b4093a11584a8a2c186fb766afd8fd6a/slack-block-stream-light__1_.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Stream cards as the model writes: streamCard posts the card once its root element has content and updates the message as new elements stream in. Edits go out at most once every 500 ms by default, which matches Chat SDK’s streaming interval. Once the stream ends, the message shows the final, validated card."
+        },
+        {
+          "t": "p",
+          "x": "Validate specs and enforce platform limits: toCard checks every element’s props against its component schema and throws CardSpecError for an invalid spec. Each problem gets its own readable issue, so you can send the list back to the model for a corrected spec."
+        },
+        {
+          "t": "p",
+          "x": "Platforms cap what a single message can hold, and Chat SDK adapters degrade content past those caps. The Slack adapter, for example, turns a second table into a code block. Pass limits to reject those specs instead."
+        }
+      ]
+    },
+    "design/autodesk-flame-2027-normals": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Updated 7 November 2026: Autodesk has released Flame 2027.2."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261107_Flame20272_AINormal.jpg"
+        },
+        {
+          "t": "p",
+          "x": "It’s quite a significant update, with new features including a new machine learning model for generating normal maps from video, for use in relighting or applying effects to a shot. Flame already had an AI normal map generator, but it was specifically for human faces. The new model is available as a Matchbox shader, in the Selective object, and in the Normal Map object."
+        },
+        {
+          "t": "p",
+          "x": "Users can also now import USD scenes into Action, Flame’s 3D compositing environment. The implementation supports USD geometry, materials, lights and cameras, and all of the USD file extensions, including USDZ files (.usd, .usda, .usdc and .usdz)."
+        },
+        {
+          "t": "p",
+          "x": "Other changes to Action include a new 3D Primitive node and support for all of the OpenSubdiv schemes. Pipeline integration changes include the option to use Python Hooks to control Batch setups, and to publish sequences in OpenTimelineIO format."
+        },
+        {
+          "t": "p",
+          "x": "Earlier, Flame 2027 introduced an Annotations system, two new AI models for generating depth maps from footage (ML Depth Indoor and ML Depth Outdoor), Autodesk Assistant and OpenTimelineIO support; Flame 2027.1 added the Isolate tool and ProRes RAW support."
+        },
+        {
+          "t": "p",
+          "x": "Flame subscriptions cost $650/month or $5,215/year. Flame Assist and Flare subscriptions cost $2,775/year."
+        }
+      ]
+    },
+    "design/ironcad-2027-ai-scripting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/IronCAD-2027-update-adds-design-automation-tools.png"
+        },
+        {
+          "t": "p",
+          "x": "IronCAD announced the availability of IronCAD 2027 Product Update 1. The release adds updates to AI-assisted design automation, sheet metal workflows, piping, drafting, feature recognition and file interoperability for industrial equipment and machinery design, metal fabrication and mechanical engineering teams."
+        },
+        {
+          "t": "p",
+          "x": "AI Design Assistant improvements: the AI Design Assistant now provides added support for AI-assisted script generation. Users can use natural-language prompts to generate scripts that automate repeated modeling tasks, configure components from catalog data including metadata, parameters, materials and Smart Attachments and support design automation workflows."
+        },
+        {
+          "t": "p",
+          "x": "Sheet metal features, including combinations of bends, holes and edge rounds, can be dragged into catalogs for reuse in other projects. The piping command now supports flexible pipes using a spline path, and imported models can be converted into editable IronCAD features faster."
+        },
+        {
+          "t": "p",
+          "x": "The Native CAD Translator Add-on now supports updated versions of major formats including CATIA V5, Creo, NX, Inventor, SolidWorks and Solid Edge."
+        },
+        {
+          "t": "p",
+          "x": "IronCAD 2027 Product Update 1 is available to eligible IronCAD Design Collaboration Suite users through IronCAD Live Update or by download from the IronCAD website."
+        }
+      ]
+    },
+    "design/uxc-ai-ui-emotional-context": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Imagine asking an AI tool to design a task-completion state. The result has a checkmark, a friendly message, and a small burst of confetti. It uses the right components. The spacing matches the system. The animation is polished."
+        },
+        {
+          "t": "p",
+          "x": "In one task, someone has finished setting up a business they have spent months trying to launch. In the other, an administrator has updated the forty-seventh record of the morning. The component is consistent. The experiences should probably be different."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*3TA1JRp7-caokhilM29rqQ.jpeg",
+          "cap": "Different moments call for different levels of acknowledgment. Image credit: Kudzai Chinyadza, Celebratory Success States."
+        },
+        {
+          "t": "p",
+          "x": "But a faithful rendering of a system can still be an emotionally inappropriate response. A success message can be correct and patronizing."
+        },
+        {
+          "t": "p",
+          "x": "Mailchimp’s voice stays recognizable while its tone responds to the reader’s circumstances. “Make it friendly and playful” leaves a great deal unresolved; a more useful AI instruction describes the situation."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*-XcYBSSqvdEFnphJb5HiLw.jpeg",
+          "cap": "Credit: Asana"
+        },
+        {
+          "t": "p",
+          "x": "Asana’s celebrations show the same detail can be welcome to one person and unwelcome to another. AI can help explore expressive alternatives, but producing an alternative and establishing when it is welcome are different kinds of work."
+        },
+        {
+          "t": "p",
+          "x": "AI can generate both responses. We still have to notice that the occasions are different."
+        }
+      ]
+    },
+    "design/cursor-live-apps-hosting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/changelog/opengraph-changelog-11-05-26.png"
+        },
+        {
+          "t": "p",
+          "x": "Agents have lowered the cost of writing code, but most apps and tools that users build never make it off of localhost. Now, you can build live apps directly in Cursor and share them with a link. Describe what you want to create and Cursor will handle the rest: build the app, set up a database, configure auth, and deploy it."
+        },
+        {
+          "t": "video",
+          "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/Cursor_PublishApps_15.mp4"
+        },
+        {
+          "t": "p",
+          "x": "To get started, kick off a cloud agent and tell it explicitly that you want to build an app. Cursor will scaffold the web app, spin up a Postgres database if needed, set up authentication behind Cursor SSO, and provision hosting. When you go to publish, you pick a unique domain and Cursor gets you back a live link."
+        },
+        {
+          "t": "p",
+          "x": "At Cursor, users across sales, operations, legal, finance, and engineering are building internal apps, from ops tools and customer presentations to onboarding experiences and live sales dashboards."
+        },
+        {
+          "t": "p",
+          "x": "When you publish, Cursor runs deterministic and agentic security checks to catch common issues, like secrets written in app files or exposed credentials. Nothing goes live until the checks pass and you explicitly publish the app. Team admins can see every app and secret on the team. The capability is available on all paid plans with cloud agents enabled."
+        }
+      ]
     }
   }
 }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "section": "movies",
   "cards": [
     {
-      "id": "dumont-the-end-genai-feature",
+      "id": "movies-imcore-core-studio",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Bruno Dumont\nAI로 만든 The End",
-      "body": "Bruno Dumont은 배우도 스태프도 없이 AI로 The End를 만든다.",
-      "mini_headline": "Dumont, 생성형 AI로 'The End' 제작",
+      "headline": "Core Studio 출시\nAI 영화 에이전트 24종",
+      "body": "imCore가 TCCF에서 에이전트 24종 이상의 Core Studio를 내놨다.",
+      "mini_headline": "Core Studio 영화 에이전트 24종",
       "tool": "Movies",
-      "source": "Screen Daily",
-      "url": "https://www.screendaily.com/news/bruno-dumont-turns-to-generative-ai-to-film-english-language-sci-fi-thriller-the-end/5222133.article",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/markets-festivals/ai-filmmaking-platform-core-studio-launches-24-agents-tccf-1236941957/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,179 +19,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/2/6/1491626_Director-Burno-Dumont-Portrait.jpg",
-            "cap": "Bruno Dumont"
+            "src": "https://variety.com/wp-content/uploads/2026/11/imcore.jpg?w=1000&h=667&crop=1",
+            "cap": "imcore"
           },
           {
             "t": "p",
-            "x": "칸영화제(Cannes)에서 상을 받은 프랑스 감독 Bruno Dumont이 차기 장편 The End를 배우도 기존 촬영 스태프도 없이, 아주 적은 예산으로 전부 생성형 AI로 만든다고 밝혔다. 8월에 시작한 이 영어 SF 스릴러는 이미 제작을 마쳤다. 이미지와 연기, 사운드까지 모두 그가 직접 생성했다. 영화제 상영을 거쳐 2027년 극장에 걸 계획이다."
+            "x": "대만 기술기업 imCore Corp.는 토요일 타이베이에서 열린 Taiwan Creative Content Fest(TCCF)에서 AI 영화 제작 플랫폼 Core Studio를 선보였다. 각본 개발과 스토리보드에서 이미지 생성, 편집, 색보정까지 제작 전 과정을 아우르려는 플랫폼이다."
           },
           {
             "t": "p",
-            "x": "주인공은 야심 찬 로스앤젤레스 경찰관이다. 지진과 소행성 낙하로 도시가 무너져 가는 와중에 그는 한 사건을 수사한다. 각본은 Dumont이 25년도 더 전에 써 두었지만 재난 장면에 드는 비용을 감당할 수 없어 묵혀 왔다."
+            "x": "imCore Corp. 창업자 겸 CEO이자 TWR Entertainment 창업자인 Charles Lee는 “우리 팀은 전문 창작자에게 이미지 생성 도구 이상의 것이 필요하다는 점을 알고 있다”고 말했다."
           },
           {
             "t": "p",
-            "x": "작업은 파리 자택에서 한다. 직접 짠 숏 분할대로 장면마다 영상을 생성하되 연기와 미장센, 편집의 통제권은 놓지 않는다. “나는 스태프와 일하는 감독과 같다. 다만 내 스태프가 기계일 뿐이다.” 그는 “끊임없이 지시를 내린다”고 했다."
+            "x": "플랫폼의 중심에는 가상 제작진처럼 움직이는 전문 AI 에이전트 24종 이상이 있다. 스토리 개발, 에셋 생성, 시각효과, 편집, 색보정을 나눠 맡는다. 프리프로덕션에서는 Core Studio의 Story Atlas 도구가 불러온 각본을 신, 숏, 스토리보드로 쪼개고 캐릭터 디자인과 의상, 소품, 목소리 프로필이 흐트러지지 않게 관리한다."
           },
           {
             "t": "p",
-            "x": "The End는 아직 판매 대행사 없이 독립 제작 중이다. 그는 “프랑스에서 영화 자금을 모으기가 점점 더 어려워지고 있다”며 “지금 나는 완전한 자유를 누린다. 하고 싶은 것을 할 수 있다”고 말했다."
+            "x": "AI-generated 결과물마다 어떤 모델과 프롬프트, 파라미터를 썼는지, 비용이 얼마였는지, 사람이 어떻게 검토했는지 기록이 붙는다. Real Engine은 Real Video, Real HDR, Real Revive를 묶어 AI-generated 영상의 디테일을 살리고 색 심도를 8-bit에서 16-bit로 끌어올리며 날아간 하이라이트를 되살린다. 여러 나라의 팀이 클라우드 작업 공간에서 한 프로젝트를 함께 다룰 수도 있다."
+          },
+          {
+            "t": "p",
+            "x": "출시 행사에는 AI-assisted 프로젝트 네 편의 창작자들이 나와 작품을 소개했다. “God Being”을 만든 Jerry Zhou도 그중 한 명이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Bruno Dumont makes 'The End'\nentirely with generative AI",
-          "body": "Bruno Dumont is making his shelved sci-fi thriller The End with generative AI at home, with no actors or crew.",
-          "mini_headline": "Dumont films 'The End'\nwith generative AI",
+          "headline": "Core Studio launches with\n24 AI filmmaking agents",
+          "body": "Taiwan's imCore unveiled Core Studio at TCCF, with more than 24 agents spanning script development through production.",
+          "mini_headline": "Core Studio's 24 film agents",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/2/6/1491626_Director-Burno-Dumont-Portrait.jpg",
-                "cap": "Bruno Dumont"
+                "src": "https://variety.com/wp-content/uploads/2026/11/imcore.jpg?w=1000&h=667&crop=1",
+                "cap": "imcore"
               },
               {
                 "t": "p",
-                "x": "Cannes award-winning French director Bruno Dumont has revealed his next feature The End is being made entirely using generative AI, without actors or a traditional film crew and on a shoestring budget. He began work on the English-language sci-fi thriller in August and has since wrapped production, generating its images, performances and sound himself, with a festival rollout and theatrical release planned for 2027."
+                "x": "Taiwanese technology company imCore Corp. launched Core Studio, an AI filmmaking platform that aims to cover the full production process, from script development and storyboarding to image generation, editing and color grading, at the Taiwan Creative Content Fest (TCCF) in Taipei on Saturday."
               },
               {
                 "t": "p",
-                "x": "The film follows an ambitious Los Angeles police officer investigating a crime as the city is engulfed by earthquakes and falling asteroids. Dumont wrote the screenplay more than 25 years ago, but its disaster sequences made it prohibitively expensive, so it was shelved."
+                "x": "“Our team understands that professional creators need more than just image-generation tools,” said Charles Lee, founder and CEO of imCore Corp. and founder of TWR Entertainment."
               },
               {
                 "t": "p",
-                "x": "Working from his Paris home, he generates footage scene by scene from his own shot breakdowns while retaining control over performances, mise-en-scène and editing. “I’m like a director working with a crew, except that my crew is a machine,” he said. “I give it instructions constantly.”"
+                "x": "The platform’s main draw is a set of more than 24 specialized AI agents that act as a virtual production crew, handling story development, asset generation, visual effects, editing and color grading. For pre-production, Core Studio’s Story Atlas tool breaks an imported script into scenes, shots and storyboards, and keeps character designs, costumes, props and voice profiles consistent."
               },
               {
                 "t": "p",
-                "x": "He is producing The End independently, with no sales agent attached yet. “It is becoming harder and harder to finance films in France,” he said. “Today I have complete freedom. I can do what I want.”"
+                "x": "Every AI-generated output comes with a record of the models, prompts, parameters, costs and human review results behind it. Real Engine combines Real Video, Real HDR and Real Revive to sharpen detail, raise color depth from 8-bit to 16-bit and fix blown-out highlights in AI-generated footage. A cloud workspace lets teams in different countries work on the same project."
+              },
+              {
+                "t": "p",
+                "x": "Creators of four AI-assisted projects presented their work at the launch, among them Jerry Zhou, the creator of “God Being.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Bruno Dumont\nAI로 만든 The End",
-          "body": "Bruno Dumont은 배우도 스태프도 없이 AI로 The End를 만든다.",
-          "mini_headline": "Dumont, 생성형 AI로 'The End' 제작",
+          "headline": "Core Studio 출시\nAI 영화 에이전트 24종",
+          "body": "imCore가 TCCF에서 에이전트 24종 이상의 Core Studio를 내놨다.",
+          "mini_headline": "Core Studio 영화 에이전트 24종",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/2/6/1491626_Director-Burno-Dumont-Portrait.jpg",
-                "cap": "Bruno Dumont"
+                "src": "https://variety.com/wp-content/uploads/2026/11/imcore.jpg?w=1000&h=667&crop=1",
+                "cap": "imcore"
               },
               {
                 "t": "p",
-                "x": "칸영화제(Cannes)에서 상을 받은 프랑스 감독 Bruno Dumont이 차기 장편 The End를 배우도 기존 촬영 스태프도 없이, 아주 적은 예산으로 전부 생성형 AI로 만든다고 밝혔다. 8월에 시작한 이 영어 SF 스릴러는 이미 제작을 마쳤다. 이미지와 연기, 사운드까지 모두 그가 직접 생성했다. 영화제 상영을 거쳐 2027년 극장에 걸 계획이다."
+                "x": "대만 기술기업 imCore Corp.는 토요일 타이베이에서 열린 Taiwan Creative Content Fest(TCCF)에서 AI 영화 제작 플랫폼 Core Studio를 선보였다. 각본 개발과 스토리보드에서 이미지 생성, 편집, 색보정까지 제작 전 과정을 아우르려는 플랫폼이다."
               },
               {
                 "t": "p",
-                "x": "주인공은 야심 찬 로스앤젤레스 경찰관이다. 지진과 소행성 낙하로 도시가 무너져 가는 와중에 그는 한 사건을 수사한다. 각본은 Dumont이 25년도 더 전에 써 두었지만 재난 장면에 드는 비용을 감당할 수 없어 묵혀 왔다."
+                "x": "imCore Corp. 창업자 겸 CEO이자 TWR Entertainment 창업자인 Charles Lee는 “우리 팀은 전문 창작자에게 이미지 생성 도구 이상의 것이 필요하다는 점을 알고 있다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "작업은 파리 자택에서 한다. 직접 짠 숏 분할대로 장면마다 영상을 생성하되 연기와 미장센, 편집의 통제권은 놓지 않는다. “나는 스태프와 일하는 감독과 같다. 다만 내 스태프가 기계일 뿐이다.” 그는 “끊임없이 지시를 내린다”고 했다."
+                "x": "플랫폼의 중심에는 가상 제작진처럼 움직이는 전문 AI 에이전트 24종 이상이 있다. 스토리 개발, 에셋 생성, 시각효과, 편집, 색보정을 나눠 맡는다. 프리프로덕션에서는 Core Studio의 Story Atlas 도구가 불러온 각본을 신, 숏, 스토리보드로 쪼개고 캐릭터 디자인과 의상, 소품, 목소리 프로필이 흐트러지지 않게 관리한다."
               },
               {
                 "t": "p",
-                "x": "The End는 아직 판매 대행사 없이 독립 제작 중이다. 그는 “프랑스에서 영화 자금을 모으기가 점점 더 어려워지고 있다”며 “지금 나는 완전한 자유를 누린다. 하고 싶은 것을 할 수 있다”고 말했다."
+                "x": "AI-generated 결과물마다 어떤 모델과 프롬프트, 파라미터를 썼는지, 비용이 얼마였는지, 사람이 어떻게 검토했는지 기록이 붙는다. Real Engine은 Real Video, Real HDR, Real Revive를 묶어 AI-generated 영상의 디테일을 살리고 색 심도를 8-bit에서 16-bit로 끌어올리며 날아간 하이라이트를 되살린다. 여러 나라의 팀이 클라우드 작업 공간에서 한 프로젝트를 함께 다룰 수도 있다."
+              },
+              {
+                "t": "p",
+                "x": "출시 행사에는 AI-assisted 프로젝트 네 편의 창작자들이 나와 작품을 소개했다. “God Being”을 만든 Jerry Zhou도 그중 한 명이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Bruno Dumont\n全編AIで「The End」",
-          "body": "Bruno Dumontは俳優もスタッフも使わず、生成AIでThe Endを制作している。",
-          "mini_headline": "Dumont、生成AIで「The End」を制作",
+          "headline": "Core Studio始動\nAI映画エージェント24種",
+          "body": "imCoreがTCCFで、24を超えるエージェントを備えるCore Studioを発表した。",
+          "mini_headline": "Core Studioの映画エージェント24種",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/2/6/1491626_Director-Burno-Dumont-Portrait.jpg",
-                "cap": "Bruno Dumont"
+                "src": "https://variety.com/wp-content/uploads/2026/11/imcore.jpg?w=1000&h=667&crop=1",
+                "cap": "imcore"
               },
               {
                 "t": "p",
-                "x": "カンヌ(Cannes)で受賞歴のあるフランスの映画監督Bruno Dumontが、次回作The Endを俳優も従来の撮影スタッフも使わず、わずかな予算で全編生成AIによって制作していることを明らかにした。8月にこの英語のSFスリラーに着手し、すでに制作を終えた。映像、演技、音声はすべて自ら生成しており、映画祭での上映を経て2027年に劇場公開する予定だ。"
+                "x": "台湾のテクノロジー企業imCore Corp.は土曜日、台北で開かれたTaiwan Creative Content Fest(TCCF)で、AI映画制作プラットフォームCore Studioを発表した。脚本開発や絵コンテから画像生成、編集、カラーグレーディングまで、制作工程全体をカバーすることを目指す。"
               },
               {
                 "t": "p",
-                "x": "物語は、地震と小惑星の落下に見舞われるロサンゼルスで事件を捜査する野心的な警察官を追う。Dumontは25年以上前に脚本を書いたが、災害シーンの製作費が膨大になるため、企画は棚上げされていた。"
+                "x": "「私たちのチームは、プロのクリエイターには画像生成ツール以上のものが必要だと理解している」と、imCore Corp.の創業者兼CEOでTWR Entertainmentの創業者でもあるCharles Leeは述べた。"
               },
               {
                 "t": "p",
-                "x": "パリの自宅で、自ら作成したショット分割をもとにシーンごとに映像を生成し、演技やミザンセヌ、編集の主導権は手放さない。「私はスタッフと仕事をする監督のようなものだ。ただ、そのスタッフが機械なのだ」と彼は語る。「常に指示を出している」"
+                "x": "プラットフォームの目玉は、仮想の制作スタッフとして機能する24以上の専門AIエージェント群で、ストーリー開発、アセット生成、視覚効果、編集、カラーグレーディングを担う。プリプロダクションでは、Core StudioのStory Atlasツールが読み込んだ脚本をシーン、ショット、絵コンテに分解し、キャラクターデザイン、衣装、小道具、音声プロファイルの一貫性を保つ。"
               },
               {
                 "t": "p",
-                "x": "The Endはセールスエージェントが決まっていないまま、独立して製作している。「フランスで映画の資金を集めるのはますます難しくなっている」と彼は言う。「今の私には完全な自由がある。やりたいことができる」"
+                "x": "AI-generatedの出力にはすべて、その背後にあるモデル、プロンプト、パラメーター、コスト、人間によるレビュー結果の記録が付く。Real EngineはReal Video、Real HDR、Real Reviveを組み合わせ、AI-generatedの映像のディテールを鮮明にし、色深度を8-bitから16-bitに引き上げ、白飛びしたハイライトを修正する。クラウドのワークスペースでは、異なる国のチームが同じプロジェクトで作業できる。"
+              },
+              {
+                "t": "p",
+                "x": "発表会では四つのAI-assistedプロジェクトの制作者が作品を紹介した。その中には「God Being」の制作者Jerry Zhouもいた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Bruno Dumont\nAI生成《The End》",
-          "body": "Bruno Dumont不用演员和剧组，在家用生成式AI拍摄科幻惊悚片The End。",
-          "mini_headline": "Dumont用生成式AI拍摄《The End》",
+          "headline": "Core Studio发布\n配24个AI制片智能体",
+          "body": "台湾imCore在TCCF发布Core Studio，24个以上智能体覆盖从剧本开发到制作。",
+          "mini_headline": "Core Studio的24个电影智能体",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/2/6/1491626_Director-Burno-Dumont-Portrait.jpg",
-                "cap": "Bruno Dumont"
+                "src": "https://variety.com/wp-content/uploads/2026/11/imcore.jpg?w=1000&h=667&crop=1",
+                "cap": "imcore"
               },
               {
                 "t": "p",
-                "x": "曾获戛纳(Cannes)奖项的法国导演Bruno Dumont透露，他的新长片The End完全使用生成式AI制作，没有演员，也没有传统剧组，预算极低。他于8月开始这部英语科幻惊悚片的工作，现已完成制作，影像、表演和声音均由他亲自生成，计划先在电影节亮相，再于2027年院线上映。"
+                "x": "台湾科技公司imCore Corp.于周六在台北举行的Taiwan Creative Content Fest（TCCF）上推出AI电影制作平台Core Studio，目标是覆盖从剧本开发、分镜到图像生成、剪辑和调色的完整制作流程。"
               },
               {
                 "t": "p",
-                "x": "影片讲述一名野心勃勃的洛杉矶警察在城市遭遇地震和小行星坠落之际调查一桩罪案。Dumont在25年多前就写好了剧本，但灾难场面成本过高，项目因此搁置。"
+                "x": "“我们的团队明白，专业创作者需要的不只是图像生成工具。”imCore Corp.创始人兼CEO、TWR Entertainment创始人Charles Lee说。"
               },
               {
                 "t": "p",
-                "x": "他在巴黎家中根据自己拆分的镜头逐场生成画面，同时把控表演、场面调度和剪辑。“我就像一位与剧组合作的导演，只不过我的剧组是一台机器，”他说，“我一直在给它下指令。”"
+                "x": "该平台的主要卖点是一组24个以上的专业AI智能体，它们充当虚拟制作团队，负责故事开发、素材生成、视觉特效、剪辑和调色。在前期制作阶段，Core Studio的Story Atlas工具会把导入的剧本拆分为场景、镜头和分镜，并保持角色设计、服装、道具和声音档案的一致。"
               },
               {
                 "t": "p",
-                "x": "他以独立方式制作The End，目前尚无销售代理。“在法国为电影融资越来越难，”他说，“如今我拥有完全的自由，可以做我想做的事。”"
+                "x": "每个AI-generated输出都附有其背后所用模型、提示词、参数、成本和人工审核结果的记录。Real Engine结合Real Video、Real HDR和Real Revive，可锐化AI-generated画面的细节，将色深从8-bit提升到16-bit，并修复过曝的高光。云端工作区让不同国家的团队能在同一项目上协作。"
+              },
+              {
+                "t": "p",
+                "x": "四个AI-assisted项目的创作者在发布会上展示了作品，其中包括“God Being”的创作者Jerry Zhou。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Bruno Dumont rueda 'The End'\níntegramente con AI generativa",
-          "body": "Bruno Dumont filma en casa su thriller de ciencia ficción archivado The End con AI generativa, sin actores ni equipo.",
-          "mini_headline": "Dumont rueda 'The End' con AI generativa",
+          "headline": "Core Studio llega con\n24 agentes de cine con AI",
+          "body": "La taiwanesa imCore presentó Core Studio en TCCF, con más de 24 agentes que abarcan del guion a la producción.",
+          "mini_headline": "Los 24 agentes de cine de Core Studio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/2/6/1491626_Director-Burno-Dumont-Portrait.jpg",
-                "cap": "Bruno Dumont"
+                "src": "https://variety.com/wp-content/uploads/2026/11/imcore.jpg?w=1000&h=667&crop=1",
+                "cap": "imcore"
               },
               {
                 "t": "p",
-                "x": "El director francés Bruno Dumont, premiado en Cannes, ha revelado que su próximo largometraje, The End, se está realizando íntegramente con AI generativa, sin actores ni equipo de rodaje tradicional y con un presupuesto mínimo. Comenzó a trabajar en este thriller de ciencia ficción en inglés en agosto y ya ha terminado la producción: generó él mismo las imágenes, las interpretaciones y el sonido. Prevé un recorrido por festivales y el estreno en salas en 2027."
+                "x": "La tecnológica taiwanesa imCore Corp. lanzó el sábado en el Taiwan Creative Content Fest (TCCF), en Taipéi, Core Studio, una plataforma de cine con AI que aspira a cubrir todo el proceso de producción, desde el desarrollo del guion y el storyboard hasta la generación de imágenes, la edición y la corrección de color."
               },
               {
                 "t": "p",
-                "x": "La película sigue a un ambicioso policía de Los Angeles que investiga un crimen mientras la ciudad sufre terremotos y la caída de asteroides. Dumont escribió el guion hace más de 25 años, pero sus secuencias de catástrofe lo hacían prohibitivamente caro, así que quedó archivado."
+                "x": "“Nuestro equipo entiende que los creadores profesionales necesitan algo más que herramientas de generación de imágenes”, dijo Charles Lee, fundador y CEO de imCore Corp. y fundador de TWR Entertainment."
               },
               {
                 "t": "p",
-                "x": "Desde su casa en París, genera las imágenes escena por escena a partir de su propio desglose de planos, sin ceder el control de las interpretaciones, la puesta en escena ni el montaje. “Soy como un director que trabaja con un equipo, solo que mi equipo es una máquina”, dijo. “Le doy instrucciones constantemente”."
+                "x": "El principal atractivo de la plataforma es un conjunto de más de 24 agentes de AI especializados que funcionan como un equipo de producción virtual y se ocupan del desarrollo de la historia, la generación de recursos, los efectos visuales, la edición y la corrección de color. Para la preproducción, la herramienta Story Atlas de Core Studio divide un guion importado en escenas, planos y storyboards, y mantiene la coherencia de los diseños de personajes, el vestuario, la utilería y los perfiles de voz."
               },
               {
                 "t": "p",
-                "x": "Produce The End de forma independiente, todavía sin agente de ventas. “Cada vez es más difícil financiar películas en Francia”, afirmó. “Hoy tengo libertad total. Puedo hacer lo que quiero”."
+                "x": "Cada resultado generado con AI (AI-generated) incluye un registro de los modelos, prompts, parámetros, costos y resultados de revisión humana que lo respaldan. Real Engine combina Real Video, Real HDR y Real Revive para afinar el detalle, elevar la profundidad de color de 8-bit a 16-bit y corregir las altas luces quemadas en las imágenes AI-generated. Un espacio de trabajo en la nube permite que equipos de distintos países trabajen en el mismo proyecto."
+              },
+              {
+                "t": "p",
+                "x": "En el lanzamiento, los creadores de cuatro proyectos asistidos por AI (AI-assisted) presentaron su trabajo, entre ellos Jerry Zhou, creador de “God Being”."
               }
             ]
           }
@@ -199,125 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Bruno Dumont\nAI로 만든 The End",
-          "body": "Bruno Dumont은 배우·스태프 없이 The End를 생성형 AI로 만든다.",
-          "mini_headline": "Dumont, 생성형 AI로 'The End' 제작",
+          "headline": "Core Studio 출시\nAI 영화 에이전트 24종",
+          "body": "imCore가 TCCF에서 에이전트 24종 이상의 Core Studio를 공개했다.",
+          "mini_headline": "Core Studio 영화 에이전트 24종",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/2/6/1491626_Director-Burno-Dumont-Portrait.jpg",
-                "cap": "Bruno Dumont"
+                "src": "https://variety.com/wp-content/uploads/2026/11/imcore.jpg?w=1000&h=667&crop=1",
+                "cap": "imcore"
               },
               {
                 "t": "p",
-                "x": "칸영화제(Cannes) 수상 경력의 프랑스 감독 Bruno Dumont이 차기 장편 The End를 배우도, 기존 촬영 스태프도 없이 아주 적은 예산으로 전부 생성형 AI로 만들고 있다고 밝혔다. 그는 8월에 이 영어 SF 스릴러 작업을 시작해 이미 제작을 마쳤고, 이미지와 연기, 사운드를 모두 직접 생성했다. 영화제 상영을 거쳐 2027년 극장 개봉할 계획이다."
+                "x": "대만 기술기업 imCore Corp.는 토요일 타이베이에서 열린 Taiwan Creative Content Fest(TCCF)에서 AI 영화 제작 플랫폼 Core Studio를 선보였다. 각본 개발과 스토리보드부터 이미지 생성, 편집, 색보정까지 제작 전 과정을 아우르는 것이 목표다."
               },
               {
                 "t": "p",
-                "x": "영화는 지진과 소행성 낙하로 도시가 무너져 가는 가운데 한 사건을 수사하는 야심 찬 로스앤젤레스 경찰관을 따라간다. Dumont은 25년도 더 전에 각본을 썼지만, 재난 장면에 드는 비용이 감당하기 어려울 만큼 커서 작품을 미뤄 두었다."
+                "x": "“우리 팀은 전문 창작자에게 이미지 생성 도구 이상의 것이 필요하다는 점을 알고 있다”고 imCore Corp. 창업자 겸 CEO이자 TWR Entertainment 창업자인 Charles Lee가 말했다."
               },
               {
                 "t": "p",
-                "x": "그는 파리 자택에서 직접 짠 숏 분할을 바탕으로 장면마다 영상을 생성하면서, 연기와 미장센, 편집의 통제권은 스스로 쥐고 있다. 그는 “나는 스태프와 일하는 감독과 같다. 다만 내 스태프가 기계일 뿐이다”라며 “끊임없이 지시를 내린다”고 말했다."
+                "x": "플랫폼의 핵심은 가상 제작진 역할을 하는 24종 이상의 전문 AI 에이전트다. 이들은 스토리 개발, 에셋 생성, 시각효과, 편집, 색보정을 맡는다. 프리프로덕션 단계에서는 Core Studio의 Story Atlas 도구가 불러온 각본을 신, 숏, 스토리보드로 나누고 캐릭터 디자인과 의상, 소품, 목소리 프로필을 일관되게 유지한다."
               },
               {
                 "t": "p",
-                "x": "그는 아직 판매 대행사 없이 The End를 독립적으로 제작하고 있다. 그는 “프랑스에서 영화 자금을 모으기가 점점 더 어려워지고 있다”며 “지금 나는 완전한 자유를 누린다. 하고 싶은 것을 할 수 있다”고 말했다."
+                "x": "모든 AI-generated 결과물에는 그 뒤에 쓰인 모델, 프롬프트, 파라미터, 비용, 사람의 검토 결과 기록이 붙는다. Real Engine은 Real Video, Real HDR, Real Revive를 결합해 AI-generated 영상의 디테일을 살리고, 색 심도를 8-bit에서 16-bit로 높이며, 날아간 하이라이트를 바로잡는다. 클라우드 작업 공간에서는 여러 나라의 팀이 같은 프로젝트를 함께 작업할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "출시 행사에서는 AI-assisted 프로젝트 네 편의 창작자들이 작품을 소개했다. 그중에는 “God Being”을 만든 Jerry Zhou도 있었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Bruno Dumont\n全編AIで「The End」",
-          "body": "Bruno Dumontは俳優もスタッフも使わず、生成AIでThe Endを制作している。",
-          "mini_headline": "Dumont、生成AIで「The End」を制作",
+          "headline": "Core Studio始動\nAI映画エージェント24種",
+          "body": "imCoreがTCCFで、24を超えるエージェントを備えるCore Studioを発表した。",
+          "mini_headline": "Core Studioの映画エージェント24種",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/2/6/1491626_Director-Burno-Dumont-Portrait.jpg",
-                "cap": "Bruno Dumont"
+                "src": "https://variety.com/wp-content/uploads/2026/11/imcore.jpg?w=1000&h=667&crop=1",
+                "cap": "imcore"
               },
               {
                 "t": "p",
-                "x": "カンヌ(Cannes)で受賞歴のあるフランスの映画監督Bruno Dumontが、次回作The Endを俳優も従来の撮影スタッフも使わず、わずかな予算で全編生成AIによって制作していることを明らかにした。8月にこの英語のSFスリラーに着手し、すでに制作を終えた。映像、演技、音声はすべて自ら生成しており、映画祭での上映を経て2027年に劇場公開する予定だ。"
+                "x": "台湾のテクノロジー企業imCore Corp.は土曜日、台北で開かれたTaiwan Creative Content Fest(TCCF)で、AI映画制作プラットフォームCore Studioを発表した。脚本開発や絵コンテから画像生成、編集、カラーグレーディングまで、制作工程全体をカバーすることを目指す。"
               },
               {
                 "t": "p",
-                "x": "物語は、地震と小惑星の落下に見舞われるロサンゼルスで事件を捜査する野心的な警察官を追う。Dumontは25年以上前に脚本を書いたが、災害シーンの製作費が膨大になるため、企画は棚上げされていた。"
+                "x": "「私たちのチームは、プロのクリエイターには画像生成ツール以上のものが必要だと理解している」と、imCore Corp.の創業者兼CEOでTWR Entertainmentの創業者でもあるCharles Leeは述べた。"
               },
               {
                 "t": "p",
-                "x": "パリの自宅で、自ら作成したショット分割をもとにシーンごとに映像を生成し、演技やミザンセヌ、編集の主導権は手放さない。「私はスタッフと仕事をする監督のようなものだ。ただ、そのスタッフが機械なのだ」と彼は語る。「常に指示を出している」"
+                "x": "プラットフォームの目玉は、仮想の制作スタッフとして機能する24以上の専門AIエージェント群で、ストーリー開発、アセット生成、視覚効果、編集、カラーグレーディングを担う。プリプロダクションでは、Core StudioのStory Atlasツールが読み込んだ脚本をシーン、ショット、絵コンテに分解し、キャラクターデザイン、衣装、小道具、音声プロファイルの一貫性を保つ。"
               },
               {
                 "t": "p",
-                "x": "The Endはセールスエージェントが決まっていないまま、独立して製作している。「フランスで映画の資金を集めるのはますます難しくなっている」と彼は言う。「今の私には完全な自由がある。やりたいことができる」"
+                "x": "AI-generatedの出力にはすべて、その背後にあるモデル、プロンプト、パラメーター、コスト、人間によるレビュー結果の記録が付く。Real EngineはReal Video、Real HDR、Real Reviveを組み合わせ、AI-generatedの映像のディテールを鮮明にし、色深度を8-bitから16-bitに引き上げ、白飛びしたハイライトを修正する。クラウドのワークスペースでは、異なる国のチームが同じプロジェクトで作業できる。"
+              },
+              {
+                "t": "p",
+                "x": "発表会では四つのAI-assistedプロジェクトの制作者が作品を紹介した。その中には「God Being」の制作者Jerry Zhouもいた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Bruno Dumont\nAI生成《The End》",
-          "body": "Bruno Dumont不用演员和剧组，在家用生成式AI拍摄科幻惊悚片The End。",
-          "mini_headline": "Dumont用生成式AI拍摄《The End》",
+          "headline": "Core Studio发布\n配24个AI制片智能体",
+          "body": "台湾imCore在TCCF发布Core Studio，24个以上智能体覆盖从剧本开发到制作。",
+          "mini_headline": "Core Studio的24个电影智能体",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/2/6/1491626_Director-Burno-Dumont-Portrait.jpg",
-                "cap": "Bruno Dumont"
+                "src": "https://variety.com/wp-content/uploads/2026/11/imcore.jpg?w=1000&h=667&crop=1",
+                "cap": "imcore"
               },
               {
                 "t": "p",
-                "x": "曾获戛纳(Cannes)奖项的法国导演Bruno Dumont透露，他的新长片The End完全使用生成式AI制作，没有演员，也没有传统剧组，预算极低。他于8月开始这部英语科幻惊悚片的工作，现已完成制作，影像、表演和声音均由他亲自生成，计划先在电影节亮相，再于2027年院线上映。"
+                "x": "台湾科技公司imCore Corp.于周六在台北举行的Taiwan Creative Content Fest（TCCF）上推出AI电影制作平台Core Studio，目标是覆盖从剧本开发、分镜到图像生成、剪辑和调色的完整制作流程。"
               },
               {
                 "t": "p",
-                "x": "影片讲述一名野心勃勃的洛杉矶警察在城市遭遇地震和小行星坠落之际调查一桩罪案。Dumont在25年多前就写好了剧本，但灾难场面成本过高，项目因此搁置。"
+                "x": "“我们的团队明白，专业创作者需要的不只是图像生成工具。”imCore Corp.创始人兼CEO、TWR Entertainment创始人Charles Lee说。"
               },
               {
                 "t": "p",
-                "x": "他在巴黎家中根据自己拆分的镜头逐场生成画面，同时把控表演、场面调度和剪辑。“我就像一位与剧组合作的导演，只不过我的剧组是一台机器，”他说，“我一直在给它下指令。”"
+                "x": "该平台的主要卖点是一组24个以上的专业AI智能体，它们充当虚拟制作团队，负责故事开发、素材生成、视觉特效、剪辑和调色。在前期制作阶段，Core Studio的Story Atlas工具会把导入的剧本拆分为场景、镜头和分镜，并保持角色设计、服装、道具和声音档案的一致。"
               },
               {
                 "t": "p",
-                "x": "他以独立方式制作The End，目前尚无销售代理。“在法国为电影融资越来越难，”他说，“如今我拥有完全的自由，可以做我想做的事。”"
+                "x": "每个AI-generated输出都附有其背后所用模型、提示词、参数、成本和人工审核结果的记录。Real Engine结合Real Video、Real HDR和Real Revive，可锐化AI-generated画面的细节，将色深从8-bit提升到16-bit，并修复过曝的高光。云端工作区让不同国家的团队能在同一项目上协作。"
+              },
+              {
+                "t": "p",
+                "x": "四个AI-assisted项目的创作者在发布会上展示了作品，其中包括“God Being”的创作者Jerry Zhou。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Bruno Dumont rueda 'The End'\níntegramente con AI generativa",
-          "body": "Bruno Dumont filma en casa su thriller de ciencia ficción archivado The End con AI generativa, sin actores ni equipo.",
-          "mini_headline": "Dumont rueda 'The End' con AI generativa",
+          "headline": "Core Studio llega con\n24 agentes de cine con AI",
+          "body": "La taiwanesa imCore presentó Core Studio en TCCF, con más de 24 agentes que abarcan del guion a la producción.",
+          "mini_headline": "Los 24 agentes de cine de Core Studio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/2/6/1491626_Director-Burno-Dumont-Portrait.jpg",
-                "cap": "Bruno Dumont"
+                "src": "https://variety.com/wp-content/uploads/2026/11/imcore.jpg?w=1000&h=667&crop=1",
+                "cap": "imcore"
               },
               {
                 "t": "p",
-                "x": "El director francés Bruno Dumont, premiado en Cannes, ha revelado que su próximo largometraje, The End, se está realizando íntegramente con AI generativa, sin actores ni equipo de rodaje tradicional y con un presupuesto mínimo. Comenzó a trabajar en este thriller de ciencia ficción en inglés en agosto y ya ha terminado la producción: generó él mismo las imágenes, las interpretaciones y el sonido. Prevé un recorrido por festivales y el estreno en salas en 2027."
+                "x": "La tecnológica taiwanesa imCore Corp. lanzó el sábado en el Taiwan Creative Content Fest (TCCF), en Taipéi, Core Studio, una plataforma de cine con AI que aspira a cubrir todo el proceso de producción, desde el desarrollo del guion y el storyboard hasta la generación de imágenes, la edición y la corrección de color."
               },
               {
                 "t": "p",
-                "x": "La película sigue a un ambicioso policía de Los Angeles que investiga un crimen mientras la ciudad sufre terremotos y la caída de asteroides. Dumont escribió el guion hace más de 25 años, pero sus secuencias de catástrofe lo hacían prohibitivamente caro, así que quedó archivado."
+                "x": "“Nuestro equipo entiende que los creadores profesionales necesitan algo más que herramientas de generación de imágenes”, dijo Charles Lee, fundador y CEO de imCore Corp. y fundador de TWR Entertainment."
               },
               {
                 "t": "p",
-                "x": "Desde su casa en París, genera las imágenes escena por escena a partir de su propio desglose de planos, sin ceder el control de las interpretaciones, la puesta en escena ni el montaje. “Soy como un director que trabaja con un equipo, solo que mi equipo es una máquina”, dijo. “Le doy instrucciones constantemente”."
+                "x": "El principal atractivo de la plataforma es un conjunto de más de 24 agentes de AI especializados que funcionan como un equipo de producción virtual y se ocupan del desarrollo de la historia, la generación de recursos, los efectos visuales, la edición y la corrección de color. Para la preproducción, la herramienta Story Atlas de Core Studio divide un guion importado en escenas, planos y storyboards, y mantiene la coherencia de los diseños de personajes, el vestuario, la utilería y los perfiles de voz."
               },
               {
                 "t": "p",
-                "x": "Produce The End de forma independiente, todavía sin agente de ventas. “Cada vez es más difícil financiar películas en Francia”, afirmó. “Hoy tengo libertad total. Puedo hacer lo que quiero”."
+                "x": "Cada resultado generado con AI (AI-generated) incluye un registro de los modelos, prompts, parámetros, costos y resultados de revisión humana que lo respaldan. Real Engine combina Real Video, Real HDR y Real Revive para afinar el detalle, elevar la profundidad de color de 8-bit a 16-bit y corregir las altas luces quemadas en las imágenes AI-generated. Un espacio de trabajo en la nube permite que equipos de distintos países trabajen en el mismo proyecto."
+              },
+              {
+                "t": "p",
+                "x": "En el lanzamiento, los creadores de cuatro proyectos asistidos por AI (AI-assisted) presentaron su trabajo, entre ellos Jerry Zhou, creador de “God Being”."
               }
             ]
           }
@@ -325,15 +365,15 @@
       }
     },
     {
-      "id": "fujitv-drama-genai-2027",
+      "id": "hotsea-melochu-anime",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "후지TV 모든 실사 드라마\n생성형 AI 전면 도입",
-      "body": "후지TV는 2027년 10월부터 모든 실사 드라마 제작에 생성형 AI를 쓴다.",
-      "mini_headline": "후지TV 드라마\n생성형 AI 도입",
+      "headline": "AI로 만든 애니\n멜로츄 첫 편 공개",
+      "body": "뜨거운바다가 생성형 AI로 제작한 오리지널 애니 첫 편을 공개했다.",
+      "mini_headline": "AI 애니 멜로츄 공개",
       "tool": "Movies",
-      "source": "Yonhap (연합뉴스)",
-      "url": "https://www.yna.co.kr/view/AKR20261106154600009",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/life-culture/general-cultural/6343262",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
@@ -341,353 +381,275 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://img4.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106154600009_02_i_P4.jpg",
-            "cap": "일본 후지텔레비전이 생성형 Ai를 활용해 제작한 드라마 '구명병동 24시' [후지텔레비전 홈페이지 캡처]"
+            "src": "https://i3n.news1.kr/system/photos/2026/11/4/8197258/high.jpg",
+            "cap": "생성형 AI 애니메이션 두근두근 멜로츄의 주인공을 그린 홍보 이미지 (뜨거운바다 제공. 재판매 및 DB 금지) 2026.11.5/뉴스1"
           },
           {
             "t": "p",
-            "x": "일본의 주요 지상파 민영방송 중 하나인 후지텔레비전이 드라마 제작에 인공지능(AI)을 전면 도입하기로 했다."
+            "x": "크리에이티브 스튜디오 뜨거운바다가 생성형 인공지능(AI) 기술로 제작한 오리지널 애니메이션 '두근두근 멜로츄!'(Beat On! Mello-Chu!)를 공개했다. 첫 에피소드는 미국 뉴욕을 배경으로 한다."
           },
           {
             "t": "p",
-            "x": "니혼게이자이신문(닛케이)은 6일 후지미디어홀딩스 산하 후지텔레비전이 내년 10월부터 모든 실사 드라마 제작에 생성형 AI를 활용할 계획이라고 보도했다."
+            "x": "작품은 소녀 4명이 세계 여러 나라를 여행하면서 문화와 언어를 배우고 음악으로 성장하는 이야기다. K팝과 여행 서사를 결합한 뮤직 어드벤처 형식이다."
           },
           {
             "t": "p",
-            "x": "구글의 동영상 생성 툴인 '나노 바나나' 등을 드라마 제작에 사용한다. 후지텔레비전은 지난 9월 관련 팀을 신설해 AI 동영상 제작회사에서 기술을 전수받았다."
+            "x": "첫 편에서는 주인공들이 뉴욕에서 현지 문화를 접하고 공연을 준비한다. 공개된 영상 분량은 약 5분이다."
           },
           {
             "t": "p",
-            "x": "이 회사는 현재 방송 중인 드라마 '구명병동 24시'의 제작에 이미 AI를 활용하고 있다. 수술 장면에서 혈액이 분출하는 것을 AI로 제작했다."
+            "x": "뜨거운바다는 기획과 캐릭터 설정, 이야기 구성, 장면 제작을 자체적으로 진행했다. 오리지널 음악의 작사와 작곡도 제작 범위에 포함했다."
           },
           {
             "t": "p",
-            "x": "과거에는 비슷한 장면을 묘사할 때 액체가 뿜어져 나오는 것을 직접 촬영하거나 시각효과(VFX)를 사용했는데, AI 활용으로 VFX 작업 때보다 시간을 70~80% 단축할 수 있었다."
+            "x": "제작 과정에는 생성형 AI 영상 기술을 활용했다. 음악 창작 경험과 서사 구성을 연결해 독립된 지식재산(IP)을 구축하는 데 초점을 맞췄다."
           },
           {
             "t": "p",
-            "x": "후지텔레비전은 AI 활용으로 제작 비용을 줄일 수 있을 것으로 기대하고 있다. 실제로 '구명병동 24시'에서는 폭발 사고 현장 모습의 공중 촬영을 헬기를 사용하지 않고 AI로 생성했다."
+            "x": "진호현 뜨거운바다 PD가 기획과 제작을 총괄했다. 생성형 AI 제작 과정의 시행착오를 겪으면서도 영상과 음악이 하나의 이야기로 이어지게 작업했다."
           },
           {
             "t": "p",
-            "x": "닛케이에 따르면 일본 지상파 방송국들은 모바일시대 시청자 이탈로 인해 광고 수입 감소를 겪고 있다. 이에 따라 제작비가 줄어들면서 작년도(2025년 4월~2026년 3월) 민방 5개사의 방송 프로그램 제작비는 9년 전보다 12%나 감소했다."
+            "x": "뜨거운바다 측은 앞으로 장르와 형식이 다른 오리지널 IP를 계속 발굴할 계획이다. 자체 콘텐츠 포트폴리오를 장기적으로 확대한다는 구상이다."
           },
           {
             "t": "p",
-            "x": "모든 드라마 제작에 AI를 활용하는 것은 후지텔레비전이 일본 방송국 중 처음 하는 시도로, 다른 방송국에도 AI 활용이 확산할 것으로 예상된다. 이미 TBS의 '비반트(VIVANT), 니혼테레비의 '도쿄 미코닌자'가 제작에 AI를 사용했다."
-          },
-          {
-            "t": "p",
-            "x": "앞서 온라인 동영상 서비스(OTT) 넷플릭스는 지난 7월 300여개 작품에서 AI가 편집·가공 중심으로 사용됐다고 밝힌 바 있다."
-          },
-          {
-            "t": "p",
-            "x": "개인 데이터 입력 금지, 배우의 초상과 목소리 무단 사용 금지 등을 내용으로 한 가이드라인을 공표하기도 했는데, 후지텔레비전 역시 AI 활용 시 배우의 얼굴을 학습시키지 말아야 한다는 방침을 갖고 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106154600009_01_i_P4.jpg",
-            "cap": "일본 도쿄 오다이바에 있는 후지텔레비전 본사 건물 [교도 자료사진]"
+            "x": "'두근두근 멜로츄!' 첫 영상은 뜨거운바다 공식 유튜브 채널에서 공개했다. 이 회사는 생성형 AI를 활용한 브랜드 영상과 자체 콘텐츠를 기획·제작한다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "후지TV 모든 실사 드라마\n생성형 AI 전면 도입",
-          "body": "후지TV는 2027년 10월부터 모든 실사 드라마 제작에 생성형 AI를 쓴다.",
-          "mini_headline": "후지TV 드라마\n생성형 AI 도입",
+          "headline": "AI로 만든 애니\n멜로츄 첫 편 공개",
+          "body": "뜨거운바다가 생성형 AI로 제작한 오리지널 애니 첫 편을 공개했다.",
+          "mini_headline": "AI 애니 멜로츄 공개",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106154600009_02_i_P4.jpg",
-                "cap": "일본 후지텔레비전이 생성형 Ai를 활용해 제작한 드라마 '구명병동 24시' [후지텔레비전 홈페이지 캡처]"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/4/8197258/high.jpg",
+                "cap": "생성형 AI 애니메이션 두근두근 멜로츄의 주인공을 그린 홍보 이미지 (뜨거운바다 제공. 재판매 및 DB 금지) 2026.11.5/뉴스1"
               },
               {
                 "t": "p",
-                "x": "일본의 주요 지상파 민영방송 중 하나인 후지텔레비전이 드라마 제작에 인공지능(AI)을 전면 도입하기로 했다."
+                "x": "크리에이티브 스튜디오 뜨거운바다가 생성형 인공지능(AI) 기술로 제작한 오리지널 애니메이션 '두근두근 멜로츄!'(Beat On! Mello-Chu!)를 공개했다. 첫 에피소드는 미국 뉴욕을 배경으로 한다."
               },
               {
                 "t": "p",
-                "x": "니혼게이자이신문(닛케이)은 6일 후지미디어홀딩스 산하 후지텔레비전이 내년 10월부터 모든 실사 드라마 제작에 생성형 AI를 활용할 계획이라고 보도했다."
+                "x": "작품은 소녀 4명이 세계 여러 나라를 여행하면서 문화와 언어를 배우고 음악으로 성장하는 이야기다. K팝과 여행 서사를 결합한 뮤직 어드벤처 형식이다."
               },
               {
                 "t": "p",
-                "x": "구글의 동영상 생성 툴인 '나노 바나나' 등을 드라마 제작에 사용한다. 후지텔레비전은 지난 9월 관련 팀을 신설해 AI 동영상 제작회사에서 기술을 전수받았다."
+                "x": "첫 편에서는 주인공들이 뉴욕에서 현지 문화를 접하고 공연을 준비한다. 공개된 영상 분량은 약 5분이다."
               },
               {
                 "t": "p",
-                "x": "이 회사는 현재 방송 중인 드라마 '구명병동 24시'의 제작에 이미 AI를 활용하고 있다. 수술 장면에서 혈액이 분출하는 것을 AI로 제작했다."
+                "x": "뜨거운바다는 기획과 캐릭터 설정, 이야기 구성, 장면 제작을 자체적으로 진행했다. 오리지널 음악의 작사와 작곡도 제작 범위에 포함했다."
               },
               {
                 "t": "p",
-                "x": "과거에는 비슷한 장면을 묘사할 때 액체가 뿜어져 나오는 것을 직접 촬영하거나 시각효과(VFX)를 사용했는데, AI 활용으로 VFX 작업 때보다 시간을 70~80% 단축할 수 있었다."
+                "x": "제작 과정에는 생성형 AI 영상 기술을 활용했다. 음악 창작 경험과 서사 구성을 연결해 독립된 지식재산(IP)을 구축하는 데 초점을 맞췄다."
               },
               {
                 "t": "p",
-                "x": "후지텔레비전은 AI 활용으로 제작 비용을 줄일 수 있을 것으로 기대하고 있다. 실제로 '구명병동 24시'에서는 폭발 사고 현장 모습의 공중 촬영을 헬기를 사용하지 않고 AI로 생성했다."
+                "x": "진호현 뜨거운바다 PD가 기획과 제작을 총괄했다. 생성형 AI 제작 과정의 시행착오를 겪으면서도 영상과 음악이 하나의 이야기로 이어지게 작업했다."
               },
               {
                 "t": "p",
-                "x": "닛케이에 따르면 일본 지상파 방송국들은 모바일시대 시청자 이탈로 인해 광고 수입 감소를 겪고 있다. 이에 따라 제작비가 줄어들면서 작년도(2025년 4월~2026년 3월) 민방 5개사의 방송 프로그램 제작비는 9년 전보다 12%나 감소했다."
+                "x": "뜨거운바다 측은 앞으로 장르와 형식이 다른 오리지널 IP를 계속 발굴할 계획이다. 자체 콘텐츠 포트폴리오를 장기적으로 확대한다는 구상이다."
               },
               {
                 "t": "p",
-                "x": "모든 드라마 제작에 AI를 활용하는 것은 후지텔레비전이 일본 방송국 중 처음 하는 시도로, 다른 방송국에도 AI 활용이 확산할 것으로 예상된다. 이미 TBS의 '비반트(VIVANT), 니혼테레비의 '도쿄 미코닌자'가 제작에 AI를 사용했다."
-              },
-              {
-                "t": "p",
-                "x": "앞서 온라인 동영상 서비스(OTT) 넷플릭스는 지난 7월 300여개 작품에서 AI가 편집·가공 중심으로 사용됐다고 밝힌 바 있다."
-              },
-              {
-                "t": "p",
-                "x": "개인 데이터 입력 금지, 배우의 초상과 목소리 무단 사용 금지 등을 내용으로 한 가이드라인을 공표하기도 했는데, 후지텔레비전 역시 AI 활용 시 배우의 얼굴을 학습시키지 말아야 한다는 방침을 갖고 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106154600009_01_i_P4.jpg",
-                "cap": "일본 도쿄 오다이바에 있는 후지텔레비전 본사 건물 [교도 자료사진]"
+                "x": "'두근두근 멜로츄!' 첫 영상은 뜨거운바다 공식 유튜브 채널에서 공개했다. 이 회사는 생성형 AI를 활용한 브랜드 영상과 자체 콘텐츠를 기획·제작한다."
               }
             ]
           }
         },
         "en": {
-          "headline": "Fuji TV to use generative AI\nin all live-action dramas",
-          "body": "Fuji TV will use generative AI in making all of its live-action dramas starting in October 2027.",
-          "mini_headline": "Fuji TV brings generative AI to dramas",
+          "headline": "AI-made anime Mello-Chu\ndebuts its first episode",
+          "body": "Hotsea has released the first episode of an original anime made with generative AI.",
+          "mini_headline": "AI anime Mello-Chu debuts",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106154600009_02_i_P4.jpg",
-                "cap": "'Kyumei Byoto 24 Ji,' a drama Japan's Fuji Television produced using generative Ai [Fuji Television website capture]"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/4/8197258/high.jpg",
+                "cap": "Promotional image of the main character of the generative AI animation Dugeun Dugeun Mello-Chu (courtesy of Hotsea; resale and DB use prohibited) 2026.11.5/News1"
               },
               {
                 "t": "p",
-                "x": "Fuji Television, one of Japan's major commercial terrestrial broadcasters, has decided to fully adopt artificial intelligence (AI) in drama production."
+                "x": "Creative studio Hotsea has released 'Dugeun Dugeun Mello-Chu!' (Beat On! Mello-Chu!), an original animation made with generative artificial intelligence (AI) technology. The first episode is set in New York, in the United States."
               },
               {
                 "t": "p",
-                "x": "The Nihon Keizai Shimbun (Nikkei) reported on the 6th that Fuji Television, a subsidiary of Fuji Media Holdings, plans to use generative AI in producing all of its live-action dramas from October next year."
+                "x": "The series follows 4 girls who travel to countries around the world, learning their cultures and languages and growing through music. It is a music adventure that combines K-pop with a travel narrative."
               },
               {
                 "t": "p",
-                "x": "It will use tools such as Google's video generation tool 'Nano Banana' in drama production. Fuji Television set up a dedicated team in September and received technical training from an AI video production company."
+                "x": "In the first episode, the main characters experience local culture in New York and prepare for a performance. The released video runs about 5 minutes."
               },
               {
                 "t": "p",
-                "x": "The company is already using AI in producing 'Kyumei Byoto 24 Ji,' a drama currently on air. Blood spurting in surgery scenes was created with AI."
+                "x": "Hotsea handled the planning, character design, story structure and scene production in-house. The lyrics and composition of the original music were also part of the production."
               },
               {
                 "t": "p",
-                "x": "In the past, similar scenes were depicted by filming liquid spraying out or by using visual effects (VFX), but using AI cut the time by 70~80% compared with VFX work."
+                "x": "Generative AI video technology was used in production. The focus was on building a standalone intellectual property (IP) by linking experience in music creation with narrative structure."
               },
               {
                 "t": "p",
-                "x": "Fuji Television expects AI to help reduce production costs. In 'Kyumei Byoto 24 Ji,' aerial shots of an explosion site were generated with AI instead of being filmed from a helicopter."
+                "x": "Hotsea PD Jin Ho-hyun led planning and production. Despite trial and error in the generative AI production process, he worked to make the video and music connect into a single story."
               },
               {
                 "t": "p",
-                "x": "According to Nikkei, Japan's terrestrial broadcasters are seeing advertising revenue fall as viewers leave in the mobile era. Production budgets have shrunk as a result, and in the last fiscal year (April 2025 to March 2026), program production costs at 5 commercial broadcasters were 12% lower than 9 years earlier."
+                "x": "Hotsea plans to keep developing original IP in different genres and formats, with the aim of expanding its own content portfolio over the long term."
               },
               {
                 "t": "p",
-                "x": "Fuji Television is the first Japanese broadcaster to use AI across all of its drama production, and AI use is expected to spread to other broadcasters. TBS's 'VIVANT' and Nippon TV's 'Tokyo Miko Ninja' have already used AI in production."
-              },
-              {
-                "t": "p",
-                "x": "Earlier, in July, the online video service (OTT) Netflix said AI had been used in more than 300 titles, mainly for editing and processing."
-              },
-              {
-                "t": "p",
-                "x": "Netflix also published guidelines banning the input of personal data and the unauthorized use of actors' likenesses and voices, and Fuji Television likewise has a policy of not training AI on actors' faces."
-              },
-              {
-                "t": "img",
-                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106154600009_01_i_P4.jpg",
-                "cap": "Fuji Television headquarters in Odaiba, Tokyo [Kyodo file photo]"
+                "x": "The first video of 'Dugeun Dugeun Mello-Chu!' was released on Hotsea's official YouTube channel. The company plans and produces brand videos and original content using generative AI."
               }
             ]
           }
         },
         "ja": {
-          "headline": "フジTV全実写ドラマ\n生成AIを全面導入",
-          "body": "フジTVは2027年10月から、すべての実写ドラマ制作に生成AIを使う。",
-          "mini_headline": "フジTVのドラマ、生成AI導入",
+          "headline": "AIで作ったアニメ\nメロチュ初回を公開",
+          "body": "Hotseaが生成AIで制作したオリジナルアニメの初回を公開した。",
+          "mini_headline": "AIアニメ「メロチュ」公開",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106154600009_02_i_P4.jpg",
-                "cap": "フジテレビが生成Aiを活用して制作したドラマ『救命病棟24時』[フジテレビのホームページより]"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/4/8197258/high.jpg",
+                "cap": "生成AIアニメ『ドキドキ・メロチュ』の主人公を描いた宣伝画像(Hotsea提供、転売およびDB禁止)2026.11.5/News1"
               },
               {
                 "t": "p",
-                "x": "日本の主要な民放地上波局の一つであるフジテレビが、ドラマ制作に人工知能(AI)を全面導入することを決めた。"
+                "x": "クリエイティブスタジオのHotseaが、生成人工知能(AI)技術で制作したオリジナルアニメ『ドキドキ・メロチュ!』(Beat On! Mello-Chu!)を公開した。最初のエピソードは米国ニューヨークが舞台だ。"
               },
               {
                 "t": "p",
-                "x": "日本経済新聞(日経)は6日、フジ・メディア・ホールディングス傘下のフジテレビが来年10月から、すべての実写ドラマ制作に生成AIを活用する計画だと報じた。"
+                "x": "作品は4人の少女が世界各国を旅しながら文化と言語を学び、音楽を通じて成長する物語だ。K-POPと旅の物語を組み合わせたミュージックアドベンチャー形式である。"
               },
               {
                 "t": "p",
-                "x": "Googleの動画生成ツール「Nano Banana」などをドラマ制作に使う。フジテレビは9月に専門チームを新設し、AI動画制作会社から技術を学んだ。"
+                "x": "初回では主人公たちがニューヨークで現地の文化に触れ、公演を準備する。公開された映像の長さは約5分だ。"
               },
               {
                 "t": "p",
-                "x": "同社は放送中のドラマ『救命病棟24時』の制作ですでにAIを活用している。手術シーンで血液が噴き出す様子をAIで作った。"
+                "x": "Hotseaは企画、キャラクター設定、ストーリー構成、シーン制作を自社で手がけた。オリジナル楽曲の作詞・作曲も制作範囲に含めた。"
               },
               {
                 "t": "p",
-                "x": "従来は同様の場面を描く際、液体が噴き出す様子を実際に撮影するか、視覚効果(VFX)を使っていたが、AIの活用でVFX作業に比べて時間を70~80%短縮できた。"
+                "x": "制作過程には生成AI映像技術を活用した。音楽創作の経験と物語構成を結びつけ、独立した知的財産(IP)を築くことに焦点を当てた。"
               },
               {
                 "t": "p",
-                "x": "フジテレビはAIの活用で制作費を削減できると期待している。実際に『救命病棟24時』では、爆発事故現場の空撮をヘリコプターを使わずにAIで生成した。"
+                "x": "Hotseaのチン・ホヒョンPDが企画と制作を統括した。生成AIによる制作過程で試行錯誤を重ねながらも、映像と音楽が一つの物語としてつながるよう取り組んだ。"
               },
               {
                 "t": "p",
-                "x": "日経によると、日本の地上波局はモバイル時代の視聴者離れで広告収入の減少に直面している。これに伴い制作費も縮小し、昨年度(2025年4月~2026年3月)の民放5社の番組制作費は9年前より12%も減った。"
+                "x": "Hotseaは今後もジャンルや形式の異なるオリジナルIPを発掘し続ける計画だ。自社コンテンツのポートフォリオを長期的に拡大する構想である。"
               },
               {
                 "t": "p",
-                "x": "すべてのドラマ制作にAIを活用するのは日本の放送局でフジテレビが初めてで、他局にもAI活用が広がるとみられる。すでにTBSの『VIVANT』、日本テレビの『東京ミコニンジャ』が制作にAIを使っている。"
-              },
-              {
-                "t": "p",
-                "x": "これに先立ち、動画配信サービス(OTT)のNetflixは7月、300以上の作品でAIを主に編集・加工に使ったと明らかにしていた。"
-              },
-              {
-                "t": "p",
-                "x": "Netflixは個人データの入力禁止や俳優の肖像・声の無断使用禁止などを盛り込んだガイドラインも公表しており、フジテレビもAI活用時に俳優の顔を学習させない方針を取っている。"
-              },
-              {
-                "t": "img",
-                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106154600009_01_i_P4.jpg",
-                "cap": "東京・お台場にあるフジテレビ本社ビル[共同通信資料写真]"
+                "x": "『ドキドキ・メロチュ!』の最初の映像はHotsea公式YouTubeチャンネルで公開された。同社は生成AIを活用したブランド映像と自社コンテンツを企画・制作している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "富士TV全部真人剧\n全面引入生成式AI",
-          "body": "富士TV将从2027年10月起，在所有真人剧制作中使用生成式AI。",
-          "mini_headline": "富士TV电视剧引入生成式AI",
+          "headline": "AI制作的动画\nMello-Chu首集公开",
+          "body": "创意工作室Hotsea公开了用生成式AI制作的原创动画首集。",
+          "mini_headline": "AI动画Mello-Chu公开",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106154600009_02_i_P4.jpg",
-                "cap": "日本富士电视台利用生成式Ai制作的电视剧《救命病栋24小时》[富士电视台官网截图]"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/4/8197258/high.jpg",
+                "cap": "描绘生成式AI动画《心动心动Mello-Chu》主角的宣传图（Hotsea提供，禁止转售及DB使用）2026.11.5/News1"
               },
               {
                 "t": "p",
-                "x": "日本主要地面民营电视台之一的富士电视台决定在电视剧制作中全面引入人工智能(AI)。"
+                "x": "创意工作室Hotsea公开了运用生成式人工智能（AI）技术制作的原创动画《心动心动Mello-Chu!》（Beat On! Mello-Chu!）。首集以美国纽约为背景。"
               },
               {
                 "t": "p",
-                "x": "《日本经济新闻》(日经)6日报道，富士媒体控股旗下的富士电视台计划从明年10月起，在所有真人电视剧制作中使用生成式AI。"
+                "x": "作品讲述4名少女周游世界各国、学习文化与语言并通过音乐成长的故事，是结合K-pop与旅行叙事的音乐冒险形式。"
               },
               {
                 "t": "p",
-                "x": "富士电视台将在电视剧制作中使用Google的视频生成工具“Nano Banana”等。富士电视台于9月新设相关团队，并向一家AI视频制作公司学习了技术。"
+                "x": "首集中，主人公们在纽约接触当地文化并筹备演出。公开的视频时长约5分钟。"
               },
               {
                 "t": "p",
-                "x": "该公司已在正在播出的电视剧《救命病栋24小时》制作中使用AI，手术场景中血液喷涌的画面就是用AI制作的。"
+                "x": "Hotsea自行完成了策划、角色设定、故事构成和场景制作，原创音乐的作词作曲也包含在制作范围内。"
               },
               {
                 "t": "p",
-                "x": "过去描绘类似场景时，要么实拍液体喷出，要么使用视觉特效(VFX)；借助AI，所需时间比VFX作业缩短了70~80%。"
+                "x": "制作过程中运用了生成式AI视频技术，重点在于将音乐创作经验与叙事构成相连接，打造独立的知识产权（IP）。"
               },
               {
                 "t": "p",
-                "x": "富士电视台期待借助AI降低制作成本。实际上，《救命病栋24小时》中爆炸事故现场的航拍画面并未动用直升机，而是由AI生成。"
+                "x": "Hotsea PD Jin Ho-hyun统筹策划与制作。他在生成式AI制作过程中虽经历了反复试错，仍努力让影像与音乐串联成一个完整的故事。"
               },
               {
                 "t": "p",
-                "x": "据日经报道，受移动时代观众流失影响，日本地面电视台广告收入不断下滑。制作经费随之缩减，上一财年(2025年4月~2026年3月)5家民营电视台的节目制作费比9年前减少了12%。"
+                "x": "Hotsea方面计划今后继续发掘不同类型和形式的原创IP，并长期扩大自有内容组合。"
               },
               {
                 "t": "p",
-                "x": "富士电视台是日本首家在所有电视剧制作中使用AI的电视台，预计AI应用将扩展到其他电视台。TBS的《VIVANT》和日本电视台的《东京巫女忍者》已在制作中使用了AI。"
-              },
-              {
-                "t": "p",
-                "x": "此前，在线视频服务(OTT)Netflix曾于7月表示，AI已被用于300多部作品，主要用于剪辑和加工。"
-              },
-              {
-                "t": "p",
-                "x": "Netflix还公布了禁止输入个人数据、禁止擅自使用演员肖像和声音等内容的指导方针；富士电视台同样规定，使用AI时不得让其学习演员的面孔。"
-              },
-              {
-                "t": "img",
-                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106154600009_01_i_P4.jpg",
-                "cap": "位于日本东京台场的富士电视台总部大楼[共同社资料照片]"
+                "x": "《心动心动Mello-Chu!》首支视频已在Hotsea官方YouTube频道公开。该公司策划制作运用生成式AI的品牌视频与自有内容。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Fuji TV usará AI generativa en\ntodos sus dramas de imagen real",
-          "body": "Fuji TV usará AI generativa en la producción de todos sus dramas de imagen real a partir de octubre de 2027.",
-          "mini_headline": "Fuji TV lleva la AI generativa a sus dramas",
+          "headline": "Un anime hecho con AI estrena\nel primer episodio de Mello-Chu",
+          "body": "Hotsea publicó el primer episodio de un anime original producido con AI generativa.",
+          "mini_headline": "Se estrena el anime de AI Mello-Chu",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106154600009_02_i_P4.jpg",
-                "cap": "'Kyumei Byoto 24 Ji', drama que la japonesa Fuji Television produjo con Ai generativa [captura del sitio web de Fuji Television]"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/4/8197258/high.jpg",
+                "cap": "Imagen promocional de la protagonista de la animación de AI generativa Dugeun Dugeun Mello-Chu (cortesía de Hotsea; prohibida su reventa y uso en DB) 2026.11.5/News1"
               },
               {
                 "t": "p",
-                "x": "Fuji Television, una de las principales cadenas comerciales de televisión terrestre de Japón, ha decidido adoptar de lleno la inteligencia artificial (AI) en la producción de dramas."
+                "x": "El estudio creativo Hotsea presentó 'Dugeun Dugeun Mello-Chu!' (Beat On! Mello-Chu!), una animación original producida con tecnología de inteligencia artificial (AI) generativa. El primer episodio transcurre en Nueva York, Estados Unidos."
               },
               {
                 "t": "p",
-                "x": "El diario Nihon Keizai Shimbun (Nikkei) informó el día 6 que Fuji Television, filial de Fuji Media Holdings, planea usar AI generativa en la producción de todos sus dramas de imagen real a partir de octubre del próximo año."
+                "x": "La obra cuenta la historia de 4 chicas que viajan por distintos países del mundo, aprenden sus culturas e idiomas y crecen a través de la música. Es una aventura musical que combina el K-pop con un relato de viajes."
               },
               {
                 "t": "p",
-                "x": "Usará herramientas como 'Nano Banana', la herramienta de generación de video de Google, en la producción de dramas. Fuji Television creó en septiembre un equipo dedicado y recibió formación técnica de una productora de video con AI."
+                "x": "En el primer episodio, las protagonistas conocen la cultura local de Nueva York y preparan una actuación. El video publicado dura unos 5 minutos."
               },
               {
                 "t": "p",
-                "x": "La empresa ya usa AI en la producción del drama 'Kyumei Byoto 24 Ji', actualmente en emisión. La sangre que brota en las escenas de cirugía se creó con AI."
+                "x": "Hotsea se encargó por su cuenta de la planificación, el diseño de personajes, la estructura de la historia y la producción de las escenas. La letra y la composición de la música original también formaron parte de la producción."
               },
               {
                 "t": "p",
-                "x": "Antes, para escenas similares se filmaba directamente el líquido que salía a chorro o se recurría a efectos visuales (VFX), pero con AI el tiempo se redujo un 70~80% respecto al trabajo con VFX."
+                "x": "En la producción se utilizó tecnología de video con AI generativa. El objetivo fue construir una propiedad intelectual (IP) independiente uniendo la experiencia en creación musical con la construcción narrativa."
               },
               {
                 "t": "p",
-                "x": "Fuji Television espera reducir los costos de producción gracias a la AI. De hecho, en 'Kyumei Byoto 24 Ji' las tomas aéreas del lugar de una explosión se generaron con AI, sin usar un helicóptero."
+                "x": "Jin Ho-hyun, PD de Hotsea, dirigió la planificación y la producción. Pese al ensayo y error propio de la producción con AI generativa, trabajó para que el video y la música se unieran en una sola historia."
               },
               {
                 "t": "p",
-                "x": "Según Nikkei, las cadenas terrestres japonesas sufren una caída de sus ingresos publicitarios por la fuga de espectadores en la era móvil. En consecuencia, los presupuestos se han reducido: en el último año fiscal (abril de 2025 a marzo de 2026), el gasto en producción de programas de las 5 cadenas comerciales fue un 12% menor que 9 años antes."
+                "x": "Hotsea planea seguir desarrollando IP originales de distintos géneros y formatos, con la idea de ampliar a largo plazo su propio portafolio de contenidos."
               },
               {
                 "t": "p",
-                "x": "Fuji Television es la primera cadena japonesa que usa AI en la producción de todos sus dramas, y se espera que su uso se extienda a otras cadenas. 'VIVANT', de TBS, y 'Tokyo Miko Ninja', de Nippon TV, ya usaron AI en su producción."
-              },
-              {
-                "t": "p",
-                "x": "Antes, en julio, el servicio de video en línea (OTT) Netflix había señalado que la AI se usó en más de 300 obras, sobre todo en edición y procesamiento."
-              },
-              {
-                "t": "p",
-                "x": "Netflix también publicó directrices que prohíben introducir datos personales y usar sin autorización la imagen y la voz de los actores; Fuji Television, por su parte, tiene como norma no entrenar la AI con los rostros de los actores."
-              },
-              {
-                "t": "img",
-                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106154600009_01_i_P4.jpg",
-                "cap": "Sede de Fuji Television en Odaiba, Tokio [foto de archivo de Kyodo]"
+                "x": "El primer video de 'Dugeun Dugeun Mello-Chu!' se publicó en el canal oficial de YouTube de Hotsea. La empresa planifica y produce videos de marca y contenidos propios con AI generativa."
               }
             ]
           }
@@ -695,241 +657,189 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "Fuji TV to use generative AI\nin all live-action dramas",
-          "body": "Fuji TV will use generative AI in making all of its live-action dramas starting in October 2027.",
-          "mini_headline": "Fuji TV brings generative AI to dramas",
+          "headline": "AI-made anime Mello-Chu\ndebuts its first episode",
+          "body": "Hotsea has released the first episode of an original anime made with generative AI.",
+          "mini_headline": "AI anime Mello-Chu debuts",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106154600009_02_i_P4.jpg",
-                "cap": "'Kyumei Byoto 24 Ji,' a drama Japan's Fuji Television produced using generative Ai [Fuji Television website capture]"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/4/8197258/high.jpg",
+                "cap": "Promotional image of the main character of the generative AI animation Dugeun Dugeun Mello-Chu (courtesy of Hotsea; resale and DB use prohibited) 2026.11.5/News1"
               },
               {
                 "t": "p",
-                "x": "Fuji Television, one of Japan's major commercial terrestrial broadcasters, has decided to fully adopt artificial intelligence (AI) in drama production."
+                "x": "Creative studio Hotsea has released 'Dugeun Dugeun Mello-Chu!' (Beat On! Mello-Chu!), an original animation made with generative artificial intelligence (AI) technology. The first episode is set in New York, in the United States."
               },
               {
                 "t": "p",
-                "x": "The Nihon Keizai Shimbun (Nikkei) reported on the 6th that Fuji Television, a subsidiary of Fuji Media Holdings, plans to use generative AI in producing all of its live-action dramas from October next year."
+                "x": "The series follows 4 girls who travel to countries around the world, learning their cultures and languages and growing through music. It is a music adventure that combines K-pop with a travel narrative."
               },
               {
                 "t": "p",
-                "x": "It will use tools such as Google's video generation tool 'Nano Banana' in drama production. Fuji Television set up a dedicated team in September and received technical training from an AI video production company."
+                "x": "In the first episode, the main characters experience local culture in New York and prepare for a performance. The released video runs about 5 minutes."
               },
               {
                 "t": "p",
-                "x": "The company is already using AI in producing 'Kyumei Byoto 24 Ji,' a drama currently on air. Blood spurting in surgery scenes was created with AI."
+                "x": "Hotsea handled the planning, character design, story structure and scene production in-house. The lyrics and composition of the original music were also part of the production."
               },
               {
                 "t": "p",
-                "x": "In the past, similar scenes were depicted by filming liquid spraying out or by using visual effects (VFX), but using AI cut the time by 70~80% compared with VFX work."
+                "x": "Generative AI video technology was used in production. The focus was on building a standalone intellectual property (IP) by linking experience in music creation with narrative structure."
               },
               {
                 "t": "p",
-                "x": "Fuji Television expects AI to help reduce production costs. In 'Kyumei Byoto 24 Ji,' aerial shots of an explosion site were generated with AI instead of being filmed from a helicopter."
+                "x": "Hotsea PD Jin Ho-hyun led planning and production. Despite trial and error in the generative AI production process, he worked to make the video and music connect into a single story."
               },
               {
                 "t": "p",
-                "x": "According to Nikkei, Japan's terrestrial broadcasters are seeing advertising revenue fall as viewers leave in the mobile era. Production budgets have shrunk as a result, and in the last fiscal year (April 2025 to March 2026), program production costs at 5 commercial broadcasters were 12% lower than 9 years earlier."
+                "x": "Hotsea plans to keep developing original IP in different genres and formats, with the aim of expanding its own content portfolio over the long term."
               },
               {
                 "t": "p",
-                "x": "Fuji Television is the first Japanese broadcaster to use AI across all of its drama production, and AI use is expected to spread to other broadcasters. TBS's 'VIVANT' and Nippon TV's 'Tokyo Miko Ninja' have already used AI in production."
-              },
-              {
-                "t": "p",
-                "x": "Earlier, in July, the online video service (OTT) Netflix said AI had been used in more than 300 titles, mainly for editing and processing."
-              },
-              {
-                "t": "p",
-                "x": "Netflix also published guidelines banning the input of personal data and the unauthorized use of actors' likenesses and voices, and Fuji Television likewise has a policy of not training AI on actors' faces."
-              },
-              {
-                "t": "img",
-                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106154600009_01_i_P4.jpg",
-                "cap": "Fuji Television headquarters in Odaiba, Tokyo [Kyodo file photo]"
+                "x": "The first video of 'Dugeun Dugeun Mello-Chu!' was released on Hotsea's official YouTube channel. The company plans and produces brand videos and original content using generative AI."
               }
             ]
           }
         },
         "ja": {
-          "headline": "フジTV全実写ドラマ\n生成AIを全面導入",
-          "body": "フジTVは2027年10月から、すべての実写ドラマ制作に生成AIを使う。",
-          "mini_headline": "フジTVのドラマ、生成AI導入",
+          "headline": "AIで作ったアニメ\nメロチュ初回を公開",
+          "body": "Hotseaが生成AIで制作したオリジナルアニメの初回を公開した。",
+          "mini_headline": "AIアニメ「メロチュ」公開",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106154600009_02_i_P4.jpg",
-                "cap": "フジテレビが生成Aiを活用して制作したドラマ『救命病棟24時』[フジテレビのホームページより]"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/4/8197258/high.jpg",
+                "cap": "生成AIアニメ『ドキドキ・メロチュ』の主人公を描いた宣伝画像(Hotsea提供、転売およびDB禁止)2026.11.5/News1"
               },
               {
                 "t": "p",
-                "x": "日本の主要な民放地上波局の一つであるフジテレビが、ドラマ制作に人工知能(AI)を全面導入することを決めた。"
+                "x": "クリエイティブスタジオのHotseaが、生成人工知能(AI)技術で制作したオリジナルアニメ『ドキドキ・メロチュ!』(Beat On! Mello-Chu!)を公開した。最初のエピソードは米国ニューヨークが舞台だ。"
               },
               {
                 "t": "p",
-                "x": "日本経済新聞(日経)は6日、フジ・メディア・ホールディングス傘下のフジテレビが来年10月から、すべての実写ドラマ制作に生成AIを活用する計画だと報じた。"
+                "x": "作品は4人の少女が世界各国を旅しながら文化と言語を学び、音楽を通じて成長する物語だ。K-POPと旅の物語を組み合わせたミュージックアドベンチャー形式である。"
               },
               {
                 "t": "p",
-                "x": "Googleの動画生成ツール「Nano Banana」などをドラマ制作に使う。フジテレビは9月に専門チームを新設し、AI動画制作会社から技術を学んだ。"
+                "x": "初回では主人公たちがニューヨークで現地の文化に触れ、公演を準備する。公開された映像の長さは約5分だ。"
               },
               {
                 "t": "p",
-                "x": "同社は放送中のドラマ『救命病棟24時』の制作ですでにAIを活用している。手術シーンで血液が噴き出す様子をAIで作った。"
+                "x": "Hotseaは企画、キャラクター設定、ストーリー構成、シーン制作を自社で手がけた。オリジナル楽曲の作詞・作曲も制作範囲に含めた。"
               },
               {
                 "t": "p",
-                "x": "従来は同様の場面を描く際、液体が噴き出す様子を実際に撮影するか、視覚効果(VFX)を使っていたが、AIの活用でVFX作業に比べて時間を70~80%短縮できた。"
+                "x": "制作過程には生成AI映像技術を活用した。音楽創作の経験と物語構成を結びつけ、独立した知的財産(IP)を築くことに焦点を当てた。"
               },
               {
                 "t": "p",
-                "x": "フジテレビはAIの活用で制作費を削減できると期待している。実際に『救命病棟24時』では、爆発事故現場の空撮をヘリコプターを使わずにAIで生成した。"
+                "x": "Hotseaのチン・ホヒョンPDが企画と制作を統括した。生成AIによる制作過程で試行錯誤を重ねながらも、映像と音楽が一つの物語としてつながるよう取り組んだ。"
               },
               {
                 "t": "p",
-                "x": "日経によると、日本の地上波局はモバイル時代の視聴者離れで広告収入の減少に直面している。これに伴い制作費も縮小し、昨年度(2025年4月~2026年3月)の民放5社の番組制作費は9年前より12%も減った。"
+                "x": "Hotseaは今後もジャンルや形式の異なるオリジナルIPを発掘し続ける計画だ。自社コンテンツのポートフォリオを長期的に拡大する構想である。"
               },
               {
                 "t": "p",
-                "x": "すべてのドラマ制作にAIを活用するのは日本の放送局でフジテレビが初めてで、他局にもAI活用が広がるとみられる。すでにTBSの『VIVANT』、日本テレビの『東京ミコニンジャ』が制作にAIを使っている。"
-              },
-              {
-                "t": "p",
-                "x": "これに先立ち、動画配信サービス(OTT)のNetflixは7月、300以上の作品でAIを主に編集・加工に使ったと明らかにしていた。"
-              },
-              {
-                "t": "p",
-                "x": "Netflixは個人データの入力禁止や俳優の肖像・声の無断使用禁止などを盛り込んだガイドラインも公表しており、フジテレビもAI活用時に俳優の顔を学習させない方針を取っている。"
-              },
-              {
-                "t": "img",
-                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106154600009_01_i_P4.jpg",
-                "cap": "東京・お台場にあるフジテレビ本社ビル[共同通信資料写真]"
+                "x": "『ドキドキ・メロチュ!』の最初の映像はHotsea公式YouTubeチャンネルで公開された。同社は生成AIを活用したブランド映像と自社コンテンツを企画・制作している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "富士TV全部真人剧\n全面引入生成式AI",
-          "body": "富士TV将从2027年10月起，在所有真人剧制作中使用生成式AI。",
-          "mini_headline": "富士TV电视剧引入生成式AI",
+          "headline": "AI制作的动画\nMello-Chu首集公开",
+          "body": "创意工作室Hotsea公开了用生成式AI制作的原创动画首集。",
+          "mini_headline": "AI动画Mello-Chu公开",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106154600009_02_i_P4.jpg",
-                "cap": "日本富士电视台利用生成式Ai制作的电视剧《救命病栋24小时》[富士电视台官网截图]"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/4/8197258/high.jpg",
+                "cap": "描绘生成式AI动画《心动心动Mello-Chu》主角的宣传图（Hotsea提供，禁止转售及DB使用）2026.11.5/News1"
               },
               {
                 "t": "p",
-                "x": "日本主要地面民营电视台之一的富士电视台决定在电视剧制作中全面引入人工智能(AI)。"
+                "x": "创意工作室Hotsea公开了运用生成式人工智能（AI）技术制作的原创动画《心动心动Mello-Chu!》（Beat On! Mello-Chu!）。首集以美国纽约为背景。"
               },
               {
                 "t": "p",
-                "x": "《日本经济新闻》(日经)6日报道，富士媒体控股旗下的富士电视台计划从明年10月起，在所有真人电视剧制作中使用生成式AI。"
+                "x": "作品讲述4名少女周游世界各国、学习文化与语言并通过音乐成长的故事，是结合K-pop与旅行叙事的音乐冒险形式。"
               },
               {
                 "t": "p",
-                "x": "富士电视台将在电视剧制作中使用Google的视频生成工具“Nano Banana”等。富士电视台于9月新设相关团队，并向一家AI视频制作公司学习了技术。"
+                "x": "首集中，主人公们在纽约接触当地文化并筹备演出。公开的视频时长约5分钟。"
               },
               {
                 "t": "p",
-                "x": "该公司已在正在播出的电视剧《救命病栋24小时》制作中使用AI，手术场景中血液喷涌的画面就是用AI制作的。"
+                "x": "Hotsea自行完成了策划、角色设定、故事构成和场景制作，原创音乐的作词作曲也包含在制作范围内。"
               },
               {
                 "t": "p",
-                "x": "过去描绘类似场景时，要么实拍液体喷出，要么使用视觉特效(VFX)；借助AI，所需时间比VFX作业缩短了70~80%。"
+                "x": "制作过程中运用了生成式AI视频技术，重点在于将音乐创作经验与叙事构成相连接，打造独立的知识产权（IP）。"
               },
               {
                 "t": "p",
-                "x": "富士电视台期待借助AI降低制作成本。实际上，《救命病栋24小时》中爆炸事故现场的航拍画面并未动用直升机，而是由AI生成。"
+                "x": "Hotsea PD Jin Ho-hyun统筹策划与制作。他在生成式AI制作过程中虽经历了反复试错，仍努力让影像与音乐串联成一个完整的故事。"
               },
               {
                 "t": "p",
-                "x": "据日经报道，受移动时代观众流失影响，日本地面电视台广告收入不断下滑。制作经费随之缩减，上一财年(2025年4月~2026年3月)5家民营电视台的节目制作费比9年前减少了12%。"
+                "x": "Hotsea方面计划今后继续发掘不同类型和形式的原创IP，并长期扩大自有内容组合。"
               },
               {
                 "t": "p",
-                "x": "富士电视台是日本首家在所有电视剧制作中使用AI的电视台，预计AI应用将扩展到其他电视台。TBS的《VIVANT》和日本电视台的《东京巫女忍者》已在制作中使用了AI。"
-              },
-              {
-                "t": "p",
-                "x": "此前，在线视频服务(OTT)Netflix曾于7月表示，AI已被用于300多部作品，主要用于剪辑和加工。"
-              },
-              {
-                "t": "p",
-                "x": "Netflix还公布了禁止输入个人数据、禁止擅自使用演员肖像和声音等内容的指导方针；富士电视台同样规定，使用AI时不得让其学习演员的面孔。"
-              },
-              {
-                "t": "img",
-                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106154600009_01_i_P4.jpg",
-                "cap": "位于日本东京台场的富士电视台总部大楼[共同社资料照片]"
+                "x": "《心动心动Mello-Chu!》首支视频已在Hotsea官方YouTube频道公开。该公司策划制作运用生成式AI的品牌视频与自有内容。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Fuji TV usará AI generativa en\ntodos sus dramas de imagen real",
-          "body": "Fuji TV usará AI generativa en la producción de todos sus dramas de imagen real a partir de octubre de 2027.",
-          "mini_headline": "Fuji TV lleva la AI generativa a sus dramas",
+          "headline": "Un anime hecho con AI estrena\nel primer episodio de Mello-Chu",
+          "body": "Hotsea publicó el primer episodio de un anime original producido con AI generativa.",
+          "mini_headline": "Se estrena el anime de AI Mello-Chu",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106154600009_02_i_P4.jpg",
-                "cap": "'Kyumei Byoto 24 Ji', drama que la japonesa Fuji Television produjo con Ai generativa [captura del sitio web de Fuji Television]"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/4/8197258/high.jpg",
+                "cap": "Imagen promocional de la protagonista de la animación de AI generativa Dugeun Dugeun Mello-Chu (cortesía de Hotsea; prohibida su reventa y uso en DB) 2026.11.5/News1"
               },
               {
                 "t": "p",
-                "x": "Fuji Television, una de las principales cadenas comerciales de televisión terrestre de Japón, ha decidido adoptar de lleno la inteligencia artificial (AI) en la producción de dramas."
+                "x": "El estudio creativo Hotsea presentó 'Dugeun Dugeun Mello-Chu!' (Beat On! Mello-Chu!), una animación original producida con tecnología de inteligencia artificial (AI) generativa. El primer episodio transcurre en Nueva York, Estados Unidos."
               },
               {
                 "t": "p",
-                "x": "El diario Nihon Keizai Shimbun (Nikkei) informó el día 6 que Fuji Television, filial de Fuji Media Holdings, planea usar AI generativa en la producción de todos sus dramas de imagen real a partir de octubre del próximo año."
+                "x": "La obra cuenta la historia de 4 chicas que viajan por distintos países del mundo, aprenden sus culturas e idiomas y crecen a través de la música. Es una aventura musical que combina el K-pop con un relato de viajes."
               },
               {
                 "t": "p",
-                "x": "Usará herramientas como 'Nano Banana', la herramienta de generación de video de Google, en la producción de dramas. Fuji Television creó en septiembre un equipo dedicado y recibió formación técnica de una productora de video con AI."
+                "x": "En el primer episodio, las protagonistas conocen la cultura local de Nueva York y preparan una actuación. El video publicado dura unos 5 minutos."
               },
               {
                 "t": "p",
-                "x": "La empresa ya usa AI en la producción del drama 'Kyumei Byoto 24 Ji', actualmente en emisión. La sangre que brota en las escenas de cirugía se creó con AI."
+                "x": "Hotsea se encargó por su cuenta de la planificación, el diseño de personajes, la estructura de la historia y la producción de las escenas. La letra y la composición de la música original también formaron parte de la producción."
               },
               {
                 "t": "p",
-                "x": "Antes, para escenas similares se filmaba directamente el líquido que salía a chorro o se recurría a efectos visuales (VFX), pero con AI el tiempo se redujo un 70~80% respecto al trabajo con VFX."
+                "x": "En la producción se utilizó tecnología de video con AI generativa. El objetivo fue construir una propiedad intelectual (IP) independiente uniendo la experiencia en creación musical con la construcción narrativa."
               },
               {
                 "t": "p",
-                "x": "Fuji Television espera reducir los costos de producción gracias a la AI. De hecho, en 'Kyumei Byoto 24 Ji' las tomas aéreas del lugar de una explosión se generaron con AI, sin usar un helicóptero."
+                "x": "Jin Ho-hyun, PD de Hotsea, dirigió la planificación y la producción. Pese al ensayo y error propio de la producción con AI generativa, trabajó para que el video y la música se unieran en una sola historia."
               },
               {
                 "t": "p",
-                "x": "Según Nikkei, las cadenas terrestres japonesas sufren una caída de sus ingresos publicitarios por la fuga de espectadores en la era móvil. En consecuencia, los presupuestos se han reducido: en el último año fiscal (abril de 2025 a marzo de 2026), el gasto en producción de programas de las 5 cadenas comerciales fue un 12% menor que 9 años antes."
+                "x": "Hotsea planea seguir desarrollando IP originales de distintos géneros y formatos, con la idea de ampliar a largo plazo su propio portafolio de contenidos."
               },
               {
                 "t": "p",
-                "x": "Fuji Television es la primera cadena japonesa que usa AI en la producción de todos sus dramas, y se espera que su uso se extienda a otras cadenas. 'VIVANT', de TBS, y 'Tokyo Miko Ninja', de Nippon TV, ya usaron AI en su producción."
-              },
-              {
-                "t": "p",
-                "x": "Antes, en julio, el servicio de video en línea (OTT) Netflix había señalado que la AI se usó en más de 300 obras, sobre todo en edición y procesamiento."
-              },
-              {
-                "t": "p",
-                "x": "Netflix también publicó directrices que prohíben introducir datos personales y usar sin autorización la imagen y la voz de los actores; Fuji Television, por su parte, tiene como norma no entrenar la AI con los rostros de los actores."
-              },
-              {
-                "t": "img",
-                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106154600009_01_i_P4.jpg",
-                "cap": "Sede de Fuji Television en Odaiba, Tokio [foto de archivo de Kyodo]"
+                "x": "El primer video de 'Dugeun Dugeun Mello-Chu!' se publicó en el canal oficial de YouTube de Hotsea. La empresa planifica y produce videos de marca y contenidos propios con AI generativa."
               }
             ]
           }
@@ -937,195 +847,213 @@
       }
     },
     {
-      "id": "toei-genai-production-rules",
+      "id": "curiousrefuge-ai-clone-shoot",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Kamen Rider의\nToei, AI 규칙 마련",
-      "body": "Toei가 생성형 AI 규칙을 정하고 AI-made 배경 제작에 나섰다.",
-      "mini_headline": "Toei, 생성형 AI 규칙 마련",
+      "headline": "AI 클론이\n카메라 촬영을 대신한다",
+      "body": "Curious Refuge가 녹음과 참조 영상만으로 스튜디오 없이 촬영한다.",
+      "mini_headline": "AI 클론이 촬영을 대신하다",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/tv/markets-festivals/kamen-rider-studio-toei-generative-ai-rules-2027-game-slate-1236941104/",
+      "source": "Curious Refuge",
+      "url": "https://www.youtube.com/watch?v=CM1rPwuXw2A",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2017/12/kamen-rider-2.jpg?w=839&h=472&crop=1",
-            "cap": "Kamen Rider 2017"
+            "t": "video",
+            "yt": "CM1rPwuXw2A"
           },
           {
             "t": "p",
-            "x": "일본 대형 스튜디오 Toei가 생성형 AI 규칙을 마련하고 영화·영상 제작에 AI를 쓰기 시작했다. “Kamen Rider”를 비롯해 “Power Rangers”의 원작인 Super Sentai 시리즈를 만든 회사다. Yoshimura Fumio 사장 겸 CEO가 타이베이에서 열린 Taiwan Creative Content Fest(TCCF)에서 이같이 밝혔다."
+            "x": "Curious Refuge가 이번 튜토리얼에서 세계 어디서든 스튜디오를 차리는 법을 소개한다. 오디오와 참조 영상만 있으면 된다. 팀은 이 워크플로에 “Studio Anywhere”라는 이름을 붙였다."
           },
           {
             "t": "p",
-            "x": "실제 콘텐츠 제작에 AI를 어디까지 쓸 수 있는지는 전담 팀이 시험하는 중이다. Toei는 경험이 적은 프로듀서의 예산 산정을 돕는 AI 시스템도 만든다. Yoshimura는 “AI로 배경을 만드는 일 등은 이미 하고 있다”고 말했다."
+            "x": "1. 휴대폰이나 마이크로 오디오를 녹음하고 Adobe Podcast로 다듬는다. 2. 다듬은 녹음을 영상 편집기(팀은 Adobe Premiere를 썼다)에 불러와 검은 화면 영상으로 내보낸다. 3. 카메라 앞에서 말하는 자기 모습을 짧게 담은 클립을 고른다. 팀은 Caleb이 스튜디오에서 말하는 약 여섯 초 분량을 골랐다. 정지 이미지보다 영상 참조가 모델에 주는 정보가 많아서다."
           },
           {
             "t": "p",
-            "x": "관리 부서에서도 정형 업무와 데이터 처리, 사내 문의에 AI를 쓴다. Yoshimura는 “Dreams of Violets”도 언급했다. 전편을 생성형 AI로 만든 실사 장편으로 Tribeca Festival에 선정된 작품이다. 그는 “AI는 일자리를 빼앗는 것이 아니라 표현과 비즈니스의 가능성을 넓히는 도구라고 생각한다”고 말했다."
+            "x": "4. 오디오와 참조 영상을 Seedance 2.5(팀은 Magnific을 썼다)에 올리고 검은 영상에서는 오디오를, 참조 영상에서는 외모와 움직임, 환경을 가져오라고 프롬프트를 쓴다. 두 입력을 합쳐 30초까지만 받아서 긴 녹음은 나눠 넣어야 했다. Promise Studios에서 결과물을 본 사람들은 하나같이 실제 영상인 줄 알았다."
           },
           {
             "t": "p",
-            "x": "Toei Games는 2027년 초 “Hino”를 내놓고, 2027년 봄부터 “Killa”와 “Debug Nephemee”를 잇달아 선보인다. Toei New Wave 2033 계획에 따라 해외 매출 비중을 30%에서 50%로 끌어올리는 것이 목표다."
+            "x": "HeyGen, 직접 학습한 LoRA 워크플로와 견줘 보면 Seedance 2.5 쪽이 가장 그럴듯했다. HeyGen은 아직 불쾌한 골짜기를 벗어나지 못했다. 1080p 기준으로 이 예시들에 든 비용은 Seedance 2.5가 약 $16, HeyGen이 $0.05, fal.ai를 거친 세 번째 워크플로가 $24였다."
+          },
+          {
+            "t": "p",
+            "x": "Seedance 2.5, Wan 3, MiniMax H3로 각본만 넣고 연기까지 통째로 생성하면 그림은 그럴듯해도 연기 전달력은 아직 모자랐다. 목소리를 직접 녹음해 넣으면 타이밍과 개성이 살아났다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Kamen Rider studio Toei sets\ngenerative AI production rules",
-          "body": "Toei has set generative AI rules and started using AI in production, such as AI-made backgrounds.",
-          "mini_headline": "Toei sets\ngenerative AI rules",
+          "headline": "An AI clone stands in\nfor the on-camera shoot",
+          "body": "Curious Refuge shows how recorded audio and a reference video can yield on-camera footage without a studio.",
+          "mini_headline": "AI clone replaces the shoot",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2017/12/kamen-rider-2.jpg?w=839&h=472&crop=1",
-                "cap": "Kamen Rider 2017"
+                "t": "video",
+                "yt": "CM1rPwuXw2A"
               },
               {
                 "t": "p",
-                "x": "Toei, the Japanese studio giant behind “Kamen Rider” and the Super Sentai series that became “Power Rangers,” has drawn up rules for generative AI and started using AI in its film and video production, president and CEO Yoshimura Fumio said at the Taiwan Creative Content Fest (TCCF) in Taipei."
+                "x": "In this tutorial, Curious Refuge shows how to create a studio from anywhere in the world: all you need is audio and a reference video. The team calls the workflow \"Studio Anywhere.\""
               },
               {
                 "t": "p",
-                "x": "A dedicated team is testing how far AI can be used in actual content production, and Toei is building an AI system that helps less experienced producers estimate budgets. “We are already working on things like creating backgrounds with AI,” Yoshimura said."
+                "x": "1. Record your audio on a phone or microphone, then clean it up in Adobe Podcast. 2. Bring the enhanced recording into a video editor (they used Adobe Premiere) and export it as a video with a black screen. 3. Choose a short clip of yourself speaking on camera; they used roughly six seconds of Caleb talking in the studio, since video reference gives the model more to work with than a still image."
               },
               {
                 "t": "p",
-                "x": "Back-office departments also use AI for routine tasks, data processing and internal queries. Yoshimura pointed to “Dreams of Violets,” a live-action feature made entirely with generative AI that was selected for the Tribeca Festival. “I believe AI is not something that takes away jobs, but a tool that expands the possibilities of expression and business,” he said."
+                "x": "4. Upload the audio and reference to Seedance 2.5 (they used Magnific) and prompt it to use the audio from the black video and the look, movement and environment from the reference. The two inputs had a combined 30-second limit, so longer recordings had to be split. Everyone they showed at Promise Studios thought the result was real."
               },
               {
                 "t": "p",
-                "x": "Toei Games will release “Hino” in early 2027, with “Killa” and “Debug Nephemee” following from spring 2027, and under its Toei New Wave 2033 plan the company aims to raise its overseas sales share from 30% to 50%."
+                "x": "Compared with HeyGen and a custom-trained LoRA workflow, Seedance 2.5 was the most convincing; HeyGen still landed in the uncanny valley. Reported costs for these examples: about $16 for Seedance 2.5 at 1080p, $0.05 for HeyGen and $24 for the third workflow through fal.ai."
+              },
+              {
+                "t": "p",
+                "x": "Generating the whole performance from a script with Seedance 2.5, Wan 3 and MiniMax H3 produced convincing visuals, but the delivery wasn't there yet. Recording your own audio preserved the timing and personality."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Kamen Rider의\nToei, AI 규칙 마련",
-          "body": "Toei가 생성형 AI 규칙을 정하고 AI-made 배경 제작에 나섰다.",
-          "mini_headline": "Toei, 생성형 AI 규칙 마련",
+          "headline": "AI 클론이\n카메라 촬영을 대신한다",
+          "body": "Curious Refuge가 녹음과 참조 영상만으로 스튜디오 없이 촬영한다.",
+          "mini_headline": "AI 클론이 촬영을 대신하다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2017/12/kamen-rider-2.jpg?w=839&h=472&crop=1",
-                "cap": "Kamen Rider 2017"
+                "t": "video",
+                "yt": "CM1rPwuXw2A"
               },
               {
                 "t": "p",
-                "x": "일본 대형 스튜디오 Toei가 생성형 AI 규칙을 마련하고 영화·영상 제작에 AI를 쓰기 시작했다. “Kamen Rider”를 비롯해 “Power Rangers”의 원작인 Super Sentai 시리즈를 만든 회사다. Yoshimura Fumio 사장 겸 CEO가 타이베이에서 열린 Taiwan Creative Content Fest(TCCF)에서 이같이 밝혔다."
+                "x": "Curious Refuge가 이번 튜토리얼에서 세계 어디서든 스튜디오를 차리는 법을 소개한다. 오디오와 참조 영상만 있으면 된다. 팀은 이 워크플로에 “Studio Anywhere”라는 이름을 붙였다."
               },
               {
                 "t": "p",
-                "x": "실제 콘텐츠 제작에 AI를 어디까지 쓸 수 있는지는 전담 팀이 시험하는 중이다. Toei는 경험이 적은 프로듀서의 예산 산정을 돕는 AI 시스템도 만든다. Yoshimura는 “AI로 배경을 만드는 일 등은 이미 하고 있다”고 말했다."
+                "x": "1. 휴대폰이나 마이크로 오디오를 녹음하고 Adobe Podcast로 다듬는다. 2. 다듬은 녹음을 영상 편집기(팀은 Adobe Premiere를 썼다)에 불러와 검은 화면 영상으로 내보낸다. 3. 카메라 앞에서 말하는 자기 모습을 짧게 담은 클립을 고른다. 팀은 Caleb이 스튜디오에서 말하는 약 여섯 초 분량을 골랐다. 정지 이미지보다 영상 참조가 모델에 주는 정보가 많아서다."
               },
               {
                 "t": "p",
-                "x": "관리 부서에서도 정형 업무와 데이터 처리, 사내 문의에 AI를 쓴다. Yoshimura는 “Dreams of Violets”도 언급했다. 전편을 생성형 AI로 만든 실사 장편으로 Tribeca Festival에 선정된 작품이다. 그는 “AI는 일자리를 빼앗는 것이 아니라 표현과 비즈니스의 가능성을 넓히는 도구라고 생각한다”고 말했다."
+                "x": "4. 오디오와 참조 영상을 Seedance 2.5(팀은 Magnific을 썼다)에 올리고 검은 영상에서는 오디오를, 참조 영상에서는 외모와 움직임, 환경을 가져오라고 프롬프트를 쓴다. 두 입력을 합쳐 30초까지만 받아서 긴 녹음은 나눠 넣어야 했다. Promise Studios에서 결과물을 본 사람들은 하나같이 실제 영상인 줄 알았다."
               },
               {
                 "t": "p",
-                "x": "Toei Games는 2027년 초 “Hino”를 내놓고, 2027년 봄부터 “Killa”와 “Debug Nephemee”를 잇달아 선보인다. Toei New Wave 2033 계획에 따라 해외 매출 비중을 30%에서 50%로 끌어올리는 것이 목표다."
+                "x": "HeyGen, 직접 학습한 LoRA 워크플로와 견줘 보면 Seedance 2.5 쪽이 가장 그럴듯했다. HeyGen은 아직 불쾌한 골짜기를 벗어나지 못했다. 1080p 기준으로 이 예시들에 든 비용은 Seedance 2.5가 약 $16, HeyGen이 $0.05, fal.ai를 거친 세 번째 워크플로가 $24였다."
+              },
+              {
+                "t": "p",
+                "x": "Seedance 2.5, Wan 3, MiniMax H3로 각본만 넣고 연기까지 통째로 생성하면 그림은 그럴듯해도 연기 전달력은 아직 모자랐다. 목소리를 직접 녹음해 넣으면 타이밍과 개성이 살아났다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Kamen Riderの\nToei、生成AIルール策定",
-          "body": "Toeiは生成AIのルールを定め、AI-madeの背景など制作でのAI活用を始めた。",
-          "mini_headline": "Toei、生成AIルールを策定",
+          "headline": "AIクローンが\nカメラ撮影を代行",
+          "body": "Curious Refugeが、録音と参照動画だけでスタジオなしに出演映像を作る方法を示す。",
+          "mini_headline": "AIクローンが撮影を代行",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2017/12/kamen-rider-2.jpg?w=839&h=472&crop=1",
-                "cap": "Kamen Rider 2017"
+                "t": "video",
+                "yt": "CM1rPwuXw2A"
               },
               {
                 "t": "p",
-                "x": "「Kamen Rider」や、「Power Rangers」の原型となったSuper Sentaiシリーズで知られる日本の大手スタジオToeiが、生成AIのルールを策定し、映画・映像制作でAIの活用を始めた。社長兼CEOのYoshimura Fumioが台北で開かれたTaiwan Creative Content Fest(TCCF)で明らかにした。"
+                "x": "このチュートリアルでCurious Refugeは、世界のどこからでもスタジオを作る方法を紹介する。必要なのは音声と参照動画だけだ。チームはこのワークフローを「Studio Anywhere」と呼ぶ。"
               },
               {
                 "t": "p",
-                "x": "専任チームが実際のコンテンツ制作でAIをどこまで使えるかを検証しており、Toeiは経験の浅いプロデューサーの予算見積もりを支援するAIシステムも構築している。「AIで背景を作るといったことにはすでに取り組んでいる」とYoshimuraは述べた。"
+                "x": "1. スマートフォンかマイクで音声を録音し、Adobe Podcastでクリーンアップする。2. 補正した録音を動画編集ソフト(彼らはAdobe Premiereを使用)に取り込み、黒画面の動画として書き出す。3. カメラに向かって話す自分の短いクリップを選ぶ。彼らはCalebがスタジオで話す約六秒の映像を使った。静止画より動画の参照のほうがモデルに多くの手がかりを与えるからだ。"
               },
               {
                 "t": "p",
-                "x": "バックオフィス部門も定型業務やデータ処理、社内の問い合わせにAIを使っている。Yoshimuraは、全編を生成AIで制作し、Tribeca Festivalに選出された実写長編「Dreams of Violets」に触れ、「AIは仕事を奪うものではなく、表現とビジネスの可能性を広げる道具だと考えている」と語った。"
+                "x": "4. 音声と参照をSeedance 2.5(彼らはMagnificを使用)にアップロードし、黒い動画の音声と、参照の見た目・動き・環境を使うようプロンプトで指示する。二つの入力には合計30秒の上限があったため、長い録音は分割する必要があった。Promise Studiosで見せた全員が、結果を本物だと思った。"
               },
               {
                 "t": "p",
-                "x": "Toei Gamesは2027年初めに「Hino」を発売し、2027年春から「Killa」と「Debug Nephemee」が続く。同社はToei New Wave 2033計画のもと、海外売上比率を30%から50%に引き上げることを目指す。"
+                "x": "HeyGenや独自に学習させたLoRAワークフローと比べ、Seedance 2.5が最も自然だった。HeyGenは依然として不気味の谷にとどまった。これらの例で報告されたコストは、1080pのSeedance 2.5が約$16、HeyGenが$0.05、fal.ai経由の三つ目のワークフローが$24だ。"
+              },
+              {
+                "t": "p",
+                "x": "Seedance 2.5、Wan 3、MiniMax H3で台本から演技全体を生成すると映像には説得力があったが、演技の伝え方はまだ及ばなかった。自分の音声を録音すると、間合いと個性が保たれた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Kamen Rider出品方\nToei制定生成式AI规则",
-          "body": "Toei制定了生成式AI规则，并开始在制作中使用AI，例如AI-made背景。",
-          "mini_headline": "Toei制定生成式AI规则",
+          "headline": "AI克隆人\n代替出镜拍摄",
+          "body": "Curious Refuge演示如何仅凭录音和参考视频，无需影棚即可生成出镜画面。",
+          "mini_headline": "AI克隆代替拍摄",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2017/12/kamen-rider-2.jpg?w=839&h=472&crop=1",
-                "cap": "Kamen Rider 2017"
+                "t": "video",
+                "yt": "CM1rPwuXw2A"
               },
               {
                 "t": "p",
-                "x": "推出“Kamen Rider”以及后来衍生出“Power Rangers”的Super Sentai系列的日本大型片厂Toei，已制定生成式AI规则，并开始在电影和影像制作中使用AI。社长兼CEO Yoshimura Fumio在台北举行的Taiwan Creative Content Fest(TCCF)上透露了这一消息。"
+                "x": "在这期教程中，Curious Refuge展示了如何在世界任何地方打造一间影棚：只需音频和一段参考视频。团队将这一工作流称为“Studio Anywhere”。"
               },
               {
                 "t": "p",
-                "x": "一支专门团队正在测试AI在实际内容制作中能用到什么程度，Toei还在开发一套帮助经验较少的制片人估算预算的AI系统。“我们已经在做用AI制作背景之类的工作，”Yoshimura说。"
+                "x": "1. 用手机或麦克风录制音频，再用Adobe Podcast进行清理。2. 将增强后的录音导入视频编辑软件（他们用的是Adobe Premiere），导出为黑屏视频。3. 选一段自己对着镜头说话的短片；他们用了Caleb在影棚里讲话的约六秒画面，因为视频参考比静态图片能给模型提供更多信息。"
               },
               {
                 "t": "p",
-                "x": "后台部门也用AI处理日常事务、数据处理和内部咨询。Yoshimura提到完全用生成式AI制作、入选Tribeca Festival的真人长片“Dreams of Violets”，并表示：“我认为AI不是抢走工作的东西，而是拓展表达与商业可能性的工具。”"
+                "x": "4. 将音频和参考素材上传到Seedance 2.5（他们用的是Magnific），并通过提示词让它使用黑屏视频中的音频，以及参考素材中的外观、动作和环境。两段输入合计有30秒的上限，因此较长的录音需要拆分。他们在Promise Studios给所有人看过，大家都以为结果是真的。"
               },
               {
                 "t": "p",
-                "x": "Toei Games将于2027年初推出“Hino”，“Killa”和“Debug Nephemee”将从2027年春季起陆续推出；根据Toei New Wave 2033计划，公司目标是将海外销售占比从30%提高到50%。"
+                "x": "与HeyGen和自定义训练的LoRA工作流相比，Seedance 2.5最逼真；HeyGen仍落入恐怖谷。这些示例的报告成本为：1080p的Seedance 2.5约$16，HeyGen为$0.05，通过fal.ai的第三种工作流为$24。"
+              },
+              {
+                "t": "p",
+                "x": "用Seedance 2.5、Wan 3和MiniMax H3从脚本生成整段表演，画面令人信服，但表演的传达还不到位。自己录制音频则保留了节奏与个性。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Toei, de Kamen Rider, fija\nnormas para la AI generativa",
-          "body": "Toei ha fijado normas de AI generativa y ya usa AI en producción, por ejemplo en fondos AI-made.",
-          "mini_headline": "Toei fija normas para la AI generativa",
+          "headline": "Un clon de AI sustituye\nal rodaje frente a cámara",
+          "body": "Curious Refuge muestra cómo un audio grabado y un video de referencia permiten obtener tomas a cámara sin estudio.",
+          "mini_headline": "Un clon de AI reemplaza el rodaje",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2017/12/kamen-rider-2.jpg?w=839&h=472&crop=1",
-                "cap": "Kamen Rider 2017"
+                "t": "video",
+                "yt": "CM1rPwuXw2A"
               },
               {
                 "t": "p",
-                "x": "Toei, el gran estudio japonés detrás de “Kamen Rider” y de la serie Super Sentai que dio origen a “Power Rangers”, ha elaborado normas para la AI generativa y ha empezado a usar AI en su producción de cine y video, según dijo su presidente y CEO, Yoshimura Fumio, en el Taiwan Creative Content Fest (TCCF) de Taipéi."
+                "x": "En este tutorial, Curious Refuge muestra cómo crear un estudio desde cualquier lugar del mundo: solo se necesita audio y un video de referencia. El equipo llama a este flujo de trabajo “Studio Anywhere”."
               },
               {
                 "t": "p",
-                "x": "Un equipo dedicado está probando hasta dónde puede usarse la AI en la producción real de contenidos, y Toei está desarrollando un sistema de AI que ayuda a productores con menos experiencia a estimar presupuestos. “Ya estamos trabajando en cosas como crear fondos con AI”, dijo Yoshimura."
+                "x": "1. Graba tu audio con un teléfono o un micrófono y luego límpialo en Adobe Podcast. 2. Lleva la grabación mejorada a un editor de video (ellos usaron Adobe Premiere) y expórtala como un video con pantalla negra. 3. Elige un clip corto en el que hables a cámara; ellos usaron unos seis segundos de Caleb hablando en el estudio, ya que una referencia en video le da al modelo más información que una imagen fija."
               },
               {
                 "t": "p",
-                "x": "Los departamentos administrativos también usan AI para tareas rutinarias, procesamiento de datos y consultas internas. Yoshimura mencionó “Dreams of Violets”, un largometraje de imagen real hecho íntegramente con AI generativa que fue seleccionado para el Tribeca Festival. “Creo que la AI no es algo que quite empleos, sino una herramienta que amplía las posibilidades de expresión y de negocio”, afirmó."
+                "x": "4. Sube el audio y la referencia a Seedance 2.5 (ellos usaron Magnific) e indícale en el prompt que use el audio del video negro y el aspecto, el movimiento y el entorno de la referencia. Las dos entradas tenían un límite combinado de 30 segundos, así que las grabaciones más largas tuvieron que dividirse. Todas las personas a las que se lo mostraron en Promise Studios pensaron que el resultado era real."
               },
               {
                 "t": "p",
-                "x": "Toei Games lanzará “Hino” a principios de 2027, seguido de “Killa” y “Debug Nephemee” a partir de la primavera de 2027, y con su plan Toei New Wave 2033 la compañía aspira a elevar la proporción de ventas en el extranjero del 30% al 50%."
+                "x": "Frente a HeyGen y a un flujo de trabajo con un LoRA entrenado a medida, Seedance 2.5 fue el más convincente; HeyGen todavía caía en el valle inquietante. Costos reportados para estos ejemplos: unos $16 para Seedance 2.5 a 1080p, $0.05 para HeyGen y $24 para el tercer flujo de trabajo a través de fal.ai."
+              },
+              {
+                "t": "p",
+                "x": "Generar toda la actuación a partir de un guion con Seedance 2.5, Wan 3 y MiniMax H3 produjo imágenes convincentes, pero la interpretación todavía no estaba a la altura. Grabar tu propio audio conservó el ritmo y la personalidad."
               }
             ]
           }
@@ -1133,125 +1061,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Kamen Rider의\nToei, AI 규칙 마련",
-          "body": "Toei는 생성형 AI 규칙을 정하고 AI-made 배경 제작에 나섰다.",
-          "mini_headline": "Toei, 생성형 AI 규칙 마련",
+          "headline": "AI 클론이\n카메라 촬영을 대신한다",
+          "body": "Curious Refuge가 녹음과 참조 영상으로 스튜디오 없는 촬영법을 보여준다.",
+          "mini_headline": "AI 클론이 촬영을 대신하다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2017/12/kamen-rider-2.jpg?w=839&h=472&crop=1",
-                "cap": "Kamen Rider 2017"
+                "t": "video",
+                "yt": "CM1rPwuXw2A"
               },
               {
                 "t": "p",
-                "x": "“Kamen Rider”와 “Power Rangers”의 원작이 된 Super Sentai 시리즈를 만든 일본 대형 스튜디오 Toei가 생성형 AI 규칙을 마련하고 영화·영상 제작에 AI를 쓰기 시작했다. Yoshimura Fumio 사장 겸 CEO가 타이베이에서 열린 Taiwan Creative Content Fest(TCCF)에서 이같이 밝혔다."
+                "x": "Curious Refuge는 이번 튜토리얼에서 세계 어디서든 스튜디오를 만드는 방법을 보여준다. 필요한 것은 오디오와 참조 영상뿐이다. 팀은 이 워크플로를 “Studio Anywhere”라고 부른다."
               },
               {
                 "t": "p",
-                "x": "전담 팀이 실제 콘텐츠 제작에 AI를 어디까지 쓸 수 있는지 시험하고 있으며, Toei는 경험이 적은 프로듀서의 예산 산정을 돕는 AI 시스템도 만들고 있다. Yoshimura는 “AI로 배경을 만드는 일 등은 이미 하고 있다”고 말했다."
+                "x": "1. 휴대폰이나 마이크로 오디오를 녹음한 뒤 Adobe Podcast로 다듬는다. 2. 개선한 녹음을 영상 편집기(이들은 Adobe Premiere를 썼다)로 가져와 검은 화면 영상으로 내보낸다. 3. 카메라 앞에서 말하는 자신의 짧은 클립을 고른다. 이들은 Caleb이 스튜디오에서 말하는 약 여섯 초 분량을 썼다. 영상 참조가 정지 이미지보다 모델에 더 많은 정보를 주기 때문이다."
               },
               {
                 "t": "p",
-                "x": "관리 부서도 정형 업무와 데이터 처리, 사내 문의에 AI를 쓴다. Yoshimura는 전편을 생성형 AI로 만든 실사 장편으로 Tribeca Festival에 선정된 “Dreams of Violets”를 언급하며 “AI는 일자리를 빼앗는 것이 아니라 표현과 비즈니스의 가능성을 넓히는 도구라고 생각한다”고 말했다."
+                "x": "4. 오디오와 참조 영상을 Seedance 2.5(이들은 Magnific을 썼다)에 올리고, 검은 영상의 오디오와 참조 영상의 외모, 움직임, 환경을 쓰도록 프롬프트를 입력한다. 두 입력의 합계 길이 제한이 30초여서 긴 녹음은 나눠야 했다. Promise Studios에서 결과물을 본 사람은 모두 실제 영상이라고 생각했다."
               },
               {
                 "t": "p",
-                "x": "Toei Games는 2027년 초 “Hino”를 내놓고, 2027년 봄부터 “Killa”와 “Debug Nephemee”를 잇달아 선보인다. 회사는 Toei New Wave 2033 계획에 따라 해외 매출 비중을 30%에서 50%로 끌어올린다는 목표다."
+                "x": "HeyGen, 직접 학습한 LoRA 워크플로와 비교하면 Seedance 2.5가 가장 그럴듯했다. HeyGen은 여전히 불쾌한 골짜기에 머물렀다. 이 예시들의 비용은 1080p 기준 Seedance 2.5가 약 $16, HeyGen이 $0.05, fal.ai를 거친 세 번째 워크플로가 $24였다."
+              },
+              {
+                "t": "p",
+                "x": "Seedance 2.5, Wan 3, MiniMax H3로 각본에서 연기 전체를 생성하자 화면은 그럴듯했지만 연기 전달력은 아직 부족했다. 자신의 오디오를 직접 녹음하면 타이밍과 개성이 살아났다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Kamen Riderの\nToei、生成AIルール策定",
-          "body": "Toeiは生成AIのルールを定め、AI-madeの背景など制作でのAI活用を始めた。",
-          "mini_headline": "Toei、生成AIルールを策定",
+          "headline": "AIクローンが\nカメラ撮影を代行",
+          "body": "Curious Refugeが、録音と参照動画だけでスタジオなしに出演映像を作る方法を示す。",
+          "mini_headline": "AIクローンが撮影を代行",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2017/12/kamen-rider-2.jpg?w=839&h=472&crop=1",
-                "cap": "Kamen Rider 2017"
+                "t": "video",
+                "yt": "CM1rPwuXw2A"
               },
               {
                 "t": "p",
-                "x": "「Kamen Rider」や、「Power Rangers」の原型となったSuper Sentaiシリーズで知られる日本の大手スタジオToeiが、生成AIのルールを策定し、映画・映像制作でAIの活用を始めた。社長兼CEOのYoshimura Fumioが台北で開かれたTaiwan Creative Content Fest(TCCF)で明らかにした。"
+                "x": "このチュートリアルでCurious Refugeは、世界のどこからでもスタジオを作る方法を紹介する。必要なのは音声と参照動画だけだ。チームはこのワークフローを「Studio Anywhere」と呼ぶ。"
               },
               {
                 "t": "p",
-                "x": "専任チームが実際のコンテンツ制作でAIをどこまで使えるかを検証しており、Toeiは経験の浅いプロデューサーの予算見積もりを支援するAIシステムも構築している。「AIで背景を作るといったことにはすでに取り組んでいる」とYoshimuraは述べた。"
+                "x": "1. スマートフォンかマイクで音声を録音し、Adobe Podcastでクリーンアップする。2. 補正した録音を動画編集ソフト(彼らはAdobe Premiereを使用)に取り込み、黒画面の動画として書き出す。3. カメラに向かって話す自分の短いクリップを選ぶ。彼らはCalebがスタジオで話す約六秒の映像を使った。静止画より動画の参照のほうがモデルに多くの手がかりを与えるからだ。"
               },
               {
                 "t": "p",
-                "x": "バックオフィス部門も定型業務やデータ処理、社内の問い合わせにAIを使っている。Yoshimuraは、全編を生成AIで制作し、Tribeca Festivalに選出された実写長編「Dreams of Violets」に触れ、「AIは仕事を奪うものではなく、表現とビジネスの可能性を広げる道具だと考えている」と語った。"
+                "x": "4. 音声と参照をSeedance 2.5(彼らはMagnificを使用)にアップロードし、黒い動画の音声と、参照の見た目・動き・環境を使うようプロンプトで指示する。二つの入力には合計30秒の上限があったため、長い録音は分割する必要があった。Promise Studiosで見せた全員が、結果を本物だと思った。"
               },
               {
                 "t": "p",
-                "x": "Toei Gamesは2027年初めに「Hino」を発売し、2027年春から「Killa」と「Debug Nephemee」が続く。同社はToei New Wave 2033計画のもと、海外売上比率を30%から50%に引き上げることを目指す。"
+                "x": "HeyGenや独自に学習させたLoRAワークフローと比べ、Seedance 2.5が最も自然だった。HeyGenは依然として不気味の谷にとどまった。これらの例で報告されたコストは、1080pのSeedance 2.5が約$16、HeyGenが$0.05、fal.ai経由の三つ目のワークフローが$24だ。"
+              },
+              {
+                "t": "p",
+                "x": "Seedance 2.5、Wan 3、MiniMax H3で台本から演技全体を生成すると映像には説得力があったが、演技の伝え方はまだ及ばなかった。自分の音声を録音すると、間合いと個性が保たれた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Kamen Rider出品方\nToei制定生成式AI规则",
-          "body": "Toei制定了生成式AI规则，并开始在制作中使用AI，例如AI-made背景。",
-          "mini_headline": "Toei制定生成式AI规则",
+          "headline": "AI克隆人\n代替出镜拍摄",
+          "body": "Curious Refuge演示如何仅凭录音和参考视频，无需影棚即可生成出镜画面。",
+          "mini_headline": "AI克隆代替拍摄",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2017/12/kamen-rider-2.jpg?w=839&h=472&crop=1",
-                "cap": "Kamen Rider 2017"
+                "t": "video",
+                "yt": "CM1rPwuXw2A"
               },
               {
                 "t": "p",
-                "x": "推出“Kamen Rider”以及后来衍生出“Power Rangers”的Super Sentai系列的日本大型片厂Toei，已制定生成式AI规则，并开始在电影和影像制作中使用AI。社长兼CEO Yoshimura Fumio在台北举行的Taiwan Creative Content Fest(TCCF)上透露了这一消息。"
+                "x": "在这期教程中，Curious Refuge展示了如何在世界任何地方打造一间影棚：只需音频和一段参考视频。团队将这一工作流称为“Studio Anywhere”。"
               },
               {
                 "t": "p",
-                "x": "一支专门团队正在测试AI在实际内容制作中能用到什么程度，Toei还在开发一套帮助经验较少的制片人估算预算的AI系统。“我们已经在做用AI制作背景之类的工作，”Yoshimura说。"
+                "x": "1. 用手机或麦克风录制音频，再用Adobe Podcast进行清理。2. 将增强后的录音导入视频编辑软件（他们用的是Adobe Premiere），导出为黑屏视频。3. 选一段自己对着镜头说话的短片；他们用了Caleb在影棚里讲话的约六秒画面，因为视频参考比静态图片能给模型提供更多信息。"
               },
               {
                 "t": "p",
-                "x": "后台部门也用AI处理日常事务、数据处理和内部咨询。Yoshimura提到完全用生成式AI制作、入选Tribeca Festival的真人长片“Dreams of Violets”，并表示：“我认为AI不是抢走工作的东西，而是拓展表达与商业可能性的工具。”"
+                "x": "4. 将音频和参考素材上传到Seedance 2.5（他们用的是Magnific），并通过提示词让它使用黑屏视频中的音频，以及参考素材中的外观、动作和环境。两段输入合计有30秒的上限，因此较长的录音需要拆分。他们在Promise Studios给所有人看过，大家都以为结果是真的。"
               },
               {
                 "t": "p",
-                "x": "Toei Games将于2027年初推出“Hino”，“Killa”和“Debug Nephemee”将从2027年春季起陆续推出；根据Toei New Wave 2033计划，公司目标是将海外销售占比从30%提高到50%。"
+                "x": "与HeyGen和自定义训练的LoRA工作流相比，Seedance 2.5最逼真；HeyGen仍落入恐怖谷。这些示例的报告成本为：1080p的Seedance 2.5约$16，HeyGen为$0.05，通过fal.ai的第三种工作流为$24。"
+              },
+              {
+                "t": "p",
+                "x": "用Seedance 2.5、Wan 3和MiniMax H3从脚本生成整段表演，画面令人信服，但表演的传达还不到位。自己录制音频则保留了节奏与个性。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Toei, de Kamen Rider, fija\nnormas para la AI generativa",
-          "body": "Toei ha fijado normas de AI generativa y ya usa AI en producción, por ejemplo en fondos AI-made.",
-          "mini_headline": "Toei fija normas para la AI generativa",
+          "headline": "Un clon de AI sustituye\nal rodaje frente a cámara",
+          "body": "Curious Refuge muestra cómo un audio grabado y un video de referencia permiten obtener tomas a cámara sin estudio.",
+          "mini_headline": "Un clon de AI reemplaza el rodaje",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2017/12/kamen-rider-2.jpg?w=839&h=472&crop=1",
-                "cap": "Kamen Rider 2017"
+                "t": "video",
+                "yt": "CM1rPwuXw2A"
               },
               {
                 "t": "p",
-                "x": "Toei, el gran estudio japonés detrás de “Kamen Rider” y de la serie Super Sentai que dio origen a “Power Rangers”, ha elaborado normas para la AI generativa y ha empezado a usar AI en su producción de cine y video, según dijo su presidente y CEO, Yoshimura Fumio, en el Taiwan Creative Content Fest (TCCF) de Taipéi."
+                "x": "En este tutorial, Curious Refuge muestra cómo crear un estudio desde cualquier lugar del mundo: solo se necesita audio y un video de referencia. El equipo llama a este flujo de trabajo “Studio Anywhere”."
               },
               {
                 "t": "p",
-                "x": "Un equipo dedicado está probando hasta dónde puede usarse la AI en la producción real de contenidos, y Toei está desarrollando un sistema de AI que ayuda a productores con menos experiencia a estimar presupuestos. “Ya estamos trabajando en cosas como crear fondos con AI”, dijo Yoshimura."
+                "x": "1. Graba tu audio con un teléfono o un micrófono y luego límpialo en Adobe Podcast. 2. Lleva la grabación mejorada a un editor de video (ellos usaron Adobe Premiere) y expórtala como un video con pantalla negra. 3. Elige un clip corto en el que hables a cámara; ellos usaron unos seis segundos de Caleb hablando en el estudio, ya que una referencia en video le da al modelo más información que una imagen fija."
               },
               {
                 "t": "p",
-                "x": "Los departamentos administrativos también usan AI para tareas rutinarias, procesamiento de datos y consultas internas. Yoshimura mencionó “Dreams of Violets”, un largometraje de imagen real hecho íntegramente con AI generativa que fue seleccionado para el Tribeca Festival. “Creo que la AI no es algo que quite empleos, sino una herramienta que amplía las posibilidades de expresión y de negocio”, afirmó."
+                "x": "4. Sube el audio y la referencia a Seedance 2.5 (ellos usaron Magnific) e indícale en el prompt que use el audio del video negro y el aspecto, el movimiento y el entorno de la referencia. Las dos entradas tenían un límite combinado de 30 segundos, así que las grabaciones más largas tuvieron que dividirse. Todas las personas a las que se lo mostraron en Promise Studios pensaron que el resultado era real."
               },
               {
                 "t": "p",
-                "x": "Toei Games lanzará “Hino” a principios de 2027, seguido de “Killa” y “Debug Nephemee” a partir de la primavera de 2027, y con su plan Toei New Wave 2033 la compañía aspira a elevar la proporción de ventas en el extranjero del 30% al 50%."
+                "x": "Frente a HeyGen y a un flujo de trabajo con un LoRA entrenado a medida, Seedance 2.5 fue el más convincente; HeyGen todavía caía en el valle inquietante. Costos reportados para estos ejemplos: unos $16 para Seedance 2.5 a 1080p, $0.05 para HeyGen y $24 para el tercer flujo de trabajo a través de fal.ai."
+              },
+              {
+                "t": "p",
+                "x": "Generar toda la actuación a partir de un guion con Seedance 2.5, Wan 3 y MiniMax H3 produjo imágenes convincentes, pero la interpretación todavía no estaba a la altura. Grabar tu propio audio conservó el ritmo y la personalidad."
               }
             ]
           }
@@ -1259,237 +1199,141 @@
       }
     },
     {
-      "id": "chomet-dior-short-ai-claims",
+      "id": "curiousrefuge-sam-audio-music",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Sylvain Chomet\nDior 단편 AI 의혹",
-      "body": "Cartoon Brew가 Chomet의 Dior 단편 AI 논란에 사과했다.",
-      "mini_headline": "Chomet의 Dior 단편, AI 의혹",
+      "headline": "AI 클립 음악 제거,\nMeta SAM Audio",
+      "body": "Curious Refuge가 Meta의 무료 SAM Audio로 음악만 걷어낸다.",
+      "mini_headline": "SAM Audio로 음악 제거",
       "tool": "Movies",
-      "source": "Cartoon Brew",
-      "url": "https://www.cartoonbrew.com/artificial-intelligence/sylvain-chomet-dior-ad-ai-use-269124.html",
+      "source": "Curious Refuge",
+      "url": "https://www.youtube.com/watch?v=u78B727zbRI",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior.jpg"
+            "t": "video",
+            "yt": "u78B727zbRI"
           },
           {
             "t": "p",
-            "x": "Cartoon Brew는 Sylvain Chomet이 연출한 Dior의 새 광고 캠페인을 기사로 다뤘다. Oscar 후보에 네 차례 오른 감독이다. 기사가 나가자 손으로 그렸다고 분명히 밝힌 회사 측 주장에 곧바로 의문이 쏟아졌다. 소셜 미디어 곳곳에 생성형 AI를 쓴 것으로 보이는 이미지가 올라왔다."
+            "x": "Caleb은 이 짧은 튜토리얼에서 Meta의 무료 사운드 분리 도구 SAM Audio로 어느 클립에서든 음악을 걷어내는 법을 보여준다. 효과음만 깨끗하게 남기고 원하는 음악은 편집기에서 직접 깔면 된다. AI 클립뿐 아니라 일반 영상에도 통한다."
           },
           {
             "t": "p",
-            "x": "“이 주장은 어느 정도 근거가 있어 보이며, 영화의 최종 이미지와 애니메이션 일부를 만드는 데 AI가 쓰였을 가능성이 높아 보인다. 이를 사실로 보도할 수는 없고 추측에 기대 단정하고 싶지도 않지만, 증거는 설득력이 있다.”"
-          },
-          {
-            "t": "img",
-            "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior-1.jpg"
-          },
-          {
-            "t": "img",
-            "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior-2.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Chomet도, Dior의 PR팀도 논평 요청에 답하지 않았다. 원래 홍보 자료와 메이킹 영상 어디에도 AI 언급은 없다. AI를 쓰고도 밝히지 않았다면 “이 캠페인은 의도적으로 속이도록 짜인 것으로 보인다.”"
-          },
-          {
-            "t": "p",
-            "x": "편집장 Jamie Lang은 원래 기사 제목에서 이 단편을 손그림이라고 소개한 점을 사과했다. 해당 표현은 이후 삭제됐다. “죄송하다. 앞으로 더 신중하겠다.”"
+            "x": "타임코드(Time Code): 0:00 AI 음악 문제 · 0:44 Meta의 SAM Audio 소개 · 1:09 Seedance 클립 업로드 · 2:21 프롬프트로 음악 분리 · 2:57 음악만(Music-only) vs. 효과음만(sound effects-only) · 4:21 예시: 커피 장면 · 5:43 예시: Sci-fi 장면 · 6:51 모든 영상에 적용"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Sylvain Chomet's Dior short\nfaces AI accusations",
-          "body": "Cartoon Brew apologized after viewers flagged apparent AI artifacts in Chomet's Dior short, promoted as hand-drawn.",
-          "mini_headline": "Chomet's Dior short\nfaces AI claims",
+          "headline": "Strip music from AI clips\nwith Meta's SAM Audio",
+          "body": "Curious Refuge shows how Meta's free SAM Audio strips music from clips to leave clean effects tracks.",
+          "mini_headline": "SAM Audio strips music",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior.jpg"
+                "t": "video",
+                "yt": "u78B727zbRI"
               },
               {
                 "t": "p",
-                "x": "After Cartoon Brew published an article about a new Dior ad campaign helmed by four-time Oscar-nominated filmmaker Sylvain Chomet, questions were quickly raised about the company’s explicit claims that the short was hand-drawn, with users across social media posting images that appear to indicate generative AI was used."
+                "x": "In this quick tutorial, Caleb shows you how to strip the music out of any clip using SAM Audio, Meta’s free sound isolation tool. That way, you get clean sound effects and can add your own music in your editor. It works on regular footage too, not just AI clips."
               },
               {
                 "t": "p",
-                "x": "“It does seem likely that the claims hold some water, and that AI was used to create some of the film’s final imagery and animation. We can’t report that as fact and don’t want to make any definitive claims based on speculation, but the evidence is compelling.”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Neither Chomet nor Dior’s PR team has responded to requests for comment. Nothing in the original promotional materials or the behind-the-scenes video mentions AI; if AI was used and not disclosed, “the campaign seems purposefully organized to deceive.”"
-              },
-              {
-                "t": "p",
-                "x": "Editor-in-chief Jamie Lang apologized: the original article described the short as hand-drawn in its title, a description since removed. “I’m sorry, and I’ll be more careful going forward.”"
+                "x": "Time Code: 0:00 The AI music problem · 0:44 Meet SAM Audio from Meta · 1:09 Uploading your Seedance clip · 2:21 Isolating the music with a prompt · 2:57 Music-only vs. sound effects-only · 4:21 Example: Coffee scene · 5:43 Example: Sci-fi scene · 6:51 Works on any footage"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Sylvain Chomet\nDior 단편 AI 의혹",
-          "body": "Cartoon Brew가 Chomet의 Dior 단편 AI 논란에 사과했다.",
-          "mini_headline": "Chomet의 Dior 단편, AI 의혹",
+          "headline": "AI 클립 음악 제거,\nMeta SAM Audio",
+          "body": "Curious Refuge가 Meta의 무료 SAM Audio로 음악만 걷어낸다.",
+          "mini_headline": "SAM Audio로 음악 제거",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior.jpg"
+                "t": "video",
+                "yt": "u78B727zbRI"
               },
               {
                 "t": "p",
-                "x": "Cartoon Brew는 Sylvain Chomet이 연출한 Dior의 새 광고 캠페인을 기사로 다뤘다. Oscar 후보에 네 차례 오른 감독이다. 기사가 나가자 손으로 그렸다고 분명히 밝힌 회사 측 주장에 곧바로 의문이 쏟아졌다. 소셜 미디어 곳곳에 생성형 AI를 쓴 것으로 보이는 이미지가 올라왔다."
+                "x": "Caleb은 이 짧은 튜토리얼에서 Meta의 무료 사운드 분리 도구 SAM Audio로 어느 클립에서든 음악을 걷어내는 법을 보여준다. 효과음만 깨끗하게 남기고 원하는 음악은 편집기에서 직접 깔면 된다. AI 클립뿐 아니라 일반 영상에도 통한다."
               },
               {
                 "t": "p",
-                "x": "“이 주장은 어느 정도 근거가 있어 보이며, 영화의 최종 이미지와 애니메이션 일부를 만드는 데 AI가 쓰였을 가능성이 높아 보인다. 이를 사실로 보도할 수는 없고 추측에 기대 단정하고 싶지도 않지만, 증거는 설득력이 있다.”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Chomet도, Dior의 PR팀도 논평 요청에 답하지 않았다. 원래 홍보 자료와 메이킹 영상 어디에도 AI 언급은 없다. AI를 쓰고도 밝히지 않았다면 “이 캠페인은 의도적으로 속이도록 짜인 것으로 보인다.”"
-              },
-              {
-                "t": "p",
-                "x": "편집장 Jamie Lang은 원래 기사 제목에서 이 단편을 손그림이라고 소개한 점을 사과했다. 해당 표현은 이후 삭제됐다. “죄송하다. 앞으로 더 신중하겠다.”"
+                "x": "타임코드(Time Code): 0:00 AI 음악 문제 · 0:44 Meta의 SAM Audio 소개 · 1:09 Seedance 클립 업로드 · 2:21 프롬프트로 음악 분리 · 2:57 음악만(Music-only) vs. 효과음만(sound effects-only) · 4:21 예시: 커피 장면 · 5:43 예시: Sci-fi 장면 · 6:51 모든 영상에 적용"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Sylvain Chomet\nDior短編にAI疑惑",
-          "body": "Cartoon Brewは手描きとされたChometのDior短編のAI疑惑で謝罪した。",
-          "mini_headline": "ChometのDior短編にAI疑惑",
+          "headline": "AIクリップの音楽を消す\nMeta SAM Audio",
+          "body": "Curious Refugeが、Meta無料のSAM Audioで音楽を除く方法を示す。",
+          "mini_headline": "SAM Audioで音楽を除去",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior.jpg"
+                "t": "video",
+                "yt": "u78B727zbRI"
               },
               {
                 "t": "p",
-                "x": "Cartoon Brewが、Oscarに四度ノミネートされた映画監督Sylvain Chometが手がけるDiorの新しい広告キャンペーンについて記事を掲載すると、短編は手描きだという同社の明確な主張にすぐさま疑問の声が上がった。SNS上では、生成AIが使われたことを示すとみられる画像が次々と投稿された。"
+                "x": "この短いチュートリアルでCalebは、Metaの無料音声分離ツールSAM Audioを使い、どんなクリップからでも音楽を取り除く方法を紹介する。これでクリーンな効果音が得られ、編集ソフトで自分の音楽を加えられる。AIクリップだけでなく通常の映像にも使える。"
               },
               {
                 "t": "p",
-                "x": "「この指摘にはある程度の根拠があり、作品の最終的な映像やアニメーションの一部にAIが使われた可能性は高いように思える。事実として報じることはできず、憶測に基づいて断定したくもないが、証拠には説得力がある」"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "ChometもDiorのPRチームもコメント要請に応じていない。当初の宣伝資料にもメイキング映像にもAIへの言及はなく、AIを使いながら開示していなかったのであれば、「このキャンペーンは意図的に欺くよう仕組まれているように見える」。"
-              },
-              {
-                "t": "p",
-                "x": "編集長のJamie Langは、元の記事がタイトルで短編を手描きと紹介していたとして謝罪した。その表現はすでに削除されている。「申し訳なく思う。今後はより慎重を期す」"
+                "x": "タイムコード(Time Code): 0:00 AI音楽の問題 · 0:44 MetaのSAM Audioを紹介 · 1:09 Seedanceクリップのアップロード · 2:21 プロンプトで音楽を分離 · 2:57 音楽のみ(Music-only) vs. 効果音のみ(sound effects-only) · 4:21 例:コーヒーのシーン · 5:43 例:Sci-fiのシーン · 6:51 どんな映像にも使える"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Sylvain Chomet\nDior短片陷AI争议",
-          "body": "Cartoon Brew因Chomet号称手绘的Dior短片被指有AI痕迹而致歉。",
-          "mini_headline": "Chomet的Dior短片陷AI争议",
+          "headline": "去除AI片段配乐\nMeta SAM Audio",
+          "body": "Curious Refuge演示用Meta免费的SAM Audio去除片段配乐、保留音效。",
+          "mini_headline": "SAM Audio去除配乐",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior.jpg"
+                "t": "video",
+                "yt": "u78B727zbRI"
               },
               {
                 "t": "p",
-                "x": "Cartoon Brew发表了一篇关于四度获Oscar提名的导演Sylvain Chomet执导的Dior新广告的文章后，该公司明确宣称短片为手绘的说法很快遭到质疑，社交媒体上的用户纷纷贴出似乎显示使用了生成式AI的图片。"
+                "x": "在这期简短教程中，Caleb演示如何用Meta的免费声音分离工具SAM Audio去除任意片段中的音乐。这样就能得到干净的音效，并在剪辑软件中加入自己的音乐。它不仅适用于AI片段，也适用于普通素材。"
               },
               {
                 "t": "p",
-                "x": "“这些说法看来确有几分道理，影片部分最终画面和动画很可能是用AI制作的。我们无法将其作为事实报道，也不想基于猜测下定论，但证据很有说服力。”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Chomet和Dior的PR团队均未回应置评请求。原有宣传材料和幕后花絮视频都没有提到AI；如果使用了AI却未披露，“这场营销活动似乎是有意设计来欺骗的。”"
-              },
-              {
-                "t": "p",
-                "x": "主编Jamie Lang致歉称，原文标题将短片描述为手绘，该描述现已删除。“我很抱歉，今后会更加谨慎。”"
+                "x": "时间码(Time Code)：0:00 AI音乐问题 · 0:44 认识Meta的SAM Audio · 1:09 上传Seedance片段 · 2:21 用提示词分离音乐 · 2:57 仅音乐(Music-only) vs. 仅音效(sound effects-only) · 4:21 示例：咖啡场景 · 5:43 示例：Sci-fi场景 · 6:51 适用于任何素材"
               }
             ]
           }
         },
         "es": {
-          "headline": "El corto de Sylvain Chomet para\nDior, acusado de usar AI",
-          "body": "Cartoon Brew se disculpó después de que el público detectara aparentes rastros de AI en el corto de Chomet para Dior.",
-          "mini_headline": "El corto de Chomet para Dior, bajo sospecha de AI",
+          "headline": "Quita la música de clips de AI\ncon SAM Audio de Meta",
+          "body": "Curious Refuge muestra cómo el SAM Audio gratuito de Meta quita la música de los clips y deja efectos limpios.",
+          "mini_headline": "SAM Audio quita la música",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior.jpg"
+                "t": "video",
+                "yt": "u78B727zbRI"
               },
               {
                 "t": "p",
-                "x": "Después de que Cartoon Brew publicara un artículo sobre una nueva campaña publicitaria de Dior dirigida por el cineasta Sylvain Chomet, cuatro veces nominado al Oscar, enseguida surgieron dudas sobre la afirmación explícita de la empresa de que el corto estaba dibujado a mano, y usuarios de distintas redes sociales publicaron imágenes que parecen indicar el uso de AI generativa."
+                "x": "En este breve tutorial, Caleb muestra cómo quitar la música de cualquier clip con SAM Audio, la herramienta gratuita de aislamiento de sonido de Meta. Así se obtienen efectos de sonido limpios y se puede añadir música propia en el editor. También funciona con metraje normal, no solo con clips de AI."
               },
               {
                 "t": "p",
-                "x": "“Parece probable que las acusaciones tengan algo de fundamento y que se usara AI para crear parte de las imágenes y la animación finales de la película. No podemos informarlo como un hecho ni queremos hacer afirmaciones definitivas basadas en especulaciones, pero las pruebas son convincentes”."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Ni Chomet ni el equipo de PR de Dior han respondido a las solicitudes de comentarios. Nada en los materiales promocionales originales ni en el video del detrás de cámaras menciona la AI; si se usó AI y no se informó, “la campaña parece organizada a propósito para engañar”."
-              },
-              {
-                "t": "p",
-                "x": "El editor en jefe, Jamie Lang, pidió disculpas: el artículo original describía el corto como dibujado a mano en su título, una descripción que ya se eliminó. “Lo siento, y seré más cuidadoso en adelante”."
+                "x": "Time Code: 0:00 El problema de la música con AI · 0:44 Presentamos SAM Audio de Meta · 1:09 Subir tu clip de Seedance · 2:21 Aislar la música con un prompt · 2:57 Solo música (Music-only) vs. solo efectos de sonido (sound effects-only) · 4:21 Ejemplo: escena de café · 5:43 Ejemplo: escena de ciencia ficción (Sci-fi) · 6:51 Funciona con cualquier metraje"
               }
             ]
           }
@@ -1497,153 +1341,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Sylvain Chomet\nDior 단편 AI 의혹",
-          "body": "Cartoon Brew는 Chomet의 Dior 단편 AI 흔적 논란에 사과했다.",
-          "mini_headline": "Chomet의 Dior 단편, AI 의혹",
+          "headline": "AI 클립 음악 제거,\nMeta SAM Audio",
+          "body": "Curious Refuge가 Meta의 무료 SAM Audio로 음악만 걷어낸다.",
+          "mini_headline": "SAM Audio로 음악 제거",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior.jpg"
+                "t": "video",
+                "yt": "u78B727zbRI"
               },
               {
                 "t": "p",
-                "x": "Cartoon Brew가 Oscar 후보에 네 차례 오른 감독 Sylvain Chomet이 연출한 Dior의 새 광고 캠페인 기사를 낸 뒤, 단편을 손으로 그렸다는 회사 측의 명시적 주장에 곧바로 의문이 제기됐다. 소셜 미디어 곳곳에서 생성형 AI가 쓰인 것으로 보이는 이미지가 올라왔다."
+                "x": "이 짧은 튜토리얼에서 Caleb은 Meta의 무료 사운드 분리 도구 SAM Audio로 어떤 클립에서든 음악을 걷어내는 방법을 보여준다. 이렇게 하면 깨끗한 효과음을 얻고 편집기에서 원하는 음악을 직접 넣을 수 있다. AI 클립뿐 아니라 일반 영상에도 통한다."
               },
               {
                 "t": "p",
-                "x": "“이 주장은 어느 정도 근거가 있어 보이며, 영화의 최종 이미지와 애니메이션 일부를 만드는 데 AI가 쓰였을 가능성이 높아 보인다. 이를 사실로 보도할 수는 없고 추측에 기대 단정하고 싶지도 않지만, 증거는 설득력이 있다.”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Chomet과 Dior의 PR팀 모두 논평 요청에 답하지 않았다. 원래 홍보 자료와 메이킹 영상 어디에도 AI 언급은 없으며, AI를 쓰고도 밝히지 않았다면 “이 캠페인은 의도적으로 속이도록 짜인 것으로 보인다.”"
-              },
-              {
-                "t": "p",
-                "x": "편집장 Jamie Lang은 원래 기사가 제목에서 이 단편을 손그림이라고 소개했다며 사과했고, 해당 표현은 이후 삭제됐다. “죄송하다. 앞으로 더 신중하겠다.”"
+                "x": "타임코드(Time Code): 0:00 AI 음악 문제 · 0:44 Meta의 SAM Audio 소개 · 1:09 Seedance 클립 업로드 · 2:21 프롬프트로 음악 분리 · 2:57 음악만(Music-only) vs. 효과음만(sound effects-only) · 4:21 예시: 커피 장면 · 5:43 예시: Sci-fi 장면 · 6:51 모든 영상에 적용"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Sylvain Chomet\nDior短編にAI疑惑",
-          "body": "Cartoon Brewは手描きとされたChometのDior短編のAI疑惑で謝罪した。",
-          "mini_headline": "ChometのDior短編にAI疑惑",
+          "headline": "AIクリップの音楽を消す\nMeta SAM Audio",
+          "body": "Curious Refugeが、Meta無料のSAM Audioで音楽を除く方法を示す。",
+          "mini_headline": "SAM Audioで音楽を除去",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior.jpg"
+                "t": "video",
+                "yt": "u78B727zbRI"
               },
               {
                 "t": "p",
-                "x": "Cartoon Brewが、Oscarに四度ノミネートされた映画監督Sylvain Chometが手がけるDiorの新しい広告キャンペーンについて記事を掲載すると、短編は手描きだという同社の明確な主張にすぐさま疑問の声が上がった。SNS上では、生成AIが使われたことを示すとみられる画像が次々と投稿された。"
+                "x": "この短いチュートリアルでCalebは、Metaの無料音声分離ツールSAM Audioを使い、どんなクリップからでも音楽を取り除く方法を紹介する。これでクリーンな効果音が得られ、編集ソフトで自分の音楽を加えられる。AIクリップだけでなく通常の映像にも使える。"
               },
               {
                 "t": "p",
-                "x": "「この指摘にはある程度の根拠があり、作品の最終的な映像やアニメーションの一部にAIが使われた可能性は高いように思える。事実として報じることはできず、憶測に基づいて断定したくもないが、証拠には説得力がある」"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "ChometもDiorのPRチームもコメント要請に応じていない。当初の宣伝資料にもメイキング映像にもAIへの言及はなく、AIを使いながら開示していなかったのであれば、「このキャンペーンは意図的に欺くよう仕組まれているように見える」。"
-              },
-              {
-                "t": "p",
-                "x": "編集長のJamie Langは、元の記事がタイトルで短編を手描きと紹介していたとして謝罪した。その表現はすでに削除されている。「申し訳なく思う。今後はより慎重を期す」"
+                "x": "タイムコード(Time Code): 0:00 AI音楽の問題 · 0:44 MetaのSAM Audioを紹介 · 1:09 Seedanceクリップのアップロード · 2:21 プロンプトで音楽を分離 · 2:57 音楽のみ(Music-only) vs. 効果音のみ(sound effects-only) · 4:21 例:コーヒーのシーン · 5:43 例:Sci-fiのシーン · 6:51 どんな映像にも使える"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Sylvain Chomet\nDior短片陷AI争议",
-          "body": "Cartoon Brew因Chomet号称手绘的Dior短片被指有AI痕迹而致歉。",
-          "mini_headline": "Chomet的Dior短片陷AI争议",
+          "headline": "去除AI片段配乐\nMeta SAM Audio",
+          "body": "Curious Refuge演示用Meta免费的SAM Audio去除片段配乐、保留音效。",
+          "mini_headline": "SAM Audio去除配乐",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior.jpg"
+                "t": "video",
+                "yt": "u78B727zbRI"
               },
               {
                 "t": "p",
-                "x": "Cartoon Brew发表了一篇关于四度获Oscar提名的导演Sylvain Chomet执导的Dior新广告的文章后，该公司明确宣称短片为手绘的说法很快遭到质疑，社交媒体上的用户纷纷贴出似乎显示使用了生成式AI的图片。"
+                "x": "在这期简短教程中，Caleb演示如何用Meta的免费声音分离工具SAM Audio去除任意片段中的音乐。这样就能得到干净的音效，并在剪辑软件中加入自己的音乐。它不仅适用于AI片段，也适用于普通素材。"
               },
               {
                 "t": "p",
-                "x": "“这些说法看来确有几分道理，影片部分最终画面和动画很可能是用AI制作的。我们无法将其作为事实报道，也不想基于猜测下定论，但证据很有说服力。”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Chomet和Dior的PR团队均未回应置评请求。原有宣传材料和幕后花絮视频都没有提到AI；如果使用了AI却未披露，“这场营销活动似乎是有意设计来欺骗的。”"
-              },
-              {
-                "t": "p",
-                "x": "主编Jamie Lang致歉称，原文标题将短片描述为手绘，该描述现已删除。“我很抱歉，今后会更加谨慎。”"
+                "x": "时间码(Time Code)：0:00 AI音乐问题 · 0:44 认识Meta的SAM Audio · 1:09 上传Seedance片段 · 2:21 用提示词分离音乐 · 2:57 仅音乐(Music-only) vs. 仅音效(sound effects-only) · 4:21 示例：咖啡场景 · 5:43 示例：Sci-fi场景 · 6:51 适用于任何素材"
               }
             ]
           }
         },
         "es": {
-          "headline": "El corto de Sylvain Chomet para\nDior, acusado de usar AI",
-          "body": "Cartoon Brew se disculpó después de que el público detectara aparentes rastros de AI en el corto de Chomet para Dior.",
-          "mini_headline": "El corto de Chomet para Dior, bajo sospecha de AI",
+          "headline": "Quita la música de clips de AI\ncon SAM Audio de Meta",
+          "body": "Curious Refuge muestra cómo el SAM Audio gratuito de Meta quita la música de los clips y deja efectos limpios.",
+          "mini_headline": "SAM Audio quita la música",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior.jpg"
+                "t": "video",
+                "yt": "u78B727zbRI"
               },
               {
                 "t": "p",
-                "x": "Después de que Cartoon Brew publicara un artículo sobre una nueva campaña publicitaria de Dior dirigida por el cineasta Sylvain Chomet, cuatro veces nominado al Oscar, enseguida surgieron dudas sobre la afirmación explícita de la empresa de que el corto estaba dibujado a mano, y usuarios de distintas redes sociales publicaron imágenes que parecen indicar el uso de AI generativa."
+                "x": "En este breve tutorial, Caleb muestra cómo quitar la música de cualquier clip con SAM Audio, la herramienta gratuita de aislamiento de sonido de Meta. Así se obtienen efectos de sonido limpios y se puede añadir música propia en el editor. También funciona con metraje normal, no solo con clips de AI."
               },
               {
                 "t": "p",
-                "x": "“Parece probable que las acusaciones tengan algo de fundamento y que se usara AI para crear parte de las imágenes y la animación finales de la película. No podemos informarlo como un hecho ni queremos hacer afirmaciones definitivas basadas en especulaciones, pero las pruebas son convincentes”."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Ni Chomet ni el equipo de PR de Dior han respondido a las solicitudes de comentarios. Nada en los materiales promocionales originales ni en el video del detrás de cámaras menciona la AI; si se usó AI y no se informó, “la campaña parece organizada a propósito para engañar”."
-              },
-              {
-                "t": "p",
-                "x": "El editor en jefe, Jamie Lang, pidió disculpas: el artículo original describía el corto como dibujado a mano en su título, una descripción que ya se eliminó. “Lo siento, y seré más cuidadoso en adelante”."
+                "x": "Time Code: 0:00 El problema de la música con AI · 0:44 Presentamos SAM Audio de Meta · 1:09 Subir tu clip de Seedance · 2:21 Aislar la música con un prompt · 2:57 Solo música (Music-only) vs. solo efectos de sonido (sound effects-only) · 4:21 Ejemplo: escena de café · 5:43 Ejemplo: escena de ciencia ficción (Sci-fi) · 6:51 Funciona con cualquier metraje"
               }
             ]
           }
@@ -1651,15 +1431,15 @@
       }
     },
     {
-      "id": "taicca-ai-adoption-study",
+      "id": "pvc-ai-firmware-framerate",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Taiwan agency maps AI adoption\nacross production stages",
-      "body": "TAICCA research cites industry-wide AI adoption estimates of 70-85% in post-production and VFX, but only 15-25% on set.",
-      "mini_headline": "Taiwan agency maps\nAI adoption",
+      "headline": "AI-written 펌웨어\n누락 프레임레이트 고칠까",
+      "body": "AI로 짠 펌웨어 모드가 제조사보다 먼저 빠진 프레임레이트를 되살릴지 모른다.",
+      "mini_headline": "AI 모드로 프레임레이트 복구",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/film/markets-festivals/taiwan-audience-study-cross-platform-ip-ai-risks-1236941089/",
+      "source": "ProVideo Coalition",
+      "url": "https://www.provideocoalition.com/camera-improvements-will-ai-mods-fix-framerate-malpractice-before-the-guilty-manufacturers-bother-to-do-it-themselves/",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1667,183 +1447,359 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/11/Taiwan-insights.jpg?w=1000&h=563&crop=1"
+            "src": "https://www.provideocoalition.com/wp-content/uploads/Framerate-malpractice-hero.jpg",
+            "cap": "Framerate Malpractice"
           },
           {
             "t": "p",
-            "x": "At Taiwan Creative Content Fest (TCCF) in Taipei, the Taiwan Creative Content Agency (TAICCA) presented audience research alongside an evaluation of AI in audiovisual production."
+            "x": "지금까지 나는 Framerate Malpractice를 저지른 카메라 제조사 두 곳을 다뤘다. GoPro와 Sony(제품군 일부)다. 그 뒤 DJI도 마찬가지라는 걸 알게 됐다. 요즘 내 YouTube 피드에는 여러 사람이 AI로 펌웨어 업데이트를 만들어 카메라에 빠진 기능을 채워 넣은 사례가 뜨기 시작했다."
           },
           {
             "t": "p",
-            "x": "TAICCA research analyst Chhoa Hiok-chong examined AI adoption in audiovisual production, highlighting potential cost savings alongside legal uncertainty and technical limitations. Broader industry estimates cited in the presentation, rather than Taiwan-specific figures, placed AI adoption in post-production and visual effects at 70% to 85%, compared with 60% to 75% in pre-production and 15% to 25% in on-set production."
+            "x": "그래서 궁금해진다. 문제의 제조사들이 직접 손보기 전에 AI 모드가 Framerate Malpractice를 먼저 고칠까? 서드파티(third-party) 해킹으로 딱 그 부분을 고친 사례는 아직 못 봤지만 시간문제일 공산이 크다. AI 이전에도 여러 Canon 모델에 쓰던 유명한 Magic Lantern 펌웨어가 있었고 카메라를 quasi-worldcam(준 월드캠)으로 바꾸는 Sony 해킹도 있었다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.provideocoalition.com/wp-content/uploads/Sony-A7S-III-rounded-framerates.png",
+            "cap": "Sony A7S III의 반올림된 프레임레이트"
           },
           {
             "t": "p",
-            "x": "Technical obstacles remain, including visual consistency across shots, camera control, narrative continuity and integration into established production pipelines. Citing the Database of AI Litigation, the presentation identified 489 AI-related legal cases through August 2026, including 153 involving cultural and creative industries."
+            "x": "최근 나온 AI 개조 사례를 시간순으로 꼽으면 Breno Loves Cameras의 “Hacking Camera Software with AI is Getting Crazy”, FUTC의 “AI Camera Jailbreaking Changes Everything”, Tony & Chelsea Northrup의 “I hacked my camera with AI (and so can you)”가 있다."
           },
           {
-            "t": "p",
-            "x": "A November 2025 Luminate survey found 51% of U.S. respondents rejected fully synthetic virtual performers; in South Korea, 81.6% supported advance disclosure of AI-generated content. The audience study found 96% of respondents watched audiovisual content in 2025."
+            "t": "video",
+            "yt": "sJYBs5CLywk"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Taiwan agency maps AI adoption\nacross production stages",
-          "body": "TAICCA research cites industry-wide AI adoption estimates of 70-85% in post-production and VFX, but only 15-25% on set.",
-          "mini_headline": "Taiwan agency maps\nAI adoption",
+          "headline": "AI-written firmware mods\ncould fix missing frame rates",
+          "body": "Users are now writing camera firmware mods with AI, which may restore missing frame rates before makers do.",
+          "mini_headline": "AI mods for frame rates",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Taiwan-insights.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Framerate-malpractice-hero.jpg",
+                "cap": "Framerate Malpractice"
               },
               {
                 "t": "p",
-                "x": "At Taiwan Creative Content Fest (TCCF) in Taipei, the Taiwan Creative Content Agency (TAICCA) presented audience research alongside an evaluation of AI in audiovisual production."
+                "x": "So far, I have covered two camera manufacturers which are guilty of Framerate Malpractice. They are GoPro and Sony (in part of its line). Later, I discovered that DJI is equally guilty. Now, my YouTube feed is starting to include situations where several different people have used AI to add missing features to their cameras via firmware updates."
               },
               {
                 "t": "p",
-                "x": "TAICCA research analyst Chhoa Hiok-chong examined AI adoption in audiovisual production, highlighting potential cost savings alongside legal uncertainty and technical limitations. Broader industry estimates cited in the presentation, rather than Taiwan-specific figures, placed AI adoption in post-production and visual effects at 70% to 85%, compared with 60% to 75% in pre-production and 15% to 25% in on-set production."
+                "x": "So now, the question is: Will AI mods fix Framerate Malpractice before the guilty manufacturers bother to do it themselves? I have not yet seen that specific fix done via a third-party hack, but it is likely just a question of time. Even before AI, we had the famous Magic Lantern firmware for various Canon models, and the Sony hack to make cameras become quasi-worldcam."
+              },
+              {
+                "t": "img",
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Sony-A7S-III-rounded-framerates.png",
+                "cap": "Sony A7S III rounded framerates"
               },
               {
                 "t": "p",
-                "x": "Technical obstacles remain, including visual consistency across shots, camera control, narrative continuity and integration into established production pipelines. Citing the Database of AI Litigation, the presentation identified 489 AI-related legal cases through August 2026, including 153 involving cultural and creative industries."
+                "x": "Recent examples of AI modifications, in chronological order: “Hacking Camera Software with AI is Getting Crazy” from Breno Loves Cameras; “AI Camera Jailbreaking Changes Everything” from FUTC; and “I hacked my camera with AI (and so can you)” from Tony & Chelsea Northrup."
+              },
+              {
+                "t": "video",
+                "yt": "sJYBs5CLywk"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI-written 펌웨어\n누락 프레임레이트 고칠까",
+          "body": "AI로 짠 펌웨어 모드가 제조사보다 먼저 빠진 프레임레이트를 되살릴지 모른다.",
+          "mini_headline": "AI 모드로 프레임레이트 복구",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Framerate-malpractice-hero.jpg",
+                "cap": "Framerate Malpractice"
               },
               {
                 "t": "p",
-                "x": "A November 2025 Luminate survey found 51% of U.S. respondents rejected fully synthetic virtual performers; in South Korea, 81.6% supported advance disclosure of AI-generated content. The audience study found 96% of respondents watched audiovisual content in 2025."
+                "x": "지금까지 나는 Framerate Malpractice를 저지른 카메라 제조사 두 곳을 다뤘다. GoPro와 Sony(제품군 일부)다. 그 뒤 DJI도 마찬가지라는 걸 알게 됐다. 요즘 내 YouTube 피드에는 여러 사람이 AI로 펌웨어 업데이트를 만들어 카메라에 빠진 기능을 채워 넣은 사례가 뜨기 시작했다."
+              },
+              {
+                "t": "p",
+                "x": "그래서 궁금해진다. 문제의 제조사들이 직접 손보기 전에 AI 모드가 Framerate Malpractice를 먼저 고칠까? 서드파티(third-party) 해킹으로 딱 그 부분을 고친 사례는 아직 못 봤지만 시간문제일 공산이 크다. AI 이전에도 여러 Canon 모델에 쓰던 유명한 Magic Lantern 펌웨어가 있었고 카메라를 quasi-worldcam(준 월드캠)으로 바꾸는 Sony 해킹도 있었다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Sony-A7S-III-rounded-framerates.png",
+                "cap": "Sony A7S III의 반올림된 프레임레이트"
+              },
+              {
+                "t": "p",
+                "x": "최근 나온 AI 개조 사례를 시간순으로 꼽으면 Breno Loves Cameras의 “Hacking Camera Software with AI is Getting Crazy”, FUTC의 “AI Camera Jailbreaking Changes Everything”, Tony & Chelsea Northrup의 “I hacked my camera with AI (and so can you)”가 있다."
+              },
+              {
+                "t": "video",
+                "yt": "sJYBs5CLywk"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI-written改造が\n欠けたフレームレートを補うか",
+          "body": "AIで書いたファームウェア改造が、メーカーより先に欠けたフレームレートを補う可能性がある。",
+          "mini_headline": "AI改造でフレームレート補完",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Framerate-malpractice-hero.jpg",
+                "cap": "Framerate Malpractice"
+              },
+              {
+                "t": "p",
+                "x": "これまでに、Framerate Malpracticeを犯しているカメラメーカー二社を取り上げてきた。GoProとSony(製品ラインの一部)だ。その後、DJIも同様だと分かった。いま私のYouTubeフィードには、複数の人がAIを使い、ファームウェアアップデートでカメラに欠けた機能を追加した事例が並び始めている。"
+              },
+              {
+                "t": "p",
+                "x": "では問題はこうだ。当のメーカーが自ら対応する前に、AIによる改造がFramerate Malpracticeを解消するのか。サードパーティ(third-party)のハックでまさにその修正が行われた例はまだ見ていないが、おそらく時間の問題だろう。AI以前にも、複数のCanon機種向けの有名なMagic Lanternファームウェアや、カメラをquasi-worldcam(準ワールドカム)にするSonyのハックがあった。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Sony-A7S-III-rounded-framerates.png",
+                "cap": "Sony A7S IIIの丸められたフレームレート"
+              },
+              {
+                "t": "p",
+                "x": "AIによる改造の最近の例を時系列で挙げると、Breno Loves Camerasの「Hacking Camera Software with AI is Getting Crazy」、FUTCの「AI Camera Jailbreaking Changes Everything」、Tony & Chelsea Northrupの「I hacked my camera with AI (and so can you)」がある。"
+              },
+              {
+                "t": "video",
+                "yt": "sJYBs5CLywk"
               }
             ]
           }
         },
         "zh": {
-          "headline": "台湾机构梳理各制作阶段\nAI应用情况",
-          "body": "TAICCA引述业界估算，后期与VFX的AI采用率为70～85%，现场拍摄仅15～25%。",
-          "mini_headline": "台湾机构梳理AI应用",
+          "headline": "AI-written固件改装\n或补回缺失帧率",
+          "body": "用户正用AI编写相机固件改装，可能抢在厂商之前补回缺失的帧率。",
+          "mini_headline": "AI改装补回帧率",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Taiwan-insights.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Framerate-malpractice-hero.jpg",
+                "cap": "Framerate Malpractice"
               },
               {
                 "t": "p",
-                "x": "在台北举行的Taiwan Creative Content Fest（TCCF）上，Taiwan Creative Content Agency（TAICCA）发布了观众研究，并对视听制作中的AI进行了评估。"
+                "x": "到目前为止，我已报道过两家犯有Framerate Malpractice的相机厂商：GoPro和Sony（部分产品线）。后来我发现DJI也同样如此。如今我的YouTube推送开始出现这样的情况：好几个人用AI通过固件更新为相机加入缺失的功能。"
               },
               {
                 "t": "p",
-                "x": "TAICCA研究分析师Chhoa Hiok-chong考察了视听制作中的AI应用，指出其潜在的成本节约，同时也提到法律不确定性和技术局限。演示中引用的是更广泛的行业估算，而非台湾本地数据：后期制作与视觉特效领域的AI采用率为70%至85%，前期制作为60%至75%，现场拍摄制作为15%至25%。"
+                "x": "那么问题来了：在这些厂商亲自动手之前，AI改装会先解决Framerate Malpractice吗？我还没见过有人用第三方（third-party）破解完成这项具体修复，但这很可能只是时间问题。早在AI出现之前，就有为多款Canon机型打造的著名Magic Lantern固件，以及让相机变成quasi-worldcam的Sony破解。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Sony-A7S-III-rounded-framerates.png",
+                "cap": "Sony A7S III取整后的帧率"
               },
               {
                 "t": "p",
-                "x": "技术障碍依然存在，包括镜头之间的视觉一致性、摄影机控制、叙事连贯性，以及与既有制作流程的整合。演示援引Database of AI Litigation的数据指出，截至2026年8月共有489起AI相关（AI-related）法律案件，其中153起涉及文化创意产业。"
+                "x": "按时间顺序排列的近期AI改装案例：Breno Loves Cameras的“Hacking Camera Software with AI is Getting Crazy”；FUTC的“AI Camera Jailbreaking Changes Everything”；以及Tony & Chelsea Northrup的“I hacked my camera with AI (and so can you)”。"
               },
               {
-                "t": "p",
-                "x": "Luminate于2025年11月进行的调查显示，51%的U.S.（美国）受访者拒绝完全合成的虚拟表演者；在韩国，81.6%的受访者支持事先披露AI生成内容（AI-generated content）。观众研究发现，96%的受访者在2025年观看过视听内容。"
+                "t": "video",
+                "yt": "sJYBs5CLywk"
               }
             ]
           }
         },
         "es": {
-          "headline": "Taiwán mide la adopción de IA\nen cada etapa de producción",
-          "body": "Según TAICCA, la adopción de IA en el sector llega al 70-85% en posproducción y VFX, pero solo al 15-25% en rodaje.",
-          "mini_headline": "Taiwán mide la adopción de IA",
+          "headline": "Mods de firmware AI-written\npodrían recuperar fps perdidos",
+          "body": "Usuarios escriben con AI mods de firmware de cámara que podrían recuperar los fps perdidos antes que los fabricantes.",
+          "mini_headline": "Mods con AI para los frame rates",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Taiwan-insights.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Framerate-malpractice-hero.jpg",
+                "cap": "Framerate Malpractice"
               },
               {
                 "t": "p",
-                "x": "En el Taiwan Creative Content Fest (TCCF), celebrado en Taipéi, la Taiwan Creative Content Agency (TAICCA) presentó un estudio de audiencias junto con una evaluación de la IA en la producción audiovisual."
+                "x": "Hasta ahora he hablado de dos fabricantes de cámaras culpables de Framerate Malpractice: GoPro y Sony (en parte de su línea). Más tarde descubrí que DJI es igual de culpable. Ahora mi feed de YouTube empieza a mostrar casos en los que varias personas han usado AI para añadir a sus cámaras funciones que faltaban mediante actualizaciones de firmware."
               },
               {
                 "t": "p",
-                "x": "Chhoa Hiok-chong, analista de investigación de TAICCA, examinó la adopción de IA en la producción audiovisual y destacó el posible ahorro de costes junto con la incertidumbre jurídica y las limitaciones técnicas. Las estimaciones generales del sector citadas en la presentación, y no cifras específicas de Taiwán, situaron la adopción de IA en posproducción y efectos visuales entre el 70% y el 85%, frente al 60%-75% en preproducción y al 15%-25% en la producción en rodaje."
+                "x": "Así que la pregunta es: ¿los mods con AI resolverán la Framerate Malpractice antes de que los fabricantes culpables se molesten en hacerlo ellos mismos? Todavía no he visto esa corrección concreta hecha con un hack de terceros (third-party), pero probablemente sea cuestión de tiempo. Incluso antes de la AI ya existía el famoso firmware Magic Lantern para varios modelos de Canon, y el hack de Sony para convertir las cámaras en quasi-worldcam."
+              },
+              {
+                "t": "img",
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Sony-A7S-III-rounded-framerates.png",
+                "cap": "Frame rates redondeados de la Sony A7S III"
               },
               {
                 "t": "p",
-                "x": "Persisten obstáculos técnicos, como la coherencia visual entre planos, el control de cámara, la continuidad narrativa y la integración en los flujos de producción existentes. Citando la Database of AI Litigation, la presentación identificó 489 casos legales relacionados con la IA (AI-related) hasta agosto de 2026, de los cuales 153 afectaban a las industrias culturales y creativas."
+                "x": "Ejemplos recientes de modificaciones con AI, en orden cronológico: “Hacking Camera Software with AI is Getting Crazy”, de Breno Loves Cameras; “AI Camera Jailbreaking Changes Everything”, de FUTC; y “I hacked my camera with AI (and so can you)”, de Tony & Chelsea Northrup."
               },
               {
-                "t": "p",
-                "x": "Una encuesta de Luminate de noviembre de 2025 reveló que el 51% de los encuestados en U.S. (Estados Unidos) rechazaba a los intérpretes virtuales totalmente sintéticos; en Corea del Sur, el 81.6% apoyaba la divulgación previa del contenido generado por IA (AI-generated). El estudio de audiencias mostró que el 96% de los encuestados vio contenido audiovisual en 2025."
+                "t": "video",
+                "yt": "sJYBs5CLywk"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "zh": {
-          "headline": "台湾机构梳理各制作阶段\nAI应用情况",
-          "body": "TAICCA引述业界估算，后期与VFX的AI采用率为70～85%，现场拍摄仅15～25%。",
-          "mini_headline": "台湾机构梳理AI应用",
+        "ko": {
+          "headline": "AI-written 펌웨어\n누락 프레임레이트 고칠까",
+          "body": "AI로 짠 카메라 펌웨어 모드가 제조사보다 먼저 빠진 프레임레이트를 살릴 수 있다.",
+          "mini_headline": "AI 모드로 프레임레이트 복구",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Taiwan-insights.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Framerate-malpractice-hero.jpg",
+                "cap": "Framerate Malpractice"
               },
               {
                 "t": "p",
-                "x": "在台北举行的Taiwan Creative Content Fest（TCCF）上，Taiwan Creative Content Agency（TAICCA）发布了观众研究，并对视听制作中的AI进行了评估。"
+                "x": "지금까지 나는 Framerate Malpractice를 저지른 카메라 제조사 두 곳을 다뤘다. GoPro와 Sony(제품군 일부)다. 이후 DJI도 똑같다는 사실을 알게 됐다. 이제 내 YouTube 피드에는 여러 사람이 AI로 펌웨어 업데이트를 만들어 카메라에 빠진 기능을 추가한 사례가 보이기 시작했다."
               },
               {
                 "t": "p",
-                "x": "TAICCA研究分析师Chhoa Hiok-chong考察了视听制作中的AI应用，指出其潜在的成本节约，同时也提到法律不确定性和技术局限。演示中引用的是更广泛的行业估算，而非台湾本地数据：后期制作与视觉特效领域的AI采用率为70%至85%，前期制作为60%至75%，现场拍摄制作为15%至25%。"
+                "x": "그렇다면 질문은 이것이다. 잘못을 저지른 제조사들이 직접 나서기 전에 AI 모드가 Framerate Malpractice를 고칠 것인가? 서드파티(third-party) 해킹으로 바로 그 수정이 이뤄진 사례는 아직 보지 못했지만, 시간문제일 가능성이 크다. AI 이전에도 여러 Canon 모델용으로 유명한 Magic Lantern 펌웨어가 있었고, 카메라를 quasi-worldcam(준 월드캠)으로 만드는 Sony 해킹도 있었다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Sony-A7S-III-rounded-framerates.png",
+                "cap": "Sony A7S III의 반올림된 프레임레이트"
               },
               {
                 "t": "p",
-                "x": "技术障碍依然存在，包括镜头之间的视觉一致性、摄影机控制、叙事连贯性，以及与既有制作流程的整合。演示援引Database of AI Litigation的数据指出，截至2026年8月共有489起AI相关（AI-related）法律案件，其中153起涉及文化创意产业。"
+                "x": "AI 개조의 최근 사례를 시간순으로 꼽으면 Breno Loves Cameras의 “Hacking Camera Software with AI is Getting Crazy”, FUTC의 “AI Camera Jailbreaking Changes Everything”, Tony & Chelsea Northrup의 “I hacked my camera with AI (and so can you)”가 있다."
+              },
+              {
+                "t": "video",
+                "yt": "sJYBs5CLywk"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI-written改造が\n欠けたフレームレートを補うか",
+          "body": "AIで書いたファームウェア改造が、メーカーより先に欠けたフレームレートを補う可能性がある。",
+          "mini_headline": "AI改造でフレームレート補完",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Framerate-malpractice-hero.jpg",
+                "cap": "Framerate Malpractice"
               },
               {
                 "t": "p",
-                "x": "Luminate于2025年11月进行的调查显示，51%的U.S.（美国）受访者拒绝完全合成的虚拟表演者；在韩国，81.6%的受访者支持事先披露AI生成内容（AI-generated content）。观众研究发现，96%的受访者在2025年观看过视听内容。"
+                "x": "これまでに、Framerate Malpracticeを犯しているカメラメーカー二社を取り上げてきた。GoProとSony(製品ラインの一部)だ。その後、DJIも同様だと分かった。いま私のYouTubeフィードには、複数の人がAIを使い、ファームウェアアップデートでカメラに欠けた機能を追加した事例が並び始めている。"
+              },
+              {
+                "t": "p",
+                "x": "では問題はこうだ。当のメーカーが自ら対応する前に、AIによる改造がFramerate Malpracticeを解消するのか。サードパーティ(third-party)のハックでまさにその修正が行われた例はまだ見ていないが、おそらく時間の問題だろう。AI以前にも、複数のCanon機種向けの有名なMagic Lanternファームウェアや、カメラをquasi-worldcam(準ワールドカム)にするSonyのハックがあった。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Sony-A7S-III-rounded-framerates.png",
+                "cap": "Sony A7S IIIの丸められたフレームレート"
+              },
+              {
+                "t": "p",
+                "x": "AIによる改造の最近の例を時系列で挙げると、Breno Loves Camerasの「Hacking Camera Software with AI is Getting Crazy」、FUTCの「AI Camera Jailbreaking Changes Everything」、Tony & Chelsea Northrupの「I hacked my camera with AI (and so can you)」がある。"
+              },
+              {
+                "t": "video",
+                "yt": "sJYBs5CLywk"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI-written固件改装\n或补回缺失帧率",
+          "body": "用户正用AI编写相机固件改装，可能抢在厂商之前补回缺失的帧率。",
+          "mini_headline": "AI改装补回帧率",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Framerate-malpractice-hero.jpg",
+                "cap": "Framerate Malpractice"
+              },
+              {
+                "t": "p",
+                "x": "到目前为止，我已报道过两家犯有Framerate Malpractice的相机厂商：GoPro和Sony（部分产品线）。后来我发现DJI也同样如此。如今我的YouTube推送开始出现这样的情况：好几个人用AI通过固件更新为相机加入缺失的功能。"
+              },
+              {
+                "t": "p",
+                "x": "那么问题来了：在这些厂商亲自动手之前，AI改装会先解决Framerate Malpractice吗？我还没见过有人用第三方（third-party）破解完成这项具体修复，但这很可能只是时间问题。早在AI出现之前，就有为多款Canon机型打造的著名Magic Lantern固件，以及让相机变成quasi-worldcam的Sony破解。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Sony-A7S-III-rounded-framerates.png",
+                "cap": "Sony A7S III取整后的帧率"
+              },
+              {
+                "t": "p",
+                "x": "按时间顺序排列的近期AI改装案例：Breno Loves Cameras的“Hacking Camera Software with AI is Getting Crazy”；FUTC的“AI Camera Jailbreaking Changes Everything”；以及Tony & Chelsea Northrup的“I hacked my camera with AI (and so can you)”。"
+              },
+              {
+                "t": "video",
+                "yt": "sJYBs5CLywk"
               }
             ]
           }
         },
         "es": {
-          "headline": "Taiwán mide la adopción de IA\nen cada etapa de producción",
-          "body": "Según TAICCA, la adopción de IA en el sector llega al 70-85% en posproducción y VFX, pero solo al 15-25% en rodaje.",
-          "mini_headline": "Taiwán mide la adopción de IA",
+          "headline": "Mods de firmware AI-written\npodrían recuperar fps perdidos",
+          "body": "Usuarios escriben con AI mods de firmware de cámara que podrían recuperar los fps perdidos antes que los fabricantes.",
+          "mini_headline": "Mods con AI para los frame rates",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Taiwan-insights.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Framerate-malpractice-hero.jpg",
+                "cap": "Framerate Malpractice"
               },
               {
                 "t": "p",
-                "x": "En el Taiwan Creative Content Fest (TCCF), celebrado en Taipéi, la Taiwan Creative Content Agency (TAICCA) presentó un estudio de audiencias junto con una evaluación de la IA en la producción audiovisual."
+                "x": "Hasta ahora he hablado de dos fabricantes de cámaras culpables de Framerate Malpractice: GoPro y Sony (en parte de su línea). Más tarde descubrí que DJI es igual de culpable. Ahora mi feed de YouTube empieza a mostrar casos en los que varias personas han usado AI para añadir a sus cámaras funciones que faltaban mediante actualizaciones de firmware."
               },
               {
                 "t": "p",
-                "x": "Chhoa Hiok-chong, analista de investigación de TAICCA, examinó la adopción de IA en la producción audiovisual y destacó el posible ahorro de costes junto con la incertidumbre jurídica y las limitaciones técnicas. Las estimaciones generales del sector citadas en la presentación, y no cifras específicas de Taiwán, situaron la adopción de IA en posproducción y efectos visuales entre el 70% y el 85%, frente al 60%-75% en preproducción y al 15%-25% en la producción en rodaje."
+                "x": "Así que la pregunta es: ¿los mods con AI resolverán la Framerate Malpractice antes de que los fabricantes culpables se molesten en hacerlo ellos mismos? Todavía no he visto esa corrección concreta hecha con un hack de terceros (third-party), pero probablemente sea cuestión de tiempo. Incluso antes de la AI ya existía el famoso firmware Magic Lantern para varios modelos de Canon, y el hack de Sony para convertir las cámaras en quasi-worldcam."
+              },
+              {
+                "t": "img",
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Sony-A7S-III-rounded-framerates.png",
+                "cap": "Frame rates redondeados de la Sony A7S III"
               },
               {
                 "t": "p",
-                "x": "Persisten obstáculos técnicos, como la coherencia visual entre planos, el control de cámara, la continuidad narrativa y la integración en los flujos de producción existentes. Citando la Database of AI Litigation, la presentación identificó 489 casos legales relacionados con la IA (AI-related) hasta agosto de 2026, de los cuales 153 afectaban a las industrias culturales y creativas."
+                "x": "Ejemplos recientes de modificaciones con AI, en orden cronológico: “Hacking Camera Software with AI is Getting Crazy”, de Breno Loves Cameras; “AI Camera Jailbreaking Changes Everything”, de FUTC; y “I hacked my camera with AI (and so can you)”, de Tony & Chelsea Northrup."
               },
               {
-                "t": "p",
-                "x": "Una encuesta de Luminate de noviembre de 2025 reveló que el 51% de los encuestados en U.S. (Estados Unidos) rechazaba a los intérpretes virtuales totalmente sintéticos; en Corea del Sur, el 81.6% apoyaba la divulgación previa del contenido generado por IA (AI-generated). El estudio de audiencias mostró que el 96% de los encuestados vio contenido audiovisual en 2025."
+                "t": "video",
+                "yt": "sJYBs5CLywk"
               }
             ]
           }
         }
-      },
-      "i18n_status": {
-        "ko": "fallback",
-        "ja": "fallback"
       }
     }
   ]

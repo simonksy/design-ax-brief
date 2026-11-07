@@ -15067,6 +15067,146 @@
           "x": "데스크톱판은 완전한 멀티트랙 타임라인, 정밀한 오디오 파형, 색 보정 도구, 키보드 단축키를 갖췄고 워터마크 없는 4K 내보내기와 여러 화면비도 지원한다. 당분간은 macOS 전용(macOS-only)이며, 모바일과 데스크톱을 오가며 한 프로젝트를 편집하는 기능은 아직 없다. Meta는 앱을 매주 업데이트할 계획이다."
         }
       ]
+    },
+    "movies/hotsea-melochu-anime": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i3n.news1.kr/system/photos/2026/11/4/8197258/high.jpg",
+          "cap": "생성형 AI 애니메이션 두근두근 멜로츄의 주인공을 그린 홍보 이미지 (뜨거운바다 제공. 재판매 및 DB 금지) 2026.11.5/뉴스1"
+        },
+        {
+          "t": "p",
+          "x": "크리에이티브 스튜디오 뜨거운바다가 생성형 인공지능(AI) 기술로 제작한 오리지널 애니메이션 '두근두근 멜로츄!'(Beat On! Mello-Chu!)를 공개했다. 첫 에피소드는 미국 뉴욕을 배경으로 한다."
+        },
+        {
+          "t": "p",
+          "x": "작품은 소녀 4명이 세계 여러 나라를 여행하면서 문화와 언어를 배우고 음악으로 성장하는 이야기다. K팝과 여행 서사를 결합한 뮤직 어드벤처 형식이다."
+        },
+        {
+          "t": "p",
+          "x": "첫 편에서는 주인공들이 뉴욕에서 현지 문화를 접하고 공연을 준비한다. 공개된 영상 분량은 약 5분이다."
+        },
+        {
+          "t": "p",
+          "x": "뜨거운바다는 기획과 캐릭터 설정, 이야기 구성, 장면 제작을 자체적으로 진행했다. 오리지널 음악의 작사와 작곡도 제작 범위에 포함했다."
+        },
+        {
+          "t": "p",
+          "x": "제작 과정에는 생성형 AI 영상 기술을 활용했다. 음악 창작 경험과 서사 구성을 연결해 독립된 지식재산(IP)을 구축하는 데 초점을 맞췄다."
+        },
+        {
+          "t": "p",
+          "x": "진호현 뜨거운바다 PD가 기획과 제작을 총괄했다. 생성형 AI 제작 과정의 시행착오를 겪으면서도 영상과 음악이 하나의 이야기로 이어지게 작업했다."
+        },
+        {
+          "t": "p",
+          "x": "뜨거운바다 측은 앞으로 장르와 형식이 다른 오리지널 IP를 계속 발굴할 계획이다. 자체 콘텐츠 포트폴리오를 장기적으로 확대한다는 구상이다."
+        },
+        {
+          "t": "p",
+          "x": "'두근두근 멜로츄!' 첫 영상은 뜨거운바다 공식 유튜브 채널에서 공개했다. 이 회사는 생성형 AI를 활용한 브랜드 영상과 자체 콘텐츠를 기획·제작한다."
+        }
+      ]
+    },
+    "movies/curiousrefuge-ai-clone-shoot": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "CM1rPwuXw2A"
+        },
+        {
+          "t": "p",
+          "x": "Curious Refuge가 이번 튜토리얼에서 세계 어디서든 스튜디오를 차리는 법을 소개한다. 오디오와 참조 영상만 있으면 된다. 팀은 이 워크플로에 “Studio Anywhere”라는 이름을 붙였다."
+        },
+        {
+          "t": "p",
+          "x": "1. 휴대폰이나 마이크로 오디오를 녹음하고 Adobe Podcast로 다듬는다. 2. 다듬은 녹음을 영상 편집기(팀은 Adobe Premiere를 썼다)에 불러와 검은 화면 영상으로 내보낸다. 3. 카메라 앞에서 말하는 자기 모습을 짧게 담은 클립을 고른다. 팀은 Caleb이 스튜디오에서 말하는 약 여섯 초 분량을 골랐다. 정지 이미지보다 영상 참조가 모델에 주는 정보가 많아서다."
+        },
+        {
+          "t": "p",
+          "x": "4. 오디오와 참조 영상을 Seedance 2.5(팀은 Magnific을 썼다)에 올리고 검은 영상에서는 오디오를, 참조 영상에서는 외모와 움직임, 환경을 가져오라고 프롬프트를 쓴다. 두 입력을 합쳐 30초까지만 받아서 긴 녹음은 나눠 넣어야 했다. Promise Studios에서 결과물을 본 사람들은 하나같이 실제 영상인 줄 알았다."
+        },
+        {
+          "t": "p",
+          "x": "HeyGen, 직접 학습한 LoRA 워크플로와 견줘 보면 Seedance 2.5 쪽이 가장 그럴듯했다. HeyGen은 아직 불쾌한 골짜기를 벗어나지 못했다. 1080p 기준으로 이 예시들에 든 비용은 Seedance 2.5가 약 $16, HeyGen이 $0.05, fal.ai를 거친 세 번째 워크플로가 $24였다."
+        },
+        {
+          "t": "p",
+          "x": "Seedance 2.5, Wan 3, MiniMax H3로 각본만 넣고 연기까지 통째로 생성하면 그림은 그럴듯해도 연기 전달력은 아직 모자랐다. 목소리를 직접 녹음해 넣으면 타이밍과 개성이 살아났다."
+        }
+      ]
+    },
+    "movies/curiousrefuge-sam-audio-music": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "u78B727zbRI"
+        },
+        {
+          "t": "p",
+          "x": "Caleb은 이 짧은 튜토리얼에서 Meta의 무료 사운드 분리 도구 SAM Audio로 어느 클립에서든 음악을 걷어내는 법을 보여준다. 효과음만 깨끗하게 남기고 원하는 음악은 편집기에서 직접 깔면 된다. AI 클립뿐 아니라 일반 영상에도 통한다."
+        },
+        {
+          "t": "p",
+          "x": "타임코드(Time Code): 0:00 AI 음악 문제 · 0:44 Meta의 SAM Audio 소개 · 1:09 Seedance 클립 업로드 · 2:21 프롬프트로 음악 분리 · 2:57 음악만(Music-only) vs. 효과음만(sound effects-only) · 4:21 예시: 커피 장면 · 5:43 예시: Sci-fi 장면 · 6:51 모든 영상에 적용"
+        }
+      ]
+    },
+    "movies/pvc-ai-firmware-framerate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Framerate-malpractice-hero.jpg",
+          "cap": "Framerate Malpractice"
+        },
+        {
+          "t": "p",
+          "x": "지금까지 나는 Framerate Malpractice를 저지른 카메라 제조사 두 곳을 다뤘다. GoPro와 Sony(제품군 일부)다. 그 뒤 DJI도 마찬가지라는 걸 알게 됐다. 요즘 내 YouTube 피드에는 여러 사람이 AI로 펌웨어 업데이트를 만들어 카메라에 빠진 기능을 채워 넣은 사례가 뜨기 시작했다."
+        },
+        {
+          "t": "p",
+          "x": "그래서 궁금해진다. 문제의 제조사들이 직접 손보기 전에 AI 모드가 Framerate Malpractice를 먼저 고칠까? 서드파티(third-party) 해킹으로 딱 그 부분을 고친 사례는 아직 못 봤지만 시간문제일 공산이 크다. AI 이전에도 여러 Canon 모델에 쓰던 유명한 Magic Lantern 펌웨어가 있었고 카메라를 quasi-worldcam(준 월드캠)으로 바꾸는 Sony 해킹도 있었다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Sony-A7S-III-rounded-framerates.png",
+          "cap": "Sony A7S III의 반올림된 프레임레이트"
+        },
+        {
+          "t": "p",
+          "x": "최근 나온 AI 개조 사례를 시간순으로 꼽으면 Breno Loves Cameras의 “Hacking Camera Software with AI is Getting Crazy”, FUTC의 “AI Camera Jailbreaking Changes Everything”, Tony & Chelsea Northrup의 “I hacked my camera with AI (and so can you)”가 있다."
+        },
+        {
+          "t": "video",
+          "yt": "sJYBs5CLywk"
+        }
+      ]
+    },
+    "movies/dumont-the-end-genai-feature": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/2/6/1491626_Director-Burno-Dumont-Portrait.jpg",
+          "cap": "Bruno Dumont"
+        },
+        {
+          "t": "p",
+          "x": "칸영화제(Cannes)에서 상을 받은 프랑스 감독 Bruno Dumont이 차기 장편 The End를 배우도 기존 촬영 스태프도 없이, 아주 적은 예산으로 전부 생성형 AI로 만든다고 밝혔다. 8월에 시작한 이 영어 SF 스릴러는 이미 제작을 마쳤다. 이미지와 연기, 사운드까지 모두 그가 직접 생성했다. 영화제 상영을 거쳐 2027년 극장에 걸 계획이다."
+        },
+        {
+          "t": "p",
+          "x": "주인공은 야심 찬 로스앤젤레스 경찰관이다. 지진과 소행성 낙하로 도시가 무너져 가는 와중에 그는 한 사건을 수사한다. 각본은 Dumont이 25년도 더 전에 써 두었지만 재난 장면에 드는 비용을 감당할 수 없어 묵혀 왔다."
+        },
+        {
+          "t": "p",
+          "x": "작업은 파리 자택에서 한다. 직접 짠 숏 분할대로 장면마다 영상을 생성하되 연기와 미장센, 편집의 통제권은 놓지 않는다. “나는 스태프와 일하는 감독과 같다. 다만 내 스태프가 기계일 뿐이다.” 그는 “끊임없이 지시를 내린다”고 했다."
+        },
+        {
+          "t": "p",
+          "x": "The End는 아직 판매 대행사 없이 독립 제작 중이다. 그는 “프랑스에서 영화 자금을 모으기가 점점 더 어려워지고 있다”며 “지금 나는 완전한 자유를 누린다. 하고 싶은 것을 할 수 있다”고 말했다."
+        }
+      ]
     }
   }
 }

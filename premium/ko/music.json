@@ -14331,6 +14331,131 @@
           "x": "요청만 하면 Rheo가 Splice 샘플과 기본 악기로 곡 하나를 통째로 만들기도 한다. Suno식 오디오 생성 기능은 없다. Splice는 모든 모델을 “완전히 라이선스를 확보한” 데이터로 학습시켰다고 밝혔다. MusicRadar는 창작의 주도권을 AI 에이전트에 넘기면 음악 만들기가 너무 쉬워지지 않느냐고 묻는다."
         }
       ]
+    },
+    "music/sampleson-wavefinder-local-search": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "HH2709Zcn8A"
+        },
+        {
+          "t": "p",
+          "x": "Sampleson이 데스크톱 오디오 검색 앱 Wavefinder를 내놓았다. 대용량 샘플 라이브러리에서 원하는 소리를 찾아 주는 앱이다. 파일명이나 수동 태그에 기대지 않고 오디오 파일을 분석해 텍스트 설명이나 참조 녹음과 얼마나 닮았는지로 순위를 매긴다."
+        },
+        {
+          "t": "p",
+          "x": "AI 모델은 로컬에서 돌아가므로 오디오를 올리거나 정기 구독료를 낼 필요가 없다. 질감, 분위기, 룸 사운드, 연주 제스처 같은 소리를 자연어로 묘사하거나 참조 오디오를 앱에 끌어다 놓으면 비슷한 녹음을 찾아 준다."
+        },
+        {
+          "t": "p",
+          "x": "인덱스는 하위 폴더까지 훑어 로컬에서 만들고 저장한다. 검색 횟수 제한은 없다. 지원 형식은 WAV, AIFF, AIF, FLAC, OGG, MP3다. macOS와 Windows에서는 단독 앱으로, 호환 DAWs에서는 플러그인으로 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Wavefinder 가격은 현재 $29.00 USD다. 정가 $49.00 USD에서 내린 출시 할인가로, 할인은 November 15, 2026까지 이어진다."
+        }
+      ]
+    },
+    "music/heritage-i73pro-nam-a2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/h/heritage_audio_nam_a2_0-hbH78FIVnEagNT4vjmT0H48ZpPbbIcyU.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Heritage Audio가 i73 Pro 오디오 인터페이스용 펌웨어 업데이트를 내놓았다. 내장 DSP에서 NAM(Neural Amp Modeler) A2 캡처를 호스팅하는 업데이트로, 기존 사용자는 모두 무료로 받는다. 기타 앰프·페달·아웃보드 장비를 고품질로 에뮬레이션한 사운드를 거쳐 녹음할 수 있게 됐다."
+        },
+        {
+          "t": "p",
+          "x": "NAM은 실제 앰프, 페달, 아웃보드 장비는 물론 시그널 체인 전체를 신경망 모델로 캡처하는 오픈소스 기술이다. A2는 2 June 2026에 공개된 두 번째 세대 아키텍처로, 연산 자원을 덜 쓰면서도 음질은 더 좋다. 이제 .nam 파일을 i73 Pro의 DSP에 직접 올리면 CPU 자원을 쓰지 않고 지연도 늘리지 않은 채 캡처를 거쳐 녹음한다."
+        },
+        {
+          "t": "p",
+          "x": "Heritage Audio 창립자(Founder) Peter Rodriguez는 “내장 로더 덕분에 i73 Pro 사용자는 플러그인도, 추가 장치도, 지연 걱정도 없이 NAM 세계의 어떤 앰프, 페달, 아웃보드든 거쳐 연주할 수 있다”고 말했다. 펌웨어와 Mixer 애플리케이션은 지금 Heritage Audio 웹사이트에서 내려받을 수 있다."
+        }
+      ]
+    },
+    "music/procraft-instruction-music-edit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "음악 제작에는 보통 여러 편집 작업이 따르는데, 작업마다 전문 도구와 전문 지식이 든다. ProCraft는 0.5B 파라미터 규모의 가벼운 자기회귀 코덱 언어 모델이다. 복합 요청이 섞인 자유 형식 지시를 받아 30초 길이 음악 발췌를 처음부터 끝까지 편집한다. 지원 작업은 트랙 제거부터 반주 생성까지 일곱 가지로, 여덟 가지 악기를 다룬다."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2611.07423v1/fig_architecture.svg",
+          "cap": "그림 1: ProCraft 아키텍처."
+        },
+        {
+          "t": "p",
+          "x": "사전 학습된 음악 임베딩에 표현을 정렬해 편집 범위 밖의 내용은 그대로 지키며 모든 디코더 층의 게이트 교차 어텐션으로 생성 결과를 지시에 묶어 둔다. 연구진은 복합 요청을 학습시키려고 On-the-fly Editing-pair Synthesis를 도입했다."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2611.07423v1/fig_data_pipeline.svg",
+          "cap": "그림 2: On-the-fly editing-pair synthesis."
+        },
+        {
+          "t": "p",
+          "x": "MoisesDB와 Slakh에서 트랙 제거·추출·노이즈 제거 복합 지시를 처리할 때 ProCraft는 자유 텍스트 기반 편집기 네 종을 앞섰다. 청취자 16명이 참여한 사용자 연구에서는 제거와 노이즈 제거에서 가장 높은 평가를 받았다. 추출과 악기 전환에서는 16배 큰 모델과 대등했다."
+        }
+      ]
+    },
+    "music/a2o-lite-neon-ai-memes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12958354.webp?imageId=12958354&width=960&height=548&format=jpg",
+          "cap": "AI-generated 이미지에서 SK Group Chey Tae-won 회장(왼쪽)과 Samsung Electronics Lee Jae-yong 회장이 걸그룹 A2O Lite 신곡 “Neon”에 맞춰 춤춘다."
+        },
+        {
+          "t": "p",
+          "x": "갓 데뷔한 걸그룹 A2O Lite의 “Neon”이 차트를 휩쓰는 사이 또 다른 것이 화제가 됐다. 멤버 얼굴을 SK Group Chey Tae-won 회장, Samsung Electronics Lee Jae-yong 회장 같은 공인의 얼굴로 바꾼 AI-generated 안무 패러디 영상이다. 청취자들은 후렴이 한국어 ‘미혼’과 ‘이혼’처럼 들린다고 짚었다."
+        },
+        {
+          "t": "p",
+          "x": "직접 패러디 영상을 만들어 보니 삼 분이 채 안 걸렸고 돈도 들지 않았다. AI 영상 플랫폼 Higgsfield에 뮤직비디오 오프닝 장면을 담은 기성 템플릿이 있어서 15초짜리 패러디가 몇 분 만에 완성됐다."
+        },
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12958352.webp?imageId=12958352&width=960&height=740&format=jpg",
+          "cap": "AI-generated 영상 속 고양이들이 걸그룹 A2O Lite 신곡 “Neon”에 맞춰 춤춘다."
+        },
+        {
+          "t": "p",
+          "x": "이런 영상은 대부분, 어쩌면 전부가 얼굴 주인의 동의 없이 만들어졌다. Lawfirm Taeryun의 Hwang Jin-seop 변호사는 “‘패러디’라는 이름은 방패가 될 수는 있어도 면죄부는 아니다”라고 말했다. Blackpink Jennie와 Girls' Generation Yoona의 소속사는 딥페이크 영상에 무관용 원칙으로 법적 대응하겠다고 밝혔다."
+        }
+      ]
+    },
+    "music/cubase16-stem-omnivocal": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Steinberg가 Cubase 16을 내놨다. 프로듀서와 리믹서, 뮤지션을 위한 새 도구로 디지털 오디오 워크스테이션(DAW)의 폭을 넓혔다. 큰 변화 중 하나는 오디오 기술 기업 zplane과 함께 손본 스템 분리 기능이다. 이제 믹스된 녹음을 보컬, 드럼, 베이스, 피아노, 기타, 그 밖의 악기까지 여섯 요소로 나눈다. 이전 버전은 네 가지였다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/b/3/csm_Cubase-16-04_master_291774746e.jpg",
+          "cap": "전문 녹음 스튜디오에서 일렉트릭 기타와 함께한 Cubase 16 음악 제작 워크플로"
+        },
+        {
+          "t": "p",
+          "x": "Instrument Stacks도 새로 들어갔다. 가상 악기를 최대 여덟 개까지 묶어 한 트랙에서 연주한다. 새 MIDI 도구는 프로그래밍한 코드를 자연스러운 스트로크처럼 들리게 해 준다. 템포 감지를 새로 설계하고 설정을 검색할 수 있게 바꾼 것도 일상 작업 속도를 끌어올리려는 변화다."
+        },
+        {
+          "t": "p",
+          "x": "Yamaha의 보컬 신시사이저 Omnivocal Basic도 눈에 띈다. 새 Omnivocal NX 엔진으로 돌아가며, Cubase의 Key Editor에 직접 입력한 MIDI 음표와 가사로 노래를 만든다. Basic에는 보이스 뱅크가 두 개 들어 있다. 따로 파는 Omnivocal Pro는 이를 열 개로 늘리고, 여러 겹의 연주를 쌓는 보컬 스태킹 기능을 더한다."
+        },
+        {
+          "t": "p",
+          "x": "Cubase 16은 Pro($599.99 / €599), Artist($299.99 / €299), Elements($99.99 / €99) 에디션으로 나온다. Omnivocal Basic은 무료로 딸려 오고 Omnivocal Pro는 $149.99에 따로 판다. 2026년 10월 7일부터 활성화한 라이선스는 무료로 업데이트할 수 있다."
+        },
+        {
+          "t": "video",
+          "yt": "rUJ8NZDcEoo"
+        }
+      ]
     }
   }
 }

@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "issue": "AI 기기, 화면을 덜어내다",
+    "date": "2026.11.07",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Subvocal 11.06→10.30, Cyclon 11.04→11.02, Nothing 11.05→11.04, Aina 11.06→11.05 ET). 시간순으로 다시 배열. 사진은 Aina 링 한 장만 두고 나머지는 stat·quote로. 수치 분당 200단어·$1.3M·$499, Pixel 8a·30일, 12월 출시·'no new screen', $399→$499·2027년 1월 확인.",
+    "sources": [
+      "Digital Trends — Subvocal's glasses promise to let you talk to your computer in complete silence (2026.10.30)",
+      "Digital Trends — Cyclon wants to replace your iPhone with an AI phone that actually gets things done (2026.11.02)",
+      "The Verge — Nothing teases a screen-free AI device ahead of launch next month (2026.11.04)",
+      "WIRED — This Smart Ring Wants to Be a Remote Control for Your AI Agent (2026.11.05)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 가젯 · 10.30~11.05",
+      "thread": [
+        {
+          "d": "10.30",
+          "t": "무음 안경",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.02",
+          "t": "AI 폰",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.04",
+          "t": "무화면",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.05",
+          "t": "승인 링",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        }
+      ],
+      "thread_note": "AI에게 일을 맡기는 기기는 화면을 덜어낸다",
+      "eyebrow": "흐름 · 가젯",
+      "headline": "AI 기기,\n화면을 덜어내다",
+      "body": "하나씩 보면 신제품 예고다. 그런데 일주일 사이 안경·폰·무화면 기기·링이 모두 화면을 덜고 AI에 맡기는 쪽으로 왔다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.30",
+      "headline": "말도 타이핑도 없이",
+      "body": "Subvocal 안경은 얼굴로 보낸 레이더 신호로 소리 없는 입 움직임을 읽어 글로 바꾼다. 카메라는 없다.",
+      "foot": "2026.10.30",
+      "_src": "https://www.digitaltrends.com/computing/subvocals-glasses-promise-to-let-you-talk-to-your-computer-in-complete-silence/",
+      "_id": "subvocal-silent-glasses",
+      "stat_top": "소리 없는 입 모양",
+      "stat_arrow": "AI가 받아쓰는 속도",
+      "stat_bottom": "분당 200단어+",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.02",
+      "headline": "앱은 AI가 대신 누른다",
+      "body": "YC 출신 Cyclon은 AI가 사람처럼 앱을 오가며 일을 끝내는 폰이다. 첫 물량은 Cyclon을 깐 Pixel 8a다.",
+      "foot": "2026.11.02",
+      "_src": "https://www.digitaltrends.com/phones/cyclon-is-an-ai-phone-that-wants-to-replace-your-iphone/",
+      "_id": "cyclon-ai-phone-yc",
+      "quote": "폰으로 할 수 있는 일이면\n폰에게 시킬 수도\n있어야 한다",
+      "quote_by": "Adam Zinebi · Cyclon"
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.04",
+      "headline": "새 화면은 없다",
+      "body": "Nothing이 첫 AI-native 기기를 12월에 낸다. Carl Pei가 밝힌 건 하나, 화면이 없다는 것이다.",
+      "foot": "2026.11.04",
+      "_src": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "_id": "nothing-screenfree-ai-device",
+      "quote": "새 화면은 없다.\n앱으로는 만들 수\n없었던 제품이다",
+      "quote_by": "Carl Pei · Nothing CEO"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.05",
+      "headline": "남은 건 승인 버튼",
+      "body": "Aina 링은 AI 에이전트의 제안을 폰 대신 손끝으로 승인·거절한다. 예약가 $399, 2027년 1월 출하.",
+      "foot": "2026.11.05",
+      "_src": "https://www.wired.com/story/aina-smart-ring/",
+      "_id": "aina-agent-ring",
+      "media": "pipeline/media/aina-agent-ring.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

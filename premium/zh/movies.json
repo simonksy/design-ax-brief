@@ -9398,6 +9398,146 @@
           "x": "桌面版还提供完整的多轨（multi-track）时间线、精确的音频波形、调色工具和键盘快捷键，并支持无水印4K 导出和多种画面比例。目前为macOS-only（仅限 macOS），项目暂时无法在移动端与桌面端之间跨端编辑；Meta计划每周更新该应用。"
         }
       ]
+    },
+    "movies/hotsea-melochu-anime": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i3n.news1.kr/system/photos/2026/11/4/8197258/high.jpg",
+          "cap": "描绘生成式AI动画《心动心动Mello-Chu》主角的宣传图（Hotsea提供，禁止转售及DB使用）2026.11.5/News1"
+        },
+        {
+          "t": "p",
+          "x": "创意工作室Hotsea公开了运用生成式人工智能（AI）技术制作的原创动画《心动心动Mello-Chu!》（Beat On! Mello-Chu!）。首集以美国纽约为背景。"
+        },
+        {
+          "t": "p",
+          "x": "作品讲述4名少女周游世界各国、学习文化与语言并通过音乐成长的故事，是结合K-pop与旅行叙事的音乐冒险形式。"
+        },
+        {
+          "t": "p",
+          "x": "首集中，主人公们在纽约接触当地文化并筹备演出。公开的视频时长约5分钟。"
+        },
+        {
+          "t": "p",
+          "x": "Hotsea自行完成了策划、角色设定、故事构成和场景制作，原创音乐的作词作曲也包含在制作范围内。"
+        },
+        {
+          "t": "p",
+          "x": "制作过程中运用了生成式AI视频技术，重点在于将音乐创作经验与叙事构成相连接，打造独立的知识产权（IP）。"
+        },
+        {
+          "t": "p",
+          "x": "Hotsea PD Jin Ho-hyun统筹策划与制作。他在生成式AI制作过程中虽经历了反复试错，仍努力让影像与音乐串联成一个完整的故事。"
+        },
+        {
+          "t": "p",
+          "x": "Hotsea方面计划今后继续发掘不同类型和形式的原创IP，并长期扩大自有内容组合。"
+        },
+        {
+          "t": "p",
+          "x": "《心动心动Mello-Chu!》首支视频已在Hotsea官方YouTube频道公开。该公司策划制作运用生成式AI的品牌视频与自有内容。"
+        }
+      ]
+    },
+    "movies/curiousrefuge-ai-clone-shoot": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "CM1rPwuXw2A"
+        },
+        {
+          "t": "p",
+          "x": "在这期教程中，Curious Refuge展示了如何在世界任何地方打造一间影棚：只需音频和一段参考视频。团队将这一工作流称为“Studio Anywhere”。"
+        },
+        {
+          "t": "p",
+          "x": "1. 用手机或麦克风录制音频，再用Adobe Podcast进行清理。2. 将增强后的录音导入视频编辑软件（他们用的是Adobe Premiere），导出为黑屏视频。3. 选一段自己对着镜头说话的短片；他们用了Caleb在影棚里讲话的约六秒画面，因为视频参考比静态图片能给模型提供更多信息。"
+        },
+        {
+          "t": "p",
+          "x": "4. 将音频和参考素材上传到Seedance 2.5（他们用的是Magnific），并通过提示词让它使用黑屏视频中的音频，以及参考素材中的外观、动作和环境。两段输入合计有30秒的上限，因此较长的录音需要拆分。他们在Promise Studios给所有人看过，大家都以为结果是真的。"
+        },
+        {
+          "t": "p",
+          "x": "与HeyGen和自定义训练的LoRA工作流相比，Seedance 2.5最逼真；HeyGen仍落入恐怖谷。这些示例的报告成本为：1080p的Seedance 2.5约$16，HeyGen为$0.05，通过fal.ai的第三种工作流为$24。"
+        },
+        {
+          "t": "p",
+          "x": "用Seedance 2.5、Wan 3和MiniMax H3从脚本生成整段表演，画面令人信服，但表演的传达还不到位。自己录制音频则保留了节奏与个性。"
+        }
+      ]
+    },
+    "movies/curiousrefuge-sam-audio-music": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "u78B727zbRI"
+        },
+        {
+          "t": "p",
+          "x": "在这期简短教程中，Caleb演示如何用Meta的免费声音分离工具SAM Audio去除任意片段中的音乐。这样就能得到干净的音效，并在剪辑软件中加入自己的音乐。它不仅适用于AI片段，也适用于普通素材。"
+        },
+        {
+          "t": "p",
+          "x": "时间码(Time Code)：0:00 AI音乐问题 · 0:44 认识Meta的SAM Audio · 1:09 上传Seedance片段 · 2:21 用提示词分离音乐 · 2:57 仅音乐(Music-only) vs. 仅音效(sound effects-only) · 4:21 示例：咖啡场景 · 5:43 示例：Sci-fi场景 · 6:51 适用于任何素材"
+        }
+      ]
+    },
+    "movies/pvc-ai-firmware-framerate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Framerate-malpractice-hero.jpg",
+          "cap": "Framerate Malpractice"
+        },
+        {
+          "t": "p",
+          "x": "到目前为止，我已报道过两家犯有Framerate Malpractice的相机厂商：GoPro和Sony（部分产品线）。后来我发现DJI也同样如此。如今我的YouTube推送开始出现这样的情况：好几个人用AI通过固件更新为相机加入缺失的功能。"
+        },
+        {
+          "t": "p",
+          "x": "那么问题来了：在这些厂商亲自动手之前，AI改装会先解决Framerate Malpractice吗？我还没见过有人用第三方（third-party）破解完成这项具体修复，但这很可能只是时间问题。早在AI出现之前，就有为多款Canon机型打造的著名Magic Lantern固件，以及让相机变成quasi-worldcam的Sony破解。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Sony-A7S-III-rounded-framerates.png",
+          "cap": "Sony A7S III取整后的帧率"
+        },
+        {
+          "t": "p",
+          "x": "按时间顺序排列的近期AI改装案例：Breno Loves Cameras的“Hacking Camera Software with AI is Getting Crazy”；FUTC的“AI Camera Jailbreaking Changes Everything”；以及Tony & Chelsea Northrup的“I hacked my camera with AI (and so can you)”。"
+        },
+        {
+          "t": "video",
+          "yt": "sJYBs5CLywk"
+        }
+      ]
+    },
+    "movies/dumont-the-end-genai-feature": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/2/6/1491626_Director-Burno-Dumont-Portrait.jpg",
+          "cap": "Bruno Dumont"
+        },
+        {
+          "t": "p",
+          "x": "曾获戛纳(Cannes)奖项的法国导演Bruno Dumont透露，他的新长片The End完全使用生成式AI制作，没有演员，也没有传统剧组，预算极低。他于8月开始这部英语科幻惊悚片的工作，现已完成制作，影像、表演和声音均由他亲自生成，计划先在电影节亮相，再于2027年院线上映。"
+        },
+        {
+          "t": "p",
+          "x": "影片讲述一名野心勃勃的洛杉矶警察在城市遭遇地震和小行星坠落之际调查一桩罪案。Dumont在25年多前就写好了剧本，但灾难场面成本过高，项目因此搁置。"
+        },
+        {
+          "t": "p",
+          "x": "他在巴黎家中根据自己拆分的镜头逐场生成画面，同时把控表演、场面调度和剪辑。“我就像一位与剧组合作的导演，只不过我的剧组是一台机器，”他说，“我一直在给它下指令。”"
+        },
+        {
+          "t": "p",
+          "x": "他以独立方式制作The End，目前尚无销售代理。“在法国为电影融资越来越难，”他说，“如今我拥有完全的自由，可以做我想做的事。”"
+        }
+      ]
     }
   }
 }

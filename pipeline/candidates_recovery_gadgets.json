@@ -1,90 +1,108 @@
 {
- "date": "2026-10-10",
- "section": "gadgets",
- "window_hours": 336,
- "now_iso": "2026-10-09T22:05:00Z",
- "items": [
-  {
-   "url": "https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max",
-   "source": "The Verge",
-   "category": "gadgets",
-   "published_iso": "2026-10-08T14:00:22+00:00",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&strip=all&crop=0%2C10.736553697403%2C100%2C78.526892605194&w=1200",
-   "excerpt": "A year living with Alexa Plus across Echo Show, Dot and Max: Amazon's generative-AI assistant is better at running the smart home, but not yet ready to run your life - and it now comes with ads.",
-   "note": "Alexa+ long-term review (steer allows Alexa+ reviews; not the tablet launch)."
-  },
-  {
-   "url": "https://gizmodo.com/ray-ban-meta-gen-3-ai-glasses-review-2000822961",
-   "source": "Gizmodo",
-   "category": "gadgets",
-   "published_iso": "2026-10-07T23:00:13+00:00",
-   "og_image": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-02-1200x675.jpg",
-   "excerpt": "Gizmodo reviews the $449 Ray-Ban Meta Gen 3 AI glasses: same camera and AI feature set as before, but Meta's new Muse model is a significant upgrade to the on-glasses assistant; spatial audio arrives via the Meta AI app.",
-   "note": "Different from 10-05 Ray-Ban Meta Audio story; hands-on review of Gen 3 hardware + Muse AI."
-  },
-  {
-   "url": "https://9to5mac.com/2026/10/08/heres-everything-new-for-apples-home-app-in-ios-27/",
-   "source": "9to5Mac",
-   "category": "gadgets",
-   "published_iso": "2026-10-08T19:11:19+00:00",
-   "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-home-app-icon-ios-27.jpg?quality=82&strip=all&resize=1200,628",
-   "excerpt": "iOS 27 brings Apple Intelligence-powered features to the Home app for HomeKit Secure Video cameras, including AI highlights of important moments and real-time updating notifications, plus 4K video support.",
-   "note": "Shipping feature, not pre-event rumor. Related older ledger item 2026-07-08 (Apple charging for AI camera features)."
-  },
-  {
-   "url": "https://9to5mac.com/2026/10/07/apple-may-have-to-officially-support-apple-intelligence-removal-on-macs-to-protect-sales/",
-   "source": "9to5Mac",
-   "category": "gadgets",
-   "published_iso": "2026-10-07T11:39:57+00:00",
-   "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/macbook-air-apple-intelligence.jpg?quality=82&strip=all&resize=1200,628",
-   "excerpt": "An unofficial tool lets Mac owners switch off Apple Intelligence and delete downloaded on-device Siri AI models; growing anti-AI pushback and storage concerns may force Apple to offer an official removal option to protect hardware sales.",
-   "note": "Opinion/analysis framing; on-device AI model storage angle."
-  },
-  {
-   "url": "https://www.theverge.com/tech/1006622/google-pixel-buds-pro-2-2a-update-sleep-dynamic-anc-tap-to-mute",
-   "source": "The Verge",
-   "category": "gadgets",
-   "published_iso": "2026-10-07T12:01:22+00:00",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25640459/DSC_0133.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "excerpt": "Pixel Buds Pro 2 and Buds 2a update adds Gemini voice commands for ANC/EQ control, one-tap live translation with a Pixel phone, sleep detection auto-pause and tap-to-mute.",
-   "note": "POSSIBLE REPEAT: ledger has 9to5google 2026-09-28 pixel-buds-gemini-controls (likely the announcement); this is the rollout. Low priority."
-  },
-  {
-   "url": "https://zdnet.co.kr/view/?no=20261008153014",
-   "source": "ZDNet Korea",
-   "category": "gadgets",
-   "published_iso": "2026-10-08T15:41:56+09:00",
-   "og_image": "https://image.zdnet.co.kr/2026/10/08/314b0e7b3be156b45aa97cb4be797cb9.jpg",
-   "excerpt": "딥엑스가 AI 페스타 2026에서 '피지컬 AI' 전용 NPU DX-M1 전략을 공개했다. 5W 미만 엄지손톱 크기 칩으로 로봇·CCTV 등 디바이스 자체에서 AI 추론을 처리해 GPU 대비 구축비용을 최대 100분의 1로 낮춘다고 밝혔다.",
-   "note": "Korean on-device/edge AI NPU; check vs existing zdnet.co.kr/20261006151941 (AI Festa) for overlap."
-  },
-  {
-   "url": "https://www.cnet.com/health/medical/smart-contact-lenses-here-soon-2030-what-they-do/",
-   "source": "CNET",
-   "category": "gadgets",
-   "published_iso": "2026-10-08T11:21:08-04:00",
-   "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/smart_contacts.jpg",
-   "excerpt": "CNET interviews the founders of Dubai-based Xpanceo, which has spent five years building AI-powered smart contact lenses - 'an AI helper directly on your cornea' - that could arrive as soon as 2030.",
-   "note": "Future-device interview; AI substantive in body."
-  }
- ],
- "expansion": {
-  "used": true,
-  "terms": [
-   "Alexa Plus long-term review",
-   "Ray-Ban Meta Gen 3 review / Meta Muse on glasses",
-   "Apple Home app HomeKit Secure Video Apple Intelligence (iOS 27)",
-   "Apple Intelligence removal / on-device model storage",
-   "Pixel Buds Gemini voice commands + live translation",
-   "DeepX DX-M1 physical-AI NPU (AI Festa)",
-   "Xpanceo AI smart contact lenses",
-   "Ring smart lock / Ring 4K cameras (rejected: no AI in body)",
-   "Roomba Max 775, Roku Pro OLED, Cricut StickerPix, Bose Ultra Open 2, Anker AeroClip 2 (rejected: no/insignificant AI)",
-   "Galaxy Watch One UI 9 beta, ColorOS 17, HyperOS 4 (rejected: no AI in body)",
-   "Lenovo CES 2027 hybrid AI (rejected: event announcement only)",
-   "Meta VR Glasses future of Quest (rejected: AI peripheral)",
-   "Plaud/Limitless/Bee pendants, 1X NEO/Figure/LG CLOiD home robots, Korean 온디바이스 AI (WebSearch stale, nothing fresh)"
-  ],
-  "method": "Outlet RSS (31 feeds) + Verge/Gizmodo/CNET news sitemaps + ZDNet Korea category pages; 3 WebSearch queries used (all stale/blocked). androidauthority/androidcentral blocked (Cloudflare / jina ban)."
- }
+  "section": "gadgets",
+  "now_iso": "2026-11-07T22:22:05Z",
+  "window_hours": 336,
+  "recovery_pass": true,
+  "items": [
+    {
+      "title": "Android Auto's latest Gemini failing keeps asking 'who do you want to call'",
+      "url": "https://9to5google.com/2026/11/05/android-auto-gemini-call-text-voice-command-bug/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-11-05T17:05:00+00:00",
+      "excerpt": "Since Gemini replaced Google Assistant on Android Auto, drivers report the in-car AI repeatedly asking 'who do you want to call' instead of completing call and text voice commands — a visible regression for the car-dashboard assistant.",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-Personal-Intelligence-Android-Auto.jpg?quality=82&strip=all&resize=1200,628",
+      "matched_keyword": "in-car AI assistant / Gemini Android Auto"
+    },
+    {
+      "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+      "url": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+      "source": "The Verge",
+      "category": "gadgets",
+      "published_iso": "2026-11-04T18:00:00+00:00",
+      "excerpt": "The Verge's Optimizer column lives with Amazon's Bee Frontier ambient-listening AI wearable, which records and summarizes conversations and memories — and finds filtering life through AI a lesson in why intelligence can't replace wisdom.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268817_Bee_Frontier_AKrales_0098.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "matched_keyword": "ambient-listening AI wearable"
+    },
+    {
+      "title": "Peloton teases mystery AI product coming in fall 2027",
+      "url": "https://www.theverge.com/tech/1027818/peloton-teases-mystery-ai-product-coming-in-fall-2027",
+      "source": "The Verge",
+      "category": "gadgets",
+      "published_iso": "2026-11-05T18:17:57+00:00",
+      "excerpt": "Peloton CEO Peter Stern said on an earnings call that a new-category product arriving in fall 2027 will combine 'state-of-the-art software powered by AI' with premium equipment, human instruction and community — and probably won't be a wearable.",
+      "og_image": null,
+      "matched_keyword": "AI fitness hardware"
+    },
+    {
+      "title": "I went hands on with the new Snap Specs — and found out why they could soon be a useful workplace tool",
+      "url": "https://www.techradar.com/pro/i-went-hands-on-with-the-new-snap-specs-and-found-out-why-they-could-soon-be-a-useful-workplace-tool",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-11-07T13:00:00Z",
+      "excerpt": "A hands-on with Snap's untethered sixth-generation Specs AR glasses (£1,999) ahead of their UK launch: a fast voice AI assistant, live speech translation shown as subtitles over the speaker, heads-up Maps and a mid-air keyboard for Google Docs.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Azv3TgGUqcELXYvsSeg4Hj-2560-80.jpg",
+      "matched_keyword": "AR glasses live translation"
+    },
+    {
+      "title": "Nvidia's new AI laptop runs nearly 80% slower on Linux — but only when it's plugged in",
+      "url": "https://www.tomsguide.com/ai/nvidias-new-ai-laptop-runs-nearly-80-percent-slower-on-linux-but-only-when-its-plugged-in",
+      "source": "Tom's Guide",
+      "category": "gadgets",
+      "published_iso": "2026-11-05T13:00:00Z",
+      "excerpt": "Testing by MindStudio found Nvidia's RTX Spark AI laptop ran local AI workloads nearly 80% slower on Linux while on AC power — skipping the charger sped things up — a quirk for anyone buying the machine to run models on-device.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/CxvjAewa4xS3be2otk3Neg-2560-80.jpg",
+      "matched_keyword": "AI laptop local inference"
+    },
+    {
+      "title": "다이슨코리아, 로봇·펜슬워시 물 청소기 2종 출시",
+      "url": "https://www.etnews.com/20261102000075",
+      "source": "전자신문",
+      "category": "gadgets",
+      "published_iso": "2026-11-02T09:51:21+09:00",
+      "excerpt": "다이슨이 AI 비전 시스템과 UV 라이트를 결합해 눈에 안 보이는 얼룩까지 찾아 닦는 'r3 뉴로비 스팟앤스크럽 UV' 로봇청소기를 국내 출시했다. 흡입력은 기존 대비 65% 높은 3만Pa.",
+      "og_image": "https://img.etnews.com/news/article/2026/11/02/news-p.v1.20261102.78d3dcf3b72e402b9076770850f24c85_P1.png",
+      "matched_keyword": "로봇 가전 AI 비전"
+    },
+    {
+      "title": "Someone got an offline LLM running on a 2015 Kindle Paperwhite, even if it's quite slow",
+      "url": "https://www.xda-developers.com/someone-got-an-offline-llm-running-on-a-2015-kindle-paperwhite-even-if-its-quite-slow/",
+      "source": "XDA Developers",
+      "category": "gadgets",
+      "published_iso": "2026-11-07T06:24:14Z",
+      "excerpt": "The Inkwell project jailbreaks a 2015 Kindle Paperwhite and runs Quill, a SmolLM2 chatbot via llama.cpp on the e-reader's own processor at about 1.7 words per second — fully offline, nothing leaves the device.",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/12/kindle-paperwhite-tailscale-hero.jpg?w=1600&h=900&fit=crop",
+      "matched_keyword": "e-reader on-device LLM"
+    },
+    {
+      "title": "Someone used Claude Code to reverse-engineer the Apple AirPods 3, and now head-tracking works on Linux",
+      "url": "https://www.xda-developers.com/someone-used-claude-code-to-reverse-engineer-the-apple-airpods-3-and-now-head-tracking-works-on-linux/",
+      "source": "XDA Developers",
+      "category": "gadgets",
+      "published_iso": "2026-11-06T08:36:56Z",
+      "excerpt": "A Reddit user sent Claude Code agents through iOS framework code to unlock the AirPods 3 gyro sensors on Linux, discovering a different protocol and a Bluetooth packet-size setting; head-tracking now streams at about 200Hz.",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/aripods-3-header.jpg?w=1600&h=900&fit=crop",
+      "matched_keyword": "AI-assisted hardware hacking"
+    },
+    {
+      "title": "Pudu TOMO S robot mower sharpens its own blades at the dock",
+      "url": "https://the-gadgeteer.com/2026/11/06/pudu-tomo-s-robot-mower-sharpens-its-own-blades/",
+      "source": "The Gadgeteer",
+      "category": "gadgets",
+      "published_iso": "2026-11-06T14:00:00-06:00",
+      "excerpt": "Pudu's first residential robot mower combines 360-degree LiDAR, AI vision and network RTK for wire-free navigation, an AI Mowing Planner that schedules around weather, and a dock that sharpens its rotary blades; on sale early 2027.",
+      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pudu-tomo-s-hero.jpg",
+      "matched_keyword": "robot lawn mower AI vision"
+    },
+    {
+      "title": "Anker's new window-mounted camera monitors the outside of your home from within it",
+      "url": "https://www.theverge.com/tech/1026360/anker-eufy-window-camera-e10-indoors-security-ai-color-night-vision",
+      "source": "The Verge",
+      "category": "gadgets",
+      "published_iso": "2026-11-04T16:36:21+00:00",
+      "excerpt": "Anker's Eufy E10 mounts inside a window to watch outdoors, with color night vision and AI motion detection that distinguishes people, animals and vehicles, plus local recording.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ankercam1_43ac74.jpg?quality=90&strip=all&crop=0%2C10.7460602225%2C100%2C78.507879555&w=1200",
+      "matched_keyword": "AI security camera"
+    }
+  ]
 }

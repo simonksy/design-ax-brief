@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "section": "books",
   "items": [
     {
       "rank": 1,
-      "title": "AI errors, inflated prices: Tamil Nadu govt orders probe into Periyar library books",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/periyar-arivulagam-book-purchase-probe-ai-errors-inflated-prices-vijay-tvk-dmk-3034039-2026-11-06",
-      "source": "India Today",
-      "published_iso": "2026-11-06T21:25:46+05:30",
-      "og_image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/cm-vijay-205547621-16x9.jpg?VersionId=7qCzKNtw7N1mOORpLDXP0xY4TT4mDj43",
-      "excerpt": "Tamil Nadu ordered a probe after writer Perumal Murugan flagged suspected AI-generated books, phantom authors and factual errors among titles bought for the new Periyar Arivulagam library in Coimbatore.",
+      "title": "Secondhand Bookshops Face Strange Bulk Orders, Sellers Suspect AI Firms Are Buying Them for Training Data",
+      "url": "https://www.techtimes.co.uk/uk-irish-booksellers-mystery-ai-book-orders-1809765",
+      "source": "Tech Times UK",
+      "published_iso": "2026-11-06T14:20:06+00:00",
+      "og_image": "https://d.techtimes.co.uk/en/full/1820597/secondhand-books.jpg",
+      "excerpt": "Secondhand booksellers in the UK and Ireland report unusual, machine-like bulk orders from unidentified buyers, raising speculation that AI companies are buying physical books for training data.",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "Concrete government action: a state-ordered probe after AI-generated slop reached a public library's acquisitions, a first-of-its-kind procurement consequence."
+      "rationale": "The physical-book buying for AI training has now reached UK and Irish secondhand sellers. That is a new market; earlier coverage was Korea, Japan and Türkiye."
     },
     {
       "rank": 2,
-      "title": "Proudly Human Promises to Certify AI-Free Books",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101710-proudly-human-promises-to-certify-books-were-written-by-people-not-ai.html",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-11-06T14:51:00Z",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132673-2.JPG",
-      "excerpt": "Australian startup Proudly Human, founded by former chief scientist Alan Finkel, joins a growing field of services certifying books as written without AI assistance; Finkel says two of the Big Five are in talks.",
+      "title": "AI platform wins publishing award in Sharjah",
+      "url": "https://anba.com.br/en/ai-platform-wins-publishing-award-in-sharjah/",
+      "source": "ANBA",
+      "published_iso": "2026-11-03T15:31:54-03:00",
+      "og_image": "https://anba.com.br/wp-content/uploads/2026/11/sharjah.jpeg",
+      "excerpt": "Brazilian platform KlooBR, which uses AI to edit, translate and proofread books in minutes, won the Disrupt Track award from Sharjah's Publishing Sustainability Fund, with SBA investment to open a Sharjah HQ.",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "New certification service launch with Big Five talks; distinct from earlier UK IPO mark and Organic Literature stories."
+      "rationale": "A concrete new event: an AI editing and translation platform won an award at SIBF and received investment to open a Sharjah HQ."
     },
     {
       "rank": 3,
-      "title": "University libraries are being swarmed by AI bots, putting public access at risk",
-      "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
-      "source": "CBC News",
-      "published_iso": "2026-11-05T09:00:00.000Z",
-      "og_image": "https://i.cbc.ca/ais/47809d1c-efd6-4753-9529-d57b9893d8fb,1793831483888/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C64%2C3000%2C1687%29%3BResize%3D620",
-      "excerpt": "Academic libraries are fighting swarms of AI data-scraping bots that slow or crash digital collections meant for students, researchers and the public.",
+      "title": "CreateCrew advances AI to streamline webtoon animation, targets Japan, China",
+      "url": "https://biz.chosun.com/en/en-industry/2026/11/08/32IOO7XILJFLXGSTMUMURIHYPI/",
+      "source": "Chosunbiz",
+      "published_iso": "2026-11-07T21:00:28.146Z",
+      "og_image": "https://biz.chosun.com/resizer/v2/YNTL5BB57NFWTL6VNSZ54SZUSA.png?auth=f3f954850225d52d5e38a8c7cfe8e7f92bd79a2d70fdc7d09c3d39485b6ab314&width=1081&height=567&smart=true",
+      "excerpt": "Gyeonggi startup CreateCrew aims to standardize turning webtoons into animation with AI and is eyeing expansion into Japan and China.",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "Fresh reporting on AI scrapers degrading library digital collections; no prior coverage in the section."
+      "rationale": "A new company story about an AI pipeline that turns webtoons into animation. It is not the Kakao Piccoma or Toonsutra items already published."
     },
     {
       "rank": 4,
-      "title": "내 독서 취향은 무슨 빵?…영풍문고, AI 도서 추천 '책빵집' 출시",
-      "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91560",
-      "source": "워크투데이",
-      "published_iso": "2026-11-05T23:42:00+09:00",
-      "og_image": "http://www.worktoday.co.kr/news/thumbnail/202611/91560_131804_421_v150.jpg",
-      "excerpt": "영풍문고가 온라인 이용 기록과 전국 매장 판매 데이터를 함께 분석해 8가지 '빵' 독서 유형별로 책을 추천하는 AI 서비스 'AI 책빵집'을 내놨다.",
+      "title": "The founder of DOU and Djinni built his own AI-powered e-reader with Claude",
+      "url": "https://dev.ua/en/news/zasnovnyk-dou-ta-djinni-rozrobyv-vlasnu-shi-chytalku-1793793467",
+      "source": "dev.ua",
+      "published_iso": "2026-11-04T00:00:00+02:00",
+      "og_image": "https://dev.ua/storage/images/13/79/22/88/derived/83ad447204d48bc41bd1e16f372fe095.webp",
+      "excerpt": "Max Ishchenko, founder of Ukrainian IT sites DOU and Djinni, built his own reading service with built-in AI explanations and translations using Claude, and it even works with paper books.",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "New product release: a major Korean bookstore chain's AI recommendation service combining online and in-store sales data."
+      "rationale": "A new reading tool, built with Claude, that adds AI explanations and translation and also works with paper books. It is a hands-on example of an AI reading assistant."
     },
     {
       "rank": 5,
-      "title": "What AI can lose when it makes Holocaust writings easier to read",
-      "url": "https://phys.org/news/2026-11-ai-holocaust-easier.html",
-      "source": "Phys.org",
-      "published_iso": "2026-11-05T23:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/what-ai-can-lose-when.jpg",
-      "excerpt": "A Tel Aviv University study in AI & Society ran three Holocaust writings through AI enhancement, handwriting recognition, correction and translation, finding gains in access but losses in material evidence.",
+      "title": "Someone got an offline LLM running on a 2015 Kindle Paperwhite, even if it's quite slow",
+      "url": "https://www.xda-developers.com/someone-got-an-offline-llm-running-on-a-2015-kindle-paperwhite-even-if-its-quite-slow/",
+      "source": "XDA",
+      "published_iso": "2026-11-07T06:24:14Z",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/12/kindle-paperwhite-tailscale-hero.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "A hobbyist got a small language model running fully offline on a jailbroken 2015 Kindle Paperwhite e-reader, slow but working.",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "rationale": "New peer-reviewed study on what AI transcription/translation gains and loses for historical manuscripts; not in science history or today's science pool."
+      "rationale": "A new hack that runs a language model on an old e-reader with no cloud connection. It is the offline opposite of Amazon's cloud-based 'Ask this book' feature."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.indiatoday.in/india/tamil-nadu/story/periyar-arivulagam-book-purchase-probe-ai-errors-inflated-prices-vijay-tvk-dmk-3034039-2026-11-06": {
+      "https://www.techtimes.co.uk/uk-irish-booksellers-mystery-ai-book-orders-1809765": {
         "verdict": "new",
-        "nearest": "https://www.sedaily.com/article/20102227",
+        "nearest": "https://www.joongang.co.kr/article/25468823",
         "new_action": ""
       },
-      "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101710-proudly-human-promises-to-certify-books-were-written-by-people-not-ai.html": {
+      "https://anba.com.br/en/ai-platform-wins-publishing-award-in-sharjah/": {
         "verdict": "new",
-        "nearest": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
+        "nearest": "http://www.hellodd.com/news/articleView.html?idxno=113638",
         "new_action": ""
       },
-      "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287": {
+      "https://biz.chosun.com/en/en-industry/2026/11/08/32IOO7XILJFLXGSTMUMURIHYPI/": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.news1.kr/it-science/internet-platform/6320039",
         "new_action": ""
       },
-      "http://www.worktoday.co.kr/news/articleView.html?idxno=91560": {
+      "https://dev.ua/en/news/zasnovnyk-dou-ta-djinni-rozrobyv-vlasnu-shi-chytalku-1793793467": {
         "verdict": "new",
-        "nearest": "https://www.ddaily.co.kr/page/view/2026102014534352853",
+        "nearest": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
         "new_action": ""
       },
-      "https://phys.org/news/2026-11-ai-holocaust-easier.html": {
+      "https://www.xda-developers.com/someone-got-an-offline-llm-running-on-a-2015-kindle-paperwhite-even-if-its-quite-slow/": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://goodereader.com/blog/kindle/ask-this-book-feature-now-on-kindle-ereaders",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates of published stories: Ars 'Meta abandons commercial terms update' and PW 'AAP calls on Meta to drop terms' (same story as janefriedman 2026-10-23 Meta terms reversal; Meta halt also in today's politics pool); Publishing Perspectives 50 amicus briefs in Authors Guild v. OpenAI (same running story as Bookseller 2026-10-30 publishers' amicus, no new ruling); ALLi 300 authors file claims against Meta (same as PW 2026-10-22 'Hundreds sue Meta'); 산학뉴스 모사재인 아이로쿠 Japan launch (same as wowtv 2026-10-23); Comics Beat Spiegelman AI sticker (likely-repeat of dailycartoonist 2026-10-29). Skipped on quality: PW '11 Books' listicle (cites IPO noise), Bookseller editor's letter, Hani column and JoongAng interview (commentary on already-published Anthropic book-buying story), Lit Hub essay, Good e-Reader evergreen piece, Khaleej Times (excerpt mismatched). Cross-section: checked today's science and politics pools/histories; no collision for picks. Diversity: 5 distinct outlets."
+    "note": "Dropped as duplicates. AUTOMATON MAGES visual-novel AI translation: same URL already published in GAMES on 2026-11-07, so it is a cross-section duplicate. 산학뉴스 모사재인 AI web novel in Japan: same story as wowtv 2026-10-23. 동행일보 브레인벤쳐스 ToonFlow on Adobe Exchange: same story as besuccess 2026-10-30. Publishing Perspectives 50+ amicus briefs in the OpenAI case: same running story as Bookseller 2026-10-30, with no new ruling. JoongAng 문소영 interview: commentary on the Anthropic and 교보 book-buying story already published 10-15 and 10-22. 서울경제 딸깍 출판: same running theme as sedaily 2026-10-17 and hankookilbo 2026-11-04, with no new event. 이투데이 '인간이 썼습니다': rehash of the human-authored certification stories (10-09, 11-07). Jordan News writers adding mistakes: overlaps NPR 2026-11-03 on AI-detection flags. Skipped on quality or relevance: SEE News and Khaleej Times SIBF translation panels (commentary), Bookseller editor's letter, Hani column, New Indian Express explainer, Scholarly Kitchen op-ed, Sri Lanka fact-check, TOI One-Punch Man (movie/anime fan debate), 연제구 local essay book, The Appalachian, WORLD roundup. Cross-section: checked today's games, gadgets and movies pools and their 30-day histories; MAGES was the only clash. published_urls.json (451KB) was not exact-grepped because this agent has no grep tool; the orchestrator should run the grep before roll. Diversity: 5 distinct outlets."
   }
 }
