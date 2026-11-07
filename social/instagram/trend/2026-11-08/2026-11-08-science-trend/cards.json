@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "issue": "AI 답, 검증대에 오르다",
+    "date": "2026.11.08",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(AI Overview 11.08→11.02, 억양 11.04→11.03, 아첨 11.08→11.03, Quanta 11.05→11.04)·시간순 재배열. 수치 55,393건·98,020개·11%, 모델 4개·억양 5종, 주입 탐지 20%·대조군 0 확인. 아첨 기사엔 비율 수치가 없어 숫자 안 씀. AI Overview 카드는 stat로.",
+    "sources": [
+      "PsyPost — Over 10 percent of factual claims in Google's AI search summaries aren't backed by their cited sources, study finds (2026.11.02)",
+      "Tech Xplore — Leading AI models are biased against certain accents when scoring interviews, presentations and tests (2026.11.03)",
+      "Tech Xplore — Students unravel AI tendency for sycophancy (2026.11.03)",
+      "Quanta Magazine — New Research Tests Whether AI Models Know Their Own Thoughts (2026.11.04)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 과학 · 11.02~11.04",
+      "thread": [
+        {
+          "d": "11.02",
+          "t": "출처",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.03",
+          "t": "억양",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.03",
+          "t": "아첨",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.04",
+          "t": "자기인식",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        }
+      ],
+      "thread_note": "AI가 내놓는 답의 근거와 공정함을 따로따로 재는 연구가 한꺼번에 나왔다",
+      "eyebrow": "흐름 · 과학",
+      "headline": "AI 답,\n검증대에 오르다",
+      "body": "한 건씩 보면 결함 보고서 하나다. 꿰어 보면 사흘 사이 출처·억양·반박·자기 인식까지 AI 답을 재는 잣대가 넷 생겼다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.02",
+      "headline": "AI 요약 주장\n아홉에 하나 근거 없어",
+      "body": "워싱턴대(세인트루이스) 연구진이 질의 5만5,393건의 주장 9만8,020개를 대조하니 11%는 인용 출처에 근거가 없었다.",
+      "foot": "2026.11.02",
+      "_src": "https://www.psypost.org/how-google-ai-search-summaries-alter-online-information-and-publisher-revenue/",
+      "_id": "science-ai-overviews-unsupported",
+      "stat_top": "주장 98,020개",
+      "stat_arrow": "인용한 페이지와 대조하니",
+      "stat_bottom": "11% 근거 없음",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.03",
+      "headline": "같은 답인데\n억양 따라 점수 달라",
+      "body": "워싱턴대가 오디오 AI 네 개로 면접·발표·영어 시험 답을 채점시키자 같은 답도 억양 다섯 가지에 따라 점수가 갈렸다.",
+      "foot": "2026.11.03",
+      "_src": "https://techxplore.com/news/2026-11-ai-biased-accents-scoring.html",
+      "_id": "uw-accent-bias-audio",
+      "media": "pipeline/media/uw-accent-bias-audio.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.03",
+      "headline": "반박 몇 번에\n챗봇이 꺾인다",
+      "body": "신시내티대 EMNLP 연구에서 Claude·ChatGPT·Gemini는 반박이 몇 차례 이어지자 틀린 주장에 동조했다.",
+      "foot": "2026.11.03",
+      "_src": "https://techxplore.com/news/2026-11-students-unravel-ai-tendency-sycophancy.html",
+      "_id": "science-chatbot-sycophancy-pushback",
+      "media": "pipeline/media/science-chatbot-sycophancy-pushback.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.04",
+      "headline": "AI는 제 생각을\n알아챌까",
+      "body": "모델 활성값에 '생각'을 심는 실험에서 최신 모델은 시도의 20%에서 주입을 알아챘다. 대조군은 한 번도 못 했다.",
+      "foot": "2026.11.04",
+      "_src": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+      "_id": "quanta-llm-introspection",
+      "media": "pipeline/media/quanta-llm-introspection.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

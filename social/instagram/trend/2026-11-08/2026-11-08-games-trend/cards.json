@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "금지 대신 표시와 필터",
+    "date": "2026.11.08",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Itch 11.04→11.03, Nexus 11.05→11.04, Destructoid 11.05→11.04, IGN 11.08→11.07 PT). 11.03 trend(상점 범람)의 후속 — Steam 카드는 재사용 안 함. 수치 '두어 TB'·테이블탑·만화·OST, 60일 유예·1월 2일, 6개월·20달러·하루이틀 확인. 사진은 Nexus 공개 화면 한 장만, WoW 사진은 게임 스틸이라 quote로.",
+    "sources": [
+      "Aftermath — Itch Removes 'A Couple Terabytes' Of AI Slop, Updates Filtering To Stem Tide Of Garbage Flood (2026.11.03)",
+      "IGN — 'We Are Pro-Human Creativity' — Nexus Mods Forces Mandatory AI Disclosures and Filters (2026.11.04)",
+      "Destructoid — Best WoW Forever add-ons to avoid AI slop (2026.11.04)",
+      "IGN — 'I Feel Like Modding is Kind Of Dying' – Mass Effect 3 Multiplayer Modder on the State of Modding (2026.11.07)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 게임 · 11.03~11.07",
+      "thread": [
+        {
+          "d": "11.03",
+          "t": "TB 삭제",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.04",
+          "t": "공개 의무",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.04",
+          "t": "애드온",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.07",
+          "t": "모더 경고",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        }
+      ],
+      "thread_note": "플랫폼은 AI를 막지 않고 표시와 필터로 거르기로 했다",
+      "eyebrow": "흐름 · 게임",
+      "headline": "금지 대신\n표시와 필터",
+      "body": "한 곳만 보면 공지 하나다. 이어 보면 Itch.io와 Nexus Mods가 같은 답을 냈고, 모드 판은 그래도 버겁다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.03",
+      "headline": "Itch.io,\nAI물 수 TB 삭제",
+      "body": "금지는 안 했다. 대신 AI 공개 의무를 테이블탑·만화·OST까지 넓히고 검색 페이지에도 AI 필터를 달았다.",
+      "foot": "2026.11.03",
+      "_src": "https://aftermath.site/itch-io-removes-terabytes-ai-slop/",
+      "_id": "itchio-ai-terabytes-purge",
+      "stat_top": "2년 된 AI 스팸 규칙",
+      "stat_arrow": "이번에 지운 AI 업로드",
+      "stat_bottom": "두어 TB",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.04",
+      "headline": "Nexus Mods,\n밝히고 거른다",
+      "body": "AI 보조 모드는 어디에 썼는지 밝혀야 하고 사용자는 걸러 볼 수 있다. 기존 모드는 1월 2일까지 유예다.",
+      "foot": "2026.11.04",
+      "_src": "https://www.ign.com/articles/nexus-mods-forces-mandatory-generative-ai-disclosures-and-filters",
+      "_id": "nexus-mods-ai-disclosure",
+      "media": "pipeline/media/nexus-mods-ai-disclosure.png"
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.04",
+      "headline": "WoW 애드온에도 AI",
+      "body": "WoW Forever 애드온을 찾으러 CurseForge에 가면 누가 무엇으로 만들었는지 알 길이 없다.",
+      "foot": "2026.11.04",
+      "_src": "https://www.destructoid.com/best-wow-forever-add-ons-to-avoid-ai-slop/",
+      "_id": "wow-forever-addon-slop",
+      "quote": "요즘 WoW Forever의\nAI 애드온은\n일반 애드온만큼 흔하다",
+      "quote_by": "Destructoid"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.07",
+      "headline": "모더 \"모딩이\n죽어 간다\"",
+      "body": "ME3Tweaks의 Mgamerz는 만들기 어려움이 걸러 주던 저품질 모드가 이제 쏟아진다고 했다.",
+      "foot": "2026.11.07",
+      "_src": "https://www.ign.com/articles/i-feel-like-modding-is-kind-of-dying-mass-effect-3-multiplayer-modder-on-ais-impact-on-the-scene",
+      "_id": "ign-me3-modding-ai",
+      "stat_top": "손으로 만들면 6개월",
+      "stat_arrow": "20달러 쓰고 AI로",
+      "stat_bottom": "하루이틀",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

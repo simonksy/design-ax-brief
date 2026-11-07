@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI 소송, 곡에서 목소리로",
+    "date": "2026.11.08",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Rolling Stone 10.25→10.24, Isbell 11.04→11.03, NewJeans 11.07→11.05, Elvis·Suno 11.08→11.07, 소장 제출은 11.06). 274곡·곡당 $150,000·약 $41M, 'nothing unlawful', 2029년 만료 뒤 무기한, ELVIS Act 확인. 11-07 DAW 흐름·오늘 story(Sampleson)와 겹치지 않음. 사진은 Elvis·Suno 한 장만, 나머지는 stat·quote.",
+    "sources": [
+      "Rolling Stone — Elvis Presley Rightsholders Sue Anthropic for Copyright Infringement (2026.10.24)",
+      "Billboard — Suno Says Jason Isbell Lawsuit Over Artist 'Identities' Must Be Dismissed (2026.11.03)",
+      "Complex — NewJeans' Contract Reportedly Gives Label Right to Use AI-Generated Versions of Their Voices (2026.11.05)",
+      "Billboard — Elvis Presley Rights Owners Sue Suno Over AI Voice Cloning (2026.11.07)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 음악 · 10.24~11.07",
+      "thread": [
+        {
+          "d": "10.24",
+          "t": "274곡",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.03",
+          "t": "이름",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.05",
+          "t": "계약서",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.07",
+          "t": "음성 복제",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        }
+      ],
+      "thread_note": "AI 음악 분쟁의 쟁점이 학습한 곡에서 아티스트의 이름·목소리로 옮겨 간다",
+      "eyebrow": "흐름 · 음악",
+      "headline": "AI 소송, 곡에서\n목소리로",
+      "body": "한 건씩 보면 각각의 분쟁이다. 그런데 2주 사이 쟁점이 학습한 곡에서 이름과 목소리로 옮겨 갔다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.24",
+      "headline": "처음엔 곡이었다",
+      "body": "엘비스 권리 보유사가 Anthropic을 고소했다. Claude가 프레슬리 곡 274곡을 허락 없이 학습했다는 주장이다.",
+      "foot": "2026.10.24",
+      "_src": "https://www.rollingstone.com/music/music-news/elvis-presley-rightsholders-anthropic-lawsuit-infringement-1235647682/",
+      "_id": "music-elvis-anthropic",
+      "stat_top": "Presley 곡 274곡",
+      "stat_arrow": "곡당 $150,000씩 청구",
+      "stat_bottom": "약 $41M",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.03",
+      "headline": "이름은 장르의\n줄임말일 뿐",
+      "body": "Isbell 등은 Suno가 아티스트의 정체성을 훔쳤다며 집단소송을 냈다. Suno는 기각을 요청하며 이렇게 맞섰다.",
+      "foot": "2026.11.03",
+      "_src": "https://www.billboard.com/pro/suno-responds-jason-isbell-ai-music-lawsuit/",
+      "_id": "music-suno-isbell-dismissal",
+      "quote": "거기엔 불법이\n전혀 없다",
+      "quote_by": "Suno 기각 신청서 · Billboard · 2026.11.03"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.05",
+      "headline": "계약서에 들어온\nAI 목소리",
+      "body": "NYT가 입수한 NewJeans 계약은 2029년 만료 뒤에도 ADOR가 멤버의 AI 목소리를 쓰고 라이선스하게 한다.",
+      "foot": "2026.11.05",
+      "_src": "https://www.complex.com/music/a/alex-ocho/newjeans-contracts-indefinite-voice-rights",
+      "_id": "newjeans-ador-ai-voice",
+      "stat_top": "계약 만료 2029년",
+      "stat_arrow": "그 뒤 AI 음성 사용권",
+      "stat_bottom": "무기한",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.07",
+      "headline": "이번엔 목소리를\n걸었다",
+      "body": "엘비스 측이 Suno도 고소했다. 저작권에 더해 사용자가 목소리를 복제하게 둔 것을 테네시 ELVIS Act 위반으로 걸었다.",
+      "foot": "2026.11.07",
+      "_src": "https://www.billboard.com/pro/elvis-presley-ai-voice-cloning-lawsuit-suno/",
+      "_id": "elvis-suno-voice-clone-suit",
+      "media": "pipeline/media/elvis-suno-voice-clone-suit.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

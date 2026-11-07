@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "issue": "AI, 제작 공정에 자리 잡다",
+    "date": "2026.11.08",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "원문 5건 대조: 날짜를 원문 게재일로 고침(China Daily 11.02, 전자신문 11.03, 연합 11.06, Variety Toei 11.06, Variety Core Studio 11.07). 수치 30% 넘는 효율·AI 모델 30개 가까이, 70~80% 단축·2027년 10월, 24종 이상, 인용 'Film with AI, not by AI'·Yoshimura 발언(Variety 요약본) 확인. 후지TV 사진은 11-07 story가 써서 stat으로, 사진은 Core Studio 한 장만.",
+    "sources": [
+      "China Daily — iQIYI opens AI film studio in Shanghai, starts first production (2026.11.02)",
+      "전자신문 — \"AI 영화의 벽은 생성 아닌 납품\"… 무암, AI 하이브리드 제작 공정 공개 (2026.11.03)",
+      "연합뉴스 — 日 후지TV \"드라마 제작에 AI 전면 도입…제작 비용·기간 절약\" (2026.11.06)",
+      "Variety — 'Kamen Rider' Studio Toei Sets Generative AI Rules, 2027 Game Slate (2026.11.06)",
+      "Variety — AI Filmmaking Platform Core Studio Launches at TCCF With 24 Agents (2026.11.07)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 영화 · 11.02~11.07",
+      "thread": [
+        {
+          "d": "11.02",
+          "t": "iQIYI",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.03",
+          "t": "무암",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.06",
+          "t": "후지TV",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.06",
+          "t": "Toei",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.07",
+          "t": "imCore",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "AI가 실험작을 넘어 제작사의 기본 공정으로 들어간다",
+      "eyebrow": "흐름 · 영화",
+      "headline": "AI, 제작 공정에\n자리 잡다",
+      "body": "한 곳만 보면 시범 도입이다. 그런데 스튜디오, 납품 공정, 방송사, 제작 규칙, 플랫폼이 한 주 사이에 이어졌다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.02",
+      "headline": "촬영장 옆에\nAI 스튜디오",
+      "body": "iQIYI가 상하이에 AI 스튜디오를 열었다. 현장 영상이 AI 모델 30개 가까이 쓰는 제작 플랫폼으로 바로 넘어간다.",
+      "foot": "2026.11.02",
+      "_src": "https://www.chinadaily.com.cn/a/202611/02/WS6ae8052ce4b06d4aa0566723.html",
+      "_id": "iqiyi-shanghai-ai-studio",
+      "stat_top": "앞서 연 Hengdian 가상 스튜디오",
+      "stat_arrow": "iQIYI가 밝힌 제작 효율 향상",
+      "stat_bottom": "30% 넘게",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.03",
+      "headline": "AI 컷을\n납품 규격으로",
+      "body": "무암은 생성 단계부터 VFX·DI 담당자와 합성·컬러·마스터링 조건을 맞춘다. 벽은 생성이 아니라 납품이다.",
+      "foot": "2026.11.03",
+      "_src": "https://www.etnews.com/20261103000300",
+      "_id": "muam-hybrid-delivery",
+      "quote": "Film with AI,\nnot by AI",
+      "quote_by": "현해리 · 무암 대표"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.06",
+      "headline": "방송사는 모든 드라마에",
+      "body": "후지TV는 2027년 10월부터 모든 실사 드라마에 생성형 AI를 쓴다. 수술 장면 혈액 분출도 AI로 만들었다.",
+      "foot": "2026.11.06",
+      "_src": "https://www.yna.co.kr/view/AKR20261106154600009",
+      "_id": "fujitv-drama-genai-2027",
+      "stat_top": "VFX로 만들던 장면",
+      "stat_arrow": "AI로 바꾸자 작업 시간",
+      "stat_bottom": "70~80% 단축",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.11.06",
+      "headline": "Toei는 규칙부터",
+      "body": "Kamen Rider의 Toei가 생성형 AI 규칙을 정했다. 전담 팀이 제작에 어디까지 쓸지 시험하는 중이다.",
+      "foot": "2026.11.06",
+      "_src": "https://variety.com/2026/tv/markets-festivals/kamen-rider-studio-toei-generative-ai-rules-2027-game-slate-1236941104/",
+      "_id": "toei-genai-production-rules",
+      "quote": "AI로 배경을\n만드는 일 등은\n이미 하고 있다",
+      "quote_by": "Yoshimura Fumio · Toei 사장 겸 CEO"
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "2026.11.07",
+      "headline": "제작 전 과정을\n한 플랫폼에",
+      "body": "imCore의 Core Studio는 에이전트 24종 이상이 각본부터 편집·색보정까지 나눠 맡는다. 결과물마다 검토 기록이 붙는다.",
+      "foot": "2026.11.07",
+      "_src": "https://variety.com/2026/film/markets-festivals/ai-filmmaking-platform-core-studio-launches-24-agents-tccf-1236941957/",
+      "_id": "movies-imcore-core-studio",
+      "media": "pipeline/media/movies-imcore-core-studio.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

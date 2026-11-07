@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "issue": "허가 뒤의 AI, 검증은 누가",
+    "date": "2026.11.08",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(NeuroDR 11.08→10.28, HTI-5 11.04→11.03, Vscan Air 11.04→11.03, JAMA 11.06→11.05 Crossref 온라인 게재). 수치 60개 중 14개·12월 28일 시행, 95.2%·11월 말 업데이트, 163·56(34.4%)·48(85.7%) 확인. JAMA 본문은 Cloudflare라 11-06 보강본(초록 원문) 기준. 사진은 Vscan·NeuroDR 각 1회, JAMA 그림은 stat, HTI-5는 Soliz 인용으로.",
+    "sources": [
+      "AuntMinnie — FDA clears Deep Reasoning AI's neurovascular CTA software (2026.10.28)",
+      "MedCity News — Looser Health IT Certification Requirements Shift Oversight to Health Systems (2026.11.03)",
+      "AuntMinnie — GEHC adds lung, aortic stenosis AI tools to Vscan Air (2026.11.03)",
+      "JAMA Network Open — Updated AI and/or Machine Learning–Based Medical Devices Cleared Through the FDA 510(k) Pathway (2026.11.05)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 의료 · 10.28~11.05",
+      "thread": [
+        {
+          "d": "10.28",
+          "t": "CTA 허가",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.03",
+          "t": "HTI-5",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.03",
+          "t": "업데이트",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.05",
+          "t": "근거 공백",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        }
+      ],
+      "thread_note": "AI 기기는 허가 뒤에도 바뀌는데, 그 검증은 병원이 떠안는다",
+      "eyebrow": "흐름 · 의료",
+      "headline": "허가 뒤의 AI,\n검증은 누가",
+      "body": "허가 소식만 보면 관문을 넘은 듯하다. 그 뒤 인증 기준은 줄고, 기기는 업데이트로 바뀌는데 근거는 따라오지 않는다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.28",
+      "headline": "두경부 혈관 AI,\nFDA 510(k) 허가",
+      "body": "NeuroDR은 CTA 촬영이 끝나면 알아서 돌아 뼈·정맥을 지우고 3D 혈관 영상을 PACS로 보낸다.",
+      "foot": "2026.10.28",
+      "_src": "https://www.auntminnie.com/clinical-news/ct/news/16050236/fda-clears-deep-reasoning-ais-neurovascular-cta-software",
+      "_id": "deepreasoning-neurodr-cta",
+      "media": "pipeline/media/deepreasoning-neurodr-cta.jpg",
+      "n": 2
+    },
+    {
+      "kind": "quote",
+      "eyebrow": "2026.11.03",
+      "headline": "인증은 줄고,\n검증은 병원 몫",
+      "body": "HTI-5가 인증 기준 60개 중 14개를 없앴다. AI 추천의 출처를 밝히라는 요구도 함께 빠졌다.",
+      "foot": "2026.11.03",
+      "_src": "https://medcitynews.com/2026/11/looser-health-it-certification-requirements-shift-oversight-to-health-systems/",
+      "_id": "medicine-hti5-ai-oversight",
+      "quote": "검증 책임은\n도구를 쓰는 병원과\n의료진에게 넘어간다",
+      "quote_by": "Mel Soliz 변호사 · MedCity News · 2026.11.03",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.11.03",
+      "headline": "쓰던 기기에\nAI가 업데이트로",
+      "body": "GE가 Vscan Air에 FDA 허가 AI 두 개를 얹는다. 구독 중인 기존 기기엔 11월 말까지 업데이트로 깔린다.",
+      "foot": "2026.11.03",
+      "_src": "https://www.auntminnie.com/clinical-news/ultrasound/news/16349404/ge-healthcare-gehc-adds-lung-aortic-stenosis-ai-tools-to-vscan-air",
+      "_id": "medicine-vscan-air-lung-as",
+      "media": "pipeline/media/medicine-vscan-air-lung-as.jpg",
+      "n": 4
+    },
+    {
+      "kind": "stat",
+      "eyebrow": "2026.11.05",
+      "headline": "갱신된 AI,\n근거는 빈칸",
+      "body": "FDA 510(k) AI 기기 163개 중 56개가 알고리즘을 갱신했다. 그중 48개는 임상적 이점을 적지 않았다.",
+      "foot": "2026.11.05",
+      "_src": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41071",
+      "_id": "medicine-fda-510k-ai-updates",
+      "stat_top": "알고리즘 갱신 56개",
+      "stat_arrow": "그중 임상적 이점을 안 적은 기기",
+      "stat_bottom": "48개 (85.7%)",
+      "stat_strike": false,
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

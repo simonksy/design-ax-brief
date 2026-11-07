@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI 비서, 울타리를 넘다",
+    "date": "2026.11.08",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Verge 11.04→11.03, 9to5Google 11.06→11.05, 9to5Mac 11.07→11.05, ZDNET 11.08→11.05), 게재 시각순으로 3·4장 순서 바꿈. iOS 27.3 개발자 프리뷰·'all apps', ConversationalApps·PebblePlay·'Still not fully wired up', Pixel 밖 첫 대규모 확장·11월 19일, 대기열 폐지·iPhone 15 Pro 이상·수요 폭주 시 재도입 확인. 사진은 2장 Siri만, 나머지는 quote·stat.",
+    "sources": [
+      "The Verge — Apple starts giving Siri AI access to third-party apps (2026.11.03)",
+      "9to5Mac — HomeView will support third-party AI chatbots, suggests code (2026.11.05)",
+      "9to5Google — Motorola Signature 27 gets Pixel's Gemini Intelligence features with Rambler, Create My Widget (2026.11.05)",
+      "ZDNET — The Siri AI waitlist is gone in iOS 27: How to try the beta today (2026.11.05)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 가젯 · 11.03~11.05",
+      "thread": [
+        {
+          "d": "11.03",
+          "t": "외부 앱",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.05",
+          "t": "HomeView",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.05",
+          "t": "Motorola",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.05",
+          "t": "대기열 폐지",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        }
+      ],
+      "thread_note": "AI 비서가 처음 들어간 울타리 밖으로 나가기 시작했다",
+      "eyebrow": "흐름 · 가젯",
+      "headline": "AI 비서,\n울타리를 넘다",
+      "body": "한 건씩 보면 업데이트 소식이다. 그런데 사흘 사이 Siri AI와 Gemini가 앱·기기·사용자 문턱을 차례로 낮췄다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.03",
+      "headline": "Siri AI, 모든 앱으로",
+      "body": "iOS 27.3 개발자 프리뷰부터 외부 개발자도 Siri AI 기능을 '모든 앱'에 넣을 수 있다. 화면 인식도 함께다.",
+      "foot": "2026.11.03",
+      "_src": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "_id": "siri-ai-thirdparty-apps",
+      "media": "pipeline/media/siri-ai-thirdparty-apps.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.05",
+      "headline": "HomeView에도 남의 AI",
+      "body": "iOS 27.3 베타 코드에 ChatGPT·Claude 같은 대화형 앱 범주가 생겼다. 다만 아직 연결은 덜 됐다.",
+      "foot": "2026.11.05",
+      "_src": "https://9to5mac.com/2026/11/05/homeview-will-support-third-party-ai-chatbots-suggests-code/",
+      "_id": "homeview-thirdparty-chatbots",
+      "quote": "It's happening, folks:\nAI apps are coming\nto HomeView.",
+      "quote_by": "pdfu · 유출 제보자"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.05",
+      "headline": "Gemini, Pixel 밖으로",
+      "body": "Gemini Intelligence가 처음 Pixel 밖으로 크게 나간다. Motorola Signature 27이 11월 19일 출시부터 쓴다.",
+      "foot": "2026.11.05",
+      "_src": "https://9to5google.com/2026/11/05/motorola-signature-27-gemini-intelligence-features/",
+      "_id": "motorola-signature27-gemini",
+      "stat_top": "Pixel 전용",
+      "stat_arrow": "Pixel 밖 첫 대규모 확장",
+      "stat_bottom": "Signature 27",
+      "stat_strike": true
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.05",
+      "headline": "대기열 없이 바로",
+      "body": "Siri AI 베타 대기열이 사라졌다. iPhone 15 Pro 이상은 켜면 바로 받는다. 수요가 몰리면 다시 생길 수 있다.",
+      "foot": "2026.11.05",
+      "_src": "https://www.zdnet.com/business/siri-ai-beta-waitlist-ends-ios-27/",
+      "_id": "siri-ai-waitlist-ios27",
+      "stat_top": "대기열 등록",
+      "stat_arrow": "iOS 27 Siri AI 베타",
+      "stat_bottom": "켜면 바로",
+      "stat_strike": true
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
