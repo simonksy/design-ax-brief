@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "issue": "사람이 썼다는 증명",
+    "date": "2026.11.07",
+    "section": "BOOKS",
+    "accent": "#f5a623",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(NPR 11.03→10.31, Euronews 11.05→11.04, India Today 11.07→11.06, PW 11.07→11.06). NPR 98.7%(Janelle Shane), Euronews 'AI 세 번'·France Inter, India Today Perumal Murugan·Periyar Arivulagam, PW 탐지기 4개·10%/30%·$60·Big Five 두 곳 확인. 사진은 3·4장만, 2·5장은 stat.",
+    "sources": [
+      "NPR — Your writing was flagged as AI. What does that actually mean? (2026.10.31)",
+      "Euronews — Goncourt 2026 winner Philippe Jaenada admits using AI in novel to 'play with reader' (2026.11.04)",
+      "India Today — AI errors, inflated prices: Tamil Nadu govt orders probe into Periyar library books (2026.11.06)",
+      "Publishers Weekly — Proudly Human Promises to Certify AI-Free Books (2026.11.06)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 책 · 10.31~11.06",
+      "thread": [
+        {
+          "d": "10.31",
+          "t": "오판",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.04",
+          "t": "고백",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.06",
+          "t": "조사",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.06",
+          "t": "인증",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        }
+      ],
+      "thread_note": "책이 사람 손으로 쓰였는지, 이제 증명해야 한다",
+      "eyebrow": "흐름 · 책",
+      "headline": "사람이 썼다는\n증명",
+      "body": "오판, 고백, 조사, 인증. 하나씩은 사건이지만 이어 보면 '누가 썼나'가 책의 새 검증 항목이 됐다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.31",
+      "headline": "직접 쓴 글도\nAI 판정",
+      "body": "편집자들이 불완전한 탐지기로 원고를 거른다. Janelle Shane은 자기 2019년 책 문단에 AI 확률 98.7%를 받았다.",
+      "foot": "2026.10.31",
+      "_src": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
+      "_id": "npr-pangram-false-flags",
+      "stat_top": "2019년 직접 쓴 책",
+      "stat_arrow": "AI 탐지기 판정",
+      "stat_bottom": "AI 확률 98.7%",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.04",
+      "headline": "Goncourt 수상작\n작가의 AI 고백",
+      "body": "Goncourt를 받은 이튿날 Jaenada는 France Inter에서 소설을 쓰며 AI를 세 번 썼다고 털어놨다.",
+      "foot": "2026.11.04",
+      "_src": "https://www.euronews.com/2026/11/04/goncourt-2026-winner-philippe-jaenada-admits-using-ai-in-novel-sparking-ai-debate-in-liter",
+      "_id": "goncourt-jaenada-ai",
+      "media": "pipeline/media/goncourt-jaenada-ai.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.06",
+      "headline": "도서관 책장에\nAI 의심 도서",
+      "body": "작가 Perumal Murugan이 새 도서관 구입 도서에서 AI 의심 내용과 사실 오류를 짚었다. 주 정부가 조사에 나섰다.",
+      "foot": "2026.11.06",
+      "_src": "https://www.indiatoday.in/india/tamil-nadu/story/periyar-arivulagam-book-purchase-probe-ai-errors-inflated-prices-vijay-tvk-dmk-3034039-2026-11-06",
+      "_id": "books-periyar-library-probe",
+      "media": "pipeline/media/books-periyar-library-probe.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.06",
+      "headline": "AI로 AI를 걸러\n사람 책 인증",
+      "body": "Alan Finkel의 Proudly Human은 원고를 탐지기 4개에 돌려 인증한다. 권당 $60, Big Five 두 곳과 협의 중.",
+      "foot": "2026.11.06",
+      "_src": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101710-proudly-human-promises-to-certify-books-were-written-by-people-not-ai.html",
+      "_id": "proudly-human-certify",
+      "stat_top": "AI 판정 10% 미만 통과",
+      "stat_arrow": "상용 탐지기 4개 평균",
+      "stat_bottom": "30% 넘으면 탈락",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

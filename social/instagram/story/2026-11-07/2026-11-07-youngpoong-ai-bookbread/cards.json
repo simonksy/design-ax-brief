@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "issue": "영풍문고, 빵 유형으로 책 고르는 AI 추천",
+    "date": "2026.11.07",
+    "section": "BOOKS",
+    "accent": "#f5a623",
+    "note": "자동 초안. 썸네일은 초안이라 겹친다 — 올리기로 정하면 원문을 받아 숫자를 확인하고 글을 다시 쓰면서 stat·quote 로 장을 세운다.",
+    "sources": [
+      "http://www.worktoday.co.kr/news/articleView.html?idxno=91560"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 책 · 2026.11.07",
+      "headline": "영풍문고, 빵 유형으로 책 고르는 AI 추천",
+      "body": "영풍문고는 지난 3일 인공지능(AI)을 활용해 독자의 독서 성향을 분석하고 개인별 맞춤 도서를 제안하는 서비스 'AI 책빵집'을…",
+      "foot": "밀어서 보기 →",
+      "media": "pipeline/media/youngpoong-ai-bookbread.jpg",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "무슨 일인가",
+      "headline": "영풍문고, 빵 유형으로 책 고르는 AI 추천",
+      "body": "서비스의 특징은 온라인과 오프라인 데이터를 함께 활용한다는 점이다.",
+      "foot": "2026.11.07",
+      "media": "pipeline/media/youngpoong-ai-bookbread.jpg",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "어떻게 되는가",
+      "headline": "영풍문고, 빵 유형으로 책 고르는 AI 추천",
+      "body": "온라인몰에서 고객이 검색하거나 살펴본 책, 서재와 장바구니에 담은 도서, 구매 및 리뷰 이력 등을 분석해 개인별 추천에 활용한다.",
+      "foot": "2026.11.07",
+      "media": "pipeline/media/youngpoong-ai-bookbread.jpg",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "짚을 대목",
+      "headline": "영풍문고, 빵 유형으로 책 고르는 AI 추천",
+      "body": "여기에 전국 영풍문고 매장의 판매량을 반영한 도서 목록도 별도로 제공한다.",
+      "foot": "2026.11.07",
+      "media": "pipeline/media/youngpoong-ai-bookbread.jpg",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "그래서 지금",
+      "headline": "영풍문고, 빵 유형으로 책 고르는 AI 추천",
+      "body": "온라인 이용 기록에 실제 매장 판매 현황을 더해 추천 범위를 넓힌 것이다.",
+      "foot": "2026.11.07",
+      "media": "pipeline/media/youngpoong-ai-bookbread.jpg",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

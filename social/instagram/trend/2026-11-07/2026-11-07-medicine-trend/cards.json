@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "issue": "건강 상담 AI, 시험대에 서다",
+    "date": "2026.11.07",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Nature Health 11.03→10.26, Nature Mental Health 11.02→10.28, JAMA 우울증 조정 11.06→11.03, JAMA 산모 챗봇 11.05→11.04, Crossref 확인)하고 시간순으로 재배열. 사진은 조정 연구 그림 한 장만 남기고 나머지는 stat. 수치 97.5%·5개 모델·비용, 챗봇 4종·페르소나 8·1,600회, 1.25/0.92/0.17, 400명·12개월·무차이 확인.",
+    "sources": [
+      "Nature Health — Large language models show product name convergence in drug recommendations (2026.10.26)",
+      "Nature Mental Health — Development, validation and AI chatbot evaluation of the Adolescent Mental Health AI Response Tool (2026.10.28)",
+      "JAMA Network Open — Silent Manipulation of Mental Health Treatment Recommendations From a Large Language Model (2026.11.03)",
+      "JAMA Network Open — Generative Artificial Intelligence and Maternal Health Outcomes in Pregnant and Postpartum Individuals (2026.11.04)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 의료 · 10.26~11.04",
+      "thread": [
+        {
+          "d": "10.26",
+          "t": "약 상표",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "10.28",
+          "t": "청소년",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.03",
+          "t": "숨은 설정",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.04",
+          "t": "산모 시험",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        }
+      ],
+      "thread_note": "환자에게 직접 답하는 AI, 시험대에 올릴 때마다 허점이 나온다",
+      "eyebrow": "흐름 · 의료",
+      "headline": "건강 상담 AI,\n시험대에 서다",
+      "body": "한 편씩 보면 논문 한 건이다. 열흘 사이 약 추천, 청소년 상담, 숨은 설정, 임상시험이 같은 물음을 따졌다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.26",
+      "headline": "LLM 다섯,\n같은 상표로 쏠리다",
+      "body": "성분이 같은 FDA 승인 제품 중 1순위 추천은 평균 97.5%가 한 상표였다. 실제 처방과 달랐고 비용도 대개 높았다.",
+      "foot": "2026.10.26",
+      "_src": "https://www.nature.com/articles/s44360-026-00205-y",
+      "_id": "llm-drug-brand-convergence",
+      "stat_top": "같은 성분, 여러 상표",
+      "stat_arrow": "1순위 추천이 한 상표에 몰린 비율",
+      "stat_bottom": "평균 97.5%",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.10.28",
+      "headline": "청소년 우울엔\n답이 덜 닿았다",
+      "body": "챗봇 넷과 청소년 페르소나의 대화 1,600회를 채점했다. 지침 항목 충족은 불안보다 우울, 중등도보다 중증에서 낮았다.",
+      "foot": "2026.10.28",
+      "_src": "https://www.nature.com/articles/s44220-026-00753-y",
+      "_id": "amhart-teen-chatbot-eval",
+      "stat_top": "챗봇 4종 × 페르소나 8명",
+      "stat_arrow": "조합마다 50번씩 나눈 여러 턴 대화",
+      "stat_bottom": "1,600회",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.03",
+      "headline": "숨은 설정 하나에\n우울증 조언이 휘다",
+      "body": "숨은 조정에 약물·자기관리 균형 점수가 1.25에서 0.17까지 움직였다. 선호를 밝히지 않은 질문이 가장 흔들렸다.",
+      "foot": "2026.11.03",
+      "_src": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41142",
+      "_id": "medicine-llm-steering-depression",
+      "media": "pipeline/media/medicine-llm-steering-depression.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.04",
+      "headline": "산모 챗봇,\n1년 뒤 차이 없었다",
+      "body": "400명 무작위 시험. 챗봇을 쓴 쪽도 12개월 뒤 불안·우울 점수, 응급실 방문, 산후 검진에서 대조군과 차이가 없었다.",
+      "foot": "2026.11.04",
+      "_src": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41062",
+      "_id": "jama-maternal-chatbot-rct",
+      "stat_top": "산모 400명, 12개월",
+      "stat_arrow": "챗봇 vs 그림책 대조군",
+      "stat_bottom": "차이 없음",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

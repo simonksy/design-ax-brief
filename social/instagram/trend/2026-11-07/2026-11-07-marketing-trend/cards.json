@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "issue": "에이전트 손님에게 계산대가 열린다",
+    "date": "2026.11.07",
+    "section": "MARKETING",
+    "accent": "#ff8a3d",
+    "note": "원문 5건 대조: 날짜를 원문 게재일로 고침(Shopify 11.02→10.30, Clarity 결제 11.03→11.01, UCP 11.07→11.04, Clarity 카탈로그 11.06→11.05, Blend 11.07→11.05). 0.3%·Shop 캠페인 추가 수수료, 25.21%·14.65%·230,511, lululemon 등 넷·내년 Merchant Center, Microsoft 인용문, 200곳 중 29곳·대형 20%·신흥 2.5% 확인. 11-02·11-06 trend(AI 답변 광고)와 겹치지 않게 상거래 쪽으로 묶음. 사진은 UCP 한 장만.",
+    "sources": [
+      "Search Engine Journal — Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent (2026.10.30)",
+      "PPC Land — Checkout appears in 25% of AI agent sessions vs 15% for humans, Clarity finds (2026.11.01)",
+      "Search Engine Journal — Google Brings UCP Direct Checkout To AI Mode In Canada (2026.11.04)",
+      "PPC Land — Microsoft Clarity puts Shopify and WooCommerce products in Copilot and Bing (2026.11.05)",
+      "PPC Land — Bot protection blocks Blend's AI shopping agent at 29 of 200 retailers (2026.11.05)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 마케팅 · 10.30~11.05",
+      "thread": [
+        {
+          "d": "10.30",
+          "t": "수수료",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.01",
+          "t": "결제율",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.04",
+          "t": "UCP 결제",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.05",
+          "t": "카탈로그",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.05",
+          "t": "봇 차단",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        }
+      ],
+      "thread_note": "상점이 AI 에이전트 손님에게 계산대를 열지만, 문 앞 보안은 아직 막는다",
+      "eyebrow": "흐름 · 마케팅",
+      "headline": "에이전트 손님에게\n계산대가 열린다",
+      "body": "한 건씩 보면 각사의 실험이다. 꿰어 보면 수수료·결제·카탈로그가 일주일 새 에이전트 쪽으로 열렸고, 문 앞은 아직 막혔다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.30",
+      "headline": "Shopify, 에이전트\n개발사에 수수료",
+      "body": "에이전트가 판촉 상품을 팔면 Shopify가 개발사에 주문의 0.3%를 준다. 상점은 Shop 캠페인으로 더 얹는다.",
+      "foot": "2026.10.30",
+      "_src": "https://www.searchenginejournal.com/shopify-now-lets-stores-pay-the-company-behind-your-ai-shopping-agent/594544/",
+      "_id": "shopify-agent-commission",
+      "stat_top": "판촉 상품 주문",
+      "stat_arrow": "에이전트 개발사 몫",
+      "stat_bottom": "0.3%",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.01",
+      "headline": "에이전트 세션엔\n결제가 더 잦다",
+      "body": "Clarity가 230,511개 사이트를 봤다. 결제 단계가 에이전트 세션의 25.21%, 사람 세션의 14.65%에 찍혔다.",
+      "foot": "2026.11.01",
+      "_src": "https://ppc.land/checkout-appears-in-25-of-ai-agent-sessions-vs-15-for-humans-clarity-finds/",
+      "_id": "clarity-ai-agent-checkout",
+      "stat_top": "사람 세션 14.65%",
+      "stat_arrow": "결제 단계가 찍힌 비율",
+      "stat_bottom": "에이전트 25.21%",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.04",
+      "headline": "Google, AI Mode\n결제를 캐나다로",
+      "body": "AI Mode·Gemini 앱 대화 안에서 바로 산다. lululemon 등 넷으로 시작, 내년엔 Merchant Center로 연다.",
+      "foot": "2026.11.04",
+      "_src": "https://www.searchenginejournal.com/google-brings-ucp-direct-checkout-to-ai-mode-in-canada/595882/",
+      "_id": "google-ucp-checkout-canada",
+      "media": "pipeline/media/google-ucp-checkout-canada.png"
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.11.05",
+      "headline": "Clarity 상품,\nCopilot으로",
+      "body": "Brand Agents 약관에 동의하면 Shopify·WooCommerce 상품 카탈로그가 Copilot·Bing에 뜬다.",
+      "foot": "2026.11.05",
+      "_src": "https://ppc.land/microsoft-clarity-puts-shopify-and-woocommerce-products-in-copilot-and-bing/",
+      "_id": "clarity-copilot-catalog",
+      "quote": "사람 아닌 트래픽이\n이제 웹에서\n사람을 넘어섰다",
+      "quote_by": "Microsoft Advertising 블로그"
+    },
+    {
+      "n": 6,
+      "kind": "stat",
+      "eyebrow": "2026.11.05",
+      "headline": "그래도 문 앞에서\n막힌 에이전트",
+      "body": "Blend의 쇼핑 에이전트를 소매업체 200곳 중 29곳이 봇 차단으로 막았다. 대형 20%, 신흥 2.5%였다.",
+      "foot": "2026.11.05",
+      "_src": "https://ppc.land/bot-protection-blocks-blends-ai-shopping-agent-at-29-of-200-retailers/",
+      "_id": "blend-agent-bot-blocks-audit",
+      "stat_top": "소매업체 200곳",
+      "stat_arrow": "봇 차단에 막힌 곳",
+      "stat_bottom": "29곳",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

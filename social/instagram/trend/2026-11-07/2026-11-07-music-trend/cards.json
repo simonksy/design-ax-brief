@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI, DAW 안으로 들어오다",
+    "date": "2026.11.07",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Suno 블로그 11.03→10.29, Photon 11.05→11.03, Pro Tools 11.06→11.05, Splice 11.06→11.05). 시간순으로 Pro Tools(10:56 UTC)를 Splice(15:36 UTC) 앞으로. Cubase 16은 오늘 story라 제외. 수치 3dB, 12개 모델·$349, 최대 6스템·2026.11, 무료·$9.99/월 확인. 사진은 Splice 화면 한 장만 쓰고 나머지는 quote·stat.",
+    "sources": [
+      "Suno — Meet Chat: Our In-house Studio Assistant (2026.10.29)",
+      "MusicTech — iZotope Photon is a local stem separation and denoising tool that runs off your GPU (2026.11.03)",
+      "MusicTech — Pro Tools now features AI stem separation (2026.11.05)",
+      "MusicRadar — Splice's new AI DAW feels like a cheat code for music production (2026.11.05)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 음악 · 10.29~11.05",
+      "thread": [
+        {
+          "d": "10.29",
+          "t": "AI 조수",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.03",
+          "t": "로컬 분리",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.05",
+          "t": "스템 분리",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.05",
+          "t": "AI DAW",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        }
+      ],
+      "thread_note": "스템 분리와 AI 조수가 플러그인이 아니라 DAW 기본 기능이 된다",
+      "eyebrow": "흐름 · 음악",
+      "headline": "AI, DAW 안으로\n들어오다",
+      "body": "하나씩 보면 신기능 소식이다. 그런데 여드레 사이 Suno, iZotope, Pro Tools, Splice가 작업창에 AI를 넣었다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "quote",
+      "eyebrow": "2026.10.29",
+      "headline": "말로 움직이는 페이더",
+      "body": "Suno Studio의 Chat은 스템과 플러그인을 만들고, 말 한마디로 모든 트랙 볼륨까지 내린다.",
+      "foot": "2026.10.29",
+      "_src": "https://suno.com/blog/studio-chat-assistant",
+      "_id": "suno-studio-chat-assistant",
+      "quote": "모든 트랙을\n3dB씩 내려 줘",
+      "quote_by": "Suno 블로그 · Chat 사용 예 · 2026.10.29"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.03",
+      "headline": "스템 분리, 내 GPU에서",
+      "body": "iZotope Photon은 클라우드에 올리지 않고 내 컴퓨터 GPU로 스템을 나눈다. Pro Tools·Cubase 안에서도 돈다.",
+      "foot": "2026.11.03",
+      "_src": "https://musictech.com/news/gear/izotope-photon/",
+      "_id": "izotope-photon-gpu-stems",
+      "stat_top": "자체 학습 AI 모델",
+      "stat_arrow": "업로드 없이 로컬 GPU로",
+      "stat_bottom": "12개",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.05",
+      "headline": "Pro Tools도\n스템 분리 내장",
+      "body": "Pro Tools 2026.11의 AI 확장은 녹음을 끌어다 놓기만 하면 보컬·드럼·베이스 등으로 쪼갠다.",
+      "foot": "2026.11.05",
+      "_src": "https://musictech.com/news/pro-tools-now-features-ai-stem-separation/",
+      "_id": "avid-protools-sixstem-split",
+      "stat_top": "녹음 한 트랙",
+      "stat_arrow": "끌어다 놓으면",
+      "stat_bottom": "최대 6스템",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.05",
+      "headline": "AI가 곡 쓰는\n무료 DAW",
+      "body": "Splice가 무료 Mac DAW Create를 베타로 냈다. AI 챗봇 Rheo가 말을 듣고 트랙을 직접 만든다.",
+      "foot": "2026.11.05",
+      "_src": "https://www.musicradar.com/music-tech/splices-new-ai-daw-feels-like-a-cheat-code-for-music-production-but-it-left-us-with-one-big-question",
+      "_id": "splice-create-ai-daw",
+      "media": "pipeline/media/splice-create-ai-daw.png"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
