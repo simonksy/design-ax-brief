@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-09",
+  "section": "gadgets",
+  "items": [
+    {
+      "tool": "Gadgets",
+      "accent": "#f5a623",
+      "motif": "headset",
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "source": "TechCrunch",
+      "published_iso": "2026-11-06T13:02:16+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.02.34-PM.jpg?resize=1200,542",
+      "excerpt": "Underdog released Woof, a 31M-parameter (32MB) open speech-and-music generation model that runs offline on most devices, demoed in a browser game; it follows the 167MB on-device Bark speech-to-text model and a 27B laptop-class model aimed at private, local AI.",
+      "rationale": "A new model release: Woof, an open 32MB speech-and-music generator that runs offline on ordinary devices. It goes beyond Underdog's 10-06 launch and is a different product from Ollama's Mac TTS (10-28)."
+    }
+  ],
+  "dedup": {
+    "checks": {
+      "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/": {
+        "verdict": "follow-up",
+        "nearest": "https://www.digitaltrends.com/computing/ollama-brings-free-local-text-to-speech-to-your-mac-with-natural-sounding-ai-voices/",
+        "new_action": "Underdog released a new model, Woof: a 31M-parameter (32MB) open speech-and-music generation model that runs offline, shown in a new browser-game demo. The 10-06 card covered the company launch, not this release."
+      }
+    },
+    "note": "Recovery fill for gadgets (4 to 5). Added Underdog Woof as a follow-up to the 10-06 Underdog launch, which is outside the 30-day digest, so nearest names the history_match (Ollama local TTS, 10-28). The new action is the Woof model release. Dropped: The Verge 'How Akai and Moog are embracing vibe-coded mods' (cross-section duplicate of music's 10-29 Verge card 'Akai is embracing vibe-coded mods with an open-source MPC'; the inMusic SDK and NAMM Creator Lab angle is extra reporting on the same announcement); ZDNET HomeView Ultra (an Apple rumour that repeats the 10-20 9to5mac 'next HomeView ... robotic arm: report' card); etnews 캠시스 (a parts-supplier business story with AI only incidental); Tom's Guide HUUCH Motion Bundle (a kids' console review where AI motion tracking is incidental; weaker than the Woof release)."
+  }
+}

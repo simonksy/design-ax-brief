@@ -11246,6 +11246,117 @@
           "x": "When you publish, Cursor runs deterministic and agentic security checks to catch common issues, like secrets written in app files or exposed credentials. Nothing goes live until the checks pass and you explicitly publish the app. Team admins can see every app and secret on the team. The capability is available on all paid plans with cloud agents enabled."
         }
       ]
+    },
+    "design/nngroup-agent-harness-def": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "An agent harness manages a software loop between an AI model and its tools. Its context, permissions, and limits shape what users can do. Two AI scheduling assistants can rely on the same AI model yet have quite different capabilities, depending on the harness around it."
+        },
+        {
+          "t": "p",
+          "x": "An agent harness is the software around an AI model that runs its execution loop: it carries out the model's requests to use tools, returns the results, and controls what information the model receives and what it is allowed to do. This cycle of request, action, and result is what turns a chatbot into an AI agent."
+        },
+        {
+          "t": "img",
+          "src": "https://media.nngroup.com/media/editor/2026/11/06/how-an-agent-harness-runs-an-execution-loop_jHSEz0a.jpg",
+          "cap": "The model requests actions. The harness checks each request against its permissions and limits before a tool runs it, then returns the result so the model can run again or respond to the user."
+        },
+        {
+          "t": "p",
+          "x": "Beyond running the loop, the harness supplies context, connects tools and enforces permissions, and provides instructions and enforces limits on time, cost, and the number of steps. Saved information is useful only if the harness passes it to the model."
+        },
+        {
+          "t": "p",
+          "x": "For UX: knowing which AI model a product uses does not tell you whether its harness can support your task. Designers should specify behavior alongside the screen, and evals should test the entire task with realistic context, tools, and permissions."
+        }
+      ]
+    },
+    "design/uxc-berrypicking-ai-search": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:2000/1*7nKkTkUX4iDwlOFBMtt4kg.png",
+          "cap": "A searcher moves through scattered sources, collecting one useful piece at each stop."
+        },
+        {
+          "t": "p",
+          "x": "In 1989 Marcia Bates showed that people search by gathering, shifting, and revising as they go. Her berrypicking paper argued that real searches wander, change shape, and collect value in pieces. She aimed it at library databases that assumed one query and one best result. The chat box makes the same assumption, only faster."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1000/1*-BHFNiCUGikF8fnaGaP1NA.png",
+          "cap": "Four ways people search."
+        },
+        {
+          "t": "p",
+          "x": "A 2025 study of more than 200,000 simulated conversations found every top model did worse when a task arrived in pieces, with an average drop of 39 percent across six tasks. Bates also named 29 search tactics, and a chat reply hides the facets and filters that could turn them into buttons."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1000/1*K8I3knsghQYE_ff9DOGSrA.png",
+          "cap": "The four levels, packaged by need."
+        },
+        {
+          "t": "p",
+          "x": "Her 1990 automation scale runs from level 0 to level 4; most AI products jump straight to level 4. Her cascade of layers shows a fluent answer built on a bad index is still a bad answer, and Pew found result clicks fell to 8 percent with an AI summary versus 15 percent without."
+        }
+      ]
+    },
+    "design/firefly-seedance-25-video": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "dGEv6re6uYI"
+        },
+        {
+          "t": "p",
+          "x": "Details that draw you in and stop you in your tracks. Tell your story with Seedance 2.5, now available in Firefly. Try it for free."
+        },
+        {
+          "t": "p",
+          "x": "Firefly is Adobe's creative AI design tool. It brings Adobe and partner models together in one place, so you can generate images, text effects, video, and audio on web, mobile, or inside Adobe apps like Photoshop, Illustrator, Express, and Premiere Pro."
+        }
+      ]
+    },
+    "design/uxc-native-floor-components": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/1*tmilNueBY4CBfNN99ZX5vA.jpeg",
+          "cap": "Apple's design kits for iOS 27, the system components every app gets."
+        },
+        {
+          "t": "p",
+          "x": "With AI, a polished look costs nothing. Native brings what can't be drawn, and it moves with the system, one step ahead of what imitates it. When Apple introduced Liquid Glass, apps using system components got the new appearance on recompiling; apps that drew their own controls got nothing."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*hUXaBgmYwkvMbX5QMiYcRg.png",
+          "cap": "Two home screens generated by the same AI model for the same daycare app: the floating iOS 26 tab bar only appeared with an instruction to follow current platform conventions."
+        },
+        {
+          "t": "p",
+          "x": "AI models imitate the system only in what can be seen, and the iOS they draw is still mostly the old one. But the floor is mostly behavior: the back gesture, the share sheet, built-in accessibility, text that scales. A control redrawn by hand has to rebuild all of that."
+        },
+        {
+          "t": "p",
+          "x": "Native fixes the fake, not the alike; standing out is still the brand's job. When the mockup comes from an AI, name the device and its current conventions in the prompt, and anything that looks like a system control should at least behave like one."
+        }
+      ]
+    },
+    "design/bcn3d-aurora-photo-to-part": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.all3dp.com/workers/images/fit=scale-down,w=1200,h=675,quality=79,gravity=0.5x0.5,format=auto/wp-content/uploads/2026/11/05110054/BCN3D-Aurora-hero.jpg",
+          "cap": "Source: BCN3D, All3DP"
+        },
+        {
+          "t": "p",
+          "x": "The new Aurora 3D printer can turn a photo, a few words, or a voice command into a finished part without CAD or slicing software. I'm struggling to believe it. I'm also rather desperate to see it."
+        }
+      ]
     }
   }
 }

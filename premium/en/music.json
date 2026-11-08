@@ -10177,6 +10177,116 @@
           "yt": "rUJ8NZDcEoo"
         }
       ]
+    },
+    "music/music-ifpi-australia-copyright": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/a9d776b6ee27daeda7be27a2ffc273f39b966850/200_0_6000_4800/master/6000.jpg?width=1065&quality=85&auto=format&fit=max&s=9f6642a572d563e6be6a88c2e6267527",
+          "cap": "Creative industries are alarmed after AI companies requested changes to Australia's copyright law to allow training on its material."
+        },
+        {
+          "t": "p",
+          "x": "Australia weakening copyright protections to aid AI companies would be \"ridiculous and dangerous\", the International Federation of the Phonographic Industry (IFPI) has warned as the Albanese government weighs big tech's demands."
+        },
+        {
+          "t": "p",
+          "x": "\"You just need one safe harbour, because then you can train on music from anywhere in the world,\" IFPI chief executive Victoria Oakley told Guardian Australia. \"We think this is a disaster for creativity.\""
+        },
+        {
+          "t": "p",
+          "x": "Some AI companies have rejected licensing under existing law as too difficult; Anthropic suggested an \"opt-out\" model. Prime minister Anthony Albanese has promised \"the strongest possible protection\", and attorney general Michelle Rowland pledged \"meaningful control and fair compensation\"."
+        },
+        {
+          "t": "p",
+          "x": "Oakley said labels had already inked dozens of licensing deals with smaller AI firms. \"It would be a huge mistake and I think the prize is not worth what you're throwing away,\" she said. \"It is perfectly possible to license.\""
+        }
+      ]
+    },
+    "music/choyoungsoo-ai-virtual-singer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285593_web.jpg",
+          "cap": "Cho Young-soo. (Photo courtesy of Vtopian)"
+        },
+        {
+          "t": "p",
+          "x": "Composer and producer Cho Young-soo is introducing his first virtual artist, 'WON'. WON makes an official debut at 6 p.m. on the 8th with the first single 'Mama Song'. Cho, who ranked No. 1 in copyright royalty income for 5 straight years from 2007 to 2011, made up his mind: “I'll create a character singer myself who can fully sing the music I want, and express it without limits, whether English songs or a range of genres.”"
+        },
+        {
+          "t": "img",
+          "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285590_web.jpg",
+          "cap": "WON. (Photo courtesy of Vtopian)"
+        },
+        {
+          "t": "p",
+          "x": "The debut track 'Mama Song' is a pop ballad about longing for and gratitude toward a mother, with lyrics entirely in English. WON's appearance and movement rely on the latest technology, while composition, arrangement and live session playing are done by human hands. When Cho records a guide vocal, it goes through an AI conversion process to become WON's final voice."
+        },
+        {
+          "t": "p",
+          "x": "“Songs composed by AI have precisely learned each era's hit formulas from vast big data, so their technical completeness reaches 99 points. But the remaining 1% of 'newness' can only be filled by humans.”"
+        },
+        {
+          "t": "img",
+          "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285594_web.jpg",
+          "cap": "Cho Young-soo. (Photo courtesy of Vtopian)"
+        },
+        {
+          "t": "p",
+          "x": "Follow-up characters are being built in turn, with a vocal group as the final goal. “The clear goal for the rest of my music life is to become a composer who writes a Billboard No. 1 song.”"
+        }
+      ]
+    },
+    "music/ivors-composer-awards-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.bigissue.com/wp-content/uploads/2026/10/1742-Music_Hero.jpg?w=1920",
+          "cap": "Lord Neri. Image: Louise Haywood-Schiefer"
+        },
+        {
+          "t": "p",
+          "x": "AI relies upon ingesting existing work to imitate it, and there is currently no clear framework for consent, compensation or transparency. \"As an assisted tool, AI could be an amazing asset,\" says Roberto Neri, CEO of The Ivors Academy. \"However, generative AI is a major issue.\""
+        },
+        {
+          "t": "p",
+          "x": "He points to the \"faceless composer\": \"Even someone as famous as Hans Zimmer can walk down the street and not be recognised… Our concern is that people are less sympathetic around music replacing composers as their work is often unseen.\""
+        },
+        {
+          "t": "p",
+          "x": "To that end, the Ivors is relaunching the Ivors Composer Awards (17 November) to \"elevate the entire community\" and provide parity with the Ivor Novello Awards for songwriters, as part of The Ivors Composer Week (16-20 November). 36 composers and librettists are nominated across nine categories, including Best Original Film Score and Best Original Video Game Score. Max Richter will receive the Innovation Award."
+        }
+      ]
+    },
+    "music/music-arxiv-theme-similarity": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Composers develop music from an original idea, controlling how similar each new section is to it, from near repetition to new material. Game music needs this often, as its material repeats over long play. Music models, however, rarely learn to control similarity from real pieces. We further train a pretrained MIDI model on section pairs from Super Mario pieces. A label states each pair's similarity, and a context vector summarises the given section, or context. For 157 test contexts, the model generates six outputs per label. Twelve measures score the outputs; one main measure each covers melody, pitch content, rhythm and note length. On average, outputs requested as similar are more similar to their context than those requested as dissimilar, and not to other pieces. All twelve measures favour them; each main measure stays significant after correction for multiple tests. On melody, the gap comes mainly from more frequent restatement of the context's melody. Against an otherwise identical model without a label, only the request for high similarity makes outputs more similar. In a listening test, ratings followed melodic overlap with the context most closely of all measures."
+        }
+      ]
+    },
+    "music/elvis-suno-voice-clone-suit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/03/elvis-presley-1956-billboard-1800.jpg?w=942&h=628&crop=1",
+          "cap": "Elvis Presley, 21, seen in April 1956."
+        },
+        {
+          "t": "p",
+          "x": "The owners of Elvis Presley’s intellectual property are suing Suno in a new lawsuit that claims the AI music company violated the King of Rock ‘n’ Roll’s likeness rights by stealing his voice. Filed Friday (Nov. 6) by Elvis Presley Enterprises, a unit of Authentic Brands Group, the case also levels copyright accusations similar to its earlier suit against Anthropic."
+        },
+        {
+          "t": "p",
+          "x": "It is one of the first major cases under Tennessee’s ELVIS Act, which also allows lawsuits against tech firms that enable voice and image cloning. The complaint says Suno’s claim that users can’t prompt for real artists is “unequivocally false,” and that as recently as last month Suno generated an Elvis clone from lyrics that included his name."
+        },
+        {
+          "t": "p",
+          "x": "Suno said it does not allow prompts for specific artists’ names and songs and screens uploaded audio and lyrics. Separately on Friday, the same attorneys filed another case against Suno on behalf of Eight Mile Style, a publisher that owns much of Eminem’s catalog."
+        }
+      ]
     }
   }
 }

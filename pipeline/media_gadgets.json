@@ -1,7 +1,32 @@
-{"date":"2026-11-08","section":"gadgets","media":[
-{"id":"raycast-mac-dictate-screen","type":"image","src":"pipeline/media/raycast-mac-dictate-screen.jpg"},
-{"id":"dji-matrice5t-drone","type":"image","src":"pipeline/media/dji-matrice5t-drone.jpg"},
-{"id":"siri-ai-waitlist-ios27","type":"image","src":"pipeline/media/siri-ai-waitlist-ios27.jpg"},
-{"id":"snap-specs-gen6-handson","type":"image","src":"pipeline/media/snap-specs-gen6-handson.jpg"},
-{"id":"pudu-tomo-s-mower","type":"video","src":"pipeline/media/pudu-tomo-s-mower.mp4","poster":"pipeline/media/pudu-tomo-s-mower.jpg"}
-]}
+{
+  "date": "2026-11-09",
+  "section": "gadgets",
+  "media": [
+    {
+      "id": "alexa-tablet-12pro-android",
+      "type": "video",
+      "src": "pipeline/media/alexa-tablet-12pro-android.mp4",
+      "poster": "pipeline/media/alexa-tablet-12pro-android.jpg"
+    },
+    {
+      "id": "arm-neural-dawn-framegen",
+      "type": "image",
+      "src": "pipeline/media/arm-neural-dawn-framegen.jpg"
+    },
+    {
+      "id": "kimi-k3-optane-homelab",
+      "type": "image",
+      "src": "pipeline/media/kimi-k3-optane-homelab.jpg"
+    },
+    {
+      "id": "tomsguide-ai-earbuds-survey",
+      "type": "image",
+      "src": "pipeline/media/tomsguide-ai-earbuds-survey.jpg"
+    },
+    {
+      "id": "underdog-woof-32mb",
+      "type": "image",
+      "src": "pipeline/media/underdog-woof-32mb.jpg"
+    }
+  ]
+}

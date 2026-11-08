@@ -15207,6 +15207,167 @@
           "x": "The End는 아직 판매 대행사 없이 독립 제작 중이다. 그는 “프랑스에서 영화 자금을 모으기가 점점 더 어려워지고 있다”며 “지금 나는 완전한 자유를 누린다. 하고 싶은 것을 할 수 있다”고 말했다."
         }
       ]
+    },
+    "movies/olm-animins-ai-coloring": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/TCCF-AI-animation.jpg",
+          "cap": "Naman Ramachandran"
+        },
+        {
+          "t": "p",
+          "x": "“Pokemon” 애니메이션 시리즈와 영화를 만든 일본 애니메이션 그룹 OLM이 손으로 칠한 프레임 세 장만 보고 작품 화풍을 익히는 AI 채색 도구를 만들었다. OLM Digital 이사 Yotsukura Tatsuo가 타이베이 Taiwan Creative Content Fest(TCCF)에서 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "도구는 일본 경제산업성이 감독하는 생성형 AI 프로그램 GENIAC의 15개월 연구 프로젝트 ANIMINS에서 나왔다. 아티스트가 프레임 세 장을 손으로 칠하면 시스템이 약 90초 만에 작품의 선 모양과 팔레트를 익히고, 남은 프레임을 장당 약 15초에 칠한다."
+        },
+        {
+          "t": "p",
+          "x": "Yotsukura는 “엄밀히 말해 생성형 AI는 아닙니다”라고 했다. 해당 작품의 프레임만 학습하니 다른 작품에 피해가 가지 않고, 개념 검증 단계에서 채색 작업량이 약 30% 줄었다."
+        },
+        {
+          "t": "p",
+          "x": "Toon Boom의 Ember 채색 베타도 막바지다. 마닐라의 한 스튜디오는 90초에서 이 분짜리 장면의 채색 시간을 15시간에서 두세 시간으로 줄였다. Blue Spirit의 Charles Beirnaert는 자사가 Netflix의 “Blue Eye Samurai”에 AI를 전혀 쓰지 않는다고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Yotsukura는 “앞으로 ‘AI를 쓰지 않는다’는 선택지는 아마 더는 없을 것이라고 생각합니다”라고 했다."
+        }
+      ]
+    },
+    "movies/china-ai-shortdrama-crackdown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108050600083_01_i_P4.jpg",
+          "cap": "중국의 한 숏폼 드라마 제작 현장 [신화=연합뉴스 자료사진]"
+        },
+        {
+          "t": "p",
+          "x": "중국 정부가 인공지능(AI)을 활용한 저질·선정적 콘텐츠 등 숏폼 드라마에 대한 특별단속에 나섰다."
+        },
+        {
+          "t": "p",
+          "x": "AI 기술 확산으로 숏폼 드라마 제작이 급증하면서 콘텐츠의 질적 저하와 저작권 침해 등의 문제에 대응하기 위한 조치다."
+        },
+        {
+          "t": "p",
+          "x": "8일 중국 관영 신화통신에 따르면 방송·인터넷 감독기관인 국가광파전시총국(광전총국)은 AI 기술을 이용한 저질·획일적 콘텐츠 확산을 막기 위해 다음 달 31일까지 숏폼 드라마 특별단속을 실시한다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "주요 단속 대상은 아동 관련 유해 콘텐츠, 선정성을 자극하는 장면, 극단적인 대립을 조장하거나 물질만능주의를 부추기는 내용, 가족 윤리를 심각하게 훼손하는 작품 등이다."
+        },
+        {
+          "t": "p",
+          "x": "특히 AI 기술을 이용해 타인의 얼굴이나 목소리를 무단으로 사용하는 행위와 규정에 따른 등록·심사를 거치지 않은 작품도 단속한다."
+        },
+        {
+          "t": "p",
+          "x": "드라마 제목과 홍보 영상 등에 포함된 저질 콘텐츠를 정비하고 같은 작품을 제목이나 주인공 이름만 바꿔 반복적으로 유통하는 행위도 단속 대상에 포함했다."
+        },
+        {
+          "t": "p",
+          "x": "온라인 플랫폼이 첫 화면이나 인기 순위에서 비슷한 내용의 작품을 집중적으로 추천하는 관행도 개선하도록 했다."
+        },
+        {
+          "t": "p",
+          "x": "광전총국은 올해 들어 저질·유해 콘텐츠와 저작권 침해 등을 이유로 규정을 위반한 숏폼 드라마 7만5천편을 온라인 플랫폼에서 퇴출하고 관련 계정 1천500여개를 제재했다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "광전총국이 지난 9월 발표한 자료에 따르면 올해 1∼8월 중국에서 출시된 숏폼 드라마는 43만편으로 지난해 전체의 13배에 달했으며 이 가운데 AI 작품이 90% 이상을 차지했다."
+        },
+        {
+          "t": "p",
+          "x": "당국은 이번 특별단속을 통해 온라인 플랫폼의 콘텐츠 관리 책임을 강화하는 한편 우수 작품 제작을 지원해 숏폼 드라마 산업의 질적 성장을 유도하겠다는 방침이다."
+        }
+      ]
+    },
+    "movies/camerimage-2026-ai-opening": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/896255562_1534408348712601_3080537561858593218_n.jpg",
+          "cap": "AI-friendly 감독 Darren Aronofsky가 Camerimage에서 2026 Director Award를 받았다"
+        },
+        {
+          "t": "p",
+          "x": "토요일 막을 올린 제34회 Camerimage Film Festival 개막식에서는 다들 말을 아껴 온 AI 문제가 무대 한가운데를 차지했다. 이 폴란드 영화제는 논쟁을 비켜 가지 않고 정면으로 파고들었다."
+        },
+        {
+          "t": "p",
+          "x": "개막 연설은 영화제 집행위원장 Marek Żydowicz가 아니라 “Edward Warchocki”라는 휴머노이드 로봇이 맡았다. Żydowicz는 Toruń에서 일주일간 이어지는 이번 행사 내내 AI의 “희망과 위협”이 주요 화두가 될 것이라고 했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/892794790_17896401696613369_2625112634376390574_n.jpg",
+          "cap": "Camerimage 개막식에 휴머노이드 로봇 Edward가 등장했다."
+        },
+        {
+          "t": "p",
+          "x": "Francis Ford Coppola, Gal Gadot, Christopher Nolan, Maggie Gyllenhaal, Steven Spielberg, Ben Affleck은 영상 메시지로 AI를 어떻게 보는지 밝혔다. AI 스튜디오 Primordial Soup을 세운 뒤 생성형 AI를 적극 옹호해 온 Darren Aronofsky는 명예 Award for Director를, Janusz Kamiński는 THR의 Visionary Award를 받았다."
+        },
+        {
+          "t": "p",
+          "x": "개막작은 OpenAI 탄생 과정을 그린 Luca Guadagnino 감독의 Artificial이었다. 촬영감독 Malik Hassan Sayeed는 AI를 “다른 모든 것과 마찬가지로 하나의 도구일 뿐”이라고 했다. 이 영화를 35 mm로 찍은 Guadagnino는 진짜 문제가 “테크 과두 세력”에 있다고 말했다. Camerimage는 Nov. 14까지 열린다."
+        }
+      ]
+    },
+    "movies/iqiyi-nadoupro-1938-film": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.unite.ai/wp-content/uploads/2026/11/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow.jpg"
+        },
+        {
+          "t": "p",
+          "x": "iQIYI는 2026년 11월 6일, 여덟 명으로 꾸린 팀이 자사 NadouPro 플랫폼으로 프린트·릴·대본이 모두 사라진 1938년 영화를 재구성했다고 발표했다. 두 달 만에 완성한 단편은 제39회 Golden Rooster Awards의 2026 Future Images AI Unit 후보에 올랐다."
+        },
+        {
+          "t": "p",
+          "x": "Visiting Shanghai after Sixty Years는 90년 가까이 유실됐고, 남은 것은 제작 스틸 사진과 포스터, 신문 스크랩뿐이었다. 이 자료들이 새 버전을 생성할 개념적 길잡이였다. iQIYI의 AI 복원 기술 책임자 Zidong Jiang은 남은 프린트를 복원하기보다 쓸 수 있는 역사 자료로 창의적 재구성을 노렸다고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "팀은 1938년과 1998년의 이야기에서 인물이 흔들리지 않도록 숏을 생성하기 전에 인물별 얼굴 특징·비율·의상을 디지털 에셋으로 고정했다. 위치와 구도, 움직임은 NadouPro의 3D Director Studio로 조정했다. 감독 Enji Yang은 “AI로 어떻게 구현할지 고민하기 전에 영화의 시청각 설계가 먼저여야 한다고 늘 믿는다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "완성된 단편은 역사 자료에 근거한 새로운 해석일 뿐, 유실된 원본 필름을 되찾은 것은 아니다."
+        }
+      ]
+    },
+    "movies/movies-imcore-core-studio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/imcore.jpg?w=1000&h=667&crop=1",
+          "cap": "imcore"
+        },
+        {
+          "t": "p",
+          "x": "대만 기술기업 imCore Corp.는 토요일 타이베이에서 열린 Taiwan Creative Content Fest(TCCF)에서 AI 영화 제작 플랫폼 Core Studio를 선보였다. 각본 개발과 스토리보드에서 이미지 생성, 편집, 색보정까지 제작 전 과정을 아우르려는 플랫폼이다."
+        },
+        {
+          "t": "p",
+          "x": "imCore Corp. 창업자 겸 CEO이자 TWR Entertainment 창업자인 Charles Lee는 “우리 팀은 전문 창작자에게 이미지 생성 도구 이상의 것이 필요하다는 점을 알고 있다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "플랫폼의 중심에는 가상 제작진처럼 움직이는 전문 AI 에이전트 24종 이상이 있다. 스토리 개발, 에셋 생성, 시각효과, 편집, 색보정을 나눠 맡는다. 프리프로덕션에서는 Core Studio의 Story Atlas 도구가 불러온 각본을 신, 숏, 스토리보드로 쪼개고 캐릭터 디자인과 의상, 소품, 목소리 프로필이 흐트러지지 않게 관리한다."
+        },
+        {
+          "t": "p",
+          "x": "AI-generated 결과물마다 어떤 모델과 프롬프트, 파라미터를 썼는지, 비용이 얼마였는지, 사람이 어떻게 검토했는지 기록이 붙는다. Real Engine은 Real Video, Real HDR, Real Revive를 묶어 AI-generated 영상의 디테일을 살리고 색 심도를 8-bit에서 16-bit로 끌어올리며 날아간 하이라이트를 되살린다. 여러 나라의 팀이 클라우드 작업 공간에서 한 프로젝트를 함께 다룰 수도 있다."
+        },
+        {
+          "t": "p",
+          "x": "출시 행사에는 AI-assisted 프로젝트 네 편의 창작자들이 나와 작품을 소개했다. “God Being”을 만든 Jerry Zhou도 그중 한 명이다."
+        }
+      ]
     }
   }
 }

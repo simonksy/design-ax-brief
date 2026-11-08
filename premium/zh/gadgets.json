@@ -10492,6 +10492,160 @@
           "x": "\"它确实有潜力降低空调的总能耗，\"KTH的Björn Palm说。能降多少？这就不太清楚了。Gradient CTO Vincent Romanin持怀疑态度：\"我个人从没用过一款让我觉得好用的带占用传感器的产品。\"在Palm看来，到2050年实现可持续制冷，靠的是紧凑型热泵和天然制冷剂，而不是一台跟着你走进厨房的AC。"
         }
       ]
+    },
+    "gadgets/arm-neural-dawn-framegen": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-game-main-menu-scaled.jpg",
+          "cap": "Robert Triggs / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "Arm与开发商Sumo Digital合作打造了Neural Dawn，这是一款轻量平台跳跃游戏，专为使用Unreal Engine的MegaLights光线追踪照明而设计。它借助Arm的Neural Super Sampling and Denoising（NSSD）和Neural Frame Rate Upscaling（NFRU）在智能手机上运行。游戏需要Arm Mali G2 Ultra NX GPU，因此MediaTek Dimensity 9600 Pro是目前唯一支持它的芯片组。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Screenshot-4.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Arm-Mali-G2-Ultra-neural-accelerator.jpg",
+          "cap": "Arm"
+        },
+        {
+          "t": "p",
+          "x": "NFRU利用GPU上的AI神经网络，为每一帧原生渲染画面生成一帧插值画面，使以30 FPS运行的游戏输出60 FPS。NSSD在放大低分辨率图像的同时（Arm举的例子是从540p到1080p），还负责anti-aliasing以及光线追踪照明的降噪。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Performance-Graph.jpg",
+          "cap": "Robert Triggs / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "在OPPO Find X10 Pro Max上，游戏平均帧率为59.8 FPS，1% low为57.2 FPS，运行约18分钟后温度最高达到37.7°C。代价是：转动镜头时角色周围会出现运动残影，操作偶尔有延迟。作者的结论是，超分辨率是移动设备接近主机和PC级（PC-quality）画质的最佳途径。"
+        }
+      ]
+    },
+    "gadgets/kimi-k3-optane-homelab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Wpdi2avEo8ZBZMremLVgaU-2496-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Reddit上一位家庭实验室玩家，用已停产的第二代Optane PMem 200内存运行了Moonshot AI的2.8-trillion参数AI模型Kimi K3，推理用的是40核第3代Xeon Scalable CPU，而不是GPU。即便采用1-bit量化，速度也只有每秒0.85个token；3-bit量化下为每秒0.75个token。"
+        },
+        {
+          "t": "p",
+          "x": "Kimi K3即便是最小的社区量化版本，也至少需要610GB 的RAM；二手Optane是在家中达到这一容量的少数途径之一，这位玩家称其成本只是同等DRAM的“一小部分”。这台机器以App Direct模式运行Optane。"
+        },
+        {
+          "t": "p",
+          "x": "持续推理时Optane DIMMs会“极其烫”，这位玩家称这可能危及相邻的DRAM。他的建议是：“把主动式DIMM散热视为必须”，并用两个12W 鼓风扇对准模块。Intel给每个模块的额定功率为12W 或15W，温度达到摄氏83度时会降频。"
+        },
+        {
+          "t": "p",
+          "x": "这些数字是调优前的结果。这位玩家计划加装GPUs，并把模型的部分内容载入DRAM，作为更快的一层。"
+        }
+      ]
+    },
+    "gadgets/tomsguide-ai-earbuds-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/dzhSAejg9r2CVeUepQmEaW-2000-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "在Tom's Guide为期三周的投票中，200位读者里只有五位表示会特意寻找耳机的AI功能，仅占总票数的2%。音质以135票位居榜首，ANC以13%排名第二。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Ec4yZr9N8LKMoFzrgJ9ya3.png",
+          "cap": "Tom's Guide / 5of10.com"
+        },
+        {
+          "t": "p",
+          "x": "Anker Soundcore Space 2 Pro的宣传语是“全球首款神经网络存内计算AI音频芯片”，Soundcore应用里也有AI聊天机器人标签页。但Anker表示，Space 2 Pro上的Anka“仅支持通过‘Hey Anka’唤醒，以及基础的语音交互或聊天”；其他功能仍在开发中。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/PAQH7qRotUavbzbRoHmrg.jpg",
+          "cap": "Anker / Future"
+        },
+        {
+          "t": "p",
+          "x": "真正好用的AI是加分项，比如AirPods Max 2或Samsung Galaxy Buds 4 Pro上的Live Translation，以及Soundcore Liberty 5 Pro Max的通话转写。Cambridge Audio在售价$149的Melomania A100 SE上没有加入AI：“我们并不认为在路上听喜欢的音乐时需要它。”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/JrpSckBC4M5g9ugniCMYsd.jpg",
+          "cap": "Tom's Guide"
+        }
+      ]
+    },
+    "gadgets/underdog-woof-32mb": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.02.34-PM.jpg?resize=1200,542"
+        },
+        {
+          "t": "p",
+          "x": "AI公司竞相打造需要海量算力的更大模型，而一些研究人员和初创公司则在开发能在手机、电脑等边缘设备上运行的小模型。"
+        },
+        {
+          "t": "p",
+          "x": "初创公司Underdog就是其中之一，它发布了一款用新语音模型Woof打造的游戏，而Woof的体积只有32MB。游戏里有一个复古科技风格的房间、一台打字机和一台CRT显示器；开场介绍提醒用户提防镇上“侵扰性”的云服务商——显然是在调侃云端模型。"
+        },
+        {
+          "t": "p",
+          "x": "你可以在打字机上输入任何内容，游戏会把它念出来；也可以转动调谐旋钮，生成不同类型的音乐。这一切都借助Underdog的语音生成模型在浏览器内运行，公司称该模型无需联网即可在大多数设备上运行。模型有3100万个参数，向所有人开放下载。"
+        },
+        {
+          "t": "p",
+          "x": "几周前，Underdog刚推出Bark，这是一款167MB 的语音转文字模型，用于在边缘设备上转录和听写。创始人Sigil Wen对TechCrunch表示：“我们只想训练最好的开放模型——American-made、开放、能力强，并让人们拥有私有AI。”"
+        },
+        {
+          "t": "p",
+          "x": "Underdog还发布了一款可在笔记本电脑上运行的27-billion-parameter模型，以及一款需排队等候的应用，定位为Muse和Instinct的本地托管替代品。"
+        }
+      ]
+    },
+    "gadgets/raycast-mac-dictate-screen": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/raycast-dictate-ai.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "继近期推出Screen Awareness之后，Raycast本周又迎来一项有趣的更新：用户无需解释上下文，就能就屏幕上的任何内容与AI对话。"
+        },
+        {
+          "t": "p",
+          "x": "Raycast在八月发布了Screen Awareness，让用户可以把当前应用或窗口中的上下文直接带入AI Chat。Raycast表示，“这样你就不必复制文本、附上截图，或解释你正在看什么”。"
+        },
+        {
+          "t": "p",
+          "x": "本周，Raycast推出新命令Dictate to AI，将这一功能又推进了一步：用户可以用语音说出请求，同时自动向AI提供当前应用的上下文。"
+        },
+        {
+          "t": "p",
+          "x": "Raycast指出，此次版本还包括：全新的Dictation AI扩展，可在AI Chat中使用转写内容、管理风格并获得反馈；在Mac上新增用于追踪AI用量的菜单栏命令（Settings → AI → Show AI Usage in Menu Bar）；以及在Mac上新增Contacts AI扩展，可在AI Chat中搜索、创建、更新和删除联系人。"
+        },
+        {
+          "t": "p",
+          "x": "Raycast还提到了近期的其他更新和新增功能：Raycast Notes现已支持图片，并向免费用户开放无限笔记；Mac应用获得多项性能改进，包括更快的搜索和更低的内存占用。与此同时，iOS版Raycast推出了配备AI-powered写作工具的新键盘，Cloud Sync功能也得到改进。"
+        },
+        {
+          "t": "p",
+          "x": "Windows用户同样有所收获：Screen Awareness新增命令，可将单个元素或整个窗口发送到AI Chat。如需了解Raycast v2.11的更多信息，请点击此链接。"
+        }
+      ]
     }
   }
 }

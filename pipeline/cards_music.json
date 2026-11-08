@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "section": "music",
   "cards": [
     {
-      "id": "elvis-suno-voice-clone-suit",
+      "id": "music-engadget-ai-ear-signs",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Elvis 권리 보유사\nSuno에 AI 음성 소송",
-      "body": "Elvis Presley 측은 Suno의 음성 복제 허용을 초상권 침해로 본다.",
-      "mini_headline": "Elvis 측, Suno 고소",
+      "headline": "AI-made 곡을\n귀로 가려내는 법",
+      "body": "Engadget이 보컬·가사·반주에서 들을 대목과 실존 아티스트 확인법을 정리했다.",
+      "mini_headline": "AI 곡의 징후",
       "tool": "Music",
-      "source": "Billboard",
-      "url": "https://www.billboard.com/pro/elvis-presley-ai-voice-cloning-lawsuit-suno/",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2308062/ai-music-difficult-to-detect-telltale-signs/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -19,155 +19,221 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.billboard.com/wp-content/uploads/2026/03/elvis-presley-1956-billboard-1800.jpg?w=942&h=628&crop=1",
-            "cap": "April 1956, 21세의 Elvis Presley."
+            "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/intro-1793895779.jpg"
           },
           {
             "t": "p",
-            "x": "Elvis Presley의 지식재산권을 가진 측이 AI 음악 기업 Suno에 새 소송을 걸었다. Suno가 로큰롤의 제왕(King of Rock ‘n’ Roll)의 목소리를 훔쳐 초상권을 침해했다는 것이다. Authentic Brands Group 산하 Elvis Presley Enterprises가 금요일(Nov. 6) 낸 소장에는 앞서 Anthropic을 상대로 낸 소송과 비슷한 저작권 침해 주장도 들어 있다."
+            "x": "AI 음악은 실제로 골칫거리다. Suno-generated 저질 콘텐츠가 스트리밍 플랫폼을 메웠고, 실존 아티스트 이름으로 잘못 올라오는 일도 있다. 한편 “AI 같다”는 말은 성급한 단정을 부르는 멸칭이 됐다. 실제로 AI를 가리키는 신호를 정리하면 이렇다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/signs-of-ai-use-in-music-1793895781.jpg"
           },
           {
             "t": "p",
-            "x": "Tennessee주 ELVIS Act에 따른 첫 주요 소송 가운데 하나다. 이 법은 음성·이미지 복제를 가능하게 하는 기술 기업까지 소송 대상으로 삼는다. 소장은 사용자가 실존 아티스트를 프롬프트로 지정할 수 없다는 Suno의 주장을 “명백한 거짓”이라고 반박했다. 지난달까지도 Suno가 그의 이름이 들어간 가사로 Elvis 복제 음성을 만들어 냈다는 것이다."
+            "x": "“AI 음악”은 AI-generated 반주나 보컬, 가사, 또는 그 셋 모두일 수 있고 보컬 필터 같은 작은 요소일 수도 있다. 가장 잡아내기 쉬운 쪽은 아마 보컬이다. 가사를 음악에 억지로 맞추느라 뭉개지거나 떨리는 목소리, 어색한 강세, 자연스러운 흠 하나 없는 소리, 거의 변하지 않는 억양을 들어 보면 된다."
           },
           {
             "t": "p",
-            "x": "Suno는 특정 아티스트의 이름과 곡을 프롬프트로 쓰지 못하게 막고 업로드된 오디오와 가사도 걸러낸다고 밝혔다. 같은 금요일, 같은 변호인단은 Eminem 카탈로그의 상당 부분을 가진 퍼블리셔 Eight Mile Style을 대리해 Suno에 또 다른 소송을 냈다."
+            "x": "구조와 반주도 단조로운 편이어서 다이내믹 변화, 조바꿈, 흥미로운 브리지, non-Western 악기가 보이지 않는다. AI 음악 상당수는 Imagine Dragons나 Taylor Swift를 떠올리게 한다. 가사에서는 은유와 직유가 부족한지, 표현이 어색한지, 전체를 꿰는 주제 없이 같은 이미지만 되풀이하는지 살핀다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/external-signs-of-an-ai-artist-1793895783.jpg"
+          },
+          {
+            "t": "p",
+            "x": "다음은 맥락이다. Spotify의 Artist Profile Protection이나 Deezer의 AI 음악 탐지기에 걸렸다면 대체로 확증으로 봐도 되지만, Bandcamp는 실제 음악을 잘못 표시한 적이 가끔 있다. 간단히 검색해 라이브 공연, 소셜 프로필, 인터뷰가 나와야 정상이다. 온라인 흔적 없는 아티스트가 AI-generated 커버 이미지를 단 곡을 쏟아낸다면 콘텐츠 농장일 공산이 크다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Elvis rights owners sue Suno\nover AI voice cloning",
-          "body": "Elvis Presley's rights owners say Suno broke his likeness rights by letting users clone his famous voice.",
-          "mini_headline": "Elvis estate sues Suno",
+          "headline": "How to hear the signs\nof an AI-made track",
+          "body": "Engadget lists what to listen for in vocals, lyrics and instrumentals, plus quick checks on whether an artist is real.",
+          "mini_headline": "Signs of an AI track",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/03/elvis-presley-1956-billboard-1800.jpg?w=942&h=628&crop=1",
-                "cap": "Elvis Presley, 21, seen in April 1956."
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/intro-1793895779.jpg"
               },
               {
                 "t": "p",
-                "x": "The owners of Elvis Presley’s intellectual property are suing Suno in a new lawsuit that claims the AI music company violated the King of Rock ‘n’ Roll’s likeness rights by stealing his voice. Filed Friday (Nov. 6) by Elvis Presley Enterprises, a unit of Authentic Brands Group, the case also levels copyright accusations similar to its earlier suit against Anthropic."
+                "x": "AI music is a real problem: Suno-generated slop has filled streaming platforms, sometimes falsely attributed to real artists. At the same time, \"feels like AI\" has become a pejorative that leads some to jump the gun. Here's what actually points to AI."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/signs-of-ai-use-in-music-1793895781.jpg"
               },
               {
                 "t": "p",
-                "x": "It is one of the first major cases under Tennessee’s ELVIS Act, which also allows lawsuits against tech firms that enable voice and image cloning. The complaint says Suno’s claim that users can’t prompt for real artists is “unequivocally false,” and that as recently as last month Suno generated an Elvis clone from lyrics that included his name."
+                "x": "\"AI music\" can mean AI-generated instrumentals, vocals, lyrics or all three, or a smaller element like a vocal filter. Vocals are probably the easiest to catch: listen for a slurred or warbled voice that strains the lyrics to fit the music, odd emphasis, no natural imperfections, and inflection that rarely changes."
               },
               {
                 "t": "p",
-                "x": "Suno said it does not allow prompts for specific artists’ names and songs and screens uploaded audio and lyrics. Separately on Friday, the same attorneys filed another case against Suno on behalf of Eight Mile Style, a publisher that owns much of Eminem’s catalog."
+                "x": "Structure and instrumentals tend to be just as monotonous, lacking dynamic shifts, key changes, interesting bridges or non-Western instruments; much AI music is reminiscent of Imagine Dragons or Taylor Swift. In lyrics, watch for a lack of metaphor and simile, awkward phrasing, no overarching theme, and repeated imagery."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/external-signs-of-an-ai-artist-1793895783.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Then check the context. A flag from Spotify's Artist Profile Protection or Deezer's AI music detector generally serves as confirmation, though Bandcamp has occasionally flagged real music by mistake. A quick search should reveal live performances, social profiles and interviews; an artist with no online presence releasing a glut of songs with AI-generated covers is probably a content farm."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Elvis 권리 보유사\nSuno에 AI 음성 소송",
-          "body": "Elvis Presley 측은 Suno의 음성 복제 허용을 초상권 침해로 본다.",
-          "mini_headline": "Elvis 측, Suno 고소",
+          "headline": "AI-made 곡을\n귀로 가려내는 법",
+          "body": "Engadget이 보컬·가사·반주에서 들을 대목과 실존 아티스트 확인법을 정리했다.",
+          "mini_headline": "AI 곡의 징후",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/03/elvis-presley-1956-billboard-1800.jpg?w=942&h=628&crop=1",
-                "cap": "April 1956, 21세의 Elvis Presley."
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/intro-1793895779.jpg"
               },
               {
                 "t": "p",
-                "x": "Elvis Presley의 지식재산권을 가진 측이 AI 음악 기업 Suno에 새 소송을 걸었다. Suno가 로큰롤의 제왕(King of Rock ‘n’ Roll)의 목소리를 훔쳐 초상권을 침해했다는 것이다. Authentic Brands Group 산하 Elvis Presley Enterprises가 금요일(Nov. 6) 낸 소장에는 앞서 Anthropic을 상대로 낸 소송과 비슷한 저작권 침해 주장도 들어 있다."
+                "x": "AI 음악은 실제로 골칫거리다. Suno-generated 저질 콘텐츠가 스트리밍 플랫폼을 메웠고, 실존 아티스트 이름으로 잘못 올라오는 일도 있다. 한편 “AI 같다”는 말은 성급한 단정을 부르는 멸칭이 됐다. 실제로 AI를 가리키는 신호를 정리하면 이렇다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/signs-of-ai-use-in-music-1793895781.jpg"
               },
               {
                 "t": "p",
-                "x": "Tennessee주 ELVIS Act에 따른 첫 주요 소송 가운데 하나다. 이 법은 음성·이미지 복제를 가능하게 하는 기술 기업까지 소송 대상으로 삼는다. 소장은 사용자가 실존 아티스트를 프롬프트로 지정할 수 없다는 Suno의 주장을 “명백한 거짓”이라고 반박했다. 지난달까지도 Suno가 그의 이름이 들어간 가사로 Elvis 복제 음성을 만들어 냈다는 것이다."
+                "x": "“AI 음악”은 AI-generated 반주나 보컬, 가사, 또는 그 셋 모두일 수 있고 보컬 필터 같은 작은 요소일 수도 있다. 가장 잡아내기 쉬운 쪽은 아마 보컬이다. 가사를 음악에 억지로 맞추느라 뭉개지거나 떨리는 목소리, 어색한 강세, 자연스러운 흠 하나 없는 소리, 거의 변하지 않는 억양을 들어 보면 된다."
               },
               {
                 "t": "p",
-                "x": "Suno는 특정 아티스트의 이름과 곡을 프롬프트로 쓰지 못하게 막고 업로드된 오디오와 가사도 걸러낸다고 밝혔다. 같은 금요일, 같은 변호인단은 Eminem 카탈로그의 상당 부분을 가진 퍼블리셔 Eight Mile Style을 대리해 Suno에 또 다른 소송을 냈다."
+                "x": "구조와 반주도 단조로운 편이어서 다이내믹 변화, 조바꿈, 흥미로운 브리지, non-Western 악기가 보이지 않는다. AI 음악 상당수는 Imagine Dragons나 Taylor Swift를 떠올리게 한다. 가사에서는 은유와 직유가 부족한지, 표현이 어색한지, 전체를 꿰는 주제 없이 같은 이미지만 되풀이하는지 살핀다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/external-signs-of-an-ai-artist-1793895783.jpg"
+              },
+              {
+                "t": "p",
+                "x": "다음은 맥락이다. Spotify의 Artist Profile Protection이나 Deezer의 AI 음악 탐지기에 걸렸다면 대체로 확증으로 봐도 되지만, Bandcamp는 실제 음악을 잘못 표시한 적이 가끔 있다. 간단히 검색해 라이브 공연, 소셜 프로필, 인터뷰가 나와야 정상이다. 온라인 흔적 없는 아티스트가 AI-generated 커버 이미지를 단 곡을 쏟아낸다면 콘텐츠 농장일 공산이 크다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Elvis側がSunoを提訴\nAI音声クローンを巡り",
-          "body": "Elvis Presleyの権利者は、Sunoが声の複製を許し肖像権を侵害したと主張する。",
-          "mini_headline": "Elvis側、Sunoを提訴",
+          "headline": "AI-made曲を\n聞き分ける方法",
+          "body": "Engadgetが、歌声・歌詞・伴奏で聴くべき点と、実在アーティストかの確認法をまとめた。",
+          "mini_headline": "AI曲の見分け方",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/03/elvis-presley-1956-billboard-1800.jpg?w=942&h=628&crop=1",
-                "cap": "April 1956、21歳のElvis Presley。"
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/intro-1793895779.jpg"
               },
               {
                 "t": "p",
-                "x": "Elvis Presleyの知的財産権を保有する側が、AI音楽企業Sunoを相手取り新たな訴訟を起こした。Sunoが「キング・オブ・ロックンロール」（King of Rock ‘n’ Roll）の声を盗み、肖像権を侵害したと訴えている。Authentic Brands Group傘下のElvis Presley Enterprisesが金曜日（Nov. 6）に提起したこの訴訟は、以前Anthropicを相手取った訴訟と同様の著作権侵害も主張している。"
+                "x": "AI音楽は現実の問題だ。Suno-generatedの粗製コンテンツがストリーミングプラットフォームにあふれ、ときに実在アーティストの作品と偽って掲載されている。同時に「AIっぽい」は軽蔑語となり、早まった判断を招くこともある。ここでは、実際にAIを示す兆候を挙げる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/signs-of-ai-use-in-music-1793895781.jpg"
               },
               {
                 "t": "p",
-                "x": "これはTennessee州のELVIS Actに基づく初期の主要訴訟の一つで、同法は声や画像の複製を可能にするテック企業への訴訟も認めている。訴状は、ユーザーが実在のアーティストを指定してプロンプトできないというSunoの主張を「明白な虚偽」とし、先月にもSunoがElvisの名前を含む歌詞からElvisのクローン音声を生成したと指摘する。"
+                "x": "「AI音楽」とは、AI-generatedの伴奏、ボーカル、歌詞、またはその三つすべてを指すこともあれば、ボーカルフィルターのような小さな要素を指すこともある。最も見抜きやすいのはおそらくボーカルだ。歌詞を無理に曲に合わせようとして不明瞭になったり震えたりする声、不自然なアクセント、自然な不完全さの欠如、ほとんど変化しない抑揚に耳を傾けたい。"
               },
               {
                 "t": "p",
-                "x": "Sunoは、特定アーティストの名前や楽曲を指定するプロンプトは認めておらず、アップロードされた音声と歌詞も審査していると説明した。同じ金曜日、同じ弁護士団はEminemのカタログの多くを保有する出版社Eight Mile Styleの代理として、Sunoを相手取る別の訴訟も起こした。"
+                "x": "構成や伴奏も同様に単調になりがちで、ダイナミクスの変化、転調、面白いブリッジ、non-Westernの楽器が見られない。多くのAI音楽はImagine DragonsやTaylor Swiftを思わせる。歌詞では、隠喩や直喩の乏しさ、ぎこちない言い回し、全体を貫くテーマの欠如、繰り返されるイメージに注意したい。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/external-signs-of-an-ai-artist-1793895783.jpg"
+              },
+              {
+                "t": "p",
+                "x": "次に文脈を確認する。SpotifyのArtist Profile ProtectionやDeezerのAI音楽検出ツールによるフラグは概ね裏付けになるが、Bandcampは実在の音楽を誤ってフラグ付けしたこともある。簡単に検索すれば、ライブ演奏、SNSのプロフィール、インタビューが見つかるはずだ。ネット上に存在感がないのにAI-generatedのカバーアートを付けた曲を大量に出すアーティストは、おそらくコンテンツファームだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Elvis权利方起诉Suno\n指其AI克隆嗓音",
-          "body": "Elvis Presley的权利方称，Suno让用户克隆其标志性嗓音，侵犯了他的肖像权。",
-          "mini_headline": "Elvis遗产方起诉Suno",
+          "headline": "怎样听出一首歌\n是AI-made的",
+          "body": "Engadget列出了人声、歌词和伴奏中值得留意之处，以及核实艺人是否真实存在的方法。",
+          "mini_headline": "AI歌曲的迹象",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/03/elvis-presley-1956-billboard-1800.jpg?w=942&h=628&crop=1",
-                "cap": "April 1956，21岁的Elvis Presley。"
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/intro-1793895779.jpg"
               },
               {
                 "t": "p",
-                "x": "Elvis Presley知识产权的所有方对AI音乐公司Suno提起新诉讼，称其窃取“摇滚之王”（King of Rock ‘n’ Roll）的嗓音，侵犯了他的肖像权。该诉讼由Authentic Brands Group旗下的Elvis Presley Enterprises于周五（Nov. 6）提起，还提出了与此前起诉Anthropic案类似的版权指控。"
+                "x": "AI音乐确实是个问题：Suno-generated的劣质内容已充斥各大流媒体平台，有时还被错误地挂在真实艺人名下。与此同时，“感觉像AI”已成为一种贬义说法，让一些人过早下结论。以下才是真正指向AI的迹象。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/signs-of-ai-use-in-music-1793895781.jpg"
               },
               {
                 "t": "p",
-                "x": "这是依据Tennessee州ELVIS Act提起的首批重大案件之一，该法也允许起诉为声音和形象克隆提供便利的科技公司。诉状称，Suno所谓用户无法以真实艺人作为提示词的说法“毫无疑问是虚假的”，并指出就在上个月，Suno还根据含有Elvis名字的歌词生成了Elvis的克隆声音。"
+                "x": "“AI音乐”可能指AI-generated的伴奏、人声、歌词或三者兼有，也可能只是人声滤镜这类较小的元素。人声大概最容易识别：留意那些为了让歌词贴合音乐而含糊或颤抖的嗓音、怪异的重音、缺乏自然的瑕疵，以及几乎不变的语调。"
               },
               {
                 "t": "p",
-                "x": "Suno表示，平台不允许以特定艺人的名字和歌曲作为提示词，并会筛查上传的音频和歌词。同样在周五，同一批律师还代表拥有Eminem大部分曲目目录的出版商Eight Mile Style，对Suno提起了另一起诉讼。"
+                "x": "结构和伴奏往往同样单调，缺少动态变化、转调、有趣的桥段或non-Western乐器；许多AI音乐让人想起Imagine Dragons或Taylor Swift。歌词方面，要注意缺少隐喻和明喻、措辞生硬、没有贯穿全曲的主题以及意象重复。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/external-signs-of-an-ai-artist-1793895783.jpg"
+              },
+              {
+                "t": "p",
+                "x": "接下来要核查背景。Spotify的Artist Profile Protection或Deezer的AI音乐检测器给出的标记通常可作为确认，不过Bandcamp偶尔也会误标真实音乐。简单搜索一下，应能找到现场演出、社交账号和采访；一个在网上毫无踪迹、却用AI-generated封面大量发歌的艺人，很可能是内容农场。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los dueños de Elvis demandan\na Suno por clonar su voz con AI",
-          "body": "Los titulares de los derechos de Elvis Presley afirman que Suno vulneró su imagen al dejar clonar su famosa voz.",
-          "mini_headline": "El patrimonio de Elvis demanda a Suno",
+          "headline": "Cómo detectar de oído\nun tema AI-made",
+          "body": "Engadget explica qué escuchar en voces, letras e instrumentales, y cómo comprobar rápido si un artista es real.",
+          "mini_headline": "Señales de un tema hecho con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/03/elvis-presley-1956-billboard-1800.jpg?w=942&h=628&crop=1",
-                "cap": "Elvis Presley, a los 21 años, en abril de 1956."
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/intro-1793895779.jpg"
               },
               {
                 "t": "p",
-                "x": "Los titulares de la propiedad intelectual de Elvis Presley demandan a Suno en un nuevo pleito que acusa a la empresa de música con AI de vulnerar los derechos de imagen del Rey del Rock and Roll (King of Rock ‘n’ Roll) al robar su voz. Presentada el viernes (6 de noviembre) por Elvis Presley Enterprises, filial de Authentic Brands Group, la demanda también incluye acusaciones de infracción de copyright similares a las de su demanda anterior contra Anthropic."
+                "x": "La música con AI es un problema real: la basura generada con Suno (Suno-generated) ha llenado las plataformas de streaming, a veces atribuida falsamente a artistas reales. Al mismo tiempo, “suena a AI” se ha convertido en un término despectivo que lleva a algunos a precipitarse. Esto es lo que de verdad apunta a la AI."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/signs-of-ai-use-in-music-1793895781.jpg"
               },
               {
                 "t": "p",
-                "x": "Es uno de los primeros casos importantes bajo la ELVIS Act de Tennessee, que también permite demandar a las tecnológicas que facilitan la clonación de voz e imagen. La demanda sostiene que la afirmación de Suno de que los usuarios no pueden pedir artistas reales es “inequívocamente falsa”, y que el mes pasado Suno generó un clon de Elvis a partir de una letra que incluía su nombre."
+                "x": "La “música con AI” puede referirse a instrumentales, voces o letras generados con AI (AI-generated), o a los tres, o a un elemento menor como un filtro vocal. Las voces son probablemente lo más fácil de detectar: hay que prestar atención a una voz arrastrada o temblorosa que fuerza la letra para encajarla en la música, a acentos extraños, a la ausencia de imperfecciones naturales y a una entonación que apenas cambia."
               },
               {
                 "t": "p",
-                "x": "Suno afirmó que no permite instrucciones con nombres y canciones de artistas concretos y que filtra el audio y las letras que se suben. Por separado, el viernes, los mismos abogados presentaron otra demanda contra Suno en nombre de Eight Mile Style, una editorial que posee gran parte del catálogo de Eminem."
+                "x": "La estructura y los instrumentales suelen ser igual de monótonos, sin cambios dinámicos, modulaciones, puentes interesantes ni instrumentos no occidentales (non-Western); mucha música con AI recuerda a Imagine Dragons o Taylor Swift. En las letras, conviene fijarse en la falta de metáforas y símiles, las frases torpes, la ausencia de un tema general y las imágenes repetidas."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/external-signs-of-an-ai-artist-1793895783.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Después, hay que revisar el contexto. Una alerta de Artist Profile Protection de Spotify o del detector de música con AI de Deezer suele servir de confirmación, aunque Bandcamp ha marcado por error música real en alguna ocasión. Una búsqueda rápida debería mostrar actuaciones en directo, perfiles en redes sociales y entrevistas; un artista sin presencia en internet que publica un aluvión de canciones con portadas generadas con AI (AI-generated) es probablemente una granja de contenido."
               }
             ]
           }
@@ -175,109 +241,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Elvis 권리 보유사\nSuno에 AI 음성 소송",
-          "body": "Elvis Presley 측은 Suno의 음성 복제 허용이 초상권 침해라고 본다.",
-          "mini_headline": "Elvis 측, Suno 고소",
+          "headline": "AI-made 곡을\n귀로 가려내는 법",
+          "body": "Engadget이 보컬·가사·반주에서 들을 점과 실존 아티스트 확인법을 정리했다.",
+          "mini_headline": "AI 곡의 징후",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/03/elvis-presley-1956-billboard-1800.jpg?w=942&h=628&crop=1",
-                "cap": "April 1956, 21세의 Elvis Presley."
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/intro-1793895779.jpg"
               },
               {
                 "t": "p",
-                "x": "Elvis Presley의 지식재산권을 보유한 측이 AI 음악 기업 Suno를 상대로 새 소송을 냈다. Suno가 로큰롤의 제왕(King of Rock ‘n’ Roll)의 목소리를 훔쳐 초상권을 침해했다는 주장이다. Authentic Brands Group 산하 Elvis Presley Enterprises가 금요일(Nov. 6) 제기한 이번 소송에는 앞서 Anthropic을 상대로 낸 소송과 비슷한 저작권 침해 주장도 담겼다."
+                "x": "AI 음악은 실제로 문제다. Suno-generated 저질 콘텐츠가 스트리밍 플랫폼을 채웠고, 때로는 실존 아티스트의 이름으로 잘못 올라오기도 한다. 동시에 “AI 같다”는 말은 성급한 단정으로 이어지는 멸칭이 됐다. 실제로 AI를 가리키는 신호는 다음과 같다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/signs-of-ai-use-in-music-1793895781.jpg"
               },
               {
                 "t": "p",
-                "x": "이번 사건은 Tennessee주 ELVIS Act에 따른 첫 주요 소송 가운데 하나다. 이 법은 음성·이미지 복제를 가능하게 하는 기술 기업을 상대로 한 소송도 허용한다. 소장은 사용자가 실존 아티스트를 프롬프트로 지정할 수 없다는 Suno의 주장이 “명백한 거짓”이라며, 지난달까지도 Suno가 그의 이름이 들어간 가사로 Elvis 복제 음성을 만들어 냈다고 밝혔다."
+                "x": "“AI 음악”은 AI-generated 반주나 보컬, 가사 또는 그 셋 모두를 뜻할 수도 있고, 보컬 필터 같은 작은 요소를 뜻할 수도 있다. 가장 잡아내기 쉬운 것은 아마 보컬이다. 가사를 음악에 억지로 맞추느라 뭉개지거나 떨리는 목소리, 어색한 강세, 자연스러운 흠이 없는 소리, 거의 변하지 않는 억양에 귀를 기울이면 된다."
               },
               {
                 "t": "p",
-                "x": "Suno는 특정 아티스트의 이름과 곡을 프롬프트로 쓰는 것을 허용하지 않으며, 업로드된 오디오와 가사도 걸러낸다고 밝혔다. 같은 금요일, 같은 변호인단은 Eminem 카탈로그의 상당 부분을 보유한 퍼블리셔 Eight Mile Style을 대리해 Suno를 상대로 또 다른 소송을 냈다."
+                "x": "구조와 반주도 마찬가지로 단조로운 경향이 있어 다이내믹의 변화, 조바꿈, 흥미로운 브리지, non-Western 악기가 없다. 상당수 AI 음악은 Imagine Dragons나 Taylor Swift를 떠올리게 한다. 가사에서는 은유와 직유의 부족, 어색한 표현, 전체를 꿰는 주제의 부재, 반복되는 이미지를 살펴야 한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/external-signs-of-an-ai-artist-1793895783.jpg"
+              },
+              {
+                "t": "p",
+                "x": "그다음에는 맥락을 확인한다. Spotify의 Artist Profile Protection이나 Deezer의 AI 음악 탐지기가 표시했다면 대체로 확증으로 볼 수 있지만, Bandcamp는 가끔 실제 음악을 잘못 표시하기도 했다. 간단히 검색하면 라이브 공연, 소셜 프로필, 인터뷰가 나와야 한다. 온라인 흔적이 없는 아티스트가 AI-generated 커버 이미지를 단 곡을 쏟아낸다면 콘텐츠 농장일 가능성이 높다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Elvis側がSunoを提訴\nAI音声クローンを巡り",
-          "body": "Elvis Presleyの権利者は、Sunoが声の複製を許し肖像権を侵害したと主張する。",
-          "mini_headline": "Elvis側、Sunoを提訴",
+          "headline": "AI-made曲を\n聞き分ける方法",
+          "body": "Engadgetが、歌声・歌詞・伴奏で聴くべき点と、実在アーティストかの確認法をまとめた。",
+          "mini_headline": "AI曲の見分け方",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/03/elvis-presley-1956-billboard-1800.jpg?w=942&h=628&crop=1",
-                "cap": "April 1956、21歳のElvis Presley。"
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/intro-1793895779.jpg"
               },
               {
                 "t": "p",
-                "x": "Elvis Presleyの知的財産権を保有する側が、AI音楽企業Sunoを相手取り新たな訴訟を起こした。Sunoが「キング・オブ・ロックンロール」（King of Rock ‘n’ Roll）の声を盗み、肖像権を侵害したと訴えている。Authentic Brands Group傘下のElvis Presley Enterprisesが金曜日（Nov. 6）に提起したこの訴訟は、以前Anthropicを相手取った訴訟と同様の著作権侵害も主張している。"
+                "x": "AI音楽は現実の問題だ。Suno-generatedの粗製コンテンツがストリーミングプラットフォームにあふれ、ときに実在アーティストの作品と偽って掲載されている。同時に「AIっぽい」は軽蔑語となり、早まった判断を招くこともある。ここでは、実際にAIを示す兆候を挙げる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/signs-of-ai-use-in-music-1793895781.jpg"
               },
               {
                 "t": "p",
-                "x": "これはTennessee州のELVIS Actに基づく初期の主要訴訟の一つで、同法は声や画像の複製を可能にするテック企業への訴訟も認めている。訴状は、ユーザーが実在のアーティストを指定してプロンプトできないというSunoの主張を「明白な虚偽」とし、先月にもSunoがElvisの名前を含む歌詞からElvisのクローン音声を生成したと指摘する。"
+                "x": "「AI音楽」とは、AI-generatedの伴奏、ボーカル、歌詞、またはその三つすべてを指すこともあれば、ボーカルフィルターのような小さな要素を指すこともある。最も見抜きやすいのはおそらくボーカルだ。歌詞を無理に曲に合わせようとして不明瞭になったり震えたりする声、不自然なアクセント、自然な不完全さの欠如、ほとんど変化しない抑揚に耳を傾けたい。"
               },
               {
                 "t": "p",
-                "x": "Sunoは、特定アーティストの名前や楽曲を指定するプロンプトは認めておらず、アップロードされた音声と歌詞も審査していると説明した。同じ金曜日、同じ弁護士団はEminemのカタログの多くを保有する出版社Eight Mile Styleの代理として、Sunoを相手取る別の訴訟も起こした。"
+                "x": "構成や伴奏も同様に単調になりがちで、ダイナミクスの変化、転調、面白いブリッジ、non-Westernの楽器が見られない。多くのAI音楽はImagine DragonsやTaylor Swiftを思わせる。歌詞では、隠喩や直喩の乏しさ、ぎこちない言い回し、全体を貫くテーマの欠如、繰り返されるイメージに注意したい。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/external-signs-of-an-ai-artist-1793895783.jpg"
+              },
+              {
+                "t": "p",
+                "x": "次に文脈を確認する。SpotifyのArtist Profile ProtectionやDeezerのAI音楽検出ツールによるフラグは概ね裏付けになるが、Bandcampは実在の音楽を誤ってフラグ付けしたこともある。簡単に検索すれば、ライブ演奏、SNSのプロフィール、インタビューが見つかるはずだ。ネット上に存在感がないのにAI-generatedのカバーアートを付けた曲を大量に出すアーティストは、おそらくコンテンツファームだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Elvis权利方起诉Suno\n指其AI克隆嗓音",
-          "body": "Elvis Presley的权利方称，Suno让用户克隆其标志性嗓音，侵犯了他的肖像权。",
-          "mini_headline": "Elvis遗产方起诉Suno",
+          "headline": "怎样听出一首歌\n是AI-made的",
+          "body": "Engadget列出了人声、歌词和伴奏中值得留意之处，以及核实艺人是否真实存在的方法。",
+          "mini_headline": "AI歌曲的迹象",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/03/elvis-presley-1956-billboard-1800.jpg?w=942&h=628&crop=1",
-                "cap": "April 1956，21岁的Elvis Presley。"
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/intro-1793895779.jpg"
               },
               {
                 "t": "p",
-                "x": "Elvis Presley知识产权的所有方对AI音乐公司Suno提起新诉讼，称其窃取“摇滚之王”（King of Rock ‘n’ Roll）的嗓音，侵犯了他的肖像权。该诉讼由Authentic Brands Group旗下的Elvis Presley Enterprises于周五（Nov. 6）提起，还提出了与此前起诉Anthropic案类似的版权指控。"
+                "x": "AI音乐确实是个问题：Suno-generated的劣质内容已充斥各大流媒体平台，有时还被错误地挂在真实艺人名下。与此同时，“感觉像AI”已成为一种贬义说法，让一些人过早下结论。以下才是真正指向AI的迹象。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/signs-of-ai-use-in-music-1793895781.jpg"
               },
               {
                 "t": "p",
-                "x": "这是依据Tennessee州ELVIS Act提起的首批重大案件之一，该法也允许起诉为声音和形象克隆提供便利的科技公司。诉状称，Suno所谓用户无法以真实艺人作为提示词的说法“毫无疑问是虚假的”，并指出就在上个月，Suno还根据含有Elvis名字的歌词生成了Elvis的克隆声音。"
+                "x": "“AI音乐”可能指AI-generated的伴奏、人声、歌词或三者兼有，也可能只是人声滤镜这类较小的元素。人声大概最容易识别：留意那些为了让歌词贴合音乐而含糊或颤抖的嗓音、怪异的重音、缺乏自然的瑕疵，以及几乎不变的语调。"
               },
               {
                 "t": "p",
-                "x": "Suno表示，平台不允许以特定艺人的名字和歌曲作为提示词，并会筛查上传的音频和歌词。同样在周五，同一批律师还代表拥有Eminem大部分曲目目录的出版商Eight Mile Style，对Suno提起了另一起诉讼。"
+                "x": "结构和伴奏往往同样单调，缺少动态变化、转调、有趣的桥段或non-Western乐器；许多AI音乐让人想起Imagine Dragons或Taylor Swift。歌词方面，要注意缺少隐喻和明喻、措辞生硬、没有贯穿全曲的主题以及意象重复。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/external-signs-of-an-ai-artist-1793895783.jpg"
+              },
+              {
+                "t": "p",
+                "x": "接下来要核查背景。Spotify的Artist Profile Protection或Deezer的AI音乐检测器给出的标记通常可作为确认，不过Bandcamp偶尔也会误标真实音乐。简单搜索一下，应能找到现场演出、社交账号和采访；一个在网上毫无踪迹、却用AI-generated封面大量发歌的艺人，很可能是内容农场。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los dueños de Elvis demandan\na Suno por clonar su voz con AI",
-          "body": "Los titulares de los derechos de Elvis Presley afirman que Suno vulneró su imagen al dejar clonar su famosa voz.",
-          "mini_headline": "El patrimonio de Elvis demanda a Suno",
+          "headline": "Cómo detectar de oído\nun tema AI-made",
+          "body": "Engadget explica qué escuchar en voces, letras e instrumentales, y cómo comprobar rápido si un artista es real.",
+          "mini_headline": "Señales de un tema hecho con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/03/elvis-presley-1956-billboard-1800.jpg?w=942&h=628&crop=1",
-                "cap": "Elvis Presley, a los 21 años, en abril de 1956."
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/intro-1793895779.jpg"
               },
               {
                 "t": "p",
-                "x": "Los titulares de la propiedad intelectual de Elvis Presley demandan a Suno en un nuevo pleito que acusa a la empresa de música con AI de vulnerar los derechos de imagen del Rey del Rock and Roll (King of Rock ‘n’ Roll) al robar su voz. Presentada el viernes (6 de noviembre) por Elvis Presley Enterprises, filial de Authentic Brands Group, la demanda también incluye acusaciones de infracción de copyright similares a las de su demanda anterior contra Anthropic."
+                "x": "La música con AI es un problema real: la basura generada con Suno (Suno-generated) ha llenado las plataformas de streaming, a veces atribuida falsamente a artistas reales. Al mismo tiempo, “suena a AI” se ha convertido en un término despectivo que lleva a algunos a precipitarse. Esto es lo que de verdad apunta a la AI."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/signs-of-ai-use-in-music-1793895781.jpg"
               },
               {
                 "t": "p",
-                "x": "Es uno de los primeros casos importantes bajo la ELVIS Act de Tennessee, que también permite demandar a las tecnológicas que facilitan la clonación de voz e imagen. La demanda sostiene que la afirmación de Suno de que los usuarios no pueden pedir artistas reales es “inequívocamente falsa”, y que el mes pasado Suno generó un clon de Elvis a partir de una letra que incluía su nombre."
+                "x": "La “música con AI” puede referirse a instrumentales, voces o letras generados con AI (AI-generated), o a los tres, o a un elemento menor como un filtro vocal. Las voces son probablemente lo más fácil de detectar: hay que prestar atención a una voz arrastrada o temblorosa que fuerza la letra para encajarla en la música, a acentos extraños, a la ausencia de imperfecciones naturales y a una entonación que apenas cambia."
               },
               {
                 "t": "p",
-                "x": "Suno afirmó que no permite instrucciones con nombres y canciones de artistas concretos y que filtra el audio y las letras que se suben. Por separado, el viernes, los mismos abogados presentaron otra demanda contra Suno en nombre de Eight Mile Style, una editorial que posee gran parte del catálogo de Eminem."
+                "x": "La estructura y los instrumentales suelen ser igual de monótonos, sin cambios dinámicos, modulaciones, puentes interesantes ni instrumentos no occidentales (non-Western); mucha música con AI recuerda a Imagine Dragons o Taylor Swift. En las letras, conviene fijarse en la falta de metáforas y símiles, las frases torpes, la ausencia de un tema general y las imágenes repetidas."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/external-signs-of-an-ai-artist-1793895783.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Después, hay que revisar el contexto. Una alerta de Artist Profile Protection de Spotify o del detector de música con AI de Deezer suele servir de confirmación, aunque Bandcamp ha marcado por error música real en alguna ocasión. Una búsqueda rápida debería mostrar actuaciones en directo, perfiles en redes sociales y entrevistas; un artista sin presencia en internet que publica un aluvión de canciones con portadas generadas con AI (AI-generated) es probablemente una granja de contenido."
               }
             ]
           }
@@ -285,189 +395,195 @@
       }
     },
     {
-      "id": "sampleson-wavefinder-local-search",
+      "id": "music-ifpi-australia-copyright",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Sampleson, 샘플을\nWavefinder로 검색",
-      "body": "Wavefinder는 로컬 AI로 텍스트 설명·참조 녹음과 닮은 샘플을 찾는다.",
-      "mini_headline": "Wavefinder, 소리로 검색",
+      "headline": "IFPI, AI 저작권\nAustralia에 경고",
+      "body": "IFPI 대표가 Australia 정부에 AI 학습 개방은 큰 실수라고 경고했다.",
+      "mini_headline": "IFPI, Australia에 AI 경고",
       "tool": "Music",
-      "source": "Synthtopia",
-      "url": "https://www.synthtopia.com/content/2026/11/07/sampleson-wavefinder-uses-local-ai-to-search-audio-libraries-by-sound/",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "yt": "HH2709Zcn8A"
+            "t": "img",
+            "src": "https://i.guim.co.uk/img/media/a9d776b6ee27daeda7be27a2ffc273f39b966850/200_0_6000_4800/master/6000.jpg?width=1065&quality=85&auto=format&fit=max&s=9f6642a572d563e6be6a88c2e6267527",
+            "cap": "AI 기업들이 Australia의 자료로 학습하도록 저작권법을 바꿔 달라고 요구하자 창작 산업계가 경계하고 나섰다."
           },
           {
             "t": "p",
-            "x": "Sampleson이 데스크톱 오디오 검색 앱 Wavefinder를 내놓았다. 대용량 샘플 라이브러리에서 원하는 소리를 찾아 주는 앱이다. 파일명이나 수동 태그에 기대지 않고 오디오 파일을 분석해 텍스트 설명이나 참조 녹음과 얼마나 닮았는지로 순위를 매긴다."
+            "x": "Albanese 정부가 빅테크의 요구를 검토하는 가운데 International Federation of the Phonographic Industry(IFPI)는 Australia가 AI 기업을 돕겠다고 저작권 보호를 약화하는 건 “터무니없고 위험한” 일이라고 경고했다."
           },
           {
             "t": "p",
-            "x": "AI 모델은 로컬에서 돌아가므로 오디오를 올리거나 정기 구독료를 낼 필요가 없다. 질감, 분위기, 룸 사운드, 연주 제스처 같은 소리를 자연어로 묘사하거나 참조 오디오를 앱에 끌어다 놓으면 비슷한 녹음을 찾아 준다."
+            "x": "IFPI 최고경영자 Victoria Oakley는 Guardian Australia에 “세이프 하버는 하나만 있으면 된다. 그러면 세계 어디의 음악으로든 학습할 수 있기 때문”이라며 “이는 창작에 재앙이라고 본다”고 말했다."
           },
           {
             "t": "p",
-            "x": "인덱스는 하위 폴더까지 훑어 로컬에서 만들고 저장한다. 검색 횟수 제한은 없다. 지원 형식은 WAV, AIFF, AIF, FLAC, OGG, MP3다. macOS와 Windows에서는 단독 앱으로, 호환 DAWs에서는 플러그인으로 쓸 수 있다."
+            "x": "일부 AI 기업은 현행법상 라이선스가 너무 어렵다며 거부했고, Anthropic은 “opt-out” 방식을 내놨다. Anthony Albanese 총리는 “가능한 가장 강력한 보호”를 약속했고, Michelle Rowland 법무장관은 “실질적인 통제권과 공정한 보상”을 다짐했다."
           },
           {
             "t": "p",
-            "x": "Wavefinder 가격은 현재 $29.00 USD다. 정가 $49.00 USD에서 내린 출시 할인가로, 할인은 November 15, 2026까지 이어진다."
+            "x": "Oakley에 따르면 레이블들은 이미 소규모 AI 기업들과 라이선스 계약을 수십 건 맺었다. 그는 “큰 실수가 될 것이며, 얻는 것이 버리는 것만큼의 가치가 없다고 본다”며 “라이선스는 충분히 가능하다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Sampleson Wavefinder searches\nsamples by sound",
-          "body": "Wavefinder runs an AI model locally to rank your samples by similarity to a text description or a reference recording.",
-          "mini_headline": "Wavefinder searches by sound",
+          "headline": "Global music body warns\nAustralia on AI copyright",
+          "body": "IFPI's chief warned Australia's government that opening online content to AI training would be a huge mistake.",
+          "mini_headline": "IFPI warns Australia on AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "HH2709Zcn8A"
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/a9d776b6ee27daeda7be27a2ffc273f39b966850/200_0_6000_4800/master/6000.jpg?width=1065&quality=85&auto=format&fit=max&s=9f6642a572d563e6be6a88c2e6267527",
+                "cap": "Creative industries are alarmed after AI companies requested changes to Australia's copyright law to allow training on its material."
               },
               {
                 "t": "p",
-                "x": "Sampleson has introduced Wavefinder, a desktop audio search application designed to help you locate sounds in large sample libraries. Rather than relying on filenames or manually assigned tags, Wavefinder analyzes audio files and ranks them by similarity to a text description or reference recording."
+                "x": "Australia weakening copyright protections to aid AI companies would be \"ridiculous and dangerous\", the International Federation of the Phonographic Industry (IFPI) has warned as the Albanese government weighs big tech's demands."
               },
               {
                 "t": "p",
-                "x": "The software runs its AI model locally, with no audio uploads or recurring subscription fees. Users can describe a sound in natural language — texture, atmosphere, room sound, or performance gesture — or drag an audio reference into the application to find similar recordings."
+                "x": "\"You just need one safe harbour, because then you can train on music from anywhere in the world,\" IFPI chief executive Victoria Oakley told Guardian Australia. \"We think this is a disaster for creativity.\""
               },
               {
                 "t": "p",
-                "x": "The index is built and stored locally, including nested folders. Searches are unlimited. Supported formats include WAV, AIFF, AIF, FLAC, OGG, and MP3; it runs standalone on macOS and Windows and as plug-ins for compatible DAWs."
+                "x": "Some AI companies have rejected licensing under existing law as too difficult; Anthropic suggested an \"opt-out\" model. Prime minister Anthony Albanese has promised \"the strongest possible protection\", and attorney general Michelle Rowland pledged \"meaningful control and fair compensation\"."
               },
               {
                 "t": "p",
-                "x": "Wavefinder is available now for $29.00 USD (introductory price; regularly $49.00 USD, with the launch offer running through November 15, 2026)."
+                "x": "Oakley said labels had already inked dozens of licensing deals with smaller AI firms. \"It would be a huge mistake and I think the prize is not worth what you're throwing away,\" she said. \"It is perfectly possible to license.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Sampleson, 샘플을\nWavefinder로 검색",
-          "body": "Wavefinder는 로컬 AI로 텍스트 설명·참조 녹음과 닮은 샘플을 찾는다.",
-          "mini_headline": "Wavefinder, 소리로 검색",
+          "headline": "IFPI, AI 저작권\nAustralia에 경고",
+          "body": "IFPI 대표가 Australia 정부에 AI 학습 개방은 큰 실수라고 경고했다.",
+          "mini_headline": "IFPI, Australia에 AI 경고",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "HH2709Zcn8A"
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/a9d776b6ee27daeda7be27a2ffc273f39b966850/200_0_6000_4800/master/6000.jpg?width=1065&quality=85&auto=format&fit=max&s=9f6642a572d563e6be6a88c2e6267527",
+                "cap": "AI 기업들이 Australia의 자료로 학습하도록 저작권법을 바꿔 달라고 요구하자 창작 산업계가 경계하고 나섰다."
               },
               {
                 "t": "p",
-                "x": "Sampleson이 데스크톱 오디오 검색 앱 Wavefinder를 내놓았다. 대용량 샘플 라이브러리에서 원하는 소리를 찾아 주는 앱이다. 파일명이나 수동 태그에 기대지 않고 오디오 파일을 분석해 텍스트 설명이나 참조 녹음과 얼마나 닮았는지로 순위를 매긴다."
+                "x": "Albanese 정부가 빅테크의 요구를 검토하는 가운데 International Federation of the Phonographic Industry(IFPI)는 Australia가 AI 기업을 돕겠다고 저작권 보호를 약화하는 건 “터무니없고 위험한” 일이라고 경고했다."
               },
               {
                 "t": "p",
-                "x": "AI 모델은 로컬에서 돌아가므로 오디오를 올리거나 정기 구독료를 낼 필요가 없다. 질감, 분위기, 룸 사운드, 연주 제스처 같은 소리를 자연어로 묘사하거나 참조 오디오를 앱에 끌어다 놓으면 비슷한 녹음을 찾아 준다."
+                "x": "IFPI 최고경영자 Victoria Oakley는 Guardian Australia에 “세이프 하버는 하나만 있으면 된다. 그러면 세계 어디의 음악으로든 학습할 수 있기 때문”이라며 “이는 창작에 재앙이라고 본다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "인덱스는 하위 폴더까지 훑어 로컬에서 만들고 저장한다. 검색 횟수 제한은 없다. 지원 형식은 WAV, AIFF, AIF, FLAC, OGG, MP3다. macOS와 Windows에서는 단독 앱으로, 호환 DAWs에서는 플러그인으로 쓸 수 있다."
+                "x": "일부 AI 기업은 현행법상 라이선스가 너무 어렵다며 거부했고, Anthropic은 “opt-out” 방식을 내놨다. Anthony Albanese 총리는 “가능한 가장 강력한 보호”를 약속했고, Michelle Rowland 법무장관은 “실질적인 통제권과 공정한 보상”을 다짐했다."
               },
               {
                 "t": "p",
-                "x": "Wavefinder 가격은 현재 $29.00 USD다. 정가 $49.00 USD에서 내린 출시 할인가로, 할인은 November 15, 2026까지 이어진다."
+                "x": "Oakley에 따르면 레이블들은 이미 소규모 AI 기업들과 라이선스 계약을 수십 건 맺었다. 그는 “큰 실수가 될 것이며, 얻는 것이 버리는 것만큼의 가치가 없다고 본다”며 “라이선스는 충분히 가능하다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Sampleson発表\n音で探すWavefinder",
-          "body": "WavefinderはローカルAIで、テキストや参照音源に近い順にサンプルを並べる。",
-          "mini_headline": "Wavefinder、音で検索",
+          "headline": "IFPI、AI著作権で\nAustraliaに警告",
+          "body": "IFPI代表がAI学習へのコンテンツ開放は大きな誤りだとAustralia政府に警告した。",
+          "mini_headline": "IFPI、AustraliaにAIで警告",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "HH2709Zcn8A"
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/a9d776b6ee27daeda7be27a2ffc273f39b966850/200_0_6000_4800/master/6000.jpg?width=1065&quality=85&auto=format&fit=max&s=9f6642a572d563e6be6a88c2e6267527",
+                "cap": "AI企業がAustraliaの素材での学習を認めるよう著作権法の改正を求め、クリエイティブ産業は危機感を強めている。"
               },
               {
                 "t": "p",
-                "x": "Samplesonは、大規模なサンプルライブラリから目当ての音を見つけるためのデスクトップ用オーディオ検索アプリWavefinderを発表した。Wavefinderはファイル名や手作業で付けたタグに頼らず、オーディオファイルを解析し、テキストによる説明や参照録音との類似度で順位付けする。"
+                "x": "Albanese政権がビッグテックの要求を検討するなか、International Federation of the Phonographic Industry（IFPI）は、AustraliaがAI企業を助けるために著作権保護を弱めるのは「ばかげていて危険だ」と警告した。"
               },
               {
                 "t": "p",
-                "x": "ソフトウェアはAIモデルをローカルで実行し、音声のアップロードや継続的なサブスクリプション料金は不要だ。ユーザーは質感、雰囲気、ルームサウンド、演奏のジェスチャーといった音を自然言語で説明するか、参照音源をアプリにドラッグして似た録音を探せる。"
+                "x": "IFPIの最高経営責任者Victoria OakleyはGuardian Australiaに対し、「セーフハーバーは一つあれば足りる。そうすれば世界中のどこの音楽でも学習できるからだ」と語った。「これは創造性にとって災厄だと考えている」"
               },
               {
                 "t": "p",
-                "x": "インデックスはネストされたフォルダーも含めローカルで構築・保存される。検索回数は無制限だ。対応フォーマットはWAV、AIFF、AIF、FLAC、OGG、MP3で、macOSとWindowsでスタンドアロンとして、また対応DAWsのプラグインとして動作する。"
+                "x": "一部のAI企業は現行法の下でのライセンスは難しすぎるとして拒否し、Anthropicは「opt-out」方式を提案した。Anthony Albanese首相は「可能な限り最も強力な保護」を約束し、Michelle Rowland司法長官は「意味のある管理と公正な報酬」を誓った。"
               },
               {
                 "t": "p",
-                "x": "Wavefinderは現在$29.00 USDで販売中だ（導入価格。通常価格は$49.00 USDで、発売記念価格はNovember 15, 2026まで）。"
+                "x": "Oakleyによれば、レーベルはすでに小規模なAI企業と数十件のライセンス契約を結んでいる。「大きな過ちになるだろうし、手に入るものは手放すものに見合わないと思う」と彼女は述べた。「ライセンスは十分に可能だ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Sampleson推出\nWavefinder以声寻样",
-          "body": "Wavefinder在本地运行AI模型，按与文字描述或参考录音的相似度为样本排序。",
-          "mini_headline": "Wavefinder按声音搜索",
+          "headline": "IFPI就AI版权\n警告Australia",
+          "body": "IFPI负责人警告Australia政府，向AI训练开放网络内容将是巨大错误。",
+          "mini_headline": "IFPI向Australia发出AI警告",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "HH2709Zcn8A"
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/a9d776b6ee27daeda7be27a2ffc273f39b966850/200_0_6000_4800/master/6000.jpg?width=1065&quality=85&auto=format&fit=max&s=9f6642a572d563e6be6a88c2e6267527",
+                "cap": "AI公司要求修改Australia版权法，允许用其素材进行训练，创意产业对此深感担忧。"
               },
               {
                 "t": "p",
-                "x": "Sampleson推出了桌面音频搜索应用Wavefinder，帮助用户在庞大的采样库中找到所需声音。Wavefinder不依赖文件名或手动添加的标签，而是分析音频文件，并按与文字描述或参考录音的相似度进行排序。"
+                "x": "在Albanese政府权衡大型科技公司诉求之际，International Federation of the Phonographic Industry（IFPI）警告称，Australia为帮助AI公司而削弱版权保护将是“荒谬且危险的”。"
               },
               {
                 "t": "p",
-                "x": "该软件在本地运行AI模型，无需上传音频，也没有持续订阅费用。用户可以用自然语言描述声音——质感、氛围、房间声或演奏手法——也可以把参考音频拖入应用，以查找相似录音。"
+                "x": "IFPI首席执行官Victoria Oakley对Guardian Australia表示：“只需要一个安全港，因为那样就能用世界任何地方的音乐来训练。”“我们认为这对创造力是一场灾难。”"
               },
               {
                 "t": "p",
-                "x": "索引在本地构建和存储，包括嵌套文件夹。搜索次数不限。支持WAV、AIFF、AIF、FLAC、OGG和MP3格式；可在macOS和Windows上独立运行，也可作为兼容DAWs的插件使用。"
+                "x": "一些AI公司以太难为由，拒绝在现行法律下获取许可；Anthropic提议采用“opt-out”模式。总理Anthony Albanese承诺提供“尽可能最强的保护”，总检察长Michelle Rowland则承诺给予“有意义的控制权和公平的补偿”。"
               },
               {
                 "t": "p",
-                "x": "Wavefinder现已上市，售价$29.00 USD（首发优惠价；原价$49.00 USD，优惠截至November 15, 2026）。"
+                "x": "Oakley说，唱片公司已与较小的AI公司签下数十份许可协议。“这将是一个巨大的错误，我认为所得抵不上你所放弃的，”她说。“完全可以进行授权许可。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sampleson Wavefinder busca\nmuestras por su sonido",
-          "body": "Wavefinder ejecuta un modelo de AI en local y ordena las muestras por similitud con un texto o un audio de referencia.",
-          "mini_headline": "Wavefinder busca por sonido",
+          "headline": "La IFPI advierte a Australia\nsobre AI y derechos de autor",
+          "body": "El jefe de la IFPI advirtió a Australia que abrir el contenido en línea para entrenar AI sería un gran error.",
+          "mini_headline": "La IFPI advierte a Australia sobre AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "HH2709Zcn8A"
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/a9d776b6ee27daeda7be27a2ffc273f39b966850/200_0_6000_4800/master/6000.jpg?width=1065&quality=85&auto=format&fit=max&s=9f6642a572d563e6be6a88c2e6267527",
+                "cap": "Las industrias creativas están alarmadas después de que empresas de AI pidieran cambios en la ley de copyright de Australia para poder entrenar con su material."
               },
               {
                 "t": "p",
-                "x": "Sampleson ha presentado Wavefinder, una aplicación de escritorio para buscar audio pensada para localizar sonidos en grandes bibliotecas de muestras. En lugar de depender de nombres de archivo o etiquetas asignadas a mano, Wavefinder analiza los archivos de audio y los ordena por similitud con una descripción de texto o una grabación de referencia."
+                "x": "Que Australia debilite la protección del copyright para ayudar a las empresas de AI sería “ridículo y peligroso”, advirtió la International Federation of the Phonographic Industry (IFPI) mientras el Gobierno de Albanese sopesa las demandas de las grandes tecnológicas."
               },
               {
                 "t": "p",
-                "x": "El software ejecuta su modelo de AI en local, sin subir audio ni pagar suscripciones periódicas. Los usuarios pueden describir un sonido en lenguaje natural —textura, atmósfera, sonido de sala o gesto interpretativo— o arrastrar un audio de referencia a la aplicación para encontrar grabaciones similares."
+                "x": "“Basta con un solo puerto seguro, porque entonces se puede entrenar con música de cualquier parte del mundo”, dijo a Guardian Australia la directora ejecutiva de la IFPI, Victoria Oakley. “Creemos que esto es un desastre para la creatividad”."
               },
               {
                 "t": "p",
-                "x": "El índice se crea y se guarda en local, incluidas las carpetas anidadas. Las búsquedas son ilimitadas. Admite WAV, AIFF, AIF, FLAC, OGG y MP3; funciona de forma independiente en macOS y Windows, y como plug-in en DAWs compatibles."
+                "x": "Algunas empresas de AI han rechazado las licencias según la ley vigente por considerarlas demasiado difíciles; Anthropic propuso un modelo de “opt-out”. El primer ministro Anthony Albanese ha prometido “la protección más fuerte posible”, y la fiscal general Michelle Rowland se comprometió a ofrecer “un control significativo y una compensación justa”."
               },
               {
                 "t": "p",
-                "x": "Wavefinder ya está disponible por $29.00 USD (precio de lanzamiento; el precio habitual es de $49.00 USD y la oferta dura hasta el 15 de noviembre de 2026)."
+                "x": "Oakley dijo que los sellos ya han firmado decenas de acuerdos de licencia con empresas de AI más pequeñas. “Sería un enorme error y creo que el premio no compensa lo que se está tirando”, afirmó. “Es perfectamente posible licenciar”."
               }
             ]
           }
@@ -475,121 +591,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Sampleson, 샘플을\nWavefinder로 검색",
-          "body": "Wavefinder는 로컬 AI로 텍스트 설명이나 참조 녹음과 닮은 샘플을 찾는다.",
-          "mini_headline": "Wavefinder, 소리로 검색",
+          "headline": "IFPI, AI 저작권\nAustralia에 경고",
+          "body": "IFPI 대표가 Australia 정부에 AI 학습 개방은 큰 실수라고 경고했다.",
+          "mini_headline": "IFPI, Australia에 AI 경고",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "HH2709Zcn8A"
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/a9d776b6ee27daeda7be27a2ffc273f39b966850/200_0_6000_4800/master/6000.jpg?width=1065&quality=85&auto=format&fit=max&s=9f6642a572d563e6be6a88c2e6267527",
+                "cap": "AI 기업들이 Australia의 자료로 학습할 수 있게 저작권법을 바꿔 달라고 요구하자 창작 산업계가 경계하고 있다."
               },
               {
                 "t": "p",
-                "x": "Sampleson이 대용량 샘플 라이브러리에서 소리를 찾도록 돕는 데스크톱 오디오 검색 앱 Wavefinder를 내놓았다. Wavefinder는 파일명이나 수동으로 붙인 태그에 기대지 않고, 오디오 파일을 분석해 텍스트 설명이나 참조 녹음과 얼마나 비슷한지에 따라 순위를 매긴다."
+                "x": "Albanese 정부가 빅테크의 요구를 검토하는 가운데, International Federation of the Phonographic Industry(IFPI)는 Australia가 AI 기업을 돕기 위해 저작권 보호를 약화하는 것은 “터무니없고 위험한” 일이라고 경고했다."
               },
               {
                 "t": "p",
-                "x": "이 소프트웨어는 AI 모델을 로컬에서 실행하며, 오디오를 업로드하거나 정기 구독료를 낼 필요가 없다. 사용자는 질감, 분위기, 룸 사운드, 연주 제스처 같은 소리를 자연어로 묘사하거나, 참조 오디오를 앱에 끌어다 놓아 비슷한 녹음을 찾을 수 있다."
+                "x": "IFPI 최고경영자 Victoria Oakley는 Guardian Australia에 “세이프 하버는 하나만 있으면 된다. 그러면 세계 어디의 음악으로든 학습할 수 있기 때문”이라며 “이는 창작에 재앙이라고 본다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "인덱스는 하위 폴더까지 포함해 로컬에서 만들어지고 저장된다. 검색 횟수에는 제한이 없다. WAV, AIFF, AIF, FLAC, OGG, MP3 형식을 지원하며, macOS와 Windows에서 단독 앱으로, 호환 DAWs에서는 플러그인으로 작동한다."
+                "x": "일부 AI 기업은 현행법에 따른 라이선스가 너무 어렵다며 거부했고, Anthropic은 “opt-out” 방식을 제안했다. Anthony Albanese 총리는 “가능한 가장 강력한 보호”를 약속했고, Michelle Rowland 법무장관은 “실질적인 통제권과 공정한 보상”을 다짐했다."
               },
               {
                 "t": "p",
-                "x": "Wavefinder는 현재 $29.00 USD에 판매 중이다(출시 할인가이며 정가는 $49.00 USD, 할인은 November 15, 2026까지)."
+                "x": "Oakley는 레이블들이 이미 소규모 AI 기업들과 수십 건의 라이선스 계약을 맺었다고 밝혔다. 그는 “큰 실수가 될 것이며, 얻는 것이 버리는 것만큼의 가치가 없다고 본다”며 “라이선스는 충분히 가능하다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Sampleson発表\n音で探すWavefinder",
-          "body": "WavefinderはローカルAIで、テキストや参照音源に近い順にサンプルを並べる。",
-          "mini_headline": "Wavefinder、音で検索",
+          "headline": "IFPI、AI著作権で\nAustraliaに警告",
+          "body": "IFPI代表がAI学習へのコンテンツ開放は大きな誤りだとAustralia政府に警告した。",
+          "mini_headline": "IFPI、AustraliaにAIで警告",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "HH2709Zcn8A"
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/a9d776b6ee27daeda7be27a2ffc273f39b966850/200_0_6000_4800/master/6000.jpg?width=1065&quality=85&auto=format&fit=max&s=9f6642a572d563e6be6a88c2e6267527",
+                "cap": "AI企業がAustraliaの素材での学習を認めるよう著作権法の改正を求め、クリエイティブ産業は危機感を強めている。"
               },
               {
                 "t": "p",
-                "x": "Samplesonは、大規模なサンプルライブラリから目当ての音を見つけるためのデスクトップ用オーディオ検索アプリWavefinderを発表した。Wavefinderはファイル名や手作業で付けたタグに頼らず、オーディオファイルを解析し、テキストによる説明や参照録音との類似度で順位付けする。"
+                "x": "Albanese政権がビッグテックの要求を検討するなか、International Federation of the Phonographic Industry（IFPI）は、AustraliaがAI企業を助けるために著作権保護を弱めるのは「ばかげていて危険だ」と警告した。"
               },
               {
                 "t": "p",
-                "x": "ソフトウェアはAIモデルをローカルで実行し、音声のアップロードや継続的なサブスクリプション料金は不要だ。ユーザーは質感、雰囲気、ルームサウンド、演奏のジェスチャーといった音を自然言語で説明するか、参照音源をアプリにドラッグして似た録音を探せる。"
+                "x": "IFPIの最高経営責任者Victoria OakleyはGuardian Australiaに対し、「セーフハーバーは一つあれば足りる。そうすれば世界中のどこの音楽でも学習できるからだ」と語った。「これは創造性にとって災厄だと考えている」"
               },
               {
                 "t": "p",
-                "x": "インデックスはネストされたフォルダーも含めローカルで構築・保存される。検索回数は無制限だ。対応フォーマットはWAV、AIFF、AIF、FLAC、OGG、MP3で、macOSとWindowsでスタンドアロンとして、また対応DAWsのプラグインとして動作する。"
+                "x": "一部のAI企業は現行法の下でのライセンスは難しすぎるとして拒否し、Anthropicは「opt-out」方式を提案した。Anthony Albanese首相は「可能な限り最も強力な保護」を約束し、Michelle Rowland司法長官は「意味のある管理と公正な報酬」を誓った。"
               },
               {
                 "t": "p",
-                "x": "Wavefinderは現在$29.00 USDで販売中だ（導入価格。通常価格は$49.00 USDで、発売記念価格はNovember 15, 2026まで）。"
+                "x": "Oakleyによれば、レーベルはすでに小規模なAI企業と数十件のライセンス契約を結んでいる。「大きな過ちになるだろうし、手に入るものは手放すものに見合わないと思う」と彼女は述べた。「ライセンスは十分に可能だ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Sampleson推出\nWavefinder以声寻样",
-          "body": "Wavefinder在本地运行AI模型，按与文字描述或参考录音的相似度为样本排序。",
-          "mini_headline": "Wavefinder按声音搜索",
+          "headline": "IFPI就AI版权\n警告Australia",
+          "body": "IFPI负责人警告Australia政府，向AI训练开放网络内容将是巨大错误。",
+          "mini_headline": "IFPI向Australia发出AI警告",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "HH2709Zcn8A"
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/a9d776b6ee27daeda7be27a2ffc273f39b966850/200_0_6000_4800/master/6000.jpg?width=1065&quality=85&auto=format&fit=max&s=9f6642a572d563e6be6a88c2e6267527",
+                "cap": "AI公司要求修改Australia版权法，允许用其素材进行训练，创意产业对此深感担忧。"
               },
               {
                 "t": "p",
-                "x": "Sampleson推出了桌面音频搜索应用Wavefinder，帮助用户在庞大的采样库中找到所需声音。Wavefinder不依赖文件名或手动添加的标签，而是分析音频文件，并按与文字描述或参考录音的相似度进行排序。"
+                "x": "在Albanese政府权衡大型科技公司诉求之际，International Federation of the Phonographic Industry（IFPI）警告称，Australia为帮助AI公司而削弱版权保护将是“荒谬且危险的”。"
               },
               {
                 "t": "p",
-                "x": "该软件在本地运行AI模型，无需上传音频，也没有持续订阅费用。用户可以用自然语言描述声音——质感、氛围、房间声或演奏手法——也可以把参考音频拖入应用，以查找相似录音。"
+                "x": "IFPI首席执行官Victoria Oakley对Guardian Australia表示：“只需要一个安全港，因为那样就能用世界任何地方的音乐来训练。”“我们认为这对创造力是一场灾难。”"
               },
               {
                 "t": "p",
-                "x": "索引在本地构建和存储，包括嵌套文件夹。搜索次数不限。支持WAV、AIFF、AIF、FLAC、OGG和MP3格式；可在macOS和Windows上独立运行，也可作为兼容DAWs的插件使用。"
+                "x": "一些AI公司以太难为由，拒绝在现行法律下获取许可；Anthropic提议采用“opt-out”模式。总理Anthony Albanese承诺提供“尽可能最强的保护”，总检察长Michelle Rowland则承诺给予“有意义的控制权和公平的补偿”。"
               },
               {
                 "t": "p",
-                "x": "Wavefinder现已上市，售价$29.00 USD（首发优惠价；原价$49.00 USD，优惠截至November 15, 2026）。"
+                "x": "Oakley说，唱片公司已与较小的AI公司签下数十份许可协议。“这将是一个巨大的错误，我认为所得抵不上你所放弃的，”她说。“完全可以进行授权许可。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sampleson Wavefinder busca\nmuestras por su sonido",
-          "body": "Wavefinder ejecuta un modelo de AI en local y ordena las muestras por similitud con un texto o un audio de referencia.",
-          "mini_headline": "Wavefinder busca por sonido",
+          "headline": "La IFPI advierte a Australia\nsobre AI y derechos de autor",
+          "body": "El jefe de la IFPI advirtió a Australia que abrir el contenido en línea para entrenar AI sería un gran error.",
+          "mini_headline": "La IFPI advierte a Australia sobre AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "HH2709Zcn8A"
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/a9d776b6ee27daeda7be27a2ffc273f39b966850/200_0_6000_4800/master/6000.jpg?width=1065&quality=85&auto=format&fit=max&s=9f6642a572d563e6be6a88c2e6267527",
+                "cap": "Las industrias creativas están alarmadas después de que empresas de AI pidieran cambios en la ley de copyright de Australia para poder entrenar con su material."
               },
               {
                 "t": "p",
-                "x": "Sampleson ha presentado Wavefinder, una aplicación de escritorio para buscar audio pensada para localizar sonidos en grandes bibliotecas de muestras. En lugar de depender de nombres de archivo o etiquetas asignadas a mano, Wavefinder analiza los archivos de audio y los ordena por similitud con una descripción de texto o una grabación de referencia."
+                "x": "Que Australia debilite la protección del copyright para ayudar a las empresas de AI sería “ridículo y peligroso”, advirtió la International Federation of the Phonographic Industry (IFPI) mientras el Gobierno de Albanese sopesa las demandas de las grandes tecnológicas."
               },
               {
                 "t": "p",
-                "x": "El software ejecuta su modelo de AI en local, sin subir audio ni pagar suscripciones periódicas. Los usuarios pueden describir un sonido en lenguaje natural —textura, atmósfera, sonido de sala o gesto interpretativo— o arrastrar un audio de referencia a la aplicación para encontrar grabaciones similares."
+                "x": "“Basta con un solo puerto seguro, porque entonces se puede entrenar con música de cualquier parte del mundo”, dijo a Guardian Australia la directora ejecutiva de la IFPI, Victoria Oakley. “Creemos que esto es un desastre para la creatividad”."
               },
               {
                 "t": "p",
-                "x": "El índice se crea y se guarda en local, incluidas las carpetas anidadas. Las búsquedas son ilimitadas. Admite WAV, AIFF, AIF, FLAC, OGG y MP3; funciona de forma independiente en macOS y Windows, y como plug-in en DAWs compatibles."
+                "x": "Algunas empresas de AI han rechazado las licencias según la ley vigente por considerarlas demasiado difíciles; Anthropic propuso un modelo de “opt-out”. El primer ministro Anthony Albanese ha prometido “la protección más fuerte posible”, y la fiscal general Michelle Rowland se comprometió a ofrecer “un control significativo y una compensación justa”."
               },
               {
                 "t": "p",
-                "x": "Wavefinder ya está disponible por $29.00 USD (precio de lanzamiento; el precio habitual es de $49.00 USD y la oferta dura hasta el 15 de noviembre de 2026)."
+                "x": "Oakley dijo que los sellos ya han firmado decenas de acuerdos de licencia con empresas de AI más pequeñas. “Sería un enorme error y creo que el premio no compensa lo que se está tirando”, afirmó. “Es perfectamente posible licenciar”."
               }
             ]
           }
@@ -597,15 +717,15 @@
       }
     },
     {
-      "id": "heritage-i73pro-nam-a2",
-      "source_lang": "en",
+      "id": "choyoungsoo-ai-virtual-singer",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Heritage 신경망앰프\ni73 Pro DSP 구동",
-      "body": "펌웨어 업데이트로 i73 Pro 내장 DSP가 NAM A2 캡처를 직접 돌린다.",
-      "mini_headline": "i73 Pro, NAM A2 지원",
+      "headline": "조영수의 첫 버추얼 가수\n빌보드 겨냥해 데뷔",
+      "body": "조영수가 AI 가수를 내놓으며 AI가 99라면 마지막 1%는 사람 몫이라 했다.",
+      "mini_headline": "조영수의 AI 가수",
       "tool": "Music",
-      "source": "Sound On Sound",
-      "url": "https://www.soundonsound.com/news/heritage-audios-i73-pro-gains-nam-a2-support",
+      "source": "뉴시스 (Newsis)",
+      "url": "https://www.newsis.com/view/NISX20261107_0003858783",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -613,255 +733,405 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/h/heritage_audio_nam_a2_0-hbH78FIVnEagNT4vjmT0H48ZpPbbIcyU.jpg"
+            "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285593_web.jpg",
+            "cap": "조영수. (사진 = 브이토피안 제공)"
           },
           {
             "t": "p",
-            "x": "Heritage Audio가 i73 Pro 오디오 인터페이스용 펌웨어 업데이트를 내놓았다. 내장 DSP에서 NAM(Neural Amp Modeler) A2 캡처를 호스팅하는 업데이트로, 기존 사용자는 모두 무료로 받는다. 기타 앰프·페달·아웃보드 장비를 고품질로 에뮬레이션한 사운드를 거쳐 녹음할 수 있게 됐다."
+            "x": "작곡가 겸 프로듀서 조영수가 첫 버추얼 아티스트 '원(WON)'을 세상에 내보낸다. 원은 8일 오후 6시 첫 싱글 '마마 송(Mama Song)'을 발표하고 정식 데뷔한다. 2007년부터 2011년까지 5년 연속 저작권료 수입 1위를 지킨 그는 \"내가 원하는 음악을 온전히 불러줄 캐릭터 가수를 직접 만들어서, 영어 노래든 다양한 장르든 제한 없이 표현해 보자\"고 결심했다."
+          },
+          {
+            "t": "img",
+            "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285590_web.jpg",
+            "cap": "원(WON). (사진 = 브이토피안 제공)"
           },
           {
             "t": "p",
-            "x": "NAM은 실제 앰프, 페달, 아웃보드 장비는 물론 시그널 체인 전체를 신경망 모델로 캡처하는 오픈소스 기술이다. A2는 2 June 2026에 공개된 두 번째 세대 아키텍처로, 연산 자원을 덜 쓰면서도 음질은 더 좋다. 이제 .nam 파일을 i73 Pro의 DSP에 직접 올리면 CPU 자원을 쓰지 않고 지연도 늘리지 않은 채 캡처를 거쳐 녹음한다."
+            "x": "데뷔곡 '마마 송'은 엄마를 향한 그리움과 감사를 담은 팝 발라드로, 가사는 전부 영어다. 원의 외형과 움직임에는 최신 기술을 쓰되 작곡과 편곡, 실제 세션 연주는 사람의 손으로 채운다. 조영수가 가이드 보컬을 녹음하면 AI 변환 과정을 거쳐 원의 최종 음색으로 완성된다."
           },
           {
             "t": "p",
-            "x": "Heritage Audio 창립자(Founder) Peter Rodriguez는 “내장 로더 덕분에 i73 Pro 사용자는 플러그인도, 추가 장치도, 지연 걱정도 없이 NAM 세계의 어떤 앰프, 페달, 아웃보드든 거쳐 연주할 수 있다”고 말했다. 펌웨어와 Mixer 애플리케이션은 지금 Heritage Audio 웹사이트에서 내려받을 수 있다."
+            "x": "\"AI가 작곡한 곡들은 방대한 빅데이터로 시대별 히트 공식을 정밀하게 학습했기에 기술적 완성도가 99점에 달해요. 하지만 나머지 1%의 '새로움'은 오직 인간만이 채울 수 있죠.\""
+          },
+          {
+            "t": "img",
+            "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285594_web.jpg",
+            "cap": "조영수. (사진 = 브이토피안 제공)"
+          },
+          {
+            "t": "p",
+            "x": "후속 캐릭터들도 순차적으로 구현 중이며 최종 목표는 보컬 그룹이다. \"이제 남은 음악 인생의 명확한 목표는 빌보드 1위 곡을 쓰는 작곡가가 되는 것입니다.\""
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Heritage i73 Pro runs neural\namp captures on its DSP",
-          "body": "A firmware update lets the i73 Pro interfaces run NAM A2 amp captures directly on their internal DSP.",
-          "mini_headline": "i73 Pro gets NAM A2",
+        "ko": {
+          "headline": "조영수의 첫 버추얼 가수\n빌보드 겨냥해 데뷔",
+          "body": "조영수가 AI 가수를 내놓으며 AI가 99라면 마지막 1%는 사람 몫이라 했다.",
+          "mini_headline": "조영수의 AI 가수",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/h/heritage_audio_nam_a2_0-hbH78FIVnEagNT4vjmT0H48ZpPbbIcyU.jpg"
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285593_web.jpg",
+                "cap": "조영수. (사진 = 브이토피안 제공)"
               },
               {
                 "t": "p",
-                "x": "Heritage Audio have just launched a firmware update that makes it possible for their i73 Pro audio interfaces to host NAM (Neural Amp Modeler) A2 captures on their internal DSP. Free to all existing owners, the update allows users to track through high-quality emulations of guitar amps, pedals and outboard gear."
+                "x": "작곡가 겸 프로듀서 조영수가 첫 버추얼 아티스트 '원(WON)'을 세상에 내보낸다. 원은 8일 오후 6시 첫 싱글 '마마 송(Mama Song)'을 발표하고 정식 데뷔한다. 2007년부터 2011년까지 5년 연속 저작권료 수입 1위를 지킨 그는 \"내가 원하는 음악을 온전히 불러줄 캐릭터 가수를 직접 만들어서, 영어 노래든 다양한 장르든 제한 없이 표현해 보자\"고 결심했다."
+              },
+              {
+                "t": "img",
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285590_web.jpg",
+                "cap": "원(WON). (사진 = 브이토피안 제공)"
               },
               {
                 "t": "p",
-                "x": "NAM is an open-source technology that captures real amps, pedals, outboard gear and even full signal chains as neural models. A2, its second-generation architecture released on 2 June 2026, delivers improved sound quality while using fewer computational resources. Users can now host .nam files directly on the i73 Pro’s DSP, tracking through captures without using any CPU resources or incurring any additional latency."
+                "x": "데뷔곡 '마마 송'은 엄마를 향한 그리움과 감사를 담은 팝 발라드로, 가사는 전부 영어다. 원의 외형과 움직임에는 최신 기술을 쓰되 작곡과 편곡, 실제 세션 연주는 사람의 손으로 채운다. 조영수가 가이드 보컬을 녹음하면 AI 변환 과정을 거쳐 원의 최종 음색으로 완성된다."
               },
               {
                 "t": "p",
-                "x": "“With the built-in loader, an i73 Pro owner can play through any amp, pedal or piece of outboard in the NAM universe, with no plug-in, no extra device and no latency to worry about,” said Peter Rodriguez, Founder, Heritage Audio. The firmware and Mixer application are available now from Heritage Audio’s website."
+                "x": "\"AI가 작곡한 곡들은 방대한 빅데이터로 시대별 히트 공식을 정밀하게 학습했기에 기술적 완성도가 99점에 달해요. 하지만 나머지 1%의 '새로움'은 오직 인간만이 채울 수 있죠.\""
+              },
+              {
+                "t": "img",
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285594_web.jpg",
+                "cap": "조영수. (사진 = 브이토피안 제공)"
+              },
+              {
+                "t": "p",
+                "x": "후속 캐릭터들도 순차적으로 구현 중이며 최종 목표는 보컬 그룹이다. \"이제 남은 음악 인생의 명확한 목표는 빌보드 1위 곡을 쓰는 작곡가가 되는 것입니다.\""
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Heritage 신경망앰프\ni73 Pro DSP 구동",
-          "body": "펌웨어 업데이트로 i73 Pro 내장 DSP가 NAM A2 캡처를 직접 돌린다.",
-          "mini_headline": "i73 Pro, NAM A2 지원",
+        "en": {
+          "headline": "Cho Young-soo's first virtual\nsinger debuts eyeing Billboard",
+          "body": "Launching an AI singer, Cho Young-soo said that if AI scores 99, the last 1% belongs to humans.",
+          "mini_headline": "Cho Young-soo's AI singer",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/h/heritage_audio_nam_a2_0-hbH78FIVnEagNT4vjmT0H48ZpPbbIcyU.jpg"
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285593_web.jpg",
+                "cap": "Cho Young-soo. (Photo courtesy of Vtopian)"
               },
               {
                 "t": "p",
-                "x": "Heritage Audio가 i73 Pro 오디오 인터페이스용 펌웨어 업데이트를 내놓았다. 내장 DSP에서 NAM(Neural Amp Modeler) A2 캡처를 호스팅하는 업데이트로, 기존 사용자는 모두 무료로 받는다. 기타 앰프·페달·아웃보드 장비를 고품질로 에뮬레이션한 사운드를 거쳐 녹음할 수 있게 됐다."
+                "x": "Composer and producer Cho Young-soo is introducing his first virtual artist, 'WON'. WON makes an official debut at 6 p.m. on the 8th with the first single 'Mama Song'. Cho, who ranked No. 1 in copyright royalty income for 5 straight years from 2007 to 2011, made up his mind: “I'll create a character singer myself who can fully sing the music I want, and express it without limits, whether English songs or a range of genres.”"
+              },
+              {
+                "t": "img",
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285590_web.jpg",
+                "cap": "WON. (Photo courtesy of Vtopian)"
               },
               {
                 "t": "p",
-                "x": "NAM은 실제 앰프, 페달, 아웃보드 장비는 물론 시그널 체인 전체를 신경망 모델로 캡처하는 오픈소스 기술이다. A2는 2 June 2026에 공개된 두 번째 세대 아키텍처로, 연산 자원을 덜 쓰면서도 음질은 더 좋다. 이제 .nam 파일을 i73 Pro의 DSP에 직접 올리면 CPU 자원을 쓰지 않고 지연도 늘리지 않은 채 캡처를 거쳐 녹음한다."
+                "x": "The debut track 'Mama Song' is a pop ballad about longing for and gratitude toward a mother, with lyrics entirely in English. WON's appearance and movement rely on the latest technology, while composition, arrangement and live session playing are done by human hands. When Cho records a guide vocal, it goes through an AI conversion process to become WON's final voice."
               },
               {
                 "t": "p",
-                "x": "Heritage Audio 창립자(Founder) Peter Rodriguez는 “내장 로더 덕분에 i73 Pro 사용자는 플러그인도, 추가 장치도, 지연 걱정도 없이 NAM 세계의 어떤 앰프, 페달, 아웃보드든 거쳐 연주할 수 있다”고 말했다. 펌웨어와 Mixer 애플리케이션은 지금 Heritage Audio 웹사이트에서 내려받을 수 있다."
+                "x": "“Songs composed by AI have precisely learned each era's hit formulas from vast big data, so their technical completeness reaches 99 points. But the remaining 1% of 'newness' can only be filled by humans.”"
+              },
+              {
+                "t": "img",
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285594_web.jpg",
+                "cap": "Cho Young-soo. (Photo courtesy of Vtopian)"
+              },
+              {
+                "t": "p",
+                "x": "Follow-up characters are being built in turn, with a vocal group as the final goal. “The clear goal for the rest of my music life is to become a composer who writes a Billboard No. 1 song.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Heritage、DSP上で\ni73 Proが神経網アンプ",
-          "body": "ファームウェア更新で、i73 Proが内蔵DSPでNAM A2キャプチャを直接動かす。",
-          "mini_headline": "i73 ProがNAM A2対応",
+          "headline": "チョ・ヨンス初の仮想歌手\nビルボード狙いデビュー",
+          "body": "チョ・ヨンスはAI歌手を発表し、AIが99なら最後の1%は人間の役目だと語った。",
+          "mini_headline": "チョ・ヨンスのAI歌手",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/h/heritage_audio_nam_a2_0-hbH78FIVnEagNT4vjmT0H48ZpPbbIcyU.jpg"
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285593_web.jpg",
+                "cap": "チョ・ヨンス。（写真＝ブイトピアン提供）"
               },
               {
                 "t": "p",
-                "x": "Heritage Audioは、同社のi73 Proオーディオインターフェースが内蔵DSP上でNAM（Neural Amp Modeler）A2キャプチャをホストできるようにするファームウェアアップデートを公開した。既存ユーザー全員に無償で提供され、ギターアンプやペダル、アウトボード機器の高品質なエミュレーションを通して録音できる。"
+                "x": "作曲家兼プロデューサーのチョ・ヨンスが、初のバーチャルアーティスト「ウォン（WON）」を世に送り出す。WONは8日午後6時に初のシングル「ママ・ソング（Mama Song）」を発表し、正式にデビューする。2007年から2011年まで5年連続で著作権料収入1位を守った彼は、「自分が望む音楽をそのまま歌ってくれるキャラクター歌手を自ら作り、英語の歌でも多様なジャンルでも制限なく表現してみよう」と決意した。"
+              },
+              {
+                "t": "img",
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285590_web.jpg",
+                "cap": "ウォン（WON）。（写真＝ブイトピアン提供）"
               },
               {
                 "t": "p",
-                "x": "NAMは、実機のアンプ、ペダル、アウトボード機器、さらにはシグナルチェーン全体をニューラルモデルとしてキャプチャするオープンソース技術だ。2 June 2026に公開された第二世代アーキテクチャのA2は、より少ない計算資源で音質を高めている。ユーザーは.namファイルをi73 ProのDSPで直接ホストでき、CPUリソースを使わず、追加のレイテンシーもなくキャプチャを通して録音できる。"
+                "x": "デビュー曲「ママ・ソング」は母への恋しさと感謝を込めたポップバラードで、歌詞はすべて英語だ。WONの外見と動きには最新技術を使う一方、作曲や編曲、実際のセッション演奏は人の手で仕上げる。チョ・ヨンスがガイドボーカルを録音すると、AI変換のプロセスを経てWONの最終的な声に仕上がる。"
               },
               {
                 "t": "p",
-                "x": "Heritage Audioの創業者（Founder）Peter Rodriguezは「内蔵ローダーにより、i73 Proのオーナーはプラグインも追加機器も不要で、レイテンシーを気にすることもなく、NAMの世界にあるあらゆるアンプ、ペダル、アウトボードを通して演奏できる」と述べた。ファームウェアとMixerアプリケーションは、Heritage Audioのウェブサイトで現在入手できる。"
+                "x": "「AIが作曲した曲は膨大なビッグデータで時代ごとのヒットの方程式を精密に学習しているので、技術的な完成度は99点に達します。でも残りの1%の『新しさ』は人間にしか埋められません」"
+              },
+              {
+                "t": "img",
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285594_web.jpg",
+                "cap": "チョ・ヨンス。（写真＝ブイトピアン提供）"
+              },
+              {
+                "t": "p",
+                "x": "後続のキャラクターも順次制作中で、最終目標はボーカルグループだ。「これからの音楽人生の明確な目標は、ビルボード1位の曲を書く作曲家になることです」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Heritage：神经放大器\n跑在i73 Pro DSP上",
-          "body": "固件更新让i73 Pro接口可直接在内置DSP上运行NAM A2放大器捕获。",
-          "mini_headline": "i73 Pro支持NAM A2",
+          "headline": "作曲家首个虚拟歌手\n以公告牌为目标出道",
+          "body": "Cho Young-soo推出AI歌手，称若AI是99，最后的1%属于人类。",
+          "mini_headline": "Cho Young-soo的AI歌手",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/h/heritage_audio_nam_a2_0-hbH78FIVnEagNT4vjmT0H48ZpPbbIcyU.jpg"
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285593_web.jpg",
+                "cap": "Cho Young-soo。（图片＝Vtopian提供）"
               },
               {
                 "t": "p",
-                "x": "Heritage Audio刚刚发布固件更新，让旗下i73 Pro音频接口可以在内置DSP上运行NAM（Neural Amp Modeler）A2捕获。此次更新对所有现有用户免费，用户可通过吉他放大器、效果器和外置设备的高品质模拟进行录音。"
+                "x": "作曲家兼制作人Cho Young-soo推出旗下首个虚拟艺人“WON”。WON将于8日下午6点发行首支单曲《Mama Song》并正式出道。他曾在2007年至2011年连续5年保持版权收入第1名，并下定决心：“亲手打造能完整演唱我想要的音乐的角色歌手，无论英文歌曲还是各种曲风，都不受限制地表达出来。”"
+              },
+              {
+                "t": "img",
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285590_web.jpg",
+                "cap": "WON。（图片＝Vtopian提供）"
               },
               {
                 "t": "p",
-                "x": "NAM是一项开源技术，可将真实的放大器、效果器、外置设备乃至完整信号链捕获为神经网络模型。其第二代架构A2于2 June 2026发布，在消耗更少计算资源的同时带来更好的音质。用户现在可以直接在i73 Pro的DSP上加载.nam文件，通过捕获进行录音，既不占用CPU资源，也不会增加任何延迟。"
+                "x": "出道曲《Mama Song》是一首表达对母亲的思念与感激的流行抒情曲，歌词全部为英文。WON的外形和动作采用最新技术，而作曲、编曲和真实的乐手演奏则由人亲手完成。Cho Young-soo录制引导人声后，经过AI转换，最终形成WON的音色。"
               },
               {
                 "t": "p",
-                "x": "Heritage Audio创始人（Founder）Peter Rodriguez表示：“借助内置加载器，i73 Pro用户无需插件、无需额外设备，也不必担心延迟，就能通过NAM世界中的任何放大器、效果器或外置设备演奏。”固件和Mixer应用现已可从Heritage Audio官网获取。"
+                "x": "“AI创作的歌曲通过海量大数据精确学习了各个时代的热门公式，技术完成度高达99分。但剩下1%的‘新意’只有人类才能填补。”"
+              },
+              {
+                "t": "img",
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285594_web.jpg",
+                "cap": "Cho Young-soo。（图片＝Vtopian提供）"
+              },
+              {
+                "t": "p",
+                "x": "后续角色也在陆续打造中，最终目标是组建声乐组合。“如今我余下音乐生涯的明确目标，是成为写出Billboard第1名歌曲的作曲家。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "El Heritage i73 Pro ejecuta\ncapturas neuronales en su DSP",
-          "body": "Una actualización de firmware permite a las interfaces i73 Pro ejecutar capturas NAM A2 directamente en su DSP interno.",
-          "mini_headline": "El i73 Pro recibe NAM A2",
+          "headline": "Cho Young-soo, rumbo a Billboard\ncon su primer cantante virtual",
+          "body": "Al presentar su cantante de AI, Cho Young-soo dijo que si la AI pone el 99, el último 1% corresponde a las personas.",
+          "mini_headline": "El cantante de AI de Cho Young-soo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/h/heritage_audio_nam_a2_0-hbH78FIVnEagNT4vjmT0H48ZpPbbIcyU.jpg"
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285593_web.jpg",
+                "cap": "Cho Young-soo. (Foto: cortesía de Vtopian)"
               },
               {
                 "t": "p",
-                "x": "Heritage Audio acaba de lanzar una actualización de firmware que permite a sus interfaces de audio i73 Pro alojar capturas NAM (Neural Amp Modeler) A2 en su DSP interno. Gratuita para todos los propietarios actuales, la actualización permite grabar a través de emulaciones de alta calidad de amplificadores de guitarra, pedales y equipos outboard."
+                "x": "El compositor y productor Cho Young-soo presenta a su primer artista virtual, 'WON'. WON debutará oficialmente el día 8 a las 6 de la tarde con su primer sencillo, 'Mama Song'. Cho, que se mantuvo como número 1 en ingresos por derechos de autor durante 5 años consecutivos, de 2007 a 2011, decidió: “Voy a crear yo mismo un cantante personaje que pueda interpretar por completo la música que quiero, y a expresarla sin límites, ya sean canciones en inglés o géneros diversos”."
+              },
+              {
+                "t": "img",
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285590_web.jpg",
+                "cap": "WON. (Foto: cortesía de Vtopian)"
               },
               {
                 "t": "p",
-                "x": "NAM es una tecnología de código abierto que captura amplificadores, pedales y equipos outboard reales, e incluso cadenas de señal completas, como modelos neuronales. A2, su arquitectura de segunda generación publicada el 2 de junio de 2026, ofrece mejor calidad de sonido con menos recursos de cálculo. Ahora los usuarios pueden alojar archivos .nam directamente en el DSP del i73 Pro y grabar a través de las capturas sin usar recursos de CPU ni añadir latencia."
+                "x": "El tema de debut, 'Mama Song', es una balada pop que expresa añoranza y gratitud hacia una madre, con la letra íntegramente en inglés. La apariencia y los movimientos de WON usan la tecnología más reciente, pero la composición, los arreglos y la interpretación real de los músicos de sesión son obra de manos humanas. Cuando Cho graba una voz guía, esta pasa por un proceso de conversión con AI y se convierte en el timbre final de WON."
               },
               {
                 "t": "p",
-                "x": "“Con el cargador integrado, el propietario de un i73 Pro puede tocar a través de cualquier amplificador, pedal o equipo outboard del universo NAM, sin plug-in, sin dispositivo adicional y sin preocuparse por la latencia”, dijo Peter Rodriguez, fundador de Heritage Audio. El firmware y la aplicación Mixer ya están disponibles en el sitio web de Heritage Audio."
+                "x": "“Las canciones compuestas por AI han aprendido con precisión las fórmulas de éxito de cada época a partir de enormes volúmenes de big data, así que su calidad técnica llega a 99 puntos. Pero el 1% restante, la ‘novedad’, solo pueden aportarlo los humanos”."
+              },
+              {
+                "t": "img",
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285594_web.jpg",
+                "cap": "Cho Young-soo. (Foto: cortesía de Vtopian)"
+              },
+              {
+                "t": "p",
+                "x": "Los siguientes personajes se están desarrollando de forma progresiva, y el objetivo final es un grupo vocal. “Mi objetivo claro para lo que me queda de vida musical es convertirme en un compositor que escriba una canción número 1 en Billboard”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Heritage 신경망앰프\ni73 Pro DSP 구동",
-          "body": "펌웨어 업데이트로 i73 Pro가 내장 DSP에서 NAM A2 캡처를 구동한다.",
-          "mini_headline": "i73 Pro, NAM A2 지원",
+        "en": {
+          "headline": "Cho Young-soo's first virtual\nsinger debuts eyeing Billboard",
+          "body": "Launching an AI singer, Cho Young-soo said that if AI scores 99, the last 1% belongs to humans.",
+          "mini_headline": "Cho Young-soo's AI singer",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/h/heritage_audio_nam_a2_0-hbH78FIVnEagNT4vjmT0H48ZpPbbIcyU.jpg"
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285593_web.jpg",
+                "cap": "Cho Young-soo. (Photo courtesy of Vtopian)"
               },
               {
                 "t": "p",
-                "x": "Heritage Audio가 자사 i73 Pro 오디오 인터페이스의 내장 DSP에서 NAM(Neural Amp Modeler) A2 캡처를 호스팅할 수 있게 하는 펌웨어 업데이트를 내놓았다. 기존 사용자 모두에게 무료인 이번 업데이트로, 기타 앰프·페달·아웃보드 장비를 고품질로 에뮬레이션한 사운드를 거쳐 녹음할 수 있다."
+                "x": "Composer and producer Cho Young-soo is introducing his first virtual artist, 'WON'. WON makes an official debut at 6 p.m. on the 8th with the first single 'Mama Song'. Cho, who ranked No. 1 in copyright royalty income for 5 straight years from 2007 to 2011, made up his mind: “I'll create a character singer myself who can fully sing the music I want, and express it without limits, whether English songs or a range of genres.”"
+              },
+              {
+                "t": "img",
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285590_web.jpg",
+                "cap": "WON. (Photo courtesy of Vtopian)"
               },
               {
                 "t": "p",
-                "x": "NAM은 실제 앰프, 페달, 아웃보드 장비는 물론 전체 시그널 체인까지 신경망 모델로 캡처하는 오픈소스 기술이다. 2 June 2026에 공개된 두 번째 세대 아키텍처 A2는 더 적은 연산 자원으로 더 나은 음질을 낸다. 이제 사용자는 .nam 파일을 i73 Pro의 DSP에 직접 올려, CPU 자원을 쓰거나 추가 지연을 겪지 않고 캡처를 거쳐 녹음할 수 있다."
+                "x": "The debut track 'Mama Song' is a pop ballad about longing for and gratitude toward a mother, with lyrics entirely in English. WON's appearance and movement rely on the latest technology, while composition, arrangement and live session playing are done by human hands. When Cho records a guide vocal, it goes through an AI conversion process to become WON's final voice."
               },
               {
                 "t": "p",
-                "x": "Heritage Audio 창립자(Founder) Peter Rodriguez는 “내장 로더 덕분에 i73 Pro 사용자는 플러그인도, 추가 장치도, 지연 걱정도 없이 NAM 세계의 어떤 앰프, 페달, 아웃보드든 거쳐 연주할 수 있다”고 말했다. 펌웨어와 Mixer 애플리케이션은 현재 Heritage Audio 웹사이트에서 받을 수 있다."
+                "x": "“Songs composed by AI have precisely learned each era's hit formulas from vast big data, so their technical completeness reaches 99 points. But the remaining 1% of 'newness' can only be filled by humans.”"
+              },
+              {
+                "t": "img",
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285594_web.jpg",
+                "cap": "Cho Young-soo. (Photo courtesy of Vtopian)"
+              },
+              {
+                "t": "p",
+                "x": "Follow-up characters are being built in turn, with a vocal group as the final goal. “The clear goal for the rest of my music life is to become a composer who writes a Billboard No. 1 song.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Heritage、DSP上で\ni73 Proが神経網アンプ",
-          "body": "ファームウェア更新で、i73 Proが内蔵DSPでNAM A2キャプチャを直接動かす。",
-          "mini_headline": "i73 ProがNAM A2対応",
+          "headline": "チョ・ヨンス初の仮想歌手\nビルボード狙いデビュー",
+          "body": "チョ・ヨンスはAI歌手を発表し、AIが99なら最後の1%は人間の役目だと語った。",
+          "mini_headline": "チョ・ヨンスのAI歌手",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/h/heritage_audio_nam_a2_0-hbH78FIVnEagNT4vjmT0H48ZpPbbIcyU.jpg"
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285593_web.jpg",
+                "cap": "チョ・ヨンス。（写真＝ブイトピアン提供）"
               },
               {
                 "t": "p",
-                "x": "Heritage Audioは、同社のi73 Proオーディオインターフェースが内蔵DSP上でNAM（Neural Amp Modeler）A2キャプチャをホストできるようにするファームウェアアップデートを公開した。既存ユーザー全員に無償で提供され、ギターアンプやペダル、アウトボード機器の高品質なエミュレーションを通して録音できる。"
+                "x": "作曲家兼プロデューサーのチョ・ヨンスが、初のバーチャルアーティスト「ウォン（WON）」を世に送り出す。WONは8日午後6時に初のシングル「ママ・ソング（Mama Song）」を発表し、正式にデビューする。2007年から2011年まで5年連続で著作権料収入1位を守った彼は、「自分が望む音楽をそのまま歌ってくれるキャラクター歌手を自ら作り、英語の歌でも多様なジャンルでも制限なく表現してみよう」と決意した。"
+              },
+              {
+                "t": "img",
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285590_web.jpg",
+                "cap": "ウォン（WON）。（写真＝ブイトピアン提供）"
               },
               {
                 "t": "p",
-                "x": "NAMは、実機のアンプ、ペダル、アウトボード機器、さらにはシグナルチェーン全体をニューラルモデルとしてキャプチャするオープンソース技術だ。2 June 2026に公開された第二世代アーキテクチャのA2は、より少ない計算資源で音質を高めている。ユーザーは.namファイルをi73 ProのDSPで直接ホストでき、CPUリソースを使わず、追加のレイテンシーもなくキャプチャを通して録音できる。"
+                "x": "デビュー曲「ママ・ソング」は母への恋しさと感謝を込めたポップバラードで、歌詞はすべて英語だ。WONの外見と動きには最新技術を使う一方、作曲や編曲、実際のセッション演奏は人の手で仕上げる。チョ・ヨンスがガイドボーカルを録音すると、AI変換のプロセスを経てWONの最終的な声に仕上がる。"
               },
               {
                 "t": "p",
-                "x": "Heritage Audioの創業者（Founder）Peter Rodriguezは「内蔵ローダーにより、i73 Proのオーナーはプラグインも追加機器も不要で、レイテンシーを気にすることもなく、NAMの世界にあるあらゆるアンプ、ペダル、アウトボードを通して演奏できる」と述べた。ファームウェアとMixerアプリケーションは、Heritage Audioのウェブサイトで現在入手できる。"
+                "x": "「AIが作曲した曲は膨大なビッグデータで時代ごとのヒットの方程式を精密に学習しているので、技術的な完成度は99点に達します。でも残りの1%の『新しさ』は人間にしか埋められません」"
+              },
+              {
+                "t": "img",
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285594_web.jpg",
+                "cap": "チョ・ヨンス。（写真＝ブイトピアン提供）"
+              },
+              {
+                "t": "p",
+                "x": "後続のキャラクターも順次制作中で、最終目標はボーカルグループだ。「これからの音楽人生の明確な目標は、ビルボード1位の曲を書く作曲家になることです」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Heritage：神经放大器\n跑在i73 Pro DSP上",
-          "body": "固件更新让i73 Pro接口可直接在内置DSP上运行NAM A2放大器捕获。",
-          "mini_headline": "i73 Pro支持NAM A2",
+          "headline": "作曲家首个虚拟歌手\n以公告牌为目标出道",
+          "body": "Cho Young-soo推出AI歌手，称若AI是99，最后的1%属于人类。",
+          "mini_headline": "Cho Young-soo的AI歌手",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/h/heritage_audio_nam_a2_0-hbH78FIVnEagNT4vjmT0H48ZpPbbIcyU.jpg"
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285593_web.jpg",
+                "cap": "Cho Young-soo。（图片＝Vtopian提供）"
               },
               {
                 "t": "p",
-                "x": "Heritage Audio刚刚发布固件更新，让旗下i73 Pro音频接口可以在内置DSP上运行NAM（Neural Amp Modeler）A2捕获。此次更新对所有现有用户免费，用户可通过吉他放大器、效果器和外置设备的高品质模拟进行录音。"
+                "x": "作曲家兼制作人Cho Young-soo推出旗下首个虚拟艺人“WON”。WON将于8日下午6点发行首支单曲《Mama Song》并正式出道。他曾在2007年至2011年连续5年保持版权收入第1名，并下定决心：“亲手打造能完整演唱我想要的音乐的角色歌手，无论英文歌曲还是各种曲风，都不受限制地表达出来。”"
+              },
+              {
+                "t": "img",
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285590_web.jpg",
+                "cap": "WON。（图片＝Vtopian提供）"
               },
               {
                 "t": "p",
-                "x": "NAM是一项开源技术，可将真实的放大器、效果器、外置设备乃至完整信号链捕获为神经网络模型。其第二代架构A2于2 June 2026发布，在消耗更少计算资源的同时带来更好的音质。用户现在可以直接在i73 Pro的DSP上加载.nam文件，通过捕获进行录音，既不占用CPU资源，也不会增加任何延迟。"
+                "x": "出道曲《Mama Song》是一首表达对母亲的思念与感激的流行抒情曲，歌词全部为英文。WON的外形和动作采用最新技术，而作曲、编曲和真实的乐手演奏则由人亲手完成。Cho Young-soo录制引导人声后，经过AI转换，最终形成WON的音色。"
               },
               {
                 "t": "p",
-                "x": "Heritage Audio创始人（Founder）Peter Rodriguez表示：“借助内置加载器，i73 Pro用户无需插件、无需额外设备，也不必担心延迟，就能通过NAM世界中的任何放大器、效果器或外置设备演奏。”固件和Mixer应用现已可从Heritage Audio官网获取。"
+                "x": "“AI创作的歌曲通过海量大数据精确学习了各个时代的热门公式，技术完成度高达99分。但剩下1%的‘新意’只有人类才能填补。”"
+              },
+              {
+                "t": "img",
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285594_web.jpg",
+                "cap": "Cho Young-soo。（图片＝Vtopian提供）"
+              },
+              {
+                "t": "p",
+                "x": "后续角色也在陆续打造中，最终目标是组建声乐组合。“如今我余下音乐生涯的明确目标，是成为写出Billboard第1名歌曲的作曲家。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "El Heritage i73 Pro ejecuta\ncapturas neuronales en su DSP",
-          "body": "Una actualización de firmware permite a las interfaces i73 Pro ejecutar capturas NAM A2 directamente en su DSP interno.",
-          "mini_headline": "El i73 Pro recibe NAM A2",
+          "headline": "Cho Young-soo, rumbo a Billboard\ncon su primer cantante virtual",
+          "body": "Al presentar su cantante de AI, Cho Young-soo dijo que si la AI pone el 99, el último 1% corresponde a las personas.",
+          "mini_headline": "El cantante de AI de Cho Young-soo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/h/heritage_audio_nam_a2_0-hbH78FIVnEagNT4vjmT0H48ZpPbbIcyU.jpg"
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285593_web.jpg",
+                "cap": "Cho Young-soo. (Foto: cortesía de Vtopian)"
               },
               {
                 "t": "p",
-                "x": "Heritage Audio acaba de lanzar una actualización de firmware que permite a sus interfaces de audio i73 Pro alojar capturas NAM (Neural Amp Modeler) A2 en su DSP interno. Gratuita para todos los propietarios actuales, la actualización permite grabar a través de emulaciones de alta calidad de amplificadores de guitarra, pedales y equipos outboard."
+                "x": "El compositor y productor Cho Young-soo presenta a su primer artista virtual, 'WON'. WON debutará oficialmente el día 8 a las 6 de la tarde con su primer sencillo, 'Mama Song'. Cho, que se mantuvo como número 1 en ingresos por derechos de autor durante 5 años consecutivos, de 2007 a 2011, decidió: “Voy a crear yo mismo un cantante personaje que pueda interpretar por completo la música que quiero, y a expresarla sin límites, ya sean canciones en inglés o géneros diversos”."
+              },
+              {
+                "t": "img",
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285590_web.jpg",
+                "cap": "WON. (Foto: cortesía de Vtopian)"
               },
               {
                 "t": "p",
-                "x": "NAM es una tecnología de código abierto que captura amplificadores, pedales y equipos outboard reales, e incluso cadenas de señal completas, como modelos neuronales. A2, su arquitectura de segunda generación publicada el 2 de junio de 2026, ofrece mejor calidad de sonido con menos recursos de cálculo. Ahora los usuarios pueden alojar archivos .nam directamente en el DSP del i73 Pro y grabar a través de las capturas sin usar recursos de CPU ni añadir latencia."
+                "x": "El tema de debut, 'Mama Song', es una balada pop que expresa añoranza y gratitud hacia una madre, con la letra íntegramente en inglés. La apariencia y los movimientos de WON usan la tecnología más reciente, pero la composición, los arreglos y la interpretación real de los músicos de sesión son obra de manos humanas. Cuando Cho graba una voz guía, esta pasa por un proceso de conversión con AI y se convierte en el timbre final de WON."
               },
               {
                 "t": "p",
-                "x": "“Con el cargador integrado, el propietario de un i73 Pro puede tocar a través de cualquier amplificador, pedal o equipo outboard del universo NAM, sin plug-in, sin dispositivo adicional y sin preocuparse por la latencia”, dijo Peter Rodriguez, fundador de Heritage Audio. El firmware y la aplicación Mixer ya están disponibles en el sitio web de Heritage Audio."
+                "x": "“Las canciones compuestas por AI han aprendido con precisión las fórmulas de éxito de cada época a partir de enormes volúmenes de big data, así que su calidad técnica llega a 99 puntos. Pero el 1% restante, la ‘novedad’, solo pueden aportarlo los humanos”."
+              },
+              {
+                "t": "img",
+                "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285594_web.jpg",
+                "cap": "Cho Young-soo. (Foto: cortesía de Vtopian)"
+              },
+              {
+                "t": "p",
+                "x": "Los siguientes personajes se están desarrollando de forma progresiva, y el objetivo final es un grupo vocal. “Mi objetivo claro para lo que me queda de vida musical es convertirme en un compositor que escriba una canción número 1 en Billboard”."
               }
             ]
           }
@@ -869,201 +1139,171 @@
       }
     },
     {
-      "id": "procraft-instruction-music-edit",
+      "id": "ivors-composer-awards-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ProCraft, 텍스트\n지시만으로 음악 편집",
-      "body": "0.5B 코덱 언어 모델 ProCraft가 30초 음악을 자유 지시대로 편집한다.",
-      "mini_headline": "ProCraft, 텍스트로 믹스 편집",
+      "headline": "Ivors, 인간 작곡가\n시상식 다시 연다",
+      "body": "Ivors Academy Composer Awards는 AI 시대 작곡가를 비춘다.",
+      "mini_headline": "Ivors, 인간 작곡가 지지",
       "tool": "Music",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2611.07423",
+      "source": "Big Issue",
+      "url": "https://www.bigissue.com/culture/music/ai-composers-ivors-awards/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "음악 제작에는 보통 여러 편집 작업이 따르는데, 작업마다 전문 도구와 전문 지식이 든다. ProCraft는 0.5B 파라미터 규모의 가벼운 자기회귀 코덱 언어 모델이다. 복합 요청이 섞인 자유 형식 지시를 받아 30초 길이 음악 발췌를 처음부터 끝까지 편집한다. 지원 작업은 트랙 제거부터 반주 생성까지 일곱 가지로, 여덟 가지 악기를 다룬다."
-          },
-          {
             "t": "img",
-            "src": "https://arxiv.org/html/2611.07423v1/fig_architecture.svg",
-            "cap": "그림 1: ProCraft 아키텍처."
+            "src": "https://www.bigissue.com/wp-content/uploads/2026/10/1742-Music_Hero.jpg?w=1920",
+            "cap": "Lord Neri. 사진: Louise Haywood-Schiefer"
           },
           {
             "t": "p",
-            "x": "사전 학습된 음악 임베딩에 표현을 정렬해 편집 범위 밖의 내용은 그대로 지키며 모든 디코더 층의 게이트 교차 어텐션으로 생성 결과를 지시에 묶어 둔다. 연구진은 복합 요청을 학습시키려고 On-the-fly Editing-pair Synthesis를 도입했다."
-          },
-          {
-            "t": "img",
-            "src": "https://arxiv.org/html/2611.07423v1/fig_data_pipeline.svg",
-            "cap": "그림 2: On-the-fly editing-pair synthesis."
+            "x": "AI는 기존 작품을 받아들여 흉내 내는 방식에 기대는데, 지금은 동의·보상·투명성을 다룰 명확한 틀이 없다. The Ivors Academy CEO Roberto Neri는 “보조 도구로서 AI는 놀라운 자산이 될 수 있다”면서도 “생성형 AI는 큰 문제”라고 말한다."
           },
           {
             "t": "p",
-            "x": "MoisesDB와 Slakh에서 트랙 제거·추출·노이즈 제거 복합 지시를 처리할 때 ProCraft는 자유 텍스트 기반 편집기 네 종을 앞섰다. 청취자 16명이 참여한 사용자 연구에서는 제거와 노이즈 제거에서 가장 높은 평가를 받았다. 추출과 악기 전환에서는 16배 큰 모델과 대등했다."
+            "x": "그가 짚는 것은 “얼굴 없는 작곡가”다. “Hans Zimmer처럼 유명한 사람도 길을 걸으면 알아보는 이가 없을 수 있다… 우리의 우려는 작곡가의 작업이 흔히 눈에 띄지 않기에, 음악이 작곡가를 대체하는 일에 사람들이 덜 공감한다는 점이다.”"
+          },
+          {
+            "t": "p",
+            "x": "이에 Ivors는 The Ivors Composer Week(16-20 November) 행사로 Ivors Composer Awards(17 November)를 다시 열어 “공동체 전체의 위상을 높이고” 송라이터를 위한 Ivor Novello Awards에 맞먹는 무대를 마련한다. Best Original Film Score와 Best Original Video Game Score를 포함한 아홉 개 부문에 작곡가와 대본작가 36명이 후보로 올랐다. Innovation Award는 Max Richter가 받는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "ProCraft edits music\nfrom plain-text instructions",
-          "body": "ProCraft, a 0.5B-parameter codec language model, edits 30-second music clips from free-form instructions end to end.",
-          "mini_headline": "ProCraft edits mixes by text",
+          "headline": "Ivors relaunches awards\nfor human screen composers",
+          "body": "The Ivors Academy's Composer Awards aim to raise the profile of human screen and media composers under AI pressure.",
+          "mini_headline": "Ivors backs human composers",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Music production typically involves multiple editing operations that each require specialized tools and expertise. ProCraft is a lightweight 0.5B-parameter autoregressive codec language model that edits 30s music excerpts end-to-end from free-form instructions, including compound requests. It supports seven operations across eight instruments, from track removal to accompaniment generation."
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.07423v1/fig_architecture.svg",
-                "cap": "Figure 1: Architecture of ProCraft."
+                "src": "https://www.bigissue.com/wp-content/uploads/2026/10/1742-Music_Hero.jpg?w=1920",
+                "cap": "Lord Neri. Image: Louise Haywood-Schiefer"
               },
               {
                 "t": "p",
-                "x": "Representation alignment with pretrained music embeddings preserves content outside the edit, and gated cross-attention in every decoder layer keeps generation tied to the instruction. To train on compound requests, the authors introduce On-the-fly Editing-pair Synthesis."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2611.07423v1/fig_data_pipeline.svg",
-                "cap": "Figure 2: On-the-fly editing-pair synthesis."
+                "x": "AI relies upon ingesting existing work to imitate it, and there is currently no clear framework for consent, compensation or transparency. \"As an assisted tool, AI could be an amazing asset,\" says Roberto Neri, CEO of The Ivors Academy. \"However, generative AI is a major issue.\""
               },
               {
                 "t": "p",
-                "x": "ProCraft outperforms four free-text editors on compound instructions for track removal, extraction and denoising on MoisesDB and Slakh. In a user study (16 listeners), it was rated highest on removal and denoising and on-par with a 16-times larger model on extraction and instrument transfer."
+                "x": "He points to the \"faceless composer\": \"Even someone as famous as Hans Zimmer can walk down the street and not be recognised… Our concern is that people are less sympathetic around music replacing composers as their work is often unseen.\""
+              },
+              {
+                "t": "p",
+                "x": "To that end, the Ivors is relaunching the Ivors Composer Awards (17 November) to \"elevate the entire community\" and provide parity with the Ivor Novello Awards for songwriters, as part of The Ivors Composer Week (16-20 November). 36 composers and librettists are nominated across nine categories, including Best Original Film Score and Best Original Video Game Score. Max Richter will receive the Innovation Award."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ProCraft, 텍스트\n지시만으로 음악 편집",
-          "body": "0.5B 코덱 언어 모델 ProCraft가 30초 음악을 자유 지시대로 편집한다.",
-          "mini_headline": "ProCraft, 텍스트로 믹스 편집",
+          "headline": "Ivors, 인간 작곡가\n시상식 다시 연다",
+          "body": "Ivors Academy Composer Awards는 AI 시대 작곡가를 비춘다.",
+          "mini_headline": "Ivors, 인간 작곡가 지지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "음악 제작에는 보통 여러 편집 작업이 따르는데, 작업마다 전문 도구와 전문 지식이 든다. ProCraft는 0.5B 파라미터 규모의 가벼운 자기회귀 코덱 언어 모델이다. 복합 요청이 섞인 자유 형식 지시를 받아 30초 길이 음악 발췌를 처음부터 끝까지 편집한다. 지원 작업은 트랙 제거부터 반주 생성까지 일곱 가지로, 여덟 가지 악기를 다룬다."
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.07423v1/fig_architecture.svg",
-                "cap": "그림 1: ProCraft 아키텍처."
+                "src": "https://www.bigissue.com/wp-content/uploads/2026/10/1742-Music_Hero.jpg?w=1920",
+                "cap": "Lord Neri. 사진: Louise Haywood-Schiefer"
               },
               {
                 "t": "p",
-                "x": "사전 학습된 음악 임베딩에 표현을 정렬해 편집 범위 밖의 내용은 그대로 지키며 모든 디코더 층의 게이트 교차 어텐션으로 생성 결과를 지시에 묶어 둔다. 연구진은 복합 요청을 학습시키려고 On-the-fly Editing-pair Synthesis를 도입했다."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2611.07423v1/fig_data_pipeline.svg",
-                "cap": "그림 2: On-the-fly editing-pair synthesis."
+                "x": "AI는 기존 작품을 받아들여 흉내 내는 방식에 기대는데, 지금은 동의·보상·투명성을 다룰 명확한 틀이 없다. The Ivors Academy CEO Roberto Neri는 “보조 도구로서 AI는 놀라운 자산이 될 수 있다”면서도 “생성형 AI는 큰 문제”라고 말한다."
               },
               {
                 "t": "p",
-                "x": "MoisesDB와 Slakh에서 트랙 제거·추출·노이즈 제거 복합 지시를 처리할 때 ProCraft는 자유 텍스트 기반 편집기 네 종을 앞섰다. 청취자 16명이 참여한 사용자 연구에서는 제거와 노이즈 제거에서 가장 높은 평가를 받았다. 추출과 악기 전환에서는 16배 큰 모델과 대등했다."
+                "x": "그가 짚는 것은 “얼굴 없는 작곡가”다. “Hans Zimmer처럼 유명한 사람도 길을 걸으면 알아보는 이가 없을 수 있다… 우리의 우려는 작곡가의 작업이 흔히 눈에 띄지 않기에, 음악이 작곡가를 대체하는 일에 사람들이 덜 공감한다는 점이다.”"
+              },
+              {
+                "t": "p",
+                "x": "이에 Ivors는 The Ivors Composer Week(16-20 November) 행사로 Ivors Composer Awards(17 November)를 다시 열어 “공동체 전체의 위상을 높이고” 송라이터를 위한 Ivor Novello Awards에 맞먹는 무대를 마련한다. Best Original Film Score와 Best Original Video Game Score를 포함한 아홉 개 부문에 작곡가와 대본작가 36명이 후보로 올랐다. Innovation Award는 Max Richter가 받는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ProCraft、テキスト\n指示で音楽を編集",
-          "body": "0.5B パラメータのProCraftは、30秒の音楽を自由な指示で丸ごと編集する。",
-          "mini_headline": "ProCraft、テキストでミックス編集",
+          "headline": "Ivors、人間の映像作曲家\n向けの賞を再始動",
+          "body": "Ivors AcademyのComposer AwardsはAI時代の人間の作曲家を照らす。",
+          "mini_headline": "Ivors、人間の作曲家を後押し",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "音楽制作では通常、複数の編集作業が必要で、それぞれに専用ツールと専門知識が求められる。ProCraftは0.5B パラメータの軽量な自己回帰型コーデック言語モデルで、複合的な要求を含む自由形式の指示から30秒の音楽抜粋をエンドツーエンドで編集する。トラック除去から伴奏生成まで、八つの楽器にわたる七つの操作に対応する。"
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.07423v1/fig_architecture.svg",
-                "cap": "図1：ProCraftのアーキテクチャ。"
+                "src": "https://www.bigissue.com/wp-content/uploads/2026/10/1742-Music_Hero.jpg?w=1920",
+                "cap": "Lord Neri。写真：Louise Haywood-Schiefer"
               },
               {
                 "t": "p",
-                "x": "事前学習済み音楽埋め込みとの表現アライメントにより編集対象外の内容を保ち、すべてのデコーダー層に置いたゲート付きクロスアテンションが生成を指示に結び付ける。複合的な要求で学習させるため、著者らはOn-the-fly Editing-pair Synthesisを導入した。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2611.07423v1/fig_data_pipeline.svg",
-                "cap": "図2：On-the-fly editing-pair synthesis。"
+                "x": "AIは既存の作品を取り込んで模倣することに依存しているが、同意、報酬、透明性に関する明確な枠組みは今のところない。The Ivors AcademyのCEO、Roberto Neriは「補助ツールとしてなら、AIは素晴らしい資産になり得る」と言う。「しかし、生成AIは大きな問題だ」"
               },
               {
                 "t": "p",
-                "x": "ProCraftは、MoisesDBとSlakhにおけるトラック除去、抽出、ノイズ除去の複合指示で、自由テキスト型の編集モデル四つを上回った。ユーザー調査（聴取者16人）では除去とノイズ除去で最高評価を得て、抽出と楽器変換では16倍大きいモデルと同等だった。"
+                "x": "彼は「顔のない作曲家」を指摘する。「Hans Zimmerほど有名な人でさえ、通りを歩いていても気づかれないことがある……私たちが懸念しているのは、作曲家の仕事は見えにくいことが多いため、音楽が作曲家に取って代わることに人々があまり同情しないという点だ」"
+              },
+              {
+                "t": "p",
+                "x": "そのためIvorsは、The Ivors Composer Week（16-20 November）の一環としてIvors Composer Awards（17 November）を再始動し、「コミュニティ全体を引き上げ」、ソングライター向けのIvor Novello Awardsと同等の場を設ける。Best Original Film ScoreやBest Original Video Game Scoreを含む九つの部門で、36人の作曲家と台本作家がノミネートされた。Max RichterはInnovation Awardを受賞する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ProCraft用纯文本\n指令编辑音乐",
-          "body": "ProCraft是0.5B 参数的编解码器语言模型，可按自由指令端到端编辑30秒音乐。",
-          "mini_headline": "ProCraft用文字编辑混音",
+          "headline": "Ivors重启奖项\n表彰人类影视作曲家",
+          "body": "Ivors Academy的Composer Awards在AI压力下为人类作曲家发声。",
+          "mini_headline": "Ivors力挺人类作曲家",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "音乐制作通常涉及多种编辑操作，每种都需要专门的工具和专业知识。ProCraft是一个0.5B 参数的轻量级自回归编解码器语言模型，可根据自由形式的指令（包括复合请求）端到端编辑30秒的音乐片段。它支持八种乐器上的七种操作，涵盖从音轨移除到伴奏生成。"
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.07423v1/fig_architecture.svg",
-                "cap": "图1：ProCraft的架构。"
+                "src": "https://www.bigissue.com/wp-content/uploads/2026/10/1742-Music_Hero.jpg?w=1920",
+                "cap": "Lord Neri。图片：Louise Haywood-Schiefer"
               },
               {
                 "t": "p",
-                "x": "通过与预训练音乐嵌入进行表征对齐，模型能保留编辑范围之外的内容；每个解码器层中的门控交叉注意力则让生成始终贴合指令。为在复合请求上训练，作者提出了On-the-fly Editing-pair Synthesis。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2611.07423v1/fig_data_pipeline.svg",
-                "cap": "图2：On-the-fly editing-pair synthesis。"
+                "x": "AI依赖吸收现有作品来进行模仿，而目前在同意、补偿和透明度方面都没有明确的框架。The Ivors Academy的CEO Roberto Neri说：“作为辅助工具，AI可能是一项了不起的资产。”“然而，生成式AI是个大问题。”"
               },
               {
                 "t": "p",
-                "x": "在MoisesDB和Slakh上的音轨移除、提取和降噪复合指令中，ProCraft优于四款自由文本编辑器。在一项用户研究（16名听众）中，它在移除和降噪上获评最高，在提取和乐器转换上与一个大16倍的模型相当。"
+                "x": "他提到“没有面孔的作曲家”：“即使是Hans Zimmer这样有名的人，走在街上也可能没人认出来……我们担心的是，由于作曲家的工作往往不为人所见，人们对音乐取代作曲家一事不太同情。”"
+              },
+              {
+                "t": "p",
+                "x": "为此，作为The Ivors Composer Week（16-20 November）的一部分，Ivors将重启Ivors Composer Awards（17 November），以“提升整个群体”，并使其与面向词曲作者的Ivor Novello Awards地位相当。36位作曲家和剧本作者入围九个类别，包括Best Original Film Score和Best Original Video Game Score。Max Richter将获得Innovation Award。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ProCraft edita música a partir\nde instrucciones en texto",
-          "body": "ProCraft, un modelo de lenguaje de códec de 0.5B parámetros, edita música de 30 segundos con instrucciones libres.",
-          "mini_headline": "ProCraft edita mezclas con texto",
+          "headline": "Ivors relanza premios para\ncompositores humanos de cine",
+          "body": "Los Composer Awards de The Ivors Academy buscan dar visibilidad a los compositores humanos de cine y medios ante la AI.",
+          "mini_headline": "Ivors respalda a los compositores humanos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "La producción musical suele implicar varias operaciones de edición, cada una con herramientas y conocimientos especializados. ProCraft es un modelo de lenguaje de códec autorregresivo y ligero de 0.5B parámetros que edita de principio a fin fragmentos musicales de 30 s a partir de instrucciones libres, incluidas peticiones compuestas. Admite siete operaciones en ocho instrumentos, desde la eliminación de pistas hasta la generación de acompañamiento."
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.07423v1/fig_architecture.svg",
-                "cap": "Figura 1: Arquitectura de ProCraft."
+                "src": "https://www.bigissue.com/wp-content/uploads/2026/10/1742-Music_Hero.jpg?w=1920",
+                "cap": "Lord Neri. Imagen: Louise Haywood-Schiefer"
               },
               {
                 "t": "p",
-                "x": "La alineación de representaciones con embeddings musicales preentrenados conserva el contenido fuera de la edición, y la atención cruzada con compuerta en cada capa del decodificador mantiene la generación ligada a la instrucción. Para entrenar con peticiones compuestas, los autores presentan On-the-fly Editing-pair Synthesis."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2611.07423v1/fig_data_pipeline.svg",
-                "cap": "Figura 2: On-the-fly editing-pair synthesis."
+                "x": "La AI depende de absorber obras existentes para imitarlas, y actualmente no existe un marco claro de consentimiento, compensación o transparencia. “Como herramienta de apoyo, la AI podría ser un recurso extraordinario”, afirma Roberto Neri, CEO de The Ivors Academy. “Sin embargo, la AI generativa es un problema grave”."
               },
               {
                 "t": "p",
-                "x": "ProCraft supera a cuatro editores de texto libre en instrucciones compuestas de eliminación de pistas, extracción y reducción de ruido en MoisesDB y Slakh. En un estudio con usuarios (16 oyentes), obtuvo la mejor valoración en eliminación y reducción de ruido, y quedó a la par de un modelo 16 veces mayor en extracción y transferencia de instrumentos."
+                "x": "Él señala al “compositor sin rostro”: “Incluso alguien tan famoso como Hans Zimmer puede caminar por la calle sin que lo reconozcan… Nos preocupa que la gente sienta menos empatía ante una música que reemplace a los compositores, ya que su trabajo a menudo pasa inadvertido”."
+              },
+              {
+                "t": "p",
+                "x": "Con ese fin, los Ivors relanzan los Ivors Composer Awards (17 de noviembre) para “elevar a toda la comunidad” y ofrecer paridad con los Ivor Novello Awards para compositores de canciones, como parte de The Ivors Composer Week (16-20 de noviembre). Hay 36 compositores y libretistas nominados en nueve categorías, entre ellas Best Original Film Score y Best Original Video Game Score. Max Richter recibirá el Innovation Award."
               }
             ]
           }
@@ -1071,129 +1311,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ProCraft, 텍스트\n지시만으로 음악 편집",
-          "body": "0.5B 코덱 언어 모델 ProCraft는 30초 음악을 자유 지시로 편집한다.",
-          "mini_headline": "ProCraft, 텍스트로 믹스 편집",
+          "headline": "Ivors, 인간 작곡가\n위한 시상식 재출범",
+          "body": "Ivors Academy Composer Awards는 AI 시대 작곡가를 비춘다.",
+          "mini_headline": "Ivors, 인간 작곡가 지지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "음악 제작에는 보통 여러 편집 작업이 따르고, 작업마다 전문 도구와 전문 지식이 필요하다. ProCraft는 0.5B 파라미터 규모의 가벼운 자기회귀 코덱 언어 모델로, 복합 요청을 포함한 자유 형식 지시에 따라 30초 길이의 음악 발췌를 처음부터 끝까지 편집한다. 트랙 제거부터 반주 생성까지 여덟 가지 악기에 걸쳐 일곱 가지 작업을 지원한다."
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.07423v1/fig_architecture.svg",
-                "cap": "그림 1: ProCraft의 아키텍처."
+                "src": "https://www.bigissue.com/wp-content/uploads/2026/10/1742-Music_Hero.jpg?w=1920",
+                "cap": "Lord Neri. 사진: Louise Haywood-Schiefer"
               },
               {
                 "t": "p",
-                "x": "사전 학습된 음악 임베딩과의 표현 정렬로 편집 범위 밖의 내용을 보존하고, 모든 디코더 층의 게이트 교차 어텐션이 생성 결과를 지시에 묶어 둔다. 복합 요청을 학습시키기 위해 연구진은 On-the-fly Editing-pair Synthesis를 도입했다."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2611.07423v1/fig_data_pipeline.svg",
-                "cap": "그림 2: On-the-fly editing-pair synthesis."
+                "x": "AI는 기존 작품을 받아들여 모방하는 방식에 기대지만, 지금은 동의·보상·투명성에 관한 명확한 틀이 없다. The Ivors Academy CEO Roberto Neri는 “보조 도구로서 AI는 놀라운 자산이 될 수 있다”면서도 “생성형 AI는 큰 문제”라고 말한다."
               },
               {
                 "t": "p",
-                "x": "ProCraft는 MoisesDB와 Slakh에서 트랙 제거, 추출, 노이즈 제거에 관한 복합 지시를 처리할 때 자유 텍스트 기반 편집기 네 종을 앞섰다. 사용자 연구(청취자 16명)에서는 제거와 노이즈 제거에서 가장 높은 평가를 받았고, 추출과 악기 전환에서는 16배 큰 모델과 대등했다."
+                "x": "그는 “얼굴 없는 작곡가”를 짚는다. “Hans Zimmer처럼 유명한 사람도 길을 걸으면 알아보는 이가 없을 수 있다… 우리의 우려는 작곡가의 작업이 흔히 눈에 띄지 않기에, 음악이 작곡가를 대체하는 일에 사람들이 덜 공감한다는 점이다.”"
+              },
+              {
+                "t": "p",
+                "x": "이를 위해 Ivors는 The Ivors Composer Week(16-20 November)의 일환으로 Ivors Composer Awards(17 November)를 다시 열어 “공동체 전체의 위상을 높이고” 송라이터를 위한 Ivor Novello Awards와 동등한 무대를 마련한다. Best Original Film Score와 Best Original Video Game Score를 비롯한 아홉 개 부문에 작곡가와 대본작가 36명이 후보에 올랐다. Max Richter는 Innovation Award를 받는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ProCraft、テキスト\n指示で音楽を編集",
-          "body": "0.5B パラメータのProCraftは、30秒の音楽を自由な指示で丸ごと編集する。",
-          "mini_headline": "ProCraft、テキストでミックス編集",
+          "headline": "Ivors、人間の映像作曲家\n向けの賞を再始動",
+          "body": "Ivors AcademyのComposer AwardsはAI時代の人間の作曲家を照らす。",
+          "mini_headline": "Ivors、人間の作曲家を後押し",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "音楽制作では通常、複数の編集作業が必要で、それぞれに専用ツールと専門知識が求められる。ProCraftは0.5B パラメータの軽量な自己回帰型コーデック言語モデルで、複合的な要求を含む自由形式の指示から30秒の音楽抜粋をエンドツーエンドで編集する。トラック除去から伴奏生成まで、八つの楽器にわたる七つの操作に対応する。"
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.07423v1/fig_architecture.svg",
-                "cap": "図1：ProCraftのアーキテクチャ。"
+                "src": "https://www.bigissue.com/wp-content/uploads/2026/10/1742-Music_Hero.jpg?w=1920",
+                "cap": "Lord Neri。写真：Louise Haywood-Schiefer"
               },
               {
                 "t": "p",
-                "x": "事前学習済み音楽埋め込みとの表現アライメントにより編集対象外の内容を保ち、すべてのデコーダー層に置いたゲート付きクロスアテンションが生成を指示に結び付ける。複合的な要求で学習させるため、著者らはOn-the-fly Editing-pair Synthesisを導入した。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2611.07423v1/fig_data_pipeline.svg",
-                "cap": "図2：On-the-fly editing-pair synthesis。"
+                "x": "AIは既存の作品を取り込んで模倣することに依存しているが、同意、報酬、透明性に関する明確な枠組みは今のところない。The Ivors AcademyのCEO、Roberto Neriは「補助ツールとしてなら、AIは素晴らしい資産になり得る」と言う。「しかし、生成AIは大きな問題だ」"
               },
               {
                 "t": "p",
-                "x": "ProCraftは、MoisesDBとSlakhにおけるトラック除去、抽出、ノイズ除去の複合指示で、自由テキスト型の編集モデル四つを上回った。ユーザー調査（聴取者16人）では除去とノイズ除去で最高評価を得て、抽出と楽器変換では16倍大きいモデルと同等だった。"
+                "x": "彼は「顔のない作曲家」を指摘する。「Hans Zimmerほど有名な人でさえ、通りを歩いていても気づかれないことがある……私たちが懸念しているのは、作曲家の仕事は見えにくいことが多いため、音楽が作曲家に取って代わることに人々があまり同情しないという点だ」"
+              },
+              {
+                "t": "p",
+                "x": "そのためIvorsは、The Ivors Composer Week（16-20 November）の一環としてIvors Composer Awards（17 November）を再始動し、「コミュニティ全体を引き上げ」、ソングライター向けのIvor Novello Awardsと同等の場を設ける。Best Original Film ScoreやBest Original Video Game Scoreを含む九つの部門で、36人の作曲家と台本作家がノミネートされた。Max RichterはInnovation Awardを受賞する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ProCraft用纯文本\n指令编辑音乐",
-          "body": "ProCraft是0.5B 参数的编解码器语言模型，可按自由指令端到端编辑30秒音乐。",
-          "mini_headline": "ProCraft用文字编辑混音",
+          "headline": "Ivors重启奖项\n表彰人类影视作曲家",
+          "body": "Ivors Academy的Composer Awards在AI压力下为人类作曲家发声。",
+          "mini_headline": "Ivors力挺人类作曲家",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "音乐制作通常涉及多种编辑操作，每种都需要专门的工具和专业知识。ProCraft是一个0.5B 参数的轻量级自回归编解码器语言模型，可根据自由形式的指令（包括复合请求）端到端编辑30秒的音乐片段。它支持八种乐器上的七种操作，涵盖从音轨移除到伴奏生成。"
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.07423v1/fig_architecture.svg",
-                "cap": "图1：ProCraft的架构。"
+                "src": "https://www.bigissue.com/wp-content/uploads/2026/10/1742-Music_Hero.jpg?w=1920",
+                "cap": "Lord Neri。图片：Louise Haywood-Schiefer"
               },
               {
                 "t": "p",
-                "x": "通过与预训练音乐嵌入进行表征对齐，模型能保留编辑范围之外的内容；每个解码器层中的门控交叉注意力则让生成始终贴合指令。为在复合请求上训练，作者提出了On-the-fly Editing-pair Synthesis。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2611.07423v1/fig_data_pipeline.svg",
-                "cap": "图2：On-the-fly editing-pair synthesis。"
+                "x": "AI依赖吸收现有作品来进行模仿，而目前在同意、补偿和透明度方面都没有明确的框架。The Ivors Academy的CEO Roberto Neri说：“作为辅助工具，AI可能是一项了不起的资产。”“然而，生成式AI是个大问题。”"
               },
               {
                 "t": "p",
-                "x": "在MoisesDB和Slakh上的音轨移除、提取和降噪复合指令中，ProCraft优于四款自由文本编辑器。在一项用户研究（16名听众）中，它在移除和降噪上获评最高，在提取和乐器转换上与一个大16倍的模型相当。"
+                "x": "他提到“没有面孔的作曲家”：“即使是Hans Zimmer这样有名的人，走在街上也可能没人认出来……我们担心的是，由于作曲家的工作往往不为人所见，人们对音乐取代作曲家一事不太同情。”"
+              },
+              {
+                "t": "p",
+                "x": "为此，作为The Ivors Composer Week（16-20 November）的一部分，Ivors将重启Ivors Composer Awards（17 November），以“提升整个群体”，并使其与面向词曲作者的Ivor Novello Awards地位相当。36位作曲家和剧本作者入围九个类别，包括Best Original Film Score和Best Original Video Game Score。Max Richter将获得Innovation Award。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ProCraft edita música a partir\nde instrucciones en texto",
-          "body": "ProCraft, un modelo de lenguaje de códec de 0.5B parámetros, edita música de 30 segundos con instrucciones libres.",
-          "mini_headline": "ProCraft edita mezclas con texto",
+          "headline": "Ivors relanza premios para\ncompositores humanos de cine",
+          "body": "Los Composer Awards de The Ivors Academy buscan dar visibilidad a los compositores humanos de cine y medios ante la AI.",
+          "mini_headline": "Ivors respalda a los compositores humanos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "La producción musical suele implicar varias operaciones de edición, cada una con herramientas y conocimientos especializados. ProCraft es un modelo de lenguaje de códec autorregresivo y ligero de 0.5B parámetros que edita de principio a fin fragmentos musicales de 30 s a partir de instrucciones libres, incluidas peticiones compuestas. Admite siete operaciones en ocho instrumentos, desde la eliminación de pistas hasta la generación de acompañamiento."
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.07423v1/fig_architecture.svg",
-                "cap": "Figura 1: Arquitectura de ProCraft."
+                "src": "https://www.bigissue.com/wp-content/uploads/2026/10/1742-Music_Hero.jpg?w=1920",
+                "cap": "Lord Neri. Imagen: Louise Haywood-Schiefer"
               },
               {
                 "t": "p",
-                "x": "La alineación de representaciones con embeddings musicales preentrenados conserva el contenido fuera de la edición, y la atención cruzada con compuerta en cada capa del decodificador mantiene la generación ligada a la instrucción. Para entrenar con peticiones compuestas, los autores presentan On-the-fly Editing-pair Synthesis."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2611.07423v1/fig_data_pipeline.svg",
-                "cap": "Figura 2: On-the-fly editing-pair synthesis."
+                "x": "La AI depende de absorber obras existentes para imitarlas, y actualmente no existe un marco claro de consentimiento, compensación o transparencia. “Como herramienta de apoyo, la AI podría ser un recurso extraordinario”, afirma Roberto Neri, CEO de The Ivors Academy. “Sin embargo, la AI generativa es un problema grave”."
               },
               {
                 "t": "p",
-                "x": "ProCraft supera a cuatro editores de texto libre en instrucciones compuestas de eliminación de pistas, extracción y reducción de ruido en MoisesDB y Slakh. En un estudio con usuarios (16 oyentes), obtuvo la mejor valoración en eliminación y reducción de ruido, y quedó a la par de un modelo 16 veces mayor en extracción y transferencia de instrumentos."
+                "x": "Él señala al “compositor sin rostro”: “Incluso alguien tan famoso como Hans Zimmer puede caminar por la calle sin que lo reconozcan… Nos preocupa que la gente sienta menos empatía ante una música que reemplace a los compositores, ya que su trabajo a menudo pasa inadvertido”."
+              },
+              {
+                "t": "p",
+                "x": "Con ese fin, los Ivors relanzan los Ivors Composer Awards (17 de noviembre) para “elevar a toda la comunidad” y ofrecer paridad con los Ivor Novello Awards para compositores de canciones, como parte de The Ivors Composer Week (16-20 de noviembre). Hay 36 compositores y libretistas nominados en nueve categorías, entre ellas Best Original Film Score y Best Original Video Game Score. Max Richter recibirá el Innovation Award."
               }
             ]
           }
@@ -1201,201 +1421,93 @@
       }
     },
     {
-      "id": "a2o-lite-neon-ai-memes",
+      "id": "music-arxiv-theme-similarity",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 밈, 재벌 총수를\nK-pop Neon 춤판에",
-      "body": "A2O Lite Neon을 띄운 AI-generated 밈에 딥페이크 우려도 인다.",
-      "mini_headline": "AI 밈이 띄운 K-pop Neon",
+      "headline": "게임 음악, 테마와\n닮은 정도를 조절한다",
+      "body": "Super Mario 구간 쌍으로 MIDI 모델을 학습해 테마 유사도를 조절한다.",
+      "mini_headline": "테마 유사도 조절 게임 음악",
       "tool": "Music",
-      "source": "Korea JoongAng Daily",
-      "url": "https://www.koreajoongangdaily.com/entertainment/ai-meme-era-hits-kpop-and-even-tycoons-are-dancing-to-neon/12958219",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.01047",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://image.koreajoongangdaily.com/12958354.webp?imageId=12958354&width=960&height=548&format=jpg",
-            "cap": "AI-generated 이미지에서 SK Group Chey Tae-won 회장(왼쪽)과 Samsung Electronics Lee Jae-yong 회장이 걸그룹 A2O Lite 신곡 “Neon”에 맞춰 춤춘다."
-          },
-          {
             "t": "p",
-            "x": "갓 데뷔한 걸그룹 A2O Lite의 “Neon”이 차트를 휩쓰는 사이 또 다른 것이 화제가 됐다. 멤버 얼굴을 SK Group Chey Tae-won 회장, Samsung Electronics Lee Jae-yong 회장 같은 공인의 얼굴로 바꾼 AI-generated 안무 패러디 영상이다. 청취자들은 후렴이 한국어 ‘미혼’과 ‘이혼’처럼 들린다고 짚었다."
-          },
-          {
-            "t": "p",
-            "x": "직접 패러디 영상을 만들어 보니 삼 분이 채 안 걸렸고 돈도 들지 않았다. AI 영상 플랫폼 Higgsfield에 뮤직비디오 오프닝 장면을 담은 기성 템플릿이 있어서 15초짜리 패러디가 몇 분 만에 완성됐다."
-          },
-          {
-            "t": "img",
-            "src": "https://image.koreajoongangdaily.com/12958352.webp?imageId=12958352&width=960&height=740&format=jpg",
-            "cap": "AI-generated 영상 속 고양이들이 걸그룹 A2O Lite 신곡 “Neon”에 맞춰 춤춘다."
-          },
-          {
-            "t": "p",
-            "x": "이런 영상은 대부분, 어쩌면 전부가 얼굴 주인의 동의 없이 만들어졌다. Lawfirm Taeryun의 Hwang Jin-seop 변호사는 “‘패러디’라는 이름은 방패가 될 수는 있어도 면죄부는 아니다”라고 말했다. Blackpink Jennie와 Girls' Generation Yoona의 소속사는 딥페이크 영상에 무관용 원칙으로 법적 대응하겠다고 밝혔다."
+            "x": "작곡가는 처음 아이디어에서 음악을 키워 가면서, 새 구간마다 그 아이디어와 얼마나 닮게 할지 정한다. 거의 반복에 가까운 것부터 새 소재까지 폭이 넓다. 게임 음악은 긴 플레이 내내 소재가 되풀이되므로 이런 조절이 특히 자주 필요하다. 그런데 음악 모델이 실제 곡에서 유사도 조절을 배우는 경우는 드물다. 연구진은 사전학습된 MIDI 모델을 Super Mario 곡의 구간 쌍으로 추가 학습했다. 레이블은 각 쌍의 유사도를, 컨텍스트 벡터는 주어진 구간(컨텍스트)을 요약한다. 모델은 157개 테스트 컨텍스트마다 레이블별로 여섯 개의 출력을 만든다. 출력은 열두 가지 척도로 평가하며, 선율, 음높이 구성, 리듬, 음 길이를 주요 척도가 하나씩 맡는다. 유사하게 요청한 출력은 평균적으로 비유사하게 요청한 출력보다 자기 컨텍스트와 더 닮았고, 다른 곡과는 그렇지 않았다. 열두 척도 모두 이 출력에 유리했고, 주요 척도는 다중 검정 보정 뒤에도 각각 유의했다. 선율에서 나타난 차이는 대부분 컨텍스트 선율을 더 자주 재진술한 결과다. 레이블만 빼고 똑같은 모델과 비교하면 높은 유사도를 요청했을 때만 출력이 더 비슷해진다. 청취 테스트 평가는 모든 척도 가운데 컨텍스트와의 선율 중복을 가장 가깝게 따라갔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI memes put tycoons\nin K-pop's Neon dance",
-          "body": "AI-generated meme videos made A2O Lite's Neon choreography go viral, but also raise likeness and deepfake concerns.",
-          "mini_headline": "AI memes drive K-pop's Neon",
+          "headline": "Dialing how close new game\nmusic stays to its theme",
+          "body": "Researchers fine-tune a pretrained MIDI model on Super Mario section pairs so composers can set similarity to a theme.",
+          "mini_headline": "Theme-similarity game music",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12958354.webp?imageId=12958354&width=960&height=548&format=jpg",
-                "cap": "AI-generated images of SK Group Chairman Chey Tae-won, left, and Samsung Electronics Executive Chairman Lee Jae-yong dance to girl group A2O Lite's new track \"Neon.\""
-              },
-              {
                 "t": "p",
-                "x": "When the newly debuted girl group A2O Lite’s “Neon” rocked the charts, something else went viral — AI-generated parody videos of the song’s choreography with the members' faces swapped in with public figures, including SK Group Chairman Chey Tae-won and Samsung Electronics Executive Chairman Lee Jae-yong. Listeners had pointed out that the chorus sounds like Korean words for “unmarried” and “divorce.”"
-              },
-              {
-                "t": "p",
-                "x": "An attempt to make a parody video took less than three minutes — and cost nothing. The AI video platform Higgsfield offered a ready-made template with footage from the music video’s opening sequence; within minutes it produced a 15-second parody."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12958352.webp?imageId=12958352&width=960&height=740&format=jpg",
-                "cap": "An AI-generated video features cats dancing to girl group A2O Lite's new song \"Neon.\""
-              },
-              {
-                "t": "p",
-                "x": "Most, if not all, of the videos were created without the consent of the people whose faces were used. \"The name of 'parody' can serve as a shield, but not as immunity,\" attorney Hwang Jin-seop of Lawfirm Taeryun said. Agencies of Blackpink's Jennie and Girls' Generation's Yoona have announced legal measures with zero tolerance over deepfake videos."
+                "x": "Composers develop music from an original idea, controlling how similar each new section is to it, from near repetition to new material. Game music needs this often, as its material repeats over long play. Music models, however, rarely learn to control similarity from real pieces. We further train a pretrained MIDI model on section pairs from Super Mario pieces. A label states each pair's similarity, and a context vector summarises the given section, or context. For 157 test contexts, the model generates six outputs per label. Twelve measures score the outputs; one main measure each covers melody, pitch content, rhythm and note length. On average, outputs requested as similar are more similar to their context than those requested as dissimilar, and not to other pieces. All twelve measures favour them; each main measure stays significant after correction for multiple tests. On melody, the gap comes mainly from more frequent restatement of the context's melody. Against an otherwise identical model without a label, only the request for high similarity makes outputs more similar. In a listening test, ratings followed melodic overlap with the context most closely of all measures."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 밈, 재벌 총수를\nK-pop Neon 춤판에",
-          "body": "A2O Lite Neon을 띄운 AI-generated 밈에 딥페이크 우려도 인다.",
-          "mini_headline": "AI 밈이 띄운 K-pop Neon",
+          "headline": "게임 음악, 테마와\n닮은 정도를 조절한다",
+          "body": "Super Mario 구간 쌍으로 MIDI 모델을 학습해 테마 유사도를 조절한다.",
+          "mini_headline": "테마 유사도 조절 게임 음악",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12958354.webp?imageId=12958354&width=960&height=548&format=jpg",
-                "cap": "AI-generated 이미지에서 SK Group Chey Tae-won 회장(왼쪽)과 Samsung Electronics Lee Jae-yong 회장이 걸그룹 A2O Lite 신곡 “Neon”에 맞춰 춤춘다."
-              },
-              {
                 "t": "p",
-                "x": "갓 데뷔한 걸그룹 A2O Lite의 “Neon”이 차트를 휩쓰는 사이 또 다른 것이 화제가 됐다. 멤버 얼굴을 SK Group Chey Tae-won 회장, Samsung Electronics Lee Jae-yong 회장 같은 공인의 얼굴로 바꾼 AI-generated 안무 패러디 영상이다. 청취자들은 후렴이 한국어 ‘미혼’과 ‘이혼’처럼 들린다고 짚었다."
-              },
-              {
-                "t": "p",
-                "x": "직접 패러디 영상을 만들어 보니 삼 분이 채 안 걸렸고 돈도 들지 않았다. AI 영상 플랫폼 Higgsfield에 뮤직비디오 오프닝 장면을 담은 기성 템플릿이 있어서 15초짜리 패러디가 몇 분 만에 완성됐다."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12958352.webp?imageId=12958352&width=960&height=740&format=jpg",
-                "cap": "AI-generated 영상 속 고양이들이 걸그룹 A2O Lite 신곡 “Neon”에 맞춰 춤춘다."
-              },
-              {
-                "t": "p",
-                "x": "이런 영상은 대부분, 어쩌면 전부가 얼굴 주인의 동의 없이 만들어졌다. Lawfirm Taeryun의 Hwang Jin-seop 변호사는 “‘패러디’라는 이름은 방패가 될 수는 있어도 면죄부는 아니다”라고 말했다. Blackpink Jennie와 Girls' Generation Yoona의 소속사는 딥페이크 영상에 무관용 원칙으로 법적 대응하겠다고 밝혔다."
+                "x": "작곡가는 처음 아이디어에서 음악을 키워 가면서, 새 구간마다 그 아이디어와 얼마나 닮게 할지 정한다. 거의 반복에 가까운 것부터 새 소재까지 폭이 넓다. 게임 음악은 긴 플레이 내내 소재가 되풀이되므로 이런 조절이 특히 자주 필요하다. 그런데 음악 모델이 실제 곡에서 유사도 조절을 배우는 경우는 드물다. 연구진은 사전학습된 MIDI 모델을 Super Mario 곡의 구간 쌍으로 추가 학습했다. 레이블은 각 쌍의 유사도를, 컨텍스트 벡터는 주어진 구간(컨텍스트)을 요약한다. 모델은 157개 테스트 컨텍스트마다 레이블별로 여섯 개의 출력을 만든다. 출력은 열두 가지 척도로 평가하며, 선율, 음높이 구성, 리듬, 음 길이를 주요 척도가 하나씩 맡는다. 유사하게 요청한 출력은 평균적으로 비유사하게 요청한 출력보다 자기 컨텍스트와 더 닮았고, 다른 곡과는 그렇지 않았다. 열두 척도 모두 이 출력에 유리했고, 주요 척도는 다중 검정 보정 뒤에도 각각 유의했다. 선율에서 나타난 차이는 대부분 컨텍스트 선율을 더 자주 재진술한 결과다. 레이블만 빼고 똑같은 모델과 비교하면 높은 유사도를 요청했을 때만 출력이 더 비슷해진다. 청취 테스트 평가는 모든 척도 가운데 컨텍스트와의 선율 중복을 가장 가깝게 따라갔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIミームで財閥トップが\nK-pop「Neon」を踊る",
-          "body": "AI-generatedミームでA2O LiteのNeonが拡散し、肖像権の懸念も生んだ。",
-          "mini_headline": "AIミームがK-pop「Neon」を後押し",
+          "headline": "新しいゲーム音楽の\nテーマとの近さを調整",
+          "body": "Super Marioの区間ペアでMIDIモデルを訓練し、テーマとの類似度を調整可能にした。",
+          "mini_headline": "テーマ類似度を操るゲーム音楽",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12958354.webp?imageId=12958354&width=960&height=548&format=jpg",
-                "cap": "AI-generatedの画像で、ガールズグループA2O Liteの新曲「Neon」に合わせて踊るSK GroupのChey Tae-won会長（左）とSamsung ElectronicsのLee Jae-yong会長。"
-              },
-              {
                 "t": "p",
-                "x": "デビューしたばかりのガールズグループA2O Liteの「Neon」がチャートを席巻すると、別のものも話題になった。メンバーの顔をSK GroupのChey Tae-won会長やSamsung ElectronicsのLee Jae-yong会長ら著名人の顔に差し替えた、AI-generatedの振り付けパロディ動画だ。リスナーからは、サビが韓国語の「未婚」と「離婚」に聞こえるとの指摘が出ていた。"
-              },
-              {
-                "t": "p",
-                "x": "パロディ動画を作ってみると、三分足らずで、費用もかからなかった。AI動画プラットフォームHiggsfieldはミュージックビデオ冒頭の映像を使った既製テンプレートを用意しており、数分で15秒のパロディが完成した。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12958352.webp?imageId=12958352&width=960&height=740&format=jpg",
-                "cap": "ガールズグループA2O Liteの新曲「Neon」に合わせて猫が踊るAI-generatedの動画。"
-              },
-              {
-                "t": "p",
-                "x": "動画の大半、あるいはすべてが、顔を使われた本人の同意なく作られた。Lawfirm TaeryunのHwang Jin-seop弁護士は「『パロディ』という名目は盾にはなっても、免罪符にはならない」と語った。BlackpinkのJennieとGirls' GenerationのYoonaの所属事務所は、ディープフェイク動画に対しゼロトレランスで法的措置を取ると発表している。"
+                "x": "作曲家は元のアイデアから音楽を展開し、ほぼ繰り返しから新しい素材まで、新しい各セクションがそれにどれだけ似るかを制御する。ゲーム音楽は長いプレイの間に素材が繰り返されるため、これを頻繁に必要とする。しかし音楽モデルが実際の楽曲から類似度の制御を学ぶことはまれだ。我々は事前学習済みのMIDIモデルを、Super Marioの楽曲から取ったセクションのペアでさらに学習させる。ラベルは各ペアの類似度を示し、コンテキストベクトルは与えられたセクション、すなわちコンテキストを要約する。157のテストコンテキストに対し、モデルはラベルごとに六つの出力を生成する。十二の指標で出力を評価し、旋律、音高内容、リズム、音価をそれぞれ一つの主要指標が扱う。平均すると、似るよう要求された出力は、似ないよう要求された出力よりも自らのコンテキストに似ており、他の楽曲には似ていない。十二の指標すべてがそれらを支持し、各主要指標は多重検定の補正後も有意である。旋律では、この差は主にコンテキストの旋律をより頻繁に再提示することから生じる。ラベルがない以外は同一のモデルと比べると、高い類似度を要求した場合にのみ出力がより似たものになる。聴取テストでは、評価はすべての指標の中でコンテキストとの旋律の重なりに最も密接に従った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI梗视频让富豪\n跳起K-pop《Neon》",
-          "body": "AI-generated梗视频带火A2O Lite的Neon，也引发肖像权与深度伪造担忧。",
-          "mini_headline": "AI梗视频带火K-pop《Neon》",
+          "headline": "调节新游戏音乐\n与主题的相似程度",
+          "body": "研究者用Super Mario段落对微调预训练MIDI模型，让作曲者可设定与主题的相似度。",
+          "mini_headline": "可调主题相似度的游戏音乐",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12958354.webp?imageId=12958354&width=960&height=548&format=jpg",
-                "cap": "AI-generated图像中，SK Group会长Chey Tae-won（左）与Samsung Electronics执行董事长Lee Jae-yong随女团A2O Lite的新歌《Neon》起舞。"
-              },
-              {
                 "t": "p",
-                "x": "新出道女团A2O Lite的《Neon》登上排行榜时，另一样东西也火了——AI-generated的编舞恶搞视频，把成员的脸换成了SK Group会长Chey Tae-won、Samsung Electronics执行董事长Lee Jae-yong等公众人物。听众此前指出，副歌听起来像韩语中的“未婚”和“离婚”。"
-              },
-              {
-                "t": "p",
-                "x": "尝试制作一段恶搞视频，用时不到三分钟，而且分文未花。AI视频平台Higgsfield提供了一个现成模板，内含该曲音乐视频的开场画面；几分钟内就生成了一段15秒的恶搞视频。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12958352.webp?imageId=12958352&width=960&height=740&format=jpg",
-                "cap": "AI-generated视频中，一群猫随女团A2O Lite的新歌《Neon》起舞。"
-              },
-              {
-                "t": "p",
-                "x": "这些视频即便不是全部，也大多未经被使用面孔者本人同意。Lawfirm Taeryun律师Hwang Jin-seop说：“‘恶搞’之名可以当作盾牌，但不能当作免责金牌。”Blackpink的Jennie和Girls' Generation的Yoona所属经纪公司已宣布，将对深度伪造视频采取零容忍的法律措施。"
+                "x": "作曲者从原始构思出发发展音乐，控制每个新段落与它的相似程度，从近乎重复到全新素材。游戏音乐经常需要这样做，因为其素材会在长时间游玩中反复出现。然而，音乐模型很少从真实作品中学会控制相似度。我们在Super Mario乐曲的段落对上进一步训练预训练的MIDI模型。标签表明每对段落的相似度，上下文向量则概括给定的段落，即上下文。针对157个测试上下文，模型为每个标签生成六个输出。十二项指标为输出打分；旋律、音高内容、节奏和音长各由一项主要指标衡量。平均而言，被要求相似的输出比被要求不相似的输出更接近其上下文，而与其他乐曲并不更接近。全部十二项指标都支持这些输出；每项主要指标在多重检验校正后仍然显著。在旋律上，这一差距主要来自更频繁地重述上下文的旋律。与除无标签外完全相同的模型相比，只有要求高相似度时输出才会更相似。在听感测试中，评分在所有指标中与上下文的旋律重合度最为吻合。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Memes con AI ponen a magnates\na bailar el Neon del K-pop",
-          "body": "Los memes AI-generated viralizaron la coreografía de Neon de A2O Lite, pero plantean dudas sobre imagen y deepfakes.",
-          "mini_headline": "Memes con AI impulsan Neon del K-pop",
+          "headline": "Cómo ajustar cuánto se parece\nla música de juego a su tema",
+          "body": "Un modelo MIDI preentrenado, ajustado con pares de secciones de Super Mario, permite fijar la similitud con un tema.",
+          "mini_headline": "Música de juego con similitud temática",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12958354.webp?imageId=12958354&width=960&height=548&format=jpg",
-                "cap": "Imágenes AI-generated del presidente de SK Group, Chey Tae-won (izquierda), y del presidente ejecutivo de Samsung Electronics, Lee Jae-yong, bailando el nuevo tema del grupo femenino A2O Lite, “Neon”."
-              },
-              {
                 "t": "p",
-                "x": "Cuando “Neon”, del recién debutado grupo femenino A2O Lite, arrasó en las listas, otra cosa se hizo viral: videos paródicos AI-generated de la coreografía en los que las caras de las integrantes se sustituían por las de figuras públicas, como el presidente de SK Group, Chey Tae-won, y el presidente ejecutivo de Samsung Electronics, Lee Jae-yong. Los oyentes habían señalado que el estribillo suena como las palabras coreanas para “soltero” y “divorcio”."
-              },
-              {
-                "t": "p",
-                "x": "Hacer un video paródico llevó menos de tres minutos y no costó nada. La plataforma de video con AI Higgsfield ofrecía una plantilla lista con imágenes de la secuencia inicial del videoclip; en minutos produjo una parodia de 15 segundos."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12958352.webp?imageId=12958352&width=960&height=740&format=jpg",
-                "cap": "Un video AI-generated muestra gatos bailando “Neon”, la nueva canción del grupo femenino A2O Lite."
-              },
-              {
-                "t": "p",
-                "x": "La mayoría de los videos, si no todos, se crearon sin el consentimiento de las personas cuyos rostros se usaron. “El nombre de ‘parodia’ puede servir de escudo, pero no de inmunidad”, dijo el abogado Hwang Jin-seop, de Lawfirm Taeryun. Las agencias de Jennie, de Blackpink, y de Yoona, de Girls' Generation, han anunciado medidas legales con tolerancia cero frente a los videos deepfake."
+                "x": "Los compositores desarrollan la música a partir de una idea original y controlan cuánto se parece a ella cada nueva sección, desde la casi repetición hasta material nuevo. La música de videojuegos lo necesita a menudo, ya que su material se repite a lo largo de partidas largas. Sin embargo, los modelos musicales rara vez aprenden a controlar la similitud a partir de piezas reales. Entrenamos además un modelo MIDI preentrenado con pares de secciones de piezas de Super Mario. Una etiqueta indica la similitud de cada par, y un vector de contexto resume la sección dada, o contexto. Para 157 contextos de prueba, el modelo genera seis salidas por etiqueta. Doce medidas puntúan las salidas; una medida principal cubre cada una la melodía, el contenido de alturas, el ritmo y la duración de las notas. En promedio, las salidas solicitadas como similares se parecen más a su contexto que las solicitadas como diferentes, y no a otras piezas. Las doce medidas las favorecen; cada medida principal sigue siendo significativa tras la corrección por pruebas múltiples. En la melodía, la diferencia se debe principalmente a una reexposición más frecuente de la melodía del contexto. Frente a un modelo idéntico salvo por la ausencia de etiqueta, solo la petición de alta similitud hace que las salidas sean más similares. En una prueba de escucha, las valoraciones siguieron más de cerca que cualquier otra medida la coincidencia melódica con el contexto."
               }
             ]
           }
@@ -1403,129 +1515,57 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 밈, 재벌 총수를\nK-pop Neon 춤판에",
-          "body": "A2O Lite Neon을 띄운 AI-generated 밈에 딥페이크 우려도 인다.",
-          "mini_headline": "AI 밈이 띄운 K-pop Neon",
+          "headline": "새 게임 음악, 테마와의\n유사도를 조절한다",
+          "body": "Super Mario 구간 쌍으로 MIDI 모델을 학습해 테마 유사도를 조절한다.",
+          "mini_headline": "테마 유사도 조절 게임 음악",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12958354.webp?imageId=12958354&width=960&height=548&format=jpg",
-                "cap": "AI-generated 이미지 속 SK Group Chey Tae-won 회장(왼쪽)과 Samsung Electronics Lee Jae-yong 회장이 걸그룹 A2O Lite의 신곡 “Neon”에 맞춰 춤추고 있다."
-              },
-              {
                 "t": "p",
-                "x": "새로 데뷔한 걸그룹 A2O Lite의 “Neon”이 차트를 휩쓸 때 다른 것도 함께 화제가 됐다. 멤버들의 얼굴을 SK Group Chey Tae-won 회장, Samsung Electronics Lee Jae-yong 회장 등 공인의 얼굴로 바꾼 AI-generated 안무 패러디 영상이다. 청취자들은 후렴이 한국어 ‘미혼’과 ‘이혼’처럼 들린다고 짚은 바 있다."
-              },
-              {
-                "t": "p",
-                "x": "패러디 영상을 직접 만들어 보니 삼 분도 걸리지 않았고 비용도 들지 않았다. AI 영상 플랫폼 Higgsfield는 뮤직비디오 오프닝 장면을 담은 기성 템플릿을 제공했고, 몇 분 만에 15초짜리 패러디가 완성됐다."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12958352.webp?imageId=12958352&width=960&height=740&format=jpg",
-                "cap": "AI-generated 영상 속 고양이들이 걸그룹 A2O Lite의 신곡 “Neon”에 맞춰 춤추고 있다."
-              },
-              {
-                "t": "p",
-                "x": "이 영상들은 대부분, 어쩌면 전부가 얼굴이 쓰인 당사자의 동의 없이 만들어졌다. Lawfirm Taeryun의 Hwang Jin-seop 변호사는 “‘패러디’라는 이름은 방패가 될 수는 있어도 면죄부는 아니다”라고 말했다. Blackpink Jennie와 Girls' Generation Yoona의 소속사는 딥페이크 영상에 무관용 원칙으로 법적 대응하겠다고 발표했다."
+                "x": "작곡가는 원래의 아이디어에서 음악을 발전시키며, 거의 반복에 가까운 것부터 새로운 소재까지 각 새 구간이 그 아이디어와 얼마나 닮을지를 조절한다. 게임 음악은 긴 플레이 동안 소재가 반복되기 때문에 이런 조절이 자주 필요하다. 그러나 음악 모델이 실제 곡에서 유사도 조절을 배우는 경우는 드물다. 우리는 사전학습된 MIDI 모델을 Super Mario 곡의 구간 쌍으로 추가 학습한다. 레이블은 각 쌍의 유사도를 나타내고, 컨텍스트 벡터는 주어진 구간, 즉 컨텍스트를 요약한다. 157개 테스트 컨텍스트에 대해 모델은 레이블마다 여섯 개의 출력을 생성한다. 열두 가지 척도로 출력을 평가하며, 선율, 음높이 구성, 리듬, 음 길이를 각각 주요 척도 하나씩이 다룬다. 평균적으로 유사하게 요청된 출력은 비유사하게 요청된 출력보다 자신의 컨텍스트와 더 닮았고, 다른 곡과는 그렇지 않았다. 열두 척도 모두 이들 출력에 유리하게 나왔으며, 각 주요 척도는 다중 검정 보정 뒤에도 유의하다. 선율에서 이 차이는 주로 컨텍스트 선율을 더 자주 재진술한 데서 나온다. 레이블만 없고 나머지가 동일한 모델과 비교하면, 높은 유사도를 요청했을 때만 출력이 더 비슷해진다. 청취 테스트에서 평가는 모든 척도 가운데 컨텍스트와의 선율 중복을 가장 가깝게 따랐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIミームで財閥トップが\nK-pop「Neon」を踊る",
-          "body": "AI-generatedミームでA2O LiteのNeonが拡散し、肖像権の懸念も生んだ。",
-          "mini_headline": "AIミームがK-pop「Neon」を後押し",
+          "headline": "新しいゲーム音楽の\nテーマとの近さを調整",
+          "body": "Super Marioの区間ペアでMIDIモデルを訓練し、テーマとの類似度を調整可能にした。",
+          "mini_headline": "テーマ類似度を操るゲーム音楽",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12958354.webp?imageId=12958354&width=960&height=548&format=jpg",
-                "cap": "AI-generatedの画像で、ガールズグループA2O Liteの新曲「Neon」に合わせて踊るSK GroupのChey Tae-won会長（左）とSamsung ElectronicsのLee Jae-yong会長。"
-              },
-              {
                 "t": "p",
-                "x": "デビューしたばかりのガールズグループA2O Liteの「Neon」がチャートを席巻すると、別のものも話題になった。メンバーの顔をSK GroupのChey Tae-won会長やSamsung ElectronicsのLee Jae-yong会長ら著名人の顔に差し替えた、AI-generatedの振り付けパロディ動画だ。リスナーからは、サビが韓国語の「未婚」と「離婚」に聞こえるとの指摘が出ていた。"
-              },
-              {
-                "t": "p",
-                "x": "パロディ動画を作ってみると、三分足らずで、費用もかからなかった。AI動画プラットフォームHiggsfieldはミュージックビデオ冒頭の映像を使った既製テンプレートを用意しており、数分で15秒のパロディが完成した。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12958352.webp?imageId=12958352&width=960&height=740&format=jpg",
-                "cap": "ガールズグループA2O Liteの新曲「Neon」に合わせて猫が踊るAI-generatedの動画。"
-              },
-              {
-                "t": "p",
-                "x": "動画の大半、あるいはすべてが、顔を使われた本人の同意なく作られた。Lawfirm TaeryunのHwang Jin-seop弁護士は「『パロディ』という名目は盾にはなっても、免罪符にはならない」と語った。BlackpinkのJennieとGirls' GenerationのYoonaの所属事務所は、ディープフェイク動画に対しゼロトレランスで法的措置を取ると発表している。"
+                "x": "作曲家は元のアイデアから音楽を展開し、ほぼ繰り返しから新しい素材まで、新しい各セクションがそれにどれだけ似るかを制御する。ゲーム音楽は長いプレイの間に素材が繰り返されるため、これを頻繁に必要とする。しかし音楽モデルが実際の楽曲から類似度の制御を学ぶことはまれだ。我々は事前学習済みのMIDIモデルを、Super Marioの楽曲から取ったセクションのペアでさらに学習させる。ラベルは各ペアの類似度を示し、コンテキストベクトルは与えられたセクション、すなわちコンテキストを要約する。157のテストコンテキストに対し、モデルはラベルごとに六つの出力を生成する。十二の指標で出力を評価し、旋律、音高内容、リズム、音価をそれぞれ一つの主要指標が扱う。平均すると、似るよう要求された出力は、似ないよう要求された出力よりも自らのコンテキストに似ており、他の楽曲には似ていない。十二の指標すべてがそれらを支持し、各主要指標は多重検定の補正後も有意である。旋律では、この差は主にコンテキストの旋律をより頻繁に再提示することから生じる。ラベルがない以外は同一のモデルと比べると、高い類似度を要求した場合にのみ出力がより似たものになる。聴取テストでは、評価はすべての指標の中でコンテキストとの旋律の重なりに最も密接に従った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI梗视频让富豪\n跳起K-pop《Neon》",
-          "body": "AI-generated梗视频带火A2O Lite的Neon，也引发肖像权与深度伪造担忧。",
-          "mini_headline": "AI梗视频带火K-pop《Neon》",
+          "headline": "调节新游戏音乐\n与主题的相似程度",
+          "body": "研究者用Super Mario段落对微调预训练MIDI模型，让作曲者可设定与主题的相似度。",
+          "mini_headline": "可调主题相似度的游戏音乐",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12958354.webp?imageId=12958354&width=960&height=548&format=jpg",
-                "cap": "AI-generated图像中，SK Group会长Chey Tae-won（左）与Samsung Electronics执行董事长Lee Jae-yong随女团A2O Lite的新歌《Neon》起舞。"
-              },
-              {
                 "t": "p",
-                "x": "新出道女团A2O Lite的《Neon》登上排行榜时，另一样东西也火了——AI-generated的编舞恶搞视频，把成员的脸换成了SK Group会长Chey Tae-won、Samsung Electronics执行董事长Lee Jae-yong等公众人物。听众此前指出，副歌听起来像韩语中的“未婚”和“离婚”。"
-              },
-              {
-                "t": "p",
-                "x": "尝试制作一段恶搞视频，用时不到三分钟，而且分文未花。AI视频平台Higgsfield提供了一个现成模板，内含该曲音乐视频的开场画面；几分钟内就生成了一段15秒的恶搞视频。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12958352.webp?imageId=12958352&width=960&height=740&format=jpg",
-                "cap": "AI-generated视频中，一群猫随女团A2O Lite的新歌《Neon》起舞。"
-              },
-              {
-                "t": "p",
-                "x": "这些视频即便不是全部，也大多未经被使用面孔者本人同意。Lawfirm Taeryun律师Hwang Jin-seop说：“‘恶搞’之名可以当作盾牌，但不能当作免责金牌。”Blackpink的Jennie和Girls' Generation的Yoona所属经纪公司已宣布，将对深度伪造视频采取零容忍的法律措施。"
+                "x": "作曲者从原始构思出发发展音乐，控制每个新段落与它的相似程度，从近乎重复到全新素材。游戏音乐经常需要这样做，因为其素材会在长时间游玩中反复出现。然而，音乐模型很少从真实作品中学会控制相似度。我们在Super Mario乐曲的段落对上进一步训练预训练的MIDI模型。标签表明每对段落的相似度，上下文向量则概括给定的段落，即上下文。针对157个测试上下文，模型为每个标签生成六个输出。十二项指标为输出打分；旋律、音高内容、节奏和音长各由一项主要指标衡量。平均而言，被要求相似的输出比被要求不相似的输出更接近其上下文，而与其他乐曲并不更接近。全部十二项指标都支持这些输出；每项主要指标在多重检验校正后仍然显著。在旋律上，这一差距主要来自更频繁地重述上下文的旋律。与除无标签外完全相同的模型相比，只有要求高相似度时输出才会更相似。在听感测试中，评分在所有指标中与上下文的旋律重合度最为吻合。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Memes con AI ponen a magnates\na bailar el Neon del K-pop",
-          "body": "Los memes AI-generated viralizaron la coreografía de Neon de A2O Lite, pero plantean dudas sobre imagen y deepfakes.",
-          "mini_headline": "Memes con AI impulsan Neon del K-pop",
+          "headline": "Cómo ajustar cuánto se parece\nla música de juego a su tema",
+          "body": "Un modelo MIDI preentrenado, ajustado con pares de secciones de Super Mario, permite fijar la similitud con un tema.",
+          "mini_headline": "Música de juego con similitud temática",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12958354.webp?imageId=12958354&width=960&height=548&format=jpg",
-                "cap": "Imágenes AI-generated del presidente de SK Group, Chey Tae-won (izquierda), y del presidente ejecutivo de Samsung Electronics, Lee Jae-yong, bailando el nuevo tema del grupo femenino A2O Lite, “Neon”."
-              },
-              {
                 "t": "p",
-                "x": "Cuando “Neon”, del recién debutado grupo femenino A2O Lite, arrasó en las listas, otra cosa se hizo viral: videos paródicos AI-generated de la coreografía en los que las caras de las integrantes se sustituían por las de figuras públicas, como el presidente de SK Group, Chey Tae-won, y el presidente ejecutivo de Samsung Electronics, Lee Jae-yong. Los oyentes habían señalado que el estribillo suena como las palabras coreanas para “soltero” y “divorcio”."
-              },
-              {
-                "t": "p",
-                "x": "Hacer un video paródico llevó menos de tres minutos y no costó nada. La plataforma de video con AI Higgsfield ofrecía una plantilla lista con imágenes de la secuencia inicial del videoclip; en minutos produjo una parodia de 15 segundos."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12958352.webp?imageId=12958352&width=960&height=740&format=jpg",
-                "cap": "Un video AI-generated muestra gatos bailando “Neon”, la nueva canción del grupo femenino A2O Lite."
-              },
-              {
-                "t": "p",
-                "x": "La mayoría de los videos, si no todos, se crearon sin el consentimiento de las personas cuyos rostros se usaron. “El nombre de ‘parodia’ puede servir de escudo, pero no de inmunidad”, dijo el abogado Hwang Jin-seop, de Lawfirm Taeryun. Las agencias de Jennie, de Blackpink, y de Yoona, de Girls' Generation, han anunciado medidas legales con tolerancia cero frente a los videos deepfake."
+                "x": "Los compositores desarrollan la música a partir de una idea original y controlan cuánto se parece a ella cada nueva sección, desde la casi repetición hasta material nuevo. La música de videojuegos lo necesita a menudo, ya que su material se repite a lo largo de partidas largas. Sin embargo, los modelos musicales rara vez aprenden a controlar la similitud a partir de piezas reales. Entrenamos además un modelo MIDI preentrenado con pares de secciones de piezas de Super Mario. Una etiqueta indica la similitud de cada par, y un vector de contexto resume la sección dada, o contexto. Para 157 contextos de prueba, el modelo genera seis salidas por etiqueta. Doce medidas puntúan las salidas; una medida principal cubre cada una la melodía, el contenido de alturas, el ritmo y la duración de las notas. En promedio, las salidas solicitadas como similares se parecen más a su contexto que las solicitadas como diferentes, y no a otras piezas. Las doce medidas las favorecen; cada medida principal sigue siendo significativa tras la corrección por pruebas múltiples. En la melodía, la diferencia se debe principalmente a una reexposición más frecuente de la melodía del contexto. Frente a un modelo idéntico salvo por la ausencia de etiqueta, solo la petición de alta similitud hace que las salidas sean más similares. En una prueba de escucha, las valoraciones siguieron más de cerca que cualquier otra medida la coincidencia melódica con el contexto."
               }
             ]
           }

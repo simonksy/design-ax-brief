@@ -10590,6 +10590,143 @@
           "x": "The result concerns how often a computer reads its data, not total computing time, and leaves room for substantial quantum advantages on problems with useful structure."
         }
       ]
+    },
+    "science/astrogenesis-astro-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/connecting-artificial.jpg",
+          "cap": "Conceptual illustration of AstroGenesis, showing how specialized AI agents connect scientific literature, astronomical observations, and physics-based modeling within a unified research environment. Credit: AstroGenesis team"
+        },
+        {
+          "t": "p",
+          "x": "Astrophysicist Narek Sahakyan, Director of ICRANet-Armenia, and an international team developed AstroGenesis, a multi-agent AI system that connects different stages of astrophysical research within a single environment. A paper is posted to arXiv."
+        },
+        {
+          "t": "p",
+          "x": "Researchers ask questions in natural language. A central supervisor assigns tasks to specialized agents: one searches the scientific literature, another retrieves and analyzes astronomical observations, a modeling agent calculates predictions from physical models and compares them with observations, and another helps explore interpretations and research questions."
+        },
+        {
+          "t": "video",
+          "yt": "Pgl6D4_N5YY"
+        },
+        {
+          "t": "p",
+          "x": "To speed up theoretical modeling, the team trains neural networks on results from numerical physical models; once trained, they rapidly approximate those predictions within the parameter ranges where they were validated, letting researchers explore a much larger parameter space."
+        },
+        {
+          "t": "p",
+          "x": "Sahakyan stresses that AI-generated interpretations must be checked, observational uncertainties respected and approximate models validated: \"Scientific judgment remains essential.\""
+        }
+      ]
+    },
+    "science/ss-dfa-optical-training": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/let-there-be-light--no.jpg",
+          "cap": "In the optical computing system used to demonstrate the single-map approach, information is converted into an optical signal, processed as it passes through a fiber loop, and then converted back into an electrical signal for analysis. Credit: 2026 Nakajima et al. CC-BY-ND"
+        },
+        {
+          "t": "p",
+          "x": "Researchers, including those at the University of Tokyo, have developed a new approach to building physics-based AI—systems that use the natural behavior of physical systems to process information—that dramatically reduces the amount of computation required for them to run. It was demonstrated using an optical computing system that processes information with light."
+        },
+        {
+          "t": "p",
+          "x": "Associate professor Kohei Nakajima and his team, including NTT researchers, combined a training method called SS-DFA with a simpler network architecture called the single-map framework. The study is published in Nature Computational Science."
+        },
+        {
+          "t": "p",
+          "x": "Instead of measuring and recording the system's intermediate states and backtracking, SS-DFA uses the final error together with information about the system to guide learning, reducing the measurement, data storage and computation required. In the single-map architecture, many units follow the general rules rather than relying on highly complex internal connections."
+        },
+        {
+          "t": "p",
+          "x": "Surprisingly, the simplified design matched, and in some tests outperformed, more complex neural network architectures, while requiring far less computation. The system uses a 200-meter optical fiber and a small number of electronic components."
+        },
+        {
+          "t": "p",
+          "x": "Future work will test whether the approach scales to larger AI models such as language and multimodal models; miniaturized on a chip, it could process data inside phones, cameras or self-driving cars."
+        }
+      ]
+    },
+    "science/llm-workplace-trust-penalty": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/be1996da-571f-422e-94db-f78f12f371d3/Rendition/low-res/Content/Public",
+          "cap": "Organizational Policy Affects Trust Penalty for Using LLMs. Credit: Yochanan Bigman"
+        },
+        {
+          "t": "p",
+          "x": "A study led by Samuel Meyers with Dr. Yochanan Bigman of the Hebrew University of Jerusalem and Dr. Roman Briker of WHU – Otto Beisheim School of Management, published in The Leadership Quarterly, finds across six studies that supervisors place less trust in employees who use ChatGPT and other LLMs, even when AI use is not explicitly prohibited."
+        },
+        {
+          "t": "p",
+          "x": "In one experiment, employees who completed work themselves had a 68% chance of earning supervisors' trust, compared with just 24% when they used AI. AI use was still viewed more favourably than plagiarism. Lower trust was associated with poorer performance evaluations and lower perceived suitability for promotion."
+        },
+        {
+          "t": "p",
+          "x": "When organizations explicitly encouraged AI use, the trust penalty was substantially reduced and no longer statistically significant. The researchers warn the tension could push employees toward undisclosed \"shadow AI\" and urge clear policies and managerial training."
+        }
+      ]
+    },
+    "science/claude-not-x-but-y-rhetoric": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2025/04/artificial-intelligence.jpg"
+        },
+        {
+          "t": "p",
+          "x": "An arXiv preprint by Federico Boggia examines epanorthosis, the ancient rhetorical figure of self-correction cataloged by Cicero and Quintilian as correctio, behind the \"not X, but Y\" habit of AI-generated text. Boggia argues the overuse is mainly learned from web copywriting and reinforced by human-feedback tuning."
+        },
+        {
+          "t": "p",
+          "x": "Comparing Claude Haiku, Sonnet and Opus with human texts across seven genres, the models used emphatic epanorthosis at more than double the human rate in speeches (33.5 vs 14.9 per ten thousand words) but less than one-fifth in informal Q&A (1.3 vs 8.2)."
+        },
+        {
+          "t": "p",
+          "x": "A LoRA adapter trained on Qwen2.5-7B-Instruct cut density from 61.4 to 4.7 at full strength, and a one-sentence prompt instruction cut it by nearly three-quarters in Claude's oratory. The paper is a preprint that has not yet been peer reviewed, and the tests are small pilots."
+        }
+      ]
+    },
+    "science/science-ucl-reconstruct-everything": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG",
+          "cap": "Reconstruct Everything"
+        },
+        {
+          "t": "p",
+          "x": "UCL researchers developed a first-of-its-kind AI model capable of reconstructing full particle collisions, offering a radically new approach to a fundamental challenge in experimental particle physics."
+        },
+        {
+          "t": "p",
+          "x": "The Reconstruct Everything Model (REM) is the first unified machine-learning framework to reconstruct particles directly from measurements across all major detector systems, without relying on any of the traditional sequence of specialised reconstruction algorithms. Going a step further, REM reconstructs heavier particles, including W, Z and Higgs bosons, from their decay products."
+        },
+        {
+          "t": "p",
+          "x": "Developed at UCL’s Centre for Data Intensive Science and Industry, REM was tested using a detailed simulation of a detector proposed for CERN’s Future Circular Collider."
+        },
+        {
+          "t": "p",
+          "x": "The results are striking: particle reconstruction efficiency increased from 61% to 92%, jet energy resolution improved by 52%, and the ability to distinguish W and Z bosons improved by approximately 50% compared with conventional approaches. The model reconstructs an entire collision in just 30 milliseconds on a single GPU."
+        },
+        {
+          "t": "p",
+          "x": "Beyond the performance improvements, REM represents a potential paradigm shift. By replacing a complex chain of independently optimised algorithms with a unified AI framework, it opens the possibility of fundamentally rethinking how particle physics experiments reconstruct and interpret collisions."
+        },
+        {
+          "t": "p",
+          "x": "The research was led by Max Hart and Kwok Yiu (Sunny) Wong, alongside Samuel Van Stroud, Philippa Duckett, Tim Scanlon and Gabriel Facini."
+        },
+        {
+          "t": "img",
+          "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/styles/wysiwyg_mobile/public/2026-11/rem_overview_assign_v10_res_split_tworow_heads-1.png.jpg?itok=IjAafSLE",
+          "cap": "HEP Collision Models"
+        }
+      ]
     }
   }
 }

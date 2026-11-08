@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "issue": "UCL AI, 입자 충돌을 모든 검출기로 동시 재구성",
+    "date": "2026.11.08",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "자동 초안. 썸네일은 초안이라 겹친다 — 올리기로 정하면 원문을 받아 숫자를 확인하고 글을 다시 쓰면서 stat·quote 로 장을 세운다.",
+    "sources": [
+      "https://www.ucl.ac.uk/mathematical-physical-sciences/high-energy-physics/reconstruct-everything-ucls-pioneering-ai-model-could-redefine-particle-physics-reconstruction"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 과학 · 2026.11.08",
+      "headline": "UCL AI, 입자 충돌을 모든 검출기로…",
+      "body": "UCL 연구진이 입자 충돌 전체를 재구성하는 첫 AI 모델을 개발했다. 실험 입자물리학의 근본 과제에 완전히 새롭게 접근한 시도다.",
+      "foot": "밀어서 보기 →",
+      "media": "pipeline/media/science-ucl-reconstruct-everything.png",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "무슨 일인가",
+      "headline": "UCL AI, 입자 충돌을 모든 검출기로…",
+      "body": "Reconstruct Everything Model(REM)은 기존 전문 재구성 알고리즘 연쇄에 전혀 기대지 않는다. 모든 주요…",
+      "foot": "2026.11.08",
+      "media": "pipeline/media/science-ucl-reconstruct-everything.png",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "어떻게 되는가",
+      "headline": "UCL AI, 입자 충돌을 모든 검출기로…",
+      "body": "REM은 UCL의 Centre for Data Intensive Science and Industry에서 개발했고, CERN의…",
+      "foot": "2026.11.08",
+      "media": "pipeline/media/science-ucl-reconstruct-everything.png",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "짚을 대목",
+      "headline": "UCL AI, 입자 충돌을 모든 검출기로…",
+      "body": "결과가 눈에 띈다. 기존 방식보다 입자 재구성 효율은 61%에서 92%로 올랐고 제트 에너지 분해능은 52% 개선됐다. W 보손과 Z…",
+      "foot": "2026.11.08",
+      "media": "pipeline/media/science-ucl-reconstruct-everything.png",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "그래서 지금",
+      "headline": "UCL AI, 입자 충돌을 모든 검출기로…",
+      "body": "REM은 성능만 좋아진 게 아니다. 따로따로 최적화한 복잡한 알고리즘 사슬을 통합 AI 프레임워크 하나로 바꾸면서, 입자물리 실험이…",
+      "foot": "2026.11.08",
+      "media": "pipeline/media/science-ucl-reconstruct-everything.png",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

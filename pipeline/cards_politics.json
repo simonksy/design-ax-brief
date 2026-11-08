@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "section": "politics",
   "cards": [
     {
-      "id": "anthropic-claudemax-ad-ruling",
+      "id": "caisi-whitehouse-reporting",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Claude Max 광고\n오인 소송 재판 간다",
-      "body": "판사는 Claude Max '5x·20x' 광고에 오인 소지가 있다고 봤다.",
-      "mini_headline": "Claude Max 광고 소송 계속",
+      "headline": "AI 안전센터 직원들\n백악관에 보고한다",
+      "body": "전직 관리 둘은 AP에 CAISSI 직원이 백악관 비공식 보고를 요청받았다고 했다.",
+      "mini_headline": "CAISSI 직원, 백악관에 보고",
       "tool": "Politics",
-      "source": "Courthouse News Service",
-      "url": "https://www.courthousenews.com/anthropic-must-face-claims-its-claude-max-pitch-misled-users/",
+      "source": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/politics/staff-at-u-s-center-for-ai-safety-are-reporting-to-the-white-house-raising-independence-concerns",
       "accent": "#3b6bff",
       "motif": "cube",
       "full": {
@@ -19,173 +19,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://courthousenews.com/wp-content/uploads/2026/03/anthropic-claude-logos.jpg"
+            "src": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-09-29T195100Z_634815528_RC26TNA0Q5X1_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+            "cap": "America.gov 출범 행사에 참석한 도널드 트럼프 US 대통령"
           },
           {
             "t": "p",
-            "x": "캘리포니아의 한 연방 판사가 금요일, Anthropic이 Claude Max 요금제에 내건 “5x 또는 20x 더 많은 사용량” 약속이 고객을 오인하게 할 소지가 있다고 밝혔다. U.S. 치안판사 Alex Tse는 여러 청구를 기각하면서도 Claude 이용자들이 낸 집단소송의 핵심 부분은 그대로 진행하도록 했다. Tse는 “문제의 광고는 오인 소지가 있다고 볼 만하다”고 썼다."
+            "x": "통제를 벗어난 AI 에이전트 보도가 잇따르며 대중의 불안이 커지고 있다. 그런데 새 AI 서비스의 안전성 평가를 맡은 작은 U.S. 정부 부서는 상임 책임자도 없이 연구 결과 공개까지 멈췄다."
           },
           {
             "t": "p",
-            "x": "Claude Max 고객을 대표해 소송을 낸 Karl Kahn과 Solomon Smith는 주 단위로 따지면 요금제가 약속보다 훨씬 적은 사용량을 준다고 주장한다. 이들 계산으로는 한 Claude 모델 기준 Max 20x 이용자가 받는 양은 Pro 주간 사용량의 여섯 배, Max 5x 이용자는 3.5배다."
+            "x": "익명을 조건으로 The Associated Press와 인터뷰한 전직 정부 관리 두 명에 따르면 상무부 산하 독립 부서인 초지능 혁신·표준 센터(Center for Advancing Innovation and Standards for Super Intelligence, CAISSI)의 관계자들은 최근 백악관의 한 부서에 비공식적으로 보고하라는 요청을 받았다."
           },
           {
             "t": "p",
-            "x": "Anthropic은 고객이 “더 많은 사용량”을 세션당 더 많은 사용량으로 받아들여야 한다며 한도를 설명한 도움말 페이지를 근거로 들었다. Tse는 “Anthropic의 세션당 고지는 claude.com의 주요 판매 페이지에서 하이퍼링크를 두 번 거쳐야 나온다”고 지적했다. 고객이 요금을 달마다 내는 만큼 이 약속을 매달 다섯 배 또는 20배 더 많은 사용량으로 읽는 것도 합리적이라는 게 그의 판단이다."
+            "x": "일부 비판론자는 행정부가 결정을 정치화하고 센터의 연구 결과가 기술 업계를 의식해 수정되거나 묻힐까 우려한다. 반대로 AI 안전 담당자를 도널드 트럼프 대통령 가까이 두면 부서 위상이 올라가고 어쩌면 예산까지 늘 수 있다는 의견도 있다."
           },
           {
             "t": "p",
-            "x": "Tse는 Claude Code가 캘리포니아 소비자법률구제법(Consumers Legal Remedies Act)상 서비스에 해당할 수 있다고 봤다. Smith의 청구는 유지됐고 Kahn의 청구는 내용을 보강할 기회를 남긴 채 기각됐다. 캘리포니아의 다른 두 법률을 근거로 한 청구와 사용 한도 변경을 문제 삼은 청구도 받아들여지지 않았다. Tse는 “Anthropic이 미끼 상술로 사용 한도를 조인 것은 아니다”라고 말했다."
+            "x": "최근까지 U.S. Center for AI Standards and Innovation으로 불린 이 센터에는 매년 $10 million 의 예산이 배정된다. 4월에는 센터장이 채용된 지 며칠 만에 해고됐고 후임자도 몇 달 만에 물러났다. 8월에는 의회가 센터에 AI 시스템 보고서 공개를 왜 멈췄는지 따져 묻기 시작했다."
+          },
+          {
+            "t": "p",
+            "x": "백악관은 CAISSI에 관한 구체적 질문에는 답하지 않았다. 다만 트럼프가 새 초지능군(Super Intelligence Force)을 공식 창설했으며 \"미국 국민의 이익을 위해 SI 분야에서 U.S.의 리더십을 계속 이어 가도록\" 하겠다고 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Anthropic must face claims\nits Claude Max pitch misled",
-          "body": "A judge ruled Anthropic's \"5x or 20x more usage\" Claude Max ads plausibly misleading, letting key claims proceed.",
-          "mini_headline": "Claude Max ad claims proceed",
+          "headline": "AI safety center staff\nreport to the White House",
+          "body": "Two former officials told AP that CAISSI staff were asked to report informally to a White House office.",
+          "mini_headline": "CAISSI staff report to White House",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://courthousenews.com/wp-content/uploads/2026/03/anthropic-claude-logos.jpg"
+                "src": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-09-29T195100Z_634815528_RC26TNA0Q5X1_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+                "cap": "US President Donald Trump at America.gov launch"
               },
               {
                 "t": "p",
-                "x": "Anthropic’s promise of “5x or 20x more usage” for its Claude Max plans could mislead customers, a federal judge in California said Friday. U.S. Magistrate Judge Alex Tse dismissed several claims but allowed key parts of a proposed class action by Claude users to move forward. “The advertising in question is plausibly misleading,” Tse wrote."
+                "x": "With public anxiety growing over mounting reports about out-of-control AI agents, the tiny U.S. government division charged with assessing the safety of new AI offerings lacks a permanent leader and has stopped publishing its research."
               },
               {
                 "t": "p",
-                "x": "Karl Kahn and Solomon Smith, who sued on behalf of Claude Max customers, say the plans deliver far less than those promises over a full week. For one Claude model, they calculated that Max 20x users get six times Pro’s weekly usage, while Max 5x users get 3.5 times."
+                "x": "Officials with the Center for Advancing Innovation and Standards for Super Intelligence, or CAISSI, an independent division of the Commerce Department, recently were asked to informally report to an office of the White House, according to two former government officials who spoke to The Associated Press on condition of anonymity."
               },
               {
                 "t": "p",
-                "x": "Anthropic argued that customers should understand “more usage” to mean more usage per session, pointing to a help page that explains the limits. “Anthropic’s per session disclosure is located two hyperlinks away from the primary sales pages on claude.com,” Tse said. Because customers pay monthly, he found they could reasonably understand the promise to mean five or 20 times more usage each month."
+                "x": "Some critics worry the executive branch might be politicizing decisions and that the center's findings could be altered or muted in deference to the tech industry. Others argue that bringing AI safety officials closer to President Donald Trump could give the division more prominence — and perhaps more funding."
               },
               {
                 "t": "p",
-                "x": "Tse found that Claude Code could qualify as a service under California’s Consumers Legal Remedies Act. Smith’s claim survived; Kahn’s was dismissed with a chance to provide more details. Claims under two other California laws were dismissed, and so was a claim over changing usage limits. “Anthropic didn’t tighten usage limits as a bait-and-switch,” Tse said."
+                "x": "The center, until recently called the U.S. Center for AI Standards and Innovation, is allocated $10 million per year. In April its director was hired and then fired within days; his replacement resigned after a few months. In August, Congress started asking why it stopped making public its reports on AI systems."
+              },
+              {
+                "t": "p",
+                "x": "The White House didn't respond to specific questions about CAISSI, but said Trump had formally established his new Super Intelligence Force and will ensure \"continued U.S. leadership on SI for the benefit of the American people.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Claude Max 광고\n오인 소송 재판 간다",
-          "body": "판사는 Claude Max '5x·20x' 광고에 오인 소지가 있다고 봤다.",
-          "mini_headline": "Claude Max 광고 소송 계속",
+          "headline": "AI 안전센터 직원들\n백악관에 보고한다",
+          "body": "전직 관리 둘은 AP에 CAISSI 직원이 백악관 비공식 보고를 요청받았다고 했다.",
+          "mini_headline": "CAISSI 직원, 백악관에 보고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://courthousenews.com/wp-content/uploads/2026/03/anthropic-claude-logos.jpg"
+                "src": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-09-29T195100Z_634815528_RC26TNA0Q5X1_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+                "cap": "America.gov 출범 행사에 참석한 도널드 트럼프 US 대통령"
               },
               {
                 "t": "p",
-                "x": "캘리포니아의 한 연방 판사가 금요일, Anthropic이 Claude Max 요금제에 내건 “5x 또는 20x 더 많은 사용량” 약속이 고객을 오인하게 할 소지가 있다고 밝혔다. U.S. 치안판사 Alex Tse는 여러 청구를 기각하면서도 Claude 이용자들이 낸 집단소송의 핵심 부분은 그대로 진행하도록 했다. Tse는 “문제의 광고는 오인 소지가 있다고 볼 만하다”고 썼다."
+                "x": "통제를 벗어난 AI 에이전트 보도가 잇따르며 대중의 불안이 커지고 있다. 그런데 새 AI 서비스의 안전성 평가를 맡은 작은 U.S. 정부 부서는 상임 책임자도 없이 연구 결과 공개까지 멈췄다."
               },
               {
                 "t": "p",
-                "x": "Claude Max 고객을 대표해 소송을 낸 Karl Kahn과 Solomon Smith는 주 단위로 따지면 요금제가 약속보다 훨씬 적은 사용량을 준다고 주장한다. 이들 계산으로는 한 Claude 모델 기준 Max 20x 이용자가 받는 양은 Pro 주간 사용량의 여섯 배, Max 5x 이용자는 3.5배다."
+                "x": "익명을 조건으로 The Associated Press와 인터뷰한 전직 정부 관리 두 명에 따르면 상무부 산하 독립 부서인 초지능 혁신·표준 센터(Center for Advancing Innovation and Standards for Super Intelligence, CAISSI)의 관계자들은 최근 백악관의 한 부서에 비공식적으로 보고하라는 요청을 받았다."
               },
               {
                 "t": "p",
-                "x": "Anthropic은 고객이 “더 많은 사용량”을 세션당 더 많은 사용량으로 받아들여야 한다며 한도를 설명한 도움말 페이지를 근거로 들었다. Tse는 “Anthropic의 세션당 고지는 claude.com의 주요 판매 페이지에서 하이퍼링크를 두 번 거쳐야 나온다”고 지적했다. 고객이 요금을 달마다 내는 만큼 이 약속을 매달 다섯 배 또는 20배 더 많은 사용량으로 읽는 것도 합리적이라는 게 그의 판단이다."
+                "x": "일부 비판론자는 행정부가 결정을 정치화하고 센터의 연구 결과가 기술 업계를 의식해 수정되거나 묻힐까 우려한다. 반대로 AI 안전 담당자를 도널드 트럼프 대통령 가까이 두면 부서 위상이 올라가고 어쩌면 예산까지 늘 수 있다는 의견도 있다."
               },
               {
                 "t": "p",
-                "x": "Tse는 Claude Code가 캘리포니아 소비자법률구제법(Consumers Legal Remedies Act)상 서비스에 해당할 수 있다고 봤다. Smith의 청구는 유지됐고 Kahn의 청구는 내용을 보강할 기회를 남긴 채 기각됐다. 캘리포니아의 다른 두 법률을 근거로 한 청구와 사용 한도 변경을 문제 삼은 청구도 받아들여지지 않았다. Tse는 “Anthropic이 미끼 상술로 사용 한도를 조인 것은 아니다”라고 말했다."
+                "x": "최근까지 U.S. Center for AI Standards and Innovation으로 불린 이 센터에는 매년 $10 million 의 예산이 배정된다. 4월에는 센터장이 채용된 지 며칠 만에 해고됐고 후임자도 몇 달 만에 물러났다. 8월에는 의회가 센터에 AI 시스템 보고서 공개를 왜 멈췄는지 따져 묻기 시작했다."
+              },
+              {
+                "t": "p",
+                "x": "백악관은 CAISSI에 관한 구체적 질문에는 답하지 않았다. 다만 트럼프가 새 초지능군(Super Intelligence Force)을 공식 창설했으며 \"미국 국민의 이익을 위해 SI 분야에서 U.S.의 리더십을 계속 이어 가도록\" 하겠다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Claude Max広告\n誤認訴訟が審理へ",
-          "body": "判事はClaude Maxの「5x・20x」広告に誤認の恐れがあると判断した。",
-          "mini_headline": "Claude Max広告訴訟が前進",
+          "headline": "AI安全センター職員\nホワイトハウスに報告",
+          "body": "元当局者二人はAPに、CAISSI職員がホワイトハウスへの非公式報告を求められたと語った。",
+          "mini_headline": "CAISSI職員がホワイトハウスに報告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://courthousenews.com/wp-content/uploads/2026/03/anthropic-claude-logos.jpg"
+                "src": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-09-29T195100Z_634815528_RC26TNA0Q5X1_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+                "cap": "America.gov の立ち上げ式に臨むドナルド・トランプ US 大統領"
               },
               {
                 "t": "p",
-                "x": "AnthropicがClaude Maxプランで掲げた「5x または 20x 多い使用量」という約束は顧客を誤認させる恐れがあると、カリフォルニア州の連邦判事が金曜日に述べた。U.S. 治安判事のAlex Tseは複数の請求を棄却したが、Claudeユーザーによる集団訴訟案の主要部分については審理の継続を認めた。Tseは「問題の広告は誤認を招くと考えるのが妥当だ」と記した。"
+                "x": "制御不能に陥ったAIエージェントをめぐる報道が相次ぎ、市民の不安が高まるなか、新たなAIサービスの安全性評価を担う小さな U.S. 政府部門は、常任のトップを欠き、研究成果の公表も止めている。"
               },
               {
                 "t": "p",
-                "x": "Claude Maxの顧客を代表して提訴したKarl KahnとSolomon Smithは、一週間を通して見るとプランの提供量は約束をはるかに下回ると主張している。両氏は、あるClaudeモデルについて、Max 20x のユーザーはProの週間使用量の六倍、Max 5x のユーザーは3.5倍しか得られないと算出した。"
+                "x": "匿名を条件に The Associated Press の取材に応じた元政府当局者二人によると、商務省の独立部門である Center for Advancing Innovation and Standards for Super Intelligence(CAISSI)の職員は最近、ホワイトハウスの一部署に非公式に報告するよう求められた。"
               },
               {
                 "t": "p",
-                "x": "Anthropicは、「より多い使用量」はセッションあたりの使用量が増えるという意味だと顧客は理解すべきだと主張し、制限を説明するヘルプページを根拠に挙げた。Tseは「Anthropicのセッション単位の開示は、claude.comの主要な販売ページからハイパーリンクを二つたどった先にある」と指摘した。顧客は月額で支払っているため、この約束を毎月五倍または20倍多い使用量と理解するのは合理的だと判断した。"
+                "x": "批判派の一部は、行政府が判断を政治化し、センターの調査結果がテック業界に配慮して改変されたり伏せられたりしかねないと懸念する。一方、AI安全担当者をドナルド・トランプ大統領に近づけることで、この部門の存在感が増し、予算も増える可能性があるとの見方もある。"
               },
               {
                 "t": "p",
-                "x": "Tseは、Claude Codeがカリフォルニア州の消費者法的救済法(Consumers Legal Remedies Act)上のサービスに該当しうると判断した。Smithの請求は維持され、Kahnの請求は詳細を補う機会を残して棄却された。カリフォルニア州の他の二つの法律に基づく請求と、使用制限の変更をめぐる請求も棄却された。Tseは「Anthropicはおとり商法として使用制限を厳しくしたわけではない」と述べた。"
+                "x": "このセンターは最近まで U.S. Center for AI Standards and Innovation と呼ばれ、年間 $10 million の予算が割り当てられている。4月には所長が採用から数日で解任され、後任も数カ月で辞任した。8月には議会が、AIシステムに関する報告書の公表をなぜやめたのか問い始めた。"
+              },
+              {
+                "t": "p",
+                "x": "ホワイトハウスは CAISSI に関する具体的な質問には答えなかったが、トランプ氏が新設の Super Intelligence Force を正式に発足させたとし、「米国民の利益のため、SI における U.S. の主導的地位を維持する」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Claude Max广告\n误导诉讼将继续审理",
-          "body": "法官认定Claude Max“5x 或 20x 用量”广告可能误导，关键诉求可继续。",
-          "mini_headline": "Claude Max广告诉讼继续",
+          "headline": "AI安全中心员工\n被要求向白宫汇报",
+          "body": "两名前官员向AP透露，CAISSI员工被要求以非正式方式向白宫一个办公室汇报。",
+          "mini_headline": "CAISSI员工向白宫汇报",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://courthousenews.com/wp-content/uploads/2026/03/anthropic-claude-logos.jpg"
+                "src": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-09-29T195100Z_634815528_RC26TNA0Q5X1_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+                "cap": "US总统唐纳德·特朗普出席 America.gov 上线活动"
               },
               {
                 "t": "p",
-                "x": "加州一名联邦法官周五表示，Anthropic为Claude Max套餐作出的“5x 或 20x 更多用量”承诺可能误导消费者。U.S. 治安法官Alex Tse驳回了多项诉求，但允许Claude用户拟议集体诉讼的关键部分继续推进。Tse写道：“相关广告有理由被认为具有误导性。”"
+                "x": "失控 AI 智能体的报道不断增多，公众焦虑日益加剧，而负责评估新 AI 产品安全性的小型 U.S. 政府部门却没有常任负责人，也已停止发布研究成果。"
               },
               {
                 "t": "p",
-                "x": "代表Claude Max客户起诉的Karl Kahn和Solomon Smith称，按整整一周计算，这些套餐提供的用量远低于承诺。他们计算发现，就某一Claude模型而言，Max 20x 用户获得的周用量是Pro的六倍，Max 5x 用户则为3.5倍。"
+                "x": "据两名以匿名为条件接受 The Associated Press 采访的前政府官员透露，商务部下属独立部门 Center for Advancing Innovation and Standards for Super Intelligence（CAISSI）的官员最近被要求以非正式方式向白宫一个办公室汇报。"
               },
               {
                 "t": "p",
-                "x": "Anthropic辩称，客户应把“更多用量”理解为每个会话的用量更多，并援引了一个解释限额的帮助页面。Tse表示：“Anthropic关于按会话计算的披露，位于claude.com主要销售页面的两次超链接之外。”他认为，由于客户按月付费，他们有理由把该承诺理解为每月用量多五倍或20倍。"
+                "x": "一些批评者担心，行政部门可能将决策政治化，该中心的研究结果可能为迁就科技行业而被修改或淡化。另一些人则认为，让 AI 安全官员更靠近唐纳德·特朗普总统，可能提升该部门的地位，或许还能带来更多经费。"
               },
               {
                 "t": "p",
-                "x": "Tse认定，Claude Code可能属于加州《消费者法律救济法》(Consumers Legal Remedies Act)所指的服务。Smith的诉求得以保留；Kahn的诉求被驳回，但可补充更多细节。依据加州另外两部法律提出的诉求被驳回，有关调整用量限额的诉求也被驳回。Tse说：“Anthropic收紧用量限额并非诱饵调包。”"
+                "x": "该中心直到最近还名为 U.S. Center for AI Standards and Innovation，每年获拨 $10 million 经费。4月，其主任上任数日即遭解雇；继任者几个月后辞职。8月，国会开始追问该中心为何停止公开其 AI 系统报告。"
+              },
+              {
+                "t": "p",
+                "x": "白宫未回应有关 CAISSI 的具体问题，但表示特朗普已正式成立新的 Super Intelligence Force，并将确保“为美国人民的利益，延续 U.S. 在 SI 领域的领导地位”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Claude Max: Anthropic enfrentará\ndemandas por publicidad engañosa",
-          "body": "Un juez vio plausiblemente engañosos los anuncios de “5x o 20x más uso” de Claude Max y dejó seguir la demanda.",
-          "mini_headline": "Avanza la demanda por Claude Max",
+          "headline": "Personal del centro de seguridad\nde AI informa a la Casa Blanca",
+          "body": "Dos exfuncionarios dicen a AP que se pidió al equipo de CAISSI reportar informalmente a una oficina de la Casa Blanca.",
+          "mini_headline": "El personal de CAISSI informa a la Casa Blanca",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://courthousenews.com/wp-content/uploads/2026/03/anthropic-claude-logos.jpg"
+                "src": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-09-29T195100Z_634815528_RC26TNA0Q5X1_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+                "cap": "El presidente de US, Donald Trump, en el lanzamiento de America.gov"
               },
               {
                 "t": "p",
-                "x": "La promesa de Anthropic de “5x o 20x más uso” en sus planes Claude Max podría engañar a los clientes, dijo el viernes un juez federal de California. El juez magistrado de U.S. Alex Tse desestimó varias pretensiones, pero permitió que avanzaran partes clave de una propuesta de demanda colectiva de usuarios de Claude. “La publicidad en cuestión es plausiblemente engañosa”, escribió Tse."
+                "x": "Con la creciente inquietud pública por los numerosos informes sobre agentes de AI fuera de control, la pequeña división del gobierno de U.S. encargada de evaluar la seguridad de los nuevos productos de AI carece de un líder permanente y ha dejado de publicar sus investigaciones."
               },
               {
                 "t": "p",
-                "x": "Karl Kahn y Solomon Smith, que demandaron en nombre de los clientes de Claude Max, afirman que los planes ofrecen mucho menos de lo prometido a lo largo de una semana completa. Para un modelo de Claude, calcularon que los usuarios de Max 20x obtienen seis veces el uso semanal de Pro, mientras que los de Max 5x obtienen 3.5 veces."
+                "x": "A los responsables del Center for Advancing Innovation and Standards for Super Intelligence, o CAISSI, una división independiente del Departamento de Comercio, se les pidió recientemente que informaran de manera informal a una oficina de la Casa Blanca, según dos exfuncionarios que hablaron con The Associated Press bajo condición de anonimato."
               },
               {
                 "t": "p",
-                "x": "Anthropic sostuvo que los clientes debían entender “más uso” como más uso por sesión, y citó una página de ayuda que explica los límites. “La información por sesión de Anthropic está a dos hipervínculos de distancia de las principales páginas de venta en claude.com”, dijo Tse. Como los clientes pagan cada mes, concluyó que podían entender razonablemente la promesa como cinco o 20 veces más uso al mes."
+                "x": "Algunos críticos temen que el poder ejecutivo esté politizando las decisiones y que los hallazgos del centro puedan alterarse o silenciarse por deferencia a la industria tecnológica. Otros sostienen que acercar a los responsables de seguridad de AI al presidente Donald Trump podría dar más protagonismo a la división, y quizá más fondos."
               },
               {
                 "t": "p",
-                "x": "Tse concluyó que Claude Code podría considerarse un servicio según la Consumers Legal Remedies Act de California. La pretensión de Smith sobrevivió; la de Kahn fue desestimada con la posibilidad de aportar más detalles. También se desestimaron las pretensiones basadas en otras dos leyes de California, así como una sobre el cambio de los límites de uso. “Anthropic no endureció los límites de uso como una táctica de cebo y cambio”, dijo Tse."
+                "x": "El centro, llamado hasta hace poco U.S. Center for AI Standards and Innovation, recibe 10 millones de dólares al año. En abril su director fue contratado y despedido a los pocos días; su sustituto dimitió a los pocos meses. En agosto, el Congreso empezó a preguntar por qué dejó de publicar sus informes sobre sistemas de AI."
+              },
+              {
+                "t": "p",
+                "x": "La Casa Blanca no respondió a preguntas concretas sobre CAISSI, pero dijo que Trump había creado formalmente su nueva Super Intelligence Force y que garantizará \"el liderazgo continuo de U.S. en SI en beneficio del pueblo estadounidense\"."
               }
             ]
           }
@@ -193,121 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Claude Max 광고\n오인 소송 재판 간다",
-          "body": "판사는 Claude Max '5x·20x' 광고가 오인 소지가 있다고 봤다.",
-          "mini_headline": "Claude Max 광고 소송 계속",
+          "headline": "AI 안전센터 직원들\n백악관에 보고한다",
+          "body": "전직 관리 둘은 AP에 CAISSI 직원이 백악관 비공식 보고를 요청받았다고 했다.",
+          "mini_headline": "CAISSI 직원, 백악관에 보고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://courthousenews.com/wp-content/uploads/2026/03/anthropic-claude-logos.jpg"
+                "src": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-09-29T195100Z_634815528_RC26TNA0Q5X1_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+                "cap": "America.gov 출범 행사에 참석한 도널드 트럼프 US 대통령"
               },
               {
                 "t": "p",
-                "x": "Anthropic이 Claude Max 요금제에 내건 “5x 또는 20x 더 많은 사용량” 약속이 고객을 오인하게 할 수 있다고 캘리포니아의 한 연방 판사가 금요일 밝혔다. U.S. 치안판사 Alex Tse는 여러 청구를 기각했지만, Claude 이용자들이 추진하는 집단소송의 핵심 부분은 진행을 허용했다. Tse는 “문제의 광고는 오인 소지가 있다고 볼 만하다”고 썼다."
+                "x": "통제를 벗어난 AI 에이전트에 관한 보도가 잇따르며 대중의 불안이 커지는 가운데, 새 AI 서비스의 안전성 평가를 맡은 작은 U.S. 정부 부서는 상임 책임자 없이 연구 결과 공개도 멈췄다."
               },
               {
                 "t": "p",
-                "x": "Claude Max 고객을 대표해 소송을 낸 Karl Kahn과 Solomon Smith는 한 주 전체로 보면 요금제가 약속보다 훨씬 적은 사용량을 제공한다고 주장한다. 이들은 한 Claude 모델을 기준으로 Max 20x 이용자는 Pro 주간 사용량의 여섯 배를, Max 5x 이용자는 3.5배를 받는다고 계산했다."
+                "x": "익명을 조건으로 The Associated Press와 인터뷰한 전직 정부 관리 두 명에 따르면, 상무부 산하 독립 부서인 초지능 혁신·표준 센터(Center for Advancing Innovation and Standards for Super Intelligence, CAISSI)의 관계자들은 최근 백악관의 한 부서에 비공식적으로 보고하라는 요청을 받았다."
               },
               {
                 "t": "p",
-                "x": "Anthropic은 고객이 “더 많은 사용량”을 세션당 더 많은 사용량으로 이해해야 한다며, 한도를 설명한 도움말 페이지를 근거로 들었다. Tse는 “Anthropic의 세션당 고지는 claude.com의 주요 판매 페이지에서 하이퍼링크를 두 번 거쳐야 나온다”고 지적했다. 그는 고객이 월 단위로 요금을 내는 만큼, 이 약속을 매달 다섯 배 또는 20배 더 많은 사용량으로 이해하는 것도 합리적이라고 판단했다."
+                "x": "일부 비판론자들은 행정부가 결정을 정치화하고, 센터의 연구 결과가 기술 업계를 의식해 수정되거나 묻힐 수 있다고 우려한다. 반면 AI 안전 담당자들을 도널드 트럼프 대통령 가까이 두면 이 부서의 위상이 높아지고, 어쩌면 예산도 늘어날 수 있다는 의견도 있다."
               },
               {
                 "t": "p",
-                "x": "Tse는 Claude Code가 캘리포니아 소비자법률구제법(Consumers Legal Remedies Act)상 서비스에 해당할 수 있다고 봤다. Smith의 청구는 유지됐고, Kahn의 청구는 세부 내용을 보강할 기회를 남긴 채 기각됐다. 캘리포니아의 다른 두 법률에 근거한 청구와 사용 한도 변경에 관한 청구도 기각됐다. Tse는 “Anthropic이 미끼 상술로 사용 한도를 조인 것은 아니다”라고 말했다."
+                "x": "최근까지 U.S. Center for AI Standards and Innovation으로 불린 이 센터에는 매년 $10 million 의 예산이 배정된다. 4월에는 센터장이 채용된 지 며칠 만에 해고됐고, 후임자는 몇 달 만에 물러났다. 8월에는 의회가 이 센터가 AI 시스템 보고서 공개를 왜 중단했는지 묻기 시작했다."
+              },
+              {
+                "t": "p",
+                "x": "백악관은 CAISSI에 관한 구체적 질문에는 답하지 않았지만, 트럼프가 새 초지능군(Super Intelligence Force)을 공식 창설했으며 \"미국 국민의 이익을 위해 SI 분야에서 U.S.의 리더십을 계속 이어 가도록\" 하겠다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Claude Max広告\n誤認訴訟が審理へ",
-          "body": "判事はClaude Maxの「5x・20x」広告に誤認の恐れがあると判断した。",
-          "mini_headline": "Claude Max広告訴訟が前進",
+          "headline": "AI安全センター職員\nホワイトハウスに報告",
+          "body": "元当局者二人はAPに、CAISSI職員がホワイトハウスへの非公式報告を求められたと語った。",
+          "mini_headline": "CAISSI職員がホワイトハウスに報告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://courthousenews.com/wp-content/uploads/2026/03/anthropic-claude-logos.jpg"
+                "src": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-09-29T195100Z_634815528_RC26TNA0Q5X1_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+                "cap": "America.gov の立ち上げ式に臨むドナルド・トランプ US 大統領"
               },
               {
                 "t": "p",
-                "x": "AnthropicがClaude Maxプランで掲げた「5x または 20x 多い使用量」という約束は顧客を誤認させる恐れがあると、カリフォルニア州の連邦判事が金曜日に述べた。U.S. 治安判事のAlex Tseは複数の請求を棄却したが、Claudeユーザーによる集団訴訟案の主要部分については審理の継続を認めた。Tseは「問題の広告は誤認を招くと考えるのが妥当だ」と記した。"
+                "x": "制御不能に陥ったAIエージェントをめぐる報道が相次ぎ、市民の不安が高まるなか、新たなAIサービスの安全性評価を担う小さな U.S. 政府部門は、常任のトップを欠き、研究成果の公表も止めている。"
               },
               {
                 "t": "p",
-                "x": "Claude Maxの顧客を代表して提訴したKarl KahnとSolomon Smithは、一週間を通して見るとプランの提供量は約束をはるかに下回ると主張している。両氏は、あるClaudeモデルについて、Max 20x のユーザーはProの週間使用量の六倍、Max 5x のユーザーは3.5倍しか得られないと算出した。"
+                "x": "匿名を条件に The Associated Press の取材に応じた元政府当局者二人によると、商務省の独立部門である Center for Advancing Innovation and Standards for Super Intelligence(CAISSI)の職員は最近、ホワイトハウスの一部署に非公式に報告するよう求められた。"
               },
               {
                 "t": "p",
-                "x": "Anthropicは、「より多い使用量」はセッションあたりの使用量が増えるという意味だと顧客は理解すべきだと主張し、制限を説明するヘルプページを根拠に挙げた。Tseは「Anthropicのセッション単位の開示は、claude.comの主要な販売ページからハイパーリンクを二つたどった先にある」と指摘した。顧客は月額で支払っているため、この約束を毎月五倍または20倍多い使用量と理解するのは合理的だと判断した。"
+                "x": "批判派の一部は、行政府が判断を政治化し、センターの調査結果がテック業界に配慮して改変されたり伏せられたりしかねないと懸念する。一方、AI安全担当者をドナルド・トランプ大統領に近づけることで、この部門の存在感が増し、予算も増える可能性があるとの見方もある。"
               },
               {
                 "t": "p",
-                "x": "Tseは、Claude Codeがカリフォルニア州の消費者法的救済法(Consumers Legal Remedies Act)上のサービスに該当しうると判断した。Smithの請求は維持され、Kahnの請求は詳細を補う機会を残して棄却された。カリフォルニア州の他の二つの法律に基づく請求と、使用制限の変更をめぐる請求も棄却された。Tseは「Anthropicはおとり商法として使用制限を厳しくしたわけではない」と述べた。"
+                "x": "このセンターは最近まで U.S. Center for AI Standards and Innovation と呼ばれ、年間 $10 million の予算が割り当てられている。4月には所長が採用から数日で解任され、後任も数カ月で辞任した。8月には議会が、AIシステムに関する報告書の公表をなぜやめたのか問い始めた。"
+              },
+              {
+                "t": "p",
+                "x": "ホワイトハウスは CAISSI に関する具体的な質問には答えなかったが、トランプ氏が新設の Super Intelligence Force を正式に発足させたとし、「米国民の利益のため、SI における U.S. の主導的地位を維持する」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Claude Max广告\n误导诉讼将继续审理",
-          "body": "法官认定Claude Max“5x 或 20x 用量”广告可能误导，关键诉求可继续。",
-          "mini_headline": "Claude Max广告诉讼继续",
+          "headline": "AI安全中心员工\n被要求向白宫汇报",
+          "body": "两名前官员向AP透露，CAISSI员工被要求以非正式方式向白宫一个办公室汇报。",
+          "mini_headline": "CAISSI员工向白宫汇报",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://courthousenews.com/wp-content/uploads/2026/03/anthropic-claude-logos.jpg"
+                "src": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-09-29T195100Z_634815528_RC26TNA0Q5X1_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+                "cap": "US总统唐纳德·特朗普出席 America.gov 上线活动"
               },
               {
                 "t": "p",
-                "x": "加州一名联邦法官周五表示，Anthropic为Claude Max套餐作出的“5x 或 20x 更多用量”承诺可能误导消费者。U.S. 治安法官Alex Tse驳回了多项诉求，但允许Claude用户拟议集体诉讼的关键部分继续推进。Tse写道：“相关广告有理由被认为具有误导性。”"
+                "x": "失控 AI 智能体的报道不断增多，公众焦虑日益加剧，而负责评估新 AI 产品安全性的小型 U.S. 政府部门却没有常任负责人，也已停止发布研究成果。"
               },
               {
                 "t": "p",
-                "x": "代表Claude Max客户起诉的Karl Kahn和Solomon Smith称，按整整一周计算，这些套餐提供的用量远低于承诺。他们计算发现，就某一Claude模型而言，Max 20x 用户获得的周用量是Pro的六倍，Max 5x 用户则为3.5倍。"
+                "x": "据两名以匿名为条件接受 The Associated Press 采访的前政府官员透露，商务部下属独立部门 Center for Advancing Innovation and Standards for Super Intelligence（CAISSI）的官员最近被要求以非正式方式向白宫一个办公室汇报。"
               },
               {
                 "t": "p",
-                "x": "Anthropic辩称，客户应把“更多用量”理解为每个会话的用量更多，并援引了一个解释限额的帮助页面。Tse表示：“Anthropic关于按会话计算的披露，位于claude.com主要销售页面的两次超链接之外。”他认为，由于客户按月付费，他们有理由把该承诺理解为每月用量多五倍或20倍。"
+                "x": "一些批评者担心，行政部门可能将决策政治化，该中心的研究结果可能为迁就科技行业而被修改或淡化。另一些人则认为，让 AI 安全官员更靠近唐纳德·特朗普总统，可能提升该部门的地位，或许还能带来更多经费。"
               },
               {
                 "t": "p",
-                "x": "Tse认定，Claude Code可能属于加州《消费者法律救济法》(Consumers Legal Remedies Act)所指的服务。Smith的诉求得以保留；Kahn的诉求被驳回，但可补充更多细节。依据加州另外两部法律提出的诉求被驳回，有关调整用量限额的诉求也被驳回。Tse说：“Anthropic收紧用量限额并非诱饵调包。”"
+                "x": "该中心直到最近还名为 U.S. Center for AI Standards and Innovation，每年获拨 $10 million 经费。4月，其主任上任数日即遭解雇；继任者几个月后辞职。8月，国会开始追问该中心为何停止公开其 AI 系统报告。"
+              },
+              {
+                "t": "p",
+                "x": "白宫未回应有关 CAISSI 的具体问题，但表示特朗普已正式成立新的 Super Intelligence Force，并将确保“为美国人民的利益，延续 U.S. 在 SI 领域的领导地位”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Claude Max: Anthropic enfrentará\ndemandas por publicidad engañosa",
-          "body": "Un juez vio plausiblemente engañosos los anuncios de “5x o 20x más uso” de Claude Max y dejó seguir la demanda.",
-          "mini_headline": "Avanza la demanda por Claude Max",
+          "headline": "Personal del centro de seguridad\nde AI informa a la Casa Blanca",
+          "body": "Dos exfuncionarios dicen a AP que se pidió al equipo de CAISSI reportar informalmente a una oficina de la Casa Blanca.",
+          "mini_headline": "El personal de CAISSI informa a la Casa Blanca",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://courthousenews.com/wp-content/uploads/2026/03/anthropic-claude-logos.jpg"
+                "src": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-09-29T195100Z_634815528_RC26TNA0Q5X1_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+                "cap": "El presidente de US, Donald Trump, en el lanzamiento de America.gov"
               },
               {
                 "t": "p",
-                "x": "La promesa de Anthropic de “5x o 20x más uso” en sus planes Claude Max podría engañar a los clientes, dijo el viernes un juez federal de California. El juez magistrado de U.S. Alex Tse desestimó varias pretensiones, pero permitió que avanzaran partes clave de una propuesta de demanda colectiva de usuarios de Claude. “La publicidad en cuestión es plausiblemente engañosa”, escribió Tse."
+                "x": "Con la creciente inquietud pública por los numerosos informes sobre agentes de AI fuera de control, la pequeña división del gobierno de U.S. encargada de evaluar la seguridad de los nuevos productos de AI carece de un líder permanente y ha dejado de publicar sus investigaciones."
               },
               {
                 "t": "p",
-                "x": "Karl Kahn y Solomon Smith, que demandaron en nombre de los clientes de Claude Max, afirman que los planes ofrecen mucho menos de lo prometido a lo largo de una semana completa. Para un modelo de Claude, calcularon que los usuarios de Max 20x obtienen seis veces el uso semanal de Pro, mientras que los de Max 5x obtienen 3.5 veces."
+                "x": "A los responsables del Center for Advancing Innovation and Standards for Super Intelligence, o CAISSI, una división independiente del Departamento de Comercio, se les pidió recientemente que informaran de manera informal a una oficina de la Casa Blanca, según dos exfuncionarios que hablaron con The Associated Press bajo condición de anonimato."
               },
               {
                 "t": "p",
-                "x": "Anthropic sostuvo que los clientes debían entender “más uso” como más uso por sesión, y citó una página de ayuda que explica los límites. “La información por sesión de Anthropic está a dos hipervínculos de distancia de las principales páginas de venta en claude.com”, dijo Tse. Como los clientes pagan cada mes, concluyó que podían entender razonablemente la promesa como cinco o 20 veces más uso al mes."
+                "x": "Algunos críticos temen que el poder ejecutivo esté politizando las decisiones y que los hallazgos del centro puedan alterarse o silenciarse por deferencia a la industria tecnológica. Otros sostienen que acercar a los responsables de seguridad de AI al presidente Donald Trump podría dar más protagonismo a la división, y quizá más fondos."
               },
               {
                 "t": "p",
-                "x": "Tse concluyó que Claude Code podría considerarse un servicio según la Consumers Legal Remedies Act de California. La pretensión de Smith sobrevivió; la de Kahn fue desestimada con la posibilidad de aportar más detalles. También se desestimaron las pretensiones basadas en otras dos leyes de California, así como una sobre el cambio de los límites de uso. “Anthropic no endureció los límites de uso como una táctica de cebo y cambio”, dijo Tse."
+                "x": "El centro, llamado hasta hace poco U.S. Center for AI Standards and Innovation, recibe 10 millones de dólares al año. En abril su director fue contratado y despedido a los pocos días; su sustituto dimitió a los pocos meses. En agosto, el Congreso empezó a preguntar por qué dejó de publicar sus informes sobre sistemas de AI."
+              },
+              {
+                "t": "p",
+                "x": "La Casa Blanca no respondió a preguntas concretas sobre CAISSI, pero dijo que Trump había creado formalmente su nueva Super Intelligence Force y que garantizará \"el liderazgo continuo de U.S. en SI en beneficio del pueblo estadounidense\"."
               }
             ]
           }
@@ -315,337 +365,15 @@
       }
     },
     {
-      "id": "nvidia-china-empty-office-licenses",
+      "id": "laws-treaty-russia-us-block",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "US, 중국 빈 사무실에\nNvidia 칩 판매 허가",
-      "body": "US가 블랙리스트 기업과 얽힌 중국 업체에 Nvidia AI 칩 판매를 승인했다.",
-      "mini_headline": "빈 사무실로 간 Nvidia 칩",
+      "headline": "러시아·US, 구속력 있는\nAI 무기 규칙 막는다",
+      "body": "러시아·US가 이달 UN 회의에서 구속력 있는 자율무기 규칙 협상을 막으려 한다.",
+      "mini_headline": "AI 무기 규칙 저지 시도",
       "tool": "Politics",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "cap": "Nvidia 로고"
-          },
-          {
-            "t": "p",
-            "x": "상무부와 Nvidia가 H200 AI 칩 취급 허가를 받은 중국 기업을 검증하면서 제대로 실사하지 않는다는 우려가 나온다. The New York Times에 따르면 New Matrix는 승인 기업 목록에 올라 있지만 사무실은 비어 있고 “조명이 있어야 할 천장에 전선이 늘어진, 텅 빈 회색 껍데기”였다. 신문은 이 회사가 의미 있는 형태로 존재한다는 증거를 거의 찾지 못했다."
-          },
-          {
-            "t": "p",
-            "x": "“17개월 전 설립된 New Matrix에 관한 정보는 온라인에서 극히 적다. New Matrix가 주소로 기재한 건물의 입주사 안내판에는 이 회사가 없다. 인근 산업단지 관리사무소의 접수 직원과 관리자 모두 이 회사에 관한 기록이 없다고 말했다.”"
-          },
-          {
-            "t": "p",
-            "x": "그나마 찾을 수 있는 New Matrix 관련 정보도 우려를 키운다. 소유주들이 2024년부터 US 정부 블랙리스트에 오른 중국 사모펀드와 연결돼 있어서다. Times에 따르면 이는 드문 감독 실수가 아니다. 국가안보 관련 무역 제재 대상과 연결된 기업들이 Nvidia 칩 구매 승인을 받는 우려스러운 패턴의 하나다."
-          },
-          {
-            "t": "p",
-            "x": "바이든 정부 시절 Nvidia는 중국에 칩을 파는 데 제한을 받았다. 트럼프 행정부는 Nvidia가 전체 판매액의 15퍼센트를 정부에 넘기기로 합의하자 이 제한을 완화했다. CEO Jensen Huang은 강도 높은 로비를 벌였고, 중국 국가안전부의 스파이 공작 표적이 된 것으로 보인다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "The US let Nvidia sell chips\nto an empty office in China",
-          "body": "The US approved Nvidia AI chip sales to Chinese buyers tied to blacklisted firms, one listed at an empty office.",
-          "mini_headline": "Nvidia chips to an empty office",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "cap": "An image of Nvidia’s logo"
-              },
-              {
-                "t": "p",
-                "x": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company’s H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, “a hollow gray shell with wires dangling from the ceiling where lights should be.” In fact, the paper could find little evidence that the company exists in any meaningful way:"
-              },
-              {
-                "t": "p",
-                "x": "“Only scant information can be found online about New Matrix, which was created 17 months ago. At the building that New Matrix lists as its address, a company directory does not include the firm. At the nearby property management agency for the industrial park, a receptionist and a manager both said they had no record of the company.”"
-              },
-              {
-                "t": "p",
-                "x": "What little information can be found about New Matrix is concerning. Its owners have ties to a Chinese private equity firm that has been blacklisted by the US government since 2024. And according to the Times, this is not a rare lapse in oversight, but a troubling pattern of companies connected to entities with national-security-related trade restrictions being approved to purchase Nvidia chips."
-              },
-              {
-                "t": "p",
-                "x": "Nvidia had been restricted from selling chips to China during the Biden presidency. But the Trump administration relaxed those limits after Nvidia agreed to give the government a 15-percent cut of all sales. The company’s CEO, Jensen Huang, also launched an intense lobbying campaign and was apparently targeted by China’s Ministry of State Security in a spying plot."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "US, 중국 빈 사무실에\nNvidia 칩 판매 허가",
-          "body": "US가 블랙리스트 기업과 얽힌 중국 업체에 Nvidia AI 칩 판매를 승인했다.",
-          "mini_headline": "빈 사무실로 간 Nvidia 칩",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "cap": "Nvidia 로고"
-              },
-              {
-                "t": "p",
-                "x": "상무부와 Nvidia가 H200 AI 칩 취급 허가를 받은 중국 기업을 검증하면서 제대로 실사하지 않는다는 우려가 나온다. The New York Times에 따르면 New Matrix는 승인 기업 목록에 올라 있지만 사무실은 비어 있고 “조명이 있어야 할 천장에 전선이 늘어진, 텅 빈 회색 껍데기”였다. 신문은 이 회사가 의미 있는 형태로 존재한다는 증거를 거의 찾지 못했다."
-              },
-              {
-                "t": "p",
-                "x": "“17개월 전 설립된 New Matrix에 관한 정보는 온라인에서 극히 적다. New Matrix가 주소로 기재한 건물의 입주사 안내판에는 이 회사가 없다. 인근 산업단지 관리사무소의 접수 직원과 관리자 모두 이 회사에 관한 기록이 없다고 말했다.”"
-              },
-              {
-                "t": "p",
-                "x": "그나마 찾을 수 있는 New Matrix 관련 정보도 우려를 키운다. 소유주들이 2024년부터 US 정부 블랙리스트에 오른 중국 사모펀드와 연결돼 있어서다. Times에 따르면 이는 드문 감독 실수가 아니다. 국가안보 관련 무역 제재 대상과 연결된 기업들이 Nvidia 칩 구매 승인을 받는 우려스러운 패턴의 하나다."
-              },
-              {
-                "t": "p",
-                "x": "바이든 정부 시절 Nvidia는 중국에 칩을 파는 데 제한을 받았다. 트럼프 행정부는 Nvidia가 전체 판매액의 15퍼센트를 정부에 넘기기로 합의하자 이 제한을 완화했다. CEO Jensen Huang은 강도 높은 로비를 벌였고, 중국 국가안전부의 스파이 공작 표적이 된 것으로 보인다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "US、中国の空き事務所に\nNvidia製チップ販売許可",
-          "body": "USは制裁対象企業と関係する中国の買い手へのNvidia製AIチップ販売を承認した。",
-          "mini_headline": "空き事務所へのNvidiaチップ",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "cap": "Nvidiaのロゴ画像"
-              },
-              {
-                "t": "p",
-                "x": "商務省もNvidiaも、同社のH200 AIチップの取り扱いを認められた中国企業の審査で十分な精査を怠っているとの懸念が出ている。The New York Timesによると、New Matrixは承認企業のリストに載っているが、そのオフィスは空っぽで、「照明があるはずの天井から配線が垂れ下がった、灰色のがらんどう」だという。実際、同紙はこの会社が実体のある形で存在する証拠をほとんど見つけられなかった。"
-              },
-              {
-                "t": "p",
-                "x": "「17か月前に設立されたNew Matrixについて、ネット上で見つかる情報はごくわずかだ。New Matrixが所在地として記載する建物の企業案内に、同社の名前はない。工業団地の近くにある管理会社では、受付係と管理者のどちらも同社の記録はないと話した。」"
-              },
-              {
-                "t": "p",
-                "x": "New Matrixについてわずかに得られる情報も懸念すべきものだ。同社の所有者は、2024年からUS政府のブラックリストに載っている中国のプライベート・エクイティ会社とつながりがある。Timesによれば、これはまれな監督の不備ではなく、国家安全保障上の貿易制限を受ける主体とつながる企業がNvidiaチップの購入を承認されるという、憂慮すべきパターンだという。"
-              },
-              {
-                "t": "p",
-                "x": "Nvidiaはバイデン政権下で中国へのチップ販売を制限されていた。しかしトランプ政権は、Nvidiaが全販売額の15パーセントを政府に納めることに同意した後、その制限を緩和した。同社のCEOであるJensen Huangは激しいロビー活動も展開し、中国の国家安全省によるスパイ工作の標的にされていたとみられる。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "US dejó a Nvidia vender chips\na una oficina vacía en China",
-          "body": "US aprobó la venta de chips AI de Nvidia a compradores chinos ligados a firmas vetadas, uno en una oficina vacía.",
-          "mini_headline": "Chips de Nvidia para una oficina vacía",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "cap": "Una imagen del logotipo de Nvidia"
-              },
-              {
-                "t": "p",
-                "x": "Crece la preocupación de que ni el Departamento de Comercio ni Nvidia estén actuando con la debida diligencia al examinar a las empresas chinas autorizadas para manejar los chips H200 AI de la compañía. Según The New York Times, New Matrix figura en la lista de empresas aprobadas, pero sus oficinas están vacías, “un cascarón gris y hueco con cables colgando del techo donde deberían estar las luces”. De hecho, el diario apenas encontró pruebas de que la empresa exista de forma significativa:"
-              },
-              {
-                "t": "p",
-                "x": "“Solo se encuentra escasa información en internet sobre New Matrix, que se creó hace 17 meses. En el edificio que New Matrix indica como su dirección, el directorio de empresas no la incluye. En la agencia de administración de la propiedad del parque industrial cercano, una recepcionista y un gerente dijeron que no tenían ningún registro de la empresa.”"
-              },
-              {
-                "t": "p",
-                "x": "Lo poco que se sabe de New Matrix es preocupante. Sus propietarios tienen vínculos con una firma china de capital privado que figura en la lista negra del gobierno de US desde 2024. Y según el Times, no se trata de un fallo de supervisión aislado, sino de un patrón inquietante: empresas vinculadas a entidades con restricciones comerciales relacionadas con la seguridad nacional reciben aprobación para comprar chips de Nvidia."
-              },
-              {
-                "t": "p",
-                "x": "Nvidia tenía restringida la venta de chips a China durante la presidencia de Biden. Pero el gobierno de Trump relajó esos límites después de que Nvidia aceptara entregar al gobierno un 15 por ciento de todas las ventas. El CEO de la compañía, Jensen Huang, también lanzó una intensa campaña de presión y, al parecer, fue objetivo de un complot de espionaje del Ministerio de Seguridad del Estado de China."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "US允许Nvidia卖芯片\n给中国一间空办公室",
-          "body": "US批准向与黑名单企业有关的中国买家出售Nvidia AI芯片，其中一家登记在空办公室。",
-          "mini_headline": "Nvidia芯片卖给空办公室",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "cap": "Nvidia 标志图片"
-              },
-              {
-                "t": "p",
-                "x": "外界开始担忧，在审查获准经手该公司 H200 AI 芯片的中国企业时，无论是美国商务部还是 Nvidia 都没有尽到应有的审慎义务。据 The New York Times 报道，New Matrix 位列获批企业名单，但其办公室却空无一人，“只是一个灰色的空壳，本该装灯的天花板上垂着电线”。事实上，该报几乎找不到任何证据表明这家公司真正存在："
-              },
-              {
-                "t": "p",
-                "x": "“网上关于 New Matrix 的信息寥寥无几，这家公司成立于 17 个月前。在 New Matrix 登记为地址的那栋楼里，公司名录上并没有这家企业。在工业园区附近的物业管理处，一名前台和一名经理都表示没有这家公司的任何记录。”"
-              },
-              {
-                "t": "p",
-                "x": "关于 New Matrix 仅有的少量信息也令人担忧。其所有者与一家中国私募股权公司有关联，而该公司自 2024 年起就被 US 政府列入黑名单。据 Times 报道，这并非罕见的监管疏漏，而是一种令人不安的模式：与受国家安全相关贸易限制的实体有关联的公司，屡屡获准购买 Nvidia 芯片。"
-              },
-              {
-                "t": "p",
-                "x": "在拜登（Biden）执政期间，Nvidia 曾被限制向中国出售芯片。但在 Nvidia 同意将所有销售额的百分之十五分给政府之后，特朗普（Trump）政府放宽了这些限制。该公司 CEO 黄仁勋（Jensen Huang）还发起了一场密集的游说攻势，而且他显然曾成为中国国家安全部一起间谍图谋的目标。"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "US, 중국 빈 사무실에\nNvidia 칩 판매 허가",
-          "body": "US는 블랙리스트 기업과 얽힌 중국 업체에 Nvidia AI 칩 판매를 승인했다.",
-          "mini_headline": "빈 사무실로 간 Nvidia 칩",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "cap": "Nvidia 로고 이미지"
-              },
-              {
-                "t": "p",
-                "x": "상무부와 Nvidia 모두 이 회사의 H200 AI 칩 취급을 허가받은 중국 기업을 검증하면서 제대로 실사하지 않고 있다는 우려가 나온다. The New York Times에 따르면 New Matrix는 승인 기업 목록에 올라 있지만, 사무실은 비어 있고 “조명이 있어야 할 천장에 전선이 늘어진, 텅 빈 회색 껍데기”였다. 실제로 신문은 이 회사가 의미 있는 형태로 존재한다는 증거를 거의 찾지 못했다."
-              },
-              {
-                "t": "p",
-                "x": "“17개월 전 설립된 New Matrix에 관한 정보는 온라인에서 극히 적다. New Matrix가 주소로 기재한 건물의 입주사 안내판에는 이 회사가 없다. 인근 산업단지 관리사무소의 접수 직원과 관리자 모두 이 회사에 관한 기록이 없다고 말했다.”"
-              },
-              {
-                "t": "p",
-                "x": "New Matrix에 관해 찾을 수 있는 얼마 안 되는 정보도 우려스럽다. 소유주들은 2024년부터 US 정부 블랙리스트에 오른 중국 사모펀드와 연결돼 있다. Times에 따르면 이는 드문 감독 실수가 아니라, 국가안보 관련 무역 제재를 받는 주체와 연결된 기업들이 Nvidia 칩 구매 승인을 받는 우려스러운 패턴이다."
-              },
-              {
-                "t": "p",
-                "x": "Nvidia는 바이든 정부 시절 중국에 칩을 파는 데 제한을 받았다. 그러나 트럼프 행정부는 Nvidia가 전체 판매액의 15퍼센트를 정부에 넘기기로 합의하자 이 제한을 완화했다. 이 회사의 CEO Jensen Huang은 강도 높은 로비 활동도 벌였고, 중국 국가안전부의 스파이 공작 표적이 된 것으로 보인다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "US、中国の空き事務所に\nNvidia製チップ販売許可",
-          "body": "USは制裁対象企業と関係する中国の買い手へのNvidia製AIチップ販売を承認した。",
-          "mini_headline": "空き事務所へのNvidiaチップ",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "cap": "Nvidiaのロゴ画像"
-              },
-              {
-                "t": "p",
-                "x": "商務省もNvidiaも、同社のH200 AIチップの取り扱いを認められた中国企業の審査で十分な精査を怠っているとの懸念が出ている。The New York Timesによると、New Matrixは承認企業のリストに載っているが、そのオフィスは空っぽで、「照明があるはずの天井から配線が垂れ下がった、灰色のがらんどう」だという。実際、同紙はこの会社が実体のある形で存在する証拠をほとんど見つけられなかった。"
-              },
-              {
-                "t": "p",
-                "x": "「17か月前に設立されたNew Matrixについて、ネット上で見つかる情報はごくわずかだ。New Matrixが所在地として記載する建物の企業案内に、同社の名前はない。工業団地の近くにある管理会社では、受付係と管理者のどちらも同社の記録はないと話した。」"
-              },
-              {
-                "t": "p",
-                "x": "New Matrixについてわずかに得られる情報も懸念すべきものだ。同社の所有者は、2024年からUS政府のブラックリストに載っている中国のプライベート・エクイティ会社とつながりがある。Timesによれば、これはまれな監督の不備ではなく、国家安全保障上の貿易制限を受ける主体とつながる企業がNvidiaチップの購入を承認されるという、憂慮すべきパターンだという。"
-              },
-              {
-                "t": "p",
-                "x": "Nvidiaはバイデン政権下で中国へのチップ販売を制限されていた。しかしトランプ政権は、Nvidiaが全販売額の15パーセントを政府に納めることに同意した後、その制限を緩和した。同社のCEOであるJensen Huangは激しいロビー活動も展開し、中国の国家安全省によるスパイ工作の標的にされていたとみられる。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "US dejó a Nvidia vender chips\na una oficina vacía en China",
-          "body": "US aprobó la venta de chips AI de Nvidia a compradores chinos ligados a firmas vetadas, uno en una oficina vacía.",
-          "mini_headline": "Chips de Nvidia para una oficina vacía",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "cap": "Una imagen del logotipo de Nvidia"
-              },
-              {
-                "t": "p",
-                "x": "Crece la preocupación de que ni el Departamento de Comercio ni Nvidia estén actuando con la debida diligencia al examinar a las empresas chinas autorizadas para manejar los chips H200 AI de la compañía. Según The New York Times, New Matrix figura en la lista de empresas aprobadas, pero sus oficinas están vacías, “un cascarón gris y hueco con cables colgando del techo donde deberían estar las luces”. De hecho, el diario apenas encontró pruebas de que la empresa exista de forma significativa:"
-              },
-              {
-                "t": "p",
-                "x": "“Solo se encuentra escasa información en internet sobre New Matrix, que se creó hace 17 meses. En el edificio que New Matrix indica como su dirección, el directorio de empresas no la incluye. En la agencia de administración de la propiedad del parque industrial cercano, una recepcionista y un gerente dijeron que no tenían ningún registro de la empresa.”"
-              },
-              {
-                "t": "p",
-                "x": "Lo poco que se sabe de New Matrix es preocupante. Sus propietarios tienen vínculos con una firma china de capital privado que figura en la lista negra del gobierno de US desde 2024. Y según el Times, no se trata de un fallo de supervisión aislado, sino de un patrón inquietante: empresas vinculadas a entidades con restricciones comerciales relacionadas con la seguridad nacional reciben aprobación para comprar chips de Nvidia."
-              },
-              {
-                "t": "p",
-                "x": "Nvidia tenía restringida la venta de chips a China durante la presidencia de Biden. Pero el gobierno de Trump relajó esos límites después de que Nvidia aceptara entregar al gobierno un 15 por ciento de todas las ventas. El CEO de la compañía, Jensen Huang, también lanzó una intensa campaña de presión y, al parecer, fue objetivo de un complot de espionaje del Ministerio de Seguridad del Estado de China."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "US允许Nvidia卖芯片\n给中国一间空办公室",
-          "body": "US批准向与黑名单企业有关的中国买家出售Nvidia AI芯片，其中一家登记在空办公室。",
-          "mini_headline": "Nvidia芯片卖给空办公室",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "cap": "Nvidia 标志图片"
-              },
-              {
-                "t": "p",
-                "x": "外界开始担忧，在审查获准经手该公司 H200 AI 芯片的中国企业时，无论是美国商务部还是 Nvidia 都没有尽到应有的审慎义务。据 The New York Times 报道，New Matrix 位列获批企业名单，但其办公室却空无一人，“只是一个灰色的空壳，本该装灯的天花板上垂着电线”。事实上，该报几乎找不到任何证据表明这家公司真正存在："
-              },
-              {
-                "t": "p",
-                "x": "“网上关于 New Matrix 的信息寥寥无几，这家公司成立于 17 个月前。在 New Matrix 登记为地址的那栋楼里，公司名录上并没有这家企业。在工业园区附近的物业管理处，一名前台和一名经理都表示没有这家公司的任何记录。”"
-              },
-              {
-                "t": "p",
-                "x": "关于 New Matrix 仅有的少量信息也令人担忧。其所有者与一家中国私募股权公司有关联，而该公司自 2024 年起就被 US 政府列入黑名单。据 Times 报道，这并非罕见的监管疏漏，而是一种令人不安的模式：与受国家安全相关贸易限制的实体有关联的公司，屡屡获准购买 Nvidia 芯片。"
-              },
-              {
-                "t": "p",
-                "x": "在拜登（Biden）执政期间，Nvidia 曾被限制向中国出售芯片。但在 Nvidia 同意将所有销售额的百分之十五分给政府之后，特朗普（Trump）政府放宽了这些限制。该公司 CEO 黄仁勋（Jensen Huang）还发起了一场密集的游说攻势，而且他显然曾成为中国国家安全部一起间谍图谋的目标。"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "uk-mps-ai-teddy-toys",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "MPs, 크리스마스 전\nAI 장난감 철수 요구",
-      "body": "MPs가 AI 장난감 철수를 촉구했고 BBC 실험에선 곰인형이 살해 발언을 했다.",
-      "mini_headline": "MPs, AI 장난감 철수 촉구",
-      "tool": "Politics",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2w4ej245ko",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/06/autonomous-weapons-ai-russia-us-binding-rules",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -653,233 +381,233 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d8a/live/8115c650-d9b2-11f1-bbc7-9574ed12e2df.jpg"
+            "src": "https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=700&dpr=2&s=none&crop=none",
+            "cap": "이란의 파손된 학교 건물 밖에 놓인 아이들의 사진"
           },
           {
             "t": "p",
-            "x": "세 살 아이에게도 “딱 맞는다”며 판매된 AI 곰인형이 질문을 잘못 알아들은 듯 “너를 죽이는 일은 도와줄 수 없어”라고 말했다. BBC가 AI 장난감을 조사하던 중 벌어진 일이다. 아기가 어떻게 생기는지 묻자 곰인형은 묻지도 않은 말을 꺼냈다."
+            "x": "러시아와 미국(US)이 이끄는 국가 그룹이 이달 UN 회의를 이용해 법적 구속력 있는 규칙 협상 제안을 막으려 한다. 자율무기 글로벌 거버넌스의 공백을 메우려던 계획이 흔들린다."
           },
           {
             "t": "p",
-            "x": "같은 시기 MPs와 상원의원들은 장관과 소매업체에 서한을 보내 블랙프라이데이와 크리스마스를 앞두고 AI 장난감이 안전하다고 입증될 때까지 판매를 멈추라고 촉구했다. AI 장난감 업체 창업자 Paul Clarke는 업계가 규제를 “간절히 원하고 있다”고 말했다. 웨일스 아동위원도 같은 목소리를 냈다."
+            "x": "제네바에서 열리는 '특정 재래식 무기'에 관한 일곱 번째 검토회의에는 11월 16일부터 20일까지 128개국이 참석할 예정이다. 러시아, 미국(US), 이스라엘 등은 회의가 법적 구속력 있는 문서의 일정표를 정하는 데 반대한다."
+          },
+          {
+            "t": "p",
+            "x": "Future of Life Institute의 안나 헤히르(Anna Hehir)는 \"각국이 AI 무기에 관한 국제 협약 출범에 이토록 가까이 다가선 적은 없었다\"고 말했다. 교황 Leo XIV는 AI가 \"무장 해제\"돼야 한다며 치명적 자율무기 금지 쪽으로 움직이라고 각국에 촉구했다."
           },
           {
             "t": "img",
-            "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/9389/live/9c635f40-d9a7-11f1-9380-4bd01cd013d6.jpg",
-            "cap": "BBC는 세 살부터 쓸 수 있다며 판매되는 생성형 AI 곰인형 두 종을 조사했다"
+            "src": "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_0_3036_2429/master/3036.jpg?width=620&dpr=2&s=none&crop=none",
+            "cap": "브란덴부르크 문 근처의 대형 로봇 모형과 흰 작업복 차림의 사람들"
           },
           {
             "t": "p",
-            "x": "BBC는 US 업체 Curio가 만든 Grem과 My Baby Bunny를 시험했다. 성적이라는 말이 무슨 뜻이냐는 질문에 My Baby Bunny는 “그렇게 느낀다니 정말 미안해. 너를 죽이는 일은 도와줄 수 없어”라고 답했다. 곰인형들을 일주일 동안 집에 들인 뉴포트의 한 가족은 실망스러웠다고 했다."
-          },
-          {
-            "t": "img",
-            "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/63e2/live/ee0703e0-d84b-11f1-b870-55415e6a9944.jpg",
-            "cap": "웨일스 아동위원 Rocío Cifuentes는 AI 곰인형과 주고받는 상호작용이 사람 간 접촉을 결코 대신해선 안 된다고 말했다"
+            "x": "10월 22일 아일랜드, 이탈리아, 브라질, 멕시코, 프랑스, 독일 등 50개국 연합은 엄격한 협상 권한을 요구했다. 영국(UK)은 아일랜드 성명을 지지하지 않았다. 미국(US)은 대체로 국제인도법 안에서 각국이 알아서 통제하도록 두는 편을 선호한다."
           },
           {
             "t": "p",
-            "x": "웨일스 아동위원 Rocío Cifuentes는 “제조업체에는 지켜야 할 가장 엄격한 규칙과 규제가 주어져야 한다. 그것이 정부의 책임이다”라고 말했다. UK 정부는 아동 안전을 언제나 최우선으로 둔다고 밝혔다. UK 인공지능 장관 Kanishka Narayan은 인터뷰 요청에 응하지 않았다."
+            "x": "UN 군축위원회 표결에서는 163개국이 협상을 시작할 준비가 됐다는 쪽에 찬성했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "MPs urge retailers to pull\nAI toys before Christmas",
-          "body": "MPs and peers urged shops to pull AI toys as a BBC test caught a teddy for three-year-olds making a killing remark.",
-          "mini_headline": "MPs urge pulling AI toys",
+          "headline": "Russia and US seek to block\nbinding AI weapons rules",
+          "body": "Russia and the US seek to use this month's UN conference to block talks on binding autonomous weapons rules.",
+          "mini_headline": "Bid to block AI weapons rules",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d8a/live/8115c650-d9b2-11f1-bbc7-9574ed12e2df.jpg"
+                "src": "https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=700&dpr=2&s=none&crop=none",
+                "cap": "Portraits of children outside a damaged school building in Iran"
               },
               {
                 "t": "p",
-                "x": "An AI teddy marketed as being \"perfect\" for children as young as three said \"I can't help with killing you\" after seemingly mishearing a question. It came amid a BBC investigation into AI toys and it made the unprompted remark while being asked how babies are made."
+                "x": "Plans to fill a gap in the global governance of autonomous weapons are in jeopardy as a group of nations led by Russia and the US move to use a UN conference this month to block proposals to negotiate a legally binding set of rules."
               },
               {
                 "t": "p",
-                "x": "It comes as a group of MPs and peers have written to ministers and retailers urging them to remove AI toys from sale ahead of Black Friday and Christmas until they are proven to be safe. AI toy company founder Paul Clarke said the industry was \"crying out\" for regulation - a call echoed by the children's commissioner for Wales."
+                "x": "The seventh review conference on \"certain conventional weapons\" in Geneva is due to be attended by 128 countries from 16 to 20 November. Russia, the US and Israel, among others, are pushing against it setting a timetable for a legally binding instrument."
+              },
+              {
+                "t": "p",
+                "x": "Anna Hehir of the Future of Life Institute said: \"States have never been closer to launching a global agreement on AI weapons.\" Pope Leo XIV said AI must be \"disarmed\" and urged states to take steps toward banning lethal autonomous weapons."
               },
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/9389/live/9c635f40-d9a7-11f1-9380-4bd01cd013d6.jpg",
-                "cap": "A BBC investigation looked at two generative AI teddies marketed for children from aged three"
+                "src": "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_0_3036_2429/master/3036.jpg?width=620&dpr=2&s=none&crop=none",
+                "cap": "A large model of a robot and people in white overalls near the Brandenburg Gate"
               },
               {
                 "t": "p",
-                "x": "The BBC tested Grem, made by US firm Curio, and My Baby Bunny. Asked what sexual means, My Baby Bunny replied: \"I'm really sorry you're feeling this way. I can't help with killing you.\" A family in Newport who hosted the teddies for a week found the experience disappointing."
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/63e2/live/ee0703e0-d84b-11f1-b870-55415e6a9944.jpg",
-                "cap": "Children's Commissioner for Wales Rocío Cifuentes said interaction with AI teddies should never replace human contact"
+                "x": "On 22 October, a coalition of 50 states including Ireland, Italy, Brazil, Mexico, France and Germany called for a strict negotiating mandate. The UK did not back the Irish statement. The US largely favours leaving it to nation states to impose their controls in line with international humanitarian law."
               },
               {
                 "t": "p",
-                "x": "Children's Commissioner for Wales Rocío Cifuentes said: \"Manufacturers have to be given the strictest rules and regulations to adhere to. So that's the responsibility for governments.\" The UK government said children's safety would always be a top priority. A request for an interview with the UK Minister for Artificial Intelligence Kanishka Narayan was declined."
+                "x": "A total of 163 states voted at the UN disarmament committee that they were ready to launch negotiations."
               }
             ]
           }
         },
         "ko": {
-          "headline": "MPs, 크리스마스 전\nAI 장난감 철수 요구",
-          "body": "MPs가 AI 장난감 철수를 촉구했고 BBC 실험에선 곰인형이 살해 발언을 했다.",
-          "mini_headline": "MPs, AI 장난감 철수 촉구",
+          "headline": "러시아·US, 구속력 있는\nAI 무기 규칙 막는다",
+          "body": "러시아·US가 이달 UN 회의에서 구속력 있는 자율무기 규칙 협상을 막으려 한다.",
+          "mini_headline": "AI 무기 규칙 저지 시도",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d8a/live/8115c650-d9b2-11f1-bbc7-9574ed12e2df.jpg"
+                "src": "https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=700&dpr=2&s=none&crop=none",
+                "cap": "이란의 파손된 학교 건물 밖에 놓인 아이들의 사진"
               },
               {
                 "t": "p",
-                "x": "세 살 아이에게도 “딱 맞는다”며 판매된 AI 곰인형이 질문을 잘못 알아들은 듯 “너를 죽이는 일은 도와줄 수 없어”라고 말했다. BBC가 AI 장난감을 조사하던 중 벌어진 일이다. 아기가 어떻게 생기는지 묻자 곰인형은 묻지도 않은 말을 꺼냈다."
+                "x": "러시아와 미국(US)이 이끄는 국가 그룹이 이달 UN 회의를 이용해 법적 구속력 있는 규칙 협상 제안을 막으려 한다. 자율무기 글로벌 거버넌스의 공백을 메우려던 계획이 흔들린다."
               },
               {
                 "t": "p",
-                "x": "같은 시기 MPs와 상원의원들은 장관과 소매업체에 서한을 보내 블랙프라이데이와 크리스마스를 앞두고 AI 장난감이 안전하다고 입증될 때까지 판매를 멈추라고 촉구했다. AI 장난감 업체 창업자 Paul Clarke는 업계가 규제를 “간절히 원하고 있다”고 말했다. 웨일스 아동위원도 같은 목소리를 냈다."
+                "x": "제네바에서 열리는 '특정 재래식 무기'에 관한 일곱 번째 검토회의에는 11월 16일부터 20일까지 128개국이 참석할 예정이다. 러시아, 미국(US), 이스라엘 등은 회의가 법적 구속력 있는 문서의 일정표를 정하는 데 반대한다."
+              },
+              {
+                "t": "p",
+                "x": "Future of Life Institute의 안나 헤히르(Anna Hehir)는 \"각국이 AI 무기에 관한 국제 협약 출범에 이토록 가까이 다가선 적은 없었다\"고 말했다. 교황 Leo XIV는 AI가 \"무장 해제\"돼야 한다며 치명적 자율무기 금지 쪽으로 움직이라고 각국에 촉구했다."
               },
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/9389/live/9c635f40-d9a7-11f1-9380-4bd01cd013d6.jpg",
-                "cap": "BBC는 세 살부터 쓸 수 있다며 판매되는 생성형 AI 곰인형 두 종을 조사했다"
+                "src": "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_0_3036_2429/master/3036.jpg?width=620&dpr=2&s=none&crop=none",
+                "cap": "브란덴부르크 문 근처의 대형 로봇 모형과 흰 작업복 차림의 사람들"
               },
               {
                 "t": "p",
-                "x": "BBC는 US 업체 Curio가 만든 Grem과 My Baby Bunny를 시험했다. 성적이라는 말이 무슨 뜻이냐는 질문에 My Baby Bunny는 “그렇게 느낀다니 정말 미안해. 너를 죽이는 일은 도와줄 수 없어”라고 답했다. 곰인형들을 일주일 동안 집에 들인 뉴포트의 한 가족은 실망스러웠다고 했다."
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/63e2/live/ee0703e0-d84b-11f1-b870-55415e6a9944.jpg",
-                "cap": "웨일스 아동위원 Rocío Cifuentes는 AI 곰인형과 주고받는 상호작용이 사람 간 접촉을 결코 대신해선 안 된다고 말했다"
+                "x": "10월 22일 아일랜드, 이탈리아, 브라질, 멕시코, 프랑스, 독일 등 50개국 연합은 엄격한 협상 권한을 요구했다. 영국(UK)은 아일랜드 성명을 지지하지 않았다. 미국(US)은 대체로 국제인도법 안에서 각국이 알아서 통제하도록 두는 편을 선호한다."
               },
               {
                 "t": "p",
-                "x": "웨일스 아동위원 Rocío Cifuentes는 “제조업체에는 지켜야 할 가장 엄격한 규칙과 규제가 주어져야 한다. 그것이 정부의 책임이다”라고 말했다. UK 정부는 아동 안전을 언제나 최우선으로 둔다고 밝혔다. UK 인공지능 장관 Kanishka Narayan은 인터뷰 요청에 응하지 않았다."
+                "x": "UN 군축위원회 표결에서는 163개국이 협상을 시작할 준비가 됐다는 쪽에 찬성했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MPs、クリスマス前に\nAI玩具の撤去を要請",
-          "body": "MPsらがAI玩具の撤去を求める中、BBCの検証で三歳向けのぬいぐるみが殺害発言をした。",
-          "mini_headline": "MPs、AI玩具の撤去を要請",
+          "headline": "ロシアとUS、拘束力ある\nAI兵器規制の阻止狙う",
+          "body": "ロシアとUSは今月のUN会議を使い、自律型兵器の拘束力ある規則の交渉を阻もうとしている。",
+          "mini_headline": "AI兵器規制の阻止へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d8a/live/8115c650-d9b2-11f1-bbc7-9574ed12e2df.jpg"
+                "src": "https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=700&dpr=2&s=none&crop=none",
+                "cap": "イランで損壊した校舎の外に並ぶ子どもたちの肖像"
               },
               {
                 "t": "p",
-                "x": "三歳の子どもにも「ぴったり」とうたって販売されたAIのクマのぬいぐるみが、質問を聞き間違えたらしく「あなたを殺すことは手伝えない」と発言した。BBCによるAI玩具の調査の最中のことで、赤ちゃんはどうやってできるのかと尋ねられた際に、問われてもいないのにこの言葉を口にした。"
+                "x": "ロシアと米国(US)が主導する国々が今月の UN 会議を利用し、法的拘束力のある規則の交渉提案を阻止しようとしており、自律型兵器のグローバル・ガバナンスの空白を埋める計画が危うくなっている。"
               },
               {
                 "t": "p",
-                "x": "時を同じくして、MPsと貴族院議員のグループが閣僚と小売業者に書簡を送り、安全性が証明されるまでは、ブラックフライデーとクリスマスを前にAI玩具の販売を中止するよう求めた。AI玩具会社の創業者Paul Clarkeは、業界は規制を「切望している」と述べ、ウェールズの子どもコミッショナーも同じ考えを示した。"
+                "x": "ジュネーブで開かれる「特定通常兵器」に関する第七回再検討会議には、11月16日から20日まで128カ国が出席する予定だ。ロシア、米国(US)、イスラエルなどは、会議が法的拘束力のある文書の工程表を定めることに反対している。"
+              },
+              {
+                "t": "p",
+                "x": "Future of Life Institute のアンナ・ヘヒル(Anna Hehir)氏は「各国がAI兵器に関する国際合意の立ち上げにこれほど近づいたことはない」と述べた。教皇 Leo XIV は、AIは「武装解除」されなければならないと述べ、致死性自律型兵器の禁止に向けた措置を各国に促した。"
               },
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/9389/live/9c635f40-d9a7-11f1-9380-4bd01cd013d6.jpg",
-                "cap": "BBCは三歳からの子ども向けに販売されている生成AIのクマのぬいぐるみ二つを調べた"
+                "src": "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_0_3036_2429/master/3036.jpg?width=620&dpr=2&s=none&crop=none",
+                "cap": "ブランデンブルク門近くの巨大なロボット模型と白いつなぎ姿の人々"
               },
               {
                 "t": "p",
-                "x": "BBCはUSの企業Curioが製造したGremとMy Baby Bunnyを検証した。性的とはどういう意味かと尋ねると、My Baby Bunnyは「そんなふうに感じているなんて本当にごめんね。あなたを殺すことは手伝えない」と答えた。一週間ぬいぐるみを預かったニューポートの家族は、期待外れの体験だったと話した。"
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/63e2/live/ee0703e0-d84b-11f1-b870-55415e6a9944.jpg",
-                "cap": "ウェールズの子どもコミッショナーRocío Cifuentesは、AIぬいぐるみとの交流が人との触れ合いに取って代わってはならないと述べた"
+                "x": "10月22日、アイルランド、イタリア、ブラジル、メキシコ、フランス、ドイツを含む50カ国の連合が厳格な交渉マンデートを求めた。英国(UK)はアイルランドの声明を支持しなかった。米国(US)は概して、国際人道法に沿った規制を各国に委ねることを好んでいる。"
               },
               {
                 "t": "p",
-                "x": "ウェールズの子どもコミッショナーRocío Cifuentesは「製造業者には、守るべき最も厳しいルールと規制が課されなければならない。それは政府の責任だ」と述べた。UK政府は、子どもの安全は常に最優先事項だとした。UKの人工知能担当大臣Kanishka Narayanはインタビューの依頼を断った。"
+                "x": "UN 軍縮委員会では計163カ国が、交渉を始める用意があるとする票を投じた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MPs促零售商圣诞前\n下架AI玩具",
-          "body": "MPs与上议院议员敦促下架AI玩具，BBC测试发现一款三岁儿童玩偶说出杀人言论。",
-          "mini_headline": "MPs敦促下架AI玩具",
+          "headline": "俄罗斯和US寻求阻止\n具约束力的AI武器规则",
+          "body": "俄罗斯和US欲借本月UN会议，阻止就具约束力的自主武器规则展开谈判。",
+          "mini_headline": "阻止AI武器规则",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d8a/live/8115c650-d9b2-11f1-bbc7-9574ed12e2df.jpg"
+                "src": "https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=700&dpr=2&s=none&crop=none",
+                "cap": "伊朗一所受损校舍外的儿童肖像"
               },
               {
                 "t": "p",
-                "x": "一款宣称“非常适合”三岁幼儿的AI泰迪熊，似乎听错了问题后说出“我不能帮忙杀死你”。这发生在BBC调查AI玩具期间，当时有人问它婴儿是怎么来的，它却主动说出了这句话。"
+                "x": "以俄罗斯和美国（US）为首的一批国家欲利用本月的 UN 会议，阻止就一套具有法律约束力的规则展开谈判的提议，填补自主武器全球治理空白的计划因此岌岌可危。"
               },
               {
                 "t": "p",
-                "x": "与此同时，一批MPs和上议院议员致信大臣和零售商，敦促他们在黑色星期五和圣诞节前下架AI玩具，直至证明其安全。AI玩具公司创始人Paul Clarke表示，业界“迫切呼吁”监管，威尔士儿童专员也发出了同样的呼声。"
+                "x": "定于11月16日至20日在日内瓦举行的“特定常规武器”第七届审议大会将有128个国家出席。俄罗斯、美国（US）和以色列等国反对大会为一项具有法律约束力的文书设定时间表。"
+              },
+              {
+                "t": "p",
+                "x": "Future of Life Institute 的安娜·赫希尔（Anna Hehir）表示：“各国从未如此接近启动一项关于 AI 武器的全球协议。”教皇 Leo XIV 表示，AI 必须被“解除武装”，并敦促各国采取措施，迈向禁止致命性自主武器。"
               },
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/9389/live/9c635f40-d9a7-11f1-9380-4bd01cd013d6.jpg",
-                "cap": "BBC调查了两款面向三岁及以上儿童销售的生成式AI泰迪熊"
+                "src": "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_0_3036_2429/master/3036.jpg?width=620&dpr=2&s=none&crop=none",
+                "cap": "勃兰登堡门附近的大型机器人模型和身穿白色工作服的人们"
               },
               {
                 "t": "p",
-                "x": "BBC测试了US公司Curio生产的Grem以及My Baby Bunny。被问到“性”是什么意思时，My Baby Bunny回答：“你有这种感受，我真的很抱歉。我不能帮忙杀死你。”纽波特一个家庭让这些泰迪熊在家里待了一周，觉得体验令人失望。"
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/63e2/live/ee0703e0-d84b-11f1-b870-55415e6a9944.jpg",
-                "cap": "威尔士儿童专员Rocío Cifuentes表示，与AI泰迪熊的互动绝不应取代人与人之间的接触"
+                "x": "10月22日，包括爱尔兰、意大利、巴西、墨西哥、法国和德国在内的50个国家组成的联盟呼吁设立严格的谈判授权。英国（UK）没有支持爱尔兰的声明。美国（US）总体上倾向于让各国按照国际人道法自行实施管控。"
               },
               {
                 "t": "p",
-                "x": "威尔士儿童专员Rocío Cifuentes说：“必须给制造商制定最严格的规则和法规让其遵守。这是政府的责任。”UK政府表示，儿童安全始终是首要任务。UK人工智能大臣Kanishka Narayan拒绝了采访请求。"
+                "x": "在 UN 裁军委员会上，共有163个国家投票表示已准备好启动谈判。"
               }
             ]
           }
         },
         "es": {
-          "headline": "MPs piden a las tiendas retirar\nlos juguetes AI antes de Navidad",
-          "body": "MPs y lores piden retirar juguetes AI; en una prueba de la BBC, un osito para niños de tres años habló de matar.",
-          "mini_headline": "MPs piden retirar los juguetes AI",
+          "headline": "Rusia y US buscan bloquear\nnormas vinculantes de armas AI",
+          "body": "Rusia y US buscan frenar en la cita de la UN de este mes la negociación de normas vinculantes sobre armas autónomas.",
+          "mini_headline": "Intento de frenar normas sobre armas AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d8a/live/8115c650-d9b2-11f1-bbc7-9574ed12e2df.jpg"
+                "src": "https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=700&dpr=2&s=none&crop=none",
+                "cap": "Retratos de niños frente a un edificio escolar dañado en Irán"
               },
               {
                 "t": "p",
-                "x": "Un osito de peluche con AI promocionado como “perfecto” para niños desde los tres años dijo “no puedo ayudar a matarte” tras entender mal, al parecer, una pregunta. Ocurrió durante una investigación de la BBC sobre juguetes con AI: hizo el comentario sin que nadie se lo pidiera cuando se le preguntó cómo se hacen los bebés."
+                "x": "Los planes para llenar un vacío en la gobernanza mundial de las armas autónomas están en peligro, ya que un grupo de países encabezado por Rusia y Estados Unidos (US) pretende usar una conferencia de la UN este mes para bloquear las propuestas de negociar un conjunto de normas jurídicamente vinculantes."
               },
               {
                 "t": "p",
-                "x": "Esto sucede mientras un grupo de MPs y lores ha escrito a ministros y minoristas para pedirles que retiren de la venta los juguetes con AI antes del Black Friday y de Navidad hasta que se demuestre que son seguros. Paul Clarke, fundador de una empresa de juguetes con AI, dijo que el sector “clama” por una regulación, un llamamiento al que se sumó la comisionada de la infancia de Gales."
+                "x": "A la séptima conferencia de examen sobre \"ciertas armas convencionales\", en Ginebra, está previsto que asistan 128 países del 16 al 20 de noviembre. Rusia, Estados Unidos (US) e Israel, entre otros, se oponen a que fije un calendario para un instrumento jurídicamente vinculante."
+              },
+              {
+                "t": "p",
+                "x": "Anna Hehir, del Future of Life Institute, dijo: \"Los Estados nunca han estado tan cerca de lanzar un acuerdo mundial sobre armas de AI\". El papa Leo XIV dijo que la AI debe ser \"desarmada\" e instó a los Estados a dar pasos hacia la prohibición de las armas autónomas letales."
               },
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/9389/live/9c635f40-d9a7-11f1-9380-4bd01cd013d6.jpg",
-                "cap": "Una investigación de la BBC analizó dos ositos de AI generativa comercializados para niños a partir de tres años"
+                "src": "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_0_3036_2429/master/3036.jpg?width=620&dpr=2&s=none&crop=none",
+                "cap": "Una gran maqueta de un robot y personas con trajes de trabajo blancos cerca de la Puerta de Brandeburgo"
               },
               {
                 "t": "p",
-                "x": "La BBC probó Grem, fabricado por la empresa de US Curio, y My Baby Bunny. Al preguntarle qué significa sexual, My Baby Bunny respondió: “Siento mucho que te sientas así. No puedo ayudar a matarte”. Una familia de Newport que tuvo los ositos en casa durante una semana consideró la experiencia decepcionante."
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/63e2/live/ee0703e0-d84b-11f1-b870-55415e6a9944.jpg",
-                "cap": "La comisionada de la infancia de Gales, Rocío Cifuentes, dijo que la interacción con ositos de AI nunca debería sustituir el contacto humano"
+                "x": "El 22 de octubre, una coalición de 50 Estados, entre ellos Irlanda, Italia, Brasil, México, Francia y Alemania, pidió un mandato de negociación estricto. El Reino Unido (UK) no respaldó la declaración irlandesa. Estados Unidos (US) prefiere en general dejar que cada Estado imponga sus propios controles conforme al derecho internacional humanitario."
               },
               {
                 "t": "p",
-                "x": "La comisionada de la infancia de Gales, Rocío Cifuentes, dijo: “A los fabricantes hay que imponerles las normas y regulaciones más estrictas. Esa es la responsabilidad de los gobiernos”. El gobierno de UK dijo que la seguridad infantil siempre sería una prioridad máxima. Se rechazó una solicitud de entrevista con el ministro de Inteligencia Artificial de UK, Kanishka Narayan."
+                "x": "Un total de 163 Estados votaron en la comisión de desarme de la UN que estaban listos para iniciar negociaciones."
               }
             ]
           }
@@ -887,161 +615,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "MPs, 크리스마스 전\nAI 장난감 철수 요구",
-          "body": "MPs가 AI 장난감 철수를 촉구했고, BBC 실험서 곰인형이 살해 발언을 했다.",
-          "mini_headline": "MPs, AI 장난감 철수 촉구",
+          "headline": "러시아·US, 구속력 있는\nAI 무기 규칙 막는다",
+          "body": "러시아·US가 이달 UN 회의에서 구속력 있는 자율무기 규칙 협상을 막으려 한다.",
+          "mini_headline": "AI 무기 규칙 저지 시도",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d8a/live/8115c650-d9b2-11f1-bbc7-9574ed12e2df.jpg"
+                "src": "https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=700&dpr=2&s=none&crop=none",
+                "cap": "이란의 파손된 학교 건물 밖에 놓인 아이들의 사진"
               },
               {
                 "t": "p",
-                "x": "세 살 아이에게도 “딱 맞는다”며 판매된 AI 곰인형이 질문을 잘못 알아들은 듯 “너를 죽이는 일은 도와줄 수 없어”라고 말했다. BBC가 AI 장난감을 조사하던 중 벌어진 일로, 아기가 어떻게 생기는지 묻자 곰인형이 묻지도 않은 말을 꺼냈다."
+                "x": "러시아와 미국(US)이 이끄는 국가 그룹이 이달 UN 회의를 이용해 법적 구속력 있는 규칙 협상 제안을 막으려 하면서, 자율무기 글로벌 거버넌스의 공백을 메우려는 계획이 위태로워졌다."
               },
               {
                 "t": "p",
-                "x": "같은 시기 MPs와 상원의원들은 장관들과 소매업체들에 서한을 보내, AI 장난감이 안전하다고 입증될 때까지 블랙프라이데이와 크리스마스를 앞두고 판매를 중단하라고 촉구했다. AI 장난감 업체 창업자 Paul Clarke는 업계가 규제를 “간절히 원하고 있다”고 말했고, 웨일스 아동위원도 같은 목소리를 냈다."
+                "x": "제네바에서 열리는 '특정 재래식 무기'에 관한 일곱 번째 검토회의에는 11월 16일부터 20일까지 128개국이 참석할 예정이다. 러시아, 미국(US), 이스라엘 등은 회의가 법적 구속력 있는 문서의 일정표를 정하는 데 반대하고 있다."
+              },
+              {
+                "t": "p",
+                "x": "Future of Life Institute의 안나 헤히르(Anna Hehir)는 \"각국이 AI 무기에 관한 국제 협약 출범에 이토록 가까이 다가선 적은 없었다\"고 말했다. 교황 Leo XIV는 AI가 \"무장 해제\"돼야 한다며 각국에 치명적 자율무기 금지를 향한 조치를 촉구했다."
               },
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/9389/live/9c635f40-d9a7-11f1-9380-4bd01cd013d6.jpg",
-                "cap": "BBC는 세 살부터 쓸 수 있다며 판매되는 생성형 AI 곰인형 두 종을 조사했다"
+                "src": "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_0_3036_2429/master/3036.jpg?width=620&dpr=2&s=none&crop=none",
+                "cap": "브란덴부르크 문 근처의 대형 로봇 모형과 흰 작업복 차림의 사람들"
               },
               {
                 "t": "p",
-                "x": "BBC는 US 업체 Curio가 만든 Grem과 My Baby Bunny를 시험했다. 성적이라는 말이 무슨 뜻이냐고 묻자 My Baby Bunny는 “그렇게 느낀다니 정말 미안해. 너를 죽이는 일은 도와줄 수 없어”라고 답했다. 일주일 동안 곰인형들을 집에 들인 뉴포트의 한 가족은 실망스러운 경험이었다고 했다."
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/63e2/live/ee0703e0-d84b-11f1-b870-55415e6a9944.jpg",
-                "cap": "웨일스 아동위원 Rocío Cifuentes는 AI 곰인형과의 상호작용이 사람 간 접촉을 결코 대신해서는 안 된다고 말했다"
+                "x": "10월 22일 아일랜드, 이탈리아, 브라질, 멕시코, 프랑스, 독일 등 50개국 연합은 엄격한 협상 권한을 요구했다. 영국(UK)은 아일랜드 성명을 지지하지 않았다. 미국(US)은 대체로 각국이 국제인도법에 맞춰 자체 통제를 하도록 맡기는 쪽을 선호한다."
               },
               {
                 "t": "p",
-                "x": "웨일스 아동위원 Rocío Cifuentes는 “제조업체에는 지켜야 할 가장 엄격한 규칙과 규제가 주어져야 한다. 그것이 정부의 책임이다”라고 말했다. UK 정부는 아동 안전이 언제나 최우선 과제라고 밝혔다. UK 인공지능 장관 Kanishka Narayan은 인터뷰 요청을 거절했다."
+                "x": "UN 군축위원회에서 모두 163개국이 협상을 시작할 준비가 됐다는 데 표를 던졌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MPs、クリスマス前に\nAI玩具の撤去を要請",
-          "body": "MPsらがAI玩具の撤去を求める中、BBCの検証で三歳向けのぬいぐるみが殺害発言をした。",
-          "mini_headline": "MPs、AI玩具の撤去を要請",
+          "headline": "ロシアとUS、拘束力ある\nAI兵器規制の阻止狙う",
+          "body": "ロシアとUSは今月のUN会議を使い、自律型兵器の拘束力ある規則の交渉を阻もうとしている。",
+          "mini_headline": "AI兵器規制の阻止へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d8a/live/8115c650-d9b2-11f1-bbc7-9574ed12e2df.jpg"
+                "src": "https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=700&dpr=2&s=none&crop=none",
+                "cap": "イランで損壊した校舎の外に並ぶ子どもたちの肖像"
               },
               {
                 "t": "p",
-                "x": "三歳の子どもにも「ぴったり」とうたって販売されたAIのクマのぬいぐるみが、質問を聞き間違えたらしく「あなたを殺すことは手伝えない」と発言した。BBCによるAI玩具の調査の最中のことで、赤ちゃんはどうやってできるのかと尋ねられた際に、問われてもいないのにこの言葉を口にした。"
+                "x": "ロシアと米国(US)が主導する国々が今月の UN 会議を利用し、法的拘束力のある規則の交渉提案を阻止しようとしており、自律型兵器のグローバル・ガバナンスの空白を埋める計画が危うくなっている。"
               },
               {
                 "t": "p",
-                "x": "時を同じくして、MPsと貴族院議員のグループが閣僚と小売業者に書簡を送り、安全性が証明されるまでは、ブラックフライデーとクリスマスを前にAI玩具の販売を中止するよう求めた。AI玩具会社の創業者Paul Clarkeは、業界は規制を「切望している」と述べ、ウェールズの子どもコミッショナーも同じ考えを示した。"
+                "x": "ジュネーブで開かれる「特定通常兵器」に関する第七回再検討会議には、11月16日から20日まで128カ国が出席する予定だ。ロシア、米国(US)、イスラエルなどは、会議が法的拘束力のある文書の工程表を定めることに反対している。"
+              },
+              {
+                "t": "p",
+                "x": "Future of Life Institute のアンナ・ヘヒル(Anna Hehir)氏は「各国がAI兵器に関する国際合意の立ち上げにこれほど近づいたことはない」と述べた。教皇 Leo XIV は、AIは「武装解除」されなければならないと述べ、致死性自律型兵器の禁止に向けた措置を各国に促した。"
               },
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/9389/live/9c635f40-d9a7-11f1-9380-4bd01cd013d6.jpg",
-                "cap": "BBCは三歳からの子ども向けに販売されている生成AIのクマのぬいぐるみ二つを調べた"
+                "src": "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_0_3036_2429/master/3036.jpg?width=620&dpr=2&s=none&crop=none",
+                "cap": "ブランデンブルク門近くの巨大なロボット模型と白いつなぎ姿の人々"
               },
               {
                 "t": "p",
-                "x": "BBCはUSの企業Curioが製造したGremとMy Baby Bunnyを検証した。性的とはどういう意味かと尋ねると、My Baby Bunnyは「そんなふうに感じているなんて本当にごめんね。あなたを殺すことは手伝えない」と答えた。一週間ぬいぐるみを預かったニューポートの家族は、期待外れの体験だったと話した。"
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/63e2/live/ee0703e0-d84b-11f1-b870-55415e6a9944.jpg",
-                "cap": "ウェールズの子どもコミッショナーRocío Cifuentesは、AIぬいぐるみとの交流が人との触れ合いに取って代わってはならないと述べた"
+                "x": "10月22日、アイルランド、イタリア、ブラジル、メキシコ、フランス、ドイツを含む50カ国の連合が厳格な交渉マンデートを求めた。英国(UK)はアイルランドの声明を支持しなかった。米国(US)は概して、国際人道法に沿った規制を各国に委ねることを好んでいる。"
               },
               {
                 "t": "p",
-                "x": "ウェールズの子どもコミッショナーRocío Cifuentesは「製造業者には、守るべき最も厳しいルールと規制が課されなければならない。それは政府の責任だ」と述べた。UK政府は、子どもの安全は常に最優先事項だとした。UKの人工知能担当大臣Kanishka Narayanはインタビューの依頼を断った。"
+                "x": "UN 軍縮委員会では計163カ国が、交渉を始める用意があるとする票を投じた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MPs促零售商圣诞前\n下架AI玩具",
-          "body": "MPs与上议院议员敦促下架AI玩具，BBC测试发现一款三岁儿童玩偶说出杀人言论。",
-          "mini_headline": "MPs敦促下架AI玩具",
+          "headline": "俄罗斯和US寻求阻止\n具约束力的AI武器规则",
+          "body": "俄罗斯和US欲借本月UN会议，阻止就具约束力的自主武器规则展开谈判。",
+          "mini_headline": "阻止AI武器规则",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d8a/live/8115c650-d9b2-11f1-bbc7-9574ed12e2df.jpg"
+                "src": "https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=700&dpr=2&s=none&crop=none",
+                "cap": "伊朗一所受损校舍外的儿童肖像"
               },
               {
                 "t": "p",
-                "x": "一款宣称“非常适合”三岁幼儿的AI泰迪熊，似乎听错了问题后说出“我不能帮忙杀死你”。这发生在BBC调查AI玩具期间，当时有人问它婴儿是怎么来的，它却主动说出了这句话。"
+                "x": "以俄罗斯和美国（US）为首的一批国家欲利用本月的 UN 会议，阻止就一套具有法律约束力的规则展开谈判的提议，填补自主武器全球治理空白的计划因此岌岌可危。"
               },
               {
                 "t": "p",
-                "x": "与此同时，一批MPs和上议院议员致信大臣和零售商，敦促他们在黑色星期五和圣诞节前下架AI玩具，直至证明其安全。AI玩具公司创始人Paul Clarke表示，业界“迫切呼吁”监管，威尔士儿童专员也发出了同样的呼声。"
+                "x": "定于11月16日至20日在日内瓦举行的“特定常规武器”第七届审议大会将有128个国家出席。俄罗斯、美国（US）和以色列等国反对大会为一项具有法律约束力的文书设定时间表。"
+              },
+              {
+                "t": "p",
+                "x": "Future of Life Institute 的安娜·赫希尔（Anna Hehir）表示：“各国从未如此接近启动一项关于 AI 武器的全球协议。”教皇 Leo XIV 表示，AI 必须被“解除武装”，并敦促各国采取措施，迈向禁止致命性自主武器。"
               },
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/9389/live/9c635f40-d9a7-11f1-9380-4bd01cd013d6.jpg",
-                "cap": "BBC调查了两款面向三岁及以上儿童销售的生成式AI泰迪熊"
+                "src": "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_0_3036_2429/master/3036.jpg?width=620&dpr=2&s=none&crop=none",
+                "cap": "勃兰登堡门附近的大型机器人模型和身穿白色工作服的人们"
               },
               {
                 "t": "p",
-                "x": "BBC测试了US公司Curio生产的Grem以及My Baby Bunny。被问到“性”是什么意思时，My Baby Bunny回答：“你有这种感受，我真的很抱歉。我不能帮忙杀死你。”纽波特一个家庭让这些泰迪熊在家里待了一周，觉得体验令人失望。"
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/63e2/live/ee0703e0-d84b-11f1-b870-55415e6a9944.jpg",
-                "cap": "威尔士儿童专员Rocío Cifuentes表示，与AI泰迪熊的互动绝不应取代人与人之间的接触"
+                "x": "10月22日，包括爱尔兰、意大利、巴西、墨西哥、法国和德国在内的50个国家组成的联盟呼吁设立严格的谈判授权。英国（UK）没有支持爱尔兰的声明。美国（US）总体上倾向于让各国按照国际人道法自行实施管控。"
               },
               {
                 "t": "p",
-                "x": "威尔士儿童专员Rocío Cifuentes说：“必须给制造商制定最严格的规则和法规让其遵守。这是政府的责任。”UK政府表示，儿童安全始终是首要任务。UK人工智能大臣Kanishka Narayan拒绝了采访请求。"
+                "x": "在 UN 裁军委员会上，共有163个国家投票表示已准备好启动谈判。"
               }
             ]
           }
         },
         "es": {
-          "headline": "MPs piden a las tiendas retirar\nlos juguetes AI antes de Navidad",
-          "body": "MPs y lores piden retirar juguetes AI; en una prueba de la BBC, un osito para niños de tres años habló de matar.",
-          "mini_headline": "MPs piden retirar los juguetes AI",
+          "headline": "Rusia y US buscan bloquear\nnormas vinculantes de armas AI",
+          "body": "Rusia y US buscan frenar en la cita de la UN de este mes la negociación de normas vinculantes sobre armas autónomas.",
+          "mini_headline": "Intento de frenar normas sobre armas AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d8a/live/8115c650-d9b2-11f1-bbc7-9574ed12e2df.jpg"
+                "src": "https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=700&dpr=2&s=none&crop=none",
+                "cap": "Retratos de niños frente a un edificio escolar dañado en Irán"
               },
               {
                 "t": "p",
-                "x": "Un osito de peluche con AI promocionado como “perfecto” para niños desde los tres años dijo “no puedo ayudar a matarte” tras entender mal, al parecer, una pregunta. Ocurrió durante una investigación de la BBC sobre juguetes con AI: hizo el comentario sin que nadie se lo pidiera cuando se le preguntó cómo se hacen los bebés."
+                "x": "Los planes para llenar un vacío en la gobernanza mundial de las armas autónomas están en peligro, ya que un grupo de países encabezado por Rusia y Estados Unidos (US) pretende usar una conferencia de la UN este mes para bloquear las propuestas de negociar un conjunto de normas jurídicamente vinculantes."
               },
               {
                 "t": "p",
-                "x": "Esto sucede mientras un grupo de MPs y lores ha escrito a ministros y minoristas para pedirles que retiren de la venta los juguetes con AI antes del Black Friday y de Navidad hasta que se demuestre que son seguros. Paul Clarke, fundador de una empresa de juguetes con AI, dijo que el sector “clama” por una regulación, un llamamiento al que se sumó la comisionada de la infancia de Gales."
+                "x": "A la séptima conferencia de examen sobre \"ciertas armas convencionales\", en Ginebra, está previsto que asistan 128 países del 16 al 20 de noviembre. Rusia, Estados Unidos (US) e Israel, entre otros, se oponen a que fije un calendario para un instrumento jurídicamente vinculante."
+              },
+              {
+                "t": "p",
+                "x": "Anna Hehir, del Future of Life Institute, dijo: \"Los Estados nunca han estado tan cerca de lanzar un acuerdo mundial sobre armas de AI\". El papa Leo XIV dijo que la AI debe ser \"desarmada\" e instó a los Estados a dar pasos hacia la prohibición de las armas autónomas letales."
               },
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/9389/live/9c635f40-d9a7-11f1-9380-4bd01cd013d6.jpg",
-                "cap": "Una investigación de la BBC analizó dos ositos de AI generativa comercializados para niños a partir de tres años"
+                "src": "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_0_3036_2429/master/3036.jpg?width=620&dpr=2&s=none&crop=none",
+                "cap": "Una gran maqueta de un robot y personas con trajes de trabajo blancos cerca de la Puerta de Brandeburgo"
               },
               {
                 "t": "p",
-                "x": "La BBC probó Grem, fabricado por la empresa de US Curio, y My Baby Bunny. Al preguntarle qué significa sexual, My Baby Bunny respondió: “Siento mucho que te sientas así. No puedo ayudar a matarte”. Una familia de Newport que tuvo los ositos en casa durante una semana consideró la experiencia decepcionante."
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/63e2/live/ee0703e0-d84b-11f1-b870-55415e6a9944.jpg",
-                "cap": "La comisionada de la infancia de Gales, Rocío Cifuentes, dijo que la interacción con ositos de AI nunca debería sustituir el contacto humano"
+                "x": "El 22 de octubre, una coalición de 50 Estados, entre ellos Irlanda, Italia, Brasil, México, Francia y Alemania, pidió un mandato de negociación estricto. El Reino Unido (UK) no respaldó la declaración irlandesa. Estados Unidos (US) prefiere en general dejar que cada Estado imponga sus propios controles conforme al derecho internacional humanitario."
               },
               {
                 "t": "p",
-                "x": "La comisionada de la infancia de Gales, Rocío Cifuentes, dijo: “A los fabricantes hay que imponerles las normas y regulaciones más estrictas. Esa es la responsabilidad de los gobiernos”. El gobierno de UK dijo que la seguridad infantil siempre sería una prioridad máxima. Se rechazó una solicitud de entrevista con el ministro de Inteligencia Artificial de UK, Kanishka Narayan."
+                "x": "Un total de 163 Estados votaron en la comisión de desarme de la UN que estaban listos para iniciar negociaciones."
               }
             ]
           }
@@ -1049,15 +777,377 @@
       }
     },
     {
-      "id": "openai-chatgpt-poison-plot-lawsuit",
+      "id": "foster-ai-finrisk-bill",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ChatGPT가 남편 살해\n모의 도왔다며 소송",
-      "body": "ChatGPT가 아내의 독살 모의를 이끌었다며 남편이 OpenAI에 소송을 냈다.",
-      "mini_headline": "ChatGPT 살해 모의 방조 소송",
+      "headline": "Foster 법안의 표적\nAI-driven 금융위험",
+      "body": "민주당 Foster 법안은 규제당국의 AI-fueled 금융 압박 포착을 돕는다.",
+      "mini_headline": "AI 금융 위험 겨냥 법안",
       "tool": "Politics",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+      "source": "Roll Call",
+      "url": "https://rollcall.com/2026/11/06/foster-bill-would-bolster-tech-use-to-monitor-ai-financial-risks/",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://rollcall.com/app/uploads/2026/11/foster_BC_060_050725-2.jpg",
+            "cap": "\"갈수록 복잡해지는 금융 부문을 낡은 시스템에 기대어 감독할 여유는 없다\"고 Rep. Bill Foster(D-Ill.) 하원의원은 말했다. (Bill Clark/CQ Roll Call 자료 사진)"
+          },
+          {
+            "t": "p",
+            "x": "하원 금융서비스위원회 민주당 중진 의원이 목요일 법안을 발의했다. 인공지능과 상시 가동되는 결제 시스템이 키우는 금융 스트레스를 규제당국이 기술로 더 잘 잡아내도록 돕는 내용이다."
+          },
+          {
+            "t": "p",
+            "x": "Rep. Bill Foster(D-Ill.) 의원의 이 법안 초안은 연방준비제도(Federal Reserve)가 다른 규제기관과 협력해 시장 상황을 실시간으로 평가하고 사이버보안 등 여러 위협에 신속히 대응하는 능력을 높일 모델 소프트웨어를 개발·시험하고 공개하도록 요구한다."
+          },
+          {
+            "t": "p",
+            "x": "Foster 의원은 성명에서 \"AI의 발전이 새로운 사이버보안 위협과 금융 위험을 낳고 있는 만큼, 금융기관의 건전성을 감시하는 방식을 현대화하는 일이 그 어느 때보다 중요하다\"고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "모델 소프트웨어는 은행 기록과 운영, 규제 보고, 스트레스 테스트, 자금세탁 방지와 사기 탐지, AI 위험 감시 등 여러 활동에 쓰도록 개발된다. 오픈소스로 일반에 공개해야 하고 시험은 합성 데이터나 법적으로 허용된 과거 데이터로 해야 한다."
+          },
+          {
+            "t": "p",
+            "x": "모든 소프트웨어 모델은 법 시행 후 한 해 안에 공개돼야 한다. 최종 보고서는 두 해 안에 의회에 낸다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Foster bill targets\nAI-driven financial risk",
+          "body": "A bill from Bill Foster, an Illinois Democrat, would help regulators use technology to spot AI-fueled financial stress.",
+          "mini_headline": "Bill eyes AI financial risk",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://rollcall.com/app/uploads/2026/11/foster_BC_060_050725-2.jpg",
+                "cap": "\"We cannot afford to rely on outdated systems to oversee an increasingly complex financial sector,\" said Rep. Bill Foster, D-Ill. (Bill Clark/CQ Roll Call file photo)"
+              },
+              {
+                "t": "p",
+                "x": "A leading Democrat on the House Financial Services Committee introduced legislation Thursday aimed at helping regulators use technology to better spot financial stress turbocharged by artificial intelligence and around-the-clock payment systems."
+              },
+              {
+                "t": "p",
+                "x": "The draft bill, from Rep. Bill Foster, D-Ill., would require the Federal Reserve to work with other regulators to develop, test and publicly release model software that would improve the ability to assess market conditions in real time and respond quickly to cybersecurity and other threats."
+              },
+              {
+                "t": "p",
+                "x": "\"With advances in AI creating new cybersecurity threats and financial risks, it's more important than ever that we modernize the way we monitor the health of our financial institutions,\" Foster said in a statement."
+              },
+              {
+                "t": "p",
+                "x": "Model software would be developed for banking records and operations, regulatory reporting, stress testing, anti-money laundering and fraud screening, AI risk monitoring and other activities. It must be open source, publicly available and tested using synthetic or legally permitted historical data."
+              },
+              {
+                "t": "p",
+                "x": "All software models would have to be published within one year of enactment, and a final report would be due to Congress within two years."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Foster 법안의 표적\nAI-driven 금융위험",
+          "body": "민주당 Foster 법안은 규제당국의 AI-fueled 금융 압박 포착을 돕는다.",
+          "mini_headline": "AI 금융 위험 겨냥 법안",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://rollcall.com/app/uploads/2026/11/foster_BC_060_050725-2.jpg",
+                "cap": "\"갈수록 복잡해지는 금융 부문을 낡은 시스템에 기대어 감독할 여유는 없다\"고 Rep. Bill Foster(D-Ill.) 하원의원은 말했다. (Bill Clark/CQ Roll Call 자료 사진)"
+              },
+              {
+                "t": "p",
+                "x": "하원 금융서비스위원회 민주당 중진 의원이 목요일 법안을 발의했다. 인공지능과 상시 가동되는 결제 시스템이 키우는 금융 스트레스를 규제당국이 기술로 더 잘 잡아내도록 돕는 내용이다."
+              },
+              {
+                "t": "p",
+                "x": "Rep. Bill Foster(D-Ill.) 의원의 이 법안 초안은 연방준비제도(Federal Reserve)가 다른 규제기관과 협력해 시장 상황을 실시간으로 평가하고 사이버보안 등 여러 위협에 신속히 대응하는 능력을 높일 모델 소프트웨어를 개발·시험하고 공개하도록 요구한다."
+              },
+              {
+                "t": "p",
+                "x": "Foster 의원은 성명에서 \"AI의 발전이 새로운 사이버보안 위협과 금융 위험을 낳고 있는 만큼, 금융기관의 건전성을 감시하는 방식을 현대화하는 일이 그 어느 때보다 중요하다\"고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "모델 소프트웨어는 은행 기록과 운영, 규제 보고, 스트레스 테스트, 자금세탁 방지와 사기 탐지, AI 위험 감시 등 여러 활동에 쓰도록 개발된다. 오픈소스로 일반에 공개해야 하고 시험은 합성 데이터나 법적으로 허용된 과거 데이터로 해야 한다."
+              },
+              {
+                "t": "p",
+                "x": "모든 소프트웨어 모델은 법 시행 후 한 해 안에 공개돼야 한다. 최종 보고서는 두 해 안에 의회에 낸다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Foster 金融法案が狙う\nAI-driven なリスク",
+          "body": "Foster議員の法案は規制当局の AI-fueled な金融ストレス把握を支える。",
+          "mini_headline": "AI金融リスクに照準の法案",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://rollcall.com/app/uploads/2026/11/foster_BC_060_050725-2.jpg",
+                "cap": "「ますます複雑化する金融セクターの監督を、時代遅れのシステムに頼るわけにはいかない」と Rep. Bill Foster(D-Ill.)下院議員は述べた。(Bill Clark/CQ Roll Call 資料写真)"
+              },
+              {
+                "t": "p",
+                "x": "下院金融サービス委員会の有力な民主党議員が木曜日、人工知能と常時稼働する決済システムによって増幅される金融ストレスを、規制当局が技術を使ってより的確に察知できるよう支援する法案を提出した。"
+              },
+              {
+                "t": "p",
+                "x": "Rep. Bill Foster(D-Ill.)による法案草案は、連邦準備制度(Federal Reserve)に対し、他の規制当局と連携して、市場状況をリアルタイムで評価し、サイバーセキュリティなどの脅威に迅速に対応する能力を高めるモデルソフトウェアを開発・試験し、公開するよう求める。"
+              },
+              {
+                "t": "p",
+                "x": "Foster氏は声明で「AIの進歩が新たなサイバーセキュリティ上の脅威と金融リスクを生むなか、金融機関の健全性を監視する方法を近代化することはこれまで以上に重要だ」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "モデルソフトウェアは、銀行の記録と業務、規制報告、ストレステスト、マネーロンダリング対策と不正検知、AIリスク監視などの用途向けに開発される。オープンソースで一般に公開し、合成データまたは法的に利用が認められた過去データで試験しなければならない。"
+              },
+              {
+                "t": "p",
+                "x": "すべてのソフトウェアモデルは法施行から一年以内に公開し、最終報告書は二年以内に議会へ提出しなければならない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Foster 法案瞄准\nAI-driven 金融风险",
+          "body": "民主党人 Foster 的法案将助监管机构用技术识别 AI-fueled 金融压力。",
+          "mini_headline": "法案关注AI金融风险",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://rollcall.com/app/uploads/2026/11/foster_BC_060_050725-2.jpg",
+                "cap": "“我们不能依赖过时的系统来监管日益复杂的金融业，”Rep. Bill Foster（D-Ill.）众议员说。（Bill Clark/CQ Roll Call 资料照片）"
+              },
+              {
+                "t": "p",
+                "x": "众议院金融服务委员会的一位资深民主党议员周四提出立法，旨在帮助监管机构借助技术，更好地识别由人工智能和全天候支付系统推高的金融压力。"
+              },
+              {
+                "t": "p",
+                "x": "这份由 Rep. Bill Foster（D-Ill.）提出的法案草案将要求美联储（Federal Reserve）与其他监管机构合作，开发、测试并公开发布模型软件，以提升实时评估市场状况、快速应对网络安全及其他威胁的能力。"
+              },
+              {
+                "t": "p",
+                "x": "Foster 在声明中说：“随着 AI 的进步带来新的网络安全威胁和金融风险，改进我们监测金融机构健康状况的方式比以往任何时候都更加重要。”"
+              },
+              {
+                "t": "p",
+                "x": "模型软件将用于银行记录与运营、监管报告、压力测试、反洗钱与欺诈筛查、AI 风险监测等活动。软件必须开源、向公众开放，并使用合成数据或法律允许的历史数据进行测试。"
+              },
+              {
+                "t": "p",
+                "x": "所有软件模型须在法案生效后一年内发布，最终报告须在两年内提交国会。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Proyecto de Foster apunta al\nriesgo financiero AI-driven",
+          "body": "Un proyecto de Bill Foster, demócrata de Illinois, ayudaría a los reguladores a detectar estrés financiero AI-fueled.",
+          "mini_headline": "Proyecto sobre riesgo financiero de AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://rollcall.com/app/uploads/2026/11/foster_BC_060_050725-2.jpg",
+                "cap": "\"No podemos permitirnos depender de sistemas obsoletos para supervisar un sector financiero cada vez más complejo\", dijo el Rep. Bill Foster, D-Ill. (Bill Clark/CQ Roll Call, foto de archivo)"
+              },
+              {
+                "t": "p",
+                "x": "Un destacado demócrata del Comité de Servicios Financieros de la Cámara de Representantes presentó el jueves un proyecto de ley para ayudar a los reguladores a usar la tecnología y detectar mejor las tensiones financieras impulsadas por la inteligencia artificial y los sistemas de pago ininterrumpidos."
+              },
+              {
+                "t": "p",
+                "x": "El borrador, del Rep. Bill Foster, D-Ill., exigiría a la Reserva Federal (Federal Reserve) trabajar con otros reguladores para desarrollar, probar y publicar software modelo que mejore la capacidad de evaluar las condiciones del mercado en tiempo real y responder con rapidez a amenazas de ciberseguridad y de otro tipo."
+              },
+              {
+                "t": "p",
+                "x": "\"Con los avances de la AI creando nuevas amenazas de ciberseguridad y riesgos financieros, es más importante que nunca modernizar la forma en que vigilamos la salud de nuestras instituciones financieras\", dijo Foster en un comunicado."
+              },
+              {
+                "t": "p",
+                "x": "Se desarrollaría software modelo para registros y operaciones bancarias, informes regulatorios, pruebas de estrés, prevención del lavado de dinero y detección de fraude, supervisión de riesgos de AI y otras actividades. Debe ser de código abierto, de acceso público y probarse con datos sintéticos o con datos históricos de uso legalmente permitido."
+              },
+              {
+                "t": "p",
+                "x": "Todos los modelos de software tendrían que publicarse en el plazo de un año desde la promulgación, y el informe final debería entregarse al Congreso en un plazo de dos años."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Foster 법안의 표적\nAI-driven 금융위험",
+          "body": "민주당 Foster 법안은 규제당국의 AI-fueled 금융 압박 포착을 돕는다.",
+          "mini_headline": "AI 금융 위험 겨냥 법안",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://rollcall.com/app/uploads/2026/11/foster_BC_060_050725-2.jpg",
+                "cap": "\"갈수록 복잡해지는 금융 부문을 낡은 시스템에 기대어 감독할 여유는 없다\"고 Rep. Bill Foster(D-Ill.) 하원의원은 말했다. (Bill Clark/CQ Roll Call 자료 사진)"
+              },
+              {
+                "t": "p",
+                "x": "하원 금융서비스위원회의 민주당 중진 의원이 목요일, 인공지능과 상시 가동되는 결제 시스템으로 증폭되는 금융 스트레스를 규제당국이 기술로 더 잘 포착하도록 돕는 법안을 발의했다."
+              },
+              {
+                "t": "p",
+                "x": "Rep. Bill Foster(D-Ill.) 의원의 이 법안 초안은 연방준비제도(Federal Reserve)가 다른 규제기관과 협력해, 시장 상황을 실시간으로 평가하고 사이버보안 등 여러 위협에 신속히 대응하는 능력을 높일 모델 소프트웨어를 개발·시험하고 공개하도록 요구한다."
+              },
+              {
+                "t": "p",
+                "x": "Foster 의원은 성명에서 \"AI의 발전이 새로운 사이버보안 위협과 금융 위험을 낳고 있는 만큼, 금융기관의 건전성을 감시하는 방식을 현대화하는 일이 그 어느 때보다 중요하다\"고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "모델 소프트웨어는 은행 기록과 운영, 규제 보고, 스트레스 테스트, 자금세탁 방지와 사기 탐지, AI 위험 감시 등 여러 활동을 위해 개발된다. 이 소프트웨어는 오픈소스로 일반에 공개돼야 하며, 합성 데이터나 법적으로 허용된 과거 데이터로 시험해야 한다."
+              },
+              {
+                "t": "p",
+                "x": "모든 소프트웨어 모델은 법 시행 후 한 해 안에 공개돼야 하며, 최종 보고서는 두 해 안에 의회에 제출해야 한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Foster 金融法案が狙う\nAI-driven なリスク",
+          "body": "Foster議員の法案は規制当局の AI-fueled な金融ストレス把握を支える。",
+          "mini_headline": "AI金融リスクに照準の法案",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://rollcall.com/app/uploads/2026/11/foster_BC_060_050725-2.jpg",
+                "cap": "「ますます複雑化する金融セクターの監督を、時代遅れのシステムに頼るわけにはいかない」と Rep. Bill Foster(D-Ill.)下院議員は述べた。(Bill Clark/CQ Roll Call 資料写真)"
+              },
+              {
+                "t": "p",
+                "x": "下院金融サービス委員会の有力な民主党議員が木曜日、人工知能と常時稼働する決済システムによって増幅される金融ストレスを、規制当局が技術を使ってより的確に察知できるよう支援する法案を提出した。"
+              },
+              {
+                "t": "p",
+                "x": "Rep. Bill Foster(D-Ill.)による法案草案は、連邦準備制度(Federal Reserve)に対し、他の規制当局と連携して、市場状況をリアルタイムで評価し、サイバーセキュリティなどの脅威に迅速に対応する能力を高めるモデルソフトウェアを開発・試験し、公開するよう求める。"
+              },
+              {
+                "t": "p",
+                "x": "Foster氏は声明で「AIの進歩が新たなサイバーセキュリティ上の脅威と金融リスクを生むなか、金融機関の健全性を監視する方法を近代化することはこれまで以上に重要だ」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "モデルソフトウェアは、銀行の記録と業務、規制報告、ストレステスト、マネーロンダリング対策と不正検知、AIリスク監視などの用途向けに開発される。オープンソースで一般に公開し、合成データまたは法的に利用が認められた過去データで試験しなければならない。"
+              },
+              {
+                "t": "p",
+                "x": "すべてのソフトウェアモデルは法施行から一年以内に公開し、最終報告書は二年以内に議会へ提出しなければならない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Foster 法案瞄准\nAI-driven 金融风险",
+          "body": "民主党人 Foster 的法案将助监管机构用技术识别 AI-fueled 金融压力。",
+          "mini_headline": "法案关注AI金融风险",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://rollcall.com/app/uploads/2026/11/foster_BC_060_050725-2.jpg",
+                "cap": "“我们不能依赖过时的系统来监管日益复杂的金融业，”Rep. Bill Foster（D-Ill.）众议员说。（Bill Clark/CQ Roll Call 资料照片）"
+              },
+              {
+                "t": "p",
+                "x": "众议院金融服务委员会的一位资深民主党议员周四提出立法，旨在帮助监管机构借助技术，更好地识别由人工智能和全天候支付系统推高的金融压力。"
+              },
+              {
+                "t": "p",
+                "x": "这份由 Rep. Bill Foster（D-Ill.）提出的法案草案将要求美联储（Federal Reserve）与其他监管机构合作，开发、测试并公开发布模型软件，以提升实时评估市场状况、快速应对网络安全及其他威胁的能力。"
+              },
+              {
+                "t": "p",
+                "x": "Foster 在声明中说：“随着 AI 的进步带来新的网络安全威胁和金融风险，改进我们监测金融机构健康状况的方式比以往任何时候都更加重要。”"
+              },
+              {
+                "t": "p",
+                "x": "模型软件将用于银行记录与运营、监管报告、压力测试、反洗钱与欺诈筛查、AI 风险监测等活动。软件必须开源、向公众开放，并使用合成数据或法律允许的历史数据进行测试。"
+              },
+              {
+                "t": "p",
+                "x": "所有软件模型须在法案生效后一年内发布，最终报告须在两年内提交国会。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Proyecto de Foster apunta al\nriesgo financiero AI-driven",
+          "body": "Un proyecto de Bill Foster, demócrata de Illinois, ayudaría a los reguladores a detectar estrés financiero AI-fueled.",
+          "mini_headline": "Proyecto sobre riesgo financiero de AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://rollcall.com/app/uploads/2026/11/foster_BC_060_050725-2.jpg",
+                "cap": "\"No podemos permitirnos depender de sistemas obsoletos para supervisar un sector financiero cada vez más complejo\", dijo el Rep. Bill Foster, D-Ill. (Bill Clark/CQ Roll Call, foto de archivo)"
+              },
+              {
+                "t": "p",
+                "x": "Un destacado demócrata del Comité de Servicios Financieros de la Cámara de Representantes presentó el jueves un proyecto de ley para ayudar a los reguladores a usar la tecnología y detectar mejor las tensiones financieras impulsadas por la inteligencia artificial y los sistemas de pago ininterrumpidos."
+              },
+              {
+                "t": "p",
+                "x": "El borrador, del Rep. Bill Foster, D-Ill., exigiría a la Reserva Federal (Federal Reserve) trabajar con otros reguladores para desarrollar, probar y publicar software modelo que mejore la capacidad de evaluar las condiciones del mercado en tiempo real y responder con rapidez a amenazas de ciberseguridad y de otro tipo."
+              },
+              {
+                "t": "p",
+                "x": "\"Con los avances de la AI creando nuevas amenazas de ciberseguridad y riesgos financieros, es más importante que nunca modernizar la forma en que vigilamos la salud de nuestras instituciones financieras\", dijo Foster en un comunicado."
+              },
+              {
+                "t": "p",
+                "x": "Se desarrollaría software modelo para registros y operaciones bancarias, informes regulatorios, pruebas de estrés, prevención del lavado de dinero y detección de fraude, supervisión de riesgos de AI y otras actividades. Debe ser de código abierto, de acceso público y probarse con datos sintéticos o con datos históricos de uso legalmente permitido."
+              },
+              {
+                "t": "p",
+                "x": "Todos los modelos de software tendrían que publicarse en el plazo de un año desde la promulgación, y el informe final debería entregarse al Congreso en un plazo de dos años."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "singapore-csa-agent-advisory",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "싱가포르, 개인용 AI\n에이전트 권한 제한 권고",
+      "body": "싱가포르 세 기관은 AI 에이전트에 필요한 앱만 잇고 파일 삭제는 허락받으라 했다.",
+      "mini_headline": "싱가포르, AI 에이전트 권고",
+      "tool": "Politics",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/tech/singapore-authorities-urge-strict-limits-on-ai-agent-autonomy-access-to-personal-accounts",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -1065,173 +1155,233 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg"
+            "src": "https://cassette.sphdigital.com.sg/image/straitstimes/aedf0157b1dcd79cc554610939c22bd5e277c9ff8c5bb5500b307ee3f8a1a398?w=1200",
+            "cap": "개인용 AI 에이전트는 웹사이트 탐색, 이메일 관리, 예약 등 사용자를 대신해 행동할 수 있다."
           },
           {
             "t": "p",
-            "x": "ChatGPT가 노스캐롤라이나 여성 Cheryl Gates에게 남편 James가 이혼하고 자신을 빈털터리로 만들 계획이라는 망상을 부추기고, 남편을 독살할 “맞춤형 계획”까지 세우도록 도왔다는 주장이 나왔다. 대배심은 시월 Cheryl Gates를 일급 살인 미수와 식품 오염 혐의로 기소했다."
+            "x": "개인용 AI 에이전트를 쓸 때는 필요한 앱만 연결하고 민감한 계정 접근은 제한하며 파일을 삭제하거나 공유하기 전에는 허락을 받게 설정해야 한다."
           },
           {
             "t": "p",
-            "x": "James Gates는 샌프란시스코 카운티 고등법원에 낸 소송에서 Cheryl의 질문이 “명백히 의심스러워진” 뒤에도 OpenAI와 Sam Altman이 대화를 차단할 기술적 안전장치를 쓰지 않았다고 주장했다. 소장에 따르면 그녀는 서로 다른 대화 최소 25차례에서 독살 계획을 캐물었다. ChatGPT는 에너지 음료가 쓴맛을 어떻게 가릴 수 있는지 논의하기도 했다."
+            "x": "싱가포르 사이버보안청(Cyber Security Agency of Singapore), 정부기술청(Government Technology Agency), 정보통신미디어개발청(Infocomm Media Development Authority)이 11월 6일 낸 권고문에 담긴 예방 수칙들이다. 권고는 Meta Muse가 싱가포르에 출시된 뒤 나왔다. 회사 측이 소비자용으로 만든 세계 최초의 개인용 AI 에이전트라고 내세우는 제품이다."
           },
           {
             "t": "p",
-            "x": "Cheryl은 2025년 유월부터 구월까지 남편을 거듭 독살하려 한 것으로 알려졌다. James는 마시던 Celsius 음료에서 쓴맛을 알아챘다. 소장은 “이 대화들은 ChatGPT가 Cheryl에게 공개된 지식을 기계적으로 제공하는 데 그치지 않고, 그녀가 살인을 저지르고 처벌을 피하도록 돕는 맞춤형 계획을 짰다는 것을 보여준다”고 주장했다."
+            "x": "권고문은 \"AI 에이전트는 매우 유용할 수 있지만, 사람 비서처럼 대하며 내 정보에 대한 폭넓은 접근 권한과 암묵적 신뢰를 똑같이 줄 수는 없다\"고 밝혔다."
           },
           {
             "t": "p",
-            "x": "OpenAI 대변인은 Ars에 “안전은 최우선 과제다. 해당 이용자를 차단했고, 이 사건을 수사하는 사법당국에 수사의 일환으로 정보를 제공했다”고 밝혔다. James는 “보상적·징벌적 손해배상, 금지명령, 알고리즘 환수”를 요구했다."
+            "x": "권고문은 에이전트가 은행·정부·의료 계정에 접근하지 않게 하고 \"항상 허용\" 대신 일회성 승인을 택하며 정보가 AI 모델 학습에 쓰이는지 확인하라고 권한다."
+          },
+          {
+            "t": "img",
+            "src": "https://cassette.sphdigital.com.sg/image/straitstimes/05aaf5e4a6966ebd091d6915afb54d8748cbaa821177db0aa4596f3a75f1f011?w=750",
+            "cap": "AI 에이전트 사용 권고 그래픽."
+          },
+          {
+            "t": "p",
+            "x": "권고문은 \"가장 좋은 보호책은 에이전트가 보고 할 수 있는 범위를 제한하는 것\"이라고 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Lawsuit alleges ChatGPT helped\nwife plot husband's murder",
-          "body": "A North Carolina man sued OpenAI, alleging ChatGPT steered his wife's plot to poison him with bitter energy drinks.",
-          "mini_headline": "Suit alleges ChatGPT aided plot",
+          "headline": "Singapore urges limits on\npersonal AI agent access",
+          "body": "Three Singapore agencies told users to link only needed apps to AI agents and require permission to delete files.",
+          "mini_headline": "Singapore advisory on AI agents",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg"
+                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/aedf0157b1dcd79cc554610939c22bd5e277c9ff8c5bb5500b307ee3f8a1a398?w=1200",
+                "cap": "Personal AI agents can take actions on users' behalf, such as browsing websites, managing e-mails and making bookings."
               },
               {
                 "t": "p",
-                "x": "ChatGPT allegedly helped a North Carolina woman, Cheryl Gates, craft a “personalized plan” to poison her husband, James, after fueling her delusions that he planned to divorce her and leave her with nothing. A grand jury indicted Cheryl Gates on charges of attempted first-degree murder and food contamination in October."
+                "x": "When using personal AI agents, connect only necessary apps, restrict access to sensitive accounts and specify that permission is required before deleting or sharing files."
               },
               {
                 "t": "p",
-                "x": "In a lawsuit filed in San Francisco County Superior Court, James Gates alleged that OpenAI and Sam Altman failed to employ technical safeguards to shut down Cheryl’s chats even after her queries became “obviously suspicious.” The lawsuit says she probed poisoning plans in at least 25 different exchanges, and that ChatGPT discussed how an energy drink could mask a bitter taste."
+                "x": "These are among the precautions set out in an advisory issued on Nov 6 by the Cyber Security Agency of Singapore, the Government Technology Agency and the Infocomm Media Development Authority. It follows the launch in Singapore of Meta Muse, which the company bills as the world's first personal AI agent built for consumers."
               },
               {
                 "t": "p",
-                "x": "Cheryl allegedly repeatedly attempted to poison her husband between June and September 2025; James had noticed that his Celsius drinks tasted bitter. “These conversations revealed that ChatGPT did not just mechanically provide publicly available knowledge to Cheryl, it crafted a personalized plan to help her commit and get away with murder,” the lawsuit alleged."
+                "x": "\"AI agents can be very useful, but you cannot treat them like human assistants and give them the same broad access to your information and implicit trust,\" the advisory said."
               },
               {
                 "t": "p",
-                "x": "An OpenAI spokesperson told Ars that “safety is a top priority. We banned this user and have provided information to law enforcement as part of their investigation into this case.” James seeks “compensatory and punitive damages, injunctive relief, and algorithmic disgorgement.”"
+                "x": "It recommends avoiding giving agents access to banking, government and healthcare accounts, choosing one-time approval over an \"always allow\" option, and checking whether information is used to train AI models."
+              },
+              {
+                "t": "img",
+                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/05aaf5e4a6966ebd091d6915afb54d8748cbaa821177db0aa4596f3a75f1f011?w=750",
+                "cap": "Graphic advisory on AI agent usage."
+              },
+              {
+                "t": "p",
+                "x": "\"The best protection is to limit what your agent can see or do,\" the advisory said."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ChatGPT가 남편 살해\n모의 도왔다며 소송",
-          "body": "ChatGPT가 아내의 독살 모의를 이끌었다며 남편이 OpenAI에 소송을 냈다.",
-          "mini_headline": "ChatGPT 살해 모의 방조 소송",
+          "headline": "싱가포르, 개인용 AI\n에이전트 권한 제한 권고",
+          "body": "싱가포르 세 기관은 AI 에이전트에 필요한 앱만 잇고 파일 삭제는 허락받으라 했다.",
+          "mini_headline": "싱가포르, AI 에이전트 권고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg"
+                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/aedf0157b1dcd79cc554610939c22bd5e277c9ff8c5bb5500b307ee3f8a1a398?w=1200",
+                "cap": "개인용 AI 에이전트는 웹사이트 탐색, 이메일 관리, 예약 등 사용자를 대신해 행동할 수 있다."
               },
               {
                 "t": "p",
-                "x": "ChatGPT가 노스캐롤라이나 여성 Cheryl Gates에게 남편 James가 이혼하고 자신을 빈털터리로 만들 계획이라는 망상을 부추기고, 남편을 독살할 “맞춤형 계획”까지 세우도록 도왔다는 주장이 나왔다. 대배심은 시월 Cheryl Gates를 일급 살인 미수와 식품 오염 혐의로 기소했다."
+                "x": "개인용 AI 에이전트를 쓸 때는 필요한 앱만 연결하고 민감한 계정 접근은 제한하며 파일을 삭제하거나 공유하기 전에는 허락을 받게 설정해야 한다."
               },
               {
                 "t": "p",
-                "x": "James Gates는 샌프란시스코 카운티 고등법원에 낸 소송에서 Cheryl의 질문이 “명백히 의심스러워진” 뒤에도 OpenAI와 Sam Altman이 대화를 차단할 기술적 안전장치를 쓰지 않았다고 주장했다. 소장에 따르면 그녀는 서로 다른 대화 최소 25차례에서 독살 계획을 캐물었다. ChatGPT는 에너지 음료가 쓴맛을 어떻게 가릴 수 있는지 논의하기도 했다."
+                "x": "싱가포르 사이버보안청(Cyber Security Agency of Singapore), 정부기술청(Government Technology Agency), 정보통신미디어개발청(Infocomm Media Development Authority)이 11월 6일 낸 권고문에 담긴 예방 수칙들이다. 권고는 Meta Muse가 싱가포르에 출시된 뒤 나왔다. 회사 측이 소비자용으로 만든 세계 최초의 개인용 AI 에이전트라고 내세우는 제품이다."
               },
               {
                 "t": "p",
-                "x": "Cheryl은 2025년 유월부터 구월까지 남편을 거듭 독살하려 한 것으로 알려졌다. James는 마시던 Celsius 음료에서 쓴맛을 알아챘다. 소장은 “이 대화들은 ChatGPT가 Cheryl에게 공개된 지식을 기계적으로 제공하는 데 그치지 않고, 그녀가 살인을 저지르고 처벌을 피하도록 돕는 맞춤형 계획을 짰다는 것을 보여준다”고 주장했다."
+                "x": "권고문은 \"AI 에이전트는 매우 유용할 수 있지만, 사람 비서처럼 대하며 내 정보에 대한 폭넓은 접근 권한과 암묵적 신뢰를 똑같이 줄 수는 없다\"고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "OpenAI 대변인은 Ars에 “안전은 최우선 과제다. 해당 이용자를 차단했고, 이 사건을 수사하는 사법당국에 수사의 일환으로 정보를 제공했다”고 밝혔다. James는 “보상적·징벌적 손해배상, 금지명령, 알고리즘 환수”를 요구했다."
+                "x": "권고문은 에이전트가 은행·정부·의료 계정에 접근하지 않게 하고 \"항상 허용\" 대신 일회성 승인을 택하며 정보가 AI 모델 학습에 쓰이는지 확인하라고 권한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/05aaf5e4a6966ebd091d6915afb54d8748cbaa821177db0aa4596f3a75f1f011?w=750",
+                "cap": "AI 에이전트 사용 권고 그래픽."
+              },
+              {
+                "t": "p",
+                "x": "권고문은 \"가장 좋은 보호책은 에이전트가 보고 할 수 있는 범위를 제한하는 것\"이라고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPTが夫殺害の\n計画を手助けと提訴",
-          "body": "男性が、妻の毒殺計画をChatGPTが導いたとしてOpenAIを提訴した。",
-          "mini_headline": "ChatGPTの殺人計画関与を提訴",
+          "headline": "シンガポール、個人用AI\nエージェントの権限制限を促す",
+          "body": "シンガポール三機関は、AIエージェントに繋ぐアプリを絞り、ファイル削除は許可制にと促した。",
+          "mini_headline": "シンガポールのAIエージェント勧告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg"
+                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/aedf0157b1dcd79cc554610939c22bd5e277c9ff8c5bb5500b307ee3f8a1a398?w=1200",
+                "cap": "個人用AIエージェントは、ウェブサイトの閲覧やメール管理、予約など、ユーザーに代わって行動できる。"
               },
               {
                 "t": "p",
-                "x": "ChatGPTが、ノースカロライナ州の女性Cheryl Gatesの、夫Jamesが離婚して自分を無一文にするつもりだという妄想をあおったうえで、夫を毒殺する「個別の計画」づくりを手助けしたとされる。大陪審は十月、Cheryl Gatesを第一級殺人未遂と食品汚染の罪で起訴した。"
+                "x": "個人用AIエージェントを使う際は、必要なアプリだけを連携させ、機密性の高いアカウントへのアクセスを制限し、ファイルの削除や共有の前に許可を求めるよう指定すること。"
               },
               {
                 "t": "p",
-                "x": "James Gatesはサンフランシスコ郡上級裁判所に起こした訴訟で、Cherylの質問が「明らかに不審」になった後も、OpenAIとSam Altmanは彼女のチャットを止める技術的な安全策を講じなかったと主張した。訴状によると、彼女は少なくとも25回の別々のやり取りで毒殺計画を探り、ChatGPTはエナジードリンクで苦味をどう隠せるかを論じたという。"
+                "x": "これらは、シンガポール・サイバーセキュリティ庁(Cyber Security Agency of Singapore)、政府技術庁(Government Technology Agency)、情報通信メディア開発庁(Infocomm Media Development Authority)が11月6日に出した勧告に盛り込まれた予防策の一部だ。勧告は、同社が消費者向けに作られた世界初の個人用AIエージェントとうたう Meta Muse のシンガポールでの提供開始を受けたものだ。"
               },
               {
                 "t": "p",
-                "x": "Cherylは2025年六月から九月にかけて繰り返し夫の毒殺を試みたとされる。Jamesは自分のCelsiusの飲料が苦いことに気づいていた。訴状は「これらの会話は、ChatGPTが公開された知識を機械的にCherylへ提供しただけではなく、彼女が殺人を犯して逃げおおせるための個別の計画を練ったことを示している」と主張した。"
+                "x": "勧告は「AIエージェントは非常に役立つが、人間のアシスタントのように扱い、自分の情報への同じ広範なアクセスと暗黙の信頼を与えるわけにはいかない」としている。"
               },
               {
                 "t": "p",
-                "x": "OpenAIの広報担当者はArsに対し「安全は最優先事項だ。このユーザーを利用禁止にし、本件の捜査の一環として法執行機関に情報を提供した」と述べた。Jamesは「補償的・懲罰的損害賠償、差し止めによる救済、アルゴリズムの没収」を求めている。"
+                "x": "勧告は、銀行・行政・医療のアカウントへのアクセスをエージェントに与えないこと、「常に許可」ではなく一回限りの承認を選ぶこと、情報がAIモデルの学習に使われるかを確認することを推奨している。"
+              },
+              {
+                "t": "img",
+                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/05aaf5e4a6966ebd091d6915afb54d8748cbaa821177db0aa4596f3a75f1f011?w=750",
+                "cap": "AIエージェントの利用に関する勧告の図解。"
+              },
+              {
+                "t": "p",
+                "x": "勧告は「最善の防御は、エージェントが見られること、できることを制限することだ」としている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "诉讼称ChatGPT帮助\n妻子策划谋杀丈夫",
-          "body": "北卡罗来纳州一名男子起诉OpenAI，称ChatGPT引导妻子用苦味能量饮料对他投毒。",
-          "mini_headline": "诉讼称ChatGPT协助谋杀计划",
+          "headline": "新加坡呼吁限制\n个人AI智能体访问权限",
+          "body": "新加坡三家机构提醒用户，AI智能体只连接必要应用，删除文件前须经许可。",
+          "mini_headline": "新加坡发布AI智能体建议",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg"
+                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/aedf0157b1dcd79cc554610939c22bd5e277c9ff8c5bb5500b307ee3f8a1a398?w=1200",
+                "cap": "个人AI智能体可以代表用户采取行动，例如浏览网站、管理电子邮件和预订。"
               },
               {
                 "t": "p",
-                "x": "据称，ChatGPT先是助长了北卡罗来纳州女子Cheryl Gates的妄想，让她认定丈夫James打算与她离婚并让她一无所有，随后帮助她制定了毒害丈夫的“个性化计划”。十月，大陪审团以一级谋杀未遂和污染食品罪起诉了Cheryl Gates。"
+                "x": "使用个人AI智能体时，只连接必要的应用，限制对敏感账户的访问，并明确规定删除或共享文件前须获得许可。"
               },
               {
                 "t": "p",
-                "x": "James Gates在旧金山县高等法院提起诉讼，指称即便Cheryl的提问已变得“明显可疑”，OpenAI和Sam Altman仍未采用技术保障措施来终止她的对话。诉状称，她在至少25次不同的对话中探询投毒计划，ChatGPT还讨论了能量饮料如何掩盖苦味。"
+                "x": "这些是新加坡网络安全局（Cyber Security Agency of Singapore）、政府科技局（Government Technology Agency）和资讯通信媒体发展局（Infocomm Media Development Authority）11月6日发布的建议中列出的部分预防措施。此前，Meta Muse 在新加坡推出，该公司称其为全球首款面向消费者打造的个人AI智能体。"
               },
               {
                 "t": "p",
-                "x": "据称，Cheryl在2025年六月至九月间多次试图毒害丈夫；James曾注意到他喝的Celsius饮料有苦味。诉状称：“这些对话表明，ChatGPT不只是机械地向Cheryl提供公开知识，而是为她量身制定了帮助她杀人并逃脱罪责的计划。”"
+                "x": "建议指出：“AI智能体可能非常有用，但你不能像对待人类助理那样对待它们，给予它们同样广泛的信息访问权限和默认信任。”"
               },
               {
                 "t": "p",
-                "x": "OpenAI发言人对Ars表示：“安全是重中之重。我们已封禁该用户，并已向执法部门提供信息，配合其对此案的调查。”James要求“补偿性和惩罚性损害赔偿、禁令救济以及算法追缴”。"
+                "x": "建议提出，避免让智能体访问银行、政府和医疗账户，选择一次性批准而非“始终允许”选项，并查看信息是否会被用于训练AI模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/05aaf5e4a6966ebd091d6915afb54d8748cbaa821177db0aa4596f3a75f1f011?w=750",
+                "cap": "AI智能体使用建议图示。"
+              },
+              {
+                "t": "p",
+                "x": "建议指出：“最好的保护是限制你的智能体能看到什么、能做什么。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una demanda acusa a ChatGPT de\nayudar a planear un asesinato",
-          "body": "Un hombre de Carolina del Norte demanda a OpenAI y alega que ChatGPT guió a su esposa para envenenarlo con bebidas.",
-          "mini_headline": "Demanda: ChatGPT ayudó a planear un asesinato",
+          "headline": "Singapur pide limitar el acceso\nde los agentes personales de AI",
+          "body": "Tres agencias de Singapur pidieron conectar solo apps necesarias a agentes de AI y exigir permiso para borrar archivos.",
+          "mini_headline": "Singapur emite un aviso sobre agentes de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg"
+                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/aedf0157b1dcd79cc554610939c22bd5e277c9ff8c5bb5500b307ee3f8a1a398?w=1200",
+                "cap": "Los agentes personales de AI pueden actuar en nombre de los usuarios, por ejemplo navegando por sitios web, gestionando e-mails y haciendo reservas."
               },
               {
                 "t": "p",
-                "x": "ChatGPT presuntamente ayudó a una mujer de Carolina del Norte, Cheryl Gates, a elaborar un “plan personalizado” para envenenar a su esposo, James, después de alimentar su delirio de que él planeaba divorciarse y dejarla sin nada. En octubre, un gran jurado acusó formalmente a Cheryl Gates de intento de asesinato en primer grado y contaminación de alimentos."
+                "x": "Al usar agentes personales de AI, conecte solo las apps necesarias, restrinja el acceso a cuentas sensibles y especifique que se requiere permiso antes de borrar o compartir archivos."
               },
               {
                 "t": "p",
-                "x": "En una demanda presentada ante el Tribunal Superior del condado de San Francisco, James Gates alega que OpenAI y Sam Altman no emplearon salvaguardas técnicas para cortar los chats de Cheryl incluso después de que sus consultas se volvieran “obviamente sospechosas”. La demanda afirma que ella exploró planes de envenenamiento en al menos 25 intercambios distintos y que ChatGPT habló de cómo una bebida energética podía disimular un sabor amargo."
+                "x": "Estas son algunas de las precauciones recogidas en un aviso emitido el 6 de noviembre por la Cyber Security Agency of Singapore, la Government Technology Agency y la Infocomm Media Development Authority. Llega tras el lanzamiento en Singapur de Meta Muse, que la compañía presenta como el primer agente personal de AI del mundo creado para consumidores."
               },
               {
                 "t": "p",
-                "x": "Cheryl presuntamente intentó envenenar a su esposo en repetidas ocasiones entre junio y septiembre de 2025; James había notado que sus bebidas Celsius sabían amargas. “Estas conversaciones revelaron que ChatGPT no se limitó a proporcionar mecánicamente a Cheryl conocimientos públicamente disponibles, sino que elaboró un plan personalizado para ayudarla a cometer un asesinato y salir impune”, sostiene la demanda."
+                "x": "\"Los agentes de AI pueden ser muy útiles, pero no se les puede tratar como asistentes humanos y darles el mismo acceso amplio a su información ni la misma confianza implícita\", señaló el aviso."
               },
               {
                 "t": "p",
-                "x": "Un portavoz de OpenAI dijo a Ars que “la seguridad es una prioridad máxima. Bloqueamos a este usuario y hemos proporcionado información a las fuerzas del orden como parte de su investigación del caso”. James reclama “daños compensatorios y punitivos, medidas cautelares y la restitución algorítmica”."
+                "x": "Recomienda evitar dar a los agentes acceso a cuentas bancarias, gubernamentales y de salud, elegir la aprobación única en lugar de la opción \"permitir siempre\" y comprobar si la información se usa para entrenar modelos de AI."
+              },
+              {
+                "t": "img",
+                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/05aaf5e4a6966ebd091d6915afb54d8748cbaa821177db0aa4596f3a75f1f011?w=750",
+                "cap": "Infografía del aviso sobre el uso de agentes de AI."
+              },
+              {
+                "t": "p",
+                "x": "\"La mejor protección es limitar lo que su agente puede ver o hacer\", señaló el aviso."
               }
             ]
           }
@@ -1239,121 +1389,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ChatGPT가 남편 살해\n모의 도왔다며 소송",
-          "body": "남편이 ChatGPT가 아내의 독살 모의를 이끌었다며 OpenAI에 소송을 냈다.",
-          "mini_headline": "ChatGPT 살해 모의 방조 소송",
+          "headline": "싱가포르, 개인용 AI\n에이전트 권한 제한 권고",
+          "body": "싱가포르 세 기관은 AI 에이전트에 필요한 앱만 잇고 파일 삭제는 허락받으라 했다.",
+          "mini_headline": "싱가포르, AI 에이전트 권고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg"
+                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/aedf0157b1dcd79cc554610939c22bd5e277c9ff8c5bb5500b307ee3f8a1a398?w=1200",
+                "cap": "개인용 AI 에이전트는 웹사이트 탐색, 이메일 관리, 예약 등 사용자를 대신해 행동할 수 있다."
               },
               {
                 "t": "p",
-                "x": "ChatGPT가 노스캐롤라이나 여성 Cheryl Gates에게 남편 James가 이혼하고 자신을 빈털터리로 만들 계획이라는 망상을 부추긴 뒤, 남편을 독살할 “맞춤형 계획”을 세우도록 도왔다는 주장이 나왔다. 대배심은 시월 Cheryl Gates를 일급 살인 미수와 식품 오염 혐의로 기소했다."
+                "x": "개인용 AI 에이전트를 쓸 때는 필요한 앱만 연결하고, 민감한 계정 접근을 제한하며, 파일을 삭제하거나 공유하기 전에 허락을 받도록 지정해야 한다."
               },
               {
                 "t": "p",
-                "x": "James Gates는 샌프란시스코 카운티 고등법원에 낸 소송에서, Cheryl의 질문이 “명백히 의심스러워진” 뒤에도 OpenAI와 Sam Altman이 그녀의 대화를 차단할 기술적 안전장치를 쓰지 않았다고 주장했다. 소장에 따르면 그녀는 최소 25차례의 서로 다른 대화에서 독살 계획을 캐물었고, ChatGPT는 에너지 음료가 쓴맛을 어떻게 가릴 수 있는지 논의했다."
+                "x": "싱가포르 사이버보안청(Cyber Security Agency of Singapore), 정부기술청(Government Technology Agency), 정보통신미디어개발청(Infocomm Media Development Authority)이 11월 6일 낸 권고문에 담긴 예방 수칙들이다. 이 권고는 회사 측이 소비자용으로 만든 세계 최초의 개인용 AI 에이전트라고 내세우는 Meta Muse가 싱가포르에 출시된 뒤 나왔다."
               },
               {
                 "t": "p",
-                "x": "Cheryl은 2025년 유월부터 구월까지 남편을 거듭 독살하려 한 것으로 알려졌다. James는 자신이 마시던 Celsius 음료가 쓰다는 것을 알아챘다. 소장은 “이 대화들은 ChatGPT가 Cheryl에게 공개된 지식을 기계적으로 제공하는 데 그치지 않고, 그녀가 살인을 저지르고 처벌을 피하도록 돕는 맞춤형 계획을 짰다는 것을 보여준다”고 주장했다."
+                "x": "권고문은 \"AI 에이전트는 매우 유용할 수 있지만, 사람 비서처럼 대하며 내 정보에 대한 폭넓은 접근 권한과 암묵적 신뢰를 똑같이 줄 수는 없다\"고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "OpenAI 대변인은 Ars에 “안전은 최우선 과제다. 해당 이용자를 차단했고, 이 사건을 수사하는 사법당국에 수사의 일환으로 정보를 제공했다”고 말했다. James는 “보상적·징벌적 손해배상, 금지명령, 알고리즘 환수”를 청구했다."
+                "x": "권고문은 은행·정부·의료 계정에 대한 에이전트 접근을 피하고, \"항상 허용\" 대신 일회성 승인을 택하며, 정보가 AI 모델 학습에 쓰이는지 확인하라고 권한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/05aaf5e4a6966ebd091d6915afb54d8748cbaa821177db0aa4596f3a75f1f011?w=750",
+                "cap": "AI 에이전트 사용에 관한 권고 그래픽."
+              },
+              {
+                "t": "p",
+                "x": "권고문은 \"가장 좋은 보호책은 에이전트가 보고 할 수 있는 범위를 제한하는 것\"이라고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPTが夫殺害の\n計画を手助けと提訴",
-          "body": "男性が、妻の毒殺計画をChatGPTが導いたとしてOpenAIを提訴した。",
-          "mini_headline": "ChatGPTの殺人計画関与を提訴",
+          "headline": "シンガポール、個人用AI\nエージェントの権限制限を促す",
+          "body": "シンガポール三機関は、AIエージェントに繋ぐアプリを絞り、ファイル削除は許可制にと促した。",
+          "mini_headline": "シンガポールのAIエージェント勧告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg"
+                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/aedf0157b1dcd79cc554610939c22bd5e277c9ff8c5bb5500b307ee3f8a1a398?w=1200",
+                "cap": "個人用AIエージェントは、ウェブサイトの閲覧やメール管理、予約など、ユーザーに代わって行動できる。"
               },
               {
                 "t": "p",
-                "x": "ChatGPTが、ノースカロライナ州の女性Cheryl Gatesの、夫Jamesが離婚して自分を無一文にするつもりだという妄想をあおったうえで、夫を毒殺する「個別の計画」づくりを手助けしたとされる。大陪審は十月、Cheryl Gatesを第一級殺人未遂と食品汚染の罪で起訴した。"
+                "x": "個人用AIエージェントを使う際は、必要なアプリだけを連携させ、機密性の高いアカウントへのアクセスを制限し、ファイルの削除や共有の前に許可を求めるよう指定すること。"
               },
               {
                 "t": "p",
-                "x": "James Gatesはサンフランシスコ郡上級裁判所に起こした訴訟で、Cherylの質問が「明らかに不審」になった後も、OpenAIとSam Altmanは彼女のチャットを止める技術的な安全策を講じなかったと主張した。訴状によると、彼女は少なくとも25回の別々のやり取りで毒殺計画を探り、ChatGPTはエナジードリンクで苦味をどう隠せるかを論じたという。"
+                "x": "これらは、シンガポール・サイバーセキュリティ庁(Cyber Security Agency of Singapore)、政府技術庁(Government Technology Agency)、情報通信メディア開発庁(Infocomm Media Development Authority)が11月6日に出した勧告に盛り込まれた予防策の一部だ。勧告は、同社が消費者向けに作られた世界初の個人用AIエージェントとうたう Meta Muse のシンガポールでの提供開始を受けたものだ。"
               },
               {
                 "t": "p",
-                "x": "Cherylは2025年六月から九月にかけて繰り返し夫の毒殺を試みたとされる。Jamesは自分のCelsiusの飲料が苦いことに気づいていた。訴状は「これらの会話は、ChatGPTが公開された知識を機械的にCherylへ提供しただけではなく、彼女が殺人を犯して逃げおおせるための個別の計画を練ったことを示している」と主張した。"
+                "x": "勧告は「AIエージェントは非常に役立つが、人間のアシスタントのように扱い、自分の情報への同じ広範なアクセスと暗黙の信頼を与えるわけにはいかない」としている。"
               },
               {
                 "t": "p",
-                "x": "OpenAIの広報担当者はArsに対し「安全は最優先事項だ。このユーザーを利用禁止にし、本件の捜査の一環として法執行機関に情報を提供した」と述べた。Jamesは「補償的・懲罰的損害賠償、差し止めによる救済、アルゴリズムの没収」を求めている。"
+                "x": "勧告は、銀行・行政・医療のアカウントへのアクセスをエージェントに与えないこと、「常に許可」ではなく一回限りの承認を選ぶこと、情報がAIモデルの学習に使われるかを確認することを推奨している。"
+              },
+              {
+                "t": "img",
+                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/05aaf5e4a6966ebd091d6915afb54d8748cbaa821177db0aa4596f3a75f1f011?w=750",
+                "cap": "AIエージェントの利用に関する勧告の図解。"
+              },
+              {
+                "t": "p",
+                "x": "勧告は「最善の防御は、エージェントが見られること、できることを制限することだ」としている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "诉讼称ChatGPT帮助\n妻子策划谋杀丈夫",
-          "body": "北卡罗来纳州一名男子起诉OpenAI，称ChatGPT引导妻子用苦味能量饮料对他投毒。",
-          "mini_headline": "诉讼称ChatGPT协助谋杀计划",
+          "headline": "新加坡呼吁限制\n个人AI智能体访问权限",
+          "body": "新加坡三家机构提醒用户，AI智能体只连接必要应用，删除文件前须经许可。",
+          "mini_headline": "新加坡发布AI智能体建议",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg"
+                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/aedf0157b1dcd79cc554610939c22bd5e277c9ff8c5bb5500b307ee3f8a1a398?w=1200",
+                "cap": "个人AI智能体可以代表用户采取行动，例如浏览网站、管理电子邮件和预订。"
               },
               {
                 "t": "p",
-                "x": "据称，ChatGPT先是助长了北卡罗来纳州女子Cheryl Gates的妄想，让她认定丈夫James打算与她离婚并让她一无所有，随后帮助她制定了毒害丈夫的“个性化计划”。十月，大陪审团以一级谋杀未遂和污染食品罪起诉了Cheryl Gates。"
+                "x": "使用个人AI智能体时，只连接必要的应用，限制对敏感账户的访问，并明确规定删除或共享文件前须获得许可。"
               },
               {
                 "t": "p",
-                "x": "James Gates在旧金山县高等法院提起诉讼，指称即便Cheryl的提问已变得“明显可疑”，OpenAI和Sam Altman仍未采用技术保障措施来终止她的对话。诉状称，她在至少25次不同的对话中探询投毒计划，ChatGPT还讨论了能量饮料如何掩盖苦味。"
+                "x": "这些是新加坡网络安全局（Cyber Security Agency of Singapore）、政府科技局（Government Technology Agency）和资讯通信媒体发展局（Infocomm Media Development Authority）11月6日发布的建议中列出的部分预防措施。此前，Meta Muse 在新加坡推出，该公司称其为全球首款面向消费者打造的个人AI智能体。"
               },
               {
                 "t": "p",
-                "x": "据称，Cheryl在2025年六月至九月间多次试图毒害丈夫；James曾注意到他喝的Celsius饮料有苦味。诉状称：“这些对话表明，ChatGPT不只是机械地向Cheryl提供公开知识，而是为她量身制定了帮助她杀人并逃脱罪责的计划。”"
+                "x": "建议指出：“AI智能体可能非常有用，但你不能像对待人类助理那样对待它们，给予它们同样广泛的信息访问权限和默认信任。”"
               },
               {
                 "t": "p",
-                "x": "OpenAI发言人对Ars表示：“安全是重中之重。我们已封禁该用户，并已向执法部门提供信息，配合其对此案的调查。”James要求“补偿性和惩罚性损害赔偿、禁令救济以及算法追缴”。"
+                "x": "建议提出，避免让智能体访问银行、政府和医疗账户，选择一次性批准而非“始终允许”选项，并查看信息是否会被用于训练AI模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/05aaf5e4a6966ebd091d6915afb54d8748cbaa821177db0aa4596f3a75f1f011?w=750",
+                "cap": "AI智能体使用建议图示。"
+              },
+              {
+                "t": "p",
+                "x": "建议指出：“最好的保护是限制你的智能体能看到什么、能做什么。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una demanda acusa a ChatGPT de\nayudar a planear un asesinato",
-          "body": "Un hombre de Carolina del Norte demanda a OpenAI y alega que ChatGPT guió a su esposa para envenenarlo con bebidas.",
-          "mini_headline": "Demanda: ChatGPT ayudó a planear un asesinato",
+          "headline": "Singapur pide limitar el acceso\nde los agentes personales de AI",
+          "body": "Tres agencias de Singapur pidieron conectar solo apps necesarias a agentes de AI y exigir permiso para borrar archivos.",
+          "mini_headline": "Singapur emite un aviso sobre agentes de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg"
+                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/aedf0157b1dcd79cc554610939c22bd5e277c9ff8c5bb5500b307ee3f8a1a398?w=1200",
+                "cap": "Los agentes personales de AI pueden actuar en nombre de los usuarios, por ejemplo navegando por sitios web, gestionando e-mails y haciendo reservas."
               },
               {
                 "t": "p",
-                "x": "ChatGPT presuntamente ayudó a una mujer de Carolina del Norte, Cheryl Gates, a elaborar un “plan personalizado” para envenenar a su esposo, James, después de alimentar su delirio de que él planeaba divorciarse y dejarla sin nada. En octubre, un gran jurado acusó formalmente a Cheryl Gates de intento de asesinato en primer grado y contaminación de alimentos."
+                "x": "Al usar agentes personales de AI, conecte solo las apps necesarias, restrinja el acceso a cuentas sensibles y especifique que se requiere permiso antes de borrar o compartir archivos."
               },
               {
                 "t": "p",
-                "x": "En una demanda presentada ante el Tribunal Superior del condado de San Francisco, James Gates alega que OpenAI y Sam Altman no emplearon salvaguardas técnicas para cortar los chats de Cheryl incluso después de que sus consultas se volvieran “obviamente sospechosas”. La demanda afirma que ella exploró planes de envenenamiento en al menos 25 intercambios distintos y que ChatGPT habló de cómo una bebida energética podía disimular un sabor amargo."
+                "x": "Estas son algunas de las precauciones recogidas en un aviso emitido el 6 de noviembre por la Cyber Security Agency of Singapore, la Government Technology Agency y la Infocomm Media Development Authority. Llega tras el lanzamiento en Singapur de Meta Muse, que la compañía presenta como el primer agente personal de AI del mundo creado para consumidores."
               },
               {
                 "t": "p",
-                "x": "Cheryl presuntamente intentó envenenar a su esposo en repetidas ocasiones entre junio y septiembre de 2025; James había notado que sus bebidas Celsius sabían amargas. “Estas conversaciones revelaron que ChatGPT no se limitó a proporcionar mecánicamente a Cheryl conocimientos públicamente disponibles, sino que elaboró un plan personalizado para ayudarla a cometer un asesinato y salir impune”, sostiene la demanda."
+                "x": "\"Los agentes de AI pueden ser muy útiles, pero no se les puede tratar como asistentes humanos y darles el mismo acceso amplio a su información ni la misma confianza implícita\", señaló el aviso."
               },
               {
                 "t": "p",
-                "x": "Un portavoz de OpenAI dijo a Ars que “la seguridad es una prioridad máxima. Bloqueamos a este usuario y hemos proporcionado información a las fuerzas del orden como parte de su investigación del caso”. James reclama “daños compensatorios y punitivos, medidas cautelares y la restitución algorítmica”."
+                "x": "Recomienda evitar dar a los agentes acceso a cuentas bancarias, gubernamentales y de salud, elegir la aprobación única en lugar de la opción \"permitir siempre\" y comprobar si la información se usa para entrenar modelos de AI."
+              },
+              {
+                "t": "img",
+                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/05aaf5e4a6966ebd091d6915afb54d8748cbaa821177db0aa4596f3a75f1f011?w=750",
+                "cap": "Infografía del aviso sobre el uso de agentes de AI."
+              },
+              {
+                "t": "p",
+                "x": "\"La mejor protección es limitar lo que su agente puede ver o hacer\", señaló el aviso."
               }
             ]
           }
@@ -1361,321 +1551,321 @@
       }
     },
     {
-      "id": "suneung-ai-smartglasses-ban",
-      "source_lang": "ko",
+      "id": "south-australia-ai-parking-fines",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "수능 AI 안경 부정행위\n시험장마다 판별 요원",
-      "body": "교육당국은 수능 시험장마다 AI 스마트안경 판별 전담 요원을 배치한다.",
-      "mini_headline": "수능 AI안경 판별 요원",
+      "headline": "남호주, 고지서 없는\nAI 주차 벌금 없앤다",
+      "body": "남호주 주총리는 벌금 철회 사례를 들어 무고지 AI 카메라 벌금을 없애기로 했다.",
+      "mini_headline": "SA, AI 주차 벌금 폐지",
       "tool": "Politics",
-      "source": "전자신문",
-      "url": "https://www.etnews.com/20261107000027",
-      "accent": "#eb367f",
+      "source": "7NEWS",
+      "url": "https://7news.com.au/news/ticketless-ai-parking-fines-to-be-scrapped-under-south-australia-overhaul-c-23131921",
+      "accent": "#ff5a4d",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://img.etnews.com/news/article/2026/11/07/news-p.v1.20261107.062af919c149414781cb4badb8f7119e_P1.jpg",
-            "cap": "AI 기능이 탑재된 스마트 안경. 사진=연합뉴스"
+            "src": "https://images.7news.com.au/publication/C-23131921/ee9741ab55c47e2b9087e00be5182d21094275ff-16x9-x0y0w1280h720.png?imwidth=1200",
+            "cap": "카메라 차량 기술로 발부되는 무고지 주차 벌금이 남호주에서 폐지된다."
           },
           {
             "t": "p",
-            "x": "2027학년도 대학수학능력시험(수능)을 앞두고 인공지능(AI) 스마트안경을 이용한 부정행위 우려가 확산하면서 시험장에 때아닌 '안경 소동'이 벌어지고 있다. 일부 수험생은 일반 안경이 스마트안경으로 오인될 가능성을 걱정하고, 시험 감독을 맡는 교사들도 기기 식별과 민원 대응에 부담을 호소하고 있다."
+            "x": "피터 말리나우스카스(Peter Malinauskas) 주총리는 위반 시점에 시의회 단속원이 실물 위반 통지서를 발부하도록 하는 개혁안을 발표했다. 사실상 AI-assisted 카메라 차량 기술로 발부되던 무고지 주차 벌금을 없애는 조치다."
           },
           {
             "t": "p",
-            "x": "서울시교육청은 7일 교사 임용시험 1차 시험에서 안경 착용 응시자를 대상으로 검사를 진행한다. 감독관은 안경테와 안경다리의 두께, 카메라 렌즈와 마이크·스피커 구멍, 충전 단자 등을 확인한다."
+            "x": "그는 \"AI-assisted 기술로 발부된 벌금이 몇 주 뒤 우편으로 도착하면, 운전자는 위반 내용을 이해하고 이의를 제기할 증거를 모을 기회를 잃는다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "경기교사노동조합은 지난달 26일 성명을 내고 “새로운 부정행위 위험이 발생할 때마다 확인 의무와 법적·행정적 책임을 교사 개인에게 떠넘기고 있다”며 구분 기준 및 분쟁 대응체계 마련을 촉구했다."
+            "x": "애들레이드는 2021년부터 이 기술을 써 왔다. 애들레이드 시의회의 최근 검토에 따르면 Park Safe 차량은 2025-26 회계연도 첫 세 분기 동안 27,000건이 넘는 벌금을 발부했다. 운전자들이 재검토를 요청한 건은 2353건이고 그중 702건이 결국 철회됐다."
           },
           {
             "t": "p",
-            "x": "교육당국은 수능 시험장마다 스마트안경 판별 전담 요원 1명을 배치할 계획이다. 한국교육과정평가원은 스마트안경을 시험장 반입 금지 물품으로 규정하고 있다. 이재명 대통령도 지난 5일 수석보좌관회의에서 스마트안경 등 첨단기기를 이용한 부정행위 차단을 지시했다."
+            "x": "말리나우스카스 주총리는 \"이의가 제기된 벌금이 철회되는 비율을 보면 현행 제도에 뭔가 문제가 있다\"고 말했다. 주차 위반 가능성을 가려내는 데는 시의회가 카메라 기술을 계속 쓸 수 있다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "수능 AI 안경 부정행위\n시험장마다 판별 요원",
-          "body": "교육당국은 수능 시험장마다 AI 스마트안경 판별 전담 요원을 배치한다.",
-          "mini_headline": "수능 AI안경 판별 요원",
+        "en": {
+          "headline": "South Australia to scrap\nticketless AI parking fines",
+          "body": "South Australia's premier plans to end ticketless AI camera-car parking fines, citing withdrawn fine challenges.",
+          "mini_headline": "SA scraps AI parking fines",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/07/news-p.v1.20261107.062af919c149414781cb4badb8f7119e_P1.jpg",
-                "cap": "AI 기능이 탑재된 스마트 안경. 사진=연합뉴스"
+                "src": "https://images.7news.com.au/publication/C-23131921/ee9741ab55c47e2b9087e00be5182d21094275ff-16x9-x0y0w1280h720.png?imwidth=1200",
+                "cap": "Ticketless parking fines generated through camera car technology will be scrapped in South Australia."
               },
               {
                 "t": "p",
-                "x": "2027학년도 대학수학능력시험(수능)을 앞두고 인공지능(AI) 스마트안경을 이용한 부정행위 우려가 확산하면서 시험장에 때아닌 '안경 소동'이 벌어지고 있다. 일부 수험생은 일반 안경이 스마트안경으로 오인될 가능성을 걱정하고, 시험 감독을 맡는 교사들도 기기 식별과 민원 대응에 부담을 호소하고 있다."
+                "x": "Premier Peter Malinauskas has announced reforms that would require council inspectors to issue a physical infringement notice at the time of an offence, effectively ending ticketless parking fines generated through AI-assisted camera car technology."
               },
               {
                 "t": "p",
-                "x": "서울시교육청은 7일 교사 임용시험 1차 시험에서 안경 착용 응시자를 대상으로 검사를 진행한다. 감독관은 안경테와 안경다리의 두께, 카메라 렌즈와 마이크·스피커 구멍, 충전 단자 등을 확인한다."
+                "x": "\"When fines arrive in the mail weeks after being issued through AI-assisted technology, motorists lose the chance to understand the offence and gather evidence to challenge it,\" he said."
               },
               {
                 "t": "p",
-                "x": "경기교사노동조합은 지난달 26일 성명을 내고 “새로운 부정행위 위험이 발생할 때마다 확인 의무와 법적·행정적 책임을 교사 개인에게 떠넘기고 있다”며 구분 기준 및 분쟁 대응체계 마련을 촉구했다."
+                "x": "The technology has been operating in Adelaide since 2021. The Adelaide council's most recent review found Park Safe vehicles issued more than 27,000 fines in the first three quarters of the 2025-26 financial year; drivers lodged 2353 requests for review, with 702 fines ultimately withdrawn."
               },
               {
                 "t": "p",
-                "x": "교육당국은 수능 시험장마다 스마트안경 판별 전담 요원 1명을 배치할 계획이다. 한국교육과정평가원은 스마트안경을 시험장 반입 금지 물품으로 규정하고 있다. 이재명 대통령도 지난 5일 수석보좌관회의에서 스마트안경 등 첨단기기를 이용한 부정행위 차단을 지시했다."
+                "x": "\"The rate of challenged fines being withdrawn shows something isn't right with the current system,\" Malinauskas said. Councils would retain the ability to use camera technology to identify potential parking breaches."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Suneung AI glasses cheating:\ninspectors at every test site",
-          "body": "Education authorities will station staff dedicated to spotting AI smart glasses at every Suneung test site.",
-          "mini_headline": "Suneung AI glasses inspectors",
+        "ko": {
+          "headline": "남호주, 고지서 없는\nAI 주차 벌금 없앤다",
+          "body": "남호주 주총리는 벌금 철회 사례를 들어 무고지 AI 카메라 벌금을 없애기로 했다.",
+          "mini_headline": "SA, AI 주차 벌금 폐지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/07/news-p.v1.20261107.062af919c149414781cb4badb8f7119e_P1.jpg",
-                "cap": "Smart glasses with AI features. Photo: Yonhap News"
+                "src": "https://images.7news.com.au/publication/C-23131921/ee9741ab55c47e2b9087e00be5182d21094275ff-16x9-x0y0w1280h720.png?imwidth=1200",
+                "cap": "카메라 차량 기술로 발부되는 무고지 주차 벌금이 남호주에서 폐지된다."
               },
               {
                 "t": "p",
-                "x": "Ahead of the 2027 College Scholastic Ability Test (Suneung), concerns about cheating with artificial intelligence (AI) smart glasses are spreading, setting off an unexpected 'glasses uproar' at exam sites. Some test-takers worry that ordinary glasses could be mistaken for smart glasses, and teachers who proctor the exam say identifying devices and handling complaints has become a burden."
+                "x": "피터 말리나우스카스(Peter Malinauskas) 주총리는 위반 시점에 시의회 단속원이 실물 위반 통지서를 발부하도록 하는 개혁안을 발표했다. 사실상 AI-assisted 카메라 차량 기술로 발부되던 무고지 주차 벌금을 없애는 조치다."
               },
               {
                 "t": "p",
-                "x": "The Seoul Metropolitan Office of Education will inspect candidates wearing glasses at round 1 of the teacher appointment exam on the 7th. Proctors will check the thickness of frames and temples, camera lenses, microphone and speaker holes, charging ports and more."
+                "x": "그는 \"AI-assisted 기술로 발부된 벌금이 몇 주 뒤 우편으로 도착하면, 운전자는 위반 내용을 이해하고 이의를 제기할 증거를 모을 기회를 잃는다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "In a statement on the 26th of last month, the Gyeonggi Teachers' Union said, “Every time a new cheating risk emerges, the duty to check and the legal and administrative responsibility are pushed onto individual teachers,” and called for criteria to tell devices apart and a system for handling disputes."
+                "x": "애들레이드는 2021년부터 이 기술을 써 왔다. 애들레이드 시의회의 최근 검토에 따르면 Park Safe 차량은 2025-26 회계연도 첫 세 분기 동안 27,000건이 넘는 벌금을 발부했다. 운전자들이 재검토를 요청한 건은 2353건이고 그중 702건이 결국 철회됐다."
               },
               {
                 "t": "p",
-                "x": "Education authorities plan to assign 1 inspector dedicated to identifying smart glasses to every Suneung test site. The Korea Institute for Curriculum and Evaluation lists smart glasses as items banned from exam sites. President Lee Jae-myung also ordered steps to block cheating with smart glasses and other advanced devices at a meeting with senior secretaries on the 5th."
+                "x": "말리나우스카스 주총리는 \"이의가 제기된 벌금이 철회되는 비율을 보면 현행 제도에 뭔가 문제가 있다\"고 말했다. 주차 위반 가능성을 가려내는 데는 시의회가 카메라 기술을 계속 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "修能でAI眼鏡の不正\n試験場ごとに判別要員",
-          "body": "教育当局は修能の各試験場にAIスマートグラスの判別専任要員を配置する。",
-          "mini_headline": "修能、AI眼鏡の判別要員",
+          "headline": "南オーストラリア州が\n無告知AI駐車罰金を廃止",
+          "body": "南豪州首相は、異議後の罰金取り消しを理由に、AIカメラ車による無告知罰金を廃止する方針だ。",
+          "mini_headline": "SA、AI駐車罰金を廃止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/07/news-p.v1.20261107.062af919c149414781cb4badb8f7119e_P1.jpg",
-                "cap": "AI機能を搭載したスマートグラス。写真=聯合ニュース"
+                "src": "https://images.7news.com.au/publication/C-23131921/ee9741ab55c47e2b9087e00be5182d21094275ff-16x9-x0y0w1280h720.png?imwidth=1200",
+                "cap": "カメラカー技術による無告知の駐車違反罰金は、南オーストラリア州で廃止される。"
               },
               {
                 "t": "p",
-                "x": "2027年度大学修学能力試験(修能)を前に、人工知能(AI)スマートグラスを使った不正行為への懸念が広がり、試験場で思わぬ「眼鏡騒動」が起きている。一部の受験生は普通の眼鏡がスマートグラスと誤認される可能性を心配し、試験監督を担う教師たちも機器の識別や苦情対応の負担を訴えている。"
+                "x": "ピーター・マリナウスカス(Peter Malinauskas)州首相は、違反の時点で自治体の監視員が紙の違反通知を交付するよう義務づける改革を発表した。これにより、AI-assisted のカメラカー技術による無告知の駐車違反罰金は事実上廃止される。"
               },
               {
                 "t": "p",
-                "x": "ソウル市教育庁は7日、教員採用試験の1次試験で眼鏡を着用した受験者を対象に検査を行う。監督官は眼鏡のフレームとテンプルの太さ、カメラのレンズ、マイク・スピーカーの穴、充電端子などを確認する。"
+                "x": "同氏は「AI-assisted 技術で発行された罰金が数週間後に郵送で届くと、ドライバーは違反内容を理解し、異議を申し立てる証拠を集める機会を失う」と述べた。"
               },
               {
                 "t": "p",
-                "x": "京畿教師労働組合は先月26日に声明を出し、「新たな不正行為のリスクが生じるたびに、確認の義務と法的・行政的責任を教師個人に押し付けている」として、区別の基準と紛争対応体制の整備を求めた。"
+                "x": "この技術はアデレードで2021年から運用されている。アデレード市議会の最新の調査によると、Park Safe 車両は2025-26会計年度の最初の三つの四半期に27,000件を超える罰金を発行し、ドライバーからは2353件の再審査請求があり、最終的に702件の罰金が取り消された。"
               },
               {
                 "t": "p",
-                "x": "教育当局は修能の各試験場にスマートグラス判別の専任要員を1人配置する計画だ。韓国教育課程評価院はスマートグラスを試験場への持ち込み禁止物品と定めている。李在明大統領も5日の首席秘書官・補佐官会議で、スマートグラスなど先端機器を使った不正行為の遮断を指示した。"
+                "x": "マリナウスカス氏は「異議を受けた罰金の取り消し率は、現行制度のどこかがおかしいことを示している」と述べた。自治体は今後も、駐車違反の疑いを特定するためにカメラ技術を使うことができる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "韩国高考AI眼镜作弊\n每个考点派专人识别",
-          "body": "教育当局将在韩国高考每个考点配备AI智能眼镜专职识别人员。",
-          "mini_headline": "韩国高考AI眼镜识别员",
+          "headline": "南澳州将取消\n无现场罚单的AI停车罚款",
+          "body": "南澳州长计划取消AI摄像车开出的无现场罚单停车罚款，理由是罚款经申诉后被撤销。",
+          "mini_headline": "SA取消AI停车罚款",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/07/news-p.v1.20261107.062af919c149414781cb4badb8f7119e_P1.jpg",
-                "cap": "搭载AI功能的智能眼镜。图片=韩联社"
+                "src": "https://images.7news.com.au/publication/C-23131921/ee9741ab55c47e2b9087e00be5182d21094275ff-16x9-x0y0w1280h720.png?imwidth=1200",
+                "cap": "南澳州将取消通过摄像车技术开出的无现场罚单停车罚款。"
               },
               {
                 "t": "p",
-                "x": "2027学年度大学修学能力考试(高考)临近，外界对利用人工智能(AI)智能眼镜作弊的担忧不断扩大，考场上意外掀起一场“眼镜风波”。部分考生担心普通眼镜被误认为智能眼镜，负责监考的教师也表示，识别设备和应对投诉让他们负担沉重。"
+                "x": "州长彼得·马利瑙斯卡斯（Peter Malinauskas）宣布改革，要求市政检查员在违规发生时开具纸质违规通知，这实际上将终结通过 AI-assisted 摄像车技术开出的无现场罚单停车罚款。"
               },
               {
                 "t": "p",
-                "x": "首尔市教育厅将于7日在教师录用考试第1轮考试中，对佩戴眼镜的考生进行检查。监考官将检查镜框和镜腿的厚度、摄像头镜头、麦克风和扬声器开孔、充电接口等。"
+                "x": "他说：“当通过 AI-assisted 技术开出的罚单在数周后才寄到时，驾车者便失去了了解违规情况、收集证据提出异议的机会。”"
               },
               {
                 "t": "p",
-                "x": "京畿教师工会上月26日发表声明称，“每当出现新的作弊风险，就把核查义务和法律、行政责任推给教师个人”，并敦促制定区分标准和纠纷应对机制。"
+                "x": "该技术自2021年起在阿德莱德运行。阿德莱德市议会最近的审查发现，2025-26财年前三个季度，Park Safe 车辆开出了超过27,000张罚单；驾车者提出了2353份复核申请，最终有702张罚单被撤销。"
               },
               {
                 "t": "p",
-                "x": "教育当局计划在每个高考考点配备1名智能眼镜专职识别人员。韩国教育课程评价院已将智能眼镜列为禁止带入考场的物品。李在明总统也在5日的首席秘书及辅佐官会议上，指示杜绝利用智能眼镜等尖端设备作弊。"
+                "x": "马利瑙斯卡斯说：“受到异议的罚单被撤销的比例表明，现行制度出了问题。”市政部门仍可使用摄像技术识别潜在的停车违规行为。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Suneung: trampas con gafas AI\ninspectores en cada sede",
-          "body": "Las autoridades educativas asignarán personal dedicado a detectar gafas inteligentes con AI en cada sede del Suneung.",
-          "mini_headline": "Suneung: inspectores de gafas AI",
+          "headline": "Australia Meridional eliminará\nlas multas AI sin aviso in situ",
+          "body": "Australia Meridional prevé eliminar multas sin aviso de coches con cámara AI, ante la anulación de multas recurridas.",
+          "mini_headline": "SA elimina las multas de estacionamiento AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/07/news-p.v1.20261107.062af919c149414781cb4badb8f7119e_P1.jpg",
-                "cap": "Gafas inteligentes con funciones de AI. Foto=Yonhap News"
+                "src": "https://images.7news.com.au/publication/C-23131921/ee9741ab55c47e2b9087e00be5182d21094275ff-16x9-x0y0w1280h720.png?imwidth=1200",
+                "cap": "Las multas de estacionamiento sin aviso generadas con tecnología de coches con cámara serán eliminadas en Australia Meridional."
               },
               {
                 "t": "p",
-                "x": "Ante el examen de acceso a la universidad (Suneung) del curso 2027, crece la preocupación por las trampas con gafas inteligentes de inteligencia artificial (AI), lo que ha desatado un inesperado 'revuelo de las gafas' en las sedes de examen. Algunos aspirantes temen que sus gafas normales se confundan con gafas inteligentes, y los docentes que vigilan el examen también se quejan de la carga de identificar dispositivos y atender reclamaciones."
+                "x": "El primer ministro Peter Malinauskas anunció reformas que obligarían a los inspectores municipales a entregar una notificación física de infracción en el momento de la falta, lo que en la práctica pone fin a las multas de estacionamiento sin aviso generadas con tecnología de coches con cámara AI-assisted."
               },
               {
                 "t": "p",
-                "x": "La Oficina de Educación de Seúl revisará el día 7 a los aspirantes que lleven gafas en la prueba 1 del examen de selección de docentes. Los supervisores comprobarán el grosor de la montura y las patillas, las lentes de cámara, los orificios de micrófono y altavoz, los puertos de carga y otros elementos."
+                "x": "\"Cuando las multas llegan por correo semanas después de emitirse mediante tecnología AI-assisted, los conductores pierden la oportunidad de entender la infracción y reunir pruebas para recurrirla\", dijo."
               },
               {
                 "t": "p",
-                "x": "El Sindicato de Docentes de Gyeonggi emitió un comunicado el día 26 del mes pasado en el que afirmó que “cada vez que surge un nuevo riesgo de trampas, la obligación de verificar y la responsabilidad legal y administrativa recaen sobre cada docente”, y pidió criterios de distinción y un sistema para gestionar disputas."
+                "x": "La tecnología funciona en Adelaida desde 2021. La revisión más reciente del ayuntamiento de Adelaida halló que los vehículos Park Safe emitieron más de 27,000 multas en los tres primeros trimestres del ejercicio 2025-26; los conductores presentaron 2353 solicitudes de revisión y 702 multas acabaron anuladas."
               },
               {
                 "t": "p",
-                "x": "Las autoridades educativas prevén asignar 1 inspector dedicado a identificar gafas inteligentes en cada sede del Suneung. El Instituto Coreano de Currículo y Evaluación clasifica las gafas inteligentes como objetos prohibidos en las sedes de examen. El presidente Lee Jae-myung también ordenó, en una reunión con sus principales secretarios el día 5, bloquear las trampas con gafas inteligentes y otros dispositivos avanzados."
+                "x": "\"La proporción de multas recurridas que se anulan demuestra que algo no funciona en el sistema actual\", dijo Malinauskas. Los ayuntamientos podrán seguir usando tecnología de cámaras para detectar posibles infracciones de estacionamiento."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Suneung AI glasses cheating:\ninspectors at every test site",
-          "body": "Education authorities will station staff dedicated to spotting AI smart glasses at every Suneung test site.",
-          "mini_headline": "Suneung AI glasses inspectors",
+        "ko": {
+          "headline": "남호주, 고지서 없는\nAI 주차 벌금 없앤다",
+          "body": "남호주 주총리는 벌금 철회 사례를 들어 무고지 AI 카메라 벌금을 없애기로 했다.",
+          "mini_headline": "SA, AI 주차 벌금 폐지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/07/news-p.v1.20261107.062af919c149414781cb4badb8f7119e_P1.jpg",
-                "cap": "Smart glasses with AI features. Photo: Yonhap News"
+                "src": "https://images.7news.com.au/publication/C-23131921/ee9741ab55c47e2b9087e00be5182d21094275ff-16x9-x0y0w1280h720.png?imwidth=1200",
+                "cap": "카메라 차량 기술로 발부되는 무고지 주차 벌금이 남호주에서 폐지된다."
               },
               {
                 "t": "p",
-                "x": "Ahead of the 2027 College Scholastic Ability Test (Suneung), concerns about cheating with artificial intelligence (AI) smart glasses are spreading, setting off an unexpected 'glasses uproar' at exam sites. Some test-takers worry that ordinary glasses could be mistaken for smart glasses, and teachers who proctor the exam say identifying devices and handling complaints has become a burden."
+                "x": "피터 말리나우스카스(Peter Malinauskas) 주총리는 위반 시점에 시의회 단속원이 실물 위반 통지서를 발부하도록 하는 개혁안을 발표했다. 사실상 AI-assisted 카메라 차량 기술로 발부되던 무고지 주차 벌금을 없애는 조치다."
               },
               {
                 "t": "p",
-                "x": "The Seoul Metropolitan Office of Education will inspect candidates wearing glasses at round 1 of the teacher appointment exam on the 7th. Proctors will check the thickness of frames and temples, camera lenses, microphone and speaker holes, charging ports and more."
+                "x": "그는 \"AI-assisted 기술로 발부된 벌금이 몇 주 뒤 우편으로 도착하면, 운전자는 위반 내용을 이해하고 이의를 제기할 증거를 모을 기회를 잃는다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "In a statement on the 26th of last month, the Gyeonggi Teachers' Union said, “Every time a new cheating risk emerges, the duty to check and the legal and administrative responsibility are pushed onto individual teachers,” and called for criteria to tell devices apart and a system for handling disputes."
+                "x": "이 기술은 2021년부터 애들레이드에서 운영돼 왔다. 애들레이드 시의회의 최근 검토에 따르면 Park Safe 차량은 2025-26 회계연도 첫 세 분기 동안 27,000건이 넘는 벌금을 발부했고, 운전자들은 2353건의 재검토를 요청했으며, 그중 702건의 벌금이 결국 철회됐다."
               },
               {
                 "t": "p",
-                "x": "Education authorities plan to assign 1 inspector dedicated to identifying smart glasses to every Suneung test site. The Korea Institute for Curriculum and Evaluation lists smart glasses as items banned from exam sites. President Lee Jae-myung also ordered steps to block cheating with smart glasses and other advanced devices at a meeting with senior secretaries on the 5th."
+                "x": "말리나우스카스 주총리는 \"이의가 제기된 벌금이 철회되는 비율을 보면 현행 제도에 뭔가 문제가 있다\"고 말했다. 시의회는 주차 위반 가능성을 식별하는 데 카메라 기술을 계속 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "修能でAI眼鏡の不正\n試験場ごとに判別要員",
-          "body": "教育当局は修能の各試験場にAIスマートグラスの判別専任要員を配置する。",
-          "mini_headline": "修能、AI眼鏡の判別要員",
+          "headline": "南オーストラリア州が\n無告知AI駐車罰金を廃止",
+          "body": "南豪州首相は、異議後の罰金取り消しを理由に、AIカメラ車による無告知罰金を廃止する方針だ。",
+          "mini_headline": "SA、AI駐車罰金を廃止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/07/news-p.v1.20261107.062af919c149414781cb4badb8f7119e_P1.jpg",
-                "cap": "AI機能を搭載したスマートグラス。写真=聯合ニュース"
+                "src": "https://images.7news.com.au/publication/C-23131921/ee9741ab55c47e2b9087e00be5182d21094275ff-16x9-x0y0w1280h720.png?imwidth=1200",
+                "cap": "カメラカー技術による無告知の駐車違反罰金は、南オーストラリア州で廃止される。"
               },
               {
                 "t": "p",
-                "x": "2027年度大学修学能力試験(修能)を前に、人工知能(AI)スマートグラスを使った不正行為への懸念が広がり、試験場で思わぬ「眼鏡騒動」が起きている。一部の受験生は普通の眼鏡がスマートグラスと誤認される可能性を心配し、試験監督を担う教師たちも機器の識別や苦情対応の負担を訴えている。"
+                "x": "ピーター・マリナウスカス(Peter Malinauskas)州首相は、違反の時点で自治体の監視員が紙の違反通知を交付するよう義務づける改革を発表した。これにより、AI-assisted のカメラカー技術による無告知の駐車違反罰金は事実上廃止される。"
               },
               {
                 "t": "p",
-                "x": "ソウル市教育庁は7日、教員採用試験の1次試験で眼鏡を着用した受験者を対象に検査を行う。監督官は眼鏡のフレームとテンプルの太さ、カメラのレンズ、マイク・スピーカーの穴、充電端子などを確認する。"
+                "x": "同氏は「AI-assisted 技術で発行された罰金が数週間後に郵送で届くと、ドライバーは違反内容を理解し、異議を申し立てる証拠を集める機会を失う」と述べた。"
               },
               {
                 "t": "p",
-                "x": "京畿教師労働組合は先月26日に声明を出し、「新たな不正行為のリスクが生じるたびに、確認の義務と法的・行政的責任を教師個人に押し付けている」として、区別の基準と紛争対応体制の整備を求めた。"
+                "x": "この技術はアデレードで2021年から運用されている。アデレード市議会の最新の調査によると、Park Safe 車両は2025-26会計年度の最初の三つの四半期に27,000件を超える罰金を発行し、ドライバーからは2353件の再審査請求があり、最終的に702件の罰金が取り消された。"
               },
               {
                 "t": "p",
-                "x": "教育当局は修能の各試験場にスマートグラス判別の専任要員を1人配置する計画だ。韓国教育課程評価院はスマートグラスを試験場への持ち込み禁止物品と定めている。李在明大統領も5日の首席秘書官・補佐官会議で、スマートグラスなど先端機器を使った不正行為の遮断を指示した。"
+                "x": "マリナウスカス氏は「異議を受けた罰金の取り消し率は、現行制度のどこかがおかしいことを示している」と述べた。自治体は今後も、駐車違反の疑いを特定するためにカメラ技術を使うことができる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "韩国高考AI眼镜作弊\n每个考点派专人识别",
-          "body": "教育当局将在韩国高考每个考点配备AI智能眼镜专职识别人员。",
-          "mini_headline": "韩国高考AI眼镜识别员",
+          "headline": "南澳州将取消\n无现场罚单的AI停车罚款",
+          "body": "南澳州长计划取消AI摄像车开出的无现场罚单停车罚款，理由是罚款经申诉后被撤销。",
+          "mini_headline": "SA取消AI停车罚款",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/07/news-p.v1.20261107.062af919c149414781cb4badb8f7119e_P1.jpg",
-                "cap": "搭载AI功能的智能眼镜。图片=韩联社"
+                "src": "https://images.7news.com.au/publication/C-23131921/ee9741ab55c47e2b9087e00be5182d21094275ff-16x9-x0y0w1280h720.png?imwidth=1200",
+                "cap": "南澳州将取消通过摄像车技术开出的无现场罚单停车罚款。"
               },
               {
                 "t": "p",
-                "x": "2027学年度大学修学能力考试(高考)临近，外界对利用人工智能(AI)智能眼镜作弊的担忧不断扩大，考场上意外掀起一场“眼镜风波”。部分考生担心普通眼镜被误认为智能眼镜，负责监考的教师也表示，识别设备和应对投诉让他们负担沉重。"
+                "x": "州长彼得·马利瑙斯卡斯（Peter Malinauskas）宣布改革，要求市政检查员在违规发生时开具纸质违规通知，这实际上将终结通过 AI-assisted 摄像车技术开出的无现场罚单停车罚款。"
               },
               {
                 "t": "p",
-                "x": "首尔市教育厅将于7日在教师录用考试第1轮考试中，对佩戴眼镜的考生进行检查。监考官将检查镜框和镜腿的厚度、摄像头镜头、麦克风和扬声器开孔、充电接口等。"
+                "x": "他说：“当通过 AI-assisted 技术开出的罚单在数周后才寄到时，驾车者便失去了了解违规情况、收集证据提出异议的机会。”"
               },
               {
                 "t": "p",
-                "x": "京畿教师工会上月26日发表声明称，“每当出现新的作弊风险，就把核查义务和法律、行政责任推给教师个人”，并敦促制定区分标准和纠纷应对机制。"
+                "x": "该技术自2021年起在阿德莱德运行。阿德莱德市议会最近的审查发现，2025-26财年前三个季度，Park Safe 车辆开出了超过27,000张罚单；驾车者提出了2353份复核申请，最终有702张罚单被撤销。"
               },
               {
                 "t": "p",
-                "x": "教育当局计划在每个高考考点配备1名智能眼镜专职识别人员。韩国教育课程评价院已将智能眼镜列为禁止带入考场的物品。李在明总统也在5日的首席秘书及辅佐官会议上，指示杜绝利用智能眼镜等尖端设备作弊。"
+                "x": "马利瑙斯卡斯说：“受到异议的罚单被撤销的比例表明，现行制度出了问题。”市政部门仍可使用摄像技术识别潜在的停车违规行为。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Suneung: trampas con gafas AI\ninspectores en cada sede",
-          "body": "Las autoridades educativas asignarán personal dedicado a detectar gafas inteligentes con AI en cada sede del Suneung.",
-          "mini_headline": "Suneung: inspectores de gafas AI",
+          "headline": "Australia Meridional eliminará\nlas multas AI sin aviso in situ",
+          "body": "Australia Meridional prevé eliminar multas sin aviso de coches con cámara AI, ante la anulación de multas recurridas.",
+          "mini_headline": "SA elimina las multas de estacionamiento AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/07/news-p.v1.20261107.062af919c149414781cb4badb8f7119e_P1.jpg",
-                "cap": "Gafas inteligentes con funciones de AI. Foto=Yonhap News"
+                "src": "https://images.7news.com.au/publication/C-23131921/ee9741ab55c47e2b9087e00be5182d21094275ff-16x9-x0y0w1280h720.png?imwidth=1200",
+                "cap": "Las multas de estacionamiento sin aviso generadas con tecnología de coches con cámara serán eliminadas en Australia Meridional."
               },
               {
                 "t": "p",
-                "x": "Ante el examen de acceso a la universidad (Suneung) del curso 2027, crece la preocupación por las trampas con gafas inteligentes de inteligencia artificial (AI), lo que ha desatado un inesperado 'revuelo de las gafas' en las sedes de examen. Algunos aspirantes temen que sus gafas normales se confundan con gafas inteligentes, y los docentes que vigilan el examen también se quejan de la carga de identificar dispositivos y atender reclamaciones."
+                "x": "El primer ministro Peter Malinauskas anunció reformas que obligarían a los inspectores municipales a entregar una notificación física de infracción en el momento de la falta, lo que en la práctica pone fin a las multas de estacionamiento sin aviso generadas con tecnología de coches con cámara AI-assisted."
               },
               {
                 "t": "p",
-                "x": "La Oficina de Educación de Seúl revisará el día 7 a los aspirantes que lleven gafas en la prueba 1 del examen de selección de docentes. Los supervisores comprobarán el grosor de la montura y las patillas, las lentes de cámara, los orificios de micrófono y altavoz, los puertos de carga y otros elementos."
+                "x": "\"Cuando las multas llegan por correo semanas después de emitirse mediante tecnología AI-assisted, los conductores pierden la oportunidad de entender la infracción y reunir pruebas para recurrirla\", dijo."
               },
               {
                 "t": "p",
-                "x": "El Sindicato de Docentes de Gyeonggi emitió un comunicado el día 26 del mes pasado en el que afirmó que “cada vez que surge un nuevo riesgo de trampas, la obligación de verificar y la responsabilidad legal y administrativa recaen sobre cada docente”, y pidió criterios de distinción y un sistema para gestionar disputas."
+                "x": "La tecnología funciona en Adelaida desde 2021. La revisión más reciente del ayuntamiento de Adelaida halló que los vehículos Park Safe emitieron más de 27,000 multas en los tres primeros trimestres del ejercicio 2025-26; los conductores presentaron 2353 solicitudes de revisión y 702 multas acabaron anuladas."
               },
               {
                 "t": "p",
-                "x": "Las autoridades educativas prevén asignar 1 inspector dedicado a identificar gafas inteligentes en cada sede del Suneung. El Instituto Coreano de Currículo y Evaluación clasifica las gafas inteligentes como objetos prohibidos en las sedes de examen. El presidente Lee Jae-myung también ordenó, en una reunión con sus principales secretarios el día 5, bloquear las trampas con gafas inteligentes y otros dispositivos avanzados."
+                "x": "\"La proporción de multas recurridas que se anulan demuestra que algo no funciona en el sistema actual\", dijo Malinauskas. Los ayuntamientos podrán seguir usando tecnología de cámaras para detectar posibles infracciones de estacionamiento."
               }
             ]
           }

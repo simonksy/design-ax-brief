@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "광고 운영, 에이전트에 한 칸씩",
+    "date": "2026.11.08",
+    "section": "MARKETING",
+    "accent": "#ff8a3d",
+    "note": "원문 4건 대조(Supermetrics 6곳·기본 일시정지, TTD×Dstillery 4일→몇 분·바이어 의심, Roku 9건 전부 목표 CPA 이하·중앙값 38%, Swivel 한두 개 에이전트 인용). 원문 게재일은 11.03·11.04·11.04·11.06 — 장 날짜는 카드 날짜. 11-06·11-07 마케팅 trend(AI 답변 광고·에이전트 결제)와 겹치지 않게 골랐고 카카오 AI 크루는 story라 뺐다. 사진은 Supermetrics 한 장만.",
+    "sources": [
+      "PPC Land — Supermetrics lets Claude build ad campaigns on 6 platforms, paused by default (2026.11.03)",
+      "Adweek — The Trade Desk and Dstillery Link AI Agents to Reshape Audiences Mid-Campaign (2026.11.04)",
+      "Media Play News — Roku Beta Launches AI-Driven Advertising Platform (2026.11.04)",
+      "AdExchanger — Swivel Wants To Create Agentic Infrastructure For CTV (2026.11.06)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 마케팅 · 11.04~11.08",
+      "thread": [
+        {
+          "d": "11.04",
+          "t": "캠페인",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.05",
+          "t": "오디언스",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.05",
+          "t": "CTV 성과",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.08",
+          "t": "CTV 운영",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        }
+      ],
+      "thread_note": "광고 운영이 AI 에이전트에게 한 칸씩 넘어가지만, 켜는 손은 아직 사람이다",
+      "eyebrow": "흐름 · 마케팅",
+      "headline": "광고 운영,\n에이전트에 한 칸씩",
+      "body": "한 건씩 보면 신제품 소식이다. 묶으면 캠페인 제작·타기팅·최적화가 차례로 에이전트에 넘어가는데, 켜는 손은 사람이다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.04",
+      "headline": "Claude가 짠 광고,\n일단 멈춤",
+      "body": "Supermetrics로 Claude가 Google·Meta 등 여섯 플랫폼에 캠페인을 만든다. 새 캠페인은 사람이 승인해야 켜진다.",
+      "foot": "2026.11.04",
+      "_src": "https://ppc.land/supermetrics-lets-claude-build-ad-campaigns-on-6-platforms-paused-by-default/",
+      "_id": "supermetrics-claude-campaigns",
+      "media": "pipeline/media/supermetrics-claude-campaigns.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.05",
+      "headline": "오디언스 제작,\n나흘에서 몇 분",
+      "body": "The Trade Desk·Dstillery 에이전트가 캠페인 도중 오디언스를 새로 짠다. 바이어는 지출만 늘까 의심한다.",
+      "foot": "2026.11.05",
+      "_src": "https://www.adweek.com/programmatic/the-trade-desk-and-dstillery-link-ai-agents-to-reshape-audiences-mid-campaign/",
+      "_id": "tradedesk-dstillery-agents",
+      "stat_top": "4일",
+      "stat_arrow": "커스텀 오디언스 만드는 시간",
+      "stat_bottom": "몇 분",
+      "stat_strike": true
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.05",
+      "headline": "Roku 성과형 광고\n베타 9건 모두 통과",
+      "body": "Roku Outcomes 베타에서 외부 광고주 9건이 모두 목표 CPA 이하였다. 중앙값은 목표보다 38% 낮았다.",
+      "foot": "2026.11.05",
+      "_src": "https://www.mediaplaynews.com/roku-beta-launches-ai-driven-advertising-platform/",
+      "_id": "roku-outcomes-ctv-beta",
+      "stat_top": "외부 광고주 9건",
+      "stat_arrow": "목표 CPA 대비 중앙값",
+      "stat_bottom": "38% 낮음",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.11.08",
+      "headline": "매체사는 에이전트\n한두 개만 쓴다",
+      "body": "Swivel은 예산·입찰·페이싱·리포트를 맡는 에이전트를 따로 둔다. 매체사 다수는 그중 한두 개만 골라 쓴다.",
+      "foot": "2026.11.08",
+      "_src": "https://www.adexchanger.com/ctv-roundup/swivel-wants-to-create-agentic-infrastructure-for-ctv/",
+      "_id": "swivel-ctv-agentic-infra",
+      "quote": "광고 운영 흐름 전체를\n흔들지 않도록",
+      "quote_by": "Joseph Hirsch · Swivel 공동창업자"
+    },
+    {
+      "n": 6,
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": ""
+    }
+  ]
+}

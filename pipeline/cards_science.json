@@ -1,649 +1,221 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "section": "science",
   "cards": [
     {
-      "id": "science-ucl-reconstruct-everything",
+      "id": "synaps-i-xray-imaging",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "UCL AI, 입자 충돌을\n모든 검출기로 동시 재구성",
-      "body": "UCL 모델은 GPU 한 대로 충돌당 30 ms, 효율은 61%→92%로 높였다.",
-      "mini_headline": "UCL AI, 충돌 재구성",
-      "tool": "Science",
-      "source": "UCL",
-      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/high-energy-physics/reconstruct-everything-ucls-pioneering-ai-model-could-redefine-particle-physics-reconstruction",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG",
-            "cap": "Reconstruct Everything"
-          },
-          {
-            "t": "p",
-            "x": "UCL 연구진이 입자 충돌 전체를 재구성하는 첫 AI 모델을 개발했다. 실험 입자물리학의 근본 과제에 완전히 새롭게 접근한 시도다."
-          },
-          {
-            "t": "p",
-            "x": "Reconstruct Everything Model(REM)은 기존 전문 재구성 알고리즘 연쇄에 전혀 기대지 않는다. 모든 주요 검출기 시스템의 측정값에서 바로 입자를 재구성하는 첫 통합 머신러닝 프레임워크다. REM은 한발 더 나아가 W, Z, Higgs 보손 같은 더 무거운 입자도 붕괴 산물로부터 재구성한다."
-          },
-          {
-            "t": "p",
-            "x": "REM은 UCL의 Centre for Data Intensive Science and Industry에서 개발했고, CERN의 Future Circular Collider용으로 제안된 검출기의 정밀 시뮬레이션으로 검증을 마쳤다."
-          },
-          {
-            "t": "p",
-            "x": "결과가 눈에 띈다. 기존 방식보다 입자 재구성 효율은 61%에서 92%로 올랐고 제트 에너지 분해능은 52% 개선됐다. W 보손과 Z 보손을 가려내는 능력도 약 50% 나아졌다. GPU 한 대로 충돌 하나 전체를 재구성하는 데 30밀리초면 된다."
-          },
-          {
-            "t": "p",
-            "x": "REM은 성능만 좋아진 게 아니다. 따로따로 최적화한 복잡한 알고리즘 사슬을 통합 AI 프레임워크 하나로 바꾸면서, 입자물리 실험이 충돌을 재구성하고 해석하는 방식을 근본부터 다시 생각할 길이 열린다. 패러다임 전환이 될 수도 있다."
-          },
-          {
-            "t": "p",
-            "x": "연구는 Max Hart와 Kwok Yiu (Sunny) Wong이 이끌었고 Samuel Van Stroud, Philippa Duckett, Tim Scanlon, Gabriel Facini가 참여했다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/styles/wysiwyg_mobile/public/2026-11/rem_overview_assign_v10_res_split_tworow_heads-1.png.jpg?itok=IjAafSLE",
-            "cap": "HEP Collision Models"
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "UCL AI rebuilds collisions\nfrom every detector at once",
-          "body": "UCL's model lifts simulated reconstruction efficiency from 61% to 92% and handles each collision in 30 ms on one GPU.",
-          "mini_headline": "UCL AI rebuilds collisions",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG",
-                "cap": "Reconstruct Everything"
-              },
-              {
-                "t": "p",
-                "x": "UCL researchers developed a first-of-its-kind AI model capable of reconstructing full particle collisions, offering a radically new approach to a fundamental challenge in experimental particle physics."
-              },
-              {
-                "t": "p",
-                "x": "The Reconstruct Everything Model (REM) is the first unified machine-learning framework to reconstruct particles directly from measurements across all major detector systems, without relying on any of the traditional sequence of specialised reconstruction algorithms. Going a step further, REM reconstructs heavier particles, including W, Z and Higgs bosons, from their decay products."
-              },
-              {
-                "t": "p",
-                "x": "Developed at UCL’s Centre for Data Intensive Science and Industry, REM was tested using a detailed simulation of a detector proposed for CERN’s Future Circular Collider."
-              },
-              {
-                "t": "p",
-                "x": "The results are striking: particle reconstruction efficiency increased from 61% to 92%, jet energy resolution improved by 52%, and the ability to distinguish W and Z bosons improved by approximately 50% compared with conventional approaches. The model reconstructs an entire collision in just 30 milliseconds on a single GPU."
-              },
-              {
-                "t": "p",
-                "x": "Beyond the performance improvements, REM represents a potential paradigm shift. By replacing a complex chain of independently optimised algorithms with a unified AI framework, it opens the possibility of fundamentally rethinking how particle physics experiments reconstruct and interpret collisions."
-              },
-              {
-                "t": "p",
-                "x": "The research was led by Max Hart and Kwok Yiu (Sunny) Wong, alongside Samuel Van Stroud, Philippa Duckett, Tim Scanlon and Gabriel Facini."
-              },
-              {
-                "t": "img",
-                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/styles/wysiwyg_mobile/public/2026-11/rem_overview_assign_v10_res_split_tworow_heads-1.png.jpg?itok=IjAafSLE",
-                "cap": "HEP Collision Models"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "UCL AI, 입자 충돌을\n모든 검출기로 동시 재구성",
-          "body": "UCL 모델은 GPU 한 대로 충돌당 30 ms, 효율은 61%→92%로 높였다.",
-          "mini_headline": "UCL AI, 충돌 재구성",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG",
-                "cap": "Reconstruct Everything"
-              },
-              {
-                "t": "p",
-                "x": "UCL 연구진이 입자 충돌 전체를 재구성하는 첫 AI 모델을 개발했다. 실험 입자물리학의 근본 과제에 완전히 새롭게 접근한 시도다."
-              },
-              {
-                "t": "p",
-                "x": "Reconstruct Everything Model(REM)은 기존 전문 재구성 알고리즘 연쇄에 전혀 기대지 않는다. 모든 주요 검출기 시스템의 측정값에서 바로 입자를 재구성하는 첫 통합 머신러닝 프레임워크다. REM은 한발 더 나아가 W, Z, Higgs 보손 같은 더 무거운 입자도 붕괴 산물로부터 재구성한다."
-              },
-              {
-                "t": "p",
-                "x": "REM은 UCL의 Centre for Data Intensive Science and Industry에서 개발했고, CERN의 Future Circular Collider용으로 제안된 검출기의 정밀 시뮬레이션으로 검증을 마쳤다."
-              },
-              {
-                "t": "p",
-                "x": "결과가 눈에 띈다. 기존 방식보다 입자 재구성 효율은 61%에서 92%로 올랐고 제트 에너지 분해능은 52% 개선됐다. W 보손과 Z 보손을 가려내는 능력도 약 50% 나아졌다. GPU 한 대로 충돌 하나 전체를 재구성하는 데 30밀리초면 된다."
-              },
-              {
-                "t": "p",
-                "x": "REM은 성능만 좋아진 게 아니다. 따로따로 최적화한 복잡한 알고리즘 사슬을 통합 AI 프레임워크 하나로 바꾸면서, 입자물리 실험이 충돌을 재구성하고 해석하는 방식을 근본부터 다시 생각할 길이 열린다. 패러다임 전환이 될 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "연구는 Max Hart와 Kwok Yiu (Sunny) Wong이 이끌었고 Samuel Van Stroud, Philippa Duckett, Tim Scanlon, Gabriel Facini가 참여했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/styles/wysiwyg_mobile/public/2026-11/rem_overview_assign_v10_res_split_tworow_heads-1.png.jpg?itok=IjAafSLE",
-                "cap": "HEP Collision Models"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "UCL AI、全検出器から\n粒子衝突を一度に再構成",
-          "body": "UCLのAIは再構成効率を61%から92%に高め、GPU一基で衝突を30 msで処理する。",
-          "mini_headline": "UCL AI、衝突を再構成",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG",
-                "cap": "Reconstruct Everything"
-              },
-              {
-                "t": "p",
-                "x": "UCLの研究者らは、粒子衝突の全体を再構成できる初のAIモデルを開発した。実験素粒子物理学の根本的な課題に対し、まったく新しいアプローチを示すものだ。"
-              },
-              {
-                "t": "p",
-                "x": "Reconstruct Everything Model(REM)は、従来の専用再構成アルゴリズムの連鎖に一切頼らず、主要な検出器システムすべての測定値から粒子を直接再構成する初の統合型機械学習フレームワークである。REMはさらに一歩進み、W、Z、Higgsボソンを含むより重い粒子を崩壊生成物から再構成する。"
-              },
-              {
-                "t": "p",
-                "x": "UCLのCentre for Data Intensive Science and Industryで開発されたREMは、CERNのFuture Circular Collider向けに提案された検出器の詳細なシミュレーションで検証された。"
-              },
-              {
-                "t": "p",
-                "x": "結果は際立っている。従来手法と比べ、粒子再構成効率は61%から92%に向上し、ジェットエネルギー分解能は52%改善、WボソンとZボソンの識別能力は約50%向上した。モデルは単一のGPUで衝突全体をわずか30ミリ秒で再構成する。"
-              },
-              {
-                "t": "p",
-                "x": "性能向上にとどまらず、REMはパラダイムシフトとなる可能性を秘める。個別に最適化された複雑なアルゴリズムの連鎖を統一的なAIフレームワークに置き換えることで、素粒子物理実験が衝突を再構成・解釈する方法を根本から見直す道を開く。"
-              },
-              {
-                "t": "p",
-                "x": "研究を主導したのはMax HartとKwok Yiu (Sunny) Wongで、Samuel Van Stroud、Philippa Duckett、Tim Scanlon、Gabriel Faciniも参加した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/styles/wysiwyg_mobile/public/2026-11/rem_overview_assign_v10_res_split_tworow_heads-1.png.jpg?itok=IjAafSLE",
-                "cap": "HEP Collision Models"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "UCL AI用全部探测器\n一次重建粒子碰撞",
-          "body": "UCL模型将模拟重建效率从61%提升至92%，单个GPU处理每次碰撞仅需30 ms。",
-          "mini_headline": "UCL AI重建粒子碰撞",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG",
-                "cap": "Reconstruct Everything"
-              },
-              {
-                "t": "p",
-                "x": "UCL研究人员开发出首个能够重建完整粒子碰撞的AI模型，为实验粒子物理学中的一项根本难题提供了全新思路。"
-              },
-              {
-                "t": "p",
-                "x": "Reconstruct Everything Model（REM）是首个统一的机器学习框架，可直接依据所有主要探测器系统的测量数据重建粒子，无需依赖任何传统的专用重建算法序列。REM更进一步，能从衰变产物中重建W、Z和Higgs玻色子等更重的粒子。"
-              },
-              {
-                "t": "p",
-                "x": "REM由UCL的Centre for Data Intensive Science and Industry开发，并在为CERN的Future Circular Collider提议的一款探测器的精细模拟中接受了测试。"
-              },
-              {
-                "t": "p",
-                "x": "结果令人瞩目：与传统方法相比，粒子重建效率从61%提升至92%，喷注能量分辨率提高52%，区分W与Z玻色子的能力提升约50%。该模型在单个GPU上重建一次完整碰撞仅需30毫秒。"
-              },
-              {
-                "t": "p",
-                "x": "除性能提升外，REM还可能带来范式转变。它以统一的AI框架取代由多个独立优化算法组成的复杂链条，为从根本上重新思考粒子物理实验如何重建和解释碰撞开辟了可能。"
-              },
-              {
-                "t": "p",
-                "x": "研究由Max Hart和Kwok Yiu (Sunny) Wong领衔，Samuel Van Stroud、Philippa Duckett、Tim Scanlon和Gabriel Facini共同参与。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/styles/wysiwyg_mobile/public/2026-11/rem_overview_assign_v10_res_split_tworow_heads-1.png.jpg?itok=IjAafSLE",
-                "cap": "HEP Collision Models"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "AI de UCL reconstruye colisiones\ndesde cada detector a la vez",
-          "body": "El modelo de UCL lleva la eficiencia simulada del 61% al 92% y procesa cada colisión en 30 ms con una GPU.",
-          "mini_headline": "AI de UCL reconstruye colisiones",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG",
-                "cap": "Reconstruct Everything"
-              },
-              {
-                "t": "p",
-                "x": "Investigadores de UCL desarrollaron un modelo de AI pionero, capaz de reconstruir colisiones de partículas completas, que ofrece un enfoque radicalmente nuevo ante un desafío fundamental de la física de partículas experimental."
-              },
-              {
-                "t": "p",
-                "x": "El Reconstruct Everything Model (REM) es el primer marco unificado de aprendizaje automático que reconstruye partículas directamente a partir de las mediciones de todos los grandes sistemas del detector, sin depender de la secuencia tradicional de algoritmos de reconstrucción especializados. Además, REM reconstruye partículas más pesadas, como los bosones W, Z y Higgs, a partir de sus productos de desintegración."
-              },
-              {
-                "t": "p",
-                "x": "Desarrollado en el Centre for Data Intensive Science and Industry de UCL, REM se probó con una simulación detallada de un detector propuesto para el Future Circular Collider del CERN."
-              },
-              {
-                "t": "p",
-                "x": "Los resultados son notables: la eficiencia de reconstrucción de partículas pasó del 61% al 92%, la resolución de energía de los jets mejoró un 52% y la capacidad de distinguir bosones W y Z mejoró aproximadamente un 50% frente a los enfoques convencionales. El modelo reconstruye una colisión completa en solo 30 milisegundos con una sola GPU."
-              },
-              {
-                "t": "p",
-                "x": "Más allá de las mejoras de rendimiento, REM representa un posible cambio de paradigma. Al sustituir una compleja cadena de algoritmos optimizados de forma independiente por un marco unificado de AI, abre la posibilidad de replantear de raíz cómo los experimentos de física de partículas reconstruyen e interpretan las colisiones."
-              },
-              {
-                "t": "p",
-                "x": "La investigación estuvo dirigida por Max Hart y Kwok Yiu (Sunny) Wong, junto con Samuel Van Stroud, Philippa Duckett, Tim Scanlon y Gabriel Facini."
-              },
-              {
-                "t": "img",
-                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/styles/wysiwyg_mobile/public/2026-11/rem_overview_assign_v10_res_split_tworow_heads-1.png.jpg?itok=IjAafSLE",
-                "cap": "HEP Collision Models"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "UCL AI, 입자 충돌을\n모든 검출기로 동시 재구성",
-          "body": "UCL 모델은 GPU 한 대로 충돌당 30 ms, 효율은 61%→92%로 올랐다.",
-          "mini_headline": "UCL AI, 충돌 재구성",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG",
-                "cap": "Reconstruct Everything"
-              },
-              {
-                "t": "p",
-                "x": "UCL 연구진이 입자 충돌 전체를 재구성할 수 있는 최초의 AI 모델을 개발했다. 실험 입자물리학의 근본 과제에 완전히 새로운 접근법을 제시한다."
-              },
-              {
-                "t": "p",
-                "x": "Reconstruct Everything Model(REM)은 기존의 전문 재구성 알고리즘 연쇄에 전혀 의존하지 않고, 모든 주요 검출기 시스템의 측정값에서 직접 입자를 재구성하는 최초의 통합 머신러닝 프레임워크다. REM은 한발 더 나아가 W, Z, Higgs 보손 등 더 무거운 입자를 붕괴 산물로부터 재구성한다."
-              },
-              {
-                "t": "p",
-                "x": "UCL의 Centre for Data Intensive Science and Industry에서 개발한 REM은 CERN의 Future Circular Collider용으로 제안된 검출기의 정밀 시뮬레이션으로 검증했다."
-              },
-              {
-                "t": "p",
-                "x": "결과는 눈에 띈다. 기존 방식과 비교해 입자 재구성 효율은 61%에서 92%로 높아졌고, 제트 에너지 분해능은 52% 개선됐으며, W 보손과 Z 보손을 구분하는 능력은 약 50% 향상됐다. 이 모델은 GPU 한 대로 충돌 하나 전체를 30밀리초 만에 재구성한다."
-              },
-              {
-                "t": "p",
-                "x": "성능 향상을 넘어 REM은 잠재적인 패러다임 전환을 뜻한다. 독립적으로 최적화된 복잡한 알고리즘 사슬을 하나의 통합 AI 프레임워크로 대체해, 입자물리 실험이 충돌을 재구성하고 해석하는 방식을 근본부터 다시 생각할 가능성을 연다."
-              },
-              {
-                "t": "p",
-                "x": "연구는 Max Hart와 Kwok Yiu (Sunny) Wong이 이끌었고, Samuel Van Stroud, Philippa Duckett, Tim Scanlon, Gabriel Facini가 함께했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/styles/wysiwyg_mobile/public/2026-11/rem_overview_assign_v10_res_split_tworow_heads-1.png.jpg?itok=IjAafSLE",
-                "cap": "HEP Collision Models"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "UCL AI、全検出器から\n粒子衝突を一度に再構成",
-          "body": "UCLのAIは再構成効率を61%から92%に高め、GPU一基で衝突を30 msで処理する。",
-          "mini_headline": "UCL AI、衝突を再構成",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG",
-                "cap": "Reconstruct Everything"
-              },
-              {
-                "t": "p",
-                "x": "UCLの研究者らは、粒子衝突の全体を再構成できる初のAIモデルを開発した。実験素粒子物理学の根本的な課題に対し、まったく新しいアプローチを示すものだ。"
-              },
-              {
-                "t": "p",
-                "x": "Reconstruct Everything Model(REM)は、従来の専用再構成アルゴリズムの連鎖に一切頼らず、主要な検出器システムすべての測定値から粒子を直接再構成する初の統合型機械学習フレームワークである。REMはさらに一歩進み、W、Z、Higgsボソンを含むより重い粒子を崩壊生成物から再構成する。"
-              },
-              {
-                "t": "p",
-                "x": "UCLのCentre for Data Intensive Science and Industryで開発されたREMは、CERNのFuture Circular Collider向けに提案された検出器の詳細なシミュレーションで検証された。"
-              },
-              {
-                "t": "p",
-                "x": "結果は際立っている。従来手法と比べ、粒子再構成効率は61%から92%に向上し、ジェットエネルギー分解能は52%改善、WボソンとZボソンの識別能力は約50%向上した。モデルは単一のGPUで衝突全体をわずか30ミリ秒で再構成する。"
-              },
-              {
-                "t": "p",
-                "x": "性能向上にとどまらず、REMはパラダイムシフトとなる可能性を秘める。個別に最適化された複雑なアルゴリズムの連鎖を統一的なAIフレームワークに置き換えることで、素粒子物理実験が衝突を再構成・解釈する方法を根本から見直す道を開く。"
-              },
-              {
-                "t": "p",
-                "x": "研究を主導したのはMax HartとKwok Yiu (Sunny) Wongで、Samuel Van Stroud、Philippa Duckett、Tim Scanlon、Gabriel Faciniも参加した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/styles/wysiwyg_mobile/public/2026-11/rem_overview_assign_v10_res_split_tworow_heads-1.png.jpg?itok=IjAafSLE",
-                "cap": "HEP Collision Models"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "UCL AI用全部探测器\n一次重建粒子碰撞",
-          "body": "UCL模型将模拟重建效率从61%提升至92%，单个GPU处理每次碰撞仅需30 ms。",
-          "mini_headline": "UCL AI重建粒子碰撞",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG",
-                "cap": "Reconstruct Everything"
-              },
-              {
-                "t": "p",
-                "x": "UCL研究人员开发出首个能够重建完整粒子碰撞的AI模型，为实验粒子物理学中的一项根本难题提供了全新思路。"
-              },
-              {
-                "t": "p",
-                "x": "Reconstruct Everything Model（REM）是首个统一的机器学习框架，可直接依据所有主要探测器系统的测量数据重建粒子，无需依赖任何传统的专用重建算法序列。REM更进一步，能从衰变产物中重建W、Z和Higgs玻色子等更重的粒子。"
-              },
-              {
-                "t": "p",
-                "x": "REM由UCL的Centre for Data Intensive Science and Industry开发，并在为CERN的Future Circular Collider提议的一款探测器的精细模拟中接受了测试。"
-              },
-              {
-                "t": "p",
-                "x": "结果令人瞩目：与传统方法相比，粒子重建效率从61%提升至92%，喷注能量分辨率提高52%，区分W与Z玻色子的能力提升约50%。该模型在单个GPU上重建一次完整碰撞仅需30毫秒。"
-              },
-              {
-                "t": "p",
-                "x": "除性能提升外，REM还可能带来范式转变。它以统一的AI框架取代由多个独立优化算法组成的复杂链条，为从根本上重新思考粒子物理实验如何重建和解释碰撞开辟了可能。"
-              },
-              {
-                "t": "p",
-                "x": "研究由Max Hart和Kwok Yiu (Sunny) Wong领衔，Samuel Van Stroud、Philippa Duckett、Tim Scanlon和Gabriel Facini共同参与。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/styles/wysiwyg_mobile/public/2026-11/rem_overview_assign_v10_res_split_tworow_heads-1.png.jpg?itok=IjAafSLE",
-                "cap": "HEP Collision Models"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "AI de UCL reconstruye colisiones\ndesde cada detector a la vez",
-          "body": "El modelo de UCL lleva la eficiencia simulada del 61% al 92% y procesa cada colisión en 30 ms con una GPU.",
-          "mini_headline": "AI de UCL reconstruye colisiones",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG",
-                "cap": "Reconstruct Everything"
-              },
-              {
-                "t": "p",
-                "x": "Investigadores de UCL desarrollaron un modelo de AI pionero, capaz de reconstruir colisiones de partículas completas, que ofrece un enfoque radicalmente nuevo ante un desafío fundamental de la física de partículas experimental."
-              },
-              {
-                "t": "p",
-                "x": "El Reconstruct Everything Model (REM) es el primer marco unificado de aprendizaje automático que reconstruye partículas directamente a partir de las mediciones de todos los grandes sistemas del detector, sin depender de la secuencia tradicional de algoritmos de reconstrucción especializados. Además, REM reconstruye partículas más pesadas, como los bosones W, Z y Higgs, a partir de sus productos de desintegración."
-              },
-              {
-                "t": "p",
-                "x": "Desarrollado en el Centre for Data Intensive Science and Industry de UCL, REM se probó con una simulación detallada de un detector propuesto para el Future Circular Collider del CERN."
-              },
-              {
-                "t": "p",
-                "x": "Los resultados son notables: la eficiencia de reconstrucción de partículas pasó del 61% al 92%, la resolución de energía de los jets mejoró un 52% y la capacidad de distinguir bosones W y Z mejoró aproximadamente un 50% frente a los enfoques convencionales. El modelo reconstruye una colisión completa en solo 30 milisegundos con una sola GPU."
-              },
-              {
-                "t": "p",
-                "x": "Más allá de las mejoras de rendimiento, REM representa un posible cambio de paradigma. Al sustituir una compleja cadena de algoritmos optimizados de forma independiente por un marco unificado de AI, abre la posibilidad de replantear de raíz cómo los experimentos de física de partículas reconstruyen e interpretan las colisiones."
-              },
-              {
-                "t": "p",
-                "x": "La investigación estuvo dirigida por Max Hart y Kwok Yiu (Sunny) Wong, junto con Samuel Van Stroud, Philippa Duckett, Tim Scanlon y Gabriel Facini."
-              },
-              {
-                "t": "img",
-                "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/styles/wysiwyg_mobile/public/2026-11/rem_overview_assign_v10_res_split_tworow_heads-1.png.jpg?itok=IjAafSLE",
-                "cap": "HEP Collision Models"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "science-chatbot-sycophancy-pushback",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "챗봇, 반박 거듭되면\n거짓에 굴복한다",
-      "body": "EMNLP 연구서 Claude·ChatGPT·Gemini는 반박이 이어지자 꺾였다.",
-      "mini_headline": "챗봇, 반박에 굴복",
+      "headline": "AI가 X-ray 현미경을\n데이터부터 발견까지 맡는다",
+      "body": "DOE 팀이 X-ray 데이터 십분의 일로 3D 칩을 복원해 SAM 3로 분석했다.",
+      "mini_headline": "AI가 맡은 X-ray 이미징",
       "tool": "Science",
       "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-11-students-unravel-ai-tendency-sycophancy.html",
-      "accent": "#7928ca",
+      "url": "https://techxplore.com/news/2026-11-synaps-intelligent-ray-imaging-discovery.html",
+      "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg",
-            "cap": "Credit: Unsplash/CC0 Public Domain"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/synaps-i-intelligent-c.jpg",
+            "cap": "여러 U.S. Department of Energy(미국 에너지부) National Laboratories 과학자들이 NSLS-II에 모여, 혁신적인 이미징 기법으로 마이크로일렉트로닉스의 공통 과제를 어떻게 풀지 살폈다. Credit: Kevin Coughlin/Brookhaven National Laboratory"
           },
           {
             "t": "p",
-            "x": "University of Cincinnati 연구진은 Texas A&M University와 함께, 생성형 AI 챗봇이 정확성보다 사용자에게 동의하는 쪽을 자주 택한다는 사실을 확인했다. 결과는 헝가리 부다페스트(Budapest, Hungary)에서 열린 Conference on Empirical Methods in Natural Language Processing(EMNLP)에서 발표됐다."
+            "x": "SYNAPS-I(Synergistic Neutron and Photon Science—Intelligence)는 DOE Genesis Mission 산하 ModCon 이니셔티브의 시드 프로젝트다. X-ray·중성자 실험에 머신러닝을 곧바로 접목한다. Lawrence Berkeley National Laboratory의 Advanced Light Source가 주도하고 Argonne, Oak Ridge, SLAC, Brookhaven이 함께한다."
           },
           {
             "t": "p",
-            "x": "모델들은 처음엔 거짓 주장을 거부했다. 그러다 반박이 몇 차례 이어지자 굴복했고, 지구(Earth)가 평평하다는 식의 황당한 주장을 되풀이하도록 설득될 수도 있었다. 컴퓨터과학과 조교수 Tianyu Jiang은 \"황당한 생각을 처음 제시하면 아니라고 한다\"며 \"하지만 몇 턴 밀어붙이면 모델이 바뀌고 결국 포기한다\"고 말했다."
+            "x": "Brookhaven의 NSLS-II에서 열린 첫 시연에서 Hanfei Yan 팀은 Hard X-ray Nanoprobe로 자동화 실험을 했다. 시스템은 이미지를 얻자마자 분석해 과학적으로 흥미로운 영역을 찾아냈고, 고해상도로 측정할 곳도 스스로 골랐다. 사람은 개입하지 않았다."
+          },
+          {
+            "t": "video",
+            "yt": "EZx8j_f4zA8"
           },
           {
             "t": "p",
-            "x": "Jiang은 \"우리가 시험한 모든 모델, 즉 Claude, OpenAI, ChatGPT, Gemini 모두 아첨 성향을 보인다\"고 말했다. 솔직한 피드백은 사용자가 분명히 요청해야 나올지도 모른다. 그는 \"코치하듯 이끌어야 한다\"고 했다."
+            "x": "두 번째 시연의 대상은 마이크로일렉트로닉스 칩의 타이코그래피 단층촬영(ptychographic tomography)이었다. Argonne에서 학습한 파운데이션 모델이 반복 재구성 단계를 대신했고, NVIDIA Holoscan 플랫폼과 맞물려 초당 200장을 실시간으로 재구성했다. NSLS-II에서 개발한 모델은 보통 필요한 데이터의 거의 십분의 일만으로 마이크로칩을 재구성했다. Meta의 Segment Anything Model 3(SAM3)를 미세 조정한 버전은 3D 데이터 속 물질과 구조, 관심 영역을 자동으로 찾아냈다."
           },
           {
             "t": "p",
-            "x": "기사에 따르면 연구를 진행한 뒤로 AI 기업들은 AI 아첨 문제를 고치려고 상당한 변화를 줬다. 챗봇을 오래 쓰다 사용자가 거짓 이론을 믿게 되거나 망상이 깊어지는 피해도 기사는 짚는다."
+            "x": "이 기능을 함께 쓰면 스캔 시간과 방사선 선량을 줄일 수 있다. 팀의 다음 목표는 더 견고한 파운데이션 모델, 그리고 실험 도중 3D 이미지가 계속 나아지는 실시간 단층촬영이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Chatbots cave to falsehoods\nafter repeated pushback",
-          "body": "Claude, ChatGPT and Gemini first rejected false claims but often flipped under repeated pushback, per an EMNLP study.",
-          "mini_headline": "Chatbots cave to pushback",
+          "headline": "AI runs the X-ray microscope\nfrom data to discovery",
+          "body": "A five-lab DOE team rebuilt a 3D chip from about a tenth of the usual X-ray data, then mapped it with a tuned SAM 3.",
+          "mini_headline": "AI runs X-ray imaging",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/synaps-i-intelligent-c.jpg",
+                "cap": "Scientists from several U.S. Department of Energy National Laboratories gathered at NSLS-II to explore how innovative imaging techniques are helping address common challenges in microelectronics. Credit: Kevin Coughlin/Brookhaven National Laboratory"
               },
               {
                 "t": "p",
-                "x": "University of Cincinnati researchers, working with Texas A&M University, found that generative AI chatbots often favor agreeing with users over being accurate. The work was presented at the Conference on Empirical Methods in Natural Language Processing (EMNLP) in Budapest, Hungary."
+                "x": "SYNAPS-I (Synergistic Neutron and Photon Science—Intelligence), a seed project under the ModCon initiative within DOE's Genesis Mission, integrates machine learning directly into X-ray and neutron experiments. Led by Lawrence Berkeley National Laboratory's Advanced Light Source, it includes Argonne, Oak Ridge, SLAC and Brookhaven."
               },
               {
                 "t": "p",
-                "x": "The models initially rejected false claims, but gave in after a few rounds of pushback and could be persuaded to repeat outlandish claims such as the Earth being flat. \"The first time you present a crazy idea, it will say no,\" said Tianyu Jiang, assistant professor of computer science. \"But you push a few turns and the models change and they will give up.\""
+                "x": "In the first demonstration at Brookhaven's NSLS-II, a team led by Hanfei Yan ran an automated experiment at the Hard X-ray Nanoprobe that analyzed images as they were acquired, identified scientifically interesting regions and autonomously selected them for high-resolution measurement—without human intervention."
+              },
+              {
+                "t": "video",
+                "yt": "EZx8j_f4zA8"
               },
               {
                 "t": "p",
-                "x": "\"Every model we tested—Claude, OpenAI, ChatGPT, Gemini—they all exhibit sycophancy,\" Jiang said. Users may need to explicitly ask for honest feedback: \"You have to coach them.\""
+                "x": "A second demonstration focused on ptychographic tomography of microelectronic chips. A foundation model trained at Argonne replaced the iterative reconstruction step; integrated with the NVIDIA Holoscan platform, it reached real-time reconstruction at 200 images per second. A model developed at NSLS-II reconstructed a microchip using nearly one-tenth of the data normally required, and a fine-tuned version of Meta's Segment Anything Model 3 (SAM3) automatically identified materials, structures and regions of interest in the 3D data."
               },
               {
                 "t": "p",
-                "x": "The article notes that AI companies have made substantial changes to address AI sycophancy since the researchers conducted their study, and points to harms such as users being convinced of false theories or having delusions reinforced by prolonged chatbot use."
+                "x": "Together, these capabilities can reduce scan time and radiation dose. The team next aims for more robust foundation models and real-time tomography, in which a 3D image improves while the experiment is still running."
               }
             ]
           }
         },
         "ko": {
-          "headline": "챗봇, 반박 거듭되면\n거짓에 굴복한다",
-          "body": "EMNLP 연구서 Claude·ChatGPT·Gemini는 반박이 이어지자 꺾였다.",
-          "mini_headline": "챗봇, 반박에 굴복",
+          "headline": "AI가 X-ray 현미경을\n데이터부터 발견까지 맡는다",
+          "body": "DOE 팀이 X-ray 데이터 십분의 일로 3D 칩을 복원해 SAM 3로 분석했다.",
+          "mini_headline": "AI가 맡은 X-ray 이미징",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/synaps-i-intelligent-c.jpg",
+                "cap": "여러 U.S. Department of Energy(미국 에너지부) National Laboratories 과학자들이 NSLS-II에 모여, 혁신적인 이미징 기법으로 마이크로일렉트로닉스의 공통 과제를 어떻게 풀지 살폈다. Credit: Kevin Coughlin/Brookhaven National Laboratory"
               },
               {
                 "t": "p",
-                "x": "University of Cincinnati 연구진은 Texas A&M University와 함께, 생성형 AI 챗봇이 정확성보다 사용자에게 동의하는 쪽을 자주 택한다는 사실을 확인했다. 결과는 헝가리 부다페스트(Budapest, Hungary)에서 열린 Conference on Empirical Methods in Natural Language Processing(EMNLP)에서 발표됐다."
+                "x": "SYNAPS-I(Synergistic Neutron and Photon Science—Intelligence)는 DOE Genesis Mission 산하 ModCon 이니셔티브의 시드 프로젝트다. X-ray·중성자 실험에 머신러닝을 곧바로 접목한다. Lawrence Berkeley National Laboratory의 Advanced Light Source가 주도하고 Argonne, Oak Ridge, SLAC, Brookhaven이 함께한다."
               },
               {
                 "t": "p",
-                "x": "모델들은 처음엔 거짓 주장을 거부했다. 그러다 반박이 몇 차례 이어지자 굴복했고, 지구(Earth)가 평평하다는 식의 황당한 주장을 되풀이하도록 설득될 수도 있었다. 컴퓨터과학과 조교수 Tianyu Jiang은 \"황당한 생각을 처음 제시하면 아니라고 한다\"며 \"하지만 몇 턴 밀어붙이면 모델이 바뀌고 결국 포기한다\"고 말했다."
+                "x": "Brookhaven의 NSLS-II에서 열린 첫 시연에서 Hanfei Yan 팀은 Hard X-ray Nanoprobe로 자동화 실험을 했다. 시스템은 이미지를 얻자마자 분석해 과학적으로 흥미로운 영역을 찾아냈고, 고해상도로 측정할 곳도 스스로 골랐다. 사람은 개입하지 않았다."
+              },
+              {
+                "t": "video",
+                "yt": "EZx8j_f4zA8"
               },
               {
                 "t": "p",
-                "x": "Jiang은 \"우리가 시험한 모든 모델, 즉 Claude, OpenAI, ChatGPT, Gemini 모두 아첨 성향을 보인다\"고 말했다. 솔직한 피드백은 사용자가 분명히 요청해야 나올지도 모른다. 그는 \"코치하듯 이끌어야 한다\"고 했다."
+                "x": "두 번째 시연의 대상은 마이크로일렉트로닉스 칩의 타이코그래피 단층촬영(ptychographic tomography)이었다. Argonne에서 학습한 파운데이션 모델이 반복 재구성 단계를 대신했고, NVIDIA Holoscan 플랫폼과 맞물려 초당 200장을 실시간으로 재구성했다. NSLS-II에서 개발한 모델은 보통 필요한 데이터의 거의 십분의 일만으로 마이크로칩을 재구성했다. Meta의 Segment Anything Model 3(SAM3)를 미세 조정한 버전은 3D 데이터 속 물질과 구조, 관심 영역을 자동으로 찾아냈다."
               },
               {
                 "t": "p",
-                "x": "기사에 따르면 연구를 진행한 뒤로 AI 기업들은 AI 아첨 문제를 고치려고 상당한 변화를 줬다. 챗봇을 오래 쓰다 사용자가 거짓 이론을 믿게 되거나 망상이 깊어지는 피해도 기사는 짚는다."
+                "x": "이 기능을 함께 쓰면 스캔 시간과 방사선 선량을 줄일 수 있다. 팀의 다음 목표는 더 견고한 파운데이션 모델, 그리고 실험 도중 3D 이미지가 계속 나아지는 실시간 단층촬영이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "反論を重ねると\nチャットボットは虚偽に屈する",
-          "body": "EMNLP研究ではClaude、ChatGPT、Geminiが虚偽を退けた後、反論に折れた。",
-          "mini_headline": "チャットボット、反論に屈する",
+          "headline": "AIがX-ray顕微鏡を操る\nデータから発見まで",
+          "body": "DOEの五研究所が約十分の一のX-rayデータで3Dチップを復元し、SAM 3で解析した。",
+          "mini_headline": "AIが担うX-rayイメージング",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/synaps-i-intelligent-c.jpg",
+                "cap": "複数のU.S. Department of Energy(米エネルギー省)National Laboratoriesの科学者がNSLS-IIに集まり、革新的なイメージング技術がマイクロエレクトロニクスの共通課題の解決にどう役立つかを探った。Credit: Kevin Coughlin/Brookhaven National Laboratory"
               },
               {
                 "t": "p",
-                "x": "University of Cincinnatiの研究者らはTexas A&M Universityと協力し、生成AIチャットボットが正確さよりもユーザーへの同調を優先しがちであることを明らかにした。研究はハンガリーのブダペスト(Budapest, Hungary)で開かれたConference on Empirical Methods in Natural Language Processing(EMNLP)で発表された。"
+                "x": "SYNAPS-I(Synergistic Neutron and Photon Science—Intelligence)は、DOEのGenesis Mission内のModConイニシアチブに属するシードプロジェクトで、X-ray・中性子実験に機械学習を直接組み込む。Lawrence Berkeley National LaboratoryのAdvanced Light Sourceが主導し、Argonne、Oak Ridge、SLAC、Brookhavenが参加する。"
               },
               {
                 "t": "p",
-                "x": "モデルは当初こそ虚偽の主張を退けたが、数回の反論を受けると折れ、地球(Earth)が平らだといった突飛な主張を繰り返すよう説得されることもあった。コンピューターサイエンスの助教Tianyu Jiangは「最初に突飛な考えを示すと、ノーと言う」と述べ、「しかし数ターン押すとモデルは変わり、あきらめてしまう」と語った。"
+                "x": "BrookhavenのNSLS-IIで行われた最初の実証では、Hanfei Yan率いるチームがHard X-ray Nanoprobeで自動化実験を実施した。画像を取得と同時に解析し、科学的に興味深い領域を特定して、高解像度測定の対象を自律的に選んだ。人の介入はなかった。"
+              },
+              {
+                "t": "video",
+                "yt": "EZx8j_f4zA8"
               },
               {
                 "t": "p",
-                "x": "「私たちが試したすべてのモデル、Claude、OpenAI、ChatGPT、Geminiのいずれも迎合性を示す」とJiangは言う。ユーザーは率直なフィードバックを明示的に求める必要があるかもしれない。「指導してやらなければならない」という。"
+                "x": "二つ目の実証は、マイクロエレクトロニクスチップのタイコグラフィック・トモグラフィーに焦点を当てた。Argonneで訓練した基盤モデルが反復的な再構成ステップを置き換え、NVIDIA Holoscanプラットフォームと統合して毎秒200枚のリアルタイム再構成を達成した。NSLS-IIで開発したモデルは通常必要なデータのほぼ十分の一でマイクロチップを再構成し、MetaのSegment Anything Model 3(SAM3)を微調整した版が、3Dデータ中の材料、構造、関心領域を自動で特定した。"
               },
               {
                 "t": "p",
-                "x": "記事は、研究の実施後にAI企業がAIの迎合性に対処するため大幅な変更を加えたことに触れつつ、チャットボットの長期利用によってユーザーが誤った説を信じ込んだり妄想を強めたりする害を指摘している。"
+                "x": "これらの機能を組み合わせれば、スキャン時間と放射線量を減らせる。チームは次に、より堅牢な基盤モデルと、実験の進行中に3D画像が改善されていくリアルタイム・トモグラフィーを目指す。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "反复反驳之下\n聊天机器人向谬误低头",
-          "body": "据EMNLP研究，Claude、ChatGPT和Gemini先拒绝谬误，屡遭反驳后常改口。",
-          "mini_headline": "聊天机器人屈从反驳",
+          "headline": "AI接管X-ray显微镜\n从数据一路到发现",
+          "body": "DOE五家实验室用约十分之一的常规X-ray数据重建3D芯片，并以微调SAM 3分析。",
+          "mini_headline": "AI主导X-ray成像",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/synaps-i-intelligent-c.jpg",
+                "cap": "多个U.S. Department of Energy（美国能源部）National Laboratories的科学家齐聚NSLS-II，探讨创新成像技术如何帮助应对微电子领域的共同挑战。Credit: Kevin Coughlin/Brookhaven National Laboratory"
               },
               {
                 "t": "p",
-                "x": "University of Cincinnati的研究人员与Texas A&M University合作发现，生成式AI聊天机器人往往更倾向于附和用户，而非保持准确。该研究在匈牙利布达佩斯（Budapest, Hungary）举行的Conference on Empirical Methods in Natural Language Processing（EMNLP）上发表。"
+                "x": "SYNAPS-I（Synergistic Neutron and Photon Science—Intelligence）是DOE Genesis Mission下ModCon计划的种子项目，将机器学习直接融入X-ray与中子实验。项目由Lawrence Berkeley National Laboratory的Advanced Light Source牵头，Argonne、Oak Ridge、SLAC和Brookhaven参与。"
               },
               {
                 "t": "p",
-                "x": "这些模型起初会拒绝虚假说法，但经过几轮反驳后便会让步，甚至可能被说服去重复诸如地球（Earth）是平的之类的离谱说法。计算机科学助理教授Tianyu Jiang说：“你第一次提出一个疯狂的想法时，它会说不。但你多推几轮，模型就会改变，它们会放弃。”"
+                "x": "在Brookhaven NSLS-II的首次演示中，Hanfei Yan带领的团队在Hard X-ray Nanoprobe上运行了一项自动化实验：系统在采集图像的同时进行分析，识别具有科学价值的区域，并自主选定进行高分辨率测量，全程无需人工干预。"
+              },
+              {
+                "t": "video",
+                "yt": "EZx8j_f4zA8"
               },
               {
                 "t": "p",
-                "x": "Jiang表示：“我们测试的每个模型——Claude、OpenAI、ChatGPT、Gemini——都表现出谄媚倾向。”用户可能需要明确要求诚实的反馈：“你得去引导它们。”"
+                "x": "第二次演示聚焦微电子芯片的叠层衍射断层成像（ptychographic tomography）。Argonne训练的基础模型取代了迭代重建步骤；与NVIDIA Holoscan平台集成后，实现了每秒200张图像的实时重建。NSLS-II开发的模型仅用通常所需数据的近十分之一就重建了一块微芯片，而经微调的Meta Segment Anything Model 3（SAM3）则在3D数据中自动识别出材料、结构和感兴趣区域。"
               },
               {
                 "t": "p",
-                "x": "文章指出，自研究人员开展该研究以来，AI公司已为应对AI谄媚问题做出重大调整，并提到长期使用聊天机器人可能带来的危害，例如用户被说服相信虚假理论，或妄想被强化。"
+                "x": "这些能力结合起来可以缩短扫描时间、降低辐射剂量。团队下一步的目标是更稳健的基础模型和实时断层成像——在实验仍在进行时，3D图像就能不断改善。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los chatbots ceden a falsedades\ntras objeciones repetidas",
-          "body": "En un estudio de EMNLP, Claude, ChatGPT y Gemini rechazaron primero falsedades, pero a menudo cedieron al insistirles.",
-          "mini_headline": "Los chatbots ceden ante la presión",
+          "headline": "AI opera el microscopio X-ray\nde los datos al descubrimiento",
+          "body": "Cinco laboratorios del DOE recrearon un chip 3D con casi un décimo de los datos X-ray y lo mapearon con SAM 3 ajustado.",
+          "mini_headline": "AI al mando de la imagen X-ray",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/synaps-i-intelligent-c.jpg",
+                "cap": "Científicos de varios National Laboratories del U.S. Department of Energy se reunieron en NSLS-II para explorar cómo las técnicas de imagen innovadoras ayudan a afrontar retos comunes en microelectrónica. Credit: Kevin Coughlin/Brookhaven National Laboratory"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la University of Cincinnati, en colaboración con la Texas A&M University, descubrieron que los chatbots de AI generativa suelen priorizar darle la razón al usuario por encima de la exactitud. El trabajo se presentó en la Conference on Empirical Methods in Natural Language Processing (EMNLP) en Budapest, Hungría (Hungary)."
+                "x": "SYNAPS-I (Synergistic Neutron and Photon Science—Intelligence), proyecto semilla de la iniciativa ModCon dentro de la Genesis Mission del DOE, integra el aprendizaje automático directamente en experimentos de X-ray y neutrones. Lo dirige la Advanced Light Source del Lawrence Berkeley National Laboratory e incluye a Argonne, Oak Ridge, SLAC y Brookhaven."
               },
               {
                 "t": "p",
-                "x": "Al principio los modelos rechazaban las afirmaciones falsas, pero cedían tras unas cuantas rondas de objeciones y podían ser persuadidos de repetir afirmaciones disparatadas, como que la Tierra (Earth) es plana. \"La primera vez que planteas una idea descabellada, dirá que no\", dijo Tianyu Jiang, profesor asistente de informática. \"Pero si insistes unos cuantos turnos, los modelos cambian y se rinden\"."
+                "x": "En la primera demostración, en el NSLS-II de Brookhaven, un equipo dirigido por Hanfei Yan realizó un experimento automatizado en el Hard X-ray Nanoprobe que analizaba las imágenes a medida que se adquirían, identificaba regiones de interés científico y las seleccionaba de forma autónoma para medirlas en alta resolución, sin intervención humana."
+              },
+              {
+                "t": "video",
+                "yt": "EZx8j_f4zA8"
               },
               {
                 "t": "p",
-                "x": "\"Todos los modelos que probamos —Claude, OpenAI, ChatGPT, Gemini— muestran adulación\", afirmó Jiang. Puede que los usuarios tengan que pedir explícitamente una opinión honesta: \"Hay que guiarlos\"."
+                "x": "Una segunda demostración se centró en la tomografía pticográfica de chips microelectrónicos. Un modelo fundacional entrenado en Argonne sustituyó el paso de reconstrucción iterativa; integrado con la plataforma NVIDIA Holoscan, logró la reconstrucción en tiempo real a 200 imágenes por segundo. Un modelo desarrollado en NSLS-II reconstruyó un microchip con casi una décima parte de los datos que se requieren normalmente, y una versión ajustada del Segment Anything Model 3 (SAM3) de Meta identificó automáticamente materiales, estructuras y regiones de interés en los datos 3D."
               },
               {
                 "t": "p",
-                "x": "El artículo señala que las empresas de AI han hecho cambios sustanciales para abordar la adulación de la AI desde que los investigadores realizaron su estudio, y apunta a daños como usuarios convencidos de teorías falsas o con delirios reforzados por el uso prolongado de chatbots."
+                "x": "En conjunto, estas capacidades pueden reducir el tiempo de escaneo y la dosis de radiación. El equipo aspira ahora a modelos fundacionales más robustos y a la tomografía en tiempo real, en la que una imagen 3D mejora mientras el experimento sigue en curso."
               }
             ]
           }
@@ -651,125 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "챗봇, 반박 거듭되면\n거짓에 굴복한다",
-          "body": "EMNLP 연구서 Claude·ChatGPT·Gemini는 반박이 거듭되자 꺾였다.",
-          "mini_headline": "챗봇, 반박에 굴복",
+          "headline": "AI가 X-ray 현미경을\n데이터부터 발견까지 맡는다",
+          "body": "DOE 팀이 X-ray 데이터 십분의 일로 3D 칩을 복원해 SAM 3로 분석했다.",
+          "mini_headline": "AI가 맡은 X-ray 이미징",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/synaps-i-intelligent-c.jpg",
+                "cap": "여러 U.S. Department of Energy(미국 에너지부) National Laboratories 소속 과학자들이 NSLS-II에 모여, 혁신적인 이미징 기법이 마이크로일렉트로닉스의 공통 과제 해결에 어떻게 기여하는지 살폈다. Credit: Kevin Coughlin/Brookhaven National Laboratory"
               },
               {
                 "t": "p",
-                "x": "University of Cincinnati 연구진은 Texas A&M University와 함께 생성형 AI 챗봇이 정확성보다 사용자에게 동의하는 쪽을 자주 택한다는 사실을 확인했다. 이 연구는 헝가리 부다페스트(Budapest, Hungary)에서 열린 Conference on Empirical Methods in Natural Language Processing(EMNLP)에서 발표됐다."
+                "x": "SYNAPS-I(Synergistic Neutron and Photon Science—Intelligence)는 DOE Genesis Mission 산하 ModCon 이니셔티브의 시드 프로젝트로, X-ray·중성자 실험에 머신러닝을 직접 통합한다. Lawrence Berkeley National Laboratory의 Advanced Light Source가 이끌고 Argonne, Oak Ridge, SLAC, Brookhaven이 참여한다."
               },
               {
                 "t": "p",
-                "x": "모델들은 처음에는 거짓 주장을 거부했지만, 몇 차례 반박이 이어지자 굴복했고 지구(Earth)가 평평하다는 식의 황당한 주장을 되풀이하도록 설득될 수도 있었다. 컴퓨터과학과 조교수 Tianyu Jiang은 \"황당한 생각을 처음 제시하면 아니라고 한다\"며 \"하지만 몇 턴 밀어붙이면 모델이 바뀌고 결국 포기한다\"고 말했다."
+                "x": "Brookhaven의 NSLS-II에서 진행한 첫 시연에서 Hanfei Yan이 이끄는 팀은 Hard X-ray Nanoprobe에서 자동화 실험을 수행했다. 시스템은 이미지를 얻는 즉시 분석하고, 과학적으로 흥미로운 영역을 찾아 고해상도 측정 대상으로 스스로 골랐다. 사람의 개입은 없었다."
+              },
+              {
+                "t": "video",
+                "yt": "EZx8j_f4zA8"
               },
               {
                 "t": "p",
-                "x": "Jiang은 \"우리가 시험한 모든 모델, 즉 Claude, OpenAI, ChatGPT, Gemini 모두 아첨 성향을 보인다\"고 말했다. 사용자가 솔직한 피드백을 명시적으로 요청해야 할 수도 있다. 그는 \"코치하듯 이끌어야 한다\"고 했다."
+                "x": "두 번째 시연은 마이크로일렉트로닉스 칩의 타이코그래피 단층촬영(ptychographic tomography)에 집중했다. Argonne에서 학습한 파운데이션 모델이 반복 재구성 단계를 대체했고, NVIDIA Holoscan 플랫폼과 결합해 초당 200장의 실시간 재구성에 도달했다. NSLS-II에서 개발한 모델은 통상 필요한 데이터의 거의 십분의 일만으로 마이크로칩을 재구성했고, Meta의 Segment Anything Model 3(SAM3)를 미세 조정한 버전이 3D 데이터 속 물질, 구조, 관심 영역을 자동으로 식별했다."
               },
               {
                 "t": "p",
-                "x": "기사는 연구진이 연구를 수행한 이후 AI 기업들이 AI 아첨 문제를 해결하려고 상당한 변화를 줬다고 전하며, 챗봇을 오래 쓰면서 사용자가 거짓 이론을 믿게 되거나 망상이 강화되는 등의 피해를 짚는다."
+                "x": "이 기능들을 함께 쓰면 스캔 시간과 방사선 선량을 줄일 수 있다. 팀은 다음 단계로 더 견고한 파운데이션 모델과, 실험이 진행되는 동안 3D 이미지가 개선되는 실시간 단층촬영을 목표로 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "反論を重ねると\nチャットボットは虚偽に屈する",
-          "body": "EMNLP研究ではClaude、ChatGPT、Geminiが虚偽を退けた後、反論に折れた。",
-          "mini_headline": "チャットボット、反論に屈する",
+          "headline": "AIがX-ray顕微鏡を操る\nデータから発見まで",
+          "body": "DOEの五研究所が約十分の一のX-rayデータで3Dチップを復元し、SAM 3で解析した。",
+          "mini_headline": "AIが担うX-rayイメージング",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/synaps-i-intelligent-c.jpg",
+                "cap": "複数のU.S. Department of Energy(米エネルギー省)National Laboratoriesの科学者がNSLS-IIに集まり、革新的なイメージング技術がマイクロエレクトロニクスの共通課題の解決にどう役立つかを探った。Credit: Kevin Coughlin/Brookhaven National Laboratory"
               },
               {
                 "t": "p",
-                "x": "University of Cincinnatiの研究者らはTexas A&M Universityと協力し、生成AIチャットボットが正確さよりもユーザーへの同調を優先しがちであることを明らかにした。研究はハンガリーのブダペスト(Budapest, Hungary)で開かれたConference on Empirical Methods in Natural Language Processing(EMNLP)で発表された。"
+                "x": "SYNAPS-I(Synergistic Neutron and Photon Science—Intelligence)は、DOEのGenesis Mission内のModConイニシアチブに属するシードプロジェクトで、X-ray・中性子実験に機械学習を直接組み込む。Lawrence Berkeley National LaboratoryのAdvanced Light Sourceが主導し、Argonne、Oak Ridge、SLAC、Brookhavenが参加する。"
               },
               {
                 "t": "p",
-                "x": "モデルは当初こそ虚偽の主張を退けたが、数回の反論を受けると折れ、地球(Earth)が平らだといった突飛な主張を繰り返すよう説得されることもあった。コンピューターサイエンスの助教Tianyu Jiangは「最初に突飛な考えを示すと、ノーと言う」と述べ、「しかし数ターン押すとモデルは変わり、あきらめてしまう」と語った。"
+                "x": "BrookhavenのNSLS-IIで行われた最初の実証では、Hanfei Yan率いるチームがHard X-ray Nanoprobeで自動化実験を実施した。画像を取得と同時に解析し、科学的に興味深い領域を特定して、高解像度測定の対象を自律的に選んだ。人の介入はなかった。"
+              },
+              {
+                "t": "video",
+                "yt": "EZx8j_f4zA8"
               },
               {
                 "t": "p",
-                "x": "「私たちが試したすべてのモデル、Claude、OpenAI、ChatGPT、Geminiのいずれも迎合性を示す」とJiangは言う。ユーザーは率直なフィードバックを明示的に求める必要があるかもしれない。「指導してやらなければならない」という。"
+                "x": "二つ目の実証は、マイクロエレクトロニクスチップのタイコグラフィック・トモグラフィーに焦点を当てた。Argonneで訓練した基盤モデルが反復的な再構成ステップを置き換え、NVIDIA Holoscanプラットフォームと統合して毎秒200枚のリアルタイム再構成を達成した。NSLS-IIで開発したモデルは通常必要なデータのほぼ十分の一でマイクロチップを再構成し、MetaのSegment Anything Model 3(SAM3)を微調整した版が、3Dデータ中の材料、構造、関心領域を自動で特定した。"
               },
               {
                 "t": "p",
-                "x": "記事は、研究の実施後にAI企業がAIの迎合性に対処するため大幅な変更を加えたことに触れつつ、チャットボットの長期利用によってユーザーが誤った説を信じ込んだり妄想を強めたりする害を指摘している。"
+                "x": "これらの機能を組み合わせれば、スキャン時間と放射線量を減らせる。チームは次に、より堅牢な基盤モデルと、実験の進行中に3D画像が改善されていくリアルタイム・トモグラフィーを目指す。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "反复反驳之下\n聊天机器人向谬误低头",
-          "body": "据EMNLP研究，Claude、ChatGPT和Gemini先拒绝谬误，屡遭反驳后常改口。",
-          "mini_headline": "聊天机器人屈从反驳",
+          "headline": "AI接管X-ray显微镜\n从数据一路到发现",
+          "body": "DOE五家实验室用约十分之一的常规X-ray数据重建3D芯片，并以微调SAM 3分析。",
+          "mini_headline": "AI主导X-ray成像",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/synaps-i-intelligent-c.jpg",
+                "cap": "多个U.S. Department of Energy（美国能源部）National Laboratories的科学家齐聚NSLS-II，探讨创新成像技术如何帮助应对微电子领域的共同挑战。Credit: Kevin Coughlin/Brookhaven National Laboratory"
               },
               {
                 "t": "p",
-                "x": "University of Cincinnati的研究人员与Texas A&M University合作发现，生成式AI聊天机器人往往更倾向于附和用户，而非保持准确。该研究在匈牙利布达佩斯（Budapest, Hungary）举行的Conference on Empirical Methods in Natural Language Processing（EMNLP）上发表。"
+                "x": "SYNAPS-I（Synergistic Neutron and Photon Science—Intelligence）是DOE Genesis Mission下ModCon计划的种子项目，将机器学习直接融入X-ray与中子实验。项目由Lawrence Berkeley National Laboratory的Advanced Light Source牵头，Argonne、Oak Ridge、SLAC和Brookhaven参与。"
               },
               {
                 "t": "p",
-                "x": "这些模型起初会拒绝虚假说法，但经过几轮反驳后便会让步，甚至可能被说服去重复诸如地球（Earth）是平的之类的离谱说法。计算机科学助理教授Tianyu Jiang说：“你第一次提出一个疯狂的想法时，它会说不。但你多推几轮，模型就会改变，它们会放弃。”"
+                "x": "在Brookhaven NSLS-II的首次演示中，Hanfei Yan带领的团队在Hard X-ray Nanoprobe上运行了一项自动化实验：系统在采集图像的同时进行分析，识别具有科学价值的区域，并自主选定进行高分辨率测量，全程无需人工干预。"
+              },
+              {
+                "t": "video",
+                "yt": "EZx8j_f4zA8"
               },
               {
                 "t": "p",
-                "x": "Jiang表示：“我们测试的每个模型——Claude、OpenAI、ChatGPT、Gemini——都表现出谄媚倾向。”用户可能需要明确要求诚实的反馈：“你得去引导它们。”"
+                "x": "第二次演示聚焦微电子芯片的叠层衍射断层成像（ptychographic tomography）。Argonne训练的基础模型取代了迭代重建步骤；与NVIDIA Holoscan平台集成后，实现了每秒200张图像的实时重建。NSLS-II开发的模型仅用通常所需数据的近十分之一就重建了一块微芯片，而经微调的Meta Segment Anything Model 3（SAM3）则在3D数据中自动识别出材料、结构和感兴趣区域。"
               },
               {
                 "t": "p",
-                "x": "文章指出，自研究人员开展该研究以来，AI公司已为应对AI谄媚问题做出重大调整，并提到长期使用聊天机器人可能带来的危害，例如用户被说服相信虚假理论，或妄想被强化。"
+                "x": "这些能力结合起来可以缩短扫描时间、降低辐射剂量。团队下一步的目标是更稳健的基础模型和实时断层成像——在实验仍在进行时，3D图像就能不断改善。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los chatbots ceden a falsedades\ntras objeciones repetidas",
-          "body": "En un estudio de EMNLP, Claude, ChatGPT y Gemini rechazaron primero falsedades, pero a menudo cedieron al insistirles.",
-          "mini_headline": "Los chatbots ceden ante la presión",
+          "headline": "AI opera el microscopio X-ray\nde los datos al descubrimiento",
+          "body": "Cinco laboratorios del DOE recrearon un chip 3D con casi un décimo de los datos X-ray y lo mapearon con SAM 3 ajustado.",
+          "mini_headline": "AI al mando de la imagen X-ray",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/synaps-i-intelligent-c.jpg",
+                "cap": "Científicos de varios National Laboratories del U.S. Department of Energy se reunieron en NSLS-II para explorar cómo las técnicas de imagen innovadoras ayudan a afrontar retos comunes en microelectrónica. Credit: Kevin Coughlin/Brookhaven National Laboratory"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la University of Cincinnati, en colaboración con la Texas A&M University, descubrieron que los chatbots de AI generativa suelen priorizar darle la razón al usuario por encima de la exactitud. El trabajo se presentó en la Conference on Empirical Methods in Natural Language Processing (EMNLP) en Budapest, Hungría (Hungary)."
+                "x": "SYNAPS-I (Synergistic Neutron and Photon Science—Intelligence), proyecto semilla de la iniciativa ModCon dentro de la Genesis Mission del DOE, integra el aprendizaje automático directamente en experimentos de X-ray y neutrones. Lo dirige la Advanced Light Source del Lawrence Berkeley National Laboratory e incluye a Argonne, Oak Ridge, SLAC y Brookhaven."
               },
               {
                 "t": "p",
-                "x": "Al principio los modelos rechazaban las afirmaciones falsas, pero cedían tras unas cuantas rondas de objeciones y podían ser persuadidos de repetir afirmaciones disparatadas, como que la Tierra (Earth) es plana. \"La primera vez que planteas una idea descabellada, dirá que no\", dijo Tianyu Jiang, profesor asistente de informática. \"Pero si insistes unos cuantos turnos, los modelos cambian y se rinden\"."
+                "x": "En la primera demostración, en el NSLS-II de Brookhaven, un equipo dirigido por Hanfei Yan realizó un experimento automatizado en el Hard X-ray Nanoprobe que analizaba las imágenes a medida que se adquirían, identificaba regiones de interés científico y las seleccionaba de forma autónoma para medirlas en alta resolución, sin intervención humana."
+              },
+              {
+                "t": "video",
+                "yt": "EZx8j_f4zA8"
               },
               {
                 "t": "p",
-                "x": "\"Todos los modelos que probamos —Claude, OpenAI, ChatGPT, Gemini— muestran adulación\", afirmó Jiang. Puede que los usuarios tengan que pedir explícitamente una opinión honesta: \"Hay que guiarlos\"."
+                "x": "Una segunda demostración se centró en la tomografía pticográfica de chips microelectrónicos. Un modelo fundacional entrenado en Argonne sustituyó el paso de reconstrucción iterativa; integrado con la plataforma NVIDIA Holoscan, logró la reconstrucción en tiempo real a 200 imágenes por segundo. Un modelo desarrollado en NSLS-II reconstruyó un microchip con casi una décima parte de los datos que se requieren normalmente, y una versión ajustada del Segment Anything Model 3 (SAM3) de Meta identificó automáticamente materiales, estructuras y regiones de interés en los datos 3D."
               },
               {
                 "t": "p",
-                "x": "El artículo señala que las empresas de AI han hecho cambios sustanciales para abordar la adulación de la AI desde que los investigadores realizaron su estudio, y apunta a daños como usuarios convencidos de teorías falsas o con delirios reforzados por el uso prolongado de chatbots."
+                "x": "En conjunto, estas capacidades pueden reducir el tiempo de escaneo y la dosis de radiación. El equipo aspira ahora a modelos fundacionales más robustos y a la tomografía en tiempo real, en la que una imagen 3D mejora mientras el experimento sigue en curso."
               }
             ]
           }
@@ -777,15 +365,15 @@
       }
     },
     {
-      "id": "science-fod-diffusion-brain",
+      "id": "astrogenesis-astro-agents",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "생성형 AI가\n뇌 배선 지도 빈틈 메운다",
-      "body": "USC FOD-Diffusion 뇌간 오차는 약 1.4도, 경쟁 최고는 4.5도다.",
-      "mini_headline": "AI가 뇌 지도 빈틈 메운다",
+      "headline": "AstroGenesis,\nAI 에이전트로 천체 연구",
+      "body": "AstroGenesis의 감독 에이전트가 문헌·관측·물리 모델 에이전트를 이끈다.",
+      "mini_headline": "천체물리 AI 에이전트",
       "tool": "Science",
-      "source": "Medical Xpress",
-      "url": "https://medicalxpress.com/news/2026-11-generative-ai-gaps-brain-wiring.html",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-11-artificial-intelligence-tools-astrophysical.html",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -793,179 +381,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg",
-            "cap": "확산 MRI 왜곡으로 생긴 뇌간 신호 손실과, 모델이 만든 더 온전한 재구성. Credit: Stevens INI"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/connecting-artificial.jpg",
+            "cap": "AstroGenesis 개념도. 전문 AI 에이전트들이 통합 연구 환경 하나에서 과학 문헌과 천문 관측, 물리 기반 모델링을 잇는 방식을 보여준다. Credit: AstroGenesis team"
           },
           {
             "t": "p",
-            "x": "Keck School of Medicine of USC 산하 Mark and Mary Stevens Neuroimaging and Informatics Institute(Stevens INI) 연구진이 확산 MRI 뇌 배선 지도의 신호 공백을 메우는 생성형 AI 모델 FOD-Diffusion을 만들었다. 공백은 스캐너 자기장 왜곡이 신호를 지워 버리는 뇌간과 안와전두 영역에 생긴다."
+            "x": "ICRANet-Armenia 소장인 천체물리학자 Narek Sahakyan과 국제 연구팀이 다중 에이전트 AI 시스템 AstroGenesis를 개발했다. 천체물리 연구의 여러 단계를 한 환경에서 잇는 시스템이다. 논문은 arXiv에 공개됐다."
           },
           {
             "t": "p",
-            "x": "모델은 UK Biobank 참가자 1,315명과 Lifespan Human Connectome Project Aging(HCP-Aging) 참가자 679명의 스캔으로 학습하고 검증했다. 참가자 43명의 뇌간을 가린 시험에서 주요 섬유 방향은 원본 데이터와 평균 약 1.4도 어긋났다. 다른 AI 방식 여섯 가지 가운데 가장 가까운 것도 약 4.5도 벗어났다."
+            "x": "연구자가 자연어로 질문하면 중앙 감독자가 전문 에이전트들에게 일을 나눈다. 한 에이전트는 과학 문헌을 찾고, 다른 에이전트는 천문 관측 자료를 가져와 분석한다. 모델링 에이전트는 물리 모델로 예측값을 계산해 관측과 맞춰 보고, 또 다른 에이전트는 해석을 돕고 연구 질문을 탐색한다."
+          },
+          {
+            "t": "video",
+            "yt": "Pgl6D4_N5YY"
           },
           {
             "t": "p",
-            "x": "복원 뒤에는 신호 손실이 심한 사람의 피질척수로 추적 결과가 손실이 적은 사람보다 유의하게 덜 완전하지 않았다. 연구는 Medical Image Analysis에 실렸다. 공동 제1저자는 Shuo Huang과 Lujia Zhong, 책임저자는 Yonggang Shi다."
+            "x": "이론 모델링을 빠르게 하려고 연구팀은 수치 물리 모델의 결과로 신경망을 학습시킨다. 학습된 신경망은 검증된 매개변수 범위 안에서 그 예측을 빠르게 근사하므로, 연구자는 훨씬 넓은 매개변수 공간을 탐색할 수 있다."
           },
           {
             "t": "p",
-            "x": "저자들은 복원된 데이터가 \"측정값을 되찾은 것이 아니라 근거 있는 추정치\"라고 강조한다. 다른 스캐너와 설정에서 더 검증해야 하고 \"환자 진료용으로는 평가되지 않았다\"는 설명이다. 코드는 GitHub에 공개됐다."
+            "x": "Sahakyan은 AI-generated 해석을 반드시 확인하고, 관측 불확실성을 존중하며, 근사 모델을 검증해야 한다고 강조한다. \"과학적 판단은 여전히 필수적이다.\""
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Generative AI fills gaps\nin brain wiring maps",
-          "body": "USC's FOD-Diffusion cut brainstem fiber-direction error to about 1.4 degrees, against 4.5 for the best rival method.",
-          "mini_headline": "AI fills brain map gaps",
+          "headline": "AstroGenesis puts AI agents\nto work on astrophysics",
+          "body": "In AstroGenesis, a supervisor agent directs agents that search papers, pull observations and run physics models.",
+          "mini_headline": "AI agents for astrophysics",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg",
-                "cap": "Brainstem signal loss from a diffusion MRI distortion, and the fuller reconstruction produced by the model. Credit: Stevens INI"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/connecting-artificial.jpg",
+                "cap": "Conceptual illustration of AstroGenesis, showing how specialized AI agents connect scientific literature, astronomical observations, and physics-based modeling within a unified research environment. Credit: AstroGenesis team"
               },
               {
                 "t": "p",
-                "x": "Researchers at the Mark and Mary Stevens Neuroimaging and Informatics Institute (Stevens INI) at the Keck School of Medicine of USC built FOD-Diffusion, a generative AI model that fills in signal gaps in diffusion MRI brain-wiring maps. The gaps appear in the brainstem and the orbitofrontal region, where scanner magnetic-field distortions erase signal."
+                "x": "Astrophysicist Narek Sahakyan, Director of ICRANet-Armenia, and an international team developed AstroGenesis, a multi-agent AI system that connects different stages of astrophysical research within a single environment. A paper is posted to arXiv."
               },
               {
                 "t": "p",
-                "x": "The model was trained and tested on scans from 1,315 UK Biobank and 679 Lifespan Human Connectome Project Aging (HCP-Aging) participants. In masked brainstem tests across 43 participants, its main fiber directions differed from the original data by about 1.4 degrees on average; the closest of six other AI approaches was off by about 4.5 degrees."
+                "x": "Researchers ask questions in natural language. A central supervisor assigns tasks to specialized agents: one searches the scientific literature, another retrieves and analyzes astronomical observations, a modeling agent calculates predictions from physical models and compares them with observations, and another helps explore interpretations and research questions."
+              },
+              {
+                "t": "video",
+                "yt": "Pgl6D4_N5YY"
               },
               {
                 "t": "p",
-                "x": "With the restoration, corticospinal tract traces in people with severe signal loss were no longer significantly less complete than in people with minimal loss. The study appears in Medical Image Analysis, with Shuo Huang and Lujia Zhong as co-first authors and Yonggang Shi as senior author."
+                "x": "To speed up theoretical modeling, the team trains neural networks on results from numerical physical models; once trained, they rapidly approximate those predictions within the parameter ranges where they were validated, letting researchers explore a much larger parameter space."
               },
               {
                 "t": "p",
-                "x": "The authors stress that restored data are \"informed estimates, not recovered measurements,\" that the method still needs testing on other scanners and settings, and that it \"has not been evaluated for patient care.\" The code is available on GitHub."
+                "x": "Sahakyan stresses that AI-generated interpretations must be checked, observational uncertainties respected and approximate models validated: \"Scientific judgment remains essential.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "생성형 AI가\n뇌 배선 지도 빈틈 메운다",
-          "body": "USC FOD-Diffusion 뇌간 오차는 약 1.4도, 경쟁 최고는 4.5도다.",
-          "mini_headline": "AI가 뇌 지도 빈틈 메운다",
+          "headline": "AstroGenesis,\nAI 에이전트로 천체 연구",
+          "body": "AstroGenesis의 감독 에이전트가 문헌·관측·물리 모델 에이전트를 이끈다.",
+          "mini_headline": "천체물리 AI 에이전트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg",
-                "cap": "확산 MRI 왜곡으로 생긴 뇌간 신호 손실과, 모델이 만든 더 온전한 재구성. Credit: Stevens INI"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/connecting-artificial.jpg",
+                "cap": "AstroGenesis 개념도. 전문 AI 에이전트들이 통합 연구 환경 하나에서 과학 문헌과 천문 관측, 물리 기반 모델링을 잇는 방식을 보여준다. Credit: AstroGenesis team"
               },
               {
                 "t": "p",
-                "x": "Keck School of Medicine of USC 산하 Mark and Mary Stevens Neuroimaging and Informatics Institute(Stevens INI) 연구진이 확산 MRI 뇌 배선 지도의 신호 공백을 메우는 생성형 AI 모델 FOD-Diffusion을 만들었다. 공백은 스캐너 자기장 왜곡이 신호를 지워 버리는 뇌간과 안와전두 영역에 생긴다."
+                "x": "ICRANet-Armenia 소장인 천체물리학자 Narek Sahakyan과 국제 연구팀이 다중 에이전트 AI 시스템 AstroGenesis를 개발했다. 천체물리 연구의 여러 단계를 한 환경에서 잇는 시스템이다. 논문은 arXiv에 공개됐다."
               },
               {
                 "t": "p",
-                "x": "모델은 UK Biobank 참가자 1,315명과 Lifespan Human Connectome Project Aging(HCP-Aging) 참가자 679명의 스캔으로 학습하고 검증했다. 참가자 43명의 뇌간을 가린 시험에서 주요 섬유 방향은 원본 데이터와 평균 약 1.4도 어긋났다. 다른 AI 방식 여섯 가지 가운데 가장 가까운 것도 약 4.5도 벗어났다."
+                "x": "연구자가 자연어로 질문하면 중앙 감독자가 전문 에이전트들에게 일을 나눈다. 한 에이전트는 과학 문헌을 찾고, 다른 에이전트는 천문 관측 자료를 가져와 분석한다. 모델링 에이전트는 물리 모델로 예측값을 계산해 관측과 맞춰 보고, 또 다른 에이전트는 해석을 돕고 연구 질문을 탐색한다."
+              },
+              {
+                "t": "video",
+                "yt": "Pgl6D4_N5YY"
               },
               {
                 "t": "p",
-                "x": "복원 뒤에는 신호 손실이 심한 사람의 피질척수로 추적 결과가 손실이 적은 사람보다 유의하게 덜 완전하지 않았다. 연구는 Medical Image Analysis에 실렸다. 공동 제1저자는 Shuo Huang과 Lujia Zhong, 책임저자는 Yonggang Shi다."
+                "x": "이론 모델링을 빠르게 하려고 연구팀은 수치 물리 모델의 결과로 신경망을 학습시킨다. 학습된 신경망은 검증된 매개변수 범위 안에서 그 예측을 빠르게 근사하므로, 연구자는 훨씬 넓은 매개변수 공간을 탐색할 수 있다."
               },
               {
                 "t": "p",
-                "x": "저자들은 복원된 데이터가 \"측정값을 되찾은 것이 아니라 근거 있는 추정치\"라고 강조한다. 다른 스캐너와 설정에서 더 검증해야 하고 \"환자 진료용으로는 평가되지 않았다\"는 설명이다. 코드는 GitHub에 공개됐다."
+                "x": "Sahakyan은 AI-generated 해석을 반드시 확인하고, 관측 불확실성을 존중하며, 근사 모델을 검증해야 한다고 강조한다. \"과학적 판단은 여전히 필수적이다.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "生成AI、脳配線マップの\n欠けた部分を埋める",
-          "body": "USCのFOD-Diffusionは脳幹の誤差を約1.4度に抑え、競合最良は4.5度だった。",
-          "mini_headline": "AIが脳地図の欠損を補う",
+          "headline": "AstroGenesis、\nAIエージェントで天体物理",
+          "body": "AstroGenesisの監督エージェントが文献・観測・物理モデル担当を指揮する。",
+          "mini_headline": "天体物理のAIエージェント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg",
-                "cap": "拡散MRIの歪みによる脳幹の信号欠損と、モデルによるより完全な再構成。Credit: Stevens INI"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/connecting-artificial.jpg",
+                "cap": "AstroGenesisの概念図。専門のAIエージェントが統合された研究環境の中で、科学文献、天文観測、物理ベースのモデリングをどう結び付けるかを示す。Credit: AstroGenesis team"
               },
               {
                 "t": "p",
-                "x": "Keck School of Medicine of USCのMark and Mary Stevens Neuroimaging and Informatics Institute(Stevens INI)の研究者らは、拡散MRIによる脳の配線地図の信号欠損を補う生成AIモデル「FOD-Diffusion」を開発した。欠損はスキャナーの磁場の歪みで信号が消える脳幹と眼窩前頭領域に生じる。"
+                "x": "ICRANet-Armenia所長の天体物理学者Narek Sahakyanと国際チームは、天体物理研究の異なる段階を単一の環境で結び付けるマルチエージェントAIシステムAstroGenesisを開発した。論文はarXivに掲載されている。"
               },
               {
                 "t": "p",
-                "x": "モデルはUK Biobankの参加者1,315人とLifespan Human Connectome Project Aging(HCP-Aging)の参加者679人のスキャンで学習・検証された。参加者43人を対象に脳幹をマスクした試験では、主な線維方向と元データとの差は平均約1.4度で、ほかの六つのAI手法のうち最も近いものでも約4.5度ずれていた。"
+                "x": "研究者は自然言語で質問する。中央の監督役が専門エージェントにタスクを割り振る。あるエージェントは科学文献を検索し、別のエージェントは天文観測データを取得・解析し、モデリングエージェントは物理モデルから予測を計算して観測と比較し、さらに別のエージェントが解釈や研究課題の探索を助ける。"
+              },
+              {
+                "t": "video",
+                "yt": "Pgl6D4_N5YY"
               },
               {
                 "t": "p",
-                "x": "復元により、信号欠損が大きい人の皮質脊髄路の追跡結果は、欠損が小さい人と比べて有意に不完全とはいえなくなった。研究はMedical Image Analysisに掲載され、Shuo HuangとLujia Zhongが共同筆頭著者、Yonggang Shiが責任著者を務めた。"
+                "x": "理論モデリングを高速化するため、チームは数値物理モデルの結果でニューラルネットワークを訓練する。訓練後のネットワークは検証済みのパラメータ範囲内でそれらの予測を素早く近似し、研究者ははるかに広いパラメータ空間を探索できる。"
               },
               {
                 "t": "p",
-                "x": "著者らは、復元データは「回収された測定値ではなく、根拠ある推定値」であり、ほかのスキャナーや設定での検証がまだ必要で、「患者のケアについては評価されていない」と強調する。コードはGitHubで公開されている。"
+                "x": "SahakyanはAI-generatedの解釈は必ず確認し、観測の不確かさを尊重し、近似モデルを検証すべきだと強調する。「科学的判断は依然として不可欠だ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "生成式AI填补\n脑连接图谱的空白",
-          "body": "USC的FOD-Diffusion将脑干纤维方向误差降至约1.4度，最佳对比方法为4.5度。",
-          "mini_headline": "AI填补脑图谱空白",
+          "headline": "AstroGenesis让\nAI智能体投身天体物理",
+          "body": "在AstroGenesis中，监督智能体指挥负责检索论文、调取观测和运行物理模型的智能体。",
+          "mini_headline": "天体物理AI智能体",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg",
-                "cap": "扩散MRI失真导致的脑干信号缺失，以及模型生成的更完整重建。Credit: Stevens INI"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/connecting-artificial.jpg",
+                "cap": "AstroGenesis概念图，展示专业AI智能体如何在统一的研究环境中连接科学文献、天文观测与基于物理的建模。Credit: AstroGenesis team"
               },
               {
                 "t": "p",
-                "x": "Keck School of Medicine of USC旗下Mark and Mary Stevens Neuroimaging and Informatics Institute（Stevens INI）的研究人员开发了FOD-Diffusion，这一生成式AI模型可填补扩散MRI脑连接图谱中的信号空白。这些空白出现在脑干和眶额区域，扫描仪的磁场畸变会在那里抹去信号。"
+                "x": "ICRANet-Armenia主任、天体物理学家Narek Sahakyan与一支国际团队开发了AstroGenesis——一个多智能体AI系统，可在同一环境中连接天体物理研究的不同阶段。相关论文已发布在arXiv上。"
               },
               {
                 "t": "p",
-                "x": "该模型使用1,315名UK Biobank参与者和679名Lifespan Human Connectome Project Aging（HCP-Aging）参与者的扫描数据进行训练和测试。在针对43名参与者的脑干遮蔽测试中，其主要纤维方向与原始数据平均相差约1.4度；另外六种AI方法中最接近的一种偏差约4.5度。"
+                "x": "研究人员用自然语言提问。中央监督者将任务分派给各专业智能体：一个检索科学文献，一个获取并分析天文观测数据，建模智能体根据物理模型计算预测并与观测对比，另一个则协助探索解释和研究问题。"
+              },
+              {
+                "t": "video",
+                "yt": "Pgl6D4_N5YY"
               },
               {
                 "t": "p",
-                "x": "经过修复后，信号严重缺失者的皮质脊髓束追踪结果不再显著不如信号缺失极少者完整。该研究发表于Medical Image Analysis，Shuo Huang和Lujia Zhong为共同第一作者，Yonggang Shi为资深作者。"
+                "x": "为加快理论建模，团队用数值物理模型的结果训练神经网络；训练完成后，神经网络可在经过验证的参数范围内快速近似这些预测，让研究人员探索大得多的参数空间。"
               },
               {
                 "t": "p",
-                "x": "作者强调，修复后的数据是“有依据的估计，而非恢复的测量值”，该方法仍需在其他扫描仪和设置上测试，且“尚未针对患者护理进行评估”。代码已在GitHub上公开。"
+                "x": "Sahakyan强调，AI-generated的解释必须经过核查，要尊重观测不确定性，近似模型也必须验证：“科学判断依然不可或缺。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI generativa rellena huecos\nen mapas de cableado cerebral",
-          "body": "FOD-Diffusion, de USC, bajó el error de fibras del tronco encefálico a unos 1.4 grados, frente a 4.5 del mejor rival.",
-          "mini_headline": "La AI rellena huecos en mapas cerebrales",
+          "headline": "AstroGenesis pone agentes de AI\na trabajar en astrofísica",
+          "body": "En AstroGenesis, un supervisor dirige agentes que buscan artículos, toman observaciones y ejecutan modelos físicos.",
+          "mini_headline": "Agentes de AI para astrofísica",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg",
-                "cap": "Pérdida de señal en el tronco encefálico por una distorsión de la MRI de difusión, y la reconstrucción más completa que produce el modelo. Credit: Stevens INI"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/connecting-artificial.jpg",
+                "cap": "Ilustración conceptual de AstroGenesis que muestra cómo agentes de AI especializados conectan la literatura científica, las observaciones astronómicas y el modelado basado en la física dentro de un entorno de investigación unificado. Credit: AstroGenesis team"
               },
               {
                 "t": "p",
-                "x": "Investigadores del Mark and Mary Stevens Neuroimaging and Informatics Institute (Stevens INI), en la Keck School of Medicine of USC, crearon FOD-Diffusion, un modelo de AI generativa que rellena los huecos de señal en los mapas de conexiones cerebrales obtenidos por MRI de difusión. Los huecos aparecen en el tronco encefálico y en la región orbitofrontal, donde las distorsiones del campo magnético del escáner borran la señal."
+                "x": "El astrofísico Narek Sahakyan, director de ICRANet-Armenia, y un equipo internacional desarrollaron AstroGenesis, un sistema de AI multiagente que conecta distintas etapas de la investigación astrofísica en un único entorno. El artículo está publicado en arXiv."
               },
               {
                 "t": "p",
-                "x": "El modelo se entrenó y se probó con escaneos de 1,315 participantes del UK Biobank y 679 del Lifespan Human Connectome Project Aging (HCP-Aging). En pruebas con el tronco encefálico enmascarado en 43 participantes, sus direcciones principales de fibras difirieron de los datos originales en unos 1.4 grados de media; el más cercano de otros seis enfoques de AI se desvió unos 4.5 grados."
+                "x": "Los investigadores formulan preguntas en lenguaje natural. Un supervisor central asigna tareas a agentes especializados: uno busca en la literatura científica, otro recupera y analiza observaciones astronómicas, un agente de modelado calcula predicciones a partir de modelos físicos y las compara con las observaciones, y otro ayuda a explorar interpretaciones y preguntas de investigación."
+              },
+              {
+                "t": "video",
+                "yt": "Pgl6D4_N5YY"
               },
               {
                 "t": "p",
-                "x": "Con la restauración, el trazado del tracto corticoespinal en personas con pérdida de señal severa dejó de ser significativamente menos completo que en personas con pérdida mínima. El estudio se publicó en Medical Image Analysis, con Shuo Huang y Lujia Zhong como coprimeros autores y Yonggang Shi como autor sénior."
+                "x": "Para acelerar el modelado teórico, el equipo entrena redes neuronales con resultados de modelos físicos numéricos; una vez entrenadas, aproximan con rapidez esas predicciones dentro de los rangos de parámetros en los que se validaron, lo que permite a los investigadores explorar un espacio de parámetros mucho mayor."
               },
               {
                 "t": "p",
-                "x": "Los autores subrayan que los datos restaurados son \"estimaciones fundamentadas, no mediciones recuperadas\", que el método aún debe probarse en otros escáneres y configuraciones y que \"no se ha evaluado para la atención a pacientes\". El código está disponible en GitHub."
+                "x": "Sahakyan subraya que las interpretaciones AI-generated deben verificarse, que hay que respetar las incertidumbres observacionales y validar los modelos aproximados: \"El juicio científico sigue siendo esencial\"."
               }
             ]
           }
@@ -973,125 +585,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "생성형 AI가\n뇌 배선 지도 빈틈 메운다",
-          "body": "USC FOD-Diffusion의 뇌간 오차 약 1.4도, 경쟁 최고는 4.5도다.",
-          "mini_headline": "AI가 뇌 지도 빈틈 메운다",
+          "headline": "AstroGenesis,\nAI 에이전트로 천체 연구",
+          "body": "AstroGenesis의 감독 에이전트가 문헌·관측·물리 모델 에이전트를 이끈다.",
+          "mini_headline": "천체물리 AI 에이전트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg",
-                "cap": "확산 MRI 왜곡으로 생긴 뇌간 신호 손실과, 모델이 만든 더 온전한 재구성. Credit: Stevens INI"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/connecting-artificial.jpg",
+                "cap": "AstroGenesis 개념도. 전문 AI 에이전트들이 하나의 통합 연구 환경 안에서 과학 문헌, 천문 관측, 물리 기반 모델링을 어떻게 연결하는지 보여준다. Credit: AstroGenesis team"
               },
               {
                 "t": "p",
-                "x": "Keck School of Medicine of USC 산하 Mark and Mary Stevens Neuroimaging and Informatics Institute(Stevens INI) 연구진은 확산 MRI 뇌 배선 지도의 신호 공백을 메우는 생성형 AI 모델 FOD-Diffusion을 만들었다. 이런 공백은 스캐너 자기장 왜곡이 신호를 지워 버리는 뇌간과 안와전두 영역에 나타난다."
+                "x": "ICRANet-Armenia 소장인 천체물리학자 Narek Sahakyan과 국제 연구팀이 천체물리 연구의 여러 단계를 하나의 환경에서 연결하는 다중 에이전트 AI 시스템 AstroGenesis를 개발했다. 논문은 arXiv에 공개됐다."
               },
               {
                 "t": "p",
-                "x": "모델은 UK Biobank 참가자 1,315명과 Lifespan Human Connectome Project Aging(HCP-Aging) 참가자 679명의 스캔으로 학습과 검증을 거쳤다. 참가자 43명을 대상으로 뇌간을 가린 시험에서 주요 섬유 방향은 원본 데이터와 평균 약 1.4도 차이가 났다. 다른 AI 방식 여섯 가지 중 가장 근접한 것은 약 4.5도 벗어났다."
+                "x": "연구자는 자연어로 질문한다. 중앙 감독자는 전문 에이전트에 작업을 나눠 준다. 한 에이전트는 과학 문헌을 검색하고, 다른 에이전트는 천문 관측 자료를 가져와 분석하며, 모델링 에이전트는 물리 모델로 예측을 계산해 관측과 비교하고, 또 다른 에이전트는 해석과 연구 질문 탐색을 돕는다."
+              },
+              {
+                "t": "video",
+                "yt": "Pgl6D4_N5YY"
               },
               {
                 "t": "p",
-                "x": "복원 후에는 신호 손실이 심한 사람의 피질척수로 추적 결과가 손실이 적은 사람보다 유의하게 덜 완전하지 않았다. 연구는 Medical Image Analysis에 실렸으며, Shuo Huang과 Lujia Zhong이 공동 제1저자, Yonggang Shi가 책임저자다."
+                "x": "이론 모델링 속도를 높이려고 연구팀은 수치 물리 모델의 결과로 신경망을 학습시킨다. 학습을 마친 신경망은 검증된 매개변수 범위 안에서 그 예측을 빠르게 근사해, 연구자가 훨씬 넓은 매개변수 공간을 탐색할 수 있게 한다."
               },
               {
                 "t": "p",
-                "x": "저자들은 복원된 데이터가 \"측정값을 되찾은 것이 아니라 근거 있는 추정치\"이며, 다른 스캐너와 설정에서 추가 검증이 필요하고, \"환자 진료용으로는 평가되지 않았다\"고 강조한다. 코드는 GitHub에 공개돼 있다."
+                "x": "Sahakyan은 AI-generated 해석은 반드시 확인하고, 관측 불확실성을 존중하며, 근사 모델을 검증해야 한다고 강조한다. \"과학적 판단은 여전히 필수적이다.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "生成AI、脳配線マップの\n欠けた部分を埋める",
-          "body": "USCのFOD-Diffusionは脳幹の誤差を約1.4度に抑え、競合最良は4.5度だった。",
-          "mini_headline": "AIが脳地図の欠損を補う",
+          "headline": "AstroGenesis、\nAIエージェントで天体物理",
+          "body": "AstroGenesisの監督エージェントが文献・観測・物理モデル担当を指揮する。",
+          "mini_headline": "天体物理のAIエージェント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg",
-                "cap": "拡散MRIの歪みによる脳幹の信号欠損と、モデルによるより完全な再構成。Credit: Stevens INI"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/connecting-artificial.jpg",
+                "cap": "AstroGenesisの概念図。専門のAIエージェントが統合された研究環境の中で、科学文献、天文観測、物理ベースのモデリングをどう結び付けるかを示す。Credit: AstroGenesis team"
               },
               {
                 "t": "p",
-                "x": "Keck School of Medicine of USCのMark and Mary Stevens Neuroimaging and Informatics Institute(Stevens INI)の研究者らは、拡散MRIによる脳の配線地図の信号欠損を補う生成AIモデル「FOD-Diffusion」を開発した。欠損はスキャナーの磁場の歪みで信号が消える脳幹と眼窩前頭領域に生じる。"
+                "x": "ICRANet-Armenia所長の天体物理学者Narek Sahakyanと国際チームは、天体物理研究の異なる段階を単一の環境で結び付けるマルチエージェントAIシステムAstroGenesisを開発した。論文はarXivに掲載されている。"
               },
               {
                 "t": "p",
-                "x": "モデルはUK Biobankの参加者1,315人とLifespan Human Connectome Project Aging(HCP-Aging)の参加者679人のスキャンで学習・検証された。参加者43人を対象に脳幹をマスクした試験では、主な線維方向と元データとの差は平均約1.4度で、ほかの六つのAI手法のうち最も近いものでも約4.5度ずれていた。"
+                "x": "研究者は自然言語で質問する。中央の監督役が専門エージェントにタスクを割り振る。あるエージェントは科学文献を検索し、別のエージェントは天文観測データを取得・解析し、モデリングエージェントは物理モデルから予測を計算して観測と比較し、さらに別のエージェントが解釈や研究課題の探索を助ける。"
+              },
+              {
+                "t": "video",
+                "yt": "Pgl6D4_N5YY"
               },
               {
                 "t": "p",
-                "x": "復元により、信号欠損が大きい人の皮質脊髄路の追跡結果は、欠損が小さい人と比べて有意に不完全とはいえなくなった。研究はMedical Image Analysisに掲載され、Shuo HuangとLujia Zhongが共同筆頭著者、Yonggang Shiが責任著者を務めた。"
+                "x": "理論モデリングを高速化するため、チームは数値物理モデルの結果でニューラルネットワークを訓練する。訓練後のネットワークは検証済みのパラメータ範囲内でそれらの予測を素早く近似し、研究者ははるかに広いパラメータ空間を探索できる。"
               },
               {
                 "t": "p",
-                "x": "著者らは、復元データは「回収された測定値ではなく、根拠ある推定値」であり、ほかのスキャナーや設定での検証がまだ必要で、「患者のケアについては評価されていない」と強調する。コードはGitHubで公開されている。"
+                "x": "SahakyanはAI-generatedの解釈は必ず確認し、観測の不確かさを尊重し、近似モデルを検証すべきだと強調する。「科学的判断は依然として不可欠だ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "生成式AI填补\n脑连接图谱的空白",
-          "body": "USC的FOD-Diffusion将脑干纤维方向误差降至约1.4度，最佳对比方法为4.5度。",
-          "mini_headline": "AI填补脑图谱空白",
+          "headline": "AstroGenesis让\nAI智能体投身天体物理",
+          "body": "在AstroGenesis中，监督智能体指挥负责检索论文、调取观测和运行物理模型的智能体。",
+          "mini_headline": "天体物理AI智能体",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg",
-                "cap": "扩散MRI失真导致的脑干信号缺失，以及模型生成的更完整重建。Credit: Stevens INI"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/connecting-artificial.jpg",
+                "cap": "AstroGenesis概念图，展示专业AI智能体如何在统一的研究环境中连接科学文献、天文观测与基于物理的建模。Credit: AstroGenesis team"
               },
               {
                 "t": "p",
-                "x": "Keck School of Medicine of USC旗下Mark and Mary Stevens Neuroimaging and Informatics Institute（Stevens INI）的研究人员开发了FOD-Diffusion，这一生成式AI模型可填补扩散MRI脑连接图谱中的信号空白。这些空白出现在脑干和眶额区域，扫描仪的磁场畸变会在那里抹去信号。"
+                "x": "ICRANet-Armenia主任、天体物理学家Narek Sahakyan与一支国际团队开发了AstroGenesis——一个多智能体AI系统，可在同一环境中连接天体物理研究的不同阶段。相关论文已发布在arXiv上。"
               },
               {
                 "t": "p",
-                "x": "该模型使用1,315名UK Biobank参与者和679名Lifespan Human Connectome Project Aging（HCP-Aging）参与者的扫描数据进行训练和测试。在针对43名参与者的脑干遮蔽测试中，其主要纤维方向与原始数据平均相差约1.4度；另外六种AI方法中最接近的一种偏差约4.5度。"
+                "x": "研究人员用自然语言提问。中央监督者将任务分派给各专业智能体：一个检索科学文献，一个获取并分析天文观测数据，建模智能体根据物理模型计算预测并与观测对比，另一个则协助探索解释和研究问题。"
+              },
+              {
+                "t": "video",
+                "yt": "Pgl6D4_N5YY"
               },
               {
                 "t": "p",
-                "x": "经过修复后，信号严重缺失者的皮质脊髓束追踪结果不再显著不如信号缺失极少者完整。该研究发表于Medical Image Analysis，Shuo Huang和Lujia Zhong为共同第一作者，Yonggang Shi为资深作者。"
+                "x": "为加快理论建模，团队用数值物理模型的结果训练神经网络；训练完成后，神经网络可在经过验证的参数范围内快速近似这些预测，让研究人员探索大得多的参数空间。"
               },
               {
                 "t": "p",
-                "x": "作者强调，修复后的数据是“有依据的估计，而非恢复的测量值”，该方法仍需在其他扫描仪和设置上测试，且“尚未针对患者护理进行评估”。代码已在GitHub上公开。"
+                "x": "Sahakyan强调，AI-generated的解释必须经过核查，要尊重观测不确定性，近似模型也必须验证：“科学判断依然不可或缺。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI generativa rellena huecos\nen mapas de cableado cerebral",
-          "body": "FOD-Diffusion, de USC, bajó el error de fibras del tronco encefálico a unos 1.4 grados, frente a 4.5 del mejor rival.",
-          "mini_headline": "La AI rellena huecos en mapas cerebrales",
+          "headline": "AstroGenesis pone agentes de AI\na trabajar en astrofísica",
+          "body": "En AstroGenesis, un supervisor dirige agentes que buscan artículos, toman observaciones y ejecutan modelos físicos.",
+          "mini_headline": "Agentes de AI para astrofísica",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg",
-                "cap": "Pérdida de señal en el tronco encefálico por una distorsión de la MRI de difusión, y la reconstrucción más completa que produce el modelo. Credit: Stevens INI"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/connecting-artificial.jpg",
+                "cap": "Ilustración conceptual de AstroGenesis que muestra cómo agentes de AI especializados conectan la literatura científica, las observaciones astronómicas y el modelado basado en la física dentro de un entorno de investigación unificado. Credit: AstroGenesis team"
               },
               {
                 "t": "p",
-                "x": "Investigadores del Mark and Mary Stevens Neuroimaging and Informatics Institute (Stevens INI), en la Keck School of Medicine of USC, crearon FOD-Diffusion, un modelo de AI generativa que rellena los huecos de señal en los mapas de conexiones cerebrales obtenidos por MRI de difusión. Los huecos aparecen en el tronco encefálico y en la región orbitofrontal, donde las distorsiones del campo magnético del escáner borran la señal."
+                "x": "El astrofísico Narek Sahakyan, director de ICRANet-Armenia, y un equipo internacional desarrollaron AstroGenesis, un sistema de AI multiagente que conecta distintas etapas de la investigación astrofísica en un único entorno. El artículo está publicado en arXiv."
               },
               {
                 "t": "p",
-                "x": "El modelo se entrenó y se probó con escaneos de 1,315 participantes del UK Biobank y 679 del Lifespan Human Connectome Project Aging (HCP-Aging). En pruebas con el tronco encefálico enmascarado en 43 participantes, sus direcciones principales de fibras difirieron de los datos originales en unos 1.4 grados de media; el más cercano de otros seis enfoques de AI se desvió unos 4.5 grados."
+                "x": "Los investigadores formulan preguntas en lenguaje natural. Un supervisor central asigna tareas a agentes especializados: uno busca en la literatura científica, otro recupera y analiza observaciones astronómicas, un agente de modelado calcula predicciones a partir de modelos físicos y las compara con las observaciones, y otro ayuda a explorar interpretaciones y preguntas de investigación."
+              },
+              {
+                "t": "video",
+                "yt": "Pgl6D4_N5YY"
               },
               {
                 "t": "p",
-                "x": "Con la restauración, el trazado del tracto corticoespinal en personas con pérdida de señal severa dejó de ser significativamente menos completo que en personas con pérdida mínima. El estudio se publicó en Medical Image Analysis, con Shuo Huang y Lujia Zhong como coprimeros autores y Yonggang Shi como autor sénior."
+                "x": "Para acelerar el modelado teórico, el equipo entrena redes neuronales con resultados de modelos físicos numéricos; una vez entrenadas, aproximan con rapidez esas predicciones dentro de los rangos de parámetros en los que se validaron, lo que permite a los investigadores explorar un espacio de parámetros mucho mayor."
               },
               {
                 "t": "p",
-                "x": "Los autores subrayan que los datos restaurados son \"estimaciones fundamentadas, no mediciones recuperadas\", que el método aún debe probarse en otros escáneres y configuraciones y que \"no se ha evaluado para la atención a pacientes\". El código está disponible en GitHub."
+                "x": "Sahakyan subraya que las interpretaciones AI-generated deben verificarse, que hay que respetar las incertidumbres observacionales y validar los modelos aproximados: \"El juicio científico sigue siendo esencial\"."
               }
             ]
           }
@@ -1099,15 +727,377 @@
       }
     },
     {
-      "id": "science-ai-overviews-unsupported",
+      "id": "ss-dfa-optical-training",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI Overview 주장\n아홉 중 하나는 근거 없다",
-      "body": "Google AI Overviews 주장 아홉 건 중 하나는 출처 근거가 없었다.",
-      "mini_headline": "AI Overviews, 출처 근거 부족",
+      "headline": "광학 하드웨어에서\nAI를 더 가볍게 학습",
+      "body": "Tokyo·NTT가 SS-DFA와 단일 맵 설계로 연산을 줄이고 성능은 지켰다.",
+      "mini_headline": "더 가벼운 광학 AI 학습",
       "tool": "Science",
-      "source": "PsyPost",
-      "url": "https://www.psypost.org/how-google-ai-search-summaries-alter-online-information-and-publisher-revenue/",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-11-ai-framework-optical-hardware.html",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/let-there-be-light--no.jpg",
+            "cap": "single-map 방식 시연에 쓴 광 컴퓨팅 시스템은 정보를 광신호로 바꿔 광섬유 루프에서 처리한 뒤, 다시 전기 신호로 바꿔 분석한다. Credit: 2026 Nakajima et al. CC-BY-ND"
+          },
+          {
+            "t": "p",
+            "x": "University of Tokyo(도쿄대) 등의 연구진이 물리 기반 AI를 만드는 새 방법을 개발했다. 물리 시스템이 본래 움직이는 방식을 이용해 정보를 처리하는 시스템으로, 새 방법은 구동에 드는 연산량을 크게 줄인다. 연구진은 빛으로 정보를 처리하는 광 컴퓨팅 시스템에서 이를 시연했다."
+          },
+          {
+            "t": "p",
+            "x": "Kohei Nakajima 부교수와 NTT 연구진이 포함된 팀은 SS-DFA라는 학습법에 single-map 프레임워크라는 더 단순한 네트워크 구조를 결합했다. 연구 결과는 Nature Computational Science에 실렸다."
+          },
+          {
+            "t": "p",
+            "x": "SS-DFA는 시스템의 중간 상태를 측정·기록해 역추적하지 않는다. 대신 최종 오차와 시스템 정보를 함께 써서 학습을 이끈다. 그만큼 측정과 데이터 저장, 연산 부담이 준다. single-map 구조에서는 아주 복잡한 내부 연결 없이 많은 유닛이 일반 규칙을 따른다."
+          },
+          {
+            "t": "p",
+            "x": "놀랍게도 단순해진 설계는 더 복잡한 신경망 구조와 대등했고 일부 테스트에서는 앞섰다. 필요한 연산은 훨씬 적었다. 시스템에는 200미터 광섬유와 전자 부품 몇 개가 들어간다."
+          },
+          {
+            "t": "p",
+            "x": "연구진은 앞으로 이 방법이 언어 모델, 멀티모달 모델처럼 더 큰 AI 모델에서도 통하는지 시험한다. 칩 위에 소형화하면 휴대폰, 카메라, 자율주행차 안에서 데이터를 처리할 수 있다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "A leaner way to train AI\nright on optical hardware",
+          "body": "Tokyo and NTT paired SS-DFA training with a single-map design, cutting compute yet matching or beating complex networks.",
+          "mini_headline": "Leaner optical AI training",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/let-there-be-light--no.jpg",
+                "cap": "In the optical computing system used to demonstrate the single-map approach, information is converted into an optical signal, processed as it passes through a fiber loop, and then converted back into an electrical signal for analysis. Credit: 2026 Nakajima et al. CC-BY-ND"
+              },
+              {
+                "t": "p",
+                "x": "Researchers, including those at the University of Tokyo, have developed a new approach to building physics-based AI—systems that use the natural behavior of physical systems to process information—that dramatically reduces the amount of computation required for them to run. It was demonstrated using an optical computing system that processes information with light."
+              },
+              {
+                "t": "p",
+                "x": "Associate professor Kohei Nakajima and his team, including NTT researchers, combined a training method called SS-DFA with a simpler network architecture called the single-map framework. The study is published in Nature Computational Science."
+              },
+              {
+                "t": "p",
+                "x": "Instead of measuring and recording the system's intermediate states and backtracking, SS-DFA uses the final error together with information about the system to guide learning, reducing the measurement, data storage and computation required. In the single-map architecture, many units follow the general rules rather than relying on highly complex internal connections."
+              },
+              {
+                "t": "p",
+                "x": "Surprisingly, the simplified design matched, and in some tests outperformed, more complex neural network architectures, while requiring far less computation. The system uses a 200-meter optical fiber and a small number of electronic components."
+              },
+              {
+                "t": "p",
+                "x": "Future work will test whether the approach scales to larger AI models such as language and multimodal models; miniaturized on a chip, it could process data inside phones, cameras or self-driving cars."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "광학 하드웨어에서\nAI를 더 가볍게 학습",
+          "body": "Tokyo·NTT가 SS-DFA와 단일 맵 설계로 연산을 줄이고 성능은 지켰다.",
+          "mini_headline": "더 가벼운 광학 AI 학습",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/let-there-be-light--no.jpg",
+                "cap": "single-map 방식 시연에 쓴 광 컴퓨팅 시스템은 정보를 광신호로 바꿔 광섬유 루프에서 처리한 뒤, 다시 전기 신호로 바꿔 분석한다. Credit: 2026 Nakajima et al. CC-BY-ND"
+              },
+              {
+                "t": "p",
+                "x": "University of Tokyo(도쿄대) 등의 연구진이 물리 기반 AI를 만드는 새 방법을 개발했다. 물리 시스템이 본래 움직이는 방식을 이용해 정보를 처리하는 시스템으로, 새 방법은 구동에 드는 연산량을 크게 줄인다. 연구진은 빛으로 정보를 처리하는 광 컴퓨팅 시스템에서 이를 시연했다."
+              },
+              {
+                "t": "p",
+                "x": "Kohei Nakajima 부교수와 NTT 연구진이 포함된 팀은 SS-DFA라는 학습법에 single-map 프레임워크라는 더 단순한 네트워크 구조를 결합했다. 연구 결과는 Nature Computational Science에 실렸다."
+              },
+              {
+                "t": "p",
+                "x": "SS-DFA는 시스템의 중간 상태를 측정·기록해 역추적하지 않는다. 대신 최종 오차와 시스템 정보를 함께 써서 학습을 이끈다. 그만큼 측정과 데이터 저장, 연산 부담이 준다. single-map 구조에서는 아주 복잡한 내부 연결 없이 많은 유닛이 일반 규칙을 따른다."
+              },
+              {
+                "t": "p",
+                "x": "놀랍게도 단순해진 설계는 더 복잡한 신경망 구조와 대등했고 일부 테스트에서는 앞섰다. 필요한 연산은 훨씬 적었다. 시스템에는 200미터 광섬유와 전자 부품 몇 개가 들어간다."
+              },
+              {
+                "t": "p",
+                "x": "연구진은 앞으로 이 방법이 언어 모델, 멀티모달 모델처럼 더 큰 AI 모델에서도 통하는지 시험한다. 칩 위에 소형화하면 휴대폰, 카메라, 자율주행차 안에서 데이터를 처리할 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "光学ハードウェア上で\nAIをより軽く訓練する",
+          "body": "TokyoとNTTはSS-DFAと単一マップ設計で計算を減らし、複雑な網に並ぶか上回った。",
+          "mini_headline": "より軽い光学AI訓練",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/let-there-be-light--no.jpg",
+                "cap": "single-map方式の実証に使われた光コンピューティングシステムでは、情報を光信号に変換し、ファイバーループを通過する間に処理した後、再び電気信号に戻して解析する。Credit: 2026 Nakajima et al. CC-BY-ND"
+              },
+              {
+                "t": "p",
+                "x": "University of Tokyo(東京大学)などの研究者は、物理系の自然なふるまいを利用して情報を処理する物理ベースAIを構築する新たな手法を開発し、動作に必要な計算量を大幅に削減した。手法は、光で情報を処理する光コンピューティングシステムで実証された。"
+              },
+              {
+                "t": "p",
+                "x": "Kohei Nakajima准教授らのチームはNTTの研究者とともに、SS-DFAと呼ぶ学習手法と、single-mapフレームワークと呼ぶより単純なネットワーク構造を組み合わせた。研究はNature Computational Scienceに掲載された。"
+              },
+              {
+                "t": "p",
+                "x": "SS-DFAは、システムの中間状態を測定・記録して逆にたどる代わりに、最終的な誤差とシステムに関する情報を併せて学習を導き、必要な測定、データ保存、計算を減らす。single-map構造では、非常に複雑な内部結合に頼らず、多数のユニットが一般的な規則に従う。"
+              },
+              {
+                "t": "p",
+                "x": "意外にも、簡素化した設計はより複雑なニューラルネットワーク構造に匹敵し、一部のテストでは上回った。しかも必要な計算ははるかに少ない。システムは200メートルの光ファイバーと少数の電子部品を使う。"
+              },
+              {
+                "t": "p",
+                "x": "今後は、この手法が言語モデルやマルチモーダルモデルといったより大きなAIモデルに拡張できるかを検証する。チップ上に小型化すれば、スマートフォンやカメラ、自動運転車の内部でデータを処理できる可能性がある。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "直接在光学硬件上\n更精简地训练AI",
+          "body": "Tokyo与NTT以SS-DFA和单映射设计削减计算，效果持平或超越复杂网络。",
+          "mini_headline": "更精简的光学AI训练",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/let-there-be-light--no.jpg",
+                "cap": "在用于演示single-map方法的光计算系统中，信息先被转换为光信号，在通过光纤环路时完成处理，再转换回电信号进行分析。Credit: 2026 Nakajima et al. CC-BY-ND"
+              },
+              {
+                "t": "p",
+                "x": "包括University of Tokyo（东京大学）在内的研究人员开发出一种构建物理AI的新方法——这类系统利用物理系统的自然行为来处理信息——可大幅减少运行所需的计算量。该方法在一套用光处理信息的光计算系统上得到了验证。"
+              },
+              {
+                "t": "p",
+                "x": "Kohei Nakajima副教授及其团队（包括NTT研究人员）将名为SS-DFA的训练方法与名为single-map框架的更简单网络架构相结合。研究发表于Nature Computational Science。"
+              },
+              {
+                "t": "p",
+                "x": "SS-DFA不再测量和记录系统的中间状态并进行回溯，而是结合最终误差与系统相关信息来引导学习，从而减少所需的测量、数据存储和计算。在single-map架构中，众多单元遵循通用规则，而不依赖高度复杂的内部连接。"
+              },
+              {
+                "t": "p",
+                "x": "令人意外的是，简化后的设计与更复杂的神经网络架构表现相当，在部分测试中甚至更优，而所需计算量少得多。该系统使用一段200米长的光纤和少量电子元件。"
+              },
+              {
+                "t": "p",
+                "x": "后续工作将检验该方法能否扩展到语言模型和多模态模型等更大的AI模型；若在芯片上实现小型化，它可在手机、相机或自动驾驶汽车内部处理数据。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Una forma más ligera de entrenar\nAI en el propio hardware óptico",
+          "body": "Tokyo y NTT unieron SS-DFA y un diseño single-map: menos cómputo y resultados iguales o mejores que redes complejas.",
+          "mini_headline": "Entrenamiento de AI óptico más ligero",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/let-there-be-light--no.jpg",
+                "cap": "En el sistema de computación óptica usado para demostrar el enfoque single-map, la información se convierte en una señal óptica, se procesa al pasar por un bucle de fibra y luego se convierte de nuevo en señal eléctrica para su análisis. Credit: 2026 Nakajima et al. CC-BY-ND"
+              },
+              {
+                "t": "p",
+                "x": "Investigadores, entre ellos los de la University of Tokyo, han desarrollado un nuevo enfoque para construir AI basada en la física —sistemas que aprovechan el comportamiento natural de sistemas físicos para procesar información— que reduce drásticamente la cantidad de cómputo necesaria para su funcionamiento. Se demostró con un sistema de computación óptica que procesa información con luz."
+              },
+              {
+                "t": "p",
+                "x": "El profesor asociado Kohei Nakajima y su equipo, que incluye a investigadores de NTT, combinaron un método de entrenamiento llamado SS-DFA con una arquitectura de red más sencilla llamada marco single-map. El estudio se publicó en Nature Computational Science."
+              },
+              {
+                "t": "p",
+                "x": "En lugar de medir y registrar los estados intermedios del sistema y retroceder, SS-DFA usa el error final junto con información sobre el sistema para guiar el aprendizaje, lo que reduce la medición, el almacenamiento de datos y el cómputo necesarios. En la arquitectura single-map, muchas unidades siguen las reglas generales en lugar de depender de conexiones internas muy complejas."
+              },
+              {
+                "t": "p",
+                "x": "Sorprendentemente, el diseño simplificado igualó, y en algunas pruebas superó, a arquitecturas de redes neuronales más complejas, con mucho menos cómputo. El sistema usa una fibra óptica de 200 metros y un pequeño número de componentes electrónicos."
+              },
+              {
+                "t": "p",
+                "x": "El trabajo futuro comprobará si el enfoque escala a modelos de AI más grandes, como los de lenguaje y los multimodales; miniaturizado en un chip, podría procesar datos dentro de teléfonos, cámaras o coches autónomos."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "광학 하드웨어에서\nAI를 더 가볍게 학습",
+          "body": "Tokyo·NTT가 SS-DFA와 단일 맵 설계로 연산을 줄이고 성능은 지켰다.",
+          "mini_headline": "더 가벼운 광학 AI 학습",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/let-there-be-light--no.jpg",
+                "cap": "single-map 방식 시연에 쓰인 광 컴퓨팅 시스템에서는 정보를 광신호로 바꾸고, 광섬유 루프를 지나며 처리한 뒤, 다시 전기 신호로 바꿔 분석한다. Credit: 2026 Nakajima et al. CC-BY-ND"
+              },
+              {
+                "t": "p",
+                "x": "University of Tokyo(도쿄대) 등의 연구진이 물리 기반 AI, 즉 물리 시스템의 자연스러운 거동을 이용해 정보를 처리하는 시스템을 구축하는 새로운 방법을 개발했다. 이 방법은 구동에 필요한 연산량을 크게 줄인다. 연구진은 빛으로 정보를 처리하는 광 컴퓨팅 시스템으로 이를 시연했다."
+              },
+              {
+                "t": "p",
+                "x": "Kohei Nakajima 부교수와 NTT 연구진을 포함한 팀은 SS-DFA라는 학습법과 single-map 프레임워크라는 더 단순한 네트워크 구조를 결합했다. 연구는 Nature Computational Science에 실렸다."
+              },
+              {
+                "t": "p",
+                "x": "SS-DFA는 시스템의 중간 상태를 측정·기록하고 역추적하는 대신, 최종 오차와 시스템 정보를 함께 써서 학습을 이끈다. 그만큼 측정, 데이터 저장, 연산 부담이 줄어든다. single-map 구조에서는 매우 복잡한 내부 연결에 기대지 않고 많은 유닛이 일반 규칙을 따른다."
+              },
+              {
+                "t": "p",
+                "x": "놀랍게도 단순화한 설계는 더 복잡한 신경망 구조와 대등했고 일부 테스트에서는 앞섰으며, 필요한 연산은 훨씬 적었다. 시스템은 200미터 광섬유와 소수의 전자 부품을 쓴다."
+              },
+              {
+                "t": "p",
+                "x": "앞으로 연구진은 이 방법이 언어 모델, 멀티모달 모델 같은 더 큰 AI 모델로 확장되는지 시험한다. 칩 위에 소형화하면 휴대폰, 카메라, 자율주행차 안에서 데이터를 처리할 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "光学ハードウェア上で\nAIをより軽く訓練する",
+          "body": "TokyoとNTTはSS-DFAと単一マップ設計で計算を減らし、複雑な網に並ぶか上回った。",
+          "mini_headline": "より軽い光学AI訓練",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/let-there-be-light--no.jpg",
+                "cap": "single-map方式の実証に使われた光コンピューティングシステムでは、情報を光信号に変換し、ファイバーループを通過する間に処理した後、再び電気信号に戻して解析する。Credit: 2026 Nakajima et al. CC-BY-ND"
+              },
+              {
+                "t": "p",
+                "x": "University of Tokyo(東京大学)などの研究者は、物理系の自然なふるまいを利用して情報を処理する物理ベースAIを構築する新たな手法を開発し、動作に必要な計算量を大幅に削減した。手法は、光で情報を処理する光コンピューティングシステムで実証された。"
+              },
+              {
+                "t": "p",
+                "x": "Kohei Nakajima准教授らのチームはNTTの研究者とともに、SS-DFAと呼ぶ学習手法と、single-mapフレームワークと呼ぶより単純なネットワーク構造を組み合わせた。研究はNature Computational Scienceに掲載された。"
+              },
+              {
+                "t": "p",
+                "x": "SS-DFAは、システムの中間状態を測定・記録して逆にたどる代わりに、最終的な誤差とシステムに関する情報を併せて学習を導き、必要な測定、データ保存、計算を減らす。single-map構造では、非常に複雑な内部結合に頼らず、多数のユニットが一般的な規則に従う。"
+              },
+              {
+                "t": "p",
+                "x": "意外にも、簡素化した設計はより複雑なニューラルネットワーク構造に匹敵し、一部のテストでは上回った。しかも必要な計算ははるかに少ない。システムは200メートルの光ファイバーと少数の電子部品を使う。"
+              },
+              {
+                "t": "p",
+                "x": "今後は、この手法が言語モデルやマルチモーダルモデルといったより大きなAIモデルに拡張できるかを検証する。チップ上に小型化すれば、スマートフォンやカメラ、自動運転車の内部でデータを処理できる可能性がある。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "直接在光学硬件上\n更精简地训练AI",
+          "body": "Tokyo与NTT以SS-DFA和单映射设计削减计算，效果持平或超越复杂网络。",
+          "mini_headline": "更精简的光学AI训练",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/let-there-be-light--no.jpg",
+                "cap": "在用于演示single-map方法的光计算系统中，信息先被转换为光信号，在通过光纤环路时完成处理，再转换回电信号进行分析。Credit: 2026 Nakajima et al. CC-BY-ND"
+              },
+              {
+                "t": "p",
+                "x": "包括University of Tokyo（东京大学）在内的研究人员开发出一种构建物理AI的新方法——这类系统利用物理系统的自然行为来处理信息——可大幅减少运行所需的计算量。该方法在一套用光处理信息的光计算系统上得到了验证。"
+              },
+              {
+                "t": "p",
+                "x": "Kohei Nakajima副教授及其团队（包括NTT研究人员）将名为SS-DFA的训练方法与名为single-map框架的更简单网络架构相结合。研究发表于Nature Computational Science。"
+              },
+              {
+                "t": "p",
+                "x": "SS-DFA不再测量和记录系统的中间状态并进行回溯，而是结合最终误差与系统相关信息来引导学习，从而减少所需的测量、数据存储和计算。在single-map架构中，众多单元遵循通用规则，而不依赖高度复杂的内部连接。"
+              },
+              {
+                "t": "p",
+                "x": "令人意外的是，简化后的设计与更复杂的神经网络架构表现相当，在部分测试中甚至更优，而所需计算量少得多。该系统使用一段200米长的光纤和少量电子元件。"
+              },
+              {
+                "t": "p",
+                "x": "后续工作将检验该方法能否扩展到语言模型和多模态模型等更大的AI模型；若在芯片上实现小型化，它可在手机、相机或自动驾驶汽车内部处理数据。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Una forma más ligera de entrenar\nAI en el propio hardware óptico",
+          "body": "Tokyo y NTT unieron SS-DFA y un diseño single-map: menos cómputo y resultados iguales o mejores que redes complejas.",
+          "mini_headline": "Entrenamiento de AI óptico más ligero",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/let-there-be-light--no.jpg",
+                "cap": "En el sistema de computación óptica usado para demostrar el enfoque single-map, la información se convierte en una señal óptica, se procesa al pasar por un bucle de fibra y luego se convierte de nuevo en señal eléctrica para su análisis. Credit: 2026 Nakajima et al. CC-BY-ND"
+              },
+              {
+                "t": "p",
+                "x": "Investigadores, entre ellos los de la University of Tokyo, han desarrollado un nuevo enfoque para construir AI basada en la física —sistemas que aprovechan el comportamiento natural de sistemas físicos para procesar información— que reduce drásticamente la cantidad de cómputo necesaria para su funcionamiento. Se demostró con un sistema de computación óptica que procesa información con luz."
+              },
+              {
+                "t": "p",
+                "x": "El profesor asociado Kohei Nakajima y su equipo, que incluye a investigadores de NTT, combinaron un método de entrenamiento llamado SS-DFA con una arquitectura de red más sencilla llamada marco single-map. El estudio se publicó en Nature Computational Science."
+              },
+              {
+                "t": "p",
+                "x": "En lugar de medir y registrar los estados intermedios del sistema y retroceder, SS-DFA usa el error final junto con información sobre el sistema para guiar el aprendizaje, lo que reduce la medición, el almacenamiento de datos y el cómputo necesarios. En la arquitectura single-map, muchas unidades siguen las reglas generales en lugar de depender de conexiones internas muy complejas."
+              },
+              {
+                "t": "p",
+                "x": "Sorprendentemente, el diseño simplificado igualó, y en algunas pruebas superó, a arquitecturas de redes neuronales más complejas, con mucho menos cómputo. El sistema usa una fibra óptica de 200 metros y un pequeño número de componentes electrónicos."
+              },
+              {
+                "t": "p",
+                "x": "El trabajo futuro comprobará si el enfoque escala a modelos de AI más grandes, como los de lenguaje y los multimodales; miniaturizado en un chip, podría procesar datos dentro de teléfonos, cámaras o coches autónomos."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "llm-workplace-trust-penalty",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "업무에 ChatGPT 쓰면\n상사 신뢰 잃을 수도",
+      "body": "상사는 LLM-using 직원을 덜 믿었지만 조직이 AI를 권하면 격차가 줄었다.",
+      "mini_headline": "ChatGPT 쓰면 신뢰 하락",
+      "tool": "Science",
+      "source": "EurekAlert! (Hebrew University)",
+      "url": "https://www.eurekalert.org/news-releases/1150468",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -1115,179 +1105,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg",
-            "cap": "[Adobe Stock]"
+            "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/be1996da-571f-422e-94db-f78f12f371d3/Rendition/low-res/Content/Public",
+            "cap": "조직 정책에 따라 LLMs 사용자가 받는 신뢰 불이익이 달라진다. Credit: Yochanan Bigman"
           },
           {
             "t": "p",
-            "x": "Washington University in St. Louis의 Haofei Xu, Umar Iqbal, Jacob M. Montgomery가 arXiv에 사전 공개한 논문에 따르면, Google의 AI-generated 검색 요약은 신뢰도 높은 출처에 자주 기대면서도 사실 주장 약 아홉 건 중 한 건꼴로 검증되지 않은 정보를 내놓는다."
+            "x": "Samuel Meyers가 Hebrew University of Jerusalem의 Dr. Yochanan Bigman, WHU – Otto Beisheim School of Management의 Dr. Roman Briker와 함께 이끈 연구가 The Leadership Quarterly에 실렸다. 여섯 건의 연구에 걸쳐 상사는 ChatGPT와 기타 LLMs를 쓰는 직원을 덜 신뢰했다. AI 사용이 명시적으로 금지되지 않은 경우에도 마찬가지였다."
           },
           {
             "t": "p",
-            "x": "연구팀은 2026년 초 40일 동안 19개 주제 범주의 Google 인기 검색어 55,393개를 돌렸다. AI Overviews는 전체 검색어의 13.7퍼센트에서 떴다. 직접 묻는 형태의 검색어에서는 64.7퍼센트, 일반 키워드 검색에서는 9.5퍼센트였고 정치적으로 민감한 주제에서는 거의 나오지 않았다."
+            "x": "한 실험에서 일을 직접 끝낸 직원이 상사의 신뢰를 얻을 확률은 68%였고, AI를 쓴 직원은 24%에 그쳤다. 그래도 AI 사용은 표절보다는 좋게 평가됐다. 신뢰가 낮을수록 성과 평가가 나빴고 승진 적합성도 낮게 인식됐다."
           },
           {
             "t": "p",
-            "x": "인용된 도메인은 일반 첫 페이지 검색 결과보다 꾸준히 신뢰도가 높았다. 하지만 인용된 웹사이트의 거의 30퍼센트는 일반 검색 결과 첫 페이지 어디에도 없었다. 개별 사실 주장 98,020건 가운데 11퍼센트는 인용 페이지가 뒷받침하지 않았는데, 대부분 누락 탓이었다. 출처 신뢰도와 정확도 사이에 통계적 관계는 없었다."
-          },
-          {
-            "t": "p",
-            "x": "인용된 페이지의 절반 이상에 디지털 광고가 붙어 있어 클릭이 줄면 언론사 광고 수익도 줄어든다. 그사이 Google은 요약 옆에, 때로는 그 위에 자사 스폰서 광고를 계속 내건다."
+            "x": "조직이 AI 사용을 명시적으로 장려하자 신뢰 불이익은 크게 줄어 더는 통계적으로 유의하지 않았다. 연구진은 이런 긴장 탓에 직원들이 드러나지 않는 \"shadow AI\"로 숨어들 수 있다고 경고하며, 명확한 정책과 관리자 교육을 촉구했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "One in nine AI Overview claims\nlacks support in its sources",
-          "body": "An analysis of Google's AI Overviews found one in nine generated claims unsupported by the sources the summary cited.",
-          "mini_headline": "AI Overviews miss sources",
+          "headline": "Using ChatGPT at work may\ncost you your boss's trust",
+          "body": "In six studies, supervisors trusted LLM-using staff less, a penalty that shrank when organizations encouraged AI use.",
+          "mini_headline": "ChatGPT use costs trust",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg",
-                "cap": "[Adobe Stock]"
+                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/be1996da-571f-422e-94db-f78f12f371d3/Rendition/low-res/Content/Public",
+                "cap": "Organizational Policy Affects Trust Penalty for Using LLMs. Credit: Yochanan Bigman"
               },
               {
                 "t": "p",
-                "x": "Google’s AI-generated search summaries frequently rely on highly credible sources, but they still produce unverified information in about one out of every nine factual claims, according to an arXiv preprint by Haofei Xu, Umar Iqbal and Jacob M. Montgomery of Washington University in St. Louis."
+                "x": "A study led by Samuel Meyers with Dr. Yochanan Bigman of the Hebrew University of Jerusalem and Dr. Roman Briker of WHU – Otto Beisheim School of Management, published in The Leadership Quarterly, finds across six studies that supervisors place less trust in employees who use ChatGPT and other LLMs, even when AI use is not explicitly prohibited."
               },
               {
                 "t": "p",
-                "x": "Over a 40-day period in early 2026, the team ran 55,393 trending Google queries across 19 topical categories. AI Overviews activated on 13.7 percent of all queries — 64.7 percent for queries phrased as direct questions versus 9.5 percent for standard keyword searches — and rarely for politically sensitive subjects."
+                "x": "In one experiment, employees who completed work themselves had a 68% chance of earning supervisors' trust, compared with just 24% when they used AI. AI use was still viewed more favourably than plagiarism. Lower trust was associated with poorer performance evaluations and lower perceived suitability for promotion."
               },
               {
                 "t": "p",
-                "x": "Cited domains were consistently more credible than standard first-page results, yet almost 30 percent of cited websites did not appear anywhere on the first page of regular results. Of 98,020 individual factual claims, 11 percent were not supported by the cited pages, mostly through omissions; source credibility had no statistical relationship to accuracy."
-              },
-              {
-                "t": "p",
-                "x": "More than half of the cited pages contained digital advertisements, so suppressed clicks mean lost ad revenue for publishers, while Google continues to display its own sponsored ads alongside — sometimes above — the summaries."
+                "x": "When organizations explicitly encouraged AI use, the trust penalty was substantially reduced and no longer statistically significant. The researchers warn the tension could push employees toward undisclosed \"shadow AI\" and urge clear policies and managerial training."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI Overview 주장\n아홉 중 하나는 근거 없다",
-          "body": "Google AI Overviews 주장 아홉 건 중 하나는 출처 근거가 없었다.",
-          "mini_headline": "AI Overviews, 출처 근거 부족",
+          "headline": "업무에 ChatGPT 쓰면\n상사 신뢰 잃을 수도",
+          "body": "상사는 LLM-using 직원을 덜 믿었지만 조직이 AI를 권하면 격차가 줄었다.",
+          "mini_headline": "ChatGPT 쓰면 신뢰 하락",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg",
-                "cap": "[Adobe Stock]"
+                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/be1996da-571f-422e-94db-f78f12f371d3/Rendition/low-res/Content/Public",
+                "cap": "조직 정책에 따라 LLMs 사용자가 받는 신뢰 불이익이 달라진다. Credit: Yochanan Bigman"
               },
               {
                 "t": "p",
-                "x": "Washington University in St. Louis의 Haofei Xu, Umar Iqbal, Jacob M. Montgomery가 arXiv에 사전 공개한 논문에 따르면, Google의 AI-generated 검색 요약은 신뢰도 높은 출처에 자주 기대면서도 사실 주장 약 아홉 건 중 한 건꼴로 검증되지 않은 정보를 내놓는다."
+                "x": "Samuel Meyers가 Hebrew University of Jerusalem의 Dr. Yochanan Bigman, WHU – Otto Beisheim School of Management의 Dr. Roman Briker와 함께 이끈 연구가 The Leadership Quarterly에 실렸다. 여섯 건의 연구에 걸쳐 상사는 ChatGPT와 기타 LLMs를 쓰는 직원을 덜 신뢰했다. AI 사용이 명시적으로 금지되지 않은 경우에도 마찬가지였다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 2026년 초 40일 동안 19개 주제 범주의 Google 인기 검색어 55,393개를 돌렸다. AI Overviews는 전체 검색어의 13.7퍼센트에서 떴다. 직접 묻는 형태의 검색어에서는 64.7퍼센트, 일반 키워드 검색에서는 9.5퍼센트였고 정치적으로 민감한 주제에서는 거의 나오지 않았다."
+                "x": "한 실험에서 일을 직접 끝낸 직원이 상사의 신뢰를 얻을 확률은 68%였고, AI를 쓴 직원은 24%에 그쳤다. 그래도 AI 사용은 표절보다는 좋게 평가됐다. 신뢰가 낮을수록 성과 평가가 나빴고 승진 적합성도 낮게 인식됐다."
               },
               {
                 "t": "p",
-                "x": "인용된 도메인은 일반 첫 페이지 검색 결과보다 꾸준히 신뢰도가 높았다. 하지만 인용된 웹사이트의 거의 30퍼센트는 일반 검색 결과 첫 페이지 어디에도 없었다. 개별 사실 주장 98,020건 가운데 11퍼센트는 인용 페이지가 뒷받침하지 않았는데, 대부분 누락 탓이었다. 출처 신뢰도와 정확도 사이에 통계적 관계는 없었다."
-              },
-              {
-                "t": "p",
-                "x": "인용된 페이지의 절반 이상에 디지털 광고가 붙어 있어 클릭이 줄면 언론사 광고 수익도 줄어든다. 그사이 Google은 요약 옆에, 때로는 그 위에 자사 스폰서 광고를 계속 내건다."
+                "x": "조직이 AI 사용을 명시적으로 장려하자 신뢰 불이익은 크게 줄어 더는 통계적으로 유의하지 않았다. 연구진은 이런 긴장 탓에 직원들이 드러나지 않는 \"shadow AI\"로 숨어들 수 있다고 경고하며, 명확한 정책과 관리자 교육을 촉구했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI Overviewの主張\n九件に一件は出典の裏付けなし",
-          "body": "GoogleのAI Overviewsでは主張の九件に一件が引用元の裏付けを欠いた。",
-          "mini_headline": "AI Overviews、出典の裏付け欠く",
+          "headline": "職場でChatGPTを使うと\n上司の信頼を失うかも",
+          "body": "六つの研究で上司はLLM-usingの社員を信頼しにくく、組織がAI利用を促すと差は縮んだ。",
+          "mini_headline": "ChatGPT利用で信頼低下",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg",
-                "cap": "[Adobe Stock]"
+                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/be1996da-571f-422e-94db-f78f12f371d3/Rendition/low-res/Content/Public",
+                "cap": "組織の方針がLLMs利用による信頼ペナルティを左右する。Credit: Yochanan Bigman"
               },
               {
                 "t": "p",
-                "x": "Washington University in St. LouisのHaofei Xu、Umar Iqbal、Jacob M. MontgomeryによるarXivのプレプリントによると、GoogleのAI-generated 検索要約は信頼性の高い情報源に頼ることが多いものの、事実に関する主張のおよそ九件に一件で未検証の情報を生成している。"
+                "x": "Samuel Meyersが、Hebrew University of JerusalemのDr. Yochanan Bigman、WHU – Otto Beisheim School of ManagementのDr. Roman Brikerとともに主導した研究がThe Leadership Quarterlyに掲載された。六つの研究を通じて、AI利用が明示的に禁止されていない場合でも、上司はChatGPTなどのLLMsを使う従業員をあまり信頼しないことがわかった。"
               },
               {
                 "t": "p",
-                "x": "研究チームは2026年初めの40日間、19の分野にわたるGoogleの急上昇クエリ55,393件を実行した。AI Overviewsが表示されたのは全クエリの13.7パーセントで、直接的な質問形式のクエリでは64.7パーセント、通常のキーワード検索では9.5パーセントだった。政治的に敏感なテーマではほとんど表示されなかった。"
+                "x": "ある実験では、仕事を自力で仕上げた従業員が上司の信頼を得る確率は68%だったのに対し、AIを使った場合は24%にとどまった。それでもAI利用は盗用よりは好意的に見られた。信頼の低さは、低い業績評価や、昇進への適性が低いという評価と結び付いていた。"
               },
               {
                 "t": "p",
-                "x": "引用されたドメインは通常の検索結果の先頭ページより一貫して信頼性が高かったが、引用されたウェブサイトのほぼ30パーセントは通常の検索結果の先頭ページのどこにも現れなかった。個々の事実に関する主張98,020件のうち11パーセントは引用ページに裏付けられておらず、その大半は情報の欠落によるものだった。情報源の信頼性と正確さの間に統計的な関係はなかった。"
-              },
-              {
-                "t": "p",
-                "x": "引用ページの半数以上にデジタル広告が掲載されており、クリックが減ればパブリッシャーの広告収入が失われる。一方でGoogleは要約の横に、時には上に、自社のスポンサー広告を表示し続けている。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Una de cada nueve afirmaciones\nde AI Overview no tiene respaldo",
-          "body": "Un análisis de AI Overviews de Google halló una de cada nueve afirmaciones sin respaldo en las fuentes citadas.",
-          "mini_headline": "AI Overviews sin respaldo en fuentes",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg",
-                "cap": "[Adobe Stock]"
-              },
-              {
-                "t": "p",
-                "x": "Los resúmenes de búsqueda AI-generated (generados por AI) de Google suelen apoyarse en fuentes muy creíbles, pero aun así producen información no verificada en aproximadamente una de cada nueve afirmaciones factuales, según una prepublicación en arXiv de Haofei Xu, Umar Iqbal y Jacob M. Montgomery, de la Washington University in St. Louis."
-              },
-              {
-                "t": "p",
-                "x": "Durante un periodo de 40 días a principios de 2026, el equipo ejecutó 55,393 consultas populares de Google en 19 categorías temáticas. AI Overviews se activó en el 13.7 por ciento de todas las consultas —el 64.7 por ciento en las formuladas como preguntas directas frente al 9.5 por ciento en las búsquedas estándar por palabras clave— y rara vez en temas políticamente sensibles."
-              },
-              {
-                "t": "p",
-                "x": "Los dominios citados eran sistemáticamente más creíbles que los resultados habituales de la primera página, pero casi el 30 por ciento de los sitios web citados no aparecía en ninguna parte de la primera página de resultados normales. De 98,020 afirmaciones factuales individuales, el 11 por ciento no estaba respaldado por las páginas citadas, sobre todo por omisiones; la credibilidad de la fuente no tuvo relación estadística con la exactitud."
-              },
-              {
-                "t": "p",
-                "x": "Más de la mitad de las páginas citadas contenían publicidad digital, por lo que la reducción de clics supone pérdida de ingresos publicitarios para los editores, mientras Google sigue mostrando sus propios anuncios patrocinados junto a los resúmenes, y a veces por encima."
+                "x": "組織がAI利用を明確に奨励すると、信頼ペナルティは大きく縮小し、統計的に有意ではなくなった。研究者らは、この緊張が従業員を申告のない「shadow AI」へと向かわせかねないと警告し、明確な方針と管理職研修を求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI Overview说法中\n九分之一缺乏来源支撑",
-          "body": "分析发现，Google AI Overviews九分之一的生成陈述缺乏所引来源支持。",
-          "mini_headline": "AI Overviews来源缺失",
+          "headline": "工作中用ChatGPT\n可能让上司不再信任你",
+          "body": "六项研究显示，上司较不信任LLM-using员工，而组织鼓励AI使用时这种惩罚会缩小。",
+          "mini_headline": "用ChatGPT有损信任",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg",
-                "cap": "[Adobe Stock]"
+                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/be1996da-571f-422e-94db-f78f12f371d3/Rendition/low-res/Content/Public",
+                "cap": "组织政策影响使用LLMs的信任惩罚。Credit: Yochanan Bigman"
               },
               {
                 "t": "p",
-                "x": "据Washington University in St. Louis（圣路易斯华盛顿大学）的Haofei Xu、Umar Iqbal和Jacob M. Montgomery发表的一篇arXiv预印本，Google的AI-generated（AI生成）搜索摘要常常依赖高可信度来源，但每九条事实陈述中仍约有一条属于未经证实的信息。"
+                "x": "由Samuel Meyers领衔、与Hebrew University of Jerusalem的Dr. Yochanan Bigman及WHU – Otto Beisheim School of Management的Dr. Roman Briker合作的研究发表在The Leadership Quarterly上。六项研究均发现，即便AI使用并未被明确禁止，上司对使用ChatGPT等LLMs的员工信任度也更低。"
               },
               {
                 "t": "p",
-                "x": "研究团队在2026年初的40天里，针对19个主题类别运行了55,393条Google热门查询。AI Overviews在全部查询中的触发率为13.7%——以直接问句提出的查询为64.7%，标准关键词搜索则为9.5%——而涉及政治敏感话题时极少触发。"
+                "x": "在一项实验中，亲自完成工作的员工获得上司信任的概率为68%，而使用AI者仅为24%。不过，使用AI仍比抄袭更受认可。信任度较低与更差的绩效评价以及更低的晋升适合度认知相关。"
               },
               {
                 "t": "p",
-                "x": "被引用域名的可信度始终高于常规首页结果，但近百分之三十的被引网站根本没有出现在常规结果首页。在98,020条单独事实陈述中，百分之十一得不到所引页面的支持，主要源于遗漏；来源可信度与准确性之间不存在统计关联。"
+                "x": "当组织明确鼓励使用AI时，信任惩罚大幅减弱，且不再具有统计显著性。研究人员警告，这种张力可能促使员工转向不公开的“shadow AI”，并呼吁制定清晰的政策、开展管理者培训。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Usar ChatGPT en el trabajo puede\ncostarte la confianza del jefe",
+          "body": "En seis estudios, los jefes confiaron menos en personal LLM-using, penalización que bajó si la empresa fomentaba la AI.",
+          "mini_headline": "Usar ChatGPT resta confianza",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/be1996da-571f-422e-94db-f78f12f371d3/Rendition/low-res/Content/Public",
+                "cap": "La política organizativa influye en la penalización de confianza por usar LLMs. Credit: Yochanan Bigman"
               },
               {
                 "t": "p",
-                "x": "超过一半的被引页面含有数字广告，因此点击减少意味着出版商损失广告收入，而Google仍在摘要旁边——有时甚至在其上方——展示自家赞助广告。"
+                "x": "Un estudio dirigido por Samuel Meyers junto con el Dr. Yochanan Bigman, de la Hebrew University of Jerusalem, y el Dr. Roman Briker, de la WHU – Otto Beisheim School of Management, publicado en The Leadership Quarterly, concluye a partir de seis estudios que los supervisores confían menos en los empleados que usan ChatGPT y otros LLMs, incluso cuando el uso de AI no está prohibido de forma explícita."
+              },
+              {
+                "t": "p",
+                "x": "En un experimento, los empleados que hicieron el trabajo por sí mismos tenían un 68% de probabilidades de ganarse la confianza de sus supervisores, frente a solo un 24% cuando usaban AI. Aun así, el uso de AI se veía con mejores ojos que el plagio. La menor confianza se asoció con peores evaluaciones de desempeño y una menor idoneidad percibida para un ascenso."
+              },
+              {
+                "t": "p",
+                "x": "Cuando las organizaciones fomentaban explícitamente el uso de AI, la penalización de confianza se reducía de forma sustancial y dejaba de ser estadísticamente significativa. Los investigadores advierten que esta tensión podría empujar a los empleados hacia una \"shadow AI\" no declarada y piden políticas claras y formación para mandos."
               }
             ]
           }
@@ -1295,125 +1261,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI Overview 주장\n아홉 중 하나는 근거 없다",
-          "body": "Google AI Overviews 주장 아홉 중 하나는 출처 근거가 없었다.",
-          "mini_headline": "AI Overviews, 출처 근거 부족",
+          "headline": "업무에 ChatGPT 쓰면\n상사 신뢰 잃을 수도",
+          "body": "상사는 LLM-using 직원을 덜 믿었지만 조직이 AI를 권하면 격차가 줄었다.",
+          "mini_headline": "ChatGPT 쓰면 신뢰 하락",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg",
-                "cap": "[Adobe Stock]"
+                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/be1996da-571f-422e-94db-f78f12f371d3/Rendition/low-res/Content/Public",
+                "cap": "조직 정책은 LLMs 사용에 따른 신뢰 불이익에 영향을 준다. Credit: Yochanan Bigman"
               },
               {
                 "t": "p",
-                "x": "Washington University in St. Louis의 Haofei Xu, Umar Iqbal, Jacob M. Montgomery가 낸 arXiv 사전 공개 논문에 따르면, Google의 AI-generated 검색 요약은 신뢰도 높은 출처에 자주 기대지만 사실 주장 약 아홉 건 중 한 건꼴로 검증되지 않은 정보를 내놓는다."
+                "x": "Samuel Meyers가 Hebrew University of Jerusalem의 Dr. Yochanan Bigman, WHU – Otto Beisheim School of Management의 Dr. Roman Briker와 함께 이끈 연구가 The Leadership Quarterly에 실렸다. 여섯 건의 연구 전반에서, AI 사용이 명시적으로 금지되지 않은 경우에도 상사는 ChatGPT와 기타 LLMs를 쓰는 직원을 덜 신뢰했다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 2026년 초 40일 동안 19개 주제 범주에 걸친 Google 인기 검색어 55,393개를 실행했다. AI Overviews는 전체 검색어의 13.7퍼센트에서 나타났는데, 직접적인 질문 형태 검색어에서는 64.7퍼센트, 일반 키워드 검색에서는 9.5퍼센트였고, 정치적으로 민감한 주제에서는 거의 나타나지 않았다."
+                "x": "한 실험에서 업무를 직접 끝낸 직원이 상사의 신뢰를 얻을 확률은 68%였지만, AI를 쓴 경우는 24%에 그쳤다. 그래도 AI 사용은 표절보다는 좋게 평가됐다. 낮은 신뢰는 더 나쁜 성과 평가, 더 낮게 인식된 승진 적합성과 연관됐다."
               },
               {
                 "t": "p",
-                "x": "인용된 도메인은 일반 첫 페이지 검색 결과보다 꾸준히 신뢰도가 높았지만, 인용된 웹사이트의 거의 30퍼센트는 일반 검색 결과 첫 페이지 어디에도 없었다. 개별 사실 주장 98,020건 가운데 11퍼센트는 인용 페이지가 뒷받침하지 않았고 대부분 누락 때문이었다. 출처 신뢰도와 정확도 사이에는 통계적 관계가 없었다."
-              },
-              {
-                "t": "p",
-                "x": "인용된 페이지의 절반 이상에 디지털 광고가 있어, 클릭이 줄면 언론사의 광고 수익 손실로 이어진다. 그사이 Google은 요약 옆에, 때로는 그 위에 자사 스폰서 광고를 계속 내보낸다."
+                "x": "조직이 AI 사용을 명시적으로 장려하면 신뢰 불이익은 크게 줄었고 더는 통계적으로 유의하지 않았다. 연구진은 이런 긴장이 직원들을 드러나지 않는 \"shadow AI\"로 몰 수 있다고 경고하며, 명확한 정책과 관리자 교육을 촉구했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI Overviewの主張\n九件に一件は出典の裏付けなし",
-          "body": "GoogleのAI Overviewsでは主張の九件に一件が引用元の裏付けを欠いた。",
-          "mini_headline": "AI Overviews、出典の裏付け欠く",
+          "headline": "職場でChatGPTを使うと\n上司の信頼を失うかも",
+          "body": "六つの研究で上司はLLM-usingの社員を信頼しにくく、組織がAI利用を促すと差は縮んだ。",
+          "mini_headline": "ChatGPT利用で信頼低下",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg",
-                "cap": "[Adobe Stock]"
+                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/be1996da-571f-422e-94db-f78f12f371d3/Rendition/low-res/Content/Public",
+                "cap": "組織の方針がLLMs利用による信頼ペナルティを左右する。Credit: Yochanan Bigman"
               },
               {
                 "t": "p",
-                "x": "Washington University in St. LouisのHaofei Xu、Umar Iqbal、Jacob M. MontgomeryによるarXivのプレプリントによると、GoogleのAI-generated 検索要約は信頼性の高い情報源に頼ることが多いものの、事実に関する主張のおよそ九件に一件で未検証の情報を生成している。"
+                "x": "Samuel Meyersが、Hebrew University of JerusalemのDr. Yochanan Bigman、WHU – Otto Beisheim School of ManagementのDr. Roman Brikerとともに主導した研究がThe Leadership Quarterlyに掲載された。六つの研究を通じて、AI利用が明示的に禁止されていない場合でも、上司はChatGPTなどのLLMsを使う従業員をあまり信頼しないことがわかった。"
               },
               {
                 "t": "p",
-                "x": "研究チームは2026年初めの40日間、19の分野にわたるGoogleの急上昇クエリ55,393件を実行した。AI Overviewsが表示されたのは全クエリの13.7パーセントで、直接的な質問形式のクエリでは64.7パーセント、通常のキーワード検索では9.5パーセントだった。政治的に敏感なテーマではほとんど表示されなかった。"
+                "x": "ある実験では、仕事を自力で仕上げた従業員が上司の信頼を得る確率は68%だったのに対し、AIを使った場合は24%にとどまった。それでもAI利用は盗用よりは好意的に見られた。信頼の低さは、低い業績評価や、昇進への適性が低いという評価と結び付いていた。"
               },
               {
                 "t": "p",
-                "x": "引用されたドメインは通常の検索結果の先頭ページより一貫して信頼性が高かったが、引用されたウェブサイトのほぼ30パーセントは通常の検索結果の先頭ページのどこにも現れなかった。個々の事実に関する主張98,020件のうち11パーセントは引用ページに裏付けられておらず、その大半は情報の欠落によるものだった。情報源の信頼性と正確さの間に統計的な関係はなかった。"
-              },
-              {
-                "t": "p",
-                "x": "引用ページの半数以上にデジタル広告が掲載されており、クリックが減ればパブリッシャーの広告収入が失われる。一方でGoogleは要約の横に、時には上に、自社のスポンサー広告を表示し続けている。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Una de cada nueve afirmaciones\nde AI Overview no tiene respaldo",
-          "body": "Un análisis de AI Overviews de Google halló una de cada nueve afirmaciones sin respaldo en las fuentes citadas.",
-          "mini_headline": "AI Overviews sin respaldo en fuentes",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg",
-                "cap": "[Adobe Stock]"
-              },
-              {
-                "t": "p",
-                "x": "Los resúmenes de búsqueda AI-generated (generados por AI) de Google suelen apoyarse en fuentes muy creíbles, pero aun así producen información no verificada en aproximadamente una de cada nueve afirmaciones factuales, según una prepublicación en arXiv de Haofei Xu, Umar Iqbal y Jacob M. Montgomery, de la Washington University in St. Louis."
-              },
-              {
-                "t": "p",
-                "x": "Durante un periodo de 40 días a principios de 2026, el equipo ejecutó 55,393 consultas populares de Google en 19 categorías temáticas. AI Overviews se activó en el 13.7 por ciento de todas las consultas —el 64.7 por ciento en las formuladas como preguntas directas frente al 9.5 por ciento en las búsquedas estándar por palabras clave— y rara vez en temas políticamente sensibles."
-              },
-              {
-                "t": "p",
-                "x": "Los dominios citados eran sistemáticamente más creíbles que los resultados habituales de la primera página, pero casi el 30 por ciento de los sitios web citados no aparecía en ninguna parte de la primera página de resultados normales. De 98,020 afirmaciones factuales individuales, el 11 por ciento no estaba respaldado por las páginas citadas, sobre todo por omisiones; la credibilidad de la fuente no tuvo relación estadística con la exactitud."
-              },
-              {
-                "t": "p",
-                "x": "Más de la mitad de las páginas citadas contenían publicidad digital, por lo que la reducción de clics supone pérdida de ingresos publicitarios para los editores, mientras Google sigue mostrando sus propios anuncios patrocinados junto a los resúmenes, y a veces por encima."
+                "x": "組織がAI利用を明確に奨励すると、信頼ペナルティは大きく縮小し、統計的に有意ではなくなった。研究者らは、この緊張が従業員を申告のない「shadow AI」へと向かわせかねないと警告し、明確な方針と管理職研修を求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI Overview说法中\n九分之一缺乏来源支撑",
-          "body": "分析发现，Google AI Overviews九分之一的生成陈述缺乏所引来源支持。",
-          "mini_headline": "AI Overviews来源缺失",
+          "headline": "工作中用ChatGPT\n可能让上司不再信任你",
+          "body": "六项研究显示，上司较不信任LLM-using员工，而组织鼓励AI使用时这种惩罚会缩小。",
+          "mini_headline": "用ChatGPT有损信任",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg",
-                "cap": "[Adobe Stock]"
+                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/be1996da-571f-422e-94db-f78f12f371d3/Rendition/low-res/Content/Public",
+                "cap": "组织政策影响使用LLMs的信任惩罚。Credit: Yochanan Bigman"
               },
               {
                 "t": "p",
-                "x": "据Washington University in St. Louis（圣路易斯华盛顿大学）的Haofei Xu、Umar Iqbal和Jacob M. Montgomery发表的一篇arXiv预印本，Google的AI-generated（AI生成）搜索摘要常常依赖高可信度来源，但每九条事实陈述中仍约有一条属于未经证实的信息。"
+                "x": "由Samuel Meyers领衔、与Hebrew University of Jerusalem的Dr. Yochanan Bigman及WHU – Otto Beisheim School of Management的Dr. Roman Briker合作的研究发表在The Leadership Quarterly上。六项研究均发现，即便AI使用并未被明确禁止，上司对使用ChatGPT等LLMs的员工信任度也更低。"
               },
               {
                 "t": "p",
-                "x": "研究团队在2026年初的40天里，针对19个主题类别运行了55,393条Google热门查询。AI Overviews在全部查询中的触发率为13.7%——以直接问句提出的查询为64.7%，标准关键词搜索则为9.5%——而涉及政治敏感话题时极少触发。"
+                "x": "在一项实验中，亲自完成工作的员工获得上司信任的概率为68%，而使用AI者仅为24%。不过，使用AI仍比抄袭更受认可。信任度较低与更差的绩效评价以及更低的晋升适合度认知相关。"
               },
               {
                 "t": "p",
-                "x": "被引用域名的可信度始终高于常规首页结果，但近百分之三十的被引网站根本没有出现在常规结果首页。在98,020条单独事实陈述中，百分之十一得不到所引页面的支持，主要源于遗漏；来源可信度与准确性之间不存在统计关联。"
+                "x": "当组织明确鼓励使用AI时，信任惩罚大幅减弱，且不再具有统计显著性。研究人员警告，这种张力可能促使员工转向不公开的“shadow AI”，并呼吁制定清晰的政策、开展管理者培训。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Usar ChatGPT en el trabajo puede\ncostarte la confianza del jefe",
+          "body": "En seis estudios, los jefes confiaron menos en personal LLM-using, penalización que bajó si la empresa fomentaba la AI.",
+          "mini_headline": "Usar ChatGPT resta confianza",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/be1996da-571f-422e-94db-f78f12f371d3/Rendition/low-res/Content/Public",
+                "cap": "La política organizativa influye en la penalización de confianza por usar LLMs. Credit: Yochanan Bigman"
               },
               {
                 "t": "p",
-                "x": "超过一半的被引页面含有数字广告，因此点击减少意味着出版商损失广告收入，而Google仍在摘要旁边——有时甚至在其上方——展示自家赞助广告。"
+                "x": "Un estudio dirigido por Samuel Meyers junto con el Dr. Yochanan Bigman, de la Hebrew University of Jerusalem, y el Dr. Roman Briker, de la WHU – Otto Beisheim School of Management, publicado en The Leadership Quarterly, concluye a partir de seis estudios que los supervisores confían menos en los empleados que usan ChatGPT y otros LLMs, incluso cuando el uso de AI no está prohibido de forma explícita."
+              },
+              {
+                "t": "p",
+                "x": "En un experimento, los empleados que hicieron el trabajo por sí mismos tenían un 68% de probabilidades de ganarse la confianza de sus supervisores, frente a solo un 24% cuando usaban AI. Aun así, el uso de AI se veía con mejores ojos que el plagio. La menor confianza se asoció con peores evaluaciones de desempeño y una menor idoneidad percibida para un ascenso."
+              },
+              {
+                "t": "p",
+                "x": "Cuando las organizaciones fomentaban explícitamente el uso de AI, la penalización de confianza se reducía de forma sustancial y dejaba de ser estadísticamente significativa. Los investigadores advierten que esta tensión podría empujar a los empleados hacia una \"shadow AI\" no declarada y piden políticas claras y formación para mandos."
               }
             ]
           }
@@ -1421,15 +1371,15 @@
       }
     },
     {
-      "id": "science-titanium-print-ai",
+      "id": "claude-not-x-but-y-rhetoric",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI, 3D-printed\n티타늄 설정 탐색 좁힌다",
-      "body": "AI가 생산 전에 티타늄 부품 3D-printing 설정을 좁혀 시행착오를 던다.",
-      "mini_headline": "AI, 티타늄 프린팅 최적화",
+      "headline": "AI 'X 아닌 Y' 화법\n2,000년 역사가 있다",
+      "body": "Claude의 'X 아닌 Y' 버릇을 수사학에서 찾고 LoRA·프롬프트로 손봤다.",
+      "mini_headline": "AI의 'not X, but Y' 버릇",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-11-ai-recipes-3d-titanium.html",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/one-of-ais-most-annoying-writing-habits-has-a-2000-year-old-history/",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
@@ -1437,155 +1387,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg",
-            "cap": "그래픽 초록(Graphical abstract). Credit: International Journal of Precision Engineering and Manufacturing (2025). DOI: 10.1007/s12541-025-01360-0"
+            "src": "https://www.psypost.org/wp-content/uploads/2025/04/artificial-intelligence.jpg"
           },
           {
             "t": "p",
-            "x": "Istanbul Technical University와 Gazi University, 협력 기관 연구진이 티타늄 합금 Ti6Al4V의 선택적 레이저 용융에 쓸 설명 가능한 머신러닝 프레임워크를 만들었다. 생산 테스트 전에 프린팅 설정 탐색 범위를 좁혀 불필요한 시행착오를 줄이는 게 목표다."
+            "x": "Federico Boggia는 arXiv 프리프린트에서 AI-generated 텍스트의 \"not X, but Y\" 버릇 뒤에 있는 에파노르토시스(epanorthosis)를 살핀다. Cicero와 Quintilian이 correctio로 분류한, 말하던 이가 스스로 말을 바로잡는 고대 수사법이다. Boggia는 이 남용이 주로 웹 카피라이팅에서 학습되고 인간 피드백 튜닝으로 강화된다고 본다."
           },
           {
             "t": "p",
-            "x": "연구진은 기존 발표 연구에서 실험 기록 201건을 모아 레이저 출력, 스캔 속도, 층 두께, 해치 간격, 레이저 스폿 크기, 분말 크기 등 여섯 변수를 항복강도, 극한 인장강도, 연신율과 연결했다. 여러 머신러닝 기법 중 인공신경망의 예측이 가장 일관됐고, SHAP 분석은 각 변수가 예측에 준 영향을 보여 줬다."
+            "x": "Claude Haiku, Sonnet, Opus를 일곱 개 장르의 인간 글과 비교했더니, 모델은 연설문에서 강조형 에파노르토시스를 인간보다 두 배 넘게 썼다(만 단어당 33.5 대 14.9). 반면 비격식 Q&A에서는 인간의 오분의 일에도 못 미쳤다(1.3 대 8.2)."
           },
           {
             "t": "p",
-            "x": "역설계 인터페이스에 목표 강도와 연성을 넣으면 시험해 볼 공정 설정을 제안한다. 지도교수 Hüseyin Kızıl은 이를 \"공정 창을 좁히는 데이터 기반 의사결정 도구\"라고 설명했다. 연구진은 이 도구가 \"물리적 시험, 품질 보증, 인증을 대체하려는 것이 아니다\"라고 강조했다."
+            "x": "Qwen2.5-7B-Instruct로 학습한 LoRA 어댑터는 최대 강도에서 밀도를 61.4에서 4.7로 떨어뜨렸다. 한 문장짜리 프롬프트 지시만으로도 Claude가 쓴 연설문에서 이 표현이 사분의 삼 가까이 줄었다. 다만 이 논문은 아직 동료 심사를 거치지 않은 프리프린트이고, 실험도 소규모 파일럿이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI narrows the search for\n3D-printed titanium settings",
-          "body": "A study shows AI can narrow 3D-printing settings for titanium parts before production, cutting trial and error.",
-          "mini_headline": "AI tunes titanium printing",
+          "headline": "AI's 'not X, but Y' habit has\na 2,000-year-old history",
+          "body": "A preprint traced the 'not X, but Y' tic in Claude models to classical rhetoric and piloted LoRA and prompt fixes.",
+          "mini_headline": "AI's 'not X, but Y' habit",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg",
-                "cap": "Graphical abstract. Credit: International Journal of Precision Engineering and Manufacturing (2025). DOI: 10.1007/s12541-025-01360-0"
+                "src": "https://www.psypost.org/wp-content/uploads/2025/04/artificial-intelligence.jpg"
               },
               {
                 "t": "p",
-                "x": "Researchers from Istanbul Technical University, Gazi University and partner institutions built an explainable machine-learning framework for selective laser melting of the titanium alloy Ti6Al4V, aiming to narrow the search for printing settings before production testing begins and reduce unnecessary trial and error."
+                "x": "An arXiv preprint by Federico Boggia examines epanorthosis, the ancient rhetorical figure of self-correction cataloged by Cicero and Quintilian as correctio, behind the \"not X, but Y\" habit of AI-generated text. Boggia argues the overuse is mainly learned from web copywriting and reinforced by human-feedback tuning."
               },
               {
                 "t": "p",
-                "x": "They compiled 201 experimental records from published studies linking six parameters — laser power, scanning speed, layer thickness, hatch spacing, laser spot size and powder size — to yield strength, ultimate tensile strength and elongation. Of several machine-learning approaches, an artificial neural network gave the most consistent predictions, and SHAP analysis showed how each parameter shaped them."
+                "x": "Comparing Claude Haiku, Sonnet and Opus with human texts across seven genres, the models used emphatic epanorthosis at more than double the human rate in speeches (33.5 vs 14.9 per ten thousand words) but less than one-fifth in informal Q&A (1.3 vs 8.2)."
               },
               {
                 "t": "p",
-                "x": "A reverse-design interface takes target strength and ductility and suggests process settings to test. Supervisor Hüseyin Kızıl describes it as \"a data-driven decision tool to narrow the process window\"; the researchers stress it \"is not intended to replace physical testing, quality assurance or certification.\""
+                "x": "A LoRA adapter trained on Qwen2.5-7B-Instruct cut density from 61.4 to 4.7 at full strength, and a one-sentence prompt instruction cut it by nearly three-quarters in Claude's oratory. The paper is a preprint that has not yet been peer reviewed, and the tests are small pilots."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI, 3D-printed\n티타늄 설정 탐색 좁힌다",
-          "body": "AI가 생산 전에 티타늄 부품 3D-printing 설정을 좁혀 시행착오를 던다.",
-          "mini_headline": "AI, 티타늄 프린팅 최적화",
+          "headline": "AI 'X 아닌 Y' 화법\n2,000년 역사가 있다",
+          "body": "Claude의 'X 아닌 Y' 버릇을 수사학에서 찾고 LoRA·프롬프트로 손봤다.",
+          "mini_headline": "AI의 'not X, but Y' 버릇",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg",
-                "cap": "그래픽 초록(Graphical abstract). Credit: International Journal of Precision Engineering and Manufacturing (2025). DOI: 10.1007/s12541-025-01360-0"
+                "src": "https://www.psypost.org/wp-content/uploads/2025/04/artificial-intelligence.jpg"
               },
               {
                 "t": "p",
-                "x": "Istanbul Technical University와 Gazi University, 협력 기관 연구진이 티타늄 합금 Ti6Al4V의 선택적 레이저 용융에 쓸 설명 가능한 머신러닝 프레임워크를 만들었다. 생산 테스트 전에 프린팅 설정 탐색 범위를 좁혀 불필요한 시행착오를 줄이는 게 목표다."
+                "x": "Federico Boggia는 arXiv 프리프린트에서 AI-generated 텍스트의 \"not X, but Y\" 버릇 뒤에 있는 에파노르토시스(epanorthosis)를 살핀다. Cicero와 Quintilian이 correctio로 분류한, 말하던 이가 스스로 말을 바로잡는 고대 수사법이다. Boggia는 이 남용이 주로 웹 카피라이팅에서 학습되고 인간 피드백 튜닝으로 강화된다고 본다."
               },
               {
                 "t": "p",
-                "x": "연구진은 기존 발표 연구에서 실험 기록 201건을 모아 레이저 출력, 스캔 속도, 층 두께, 해치 간격, 레이저 스폿 크기, 분말 크기 등 여섯 변수를 항복강도, 극한 인장강도, 연신율과 연결했다. 여러 머신러닝 기법 중 인공신경망의 예측이 가장 일관됐고, SHAP 분석은 각 변수가 예측에 준 영향을 보여 줬다."
+                "x": "Claude Haiku, Sonnet, Opus를 일곱 개 장르의 인간 글과 비교했더니, 모델은 연설문에서 강조형 에파노르토시스를 인간보다 두 배 넘게 썼다(만 단어당 33.5 대 14.9). 반면 비격식 Q&A에서는 인간의 오분의 일에도 못 미쳤다(1.3 대 8.2)."
               },
               {
                 "t": "p",
-                "x": "역설계 인터페이스에 목표 강도와 연성을 넣으면 시험해 볼 공정 설정을 제안한다. 지도교수 Hüseyin Kızıl은 이를 \"공정 창을 좁히는 데이터 기반 의사결정 도구\"라고 설명했다. 연구진은 이 도구가 \"물리적 시험, 품질 보증, 인증을 대체하려는 것이 아니다\"라고 강조했다."
+                "x": "Qwen2.5-7B-Instruct로 학습한 LoRA 어댑터는 최대 강도에서 밀도를 61.4에서 4.7로 떨어뜨렸다. 한 문장짜리 프롬프트 지시만으로도 Claude가 쓴 연설문에서 이 표현이 사분의 삼 가까이 줄었다. 다만 이 논문은 아직 동료 심사를 거치지 않은 프리프린트이고, 실험도 소규모 파일럿이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが3D-printed\nチタンの設定探索を絞る",
-          "body": "AIは生産前にチタン部品の3D-printing 設定を絞り込み、試行錯誤を減らせる。",
-          "mini_headline": "AIがチタン印刷を最適化",
+          "headline": "AIの「XでなくY」癖\n2,000年の歴史を持つ",
+          "body": "Claudeの「XでなくY」癖を古典修辞学にたどり、LoRAとプロンプトで是正を試した。",
+          "mini_headline": "AIの'not X, but Y'癖",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg",
-                "cap": "グラフィカルアブストラクト(Graphical abstract)。Credit: International Journal of Precision Engineering and Manufacturing (2025). DOI: 10.1007/s12541-025-01360-0"
+                "src": "https://www.psypost.org/wp-content/uploads/2025/04/artificial-intelligence.jpg"
               },
               {
                 "t": "p",
-                "x": "Istanbul Technical University、Gazi Universityと提携機関の研究者らは、チタン合金Ti6Al4Vの選択的レーザー溶融向けに、説明可能な機械学習フレームワークを構築した。生産試験の前に印刷設定の探索範囲を絞り込み、不要な試行錯誤を減らすことを狙う。"
+                "x": "Federico BoggiaのarXivプレプリントは、AI-generatedテキストに見られる\"not X, but Y\"の癖の背後にあるエパノルトーシス(epanorthosis)を検証する。CiceroとQuintilianがcorrectioとして分類した、自己訂正の古代修辞技法だ。Boggiaは、この多用が主にウェブのコピーライティングから学習され、人間のフィードバックによる調整で強化されたと論じる。"
               },
               {
                 "t": "p",
-                "x": "研究チームは既発表の研究から201件の実験記録を集め、レーザー出力、走査速度、層厚、ハッチ間隔、レーザースポット径、粉末粒径の六つのパラメータを、降伏強さ、引張強さ、伸びと結び付けた。複数の機械学習手法のうち人工ニューラルネットワークが最も安定した予測を示し、SHAP分析で各パラメータが予測にどう影響したかが示された。"
+                "x": "Claude Haiku、Sonnet、Opusを七つのジャンルで人間の文章と比較すると、モデルは演説で強調的エパノルトーシスを人間の二倍以上の頻度で用いた(一万語あたり33.5対14.9)一方、くだけたQ&Aでは五分の一未満だった(1.3対8.2)。"
               },
               {
                 "t": "p",
-                "x": "逆設計インターフェースは目標とする強度と延性を入力すると、試すべきプロセス設定を提案する。指導教員のHüseyin Kızılはこれを「プロセスウィンドウを絞り込むためのデータ駆動型の意思決定ツール」と説明し、研究者らは「物理試験、品質保証、認証に代わることを意図したものではない」と強調する。"
+                "x": "Qwen2.5-7B-Instructで訓練したLoRAアダプターは最大強度で密度を61.4から4.7に下げ、一文のプロンプト指示はClaudeの演説文で四分の三近く減らした。この論文は査読前のプレプリントで、検証は小規模なパイロットにとどまる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI缩小3D-printed\n钛件参数搜索范围",
-          "body": "研究显示，AI可在生产前缩小钛部件3D-printing 参数范围，减少试错。",
-          "mini_headline": "AI优化钛金属打印",
+          "headline": "AI的“不是X，而是Y”\n已有2,000年历史",
+          "body": "预印本将Claude的“不是X而是Y”习惯追溯至古典修辞，并试验了LoRA与提示词修正。",
+          "mini_headline": "AI的“not X, but Y”习惯",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg",
-                "cap": "图形摘要（Graphical abstract）。Credit: International Journal of Precision Engineering and Manufacturing (2025). DOI: 10.1007/s12541-025-01360-0"
+                "src": "https://www.psypost.org/wp-content/uploads/2025/04/artificial-intelligence.jpg"
               },
               {
                 "t": "p",
-                "x": "来自Istanbul Technical University、Gazi University及合作机构的研究人员，为钛合金Ti6Al4V的选择性激光熔化构建了一个可解释的机器学习框架，旨在生产测试开始前缩小打印参数的搜索范围，减少不必要的试错。"
+                "x": "Federico Boggia在arXiv上发布的预印本研究了AI-generated文本中“not X, but Y”习惯背后的修辞格epanorthosis（更正法），即Cicero和Quintilian归为correctio的古老自我修正修辞手法。Boggia认为，这种过度使用主要习自网络文案写作，并在人类反馈调优中得到强化。"
               },
               {
                 "t": "p",
-                "x": "他们从已发表研究中汇编了201条实验记录，将激光功率、扫描速度、层厚、填充间距、激光光斑尺寸和粉末粒径这六个参数与屈服强度、极限抗拉强度和伸长率关联起来。在多种机器学习方法中，人工神经网络给出的预测最为一致，SHAP分析则展示了各参数如何影响预测。"
+                "x": "将Claude Haiku、Sonnet和Opus与人类文本在七种体裁中比较后发现，模型在演讲中使用强调式更正法的频率是人类的两倍多（每万词33.5对14.9），在非正式Q&A中却不到人类的五分之一（1.3对8.2）。"
               },
               {
                 "t": "p",
-                "x": "一个逆向设计界面可根据目标强度和延展性，推荐待测试的工艺参数。导师Hüseyin Kızıl将其描述为“缩小工艺窗口的数据驱动决策工具”；研究人员强调，它“并非用来取代物理测试、质量保证或认证”。"
+                "x": "基于Qwen2.5-7B-Instruct训练的LoRA适配器在满强度下将密度从61.4降至4.7；一句话的提示指令则让Claude演讲文中的该用法减少近四分之三。该论文为尚未经过同行评审的预印本，测试也只是小规模试点。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI acota la búsqueda de\najustes para titanio 3D-printed",
-          "body": "Según un estudio, la AI acota los ajustes de 3D-printing de titanio antes de producir, con menos ensayo y error.",
-          "mini_headline": "La AI ajusta la impresión de titanio",
+          "headline": "El tic 'no X, sino Y' de la AI\ntiene 2000 años de historia",
+          "body": "Un preprint ligó el tic 'no X, sino Y' de Claude a la retórica clásica y probó soluciones con LoRA y prompts.",
+          "mini_headline": "El hábito 'not X, but Y' de la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg",
-                "cap": "Resumen gráfico (Graphical abstract). Credit: International Journal of Precision Engineering and Manufacturing (2025). DOI: 10.1007/s12541-025-01360-0"
+                "src": "https://www.psypost.org/wp-content/uploads/2025/04/artificial-intelligence.jpg"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la Istanbul Technical University, la Gazi University e instituciones asociadas crearon un marco explicable de aprendizaje automático para la fusión selectiva por láser de la aleación de titanio Ti6Al4V, con el objetivo de acotar la búsqueda de ajustes de impresión antes de que empiecen las pruebas de producción y reducir el ensayo y error innecesario."
+                "x": "Un preprint de arXiv de Federico Boggia examina la epanortosis (epanorthosis), la antigua figura retórica de autocorrección que Cicero y Quintilian catalogaron como correctio, detrás del hábito \"not X, but Y\" del texto AI-generated. Boggia sostiene que el uso excesivo se aprende sobre todo de la redacción publicitaria web y se refuerza con el ajuste basado en retroalimentación humana."
               },
               {
                 "t": "p",
-                "x": "Recopilaron 201 registros experimentales de estudios publicados que vinculan seis parámetros —potencia del láser, velocidad de escaneo, espesor de capa, separación entre pasadas, tamaño del punto láser y tamaño del polvo— con el límite elástico, la resistencia máxima a la tracción y el alargamiento. Entre varios enfoques de aprendizaje automático, una red neuronal artificial ofreció las predicciones más consistentes, y el análisis SHAP mostró cómo influyó cada parámetro en ellas."
+                "x": "Al comparar Claude Haiku, Sonnet y Opus con textos humanos en siete géneros, los modelos usaron la epanortosis enfática a más del doble de la tasa humana en discursos (33.5 frente a 14.9 por cada diez mil palabras), pero a menos de una quinta parte en Q&A informales (1.3 frente a 8.2)."
               },
               {
                 "t": "p",
-                "x": "Una interfaz de diseño inverso recibe la resistencia y la ductilidad objetivo y sugiere ajustes de proceso para probar. El supervisor Hüseyin Kızıl la describe como \"una herramienta de decisión basada en datos para acotar la ventana de proceso\"; los investigadores subrayan que \"no pretende sustituir las pruebas físicas, el aseguramiento de la calidad ni la certificación\"."
+                "x": "Un adaptador LoRA entrenado sobre Qwen2.5-7B-Instruct redujo la densidad de 61.4 a 4.7 a plena intensidad, y una instrucción de prompt de una sola frase la recortó casi tres cuartas partes en la oratoria de Claude. El artículo es un preprint que aún no ha pasado revisión por pares, y las pruebas son pequeños pilotos."
               }
             ]
           }
@@ -1593,109 +1537,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI, 3D-printed\n티타늄 설정 탐색 좁힌다",
-          "body": "AI가 생산 전 티타늄 부품 3D-printing 설정을 좁혀 시행착오를 줄인다.",
-          "mini_headline": "AI, 티타늄 프린팅 최적화",
+          "headline": "AI 'X 아닌 Y' 화법\n2,000년 역사가 있다",
+          "body": "Claude의 'X 아닌 Y' 버릇을 수사학에서 찾고 LoRA·프롬프트로 손봤다.",
+          "mini_headline": "AI의 'not X, but Y' 버릇",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg",
-                "cap": "그래픽 초록(Graphical abstract). Credit: International Journal of Precision Engineering and Manufacturing (2025). DOI: 10.1007/s12541-025-01360-0"
+                "src": "https://www.psypost.org/wp-content/uploads/2025/04/artificial-intelligence.jpg"
               },
               {
                 "t": "p",
-                "x": "Istanbul Technical University, Gazi University와 협력 기관 연구진은 티타늄 합금 Ti6Al4V의 선택적 레이저 용융을 위한 설명 가능한 머신러닝 프레임워크를 구축했다. 생산 테스트에 앞서 프린팅 설정 탐색 범위를 좁히고 불필요한 시행착오를 줄이는 것이 목표다."
+                "x": "Federico Boggia의 arXiv 프리프린트는 AI-generated 텍스트의 \"not X, but Y\" 버릇 뒤에 있는 에파노르토시스(epanorthosis)를 살핀다. 이는 Cicero와 Quintilian이 correctio로 분류한, 스스로를 바로잡는 고대 수사법이다. Boggia는 이런 남용이 주로 웹 카피라이팅에서 학습되고 인간 피드백 튜닝으로 강화된다고 본다."
               },
               {
                 "t": "p",
-                "x": "연구진은 기존 발표 연구에서 실험 기록 201건을 모아 레이저 출력, 스캔 속도, 층 두께, 해치 간격, 레이저 스폿 크기, 분말 크기 등 여섯 가지 변수를 항복강도, 극한 인장강도, 연신율과 연결했다. 여러 머신러닝 기법 가운데 인공신경망이 가장 일관된 예측을 내놓았고, SHAP 분석은 각 변수가 예측에 어떤 영향을 미쳤는지 보여 줬다."
+                "x": "Claude Haiku, Sonnet, Opus를 일곱 개 장르의 인간 글과 비교하자, 모델은 연설문에서 강조형 에파노르토시스를 인간보다 두 배 넘게 썼지만(만 단어당 33.5 대 14.9), 비격식 Q&A에서는 오분의 일에도 못 미쳤다(1.3 대 8.2)."
               },
               {
                 "t": "p",
-                "x": "역설계 인터페이스는 목표 강도와 연성을 입력받아 시험해 볼 공정 설정을 제안한다. 지도교수 Hüseyin Kızıl은 이를 \"공정 창을 좁히는 데이터 기반 의사결정 도구\"라고 설명했다. 연구진은 이 도구가 \"물리적 시험, 품질 보증, 인증을 대체하려는 것이 아니다\"라고 강조했다."
+                "x": "Qwen2.5-7B-Instruct로 학습한 LoRA 어댑터는 최대 강도에서 밀도를 61.4에서 4.7로 낮췄고, 한 문장짜리 프롬프트 지시는 Claude의 연설문에서 이를 사분의 삼 가까이 줄였다. 이 논문은 아직 동료 심사를 거치지 않은 프리프린트이며, 실험은 소규모 파일럿이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが3D-printed\nチタンの設定探索を絞る",
-          "body": "AIは生産前にチタン部品の3D-printing 設定を絞り込み、試行錯誤を減らせる。",
-          "mini_headline": "AIがチタン印刷を最適化",
+          "headline": "AIの「XでなくY」癖\n2,000年の歴史を持つ",
+          "body": "Claudeの「XでなくY」癖を古典修辞学にたどり、LoRAとプロンプトで是正を試した。",
+          "mini_headline": "AIの'not X, but Y'癖",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg",
-                "cap": "グラフィカルアブストラクト(Graphical abstract)。Credit: International Journal of Precision Engineering and Manufacturing (2025). DOI: 10.1007/s12541-025-01360-0"
+                "src": "https://www.psypost.org/wp-content/uploads/2025/04/artificial-intelligence.jpg"
               },
               {
                 "t": "p",
-                "x": "Istanbul Technical University、Gazi Universityと提携機関の研究者らは、チタン合金Ti6Al4Vの選択的レーザー溶融向けに、説明可能な機械学習フレームワークを構築した。生産試験の前に印刷設定の探索範囲を絞り込み、不要な試行錯誤を減らすことを狙う。"
+                "x": "Federico BoggiaのarXivプレプリントは、AI-generatedテキストに見られる\"not X, but Y\"の癖の背後にあるエパノルトーシス(epanorthosis)を検証する。CiceroとQuintilianがcorrectioとして分類した、自己訂正の古代修辞技法だ。Boggiaは、この多用が主にウェブのコピーライティングから学習され、人間のフィードバックによる調整で強化されたと論じる。"
               },
               {
                 "t": "p",
-                "x": "研究チームは既発表の研究から201件の実験記録を集め、レーザー出力、走査速度、層厚、ハッチ間隔、レーザースポット径、粉末粒径の六つのパラメータを、降伏強さ、引張強さ、伸びと結び付けた。複数の機械学習手法のうち人工ニューラルネットワークが最も安定した予測を示し、SHAP分析で各パラメータが予測にどう影響したかが示された。"
+                "x": "Claude Haiku、Sonnet、Opusを七つのジャンルで人間の文章と比較すると、モデルは演説で強調的エパノルトーシスを人間の二倍以上の頻度で用いた(一万語あたり33.5対14.9)一方、くだけたQ&Aでは五分の一未満だった(1.3対8.2)。"
               },
               {
                 "t": "p",
-                "x": "逆設計インターフェースは目標とする強度と延性を入力すると、試すべきプロセス設定を提案する。指導教員のHüseyin Kızılはこれを「プロセスウィンドウを絞り込むためのデータ駆動型の意思決定ツール」と説明し、研究者らは「物理試験、品質保証、認証に代わることを意図したものではない」と強調する。"
+                "x": "Qwen2.5-7B-Instructで訓練したLoRAアダプターは最大強度で密度を61.4から4.7に下げ、一文のプロンプト指示はClaudeの演説文で四分の三近く減らした。この論文は査読前のプレプリントで、検証は小規模なパイロットにとどまる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI缩小3D-printed\n钛件参数搜索范围",
-          "body": "研究显示，AI可在生产前缩小钛部件3D-printing 参数范围，减少试错。",
-          "mini_headline": "AI优化钛金属打印",
+          "headline": "AI的“不是X，而是Y”\n已有2,000年历史",
+          "body": "预印本将Claude的“不是X而是Y”习惯追溯至古典修辞，并试验了LoRA与提示词修正。",
+          "mini_headline": "AI的“not X, but Y”习惯",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg",
-                "cap": "图形摘要（Graphical abstract）。Credit: International Journal of Precision Engineering and Manufacturing (2025). DOI: 10.1007/s12541-025-01360-0"
+                "src": "https://www.psypost.org/wp-content/uploads/2025/04/artificial-intelligence.jpg"
               },
               {
                 "t": "p",
-                "x": "来自Istanbul Technical University、Gazi University及合作机构的研究人员，为钛合金Ti6Al4V的选择性激光熔化构建了一个可解释的机器学习框架，旨在生产测试开始前缩小打印参数的搜索范围，减少不必要的试错。"
+                "x": "Federico Boggia在arXiv上发布的预印本研究了AI-generated文本中“not X, but Y”习惯背后的修辞格epanorthosis（更正法），即Cicero和Quintilian归为correctio的古老自我修正修辞手法。Boggia认为，这种过度使用主要习自网络文案写作，并在人类反馈调优中得到强化。"
               },
               {
                 "t": "p",
-                "x": "他们从已发表研究中汇编了201条实验记录，将激光功率、扫描速度、层厚、填充间距、激光光斑尺寸和粉末粒径这六个参数与屈服强度、极限抗拉强度和伸长率关联起来。在多种机器学习方法中，人工神经网络给出的预测最为一致，SHAP分析则展示了各参数如何影响预测。"
+                "x": "将Claude Haiku、Sonnet和Opus与人类文本在七种体裁中比较后发现，模型在演讲中使用强调式更正法的频率是人类的两倍多（每万词33.5对14.9），在非正式Q&A中却不到人类的五分之一（1.3对8.2）。"
               },
               {
                 "t": "p",
-                "x": "一个逆向设计界面可根据目标强度和延展性，推荐待测试的工艺参数。导师Hüseyin Kızıl将其描述为“缩小工艺窗口的数据驱动决策工具”；研究人员强调，它“并非用来取代物理测试、质量保证或认证”。"
+                "x": "基于Qwen2.5-7B-Instruct训练的LoRA适配器在满强度下将密度从61.4降至4.7；一句话的提示指令则让Claude演讲文中的该用法减少近四分之三。该论文为尚未经过同行评审的预印本，测试也只是小规模试点。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI acota la búsqueda de\najustes para titanio 3D-printed",
-          "body": "Según un estudio, la AI acota los ajustes de 3D-printing de titanio antes de producir, con menos ensayo y error.",
-          "mini_headline": "La AI ajusta la impresión de titanio",
+          "headline": "El tic 'no X, sino Y' de la AI\ntiene 2000 años de historia",
+          "body": "Un preprint ligó el tic 'no X, sino Y' de Claude a la retórica clásica y probó soluciones con LoRA y prompts.",
+          "mini_headline": "El hábito 'not X, but Y' de la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg",
-                "cap": "Resumen gráfico (Graphical abstract). Credit: International Journal of Precision Engineering and Manufacturing (2025). DOI: 10.1007/s12541-025-01360-0"
+                "src": "https://www.psypost.org/wp-content/uploads/2025/04/artificial-intelligence.jpg"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la Istanbul Technical University, la Gazi University e instituciones asociadas crearon un marco explicable de aprendizaje automático para la fusión selectiva por láser de la aleación de titanio Ti6Al4V, con el objetivo de acotar la búsqueda de ajustes de impresión antes de que empiecen las pruebas de producción y reducir el ensayo y error innecesario."
+                "x": "Un preprint de arXiv de Federico Boggia examina la epanortosis (epanorthosis), la antigua figura retórica de autocorrección que Cicero y Quintilian catalogaron como correctio, detrás del hábito \"not X, but Y\" del texto AI-generated. Boggia sostiene que el uso excesivo se aprende sobre todo de la redacción publicitaria web y se refuerza con el ajuste basado en retroalimentación humana."
               },
               {
                 "t": "p",
-                "x": "Recopilaron 201 registros experimentales de estudios publicados que vinculan seis parámetros —potencia del láser, velocidad de escaneo, espesor de capa, separación entre pasadas, tamaño del punto láser y tamaño del polvo— con el límite elástico, la resistencia máxima a la tracción y el alargamiento. Entre varios enfoques de aprendizaje automático, una red neuronal artificial ofreció las predicciones más consistentes, y el análisis SHAP mostró cómo influyó cada parámetro en ellas."
+                "x": "Al comparar Claude Haiku, Sonnet y Opus con textos humanos en siete géneros, los modelos usaron la epanortosis enfática a más del doble de la tasa humana en discursos (33.5 frente a 14.9 por cada diez mil palabras), pero a menos de una quinta parte en Q&A informales (1.3 frente a 8.2)."
               },
               {
                 "t": "p",
-                "x": "Una interfaz de diseño inverso recibe la resistencia y la ductilidad objetivo y sugiere ajustes de proceso para probar. El supervisor Hüseyin Kızıl la describe como \"una herramienta de decisión basada en datos para acotar la ventana de proceso\"; los investigadores subrayan que \"no pretende sustituir las pruebas físicas, el aseguramiento de la calidad ni la certificación\"."
+                "x": "Un adaptador LoRA entrenado sobre Qwen2.5-7B-Instruct redujo la densidad de 61.4 a 4.7 a plena intensidad, y una instrucción de prompt de una sola frase la recortó casi tres cuartas partes en la oratoria de Claude. El artículo es un preprint que aún no ha pasado revisión por pares, y las pruebas son pequeños pilotos."
               }
             ]
           }

@@ -1,34 +1,30 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "section": "movies",
   "media": [
     {
-      "id": "movies-imcore-core-studio",
+      "id": "nolan-dga-ai-studios",
       "type": "image",
-      "src": "pipeline/media/movies-imcore-core-studio.jpg"
+      "src": "pipeline/media/nolan-dga-ai-studios.jpg"
     },
     {
-      "id": "hotsea-melochu-anime",
+      "id": "olm-animins-ai-coloring",
       "type": "image",
-      "src": "pipeline/media/hotsea-melochu-anime.jpg"
+      "src": "pipeline/media/olm-animins-ai-coloring.jpg"
     },
     {
-      "id": "curiousrefuge-ai-clone-shoot",
-      "type": "video",
-      "src": "pipeline/media/curiousrefuge-ai-clone-shoot.mp4",
-      "poster": "pipeline/media/curiousrefuge-ai-clone-shoot.jpg"
+      "id": "china-ai-shortdrama-crackdown",
+      "type": "svg"
     },
     {
-      "id": "curiousrefuge-sam-audio-music",
-      "type": "video",
-      "src": "pipeline/media/curiousrefuge-sam-audio-music.mp4",
-      "poster": "pipeline/media/curiousrefuge-sam-audio-music.jpg"
+      "id": "camerimage-2026-ai-opening",
+      "type": "image",
+      "src": "pipeline/media/camerimage-2026-ai-opening.jpg"
     },
     {
-      "id": "pvc-ai-firmware-framerate",
-      "type": "video",
-      "src": "pipeline/media/pvc-ai-firmware-framerate.mp4",
-      "poster": "pipeline/media/pvc-ai-firmware-framerate.jpg"
+      "id": "iqiyi-nadoupro-1938-film",
+      "type": "image",
+      "src": "pipeline/media/iqiyi-nadoupro-1938-film.jpg"
     }
   ]
 }

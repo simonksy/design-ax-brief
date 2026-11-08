@@ -10671,6 +10671,155 @@
           "x": "Human organizations handle the problem of bad actors with audit trails, reputations, and separation of duties, and teams of agents will probably need something similar."
         }
       ]
+    },
+    "games/krafton-cofa-probe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.economytalk.kr/news/photo/202611/425135_233885_4215.png",
+          "cap": "Krafton is using Cofa-Probe, developed in-house, to assess AI skills in 6 job tracks of its 2027 hiring-linked internship. [Krafton]"
+        },
+        {
+          "t": "p",
+          "x": "Krafton is using Cofa-Probe, a tool it developed in-house, to assess AI skills across 6 job tracks in its 2027 hiring-linked internship. It evaluates applicants' output together with their AI collaboration process and verification records. This is the fourth case in a series examining the AI hiring standards of individual game companies."
+        },
+        {
+          "t": "p",
+          "x": "A Krafton official explained in a response to EconomyTalk News on the 5th that Cofa-Probe evaluates applicants on “three axes: technique management (Technique), intent management (Intent) and cognition management (Cognition).”"
+        },
+        {
+          "t": "p",
+          "x": "Krafton observes how applicants collaborate with work agents in an environment similar to real work. It automatically collects source code, conversation logs, prompts, tool settings and verification run records, and evaluates the output and the problem-solving process together."
+        },
+        {
+          "t": "p",
+          "x": "Technique management checks whether the goals and constraints given to the AI were appropriate, and intent management checks whether the applicant analysed the cause of errors and revised their approach."
+        },
+        {
+          "t": "p",
+          "x": "Cognition management looks at whether the applicant verified the errors and limits of the output and finished it to a level usable in real work. After the task, a follow-up question-and-answer session is held in which applicants explain their output and decision-making process themselves."
+        },
+        {
+          "t": "p",
+          "x": "The internship starts in February 2027 and runs for 5 months, with conversion to a full-time position decided through evaluation during the internship. Cofa-Probe is used to assess applicants' AI skills by reviewing their task records, output and follow-up explanations across the 6 job tracks."
+        }
+      ]
+    },
+    "games/ubisoft-databricks-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.databricks.com/sites/default/files/2026-11/customer-story-ubisoft-still-image-2x.jpg?v=1793893844"
+        },
+        {
+          "t": "p",
+          "x": "AI coding agents at Ubisoft started from the bottom up: teams experimented with Claude Code, GitHub Copilot and other tools, while Ubisoft used LiteLLM as a gateway for Claude Code traffic. As adoption accelerated under a CEO-sponsored initiative, onboarding thousands of developers and managing gateway performance became increasingly difficult."
+        },
+        {
+          "t": "p",
+          "x": "Already using Databricks, Ubisoft turned to Databricks Unity Gateway. Through a common endpoint it provides access to Anthropic, OpenAI and open models such as DeepSeek, Kimi, GLM and Qwen, and developers can typically gain full access to newly released models within 24–48 hours."
+        },
+        {
+          "t": "p",
+          "x": "A custom installer automates personal access token creation, the Unity Gateway connection and coding agent configuration. Ubisoft grew from approximately 200 active users in March to more than 4,000 by August, a 20x increase in five months, and is targeting 5,000 developers across game production."
+        },
+        {
+          "t": "p",
+          "x": "As usage grew, AI spend increased 158%. Unity Gateway keeps the identity behind each request, and Ubisoft combines that data with Databricks AI/BI Dashboards, custom alerts and planned team-level budgets and chargeback to track and allocate AI costs."
+        }
+      ]
+    },
+    "games/netmarble-13-titles-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Netmarble, whose earnings have worsened because of delays to new releases, is attempting to launch 13 new titles next year with a development and operations system built on artificial intelligence (AI). The strategy is to automate repetitive work from game planning to translation, graphics production and quality assurance, easing the development burden and raising its release capacity."
+        },
+        {
+          "t": "p",
+          "x": "Netmarble postponed all 3 new titles it had planned for the second half of this year to next year, and its Q3 operating profit fell 44.6% year on year. Some of the technologies are still in development, so how much they can actually cut development time and cost has yet to be proven."
+        },
+        {
+          "t": "img",
+          "src": "https://img.newspim.com/news/2026/06/12/2606121620382670.jpg",
+          "cap": "Netmarble's new headquarters, G-Tower, in Guro. [Photo=Netmarble]"
+        },
+        {
+          "t": "p",
+          "x": "Netmarble CEO Kim Byung-kyu said on the Q3 conference call on the 5th, \"Netmarble is working to build an AI-native work environment not only in development but also in game launches and live service,\" adding, \"Based on such systems, we judged that releasing 10 or more games a year is possible.\""
+        },
+        {
+          "t": "p",
+          "x": "In 2025 Netmarble reorganized its in-house AI organization into an AI Strategy Office and introduced tools such as 'MarbleAI', an AI tool for translation and source-text proofreading, and 'ㅋㅋ아트젠', an AI art generation platform. Major languages such as English and Japanese are recorded by voice actors, while AI is used to record the other languages. It is also developing technology in which AI plays games automatically to analyze balance and fun factors."
+        },
+        {
+          "t": "img",
+          "src": "https://img.newspim.com/news/2026/11/06/2611061207127870.jpg",
+          "cap": "Netmarble's main artificial intelligence projects [Photo=Netmarble]"
+        },
+        {
+          "t": "p",
+          "x": "In operations, an AI-based anomaly detection system handles abuse and abnormal behavior, and has been applied to 'RF Online Next', 'Vampir' and 'SOL: enchant'. A Netmarble official said, \"We are researching and developing a variety of AI agents, including a quality-assurance automation agent and a report-writing agent.\""
+        }
+      ]
+    },
+    "games/kenney-sweeney-genai-clash": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Kenney, an artist known for giving away thousands of free game assets, encouraged other artists not to give in to pressure to use generative AI. A few hours later, Epic Games CEO Tim Sweeney was in his replies: \"This is bullshit, Kenney.\" Elon Musk also chimed in to back up Sweeney."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/dN5L7H63LSbvE6whFiWNgP-772-80.png",
+          "cap": "(Image credit: Kenney/Tim Sweeney)"
+        },
+        {
+          "t": "p",
+          "x": "\"I think AI has some benefit but there's just too many problems with it that I find it immoral to use in its current state,\" Kenney told PC Gamer. Sweeney said: \"As a provider of technology to the whole industry, I see it as Epic's job and my job to make the positive case for it.\""
+        },
+        {
+          "t": "p",
+          "x": "A GameDiscoverCo survey found about 69% of Steam users are neutral or fine with buying games that disclose AI use, while over 55% think Steam should have stricter disclosure rules. Sweeney calls Steam's requirement \"abhorrent\"."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Nv8WP9ipmA6k753ABMgKqD-918-80.png",
+          "cap": "Kenney gives away thousands of free game assets like these on his website. (Image credit: Kenney)"
+        },
+        {
+          "t": "p",
+          "x": "One developer, Dead Teapot, cancelled its Epic Games Store release in support of Kenney, who makes a living from donations and a $20 bundle of all 60,000 assets."
+        }
+      ]
+    },
+    "games/worldlabs-frameboy-atlas": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://wlt-ai-cdn.art/videos/2026-atlas-realtime/frameboy-hero.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Two months ago, World Labs introduced Atlas, an autoregressive world model that generates frames one at a time with pixel-perfect camera control. Today it is releasing a research preview that lets you explore worlds in real time with Atlas using Frameboy, a demo that streams frames from cloud GPUs to your browser at up to 15 fps as you control the camera."
+        },
+        {
+          "t": "p",
+          "x": "Speed matters: if users wait tens of seconds or minutes for a video, they must be cautious and methodical. \"When the cost of a 'bad idea' is near zero, there are no bad ideas.\""
+        },
+        {
+          "t": "p",
+          "x": "Compared to its earlier RTFM model, Atlas is much larger, trained on orders of magnitude more data, and can generate scenes from scratch from a single input image or text caption. It can also synthesize novel views of real-world landmarks from multiview captures."
+        },
+        {
+          "t": "p",
+          "x": "The real-time capability is also integrated as a streaming overlay in Viewfinder, a web app in closed beta that lets users build scenes frame by frame with Atlas. Frameboy currently must run on a powerful cloud GPU server and is not cheap compared to local rendering methods."
+        }
+      ]
     }
   }
 }

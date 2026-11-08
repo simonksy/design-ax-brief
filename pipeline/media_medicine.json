@@ -1,7 +1,31 @@
-{"date":"2026-11-08","section":"medicine","media":[
-{"id":"lancet-cmr-ai-ejection-fraction","type":"image","src":"pipeline/media/lancet-cmr-ai-ejection-fraction.jpg"},
-{"id":"jama-lipid-llm-nonescalation","type":"svg"},
-{"id":"bcr-mllm-breast-pathology-errors","type":"image","src":"pipeline/media/bcr-mllm-breast-pathology-errors.png"},
-{"id":"deepreasoning-neurodr-cta","type":"image","src":"pipeline/media/deepreasoning-neurodr-cta.jpg"},
-{"id":"asan-urine-ai-bladder","type":"image","src":"pipeline/media/asan-urine-ai-bladder.jpg"}
-]}
+{
+  "date": "2026-11-09",
+  "section": "medicine",
+  "media": [
+    {
+      "id": "cleerly-paramount-trial",
+      "type": "image",
+      "src": "pipeline/media/cleerly-paramount-trial.jpg"
+    },
+    {
+      "id": "primaa-cleo-skin-fda",
+      "type": "image",
+      "src": "pipeline/media/primaa-cleo-skin-fda.jpg"
+    },
+    {
+      "id": "mfds-ai-review-assist",
+      "type": "image",
+      "src": "pipeline/media/mfds-ai-review-assist.png"
+    },
+    {
+      "id": "weill-cornell-radiology-data",
+      "type": "image",
+      "src": "pipeline/media/weill-cornell-radiology-data.png"
+    },
+    {
+      "id": "sunderland-ai-eye-diabetes",
+      "type": "image",
+      "src": "pipeline/media/sunderland-ai-eye-diabetes.jpg"
+    }
+  ]
+}

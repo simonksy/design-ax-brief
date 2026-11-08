@@ -1,21 +1,29 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-11-09",
   "section": "movies",
-  "picks": [
+  "selected_by": "curator (swap for sponsored pick)",
+  "items": [
     {
-      "url": "https://variety.com/2026/tv/global/ai-could-replace-actors-runway-ceo-cristobal-valenzuela-1236916525/",
-      "title": "AI Could ‘Absolutely’ Replace Human Actors, CEO of Generative AI Startup Runway Says at Italy’s View Conference: ‘It’s Already Happening in a Way’",
-      "source": "Variety",
-      "category": "movies",
-      "published_iso": "2026-10-20T07:39:21+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/Cristobal_Valenzuela.jpg?w=1000&h=563&crop=1",
-      "excerpt": "AI could replace actors, Runway CEO Cristóbal Valenzuela says at a View Conference fireside chat.",
-      "source_lang": "en",
       "tool": "Movies",
-      "accent": "#2ec5c5",
+      "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "The CEO of Runway, one of the AI video tools filmmakers use most, said on the record that AI could 'absolutely' replace human actors and that it is already happening. It is a direct statement of where a key tool vendor is headed, which matters to anyone casting or performing.",
-      "swap": true
+      "title": "iQIYI Reconstructs Lost 1938 Film Using NadouPro AI Workflow",
+      "url": "https://www.unite.ai/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow/",
+      "source": "Unite.AI",
+      "published_iso": "2026-11-06T05:18:02-05:00",
+      "og_image": "https://www.unite.ai/wp-content/uploads/2026/11/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow.jpg",
+      "excerpt": "An eight-person team used iQIYI's NadouPro platform to reconstruct a 1938 film whose prints, reels and scripts had been lost, the company announced on November 6, 2026. The short, completed in two months, was shortlisted...",
+      "rationale": "Concrete restoration result: an eight-person team rebuilt a lost 1938 film in two months on iQIYI's NadouPro platform. It shows AI applied to film heritage rather than new synthetic content."
     }
-  ]
+  ],
+  "dedup": {
+    "checks": {
+      "https://www.unite.ai/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow/": {
+        "verdict": "new",
+        "nearest": "https://www.chinadaily.com.cn/a/202611/02/WS6ae8052ce4b06d4aa0566723.html",
+        "new_action": ""
+      }
+    },
+    "note": "Replaces the sponsored Theoretically Media video (OpenArt affiliate). Distinct from the 11-03 iQIYI studio-opening card: this is a finished reconstruction of a lost 1938 film, announced 11-06. Cross-section grep of published_urls.json was not run."
+  }
 }

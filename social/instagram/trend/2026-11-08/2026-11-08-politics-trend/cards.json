@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI 칩, 어디로 가는가",
+    "date": "2026.11.08",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "원문 4건 대조: CNA(Reuters) 10.15 KLIA 자유무역지대 서버 30대·허위 신고·US$12.11M, Ars(FT) 11.18 비공개 브리핑·Nvidia 반박 인용, Verge(NYT 인용) New Matrix 빈 사무실·H200. The Diplomat은 403이라 11-02 보강 단계에서 받은 원문 요약으로 45,000 GPUs·US 허가·트래픽 95% 러시아 경유 확인(게재일은 원문 이미지 업로드일 10.30로 추정). 사진은 말레이시아 한 장(6월 압수 때 Reuters 자료사진), 나머지는 stat·quote. 의회 쪽 요구와 Nvidia 반박을 함께 실음.",
+    "sources": [
+      "CNA — AI chips worth US$12.1 million seized at Malaysia airport, customs authority says (2026.10.28)",
+      "The Diplomat — The Promise and Pitfalls of Nvidia's Venture in Kazakhstan (2026.10.30)",
+      "Ars Technica (FT) — Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns (2026.11.06)",
+      "The Verge — The US let Nvidia sell chips to an empty office in China (2026.11.07)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 정책 · 10.29~11.08",
+      "thread": [
+        {
+          "d": "10.29",
+          "t": "공항 압수",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.02",
+          "t": "수출 허가",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.07",
+          "t": "의회 소환",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.08",
+          "t": "빈 사무실",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        }
+      ],
+      "thread_note": "미국 AI 칩의 최종 행선지 확인이 밀수와 허가 양쪽에서 시험대에 올랐다",
+      "eyebrow": "흐름 · 정책",
+      "headline": "AI 칩, 어디로\n가는가",
+      "body": "밀수 적발, 수출 허가, 의회 소환. 따로 보면 별건이지만 열흘 새 모두 미국 칩의 최종 행선지를 묻는다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.29",
+      "headline": "공항에서 걸린\nAI 서버",
+      "body": "말레이시아 세관은 10월 15일 공항 자유무역지대에서 AI 칩 서버 30대를 찾았다. 전자부품으로 허위 신고됐다고 밝혔다.",
+      "foot": "2026.10.29",
+      "_src": "https://www.channelnewsasia.com/asia/malaysia-airport-customs-seize-advanced-ai-chips-smuggling-6498976",
+      "_id": "malaysia-ai-chips",
+      "media": "pipeline/media/malaysia-ai-chips.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.02",
+      "headline": "허가 받고 가는 길도",
+      "body": "The Diplomat에 따르면 US 허가를 받은 GPU가 카자흐스탄에 들어간다. 해외 트래픽 약 95%는 러시아를 거친다.",
+      "foot": "2026.11.02",
+      "_src": "https://thediplomat.com/2026/10/the-promise-and-pitfalls-of-nvidias-venture-in-kazakhstan/",
+      "_id": "kazakhstan-nvidia-firebird",
+      "stat_top": "US 수출 허가",
+      "stat_arrow": "Firebird, 카자흐스탄 데이터센터에",
+      "stat_bottom": "GPU 45,000개",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.07",
+      "headline": "의회, 젠슨 황을\n부르다",
+      "body": "하원 중국·외교·정보위원장들이 11월 18일 비공개 브리핑에 젠슨 황을 불렀다. Megaspeed 임원과의 관계를 묻는다.",
+      "foot": "2026.11.07",
+      "_src": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+      "_id": "nvidia-huang-megaspeed-letter",
+      "quote": "지역 클라우드 고객이\n받는 건 평범한\n사업 정보뿐",
+      "quote_by": "Nvidia 입장 · FT via Ars Technica"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.08",
+      "headline": "빈 사무실도\n허가 명단에",
+      "body": "NYT를 인용한 The Verge에 따르면 H200 취급 승인 업체 New Matrix의 사무실은 비어 있었다.",
+      "foot": "2026.11.08",
+      "_src": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "_id": "nvidia-china-empty-office-licenses",
+      "stat_top": "승인 명단 속 New Matrix",
+      "stat_arrow": "주소지 사무실에 가 보니",
+      "stat_bottom": "빈 사무실",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

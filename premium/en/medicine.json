@@ -3593,6 +3593,146 @@
           "x": "Leg dynamics dominated metabolic and frailty predictions, and torso dynamics encoded sleep and lifestyle phenotypes. The authors say the findings establish gait as an independent, multisystem biosignal."
         }
       ]
+    },
+    "medicine/primaa-cleo-skin-fda": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://clpmag.com/wp-content/uploads/2026/11/image-2.jpg",
+          "cap": "Cleo Skin (Photo: Primaa)"
+        },
+        {
+          "t": "p",
+          "x": "The FDA has granted Breakthrough Device Designation to Cleo Skin, an artificial intelligence solution developed by Primaa to assist pathologists in diagnosing skin cancers from digitized biopsy slides and excised tissues."
+        },
+        {
+          "t": "p",
+          "x": "Cleo Skin is the first AI tool in dermatopathology to hold both CE-IVDR certification in Europe, received in March 2026, and FDA Breakthrough Device Designation. The designation does not constitute US marketing authorization."
+        },
+        {
+          "t": "p",
+          "x": "The tool analyzes whole slide images to flag areas suspicious for melanoma, offer indicative lesion classifications—including basal cell carcinoma, squamous cell carcinoma, and nevus—and suggest measurements such as margins, Breslow thickness, and mitotic regions. It supports rather than replaces pathologist evaluation."
+        },
+        {
+          "t": "p",
+          "x": "In the SkinPerf2026 study, 16 pathologists across 11 French institutions evaluated 313 whole slide images; Cleo Skin improved overall melanoma sensitivity from 83.8% to 88.6%, and from 79.7% to 88.2% among junior pathologists. In an exploratory US study with PathPresenter, seven pathologists reviewed 75 slides, showing a 20% reduction in analysis time and a 17% gain in sensitivity among junior pathologists."
+        }
+      ]
+    },
+    "medicine/mfds-ai-review-assist": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/11/03/48e47ad2-7131-49ef-8ca1-31d273ae8e75.png",
+          "cap": "AI-generated image"
+        },
+        {
+          "t": "p",
+          "x": "The 'AI-assisted drug review system' pursued by the Ministry of Food and Drug Safety (MFDS) is set to be officially unveiled in early December. The agency had originally planned a briefing for the pharmaceutical industry early this month, but after further strengthening internal validation to improve the system's completeness, it will unveil the system to coincide with a ceremony celebrating the success of the AI project."
+        },
+        {
+          "t": "p",
+          "x": "According to the MFDS's food and drug AI transformation TF (headed by Kim Ik-sang), a pilot run is currently under way, centered on internal reviewers. LG AI Research took part in building the system, which stands out for having been trained specifically for drug review work."
+        },
+        {
+          "t": "p",
+          "x": "It will first support reviews in new drug quality and bioequivalence (bioavailability and equivalence), and verify pre-review checklists for product approval reviews. The MFDS plans to expand its scope to reviews of safety and efficacy data and other areas."
+        },
+        {
+          "t": "p",
+          "x": "Global regulators are actively exploring AI adoption, with the U.S. FDA introducing 'Elsa,' a generative AI platform for all staff. The MFDS completed the system less than a year after setting up the TF in January."
+        }
+      ]
+    },
+    "medicine/weill-cornell-radiology-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/assets/articles/Screen%20Shot%202018-02-12%20at%2011.56.42%20AM.png?itok=g9jxiJwx"
+        },
+        {
+          "t": "p",
+          "x": "Private patient information was improperly used in recent radiology artificial intelligence research, according to an alert from Weill Cornell Medicine shared on Thursday."
+        },
+        {
+          "t": "p",
+          "x": "The institution says it first found out about the incident on Sept. 6, immediately launching an investigation. It learned that unnamed individuals entered patient info from Weill Cornell Imaging at NewYork-Presbyterian and NewYork-Presbyterian Hospital into AI tools for processing using machine learning, without patient permission and in violation of its privacy policies."
+        },
+        {
+          "t": "p",
+          "x": "The information included medical record and radiology accession numbers, dates, times of service, facility and healthcare provider names, plus clinical information such as diagnoses, treatment plans and procedural histories. Patients' names, addresses, telephone numbers, email addresses, Social Security numbers and financial details were not disclosed."
+        },
+        {
+          "t": "p",
+          "x": "Weill Cornell said it has not found evidence that unauthorized individuals accessed the information and there is no indication it was misused. It has suspended the research activity, requested that all involved data be deleted, and is providing additional staff education on the appropriate use of AI. It did not disclose who misused the data nor the focus of the research."
+        }
+      ]
+    },
+    "medicine/sunderland-ai-eye-diabetes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/29ec/live/7d751a00-d930-11f1-b1fc-0ffc40c3cca6.jpg",
+          "cap": "Technology will be able to detect diabetes and eventually heart disease in routine eye tests"
+        },
+        {
+          "t": "p",
+          "x": "AI will be used in routine eye scans as part of a scheme to detect early signs of illnesses such as heart disease and diabetes."
+        },
+        {
+          "t": "p",
+          "x": "The Northern Ophthalmic Research and Innovation (NORI) hub at Sunderland University has received £12.2m from the government through UK Research and Innovation (UKRI) for the project in the hope of diagnosing patients quicker."
+        },
+        {
+          "t": "p",
+          "x": "Matthew Campbell, interim pro vice-chancellor for health and co-director of NORI, said the money would help the team develop the technology and take it into international markets."
+        },
+        {
+          "t": "p",
+          "x": "While the tool will initially focus on diabetes and cardiovascular disease, the approach could later be expanded to dementia and strokes."
+        },
+        {
+          "t": "p",
+          "x": "NORI is one of five new UKRI-backed healthcare hubs using technology to diagnose illnesses."
+        },
+        {
+          "t": "p",
+          "x": "Science minister Chris McDonald, who visited NORI on Thursday, said: \"Earlier diagnosis means better outcomes for patients and less pressure on our NHS, and technology has a vital role to play.\""
+        },
+        {
+          "t": "p",
+          "x": "The technology will use the tiny blood vessels and nerve tissue at the back of the eye, which NORI said can reveal clues about a person's wider health before symptoms appear. AI will be used to analyse the routine eye scans alongside NHS health records and community data to identify subtle changes which may signal early signs of disease."
+        },
+        {
+          "t": "p",
+          "x": "Campbell said: \"This investment creates a new health innovation ecosystem for the North East. We now have the scale to develop technologies, test them in real-world healthcare settings and take them into national and international markets.\""
+        }
+      ]
+    },
+    "medicine/lancet-cmr-ai-ejection-fraction": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-scan.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "In the largest study of its kind, researchers analyzed heart MRI scans from 27,382 patients undergoing investigation for known or suspected heart conditions in the U.K. and United States, comparing AI-derived and clinician-derived measurements of left-ventricular ejection fraction."
+        },
+        {
+          "t": "p",
+          "x": "Patients were followed for an average of more than five years (median 5.6 years), during which 3,458 deaths occurred. AI ejection fraction showed better model fit (AIC 57,936 vs 58,097) and marginally better discrimination (C index 0.669 vs 0.637) for all-cause mortality; after adjustment for age and sex the advantage remained but was smaller (C index 0.781 vs 0.777)."
+        },
+        {
+          "t": "p",
+          "x": "The AI tool analyzed scans in approximately 2–3 seconds per patient. This compared to previous work by the team that found expert clinician analysis typically takes around 13 minutes."
+        },
+        {
+          "t": "p",
+          "x": "The research was led by City St George's, University of London and University College London, and published in The Lancet Digital Health. The authors say the findings support AI for first-line ejection-fraction measurement with clinician oversight, to be tested in prospective studies."
+        }
+      ]
     }
   }
 }

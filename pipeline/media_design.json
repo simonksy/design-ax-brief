@@ -1,7 +1,31 @@
-{"date":"2026-11-08","section":"design","media":[
-{"id":"bcn3d-aurora-photo-to-part","type":"image","src":"pipeline/media/bcn3d-aurora-photo-to-part.jpg"},
-{"id":"vercel-json-render-chat","type":"video","src":"pipeline/media/vercel-json-render-chat.mp4","poster":"pipeline/media/vercel-json-render-chat.jpg"},
-{"id":"autodesk-flame-2027-normals","type":"image","src":"pipeline/media/autodesk-flame-2027-normals.jpg"},
-{"id":"ironcad-2027-ai-scripting","type":"image","src":"pipeline/media/ironcad-2027-ai-scripting.png"},
-{"id":"uxc-ai-ui-emotional-context","type":"image","src":"pipeline/media/uxc-ai-ui-emotional-context.jpg"}
-]}
+{
+  "date": "2026-11-09",
+  "section": "design",
+  "media": [
+    {
+      "id": "cursor-voice-agent-call",
+      "type": "svg"
+    },
+    {
+      "id": "nngroup-agent-harness-def",
+      "type": "image",
+      "src": "pipeline/media/nngroup-agent-harness-def.jpg"
+    },
+    {
+      "id": "uxc-berrypicking-ai-search",
+      "type": "image",
+      "src": "pipeline/media/uxc-berrypicking-ai-search.png"
+    },
+    {
+      "id": "firefly-seedance-25-video",
+      "type": "video",
+      "src": "pipeline/media/firefly-seedance-25-video.mp4",
+      "poster": "pipeline/media/firefly-seedance-25-video.jpg"
+    },
+    {
+      "id": "uxc-native-floor-components",
+      "type": "image",
+      "src": "pipeline/media/uxc-native-floor-components.jpg"
+    }
+  ]
+}

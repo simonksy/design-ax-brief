@@ -3593,6 +3593,146 @@
           "x": "腿部动态主导了代谢和衰弱的预测，躯干动态则编码了睡眠与生活方式表型。作者表示，这些发现确立了步态作为一种独立的多系统生物信号的地位。"
         }
       ]
+    },
+    "medicine/primaa-cleo-skin-fda": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://clpmag.com/wp-content/uploads/2026/11/image-2.jpg",
+          "cap": "Cleo Skin(图片：Primaa)"
+        },
+        {
+          "t": "p",
+          "x": "FDA已授予Cleo Skin突破性医疗器械认定(Breakthrough Device Designation)。Cleo Skin是Primaa开发的人工智能解决方案，可基于数字化活检切片和切除组织协助病理医生诊断皮肤癌。"
+        },
+        {
+          "t": "p",
+          "x": "Cleo Skin是皮肤病理领域首个同时获得欧洲CE-IVDR认证(2026年3月取得)和FDA突破性医疗器械认定的AI工具。该认定并不构成美国(US)上市许可。"
+        },
+        {
+          "t": "p",
+          "x": "该工具分析全切片图像，标记疑似黑色素瘤的区域，给出包括基底细胞癌、鳞状细胞癌和痣在内的参考性病变分类，并建议切缘、Breslow厚度和有丝分裂区域等测量值。它用于辅助而非取代病理医生的评估。"
+        },
+        {
+          "t": "p",
+          "x": "在SkinPerf2026研究中，法国11家机构的16名病理医生评估了313张全切片图像；Cleo Skin将整体黑色素瘤敏感度从83.8%提高到88.6%，在初级病理医生中从79.7%提高到88.2%。在与PathPresenter合作开展的一项美国(US)探索性研究中，七名病理医生审阅了75张切片，分析时间缩短20%，初级病理医生的敏感度提高17%。"
+        }
+      ]
+    },
+    "medicine/mfds-ai-review-assist": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/11/03/48e47ad2-7131-49ef-8ca1-31d273ae8e75.png",
+          "cap": "AI生成图片"
+        },
+        {
+          "t": "p",
+          "x": "韩国食品医药品安全处(食药处)推进的“药品AI审评辅助系统”预计将于12月初正式公开。原计划本月初面向制药业界举办说明会，但在进一步加强内部验证、提高完成度后，将配合AI项目成功纪念仪式揭开面纱。"
+        },
+        {
+          "t": "p",
+          "x": "据食药处食品药品人工智能转型TF推进团(团长Kim Ik-sang)介绍，目前该系统正以内部审评人员为中心进行试运行。LG AI研究院参与了系统构建，其特点是经过了专门针对药品审评业务的训练。"
+        },
+        {
+          "t": "p",
+          "x": "系统将首先支持新药质量和生物等效性(生物利用度·等效性)领域的审评，并核查品目许可审评的事前检查清单。食药处计划今后将适用范围扩大到安全性和有效性资料审评等领域。"
+        },
+        {
+          "t": "p",
+          "x": "美国FDA也引入了面向全体员工的生成式AI平台“Elsa”，全球监管机构正积极探索引入AI。食药处在今年1月设立TF推进团后，不到1年便完成了该系统。"
+        }
+      ]
+    },
+    "medicine/weill-cornell-radiology-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/assets/articles/Screen%20Shot%202018-02-12%20at%2011.56.42%20AM.png?itok=g9jxiJwx"
+        },
+        {
+          "t": "p",
+          "x": "根据Weill Cornell Medicine于周四发布的通告，患者隐私信息在近期一项放射科人工智能研究中遭到不当使用。"
+        },
+        {
+          "t": "p",
+          "x": "该机构表示，其于9月6日首次获悉此事，并立即展开调查。调查发现，身份未公开的人员在未经患者许可、违反其隐私政策的情况下，将来自NewYork-Presbyterian旗下Weill Cornell Imaging及NewYork-Presbyterian Hospital的患者信息输入AI工具，利用机器学习进行处理。"
+        },
+        {
+          "t": "p",
+          "x": "相关信息包括病历号和放射检查登记号、日期、就诊时间、机构及医护人员姓名，以及诊断、治疗计划和既往手术等临床信息。患者的姓名、地址、电话号码、电子邮件地址、社会安全号码(Social Security number)和财务信息未被泄露。"
+        },
+        {
+          "t": "p",
+          "x": "Weill Cornell表示，尚未发现未经授权人员访问这些信息的证据，也没有迹象表明信息遭到滥用。该机构已暂停相关研究活动，要求删除所有涉及的数据，并正在就AI的恰当使用为员工提供额外培训。它没有披露是谁滥用了数据，也未说明研究的重点。"
+        }
+      ]
+    },
+    "medicine/sunderland-ai-eye-diabetes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/29ec/live/7d751a00-d930-11f1-b1fc-0ffc40c3cca6.jpg",
+          "cap": "该技术将能通过常规眼部检查发现糖尿病，并最终发现心脏病"
+        },
+        {
+          "t": "p",
+          "x": "作为一项旨在发现心脏病和糖尿病等疾病早期迹象的计划的一部分，AI将被用于常规眼部扫描。"
+        },
+        {
+          "t": "p",
+          "x": "Sunderland University的Northern Ophthalmic Research and Innovation(NORI)中心已通过UK Research and Innovation(UKRI)获得政府1220万英镑(£12.2m)资助，用于该项目，以期更快地为患者作出诊断。"
+        },
+        {
+          "t": "p",
+          "x": "负责健康事务的临时副校长、NORI联合主任Matthew Campbell表示，这笔资金将帮助团队开发该技术并将其推向国际市场。"
+        },
+        {
+          "t": "p",
+          "x": "该工具最初将聚焦糖尿病和心血管疾病，之后这一方法可能扩展到痴呆症和中风。"
+        },
+        {
+          "t": "p",
+          "x": "NORI是五个新的UKRI资助(UKRI-backed)医疗中心之一，这些中心利用技术诊断疾病。"
+        },
+        {
+          "t": "p",
+          "x": "周四访问NORI的科学大臣Chris McDonald表示：“更早诊断意味着患者获得更好的结果，我们的NHS压力更小，而技术在其中发挥着至关重要的作用。”"
+        },
+        {
+          "t": "p",
+          "x": "该技术将利用眼底的微小血管和神经组织，NORI称这些部位能在症状出现前揭示一个人整体健康状况的线索。AI将结合NHS健康记录和社区数据分析常规眼部扫描，以识别可能预示疾病早期迹象的细微变化。"
+        },
+        {
+          "t": "p",
+          "x": "Campbell表示：“这项投资为North East(英格兰东北部)打造了一个新的健康创新生态系统。我们现在已具备开发技术、在真实医疗环境中测试技术并将其推向国内和国际市场的规模。”"
+        }
+      ]
+    },
+    "medicine/lancet-cmr-ai-ejection-fraction": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-scan.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "在这项同类规模最大的研究中，研究人员分析了在英国（U.K.）和美国（United States）因已知或疑似心脏病接受检查的27,382名患者的心脏MRI影像，比较了AI-derived（AI得出）与医生测得的左心室射血分数。"
+        },
+        {
+          "t": "p",
+          "x": "患者平均随访五年以上（中位数5.6年），期间有3,458人死亡。在全因死亡方面，AI射血分数的模型拟合更好（AIC 57,936 vs 58,097），区分能力也略胜一筹（C index 0.669 vs 0.637）；校正年龄和性别后，优势仍在但有所缩小（C index 0.781 vs 0.777）。"
+        },
+        {
+          "t": "p",
+          "x": "该AI工具分析每名患者的扫描约需2–3秒。团队此前的研究发现，专家医生分析通常需要约13分钟。"
+        },
+        {
+          "t": "p",
+          "x": "研究由City St George's, University of London与University College London牵头，发表于The Lancet Digital Health。作者表示，结果支持在医生监督下以AI作为射血分数的一线测量手段，并有待前瞻性研究检验。"
+        }
+      ]
     }
   }
 }

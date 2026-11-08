@@ -1,175 +1,80 @@
 {
   "section": "gadgets",
-  "now_iso": "2026-11-07T22:22:05Z",
+  "now_iso": "2026-11-08T22:02:46Z",
   "window_hours": 336,
-  "recovery_pass": true,
   "items": [
     {
-      "title": "Android Auto's latest Gemini failing keeps asking 'who do you want to call'",
-      "url": "https://9to5google.com/2026/11/05/android-auto-gemini-call-text-voice-command-bug/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-11-05T17:05:00+00:00",
-      "excerpt": "Since Gemini replaced Google Assistant on Android Auto, drivers report the in-car AI repeatedly asking 'who do you want to call' instead of completing call and text voice commands — a visible regression for the car-dashboard assistant.",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-Personal-Intelligence-Android-Auto.jpg?quality=82&strip=all&resize=1200,628",
-      "matched_keyword": "in-car AI assistant / Gemini Android Auto"
-    },
-    {
-      "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
-      "url": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+      "title": "How Akai and Moog are embracing vibe-coded mods",
+      "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
       "source": "The Verge",
       "category": "gadgets",
-      "published_iso": "2026-11-04T18:00:00+00:00",
-      "excerpt": "The Verge's Optimizer column lives with Amazon's Bee Frontier ambient-listening AI wearable, which records and summarizes conversations and memories — and finds filtering life through AI a lesson in why intelligence can't replace wisdom.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268817_Bee_Frontier_AKrales_0098.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "matched_keyword": "ambient-listening AI wearable",
-      "history_match": {
-        "score": 0.222,
-        "date": "2026-10-16",
-        "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-        "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-        "band": "related"
-      }
+      "published_iso": "2026-11-06T16:34:39+00:00",
+      "excerpt": "inMusic (Akai, Moog, Native Instruments) will open-source devices like the MPC Sample Key and ship an SDK so musicians can vibe-code firmware mods, with a 22-product hacking 'Creator Lab' planned for NAMM; Elektron, by contrast, bans links to vibe-coded firmware hacks.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/assets_47c5d023e7b3451a86ac03602c65dce8_43f25647cf8a4cbb8786829bc29ee2fb.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
     },
     {
-      "title": "Peloton teases mystery AI product coming in fall 2027",
-      "url": "https://www.theverge.com/tech/1027818/peloton-teases-mystery-ai-product-coming-in-fall-2027",
-      "source": "The Verge",
-      "category": "gadgets",
-      "published_iso": "2026-11-05T18:17:57+00:00",
-      "excerpt": "Peloton CEO Peter Stern said on an earnings call that a new-category product arriving in fall 2027 will combine 'state-of-the-art software powered by AI' with premium equipment, human instruction and community — and probably won't be a wearable.",
-      "og_image": null,
-      "matched_keyword": "AI fitness hardware"
-    },
-    {
-      "title": "I went hands on with the new Snap Specs — and found out why they could soon be a useful workplace tool",
-      "url": "https://www.techradar.com/pro/i-went-hands-on-with-the-new-snap-specs-and-found-out-why-they-could-soon-be-a-useful-workplace-tool",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-11-07T13:00:00Z",
-      "excerpt": "A hands-on with Snap's untethered sixth-generation Specs AR glasses (£1,999) ahead of their UK launch: a fast voice AI assistant, live speech translation shown as subtitles over the speaker, heads-up Maps and a mid-air keyboard for Google Docs.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Azv3TgGUqcELXYvsSeg4Hj-2560-80.jpg",
-      "matched_keyword": "AR glasses live translation"
-    },
-    {
-      "title": "Nvidia's new AI laptop runs nearly 80% slower on Linux — but only when it's plugged in",
-      "url": "https://www.tomsguide.com/ai/nvidias-new-ai-laptop-runs-nearly-80-percent-slower-on-linux-but-only-when-its-plugged-in",
+      "title": "As a Nex Playground family we tested the HUUCH Motion Bundle — here's what was fun, what was different and what frustrated us",
+      "url": "https://www.tomsguide.com/gaming/as-a-nex-playground-family-we-tested-the-huuch-motion-bundle-heres-what-was-fun-what-was-different-and-what-frustrated-us",
       "source": "Tom's Guide",
       "category": "gadgets",
-      "published_iso": "2026-11-05T13:00:00Z",
-      "excerpt": "Testing by MindStudio found Nvidia's RTX Spark AI laptop ran local AI workloads nearly 80% slower on Linux while on AC power — skipping the charger sped things up — a quirk for anyone buying the machine to run models on-device.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/CxvjAewa4xS3be2otk3Neg-2560-80.jpg",
-      "matched_keyword": "AI laptop local inference",
+      "published_iso": "2026-11-07T05:30:00Z",
+      "excerpt": "The HUUCH Motion Bundle is a compact TV console for kids 3+ that uses AI-powered motion tracking so up to four players control games with their bodies instead of controllers; Tom's Guide compares it with the Nex Playground ahead of the holidays.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/rBib6NexYRBEMC2r76F4KE-1200-80.png"
+    },
+    {
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "source": "TechCrunch",
+      "category": "gadgets",
+      "published_iso": "2026-11-06T13:02:16+00:00",
+      "excerpt": "Underdog released Woof, a 31M-parameter (32MB) open speech-and-music generation model that runs offline on most devices, demoed in a browser game; it follows the 167MB on-device Bark speech-to-text model and a 27B laptop-class model aimed at private, local AI.",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.02.34-PM.jpg?resize=1200,542",
       "history_match": {
-        "score": 0.221,
-        "date": "2026-10-10",
-        "url": "https://www.techradar.com/pro/pre-orders-open-for-nvidias-rtx-spark-workstations-and-these-are-the-3-local-ai-laptops-id-buy-for-business",
-        "title": "Pre-orders open for Nvidia's RTX Spark laptops, starting at $2,599",
+        "score": 0.169,
+        "date": "2026-10-28",
+        "url": "https://www.digitaltrends.com/computing/ollama-brings-free-local-text-to-speech-to-your-mac-with-natural-sounding-ai-voices/",
+        "title": "Ollama brings free, local text-to-speech to your Mac with natural-sounding AI voices",
         "band": "related"
       }
     },
     {
-      "title": "다이슨코리아, 로봇·펜슬워시 물 청소기 2종 출시",
-      "url": "https://www.etnews.com/20261102000075",
+      "title": "HomeView with an arm? Apple reportedly plans $1,000 swiveling smart panel",
+      "url": "https://www.zdnet.com/home-and-office/homeview-ultra-apple-robotic-smart-display/",
+      "source": "ZDNET",
+      "category": "gadgets",
+      "published_iso": "2026-11-03T12:33:46-05:00",
+      "excerpt": "Per The Information, Apple is building a ~$1,000 'HomeView Ultra' (J595) with a 9-inch display on a robotic arm that tracks users and runs proactive smart-home automations; hardware has been done for years but integrating advanced AI features has delayed it to a 2027 announcement.",
+      "og_image": "https://www.zdnet.com/wp-content/uploads/sites/3/0B7F1C4A-9EC9-4A98-B338-76A186CAB5FF_1_105_c.jpeg",
+      "history_match": {
+        "score": 0.381,
+        "date": "2026-10-14",
+        "url": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
+        "title": "Apple’s first smart display is the 7-inch HomeView for $299",
+        "band": "related"
+      }
+    },
+    {
+      "title": "캠시스 “삼성 AI 냉장고용 카메라 양산”",
+      "url": "https://www.etnews.com/20261104000358",
       "source": "전자신문",
       "category": "gadgets",
-      "published_iso": "2026-11-02T09:51:21+09:00",
-      "excerpt": "다이슨이 AI 비전 시스템과 UV 라이트를 결합해 눈에 안 보이는 얼룩까지 찾아 닦는 'r3 뉴로비 스팟앤스크럽 UV' 로봇청소기를 국내 출시했다. 흡입력은 기존 대비 65% 높은 3만Pa.",
-      "og_image": "https://img.etnews.com/news/article/2026/11/02/news-p.v1.20261102.78d3dcf3b72e402b9076770850f24c85_P1.png",
-      "matched_keyword": "로봇 가전 AI 비전"
-    },
-    {
-      "title": "Someone got an offline LLM running on a 2015 Kindle Paperwhite, even if it's quite slow",
-      "url": "https://www.xda-developers.com/someone-got-an-offline-llm-running-on-a-2015-kindle-paperwhite-even-if-its-quite-slow/",
-      "source": "XDA Developers",
-      "category": "gadgets",
-      "published_iso": "2026-11-07T06:24:14Z",
-      "excerpt": "The Inkwell project jailbreaks a 2015 Kindle Paperwhite and runs Quill, a SmolLM2 chatbot via llama.cpp on the e-reader's own processor at about 1.7 words per second — fully offline, nothing leaves the device.",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/12/kindle-paperwhite-tailscale-hero.jpg?w=1600&h=900&fit=crop",
-      "matched_keyword": "e-reader on-device LLM"
-    },
-    {
-      "title": "Someone used Claude Code to reverse-engineer the Apple AirPods 3, and now head-tracking works on Linux",
-      "url": "https://www.xda-developers.com/someone-used-claude-code-to-reverse-engineer-the-apple-airpods-3-and-now-head-tracking-works-on-linux/",
-      "source": "XDA Developers",
-      "category": "gadgets",
-      "published_iso": "2026-11-06T08:36:56Z",
-      "excerpt": "A Reddit user sent Claude Code agents through iOS framework code to unlock the AirPods 3 gyro sensors on Linux, discovering a different protocol and a Bluetooth packet-size setting; head-tracking now streams at about 200Hz.",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/aripods-3-header.jpg?w=1600&h=900&fit=crop",
-      "matched_keyword": "AI-assisted hardware hacking",
-      "history_match": {
-        "score": 0.177,
-        "date": "2026-10-26",
-        "url": "https://www.xda-developers.com/someone-turned-their-monitor-into-a-laser-pointer-firing-range-game-using-claude-code/",
-        "title": "Someone turned their monitor into a laser pointer firing range game using Claude Code",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Pudu TOMO S robot mower sharpens its own blades at the dock",
-      "url": "https://the-gadgeteer.com/2026/11/06/pudu-tomo-s-robot-mower-sharpens-its-own-blades/",
-      "source": "The Gadgeteer",
-      "category": "gadgets",
-      "published_iso": "2026-11-06T14:00:00-06:00",
-      "excerpt": "Pudu's first residential robot mower combines 360-degree LiDAR, AI vision and network RTK for wire-free navigation, an AI Mowing Planner that schedules around weather, and a dock that sharpens its rotary blades; on sale early 2027.",
-      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pudu-tomo-s-hero.jpg",
-      "matched_keyword": "robot lawn mower AI vision"
-    },
-    {
-      "title": "Anker's new window-mounted camera monitors the outside of your home from within it",
-      "url": "https://www.theverge.com/tech/1026360/anker-eufy-window-camera-e10-indoors-security-ai-color-night-vision",
-      "source": "The Verge",
-      "category": "gadgets",
-      "published_iso": "2026-11-04T16:36:21+00:00",
-      "excerpt": "Anker's Eufy E10 mounts inside a window to watch outdoors, with color night vision and AI motion detection that distinguishes people, animals and vehicles, plus local recording.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ankercam1_43ac74.jpg?quality=90&strip=all&crop=0%2C10.7460602225%2C100%2C78.507879555&w=1200",
-      "matched_keyword": "AI security camera",
-      "history_match": {
-        "score": 0.464,
-        "date": "2026-10-18",
-        "url": "https://www.notebookcheck.net/Anker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html",
-        "title": "Anker launches new window-mounted camera with 25-degree tilt and local AI detection",
-        "band": "likely-repeat"
-      }
+      "published_iso": "2026-11-04T14:45:37+09:00",
+      "excerpt": "캠시스가 삼성전자 냉장고 '비스포크 AI 패밀리허브' 전 모델에 들어가는 카메라 모듈 공급을 시작해 가전용 첫 양산 매출을 냈다. 스마트폰 카메라 모듈 업체가 AI 가전으로 공급처를 넓히는 사례다.",
+      "og_image": "https://img.etnews.com/news/article/2026/11/04/news-p.v1.20261104.2c629cfe32c945bcbe0b32f588fb4a3b_P1.jpg"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 10,
+    "kept": 5,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 4,
+    "review": 2,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-09",
-      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"
-    },
-    {
-      "date": "2026-10-09",
-      "title": "Natura’s $99 smart ring puts AI agents on your finger",
-      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/"
-    },
-    {
-      "date": "2026-10-09",
-      "title": "Amazon's new Alexa tablets include a 12-inch model with anti-glare screen",
-      "url": "https://www.engadget.com/2280917/amazon-alexa-tablets-october-2026/"
-    },
-    {
-      "date": "2026-10-09",
-      "title": "Apple is set to show off new smart home devices at an October 13 event",
-      "url": "https://www.engadget.com/2281263/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/"
-    },
-    {
-      "date": "2026-10-09",
-      "title": "This $1599 smart monitor robotic arm has its own built-in PC, and its 27-inch 4K display will follow you around thanks to its binocular 3D sensor",
-      "url": "https://www.techradar.com/pro/this-usd1599-smart-monitor-robotic-arm-has-its-own-built-in-pc-and-its-27-inch-4k-display-will-follow-you-around-thanks-to-its-binocular-3d-sensor"
-    },
     {
       "date": "2026-10-10",
       "title": "Pixel Watch 4 update adds Google's AI watch face generator",
@@ -844,6 +749,31 @@
       "date": "2026-11-07",
       "title": "Can a Radar-Equipped AC Actually Cut Your Power Bill?",
       "url": "https://www.wired.com/story/can-a-radar-equipped-ac-actually-cut-your-power-bill/"
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Raycast combines voice dictation and screen awareness in new AI feature",
+      "url": "https://9to5mac.com/2026/11/06/raycast-combines-voice-dictation-and-screen-awareness-in-new-ai-feature/"
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Pudu TOMO S robot mower sharpens its own blades at the dock",
+      "url": "https://the-gadgeteer.com/2026/11/06/pudu-tomo-s-robot-mower-sharpens-its-own-blades/"
+    },
+    {
+      "date": "2026-11-08",
+      "title": "DJI, 라이다·레이더·AI 통합 산업용 드론 '매트리스 5T' 출시",
+      "url": "https://www.etnews.com/20261106000295"
+    },
+    {
+      "date": "2026-11-08",
+      "title": "I went hands on with the new Snap Specs — and found out why they could soon be a useful workplace tool",
+      "url": "https://www.techradar.com/pro/i-went-hands-on-with-the-new-snap-specs-and-found-out-why-they-could-soon-be-a-useful-workplace-tool"
+    },
+    {
+      "date": "2026-11-08",
+      "title": "The Siri AI waitlist is gone in iOS 27: How to try the beta today",
+      "url": "https://www.zdnet.com/business/siri-ai-beta-waitlist-ends-ios-27/"
     }
   ]
 }

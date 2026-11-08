@@ -1,7 +1,31 @@
-{"date":"2026-11-08","section":"music","media":[
- {"id":"elvis-suno-voice-clone-suit","type":"image","src":"pipeline/media/elvis-suno-voice-clone-suit.jpg"},
- {"id":"sampleson-wavefinder-local-search","type":"video","src":"pipeline/media/sampleson-wavefinder-local-search.mp4","poster":"pipeline/media/sampleson-wavefinder-local-search.jpg"},
- {"id":"heritage-i73pro-nam-a2","type":"image","src":"pipeline/media/heritage-i73pro-nam-a2.jpg"},
- {"id":"procraft-instruction-music-edit","type":"image","src":"pipeline/media/procraft-instruction-music-edit.png"},
- {"id":"a2o-lite-neon-ai-memes","type":"image","src":"pipeline/media/a2o-lite-neon-ai-memes.jpg"}
-]}
+{
+  "date": "2026-11-09",
+  "section": "music",
+  "media": [
+    {
+      "id": "music-engadget-ai-ear-signs",
+      "type": "image",
+      "src": "pipeline/media/music-engadget-ai-ear-signs.jpg"
+    },
+    {
+      "id": "music-ifpi-australia-copyright",
+      "type": "image",
+      "src": "pipeline/media/music-ifpi-australia-copyright.jpg"
+    },
+    {
+      "id": "choyoungsoo-ai-virtual-singer",
+      "type": "image",
+      "src": "pipeline/media/choyoungsoo-ai-virtual-singer.jpg"
+    },
+    {
+      "id": "ivors-composer-awards-ai",
+      "type": "image",
+      "src": "pipeline/media/ivors-composer-awards-ai.jpg"
+    },
+    {
+      "id": "music-arxiv-theme-similarity",
+      "type": "image",
+      "src": "pipeline/media/music-arxiv-theme-similarity.png"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "issue": "Sampleson, 샘플을 Wavefinder로 검색",
+    "date": "2026.11.08",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "자동 초안. 썸네일은 초안이라 겹친다 — 올리기로 정하면 원문을 받아 숫자를 확인하고 글을 다시 쓰면서 stat·quote 로 장을 세운다.",
+    "sources": [
+      "https://www.synthtopia.com/content/2026/11/07/sampleson-wavefinder-uses-local-ai-to-search-audio-libraries-by-sound/"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 음악 · 2026.11.08",
+      "headline": "Sampleson, 샘플을…",
+      "body": "Sampleson이 데스크톱 오디오 검색 앱 Wavefinder를 내놓았다. 대용량 샘플 라이브러리에서 원하는 소리를 찾아 주는…",
+      "foot": "밀어서 보기 →",
+      "video": "pipeline/media/sampleson-wavefinder-local-search.mp4",
+      "dur": 4,
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "무슨 일인가",
+      "headline": "Sampleson, 샘플을…",
+      "body": "AI 모델은 로컬에서 돌아가므로 오디오를 올리거나 정기 구독료를 낼 필요가 없다. 질감, 분위기, 룸 사운드, 연주 제스처 같은…",
+      "foot": "2026.11.08",
+      "video": "pipeline/media/sampleson-wavefinder-local-search.mp4",
+      "start": 4,
+      "dur": 4,
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "어떻게 되는가",
+      "headline": "Sampleson, 샘플을…",
+      "body": "인덱스는 하위 폴더까지 훑어 로컬에서 만들고 저장한다. 검색 횟수 제한은 없다. 지원 형식은 WAV, AIFF, AIF, FLAC…",
+      "foot": "2026.11.08",
+      "video": "pipeline/media/sampleson-wavefinder-local-search.mp4",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "짚을 대목",
+      "headline": "Sampleson, 샘플을…",
+      "body": "Wavefinder 가격은 현재 $29.00 USD다. 정가 $49.00 USD에서 내린 출시 할인가로, 할인은 November…",
+      "foot": "2026.11.08",
+      "video": "pipeline/media/sampleson-wavefinder-local-search.mp4",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "그래서 지금",
+      "headline": "Sampleson, 샘플을…",
+      "body": "Wavefinder는 로컬 AI로 텍스트 설명·참조 녹음과 닮은 샘플을 찾는다.",
+      "foot": "2026.11.08",
+      "video": "pipeline/media/sampleson-wavefinder-local-search.mp4",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

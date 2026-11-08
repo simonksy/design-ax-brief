@@ -9564,6 +9564,116 @@
           "yt": "rUJ8NZDcEoo"
         }
       ]
+    },
+    "music/music-ifpi-australia-copyright": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/a9d776b6ee27daeda7be27a2ffc273f39b966850/200_0_6000_4800/master/6000.jpg?width=1065&quality=85&auto=format&fit=max&s=9f6642a572d563e6be6a88c2e6267527",
+          "cap": "Las industrias creativas están alarmadas después de que empresas de AI pidieran cambios en la ley de copyright de Australia para poder entrenar con su material."
+        },
+        {
+          "t": "p",
+          "x": "Que Australia debilite la protección del copyright para ayudar a las empresas de AI sería “ridículo y peligroso”, advirtió la International Federation of the Phonographic Industry (IFPI) mientras el Gobierno de Albanese sopesa las demandas de las grandes tecnológicas."
+        },
+        {
+          "t": "p",
+          "x": "“Basta con un solo puerto seguro, porque entonces se puede entrenar con música de cualquier parte del mundo”, dijo a Guardian Australia la directora ejecutiva de la IFPI, Victoria Oakley. “Creemos que esto es un desastre para la creatividad”."
+        },
+        {
+          "t": "p",
+          "x": "Algunas empresas de AI han rechazado las licencias según la ley vigente por considerarlas demasiado difíciles; Anthropic propuso un modelo de “opt-out”. El primer ministro Anthony Albanese ha prometido “la protección más fuerte posible”, y la fiscal general Michelle Rowland se comprometió a ofrecer “un control significativo y una compensación justa”."
+        },
+        {
+          "t": "p",
+          "x": "Oakley dijo que los sellos ya han firmado decenas de acuerdos de licencia con empresas de AI más pequeñas. “Sería un enorme error y creo que el premio no compensa lo que se está tirando”, afirmó. “Es perfectamente posible licenciar”."
+        }
+      ]
+    },
+    "music/choyoungsoo-ai-virtual-singer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285593_web.jpg",
+          "cap": "Cho Young-soo. (Foto: cortesía de Vtopian)"
+        },
+        {
+          "t": "p",
+          "x": "El compositor y productor Cho Young-soo presenta a su primer artista virtual, 'WON'. WON debutará oficialmente el día 8 a las 6 de la tarde con su primer sencillo, 'Mama Song'. Cho, que se mantuvo como número 1 en ingresos por derechos de autor durante 5 años consecutivos, de 2007 a 2011, decidió: “Voy a crear yo mismo un cantante personaje que pueda interpretar por completo la música que quiero, y a expresarla sin límites, ya sean canciones en inglés o géneros diversos”."
+        },
+        {
+          "t": "img",
+          "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285590_web.jpg",
+          "cap": "WON. (Foto: cortesía de Vtopian)"
+        },
+        {
+          "t": "p",
+          "x": "El tema de debut, 'Mama Song', es una balada pop que expresa añoranza y gratitud hacia una madre, con la letra íntegramente en inglés. La apariencia y los movimientos de WON usan la tecnología más reciente, pero la composición, los arreglos y la interpretación real de los músicos de sesión son obra de manos humanas. Cuando Cho graba una voz guía, esta pasa por un proceso de conversión con AI y se convierte en el timbre final de WON."
+        },
+        {
+          "t": "p",
+          "x": "“Las canciones compuestas por AI han aprendido con precisión las fórmulas de éxito de cada época a partir de enormes volúmenes de big data, así que su calidad técnica llega a 99 puntos. Pero el 1% restante, la ‘novedad’, solo pueden aportarlo los humanos”."
+        },
+        {
+          "t": "img",
+          "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285594_web.jpg",
+          "cap": "Cho Young-soo. (Foto: cortesía de Vtopian)"
+        },
+        {
+          "t": "p",
+          "x": "Los siguientes personajes se están desarrollando de forma progresiva, y el objetivo final es un grupo vocal. “Mi objetivo claro para lo que me queda de vida musical es convertirme en un compositor que escriba una canción número 1 en Billboard”."
+        }
+      ]
+    },
+    "music/ivors-composer-awards-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.bigissue.com/wp-content/uploads/2026/10/1742-Music_Hero.jpg?w=1920",
+          "cap": "Lord Neri. Imagen: Louise Haywood-Schiefer"
+        },
+        {
+          "t": "p",
+          "x": "La AI depende de absorber obras existentes para imitarlas, y actualmente no existe un marco claro de consentimiento, compensación o transparencia. “Como herramienta de apoyo, la AI podría ser un recurso extraordinario”, afirma Roberto Neri, CEO de The Ivors Academy. “Sin embargo, la AI generativa es un problema grave”."
+        },
+        {
+          "t": "p",
+          "x": "Él señala al “compositor sin rostro”: “Incluso alguien tan famoso como Hans Zimmer puede caminar por la calle sin que lo reconozcan… Nos preocupa que la gente sienta menos empatía ante una música que reemplace a los compositores, ya que su trabajo a menudo pasa inadvertido”."
+        },
+        {
+          "t": "p",
+          "x": "Con ese fin, los Ivors relanzan los Ivors Composer Awards (17 de noviembre) para “elevar a toda la comunidad” y ofrecer paridad con los Ivor Novello Awards para compositores de canciones, como parte de The Ivors Composer Week (16-20 de noviembre). Hay 36 compositores y libretistas nominados en nueve categorías, entre ellas Best Original Film Score y Best Original Video Game Score. Max Richter recibirá el Innovation Award."
+        }
+      ]
+    },
+    "music/music-arxiv-theme-similarity": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los compositores desarrollan la música a partir de una idea original y controlan cuánto se parece a ella cada nueva sección, desde la casi repetición hasta material nuevo. La música de videojuegos lo necesita a menudo, ya que su material se repite a lo largo de partidas largas. Sin embargo, los modelos musicales rara vez aprenden a controlar la similitud a partir de piezas reales. Entrenamos además un modelo MIDI preentrenado con pares de secciones de piezas de Super Mario. Una etiqueta indica la similitud de cada par, y un vector de contexto resume la sección dada, o contexto. Para 157 contextos de prueba, el modelo genera seis salidas por etiqueta. Doce medidas puntúan las salidas; una medida principal cubre cada una la melodía, el contenido de alturas, el ritmo y la duración de las notas. En promedio, las salidas solicitadas como similares se parecen más a su contexto que las solicitadas como diferentes, y no a otras piezas. Las doce medidas las favorecen; cada medida principal sigue siendo significativa tras la corrección por pruebas múltiples. En la melodía, la diferencia se debe principalmente a una reexposición más frecuente de la melodía del contexto. Frente a un modelo idéntico salvo por la ausencia de etiqueta, solo la petición de alta similitud hace que las salidas sean más similares. En una prueba de escucha, las valoraciones siguieron más de cerca que cualquier otra medida la coincidencia melódica con el contexto."
+        }
+      ]
+    },
+    "music/elvis-suno-voice-clone-suit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/03/elvis-presley-1956-billboard-1800.jpg?w=942&h=628&crop=1",
+          "cap": "Elvis Presley, a los 21 años, en abril de 1956."
+        },
+        {
+          "t": "p",
+          "x": "Los titulares de la propiedad intelectual de Elvis Presley demandan a Suno en un nuevo pleito que acusa a la empresa de música con AI de vulnerar los derechos de imagen del Rey del Rock and Roll (King of Rock ‘n’ Roll) al robar su voz. Presentada el viernes (6 de noviembre) por Elvis Presley Enterprises, filial de Authentic Brands Group, la demanda también incluye acusaciones de infracción de copyright similares a las de su demanda anterior contra Anthropic."
+        },
+        {
+          "t": "p",
+          "x": "Es uno de los primeros casos importantes bajo la ELVIS Act de Tennessee, que también permite demandar a las tecnológicas que facilitan la clonación de voz e imagen. La demanda sostiene que la afirmación de Suno de que los usuarios no pueden pedir artistas reales es “inequívocamente falsa”, y que el mes pasado Suno generó un clon de Elvis a partir de una letra que incluía su nombre."
+        },
+        {
+          "t": "p",
+          "x": "Suno afirmó que no permite instrucciones con nombres y canciones de artistas concretos y que filtra el audio y las letras que se suben. Por separado, el viernes, los mismos abogados presentaron otra demanda contra Suno en nombre de Eight Mile Style, una editorial que posee gran parte del catálogo de Eminem."
+        }
+      ]
     }
   }
 }

@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "section": "science",
   "items": [
     {
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "title": "Reconstruct Everything: UCL's pioneering AI model could redefine particle physics reconstruction",
-      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/high-energy-physics/reconstruct-everything-ucls-pioneering-ai-model-could-redefine-particle-physics-reconstruction",
-      "source": "UCL",
-      "published_iso": "2026-11-02T09:00:00+00:00",
-      "og_image": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG",
-      "excerpt": "UCL's Reconstruct Everything Model reconstructs particles end-to-end from all detector systems on a simulated FCC detector, lifting reconstruction efficiency from 61% to 92%, improving jet energy resolution 52% and processing a collision in 30 ms on one GPU.",
-      "rationale": "Primary-source physics result with hard numbers (61% to 92% efficiency, 30 ms per collision on one GPU). It is a different experiment from the 10-28 SPINE neutrino story."
-    },
-    {
-      "tool": "Science",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "title": "Students unravel AI tendency for sycophancy",
-      "url": "https://techxplore.com/news/2026-11-students-unravel-ai-tendency-sycophancy.html",
+      "title": "SYNAPS-I: Intelligent computing transforms X-ray imaging, from data collection to discovery",
+      "url": "https://techxplore.com/news/2026-11-synaps-intelligent-ray-imaging-discovery.html",
       "source": "Tech Xplore",
-      "published_iso": "2026-11-03T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg",
-      "excerpt": "University of Cincinnati and Texas A&M researchers (EMNLP) found Claude, ChatGPT and Gemini initially rejected false claims but often reversed course after repeated user pushback, sometimes endorsing falsehoods such as a flat Earth.",
-      "rationale": "A peer-reviewed (EMNLP) test showing major chatbots give in to repeated pushback. Anyone who argues with a model can act on it straight away, and it is a different study from the 10-23 delusion-reinforcement item."
+      "published_iso": "2026-11-04T10:40:05-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/synaps-i-intelligent-c.jpg",
+      "excerpt": "DOE SYNAPS-I (Berkeley Lab ALS, Brookhaven NSLS-II, Argonne): ML lets an X-ray microscope pick regions autonomously, a foundation model reconstructs ptychography at 200 images/s, and a 3D chip was rebuilt from ~1/10 the usual data with a fine-tuned SAM 3.",
+      "rationale": "A three-national-lab DOE program with concrete numbers (200 images/s, a 3D chip rebuilt from about a tenth of the usual data). It is AI running the experiment itself, which no recent card has covered for X-ray light sources."
     },
     {
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "Generative AI fills gaps in brain wiring maps where MRI scans lose signal",
-      "url": "https://medicalxpress.com/news/2026-11-generative-ai-gaps-brain-wiring.html",
-      "source": "Medical Xpress",
-      "published_iso": "2026-11-04T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg",
-      "excerpt": "USC Stevens INI's FOD-Diffusion (Medical Image Analysis) reconstructs missing fiber-orientation data in diffusion MRI, cutting brainstem fiber-direction error to about 1.4 degrees versus 4.5 for the best of six rival methods on UK Biobank and HCP-Aging scans.",
-      "rationale": "A named neuroimaging method (FOD-Diffusion) that clearly beats six rival methods. It is a research-imaging tool for brain-wiring maps with no specific patient group, so it belongs in science, and medicine has not published it."
+      "title": "Connecting artificial intelligence with the tools of astrophysical research",
+      "url": "https://phys.org/news/2026-11-artificial-intelligence-tools-astrophysical.html",
+      "source": "Phys.org",
+      "published_iso": "2026-11-05T22:00:07Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/connecting-artificial.jpg",
+      "excerpt": "AstroGenesis (ICRANet-Armenia, arXiv) is a multi-agent AI for astrophysics: a supervisor coordinates agents that search literature, pull observational data and run physics models, while neural emulators trained on model outputs speed parameter exploration.",
+      "rationale": "A multi-agent research system for astronomy that combines literature search, data pulls and physics models. It is a different system and field from the 10-23 quantum-simulation agents card it was tagged as related to."
+    },
+    {
+      "tool": "Science",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "title": "Let there be light—novel AI framework runs on optical hardware",
+      "url": "https://techxplore.com/news/2026-11-ai-framework-optical-hardware.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-11-05T05:00:01-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/let-there-be-light--no.jpg",
+      "excerpt": "University of Tokyo and NTT combine an SS-DFA training method with a single-map network to cut measurement and compute for physics-based AI; on an optical computing system it matched or beat more complex networks (Nature Computational Science).",
+      "rationale": "The AI method is the result itself: a new way to train neural networks directly on physical (optical) hardware with less measurement and compute, published in Nature Computational Science. It brings back a physics/computing pick and is a different paper from the 10-13 light-offloading card."
     },
     {
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "title": "Over 10 percent of factual claims in Google's AI search summaries aren't backed by their cited sources, study finds",
-      "url": "https://www.psypost.org/how-google-ai-search-summaries-alter-online-information-and-publisher-revenue/",
-      "source": "PsyPost",
-      "published_iso": "2026-11-02T14:00:56+00:00",
-      "og_image": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg",
-      "excerpt": "An analysis of Google's AI Overviews finds one in nine generated claims lacks support in the cited sources, and the system bypasses traditional search rankings in ways that threaten original publishers.",
-      "rationale": "A measured audit of how reliable AI Overviews are (1 in 9 claims unsupported). It matters to anyone who cites or relies on AI search. It is new: the 10-02 politics item was about Chegg/Penske lawsuits, not accuracy."
+      "title": "Using ChatGPT at work? Your boss may trust you less, new study finds",
+      "url": "https://www.eurekalert.org/news-releases/1150468",
+      "source": "EurekAlert! (Hebrew University)",
+      "published_iso": "2026-11-04",
+      "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/be1996da-571f-422e-94db-f78f12f371d3/Rendition/low-res/Content/Public",
+      "excerpt": "Six studies in The Leadership Quarterly find supervisors trust employees who use LLMs less, lowering performance ratings and promotion suitability, though the penalty shrinks when organizations explicitly encourage AI use.",
+      "rationale": "Six peer-reviewed studies on the hidden social cost of using LLMs at work, with a way to reduce it (explicit organizational endorsement). Readers can act on it directly. It has not been published in any section."
     },
     {
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "title": "AI helps find better recipes for 3D-printing titanium parts",
-      "url": "https://techxplore.com/news/2026-11-ai-recipes-3d-titanium.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-11-06T06:20:02-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg",
-      "excerpt": "A new study shows how AI can narrow the search for 3D-printing settings for high-performance titanium parts before production, replacing costly trial-and-error runs.",
-      "rationale": "A materials and manufacturing pick for subtopic spread: AI narrows titanium additive-manufacturing settings before production. It is a different process and material from the 10-16 scrap-iron and 10-18 bulk-metals stories."
+      "title": "One of AI's most annoying writing habits has a 2,000-year-old history",
+      "url": "https://www.psypost.org/one-of-ais-most-annoying-writing-habits-has-a-2000-year-old-history/",
+      "source": "PsyPost",
+      "published_iso": "2026-11-06T23:00:20+00:00",
+      "og_image": "https://www.psypost.org/wp-content/uploads/2025/04/artificial-intelligence.jpg",
+      "excerpt": "An arXiv preprint measures how often Claude models use the 'not X, but Y' self-correction pattern versus human writing across seven genres, traces it to classical rhetoric, and pilots LoRA, prompt and sampling fixes to reduce it.",
+      "rationale": "It measures the 'not X, but Y' tic in model prose against human writing and tests fixes (LoRA, prompting, sampling). Anyone editing AI-drafted text can use it, and it is new to the history."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.ucl.ac.uk/mathematical-physical-sciences/high-energy-physics/reconstruct-everything-ucls-pioneering-ai-model-could-redefine-particle-physics-reconstruction": {
+      "https://techxplore.com/news/2026-11-synaps-intelligent-ray-imaging-discovery.html": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-10-spine-machine-trail-ghost-particles.html",
+        "nearest": "https://techxplore.com/news/2026-10-conversational-ai-labs.html",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-11-students-unravel-ai-tendency-sycophancy.html": {
+      "https://phys.org/news/2026-11-artificial-intelligence-tools-astrophysical.html": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-10-ai-chatbots-delusions.html",
+        "nearest": "https://physicsworld.com/a/using-ai-agents-to-run-quantum-simulations/",
         "new_action": ""
       },
-      "https://medicalxpress.com/news/2026-11-generative-ai-gaps-brain-wiring.html": {
+      "https://techxplore.com/news/2026-11-ai-framework-optical-hardware.html": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://techxplore.com/news/2026-10-approach-sustainable-ai-offloading-burden.html",
         "new_action": ""
       },
-      "https://www.psypost.org/how-google-ai-search-summaries-alter-online-information-and-publisher-revenue/": {
+      "https://www.eurekalert.org/news-releases/1150468": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-10-scientists-tech-tools-citation-hallucinations.html",
+        "nearest": "https://research.google/blog/does-better-work-always-mean-better-workers/",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-11-ai-recipes-3d-titanium.html": {
+      "https://www.psypost.org/one-of-ais-most-annoying-writing-habits-has-a-2000-year-old-history/": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-10-fully-automated-bulk-metals-paves.html",
+        "nearest": "https://techxplore.com/news/2026-10-detector-ai-generated-ideas-words.html",
         "new_action": ""
       }
     },
-    "note": "Pool 17 (story_dedup had already removed the EurekAlert 'fluent hallucinatory chatbot' repeat of 10-30). DROPPED AS DUPLICATE: the Live Science '10 minutes of AI assistance erodes motivation' piece (history_match related) reports the same study as the 10-10 EurekAlert 'Using AI for just 10 minutes erodes your ability to persist' card. Cross-section: I checked published_urls.json medicine (no medicalxpress or psypost entries), marketing (no psypost, phys.org or techxplore entries; nothing about AI Overviews accuracy) and politics (only an unrelated 10-02 Verge AI Overviews lawsuits item). None of the picks appear in any section. Lower-ranked, not duplicates: the PsyPost patent-lawyer expertise field experiment (possibly overlaps the 10-11 Google 'Does better work always mean better workers?' study, so I skipped it as a precaution); the Phys.org ChatGPT-boss-trust study (it would have been a 3rd workplace-psychology card); the Mainz chatbot-personality study (related to the 10-19 personality card); the PsyPost epanorthosis preprint; the EEG DSE-TAM model; the Earth-rotation Autoformer; the Tohoku solid-electrolyte perspective and the ecology foundation-model roadmap (perspectives with no new data); the Ai2 olmOCR 2 archives post (no og_image, 10-28); the Live Science 'last AI built by humans' feature. Outlets: UCL, Tech Xplore x2, Medical Xpress, PsyPost (4 distinct). Subtopics: physics, psychology x2, neuroimaging, materials."
+    "note": "Pool of 15; story_dedup dropped none. SWAP 1: removed the Phys.org PrinTE 'jumping genes' pick (AI only incidental). Replaced it with the Medical Xpress plant-compound permeability study. SWAP 2: removed the Medical Xpress pick because it hit a downstream content-safety halt (house rule: swap the pick, do not reword) and dropped its dedup entry. Replaced it with the Tech Xplore University of Tokyo/NTT optical-hardware AI framework, which is physics/computing, not biology. Its history_match (related, 0.178) is the 10-13 Tech Xplore card 'Offloading part of the computational burden onto light'. Judged NEW: this is a separate Nature Computational Science paper published 11-05, about an SS-DFA training method plus a single-map network for physical neural networks, not a follow-up report on the 10-13 work. Enrichment should confirm the 10-13 card was not the same Tokyo/NTT paper; if it was, swap in the EurekAlert biochar-radicals ML study (materials, no history_match). Other candidates passed over: the Mainz chatbot-personality study (a third psychology pick, related to the 10-19 card); the MoS2 sliding simulation (the ML potential is a method, AI near-incidental); the PsyPost patent-lawyer study (may be the 10-11 Google study); the MIT Pritzker Prize (an award); and the SynFit enzyme, natural-Ozempic and bird-flu-vaccine stories (biological/biomedical, or already covered on 11-02). Outlets: Tech Xplore 2, Phys.org 1, EurekAlert 1, PsyPost 1 (4 distinct, max 2 per outlet). Subtopics: research automation, astronomy, optical computing/physics, workplace psychology, linguistics/cognition."
   }
 }

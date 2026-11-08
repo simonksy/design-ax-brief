@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "issue": "멈춘 만화, AI로 움직이다",
+    "date": "2026.11.08",
+    "section": "BOOKS",
+    "accent": "#f5a623",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Korea Times 11.03→10.30, AltBollywood 11.04→10.30, 브릿지경제 11.05→11.02 배포, 조선비즈 11.08 KST). 164명·약 90%·81.1%, Veo 3·Gemini 2.5 Pro·Lyria 2·'Comics 2.0', 한 달 반·230만 회·358시간, 1천만 뷰 판권·OTT 간극 인용 확인. Toonsutra 이미지는 로고뿐이라 사진은 4장(제물 투표)만, 2장 stat·3·5장 quote. 어제 책 trend(사람이 썼다는 증명)와 겹치지 않게 웹툰 전선으로.",
+    "sources": [
+      "The Korea Times — Korean cartoonists take demands for AI consent, copyright safeguards to UNESCO (2026.10.30)",
+      "AltBollywood — Toonsutra Bets on AI to Turn Comics Into Cinema With Its Cinematic Mode (2026.10.30)",
+      "브릿지경제 — \"다음 편 빨리 내놔\"⋯웹툰 팬이 만든 AI 실사화에 230만명 몰렸다 (2026.11.02)",
+      "Chosun Biz — CreateCrew advances AI to streamline webtoon animation, targets Japan, China (2026.11.08)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 책 · 10.30~11.08",
+      "thread": [
+        {
+          "d": "10.30",
+          "t": "동의 요구",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "10.30",
+          "t": "시네마틱",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.02",
+          "t": "팬 실사화",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.08",
+          "t": "애니 자동화",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        }
+      ],
+      "thread_note": "웹툰 컷이 AI로 영상이 되고, 작가 동의가 뒤따라 쟁점이 된다",
+      "eyebrow": "흐름 · 책",
+      "headline": "멈춘 만화,\nAI로 움직이다",
+      "body": "한 건씩 보면 새 기능, 팬 영상, 스타트업이다. 꿰면 열흘 사이 컷이 영상이 됐고, 작가들은 동의부터 묻는다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.30",
+      "headline": "학습 전에\n작가 동의부터",
+      "body": "웹툰 작가 권혁주 협회장이 UNESCO에서 출판·AI 학습·챗봇 이용을 따로 허락하는 권리를 요구했다.",
+      "foot": "2026.10.30",
+      "_src": "https://www.koreatimes.co.kr/entertainment/20261030/korean-cartoonists-take-demands-for-ai-consent-copyright-safeguards-to-unesco",
+      "_id": "korea-cartoonists-unesco-ai",
+      "stat_top": "막는 법 모름 약 90%",
+      "stat_arrow": "작가 164명 중 동의제라면 참여",
+      "stat_bottom": "81.1%",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.10.30",
+      "headline": "만화가 스스로\n읽어 준다",
+      "body": "Toonsutra Cinematic Mode 베타. Veo 3가 컷을 움직이고 Gemini가 목소리, Lyria가 음악을 입힌다.",
+      "foot": "2026.10.30",
+      "_src": "https://www.altbollywood.com/post/toonsutra-ai-cinematic-mode-comics-india",
+      "_id": "toonsutra-cinematic-mode",
+      "quote": "만화 2.0의\n탄생",
+      "quote_by": "Vishal Anand · Toonsutra CEO"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.02",
+      "headline": "팬이 만든 실사화\n230만 회",
+      "body": "네이버웹툰 '제물 투표' AI 실사화가 공개 한 달 반 만에 230만 회. 세트·배우 없이 약 358시간에 만들었다.",
+      "foot": "2026.11.02",
+      "_src": "https://www.viva100.com/article/20261101500560",
+      "_id": "jemul-tupyo-ai-liveaction",
+      "media": "pipeline/media/jemul-tupyo-ai-liveaction.png"
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.11.08",
+      "headline": "20분 애니는\n아직 사람 손",
+      "body": "CreateCrew는 콘티부터 원화·채색·후반까지 자동화한다. 1천만 뷰 웹툰의 애니 판권을 따 제작 중이다.",
+      "foot": "2026.11.08",
+      "_src": "https://biz.chosun.com/en/en-industry/2026/11/08/32IOO7XILJFLXGSTMUMURIHYPI/",
+      "_id": "createcrew-webtoon-animation",
+      "quote": "AI가 발전해도\nOTT에 올리는 애니와는\n간극이 있다",
+      "quote_by": "강효헌 · CreateCrew 대표"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

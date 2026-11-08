@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "issue": "화면이 그때그때 생겨난다",
+    "date": "2026.11.08",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "원문 5건 대조: 날짜를 원문 게재일로 고침(Vercel 11.04→11.02, Theo 11.07→11.03 업로드, UX Collective 11.08→11.04, Gemini 11.06→11.05, Verge 11.07→11.06)하고 시간순 정렬. Theo 6→9점은 영상 자막, 축포·47번째 기록 예시는 UXC 피드 본문, Muse 연결 앱은 Verge 본문으로 확인. 스틸은 Muse 한 장만, Theo는 stat, UXC는 quote.",
+    "sources": [
+      "Vercel — Vercel MCP now renders deployments as an interactive card (2026.11.02)",
+      "Theo - t3.gg (YouTube) — Agents Sucked At UI (Until Today) (2026.11.03)",
+      "UX Collective — AI can generate the interface. What makes it worth caring about? (2026.11.04)",
+      "Google Blog — Transform a quick drawing into a live app with Gemini (2026.11.05)",
+      "The Verge — Meta's Muse AI can create custom 'spaces' for the version of the app you need right now (2026.11.06)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 디자인 · 11.02~11.06",
+      "thread": [
+        {
+          "d": "11.02",
+          "t": "채팅 카드",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.03",
+          "t": "AI 심사",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.04",
+          "t": "감정 맥락",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.05",
+          "t": "스케치 앱",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.06",
+          "t": "말로 공간",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        }
+      ],
+      "thread_note": "화면은 이제 요청할 때 생기고, 남은 질문은 '좋은가'다",
+      "eyebrow": "흐름 · 디자인",
+      "headline": "화면이 그때그때\n생겨난다",
+      "body": "하나씩 보면 기능 소식이다. 닷새 새 채팅 속 카드, 손그림 앱, 말로 만든 공간이 나오자 '좋은 화면'이 쟁점이 됐다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.02",
+      "headline": "채팅창 안에\n배포 카드가 뜬다",
+      "body": "Vercel MCP의 첫 MCP App. ChatGPT 안에 배포 상태·빌드 로그·커밋을 카드로 띄우고 앱이 안 되는 곳엔 글로 준다.",
+      "foot": "2026.11.02",
+      "_src": "https://vercel.com/changelog/monitor-vercel-deployments-in-chatgpt",
+      "_id": "vercel-mcp-deploy-card",
+      "video": "pipeline/media/vercel-mcp-deploy-card.mp4"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.03",
+      "headline": "AI가 UI를\n심사한다",
+      "body": "Theo는 여러 모델에게 화면을 10점 만점으로 매기게 하고 모두 9점을 줄 때까지 Opus가 고치게 했다. 세 번째 판에서 닿았다.",
+      "foot": "2026.11.03",
+      "_src": "https://www.youtube.com/watch?v=xq0eB8vxeqk",
+      "_id": "theo-opus-ui-hillclimb",
+      "stat_top": "Opus 첫 평가 6점",
+      "stat_arrow": "세 판 고친 뒤 심사단 전원",
+      "stat_bottom": "9 / 10",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.04",
+      "headline": "부품은 맞는데\n순간을 모른다",
+      "body": "같은 완료 축포가 몇 달 만의 창업에도, 아침 마흔일곱 번째 기록 수정에도 뜬다. 무엇을 축하할지는 사람이 정한다.",
+      "foot": "2026.11.04",
+      "_src": "https://uxdesign.cc/ai-can-generate-the-interface-what-makes-it-worth-caring-about-a5f3a3e81986",
+      "_id": "uxc-ai-ui-emotional-context",
+      "quote": "컴포넌트는 일관된다.\n경험은 아마\n달라야 한다",
+      "quote_by": "Dolphia · UX Collective"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.05",
+      "headline": "손그림 한 장이\n앱이 된다",
+      "body": "스케치 사진을 올려 Canvas에서 \"이 앱 코딩해 줄래?\"라고 하면 Gemini가 그림을 읽고 코드를 쓴다. 색·글꼴도 바로 고친다.",
+      "foot": "2026.11.05",
+      "_src": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/",
+      "_id": "gemini-canvas-sketch-to-app",
+      "video": "pipeline/media/gemini-canvas-sketch-to-app.mp4"
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "2026.11.06",
+      "headline": "설명하면 생기는\n나만의 앱 공간",
+      "body": "Meta Muse가 쇼핑 허브·학교 대시보드 같은 공간을 설명만 듣고 만든다. Gmail·캘린더를 연결하면 내용이 알아서 바뀐다.",
+      "foot": "2026.11.06",
+      "_src": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "_id": "meta-muse-spaces-genui",
+      "media": "pipeline/media/meta-muse-spaces-genui.png"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

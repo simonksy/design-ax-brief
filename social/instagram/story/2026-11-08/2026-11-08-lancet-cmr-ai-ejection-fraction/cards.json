@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "issue": "AI 심장 MRI 판독 사망 예측서 의사 앞서",
+    "date": "2026.11.08",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "자동 초안. 썸네일은 초안이라 겹친다 — 올리기로 정하면 원문을 받아 숫자를 확인하고 글을 다시 쓰면서 stat·quote 로 장을 세운다.",
+    "sources": [
+      "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00065-8/fulltext"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 의료 · 2026.11.08",
+      "headline": "AI 심장 MRI 판독 사망 예측서 의사…",
+      "body": "이번 연구는 같은 유형 가운데 최대 규모다. 연구진은 영국(U.K.)과 미국(United States)에서 심장 질환이 확인됐거나…",
+      "foot": "밀어서 보기 →",
+      "media": "pipeline/media/lancet-cmr-ai-ejection-fraction.jpg",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "무슨 일인가",
+      "headline": "AI 심장 MRI 판독 사망 예측서 의사…",
+      "body": "환자들은 평균 다섯 해 넘게(중앙값 5.6년) 추적 관찰됐고, 이 기간 3,458명이 숨졌다. 전체 사망률을 놓고 보면 AI 박출률이…",
+      "foot": "2026.11.08",
+      "media": "pipeline/media/lancet-cmr-ai-ejection-fraction.jpg",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "어떻게 되는가",
+      "headline": "AI 심장 MRI 판독 사망 예측서 의사…",
+      "body": "AI 도구가 환자 한 명의 영상을 분석하는 데는 약 2–3초가 걸렸다. 연구팀의 이전 연구에서 전문의는 보통 13분 안팎을 썼다.",
+      "foot": "2026.11.08",
+      "media": "pipeline/media/lancet-cmr-ai-ejection-fraction.jpg",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "짚을 대목",
+      "headline": "AI 심장 MRI 판독 사망 예측서 의사…",
+      "body": "연구는 City St George's, University of London과 University College London이…",
+      "foot": "2026.11.08",
+      "media": "pipeline/media/lancet-cmr-ai-ejection-fraction.jpg",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "그래서 지금",
+      "headline": "AI 심장 MRI 판독 사망 예측서 의사…",
+      "body": "AI가 27,382명의 MRIs를 몇 초에 읽고 사망 예측서 의사를 조금 앞섰다.",
+      "foot": "2026.11.08",
+      "media": "pipeline/media/lancet-cmr-ai-ejection-fraction.jpg",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
