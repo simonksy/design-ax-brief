@@ -1,7 +1,32 @@
-{"date":"2026-11-08","section":"games","media":[
-{"id":"worldlabs-frameboy-atlas","type":"video","src":"pipeline/media/worldlabs-frameboy-atlas.mp4","poster":"pipeline/media/worldlabs-frameboy-atlas.jpg"},
-{"id":"quixel-megascans-ai-training","type":"image","src":"pipeline/media/quixel-megascans-ai-training.jpg"},
-{"id":"taketwo-zelnick-ai-ad","type":"image","src":"pipeline/media/taketwo-zelnick-ai-ad.jpg"},
-{"id":"goodmorning-teacher-fangame","type":"video","src":"pipeline/media/goodmorning-teacher-fangame.mp4","poster":"pipeline/media/goodmorning-teacher-fangame.jpg"},
-{"id":"ign-me3-modding-ai","type":"image","src":"pipeline/media/ign-me3-modding-ai.jpg"}
-]}
+{
+  "date": "2026-11-09",
+  "section": "games",
+  "media": [
+    {
+      "id": "wardogs-ml-anticheat",
+      "type": "video",
+      "src": "pipeline/media/wardogs-ml-anticheat.mp4",
+      "poster": "pipeline/media/wardogs-ml-anticheat.jpg"
+    },
+    {
+      "id": "krafton-cofa-probe",
+      "type": "image",
+      "src": "pipeline/media/krafton-cofa-probe.png"
+    },
+    {
+      "id": "ubisoft-databricks-agents",
+      "type": "image",
+      "src": "pipeline/media/ubisoft-databricks-agents.png"
+    },
+    {
+      "id": "netmarble-13-titles-ai",
+      "type": "image",
+      "src": "pipeline/media/netmarble-13-titles-ai.jpg"
+    },
+    {
+      "id": "kenney-sweeney-genai-clash",
+      "type": "image",
+      "src": "pipeline/media/kenney-sweeney-genai-clash.jpg"
+    }
+  ]
+}

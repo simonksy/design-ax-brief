@@ -1,441 +1,215 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "section": "design",
   "cards": [
     {
-      "id": "bcn3d-aurora-photo-to-part",
+      "id": "cursor-voice-agent-call",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "BCN3D Aurora,\n출력할 부품을 직접 설계",
-      "body": "BCN3D Aurora는 CAD·슬라이싱 없이 사진·글·음성만으로 부품을 만든다.",
-      "mini_headline": "Aurora, 사진으로 출력",
-      "tool": "Text-to-CAD",
-      "source": "All3DP",
-      "url": "https://all3dp.com/4/this-ai-3d-printer-can-now-design-your-parts-too-i-have-questions/",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://i.all3dp.com/workers/images/fit=scale-down,w=1200,h=675,quality=79,gravity=0.5x0.5,format=auto/wp-content/uploads/2026/11/05110054/BCN3D-Aurora-hero.jpg",
-            "cap": "출처: BCN3D, All3DP"
-          },
-          {
-            "t": "p",
-            "x": "새 Aurora 3D 프린터는 사진이나 몇 마디 말, 음성 명령만 있으면 CAD도 슬라이싱 소프트웨어도 거치지 않고 완성된 부품을 뽑아낸다. 솔직히 믿기 어렵다. 그래서 더 직접 보고 싶다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "BCN3D's Aurora now designs\nthe parts it prints",
-          "body": "BCN3D's Aurora printer can now turn a photo, a few words or a voice command into a part, skipping CAD and slicing.",
-          "mini_headline": "Aurora prints\nfrom a photo",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.all3dp.com/workers/images/fit=scale-down,w=1200,h=675,quality=79,gravity=0.5x0.5,format=auto/wp-content/uploads/2026/11/05110054/BCN3D-Aurora-hero.jpg",
-                "cap": "Source: BCN3D, All3DP"
-              },
-              {
-                "t": "p",
-                "x": "The new Aurora 3D printer can turn a photo, a few words, or a voice command into a finished part without CAD or slicing software. I'm struggling to believe it. I'm also rather desperate to see it."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "BCN3D Aurora,\n출력할 부품을 직접 설계",
-          "body": "BCN3D Aurora는 CAD·슬라이싱 없이 사진·글·음성만으로 부품을 만든다.",
-          "mini_headline": "Aurora, 사진으로 출력",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.all3dp.com/workers/images/fit=scale-down,w=1200,h=675,quality=79,gravity=0.5x0.5,format=auto/wp-content/uploads/2026/11/05110054/BCN3D-Aurora-hero.jpg",
-                "cap": "출처: BCN3D, All3DP"
-              },
-              {
-                "t": "p",
-                "x": "새 Aurora 3D 프린터는 사진이나 몇 마디 말, 음성 명령만 있으면 CAD도 슬라이싱 소프트웨어도 거치지 않고 완성된 부품을 뽑아낸다. 솔직히 믿기 어렵다. 그래서 더 직접 보고 싶다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "BCN3D Aurora、\n出力する部品も自ら設計",
-          "body": "BCN3DのAuroraは写真や言葉、音声からCADもスライスも介さず部品を作る。",
-          "mini_headline": "写真から出力するAurora",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.all3dp.com/workers/images/fit=scale-down,w=1200,h=675,quality=79,gravity=0.5x0.5,format=auto/wp-content/uploads/2026/11/05110054/BCN3D-Aurora-hero.jpg",
-                "cap": "出典:BCN3D, All3DP"
-              },
-              {
-                "t": "p",
-                "x": "新しいAurora 3D プリンターは、写真や短い言葉、音声コマンドから、CADやスライスソフトを使わずに完成した部品を作れるという。にわかには信じがたい。それだけに、ぜひ実物を見てみたい。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "BCN3D Aurora\n能自己设计要打印的零件",
-          "body": "BCN3D的Aurora打印机可凭照片、几句话或语音指令生成零件，无需CAD与切片。",
-          "mini_headline": "Aurora凭照片打印",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.all3dp.com/workers/images/fit=scale-down,w=1200,h=675,quality=79,gravity=0.5x0.5,format=auto/wp-content/uploads/2026/11/05110054/BCN3D-Aurora-hero.jpg",
-                "cap": "来源：BCN3D, All3DP"
-              },
-              {
-                "t": "p",
-                "x": "全新Aurora 3D打印机能把一张照片、几句话或一条语音指令直接变成成品零件，无需CAD或切片软件。我有点难以置信，也相当迫切地想亲眼看看。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Aurora de BCN3D ya diseña\nlas piezas que imprime",
-          "body": "La impresora Aurora de BCN3D convierte una foto, unas palabras o una orden de voz en una pieza, sin CAD ni laminado.",
-          "mini_headline": "Aurora imprime desde una foto",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.all3dp.com/workers/images/fit=scale-down,w=1200,h=675,quality=79,gravity=0.5x0.5,format=auto/wp-content/uploads/2026/11/05110054/BCN3D-Aurora-hero.jpg",
-                "cap": "Fuente: BCN3D, All3DP"
-              },
-              {
-                "t": "p",
-                "x": "La nueva impresora 3D Aurora puede convertir una foto, unas pocas palabras o una orden de voz en una pieza terminada sin CAD ni software de laminado. Me cuesta creerlo. Y también tengo bastantes ganas de verlo."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "BCN3D Aurora,\n출력할 부품을 직접 설계",
-          "body": "BCN3D Aurora는 사진·글·음성만으로 CAD·슬라이싱 없이 부품을 만든다.",
-          "mini_headline": "Aurora, 사진으로 출력",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.all3dp.com/workers/images/fit=scale-down,w=1200,h=675,quality=79,gravity=0.5x0.5,format=auto/wp-content/uploads/2026/11/05110054/BCN3D-Aurora-hero.jpg",
-                "cap": "출처: BCN3D, All3DP"
-              },
-              {
-                "t": "p",
-                "x": "새 Aurora 3D 프린터는 사진이나 몇 마디 말, 음성 명령만으로 CAD나 슬라이싱 소프트웨어 없이 완성된 부품을 만들어 낸다. 솔직히 믿기 어렵다. 그만큼 직접 보고 싶은 마음도 간절하다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "BCN3D Aurora、\n出力する部品も自ら設計",
-          "body": "BCN3DのAuroraは写真や言葉、音声からCADもスライスも介さず部品を作る。",
-          "mini_headline": "写真から出力するAurora",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.all3dp.com/workers/images/fit=scale-down,w=1200,h=675,quality=79,gravity=0.5x0.5,format=auto/wp-content/uploads/2026/11/05110054/BCN3D-Aurora-hero.jpg",
-                "cap": "出典:BCN3D, All3DP"
-              },
-              {
-                "t": "p",
-                "x": "新しいAurora 3D プリンターは、写真や短い言葉、音声コマンドから、CADやスライスソフトを使わずに完成した部品を作れるという。にわかには信じがたい。それだけに、ぜひ実物を見てみたい。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "BCN3D Aurora\n能自己设计要打印的零件",
-          "body": "BCN3D的Aurora打印机可凭照片、几句话或语音指令生成零件，无需CAD与切片。",
-          "mini_headline": "Aurora凭照片打印",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.all3dp.com/workers/images/fit=scale-down,w=1200,h=675,quality=79,gravity=0.5x0.5,format=auto/wp-content/uploads/2026/11/05110054/BCN3D-Aurora-hero.jpg",
-                "cap": "来源：BCN3D, All3DP"
-              },
-              {
-                "t": "p",
-                "x": "全新Aurora 3D打印机能把一张照片、几句话或一条语音指令直接变成成品零件，无需CAD或切片软件。我有点难以置信，也相当迫切地想亲眼看看。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Aurora de BCN3D ya diseña\nlas piezas que imprime",
-          "body": "La impresora Aurora de BCN3D convierte una foto, unas palabras o una orden de voz en una pieza, sin CAD ni laminado.",
-          "mini_headline": "Aurora imprime desde una foto",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.all3dp.com/workers/images/fit=scale-down,w=1200,h=675,quality=79,gravity=0.5x0.5,format=auto/wp-content/uploads/2026/11/05110054/BCN3D-Aurora-hero.jpg",
-                "cap": "Fuente: BCN3D, All3DP"
-              },
-              {
-                "t": "p",
-                "x": "La nueva impresora 3D Aurora puede convertir una foto, unas pocas palabras o una orden de voz en una pieza terminada sin CAD ni software de laminado. Me cuesta creerlo. Y también tengo bastantes ganas de verlo."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "vercel-json-render-chat",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Vercel, 생성형 UI\n어느 채팅앱에나 스트리밍",
-      "body": "json-render로 Chat SDK UI가 Slack·Teams 카드로 바뀐다.",
-      "mini_headline": "카탈로그 하나로 모든 채팅앱에",
+      "headline": "Cursor 에이전트와\n이제 말로 대화한다",
+      "body": "데스크톱·웹·iOS의 Cursor에서 코딩 에이전트와 음성으로 통화한다.",
+      "mini_headline": "Cursor 에이전트와 통화",
       "tool": "Figma",
-      "source": "Vercel",
-      "url": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
+      "source": "Cursor Changelog",
+      "url": "https://cursor.com/changelog/voice-chat",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "이제 Chat SDK 에이전트도 json-render로 생성형 UI를 스트리밍한다."
+            "x": "이제 실시간 음성 통화로 에이전트와 대화한다. 바꿀 내용을 말로 설명하고, 에이전트가 무엇을 하는지 묻고, 진행 상황은 귀로 들으면 된다. 음성 채팅은 Agents Window, IDE, 웹, iOS용 Cursor에서 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "에이전트가 타입이 정해진 컴포넌트 카탈로그에 맞춰 JSON 스펙을 쓰면 json-render가 이를 Chat SDK 카드로 바꾼다. 카드는 각 어댑터가 플랫폼 고유 형식으로 올린다. Slack이면 Block Kit, Teams면 Adaptive Cards다."
+            "x": "통화를 시작하려면 에이전트가 쉬고 있고 채팅 입력란이 비어 있을 때 Start voice chat 파형 버튼을 누른다. 평소 Send 버튼이 있던 자리로, 받아쓰기용 마이크 버튼 옆이다. iOS에서는 \"Hey Siri, call Cursor\"라고 말해 새 에이전트와 통화를 시작할 수도 있다. 음소거나 통화 종료는 잠금 화면(Lock Screen)의 Live Activity에서 한다."
           },
           {
             "t": "p",
-            "x": "카탈로그 하나에 표, 차트, 버튼 등이 다 들어 있어 메시지 형태마다 도구를 따로 만들어 관리하지 않아도 된다."
-          },
-          {
-            "t": "video",
-            "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6S2Z82rxxVRa8ZUwSN0ZEN/b4093a11584a8a2c186fb766afd8fd6a/slack-block-stream-light__1_.mp4"
+            "x": "음성 에이전트는 듣고 답하고, 코딩 작업은 채팅 속 에이전트에게 넘긴다. 그 에이전트가 일하는 동안에도 대화는 이어진다. diff에서 무엇이 바뀌었는지 묻고, 실행 상황을 확인하고, 이 에이전트와 나눈 이전 메시지와 통화를 검색한다. 여러 작업자가 있는 Project에서는 작업자 사이를 오가기도 한다."
           },
           {
             "t": "p",
-            "x": "카드는 모델이 쓰는 대로 흘러나온다. streamCard는 루트 요소에 내용이 생기면 카드를 게시하고, 새 요소가 들어올 때마다 메시지를 갱신한다. 수정은 기본적으로 500 ms에 최대 한 번 나간다. Chat SDK의 스트리밍 간격과 같은 값이다. 스트림이 끝나면 메시지에는 검증을 마친 최종 카드가 남는다."
+            "x": "코딩 에이전트도 직접 말한다. 작업 중에는 짧은 진행 메모를, 끝나면 간단한 답을 들려준다. 전체 서면 답변 대신 짧은 업데이트를 듣는 경우가 많다."
           },
           {
             "t": "p",
-            "x": "스펙 검증과 플랫폼 한도도 챙긴다. toCard는 모든 요소의 props를 해당 컴포넌트 스키마와 대조하고, 스펙이 잘못됐으면 CardSpecError를 던진다. 문제마다 읽기 쉬운 이슈가 따로 붙으니 그 목록을 모델에 돌려보내 고친 스펙을 받을 수도 있다."
+            "x": "음성 채팅은 Grok Voice 기반이다. Voice settings에서 Ara, Eve, Leo, Rex, Sal 등 여러 목소리 가운데 고르면 된다. Privacy Mode를 켜면 음성 채팅도 데이터를 전혀 보존하지 않는다."
           },
           {
             "t": "p",
-            "x": "메시지 하나에 담을 수 있는 양은 플랫폼마다 상한이 있어서 Chat SDK 어댑터는 이를 넘는 콘텐츠를 더 단순한 형태로 낮춘다. Slack 어댑터라면 두 번째 표를 코드 블록으로 바꾸는 식이다. limits를 넘기면 이런 스펙을 아예 거부하게 할 수도 있다."
+            "x": "음성 채팅은 이전 릴리스에서 Voice Mode라 부르던 받아쓰기와 다른 기능이다. 받아쓰기는 지금도 말을 채팅 입력란의 텍스트로 옮기고, IDE에서는 Cmd+Shift+Space로 켜고 끈다. 음성 채팅은 에이전트가 소리 내어 답하는 양방향 대화다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Vercel chat agents stream\ngenerative UI on any platform",
-          "body": "Vercel's json-render lets Chat SDK agents stream UI from one typed component catalog as native Slack and Teams cards.",
-          "mini_headline": "One catalog,\nevery chat app",
+          "headline": "Cursor lets you talk\nto your coding agents",
+          "body": "Cursor now takes realtime voice calls on desktop, web and iOS, passing spoken requests to its coding agent.",
+          "mini_headline": "Talk to Cursor agents",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "You can now stream generative UI from your Chat SDK agent with json-render."
+                "x": "You can now talk with your agents in a realtime voice call. Describe a change out loud, ask what an agent is working on, and hear updates as the work moves forward. Voice chat works in the Agents Window, the IDE, on web, and in Cursor for iOS."
               },
               {
                 "t": "p",
-                "x": "With a typed catalog of components, the agent writes a JSON spec that json-render converts into a Chat SDK card. Each adapter then posts the card in its platform’s native format, such as Block Kit on Slack and Adaptive Cards on Teams."
+                "x": "Start a call: when the agent is idle and the chat input is empty, click the waveform button labeled Start voice chat. It sits where Send usually is, next to the microphone button for dictation. On iOS, you can also say \"Hey Siri, call Cursor\" to start a call with a new agent, and mute or hang up from the Lock Screen with a Live Activity."
               },
               {
                 "t": "p",
-                "x": "The catalog covers tables, charts, buttons, and more, so there’s no separate tool to build and maintain for each message shape."
-              },
-              {
-                "t": "video",
-                "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6S2Z82rxxVRa8ZUwSN0ZEN/b4093a11584a8a2c186fb766afd8fd6a/slack-block-stream-light__1_.mp4"
+                "x": "The voice agent listens, replies, and hands coding work to the agent in your chat. While that agent runs, you can keep the conversation going. Ask what changed in a diff, check on a run, search earlier messages and calls with this agent, or switch between workers in a Project that has them."
               },
               {
                 "t": "p",
-                "x": "Stream cards as the model writes: streamCard posts the card once its root element has content and updates the message as new elements stream in. Edits go out at most once every 500 ms by default, which matches Chat SDK’s streaming interval. Once the stream ends, the message shows the final, validated card."
+                "x": "The coding agent speaks for itself too. It shares short progress notes while it works and a brief answer when it's done, so you usually hear a short update instead of the full written reply."
               },
               {
                 "t": "p",
-                "x": "Validate specs and enforce platform limits: toCard checks every element’s props against its component schema and throws CardSpecError for an invalid spec. Each problem gets its own readable issue, so you can send the list back to the model for a corrected spec."
+                "x": "Voice chat runs on Grok Voice. Pick from many voices in Voice settings, including Ara, Eve, Leo, Rex, and Sal. With Privacy Mode on, voice chat runs with zero data retention."
               },
               {
                 "t": "p",
-                "x": "Platforms cap what a single message can hold, and Chat SDK adapters degrade content past those caps. The Slack adapter, for example, turns a second table into a code block. Pass limits to reject those specs instead."
+                "x": "Voice chat is separate from dictation, which earlier releases called Voice Mode. Dictation still turns your speech into text in the chat input, and Cmd+Shift+Space still toggles it in the IDE. Voice chat is a two-way conversation where the agent answers out loud."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Vercel, 생성형 UI\n어느 채팅앱에나 스트리밍",
-          "body": "json-render로 Chat SDK UI가 Slack·Teams 카드로 바뀐다.",
-          "mini_headline": "카탈로그 하나로 모든 채팅앱에",
+          "headline": "Cursor 에이전트와\n이제 말로 대화한다",
+          "body": "데스크톱·웹·iOS의 Cursor에서 코딩 에이전트와 음성으로 통화한다.",
+          "mini_headline": "Cursor 에이전트와 통화",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "이제 Chat SDK 에이전트도 json-render로 생성형 UI를 스트리밍한다."
+                "x": "이제 실시간 음성 통화로 에이전트와 대화한다. 바꿀 내용을 말로 설명하고, 에이전트가 무엇을 하는지 묻고, 진행 상황은 귀로 들으면 된다. 음성 채팅은 Agents Window, IDE, 웹, iOS용 Cursor에서 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "에이전트가 타입이 정해진 컴포넌트 카탈로그에 맞춰 JSON 스펙을 쓰면 json-render가 이를 Chat SDK 카드로 바꾼다. 카드는 각 어댑터가 플랫폼 고유 형식으로 올린다. Slack이면 Block Kit, Teams면 Adaptive Cards다."
+                "x": "통화를 시작하려면 에이전트가 쉬고 있고 채팅 입력란이 비어 있을 때 Start voice chat 파형 버튼을 누른다. 평소 Send 버튼이 있던 자리로, 받아쓰기용 마이크 버튼 옆이다. iOS에서는 \"Hey Siri, call Cursor\"라고 말해 새 에이전트와 통화를 시작할 수도 있다. 음소거나 통화 종료는 잠금 화면(Lock Screen)의 Live Activity에서 한다."
               },
               {
                 "t": "p",
-                "x": "카탈로그 하나에 표, 차트, 버튼 등이 다 들어 있어 메시지 형태마다 도구를 따로 만들어 관리하지 않아도 된다."
-              },
-              {
-                "t": "video",
-                "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6S2Z82rxxVRa8ZUwSN0ZEN/b4093a11584a8a2c186fb766afd8fd6a/slack-block-stream-light__1_.mp4"
+                "x": "음성 에이전트는 듣고 답하고, 코딩 작업은 채팅 속 에이전트에게 넘긴다. 그 에이전트가 일하는 동안에도 대화는 이어진다. diff에서 무엇이 바뀌었는지 묻고, 실행 상황을 확인하고, 이 에이전트와 나눈 이전 메시지와 통화를 검색한다. 여러 작업자가 있는 Project에서는 작업자 사이를 오가기도 한다."
               },
               {
                 "t": "p",
-                "x": "카드는 모델이 쓰는 대로 흘러나온다. streamCard는 루트 요소에 내용이 생기면 카드를 게시하고, 새 요소가 들어올 때마다 메시지를 갱신한다. 수정은 기본적으로 500 ms에 최대 한 번 나간다. Chat SDK의 스트리밍 간격과 같은 값이다. 스트림이 끝나면 메시지에는 검증을 마친 최종 카드가 남는다."
+                "x": "코딩 에이전트도 직접 말한다. 작업 중에는 짧은 진행 메모를, 끝나면 간단한 답을 들려준다. 전체 서면 답변 대신 짧은 업데이트를 듣는 경우가 많다."
               },
               {
                 "t": "p",
-                "x": "스펙 검증과 플랫폼 한도도 챙긴다. toCard는 모든 요소의 props를 해당 컴포넌트 스키마와 대조하고, 스펙이 잘못됐으면 CardSpecError를 던진다. 문제마다 읽기 쉬운 이슈가 따로 붙으니 그 목록을 모델에 돌려보내 고친 스펙을 받을 수도 있다."
+                "x": "음성 채팅은 Grok Voice 기반이다. Voice settings에서 Ara, Eve, Leo, Rex, Sal 등 여러 목소리 가운데 고르면 된다. Privacy Mode를 켜면 음성 채팅도 데이터를 전혀 보존하지 않는다."
               },
               {
                 "t": "p",
-                "x": "메시지 하나에 담을 수 있는 양은 플랫폼마다 상한이 있어서 Chat SDK 어댑터는 이를 넘는 콘텐츠를 더 단순한 형태로 낮춘다. Slack 어댑터라면 두 번째 표를 코드 블록으로 바꾸는 식이다. limits를 넘기면 이런 스펙을 아예 거부하게 할 수도 있다."
+                "x": "음성 채팅은 이전 릴리스에서 Voice Mode라 부르던 받아쓰기와 다른 기능이다. 받아쓰기는 지금도 말을 채팅 입력란의 텍스트로 옮기고, IDE에서는 Cmd+Shift+Space로 켜고 끈다. 음성 채팅은 에이전트가 소리 내어 답하는 양방향 대화다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Vercel、生成UIを\nどのチャットにも配信",
-          "body": "json-renderでChat SDKのUIをSlack・Teamsカードで配信する。",
-          "mini_headline": "一つのカタログで全チャットへ",
+          "headline": "Cursorのエージェントと\n声で会話できる",
+          "body": "Cursorがデスクトップ・Web・iOSで音声通話に対応し、依頼をエージェントに渡す。",
+          "mini_headline": "Cursorのエージェントと通話",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "json-renderを使えば、Chat SDKのエージェントから生成UIをストリーミングできるようになった。"
+                "x": "リアルタイムの音声通話でエージェントと話せるようになった。変更内容を口頭で説明し、エージェントが何に取り組んでいるかを尋ね、作業の進行に合わせて最新状況を聞ける。音声チャットはAgents Window、IDE、Web、iOS版Cursorで使える。"
               },
               {
                 "t": "p",
-                "x": "型付きのコンポーネントカタログをもとにエージェントがJSONスペックを書き、json-renderがそれをChat SDKカードに変換する。各アダプターはそのカードを、SlackならBlock Kit、TeamsならAdaptive Cardsといった各プラットフォームのネイティブ形式で投稿する。"
+                "x": "通話の始め方:エージェントが待機中でチャット入力欄が空のとき、Start voice chatと表示された波形ボタンをクリックする。ボタンは通常Sendがある位置、音声入力用マイクボタンの隣にある。iOSでは「Hey Siri, call Cursor」と話しかけて新しいエージェントとの通話を始めることもでき、ロック画面(Lock Screen)のLive Activityからミュートや通話終了ができる。"
               },
               {
                 "t": "p",
-                "x": "カタログは表、チャート、ボタンなどを網羅しており、メッセージの形ごとに別のツールを作って保守する必要はない。"
-              },
-              {
-                "t": "video",
-                "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6S2Z82rxxVRa8ZUwSN0ZEN/b4093a11584a8a2c186fb766afd8fd6a/slack-block-stream-light__1_.mp4"
+                "x": "音声エージェントは聞き取り、応答し、コーディング作業はチャット内のエージェントに引き渡す。そのエージェントが動いている間も会話を続けられる。diffで何が変わったかを尋ねたり、実行状況を確認したり、このエージェントとの過去のメッセージや通話を検索したり、ワーカーを持つProject内でワーカーを切り替えたりできる。"
               },
               {
                 "t": "p",
-                "x": "モデルの書き込みに合わせてカードをストリーミングする:streamCardはルート要素に内容が入った時点でカードを投稿し、新しい要素が流れ込むたびにメッセージを更新する。編集の送信はデフォルトで最大500 msに一度で、Chat SDKのストリーミング間隔と一致する。ストリームが終わると、メッセージには検証済みの最終カードが表示される。"
+                "x": "コーディングエージェント自身も話す。作業中は短い進捗メモを、完了時には簡潔な答えを伝えるため、通常は長い文章の返答ではなく短い報告を聞くことになる。"
               },
               {
                 "t": "p",
-                "x": "スペックの検証とプラットフォーム制限の適用:toCardはすべての要素のpropsをコンポーネントスキーマと照合し、不正なスペックにはCardSpecErrorを投げる。問題ごとに読みやすいissueが個別に生成されるため、その一覧をモデルに返して修正済みのスペックを得られる。"
+                "x": "音声チャットはGrok Voiceで動作する。Voice settingsでAra、Eve、Leo、Rex、Salなど多くの声から選べる。Privacy Modeをオンにすると、音声チャットはデータ保持ゼロで動作する。"
               },
               {
                 "t": "p",
-                "x": "プラットフォームには一件のメッセージに収められる量の上限があり、Chat SDKのアダプターは上限を超えた内容を劣化させる。たとえばSlackアダプターは二つ目の表をコードブロックに変える。代わりにlimitsを渡せば、そうしたスペックを拒否できる。"
+                "x": "音声チャットは、以前のリリースでVoice Modeと呼ばれていた音声入力とは別の機能だ。音声入力は引き続き発話をチャット入力欄のテキストに変換し、IDEでは引き続きCmd+Shift+Spaceで切り替えられる。音声チャットはエージェントが声で答える双方向の会話である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Vercel聊天智能体\n跨平台流式输出生成式UI",
-          "body": "json-render让Chat SDK智能体把UI流式输出为Slack和Teams卡片。",
-          "mini_headline": "一个目录，覆盖所有聊天应用",
+          "headline": "Cursor 上线语音通话\n可与编码智能体对话",
+          "body": "Cursor 在桌面端、网页和 iOS 上支持实时语音通话，并把口头请求交给编码智能体。",
+          "mini_headline": "与 Cursor 智能体通话",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "现在可以借助json-render，从Chat SDK智能体流式输出生成式UI。"
+                "x": "现在可以通过实时语音通话与智能体交谈。你可以口头描述要做的修改，询问智能体正在做什么，并在工作推进时听取进展。语音聊天可在 Agents Window、IDE、网页端以及 iOS 版 Cursor 中使用。"
               },
               {
                 "t": "p",
-                "x": "智能体依据带类型的组件目录编写JSON规范，再由json-render将其转换为Chat SDK卡片。随后各适配器以各平台的原生格式发布卡片，例如Slack上的Block Kit和Teams上的Adaptive Cards。"
+                "x": "开始通话：当智能体处于空闲状态且聊天输入框为空时，点击标有 Start voice chat 的波形按钮。它位于通常放置 Send 的位置，就在用于听写的麦克风按钮旁边。在 iOS 上，你也可以说“Hey Siri, call Cursor”来与新的智能体开始通话，并通过锁屏（Lock Screen）上的 Live Activity 静音或挂断。"
               },
               {
                 "t": "p",
-                "x": "目录涵盖表格、图表、按钮等，因此无需为每种消息形态单独构建和维护工具。"
-              },
-              {
-                "t": "video",
-                "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6S2Z82rxxVRa8ZUwSN0ZEN/b4093a11584a8a2c186fb766afd8fd6a/slack-block-stream-light__1_.mp4"
+                "x": "语音智能体负责倾听和回复，并把编码工作交给聊天中的智能体。在该智能体运行期间，你可以继续对话：询问某个 diff 改了什么、查看运行情况、搜索与该智能体之前的消息和通话，或在拥有多个工作者的 Project 中切换工作者。"
               },
               {
                 "t": "p",
-                "x": "随模型输出流式发送卡片：根元素一有内容，streamCard就发布卡片，并在新元素流入时更新消息。默认情况下编辑最多每500 ms发送一次，与Chat SDK的流式间隔一致。流结束后，消息显示经过验证的最终卡片。"
+                "x": "编码智能体也会自己开口。它在工作时分享简短的进度说明，完成后给出简要回答，因此你通常听到的是简短更新，而不是完整的书面回复。"
               },
               {
                 "t": "p",
-                "x": "验证规范并执行平台限制：toCard会将每个元素的props与其组件schema比对，遇到无效规范时抛出CardSpecError。每个问题都会生成一条独立、易读的issue，因此可以把这份列表发回模型，获取修正后的规范。"
+                "x": "语音聊天由 Grok Voice 驱动。可在 Voice settings 中从多种声音里选择，包括 Ara、Eve、Leo、Rex 和 Sal。开启 Privacy Mode 后，语音聊天以零数据保留方式运行。"
               },
               {
                 "t": "p",
-                "x": "各平台对单条消息可容纳的内容设有上限，Chat SDK适配器会对超出上限的内容进行降级处理。例如，Slack适配器会把第二张表格变成代码块。传入limits即可直接拒绝这类规范。"
+                "x": "语音聊天不同于听写功能，后者在早期版本中被称为 Voice Mode。听写仍会把你的语音转成聊天输入框中的文字，在 IDE 中仍可用 Cmd+Shift+Space 开关。语音聊天则是双向对话，智能体会出声回答。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes de Vercel transmiten\nUI generativa en todo chat",
-          "body": "El json-render de Vercel permite a los agentes de Chat SDK transmitir UI como tarjetas nativas de Slack y Teams.",
-          "mini_headline": "Un catálogo para cada app de chat",
+          "headline": "Cursor ya permite hablar\ncon sus agentes de código",
+          "body": "Cursor admite llamadas de voz en tiempo real en escritorio, web e iOS y pasa lo dicho a su agente de código.",
+          "mini_headline": "Habla con los agentes de Cursor",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Ahora puedes transmitir UI generativa desde tu agente de Chat SDK con json-render."
+                "x": "Ahora puedes hablar con tus agentes en una llamada de voz en tiempo real. Describe un cambio en voz alta, pregunta en qué está trabajando un agente y escucha actualizaciones a medida que avanza el trabajo. El chat de voz funciona en la Agents Window, el IDE, la web y en Cursor para iOS."
               },
               {
                 "t": "p",
-                "x": "Con un catálogo tipado de componentes, el agente escribe una especificación JSON que json-render convierte en una tarjeta de Chat SDK. Después, cada adaptador publica la tarjeta en el formato nativo de su plataforma, como Block Kit en Slack y Adaptive Cards en Teams."
+                "x": "Para iniciar una llamada: cuando el agente esté inactivo y el campo de chat esté vacío, haz clic en el botón con forma de onda etiquetado Start voice chat. Está donde suele estar Send, junto al botón de micrófono para el dictado. En iOS también puedes decir \"Hey Siri, call Cursor\" para iniciar una llamada con un agente nuevo, y silenciar o colgar desde la Lock Screen con una Live Activity."
               },
               {
                 "t": "p",
-                "x": "El catálogo abarca tablas, gráficos, botones y más, así que no hace falta crear y mantener una herramienta aparte para cada forma de mensaje."
-              },
-              {
-                "t": "video",
-                "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6S2Z82rxxVRa8ZUwSN0ZEN/b4093a11584a8a2c186fb766afd8fd6a/slack-block-stream-light__1_.mp4"
+                "x": "El agente de voz escucha, responde y pasa el trabajo de programación al agente de tu chat. Mientras ese agente trabaja, puedes seguir conversando. Pregunta qué cambió en un diff, revisa una ejecución, busca mensajes y llamadas anteriores con este agente o cambia entre los trabajadores de un Project que los tenga."
               },
               {
                 "t": "p",
-                "x": "Transmite tarjetas mientras el modelo escribe: streamCard publica la tarjeta en cuanto su elemento raíz tiene contenido y actualiza el mensaje a medida que llegan nuevos elementos. Por defecto, las ediciones se envían como máximo una vez cada 500 ms, en línea con el intervalo de streaming de Chat SDK. Cuando termina la transmisión, el mensaje muestra la tarjeta final validada."
+                "x": "El agente de código también habla por sí mismo. Comparte breves notas de progreso mientras trabaja y una respuesta corta al terminar, así que normalmente oyes una actualización breve en lugar de la respuesta escrita completa."
               },
               {
                 "t": "p",
-                "x": "Valida especificaciones y aplica los límites de cada plataforma: toCard comprueba las props de cada elemento con el esquema de su componente y lanza CardSpecError ante una especificación no válida. Cada problema genera su propio aviso legible, de modo que puedes devolver la lista al modelo para obtener una especificación corregida."
+                "x": "El chat de voz funciona con Grok Voice. Puedes elegir entre muchas voces en Voice settings, entre ellas Ara, Eve, Leo, Rex y Sal. Con Privacy Mode activado, el chat de voz funciona con cero retención de datos."
               },
               {
                 "t": "p",
-                "x": "Las plataformas limitan lo que cabe en un solo mensaje, y los adaptadores de Chat SDK degradan el contenido que supera esos límites. Por ejemplo, el adaptador de Slack convierte una segunda tabla en un bloque de código. Pasa limits para rechazar esas especificaciones."
+                "x": "El chat de voz es distinto del dictado, que en versiones anteriores se llamaba Voice Mode. El dictado sigue convirtiendo tu voz en texto en el campo de chat, y Cmd+Shift+Space sigue activándolo y desactivándolo en el IDE. El chat de voz es una conversación bidireccional en la que el agente responde en voz alta."
               }
             ]
           }
@@ -443,153 +217,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Vercel, 생성형 UI\n어느 채팅앱에나 스트리밍",
-          "body": "json-render로 Chat SDK UI가 Slack·Teams 카드가 된다.",
-          "mini_headline": "카탈로그 하나로 모든 채팅앱에",
+          "headline": "Cursor 에이전트와\n이제 말로 대화한다",
+          "body": "Cursor가 데스크톱·웹·iOS에서 음성 통화로 코딩 에이전트에 요청을 전한다.",
+          "mini_headline": "Cursor 에이전트와 통화",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "이제 json-render로 Chat SDK 에이전트에서 생성형 UI를 스트리밍할 수 있다."
+                "x": "이제 실시간 음성 통화로 에이전트와 대화할 수 있다. 바꿀 내용을 말로 설명하고, 에이전트가 무슨 작업을 하는지 묻고, 작업이 진행되는 동안 업데이트를 들을 수 있다. 음성 채팅은 Agents Window, IDE, 웹, 그리고 iOS용 Cursor에서 작동한다."
               },
               {
                 "t": "p",
-                "x": "에이전트는 타입이 지정된 컴포넌트 카탈로그를 바탕으로 JSON 스펙을 쓰고, json-render가 이를 Chat SDK 카드로 바꾼다. 이어 각 어댑터가 Slack에서는 Block Kit, Teams에서는 Adaptive Cards처럼 플랫폼 고유 형식으로 카드를 게시한다."
+                "x": "통화 시작: 에이전트가 유휴 상태이고 채팅 입력란이 비어 있을 때 Start voice chat이라고 표시된 파형 버튼을 누른다. 이 버튼은 평소 Send가 있던 자리, 받아쓰기용 마이크 버튼 옆에 있다. iOS에서는 \"Hey Siri, call Cursor\"라고 말해 새 에이전트와 통화를 시작할 수도 있고, 잠금 화면(Lock Screen)의 Live Activity로 음소거하거나 통화를 끊을 수 있다."
               },
               {
                 "t": "p",
-                "x": "카탈로그는 표, 차트, 버튼 등을 아우르므로 메시지 형태마다 별도 도구를 만들고 관리할 필요가 없다."
-              },
-              {
-                "t": "video",
-                "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6S2Z82rxxVRa8ZUwSN0ZEN/b4093a11584a8a2c186fb766afd8fd6a/slack-block-stream-light__1_.mp4"
+                "x": "음성 에이전트는 듣고 답하며, 코딩 작업은 채팅 속 에이전트에게 넘긴다. 그 에이전트가 작업하는 동안에도 대화를 이어갈 수 있다. diff에서 무엇이 바뀌었는지 묻거나, 실행 상황을 확인하거나, 이 에이전트와 나눈 이전 메시지와 통화를 검색하거나, 여러 작업자가 있는 Project에서 작업자 사이를 오갈 수 있다."
               },
               {
                 "t": "p",
-                "x": "모델이 쓰는 대로 카드를 스트리밍한다: streamCard는 루트 요소에 내용이 생기면 카드를 게시하고, 새 요소가 들어올 때마다 메시지를 갱신한다. 수정은 기본적으로 500 ms에 최대 한 번 나가며, 이는 Chat SDK의 스트리밍 간격과 같다. 스트림이 끝나면 메시지에는 검증을 마친 최종 카드가 표시된다."
+                "x": "코딩 에이전트도 직접 말한다. 작업 중에는 짧은 진행 메모를, 끝나면 간단한 답을 들려주므로 대개 전체 서면 답변 대신 짧은 업데이트를 듣게 된다."
               },
               {
                 "t": "p",
-                "x": "스펙 검증과 플랫폼 한도 적용: toCard는 모든 요소의 props를 해당 컴포넌트 스키마와 대조하고, 스펙이 잘못되면 CardSpecError를 던진다. 문제마다 읽기 쉬운 이슈가 따로 생기므로, 그 목록을 모델에 돌려보내 수정된 스펙을 받을 수 있다."
+                "x": "음성 채팅은 Grok Voice로 작동한다. Voice settings에서 Ara, Eve, Leo, Rex, Sal 등 여러 목소리를 고를 수 있다. Privacy Mode를 켜면 음성 채팅은 데이터 보존 제로 상태로 작동한다."
               },
               {
                 "t": "p",
-                "x": "플랫폼마다 메시지 하나에 담을 수 있는 양에 상한이 있고, Chat SDK 어댑터는 이를 넘는 콘텐츠를 낮은 형태로 바꾼다. 예컨대 Slack 어댑터는 두 번째 표를 코드 블록으로 바꾼다. 대신 limits를 넘기면 이런 스펙을 거부할 수 있다."
+                "x": "음성 채팅은 이전 릴리스에서 Voice Mode로 불리던 받아쓰기와 별개다. 받아쓰기는 여전히 말을 채팅 입력란의 텍스트로 바꾸며, IDE에서는 여전히 Cmd+Shift+Space로 켜고 끈다. 음성 채팅은 에이전트가 소리 내어 답하는 양방향 대화다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Vercel、生成UIを\nどのチャットにも配信",
-          "body": "json-renderでChat SDKのUIをSlack・Teamsカードで配信する。",
-          "mini_headline": "一つのカタログで全チャットへ",
+          "headline": "Cursorのエージェントと\n声で会話できる",
+          "body": "Cursorがデスクトップ・Web・iOSで音声通話に対応し、依頼をエージェントに渡す。",
+          "mini_headline": "Cursorのエージェントと通話",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "json-renderを使えば、Chat SDKのエージェントから生成UIをストリーミングできるようになった。"
+                "x": "リアルタイムの音声通話でエージェントと話せるようになった。変更内容を口頭で説明し、エージェントが何に取り組んでいるかを尋ね、作業の進行に合わせて最新状況を聞ける。音声チャットはAgents Window、IDE、Web、iOS版Cursorで使える。"
               },
               {
                 "t": "p",
-                "x": "型付きのコンポーネントカタログをもとにエージェントがJSONスペックを書き、json-renderがそれをChat SDKカードに変換する。各アダプターはそのカードを、SlackならBlock Kit、TeamsならAdaptive Cardsといった各プラットフォームのネイティブ形式で投稿する。"
+                "x": "通話の始め方:エージェントが待機中でチャット入力欄が空のとき、Start voice chatと表示された波形ボタンをクリックする。ボタンは通常Sendがある位置、音声入力用マイクボタンの隣にある。iOSでは「Hey Siri, call Cursor」と話しかけて新しいエージェントとの通話を始めることもでき、ロック画面(Lock Screen)のLive Activityからミュートや通話終了ができる。"
               },
               {
                 "t": "p",
-                "x": "カタログは表、チャート、ボタンなどを網羅しており、メッセージの形ごとに別のツールを作って保守する必要はない。"
-              },
-              {
-                "t": "video",
-                "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6S2Z82rxxVRa8ZUwSN0ZEN/b4093a11584a8a2c186fb766afd8fd6a/slack-block-stream-light__1_.mp4"
+                "x": "音声エージェントは聞き取り、応答し、コーディング作業はチャット内のエージェントに引き渡す。そのエージェントが動いている間も会話を続けられる。diffで何が変わったかを尋ねたり、実行状況を確認したり、このエージェントとの過去のメッセージや通話を検索したり、ワーカーを持つProject内でワーカーを切り替えたりできる。"
               },
               {
                 "t": "p",
-                "x": "モデルの書き込みに合わせてカードをストリーミングする:streamCardはルート要素に内容が入った時点でカードを投稿し、新しい要素が流れ込むたびにメッセージを更新する。編集の送信はデフォルトで最大500 msに一度で、Chat SDKのストリーミング間隔と一致する。ストリームが終わると、メッセージには検証済みの最終カードが表示される。"
+                "x": "コーディングエージェント自身も話す。作業中は短い進捗メモを、完了時には簡潔な答えを伝えるため、通常は長い文章の返答ではなく短い報告を聞くことになる。"
               },
               {
                 "t": "p",
-                "x": "スペックの検証とプラットフォーム制限の適用:toCardはすべての要素のpropsをコンポーネントスキーマと照合し、不正なスペックにはCardSpecErrorを投げる。問題ごとに読みやすいissueが個別に生成されるため、その一覧をモデルに返して修正済みのスペックを得られる。"
+                "x": "音声チャットはGrok Voiceで動作する。Voice settingsでAra、Eve、Leo、Rex、Salなど多くの声から選べる。Privacy Modeをオンにすると、音声チャットはデータ保持ゼロで動作する。"
               },
               {
                 "t": "p",
-                "x": "プラットフォームには一件のメッセージに収められる量の上限があり、Chat SDKのアダプターは上限を超えた内容を劣化させる。たとえばSlackアダプターは二つ目の表をコードブロックに変える。代わりにlimitsを渡せば、そうしたスペックを拒否できる。"
+                "x": "音声チャットは、以前のリリースでVoice Modeと呼ばれていた音声入力とは別の機能だ。音声入力は引き続き発話をチャット入力欄のテキストに変換し、IDEでは引き続きCmd+Shift+Spaceで切り替えられる。音声チャットはエージェントが声で答える双方向の会話である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Vercel聊天智能体\n跨平台流式输出生成式UI",
-          "body": "json-render让Chat SDK智能体把UI流式输出为Slack和Teams卡片。",
-          "mini_headline": "一个目录，覆盖所有聊天应用",
+          "headline": "Cursor 上线语音通话\n可与编码智能体对话",
+          "body": "Cursor 在桌面端、网页和 iOS 上支持实时语音通话，并把口头请求交给编码智能体。",
+          "mini_headline": "与 Cursor 智能体通话",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "现在可以借助json-render，从Chat SDK智能体流式输出生成式UI。"
+                "x": "现在可以通过实时语音通话与智能体交谈。你可以口头描述要做的修改，询问智能体正在做什么，并在工作推进时听取进展。语音聊天可在 Agents Window、IDE、网页端以及 iOS 版 Cursor 中使用。"
               },
               {
                 "t": "p",
-                "x": "智能体依据带类型的组件目录编写JSON规范，再由json-render将其转换为Chat SDK卡片。随后各适配器以各平台的原生格式发布卡片，例如Slack上的Block Kit和Teams上的Adaptive Cards。"
+                "x": "开始通话：当智能体处于空闲状态且聊天输入框为空时，点击标有 Start voice chat 的波形按钮。它位于通常放置 Send 的位置，就在用于听写的麦克风按钮旁边。在 iOS 上，你也可以说“Hey Siri, call Cursor”来与新的智能体开始通话，并通过锁屏（Lock Screen）上的 Live Activity 静音或挂断。"
               },
               {
                 "t": "p",
-                "x": "目录涵盖表格、图表、按钮等，因此无需为每种消息形态单独构建和维护工具。"
-              },
-              {
-                "t": "video",
-                "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6S2Z82rxxVRa8ZUwSN0ZEN/b4093a11584a8a2c186fb766afd8fd6a/slack-block-stream-light__1_.mp4"
+                "x": "语音智能体负责倾听和回复，并把编码工作交给聊天中的智能体。在该智能体运行期间，你可以继续对话：询问某个 diff 改了什么、查看运行情况、搜索与该智能体之前的消息和通话，或在拥有多个工作者的 Project 中切换工作者。"
               },
               {
                 "t": "p",
-                "x": "随模型输出流式发送卡片：根元素一有内容，streamCard就发布卡片，并在新元素流入时更新消息。默认情况下编辑最多每500 ms发送一次，与Chat SDK的流式间隔一致。流结束后，消息显示经过验证的最终卡片。"
+                "x": "编码智能体也会自己开口。它在工作时分享简短的进度说明，完成后给出简要回答，因此你通常听到的是简短更新，而不是完整的书面回复。"
               },
               {
                 "t": "p",
-                "x": "验证规范并执行平台限制：toCard会将每个元素的props与其组件schema比对，遇到无效规范时抛出CardSpecError。每个问题都会生成一条独立、易读的issue，因此可以把这份列表发回模型，获取修正后的规范。"
+                "x": "语音聊天由 Grok Voice 驱动。可在 Voice settings 中从多种声音里选择，包括 Ara、Eve、Leo、Rex 和 Sal。开启 Privacy Mode 后，语音聊天以零数据保留方式运行。"
               },
               {
                 "t": "p",
-                "x": "各平台对单条消息可容纳的内容设有上限，Chat SDK适配器会对超出上限的内容进行降级处理。例如，Slack适配器会把第二张表格变成代码块。传入limits即可直接拒绝这类规范。"
+                "x": "语音聊天不同于听写功能，后者在早期版本中被称为 Voice Mode。听写仍会把你的语音转成聊天输入框中的文字，在 IDE 中仍可用 Cmd+Shift+Space 开关。语音聊天则是双向对话，智能体会出声回答。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes de Vercel transmiten\nUI generativa en todo chat",
-          "body": "El json-render de Vercel permite a los agentes de Chat SDK transmitir UI como tarjetas nativas de Slack y Teams.",
-          "mini_headline": "Un catálogo para cada app de chat",
+          "headline": "Cursor ya permite hablar\ncon sus agentes de código",
+          "body": "Cursor admite llamadas de voz en tiempo real en escritorio, web e iOS y pasa lo dicho a su agente de código.",
+          "mini_headline": "Habla con los agentes de Cursor",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Ahora puedes transmitir UI generativa desde tu agente de Chat SDK con json-render."
+                "x": "Ahora puedes hablar con tus agentes en una llamada de voz en tiempo real. Describe un cambio en voz alta, pregunta en qué está trabajando un agente y escucha actualizaciones a medida que avanza el trabajo. El chat de voz funciona en la Agents Window, el IDE, la web y en Cursor para iOS."
               },
               {
                 "t": "p",
-                "x": "Con un catálogo tipado de componentes, el agente escribe una especificación JSON que json-render convierte en una tarjeta de Chat SDK. Después, cada adaptador publica la tarjeta en el formato nativo de su plataforma, como Block Kit en Slack y Adaptive Cards en Teams."
+                "x": "Para iniciar una llamada: cuando el agente esté inactivo y el campo de chat esté vacío, haz clic en el botón con forma de onda etiquetado Start voice chat. Está donde suele estar Send, junto al botón de micrófono para el dictado. En iOS también puedes decir \"Hey Siri, call Cursor\" para iniciar una llamada con un agente nuevo, y silenciar o colgar desde la Lock Screen con una Live Activity."
               },
               {
                 "t": "p",
-                "x": "El catálogo abarca tablas, gráficos, botones y más, así que no hace falta crear y mantener una herramienta aparte para cada forma de mensaje."
-              },
-              {
-                "t": "video",
-                "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6S2Z82rxxVRa8ZUwSN0ZEN/b4093a11584a8a2c186fb766afd8fd6a/slack-block-stream-light__1_.mp4"
+                "x": "El agente de voz escucha, responde y pasa el trabajo de programación al agente de tu chat. Mientras ese agente trabaja, puedes seguir conversando. Pregunta qué cambió en un diff, revisa una ejecución, busca mensajes y llamadas anteriores con este agente o cambia entre los trabajadores de un Project que los tenga."
               },
               {
                 "t": "p",
-                "x": "Transmite tarjetas mientras el modelo escribe: streamCard publica la tarjeta en cuanto su elemento raíz tiene contenido y actualiza el mensaje a medida que llegan nuevos elementos. Por defecto, las ediciones se envían como máximo una vez cada 500 ms, en línea con el intervalo de streaming de Chat SDK. Cuando termina la transmisión, el mensaje muestra la tarjeta final validada."
+                "x": "El agente de código también habla por sí mismo. Comparte breves notas de progreso mientras trabaja y una respuesta corta al terminar, así que normalmente oyes una actualización breve en lugar de la respuesta escrita completa."
               },
               {
                 "t": "p",
-                "x": "Valida especificaciones y aplica los límites de cada plataforma: toCard comprueba las props de cada elemento con el esquema de su componente y lanza CardSpecError ante una especificación no válida. Cada problema genera su propio aviso legible, de modo que puedes devolver la lista al modelo para obtener una especificación corregida."
+                "x": "El chat de voz funciona con Grok Voice. Puedes elegir entre muchas voces en Voice settings, entre ellas Ara, Eve, Leo, Rex y Sal. Con Privacy Mode activado, el chat de voz funciona con cero retención de datos."
               },
               {
                 "t": "p",
-                "x": "Las plataformas limitan lo que cabe en un solo mensaje, y los adaptadores de Chat SDK degradan el contenido que supera esos límites. Por ejemplo, el adaptador de Slack convierte una segunda tabla en un bloque de código. Pasa limits para rechazar esas especificaciones."
+                "x": "El chat de voz es distinto del dictado, que en versiones anteriores se llamaba Voice Mode. El dictado sigue convirtiendo tu voz en texto en el campo de chat, y Cmd+Shift+Space sigue activándolo y desactivándolo en el IDE. El chat de voz es una conversación bidireccional en la que el agente responde en voz alta."
               }
             ]
           }
@@ -597,237 +355,195 @@
       }
     },
     {
-      "id": "autodesk-flame-2027-normals",
+      "id": "nngroup-agent-harness-def",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Flame 2027.2,\n영상서 AI 노멀맵 생성",
-      "body": "Autodesk Flame 2027.2가 영상 노멀맵 AI와 USD 지원을 더했다.",
-      "mini_headline": "Flame에 AI 노멀맵",
-      "tool": "KeyShot",
-      "source": "CG Channel",
-      "url": "https://www.cgchannel.com/2026/11/autodesk-releases-flame-2027/",
-      "accent": "#f5a623",
-      "motif": "sphere",
+      "headline": "NN/g가 정의한\n에이전트 하네스",
+      "body": "NN/g는 에이전트 하네스를 모델과 도구 사이 루프를 돌리는 소프트웨어로 본다.",
+      "mini_headline": "에이전트 하네스란 무엇인가",
+      "tool": "Design Tokens",
+      "source": "Nielsen Norman Group",
+      "url": "https://www.nngroup.com/articles/agent-harness/",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "2026년 11월 7일 업데이트: Autodesk가 Flame 2027.2를 출시했다."
+            "x": "에이전트 하네스는 AI 모델과 도구 사이를 오가는 소프트웨어 루프를 관리한다. 사용자가 할 수 있는 일은 하네스의 컨텍스트, 권한, 제한이 정한다. 같은 AI 모델을 쓰는 AI 일정 관리 어시스턴트 두 개도 둘러싼 하네스에 따라 능력이 크게 갈린다."
+          },
+          {
+            "t": "p",
+            "x": "에이전트 하네스는 AI 모델을 감싸고 실행 루프를 돌리는 소프트웨어다. 모델이 도구를 쓰겠다고 요청하면 이를 수행해 결과를 돌려주고, 모델이 받는 정보와 할 수 있는 행동을 통제한다. 요청, 실행, 결과로 이어지는 이 순환이 챗봇을 AI 에이전트로 만든다."
           },
           {
             "t": "img",
-            "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261107_Flame20272_AINormal.jpg"
+            "src": "https://media.nngroup.com/media/editor/2026/11/06/how-an-agent-harness-runs-an-execution-loop_jHSEz0a.jpg",
+            "cap": "모델이 행동을 요청하면 하네스는 도구가 실행하기 전에 요청마다 권한과 제한을 확인한다. 결과를 돌려받은 모델은 다시 실행하거나 사용자에게 답한다."
           },
           {
             "t": "p",
-            "x": "꽤 큰 업데이트다. 영상에서 노멀맵을 뽑아 리라이팅하거나 샷에 효과를 입히는 새 머신러닝 모델이 들어갔다. Flame에 AI 노멀맵 생성기가 없던 건 아니지만 사람 얼굴에만 쓸 수 있었다. 새 모델은 Matchbox 셰이더, Selective 오브젝트, Normal Map 오브젝트에서 쓴다."
+            "x": "하네스가 하는 일은 루프만이 아니다. 컨텍스트를 공급하고, 도구를 연결해 권한을 집행하며, 지시를 주고, 시간·비용·단계 수에 제한을 건다. 저장된 정보도 하네스가 모델에 넘겨야 쓸모가 생긴다."
           },
           {
             "t": "p",
-            "x": "Flame의 3D 합성 환경인 Action으로 USD 씬도 가져온다. USD 지오메트리, 머티리얼, 라이트, 카메라를 지원하고 USDZ 파일까지 모든 USD 확장자(.usd, .usda, .usdc, .usdz)를 읽는다."
-          },
-          {
-            "t": "p",
-            "x": "Action에는 새 3D Primitive 노드가 생겼고 모든 OpenSubdiv 스킴을 지원한다. 파이프라인 쪽으로는 Python Hooks로 Batch 설정을 제어하고 시퀀스를 OpenTimelineIO 형식으로 퍼블리시하는 옵션이 추가됐다."
-          },
-          {
-            "t": "p",
-            "x": "앞서 나온 Flame 2027은 Annotations 시스템, 영상에서 뎁스 맵을 생성하는 새 AI 모델 두 가지(ML Depth Indoor, ML Depth Outdoor), Autodesk Assistant, OpenTimelineIO 지원을 들여왔다. Flame 2027.1에서는 Isolate 도구와 ProRes RAW 지원이 추가됐다."
-          },
-          {
-            "t": "p",
-            "x": "Flame 구독료는 월 $650 또는 연 $5,215다. Flame Assist와 Flare 구독료는 연 $2,775다."
+            "x": "UX 관점에서 보면 제품이 어떤 AI 모델을 쓰는지 알아도 그 하네스가 내 작업을 감당할지는 알 수 없다. 디자이너는 화면과 함께 동작까지 명시해야 하고, 평가(evals)는 현실적인 컨텍스트, 도구, 권한을 갖춘 채 작업 전체를 테스트해야 한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Flame 2027.2 brings AI\nnormal maps from footage",
-          "body": "Autodesk's Flame 2027.2 adds an AI model that generates normal maps from video footage, plus USD scene import.",
-          "mini_headline": "Flame gets\nAI normal maps",
+          "headline": "NN/g defines the\nagent harness",
+          "body": "NN/g describes the agent harness as software running the loop between a model and its tools, shaping what users can do.",
+          "mini_headline": "What an agent harness is",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Updated 7 November 2026: Autodesk has released Flame 2027.2."
+                "x": "An agent harness manages a software loop between an AI model and its tools. Its context, permissions, and limits shape what users can do. Two AI scheduling assistants can rely on the same AI model yet have quite different capabilities, depending on the harness around it."
+              },
+              {
+                "t": "p",
+                "x": "An agent harness is the software around an AI model that runs its execution loop: it carries out the model's requests to use tools, returns the results, and controls what information the model receives and what it is allowed to do. This cycle of request, action, and result is what turns a chatbot into an AI agent."
               },
               {
                 "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261107_Flame20272_AINormal.jpg"
+                "src": "https://media.nngroup.com/media/editor/2026/11/06/how-an-agent-harness-runs-an-execution-loop_jHSEz0a.jpg",
+                "cap": "The model requests actions. The harness checks each request against its permissions and limits before a tool runs it, then returns the result so the model can run again or respond to the user."
               },
               {
                 "t": "p",
-                "x": "It’s quite a significant update, with new features including a new machine learning model for generating normal maps from video, for use in relighting or applying effects to a shot. Flame already had an AI normal map generator, but it was specifically for human faces. The new model is available as a Matchbox shader, in the Selective object, and in the Normal Map object."
+                "x": "Beyond running the loop, the harness supplies context, connects tools and enforces permissions, and provides instructions and enforces limits on time, cost, and the number of steps. Saved information is useful only if the harness passes it to the model."
               },
               {
                 "t": "p",
-                "x": "Users can also now import USD scenes into Action, Flame’s 3D compositing environment. The implementation supports USD geometry, materials, lights and cameras, and all of the USD file extensions, including USDZ files (.usd, .usda, .usdc and .usdz)."
-              },
-              {
-                "t": "p",
-                "x": "Other changes to Action include a new 3D Primitive node and support for all of the OpenSubdiv schemes. Pipeline integration changes include the option to use Python Hooks to control Batch setups, and to publish sequences in OpenTimelineIO format."
-              },
-              {
-                "t": "p",
-                "x": "Earlier, Flame 2027 introduced an Annotations system, two new AI models for generating depth maps from footage (ML Depth Indoor and ML Depth Outdoor), Autodesk Assistant and OpenTimelineIO support; Flame 2027.1 added the Isolate tool and ProRes RAW support."
-              },
-              {
-                "t": "p",
-                "x": "Flame subscriptions cost $650/month or $5,215/year. Flame Assist and Flare subscriptions cost $2,775/year."
+                "x": "For UX: knowing which AI model a product uses does not tell you whether its harness can support your task. Designers should specify behavior alongside the screen, and evals should test the entire task with realistic context, tools, and permissions."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Flame 2027.2,\n영상서 AI 노멀맵 생성",
-          "body": "Autodesk Flame 2027.2가 영상 노멀맵 AI와 USD 지원을 더했다.",
-          "mini_headline": "Flame에 AI 노멀맵",
+          "headline": "NN/g가 정의한\n에이전트 하네스",
+          "body": "NN/g는 에이전트 하네스를 모델과 도구 사이 루프를 돌리는 소프트웨어로 본다.",
+          "mini_headline": "에이전트 하네스란 무엇인가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "2026년 11월 7일 업데이트: Autodesk가 Flame 2027.2를 출시했다."
+                "x": "에이전트 하네스는 AI 모델과 도구 사이를 오가는 소프트웨어 루프를 관리한다. 사용자가 할 수 있는 일은 하네스의 컨텍스트, 권한, 제한이 정한다. 같은 AI 모델을 쓰는 AI 일정 관리 어시스턴트 두 개도 둘러싼 하네스에 따라 능력이 크게 갈린다."
+              },
+              {
+                "t": "p",
+                "x": "에이전트 하네스는 AI 모델을 감싸고 실행 루프를 돌리는 소프트웨어다. 모델이 도구를 쓰겠다고 요청하면 이를 수행해 결과를 돌려주고, 모델이 받는 정보와 할 수 있는 행동을 통제한다. 요청, 실행, 결과로 이어지는 이 순환이 챗봇을 AI 에이전트로 만든다."
               },
               {
                 "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261107_Flame20272_AINormal.jpg"
+                "src": "https://media.nngroup.com/media/editor/2026/11/06/how-an-agent-harness-runs-an-execution-loop_jHSEz0a.jpg",
+                "cap": "모델이 행동을 요청하면 하네스는 도구가 실행하기 전에 요청마다 권한과 제한을 확인한다. 결과를 돌려받은 모델은 다시 실행하거나 사용자에게 답한다."
               },
               {
                 "t": "p",
-                "x": "꽤 큰 업데이트다. 영상에서 노멀맵을 뽑아 리라이팅하거나 샷에 효과를 입히는 새 머신러닝 모델이 들어갔다. Flame에 AI 노멀맵 생성기가 없던 건 아니지만 사람 얼굴에만 쓸 수 있었다. 새 모델은 Matchbox 셰이더, Selective 오브젝트, Normal Map 오브젝트에서 쓴다."
+                "x": "하네스가 하는 일은 루프만이 아니다. 컨텍스트를 공급하고, 도구를 연결해 권한을 집행하며, 지시를 주고, 시간·비용·단계 수에 제한을 건다. 저장된 정보도 하네스가 모델에 넘겨야 쓸모가 생긴다."
               },
               {
                 "t": "p",
-                "x": "Flame의 3D 합성 환경인 Action으로 USD 씬도 가져온다. USD 지오메트리, 머티리얼, 라이트, 카메라를 지원하고 USDZ 파일까지 모든 USD 확장자(.usd, .usda, .usdc, .usdz)를 읽는다."
-              },
-              {
-                "t": "p",
-                "x": "Action에는 새 3D Primitive 노드가 생겼고 모든 OpenSubdiv 스킴을 지원한다. 파이프라인 쪽으로는 Python Hooks로 Batch 설정을 제어하고 시퀀스를 OpenTimelineIO 형식으로 퍼블리시하는 옵션이 추가됐다."
-              },
-              {
-                "t": "p",
-                "x": "앞서 나온 Flame 2027은 Annotations 시스템, 영상에서 뎁스 맵을 생성하는 새 AI 모델 두 가지(ML Depth Indoor, ML Depth Outdoor), Autodesk Assistant, OpenTimelineIO 지원을 들여왔다. Flame 2027.1에서는 Isolate 도구와 ProRes RAW 지원이 추가됐다."
-              },
-              {
-                "t": "p",
-                "x": "Flame 구독료는 월 $650 또는 연 $5,215다. Flame Assist와 Flare 구독료는 연 $2,775다."
+                "x": "UX 관점에서 보면 제품이 어떤 AI 모델을 쓰는지 알아도 그 하네스가 내 작업을 감당할지는 알 수 없다. 디자이너는 화면과 함께 동작까지 명시해야 하고, 평가(evals)는 현실적인 컨텍스트, 도구, 권한을 갖춘 채 작업 전체를 테스트해야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Flame 2027.2、\n映像からAIでノーマルマップ",
-          "body": "Autodesk Flame 2027.2に映像の法線マップAIとUSD読込が加わった。",
-          "mini_headline": "FlameにAIノーマルマップ",
+          "headline": "NN/gが定義する\nエージェントハーネス",
+          "body": "NN/gは、モデルとツールの間でループを回すソフトウェアをエージェントハーネスと呼ぶ。",
+          "mini_headline": "エージェントハーネスとは",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "2026年11月7日更新:AutodeskがFlame 2027.2をリリースした。"
+                "x": "エージェントハーネスは、AIモデルとそのツールの間のソフトウェアループを管理する。そのコンテキスト、権限、制限が、ユーザーにできることを形づくる。同じAIモデルに頼る二つのAIスケジュール管理アシスタントでも、周囲のハーネス次第で能力は大きく異なりうる。"
+              },
+              {
+                "t": "p",
+                "x": "エージェントハーネスとは、AIモデルを取り囲み、その実行ループを回すソフトウェアである。ツールを使いたいというモデルの要求を実行し、結果を返し、モデルが受け取る情報と許される行動を制御する。この要求、行動、結果のサイクルこそが、チャットボットをAIエージェントに変える。"
               },
               {
                 "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261107_Flame20272_AINormal.jpg"
+                "src": "https://media.nngroup.com/media/editor/2026/11/06/how-an-agent-harness-runs-an-execution-loop_jHSEz0a.jpg",
+                "cap": "モデルが行動を要求する。ハーネスはツールが実行する前に各要求を権限と制限に照らして確認し、その結果を返して、モデルが再び実行するかユーザーに応答できるようにする。"
               },
               {
                 "t": "p",
-                "x": "かなり大きなアップデートで、新機能には、リライティングやショットへのエフェクト適用に使える、映像からノーマルマップを生成する新しい機械学習モデルが含まれる。FlameにはすでにAIノーマルマップ生成機能があったが、人の顔専用だった。新モデルはMatchboxシェーダー、Selectiveオブジェクト、Normal Mapオブジェクトで利用できる。"
+                "x": "ループを回すだけでなく、ハーネスはコンテキストを供給し、ツールを接続して権限を適用し、指示を与え、時間・コスト・ステップ数の制限を課す。保存された情報は、ハーネスがモデルに渡して初めて役に立つ。"
               },
               {
                 "t": "p",
-                "x": "Flameの3Dコンポジット環境であるActionに、USDシーンを読み込めるようにもなった。USDのジオメトリ、マテリアル、ライト、カメラに対応し、USDZファイルを含むすべてのUSD拡張子(.usd、.usda、.usdc、.usdz)をサポートする。"
-              },
-              {
-                "t": "p",
-                "x": "Actionではほかに、新しい3D Primitiveノードと、すべてのOpenSubdivスキームへの対応が加わった。パイプライン統合では、Python HooksでBatchのセットアップを制御するオプションと、シーケンスをOpenTimelineIO形式でパブリッシュするオプションが追加された。"
-              },
-              {
-                "t": "p",
-                "x": "これに先立ち、Flame 2027ではAnnotationsシステム、映像から深度マップを生成する二つの新AIモデル(ML Depth IndoorとML Depth Outdoor)、Autodesk Assistant、OpenTimelineIO対応が導入され、Flame 2027.1ではIsolateツールとProRes RAW対応が加わった。"
-              },
-              {
-                "t": "p",
-                "x": "Flameのサブスクリプションは月額$650または年額$5,215だ。Flame AssistとFlareのサブスクリプションは年額$2,775だ。"
+                "x": "UXにとって:製品がどのAIモデルを使っているかを知っても、そのハーネスが自分のタスクを支えられるかはわからない。デザイナーは画面と併せて振る舞いを定義すべきであり、evalsは現実的なコンテキスト、ツール、権限のもとでタスク全体をテストすべきだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Flame 2027.2\n用AI从素材生成法线贴图",
-          "body": "Autodesk Flame 2027.2新增从视频生成法线贴图的AI与USD场景导入。",
-          "mini_headline": "Flame新增AI法线贴图",
+          "headline": "NN/g 给出定义：\n何为智能体运行框架",
+          "body": "NN/g 将智能体运行框架描述为在模型与工具间运行循环、决定用户能做什么的软件。",
+          "mini_headline": "什么是智能体运行框架",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "2026年11月7日更新：Autodesk已发布Flame 2027.2。"
+                "x": "智能体运行框架（agent harness）管理 AI 模型与其工具之间的软件循环。它的上下文、权限和限制决定了用户能做什么。两个 AI 日程助手即便依赖同一个 AI 模型，也可能因外围框架不同而能力迥异。"
+              },
+              {
+                "t": "p",
+                "x": "智能体运行框架是包裹在 AI 模型外部、运行其执行循环的软件：它执行模型调用工具的请求，返回结果，并控制模型能收到哪些信息、被允许做什么。正是这种“请求、行动、结果”的循环，把聊天机器人变成了 AI 智能体。"
               },
               {
                 "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261107_Flame20272_AINormal.jpg"
+                "src": "https://media.nngroup.com/media/editor/2026/11/06/how-an-agent-harness-runs-an-execution-loop_jHSEz0a.jpg",
+                "cap": "模型请求执行操作。框架在工具执行之前，依据权限和限制检查每一个请求，然后返回结果，让模型再次运行或回复用户。"
               },
               {
                 "t": "p",
-                "x": "这是一次相当重要的更新，新功能包括一个从视频生成法线贴图的全新机器学习模型，可用于重新打光或为镜头添加特效。Flame此前已有AI法线贴图生成器，但仅限人脸。新模型以Matchbox着色器形式提供，也可在Selective对象和Normal Map对象中使用。"
+                "x": "除了运行循环，框架还负责提供上下文、连接工具并执行权限，提供指令，并对时间、成本和步骤数量施加限制。保存下来的信息只有在框架将其传给模型时才有用。"
               },
               {
                 "t": "p",
-                "x": "用户现在还能把USD场景导入Flame的3D合成环境Action。该实现支持USD几何体、材质、灯光和摄像机，以及包括USDZ文件在内的所有USD扩展名（.usd、.usda、.usdc和.usdz）。"
-              },
-              {
-                "t": "p",
-                "x": "Action的其他变化包括新的3D Primitive节点和对所有OpenSubdiv方案的支持。管线集成方面，新增了用Python Hooks控制Batch设置以及以OpenTimelineIO格式发布序列的选项。"
-              },
-              {
-                "t": "p",
-                "x": "此前，Flame 2027引入了Annotations系统、两个从素材生成深度图的新AI模型（ML Depth Indoor和ML Depth Outdoor）、Autodesk Assistant以及OpenTimelineIO支持；Flame 2027.1则新增了Isolate工具和ProRes RAW支持。"
-              },
-              {
-                "t": "p",
-                "x": "Flame订阅价格为每月$650或每年$5,215。Flame Assist和Flare订阅价格为每年$2,775。"
+                "x": "对 UX 而言：知道一个产品用的是哪个 AI 模型，并不能告诉你它的框架能否支持你的任务。设计师应在设计界面的同时明确行为，而评估（evals）应在真实的上下文、工具和权限下测试整个任务。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Flame 2027.2 genera con AI\nmapas de normales desde video",
-          "body": "Flame 2027.2 de Autodesk añade un modelo de AI que crea mapas de normales desde video, más importación de escenas USD.",
-          "mini_headline": "Flame suma mapas de normales con AI",
+          "headline": "NN/g define qué es el\narnés de un agente",
+          "body": "Para NN/g, el arnés de agentes es software que ejecuta el ciclo modelo-herramientas y acota lo que hace el usuario.",
+          "mini_headline": "Qué es un arnés de agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Actualizado el 7 de noviembre de 2026: Autodesk ha lanzado Flame 2027.2."
+                "x": "Un arnés de agentes gestiona un ciclo de software entre un modelo de AI y sus herramientas. Su contexto, sus permisos y sus límites determinan lo que pueden hacer los usuarios. Dos asistentes de agenda con AI pueden basarse en el mismo modelo de AI y tener capacidades muy distintas, según el arnés que lo rodee."
+              },
+              {
+                "t": "p",
+                "x": "Un arnés de agentes es el software que rodea a un modelo de AI y ejecuta su ciclo de ejecución: lleva a cabo las solicitudes del modelo para usar herramientas, devuelve los resultados y controla qué información recibe el modelo y qué se le permite hacer. Este ciclo de solicitud, acción y resultado es lo que convierte un chatbot en un agente de AI."
               },
               {
                 "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261107_Flame20272_AINormal.jpg"
+                "src": "https://media.nngroup.com/media/editor/2026/11/06/how-an-agent-harness-runs-an-execution-loop_jHSEz0a.jpg",
+                "cap": "El modelo solicita acciones. El arnés comprueba cada solicitud frente a sus permisos y límites antes de que una herramienta la ejecute, y luego devuelve el resultado para que el modelo vuelva a ejecutarse o responda al usuario."
               },
               {
                 "t": "p",
-                "x": "Es una actualización bastante importante, con novedades como un nuevo modelo de aprendizaje automático que genera mapas de normales a partir de video, para reiluminar o aplicar efectos a una toma. Flame ya tenía un generador de mapas de normales con AI, pero estaba pensado específicamente para rostros humanos. El nuevo modelo está disponible como shader de Matchbox, en el objeto Selective y en el objeto Normal Map."
+                "x": "Además de ejecutar el ciclo, el arnés aporta contexto, conecta herramientas y aplica permisos, y proporciona instrucciones e impone límites de tiempo, coste y número de pasos. La información guardada solo es útil si el arnés se la pasa al modelo."
               },
               {
                 "t": "p",
-                "x": "Los usuarios ahora también pueden importar escenas USD en Action, el entorno de composición 3D de Flame. La implementación admite geometría, materiales, luces y cámaras USD, y todas las extensiones de archivo USD, incluidos los archivos USDZ (.usd, .usda, .usdc y .usdz)."
-              },
-              {
-                "t": "p",
-                "x": "Otros cambios en Action incluyen un nuevo nodo 3D Primitive y compatibilidad con todos los esquemas de OpenSubdiv. En la integración con el pipeline, se añade la opción de usar Python Hooks para controlar configuraciones de Batch y de publicar secuencias en formato OpenTimelineIO."
-              },
-              {
-                "t": "p",
-                "x": "Antes, Flame 2027 introdujo un sistema de Annotations, dos nuevos modelos de AI para generar mapas de profundidad a partir de metraje (ML Depth Indoor y ML Depth Outdoor), Autodesk Assistant y compatibilidad con OpenTimelineIO; Flame 2027.1 añadió la herramienta Isolate y compatibilidad con ProRes RAW."
-              },
-              {
-                "t": "p",
-                "x": "La suscripción a Flame cuesta $650 al mes o $5,215 al año. Las suscripciones a Flame Assist y Flare cuestan $2,775 al año."
+                "x": "Para la UX: saber qué modelo de AI usa un producto no indica si su arnés puede respaldar tu tarea. Los diseñadores deberían especificar el comportamiento junto con la pantalla, y las evals deberían probar la tarea completa con contexto, herramientas y permisos realistas."
               }
             ]
           }
@@ -835,153 +551,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Flame 2027.2,\n영상서 AI 노멀맵 생성",
-          "body": "Autodesk Flame 2027.2가 영상 노멀맵 AI와 USD 지원을 더했다.",
-          "mini_headline": "Flame에 AI 노멀맵",
+          "headline": "NN/g가 정의한\n에이전트 하네스",
+          "body": "NN/g는 에이전트 하네스를 모델과 도구 사이 루프를 돌리는 소프트웨어로 본다.",
+          "mini_headline": "에이전트 하네스란 무엇인가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "2026년 11월 7일 업데이트: Autodesk가 Flame 2027.2를 출시했다."
+                "x": "에이전트 하네스는 AI 모델과 도구 사이의 소프트웨어 루프를 관리한다. 하네스의 컨텍스트, 권한, 제한이 사용자가 할 수 있는 일을 결정한다. 두 AI 일정 관리 어시스턴트가 같은 AI 모델을 쓰더라도, 그 주변의 하네스에 따라 능력은 크게 다를 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "에이전트 하네스는 AI 모델을 둘러싸고 실행 루프를 돌리는 소프트웨어다. 도구를 쓰겠다는 모델의 요청을 수행하고, 결과를 돌려주며, 모델이 받는 정보와 모델에 허용되는 행동을 통제한다. 요청, 실행, 결과로 이어지는 이 순환이 챗봇을 AI 에이전트로 바꾼다."
               },
               {
                 "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261107_Flame20272_AINormal.jpg"
+                "src": "https://media.nngroup.com/media/editor/2026/11/06/how-an-agent-harness-runs-an-execution-loop_jHSEz0a.jpg",
+                "cap": "모델이 행동을 요청한다. 하네스는 도구가 요청을 실행하기 전에 각 요청을 권한과 제한에 비춰 확인하고, 결과를 돌려주어 모델이 다시 실행하거나 사용자에게 답하게 한다."
               },
               {
                 "t": "p",
-                "x": "상당히 큰 업데이트로, 영상에서 노멀맵을 생성해 리라이팅이나 샷에 효과를 입히는 데 쓰는 새 머신러닝 모델이 들어갔다. Flame에는 이미 AI 노멀맵 생성기가 있었지만 사람 얼굴 전용이었다. 새 모델은 Matchbox 셰이더, Selective 오브젝트, Normal Map 오브젝트에서 쓸 수 있다."
+                "x": "하네스는 루프를 돌리는 일 외에도 컨텍스트를 공급하고, 도구를 연결하고 권한을 집행하며, 지시를 제공하고 시간·비용·단계 수에 대한 제한을 적용한다. 저장된 정보는 하네스가 모델에 전달할 때만 쓸모가 있다."
               },
               {
                 "t": "p",
-                "x": "이제 Flame의 3D 합성 환경인 Action으로 USD 씬을 가져올 수도 있다. USD 지오메트리, 머티리얼, 라이트, 카메라를 지원하며, USDZ 파일을 포함한 모든 USD 확장자(.usd, .usda, .usdc, .usdz)를 다룬다."
-              },
-              {
-                "t": "p",
-                "x": "Action의 다른 변경 사항으로는 새 3D Primitive 노드와 모든 OpenSubdiv 스킴 지원이 있다. 파이프라인 통합 측면에서는 Python Hooks로 Batch 설정을 제어하고 시퀀스를 OpenTimelineIO 형식으로 퍼블리시하는 옵션이 생겼다."
-              },
-              {
-                "t": "p",
-                "x": "앞서 Flame 2027은 Annotations 시스템, 영상에서 뎁스 맵을 생성하는 새 AI 모델 두 가지(ML Depth Indoor, ML Depth Outdoor), Autodesk Assistant, OpenTimelineIO 지원을 도입했고, Flame 2027.1은 Isolate 도구와 ProRes RAW 지원을 추가했다."
-              },
-              {
-                "t": "p",
-                "x": "Flame 구독료는 월 $650 또는 연 $5,215다. Flame Assist와 Flare 구독료는 연 $2,775다."
+                "x": "UX 관점에서 보면, 제품이 어떤 AI 모델을 쓰는지 안다고 해서 그 하네스가 내 작업을 지원할 수 있는지 알 수는 없다. 디자이너는 화면과 함께 동작을 명시해야 하고, 평가(evals)는 현실적인 컨텍스트, 도구, 권한을 갖춘 상태에서 작업 전체를 테스트해야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Flame 2027.2、\n映像からAIでノーマルマップ",
-          "body": "Autodesk Flame 2027.2に映像の法線マップAIとUSD読込が加わった。",
-          "mini_headline": "FlameにAIノーマルマップ",
+          "headline": "NN/gが定義する\nエージェントハーネス",
+          "body": "NN/gは、モデルとツールの間でループを回すソフトウェアをエージェントハーネスと呼ぶ。",
+          "mini_headline": "エージェントハーネスとは",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "2026年11月7日更新:AutodeskがFlame 2027.2をリリースした。"
+                "x": "エージェントハーネスは、AIモデルとそのツールの間のソフトウェアループを管理する。そのコンテキスト、権限、制限が、ユーザーにできることを形づくる。同じAIモデルに頼る二つのAIスケジュール管理アシスタントでも、周囲のハーネス次第で能力は大きく異なりうる。"
+              },
+              {
+                "t": "p",
+                "x": "エージェントハーネスとは、AIモデルを取り囲み、その実行ループを回すソフトウェアである。ツールを使いたいというモデルの要求を実行し、結果を返し、モデルが受け取る情報と許される行動を制御する。この要求、行動、結果のサイクルこそが、チャットボットをAIエージェントに変える。"
               },
               {
                 "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261107_Flame20272_AINormal.jpg"
+                "src": "https://media.nngroup.com/media/editor/2026/11/06/how-an-agent-harness-runs-an-execution-loop_jHSEz0a.jpg",
+                "cap": "モデルが行動を要求する。ハーネスはツールが実行する前に各要求を権限と制限に照らして確認し、その結果を返して、モデルが再び実行するかユーザーに応答できるようにする。"
               },
               {
                 "t": "p",
-                "x": "かなり大きなアップデートで、新機能には、リライティングやショットへのエフェクト適用に使える、映像からノーマルマップを生成する新しい機械学習モデルが含まれる。FlameにはすでにAIノーマルマップ生成機能があったが、人の顔専用だった。新モデルはMatchboxシェーダー、Selectiveオブジェクト、Normal Mapオブジェクトで利用できる。"
+                "x": "ループを回すだけでなく、ハーネスはコンテキストを供給し、ツールを接続して権限を適用し、指示を与え、時間・コスト・ステップ数の制限を課す。保存された情報は、ハーネスがモデルに渡して初めて役に立つ。"
               },
               {
                 "t": "p",
-                "x": "Flameの3Dコンポジット環境であるActionに、USDシーンを読み込めるようにもなった。USDのジオメトリ、マテリアル、ライト、カメラに対応し、USDZファイルを含むすべてのUSD拡張子(.usd、.usda、.usdc、.usdz)をサポートする。"
-              },
-              {
-                "t": "p",
-                "x": "Actionではほかに、新しい3D Primitiveノードと、すべてのOpenSubdivスキームへの対応が加わった。パイプライン統合では、Python HooksでBatchのセットアップを制御するオプションと、シーケンスをOpenTimelineIO形式でパブリッシュするオプションが追加された。"
-              },
-              {
-                "t": "p",
-                "x": "これに先立ち、Flame 2027ではAnnotationsシステム、映像から深度マップを生成する二つの新AIモデル(ML Depth IndoorとML Depth Outdoor)、Autodesk Assistant、OpenTimelineIO対応が導入され、Flame 2027.1ではIsolateツールとProRes RAW対応が加わった。"
-              },
-              {
-                "t": "p",
-                "x": "Flameのサブスクリプションは月額$650または年額$5,215だ。Flame AssistとFlareのサブスクリプションは年額$2,775だ。"
+                "x": "UXにとって:製品がどのAIモデルを使っているかを知っても、そのハーネスが自分のタスクを支えられるかはわからない。デザイナーは画面と併せて振る舞いを定義すべきであり、evalsは現実的なコンテキスト、ツール、権限のもとでタスク全体をテストすべきだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Flame 2027.2\n用AI从素材生成法线贴图",
-          "body": "Autodesk Flame 2027.2新增从视频生成法线贴图的AI与USD场景导入。",
-          "mini_headline": "Flame新增AI法线贴图",
+          "headline": "NN/g 给出定义：\n何为智能体运行框架",
+          "body": "NN/g 将智能体运行框架描述为在模型与工具间运行循环、决定用户能做什么的软件。",
+          "mini_headline": "什么是智能体运行框架",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "2026年11月7日更新：Autodesk已发布Flame 2027.2。"
+                "x": "智能体运行框架（agent harness）管理 AI 模型与其工具之间的软件循环。它的上下文、权限和限制决定了用户能做什么。两个 AI 日程助手即便依赖同一个 AI 模型，也可能因外围框架不同而能力迥异。"
+              },
+              {
+                "t": "p",
+                "x": "智能体运行框架是包裹在 AI 模型外部、运行其执行循环的软件：它执行模型调用工具的请求，返回结果，并控制模型能收到哪些信息、被允许做什么。正是这种“请求、行动、结果”的循环，把聊天机器人变成了 AI 智能体。"
               },
               {
                 "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261107_Flame20272_AINormal.jpg"
+                "src": "https://media.nngroup.com/media/editor/2026/11/06/how-an-agent-harness-runs-an-execution-loop_jHSEz0a.jpg",
+                "cap": "模型请求执行操作。框架在工具执行之前，依据权限和限制检查每一个请求，然后返回结果，让模型再次运行或回复用户。"
               },
               {
                 "t": "p",
-                "x": "这是一次相当重要的更新，新功能包括一个从视频生成法线贴图的全新机器学习模型，可用于重新打光或为镜头添加特效。Flame此前已有AI法线贴图生成器，但仅限人脸。新模型以Matchbox着色器形式提供，也可在Selective对象和Normal Map对象中使用。"
+                "x": "除了运行循环，框架还负责提供上下文、连接工具并执行权限，提供指令，并对时间、成本和步骤数量施加限制。保存下来的信息只有在框架将其传给模型时才有用。"
               },
               {
                 "t": "p",
-                "x": "用户现在还能把USD场景导入Flame的3D合成环境Action。该实现支持USD几何体、材质、灯光和摄像机，以及包括USDZ文件在内的所有USD扩展名（.usd、.usda、.usdc和.usdz）。"
-              },
-              {
-                "t": "p",
-                "x": "Action的其他变化包括新的3D Primitive节点和对所有OpenSubdiv方案的支持。管线集成方面，新增了用Python Hooks控制Batch设置以及以OpenTimelineIO格式发布序列的选项。"
-              },
-              {
-                "t": "p",
-                "x": "此前，Flame 2027引入了Annotations系统、两个从素材生成深度图的新AI模型（ML Depth Indoor和ML Depth Outdoor）、Autodesk Assistant以及OpenTimelineIO支持；Flame 2027.1则新增了Isolate工具和ProRes RAW支持。"
-              },
-              {
-                "t": "p",
-                "x": "Flame订阅价格为每月$650或每年$5,215。Flame Assist和Flare订阅价格为每年$2,775。"
+                "x": "对 UX 而言：知道一个产品用的是哪个 AI 模型，并不能告诉你它的框架能否支持你的任务。设计师应在设计界面的同时明确行为，而评估（evals）应在真实的上下文、工具和权限下测试整个任务。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Flame 2027.2 genera con AI\nmapas de normales desde video",
-          "body": "Flame 2027.2 de Autodesk añade un modelo de AI que crea mapas de normales desde video, más importación de escenas USD.",
-          "mini_headline": "Flame suma mapas de normales con AI",
+          "headline": "NN/g define qué es el\narnés de un agente",
+          "body": "Para NN/g, el arnés de agentes es software que ejecuta el ciclo modelo-herramientas y acota lo que hace el usuario.",
+          "mini_headline": "Qué es un arnés de agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Actualizado el 7 de noviembre de 2026: Autodesk ha lanzado Flame 2027.2."
+                "x": "Un arnés de agentes gestiona un ciclo de software entre un modelo de AI y sus herramientas. Su contexto, sus permisos y sus límites determinan lo que pueden hacer los usuarios. Dos asistentes de agenda con AI pueden basarse en el mismo modelo de AI y tener capacidades muy distintas, según el arnés que lo rodee."
+              },
+              {
+                "t": "p",
+                "x": "Un arnés de agentes es el software que rodea a un modelo de AI y ejecuta su ciclo de ejecución: lleva a cabo las solicitudes del modelo para usar herramientas, devuelve los resultados y controla qué información recibe el modelo y qué se le permite hacer. Este ciclo de solicitud, acción y resultado es lo que convierte un chatbot en un agente de AI."
               },
               {
                 "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261107_Flame20272_AINormal.jpg"
+                "src": "https://media.nngroup.com/media/editor/2026/11/06/how-an-agent-harness-runs-an-execution-loop_jHSEz0a.jpg",
+                "cap": "El modelo solicita acciones. El arnés comprueba cada solicitud frente a sus permisos y límites antes de que una herramienta la ejecute, y luego devuelve el resultado para que el modelo vuelva a ejecutarse o responda al usuario."
               },
               {
                 "t": "p",
-                "x": "Es una actualización bastante importante, con novedades como un nuevo modelo de aprendizaje automático que genera mapas de normales a partir de video, para reiluminar o aplicar efectos a una toma. Flame ya tenía un generador de mapas de normales con AI, pero estaba pensado específicamente para rostros humanos. El nuevo modelo está disponible como shader de Matchbox, en el objeto Selective y en el objeto Normal Map."
+                "x": "Además de ejecutar el ciclo, el arnés aporta contexto, conecta herramientas y aplica permisos, y proporciona instrucciones e impone límites de tiempo, coste y número de pasos. La información guardada solo es útil si el arnés se la pasa al modelo."
               },
               {
                 "t": "p",
-                "x": "Los usuarios ahora también pueden importar escenas USD en Action, el entorno de composición 3D de Flame. La implementación admite geometría, materiales, luces y cámaras USD, y todas las extensiones de archivo USD, incluidos los archivos USDZ (.usd, .usda, .usdc y .usdz)."
-              },
-              {
-                "t": "p",
-                "x": "Otros cambios en Action incluyen un nuevo nodo 3D Primitive y compatibilidad con todos los esquemas de OpenSubdiv. En la integración con el pipeline, se añade la opción de usar Python Hooks para controlar configuraciones de Batch y de publicar secuencias en formato OpenTimelineIO."
-              },
-              {
-                "t": "p",
-                "x": "Antes, Flame 2027 introdujo un sistema de Annotations, dos nuevos modelos de AI para generar mapas de profundidad a partir de metraje (ML Depth Indoor y ML Depth Outdoor), Autodesk Assistant y compatibilidad con OpenTimelineIO; Flame 2027.1 añadió la herramienta Isolate y compatibilidad con ProRes RAW."
-              },
-              {
-                "t": "p",
-                "x": "La suscripción a Flame cuesta $650 al mes o $5,215 al año. Las suscripciones a Flame Assist y Flare cuestan $2,775 al año."
+                "x": "Para la UX: saber qué modelo de AI usa un producto no indica si su arnés puede respaldar tu tarea. Los diseñadores deberían especificar el comportamiento junto con la pantalla, y las evals deberían probar la tarea completa con contexto, herramientas y permisos realistas."
               }
             ]
           }
@@ -989,625 +677,231 @@
       }
     },
     {
-      "id": "ironcad-2027-ai-scripting",
+      "id": "uxc-berrypicking-ai-search",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "IronCAD 2027,\n설계 자동화에 AI",
-      "body": "IronCAD 2027에 설계 자동화용 AI-assisted 스크립팅이 들어갔다.",
-      "mini_headline": "IronCAD, AI로 스크립트",
-      "tool": "Text-to-CAD",
-      "source": "Engineering.com",
-      "url": "https://www.engineering.com/ironcad-2027-update-adds-design-automation-tools/",
-      "accent": "#3b6bff",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.engineering.com/wp-content/uploads/2026/11/IronCAD-2027-update-adds-design-automation-tools.png"
-          },
-          {
-            "t": "p",
-            "x": "IronCAD가 IronCAD 2027 Product Update 1을 내놨다. 산업 장비·기계 설계, 금속 가공, 기계 엔지니어링 팀을 겨냥한 릴리스로, AI-assisted 설계 자동화와 판금 워크플로, 배관, 도면, 피처 인식, 파일 호환성이 좋아졌다."
-          },
-          {
-            "t": "p",
-            "x": "AI Design Assistant도 손봤다. AI Design Assistant는 이제 AI-assisted 스크립트 생성까지 지원한다. 사용자는 자연어 프롬프트로 스크립트를 만들어 반복 모델링 작업을 자동화하고, 메타데이터·파라미터·재질·Smart Attachments가 담긴 카탈로그 데이터로 부품을 구성하며, 설계 자동화 워크플로에 활용할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "굽힘, 구멍, 엣지 라운드를 조합한 판금 피처도 카탈로그로 끌어다 놓고 다른 프로젝트에서 다시 쓸 수 있다. 배관 명령은 이제 스플라인 경로를 따르는 플렉시블 파이프를 지원하고, 가져온 모델을 편집 가능한 IronCAD 피처로 바꾸는 속도도 빨라졌다."
-          },
-          {
-            "t": "p",
-            "x": "Native CAD Translator Add-on은 CATIA V5, Creo, NX, Inventor, SolidWorks, Solid Edge 등 주요 포맷의 최신 버전까지 지원한다."
-          },
-          {
-            "t": "p",
-            "x": "IronCAD 2027 Product Update 1은 자격을 갖춘 IronCAD Design Collaboration Suite 사용자라면 IronCAD Live Update나 IronCAD 웹사이트에서 내려받을 수 있다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "IronCAD 2027 adds AI help\nfor design automation",
-          "body": "IronCAD 2027 adds AI-assisted scripting for design automation, plus sheet metal catalog reuse and updated translators.",
-          "mini_headline": "IronCAD scripts\nwith AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/IronCAD-2027-update-adds-design-automation-tools.png"
-              },
-              {
-                "t": "p",
-                "x": "IronCAD announced the availability of IronCAD 2027 Product Update 1. The release adds updates to AI-assisted design automation, sheet metal workflows, piping, drafting, feature recognition and file interoperability for industrial equipment and machinery design, metal fabrication and mechanical engineering teams."
-              },
-              {
-                "t": "p",
-                "x": "AI Design Assistant improvements: the AI Design Assistant now provides added support for AI-assisted script generation. Users can use natural-language prompts to generate scripts that automate repeated modeling tasks, configure components from catalog data including metadata, parameters, materials and Smart Attachments and support design automation workflows."
-              },
-              {
-                "t": "p",
-                "x": "Sheet metal features, including combinations of bends, holes and edge rounds, can be dragged into catalogs for reuse in other projects. The piping command now supports flexible pipes using a spline path, and imported models can be converted into editable IronCAD features faster."
-              },
-              {
-                "t": "p",
-                "x": "The Native CAD Translator Add-on now supports updated versions of major formats including CATIA V5, Creo, NX, Inventor, SolidWorks and Solid Edge."
-              },
-              {
-                "t": "p",
-                "x": "IronCAD 2027 Product Update 1 is available to eligible IronCAD Design Collaboration Suite users through IronCAD Live Update or by download from the IronCAD website."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "IronCAD 2027,\n설계 자동화에 AI",
-          "body": "IronCAD 2027에 설계 자동화용 AI-assisted 스크립팅이 들어갔다.",
-          "mini_headline": "IronCAD, AI로 스크립트",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/IronCAD-2027-update-adds-design-automation-tools.png"
-              },
-              {
-                "t": "p",
-                "x": "IronCAD가 IronCAD 2027 Product Update 1을 내놨다. 산업 장비·기계 설계, 금속 가공, 기계 엔지니어링 팀을 겨냥한 릴리스로, AI-assisted 설계 자동화와 판금 워크플로, 배관, 도면, 피처 인식, 파일 호환성이 좋아졌다."
-              },
-              {
-                "t": "p",
-                "x": "AI Design Assistant도 손봤다. AI Design Assistant는 이제 AI-assisted 스크립트 생성까지 지원한다. 사용자는 자연어 프롬프트로 스크립트를 만들어 반복 모델링 작업을 자동화하고, 메타데이터·파라미터·재질·Smart Attachments가 담긴 카탈로그 데이터로 부품을 구성하며, 설계 자동화 워크플로에 활용할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "굽힘, 구멍, 엣지 라운드를 조합한 판금 피처도 카탈로그로 끌어다 놓고 다른 프로젝트에서 다시 쓸 수 있다. 배관 명령은 이제 스플라인 경로를 따르는 플렉시블 파이프를 지원하고, 가져온 모델을 편집 가능한 IronCAD 피처로 바꾸는 속도도 빨라졌다."
-              },
-              {
-                "t": "p",
-                "x": "Native CAD Translator Add-on은 CATIA V5, Creo, NX, Inventor, SolidWorks, Solid Edge 등 주요 포맷의 최신 버전까지 지원한다."
-              },
-              {
-                "t": "p",
-                "x": "IronCAD 2027 Product Update 1은 자격을 갖춘 IronCAD Design Collaboration Suite 사용자라면 IronCAD Live Update나 IronCAD 웹사이트에서 내려받을 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "IronCAD 2027、\n設計自動化をAIが支援",
-          "body": "IronCAD 2027は設計自動化向けにAI-assistedのスクリプト生成を加えた。",
-          "mini_headline": "IronCAD、AIでスクリプト",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/IronCAD-2027-update-adds-design-automation-tools.png"
-              },
-              {
-                "t": "p",
-                "x": "IronCADはIronCAD 2027 Product Update 1の提供開始を発表した。今回のリリースでは、産業機器・機械設計、金属加工、機械エンジニアリングのチーム向けに、AI-assistedの設計自動化、板金ワークフロー、配管、製図、フィーチャー認識、ファイル相互運用性が更新された。"
-              },
-              {
-                "t": "p",
-                "x": "AI Design Assistantの改善:AI Design AssistantがAI-assistedのスクリプト生成に新たに対応した。ユーザーは自然言語のプロンプトでスクリプトを生成し、繰り返しのモデリング作業を自動化したり、メタデータ、パラメーター、材料、Smart Attachmentsを含むカタログデータから部品を構成したり、設計自動化ワークフローを支えたりできる。"
-              },
-              {
-                "t": "p",
-                "x": "曲げ、穴、エッジのラウンドの組み合わせを含む板金フィーチャーをカタログにドラッグし、ほかのプロジェクトで再利用できる。配管コマンドはスプライン経路を使ったフレキシブルパイプに対応し、インポートしたモデルを編集可能なIronCADフィーチャーへより速く変換できるようになった。"
-              },
-              {
-                "t": "p",
-                "x": "Native CAD Translator Add-onは、CATIA V5、Creo、NX、Inventor、SolidWorks、Solid Edgeなど主要フォーマットの最新バージョンに対応した。"
-              },
-              {
-                "t": "p",
-                "x": "IronCAD 2027 Product Update 1は、対象となるIronCAD Design Collaboration Suiteユーザーであれば、IronCAD Live UpdateまたはIronCADのウェブサイトからのダウンロードで入手できる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "IronCAD 2027\n以AI助力设计自动化",
-          "body": "IronCAD 2027新增面向设计自动化的AI-assisted脚本生成。",
-          "mini_headline": "IronCAD用AI写脚本",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/IronCAD-2027-update-adds-design-automation-tools.png"
-              },
-              {
-                "t": "p",
-                "x": "IronCAD宣布推出IronCAD 2027 Product Update 1。此次发布面向工业设备与机械设计、金属加工和机械工程团队，更新了AI-assisted设计自动化、钣金工作流、管道、制图、特征识别和文件互操作性。"
-              },
-              {
-                "t": "p",
-                "x": "AI Design Assistant改进：AI Design Assistant现在新增对AI-assisted脚本生成的支持。用户可用自然语言提示生成脚本，自动化重复的建模任务，依据包含元数据、参数、材料和Smart Attachments的目录数据配置组件，并支持设计自动化工作流。"
-              },
-              {
-                "t": "p",
-                "x": "包含折弯、孔和边缘倒圆组合的钣金特征可拖入目录，在其他项目中复用。管道命令现支持沿样条路径的柔性管，导入的模型也能更快转换为可编辑的IronCAD特征。"
-              },
-              {
-                "t": "p",
-                "x": "Native CAD Translator Add-on现已支持CATIA V5、Creo、NX、Inventor、SolidWorks和Solid Edge等主要格式的更新版本。"
-              },
-              {
-                "t": "p",
-                "x": "符合条件的IronCAD Design Collaboration Suite用户可通过IronCAD Live Update或从IronCAD网站下载获取IronCAD 2027 Product Update 1。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "IronCAD 2027 suma ayuda de AI\npara automatizar el diseño",
-          "body": "IronCAD 2027 añade scripts AI-assisted para automatizar el diseño y catálogos reutilizables de chapa.",
-          "mini_headline": "IronCAD crea scripts con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/IronCAD-2027-update-adds-design-automation-tools.png"
-              },
-              {
-                "t": "p",
-                "x": "IronCAD anunció la disponibilidad de IronCAD 2027 Product Update 1. La versión actualiza la automatización del diseño AI-assisted, los flujos de trabajo de chapa, las tuberías, el dibujo técnico, el reconocimiento de operaciones y la interoperabilidad de archivos para equipos de diseño de maquinaria y equipo industrial, fabricación metálica e ingeniería mecánica."
-              },
-              {
-                "t": "p",
-                "x": "Mejoras en AI Design Assistant: AI Design Assistant ahora ofrece soporte adicional para la generación de scripts AI-assisted. Los usuarios pueden usar instrucciones en lenguaje natural para generar scripts que automaticen tareas de modelado repetitivas, configuren componentes a partir de datos de catálogo, incluidos metadatos, parámetros, materiales y Smart Attachments, y apoyen flujos de automatización del diseño."
-              },
-              {
-                "t": "p",
-                "x": "Las operaciones de chapa, incluidas combinaciones de pliegues, agujeros y redondeos de aristas, pueden arrastrarse a catálogos para reutilizarlas en otros proyectos. El comando de tuberías ahora admite tubos flexibles con una trayectoria spline, y los modelos importados pueden convertirse más rápido en operaciones editables de IronCAD."
-              },
-              {
-                "t": "p",
-                "x": "Native CAD Translator Add-on ahora admite versiones actualizadas de los principales formatos, como CATIA V5, Creo, NX, Inventor, SolidWorks y Solid Edge."
-              },
-              {
-                "t": "p",
-                "x": "IronCAD 2027 Product Update 1 está disponible para los usuarios elegibles de IronCAD Design Collaboration Suite mediante IronCAD Live Update o por descarga desde el sitio web de IronCAD."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "IronCAD 2027,\n설계 자동화에 AI",
-          "body": "IronCAD 2027은 설계 자동화용 AI-assisted 스크립팅을 더했다.",
-          "mini_headline": "IronCAD, AI로 스크립트",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/IronCAD-2027-update-adds-design-automation-tools.png"
-              },
-              {
-                "t": "p",
-                "x": "IronCAD가 IronCAD 2027 Product Update 1 출시를 발표했다. 이번 릴리스는 산업 장비·기계 설계, 금속 가공, 기계 엔지니어링 팀을 위해 AI-assisted 설계 자동화, 판금 워크플로, 배관, 도면, 피처 인식, 파일 호환성을 개선했다."
-              },
-              {
-                "t": "p",
-                "x": "AI Design Assistant 개선: AI Design Assistant가 이제 AI-assisted 스크립트 생성을 추가로 지원한다. 사용자는 자연어 프롬프트로 스크립트를 만들어 반복적인 모델링 작업을 자동화하고, 메타데이터·파라미터·재질·Smart Attachments를 포함한 카탈로그 데이터로 부품을 구성하며, 설계 자동화 워크플로를 지원할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "굽힘, 구멍, 엣지 라운드의 조합을 포함한 판금 피처를 카탈로그로 끌어다 놓고 다른 프로젝트에서 재사용할 수 있다. 배관 명령은 이제 스플라인 경로를 이용한 플렉시블 파이프를 지원하며, 가져온 모델을 편집 가능한 IronCAD 피처로 더 빠르게 변환할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Native CAD Translator Add-on은 이제 CATIA V5, Creo, NX, Inventor, SolidWorks, Solid Edge 등 주요 포맷의 최신 버전을 지원한다."
-              },
-              {
-                "t": "p",
-                "x": "IronCAD 2027 Product Update 1은 자격을 갖춘 IronCAD Design Collaboration Suite 사용자가 IronCAD Live Update나 IronCAD 웹사이트 다운로드로 받을 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "IronCAD 2027、\n設計自動化をAIが支援",
-          "body": "IronCAD 2027は設計自動化向けにAI-assistedのスクリプト生成を加えた。",
-          "mini_headline": "IronCAD、AIでスクリプト",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/IronCAD-2027-update-adds-design-automation-tools.png"
-              },
-              {
-                "t": "p",
-                "x": "IronCADはIronCAD 2027 Product Update 1の提供開始を発表した。今回のリリースでは、産業機器・機械設計、金属加工、機械エンジニアリングのチーム向けに、AI-assistedの設計自動化、板金ワークフロー、配管、製図、フィーチャー認識、ファイル相互運用性が更新された。"
-              },
-              {
-                "t": "p",
-                "x": "AI Design Assistantの改善:AI Design AssistantがAI-assistedのスクリプト生成に新たに対応した。ユーザーは自然言語のプロンプトでスクリプトを生成し、繰り返しのモデリング作業を自動化したり、メタデータ、パラメーター、材料、Smart Attachmentsを含むカタログデータから部品を構成したり、設計自動化ワークフローを支えたりできる。"
-              },
-              {
-                "t": "p",
-                "x": "曲げ、穴、エッジのラウンドの組み合わせを含む板金フィーチャーをカタログにドラッグし、ほかのプロジェクトで再利用できる。配管コマンドはスプライン経路を使ったフレキシブルパイプに対応し、インポートしたモデルを編集可能なIronCADフィーチャーへより速く変換できるようになった。"
-              },
-              {
-                "t": "p",
-                "x": "Native CAD Translator Add-onは、CATIA V5、Creo、NX、Inventor、SolidWorks、Solid Edgeなど主要フォーマットの最新バージョンに対応した。"
-              },
-              {
-                "t": "p",
-                "x": "IronCAD 2027 Product Update 1は、対象となるIronCAD Design Collaboration Suiteユーザーであれば、IronCAD Live UpdateまたはIronCADのウェブサイトからのダウンロードで入手できる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "IronCAD 2027\n以AI助力设计自动化",
-          "body": "IronCAD 2027新增面向设计自动化的AI-assisted脚本生成。",
-          "mini_headline": "IronCAD用AI写脚本",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/IronCAD-2027-update-adds-design-automation-tools.png"
-              },
-              {
-                "t": "p",
-                "x": "IronCAD宣布推出IronCAD 2027 Product Update 1。此次发布面向工业设备与机械设计、金属加工和机械工程团队，更新了AI-assisted设计自动化、钣金工作流、管道、制图、特征识别和文件互操作性。"
-              },
-              {
-                "t": "p",
-                "x": "AI Design Assistant改进：AI Design Assistant现在新增对AI-assisted脚本生成的支持。用户可用自然语言提示生成脚本，自动化重复的建模任务，依据包含元数据、参数、材料和Smart Attachments的目录数据配置组件，并支持设计自动化工作流。"
-              },
-              {
-                "t": "p",
-                "x": "包含折弯、孔和边缘倒圆组合的钣金特征可拖入目录，在其他项目中复用。管道命令现支持沿样条路径的柔性管，导入的模型也能更快转换为可编辑的IronCAD特征。"
-              },
-              {
-                "t": "p",
-                "x": "Native CAD Translator Add-on现已支持CATIA V5、Creo、NX、Inventor、SolidWorks和Solid Edge等主要格式的更新版本。"
-              },
-              {
-                "t": "p",
-                "x": "符合条件的IronCAD Design Collaboration Suite用户可通过IronCAD Live Update或从IronCAD网站下载获取IronCAD 2027 Product Update 1。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "IronCAD 2027 suma ayuda de AI\npara automatizar el diseño",
-          "body": "IronCAD 2027 añade scripts AI-assisted para automatizar el diseño y catálogos reutilizables de chapa.",
-          "mini_headline": "IronCAD crea scripts con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/IronCAD-2027-update-adds-design-automation-tools.png"
-              },
-              {
-                "t": "p",
-                "x": "IronCAD anunció la disponibilidad de IronCAD 2027 Product Update 1. La versión actualiza la automatización del diseño AI-assisted, los flujos de trabajo de chapa, las tuberías, el dibujo técnico, el reconocimiento de operaciones y la interoperabilidad de archivos para equipos de diseño de maquinaria y equipo industrial, fabricación metálica e ingeniería mecánica."
-              },
-              {
-                "t": "p",
-                "x": "Mejoras en AI Design Assistant: AI Design Assistant ahora ofrece soporte adicional para la generación de scripts AI-assisted. Los usuarios pueden usar instrucciones en lenguaje natural para generar scripts que automaticen tareas de modelado repetitivas, configuren componentes a partir de datos de catálogo, incluidos metadatos, parámetros, materiales y Smart Attachments, y apoyen flujos de automatización del diseño."
-              },
-              {
-                "t": "p",
-                "x": "Las operaciones de chapa, incluidas combinaciones de pliegues, agujeros y redondeos de aristas, pueden arrastrarse a catálogos para reutilizarlas en otros proyectos. El comando de tuberías ahora admite tubos flexibles con una trayectoria spline, y los modelos importados pueden convertirse más rápido en operaciones editables de IronCAD."
-              },
-              {
-                "t": "p",
-                "x": "Native CAD Translator Add-on ahora admite versiones actualizadas de los principales formatos, como CATIA V5, Creo, NX, Inventor, SolidWorks y Solid Edge."
-              },
-              {
-                "t": "p",
-                "x": "IronCAD 2027 Product Update 1 está disponible para los usuarios elegibles de IronCAD Design Collaboration Suite mediante IronCAD Live Update o por descarga desde el sitio web de IronCAD."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "uxc-ai-ui-emotional-context",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI는 컴포넌트만 고른다\n감정의 맥락은 놓친다",
-      "body": "생성 UI는 부품을 맞게 써도 감정 맥락은 놓치니, 축하할지는 디자이너가 정한다.",
-      "mini_headline": "AI는 순간을 못 읽는다",
+      "headline": "Berrypicking은\nAI 단일 답보다 낫다",
+      "body": "1989년 Marcia Bates의 베리피킹 모델은 단답형 AI의 맹점을 짚는다.",
+      "mini_headline": "검색은 여전히 베리피킹이다",
       "tool": "AI Workflow",
       "source": "UX Collective",
-      "url": "https://uxdesign.cc/ai-can-generate-the-interface-what-makes-it-worth-caring-about-a5f3a3e81986",
+      "url": "https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500",
       "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "AI 도구에 작업 완료 상태를 디자인해 달라고 해 보자. 체크 표시와 친근한 메시지, 작은 색종이 효과가 나온다. 컴포넌트도 맞게 썼고 간격도 시스템과 일치한다. 애니메이션도 매끄럽다."
+            "t": "img",
+            "src": "https://miro.medium.com/v2/resize:fit:2000/1*7nKkTkUX4iDwlOFBMtt4kg.png",
+            "cap": "검색하는 사람은 흩어진 출처를 옮겨 다니며 들르는 곳마다 쓸모 있는 조각을 하나씩 줍는다."
           },
           {
             "t": "p",
-            "x": "한 작업은 누군가 몇 달 동안 출범을 준비해 온 사업의 설정을 막 끝낸 순간이다. 다른 작업은 한 관리자가 그날 아침 마흔일곱 번째 레코드를 수정한 순간이다. 컴포넌트는 일관되다. 하지만 경험은 아마 달라야 한다."
+            "x": "1989년 Marcia Bates는 사람들이 검색하면서 모으고, 방향을 틀고, 고쳐 나간다는 사실을 보여주었다. 베리피킹(berrypicking) 논문에서 그는 실제 검색이 이리저리 헤매고 모양을 바꾸며 가치를 조각조각 모은다고 주장했다. 겨냥한 대상은 질의 하나에 최적 결과 하나를 전제한 도서관 데이터베이스였다. 채팅 창도 전제는 같고, 더 빠를 뿐이다."
           },
           {
             "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:700/1*3TA1JRp7-caokhilM29rqQ.jpeg",
-            "cap": "순간마다 필요한 인정의 수준은 다르다. 이미지 출처: Kudzai Chinyadza, Celebratory Success States."
+            "src": "https://miro.medium.com/v2/resize:fit:1000/1*-BHFNiCUGikF8fnaGaP1NA.png",
+            "cap": "사람들이 검색하는 네 가지 방식."
           },
           {
             "t": "p",
-            "x": "시스템을 충실히 구현하고도 감정적으로는 어긋난 반응이 나올 수 있다. 성공 메시지가 정확하면서도 상대를 낮잡아 보는 듯할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "Mailchimp의 보이스는 한결같이 알아볼 수 있지만 톤은 독자의 상황에 맞춰 달라진다. “친근하고 재미있게 만들어 줘”라는 지시로는 정해지지 않는 게 많다. AI에게 쓸모 있는 지시는 상황을 묘사한다."
+            "x": "200,000건이 넘는 시뮬레이션 대화를 분석한 2025년 연구에서는 과제를 조각으로 나눠 주자 모든 최상위 모델의 성능이 떨어졌다. 여섯 가지 과제의 평균 하락폭은 39퍼센트였다. Bates는 29가지 검색 전술도 정리했는데, 채팅 답변은 이 전술을 버튼으로 바꿔 줄 패싯과 필터를 가린다."
           },
           {
             "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:700/1*-XcYBSSqvdEFnphJb5HiLw.jpeg",
-            "cap": "출처: Asana"
+            "src": "https://miro.medium.com/v2/resize:fit:1000/1*K8I3knsghQYE_ff9DOGSrA.png",
+            "cap": "필요에 따라 묶은 네 단계."
           },
           {
             "t": "p",
-            "x": "Asana의 축하 연출을 보면 같은 디테일이 누군가에게는 반갑고 다른 이에게는 반갑지 않을 수 있다. AI는 표현의 대안을 찾는 데 도움이 되지만, 대안을 만드는 일과 그것이 언제 반가운지 판단하는 일은 종류가 다르다."
-          },
-          {
-            "t": "p",
-            "x": "AI는 두 반응을 모두 만들 수 있다. 그래도 두 상황이 다르다는 걸 알아차리는 건 여전히 우리 몫이다."
+            "x": "그가 1990년에 내놓은 자동화 척도는 레벨 0부터 레벨 4까지인데, AI 제품 대부분은 곧장 레벨 4로 건너뛴다. 그의 계층 구조를 보면 나쁜 색인 위에 세운 유창한 답도 나쁜 답이기는 마찬가지다. Pew 조사에서 결과 클릭은 AI 요약이 있으면 8퍼센트로 떨어졌고, 없을 때는 15퍼센트였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI picks the components,\nnot the emotional context",
-          "body": "Generated UI picks the right parts but misses emotional context, so designers choose when to celebrate or stay quiet.",
-          "mini_headline": "AI can't read\nthe moment",
+          "headline": "Berrypicking still beats\nthe single AI answer",
+          "body": "Marcia Bates' 1989 berrypicking model shows searchers gather and revise across sources, a habit one-answer AI misses.",
+          "mini_headline": "Search is still berrypicking",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Imagine asking an AI tool to design a task-completion state. The result has a checkmark, a friendly message, and a small burst of confetti. It uses the right components. The spacing matches the system. The animation is polished."
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:2000/1*7nKkTkUX4iDwlOFBMtt4kg.png",
+                "cap": "A searcher moves through scattered sources, collecting one useful piece at each stop."
               },
               {
                 "t": "p",
-                "x": "In one task, someone has finished setting up a business they have spent months trying to launch. In the other, an administrator has updated the forty-seventh record of the morning. The component is consistent. The experiences should probably be different."
+                "x": "In 1989 Marcia Bates showed that people search by gathering, shifting, and revising as they go. Her berrypicking paper argued that real searches wander, change shape, and collect value in pieces. She aimed it at library databases that assumed one query and one best result. The chat box makes the same assumption, only faster."
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*3TA1JRp7-caokhilM29rqQ.jpeg",
-                "cap": "Different moments call for different levels of acknowledgment. Image credit: Kudzai Chinyadza, Celebratory Success States."
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*-BHFNiCUGikF8fnaGaP1NA.png",
+                "cap": "Four ways people search."
               },
               {
                 "t": "p",
-                "x": "But a faithful rendering of a system can still be an emotionally inappropriate response. A success message can be correct and patronizing."
-              },
-              {
-                "t": "p",
-                "x": "Mailchimp’s voice stays recognizable while its tone responds to the reader’s circumstances. “Make it friendly and playful” leaves a great deal unresolved; a more useful AI instruction describes the situation."
+                "x": "A 2025 study of more than 200,000 simulated conversations found every top model did worse when a task arrived in pieces, with an average drop of 39 percent across six tasks. Bates also named 29 search tactics, and a chat reply hides the facets and filters that could turn them into buttons."
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*-XcYBSSqvdEFnphJb5HiLw.jpeg",
-                "cap": "Credit: Asana"
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*K8I3knsghQYE_ff9DOGSrA.png",
+                "cap": "The four levels, packaged by need."
               },
               {
                 "t": "p",
-                "x": "Asana’s celebrations show the same detail can be welcome to one person and unwelcome to another. AI can help explore expressive alternatives, but producing an alternative and establishing when it is welcome are different kinds of work."
-              },
-              {
-                "t": "p",
-                "x": "AI can generate both responses. We still have to notice that the occasions are different."
+                "x": "Her 1990 automation scale runs from level 0 to level 4; most AI products jump straight to level 4. Her cascade of layers shows a fluent answer built on a bad index is still a bad answer, and Pew found result clicks fell to 8 percent with an AI summary versus 15 percent without."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI는 컴포넌트만 고른다\n감정의 맥락은 놓친다",
-          "body": "생성 UI는 부품을 맞게 써도 감정 맥락은 놓치니, 축하할지는 디자이너가 정한다.",
-          "mini_headline": "AI는 순간을 못 읽는다",
+          "headline": "Berrypicking은\nAI 단일 답보다 낫다",
+          "body": "1989년 Marcia Bates의 베리피킹 모델은 단답형 AI의 맹점을 짚는다.",
+          "mini_headline": "검색은 여전히 베리피킹이다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "AI 도구에 작업 완료 상태를 디자인해 달라고 해 보자. 체크 표시와 친근한 메시지, 작은 색종이 효과가 나온다. 컴포넌트도 맞게 썼고 간격도 시스템과 일치한다. 애니메이션도 매끄럽다."
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:2000/1*7nKkTkUX4iDwlOFBMtt4kg.png",
+                "cap": "검색하는 사람은 흩어진 출처를 옮겨 다니며 들르는 곳마다 쓸모 있는 조각을 하나씩 줍는다."
               },
               {
                 "t": "p",
-                "x": "한 작업은 누군가 몇 달 동안 출범을 준비해 온 사업의 설정을 막 끝낸 순간이다. 다른 작업은 한 관리자가 그날 아침 마흔일곱 번째 레코드를 수정한 순간이다. 컴포넌트는 일관되다. 하지만 경험은 아마 달라야 한다."
+                "x": "1989년 Marcia Bates는 사람들이 검색하면서 모으고, 방향을 틀고, 고쳐 나간다는 사실을 보여주었다. 베리피킹(berrypicking) 논문에서 그는 실제 검색이 이리저리 헤매고 모양을 바꾸며 가치를 조각조각 모은다고 주장했다. 겨냥한 대상은 질의 하나에 최적 결과 하나를 전제한 도서관 데이터베이스였다. 채팅 창도 전제는 같고, 더 빠를 뿐이다."
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*3TA1JRp7-caokhilM29rqQ.jpeg",
-                "cap": "순간마다 필요한 인정의 수준은 다르다. 이미지 출처: Kudzai Chinyadza, Celebratory Success States."
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*-BHFNiCUGikF8fnaGaP1NA.png",
+                "cap": "사람들이 검색하는 네 가지 방식."
               },
               {
                 "t": "p",
-                "x": "시스템을 충실히 구현하고도 감정적으로는 어긋난 반응이 나올 수 있다. 성공 메시지가 정확하면서도 상대를 낮잡아 보는 듯할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Mailchimp의 보이스는 한결같이 알아볼 수 있지만 톤은 독자의 상황에 맞춰 달라진다. “친근하고 재미있게 만들어 줘”라는 지시로는 정해지지 않는 게 많다. AI에게 쓸모 있는 지시는 상황을 묘사한다."
+                "x": "200,000건이 넘는 시뮬레이션 대화를 분석한 2025년 연구에서는 과제를 조각으로 나눠 주자 모든 최상위 모델의 성능이 떨어졌다. 여섯 가지 과제의 평균 하락폭은 39퍼센트였다. Bates는 29가지 검색 전술도 정리했는데, 채팅 답변은 이 전술을 버튼으로 바꿔 줄 패싯과 필터를 가린다."
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*-XcYBSSqvdEFnphJb5HiLw.jpeg",
-                "cap": "출처: Asana"
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*K8I3knsghQYE_ff9DOGSrA.png",
+                "cap": "필요에 따라 묶은 네 단계."
               },
               {
                 "t": "p",
-                "x": "Asana의 축하 연출을 보면 같은 디테일이 누군가에게는 반갑고 다른 이에게는 반갑지 않을 수 있다. AI는 표현의 대안을 찾는 데 도움이 되지만, 대안을 만드는 일과 그것이 언제 반가운지 판단하는 일은 종류가 다르다."
-              },
-              {
-                "t": "p",
-                "x": "AI는 두 반응을 모두 만들 수 있다. 그래도 두 상황이 다르다는 걸 알아차리는 건 여전히 우리 몫이다."
+                "x": "그가 1990년에 내놓은 자동화 척도는 레벨 0부터 레벨 4까지인데, AI 제품 대부분은 곧장 레벨 4로 건너뛴다. 그의 계층 구조를 보면 나쁜 색인 위에 세운 유창한 답도 나쁜 답이기는 마찬가지다. Pew 조사에서 결과 클릭은 AI 요약이 있으면 8퍼센트로 떨어졌고, 없을 때는 15퍼센트였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが選ぶのは部品まで\n感情の文脈は読めない",
-          "body": "生成UIは適切な部品を選ぶが感情の文脈を欠き、祝うか控えるかはデザイナーが決める。",
-          "mini_headline": "AIは場の空気を読めない",
+          "headline": "Berrypickingは\n今も単一のAI回答に勝る",
+          "body": "Marcia Batesの1989年のベリーピッキング論は単一回答AIの盲点を示す。",
+          "mini_headline": "検索は今もベリーピッキング",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "AIツールにタスク完了画面のデザインを頼んだとしよう。結果にはチェックマーク、親しみやすいメッセージ、小さな紙吹雪が並ぶ。コンポーネントは正しい。余白はシステムどおりだ。アニメーションも洗練されている。"
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:2000/1*7nKkTkUX4iDwlOFBMtt4kg.png",
+                "cap": "検索者は散らばった情報源を渡り歩き、立ち寄るたびに役立つ断片を一つずつ集めていく。"
               },
               {
                 "t": "p",
-                "x": "一方のタスクでは、ある人が何か月も立ち上げに取り組んできた事業の設定をようやく終えた。もう一方では、管理者がその朝四十七件目のレコードを更新した。コンポーネントは一貫している。だが体験はおそらく別物であるべきだ。"
+                "x": "1989年、Marcia Batesは、人は集め、方向を変え、修正しながら検索を進めることを示した。彼女のベリーピッキング(berrypicking)論文は、実際の検索はさまよい、形を変え、価値を少しずつ集めていくものだと論じた。対象は、一つのクエリと一つの最良の結果を前提とする図書館データベースだった。チャットボックスも同じ前提に立っている。ただ速いだけだ。"
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*3TA1JRp7-caokhilM29rqQ.jpeg",
-                "cap": "場面が違えば、ふさわしい労いの度合いも違う。画像クレジット:Kudzai Chinyadza, Celebratory Success States."
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*-BHFNiCUGikF8fnaGaP1NA.png",
+                "cap": "人が検索する四つの方法。"
               },
               {
                 "t": "p",
-                "x": "だが、システムを忠実に再現しても、感情的には不適切な応答になりうる。成功メッセージは正確でありながら、相手を見下したものにもなりうる。"
-              },
-              {
-                "t": "p",
-                "x": "Mailchimpのボイスは一貫して見分けがつく一方、トーンは読み手の状況に応じて変わる。「親しみやすく遊び心のある感じに」では多くが曖昧なまま残る。AIへのより有用な指示とは、状況を描写するものだ。"
+                "x": "200,000件を超える模擬会話を調べた2025年の研究では、タスクが断片的に与えられると、すべての上位モデルの成績が下がり、六つのタスク全体で平均39パーセント低下した。Batesは29の検索戦術も挙げているが、チャットの返答は、それらをボタンに変えられるはずのファセットやフィルターを隠してしまう。"
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*-XcYBSSqvdEFnphJb5HiLw.jpeg",
-                "cap": "クレジット:Asana"
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*K8I3knsghQYE_ff9DOGSrA.png",
+                "cap": "ニーズ別にまとめた四つのレベル。"
               },
               {
                 "t": "p",
-                "x": "Asanaのお祝い演出は、同じディテールがある人には歓迎され、別の人には疎まれうることを示している。AIは表現の選択肢を探る助けにはなるが、選択肢を生み出すことと、それがいつ歓迎されるかを見極めることは別の種類の仕事だ。"
-              },
-              {
-                "t": "p",
-                "x": "AIは両方の応答を生成できる。それでも、場面が違うと気づくのは私たちの役目だ。"
+                "x": "彼女が1990年に示した自動化の尺度はレベル0からレベル4まであるが、多くのAI製品はいきなりレベル4に飛ぶ。彼女の層のカスケードは、質の悪いインデックスの上に築かれた流暢な答えも、結局は悪い答えだと示す。Pewの調査では、AI要約がある場合の結果クリックは8パーセントに落ち、ない場合は15パーセントだった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI能挑对组件\n却读不懂情感语境",
-          "body": "生成式UI能选对组件，却不懂情感语境，何时庆祝、何时安静仍由设计师决定。",
-          "mini_headline": "AI读不懂当下",
+          "headline": "Berrypicking\n仍胜过单一 AI 答案",
+          "body": "Marcia Bates 1989 年的采莓模型揭示单一答案 AI 忽略的搜索习惯。",
+          "mini_headline": "搜索仍是采莓式的",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "设想让一款AI工具设计一个任务完成状态。结果有一个对勾、一句友好的提示，还有一小簇彩纸特效。组件用对了，间距符合系统，动画也很精致。"
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:2000/1*7nKkTkUX4iDwlOFBMtt4kg.png",
+                "cap": "搜索者穿行于分散的来源之间，每到一处就收集一块有用的信息。"
               },
               {
                 "t": "p",
-                "x": "在一个任务中，有人终于完成了筹备数月的创业项目设置；在另一个任务中，一位管理员刚更新了当天上午的第四十七条记录。组件是一致的，但体验大概应该有所不同。"
+                "x": "1989 年，Marcia Bates 指出，人们的搜索是边收集、边转向、边修正的过程。她的采莓（berrypicking）论文认为，真实的搜索会四处游走、不断变形，并以零散的方式积累价值。她针对的是那些假定只有一次查询、一个最佳结果的图书馆数据库。聊天框做出了同样的假定，只是更快。"
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*3TA1JRp7-caokhilM29rqQ.jpeg",
-                "cap": "不同的时刻需要不同程度的回应。图片来源：Kudzai Chinyadza, Celebratory Success States."
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*-BHFNiCUGikF8fnaGaP1NA.png",
+                "cap": "人们搜索的四种方式。"
               },
               {
                 "t": "p",
-                "x": "但忠实还原一套系统，仍可能给出情感上不恰当的回应。一条成功提示可以既正确又显得居高临下。"
-              },
-              {
-                "t": "p",
-                "x": "Mailchimp的品牌声音始终可辨，语气却会随读者的处境而变。“做得友好、有趣一点”留下了大量未决之处；更有用的AI指令会描述具体情境。"
+                "x": "2025 年一项涵盖超过 200,000 次模拟对话的研究发现，当任务被拆成多段给出时，每个顶尖模型的表现都会变差，在六项任务中平均下降 39%。Bates 还列出了 29 种搜索策略，而聊天回复把本可将这些策略变成按钮的分面和筛选器藏了起来。"
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*-XcYBSSqvdEFnphJb5HiLw.jpeg",
-                "cap": "来源：Asana"
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*K8I3knsghQYE_ff9DOGSrA.png",
+                "cap": "按需求打包的四个层级。"
               },
               {
                 "t": "p",
-                "x": "Asana的庆祝效果表明，同一个细节对一个人可能是惊喜，对另一个人却可能是打扰。AI可以帮助探索更具表现力的备选方案，但生成备选方案与判断它何时受欢迎，是两种不同的工作。"
-              },
-              {
-                "t": "p",
-                "x": "AI能生成两种回应。但察觉场合不同，仍是我们的事。"
+                "x": "她在 1990 年提出的自动化等级从 0 级到 4 级；大多数 AI 产品直接跳到 4 级。她的层级级联表明，建立在糟糕索引上的流畅答案依然是糟糕的答案；Pew 发现，有 AI 摘要时结果点击率降至百分之八，没有时则为百分之十五。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI elige los componentes,\nno el contexto emocional",
-          "body": "La UI generada acierta con las piezas, no con el contexto emocional, y el diseñador decide cuándo celebrar o callar.",
-          "mini_headline": "La AI no lee el momento",
+          "headline": "Berrypicking aún supera\na la respuesta única de la AI",
+          "body": "Para el berrypicking de Marcia Bates (1989), buscar es reunir y revisar fuentes, lo que la AI de respuesta única omite.",
+          "mini_headline": "Buscar sigue siendo berrypicking",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Imagina que le pides a una herramienta de AI que diseñe un estado de tarea completada. El resultado tiene una marca de verificación, un mensaje amable y una pequeña explosión de confeti. Usa los componentes correctos. El espaciado coincide con el sistema. La animación está pulida."
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:2000/1*7nKkTkUX4iDwlOFBMtt4kg.png",
+                "cap": "Quien busca recorre fuentes dispersas y recoge una pieza útil en cada parada."
               },
               {
                 "t": "p",
-                "x": "En una tarea, alguien ha terminado de configurar un negocio que llevaba meses intentando lanzar. En la otra, un administrador ha actualizado el cuadragésimo séptimo registro de la mañana. El componente es coherente. Las experiencias probablemente deberían ser distintas."
+                "x": "En 1989, Marcia Bates mostró que las personas buscan reuniendo, cambiando de rumbo y revisando sobre la marcha. Su artículo sobre el berrypicking sostenía que las búsquedas reales divagan, cambian de forma y acumulan valor por partes. Lo dirigió a las bases de datos de bibliotecas que suponían una consulta y un mejor resultado. La caja de chat hace la misma suposición, solo que más rápido."
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*3TA1JRp7-caokhilM29rqQ.jpeg",
-                "cap": "Cada momento pide un nivel distinto de reconocimiento. Crédito de la imagen: Kudzai Chinyadza, Celebratory Success States."
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*-BHFNiCUGikF8fnaGaP1NA.png",
+                "cap": "Cuatro formas en que la gente busca."
               },
               {
                 "t": "p",
-                "x": "Pero una representación fiel de un sistema puede seguir siendo una respuesta emocionalmente inadecuada. Un mensaje de éxito puede ser correcto y condescendiente."
-              },
-              {
-                "t": "p",
-                "x": "La voz de Mailchimp sigue siendo reconocible mientras su tono responde a las circunstancias del lector. “Hazlo amable y divertido” deja mucho sin resolver; una instrucción más útil para la AI describe la situación."
+                "x": "Un estudio de 2025 con más de 200,000 conversaciones simuladas halló que todos los modelos punteros rendían peor cuando una tarea llegaba por partes, con una caída media del 39 por ciento en seis tareas. Bates también nombró 29 tácticas de búsqueda, y una respuesta de chat oculta las facetas y los filtros que podrían convertirlas en botones."
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*-XcYBSSqvdEFnphJb5HiLw.jpeg",
-                "cap": "Crédito: Asana"
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*K8I3knsghQYE_ff9DOGSrA.png",
+                "cap": "Los cuatro niveles, agrupados según la necesidad."
               },
               {
                 "t": "p",
-                "x": "Las celebraciones de Asana muestran que el mismo detalle puede ser bienvenido para una persona y molesto para otra. La AI puede ayudar a explorar alternativas expresivas, pero producir una alternativa y establecer cuándo es bienvenida son trabajos distintos."
-              },
-              {
-                "t": "p",
-                "x": "La AI puede generar ambas respuestas. Aún nos toca a nosotros notar que las ocasiones son distintas."
+                "x": "Su escala de automatización de 1990 va del nivel 0 al nivel 4; la mayoría de los productos de AI saltan directamente al nivel 4. Su cascada de capas muestra que una respuesta fluida construida sobre un índice deficiente sigue siendo una mala respuesta, y Pew halló que los clics en resultados cayeron al 8 por ciento con un resumen de AI frente al 15 por ciento sin él."
               }
             ]
           }
@@ -1615,177 +909,713 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI는 컴포넌트만 고른다\n감정의 맥락은 놓친다",
-          "body": "생성 UI는 맞는 부품을 쓰지만 감정 맥락을 놓쳐 축하 여부는 디자이너 몫이다.",
-          "mini_headline": "AI는 순간을 못 읽는다",
+          "headline": "Berrypicking은\nAI 단일 답보다 낫다",
+          "body": "1989년 Marcia Bates의 베리피킹 모델은 단답형 AI의 맹점을 짚는다.",
+          "mini_headline": "검색은 여전히 베리피킹이다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "AI 도구에 작업 완료 상태를 디자인해 달라고 한다고 해 보자. 결과물에는 체크 표시와 친근한 메시지, 작은 색종이 효과가 들어 있다. 컴포넌트도 맞게 썼다. 간격은 시스템과 일치한다. 애니메이션도 매끄럽다."
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:2000/1*7nKkTkUX4iDwlOFBMtt4kg.png",
+                "cap": "검색하는 사람은 흩어진 출처를 옮겨 다니며 들르는 곳마다 쓸모 있는 조각을 하나씩 모은다."
               },
               {
                 "t": "p",
-                "x": "한 작업에서는 누군가 몇 달 동안 출범을 준비해 온 사업의 설정을 막 끝냈다. 다른 작업에서는 한 관리자가 그날 아침 마흔일곱 번째 레코드를 수정했다. 컴포넌트는 일관되다. 하지만 경험은 아마 달라야 할 것이다."
+                "x": "1989년 Marcia Bates는 사람들이 검색하면서 모으고, 방향을 바꾸고, 수정해 나간다는 사실을 보여주었다. 그녀의 베리피킹(berrypicking) 논문은 실제 검색이 이리저리 헤매고, 모양을 바꾸며, 가치를 조각조각 모은다고 주장했다. 이 논문은 하나의 질의와 하나의 최적 결과를 전제한 도서관 데이터베이스를 겨냥했다. 채팅 창도 같은 전제를 두며, 더 빠를 뿐이다."
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*3TA1JRp7-caokhilM29rqQ.jpeg",
-                "cap": "순간마다 필요한 인정의 수준은 다르다. 이미지 출처: Kudzai Chinyadza, Celebratory Success States."
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*-BHFNiCUGikF8fnaGaP1NA.png",
+                "cap": "사람들이 검색하는 네 가지 방식."
               },
               {
                 "t": "p",
-                "x": "하지만 시스템을 충실히 구현해도 감정적으로는 부적절한 반응이 될 수 있다. 성공 메시지가 정확하면서도 상대를 낮잡아 보는 듯할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Mailchimp의 보이스는 한결같이 알아볼 수 있지만, 톤은 독자의 상황에 맞춰 달라진다. “친근하고 재미있게 만들어 줘”라는 지시는 많은 것을 미결로 남긴다. 더 쓸모 있는 AI 지시는 상황을 묘사한다."
+                "x": "200,000건이 넘는 시뮬레이션 대화를 분석한 2025년 연구에 따르면, 과제가 조각으로 나뉘어 주어지면 모든 최상위 모델의 성능이 떨어졌고, 여섯 가지 과제에서 평균 39퍼센트 하락했다. Bates는 29가지 검색 전술도 정리했는데, 채팅 답변은 이를 버튼으로 바꿀 수 있는 패싯과 필터를 감춘다."
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*-XcYBSSqvdEFnphJb5HiLw.jpeg",
-                "cap": "출처: Asana"
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*K8I3knsghQYE_ff9DOGSrA.png",
+                "cap": "필요에 따라 묶은 네 단계."
               },
               {
                 "t": "p",
-                "x": "Asana의 축하 연출은 같은 디테일이 누군가에게는 반갑고 다른 이에게는 반갑지 않을 수 있음을 보여 준다. AI는 표현의 대안을 탐색하는 데 도움을 줄 수 있지만, 대안을 만드는 일과 그것이 언제 반가운지 판단하는 일은 다른 종류의 작업이다."
-              },
-              {
-                "t": "p",
-                "x": "AI는 두 반응을 모두 생성할 수 있다. 그래도 두 상황이 다르다는 것을 알아차리는 일은 여전히 우리 몫이다."
+                "x": "그녀가 1990년에 제시한 자동화 척도는 레벨 0부터 레벨 4까지 이어지는데, 대부분의 AI 제품은 곧장 레벨 4로 건너뛴다. 그녀의 계층 구조는 나쁜 색인 위에 세운 유창한 답도 여전히 나쁜 답임을 보여준다. Pew 조사에서 결과 클릭은 AI 요약이 있으면 8퍼센트로 떨어졌고, 없을 때는 15퍼센트였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが選ぶのは部品まで\n感情の文脈は読めない",
-          "body": "生成UIは適切な部品を選ぶが感情の文脈を欠き、祝うか控えるかはデザイナーが決める。",
-          "mini_headline": "AIは場の空気を読めない",
+          "headline": "Berrypickingは\n今も単一のAI回答に勝る",
+          "body": "Marcia Batesの1989年のベリーピッキング論は単一回答AIの盲点を示す。",
+          "mini_headline": "検索は今もベリーピッキング",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "AIツールにタスク完了画面のデザインを頼んだとしよう。結果にはチェックマーク、親しみやすいメッセージ、小さな紙吹雪が並ぶ。コンポーネントは正しい。余白はシステムどおりだ。アニメーションも洗練されている。"
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:2000/1*7nKkTkUX4iDwlOFBMtt4kg.png",
+                "cap": "検索者は散らばった情報源を渡り歩き、立ち寄るたびに役立つ断片を一つずつ集めていく。"
               },
               {
                 "t": "p",
-                "x": "一方のタスクでは、ある人が何か月も立ち上げに取り組んできた事業の設定をようやく終えた。もう一方では、管理者がその朝四十七件目のレコードを更新した。コンポーネントは一貫している。だが体験はおそらく別物であるべきだ。"
+                "x": "1989年、Marcia Batesは、人は集め、方向を変え、修正しながら検索を進めることを示した。彼女のベリーピッキング(berrypicking)論文は、実際の検索はさまよい、形を変え、価値を少しずつ集めていくものだと論じた。対象は、一つのクエリと一つの最良の結果を前提とする図書館データベースだった。チャットボックスも同じ前提に立っている。ただ速いだけだ。"
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*3TA1JRp7-caokhilM29rqQ.jpeg",
-                "cap": "場面が違えば、ふさわしい労いの度合いも違う。画像クレジット:Kudzai Chinyadza, Celebratory Success States."
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*-BHFNiCUGikF8fnaGaP1NA.png",
+                "cap": "人が検索する四つの方法。"
               },
               {
                 "t": "p",
-                "x": "だが、システムを忠実に再現しても、感情的には不適切な応答になりうる。成功メッセージは正確でありながら、相手を見下したものにもなりうる。"
-              },
-              {
-                "t": "p",
-                "x": "Mailchimpのボイスは一貫して見分けがつく一方、トーンは読み手の状況に応じて変わる。「親しみやすく遊び心のある感じに」では多くが曖昧なまま残る。AIへのより有用な指示とは、状況を描写するものだ。"
+                "x": "200,000件を超える模擬会話を調べた2025年の研究では、タスクが断片的に与えられると、すべての上位モデルの成績が下がり、六つのタスク全体で平均39パーセント低下した。Batesは29の検索戦術も挙げているが、チャットの返答は、それらをボタンに変えられるはずのファセットやフィルターを隠してしまう。"
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*-XcYBSSqvdEFnphJb5HiLw.jpeg",
-                "cap": "クレジット:Asana"
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*K8I3knsghQYE_ff9DOGSrA.png",
+                "cap": "ニーズ別にまとめた四つのレベル。"
               },
               {
                 "t": "p",
-                "x": "Asanaのお祝い演出は、同じディテールがある人には歓迎され、別の人には疎まれうることを示している。AIは表現の選択肢を探る助けにはなるが、選択肢を生み出すことと、それがいつ歓迎されるかを見極めることは別の種類の仕事だ。"
-              },
-              {
-                "t": "p",
-                "x": "AIは両方の応答を生成できる。それでも、場面が違うと気づくのは私たちの役目だ。"
+                "x": "彼女が1990年に示した自動化の尺度はレベル0からレベル4まであるが、多くのAI製品はいきなりレベル4に飛ぶ。彼女の層のカスケードは、質の悪いインデックスの上に築かれた流暢な答えも、結局は悪い答えだと示す。Pewの調査では、AI要約がある場合の結果クリックは8パーセントに落ち、ない場合は15パーセントだった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI能挑对组件\n却读不懂情感语境",
-          "body": "生成式UI能选对组件，却不懂情感语境，何时庆祝、何时安静仍由设计师决定。",
-          "mini_headline": "AI读不懂当下",
+          "headline": "Berrypicking\n仍胜过单一 AI 答案",
+          "body": "Marcia Bates 1989 年的采莓模型揭示单一答案 AI 忽略的搜索习惯。",
+          "mini_headline": "搜索仍是采莓式的",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "设想让一款AI工具设计一个任务完成状态。结果有一个对勾、一句友好的提示，还有一小簇彩纸特效。组件用对了，间距符合系统，动画也很精致。"
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:2000/1*7nKkTkUX4iDwlOFBMtt4kg.png",
+                "cap": "搜索者穿行于分散的来源之间，每到一处就收集一块有用的信息。"
               },
               {
                 "t": "p",
-                "x": "在一个任务中，有人终于完成了筹备数月的创业项目设置；在另一个任务中，一位管理员刚更新了当天上午的第四十七条记录。组件是一致的，但体验大概应该有所不同。"
+                "x": "1989 年，Marcia Bates 指出，人们的搜索是边收集、边转向、边修正的过程。她的采莓（berrypicking）论文认为，真实的搜索会四处游走、不断变形，并以零散的方式积累价值。她针对的是那些假定只有一次查询、一个最佳结果的图书馆数据库。聊天框做出了同样的假定，只是更快。"
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*3TA1JRp7-caokhilM29rqQ.jpeg",
-                "cap": "不同的时刻需要不同程度的回应。图片来源：Kudzai Chinyadza, Celebratory Success States."
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*-BHFNiCUGikF8fnaGaP1NA.png",
+                "cap": "人们搜索的四种方式。"
               },
               {
                 "t": "p",
-                "x": "但忠实还原一套系统，仍可能给出情感上不恰当的回应。一条成功提示可以既正确又显得居高临下。"
-              },
-              {
-                "t": "p",
-                "x": "Mailchimp的品牌声音始终可辨，语气却会随读者的处境而变。“做得友好、有趣一点”留下了大量未决之处；更有用的AI指令会描述具体情境。"
+                "x": "2025 年一项涵盖超过 200,000 次模拟对话的研究发现，当任务被拆成多段给出时，每个顶尖模型的表现都会变差，在六项任务中平均下降 39%。Bates 还列出了 29 种搜索策略，而聊天回复把本可将这些策略变成按钮的分面和筛选器藏了起来。"
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*-XcYBSSqvdEFnphJb5HiLw.jpeg",
-                "cap": "来源：Asana"
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*K8I3knsghQYE_ff9DOGSrA.png",
+                "cap": "按需求打包的四个层级。"
               },
               {
                 "t": "p",
-                "x": "Asana的庆祝效果表明，同一个细节对一个人可能是惊喜，对另一个人却可能是打扰。AI可以帮助探索更具表现力的备选方案，但生成备选方案与判断它何时受欢迎，是两种不同的工作。"
-              },
-              {
-                "t": "p",
-                "x": "AI能生成两种回应。但察觉场合不同，仍是我们的事。"
+                "x": "她在 1990 年提出的自动化等级从 0 级到 4 级；大多数 AI 产品直接跳到 4 级。她的层级级联表明，建立在糟糕索引上的流畅答案依然是糟糕的答案；Pew 发现，有 AI 摘要时结果点击率降至百分之八，没有时则为百分之十五。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI elige los componentes,\nno el contexto emocional",
-          "body": "La UI generada acierta con las piezas, no con el contexto emocional, y el diseñador decide cuándo celebrar o callar.",
-          "mini_headline": "La AI no lee el momento",
+          "headline": "Berrypicking aún supera\na la respuesta única de la AI",
+          "body": "Para el berrypicking de Marcia Bates (1989), buscar es reunir y revisar fuentes, lo que la AI de respuesta única omite.",
+          "mini_headline": "Buscar sigue siendo berrypicking",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Imagina que le pides a una herramienta de AI que diseñe un estado de tarea completada. El resultado tiene una marca de verificación, un mensaje amable y una pequeña explosión de confeti. Usa los componentes correctos. El espaciado coincide con el sistema. La animación está pulida."
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:2000/1*7nKkTkUX4iDwlOFBMtt4kg.png",
+                "cap": "Quien busca recorre fuentes dispersas y recoge una pieza útil en cada parada."
               },
               {
                 "t": "p",
-                "x": "En una tarea, alguien ha terminado de configurar un negocio que llevaba meses intentando lanzar. En la otra, un administrador ha actualizado el cuadragésimo séptimo registro de la mañana. El componente es coherente. Las experiencias probablemente deberían ser distintas."
+                "x": "En 1989, Marcia Bates mostró que las personas buscan reuniendo, cambiando de rumbo y revisando sobre la marcha. Su artículo sobre el berrypicking sostenía que las búsquedas reales divagan, cambian de forma y acumulan valor por partes. Lo dirigió a las bases de datos de bibliotecas que suponían una consulta y un mejor resultado. La caja de chat hace la misma suposición, solo que más rápido."
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*3TA1JRp7-caokhilM29rqQ.jpeg",
-                "cap": "Cada momento pide un nivel distinto de reconocimiento. Crédito de la imagen: Kudzai Chinyadza, Celebratory Success States."
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*-BHFNiCUGikF8fnaGaP1NA.png",
+                "cap": "Cuatro formas en que la gente busca."
               },
               {
                 "t": "p",
-                "x": "Pero una representación fiel de un sistema puede seguir siendo una respuesta emocionalmente inadecuada. Un mensaje de éxito puede ser correcto y condescendiente."
-              },
-              {
-                "t": "p",
-                "x": "La voz de Mailchimp sigue siendo reconocible mientras su tono responde a las circunstancias del lector. “Hazlo amable y divertido” deja mucho sin resolver; una instrucción más útil para la AI describe la situación."
+                "x": "Un estudio de 2025 con más de 200,000 conversaciones simuladas halló que todos los modelos punteros rendían peor cuando una tarea llegaba por partes, con una caída media del 39 por ciento en seis tareas. Bates también nombró 29 tácticas de búsqueda, y una respuesta de chat oculta las facetas y los filtros que podrían convertirlas en botones."
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*-XcYBSSqvdEFnphJb5HiLw.jpeg",
-                "cap": "Crédito: Asana"
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*K8I3knsghQYE_ff9DOGSrA.png",
+                "cap": "Los cuatro niveles, agrupados según la necesidad."
               },
               {
                 "t": "p",
-                "x": "Las celebraciones de Asana muestran que el mismo detalle puede ser bienvenido para una persona y molesto para otra. La AI puede ayudar a explorar alternativas expresivas, pero producir una alternativa y establecer cuándo es bienvenida son trabajos distintos."
+                "x": "Su escala de automatización de 1990 va del nivel 0 al nivel 4; la mayoría de los productos de AI saltan directamente al nivel 4. Su cascada de capas muestra que una respuesta fluida construida sobre un índice deficiente sigue siendo una mala respuesta, y Pew halló que los clics en resultados cayeron al 8 por ciento con un resumen de AI frente al 15 por ciento sin él."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "firefly-seedance-25-video",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Seedance 2.5가\nAdobe Firefly로",
+      "body": "Adobe가 Firefly에 Seedance 2.5 영상 모델을 무료로 열었다.",
+      "mini_headline": "Firefly에 Seedance 2.5",
+      "tool": "Social",
+      "source": "Adobe Firefly (YouTube)",
+      "url": "https://www.youtube.com/watch?v=dGEv6re6uYI",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "dGEv6re6uYI"
+          },
+          {
+            "t": "p",
+            "x": "눈길을 붙잡아 걸음을 멈추게 하는 디테일이다. Firefly에 들어온 Seedance 2.5로 이제 이야기를 풀어낼 수 있다. 무료로 써 볼 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Firefly는 Adobe의 크리에이티브 AI 디자인 도구다. Adobe와 파트너사 모델을 한곳에 모아 이미지, 텍스트 효과, 영상, 오디오를 만든다. 웹과 모바일에서, 또는 Photoshop, Illustrator, Express, Premiere Pro 같은 Adobe 앱 안에서 바로 쓴다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Adobe Firefly adds\nSeedance 2.5 video",
+          "body": "Adobe has made the Seedance 2.5 video model available inside its Firefly app, where it is free to try.",
+          "mini_headline": "Seedance 2.5 in Firefly",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "dGEv6re6uYI"
               },
               {
                 "t": "p",
-                "x": "La AI puede generar ambas respuestas. Aún nos toca a nosotros notar que las ocasiones son distintas."
+                "x": "Details that draw you in and stop you in your tracks. Tell your story with Seedance 2.5, now available in Firefly. Try it for free."
+              },
+              {
+                "t": "p",
+                "x": "Firefly is Adobe's creative AI design tool. It brings Adobe and partner models together in one place, so you can generate images, text effects, video, and audio on web, mobile, or inside Adobe apps like Photoshop, Illustrator, Express, and Premiere Pro."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Seedance 2.5가\nAdobe Firefly로",
+          "body": "Adobe가 Firefly에 Seedance 2.5 영상 모델을 무료로 열었다.",
+          "mini_headline": "Firefly에 Seedance 2.5",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "dGEv6re6uYI"
+              },
+              {
+                "t": "p",
+                "x": "눈길을 붙잡아 걸음을 멈추게 하는 디테일이다. Firefly에 들어온 Seedance 2.5로 이제 이야기를 풀어낼 수 있다. 무료로 써 볼 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Firefly는 Adobe의 크리에이티브 AI 디자인 도구다. Adobe와 파트너사 모델을 한곳에 모아 이미지, 텍스트 효과, 영상, 오디오를 만든다. 웹과 모바일에서, 또는 Photoshop, Illustrator, Express, Premiere Pro 같은 Adobe 앱 안에서 바로 쓴다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Seedance 2.5が\nAdobe Fireflyに",
+          "body": "AdobeがFireflyアプリにSeedance 2.5動画モデルを追加、無料で試せる。",
+          "mini_headline": "FireflyにSeedance 2.5",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "dGEv6re6uYI"
+              },
+              {
+                "t": "p",
+                "x": "目を奪い、思わず足を止めさせるディテール。Fireflyで使えるようになったSeedance 2.5で、あなたの物語を伝えよう。無料で試せる。"
+              },
+              {
+                "t": "p",
+                "x": "FireflyはAdobeのクリエイティブAIデザインツールだ。Adobeとパートナーのモデルを一か所に集めており、Web、モバイル、あるいはPhotoshop、Illustrator、Express、Premiere ProといったAdobeアプリの中で、画像、テキスト効果、動画、オーディオを生成できる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Adobe Firefly\n新增Seedance 2.5",
+          "body": "Adobe 在 Firefly 应用上线 Seedance 2.5 视频模型，可免费试用。",
+          "mini_headline": "Firefly 上线 Seedance 2.5",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "dGEv6re6uYI"
+              },
+              {
+                "t": "p",
+                "x": "细节引人入胜，让人驻足。用现已登陆 Firefly 的 Seedance 2.5 讲述你的故事。免费试用。"
+              },
+              {
+                "t": "p",
+                "x": "Firefly 是 Adobe 的创意 AI 设计工具。它将 Adobe 及合作伙伴的模型汇集一处，让你可以在网页端、移动端，或在 Photoshop、Illustrator、Express 和 Premiere Pro 等 Adobe 应用中生成图像、文字效果、视频和音频。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Adobe Firefly incorpora\nel video Seedance 2.5",
+          "body": "Adobe ha puesto el modelo de video Seedance 2.5 a disposición en su app Firefly, donde se puede probar gratis.",
+          "mini_headline": "Seedance 2.5 en Firefly",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "dGEv6re6uYI"
+              },
+              {
+                "t": "p",
+                "x": "Detalles que atrapan y te hacen detenerte. Cuenta tu historia con Seedance 2.5, ya disponible en Firefly. Pruébalo gratis."
+              },
+              {
+                "t": "p",
+                "x": "Firefly es la herramienta creativa de diseño con AI de Adobe. Reúne modelos de Adobe y de sus socios en un solo lugar, para que puedas generar imágenes, efectos de texto, video y audio en la web, en el móvil o dentro de apps de Adobe como Photoshop, Illustrator, Express y Premiere Pro."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Seedance 2.5가\nAdobe Firefly로",
+          "body": "Adobe가 Firefly에 Seedance 2.5 영상 모델을 무료로 열었다.",
+          "mini_headline": "Firefly에 Seedance 2.5",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "dGEv6re6uYI"
+              },
+              {
+                "t": "p",
+                "x": "시선을 사로잡고 걸음을 멈추게 하는 디테일이다. 이제 Firefly에서 쓸 수 있는 Seedance 2.5로 이야기를 풀어낼 수 있다. 무료로 체험할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Firefly는 Adobe의 크리에이티브 AI 디자인 도구다. Adobe와 파트너사의 모델을 한곳에 모아, 웹과 모바일, 또는 Photoshop, Illustrator, Express, Premiere Pro 같은 Adobe 앱 안에서 이미지, 텍스트 효과, 영상, 오디오를 생성할 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Seedance 2.5が\nAdobe Fireflyに",
+          "body": "AdobeがFireflyアプリにSeedance 2.5動画モデルを追加、無料で試せる。",
+          "mini_headline": "FireflyにSeedance 2.5",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "dGEv6re6uYI"
+              },
+              {
+                "t": "p",
+                "x": "目を奪い、思わず足を止めさせるディテール。Fireflyで使えるようになったSeedance 2.5で、あなたの物語を伝えよう。無料で試せる。"
+              },
+              {
+                "t": "p",
+                "x": "FireflyはAdobeのクリエイティブAIデザインツールだ。Adobeとパートナーのモデルを一か所に集めており、Web、モバイル、あるいはPhotoshop、Illustrator、Express、Premiere ProといったAdobeアプリの中で、画像、テキスト効果、動画、オーディオを生成できる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Adobe Firefly\n新增Seedance 2.5",
+          "body": "Adobe 在 Firefly 应用上线 Seedance 2.5 视频模型，可免费试用。",
+          "mini_headline": "Firefly 上线 Seedance 2.5",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "dGEv6re6uYI"
+              },
+              {
+                "t": "p",
+                "x": "细节引人入胜，让人驻足。用现已登陆 Firefly 的 Seedance 2.5 讲述你的故事。免费试用。"
+              },
+              {
+                "t": "p",
+                "x": "Firefly 是 Adobe 的创意 AI 设计工具。它将 Adobe 及合作伙伴的模型汇集一处，让你可以在网页端、移动端，或在 Photoshop、Illustrator、Express 和 Premiere Pro 等 Adobe 应用中生成图像、文字效果、视频和音频。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Adobe Firefly incorpora\nel video Seedance 2.5",
+          "body": "Adobe ha puesto el modelo de video Seedance 2.5 a disposición en su app Firefly, donde se puede probar gratis.",
+          "mini_headline": "Seedance 2.5 en Firefly",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "dGEv6re6uYI"
+              },
+              {
+                "t": "p",
+                "x": "Detalles que atrapan y te hacen detenerte. Cuenta tu historia con Seedance 2.5, ya disponible en Firefly. Pruébalo gratis."
+              },
+              {
+                "t": "p",
+                "x": "Firefly es la herramienta creativa de diseño con AI de Adobe. Reúne modelos de Adobe y de sus socios en un solo lugar, para que puedas generar imágenes, efectos de texto, video y audio en la web, en el móvil o dentro de apps de Adobe como Photoshop, Illustrator, Express y Premiere Pro."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "uxc-native-floor-components",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "네이티브는 바닥이지\n천장이 아니다",
+      "body": "AI로 광택이 흔해져도 네이티브는 Liquid Glass처럼 플랫폼 따라 바뀐다.",
+      "mini_headline": "네이티브는 바닥이다",
+      "tool": "Design Tokens",
+      "source": "UX Collective",
+      "url": "https://uxdesign.cc/native-is-a-floor-not-a-ceiling-09bc4f27ddce",
+      "accent": "#3b6bff",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://miro.medium.com/v2/resize:fit:1024/1*tmilNueBY4CBfNN99ZX5vA.jpeg",
+            "cap": "iOS 27용 Apple 디자인 키트. 모든 앱이 받는 시스템 컴포넌트다."
+          },
+          {
+            "t": "p",
+            "x": "AI 시대에 세련된 외관은 공짜다. 네이티브는 직접 그릴 수 없는 것을 주고, 시스템과 함께 움직이며, 흉내 내는 쪽보다 늘 한발 앞선다. Apple이 Liquid Glass를 도입했을 때 시스템 컴포넌트를 쓴 앱은 다시 컴파일만 해도 새 외관을 얻었지만, 컨트롤을 직접 그린 앱은 아무것도 얻지 못했다."
+          },
+          {
+            "t": "img",
+            "src": "https://miro.medium.com/v2/resize:fit:700/1*hUXaBgmYwkvMbX5QMiYcRg.png",
+            "cap": "같은 AI 모델이 같은 어린이집 앱용으로 생성한 홈 화면 두 개. 떠 있는 iOS 26 탭 바는 현재 플랫폼 관례를 따르라고 지시했을 때만 나타났다."
+          },
+          {
+            "t": "p",
+            "x": "AI 모델은 눈에 보이는 부분만 흉내 내고, 이들이 그리는 iOS는 아직 대부분 예전 모습이다. 그런데 바닥의 대부분은 동작이다. 뒤로 가기 제스처, 공유 시트, 내장 접근성, 크기가 바뀌는 텍스트가 그렇다. 컨트롤을 손으로 다시 그리면 이 모든 것을 새로 만들어야 한다."
+          },
+          {
+            "t": "p",
+            "x": "네이티브가 바로잡는 것은 가짜이지 닮은꼴이 아니다. 돋보이게 하는 일은 여전히 브랜드 몫이다. 목업을 AI로 만든다면 프롬프트에 기기와 현재 관례를 적고, 시스템 컨트롤처럼 보이는 것은 적어도 그렇게 동작하게 만들어야 한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Native is a floor,\nnot a ceiling",
+          "body": "As AI makes polish cheap, native components offer what can't be drawn and move with the platform, like Liquid Glass.",
+          "mini_headline": "Native is the floor",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*tmilNueBY4CBfNN99ZX5vA.jpeg",
+                "cap": "Apple's design kits for iOS 27, the system components every app gets."
+              },
+              {
+                "t": "p",
+                "x": "With AI, a polished look costs nothing. Native brings what can't be drawn, and it moves with the system, one step ahead of what imitates it. When Apple introduced Liquid Glass, apps using system components got the new appearance on recompiling; apps that drew their own controls got nothing."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*hUXaBgmYwkvMbX5QMiYcRg.png",
+                "cap": "Two home screens generated by the same AI model for the same daycare app: the floating iOS 26 tab bar only appeared with an instruction to follow current platform conventions."
+              },
+              {
+                "t": "p",
+                "x": "AI models imitate the system only in what can be seen, and the iOS they draw is still mostly the old one. But the floor is mostly behavior: the back gesture, the share sheet, built-in accessibility, text that scales. A control redrawn by hand has to rebuild all of that."
+              },
+              {
+                "t": "p",
+                "x": "Native fixes the fake, not the alike; standing out is still the brand's job. When the mockup comes from an AI, name the device and its current conventions in the prompt, and anything that looks like a system control should at least behave like one."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "네이티브는 바닥이지\n천장이 아니다",
+          "body": "AI로 광택이 흔해져도 네이티브는 Liquid Glass처럼 플랫폼 따라 바뀐다.",
+          "mini_headline": "네이티브는 바닥이다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*tmilNueBY4CBfNN99ZX5vA.jpeg",
+                "cap": "iOS 27용 Apple 디자인 키트. 모든 앱이 받는 시스템 컴포넌트다."
+              },
+              {
+                "t": "p",
+                "x": "AI 시대에 세련된 외관은 공짜다. 네이티브는 직접 그릴 수 없는 것을 주고, 시스템과 함께 움직이며, 흉내 내는 쪽보다 늘 한발 앞선다. Apple이 Liquid Glass를 도입했을 때 시스템 컴포넌트를 쓴 앱은 다시 컴파일만 해도 새 외관을 얻었지만, 컨트롤을 직접 그린 앱은 아무것도 얻지 못했다."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*hUXaBgmYwkvMbX5QMiYcRg.png",
+                "cap": "같은 AI 모델이 같은 어린이집 앱용으로 생성한 홈 화면 두 개. 떠 있는 iOS 26 탭 바는 현재 플랫폼 관례를 따르라고 지시했을 때만 나타났다."
+              },
+              {
+                "t": "p",
+                "x": "AI 모델은 눈에 보이는 부분만 흉내 내고, 이들이 그리는 iOS는 아직 대부분 예전 모습이다. 그런데 바닥의 대부분은 동작이다. 뒤로 가기 제스처, 공유 시트, 내장 접근성, 크기가 바뀌는 텍스트가 그렇다. 컨트롤을 손으로 다시 그리면 이 모든 것을 새로 만들어야 한다."
+              },
+              {
+                "t": "p",
+                "x": "네이티브가 바로잡는 것은 가짜이지 닮은꼴이 아니다. 돋보이게 하는 일은 여전히 브랜드 몫이다. 목업을 AI로 만든다면 프롬프트에 기기와 현재 관례를 적고, 시스템 컨트롤처럼 보이는 것은 적어도 그렇게 동작하게 만들어야 한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ネイティブは床であり\n天井ではない",
+          "body": "AIで見栄えが安くなる今、ネイティブはLiquid Glassのように基盤と共に進化する。",
+          "mini_headline": "ネイティブは床だ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*tmilNueBY4CBfNN99ZX5vA.jpeg",
+                "cap": "AppleのiOS 27向けデザインキット。どのアプリにも備わるシステムコンポーネントである。"
+              },
+              {
+                "t": "p",
+                "x": "AIを使えば、洗練された見た目にコストはかからない。ネイティブは描けないものをもたらし、システムと共に動いて、模倣するものの一歩先を行く。AppleがLiquid Glassを導入したとき、システムコンポーネントを使うアプリは再コンパイルするだけで新しい外観を得たが、独自にコントロールを描いたアプリは何も得られなかった。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*hUXaBgmYwkvMbX5QMiYcRg.png",
+                "cap": "同じ保育園アプリのために同じAIモデルが生成した二つのホーム画面。浮遊するiOS 26のタブバーは、現行のプラットフォームの慣習に従うよう指示したときにだけ現れた。"
+              },
+              {
+                "t": "p",
+                "x": "AIモデルがシステムを模倣するのは目に見える部分だけで、描かれるiOSもまだほとんどが古いものだ。だが床の大半は振る舞いである。戻るジェスチャー、共有シート、組み込みのアクセシビリティ、拡大縮小するテキストがそれにあたる。手で描き直したコントロールは、そのすべてを作り直さなければならない。"
+              },
+              {
+                "t": "p",
+                "x": "ネイティブが正すのは偽物であって、似ていることではない。目立つことは今もブランドの仕事だ。モックアップをAIで作るなら、プロンプトでデバイスとその現行の慣習を指定し、システムコントロールに見えるものは少なくともそのように振る舞うべきだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "原生是地板\n不是天花板",
+          "body": "AI 让精致变廉价，原生组件则像 Liquid Glass 一样随平台演进。",
+          "mini_headline": "原生是底线",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*tmilNueBY4CBfNN99ZX5vA.jpeg",
+                "cap": "Apple 面向 iOS 27 的设计套件，即每个应用都能获得的系统组件。"
+              },
+              {
+                "t": "p",
+                "x": "有了 AI，精致的外观不再需要成本。原生能带来画不出来的东西，并随系统一起演进，始终比模仿者领先一步。当 Apple 推出 Liquid Glass 时，使用系统组件的应用只需重新编译就获得了新外观；自己绘制控件的应用则一无所获。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*hUXaBgmYwkvMbX5QMiYcRg.png",
+                "cap": "同一个 AI 模型为同一款托儿所应用生成的两个主屏幕：只有在指示其遵循当前平台规范时，悬浮的 iOS 26 标签栏才会出现。"
+              },
+              {
+                "t": "p",
+                "x": "AI 模型只在看得见的地方模仿系统，而它们画出的 iOS 大多仍是旧版。但底线主要在于行为：返回手势、分享面板、内置的无障碍功能、可缩放的文字。手工重绘的控件必须把这一切重新做一遍。"
+              },
+              {
+                "t": "p",
+                "x": "原生纠正的是虚假，而不是相似；脱颖而出仍是品牌的任务。当原型稿出自 AI 时，要在提示词中写明设备及其当前规范，而任何看起来像系统控件的东西，至少都应当像系统控件一样运作。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Lo nativo es un suelo,\nno un techo",
+          "body": "Si la AI abarata el acabado, lo nativo aporta lo que no se dibuja y se mueve con la plataforma, como Liquid Glass.",
+          "mini_headline": "Lo nativo es el suelo",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*tmilNueBY4CBfNN99ZX5vA.jpeg",
+                "cap": "Los kits de diseño de Apple para iOS 27, los componentes del sistema que recibe toda app."
+              },
+              {
+                "t": "p",
+                "x": "Con AI, un aspecto pulido no cuesta nada. Lo nativo aporta lo que no se puede dibujar y se mueve con el sistema, un paso por delante de lo que lo imita. Cuando Apple presentó Liquid Glass, las apps que usaban componentes del sistema obtuvieron el nuevo aspecto al recompilar; las que dibujaban sus propios controles no obtuvieron nada."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*hUXaBgmYwkvMbX5QMiYcRg.png",
+                "cap": "Dos pantallas de inicio generadas por el mismo modelo de AI para la misma app de guardería: la barra de pestañas flotante de iOS 26 solo apareció con la instrucción de seguir las convenciones actuales de la plataforma."
+              },
+              {
+                "t": "p",
+                "x": "Los modelos de AI imitan el sistema solo en lo que se ve, y el iOS que dibujan sigue siendo, en su mayoría, el antiguo. Pero el suelo es sobre todo comportamiento: el gesto para volver atrás, la hoja para compartir, la accesibilidad integrada, el texto que se escala. Un control redibujado a mano tiene que reconstruir todo eso."
+              },
+              {
+                "t": "p",
+                "x": "Lo nativo corrige lo falso, no lo parecido; destacar sigue siendo tarea de la marca. Cuando la maqueta sale de una AI, nombra el dispositivo y sus convenciones actuales en el prompt, y todo lo que parezca un control del sistema debería al menos comportarse como tal."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "네이티브는 바닥이지\n천장이 아니다",
+          "body": "AI로 광택이 흔해져도 네이티브는 Liquid Glass처럼 플랫폼 따라 바뀐다.",
+          "mini_headline": "네이티브는 바닥이다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*tmilNueBY4CBfNN99ZX5vA.jpeg",
+                "cap": "iOS 27용 Apple 디자인 키트로, 모든 앱이 받는 시스템 컴포넌트다."
+              },
+              {
+                "t": "p",
+                "x": "AI가 있으면 세련된 외관에는 비용이 들지 않는다. 네이티브는 그릴 수 없는 것을 가져다주고, 시스템과 함께 움직이며, 자신을 흉내 내는 것보다 한발 앞선다. Apple이 Liquid Glass를 도입했을 때, 시스템 컴포넌트를 쓴 앱은 다시 컴파일하는 것만으로 새 외관을 얻었고, 컨트롤을 직접 그린 앱은 아무것도 얻지 못했다."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*hUXaBgmYwkvMbX5QMiYcRg.png",
+                "cap": "같은 어린이집 앱을 위해 같은 AI 모델이 생성한 두 홈 화면이다. 떠 있는 iOS 26 탭 바는 현재 플랫폼 관례를 따르라고 지시했을 때만 나타났다."
+              },
+              {
+                "t": "p",
+                "x": "AI 모델은 눈에 보이는 부분에서만 시스템을 흉내 내며, 그들이 그리는 iOS는 여전히 대부분 예전 모습이다. 하지만 바닥은 대부분 동작이다. 뒤로 가기 제스처, 공유 시트, 내장 접근성, 크기가 조절되는 텍스트가 그렇다. 손으로 다시 그린 컨트롤은 이 모든 것을 다시 만들어야 한다."
+              },
+              {
+                "t": "p",
+                "x": "네이티브가 고치는 것은 가짜이지 닮은꼴이 아니며, 돋보이는 일은 여전히 브랜드의 몫이다. 목업을 AI로 만든다면 프롬프트에 기기와 현재 관례를 명시하고, 시스템 컨트롤처럼 보이는 것은 적어도 그렇게 동작하게 해야 한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ネイティブは床であり\n天井ではない",
+          "body": "AIで見栄えが安くなる今、ネイティブはLiquid Glassのように基盤と共に進化する。",
+          "mini_headline": "ネイティブは床だ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*tmilNueBY4CBfNN99ZX5vA.jpeg",
+                "cap": "AppleのiOS 27向けデザインキット。どのアプリにも備わるシステムコンポーネントである。"
+              },
+              {
+                "t": "p",
+                "x": "AIを使えば、洗練された見た目にコストはかからない。ネイティブは描けないものをもたらし、システムと共に動いて、模倣するものの一歩先を行く。AppleがLiquid Glassを導入したとき、システムコンポーネントを使うアプリは再コンパイルするだけで新しい外観を得たが、独自にコントロールを描いたアプリは何も得られなかった。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*hUXaBgmYwkvMbX5QMiYcRg.png",
+                "cap": "同じ保育園アプリのために同じAIモデルが生成した二つのホーム画面。浮遊するiOS 26のタブバーは、現行のプラットフォームの慣習に従うよう指示したときにだけ現れた。"
+              },
+              {
+                "t": "p",
+                "x": "AIモデルがシステムを模倣するのは目に見える部分だけで、描かれるiOSもまだほとんどが古いものだ。だが床の大半は振る舞いである。戻るジェスチャー、共有シート、組み込みのアクセシビリティ、拡大縮小するテキストがそれにあたる。手で描き直したコントロールは、そのすべてを作り直さなければならない。"
+              },
+              {
+                "t": "p",
+                "x": "ネイティブが正すのは偽物であって、似ていることではない。目立つことは今もブランドの仕事だ。モックアップをAIで作るなら、プロンプトでデバイスとその現行の慣習を指定し、システムコントロールに見えるものは少なくともそのように振る舞うべきだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "原生是地板\n不是天花板",
+          "body": "AI 让精致变廉价，原生组件则像 Liquid Glass 一样随平台演进。",
+          "mini_headline": "原生是底线",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*tmilNueBY4CBfNN99ZX5vA.jpeg",
+                "cap": "Apple 面向 iOS 27 的设计套件，即每个应用都能获得的系统组件。"
+              },
+              {
+                "t": "p",
+                "x": "有了 AI，精致的外观不再需要成本。原生能带来画不出来的东西，并随系统一起演进，始终比模仿者领先一步。当 Apple 推出 Liquid Glass 时，使用系统组件的应用只需重新编译就获得了新外观；自己绘制控件的应用则一无所获。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*hUXaBgmYwkvMbX5QMiYcRg.png",
+                "cap": "同一个 AI 模型为同一款托儿所应用生成的两个主屏幕：只有在指示其遵循当前平台规范时，悬浮的 iOS 26 标签栏才会出现。"
+              },
+              {
+                "t": "p",
+                "x": "AI 模型只在看得见的地方模仿系统，而它们画出的 iOS 大多仍是旧版。但底线主要在于行为：返回手势、分享面板、内置的无障碍功能、可缩放的文字。手工重绘的控件必须把这一切重新做一遍。"
+              },
+              {
+                "t": "p",
+                "x": "原生纠正的是虚假，而不是相似；脱颖而出仍是品牌的任务。当原型稿出自 AI 时，要在提示词中写明设备及其当前规范，而任何看起来像系统控件的东西，至少都应当像系统控件一样运作。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Lo nativo es un suelo,\nno un techo",
+          "body": "Si la AI abarata el acabado, lo nativo aporta lo que no se dibuja y se mueve con la plataforma, como Liquid Glass.",
+          "mini_headline": "Lo nativo es el suelo",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*tmilNueBY4CBfNN99ZX5vA.jpeg",
+                "cap": "Los kits de diseño de Apple para iOS 27, los componentes del sistema que recibe toda app."
+              },
+              {
+                "t": "p",
+                "x": "Con AI, un aspecto pulido no cuesta nada. Lo nativo aporta lo que no se puede dibujar y se mueve con el sistema, un paso por delante de lo que lo imita. Cuando Apple presentó Liquid Glass, las apps que usaban componentes del sistema obtuvieron el nuevo aspecto al recompilar; las que dibujaban sus propios controles no obtuvieron nada."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*hUXaBgmYwkvMbX5QMiYcRg.png",
+                "cap": "Dos pantallas de inicio generadas por el mismo modelo de AI para la misma app de guardería: la barra de pestañas flotante de iOS 26 solo apareció con la instrucción de seguir las convenciones actuales de la plataforma."
+              },
+              {
+                "t": "p",
+                "x": "Los modelos de AI imitan el sistema solo en lo que se ve, y el iOS que dibujan sigue siendo, en su mayoría, el antiguo. Pero el suelo es sobre todo comportamiento: el gesto para volver atrás, la hoja para compartir, la accesibilidad integrada, el texto que se escala. Un control redibujado a mano tiene que reconstruir todo eso."
+              },
+              {
+                "t": "p",
+                "x": "Lo nativo corrige lo falso, no lo parecido; destacar sigue siendo tarea de la marca. Cuando la maqueta sale de una AI, nombra el dispositivo y sus convenciones actuales en el prompt, y todo lo que parezca un control del sistema debería al menos comportarse como tal."
               }
             ]
           }

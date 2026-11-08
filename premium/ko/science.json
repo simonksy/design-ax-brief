@@ -14783,6 +14783,143 @@
           "x": "이번 결과가 다루는 것은 전체 계산 시간이 아니라 컴퓨터가 데이터를 얼마나 자주 읽느냐다. 쓸모 있는 구조가 있는 문제라면 양자 컴퓨터가 크게 앞설 여지는 여전히 남는다."
         }
       ]
+    },
+    "science/astrogenesis-astro-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/connecting-artificial.jpg",
+          "cap": "AstroGenesis 개념도. 전문 AI 에이전트들이 통합 연구 환경 하나에서 과학 문헌과 천문 관측, 물리 기반 모델링을 잇는 방식을 보여준다. Credit: AstroGenesis team"
+        },
+        {
+          "t": "p",
+          "x": "ICRANet-Armenia 소장인 천체물리학자 Narek Sahakyan과 국제 연구팀이 다중 에이전트 AI 시스템 AstroGenesis를 개발했다. 천체물리 연구의 여러 단계를 한 환경에서 잇는 시스템이다. 논문은 arXiv에 공개됐다."
+        },
+        {
+          "t": "p",
+          "x": "연구자가 자연어로 질문하면 중앙 감독자가 전문 에이전트들에게 일을 나눈다. 한 에이전트는 과학 문헌을 찾고, 다른 에이전트는 천문 관측 자료를 가져와 분석한다. 모델링 에이전트는 물리 모델로 예측값을 계산해 관측과 맞춰 보고, 또 다른 에이전트는 해석을 돕고 연구 질문을 탐색한다."
+        },
+        {
+          "t": "video",
+          "yt": "Pgl6D4_N5YY"
+        },
+        {
+          "t": "p",
+          "x": "이론 모델링을 빠르게 하려고 연구팀은 수치 물리 모델의 결과로 신경망을 학습시킨다. 학습된 신경망은 검증된 매개변수 범위 안에서 그 예측을 빠르게 근사하므로, 연구자는 훨씬 넓은 매개변수 공간을 탐색할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Sahakyan은 AI-generated 해석을 반드시 확인하고, 관측 불확실성을 존중하며, 근사 모델을 검증해야 한다고 강조한다. \"과학적 판단은 여전히 필수적이다.\""
+        }
+      ]
+    },
+    "science/ss-dfa-optical-training": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/let-there-be-light--no.jpg",
+          "cap": "single-map 방식 시연에 쓴 광 컴퓨팅 시스템은 정보를 광신호로 바꿔 광섬유 루프에서 처리한 뒤, 다시 전기 신호로 바꿔 분석한다. Credit: 2026 Nakajima et al. CC-BY-ND"
+        },
+        {
+          "t": "p",
+          "x": "University of Tokyo(도쿄대) 등의 연구진이 물리 기반 AI를 만드는 새 방법을 개발했다. 물리 시스템이 본래 움직이는 방식을 이용해 정보를 처리하는 시스템으로, 새 방법은 구동에 드는 연산량을 크게 줄인다. 연구진은 빛으로 정보를 처리하는 광 컴퓨팅 시스템에서 이를 시연했다."
+        },
+        {
+          "t": "p",
+          "x": "Kohei Nakajima 부교수와 NTT 연구진이 포함된 팀은 SS-DFA라는 학습법에 single-map 프레임워크라는 더 단순한 네트워크 구조를 결합했다. 연구 결과는 Nature Computational Science에 실렸다."
+        },
+        {
+          "t": "p",
+          "x": "SS-DFA는 시스템의 중간 상태를 측정·기록해 역추적하지 않는다. 대신 최종 오차와 시스템 정보를 함께 써서 학습을 이끈다. 그만큼 측정과 데이터 저장, 연산 부담이 준다. single-map 구조에서는 아주 복잡한 내부 연결 없이 많은 유닛이 일반 규칙을 따른다."
+        },
+        {
+          "t": "p",
+          "x": "놀랍게도 단순해진 설계는 더 복잡한 신경망 구조와 대등했고 일부 테스트에서는 앞섰다. 필요한 연산은 훨씬 적었다. 시스템에는 200미터 광섬유와 전자 부품 몇 개가 들어간다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 앞으로 이 방법이 언어 모델, 멀티모달 모델처럼 더 큰 AI 모델에서도 통하는지 시험한다. 칩 위에 소형화하면 휴대폰, 카메라, 자율주행차 안에서 데이터를 처리할 수 있다."
+        }
+      ]
+    },
+    "science/llm-workplace-trust-penalty": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/be1996da-571f-422e-94db-f78f12f371d3/Rendition/low-res/Content/Public",
+          "cap": "조직 정책에 따라 LLMs 사용자가 받는 신뢰 불이익이 달라진다. Credit: Yochanan Bigman"
+        },
+        {
+          "t": "p",
+          "x": "Samuel Meyers가 Hebrew University of Jerusalem의 Dr. Yochanan Bigman, WHU – Otto Beisheim School of Management의 Dr. Roman Briker와 함께 이끈 연구가 The Leadership Quarterly에 실렸다. 여섯 건의 연구에 걸쳐 상사는 ChatGPT와 기타 LLMs를 쓰는 직원을 덜 신뢰했다. AI 사용이 명시적으로 금지되지 않은 경우에도 마찬가지였다."
+        },
+        {
+          "t": "p",
+          "x": "한 실험에서 일을 직접 끝낸 직원이 상사의 신뢰를 얻을 확률은 68%였고, AI를 쓴 직원은 24%에 그쳤다. 그래도 AI 사용은 표절보다는 좋게 평가됐다. 신뢰가 낮을수록 성과 평가가 나빴고 승진 적합성도 낮게 인식됐다."
+        },
+        {
+          "t": "p",
+          "x": "조직이 AI 사용을 명시적으로 장려하자 신뢰 불이익은 크게 줄어 더는 통계적으로 유의하지 않았다. 연구진은 이런 긴장 탓에 직원들이 드러나지 않는 \"shadow AI\"로 숨어들 수 있다고 경고하며, 명확한 정책과 관리자 교육을 촉구했다."
+        }
+      ]
+    },
+    "science/claude-not-x-but-y-rhetoric": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2025/04/artificial-intelligence.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Federico Boggia는 arXiv 프리프린트에서 AI-generated 텍스트의 \"not X, but Y\" 버릇 뒤에 있는 에파노르토시스(epanorthosis)를 살핀다. Cicero와 Quintilian이 correctio로 분류한, 말하던 이가 스스로 말을 바로잡는 고대 수사법이다. Boggia는 이 남용이 주로 웹 카피라이팅에서 학습되고 인간 피드백 튜닝으로 강화된다고 본다."
+        },
+        {
+          "t": "p",
+          "x": "Claude Haiku, Sonnet, Opus를 일곱 개 장르의 인간 글과 비교했더니, 모델은 연설문에서 강조형 에파노르토시스를 인간보다 두 배 넘게 썼다(만 단어당 33.5 대 14.9). 반면 비격식 Q&A에서는 인간의 오분의 일에도 못 미쳤다(1.3 대 8.2)."
+        },
+        {
+          "t": "p",
+          "x": "Qwen2.5-7B-Instruct로 학습한 LoRA 어댑터는 최대 강도에서 밀도를 61.4에서 4.7로 떨어뜨렸다. 한 문장짜리 프롬프트 지시만으로도 Claude가 쓴 연설문에서 이 표현이 사분의 삼 가까이 줄었다. 다만 이 논문은 아직 동료 심사를 거치지 않은 프리프린트이고, 실험도 소규모 파일럿이다."
+        }
+      ]
+    },
+    "science/science-ucl-reconstruct-everything": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG",
+          "cap": "Reconstruct Everything"
+        },
+        {
+          "t": "p",
+          "x": "UCL 연구진이 입자 충돌 전체를 재구성하는 첫 AI 모델을 개발했다. 실험 입자물리학의 근본 과제에 완전히 새롭게 접근한 시도다."
+        },
+        {
+          "t": "p",
+          "x": "Reconstruct Everything Model(REM)은 기존 전문 재구성 알고리즘 연쇄에 전혀 기대지 않는다. 모든 주요 검출기 시스템의 측정값에서 바로 입자를 재구성하는 첫 통합 머신러닝 프레임워크다. REM은 한발 더 나아가 W, Z, Higgs 보손 같은 더 무거운 입자도 붕괴 산물로부터 재구성한다."
+        },
+        {
+          "t": "p",
+          "x": "REM은 UCL의 Centre for Data Intensive Science and Industry에서 개발했고, CERN의 Future Circular Collider용으로 제안된 검출기의 정밀 시뮬레이션으로 검증을 마쳤다."
+        },
+        {
+          "t": "p",
+          "x": "결과가 눈에 띈다. 기존 방식보다 입자 재구성 효율은 61%에서 92%로 올랐고 제트 에너지 분해능은 52% 개선됐다. W 보손과 Z 보손을 가려내는 능력도 약 50% 나아졌다. GPU 한 대로 충돌 하나 전체를 재구성하는 데 30밀리초면 된다."
+        },
+        {
+          "t": "p",
+          "x": "REM은 성능만 좋아진 게 아니다. 따로따로 최적화한 복잡한 알고리즘 사슬을 통합 AI 프레임워크 하나로 바꾸면서, 입자물리 실험이 충돌을 재구성하고 해석하는 방식을 근본부터 다시 생각할 길이 열린다. 패러다임 전환이 될 수도 있다."
+        },
+        {
+          "t": "p",
+          "x": "연구는 Max Hart와 Kwok Yiu (Sunny) Wong이 이끌었고 Samuel Van Stroud, Philippa Duckett, Tim Scanlon, Gabriel Facini가 참여했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/styles/wysiwyg_mobile/public/2026-11/rem_overview_assign_v10_res_split_tworow_heads-1.png.jpg?itok=IjAafSLE",
+          "cap": "HEP Collision Models"
+        }
+      ]
     }
   }
 }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "section": "movies",
   "cards": [
     {
-      "id": "movies-imcore-core-studio",
+      "id": "nolan-dga-ai-studios",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Core Studio 출시\nAI 영화 에이전트 24종",
-      "body": "imCore가 TCCF에서 에이전트 24종 이상의 Core Studio를 내놨다.",
-      "mini_headline": "Core Studio 영화 에이전트 24종",
+      "headline": "놀런, AI 다음 단계\n스튜디오에 달렸다",
+      "body": "놀런은 DGA·AMPTP의 AI 안전장치를 호평하고 다음은 스튜디오 몫이라 했다.",
+      "mini_headline": "놀런 “AI는 이제 스튜디오 몫”",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/film/markets-festivals/ai-filmmaking-platform-core-studio-launches-24-agents-tccf-1236941957/",
+      "source": "TheWrap",
+      "url": "https://www.thewrap.com/creative-content/movies/christopher-nolan-previews-dgas-next-phase-of-ai-protections-its-down-to-the-studios/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,345 +19,385 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/11/imcore.jpg?w=1000&h=667&crop=1",
-            "cap": "imcore"
+            "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Christopher-Nolan-speaking.jpg",
+            "cap": "로스앤젤레스 DGA Theater Complex 무대에서 발언하는 크리스토퍼 놀런. (Credit: Vivien Killilea/Getty Images)"
           },
           {
             "t": "p",
-            "x": "대만 기술기업 imCore Corp.는 토요일 타이베이에서 열린 Taiwan Creative Content Fest(TCCF)에서 AI 영화 제작 플랫폼 Core Studio를 선보였다. 각본 개발과 스토리보드에서 이미지 생성, 편집, 색보정까지 제작 전 과정을 아우르려는 플랫폼이다."
+            "x": "크리스토퍼 놀런은 영화·TV 제작에서 AI에 맞서 “훌륭한 문구와 안전장치”를 협상해 낸 미국감독조합(Directors Guild of America, DGA)과 AMPTP를 높이 평가했다. 다만 AI와 싸우는 다음 고비는 온전히 스튜디오가 짊어져야 한다고 했다."
           },
           {
             "t": "p",
-            "x": "imCore Corp. 창업자 겸 CEO이자 TWR Entertainment 창업자인 Charles Lee는 “우리 팀은 전문 창작자에게 이미지 생성 도구 이상의 것이 필요하다는 점을 알고 있다”고 말했다."
+            "x": "“조합은 스튜디오가 자기 저작권을 지키도록 책임을 묻는 데 집중하고 있습니다. 우리가 할 수 있는 일이 아니니까요.” 2025년 가을부터 DGA 회장을 맡은 놀런이 “Hollywood Insiders” 팟캐스트에서 한 말이다. “조합에서는 극소수의 예외를 빼면 우리가 작업한 영화의 저작권자가 아닙니다. 그 일은 스튜디오의 몫입니다.”"
           },
           {
             "t": "p",
-            "x": "플랫폼의 중심에는 가상 제작진처럼 움직이는 전문 AI 에이전트 24종 이상이 있다. 스토리 개발, 에셋 생성, 시각효과, 편집, 색보정을 나눠 맡는다. 프리프로덕션에서는 Core Studio의 Story Atlas 도구가 불러온 각본을 신, 숏, 스토리보드로 쪼개고 캐릭터 디자인과 의상, 소품, 목소리 프로필이 흐트러지지 않게 관리한다."
+            "x": "그는 “AI는 너무 포괄적인 용어”라고 했다. 기업들이 이 말을 앞세워 책임을 피하지만, 공정 이용 조항 뒤에 숨는 방식은 길게 보면 “법정에서 버티지 못할 것”이라는 얘기다."
           },
           {
             "t": "p",
-            "x": "AI-generated 결과물마다 어떤 모델과 프롬프트, 파라미터를 썼는지, 비용이 얼마였는지, 사람이 어떻게 검토했는지 기록이 붙는다. Real Engine은 Real Video, Real HDR, Real Revive를 묶어 AI-generated 영상의 디테일을 살리고 색 심도를 8-bit에서 16-bit로 끌어올리며 날아간 하이라이트를 되살린다. 여러 나라의 팀이 클라우드 작업 공간에서 한 프로젝트를 함께 다룰 수도 있다."
+            "x": "놀런은 Universal이 《오디세이》(The Odyssey) 크레디트에 이 영화를 생성형 AI 모델의 학습 데이터로 수집·스크래핑·사용할 수 없다는 정형 문구를 “처음으로” 넣은 데서 힘을 얻었다고 했다."
+          },
+          {
+            "t": "video",
+            "yt": "2rSkej6t_Eo"
           },
           {
             "t": "p",
-            "x": "출시 행사에는 AI-assisted 프로젝트 네 편의 창작자들이 나와 작품을 소개했다. “God Being”을 만든 Jerry Zhou도 그중 한 명이다."
+            "x": "“우리에게는 소송과 입법을 향해 끊임없이 밀고 나가는 일입니다.” 그는 이어 “결국 남의 작품을 훔쳐 다른 용도로 쓰지 못하게 하는 것이 핵심입니다”라고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Core Studio launches with\n24 AI filmmaking agents",
-          "body": "Taiwan's imCore unveiled Core Studio at TCCF, with more than 24 agents spanning script development through production.",
-          "mini_headline": "Core Studio's 24 film agents",
+          "headline": "Nolan says next AI phase\nis down to the studios",
+          "body": "Christopher Nolan praised the DGA and AMPTP's AI guardrails and said the next phase is down to the studios.",
+          "mini_headline": "Nolan: AI now\nup to the studios",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/imcore.jpg?w=1000&h=667&crop=1",
-                "cap": "imcore"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Christopher-Nolan-speaking.jpg",
+                "cap": "Christopher Nolan speaks onstage at the DGA Theater Complex in Los Angeles. (Credit: Vivien Killilea/Getty Images)"
               },
               {
                 "t": "p",
-                "x": "Taiwanese technology company imCore Corp. launched Core Studio, an AI filmmaking platform that aims to cover the full production process, from script development and storyboarding to image generation, editing and color grading, at the Taiwan Creative Content Fest (TCCF) in Taipei on Saturday."
+                "x": "Christopher Nolan applauded the Directors Guild of America (DGA) and the AMPTP for negotiating “excellent language and guardrails” against AI in film and TV production, but said the next hurdle in the fight against AI falls squarely on the studios’ shoulders."
               },
               {
                 "t": "p",
-                "x": "“Our team understands that professional creators need more than just image-generation tools,” said Charles Lee, founder and CEO of imCore Corp. and founder of TWR Entertainment."
+                "x": "“We’re very focused at the guild about holding the studios to account for protecting their copyrights. We can’t do that,” Nolan, DGA president since fall 2025, said on the “Hollywood Insiders” podcast. “With very few exceptions in the guild, we are not the copyright holders of the films that we’ve worked on. It’s down to the studios to do that.”"
               },
               {
                 "t": "p",
-                "x": "The platform’s main draw is a set of more than 24 specialized AI agents that act as a virtual production crew, handling story development, asset generation, visual effects, editing and color grading. For pre-production, Core Studio’s Story Atlas tool breaks an imported script into scenes, shots and storyboards, and keeps character designs, costumes, props and voice profiles consistent."
+                "x": "“AI is too big a catchall term,” he said, adding that companies use it to absolve themselves of responsibility and that hiding behind fair use provisions “won’t hold up in court” longer term."
               },
               {
                 "t": "p",
-                "x": "Every AI-generated output comes with a record of the models, prompts, parameters, costs and human review results behind it. Real Engine combines Real Video, Real HDR and Real Revive to sharpen detail, raise color depth from 8-bit to 16-bit and fix blown-out highlights in AI-generated footage. A cloud workspace lets teams in different countries work on the same project."
+                "x": "Nolan said he was heartened that Universal included, “for the first time,” boilerplate in the credits of “The Odyssey” stating the film cannot be ingested, scraped or used as training data for generative AI models."
+              },
+              {
+                "t": "video",
+                "yt": "2rSkej6t_Eo"
               },
               {
                 "t": "p",
-                "x": "Creators of four AI-assisted projects presented their work at the launch, among them Jerry Zhou, the creator of “God Being.”"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Core Studio 출시\nAI 영화 에이전트 24종",
-          "body": "imCore가 TCCF에서 에이전트 24종 이상의 Core Studio를 내놨다.",
-          "mini_headline": "Core Studio 영화 에이전트 24종",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/imcore.jpg?w=1000&h=667&crop=1",
-                "cap": "imcore"
-              },
-              {
-                "t": "p",
-                "x": "대만 기술기업 imCore Corp.는 토요일 타이베이에서 열린 Taiwan Creative Content Fest(TCCF)에서 AI 영화 제작 플랫폼 Core Studio를 선보였다. 각본 개발과 스토리보드에서 이미지 생성, 편집, 색보정까지 제작 전 과정을 아우르려는 플랫폼이다."
-              },
-              {
-                "t": "p",
-                "x": "imCore Corp. 창업자 겸 CEO이자 TWR Entertainment 창업자인 Charles Lee는 “우리 팀은 전문 창작자에게 이미지 생성 도구 이상의 것이 필요하다는 점을 알고 있다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "플랫폼의 중심에는 가상 제작진처럼 움직이는 전문 AI 에이전트 24종 이상이 있다. 스토리 개발, 에셋 생성, 시각효과, 편집, 색보정을 나눠 맡는다. 프리프로덕션에서는 Core Studio의 Story Atlas 도구가 불러온 각본을 신, 숏, 스토리보드로 쪼개고 캐릭터 디자인과 의상, 소품, 목소리 프로필이 흐트러지지 않게 관리한다."
-              },
-              {
-                "t": "p",
-                "x": "AI-generated 결과물마다 어떤 모델과 프롬프트, 파라미터를 썼는지, 비용이 얼마였는지, 사람이 어떻게 검토했는지 기록이 붙는다. Real Engine은 Real Video, Real HDR, Real Revive를 묶어 AI-generated 영상의 디테일을 살리고 색 심도를 8-bit에서 16-bit로 끌어올리며 날아간 하이라이트를 되살린다. 여러 나라의 팀이 클라우드 작업 공간에서 한 프로젝트를 함께 다룰 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "출시 행사에는 AI-assisted 프로젝트 네 편의 창작자들이 나와 작품을 소개했다. “God Being”을 만든 Jerry Zhou도 그중 한 명이다."
+                "x": "“For us, it’s a constant push towards litigation and legislation,” he said. “It’s really about not allowing people to steal your work and repurpose it.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Core Studio始動\nAI映画エージェント24種",
-          "body": "imCoreがTCCFで、24を超えるエージェントを備えるCore Studioを発表した。",
-          "mini_headline": "Core Studioの映画エージェント24種",
+          "headline": "Nolan「AI次の段階は\nスタジオ次第」",
+          "body": "NolanはDGAとAMPTPのAIガードレールを評価し、次の段階はスタジオ次第だと述べた。",
+          "mini_headline": "Nolan：AIは今や\nスタジオ次第",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/imcore.jpg?w=1000&h=667&crop=1",
-                "cap": "imcore"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Christopher-Nolan-speaking.jpg",
+                "cap": "ロサンゼルスのDGA Theater Complexで登壇するChristopher Nolan。(Credit: Vivien Killilea/Getty Images)"
               },
               {
                 "t": "p",
-                "x": "台湾のテクノロジー企業imCore Corp.は土曜日、台北で開かれたTaiwan Creative Content Fest(TCCF)で、AI映画制作プラットフォームCore Studioを発表した。脚本開発や絵コンテから画像生成、編集、カラーグレーディングまで、制作工程全体をカバーすることを目指す。"
+                "x": "Christopher Nolanは、映画・TV制作におけるAIをめぐって「優れた文言とガードレール」を交渉で勝ち取ったDirectors Guild of America(DGA)とAMPTPを称賛した。一方で、AIとの闘いにおける次のハードルは完全にスタジオの肩にかかっていると述べた。"
               },
               {
                 "t": "p",
-                "x": "「私たちのチームは、プロのクリエイターには画像生成ツール以上のものが必要だと理解している」と、imCore Corp.の創業者兼CEOでTWR Entertainmentの創業者でもあるCharles Leeは述べた。"
+                "x": "「ギルドでは、スタジオに自らの著作権を守る責任を果たさせることに強く注力している。我々にはそれができないからだ」。2025年秋からDGA会長を務めるNolanは、ポッドキャスト「Hollywood Insiders」でこう語った。「ギルドのごく一部の例外を除き、我々は自分が手がけた映画の著作権者ではない。それをするのはスタジオだ」"
               },
               {
                 "t": "p",
-                "x": "プラットフォームの目玉は、仮想の制作スタッフとして機能する24以上の専門AIエージェント群で、ストーリー開発、アセット生成、視覚効果、編集、カラーグレーディングを担う。プリプロダクションでは、Core StudioのStory Atlasツールが読み込んだ脚本をシーン、ショット、絵コンテに分解し、キャラクターデザイン、衣装、小道具、音声プロファイルの一貫性を保つ。"
+                "x": "「AIはあまりにも大雑把な総称だ」と彼は述べ、企業がこの言葉を使って責任を逃れていること、フェアユース条項の陰に隠れるやり方は長期的には「法廷で通用しない」ことを付け加えた。"
               },
               {
                 "t": "p",
-                "x": "AI-generatedの出力にはすべて、その背後にあるモデル、プロンプト、パラメーター、コスト、人間によるレビュー結果の記録が付く。Real EngineはReal Video、Real HDR、Real Reviveを組み合わせ、AI-generatedの映像のディテールを鮮明にし、色深度を8-bitから16-bitに引き上げ、白飛びしたハイライトを修正する。クラウドのワークスペースでは、異なる国のチームが同じプロジェクトで作業できる。"
+                "x": "Nolanは、Universalが「初めて」『The Odyssey』のクレジットに、本作を生成AIモデルの学習データとして取り込み、スクレイピングし、利用することはできないとする定型文を入れたことに勇気づけられたと語った。"
+              },
+              {
+                "t": "video",
+                "yt": "2rSkej6t_Eo"
               },
               {
                 "t": "p",
-                "x": "発表会では四つのAI-assistedプロジェクトの制作者が作品を紹介した。その中には「God Being」の制作者Jerry Zhouもいた。"
+                "x": "「我々にとっては、訴訟と立法に向けた絶え間ない働きかけだ」と彼は言う。「要は、他人に作品を盗まれ、別の用途に転用されるのを許さないということだ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Core Studio发布\n配24个AI制片智能体",
-          "body": "台湾imCore在TCCF发布Core Studio，24个以上智能体覆盖从剧本开发到制作。",
-          "mini_headline": "Core Studio的24个电影智能体",
+          "headline": "Nolan：AI下一阶段\n要看各大制片厂",
+          "body": "Christopher Nolan肯定DGA与AMPTP的AI护栏，并称下一阶段要看制片厂。",
+          "mini_headline": "Nolan：AI如今\n看制片厂",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/imcore.jpg?w=1000&h=667&crop=1",
-                "cap": "imcore"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Christopher-Nolan-speaking.jpg",
+                "cap": "Christopher Nolan在洛杉矶DGA Theater Complex台上发言。(Credit: Vivien Killilea/Getty Images)"
               },
               {
                 "t": "p",
-                "x": "台湾科技公司imCore Corp.于周六在台北举行的Taiwan Creative Content Fest（TCCF）上推出AI电影制作平台Core Studio，目标是覆盖从剧本开发、分镜到图像生成、剪辑和调色的完整制作流程。"
+                "x": "Christopher Nolan称赞Directors Guild of America(DGA)与AMPTP在电影和TV制作中就AI谈出了“出色的条款和护栏”，但他表示，对抗AI的下一道关卡完全落在制片厂肩上。"
               },
               {
                 "t": "p",
-                "x": "“我们的团队明白，专业创作者需要的不只是图像生成工具。”imCore Corp.创始人兼CEO、TWR Entertainment创始人Charles Lee说。"
+                "x": "“我们在公会非常专注于督促制片厂为保护自己的版权负起责任。这件事我们做不到。”自2025年秋起担任DGA主席的Nolan在“Hollywood Insiders”播客中说，“除极少数例外，公会成员并不是自己参与制作的电影的版权持有人。这要靠制片厂来做。”"
               },
               {
                 "t": "p",
-                "x": "该平台的主要卖点是一组24个以上的专业AI智能体，它们充当虚拟制作团队，负责故事开发、素材生成、视觉特效、剪辑和调色。在前期制作阶段，Core Studio的Story Atlas工具会把导入的剧本拆分为场景、镜头和分镜，并保持角色设计、服装、道具和声音档案的一致。"
+                "x": "“AI这个词涵盖得太宽泛了。”他说，并补充称企业借此推卸责任，而躲在合理使用条款背后的做法长远来看“在法庭上站不住脚”。"
               },
               {
                 "t": "p",
-                "x": "每个AI-generated输出都附有其背后所用模型、提示词、参数、成本和人工审核结果的记录。Real Engine结合Real Video、Real HDR和Real Revive，可锐化AI-generated画面的细节，将色深从8-bit提升到16-bit，并修复过曝的高光。云端工作区让不同国家的团队能在同一项目上协作。"
+                "x": "Nolan表示，Universal“首次”在《The Odyssey》的片尾字幕中加入标准声明，注明该片不得被摄取、抓取或用作生成式AI模型的训练数据，这让他深受鼓舞。"
+              },
+              {
+                "t": "video",
+                "yt": "2rSkej6t_Eo"
               },
               {
                 "t": "p",
-                "x": "四个AI-assisted项目的创作者在发布会上展示了作品，其中包括“God Being”的创作者Jerry Zhou。"
+                "x": "“对我们来说，这是一场不断推动诉讼与立法的努力。”他说，“说到底，就是不让别人偷走你的作品并改作他用。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Core Studio llega con\n24 agentes de cine con AI",
-          "body": "La taiwanesa imCore presentó Core Studio en TCCF, con más de 24 agentes que abarcan del guion a la producción.",
-          "mini_headline": "Los 24 agentes de cine de Core Studio",
+          "headline": "Nolan: la próxima fase de la AI\ndepende de los estudios",
+          "body": "Christopher Nolan elogió las salvaguardas de AI del DGA y la AMPTP y dijo que la próxima fase depende de los estudios.",
+          "mini_headline": "Nolan: la AI ahora\ndepende de los estudios",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/imcore.jpg?w=1000&h=667&crop=1",
-                "cap": "imcore"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Christopher-Nolan-speaking.jpg",
+                "cap": "Christopher Nolan habla en el escenario del DGA Theater Complex en Los Ángeles. (Credit: Vivien Killilea/Getty Images)"
               },
               {
                 "t": "p",
-                "x": "La tecnológica taiwanesa imCore Corp. lanzó el sábado en el Taiwan Creative Content Fest (TCCF), en Taipéi, Core Studio, una plataforma de cine con AI que aspira a cubrir todo el proceso de producción, desde el desarrollo del guion y el storyboard hasta la generación de imágenes, la edición y la corrección de color."
+                "x": "Christopher Nolan aplaudió al Directors Guild of America (DGA) y a la AMPTP por negociar “un lenguaje y unas salvaguardas excelentes” frente a la AI en la producción de cine y TV, pero afirmó que el siguiente obstáculo en la lucha contra la AI recae de lleno sobre los hombros de los estudios."
               },
               {
                 "t": "p",
-                "x": "“Nuestro equipo entiende que los creadores profesionales necesitan algo más que herramientas de generación de imágenes”, dijo Charles Lee, fundador y CEO de imCore Corp. y fundador de TWR Entertainment."
+                "x": "“En el sindicato estamos muy centrados en exigir a los estudios que respondan por la protección de sus derechos de autor. Nosotros no podemos hacerlo”, dijo Nolan, presidente del DGA desde el otoño de 2025, en el pódcast “Hollywood Insiders”. “Salvo muy pocas excepciones en el sindicato, no somos los titulares de los derechos de autor de las películas en las que hemos trabajado. Eso les corresponde a los estudios”."
               },
               {
                 "t": "p",
-                "x": "El principal atractivo de la plataforma es un conjunto de más de 24 agentes de AI especializados que funcionan como un equipo de producción virtual y se ocupan del desarrollo de la historia, la generación de recursos, los efectos visuales, la edición y la corrección de color. Para la preproducción, la herramienta Story Atlas de Core Studio divide un guion importado en escenas, planos y storyboards, y mantiene la coherencia de los diseños de personajes, el vestuario, la utilería y los perfiles de voz."
+                "x": "“AI es un término demasiado genérico”, dijo, y añadió que las empresas lo usan para eximirse de responsabilidad y que escudarse en las disposiciones de uso legítimo “no se sostendrá en los tribunales” a largo plazo."
               },
               {
                 "t": "p",
-                "x": "Cada resultado generado con AI (AI-generated) incluye un registro de los modelos, prompts, parámetros, costos y resultados de revisión humana que lo respaldan. Real Engine combina Real Video, Real HDR y Real Revive para afinar el detalle, elevar la profundidad de color de 8-bit a 16-bit y corregir las altas luces quemadas en las imágenes AI-generated. Un espacio de trabajo en la nube permite que equipos de distintos países trabajen en el mismo proyecto."
+                "x": "Nolan dijo sentirse alentado porque Universal incluyó, “por primera vez”, en los créditos de “The Odyssey” un texto estándar que establece que la película no puede ser ingerida, extraída mediante scraping ni utilizada como datos de entrenamiento para modelos de AI generativa."
+              },
+              {
+                "t": "video",
+                "yt": "2rSkej6t_Eo"
               },
               {
                 "t": "p",
-                "x": "En el lanzamiento, los creadores de cuatro proyectos asistidos por AI (AI-assisted) presentaron su trabajo, entre ellos Jerry Zhou, creador de “God Being”."
+                "x": "“Para nosotros es un impulso constante hacia el litigio y la legislación”, dijo. “Se trata, en realidad, de no permitir que la gente robe tu trabajo y le dé otro uso”."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "놀런, AI 다음 단계\n스튜디오에 달렸다",
+          "body": "놀런은 DGA·AMPTP의 AI 안전장치를 호평하고 다음은 스튜디오 몫이라 했다.",
+          "mini_headline": "놀런 “AI는 이제 스튜디오 몫”",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Christopher-Nolan-speaking.jpg",
+                "cap": "로스앤젤레스 DGA Theater Complex 무대에서 발언하는 크리스토퍼 놀런. (Credit: Vivien Killilea/Getty Images)"
+              },
+              {
+                "t": "p",
+                "x": "크리스토퍼 놀런은 영화·TV 제작에서 AI에 맞서 “훌륭한 문구와 안전장치”를 협상해 낸 미국감독조합(Directors Guild of America, DGA)과 AMPTP를 높이 평가했다. 다만 AI와 싸우는 다음 고비는 온전히 스튜디오가 짊어져야 한다고 했다."
+              },
+              {
+                "t": "p",
+                "x": "“조합은 스튜디오가 자기 저작권을 지키도록 책임을 묻는 데 집중하고 있습니다. 우리가 할 수 있는 일이 아니니까요.” 2025년 가을부터 DGA 회장을 맡은 놀런이 “Hollywood Insiders” 팟캐스트에서 한 말이다. “조합에서는 극소수의 예외를 빼면 우리가 작업한 영화의 저작권자가 아닙니다. 그 일은 스튜디오의 몫입니다.”"
+              },
+              {
+                "t": "p",
+                "x": "그는 “AI는 너무 포괄적인 용어”라고 했다. 기업들이 이 말을 앞세워 책임을 피하지만, 공정 이용 조항 뒤에 숨는 방식은 길게 보면 “법정에서 버티지 못할 것”이라는 얘기다."
+              },
+              {
+                "t": "p",
+                "x": "놀런은 Universal이 《오디세이》(The Odyssey) 크레디트에 이 영화를 생성형 AI 모델의 학습 데이터로 수집·스크래핑·사용할 수 없다는 정형 문구를 “처음으로” 넣은 데서 힘을 얻었다고 했다."
+              },
+              {
+                "t": "video",
+                "yt": "2rSkej6t_Eo"
+              },
+              {
+                "t": "p",
+                "x": "“우리에게는 소송과 입법을 향해 끊임없이 밀고 나가는 일입니다.” 그는 이어 “결국 남의 작품을 훔쳐 다른 용도로 쓰지 못하게 하는 것이 핵심입니다”라고 말했다."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Core Studio 출시\nAI 영화 에이전트 24종",
-          "body": "imCore가 TCCF에서 에이전트 24종 이상의 Core Studio를 공개했다.",
-          "mini_headline": "Core Studio 영화 에이전트 24종",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/imcore.jpg?w=1000&h=667&crop=1",
-                "cap": "imcore"
-              },
-              {
-                "t": "p",
-                "x": "대만 기술기업 imCore Corp.는 토요일 타이베이에서 열린 Taiwan Creative Content Fest(TCCF)에서 AI 영화 제작 플랫폼 Core Studio를 선보였다. 각본 개발과 스토리보드부터 이미지 생성, 편집, 색보정까지 제작 전 과정을 아우르는 것이 목표다."
-              },
-              {
-                "t": "p",
-                "x": "“우리 팀은 전문 창작자에게 이미지 생성 도구 이상의 것이 필요하다는 점을 알고 있다”고 imCore Corp. 창업자 겸 CEO이자 TWR Entertainment 창업자인 Charles Lee가 말했다."
-              },
-              {
-                "t": "p",
-                "x": "플랫폼의 핵심은 가상 제작진 역할을 하는 24종 이상의 전문 AI 에이전트다. 이들은 스토리 개발, 에셋 생성, 시각효과, 편집, 색보정을 맡는다. 프리프로덕션 단계에서는 Core Studio의 Story Atlas 도구가 불러온 각본을 신, 숏, 스토리보드로 나누고 캐릭터 디자인과 의상, 소품, 목소리 프로필을 일관되게 유지한다."
-              },
-              {
-                "t": "p",
-                "x": "모든 AI-generated 결과물에는 그 뒤에 쓰인 모델, 프롬프트, 파라미터, 비용, 사람의 검토 결과 기록이 붙는다. Real Engine은 Real Video, Real HDR, Real Revive를 결합해 AI-generated 영상의 디테일을 살리고, 색 심도를 8-bit에서 16-bit로 높이며, 날아간 하이라이트를 바로잡는다. 클라우드 작업 공간에서는 여러 나라의 팀이 같은 프로젝트를 함께 작업할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "출시 행사에서는 AI-assisted 프로젝트 네 편의 창작자들이 작품을 소개했다. 그중에는 “God Being”을 만든 Jerry Zhou도 있었다."
-              }
-            ]
-          }
-        },
         "ja": {
-          "headline": "Core Studio始動\nAI映画エージェント24種",
-          "body": "imCoreがTCCFで、24を超えるエージェントを備えるCore Studioを発表した。",
-          "mini_headline": "Core Studioの映画エージェント24種",
+          "headline": "Nolan「AI次の段階は\nスタジオ次第」",
+          "body": "NolanはDGAとAMPTPのAIガードレールを評価し、次の段階はスタジオ次第だと述べた。",
+          "mini_headline": "Nolan：AIは今や\nスタジオ次第",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/imcore.jpg?w=1000&h=667&crop=1",
-                "cap": "imcore"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Christopher-Nolan-speaking.jpg",
+                "cap": "ロサンゼルスのDGA Theater Complexで登壇するChristopher Nolan。(Credit: Vivien Killilea/Getty Images)"
               },
               {
                 "t": "p",
-                "x": "台湾のテクノロジー企業imCore Corp.は土曜日、台北で開かれたTaiwan Creative Content Fest(TCCF)で、AI映画制作プラットフォームCore Studioを発表した。脚本開発や絵コンテから画像生成、編集、カラーグレーディングまで、制作工程全体をカバーすることを目指す。"
+                "x": "Christopher Nolanは、映画・TV制作におけるAIをめぐって「優れた文言とガードレール」を交渉で勝ち取ったDirectors Guild of America(DGA)とAMPTPを称賛した。一方で、AIとの闘いにおける次のハードルは完全にスタジオの肩にかかっていると述べた。"
               },
               {
                 "t": "p",
-                "x": "「私たちのチームは、プロのクリエイターには画像生成ツール以上のものが必要だと理解している」と、imCore Corp.の創業者兼CEOでTWR Entertainmentの創業者でもあるCharles Leeは述べた。"
+                "x": "「ギルドでは、スタジオに自らの著作権を守る責任を果たさせることに強く注力している。我々にはそれができないからだ」。2025年秋からDGA会長を務めるNolanは、ポッドキャスト「Hollywood Insiders」でこう語った。「ギルドのごく一部の例外を除き、我々は自分が手がけた映画の著作権者ではない。それをするのはスタジオだ」"
               },
               {
                 "t": "p",
-                "x": "プラットフォームの目玉は、仮想の制作スタッフとして機能する24以上の専門AIエージェント群で、ストーリー開発、アセット生成、視覚効果、編集、カラーグレーディングを担う。プリプロダクションでは、Core StudioのStory Atlasツールが読み込んだ脚本をシーン、ショット、絵コンテに分解し、キャラクターデザイン、衣装、小道具、音声プロファイルの一貫性を保つ。"
+                "x": "「AIはあまりにも大雑把な総称だ」と彼は述べ、企業がこの言葉を使って責任を逃れていること、フェアユース条項の陰に隠れるやり方は長期的には「法廷で通用しない」ことを付け加えた。"
               },
               {
                 "t": "p",
-                "x": "AI-generatedの出力にはすべて、その背後にあるモデル、プロンプト、パラメーター、コスト、人間によるレビュー結果の記録が付く。Real EngineはReal Video、Real HDR、Real Reviveを組み合わせ、AI-generatedの映像のディテールを鮮明にし、色深度を8-bitから16-bitに引き上げ、白飛びしたハイライトを修正する。クラウドのワークスペースでは、異なる国のチームが同じプロジェクトで作業できる。"
+                "x": "Nolanは、Universalが「初めて」『The Odyssey』のクレジットに、本作を生成AIモデルの学習データとして取り込み、スクレイピングし、利用することはできないとする定型文を入れたことに勇気づけられたと語った。"
+              },
+              {
+                "t": "video",
+                "yt": "2rSkej6t_Eo"
               },
               {
                 "t": "p",
-                "x": "発表会では四つのAI-assistedプロジェクトの制作者が作品を紹介した。その中には「God Being」の制作者Jerry Zhouもいた。"
+                "x": "「我々にとっては、訴訟と立法に向けた絶え間ない働きかけだ」と彼は言う。「要は、他人に作品を盗まれ、別の用途に転用されるのを許さないということだ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Core Studio发布\n配24个AI制片智能体",
-          "body": "台湾imCore在TCCF发布Core Studio，24个以上智能体覆盖从剧本开发到制作。",
-          "mini_headline": "Core Studio的24个电影智能体",
+          "headline": "Nolan：AI下一阶段\n要看各大制片厂",
+          "body": "Christopher Nolan肯定DGA与AMPTP的AI护栏，并称下一阶段要看制片厂。",
+          "mini_headline": "Nolan：AI如今\n看制片厂",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/imcore.jpg?w=1000&h=667&crop=1",
-                "cap": "imcore"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Christopher-Nolan-speaking.jpg",
+                "cap": "Christopher Nolan在洛杉矶DGA Theater Complex台上发言。(Credit: Vivien Killilea/Getty Images)"
               },
               {
                 "t": "p",
-                "x": "台湾科技公司imCore Corp.于周六在台北举行的Taiwan Creative Content Fest（TCCF）上推出AI电影制作平台Core Studio，目标是覆盖从剧本开发、分镜到图像生成、剪辑和调色的完整制作流程。"
+                "x": "Christopher Nolan称赞Directors Guild of America(DGA)与AMPTP在电影和TV制作中就AI谈出了“出色的条款和护栏”，但他表示，对抗AI的下一道关卡完全落在制片厂肩上。"
               },
               {
                 "t": "p",
-                "x": "“我们的团队明白，专业创作者需要的不只是图像生成工具。”imCore Corp.创始人兼CEO、TWR Entertainment创始人Charles Lee说。"
+                "x": "“我们在公会非常专注于督促制片厂为保护自己的版权负起责任。这件事我们做不到。”自2025年秋起担任DGA主席的Nolan在“Hollywood Insiders”播客中说，“除极少数例外，公会成员并不是自己参与制作的电影的版权持有人。这要靠制片厂来做。”"
               },
               {
                 "t": "p",
-                "x": "该平台的主要卖点是一组24个以上的专业AI智能体，它们充当虚拟制作团队，负责故事开发、素材生成、视觉特效、剪辑和调色。在前期制作阶段，Core Studio的Story Atlas工具会把导入的剧本拆分为场景、镜头和分镜，并保持角色设计、服装、道具和声音档案的一致。"
+                "x": "“AI这个词涵盖得太宽泛了。”他说，并补充称企业借此推卸责任，而躲在合理使用条款背后的做法长远来看“在法庭上站不住脚”。"
               },
               {
                 "t": "p",
-                "x": "每个AI-generated输出都附有其背后所用模型、提示词、参数、成本和人工审核结果的记录。Real Engine结合Real Video、Real HDR和Real Revive，可锐化AI-generated画面的细节，将色深从8-bit提升到16-bit，并修复过曝的高光。云端工作区让不同国家的团队能在同一项目上协作。"
+                "x": "Nolan表示，Universal“首次”在《The Odyssey》的片尾字幕中加入标准声明，注明该片不得被摄取、抓取或用作生成式AI模型的训练数据，这让他深受鼓舞。"
+              },
+              {
+                "t": "video",
+                "yt": "2rSkej6t_Eo"
               },
               {
                 "t": "p",
-                "x": "四个AI-assisted项目的创作者在发布会上展示了作品，其中包括“God Being”的创作者Jerry Zhou。"
+                "x": "“对我们来说，这是一场不断推动诉讼与立法的努力。”他说，“说到底，就是不让别人偷走你的作品并改作他用。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Core Studio llega con\n24 agentes de cine con AI",
-          "body": "La taiwanesa imCore presentó Core Studio en TCCF, con más de 24 agentes que abarcan del guion a la producción.",
-          "mini_headline": "Los 24 agentes de cine de Core Studio",
+          "headline": "Nolan: la próxima fase de la AI\ndepende de los estudios",
+          "body": "Christopher Nolan elogió las salvaguardas de AI del DGA y la AMPTP y dijo que la próxima fase depende de los estudios.",
+          "mini_headline": "Nolan: la AI ahora\ndepende de los estudios",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/imcore.jpg?w=1000&h=667&crop=1",
-                "cap": "imcore"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Christopher-Nolan-speaking.jpg",
+                "cap": "Christopher Nolan habla en el escenario del DGA Theater Complex en Los Ángeles. (Credit: Vivien Killilea/Getty Images)"
               },
               {
                 "t": "p",
-                "x": "La tecnológica taiwanesa imCore Corp. lanzó el sábado en el Taiwan Creative Content Fest (TCCF), en Taipéi, Core Studio, una plataforma de cine con AI que aspira a cubrir todo el proceso de producción, desde el desarrollo del guion y el storyboard hasta la generación de imágenes, la edición y la corrección de color."
+                "x": "Christopher Nolan aplaudió al Directors Guild of America (DGA) y a la AMPTP por negociar “un lenguaje y unas salvaguardas excelentes” frente a la AI en la producción de cine y TV, pero afirmó que el siguiente obstáculo en la lucha contra la AI recae de lleno sobre los hombros de los estudios."
               },
               {
                 "t": "p",
-                "x": "“Nuestro equipo entiende que los creadores profesionales necesitan algo más que herramientas de generación de imágenes”, dijo Charles Lee, fundador y CEO de imCore Corp. y fundador de TWR Entertainment."
+                "x": "“En el sindicato estamos muy centrados en exigir a los estudios que respondan por la protección de sus derechos de autor. Nosotros no podemos hacerlo”, dijo Nolan, presidente del DGA desde el otoño de 2025, en el pódcast “Hollywood Insiders”. “Salvo muy pocas excepciones en el sindicato, no somos los titulares de los derechos de autor de las películas en las que hemos trabajado. Eso les corresponde a los estudios”."
               },
               {
                 "t": "p",
-                "x": "El principal atractivo de la plataforma es un conjunto de más de 24 agentes de AI especializados que funcionan como un equipo de producción virtual y se ocupan del desarrollo de la historia, la generación de recursos, los efectos visuales, la edición y la corrección de color. Para la preproducción, la herramienta Story Atlas de Core Studio divide un guion importado en escenas, planos y storyboards, y mantiene la coherencia de los diseños de personajes, el vestuario, la utilería y los perfiles de voz."
+                "x": "“AI es un término demasiado genérico”, dijo, y añadió que las empresas lo usan para eximirse de responsabilidad y que escudarse en las disposiciones de uso legítimo “no se sostendrá en los tribunales” a largo plazo."
               },
               {
                 "t": "p",
-                "x": "Cada resultado generado con AI (AI-generated) incluye un registro de los modelos, prompts, parámetros, costos y resultados de revisión humana que lo respaldan. Real Engine combina Real Video, Real HDR y Real Revive para afinar el detalle, elevar la profundidad de color de 8-bit a 16-bit y corregir las altas luces quemadas en las imágenes AI-generated. Un espacio de trabajo en la nube permite que equipos de distintos países trabajen en el mismo proyecto."
+                "x": "Nolan dijo sentirse alentado porque Universal incluyó, “por primera vez”, en los créditos de “The Odyssey” un texto estándar que establece que la película no puede ser ingerida, extraída mediante scraping ni utilizada como datos de entrenamiento para modelos de AI generativa."
+              },
+              {
+                "t": "video",
+                "yt": "2rSkej6t_Eo"
               },
               {
                 "t": "p",
-                "x": "En el lanzamiento, los creadores de cuatro proyectos asistidos por AI (AI-assisted) presentaron su trabajo, entre ellos Jerry Zhou, creador de “God Being”."
+                "x": "“Para nosotros es un impulso constante hacia el litigio y la legislación”, dijo. “Se trata, en realidad, de no permitir que la gente robe tu trabajo y le dé otro uso”."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "놀런, AI 다음 단계\n스튜디오에 달렸다",
+          "body": "놀런은 DGA·AMPTP의 AI 안전장치를 호평하고 다음은 스튜디오 몫이라 했다.",
+          "mini_headline": "놀런 “AI는 이제 스튜디오 몫”",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Christopher-Nolan-speaking.jpg",
+                "cap": "크리스토퍼 놀런이 로스앤젤레스 DGA Theater Complex 무대에서 발언하고 있다. (Credit: Vivien Killilea/Getty Images)"
+              },
+              {
+                "t": "p",
+                "x": "크리스토퍼 놀런은 영화·TV 제작에서 AI에 맞서 “훌륭한 문구와 안전장치”를 협상해 낸 미국감독조합(Directors Guild of America, DGA)과 AMPTP를 높이 평가했다. 다만 AI와의 싸움에서 다음 고비는 전적으로 스튜디오가 짊어져야 한다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "“조합은 스튜디오가 자기 저작권을 지키도록 책임을 묻는 데 집중하고 있습니다. 우리가 할 수 있는 일이 아니니까요.” 2025년 가을부터 DGA 회장을 맡고 있는 놀런은 “Hollywood Insiders” 팟캐스트에서 이렇게 말했다. “조합에서는 극소수의 예외를 빼면 우리가 작업한 영화의 저작권자가 아닙니다. 그 일은 스튜디오의 몫입니다.”"
+              },
+              {
+                "t": "p",
+                "x": "그는 “AI는 너무 포괄적인 용어”라며, 기업들이 이 말을 내세워 책임을 피하고 있고 공정 이용 조항 뒤에 숨는 방식은 길게 보면 “법정에서 버티지 못할 것”이라고 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "놀런은 Universal이 《오디세이》(The Odyssey) 크레디트에 이 영화를 생성형 AI 모델의 학습 데이터로 수집·스크래핑·사용할 수 없다는 정형 문구를 “처음으로” 넣은 데 고무됐다고 말했다."
+              },
+              {
+                "t": "video",
+                "yt": "2rSkej6t_Eo"
+              },
+              {
+                "t": "p",
+                "x": "“우리에게는 소송과 입법을 향해 끊임없이 밀고 나가는 일입니다.” 그는 이렇게 말했다. “결국 남의 작품을 훔쳐 다른 용도로 쓰지 못하게 하는 것이 핵심입니다.”"
               }
             ]
           }
@@ -365,291 +405,701 @@
       }
     },
     {
-      "id": "hotsea-melochu-anime",
+      "id": "olm-animins-ai-coloring",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Pokemon의 OLM\n세 프레임으로 AI 채색",
+      "body": "OLM Digital이 ANIMINS에서 세 프레임만 익히는 AI 채색을 공개했다.",
+      "mini_headline": "OLM, 세 프레임으로\n애니 채색",
+      "tool": "Movies",
+      "source": "Variety",
+      "url": "https://variety.com/2026/tv/markets-festivals/pokemon-anime-studio-olm-ai-coloring-tool-three-frames-1236942198/",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://variety.com/wp-content/uploads/2026/11/TCCF-AI-animation.jpg",
+            "cap": "Naman Ramachandran"
+          },
+          {
+            "t": "p",
+            "x": "“Pokemon” 애니메이션 시리즈와 영화를 만든 일본 애니메이션 그룹 OLM이 손으로 칠한 프레임 세 장만 보고 작품 화풍을 익히는 AI 채색 도구를 만들었다. OLM Digital 이사 Yotsukura Tatsuo가 타이베이 Taiwan Creative Content Fest(TCCF)에서 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "도구는 일본 경제산업성이 감독하는 생성형 AI 프로그램 GENIAC의 15개월 연구 프로젝트 ANIMINS에서 나왔다. 아티스트가 프레임 세 장을 손으로 칠하면 시스템이 약 90초 만에 작품의 선 모양과 팔레트를 익히고, 남은 프레임을 장당 약 15초에 칠한다."
+          },
+          {
+            "t": "p",
+            "x": "Yotsukura는 “엄밀히 말해 생성형 AI는 아닙니다”라고 했다. 해당 작품의 프레임만 학습하니 다른 작품에 피해가 가지 않고, 개념 검증 단계에서 채색 작업량이 약 30% 줄었다."
+          },
+          {
+            "t": "p",
+            "x": "Toon Boom의 Ember 채색 베타도 막바지다. 마닐라의 한 스튜디오는 90초에서 이 분짜리 장면의 채색 시간을 15시간에서 두세 시간으로 줄였다. Blue Spirit의 Charles Beirnaert는 자사가 Netflix의 “Blue Eye Samurai”에 AI를 전혀 쓰지 않는다고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "Yotsukura는 “앞으로 ‘AI를 쓰지 않는다’는 선택지는 아마 더는 없을 것이라고 생각합니다”라고 했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Pokemon studio OLM trains\nAI coloring on three frames",
+          "body": "OLM Digital showed an AI coloring tool trained on just three frames under Japan's state-backed ANIMINS project.",
+          "mini_headline": "OLM colors anime\nfrom three frames",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/11/TCCF-AI-animation.jpg",
+                "cap": "Naman Ramachandran"
+              },
+              {
+                "t": "p",
+                "x": "OLM, the Japanese animation group behind the “Pokemon” anime series and films, has developed an AI coloring tool that picks up a show’s look from just three hand-painted frames, OLM Digital board director Yotsukura Tatsuo said at the Taiwan Creative Content Fest (TCCF) in Taipei."
+              },
+              {
+                "t": "p",
+                "x": "The tool came out of ANIMINS, a 15-month research project under GENIAC, a generative AI program overseen by Japan’s Ministry of Economy, Trade and Industry. An artist colors three frames by hand; the system learns the show’s line shapes and palette in about 90 seconds, then colors each remaining frame in around 15 seconds."
+              },
+              {
+                "t": "p",
+                "x": "“Strictly speaking, it isn’t generative AI,” Yotsukura said. Training only on a production’s own frames means no other works are harmed, and at proof-of-concept stage it has cut painting workload by around 30%."
+              },
+              {
+                "t": "p",
+                "x": "Toon Boom’s Ember coloring beta is wrapping up; one Manila studio cut painting on a 90-second-to-two-minute scene from 15 hours to two or three. Blue Spirit’s Charles Beirnaert said the studio uses no AI on Netflix’s “Blue Eye Samurai.”"
+              },
+              {
+                "t": "p",
+                "x": "“I think ‘not using AI’ is probably no longer an option from here on,” Yotsukura said."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Pokemon의 OLM\n세 프레임으로 AI 채색",
+          "body": "OLM Digital이 ANIMINS에서 세 프레임만 익히는 AI 채색을 공개했다.",
+          "mini_headline": "OLM, 세 프레임으로\n애니 채색",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/11/TCCF-AI-animation.jpg",
+                "cap": "Naman Ramachandran"
+              },
+              {
+                "t": "p",
+                "x": "“Pokemon” 애니메이션 시리즈와 영화를 만든 일본 애니메이션 그룹 OLM이 손으로 칠한 프레임 세 장만 보고 작품 화풍을 익히는 AI 채색 도구를 만들었다. OLM Digital 이사 Yotsukura Tatsuo가 타이베이 Taiwan Creative Content Fest(TCCF)에서 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "도구는 일본 경제산업성이 감독하는 생성형 AI 프로그램 GENIAC의 15개월 연구 프로젝트 ANIMINS에서 나왔다. 아티스트가 프레임 세 장을 손으로 칠하면 시스템이 약 90초 만에 작품의 선 모양과 팔레트를 익히고, 남은 프레임을 장당 약 15초에 칠한다."
+              },
+              {
+                "t": "p",
+                "x": "Yotsukura는 “엄밀히 말해 생성형 AI는 아닙니다”라고 했다. 해당 작품의 프레임만 학습하니 다른 작품에 피해가 가지 않고, 개념 검증 단계에서 채색 작업량이 약 30% 줄었다."
+              },
+              {
+                "t": "p",
+                "x": "Toon Boom의 Ember 채색 베타도 막바지다. 마닐라의 한 스튜디오는 90초에서 이 분짜리 장면의 채색 시간을 15시간에서 두세 시간으로 줄였다. Blue Spirit의 Charles Beirnaert는 자사가 Netflix의 “Blue Eye Samurai”에 AI를 전혀 쓰지 않는다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "Yotsukura는 “앞으로 ‘AI를 쓰지 않는다’는 선택지는 아마 더는 없을 것이라고 생각합니다”라고 했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "PokemonのOLM、\nAI彩色を三枚で学習",
+          "body": "OLM Digitalが国主導のANIMINSで三枚のみから学ぶAI彩色ツールを示した。",
+          "mini_headline": "OLM、三枚から\nアニメを彩色",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/11/TCCF-AI-animation.jpg",
+                "cap": "Naman Ramachandran"
+              },
+              {
+                "t": "p",
+                "x": "アニメシリーズおよび映画「Pokemon」を手がける日本のアニメーショングループOLMは、手塗りのフレーム三枚だけから作品のルックを習得するAI彩色ツールを開発した。OLM Digitalの取締役Yotsukura Tatsuoが、台北で開かれたTaiwan Creative Content Fest(TCCF)で明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "このツールは、経済産業省が所管する生成AIプログラムGENIACのもとで行われた15か月の研究プロジェクトANIMINSから生まれた。アーティストが三枚のフレームを手で塗ると、システムが約90秒で作品の線の形とパレットを学習し、残りのフレームを一枚あたり約15秒で彩色する。"
+              },
+              {
+                "t": "p",
+                "x": "「厳密に言えば、生成AIではない」とYotsukuraは言う。その作品自身のフレームだけで学習するため他の作品を損なうことはなく、概念実証の段階で彩色の作業量を約30%削減した。"
+              },
+              {
+                "t": "p",
+                "x": "Toon BoomのEmber彩色ベータ版は終盤を迎えている。マニラのあるスタジオは、90秒から二分のシーンの彩色時間を15時間から二、三時間に短縮した。Blue SpiritのCharles Beirnaertは、同スタジオがNetflixの『Blue Eye Samurai』でAIを一切使っていないと語った。"
+              },
+              {
+                "t": "p",
+                "x": "「これからは『AIを使わない』という選択肢は、おそらくもうないと思う」とYotsukuraは語った。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Pokemon制作方OLM\n用三帧训练AI上色",
+          "body": "OLM Digital展示了在日本官方支持的ANIMINS项目下仅用三帧训练的AI上色工具。",
+          "mini_headline": "OLM用三帧\n为动画上色",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/11/TCCF-AI-animation.jpg",
+                "cap": "Naman Ramachandran"
+              },
+              {
+                "t": "p",
+                "x": "打造“Pokemon”动画系列及电影的日本动画集团OLM开发了一款AI上色工具，只需三帧手绘上色画面即可掌握作品的画面风格。OLM Digital董事Yotsukura Tatsuo在台北举行的Taiwan Creative Content Fest(TCCF)上透露了这一消息。"
+              },
+              {
+                "t": "p",
+                "x": "该工具源自ANIMINS——日本经济产业省监管的生成式AI计划GENIAC旗下一项为期15个月的研究项目。艺术家先手工为三帧上色，系统约90秒即可学会作品的线条形态与配色，随后每帧约15秒完成其余画面的上色。"
+              },
+              {
+                "t": "p",
+                "x": "“严格来说，这不是生成式AI。”Yotsukura说。由于只用该作品自身的画面训练，不会损害其他作品；在概念验证阶段，它已将上色工作量减少约30%。"
+              },
+              {
+                "t": "p",
+                "x": "Toon Boom的Ember上色测试版即将结束；马尼拉一家工作室将一段90秒到两分钟场景的上色时间从15小时缩短到两三个小时。Blue Spirit的Charles Beirnaert表示，该工作室在Netflix的《Blue Eye Samurai》中没有使用任何AI。"
+              },
+              {
+                "t": "p",
+                "x": "“我认为从今往后，‘不用AI’大概已经不再是一个选项了。”Yotsukura说。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "OLM, de Pokemon, entrena su AI\nde color con tres fotogramas",
+          "body": "OLM Digital mostró una herramienta de color con AI entrenada con solo tres fotogramas en el proyecto estatal ANIMINS.",
+          "mini_headline": "OLM colorea anime\ncon tres fotogramas",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/11/TCCF-AI-animation.jpg",
+                "cap": "Naman Ramachandran"
+              },
+              {
+                "t": "p",
+                "x": "OLM, el grupo de animación japonés detrás de la serie y las películas de anime “Pokemon”, ha desarrollado una herramienta de coloreado con AI que capta el estilo de una serie a partir de solo tres fotogramas pintados a mano, según explicó Yotsukura Tatsuo, director del consejo de OLM Digital, en el Taiwan Creative Content Fest (TCCF) de Taipéi."
+              },
+              {
+                "t": "p",
+                "x": "La herramienta surgió de ANIMINS, un proyecto de investigación de 15 meses dentro de GENIAC, un programa de AI generativa supervisado por el Ministerio de Economía, Comercio e Industria de Japón. Un artista colorea tres fotogramas a mano; el sistema aprende las formas de línea y la paleta de la serie en unos 90 segundos y luego colorea cada fotograma restante en unos 15 segundos."
+              },
+              {
+                "t": "p",
+                "x": "“En sentido estricto, no es AI generativa”, dijo Yotsukura. Al entrenarse solo con los fotogramas de la propia producción, no se perjudica a otras obras, y en la fase de prueba de concepto ha reducido la carga de trabajo de pintura en torno a un 30%."
+              },
+              {
+                "t": "p",
+                "x": "La beta de coloreado Ember de Toon Boom está terminando; un estudio de Manila redujo el tiempo de pintura de una escena de entre 90 segundos y dos minutos de 15 horas a dos o tres. Charles Beirnaert, de Blue Spirit, dijo que el estudio no usa AI en “Blue Eye Samurai”, de Netflix."
+              },
+              {
+                "t": "p",
+                "x": "“Creo que ‘no usar AI’ probablemente ya no sea una opción a partir de ahora”, dijo Yotsukura."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Pokemon의 OLM\n세 프레임으로 AI 채색",
+          "body": "OLM Digital이 ANIMINS에서 세 프레임 학습 AI 채색을 공개했다.",
+          "mini_headline": "OLM, 세 프레임으로\n애니 채색",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/11/TCCF-AI-animation.jpg",
+                "cap": "Naman Ramachandran"
+              },
+              {
+                "t": "p",
+                "x": "“Pokemon” 애니메이션 시리즈와 영화를 만든 일본 애니메이션 그룹 OLM이 손으로 칠한 프레임 세 장만으로 작품의 화풍을 익히는 AI 채색 도구를 개발했다. OLM Digital 이사 Yotsukura Tatsuo가 타이베이에서 열린 Taiwan Creative Content Fest(TCCF)에서 밝힌 내용이다."
+              },
+              {
+                "t": "p",
+                "x": "이 도구는 일본 경제산업성이 감독하는 생성형 AI 프로그램 GENIAC 산하의 15개월 연구 프로젝트 ANIMINS에서 나왔다. 아티스트가 프레임 세 장을 손으로 칠하면 시스템이 약 90초 만에 작품의 선 모양과 팔레트를 익히고, 나머지 프레임을 장당 약 15초에 채색한다."
+              },
+              {
+                "t": "p",
+                "x": "“엄밀히 말해 생성형 AI는 아닙니다.” Yotsukura의 말이다. 해당 작품의 프레임만 학습하므로 다른 작품에 피해가 가지 않으며, 개념 검증 단계에서 채색 작업량을 약 30% 줄였다."
+              },
+              {
+                "t": "p",
+                "x": "Toon Boom의 Ember 채색 베타는 마무리 단계다. 마닐라의 한 스튜디오는 90초에서 이 분 길이의 장면 채색 시간을 15시간에서 두세 시간으로 줄였다. Blue Spirit의 Charles Beirnaert는 이 스튜디오가 Netflix의 “Blue Eye Samurai”에 AI를 전혀 쓰지 않는다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "“앞으로 ‘AI를 쓰지 않는다’는 선택지는 아마 더는 없을 것이라고 생각합니다.” Yotsukura의 말이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "PokemonのOLM、\nAI彩色を三枚で学習",
+          "body": "OLM Digitalが国主導のANIMINSで三枚のみから学ぶAI彩色ツールを示した。",
+          "mini_headline": "OLM、三枚から\nアニメを彩色",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/11/TCCF-AI-animation.jpg",
+                "cap": "Naman Ramachandran"
+              },
+              {
+                "t": "p",
+                "x": "アニメシリーズおよび映画「Pokemon」を手がける日本のアニメーショングループOLMは、手塗りのフレーム三枚だけから作品のルックを習得するAI彩色ツールを開発した。OLM Digitalの取締役Yotsukura Tatsuoが、台北で開かれたTaiwan Creative Content Fest(TCCF)で明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "このツールは、経済産業省が所管する生成AIプログラムGENIACのもとで行われた15か月の研究プロジェクトANIMINSから生まれた。アーティストが三枚のフレームを手で塗ると、システムが約90秒で作品の線の形とパレットを学習し、残りのフレームを一枚あたり約15秒で彩色する。"
+              },
+              {
+                "t": "p",
+                "x": "「厳密に言えば、生成AIではない」とYotsukuraは言う。その作品自身のフレームだけで学習するため他の作品を損なうことはなく、概念実証の段階で彩色の作業量を約30%削減した。"
+              },
+              {
+                "t": "p",
+                "x": "Toon BoomのEmber彩色ベータ版は終盤を迎えている。マニラのあるスタジオは、90秒から二分のシーンの彩色時間を15時間から二、三時間に短縮した。Blue SpiritのCharles Beirnaertは、同スタジオがNetflixの『Blue Eye Samurai』でAIを一切使っていないと語った。"
+              },
+              {
+                "t": "p",
+                "x": "「これからは『AIを使わない』という選択肢は、おそらくもうないと思う」とYotsukuraは語った。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Pokemon制作方OLM\n用三帧训练AI上色",
+          "body": "OLM Digital展示了在日本官方支持的ANIMINS项目下仅用三帧训练的AI上色工具。",
+          "mini_headline": "OLM用三帧\n为动画上色",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/11/TCCF-AI-animation.jpg",
+                "cap": "Naman Ramachandran"
+              },
+              {
+                "t": "p",
+                "x": "打造“Pokemon”动画系列及电影的日本动画集团OLM开发了一款AI上色工具，只需三帧手绘上色画面即可掌握作品的画面风格。OLM Digital董事Yotsukura Tatsuo在台北举行的Taiwan Creative Content Fest(TCCF)上透露了这一消息。"
+              },
+              {
+                "t": "p",
+                "x": "该工具源自ANIMINS——日本经济产业省监管的生成式AI计划GENIAC旗下一项为期15个月的研究项目。艺术家先手工为三帧上色，系统约90秒即可学会作品的线条形态与配色，随后每帧约15秒完成其余画面的上色。"
+              },
+              {
+                "t": "p",
+                "x": "“严格来说，这不是生成式AI。”Yotsukura说。由于只用该作品自身的画面训练，不会损害其他作品；在概念验证阶段，它已将上色工作量减少约30%。"
+              },
+              {
+                "t": "p",
+                "x": "Toon Boom的Ember上色测试版即将结束；马尼拉一家工作室将一段90秒到两分钟场景的上色时间从15小时缩短到两三个小时。Blue Spirit的Charles Beirnaert表示，该工作室在Netflix的《Blue Eye Samurai》中没有使用任何AI。"
+              },
+              {
+                "t": "p",
+                "x": "“我认为从今往后，‘不用AI’大概已经不再是一个选项了。”Yotsukura说。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "OLM, de Pokemon, entrena su AI\nde color con tres fotogramas",
+          "body": "OLM Digital mostró una herramienta de color con AI entrenada con solo tres fotogramas en el proyecto estatal ANIMINS.",
+          "mini_headline": "OLM colorea anime\ncon tres fotogramas",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/11/TCCF-AI-animation.jpg",
+                "cap": "Naman Ramachandran"
+              },
+              {
+                "t": "p",
+                "x": "OLM, el grupo de animación japonés detrás de la serie y las películas de anime “Pokemon”, ha desarrollado una herramienta de coloreado con AI que capta el estilo de una serie a partir de solo tres fotogramas pintados a mano, según explicó Yotsukura Tatsuo, director del consejo de OLM Digital, en el Taiwan Creative Content Fest (TCCF) de Taipéi."
+              },
+              {
+                "t": "p",
+                "x": "La herramienta surgió de ANIMINS, un proyecto de investigación de 15 meses dentro de GENIAC, un programa de AI generativa supervisado por el Ministerio de Economía, Comercio e Industria de Japón. Un artista colorea tres fotogramas a mano; el sistema aprende las formas de línea y la paleta de la serie en unos 90 segundos y luego colorea cada fotograma restante en unos 15 segundos."
+              },
+              {
+                "t": "p",
+                "x": "“En sentido estricto, no es AI generativa”, dijo Yotsukura. Al entrenarse solo con los fotogramas de la propia producción, no se perjudica a otras obras, y en la fase de prueba de concepto ha reducido la carga de trabajo de pintura en torno a un 30%."
+              },
+              {
+                "t": "p",
+                "x": "La beta de coloreado Ember de Toon Boom está terminando; un estudio de Manila redujo el tiempo de pintura de una escena de entre 90 segundos y dos minutos de 15 horas a dos o tres. Charles Beirnaert, de Blue Spirit, dijo que el estudio no usa AI en “Blue Eye Samurai”, de Netflix."
+              },
+              {
+                "t": "p",
+                "x": "“Creo que ‘no usar AI’ probablemente ya no sea una opción a partir de ahora”, dijo Yotsukura."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "china-ai-shortdrama-crackdown",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "AI로 만든 애니\n멜로츄 첫 편 공개",
-      "body": "뜨거운바다가 생성형 AI로 제작한 오리지널 애니 첫 편을 공개했다.",
-      "mini_headline": "AI 애니 멜로츄 공개",
+      "headline": "중국, AI 숏폼 드라마\n연말까지 집중단속",
+      "body": "중국 정부가 AI를 악용한 저질·선정적 숏폼 드라마를 연말까지 특별단속한다.",
+      "mini_headline": "中, AI 숏폼\n연말 단속",
       "tool": "Movies",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/life-culture/general-cultural/6343262",
-      "accent": "#f5a623",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261108050600083",
+      "accent": "#7928ca",
       "motif": "frame",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://i3n.news1.kr/system/photos/2026/11/4/8197258/high.jpg",
-            "cap": "생성형 AI 애니메이션 두근두근 멜로츄의 주인공을 그린 홍보 이미지 (뜨거운바다 제공. 재판매 및 DB 금지) 2026.11.5/뉴스1"
+            "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108050600083_01_i_P4.jpg",
+            "cap": "중국의 한 숏폼 드라마 제작 현장 [신화=연합뉴스 자료사진]"
           },
           {
             "t": "p",
-            "x": "크리에이티브 스튜디오 뜨거운바다가 생성형 인공지능(AI) 기술로 제작한 오리지널 애니메이션 '두근두근 멜로츄!'(Beat On! Mello-Chu!)를 공개했다. 첫 에피소드는 미국 뉴욕을 배경으로 한다."
+            "x": "중국 정부가 인공지능(AI)을 활용한 저질·선정적 콘텐츠 등 숏폼 드라마에 대한 특별단속에 나섰다."
           },
           {
             "t": "p",
-            "x": "작품은 소녀 4명이 세계 여러 나라를 여행하면서 문화와 언어를 배우고 음악으로 성장하는 이야기다. K팝과 여행 서사를 결합한 뮤직 어드벤처 형식이다."
+            "x": "AI 기술 확산으로 숏폼 드라마 제작이 급증하면서 콘텐츠의 질적 저하와 저작권 침해 등의 문제에 대응하기 위한 조치다."
           },
           {
             "t": "p",
-            "x": "첫 편에서는 주인공들이 뉴욕에서 현지 문화를 접하고 공연을 준비한다. 공개된 영상 분량은 약 5분이다."
+            "x": "8일 중국 관영 신화통신에 따르면 방송·인터넷 감독기관인 국가광파전시총국(광전총국)은 AI 기술을 이용한 저질·획일적 콘텐츠 확산을 막기 위해 다음 달 31일까지 숏폼 드라마 특별단속을 실시한다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "뜨거운바다는 기획과 캐릭터 설정, 이야기 구성, 장면 제작을 자체적으로 진행했다. 오리지널 음악의 작사와 작곡도 제작 범위에 포함했다."
+            "x": "주요 단속 대상은 아동 관련 유해 콘텐츠, 선정성을 자극하는 장면, 극단적인 대립을 조장하거나 물질만능주의를 부추기는 내용, 가족 윤리를 심각하게 훼손하는 작품 등이다."
           },
           {
             "t": "p",
-            "x": "제작 과정에는 생성형 AI 영상 기술을 활용했다. 음악 창작 경험과 서사 구성을 연결해 독립된 지식재산(IP)을 구축하는 데 초점을 맞췄다."
+            "x": "특히 AI 기술을 이용해 타인의 얼굴이나 목소리를 무단으로 사용하는 행위와 규정에 따른 등록·심사를 거치지 않은 작품도 단속한다."
           },
           {
             "t": "p",
-            "x": "진호현 뜨거운바다 PD가 기획과 제작을 총괄했다. 생성형 AI 제작 과정의 시행착오를 겪으면서도 영상과 음악이 하나의 이야기로 이어지게 작업했다."
+            "x": "드라마 제목과 홍보 영상 등에 포함된 저질 콘텐츠를 정비하고 같은 작품을 제목이나 주인공 이름만 바꿔 반복적으로 유통하는 행위도 단속 대상에 포함했다."
           },
           {
             "t": "p",
-            "x": "뜨거운바다 측은 앞으로 장르와 형식이 다른 오리지널 IP를 계속 발굴할 계획이다. 자체 콘텐츠 포트폴리오를 장기적으로 확대한다는 구상이다."
+            "x": "온라인 플랫폼이 첫 화면이나 인기 순위에서 비슷한 내용의 작품을 집중적으로 추천하는 관행도 개선하도록 했다."
           },
           {
             "t": "p",
-            "x": "'두근두근 멜로츄!' 첫 영상은 뜨거운바다 공식 유튜브 채널에서 공개했다. 이 회사는 생성형 AI를 활용한 브랜드 영상과 자체 콘텐츠를 기획·제작한다."
+            "x": "광전총국은 올해 들어 저질·유해 콘텐츠와 저작권 침해 등을 이유로 규정을 위반한 숏폼 드라마 7만5천편을 온라인 플랫폼에서 퇴출하고 관련 계정 1천500여개를 제재했다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "광전총국이 지난 9월 발표한 자료에 따르면 올해 1∼8월 중국에서 출시된 숏폼 드라마는 43만편으로 지난해 전체의 13배에 달했으며 이 가운데 AI 작품이 90% 이상을 차지했다."
+          },
+          {
+            "t": "p",
+            "x": "당국은 이번 특별단속을 통해 온라인 플랫폼의 콘텐츠 관리 책임을 강화하는 한편 우수 작품 제작을 지원해 숏폼 드라마 산업의 질적 성장을 유도하겠다는 방침이다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "AI로 만든 애니\n멜로츄 첫 편 공개",
-          "body": "뜨거운바다가 생성형 AI로 제작한 오리지널 애니 첫 편을 공개했다.",
-          "mini_headline": "AI 애니 멜로츄 공개",
+          "headline": "중국, AI 숏폼 드라마\n연말까지 집중단속",
+          "body": "중국 정부가 AI를 악용한 저질·선정적 숏폼 드라마를 연말까지 특별단속한다.",
+          "mini_headline": "中, AI 숏폼\n연말 단속",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/4/8197258/high.jpg",
-                "cap": "생성형 AI 애니메이션 두근두근 멜로츄의 주인공을 그린 홍보 이미지 (뜨거운바다 제공. 재판매 및 DB 금지) 2026.11.5/뉴스1"
+                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108050600083_01_i_P4.jpg",
+                "cap": "중국의 한 숏폼 드라마 제작 현장 [신화=연합뉴스 자료사진]"
               },
               {
                 "t": "p",
-                "x": "크리에이티브 스튜디오 뜨거운바다가 생성형 인공지능(AI) 기술로 제작한 오리지널 애니메이션 '두근두근 멜로츄!'(Beat On! Mello-Chu!)를 공개했다. 첫 에피소드는 미국 뉴욕을 배경으로 한다."
+                "x": "중국 정부가 인공지능(AI)을 활용한 저질·선정적 콘텐츠 등 숏폼 드라마에 대한 특별단속에 나섰다."
               },
               {
                 "t": "p",
-                "x": "작품은 소녀 4명이 세계 여러 나라를 여행하면서 문화와 언어를 배우고 음악으로 성장하는 이야기다. K팝과 여행 서사를 결합한 뮤직 어드벤처 형식이다."
+                "x": "AI 기술 확산으로 숏폼 드라마 제작이 급증하면서 콘텐츠의 질적 저하와 저작권 침해 등의 문제에 대응하기 위한 조치다."
               },
               {
                 "t": "p",
-                "x": "첫 편에서는 주인공들이 뉴욕에서 현지 문화를 접하고 공연을 준비한다. 공개된 영상 분량은 약 5분이다."
+                "x": "8일 중국 관영 신화통신에 따르면 방송·인터넷 감독기관인 국가광파전시총국(광전총국)은 AI 기술을 이용한 저질·획일적 콘텐츠 확산을 막기 위해 다음 달 31일까지 숏폼 드라마 특별단속을 실시한다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "뜨거운바다는 기획과 캐릭터 설정, 이야기 구성, 장면 제작을 자체적으로 진행했다. 오리지널 음악의 작사와 작곡도 제작 범위에 포함했다."
+                "x": "주요 단속 대상은 아동 관련 유해 콘텐츠, 선정성을 자극하는 장면, 극단적인 대립을 조장하거나 물질만능주의를 부추기는 내용, 가족 윤리를 심각하게 훼손하는 작품 등이다."
               },
               {
                 "t": "p",
-                "x": "제작 과정에는 생성형 AI 영상 기술을 활용했다. 음악 창작 경험과 서사 구성을 연결해 독립된 지식재산(IP)을 구축하는 데 초점을 맞췄다."
+                "x": "특히 AI 기술을 이용해 타인의 얼굴이나 목소리를 무단으로 사용하는 행위와 규정에 따른 등록·심사를 거치지 않은 작품도 단속한다."
               },
               {
                 "t": "p",
-                "x": "진호현 뜨거운바다 PD가 기획과 제작을 총괄했다. 생성형 AI 제작 과정의 시행착오를 겪으면서도 영상과 음악이 하나의 이야기로 이어지게 작업했다."
+                "x": "드라마 제목과 홍보 영상 등에 포함된 저질 콘텐츠를 정비하고 같은 작품을 제목이나 주인공 이름만 바꿔 반복적으로 유통하는 행위도 단속 대상에 포함했다."
               },
               {
                 "t": "p",
-                "x": "뜨거운바다 측은 앞으로 장르와 형식이 다른 오리지널 IP를 계속 발굴할 계획이다. 자체 콘텐츠 포트폴리오를 장기적으로 확대한다는 구상이다."
+                "x": "온라인 플랫폼이 첫 화면이나 인기 순위에서 비슷한 내용의 작품을 집중적으로 추천하는 관행도 개선하도록 했다."
               },
               {
                 "t": "p",
-                "x": "'두근두근 멜로츄!' 첫 영상은 뜨거운바다 공식 유튜브 채널에서 공개했다. 이 회사는 생성형 AI를 활용한 브랜드 영상과 자체 콘텐츠를 기획·제작한다."
+                "x": "광전총국은 올해 들어 저질·유해 콘텐츠와 저작권 침해 등을 이유로 규정을 위반한 숏폼 드라마 7만5천편을 온라인 플랫폼에서 퇴출하고 관련 계정 1천500여개를 제재했다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "광전총국이 지난 9월 발표한 자료에 따르면 올해 1∼8월 중국에서 출시된 숏폼 드라마는 43만편으로 지난해 전체의 13배에 달했으며 이 가운데 AI 작품이 90% 이상을 차지했다."
+              },
+              {
+                "t": "p",
+                "x": "당국은 이번 특별단속을 통해 온라인 플랫폼의 콘텐츠 관리 책임을 강화하는 한편 우수 작품 제작을 지원해 숏폼 드라마 산업의 질적 성장을 유도하겠다는 방침이다."
               }
             ]
           }
         },
         "en": {
-          "headline": "AI-made anime Mello-Chu\ndebuts its first episode",
-          "body": "Hotsea has released the first episode of an original anime made with generative AI.",
-          "mini_headline": "AI anime Mello-Chu debuts",
+          "headline": "China cracks down on AI short\ndramas through year-end",
+          "body": "China's government will run a special crackdown on low-quality, lewd short dramas that misuse AI until year-end.",
+          "mini_headline": "China: AI short\ndramas crackdown",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/4/8197258/high.jpg",
-                "cap": "Promotional image of the main character of the generative AI animation Dugeun Dugeun Mello-Chu (courtesy of Hotsea; resale and DB use prohibited) 2026.11.5/News1"
+                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108050600083_01_i_P4.jpg",
+                "cap": "A short-drama production set in China [Xinhua=Yonhap file photo]"
               },
               {
                 "t": "p",
-                "x": "Creative studio Hotsea has released 'Dugeun Dugeun Mello-Chu!' (Beat On! Mello-Chu!), an original animation made with generative artificial intelligence (AI) technology. The first episode is set in New York, in the United States."
+                "x": "The Chinese government has launched a special crackdown on short dramas, including low-quality and sexually suggestive content made with artificial intelligence (AI)."
               },
               {
                 "t": "p",
-                "x": "The series follows 4 girls who travel to countries around the world, learning their cultures and languages and growing through music. It is a music adventure that combines K-pop with a travel narrative."
+                "x": "The move responds to falling content quality, copyright infringement and other problems as the spread of AI technology drives a surge in short-drama production."
               },
               {
                 "t": "p",
-                "x": "In the first episode, the main characters experience local culture in New York and prepare for a performance. The released video runs about 5 minutes."
+                "x": "According to China's state-run Xinhua News Agency on the 8th, the National Radio and Television Administration, which oversees broadcasting and the internet, said it will run a special crackdown on short dramas until the 31st of next month to curb the spread of low-quality, formulaic content made with AI technology."
               },
               {
                 "t": "p",
-                "x": "Hotsea handled the planning, character design, story structure and scene production in-house. The lyrics and composition of the original music were also part of the production."
+                "x": "The main targets are content harmful to children, scenes that stoke sexual sensationalism, content that encourages extreme confrontation or materialism, and works that seriously undermine family ethics."
               },
               {
                 "t": "p",
-                "x": "Generative AI video technology was used in production. The focus was on building a standalone intellectual property (IP) by linking experience in music creation with narrative structure."
+                "x": "In particular, it will also crack down on using AI technology to appropriate other people's faces or voices without permission, and on works that have not gone through registration and review as required by regulations."
               },
               {
                 "t": "p",
-                "x": "Hotsea PD Jin Ho-hyun led planning and production. Despite trial and error in the generative AI production process, he worked to make the video and music connect into a single story."
+                "x": "The crackdown also covers cleaning up low-quality content in drama titles and promotional videos, and repeatedly distributing the same work with only the title or the lead character's name changed."
               },
               {
                 "t": "p",
-                "x": "Hotsea plans to keep developing original IP in different genres and formats, with the aim of expanding its own content portfolio over the long term."
+                "x": "Online platforms were also told to change the practice of heavily recommending works with similar content on their front pages and popularity rankings."
               },
               {
                 "t": "p",
-                "x": "The first video of 'Dugeun Dugeun Mello-Chu!' was released on Hotsea's official YouTube channel. The company plans and produces brand videos and original content using generative AI."
+                "x": "The administration said that this year it has removed 7만5천 (seventy-five thousand) rule-breaking short dramas from online platforms over low-quality or harmful content and copyright infringement, and sanctioned more than 1천500 (fifteen hundred) related accounts."
+              },
+              {
+                "t": "p",
+                "x": "According to data the administration released in September (9월), 43만 (four hundred thirty thousand) short dramas were released in China from January to August (1∼8월) this year, 13 times last year's total, and AI works accounted for more than 90% of them."
+              },
+              {
+                "t": "p",
+                "x": "Through the crackdown, the authorities plan to strengthen online platforms' responsibility for content management while supporting the production of quality works to steer the short-drama industry toward qualitative growth."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIで作ったアニメ\nメロチュ初回を公開",
-          "body": "Hotseaが生成AIで制作したオリジナルアニメの初回を公開した。",
-          "mini_headline": "AIアニメ「メロチュ」公開",
+          "headline": "中国、AIショートドラマ\n年末まで集中取り締まり",
+          "body": "中国政府はAIを悪用した低俗・扇情的なショートドラマを年末まで特別に取り締まる。",
+          "mini_headline": "中国、AIショート\n年末取り締まり",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/4/8197258/high.jpg",
-                "cap": "生成AIアニメ『ドキドキ・メロチュ』の主人公を描いた宣伝画像(Hotsea提供、転売およびDB禁止)2026.11.5/News1"
+                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108050600083_01_i_P4.jpg",
+                "cap": "中国のショートドラマ制作現場[新華社=聯合ニュース資料写真]"
               },
               {
                 "t": "p",
-                "x": "クリエイティブスタジオのHotseaが、生成人工知能(AI)技術で制作したオリジナルアニメ『ドキドキ・メロチュ!』(Beat On! Mello-Chu!)を公開した。最初のエピソードは米国ニューヨークが舞台だ。"
+                "x": "中国政府が、人工知能(AI)を使った低俗・扇情的なコンテンツなど、ショートドラマに対する特別取り締まりに乗り出した。"
               },
               {
                 "t": "p",
-                "x": "作品は4人の少女が世界各国を旅しながら文化と言語を学び、音楽を通じて成長する物語だ。K-POPと旅の物語を組み合わせたミュージックアドベンチャー形式である。"
+                "x": "AI技術の普及でショートドラマの制作が急増するなか、コンテンツの質の低下や著作権侵害などの問題に対応するための措置だ。"
               },
               {
                 "t": "p",
-                "x": "初回では主人公たちがニューヨークで現地の文化に触れ、公演を準備する。公開された映像の長さは約5分だ。"
+                "x": "8日の中国国営新華社通信によると、放送・インターネットの監督機関である国家ラジオテレビ総局は、AI技術を使った低俗で画一的なコンテンツの拡散を防ぐため、来月31日までショートドラマの特別取り締まりを実施すると明らかにした。"
               },
               {
                 "t": "p",
-                "x": "Hotseaは企画、キャラクター設定、ストーリー構成、シーン制作を自社で手がけた。オリジナル楽曲の作詞・作曲も制作範囲に含めた。"
+                "x": "主な取り締まり対象は、子どもに関わる有害コンテンツ、扇情性をあおる場面、極端な対立を助長したり拝金主義をあおったりする内容、家族の倫理を著しく損なう作品などだ。"
               },
               {
                 "t": "p",
-                "x": "制作過程には生成AI映像技術を活用した。音楽創作の経験と物語構成を結びつけ、独立した知的財産(IP)を築くことに焦点を当てた。"
+                "x": "特に、AI技術を使って他人の顔や声を無断で使用する行為や、規定に基づく登録・審査を経ていない作品も取り締まる。"
               },
               {
                 "t": "p",
-                "x": "Hotseaのチン・ホヒョンPDが企画と制作を統括した。生成AIによる制作過程で試行錯誤を重ねながらも、映像と音楽が一つの物語としてつながるよう取り組んだ。"
+                "x": "ドラマのタイトルや宣伝映像などに含まれる低俗なコンテンツを整理し、同じ作品をタイトルや主人公の名前だけ変えて繰り返し流通させる行為も取り締まり対象に含めた。"
               },
               {
                 "t": "p",
-                "x": "Hotseaは今後もジャンルや形式の異なるオリジナルIPを発掘し続ける計画だ。自社コンテンツのポートフォリオを長期的に拡大する構想である。"
+                "x": "オンラインプラットフォームがトップ画面や人気ランキングで似た内容の作品を集中的に推薦する慣行も改めるよう求めた。"
               },
               {
                 "t": "p",
-                "x": "『ドキドキ・メロチュ!』の最初の映像はHotsea公式YouTubeチャンネルで公開された。同社は生成AIを活用したブランド映像と自社コンテンツを企画・制作している。"
+                "x": "同総局は今年に入り、低俗・有害コンテンツや著作権侵害などを理由に、規定に違反したショートドラマ7万5千本をオンラインプラットフォームから排除し、関連アカウント1千500余りを処分したと明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "同総局が9月に発表した資料によると、今年1∼8月に中国で公開されたショートドラマは43万本と昨年全体の13倍に達し、このうちAI作品が90%以上を占めた。"
+              },
+              {
+                "t": "p",
+                "x": "当局は今回の特別取り締まりを通じてオンラインプラットフォームのコンテンツ管理責任を強化する一方、優れた作品の制作を支援し、ショートドラマ産業の質的成長を促す方針だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI制作的动画\nMello-Chu首集公开",
-          "body": "创意工作室Hotsea公开了用生成式AI制作的原创动画首集。",
-          "mini_headline": "AI动画Mello-Chu公开",
+          "headline": "中国集中整治AI短剧\n行动持续至年底",
+          "body": "中国政府将在年底前对滥用AI的低俗、煽情短剧开展专项整治。",
+          "mini_headline": "中国AI短剧\n年底整治",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/4/8197258/high.jpg",
-                "cap": "描绘生成式AI动画《心动心动Mello-Chu》主角的宣传图（Hotsea提供，禁止转售及DB使用）2026.11.5/News1"
+                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108050600083_01_i_P4.jpg",
+                "cap": "中国某短剧拍摄现场[新华社=韩联社资料图]"
               },
               {
                 "t": "p",
-                "x": "创意工作室Hotsea公开了运用生成式人工智能（AI）技术制作的原创动画《心动心动Mello-Chu!》（Beat On! Mello-Chu!）。首集以美国纽约为背景。"
+                "x": "中国政府针对利用人工智能(AI)制作的低俗、煽情内容等短剧启动专项整治。"
               },
               {
                 "t": "p",
-                "x": "作品讲述4名少女周游世界各国、学习文化与语言并通过音乐成长的故事，是结合K-pop与旅行叙事的音乐冒险形式。"
+                "x": "此举旨在应对AI技术普及导致短剧产量激增后出现的内容质量下滑、侵犯版权等问题。"
               },
               {
                 "t": "p",
-                "x": "首集中，主人公们在纽约接触当地文化并筹备演出。公开的视频时长约5分钟。"
+                "x": "据中国官方新华社8日报道，广播与网络监管机构国家广播电视总局(广电总局)表示，为遏制利用AI技术制作的低俗、同质化内容扩散，将在下月31日前开展短剧专项整治。"
               },
               {
                 "t": "p",
-                "x": "Hotsea自行完成了策划、角色设定、故事构成和场景制作，原创音乐的作词作曲也包含在制作范围内。"
+                "x": "主要整治对象包括涉及儿童的有害内容、刺激感官的低俗场面、煽动极端对立或助长拜金主义的内容，以及严重破坏家庭伦理的作品等。"
               },
               {
                 "t": "p",
-                "x": "制作过程中运用了生成式AI视频技术，重点在于将音乐创作经验与叙事构成相连接，打造独立的知识产权（IP）。"
+                "x": "尤其是利用AI技术擅自使用他人面孔或声音的行为，以及未按规定完成备案和审核的作品，也在整治之列。"
               },
               {
                 "t": "p",
-                "x": "Hotsea PD Jin Ho-hyun统筹策划与制作。他在生成式AI制作过程中虽经历了反复试错，仍努力让影像与音乐串联成一个完整的故事。"
+                "x": "整治还包括清理剧名和宣传视频等中的低俗内容，以及仅更换剧名或主角名字便反复上线同一作品的行为。"
               },
               {
                 "t": "p",
-                "x": "Hotsea方面计划今后继续发掘不同类型和形式的原创IP，并长期扩大自有内容组合。"
+                "x": "同时要求网络平台改进在首页或热门榜单集中推荐同质化作品的做法。"
               },
               {
                 "t": "p",
-                "x": "《心动心动Mello-Chu!》首支视频已在Hotsea官方YouTube频道公开。该公司策划制作运用生成式AI的品牌视频与自有内容。"
+                "x": "广电总局表示，今年以来已因低俗有害内容、侵犯版权等原因，在网络平台下架违规短剧7万5千部，处置相关账号1千500余个。"
+              },
+              {
+                "t": "p",
+                "x": "根据广电总局9月发布的数据，今年1∼8月中国上线的短剧达43万部，是去年全年的13倍，其中AI作品占比超过90%。"
+              },
+              {
+                "t": "p",
+                "x": "当局计划借此次专项整治强化网络平台的内容管理责任，同时扶持优质作品创作，引导短剧产业实现质的提升。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un anime hecho con AI estrena\nel primer episodio de Mello-Chu",
-          "body": "Hotsea publicó el primer episodio de un anime original producido con AI generativa.",
-          "mini_headline": "Se estrena el anime de AI Mello-Chu",
+          "headline": "China combate los microdramas\nde AI hasta fin de año",
+          "body": "El Gobierno chino perseguirá hasta fin de año los microdramas vulgares y sensacionalistas que abusan de la AI.",
+          "mini_headline": "China: microdramas\nde AI, bajo control",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/4/8197258/high.jpg",
-                "cap": "Imagen promocional de la protagonista de la animación de AI generativa Dugeun Dugeun Mello-Chu (cortesía de Hotsea; prohibida su reventa y uso en DB) 2026.11.5/News1"
+                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108050600083_01_i_P4.jpg",
+                "cap": "Rodaje de un microdrama en China [Xinhua=Yonhap, foto de archivo]"
               },
               {
                 "t": "p",
-                "x": "El estudio creativo Hotsea presentó 'Dugeun Dugeun Mello-Chu!' (Beat On! Mello-Chu!), una animación original producida con tecnología de inteligencia artificial (AI) generativa. El primer episodio transcurre en Nueva York, Estados Unidos."
+                "x": "El Gobierno chino ha emprendido una campaña especial contra los microdramas, incluidos los contenidos vulgares y sensacionalistas hechos con inteligencia artificial (AI)."
               },
               {
                 "t": "p",
-                "x": "La obra cuenta la historia de 4 chicas que viajan por distintos países del mundo, aprenden sus culturas e idiomas y crecen a través de la música. Es una aventura musical que combina el K-pop con un relato de viajes."
+                "x": "La medida busca responder a problemas como la caída de la calidad de los contenidos y las infracciones de derechos de autor, en un momento en que la expansión de la tecnología de AI ha disparado la producción de microdramas."
               },
               {
                 "t": "p",
-                "x": "En el primer episodio, las protagonistas conocen la cultura local de Nueva York y preparan una actuación. El video publicado dura unos 5 minutos."
+                "x": "Según informó el día 8 la agencia estatal china Xinhua, la Administración Nacional de Radio y Televisión, organismo que supervisa la radiodifusión e internet, anunció que llevará a cabo una campaña especial contra los microdramas hasta el día 31 del próximo mes para frenar la difusión de contenidos vulgares y uniformes creados con tecnología de AI."
               },
               {
                 "t": "p",
-                "x": "Hotsea se encargó por su cuenta de la planificación, el diseño de personajes, la estructura de la historia y la producción de las escenas. La letra y la composición de la música original también formaron parte de la producción."
+                "x": "Los principales objetivos son los contenidos nocivos relacionados con menores, las escenas que buscan provocar con lo sexual, los contenidos que fomentan la confrontación extrema o el materialismo y las obras que dañan gravemente la ética familiar."
               },
               {
                 "t": "p",
-                "x": "En la producción se utilizó tecnología de video con AI generativa. El objetivo fue construir una propiedad intelectual (IP) independiente uniendo la experiencia en creación musical con la construcción narrativa."
+                "x": "En particular, también se perseguirá el uso de tecnología de AI para utilizar sin permiso el rostro o la voz de otras personas, así como las obras que no hayan pasado el registro y la revisión exigidos por la normativa."
               },
               {
                 "t": "p",
-                "x": "Jin Ho-hyun, PD de Hotsea, dirigió la planificación y la producción. Pese al ensayo y error propio de la producción con AI generativa, trabajó para que el video y la música se unieran en una sola historia."
+                "x": "La campaña también incluye depurar los contenidos vulgares de títulos y vídeos promocionales, y perseguir la distribución repetida de una misma obra cambiando solo el título o el nombre del protagonista."
               },
               {
                 "t": "p",
-                "x": "Hotsea planea seguir desarrollando IP originales de distintos géneros y formatos, con la idea de ampliar a largo plazo su propio portafolio de contenidos."
+                "x": "Además, se pidió a las plataformas en línea que corrijan la práctica de recomendar de forma concentrada obras de contenido similar en sus portadas o rankings de popularidad."
               },
               {
                 "t": "p",
-                "x": "El primer video de 'Dugeun Dugeun Mello-Chu!' se publicó en el canal oficial de YouTube de Hotsea. La empresa planifica y produce videos de marca y contenidos propios con AI generativa."
+                "x": "La Administración indicó que en lo que va de año ha retirado de las plataformas en línea 7만5천 (setenta y cinco mil) microdramas que infringían la normativa por contenidos vulgares o nocivos y violaciones de derechos de autor, y ha sancionado a más de 1천500 (mil quinientas) cuentas relacionadas."
+              },
+              {
+                "t": "p",
+                "x": "Según datos publicados por la Administración en septiembre (9월), entre enero y agosto (1∼8월) de este año se estrenaron en China 43만 (cuatrocientos treinta mil) microdramas, 13 veces el total del año pasado, y las obras hechas con AI supusieron más del 90%."
+              },
+              {
+                "t": "p",
+                "x": "Con esta campaña, las autoridades pretenden reforzar la responsabilidad de las plataformas en línea en la gestión de contenidos y, a la vez, apoyar la producción de obras de calidad para impulsar un crecimiento cualitativo de la industria de los microdramas."
               }
             ]
           }
@@ -657,189 +1107,221 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "AI-made anime Mello-Chu\ndebuts its first episode",
-          "body": "Hotsea has released the first episode of an original anime made with generative AI.",
-          "mini_headline": "AI anime Mello-Chu debuts",
+          "headline": "China cracks down on AI short\ndramas through year-end",
+          "body": "China's government will run a special crackdown on low-quality, lewd short dramas that misuse AI until year-end.",
+          "mini_headline": "China: AI short\ndramas crackdown",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/4/8197258/high.jpg",
-                "cap": "Promotional image of the main character of the generative AI animation Dugeun Dugeun Mello-Chu (courtesy of Hotsea; resale and DB use prohibited) 2026.11.5/News1"
+                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108050600083_01_i_P4.jpg",
+                "cap": "A short-drama production set in China [Xinhua=Yonhap file photo]"
               },
               {
                 "t": "p",
-                "x": "Creative studio Hotsea has released 'Dugeun Dugeun Mello-Chu!' (Beat On! Mello-Chu!), an original animation made with generative artificial intelligence (AI) technology. The first episode is set in New York, in the United States."
+                "x": "The Chinese government has launched a special crackdown on short dramas, including low-quality and sexually suggestive content made with artificial intelligence (AI)."
               },
               {
                 "t": "p",
-                "x": "The series follows 4 girls who travel to countries around the world, learning their cultures and languages and growing through music. It is a music adventure that combines K-pop with a travel narrative."
+                "x": "The move responds to falling content quality, copyright infringement and other problems as the spread of AI technology drives a surge in short-drama production."
               },
               {
                 "t": "p",
-                "x": "In the first episode, the main characters experience local culture in New York and prepare for a performance. The released video runs about 5 minutes."
+                "x": "According to China's state-run Xinhua News Agency on the 8th, the National Radio and Television Administration, which oversees broadcasting and the internet, said it will run a special crackdown on short dramas until the 31st of next month to curb the spread of low-quality, formulaic content made with AI technology."
               },
               {
                 "t": "p",
-                "x": "Hotsea handled the planning, character design, story structure and scene production in-house. The lyrics and composition of the original music were also part of the production."
+                "x": "The main targets are content harmful to children, scenes that stoke sexual sensationalism, content that encourages extreme confrontation or materialism, and works that seriously undermine family ethics."
               },
               {
                 "t": "p",
-                "x": "Generative AI video technology was used in production. The focus was on building a standalone intellectual property (IP) by linking experience in music creation with narrative structure."
+                "x": "In particular, it will also crack down on using AI technology to appropriate other people's faces or voices without permission, and on works that have not gone through registration and review as required by regulations."
               },
               {
                 "t": "p",
-                "x": "Hotsea PD Jin Ho-hyun led planning and production. Despite trial and error in the generative AI production process, he worked to make the video and music connect into a single story."
+                "x": "The crackdown also covers cleaning up low-quality content in drama titles and promotional videos, and repeatedly distributing the same work with only the title or the lead character's name changed."
               },
               {
                 "t": "p",
-                "x": "Hotsea plans to keep developing original IP in different genres and formats, with the aim of expanding its own content portfolio over the long term."
+                "x": "Online platforms were also told to change the practice of heavily recommending works with similar content on their front pages and popularity rankings."
               },
               {
                 "t": "p",
-                "x": "The first video of 'Dugeun Dugeun Mello-Chu!' was released on Hotsea's official YouTube channel. The company plans and produces brand videos and original content using generative AI."
+                "x": "The administration said that this year it has removed 7만5천 (seventy-five thousand) rule-breaking short dramas from online platforms over low-quality or harmful content and copyright infringement, and sanctioned more than 1천500 (fifteen hundred) related accounts."
+              },
+              {
+                "t": "p",
+                "x": "According to data the administration released in September (9월), 43만 (four hundred thirty thousand) short dramas were released in China from January to August (1∼8월) this year, 13 times last year's total, and AI works accounted for more than 90% of them."
+              },
+              {
+                "t": "p",
+                "x": "Through the crackdown, the authorities plan to strengthen online platforms' responsibility for content management while supporting the production of quality works to steer the short-drama industry toward qualitative growth."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIで作ったアニメ\nメロチュ初回を公開",
-          "body": "Hotseaが生成AIで制作したオリジナルアニメの初回を公開した。",
-          "mini_headline": "AIアニメ「メロチュ」公開",
+          "headline": "中国、AIショートドラマ\n年末まで集中取り締まり",
+          "body": "中国政府はAIを悪用した低俗・扇情的なショートドラマを年末まで特別に取り締まる。",
+          "mini_headline": "中国、AIショート\n年末取り締まり",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/4/8197258/high.jpg",
-                "cap": "生成AIアニメ『ドキドキ・メロチュ』の主人公を描いた宣伝画像(Hotsea提供、転売およびDB禁止)2026.11.5/News1"
+                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108050600083_01_i_P4.jpg",
+                "cap": "中国のショートドラマ制作現場[新華社=聯合ニュース資料写真]"
               },
               {
                 "t": "p",
-                "x": "クリエイティブスタジオのHotseaが、生成人工知能(AI)技術で制作したオリジナルアニメ『ドキドキ・メロチュ!』(Beat On! Mello-Chu!)を公開した。最初のエピソードは米国ニューヨークが舞台だ。"
+                "x": "中国政府が、人工知能(AI)を使った低俗・扇情的なコンテンツなど、ショートドラマに対する特別取り締まりに乗り出した。"
               },
               {
                 "t": "p",
-                "x": "作品は4人の少女が世界各国を旅しながら文化と言語を学び、音楽を通じて成長する物語だ。K-POPと旅の物語を組み合わせたミュージックアドベンチャー形式である。"
+                "x": "AI技術の普及でショートドラマの制作が急増するなか、コンテンツの質の低下や著作権侵害などの問題に対応するための措置だ。"
               },
               {
                 "t": "p",
-                "x": "初回では主人公たちがニューヨークで現地の文化に触れ、公演を準備する。公開された映像の長さは約5分だ。"
+                "x": "8日の中国国営新華社通信によると、放送・インターネットの監督機関である国家ラジオテレビ総局は、AI技術を使った低俗で画一的なコンテンツの拡散を防ぐため、来月31日までショートドラマの特別取り締まりを実施すると明らかにした。"
               },
               {
                 "t": "p",
-                "x": "Hotseaは企画、キャラクター設定、ストーリー構成、シーン制作を自社で手がけた。オリジナル楽曲の作詞・作曲も制作範囲に含めた。"
+                "x": "主な取り締まり対象は、子どもに関わる有害コンテンツ、扇情性をあおる場面、極端な対立を助長したり拝金主義をあおったりする内容、家族の倫理を著しく損なう作品などだ。"
               },
               {
                 "t": "p",
-                "x": "制作過程には生成AI映像技術を活用した。音楽創作の経験と物語構成を結びつけ、独立した知的財産(IP)を築くことに焦点を当てた。"
+                "x": "特に、AI技術を使って他人の顔や声を無断で使用する行為や、規定に基づく登録・審査を経ていない作品も取り締まる。"
               },
               {
                 "t": "p",
-                "x": "Hotseaのチン・ホヒョンPDが企画と制作を統括した。生成AIによる制作過程で試行錯誤を重ねながらも、映像と音楽が一つの物語としてつながるよう取り組んだ。"
+                "x": "ドラマのタイトルや宣伝映像などに含まれる低俗なコンテンツを整理し、同じ作品をタイトルや主人公の名前だけ変えて繰り返し流通させる行為も取り締まり対象に含めた。"
               },
               {
                 "t": "p",
-                "x": "Hotseaは今後もジャンルや形式の異なるオリジナルIPを発掘し続ける計画だ。自社コンテンツのポートフォリオを長期的に拡大する構想である。"
+                "x": "オンラインプラットフォームがトップ画面や人気ランキングで似た内容の作品を集中的に推薦する慣行も改めるよう求めた。"
               },
               {
                 "t": "p",
-                "x": "『ドキドキ・メロチュ!』の最初の映像はHotsea公式YouTubeチャンネルで公開された。同社は生成AIを活用したブランド映像と自社コンテンツを企画・制作している。"
+                "x": "同総局は今年に入り、低俗・有害コンテンツや著作権侵害などを理由に、規定に違反したショートドラマ7万5千本をオンラインプラットフォームから排除し、関連アカウント1千500余りを処分したと明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "同総局が9月に発表した資料によると、今年1∼8月に中国で公開されたショートドラマは43万本と昨年全体の13倍に達し、このうちAI作品が90%以上を占めた。"
+              },
+              {
+                "t": "p",
+                "x": "当局は今回の特別取り締まりを通じてオンラインプラットフォームのコンテンツ管理責任を強化する一方、優れた作品の制作を支援し、ショートドラマ産業の質的成長を促す方針だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI制作的动画\nMello-Chu首集公开",
-          "body": "创意工作室Hotsea公开了用生成式AI制作的原创动画首集。",
-          "mini_headline": "AI动画Mello-Chu公开",
+          "headline": "中国集中整治AI短剧\n行动持续至年底",
+          "body": "中国政府将在年底前对滥用AI的低俗、煽情短剧开展专项整治。",
+          "mini_headline": "中国AI短剧\n年底整治",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/4/8197258/high.jpg",
-                "cap": "描绘生成式AI动画《心动心动Mello-Chu》主角的宣传图（Hotsea提供，禁止转售及DB使用）2026.11.5/News1"
+                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108050600083_01_i_P4.jpg",
+                "cap": "中国某短剧拍摄现场[新华社=韩联社资料图]"
               },
               {
                 "t": "p",
-                "x": "创意工作室Hotsea公开了运用生成式人工智能（AI）技术制作的原创动画《心动心动Mello-Chu!》（Beat On! Mello-Chu!）。首集以美国纽约为背景。"
+                "x": "中国政府针对利用人工智能(AI)制作的低俗、煽情内容等短剧启动专项整治。"
               },
               {
                 "t": "p",
-                "x": "作品讲述4名少女周游世界各国、学习文化与语言并通过音乐成长的故事，是结合K-pop与旅行叙事的音乐冒险形式。"
+                "x": "此举旨在应对AI技术普及导致短剧产量激增后出现的内容质量下滑、侵犯版权等问题。"
               },
               {
                 "t": "p",
-                "x": "首集中，主人公们在纽约接触当地文化并筹备演出。公开的视频时长约5分钟。"
+                "x": "据中国官方新华社8日报道，广播与网络监管机构国家广播电视总局(广电总局)表示，为遏制利用AI技术制作的低俗、同质化内容扩散，将在下月31日前开展短剧专项整治。"
               },
               {
                 "t": "p",
-                "x": "Hotsea自行完成了策划、角色设定、故事构成和场景制作，原创音乐的作词作曲也包含在制作范围内。"
+                "x": "主要整治对象包括涉及儿童的有害内容、刺激感官的低俗场面、煽动极端对立或助长拜金主义的内容，以及严重破坏家庭伦理的作品等。"
               },
               {
                 "t": "p",
-                "x": "制作过程中运用了生成式AI视频技术，重点在于将音乐创作经验与叙事构成相连接，打造独立的知识产权（IP）。"
+                "x": "尤其是利用AI技术擅自使用他人面孔或声音的行为，以及未按规定完成备案和审核的作品，也在整治之列。"
               },
               {
                 "t": "p",
-                "x": "Hotsea PD Jin Ho-hyun统筹策划与制作。他在生成式AI制作过程中虽经历了反复试错，仍努力让影像与音乐串联成一个完整的故事。"
+                "x": "整治还包括清理剧名和宣传视频等中的低俗内容，以及仅更换剧名或主角名字便反复上线同一作品的行为。"
               },
               {
                 "t": "p",
-                "x": "Hotsea方面计划今后继续发掘不同类型和形式的原创IP，并长期扩大自有内容组合。"
+                "x": "同时要求网络平台改进在首页或热门榜单集中推荐同质化作品的做法。"
               },
               {
                 "t": "p",
-                "x": "《心动心动Mello-Chu!》首支视频已在Hotsea官方YouTube频道公开。该公司策划制作运用生成式AI的品牌视频与自有内容。"
+                "x": "广电总局表示，今年以来已因低俗有害内容、侵犯版权等原因，在网络平台下架违规短剧7万5千部，处置相关账号1千500余个。"
+              },
+              {
+                "t": "p",
+                "x": "根据广电总局9月发布的数据，今年1∼8月中国上线的短剧达43万部，是去年全年的13倍，其中AI作品占比超过90%。"
+              },
+              {
+                "t": "p",
+                "x": "当局计划借此次专项整治强化网络平台的内容管理责任，同时扶持优质作品创作，引导短剧产业实现质的提升。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un anime hecho con AI estrena\nel primer episodio de Mello-Chu",
-          "body": "Hotsea publicó el primer episodio de un anime original producido con AI generativa.",
-          "mini_headline": "Se estrena el anime de AI Mello-Chu",
+          "headline": "China combate los microdramas\nde AI hasta fin de año",
+          "body": "El Gobierno chino perseguirá hasta fin de año los microdramas vulgares y sensacionalistas que abusan de la AI.",
+          "mini_headline": "China: microdramas\nde AI, bajo control",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/4/8197258/high.jpg",
-                "cap": "Imagen promocional de la protagonista de la animación de AI generativa Dugeun Dugeun Mello-Chu (cortesía de Hotsea; prohibida su reventa y uso en DB) 2026.11.5/News1"
+                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108050600083_01_i_P4.jpg",
+                "cap": "Rodaje de un microdrama en China [Xinhua=Yonhap, foto de archivo]"
               },
               {
                 "t": "p",
-                "x": "El estudio creativo Hotsea presentó 'Dugeun Dugeun Mello-Chu!' (Beat On! Mello-Chu!), una animación original producida con tecnología de inteligencia artificial (AI) generativa. El primer episodio transcurre en Nueva York, Estados Unidos."
+                "x": "El Gobierno chino ha emprendido una campaña especial contra los microdramas, incluidos los contenidos vulgares y sensacionalistas hechos con inteligencia artificial (AI)."
               },
               {
                 "t": "p",
-                "x": "La obra cuenta la historia de 4 chicas que viajan por distintos países del mundo, aprenden sus culturas e idiomas y crecen a través de la música. Es una aventura musical que combina el K-pop con un relato de viajes."
+                "x": "La medida busca responder a problemas como la caída de la calidad de los contenidos y las infracciones de derechos de autor, en un momento en que la expansión de la tecnología de AI ha disparado la producción de microdramas."
               },
               {
                 "t": "p",
-                "x": "En el primer episodio, las protagonistas conocen la cultura local de Nueva York y preparan una actuación. El video publicado dura unos 5 minutos."
+                "x": "Según informó el día 8 la agencia estatal china Xinhua, la Administración Nacional de Radio y Televisión, organismo que supervisa la radiodifusión e internet, anunció que llevará a cabo una campaña especial contra los microdramas hasta el día 31 del próximo mes para frenar la difusión de contenidos vulgares y uniformes creados con tecnología de AI."
               },
               {
                 "t": "p",
-                "x": "Hotsea se encargó por su cuenta de la planificación, el diseño de personajes, la estructura de la historia y la producción de las escenas. La letra y la composición de la música original también formaron parte de la producción."
+                "x": "Los principales objetivos son los contenidos nocivos relacionados con menores, las escenas que buscan provocar con lo sexual, los contenidos que fomentan la confrontación extrema o el materialismo y las obras que dañan gravemente la ética familiar."
               },
               {
                 "t": "p",
-                "x": "En la producción se utilizó tecnología de video con AI generativa. El objetivo fue construir una propiedad intelectual (IP) independiente uniendo la experiencia en creación musical con la construcción narrativa."
+                "x": "En particular, también se perseguirá el uso de tecnología de AI para utilizar sin permiso el rostro o la voz de otras personas, así como las obras que no hayan pasado el registro y la revisión exigidos por la normativa."
               },
               {
                 "t": "p",
-                "x": "Jin Ho-hyun, PD de Hotsea, dirigió la planificación y la producción. Pese al ensayo y error propio de la producción con AI generativa, trabajó para que el video y la música se unieran en una sola historia."
+                "x": "La campaña también incluye depurar los contenidos vulgares de títulos y vídeos promocionales, y perseguir la distribución repetida de una misma obra cambiando solo el título o el nombre del protagonista."
               },
               {
                 "t": "p",
-                "x": "Hotsea planea seguir desarrollando IP originales de distintos géneros y formatos, con la idea de ampliar a largo plazo su propio portafolio de contenidos."
+                "x": "Además, se pidió a las plataformas en línea que corrijan la práctica de recomendar de forma concentrada obras de contenido similar en sus portadas o rankings de popularidad."
               },
               {
                 "t": "p",
-                "x": "El primer video de 'Dugeun Dugeun Mello-Chu!' se publicó en el canal oficial de YouTube de Hotsea. La empresa planifica y produce videos de marca y contenidos propios con AI generativa."
+                "x": "La Administración indicó que en lo que va de año ha retirado de las plataformas en línea 7만5천 (setenta y cinco mil) microdramas que infringían la normativa por contenidos vulgares o nocivos y violaciones de derechos de autor, y ha sancionado a más de 1천500 (mil quinientas) cuentas relacionadas."
+              },
+              {
+                "t": "p",
+                "x": "Según datos publicados por la Administración en septiembre (9월), entre enero y agosto (1∼8월) de este año se estrenaron en China 43만 (cuatrocientos treinta mil) microdramas, 13 veces el total del año pasado, y las obras hechas con AI supusieron más del 90%."
+              },
+              {
+                "t": "p",
+                "x": "Con esta campaña, las autoridades pretenden reforzar la responsabilidad de las plataformas en línea en la gestión de contenidos y, a la vez, apoyar la producción de obras de calidad para impulsar un crecimiento cualitativo de la industria de los microdramas."
               }
             ]
           }
@@ -847,213 +1329,225 @@
       }
     },
     {
-      "id": "curiousrefuge-ai-clone-shoot",
+      "id": "camerimage-2026-ai-opening",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 클론이\n카메라 촬영을 대신한다",
-      "body": "Curious Refuge가 녹음과 참조 영상만으로 스튜디오 없이 촬영한다.",
-      "mini_headline": "AI 클론이 촬영을 대신하다",
+      "headline": "Camerimage 34회\nAI를 화두로 개막",
+      "body": "34회 Camerimage가 로봇과 'Artificial'로 AI를 전면에 세웠다.",
+      "mini_headline": "Camerimage,\nAI를 화두로 개막",
       "tool": "Movies",
-      "source": "Curious Refuge",
-      "url": "https://www.youtube.com/watch?v=CM1rPwuXw2A",
-      "accent": "#7928ca",
+      "source": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/camerimage-2026-artificial-darren-aronofsky-janusz-kaminski-1236750348/",
+      "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "yt": "CM1rPwuXw2A"
+            "t": "img",
+            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/896255562_1534408348712601_3080537561858593218_n.jpg",
+            "cap": "AI-friendly 감독 Darren Aronofsky가 Camerimage에서 2026 Director Award를 받았다"
           },
           {
             "t": "p",
-            "x": "Curious Refuge가 이번 튜토리얼에서 세계 어디서든 스튜디오를 차리는 법을 소개한다. 오디오와 참조 영상만 있으면 된다. 팀은 이 워크플로에 “Studio Anywhere”라는 이름을 붙였다."
+            "x": "토요일 막을 올린 제34회 Camerimage Film Festival 개막식에서는 다들 말을 아껴 온 AI 문제가 무대 한가운데를 차지했다. 이 폴란드 영화제는 논쟁을 비켜 가지 않고 정면으로 파고들었다."
           },
           {
             "t": "p",
-            "x": "1. 휴대폰이나 마이크로 오디오를 녹음하고 Adobe Podcast로 다듬는다. 2. 다듬은 녹음을 영상 편집기(팀은 Adobe Premiere를 썼다)에 불러와 검은 화면 영상으로 내보낸다. 3. 카메라 앞에서 말하는 자기 모습을 짧게 담은 클립을 고른다. 팀은 Caleb이 스튜디오에서 말하는 약 여섯 초 분량을 골랐다. 정지 이미지보다 영상 참조가 모델에 주는 정보가 많아서다."
+            "x": "개막 연설은 영화제 집행위원장 Marek Żydowicz가 아니라 “Edward Warchocki”라는 휴머노이드 로봇이 맡았다. Żydowicz는 Toruń에서 일주일간 이어지는 이번 행사 내내 AI의 “희망과 위협”이 주요 화두가 될 것이라고 했다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/892794790_17896401696613369_2625112634376390574_n.jpg",
+            "cap": "Camerimage 개막식에 휴머노이드 로봇 Edward가 등장했다."
           },
           {
             "t": "p",
-            "x": "4. 오디오와 참조 영상을 Seedance 2.5(팀은 Magnific을 썼다)에 올리고 검은 영상에서는 오디오를, 참조 영상에서는 외모와 움직임, 환경을 가져오라고 프롬프트를 쓴다. 두 입력을 합쳐 30초까지만 받아서 긴 녹음은 나눠 넣어야 했다. Promise Studios에서 결과물을 본 사람들은 하나같이 실제 영상인 줄 알았다."
+            "x": "Francis Ford Coppola, Gal Gadot, Christopher Nolan, Maggie Gyllenhaal, Steven Spielberg, Ben Affleck은 영상 메시지로 AI를 어떻게 보는지 밝혔다. AI 스튜디오 Primordial Soup을 세운 뒤 생성형 AI를 적극 옹호해 온 Darren Aronofsky는 명예 Award for Director를, Janusz Kamiński는 THR의 Visionary Award를 받았다."
           },
           {
             "t": "p",
-            "x": "HeyGen, 직접 학습한 LoRA 워크플로와 견줘 보면 Seedance 2.5 쪽이 가장 그럴듯했다. HeyGen은 아직 불쾌한 골짜기를 벗어나지 못했다. 1080p 기준으로 이 예시들에 든 비용은 Seedance 2.5가 약 $16, HeyGen이 $0.05, fal.ai를 거친 세 번째 워크플로가 $24였다."
-          },
-          {
-            "t": "p",
-            "x": "Seedance 2.5, Wan 3, MiniMax H3로 각본만 넣고 연기까지 통째로 생성하면 그림은 그럴듯해도 연기 전달력은 아직 모자랐다. 목소리를 직접 녹음해 넣으면 타이밍과 개성이 살아났다."
+            "x": "개막작은 OpenAI 탄생 과정을 그린 Luca Guadagnino 감독의 Artificial이었다. 촬영감독 Malik Hassan Sayeed는 AI를 “다른 모든 것과 마찬가지로 하나의 도구일 뿐”이라고 했다. 이 영화를 35 mm로 찍은 Guadagnino는 진짜 문제가 “테크 과두 세력”에 있다고 말했다. Camerimage는 Nov. 14까지 열린다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "An AI clone stands in\nfor the on-camera shoot",
-          "body": "Curious Refuge shows how recorded audio and a reference video can yield on-camera footage without a studio.",
-          "mini_headline": "AI clone replaces the shoot",
+          "headline": "Camerimage opens its 34th\nedition on an AI reckoning",
+          "body": "The 34th Camerimage put AI at center stage, opening with Luca Guadagnino's 'Artificial' and a robot.",
+          "mini_headline": "Camerimage opens\non an AI reckoning",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "CM1rPwuXw2A"
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/896255562_1534408348712601_3080537561858593218_n.jpg",
+                "cap": "AI-friendly director Darren Aronofsky received the 2026 Director Award at Camerimage"
               },
               {
                 "t": "p",
-                "x": "In this tutorial, Curious Refuge shows how to create a studio from anywhere in the world: all you need is audio and a reference video. The team calls the workflow \"Studio Anywhere.\""
+                "x": "The AI elephant in the room took center stage on Saturday at the opening night of the 34th Camerimage Film Festival. Instead of avoiding the divisive issue, the Polish fest doubled down."
               },
               {
                 "t": "p",
-                "x": "1. Record your audio on a phone or microphone, then clean it up in Adobe Podcast. 2. Bring the enhanced recording into a video editor (they used Adobe Premiere) and export it as a video with a black screen. 3. Choose a short clip of yourself speaking on camera; they used roughly six seconds of Caleb talking in the studio, since video reference gives the model more to work with than a still image."
+                "x": "For the opening address, in place of festival director Marek Żydowicz, Camerimage sent a humanoid robot, called “Edward Warchocki,” on stage. Żydowicz said the “hopes and threats” of AI would be a major talking point throughout the seven-day event in Toruń."
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/892794790_17896401696613369_2625112634376390574_n.jpg",
+                "cap": "The Camerimage opening ceremony featured a humanoid robot called Edward."
               },
               {
                 "t": "p",
-                "x": "4. Upload the audio and reference to Seedance 2.5 (they used Magnific) and prompt it to use the audio from the black video and the look, movement and environment from the reference. The two inputs had a combined 30-second limit, so longer recordings had to be split. Everyone they showed at Promise Studios thought the result was real."
+                "x": "Video messages from Francis Ford Coppola, Gal Gadot, Christopher Nolan, Maggie Gyllenhaal, Steven Spielberg and Ben Affleck weighed in on AI. Darren Aronofsky, a vocal advocate of generative AI since launching his AI studio Primordial Soup, received the honorary Award for Director; Janusz Kamiński received THR’s Visionary Award."
               },
               {
                 "t": "p",
-                "x": "Compared with HeyGen and a custom-trained LoRA workflow, Seedance 2.5 was the most convincing; HeyGen still landed in the uncanny valley. Reported costs for these examples: about $16 for Seedance 2.5 at 1080p, $0.05 for HeyGen and $24 for the third workflow through fal.ai."
-              },
-              {
-                "t": "p",
-                "x": "Generating the whole performance from a script with Seedance 2.5, Wan 3 and MiniMax H3 produced convincing visuals, but the delivery wasn't there yet. Recording your own audio preserved the timing and personality."
+                "x": "The opening film was Luca Guadagnino’s OpenAI origin story Artificial. Cinematographer Malik Hassan Sayeed called AI “just a tool, like any other”; Guadagnino, who shot it on 35 mm, said its real issues are about “the tech oligarchs.” Camerimage runs through Nov. 14."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 클론이\n카메라 촬영을 대신한다",
-          "body": "Curious Refuge가 녹음과 참조 영상만으로 스튜디오 없이 촬영한다.",
-          "mini_headline": "AI 클론이 촬영을 대신하다",
+          "headline": "Camerimage 34회\nAI를 화두로 개막",
+          "body": "34회 Camerimage가 로봇과 'Artificial'로 AI를 전면에 세웠다.",
+          "mini_headline": "Camerimage,\nAI를 화두로 개막",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "CM1rPwuXw2A"
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/896255562_1534408348712601_3080537561858593218_n.jpg",
+                "cap": "AI-friendly 감독 Darren Aronofsky가 Camerimage에서 2026 Director Award를 받았다"
               },
               {
                 "t": "p",
-                "x": "Curious Refuge가 이번 튜토리얼에서 세계 어디서든 스튜디오를 차리는 법을 소개한다. 오디오와 참조 영상만 있으면 된다. 팀은 이 워크플로에 “Studio Anywhere”라는 이름을 붙였다."
+                "x": "토요일 막을 올린 제34회 Camerimage Film Festival 개막식에서는 다들 말을 아껴 온 AI 문제가 무대 한가운데를 차지했다. 이 폴란드 영화제는 논쟁을 비켜 가지 않고 정면으로 파고들었다."
               },
               {
                 "t": "p",
-                "x": "1. 휴대폰이나 마이크로 오디오를 녹음하고 Adobe Podcast로 다듬는다. 2. 다듬은 녹음을 영상 편집기(팀은 Adobe Premiere를 썼다)에 불러와 검은 화면 영상으로 내보낸다. 3. 카메라 앞에서 말하는 자기 모습을 짧게 담은 클립을 고른다. 팀은 Caleb이 스튜디오에서 말하는 약 여섯 초 분량을 골랐다. 정지 이미지보다 영상 참조가 모델에 주는 정보가 많아서다."
+                "x": "개막 연설은 영화제 집행위원장 Marek Żydowicz가 아니라 “Edward Warchocki”라는 휴머노이드 로봇이 맡았다. Żydowicz는 Toruń에서 일주일간 이어지는 이번 행사 내내 AI의 “희망과 위협”이 주요 화두가 될 것이라고 했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/892794790_17896401696613369_2625112634376390574_n.jpg",
+                "cap": "Camerimage 개막식에 휴머노이드 로봇 Edward가 등장했다."
               },
               {
                 "t": "p",
-                "x": "4. 오디오와 참조 영상을 Seedance 2.5(팀은 Magnific을 썼다)에 올리고 검은 영상에서는 오디오를, 참조 영상에서는 외모와 움직임, 환경을 가져오라고 프롬프트를 쓴다. 두 입력을 합쳐 30초까지만 받아서 긴 녹음은 나눠 넣어야 했다. Promise Studios에서 결과물을 본 사람들은 하나같이 실제 영상인 줄 알았다."
+                "x": "Francis Ford Coppola, Gal Gadot, Christopher Nolan, Maggie Gyllenhaal, Steven Spielberg, Ben Affleck은 영상 메시지로 AI를 어떻게 보는지 밝혔다. AI 스튜디오 Primordial Soup을 세운 뒤 생성형 AI를 적극 옹호해 온 Darren Aronofsky는 명예 Award for Director를, Janusz Kamiński는 THR의 Visionary Award를 받았다."
               },
               {
                 "t": "p",
-                "x": "HeyGen, 직접 학습한 LoRA 워크플로와 견줘 보면 Seedance 2.5 쪽이 가장 그럴듯했다. HeyGen은 아직 불쾌한 골짜기를 벗어나지 못했다. 1080p 기준으로 이 예시들에 든 비용은 Seedance 2.5가 약 $16, HeyGen이 $0.05, fal.ai를 거친 세 번째 워크플로가 $24였다."
-              },
-              {
-                "t": "p",
-                "x": "Seedance 2.5, Wan 3, MiniMax H3로 각본만 넣고 연기까지 통째로 생성하면 그림은 그럴듯해도 연기 전달력은 아직 모자랐다. 목소리를 직접 녹음해 넣으면 타이밍과 개성이 살아났다."
+                "x": "개막작은 OpenAI 탄생 과정을 그린 Luca Guadagnino 감독의 Artificial이었다. 촬영감독 Malik Hassan Sayeed는 AI를 “다른 모든 것과 마찬가지로 하나의 도구일 뿐”이라고 했다. 이 영화를 35 mm로 찍은 Guadagnino는 진짜 문제가 “테크 과두 세력”에 있다고 말했다. Camerimage는 Nov. 14까지 열린다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIクローンが\nカメラ撮影を代行",
-          "body": "Curious Refugeが、録音と参照動画だけでスタジオなしに出演映像を作る方法を示す。",
-          "mini_headline": "AIクローンが撮影を代行",
+          "headline": "Camerimage開幕、\n第34回はAIが焦点",
+          "body": "第34回Camerimageは『Artificial』とロボットでAIを主役に据えた。",
+          "mini_headline": "Camerimage、\nAIを焦点に開幕",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "CM1rPwuXw2A"
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/896255562_1534408348712601_3080537561858593218_n.jpg",
+                "cap": "AI-friendlyな監督Darren AronofskyはCamerimageで2026 Director Awardを受賞した"
               },
               {
                 "t": "p",
-                "x": "このチュートリアルでCurious Refugeは、世界のどこからでもスタジオを作る方法を紹介する。必要なのは音声と参照動画だけだ。チームはこのワークフローを「Studio Anywhere」と呼ぶ。"
+                "x": "第34回Camerimage Film Festivalのオープニングナイトとなった土曜日、誰もが口にしづらいAIの問題が中心に据えられた。このポーランドの映画祭は、意見の割れるこの問題を避けるどころか、さらに踏み込んだ。"
               },
               {
                 "t": "p",
-                "x": "1. スマートフォンかマイクで音声を録音し、Adobe Podcastでクリーンアップする。2. 補正した録音を動画編集ソフト(彼らはAdobe Premiereを使用)に取り込み、黒画面の動画として書き出す。3. カメラに向かって話す自分の短いクリップを選ぶ。彼らはCalebがスタジオで話す約六秒の映像を使った。静止画より動画の参照のほうがモデルに多くの手がかりを与えるからだ。"
+                "x": "開会の挨拶では、映画祭ディレクターのMarek Żydowiczに代わり、Camerimageは「Edward Warchocki」と名付けられた人型ロボットを登壇させた。Żydowiczは、Toruńで七日間にわたって開かれる今回の映画祭を通じて、AIの「希望と脅威」が大きな論点になると述べた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/892794790_17896401696613369_2625112634376390574_n.jpg",
+                "cap": "Camerimageの開会式にはEdwardという人型ロボットが登場した。"
               },
               {
                 "t": "p",
-                "x": "4. 音声と参照をSeedance 2.5(彼らはMagnificを使用)にアップロードし、黒い動画の音声と、参照の見た目・動き・環境を使うようプロンプトで指示する。二つの入力には合計30秒の上限があったため、長い録音は分割する必要があった。Promise Studiosで見せた全員が、結果を本物だと思った。"
+                "x": "Francis Ford Coppola、Gal Gadot、Christopher Nolan、Maggie Gyllenhaal、Steven Spielberg、Ben Affleckはビデオメッセージを寄せ、AIについて意見を述べた。AIスタジオPrimordial Soupを立ち上げて以来、生成AIを積極的に支持してきたDarren Aronofskyが名誉Award for Directorを、Janusz KamińskiがTHRのVisionary Awardを受賞した。"
               },
               {
                 "t": "p",
-                "x": "HeyGenや独自に学習させたLoRAワークフローと比べ、Seedance 2.5が最も自然だった。HeyGenは依然として不気味の谷にとどまった。これらの例で報告されたコストは、1080pのSeedance 2.5が約$16、HeyGenが$0.05、fal.ai経由の三つ目のワークフローが$24だ。"
-              },
-              {
-                "t": "p",
-                "x": "Seedance 2.5、Wan 3、MiniMax H3で台本から演技全体を生成すると映像には説得力があったが、演技の伝え方はまだ及ばなかった。自分の音声を録音すると、間合いと個性が保たれた。"
+                "x": "オープニング作品は、OpenAIの誕生を描いたLuca Guadagnino監督の『Artificial』だった。撮影監督のMalik Hassan SayeedはAIを「ほかと同じ、ただの道具」と呼び、本作を35 mmで撮影したGuadagninoは、本当の問題は「テック・オリガルヒ」にあると語った。Camerimageの会期はNov. 14までである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI克隆人\n代替出镜拍摄",
-          "body": "Curious Refuge演示如何仅凭录音和参考视频，无需影棚即可生成出镜画面。",
-          "mini_headline": "AI克隆代替拍摄",
+          "headline": "第34届Camerimage\n直面AI拉开帷幕",
+          "body": "第34届Camerimage以《Artificial》和机器人开幕，让AI成为焦点。",
+          "mini_headline": "Camerimage\n聚焦AI开幕",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "CM1rPwuXw2A"
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/896255562_1534408348712601_3080537561858593218_n.jpg",
+                "cap": "AI-friendly的导演Darren Aronofsky在Camerimage获得2026 Director Award"
               },
               {
                 "t": "p",
-                "x": "在这期教程中，Curious Refuge展示了如何在世界任何地方打造一间影棚：只需音频和一段参考视频。团队将这一工作流称为“Studio Anywhere”。"
+                "x": "周六，第34届Camerimage Film Festival开幕之夜，人人避而不谈的AI问题被推上了舞台中央。这个波兰电影节没有回避这一争议话题，反而加倍投入。"
               },
               {
                 "t": "p",
-                "x": "1. 用手机或麦克风录制音频，再用Adobe Podcast进行清理。2. 将增强后的录音导入视频编辑软件（他们用的是Adobe Premiere），导出为黑屏视频。3. 选一段自己对着镜头说话的短片；他们用了Caleb在影棚里讲话的约六秒画面，因为视频参考比静态图片能给模型提供更多信息。"
+                "x": "开幕致辞环节，Camerimage没有让电影节主席Marek Żydowicz登台，而是派出一台名为“Edward Warchocki”的人形机器人。Żydowicz表示，在Toruń举行的为期七天的活动中，AI的“希望与威胁”将是主要议题。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/892794790_17896401696613369_2625112634376390574_n.jpg",
+                "cap": "Camerimage开幕式上出现了一台名为Edward的人形机器人。"
               },
               {
                 "t": "p",
-                "x": "4. 将音频和参考素材上传到Seedance 2.5（他们用的是Magnific），并通过提示词让它使用黑屏视频中的音频，以及参考素材中的外观、动作和环境。两段输入合计有30秒的上限，因此较长的录音需要拆分。他们在Promise Studios给所有人看过，大家都以为结果是真的。"
+                "x": "Francis Ford Coppola、Gal Gadot、Christopher Nolan、Maggie Gyllenhaal、Steven Spielberg和Ben Affleck通过视频发表了对AI的看法。自创办AI工作室Primordial Soup以来一直高调支持生成式AI的Darren Aronofsky获得荣誉Award for Director，Janusz Kamiński获得THR的Visionary Award。"
               },
               {
                 "t": "p",
-                "x": "与HeyGen和自定义训练的LoRA工作流相比，Seedance 2.5最逼真；HeyGen仍落入恐怖谷。这些示例的报告成本为：1080p的Seedance 2.5约$16，HeyGen为$0.05，通过fal.ai的第三种工作流为$24。"
-              },
-              {
-                "t": "p",
-                "x": "用Seedance 2.5、Wan 3和MiniMax H3从脚本生成整段表演，画面令人信服，但表演的传达还不到位。自己录制音频则保留了节奏与个性。"
+                "x": "开幕片是Luca Guadagnino讲述OpenAI起源的影片《Artificial》。摄影指导Malik Hassan Sayeed称AI“只是一种工具，和其他工具一样”；用35 mm胶片拍摄该片的Guadagnino则表示，真正的问题在于“科技寡头”。Camerimage将持续至Nov. 14。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un clon de AI sustituye\nal rodaje frente a cámara",
-          "body": "Curious Refuge muestra cómo un audio grabado y un video de referencia permiten obtener tomas a cámara sin estudio.",
-          "mini_headline": "Un clon de AI reemplaza el rodaje",
+          "headline": "Camerimage abre su edición 34\nmirando de frente a la AI",
+          "body": "La edición 34 de Camerimage puso la AI en el centro y abrió con 'Artificial', de Luca Guadagnino, y un robot.",
+          "mini_headline": "Camerimage abre\nmirando a la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "CM1rPwuXw2A"
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/896255562_1534408348712601_3080537561858593218_n.jpg",
+                "cap": "El director AI-friendly Darren Aronofsky recibió el 2026 Director Award en Camerimage"
               },
               {
                 "t": "p",
-                "x": "En este tutorial, Curious Refuge muestra cómo crear un estudio desde cualquier lugar del mundo: solo se necesita audio y un video de referencia. El equipo llama a este flujo de trabajo “Studio Anywhere”."
+                "x": "El elefante en la habitación de la AI ocupó el centro del escenario el sábado en la noche inaugural de la edición 34 del Camerimage Film Festival. En lugar de esquivar este asunto que divide opiniones, el festival polaco redobló la apuesta."
               },
               {
                 "t": "p",
-                "x": "1. Graba tu audio con un teléfono o un micrófono y luego límpialo en Adobe Podcast. 2. Lleva la grabación mejorada a un editor de video (ellos usaron Adobe Premiere) y expórtala como un video con pantalla negra. 3. Elige un clip corto en el que hables a cámara; ellos usaron unos seis segundos de Caleb hablando en el estudio, ya que una referencia en video le da al modelo más información que una imagen fija."
+                "x": "Para el discurso inaugural, en lugar del director del festival, Marek Żydowicz, Camerimage subió al escenario a un robot humanoide llamado “Edward Warchocki”. Żydowicz dijo que las “esperanzas y amenazas” de la AI serían un tema central a lo largo de los siete días del evento en Toruń."
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/892794790_17896401696613369_2625112634376390574_n.jpg",
+                "cap": "La ceremonia inaugural de Camerimage contó con un robot humanoide llamado Edward."
               },
               {
                 "t": "p",
-                "x": "4. Sube el audio y la referencia a Seedance 2.5 (ellos usaron Magnific) e indícale en el prompt que use el audio del video negro y el aspecto, el movimiento y el entorno de la referencia. Las dos entradas tenían un límite combinado de 30 segundos, así que las grabaciones más largas tuvieron que dividirse. Todas las personas a las que se lo mostraron en Promise Studios pensaron que el resultado era real."
+                "x": "Francis Ford Coppola, Gal Gadot, Christopher Nolan, Maggie Gyllenhaal, Steven Spielberg y Ben Affleck opinaron sobre la AI en mensajes de video. Darren Aronofsky, firme defensor de la AI generativa desde que fundó su estudio de AI Primordial Soup, recibió el Award for Director honorífico; Janusz Kamiński recibió el Visionary Award de THR."
               },
               {
                 "t": "p",
-                "x": "Frente a HeyGen y a un flujo de trabajo con un LoRA entrenado a medida, Seedance 2.5 fue el más convincente; HeyGen todavía caía en el valle inquietante. Costos reportados para estos ejemplos: unos $16 para Seedance 2.5 a 1080p, $0.05 para HeyGen y $24 para el tercer flujo de trabajo a través de fal.ai."
-              },
-              {
-                "t": "p",
-                "x": "Generar toda la actuación a partir de un guion con Seedance 2.5, Wan 3 y MiniMax H3 produjo imágenes convincentes, pero la interpretación todavía no estaba a la altura. Grabar tu propio audio conservó el ritmo y la personalidad."
+                "x": "La película inaugural fue Artificial, de Luca Guadagnino, sobre los orígenes de OpenAI. El director de fotografía Malik Hassan Sayeed calificó la AI de “solo una herramienta, como cualquier otra”; Guadagnino, que la rodó en 35 mm, dijo que sus verdaderos problemas tienen que ver con “los oligarcas tecnológicos”. Camerimage se celebra hasta el 14 de noviembre (Nov. 14)."
               }
             ]
           }
@@ -1061,137 +1555,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 클론이\n카메라 촬영을 대신한다",
-          "body": "Curious Refuge가 녹음과 참조 영상으로 스튜디오 없는 촬영법을 보여준다.",
-          "mini_headline": "AI 클론이 촬영을 대신하다",
+          "headline": "Camerimage 34회\nAI를 화두로 개막",
+          "body": "34회 Camerimage가 로봇과 'Artificial'로 AI를 전면에 세웠다.",
+          "mini_headline": "Camerimage,\nAI를 화두로 개막",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "CM1rPwuXw2A"
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/896255562_1534408348712601_3080537561858593218_n.jpg",
+                "cap": "AI-friendly 성향의 감독 Darren Aronofsky가 Camerimage에서 2026 Director Award를 받았다"
               },
               {
                 "t": "p",
-                "x": "Curious Refuge는 이번 튜토리얼에서 세계 어디서든 스튜디오를 만드는 방법을 보여준다. 필요한 것은 오디오와 참조 영상뿐이다. 팀은 이 워크플로를 “Studio Anywhere”라고 부른다."
+                "x": "토요일 열린 제34회 Camerimage Film Festival 개막식에서 모두가 말을 아껴 온 AI 문제가 무대 중앙을 차지했다. 이 폴란드 영화제는 논쟁적인 사안을 피하는 대신 오히려 정면으로 파고들었다."
               },
               {
                 "t": "p",
-                "x": "1. 휴대폰이나 마이크로 오디오를 녹음한 뒤 Adobe Podcast로 다듬는다. 2. 개선한 녹음을 영상 편집기(이들은 Adobe Premiere를 썼다)로 가져와 검은 화면 영상으로 내보낸다. 3. 카메라 앞에서 말하는 자신의 짧은 클립을 고른다. 이들은 Caleb이 스튜디오에서 말하는 약 여섯 초 분량을 썼다. 영상 참조가 정지 이미지보다 모델에 더 많은 정보를 주기 때문이다."
+                "x": "개막 연설은 영화제 집행위원장 Marek Żydowicz 대신 “Edward Warchocki”라는 휴머노이드 로봇이 무대에 올라 맡았다. Żydowicz는 Toruń에서 일주일간 열리는 이번 행사 내내 AI의 “희망과 위협”이 주요 화두가 될 것이라고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/892794790_17896401696613369_2625112634376390574_n.jpg",
+                "cap": "Camerimage 개막식에는 Edward라는 휴머노이드 로봇이 등장했다."
               },
               {
                 "t": "p",
-                "x": "4. 오디오와 참조 영상을 Seedance 2.5(이들은 Magnific을 썼다)에 올리고, 검은 영상의 오디오와 참조 영상의 외모, 움직임, 환경을 쓰도록 프롬프트를 입력한다. 두 입력의 합계 길이 제한이 30초여서 긴 녹음은 나눠야 했다. Promise Studios에서 결과물을 본 사람은 모두 실제 영상이라고 생각했다."
+                "x": "Francis Ford Coppola, Gal Gadot, Christopher Nolan, Maggie Gyllenhaal, Steven Spielberg, Ben Affleck은 영상 메시지로 AI에 대한 생각을 밝혔다. AI 스튜디오 Primordial Soup을 세운 뒤 생성형 AI를 적극 옹호해 온 Darren Aronofsky는 명예 Award for Director를, Janusz Kamiński는 THR의 Visionary Award를 받았다."
               },
               {
                 "t": "p",
-                "x": "HeyGen, 직접 학습한 LoRA 워크플로와 비교하면 Seedance 2.5가 가장 그럴듯했다. HeyGen은 여전히 불쾌한 골짜기에 머물렀다. 이 예시들의 비용은 1080p 기준 Seedance 2.5가 약 $16, HeyGen이 $0.05, fal.ai를 거친 세 번째 워크플로가 $24였다."
-              },
-              {
-                "t": "p",
-                "x": "Seedance 2.5, Wan 3, MiniMax H3로 각본에서 연기 전체를 생성하자 화면은 그럴듯했지만 연기 전달력은 아직 부족했다. 자신의 오디오를 직접 녹음하면 타이밍과 개성이 살아났다."
+                "x": "개막작은 OpenAI의 탄생 과정을 그린 Luca Guadagnino 감독의 Artificial이었다. 촬영감독 Malik Hassan Sayeed는 AI를 “다른 모든 것과 마찬가지로 하나의 도구일 뿐”이라고 했고, 이 영화를 35 mm로 촬영한 Guadagnino는 진짜 문제는 “테크 과두 세력”에 관한 것이라고 말했다. Camerimage는 Nov. 14까지 이어진다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIクローンが\nカメラ撮影を代行",
-          "body": "Curious Refugeが、録音と参照動画だけでスタジオなしに出演映像を作る方法を示す。",
-          "mini_headline": "AIクローンが撮影を代行",
+          "headline": "Camerimage開幕、\n第34回はAIが焦点",
+          "body": "第34回Camerimageは『Artificial』とロボットでAIを主役に据えた。",
+          "mini_headline": "Camerimage、\nAIを焦点に開幕",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "CM1rPwuXw2A"
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/896255562_1534408348712601_3080537561858593218_n.jpg",
+                "cap": "AI-friendlyな監督Darren AronofskyはCamerimageで2026 Director Awardを受賞した"
               },
               {
                 "t": "p",
-                "x": "このチュートリアルでCurious Refugeは、世界のどこからでもスタジオを作る方法を紹介する。必要なのは音声と参照動画だけだ。チームはこのワークフローを「Studio Anywhere」と呼ぶ。"
+                "x": "第34回Camerimage Film Festivalのオープニングナイトとなった土曜日、誰もが口にしづらいAIの問題が中心に据えられた。このポーランドの映画祭は、意見の割れるこの問題を避けるどころか、さらに踏み込んだ。"
               },
               {
                 "t": "p",
-                "x": "1. スマートフォンかマイクで音声を録音し、Adobe Podcastでクリーンアップする。2. 補正した録音を動画編集ソフト(彼らはAdobe Premiereを使用)に取り込み、黒画面の動画として書き出す。3. カメラに向かって話す自分の短いクリップを選ぶ。彼らはCalebがスタジオで話す約六秒の映像を使った。静止画より動画の参照のほうがモデルに多くの手がかりを与えるからだ。"
+                "x": "開会の挨拶では、映画祭ディレクターのMarek Żydowiczに代わり、Camerimageは「Edward Warchocki」と名付けられた人型ロボットを登壇させた。Żydowiczは、Toruńで七日間にわたって開かれる今回の映画祭を通じて、AIの「希望と脅威」が大きな論点になると述べた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/892794790_17896401696613369_2625112634376390574_n.jpg",
+                "cap": "Camerimageの開会式にはEdwardという人型ロボットが登場した。"
               },
               {
                 "t": "p",
-                "x": "4. 音声と参照をSeedance 2.5(彼らはMagnificを使用)にアップロードし、黒い動画の音声と、参照の見た目・動き・環境を使うようプロンプトで指示する。二つの入力には合計30秒の上限があったため、長い録音は分割する必要があった。Promise Studiosで見せた全員が、結果を本物だと思った。"
+                "x": "Francis Ford Coppola、Gal Gadot、Christopher Nolan、Maggie Gyllenhaal、Steven Spielberg、Ben Affleckはビデオメッセージを寄せ、AIについて意見を述べた。AIスタジオPrimordial Soupを立ち上げて以来、生成AIを積極的に支持してきたDarren Aronofskyが名誉Award for Directorを、Janusz KamińskiがTHRのVisionary Awardを受賞した。"
               },
               {
                 "t": "p",
-                "x": "HeyGenや独自に学習させたLoRAワークフローと比べ、Seedance 2.5が最も自然だった。HeyGenは依然として不気味の谷にとどまった。これらの例で報告されたコストは、1080pのSeedance 2.5が約$16、HeyGenが$0.05、fal.ai経由の三つ目のワークフローが$24だ。"
-              },
-              {
-                "t": "p",
-                "x": "Seedance 2.5、Wan 3、MiniMax H3で台本から演技全体を生成すると映像には説得力があったが、演技の伝え方はまだ及ばなかった。自分の音声を録音すると、間合いと個性が保たれた。"
+                "x": "オープニング作品は、OpenAIの誕生を描いたLuca Guadagnino監督の『Artificial』だった。撮影監督のMalik Hassan SayeedはAIを「ほかと同じ、ただの道具」と呼び、本作を35 mmで撮影したGuadagninoは、本当の問題は「テック・オリガルヒ」にあると語った。Camerimageの会期はNov. 14までである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI克隆人\n代替出镜拍摄",
-          "body": "Curious Refuge演示如何仅凭录音和参考视频，无需影棚即可生成出镜画面。",
-          "mini_headline": "AI克隆代替拍摄",
+          "headline": "第34届Camerimage\n直面AI拉开帷幕",
+          "body": "第34届Camerimage以《Artificial》和机器人开幕，让AI成为焦点。",
+          "mini_headline": "Camerimage\n聚焦AI开幕",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "CM1rPwuXw2A"
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/896255562_1534408348712601_3080537561858593218_n.jpg",
+                "cap": "AI-friendly的导演Darren Aronofsky在Camerimage获得2026 Director Award"
               },
               {
                 "t": "p",
-                "x": "在这期教程中，Curious Refuge展示了如何在世界任何地方打造一间影棚：只需音频和一段参考视频。团队将这一工作流称为“Studio Anywhere”。"
+                "x": "周六，第34届Camerimage Film Festival开幕之夜，人人避而不谈的AI问题被推上了舞台中央。这个波兰电影节没有回避这一争议话题，反而加倍投入。"
               },
               {
                 "t": "p",
-                "x": "1. 用手机或麦克风录制音频，再用Adobe Podcast进行清理。2. 将增强后的录音导入视频编辑软件（他们用的是Adobe Premiere），导出为黑屏视频。3. 选一段自己对着镜头说话的短片；他们用了Caleb在影棚里讲话的约六秒画面，因为视频参考比静态图片能给模型提供更多信息。"
+                "x": "开幕致辞环节，Camerimage没有让电影节主席Marek Żydowicz登台，而是派出一台名为“Edward Warchocki”的人形机器人。Żydowicz表示，在Toruń举行的为期七天的活动中，AI的“希望与威胁”将是主要议题。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/892794790_17896401696613369_2625112634376390574_n.jpg",
+                "cap": "Camerimage开幕式上出现了一台名为Edward的人形机器人。"
               },
               {
                 "t": "p",
-                "x": "4. 将音频和参考素材上传到Seedance 2.5（他们用的是Magnific），并通过提示词让它使用黑屏视频中的音频，以及参考素材中的外观、动作和环境。两段输入合计有30秒的上限，因此较长的录音需要拆分。他们在Promise Studios给所有人看过，大家都以为结果是真的。"
+                "x": "Francis Ford Coppola、Gal Gadot、Christopher Nolan、Maggie Gyllenhaal、Steven Spielberg和Ben Affleck通过视频发表了对AI的看法。自创办AI工作室Primordial Soup以来一直高调支持生成式AI的Darren Aronofsky获得荣誉Award for Director，Janusz Kamiński获得THR的Visionary Award。"
               },
               {
                 "t": "p",
-                "x": "与HeyGen和自定义训练的LoRA工作流相比，Seedance 2.5最逼真；HeyGen仍落入恐怖谷。这些示例的报告成本为：1080p的Seedance 2.5约$16，HeyGen为$0.05，通过fal.ai的第三种工作流为$24。"
-              },
-              {
-                "t": "p",
-                "x": "用Seedance 2.5、Wan 3和MiniMax H3从脚本生成整段表演，画面令人信服，但表演的传达还不到位。自己录制音频则保留了节奏与个性。"
+                "x": "开幕片是Luca Guadagnino讲述OpenAI起源的影片《Artificial》。摄影指导Malik Hassan Sayeed称AI“只是一种工具，和其他工具一样”；用35 mm胶片拍摄该片的Guadagnino则表示，真正的问题在于“科技寡头”。Camerimage将持续至Nov. 14。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un clon de AI sustituye\nal rodaje frente a cámara",
-          "body": "Curious Refuge muestra cómo un audio grabado y un video de referencia permiten obtener tomas a cámara sin estudio.",
-          "mini_headline": "Un clon de AI reemplaza el rodaje",
+          "headline": "Camerimage abre su edición 34\nmirando de frente a la AI",
+          "body": "La edición 34 de Camerimage puso la AI en el centro y abrió con 'Artificial', de Luca Guadagnino, y un robot.",
+          "mini_headline": "Camerimage abre\nmirando a la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "CM1rPwuXw2A"
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/896255562_1534408348712601_3080537561858593218_n.jpg",
+                "cap": "El director AI-friendly Darren Aronofsky recibió el 2026 Director Award en Camerimage"
               },
               {
                 "t": "p",
-                "x": "En este tutorial, Curious Refuge muestra cómo crear un estudio desde cualquier lugar del mundo: solo se necesita audio y un video de referencia. El equipo llama a este flujo de trabajo “Studio Anywhere”."
+                "x": "El elefante en la habitación de la AI ocupó el centro del escenario el sábado en la noche inaugural de la edición 34 del Camerimage Film Festival. En lugar de esquivar este asunto que divide opiniones, el festival polaco redobló la apuesta."
               },
               {
                 "t": "p",
-                "x": "1. Graba tu audio con un teléfono o un micrófono y luego límpialo en Adobe Podcast. 2. Lleva la grabación mejorada a un editor de video (ellos usaron Adobe Premiere) y expórtala como un video con pantalla negra. 3. Elige un clip corto en el que hables a cámara; ellos usaron unos seis segundos de Caleb hablando en el estudio, ya que una referencia en video le da al modelo más información que una imagen fija."
+                "x": "Para el discurso inaugural, en lugar del director del festival, Marek Żydowicz, Camerimage subió al escenario a un robot humanoide llamado “Edward Warchocki”. Żydowicz dijo que las “esperanzas y amenazas” de la AI serían un tema central a lo largo de los siete días del evento en Toruń."
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/892794790_17896401696613369_2625112634376390574_n.jpg",
+                "cap": "La ceremonia inaugural de Camerimage contó con un robot humanoide llamado Edward."
               },
               {
                 "t": "p",
-                "x": "4. Sube el audio y la referencia a Seedance 2.5 (ellos usaron Magnific) e indícale en el prompt que use el audio del video negro y el aspecto, el movimiento y el entorno de la referencia. Las dos entradas tenían un límite combinado de 30 segundos, así que las grabaciones más largas tuvieron que dividirse. Todas las personas a las que se lo mostraron en Promise Studios pensaron que el resultado era real."
+                "x": "Francis Ford Coppola, Gal Gadot, Christopher Nolan, Maggie Gyllenhaal, Steven Spielberg y Ben Affleck opinaron sobre la AI en mensajes de video. Darren Aronofsky, firme defensor de la AI generativa desde que fundó su estudio de AI Primordial Soup, recibió el Award for Director honorífico; Janusz Kamiński recibió el Visionary Award de THR."
               },
               {
                 "t": "p",
-                "x": "Frente a HeyGen y a un flujo de trabajo con un LoRA entrenado a medida, Seedance 2.5 fue el más convincente; HeyGen todavía caía en el valle inquietante. Costos reportados para estos ejemplos: unos $16 para Seedance 2.5 a 1080p, $0.05 para HeyGen y $24 para el tercer flujo de trabajo a través de fal.ai."
-              },
-              {
-                "t": "p",
-                "x": "Generar toda la actuación a partir de un guion con Seedance 2.5, Wan 3 y MiniMax H3 produjo imágenes convincentes, pero la interpretación todavía no estaba a la altura. Grabar tu propio audio conservó el ritmo y la personalidad."
+                "x": "La película inaugural fue Artificial, de Luca Guadagnino, sobre los orígenes de OpenAI. El director de fotografía Malik Hassan Sayeed calificó la AI de “solo una herramienta, como cualquier otra”; Guadagnino, que la rodó en 35 mm, dijo que sus verdaderos problemas tienen que ver con “los oligarcas tecnológicos”. Camerimage se celebra hasta el 14 de noviembre (Nov. 14)."
               }
             ]
           }
@@ -1199,247 +1701,15 @@
       }
     },
     {
-      "id": "curiousrefuge-sam-audio-music",
+      "id": "iqiyi-nadoupro-1938-film",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 클립 음악 제거,\nMeta SAM Audio",
-      "body": "Curious Refuge가 Meta의 무료 SAM Audio로 음악만 걷어낸다.",
-      "mini_headline": "SAM Audio로 음악 제거",
+      "headline": "iQIYI, 1938년\n유실 영화 AI 재해석",
+      "body": "여덟 명이 iQIYI NadouPro로 1938년 유실 영화를 새로 만들었다.",
+      "mini_headline": "iQIYI AI, 1938년\n유실 영화 재해석",
       "tool": "Movies",
-      "source": "Curious Refuge",
-      "url": "https://www.youtube.com/watch?v=u78B727zbRI",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "u78B727zbRI"
-          },
-          {
-            "t": "p",
-            "x": "Caleb은 이 짧은 튜토리얼에서 Meta의 무료 사운드 분리 도구 SAM Audio로 어느 클립에서든 음악을 걷어내는 법을 보여준다. 효과음만 깨끗하게 남기고 원하는 음악은 편집기에서 직접 깔면 된다. AI 클립뿐 아니라 일반 영상에도 통한다."
-          },
-          {
-            "t": "p",
-            "x": "타임코드(Time Code): 0:00 AI 음악 문제 · 0:44 Meta의 SAM Audio 소개 · 1:09 Seedance 클립 업로드 · 2:21 프롬프트로 음악 분리 · 2:57 음악만(Music-only) vs. 효과음만(sound effects-only) · 4:21 예시: 커피 장면 · 5:43 예시: Sci-fi 장면 · 6:51 모든 영상에 적용"
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Strip music from AI clips\nwith Meta's SAM Audio",
-          "body": "Curious Refuge shows how Meta's free SAM Audio strips music from clips to leave clean effects tracks.",
-          "mini_headline": "SAM Audio strips music",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "u78B727zbRI"
-              },
-              {
-                "t": "p",
-                "x": "In this quick tutorial, Caleb shows you how to strip the music out of any clip using SAM Audio, Meta’s free sound isolation tool. That way, you get clean sound effects and can add your own music in your editor. It works on regular footage too, not just AI clips."
-              },
-              {
-                "t": "p",
-                "x": "Time Code: 0:00 The AI music problem · 0:44 Meet SAM Audio from Meta · 1:09 Uploading your Seedance clip · 2:21 Isolating the music with a prompt · 2:57 Music-only vs. sound effects-only · 4:21 Example: Coffee scene · 5:43 Example: Sci-fi scene · 6:51 Works on any footage"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 클립 음악 제거,\nMeta SAM Audio",
-          "body": "Curious Refuge가 Meta의 무료 SAM Audio로 음악만 걷어낸다.",
-          "mini_headline": "SAM Audio로 음악 제거",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "u78B727zbRI"
-              },
-              {
-                "t": "p",
-                "x": "Caleb은 이 짧은 튜토리얼에서 Meta의 무료 사운드 분리 도구 SAM Audio로 어느 클립에서든 음악을 걷어내는 법을 보여준다. 효과음만 깨끗하게 남기고 원하는 음악은 편집기에서 직접 깔면 된다. AI 클립뿐 아니라 일반 영상에도 통한다."
-              },
-              {
-                "t": "p",
-                "x": "타임코드(Time Code): 0:00 AI 음악 문제 · 0:44 Meta의 SAM Audio 소개 · 1:09 Seedance 클립 업로드 · 2:21 프롬프트로 음악 분리 · 2:57 음악만(Music-only) vs. 효과음만(sound effects-only) · 4:21 예시: 커피 장면 · 5:43 예시: Sci-fi 장면 · 6:51 모든 영상에 적용"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIクリップの音楽を消す\nMeta SAM Audio",
-          "body": "Curious Refugeが、Meta無料のSAM Audioで音楽を除く方法を示す。",
-          "mini_headline": "SAM Audioで音楽を除去",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "u78B727zbRI"
-              },
-              {
-                "t": "p",
-                "x": "この短いチュートリアルでCalebは、Metaの無料音声分離ツールSAM Audioを使い、どんなクリップからでも音楽を取り除く方法を紹介する。これでクリーンな効果音が得られ、編集ソフトで自分の音楽を加えられる。AIクリップだけでなく通常の映像にも使える。"
-              },
-              {
-                "t": "p",
-                "x": "タイムコード(Time Code): 0:00 AI音楽の問題 · 0:44 MetaのSAM Audioを紹介 · 1:09 Seedanceクリップのアップロード · 2:21 プロンプトで音楽を分離 · 2:57 音楽のみ(Music-only) vs. 効果音のみ(sound effects-only) · 4:21 例:コーヒーのシーン · 5:43 例:Sci-fiのシーン · 6:51 どんな映像にも使える"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "去除AI片段配乐\nMeta SAM Audio",
-          "body": "Curious Refuge演示用Meta免费的SAM Audio去除片段配乐、保留音效。",
-          "mini_headline": "SAM Audio去除配乐",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "u78B727zbRI"
-              },
-              {
-                "t": "p",
-                "x": "在这期简短教程中，Caleb演示如何用Meta的免费声音分离工具SAM Audio去除任意片段中的音乐。这样就能得到干净的音效，并在剪辑软件中加入自己的音乐。它不仅适用于AI片段，也适用于普通素材。"
-              },
-              {
-                "t": "p",
-                "x": "时间码(Time Code)：0:00 AI音乐问题 · 0:44 认识Meta的SAM Audio · 1:09 上传Seedance片段 · 2:21 用提示词分离音乐 · 2:57 仅音乐(Music-only) vs. 仅音效(sound effects-only) · 4:21 示例：咖啡场景 · 5:43 示例：Sci-fi场景 · 6:51 适用于任何素材"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Quita la música de clips de AI\ncon SAM Audio de Meta",
-          "body": "Curious Refuge muestra cómo el SAM Audio gratuito de Meta quita la música de los clips y deja efectos limpios.",
-          "mini_headline": "SAM Audio quita la música",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "u78B727zbRI"
-              },
-              {
-                "t": "p",
-                "x": "En este breve tutorial, Caleb muestra cómo quitar la música de cualquier clip con SAM Audio, la herramienta gratuita de aislamiento de sonido de Meta. Así se obtienen efectos de sonido limpios y se puede añadir música propia en el editor. También funciona con metraje normal, no solo con clips de AI."
-              },
-              {
-                "t": "p",
-                "x": "Time Code: 0:00 El problema de la música con AI · 0:44 Presentamos SAM Audio de Meta · 1:09 Subir tu clip de Seedance · 2:21 Aislar la música con un prompt · 2:57 Solo música (Music-only) vs. solo efectos de sonido (sound effects-only) · 4:21 Ejemplo: escena de café · 5:43 Ejemplo: escena de ciencia ficción (Sci-fi) · 6:51 Funciona con cualquier metraje"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI 클립 음악 제거,\nMeta SAM Audio",
-          "body": "Curious Refuge가 Meta의 무료 SAM Audio로 음악만 걷어낸다.",
-          "mini_headline": "SAM Audio로 음악 제거",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "u78B727zbRI"
-              },
-              {
-                "t": "p",
-                "x": "이 짧은 튜토리얼에서 Caleb은 Meta의 무료 사운드 분리 도구 SAM Audio로 어떤 클립에서든 음악을 걷어내는 방법을 보여준다. 이렇게 하면 깨끗한 효과음을 얻고 편집기에서 원하는 음악을 직접 넣을 수 있다. AI 클립뿐 아니라 일반 영상에도 통한다."
-              },
-              {
-                "t": "p",
-                "x": "타임코드(Time Code): 0:00 AI 음악 문제 · 0:44 Meta의 SAM Audio 소개 · 1:09 Seedance 클립 업로드 · 2:21 프롬프트로 음악 분리 · 2:57 음악만(Music-only) vs. 효과음만(sound effects-only) · 4:21 예시: 커피 장면 · 5:43 예시: Sci-fi 장면 · 6:51 모든 영상에 적용"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIクリップの音楽を消す\nMeta SAM Audio",
-          "body": "Curious Refugeが、Meta無料のSAM Audioで音楽を除く方法を示す。",
-          "mini_headline": "SAM Audioで音楽を除去",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "u78B727zbRI"
-              },
-              {
-                "t": "p",
-                "x": "この短いチュートリアルでCalebは、Metaの無料音声分離ツールSAM Audioを使い、どんなクリップからでも音楽を取り除く方法を紹介する。これでクリーンな効果音が得られ、編集ソフトで自分の音楽を加えられる。AIクリップだけでなく通常の映像にも使える。"
-              },
-              {
-                "t": "p",
-                "x": "タイムコード(Time Code): 0:00 AI音楽の問題 · 0:44 MetaのSAM Audioを紹介 · 1:09 Seedanceクリップのアップロード · 2:21 プロンプトで音楽を分離 · 2:57 音楽のみ(Music-only) vs. 効果音のみ(sound effects-only) · 4:21 例:コーヒーのシーン · 5:43 例:Sci-fiのシーン · 6:51 どんな映像にも使える"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "去除AI片段配乐\nMeta SAM Audio",
-          "body": "Curious Refuge演示用Meta免费的SAM Audio去除片段配乐、保留音效。",
-          "mini_headline": "SAM Audio去除配乐",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "u78B727zbRI"
-              },
-              {
-                "t": "p",
-                "x": "在这期简短教程中，Caleb演示如何用Meta的免费声音分离工具SAM Audio去除任意片段中的音乐。这样就能得到干净的音效，并在剪辑软件中加入自己的音乐。它不仅适用于AI片段，也适用于普通素材。"
-              },
-              {
-                "t": "p",
-                "x": "时间码(Time Code)：0:00 AI音乐问题 · 0:44 认识Meta的SAM Audio · 1:09 上传Seedance片段 · 2:21 用提示词分离音乐 · 2:57 仅音乐(Music-only) vs. 仅音效(sound effects-only) · 4:21 示例：咖啡场景 · 5:43 示例：Sci-fi场景 · 6:51 适用于任何素材"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Quita la música de clips de AI\ncon SAM Audio de Meta",
-          "body": "Curious Refuge muestra cómo el SAM Audio gratuito de Meta quita la música de los clips y deja efectos limpios.",
-          "mini_headline": "SAM Audio quita la música",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "u78B727zbRI"
-              },
-              {
-                "t": "p",
-                "x": "En este breve tutorial, Caleb muestra cómo quitar la música de cualquier clip con SAM Audio, la herramienta gratuita de aislamiento de sonido de Meta. Así se obtienen efectos de sonido limpios y se puede añadir música propia en el editor. También funciona con metraje normal, no solo con clips de AI."
-              },
-              {
-                "t": "p",
-                "x": "Time Code: 0:00 El problema de la música con AI · 0:44 Presentamos SAM Audio de Meta · 1:09 Subir tu clip de Seedance · 2:21 Aislar la música con un prompt · 2:57 Solo música (Music-only) vs. solo efectos de sonido (sound effects-only) · 4:21 Ejemplo: escena de café · 5:43 Ejemplo: escena de ciencia ficción (Sci-fi) · 6:51 Funciona con cualquier metraje"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "pvc-ai-firmware-framerate",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI-written 펌웨어\n누락 프레임레이트 고칠까",
-      "body": "AI로 짠 펌웨어 모드가 제조사보다 먼저 빠진 프레임레이트를 되살릴지 모른다.",
-      "mini_headline": "AI 모드로 프레임레이트 복구",
-      "tool": "Movies",
-      "source": "ProVideo Coalition",
-      "url": "https://www.provideocoalition.com/camera-improvements-will-ai-mods-fix-framerate-malpractice-before-the-guilty-manufacturers-bother-to-do-it-themselves/",
+      "source": "Unite.AI",
+      "url": "https://www.unite.ai/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow/",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1447,209 +1717,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.provideocoalition.com/wp-content/uploads/Framerate-malpractice-hero.jpg",
-            "cap": "Framerate Malpractice"
+            "src": "https://www.unite.ai/wp-content/uploads/2026/11/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow.jpg"
           },
           {
             "t": "p",
-            "x": "지금까지 나는 Framerate Malpractice를 저지른 카메라 제조사 두 곳을 다뤘다. GoPro와 Sony(제품군 일부)다. 그 뒤 DJI도 마찬가지라는 걸 알게 됐다. 요즘 내 YouTube 피드에는 여러 사람이 AI로 펌웨어 업데이트를 만들어 카메라에 빠진 기능을 채워 넣은 사례가 뜨기 시작했다."
+            "x": "iQIYI는 2026년 11월 6일, 여덟 명으로 꾸린 팀이 자사 NadouPro 플랫폼으로 프린트·릴·대본이 모두 사라진 1938년 영화를 재구성했다고 발표했다. 두 달 만에 완성한 단편은 제39회 Golden Rooster Awards의 2026 Future Images AI Unit 후보에 올랐다."
           },
           {
             "t": "p",
-            "x": "그래서 궁금해진다. 문제의 제조사들이 직접 손보기 전에 AI 모드가 Framerate Malpractice를 먼저 고칠까? 서드파티(third-party) 해킹으로 딱 그 부분을 고친 사례는 아직 못 봤지만 시간문제일 공산이 크다. AI 이전에도 여러 Canon 모델에 쓰던 유명한 Magic Lantern 펌웨어가 있었고 카메라를 quasi-worldcam(준 월드캠)으로 바꾸는 Sony 해킹도 있었다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.provideocoalition.com/wp-content/uploads/Sony-A7S-III-rounded-framerates.png",
-            "cap": "Sony A7S III의 반올림된 프레임레이트"
+            "x": "Visiting Shanghai after Sixty Years는 90년 가까이 유실됐고, 남은 것은 제작 스틸 사진과 포스터, 신문 스크랩뿐이었다. 이 자료들이 새 버전을 생성할 개념적 길잡이였다. iQIYI의 AI 복원 기술 책임자 Zidong Jiang은 남은 프린트를 복원하기보다 쓸 수 있는 역사 자료로 창의적 재구성을 노렸다고 말했다."
           },
           {
             "t": "p",
-            "x": "최근 나온 AI 개조 사례를 시간순으로 꼽으면 Breno Loves Cameras의 “Hacking Camera Software with AI is Getting Crazy”, FUTC의 “AI Camera Jailbreaking Changes Everything”, Tony & Chelsea Northrup의 “I hacked my camera with AI (and so can you)”가 있다."
+            "x": "팀은 1938년과 1998년의 이야기에서 인물이 흔들리지 않도록 숏을 생성하기 전에 인물별 얼굴 특징·비율·의상을 디지털 에셋으로 고정했다. 위치와 구도, 움직임은 NadouPro의 3D Director Studio로 조정했다. 감독 Enji Yang은 “AI로 어떻게 구현할지 고민하기 전에 영화의 시청각 설계가 먼저여야 한다고 늘 믿는다”고 말했다."
           },
           {
-            "t": "video",
-            "yt": "sJYBs5CLywk"
+            "t": "p",
+            "x": "완성된 단편은 역사 자료에 근거한 새로운 해석일 뿐, 유실된 원본 필름을 되찾은 것은 아니다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI-written firmware mods\ncould fix missing frame rates",
-          "body": "Users are now writing camera firmware mods with AI, which may restore missing frame rates before makers do.",
-          "mini_headline": "AI mods for frame rates",
+          "headline": "iQIYI reimagines a lost 1938\nfilm with its AI platform",
+          "body": "An eight-person team used iQIYI's NadouPro to generate a new version of a lost 1938 film from surviving stills.",
+          "mini_headline": "iQIYI AI reimagines\na lost 1938 film",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Framerate-malpractice-hero.jpg",
-                "cap": "Framerate Malpractice"
+                "src": "https://www.unite.ai/wp-content/uploads/2026/11/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow.jpg"
               },
               {
                 "t": "p",
-                "x": "So far, I have covered two camera manufacturers which are guilty of Framerate Malpractice. They are GoPro and Sony (in part of its line). Later, I discovered that DJI is equally guilty. Now, my YouTube feed is starting to include situations where several different people have used AI to add missing features to their cameras via firmware updates."
+                "x": "An eight-person team used iQIYI’s NadouPro platform to reconstruct a 1938 film whose prints, reels and scripts had been lost, the company announced on November 6, 2026. The short, completed in two months, was shortlisted for the 2026 Future Images AI Unit at the 39th Golden Rooster Awards."
               },
               {
                 "t": "p",
-                "x": "So now, the question is: Will AI mods fix Framerate Malpractice before the guilty manufacturers bother to do it themselves? I have not yet seen that specific fix done via a third-party hack, but it is likely just a question of time. Even before AI, we had the famous Magic Lantern firmware for various Canon models, and the Sony hack to make cameras become quasi-worldcam."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Sony-A7S-III-rounded-framerates.png",
-                "cap": "Sony A7S III rounded framerates"
+                "x": "Visiting Shanghai after Sixty Years had been lost for nearly 90 years, leaving production still photographs, posters and newspaper clippings as the conceptual guides for generating a new version. Zidong Jiang, iQIYI’s director of AI restoration technology, said the team pursued a creative reconstruction based on available historical materials rather than attempting to restore a surviving print."
               },
               {
                 "t": "p",
-                "x": "Recent examples of AI modifications, in chronological order: “Hacking Camera Software with AI is Getting Crazy” from Breno Loves Cameras; “AI Camera Jailbreaking Changes Everything” from FUTC; and “I hacked my camera with AI (and so can you)” from Tony & Chelsea Northrup."
+                "x": "To keep characters consistent across the 1938 and 1998 storylines, the team fixed digital assets for each character’s facial features, proportions and costumes before generating shots. NadouPro’s 3D Director Studio let them adjust positioning, composition and movement. “We always believe the audiovisual design of a film must come first, before considering how AI can realize it,” director Enji Yang said."
               },
               {
-                "t": "video",
-                "yt": "sJYBs5CLywk"
+                "t": "p",
+                "x": "The resulting short is a new interpretation guided by historical evidence; it does not recover the lost original footage."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI-written 펌웨어\n누락 프레임레이트 고칠까",
-          "body": "AI로 짠 펌웨어 모드가 제조사보다 먼저 빠진 프레임레이트를 되살릴지 모른다.",
-          "mini_headline": "AI 모드로 프레임레이트 복구",
+          "headline": "iQIYI, 1938년\n유실 영화 AI 재해석",
+          "body": "여덟 명이 iQIYI NadouPro로 1938년 유실 영화를 새로 만들었다.",
+          "mini_headline": "iQIYI AI, 1938년\n유실 영화 재해석",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Framerate-malpractice-hero.jpg",
-                "cap": "Framerate Malpractice"
+                "src": "https://www.unite.ai/wp-content/uploads/2026/11/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow.jpg"
               },
               {
                 "t": "p",
-                "x": "지금까지 나는 Framerate Malpractice를 저지른 카메라 제조사 두 곳을 다뤘다. GoPro와 Sony(제품군 일부)다. 그 뒤 DJI도 마찬가지라는 걸 알게 됐다. 요즘 내 YouTube 피드에는 여러 사람이 AI로 펌웨어 업데이트를 만들어 카메라에 빠진 기능을 채워 넣은 사례가 뜨기 시작했다."
+                "x": "iQIYI는 2026년 11월 6일, 여덟 명으로 꾸린 팀이 자사 NadouPro 플랫폼으로 프린트·릴·대본이 모두 사라진 1938년 영화를 재구성했다고 발표했다. 두 달 만에 완성한 단편은 제39회 Golden Rooster Awards의 2026 Future Images AI Unit 후보에 올랐다."
               },
               {
                 "t": "p",
-                "x": "그래서 궁금해진다. 문제의 제조사들이 직접 손보기 전에 AI 모드가 Framerate Malpractice를 먼저 고칠까? 서드파티(third-party) 해킹으로 딱 그 부분을 고친 사례는 아직 못 봤지만 시간문제일 공산이 크다. AI 이전에도 여러 Canon 모델에 쓰던 유명한 Magic Lantern 펌웨어가 있었고 카메라를 quasi-worldcam(준 월드캠)으로 바꾸는 Sony 해킹도 있었다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Sony-A7S-III-rounded-framerates.png",
-                "cap": "Sony A7S III의 반올림된 프레임레이트"
+                "x": "Visiting Shanghai after Sixty Years는 90년 가까이 유실됐고, 남은 것은 제작 스틸 사진과 포스터, 신문 스크랩뿐이었다. 이 자료들이 새 버전을 생성할 개념적 길잡이였다. iQIYI의 AI 복원 기술 책임자 Zidong Jiang은 남은 프린트를 복원하기보다 쓸 수 있는 역사 자료로 창의적 재구성을 노렸다고 말했다."
               },
               {
                 "t": "p",
-                "x": "최근 나온 AI 개조 사례를 시간순으로 꼽으면 Breno Loves Cameras의 “Hacking Camera Software with AI is Getting Crazy”, FUTC의 “AI Camera Jailbreaking Changes Everything”, Tony & Chelsea Northrup의 “I hacked my camera with AI (and so can you)”가 있다."
+                "x": "팀은 1938년과 1998년의 이야기에서 인물이 흔들리지 않도록 숏을 생성하기 전에 인물별 얼굴 특징·비율·의상을 디지털 에셋으로 고정했다. 위치와 구도, 움직임은 NadouPro의 3D Director Studio로 조정했다. 감독 Enji Yang은 “AI로 어떻게 구현할지 고민하기 전에 영화의 시청각 설계가 먼저여야 한다고 늘 믿는다”고 말했다."
               },
               {
-                "t": "video",
-                "yt": "sJYBs5CLywk"
+                "t": "p",
+                "x": "완성된 단편은 역사 자료에 근거한 새로운 해석일 뿐, 유실된 원본 필름을 되찾은 것은 아니다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-written改造が\n欠けたフレームレートを補うか",
-          "body": "AIで書いたファームウェア改造が、メーカーより先に欠けたフレームレートを補う可能性がある。",
-          "mini_headline": "AI改造でフレームレート補完",
+          "headline": "iQIYI、失われた\n1938年の映画をAIで",
+          "body": "八人のチームがiQIYIのNadouProで、失われた1938年の映画を新たに生成した。",
+          "mini_headline": "iQIYIのAI、\n失われた1938年作を再構想",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Framerate-malpractice-hero.jpg",
-                "cap": "Framerate Malpractice"
+                "src": "https://www.unite.ai/wp-content/uploads/2026/11/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow.jpg"
               },
               {
                 "t": "p",
-                "x": "これまでに、Framerate Malpracticeを犯しているカメラメーカー二社を取り上げてきた。GoProとSony(製品ラインの一部)だ。その後、DJIも同様だと分かった。いま私のYouTubeフィードには、複数の人がAIを使い、ファームウェアアップデートでカメラに欠けた機能を追加した事例が並び始めている。"
+                "x": "八人のチームがiQIYIのNadouProプラットフォームを使い、プリント、リール、脚本がすべて失われた1938年の映画を再構築したと、同社が2026年11月6日に発表した。二か月で完成したこの短編は、第39回Golden Rooster Awardsの2026 Future Images AI Unitの候補に選ばれた。"
               },
               {
                 "t": "p",
-                "x": "では問題はこうだ。当のメーカーが自ら対応する前に、AIによる改造がFramerate Malpracticeを解消するのか。サードパーティ(third-party)のハックでまさにその修正が行われた例はまだ見ていないが、おそらく時間の問題だろう。AI以前にも、複数のCanon機種向けの有名なMagic Lanternファームウェアや、カメラをquasi-worldcam(準ワールドカム)にするSonyのハックがあった。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Sony-A7S-III-rounded-framerates.png",
-                "cap": "Sony A7S IIIの丸められたフレームレート"
+                "x": "Visiting Shanghai after Sixty Yearsは90年近く失われたままで、残っていたのは制作時のスチール写真、ポスター、新聞の切り抜きだけだった。これらが新たなバージョンを生成する際の概念上の手がかりとなった。iQIYIのAI修復技術ディレクター、Zidong Jiangは、現存するプリントの修復を試みるのではなく、入手できる歴史資料に基づく創造的な再構築を目指したと述べた。"
               },
               {
                 "t": "p",
-                "x": "AIによる改造の最近の例を時系列で挙げると、Breno Loves Camerasの「Hacking Camera Software with AI is Getting Crazy」、FUTCの「AI Camera Jailbreaking Changes Everything」、Tony & Chelsea Northrupの「I hacked my camera with AI (and so can you)」がある。"
+                "x": "1938年と1998年の物語を通して登場人物の一貫性を保つため、チームはショットを生成する前に、各キャラクターの顔の特徴、プロポーション、衣装をデジタルアセットとして固定した。NadouProの3D Director Studioでは、位置、構図、動きを調整できた。監督のEnji Yangは「AIでどう実現するかを考える前に、まず映画の視聴覚デザインがなければならないと常に考えている」と語った。"
               },
               {
-                "t": "video",
-                "yt": "sJYBs5CLywk"
+                "t": "p",
+                "x": "完成した短編は歴史的な証拠に導かれた新たな解釈であり、失われたオリジナル映像を取り戻すものではない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-written固件改装\n或补回缺失帧率",
-          "body": "用户正用AI编写相机固件改装，可能抢在厂商之前补回缺失的帧率。",
-          "mini_headline": "AI改装补回帧率",
+          "headline": "iQIYI用AI平台\n重新演绎1938年失传片",
+          "body": "一支八人团队用iQIYI的NadouPro，依据现存剧照生成了1938年失传影片的新版本。",
+          "mini_headline": "iQIYI AI重新演绎\n1938年失传影片",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Framerate-malpractice-hero.jpg",
-                "cap": "Framerate Malpractice"
+                "src": "https://www.unite.ai/wp-content/uploads/2026/11/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow.jpg"
               },
               {
                 "t": "p",
-                "x": "到目前为止，我已报道过两家犯有Framerate Malpractice的相机厂商：GoPro和Sony（部分产品线）。后来我发现DJI也同样如此。如今我的YouTube推送开始出现这样的情况：好几个人用AI通过固件更新为相机加入缺失的功能。"
+                "x": "iQIYI于2026年11月6日宣布，一支八人团队借助其NadouPro平台，重构了一部拷贝、胶片盘和剧本均已遗失的1938年影片。这部历时两个月完成的短片入围了第39届Golden Rooster Awards的2026 Future Images AI Unit。"
               },
               {
                 "t": "p",
-                "x": "那么问题来了：在这些厂商亲自动手之前，AI改装会先解决Framerate Malpractice吗？我还没见过有人用第三方（third-party）破解完成这项具体修复，但这很可能只是时间问题。早在AI出现之前，就有为多款Canon机型打造的著名Magic Lantern固件，以及让相机变成quasi-worldcam的Sony破解。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Sony-A7S-III-rounded-framerates.png",
-                "cap": "Sony A7S III取整后的帧率"
+                "x": "《Visiting Shanghai after Sixty Years》已失传近90年，仅留下剧照、海报和剪报，成为生成新版本的概念指引。iQIYI AI修复技术总监Zidong Jiang表示，团队并未尝试修复现存拷贝，而是基于现有史料进行创造性重构。"
               },
               {
                 "t": "p",
-                "x": "按时间顺序排列的近期AI改装案例：Breno Loves Cameras的“Hacking Camera Software with AI is Getting Crazy”；FUTC的“AI Camera Jailbreaking Changes Everything”；以及Tony & Chelsea Northrup的“I hacked my camera with AI (and so can you)”。"
+                "x": "为了让角色在1938年与1998年的故事线中保持一致，团队在生成镜头前先为每个角色的面部特征、比例和服装固定了数字资产。借助NadouPro的3D Director Studio，他们得以调整站位、构图和动作。导演Enji Yang说：“我们始终相信，在考虑AI如何实现之前，电影的视听设计必须放在首位。”"
               },
               {
-                "t": "video",
-                "yt": "sJYBs5CLywk"
+                "t": "p",
+                "x": "这部短片是以历史证据为指引的全新诠释，并未找回失传的原始影像。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Mods de firmware AI-written\npodrían recuperar fps perdidos",
-          "body": "Usuarios escriben con AI mods de firmware de cámara que podrían recuperar los fps perdidos antes que los fabricantes.",
-          "mini_headline": "Mods con AI para los frame rates",
+          "headline": "iQIYI recrea con AI una película\nperdida de 1938",
+          "body": "Un equipo de ocho personas usó NadouPro, de iQIYI, para generar una nueva versión de un filme perdido de 1938.",
+          "mini_headline": "La AI de iQIYI recrea\nun filme perdido de 1938",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Framerate-malpractice-hero.jpg",
-                "cap": "Framerate Malpractice"
+                "src": "https://www.unite.ai/wp-content/uploads/2026/11/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow.jpg"
               },
               {
                 "t": "p",
-                "x": "Hasta ahora he hablado de dos fabricantes de cámaras culpables de Framerate Malpractice: GoPro y Sony (en parte de su línea). Más tarde descubrí que DJI es igual de culpable. Ahora mi feed de YouTube empieza a mostrar casos en los que varias personas han usado AI para añadir a sus cámaras funciones que faltaban mediante actualizaciones de firmware."
+                "x": "Un equipo de ocho personas utilizó la plataforma NadouPro de iQIYI para reconstruir una película de 1938 cuyas copias, bobinas y guiones se habían perdido, anunció la compañía el 6 de noviembre de 2026. El cortometraje, completado en dos meses, fue preseleccionado para la 2026 Future Images AI Unit de los 39.º Golden Rooster Awards."
               },
               {
                 "t": "p",
-                "x": "Así que la pregunta es: ¿los mods con AI resolverán la Framerate Malpractice antes de que los fabricantes culpables se molesten en hacerlo ellos mismos? Todavía no he visto esa corrección concreta hecha con un hack de terceros (third-party), pero probablemente sea cuestión de tiempo. Incluso antes de la AI ya existía el famoso firmware Magic Lantern para varios modelos de Canon, y el hack de Sony para convertir las cámaras en quasi-worldcam."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Sony-A7S-III-rounded-framerates.png",
-                "cap": "Frame rates redondeados de la Sony A7S III"
+                "x": "Visiting Shanghai after Sixty Years llevaba perdida casi 90 años, y solo quedaban fotografías fijas de producción, carteles y recortes de prensa como guía conceptual para generar una nueva versión. Zidong Jiang, director de tecnología de restauración con AI de iQIYI, dijo que el equipo buscó una reconstrucción creativa basada en los materiales históricos disponibles en lugar de intentar restaurar una copia superviviente."
               },
               {
                 "t": "p",
-                "x": "Ejemplos recientes de modificaciones con AI, en orden cronológico: “Hacking Camera Software with AI is Getting Crazy”, de Breno Loves Cameras; “AI Camera Jailbreaking Changes Everything”, de FUTC; y “I hacked my camera with AI (and so can you)”, de Tony & Chelsea Northrup."
+                "x": "Para mantener la coherencia de los personajes entre las tramas de 1938 y 1998, el equipo fijó recursos digitales con los rasgos faciales, las proporciones y el vestuario de cada personaje antes de generar los planos. El 3D Director Studio de NadouPro les permitió ajustar la posición, la composición y el movimiento. “Siempre creemos que el diseño audiovisual de una película debe ir primero, antes de pensar en cómo la AI puede hacerlo realidad”, dijo el director Enji Yang."
               },
               {
-                "t": "video",
-                "yt": "sJYBs5CLywk"
+                "t": "p",
+                "x": "El cortometraje resultante es una nueva interpretación guiada por la evidencia histórica; no recupera el metraje original perdido."
               }
             ]
           }
@@ -1657,145 +1891,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI-written 펌웨어\n누락 프레임레이트 고칠까",
-          "body": "AI로 짠 카메라 펌웨어 모드가 제조사보다 먼저 빠진 프레임레이트를 살릴 수 있다.",
-          "mini_headline": "AI 모드로 프레임레이트 복구",
+          "headline": "iQIYI, 1938년\n유실 영화 AI 재해석",
+          "body": "여덟 명이 iQIYI NadouPro로 1938년 유실 영화를 새로 생성했다.",
+          "mini_headline": "iQIYI AI, 1938년\n유실 영화 재해석",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Framerate-malpractice-hero.jpg",
-                "cap": "Framerate Malpractice"
+                "src": "https://www.unite.ai/wp-content/uploads/2026/11/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow.jpg"
               },
               {
                 "t": "p",
-                "x": "지금까지 나는 Framerate Malpractice를 저지른 카메라 제조사 두 곳을 다뤘다. GoPro와 Sony(제품군 일부)다. 이후 DJI도 똑같다는 사실을 알게 됐다. 이제 내 YouTube 피드에는 여러 사람이 AI로 펌웨어 업데이트를 만들어 카메라에 빠진 기능을 추가한 사례가 보이기 시작했다."
+                "x": "여덟 명으로 꾸린 팀이 iQIYI의 NadouPro 플랫폼으로 프린트·릴·대본이 모두 사라진 1938년 영화를 재구성했다고 회사가 2026년 11월 6일 발표했다. 두 달 만에 완성한 이 단편은 제39회 Golden Rooster Awards의 2026 Future Images AI Unit 후보에 올랐다."
               },
               {
                 "t": "p",
-                "x": "그렇다면 질문은 이것이다. 잘못을 저지른 제조사들이 직접 나서기 전에 AI 모드가 Framerate Malpractice를 고칠 것인가? 서드파티(third-party) 해킹으로 바로 그 수정이 이뤄진 사례는 아직 보지 못했지만, 시간문제일 가능성이 크다. AI 이전에도 여러 Canon 모델용으로 유명한 Magic Lantern 펌웨어가 있었고, 카메라를 quasi-worldcam(준 월드캠)으로 만드는 Sony 해킹도 있었다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Sony-A7S-III-rounded-framerates.png",
-                "cap": "Sony A7S III의 반올림된 프레임레이트"
+                "x": "Visiting Shanghai after Sixty Years는 90년 가까이 유실된 상태였고, 남은 것은 제작 스틸 사진과 포스터, 신문 스크랩뿐이었다. 이 자료들이 새 버전을 생성하는 개념적 길잡이가 됐다. iQIYI의 AI 복원 기술 책임자 Zidong Jiang은 남아 있는 프린트를 복원하려 하기보다 활용 가능한 역사 자료를 바탕으로 창의적 재구성을 추구했다고 말했다."
               },
               {
                 "t": "p",
-                "x": "AI 개조의 최근 사례를 시간순으로 꼽으면 Breno Loves Cameras의 “Hacking Camera Software with AI is Getting Crazy”, FUTC의 “AI Camera Jailbreaking Changes Everything”, Tony & Chelsea Northrup의 “I hacked my camera with AI (and so can you)”가 있다."
+                "x": "1938년과 1998년의 이야기에서 인물을 일관되게 유지하기 위해, 팀은 숏을 생성하기 전에 인물별 얼굴 특징·비율·의상을 디지털 에셋으로 고정했다. NadouPro의 3D Director Studio로는 위치와 구도, 움직임을 조정했다. 감독 Enji Yang은 “AI로 어떻게 구현할지 고민하기 전에 영화의 시청각 설계가 먼저여야 한다고 늘 믿는다”고 말했다."
               },
               {
-                "t": "video",
-                "yt": "sJYBs5CLywk"
+                "t": "p",
+                "x": "완성된 단편은 역사적 근거를 바탕으로 한 새로운 해석이며, 유실된 원본 필름을 되찾은 것은 아니다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-written改造が\n欠けたフレームレートを補うか",
-          "body": "AIで書いたファームウェア改造が、メーカーより先に欠けたフレームレートを補う可能性がある。",
-          "mini_headline": "AI改造でフレームレート補完",
+          "headline": "iQIYI、失われた\n1938年の映画をAIで",
+          "body": "八人のチームがiQIYIのNadouProで、失われた1938年の映画を新たに生成した。",
+          "mini_headline": "iQIYIのAI、\n失われた1938年作を再構想",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Framerate-malpractice-hero.jpg",
-                "cap": "Framerate Malpractice"
+                "src": "https://www.unite.ai/wp-content/uploads/2026/11/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow.jpg"
               },
               {
                 "t": "p",
-                "x": "これまでに、Framerate Malpracticeを犯しているカメラメーカー二社を取り上げてきた。GoProとSony(製品ラインの一部)だ。その後、DJIも同様だと分かった。いま私のYouTubeフィードには、複数の人がAIを使い、ファームウェアアップデートでカメラに欠けた機能を追加した事例が並び始めている。"
+                "x": "八人のチームがiQIYIのNadouProプラットフォームを使い、プリント、リール、脚本がすべて失われた1938年の映画を再構築したと、同社が2026年11月6日に発表した。二か月で完成したこの短編は、第39回Golden Rooster Awardsの2026 Future Images AI Unitの候補に選ばれた。"
               },
               {
                 "t": "p",
-                "x": "では問題はこうだ。当のメーカーが自ら対応する前に、AIによる改造がFramerate Malpracticeを解消するのか。サードパーティ(third-party)のハックでまさにその修正が行われた例はまだ見ていないが、おそらく時間の問題だろう。AI以前にも、複数のCanon機種向けの有名なMagic Lanternファームウェアや、カメラをquasi-worldcam(準ワールドカム)にするSonyのハックがあった。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Sony-A7S-III-rounded-framerates.png",
-                "cap": "Sony A7S IIIの丸められたフレームレート"
+                "x": "Visiting Shanghai after Sixty Yearsは90年近く失われたままで、残っていたのは制作時のスチール写真、ポスター、新聞の切り抜きだけだった。これらが新たなバージョンを生成する際の概念上の手がかりとなった。iQIYIのAI修復技術ディレクター、Zidong Jiangは、現存するプリントの修復を試みるのではなく、入手できる歴史資料に基づく創造的な再構築を目指したと述べた。"
               },
               {
                 "t": "p",
-                "x": "AIによる改造の最近の例を時系列で挙げると、Breno Loves Camerasの「Hacking Camera Software with AI is Getting Crazy」、FUTCの「AI Camera Jailbreaking Changes Everything」、Tony & Chelsea Northrupの「I hacked my camera with AI (and so can you)」がある。"
+                "x": "1938年と1998年の物語を通して登場人物の一貫性を保つため、チームはショットを生成する前に、各キャラクターの顔の特徴、プロポーション、衣装をデジタルアセットとして固定した。NadouProの3D Director Studioでは、位置、構図、動きを調整できた。監督のEnji Yangは「AIでどう実現するかを考える前に、まず映画の視聴覚デザインがなければならないと常に考えている」と語った。"
               },
               {
-                "t": "video",
-                "yt": "sJYBs5CLywk"
+                "t": "p",
+                "x": "完成した短編は歴史的な証拠に導かれた新たな解釈であり、失われたオリジナル映像を取り戻すものではない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-written固件改装\n或补回缺失帧率",
-          "body": "用户正用AI编写相机固件改装，可能抢在厂商之前补回缺失的帧率。",
-          "mini_headline": "AI改装补回帧率",
+          "headline": "iQIYI用AI平台\n重新演绎1938年失传片",
+          "body": "一支八人团队用iQIYI的NadouPro，依据现存剧照生成了1938年失传影片的新版本。",
+          "mini_headline": "iQIYI AI重新演绎\n1938年失传影片",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Framerate-malpractice-hero.jpg",
-                "cap": "Framerate Malpractice"
+                "src": "https://www.unite.ai/wp-content/uploads/2026/11/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow.jpg"
               },
               {
                 "t": "p",
-                "x": "到目前为止，我已报道过两家犯有Framerate Malpractice的相机厂商：GoPro和Sony（部分产品线）。后来我发现DJI也同样如此。如今我的YouTube推送开始出现这样的情况：好几个人用AI通过固件更新为相机加入缺失的功能。"
+                "x": "iQIYI于2026年11月6日宣布，一支八人团队借助其NadouPro平台，重构了一部拷贝、胶片盘和剧本均已遗失的1938年影片。这部历时两个月完成的短片入围了第39届Golden Rooster Awards的2026 Future Images AI Unit。"
               },
               {
                 "t": "p",
-                "x": "那么问题来了：在这些厂商亲自动手之前，AI改装会先解决Framerate Malpractice吗？我还没见过有人用第三方（third-party）破解完成这项具体修复，但这很可能只是时间问题。早在AI出现之前，就有为多款Canon机型打造的著名Magic Lantern固件，以及让相机变成quasi-worldcam的Sony破解。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Sony-A7S-III-rounded-framerates.png",
-                "cap": "Sony A7S III取整后的帧率"
+                "x": "《Visiting Shanghai after Sixty Years》已失传近90年，仅留下剧照、海报和剪报，成为生成新版本的概念指引。iQIYI AI修复技术总监Zidong Jiang表示，团队并未尝试修复现存拷贝，而是基于现有史料进行创造性重构。"
               },
               {
                 "t": "p",
-                "x": "按时间顺序排列的近期AI改装案例：Breno Loves Cameras的“Hacking Camera Software with AI is Getting Crazy”；FUTC的“AI Camera Jailbreaking Changes Everything”；以及Tony & Chelsea Northrup的“I hacked my camera with AI (and so can you)”。"
+                "x": "为了让角色在1938年与1998年的故事线中保持一致，团队在生成镜头前先为每个角色的面部特征、比例和服装固定了数字资产。借助NadouPro的3D Director Studio，他们得以调整站位、构图和动作。导演Enji Yang说：“我们始终相信，在考虑AI如何实现之前，电影的视听设计必须放在首位。”"
               },
               {
-                "t": "video",
-                "yt": "sJYBs5CLywk"
+                "t": "p",
+                "x": "这部短片是以历史证据为指引的全新诠释，并未找回失传的原始影像。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Mods de firmware AI-written\npodrían recuperar fps perdidos",
-          "body": "Usuarios escriben con AI mods de firmware de cámara que podrían recuperar los fps perdidos antes que los fabricantes.",
-          "mini_headline": "Mods con AI para los frame rates",
+          "headline": "iQIYI recrea con AI una película\nperdida de 1938",
+          "body": "Un equipo de ocho personas usó NadouPro, de iQIYI, para generar una nueva versión de un filme perdido de 1938.",
+          "mini_headline": "La AI de iQIYI recrea\nun filme perdido de 1938",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Framerate-malpractice-hero.jpg",
-                "cap": "Framerate Malpractice"
+                "src": "https://www.unite.ai/wp-content/uploads/2026/11/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow.jpg"
               },
               {
                 "t": "p",
-                "x": "Hasta ahora he hablado de dos fabricantes de cámaras culpables de Framerate Malpractice: GoPro y Sony (en parte de su línea). Más tarde descubrí que DJI es igual de culpable. Ahora mi feed de YouTube empieza a mostrar casos en los que varias personas han usado AI para añadir a sus cámaras funciones que faltaban mediante actualizaciones de firmware."
+                "x": "Un equipo de ocho personas utilizó la plataforma NadouPro de iQIYI para reconstruir una película de 1938 cuyas copias, bobinas y guiones se habían perdido, anunció la compañía el 6 de noviembre de 2026. El cortometraje, completado en dos meses, fue preseleccionado para la 2026 Future Images AI Unit de los 39.º Golden Rooster Awards."
               },
               {
                 "t": "p",
-                "x": "Así que la pregunta es: ¿los mods con AI resolverán la Framerate Malpractice antes de que los fabricantes culpables se molesten en hacerlo ellos mismos? Todavía no he visto esa corrección concreta hecha con un hack de terceros (third-party), pero probablemente sea cuestión de tiempo. Incluso antes de la AI ya existía el famoso firmware Magic Lantern para varios modelos de Canon, y el hack de Sony para convertir las cámaras en quasi-worldcam."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Sony-A7S-III-rounded-framerates.png",
-                "cap": "Frame rates redondeados de la Sony A7S III"
+                "x": "Visiting Shanghai after Sixty Years llevaba perdida casi 90 años, y solo quedaban fotografías fijas de producción, carteles y recortes de prensa como guía conceptual para generar una nueva versión. Zidong Jiang, director de tecnología de restauración con AI de iQIYI, dijo que el equipo buscó una reconstrucción creativa basada en los materiales históricos disponibles en lugar de intentar restaurar una copia superviviente."
               },
               {
                 "t": "p",
-                "x": "Ejemplos recientes de modificaciones con AI, en orden cronológico: “Hacking Camera Software with AI is Getting Crazy”, de Breno Loves Cameras; “AI Camera Jailbreaking Changes Everything”, de FUTC; y “I hacked my camera with AI (and so can you)”, de Tony & Chelsea Northrup."
+                "x": "Para mantener la coherencia de los personajes entre las tramas de 1938 y 1998, el equipo fijó recursos digitales con los rasgos faciales, las proporciones y el vestuario de cada personaje antes de generar los planos. El 3D Director Studio de NadouPro les permitió ajustar la posición, la composición y el movimiento. “Siempre creemos que el diseño audiovisual de una película debe ir primero, antes de pensar en cómo la AI puede hacerlo realidad”, dijo el director Enji Yang."
               },
               {
-                "t": "video",
-                "yt": "sJYBs5CLywk"
+                "t": "p",
+                "x": "El cortometraje resultante es una nueva interpretación guiada por la evidencia histórica; no recupera el metraje original perdido."
               }
             ]
           }

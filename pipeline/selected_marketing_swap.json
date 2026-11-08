@@ -1,18 +1,28 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-09",
   "section": "marketing",
   "picks": [
     {
-      "title": "Bot protection blocks Blend's AI shopping agent at 29 of 200 retailers",
-      "url": "https://ppc.land/bot-protection-blocks-blends-ai-shopping-agent-at-29-of-200-retailers/",
-      "source": "PPC Land",
+      "title": "LeBron James Takes Legal Action Over AI Ad That Crossed a Line",
+      "url": "https://www.si.com/onsi/athlete-lifestyle/lebron-james-takes-legal-action-over-ai-ad-that-crossed-a-line",
+      "source": "Sports Illustrated",
       "tool": "Marketing",
-      "accent": "#eb367f",
+      "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "New audit of 200 retailers: bot protection turned away Blend's AI shopping agent at 29 stores (20% of large retailers vs 2.5% of emerging ones) even where robots.txt allows AI crawlers, so merchants should check their WAF settings before agentic holiday traffic.",
-      "published_iso": "2026-11-05T05:20:35.000Z",
-      "og_image": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg",
-      "excerpt": "Large retailers refused the agent at a 20% rate, emerging ones at 2.5%, yet all 24 refusers with readable robots.txt allow AI crawlers. Who set those blocks?"
+      "rationale": "LeBron James's representatives are demanding that a viral AI-generated ad for the sports-betting app 'Bron AI' be pulled because it used his likeness without permission. It is a concrete legal action against AI-made ad creative and a warning for anyone generating celebrity-style spots.",
+      "published_iso": "2026-11-05T23:45:00Z",
+      "og_image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4378,h_2462/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/01m6pxtcsy8xmktktfdb-c0e361ab794fb66f5c62234cf143b62d.webp",
+      "excerpt": "LeBron James's representatives are pushing back against a viral AI-generated ad for sports-betting app 'Bron AI' that used his likeness without permission, demanding it stop."
     }
-  ]
+  ],
+  "dedup": {
+    "checks": {
+      "https://www.si.com/onsi/athlete-lifestyle/lebron-james-takes-legal-action-over-ai-ad-that-crossed-a-line": {
+        "verdict": "new",
+        "nearest": "https://news.sbs.co.kr/english/article.do?news_id=N1008817898",
+        "new_action": ""
+      }
+    },
+    "note": "Second swap replacement for the stale PPC Land ACI/YouGov poll (fieldwork June 2026)."
+  }
 }

@@ -9901,6 +9901,143 @@
           "x": "这一结果关注的是计算机读取数据的频率，而非总计算时间，并为具有有用结构的问题保留了取得显著量子优势的空间。"
         }
       ]
+    },
+    "science/astrogenesis-astro-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/connecting-artificial.jpg",
+          "cap": "AstroGenesis概念图，展示专业AI智能体如何在统一的研究环境中连接科学文献、天文观测与基于物理的建模。Credit: AstroGenesis team"
+        },
+        {
+          "t": "p",
+          "x": "ICRANet-Armenia主任、天体物理学家Narek Sahakyan与一支国际团队开发了AstroGenesis——一个多智能体AI系统，可在同一环境中连接天体物理研究的不同阶段。相关论文已发布在arXiv上。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员用自然语言提问。中央监督者将任务分派给各专业智能体：一个检索科学文献，一个获取并分析天文观测数据，建模智能体根据物理模型计算预测并与观测对比，另一个则协助探索解释和研究问题。"
+        },
+        {
+          "t": "video",
+          "yt": "Pgl6D4_N5YY"
+        },
+        {
+          "t": "p",
+          "x": "为加快理论建模，团队用数值物理模型的结果训练神经网络；训练完成后，神经网络可在经过验证的参数范围内快速近似这些预测，让研究人员探索大得多的参数空间。"
+        },
+        {
+          "t": "p",
+          "x": "Sahakyan强调，AI-generated的解释必须经过核查，要尊重观测不确定性，近似模型也必须验证：“科学判断依然不可或缺。”"
+        }
+      ]
+    },
+    "science/ss-dfa-optical-training": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/let-there-be-light--no.jpg",
+          "cap": "在用于演示single-map方法的光计算系统中，信息先被转换为光信号，在通过光纤环路时完成处理，再转换回电信号进行分析。Credit: 2026 Nakajima et al. CC-BY-ND"
+        },
+        {
+          "t": "p",
+          "x": "包括University of Tokyo（东京大学）在内的研究人员开发出一种构建物理AI的新方法——这类系统利用物理系统的自然行为来处理信息——可大幅减少运行所需的计算量。该方法在一套用光处理信息的光计算系统上得到了验证。"
+        },
+        {
+          "t": "p",
+          "x": "Kohei Nakajima副教授及其团队（包括NTT研究人员）将名为SS-DFA的训练方法与名为single-map框架的更简单网络架构相结合。研究发表于Nature Computational Science。"
+        },
+        {
+          "t": "p",
+          "x": "SS-DFA不再测量和记录系统的中间状态并进行回溯，而是结合最终误差与系统相关信息来引导学习，从而减少所需的测量、数据存储和计算。在single-map架构中，众多单元遵循通用规则，而不依赖高度复杂的内部连接。"
+        },
+        {
+          "t": "p",
+          "x": "令人意外的是，简化后的设计与更复杂的神经网络架构表现相当，在部分测试中甚至更优，而所需计算量少得多。该系统使用一段200米长的光纤和少量电子元件。"
+        },
+        {
+          "t": "p",
+          "x": "后续工作将检验该方法能否扩展到语言模型和多模态模型等更大的AI模型；若在芯片上实现小型化，它可在手机、相机或自动驾驶汽车内部处理数据。"
+        }
+      ]
+    },
+    "science/llm-workplace-trust-penalty": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/be1996da-571f-422e-94db-f78f12f371d3/Rendition/low-res/Content/Public",
+          "cap": "组织政策影响使用LLMs的信任惩罚。Credit: Yochanan Bigman"
+        },
+        {
+          "t": "p",
+          "x": "由Samuel Meyers领衔、与Hebrew University of Jerusalem的Dr. Yochanan Bigman及WHU – Otto Beisheim School of Management的Dr. Roman Briker合作的研究发表在The Leadership Quarterly上。六项研究均发现，即便AI使用并未被明确禁止，上司对使用ChatGPT等LLMs的员工信任度也更低。"
+        },
+        {
+          "t": "p",
+          "x": "在一项实验中，亲自完成工作的员工获得上司信任的概率为68%，而使用AI者仅为24%。不过，使用AI仍比抄袭更受认可。信任度较低与更差的绩效评价以及更低的晋升适合度认知相关。"
+        },
+        {
+          "t": "p",
+          "x": "当组织明确鼓励使用AI时，信任惩罚大幅减弱，且不再具有统计显著性。研究人员警告，这种张力可能促使员工转向不公开的“shadow AI”，并呼吁制定清晰的政策、开展管理者培训。"
+        }
+      ]
+    },
+    "science/claude-not-x-but-y-rhetoric": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2025/04/artificial-intelligence.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Federico Boggia在arXiv上发布的预印本研究了AI-generated文本中“not X, but Y”习惯背后的修辞格epanorthosis（更正法），即Cicero和Quintilian归为correctio的古老自我修正修辞手法。Boggia认为，这种过度使用主要习自网络文案写作，并在人类反馈调优中得到强化。"
+        },
+        {
+          "t": "p",
+          "x": "将Claude Haiku、Sonnet和Opus与人类文本在七种体裁中比较后发现，模型在演讲中使用强调式更正法的频率是人类的两倍多（每万词33.5对14.9），在非正式Q&A中却不到人类的五分之一（1.3对8.2）。"
+        },
+        {
+          "t": "p",
+          "x": "基于Qwen2.5-7B-Instruct训练的LoRA适配器在满强度下将密度从61.4降至4.7；一句话的提示指令则让Claude演讲文中的该用法减少近四分之三。该论文为尚未经过同行评审的预印本，测试也只是小规模试点。"
+        }
+      ]
+    },
+    "science/science-ucl-reconstruct-everything": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG",
+          "cap": "Reconstruct Everything"
+        },
+        {
+          "t": "p",
+          "x": "UCL研究人员开发出首个能够重建完整粒子碰撞的AI模型，为实验粒子物理学中的一项根本难题提供了全新思路。"
+        },
+        {
+          "t": "p",
+          "x": "Reconstruct Everything Model（REM）是首个统一的机器学习框架，可直接依据所有主要探测器系统的测量数据重建粒子，无需依赖任何传统的专用重建算法序列。REM更进一步，能从衰变产物中重建W、Z和Higgs玻色子等更重的粒子。"
+        },
+        {
+          "t": "p",
+          "x": "REM由UCL的Centre for Data Intensive Science and Industry开发，并在为CERN的Future Circular Collider提议的一款探测器的精细模拟中接受了测试。"
+        },
+        {
+          "t": "p",
+          "x": "结果令人瞩目：与传统方法相比，粒子重建效率从61%提升至92%，喷注能量分辨率提高52%，区分W与Z玻色子的能力提升约50%。该模型在单个GPU上重建一次完整碰撞仅需30毫秒。"
+        },
+        {
+          "t": "p",
+          "x": "除性能提升外，REM还可能带来范式转变。它以统一的AI框架取代由多个独立优化算法组成的复杂链条，为从根本上重新思考粒子物理实验如何重建和解释碰撞开辟了可能。"
+        },
+        {
+          "t": "p",
+          "x": "研究由Max Hart和Kwok Yiu (Sunny) Wong领衔，Samuel Van Stroud、Philippa Duckett、Tim Scanlon和Gabriel Facini共同参与。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/styles/wysiwyg_mobile/public/2026-11/rem_overview_assign_v10_res_split_tworow_heads-1.png.jpg?itok=IjAafSLE",
+          "cap": "HEP Collision Models"
+        }
+      ]
     }
   }
 }

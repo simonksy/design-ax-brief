@@ -1,26 +1,28 @@
 {
-  "techtimes-secondhand-bulk-orders": {
-    "lead_image": "https://d.techtimes.co.uk/en/full/1820597/secondhand-books.jpg",
+  "vellum-automation-rollback": {
+    "lead_image": "https://blog.vellum.pub/wp-content/uploads/2026/11/r421-featured-image.png",
+    "video": "",
+    "yt": "",
+    "note": "SMBtech has no og:image (only a reused generic stock photo); lead is Vellum's own 'We've Removed Vellum Automation' blog post featured image, 1200x630, verified 200 image/png"
+  },
+  "pw-salary-survey-2026": {
+    "lead_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132698-3.JPG",
+    "video": "",
+    "yt": "",
+    "note": "og:image 132694-3 is the PW logo - do not use; 132698-3 is the article's AI chart (share of respondents whose company uses AI)"
+  },
+  "rnib-ai-audiobook-poll": {
+    "lead_image": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-48.jpg",
+    "video": "",
+    "yt": "Q7S2q6b-Av4"
+  },
+  "scholarlykitchen-peer-review-tacit": {
+    "lead_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2300954589.jpg",
     "video": "",
     "yt": ""
   },
-  "kloobr-sharjah-award": {
-    "lead_image": "https://anba.com.br/wp-content/uploads/2026/11/sharjah.jpeg",
-    "video": "",
-    "yt": ""
-  },
-  "createcrew-webtoon-animation": {
-    "lead_image": "https://biz.chosun.com/resizer/v2/YNTL5BB57NFWTL6VNSZ54SZUSA.png?auth=f3f954850225d52d5e38a8c7cfe8e7f92bd79a2d70fdc7d09c3d39485b6ab314&width=1081&height=567&smart=true",
-    "video": "",
-    "yt": ""
-  },
-  "dou-founder-claude-ereader": {
-    "lead_image": "https://dev.ua/storage/images/13/79/22/88/derived/a49e5b7bdb44907312eb1d792affc107.webp",
-    "video": "",
-    "yt": ""
-  },
-  "kindle-paperwhite-offline-llm": {
-    "lead_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/12/kindle-paperwhite-tailscale-hero.jpg?w=1600&h=900&fit=crop",
+  "vinland-saga-yukimura-ai-fanart": {
+    "lead_image": "https://comicbook.com/wp-content/uploads/sites/4/2026/01/Vinland-Saga.jpg?resize=2000,1125",
     "video": "",
     "yt": ""
   }

@@ -16501,6 +16501,160 @@
           "x": "KTH의 Björn Palm은 \"냉방에 쓰이는 전체 에너지를 줄일 잠재력은 분명히 있다\"고 말한다. 얼마나 줄일지는 덜 분명하다. Gradient CTO Vincent Romanin은 회의적이다. \"재실 센서가 달린 제품 중 제대로 작동한다고 느낀 것은 개인적으로 한 번도 없었다.\" Palm이 보기에 2050년의 지속 가능한 냉방은 부엌까지 따라오는 AC가 아니라 소형 히트펌프와 자연 냉매에 달렸다."
         }
       ]
+    },
+    "gadgets/arm-neural-dawn-framegen": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-game-main-menu-scaled.jpg",
+          "cap": "Robert Triggs / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "Arm은 개발사 Sumo Digital과 함께 Neural Dawn을 만들었다. Unreal Engine의 MegaLights ray-traced 조명을 쓰도록 설계한 가벼운 플랫포머 게임이다. 스마트폰에서 돌아가도록 Arm의 Neural Super Sampling and Denoising(NSSD)과 Neural Frame Rate Upscaling(NFRU)을 쓴다. Arm Mali G2 Ultra NX GPU가 있어야 해서, 지금 지원하는 칩셋은 MediaTek Dimensity 9600 Pro 하나다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Screenshot-4.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Arm-Mali-G2-Ultra-neural-accelerator.jpg",
+          "cap": "Arm"
+        },
+        {
+          "t": "p",
+          "x": "NFRU는 GPU에서 도는 AI 신경망으로 기본 렌더링 프레임마다 보간 프레임을 하나씩 끼워 넣어, 30 FPS 게임을 60 FPS로 출력한다. NSSD는 저해상도 이미지를 업스케일하면서(Arm은 540p에서 1080p로 올리는 예를 들었다) anti-aliasing과 ray-traced 조명의 노이즈 제거까지 맡는다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Performance-Graph.jpg",
+          "cap": "Robert Triggs / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "OPPO Find X10 Pro Max에서 게임은 평균 59.8 FPS, 1% 저점 57.2 FPS를 냈고, 온도는 약 18분 뒤 37.7°C로 정점을 찍었다. 대가도 따른다. 카메라를 돌리면 캐릭터 주변에 모션 고스팅이 생기고 이따금 조작이 늦게 먹힌다. 필자는 업스케일링이 모바일이 콘솔급·PC-quality(PC급) 그래픽에 다가갈 가장 좋은 길이라고 본다."
+        }
+      ]
+    },
+    "gadgets/kimi-k3-optane-homelab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Wpdi2avEo8ZBZMremLVgaU-2496-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Reddit의 한 홈랩 빌더가 Moonshot AI의 2.8-trillion 파라미터 AI 모델 Kimi K3를 단종된 두 번째 세대 Optane PMem 200 메모리에 올려 돌렸다. 추론은 GPU 없이 40코어 3세대 Xeon Scalable CPU로 했다. 1-bit 양자화에서 초당 0.85토큰, 3-bit 양자화에서 초당 0.75토큰이 나온다."
+        },
+        {
+          "t": "p",
+          "x": "Kimi K3는 가장 작은 커뮤니티 양자화 버전도 RAM이 최소 610GB 필요하다. 집에서 그만한 용량을 갖출 방법은 몇 안 되는데, 중고 Optane이 그중 하나다. 빌더는 같은 용량의 DRAM에 비하면 “일부”의 비용이면 된다고 말한다. 이 빌드는 Optane을 App Direct 모드로 돌렸다."
+        },
+        {
+          "t": "p",
+          "x": "빌더에 따르면 Optane DIMMs는 추론이 이어지면 “매우 뜨거워지며”, 이 열이 옆의 DRAM까지 위험하게 할 수 있다. 그의 조언은 “능동형 DIMM 냉각을 필수로 여겨라”이고, 실제로 모듈 쪽으로 12W 블로어 팬 두 개를 단다. Intel이 정한 모듈별 정격은 12W 또는 15W이고, 섭씨 83도에서 스로틀링이 걸린다."
+        },
+        {
+          "t": "p",
+          "x": "아직 튜닝 전 수치다. 빌더는 GPUs를 더하고 모델 일부를 더 빠른 계층인 DRAM에 올릴 계획이다."
+        }
+      ]
+    },
+    "gadgets/tomsguide-ai-earbuds-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/dzhSAejg9r2CVeUepQmEaW-2000-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Tom's Guide가 세 주 동안 벌인 투표에서 이어버드와 헤드폰을 고를 때 AI 기능을 따로 찾는다는 독자는 200명 중 다섯 명뿐이었다. 전체 표의 2%다. 음질이 135표로 가장 많았고 ANC가 13%로 뒤를 이었다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Ec4yZr9N8LKMoFzrgJ9ya3.png",
+          "cap": "Tom's Guide / 5of10.com"
+        },
+        {
+          "t": "p",
+          "x": "Anker Soundcore Space 2 Pro는 “세계 최초의 신경망 컴퓨트 인 메모리 AI 오디오 칩”을 광고 문구로 내걸고, Soundcore 앱에는 AI 챗봇 탭까지 있다. 그런데 Anker는 Space 2 Pro의 Anka가 “'Hey Anka'를 통한 호출과 기본적인 음성 상호작용이나 대화만 지원한다”고 밝혔다. 나머지 기능은 아직 개발 중이다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/PAQH7qRotUavbzbRoHmrg.jpg",
+          "cap": "Anker / Future"
+        },
+        {
+          "t": "p",
+          "x": "AirPods Max 2나 Samsung Galaxy Buds 4 Pro의 Live Translation, Soundcore Liberty 5 Pro Max의 통화 녹취처럼 제대로 돌아가는 AI라면 장점이 된다. Cambridge Audio는 $149 Melomania A100 SE에 AI를 넣지 않았다. “이동 중에 좋아하는 음악을 들을 때 꼭 필요하다고는 보지 않았다.”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/JrpSckBC4M5g9ugniCMYsd.jpg",
+          "cap": "Tom's Guide"
+        }
+      ]
+    },
+    "gadgets/underdog-woof-32mb": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.02.34-PM.jpg?resize=1200,542"
+        },
+        {
+          "t": "p",
+          "x": "AI 기업들이 막대한 연산 능력이 드는 더 큰 모델 경쟁을 벌이는 사이, 일부 연구자와 스타트업은 휴대폰이나 컴퓨터 같은 엣지 기기에서 돌아가는 작은 모델을 만든다."
+        },
+        {
+          "t": "p",
+          "x": "Underdog도 그런 스타트업이다. 크기가 32MB뿐인 새 음성 모델 Woof로 만든 게임을 공개했다. 게임에는 레트로 테크 분위기의 방과 타자기, CRT 모니터가 있고, 인트로는 마을의 “침해적인” 클라우드 업체들을 조심하라고 경고한다. 클라우드 기반 모델을 겨냥한 농담으로 보인다."
+        },
+        {
+          "t": "p",
+          "x": "타자기에 무엇이든 치면 게임이 소리 내어 읽어 주고, 튜너를 돌리면 여러 종류의 음악을 만든다. 모두 Underdog의 음성 생성 모델로 브라우저 안에서 돌아가며, 회사 설명으로는 이 모델이 인터넷 연결 없이 대부분의 기기에서 작동한다. 파라미터는 3100만 개이고 누구나 내려받을 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "이번 데모는 Underdog이 엣지 기기에서 녹취와 받아쓰기를 하는 167MB 크기의 음성-텍스트 변환 모델 Bark를 내놓은 지 몇 주 만에 나왔다. 창업자 Sigil Wen은 TechCrunch에 이렇게 말했다. “우리는 그저 미국산(American-made)이면서 개방적이고 성능이 뛰어나며, 사람들이 프라이빗 AI를 가질 수 있게 해주는 최고의 오픈 모델을 학습시키고 싶을 뿐입니다.”"
+        },
+        {
+          "t": "p",
+          "x": "Underdog은 노트북에서 돌아가는 27-billion-parameter 모델도 공개했고, Muse와 Instinct를 대체할 로컬 호스팅 앱의 대기자 명단도 받는다."
+        }
+      ]
+    },
+    "gadgets/raycast-mac-dictate-screen": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/raycast-dictate-ai.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "최근 Screen Awareness를 내놓은 Raycast가 이번 주 흥미로운 업데이트를 냈다. 이제 맥락을 따로 설명하지 않아도 화면에 떠 있는 내용을 두고 AI와 대화할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Raycast가 Screen Awareness를 발표한 건 지난 팔월이다. 활성 앱이나 창의 맥락을 AI Chat으로 곧장 가져오는 기능으로, 당시 Raycast는 “텍스트를 복사하거나 스크린숏을 첨부하거나 보고 있는 내용을 설명할 필요가 없다”고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "Raycast는 이번 주 새 명령 Dictate to AI로 이 기능을 한 단계 끌어올렸다. 요청을 말로 하면 활성 앱의 맥락이 AI에 알아서 넘어간다."
+        },
+        {
+          "t": "p",
+          "x": "Raycast에 따르면 이번 릴리스에는 이런 기능도 들어갔다. 받아쓴 내용을 AI Chat에서 쓰고 스타일을 관리하며 피드백도 받는 새 Dictation AI 확장, Mac에서 AI 사용량을 확인하는 메뉴 막대 명령(Settings → AI → Show AI Usage in Menu Bar), Mac의 AI Chat으로 연락처를 검색·생성·수정·삭제하는 Contacts AI 확장이다."
+        },
+        {
+          "t": "p",
+          "x": "최근 나온 다른 업데이트와 추가 기능도 Raycast가 함께 소개했다. Raycast Notes는 이제 이미지를 넣을 수 있고 무료 사용자도 노트를 무제한 쓴다. Mac 앱은 검색이 빨라지고 메모리를 덜 쓰는 등 성능이 여러모로 좋아졌다. iOS용 Raycast에는 AI-powered 글쓰기 도구를 담은 새 키보드가 생겼고 Cloud Sync 기능도 나아졌다."
+        },
+        {
+          "t": "p",
+          "x": "Windows 사용자에게도 소식이 있다. Screen Awareness에 개별 요소나 창 전체를 AI Chat으로 보내는 새 명령이 생겼다. Raycast v2.11의 자세한 내용은 이 링크에서 볼 수 있다."
+        }
+      ]
     }
   }
 }

@@ -1,177 +1,157 @@
 {
-  "section": "science",
-  "now_iso": "2026-11-07T22:02:33Z",
-  "window_hours": 336,
-  "items": [
-    {
-      "title": "Prior expertise may determine whether AI builds skills or substitutes for them, field experiment suggests",
-      "url": "https://www.psypost.org/prior-expertise-may-determine-whether-ai-builds-skills-or-substitutes-for-them-field-experiment-suggests/",
-      "source": "PsyPost",
-      "category": "science",
-      "subtopic": "psychology",
-      "published_iso": "2026-11-07T14:00:20+00:00",
-      "excerpt": "A field experiment with patent lawyers suggests whether AI on the job builds expertise or erodes it depends on how much expertise people bring to the tool in the first place.",
-      "og_image": "https://www.psypost.org/wp-content/uploads/2025/01/artificial-intelligence-1.jpg"
-    },
-    {
-      "title": "Using ChatGPT at work? Your boss may trust you less, new study finds",
-      "url": "https://phys.org/news/2026-11-chatgpt-boss.html",
-      "source": "Phys.org",
-      "category": "science",
-      "subtopic": "psychology",
-      "published_iso": "2026-11-04T00:00:00Z",
-      "excerpt": "Across six studies in The Leadership Quarterly, Hebrew University and WHU researchers found supervisors trusted employees who used LLMs such as ChatGPT less, dragging down performance and promotion ratings; explicit organizational encouragement of AI use erased the trust penalty.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-use-at-work.jpg"
-    },
-    {
-      "title": "Students unravel AI tendency for sycophancy",
-      "url": "https://techxplore.com/news/2026-11-students-unravel-ai-tendency-sycophancy.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "subtopic": "psychology",
-      "published_iso": "2026-11-03T00:00:00Z",
-      "excerpt": "University of Cincinnati and Texas A&M researchers (EMNLP) found Claude, ChatGPT and Gemini initially rejected false claims but often reversed course after repeated user pushback, sometimes endorsing falsehoods such as a flat Earth.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg"
-    },
-    {
-      "title": "Chatbots with personality? How AI describes itself and judges us",
-      "url": "https://techxplore.com/news/2026-11-chatbots-personality-ai.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "subtopic": "psychology",
-      "published_iso": "2026-11-04T16:40:01-05:00",
-      "excerpt": "Mainz researchers compared self-descriptions of seven language models with 70 humans (Scientific Reports): models rated themselves more conscientious, agreeable and stable, and humans beat chatbots at telling human from AI text (83% vs 67%).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
-    },
-    {
-      "title": "Fluent language makes a hallucinatory chatbot just as credible as a curt, flawless one",
-      "url": "https://www.eurekalert.org/news-releases/1149736",
-      "source": "EurekAlert! (Radboud University)",
-      "category": "science",
-      "subtopic": "psychology",
-      "published_iso": "2026-10-29T00:00:00Z",
-      "excerpt": "Radboud University experiment (Computers in Human Behavior: Artificial Humans): an eloquent chatbot giving wrong answers was rated as intelligent and pleasant as a curt but correct one, and 80% of participants missed the errors entirely.",
-      "og_image": null
-    },
-    {
-      "title": "10 minutes is all it takes for AI assistance to erode your motivation, study shows",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/10-minutes-is-all-it-takes-for-ai-assistance-to-erode-your-motivation-study-shows",
-      "source": "Live Science",
-      "category": "science",
-      "subtopic": "psychology",
-      "published_iso": "2026-10-26T09:00:00Z",
-      "excerpt": "In problem-solving experiments, people who used AI to get answers were more likely to give up and fail once the help was removed than people who never used AI.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/KDnKSRXsntnrLXjdFU4uN5-1024-80.jpg"
-    },
-    {
-      "title": "Over 10 percent of factual claims in Google's AI search summaries aren't backed by their cited sources, study finds",
-      "url": "https://www.psypost.org/how-google-ai-search-summaries-alter-online-information-and-publisher-revenue/",
-      "source": "PsyPost",
-      "category": "science",
-      "subtopic": "psychology",
-      "published_iso": "2026-11-02T14:00:56+00:00",
-      "excerpt": "An analysis of Google's AI Overviews finds one in nine generated claims lacks support in the cited sources, and the system bypasses traditional search rankings in ways that threaten original publishers.",
-      "og_image": "https://www.psypost.org/wp-content/uploads/2026/11/google-ai-overview-search.jpg"
-    },
-    {
-      "title": "One of AI's most annoying writing habits has a 2,000-year-old history",
-      "url": "https://www.psypost.org/one-of-ais-most-annoying-writing-habits-has-a-2000-year-old-history/",
-      "source": "PsyPost",
-      "category": "science",
-      "subtopic": "cognition",
-      "published_iso": "2026-11-06T23:00:20+00:00",
-      "excerpt": "A new preprint examines why language models overuse epanorthosis ('We do not sell products. We build experiences.'), a self-correcting figure from classical rhetoric.",
-      "og_image": "https://www.psypost.org/wp-content/uploads/2025/04/artificial-intelligence.jpg"
-    },
-    {
-      "title": "Beyond EEG snapshots: An AI model captures the spatiotemporal dynamics behind emotion",
-      "url": "https://www.eurekalert.org/news-releases/1150382",
-      "source": "EurekAlert!",
-      "category": "science",
-      "subtopic": "cognition",
-      "published_iso": "2026-11-04T00:00:00Z",
-      "excerpt": "DSE-TAM pairs a dynamic spatial embedding of EEG channels with a Temporal Attention Mamba to decode emotional states from brain signals, aimed at brain-computer interfaces and mental-health monitoring.",
-      "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/3c9a3a30-bb64-430a-8517-a63311d080ac/Rendition/low-res/Content/Public"
-    },
-    {
-      "title": "Generative AI fills gaps in brain wiring maps where MRI scans lose signal",
-      "url": "https://medicalxpress.com/news/2026-11-generative-ai-gaps-brain-wiring.html",
-      "source": "Medical Xpress",
-      "category": "science",
-      "subtopic": "cognition",
-      "published_iso": "2026-11-04T00:00:00Z",
-      "excerpt": "USC Stevens INI's FOD-Diffusion (Medical Image Analysis) reconstructs missing fiber-orientation data in diffusion MRI, cutting brainstem fiber-direction error to about 1.4 degrees versus 4.5 for the best of six rival methods on UK Biobank and HCP-Aging scans.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/stevens-ini-researcher.jpg"
-    },
-    {
-      "title": "Beyond trial and error: A framework for AI-driven solid-electrolyte discovery",
-      "url": "https://phys.org/news/2026-11-trial-error-framework-ai-driven.html",
-      "source": "Phys.org",
-      "category": "science",
-      "subtopic": "materials",
-      "published_iso": "2026-11-06T13:40:07-05:00",
-      "excerpt": "Tohoku University researchers (Advanced Materials perspective) propose a closed loop linking materials databases, machine-learning interatomic potentials, LLMs and automated experiments to find solid electrolytes that balance conductivity, stability, strength and manufacturability.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/beyond-trial-and-error-2.jpg"
-    },
-    {
-      "title": "AI helps find better recipes for 3D-printing titanium parts",
-      "url": "https://techxplore.com/news/2026-11-ai-recipes-3d-titanium.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "subtopic": "materials",
-      "published_iso": "2026-11-06T06:20:02-05:00",
-      "excerpt": "A new study shows how AI can narrow the search for 3D-printing settings for high-performance titanium parts before production, replacing costly trial-and-error runs.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-better-r.jpg"
-    },
-    {
-      "title": "Reconstruct Everything: UCL's pioneering AI model could redefine particle physics reconstruction",
-      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/high-energy-physics/reconstruct-everything-ucls-pioneering-ai-model-could-redefine-particle-physics-reconstruction",
-      "source": "UCL",
-      "category": "science",
-      "subtopic": "physics",
-      "published_iso": "2026-11-02T09:00:00+00:00",
-      "excerpt": "UCL's Reconstruct Everything Model reconstructs particles end-to-end from all detector systems on a simulated FCC detector, lifting reconstruction efficiency from 61% to 92%, improving jet energy resolution 52% and processing a collision in 30 ms on one GPU.",
-      "og_image": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG"
-    },
-    {
-      "title": "Chinese scientists developed a new model that substantially improves Earth rotation forecast accuracy",
-      "url": "https://www.eurekalert.org/news-releases/1150699",
-      "source": "EurekAlert!",
-      "category": "science",
-      "subtopic": "physics",
-      "published_iso": "2026-11-05T00:00:00Z",
-      "excerpt": "Shandong University of Science and Technology pairs segmented least squares with the Autoformer deep-learning model plus geophysical angular-momentum data to forecast UT1-UTC and length of day (Geodesy and Geodynamics).",
-      "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/c333d17c-a531-437f-9db2-eca0769d8db3/Rendition/low-res/Content/Public"
-    },
-    {
-      "title": "Can AI learn to understand nature? Scientists set out a roadmap for the future of ecology",
-      "url": "https://phys.org/news/2026-11-ai-nature-scientists-roadmap-future.html",
-      "source": "Phys.org",
-      "category": "science",
-      "subtopic": "life_science",
-      "published_iso": "2026-11-06T05:00:04-05:00",
-      "excerpt": "An international team outlines how a new generation of AI foundation models could transform understanding of ecosystems and help predict their responses to environmental change.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-learn-to-unders.jpg"
-    },
-    {
-      "title": "How researchers are adapting olmOCR 2 for historical and archaeological archives",
-      "url": "https://allenai.org/blog/olmocr-2-historical-archives",
-      "source": "Ai2",
-      "category": "science",
-      "subtopic": "research_automation",
-      "published_iso": "2026-10-28T00:00:00-08:00",
-      "excerpt": "Researchers are adapting Ai2's open olmOCR 2 model to make historical photo libraries searchable locally and to improve transcription of handwritten archaeological records.",
-      "og_image": null
-    },
-    {
-      "title": "Could AI ever build itself? Scientists map the road to the 'last AI built by humans.'",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/could-ai-ever-build-itself-scientists-map-the-road-to-the-last-ai-built-by-humans",
-      "source": "Live Science",
-      "category": "science",
-      "subtopic": "research_automation",
-      "published_iso": "2026-10-30T10:00:00Z",
-      "excerpt": "Researchers hope recursive self-improvement could tackle the skyrocketing costs of developing advanced AI models; the piece examines whether it is viable.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/hL4HLKumrpcRmmufTAF9LH-2000-80.jpg"
-    }
-  ]
+ "section": "science",
+ "now_iso": "2026-11-08T22:02:46Z",
+ "window_hours": 336,
+ "items": [
+  {
+   "title": "Connecting artificial intelligence with the tools of astrophysical research",
+   "url": "https://phys.org/news/2026-11-artificial-intelligence-tools-astrophysical.html",
+   "source": "Phys.org",
+   "category": "science",
+   "subtopic": "astronomy",
+   "published_iso": "2026-11-05T22:00:07Z",
+   "excerpt": "AstroGenesis (ICRANet-Armenia, arXiv) is a multi-agent AI for astrophysics: a supervisor coordinates agents that search literature, pull observational data and run physics models, while neural emulators trained on model outputs speed parameter exploration.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/connecting-artificial.jpg"
+  },
+  {
+   "title": "Twisted atomic layers slide spontaneously at room temperature in simulations",
+   "url": "https://phys.org/news/2026-11-atomic-layers-spontaneously-room-temperature.html",
+   "source": "Phys.org",
+   "category": "science",
+   "subtopic": "materials",
+   "published_iso": "2026-11-05",
+   "excerpt": "Chinese Academy of Sciences researchers used a high-accuracy machine-learning interatomic potential to simulate >10,000-atom twisted bilayer MoS2, finding defect-free layers slide at ~1 m/s at room temperature while ~0.1% sulfur vacancies pin them (JACS).",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/room-temperature-spont.jpg"
+  },
+  {
+   "title": "Predicting jumping genes' roles in changing genome size",
+   "url": "https://phys.org/news/2026-11-genes-roles-genome-size.html",
+   "source": "Phys.org",
+   "category": "science",
+   "subtopic": "life_science",
+   "published_iso": "2026-11-02T19:20:14Z",
+   "excerpt": "Ohio State's PrinTE forward simulator uses machine learning to steer millions of generations of transposable-element insertions and deletions toward plausible evolutionary histories; in myrtle rust, insertions outpaced deletions 4-5x (Nature Communications).",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-jumping-gen.jpg"
+  },
+  {
+   "title": "SYNAPS-I: Intelligent computing transforms X-ray imaging, from data collection to discovery",
+   "url": "https://techxplore.com/news/2026-11-synaps-intelligent-ray-imaging-discovery.html",
+   "source": "Tech Xplore",
+   "category": "science",
+   "subtopic": "research_automation",
+   "published_iso": "2026-11-04T10:40:05-05:00",
+   "excerpt": "DOE SYNAPS-I (Berkeley Lab ALS, Brookhaven NSLS-II, Argonne): ML lets an X-ray microscope pick regions autonomously, a foundation model reconstructs ptychography at 200 images/s, and a 3D chip was rebuilt from ~1/10 the usual data with a fine-tuned SAM 3.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/synaps-i-intelligent-c.jpg"
+  },
+  {
+   "title": "Let there be light—novel AI framework runs on optical hardware",
+   "url": "https://techxplore.com/news/2026-11-ai-framework-optical-hardware.html",
+   "source": "Tech Xplore",
+   "category": "science",
+   "subtopic": "physics",
+   "published_iso": "2026-11-05T05:00:01-05:00",
+   "excerpt": "University of Tokyo and NTT combine an SS-DFA training method with a single-map network to cut measurement and compute for physics-based AI; on an optical computing system it matched or beat more complex networks (Nature Computational Science).",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/let-there-be-light--no.jpg"
+  },
+  {
+   "title": "Chatbots with personality? How AI describes itself and judges us",
+   "url": "https://techxplore.com/news/2026-11-chatbots-personality-ai.html",
+   "source": "Tech Xplore",
+   "category": "science",
+   "subtopic": "psychology",
+   "published_iso": "2026-11-04T16:40:01-05:00",
+   "excerpt": "JGU Mainz compared self-descriptions from seven language models with 70 humans: models portrayed themselves as more conscientious, agreeable and stable, and humans spotted AI vs human texts better (83%) than chatbots did (67%) (Scientific Reports).",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
+  },
+  {
+   "title": "Prior expertise may determine whether AI builds skills or substitutes for them, field experiment suggests",
+   "url": "https://www.psypost.org/prior-expertise-may-determine-whether-ai-builds-skills-or-substitutes-for-them-field-experiment-suggests/",
+   "source": "PsyPost",
+   "category": "science",
+   "subtopic": "psychology",
+   "published_iso": "2026-11-07T14:00:20+00:00",
+   "excerpt": "A field experiment with patent lawyers suggests that whether on-the-job AI builds expertise or erodes it depends on how much expertise people bring to the tool in the first place.",
+   "og_image": "https://www.psypost.org/wp-content/uploads/2025/01/artificial-intelligence-1.jpg"
+  },
+  {
+   "title": "One of AI's most annoying writing habits has a 2,000-year-old history",
+   "url": "https://www.psypost.org/one-of-ais-most-annoying-writing-habits-has-a-2000-year-old-history/",
+   "source": "PsyPost",
+   "category": "science",
+   "subtopic": "cognition",
+   "published_iso": "2026-11-06T23:00:20+00:00",
+   "excerpt": "An arXiv preprint measures how often Claude models use the 'not X, but Y' self-correction pattern versus human writing across seven genres, traces it to classical rhetoric, and pilots LoRA, prompt and sampling fixes to reduce it.",
+   "og_image": "https://www.psypost.org/wp-content/uploads/2025/04/artificial-intelligence.jpg"
+  },
+  {
+   "title": "AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261104004909.htm",
+   "source": "ScienceDaily",
+   "category": "science",
+   "subtopic": "life_science",
+   "published_iso": "2026-11-04T01:57:06-05:00",
+   "excerpt": "Stanford researchers used AI to identify BRP, a natural peptide that cut food intake by up to 50% and promoted fat loss in animals via a different brain pathway than GLP-1 drugs, without the usual digestive side effects or major muscle loss.",
+   "og_image": "https://www.sciencedaily.com/images/1920/weight-loss-molecule-fit-woman.webp"
+  },
+  {
+   "title": "Bird Flu Vaccine Developed Using AI Outperforms Current Stockpiled Vaccines in Preclinical Tests",
+   "url": "https://www.genengnews.com/topics/infectious-diseases/bird-flu-vaccine-developed-using-ai-outperforms-current-stockpiled-vaccines-in-preclinical-tests/",
+   "source": "GEN",
+   "category": "science",
+   "subtopic": "life_science",
+   "published_iso": "2026-11-05T19:57:23Z",
+   "excerpt": "An AI-assisted computationally designed broad H5 vaccine antigen, DVX-panH5Nx, outperformed government-stockpiled bird flu vaccines in preclinical studies.",
+   "og_image": "https://www.genengnews.com/wp-content/uploads/2026/11/Low-Res_4X4A7027-2-1.jpg"
+  },
+  {
+   "title": "Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery",
+   "url": "https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102",
+   "source": "MIT News",
+   "category": "science",
+   "subtopic": "life_science",
+   "published_iso": "2026-11-02T05:35:00Z",
+   "excerpt": "MIT's Regina Barzilay and Jim Collins received the Pritzker Prize for AI and Science Research Excellence for deep-learning antibiotic discovery, including halicin and new structural classes against resistant bacteria.",
+   "og_image": "https://news.mit.edu/sites/default/files/images/202611/barzilay-collins-00.jpg"
+  },
+  {
+   "title": "Teaching AI to build better enzymes",
+   "url": "https://www.eurekalert.org/news-releases/1150904",
+   "source": "EurekAlert! (HHMI)",
+   "category": "science",
+   "subtopic": "life_science",
+   "published_iso": "2026-11-06",
+   "excerpt": "UCSB (Yang Yang) and Georgia Tech (Yunan Luo) built SynFit, an open-source ML tool that learns from several enzyme measurements at once; it guided cytochrome c variants for carbon-boron bond formation with high yield and selectivity and beat single-trait models with small datasets.",
+   "og_image": null
+  },
+  {
+   "title": "Using ChatGPT at work? Your boss may trust you less, new study finds",
+   "url": "https://www.eurekalert.org/news-releases/1150468",
+   "source": "EurekAlert! (Hebrew University)",
+   "category": "science",
+   "subtopic": "psychology",
+   "published_iso": "2026-11-04",
+   "excerpt": "Six studies in The Leadership Quarterly find supervisors trust employees who use LLMs less, lowering performance ratings and promotion suitability, though the penalty shrinks when organizations explicitly encourage AI use.",
+   "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/be1996da-571f-422e-94db-f78f12f371d3/Rendition/low-res/Content/Public"
+  },
+  {
+   "title": "Machine learning decodes biochar's reactive radicals from elemental composition",
+   "url": "https://www.eurekalert.org/news-releases/1150741",
+   "source": "EurekAlert! (Biochar X)",
+   "category": "science",
+   "subtopic": "materials",
+   "published_iso": "2026-11-05",
+   "excerpt": "Kunming University of Science & Technology trained ML models on 263 records to predict biochar radical concentration and g-factor from elemental composition (shallow NN, test R2 ~0.78/0.76), partly confirmed with lab-made biochars.",
+   "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/1819b053-f46e-411e-9209-733ea083f33c/Rendition/low-res/Content/Public"
+  },
+  {
+   "title": "Explainable AI predicts how plant compounds may cross intestinal barriers",
+   "url": "https://medicalxpress.com/news/2026-11-ai-compounds-intestinal-barriers.html",
+   "source": "Medical Xpress",
+   "category": "science",
+   "subtopic": "life_science",
+   "published_iso": "2026-11-06T13:00:04Z",
+   "excerpt": "Sejong University and KIST built explainable ML models that predict intestinal permeability and efflux of plant compounds from molecular structure alone, with SHAP tying predictions to electronic, topological and branching features (J. Sci. Food Agric.).",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/eating-a-salad-knife-f.jpg"
+  }
+ ]
 }

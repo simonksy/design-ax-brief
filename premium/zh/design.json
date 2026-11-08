@@ -10987,6 +10987,117 @@
           "x": "发布时，Cursor 会运行确定性检查和智能体安全检查，以发现常见问题，例如写在应用文件中的密钥或暴露的凭据。在检查通过且你明确发布应用之前，任何内容都不会上线。团队管理员可以看到团队中的每个应用和密钥。该功能面向所有启用了云端智能体的付费方案开放。"
         }
       ]
+    },
+    "design/nngroup-agent-harness-def": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "智能体运行框架（agent harness）管理 AI 模型与其工具之间的软件循环。它的上下文、权限和限制决定了用户能做什么。两个 AI 日程助手即便依赖同一个 AI 模型，也可能因外围框架不同而能力迥异。"
+        },
+        {
+          "t": "p",
+          "x": "智能体运行框架是包裹在 AI 模型外部、运行其执行循环的软件：它执行模型调用工具的请求，返回结果，并控制模型能收到哪些信息、被允许做什么。正是这种“请求、行动、结果”的循环，把聊天机器人变成了 AI 智能体。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.nngroup.com/media/editor/2026/11/06/how-an-agent-harness-runs-an-execution-loop_jHSEz0a.jpg",
+          "cap": "模型请求执行操作。框架在工具执行之前，依据权限和限制检查每一个请求，然后返回结果，让模型再次运行或回复用户。"
+        },
+        {
+          "t": "p",
+          "x": "除了运行循环，框架还负责提供上下文、连接工具并执行权限，提供指令，并对时间、成本和步骤数量施加限制。保存下来的信息只有在框架将其传给模型时才有用。"
+        },
+        {
+          "t": "p",
+          "x": "对 UX 而言：知道一个产品用的是哪个 AI 模型，并不能告诉你它的框架能否支持你的任务。设计师应在设计界面的同时明确行为，而评估（evals）应在真实的上下文、工具和权限下测试整个任务。"
+        }
+      ]
+    },
+    "design/uxc-berrypicking-ai-search": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:2000/1*7nKkTkUX4iDwlOFBMtt4kg.png",
+          "cap": "搜索者穿行于分散的来源之间，每到一处就收集一块有用的信息。"
+        },
+        {
+          "t": "p",
+          "x": "1989 年，Marcia Bates 指出，人们的搜索是边收集、边转向、边修正的过程。她的采莓（berrypicking）论文认为，真实的搜索会四处游走、不断变形，并以零散的方式积累价值。她针对的是那些假定只有一次查询、一个最佳结果的图书馆数据库。聊天框做出了同样的假定，只是更快。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1000/1*-BHFNiCUGikF8fnaGaP1NA.png",
+          "cap": "人们搜索的四种方式。"
+        },
+        {
+          "t": "p",
+          "x": "2025 年一项涵盖超过 200,000 次模拟对话的研究发现，当任务被拆成多段给出时，每个顶尖模型的表现都会变差，在六项任务中平均下降 39%。Bates 还列出了 29 种搜索策略，而聊天回复把本可将这些策略变成按钮的分面和筛选器藏了起来。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1000/1*K8I3knsghQYE_ff9DOGSrA.png",
+          "cap": "按需求打包的四个层级。"
+        },
+        {
+          "t": "p",
+          "x": "她在 1990 年提出的自动化等级从 0 级到 4 级；大多数 AI 产品直接跳到 4 级。她的层级级联表明，建立在糟糕索引上的流畅答案依然是糟糕的答案；Pew 发现，有 AI 摘要时结果点击率降至百分之八，没有时则为百分之十五。"
+        }
+      ]
+    },
+    "design/firefly-seedance-25-video": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "dGEv6re6uYI"
+        },
+        {
+          "t": "p",
+          "x": "细节引人入胜，让人驻足。用现已登陆 Firefly 的 Seedance 2.5 讲述你的故事。免费试用。"
+        },
+        {
+          "t": "p",
+          "x": "Firefly 是 Adobe 的创意 AI 设计工具。它将 Adobe 及合作伙伴的模型汇集一处，让你可以在网页端、移动端，或在 Photoshop、Illustrator、Express 和 Premiere Pro 等 Adobe 应用中生成图像、文字效果、视频和音频。"
+        }
+      ]
+    },
+    "design/uxc-native-floor-components": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/1*tmilNueBY4CBfNN99ZX5vA.jpeg",
+          "cap": "Apple 面向 iOS 27 的设计套件，即每个应用都能获得的系统组件。"
+        },
+        {
+          "t": "p",
+          "x": "有了 AI，精致的外观不再需要成本。原生能带来画不出来的东西，并随系统一起演进，始终比模仿者领先一步。当 Apple 推出 Liquid Glass 时，使用系统组件的应用只需重新编译就获得了新外观；自己绘制控件的应用则一无所获。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*hUXaBgmYwkvMbX5QMiYcRg.png",
+          "cap": "同一个 AI 模型为同一款托儿所应用生成的两个主屏幕：只有在指示其遵循当前平台规范时，悬浮的 iOS 26 标签栏才会出现。"
+        },
+        {
+          "t": "p",
+          "x": "AI 模型只在看得见的地方模仿系统，而它们画出的 iOS 大多仍是旧版。但底线主要在于行为：返回手势、分享面板、内置的无障碍功能、可缩放的文字。手工重绘的控件必须把这一切重新做一遍。"
+        },
+        {
+          "t": "p",
+          "x": "原生纠正的是虚假，而不是相似；脱颖而出仍是品牌的任务。当原型稿出自 AI 时，要在提示词中写明设备及其当前规范，而任何看起来像系统控件的东西，至少都应当像系统控件一样运作。"
+        }
+      ]
+    },
+    "design/bcn3d-aurora-photo-to-part": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.all3dp.com/workers/images/fit=scale-down,w=1200,h=675,quality=79,gravity=0.5x0.5,format=auto/wp-content/uploads/2026/11/05110054/BCN3D-Aurora-hero.jpg",
+          "cap": "来源：BCN3D, All3DP"
+        },
+        {
+          "t": "p",
+          "x": "全新Aurora 3D打印机能把一张照片、几句话或一条语音指令直接变成成品零件，无需CAD或切片软件。我有点难以置信，也相当迫切地想亲眼看看。"
+        }
+      ]
     }
   }
 }

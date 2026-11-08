@@ -10831,6 +10831,160 @@
           "x": "「空調の総エネルギー使用量を減らす可能性は確かにある」とKTHのBjörn Palmは言う。では、どれほどか。それははっきりしない。GradientのCTO、Vincent Romaninは懐疑的だ。「在室センサー付きの製品で、うまく機能したと感じたものは個人的に一度もない」。Palmにとって2050年の持続可能な冷房を左右するのは、台所までついてくるACではなく、小型ヒートポンプと自然冷媒だ。"
         }
       ]
+    },
+    "gadgets/arm-neural-dawn-framegen": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-game-main-menu-scaled.jpg",
+          "cap": "Robert Triggs / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "ArmはデベロッパーのSumo Digitalと組み、Unreal EngineのMegaLightsによるレイトレーシング照明を使う軽量プラットフォーマー、Neural Dawnを制作した。ArmのNeural Super Sampling and Denoising(NSSD)とNeural Frame Rate Upscaling(NFRU)を活用し、スマートフォン上で動作する。Arm Mali G2 Ultra NX GPUが必要で、現時点で対応するチップセットはMediaTek Dimensity 9600 Proのみだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Screenshot-4.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Arm-Mali-G2-Ultra-neural-accelerator.jpg",
+          "cap": "Arm"
+        },
+        {
+          "t": "p",
+          "x": "NFRUはGPU上のAIニューラルネットワークを使い、ネイティブにレンダリングした各フレームに対して補間フレームを生成する。これにより30 FPSで動くゲームが60 FPSで出力される。NSSDは低解像度の画像をアップスケールしつつ(Armは540pから1080pへの例を示した)、anti-aliasingとレイトレーシング照明のノイズ除去も担う。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Performance-Graph.jpg",
+          "cap": "Robert Triggs / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "OPPO Find X10 Pro Maxでは平均59.8 FPS、1%低値は57.2 FPSで、温度は約18分後に最高37.7°Cに達した。トレードオフとして、カメラを回すとキャラクターの周囲にモーションゴーストが出るほか、ときおり操作の遅延も生じる。筆者は、アップスケーリングこそモバイルがコンソールやPC品質(PC-quality)のグラフィックスに迫る最善の手段だと結論づけている。"
+        }
+      ]
+    },
+    "gadgets/kimi-k3-optane-homelab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Wpdi2avEo8ZBZMremLVgaU-2496-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Redditのホームラボ愛好家が、Moonshot AIの2.8-trillionパラメータのAIモデルKimi K3を、生産終了した第二世代のOptane PMem 200メモリ上で動かした。推論にはGPUではなく、40コアの第3世代Xeon Scalable CPUを使っている。1-bit量子化でも毎秒0.85トークン、3-bit量子化では毎秒0.75トークンで動作する。"
+        },
+        {
+          "t": "p",
+          "x": "Kimi K3は最小のコミュニティ量子化版でも最低610GB のRAMを必要とし、中古のOptaneは自宅でその容量に届く数少ない手段の一つだ。ビルダーによれば、同等のDRAMの「ほんの一部」の費用で済むという。このビルドではOptaneをApp Directモードで運用した。"
+        },
+        {
+          "t": "p",
+          "x": "Optane DIMMsは持続的な推論で「極めて熱く」なり、隣接するDRAMを危険にさらしうるとビルダーは言う。助言は「アクティブなDIMM冷却を必須とせよ」で、モジュールに向けて12W のブロワーファンを二つ据える。Intelは各モジュールの定格を12W または15W としており、摂氏83度でスロットリングがかかる。"
+        },
+        {
+          "t": "p",
+          "x": "これらの数値はチューニング前のものだ。ビルダーはGPUsを追加し、モデルの一部をより高速な層としてDRAMに載せる計画だ。"
+        }
+      ]
+    },
+    "gadgets/tomsguide-ai-earbuds-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/dzhSAejg9r2CVeUepQmEaW-2000-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Tom's Guideが三週間にわたって行った投票で、イヤホンやヘッドホンでAI機能を特に重視すると答えた読者は200人中わずか五人、票全体の2%だった。音質が135票でトップとなり、ANCが13%で続いた。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Ec4yZr9N8LKMoFzrgJ9ya3.png",
+          "cap": "Tom's Guide / 5of10.com"
+        },
+        {
+          "t": "p",
+          "x": "Anker Soundcore Space 2 Proは「世界初のニューラルネット・コンピュート・イン・メモリAIオーディオチップ」をうたい、SoundcoreアプリにはAIチャットボットのタブがある。だがAnkerによれば、Space 2 ProのAnkaは「『Hey Anka』による起動と、基本的な音声のやり取りや会話にのみ対応」しており、ほかの機能はまだ開発中だという。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/PAQH7qRotUavbzbRoHmrg.jpg",
+          "cap": "Anker / Future"
+        },
+        {
+          "t": "p",
+          "x": "AirPods Max 2やSamsung Galaxy Buds 4 ProのLive Translation、Soundcore Liberty 5 Pro Maxの通話文字起こしのように、きちんと機能するAIは利点になる。Cambridge Audioは$149のMelomania A100 SEにAIを載せなかった。「外出先でお気に入りの音楽を聴くときに必要だとは考えていない」という。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/JrpSckBC4M5g9ugniCMYsd.jpg",
+          "cap": "Tom's Guide"
+        }
+      ]
+    },
+    "gadgets/underdog-woof-32mb": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.02.34-PM.jpg?resize=1200,542"
+        },
+        {
+          "t": "p",
+          "x": "AI企業が膨大な処理能力を必要とする、より大きなモデルの開発を競う一方で、一部の研究者やスタートアップは、スマートフォンやパソコンといったエッジデバイスで動く小さなモデルを作っている。"
+        },
+        {
+          "t": "p",
+          "x": "そうしたスタートアップの一つであるUnderdogは、わずか32MBの新しい音声モデルWoofで作ったゲームを公開した。ゲームにはレトロなテック調の部屋、タイプライター、CRTモニターが登場し、イントロでは町の「押しつけがましい」クラウド事業者に注意するよう呼びかける。クラウド型モデルへの皮肉とみられる。"
+        },
+        {
+          "t": "p",
+          "x": "タイプライターに何か打ち込めばゲームがそれを読み上げ、チューナーを回せばさまざまな音楽を生成する。これらはすべてUnderdogの音声生成モデルによってブラウザ内で動作し、同社によれば大半のデバイスでインターネット接続なしに動く。モデルのパラメータは3100万で、誰でもダウンロードできるよう公開されている。"
+        },
+        {
+          "t": "p",
+          "x": "このデモは、Underdogがエッジデバイスでの文字起こしやディクテーション向けに167MBの音声認識モデルBarkを出した数週間後に登場した。創業者のSigil WenはTechCrunchにこう語った。「私たちはただ、American-madeで、オープンで、高性能で、人々がプライベートなAIを持てる最高のオープンモデルを訓練したいだけです」"
+        },
+        {
+          "t": "p",
+          "x": "Underdogはノートパソコンで動く27-billion-parameterのモデルも公開し、MuseやInstinctに代わるローカルホスト型アプリのウェイトリストも受け付けている。"
+        }
+      ]
+    },
+    "gadgets/raycast-mac-dictate-screen": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/raycast-dictate-ai.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "最近のScreen Awarenessのリリースに続き、Raycastは今週、興味深いアップデートを実施した。ユーザーは文脈を説明しなくても、画面に表示されている内容についてAIと会話できる。"
+        },
+        {
+          "t": "p",
+          "x": "Raycastは去る八月にScreen Awarenessを発表した。アクティブなアプリやウインドウの文脈をAI Chatに直接取り込める機能で、Raycastは「テキストをコピーしたり、スクリーンショットを添付したり、見ているものを説明したりする必要はない」と述べていた。"
+        },
+        {
+          "t": "p",
+          "x": "今週、Raycastはこの機能をさらに一歩進め、新コマンドDictate to AIを追加した。ユーザーが要望を声で伝えると、アクティブなアプリの文脈が自動的にAIに渡される。"
+        },
+        {
+          "t": "p",
+          "x": "Raycastによると、今回のリリースには次の内容も含まれる。AI Chatで文字起こしを使い、スタイルを管理してフィードバックを得られる新しいDictation AI拡張機能。Mac向けに、AIの使用量を確認できるメニューバーコマンド(Settings → AI → Show AI Usage in Menu Bar)。そしてMac向けに、AI Chatから連絡先の検索、作成、更新、削除ができるContacts AI拡張機能である。"
+        },
+        {
+          "t": "p",
+          "x": "Raycastはほかの最近のアップデートや追加機能にも触れた。Raycast Notesは画像に対応し、無料ユーザーもノートを無制限に使えるようになった。Macアプリは検索の高速化やメモリ使用量の削減など、いくつかの性能改善を受けた。一方、iOS版RaycastにはAI-poweredのライティングツールを備えた新しいキーボードが加わり、Cloud Sync機能も改善された。"
+        },
+        {
+          "t": "p",
+          "x": "Windowsユーザー向けの改善もあり、Screen Awarenessに個々の要素やウインドウ全体をAI Chatへ送る新コマンドが加わった。Raycast v2.11の詳細はこちらのリンクから確認できる。"
+        }
+      ]
     }
   }
 }

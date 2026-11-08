@@ -1,223 +1,142 @@
 {
   "section": "design",
-  "now_iso": "2026-11-07T22:02:33Z",
+  "now_iso": "2026-11-08T22:02:46Z",
   "window_hours": 72,
   "items": [
     {
-      "title": "Workflow Lab: Build With Code on the Canvas Using the Figma Agent and Code Layers",
-      "url": "https://www.figma.com/blog/workflow-lab-build-with-code-on-the-canvas-using-the-figma-agent-and-code-layers/",
-      "source": "Figma",
-      "category": "figma",
-      "published_iso": "2026-11-04T22:12:00Z",
-      "excerpt": "Figma walks through how a designer uses code layers and the Figma agent on the canvas to prototype and test a new feature idea with working code instead of static mockups.",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/c5cbcf8c4cf48ebef3a68f5be108915e8051d6b3-1056x594.jpg?w=1200&q=70&fit=max&auto=format"
-    },
-    {
-      "title": "In Conversation: Dylan Field and David Friedberg on the Human Role in Creating With AI",
-      "url": "https://www.figma.com/blog/in-conversation-dylan-field-and-david-friedberg/",
-      "source": "Figma",
-      "category": "figma",
-      "published_iso": "2026-11-06T20:31:00Z",
-      "excerpt": "Figma CEO Dylan Field and David Friedberg discuss why 'design is the new code', how to shape AI's creative output, and the human vision and judgment behind what gets made.",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
-    },
-    {
-      "title": "Chat SDK agents can now stream generative UI with json-render",
-      "url": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
-      "source": "Vercel",
-      "category": "figma",
-      "published_iso": "2026-11-06T21:00:00Z",
-      "excerpt": "Vercel's @json-render/chat lets Chat SDK agents stream generative UI from one typed component catalog, rendering native cards on Slack, Teams and every Chat SDK platform.",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7GBRL4iPtI99gtYPzGUJgT/89543d900cd8337eb22bb11c9712218c/image.png"
-    },
-    {
-      "title": "Otherwise you're just a machine",
-      "url": "https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-11-07T20:15:42Z",
-      "excerpt": "A design leader who reviews portfolios and hires designers argues AI is getting better at design, so the skills behind the work - framing, judgment, reasoning - are becoming both harder to see and more important.",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*DPDKtw_Qr-hC8-5aISbtwg.png"
-    },
-    {
-      "title": "AI can generate the interface. What makes it worth caring about?",
-      "url": "https://uxdesign.cc/ai-can-generate-the-interface-what-makes-it-worth-caring-about-a5f3a3e81986",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-11-04T22:12:46Z",
-      "excerpt": "As AI tools generate more product UI from shared patterns, designers must decide where an experience should surprise, celebrate, or stay quiet; an AI-generated completion state uses the right components but cannot judge emotional context.",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*3TA1JRp7-caokhilM29rqQ.jpeg"
-    },
-    {
-      "title": "Design by numbers: is AI ruining UX or just pouring gasoline on the fire?",
-      "url": "https://uxdesign.cc/design-by-numbers-is-ai-ruining-ux-or-just-pouring-gasoline-on-the-fire-24164d49e422",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-11-05T10:49:10Z",
-      "excerpt": "Asking whether AI will replace UX designers is the wrong question, the author argues; LLM-driven, metrics-first design accelerates an existing habit of designing by numbers rather than understanding.",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*NxZYfrz8aLvN2VAE-JFQKQ.png"
-    },
-    {
-      "title": "I Built an Open-Source Agent Skill to Make AI-Generated Frontends Less Generic",
-      "url": "https://dev.to/avl05/i-built-an-open-source-agent-skill-to-make-ai-generated-frontends-less-generic-e4k",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-11-07T16:24:31Z",
-      "excerpt": "A developer releases an open-source agent skill for Codex and Claude Code that pushes AI coding agents away from the same generic look when they build websites, steering typography, layout and visual direction.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxgu61ojfzqhmo9n0m8ob.png"
-    },
-    {
-      "title": "How to keep the same character across AI video clips with reference images (Kling 3.0 Omni, MiniMax H3, Wan, Seedance)",
-      "url": "https://dev.to/ref_vid/how-to-keep-the-same-character-across-ai-video-clips-with-reference-images-kling-30-omni-minimax-187f",
-      "source": "DEV Community",
-      "category": "workflow",
-      "published_iso": "2026-11-07T21:42:57Z",
-      "excerpt": "The biggest complaint about AI video is not quality but that clip two shows a different person; a practical guide to reference-image workflows for character consistency across Kling 3.0 Omni, MiniMax H3, Wan and Seedance.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu4ma4c15o5sxjoose8bc.jpg"
-    },
-    {
-      "title": "Nvidia DLSS 5 in Hogwarts Legacy makes the AI backlash seem funny",
-      "url": "https://www.creativebloq.com/news/nvidia-dlss-5-in-hogwarts-legacy-has-sparked-a-whole-different-controversy",
-      "source": "Creative Bloq",
-      "category": "render",
-      "published_iso": "2026-11-05T14:31:46Z",
-      "excerpt": "Nvidia's generative-AI DLSS 5, which rewrites lighting, textures and faces in real time, arrives in Hogwarts Legacy and reignites the debate over whether AI rendering honors or overrides artists' original vision.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/2Sx2umgaE7bnrpByhwmbhM-904-80.png"
-    },
-    {
-      "title": "Dior's Christmas ad faces scathing AI allegations",
-      "url": "https://www.creativebloq.com/news/diors-christmas-ad-is-the-opposite-to-pradas-classy-animation",
-      "source": "Creative Bloq",
-      "category": "workflow",
-      "published_iso": "2026-11-05T15:00:00Z",
-      "excerpt": "Despite an all-star cast and a leading director, Dior's holiday film is being picked apart by critics who say it shows signs of generative AI, in contrast to Prada's hand-crafted animated spot.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/hBTsT4ombrF3uUGqNgKb57-1920-80.jpg"
-    },
-    {
-      "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
-      "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/",
-      "source": "NVIDIA Technical Blog",
-      "category": "render",
-      "published_iso": "2026-11-06T22:20:20Z",
-      "excerpt": "NVIDIA details how FLUX 3 Image Klein - Qwen3-VL-4B text conditioning plus a diffusion transformer - runs faster on Blackwell GPUs with TensorRT optimisations, targeting latency in design tools, image editors and visual production workflows.",
-      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/techblog-5893-article-kix-ulkeecvizi09.webp"
-    },
-    {
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-      "source": "NVIDIA Blog",
-      "category": "render",
-      "published_iso": "2026-11-05T17:00:35Z",
-      "excerpt": "Developers direct frontier models such as GPT-6 Astra through natural language to assemble assets, connect physics and rendering, and build Omniverse simulation apps for animated 3D content and design testing.",
-      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-1680x945.png"
-    },
-    {
-      "title": "Autodesk releases Flame 2027.2",
-      "url": "https://www.cgchannel.com/2026/11/autodesk-releases-flame-2027/",
+      "title": "Chaos releases V-Ray 7.5 for 3ds Max with new AI features",
+      "url": "https://www.cgchannel.com/2026/11/chaos-releases-v-ray-7-5-for-3ds-max-with-new-ai-features/",
       "source": "CG Channel",
       "category": "render",
-      "published_iso": "2026-11-07T06:00:27Z",
-      "excerpt": "Autodesk's Flame 2027.2 update lets the compositing and finishing software import USD scenes and adds a new AI model for generating normal maps from video footage.",
-      "og_image": null
+      "published_iso": "2026-11-08T18:30:00+00:00",
+      "excerpt": "V-Ray 7 for 3ds Max Update 5 adds an experimental AI Assistant that answers technical questions, recommends stock assets and even rates renders out of ten for artistic merit; Veras, Anima and Vantage are updated too. Note: Chaos V-Ray Collection AI ran 11-07 (AEC Magazine) - this is the 3ds Max-specific release with the render-critique assistant.",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/11/261108_VRay75_3dsMax_RenderCritique.jpg"
     },
     {
       "title": "Chaos brings AI design exploration into Enscape",
       "url": "https://aecmag.com/visualisation/chaos-brings-ai-design-exploration-into-enscape/",
       "source": "AEC Magazine",
       "category": "render",
-      "published_iso": "2026-11-06T10:53:04Z",
-      "excerpt": "Enscape 4.22 builds Veras 2.0 AI rendering directly into the Enscape interface so architects can generate design variations, materials and moods without a separate window, plus new AI video models for communicating ideas.",
+      "published_iso": "2026-11-06T10:53:04+00:00",
+      "excerpt": "Enscape 4.22 integrates Veras 2.0 directly into the real-time visualisation interface so architects can generate design variations, swap materials and moods, and use new AI video models without opening a separate window. Off-list domain (render category had no other fresh AI item); same Chaos family as the 11-07 V-Ray story.",
       "og_image": "https://aecmag.com/wp-content/uploads/2026/11/Lead_01.jpg"
     },
     {
-      "title": "This AI 3D Printer Can Now Design Your Parts, Too. I Have Questions.",
-      "url": "https://all3dp.com/4/this-ai-3d-printer-can-now-design-your-parts-too-i-have-questions/",
-      "source": "All3DP",
-      "category": "cad",
-      "published_iso": "2026-11-05T10:09:47Z",
-      "excerpt": "BCN3D's Aurora printer now promises to design parts itself from a photo, a few words or a voice command, skipping CAD and slicing entirely; All3DP questions what that means for precision and design control.",
-      "og_image": "https://i.all3dp.com/workers/images/fit=scale-down,w=1200,h=630,gravity=0.5x0.5,format=jpeg/wp-content/uploads/2026/11/05110054/BCN3D-Aurora-hero.jpg"
+      "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+      "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/",
+      "source": "NVIDIA Technical Blog",
+      "category": "render",
+      "published_iso": "2026-11-06T22:20:20+00:00",
+      "excerpt": "NVIDIA details TensorRT LLM VisualGen optimizations (NVFP4, fused kernels, torch.compile) for Black Forest Labs' FLUX 3 Image Klein, reporting up to 3.46x faster text-to-image and 4.45x faster image-to-image at 2048x2048 on a B200 - aimed at diffusion models inside design tools and image editors.",
+      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/techblog-5893-article-kix-ulkeecvizi09.webp"
     },
     {
-      "title": "IronCAD 2027 update adds design automation tools",
-      "url": "https://www.engineering.com/ironcad-2027-update-adds-design-automation-tools/",
-      "source": "Engineering.com",
-      "category": "cad",
-      "published_iso": "2026-11-05T14:43:38Z",
-      "excerpt": "IronCAD 2027 adds AI-assisted scripting for design automation, sheet metal catalog reuse and updated CAD translators for major formats.",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/11/IronCAD-2027-update-adds-design-automation-tools.png"
+      "title": "Select objects even faster with Figma's AI image editing tools",
+      "url": "https://www.figma.com/release-notes/?title=select-objects-even-faster-with-figmas-ai-image-editing-tools",
+      "source": "Figma Release Notes",
+      "category": "figma",
+      "published_iso": "2026-11-06T00:00:00+00:00",
+      "excerpt": "Figma's Select area AI image-editing tool now lets you click an object in an image and have Figma select it automatically to isolate or erase it, instead of tracing by hand. macOS desktop app only.",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/342e17642c7afa81206490b0dd21c3e5724ae040-2400x1260.png?w=1200&q=70&fit=max&auto=format"
     },
     {
-      "title": "What MCP could mean for infrastructure AI",
-      "url": "https://www.engineering.com/what-mcp-could-mean-for-infrastructure-ai/",
-      "source": "Engineering.com",
-      "category": "cad",
-      "published_iso": "2026-11-05T18:12:44Z",
-      "excerpt": "Bentley's latest AI efforts use the Model Context Protocol to connect large language models to years of engineering know-how locked in infrastructure design data and tools.",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/11/bentley-mcp-horiz.png"
+      "title": "In Conversation: Dylan Field and David Friedberg on the Human Role in Creating with AI",
+      "url": "https://www.figma.com/blog/in-conversation-dylan-field-and-david-friedberg/",
+      "source": "Figma Blog",
+      "category": "workflow",
+      "published_iso": "2026-11-06T20:31:00+00:00",
+      "excerpt": "Figma CEO Dylan Field and David Friedberg discuss why design is the new code, how to shape AI's creative output, and the human vision and judgment behind what gets made.",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
     },
     {
-      "title": "Tencent Hunyuan 4: A Multimodal Agent for Blender, Office, and Finance",
-      "url": "https://www.mindstudio.ai/blog/tencent-hunyuan-4-multimodal-agent/",
-      "source": "MindStudio",
+      "title": "Agent Harness: Definition",
+      "url": "https://www.nngroup.com/articles/agent-harness/",
+      "source": "Nielsen Norman Group",
       "category": "tokens",
-      "published_iso": "2026-11-05T00:00:00Z",
-      "excerpt": "Tencent's Hunyuan 4 adds vision, a 1M-token context and computer-use skills that drive Blender and CAD, building 3D scenes from sketches alongside office document work.",
-      "og_image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/c74442e4-a8fd-45ea-bc37-4edaedcd1cb6.png?fm=auto&w=1200&h=630&fit=crop"
+      "published_iso": "2026-11-06T18:00:00+00:00",
+      "excerpt": "NN/g defines the agent harness - the software loop between an AI model and its tools - and explains how its context, permissions and limits shape what users can actually do with an agent.",
+      "og_image": "https://media.nngroup.com/media/articles/opengraph_images/Agent-Harness_socialcard.png"
     },
     {
-      "title": "PH3 Image: A Fast, Small Image Model Built on MiniMax H3",
-      "url": "https://www.mindstudio.ai/blog/ph3-image-model-minimax/",
-      "source": "MindStudio",
+      "title": "Otherwise you're just a machine",
+      "url": "https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-11-07T20:15:42+00:00",
+      "excerpt": "AI is getting better at design; designers should too. A design hiring lead on the skills that separate strong designers now that anyone can turn an idea into a polished, vibe-coded prototype in minutes.",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*DPDKtw_Qr-hC8-5aISbtwg.png"
+    },
+    {
+      "title": "Native is a floor, not a ceiling",
+      "url": "https://uxdesign.cc/native-is-a-floor-not-a-ceiling-09bc4f27ddce",
+      "source": "UX Collective",
       "category": "tokens",
-      "published_iso": "2026-11-06T00:00:00Z",
-      "excerpt": "PH3 Image turns MiniMax H3 into a 7x smaller, 5x faster open-weight image generator; what it does and how it compares with other image models.",
-      "og_image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6a748913-8fd0-42eb-add3-a6a2c1fe77df.png?fm=auto&w=1200&h=630&fit=crop"
+      "published_iso": "2026-11-06T04:12:27+00:00",
+      "excerpt": "With AI, a polished look costs nothing; native system components bring what can't be drawn and move with the platform (e.g. Liquid Glass) one step ahead of what imitates it.",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*tmilNueBY4CBfNN99ZX5vA.jpeg"
     },
     {
-      "title": "How to Use Claude to Edit Short-Form Videos: A Practical Workflow",
-      "url": "https://www.mindstudio.ai/blog/claude-ai-video-editing-workflow/",
-      "source": "MindStudio",
-      "category": "workflow",
-      "published_iso": "2026-11-05T00:00:00Z",
-      "excerpt": "A step-by-step look at using Claude with skills and MCP tools such as VidIQ and ElevenLabs to script and automatically edit short-form talking-head videos.",
-      "og_image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/f5138181-a7e5-494e-bf3e-ed73eacf6a1a.png?fm=auto&w=1200&h=630&fit=crop"
+      "title": "Berrypicking still beats the single answer for search, even in the world of AI",
+      "url": "https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500",
+      "source": "UX Collective",
+      "category": "tokens",
+      "published_iso": "2026-11-06T04:13:22+00:00",
+      "excerpt": "Marcia Bates' 1989 berrypicking model explains what single-answer AI search still misses: people gather, shift and revise across sources - a design brief for AI search interfaces.",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*7nKkTkUX4iDwlOFBMtt4kg.png"
     },
     {
-      "title": "You can edit your videos with AI on Instagram's new desktop Edits app",
-      "url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
-      "source": "The Verge",
-      "category": "workflow",
-      "published_iso": "2026-11-05T15:00:00Z",
-      "excerpt": "Instagram's Edits video editor arrives on desktop as a Mac app with Meta's Muse AI able to edit Reels on the timeline, plus MCP support so outside AI agents can work in it.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-timeline-1.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+      "title": "Build from award winning sites with Awwwards-mcp in Claude Code",
+      "url": "https://dev.to/dedupedai/build-from-award-winning-sites-with-awwwards-mcp-in-claude-code-30og",
+      "source": "DEV Community",
+      "category": "tokens",
+      "published_iso": "2026-11-08T20:02:16+00:00",
+      "excerpt": "A walkthrough of adding an Awwwards MCP server to Claude Code, generating a cited design brief from award-winning reference sites and scoring your build against a reference. Community/tool-author post - check for self-promotion.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6ryw33it1n1m7210idcm.png"
     },
     {
-      "title": "Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost",
-      "url": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/",
-      "source": "Google Blog",
-      "category": "workflow",
-      "published_iso": "2026-11-05T17:00:00Z",
-      "excerpt": "Google Vids gets the new Gemini Omni 1.2 Flash video model, letting users generate 15-second clips with consistent scenes for free.",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/pics-blog-header-2784x1566.max-1440x810.png"
+      "title": "Voice Chat with Agents",
+      "url": "https://cursor.com/changelog/voice-chat",
+      "source": "Cursor Changelog",
+      "category": "figma",
+      "published_iso": "2026-11-06T00:00:00+00:00",
+      "excerpt": "Cursor adds realtime voice calls with agents on desktop, web and iOS: describe a change out loud, ask what an agent is doing and hear progress while the voice agent hands coding work to the chat agent ('Hey Siri, call Cursor').",
+      "og_image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/opengraph-default.png"
+    },
+    {
+      "title": "Lovable adds GPT Image 2.6 Flare and Sunburst for apps' AI image features",
+      "url": "https://docs.lovable.dev/changelog",
+      "source": "Lovable Changelog",
+      "category": "figma",
+      "published_iso": "2026-11-06T00:00:00+00:00",
+      "excerpt": "Lovable-built apps can now generate and edit images with OpenAI's GPT Image 2.6 Flare (fast previews, in-app editors) and Sunburst (detailed visuals, precise edits), including short GIFs, sketch-guided edits and transparent PNG/WebP. Follow-on to ChatGPT Images 2.6 (covered 11-05).",
+      "og_image": "https://lovable-f9060f1e.mintlify.site/assets/logo/opengraph-image.png"
     },
     {
       "title": "Speed up design system documentation with the Figma agent",
       "url": "https://www.youtube.com/watch?v=DkLg3FtrQe4",
       "source": "Figma (YouTube)",
       "category": "social",
-      "published_iso": "2026-11-06T17:02:10Z",
-      "excerpt": "Figma demonstrates practical ways its agent speeds up design system documentation inside Figma files.",
+      "published_iso": "2026-11-06T09:02:10-08:00",
+      "excerpt": "Figma shows practical ways its agent speeds up documenting a design system. Note: related Figma blog on design systems + the agent was published earlier.",
       "og_image": "https://i.ytimg.com/vi/DkLg3FtrQe4/maxresdefault.jpg"
     },
     {
-      "title": "How I Edit My Videos with Claude",
-      "url": "https://www.youtube.com/watch?v=fS-88gtHXIg",
-      "source": "The AI Advantage (YouTube)",
+      "title": "Tell Your Story with Seedance 2.5 | Adobe Firefly",
+      "url": "https://www.youtube.com/watch?v=dGEv6re6uYI",
+      "source": "Adobe Firefly (YouTube)",
       "category": "social",
-      "published_iso": "2026-11-04T22:20:46Z",
-      "excerpt": "Igor shows how his team uses ChatGPT and Claude Design to create the animations in his videos, from a transcript to animated overlays.",
-      "og_image": "https://i.ytimg.com/vi/fS-88gtHXIg/maxresdefault.jpg"
+      "published_iso": "2026-11-06T12:04:52-08:00",
+      "excerpt": "Adobe announces ByteDance's Seedance 2.5 video model is now available inside Firefly, free to try. Seedance 2.5 itself launched 10-23; the news is Firefly availability.",
+      "og_image": "https://i.ytimg.com/vi/dGEv6re6uYI/maxresdefault.jpg"
+    },
+    {
+      "title": "The New Cinematic AI Film Workflow (What Actually Works)",
+      "url": "https://www.youtube.com/watch?v=OWr3IU82bJ8",
+      "source": "Theoretically Media (YouTube)",
+      "category": "social",
+      "published_iso": "2026-11-06T09:37:59-08:00",
+      "excerpt": "The full AI filmmaking workflow behind 'Planet Hell': Seedance 2.5 on OpenArt driven over MCP by Claude Code and Codex, with Gemini as story editor. Cross-check with movies section.",
+      "og_image": "https://i.ytimg.com/vi/OWr3IU82bJ8/maxresdefault.jpg"
     }
   ]
 }

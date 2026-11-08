@@ -1,25 +1,79 @@
 {
- "section": "books",
- "date": "2026-10-11",
- "now_iso": "2026-10-10T22:00:00Z",
- "window_hours": 336,
- "expansion": [
-  "Recovery pass 1: AI audiobook narration (Spotify/ElevenLabs), Libby/OverDrive AI, academic/scholarly publishing AI, manga/webtoon AI translation, Japanese 出版 生成AI, Korean 웹소설/웹툰 AI, Kindle/Kobo/Goodreads AI features, new authors' AI lawsuits",
-  "Feeds swept: PW recent + digital/industry-news/childrens section feeds, PP feed p1-3, Good e-Reader p1-3, Scholarly Kitchen, Bookseller /news + /features HTML, Lit Hub p1-4, Electric Lit p1-4, Book Riot p1-2, Jane Friedman, Writer's Digest, TeleRead, Digital Reader, Mediabistro, Creative Penn, Verge/Wired/TechCrunch/Ars feeds; off-list checks: Börsenblatt, ALLi, Readers News (독서신문), Newsis culture, ANN, ICv2, BookBrunch",
-  "WebSearch x6 (authors lawsuits Oct 2026, 웹소설/웹툰 AI, Libby/ElevenLabs/Kobo, manga/webtoon AI translation, Kindle/Kobo/Goodreads AI, 出版 生成AI マンガ翻訳): no fresh new items",
-  "Dropped as already published: Google Play Books Expert Intelligence, Novvel.co, Jill Lepore keynote, Pangram CEO, FBF AI-narration debate, Bookseller AI comment, Scholarly Kitchen TRACE + 'Representation Is Not the Scholarship', S&S AI tracking, BISG AI report, Third Circuit ROSS ruling (Lit Hub), Audible character chat (Jane Friedman)",
-  "Fresh news is effectively exhausted for the window: only 1 new, AI-substantive item found"
- ],
- "items": [
-  {
-   "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101440-frankfurt-book-fair-2026-spotify-expands-audiobooks-to-180-markets.html",
-   "title": "Frankfurt Book Fair 2026: Spotify Expands Audiobooks to 180 Markets",
-   "source": "Publishers Weekly",
-   "category": "books",
-   "published_iso": "2026-10-07T00:00:00-04:00",
-   "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG",
-   "excerpt": "Spotify is taking its audiobook service from 22 markets to more than 180. It presents AI narration as a way to bring titles into local languages that are too small to pay for a human narrator, and self-published authors can already produce AI-narrated audiobooks through its ElevenLabs partnership.",
-   "source_lang": "en"
-  }
- ]
+  "section": "books",
+  "now_iso": "2026-11-08T22:02:46Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "title": "AI Controversy Puts Critically Acclaimed Vinland Saga Creator in the Spotlight",
+      "url": "https://comicbook.com/anime/news/ai-controversy-puts-critically-acclaimed-vinland-saga-creator-in-the-spotlight/",
+      "source": "ComicBook.com",
+      "category": "books",
+      "published_iso": "2026-11-08T21:01:00+00:00",
+      "excerpt": "Vinland Saga manga creator Makoto Yukimura drew online backlash after praising a piece of fan art that turned out to be AI-generated, reigniting the manga industry's debate over generative AI art.",
+      "og_image": "https://comicbook.com/wp-content/uploads/sites/4/2026/01/Vinland-Saga.jpg?resize=2000,1125"
+    },
+    {
+      "title": "AI가 소설 쓰고 독자가 다음 화 바꾼다…문체부 R&D 웹소설, 일본 진출",
+      "url": "https://www.sanhaknews.kr/news/articleView.html?idxno=21978",
+      "source": "산학뉴스",
+      "category": "books",
+      "published_iso": "2026-11-06T10:36:48+09:00",
+      "excerpt": "AI 콘텐츠 스타트업 모사재인이 문체부·한국콘텐츠진흥원 R&D 과제로 다중 AI 에이전트 기반 인터랙티브 웹소설 플랫폼 '아이로쿠(アイロク)'를 개발해 10월 8일 일본 구글 플레이에 출시했다. AI가 소설을 쓰고 독자 선택에 따라 다음 화가 바뀐다.",
+      "og_image": "https://cdn.sanhaknews.kr/news/thumbnail/202611/21978_22887_3458_v150.jpg"
+    },
+    {
+      "title": "AI detection trap: When machines put human creativity on trial",
+      "url": "https://www.newindianexpress.com/explainers/2026/Nov/06/ai-detection-trap-when-machines-put-human-creativity-on-trial",
+      "source": "The New Indian Express",
+      "category": "books",
+      "published_iso": "2026-11-06T14:53:07Z",
+      "excerpt": "Explainer on how AI-detection tools such as Pangram are reshaping publishing, from Hachette dropping BookTok author Mia Ballard's 'Shy Girl' over AI allegations to France's new Prix Pascal de Littérature IA, which accepts disclosed AI co-written works.",
+      "og_image": "https://cf-images.assettype.com/newindianexpress%2F2026-10-25%2Fs1ewej58%2F202610253991402.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+    },
+    {
+      "title": "AI is rewriting the illustrator's brief",
+      "url": "https://tomorrowspublisher.today/news/ai-is-rewriting-the-illustrators-brief-manual-2026-11-06-illustration-brief/",
+      "source": "Tomorrow's Publisher",
+      "category": "books",
+      "published_iso": "2026-11-06T05:30:13+00:00",
+      "excerpt": "An Association of Illustrators 2026 survey (549 responses) finds 46% of illustrators say they lost work to generative AI, and clients increasingly supply AI-generated concepts for illustrators to redraw, shifting creative control and fees in publishing commissions.",
+      "og_image": "https://tomorrowspublisher.today/assets/img/manual/manual-2026-11-06-illustration-brief-v1.png"
+    },
+    {
+      "title": "AI와 출판산업, '정당한 거래 시장' 열리면 성장 동반자 될 수 있어 [.txt]",
+      "url": "https://www.hani.co.kr/arti/culture/book/1286039.html",
+      "source": "한겨레",
+      "category": "books",
+      "published_iso": "2026-11-06T05:00:00+09:00",
+      "excerpt": "백원근의 출판 풍향계: 프랑크푸르트 호소문과 출협·출판인회의의 '책이 없으면 AI도 없다' 호소, 바츠 대 앤트로픽 공정이용 판결 이후 AI 기업의 '책 사냥'을 짚으며 학습 데이터 출처 표기·이용 허락·정당한 보상의 거래 시장을 제안한다.",
+      "og_image": "https://flexible.img.hani.co.kr/flexible/normal/1200/801/imgdb/original/2026/1105/20261105503891.webp"
+    },
+    {
+      "title": "Ask the Technology Providers: Our Charleston Conversation",
+      "url": "https://scholarlykitchen.sspnet.org/2026/11/06/ask-the-technology-providers-our-charleston-conversation/",
+      "source": "The Scholarly Kitchen",
+      "category": "books",
+      "published_iso": "2026-11-06T10:30:41+00:00",
+      "excerpt": "Charleston panel takeaways: platform providers urge publishers and libraries to observe rather than blanket-block AI crawlers (Silverchair), and LibLynx unveils a Bot Filter to manage AI bot traffic flooding scholarly content platforms.",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/tskcharleston-e1793918148132.jpg"
+    },
+    {
+      "title": "Scholarly publishers race to govern AI as use outpaces readiness",
+      "url": "https://tomorrowspublisher.today/news/scholarly-publishers-race-to-govern-ai-as-use-outpaces-readiness-7f27016ddb71/",
+      "source": "Tomorrow's Publisher",
+      "category": "books",
+      "published_iso": "2026-11-05T05:01:24+00:00",
+      "excerpt": "A survey of 563 people in scholarly communication finds AI use is widespread, but publishers still face gaps in expertise, privacy safeguards and governance.",
+      "og_image": "https://tomorrowspublisher.today/assets/img/wire/dc76a1aa5058d412b9d6.jpg"
+    },
+    {
+      "title": "News Summary: 300 Authors File Individual Copyright Claims against Meta",
+      "url": "https://selfpublishingadvice.org/copyright-claims-against-meta/",
+      "source": "Alliance of Independent Authors (ALLi)",
+      "category": "books",
+      "published_iso": "2026-10-29T13:00:26+00:00",
+      "excerpt": "Instead of joining class actions, 300 authors filed individual copyright claims against Meta on October 19 over LLM training on shadow-library books, seeking full $150,000-per-title statutory damages, with about 1,000 more claims reportedly coming.",
+      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/News-Octrober-29.jpg"
+    }
+  ]
 }

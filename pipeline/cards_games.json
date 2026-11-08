@@ -1,191 +1,221 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "section": "games",
   "cards": [
     {
-      "id": "worldlabs-frameboy-atlas",
+      "id": "wardogs-ml-anticheat",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "World Labs\nAtlas 실시간 스트리밍",
-      "body": "World Labs Frameboy는 GPUs로 Atlas를 15 fps로 띄운다.",
-      "mini_headline": "Frameboy, Atlas 실시간 스트리밍",
+      "headline": "Wardogs 안티치트\n1억8700만 시간 학습",
+      "body": "Bulkhead는 Wardogs AI 안티치트로 계정 185,000개를 정지했다.",
+      "mini_headline": "Wardogs AI 안티치트",
       "tool": "Games",
-      "source": "World Labs",
-      "url": "https://www.worldlabs.ai/blog/atlas-realtime",
+      "source": "PC Gamer",
+      "url": "https://www.pcgamer.com/games/fps/as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one-of-the-worlds-most-sophisticated-anti-cheat-systems-assisted-by-machine-learning-and-ai/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-2560-80.jpg",
+            "cap": "Wardogs"
+          },
+          {
+            "t": "p",
+            "x": "Season 3를 앞두고 Bulkhead가 Wardogs Season 2에서 저지른 실수를 짚었다. 당시 변경이 지나치게 공격적이었고 목소리 큰 플레이어에게 너무 쉽게 휘둘렸다고 인정했다. 앞으로는 \"가장 큰 목소리를 달래려고 수정을 서두르지 않겠다\"고 했다."
+          },
+          {
             "t": "video",
-            "src": "https://wlt-ai-cdn.art/videos/2026-atlas-realtime/frameboy-hero.mp4"
+            "yt": "hr1uuC7BnSc"
           },
           {
             "t": "p",
-            "x": "World Labs는 두 달 전 Atlas를 공개했다. 프레임을 하나씩 생성하고 카메라를 픽셀 단위로 정확히 제어하는 자기회귀 월드 모델이다. 오늘 내놓은 Frameboy는 Atlas 속 세계를 실시간으로 탐험하는 리서치 프리뷰다. 사용자가 카메라를 조작하는 동안 클라우드 GPUs에서 브라우저로 프레임을 최대 15 fps로 스트리밍하는 데모다."
+            "x": "Season 3에는 더 도시적인 새 맵 Sabatulo, 역할별 아이템을 그 역할로 플레이하며 모두 푸는 멀티트랙 해금, 상위 등급 무기·방어구·차량을 뺀 새 \"Limited\" 모드가 들어간다."
           },
           {
             "t": "p",
-            "x": "속도는 중요하다. 영상 하나에 수십 초, 길게는 몇 분씩 기다려야 한다면 사용자는 조심스럽게, 계획한 대로만 움직이게 된다. “‘나쁜 아이디어’의 비용이 제로에 가까우면 나쁜 아이디어란 없다.”"
+            "x": "Bulkhead가 \"세계에서 가장 정교한 안티치트 시스템 중 하나\"라고 내세우는 시스템도 함께 들어온다. \"머신러닝과 AI의 도움으로 1억8700만 시간의 게임플레이를 분석해\" 만든 시스템이다. Road to Season 3 영상 공개와 함께 가동돼 185,000개 계정을 정지했다."
           },
           {
             "t": "p",
-            "x": "Atlas는 이전 RTFM 모델보다 훨씬 크고, 학습 데이터도 몇 자릿수 많다. 입력 이미지 한 장이나 텍스트 캡션 하나만 있으면 장면을 처음부터 만든다. 멀티뷰 촬영본으로 실제 랜드마크를 새로운 시점에서 합성하기도 한다."
-          },
-          {
-            "t": "p",
-            "x": "실시간 기능은 Viewfinder에도 스트리밍 오버레이로 들어갔다. Viewfinder는 Atlas로 장면을 프레임 단위로 만드는 비공개 베타 웹앱이다. Frameboy는 아직 고성능 클라우드 GPU 서버에서만 돌아가고, 로컬 렌더링보다 비용도 적지 않게 든다."
+            "x": "Bulkhead CEO Joe Brammer는 \"모델을 학습시키려면 치터들이 치트를 다듬고 조정하는 과정을 그대로 두고 그 진화를 지켜봐야 했다\"고 말했다. 치터를 완전히 없애지는 못하겠지만 11월 12일 Season 3가 나오면 플레이 경험이 한결 나아진다고 스튜디오는 자신한다고 덧붙였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "World Labs streams Atlas\nworlds live in the browser",
-          "body": "World Labs's Frameboy preview streams its Atlas world model from cloud GPUs to the browser at up to 15 fps.",
-          "mini_headline": "Frameboy streams Atlas live",
+          "headline": "Wardogs trains anti-cheat\non 187 million hours of play",
+          "body": "Bulkhead says Wardogs' anti-cheat, built by analysing 187 million hours of play with AI, has banned 185,000 accounts.",
+          "mini_headline": "Wardogs' AI\nanti-cheat",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-2560-80.jpg",
+                "cap": "Wardogs"
+              },
+              {
+                "t": "p",
+                "x": "With Season 3 on the horizon, Bulkhead has addressed the mistakes it made with Wardogs' Season 2. The studio believes its changes were too aggressive and that it was too easily swayed by vocal players, and says it will now \"not speedrun fixes to appease the loudest voices.\""
+              },
+              {
                 "t": "video",
-                "src": "https://wlt-ai-cdn.art/videos/2026-atlas-realtime/frameboy-hero.mp4"
+                "yt": "hr1uuC7BnSc"
               },
               {
                 "t": "p",
-                "x": "Two months ago, World Labs introduced Atlas, an autoregressive world model that generates frames one at a time with pixel-perfect camera control. Today it is releasing a research preview that lets you explore worlds in real time with Atlas using Frameboy, a demo that streams frames from cloud GPUs to your browser at up to 15 fps as you control the camera."
+                "x": "Season 3 brings a new, more urban map called Sabatulo, multi-track unlocks that let any item a role might use be unlocked by playing that role, and a new \"Limited\" mode that removes high-tier weapons, armour and vehicles."
               },
               {
                 "t": "p",
-                "x": "Speed matters: if users wait tens of seconds or minutes for a video, they must be cautious and methodical. \"When the cost of a 'bad idea' is near zero, there are no bad ideas.\""
+                "x": "It also brings what Bulkhead claims is \"one of the world's most sophisticated anti-cheat systems\", produced by \"analysing 187 million hours of gameplay with the assistance of machine learning and AI\". The system went live when the Road to Season 3 video was published, banning 185,000 accounts."
               },
               {
                 "t": "p",
-                "x": "Compared to its earlier RTFM model, Atlas is much larger, trained on orders of magnitude more data, and can generate scenes from scratch from a single input image or text caption. It can also synthesize novel views of real-world landmarks from multiview captures."
-              },
-              {
-                "t": "p",
-                "x": "The real-time capability is also integrated as a streaming overlay in Viewfinder, a web app in closed beta that lets users build scenes frame by frame with Atlas. Frameboy currently must run on a powerful cloud GPU server and is not cheap compared to local rendering methods."
+                "x": "\"In order for us to train our models, we needed to let cheaters go through their journey of refining and tuning their cheats so we could see them evolve,\" says Bulkhead CEO Joe Brammer. He says the system won't eliminate cheaters completely, but the studio is confident it will produce a better play experience when Season 3 arrives on November 12."
               }
             ]
           }
         },
         "ko": {
-          "headline": "World Labs\nAtlas 실시간 스트리밍",
-          "body": "World Labs Frameboy는 GPUs로 Atlas를 15 fps로 띄운다.",
-          "mini_headline": "Frameboy, Atlas 실시간 스트리밍",
+          "headline": "Wardogs 안티치트\n1억8700만 시간 학습",
+          "body": "Bulkhead는 Wardogs AI 안티치트로 계정 185,000개를 정지했다.",
+          "mini_headline": "Wardogs AI 안티치트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-2560-80.jpg",
+                "cap": "Wardogs"
+              },
+              {
+                "t": "p",
+                "x": "Season 3를 앞두고 Bulkhead가 Wardogs Season 2에서 저지른 실수를 짚었다. 당시 변경이 지나치게 공격적이었고 목소리 큰 플레이어에게 너무 쉽게 휘둘렸다고 인정했다. 앞으로는 \"가장 큰 목소리를 달래려고 수정을 서두르지 않겠다\"고 했다."
+              },
+              {
                 "t": "video",
-                "src": "https://wlt-ai-cdn.art/videos/2026-atlas-realtime/frameboy-hero.mp4"
+                "yt": "hr1uuC7BnSc"
               },
               {
                 "t": "p",
-                "x": "World Labs는 두 달 전 Atlas를 공개했다. 프레임을 하나씩 생성하고 카메라를 픽셀 단위로 정확히 제어하는 자기회귀 월드 모델이다. 오늘 내놓은 Frameboy는 Atlas 속 세계를 실시간으로 탐험하는 리서치 프리뷰다. 사용자가 카메라를 조작하는 동안 클라우드 GPUs에서 브라우저로 프레임을 최대 15 fps로 스트리밍하는 데모다."
+                "x": "Season 3에는 더 도시적인 새 맵 Sabatulo, 역할별 아이템을 그 역할로 플레이하며 모두 푸는 멀티트랙 해금, 상위 등급 무기·방어구·차량을 뺀 새 \"Limited\" 모드가 들어간다."
               },
               {
                 "t": "p",
-                "x": "속도는 중요하다. 영상 하나에 수십 초, 길게는 몇 분씩 기다려야 한다면 사용자는 조심스럽게, 계획한 대로만 움직이게 된다. “‘나쁜 아이디어’의 비용이 제로에 가까우면 나쁜 아이디어란 없다.”"
+                "x": "Bulkhead가 \"세계에서 가장 정교한 안티치트 시스템 중 하나\"라고 내세우는 시스템도 함께 들어온다. \"머신러닝과 AI의 도움으로 1억8700만 시간의 게임플레이를 분석해\" 만든 시스템이다. Road to Season 3 영상 공개와 함께 가동돼 185,000개 계정을 정지했다."
               },
               {
                 "t": "p",
-                "x": "Atlas는 이전 RTFM 모델보다 훨씬 크고, 학습 데이터도 몇 자릿수 많다. 입력 이미지 한 장이나 텍스트 캡션 하나만 있으면 장면을 처음부터 만든다. 멀티뷰 촬영본으로 실제 랜드마크를 새로운 시점에서 합성하기도 한다."
-              },
-              {
-                "t": "p",
-                "x": "실시간 기능은 Viewfinder에도 스트리밍 오버레이로 들어갔다. Viewfinder는 Atlas로 장면을 프레임 단위로 만드는 비공개 베타 웹앱이다. Frameboy는 아직 고성능 클라우드 GPU 서버에서만 돌아가고, 로컬 렌더링보다 비용도 적지 않게 든다."
+                "x": "Bulkhead CEO Joe Brammer는 \"모델을 학습시키려면 치터들이 치트를 다듬고 조정하는 과정을 그대로 두고 그 진화를 지켜봐야 했다\"고 말했다. 치터를 완전히 없애지는 못하겠지만 11월 12일 Season 3가 나오면 플레이 경험이 한결 나아진다고 스튜디오는 자신한다고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "World Labs\nAtlasをブラウザ配信",
-          "body": "World LabsのFrameboyはAtlasをGPUsから最大15 fpsで配信する。",
-          "mini_headline": "FrameboyがAtlasをライブ配信",
+          "headline": "Wardogsのチート対策\n1億8700万時間で学習",
+          "body": "BulkheadのAIチート対策がWardogsで185,000アカウントを停止した。",
+          "mini_headline": "WardogsのAIチート対策",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-2560-80.jpg",
+                "cap": "Wardogs"
+              },
+              {
+                "t": "p",
+                "x": "Season 3を目前に、BulkheadはWardogsのSeason 2での失敗に向き合った。同スタジオは変更が攻撃的すぎたうえ、声の大きいプレイヤーに流されやすかったと考えており、今後は「最も大きな声をなだめるために修正を急ぐことはしない」としている。"
+              },
+              {
                 "t": "video",
-                "src": "https://wlt-ai-cdn.art/videos/2026-atlas-realtime/frameboy-hero.mp4"
+                "yt": "hr1uuC7BnSc"
               },
               {
                 "t": "p",
-                "x": "World Labsは二か月前、ピクセル単位で正確なカメラ制御を備え、フレームを一枚ずつ生成する自己回帰型ワールドモデルAtlasを発表した。今回、Frameboyを使ってAtlasで世界をリアルタイムに探索できるリサーチプレビューを公開する。Frameboyは、ユーザーがカメラを操作するのに合わせて、クラウドのGPUsからブラウザへ最大15 fpsでフレームを配信するデモだ。"
+                "x": "Season 3では、より都市的な新マップSabatulo、ある役割が使うアイテムをその役割でプレイすることで解除できるマルチトラック解除、上位の武器・防具・車両を除いた新モード「Limited」が加わる。"
               },
               {
                 "t": "p",
-                "x": "速度は重要だ。動画一本に数十秒から数分も待たされるなら、ユーザーは慎重かつ几帳面にならざるをえない。「『悪いアイデア』のコストがゼロに近ければ、悪いアイデアなど存在しない」"
+                "x": "さらにBulkheadが「世界で最も高度なアンチチートシステムの一つ」と称するシステムも導入される。「機械学習とAIの支援を受けて1億8700万時間のゲームプレイを分析」して作られたもので、Road to Season 3の動画公開と同時に稼働し、185,000のアカウントを停止した。"
               },
               {
                 "t": "p",
-                "x": "以前のRTFMモデルと比べ、Atlasははるかに大きく、桁違いに多いデータで学習しており、入力画像一枚やテキストキャプション一つからシーンをゼロから生成できる。マルチビューの撮影データから、実在するランドマークの新たな視点を合成することもできる。"
-              },
-              {
-                "t": "p",
-                "x": "リアルタイム機能は、Atlasでシーンをフレームごとに構築できるクローズドベータのウェブアプリViewfinderにも、ストリーミングオーバーレイとして統合されている。Frameboyは現在、高性能なクラウドGPUサーバーで動かす必要があり、ローカルのレンダリング手法と比べて安くはない。"
+                "x": "「モデルを訓練するには、チーターがチートを磨き調整していく過程をあえて許し、その進化を観察する必要があった」とBulkheadのCEO、Joe Brammerは語る。システムでチーターを完全に排除できるわけではないが、11月12日にSeason 3が始まれば、より良いプレイ体験を提供できると同スタジオは確信しているという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "World Labs\nAtlas 实时串流至浏览器",
-          "body": "World Labs的Frameboy以最高15 fps从云端GPUs串流Atlas。",
-          "mini_headline": "Frameboy实时串流Atlas",
+          "headline": "Wardogs反作弊系统\n以1.87亿小时游戏训练",
+          "body": "Bulkhead称，Wardogs的AI反作弊系统已封禁185,000个账号。",
+          "mini_headline": "Wardogs的AI反作弊",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-2560-80.jpg",
+                "cap": "Wardogs"
+              },
+              {
+                "t": "p",
+                "x": "Season 3即将到来之际，Bulkhead回应了Wardogs Season 2中犯下的错误。工作室认为当时的改动过于激进，也太容易被声音大的玩家左右，并表示今后“不会为了安抚最响亮的声音而仓促修复”。"
+              },
+              {
                 "t": "video",
-                "src": "https://wlt-ai-cdn.art/videos/2026-atlas-realtime/frameboy-hero.mp4"
+                "yt": "hr1uuC7BnSc"
               },
               {
                 "t": "p",
-                "x": "两个月前，World Labs推出了Atlas，这是一个自回归世界模型，能逐帧生成画面，并实现像素级精准的镜头控制。今天，它发布了一个研究预览版，让用户通过Frameboy用Atlas实时探索世界。Frameboy是一个演示，在用户操控镜头时，以最高15 fps的速度把画面从云端GPUs串流到浏览器。"
+                "x": "Season 3将带来一张更具城市风格的新地图Sabatulo；多轨解锁机制，让某一角色可能用到的任何物品都能通过扮演该角色解锁；以及移除高阶武器、护甲和载具的全新“Limited”模式。"
               },
               {
                 "t": "p",
-                "x": "速度很重要：如果用户要为一段视频等上几十秒甚至几分钟，就不得不谨慎而有条理。“当一个‘坏点子’的代价几乎为零时，就没有坏点子。”"
+                "x": "Bulkhead还推出了其所称的“全球最先进的反作弊系统之一”，该系统通过“借助机器学习和AI分析1.87亿小时游戏数据”打造而成。系统在Road to Season 3视频发布时上线，已封禁185,000个账号。"
               },
               {
                 "t": "p",
-                "x": "与此前的RTFM模型相比，Atlas规模大得多，训练数据多出几个数量级，并能仅凭一张输入图像或一段文字描述从零生成场景。它还能根据多视角拍摄合成真实地标的新视角。"
-              },
-              {
-                "t": "p",
-                "x": "这项实时能力也以串流叠加层的形式集成到了Viewfinder中。Viewfinder是一款处于封闭测试阶段的网页应用，用户可用Atlas逐帧搭建场景。Frameboy目前必须运行在强大的云端GPU服务器上，与本地渲染方式相比成本不低。"
+                "x": "Bulkhead CEO Joe Brammer表示：“为了训练模型，我们需要让作弊者经历打磨和调整外挂的过程，以便观察它们如何演变。”他说，该系统无法彻底消灭作弊者，但工作室有信心在Season 3于11月12日上线时带来更好的游戏体验。"
               }
             ]
           }
         },
         "es": {
-          "headline": "World Labs transmite Atlas\nen vivo en el navegador",
-          "body": "La vista previa Frameboy de World Labs transmite Atlas desde GPUs en la nube al navegador a un máximo de 15 fps.",
-          "mini_headline": "Frameboy transmite Atlas en vivo",
+          "headline": "Wardogs entrena su antitrampas\ncon 187 millones de horas",
+          "body": "Bulkhead dice que el antitrampas de Wardogs, creado con AI y 187 millones de horas de juego, bloqueó 185,000 cuentas.",
+          "mini_headline": "El antitrampas con AI de Wardogs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-2560-80.jpg",
+                "cap": "Wardogs"
+              },
+              {
+                "t": "p",
+                "x": "Con la Season 3 en el horizonte, Bulkhead ha abordado los errores que cometió en la Season 2 de Wardogs. El estudio cree que sus cambios fueron demasiado agresivos y que se dejó influir con demasiada facilidad por los jugadores más ruidosos, y afirma que ahora \"no acelerará correcciones para apaciguar a las voces más fuertes\"."
+              },
+              {
                 "t": "video",
-                "src": "https://wlt-ai-cdn.art/videos/2026-atlas-realtime/frameboy-hero.mp4"
+                "yt": "hr1uuC7BnSc"
               },
               {
                 "t": "p",
-                "x": "Hace dos meses, World Labs presentó Atlas, un modelo de mundo autorregresivo que genera los fotogramas uno a uno con un control de cámara preciso al píxel. Hoy publica una vista previa de investigación que permite explorar mundos en tiempo real con Atlas mediante Frameboy, una demo que transmite fotogramas desde GPUs en la nube hasta el navegador a un máximo de 15 fps mientras el usuario controla la cámara."
+                "x": "La Season 3 trae un nuevo mapa más urbano llamado Sabatulo; desbloqueos multipista, que permiten desbloquear cualquier objeto que un rol pueda usar jugando con ese rol; y un nuevo modo \"Limited\" que elimina las armas, armaduras y vehículos de nivel alto."
               },
               {
                 "t": "p",
-                "x": "La velocidad importa: si los usuarios esperan decenas de segundos o minutos por un video, deben ser cautelosos y metódicos. «Cuando el costo de una 'mala idea' es casi cero, no hay malas ideas»."
+                "x": "También llega lo que Bulkhead describe como \"uno de los sistemas antitrampas más sofisticados del mundo\", creado \"analizando 187 millones de horas de juego con la ayuda de aprendizaje automático y AI\". El sistema entró en funcionamiento cuando se publicó el video Road to Season 3 y bloqueó 185,000 cuentas."
               },
               {
                 "t": "p",
-                "x": "Frente a su modelo anterior, RTFM, Atlas es mucho más grande, se entrenó con órdenes de magnitud más datos y puede generar escenas desde cero a partir de una sola imagen o un texto descriptivo. También puede sintetizar vistas nuevas de lugares emblemáticos reales a partir de capturas multivista."
-              },
-              {
-                "t": "p",
-                "x": "La capacidad en tiempo real también se integra como una capa de streaming en Viewfinder, una aplicación web en beta cerrada que permite construir escenas fotograma a fotograma con Atlas. Por ahora, Frameboy debe ejecutarse en un potente servidor GPU en la nube y no es barato en comparación con los métodos de renderizado local."
+                "x": "\"Para entrenar nuestros modelos, necesitábamos dejar que los tramposos recorrieran el camino de pulir y ajustar sus trampas para poder ver cómo evolucionaban\", dice Joe Brammer, CEO de Bulkhead. Según él, el sistema no eliminará por completo a los tramposos, pero el estudio confía en que ofrecerá una mejor experiencia de juego cuando la Season 3 llegue el 12 de noviembre."
               }
             ]
           }
@@ -193,121 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "World Labs\nAtlas 실시간 스트리밍",
-          "body": "World Labs Frameboy는 GPUs로 Atlas를 15 fps까지 낸다.",
-          "mini_headline": "Frameboy, Atlas 실시간 스트리밍",
+          "headline": "Wardogs 안티치트\n1억8700만 시간 학습",
+          "body": "Bulkhead는 Wardogs AI 안티치트로 계정 185,000개를 정지했다.",
+          "mini_headline": "Wardogs AI 안티치트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-2560-80.jpg",
+                "cap": "Wardogs"
+              },
+              {
+                "t": "p",
+                "x": "Season 3를 앞두고 Bulkhead가 Wardogs Season 2에서 저지른 실수를 짚었다. 스튜디오는 당시 변경이 지나치게 공격적이었고 목소리 큰 플레이어들에게 너무 쉽게 휘둘렸다고 보며, 앞으로는 \"가장 큰 목소리를 달래려고 수정을 서두르지 않겠다\"고 밝혔다."
+              },
+              {
                 "t": "video",
-                "src": "https://wlt-ai-cdn.art/videos/2026-atlas-realtime/frameboy-hero.mp4"
+                "yt": "hr1uuC7BnSc"
               },
               {
                 "t": "p",
-                "x": "World Labs는 두 달 전 프레임을 하나씩 생성하며 픽셀 단위로 정확한 카메라 제어를 지원하는 자기회귀 월드 모델 Atlas를 공개했다. 오늘은 Frameboy로 Atlas 속 세계를 실시간으로 탐험할 수 있는 리서치 프리뷰를 내놓는다. Frameboy는 사용자가 카메라를 조작하는 동안 클라우드 GPUs에서 브라우저로 프레임을 최대 15 fps로 스트리밍하는 데모다."
+                "x": "Season 3에는 더 도시적인 새 맵 Sabatulo, 한 역할이 쓸 수 있는 모든 아이템을 그 역할로 플레이해 해금하는 멀티트랙 해금, 상위 등급 무기·방어구·차량을 뺀 새 \"Limited\" 모드가 추가된다."
               },
               {
                 "t": "p",
-                "x": "속도는 중요하다. 영상 하나를 수십 초나 몇 분씩 기다려야 한다면 사용자는 신중하고 체계적으로 움직일 수밖에 없다. “‘나쁜 아이디어’의 비용이 제로에 가까우면 나쁜 아이디어란 없다.”"
+                "x": "Bulkhead가 \"세계에서 가장 정교한 안티치트 시스템 중 하나\"라고 주장하는 시스템도 함께 들어온다. 이 시스템은 \"머신러닝과 AI의 도움으로 1억8700만 시간의 게임플레이를 분석해\" 만들었다. Road to Season 3 영상이 공개될 때 가동을 시작해 185,000개 계정을 정지했다."
               },
               {
                 "t": "p",
-                "x": "이전 RTFM 모델과 비교하면 Atlas는 훨씬 크고, 몇 자릿수 더 많은 데이터로 학습했으며, 입력 이미지 한 장이나 텍스트 캡션 하나만으로 장면을 처음부터 생성할 수 있다. 멀티뷰 촬영본으로 실제 랜드마크의 새로운 시점도 합성할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "실시간 기능은 Viewfinder에도 스트리밍 오버레이로 통합됐다. Viewfinder는 Atlas로 장면을 프레임 단위로 만드는 비공개 베타 웹앱이다. Frameboy는 현재 고성능 클라우드 GPU 서버에서만 돌아가며, 로컬 렌더링 방식에 비해 비용이 적지 않다."
+                "x": "Bulkhead CEO Joe Brammer는 \"모델을 학습시키려면 치터들이 치트를 다듬고 조정하는 과정을 그대로 두고 그 진화를 지켜봐야 했다\"고 말했다. 그는 이 시스템이 치터를 완전히 없애지는 못하겠지만, 11월 12일 Season 3가 나오면 더 나은 플레이 경험을 줄 것이라고 스튜디오가 자신한다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "World Labs\nAtlasをブラウザ配信",
-          "body": "World LabsのFrameboyはAtlasをGPUsから最大15 fpsで配信する。",
-          "mini_headline": "FrameboyがAtlasをライブ配信",
+          "headline": "Wardogsのチート対策\n1億8700万時間で学習",
+          "body": "BulkheadのAIチート対策がWardogsで185,000アカウントを停止した。",
+          "mini_headline": "WardogsのAIチート対策",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-2560-80.jpg",
+                "cap": "Wardogs"
+              },
+              {
+                "t": "p",
+                "x": "Season 3を目前に、BulkheadはWardogsのSeason 2での失敗に向き合った。同スタジオは変更が攻撃的すぎたうえ、声の大きいプレイヤーに流されやすかったと考えており、今後は「最も大きな声をなだめるために修正を急ぐことはしない」としている。"
+              },
+              {
                 "t": "video",
-                "src": "https://wlt-ai-cdn.art/videos/2026-atlas-realtime/frameboy-hero.mp4"
+                "yt": "hr1uuC7BnSc"
               },
               {
                 "t": "p",
-                "x": "World Labsは二か月前、ピクセル単位で正確なカメラ制御を備え、フレームを一枚ずつ生成する自己回帰型ワールドモデルAtlasを発表した。今回、Frameboyを使ってAtlasで世界をリアルタイムに探索できるリサーチプレビューを公開する。Frameboyは、ユーザーがカメラを操作するのに合わせて、クラウドのGPUsからブラウザへ最大15 fpsでフレームを配信するデモだ。"
+                "x": "Season 3では、より都市的な新マップSabatulo、ある役割が使うアイテムをその役割でプレイすることで解除できるマルチトラック解除、上位の武器・防具・車両を除いた新モード「Limited」が加わる。"
               },
               {
                 "t": "p",
-                "x": "速度は重要だ。動画一本に数十秒から数分も待たされるなら、ユーザーは慎重かつ几帳面にならざるをえない。「『悪いアイデア』のコストがゼロに近ければ、悪いアイデアなど存在しない」"
+                "x": "さらにBulkheadが「世界で最も高度なアンチチートシステムの一つ」と称するシステムも導入される。「機械学習とAIの支援を受けて1億8700万時間のゲームプレイを分析」して作られたもので、Road to Season 3の動画公開と同時に稼働し、185,000のアカウントを停止した。"
               },
               {
                 "t": "p",
-                "x": "以前のRTFMモデルと比べ、Atlasははるかに大きく、桁違いに多いデータで学習しており、入力画像一枚やテキストキャプション一つからシーンをゼロから生成できる。マルチビューの撮影データから、実在するランドマークの新たな視点を合成することもできる。"
-              },
-              {
-                "t": "p",
-                "x": "リアルタイム機能は、Atlasでシーンをフレームごとに構築できるクローズドベータのウェブアプリViewfinderにも、ストリーミングオーバーレイとして統合されている。Frameboyは現在、高性能なクラウドGPUサーバーで動かす必要があり、ローカルのレンダリング手法と比べて安くはない。"
+                "x": "「モデルを訓練するには、チーターがチートを磨き調整していく過程をあえて許し、その進化を観察する必要があった」とBulkheadのCEO、Joe Brammerは語る。システムでチーターを完全に排除できるわけではないが、11月12日にSeason 3が始まれば、より良いプレイ体験を提供できると同スタジオは確信しているという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "World Labs\nAtlas 实时串流至浏览器",
-          "body": "World Labs的Frameboy以最高15 fps从云端GPUs串流Atlas。",
-          "mini_headline": "Frameboy实时串流Atlas",
+          "headline": "Wardogs反作弊系统\n以1.87亿小时游戏训练",
+          "body": "Bulkhead称，Wardogs的AI反作弊系统已封禁185,000个账号。",
+          "mini_headline": "Wardogs的AI反作弊",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-2560-80.jpg",
+                "cap": "Wardogs"
+              },
+              {
+                "t": "p",
+                "x": "Season 3即将到来之际，Bulkhead回应了Wardogs Season 2中犯下的错误。工作室认为当时的改动过于激进，也太容易被声音大的玩家左右，并表示今后“不会为了安抚最响亮的声音而仓促修复”。"
+              },
+              {
                 "t": "video",
-                "src": "https://wlt-ai-cdn.art/videos/2026-atlas-realtime/frameboy-hero.mp4"
+                "yt": "hr1uuC7BnSc"
               },
               {
                 "t": "p",
-                "x": "两个月前，World Labs推出了Atlas，这是一个自回归世界模型，能逐帧生成画面，并实现像素级精准的镜头控制。今天，它发布了一个研究预览版，让用户通过Frameboy用Atlas实时探索世界。Frameboy是一个演示，在用户操控镜头时，以最高15 fps的速度把画面从云端GPUs串流到浏览器。"
+                "x": "Season 3将带来一张更具城市风格的新地图Sabatulo；多轨解锁机制，让某一角色可能用到的任何物品都能通过扮演该角色解锁；以及移除高阶武器、护甲和载具的全新“Limited”模式。"
               },
               {
                 "t": "p",
-                "x": "速度很重要：如果用户要为一段视频等上几十秒甚至几分钟，就不得不谨慎而有条理。“当一个‘坏点子’的代价几乎为零时，就没有坏点子。”"
+                "x": "Bulkhead还推出了其所称的“全球最先进的反作弊系统之一”，该系统通过“借助机器学习和AI分析1.87亿小时游戏数据”打造而成。系统在Road to Season 3视频发布时上线，已封禁185,000个账号。"
               },
               {
                 "t": "p",
-                "x": "与此前的RTFM模型相比，Atlas规模大得多，训练数据多出几个数量级，并能仅凭一张输入图像或一段文字描述从零生成场景。它还能根据多视角拍摄合成真实地标的新视角。"
-              },
-              {
-                "t": "p",
-                "x": "这项实时能力也以串流叠加层的形式集成到了Viewfinder中。Viewfinder是一款处于封闭测试阶段的网页应用，用户可用Atlas逐帧搭建场景。Frameboy目前必须运行在强大的云端GPU服务器上，与本地渲染方式相比成本不低。"
+                "x": "Bulkhead CEO Joe Brammer表示：“为了训练模型，我们需要让作弊者经历打磨和调整外挂的过程，以便观察它们如何演变。”他说，该系统无法彻底消灭作弊者，但工作室有信心在Season 3于11月12日上线时带来更好的游戏体验。"
               }
             ]
           }
         },
         "es": {
-          "headline": "World Labs transmite Atlas\nen vivo en el navegador",
-          "body": "La vista previa Frameboy de World Labs transmite Atlas desde GPUs en la nube al navegador a un máximo de 15 fps.",
-          "mini_headline": "Frameboy transmite Atlas en vivo",
+          "headline": "Wardogs entrena su antitrampas\ncon 187 millones de horas",
+          "body": "Bulkhead dice que el antitrampas de Wardogs, creado con AI y 187 millones de horas de juego, bloqueó 185,000 cuentas.",
+          "mini_headline": "El antitrampas con AI de Wardogs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-2560-80.jpg",
+                "cap": "Wardogs"
+              },
+              {
+                "t": "p",
+                "x": "Con la Season 3 en el horizonte, Bulkhead ha abordado los errores que cometió en la Season 2 de Wardogs. El estudio cree que sus cambios fueron demasiado agresivos y que se dejó influir con demasiada facilidad por los jugadores más ruidosos, y afirma que ahora \"no acelerará correcciones para apaciguar a las voces más fuertes\"."
+              },
+              {
                 "t": "video",
-                "src": "https://wlt-ai-cdn.art/videos/2026-atlas-realtime/frameboy-hero.mp4"
+                "yt": "hr1uuC7BnSc"
               },
               {
                 "t": "p",
-                "x": "Hace dos meses, World Labs presentó Atlas, un modelo de mundo autorregresivo que genera los fotogramas uno a uno con un control de cámara preciso al píxel. Hoy publica una vista previa de investigación que permite explorar mundos en tiempo real con Atlas mediante Frameboy, una demo que transmite fotogramas desde GPUs en la nube hasta el navegador a un máximo de 15 fps mientras el usuario controla la cámara."
+                "x": "La Season 3 trae un nuevo mapa más urbano llamado Sabatulo; desbloqueos multipista, que permiten desbloquear cualquier objeto que un rol pueda usar jugando con ese rol; y un nuevo modo \"Limited\" que elimina las armas, armaduras y vehículos de nivel alto."
               },
               {
                 "t": "p",
-                "x": "La velocidad importa: si los usuarios esperan decenas de segundos o minutos por un video, deben ser cautelosos y metódicos. «Cuando el costo de una 'mala idea' es casi cero, no hay malas ideas»."
+                "x": "También llega lo que Bulkhead describe como \"uno de los sistemas antitrampas más sofisticados del mundo\", creado \"analizando 187 millones de horas de juego con la ayuda de aprendizaje automático y AI\". El sistema entró en funcionamiento cuando se publicó el video Road to Season 3 y bloqueó 185,000 cuentas."
               },
               {
                 "t": "p",
-                "x": "Frente a su modelo anterior, RTFM, Atlas es mucho más grande, se entrenó con órdenes de magnitud más datos y puede generar escenas desde cero a partir de una sola imagen o un texto descriptivo. También puede sintetizar vistas nuevas de lugares emblemáticos reales a partir de capturas multivista."
-              },
-              {
-                "t": "p",
-                "x": "La capacidad en tiempo real también se integra como una capa de streaming en Viewfinder, una aplicación web en beta cerrada que permite construir escenas fotograma a fotograma con Atlas. Por ahora, Frameboy debe ejecutarse en un potente servidor GPU en la nube y no es barato en comparación con los métodos de renderizado local."
+                "x": "\"Para entrenar nuestros modelos, necesitábamos dejar que los tramposos recorrieran el camino de pulir y ajustar sus trampas para poder ver cómo evolucionaban\", dice Joe Brammer, CEO de Bulkhead. Según él, el sistema no eliminará por completo a los tramposos, pero el estudio confía en que ofrecerá una mejor experiencia de juego cuando la Season 3 llegue el 12 de noviembre."
               }
             ]
           }
@@ -315,15 +365,15 @@
       }
     },
     {
-      "id": "quixel-megascans-ai-training",
-      "source_lang": "en",
+      "id": "krafton-cofa-probe",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Megascans 무료화\nAI 모델 학습 허용",
-      "body": "Quixel은 Megascans를 Fab에서 무료로 풀고 AI 학습도 허용했다.",
-      "mini_headline": "Megascans, AI 학습 허용",
+      "headline": "크래프톤, AI 협업\n과정으로 인턴 평가",
+      "body": "크래프톤은 '코파 프로브'로 지원자가 AI 에이전트와 협업하는 과정을 평가한다.",
+      "mini_headline": "크래프톤\nAI 협업 평가",
       "tool": "Games",
-      "source": "80 Level",
-      "url": "https://80.lv/articles/entire-quixel-megascans-library-now-available-for-free/",
+      "source": "이코노미톡뉴스",
+      "url": "http://www.economytalk.kr/news/articleView.html?idxno=425135",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -331,295 +381,385 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.80.lv/api/upload/meta/50915/images/6aedb18c36225/contain_1200x630.jpg"
+            "src": "https://cdn.economytalk.kr/news/photo/202611/425135_233885_4215.png",
+            "cap": "크래프톤은 2027 채용연계형 인턴십 6개 직군의 AI 역량평가에 자체 개발한 코파 프로브(Cofa-Probe)를 활용한다. [크래프톤]"
           },
           {
             "t": "p",
-            "x": "이번엔 영구적이다. Quixel은 2024년 Fab 출시 무렵 Megascans 라이브러리를 기간 한정으로 무료 제공했다. 이번에는 고품질 3D 스캔 에셋 약 23,000개가 담긴 라이브러리 전체를 지금부터 무료로 푼다. Fab 목록 업데이트는 11월 12일까지 이어진다."
+            "x": "크래프톤은 2027 채용연계형 인턴십 6개 직군의 AI 역량평가에 자체 개발한 코파 프로브(Cofa-Probe)를 활용한다. 지원자의 결과물과 AI 협업 과정, 검증 기록을 함께 평가한다. 게임사별 AI 채용 기준을 살펴보는 기획의 네 번째 사례다."
           },
           {
             "t": "p",
-            "x": "Quixel 에셋 전체의 이용 약관도 바뀌었다. 이제 Megascans와 Megaplants 에셋으로 AI 모델을 학습시켜도 된다. Unreal Engine 6 계획에서 보듯 AI 통합에 갈수록 힘을 싣는 Epic Games의 행보가 또 한 번 드러난 셈이다."
+            "x": "크래프톤 관계자는 지난 5일 이코노미톡뉴스와의 답변에서 Cofa-Probe가 “기술 관리(Technique)·의도 관리(Intent)·인지 관리(Cognition) 세 축”으로 평가한다고 설명했다."
           },
           {
             "t": "p",
-            "x": "“Fab에서 Quixel Megascans 라이브러리 전체를 무료로 제공합니다. 모든 Quixel 에셋의 약관도 업데이트해 이제 Megascans와 Megaplants로 AI 모델을 학습시킬 수 있습니다. AI 모델이 실제 스캔 데이터를 학습해 프로젝트에 쓸 다양하고 사실적인 환경을 생성하도록 도울 수 있습니다. 2025년 1월 1일 이후 Megascans나 Quixel Bundle을 구매했다면 구매 금액을 Epic Account Balance로 환불합니다. 라이선스는 그대로 유지되며 새로운 AI 권리도 받게 됩니다.”"
+            "x": "크래프톤은 실제 업무와 유사한 환경에서 지원자가 업무 에이전트와 협업하는 과정을 살핀다. 소스코드와 대화 기록, 프롬프트, 도구 설정, 검증 실행 기록을 자동으로 수집해 결과물과 문제 해결 과정을 함께 평가한다."
           },
           {
             "t": "p",
-            "x": "환불액은 2026년 말까지 Epic Account Balance로 지급된다."
+            "x": "기술 관리에서는 AI에 전달한 목표와 제약이 적절했는지, 의도 관리에서는 오류 원인을 분석해 접근 방식을 수정했는지 확인한다."
+          },
+          {
+            "t": "p",
+            "x": "인지 관리에서는 결과물의 오류와 한계를 검증하고 실제 업무에 활용할 수준으로 완성했는지를 살핀다. 과제 종료 후에는 지원자가 결과물과 의사결정 과정을 직접 설명하는 사후 질의응답도 진행한다."
+          },
+          {
+            "t": "p",
+            "x": "해당 인턴십은 2027년 2월 입사해 5개월간 진행되며, 인턴 기간 평가를 통해 정규직 전환 여부를 결정한다. Cofa-Probe는 6개 직군의 과제 수행 기록과 결과물, 사후 설명을 함께 살펴 지원자의 AI 활용 역량을 평가하는 데 쓰인다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Megascans goes free and opens\nto AI model training",
-          "body": "Quixel made the full Megascans library free on Fab and now lets Megascans and Megaplants train AI models.",
-          "mini_headline": "Megascans cleared for AI training",
+        "ko": {
+          "headline": "크래프톤, AI 협업\n과정으로 인턴 평가",
+          "body": "크래프톤은 '코파 프로브'로 지원자가 AI 에이전트와 협업하는 과정을 평가한다.",
+          "mini_headline": "크래프톤\nAI 협업 평가",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/meta/50915/images/6aedb18c36225/contain_1200x630.jpg"
+                "src": "https://cdn.economytalk.kr/news/photo/202611/425135_233885_4215.png",
+                "cap": "크래프톤은 2027 채용연계형 인턴십 6개 직군의 AI 역량평가에 자체 개발한 코파 프로브(Cofa-Probe)를 활용한다. [크래프톤]"
               },
               {
                 "t": "p",
-                "x": "And this time, it's permanent. Quixel made the Megascans library free for a limited time back in 2024, around the launch of Fab; this time the entire library of around 23,000 high-quality 3D scanned assets is free starting now. Fab listings will continue to be updated through November 12."
+                "x": "크래프톤은 2027 채용연계형 인턴십 6개 직군의 AI 역량평가에 자체 개발한 코파 프로브(Cofa-Probe)를 활용한다. 지원자의 결과물과 AI 협업 과정, 검증 기록을 함께 평가한다. 게임사별 AI 채용 기준을 살펴보는 기획의 네 번째 사례다."
               },
               {
                 "t": "p",
-                "x": "The terms for all Quixel assets have also been updated, allowing you to use Megascans and Megaplants assets to train AI models — a further signal of Epic Games' growing focus on AI integration, as seen in its plans for Unreal Engine 6."
+                "x": "크래프톤 관계자는 지난 5일 이코노미톡뉴스와의 답변에서 Cofa-Probe가 “기술 관리(Technique)·의도 관리(Intent)·인지 관리(Cognition) 세 축”으로 평가한다고 설명했다."
               },
               {
                 "t": "p",
-                "x": "\"We're making the full Quixel Megascans library free on Fab. We've also updated the terms for all Quixel assets so you can now train AI models on Megascans and Megaplants. Your AI models can now learn from real-world scans to help you generate varied, photorealistic environments for your projects. If you purchased Megascans or a Quixel Bundle on or after January 1, 2025, we'll refund your purchase to your Epic Account Balance. You keep your license and get the new AI rights.\""
+                "x": "크래프톤은 실제 업무와 유사한 환경에서 지원자가 업무 에이전트와 협업하는 과정을 살핀다. 소스코드와 대화 기록, 프롬프트, 도구 설정, 검증 실행 기록을 자동으로 수집해 결과물과 문제 해결 과정을 함께 평가한다."
               },
               {
                 "t": "p",
-                "x": "Refunds will be credited to your Epic Account Balance by the end of 2026."
+                "x": "기술 관리에서는 AI에 전달한 목표와 제약이 적절했는지, 의도 관리에서는 오류 원인을 분석해 접근 방식을 수정했는지 확인한다."
+              },
+              {
+                "t": "p",
+                "x": "인지 관리에서는 결과물의 오류와 한계를 검증하고 실제 업무에 활용할 수준으로 완성했는지를 살핀다. 과제 종료 후에는 지원자가 결과물과 의사결정 과정을 직접 설명하는 사후 질의응답도 진행한다."
+              },
+              {
+                "t": "p",
+                "x": "해당 인턴십은 2027년 2월 입사해 5개월간 진행되며, 인턴 기간 평가를 통해 정규직 전환 여부를 결정한다. Cofa-Probe는 6개 직군의 과제 수행 기록과 결과물, 사후 설명을 함께 살펴 지원자의 AI 활용 역량을 평가하는 데 쓰인다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Megascans 무료화\nAI 모델 학습 허용",
-          "body": "Quixel은 Megascans를 Fab에서 무료로 풀고 AI 학습도 허용했다.",
-          "mini_headline": "Megascans, AI 학습 허용",
+        "en": {
+          "headline": "Krafton grades interns on how\nthey collaborate with AI",
+          "body": "Krafton uses Cofa-Probe to evaluate the process by which applicants collaborate with AI agents.",
+          "mini_headline": "Krafton's AI collaboration test",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/meta/50915/images/6aedb18c36225/contain_1200x630.jpg"
+                "src": "https://cdn.economytalk.kr/news/photo/202611/425135_233885_4215.png",
+                "cap": "Krafton is using Cofa-Probe, developed in-house, to assess AI skills in 6 job tracks of its 2027 hiring-linked internship. [Krafton]"
               },
               {
                 "t": "p",
-                "x": "이번엔 영구적이다. Quixel은 2024년 Fab 출시 무렵 Megascans 라이브러리를 기간 한정으로 무료 제공했다. 이번에는 고품질 3D 스캔 에셋 약 23,000개가 담긴 라이브러리 전체를 지금부터 무료로 푼다. Fab 목록 업데이트는 11월 12일까지 이어진다."
+                "x": "Krafton is using Cofa-Probe, a tool it developed in-house, to assess AI skills across 6 job tracks in its 2027 hiring-linked internship. It evaluates applicants' output together with their AI collaboration process and verification records. This is the fourth case in a series examining the AI hiring standards of individual game companies."
               },
               {
                 "t": "p",
-                "x": "Quixel 에셋 전체의 이용 약관도 바뀌었다. 이제 Megascans와 Megaplants 에셋으로 AI 모델을 학습시켜도 된다. Unreal Engine 6 계획에서 보듯 AI 통합에 갈수록 힘을 싣는 Epic Games의 행보가 또 한 번 드러난 셈이다."
+                "x": "A Krafton official explained in a response to EconomyTalk News on the 5th that Cofa-Probe evaluates applicants on “three axes: technique management (Technique), intent management (Intent) and cognition management (Cognition).”"
               },
               {
                 "t": "p",
-                "x": "“Fab에서 Quixel Megascans 라이브러리 전체를 무료로 제공합니다. 모든 Quixel 에셋의 약관도 업데이트해 이제 Megascans와 Megaplants로 AI 모델을 학습시킬 수 있습니다. AI 모델이 실제 스캔 데이터를 학습해 프로젝트에 쓸 다양하고 사실적인 환경을 생성하도록 도울 수 있습니다. 2025년 1월 1일 이후 Megascans나 Quixel Bundle을 구매했다면 구매 금액을 Epic Account Balance로 환불합니다. 라이선스는 그대로 유지되며 새로운 AI 권리도 받게 됩니다.”"
+                "x": "Krafton observes how applicants collaborate with work agents in an environment similar to real work. It automatically collects source code, conversation logs, prompts, tool settings and verification run records, and evaluates the output and the problem-solving process together."
               },
               {
                 "t": "p",
-                "x": "환불액은 2026년 말까지 Epic Account Balance로 지급된다."
+                "x": "Technique management checks whether the goals and constraints given to the AI were appropriate, and intent management checks whether the applicant analysed the cause of errors and revised their approach."
+              },
+              {
+                "t": "p",
+                "x": "Cognition management looks at whether the applicant verified the errors and limits of the output and finished it to a level usable in real work. After the task, a follow-up question-and-answer session is held in which applicants explain their output and decision-making process themselves."
+              },
+              {
+                "t": "p",
+                "x": "The internship starts in February 2027 and runs for 5 months, with conversion to a full-time position decided through evaluation during the internship. Cofa-Probe is used to assess applicants' AI skills by reviewing their task records, output and follow-up explanations across the 6 job tracks."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Megascans無料化\nAIモデル学習も解禁",
-          "body": "QuixelはMegascansをFabで無料化し、AI学習への利用も認めた。",
-          "mini_headline": "Megascans、AI学習を解禁",
+          "headline": "Krafton、AI協業の\n過程でインターン評価",
+          "body": "KraftonはCofa-Probeで応募者とAIエージェントの協業過程を評価する。",
+          "mini_headline": "KraftonのAI協業評価",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/meta/50915/images/6aedb18c36225/contain_1200x630.jpg"
+                "src": "https://cdn.economytalk.kr/news/photo/202611/425135_233885_4215.png",
+                "cap": "Kraftonは2027年度の採用連動型インターンシップ6職種のAI能力評価に、自社開発のCofa-Probe（コパ・プローブ）を活用する。［Krafton］"
               },
               {
                 "t": "p",
-                "x": "そして今回は恒久的だ。Quixelは2024年のFab立ち上げ時期にMegascansライブラリを期間限定で無料にしたが、今回は高品質な3Dスキャンアセット約23,000点からなるライブラリ全体を今すぐ無料にする。Fabの掲載情報は11月12日まで更新が続く。"
+                "x": "Kraftonは2027年度の採用連動型インターンシップ6職種のAI能力評価に、自社開発のCofa-Probe（コパ・プローブ）を活用する。応募者の成果物とAIとの協業過程、検証記録をあわせて評価する。ゲーム会社ごとのAI採用基準を探る企画の四つ目の事例である。"
               },
               {
                 "t": "p",
-                "x": "すべてのQuixelアセットの利用規約も更新され、MegascansとMegaplantsのアセットをAIモデルの学習に使えるようになった。Unreal Engine 6の計画にも見られるように、Epic GamesがAI統合への注力を強めていることを示す新たな兆候だ。"
+                "x": "Kraftonの関係者は5日、エコノミートークニュースへの回答で、Cofa-Probeは「技術管理（Technique）・意図管理（Intent）・認知管理（Cognition）の三つの軸」で評価すると説明した。"
               },
               {
                 "t": "p",
-                "x": "「FabでQuixel Megascansライブラリ全体を無料にします。また、すべてのQuixelアセットの規約を更新し、MegascansとMegaplantsでAIモデルを学習できるようにしました。AIモデルは実世界のスキャンから学び、プロジェクト向けの多様でフォトリアルな環境の生成を助けます。2025年1月1日以降にMegascansまたはQuixel Bundleを購入した場合、購入額をEpic Account Balanceに返金します。ライセンスはそのままで、新たなAI権利も得られます」"
+                "x": "Kraftonは実務に近い環境で、応募者が業務エージェントと協業する過程を見る。ソースコードや対話記録、プロンプト、ツール設定、検証の実行記録を自動で収集し、成果物と問題解決の過程をあわせて評価する。"
               },
               {
                 "t": "p",
-                "x": "返金は2026年末までにEpic Account Balanceに付与される。"
+                "x": "技術管理ではAIに伝えた目標と制約が適切だったか、意図管理ではエラーの原因を分析してアプローチを修正したかを確認する。"
+              },
+              {
+                "t": "p",
+                "x": "認知管理では、成果物の誤りや限界を検証し、実務で使える水準まで仕上げたかを見る。課題終了後には、応募者が成果物と意思決定の過程を自ら説明する事後の質疑応答も行う。"
+              },
+              {
+                "t": "p",
+                "x": "このインターンシップは2027年2月に入社して5か月間行われ、インターン期間中の評価を通じて正社員への転換が決まる。Cofa-Probeは6職種の課題遂行記録と成果物、事後説明をあわせて確認し、応募者のAI活用能力を評価するために使われる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Megascans全面免费\n并允许AI模型训练",
-          "body": "Quixel在Fab免费开放Megascans，并允许其与Megaplants用于AI训练。",
-          "mini_headline": "Megascans开放AI训练",
+          "headline": "Krafton以AI协作\n过程评估实习生",
+          "body": "Krafton用Cofa-Probe评估应聘者与AI智能体协作的过程。",
+          "mini_headline": "Krafton的AI协作评估",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/meta/50915/images/6aedb18c36225/contain_1200x630.jpg"
+                "src": "https://cdn.economytalk.kr/news/photo/202611/425135_233885_4215.png",
+                "cap": "Krafton将在2027年招聘衔接型实习项目6个岗位类别的AI能力评估中，使用自主研发的Cofa-Probe。[Krafton]"
               },
               {
                 "t": "p",
-                "x": "而且这一次是永久的。Quixel曾在2024年Fab上线前后限时免费提供Megascans库；这一次，由约23,000个高品质3D扫描资产组成的整个库即日起免费。Fab上的条目将持续更新至11月12日。"
+                "x": "Krafton将在2027年招聘衔接型实习项目6个岗位类别的AI能力评估中，使用自主研发的Cofa-Probe，同时评估应聘者的成果物、AI协作过程和验证记录。这是考察各游戏公司AI招聘标准系列策划的第四个案例。"
               },
               {
                 "t": "p",
-                "x": "所有Quixel资产的条款也已更新，允许使用Megascans和Megaplants资产训练AI模型——这进一步表明Epic Games日益重视AI整合，其Unreal Engine 6计划也体现了这一点。"
+                "x": "Krafton相关人士5日在回复EconomyTalk News时解释称，Cofa-Probe从“技术管理（Technique）、意图管理（Intent）、认知管理（Cognition）三个维度”进行评估。"
               },
               {
                 "t": "p",
-                "x": "“我们将在Fab上免费提供完整的Quixel Megascans库。我们还更新了所有Quixel资产的条款，现在你可以用Megascans和Megaplants训练AI模型。你的AI模型现在可以从真实世界的扫描中学习，帮助你为项目生成多样、逼真的环境。如果你在2025年1月1日或之后购买了Megascans或Quixel Bundle，我们会将购买款退至你的Epic Account Balance。你的许可证保持不变，并获得新的AI权利。”"
+                "x": "Krafton在接近实际工作的环境中观察应聘者与工作智能体协作的过程，自动收集源代码、对话记录、提示词、工具设置和验证执行记录，同时评估成果物和解决问题的过程。"
               },
               {
                 "t": "p",
-                "x": "退款将于2026年底前计入你的Epic Account Balance。"
+                "x": "技术管理考察向AI传达的目标和约束是否恰当，意图管理考察应聘者是否分析了错误原因并调整了方法。"
+              },
+              {
+                "t": "p",
+                "x": "认知管理考察应聘者是否验证了成果物中的错误与局限，并将其完善到可用于实际工作的水平。任务结束后，还会进行事后问答，由应聘者亲自说明成果物和决策过程。"
+              },
+              {
+                "t": "p",
+                "x": "该实习项目于2027年2月入职，为期5个月，将根据实习期间的评估决定是否转为正式员工。Cofa-Probe将综合审视6个岗位类别的任务执行记录、成果物和事后说明，用于评估应聘者的AI应用能力。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Megascans pasa a ser gratis\ny permite entrenar modelos AI",
-          "body": "Quixel hizo gratuita toda la biblioteca Megascans en Fab y permite entrenar modelos de AI con Megascans y Megaplants.",
-          "mini_headline": "Megascans, apta para entrenar AI",
+          "headline": "Krafton evalúa a sus becarios\npor su colaboración con AI",
+          "body": "Krafton usa Cofa-Probe para evaluar el proceso con el que los candidatos colaboran con agentes de AI.",
+          "mini_headline": "Krafton evalúa la colaboración con AI",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/meta/50915/images/6aedb18c36225/contain_1200x630.jpg"
+                "src": "https://cdn.economytalk.kr/news/photo/202611/425135_233885_4215.png",
+                "cap": "Krafton utiliza Cofa-Probe, de desarrollo propio, para evaluar las competencias de AI en 6 áreas de su programa de prácticas 2027 vinculado a contratación. [Krafton]"
               },
               {
                 "t": "p",
-                "x": "Y esta vez es permanente. Quixel ofreció gratis la biblioteca Megascans por tiempo limitado en 2024, en torno al lanzamiento de Fab; esta vez, toda la biblioteca de unos 23,000 recursos escaneados en 3D de alta calidad es gratuita desde ahora. Los listados de Fab seguirán actualizándose hasta el 12 de noviembre."
+                "x": "Krafton utiliza Cofa-Probe, una herramienta de desarrollo propio, para evaluar las competencias de AI en 6 áreas de su programa de prácticas 2027 vinculado a contratación. Evalúa a la vez los resultados del candidato, su proceso de colaboración con la AI y sus registros de verificación. Es el cuarto caso de una serie que examina los criterios de contratación relacionados con la AI de cada empresa de videojuegos."
               },
               {
                 "t": "p",
-                "x": "También se actualizaron los términos de todos los recursos de Quixel, lo que permite usar los recursos de Megascans y Megaplants para entrenar modelos de AI, otra señal del creciente interés de Epic Games en la integración de AI, como muestran sus planes para Unreal Engine 6."
+                "x": "Un representante de Krafton explicó el día 5, en una respuesta a EconomyTalk News, que Cofa-Probe evalúa según “tres ejes: gestión técnica (Technique), gestión de la intención (Intent) y gestión cognitiva (Cognition)”."
               },
               {
                 "t": "p",
-                "x": "«Hacemos gratuita toda la biblioteca Quixel Megascans en Fab. También actualizamos los términos de todos los recursos de Quixel para que ahora puedas entrenar modelos de AI con Megascans y Megaplants. Tus modelos de AI pueden aprender de escaneos del mundo real para ayudarte a generar entornos variados y fotorrealistas para tus proyectos. Si compraste Megascans o un Quixel Bundle el 1 de enero de 2025 o después, reembolsaremos tu compra a tu Epic Account Balance. Conservas tu licencia y obtienes los nuevos derechos de AI»."
+                "x": "Krafton observa cómo los candidatos colaboran con agentes de trabajo en un entorno similar al trabajo real. Recopila automáticamente el código fuente, los registros de conversación, los prompts, la configuración de herramientas y los registros de ejecución de verificaciones, y evalúa a la vez el resultado y el proceso de resolución de problemas."
               },
               {
                 "t": "p",
-                "x": "Los reembolsos se abonarán en tu Epic Account Balance antes de que termine 2026."
+                "x": "En la gestión técnica se comprueba si los objetivos y restricciones transmitidos a la AI eran adecuados; en la gestión de la intención, si el candidato analizó la causa de los errores y corrigió su enfoque."
+              },
+              {
+                "t": "p",
+                "x": "En la gestión cognitiva se examina si el candidato verificó los errores y límites del resultado y lo completó hasta un nivel útil en el trabajo real. Al terminar la tarea se realiza además una sesión posterior de preguntas y respuestas en la que el candidato explica personalmente su resultado y su proceso de toma de decisiones."
+              },
+              {
+                "t": "p",
+                "x": "Las prácticas comienzan con la incorporación en febrero de 2027 y duran 5 meses; la conversión a un puesto fijo se decide mediante la evaluación durante ese periodo. Cofa-Probe se utiliza para evaluar la capacidad de uso de la AI de los candidatos, revisando en conjunto los registros de ejecución de tareas, los resultados y las explicaciones posteriores de las 6 áreas."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Megascans 무료화\nAI 모델 학습 허용",
-          "body": "Quixel은 Megascans를 Fab에서 무료로 풀고 AI 학습도 허용했다.",
-          "mini_headline": "Megascans, AI 학습 허용",
+        "en": {
+          "headline": "Krafton grades interns on how\nthey collaborate with AI",
+          "body": "Krafton uses Cofa-Probe to evaluate the process by which applicants collaborate with AI agents.",
+          "mini_headline": "Krafton's AI collaboration test",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/meta/50915/images/6aedb18c36225/contain_1200x630.jpg"
+                "src": "https://cdn.economytalk.kr/news/photo/202611/425135_233885_4215.png",
+                "cap": "Krafton is using Cofa-Probe, developed in-house, to assess AI skills in 6 job tracks of its 2027 hiring-linked internship. [Krafton]"
               },
               {
                 "t": "p",
-                "x": "이번에는 영구적이다. Quixel은 2024년 Fab 출시 무렵 Megascans 라이브러리를 기간 한정으로 무료 제공했는데, 이번에는 고품질 3D 스캔 에셋 약 23,000개로 이뤄진 라이브러리 전체를 지금부터 무료로 푼다. Fab 목록 업데이트는 11월 12일까지 이어진다."
+                "x": "Krafton is using Cofa-Probe, a tool it developed in-house, to assess AI skills across 6 job tracks in its 2027 hiring-linked internship. It evaluates applicants' output together with their AI collaboration process and verification records. This is the fourth case in a series examining the AI hiring standards of individual game companies."
               },
               {
                 "t": "p",
-                "x": "모든 Quixel 에셋의 이용 약관도 바뀌어 Megascans와 Megaplants 에셋으로 AI 모델을 학습시킬 수 있게 됐다. Unreal Engine 6 계획에서 보듯 Epic Games가 AI 통합에 점점 힘을 싣고 있다는 또 하나의 신호다."
+                "x": "A Krafton official explained in a response to EconomyTalk News on the 5th that Cofa-Probe evaluates applicants on “three axes: technique management (Technique), intent management (Intent) and cognition management (Cognition).”"
               },
               {
                 "t": "p",
-                "x": "“Fab에서 Quixel Megascans 라이브러리 전체를 무료로 제공합니다. 모든 Quixel 에셋의 약관도 업데이트해 이제 Megascans와 Megaplants로 AI 모델을 학습시킬 수 있습니다. AI 모델이 실제 스캔 데이터를 학습해 프로젝트에 쓸 다양하고 사실적인 환경을 생성하도록 도울 수 있습니다. 2025년 1월 1일 이후 Megascans나 Quixel Bundle을 구매했다면 구매 금액을 Epic Account Balance로 환불합니다. 라이선스는 그대로 유지되며 새로운 AI 권리도 받게 됩니다.”"
+                "x": "Krafton observes how applicants collaborate with work agents in an environment similar to real work. It automatically collects source code, conversation logs, prompts, tool settings and verification run records, and evaluates the output and the problem-solving process together."
               },
               {
                 "t": "p",
-                "x": "환불액은 2026년 말까지 Epic Account Balance로 지급된다."
+                "x": "Technique management checks whether the goals and constraints given to the AI were appropriate, and intent management checks whether the applicant analysed the cause of errors and revised their approach."
+              },
+              {
+                "t": "p",
+                "x": "Cognition management looks at whether the applicant verified the errors and limits of the output and finished it to a level usable in real work. After the task, a follow-up question-and-answer session is held in which applicants explain their output and decision-making process themselves."
+              },
+              {
+                "t": "p",
+                "x": "The internship starts in February 2027 and runs for 5 months, with conversion to a full-time position decided through evaluation during the internship. Cofa-Probe is used to assess applicants' AI skills by reviewing their task records, output and follow-up explanations across the 6 job tracks."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Megascans無料化\nAIモデル学習も解禁",
-          "body": "QuixelはMegascansをFabで無料化し、AI学習への利用も認めた。",
-          "mini_headline": "Megascans、AI学習を解禁",
+          "headline": "Krafton、AI協業の\n過程でインターン評価",
+          "body": "KraftonはCofa-Probeで応募者とAIエージェントの協業過程を評価する。",
+          "mini_headline": "KraftonのAI協業評価",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/meta/50915/images/6aedb18c36225/contain_1200x630.jpg"
+                "src": "https://cdn.economytalk.kr/news/photo/202611/425135_233885_4215.png",
+                "cap": "Kraftonは2027年度の採用連動型インターンシップ6職種のAI能力評価に、自社開発のCofa-Probe（コパ・プローブ）を活用する。［Krafton］"
               },
               {
                 "t": "p",
-                "x": "そして今回は恒久的だ。Quixelは2024年のFab立ち上げ時期にMegascansライブラリを期間限定で無料にしたが、今回は高品質な3Dスキャンアセット約23,000点からなるライブラリ全体を今すぐ無料にする。Fabの掲載情報は11月12日まで更新が続く。"
+                "x": "Kraftonは2027年度の採用連動型インターンシップ6職種のAI能力評価に、自社開発のCofa-Probe（コパ・プローブ）を活用する。応募者の成果物とAIとの協業過程、検証記録をあわせて評価する。ゲーム会社ごとのAI採用基準を探る企画の四つ目の事例である。"
               },
               {
                 "t": "p",
-                "x": "すべてのQuixelアセットの利用規約も更新され、MegascansとMegaplantsのアセットをAIモデルの学習に使えるようになった。Unreal Engine 6の計画にも見られるように、Epic GamesがAI統合への注力を強めていることを示す新たな兆候だ。"
+                "x": "Kraftonの関係者は5日、エコノミートークニュースへの回答で、Cofa-Probeは「技術管理（Technique）・意図管理（Intent）・認知管理（Cognition）の三つの軸」で評価すると説明した。"
               },
               {
                 "t": "p",
-                "x": "「FabでQuixel Megascansライブラリ全体を無料にします。また、すべてのQuixelアセットの規約を更新し、MegascansとMegaplantsでAIモデルを学習できるようにしました。AIモデルは実世界のスキャンから学び、プロジェクト向けの多様でフォトリアルな環境の生成を助けます。2025年1月1日以降にMegascansまたはQuixel Bundleを購入した場合、購入額をEpic Account Balanceに返金します。ライセンスはそのままで、新たなAI権利も得られます」"
+                "x": "Kraftonは実務に近い環境で、応募者が業務エージェントと協業する過程を見る。ソースコードや対話記録、プロンプト、ツール設定、検証の実行記録を自動で収集し、成果物と問題解決の過程をあわせて評価する。"
               },
               {
                 "t": "p",
-                "x": "返金は2026年末までにEpic Account Balanceに付与される。"
+                "x": "技術管理ではAIに伝えた目標と制約が適切だったか、意図管理ではエラーの原因を分析してアプローチを修正したかを確認する。"
+              },
+              {
+                "t": "p",
+                "x": "認知管理では、成果物の誤りや限界を検証し、実務で使える水準まで仕上げたかを見る。課題終了後には、応募者が成果物と意思決定の過程を自ら説明する事後の質疑応答も行う。"
+              },
+              {
+                "t": "p",
+                "x": "このインターンシップは2027年2月に入社して5か月間行われ、インターン期間中の評価を通じて正社員への転換が決まる。Cofa-Probeは6職種の課題遂行記録と成果物、事後説明をあわせて確認し、応募者のAI活用能力を評価するために使われる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Megascans全面免费\n并允许AI模型训练",
-          "body": "Quixel在Fab免费开放Megascans，并允许其与Megaplants用于AI训练。",
-          "mini_headline": "Megascans开放AI训练",
+          "headline": "Krafton以AI协作\n过程评估实习生",
+          "body": "Krafton用Cofa-Probe评估应聘者与AI智能体协作的过程。",
+          "mini_headline": "Krafton的AI协作评估",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/meta/50915/images/6aedb18c36225/contain_1200x630.jpg"
+                "src": "https://cdn.economytalk.kr/news/photo/202611/425135_233885_4215.png",
+                "cap": "Krafton将在2027年招聘衔接型实习项目6个岗位类别的AI能力评估中，使用自主研发的Cofa-Probe。[Krafton]"
               },
               {
                 "t": "p",
-                "x": "而且这一次是永久的。Quixel曾在2024年Fab上线前后限时免费提供Megascans库；这一次，由约23,000个高品质3D扫描资产组成的整个库即日起免费。Fab上的条目将持续更新至11月12日。"
+                "x": "Krafton将在2027年招聘衔接型实习项目6个岗位类别的AI能力评估中，使用自主研发的Cofa-Probe，同时评估应聘者的成果物、AI协作过程和验证记录。这是考察各游戏公司AI招聘标准系列策划的第四个案例。"
               },
               {
                 "t": "p",
-                "x": "所有Quixel资产的条款也已更新，允许使用Megascans和Megaplants资产训练AI模型——这进一步表明Epic Games日益重视AI整合，其Unreal Engine 6计划也体现了这一点。"
+                "x": "Krafton相关人士5日在回复EconomyTalk News时解释称，Cofa-Probe从“技术管理（Technique）、意图管理（Intent）、认知管理（Cognition）三个维度”进行评估。"
               },
               {
                 "t": "p",
-                "x": "“我们将在Fab上免费提供完整的Quixel Megascans库。我们还更新了所有Quixel资产的条款，现在你可以用Megascans和Megaplants训练AI模型。你的AI模型现在可以从真实世界的扫描中学习，帮助你为项目生成多样、逼真的环境。如果你在2025年1月1日或之后购买了Megascans或Quixel Bundle，我们会将购买款退至你的Epic Account Balance。你的许可证保持不变，并获得新的AI权利。”"
+                "x": "Krafton在接近实际工作的环境中观察应聘者与工作智能体协作的过程，自动收集源代码、对话记录、提示词、工具设置和验证执行记录，同时评估成果物和解决问题的过程。"
               },
               {
                 "t": "p",
-                "x": "退款将于2026年底前计入你的Epic Account Balance。"
+                "x": "技术管理考察向AI传达的目标和约束是否恰当，意图管理考察应聘者是否分析了错误原因并调整了方法。"
+              },
+              {
+                "t": "p",
+                "x": "认知管理考察应聘者是否验证了成果物中的错误与局限，并将其完善到可用于实际工作的水平。任务结束后，还会进行事后问答，由应聘者亲自说明成果物和决策过程。"
+              },
+              {
+                "t": "p",
+                "x": "该实习项目于2027年2月入职，为期5个月，将根据实习期间的评估决定是否转为正式员工。Cofa-Probe将综合审视6个岗位类别的任务执行记录、成果物和事后说明，用于评估应聘者的AI应用能力。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Megascans pasa a ser gratis\ny permite entrenar modelos AI",
-          "body": "Quixel hizo gratuita toda la biblioteca Megascans en Fab y permite entrenar modelos de AI con Megascans y Megaplants.",
-          "mini_headline": "Megascans, apta para entrenar AI",
+          "headline": "Krafton evalúa a sus becarios\npor su colaboración con AI",
+          "body": "Krafton usa Cofa-Probe para evaluar el proceso con el que los candidatos colaboran con agentes de AI.",
+          "mini_headline": "Krafton evalúa la colaboración con AI",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/meta/50915/images/6aedb18c36225/contain_1200x630.jpg"
+                "src": "https://cdn.economytalk.kr/news/photo/202611/425135_233885_4215.png",
+                "cap": "Krafton utiliza Cofa-Probe, de desarrollo propio, para evaluar las competencias de AI en 6 áreas de su programa de prácticas 2027 vinculado a contratación. [Krafton]"
               },
               {
                 "t": "p",
-                "x": "Y esta vez es permanente. Quixel ofreció gratis la biblioteca Megascans por tiempo limitado en 2024, en torno al lanzamiento de Fab; esta vez, toda la biblioteca de unos 23,000 recursos escaneados en 3D de alta calidad es gratuita desde ahora. Los listados de Fab seguirán actualizándose hasta el 12 de noviembre."
+                "x": "Krafton utiliza Cofa-Probe, una herramienta de desarrollo propio, para evaluar las competencias de AI en 6 áreas de su programa de prácticas 2027 vinculado a contratación. Evalúa a la vez los resultados del candidato, su proceso de colaboración con la AI y sus registros de verificación. Es el cuarto caso de una serie que examina los criterios de contratación relacionados con la AI de cada empresa de videojuegos."
               },
               {
                 "t": "p",
-                "x": "También se actualizaron los términos de todos los recursos de Quixel, lo que permite usar los recursos de Megascans y Megaplants para entrenar modelos de AI, otra señal del creciente interés de Epic Games en la integración de AI, como muestran sus planes para Unreal Engine 6."
+                "x": "Un representante de Krafton explicó el día 5, en una respuesta a EconomyTalk News, que Cofa-Probe evalúa según “tres ejes: gestión técnica (Technique), gestión de la intención (Intent) y gestión cognitiva (Cognition)”."
               },
               {
                 "t": "p",
-                "x": "«Hacemos gratuita toda la biblioteca Quixel Megascans en Fab. También actualizamos los términos de todos los recursos de Quixel para que ahora puedas entrenar modelos de AI con Megascans y Megaplants. Tus modelos de AI pueden aprender de escaneos del mundo real para ayudarte a generar entornos variados y fotorrealistas para tus proyectos. Si compraste Megascans o un Quixel Bundle el 1 de enero de 2025 o después, reembolsaremos tu compra a tu Epic Account Balance. Conservas tu licencia y obtienes los nuevos derechos de AI»."
+                "x": "Krafton observa cómo los candidatos colaboran con agentes de trabajo en un entorno similar al trabajo real. Recopila automáticamente el código fuente, los registros de conversación, los prompts, la configuración de herramientas y los registros de ejecución de verificaciones, y evalúa a la vez el resultado y el proceso de resolución de problemas."
               },
               {
                 "t": "p",
-                "x": "Los reembolsos se abonarán en tu Epic Account Balance antes de que termine 2026."
+                "x": "En la gestión técnica se comprueba si los objetivos y restricciones transmitidos a la AI eran adecuados; en la gestión de la intención, si el candidato analizó la causa de los errores y corrigió su enfoque."
+              },
+              {
+                "t": "p",
+                "x": "En la gestión cognitiva se examina si el candidato verificó los errores y límites del resultado y lo completó hasta un nivel útil en el trabajo real. Al terminar la tarea se realiza además una sesión posterior de preguntas y respuestas en la que el candidato explica personalmente su resultado y su proceso de toma de decisiones."
+              },
+              {
+                "t": "p",
+                "x": "Las prácticas comienzan con la incorporación en febrero de 2027 y duran 5 meses; la conversión a un puesto fijo se decide mediante la evaluación durante ese periodo. Cofa-Probe se utiliza para evaluar la capacidad de uso de la AI de los candidatos, revisando en conjunto los registros de ejecución de tareas, los resultados y las explicaciones posteriores de las 6 áreas."
               }
             ]
           }
@@ -627,15 +767,15 @@
       }
     },
     {
-      "id": "taketwo-zelnick-ai-ad",
-      "source_lang": "ko",
+      "id": "ubisoft-databricks-agents",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "테이크투 젤닉 CEO\nAI 광고 편당 800달러",
-      "body": "젤닉은 최대 5만 달러 들던 광고를 AI로 약 800달러에 만들었다고 했다.",
-      "mini_headline": "젤닉, AI로 광고비 절감",
+      "headline": "Ubisoft, AI 코딩\n에이전트 4,000+명에",
+      "body": "Ubisoft는 Unity Gateway로 4,000+명에게 AI 에이전트를 줬다.",
+      "mini_headline": "Ubisoft AI 에이전트 4,000+명",
       "tool": "Games",
-      "source": "게임와이",
-      "url": "http://www.gamey.kr/news/articleView.html?idxno=3019570",
+      "source": "Databricks",
+      "url": "https://www.databricks.com/customers/ubisoft/unity-gateway",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
@@ -643,435 +783,295 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.gamey.kr/news/photo/202611/3019570_173609_5044.jpg",
-            "cap": "테이크투 인터랙티브 스트라우스 젤닉 CEO가 WSJ 테크 대담에서 불법 복제 질문에 답하고 있다 /WSJ 유튜브"
+            "src": "https://www.databricks.com/sites/default/files/2026-11/customer-story-ubisoft-still-image-2x.jpg?v=1793893844"
           },
           {
             "t": "p",
-            "x": "'GTA6'를 유통하는 테이크투 인터랙티브의 스트라우스 젤닉 최고경영자(CEO)가 출시를 앞두고 인공지능(AI)과 불법 복제에 대한 생각을 밝혔다. 사람 배우를 써서 찍던 모바일 게임 광고가 한 편에 2만5000~5만 달러였는데, AI로 만들었더니 약 800달러가 들었다는 사례도 직접 소개했다."
+            "x": "Ubisoft의 AI 코딩 에이전트 도입은 현장에서 먼저 시작됐다. 여러 팀이 Claude Code, GitHub Copilot 등 다양한 도구를 시험했고 Ubisoft는 Claude Code 트래픽의 게이트웨이로 LiteLLM을 썼다. CEO가 후원하는(CEO-sponsored) 사업으로 도입이 빨라지자 개발자 수천 명을 온보딩하고 게이트웨이 성능을 관리하기가 점점 버거워졌다."
           },
           {
             "t": "p",
-            "x": "젤닉 CEO는 미국 월스트리트저널(WSJ)이 연 행사 'WSJ 테크 캘리포니아' 대담 무대에 올랐다. WSJ는 4일(현지시간) 23분 분량의 대담 전체 영상을 공식 유튜브 채널 'WSJ 이벤츠'에 공개했다."
+            "x": "이미 Databricks를 쓰던 Ubisoft는 Databricks Unity Gateway로 눈을 돌렸다. 엔드포인트 하나로 Anthropic, OpenAI와 DeepSeek, Kimi, GLM, Qwen 같은 오픈 모델에 모두 쓸 수 있다. 개발자는 새 모델이 나오면 보통 24–48시간 안에 전체 접근 권한을 받는다."
           },
           {
             "t": "p",
-            "x": "젤닉 CEO는 AI 활용 사례로 튀르키예 스튜디오 이야기를 꺼냈다. 이 스튜디오는 모바일 게임용 30초 실사 광고를 현지 대행사에 맡겨 배우를 써서 찍었고, 한 편 제작비가 2만5000~5만 달러였다. 시험 삼아 시판 AI 소프트웨어로 만든 30초·60초 광고는 사람이 나오는 실사 광고처럼 보였지만 한 편에 약 800달러가 들었다. 그는 \"아주 싸게 여러 편을 만들어 테스트할 수 있다\"며 \"꽤 놀라운 일\"이라고 말했다. 다만 \"개발이 아니라 마케팅 이야기\"라고 선을 그었다."
+            "x": "맞춤형 설치 프로그램이 개인 액세스 토큰 생성, Unity Gateway 연결, 코딩 에이전트 설정을 자동으로 처리한다. Ubisoft의 활성 사용자는 3월 약 200명에서 8월 4,000명 이상으로 다섯 달 만에 20배 늘었다. 목표는 게임 제작 전반의 개발자 5,000명이다."
           },
           {
             "t": "p",
-            "x": "개발에 쓰는 AI에 대해서는 말을 아꼈다. 젤닉 CEO는 \"소비자들은 AI라고 불리는 것이 게임에 들어가는 것을 원하지 않는다는 입장\"이라며 \"GTA는 수작업으로 만든다(handcrafted)\"고 했다. 그러면서도 테이크투 안에서 새 기술을 시험하는 프로젝트가 수백 개라고 밝혔다. 효과에 대해서는 \"우리 비용 구조에서 절감 효과는 상대적으로 작았다\"고 답했다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.gamey.kr/news/photo/202611/3019570_173610_5056.jpg",
-            "cap": "젤닉 CEO는 'WSJ 테크 캘리포니아' 무대에서 GTA6 개발비, 출시 연기, AI, 불법 복제에 대한 질문을 받았다 /WSJ 유튜브"
-          },
-          {
-            "t": "p",
-            "x": "진행자가 AI 도구로 PS4 게임을 로블록스에 재현한 사례를 들며 불법 복제를 묻자, 젤닉 CEO는 \"불법 복제는 삶의 일부(a fact of life)\"라고 답했다. 문제가 커지면 법적 대응과 기술적 대응을 모두 하겠다고 했다."
-          },
-          {
-            "t": "p",
-            "x": "GTA6는 11월 19일 PS5와 Xbox 시리즈 X|S로 출시된다. 록스타게임즈는 10일부터 사전 다운로드를 시작한다."
+            "x": "사용량이 늘자 AI 지출도 158% 뛰었다. Unity Gateway는 요청마다 보낸 사용자의 신원을 남긴다. Ubisoft는 이 데이터를 Databricks AI/BI Dashboards, 맞춤 알림, 계획 중인 팀 단위 예산·차지백과 엮어 AI 비용을 추적하고 나눈다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "테이크투 젤닉 CEO\nAI 광고 편당 800달러",
-          "body": "젤닉은 최대 5만 달러 들던 광고를 AI로 약 800달러에 만들었다고 했다.",
-          "mini_headline": "젤닉, AI로 광고비 절감",
+        "en": {
+          "headline": "Ubisoft rolls out AI coding\nagents to 4,000+ developers",
+          "body": "Ubisoft gave 4,000+ developers AI coding agents via Unity Gateway, Databricks' AI gateway (not Unity Technologies).",
+          "mini_headline": "Ubisoft AI agents\nfor 4,000+ devs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019570_173609_5044.jpg",
-                "cap": "테이크투 인터랙티브 스트라우스 젤닉 CEO가 WSJ 테크 대담에서 불법 복제 질문에 답하고 있다 /WSJ 유튜브"
+                "src": "https://www.databricks.com/sites/default/files/2026-11/customer-story-ubisoft-still-image-2x.jpg?v=1793893844"
               },
               {
                 "t": "p",
-                "x": "'GTA6'를 유통하는 테이크투 인터랙티브의 스트라우스 젤닉 최고경영자(CEO)가 출시를 앞두고 인공지능(AI)과 불법 복제에 대한 생각을 밝혔다. 사람 배우를 써서 찍던 모바일 게임 광고가 한 편에 2만5000~5만 달러였는데, AI로 만들었더니 약 800달러가 들었다는 사례도 직접 소개했다."
+                "x": "AI coding agents at Ubisoft started from the bottom up: teams experimented with Claude Code, GitHub Copilot and other tools, while Ubisoft used LiteLLM as a gateway for Claude Code traffic. As adoption accelerated under a CEO-sponsored initiative, onboarding thousands of developers and managing gateway performance became increasingly difficult."
               },
               {
                 "t": "p",
-                "x": "젤닉 CEO는 미국 월스트리트저널(WSJ)이 연 행사 'WSJ 테크 캘리포니아' 대담 무대에 올랐다. WSJ는 4일(현지시간) 23분 분량의 대담 전체 영상을 공식 유튜브 채널 'WSJ 이벤츠'에 공개했다."
+                "x": "Already using Databricks, Ubisoft turned to Databricks Unity Gateway. Through a common endpoint it provides access to Anthropic, OpenAI and open models such as DeepSeek, Kimi, GLM and Qwen, and developers can typically gain full access to newly released models within 24–48 hours."
               },
               {
                 "t": "p",
-                "x": "젤닉 CEO는 AI 활용 사례로 튀르키예 스튜디오 이야기를 꺼냈다. 이 스튜디오는 모바일 게임용 30초 실사 광고를 현지 대행사에 맡겨 배우를 써서 찍었고, 한 편 제작비가 2만5000~5만 달러였다. 시험 삼아 시판 AI 소프트웨어로 만든 30초·60초 광고는 사람이 나오는 실사 광고처럼 보였지만 한 편에 약 800달러가 들었다. 그는 \"아주 싸게 여러 편을 만들어 테스트할 수 있다\"며 \"꽤 놀라운 일\"이라고 말했다. 다만 \"개발이 아니라 마케팅 이야기\"라고 선을 그었다."
+                "x": "A custom installer automates personal access token creation, the Unity Gateway connection and coding agent configuration. Ubisoft grew from approximately 200 active users in March to more than 4,000 by August, a 20x increase in five months, and is targeting 5,000 developers across game production."
               },
               {
                 "t": "p",
-                "x": "개발에 쓰는 AI에 대해서는 말을 아꼈다. 젤닉 CEO는 \"소비자들은 AI라고 불리는 것이 게임에 들어가는 것을 원하지 않는다는 입장\"이라며 \"GTA는 수작업으로 만든다(handcrafted)\"고 했다. 그러면서도 테이크투 안에서 새 기술을 시험하는 프로젝트가 수백 개라고 밝혔다. 효과에 대해서는 \"우리 비용 구조에서 절감 효과는 상대적으로 작았다\"고 답했다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019570_173610_5056.jpg",
-                "cap": "젤닉 CEO는 'WSJ 테크 캘리포니아' 무대에서 GTA6 개발비, 출시 연기, AI, 불법 복제에 대한 질문을 받았다 /WSJ 유튜브"
-              },
-              {
-                "t": "p",
-                "x": "진행자가 AI 도구로 PS4 게임을 로블록스에 재현한 사례를 들며 불법 복제를 묻자, 젤닉 CEO는 \"불법 복제는 삶의 일부(a fact of life)\"라고 답했다. 문제가 커지면 법적 대응과 기술적 대응을 모두 하겠다고 했다."
-              },
-              {
-                "t": "p",
-                "x": "GTA6는 11월 19일 PS5와 Xbox 시리즈 X|S로 출시된다. 록스타게임즈는 10일부터 사전 다운로드를 시작한다."
+                "x": "As usage grew, AI spend increased 158%. Unity Gateway keeps the identity behind each request, and Ubisoft combines that data with Databricks AI/BI Dashboards, custom alerts and planned team-level budgets and chargeback to track and allocate AI costs."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Take-Two CEO Zelnick\nAI ads for $800 apiece",
-          "body": "Zelnick said AI made an ad for about $800 that once cost up to 5만 dollars.",
-          "mini_headline": "Zelnick cuts ad costs with AI",
+        "ko": {
+          "headline": "Ubisoft, AI 코딩\n에이전트 4,000+명에",
+          "body": "Ubisoft는 Unity Gateway로 4,000+명에게 AI 에이전트를 줬다.",
+          "mini_headline": "Ubisoft AI 에이전트 4,000+명",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019570_173609_5044.jpg",
-                "cap": "Take-Two Interactive CEO Strauss Zelnick answers a question about piracy at a WSJ tech talk /WSJ YouTube"
+                "src": "https://www.databricks.com/sites/default/files/2026-11/customer-story-ubisoft-still-image-2x.jpg?v=1793893844"
               },
               {
                 "t": "p",
-                "x": "Strauss Zelnick, chief executive officer (CEO) of Take-Two Interactive, which publishes 'GTA6', shared his views on artificial intelligence (AI) and piracy ahead of the launch. He also described a case in which a mobile game ad shot with human actors cost 2만5000~5만 dollars per spot, while making it with AI cost about 800 dollars."
+                "x": "Ubisoft의 AI 코딩 에이전트 도입은 현장에서 먼저 시작됐다. 여러 팀이 Claude Code, GitHub Copilot 등 다양한 도구를 시험했고 Ubisoft는 Claude Code 트래픽의 게이트웨이로 LiteLLM을 썼다. CEO가 후원하는(CEO-sponsored) 사업으로 도입이 빨라지자 개발자 수천 명을 온보딩하고 게이트웨이 성능을 관리하기가 점점 버거워졌다."
               },
               {
                 "t": "p",
-                "x": "Zelnick took the stage for a talk at 'WSJ Tech California', an event hosted by the U.S. newspaper The Wall Street Journal (WSJ). On the 4th (local time), the WSJ released the full 23-minute video of the talk on its official YouTube channel, 'WSJ Events'."
+                "x": "이미 Databricks를 쓰던 Ubisoft는 Databricks Unity Gateway로 눈을 돌렸다. 엔드포인트 하나로 Anthropic, OpenAI와 DeepSeek, Kimi, GLM, Qwen 같은 오픈 모델에 모두 쓸 수 있다. 개발자는 새 모델이 나오면 보통 24–48시간 안에 전체 접근 권한을 받는다."
               },
               {
                 "t": "p",
-                "x": "As an example of AI use, Zelnick brought up a studio in Türkiye. The studio hired a local agency to shoot 30-second live-action ads for a mobile game with actors, at a production cost of 2만5000~5만 dollars per spot. The 30-second and 60-second ads it made as a test with off-the-shelf AI software looked like live-action ads featuring people, but cost about 800 dollars each. \"You can make many of them very cheaply and test them,\" he said, calling it \"pretty remarkable.\" He drew a line, however: \"This is a marketing story, not a development story.\""
+                "x": "맞춤형 설치 프로그램이 개인 액세스 토큰 생성, Unity Gateway 연결, 코딩 에이전트 설정을 자동으로 처리한다. Ubisoft의 활성 사용자는 3월 약 200명에서 8월 4,000명 이상으로 다섯 달 만에 20배 늘었다. 목표는 게임 제작 전반의 개발자 5,000명이다."
               },
               {
                 "t": "p",
-                "x": "He was guarded about AI in development. \"Consumers' position is that they don't want something called AI in their games,\" Zelnick said, adding, \"GTA is handcrafted.\" Still, he said there are hundreds of projects inside Take-Two testing new technology. Asked about the impact, he replied, \"The savings have been relatively small given our cost structure.\""
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019570_173610_5056.jpg",
-                "cap": "Zelnick fielded questions on GTA6 development costs, release delays, AI and piracy on stage at 'WSJ Tech California' /WSJ YouTube"
-              },
-              {
-                "t": "p",
-                "x": "When the host cited a case of a PS4 game recreated in Roblox with AI tools and asked about piracy, Zelnick answered, \"Piracy is a fact of life.\" If the problem grows, he said, the company will respond both legally and technically."
-              },
-              {
-                "t": "p",
-                "x": "GTA6 launches on November 19 for PS5 and Xbox Series X|S. Rockstar Games starts pre-downloads on the 10th."
+                "x": "사용량이 늘자 AI 지출도 158% 뛰었다. Unity Gateway는 요청마다 보낸 사용자의 신원을 남긴다. Ubisoft는 이 데이터를 Databricks AI/BI Dashboards, 맞춤 알림, 계획 중인 팀 단위 예산·차지백과 엮어 AI 비용을 추적하고 나눈다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "テイクツーのゼルニックCEO\nAI広告一本800ドル",
-          "body": "ゼルニック氏は、最大5万ドルかかった広告をAIで約800ドルで作れたと述べた。",
-          "mini_headline": "ゼルニック、AIで広告費削減",
+          "headline": "UbisoftがAIを\n開発者4,000+人に展開",
+          "body": "UbisoftはUnity Gatewayで4,000+人にAIエージェントを提供した。",
+          "mini_headline": "UbisoftのAIエージェント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019570_173609_5044.jpg",
-                "cap": "WSJのテック対談で海賊版に関する質問に答えるテイクツー・インタラクティブのストラウス・ゼルニックCEO /WSJ YouTube"
+                "src": "https://www.databricks.com/sites/default/files/2026-11/customer-story-ubisoft-still-image-2x.jpg?v=1793893844"
               },
               {
                 "t": "p",
-                "x": "『GTA6』を販売するテイクツー・インタラクティブのストラウス・ゼルニック最高経営責任者（CEO）が、発売を前に人工知能（AI）と海賊版についての考えを語った。人間の俳優を使って撮影していたモバイルゲーム広告は一本2万5000～5万ドルかかっていたが、AIで作ると約800ドルで済んだという事例も自ら紹介した。"
+                "x": "UbisoftでのAIコーディングエージェントの導入は現場から始まった。各チームがClaude CodeやGitHub Copilotなどのツールを試し、UbisoftはClaude Codeのトラフィック用ゲートウェイとしてLiteLLMを使っていた。CEO主導（CEO-sponsored）の取り組みで導入が加速すると、数千人の開発者のオンボーディングとゲートウェイの性能管理は次第に難しくなった。"
               },
               {
                 "t": "p",
-                "x": "ゼルニックCEOは、米ウォール・ストリート・ジャーナル（WSJ）が開いたイベント『WSJテック・カリフォルニア』の対談に登壇した。WSJは4日（現地時間）、23分間の対談の全編映像を公式YouTubeチャンネル『WSJイベンツ』で公開した。"
+                "x": "すでにDatabricksを利用していたUbisoftは、Databricks Unity Gatewayに目を向けた。共通のエンドポイントを通じてAnthropic、OpenAI、さらにDeepSeek、Kimi、GLM、Qwenといったオープンモデルにアクセスでき、開発者は通常、新しいモデルの公開から24–48時間以内にフルアクセスを得られる。"
               },
               {
                 "t": "p",
-                "x": "ゼルニックCEOはAI活用の例として、トルコのスタジオの話を持ち出した。このスタジオはモバイルゲーム用の30秒の実写広告を現地の代理店に任せ、俳優を起用して撮影しており、制作費は一本2万5000～5万ドルだった。試しに市販のAIソフトウェアで作った30秒・60秒の広告は、人が出演する実写広告のように見えたが、一本あたり約800ドルだった。彼は「非常に安く何本も作ってテストできる」とし、「かなり驚くべきことだ」と述べた。ただし「開発ではなくマーケティングの話だ」と一線を引いた。"
+                "x": "カスタムインストーラーが個人アクセストークンの作成、Unity Gatewayへの接続、コーディングエージェントの設定を自動化する。Ubisoftのアクティブユーザーは3月の約200人から8月には4,000人超へと五か月で20倍に増え、ゲーム制作全体で5,000人の開発者を目標にしている。"
               },
               {
                 "t": "p",
-                "x": "開発に使うAIについては多くを語らなかった。ゼルニックCEOは「消費者はAIと呼ばれるものがゲームに入ることを望まないという立場だ」とし、「GTAは手作業で作る（handcrafted）」と述べた。一方で、テイクツー社内で新技術を試すプロジェクトは数百件あると明かした。効果については「当社のコスト構造では削減効果は比較的小さかった」と答えた。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019570_173610_5056.jpg",
-                "cap": "ゼルニックCEOは『WSJテック・カリフォルニア』の壇上で、GTA6の開発費、発売延期、AI、海賊版について質問を受けた /WSJ YouTube"
-              },
-              {
-                "t": "p",
-                "x": "司会者がAIツールでPS4のゲームをRobloxで再現した事例を挙げて海賊版について尋ねると、ゼルニックCEOは「海賊版は人生の一部（a fact of life）だ」と答えた。問題が大きくなれば、法的対応と技術的対応の両方を取るとした。"
-              },
-              {
-                "t": "p",
-                "x": "GTA6は11月19日にPS5とXbox Series X|S向けに発売される。ロックスター・ゲームスは10日から事前ダウンロードを開始する。"
+                "x": "利用の拡大に伴い、AI支出は158%増加した。Unity Gatewayは各リクエストの背後にある身元情報を保持しており、UbisoftはそのデータをDatabricks AI/BI Dashboards、カスタムアラート、計画中のチーム単位の予算とチャージバックと組み合わせ、AIコストを追跡・配分している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Take-Two CEO\nAI广告每支800美元",
-          "body": "泽尔尼克称，原本最高需5万美元的广告，用AI制作仅约800美元。",
-          "mini_headline": "泽尔尼克：AI降低广告成本",
+          "headline": "Ubisoft为4,000+\n开发者配备AI编程智能体",
+          "body": "Ubisoft通过Unity Gateway为4,000+名开发者提供了AI编程智能体。",
+          "mini_headline": "Ubisoft的AI编程智能体",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019570_173609_5044.jpg",
-                "cap": "Take-Two Interactive首席执行官斯特劳斯·泽尔尼克在WSJ科技对谈中回答有关盗版的问题 /WSJ YouTube"
+                "src": "https://www.databricks.com/sites/default/files/2026-11/customer-story-ubisoft-still-image-2x.jpg?v=1793893844"
               },
               {
                 "t": "p",
-                "x": "发行《GTA6》的Take-Two Interactive首席执行官（CEO）斯特劳斯·泽尔尼克在游戏发售前谈了他对人工智能（AI）和盗版的看法。他还亲自介绍了一个案例：用真人演员拍摄的手游广告每支要2万5000~5万美元，而用AI制作只花了约800美元。"
+                "x": "Ubisoft的AI编程智能体是自下而上发展起来的：各团队试用了Claude Code、GitHub Copilot等工具，Ubisoft则用LiteLLM作为Claude Code流量的网关。随着一项CEO-sponsored（由CEO支持）的计划加速推广，为数千名开发者完成接入以及管理网关性能变得越来越困难。"
               },
               {
                 "t": "p",
-                "x": "泽尔尼克CEO登上了美国《华尔街日报》（WSJ）举办的“WSJ Tech California”对谈舞台。WSJ于4日（当地时间）在官方YouTube频道“WSJ Events”上公开了23分钟的对谈完整视频。"
+                "x": "已在使用Databricks的Ubisoft转向了Databricks Unity Gateway。它通过统一端点提供对Anthropic、OpenAI以及DeepSeek、Kimi、GLM、Qwen等开放模型的访问，开发者通常能在新模型发布后24–48小时内获得完整访问权限。"
               },
               {
                 "t": "p",
-                "x": "泽尔尼克CEO以一家土耳其工作室为例谈AI的应用。这家工作室将手游用的30秒真人广告交给当地代理商，请演员拍摄，每支制作费为2万5000~5万美元。试着用市售AI软件制作的30秒和60秒广告看起来就像真人出镜的实拍广告，但每支只花了约800美元。他说“可以非常便宜地做很多支来测试”，“相当惊人”。不过他也划清了界限：“这是营销的事，不是开发的事。”"
+                "x": "一个定制安装程序可自动完成个人访问令牌创建、Unity Gateway连接和编程智能体配置。Ubisoft的活跃用户从3月的约200人增长到8月的4,000多人，五个月增长20倍，目标是覆盖整个游戏制作环节的5,000名开发者。"
               },
               {
                 "t": "p",
-                "x": "对于开发中使用AI，他则言辞谨慎。泽尔尼克CEO说：“消费者的立场是不希望被称为AI的东西进入游戏”，“GTA是手工打造的（handcrafted）”。不过他也透露，Take-Two内部测试新技术的项目有数百个。至于效果，他回答：“在我们的成本结构中，节省效果相对较小。”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019570_173610_5056.jpg",
-                "cap": "泽尔尼克CEO在“WSJ Tech California”台上被问及GTA6开发费用、发售延期、AI和盗版等问题 /WSJ YouTube"
-              },
-              {
-                "t": "p",
-                "x": "主持人举出有人用AI工具在Roblox上复刻PS4游戏的例子询问盗版问题，泽尔尼克CEO回答：“盗版是生活的一部分（a fact of life）。”他表示，如果问题扩大，将同时采取法律和技术手段应对。"
-              },
-              {
-                "t": "p",
-                "x": "GTA6将于11月19日登陆PS5和Xbox Series X|S。Rockstar Games将从10日起开放预下载。"
+                "x": "随着使用量增长，AI支出增加了158%。Unity Gateway会保留每个请求背后的身份信息，Ubisoft将这些数据与Databricks AI/BI Dashboards、自定义警报以及计划中的团队级预算和成本分摊结合，用于追踪和分配AI成本。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Zelnick, CEO de Take-Two\nanuncios con AI a 800 dólares",
-          "body": "Zelnick dijo que un anuncio que costaba hasta 5만 dólares se hizo con AI por unos 800 dólares.",
-          "mini_headline": "Zelnick reduce costos de anuncios con AI",
+          "headline": "Ubisoft lleva agentes de AI\na más de 4,000 desarrolladores",
+          "body": "Ubisoft dio agentes de AI a más de 4,000 desarrolladores con Unity Gateway, de Databricks (no Unity Technologies).",
+          "mini_headline": "Agentes de AI de Ubisoft para más de 4,000",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019570_173609_5044.jpg",
-                "cap": "Strauss Zelnick, CEO de Take-Two Interactive, responde a una pregunta sobre piratería en una charla tecnológica del WSJ /WSJ YouTube"
+                "src": "https://www.databricks.com/sites/default/files/2026-11/customer-story-ubisoft-still-image-2x.jpg?v=1793893844"
               },
               {
                 "t": "p",
-                "x": "Strauss Zelnick, director ejecutivo (CEO) de Take-Two Interactive, que distribuye 'GTA6', expuso antes del lanzamiento su opinión sobre la inteligencia artificial (AI) y la piratería. También contó un caso en el que un anuncio de juego móvil rodado con actores costaba 2만5000~5만 dólares por pieza, mientras que hacerlo con AI costó unos 800 dólares."
+                "x": "Los agentes de programación con AI llegaron a Ubisoft desde abajo: los equipos experimentaron con Claude Code, GitHub Copilot y otras herramientas, mientras Ubisoft usaba LiteLLM como gateway para el tráfico de Claude Code. A medida que la adopción se aceleraba con una iniciativa CEO-sponsored (patrocinada por el CEO), incorporar a miles de desarrolladores y gestionar el rendimiento del gateway se volvió cada vez más difícil."
               },
               {
                 "t": "p",
-                "x": "Zelnick participó en una charla del evento 'WSJ Tech California', organizado por el diario estadounidense The Wall Street Journal (WSJ). El día 4 (hora local), el WSJ publicó el video completo de 23 minutos de la charla en su canal oficial de YouTube, 'WSJ Events'."
+                "x": "Como ya usaba Databricks, Ubisoft recurrió a Databricks Unity Gateway. A través de un endpoint común da acceso a Anthropic, OpenAI y modelos abiertos como DeepSeek, Kimi, GLM y Qwen, y los desarrolladores suelen obtener acceso completo a los modelos recién lanzados en un plazo de 24–48 horas."
               },
               {
                 "t": "p",
-                "x": "Como ejemplo de uso de AI, Zelnick habló de un estudio de Türkiye. El estudio encargó a una agencia local anuncios de acción real de 30 segundos para un juego móvil, rodados con actores, con un costo de producción de 2만5000~5만 dólares por pieza. Los anuncios de 30 y 60 segundos que hizo a modo de prueba con software comercial de AI parecían anuncios de acción real con personas, pero costaron unos 800 dólares cada uno. «Se pueden hacer muchos muy baratos y probarlos», dijo, y lo calificó de «bastante sorprendente». Sin embargo, marcó un límite: «Es una historia de marketing, no de desarrollo»."
+                "x": "Un instalador personalizado automatiza la creación de tokens de acceso personal, la conexión con Unity Gateway y la configuración de los agentes de programación. Ubisoft pasó de unos 200 usuarios activos en marzo a más de 4,000 en agosto, un aumento de 20 veces en cinco meses, y apunta a 5,000 desarrolladores en toda la producción de juegos."
               },
               {
                 "t": "p",
-                "x": "Sobre la AI en el desarrollo fue más reservado. «La postura de los consumidores es que no quieren que algo llamado AI entre en los juegos», dijo Zelnick, y añadió: «GTA se hace a mano (handcrafted)». Aun así, reveló que dentro de Take-Two hay cientos de proyectos que prueban nuevas tecnologías. Sobre los resultados, respondió: «En nuestra estructura de costos, el ahorro ha sido relativamente pequeño»."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019570_173610_5056.jpg",
-                "cap": "Zelnick respondió en el escenario de 'WSJ Tech California' preguntas sobre los costos de desarrollo de GTA6, el retraso del lanzamiento, la AI y la piratería /WSJ YouTube"
-              },
-              {
-                "t": "p",
-                "x": "Cuando el presentador citó el caso de un juego de PS4 recreado en Roblox con herramientas de AI y le preguntó por la piratería, Zelnick respondió: «La piratería es parte de la vida (a fact of life)». Dijo que, si el problema crece, responderán tanto por la vía legal como por la técnica."
-              },
-              {
-                "t": "p",
-                "x": "GTA6 sale el 19 de noviembre para PS5 y Xbox Series X|S. Rockstar Games abrirá la predescarga a partir del día 10."
+                "x": "Con el aumento del uso, el gasto en AI creció un 158%. Unity Gateway conserva la identidad detrás de cada solicitud, y Ubisoft combina esos datos con Databricks AI/BI Dashboards, alertas personalizadas y presupuestos por equipo y chargeback previstos para rastrear y asignar los costos de AI."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Take-Two CEO Zelnick\nAI ads for $800 apiece",
-          "body": "Zelnick said AI made an ad for about $800 that once cost up to 5만 dollars.",
-          "mini_headline": "Zelnick cuts ad costs with AI",
+        "ko": {
+          "headline": "Ubisoft, AI 코딩\n에이전트 4,000+명에",
+          "body": "Ubisoft는 Unity Gateway로 4,000+명에 AI에이전트를 제공했다.",
+          "mini_headline": "Ubisoft AI 에이전트 4,000+명",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019570_173609_5044.jpg",
-                "cap": "Take-Two Interactive CEO Strauss Zelnick answers a question about piracy at a WSJ tech talk /WSJ YouTube"
+                "src": "https://www.databricks.com/sites/default/files/2026-11/customer-story-ubisoft-still-image-2x.jpg?v=1793893844"
               },
               {
                 "t": "p",
-                "x": "Strauss Zelnick, chief executive officer (CEO) of Take-Two Interactive, which publishes 'GTA6', shared his views on artificial intelligence (AI) and piracy ahead of the launch. He also described a case in which a mobile game ad shot with human actors cost 2만5000~5만 dollars per spot, while making it with AI cost about 800 dollars."
+                "x": "Ubisoft의 AI 코딩 에이전트 도입은 현장에서 먼저 시작됐다. 여러 팀이 Claude Code, GitHub Copilot 등 다양한 도구를 시험했고, Ubisoft는 Claude Code 트래픽의 게이트웨이로 LiteLLM을 썼다. CEO가 후원하는(CEO-sponsored) 이니셔티브로 도입이 빨라지자 수천 명의 개발자를 온보딩하고 게이트웨이 성능을 관리하는 일이 점점 어려워졌다."
               },
               {
                 "t": "p",
-                "x": "Zelnick took the stage for a talk at 'WSJ Tech California', an event hosted by the U.S. newspaper The Wall Street Journal (WSJ). On the 4th (local time), the WSJ released the full 23-minute video of the talk on its official YouTube channel, 'WSJ Events'."
+                "x": "이미 Databricks를 쓰던 Ubisoft는 Databricks Unity Gateway로 눈을 돌렸다. 공통 엔드포인트 하나로 Anthropic, OpenAI와 DeepSeek, Kimi, GLM, Qwen 같은 오픈 모델에 접근할 수 있고, 개발자들은 보통 새 모델이 나온 뒤 24–48시간 안에 전체 접근 권한을 얻는다."
               },
               {
                 "t": "p",
-                "x": "As an example of AI use, Zelnick brought up a studio in Türkiye. The studio hired a local agency to shoot 30-second live-action ads for a mobile game with actors, at a production cost of 2만5000~5만 dollars per spot. The 30-second and 60-second ads it made as a test with off-the-shelf AI software looked like live-action ads featuring people, but cost about 800 dollars each. \"You can make many of them very cheaply and test them,\" he said, calling it \"pretty remarkable.\" He drew a line, however: \"This is a marketing story, not a development story.\""
+                "x": "맞춤형 설치 프로그램이 개인 액세스 토큰 생성, Unity Gateway 연결, 코딩 에이전트 설정을 자동으로 처리한다. Ubisoft의 활성 사용자는 3월 약 200명에서 8월 4,000명 이상으로 다섯 달 만에 20배 늘었고, 게임 제작 전반에서 개발자 5,000명을 목표로 하고 있다."
               },
               {
                 "t": "p",
-                "x": "He was guarded about AI in development. \"Consumers' position is that they don't want something called AI in their games,\" Zelnick said, adding, \"GTA is handcrafted.\" Still, he said there are hundreds of projects inside Take-Two testing new technology. Asked about the impact, he replied, \"The savings have been relatively small given our cost structure.\""
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019570_173610_5056.jpg",
-                "cap": "Zelnick fielded questions on GTA6 development costs, release delays, AI and piracy on stage at 'WSJ Tech California' /WSJ YouTube"
-              },
-              {
-                "t": "p",
-                "x": "When the host cited a case of a PS4 game recreated in Roblox with AI tools and asked about piracy, Zelnick answered, \"Piracy is a fact of life.\" If the problem grows, he said, the company will respond both legally and technically."
-              },
-              {
-                "t": "p",
-                "x": "GTA6 launches on November 19 for PS5 and Xbox Series X|S. Rockstar Games starts pre-downloads on the 10th."
+                "x": "사용량이 늘면서 AI 지출은 158% 증가했다. Unity Gateway는 요청마다 그 뒤의 사용자 신원을 보존하며, Ubisoft는 이 데이터를 Databricks AI/BI Dashboards, 맞춤 알림, 계획 중인 팀 단위 예산·차지백과 결합해 AI 비용을 추적하고 배분한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "テイクツーのゼルニックCEO\nAI広告一本800ドル",
-          "body": "ゼルニック氏は、最大5万ドルかかった広告をAIで約800ドルで作れたと述べた。",
-          "mini_headline": "ゼルニック、AIで広告費削減",
+          "headline": "UbisoftがAIを\n開発者4,000+人に展開",
+          "body": "UbisoftはUnity Gatewayで4,000+人にAIエージェントを提供した。",
+          "mini_headline": "UbisoftのAIエージェント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019570_173609_5044.jpg",
-                "cap": "WSJのテック対談で海賊版に関する質問に答えるテイクツー・インタラクティブのストラウス・ゼルニックCEO /WSJ YouTube"
+                "src": "https://www.databricks.com/sites/default/files/2026-11/customer-story-ubisoft-still-image-2x.jpg?v=1793893844"
               },
               {
                 "t": "p",
-                "x": "『GTA6』を販売するテイクツー・インタラクティブのストラウス・ゼルニック最高経営責任者（CEO）が、発売を前に人工知能（AI）と海賊版についての考えを語った。人間の俳優を使って撮影していたモバイルゲーム広告は一本2万5000～5万ドルかかっていたが、AIで作ると約800ドルで済んだという事例も自ら紹介した。"
+                "x": "UbisoftでのAIコーディングエージェントの導入は現場から始まった。各チームがClaude CodeやGitHub Copilotなどのツールを試し、UbisoftはClaude Codeのトラフィック用ゲートウェイとしてLiteLLMを使っていた。CEO主導（CEO-sponsored）の取り組みで導入が加速すると、数千人の開発者のオンボーディングとゲートウェイの性能管理は次第に難しくなった。"
               },
               {
                 "t": "p",
-                "x": "ゼルニックCEOは、米ウォール・ストリート・ジャーナル（WSJ）が開いたイベント『WSJテック・カリフォルニア』の対談に登壇した。WSJは4日（現地時間）、23分間の対談の全編映像を公式YouTubeチャンネル『WSJイベンツ』で公開した。"
+                "x": "すでにDatabricksを利用していたUbisoftは、Databricks Unity Gatewayに目を向けた。共通のエンドポイントを通じてAnthropic、OpenAI、さらにDeepSeek、Kimi、GLM、Qwenといったオープンモデルにアクセスでき、開発者は通常、新しいモデルの公開から24–48時間以内にフルアクセスを得られる。"
               },
               {
                 "t": "p",
-                "x": "ゼルニックCEOはAI活用の例として、トルコのスタジオの話を持ち出した。このスタジオはモバイルゲーム用の30秒の実写広告を現地の代理店に任せ、俳優を起用して撮影しており、制作費は一本2万5000～5万ドルだった。試しに市販のAIソフトウェアで作った30秒・60秒の広告は、人が出演する実写広告のように見えたが、一本あたり約800ドルだった。彼は「非常に安く何本も作ってテストできる」とし、「かなり驚くべきことだ」と述べた。ただし「開発ではなくマーケティングの話だ」と一線を引いた。"
+                "x": "カスタムインストーラーが個人アクセストークンの作成、Unity Gatewayへの接続、コーディングエージェントの設定を自動化する。Ubisoftのアクティブユーザーは3月の約200人から8月には4,000人超へと五か月で20倍に増え、ゲーム制作全体で5,000人の開発者を目標にしている。"
               },
               {
                 "t": "p",
-                "x": "開発に使うAIについては多くを語らなかった。ゼルニックCEOは「消費者はAIと呼ばれるものがゲームに入ることを望まないという立場だ」とし、「GTAは手作業で作る（handcrafted）」と述べた。一方で、テイクツー社内で新技術を試すプロジェクトは数百件あると明かした。効果については「当社のコスト構造では削減効果は比較的小さかった」と答えた。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019570_173610_5056.jpg",
-                "cap": "ゼルニックCEOは『WSJテック・カリフォルニア』の壇上で、GTA6の開発費、発売延期、AI、海賊版について質問を受けた /WSJ YouTube"
-              },
-              {
-                "t": "p",
-                "x": "司会者がAIツールでPS4のゲームをRobloxで再現した事例を挙げて海賊版について尋ねると、ゼルニックCEOは「海賊版は人生の一部（a fact of life）だ」と答えた。問題が大きくなれば、法的対応と技術的対応の両方を取るとした。"
-              },
-              {
-                "t": "p",
-                "x": "GTA6は11月19日にPS5とXbox Series X|S向けに発売される。ロックスター・ゲームスは10日から事前ダウンロードを開始する。"
+                "x": "利用の拡大に伴い、AI支出は158%増加した。Unity Gatewayは各リクエストの背後にある身元情報を保持しており、UbisoftはそのデータをDatabricks AI/BI Dashboards、カスタムアラート、計画中のチーム単位の予算とチャージバックと組み合わせ、AIコストを追跡・配分している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Take-Two CEO\nAI广告每支800美元",
-          "body": "泽尔尼克称，原本最高需5万美元的广告，用AI制作仅约800美元。",
-          "mini_headline": "泽尔尼克：AI降低广告成本",
+          "headline": "Ubisoft为4,000+\n开发者配备AI编程智能体",
+          "body": "Ubisoft通过Unity Gateway为4,000+名开发者提供了AI编程智能体。",
+          "mini_headline": "Ubisoft的AI编程智能体",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019570_173609_5044.jpg",
-                "cap": "Take-Two Interactive首席执行官斯特劳斯·泽尔尼克在WSJ科技对谈中回答有关盗版的问题 /WSJ YouTube"
+                "src": "https://www.databricks.com/sites/default/files/2026-11/customer-story-ubisoft-still-image-2x.jpg?v=1793893844"
               },
               {
                 "t": "p",
-                "x": "发行《GTA6》的Take-Two Interactive首席执行官（CEO）斯特劳斯·泽尔尼克在游戏发售前谈了他对人工智能（AI）和盗版的看法。他还亲自介绍了一个案例：用真人演员拍摄的手游广告每支要2万5000~5万美元，而用AI制作只花了约800美元。"
+                "x": "Ubisoft的AI编程智能体是自下而上发展起来的：各团队试用了Claude Code、GitHub Copilot等工具，Ubisoft则用LiteLLM作为Claude Code流量的网关。随着一项CEO-sponsored（由CEO支持）的计划加速推广，为数千名开发者完成接入以及管理网关性能变得越来越困难。"
               },
               {
                 "t": "p",
-                "x": "泽尔尼克CEO登上了美国《华尔街日报》（WSJ）举办的“WSJ Tech California”对谈舞台。WSJ于4日（当地时间）在官方YouTube频道“WSJ Events”上公开了23分钟的对谈完整视频。"
+                "x": "已在使用Databricks的Ubisoft转向了Databricks Unity Gateway。它通过统一端点提供对Anthropic、OpenAI以及DeepSeek、Kimi、GLM、Qwen等开放模型的访问，开发者通常能在新模型发布后24–48小时内获得完整访问权限。"
               },
               {
                 "t": "p",
-                "x": "泽尔尼克CEO以一家土耳其工作室为例谈AI的应用。这家工作室将手游用的30秒真人广告交给当地代理商，请演员拍摄，每支制作费为2万5000~5万美元。试着用市售AI软件制作的30秒和60秒广告看起来就像真人出镜的实拍广告，但每支只花了约800美元。他说“可以非常便宜地做很多支来测试”，“相当惊人”。不过他也划清了界限：“这是营销的事，不是开发的事。”"
+                "x": "一个定制安装程序可自动完成个人访问令牌创建、Unity Gateway连接和编程智能体配置。Ubisoft的活跃用户从3月的约200人增长到8月的4,000多人，五个月增长20倍，目标是覆盖整个游戏制作环节的5,000名开发者。"
               },
               {
                 "t": "p",
-                "x": "对于开发中使用AI，他则言辞谨慎。泽尔尼克CEO说：“消费者的立场是不希望被称为AI的东西进入游戏”，“GTA是手工打造的（handcrafted）”。不过他也透露，Take-Two内部测试新技术的项目有数百个。至于效果，他回答：“在我们的成本结构中，节省效果相对较小。”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019570_173610_5056.jpg",
-                "cap": "泽尔尼克CEO在“WSJ Tech California”台上被问及GTA6开发费用、发售延期、AI和盗版等问题 /WSJ YouTube"
-              },
-              {
-                "t": "p",
-                "x": "主持人举出有人用AI工具在Roblox上复刻PS4游戏的例子询问盗版问题，泽尔尼克CEO回答：“盗版是生活的一部分（a fact of life）。”他表示，如果问题扩大，将同时采取法律和技术手段应对。"
-              },
-              {
-                "t": "p",
-                "x": "GTA6将于11月19日登陆PS5和Xbox Series X|S。Rockstar Games将从10日起开放预下载。"
+                "x": "随着使用量增长，AI支出增加了158%。Unity Gateway会保留每个请求背后的身份信息，Ubisoft将这些数据与Databricks AI/BI Dashboards、自定义警报以及计划中的团队级预算和成本分摊结合，用于追踪和分配AI成本。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Zelnick, CEO de Take-Two\nanuncios con AI a 800 dólares",
-          "body": "Zelnick dijo que un anuncio que costaba hasta 5만 dólares se hizo con AI por unos 800 dólares.",
-          "mini_headline": "Zelnick reduce costos de anuncios con AI",
+          "headline": "Ubisoft lleva agentes de AI\na más de 4,000 desarrolladores",
+          "body": "Ubisoft dio agentes de AI a más de 4,000 desarrolladores con Unity Gateway, de Databricks (no Unity Technologies).",
+          "mini_headline": "Agentes de AI de Ubisoft para más de 4,000",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019570_173609_5044.jpg",
-                "cap": "Strauss Zelnick, CEO de Take-Two Interactive, responde a una pregunta sobre piratería en una charla tecnológica del WSJ /WSJ YouTube"
+                "src": "https://www.databricks.com/sites/default/files/2026-11/customer-story-ubisoft-still-image-2x.jpg?v=1793893844"
               },
               {
                 "t": "p",
-                "x": "Strauss Zelnick, director ejecutivo (CEO) de Take-Two Interactive, que distribuye 'GTA6', expuso antes del lanzamiento su opinión sobre la inteligencia artificial (AI) y la piratería. También contó un caso en el que un anuncio de juego móvil rodado con actores costaba 2만5000~5만 dólares por pieza, mientras que hacerlo con AI costó unos 800 dólares."
+                "x": "Los agentes de programación con AI llegaron a Ubisoft desde abajo: los equipos experimentaron con Claude Code, GitHub Copilot y otras herramientas, mientras Ubisoft usaba LiteLLM como gateway para el tráfico de Claude Code. A medida que la adopción se aceleraba con una iniciativa CEO-sponsored (patrocinada por el CEO), incorporar a miles de desarrolladores y gestionar el rendimiento del gateway se volvió cada vez más difícil."
               },
               {
                 "t": "p",
-                "x": "Zelnick participó en una charla del evento 'WSJ Tech California', organizado por el diario estadounidense The Wall Street Journal (WSJ). El día 4 (hora local), el WSJ publicó el video completo de 23 minutos de la charla en su canal oficial de YouTube, 'WSJ Events'."
+                "x": "Como ya usaba Databricks, Ubisoft recurrió a Databricks Unity Gateway. A través de un endpoint común da acceso a Anthropic, OpenAI y modelos abiertos como DeepSeek, Kimi, GLM y Qwen, y los desarrolladores suelen obtener acceso completo a los modelos recién lanzados en un plazo de 24–48 horas."
               },
               {
                 "t": "p",
-                "x": "Como ejemplo de uso de AI, Zelnick habló de un estudio de Türkiye. El estudio encargó a una agencia local anuncios de acción real de 30 segundos para un juego móvil, rodados con actores, con un costo de producción de 2만5000~5만 dólares por pieza. Los anuncios de 30 y 60 segundos que hizo a modo de prueba con software comercial de AI parecían anuncios de acción real con personas, pero costaron unos 800 dólares cada uno. «Se pueden hacer muchos muy baratos y probarlos», dijo, y lo calificó de «bastante sorprendente». Sin embargo, marcó un límite: «Es una historia de marketing, no de desarrollo»."
+                "x": "Un instalador personalizado automatiza la creación de tokens de acceso personal, la conexión con Unity Gateway y la configuración de los agentes de programación. Ubisoft pasó de unos 200 usuarios activos en marzo a más de 4,000 en agosto, un aumento de 20 veces en cinco meses, y apunta a 5,000 desarrolladores en toda la producción de juegos."
               },
               {
                 "t": "p",
-                "x": "Sobre la AI en el desarrollo fue más reservado. «La postura de los consumidores es que no quieren que algo llamado AI entre en los juegos», dijo Zelnick, y añadió: «GTA se hace a mano (handcrafted)». Aun así, reveló que dentro de Take-Two hay cientos de proyectos que prueban nuevas tecnologías. Sobre los resultados, respondió: «En nuestra estructura de costos, el ahorro ha sido relativamente pequeño»."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019570_173610_5056.jpg",
-                "cap": "Zelnick respondió en el escenario de 'WSJ Tech California' preguntas sobre los costos de desarrollo de GTA6, el retraso del lanzamiento, la AI y la piratería /WSJ YouTube"
-              },
-              {
-                "t": "p",
-                "x": "Cuando el presentador citó el caso de un juego de PS4 recreado en Roblox con herramientas de AI y le preguntó por la piratería, Zelnick respondió: «La piratería es parte de la vida (a fact of life)». Dijo que, si el problema crece, responderán tanto por la vía legal como por la técnica."
-              },
-              {
-                "t": "p",
-                "x": "GTA6 sale el 19 de noviembre para PS5 y Xbox Series X|S. Rockstar Games abrirá la predescarga a partir del día 10."
+                "x": "Con el aumento del uso, el gasto en AI creció un 158%. Unity Gateway conserva la identidad detrás de cada solicitud, y Ubisoft combina esos datos con Databricks AI/BI Dashboards, alertas personalizadas y presupuestos por equipo y chargeback previstos para rastrear y asignar los costos de AI."
               }
             ]
           }
@@ -1079,297 +1079,249 @@
       }
     },
     {
-      "id": "goodmorning-teacher-fangame",
+      "id": "netmarble-13-titles-ai",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "20년 멈춘 팬게임\nAI로 개발 재개",
-      "body": "'굿모닝 티처' 팬게임이 AI 도움으로 20년 만에 재개돼 1.3.0까지 나왔다.",
-      "mini_headline": "굿모닝 티처 팬게임 재개",
+      "headline": "넷마블, 신작 13종\nAI로 개발 가속",
+      "body": "넷마블은 내년 신작 13종 개발에 기획부터 품질 검증까지 AI를 투입한다.",
+      "mini_headline": "넷마블\nAI 개발 가속",
       "tool": "Games",
-      "source": "게임메카",
-      "url": "https://www.gamemeca.com/view.php?gid=1783014",
+      "source": "뉴스핌",
+      "url": "https://www.newspim.com/news/view/20261106000585",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://cdn.gamemeca.com/data_center/346/717/20261105160857.webp",
-            "cap": "GMT 게임 프로젝트 시작 화면 (사진: 게임메카 촬영)"
+            "t": "p",
+            "x": "신작 출시 지연으로 실적이 악화된 넷마블이 인공지능(AI)을 활용한 개발·운영 체계로 내년 신작 13종 출시에 도전한다. 게임 기획부터 번역과 그래픽 제작, 품질 검증까지 반복 업무를 자동화해 개발 부담을 줄이고 출시 역량을 높이겠다는 전략이다."
           },
           {
             "t": "p",
-            "x": "1990년대 인기 학원 만화 굿모닝 티처를 바탕으로 한 팬게임 GMT 게임 프로젝트가 AI 기술의 도움을 받아 약 20년 만에 다시 개발되어 스승의 날 첫 빌드가 공개됐다."
-          },
-          {
-            "t": "p",
-            "x": "2000년대 초 팬게임 홈페이지를 열고 원작자에게 일러스트까지 받았지만, 프로젝트는 끝을 맺지 못한 채 약 20년 동안 멈춰 있었다. 그리고 올해 초, AI의 도움을 받아 다시 작업을 시작한 그는 지난 5월 15일 스승의 날 첫 빌드를 공개했고, 8월 1.0.0 정식 버전에 이어 11월에는 1.3.0 업데이트까지 내놓았다. 비공식·비상업 팬게임 'GMT 게임 프로젝트'를 만든 신준수 개발자의 이야기다."
-          },
-          {
-            "t": "video",
-            "yt": "b8tFuAjy3xg"
-          },
-          {
-            "t": "p",
-            "x": "2026년, AI 개발의 시대가 열렸다. 이때 신 개발자는 '시간이 없다'는 핑계를 댈 수 없다고 느꼈다. 이에 저장공간에 남아 있던 옛 홈페이지와 프로젝트 자료를 AI 에이전트에게 보여줬고, 완성할 수 있다는 답을 얻었다."
+            "x": "넷마블은 올해 하반기 출시를 예정했던 신작 3종을 모두 내년으로 연기했고, 3분기 영업이익은 전년 동기 대비 44.6% 감소했다. 일부 기술은 아직 개발 단계여서 실제 개발기간과 비용을 얼마나 줄일 수 있을지는 추가로 입증해야 한다."
           },
           {
             "t": "img",
-            "src": "https://cdn.gamemeca.com/data_center/346/719/20261105160858.webp",
-            "cap": "개발자가 오랜 기간 모아온 자료 (자료제공: 신준수 개발자)"
+            "src": "https://img.newspim.com/news/2026/06/12/2606121620382670.jpg",
+            "cap": "넷마블 구로 신사옥 지타워 전경. [사진=넷마블]"
           },
           {
             "t": "p",
-            "x": "GMT 게임 프로젝트는 박영민이 되어 일출고에서 3년을 보내는 육성 시뮬레이션이다. '도키메키 메모리얼'의 구조를 뼈대로, '프린세스 메이커 2'의 세밀한 능력치를 참고했다. 이벤트마다 CG와 AI로 만든 보컬곡 등 음악을 배치해 지루함을 줄였다."
+            "x": "김병규 넷마블 대표는 5일 3분기 컨퍼런스콜에서 \"넷마블은 개발뿐 아니라 게임 출시와 서비스 과정에서도 AI 네이티브 기반의 업무 환경을 구축하기 위해 노력하고 있다\"며 \"이러한 시스템을 기반으로 한 해에 10종 이상의 게임 출시가 가능하다고 판단했다\"고 밝혔다."
           },
           {
             "t": "p",
-            "x": "과거에는 사람들과의 협업을 이끌지 못했는데, 이번에는 AI의 도움으로 결과물을 냈다는 데서 오는 복잡한 마음이 있다고. 초기 버전 시나리오에는 AI가 자주 쓰는 표현이 곳곳에 남아 있었고, 이를 직접 읽으며 하나씩 고쳐 나갔다."
+            "x": "넷마블은 2025년 사내 AI 조직을 AI 전략실로 개편했고, 번역 및 원문 교정 AI 도구 '마블AI'와 AI 아트 생성 플랫폼 'ㅋㅋ아트젠' 등을 도입했다. 영어, 일본어 등 주요 언어는 성우가 녹음하지만 그외 언어들은 녹음에 AI를 활용한다. AI가 게임을 자동으로 플레이하며 밸런스와 재미 요소를 분석하는 기술도 개발 중이다."
+          },
+          {
+            "t": "img",
+            "src": "https://img.newspim.com/news/2026/11/06/2611061207127870.jpg",
+            "cap": "넷마블의 주요 인공지능 프로젝트 [사진= 넷마블]"
           },
           {
             "t": "p",
-            "x": "GMT 게임 프로젝트는 비공식·비상업 팬 프로젝트로 공개됐으며, 권리자가 요청하면 배포 중단까지 받아들이겠다는 원칙을 걸어 뒀다. AI로 만든 그림이 문제가 될 경우에는 함께 작업할 창작자를 모으는 방안도 생각하고 있다. 내년 스승의 날인 5월 15일을 마지막 기한으로 삼고, 게임을 다듬고 있다."
+            "x": "운영에서는 AI 기반 이상 감지 시스템으로 어뷰징과 비정상 행위에 대응하며, 'RF 온라인 넥스트'와 '뱀피르', 'SOL: enchant(솔: 인챈트)'에 적용됐다. 넷마블 관계자는 \"품질 검증 자동화 에이전트, 보고서 작성 에이전트 등 다양한 AI 에이전트를 연구 개발 중\"이라고 전했다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "20년 멈춘 팬게임\nAI로 개발 재개",
-          "body": "'굿모닝 티처' 팬게임이 AI 도움으로 20년 만에 재개돼 1.3.0까지 나왔다.",
-          "mini_headline": "굿모닝 티처 팬게임 재개",
+          "headline": "넷마블, 신작 13종\nAI로 개발 가속",
+          "body": "넷마블은 내년 신작 13종 개발에 기획부터 품질 검증까지 AI를 투입한다.",
+          "mini_headline": "넷마블\nAI 개발 가속",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/346/717/20261105160857.webp",
-                "cap": "GMT 게임 프로젝트 시작 화면 (사진: 게임메카 촬영)"
+                "t": "p",
+                "x": "신작 출시 지연으로 실적이 악화된 넷마블이 인공지능(AI)을 활용한 개발·운영 체계로 내년 신작 13종 출시에 도전한다. 게임 기획부터 번역과 그래픽 제작, 품질 검증까지 반복 업무를 자동화해 개발 부담을 줄이고 출시 역량을 높이겠다는 전략이다."
               },
               {
                 "t": "p",
-                "x": "1990년대 인기 학원 만화 굿모닝 티처를 바탕으로 한 팬게임 GMT 게임 프로젝트가 AI 기술의 도움을 받아 약 20년 만에 다시 개발되어 스승의 날 첫 빌드가 공개됐다."
-              },
-              {
-                "t": "p",
-                "x": "2000년대 초 팬게임 홈페이지를 열고 원작자에게 일러스트까지 받았지만, 프로젝트는 끝을 맺지 못한 채 약 20년 동안 멈춰 있었다. 그리고 올해 초, AI의 도움을 받아 다시 작업을 시작한 그는 지난 5월 15일 스승의 날 첫 빌드를 공개했고, 8월 1.0.0 정식 버전에 이어 11월에는 1.3.0 업데이트까지 내놓았다. 비공식·비상업 팬게임 'GMT 게임 프로젝트'를 만든 신준수 개발자의 이야기다."
-              },
-              {
-                "t": "video",
-                "yt": "b8tFuAjy3xg"
-              },
-              {
-                "t": "p",
-                "x": "2026년, AI 개발의 시대가 열렸다. 이때 신 개발자는 '시간이 없다'는 핑계를 댈 수 없다고 느꼈다. 이에 저장공간에 남아 있던 옛 홈페이지와 프로젝트 자료를 AI 에이전트에게 보여줬고, 완성할 수 있다는 답을 얻었다."
+                "x": "넷마블은 올해 하반기 출시를 예정했던 신작 3종을 모두 내년으로 연기했고, 3분기 영업이익은 전년 동기 대비 44.6% 감소했다. 일부 기술은 아직 개발 단계여서 실제 개발기간과 비용을 얼마나 줄일 수 있을지는 추가로 입증해야 한다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/346/719/20261105160858.webp",
-                "cap": "개발자가 오랜 기간 모아온 자료 (자료제공: 신준수 개발자)"
+                "src": "https://img.newspim.com/news/2026/06/12/2606121620382670.jpg",
+                "cap": "넷마블 구로 신사옥 지타워 전경. [사진=넷마블]"
               },
               {
                 "t": "p",
-                "x": "GMT 게임 프로젝트는 박영민이 되어 일출고에서 3년을 보내는 육성 시뮬레이션이다. '도키메키 메모리얼'의 구조를 뼈대로, '프린세스 메이커 2'의 세밀한 능력치를 참고했다. 이벤트마다 CG와 AI로 만든 보컬곡 등 음악을 배치해 지루함을 줄였다."
+                "x": "김병규 넷마블 대표는 5일 3분기 컨퍼런스콜에서 \"넷마블은 개발뿐 아니라 게임 출시와 서비스 과정에서도 AI 네이티브 기반의 업무 환경을 구축하기 위해 노력하고 있다\"며 \"이러한 시스템을 기반으로 한 해에 10종 이상의 게임 출시가 가능하다고 판단했다\"고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "과거에는 사람들과의 협업을 이끌지 못했는데, 이번에는 AI의 도움으로 결과물을 냈다는 데서 오는 복잡한 마음이 있다고. 초기 버전 시나리오에는 AI가 자주 쓰는 표현이 곳곳에 남아 있었고, 이를 직접 읽으며 하나씩 고쳐 나갔다."
+                "x": "넷마블은 2025년 사내 AI 조직을 AI 전략실로 개편했고, 번역 및 원문 교정 AI 도구 '마블AI'와 AI 아트 생성 플랫폼 'ㅋㅋ아트젠' 등을 도입했다. 영어, 일본어 등 주요 언어는 성우가 녹음하지만 그외 언어들은 녹음에 AI를 활용한다. AI가 게임을 자동으로 플레이하며 밸런스와 재미 요소를 분석하는 기술도 개발 중이다."
+              },
+              {
+                "t": "img",
+                "src": "https://img.newspim.com/news/2026/11/06/2611061207127870.jpg",
+                "cap": "넷마블의 주요 인공지능 프로젝트 [사진= 넷마블]"
               },
               {
                 "t": "p",
-                "x": "GMT 게임 프로젝트는 비공식·비상업 팬 프로젝트로 공개됐으며, 권리자가 요청하면 배포 중단까지 받아들이겠다는 원칙을 걸어 뒀다. AI로 만든 그림이 문제가 될 경우에는 함께 작업할 창작자를 모으는 방안도 생각하고 있다. 내년 스승의 날인 5월 15일을 마지막 기한으로 삼고, 게임을 다듬고 있다."
+                "x": "운영에서는 AI 기반 이상 감지 시스템으로 어뷰징과 비정상 행위에 대응하며, 'RF 온라인 넥스트'와 '뱀피르', 'SOL: enchant(솔: 인챈트)'에 적용됐다. 넷마블 관계자는 \"품질 검증 자동화 에이전트, 보고서 작성 에이전트 등 다양한 AI 에이전트를 연구 개발 중\"이라고 전했다."
               }
             ]
           }
         },
         "en": {
-          "headline": "A fan game paused 20 years\nresumes development with AI",
-          "body": "A 'Good Morning Teacher' fan game resumed with AI help after 20 years and has reached 1.3.0 so far.",
-          "mini_headline": "Good Morning Teacher fan game resumes",
+          "headline": "Netmarble taps AI to speed\ndevelopment of 13 new titles",
+          "body": "Netmarble will use AI from planning to quality assurance in developing 13 new titles next year.",
+          "mini_headline": "Netmarble's AI development push",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/346/717/20261105160857.webp",
-                "cap": "GMT Game Project title screen (Photo: Gamemeca)"
+                "t": "p",
+                "x": "Netmarble, whose earnings have worsened because of delays to new releases, is attempting to launch 13 new titles next year with a development and operations system built on artificial intelligence (AI). The strategy is to automate repetitive work from game planning to translation, graphics production and quality assurance, easing the development burden and raising its release capacity."
               },
               {
                 "t": "p",
-                "x": "GMT Game Project, a fan game based on the popular 1990s school manhwa Good Morning Teacher, has resumed development after about 20 years with the help of AI technology, and its first build was released on Teachers' Day."
-              },
-              {
-                "t": "p",
-                "x": "In the early 2000s he opened a fan game homepage and even received illustrations from the original creator, but the project was left unfinished and stalled for about 20 years. Early this year he restarted work with the help of AI, released the first build on Teachers' Day, May 15, and followed the official 1.0.0 version in August with the 1.3.0 update in November. This is the story of developer Shin Jun-soo, who made the unofficial, non-commercial fan game 'GMT Game Project'."
-              },
-              {
-                "t": "video",
-                "yt": "b8tFuAjy3xg"
-              },
-              {
-                "t": "p",
-                "x": "In 2026, the era of AI development arrived. Shin felt he could no longer use 'no time' as an excuse. So he showed the old homepage and project materials left in his storage to an AI agent, and got the answer that it could be finished."
+                "x": "Netmarble postponed all 3 new titles it had planned for the second half of this year to next year, and its Q3 operating profit fell 44.6% year on year. Some of the technologies are still in development, so how much they can actually cut development time and cost has yet to be proven."
               },
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/346/719/20261105160858.webp",
-                "cap": "Materials the developer collected over many years (Courtesy of developer Shin Jun-soo)"
+                "src": "https://img.newspim.com/news/2026/06/12/2606121620382670.jpg",
+                "cap": "Netmarble's new headquarters, G-Tower, in Guro. [Photo=Netmarble]"
               },
               {
                 "t": "p",
-                "x": "GMT Game Project is a raising simulation in which the player becomes Park Young-min and spends 3 years at Ilchul High School. It uses the structure of 'Tokimeki Memorial' as its backbone and draws on the detailed stats of 'Princess Maker 2'. Each event is paired with CG and music, including vocal tracks made with AI, to keep it from getting dull."
+                "x": "Netmarble CEO Kim Byung-kyu said on the Q3 conference call on the 5th, \"Netmarble is working to build an AI-native work environment not only in development but also in game launches and live service,\" adding, \"Based on such systems, we judged that releasing 10 or more games a year is possible.\""
               },
               {
                 "t": "p",
-                "x": "In the past he could not lead a collaboration with other people, and he says he has mixed feelings about producing results this time with AI's help. The early version's script was full of expressions AI often uses, and he read through it himself and fixed them one by one."
+                "x": "In 2025 Netmarble reorganized its in-house AI organization into an AI Strategy Office and introduced tools such as 'MarbleAI', an AI tool for translation and source-text proofreading, and 'ㅋㅋ아트젠', an AI art generation platform. Major languages such as English and Japanese are recorded by voice actors, while AI is used to record the other languages. It is also developing technology in which AI plays games automatically to analyze balance and fun factors."
+              },
+              {
+                "t": "img",
+                "src": "https://img.newspim.com/news/2026/11/06/2611061207127870.jpg",
+                "cap": "Netmarble's main artificial intelligence projects [Photo=Netmarble]"
               },
               {
                 "t": "p",
-                "x": "GMT Game Project was released as an unofficial, non-commercial fan project, with a stated principle that he will accept stopping distribution if the rights holder asks. If the AI-made art becomes a problem, he is also considering gathering creators to work with. He is polishing the game with next year's Teachers' Day, May 15, as the final deadline."
+                "x": "In operations, an AI-based anomaly detection system handles abuse and abnormal behavior, and has been applied to 'RF Online Next', 'Vampir' and 'SOL: enchant'. A Netmarble official said, \"We are researching and developing a variety of AI agents, including a quality-assurance automation agent and a report-writing agent.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "20年止まったファンゲーム\nAIで開発再開",
-          "body": "グッドモーニング・ティーチャーのファンゲームがAIで20年ぶりに再開し、1.3.0まで出た。",
-          "mini_headline": "グッドモーニング・ティーチャーのファンゲーム再開",
+          "headline": "Netmarble新作13本\nAIで開発を加速",
+          "body": "Netmarbleは来年の新作13本の開発に、企画から品質検証までAIを投入する。",
+          "mini_headline": "NetmarbleのAI開発加速",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/346/717/20261105160857.webp",
-                "cap": "GMTゲームプロジェクトのスタート画面（写真：ゲームメカ撮影）"
+                "t": "p",
+                "x": "新作の発売延期で業績が悪化したNetmarbleが、人工知能（AI）を活用した開発・運営体制で来年の新作13本の発売に挑む。ゲームの企画から翻訳、グラフィック制作、品質検証まで反復作業を自動化し、開発負担を減らして発売能力を高める戦略だ。"
               },
               {
                 "t": "p",
-                "x": "1990年代の人気学園漫画『グッドモーニング・ティーチャー』を基にしたファンゲーム「GMTゲームプロジェクト」が、AI技術の助けを借りて約20年ぶりに開発を再開し、先生の日に最初のビルドが公開された。"
-              },
-              {
-                "t": "p",
-                "x": "2000年代初めにファンゲームのホームページを開き、原作者からイラストまで受け取ったが、プロジェクトは完成しないまま約20年間止まっていた。そして今年初め、AIの助けを借りて作業を再開した彼は、5月15日の先生の日に最初のビルドを公開し、8月の1.0.0正式版に続いて11月には1.3.0アップデートまで出した。非公式・非商用のファンゲーム「GMTゲームプロジェクト」を作ったシン・ジュンス開発者の話だ。"
-              },
-              {
-                "t": "video",
-                "yt": "b8tFuAjy3xg"
-              },
-              {
-                "t": "p",
-                "x": "2026年、AI開発の時代が開かれた。シン開発者は「時間がない」という言い訳はもうできないと感じた。そこでストレージに残っていた昔のホームページとプロジェクト資料をAIエージェントに見せ、完成できるという答えを得た。"
+                "x": "Netmarbleは今年下半期に発売予定だった新作3本をすべて来年に延期し、第3四半期の営業利益は前年同期比44.6%減少した。一部の技術はまだ開発段階にあり、実際の開発期間と費用をどこまで削減できるかは、さらに実証が必要だ。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/346/719/20261105160858.webp",
-                "cap": "開発者が長年集めてきた資料（資料提供：シン・ジュンス開発者）"
+                "src": "https://img.newspim.com/news/2026/06/12/2606121620382670.jpg",
+                "cap": "Netmarbleの九老の新社屋ジータワーの全景。［写真=Netmarble］"
               },
               {
                 "t": "p",
-                "x": "GMTゲームプロジェクトは、パク・ヨンミンとなって日出高校で3年を過ごす育成シミュレーションだ。『ときめきメモリアル』の構造を骨格に、『プリンセスメーカー2』の細かな能力値を参考にした。イベントごとにCGやAIで作ったボーカル曲などの音楽を配置し、退屈さを減らした。"
+                "x": "Netmarbleのキム・ビョンギュ代表は5日の第3四半期カンファレンスコールで「Netmarbleは開発だけでなく、ゲームの発売とサービスの過程でもAIネイティブを基盤とした業務環境の構築に努めている」と述べ、「こうしたシステムを基盤に、年間10本以上のゲーム発売が可能だと判断した」と明らかにした。"
               },
               {
                 "t": "p",
-                "x": "かつては人々との協業をまとめきれなかったが、今回はAIの助けで成果物を出せたことに複雑な思いがあるという。初期バージョンのシナリオにはAIがよく使う表現があちこちに残っており、自ら読みながら一つずつ直していった。"
+                "x": "Netmarbleは2025年に社内のAI組織をAI戦略室に改編し、翻訳・原文校正AIツール「MarbleAI」やAIアート生成プラットフォーム「ㅋㅋ아트젠」などを導入した。英語や日本語などの主要言語は声優が収録するが、それ以外の言語は収録にAIを活用している。AIがゲームを自動でプレイし、バランスや面白さの要素を分析する技術も開発中だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.newspim.com/news/2026/11/06/2611061207127870.jpg",
+                "cap": "Netmarbleの主な人工知能プロジェクト［写真=Netmarble］"
               },
               {
                 "t": "p",
-                "x": "GMTゲームプロジェクトは非公式・非商用のファンプロジェクトとして公開され、権利者から要請があれば配布停止まで受け入れるという原則を掲げている。AIで作った絵が問題になった場合は、一緒に作業するクリエイターを集める案も考えている。来年の先生の日である5月15日を最終期限とし、ゲームを磨き上げている。"
+                "x": "運営面ではAIベースの異常検知システムで不正利用や異常行為に対応しており、『RF Online Next』『Vampir』『SOL: enchant（ソル：インチャント）』に適用された。Netmarbleの関係者は「品質検証の自動化エージェント、レポート作成エージェントなど、さまざまなAIエージェントを研究開発中だ」と伝えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "停摆20年的同人游戏\n借AI重启开发",
-          "body": "《早安老师》同人游戏借助AI时隔20年重启，已更新至1.3.0。",
-          "mini_headline": "《早安老师》同人游戏重启",
+          "headline": "Netmarble新作13款\n借AI加速开发",
+          "body": "Netmarble明年开发13款新作时，将从策划到质量验证全面投入AI。",
+          "mini_headline": "Netmarble的AI开发提速",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/346/717/20261105160857.webp",
-                "cap": "GMT游戏项目开始画面（图片：Gamemeca拍摄）"
+                "t": "p",
+                "x": "因新作发售延期而业绩恶化的Netmarble，将以运用人工智能（AI）的开发与运营体系，挑战明年推出13款新作。其战略是将从游戏策划到翻译、美术制作、质量验证的重复性工作自动化，以减轻开发负担、提升发售能力。"
               },
               {
                 "t": "p",
-                "x": "以1990年代人气校园漫画《早安老师》为蓝本的同人游戏GMT游戏项目，在AI技术的帮助下时隔约20年重新开发，并在教师节公开了首个版本。"
-              },
-              {
-                "t": "p",
-                "x": "2000年代初，他开设了同人游戏主页，还从原作者那里获得了插画，但项目始终未能完成，停滞了约20年。今年年初，他借助AI重新开工，于5月15日教师节公开首个版本，8月推出1.0.0正式版，11月又发布了1.3.0更新。这是制作非官方、非商业同人游戏“GMT游戏项目”的开发者申俊秀的故事。"
-              },
-              {
-                "t": "video",
-                "yt": "b8tFuAjy3xg"
-              },
-              {
-                "t": "p",
-                "x": "2026年，AI开发的时代到来。申开发者觉得自己再也不能拿“没时间”当借口。于是，他把存储空间里留存的旧主页和项目资料拿给AI智能体看，得到了可以完成的答复。"
+                "x": "Netmarble已将原定今年下半年推出的3款新作全部推迟至明年，第3季度营业利润同比下降44.6%。部分技术仍处于开发阶段，实际能缩短多少开发周期和成本仍有待进一步验证。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/346/719/20261105160858.webp",
-                "cap": "开发者多年来收集的资料（资料提供：开发者申俊秀）"
+                "src": "https://img.newspim.com/news/2026/06/12/2606121620382670.jpg",
+                "cap": "Netmarble位于九老的新总部G-Tower全景。[图=Netmarble]"
               },
               {
                 "t": "p",
-                "x": "GMT游戏项目是一款养成模拟游戏，玩家化身朴英民，在日出高中度过3年。游戏以《心跳回忆》的结构为骨架，参考了《美少女梦工厂2》细致的能力数值。每个事件都配有CG和用AI制作的人声歌曲等音乐，以减少枯燥感。"
+                "x": "Netmarble代表金秉圭5日在第3季度电话会议上表示：“Netmarble不仅在开发上，在游戏发售和服务过程中也在努力构建以AI原生为基础的工作环境。”他还说：“基于这样的系统，我们判断一年推出10款以上游戏是可行的。”"
               },
               {
                 "t": "p",
-                "x": "他说，过去没能带动与他人的协作，这次却在AI的帮助下做出了成果，心情因此有些复杂。早期版本的剧本里随处可见AI常用的表达，他亲自通读，一处一处地修改。"
+                "x": "Netmarble于2025年将内部AI组织改组为AI战略室，并引入了翻译及原文校对AI工具“MarbleAI”和AI美术生成平台“ㅋㅋ아트젠”等。英语、日语等主要语言由配音演员录制，其他语言则借助AI录制。让AI自动游玩游戏、分析平衡性与趣味要素的技术也在开发中。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.newspim.com/news/2026/11/06/2611061207127870.jpg",
+                "cap": "Netmarble的主要人工智能项目 [图=Netmarble]"
               },
               {
                 "t": "p",
-                "x": "GMT游戏项目以非官方、非商业的同人项目形式公开，并定下原则：若权利方提出要求，连停止发布也会接受。如果AI生成的图画成为问题，他也考虑召集创作者一起制作。他以明年教师节5月15日为最终期限，正在打磨游戏。"
+                "x": "运营方面，Netmarble以基于AI的异常检测系统应对滥用和异常行为，已应用于《RF Online Next》《Vampir》《SOL: enchant》。Netmarble相关人士表示：“正在研发质量验证自动化智能体、报告撰写智能体等多种AI智能体。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un juego de fans parado 20 años\nvuelve a desarrollarse con AI",
-          "body": "El juego de fans de 'Good Morning Teacher' se retomó con ayuda de AI tras 20 años y ya llegó a la versión 1.3.0.",
-          "mini_headline": "Se retoma el juego de fans de Good Morning Teacher",
+          "headline": "Netmarble acelera con AI\nel desarrollo de 13 juegos",
+          "body": "Netmarble usará AI desde la planificación hasta el control de calidad en sus 13 nuevos juegos del próximo año.",
+          "mini_headline": "Netmarble acelera con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/346/717/20261105160857.webp",
-                "cap": "Pantalla de inicio de GMT Game Project (Foto: Gamemeca)"
+                "t": "p",
+                "x": "Netmarble, cuyos resultados empeoraron por los retrasos en sus lanzamientos, intentará lanzar 13 juegos nuevos el próximo año con un sistema de desarrollo y operación basado en inteligencia artificial (AI). La estrategia consiste en automatizar tareas repetitivas, desde la planificación del juego hasta la traducción, la producción gráfica y el control de calidad, para reducir la carga de desarrollo y aumentar su capacidad de lanzamiento."
               },
               {
                 "t": "p",
-                "x": "GMT Game Project, un juego de fans basado en el popular manhwa escolar de los años 1990 Good Morning Teacher, retomó su desarrollo tras unos 20 años con ayuda de tecnología AI y publicó su primera build en el Día del Maestro."
-              },
-              {
-                "t": "p",
-                "x": "A principios de los años 2000 abrió una web del juego de fans e incluso recibió ilustraciones del autor original, pero el proyecto quedó sin terminar y estuvo parado unos 20 años. A comienzos de este año retomó el trabajo con ayuda de AI, publicó la primera build el 15 de mayo, Día del Maestro, y tras la versión oficial 1.0.0 en agosto lanzó en noviembre la actualización 1.3.0. Es la historia del desarrollador Shin Jun-soo, creador del juego de fans no oficial y no comercial 'GMT Game Project'."
-              },
-              {
-                "t": "video",
-                "yt": "b8tFuAjy3xg"
-              },
-              {
-                "t": "p",
-                "x": "En 2026 llegó la era del desarrollo con AI. Shin sintió que ya no podía poner como excusa la 'falta de tiempo'. Así que mostró a un agente de AI la antigua web y los materiales del proyecto que conservaba en su almacenamiento, y obtuvo la respuesta de que podía terminarse."
+                "x": "Netmarble aplazó al próximo año los 3 juegos nuevos que tenía previstos para la segunda mitad de este año, y su beneficio operativo del tercer trimestre cayó un 44.6% interanual. Algunas tecnologías aún están en desarrollo, por lo que todavía debe demostrarse cuánto pueden reducir realmente los plazos y costos de desarrollo."
               },
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/346/719/20261105160858.webp",
-                "cap": "Materiales que el desarrollador reunió durante años (Cortesía del desarrollador Shin Jun-soo)"
+                "src": "https://img.newspim.com/news/2026/06/12/2606121620382670.jpg",
+                "cap": "Vista de G-Tower, la nueva sede de Netmarble en Guro. [Foto=Netmarble]"
               },
               {
                 "t": "p",
-                "x": "GMT Game Project es una simulación de crianza en la que el jugador encarna a Park Young-min y pasa 3 años en el instituto Ilchul. Toma como base la estructura de 'Tokimeki Memorial' y se inspira en las detalladas estadísticas de 'Princess Maker 2'. Cada evento incluye CG y música, como canciones vocales hechas con AI, para reducir la monotonía."
+                "x": "Kim Byung-kyu, CEO de Netmarble, afirmó el día 5 en la conferencia telefónica del tercer trimestre: \"Netmarble se esfuerza por crear un entorno de trabajo nativo de AI no solo en el desarrollo, sino también en el lanzamiento y el servicio de los juegos\". Y añadió: \"Con base en estos sistemas, consideramos que es posible lanzar 10 o más juegos al año\"."
               },
               {
                 "t": "p",
-                "x": "En el pasado no logró sacar adelante la colaboración con otras personas, y dice tener sentimientos encontrados por haber logrado un resultado esta vez con ayuda de AI. El guion de la versión inicial estaba lleno de expresiones que la AI usa a menudo, y él lo leyó y las corrigió una a una."
+                "x": "En 2025, Netmarble reorganizó su equipo interno de AI como Oficina de Estrategia de AI e incorporó herramientas como 'MarbleAI', una herramienta de AI de traducción y corrección de textos originales, y 'ㅋㅋ아트젠', una plataforma de generación de arte con AI. Los idiomas principales, como el inglés y el japonés, los graban actores de voz, pero para los demás idiomas se usa AI en la grabación. También desarrolla una tecnología en la que la AI juega automáticamente para analizar el equilibrio y los elementos de diversión."
+              },
+              {
+                "t": "img",
+                "src": "https://img.newspim.com/news/2026/11/06/2611061207127870.jpg",
+                "cap": "Principales proyectos de inteligencia artificial de Netmarble [Foto=Netmarble]"
               },
               {
                 "t": "p",
-                "x": "GMT Game Project se publicó como un proyecto de fans no oficial y no comercial, con el principio de aceptar incluso el cese de su distribución si el titular de los derechos lo pide. Si las imágenes hechas con AI llegan a ser un problema, también contempla reunir a creadores para trabajar juntos. Pule el juego con el Día del Maestro del próximo año, el 15 de mayo, como fecha límite final."
+                "x": "En la operación, responde al abuso y a los comportamientos anómalos con un sistema de detección de anomalías basado en AI, que se ha aplicado a 'RF Online Next', 'Vampir' y 'SOL: enchant'. Un representante de Netmarble señaló: \"Estamos investigando y desarrollando diversos agentes de AI, como un agente de automatización del control de calidad y un agente de redacción de informes\"."
               }
             ]
           }
@@ -1377,193 +1329,161 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "A fan game paused 20 years\nresumes development with AI",
-          "body": "A 'Good Morning Teacher' fan game resumed with AI help after 20 years and has reached 1.3.0 so far.",
-          "mini_headline": "Good Morning Teacher fan game resumes",
+          "headline": "Netmarble taps AI to speed\ndevelopment of 13 new titles",
+          "body": "Netmarble will use AI from planning to quality assurance in developing 13 new titles next year.",
+          "mini_headline": "Netmarble's AI development push",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/346/717/20261105160857.webp",
-                "cap": "GMT Game Project title screen (Photo: Gamemeca)"
+                "t": "p",
+                "x": "Netmarble, whose earnings have worsened because of delays to new releases, is attempting to launch 13 new titles next year with a development and operations system built on artificial intelligence (AI). The strategy is to automate repetitive work from game planning to translation, graphics production and quality assurance, easing the development burden and raising its release capacity."
               },
               {
                 "t": "p",
-                "x": "GMT Game Project, a fan game based on the popular 1990s school manhwa Good Morning Teacher, has resumed development after about 20 years with the help of AI technology, and its first build was released on Teachers' Day."
-              },
-              {
-                "t": "p",
-                "x": "In the early 2000s he opened a fan game homepage and even received illustrations from the original creator, but the project was left unfinished and stalled for about 20 years. Early this year he restarted work with the help of AI, released the first build on Teachers' Day, May 15, and followed the official 1.0.0 version in August with the 1.3.0 update in November. This is the story of developer Shin Jun-soo, who made the unofficial, non-commercial fan game 'GMT Game Project'."
-              },
-              {
-                "t": "video",
-                "yt": "b8tFuAjy3xg"
-              },
-              {
-                "t": "p",
-                "x": "In 2026, the era of AI development arrived. Shin felt he could no longer use 'no time' as an excuse. So he showed the old homepage and project materials left in his storage to an AI agent, and got the answer that it could be finished."
+                "x": "Netmarble postponed all 3 new titles it had planned for the second half of this year to next year, and its Q3 operating profit fell 44.6% year on year. Some of the technologies are still in development, so how much they can actually cut development time and cost has yet to be proven."
               },
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/346/719/20261105160858.webp",
-                "cap": "Materials the developer collected over many years (Courtesy of developer Shin Jun-soo)"
+                "src": "https://img.newspim.com/news/2026/06/12/2606121620382670.jpg",
+                "cap": "Netmarble's new headquarters, G-Tower, in Guro. [Photo=Netmarble]"
               },
               {
                 "t": "p",
-                "x": "GMT Game Project is a raising simulation in which the player becomes Park Young-min and spends 3 years at Ilchul High School. It uses the structure of 'Tokimeki Memorial' as its backbone and draws on the detailed stats of 'Princess Maker 2'. Each event is paired with CG and music, including vocal tracks made with AI, to keep it from getting dull."
+                "x": "Netmarble CEO Kim Byung-kyu said on the Q3 conference call on the 5th, \"Netmarble is working to build an AI-native work environment not only in development but also in game launches and live service,\" adding, \"Based on such systems, we judged that releasing 10 or more games a year is possible.\""
               },
               {
                 "t": "p",
-                "x": "In the past he could not lead a collaboration with other people, and he says he has mixed feelings about producing results this time with AI's help. The early version's script was full of expressions AI often uses, and he read through it himself and fixed them one by one."
+                "x": "In 2025 Netmarble reorganized its in-house AI organization into an AI Strategy Office and introduced tools such as 'MarbleAI', an AI tool for translation and source-text proofreading, and 'ㅋㅋ아트젠', an AI art generation platform. Major languages such as English and Japanese are recorded by voice actors, while AI is used to record the other languages. It is also developing technology in which AI plays games automatically to analyze balance and fun factors."
+              },
+              {
+                "t": "img",
+                "src": "https://img.newspim.com/news/2026/11/06/2611061207127870.jpg",
+                "cap": "Netmarble's main artificial intelligence projects [Photo=Netmarble]"
               },
               {
                 "t": "p",
-                "x": "GMT Game Project was released as an unofficial, non-commercial fan project, with a stated principle that he will accept stopping distribution if the rights holder asks. If the AI-made art becomes a problem, he is also considering gathering creators to work with. He is polishing the game with next year's Teachers' Day, May 15, as the final deadline."
+                "x": "In operations, an AI-based anomaly detection system handles abuse and abnormal behavior, and has been applied to 'RF Online Next', 'Vampir' and 'SOL: enchant'. A Netmarble official said, \"We are researching and developing a variety of AI agents, including a quality-assurance automation agent and a report-writing agent.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "20年止まったファンゲーム\nAIで開発再開",
-          "body": "グッドモーニング・ティーチャーのファンゲームがAIで20年ぶりに再開し、1.3.0まで出た。",
-          "mini_headline": "グッドモーニング・ティーチャーのファンゲーム再開",
+          "headline": "Netmarble新作13本\nAIで開発を加速",
+          "body": "Netmarbleは来年の新作13本の開発に、企画から品質検証までAIを投入する。",
+          "mini_headline": "NetmarbleのAI開発加速",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/346/717/20261105160857.webp",
-                "cap": "GMTゲームプロジェクトのスタート画面（写真：ゲームメカ撮影）"
+                "t": "p",
+                "x": "新作の発売延期で業績が悪化したNetmarbleが、人工知能（AI）を活用した開発・運営体制で来年の新作13本の発売に挑む。ゲームの企画から翻訳、グラフィック制作、品質検証まで反復作業を自動化し、開発負担を減らして発売能力を高める戦略だ。"
               },
               {
                 "t": "p",
-                "x": "1990年代の人気学園漫画『グッドモーニング・ティーチャー』を基にしたファンゲーム「GMTゲームプロジェクト」が、AI技術の助けを借りて約20年ぶりに開発を再開し、先生の日に最初のビルドが公開された。"
-              },
-              {
-                "t": "p",
-                "x": "2000年代初めにファンゲームのホームページを開き、原作者からイラストまで受け取ったが、プロジェクトは完成しないまま約20年間止まっていた。そして今年初め、AIの助けを借りて作業を再開した彼は、5月15日の先生の日に最初のビルドを公開し、8月の1.0.0正式版に続いて11月には1.3.0アップデートまで出した。非公式・非商用のファンゲーム「GMTゲームプロジェクト」を作ったシン・ジュンス開発者の話だ。"
-              },
-              {
-                "t": "video",
-                "yt": "b8tFuAjy3xg"
-              },
-              {
-                "t": "p",
-                "x": "2026年、AI開発の時代が開かれた。シン開発者は「時間がない」という言い訳はもうできないと感じた。そこでストレージに残っていた昔のホームページとプロジェクト資料をAIエージェントに見せ、完成できるという答えを得た。"
+                "x": "Netmarbleは今年下半期に発売予定だった新作3本をすべて来年に延期し、第3四半期の営業利益は前年同期比44.6%減少した。一部の技術はまだ開発段階にあり、実際の開発期間と費用をどこまで削減できるかは、さらに実証が必要だ。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/346/719/20261105160858.webp",
-                "cap": "開発者が長年集めてきた資料（資料提供：シン・ジュンス開発者）"
+                "src": "https://img.newspim.com/news/2026/06/12/2606121620382670.jpg",
+                "cap": "Netmarbleの九老の新社屋ジータワーの全景。［写真=Netmarble］"
               },
               {
                 "t": "p",
-                "x": "GMTゲームプロジェクトは、パク・ヨンミンとなって日出高校で3年を過ごす育成シミュレーションだ。『ときめきメモリアル』の構造を骨格に、『プリンセスメーカー2』の細かな能力値を参考にした。イベントごとにCGやAIで作ったボーカル曲などの音楽を配置し、退屈さを減らした。"
+                "x": "Netmarbleのキム・ビョンギュ代表は5日の第3四半期カンファレンスコールで「Netmarbleは開発だけでなく、ゲームの発売とサービスの過程でもAIネイティブを基盤とした業務環境の構築に努めている」と述べ、「こうしたシステムを基盤に、年間10本以上のゲーム発売が可能だと判断した」と明らかにした。"
               },
               {
                 "t": "p",
-                "x": "かつては人々との協業をまとめきれなかったが、今回はAIの助けで成果物を出せたことに複雑な思いがあるという。初期バージョンのシナリオにはAIがよく使う表現があちこちに残っており、自ら読みながら一つずつ直していった。"
+                "x": "Netmarbleは2025年に社内のAI組織をAI戦略室に改編し、翻訳・原文校正AIツール「MarbleAI」やAIアート生成プラットフォーム「ㅋㅋ아트젠」などを導入した。英語や日本語などの主要言語は声優が収録するが、それ以外の言語は収録にAIを活用している。AIがゲームを自動でプレイし、バランスや面白さの要素を分析する技術も開発中だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.newspim.com/news/2026/11/06/2611061207127870.jpg",
+                "cap": "Netmarbleの主な人工知能プロジェクト［写真=Netmarble］"
               },
               {
                 "t": "p",
-                "x": "GMTゲームプロジェクトは非公式・非商用のファンプロジェクトとして公開され、権利者から要請があれば配布停止まで受け入れるという原則を掲げている。AIで作った絵が問題になった場合は、一緒に作業するクリエイターを集める案も考えている。来年の先生の日である5月15日を最終期限とし、ゲームを磨き上げている。"
+                "x": "運営面ではAIベースの異常検知システムで不正利用や異常行為に対応しており、『RF Online Next』『Vampir』『SOL: enchant（ソル：インチャント）』に適用された。Netmarbleの関係者は「品質検証の自動化エージェント、レポート作成エージェントなど、さまざまなAIエージェントを研究開発中だ」と伝えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "停摆20年的同人游戏\n借AI重启开发",
-          "body": "《早安老师》同人游戏借助AI时隔20年重启，已更新至1.3.0。",
-          "mini_headline": "《早安老师》同人游戏重启",
+          "headline": "Netmarble新作13款\n借AI加速开发",
+          "body": "Netmarble明年开发13款新作时，将从策划到质量验证全面投入AI。",
+          "mini_headline": "Netmarble的AI开发提速",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/346/717/20261105160857.webp",
-                "cap": "GMT游戏项目开始画面（图片：Gamemeca拍摄）"
+                "t": "p",
+                "x": "因新作发售延期而业绩恶化的Netmarble，将以运用人工智能（AI）的开发与运营体系，挑战明年推出13款新作。其战略是将从游戏策划到翻译、美术制作、质量验证的重复性工作自动化，以减轻开发负担、提升发售能力。"
               },
               {
                 "t": "p",
-                "x": "以1990年代人气校园漫画《早安老师》为蓝本的同人游戏GMT游戏项目，在AI技术的帮助下时隔约20年重新开发，并在教师节公开了首个版本。"
-              },
-              {
-                "t": "p",
-                "x": "2000年代初，他开设了同人游戏主页，还从原作者那里获得了插画，但项目始终未能完成，停滞了约20年。今年年初，他借助AI重新开工，于5月15日教师节公开首个版本，8月推出1.0.0正式版，11月又发布了1.3.0更新。这是制作非官方、非商业同人游戏“GMT游戏项目”的开发者申俊秀的故事。"
-              },
-              {
-                "t": "video",
-                "yt": "b8tFuAjy3xg"
-              },
-              {
-                "t": "p",
-                "x": "2026年，AI开发的时代到来。申开发者觉得自己再也不能拿“没时间”当借口。于是，他把存储空间里留存的旧主页和项目资料拿给AI智能体看，得到了可以完成的答复。"
+                "x": "Netmarble已将原定今年下半年推出的3款新作全部推迟至明年，第3季度营业利润同比下降44.6%。部分技术仍处于开发阶段，实际能缩短多少开发周期和成本仍有待进一步验证。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/346/719/20261105160858.webp",
-                "cap": "开发者多年来收集的资料（资料提供：开发者申俊秀）"
+                "src": "https://img.newspim.com/news/2026/06/12/2606121620382670.jpg",
+                "cap": "Netmarble位于九老的新总部G-Tower全景。[图=Netmarble]"
               },
               {
                 "t": "p",
-                "x": "GMT游戏项目是一款养成模拟游戏，玩家化身朴英民，在日出高中度过3年。游戏以《心跳回忆》的结构为骨架，参考了《美少女梦工厂2》细致的能力数值。每个事件都配有CG和用AI制作的人声歌曲等音乐，以减少枯燥感。"
+                "x": "Netmarble代表金秉圭5日在第3季度电话会议上表示：“Netmarble不仅在开发上，在游戏发售和服务过程中也在努力构建以AI原生为基础的工作环境。”他还说：“基于这样的系统，我们判断一年推出10款以上游戏是可行的。”"
               },
               {
                 "t": "p",
-                "x": "他说，过去没能带动与他人的协作，这次却在AI的帮助下做出了成果，心情因此有些复杂。早期版本的剧本里随处可见AI常用的表达，他亲自通读，一处一处地修改。"
+                "x": "Netmarble于2025年将内部AI组织改组为AI战略室，并引入了翻译及原文校对AI工具“MarbleAI”和AI美术生成平台“ㅋㅋ아트젠”等。英语、日语等主要语言由配音演员录制，其他语言则借助AI录制。让AI自动游玩游戏、分析平衡性与趣味要素的技术也在开发中。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.newspim.com/news/2026/11/06/2611061207127870.jpg",
+                "cap": "Netmarble的主要人工智能项目 [图=Netmarble]"
               },
               {
                 "t": "p",
-                "x": "GMT游戏项目以非官方、非商业的同人项目形式公开，并定下原则：若权利方提出要求，连停止发布也会接受。如果AI生成的图画成为问题，他也考虑召集创作者一起制作。他以明年教师节5月15日为最终期限，正在打磨游戏。"
+                "x": "运营方面，Netmarble以基于AI的异常检测系统应对滥用和异常行为，已应用于《RF Online Next》《Vampir》《SOL: enchant》。Netmarble相关人士表示：“正在研发质量验证自动化智能体、报告撰写智能体等多种AI智能体。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un juego de fans parado 20 años\nvuelve a desarrollarse con AI",
-          "body": "El juego de fans de 'Good Morning Teacher' se retomó con ayuda de AI tras 20 años y ya llegó a la versión 1.3.0.",
-          "mini_headline": "Se retoma el juego de fans de Good Morning Teacher",
+          "headline": "Netmarble acelera con AI\nel desarrollo de 13 juegos",
+          "body": "Netmarble usará AI desde la planificación hasta el control de calidad en sus 13 nuevos juegos del próximo año.",
+          "mini_headline": "Netmarble acelera con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/346/717/20261105160857.webp",
-                "cap": "Pantalla de inicio de GMT Game Project (Foto: Gamemeca)"
+                "t": "p",
+                "x": "Netmarble, cuyos resultados empeoraron por los retrasos en sus lanzamientos, intentará lanzar 13 juegos nuevos el próximo año con un sistema de desarrollo y operación basado en inteligencia artificial (AI). La estrategia consiste en automatizar tareas repetitivas, desde la planificación del juego hasta la traducción, la producción gráfica y el control de calidad, para reducir la carga de desarrollo y aumentar su capacidad de lanzamiento."
               },
               {
                 "t": "p",
-                "x": "GMT Game Project, un juego de fans basado en el popular manhwa escolar de los años 1990 Good Morning Teacher, retomó su desarrollo tras unos 20 años con ayuda de tecnología AI y publicó su primera build en el Día del Maestro."
-              },
-              {
-                "t": "p",
-                "x": "A principios de los años 2000 abrió una web del juego de fans e incluso recibió ilustraciones del autor original, pero el proyecto quedó sin terminar y estuvo parado unos 20 años. A comienzos de este año retomó el trabajo con ayuda de AI, publicó la primera build el 15 de mayo, Día del Maestro, y tras la versión oficial 1.0.0 en agosto lanzó en noviembre la actualización 1.3.0. Es la historia del desarrollador Shin Jun-soo, creador del juego de fans no oficial y no comercial 'GMT Game Project'."
-              },
-              {
-                "t": "video",
-                "yt": "b8tFuAjy3xg"
-              },
-              {
-                "t": "p",
-                "x": "En 2026 llegó la era del desarrollo con AI. Shin sintió que ya no podía poner como excusa la 'falta de tiempo'. Así que mostró a un agente de AI la antigua web y los materiales del proyecto que conservaba en su almacenamiento, y obtuvo la respuesta de que podía terminarse."
+                "x": "Netmarble aplazó al próximo año los 3 juegos nuevos que tenía previstos para la segunda mitad de este año, y su beneficio operativo del tercer trimestre cayó un 44.6% interanual. Algunas tecnologías aún están en desarrollo, por lo que todavía debe demostrarse cuánto pueden reducir realmente los plazos y costos de desarrollo."
               },
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/346/719/20261105160858.webp",
-                "cap": "Materiales que el desarrollador reunió durante años (Cortesía del desarrollador Shin Jun-soo)"
+                "src": "https://img.newspim.com/news/2026/06/12/2606121620382670.jpg",
+                "cap": "Vista de G-Tower, la nueva sede de Netmarble en Guro. [Foto=Netmarble]"
               },
               {
                 "t": "p",
-                "x": "GMT Game Project es una simulación de crianza en la que el jugador encarna a Park Young-min y pasa 3 años en el instituto Ilchul. Toma como base la estructura de 'Tokimeki Memorial' y se inspira en las detalladas estadísticas de 'Princess Maker 2'. Cada evento incluye CG y música, como canciones vocales hechas con AI, para reducir la monotonía."
+                "x": "Kim Byung-kyu, CEO de Netmarble, afirmó el día 5 en la conferencia telefónica del tercer trimestre: \"Netmarble se esfuerza por crear un entorno de trabajo nativo de AI no solo en el desarrollo, sino también en el lanzamiento y el servicio de los juegos\". Y añadió: \"Con base en estos sistemas, consideramos que es posible lanzar 10 o más juegos al año\"."
               },
               {
                 "t": "p",
-                "x": "En el pasado no logró sacar adelante la colaboración con otras personas, y dice tener sentimientos encontrados por haber logrado un resultado esta vez con ayuda de AI. El guion de la versión inicial estaba lleno de expresiones que la AI usa a menudo, y él lo leyó y las corrigió una a una."
+                "x": "En 2025, Netmarble reorganizó su equipo interno de AI como Oficina de Estrategia de AI e incorporó herramientas como 'MarbleAI', una herramienta de AI de traducción y corrección de textos originales, y 'ㅋㅋ아트젠', una plataforma de generación de arte con AI. Los idiomas principales, como el inglés y el japonés, los graban actores de voz, pero para los demás idiomas se usa AI en la grabación. También desarrolla una tecnología en la que la AI juega automáticamente para analizar el equilibrio y los elementos de diversión."
+              },
+              {
+                "t": "img",
+                "src": "https://img.newspim.com/news/2026/11/06/2611061207127870.jpg",
+                "cap": "Principales proyectos de inteligencia artificial de Netmarble [Foto=Netmarble]"
               },
               {
                 "t": "p",
-                "x": "GMT Game Project se publicó como un proyecto de fans no oficial y no comercial, con el principio de aceptar incluso el cese de su distribución si el titular de los derechos lo pide. Si las imágenes hechas con AI llegan a ser un problema, también contempla reunir a creadores para trabajar juntos. Pule el juego con el Día del Maestro del próximo año, el 15 de mayo, como fecha límite final."
+                "x": "En la operación, responde al abuso y a los comportamientos anómalos con un sistema de detección de anomalías basado en AI, que se ha aplicado a 'RF Online Next', 'Vampir' y 'SOL: enchant'. Un representante de Netmarble señaló: \"Estamos investigando y desarrollando diversos agentes de AI, como un agente de automatización del control de calidad y un agente de redacción de informes\"."
               }
             ]
           }
@@ -1571,15 +1491,15 @@
       }
     },
     {
-      "id": "ign-me3-modding-ai",
+      "id": "kenney-sweeney-genai-clash",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Mass Effect 3\nAI로 모딩 고사 우려",
-      "body": "모더는 AI 매시업과 Claude-made 디컴파일이 모딩을 죽일지 모른다고 봤다.",
-      "mini_headline": "모더 “AI가 모딩 죽일 수도”",
+      "headline": "Kenney·Sweeney\n생성형 AI 놓고 충돌",
+      "body": "AI 압박에 맞서자는 Kenney 글을 Sweeney가 X에서 '헛소리'라 했다.",
+      "mini_headline": "Kenney vs. Sweeney 생성형 AI 논쟁",
       "tool": "Games",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/i-feel-like-modding-is-kind-of-dying-mass-effect-3-multiplayer-modder-on-ais-impact-on-the-scene",
+      "source": "PC Gamer",
+      "url": "https://www.pcgamer.com/software/ai/the-ai-posting-war-is-heating-up-please-leave-me-behind-says-artist-who-got-into-it-with-epic-ceo-tim-sweeney-on-x/",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1587,173 +1507,233 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://assets-prd.ignimgs.com/2026/10/29/me3-1793234529955.jpg?width=1280&format=jpg&auto=webp&quality=80"
+            "src": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg"
           },
           {
             "t": "p",
-            "x": "최근 몇 달 새 모딩 씬에 AI가 폭발적으로 늘었다. Twitter에 올라오는 매시업 모드부터 Claude가 해낸 전체 디컴파일까지, 모드 커뮤니티 곳곳에 AI가 있다. 이 흐름이 취미로서의 모딩을 죽이고 있을지도 모른다."
+            "x": "무료 게임 에셋 수천 개를 나눠 주기로 유명한 아티스트 Kenney가 생성형 AI를 쓰라는 압박에 굴하지 말라고 동료 아티스트들을 독려했다. 몇 시간 뒤 Epic Games CEO Tim Sweeney가 답글을 달았다. \"헛소리다, Kenney.\" Elon Musk도 끼어들어 Sweeney를 거들었다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/dN5L7H63LSbvE6whFiWNgP-772-80.png",
+            "cap": "(이미지 출처: Kenney/Tim Sweeney)"
           },
           {
             "t": "p",
-            "x": "새 Mass Effect Legendary Edition ME3 Multiplayer 모드를 만든 ME3Tweaks의 Mgamerz는 Claude가 게임 모딩에 매우 효과적이라는 점은 인정한다. 다만 저품질 콘텐츠가 쏟아지는 원인이 되고 있다고 말한다. “모드를 만들고 입문하기가 어려웠던 덕분에 질 낮은 것들이 많이 걸러졌다.” 최적화가 안 된 AI 모드는 다른 모드를 망가뜨리거나 메모리 사용량을 부풀리기도 한다."
+            "x": "Kenney는 PC Gamer에 \"AI에 어느 정도 이점은 있다고 보지만 문제가 너무 많아서 지금 상태로 쓰는 것은 비윤리적이라고 생각한다\"고 했다. 반면 Sweeney는 \"업계 전체에 기술을 제공하는 입장에서, 그 긍정적인 면을 알리는 것이 Epic의 일이자 내 일이라고 본다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "“[모딩]에 입문한다고? 모딩은 조금씩 죽어 가는 것 같다. 들어와서 ‘AI 없이(no AI) 그냥 이걸 하고 싶다’고 하면… 이제는 거의 몰래 작업해야 한다.”"
+            "x": "GameDiscoverCo 조사에 따르면 Steam 이용자의 약 69%는 AI 사용을 밝힌 게임을 사는 데 중립적이거나 괜찮다고 답했고 55% 이상은 Steam이 더 엄격한 공개 규정을 둬야 한다고 봤다. Sweeney는 Steam의 요건을 \"혐오스럽다\"고 표현했다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/Nv8WP9ipmA6k753ABMgKqD-918-80.png",
+            "cap": "Kenney는 자신의 웹사이트에서 이런 무료 게임 에셋 수천 개를 나눠 준다. (이미지 출처: Kenney)"
           },
           {
             "t": "p",
-            "x": "개인용으로만 쓰는 AI 모드라면 그도 반대하지 않는다. “이 결과물을 다른 사람에게 넘기고 세상에 공유하는 순간, 갑자기 모두의 문제가 될 수 있다. 내 경험상 바이브 코딩으로 뭔가를 만든 사람들은 두 주 뒤면 다 사라진다.”"
+            "x": "개발사 Dead Teapot은 Kenney를 지지하며 Epic Games Store 출시를 취소했다. Kenney는 후원금과 60,000개 에셋을 모두 담은 $20 번들로 생계를 꾸린다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Mass Effect 3 modder fears\nAI may be killing modding",
-          "body": "A Mass Effect 3 multiplayer modder says AI mashups and Claude-made decompilations may be killing the hobby.",
-          "mini_headline": "Modder: AI may be killing modding",
+          "headline": "Artist Kenney and Tim Sweeney\nclash over generative AI",
+          "body": "After artist Kenney urged artists not to cave to generative AI pressure, Epic CEO Tim Sweeney called it bullshit on X.",
+          "mini_headline": "Kenney vs. Sweeney\non generative AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/29/me3-1793234529955.jpg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Over the past few months, there's been an explosion of AI in the modding scene. Whether it's mashup mods on Twitter or full decompilation done by Claude, AI is everywhere in the mod community, and it could be killing the hobby."
+                "x": "Kenney, an artist known for giving away thousands of free game assets, encouraged other artists not to give in to pressure to use generative AI. A few hours later, Epic Games CEO Tim Sweeney was in his replies: \"This is bullshit, Kenney.\" Elon Musk also chimed in to back up Sweeney."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/dN5L7H63LSbvE6whFiWNgP-772-80.png",
+                "cap": "(Image credit: Kenney/Tim Sweeney)"
               },
               {
                 "t": "p",
-                "x": "ME3Tweaks' Mgamerz, maker of a new Mass Effect Legendary Edition ME3 Multiplayer mod, admits Claude is very effective at modding games but says it is causing an avalanche of low-effort content. \"The difficulty of making mods and getting into it filtered out a lot of low-quality stuff.\" Unoptimized AI mods can break other mods or bloat memory use."
+                "x": "\"I think AI has some benefit but there's just too many problems with it that I find it immoral to use in its current state,\" Kenney told PC Gamer. Sweeney said: \"As a provider of technology to the whole industry, I see it as Epic's job and my job to make the positive case for it.\""
               },
               {
                 "t": "p",
-                "x": "\"Getting into [modding]? I feel like modding is kind of dying. If you come in and you're like, 'I want to just do this, no AI'... you pretty much have to work in secret now.\""
+                "x": "A GameDiscoverCo survey found about 69% of Steam users are neutral or fine with buying games that disclose AI use, while over 55% think Steam should have stricter disclosure rules. Sweeney calls Steam's requirement \"abhorrent\"."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Nv8WP9ipmA6k753ABMgKqD-918-80.png",
+                "cap": "Kenney gives away thousands of free game assets like these on his website. (Image credit: Kenney)"
               },
               {
                 "t": "p",
-                "x": "He doesn't object to AI mods kept for personal use: \"Once you hand this product over to somebody else, share it with the world, suddenly it can become everybody's problem. And from my experience, everyone that vibe codes stuff, two weeks later, they're gone.\""
+                "x": "One developer, Dead Teapot, cancelled its Epic Games Store release in support of Kenney, who makes a living from donations and a $20 bundle of all 60,000 assets."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Mass Effect 3\nAI로 모딩 고사 우려",
-          "body": "모더는 AI 매시업과 Claude-made 디컴파일이 모딩을 죽일지 모른다고 봤다.",
-          "mini_headline": "모더 “AI가 모딩 죽일 수도”",
+          "headline": "Kenney·Sweeney\n생성형 AI 놓고 충돌",
+          "body": "AI 압박에 맞서자는 Kenney 글을 Sweeney가 X에서 '헛소리'라 했다.",
+          "mini_headline": "Kenney vs. Sweeney 생성형 AI 논쟁",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/29/me3-1793234529955.jpg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "최근 몇 달 새 모딩 씬에 AI가 폭발적으로 늘었다. Twitter에 올라오는 매시업 모드부터 Claude가 해낸 전체 디컴파일까지, 모드 커뮤니티 곳곳에 AI가 있다. 이 흐름이 취미로서의 모딩을 죽이고 있을지도 모른다."
+                "x": "무료 게임 에셋 수천 개를 나눠 주기로 유명한 아티스트 Kenney가 생성형 AI를 쓰라는 압박에 굴하지 말라고 동료 아티스트들을 독려했다. 몇 시간 뒤 Epic Games CEO Tim Sweeney가 답글을 달았다. \"헛소리다, Kenney.\" Elon Musk도 끼어들어 Sweeney를 거들었다."
               },
-              {
-                "t": "p",
-                "x": "새 Mass Effect Legendary Edition ME3 Multiplayer 모드를 만든 ME3Tweaks의 Mgamerz는 Claude가 게임 모딩에 매우 효과적이라는 점은 인정한다. 다만 저품질 콘텐츠가 쏟아지는 원인이 되고 있다고 말한다. “모드를 만들고 입문하기가 어려웠던 덕분에 질 낮은 것들이 많이 걸러졌다.” 최적화가 안 된 AI 모드는 다른 모드를 망가뜨리거나 메모리 사용량을 부풀리기도 한다."
-              },
-              {
-                "t": "p",
-                "x": "“[모딩]에 입문한다고? 모딩은 조금씩 죽어 가는 것 같다. 들어와서 ‘AI 없이(no AI) 그냥 이걸 하고 싶다’고 하면… 이제는 거의 몰래 작업해야 한다.”"
-              },
-              {
-                "t": "p",
-                "x": "개인용으로만 쓰는 AI 모드라면 그도 반대하지 않는다. “이 결과물을 다른 사람에게 넘기고 세상에 공유하는 순간, 갑자기 모두의 문제가 될 수 있다. 내 경험상 바이브 코딩으로 뭔가를 만든 사람들은 두 주 뒤면 다 사라진다.”"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Mass Effect 3\n模组作者忧AI扼杀模组圈",
-          "body": "Mass Effect 3模组作者称，AI混搭和Claude-made反编译或扼杀这一爱好。",
-          "mini_headline": "模组作者：AI或在扼杀模组",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/29/me3-1793234529955.jpg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://cdn.mos.cms.futurecdn.net/dN5L7H63LSbvE6whFiWNgP-772-80.png",
+                "cap": "(이미지 출처: Kenney/Tim Sweeney)"
               },
               {
                 "t": "p",
-                "x": "过去几个月里，AI在模组圈呈爆发式增长。无论是Twitter上的混搭模组，还是由Claude完成的完整反编译，AI在模组社区无处不在，而这可能正在扼杀这项爱好。"
+                "x": "Kenney는 PC Gamer에 \"AI에 어느 정도 이점은 있다고 보지만 문제가 너무 많아서 지금 상태로 쓰는 것은 비윤리적이라고 생각한다\"고 했다. 반면 Sweeney는 \"업계 전체에 기술을 제공하는 입장에서, 그 긍정적인 면을 알리는 것이 Epic의 일이자 내 일이라고 본다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "ME3Tweaks的Mgamerz新制作了一款Mass Effect Legendary Edition ME3 Multiplayer模组。他承认Claude在游戏模组制作上非常有效，但表示它正引发低质量内容的雪崩。“制作模组和入门的难度，过去筛掉了大量低质量的东西。”未经优化的AI模组可能破坏其他模组，或让内存占用暴涨。"
+                "x": "GameDiscoverCo 조사에 따르면 Steam 이용자의 약 69%는 AI 사용을 밝힌 게임을 사는 데 중립적이거나 괜찮다고 답했고 55% 이상은 Steam이 더 엄격한 공개 규정을 둬야 한다고 봤다. Sweeney는 Steam의 요건을 \"혐오스럽다\"고 표현했다."
               },
-              {
-                "t": "p",
-                "x": "“入门[模组制作]？我觉得模组制作有点在走向消亡。如果你进来说‘我只想做这个，不用AI（no AI）’……现在基本上只能偷偷干了。”"
-              },
-              {
-                "t": "p",
-                "x": "他并不反对仅供个人使用的AI模组：“一旦你把这个成果交给别人、分享给全世界，它突然就可能变成所有人的问题。而且据我的经验，所有靠氛围编程（vibe coding）做东西的人，两周后就都不见了。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un modder de Mass Effect 3 teme\nque la AI mate el modding",
-          "body": "Un modder de Mass Effect 3 dice que los mashups de AI y las descompilaciones Claude-made podrían matar el hobby.",
-          "mini_headline": "Un modder: la AI podría matar el modding",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/29/me3-1793234529955.jpg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://cdn.mos.cms.futurecdn.net/Nv8WP9ipmA6k753ABMgKqD-918-80.png",
+                "cap": "Kenney는 자신의 웹사이트에서 이런 무료 게임 에셋 수천 개를 나눠 준다. (이미지 출처: Kenney)"
               },
               {
                 "t": "p",
-                "x": "En los últimos meses ha habido una explosión de AI en la escena del modding. Ya sean mods de mashup en Twitter o descompilaciones completas hechas por Claude, la AI está en todas partes en la comunidad de mods, y podría estar matando el hobby."
-              },
-              {
-                "t": "p",
-                "x": "Mgamerz, de ME3Tweaks, creador de un nuevo mod ME3 Multiplayer para Mass Effect Legendary Edition, admite que Claude es muy eficaz para modificar juegos, pero dice que está provocando una avalancha de contenido de poco esfuerzo. «La dificultad de hacer mods y de iniciarse en ello filtraba mucho material de baja calidad». Los mods de AI sin optimizar pueden romper otros mods o inflar el uso de memoria."
-              },
-              {
-                "t": "p",
-                "x": "«¿Iniciarse en [el modding]? Siento que el modding se está muriendo un poco. Si llegas y dices: 'Solo quiero hacer esto, sin AI (no AI)'... ahora prácticamente tienes que trabajar en secreto»."
-              },
-              {
-                "t": "p",
-                "x": "No se opone a los mods de AI de uso personal: «En cuanto entregas este producto a otra persona y lo compartes con el mundo, de pronto puede convertirse en un problema de todos. Y, por mi experiencia, todos los que hacen cosas con vibe coding, dos semanas después, ya no están»."
+                "x": "개발사 Dead Teapot은 Kenney를 지지하며 Epic Games Store 출시를 취소했다. Kenney는 후원금과 60,000개 에셋을 모두 담은 $20 번들로 생계를 꾸린다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Mass Effect 3の\nAIでmoddingは死ぬか",
-          "body": "Mass Effect 3のmodderは、AIとClaudeが趣味を殺しうると語る。",
-          "mini_headline": "modder：AIがmoddingを殺すかもしれない",
+          "headline": "KenneyとSweeney\n生成AIめぐり対立",
+          "body": "生成AIの圧力に屈するなと説くKenneyに、Tim SweeneyがXで反論した。",
+          "mini_headline": "Kenney vs. Sweeney 生成AI論争",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/29/me3-1793234529955.jpg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "ここ数か月、Modシーンでは AI が爆発的に広がった。Twitter のマッシュアップ Mod であれ、Claude による完全なデコンパイルであれ、AI は Mod コミュニティのいたるところにあり、この趣味そのものを殺しかねない。"
+                "x": "数千点の無料ゲームアセットを配布していることで知られるアーティストのKenneyは、生成AIを使えという圧力に屈しないよう他のアーティストに呼びかけた。数時間後、Epic GamesのCEO、Tim Sweeneyが返信で「でたらめだ、Kenney」と書き込んだ。Elon MuskもSweeneyを支持して加わった。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/dN5L7H63LSbvE6whFiWNgP-772-80.png",
+                "cap": "（画像クレジット：Kenney/Tim Sweeney）"
               },
               {
                 "t": "p",
-                "x": "Mass Effect Legendary Edition 向けの新しい ME3 Multiplayer Mod を手がける ME3Tweaks の Mgamerz は、Claude がゲームの Mod 制作に非常に有効だと認めつつも、手間をかけないコンテンツが雪崩のように押し寄せる原因になっていると語る。「Mod を作り、その世界に入ることの難しさが、低品質なものの多くをふるい落としていた」。最適化されていない AI Mod は、ほかの Mod を壊したり、メモリ使用量を膨らませたりしうる。"
+                "x": "「AIには多少の利点があると思うが、問題があまりに多く、現状で使うのは不道徳だと感じる」とKenneyはPC Gamerに語った。Sweeneyは「業界全体に技術を提供する立場として、その利点を示すのはEpicの仕事であり、私の仕事だと考えている」と述べた。"
               },
               {
                 "t": "p",
-                "x": "「[Mod 制作を]始める？ Mod はいわば死にかけていると感じる。『AI なしで、ただこれをやりたい』という姿勢で入ってきたら……今ではほとんど隠れてやるしかない」"
+                "x": "GameDiscoverCoの調査によると、Steamユーザーの約69%はAIの使用を開示したゲームの購入について中立または問題ないと答え、55%超はSteamがより厳格な開示ルールを設けるべきだと考えている。SweeneyはSteamの要件を「忌まわしい」と呼んでいる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Nv8WP9ipmA6k753ABMgKqD-918-80.png",
+                "cap": "Kenneyは自身のサイトで、こうした無料ゲームアセットを数千点配布している。（画像クレジット：Kenney）"
               },
               {
                 "t": "p",
-                "x": "個人で使うにとどめる AI Mod には反対しない。「この成果物を誰かに渡し、世界と共有した途端、それは皆の問題になりうる。そして私の経験では、vibe code で何かを作る人は皆、2週間後にはいなくなっている」"
+                "x": "開発者のDead TeapotはKenneyを支持してEpic Games Storeでのリリースを中止した。Kenneyは寄付と、全60,000点のアセットをまとめた$20のバンドルで生計を立てている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Kenney与Sweeney\n因生成式AI起冲突",
+          "body": "Kenney呼吁美术师勿向生成式AI压力低头，Tim Sweeney在X上斥之为胡扯。",
+          "mini_headline": "Kenney vs. Sweeney：生成式AI之争",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "以免费发布数千款游戏素材而闻名的美术师Kenney，鼓励其他美术师不要屈服于使用生成式AI的压力。几小时后，Epic Games CEO Tim Sweeney在回复中写道：“Kenney，这是胡扯。”Elon Musk也加入进来声援Sweeney。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/dN5L7H63LSbvE6whFiWNgP-772-80.png",
+                "cap": "（图片来源：Kenney/Tim Sweeney）"
+              },
+              {
+                "t": "p",
+                "x": "Kenney告诉PC Gamer：“我认为AI有一定好处，但它的问题实在太多，我觉得在目前的状态下使用它是不道德的。”Sweeney则表示：“作为面向整个行业的技术提供者，我认为为它进行正面论证是Epic的工作，也是我的工作。”"
+              },
+              {
+                "t": "p",
+                "x": "GameDiscoverCo的一项调查发现，约69%的Steam用户对购买披露使用AI的游戏持中立或接受态度，而超过55%的用户认为Steam应制定更严格的披露规则。Sweeney称Steam的这一要求“令人憎恶”。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Nv8WP9ipmA6k753ABMgKqD-918-80.png",
+                "cap": "Kenney在其网站上免费发布数千款这样的游戏素材。（图片来源：Kenney）"
+              },
+              {
+                "t": "p",
+                "x": "开发商Dead Teapot为声援Kenney取消了在Epic Games Store的发行。Kenney靠捐赠以及一个包含全部60,000个素材、售价$20 的合集维持生计。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El artista Kenney y Tim Sweeney\nchocan por la AI generativa",
+          "body": "Kenney pidió a los artistas no ceder ante la AI generativa; Tim Sweeney, CEO de Epic, lo tachó de tontería en X.",
+          "mini_headline": "Kenney vs. Sweeney sobre la AI generativa",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Kenney, un artista conocido por regalar miles de recursos gratuitos para juegos, animó a otros artistas a no ceder ante la presión de usar AI generativa. Unas horas después, el CEO de Epic Games, Tim Sweeney, le respondió: \"Esto es una tontería, Kenney\". Elon Musk también intervino para respaldar a Sweeney."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/dN5L7H63LSbvE6whFiWNgP-772-80.png",
+                "cap": "(Crédito de imagen: Kenney/Tim Sweeney)"
+              },
+              {
+                "t": "p",
+                "x": "\"Creo que la AI tiene algunos beneficios, pero tiene demasiados problemas y me parece inmoral usarla en su estado actual\", dijo Kenney a PC Gamer. Sweeney afirmó: \"Como proveedor de tecnología para toda la industria, considero que es trabajo de Epic y mío defender sus ventajas\"."
+              },
+              {
+                "t": "p",
+                "x": "Una encuesta de GameDiscoverCo halló que alrededor del 69% de los usuarios de Steam se muestran neutrales o conformes con comprar juegos que declaran el uso de AI, mientras que más del 55% cree que Steam debería tener normas de divulgación más estrictas. Sweeney califica el requisito de Steam de \"aborrecible\"."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Nv8WP9ipmA6k753ABMgKqD-918-80.png",
+                "cap": "Kenney regala en su sitio web miles de recursos gratuitos para juegos como estos. (Crédito de imagen: Kenney)"
+              },
+              {
+                "t": "p",
+                "x": "Un desarrollador, Dead Teapot, canceló su lanzamiento en Epic Games Store en apoyo a Kenney, que vive de donaciones y de un paquete de $20 con los 60,000 recursos."
               }
             ]
           }
@@ -1761,121 +1741,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Mass Effect 3\nAI로 모딩 고사 우려",
-          "body": "모더는 AI 매시업과 Claude-made 디컴파일이 모딩을 죽일 수 있다고 봤다.",
-          "mini_headline": "모더 “AI가 모딩 죽일 수도”",
+          "headline": "Kenney·Sweeney\n생성형 AI 놓고 충돌",
+          "body": "AI 압박에 맞서자는 Kenney 글을 Sweeney가 X에서 '헛소리'라 했다.",
+          "mini_headline": "Kenney vs. Sweeney 생성형 AI 논쟁",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/29/me3-1793234529955.jpg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "지난 몇 달 사이 모딩 씬에서 AI가 폭발적으로 늘었다. Twitter에 올라오는 매시업 모드든 Claude가 해낸 전체 디컴파일이든, 모드 커뮤니티 곳곳에 AI가 있고, 이것이 취미로서의 모딩을 죽이고 있을지도 모른다."
+                "x": "수천 개의 무료 게임 에셋을 나눠 주는 것으로 유명한 아티스트 Kenney가 다른 아티스트들에게 생성형 AI를 쓰라는 압박에 굴하지 말라고 독려했다. 몇 시간 뒤 Epic Games CEO Tim Sweeney가 답글을 달았다. \"헛소리다, Kenney.\" Elon Musk도 끼어들어 Sweeney를 거들었다."
               },
-              {
-                "t": "p",
-                "x": "새 Mass Effect Legendary Edition ME3 Multiplayer 모드를 만든 ME3Tweaks의 Mgamerz는 Claude가 게임 모딩에 매우 효과적이라고 인정하면서도, 저품질 콘텐츠가 쏟아지는 원인이 되고 있다고 말한다. “모드를 만들고 입문하기가 어려웠던 덕분에 질 낮은 것들이 많이 걸러졌다.” 최적화되지 않은 AI 모드는 다른 모드를 망가뜨리거나 메모리 사용량을 부풀릴 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "“[모딩]에 입문한다고? 모딩은 조금씩 죽어 가는 것 같다. 들어와서 ‘AI 없이(no AI) 그냥 이걸 하고 싶다’고 하면… 이제는 거의 몰래 작업해야 한다.”"
-              },
-              {
-                "t": "p",
-                "x": "그는 개인용으로만 쓰는 AI 모드에는 반대하지 않는다. “이 결과물을 다른 사람에게 넘기고 세상에 공유하는 순간, 갑자기 모두의 문제가 될 수 있다. 내 경험상 바이브 코딩으로 뭔가를 만든 사람들은 두 주 뒤면 다 사라진다.”"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Mass Effect 3\n模组作者忧AI扼杀模组圈",
-          "body": "Mass Effect 3模组作者称，AI混搭和Claude-made反编译或扼杀这一爱好。",
-          "mini_headline": "模组作者：AI或在扼杀模组",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/29/me3-1793234529955.jpg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://cdn.mos.cms.futurecdn.net/dN5L7H63LSbvE6whFiWNgP-772-80.png",
+                "cap": "(이미지 출처: Kenney/Tim Sweeney)"
               },
               {
                 "t": "p",
-                "x": "过去几个月里，AI在模组圈呈爆发式增长。无论是Twitter上的混搭模组，还是由Claude完成的完整反编译，AI在模组社区无处不在，而这可能正在扼杀这项爱好。"
+                "x": "Kenney는 PC Gamer에 \"AI에 어느 정도 이점은 있다고 보지만 문제가 너무 많아서 지금 상태로 쓰는 것은 비윤리적이라고 생각한다\"고 말했다. Sweeney는 \"업계 전체에 기술을 제공하는 입장에서, 그 긍정적인 면을 알리는 것이 Epic의 일이자 내 일이라고 본다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "ME3Tweaks的Mgamerz新制作了一款Mass Effect Legendary Edition ME3 Multiplayer模组。他承认Claude在游戏模组制作上非常有效，但表示它正引发低质量内容的雪崩。“制作模组和入门的难度，过去筛掉了大量低质量的东西。”未经优化的AI模组可能破坏其他模组，或让内存占用暴涨。"
+                "x": "GameDiscoverCo 조사에 따르면 Steam 이용자의 약 69%는 AI 사용을 밝힌 게임을 사는 데 중립적이거나 괜찮다고 답했고, 55% 이상은 Steam이 더 엄격한 공개 규정을 둬야 한다고 봤다. Sweeney는 Steam의 요건을 \"혐오스럽다\"고 부른다."
               },
-              {
-                "t": "p",
-                "x": "“入门[模组制作]？我觉得模组制作有点在走向消亡。如果你进来说‘我只想做这个，不用AI（no AI）’……现在基本上只能偷偷干了。”"
-              },
-              {
-                "t": "p",
-                "x": "他并不反对仅供个人使用的AI模组：“一旦你把这个成果交给别人、分享给全世界，它突然就可能变成所有人的问题。而且据我的经验，所有靠氛围编程（vibe coding）做东西的人，两周后就都不见了。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un modder de Mass Effect 3 teme\nque la AI mate el modding",
-          "body": "Un modder de Mass Effect 3 dice que los mashups de AI y las descompilaciones Claude-made podrían matar el hobby.",
-          "mini_headline": "Un modder: la AI podría matar el modding",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/29/me3-1793234529955.jpg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://cdn.mos.cms.futurecdn.net/Nv8WP9ipmA6k753ABMgKqD-918-80.png",
+                "cap": "Kenney는 자신의 웹사이트에서 이런 무료 게임 에셋 수천 개를 나눠 준다. (이미지 출처: Kenney)"
               },
               {
                 "t": "p",
-                "x": "En los últimos meses ha habido una explosión de AI en la escena del modding. Ya sean mods de mashup en Twitter o descompilaciones completas hechas por Claude, la AI está en todas partes en la comunidad de mods, y podría estar matando el hobby."
-              },
-              {
-                "t": "p",
-                "x": "Mgamerz, de ME3Tweaks, creador de un nuevo mod ME3 Multiplayer para Mass Effect Legendary Edition, admite que Claude es muy eficaz para modificar juegos, pero dice que está provocando una avalancha de contenido de poco esfuerzo. «La dificultad de hacer mods y de iniciarse en ello filtraba mucho material de baja calidad». Los mods de AI sin optimizar pueden romper otros mods o inflar el uso de memoria."
-              },
-              {
-                "t": "p",
-                "x": "«¿Iniciarse en [el modding]? Siento que el modding se está muriendo un poco. Si llegas y dices: 'Solo quiero hacer esto, sin AI (no AI)'... ahora prácticamente tienes que trabajar en secreto»."
-              },
-              {
-                "t": "p",
-                "x": "No se opone a los mods de AI de uso personal: «En cuanto entregas este producto a otra persona y lo compartes con el mundo, de pronto puede convertirse en un problema de todos. Y, por mi experiencia, todos los que hacen cosas con vibe coding, dos semanas después, ya no están»."
+                "x": "개발사 Dead Teapot은 Kenney를 지지하며 Epic Games Store 출시를 취소했다. Kenney는 후원금과, 60,000개 에셋 전체를 담은 $20 번들로 생계를 꾸린다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Mass Effect 3の\nAIでmoddingは死ぬか",
-          "body": "Mass Effect 3のmodderは、AIとClaudeが趣味を殺しうると語る。",
-          "mini_headline": "modder：AIがmoddingを殺すかもしれない",
+          "headline": "KenneyとSweeney\n生成AIめぐり対立",
+          "body": "生成AIの圧力に屈するなと説くKenneyに、Tim SweeneyがXで反論した。",
+          "mini_headline": "Kenney vs. Sweeney 生成AI論争",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/29/me3-1793234529955.jpg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "ここ数か月、Modシーンでは AI が爆発的に広がった。Twitter のマッシュアップ Mod であれ、Claude による完全なデコンパイルであれ、AI は Mod コミュニティのいたるところにあり、この趣味そのものを殺しかねない。"
+                "x": "数千点の無料ゲームアセットを配布していることで知られるアーティストのKenneyは、生成AIを使えという圧力に屈しないよう他のアーティストに呼びかけた。数時間後、Epic GamesのCEO、Tim Sweeneyが返信で「でたらめだ、Kenney」と書き込んだ。Elon MuskもSweeneyを支持して加わった。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/dN5L7H63LSbvE6whFiWNgP-772-80.png",
+                "cap": "（画像クレジット：Kenney/Tim Sweeney）"
               },
               {
                 "t": "p",
-                "x": "Mass Effect Legendary Edition 向けの新しい ME3 Multiplayer Mod を手がける ME3Tweaks の Mgamerz は、Claude がゲームの Mod 制作に非常に有効だと認めつつも、手間をかけないコンテンツが雪崩のように押し寄せる原因になっていると語る。「Mod を作り、その世界に入ることの難しさが、低品質なものの多くをふるい落としていた」。最適化されていない AI Mod は、ほかの Mod を壊したり、メモリ使用量を膨らませたりしうる。"
+                "x": "「AIには多少の利点があると思うが、問題があまりに多く、現状で使うのは不道徳だと感じる」とKenneyはPC Gamerに語った。Sweeneyは「業界全体に技術を提供する立場として、その利点を示すのはEpicの仕事であり、私の仕事だと考えている」と述べた。"
               },
               {
                 "t": "p",
-                "x": "「[Mod 制作を]始める？ Mod はいわば死にかけていると感じる。『AI なしで、ただこれをやりたい』という姿勢で入ってきたら……今ではほとんど隠れてやるしかない」"
+                "x": "GameDiscoverCoの調査によると、Steamユーザーの約69%はAIの使用を開示したゲームの購入について中立または問題ないと答え、55%超はSteamがより厳格な開示ルールを設けるべきだと考えている。SweeneyはSteamの要件を「忌まわしい」と呼んでいる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Nv8WP9ipmA6k753ABMgKqD-918-80.png",
+                "cap": "Kenneyは自身のサイトで、こうした無料ゲームアセットを数千点配布している。（画像クレジット：Kenney）"
               },
               {
                 "t": "p",
-                "x": "個人で使うにとどめる AI Mod には反対しない。「この成果物を誰かに渡し、世界と共有した途端、それは皆の問題になりうる。そして私の経験では、vibe code で何かを作る人は皆、2週間後にはいなくなっている」"
+                "x": "開発者のDead TeapotはKenneyを支持してEpic Games Storeでのリリースを中止した。Kenneyは寄付と、全60,000点のアセットをまとめた$20のバンドルで生計を立てている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Kenney与Sweeney\n因生成式AI起冲突",
+          "body": "Kenney呼吁美术师勿向生成式AI压力低头，Tim Sweeney在X上斥之为胡扯。",
+          "mini_headline": "Kenney vs. Sweeney：生成式AI之争",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "以免费发布数千款游戏素材而闻名的美术师Kenney，鼓励其他美术师不要屈服于使用生成式AI的压力。几小时后，Epic Games CEO Tim Sweeney在回复中写道：“Kenney，这是胡扯。”Elon Musk也加入进来声援Sweeney。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/dN5L7H63LSbvE6whFiWNgP-772-80.png",
+                "cap": "（图片来源：Kenney/Tim Sweeney）"
+              },
+              {
+                "t": "p",
+                "x": "Kenney告诉PC Gamer：“我认为AI有一定好处，但它的问题实在太多，我觉得在目前的状态下使用它是不道德的。”Sweeney则表示：“作为面向整个行业的技术提供者，我认为为它进行正面论证是Epic的工作，也是我的工作。”"
+              },
+              {
+                "t": "p",
+                "x": "GameDiscoverCo的一项调查发现，约69%的Steam用户对购买披露使用AI的游戏持中立或接受态度，而超过55%的用户认为Steam应制定更严格的披露规则。Sweeney称Steam的这一要求“令人憎恶”。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Nv8WP9ipmA6k753ABMgKqD-918-80.png",
+                "cap": "Kenney在其网站上免费发布数千款这样的游戏素材。（图片来源：Kenney）"
+              },
+              {
+                "t": "p",
+                "x": "开发商Dead Teapot为声援Kenney取消了在Epic Games Store的发行。Kenney靠捐赠以及一个包含全部60,000个素材、售价$20 的合集维持生计。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El artista Kenney y Tim Sweeney\nchocan por la AI generativa",
+          "body": "Kenney pidió a los artistas no ceder ante la AI generativa; Tim Sweeney, CEO de Epic, lo tachó de tontería en X.",
+          "mini_headline": "Kenney vs. Sweeney sobre la AI generativa",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Kenney, un artista conocido por regalar miles de recursos gratuitos para juegos, animó a otros artistas a no ceder ante la presión de usar AI generativa. Unas horas después, el CEO de Epic Games, Tim Sweeney, le respondió: \"Esto es una tontería, Kenney\". Elon Musk también intervino para respaldar a Sweeney."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/dN5L7H63LSbvE6whFiWNgP-772-80.png",
+                "cap": "(Crédito de imagen: Kenney/Tim Sweeney)"
+              },
+              {
+                "t": "p",
+                "x": "\"Creo que la AI tiene algunos beneficios, pero tiene demasiados problemas y me parece inmoral usarla en su estado actual\", dijo Kenney a PC Gamer. Sweeney afirmó: \"Como proveedor de tecnología para toda la industria, considero que es trabajo de Epic y mío defender sus ventajas\"."
+              },
+              {
+                "t": "p",
+                "x": "Una encuesta de GameDiscoverCo halló que alrededor del 69% de los usuarios de Steam se muestran neutrales o conformes con comprar juegos que declaran el uso de AI, mientras que más del 55% cree que Steam debería tener normas de divulgación más estrictas. Sweeney califica el requisito de Steam de \"aborrecible\"."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Nv8WP9ipmA6k753ABMgKqD-918-80.png",
+                "cap": "Kenney regala en su sitio web miles de recursos gratuitos para juegos como estos. (Crédito de imagen: Kenney)"
+              },
+              {
+                "t": "p",
+                "x": "Un desarrollador, Dead Teapot, canceló su lanzamiento en Epic Games Store en apoyo a Kenney, que vive de donaciones y de un paquete de $20 con los 60,000 recursos."
               }
             ]
           }

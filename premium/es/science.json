@@ -10340,6 +10340,143 @@
           "x": "El resultado se refiere a la frecuencia con que un computador lee sus datos, no al tiempo total de cálculo, y deja margen para ventajas cuánticas sustanciales en problemas con una estructura útil."
         }
       ]
+    },
+    "science/astrogenesis-astro-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/connecting-artificial.jpg",
+          "cap": "Ilustración conceptual de AstroGenesis que muestra cómo agentes de AI especializados conectan la literatura científica, las observaciones astronómicas y el modelado basado en la física dentro de un entorno de investigación unificado. Credit: AstroGenesis team"
+        },
+        {
+          "t": "p",
+          "x": "El astrofísico Narek Sahakyan, director de ICRANet-Armenia, y un equipo internacional desarrollaron AstroGenesis, un sistema de AI multiagente que conecta distintas etapas de la investigación astrofísica en un único entorno. El artículo está publicado en arXiv."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores formulan preguntas en lenguaje natural. Un supervisor central asigna tareas a agentes especializados: uno busca en la literatura científica, otro recupera y analiza observaciones astronómicas, un agente de modelado calcula predicciones a partir de modelos físicos y las compara con las observaciones, y otro ayuda a explorar interpretaciones y preguntas de investigación."
+        },
+        {
+          "t": "video",
+          "yt": "Pgl6D4_N5YY"
+        },
+        {
+          "t": "p",
+          "x": "Para acelerar el modelado teórico, el equipo entrena redes neuronales con resultados de modelos físicos numéricos; una vez entrenadas, aproximan con rapidez esas predicciones dentro de los rangos de parámetros en los que se validaron, lo que permite a los investigadores explorar un espacio de parámetros mucho mayor."
+        },
+        {
+          "t": "p",
+          "x": "Sahakyan subraya que las interpretaciones AI-generated deben verificarse, que hay que respetar las incertidumbres observacionales y validar los modelos aproximados: \"El juicio científico sigue siendo esencial\"."
+        }
+      ]
+    },
+    "science/ss-dfa-optical-training": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/let-there-be-light--no.jpg",
+          "cap": "En el sistema de computación óptica usado para demostrar el enfoque single-map, la información se convierte en una señal óptica, se procesa al pasar por un bucle de fibra y luego se convierte de nuevo en señal eléctrica para su análisis. Credit: 2026 Nakajima et al. CC-BY-ND"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores, entre ellos los de la University of Tokyo, han desarrollado un nuevo enfoque para construir AI basada en la física —sistemas que aprovechan el comportamiento natural de sistemas físicos para procesar información— que reduce drásticamente la cantidad de cómputo necesaria para su funcionamiento. Se demostró con un sistema de computación óptica que procesa información con luz."
+        },
+        {
+          "t": "p",
+          "x": "El profesor asociado Kohei Nakajima y su equipo, que incluye a investigadores de NTT, combinaron un método de entrenamiento llamado SS-DFA con una arquitectura de red más sencilla llamada marco single-map. El estudio se publicó en Nature Computational Science."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de medir y registrar los estados intermedios del sistema y retroceder, SS-DFA usa el error final junto con información sobre el sistema para guiar el aprendizaje, lo que reduce la medición, el almacenamiento de datos y el cómputo necesarios. En la arquitectura single-map, muchas unidades siguen las reglas generales en lugar de depender de conexiones internas muy complejas."
+        },
+        {
+          "t": "p",
+          "x": "Sorprendentemente, el diseño simplificado igualó, y en algunas pruebas superó, a arquitecturas de redes neuronales más complejas, con mucho menos cómputo. El sistema usa una fibra óptica de 200 metros y un pequeño número de componentes electrónicos."
+        },
+        {
+          "t": "p",
+          "x": "El trabajo futuro comprobará si el enfoque escala a modelos de AI más grandes, como los de lenguaje y los multimodales; miniaturizado en un chip, podría procesar datos dentro de teléfonos, cámaras o coches autónomos."
+        }
+      ]
+    },
+    "science/llm-workplace-trust-penalty": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/be1996da-571f-422e-94db-f78f12f371d3/Rendition/low-res/Content/Public",
+          "cap": "La política organizativa influye en la penalización de confianza por usar LLMs. Credit: Yochanan Bigman"
+        },
+        {
+          "t": "p",
+          "x": "Un estudio dirigido por Samuel Meyers junto con el Dr. Yochanan Bigman, de la Hebrew University of Jerusalem, y el Dr. Roman Briker, de la WHU – Otto Beisheim School of Management, publicado en The Leadership Quarterly, concluye a partir de seis estudios que los supervisores confían menos en los empleados que usan ChatGPT y otros LLMs, incluso cuando el uso de AI no está prohibido de forma explícita."
+        },
+        {
+          "t": "p",
+          "x": "En un experimento, los empleados que hicieron el trabajo por sí mismos tenían un 68% de probabilidades de ganarse la confianza de sus supervisores, frente a solo un 24% cuando usaban AI. Aun así, el uso de AI se veía con mejores ojos que el plagio. La menor confianza se asoció con peores evaluaciones de desempeño y una menor idoneidad percibida para un ascenso."
+        },
+        {
+          "t": "p",
+          "x": "Cuando las organizaciones fomentaban explícitamente el uso de AI, la penalización de confianza se reducía de forma sustancial y dejaba de ser estadísticamente significativa. Los investigadores advierten que esta tensión podría empujar a los empleados hacia una \"shadow AI\" no declarada y piden políticas claras y formación para mandos."
+        }
+      ]
+    },
+    "science/claude-not-x-but-y-rhetoric": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2025/04/artificial-intelligence.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Un preprint de arXiv de Federico Boggia examina la epanortosis (epanorthosis), la antigua figura retórica de autocorrección que Cicero y Quintilian catalogaron como correctio, detrás del hábito \"not X, but Y\" del texto AI-generated. Boggia sostiene que el uso excesivo se aprende sobre todo de la redacción publicitaria web y se refuerza con el ajuste basado en retroalimentación humana."
+        },
+        {
+          "t": "p",
+          "x": "Al comparar Claude Haiku, Sonnet y Opus con textos humanos en siete géneros, los modelos usaron la epanortosis enfática a más del doble de la tasa humana en discursos (33.5 frente a 14.9 por cada diez mil palabras), pero a menos de una quinta parte en Q&A informales (1.3 frente a 8.2)."
+        },
+        {
+          "t": "p",
+          "x": "Un adaptador LoRA entrenado sobre Qwen2.5-7B-Instruct redujo la densidad de 61.4 a 4.7 a plena intensidad, y una instrucción de prompt de una sola frase la recortó casi tres cuartas partes en la oratoria de Claude. El artículo es un preprint que aún no ha pasado revisión por pares, y las pruebas son pequeños pilotos."
+        }
+      ]
+    },
+    "science/science-ucl-reconstruct-everything": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG",
+          "cap": "Reconstruct Everything"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de UCL desarrollaron un modelo de AI pionero, capaz de reconstruir colisiones de partículas completas, que ofrece un enfoque radicalmente nuevo ante un desafío fundamental de la física de partículas experimental."
+        },
+        {
+          "t": "p",
+          "x": "El Reconstruct Everything Model (REM) es el primer marco unificado de aprendizaje automático que reconstruye partículas directamente a partir de las mediciones de todos los grandes sistemas del detector, sin depender de la secuencia tradicional de algoritmos de reconstrucción especializados. Además, REM reconstruye partículas más pesadas, como los bosones W, Z y Higgs, a partir de sus productos de desintegración."
+        },
+        {
+          "t": "p",
+          "x": "Desarrollado en el Centre for Data Intensive Science and Industry de UCL, REM se probó con una simulación detallada de un detector propuesto para el Future Circular Collider del CERN."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados son notables: la eficiencia de reconstrucción de partículas pasó del 61% al 92%, la resolución de energía de los jets mejoró un 52% y la capacidad de distinguir bosones W y Z mejoró aproximadamente un 50% frente a los enfoques convencionales. El modelo reconstruye una colisión completa en solo 30 milisegundos con una sola GPU."
+        },
+        {
+          "t": "p",
+          "x": "Más allá de las mejoras de rendimiento, REM representa un posible cambio de paradigma. Al sustituir una compleja cadena de algoritmos optimizados de forma independiente por un marco unificado de AI, abre la posibilidad de replantear de raíz cómo los experimentos de física de partículas reconstruyen e interpretan las colisiones."
+        },
+        {
+          "t": "p",
+          "x": "La investigación estuvo dirigida por Max Hart y Kwok Yiu (Sunny) Wong, junto con Samuel Van Stroud, Philippa Duckett, Tim Scanlon y Gabriel Facini."
+        },
+        {
+          "t": "img",
+          "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/styles/wysiwyg_mobile/public/2026-11/rem_overview_assign_v10_res_split_tworow_heads-1.png.jpg?itok=IjAafSLE",
+          "cap": "HEP Collision Models"
+        }
+      ]
     }
   }
 }

@@ -11236,6 +11236,160 @@
           "x": "\"It definitely has the potential to reduce the total energy use for air-conditioning,\" says Björn Palm of KTH. By how much? That's less clear. Gradient CTO Vincent Romanin is skeptical: \"I personally have never used a product with an occupancy sensor that I feel like worked well.\" For Palm, sustainable cooling by 2050 depends on compact heat pumps and natural refrigerants rather than an AC that tracks you to the kitchen."
         }
       ]
+    },
+    "gadgets/arm-neural-dawn-framegen": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-game-main-menu-scaled.jpg",
+          "cap": "Robert Triggs / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "Arm worked with developer Sumo Digital to create Neural Dawn, a light platforming title built to use Unreal Engine's MegaLights ray-traced lighting. It leverages Arm's Neural Super Sampling and Denoising (NSSD) and Neural Frame Rate Upscaling (NFRU) to run on a smartphone. It needs an Arm Mali G2 Ultra NX GPU, making the MediaTek Dimensity 9600 Pro the only chipset that currently supports it."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Screenshot-4.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Arm-Mali-G2-Ultra-neural-accelerator.jpg",
+          "cap": "Arm"
+        },
+        {
+          "t": "p",
+          "x": "NFRU uses an AI neural network on the GPU to generate an interpolated frame for every natively rendered one, so a game running at 30 FPS outputs 60 FPS. NSSD upscales a low-resolution image (Arm highlighted 540p to 1080p) while also handling anti-aliasing and denoising ray-traced lighting."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Performance-Graph.jpg",
+          "cap": "Robert Triggs / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "On the OPPO Find X10 Pro Max, the game averaged 59.8 FPS, with 1% lows at 57.2 FPS, and temperatures peaked at 37.7°C after around 18 minutes. The trade-offs: motion ghosting around the character while turning the camera, and occasional control latency. Upscaling, the author concludes, is mobile's best shot at console- and PC-quality graphics."
+        }
+      ]
+    },
+    "gadgets/kimi-k3-optane-homelab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Wpdi2avEo8ZBZMremLVgaU-2496-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A homelab builder on Reddit has run Moonshot AI's 2.8-trillion-parameter Kimi K3 AI model on discontinued second-gen Optane PMem 200 memory, using a 40-core 3rd-gen Xeon Scalable CPU and not a GPU for inference. It runs at 0.85 tokens per second even with 1-bit quantization, and 0.75 tokens per second with 3-bit quantization."
+        },
+        {
+          "t": "p",
+          "x": "Even the smallest community quantization of Kimi K3 needs at least 610GB of RAM, and secondhand Optane is one of the few ways to reach that capacity at home; the builder says it costs \"a fraction\" of the equivalent DRAM. The build ran Optane in App Direct mode."
+        },
+        {
+          "t": "p",
+          "x": "The Optane DIMMs get \"extremely hot\" with sustained inference, which the builder says can endanger neighboring DRAM. The advice: \"treat active DIMM cooling as mandatory,\" with dual 12W blower fans aimed at the modules. Intel rates each module at 12W or 15W, with throttling at 83 degrees Celsius."
+        },
+        {
+          "t": "p",
+          "x": "The numbers are pre-tuning. The builder plans to add GPUs and load parts of the model into DRAM as a faster tier."
+        }
+      ]
+    },
+    "gadgets/tomsguide-ai-earbuds-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/dzhSAejg9r2CVeUepQmEaW-2000-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In a three-week Tom's Guide poll, only five of 200 readers said they specifically look for AI features in earbuds and headphones: just 2% of the vote. Sound quality won with 135 votes, and ANC came second with 13%."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Ec4yZr9N8LKMoFzrgJ9ya3.png",
+          "cap": "Tom's Guide / 5of10.com"
+        },
+        {
+          "t": "p",
+          "x": "The Anker Soundcore Space 2 Pro are advertised with the \"world's first neural-net compute-in-memory AI audio chip,\" and the Soundcore app shows an AI chatbot tab. But Anker said Anka on Space 2 Pro \"only supports activation via 'Hey Anka' and basic voice interactions or chats\"; other features are still in development."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/PAQH7qRotUavbzbRoHmrg.jpg",
+          "cap": "Anker / Future"
+        },
+        {
+          "t": "p",
+          "x": "AI that works is a plus, like Live Translation on the AirPods Max 2 or Samsung Galaxy Buds 4 Pro, and the Soundcore Liberty 5 Pro Max's call transcription. Cambridge Audio skipped AI on the $149 Melomania A100 SE: \"we haven't found it's a requirement when listening to your favourite music on the go.\""
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/JrpSckBC4M5g9ugniCMYsd.jpg",
+          "cap": "Tom's Guide"
+        }
+      ]
+    },
+    "gadgets/underdog-woof-32mb": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.02.34-PM.jpg?resize=1200,542"
+        },
+        {
+          "t": "p",
+          "x": "AI companies are racing to build bigger models that need massive processing power, while some researchers and startups are making smaller models that run on edge devices like your phone or computer."
+        },
+        {
+          "t": "p",
+          "x": "One such startup, Underdog, has released a game built with its new voice model called Woof that's only 32MB large. The game features a room with a retro tech theme, a typewriter, and a CRT monitor; its intro warns users about “intrusive” cloud providers in the town — ostensibly a jab at cloud-based models."
+        },
+        {
+          "t": "p",
+          "x": "You can type anything on the typewriter and the game will speak it back, or rotate the tuner to generate different kinds of music. All of this works within the browser through Underdog's speech generation model, which, the company says, can run on most devices without any internet connection. The model has 31 million parameters and is open for everyone to download."
+        },
+        {
+          "t": "p",
+          "x": "The demo comes weeks after Underdog launched Bark, a 167MB speech-to-text model for transcription and dictation on edge devices. Founder Sigil Wen told TechCrunch: “We just want to train the best open models that are American-made, that are open, that are capable and allow people to have private AI.”"
+        },
+        {
+          "t": "p",
+          "x": "Underdog has also released a 27-billion-parameter model that can run on laptops, along with a waitlisted app positioned as a locally hosted alternative to Muse and Instinct."
+        }
+      ]
+    },
+    "gadgets/raycast-mac-dictate-screen": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/raycast-dictate-ai.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Following the recent release of Screen Awareness, Raycast got an interesting update this week that lets users talk to AI about whatever is on their screen without having to explain the context."
+        },
+        {
+          "t": "p",
+          "x": "Last August, Raycast announced Screen Awareness, which lets users bring context from their active app or window directly into AI Chat, “so you don’t have to copy text, attach screenshots, or explain what you’re looking at,” said Raycast."
+        },
+        {
+          "t": "p",
+          "x": "This week, Raycast took that functionality a step further with Dictate to AI, a new command that lets users speak their requests while automatically providing AI with context from the active app."
+        },
+        {
+          "t": "p",
+          "x": "Raycast notes that the release also includes: a new Dictation AI extension, so you can use your transcriptions in AI Chat, manage your styles and get feedback on them; on Mac, a menu bar command to keep track of your AI usage (Settings → AI → Show AI Usage in Menu Bar); and on Mac, a Contacts AI extension to search, create, update and delete contacts from AI Chat."
+        },
+        {
+          "t": "p",
+          "x": "Raycast also noted other recent updates and additions, including that Raycast Notes now supports images and unlimited notes for free users, while the Mac app received several performance improvements, including faster search and lower memory usage. Meanwhile, Raycast for iOS got a new keyboard with AI-powered writing tools, along with improved Cloud Sync capabilities."
+        },
+        {
+          "t": "p",
+          "x": "Windows users also got some love, with Screen Awareness gaining new commands to send individual elements or entire windows to AI Chat. To learn more about Raycast v2.11, follow this link."
+        }
+      ]
     }
   }
 }

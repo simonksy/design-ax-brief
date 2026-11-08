@@ -1,26 +1,43 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-09",
   "section": "marketing",
   "cards": [
     {
-      "id": "blend-agent-bot-blocks-audit",
+      "id": "lebron-bron-ai-likeness-ad",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Bot protection turns away\nBlend's AI shopping agent",
-      "body": "Bot protection stopped Blend's AI shopping agent at 29 of 200 retailers: 20% of large ones, 2.5% of emerging ones.",
-      "mini_headline": "Bot walls stop Blend's agent",
+      "headline": "LeBron's reps target AI ad\nfor betting app Bron AI",
+      "body": "LeBron James's reps are demanding a viral AI ad for betting app Bron AI be pulled, saying it used his likeness.",
+      "mini_headline": "LeBron reps target\nBron AI ad",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/bot-protection-blocks-blends-ai-shopping-agent-at-29-of-200-retailers/",
-      "accent": "#eb367f",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/onsi/athlete-lifestyle/lebron-james-takes-legal-action-over-ai-ad-that-crossed-a-line",
+      "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
-          {"t": "img", "src": "https://ppc.land/content/images/2026/11/blend-ai-shopping-audit-bot-protection-doorman-scissor-gate-welcome-mat.jpg"},
-          {"t": "p", "x": "Blend's AI Shopping Audit, released with a findings statement on Nov 4, 2026, sent the company's AI shopping agent to 200 retailers. Bot protection turned the agent away at 29 of them."},
-          {"t": "p", "x": "Large retailers refused the agent at a 20% rate, while emerging retailers refused it at just 2.5%."},
-          {"t": "p", "x": "Yet all 24 refusers with a readable robots.txt file allow AI crawlers, which raises the question of who set those blocks. For merchants, the gap points to bot-protection settings rather than stated crawler policy as the thing to check before agentic shopping traffic arrives."}
+          {
+            "t": "img",
+            "src": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4378,h_2462/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/01m6pxtcsy8xmktktfdb-c0e361ab794fb66f5c62234cf143b62d.webp",
+            "cap": "Philadelphia 76ers forward LeBron James looks on during the second quarter against the Chicago Bulls. | IMAGN IMAGES via Reuters Connect"
+          },
+          {
+            "t": "p",
+            "x": "LeBron James has sent a cease-and-desist letter to Bron AI, an artificial intelligence-powered sports betting app whose promotional video features a character bearing a striking resemblance to James."
+          },
+          {
+            "t": "p",
+            "x": "According to a Nov. 5 report from Front Office Sports, the video features a James-like character wearing a basketball jersey with the nickname \"Bron\" and his familiar No. 23, speaking in a voice resembling James' as he browses the app, which promotes tools for analyzing betting odds and placing wagers through other platforms. Posted Wednesday, it reportedly drew more than 900,000 views in less than 24 hours."
+          },
+          {
+            "t": "p",
+            "x": "\"LeBron is in no way affiliated with this unauthorized use of his likeness,\" a spokesperson for James told Front Office Sports. The letter objects to the company's use of James' name, nickname, appearance and other identifying characteristics, and demands that it inform its users in writing that James has no involvement with the business. The video was removed from X after the report, though it remained on Instagram."
+          },
+          {
+            "t": "p",
+            "x": "James has an exclusive endorsement agreement with Polymarket; his attorneys argue the promotion creates a misleading impression of another commercial relationship. NBA rules prohibit players from wagering on league games. A representative for Luka Doncic said he had also sent Bron AI a cease-and-desist letter."
+          }
         ]
       }
     }

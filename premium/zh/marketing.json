@@ -3913,6 +3913,134 @@
           "x": "独立广告技术顾问Jonathan D’Sousa-Rauto表示：“当智能体商务与广告相遇，展示（impression）的定义以及报告和衡量都至关重要。”请求可在Amazon Shopping应用、网站和Alexa-enabled设备之间延续，智能体还可通过Shop Direct从Amazon以外的商店购买。"
         }
       ]
+    },
+    "marketing/lebron-bron-ai-likeness-ad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4378,h_2462/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/01m6pxtcsy8xmktktfdb-c0e361ab794fb66f5c62234cf143b62d.webp",
+          "cap": "Philadelphia 76ers前锋LeBron James在对阵Chicago Bulls的第二节比赛中观战。| IMAGN IMAGES via Reuters Connect"
+        },
+        {
+          "t": "p",
+          "x": "LeBron James已向Bron AI发出停止侵权函。Bron AI是一款人工智能驱动的体育博彩应用，其宣传视频中出现了一个与James极为相像的角色。"
+        },
+        {
+          "t": "p",
+          "x": "据Front Office Sports 11月5日（Nov. 5）的报道，视频中这个酷似James（James-like）的角色身穿印有昵称“Bron”和他熟悉的No. 23号码的篮球球衣，用类似James的声音一边浏览应用一边讲解。该应用宣传的是分析博彩赔率、并通过其他平台下注的工具。据报道，视频于周三发布，不到24小时观看量就超过900,000次。"
+        },
+        {
+          "t": "p",
+          "x": "James的一位发言人对Front Office Sports表示：“LeBron与这起未经授权使用其肖像的行为没有任何关联。”函件反对该公司使用James的姓名、昵称、外貌及其他可识别特征，并要求其书面告知用户James与该业务毫无关系。报道发布后，视频已从X上删除，但仍保留在Instagram上。"
+        },
+        {
+          "t": "p",
+          "x": "James与Polymarket签有独家代言协议；他的律师认为，这次宣传会让人误以为双方存在另一层商业关系。NBA规则禁止球员对联盟比赛下注。Luka Doncic的一名代表表示，他也已向Bron AI发出停止侵权函。"
+        }
+      ]
+    },
+    "marketing/pizzala-tiktok-ai-drstone-ad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/08/dr-stone-la-pizza.jpg",
+          "cap": "dr stone la pizza"
+        },
+        {
+          "t": "p",
+          "x": "一项AI-powered的TikTok广告功能生成并发布了一段使用Dr. STONE角色的未授权视频，PIZZA-LA随后致歉。"
+        },
+        {
+          "t": "p",
+          "x": "这家日本披萨连锁确实与该动画有过官方合作，合作从October 1持续到November 1，推出了采用全新绘制插画的限定披萨和周边商品。但通过PIZZA-LA官方TikTok账号投放的这段视频，并未经过Dr. STONE制作委员会的审核或批准。"
+        },
+        {
+          "t": "p",
+          "x": "观众发现广告中的角色姿势、表情和插画与官方宣传视觉不同，事件由此首次曝光。"
+        },
+        {
+          "t": "p",
+          "x": "PIZZA-LA的运营方Four Seeds表示，员工设置TikTok广告活动时，一项AI-powered的自动广告生成与投放功能仍处于开启状态，导致视频被发布。公司称并未充分意识到该功能正在运行，在没有关闭它的情况下完成了广告设置。"
+        },
+        {
+          "t": "p",
+          "x": "PIZZA-LA表示已删除该广告，并在调查事件经过期间暂停了在TikTok上的全部广告。公司还直接向Dr. STONE制作委员会道歉，并表示将重新检查广告设置和内容管理流程，以防类似事件再次发生。"
+        }
+      ]
+    },
+    "marketing/naver-powerlink-ai-copy-pilot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.fnnews.com/resource/media/image/2026/11/08/202611081827400014_l.jpg",
+          "cap": "Naver PowerLink的“文案生成”方式。Naver提供"
+        },
+        {
+          "t": "p",
+          "x": "Naver和Kakao正以人工智能（AI）为抓手，加快提升广告业务的盈利能力。Naver将于12日至19日在搜索广告“PowerLink”中试行基于AI的“文案生成”功能，由AI分析广告主登记的广告素材及其链接网页等，自动生成符合用户搜索意图的广告文案。Naver曾于8月以“AI摘要文本”的名称预告该功能，但推迟了日程，随后更改名称并确定了测试时间。"
+        },
+        {
+          "t": "p",
+          "x": "生成的文案不会取代现有广告，而是额外显示在标题、宣传语或单独区域中。计费方式不变，但通过AI生成文案产生的点击同样收取广告费。广告主无法直接修改AI生成的文案，但可以设置不使用该功能。"
+        },
+        {
+          "t": "p",
+          "x": "Kakao正在构想一种从对话中把握购买意图的广告模式，例如用户与AI商量旅行计划时，为其推荐相关住宿或预订服务。为此，Kakao将在明年第一季度前建成“通用记忆基础设施”，并于12月启动面向广告主的AI智能体“AI Crew”的封闭测试。"
+        }
+      ]
+    },
+    "marketing/moloco-cara-molocon26-ctv": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/7vlne7_202611060313.jpg"
+        },
+        {
+          "t": "p",
+          "x": "全球AI广告企业Moloco于2026年11月5日在首尔举办年度旗舰活动“Molocon 26”。活动以“增长，更进一步（Where growth goes next）”为主题，约500人参加。Moloco以AI广告系统CARA为核心，展示了在应用、CTV和电商媒体中寻找客户的方法。"
+        },
+        {
+          "t": "p",
+          "x": "CEO Ikjin Ahn表示：“如今的瓶颈不在于做出产品，而在于被发现，Moloco正是为解决这个问题而生的。”"
+        },
+        {
+          "t": "p",
+          "x": "CTO Donghwan Jeon介绍的CARA意为复合广告推荐架构（Compound Ad Recommendation Architecture），是一个整合了30多个AI模型、智能体和专用软件的系统。它每天评估超过1万亿次广告机会，预测谁会转化、出价多少以及展示哪种创意。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/ods77v_202611060321.jpg"
+        },
+        {
+          "t": "p",
+          "x": "CTV合作负责人Hyejung Lee介绍，Moloco将在移动端打造的效果型AI应用到TV屏幕上，根据预测价值竞价高端TV广告位，并通过保留组测试衡量增量增长。APAC战略项目负责人Hyunchae Lee表示，电商媒体是韩国主要平台上增长最快的渠道之一。"
+        }
+      ]
+    },
+    "marketing/google-ads-creative-drop2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gstatic.com/marketing-cms/assets/images/ads/1c/4c/496f057d4eea9af7b10020b29137/cd2-3x2-card-01.webp=n-w1050-h700-fcrop64=1,00000000ffffffff-rw",
+          "cap": "Creative Drop #2详解:让广告系列为节日季做好准备的全新AI功能"
+        },
+        {
+          "t": "p",
+          "x": "Creative Drop #2是Google Ads Product团队推出的月度系列之一,介绍了借助Google AI为节日广告系列做好准备的三种方式。"
+        },
+        {
+          "t": "p",
+          "x": "1. Holiday-ready Text:借助AI Campaign Translation,可直接在Google Ads内以西班牙语、法语、德语、葡萄牙语等15种语言本地化、审核并上线广告系列。Product Manager Mindy Lin建议在Paused状态下审核翻译后的广告系列,在上线前锁定品牌语气。"
+        },
+        {
+          "t": "p",
+          "x": "2. Holiday-ready Images:借助Google Ads Asset Studio的Multimodal功能,可将手头已有的日常产品照片转换为节日冬季或送礼场景,同时让素材符合品牌规范。Charles Boyd建议同时导入Brand Guidelines PDF和4到5张真实产品角度图,并在提示词中具体描述季节性光线。"
+        },
+        {
+          "t": "p",
+          "x": "3. Holiday-ready assets for YouTube:Google DeepMind更新后的视频生成模型Gemini Omni 1.2在Asset Studio中带来更强的一致性和更快的规模化视频制作,覆盖横版、竖版和方形比例。Max Hagler建议在前3秒内对两种不同的开场视觉钩子进行A/B测试。"
+        }
+      ]
     }
   }
 }

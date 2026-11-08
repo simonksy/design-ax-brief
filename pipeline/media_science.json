@@ -1,31 +1,33 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "section": "science",
   "media": [
     {
-      "id": "science-ucl-reconstruct-everything",
-      "type": "image",
-      "src": "pipeline/media/science-ucl-reconstruct-everything.png"
+      "id": "synaps-i-xray-imaging",
+      "type": "video",
+      "src": "pipeline/media/synaps-i-xray-imaging.mp4",
+      "poster": "pipeline/media/synaps-i-xray-imaging.jpg"
     },
     {
-      "id": "science-chatbot-sycophancy-pushback",
-      "type": "image",
-      "src": "pipeline/media/science-chatbot-sycophancy-pushback.jpg"
+      "id": "astrogenesis-astro-agents",
+      "type": "video",
+      "src": "pipeline/media/astrogenesis-astro-agents.mp4",
+      "poster": "pipeline/media/astrogenesis-astro-agents.jpg"
     },
     {
-      "id": "science-fod-diffusion-brain",
+      "id": "ss-dfa-optical-training",
       "type": "image",
-      "src": "pipeline/media/science-fod-diffusion-brain.jpg"
+      "src": "pipeline/media/ss-dfa-optical-training.jpg"
     },
     {
-      "id": "science-ai-overviews-unsupported",
+      "id": "llm-workplace-trust-penalty",
       "type": "image",
-      "src": "pipeline/media/science-ai-overviews-unsupported.jpg"
+      "src": "pipeline/media/llm-workplace-trust-penalty.jpg"
     },
     {
-      "id": "science-titanium-print-ai",
+      "id": "claude-not-x-but-y-rhetoric",
       "type": "image",
-      "src": "pipeline/media/science-titanium-print-ai.jpg"
+      "src": "pipeline/media/claude-not-x-but-y-rhetoric.jpg"
     }
   ]
 }

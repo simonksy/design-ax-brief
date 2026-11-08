@@ -10272,6 +10272,155 @@
           "x": "Las organizaciones humanas afrontan el problema de los actores malintencionados con registros de auditoría, reputación y separación de funciones, y los equipos de agentes probablemente necesitarán algo similar."
         }
       ]
+    },
+    "games/krafton-cofa-probe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.economytalk.kr/news/photo/202611/425135_233885_4215.png",
+          "cap": "Krafton utiliza Cofa-Probe, de desarrollo propio, para evaluar las competencias de AI en 6 áreas de su programa de prácticas 2027 vinculado a contratación. [Krafton]"
+        },
+        {
+          "t": "p",
+          "x": "Krafton utiliza Cofa-Probe, una herramienta de desarrollo propio, para evaluar las competencias de AI en 6 áreas de su programa de prácticas 2027 vinculado a contratación. Evalúa a la vez los resultados del candidato, su proceso de colaboración con la AI y sus registros de verificación. Es el cuarto caso de una serie que examina los criterios de contratación relacionados con la AI de cada empresa de videojuegos."
+        },
+        {
+          "t": "p",
+          "x": "Un representante de Krafton explicó el día 5, en una respuesta a EconomyTalk News, que Cofa-Probe evalúa según “tres ejes: gestión técnica (Technique), gestión de la intención (Intent) y gestión cognitiva (Cognition)”."
+        },
+        {
+          "t": "p",
+          "x": "Krafton observa cómo los candidatos colaboran con agentes de trabajo en un entorno similar al trabajo real. Recopila automáticamente el código fuente, los registros de conversación, los prompts, la configuración de herramientas y los registros de ejecución de verificaciones, y evalúa a la vez el resultado y el proceso de resolución de problemas."
+        },
+        {
+          "t": "p",
+          "x": "En la gestión técnica se comprueba si los objetivos y restricciones transmitidos a la AI eran adecuados; en la gestión de la intención, si el candidato analizó la causa de los errores y corrigió su enfoque."
+        },
+        {
+          "t": "p",
+          "x": "En la gestión cognitiva se examina si el candidato verificó los errores y límites del resultado y lo completó hasta un nivel útil en el trabajo real. Al terminar la tarea se realiza además una sesión posterior de preguntas y respuestas en la que el candidato explica personalmente su resultado y su proceso de toma de decisiones."
+        },
+        {
+          "t": "p",
+          "x": "Las prácticas comienzan con la incorporación en febrero de 2027 y duran 5 meses; la conversión a un puesto fijo se decide mediante la evaluación durante ese periodo. Cofa-Probe se utiliza para evaluar la capacidad de uso de la AI de los candidatos, revisando en conjunto los registros de ejecución de tareas, los resultados y las explicaciones posteriores de las 6 áreas."
+        }
+      ]
+    },
+    "games/ubisoft-databricks-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.databricks.com/sites/default/files/2026-11/customer-story-ubisoft-still-image-2x.jpg?v=1793893844"
+        },
+        {
+          "t": "p",
+          "x": "Los agentes de programación con AI llegaron a Ubisoft desde abajo: los equipos experimentaron con Claude Code, GitHub Copilot y otras herramientas, mientras Ubisoft usaba LiteLLM como gateway para el tráfico de Claude Code. A medida que la adopción se aceleraba con una iniciativa CEO-sponsored (patrocinada por el CEO), incorporar a miles de desarrolladores y gestionar el rendimiento del gateway se volvió cada vez más difícil."
+        },
+        {
+          "t": "p",
+          "x": "Como ya usaba Databricks, Ubisoft recurrió a Databricks Unity Gateway. A través de un endpoint común da acceso a Anthropic, OpenAI y modelos abiertos como DeepSeek, Kimi, GLM y Qwen, y los desarrolladores suelen obtener acceso completo a los modelos recién lanzados en un plazo de 24–48 horas."
+        },
+        {
+          "t": "p",
+          "x": "Un instalador personalizado automatiza la creación de tokens de acceso personal, la conexión con Unity Gateway y la configuración de los agentes de programación. Ubisoft pasó de unos 200 usuarios activos en marzo a más de 4,000 en agosto, un aumento de 20 veces en cinco meses, y apunta a 5,000 desarrolladores en toda la producción de juegos."
+        },
+        {
+          "t": "p",
+          "x": "Con el aumento del uso, el gasto en AI creció un 158%. Unity Gateway conserva la identidad detrás de cada solicitud, y Ubisoft combina esos datos con Databricks AI/BI Dashboards, alertas personalizadas y presupuestos por equipo y chargeback previstos para rastrear y asignar los costos de AI."
+        }
+      ]
+    },
+    "games/netmarble-13-titles-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Netmarble, cuyos resultados empeoraron por los retrasos en sus lanzamientos, intentará lanzar 13 juegos nuevos el próximo año con un sistema de desarrollo y operación basado en inteligencia artificial (AI). La estrategia consiste en automatizar tareas repetitivas, desde la planificación del juego hasta la traducción, la producción gráfica y el control de calidad, para reducir la carga de desarrollo y aumentar su capacidad de lanzamiento."
+        },
+        {
+          "t": "p",
+          "x": "Netmarble aplazó al próximo año los 3 juegos nuevos que tenía previstos para la segunda mitad de este año, y su beneficio operativo del tercer trimestre cayó un 44.6% interanual. Algunas tecnologías aún están en desarrollo, por lo que todavía debe demostrarse cuánto pueden reducir realmente los plazos y costos de desarrollo."
+        },
+        {
+          "t": "img",
+          "src": "https://img.newspim.com/news/2026/06/12/2606121620382670.jpg",
+          "cap": "Vista de G-Tower, la nueva sede de Netmarble en Guro. [Foto=Netmarble]"
+        },
+        {
+          "t": "p",
+          "x": "Kim Byung-kyu, CEO de Netmarble, afirmó el día 5 en la conferencia telefónica del tercer trimestre: \"Netmarble se esfuerza por crear un entorno de trabajo nativo de AI no solo en el desarrollo, sino también en el lanzamiento y el servicio de los juegos\". Y añadió: \"Con base en estos sistemas, consideramos que es posible lanzar 10 o más juegos al año\"."
+        },
+        {
+          "t": "p",
+          "x": "En 2025, Netmarble reorganizó su equipo interno de AI como Oficina de Estrategia de AI e incorporó herramientas como 'MarbleAI', una herramienta de AI de traducción y corrección de textos originales, y 'ㅋㅋ아트젠', una plataforma de generación de arte con AI. Los idiomas principales, como el inglés y el japonés, los graban actores de voz, pero para los demás idiomas se usa AI en la grabación. También desarrolla una tecnología en la que la AI juega automáticamente para analizar el equilibrio y los elementos de diversión."
+        },
+        {
+          "t": "img",
+          "src": "https://img.newspim.com/news/2026/11/06/2611061207127870.jpg",
+          "cap": "Principales proyectos de inteligencia artificial de Netmarble [Foto=Netmarble]"
+        },
+        {
+          "t": "p",
+          "x": "En la operación, responde al abuso y a los comportamientos anómalos con un sistema de detección de anomalías basado en AI, que se ha aplicado a 'RF Online Next', 'Vampir' y 'SOL: enchant'. Un representante de Netmarble señaló: \"Estamos investigando y desarrollando diversos agentes de AI, como un agente de automatización del control de calidad y un agente de redacción de informes\"."
+        }
+      ]
+    },
+    "games/kenney-sweeney-genai-clash": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Kenney, un artista conocido por regalar miles de recursos gratuitos para juegos, animó a otros artistas a no ceder ante la presión de usar AI generativa. Unas horas después, el CEO de Epic Games, Tim Sweeney, le respondió: \"Esto es una tontería, Kenney\". Elon Musk también intervino para respaldar a Sweeney."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/dN5L7H63LSbvE6whFiWNgP-772-80.png",
+          "cap": "(Crédito de imagen: Kenney/Tim Sweeney)"
+        },
+        {
+          "t": "p",
+          "x": "\"Creo que la AI tiene algunos beneficios, pero tiene demasiados problemas y me parece inmoral usarla en su estado actual\", dijo Kenney a PC Gamer. Sweeney afirmó: \"Como proveedor de tecnología para toda la industria, considero que es trabajo de Epic y mío defender sus ventajas\"."
+        },
+        {
+          "t": "p",
+          "x": "Una encuesta de GameDiscoverCo halló que alrededor del 69% de los usuarios de Steam se muestran neutrales o conformes con comprar juegos que declaran el uso de AI, mientras que más del 55% cree que Steam debería tener normas de divulgación más estrictas. Sweeney califica el requisito de Steam de \"aborrecible\"."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Nv8WP9ipmA6k753ABMgKqD-918-80.png",
+          "cap": "Kenney regala en su sitio web miles de recursos gratuitos para juegos como estos. (Crédito de imagen: Kenney)"
+        },
+        {
+          "t": "p",
+          "x": "Un desarrollador, Dead Teapot, canceló su lanzamiento en Epic Games Store en apoyo a Kenney, que vive de donaciones y de un paquete de $20 con los 60,000 recursos."
+        }
+      ]
+    },
+    "games/worldlabs-frameboy-atlas": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://wlt-ai-cdn.art/videos/2026-atlas-realtime/frameboy-hero.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Hace dos meses, World Labs presentó Atlas, un modelo de mundo autorregresivo que genera los fotogramas uno a uno con un control de cámara preciso al píxel. Hoy publica una vista previa de investigación que permite explorar mundos en tiempo real con Atlas mediante Frameboy, una demo que transmite fotogramas desde GPUs en la nube hasta el navegador a un máximo de 15 fps mientras el usuario controla la cámara."
+        },
+        {
+          "t": "p",
+          "x": "La velocidad importa: si los usuarios esperan decenas de segundos o minutos por un video, deben ser cautelosos y metódicos. «Cuando el costo de una 'mala idea' es casi cero, no hay malas ideas»."
+        },
+        {
+          "t": "p",
+          "x": "Frente a su modelo anterior, RTFM, Atlas es mucho más grande, se entrenó con órdenes de magnitud más datos y puede generar escenas desde cero a partir de una sola imagen o un texto descriptivo. También puede sintetizar vistas nuevas de lugares emblemáticos reales a partir de capturas multivista."
+        },
+        {
+          "t": "p",
+          "x": "La capacidad en tiempo real también se integra como una capa de streaming en Viewfinder, una aplicación web en beta cerrada que permite construir escenas fotograma a fotograma con Atlas. Por ahora, Frameboy debe ejecutarse en un potente servidor GPU en la nube y no es barato en comparación con los métodos de renderizado local."
+        }
+      ]
     }
   }
 }

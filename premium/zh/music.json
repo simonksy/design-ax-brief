@@ -9326,6 +9326,116 @@
           "yt": "rUJ8NZDcEoo"
         }
       ]
+    },
+    "music/music-ifpi-australia-copyright": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/a9d776b6ee27daeda7be27a2ffc273f39b966850/200_0_6000_4800/master/6000.jpg?width=1065&quality=85&auto=format&fit=max&s=9f6642a572d563e6be6a88c2e6267527",
+          "cap": "AI公司要求修改Australia版权法，允许用其素材进行训练，创意产业对此深感担忧。"
+        },
+        {
+          "t": "p",
+          "x": "在Albanese政府权衡大型科技公司诉求之际，International Federation of the Phonographic Industry（IFPI）警告称，Australia为帮助AI公司而削弱版权保护将是“荒谬且危险的”。"
+        },
+        {
+          "t": "p",
+          "x": "IFPI首席执行官Victoria Oakley对Guardian Australia表示：“只需要一个安全港，因为那样就能用世界任何地方的音乐来训练。”“我们认为这对创造力是一场灾难。”"
+        },
+        {
+          "t": "p",
+          "x": "一些AI公司以太难为由，拒绝在现行法律下获取许可；Anthropic提议采用“opt-out”模式。总理Anthony Albanese承诺提供“尽可能最强的保护”，总检察长Michelle Rowland则承诺给予“有意义的控制权和公平的补偿”。"
+        },
+        {
+          "t": "p",
+          "x": "Oakley说，唱片公司已与较小的AI公司签下数十份许可协议。“这将是一个巨大的错误，我认为所得抵不上你所放弃的，”她说。“完全可以进行授权许可。”"
+        }
+      ]
+    },
+    "music/choyoungsoo-ai-virtual-singer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285593_web.jpg",
+          "cap": "Cho Young-soo。（图片＝Vtopian提供）"
+        },
+        {
+          "t": "p",
+          "x": "作曲家兼制作人Cho Young-soo推出旗下首个虚拟艺人“WON”。WON将于8日下午6点发行首支单曲《Mama Song》并正式出道。他曾在2007年至2011年连续5年保持版权收入第1名，并下定决心：“亲手打造能完整演唱我想要的音乐的角色歌手，无论英文歌曲还是各种曲风，都不受限制地表达出来。”"
+        },
+        {
+          "t": "img",
+          "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285590_web.jpg",
+          "cap": "WON。（图片＝Vtopian提供）"
+        },
+        {
+          "t": "p",
+          "x": "出道曲《Mama Song》是一首表达对母亲的思念与感激的流行抒情曲，歌词全部为英文。WON的外形和动作采用最新技术，而作曲、编曲和真实的乐手演奏则由人亲手完成。Cho Young-soo录制引导人声后，经过AI转换，最终形成WON的音色。"
+        },
+        {
+          "t": "p",
+          "x": "“AI创作的歌曲通过海量大数据精确学习了各个时代的热门公式，技术完成度高达99分。但剩下1%的‘新意’只有人类才能填补。”"
+        },
+        {
+          "t": "img",
+          "src": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285594_web.jpg",
+          "cap": "Cho Young-soo。（图片＝Vtopian提供）"
+        },
+        {
+          "t": "p",
+          "x": "后续角色也在陆续打造中，最终目标是组建声乐组合。“如今我余下音乐生涯的明确目标，是成为写出Billboard第1名歌曲的作曲家。”"
+        }
+      ]
+    },
+    "music/ivors-composer-awards-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.bigissue.com/wp-content/uploads/2026/10/1742-Music_Hero.jpg?w=1920",
+          "cap": "Lord Neri。图片：Louise Haywood-Schiefer"
+        },
+        {
+          "t": "p",
+          "x": "AI依赖吸收现有作品来进行模仿，而目前在同意、补偿和透明度方面都没有明确的框架。The Ivors Academy的CEO Roberto Neri说：“作为辅助工具，AI可能是一项了不起的资产。”“然而，生成式AI是个大问题。”"
+        },
+        {
+          "t": "p",
+          "x": "他提到“没有面孔的作曲家”：“即使是Hans Zimmer这样有名的人，走在街上也可能没人认出来……我们担心的是，由于作曲家的工作往往不为人所见，人们对音乐取代作曲家一事不太同情。”"
+        },
+        {
+          "t": "p",
+          "x": "为此，作为The Ivors Composer Week（16-20 November）的一部分，Ivors将重启Ivors Composer Awards（17 November），以“提升整个群体”，并使其与面向词曲作者的Ivor Novello Awards地位相当。36位作曲家和剧本作者入围九个类别，包括Best Original Film Score和Best Original Video Game Score。Max Richter将获得Innovation Award。"
+        }
+      ]
+    },
+    "music/music-arxiv-theme-similarity": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "作曲者从原始构思出发发展音乐，控制每个新段落与它的相似程度，从近乎重复到全新素材。游戏音乐经常需要这样做，因为其素材会在长时间游玩中反复出现。然而，音乐模型很少从真实作品中学会控制相似度。我们在Super Mario乐曲的段落对上进一步训练预训练的MIDI模型。标签表明每对段落的相似度，上下文向量则概括给定的段落，即上下文。针对157个测试上下文，模型为每个标签生成六个输出。十二项指标为输出打分；旋律、音高内容、节奏和音长各由一项主要指标衡量。平均而言，被要求相似的输出比被要求不相似的输出更接近其上下文，而与其他乐曲并不更接近。全部十二项指标都支持这些输出；每项主要指标在多重检验校正后仍然显著。在旋律上，这一差距主要来自更频繁地重述上下文的旋律。与除无标签外完全相同的模型相比，只有要求高相似度时输出才会更相似。在听感测试中，评分在所有指标中与上下文的旋律重合度最为吻合。"
+        }
+      ]
+    },
+    "music/elvis-suno-voice-clone-suit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/03/elvis-presley-1956-billboard-1800.jpg?w=942&h=628&crop=1",
+          "cap": "April 1956，21岁的Elvis Presley。"
+        },
+        {
+          "t": "p",
+          "x": "Elvis Presley知识产权的所有方对AI音乐公司Suno提起新诉讼，称其窃取“摇滚之王”（King of Rock ‘n’ Roll）的嗓音，侵犯了他的肖像权。该诉讼由Authentic Brands Group旗下的Elvis Presley Enterprises于周五（Nov. 6）提起，还提出了与此前起诉Anthropic案类似的版权指控。"
+        },
+        {
+          "t": "p",
+          "x": "这是依据Tennessee州ELVIS Act提起的首批重大案件之一，该法也允许起诉为声音和形象克隆提供便利的科技公司。诉状称，Suno所谓用户无法以真实艺人作为提示词的说法“毫无疑问是虚假的”，并指出就在上个月，Suno还根据含有Elvis名字的歌词生成了Elvis的克隆声音。"
+        },
+        {
+          "t": "p",
+          "x": "Suno表示，平台不允许以特定艺人的名字和歌曲作为提示词，并会筛查上传的音频和歌词。同样在周五，同一批律师还代表拥有Eminem大部分曲目目录的出版商Eight Mile Style，对Suno提起了另一起诉讼。"
+        }
+      ]
     }
   }
 }

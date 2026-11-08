@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "section": "medicine",
   "items": [
     {
-      "title": "Performance of artificial intelligence versus clinician left-ventricular segmentation of cardiac MRI for mortality prediction: a retrospective, multicentre, prognostic study",
+      "title": "PARAMOUNT, the First Randomized Trial of AI-Enabled Plaque-Based Care, Meets Primary Endpoint in Late-Breaking Results at AHA 2026",
       "tool": "Medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00065-8/fulltext",
-      "source": "The Lancet Digital Health",
-      "published_iso": "2026-11-02T23:32:43Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-scan.jpg",
-      "excerpt": "In 27,382 UK and US patients followed for more than five years (3,458 deaths), AI-derived ejection fraction from cardiac MRI predicted mortality slightly but significantly better than clinician measurements; the AI analysed each scan in about 2-3 seconds versus roughly 13 minutes for an expert (City St George's / UCL).",
+      "url": "https://cleerly.com/press/paramount-first-randomized-trial",
+      "source": "Cleerly (press release)",
+      "published_iso": "2026-11-07T15:45:00Z",
+      "og_image": "https://cleerly.com/hubfs/press-release/aha-2026_pr_paramount-aha-results.jpg",
+      "excerpt": "Plaque-guided care improved diagnostic certainty and increased use of preventive therapy compared with usual care in patients with suspected coronary artery disease",
       "category": "medicine",
-      "rationale": "Head-to-head in 27k patients: AI cardiac-MRI ejection fraction predicts death at least as well as clinicians in seconds instead of ~13 minutes, a direct case for automating LV segmentation."
+      "rationale": "First randomized trial of AI plaque-guided coronary care meets its primary endpoint at AHA 2026, moving AI-CCTA from detection claims to RCT-backed management changes."
     },
     {
-      "title": "AI-Identified Reasons for Nonescalation of Lipid-Lowering Therapy for Secondary Prevention",
+      "title": "FDA Grants Breakthrough Device Designation to Cleo Skin AI Pathology Tool",
       "tool": "Medicine",
       "accent": "#0070f3",
       "motif": "sphere",
-      "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2856385",
-      "source": "JAMA Cardiology",
-      "published_iso": "2026-11-07T16:30:17Z",
-      "og_image": null,
-      "excerpt": "Large language models read clinical notes for 28,113 patients with ASCVD: among 13,810 with above-goal LDL-C, therapy was not escalated in 88.7% of relevant notes, and 40.4% of those documented a reason, most often patient-reported adverse effects (12.6%), LDL-C near goal (6.9%) and patient preference (6.8%).",
+      "url": "https://clpmag.com/disease-states/cancer/melanoma/fda-breakthrough-designation-cleo-skin-ai-dermatopathology/",
+      "source": "Clinical Lab Products",
+      "published_iso": "2026-11-06T19:08:55+00:00",
+      "og_image": "https://clpmag.com/wp-content/uploads/2026/11/image-2.jpg",
+      "excerpt": "FDA grants Breakthrough Device Designation to Primaa's Cleo Skin AI pathology tool, which now has both CE-IVDR and FDA status.",
       "category": "medicine",
-      "rationale": "LLMs mined 28k ASCVD charts to show why statin/lipid therapy goes unescalated, turning free-text notes into a measurable care-gap audit."
+      "rationale": "Regulatory milestone: an AI dermatopathology tool for melanoma diagnosis gets FDA Breakthrough designation on top of CE-IVDR."
     },
     {
-      "title": "Commercial multimodal large language models show systematic model-specific errors in breast cancer pathology reporting: a paired concordance study",
+      "title": "한국형 '의약품 AI 심사 보조 시스템' 12월 베일 벗는다",
       "tool": "Medicine",
       "accent": "#7928ca",
       "motif": "sphere",
-      "url": "https://breast-cancer-research.biomedcentral.com/articles/10.1186/s13058-026-02413-6",
-      "source": "Breast Cancer Research",
-      "published_iso": "2026-11-04T16:36:44Z",
-      "og_image": null,
-      "excerpt": "Claude Sonnet 4.6, Gemini 2.5 Pro and GPT-5.5 were each given 16 H&E tiles per case for 427 invasive breast cancers and compared against a board-certified breast pathologist on Nottingham grade and receptor-defined subtype; each model showed systematic, model-specific errors.",
+      "url": "https://www.dailypharm.com/user/news/344134",
+      "source": "데일리팜",
+      "published_iso": "2026-11-04T06:00:48+09:00",
+      "og_image": "https://vod.dailypharm.com/new_dailypharm/editor/content/2026/11/03/48e47ad2-7131-49ef-8ca1-31d273ae8e75.png",
+      "excerpt": "식약처가 추진해 온 의약품 AI 심사 보조 시스템이 12월 초 정식 공개된다. 내부 검증을 강화한 뒤 제약업계 대상 설명회를 열 계획이다.",
       "category": "medicine",
-      "rationale": "Patient-safety check on general chatbots in pathology: three frontier MLLMs each mis-grade and mis-subtype breast cancers in their own systematic way across 427 cases."
+      "rationale": "Regulator-side AI: Korea's MFDS unveils its AI drug-review assistant in early December, changing how approval dossiers are screened."
     },
     {
-      "title": "FDA clears Deep Reasoning AI's neurovascular CTA software",
+      "title": "Patient info improperly used in radiology AI research, academic institution says",
       "tool": "Medicine",
       "accent": "#ff5a4d",
       "motif": "sphere",
-      "url": "https://www.auntminnie.com/clinical-news/ct/news/16050236/fda-clears-deep-reasoning-ais-neurovascular-cta-software",
-      "source": "AuntMinnie",
-      "published_iso": "2026-10-28T18:48:41Z",
-      "og_image": null,
-      "excerpt": "Deep Reasoning AI received FDA 510(k) clearance for NeuroDR, which runs automatically after a head-and-neck CTA, removes bone, soft tissue and veins, and sends 3D vessel reconstructions to PACS.",
+      "url": "https://radiologybusiness.com/topics/artificial-intelligence/patient-info-improperly-used-radiology-ai-research-academic-institution-says",
+      "source": "Radiology Business",
+      "published_iso": "2026-11-08T18:09:02+00:00",
+      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/assets/articles/Screen%20Shot%202018-02-12%20at%2011.56.42%20AM.png?itok=g9jxiJwx",
+      "excerpt": "Weill Cornell Medicine says it first found out about the incident on Sept. 6, immediately launching an investigation to determine what happened.",
       "category": "medicine",
-      "rationale": "Regulatory clearance: a 510(k)-cleared tool auto-builds bone-free 3D neurovascular reconstructions from head-and-neck CTA straight into PACS."
+      "rationale": "Patient-privacy incident: Weill Cornell discloses patient data was improperly used in radiology AI research, a governance warning for every imaging-AI project."
     },
     {
-      "title": "AI-powered urine test distinguishes bladder disorders with up to 92% accuracy",
+      "title": "Sunderland project using AI to help eye tests detect diabetes",
       "tool": "Medicine",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33718",
-      "source": "Korea Biomedical Review",
-      "published_iso": "2026-11-03T16:57:05+09:00",
-      "og_image": "https://cdn.koreabiomed.com/news/thumbnail/202611/33718_36861_5520_v150.jpg",
-      "excerpt": "Asan Medical Center researchers developed an AI urine-testing technique that distinguishes interstitial cystitis, overactive bladder and healthy individuals with up to 92% accuracy, helping separate conditions with overlapping symptoms.",
+      "url": "https://www.bbc.co.uk/news/articles/cw1m4vd8epnno",
+      "source": "BBC News",
+      "published_iso": "2026-11-06T06:09:38.194Z",
+      "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/29ec/live/7d751a00-d930-11f1-b1fc-0ffc40c3cca6.jpg",
+      "excerpt": "Researchers hope the technology will allow for a quicker diagnosis for patients.",
       "category": "medicine",
-      "rationale": "Non-invasive diagnosis: Asan Medical Center's AI urine test separates interstitial cystitis from overactive bladder, two conditions patients often wait years to tell apart."
+      "rationale": "Front-line deployment: a Sunderland project uses AI in routine eye tests to flag diabetes earlier for patients."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00065-8/fulltext": {
+      "https://cleerly.com/press/paramount-first-randomized-trial": {
         "verdict": "new",
-        "nearest": "https://www.auntminnie.com/clinical-news/ct/article/16424554/deeplearning-model-predicts-mortality-from-cta-scans",
+        "nearest": "https://cardiovascularbusiness.com/topics/cardiac-imaging/ai-tech-detects-high-risk-coronary-inflammation-many-asymptomatic-patients",
         "new_action": ""
       },
-      "https://jamanetwork.com/journals/jamacardiology/fullarticle/2856385": {
+      "https://clpmag.com/disease-states/cancer/melanoma/fda-breakthrough-designation-cleo-skin-ai-dermatopathology/": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.bbc.co.uk/news/articles/ck5yw5e9pnrzo",
         "new_action": ""
       },
-      "https://breast-cancer-research.biomedcentral.com/articles/10.1186/s13058-026-02413-6": {
+      "https://www.dailypharm.com/user/news/344134": {
         "verdict": "new",
-        "nearest": "https://radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-checks-trustworthiness-breast-cancer-ai-models",
+        "nearest": "https://www.bosa.co.kr/news/articleView.html?idxno=3014609",
         "new_action": ""
       },
-      "https://www.auntminnie.com/clinical-news/ct/news/16050236/fda-clears-deep-reasoning-ais-neurovascular-cta-software": {
+      "https://radiologybusiness.com/topics/artificial-intelligence/patient-info-improperly-used-radiology-ai-research-academic-institution-says": {
         "verdict": "new",
-        "nearest": "https://www.auntminnie.com/clinical-news/ct/news/15975406/coreline-soft-coreline-soft-secures-fda-clearance-for-aortic-ct-software",
+        "nearest": "https://www.bmj.com/content/395/bmj-2026-101119",
         "new_action": ""
       },
-      "https://www.koreabiomed.com/news/articleView.html?idxno=33718": {
+      "https://www.bbc.co.uk/news/articles/cw1m4vd8epnno": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.bbc.co.uk/news/articles/ck5yw5e9pnrzo",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: Radiology Business 'residents miss more findings after night shifts even with AI' (likely-repeat of AuntMinnie 2026-10-27 night-shift fatigue story); The BMJ 'AI recommends vastly more expensive treatment' (news report on the same 24-system/200-case cost study published 2026-10-17 as NEJM AI AIoa2600537); Medigate 'Lunit SITC with Labcorp/Cellcarta' (same SITC Lunit SCOPE IO presentations as Dailypharm 343389 on 2026-10-20); Healthcare Dive 'FDA generative AI 5 takes' (same FDA genAI docket-comment story as Healthcare Dive 2026-10-23, commentary); MedCity '7 potential problems with Medicare's AI prior authorization' (WISeR running story, JAMA 2026-10-30; analysis of FOIA documents, no new CMS decision; also dropped 11-06/11-07). Not picked on merit: STAT chatbot-licensing and FDA/CMS-states pieces (paywalled, thin), STAT women's-records opinion, MedCity clinician-burden opinion, Healthcare Dive human-in-loop survey (close to 10-18 JAMA perception item), JAMA Pediatrics parent survey, NEJM AI-scribe Clinical Decisions and RSNA stroke false-negatives (bodies unretrievable), npj AMD agent, npj HFpEF risk model (related to 10-26 HF item), Dailypharm pathology reimbursement analysis, Medigate Dongtan home-care, Diagnostic Imaging NFL CCTA and hepatic steatosis interview. Cross-section: published_urls.json science block read in full; none of the 5 pick URLs or their studies (cardiac MRI LV segmentation, lipid nonescalation, MLLM breast pathology, NeuroDR, Asan urine test) appear. Lancet DH heart-MRI og_image is a phys.org CDN image, so medicalxpress likely covered it; no medicalxpress 2026-11 entry is in the science ledger, but orchestrator should confirm today's science picks do not include it. Outlets: 5 distinct (Lancet DH, JAMA Cardiology, Breast Cancer Research, AuntMinnie, Korea Biomedical Review)."
+    "note": "Dropped as duplicates: Radiology Business 'residents miss more findings after night shifts even with AI' (likely-repeat of AuntMinnie 2026-10-27); Healthcare Dive 'How should the FDA regulate generative AI in medtech? 5 takes' (same FDA genAI docket-comment story as Healthcare Dive 2026-10-23, commentary only); MedCity '7 potential problems with Medicare's AI prior authorization experiment' (WISeR running story, JAMA 2026-10-30; analysis, no new CMS decision). Dailypharm MFDS AI review-assist system judged distinct from Bosa 2026-10-24 (that was review criteria for AI-developed drugs plus generic deregulation; this is the regulator's own AI reviewer tool launching in December). Not picked on merit: Exeter BRAINIAC dementia hub (AI incidental), WIRED caregiver apps feature, NEJM surveillance Perspective and AI-scribe Clinical Decisions (commentary/evergreen), STAT chatbot/FDA-CMS-states/women's-records pieces (newsletter/opinion), MedCity clinician-burden opinion, Healthcare Dive human-in-loop survey (close to 10-18 JAMA perceptions item), npj HFpEF/ultrasound delivery-date/MambaSleepCVD papers, Medical Xpress NHS Dora Care phone-assistant trial (runner-up). Cross-section: science block of published_urls.json checked; none of the 5 pick URLs (cleerly, clpmag, dailypharm, radiologybusiness, bbc) or their stories appear. Outlets: 5 distinct."
   }
 }

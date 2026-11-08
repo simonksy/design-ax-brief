@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "section": "medicine",
   "cards": [
     {
-      "id": "lancet-cmr-ai-ejection-fraction",
+      "id": "cleerly-paramount-trial",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 심장 MRI 판독\n사망 예측서 의사 앞서",
-      "body": "AI가 27,382명의 MRIs를 몇 초에 읽고 사망 예측서 의사를 조금 앞섰다.",
-      "mini_headline": "심장 MRI AI, 전문가 앞서",
+      "headline": "Cleerly AI 시험\n주요 평가변수 충족",
+      "body": "PARAMOUNT에서 AI 플라크 기반 진료가 진단 확신과 예방 치료를 늘렸다.",
+      "mini_headline": "Cleerly AI 플라크 시험, 목표 달성",
       "tool": "Medicine",
-      "source": "The Lancet Digital Health",
-      "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00065-8/fulltext",
+      "source": "Cleerly (press release)",
+      "url": "https://cleerly.com/press/paramount-first-randomized-trial",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
@@ -19,179 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-scan.jpg",
-            "cap": "Credit: Unsplash/CC0 Public Domain"
+            "src": "https://cleerly.com/hubfs/press-release/aha-2026_pr_paramount-aha-results.jpg"
           },
           {
             "t": "p",
-            "x": "이번 연구는 같은 유형 가운데 최대 규모다. 연구진은 영국(U.K.)과 미국(United States)에서 심장 질환이 확인됐거나 의심돼 검사를 받은 환자 27,382명의 심장 MRI 영상을 분석해, AI-derived(AI 산출) 좌심실 박출률을 의사가 측정한 값과 비교했다."
+            "x": "Cleerly는 시카고에서 열린 미국심장협회(AHA) Scientific Sessions 2026에서 Late-Breaking Science 발표로 PARAMOUNT의 주요 결과를 공개했다. PARAMOUNT는 AI-QCT 기반 진료(AI-QCT-guided care)를 표준 진료와 비교한 첫 무작위 시험이다. 부하 검사 중심의 표준 진료보다 AI 기반 정량적 관상동맥 CT 분석(AI-based quantitative coronary CT analysis, AI-QCT)에 따른 진료에서 진단 확신도가 높았고 지질 강하 치료를 받는 환자도 많았다."
           },
           {
             "t": "p",
-            "x": "환자들은 평균 다섯 해 넘게(중앙값 5.6년) 추적 관찰됐고, 이 기간 3,458명이 숨졌다. 전체 사망률을 놓고 보면 AI 박출률이 모델 적합도가 더 좋았고(AIC 57,936 vs 58,097) 판별력도 근소하게 앞섰다(C index 0.669 vs 0.637). 나이와 성별을 보정한 뒤에도 우위는 남았지만 차이는 줄었다(C index 0.781 vs 0.777)."
+            "x": "2025년 1월부터 2026년 2월까지 21개 기관에서 관상동맥질환이 의심되고 LDL-C가 높은(≥100 mg/dL) 참가자 530명을 무작위 배정했다. 예비 결과는 523명 기준이고 참가자의 57%가 여성이었다."
           },
           {
             "t": "p",
-            "x": "AI 도구가 환자 한 명의 영상을 분석하는 데는 약 2–3초가 걸렸다. 연구팀의 이전 연구에서 전문의는 보통 13분 안팎을 썼다."
+            "x": "“PARAMOUNT는 플라크를 직접 측정해 진료 방향을 정하면 의사는 더 명확한 답을 얻고, 환자는 예방 치료를 시작할 가능성이 훨씬 커진다는 점을 보여준다”고 공동 책임연구자 Todd C. Villines, MD는 말했다. 플라크 기반 진료에서는 심도자실로 의뢰된 환자 가운데 폐쇄성 CAD가 없는 환자가 유의하게 적었고, 전체 심도자술이나 혈관재개통술 비율도 늘지 않았다."
           },
           {
             "t": "p",
-            "x": "연구는 City St George's, University of London과 University College London이 이끌었고, 결과는 The Lancet Digital Health에 실렸다. 저자들은 의사 감독 아래 AI로 박출률을 일차 측정하는 방식에 이번 결과가 힘을 싣는다면서도, 전향적 연구에서 검증이 더 필요하다고 밝혔다."
+            "x": "아직 동료 심사를 거치지 않은 예비 결과다. 전체 결과는 2027년 초 발표된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI heart MRI analysis edges out\nclinicians on mortality",
-          "body": "Across 27,382 patients, AI read heart MRIs in seconds and predicted death slightly better than clinicians.",
-          "mini_headline": "Heart MRI AI edges experts",
+          "headline": "Cleerly's AI plaque trial\nmeets its primary endpoint",
+          "body": "In PARAMOUNT, AI plaque-guided care raised diagnostic certainty and preventive therapy use versus usual care.",
+          "mini_headline": "Cleerly AI plaque trial hits endpoint",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-scan.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://cleerly.com/hubfs/press-release/aha-2026_pr_paramount-aha-results.jpg"
               },
               {
                 "t": "p",
-                "x": "In the largest study of its kind, researchers analyzed heart MRI scans from 27,382 patients undergoing investigation for known or suspected heart conditions in the U.K. and United States, comparing AI-derived and clinician-derived measurements of left-ventricular ejection fraction."
+                "x": "Cleerly presented primary results from PARAMOUNT, the first randomized trial of AI-QCT-guided care against usual care, as Late-Breaking Science at the American Heart Association (AHA) Scientific Sessions 2026 in Chicago. Compared with usual care based on stress testing, care guided by AI-based quantitative coronary CT analysis (AI-QCT) improved diagnostic certainty and led to more patients receiving lipid-lowering therapy."
               },
               {
                 "t": "p",
-                "x": "Patients were followed for an average of more than five years (median 5.6 years), during which 3,458 deaths occurred. AI ejection fraction showed better model fit (AIC 57,936 vs 58,097) and marginally better discrimination (C index 0.669 vs 0.637) for all-cause mortality; after adjustment for age and sex the advantage remained but was smaller (C index 0.781 vs 0.777)."
+                "x": "Between January 2025 and February 2026, 530 participants at 21 sites with suspected coronary artery disease and elevated LDL-C (≥100 mg/dL) were randomized. Preliminary results are based on 523 participants; women made up 57% of participants."
               },
               {
                 "t": "p",
-                "x": "The AI tool analyzed scans in approximately 2–3 seconds per patient. This compared to previous work by the team that found expert clinician analysis typically takes around 13 minutes."
+                "x": "“PARAMOUNT shows that when we measure plaque directly and use it to guide care, physicians gain clearer answers and patients are far more likely to start preventive therapy,” said co-principal investigator Todd C. Villines, MD. Plaque-based care resulted in significantly fewer patients without obstructive CAD among those referred to the cath lab and did not increase overall rates of catheterizations or revascularizations."
               },
               {
                 "t": "p",
-                "x": "The research was led by City St George's, University of London and University College London, and published in The Lancet Digital Health. The authors say the findings support AI for first-line ejection-fraction measurement with clinician oversight, to be tested in prospective studies."
+                "x": "The results have not yet been peer reviewed and should be considered preliminary; full results are expected to be published in early 2027."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 심장 MRI 판독\n사망 예측서 의사 앞서",
-          "body": "AI가 27,382명의 MRIs를 몇 초에 읽고 사망 예측서 의사를 조금 앞섰다.",
-          "mini_headline": "심장 MRI AI, 전문가 앞서",
+          "headline": "Cleerly AI 시험\n주요 평가변수 충족",
+          "body": "PARAMOUNT에서 AI 플라크 기반 진료가 진단 확신과 예방 치료를 늘렸다.",
+          "mini_headline": "Cleerly AI 플라크 시험, 목표 달성",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-scan.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://cleerly.com/hubfs/press-release/aha-2026_pr_paramount-aha-results.jpg"
               },
               {
                 "t": "p",
-                "x": "이번 연구는 같은 유형 가운데 최대 규모다. 연구진은 영국(U.K.)과 미국(United States)에서 심장 질환이 확인됐거나 의심돼 검사를 받은 환자 27,382명의 심장 MRI 영상을 분석해, AI-derived(AI 산출) 좌심실 박출률을 의사가 측정한 값과 비교했다."
+                "x": "Cleerly는 시카고에서 열린 미국심장협회(AHA) Scientific Sessions 2026에서 Late-Breaking Science 발표로 PARAMOUNT의 주요 결과를 공개했다. PARAMOUNT는 AI-QCT 기반 진료(AI-QCT-guided care)를 표준 진료와 비교한 첫 무작위 시험이다. 부하 검사 중심의 표준 진료보다 AI 기반 정량적 관상동맥 CT 분석(AI-based quantitative coronary CT analysis, AI-QCT)에 따른 진료에서 진단 확신도가 높았고 지질 강하 치료를 받는 환자도 많았다."
               },
               {
                 "t": "p",
-                "x": "환자들은 평균 다섯 해 넘게(중앙값 5.6년) 추적 관찰됐고, 이 기간 3,458명이 숨졌다. 전체 사망률을 놓고 보면 AI 박출률이 모델 적합도가 더 좋았고(AIC 57,936 vs 58,097) 판별력도 근소하게 앞섰다(C index 0.669 vs 0.637). 나이와 성별을 보정한 뒤에도 우위는 남았지만 차이는 줄었다(C index 0.781 vs 0.777)."
+                "x": "2025년 1월부터 2026년 2월까지 21개 기관에서 관상동맥질환이 의심되고 LDL-C가 높은(≥100 mg/dL) 참가자 530명을 무작위 배정했다. 예비 결과는 523명 기준이고 참가자의 57%가 여성이었다."
               },
               {
                 "t": "p",
-                "x": "AI 도구가 환자 한 명의 영상을 분석하는 데는 약 2–3초가 걸렸다. 연구팀의 이전 연구에서 전문의는 보통 13분 안팎을 썼다."
+                "x": "“PARAMOUNT는 플라크를 직접 측정해 진료 방향을 정하면 의사는 더 명확한 답을 얻고, 환자는 예방 치료를 시작할 가능성이 훨씬 커진다는 점을 보여준다”고 공동 책임연구자 Todd C. Villines, MD는 말했다. 플라크 기반 진료에서는 심도자실로 의뢰된 환자 가운데 폐쇄성 CAD가 없는 환자가 유의하게 적었고, 전체 심도자술이나 혈관재개통술 비율도 늘지 않았다."
               },
               {
                 "t": "p",
-                "x": "연구는 City St George's, University of London과 University College London이 이끌었고, 결과는 The Lancet Digital Health에 실렸다. 저자들은 의사 감독 아래 AI로 박출률을 일차 측정하는 방식에 이번 결과가 힘을 싣는다면서도, 전향적 연구에서 검증이 더 필요하다고 밝혔다."
+                "x": "아직 동료 심사를 거치지 않은 예비 결과다. 전체 결과는 2027년 초 발표된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI心臓MRI解析\n死亡予測で医師を僅かに上回る",
-          "body": "AIは27,382人の心臓MRIsを数秒で読み、死亡を医師よりやや正確に予測した。",
-          "mini_headline": "心臓MRIのAI、専門家を上回る",
+          "headline": "CleerlyのAI試験\n主要評価項目を達成",
+          "body": "PARAMOUNTでAIプラーク主導の診療が通常診療より診断確信度と予防治療を高めた。",
+          "mini_headline": "CleerlyのAIプラーク試験が主要評価項目を達成",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-scan.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://cleerly.com/hubfs/press-release/aha-2026_pr_paramount-aha-results.jpg"
               },
               {
                 "t": "p",
-                "x": "同種の研究として最大規模となる今回の研究で、研究チームは英国(U.K.)と米国(United States)で心疾患の確定または疑いにより検査を受けた患者27,382人の心臓MRI画像を解析し、AI-derived(AI算出)の左室駆出率と医師による測定値を比較した。"
+                "x": "Cleerlyは、シカゴで開かれた米国心臓協会(AHA)Scientific Sessions 2026のLate-Breaking Scienceで、AI-QCTに基づく診療(AI-QCT-guided care)を通常診療と比較した初の無作為化試験PARAMOUNTの主要結果を発表した。負荷試験に基づく通常診療と比べ、AIを用いた冠動脈CTの定量解析(AI-based quantitative coronary CT analysis、AI-QCT)に基づく診療は診断確信度を高め、脂質低下療法を受ける患者を増やした。"
               },
               {
                 "t": "p",
-                "x": "患者は平均で五年以上(中央値5.6年)追跡され、その間に3,458人が死亡した。全死因死亡について、AIによる駆出率はモデル適合度が高く(AIC 57,936 vs 58,097)、識別能もわずかに上回った(C index 0.669 vs 0.637)。年齢と性別で調整した後も優位は残ったが、差は縮小した(C index 0.781 vs 0.777)。"
+                "x": "2025年1月から2026年2月にかけて、21施設で冠動脈疾患が疑われLDL-Cが高い(≥100 mg/dL)参加者530人が無作為化された。予備結果は523人に基づき、参加者の57%が女性だった。"
               },
               {
                 "t": "p",
-                "x": "AIツールは患者あたり約2–3秒でスキャンを解析した。チームの先行研究では、専門医による解析には通常13分ほどかかっていた。"
+                "x": "「PARAMOUNTは、プラークを直接測定して診療の指針にすれば、医師はより明確な答えを得られ、患者が予防療法を始める可能性がはるかに高まることを示している」と共同主任研究者のTodd C. Villines, MDは述べた。プラークに基づく診療では、カテーテル室に紹介された患者のうち閉塞性CADのない患者が有意に少なく、カテーテル検査や血行再建術の全体の実施率も増えなかった。"
               },
               {
                 "t": "p",
-                "x": "研究はCity St George's, University of LondonとUniversity College Londonが主導し、The Lancet Digital Healthに掲載された。著者らは、今回の結果は医師の監督下でAIを駆出率測定の第一選択とすることを支持するもので、今後は前向き研究で検証すべきだとしている。"
+                "x": "結果はまだ査読を経ておらず予備的なものとみなすべきで、完全な結果は2027年初めに発表される見込みだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI心脏MRI分析\n死亡预测略胜医生",
-          "body": "在27,382名患者中，AI数秒读完心脏MRIs，预测死亡略优于医生。",
-          "mini_headline": "心脏MRI AI胜过专家",
+          "headline": "Cleerly AI斑块试验\n达到主要终点",
+          "body": "在PARAMOUNT中，AI斑块指导的诊疗相比常规诊疗提高了诊断确定性和预防治疗使用率。",
+          "mini_headline": "Cleerly AI斑块试验达到终点",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-scan.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://cleerly.com/hubfs/press-release/aha-2026_pr_paramount-aha-results.jpg"
               },
               {
                 "t": "p",
-                "x": "在这项同类规模最大的研究中，研究人员分析了在英国（U.K.）和美国（United States）因已知或疑似心脏病接受检查的27,382名患者的心脏MRI影像，比较了AI-derived（AI得出）与医生测得的左心室射血分数。"
+                "x": "Cleerly在芝加哥举行的美国心脏协会(AHA)Scientific Sessions 2026上，以Late-Breaking Science形式公布了PARAMOUNT的主要结果。这是首个将AI-QCT指导诊疗(AI-QCT-guided care)与常规诊疗进行比较的随机试验。与基于负荷试验的常规诊疗相比，基于AI的定量冠状动脉CT分析(AI-based quantitative coronary CT analysis，AI-QCT)指导的诊疗提高了诊断确定性，并使更多患者接受降脂治疗。"
               },
               {
                 "t": "p",
-                "x": "患者平均随访五年以上（中位数5.6年），期间有3,458人死亡。在全因死亡方面，AI射血分数的模型拟合更好（AIC 57,936 vs 58,097），区分能力也略胜一筹（C index 0.669 vs 0.637）；校正年龄和性别后，优势仍在但有所缩小（C index 0.781 vs 0.777）。"
+                "x": "2025年1月至2026年2月间，21个中心的530名疑似冠状动脉疾病且LDL-C升高(≥100 mg/dL)的受试者被随机分组。初步结果基于523名受试者，其中女性占57%。"
               },
               {
                 "t": "p",
-                "x": "该AI工具分析每名患者的扫描约需2–3秒。团队此前的研究发现，专家医生分析通常需要约13分钟。"
+                "x": "“PARAMOUNT表明，当我们直接测量斑块并据此指导诊疗时，医生能获得更明确的答案，患者开始预防治疗的可能性也大得多，”共同主要研究者Todd C. Villines, MD表示。基于斑块的诊疗使转诊至导管室的患者中无阻塞性CAD者显著减少，且未增加导管检查或血运重建的总体比例。"
               },
               {
                 "t": "p",
-                "x": "研究由City St George's, University of London与University College London牵头，发表于The Lancet Digital Health。作者表示，结果支持在医生监督下以AI作为射血分数的一线测量手段，并有待前瞻性研究检验。"
+                "x": "该结果尚未经过同行评审，应视为初步结果；完整结果预计于2027年初发表。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Análisis de MRI cardíaca con AI\naventaja a médicos en mortalidad",
-          "body": "En 27,382 pacientes, la AI leyó MRIs cardíacas en segundos y predijo la muerte algo mejor que los clínicos.",
-          "mini_headline": "La AI de MRI cardíaca supera a expertos",
+          "headline": "El ensayo de IA de Cleerly\ncumple su objetivo principal",
+          "body": "En PARAMOUNT, la atención guiada por placa con IA superó a la habitual en certeza diagnóstica y terapia preventiva.",
+          "mini_headline": "El ensayo de IA de Cleerly cumple su objetivo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-scan.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://cleerly.com/hubfs/press-release/aha-2026_pr_paramount-aha-results.jpg"
               },
               {
                 "t": "p",
-                "x": "En el mayor estudio de su tipo, los investigadores analizaron las MRI cardíacas de 27,382 pacientes estudiados por una enfermedad cardíaca conocida o sospechada en el Reino Unido (U.K.) y Estados Unidos (United States), y compararon las mediciones AI-derived de la fracción de eyección del ventrículo izquierdo con las obtenidas por clínicos."
+                "x": "Cleerly presentó los resultados principales de PARAMOUNT, el primer ensayo aleatorizado de atención guiada por AI-QCT (AI-QCT-guided) frente a la atención habitual, como Late-Breaking Science en las Scientific Sessions 2026 de la American Heart Association (AHA) en Chicago. Frente a la atención habitual basada en pruebas de esfuerzo, la atención guiada por el análisis cuantitativo de TC coronaria basado en IA (AI-based quantitative coronary CT analysis, AI-QCT) mejoró la certeza diagnóstica e hizo que más pacientes recibieran terapia hipolipemiante."
               },
               {
                 "t": "p",
-                "x": "Los pacientes fueron seguidos durante un promedio de más de cinco años (mediana de 5.6 años), en los que se produjeron 3,458 muertes. La fracción de eyección por AI mostró mejor ajuste del modelo (AIC 57,936 vs 58,097) y una discriminación algo mejor (C index 0.669 vs 0.637) para la mortalidad por cualquier causa; tras ajustar por edad y sexo, la ventaja se mantuvo pero fue menor (C index 0.781 vs 0.777)."
+                "x": "Entre enero de 2025 y febrero de 2026 se aleatorizó a 530 participantes de 21 centros con sospecha de enfermedad coronaria y LDL-C elevado (≥100 mg/dL). Los resultados preliminares se basan en 523 participantes; las mujeres representaron el 57% del total."
               },
               {
                 "t": "p",
-                "x": "La herramienta de AI analizó las imágenes en unos 2–3 segundos por paciente. Un trabajo previo del equipo había encontrado que el análisis de un clínico experto suele tardar unos 13 minutos."
+                "x": "“PARAMOUNT demuestra que, cuando medimos la placa directamente y la usamos para guiar la atención, los médicos obtienen respuestas más claras y los pacientes tienen muchas más probabilidades de iniciar una terapia preventiva”, dijo el coinvestigador principal Todd C. Villines, MD. La atención basada en la placa redujo de forma significativa los pacientes sin CAD obstructiva entre los derivados al laboratorio de cateterismo y no aumentó las tasas globales de cateterismos ni de revascularizaciones."
               },
               {
                 "t": "p",
-                "x": "La investigación fue dirigida por City St George's, University of London y University College London, y se publicó en The Lancet Digital Health. Los autores afirman que los resultados respaldan el uso de la AI como primera línea para medir la fracción de eyección, con supervisión clínica, algo que deberá probarse en estudios prospectivos."
+                "x": "Los resultados aún no han sido revisados por pares y deben considerarse preliminares; se espera que los resultados completos se publiquen a principios de 2027."
               }
             ]
           }
@@ -199,125 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 심장 MRI 판독\n사망 예측서 의사 앞서",
-          "body": "AI가 27,382명의 MRIs를 수초에 읽어 사망을 의사보다 약간 잘 예측했다.",
-          "mini_headline": "심장 MRI AI, 전문가 앞서",
+          "headline": "Cleerly AI 시험\n주요 평가변수 충족",
+          "body": "PARAMOUNT에서 AI 플라크 기반 진료가 진단 확신과 예방 치료를 늘렸다.",
+          "mini_headline": "Cleerly AI 플라크 시험, 목표 달성",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-scan.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://cleerly.com/hubfs/press-release/aha-2026_pr_paramount-aha-results.jpg"
               },
               {
                 "t": "p",
-                "x": "같은 유형 연구로는 최대 규모인 이번 연구에서 연구진은 영국(U.K.)과 미국(United States)에서 심장 질환이 확인됐거나 의심돼 검사를 받은 환자 27,382명의 심장 MRI 영상을 분석하고, AI-derived(AI 산출) 좌심실 박출률과 의사가 측정한 값을 비교했다."
+                "x": "Cleerly는 시카고에서 열린 미국심장협회(AHA) Scientific Sessions 2026에서 Late-Breaking Science 발표로 PARAMOUNT의 주요 결과를 공개했다. PARAMOUNT는 AI-QCT 기반 진료(AI-QCT-guided care)를 표준 진료와 비교한 첫 무작위 시험이다. 부하 검사에 기반한 표준 진료와 비교해, AI 기반 정량적 관상동맥 CT 분석(AI-based quantitative coronary CT analysis, AI-QCT)에 따른 진료는 진단 확신도를 높였고 지질 강하 치료를 받는 환자도 늘렸다."
               },
               {
                 "t": "p",
-                "x": "환자들은 평균 다섯 해 넘게(중앙값 5.6년) 추적 관찰됐고, 이 기간 3,458명이 숨졌다. 전체 사망률에 대해 AI 박출률은 모델 적합도가 더 좋았고(AIC 57,936 vs 58,097) 판별력도 근소하게 앞섰다(C index 0.669 vs 0.637). 나이와 성별을 보정한 뒤에도 우위는 남았지만 차이는 줄었다(C index 0.781 vs 0.777)."
+                "x": "2025년 1월부터 2026년 2월까지 21개 기관에서 관상동맥질환이 의심되고 LDL-C가 높은(≥100 mg/dL) 참가자 530명을 무작위 배정했다. 예비 결과는 523명을 기준으로 하며, 참가자의 57%가 여성이었다."
               },
               {
                 "t": "p",
-                "x": "AI 도구는 환자당 약 2–3초 만에 영상을 분석했다. 연구팀의 이전 연구에서는 전문의 분석에 보통 13분 안팎이 걸렸다."
+                "x": "“PARAMOUNT는 플라크를 직접 측정해 진료 방향을 정하면 의사는 더 명확한 답을 얻고, 환자는 예방 치료를 시작할 가능성이 훨씬 커진다는 점을 보여준다”고 공동 책임연구자 Todd C. Villines, MD는 말했다. 플라크 기반 진료에서는 심도자실로 의뢰된 환자 가운데 폐쇄성 CAD가 없는 환자가 유의하게 적었고, 전체 심도자술이나 혈관재개통술 비율도 늘지 않았다."
               },
               {
                 "t": "p",
-                "x": "연구는 City St George's, University of London과 University College London이 이끌었고, 결과는 The Lancet Digital Health에 실렸다. 저자들은 이번 결과가 의사 감독 아래 AI로 박출률을 일차 측정하는 방식을 뒷받침하며, 앞으로 전향적 연구에서 검증해야 한다고 밝혔다."
+                "x": "이번 결과는 아직 동료 심사를 거치지 않아 예비 결과로 봐야 하며, 전체 결과는 2027년 초 발표될 예정이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI心臓MRI解析\n死亡予測で医師を僅かに上回る",
-          "body": "AIは27,382人の心臓MRIsを数秒で読み、死亡を医師よりやや正確に予測した。",
-          "mini_headline": "心臓MRIのAI、専門家を上回る",
+          "headline": "CleerlyのAI試験\n主要評価項目を達成",
+          "body": "PARAMOUNTでAIプラーク主導の診療が通常診療より診断確信度と予防治療を高めた。",
+          "mini_headline": "CleerlyのAIプラーク試験が主要評価項目を達成",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-scan.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://cleerly.com/hubfs/press-release/aha-2026_pr_paramount-aha-results.jpg"
               },
               {
                 "t": "p",
-                "x": "同種の研究として最大規模となる今回の研究で、研究チームは英国(U.K.)と米国(United States)で心疾患の確定または疑いにより検査を受けた患者27,382人の心臓MRI画像を解析し、AI-derived(AI算出)の左室駆出率と医師による測定値を比較した。"
+                "x": "Cleerlyは、シカゴで開かれた米国心臓協会(AHA)Scientific Sessions 2026のLate-Breaking Scienceで、AI-QCTに基づく診療(AI-QCT-guided care)を通常診療と比較した初の無作為化試験PARAMOUNTの主要結果を発表した。負荷試験に基づく通常診療と比べ、AIを用いた冠動脈CTの定量解析(AI-based quantitative coronary CT analysis、AI-QCT)に基づく診療は診断確信度を高め、脂質低下療法を受ける患者を増やした。"
               },
               {
                 "t": "p",
-                "x": "患者は平均で五年以上(中央値5.6年)追跡され、その間に3,458人が死亡した。全死因死亡について、AIによる駆出率はモデル適合度が高く(AIC 57,936 vs 58,097)、識別能もわずかに上回った(C index 0.669 vs 0.637)。年齢と性別で調整した後も優位は残ったが、差は縮小した(C index 0.781 vs 0.777)。"
+                "x": "2025年1月から2026年2月にかけて、21施設で冠動脈疾患が疑われLDL-Cが高い(≥100 mg/dL)参加者530人が無作為化された。予備結果は523人に基づき、参加者の57%が女性だった。"
               },
               {
                 "t": "p",
-                "x": "AIツールは患者あたり約2–3秒でスキャンを解析した。チームの先行研究では、専門医による解析には通常13分ほどかかっていた。"
+                "x": "「PARAMOUNTは、プラークを直接測定して診療の指針にすれば、医師はより明確な答えを得られ、患者が予防療法を始める可能性がはるかに高まることを示している」と共同主任研究者のTodd C. Villines, MDは述べた。プラークに基づく診療では、カテーテル室に紹介された患者のうち閉塞性CADのない患者が有意に少なく、カテーテル検査や血行再建術の全体の実施率も増えなかった。"
               },
               {
                 "t": "p",
-                "x": "研究はCity St George's, University of LondonとUniversity College Londonが主導し、The Lancet Digital Healthに掲載された。著者らは、今回の結果は医師の監督下でAIを駆出率測定の第一選択とすることを支持するもので、今後は前向き研究で検証すべきだとしている。"
+                "x": "結果はまだ査読を経ておらず予備的なものとみなすべきで、完全な結果は2027年初めに発表される見込みだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI心脏MRI分析\n死亡预测略胜医生",
-          "body": "在27,382名患者中，AI数秒读完心脏MRIs，预测死亡略优于医生。",
-          "mini_headline": "心脏MRI AI胜过专家",
+          "headline": "Cleerly AI斑块试验\n达到主要终点",
+          "body": "在PARAMOUNT中，AI斑块指导的诊疗相比常规诊疗提高了诊断确定性和预防治疗使用率。",
+          "mini_headline": "Cleerly AI斑块试验达到终点",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-scan.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://cleerly.com/hubfs/press-release/aha-2026_pr_paramount-aha-results.jpg"
               },
               {
                 "t": "p",
-                "x": "在这项同类规模最大的研究中，研究人员分析了在英国（U.K.）和美国（United States）因已知或疑似心脏病接受检查的27,382名患者的心脏MRI影像，比较了AI-derived（AI得出）与医生测得的左心室射血分数。"
+                "x": "Cleerly在芝加哥举行的美国心脏协会(AHA)Scientific Sessions 2026上，以Late-Breaking Science形式公布了PARAMOUNT的主要结果。这是首个将AI-QCT指导诊疗(AI-QCT-guided care)与常规诊疗进行比较的随机试验。与基于负荷试验的常规诊疗相比，基于AI的定量冠状动脉CT分析(AI-based quantitative coronary CT analysis，AI-QCT)指导的诊疗提高了诊断确定性，并使更多患者接受降脂治疗。"
               },
               {
                 "t": "p",
-                "x": "患者平均随访五年以上（中位数5.6年），期间有3,458人死亡。在全因死亡方面，AI射血分数的模型拟合更好（AIC 57,936 vs 58,097），区分能力也略胜一筹（C index 0.669 vs 0.637）；校正年龄和性别后，优势仍在但有所缩小（C index 0.781 vs 0.777）。"
+                "x": "2025年1月至2026年2月间，21个中心的530名疑似冠状动脉疾病且LDL-C升高(≥100 mg/dL)的受试者被随机分组。初步结果基于523名受试者，其中女性占57%。"
               },
               {
                 "t": "p",
-                "x": "该AI工具分析每名患者的扫描约需2–3秒。团队此前的研究发现，专家医生分析通常需要约13分钟。"
+                "x": "“PARAMOUNT表明，当我们直接测量斑块并据此指导诊疗时，医生能获得更明确的答案，患者开始预防治疗的可能性也大得多，”共同主要研究者Todd C. Villines, MD表示。基于斑块的诊疗使转诊至导管室的患者中无阻塞性CAD者显著减少，且未增加导管检查或血运重建的总体比例。"
               },
               {
                 "t": "p",
-                "x": "研究由City St George's, University of London与University College London牵头，发表于The Lancet Digital Health。作者表示，结果支持在医生监督下以AI作为射血分数的一线测量手段，并有待前瞻性研究检验。"
+                "x": "该结果尚未经过同行评审，应视为初步结果；完整结果预计于2027年初发表。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Análisis de MRI cardíaca con AI\naventaja a médicos en mortalidad",
-          "body": "En 27,382 pacientes, la AI leyó MRIs cardíacas en segundos y predijo la muerte algo mejor que los clínicos.",
-          "mini_headline": "La AI de MRI cardíaca supera a expertos",
+          "headline": "El ensayo de IA de Cleerly\ncumple su objetivo principal",
+          "body": "En PARAMOUNT, la atención guiada por placa con IA superó a la habitual en certeza diagnóstica y terapia preventiva.",
+          "mini_headline": "El ensayo de IA de Cleerly cumple su objetivo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-scan.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://cleerly.com/hubfs/press-release/aha-2026_pr_paramount-aha-results.jpg"
               },
               {
                 "t": "p",
-                "x": "En el mayor estudio de su tipo, los investigadores analizaron las MRI cardíacas de 27,382 pacientes estudiados por una enfermedad cardíaca conocida o sospechada en el Reino Unido (U.K.) y Estados Unidos (United States), y compararon las mediciones AI-derived de la fracción de eyección del ventrículo izquierdo con las obtenidas por clínicos."
+                "x": "Cleerly presentó los resultados principales de PARAMOUNT, el primer ensayo aleatorizado de atención guiada por AI-QCT (AI-QCT-guided) frente a la atención habitual, como Late-Breaking Science en las Scientific Sessions 2026 de la American Heart Association (AHA) en Chicago. Frente a la atención habitual basada en pruebas de esfuerzo, la atención guiada por el análisis cuantitativo de TC coronaria basado en IA (AI-based quantitative coronary CT analysis, AI-QCT) mejoró la certeza diagnóstica e hizo que más pacientes recibieran terapia hipolipemiante."
               },
               {
                 "t": "p",
-                "x": "Los pacientes fueron seguidos durante un promedio de más de cinco años (mediana de 5.6 años), en los que se produjeron 3,458 muertes. La fracción de eyección por AI mostró mejor ajuste del modelo (AIC 57,936 vs 58,097) y una discriminación algo mejor (C index 0.669 vs 0.637) para la mortalidad por cualquier causa; tras ajustar por edad y sexo, la ventaja se mantuvo pero fue menor (C index 0.781 vs 0.777)."
+                "x": "Entre enero de 2025 y febrero de 2026 se aleatorizó a 530 participantes de 21 centros con sospecha de enfermedad coronaria y LDL-C elevado (≥100 mg/dL). Los resultados preliminares se basan en 523 participantes; las mujeres representaron el 57% del total."
               },
               {
                 "t": "p",
-                "x": "La herramienta de AI analizó las imágenes en unos 2–3 segundos por paciente. Un trabajo previo del equipo había encontrado que el análisis de un clínico experto suele tardar unos 13 minutos."
+                "x": "“PARAMOUNT demuestra que, cuando medimos la placa directamente y la usamos para guiar la atención, los médicos obtienen respuestas más claras y los pacientes tienen muchas más probabilidades de iniciar una terapia preventiva”, dijo el coinvestigador principal Todd C. Villines, MD. La atención basada en la placa redujo de forma significativa los pacientes sin CAD obstructiva entre los derivados al laboratorio de cateterismo y no aumentó las tasas globales de cateterismos ni de revascularizaciones."
               },
               {
                 "t": "p",
-                "x": "La investigación fue dirigida por City St George's, University of London y University College London, y se publicó en The Lancet Digital Health. Los autores afirman que los resultados respaldan el uso de la AI como primera línea para medir la fracción de eyección, con supervisión clínica, algo que deberá probarse en estudios prospectivos."
+                "x": "Los resultados aún no han sido revisados por pares y deben considerarse preliminares; se espera que los resultados completos se publiquen a principios de 2027."
               }
             ]
           }
@@ -325,165 +315,195 @@
       }
     },
     {
-      "id": "jama-lipid-llm-nonescalation",
+      "id": "primaa-cleo-skin-fda",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "LLMs로 본 지질치료\n강화가 자주 멈추는 이유",
-      "body": "LLMs로 13,354건의 88.7%가 미강화였고 그중 40.4%엔 사유가 있었다.",
-      "mini_headline": "지질치료가 멈추는 이유",
+      "headline": "FDA, Cleo Skin\n혁신 의료기기 지정",
+      "body": "Primaa의 피부암 진단 AI Cleo Skin이 FDA 혁신기기로 지정됐다.",
+      "mini_headline": "Cleo Skin, FDA 혁신기기 지정",
       "tool": "Medicine",
-      "source": "JAMA Cardiology",
-      "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2856385",
+      "source": "Clinical Lab Products",
+      "url": "https://clpmag.com/disease-states/cancer/melanoma/fda-breakthrough-designation-cleo-skin-ai-dermatopathology/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "이 후향적 코호트 연구는 Stanford Health Care의 죽상경화성 심혈관질환 성인 환자(January 2019~May 2025)를 대상으로 했다. 연구진은 대규모 언어모델 경로(GPT 5.0)로 진료기록을 읽어 목표치 도달 치료 전략과, 지질강하 치료(LLT)를 강화하지 않은 사유를 찾아냈다."
+            "t": "img",
+            "src": "https://clpmag.com/wp-content/uploads/2026/11/image-2.jpg",
+            "cap": "Cleo Skin (사진: Primaa)"
           },
           {
             "t": "p",
-            "x": "선정 기준을 충족한 환자는 모두 28,113명이었고, 이 가운데 13,810명(49.1%)은 LDL-C가 목표치를 웃돌았다. 추론 세트는 환자 13,394명의 기록 14,785건이었고, 여기에 관련 진료기록 13,354건이 들어 있었다."
+            "x": "FDA가 Primaa의 인공지능 솔루션 Cleo Skin을 혁신 의료기기(Breakthrough Device)로 지정했다. Cleo Skin은 디지털화한 생검 슬라이드와 절제 조직을 읽어 병리의사의 피부암 진단을 돕는다."
           },
           {
             "t": "p",
-            "x": "관련 기록의 28.1%에 목표치 도달 전략이 적혀 있었고, 가장 흔한 것은 LDL-C 70 mg/dL 미만 목표(17.1%)였다. LLT를 강화하지 않은 기록은 11,842건(88.7%)이었다. 이 중 4,788건(40.4%)에는 사유가 1개 이상 적혀 있었다. 환자가 보고한 부작용(12.6%)이 가장 많았고 목표치에 가까운 LDL-C(6.9%), 환자 선호(6.8%), 생활습관 변화(6.1%), 재검사 대기(4.6%)가 뒤를 이었다. Micro-weighted F1 점수는 0.80~0.98이었다."
+            "x": "Cleo Skin은 2026년 3월 유럽에서 받은 CE-IVDR 인증과 FDA 혁신 의료기기 지정을 둘 다 받은 첫 피부병리 AI 도구다. 다만 이번 지정이 곧 미국(US) 판매 허가는 아니다."
           },
           {
             "t": "p",
-            "x": "LDL-C가 목표치를 넘은 진료 10건 중 9건 가까이에서 치료를 강화하지 않았다. 저자들은 시스템 차원의 디지털 헬스 개입에 이 결과를 참고할 만하다고 제안했다."
+            "x": "이 도구는 전체 슬라이드 이미지를 분석해 흑색종이 의심되는 영역을 표시하고 기저세포암·편평세포암·모반 등 병변의 참고용 분류를 내놓는다. 절제연, Breslow 두께, 유사분열 영역 같은 측정값도 제안한다. 병리의사의 판독을 대신하지 않고 돕는 도구다."
+          },
+          {
+            "t": "p",
+            "x": "SkinPerf2026 연구에서 프랑스 11개 기관의 병리의사 16명이 전체 슬라이드 이미지 313장을 평가했다. Cleo Skin은 전체 흑색종 민감도를 83.8%에서 88.6%로, 주니어 병리의사에서는 79.7%에서 88.2%로 높였다. PathPresenter와 함께한 미국(US) 탐색 연구에서는 병리의사 일곱 명이 슬라이드 75장을 검토했다. 분석 시간은 20% 줄고 주니어 병리의사의 민감도는 17% 올랐다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "LLMs trace why lipid therapy\nso often stays unescalated",
-          "body": "LLMs found therapy unescalated in 88.7% of 13,354 relevant visit notes, and 40.4% of those noted a reason.",
-          "mini_headline": "Why lipid therapy stalls",
+          "headline": "FDA names Primaa's Cleo Skin\na breakthrough device",
+          "body": "Primaa's Cleo Skin, an AI tool helping pathologists diagnose skin cancers, received FDA Breakthrough Device designation.",
+          "mini_headline": "Cleo Skin wins FDA breakthrough tag",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "In this retrospective cohort study of adults with atherosclerotic cardiovascular disease at Stanford Health Care (January 2019 to May 2025), a large language model pathway (GPT 5.0) was used to identify treat-to-target strategies and reasons for lipid-lowering therapy (LLT) nonescalation in clinical notes."
+                "t": "img",
+                "src": "https://clpmag.com/wp-content/uploads/2026/11/image-2.jpg",
+                "cap": "Cleo Skin (Photo: Primaa)"
               },
               {
                 "t": "p",
-                "x": "A total of 28,113 patients met the inclusion criteria, of whom 13,810 (49.1%) had above-goal LDL-C. The inference set comprised 14,785 notes from 13,394 patients, including 13,354 relevant visit notes."
+                "x": "The FDA has granted Breakthrough Device Designation to Cleo Skin, an artificial intelligence solution developed by Primaa to assist pathologists in diagnosing skin cancers from digitized biopsy slides and excised tissues."
               },
               {
                 "t": "p",
-                "x": "A treat-to-target strategy was documented in 28.1% of relevant notes, most often an LDL-C target below 70 mg/dL (17.1%). LLT was not escalated in 11,842 notes (88.7%). Of these notes, 4,788 (40.4%) had at least 1 documented reason, most commonly patient-reported adverse effects (12.6%), LDL-C close to goal (6.9%), patient preference (6.8%), lifestyle changes (6.1%) and deferral to repeat labs (4.6%). Micro-weighted F1 scores ranged from 0.80 to 0.98."
+                "x": "Cleo Skin is the first AI tool in dermatopathology to hold both CE-IVDR certification in Europe, received in March 2026, and FDA Breakthrough Device Designation. The designation does not constitute US marketing authorization."
               },
               {
                 "t": "p",
-                "x": "Nearly 9 in 10 encounters with above-goal LDL-C did not escalate therapy; the authors suggest the findings could inform system-level digital health interventions."
+                "x": "The tool analyzes whole slide images to flag areas suspicious for melanoma, offer indicative lesion classifications—including basal cell carcinoma, squamous cell carcinoma, and nevus—and suggest measurements such as margins, Breslow thickness, and mitotic regions. It supports rather than replaces pathologist evaluation."
+              },
+              {
+                "t": "p",
+                "x": "In the SkinPerf2026 study, 16 pathologists across 11 French institutions evaluated 313 whole slide images; Cleo Skin improved overall melanoma sensitivity from 83.8% to 88.6%, and from 79.7% to 88.2% among junior pathologists. In an exploratory US study with PathPresenter, seven pathologists reviewed 75 slides, showing a 20% reduction in analysis time and a 17% gain in sensitivity among junior pathologists."
               }
             ]
           }
         },
         "ko": {
-          "headline": "LLMs로 본 지질치료\n강화가 자주 멈추는 이유",
-          "body": "LLMs로 13,354건의 88.7%가 미강화였고 그중 40.4%엔 사유가 있었다.",
-          "mini_headline": "지질치료가 멈추는 이유",
+          "headline": "FDA, Cleo Skin\n혁신 의료기기 지정",
+          "body": "Primaa의 피부암 진단 AI Cleo Skin이 FDA 혁신기기로 지정됐다.",
+          "mini_headline": "Cleo Skin, FDA 혁신기기 지정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "이 후향적 코호트 연구는 Stanford Health Care의 죽상경화성 심혈관질환 성인 환자(January 2019~May 2025)를 대상으로 했다. 연구진은 대규모 언어모델 경로(GPT 5.0)로 진료기록을 읽어 목표치 도달 치료 전략과, 지질강하 치료(LLT)를 강화하지 않은 사유를 찾아냈다."
+                "t": "img",
+                "src": "https://clpmag.com/wp-content/uploads/2026/11/image-2.jpg",
+                "cap": "Cleo Skin (사진: Primaa)"
               },
               {
                 "t": "p",
-                "x": "선정 기준을 충족한 환자는 모두 28,113명이었고, 이 가운데 13,810명(49.1%)은 LDL-C가 목표치를 웃돌았다. 추론 세트는 환자 13,394명의 기록 14,785건이었고, 여기에 관련 진료기록 13,354건이 들어 있었다."
+                "x": "FDA가 Primaa의 인공지능 솔루션 Cleo Skin을 혁신 의료기기(Breakthrough Device)로 지정했다. Cleo Skin은 디지털화한 생검 슬라이드와 절제 조직을 읽어 병리의사의 피부암 진단을 돕는다."
               },
               {
                 "t": "p",
-                "x": "관련 기록의 28.1%에 목표치 도달 전략이 적혀 있었고, 가장 흔한 것은 LDL-C 70 mg/dL 미만 목표(17.1%)였다. LLT를 강화하지 않은 기록은 11,842건(88.7%)이었다. 이 중 4,788건(40.4%)에는 사유가 1개 이상 적혀 있었다. 환자가 보고한 부작용(12.6%)이 가장 많았고 목표치에 가까운 LDL-C(6.9%), 환자 선호(6.8%), 생활습관 변화(6.1%), 재검사 대기(4.6%)가 뒤를 이었다. Micro-weighted F1 점수는 0.80~0.98이었다."
+                "x": "Cleo Skin은 2026년 3월 유럽에서 받은 CE-IVDR 인증과 FDA 혁신 의료기기 지정을 둘 다 받은 첫 피부병리 AI 도구다. 다만 이번 지정이 곧 미국(US) 판매 허가는 아니다."
               },
               {
                 "t": "p",
-                "x": "LDL-C가 목표치를 넘은 진료 10건 중 9건 가까이에서 치료를 강화하지 않았다. 저자들은 시스템 차원의 디지털 헬스 개입에 이 결과를 참고할 만하다고 제안했다."
+                "x": "이 도구는 전체 슬라이드 이미지를 분석해 흑색종이 의심되는 영역을 표시하고 기저세포암·편평세포암·모반 등 병변의 참고용 분류를 내놓는다. 절제연, Breslow 두께, 유사분열 영역 같은 측정값도 제안한다. 병리의사의 판독을 대신하지 않고 돕는 도구다."
+              },
+              {
+                "t": "p",
+                "x": "SkinPerf2026 연구에서 프랑스 11개 기관의 병리의사 16명이 전체 슬라이드 이미지 313장을 평가했다. Cleo Skin은 전체 흑색종 민감도를 83.8%에서 88.6%로, 주니어 병리의사에서는 79.7%에서 88.2%로 높였다. PathPresenter와 함께한 미국(US) 탐색 연구에서는 병리의사 일곱 명이 슬라이드 75장을 검토했다. 분석 시간은 20% 줄고 주니어 병리의사의 민감도는 17% 올랐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LLMsが解く脂質療法\n強化が進まない理由",
-          "body": "LLMsは記録13,354件の88.7%で強化なしと判定し、うち40.4%に理由があった。",
-          "mini_headline": "脂質療法が止まる理由",
+          "headline": "FDA、Cleo Skinを\n画期的医療機器に指定",
+          "body": "Primaaの皮膚がん診断支援AI Cleo SkinがFDAの画期的機器指定を得た。",
+          "mini_headline": "Cleo SkinがFDAの画期的機器指定を取得",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "この後ろ向きコホート研究は、Stanford Health Careのアテローム性動脈硬化性心血管疾患の成人(January 2019〜May 2025)を対象に、大規模言語モデルのパイプライン(GPT 5.0)を用いて、診療記録から目標値達成型の治療戦略と脂質低下療法(LLT)を強化しなかった理由を抽出した。"
+                "t": "img",
+                "src": "https://clpmag.com/wp-content/uploads/2026/11/image-2.jpg",
+                "cap": "Cleo Skin(写真:Primaa)"
               },
               {
                 "t": "p",
-                "x": "選択基準を満たした患者は計28,113人で、うち13,810人(49.1%)はLDL-Cが目標を上回っていた。推論セットは患者13,394人の記録14,785件で、関連する受診記録13,354件を含む。"
+                "x": "FDAは、Primaaが開発した人工知能ソリューションCleo Skinを画期的医療機器(Breakthrough Device)に指定した。Cleo Skinは、デジタル化された生検スライドと切除組織をもとに、病理医による皮膚がんの診断を支援する。"
               },
               {
                 "t": "p",
-                "x": "関連記録の28.1%に目標値達成型の戦略が記載され、最も多かったのはLDL-C 70 mg/dL未満の目標(17.1%)だった。LLTが強化されなかった記録は11,842件(88.7%)だった。そのうち4,788件(40.4%)に少なくとも1つの理由が記載されており、多かったのは患者が報告した副作用(12.6%)、目標に近いLDL-C(6.9%)、患者の希望(6.8%)、生活習慣の改善(6.1%)、再検査待ち(4.6%)だった。Micro-weighted F1スコアは0.80〜0.98だった。"
+                "x": "Cleo Skinは、2026年3月に欧州で取得したCE-IVDR認証とFDAの画期的医療機器指定の両方を持つ、皮膚病理分野で初のAIツールだ。この指定は米国(US)での販売承認を意味するものではない。"
               },
               {
                 "t": "p",
-                "x": "LDL-Cが目標を上回る受診の10件中9件近くで治療は強化されなかった。著者らは、この結果がシステムレベルのデジタルヘルス介入に役立つ可能性があるとしている。"
+                "x": "このツールはホールスライド画像を解析し、悪性黒色腫が疑われる領域を示し、基底細胞がん、有棘細胞がん、母斑などの参考的な病変分類を提示し、切除断端、Breslow厚、核分裂領域などの計測値を提案する。病理医の評価を置き換えるのではなく支援するものだ。"
+              },
+              {
+                "t": "p",
+                "x": "SkinPerf2026研究では、フランスの11施設に所属する病理医16人がホールスライド画像313枚を評価した。Cleo Skinにより、悪性黒色腫の全体の感度は83.8%から88.6%に、若手病理医では79.7%から88.2%に向上した。PathPresenterと行った米国(US)の探索的研究では、病理医七人が75枚のスライドを確認し、解析時間が20%短縮し、若手病理医の感度が17%向上した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "LLMs揭示降脂治疗\n为何常未升级",
-          "body": "LLMs发现13,354份相关就诊记录中88.7%未升级治疗，其中40.4%记有原因。",
-          "mini_headline": "降脂治疗为何停滞",
+          "headline": "FDA将Cleo Skin\n列为突破性医疗器械",
+          "body": "Primaa辅助病理医生诊断皮肤癌的AI工具Cleo Skin获FDA突破性器械认定。",
+          "mini_headline": "Cleo Skin获FDA突破性器械认定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "这项回顾性队列研究纳入Stanford Health Care的动脉粥样硬化性心血管病成年患者（January 2019至May 2025），使用大语言模型流程（GPT 5.0）从临床记录中识别达标治疗策略以及降脂治疗（LLT）未升级的原因。"
+                "t": "img",
+                "src": "https://clpmag.com/wp-content/uploads/2026/11/image-2.jpg",
+                "cap": "Cleo Skin(图片：Primaa)"
               },
               {
                 "t": "p",
-                "x": "共有28,113名患者符合纳入标准，其中13,810名（49.1%）LDL-C高于目标值。推理集包括来自13,394名患者的14,785份记录，其中有13,354份相关就诊记录。"
+                "x": "FDA已授予Cleo Skin突破性医疗器械认定(Breakthrough Device Designation)。Cleo Skin是Primaa开发的人工智能解决方案，可基于数字化活检切片和切除组织协助病理医生诊断皮肤癌。"
               },
               {
                 "t": "p",
-                "x": "28.1%的相关记录写明了达标治疗策略，最常见的是LDL-C低于70 mg/dL的目标（17.1%）。共有11,842份记录（88.7%）未升级LLT。其中4,788份（40.4%）记录了至少1个原因，最常见的是患者报告的不良反应（12.6%）、LDL-C接近目标（6.9%）、患者意愿（6.8%）、生活方式改变（6.1%）以及等待复查（4.6%）。Micro-weighted F1分数介于0.80至0.98之间。"
+                "x": "Cleo Skin是皮肤病理领域首个同时获得欧洲CE-IVDR认证(2026年3月取得)和FDA突破性医疗器械认定的AI工具。该认定并不构成美国(US)上市许可。"
               },
               {
                 "t": "p",
-                "x": "在LDL-C高于目标的就诊中，近10次中有9次未升级治疗；作者认为，这些发现可为系统层面的数字健康干预提供参考。"
+                "x": "该工具分析全切片图像，标记疑似黑色素瘤的区域，给出包括基底细胞癌、鳞状细胞癌和痣在内的参考性病变分类，并建议切缘、Breslow厚度和有丝分裂区域等测量值。它用于辅助而非取代病理医生的评估。"
+              },
+              {
+                "t": "p",
+                "x": "在SkinPerf2026研究中，法国11家机构的16名病理医生评估了313张全切片图像；Cleo Skin将整体黑色素瘤敏感度从83.8%提高到88.6%，在初级病理医生中从79.7%提高到88.2%。在与PathPresenter合作开展的一项美国(US)探索性研究中，七名病理医生审阅了75张切片，分析时间缩短20%，初级病理医生的敏感度提高17%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los LLMs explican por qué el\ntratamiento lipídico se estanca",
-          "body": "Los LLMs hallaron terapia sin intensificar en el 88.7% de 13,354 notas de visita, y el 40.4% de ellas daba un motivo.",
-          "mini_headline": "Por qué se estanca la terapia lipídica",
+          "headline": "Cleo Skin, de Primaa, recibe\nel sello Breakthrough de la FDA",
+          "body": "Cleo Skin, la IA de Primaa que ayuda a diagnosticar cáncer de piel, recibió la designación Breakthrough de la FDA.",
+          "mini_headline": "Cleo Skin recibe el sello Breakthrough de la FDA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Este estudio de cohorte retrospectivo con adultos con enfermedad cardiovascular aterosclerótica en Stanford Health Care (January 2019 a May 2025) usó una canalización de modelo de lenguaje grande (GPT 5.0) para identificar en las notas clínicas estrategias de tratamiento por objetivos y los motivos de no intensificar la terapia hipolipemiante (LLT)."
+                "t": "img",
+                "src": "https://clpmag.com/wp-content/uploads/2026/11/image-2.jpg",
+                "cap": "Cleo Skin (Foto: Primaa)"
               },
               {
                 "t": "p",
-                "x": "Un total de 28,113 pacientes cumplieron los criterios de inclusión, de los cuales 13,810 (49.1%) tenían el LDL-C por encima del objetivo. El conjunto de inferencia incluyó 14,785 notas de 13,394 pacientes, entre ellas 13,354 notas de visita relevantes."
+                "x": "La FDA ha otorgado la designación de dispositivo innovador (Breakthrough Device Designation) a Cleo Skin, una solución de inteligencia artificial desarrollada por Primaa para ayudar a los patólogos a diagnosticar cánceres de piel a partir de portaobjetos de biopsia digitalizados y tejidos extirpados."
               },
               {
                 "t": "p",
-                "x": "Se documentó una estrategia de tratamiento por objetivos en el 28.1% de las notas relevantes, sobre todo un objetivo de LDL-C inferior a 70 mg/dL (17.1%). La LLT no se intensificó en 11,842 notas (88.7%). De ellas, 4,788 (40.4%) recogían al menos 1 motivo, sobre todo efectos adversos referidos por el paciente (12.6%), LDL-C cercano al objetivo (6.9%), preferencia del paciente (6.8%), cambios en el estilo de vida (6.1%) y aplazamiento hasta repetir análisis (4.6%). Las puntuaciones Micro-weighted F1 oscilaron entre 0.80 y 0.98."
+                "x": "Cleo Skin es la primera herramienta de IA en dermatopatología que cuenta a la vez con la certificación CE-IVDR en Europa, obtenida en marzo de 2026, y con la designación Breakthrough Device de la FDA. La designación no constituye una autorización de comercialización en EE. UU. (US)."
               },
               {
                 "t": "p",
-                "x": "Casi 9 de cada 10 consultas con LDL-C por encima del objetivo no intensificaron la terapia; los autores sugieren que los hallazgos podrían orientar intervenciones de salud digital a nivel de sistema."
+                "x": "La herramienta analiza imágenes de portaobjetos completos para señalar zonas sospechosas de melanoma, ofrecer clasificaciones orientativas de lesiones —entre ellas carcinoma basocelular, carcinoma espinocelular y nevo— y sugerir mediciones como márgenes, espesor de Breslow y regiones mitóticas. Apoya la evaluación del patólogo, pero no la sustituye."
+              },
+              {
+                "t": "p",
+                "x": "En el estudio SkinPerf2026, 16 patólogos de 11 instituciones francesas evaluaron 313 imágenes de portaobjetos completos; Cleo Skin elevó la sensibilidad global para melanoma del 83.8% al 88.6%, y del 79.7% al 88.2% entre los patólogos júnior. En un estudio exploratorio en EE. UU. con PathPresenter, siete patólogos revisaron 75 portaobjetos, con una reducción del 20% en el tiempo de análisis y una mejora del 17% en la sensibilidad de los patólogos júnior."
               }
             ]
           }
@@ -491,105 +511,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "LLMs로 본 지질치료\n강화가 자주 멈추는 이유",
-          "body": "LLMs로 13,354건의 88.7%가 미강화였고 그중 40.4%엔 사유가 있었다.",
-          "mini_headline": "지질치료가 멈추는 이유",
+          "headline": "FDA, Cleo Skin\n혁신 의료기기 지정",
+          "body": "Primaa의 피부암 진단 AI Cleo Skin이 FDA 혁신기기로 지정됐다.",
+          "mini_headline": "Cleo Skin, FDA 혁신기기 지정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "이 후향적 코호트 연구는 Stanford Health Care의 죽상경화성 심혈관질환 성인 환자(January 2019~May 2025)를 대상으로, 대규모 언어모델 경로(GPT 5.0)를 이용해 진료기록에서 목표치 도달 치료 전략과 지질강하 치료(LLT)를 강화하지 않은 사유를 찾아냈다."
+                "t": "img",
+                "src": "https://clpmag.com/wp-content/uploads/2026/11/image-2.jpg",
+                "cap": "Cleo Skin (사진: Primaa)"
               },
               {
                 "t": "p",
-                "x": "선정 기준을 충족한 환자는 모두 28,113명이었고, 이 가운데 13,810명(49.1%)은 LDL-C가 목표치를 웃돌았다. 추론 세트는 환자 13,394명의 기록 14,785건으로, 관련 진료기록 13,354건이 포함됐다."
+                "x": "FDA가 Primaa의 인공지능 솔루션 Cleo Skin을 혁신 의료기기(Breakthrough Device)로 지정했다. Cleo Skin은 디지털화한 생검 슬라이드와 절제 조직을 바탕으로 병리의사의 피부암 진단을 돕는다."
               },
               {
                 "t": "p",
-                "x": "관련 기록의 28.1%에 목표치 도달 전략이 적혀 있었고, 가장 흔한 것은 LDL-C 70 mg/dL 미만 목표(17.1%)였다. LLT를 강화하지 않은 기록은 11,842건(88.7%)이었다. 이 중 4,788건(40.4%)에 사유가 1개 이상 적혀 있었으며, 환자가 보고한 부작용(12.6%), 목표치에 가까운 LDL-C(6.9%), 환자 선호(6.8%), 생활습관 변화(6.1%), 재검사 대기(4.6%)가 가장 흔했다. Micro-weighted F1 점수는 0.80~0.98이었다."
+                "x": "Cleo Skin은 2026년 3월 유럽에서 받은 CE-IVDR 인증과 FDA 혁신 의료기기 지정을 모두 보유한 피부병리 분야 최초의 AI 도구다. 이번 지정이 미국(US) 판매 허가를 뜻하지는 않는다."
               },
               {
                 "t": "p",
-                "x": "LDL-C가 목표치를 넘은 진료 10건 중 9건 가까이에서 치료를 강화하지 않았다. 저자들은 이 결과가 시스템 차원의 디지털 헬스 개입에 참고가 될 수 있다고 제안했다."
+                "x": "이 도구는 전체 슬라이드 이미지를 분석해 흑색종이 의심되는 영역을 표시하고, 기저세포암·편평세포암·모반 등 병변의 참고용 분류를 제시하며, 절제연, Breslow 두께, 유사분열 영역 같은 측정값을 제안한다. 병리의사의 판독을 대체하지 않고 보조하는 도구다."
+              },
+              {
+                "t": "p",
+                "x": "SkinPerf2026 연구에서 프랑스 11개 기관의 병리의사 16명이 전체 슬라이드 이미지 313장을 평가했다. Cleo Skin은 전체 흑색종 민감도를 83.8%에서 88.6%로, 주니어 병리의사에서는 79.7%에서 88.2%로 높였다. PathPresenter와 함께한 미국(US) 탐색 연구에서는 병리의사 일곱 명이 슬라이드 75장을 검토했으며, 분석 시간이 20% 줄고 주니어 병리의사의 민감도가 17% 올랐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LLMsが解く脂質療法\n強化が進まない理由",
-          "body": "LLMsは記録13,354件の88.7%で強化なしと判定し、うち40.4%に理由があった。",
-          "mini_headline": "脂質療法が止まる理由",
+          "headline": "FDA、Cleo Skinを\n画期的医療機器に指定",
+          "body": "Primaaの皮膚がん診断支援AI Cleo SkinがFDAの画期的機器指定を得た。",
+          "mini_headline": "Cleo SkinがFDAの画期的機器指定を取得",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "この後ろ向きコホート研究は、Stanford Health Careのアテローム性動脈硬化性心血管疾患の成人(January 2019〜May 2025)を対象に、大規模言語モデルのパイプライン(GPT 5.0)を用いて、診療記録から目標値達成型の治療戦略と脂質低下療法(LLT)を強化しなかった理由を抽出した。"
+                "t": "img",
+                "src": "https://clpmag.com/wp-content/uploads/2026/11/image-2.jpg",
+                "cap": "Cleo Skin(写真:Primaa)"
               },
               {
                 "t": "p",
-                "x": "選択基準を満たした患者は計28,113人で、うち13,810人(49.1%)はLDL-Cが目標を上回っていた。推論セットは患者13,394人の記録14,785件で、関連する受診記録13,354件を含む。"
+                "x": "FDAは、Primaaが開発した人工知能ソリューションCleo Skinを画期的医療機器(Breakthrough Device)に指定した。Cleo Skinは、デジタル化された生検スライドと切除組織をもとに、病理医による皮膚がんの診断を支援する。"
               },
               {
                 "t": "p",
-                "x": "関連記録の28.1%に目標値達成型の戦略が記載され、最も多かったのはLDL-C 70 mg/dL未満の目標(17.1%)だった。LLTが強化されなかった記録は11,842件(88.7%)だった。そのうち4,788件(40.4%)に少なくとも1つの理由が記載されており、多かったのは患者が報告した副作用(12.6%)、目標に近いLDL-C(6.9%)、患者の希望(6.8%)、生活習慣の改善(6.1%)、再検査待ち(4.6%)だった。Micro-weighted F1スコアは0.80〜0.98だった。"
+                "x": "Cleo Skinは、2026年3月に欧州で取得したCE-IVDR認証とFDAの画期的医療機器指定の両方を持つ、皮膚病理分野で初のAIツールだ。この指定は米国(US)での販売承認を意味するものではない。"
               },
               {
                 "t": "p",
-                "x": "LDL-Cが目標を上回る受診の10件中9件近くで治療は強化されなかった。著者らは、この結果がシステムレベルのデジタルヘルス介入に役立つ可能性があるとしている。"
+                "x": "このツールはホールスライド画像を解析し、悪性黒色腫が疑われる領域を示し、基底細胞がん、有棘細胞がん、母斑などの参考的な病変分類を提示し、切除断端、Breslow厚、核分裂領域などの計測値を提案する。病理医の評価を置き換えるのではなく支援するものだ。"
+              },
+              {
+                "t": "p",
+                "x": "SkinPerf2026研究では、フランスの11施設に所属する病理医16人がホールスライド画像313枚を評価した。Cleo Skinにより、悪性黒色腫の全体の感度は83.8%から88.6%に、若手病理医では79.7%から88.2%に向上した。PathPresenterと行った米国(US)の探索的研究では、病理医七人が75枚のスライドを確認し、解析時間が20%短縮し、若手病理医の感度が17%向上した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "LLMs揭示降脂治疗\n为何常未升级",
-          "body": "LLMs发现13,354份相关就诊记录中88.7%未升级治疗，其中40.4%记有原因。",
-          "mini_headline": "降脂治疗为何停滞",
+          "headline": "FDA将Cleo Skin\n列为突破性医疗器械",
+          "body": "Primaa辅助病理医生诊断皮肤癌的AI工具Cleo Skin获FDA突破性器械认定。",
+          "mini_headline": "Cleo Skin获FDA突破性器械认定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "这项回顾性队列研究纳入Stanford Health Care的动脉粥样硬化性心血管病成年患者（January 2019至May 2025），使用大语言模型流程（GPT 5.0）从临床记录中识别达标治疗策略以及降脂治疗（LLT）未升级的原因。"
+                "t": "img",
+                "src": "https://clpmag.com/wp-content/uploads/2026/11/image-2.jpg",
+                "cap": "Cleo Skin(图片：Primaa)"
               },
               {
                 "t": "p",
-                "x": "共有28,113名患者符合纳入标准，其中13,810名（49.1%）LDL-C高于目标值。推理集包括来自13,394名患者的14,785份记录，其中有13,354份相关就诊记录。"
+                "x": "FDA已授予Cleo Skin突破性医疗器械认定(Breakthrough Device Designation)。Cleo Skin是Primaa开发的人工智能解决方案，可基于数字化活检切片和切除组织协助病理医生诊断皮肤癌。"
               },
               {
                 "t": "p",
-                "x": "28.1%的相关记录写明了达标治疗策略，最常见的是LDL-C低于70 mg/dL的目标（17.1%）。共有11,842份记录（88.7%）未升级LLT。其中4,788份（40.4%）记录了至少1个原因，最常见的是患者报告的不良反应（12.6%）、LDL-C接近目标（6.9%）、患者意愿（6.8%）、生活方式改变（6.1%）以及等待复查（4.6%）。Micro-weighted F1分数介于0.80至0.98之间。"
+                "x": "Cleo Skin是皮肤病理领域首个同时获得欧洲CE-IVDR认证(2026年3月取得)和FDA突破性医疗器械认定的AI工具。该认定并不构成美国(US)上市许可。"
               },
               {
                 "t": "p",
-                "x": "在LDL-C高于目标的就诊中，近10次中有9次未升级治疗；作者认为，这些发现可为系统层面的数字健康干预提供参考。"
+                "x": "该工具分析全切片图像，标记疑似黑色素瘤的区域，给出包括基底细胞癌、鳞状细胞癌和痣在内的参考性病变分类，并建议切缘、Breslow厚度和有丝分裂区域等测量值。它用于辅助而非取代病理医生的评估。"
+              },
+              {
+                "t": "p",
+                "x": "在SkinPerf2026研究中，法国11家机构的16名病理医生评估了313张全切片图像；Cleo Skin将整体黑色素瘤敏感度从83.8%提高到88.6%，在初级病理医生中从79.7%提高到88.2%。在与PathPresenter合作开展的一项美国(US)探索性研究中，七名病理医生审阅了75张切片，分析时间缩短20%，初级病理医生的敏感度提高17%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los LLMs explican por qué el\ntratamiento lipídico se estanca",
-          "body": "Los LLMs hallaron terapia sin intensificar en el 88.7% de 13,354 notas de visita, y el 40.4% de ellas daba un motivo.",
-          "mini_headline": "Por qué se estanca la terapia lipídica",
+          "headline": "Cleo Skin, de Primaa, recibe\nel sello Breakthrough de la FDA",
+          "body": "Cleo Skin, la IA de Primaa que ayuda a diagnosticar cáncer de piel, recibió la designación Breakthrough de la FDA.",
+          "mini_headline": "Cleo Skin recibe el sello Breakthrough de la FDA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Este estudio de cohorte retrospectivo con adultos con enfermedad cardiovascular aterosclerótica en Stanford Health Care (January 2019 a May 2025) usó una canalización de modelo de lenguaje grande (GPT 5.0) para identificar en las notas clínicas estrategias de tratamiento por objetivos y los motivos de no intensificar la terapia hipolipemiante (LLT)."
+                "t": "img",
+                "src": "https://clpmag.com/wp-content/uploads/2026/11/image-2.jpg",
+                "cap": "Cleo Skin (Foto: Primaa)"
               },
               {
                 "t": "p",
-                "x": "Un total de 28,113 pacientes cumplieron los criterios de inclusión, de los cuales 13,810 (49.1%) tenían el LDL-C por encima del objetivo. El conjunto de inferencia incluyó 14,785 notas de 13,394 pacientes, entre ellas 13,354 notas de visita relevantes."
+                "x": "La FDA ha otorgado la designación de dispositivo innovador (Breakthrough Device Designation) a Cleo Skin, una solución de inteligencia artificial desarrollada por Primaa para ayudar a los patólogos a diagnosticar cánceres de piel a partir de portaobjetos de biopsia digitalizados y tejidos extirpados."
               },
               {
                 "t": "p",
-                "x": "Se documentó una estrategia de tratamiento por objetivos en el 28.1% de las notas relevantes, sobre todo un objetivo de LDL-C inferior a 70 mg/dL (17.1%). La LLT no se intensificó en 11,842 notas (88.7%). De ellas, 4,788 (40.4%) recogían al menos 1 motivo, sobre todo efectos adversos referidos por el paciente (12.6%), LDL-C cercano al objetivo (6.9%), preferencia del paciente (6.8%), cambios en el estilo de vida (6.1%) y aplazamiento hasta repetir análisis (4.6%). Las puntuaciones Micro-weighted F1 oscilaron entre 0.80 y 0.98."
+                "x": "Cleo Skin es la primera herramienta de IA en dermatopatología que cuenta a la vez con la certificación CE-IVDR en Europa, obtenida en marzo de 2026, y con la designación Breakthrough Device de la FDA. La designación no constituye una autorización de comercialización en EE. UU. (US)."
               },
               {
                 "t": "p",
-                "x": "Casi 9 de cada 10 consultas con LDL-C por encima del objetivo no intensificaron la terapia; los autores sugieren que los hallazgos podrían orientar intervenciones de salud digital a nivel de sistema."
+                "x": "La herramienta analiza imágenes de portaobjetos completos para señalar zonas sospechosas de melanoma, ofrecer clasificaciones orientativas de lesiones —entre ellas carcinoma basocelular, carcinoma espinocelular y nevo— y sugerir mediciones como márgenes, espesor de Breslow y regiones mitóticas. Apoya la evaluación del patólogo, pero no la sustituye."
+              },
+              {
+                "t": "p",
+                "x": "En el estudio SkinPerf2026, 16 patólogos de 11 instituciones francesas evaluaron 313 imágenes de portaobjetos completos; Cleo Skin elevó la sensibilidad global para melanoma del 83.8% al 88.6%, y del 79.7% al 88.2% entre los patólogos júnior. En un estudio exploratorio en EE. UU. con PathPresenter, siete patólogos revisaron 75 portaobjetos, con una reducción del 20% en el tiempo de análisis y una mejora del 17% en la sensibilidad de los patólogos júnior."
               }
             ]
           }
@@ -597,271 +637,321 @@
       }
     },
     {
-      "id": "bcr-mllm-breast-pathology-errors",
-      "source_lang": "en",
+      "id": "mfds-ai-review-assist",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "범용 AI 모델, 유방암\n저마다 다르게 오판",
-      "body": "Claude·Gemini·GPT-5.5는 유방암 427건에서 제각각 오류를 냈다.",
-      "mini_headline": "AI, 유방 병리 오판",
+      "headline": "식약처 AI 심사 보조\n12월 초 정식 공개",
+      "body": "식약처의 의약품 AI 심사 보조 시스템이 내부 검증을 거쳐 12월 초 공개된다.",
+      "mini_headline": "식약처 AI 심사 보조 12월 공개",
       "tool": "Medicine",
-      "source": "Breast Cancer Research",
-      "url": "https://breast-cancer-research.biomedcentral.com/articles/10.1186/s13058-026-02413-6",
+      "source": "데일리팜",
+      "url": "https://www.dailypharm.com/user/news/344134",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "유방암 치료는 Nottingham 등급과 수용체로 정의되는 아형 같은 조직병리학적 특징에 따라 달라지지만, 인력이 부족한 곳에서는 전문 병리의를 만나기 어렵다."
+            "t": "img",
+            "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/11/03/48e47ad2-7131-49ef-8ca1-31d273ae8e75.png",
+            "cap": "AI 생성 이미지"
           },
           {
             "t": "p",
-            "x": "이 단일기관 후향적 짝지은 일치도 연구는 대표적인 상용 멀티모달 LLMs 세 가지(Claude Sonnet 4.6, Gemini 2.5 Pro, GPT-5.5)의 판정을 침윤성 유방암 427건에서 전문의 자격을 갖춘 유방 병리의와 비교했다. 각 모델은 증례마다 같은 개요와 H&E 조직 타일 16장, 같은 프롬프트를 받았다."
+            "x": "식품의약품안전처가 추진해 온 '의약품 AI 심사 보조 시스템'이 오는 12월 초 정식으로 공개될 예정이다. 당초 이달초 제약업계 대상 설명회를 진행하려 했으나, 내부 검증을 한층 더 강화해 완성도를 높인 뒤 AI 프로젝트 성공 기념식에 맞춰 베일을 벗는다."
           },
           {
             "t": "p",
-            "x": "특징을 자율적으로 추출해도 될 만큼 일치도가 높은 모델은 없었다. Gemini는 26개 패킷에서 림프혈관 침윤을 보고했지만 이미지로 확인되는 경우는 한 건도 없었다. 다섯 개 패킷에는 침윤성 암종이 없었는데도 모델-증례 쌍 15개 중 14개에서 Nottingham 등급이 나왔다. Claude는 조직학적 유형의 단순 일치율(87.4%)이 가장 높았지만 소엽암과 미세유두암을 모두 비특수형으로 분류했다. 등급을 두고 모델과 보고서가 보인 일치도(0.27–0.42)는 두 번째 병리의의 일치도(0.36)와 겹쳤다."
+            "x": "식약처 식의약 인공지능 전환 TF 추진단(단장 김익상)에 따르면, 현재 내부 심사자들을 중심으로 시범 가동이 진행 중이다. 시스템 구축에는 LG AI연구원이 참여했으며, 의약품 심사 업무에 특화된 학습을 거친 것이 특징이다."
           },
           {
             "t": "p",
-            "x": "같은 프롬프트에서도 모델마다 체계적인 오류 방향이 있었고, 입력에 없는 소견을 양성으로 판정하기도 했다. 이번 결과만으로는 모델을 자율적으로 쓸 근거가 없다."
+            "x": "우선 신약 품질과 생동성(생체이용률·동등성) 분야의 리뷰를 지원하고, 품목허가 심사의 사전 체크리스트를 검증한다. 식약처는 향후 안전성 및 유효성 자료 리뷰 등으로 적용 범위를 확대할 방침이다."
+          },
+          {
+            "t": "p",
+            "x": "미국 FDA도 전 직원용 생성형 AI 플랫폼 '엘사(Elsa)'를 도입하는 등 글로벌 규제기관들이 AI 도입을 적극 모색하고 있다. 식약처는 지난 1월 TF 추진단을 설치한 뒤 1년도 채 되지 않아 시스템을 완성했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "General AI models misread\nbreast cancer in distinct ways",
-          "body": "Claude, Gemini and GPT-5.5 each made systematic, model-specific errors grading and subtyping 427 breast cancers.",
-          "mini_headline": "AI misreads breast pathology",
+        "ko": {
+          "headline": "식약처 AI 심사 보조\n12월 초 정식 공개",
+          "body": "식약처의 의약품 AI 심사 보조 시스템이 내부 검증을 거쳐 12월 초 공개된다.",
+          "mini_headline": "식약처 AI 심사 보조 12월 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Breast cancer treatment depends on histopathological features such as Nottingham grade and receptor-defined subtype, yet specialist pathologist access is limited where the workforce is scarce."
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/11/03/48e47ad2-7131-49ef-8ca1-31d273ae8e75.png",
+                "cap": "AI 생성 이미지"
               },
               {
                 "t": "p",
-                "x": "This single-center retrospective paired concordance study compared three flagship commercial multimodal LLMs (Claude Sonnet 4.6, Gemini 2.5 Pro, GPT-5.5) with a board-certified breast pathologist reference in 427 invasive breast cancers. Each model received the same overview and 16 H&E tissue tiles per case and the same prompt."
+                "x": "식품의약품안전처가 추진해 온 '의약품 AI 심사 보조 시스템'이 오는 12월 초 정식으로 공개될 예정이다. 당초 이달초 제약업계 대상 설명회를 진행하려 했으나, 내부 검증을 한층 더 강화해 완성도를 높인 뒤 AI 프로젝트 성공 기념식에 맞춰 베일을 벗는다."
               },
               {
                 "t": "p",
-                "x": "No model achieved agreement sufficient to support autonomous extraction of any feature. Gemini reported lymphovascular invasion in 26 packets, none supported by the images. Invasive carcinoma was absent from five packets, yet a Nottingham grade was returned in 14 of 15 model-case pairs. Claude ranked highest by raw histological-type concordance (87.4%) yet classified every lobular and micropapillary carcinoma as no-special-type. Model agreement with the report for grade (0.27–0.42) overlapped with that of a second pathologist (0.36)."
+                "x": "식약처 식의약 인공지능 전환 TF 추진단(단장 김익상)에 따르면, 현재 내부 심사자들을 중심으로 시범 가동이 진행 중이다. 시스템 구축에는 LG AI연구원이 참여했으며, 의약품 심사 업무에 특화된 학습을 거친 것이 특징이다."
               },
               {
                 "t": "p",
-                "x": "Under the same prompt, each model showed a systematic error direction, including positive calls for findings absent from the input. The findings do not support autonomous use."
+                "x": "우선 신약 품질과 생동성(생체이용률·동등성) 분야의 리뷰를 지원하고, 품목허가 심사의 사전 체크리스트를 검증한다. 식약처는 향후 안전성 및 유효성 자료 리뷰 등으로 적용 범위를 확대할 방침이다."
+              },
+              {
+                "t": "p",
+                "x": "미국 FDA도 전 직원용 생성형 AI 플랫폼 '엘사(Elsa)'를 도입하는 등 글로벌 규제기관들이 AI 도입을 적극 모색하고 있다. 식약처는 지난 1월 TF 추진단을 설치한 뒤 1년도 채 되지 않아 시스템을 완성했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "범용 AI 모델, 유방암\n저마다 다르게 오판",
-          "body": "Claude·Gemini·GPT-5.5는 유방암 427건에서 제각각 오류를 냈다.",
-          "mini_headline": "AI, 유방 병리 오판",
+        "en": {
+          "headline": "MFDS AI review assistant\nto launch in early December",
+          "body": "Korea's MFDS will unveil its AI drug review assistant in early December after internal validation.",
+          "mini_headline": "MFDS AI review assistant due in December",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "유방암 치료는 Nottingham 등급과 수용체로 정의되는 아형 같은 조직병리학적 특징에 따라 달라지지만, 인력이 부족한 곳에서는 전문 병리의를 만나기 어렵다."
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/11/03/48e47ad2-7131-49ef-8ca1-31d273ae8e75.png",
+                "cap": "AI-generated image"
               },
               {
                 "t": "p",
-                "x": "이 단일기관 후향적 짝지은 일치도 연구는 대표적인 상용 멀티모달 LLMs 세 가지(Claude Sonnet 4.6, Gemini 2.5 Pro, GPT-5.5)의 판정을 침윤성 유방암 427건에서 전문의 자격을 갖춘 유방 병리의와 비교했다. 각 모델은 증례마다 같은 개요와 H&E 조직 타일 16장, 같은 프롬프트를 받았다."
+                "x": "The 'AI-assisted drug review system' pursued by the Ministry of Food and Drug Safety (MFDS) is set to be officially unveiled in early December. The agency had originally planned a briefing for the pharmaceutical industry early this month, but after further strengthening internal validation to improve the system's completeness, it will unveil the system to coincide with a ceremony celebrating the success of the AI project."
               },
               {
                 "t": "p",
-                "x": "특징을 자율적으로 추출해도 될 만큼 일치도가 높은 모델은 없었다. Gemini는 26개 패킷에서 림프혈관 침윤을 보고했지만 이미지로 확인되는 경우는 한 건도 없었다. 다섯 개 패킷에는 침윤성 암종이 없었는데도 모델-증례 쌍 15개 중 14개에서 Nottingham 등급이 나왔다. Claude는 조직학적 유형의 단순 일치율(87.4%)이 가장 높았지만 소엽암과 미세유두암을 모두 비특수형으로 분류했다. 등급을 두고 모델과 보고서가 보인 일치도(0.27–0.42)는 두 번째 병리의의 일치도(0.36)와 겹쳤다."
+                "x": "According to the MFDS's food and drug AI transformation TF (headed by Kim Ik-sang), a pilot run is currently under way, centered on internal reviewers. LG AI Research took part in building the system, which stands out for having been trained specifically for drug review work."
               },
               {
                 "t": "p",
-                "x": "같은 프롬프트에서도 모델마다 체계적인 오류 방향이 있었고, 입력에 없는 소견을 양성으로 판정하기도 했다. 이번 결과만으로는 모델을 자율적으로 쓸 근거가 없다."
+                "x": "It will first support reviews in new drug quality and bioequivalence (bioavailability and equivalence), and verify pre-review checklists for product approval reviews. The MFDS plans to expand its scope to reviews of safety and efficacy data and other areas."
+              },
+              {
+                "t": "p",
+                "x": "Global regulators are actively exploring AI adoption, with the U.S. FDA introducing 'Elsa,' a generative AI platform for all staff. The MFDS completed the system less than a year after setting up the TF in January."
               }
             ]
           }
         },
         "ja": {
-          "headline": "汎用AIモデル、乳がんを\nそれぞれ異なる形で誤読",
-          "body": "Claude、Gemini、GPT-5.5は乳がん427例でモデル固有の系統的誤りを示した。",
-          "mini_headline": "AIが乳腺病理を誤読",
+          "headline": "食薬処のAI審査支援\n12月初めに正式公開",
+          "body": "食薬処の医薬品AI審査支援システムが内部検証を経て12月初めに公開される。",
+          "mini_headline": "食薬処のAI審査支援、12月公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "乳がんの治療はNottingham分類による悪性度や受容体で定義されるサブタイプといった病理組織学的特徴で決まるが、人材が不足する地域では専門の病理医にかかりにくい。"
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/11/03/48e47ad2-7131-49ef-8ca1-31d273ae8e75.png",
+                "cap": "AI生成画像"
               },
               {
                 "t": "p",
-                "x": "この単施設の後ろ向きペア一致度研究は、主要な商用マルチモーダルLLMs三つ(Claude Sonnet 4.6、Gemini 2.5 Pro、GPT-5.5)を、浸潤性乳がん427例で認定乳腺病理医の判定と比較した。各モデルには症例ごとに同じ概観とH&E組織タイル16枚、同じプロンプトを与えた。"
+                "x": "韓国の食品医薬品安全処(食薬処)が進めてきた「医薬品AI審査支援システム」が、12月初めに正式公開される予定だ。当初は今月初めに製薬業界向けの説明会を開く計画だったが、内部検証をさらに強化して完成度を高めたうえで、AIプロジェクトの成功記念式に合わせてベールを脱ぐ。"
               },
               {
                 "t": "p",
-                "x": "どのモデルも、いずれの特徴についても自律的な抽出を支えるだけの一致度に達しなかった。Geminiは26パケットでリンパ管侵襲を報告したが、画像で裏付けられたものは一つもなかった。五つのパケットには浸潤癌が含まれていなかったにもかかわらず、モデルと症例の組み合わせ15件中14件でNottingham分類の悪性度が返された。Claudeは組織型の単純一致率(87.4%)が最も高かったが、小葉癌と微小乳頭癌をすべて非特殊型に分類した。悪性度に関するモデルと報告書の一致度(0.27–0.42)は、二人目の病理医の一致度(0.36)と重なった。"
+                "x": "食薬処の食医薬AI転換TF推進団(団長キム・イクサン)によると、現在は内部審査官を中心に試験運用が進んでいる。システム構築にはLG AI研究院が参加し、医薬品審査業務に特化した学習を経ている点が特徴だ。"
               },
               {
                 "t": "p",
-                "x": "同じプロンプトの下で、各モデルには系統的な誤りの方向があり、入力に存在しない所見を陽性と判定することもあった。結果は自律的な使用を支持しない。"
+                "x": "まず新薬の品質と生物学的同等性(バイオアベイラビリティ・同等性)分野のレビューを支援し、品目許可審査の事前チェックリストを検証する。食薬処は今後、安全性・有効性資料のレビューなどへ適用範囲を広げる方針だ。"
+              },
+              {
+                "t": "p",
+                "x": "米国FDAも全職員向けの生成AIプラットフォーム「Elsa(エルサ)」を導入するなど、世界の規制当局がAI導入を積極的に模索している。食薬処は1月にTF推進団を設置してから1年足らずでシステムを完成させた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "通用AI模型误读乳腺癌\n且各有各的偏差",
-          "body": "Claude、Gemini和GPT-5.5在427例乳腺癌分级与分型中各有系统性错误。",
-          "mini_headline": "AI误读乳腺病理",
+          "headline": "韩国食药处AI审评辅助\n12月初正式公开",
+          "body": "韩国食药处的药品AI审评辅助系统经内部验证后将于12月初公开。",
+          "mini_headline": "食药处AI审评辅助系统12月公开",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "乳腺癌治疗取决于Nottingham分级和受体定义的亚型等组织病理学特征，但在人手短缺的地区，很难找到专科病理医生。"
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/11/03/48e47ad2-7131-49ef-8ca1-31d273ae8e75.png",
+                "cap": "AI生成图片"
               },
               {
                 "t": "p",
-                "x": "这项单中心回顾性配对一致性研究，在427例浸润性乳腺癌中，将三款主流商用多模态LLMs（Claude Sonnet 4.6、Gemini 2.5 Pro、GPT-5.5）与获委员会认证的乳腺病理医生的判读进行对比。每个模型在每个病例中都获得相同的概览、16张H&E组织图块和相同的提示词。"
+                "x": "韩国食品医药品安全处(食药处)推进的“药品AI审评辅助系统”预计将于12月初正式公开。原计划本月初面向制药业界举办说明会，但在进一步加强内部验证、提高完成度后，将配合AI项目成功纪念仪式揭开面纱。"
               },
               {
                 "t": "p",
-                "x": "没有一个模型的一致性足以支持自主提取任何特征。Gemini在26个数据包中报告了淋巴血管侵犯，但没有一例得到图像支持。有五个数据包中并无浸润性癌，但在15个模型-病例组合中仍有14个给出了Nottingham分级。Claude的组织学类型原始一致率最高（87.4%），却把所有小叶癌和微乳头状癌都归为非特殊类型。模型与报告在分级上的一致性（0.27–0.42）与第二位病理医生的一致性（0.36）相互重叠。"
+                "x": "据食药处食品药品人工智能转型TF推进团(团长Kim Ik-sang)介绍，目前该系统正以内部审评人员为中心进行试运行。LG AI研究院参与了系统构建，其特点是经过了专门针对药品审评业务的训练。"
               },
               {
                 "t": "p",
-                "x": "在相同提示词下，每个模型都表现出系统性的错误倾向，包括对输入中并不存在的发现作出阳性判断。研究结果不支持自主使用。"
+                "x": "系统将首先支持新药质量和生物等效性(生物利用度·等效性)领域的审评，并核查品目许可审评的事前检查清单。食药处计划今后将适用范围扩大到安全性和有效性资料审评等领域。"
+              },
+              {
+                "t": "p",
+                "x": "美国FDA也引入了面向全体员工的生成式AI平台“Elsa”，全球监管机构正积极探索引入AI。食药处在今年1月设立TF推进团后，不到1年便完成了该系统。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Modelos de AI generales fallan\nen cáncer de mama a su manera",
-          "body": "Claude, Gemini y GPT-5.5 cometieron errores sistemáticos propios de cada modelo al clasificar 427 cánceres de mama.",
-          "mini_headline": "La AI malinterpreta la patología mamaria",
+          "headline": "La IA de revisión del MFDS\nllega a inicios de diciembre",
+          "body": "El sistema de IA del MFDS para revisar fármacos se presentará a inicios de diciembre tras una validación interna.",
+          "mini_headline": "La IA de revisión del MFDS llega en diciembre",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "El tratamiento del cáncer de mama depende de rasgos histopatológicos como el grado de Nottingham y el subtipo definido por receptores, pero el acceso a patólogos especializados es limitado donde falta personal."
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/11/03/48e47ad2-7131-49ef-8ca1-31d273ae8e75.png",
+                "cap": "Imagen generada por IA"
               },
               {
                 "t": "p",
-                "x": "Este estudio retrospectivo de concordancia pareada en un solo centro comparó tres LLMs multimodales comerciales de referencia (Claude Sonnet 4.6, Gemini 2.5 Pro, GPT-5.5) con el criterio de un patólogo de mama certificado en 427 cánceres de mama invasivos. Cada modelo recibió por caso la misma vista general, 16 teselas de tejido teñidas con H&E y el mismo prompt."
+                "x": "El 'sistema de IA de apoyo a la revisión de medicamentos' que impulsa el Ministerio de Seguridad de Alimentos y Medicamentos (MFDS) de Corea se presentará oficialmente a principios de diciembre. En un principio se preveía una sesión informativa para la industria farmacéutica a comienzos de este mes, pero se reforzó aún más la validación interna para mejorar su grado de acabado y se dará a conocer coincidiendo con la ceremonia que celebra el éxito del proyecto de IA."
               },
               {
                 "t": "p",
-                "x": "Ningún modelo alcanzó una concordancia suficiente para respaldar la extracción autónoma de ningún rasgo. Gemini informó invasión linfovascular en 26 paquetes, ninguno respaldado por las imágenes. Cinco paquetes no contenían carcinoma invasivo, pero se devolvió un grado de Nottingham en 14 de 15 pares modelo-caso. Claude obtuvo la mayor concordancia bruta de tipo histológico (87.4%), pero clasificó todos los carcinomas lobulillares y micropapilares como de tipo no especial. La concordancia de los modelos con el informe en el grado (0.27–0.42) se solapó con la de un segundo patólogo (0.36)."
+                "x": "Según el grupo TF de transformación con IA de alimentos y medicamentos del MFDS (dirigido por Kim Ik-sang), el sistema funciona actualmente en fase piloto, centrado en los evaluadores internos. LG AI Research participó en su desarrollo, y su rasgo distintivo es que se entrenó específicamente para las tareas de revisión de medicamentos."
               },
               {
                 "t": "p",
-                "x": "Con el mismo prompt, cada modelo mostró una dirección de error sistemática, incluidas detecciones positivas de hallazgos ausentes en la entrada. Los resultados no respaldan su uso autónomo."
+                "x": "En primer lugar, apoyará las revisiones de calidad de nuevos fármacos y de bioequivalencia (biodisponibilidad y equivalencia), y verificará las listas de comprobación previas de la revisión de autorizaciones de productos. El MFDS prevé ampliar después su alcance a la revisión de datos de seguridad y eficacia, entre otros."
+              },
+              {
+                "t": "p",
+                "x": "Los reguladores de todo el mundo exploran activamente la adopción de IA; la FDA de EE. UU., por ejemplo, implantó 'Elsa', una plataforma de IA generativa para toda su plantilla. El MFDS completó el sistema menos de un año después de crear el grupo TF en enero."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "범용 AI 모델, 유방암\n저마다 다르게 오판",
-          "body": "Claude·Gemini·GPT-5.5는 유방암 427건에서 모델별 오류를 냈다.",
-          "mini_headline": "AI, 유방 병리 오판",
+        "en": {
+          "headline": "MFDS AI review assistant\nto launch in early December",
+          "body": "Korea's MFDS will unveil its AI drug review assistant in early December after internal validation.",
+          "mini_headline": "MFDS AI review assistant due in December",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "유방암 치료는 Nottingham 등급과 수용체로 정의되는 아형 같은 조직병리학적 특징에 따라 달라지지만, 인력이 부족한 곳에서는 전문 병리의를 만나기 어렵다."
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/11/03/48e47ad2-7131-49ef-8ca1-31d273ae8e75.png",
+                "cap": "AI-generated image"
               },
               {
                 "t": "p",
-                "x": "이 단일기관 후향적 짝지은 일치도 연구는 대표적인 상용 멀티모달 LLMs 세 가지(Claude Sonnet 4.6, Gemini 2.5 Pro, GPT-5.5)를 침윤성 유방암 427건에서 전문의 자격을 갖춘 유방 병리의의 판정과 비교했다. 각 모델은 증례마다 같은 개요와 H&E 조직 타일 16장, 같은 프롬프트를 받았다."
+                "x": "The 'AI-assisted drug review system' pursued by the Ministry of Food and Drug Safety (MFDS) is set to be officially unveiled in early December. The agency had originally planned a briefing for the pharmaceutical industry early this month, but after further strengthening internal validation to improve the system's completeness, it will unveil the system to coincide with a ceremony celebrating the success of the AI project."
               },
               {
                 "t": "p",
-                "x": "어떤 모델도 특징을 자율적으로 추출해도 될 만큼의 일치도를 보이지 못했다. Gemini는 26개 패킷에서 림프혈관 침윤을 보고했지만 이미지로 뒷받침되는 경우는 하나도 없었다. 다섯 개 패킷에는 침윤성 암종이 없었는데도 모델-증례 쌍 15개 중 14개에서 Nottingham 등급이 나왔다. Claude는 조직학적 유형의 단순 일치율(87.4%)이 가장 높았지만 소엽암과 미세유두암을 모두 비특수형으로 분류했다. 등급에 대한 모델과 보고서의 일치도(0.27–0.42)는 두 번째 병리의의 일치도(0.36)와 겹쳤다."
+                "x": "According to the MFDS's food and drug AI transformation TF (headed by Kim Ik-sang), a pilot run is currently under way, centered on internal reviewers. LG AI Research took part in building the system, which stands out for having been trained specifically for drug review work."
               },
               {
                 "t": "p",
-                "x": "같은 프롬프트에서도 모델마다 체계적인 오류 방향이 있었고, 입력에 없는 소견을 양성으로 판정하기도 했다. 연구 결과는 자율적 사용을 뒷받침하지 않는다."
+                "x": "It will first support reviews in new drug quality and bioequivalence (bioavailability and equivalence), and verify pre-review checklists for product approval reviews. The MFDS plans to expand its scope to reviews of safety and efficacy data and other areas."
+              },
+              {
+                "t": "p",
+                "x": "Global regulators are actively exploring AI adoption, with the U.S. FDA introducing 'Elsa,' a generative AI platform for all staff. The MFDS completed the system less than a year after setting up the TF in January."
               }
             ]
           }
         },
         "ja": {
-          "headline": "汎用AIモデル、乳がんを\nそれぞれ異なる形で誤読",
-          "body": "Claude、Gemini、GPT-5.5は乳がん427例でモデル固有の系統的誤りを示した。",
-          "mini_headline": "AIが乳腺病理を誤読",
+          "headline": "食薬処のAI審査支援\n12月初めに正式公開",
+          "body": "食薬処の医薬品AI審査支援システムが内部検証を経て12月初めに公開される。",
+          "mini_headline": "食薬処のAI審査支援、12月公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "乳がんの治療はNottingham分類による悪性度や受容体で定義されるサブタイプといった病理組織学的特徴で決まるが、人材が不足する地域では専門の病理医にかかりにくい。"
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/11/03/48e47ad2-7131-49ef-8ca1-31d273ae8e75.png",
+                "cap": "AI生成画像"
               },
               {
                 "t": "p",
-                "x": "この単施設の後ろ向きペア一致度研究は、主要な商用マルチモーダルLLMs三つ(Claude Sonnet 4.6、Gemini 2.5 Pro、GPT-5.5)を、浸潤性乳がん427例で認定乳腺病理医の判定と比較した。各モデルには症例ごとに同じ概観とH&E組織タイル16枚、同じプロンプトを与えた。"
+                "x": "韓国の食品医薬品安全処(食薬処)が進めてきた「医薬品AI審査支援システム」が、12月初めに正式公開される予定だ。当初は今月初めに製薬業界向けの説明会を開く計画だったが、内部検証をさらに強化して完成度を高めたうえで、AIプロジェクトの成功記念式に合わせてベールを脱ぐ。"
               },
               {
                 "t": "p",
-                "x": "どのモデルも、いずれの特徴についても自律的な抽出を支えるだけの一致度に達しなかった。Geminiは26パケットでリンパ管侵襲を報告したが、画像で裏付けられたものは一つもなかった。五つのパケットには浸潤癌が含まれていなかったにもかかわらず、モデルと症例の組み合わせ15件中14件でNottingham分類の悪性度が返された。Claudeは組織型の単純一致率(87.4%)が最も高かったが、小葉癌と微小乳頭癌をすべて非特殊型に分類した。悪性度に関するモデルと報告書の一致度(0.27–0.42)は、二人目の病理医の一致度(0.36)と重なった。"
+                "x": "食薬処の食医薬AI転換TF推進団(団長キム・イクサン)によると、現在は内部審査官を中心に試験運用が進んでいる。システム構築にはLG AI研究院が参加し、医薬品審査業務に特化した学習を経ている点が特徴だ。"
               },
               {
                 "t": "p",
-                "x": "同じプロンプトの下で、各モデルには系統的な誤りの方向があり、入力に存在しない所見を陽性と判定することもあった。結果は自律的な使用を支持しない。"
+                "x": "まず新薬の品質と生物学的同等性(バイオアベイラビリティ・同等性)分野のレビューを支援し、品目許可審査の事前チェックリストを検証する。食薬処は今後、安全性・有効性資料のレビューなどへ適用範囲を広げる方針だ。"
+              },
+              {
+                "t": "p",
+                "x": "米国FDAも全職員向けの生成AIプラットフォーム「Elsa(エルサ)」を導入するなど、世界の規制当局がAI導入を積極的に模索している。食薬処は1月にTF推進団を設置してから1年足らずでシステムを完成させた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "通用AI模型误读乳腺癌\n且各有各的偏差",
-          "body": "Claude、Gemini和GPT-5.5在427例乳腺癌分级与分型中各有系统性错误。",
-          "mini_headline": "AI误读乳腺病理",
+          "headline": "韩国食药处AI审评辅助\n12月初正式公开",
+          "body": "韩国食药处的药品AI审评辅助系统经内部验证后将于12月初公开。",
+          "mini_headline": "食药处AI审评辅助系统12月公开",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "乳腺癌治疗取决于Nottingham分级和受体定义的亚型等组织病理学特征，但在人手短缺的地区，很难找到专科病理医生。"
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/11/03/48e47ad2-7131-49ef-8ca1-31d273ae8e75.png",
+                "cap": "AI生成图片"
               },
               {
                 "t": "p",
-                "x": "这项单中心回顾性配对一致性研究，在427例浸润性乳腺癌中，将三款主流商用多模态LLMs（Claude Sonnet 4.6、Gemini 2.5 Pro、GPT-5.5）与获委员会认证的乳腺病理医生的判读进行对比。每个模型在每个病例中都获得相同的概览、16张H&E组织图块和相同的提示词。"
+                "x": "韩国食品医药品安全处(食药处)推进的“药品AI审评辅助系统”预计将于12月初正式公开。原计划本月初面向制药业界举办说明会，但在进一步加强内部验证、提高完成度后，将配合AI项目成功纪念仪式揭开面纱。"
               },
               {
                 "t": "p",
-                "x": "没有一个模型的一致性足以支持自主提取任何特征。Gemini在26个数据包中报告了淋巴血管侵犯，但没有一例得到图像支持。有五个数据包中并无浸润性癌，但在15个模型-病例组合中仍有14个给出了Nottingham分级。Claude的组织学类型原始一致率最高（87.4%），却把所有小叶癌和微乳头状癌都归为非特殊类型。模型与报告在分级上的一致性（0.27–0.42）与第二位病理医生的一致性（0.36）相互重叠。"
+                "x": "据食药处食品药品人工智能转型TF推进团(团长Kim Ik-sang)介绍，目前该系统正以内部审评人员为中心进行试运行。LG AI研究院参与了系统构建，其特点是经过了专门针对药品审评业务的训练。"
               },
               {
                 "t": "p",
-                "x": "在相同提示词下，每个模型都表现出系统性的错误倾向，包括对输入中并不存在的发现作出阳性判断。研究结果不支持自主使用。"
+                "x": "系统将首先支持新药质量和生物等效性(生物利用度·等效性)领域的审评，并核查品目许可审评的事前检查清单。食药处计划今后将适用范围扩大到安全性和有效性资料审评等领域。"
+              },
+              {
+                "t": "p",
+                "x": "美国FDA也引入了面向全体员工的生成式AI平台“Elsa”，全球监管机构正积极探索引入AI。食药处在今年1月设立TF推进团后，不到1年便完成了该系统。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Modelos de AI generales fallan\nen cáncer de mama a su manera",
-          "body": "Claude, Gemini y GPT-5.5 cometieron errores sistemáticos propios de cada modelo al clasificar 427 cánceres de mama.",
-          "mini_headline": "La AI malinterpreta la patología mamaria",
+          "headline": "La IA de revisión del MFDS\nllega a inicios de diciembre",
+          "body": "El sistema de IA del MFDS para revisar fármacos se presentará a inicios de diciembre tras una validación interna.",
+          "mini_headline": "La IA de revisión del MFDS llega en diciembre",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "El tratamiento del cáncer de mama depende de rasgos histopatológicos como el grado de Nottingham y el subtipo definido por receptores, pero el acceso a patólogos especializados es limitado donde falta personal."
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/11/03/48e47ad2-7131-49ef-8ca1-31d273ae8e75.png",
+                "cap": "Imagen generada por IA"
               },
               {
                 "t": "p",
-                "x": "Este estudio retrospectivo de concordancia pareada en un solo centro comparó tres LLMs multimodales comerciales de referencia (Claude Sonnet 4.6, Gemini 2.5 Pro, GPT-5.5) con el criterio de un patólogo de mama certificado en 427 cánceres de mama invasivos. Cada modelo recibió por caso la misma vista general, 16 teselas de tejido teñidas con H&E y el mismo prompt."
+                "x": "El 'sistema de IA de apoyo a la revisión de medicamentos' que impulsa el Ministerio de Seguridad de Alimentos y Medicamentos (MFDS) de Corea se presentará oficialmente a principios de diciembre. En un principio se preveía una sesión informativa para la industria farmacéutica a comienzos de este mes, pero se reforzó aún más la validación interna para mejorar su grado de acabado y se dará a conocer coincidiendo con la ceremonia que celebra el éxito del proyecto de IA."
               },
               {
                 "t": "p",
-                "x": "Ningún modelo alcanzó una concordancia suficiente para respaldar la extracción autónoma de ningún rasgo. Gemini informó invasión linfovascular en 26 paquetes, ninguno respaldado por las imágenes. Cinco paquetes no contenían carcinoma invasivo, pero se devolvió un grado de Nottingham en 14 de 15 pares modelo-caso. Claude obtuvo la mayor concordancia bruta de tipo histológico (87.4%), pero clasificó todos los carcinomas lobulillares y micropapilares como de tipo no especial. La concordancia de los modelos con el informe en el grado (0.27–0.42) se solapó con la de un segundo patólogo (0.36)."
+                "x": "Según el grupo TF de transformación con IA de alimentos y medicamentos del MFDS (dirigido por Kim Ik-sang), el sistema funciona actualmente en fase piloto, centrado en los evaluadores internos. LG AI Research participó en su desarrollo, y su rasgo distintivo es que se entrenó específicamente para las tareas de revisión de medicamentos."
               },
               {
                 "t": "p",
-                "x": "Con el mismo prompt, cada modelo mostró una dirección de error sistemática, incluidas detecciones positivas de hallazgos ausentes en la entrada. Los resultados no respaldan su uso autónomo."
+                "x": "En primer lugar, apoyará las revisiones de calidad de nuevos fármacos y de bioequivalencia (biodisponibilidad y equivalencia), y verificará las listas de comprobación previas de la revisión de autorizaciones de productos. El MFDS prevé ampliar después su alcance a la revisión de datos de seguridad y eficacia, entre otros."
+              },
+              {
+                "t": "p",
+                "x": "Los reguladores de todo el mundo exploran activamente la adopción de IA; la FDA de EE. UU., por ejemplo, implantó 'Elsa', una plataforma de IA generativa para toda su plantilla. El MFDS completó el sistema menos de un año después de crear el grupo TF en enero."
               }
             ]
           }
@@ -869,165 +959,189 @@
       }
     },
     {
-      "id": "deepreasoning-neurodr-cta",
+      "id": "weill-cornell-radiology-data",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Deep Reasoning\nAI CTA, FDA 허가",
-      "body": "NeuroDR은 두경부 CTA 뒤 알아서 돌아 3D 혈관 영상을 PACS로 보낸다.",
-      "mini_headline": "FDA, NeuroDR CTA 도구 허가",
+      "headline": "Weill Cornell\n영상 AI에 환자정보 오용",
+      "body": "Weill Cornell은 9월 6일 영상 AI 연구의 환자정보 오용을 알았다.",
+      "mini_headline": "영상 AI 연구에 환자 정보 오용",
       "tool": "Medicine",
-      "source": "AuntMinnie",
-      "url": "https://www.auntminnie.com/clinical-news/ct/news/16050236/fda-clears-deep-reasoning-ais-neurovascular-cta-software",
+      "source": "Radiology Business",
+      "url": "https://radiologybusiness.com/topics/artificial-intelligence/patient-info-improperly-used-radiology-ai-research-academic-institution-says",
       "accent": "#ff5a4d",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Deep Reasoning AI의 신경혈관 CT 혈관조영용 AI 소프트웨어 NeuroDR이 신청 105일 만에 FDA 510(k) 허가(K262134)를 받았다."
+            "t": "img",
+            "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/assets/articles/Screen%20Shot%202018-02-12%20at%2011.56.42%20AM.png?itok=g9jxiJwx"
           },
           {
             "t": "p",
-            "x": "NeuroDR은 두경부 CTA 영상에서 연조직, 뼈, 정맥을 걷어내고 좌우 내경동맥과 척추동맥의 3D 최대강도투사, 곡면 재구성, 볼륨 렌더링을 만든다. 전방 순환과 후방 순환은 화면을 나눠 따로 보여 준다."
+            "x": "Weill Cornell Medicine이 목요일 낸 공지에 따르면 최근 영상의학 인공지능 연구에 환자 개인정보가 부적절하게 쓰였다."
           },
           {
             "t": "p",
-            "x": "스캔이 끝나면 백그라운드에서 저절로 돌아가고, 시각화 결과는 DICOM 영상 형태로 병원 PACS에 곧장 넘어간다."
+            "x": "기관은 9월 6일 이 일을 처음 알고 곧바로 조사에 나섰다고 밝혔다. 조사해 보니 신원이 공개되지 않은 이들이 NewYork-Presbyterian의 Weill Cornell Imaging과 NewYork-Presbyterian Hospital의 환자 정보를 환자 동의 없이 기관의 개인정보 보호 정책을 어긴 채 머신러닝 처리용으로 AI 도구에 입력했다."
           },
           {
             "t": "p",
-            "x": "개발에는 성능 연구를 맡은 후처리 업체 3DR Labs와 FDA 절차를 담당한 규제 컨설팅사 Innolitics가 함께했다."
+            "x": "해당 정보에는 의무기록 번호와 영상 검사 접수 번호, 날짜, 진료 시간, 시설 및 의료진 이름과 진단·치료 계획·시술 이력 같은 임상 정보가 들어 있었다. 환자의 이름, 주소, 전화번호, 이메일 주소, 사회보장번호(Social Security number), 금융 정보는 노출되지 않았다."
+          },
+          {
+            "t": "p",
+            "x": "Weill Cornell은 권한 없는 사람이 정보에 접근했다는 증거를 찾지 못했고 오용된 정황도 없다고 밝혔다. 기관은 해당 연구 활동을 중단하고 관련 데이터를 모두 삭제하도록 요청했다. AI를 적절히 쓰도록 직원 교육도 추가로 하고 있다. 누가 데이터를 오용했는지, 연구가 무엇을 다뤘는지는 공개하지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "FDA clears Deep Reasoning AI's\nneurovascular CTA software",
-          "body": "NeuroDR auto-runs after head-and-neck CTA, strips bone, soft tissue and veins, and sends 3D vessel views to PACS.",
-          "mini_headline": "FDA clears NeuroDR CTA tool",
+          "headline": "Weill Cornell flags improper\npatient data use in radiology AI",
+          "body": "Weill Cornell Medicine says it learned on Sept. 6 that patient information was improperly used in radiology AI research.",
+          "mini_headline": "Improper patient data use in AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Deep Reasoning AI has received FDA 510(k) clearance (K262134) for NeuroDR, AI software for neurovascular CT angiography, 105 days after submission."
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/assets/articles/Screen%20Shot%202018-02-12%20at%2011.56.42%20AM.png?itok=g9jxiJwx"
               },
               {
                 "t": "p",
-                "x": "NeuroDR strips away soft tissue, bone and veins from head-and-neck CTA scans and produces 3D maximum intensity projections, curved planar reformats and volume renderings of the left and right internal carotid and vertebral arteries, with anterior and posterior circulations shown in separate displays."
+                "x": "Private patient information was improperly used in recent radiology artificial intelligence research, according to an alert from Weill Cornell Medicine shared on Thursday."
               },
               {
                 "t": "p",
-                "x": "It operates automatically in the background after a scan finishes and delivers the visualisations directly into hospital PACS as DICOM images."
+                "x": "The institution says it first found out about the incident on Sept. 6, immediately launching an investigation. It learned that unnamed individuals entered patient info from Weill Cornell Imaging at NewYork-Presbyterian and NewYork-Presbyterian Hospital into AI tools for processing using machine learning, without patient permission and in violation of its privacy policies."
               },
               {
                 "t": "p",
-                "x": "It was created alongside post-processing provider 3DR Labs, which conducted the performance studies, and regulatory consultancy Innolitics, which handled the FDA pathway."
+                "x": "The information included medical record and radiology accession numbers, dates, times of service, facility and healthcare provider names, plus clinical information such as diagnoses, treatment plans and procedural histories. Patients' names, addresses, telephone numbers, email addresses, Social Security numbers and financial details were not disclosed."
+              },
+              {
+                "t": "p",
+                "x": "Weill Cornell said it has not found evidence that unauthorized individuals accessed the information and there is no indication it was misused. It has suspended the research activity, requested that all involved data be deleted, and is providing additional staff education on the appropriate use of AI. It did not disclose who misused the data nor the focus of the research."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Deep Reasoning\nAI CTA, FDA 허가",
-          "body": "NeuroDR은 두경부 CTA 뒤 알아서 돌아 3D 혈관 영상을 PACS로 보낸다.",
-          "mini_headline": "FDA, NeuroDR CTA 도구 허가",
+          "headline": "Weill Cornell\n영상 AI에 환자정보 오용",
+          "body": "Weill Cornell은 9월 6일 영상 AI 연구의 환자정보 오용을 알았다.",
+          "mini_headline": "영상 AI 연구에 환자 정보 오용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Deep Reasoning AI의 신경혈관 CT 혈관조영용 AI 소프트웨어 NeuroDR이 신청 105일 만에 FDA 510(k) 허가(K262134)를 받았다."
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/assets/articles/Screen%20Shot%202018-02-12%20at%2011.56.42%20AM.png?itok=g9jxiJwx"
               },
               {
                 "t": "p",
-                "x": "NeuroDR은 두경부 CTA 영상에서 연조직, 뼈, 정맥을 걷어내고 좌우 내경동맥과 척추동맥의 3D 최대강도투사, 곡면 재구성, 볼륨 렌더링을 만든다. 전방 순환과 후방 순환은 화면을 나눠 따로 보여 준다."
+                "x": "Weill Cornell Medicine이 목요일 낸 공지에 따르면 최근 영상의학 인공지능 연구에 환자 개인정보가 부적절하게 쓰였다."
               },
               {
                 "t": "p",
-                "x": "스캔이 끝나면 백그라운드에서 저절로 돌아가고, 시각화 결과는 DICOM 영상 형태로 병원 PACS에 곧장 넘어간다."
+                "x": "기관은 9월 6일 이 일을 처음 알고 곧바로 조사에 나섰다고 밝혔다. 조사해 보니 신원이 공개되지 않은 이들이 NewYork-Presbyterian의 Weill Cornell Imaging과 NewYork-Presbyterian Hospital의 환자 정보를 환자 동의 없이 기관의 개인정보 보호 정책을 어긴 채 머신러닝 처리용으로 AI 도구에 입력했다."
               },
               {
                 "t": "p",
-                "x": "개발에는 성능 연구를 맡은 후처리 업체 3DR Labs와 FDA 절차를 담당한 규제 컨설팅사 Innolitics가 함께했다."
+                "x": "해당 정보에는 의무기록 번호와 영상 검사 접수 번호, 날짜, 진료 시간, 시설 및 의료진 이름과 진단·치료 계획·시술 이력 같은 임상 정보가 들어 있었다. 환자의 이름, 주소, 전화번호, 이메일 주소, 사회보장번호(Social Security number), 금융 정보는 노출되지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "Weill Cornell은 권한 없는 사람이 정보에 접근했다는 증거를 찾지 못했고 오용된 정황도 없다고 밝혔다. 기관은 해당 연구 활동을 중단하고 관련 데이터를 모두 삭제하도록 요청했다. AI를 적절히 쓰도록 직원 교육도 추가로 하고 있다. 누가 데이터를 오용했는지, 연구가 무엇을 다뤘는지는 공개하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Deep Reasoning\nAIのCTA、FDA認可",
-          "body": "NeuroDRは頭頸部CTA後に自動で骨・軟部組織・静脈を除き、3D血管像をPACSへ送る。",
-          "mini_headline": "FDA、NeuroDRのCTAツールを認可",
+          "headline": "Weill Cornell\n画像AI研究で患者情報誤用",
+          "body": "Weill Cornellは9月6日、放射線AI研究での患者情報の不適切使用を把握した。",
+          "mini_headline": "放射線AI研究で患者情報を不適切使用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Deep Reasoning AIは、神経血管CT血管造影向けのAIソフトウェアNeuroDRについて、申請から105日でFDA 510(k)認可(K262134)を取得した。"
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/assets/articles/Screen%20Shot%202018-02-12%20at%2011.56.42%20AM.png?itok=g9jxiJwx"
               },
               {
                 "t": "p",
-                "x": "NeuroDRは頭頸部CTA画像から軟部組織、骨、静脈を除去し、左右の内頸動脈と椎骨動脈の3D最大値投影、曲面再構成、ボリュームレンダリングを作成する。前方循環と後方循環は別々の画面に表示される。"
+                "x": "Weill Cornell Medicineが木曜日に公表した通知によると、最近の放射線科の人工知能研究で患者の個人情報が不適切に使用された。"
               },
               {
                 "t": "p",
-                "x": "スキャン終了後にバックグラウンドで自動的に動作し、可視化結果をDICOM画像として病院のPACSへ直接送る。"
+                "x": "同機関は9月6日に初めてこの事案を把握し、直ちに調査を開始したという。その結果、氏名不詳の人物がNewYork-PresbyterianのWeill Cornell ImagingとNewYork-Presbyterian Hospitalの患者情報を、患者の許可なく、同機関のプライバシーポリシーに違反して、機械学習で処理するためにAIツールに入力していたことが分かった。"
               },
               {
                 "t": "p",
-                "x": "性能試験を担った後処理サービス企業3DR Labsと、FDAの手続きを担当した規制コンサルティング会社Innoliticsと共同で開発された。"
+                "x": "情報には、診療録番号と放射線検査の受付番号、日付、診療時間、施設名と医療従事者名に加え、診断、治療計画、処置歴などの臨床情報が含まれていた。患者の氏名、住所、電話番号、メールアドレス、社会保障番号(Social Security number)、金融情報は開示されていない。"
+              },
+              {
+                "t": "p",
+                "x": "Weill Cornellは、権限のない者が情報にアクセスした証拠は見つかっておらず、悪用された形跡もないとしている。同機関は研究活動を停止し、関係データすべての削除を求めたうえで、AIの適切な利用に関する職員教育を追加で実施している。データを不正に使ったのが誰か、研究の焦点が何だったかは明らかにしていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Deep Reasoning\nAI的CTA获FDA许可",
-          "body": "NeuroDR在头颈部CTA后自动运行，去除骨骼、软组织和静脉，将3D血管图像送至PACS。",
-          "mini_headline": "FDA许可NeuroDR CTA工具",
+          "headline": "Weill Cornell\n放射科AI不当使用患者数据",
+          "body": "Weill Cornell称9月6日获悉患者信息被不当用于放射科AI研究。",
+          "mini_headline": "放射科AI研究不当使用患者数据",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Deep Reasoning AI的神经血管CT血管成像AI软件NeuroDR在提交申请105天后获得FDA 510(k)许可（K262134）。"
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/assets/articles/Screen%20Shot%202018-02-12%20at%2011.56.42%20AM.png?itok=g9jxiJwx"
               },
               {
                 "t": "p",
-                "x": "NeuroDR可从头颈部CTA扫描中去除软组织、骨骼和静脉，生成左右颈内动脉和椎动脉的3D最大密度投影、曲面重建和容积渲染图像，前循环与后循环分屏显示。"
+                "x": "根据Weill Cornell Medicine于周四发布的通告，患者隐私信息在近期一项放射科人工智能研究中遭到不当使用。"
               },
               {
                 "t": "p",
-                "x": "扫描结束后，它会在后台自动运行，并将可视化结果以DICOM图像形式直接传入医院PACS。"
+                "x": "该机构表示，其于9月6日首次获悉此事，并立即展开调查。调查发现，身份未公开的人员在未经患者许可、违反其隐私政策的情况下，将来自NewYork-Presbyterian旗下Weill Cornell Imaging及NewYork-Presbyterian Hospital的患者信息输入AI工具，利用机器学习进行处理。"
               },
               {
                 "t": "p",
-                "x": "该软件与负责性能研究的后处理服务商3DR Labs以及负责FDA申报流程的监管咨询公司Innolitics合作开发。"
+                "x": "相关信息包括病历号和放射检查登记号、日期、就诊时间、机构及医护人员姓名，以及诊断、治疗计划和既往手术等临床信息。患者的姓名、地址、电话号码、电子邮件地址、社会安全号码(Social Security number)和财务信息未被泄露。"
+              },
+              {
+                "t": "p",
+                "x": "Weill Cornell表示，尚未发现未经授权人员访问这些信息的证据，也没有迹象表明信息遭到滥用。该机构已暂停相关研究活动，要求删除所有涉及的数据，并正在就AI的恰当使用为员工提供额外培训。它没有披露是谁滥用了数据，也未说明研究的重点。"
               }
             ]
           }
         },
         "es": {
-          "headline": "FDA autoriza a Deep Reasoning AI\nsu software de CTA neurovascular",
-          "body": "NeuroDR se activa solo tras la CTA de cabeza y cuello, quita hueso, tejido blando y venas y envía vistas 3D a PACS.",
-          "mini_headline": "La FDA autoriza la herramienta CTA NeuroDR",
+          "headline": "Weill Cornell detecta mal uso\nde datos de pacientes en IA",
+          "body": "Weill Cornell Medicine supo el 6 de septiembre del uso indebido de datos de pacientes en estudios de IA radiológica.",
+          "mini_headline": "Uso indebido de datos de pacientes en IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Deep Reasoning AI ha recibido la autorización FDA 510(k) (K262134) para NeuroDR, un software de AI para angiografía por CT neurovascular, 105 días después de presentar la solicitud."
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/assets/articles/Screen%20Shot%202018-02-12%20at%2011.56.42%20AM.png?itok=g9jxiJwx"
               },
               {
                 "t": "p",
-                "x": "NeuroDR elimina tejido blando, hueso y venas de las CTA de cabeza y cuello y genera proyecciones 3D de máxima intensidad, reformateos planares curvos y renderizados volumétricos de las arterias carótidas internas y vertebrales izquierdas y derechas, con las circulaciones anterior y posterior en pantallas separadas."
+                "x": "Se utilizó de forma indebida información privada de pacientes en una investigación reciente de inteligencia artificial en radiología, según un aviso de Weill Cornell Medicine difundido el jueves."
               },
               {
                 "t": "p",
-                "x": "Funciona automáticamente en segundo plano al terminar el estudio y envía las visualizaciones directamente al PACS del hospital como imágenes DICOM."
+                "x": "La institución afirma que tuvo conocimiento del incidente el 6 de septiembre y abrió de inmediato una investigación. Supo que personas no identificadas introdujeron información de pacientes de Weill Cornell Imaging at NewYork-Presbyterian y del NewYork-Presbyterian Hospital en herramientas de IA para procesarla mediante aprendizaje automático, sin el permiso de los pacientes y en contra de sus políticas de privacidad."
               },
               {
                 "t": "p",
-                "x": "Se desarrolló junto con el proveedor de posprocesado 3DR Labs, que realizó los estudios de rendimiento, y la consultora regulatoria Innolitics, que gestionó el trámite ante la FDA."
+                "x": "La información incluía números de historia clínica y de registro de radiología, fechas, horarios de atención, nombres de centros y de profesionales sanitarios, además de información clínica como diagnósticos, planes de tratamiento e historiales de procedimientos. No se divulgaron nombres, direcciones, números de teléfono, direcciones de correo electrónico, números de la Seguridad Social (Social Security) ni datos financieros de los pacientes."
+              },
+              {
+                "t": "p",
+                "x": "Weill Cornell dijo que no ha encontrado pruebas de que personas no autorizadas accedieran a la información y que no hay indicios de que se haya hecho un mal uso de ella. Ha suspendido la actividad de investigación, ha pedido que se eliminen todos los datos implicados y está ofreciendo formación adicional al personal sobre el uso adecuado de la IA. No reveló quién hizo un mal uso de los datos ni cuál era el enfoque de la investigación."
               }
             ]
           }
@@ -1035,105 +1149,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Deep Reasoning\nAI CTA, FDA 허가",
-          "body": "NeuroDR은 두경부 CTA 뒤 자동 실행돼 3D 혈관 영상을 PACS로 보낸다.",
-          "mini_headline": "FDA, NeuroDR CTA 도구 허가",
+          "headline": "Weill Cornell\n영상 AI에 환자정보 오용",
+          "body": "Weill Cornell은 9월 6일 영상 AI 연구의 환자정보 오용을 알았다.",
+          "mini_headline": "영상 AI 연구에 환자 정보 오용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Deep Reasoning AI가 신경혈관 CT 혈관조영용 AI 소프트웨어 NeuroDR에 대해 신청 105일 만에 FDA 510(k) 허가(K262134)를 받았다."
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/assets/articles/Screen%20Shot%202018-02-12%20at%2011.56.42%20AM.png?itok=g9jxiJwx"
               },
               {
                 "t": "p",
-                "x": "NeuroDR은 두경부 CTA 영상에서 연조직, 뼈, 정맥을 걷어내고 좌우 내경동맥과 척추동맥의 3D 최대강도투사, 곡면 재구성, 볼륨 렌더링을 만든다. 전방 순환과 후방 순환은 화면을 나눠 따로 보여 준다."
+                "x": "Weill Cornell Medicine이 목요일 공유한 공지에 따르면, 최근 영상의학 인공지능 연구에 환자 개인정보가 부적절하게 사용됐다."
               },
               {
                 "t": "p",
-                "x": "스캔이 끝나면 백그라운드에서 자동으로 작동해 시각화 결과를 DICOM 영상 형태로 병원 PACS에 바로 전달한다."
+                "x": "기관은 9월 6일 이 사건을 처음 알고 즉시 조사에 착수했다고 밝혔다. 조사 결과, 신원이 공개되지 않은 이들이 NewYork-Presbyterian의 Weill Cornell Imaging과 NewYork-Presbyterian Hospital의 환자 정보를 환자 동의 없이, 기관의 개인정보 보호 정책을 어기고 머신러닝 처리를 위해 AI 도구에 입력한 사실을 확인했다."
               },
               {
                 "t": "p",
-                "x": "개발에는 성능 연구를 맡은 후처리 업체 3DR Labs와 FDA 절차를 담당한 규제 컨설팅사 Innolitics가 함께했다."
+                "x": "해당 정보에는 의무기록 번호와 영상 검사 접수 번호, 날짜, 진료 시간, 시설 및 의료진 이름, 그리고 진단·치료 계획·시술 이력 같은 임상 정보가 포함됐다. 환자의 이름, 주소, 전화번호, 이메일 주소, 사회보장번호(Social Security number), 금융 정보는 노출되지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "Weill Cornell은 권한 없는 사람이 정보에 접근했다는 증거를 찾지 못했고 오용된 정황도 없다고 밝혔다. 기관은 해당 연구 활동을 중단하고 관련 데이터를 모두 삭제하도록 요청했으며, AI의 적절한 사용에 관한 직원 교육을 추가로 실시하고 있다. 데이터를 오용한 사람이 누구인지, 연구의 초점이 무엇이었는지는 공개하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Deep Reasoning\nAIのCTA、FDA認可",
-          "body": "NeuroDRは頭頸部CTA後に自動で骨・軟部組織・静脈を除き、3D血管像をPACSへ送る。",
-          "mini_headline": "FDA、NeuroDRのCTAツールを認可",
+          "headline": "Weill Cornell\n画像AI研究で患者情報誤用",
+          "body": "Weill Cornellは9月6日、放射線AI研究での患者情報の不適切使用を把握した。",
+          "mini_headline": "放射線AI研究で患者情報を不適切使用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Deep Reasoning AIは、神経血管CT血管造影向けのAIソフトウェアNeuroDRについて、申請から105日でFDA 510(k)認可(K262134)を取得した。"
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/assets/articles/Screen%20Shot%202018-02-12%20at%2011.56.42%20AM.png?itok=g9jxiJwx"
               },
               {
                 "t": "p",
-                "x": "NeuroDRは頭頸部CTA画像から軟部組織、骨、静脈を除去し、左右の内頸動脈と椎骨動脈の3D最大値投影、曲面再構成、ボリュームレンダリングを作成する。前方循環と後方循環は別々の画面に表示される。"
+                "x": "Weill Cornell Medicineが木曜日に公表した通知によると、最近の放射線科の人工知能研究で患者の個人情報が不適切に使用された。"
               },
               {
                 "t": "p",
-                "x": "スキャン終了後にバックグラウンドで自動的に動作し、可視化結果をDICOM画像として病院のPACSへ直接送る。"
+                "x": "同機関は9月6日に初めてこの事案を把握し、直ちに調査を開始したという。その結果、氏名不詳の人物がNewYork-PresbyterianのWeill Cornell ImagingとNewYork-Presbyterian Hospitalの患者情報を、患者の許可なく、同機関のプライバシーポリシーに違反して、機械学習で処理するためにAIツールに入力していたことが分かった。"
               },
               {
                 "t": "p",
-                "x": "性能試験を担った後処理サービス企業3DR Labsと、FDAの手続きを担当した規制コンサルティング会社Innoliticsと共同で開発された。"
+                "x": "情報には、診療録番号と放射線検査の受付番号、日付、診療時間、施設名と医療従事者名に加え、診断、治療計画、処置歴などの臨床情報が含まれていた。患者の氏名、住所、電話番号、メールアドレス、社会保障番号(Social Security number)、金融情報は開示されていない。"
+              },
+              {
+                "t": "p",
+                "x": "Weill Cornellは、権限のない者が情報にアクセスした証拠は見つかっておらず、悪用された形跡もないとしている。同機関は研究活動を停止し、関係データすべての削除を求めたうえで、AIの適切な利用に関する職員教育を追加で実施している。データを不正に使ったのが誰か、研究の焦点が何だったかは明らかにしていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Deep Reasoning\nAI的CTA获FDA许可",
-          "body": "NeuroDR在头颈部CTA后自动运行，去除骨骼、软组织和静脉，将3D血管图像送至PACS。",
-          "mini_headline": "FDA许可NeuroDR CTA工具",
+          "headline": "Weill Cornell\n放射科AI不当使用患者数据",
+          "body": "Weill Cornell称9月6日获悉患者信息被不当用于放射科AI研究。",
+          "mini_headline": "放射科AI研究不当使用患者数据",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Deep Reasoning AI的神经血管CT血管成像AI软件NeuroDR在提交申请105天后获得FDA 510(k)许可（K262134）。"
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/assets/articles/Screen%20Shot%202018-02-12%20at%2011.56.42%20AM.png?itok=g9jxiJwx"
               },
               {
                 "t": "p",
-                "x": "NeuroDR可从头颈部CTA扫描中去除软组织、骨骼和静脉，生成左右颈内动脉和椎动脉的3D最大密度投影、曲面重建和容积渲染图像，前循环与后循环分屏显示。"
+                "x": "根据Weill Cornell Medicine于周四发布的通告，患者隐私信息在近期一项放射科人工智能研究中遭到不当使用。"
               },
               {
                 "t": "p",
-                "x": "扫描结束后，它会在后台自动运行，并将可视化结果以DICOM图像形式直接传入医院PACS。"
+                "x": "该机构表示，其于9月6日首次获悉此事，并立即展开调查。调查发现，身份未公开的人员在未经患者许可、违反其隐私政策的情况下，将来自NewYork-Presbyterian旗下Weill Cornell Imaging及NewYork-Presbyterian Hospital的患者信息输入AI工具，利用机器学习进行处理。"
               },
               {
                 "t": "p",
-                "x": "该软件与负责性能研究的后处理服务商3DR Labs以及负责FDA申报流程的监管咨询公司Innolitics合作开发。"
+                "x": "相关信息包括病历号和放射检查登记号、日期、就诊时间、机构及医护人员姓名，以及诊断、治疗计划和既往手术等临床信息。患者的姓名、地址、电话号码、电子邮件地址、社会安全号码(Social Security number)和财务信息未被泄露。"
+              },
+              {
+                "t": "p",
+                "x": "Weill Cornell表示，尚未发现未经授权人员访问这些信息的证据，也没有迹象表明信息遭到滥用。该机构已暂停相关研究活动，要求删除所有涉及的数据，并正在就AI的恰当使用为员工提供额外培训。它没有披露是谁滥用了数据，也未说明研究的重点。"
               }
             ]
           }
         },
         "es": {
-          "headline": "FDA autoriza a Deep Reasoning AI\nsu software de CTA neurovascular",
-          "body": "NeuroDR se activa solo tras la CTA de cabeza y cuello, quita hueso, tejido blando y venas y envía vistas 3D a PACS.",
-          "mini_headline": "La FDA autoriza la herramienta CTA NeuroDR",
+          "headline": "Weill Cornell detecta mal uso\nde datos de pacientes en IA",
+          "body": "Weill Cornell Medicine supo el 6 de septiembre del uso indebido de datos de pacientes en estudios de IA radiológica.",
+          "mini_headline": "Uso indebido de datos de pacientes en IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Deep Reasoning AI ha recibido la autorización FDA 510(k) (K262134) para NeuroDR, un software de AI para angiografía por CT neurovascular, 105 días después de presentar la solicitud."
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/assets/articles/Screen%20Shot%202018-02-12%20at%2011.56.42%20AM.png?itok=g9jxiJwx"
               },
               {
                 "t": "p",
-                "x": "NeuroDR elimina tejido blando, hueso y venas de las CTA de cabeza y cuello y genera proyecciones 3D de máxima intensidad, reformateos planares curvos y renderizados volumétricos de las arterias carótidas internas y vertebrales izquierdas y derechas, con las circulaciones anterior y posterior en pantallas separadas."
+                "x": "Se utilizó de forma indebida información privada de pacientes en una investigación reciente de inteligencia artificial en radiología, según un aviso de Weill Cornell Medicine difundido el jueves."
               },
               {
                 "t": "p",
-                "x": "Funciona automáticamente en segundo plano al terminar el estudio y envía las visualizaciones directamente al PACS del hospital como imágenes DICOM."
+                "x": "La institución afirma que tuvo conocimiento del incidente el 6 de septiembre y abrió de inmediato una investigación. Supo que personas no identificadas introdujeron información de pacientes de Weill Cornell Imaging at NewYork-Presbyterian y del NewYork-Presbyterian Hospital en herramientas de IA para procesarla mediante aprendizaje automático, sin el permiso de los pacientes y en contra de sus políticas de privacidad."
               },
               {
                 "t": "p",
-                "x": "Se desarrolló junto con el proveedor de posprocesado 3DR Labs, que realizó los estudios de rendimiento, y la consultora regulatoria Innolitics, que gestionó el trámite ante la FDA."
+                "x": "La información incluía números de historia clínica y de registro de radiología, fechas, horarios de atención, nombres de centros y de profesionales sanitarios, además de información clínica como diagnósticos, planes de tratamiento e historiales de procedimientos. No se divulgaron nombres, direcciones, números de teléfono, direcciones de correo electrónico, números de la Seguridad Social (Social Security) ni datos financieros de los pacientes."
+              },
+              {
+                "t": "p",
+                "x": "Weill Cornell dijo que no ha encontrado pruebas de que personas no autorizadas accedieran a la información y que no hay indicios de que se haya hecho un mal uso de ella. Ha suspendido la actividad de investigación, ha pedido que se eliminen todos los datos implicados y está ofreciendo formación adicional al personal sobre el uso adecuado de la IA. No reveló quién hizo un mal uso de los datos ni cuál era el enfoque de la investigación."
               }
             ]
           }
@@ -1141,189 +1271,291 @@
       }
     },
     {
-      "id": "asan-urine-ai-bladder",
+      "id": "sunderland-ai-eye-diabetes",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 소변 검사로\n겹치는 방광질환 구별",
-      "body": "Asan Medical Center AI 소변검사가 방광질환을 92%까지 가려낸다.",
-      "mini_headline": "방광 진단 AI 소변 검사",
+      "headline": "Sunderland 사업\nAI 눈 검사로 당뇨 탐지",
+      "body": "NORI 허브가 £12.2m 받아 AI 눈 검사로 당뇨·심장병 징후를 찾는다.",
+      "mini_headline": "AI 눈 검사로 당뇨 탐지",
       "tool": "Medicine",
-      "source": "Korea Biomedical Review",
-      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33718",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw1m4vd8epnno",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "한국(Korean) 연구진이 AI로 간질성 방광염, 과민성 방광, 건강한 사람을 최대 92퍼센트 정확도로 구별하는 소변 검사 기법을 개발했다. 증상이 겹치는 질환을 가려내야 하는 의사에게 도움이 될 만하다."
-          },
-          {
-            "t": "p",
-            "x": "Asan Medical Center(AMC)는 화요일(Tuesday) 병원 융합의학과(Department of Convergence Medicine) Kim Jun-ki 교수와 Ewha Womans University Mokdong Hospital 비뇨의학과(Department of Urology) Shin Jung-hyun 교수 연구팀이 고감도 분자 검출과 인공지능을 결합해 이 기법을 개발했다고 밝혔다."
-          },
-          {
             "t": "img",
-            "src": "https://cdn.koreabiomed.com/news/photo/202611/33718_36861_5520.jpg"
+            "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/29ec/live/7d751a00-d930-11f1-b1fc-0ffc40c3cca6.jpg",
+            "cap": "일상적인 눈 검사로 당뇨병은 물론 심장병까지 찾아낼 수 있는 기술"
           },
           {
             "t": "p",
-            "x": "연구진은 표면증강 Raman 분광법(SERS)에 AI를 붙였다. 금과 산화아연 나노구조를 넣어 SERS 칩을 만든 뒤, 참가자 181명(건강한 대조군 117명, 간질성 방광염 환자 19명, 과민성 방광 환자 45명)의 소변 시료를 약 5마이크로리터씩 분석했다."
+            "x": "심장병과 당뇨병 같은 질환의 초기 징후를 찾으려고 일상적인 눈 스캔에 AI를 쓰는 사업이 진행된다."
           },
           {
             "t": "p",
-            "x": "네 가지 머신러닝 기법(PCA-PLS-DA, PCA-LDA, XGBoost, LightGBM)을 적용하자 모델은 세 집단을 최대 92퍼센트 정확도로 구별했다. 연구 결과는 ACS Sensors 표지 논문으로 실렸고, 연구팀은 더 큰 환자군에서 기법을 검증할 계획이다."
+            "x": "Sunderland University의 Northern Ophthalmic Research and Innovation(NORI) 허브는 환자를 더 빨리 진단하려는 이 사업으로 UK Research and Innovation(UKRI)을 거쳐 정부 자금 1220만 파운드(£12.2m)를 받았다."
+          },
+          {
+            "t": "p",
+            "x": "NORI 공동 디렉터이자 보건 담당 임시 부총장인 Matthew Campbell은 이 자금이 연구팀의 기술 개발과 해외 시장 진출에 보탬이 된다고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "도구는 처음엔 당뇨병과 심혈관 질환에 집중한다. 이후 치매와 뇌졸중으로 넓어질 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "NORI는 기술로 질병을 진단하는 UKRI 지원(UKRI-backed) 신규 의료 허브 다섯 곳 중 하나다."
+          },
+          {
+            "t": "p",
+            "x": "목요일 NORI를 방문한 Chris McDonald 과학부 장관은 “조기 진단은 환자에게 더 나은 결과를, 우리 NHS에는 부담 경감을 뜻하며, 기술은 그 과정에서 중요한 역할을 한다”고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "열쇠는 눈 뒤쪽의 미세 혈관과 신경 조직이다. NORI 설명으로는 이 부위가 증상이 나타나기 전에 전반적인 건강 상태의 단서를 드러낼 수 있다. AI는 일상적인 눈 스캔을 NHS 건강 기록, 지역사회 데이터와 함께 분석해 질병의 초기 징후일 수 있는 미세한 변화를 찾아낸다."
+          },
+          {
+            "t": "p",
+            "x": "Campbell은 “이번 투자는 잉글랜드 북동부(North East)에 새로운 보건 혁신 생태계를 만든다. 이제 우리는 기술을 개발하고, 실제 의료 현장에서 시험하고, 국내외 시장에 내놓을 수 있는 규모를 갖췄다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI urine test tells apart\noverlapping bladder disorders",
-          "body": "Asan Medical Center's AI urine test tells interstitial cystitis from overactive bladder with up to 92% accuracy.",
-          "mini_headline": "AI urine test for the bladder",
+          "headline": "Sunderland project uses AI in\neye tests to detect diabetes",
+          "body": "Sunderland's NORI hub got £12.2m to use AI on routine eye scans to spot early signs of diabetes and heart disease.",
+          "mini_headline": "AI eye tests to spot diabetes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Korean researchers have developed a urine-testing technique that uses AI to distinguish between interstitial cystitis, overactive bladder and healthy individuals with up to 92 percent accuracy, potentially helping physicians differentiate between conditions with overlapping symptoms."
-              },
-              {
-                "t": "p",
-                "x": "Asan Medical Center (AMC) said Tuesday that a team led by Professor Kim Jun-ki of the hospital’s Department of Convergence Medicine and Professor Shin Jung-hyun of the Department of Urology at Ewha Womans University Mokdong Hospital developed the technique by combining highly sensitive molecular detection with artificial intelligence."
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.koreabiomed.com/news/photo/202611/33718_36861_5520.jpg"
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/29ec/live/7d751a00-d930-11f1-b1fc-0ffc40c3cca6.jpg",
+                "cap": "Technology will be able to detect diabetes and eventually heart disease in routine eye tests"
               },
               {
                 "t": "p",
-                "x": "The researchers combined surface-enhanced Raman spectroscopy (SERS) with AI. The team fabricated a SERS chip incorporating gold and zinc oxide nanostructures and analyzed urine samples of approximately 5 microliters each from 181 participants: 117 healthy controls, 19 patients with interstitial cystitis and 45 with overactive bladder."
+                "x": "AI will be used in routine eye scans as part of a scheme to detect early signs of illnesses such as heart disease and diabetes."
               },
               {
                 "t": "p",
-                "x": "Applying four machine learning methods (PCA-PLS-DA, PCA-LDA, XGBoost and LightGBM), the models distinguished among the three groups with up to 92 percent accuracy. The findings were published as a cover article in ACS Sensors; the team plans to validate the technique in larger patient groups."
+                "x": "The Northern Ophthalmic Research and Innovation (NORI) hub at Sunderland University has received £12.2m from the government through UK Research and Innovation (UKRI) for the project in the hope of diagnosing patients quicker."
+              },
+              {
+                "t": "p",
+                "x": "Matthew Campbell, interim pro vice-chancellor for health and co-director of NORI, said the money would help the team develop the technology and take it into international markets."
+              },
+              {
+                "t": "p",
+                "x": "While the tool will initially focus on diabetes and cardiovascular disease, the approach could later be expanded to dementia and strokes."
+              },
+              {
+                "t": "p",
+                "x": "NORI is one of five new UKRI-backed healthcare hubs using technology to diagnose illnesses."
+              },
+              {
+                "t": "p",
+                "x": "Science minister Chris McDonald, who visited NORI on Thursday, said: \"Earlier diagnosis means better outcomes for patients and less pressure on our NHS, and technology has a vital role to play.\""
+              },
+              {
+                "t": "p",
+                "x": "The technology will use the tiny blood vessels and nerve tissue at the back of the eye, which NORI said can reveal clues about a person's wider health before symptoms appear. AI will be used to analyse the routine eye scans alongside NHS health records and community data to identify subtle changes which may signal early signs of disease."
+              },
+              {
+                "t": "p",
+                "x": "Campbell said: \"This investment creates a new health innovation ecosystem for the North East. We now have the scale to develop technologies, test them in real-world healthcare settings and take them into national and international markets.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 소변 검사로\n겹치는 방광질환 구별",
-          "body": "Asan Medical Center AI 소변검사가 방광질환을 92%까지 가려낸다.",
-          "mini_headline": "방광 진단 AI 소변 검사",
+          "headline": "Sunderland 사업\nAI 눈 검사로 당뇨 탐지",
+          "body": "NORI 허브가 £12.2m 받아 AI 눈 검사로 당뇨·심장병 징후를 찾는다.",
+          "mini_headline": "AI 눈 검사로 당뇨 탐지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "한국(Korean) 연구진이 AI로 간질성 방광염, 과민성 방광, 건강한 사람을 최대 92퍼센트 정확도로 구별하는 소변 검사 기법을 개발했다. 증상이 겹치는 질환을 가려내야 하는 의사에게 도움이 될 만하다."
-              },
-              {
-                "t": "p",
-                "x": "Asan Medical Center(AMC)는 화요일(Tuesday) 병원 융합의학과(Department of Convergence Medicine) Kim Jun-ki 교수와 Ewha Womans University Mokdong Hospital 비뇨의학과(Department of Urology) Shin Jung-hyun 교수 연구팀이 고감도 분자 검출과 인공지능을 결합해 이 기법을 개발했다고 밝혔다."
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.koreabiomed.com/news/photo/202611/33718_36861_5520.jpg"
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/29ec/live/7d751a00-d930-11f1-b1fc-0ffc40c3cca6.jpg",
+                "cap": "일상적인 눈 검사로 당뇨병은 물론 심장병까지 찾아낼 수 있는 기술"
               },
               {
                 "t": "p",
-                "x": "연구진은 표면증강 Raman 분광법(SERS)에 AI를 붙였다. 금과 산화아연 나노구조를 넣어 SERS 칩을 만든 뒤, 참가자 181명(건강한 대조군 117명, 간질성 방광염 환자 19명, 과민성 방광 환자 45명)의 소변 시료를 약 5마이크로리터씩 분석했다."
+                "x": "심장병과 당뇨병 같은 질환의 초기 징후를 찾으려고 일상적인 눈 스캔에 AI를 쓰는 사업이 진행된다."
               },
               {
                 "t": "p",
-                "x": "네 가지 머신러닝 기법(PCA-PLS-DA, PCA-LDA, XGBoost, LightGBM)을 적용하자 모델은 세 집단을 최대 92퍼센트 정확도로 구별했다. 연구 결과는 ACS Sensors 표지 논문으로 실렸고, 연구팀은 더 큰 환자군에서 기법을 검증할 계획이다."
+                "x": "Sunderland University의 Northern Ophthalmic Research and Innovation(NORI) 허브는 환자를 더 빨리 진단하려는 이 사업으로 UK Research and Innovation(UKRI)을 거쳐 정부 자금 1220만 파운드(£12.2m)를 받았다."
+              },
+              {
+                "t": "p",
+                "x": "NORI 공동 디렉터이자 보건 담당 임시 부총장인 Matthew Campbell은 이 자금이 연구팀의 기술 개발과 해외 시장 진출에 보탬이 된다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "도구는 처음엔 당뇨병과 심혈관 질환에 집중한다. 이후 치매와 뇌졸중으로 넓어질 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "NORI는 기술로 질병을 진단하는 UKRI 지원(UKRI-backed) 신규 의료 허브 다섯 곳 중 하나다."
+              },
+              {
+                "t": "p",
+                "x": "목요일 NORI를 방문한 Chris McDonald 과학부 장관은 “조기 진단은 환자에게 더 나은 결과를, 우리 NHS에는 부담 경감을 뜻하며, 기술은 그 과정에서 중요한 역할을 한다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "열쇠는 눈 뒤쪽의 미세 혈관과 신경 조직이다. NORI 설명으로는 이 부위가 증상이 나타나기 전에 전반적인 건강 상태의 단서를 드러낼 수 있다. AI는 일상적인 눈 스캔을 NHS 건강 기록, 지역사회 데이터와 함께 분석해 질병의 초기 징후일 수 있는 미세한 변화를 찾아낸다."
+              },
+              {
+                "t": "p",
+                "x": "Campbell은 “이번 투자는 잉글랜드 북동부(North East)에 새로운 보건 혁신 생태계를 만든다. 이제 우리는 기술을 개발하고, 실제 의료 현장에서 시험하고, 국내외 시장에 내놓을 수 있는 규모를 갖췄다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIの尿検査で\n症状重なる膀胱疾患を判別",
-          "body": "Asan Medical CenterのAI尿検査は膀胱疾患を最大92%の精度で見分ける。",
-          "mini_headline": "膀胱向けAI尿検査",
+          "headline": "Sunderlandの事業\nAI眼検査で糖尿病を検出",
+          "body": "NORIハブが1220万ポンドを得て、AIで眼の検査から糖尿病や心臓病の兆候を探る。",
+          "mini_headline": "AI眼検査で糖尿病を早期発見",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "韓国(Korean)の研究チームが、AIを使って間質性膀胱炎、過活動膀胱、健康な人を最大92パーセントの精度で見分ける尿検査技術を開発した。症状が重なる疾患を医師が鑑別する助けになる可能性がある。"
-              },
-              {
-                "t": "p",
-                "x": "Asan Medical Center(AMC)は火曜日(Tuesday)、同院融合医学科(Department of Convergence Medicine)のKim Jun-ki教授と、Ewha Womans University Mokdong Hospital泌尿器科(Department of Urology)のShin Jung-hyun教授の研究チームが、高感度の分子検出と人工知能を組み合わせてこの技術を開発したと発表した。"
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.koreabiomed.com/news/photo/202611/33718_36861_5520.jpg"
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/29ec/live/7d751a00-d930-11f1-b1fc-0ffc40c3cca6.jpg",
+                "cap": "日常的な眼の検査で糖尿病、ゆくゆくは心臓病も検出できるようになる技術"
               },
               {
                 "t": "p",
-                "x": "研究チームは表面増強Raman分光法(SERS)とAIを組み合わせた。金と酸化亜鉛のナノ構造を組み込んだSERSチップを作製し、参加者181人(健康な対照117人、間質性膀胱炎患者19人、過活動膀胱患者45人)の尿検体をそれぞれ約5マイクロリットルずつ分析した。"
+                "x": "心臓病や糖尿病などの病気の初期兆候を見つける取り組みの一環として、日常的な眼のスキャンにAIが使われる。"
               },
               {
                 "t": "p",
-                "x": "四つの機械学習手法(PCA-PLS-DA、PCA-LDA、XGBoost、LightGBM)を適用したところ、モデルは三つの群を最大92パーセントの精度で判別した。成果はACS Sensorsの表紙論文として掲載され、研究チームはより大きな患者集団で技術を検証する予定だ。"
+                "x": "Sunderland UniversityのNorthern Ophthalmic Research and Innovation(NORI)ハブは、患者をより早く診断することを目指すこの事業のため、UK Research and Innovation(UKRI)を通じて政府から1220万ポンド(£12.2m)を受けた。"
+              },
+              {
+                "t": "p",
+                "x": "保健担当の暫定副学長でNORIの共同ディレクターを務めるMatthew Campbell氏は、この資金がチームの技術開発と国際市場への展開に役立つと述べた。"
+              },
+              {
+                "t": "p",
+                "x": "このツールは当初、糖尿病と心血管疾患に焦点を当てるが、将来的には認知症や脳卒中にも広げられる可能性がある。"
+              },
+              {
+                "t": "p",
+                "x": "NORIは、技術を使って病気を診断する、UKRIが支援する(UKRI-backed)新たな医療ハブ五つのうちの一つだ。"
+              },
+              {
+                "t": "p",
+                "x": "木曜日にNORIを訪れたChris McDonald科学相は「早期診断は患者にとってより良い結果と、私たちのNHSへの負担軽減を意味し、技術は不可欠な役割を果たす」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "この技術は眼の奥にある微細な血管と神経組織を利用する。NORIによれば、これらは症状が現れる前に人の全身の健康状態に関する手がかりを示しうる。AIは日常的な眼のスキャンをNHSの健康記録や地域データとあわせて解析し、病気の初期兆候となりうる微妙な変化を見つけ出す。"
+              },
+              {
+                "t": "p",
+                "x": "Campbell氏は「この投資はNorth East(イングランド北東部)に新たな医療イノベーションのエコシステムを生み出す。私たちは今、技術を開発し、実際の医療現場で試験し、国内外の市場に送り出せる規模を手にした」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI尿液检测\n区分症状重叠的膀胱疾病",
-          "body": "Asan Medical Center的AI尿检区分两种膀胱疾病，准确率最高92%。",
-          "mini_headline": "用于膀胱的AI尿检",
+          "headline": "Sunderland项目\n以AI眼部检查筛查糖尿病",
+          "body": "NORI中心获1220万英镑，用AI从常规眼部扫描中发现糖尿病和心脏病早期迹象。",
+          "mini_headline": "AI眼部检查筛查糖尿病",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "韩国（Korean）研究人员开发出一种尿液检测技术，借助AI区分间质性膀胱炎、膀胱过度活动症和健康人，准确率最高达92%，有望帮助医生鉴别症状重叠的疾病。"
-              },
-              {
-                "t": "p",
-                "x": "Asan Medical Center（AMC）于周二（Tuesday）表示，由该院融合医学科（Department of Convergence Medicine）Kim Jun-ki教授与Ewha Womans University Mokdong Hospital泌尿外科（Department of Urology）Shin Jung-hyun教授领导的团队，将高灵敏度分子检测与人工智能相结合，开发出这项技术。"
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.koreabiomed.com/news/photo/202611/33718_36861_5520.jpg"
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/29ec/live/7d751a00-d930-11f1-b1fc-0ffc40c3cca6.jpg",
+                "cap": "该技术将能通过常规眼部检查发现糖尿病，并最终发现心脏病"
               },
               {
                 "t": "p",
-                "x": "研究人员将表面增强Raman光谱（SERS）与AI相结合。团队制作了含金和氧化锌纳米结构的SERS芯片，分析了181名参与者的尿液样本，每份约5微升，其中健康对照117人、间质性膀胱炎患者19人、膀胱过度活动症患者45人。"
+                "x": "作为一项旨在发现心脏病和糖尿病等疾病早期迹象的计划的一部分，AI将被用于常规眼部扫描。"
               },
               {
                 "t": "p",
-                "x": "团队采用四种机器学习方法（PCA-PLS-DA、PCA-LDA、XGBoost和LightGBM），模型区分三组人群的准确率最高达92%。研究成果作为封面文章发表于ACS Sensors；团队计划在更大的患者群体中验证该技术。"
+                "x": "Sunderland University的Northern Ophthalmic Research and Innovation(NORI)中心已通过UK Research and Innovation(UKRI)获得政府1220万英镑(£12.2m)资助，用于该项目，以期更快地为患者作出诊断。"
+              },
+              {
+                "t": "p",
+                "x": "负责健康事务的临时副校长、NORI联合主任Matthew Campbell表示，这笔资金将帮助团队开发该技术并将其推向国际市场。"
+              },
+              {
+                "t": "p",
+                "x": "该工具最初将聚焦糖尿病和心血管疾病，之后这一方法可能扩展到痴呆症和中风。"
+              },
+              {
+                "t": "p",
+                "x": "NORI是五个新的UKRI资助(UKRI-backed)医疗中心之一，这些中心利用技术诊断疾病。"
+              },
+              {
+                "t": "p",
+                "x": "周四访问NORI的科学大臣Chris McDonald表示：“更早诊断意味着患者获得更好的结果，我们的NHS压力更小，而技术在其中发挥着至关重要的作用。”"
+              },
+              {
+                "t": "p",
+                "x": "该技术将利用眼底的微小血管和神经组织，NORI称这些部位能在症状出现前揭示一个人整体健康状况的线索。AI将结合NHS健康记录和社区数据分析常规眼部扫描，以识别可能预示疾病早期迹象的细微变化。"
+              },
+              {
+                "t": "p",
+                "x": "Campbell表示：“这项投资为North East(英格兰东北部)打造了一个新的健康创新生态系统。我们现在已具备开发技术、在真实医疗环境中测试技术并将其推向国内和国际市场的规模。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Prueba de orina con AI distingue\ntrastornos vesicales solapados",
-          "body": "El test de orina con AI del Asan Medical Center distingue dos trastornos vesicales con hasta un 92% de precisión.",
-          "mini_headline": "Prueba de orina con AI para la vejiga",
+          "headline": "Sunderland usa IA en pruebas\noculares para detectar diabetes",
+          "body": "El centro NORI de Sunderland recibió £12.2m para usar IA en revisiones oculares y detectar diabetes y cardiopatías.",
+          "mini_headline": "Pruebas oculares con IA para detectar diabetes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Investigadores coreanos (Korean) han desarrollado una técnica de análisis de orina que usa AI para distinguir entre cistitis intersticial, vejiga hiperactiva y personas sanas con hasta un 92 por ciento de precisión, lo que podría ayudar a los médicos a diferenciar afecciones con síntomas que se solapan."
-              },
-              {
-                "t": "p",
-                "x": "El Asan Medical Center (AMC) informó el martes (Tuesday) de que un equipo dirigido por el profesor Kim Jun-ki, del Department of Convergence Medicine del hospital, y el profesor Shin Jung-hyun, del Department of Urology del Ewha Womans University Mokdong Hospital, desarrolló la técnica combinando la detección molecular de alta sensibilidad con inteligencia artificial."
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.koreabiomed.com/news/photo/202611/33718_36861_5520.jpg"
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/29ec/live/7d751a00-d930-11f1-b1fc-0ffc40c3cca6.jpg",
+                "cap": "La tecnología podrá detectar la diabetes y, con el tiempo, enfermedades cardíacas en revisiones oculares rutinarias"
               },
               {
                 "t": "p",
-                "x": "Los investigadores combinaron la espectroscopia Raman de superficie aumentada (SERS) con AI. El equipo fabricó un chip SERS con nanoestructuras de oro y óxido de zinc y analizó muestras de orina de unos 5 microlitros cada una de 181 participantes: 117 controles sanos, 19 pacientes con cistitis intersticial y 45 con vejiga hiperactiva."
+                "x": "Se usará IA en exploraciones oculares rutinarias dentro de un plan para detectar signos tempranos de enfermedades como las cardiopatías y la diabetes."
               },
               {
                 "t": "p",
-                "x": "Con cuatro métodos de aprendizaje automático (PCA-PLS-DA, PCA-LDA, XGBoost y LightGBM), los modelos distinguieron entre los tres grupos con hasta un 92 por ciento de precisión. Los hallazgos se publicaron como artículo de portada en ACS Sensors; el equipo prevé validar la técnica en grupos de pacientes más amplios."
+                "x": "El centro Northern Ophthalmic Research and Innovation (NORI) de la Universidad de Sunderland ha recibido £12.2m del Gobierno a través de UK Research and Innovation (UKRI) para el proyecto, con la esperanza de diagnosticar antes a los pacientes."
+              },
+              {
+                "t": "p",
+                "x": "Matthew Campbell, vicerrector adjunto interino de salud y codirector de NORI, dijo que el dinero ayudará al equipo a desarrollar la tecnología y llevarla a mercados internacionales."
+              },
+              {
+                "t": "p",
+                "x": "Aunque la herramienta se centrará al principio en la diabetes y las enfermedades cardiovasculares, el enfoque podría ampliarse más adelante a la demencia y los ictus."
+              },
+              {
+                "t": "p",
+                "x": "NORI es uno de los cinco nuevos centros sanitarios respaldados por UKRI (UKRI-backed) que usan tecnología para diagnosticar enfermedades."
+              },
+              {
+                "t": "p",
+                "x": "El ministro de Ciencia, Chris McDonald, que visitó NORI el jueves, afirmó: “Un diagnóstico más temprano significa mejores resultados para los pacientes y menos presión sobre nuestro NHS, y la tecnología tiene un papel vital que desempeñar”."
+              },
+              {
+                "t": "p",
+                "x": "La tecnología utilizará los diminutos vasos sanguíneos y el tejido nervioso del fondo del ojo, que según NORI pueden revelar pistas sobre la salud general de una persona antes de que aparezcan los síntomas. La IA analizará las exploraciones oculares rutinarias junto con los historiales sanitarios del NHS y datos comunitarios para identificar cambios sutiles que puedan indicar signos tempranos de enfermedad."
+              },
+              {
+                "t": "p",
+                "x": "Campbell dijo: “Esta inversión crea un nuevo ecosistema de innovación sanitaria para el North East. Ahora tenemos la escala para desarrollar tecnologías, probarlas en entornos sanitarios reales y llevarlas a mercados nacionales e internacionales”."
               }
             ]
           }
@@ -1331,121 +1563,189 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 소변 검사로\n겹치는 방광질환 구별",
-          "body": "Asan Medical Center AI 소변검사는 방광질환을 92%까지 구분한다.",
-          "mini_headline": "방광 진단 AI 소변 검사",
+          "headline": "Sunderland 사업\nAI 눈 검사로 당뇨 탐지",
+          "body": "NORI 허브가 £12.2m 받아 AI 눈 검사로 당뇨·심장병 징후를 찾는다.",
+          "mini_headline": "AI 눈 검사로 당뇨 탐지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "한국(Korean) 연구진이 AI로 간질성 방광염, 과민성 방광, 건강한 사람을 최대 92퍼센트 정확도로 구별하는 소변 검사 기법을 개발했다. 증상이 겹치는 질환을 의사가 감별하는 데 도움이 될 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Asan Medical Center(AMC)는 화요일(Tuesday) 병원 융합의학과(Department of Convergence Medicine) Kim Jun-ki 교수와 Ewha Womans University Mokdong Hospital 비뇨의학과(Department of Urology) Shin Jung-hyun 교수 연구팀이 고감도 분자 검출과 인공지능을 결합해 이 기법을 개발했다고 밝혔다."
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.koreabiomed.com/news/photo/202611/33718_36861_5520.jpg"
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/29ec/live/7d751a00-d930-11f1-b1fc-0ffc40c3cca6.jpg",
+                "cap": "일상적인 눈 검사로 당뇨병을, 나아가 심장병까지 찾아낼 수 있는 기술"
               },
               {
                 "t": "p",
-                "x": "연구진은 표면증강 Raman 분광법(SERS)을 AI와 결합했다. 금과 산화아연 나노구조를 넣은 SERS 칩을 만들고, 참가자 181명(건강한 대조군 117명, 간질성 방광염 환자 19명, 과민성 방광 환자 45명)의 소변 시료를 약 5마이크로리터씩 분석했다."
+                "x": "심장병과 당뇨병 같은 질환의 초기 징후를 찾기 위한 사업의 하나로, 일상적인 눈 스캔에 AI가 쓰인다."
               },
               {
                 "t": "p",
-                "x": "네 가지 머신러닝 기법(PCA-PLS-DA, PCA-LDA, XGBoost, LightGBM)을 적용한 결과, 모델은 세 집단을 최대 92퍼센트 정확도로 구별했다. 연구 결과는 ACS Sensors 표지 논문으로 실렸으며, 연구팀은 더 큰 환자군에서 기법을 검증할 계획이다."
+                "x": "Sunderland University의 Northern Ophthalmic Research and Innovation(NORI) 허브는 환자를 더 빨리 진단하기 위한 이 사업에 UK Research and Innovation(UKRI)을 통해 정부로부터 1220만 파운드(£12.2m)를 받았다."
+              },
+              {
+                "t": "p",
+                "x": "NORI 공동 디렉터이자 보건 담당 임시 부총장인 Matthew Campbell은 이 자금이 연구팀의 기술 개발과 해외 시장 진출에 도움이 될 것이라고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "이 도구는 처음에는 당뇨병과 심혈관 질환에 집중하지만, 이후 치매와 뇌졸중으로 확대될 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "NORI는 기술로 질병을 진단하는 UKRI 지원(UKRI-backed) 신규 의료 허브 다섯 곳 중 하나다."
+              },
+              {
+                "t": "p",
+                "x": "목요일 NORI를 방문한 Chris McDonald 과학부 장관은 “조기 진단은 환자에게 더 나은 결과를, 우리 NHS에는 부담 경감을 뜻하며, 기술은 그 과정에서 중요한 역할을 한다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "이 기술은 눈 뒤쪽의 미세 혈관과 신경 조직을 활용한다. NORI는 이 부위가 증상이 나타나기 전에 전반적인 건강 상태에 관한 단서를 드러낼 수 있다고 설명했다. AI는 일상적인 눈 스캔을 NHS 건강 기록, 지역사회 데이터와 함께 분석해 질병의 초기 징후일 수 있는 미세한 변화를 찾아낸다."
+              },
+              {
+                "t": "p",
+                "x": "Campbell은 “이번 투자는 잉글랜드 북동부(North East)에 새로운 보건 혁신 생태계를 만든다. 이제 우리는 기술을 개발하고, 실제 의료 현장에서 시험하고, 국내외 시장에 내놓을 수 있는 규모를 갖췄다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIの尿検査で\n症状重なる膀胱疾患を判別",
-          "body": "Asan Medical CenterのAI尿検査は膀胱疾患を最大92%の精度で見分ける。",
-          "mini_headline": "膀胱向けAI尿検査",
+          "headline": "Sunderlandの事業\nAI眼検査で糖尿病を検出",
+          "body": "NORIハブが1220万ポンドを得て、AIで眼の検査から糖尿病や心臓病の兆候を探る。",
+          "mini_headline": "AI眼検査で糖尿病を早期発見",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "韓国(Korean)の研究チームが、AIを使って間質性膀胱炎、過活動膀胱、健康な人を最大92パーセントの精度で見分ける尿検査技術を開発した。症状が重なる疾患を医師が鑑別する助けになる可能性がある。"
-              },
-              {
-                "t": "p",
-                "x": "Asan Medical Center(AMC)は火曜日(Tuesday)、同院融合医学科(Department of Convergence Medicine)のKim Jun-ki教授と、Ewha Womans University Mokdong Hospital泌尿器科(Department of Urology)のShin Jung-hyun教授の研究チームが、高感度の分子検出と人工知能を組み合わせてこの技術を開発したと発表した。"
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.koreabiomed.com/news/photo/202611/33718_36861_5520.jpg"
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/29ec/live/7d751a00-d930-11f1-b1fc-0ffc40c3cca6.jpg",
+                "cap": "日常的な眼の検査で糖尿病、ゆくゆくは心臓病も検出できるようになる技術"
               },
               {
                 "t": "p",
-                "x": "研究チームは表面増強Raman分光法(SERS)とAIを組み合わせた。金と酸化亜鉛のナノ構造を組み込んだSERSチップを作製し、参加者181人(健康な対照117人、間質性膀胱炎患者19人、過活動膀胱患者45人)の尿検体をそれぞれ約5マイクロリットルずつ分析した。"
+                "x": "心臓病や糖尿病などの病気の初期兆候を見つける取り組みの一環として、日常的な眼のスキャンにAIが使われる。"
               },
               {
                 "t": "p",
-                "x": "四つの機械学習手法(PCA-PLS-DA、PCA-LDA、XGBoost、LightGBM)を適用したところ、モデルは三つの群を最大92パーセントの精度で判別した。成果はACS Sensorsの表紙論文として掲載され、研究チームはより大きな患者集団で技術を検証する予定だ。"
+                "x": "Sunderland UniversityのNorthern Ophthalmic Research and Innovation(NORI)ハブは、患者をより早く診断することを目指すこの事業のため、UK Research and Innovation(UKRI)を通じて政府から1220万ポンド(£12.2m)を受けた。"
+              },
+              {
+                "t": "p",
+                "x": "保健担当の暫定副学長でNORIの共同ディレクターを務めるMatthew Campbell氏は、この資金がチームの技術開発と国際市場への展開に役立つと述べた。"
+              },
+              {
+                "t": "p",
+                "x": "このツールは当初、糖尿病と心血管疾患に焦点を当てるが、将来的には認知症や脳卒中にも広げられる可能性がある。"
+              },
+              {
+                "t": "p",
+                "x": "NORIは、技術を使って病気を診断する、UKRIが支援する(UKRI-backed)新たな医療ハブ五つのうちの一つだ。"
+              },
+              {
+                "t": "p",
+                "x": "木曜日にNORIを訪れたChris McDonald科学相は「早期診断は患者にとってより良い結果と、私たちのNHSへの負担軽減を意味し、技術は不可欠な役割を果たす」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "この技術は眼の奥にある微細な血管と神経組織を利用する。NORIによれば、これらは症状が現れる前に人の全身の健康状態に関する手がかりを示しうる。AIは日常的な眼のスキャンをNHSの健康記録や地域データとあわせて解析し、病気の初期兆候となりうる微妙な変化を見つけ出す。"
+              },
+              {
+                "t": "p",
+                "x": "Campbell氏は「この投資はNorth East(イングランド北東部)に新たな医療イノベーションのエコシステムを生み出す。私たちは今、技術を開発し、実際の医療現場で試験し、国内外の市場に送り出せる規模を手にした」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI尿液检测\n区分症状重叠的膀胱疾病",
-          "body": "Asan Medical Center的AI尿检区分两种膀胱疾病，准确率最高92%。",
-          "mini_headline": "用于膀胱的AI尿检",
+          "headline": "Sunderland项目\n以AI眼部检查筛查糖尿病",
+          "body": "NORI中心获1220万英镑，用AI从常规眼部扫描中发现糖尿病和心脏病早期迹象。",
+          "mini_headline": "AI眼部检查筛查糖尿病",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "韩国（Korean）研究人员开发出一种尿液检测技术，借助AI区分间质性膀胱炎、膀胱过度活动症和健康人，准确率最高达92%，有望帮助医生鉴别症状重叠的疾病。"
-              },
-              {
-                "t": "p",
-                "x": "Asan Medical Center（AMC）于周二（Tuesday）表示，由该院融合医学科（Department of Convergence Medicine）Kim Jun-ki教授与Ewha Womans University Mokdong Hospital泌尿外科（Department of Urology）Shin Jung-hyun教授领导的团队，将高灵敏度分子检测与人工智能相结合，开发出这项技术。"
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.koreabiomed.com/news/photo/202611/33718_36861_5520.jpg"
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/29ec/live/7d751a00-d930-11f1-b1fc-0ffc40c3cca6.jpg",
+                "cap": "该技术将能通过常规眼部检查发现糖尿病，并最终发现心脏病"
               },
               {
                 "t": "p",
-                "x": "研究人员将表面增强Raman光谱（SERS）与AI相结合。团队制作了含金和氧化锌纳米结构的SERS芯片，分析了181名参与者的尿液样本，每份约5微升，其中健康对照117人、间质性膀胱炎患者19人、膀胱过度活动症患者45人。"
+                "x": "作为一项旨在发现心脏病和糖尿病等疾病早期迹象的计划的一部分，AI将被用于常规眼部扫描。"
               },
               {
                 "t": "p",
-                "x": "团队采用四种机器学习方法（PCA-PLS-DA、PCA-LDA、XGBoost和LightGBM），模型区分三组人群的准确率最高达92%。研究成果作为封面文章发表于ACS Sensors；团队计划在更大的患者群体中验证该技术。"
+                "x": "Sunderland University的Northern Ophthalmic Research and Innovation(NORI)中心已通过UK Research and Innovation(UKRI)获得政府1220万英镑(£12.2m)资助，用于该项目，以期更快地为患者作出诊断。"
+              },
+              {
+                "t": "p",
+                "x": "负责健康事务的临时副校长、NORI联合主任Matthew Campbell表示，这笔资金将帮助团队开发该技术并将其推向国际市场。"
+              },
+              {
+                "t": "p",
+                "x": "该工具最初将聚焦糖尿病和心血管疾病，之后这一方法可能扩展到痴呆症和中风。"
+              },
+              {
+                "t": "p",
+                "x": "NORI是五个新的UKRI资助(UKRI-backed)医疗中心之一，这些中心利用技术诊断疾病。"
+              },
+              {
+                "t": "p",
+                "x": "周四访问NORI的科学大臣Chris McDonald表示：“更早诊断意味着患者获得更好的结果，我们的NHS压力更小，而技术在其中发挥着至关重要的作用。”"
+              },
+              {
+                "t": "p",
+                "x": "该技术将利用眼底的微小血管和神经组织，NORI称这些部位能在症状出现前揭示一个人整体健康状况的线索。AI将结合NHS健康记录和社区数据分析常规眼部扫描，以识别可能预示疾病早期迹象的细微变化。"
+              },
+              {
+                "t": "p",
+                "x": "Campbell表示：“这项投资为North East(英格兰东北部)打造了一个新的健康创新生态系统。我们现在已具备开发技术、在真实医疗环境中测试技术并将其推向国内和国际市场的规模。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Prueba de orina con AI distingue\ntrastornos vesicales solapados",
-          "body": "El test de orina con AI del Asan Medical Center distingue dos trastornos vesicales con hasta un 92% de precisión.",
-          "mini_headline": "Prueba de orina con AI para la vejiga",
+          "headline": "Sunderland usa IA en pruebas\noculares para detectar diabetes",
+          "body": "El centro NORI de Sunderland recibió £12.2m para usar IA en revisiones oculares y detectar diabetes y cardiopatías.",
+          "mini_headline": "Pruebas oculares con IA para detectar diabetes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Investigadores coreanos (Korean) han desarrollado una técnica de análisis de orina que usa AI para distinguir entre cistitis intersticial, vejiga hiperactiva y personas sanas con hasta un 92 por ciento de precisión, lo que podría ayudar a los médicos a diferenciar afecciones con síntomas que se solapan."
-              },
-              {
-                "t": "p",
-                "x": "El Asan Medical Center (AMC) informó el martes (Tuesday) de que un equipo dirigido por el profesor Kim Jun-ki, del Department of Convergence Medicine del hospital, y el profesor Shin Jung-hyun, del Department of Urology del Ewha Womans University Mokdong Hospital, desarrolló la técnica combinando la detección molecular de alta sensibilidad con inteligencia artificial."
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.koreabiomed.com/news/photo/202611/33718_36861_5520.jpg"
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/29ec/live/7d751a00-d930-11f1-b1fc-0ffc40c3cca6.jpg",
+                "cap": "La tecnología podrá detectar la diabetes y, con el tiempo, enfermedades cardíacas en revisiones oculares rutinarias"
               },
               {
                 "t": "p",
-                "x": "Los investigadores combinaron la espectroscopia Raman de superficie aumentada (SERS) con AI. El equipo fabricó un chip SERS con nanoestructuras de oro y óxido de zinc y analizó muestras de orina de unos 5 microlitros cada una de 181 participantes: 117 controles sanos, 19 pacientes con cistitis intersticial y 45 con vejiga hiperactiva."
+                "x": "Se usará IA en exploraciones oculares rutinarias dentro de un plan para detectar signos tempranos de enfermedades como las cardiopatías y la diabetes."
               },
               {
                 "t": "p",
-                "x": "Con cuatro métodos de aprendizaje automático (PCA-PLS-DA, PCA-LDA, XGBoost y LightGBM), los modelos distinguieron entre los tres grupos con hasta un 92 por ciento de precisión. Los hallazgos se publicaron como artículo de portada en ACS Sensors; el equipo prevé validar la técnica en grupos de pacientes más amplios."
+                "x": "El centro Northern Ophthalmic Research and Innovation (NORI) de la Universidad de Sunderland ha recibido £12.2m del Gobierno a través de UK Research and Innovation (UKRI) para el proyecto, con la esperanza de diagnosticar antes a los pacientes."
+              },
+              {
+                "t": "p",
+                "x": "Matthew Campbell, vicerrector adjunto interino de salud y codirector de NORI, dijo que el dinero ayudará al equipo a desarrollar la tecnología y llevarla a mercados internacionales."
+              },
+              {
+                "t": "p",
+                "x": "Aunque la herramienta se centrará al principio en la diabetes y las enfermedades cardiovasculares, el enfoque podría ampliarse más adelante a la demencia y los ictus."
+              },
+              {
+                "t": "p",
+                "x": "NORI es uno de los cinco nuevos centros sanitarios respaldados por UKRI (UKRI-backed) que usan tecnología para diagnosticar enfermedades."
+              },
+              {
+                "t": "p",
+                "x": "El ministro de Ciencia, Chris McDonald, que visitó NORI el jueves, afirmó: “Un diagnóstico más temprano significa mejores resultados para los pacientes y menos presión sobre nuestro NHS, y la tecnología tiene un papel vital que desempeñar”."
+              },
+              {
+                "t": "p",
+                "x": "La tecnología utilizará los diminutos vasos sanguíneos y el tejido nervioso del fondo del ojo, que según NORI pueden revelar pistas sobre la salud general de una persona antes de que aparezcan los síntomas. La IA analizará las exploraciones oculares rutinarias junto con los historiales sanitarios del NHS y datos comunitarios para identificar cambios sutiles que puedan indicar signos tempranos de enfermedad."
+              },
+              {
+                "t": "p",
+                "x": "Campbell dijo: “Esta inversión crea un nuevo ecosistema de innovación sanitaria para el North East. Ahora tenemos la escala para desarrollar tecnologías, probarlas en entornos sanitarios reales y llevarlas a mercados nacionales e internacionales”."
               }
             ]
           }

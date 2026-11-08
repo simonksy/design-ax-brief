@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "section": "marketing",
   "cards": [
     {
-      "id": "google-ads-creative-drop2",
+      "id": "apple-patent-keyword-screenshots",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google Ads에\n연말 AI 제작 도구",
-      "body": "Google Creative Drop #2, 번역·사진·YouTube AI 더했다.",
-      "mini_headline": "Google 연말 AI 광고 도구",
+      "headline": "Apple 특허, 앱 화면\n키워드마다 새로 그린다",
+      "body": "Apple 특허, Stable Diffusion 셋으로 키워드별 이미지를 그린다.",
+      "mini_headline": "Apple 특허,\n스크린숏 재생성",
       "tool": "Marketing",
-      "source": "Google Ads",
-      "url": "https://business.google.com/us/accelerate/announcements/optimize-holiday-ads-with-google-ai-creative-drop-2/",
+      "source": "PPC Land",
+      "url": "https://ppc.land/apple-patent-describes-ai-that-repaints-app-screenshots-per-keyword/",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
@@ -19,179 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.gstatic.com/marketing-cms/assets/images/ads/1c/4c/496f057d4eea9af7b10020b29137/cd2-3x2-card-01.webp=n-w1050-h700-fcrop64=1,00000000ffffffff-rw",
-            "cap": "Creative Drop #2 들여다보기: 캠페인을 연말 시즌에 맞추는 새 AI 기능"
+            "src": "https://ppc.land/content/images/size/w2000/2026/11/apple-patent-ai-app-screenshots-repainted-per-keyword-3-stable-diffusion-stage-maquette-backdrop-rolls.jpg",
+            "cap": "출원 중인 Apple 특허는 헤드라인과 휴대폰만 남기고 앱 스크린숏 배경을 키워드마다 새로 그린다"
           },
           {
             "t": "p",
-            "x": "Creative Drop #2는 Google Ads Product 팀이 매달 내는 시리즈다. 이번 회차는 Google AI로 연말 캠페인을 준비하는 방법 세 가지를 소개한다."
+            "x": "Apple의 US 특허 출원 US20250265066A1은 2025년 8월 21일 공개돼 지금 심사 중이다. 앱 마케팅 이미지나 스크린숏에서 헤드라인과 휴대폰만 남기고 나머지를 키워드에 맞춰 새로 만든 뒤 채점 모델로 결과를 거르는 시스템이다. 2026년 11월 5일 ASO Patents 사이트에 분석 글이 올라오면서 다시 눈길을 끌었다."
           },
           {
             "t": "p",
-            "x": "1. Holiday-ready Text: AI Campaign Translation을 쓰면 스페인어, 프랑스어, 독일어, 포르투갈어 등 15개 언어로 캠페인을 현지화하고 검토해 집행하는 일까지 Google Ads 안에서 바로 끝난다. Product Manager Mindy Lin은 번역된 캠페인을 Paused 상태로 두고 검토하면서 게시 전에 브랜드 톤을 확정하라고 권한다."
+            "x": "마스킹 엔진은 CenterNet 검출 모델과 Segment Anything Model로 전경을 잘라낸다. 출원서는 이미지 생성기가 \"stable diffusion 모델의 서로 다른 가중치 세 가지를 구현할 수 있다\"고 적었다. 인페인팅 모델과 SDXL, 미세 조정 모델이다. 키워드 프롬프트에는 \"NSFW\", \"text\", \"logo\" 같은 네거티브 프롬프트를 곁들인다."
           },
           {
             "t": "p",
-            "x": "2. Holiday-ready Images: Google Ads Asset Studio의 Multimodal 기능을 쓰면 이미 갖고 있는 평범한 제품 사진을 겨울 축제나 선물 장면으로 바꾸면서 브랜드 기준도 지킬 수 있다. Charles Boyd는 Brand Guidelines PDF와 실제 제품 각도 사진 4~5장을 함께 넣고 프롬프트에 계절 조명을 구체적으로 적으라고 조언한다."
+            "x": "LXMERT-based 이미지 선택기는 후보마다 키워드와 얼마나 맞는지 점수를 매기고 \"AI 환각\"을 걸러낸다. 고른 이미지는 스토어 제품 페이지나 웹사이트, 광고에 들어갈 수 있다. 종속 청구항 6과 7은 앱에서 자동으로 뽑아낸 이미지와 키워드를 다룬다."
           },
           {
             "t": "p",
-            "x": "3. Holiday-ready assets for YouTube: Google DeepMind가 개선한 영상 생성 모델 Gemini Omni 1.2를 Asset Studio에서 쓰면 가로·세로·정사각형 어느 비율에서든 일관성이 높아지고 영상을 대량으로 빠르게 만들 수 있다. Max Hagler는 첫 3초 안에 서로 다른 오프닝 비주얼 훅 두 가지를 놓고 A/B 테스트해 보라고 권한다."
+            "x": "등록도 출시도 아직이다. 출원서엔 성능 데이터가 없다. App Store, Apple Ads, App Store Connect라는 이름도 없이 \"온라인 소프트웨어 애플리케이션 스토어\"라고만 적었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google Ads adds holiday\nAI creative tools",
-          "body": "Google's Creative Drop #2 adds AI tools to translate ads, restage product photos and generate YouTube videos.",
-          "mini_headline": "Google holiday AI ad tools",
+          "headline": "Apple patent repaints app\nscreenshots per keyword",
+          "body": "An Apple patent filing uses three Stable Diffusion models to redraw app store images for each keyword.",
+          "mini_headline": "Apple patent repaints\nscreenshots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gstatic.com/marketing-cms/assets/images/ads/1c/4c/496f057d4eea9af7b10020b29137/cd2-3x2-card-01.webp=n-w1050-h700-fcrop64=1,00000000ffffffff-rw",
-                "cap": "Inside Creative Drop #2: Fresh AI features to get your campaigns holiday-ready"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/apple-patent-ai-app-screenshots-repainted-per-keyword-3-stable-diffusion-stage-maquette-backdrop-rolls.jpg",
+                "cap": "Pending Apple patent keeps headline and phone, repaints app screenshot backdrops per keyword"
               },
               {
                 "t": "p",
-                "x": "Creative Drop #2, part of Google Ads' monthly series from its Product teams, unpacks three ways to get holiday campaigns ready with Google AI."
+                "x": "Apple has a pending US patent application, US20250265066A1, published on August 21, 2025, for a system that takes a marketing image or screenshot for an app, keeps the headline and the phone in it, and regenerates everything else around a keyword before a scoring model filters the results. It drew fresh attention after the ASO Patents site published a breakdown on November 5, 2026."
               },
               {
                 "t": "p",
-                "x": "1. Holiday-ready Text: With AI Campaign Translation, you can localize, review, and launch campaigns right inside Google Ads across 15 languages, including Spanish, French, German, Portuguese, and more. Product Manager Mindy Lin suggests reviewing translated campaigns in a Paused state to lock in brand tone before they go live."
+                "x": "A masking engine uses a CenterNet detection model and a Segment Anything Model to cut out the foreground. The image generator \"can implement three different weights of the stable diffusion model\" - an inpainting model, SDXL and a fine-tuned model - with keyword prompts and negative prompts such as \"NSFW,\" \"text\" and \"logo.\""
               },
               {
                 "t": "p",
-                "x": "2. Holiday-ready Images: With Multimodal capabilities in Google Ads Asset Studio, you can turn the everyday product photos you already have into festive winter or gifting scenes while keeping your assets brand-compliant. Charles Boyd advises importing a Brand Guidelines PDF alongside 4 to 5 real product angles, and being specific about seasonal lighting in the prompt."
+                "x": "An LXMERT-based image selector scores how well each candidate matches the keyword, filters out \"AI hallucinations,\" and the chosen image can be placed on a store product page, a website or an advertisement. Dependent claims 6 and 7 cover images and keywords automatically generated from the app itself."
               },
               {
                 "t": "p",
-                "x": "3. Holiday-ready assets for YouTube: Gemini Omni 1.2, the updated video generation model from Google DeepMind, brings stronger consistency and faster video creation at scale in Asset Studio, across horizontal, vertical and square ratios. Max Hagler recommends A/B testing two different opening visual hooks in the first 3 seconds."
+                "x": "Nothing has been granted or launched. The filing contains no performance data and never names the App Store, Apple Ads or App Store Connect, referring only to an \"online software application store.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google Ads에\n연말 AI 제작 도구",
-          "body": "Google Creative Drop #2, 번역·사진·YouTube AI 더했다.",
-          "mini_headline": "Google 연말 AI 광고 도구",
+          "headline": "Apple 특허, 앱 화면\n키워드마다 새로 그린다",
+          "body": "Apple 특허, Stable Diffusion 셋으로 키워드별 이미지를 그린다.",
+          "mini_headline": "Apple 특허,\n스크린숏 재생성",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gstatic.com/marketing-cms/assets/images/ads/1c/4c/496f057d4eea9af7b10020b29137/cd2-3x2-card-01.webp=n-w1050-h700-fcrop64=1,00000000ffffffff-rw",
-                "cap": "Creative Drop #2 들여다보기: 캠페인을 연말 시즌에 맞추는 새 AI 기능"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/apple-patent-ai-app-screenshots-repainted-per-keyword-3-stable-diffusion-stage-maquette-backdrop-rolls.jpg",
+                "cap": "출원 중인 Apple 특허는 헤드라인과 휴대폰만 남기고 앱 스크린숏 배경을 키워드마다 새로 그린다"
               },
               {
                 "t": "p",
-                "x": "Creative Drop #2는 Google Ads Product 팀이 매달 내는 시리즈다. 이번 회차는 Google AI로 연말 캠페인을 준비하는 방법 세 가지를 소개한다."
+                "x": "Apple의 US 특허 출원 US20250265066A1은 2025년 8월 21일 공개돼 지금 심사 중이다. 앱 마케팅 이미지나 스크린숏에서 헤드라인과 휴대폰만 남기고 나머지를 키워드에 맞춰 새로 만든 뒤 채점 모델로 결과를 거르는 시스템이다. 2026년 11월 5일 ASO Patents 사이트에 분석 글이 올라오면서 다시 눈길을 끌었다."
               },
               {
                 "t": "p",
-                "x": "1. Holiday-ready Text: AI Campaign Translation을 쓰면 스페인어, 프랑스어, 독일어, 포르투갈어 등 15개 언어로 캠페인을 현지화하고 검토해 집행하는 일까지 Google Ads 안에서 바로 끝난다. Product Manager Mindy Lin은 번역된 캠페인을 Paused 상태로 두고 검토하면서 게시 전에 브랜드 톤을 확정하라고 권한다."
+                "x": "마스킹 엔진은 CenterNet 검출 모델과 Segment Anything Model로 전경을 잘라낸다. 출원서는 이미지 생성기가 \"stable diffusion 모델의 서로 다른 가중치 세 가지를 구현할 수 있다\"고 적었다. 인페인팅 모델과 SDXL, 미세 조정 모델이다. 키워드 프롬프트에는 \"NSFW\", \"text\", \"logo\" 같은 네거티브 프롬프트를 곁들인다."
               },
               {
                 "t": "p",
-                "x": "2. Holiday-ready Images: Google Ads Asset Studio의 Multimodal 기능을 쓰면 이미 갖고 있는 평범한 제품 사진을 겨울 축제나 선물 장면으로 바꾸면서 브랜드 기준도 지킬 수 있다. Charles Boyd는 Brand Guidelines PDF와 실제 제품 각도 사진 4~5장을 함께 넣고 프롬프트에 계절 조명을 구체적으로 적으라고 조언한다."
+                "x": "LXMERT-based 이미지 선택기는 후보마다 키워드와 얼마나 맞는지 점수를 매기고 \"AI 환각\"을 걸러낸다. 고른 이미지는 스토어 제품 페이지나 웹사이트, 광고에 들어갈 수 있다. 종속 청구항 6과 7은 앱에서 자동으로 뽑아낸 이미지와 키워드를 다룬다."
               },
               {
                 "t": "p",
-                "x": "3. Holiday-ready assets for YouTube: Google DeepMind가 개선한 영상 생성 모델 Gemini Omni 1.2를 Asset Studio에서 쓰면 가로·세로·정사각형 어느 비율에서든 일관성이 높아지고 영상을 대량으로 빠르게 만들 수 있다. Max Hagler는 첫 3초 안에 서로 다른 오프닝 비주얼 훅 두 가지를 놓고 A/B 테스트해 보라고 권한다."
+                "x": "등록도 출시도 아직이다. 출원서엔 성능 데이터가 없다. App Store, Apple Ads, App Store Connect라는 이름도 없이 \"온라인 소프트웨어 애플리케이션 스토어\"라고만 적었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google Adsに\n年末向けAI制作ツール",
-          "body": "Google Creative Drop #2に翻訳・写真・YouTube用AIが加わる。",
-          "mini_headline": "Google 年末向けAI広告ツール",
+          "headline": "Apple特許、アプリ画像を\nキーワード別に描き直す",
+          "body": "Apple特許は三つのStable Diffusionでキーワード別に画像を描き直す。",
+          "mini_headline": "Apple特許、\nスクリーンショット再生成",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gstatic.com/marketing-cms/assets/images/ads/1c/4c/496f057d4eea9af7b10020b29137/cd2-3x2-card-01.webp=n-w1050-h700-fcrop64=1,00000000ffffffff-rw",
-                "cap": "Creative Drop #2の中身:キャンペーンを年末商戦に備える新AI機能"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/apple-patent-ai-app-screenshots-repainted-per-keyword-3-stable-diffusion-stage-maquette-backdrop-rolls.jpg",
+                "cap": "審査中のApple特許は見出しと端末を残し、アプリのスクリーンショット背景をキーワードごとに描き直す"
               },
               {
                 "t": "p",
-                "x": "Creative Drop #2は、Google AdsのProductチームが毎月届けるシリーズの一つで、Google AIを使って年末キャンペーンを準備する三つの方法を紹介する。"
+                "x": "Appleは、2025年8月21日に公開されたUS特許出願US20250265066A1を審査中である。アプリのマーケティング画像やスクリーンショットから見出しと端末を残し、それ以外をキーワードに合わせて再生成したうえで、スコアリングモデルが結果を絞り込む仕組みだ。ASO Patentsサイトが2026年11月5日に解説を公開し、改めて注目を集めた。"
               },
               {
                 "t": "p",
-                "x": "1. Holiday-ready Text:AI Campaign Translationを使えば、スペイン語、フランス語、ドイツ語、ポルトガル語など15言語で、キャンペーンをGoogle Ads内でそのまま現地化・確認・配信できる。Product ManagerのMindy Linは、公開前にブランドのトーンを固めるため、翻訳したキャンペーンをPaused状態で確認するよう勧める。"
+                "x": "マスキングエンジンはCenterNetの検出モデルとSegment Anything Modelで前景を切り抜く。画像生成器は「stable diffusionモデルの三つの異なる重みを実装できる」とされ、インペインティングモデル、SDXL、ファインチューニング済みモデルを、キーワードプロンプトと「NSFW」「text」「logo」などのネガティブプロンプトとともに使う。"
               },
               {
                 "t": "p",
-                "x": "2. Holiday-ready Images:Google Ads Asset StudioのMultimodal機能で、手元にある普段の商品写真を冬のお祝いやギフトの場面に変えつつ、アセットをブランド基準に沿ったまま保てる。Charles Boydは、Brand Guidelines PDFと実際の商品アングル4〜5点を一緒に読み込み、プロンプトで季節の照明を具体的に指定するよう助言する。"
+                "x": "LXMERT-basedの画像セレクターは各候補がキーワードにどれだけ合うかを採点し、「AIハルシネーション」を除外する。選ばれた画像はストアの製品ページ、ウェブサイト、広告に掲載できる。従属請求項6と7は、アプリ自体から自動生成した画像とキーワードを対象とする。"
               },
               {
                 "t": "p",
-                "x": "3. Holiday-ready assets for YouTube:Google DeepMindの最新動画生成モデルGemini Omni 1.2は、Asset Studioで横長・縦長・正方形の各比率にわたり、一貫性を高め、大規模な動画制作を速める。Max Haglerは、冒頭3秒で異なる二つのオープニング映像フックをA/Bテストするよう勧める。"
+                "x": "特許はまだ付与されておらず、製品化もされていない。出願書類には性能データがなく、App Store、Apple Ads、App Store Connectの名称も出てこない。記載は「オンラインソフトウェアアプリケーションストア」のみである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Ads推出\n节日季AI创意工具",
-          "body": "Google Creative Drop #2新增翻译、修图与YouTube视频AI工具。",
-          "mini_headline": "Google节日季AI广告工具",
+          "headline": "Apple专利按关键词\n重绘应用截图",
+          "body": "Apple专利申请用三个Stable Diffusion模型按关键词重绘应用商店图片。",
+          "mini_headline": "Apple专利\n重绘截图",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gstatic.com/marketing-cms/assets/images/ads/1c/4c/496f057d4eea9af7b10020b29137/cd2-3x2-card-01.webp=n-w1050-h700-fcrop64=1,00000000ffffffff-rw",
-                "cap": "Creative Drop #2详解:让广告系列为节日季做好准备的全新AI功能"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/apple-patent-ai-app-screenshots-repainted-per-keyword-3-stable-diffusion-stage-maquette-backdrop-rolls.jpg",
+                "cap": "审查中的Apple专利保留标题和手机，按关键词重绘应用截图背景"
               },
               {
                 "t": "p",
-                "x": "Creative Drop #2是Google Ads Product团队推出的月度系列之一,介绍了借助Google AI为节日广告系列做好准备的三种方式。"
+                "x": "Apple有一项待审的US专利申请US20250265066A1，于2025年8月21日公布，涉及这样一个系统：读取应用的营销图片或截图，保留其中的标题和手机，围绕关键词重新生成其余部分，再由评分模型筛选结果。ASO Patents网站于2026年11月5日发布解读后，这项申请再次受到关注。"
               },
               {
                 "t": "p",
-                "x": "1. Holiday-ready Text:借助AI Campaign Translation,可直接在Google Ads内以西班牙语、法语、德语、葡萄牙语等15种语言本地化、审核并上线广告系列。Product Manager Mindy Lin建议在Paused状态下审核翻译后的广告系列,在上线前锁定品牌语气。"
+                "x": "遮罩引擎使用CenterNet检测模型和Segment Anything Model抠出前景。图像生成器“可实现stable diffusion模型的三种不同权重”，即一个inpainting模型、SDXL和一个微调模型，并配合关键词提示词以及“NSFW”“text”“logo”等负面提示词。"
               },
               {
                 "t": "p",
-                "x": "2. Holiday-ready Images:借助Google Ads Asset Studio的Multimodal功能,可将手头已有的日常产品照片转换为节日冬季或送礼场景,同时让素材符合品牌规范。Charles Boyd建议同时导入Brand Guidelines PDF和4到5张真实产品角度图,并在提示词中具体描述季节性光线。"
+                "x": "LXMERT-based图像选择器为每个候选图与关键词的匹配度打分，并过滤“AI幻觉”，选中的图像可用于商店产品页、网站或广告。从属权利要求6和7涵盖由应用本身自动生成的图像和关键词。"
               },
               {
                 "t": "p",
-                "x": "3. Holiday-ready assets for YouTube:Google DeepMind更新后的视频生成模型Gemini Omni 1.2在Asset Studio中带来更强的一致性和更快的规模化视频制作,覆盖横版、竖版和方形比例。Max Hagler建议在前3秒内对两种不同的开场视觉钩子进行A/B测试。"
+                "x": "该专利尚未获批，也未落地。申请文件没有任何性能数据，也从未提及App Store、Apple Ads或App Store Connect，只称其为“在线软件应用商店”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Ads lanza herramientas\ncreativas de AI para fiestas",
-          "body": "Creative Drop #2 de Google añade AI para traducir anuncios, reambientar fotos de producto y crear videos de YouTube.",
-          "mini_headline": "Herramientas AI de Google para fiestas",
+          "headline": "Patente de Apple redibuja\ncapturas por palabra clave",
+          "body": "Una patente de Apple usa tres modelos Stable Diffusion para redibujar imágenes de tienda de apps por palabra clave.",
+          "mini_headline": "Patente de Apple\nrehace capturas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gstatic.com/marketing-cms/assets/images/ads/1c/4c/496f057d4eea9af7b10020b29137/cd2-3x2-card-01.webp=n-w1050-h700-fcrop64=1,00000000ffffffff-rw",
-                "cap": "Dentro de Creative Drop #2: nuevas funciones de AI para preparar sus campañas para las fiestas"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/apple-patent-ai-app-screenshots-repainted-per-keyword-3-stable-diffusion-stage-maquette-backdrop-rolls.jpg",
+                "cap": "La patente pendiente de Apple conserva el titular y el teléfono, y redibuja los fondos de las capturas de la app por palabra clave"
               },
               {
                 "t": "p",
-                "x": "Creative Drop #2, parte de la serie mensual de Google Ads elaborada por sus equipos Product, presenta tres formas de preparar las campañas de fiestas con Google AI."
+                "x": "Apple tiene pendiente una solicitud de patente US, US20250265066A1, publicada el 21 de agosto de 2025, para un sistema que toma una imagen de marketing o una captura de pantalla de una app, conserva el titular y el teléfono, y regenera todo lo demás en torno a una palabra clave antes de que un modelo de puntuación filtre los resultados. Volvió a llamar la atención después de que el sitio ASO Patents publicara un análisis el 5 de noviembre de 2026."
               },
               {
                 "t": "p",
-                "x": "1. Holiday-ready Text: con AI Campaign Translation se pueden localizar, revisar y lanzar campañas directamente en Google Ads en 15 idiomas, entre ellos español, francés, alemán, portugués y otros. La Product Manager Mindy Lin sugiere revisar las campañas traducidas en estado Paused para fijar el tono de marca antes de que se publiquen."
+                "x": "Un motor de enmascarado usa un modelo de detección CenterNet y un Segment Anything Model para recortar el primer plano. El generador de imágenes \"puede implementar tres pesos distintos del modelo stable diffusion\" (un modelo de inpainting, SDXL y un modelo ajustado) con prompts de palabra clave y prompts negativos como \"NSFW\", \"text\" y \"logo\"."
               },
               {
                 "t": "p",
-                "x": "2. Holiday-ready Images: con las capacidades Multimodal de Google Ads Asset Studio, las fotos de producto cotidianas que ya se tienen pueden convertirse en escenas festivas de invierno o de regalo, manteniendo los recursos conformes a la marca. Charles Boyd aconseja importar un PDF de Brand Guidelines junto con 4 a 5 ángulos reales del producto y ser específico sobre la iluminación estacional en el prompt."
+                "x": "Un selector de imágenes LXMERT-based puntúa cuánto se ajusta cada candidata a la palabra clave y filtra las \"alucinaciones de AI\", y la imagen elegida puede colocarse en una página de producto de la tienda, un sitio web o un anuncio. Las reivindicaciones dependientes 6 y 7 cubren imágenes y palabras clave generadas automáticamente a partir de la propia app."
               },
               {
                 "t": "p",
-                "x": "3. Holiday-ready assets for YouTube: Gemini Omni 1.2, el modelo de generación de video actualizado de Google DeepMind, aporta mayor coherencia y una creación de videos más rápida a escala en Asset Studio, en formatos horizontal, vertical y cuadrado. Max Hagler recomienda hacer pruebas A/B con dos ganchos visuales de apertura distintos en los primeros 3 segundos."
+                "x": "No se ha concedido ni lanzado nada. La solicitud no incluye datos de rendimiento y nunca menciona App Store, Apple Ads ni App Store Connect; solo habla de una \"tienda de aplicaciones de software en línea\"."
               }
             ]
           }
@@ -199,125 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google Ads에\n연말 AI 제작 도구",
-          "body": "Google Creative Drop #2, 번역·사진·YouTube AI 더했다.",
-          "mini_headline": "Google 연말 AI 광고 도구",
+          "headline": "Apple 특허, 앱 화면\n키워드마다 새로 그린다",
+          "body": "Apple 특허, Stable Diffusion 셋으로 키워드별 이미지를 그린다.",
+          "mini_headline": "Apple 특허,\n스크린숏 재생성",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gstatic.com/marketing-cms/assets/images/ads/1c/4c/496f057d4eea9af7b10020b29137/cd2-3x2-card-01.webp=n-w1050-h700-fcrop64=1,00000000ffffffff-rw",
-                "cap": "Creative Drop #2 들여다보기: 캠페인을 연말 시즌에 맞추는 새 AI 기능"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/apple-patent-ai-app-screenshots-repainted-per-keyword-3-stable-diffusion-stage-maquette-backdrop-rolls.jpg",
+                "cap": "출원 중인 Apple 특허는 헤드라인과 휴대폰은 남기고 키워드마다 앱 스크린숏 배경을 다시 그린다"
               },
               {
                 "t": "p",
-                "x": "Creative Drop #2는 Google Ads Product 팀이 매달 내는 시리즈의 하나로, Google AI로 연말 캠페인을 준비하는 세 가지 방법을 소개한다."
+                "x": "Apple은 2025년 8월 21일 공개된 US 특허 출원 US20250265066A1을 심사받고 있다. 앱 마케팅 이미지나 스크린숏에서 헤드라인과 휴대폰은 그대로 두고 나머지를 키워드에 맞춰 다시 생성한 뒤, 채점 모델이 결과를 걸러내는 시스템이다. ASO Patents 사이트가 2026년 11월 5일 분석 글을 올리면서 다시 주목받았다."
               },
               {
                 "t": "p",
-                "x": "1. Holiday-ready Text: AI Campaign Translation을 쓰면 스페인어, 프랑스어, 독일어, 포르투갈어 등 15개 언어로 Google Ads 안에서 바로 캠페인을 현지화하고 검토해 집행할 수 있다. Product Manager Mindy Lin은 번역된 캠페인을 Paused 상태로 검토해 게시 전에 브랜드 톤을 확정하라고 권한다."
+                "x": "마스킹 엔진은 CenterNet 검출 모델과 Segment Anything Model로 전경을 잘라낸다. 이미지 생성기는 \"stable diffusion 모델의 서로 다른 가중치 세 가지를 구현할 수 있다\". 인페인팅 모델, SDXL, 미세 조정 모델이며, 키워드 프롬프트와 함께 \"NSFW\", \"text\", \"logo\" 같은 네거티브 프롬프트를 쓴다."
               },
               {
                 "t": "p",
-                "x": "2. Holiday-ready Images: Google Ads Asset Studio의 Multimodal 기능으로 이미 가진 일상적인 제품 사진을 겨울 축제나 선물 장면으로 바꾸면서도 브랜드 기준을 지킬 수 있다. Charles Boyd는 Brand Guidelines PDF와 함께 실제 제품 각도 사진 4~5장을 넣고, 프롬프트에 계절 조명을 구체적으로 적으라고 조언한다."
+                "x": "LXMERT-based 이미지 선택기는 각 후보가 키워드와 얼마나 맞는지 점수를 매기고 \"AI 환각\"을 걸러낸다. 선택된 이미지는 스토어 제품 페이지, 웹사이트, 광고에 쓰일 수 있다. 종속 청구항 6과 7은 앱 자체에서 자동 생성한 이미지와 키워드를 다룬다."
               },
               {
                 "t": "p",
-                "x": "3. Holiday-ready assets for YouTube: Google DeepMind가 개선한 영상 생성 모델 Gemini Omni 1.2는 Asset Studio에서 가로·세로·정사각형 비율 전반에 걸쳐 더 높은 일관성과 빠른 대규모 영상 제작을 제공한다. Max Hagler는 첫 3초 안에 서로 다른 오프닝 비주얼 훅 두 가지를 A/B 테스트하라고 권한다."
+                "x": "아직 등록되거나 출시된 것은 없다. 출원서에는 성능 데이터가 없고 App Store, Apple Ads, App Store Connect라는 이름도 나오지 않으며, \"온라인 소프트웨어 애플리케이션 스토어\"라고만 적었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google Adsに\n年末向けAI制作ツール",
-          "body": "Google Creative Drop #2に翻訳・写真・YouTube用AIが加わる。",
-          "mini_headline": "Google 年末向けAI広告ツール",
+          "headline": "Apple特許、アプリ画像を\nキーワード別に描き直す",
+          "body": "Apple特許は三つのStable Diffusionでキーワード別に画像を描き直す。",
+          "mini_headline": "Apple特許、\nスクリーンショット再生成",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gstatic.com/marketing-cms/assets/images/ads/1c/4c/496f057d4eea9af7b10020b29137/cd2-3x2-card-01.webp=n-w1050-h700-fcrop64=1,00000000ffffffff-rw",
-                "cap": "Creative Drop #2の中身:キャンペーンを年末商戦に備える新AI機能"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/apple-patent-ai-app-screenshots-repainted-per-keyword-3-stable-diffusion-stage-maquette-backdrop-rolls.jpg",
+                "cap": "審査中のApple特許は見出しと端末を残し、アプリのスクリーンショット背景をキーワードごとに描き直す"
               },
               {
                 "t": "p",
-                "x": "Creative Drop #2は、Google AdsのProductチームが毎月届けるシリーズの一つで、Google AIを使って年末キャンペーンを準備する三つの方法を紹介する。"
+                "x": "Appleは、2025年8月21日に公開されたUS特許出願US20250265066A1を審査中である。アプリのマーケティング画像やスクリーンショットから見出しと端末を残し、それ以外をキーワードに合わせて再生成したうえで、スコアリングモデルが結果を絞り込む仕組みだ。ASO Patentsサイトが2026年11月5日に解説を公開し、改めて注目を集めた。"
               },
               {
                 "t": "p",
-                "x": "1. Holiday-ready Text:AI Campaign Translationを使えば、スペイン語、フランス語、ドイツ語、ポルトガル語など15言語で、キャンペーンをGoogle Ads内でそのまま現地化・確認・配信できる。Product ManagerのMindy Linは、公開前にブランドのトーンを固めるため、翻訳したキャンペーンをPaused状態で確認するよう勧める。"
+                "x": "マスキングエンジンはCenterNetの検出モデルとSegment Anything Modelで前景を切り抜く。画像生成器は「stable diffusionモデルの三つの異なる重みを実装できる」とされ、インペインティングモデル、SDXL、ファインチューニング済みモデルを、キーワードプロンプトと「NSFW」「text」「logo」などのネガティブプロンプトとともに使う。"
               },
               {
                 "t": "p",
-                "x": "2. Holiday-ready Images:Google Ads Asset StudioのMultimodal機能で、手元にある普段の商品写真を冬のお祝いやギフトの場面に変えつつ、アセットをブランド基準に沿ったまま保てる。Charles Boydは、Brand Guidelines PDFと実際の商品アングル4〜5点を一緒に読み込み、プロンプトで季節の照明を具体的に指定するよう助言する。"
+                "x": "LXMERT-basedの画像セレクターは各候補がキーワードにどれだけ合うかを採点し、「AIハルシネーション」を除外する。選ばれた画像はストアの製品ページ、ウェブサイト、広告に掲載できる。従属請求項6と7は、アプリ自体から自動生成した画像とキーワードを対象とする。"
               },
               {
                 "t": "p",
-                "x": "3. Holiday-ready assets for YouTube:Google DeepMindの最新動画生成モデルGemini Omni 1.2は、Asset Studioで横長・縦長・正方形の各比率にわたり、一貫性を高め、大規模な動画制作を速める。Max Haglerは、冒頭3秒で異なる二つのオープニング映像フックをA/Bテストするよう勧める。"
+                "x": "特許はまだ付与されておらず、製品化もされていない。出願書類には性能データがなく、App Store、Apple Ads、App Store Connectの名称も出てこない。記載は「オンラインソフトウェアアプリケーションストア」のみである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Ads推出\n节日季AI创意工具",
-          "body": "Google Creative Drop #2新增翻译、修图与YouTube视频AI工具。",
-          "mini_headline": "Google节日季AI广告工具",
+          "headline": "Apple专利按关键词\n重绘应用截图",
+          "body": "Apple专利申请用三个Stable Diffusion模型按关键词重绘应用商店图片。",
+          "mini_headline": "Apple专利\n重绘截图",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gstatic.com/marketing-cms/assets/images/ads/1c/4c/496f057d4eea9af7b10020b29137/cd2-3x2-card-01.webp=n-w1050-h700-fcrop64=1,00000000ffffffff-rw",
-                "cap": "Creative Drop #2详解:让广告系列为节日季做好准备的全新AI功能"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/apple-patent-ai-app-screenshots-repainted-per-keyword-3-stable-diffusion-stage-maquette-backdrop-rolls.jpg",
+                "cap": "审查中的Apple专利保留标题和手机，按关键词重绘应用截图背景"
               },
               {
                 "t": "p",
-                "x": "Creative Drop #2是Google Ads Product团队推出的月度系列之一,介绍了借助Google AI为节日广告系列做好准备的三种方式。"
+                "x": "Apple有一项待审的US专利申请US20250265066A1，于2025年8月21日公布，涉及这样一个系统：读取应用的营销图片或截图，保留其中的标题和手机，围绕关键词重新生成其余部分，再由评分模型筛选结果。ASO Patents网站于2026年11月5日发布解读后，这项申请再次受到关注。"
               },
               {
                 "t": "p",
-                "x": "1. Holiday-ready Text:借助AI Campaign Translation,可直接在Google Ads内以西班牙语、法语、德语、葡萄牙语等15种语言本地化、审核并上线广告系列。Product Manager Mindy Lin建议在Paused状态下审核翻译后的广告系列,在上线前锁定品牌语气。"
+                "x": "遮罩引擎使用CenterNet检测模型和Segment Anything Model抠出前景。图像生成器“可实现stable diffusion模型的三种不同权重”，即一个inpainting模型、SDXL和一个微调模型，并配合关键词提示词以及“NSFW”“text”“logo”等负面提示词。"
               },
               {
                 "t": "p",
-                "x": "2. Holiday-ready Images:借助Google Ads Asset Studio的Multimodal功能,可将手头已有的日常产品照片转换为节日冬季或送礼场景,同时让素材符合品牌规范。Charles Boyd建议同时导入Brand Guidelines PDF和4到5张真实产品角度图,并在提示词中具体描述季节性光线。"
+                "x": "LXMERT-based图像选择器为每个候选图与关键词的匹配度打分，并过滤“AI幻觉”，选中的图像可用于商店产品页、网站或广告。从属权利要求6和7涵盖由应用本身自动生成的图像和关键词。"
               },
               {
                 "t": "p",
-                "x": "3. Holiday-ready assets for YouTube:Google DeepMind更新后的视频生成模型Gemini Omni 1.2在Asset Studio中带来更强的一致性和更快的规模化视频制作,覆盖横版、竖版和方形比例。Max Hagler建议在前3秒内对两种不同的开场视觉钩子进行A/B测试。"
+                "x": "该专利尚未获批，也未落地。申请文件没有任何性能数据，也从未提及App Store、Apple Ads或App Store Connect，只称其为“在线软件应用商店”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Ads lanza herramientas\ncreativas de AI para fiestas",
-          "body": "Creative Drop #2 de Google añade AI para traducir anuncios, reambientar fotos de producto y crear videos de YouTube.",
-          "mini_headline": "Herramientas AI de Google para fiestas",
+          "headline": "Patente de Apple redibuja\ncapturas por palabra clave",
+          "body": "Una patente de Apple usa tres modelos Stable Diffusion para redibujar imágenes de tienda de apps por palabra clave.",
+          "mini_headline": "Patente de Apple\nrehace capturas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gstatic.com/marketing-cms/assets/images/ads/1c/4c/496f057d4eea9af7b10020b29137/cd2-3x2-card-01.webp=n-w1050-h700-fcrop64=1,00000000ffffffff-rw",
-                "cap": "Dentro de Creative Drop #2: nuevas funciones de AI para preparar sus campañas para las fiestas"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/apple-patent-ai-app-screenshots-repainted-per-keyword-3-stable-diffusion-stage-maquette-backdrop-rolls.jpg",
+                "cap": "La patente pendiente de Apple conserva el titular y el teléfono, y redibuja los fondos de las capturas de la app por palabra clave"
               },
               {
                 "t": "p",
-                "x": "Creative Drop #2, parte de la serie mensual de Google Ads elaborada por sus equipos Product, presenta tres formas de preparar las campañas de fiestas con Google AI."
+                "x": "Apple tiene pendiente una solicitud de patente US, US20250265066A1, publicada el 21 de agosto de 2025, para un sistema que toma una imagen de marketing o una captura de pantalla de una app, conserva el titular y el teléfono, y regenera todo lo demás en torno a una palabra clave antes de que un modelo de puntuación filtre los resultados. Volvió a llamar la atención después de que el sitio ASO Patents publicara un análisis el 5 de noviembre de 2026."
               },
               {
                 "t": "p",
-                "x": "1. Holiday-ready Text: con AI Campaign Translation se pueden localizar, revisar y lanzar campañas directamente en Google Ads en 15 idiomas, entre ellos español, francés, alemán, portugués y otros. La Product Manager Mindy Lin sugiere revisar las campañas traducidas en estado Paused para fijar el tono de marca antes de que se publiquen."
+                "x": "Un motor de enmascarado usa un modelo de detección CenterNet y un Segment Anything Model para recortar el primer plano. El generador de imágenes \"puede implementar tres pesos distintos del modelo stable diffusion\" (un modelo de inpainting, SDXL y un modelo ajustado) con prompts de palabra clave y prompts negativos como \"NSFW\", \"text\" y \"logo\"."
               },
               {
                 "t": "p",
-                "x": "2. Holiday-ready Images: con las capacidades Multimodal de Google Ads Asset Studio, las fotos de producto cotidianas que ya se tienen pueden convertirse en escenas festivas de invierno o de regalo, manteniendo los recursos conformes a la marca. Charles Boyd aconseja importar un PDF de Brand Guidelines junto con 4 a 5 ángulos reales del producto y ser específico sobre la iluminación estacional en el prompt."
+                "x": "Un selector de imágenes LXMERT-based puntúa cuánto se ajusta cada candidata a la palabra clave y filtra las \"alucinaciones de AI\", y la imagen elegida puede colocarse en una página de producto de la tienda, un sitio web o un anuncio. Las reivindicaciones dependientes 6 y 7 cubren imágenes y palabras clave generadas automáticamente a partir de la propia app."
               },
               {
                 "t": "p",
-                "x": "3. Holiday-ready assets for YouTube: Gemini Omni 1.2, el modelo de generación de video actualizado de Google DeepMind, aporta mayor coherencia y una creación de videos más rápida a escala en Asset Studio, en formatos horizontal, vertical y cuadrado. Max Hagler recomienda hacer pruebas A/B con dos ganchos visuales de apertura distintos en los primeros 3 segundos."
+                "x": "No se ha concedido ni lanzado nada. La solicitud no incluye datos de rendimiento y nunca menciona App Store, Apple Ads ni App Store Connect; solo habla de una \"tienda de aplicaciones de software en línea\"."
               }
             ]
           }
@@ -325,165 +325,195 @@
       }
     },
     {
-      "id": "jet-jetads-retail-media",
+      "id": "lebron-bron-ai-likeness-ad",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "JET, AI-first\n광고 플랫폼 JETads",
-      "body": "JETads는 14개 시장에 JET 개인화와 closed-loop 측정을 묶었다.",
-      "mini_headline": "JET, JETads 출시",
+      "headline": "LeBron 측, 베팅 앱\nBron AI 광고 겨냥",
+      "body": "LeBron James 측이 베팅 앱 Bron AI의 AI 광고 삭제를 요구했다.",
+      "mini_headline": "LeBron 측,\nBron AI 광고 겨냥",
       "tool": "Marketing",
-      "source": "Just Eat Takeaway.com",
-      "url": "https://newsroom.justeattakeaway.com/en-WW/274080-just-eat-takeaway-com-launches-jetads-a-new-ai-first-advertising-platform-for-european-advertisers/",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/onsi/athlete-lifestyle/lebron-james-takes-legal-action-over-ai-ad-that-crossed-a-line",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Just Eat Takeaway.com(JET)이 유럽 광고주용 광고 플랫폼 JETads를 새로 내놓았다. 14개 시장의 활성 소비자 5,900만 명과 연간 주문 5억9,200만 건, 342,000곳 넘는 파트너에 닿는다. 오늘부터 전 시장에서 가동한다."
-          },
-          {
             "t": "img",
-            "src": "https://d21buns5ku92am.cloudfront.net/69466/images/714382-image_20261104135837_alq-494b13-original-1793801006.png"
+            "src": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4378,h_2462/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/01m6pxtcsy8xmktktfdb-c0e361ab794fb66f5c62234cf143b62d.webp",
+            "cap": "두 번째 쿼터에 Chicago Bulls전을 지켜보는 Philadelphia 76ers 포워드 LeBron James. | IMAGN IMAGES via Reuters Connect"
           },
           {
             "t": "p",
-            "x": "JETads의 바탕은 소비자와 파트너가 주고받은 수십억 건의 상호작용을 분석하는 JET의 개인화 기술이다. 광고주는 세 그룹으로 나뉜다. 레스토랑·식료품 파트너는 검색과 탐색 화면에서 프리미엄 노출을 얻는다. FMCG 브랜드는 장바구니를 채우는 쇼핑객을 만나고, 광고비가 장바구니 추가와 완료 주문으로 이어지는 흐름을 보여주는 closed-loop 리포트를 받는다. non-endemic 브랜드의 자리는 결제 이후다. 고객이 최대 30분간 주문을 추적하는 그 시간에 고객을 만난다."
+            "x": "LeBron James가 인공지능 스포츠 베팅 앱 Bron AI에 중단 요구 서한을 보냈다. 앱 홍보 영상에 James와 놀랄 만큼 닮은 캐릭터가 나와서다."
           },
           {
             "t": "p",
-            "x": "Chief Growth Officer David Vismans는 \"우리는 AI 시대를 위해 JETads를 처음부터 새로 만들었다\"고 말했다. JETads의 엔진은 JET의 모회사 Prosus가 개발한 커머스 AI, Prosus Large Commerce Model(LCM)이다. 이 모델은 실제 고객 행동을 학습해 고객이 원할 만한 것을 원할 만한 순간에 내놓는다. 화요일 점심과 금요일 밤에 보여주는 레스토랑이 달라지는 식이다."
+            "x": "Front Office Sports의 11월 5일(Nov. 5) 보도를 보면, 영상 속 James를 닮은(James-like) 캐릭터가 별명 \"Bron\"과 낯익은 등번호 No. 23이 박힌 농구 유니폼 차림으로 James 비슷한 목소리를 내며 앱을 소개한다. 앱은 베팅 배당률 분석 도구와 다른 플랫폼을 거친 베팅 기능을 내세운다. 수요일 올라온 영상은 24시간도 안 돼 조회수 900,000회를 넘겼다고 한다."
+          },
+          {
+            "t": "p",
+            "x": "James 측 대변인은 Front Office Sports에 \"LeBron은 자신의 초상을 무단으로 사용한 이번 일과 어떤 관계도 없다\"고 말했다. 서한은 회사가 James의 이름과 별명, 외모처럼 신원을 드러내는 특징을 쓴 데 이의를 제기하며, James가 이 사업과 무관하다는 사실을 이용자에게 서면으로 알리라고 요구한다. 영상은 보도 뒤 X에서는 내려갔지만 Instagram에는 그대로 남았다."
+          },
+          {
+            "t": "p",
+            "x": "James는 Polymarket과 독점 광고 계약을 맺은 상태다. 변호인단은 이번 홍보가 또 다른 상업적 관계가 있는 것처럼 오해를 부른다고 주장한다. NBA 규정상 선수는 리그 경기에 베팅할 수 없다. Luka Doncic 측 관계자도 Bron AI에 중단 요구 서한을 보냈다고 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Just Eat Takeaway launches\nAI-first JETads platform",
-          "body": "JETads goes live in 14 markets, pairing JET's personalisation models with closed-loop ad measurement.",
-          "mini_headline": "JET launches JETads",
+          "headline": "LeBron's reps target AI ad\nfor betting app Bron AI",
+          "body": "LeBron James's reps are demanding a viral AI ad for betting app Bron AI be pulled, saying it used his likeness.",
+          "mini_headline": "LeBron reps target\nBron AI ad",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Just Eat Takeaway.com (JET) announced the launch of JETads, a new advertising platform for European advertisers, with reach across 59 million active consumers, 592 million orders per year and more than 342,000 partners in 14 markets. It is live across all of them from today."
-              },
-              {
                 "t": "img",
-                "src": "https://d21buns5ku92am.cloudfront.net/69466/images/714382-image_20261104135837_alq-494b13-original-1793801006.png"
+                "src": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4378,h_2462/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/01m6pxtcsy8xmktktfdb-c0e361ab794fb66f5c62234cf143b62d.webp",
+                "cap": "Philadelphia 76ers forward LeBron James looks on during the second quarter against the Chicago Bulls. | IMAGN IMAGES via Reuters Connect"
               },
               {
                 "t": "p",
-                "x": "JETads builds on JET's personalisation technology, which analyses billions of interactions between consumers and partners. It serves three advertiser groups: restaurant and grocery partners get premium visibility in search and browse; FMCG brands reach shoppers as they build baskets, with closed-loop reporting that connects spend to basket adds and completed orders; and non-endemic brands reach customers in the post-checkout window, while they follow their orders for up to 30 minutes."
+                "x": "LeBron James has sent a cease-and-desist letter to Bron AI, an artificial intelligence-powered sports betting app whose promotional video features a character bearing a striking resemblance to James."
               },
               {
                 "t": "p",
-                "x": "\"We built JETads from scratch, for the AI era,\" said David Vismans, Chief Growth Officer. JETads uses the Prosus Large Commerce Model (LCM), a commerce AI developed by JET's parent group Prosus, which learns from real customer behaviour to surface what a customer is likely to want at the moment they are likely to want it — such as different restaurants on a Friday night than on a Tuesday lunchtime."
+                "x": "According to a Nov. 5 report from Front Office Sports, the video features a James-like character wearing a basketball jersey with the nickname \"Bron\" and his familiar No. 23, speaking in a voice resembling James' as he browses the app, which promotes tools for analyzing betting odds and placing wagers through other platforms. Posted Wednesday, it reportedly drew more than 900,000 views in less than 24 hours."
+              },
+              {
+                "t": "p",
+                "x": "\"LeBron is in no way affiliated with this unauthorized use of his likeness,\" a spokesperson for James told Front Office Sports. The letter objects to the company's use of James' name, nickname, appearance and other identifying characteristics, and demands that it inform its users in writing that James has no involvement with the business. The video was removed from X after the report, though it remained on Instagram."
+              },
+              {
+                "t": "p",
+                "x": "James has an exclusive endorsement agreement with Polymarket; his attorneys argue the promotion creates a misleading impression of another commercial relationship. NBA rules prohibit players from wagering on league games. A representative for Luka Doncic said he had also sent Bron AI a cease-and-desist letter."
               }
             ]
           }
         },
         "ko": {
-          "headline": "JET, AI-first\n광고 플랫폼 JETads",
-          "body": "JETads는 14개 시장에 JET 개인화와 closed-loop 측정을 묶었다.",
-          "mini_headline": "JET, JETads 출시",
+          "headline": "LeBron 측, 베팅 앱\nBron AI 광고 겨냥",
+          "body": "LeBron James 측이 베팅 앱 Bron AI의 AI 광고 삭제를 요구했다.",
+          "mini_headline": "LeBron 측,\nBron AI 광고 겨냥",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Just Eat Takeaway.com(JET)이 유럽 광고주용 광고 플랫폼 JETads를 새로 내놓았다. 14개 시장의 활성 소비자 5,900만 명과 연간 주문 5억9,200만 건, 342,000곳 넘는 파트너에 닿는다. 오늘부터 전 시장에서 가동한다."
-              },
-              {
                 "t": "img",
-                "src": "https://d21buns5ku92am.cloudfront.net/69466/images/714382-image_20261104135837_alq-494b13-original-1793801006.png"
+                "src": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4378,h_2462/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/01m6pxtcsy8xmktktfdb-c0e361ab794fb66f5c62234cf143b62d.webp",
+                "cap": "두 번째 쿼터에 Chicago Bulls전을 지켜보는 Philadelphia 76ers 포워드 LeBron James. | IMAGN IMAGES via Reuters Connect"
               },
               {
                 "t": "p",
-                "x": "JETads의 바탕은 소비자와 파트너가 주고받은 수십억 건의 상호작용을 분석하는 JET의 개인화 기술이다. 광고주는 세 그룹으로 나뉜다. 레스토랑·식료품 파트너는 검색과 탐색 화면에서 프리미엄 노출을 얻는다. FMCG 브랜드는 장바구니를 채우는 쇼핑객을 만나고, 광고비가 장바구니 추가와 완료 주문으로 이어지는 흐름을 보여주는 closed-loop 리포트를 받는다. non-endemic 브랜드의 자리는 결제 이후다. 고객이 최대 30분간 주문을 추적하는 그 시간에 고객을 만난다."
+                "x": "LeBron James가 인공지능 스포츠 베팅 앱 Bron AI에 중단 요구 서한을 보냈다. 앱 홍보 영상에 James와 놀랄 만큼 닮은 캐릭터가 나와서다."
               },
               {
                 "t": "p",
-                "x": "Chief Growth Officer David Vismans는 \"우리는 AI 시대를 위해 JETads를 처음부터 새로 만들었다\"고 말했다. JETads의 엔진은 JET의 모회사 Prosus가 개발한 커머스 AI, Prosus Large Commerce Model(LCM)이다. 이 모델은 실제 고객 행동을 학습해 고객이 원할 만한 것을 원할 만한 순간에 내놓는다. 화요일 점심과 금요일 밤에 보여주는 레스토랑이 달라지는 식이다."
+                "x": "Front Office Sports의 11월 5일(Nov. 5) 보도를 보면, 영상 속 James를 닮은(James-like) 캐릭터가 별명 \"Bron\"과 낯익은 등번호 No. 23이 박힌 농구 유니폼 차림으로 James 비슷한 목소리를 내며 앱을 소개한다. 앱은 베팅 배당률 분석 도구와 다른 플랫폼을 거친 베팅 기능을 내세운다. 수요일 올라온 영상은 24시간도 안 돼 조회수 900,000회를 넘겼다고 한다."
+              },
+              {
+                "t": "p",
+                "x": "James 측 대변인은 Front Office Sports에 \"LeBron은 자신의 초상을 무단으로 사용한 이번 일과 어떤 관계도 없다\"고 말했다. 서한은 회사가 James의 이름과 별명, 외모처럼 신원을 드러내는 특징을 쓴 데 이의를 제기하며, James가 이 사업과 무관하다는 사실을 이용자에게 서면으로 알리라고 요구한다. 영상은 보도 뒤 X에서는 내려갔지만 Instagram에는 그대로 남았다."
+              },
+              {
+                "t": "p",
+                "x": "James는 Polymarket과 독점 광고 계약을 맺은 상태다. 변호인단은 이번 홍보가 또 다른 상업적 관계가 있는 것처럼 오해를 부른다고 주장한다. NBA 규정상 선수는 리그 경기에 베팅할 수 없다. Luka Doncic 측 관계자도 Bron AI에 중단 요구 서한을 보냈다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "JET、AI-firstの\n広告基盤JETads",
-          "body": "JETadsは14市場でJETの個人化モデルとclosed-loop計測を組み合わせる。",
-          "mini_headline": "JETがJETadsを開始",
+          "headline": "LeBron側が抗議\nBron AIのAI広告",
+          "body": "LeBron James側は賭けアプリBron AIのAI広告に肖像使用で削除を要求した。",
+          "mini_headline": "LeBron側、\nBron AI広告に抗議",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Just Eat Takeaway.com(JET)は、欧州の広告主向けの新しい広告プラットフォームJETadsの開始を発表した。14市場で5,900万人のアクティブ消費者、年間5億9,200万件の注文、342,000以上のパートナーにリーチする。本日から全市場で稼働している。"
-              },
-              {
                 "t": "img",
-                "src": "https://d21buns5ku92am.cloudfront.net/69466/images/714382-image_20261104135837_alq-494b13-original-1793801006.png"
+                "src": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4378,h_2462/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/01m6pxtcsy8xmktktfdb-c0e361ab794fb66f5c62234cf143b62d.webp",
+                "cap": "Chicago Bulls戦の第二クォーターで試合を見つめるPhiladelphia 76ersのフォワード、LeBron James。| IMAGN IMAGES via Reuters Connect"
               },
               {
                 "t": "p",
-                "x": "JETadsは、消費者とパートナー間の数十億件のやり取りを分析するJETのパーソナライゼーション技術を基盤とする。対象は三つの広告主グループだ。レストランと食料品のパートナーは検索や閲覧画面で目立つ露出を得る。FMCGブランドは買い物かごを作る段階の買い物客に届き、広告費をかごへの追加や完了した注文に結び付けるclosed-loopレポートを使える。non-endemicブランドは、注文確定後、顧客が最大30分にわたり注文を追跡する時間帯に顧客へ届く。"
+                "x": "LeBron Jamesは、人工知能を活用したスポーツ賭博アプリBron AIに停止要求書を送った。同アプリのプロモーション動画には、Jamesに酷似したキャラクターが登場する。"
               },
               {
                 "t": "p",
-                "x": "「JETadsはAI時代に向けてゼロから作った」とChief Growth OfficerのDavid Vismansは語った。JETadsは、JETの親会社Prosusが開発したコマースAI「Prosus Large Commerce Model(LCM)」を使う。実際の顧客行動から学び、顧客が欲しがりそうなものを欲しがりそうな瞬間に示す。たとえば火曜の昼と金曜の夜では異なるレストランを出す。"
+                "x": "Front Office Sportsの11月5日(Nov. 5)の報道によると、動画ではJamesに似た(James-like)キャラクターが、愛称「Bron」とおなじみの背番号No. 23が入ったバスケットボールのジャージを着て、Jamesに似た声で話しながらアプリを操作する。アプリは賭けのオッズを分析するツールや、他のプラットフォーム経由で賭けるツールを宣伝している。水曜日に投稿された動画は、24時間足らずで900,000回を超える再生を記録したという。"
+              },
+              {
+                "t": "p",
+                "x": "James側の広報担当者はFront Office Sportsに「LeBronは、自身の肖像を無断で使ったこの件とは一切関係がない」と語った。書簡は、同社がJamesの名前、愛称、外見などの識別可能な特徴を使ったことに異議を唱え、Jamesが事業に関与していないことを利用者に書面で知らせるよう求めている。動画は報道後にXから削除されたが、Instagramには残っていた。"
+              },
+              {
+                "t": "p",
+                "x": "JamesはPolymarketと独占的な広告契約を結んでおり、弁護士らはこの宣伝が別の商業的関係があるかのような誤解を招くと主張する。NBAの規則は選手がリーグの試合に賭けることを禁じている。Luka Doncicの代理人も、Bron AIに停止要求書を送ったと明らかにした。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "JET推出AI-first\n广告平台JETads",
-          "body": "JETads在14个市场上线,结合JET个性化模型与closed-loop广告衡量。",
-          "mini_headline": "JET推出JETads",
+          "headline": "LeBron团队要求撤下\n博彩应用Bron AI广告",
+          "body": "LeBron James团队称博彩应用Bron AI的爆红AI广告盗用其肖像，要求撤下。",
+          "mini_headline": "LeBron团队\n剑指Bron AI广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Just Eat Takeaway.com(JET)宣布推出面向欧洲广告主的全新广告平台JETads,覆盖14个市场的5900万活跃消费者、每年5.92亿笔订单以及超过342,000家合作伙伴。即日起已在全部市场上线。"
-              },
-              {
                 "t": "img",
-                "src": "https://d21buns5ku92am.cloudfront.net/69466/images/714382-image_20261104135837_alq-494b13-original-1793801006.png"
+                "src": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4378,h_2462/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/01m6pxtcsy8xmktktfdb-c0e361ab794fb66f5c62234cf143b62d.webp",
+                "cap": "Philadelphia 76ers前锋LeBron James在对阵Chicago Bulls的第二节比赛中观战。| IMAGN IMAGES via Reuters Connect"
               },
               {
                 "t": "p",
-                "x": "JETads以JET的个性化技术为基础,该技术分析消费者与合作伙伴之间的数十亿次互动。平台服务三类广告主:餐厅和生鲜杂货合作伙伴在搜索和浏览中获得优质曝光;FMCG品牌在购物者添加购物篮时触达他们,并通过closed-loop报告将投放花费与加购和完成订单相关联;non-endemic品牌则在结账后的时段触达顾客,此时顾客会追踪订单长达30分钟。"
+                "x": "LeBron James已向Bron AI发出停止侵权函。Bron AI是一款人工智能驱动的体育博彩应用，其宣传视频中出现了一个与James极为相像的角色。"
               },
               {
                 "t": "p",
-                "x": "“我们为AI时代从零打造了JETads,”Chief Growth Officer David Vismans表示。JETads采用JET母公司Prosus开发的商业AI——Prosus Large Commerce Model(LCM),它从真实顾客行为中学习,在顾客可能想要某样东西的时刻呈现其可能想要的内容,例如周五晚上和周二午餐时段推荐的餐厅各不相同。"
+                "x": "据Front Office Sports 11月5日（Nov. 5）的报道，视频中这个酷似James（James-like）的角色身穿印有昵称“Bron”和他熟悉的No. 23号码的篮球球衣，用类似James的声音一边浏览应用一边讲解。该应用宣传的是分析博彩赔率、并通过其他平台下注的工具。据报道，视频于周三发布，不到24小时观看量就超过900,000次。"
+              },
+              {
+                "t": "p",
+                "x": "James的一位发言人对Front Office Sports表示：“LeBron与这起未经授权使用其肖像的行为没有任何关联。”函件反对该公司使用James的姓名、昵称、外貌及其他可识别特征，并要求其书面告知用户James与该业务毫无关系。报道发布后，视频已从X上删除，但仍保留在Instagram上。"
+              },
+              {
+                "t": "p",
+                "x": "James与Polymarket签有独家代言协议；他的律师认为，这次宣传会让人误以为双方存在另一层商业关系。NBA规则禁止球员对联盟比赛下注。Luka Doncic的一名代表表示，他也已向Bron AI发出停止侵权函。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Just Eat Takeaway lanza\nJETads, plataforma AI-first",
-          "body": "JETads arranca en 14 mercados y combina los modelos de personalización de JET con medición publicitaria closed-loop.",
-          "mini_headline": "JET lanza JETads",
+          "headline": "El entorno de LeBron va contra\nun anuncio AI de Bron AI",
+          "body": "Los agentes de LeBron James exigen retirar un anuncio viral de AI de la app de apuestas Bron AI por usar su imagen.",
+          "mini_headline": "LeBron va contra\nel anuncio de Bron AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Just Eat Takeaway.com (JET) anunció el lanzamiento de JETads, una nueva plataforma publicitaria para anunciantes europeos, con alcance a 59 millones de consumidores activos, 592 millones de pedidos al año y más de 342,000 socios en 14 mercados. Está activa en todos ellos desde hoy."
-              },
-              {
                 "t": "img",
-                "src": "https://d21buns5ku92am.cloudfront.net/69466/images/714382-image_20261104135837_alq-494b13-original-1793801006.png"
+                "src": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4378,h_2462/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/01m6pxtcsy8xmktktfdb-c0e361ab794fb66f5c62234cf143b62d.webp",
+                "cap": "LeBron James, alero de los Philadelphia 76ers, observa durante el segundo cuarto ante los Chicago Bulls. | IMAGN IMAGES via Reuters Connect"
               },
               {
                 "t": "p",
-                "x": "JETads se basa en la tecnología de personalización de JET, que analiza miles de millones de interacciones entre consumidores y socios. Atiende a tres grupos de anunciantes: los restaurantes y socios de alimentación obtienen visibilidad premium en búsqueda y navegación; las marcas FMCG llegan a los compradores mientras llenan su cesta, con informes closed-loop que vinculan el gasto con los productos añadidos a la cesta y los pedidos completados; y las marcas non-endemic llegan a los clientes en la ventana posterior al pago, mientras siguen sus pedidos durante hasta 30 minutos."
+                "x": "LeBron James ha enviado una carta de cese y desistimiento a Bron AI, una app de apuestas deportivas impulsada por inteligencia artificial cuyo video promocional muestra a un personaje con un parecido notable con James."
               },
               {
                 "t": "p",
-                "x": "\"Creamos JETads desde cero, para la era de la AI\", dijo David Vismans, Chief Growth Officer. JETads utiliza el Prosus Large Commerce Model (LCM), una AI de comercio desarrollada por Prosus, grupo matriz de JET, que aprende del comportamiento real de los clientes para mostrar lo que probablemente quieran en el momento en que probablemente lo quieran, como restaurantes distintos un viernes por la noche que un martes al mediodía."
+                "x": "Según un informe de Front Office Sports del 5 de noviembre (Nov. 5), el video muestra a un personaje similar a James (James-like) con una camiseta de baloncesto con el apodo \"Bron\" y su conocido No. 23, que habla con una voz parecida a la de James mientras navega por la app, la cual promociona herramientas para analizar cuotas de apuestas y apostar a través de otras plataformas. Publicado el miércoles, habría superado las 900,000 visualizaciones en menos de 24 horas."
+              },
+              {
+                "t": "p",
+                "x": "\"LeBron no tiene ninguna relación con este uso no autorizado de su imagen\", dijo un portavoz de James a Front Office Sports. La carta objeta el uso por parte de la empresa del nombre, el apodo, la apariencia y otras características identificativas de James, y exige que informe por escrito a sus usuarios de que James no tiene ninguna participación en el negocio. El video fue retirado de X tras el informe, aunque seguía en Instagram."
+              },
+              {
+                "t": "p",
+                "x": "James tiene un acuerdo exclusivo de patrocinio con Polymarket; sus abogados sostienen que la promoción crea la impresión engañosa de otra relación comercial. Las normas de la NBA prohíben a los jugadores apostar en partidos de la liga. Un representante de Luka Doncic dijo que él también había enviado a Bron AI una carta de cese y desistimiento."
               }
             ]
           }
@@ -491,105 +521,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "JET, AI-first\n광고 플랫폼 JETads",
-          "body": "JETads는 14개 시장서 JET 개인화·closed-loop 측정을 묶는다.",
-          "mini_headline": "JET, JETads 출시",
+          "headline": "LeBron 측, 베팅 앱\nBron AI 광고 겨냥",
+          "body": "LeBron James 측이 베팅 앱 Bron AI의 AI 광고 삭제를 요구했다.",
+          "mini_headline": "LeBron 측,\nBron AI 광고 겨냥",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Just Eat Takeaway.com(JET)이 유럽 광고주를 위한 새 광고 플랫폼 JETads를 출시했다. 14개 시장에서 활성 소비자 5,900만 명, 연간 주문 5억9,200만 건, 342,000곳이 넘는 파트너에 닿는다. 오늘부터 모든 시장에서 가동한다."
-              },
-              {
                 "t": "img",
-                "src": "https://d21buns5ku92am.cloudfront.net/69466/images/714382-image_20261104135837_alq-494b13-original-1793801006.png"
+                "src": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4378,h_2462/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/01m6pxtcsy8xmktktfdb-c0e361ab794fb66f5c62234cf143b62d.webp",
+                "cap": "Philadelphia 76ers 포워드 LeBron James가 Chicago Bulls전 두 번째 쿼터에 경기를 지켜보고 있다. | IMAGN IMAGES via Reuters Connect"
               },
               {
                 "t": "p",
-                "x": "JETads는 소비자와 파트너 사이의 수십억 건 상호작용을 분석하는 JET의 개인화 기술을 토대로 한다. 광고주는 세 그룹으로 나뉜다. 레스토랑·식료품 파트너는 검색과 탐색 화면에서 프리미엄 노출을 얻는다. FMCG 브랜드는 장바구니를 채우는 쇼핑객에게 닿고, 광고비를 장바구니 추가와 완료 주문으로 잇는 closed-loop 리포트를 받는다. non-endemic 브랜드는 결제 이후, 고객이 최대 30분간 주문을 추적하는 시간대에 고객에게 닿는다."
+                "x": "LeBron James가 인공지능 기반 스포츠 베팅 앱 Bron AI에 중단 요구 서한을 보냈다. 이 앱의 홍보 영상에는 James와 놀랄 만큼 닮은 캐릭터가 나온다."
               },
               {
                 "t": "p",
-                "x": "Chief Growth Officer David Vismans는 \"우리는 AI 시대를 위해 JETads를 처음부터 새로 만들었다\"고 말했다. JETads는 JET의 모회사 Prosus가 개발한 커머스 AI인 Prosus Large Commerce Model(LCM)을 쓴다. 이 모델은 실제 고객 행동을 학습해 고객이 원할 법한 것을 원할 법한 순간에 보여준다. 화요일 점심과 금요일 밤에 서로 다른 레스토랑을 보여주는 식이다."
+                "x": "Front Office Sports의 11월 5일(Nov. 5) 보도에 따르면, 영상 속 James를 닮은(James-like) 캐릭터는 별명 \"Bron\"과 익숙한 등번호 No. 23이 적힌 농구 유니폼을 입고 James와 비슷한 목소리로 앱을 둘러본다. 이 앱은 베팅 배당률 분석 도구와 다른 플랫폼을 통한 베팅 기능을 홍보한다. 수요일에 게시된 영상은 24시간도 안 돼 조회수 900,000회를 넘긴 것으로 알려졌다."
+              },
+              {
+                "t": "p",
+                "x": "James 측 대변인은 Front Office Sports에 \"LeBron은 자신의 초상을 무단으로 사용한 이번 일과 어떤 관계도 없다\"고 말했다. 서한은 회사가 James의 이름, 별명, 외모 등 신원을 드러내는 특징을 쓴 데 이의를 제기하고, James가 이 사업과 무관하다는 사실을 이용자에게 서면으로 알리라고 요구한다. 영상은 보도 후 X에서 내려갔지만 Instagram에는 남아 있었다."
+              },
+              {
+                "t": "p",
+                "x": "James는 Polymarket과 독점 광고 계약을 맺고 있으며, 변호인단은 이번 홍보가 또 다른 상업적 관계가 있는 듯한 오해를 낳는다고 주장한다. NBA 규정은 선수가 리그 경기에 베팅하는 것을 금지한다. Luka Doncic 측 관계자도 Bron AI에 중단 요구 서한을 보냈다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "JET、AI-firstの\n広告基盤JETads",
-          "body": "JETadsは14市場でJETの個人化モデルとclosed-loop計測を組み合わせる。",
-          "mini_headline": "JETがJETadsを開始",
+          "headline": "LeBron側が抗議\nBron AIのAI広告",
+          "body": "LeBron James側は賭けアプリBron AIのAI広告に肖像使用で削除を要求した。",
+          "mini_headline": "LeBron側、\nBron AI広告に抗議",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Just Eat Takeaway.com(JET)は、欧州の広告主向けの新しい広告プラットフォームJETadsの開始を発表した。14市場で5,900万人のアクティブ消費者、年間5億9,200万件の注文、342,000以上のパートナーにリーチする。本日から全市場で稼働している。"
-              },
-              {
                 "t": "img",
-                "src": "https://d21buns5ku92am.cloudfront.net/69466/images/714382-image_20261104135837_alq-494b13-original-1793801006.png"
+                "src": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4378,h_2462/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/01m6pxtcsy8xmktktfdb-c0e361ab794fb66f5c62234cf143b62d.webp",
+                "cap": "Chicago Bulls戦の第二クォーターで試合を見つめるPhiladelphia 76ersのフォワード、LeBron James。| IMAGN IMAGES via Reuters Connect"
               },
               {
                 "t": "p",
-                "x": "JETadsは、消費者とパートナー間の数十億件のやり取りを分析するJETのパーソナライゼーション技術を基盤とする。対象は三つの広告主グループだ。レストランと食料品のパートナーは検索や閲覧画面で目立つ露出を得る。FMCGブランドは買い物かごを作る段階の買い物客に届き、広告費をかごへの追加や完了した注文に結び付けるclosed-loopレポートを使える。non-endemicブランドは、注文確定後、顧客が最大30分にわたり注文を追跡する時間帯に顧客へ届く。"
+                "x": "LeBron Jamesは、人工知能を活用したスポーツ賭博アプリBron AIに停止要求書を送った。同アプリのプロモーション動画には、Jamesに酷似したキャラクターが登場する。"
               },
               {
                 "t": "p",
-                "x": "「JETadsはAI時代に向けてゼロから作った」とChief Growth OfficerのDavid Vismansは語った。JETadsは、JETの親会社Prosusが開発したコマースAI「Prosus Large Commerce Model(LCM)」を使う。実際の顧客行動から学び、顧客が欲しがりそうなものを欲しがりそうな瞬間に示す。たとえば火曜の昼と金曜の夜では異なるレストランを出す。"
+                "x": "Front Office Sportsの11月5日(Nov. 5)の報道によると、動画ではJamesに似た(James-like)キャラクターが、愛称「Bron」とおなじみの背番号No. 23が入ったバスケットボールのジャージを着て、Jamesに似た声で話しながらアプリを操作する。アプリは賭けのオッズを分析するツールや、他のプラットフォーム経由で賭けるツールを宣伝している。水曜日に投稿された動画は、24時間足らずで900,000回を超える再生を記録したという。"
+              },
+              {
+                "t": "p",
+                "x": "James側の広報担当者はFront Office Sportsに「LeBronは、自身の肖像を無断で使ったこの件とは一切関係がない」と語った。書簡は、同社がJamesの名前、愛称、外見などの識別可能な特徴を使ったことに異議を唱え、Jamesが事業に関与していないことを利用者に書面で知らせるよう求めている。動画は報道後にXから削除されたが、Instagramには残っていた。"
+              },
+              {
+                "t": "p",
+                "x": "JamesはPolymarketと独占的な広告契約を結んでおり、弁護士らはこの宣伝が別の商業的関係があるかのような誤解を招くと主張する。NBAの規則は選手がリーグの試合に賭けることを禁じている。Luka Doncicの代理人も、Bron AIに停止要求書を送ったと明らかにした。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "JET推出AI-first\n广告平台JETads",
-          "body": "JETads在14个市场上线,结合JET个性化模型与closed-loop广告衡量。",
-          "mini_headline": "JET推出JETads",
+          "headline": "LeBron团队要求撤下\n博彩应用Bron AI广告",
+          "body": "LeBron James团队称博彩应用Bron AI的爆红AI广告盗用其肖像，要求撤下。",
+          "mini_headline": "LeBron团队\n剑指Bron AI广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Just Eat Takeaway.com(JET)宣布推出面向欧洲广告主的全新广告平台JETads,覆盖14个市场的5900万活跃消费者、每年5.92亿笔订单以及超过342,000家合作伙伴。即日起已在全部市场上线。"
-              },
-              {
                 "t": "img",
-                "src": "https://d21buns5ku92am.cloudfront.net/69466/images/714382-image_20261104135837_alq-494b13-original-1793801006.png"
+                "src": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4378,h_2462/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/01m6pxtcsy8xmktktfdb-c0e361ab794fb66f5c62234cf143b62d.webp",
+                "cap": "Philadelphia 76ers前锋LeBron James在对阵Chicago Bulls的第二节比赛中观战。| IMAGN IMAGES via Reuters Connect"
               },
               {
                 "t": "p",
-                "x": "JETads以JET的个性化技术为基础,该技术分析消费者与合作伙伴之间的数十亿次互动。平台服务三类广告主:餐厅和生鲜杂货合作伙伴在搜索和浏览中获得优质曝光;FMCG品牌在购物者添加购物篮时触达他们,并通过closed-loop报告将投放花费与加购和完成订单相关联;non-endemic品牌则在结账后的时段触达顾客,此时顾客会追踪订单长达30分钟。"
+                "x": "LeBron James已向Bron AI发出停止侵权函。Bron AI是一款人工智能驱动的体育博彩应用，其宣传视频中出现了一个与James极为相像的角色。"
               },
               {
                 "t": "p",
-                "x": "“我们为AI时代从零打造了JETads,”Chief Growth Officer David Vismans表示。JETads采用JET母公司Prosus开发的商业AI——Prosus Large Commerce Model(LCM),它从真实顾客行为中学习,在顾客可能想要某样东西的时刻呈现其可能想要的内容,例如周五晚上和周二午餐时段推荐的餐厅各不相同。"
+                "x": "据Front Office Sports 11月5日（Nov. 5）的报道，视频中这个酷似James（James-like）的角色身穿印有昵称“Bron”和他熟悉的No. 23号码的篮球球衣，用类似James的声音一边浏览应用一边讲解。该应用宣传的是分析博彩赔率、并通过其他平台下注的工具。据报道，视频于周三发布，不到24小时观看量就超过900,000次。"
+              },
+              {
+                "t": "p",
+                "x": "James的一位发言人对Front Office Sports表示：“LeBron与这起未经授权使用其肖像的行为没有任何关联。”函件反对该公司使用James的姓名、昵称、外貌及其他可识别特征，并要求其书面告知用户James与该业务毫无关系。报道发布后，视频已从X上删除，但仍保留在Instagram上。"
+              },
+              {
+                "t": "p",
+                "x": "James与Polymarket签有独家代言协议；他的律师认为，这次宣传会让人误以为双方存在另一层商业关系。NBA规则禁止球员对联盟比赛下注。Luka Doncic的一名代表表示，他也已向Bron AI发出停止侵权函。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Just Eat Takeaway lanza\nJETads, plataforma AI-first",
-          "body": "JETads arranca en 14 mercados y combina los modelos de personalización de JET con medición publicitaria closed-loop.",
-          "mini_headline": "JET lanza JETads",
+          "headline": "El entorno de LeBron va contra\nun anuncio AI de Bron AI",
+          "body": "Los agentes de LeBron James exigen retirar un anuncio viral de AI de la app de apuestas Bron AI por usar su imagen.",
+          "mini_headline": "LeBron va contra\nel anuncio de Bron AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Just Eat Takeaway.com (JET) anunció el lanzamiento de JETads, una nueva plataforma publicitaria para anunciantes europeos, con alcance a 59 millones de consumidores activos, 592 millones de pedidos al año y más de 342,000 socios en 14 mercados. Está activa en todos ellos desde hoy."
-              },
-              {
                 "t": "img",
-                "src": "https://d21buns5ku92am.cloudfront.net/69466/images/714382-image_20261104135837_alq-494b13-original-1793801006.png"
+                "src": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4378,h_2462/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/01m6pxtcsy8xmktktfdb-c0e361ab794fb66f5c62234cf143b62d.webp",
+                "cap": "LeBron James, alero de los Philadelphia 76ers, observa durante el segundo cuarto ante los Chicago Bulls. | IMAGN IMAGES via Reuters Connect"
               },
               {
                 "t": "p",
-                "x": "JETads se basa en la tecnología de personalización de JET, que analiza miles de millones de interacciones entre consumidores y socios. Atiende a tres grupos de anunciantes: los restaurantes y socios de alimentación obtienen visibilidad premium en búsqueda y navegación; las marcas FMCG llegan a los compradores mientras llenan su cesta, con informes closed-loop que vinculan el gasto con los productos añadidos a la cesta y los pedidos completados; y las marcas non-endemic llegan a los clientes en la ventana posterior al pago, mientras siguen sus pedidos durante hasta 30 minutos."
+                "x": "LeBron James ha enviado una carta de cese y desistimiento a Bron AI, una app de apuestas deportivas impulsada por inteligencia artificial cuyo video promocional muestra a un personaje con un parecido notable con James."
               },
               {
                 "t": "p",
-                "x": "\"Creamos JETads desde cero, para la era de la AI\", dijo David Vismans, Chief Growth Officer. JETads utiliza el Prosus Large Commerce Model (LCM), una AI de comercio desarrollada por Prosus, grupo matriz de JET, que aprende del comportamiento real de los clientes para mostrar lo que probablemente quieran en el momento en que probablemente lo quieran, como restaurantes distintos un viernes por la noche que un martes al mediodía."
+                "x": "Según un informe de Front Office Sports del 5 de noviembre (Nov. 5), el video muestra a un personaje similar a James (James-like) con una camiseta de baloncesto con el apodo \"Bron\" y su conocido No. 23, que habla con una voz parecida a la de James mientras navega por la app, la cual promociona herramientas para analizar cuotas de apuestas y apostar a través de otras plataformas. Publicado el miércoles, habría superado las 900,000 visualizaciones en menos de 24 horas."
+              },
+              {
+                "t": "p",
+                "x": "\"LeBron no tiene ninguna relación con este uso no autorizado de su imagen\", dijo un portavoz de James a Front Office Sports. La carta objeta el uso por parte de la empresa del nombre, el apodo, la apariencia y otras características identificativas de James, y exige que informe por escrito a sus usuarios de que James no tiene ninguna participación en el negocio. El video fue retirado de X tras el informe, aunque seguía en Instagram."
+              },
+              {
+                "t": "p",
+                "x": "James tiene un acuerdo exclusivo de patrocinio con Polymarket; sus abogados sostienen que la promoción crea la impresión engañosa de otra relación comercial. Las normas de la NBA prohíben a los jugadores apostar en partidos de la liga. Un representante de Luka Doncic dijo que él también había enviado a Bron AI una carta de cese y desistimiento."
               }
             ]
           }
@@ -597,351 +647,361 @@
       }
     },
     {
-      "id": "kakao-ai-crew-ad-agent",
-      "source_lang": "ko",
+      "id": "pizzala-tiktok-ai-drstone-ad",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "카카오 광고 AI 에이전트\n'AI 크루' 12월 베타",
-      "body": "카카오는 목표만 넣으면 광고 집행·분석을 돕는 AI 에이전트를 12월 베타로 연다.",
-      "mini_headline": "카카오 'AI 크루' 베타",
+      "headline": "TikTok AI 무단광고\nPIZZA-LA×STONE",
+      "body": "PIZZA-LA는 TikTok AI 무단 영상에 광고를 멈추고 권리자에게 사과했다.",
+      "mini_headline": "TikTok AI 광고, PIZZA-LA에 역풍",
       "tool": "Marketing",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611057601i",
+      "source": "Dexerto",
+      "url": "https://www.dexerto.com/food/japanese-pizza-chain-apologizes-after-tiktok-ai-tool-creates-unauthorized-dr-stone-ad-3425843/",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://img.hankyung.com/photo/202611/ZK.46317333.1.jpg"
+            "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/08/dr-stone-la-pizza.jpg",
+            "cap": "dr stone la pizza"
           },
           {
             "t": "p",
-            "x": "카카오가 다음 달 광고주의 광고 집행과 운영을 지원하는 인공지능(AI) 에이전트 ‘AI 크루’의 비공개 베타 테스트를 시작한다. AI 광고 수익화 방안을 본격 추진한다는 설명이다."
+            "x": "AI-powered TikTok 광고 기능이 Dr. STONE 캐릭터가 나오는 무단 영상을 만들어 올리자 PIZZA-LA가 사과했다."
           },
           {
             "t": "p",
-            "x": "정신아 카카오 대표는 5일 3분기 실적발표 콘퍼런스콜에서 “다음달에는 광고주의 광고 집행과 운영을 지원하는 AI 에이전트인 AI 크루의 비공개 베타 테스트를 시작할 예정”이라고 말했다."
+            "x": "이 일본 피자 체인은 실제로 이 애니메이션과 공식 협업을 했다. 기간은 October 1부터 November 1까지였고, 새로 그린 일러스트를 넣은 한정 피자와 굿즈도 나왔다. 하지만 PIZZA-LA 공식 TikTok 계정에 올라간 영상은 Dr. STONE 제작위원회의 검토도 승인도 거치지 않았다."
           },
           {
             "t": "p",
-            "x": "AI 크루는 광고주가 대화형 인터페이스에 사업 목표를 입력하면 AI가 적합한 광고 상품과 운영 전략을 제안하는 서비스다. 광고 상품 추천부터 설정, 성과 분석까지 AI가 지원하는 서비스를 통해 더 많은 광고주를 확보한다는 구상이다. 카카오는 AI 광고 서비스가 자리 잡으면 매출 확대에 도움이 될 것으로 보고 있다."
+            "x": "시청자들이 공식 캠페인 비주얼과 캐릭터 포즈, 표정, 일러스트가 다른 광고를 찾아내면서 일이 처음 드러났다."
           },
           {
             "t": "p",
-            "x": "정 대표는 “광고 운영에 익숙하지 않은 중소형 광고주들도 보다 쉽고 효율적으로 광고를 집행할 수 있도록 할 것”이라며 “기존 광고주의 운영 효율도 높여 신규 광고주 유입과 광고 집행 확대를 이끌어 내려고 한다”고 설명했다."
+            "x": "PIZZA-LA 운영사 Four Seeds에 따르면 직원이 TikTok 캠페인을 설정할 때 AI-powered 자동 광고 생성·송출 기능이 켜져 있었고, 그 상태로 영상이 게시됐다. 회사는 이 기능이 돌아가는 줄 제대로 몰랐고 끄지 않은 채 광고 설정을 끝냈다고 설명했다."
           },
           {
             "t": "p",
-            "x": "AI를 활용한 광고 추천 기술도 고도화한다. 이용자의 행동과 선호, 경험을 AI가 이해하고 활용할 수 있는 공통 메모리 인프라를 내년 1분기까지 구축할 계획이다. 기존 머신러닝 기반 추천·타기팅 기술도 개선한다. 정 대표는 “내년부터는 AI를 통한 광고 효율 개선과 새로운 수익화 기회가 실질적인 매출 성장으로 이어지는 모습을 보여 드리겠다”고 말했다."
+            "x": "PIZZA-LA는 문제의 광고를 지우고, 경위를 살피는 동안 TikTok 광고를 전부 멈췄다. Dr. STONE 제작위원회에도 직접 사과했으며, 같은 사고가 되풀이되지 않게 광고 설정과 콘텐츠 관리 절차를 다시 점검하겠다고 했다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "카카오 광고 AI 에이전트\n'AI 크루' 12월 베타",
-          "body": "카카오는 목표만 넣으면 광고 집행·분석을 돕는 AI 에이전트를 12월 베타로 연다.",
-          "mini_headline": "카카오 'AI 크루' 베타",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/ZK.46317333.1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "카카오가 다음 달 광고주의 광고 집행과 운영을 지원하는 인공지능(AI) 에이전트 ‘AI 크루’의 비공개 베타 테스트를 시작한다. AI 광고 수익화 방안을 본격 추진한다는 설명이다."
-              },
-              {
-                "t": "p",
-                "x": "정신아 카카오 대표는 5일 3분기 실적발표 콘퍼런스콜에서 “다음달에는 광고주의 광고 집행과 운영을 지원하는 AI 에이전트인 AI 크루의 비공개 베타 테스트를 시작할 예정”이라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "AI 크루는 광고주가 대화형 인터페이스에 사업 목표를 입력하면 AI가 적합한 광고 상품과 운영 전략을 제안하는 서비스다. 광고 상품 추천부터 설정, 성과 분석까지 AI가 지원하는 서비스를 통해 더 많은 광고주를 확보한다는 구상이다. 카카오는 AI 광고 서비스가 자리 잡으면 매출 확대에 도움이 될 것으로 보고 있다."
-              },
-              {
-                "t": "p",
-                "x": "정 대표는 “광고 운영에 익숙하지 않은 중소형 광고주들도 보다 쉽고 효율적으로 광고를 집행할 수 있도록 할 것”이라며 “기존 광고주의 운영 효율도 높여 신규 광고주 유입과 광고 집행 확대를 이끌어 내려고 한다”고 설명했다."
-              },
-              {
-                "t": "p",
-                "x": "AI를 활용한 광고 추천 기술도 고도화한다. 이용자의 행동과 선호, 경험을 AI가 이해하고 활용할 수 있는 공통 메모리 인프라를 내년 1분기까지 구축할 계획이다. 기존 머신러닝 기반 추천·타기팅 기술도 개선한다. 정 대표는 “내년부터는 AI를 통한 광고 효율 개선과 새로운 수익화 기회가 실질적인 매출 성장으로 이어지는 모습을 보여 드리겠다”고 말했다."
-              }
-            ]
-          }
-        },
         "en": {
-          "headline": "Kakao AI ad agent 'AI Crew'\nopens beta in December",
-          "body": "Kakao will open a December beta of an AI agent that helps run and analyze ads once advertisers enter their goals.",
-          "mini_headline": "Kakao 'AI Crew' beta",
+          "headline": "TikTok AI made an unapproved\nDr. STONE ad for PIZZA-LA",
+          "body": "PIZZA-LA paused all TikTok ads and apologized to rights holders after TikTok's AI tool generated an unapproved video.",
+          "mini_headline": "TikTok AI ad\nmisfires for PIZZA-LA",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/ZK.46317333.1.jpg"
+                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/08/dr-stone-la-pizza.jpg",
+                "cap": "dr stone la pizza"
               },
               {
                 "t": "p",
-                "x": "Kakao will begin a closed beta test next month of 'AI Crew,' an artificial intelligence (AI) agent that supports advertisers in running and managing their ads. The company said it is pushing ahead in earnest with plans to monetize AI advertising."
+                "x": "PIZZA-LA has apologized after an AI-powered TikTok advertising feature generated and published an unauthorized video featuring characters from Dr. STONE."
               },
               {
                 "t": "p",
-                "x": "Kakao CEO Shina Chung said on the Q3 earnings conference call on the 5th, \"Next month, we plan to begin a closed beta test of AI Crew, an AI agent that supports advertisers in running and managing their ads.\""
+                "x": "The Japanese pizza chain did have an official collaboration with the anime, which ran from October 1 through November 1 and included limited pizzas and merchandise featuring newly drawn artwork. However, the video served through PIZZA-LA's official TikTok account had not been reviewed or approved by the Dr. STONE production committee."
               },
               {
                 "t": "p",
-                "x": "AI Crew is a service in which advertisers enter their business goals into a conversational interface and AI proposes suitable ad products and operating strategies. The plan is to win more advertisers through a service in which AI supports everything from ad product recommendations to setup and performance analysis. Kakao expects that once its AI ad services take hold, they will help expand revenue."
+                "x": "The incident was first noticed after viewers spotted advertisements using character poses, facial expressions and artwork that differed from the official campaign visuals."
               },
               {
                 "t": "p",
-                "x": "\"We will make it easier and more efficient for small and mid-sized advertisers who are unfamiliar with running ads to place them,\" Chung explained, adding, \"We also aim to raise operating efficiency for existing advertisers, driving the inflow of new advertisers and expanded ad spending.\""
+                "x": "PIZZA-LA's operator, Four Seeds, said the video was published because an AI-powered automatic ad generation and delivery feature had been left enabled when staff set up the TikTok campaign. The company said it did not fully recognize that the feature was active and completed the advertising setup without disabling it."
               },
               {
                 "t": "p",
-                "x": "Kakao will also upgrade its AI ad recommendation technology. It plans to build, by Q1 next year, a shared memory infrastructure that lets AI understand and use users' behavior, preferences and experiences. It will also improve its existing machine learning-based recommendation and targeting technology. \"From next year, we will show how AI-driven gains in ad efficiency and new monetization opportunities translate into real revenue growth,\" Chung said."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "カカオの広告AIエージェント\n「AIクルー」12月ベータ",
-          "body": "カカオは目標を入れるだけで広告運用・分析を助けるAIエージェントを12月にベータ公開する。",
-          "mini_headline": "カカオ「AIクルー」ベータ",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/ZK.46317333.1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "カカオは来月、広告主の広告出稿と運用を支援する人工知能(AI)エージェント「AIクルー」の非公開ベータテストを始める。AI広告の収益化策を本格的に進めるという。"
-              },
-              {
-                "t": "p",
-                "x": "カカオの鄭信娥(チョン・シナ)代表は5日の第3四半期決算発表カンファレンスコールで「来月には、広告主の広告出稿と運用を支援するAIエージェントであるAIクルーの非公開ベータテストを始める予定だ」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "AIクルーは、広告主が対話型インターフェースに事業目標を入力すると、AIが適した広告商品と運用戦略を提案するサービスだ。広告商品の推薦から設定、成果分析までAIが支援するサービスを通じて、より多くの広告主を確保する構想だ。カカオは、AI広告サービスが定着すれば売上拡大につながるとみている。"
-              },
-              {
-                "t": "p",
-                "x": "鄭代表は「広告運用に慣れていない中小規模の広告主も、より簡単かつ効率的に広告を出稿できるようにする」とし、「既存広告主の運用効率も高め、新規広告主の流入と広告出稿の拡大を引き出したい」と説明した。"
-              },
-              {
-                "t": "p",
-                "x": "AIを活用した広告推薦技術も高度化する。利用者の行動や好み、経験をAIが理解し活用できる共通メモリー基盤を来年第1四半期までに構築する計画だ。既存の機械学習ベースの推薦・ターゲティング技術も改善する。鄭代表は「来年からは、AIによる広告効率の改善と新たな収益化の機会が実質的な売上成長につながる姿をお見せする」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Kakao广告AI智能体\nAI Crew 12月内测",
-          "body": "Kakao将于12月内测AI智能体,广告主只需输入目标即可获得投放与分析协助。",
-          "mini_headline": "Kakao“AI Crew”内测",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/ZK.46317333.1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Kakao将于下个月启动人工智能(AI)智能体“AI Crew”的封闭测试,该智能体帮助广告主投放和运营广告。公司表示,将全面推进AI广告变现。"
-              },
-              {
-                "t": "p",
-                "x": "Kakao首席执行官郑信娥5日在第3季度财报电话会议上表示:“下个月我们将启动AI Crew的封闭测试,这是一款帮助广告主投放和运营广告的AI智能体。”"
-              },
-              {
-                "t": "p",
-                "x": "AI Crew是这样一项服务:广告主在对话式界面中输入业务目标后,AI会推荐合适的广告产品和运营策略。Kakao计划通过从广告产品推荐到设置、效果分析全程由AI支持的服务,吸引更多广告主。Kakao认为,AI广告服务一旦站稳脚跟,将有助于扩大营收。"
-              },
-              {
-                "t": "p",
-                "x": "郑信娥解释说:“我们将让不熟悉广告运营的中小广告主也能更轻松、高效地投放广告。”并表示:“我们也将提升现有广告主的运营效率,以带动新广告主流入和广告投放扩大。”"
-              },
-              {
-                "t": "p",
-                "x": "Kakao还将升级基于AI的广告推荐技术,计划在明年第1季度前建成让AI能够理解和利用用户行为、偏好与体验的共享记忆基础设施,并改进现有基于机器学习的推荐与定向技术。郑信娥表示:“从明年起,我们将展示AI带来的广告效率提升和新的变现机会如何转化为实际的营收增长。”"
+                "x": "PIZZA-LA said the advertisement has been removed and that it has paused all advertising on TikTok while it reviews what happened. The company also apologized directly to the Dr. STONE production committee and said it would reassess its advertising settings and content-management procedures to prevent a similar incident."
               }
             ]
           }
         },
         "es": {
-          "headline": "Kakao abre en diciembre la beta\nde su agente de AI 'AI Crew'",
-          "body": "Kakao abrirá en diciembre una beta de un agente de AI que ayuda a gestionar y analizar anuncios a partir de objetivos.",
-          "mini_headline": "Beta de 'AI Crew' de Kakao",
+          "headline": "TikTok AI crea para PIZZA-LA\nun anuncio de Dr. STONE sin aval",
+          "body": "PIZZA-LA pausó sus anuncios en TikTok y se disculpó con los dueños de derechos tras un video no aprobado de TikTok AI.",
+          "mini_headline": "Anuncio de TikTok AI\nfalla para PIZZA-LA",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/ZK.46317333.1.jpg"
+                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/08/dr-stone-la-pizza.jpg",
+                "cap": "Imagen de dr stone la pizza"
               },
               {
                 "t": "p",
-                "x": "Kakao iniciará el próximo mes una prueba beta cerrada de 'AI Crew', un agente de inteligencia artificial (AI) que ayuda a los anunciantes a ejecutar y gestionar sus anuncios. Según la empresa, impulsará de lleno sus planes para monetizar la publicidad con AI."
+                "x": "PIZZA-LA pidió disculpas después de que una función publicitaria de TikTok impulsada por AI (AI-powered) generara y publicara un video no autorizado con personajes de Dr. STONE."
               },
               {
                 "t": "p",
-                "x": "Shina Chung, directora ejecutiva de Kakao, dijo el día 5 en la conferencia telefónica de resultados del 3.er trimestre: \"El próximo mes prevemos iniciar una prueba beta cerrada de AI Crew, un agente de AI que ayuda a los anunciantes a ejecutar y gestionar sus anuncios\"."
+                "x": "La cadena japonesa de pizzas sí tenía una colaboración oficial con el anime, vigente del 1 de octubre al 1 de noviembre, que incluyó pizzas limitadas y productos con ilustraciones nuevas. Sin embargo, el video difundido a través de la cuenta oficial de TikTok de PIZZA-LA no había sido revisado ni aprobado por el comité de producción de Dr. STONE."
               },
               {
                 "t": "p",
-                "x": "AI Crew es un servicio en el que los anunciantes introducen sus objetivos de negocio en una interfaz conversacional y la AI les propone productos publicitarios y estrategias de operación adecuados. La idea es atraer a más anunciantes con un servicio en el que la AI apoya desde la recomendación de productos publicitarios hasta la configuración y el análisis de resultados. Kakao considera que, si sus servicios publicitarios con AI se consolidan, contribuirán a aumentar sus ingresos."
+                "x": "El incidente se detectó cuando los espectadores vieron anuncios con poses, expresiones faciales e ilustraciones de los personajes distintas de las imágenes oficiales de la campaña."
               },
               {
                 "t": "p",
-                "x": "\"Haremos que incluso los anunciantes pequeños y medianos que no están familiarizados con la gestión de anuncios puedan invertir en publicidad de forma más sencilla y eficiente\", explicó Chung. \"También queremos mejorar la eficiencia operativa de los anunciantes actuales para atraer a nuevos anunciantes y ampliar la inversión publicitaria\", añadió."
+                "x": "Four Seeds, la empresa que opera PIZZA-LA, dijo que el video se publicó porque una función de generación y distribución automática de anuncios impulsada por AI quedó activada cuando el personal configuró la campaña de TikTok. La empresa afirmó que no fue plenamente consciente de que la función estaba activa y completó la configuración sin desactivarla."
               },
               {
                 "t": "p",
-                "x": "Kakao también perfeccionará su tecnología de recomendación de anuncios basada en AI. Planea construir antes del 1.er trimestre del próximo año una infraestructura de memoria común que permita a la AI comprender y aprovechar el comportamiento, las preferencias y las experiencias de los usuarios. También mejorará su actual tecnología de recomendación y segmentación basada en aprendizaje automático. \"A partir del próximo año mostraremos cómo la mejora de la eficiencia publicitaria gracias a la AI y las nuevas oportunidades de monetización se traducen en un crecimiento real de los ingresos\", dijo Chung."
+                "x": "PIZZA-LA indicó que retiró el anuncio y que suspendió toda su publicidad en TikTok mientras revisa lo ocurrido. La empresa también se disculpó directamente con el comité de producción de Dr. STONE y dijo que revisará sus ajustes publicitarios y sus procedimientos de gestión de contenidos para evitar un incidente similar."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "TikTok AI 무단광고\nPIZZA-LA×STONE",
+          "body": "PIZZA-LA는 TikTok AI 무단 영상에 광고를 멈추고 권리자에게 사과했다.",
+          "mini_headline": "TikTok AI 광고, PIZZA-LA에 역풍",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/08/dr-stone-la-pizza.jpg",
+                "cap": "dr stone la pizza"
+              },
+              {
+                "t": "p",
+                "x": "AI-powered TikTok 광고 기능이 Dr. STONE 캐릭터가 나오는 무단 영상을 만들어 올리자 PIZZA-LA가 사과했다."
+              },
+              {
+                "t": "p",
+                "x": "이 일본 피자 체인은 실제로 이 애니메이션과 공식 협업을 했다. 기간은 October 1부터 November 1까지였고, 새로 그린 일러스트를 넣은 한정 피자와 굿즈도 나왔다. 하지만 PIZZA-LA 공식 TikTok 계정에 올라간 영상은 Dr. STONE 제작위원회의 검토도 승인도 거치지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "시청자들이 공식 캠페인 비주얼과 캐릭터 포즈, 표정, 일러스트가 다른 광고를 찾아내면서 일이 처음 드러났다."
+              },
+              {
+                "t": "p",
+                "x": "PIZZA-LA 운영사 Four Seeds에 따르면 직원이 TikTok 캠페인을 설정할 때 AI-powered 자동 광고 생성·송출 기능이 켜져 있었고, 그 상태로 영상이 게시됐다. 회사는 이 기능이 돌아가는 줄 제대로 몰랐고 끄지 않은 채 광고 설정을 끝냈다고 설명했다."
+              },
+              {
+                "t": "p",
+                "x": "PIZZA-LA는 문제의 광고를 지우고, 경위를 살피는 동안 TikTok 광고를 전부 멈췄다. Dr. STONE 제작위원회에도 직접 사과했으며, 같은 사고가 되풀이되지 않게 광고 설정과 콘텐츠 관리 절차를 다시 점검하겠다고 했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "TikTok AIの無断広告\nPIZZA-LA版STONE",
+          "body": "PIZZA-LAはTikTokのAIによる無断動画で広告を止め、権利者に謝罪した。",
+          "mini_headline": "TikTok AI広告、PIZZA-LAで裏目に",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/08/dr-stone-la-pizza.jpg",
+                "cap": "dr stone la pizza"
+              },
+              {
+                "t": "p",
+                "x": "PIZZA-LAは、AI-poweredのTikTok広告機能がDr. STONEのキャラクターを使った無許可の動画を生成・公開したとして謝罪した。"
+              },
+              {
+                "t": "p",
+                "x": "この日本のピザチェーンは同アニメと実際に公式コラボを行っていた。期間はOctober 1からNovember 1までで、描き下ろしイラストを使った限定ピザやグッズが展開された。しかし、PIZZA-LAの公式TikTokアカウントから配信された動画は、Dr. STONE製作委員会の確認や承認を受けていなかった。"
+              },
+              {
+                "t": "p",
+                "x": "問題は、公式キャンペーンのビジュアルと異なるキャラクターのポーズや表情、イラストを使った広告に視聴者が気づいたことで発覚した。"
+              },
+              {
+                "t": "p",
+                "x": "PIZZA-LAを運営するFour Seedsによると、担当者がTikTokキャンペーンを設定した際、AI-poweredの広告自動生成・配信機能が有効のままになっていたため動画が公開された。同社は機能が作動していることを十分に認識しておらず、無効化しないまま広告設定を終えたと説明した。"
+              },
+              {
+                "t": "p",
+                "x": "PIZZA-LAは当該広告を削除し、経緯を調査する間、TikTokでの広告をすべて停止したと発表した。同社はDr. STONE製作委員会にも直接謝罪し、再発防止に向けて広告設定とコンテンツ管理の手順を見直すとしている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "TikTok AI擅自做广告\nPIZZA-LA版STONE",
+          "body": "TikTok的AI擅自生成视频后，PIZZA-LA暂停全部TikTok广告并向权利方致歉。",
+          "mini_headline": "TikTok AI广告让PIZZA-LA翻车",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/08/dr-stone-la-pizza.jpg",
+                "cap": "dr stone la pizza"
+              },
+              {
+                "t": "p",
+                "x": "一项AI-powered的TikTok广告功能生成并发布了一段使用Dr. STONE角色的未授权视频，PIZZA-LA随后致歉。"
+              },
+              {
+                "t": "p",
+                "x": "这家日本披萨连锁确实与该动画有过官方合作，合作从October 1持续到November 1，推出了采用全新绘制插画的限定披萨和周边商品。但通过PIZZA-LA官方TikTok账号投放的这段视频，并未经过Dr. STONE制作委员会的审核或批准。"
+              },
+              {
+                "t": "p",
+                "x": "观众发现广告中的角色姿势、表情和插画与官方宣传视觉不同，事件由此首次曝光。"
+              },
+              {
+                "t": "p",
+                "x": "PIZZA-LA的运营方Four Seeds表示，员工设置TikTok广告活动时，一项AI-powered的自动广告生成与投放功能仍处于开启状态，导致视频被发布。公司称并未充分意识到该功能正在运行，在没有关闭它的情况下完成了广告设置。"
+              },
+              {
+                "t": "p",
+                "x": "PIZZA-LA表示已删除该广告，并在调查事件经过期间暂停了在TikTok上的全部广告。公司还直接向Dr. STONE制作委员会道歉，并表示将重新检查广告设置和内容管理流程，以防类似事件再次发生。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Kakao AI ad agent 'AI Crew'\nopens beta in December",
-          "body": "Kakao will open a December beta of an AI agent that helps run and analyze ads once advertisers enter their goals.",
-          "mini_headline": "Kakao 'AI Crew' beta",
+        "es": {
+          "headline": "TikTok AI crea para PIZZA-LA\nun anuncio de Dr. STONE sin aval",
+          "body": "PIZZA-LA pausó sus anuncios en TikTok y se disculpó con los dueños de derechos tras un video no aprobado de TikTok AI.",
+          "mini_headline": "Anuncio de TikTok AI\nfalla para PIZZA-LA",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/ZK.46317333.1.jpg"
+                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/08/dr-stone-la-pizza.jpg",
+                "cap": "Imagen de dr stone la pizza"
               },
               {
                 "t": "p",
-                "x": "Kakao will begin a closed beta test next month of 'AI Crew,' an artificial intelligence (AI) agent that supports advertisers in running and managing their ads. The company said it is pushing ahead in earnest with plans to monetize AI advertising."
+                "x": "PIZZA-LA pidió disculpas después de que una función publicitaria de TikTok impulsada por AI (AI-powered) generara y publicara un video no autorizado con personajes de Dr. STONE."
               },
               {
                 "t": "p",
-                "x": "Kakao CEO Shina Chung said on the Q3 earnings conference call on the 5th, \"Next month, we plan to begin a closed beta test of AI Crew, an AI agent that supports advertisers in running and managing their ads.\""
+                "x": "La cadena japonesa de pizzas sí tenía una colaboración oficial con el anime, vigente del 1 de octubre al 1 de noviembre, que incluyó pizzas limitadas y productos con ilustraciones nuevas. Sin embargo, el video difundido a través de la cuenta oficial de TikTok de PIZZA-LA no había sido revisado ni aprobado por el comité de producción de Dr. STONE."
               },
               {
                 "t": "p",
-                "x": "AI Crew is a service in which advertisers enter their business goals into a conversational interface and AI proposes suitable ad products and operating strategies. The plan is to win more advertisers through a service in which AI supports everything from ad product recommendations to setup and performance analysis. Kakao expects that once its AI ad services take hold, they will help expand revenue."
+                "x": "El incidente se detectó cuando los espectadores vieron anuncios con poses, expresiones faciales e ilustraciones de los personajes distintas de las imágenes oficiales de la campaña."
               },
               {
                 "t": "p",
-                "x": "\"We will make it easier and more efficient for small and mid-sized advertisers who are unfamiliar with running ads to place them,\" Chung explained, adding, \"We also aim to raise operating efficiency for existing advertisers, driving the inflow of new advertisers and expanded ad spending.\""
+                "x": "Four Seeds, la empresa que opera PIZZA-LA, dijo que el video se publicó porque una función de generación y distribución automática de anuncios impulsada por AI quedó activada cuando el personal configuró la campaña de TikTok. La empresa afirmó que no fue plenamente consciente de que la función estaba activa y completó la configuración sin desactivarla."
               },
               {
                 "t": "p",
-                "x": "Kakao will also upgrade its AI ad recommendation technology. It plans to build, by Q1 next year, a shared memory infrastructure that lets AI understand and use users' behavior, preferences and experiences. It will also improve its existing machine learning-based recommendation and targeting technology. \"From next year, we will show how AI-driven gains in ad efficiency and new monetization opportunities translate into real revenue growth,\" Chung said."
+                "x": "PIZZA-LA indicó que retiró el anuncio y que suspendió toda su publicidad en TikTok mientras revisa lo ocurrido. La empresa también se disculpó directamente con el comité de producción de Dr. STONE y dijo que revisará sus ajustes publicitarios y sus procedimientos de gestión de contenidos para evitar un incidente similar."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "TikTok AI 무단광고\nPIZZA-LA×STONE",
+          "body": "PIZZA-LA는 TikTok AI 무단 영상에 광고를 멈추고 권리자에게 사과했다.",
+          "mini_headline": "TikTok AI 광고, PIZZA-LA에 역풍",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/08/dr-stone-la-pizza.jpg",
+                "cap": "dr stone la pizza"
+              },
+              {
+                "t": "p",
+                "x": "PIZZA-LA는 AI-powered TikTok 광고 기능이 Dr. STONE 캐릭터가 등장하는 무단 영상을 만들어 게시한 뒤 사과했다."
+              },
+              {
+                "t": "p",
+                "x": "이 일본 피자 체인은 실제로 이 애니메이션과 공식 협업을 진행했다. 협업은 October 1부터 November 1까지 이어졌고, 새로 그린 일러스트를 담은 한정 피자와 굿즈가 포함됐다. 그러나 PIZZA-LA 공식 TikTok 계정으로 나간 영상은 Dr. STONE 제작위원회의 검토나 승인을 거치지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "사건은 시청자들이 공식 캠페인 비주얼과 다른 캐릭터 포즈, 표정, 일러스트를 쓴 광고를 발견하면서 처음 알려졌다."
+              },
+              {
+                "t": "p",
+                "x": "PIZZA-LA 운영사 Four Seeds는 직원이 TikTok 캠페인을 설정할 때 AI-powered 자동 광고 생성·송출 기능이 켜진 채로 남아 있어 영상이 게시됐다고 밝혔다. 회사는 이 기능이 작동 중이라는 사실을 충분히 인지하지 못했고, 기능을 끄지 않은 채 광고 설정을 마쳤다고 설명했다."
+              },
+              {
+                "t": "p",
+                "x": "PIZZA-LA는 해당 광고를 삭제했으며 경위를 검토하는 동안 TikTok 광고를 모두 중단했다고 밝혔다. 회사는 Dr. STONE 제작위원회에도 직접 사과했고, 같은 사고를 막기 위해 광고 설정과 콘텐츠 관리 절차를 재점검하겠다고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "カカオの広告AIエージェント\n「AIクルー」12月ベータ",
-          "body": "カカオは目標を入れるだけで広告運用・分析を助けるAIエージェントを12月にベータ公開する。",
-          "mini_headline": "カカオ「AIクルー」ベータ",
+          "headline": "TikTok AIの無断広告\nPIZZA-LA版STONE",
+          "body": "PIZZA-LAはTikTokのAIによる無断動画で広告を止め、権利者に謝罪した。",
+          "mini_headline": "TikTok AI広告、PIZZA-LAで裏目に",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/ZK.46317333.1.jpg"
+                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/08/dr-stone-la-pizza.jpg",
+                "cap": "dr stone la pizza"
               },
               {
                 "t": "p",
-                "x": "カカオは来月、広告主の広告出稿と運用を支援する人工知能(AI)エージェント「AIクルー」の非公開ベータテストを始める。AI広告の収益化策を本格的に進めるという。"
+                "x": "PIZZA-LAは、AI-poweredのTikTok広告機能がDr. STONEのキャラクターを使った無許可の動画を生成・公開したとして謝罪した。"
               },
               {
                 "t": "p",
-                "x": "カカオの鄭信娥(チョン・シナ)代表は5日の第3四半期決算発表カンファレンスコールで「来月には、広告主の広告出稿と運用を支援するAIエージェントであるAIクルーの非公開ベータテストを始める予定だ」と述べた。"
+                "x": "この日本のピザチェーンは同アニメと実際に公式コラボを行っていた。期間はOctober 1からNovember 1までで、描き下ろしイラストを使った限定ピザやグッズが展開された。しかし、PIZZA-LAの公式TikTokアカウントから配信された動画は、Dr. STONE製作委員会の確認や承認を受けていなかった。"
               },
               {
                 "t": "p",
-                "x": "AIクルーは、広告主が対話型インターフェースに事業目標を入力すると、AIが適した広告商品と運用戦略を提案するサービスだ。広告商品の推薦から設定、成果分析までAIが支援するサービスを通じて、より多くの広告主を確保する構想だ。カカオは、AI広告サービスが定着すれば売上拡大につながるとみている。"
+                "x": "問題は、公式キャンペーンのビジュアルと異なるキャラクターのポーズや表情、イラストを使った広告に視聴者が気づいたことで発覚した。"
               },
               {
                 "t": "p",
-                "x": "鄭代表は「広告運用に慣れていない中小規模の広告主も、より簡単かつ効率的に広告を出稿できるようにする」とし、「既存広告主の運用効率も高め、新規広告主の流入と広告出稿の拡大を引き出したい」と説明した。"
+                "x": "PIZZA-LAを運営するFour Seedsによると、担当者がTikTokキャンペーンを設定した際、AI-poweredの広告自動生成・配信機能が有効のままになっていたため動画が公開された。同社は機能が作動していることを十分に認識しておらず、無効化しないまま広告設定を終えたと説明した。"
               },
               {
                 "t": "p",
-                "x": "AIを活用した広告推薦技術も高度化する。利用者の行動や好み、経験をAIが理解し活用できる共通メモリー基盤を来年第1四半期までに構築する計画だ。既存の機械学習ベースの推薦・ターゲティング技術も改善する。鄭代表は「来年からは、AIによる広告効率の改善と新たな収益化の機会が実質的な売上成長につながる姿をお見せする」と述べた。"
+                "x": "PIZZA-LAは当該広告を削除し、経緯を調査する間、TikTokでの広告をすべて停止したと発表した。同社はDr. STONE製作委員会にも直接謝罪し、再発防止に向けて広告設定とコンテンツ管理の手順を見直すとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Kakao广告AI智能体\nAI Crew 12月内测",
-          "body": "Kakao将于12月内测AI智能体,广告主只需输入目标即可获得投放与分析协助。",
-          "mini_headline": "Kakao“AI Crew”内测",
+          "headline": "TikTok AI擅自做广告\nPIZZA-LA版STONE",
+          "body": "TikTok的AI擅自生成视频后，PIZZA-LA暂停全部TikTok广告并向权利方致歉。",
+          "mini_headline": "TikTok AI广告让PIZZA-LA翻车",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/ZK.46317333.1.jpg"
+                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/08/dr-stone-la-pizza.jpg",
+                "cap": "dr stone la pizza"
               },
               {
                 "t": "p",
-                "x": "Kakao将于下个月启动人工智能(AI)智能体“AI Crew”的封闭测试,该智能体帮助广告主投放和运营广告。公司表示,将全面推进AI广告变现。"
+                "x": "一项AI-powered的TikTok广告功能生成并发布了一段使用Dr. STONE角色的未授权视频，PIZZA-LA随后致歉。"
               },
               {
                 "t": "p",
-                "x": "Kakao首席执行官郑信娥5日在第3季度财报电话会议上表示:“下个月我们将启动AI Crew的封闭测试,这是一款帮助广告主投放和运营广告的AI智能体。”"
+                "x": "这家日本披萨连锁确实与该动画有过官方合作，合作从October 1持续到November 1，推出了采用全新绘制插画的限定披萨和周边商品。但通过PIZZA-LA官方TikTok账号投放的这段视频，并未经过Dr. STONE制作委员会的审核或批准。"
               },
               {
                 "t": "p",
-                "x": "AI Crew是这样一项服务:广告主在对话式界面中输入业务目标后,AI会推荐合适的广告产品和运营策略。Kakao计划通过从广告产品推荐到设置、效果分析全程由AI支持的服务,吸引更多广告主。Kakao认为,AI广告服务一旦站稳脚跟,将有助于扩大营收。"
+                "x": "观众发现广告中的角色姿势、表情和插画与官方宣传视觉不同，事件由此首次曝光。"
               },
               {
                 "t": "p",
-                "x": "郑信娥解释说:“我们将让不熟悉广告运营的中小广告主也能更轻松、高效地投放广告。”并表示:“我们也将提升现有广告主的运营效率,以带动新广告主流入和广告投放扩大。”"
+                "x": "PIZZA-LA的运营方Four Seeds表示，员工设置TikTok广告活动时，一项AI-powered的自动广告生成与投放功能仍处于开启状态，导致视频被发布。公司称并未充分意识到该功能正在运行，在没有关闭它的情况下完成了广告设置。"
               },
               {
                 "t": "p",
-                "x": "Kakao还将升级基于AI的广告推荐技术,计划在明年第1季度前建成让AI能够理解和利用用户行为、偏好与体验的共享记忆基础设施,并改进现有基于机器学习的推荐与定向技术。郑信娥表示:“从明年起,我们将展示AI带来的广告效率提升和新的变现机会如何转化为实际的营收增长。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Kakao abre en diciembre la beta\nde su agente de AI 'AI Crew'",
-          "body": "Kakao abrirá en diciembre una beta de un agente de AI que ayuda a gestionar y analizar anuncios a partir de objetivos.",
-          "mini_headline": "Beta de 'AI Crew' de Kakao",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/ZK.46317333.1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Kakao iniciará el próximo mes una prueba beta cerrada de 'AI Crew', un agente de inteligencia artificial (AI) que ayuda a los anunciantes a ejecutar y gestionar sus anuncios. Según la empresa, impulsará de lleno sus planes para monetizar la publicidad con AI."
-              },
-              {
-                "t": "p",
-                "x": "Shina Chung, directora ejecutiva de Kakao, dijo el día 5 en la conferencia telefónica de resultados del 3.er trimestre: \"El próximo mes prevemos iniciar una prueba beta cerrada de AI Crew, un agente de AI que ayuda a los anunciantes a ejecutar y gestionar sus anuncios\"."
-              },
-              {
-                "t": "p",
-                "x": "AI Crew es un servicio en el que los anunciantes introducen sus objetivos de negocio en una interfaz conversacional y la AI les propone productos publicitarios y estrategias de operación adecuados. La idea es atraer a más anunciantes con un servicio en el que la AI apoya desde la recomendación de productos publicitarios hasta la configuración y el análisis de resultados. Kakao considera que, si sus servicios publicitarios con AI se consolidan, contribuirán a aumentar sus ingresos."
-              },
-              {
-                "t": "p",
-                "x": "\"Haremos que incluso los anunciantes pequeños y medianos que no están familiarizados con la gestión de anuncios puedan invertir en publicidad de forma más sencilla y eficiente\", explicó Chung. \"También queremos mejorar la eficiencia operativa de los anunciantes actuales para atraer a nuevos anunciantes y ampliar la inversión publicitaria\", añadió."
-              },
-              {
-                "t": "p",
-                "x": "Kakao también perfeccionará su tecnología de recomendación de anuncios basada en AI. Planea construir antes del 1.er trimestre del próximo año una infraestructura de memoria común que permita a la AI comprender y aprovechar el comportamiento, las preferencias y las experiencias de los usuarios. También mejorará su actual tecnología de recomendación y segmentación basada en aprendizaje automático. \"A partir del próximo año mostraremos cómo la mejora de la eficiencia publicitaria gracias a la AI y las nuevas oportunidades de monetización se traducen en un crecimiento real de los ingresos\", dijo Chung."
+                "x": "PIZZA-LA表示已删除该广告，并在调查事件经过期间暂停了在TikTok上的全部广告。公司还直接向Dr. STONE制作委员会道歉，并表示将重新检查广告设置和内容管理流程，以防类似事件再次发生。"
               }
             ]
           }
@@ -949,15 +1009,15 @@
       }
     },
     {
-      "id": "swivel-ctv-agentic-infra",
-      "source_lang": "en",
+      "id": "naver-powerlink-ai-copy-pilot",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Swivel, CTV 광고\nAI 에이전트 길 닦는다",
-      "body": "Swivel은 ex-FreeWheel·SpringServe 출신의 CTV AI다.",
-      "mini_headline": "Swivel의 CTV 에이전트 인프라",
+      "headline": "네이버 파워링크\nAI가 광고 문구 쓴다",
+      "body": "네이버가 12일부터 파워링크 광고 문구를 AI로 만드는 기능을 시범 적용한다.",
+      "mini_headline": "네이버, AI\n광고 문구 시범",
       "tool": "Marketing",
-      "source": "AdExchanger",
-      "url": "https://www.adexchanger.com/ctv-roundup/swivel-wants-to-create-agentic-infrastructure-for-ctv/",
+      "source": "파이낸셜뉴스",
+      "url": "https://www.fnnews.com/news/202611081827405042",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -965,255 +1025,265 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/tv-remote-stock-square-1-1024x1024.jpeg"
+            "src": "https://image.fnnews.com/resource/media/image/2026/11/08/202611081827400014_l.jpg",
+            "cap": "네이버 파워링크 '문구생성' 방식. 네이버 제공"
           },
           {
             "t": "p",
-            "x": "Swivel은 전 FreeWheeler Frans Vermeulen과 SpringServe 공동창업자 Matt Dearborn, Rich Lin, Joseph Hirsch가 세운 퍼블리셔 기술 스타트업이다. 퍼블리셔 광고 운영에서 캠페인 최적화부터 가격 조정까지 손으로 하던 일을 자동화하려 한다. Hirsch는 이를 에이전트로 이뤄진 “엔드투엔드 시스템”이라 불렀다. 최종 목표는 CTV 광고 체인 전체를 아우르는 에이전트 인프라다."
+            "x": "네이버와 카카오가 인공지능(AI)을 앞세워 광고사업의 수익성 강화에 속도를 내고 있다. 네이버는 오는 12일부터 19일까지 검색광고 '파워링크'에 AI 기반 '문구 생성' 기능을 시범 적용한다. 광고주가 등록한 광고 소재와 연결된 웹페이지 등을 AI가 분석해 이용자의 검색 의도에 맞는 광고 문구를 자동으로 생성하는 방식이다. 네이버는 지난 8월 'AI 요약텍스트'라는 이름으로 예고했으나 일정을 연기한 뒤 명칭을 바꾸고 테스트 일정을 확정했다."
           },
           {
             "t": "p",
-            "x": "Swivel은 통합 제품 하나 대신 여러 에이전트를 둔다. 예산 편성, 입찰 트래피킹, 페이싱, 수익 관리, 캠페인 후 리포팅처럼 캠페인 구매를 부분별로 나눠 맡는 구조다. 퍼블리셔 상당수는 “광고 운영 워크플로 전체를 흔들지 않으려고” 에이전트를 한두 개만 쓴다."
+            "x": "생성된 문구는 기존 광고를 대체하지 않고 제목이나 홍보문구, 별도 영역 등에 추가로 노출된다. 과금 방식은 동일하되 AI 생성 문구를 통한 클릭에도 광고비가 부과된다. AI가 생성한 문구를 직접 수정할 수는 없으며, 기능을 사용하지 않도록 설정할 수 있다."
           },
           {
             "t": "p",
-            "x": "Hirsch는 파편화 문제의 해법으로 Ad Context Protocol(AdCP)을 꼽았다. 퍼블리셔는 AdCP의 adagents.json 사양으로 자사 인벤토리를 팔 권한이 어느 에이전트에 있는지 밝힐 수 있다. 에이전트가 구매를 맡으면 스폰서십, 홈 화면 광고, 일시정지 광고, 순차 미디어처럼 프로그래매틱으로 사기 어려운 형식도 자동으로 팔 수 있다. Swivel은 지금은 100% CTV에 집중하지만 리테일 미디어로도 넓힐 계획이다."
+            "x": "카카오는 이용자가 AI와 여행 계획을 상의하면 관련 숙박이나 예약 서비스를 추천하는 식으로, 대화에서 구매 의도를 파악하는 광고 모델을 구상하고 있다. 이를 위해 '공통 메모리 인프라'를 내년 1·4분기까지 구축하고, 광고주용 AI 에이전트 'AI 크루'의 비공개 베타 테스트를 오는 12월 시작한다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Swivel builds rails for AI\nagents buying CTV ads",
-          "body": "Swivel, founded by ex-FreeWheel and SpringServe executives, builds AI agents to automate CTV publisher ad ops.",
-          "mini_headline": "Swivel's agentic CTV rails",
+        "ko": {
+          "headline": "네이버 파워링크\nAI가 광고 문구 쓴다",
+          "body": "네이버가 12일부터 파워링크 광고 문구를 AI로 만드는 기능을 시범 적용한다.",
+          "mini_headline": "네이버, AI\n광고 문구 시범",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/tv-remote-stock-square-1-1024x1024.jpeg"
+                "src": "https://image.fnnews.com/resource/media/image/2026/11/08/202611081827400014_l.jpg",
+                "cap": "네이버 파워링크 '문구생성' 방식. 네이버 제공"
               },
               {
                 "t": "p",
-                "x": "Swivel is a publisher tech startup founded by the former FreeWheeler Frans Vermeulen and SpringServe co-founders Matt Dearborn, Rich Lin and Joseph Hirsch. It aims to automate the manual tasks in publisher ad operations, from campaign optimization to pricing adjustments — an “end-to-end system” of agents, Hirsch said, with the eventual goal of an agentic infrastructure that spans the CTV advertising chain."
+                "x": "네이버와 카카오가 인공지능(AI)을 앞세워 광고사업의 수익성 강화에 속도를 내고 있다. 네이버는 오는 12일부터 19일까지 검색광고 '파워링크'에 AI 기반 '문구 생성' 기능을 시범 적용한다. 광고주가 등록한 광고 소재와 연결된 웹페이지 등을 AI가 분석해 이용자의 검색 의도에 맞는 광고 문구를 자동으로 생성하는 방식이다. 네이버는 지난 8월 'AI 요약텍스트'라는 이름으로 예고했으나 일정을 연기한 뒤 명칭을 바꾸고 테스트 일정을 확정했다."
               },
               {
                 "t": "p",
-                "x": "Rather than a single consolidated product, Swivel has multiple agents each responsible for parts of a campaign buy, such as budgeting, bid trafficking, pacing, yield management and post-campaign reporting. Many publishers use one or two agents “so as not to disrupt their entire ad ops workflow.”"
+                "x": "생성된 문구는 기존 광고를 대체하지 않고 제목이나 홍보문구, 별도 영역 등에 추가로 노출된다. 과금 방식은 동일하되 AI 생성 문구를 통한 클릭에도 광고비가 부과된다. AI가 생성한 문구를 직접 수정할 수는 없으며, 기능을 사용하지 않도록 설정할 수 있다."
               },
               {
                 "t": "p",
-                "x": "To address fragmentation, Hirsch pointed to the Ad Context Protocol (AdCP), whose adagents.json specification lets publishers declare which agents are authorized to sell their inventory. Agentic buying can also automate sales of formats hard to buy programmatically, such as sponsorships, home screen ads, pause ads and sequential media. Swivel's focus is still 100% CTV, but it intends to expand into retail media."
+                "x": "카카오는 이용자가 AI와 여행 계획을 상의하면 관련 숙박이나 예약 서비스를 추천하는 식으로, 대화에서 구매 의도를 파악하는 광고 모델을 구상하고 있다. 이를 위해 '공통 메모리 인프라'를 내년 1·4분기까지 구축하고, 광고주용 AI 에이전트 'AI 크루'의 비공개 베타 테스트를 오는 12월 시작한다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Swivel, CTV 광고\nAI 에이전트 길 닦는다",
-          "body": "Swivel은 ex-FreeWheel·SpringServe 출신의 CTV AI다.",
-          "mini_headline": "Swivel의 CTV 에이전트 인프라",
+        "en": {
+          "headline": "Naver PowerLink to let AI\nwrite search ad copy",
+          "body": "Naver will pilot a feature that writes PowerLink ad copy with AI starting on the 12th.",
+          "mini_headline": "Naver pilots AI\nad copy",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/tv-remote-stock-square-1-1024x1024.jpeg"
+                "src": "https://image.fnnews.com/resource/media/image/2026/11/08/202611081827400014_l.jpg",
+                "cap": "Naver PowerLink's 'copy generation' method. Courtesy of Naver"
               },
               {
                 "t": "p",
-                "x": "Swivel은 전 FreeWheeler Frans Vermeulen과 SpringServe 공동창업자 Matt Dearborn, Rich Lin, Joseph Hirsch가 세운 퍼블리셔 기술 스타트업이다. 퍼블리셔 광고 운영에서 캠페인 최적화부터 가격 조정까지 손으로 하던 일을 자동화하려 한다. Hirsch는 이를 에이전트로 이뤄진 “엔드투엔드 시스템”이라 불렀다. 최종 목표는 CTV 광고 체인 전체를 아우르는 에이전트 인프라다."
+                "x": "Naver and Kakao are leaning on artificial intelligence (AI) to speed up efforts to make their advertising businesses more profitable. From the 12th to the 19th, Naver will pilot an AI-based 'copy generation' feature in its search ad product 'PowerLink'. AI analyzes the ad creative an advertiser has registered and the linked webpages, among other things, and automatically generates ad copy matched to the user's search intent. Naver had announced the feature in August under the name 'AI Summary Text', but postponed it, then renamed it and confirmed the test schedule."
               },
               {
                 "t": "p",
-                "x": "Swivel은 통합 제품 하나 대신 여러 에이전트를 둔다. 예산 편성, 입찰 트래피킹, 페이싱, 수익 관리, 캠페인 후 리포팅처럼 캠페인 구매를 부분별로 나눠 맡는 구조다. 퍼블리셔 상당수는 “광고 운영 워크플로 전체를 흔들지 않으려고” 에이전트를 한두 개만 쓴다."
+                "x": "The generated copy does not replace existing ads; it is shown in addition, in titles, promotional text or a separate area. Billing works the same way, but clicks through AI-generated copy are also charged. Advertisers cannot edit the AI-generated copy directly, but they can set the feature not to be used."
               },
               {
                 "t": "p",
-                "x": "Hirsch는 파편화 문제의 해법으로 Ad Context Protocol(AdCP)을 꼽았다. 퍼블리셔는 AdCP의 adagents.json 사양으로 자사 인벤토리를 팔 권한이 어느 에이전트에 있는지 밝힐 수 있다. 에이전트가 구매를 맡으면 스폰서십, 홈 화면 광고, 일시정지 광고, 순차 미디어처럼 프로그래매틱으로 사기 어려운 형식도 자동으로 팔 수 있다. Swivel은 지금은 100% CTV에 집중하지만 리테일 미디어로도 넓힐 계획이다."
+                "x": "Kakao is planning an ad model that reads purchase intent from conversations, for example recommending related lodging or booking services when a user discusses travel plans with AI. To that end, it will build a 'common memory infrastructure' by the first quarter (Q1) of next year and start a closed beta test of 'AI Crew', an AI agent for advertisers, in December."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Swivel、CTV広告を\n買うAIエージェント基盤",
-          "body": "ex-FreeWheel・SpringServe出身のSwivelがCTV運用をAI化する。",
-          "mini_headline": "SwivelのエージェントCTV基盤",
+          "headline": "Naverパワーリンク\nAIが広告文を書く",
+          "body": "Naverは12日から、パワーリンク広告の文言をAIで作る機能を試験導入する。",
+          "mini_headline": "Naver、AI\n広告文を試験導入",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/tv-remote-stock-square-1-1024x1024.jpeg"
+                "src": "https://image.fnnews.com/resource/media/image/2026/11/08/202611081827400014_l.jpg",
+                "cap": "Naverパワーリンクの「文言生成」方式。Naver提供"
               },
               {
                 "t": "p",
-                "x": "Swivelは、元FreeWheelerのFrans Vermeulenと、SpringServe共同創業者のMatt Dearborn、Rich Lin、Joseph Hirschが立ち上げたパブリッシャー向けテック企業だ。キャンペーン最適化から価格調整まで、パブリッシャーの広告運用における手作業の自動化を目指す。Hirschはこれをエージェントによる「エンドツーエンドのシステム」と呼び、最終的にはCTV広告のチェーン全体にまたがるエージェント基盤を目指すという。"
+                "x": "NaverとKakaoが人工知能(AI)を前面に出し、広告事業の収益性強化を急いでいる。Naverは12日から19日まで、検索広告「パワーリンク」にAIベースの「文言生成」機能を試験導入する。広告主が登録した広告素材やリンク先のウェブページなどをAIが分析し、ユーザーの検索意図に合った広告文を自動で生成する仕組みだ。Naverは8月に「AI要約テキスト」という名称で予告していたが、日程を延期した後に名称を変更し、テスト日程を確定した。"
               },
               {
                 "t": "p",
-                "x": "Swivelは単一の統合製品ではなく、予算配分、入札トラフィッキング、ペーシング、イールド管理、キャンペーン後のレポーティングなど、キャンペーン購入の各部分を担う複数のエージェントを持つ。多くのパブリッシャーは「広告運用のワークフロー全体を乱さないよう」一つか二つのエージェントを使っている。"
+                "x": "生成された文言は既存の広告に置き換わるのではなく、タイトルや宣伝文、別枠などに追加で表示される。課金方式は同じだが、AI生成の文言経由のクリックにも広告費がかかる。AIが生成した文言を直接修正することはできないが、機能を使わない設定にすることはできる。"
               },
               {
                 "t": "p",
-                "x": "断片化への対策として、HirschはAd Context Protocol(AdCP)を挙げた。そのadagents.json仕様により、パブリッシャーはどのエージェントに在庫の販売権限があるかを宣言できる。エージェントによる購入は、スポンサーシップ、ホーム画面広告、一時停止広告、シーケンシャルメディアなど、プログラマティックで買いにくいフォーマットの販売も自動化できる。Swivelの軸足は今も100% CTVだが、リテールメディアへの拡大を計画している。"
+                "x": "Kakaoは、ユーザーがAIと旅行計画を相談すると関連する宿泊や予約サービスを薦めるように、会話から購買意図を読み取る広告モデルを構想している。そのために「共通メモリインフラ」を来年の第1四半期までに構築し、広告主向けAIエージェント「AIクルー」のクローズドベータテストを12月に始める。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Swivel为AI代理\n搭建CTV广告购买通道",
-          "body": "Swivel由ex-FreeWheel和SpringServe高管创办,主攻CTV广告AI。",
-          "mini_headline": "Swivel的CTV代理基础设施",
+          "headline": "Naver让AI\n撰写PowerLink文案",
+          "body": "Naver将从12日起试行用AI生成PowerLink广告文案的功能。",
+          "mini_headline": "Naver试行\nAI广告文案",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/tv-remote-stock-square-1-1024x1024.jpeg"
+                "src": "https://image.fnnews.com/resource/media/image/2026/11/08/202611081827400014_l.jpg",
+                "cap": "Naver PowerLink的“文案生成”方式。Naver提供"
               },
               {
                 "t": "p",
-                "x": "Swivel是一家出版商技术初创公司,由前FreeWheeler Frans Vermeulen以及SpringServe联合创始人Matt Dearborn、Rich Lin和Joseph Hirsch创立。公司旨在将出版商广告运营中的手动工作自动化,从广告活动优化到价格调整——Hirsch称之为由代理组成的“端到端系统”,最终目标是打造贯穿CTV广告链条的代理式基础设施。"
+                "x": "Naver和Kakao正以人工智能（AI）为抓手，加快提升广告业务的盈利能力。Naver将于12日至19日在搜索广告“PowerLink”中试行基于AI的“文案生成”功能，由AI分析广告主登记的广告素材及其链接网页等，自动生成符合用户搜索意图的广告文案。Naver曾于8月以“AI摘要文本”的名称预告该功能，但推迟了日程，随后更改名称并确定了测试时间。"
               },
               {
                 "t": "p",
-                "x": "Swivel并非提供单一的整合产品,而是拥有多个代理,各自负责广告活动购买的某一环节,如预算、出价投放、节奏控制、收益管理和活动后报告。许多出版商只使用一两个代理,“以免打乱整个广告运营工作流程”。"
+                "x": "生成的文案不会取代现有广告，而是额外显示在标题、宣传语或单独区域中。计费方式不变，但通过AI生成文案产生的点击同样收取广告费。广告主无法直接修改AI生成的文案，但可以设置不使用该功能。"
               },
               {
                 "t": "p",
-                "x": "针对碎片化问题,Hirsch提到了Ad Context Protocol(AdCP),其adagents.json规范允许出版商声明哪些代理获授权销售其库存。代理式购买还能自动化那些难以通过程序化方式购买的形式的销售,例如赞助、主屏幕广告、暂停广告和序列媒体。Swivel目前仍100%专注于CTV,但计划拓展至零售媒体。"
+                "x": "Kakao正在构想一种从对话中把握购买意图的广告模式，例如用户与AI商量旅行计划时，为其推荐相关住宿或预订服务。为此，Kakao将在明年第一季度前建成“通用记忆基础设施”，并于12月启动面向广告主的AI智能体“AI Crew”的封闭测试。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Swivel crea la base para que\nagentes AI compren anuncios CTV",
-          "body": "Swivel, creada por ejecutivos ex-FreeWheel y SpringServe, automatiza con agentes de AI la gestión de anuncios CTV.",
-          "mini_headline": "Rieles agénticos de Swivel para CTV",
+          "headline": "Naver PowerLink: la AI escribe\nlos textos de los anuncios",
+          "body": "Naver probará desde el día 12 una función que crea con AI los textos de los anuncios de PowerLink.",
+          "mini_headline": "Naver prueba textos\nde anuncios con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/tv-remote-stock-square-1-1024x1024.jpeg"
+                "src": "https://image.fnnews.com/resource/media/image/2026/11/08/202611081827400014_l.jpg",
+                "cap": "Método de 'generación de textos' de Naver PowerLink. Cortesía de Naver"
               },
               {
                 "t": "p",
-                "x": "Swivel es una startup de tecnología para editores fundada por el antiguo FreeWheeler Frans Vermeulen y los cofundadores de SpringServe Matt Dearborn, Rich Lin y Joseph Hirsch. Su objetivo es automatizar las tareas manuales de las operaciones publicitarias de los editores, desde la optimización de campañas hasta los ajustes de precios —un “sistema de extremo a extremo” de agentes, según Hirsch—, con la meta final de una infraestructura agéntica que abarque toda la cadena publicitaria de CTV."
+                "x": "Naver y Kakao aceleran sus esfuerzos para hacer más rentable su negocio publicitario apoyándose en la inteligencia artificial (AI). Del 12 al 19, Naver probará en su publicidad de búsqueda 'PowerLink' una función de 'generación de textos' basada en AI. La AI analiza el material publicitario registrado por el anunciante y las páginas web vinculadas, entre otros elementos, y genera automáticamente textos publicitarios acordes con la intención de búsqueda del usuario. Naver la había anunciado en agosto con el nombre de 'Texto resumido por AI', pero aplazó el calendario y luego cambió el nombre y fijó las fechas de prueba."
               },
               {
                 "t": "p",
-                "x": "En lugar de un único producto consolidado, Swivel tiene varios agentes, cada uno responsable de una parte de la compra de una campaña, como presupuestos, tráfico de pujas, ritmo de entrega, gestión del rendimiento e informes posteriores a la campaña. Muchos editores usan uno o dos agentes “para no alterar todo su flujo de trabajo de operaciones publicitarias”."
+                "x": "Los textos generados no sustituyen a los anuncios existentes, sino que se muestran de forma adicional en títulos, textos promocionales o un área aparte. El sistema de cobro es el mismo, pero también se cobran los clics hechos a través de textos generados por AI. Los textos generados por AI no se pueden editar directamente, aunque se puede configurar para no usar la función."
               },
               {
                 "t": "p",
-                "x": "Para abordar la fragmentación, Hirsch señaló el Ad Context Protocol (AdCP), cuya especificación adagents.json permite a los editores declarar qué agentes están autorizados para vender su inventario. La compra agéntica también puede automatizar la venta de formatos difíciles de comprar de forma programática, como patrocinios, anuncios en la pantalla de inicio, anuncios de pausa y medios secuenciales. Swivel sigue centrada al 100% en CTV, pero tiene previsto expandirse a retail media."
+                "x": "Kakao estudia un modelo publicitario que detecte la intención de compra en las conversaciones, por ejemplo recomendando alojamiento o servicios de reserva relacionados cuando un usuario consulta sus planes de viaje con la AI. Para ello construirá una 'infraestructura de memoria común' para el primer trimestre del próximo año y en diciembre iniciará una beta cerrada de 'AI Crew', un agente de AI para anunciantes."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Swivel, CTV 광고\nAI 에이전트 길 닦는다",
-          "body": "Swivel은 ex-FreeWheel·SpringServe 출신의 CTV AI다.",
-          "mini_headline": "Swivel의 CTV 에이전트 인프라",
+        "en": {
+          "headline": "Naver PowerLink to let AI\nwrite search ad copy",
+          "body": "Naver will pilot a feature that writes PowerLink ad copy with AI starting on the 12th.",
+          "mini_headline": "Naver pilots AI\nad copy",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/tv-remote-stock-square-1-1024x1024.jpeg"
+                "src": "https://image.fnnews.com/resource/media/image/2026/11/08/202611081827400014_l.jpg",
+                "cap": "Naver PowerLink's 'copy generation' method. Courtesy of Naver"
               },
               {
                 "t": "p",
-                "x": "Swivel은 전 FreeWheeler Frans Vermeulen과 SpringServe 공동창업자 Matt Dearborn, Rich Lin, Joseph Hirsch가 세운 퍼블리셔 기술 스타트업이다. 캠페인 최적화부터 가격 조정까지 퍼블리셔 광고 운영의 수작업을 자동화하는 것이 목표다. Hirsch는 이를 에이전트로 이뤄진 “엔드투엔드 시스템”이라 불렀고, 최종 목표는 CTV 광고 체인 전반을 아우르는 에이전트 인프라다."
+                "x": "Naver and Kakao are leaning on artificial intelligence (AI) to speed up efforts to make their advertising businesses more profitable. From the 12th to the 19th, Naver will pilot an AI-based 'copy generation' feature in its search ad product 'PowerLink'. AI analyzes the ad creative an advertiser has registered and the linked webpages, among other things, and automatically generates ad copy matched to the user's search intent. Naver had announced the feature in August under the name 'AI Summary Text', but postponed it, then renamed it and confirmed the test schedule."
               },
               {
                 "t": "p",
-                "x": "Swivel은 하나로 통합된 제품 대신 예산 편성, 입찰 트래피킹, 페이싱, 수익 관리, 캠페인 후 리포팅 등 캠페인 구매의 각 부분을 맡는 여러 에이전트를 둔다. 많은 퍼블리셔는 “광고 운영 워크플로 전체를 흔들지 않으려고” 에이전트를 한두 개만 쓴다."
+                "x": "The generated copy does not replace existing ads; it is shown in addition, in titles, promotional text or a separate area. Billing works the same way, but clicks through AI-generated copy are also charged. Advertisers cannot edit the AI-generated copy directly, but they can set the feature not to be used."
               },
               {
                 "t": "p",
-                "x": "Hirsch는 파편화 문제의 해법으로 Ad Context Protocol(AdCP)을 꼽았다. AdCP의 adagents.json 사양을 쓰면 퍼블리셔는 어떤 에이전트가 자사 인벤토리를 판매할 권한이 있는지 밝힐 수 있다. 에이전트 기반 구매는 스폰서십, 홈 화면 광고, 일시정지 광고, 순차 미디어처럼 프로그래매틱으로 사기 어려운 형식의 판매도 자동화할 수 있다. Swivel은 여전히 100% CTV에 집중하지만 리테일 미디어로 확장할 계획이다."
+                "x": "Kakao is planning an ad model that reads purchase intent from conversations, for example recommending related lodging or booking services when a user discusses travel plans with AI. To that end, it will build a 'common memory infrastructure' by the first quarter (Q1) of next year and start a closed beta test of 'AI Crew', an AI agent for advertisers, in December."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Swivel、CTV広告を\n買うAIエージェント基盤",
-          "body": "ex-FreeWheel・SpringServe出身のSwivelがCTV運用をAI化する。",
-          "mini_headline": "SwivelのエージェントCTV基盤",
+          "headline": "Naverパワーリンク\nAIが広告文を書く",
+          "body": "Naverは12日から、パワーリンク広告の文言をAIで作る機能を試験導入する。",
+          "mini_headline": "Naver、AI\n広告文を試験導入",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/tv-remote-stock-square-1-1024x1024.jpeg"
+                "src": "https://image.fnnews.com/resource/media/image/2026/11/08/202611081827400014_l.jpg",
+                "cap": "Naverパワーリンクの「文言生成」方式。Naver提供"
               },
               {
                 "t": "p",
-                "x": "Swivelは、元FreeWheelerのFrans Vermeulenと、SpringServe共同創業者のMatt Dearborn、Rich Lin、Joseph Hirschが立ち上げたパブリッシャー向けテック企業だ。キャンペーン最適化から価格調整まで、パブリッシャーの広告運用における手作業の自動化を目指す。Hirschはこれをエージェントによる「エンドツーエンドのシステム」と呼び、最終的にはCTV広告のチェーン全体にまたがるエージェント基盤を目指すという。"
+                "x": "NaverとKakaoが人工知能(AI)を前面に出し、広告事業の収益性強化を急いでいる。Naverは12日から19日まで、検索広告「パワーリンク」にAIベースの「文言生成」機能を試験導入する。広告主が登録した広告素材やリンク先のウェブページなどをAIが分析し、ユーザーの検索意図に合った広告文を自動で生成する仕組みだ。Naverは8月に「AI要約テキスト」という名称で予告していたが、日程を延期した後に名称を変更し、テスト日程を確定した。"
               },
               {
                 "t": "p",
-                "x": "Swivelは単一の統合製品ではなく、予算配分、入札トラフィッキング、ペーシング、イールド管理、キャンペーン後のレポーティングなど、キャンペーン購入の各部分を担う複数のエージェントを持つ。多くのパブリッシャーは「広告運用のワークフロー全体を乱さないよう」一つか二つのエージェントを使っている。"
+                "x": "生成された文言は既存の広告に置き換わるのではなく、タイトルや宣伝文、別枠などに追加で表示される。課金方式は同じだが、AI生成の文言経由のクリックにも広告費がかかる。AIが生成した文言を直接修正することはできないが、機能を使わない設定にすることはできる。"
               },
               {
                 "t": "p",
-                "x": "断片化への対策として、HirschはAd Context Protocol(AdCP)を挙げた。そのadagents.json仕様により、パブリッシャーはどのエージェントに在庫の販売権限があるかを宣言できる。エージェントによる購入は、スポンサーシップ、ホーム画面広告、一時停止広告、シーケンシャルメディアなど、プログラマティックで買いにくいフォーマットの販売も自動化できる。Swivelの軸足は今も100% CTVだが、リテールメディアへの拡大を計画している。"
+                "x": "Kakaoは、ユーザーがAIと旅行計画を相談すると関連する宿泊や予約サービスを薦めるように、会話から購買意図を読み取る広告モデルを構想している。そのために「共通メモリインフラ」を来年の第1四半期までに構築し、広告主向けAIエージェント「AIクルー」のクローズドベータテストを12月に始める。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Swivel为AI代理\n搭建CTV广告购买通道",
-          "body": "Swivel由ex-FreeWheel和SpringServe高管创办,主攻CTV广告AI。",
-          "mini_headline": "Swivel的CTV代理基础设施",
+          "headline": "Naver让AI\n撰写PowerLink文案",
+          "body": "Naver将从12日起试行用AI生成PowerLink广告文案的功能。",
+          "mini_headline": "Naver试行\nAI广告文案",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/tv-remote-stock-square-1-1024x1024.jpeg"
+                "src": "https://image.fnnews.com/resource/media/image/2026/11/08/202611081827400014_l.jpg",
+                "cap": "Naver PowerLink的“文案生成”方式。Naver提供"
               },
               {
                 "t": "p",
-                "x": "Swivel是一家出版商技术初创公司,由前FreeWheeler Frans Vermeulen以及SpringServe联合创始人Matt Dearborn、Rich Lin和Joseph Hirsch创立。公司旨在将出版商广告运营中的手动工作自动化,从广告活动优化到价格调整——Hirsch称之为由代理组成的“端到端系统”,最终目标是打造贯穿CTV广告链条的代理式基础设施。"
+                "x": "Naver和Kakao正以人工智能（AI）为抓手，加快提升广告业务的盈利能力。Naver将于12日至19日在搜索广告“PowerLink”中试行基于AI的“文案生成”功能，由AI分析广告主登记的广告素材及其链接网页等，自动生成符合用户搜索意图的广告文案。Naver曾于8月以“AI摘要文本”的名称预告该功能，但推迟了日程，随后更改名称并确定了测试时间。"
               },
               {
                 "t": "p",
-                "x": "Swivel并非提供单一的整合产品,而是拥有多个代理,各自负责广告活动购买的某一环节,如预算、出价投放、节奏控制、收益管理和活动后报告。许多出版商只使用一两个代理,“以免打乱整个广告运营工作流程”。"
+                "x": "生成的文案不会取代现有广告，而是额外显示在标题、宣传语或单独区域中。计费方式不变，但通过AI生成文案产生的点击同样收取广告费。广告主无法直接修改AI生成的文案，但可以设置不使用该功能。"
               },
               {
                 "t": "p",
-                "x": "针对碎片化问题,Hirsch提到了Ad Context Protocol(AdCP),其adagents.json规范允许出版商声明哪些代理获授权销售其库存。代理式购买还能自动化那些难以通过程序化方式购买的形式的销售,例如赞助、主屏幕广告、暂停广告和序列媒体。Swivel目前仍100%专注于CTV,但计划拓展至零售媒体。"
+                "x": "Kakao正在构想一种从对话中把握购买意图的广告模式，例如用户与AI商量旅行计划时，为其推荐相关住宿或预订服务。为此，Kakao将在明年第一季度前建成“通用记忆基础设施”，并于12月启动面向广告主的AI智能体“AI Crew”的封闭测试。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Swivel crea la base para que\nagentes AI compren anuncios CTV",
-          "body": "Swivel, creada por ejecutivos ex-FreeWheel y SpringServe, automatiza con agentes de AI la gestión de anuncios CTV.",
-          "mini_headline": "Rieles agénticos de Swivel para CTV",
+          "headline": "Naver PowerLink: la AI escribe\nlos textos de los anuncios",
+          "body": "Naver probará desde el día 12 una función que crea con AI los textos de los anuncios de PowerLink.",
+          "mini_headline": "Naver prueba textos\nde anuncios con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/tv-remote-stock-square-1-1024x1024.jpeg"
+                "src": "https://image.fnnews.com/resource/media/image/2026/11/08/202611081827400014_l.jpg",
+                "cap": "Método de 'generación de textos' de Naver PowerLink. Cortesía de Naver"
               },
               {
                 "t": "p",
-                "x": "Swivel es una startup de tecnología para editores fundada por el antiguo FreeWheeler Frans Vermeulen y los cofundadores de SpringServe Matt Dearborn, Rich Lin y Joseph Hirsch. Su objetivo es automatizar las tareas manuales de las operaciones publicitarias de los editores, desde la optimización de campañas hasta los ajustes de precios —un “sistema de extremo a extremo” de agentes, según Hirsch—, con la meta final de una infraestructura agéntica que abarque toda la cadena publicitaria de CTV."
+                "x": "Naver y Kakao aceleran sus esfuerzos para hacer más rentable su negocio publicitario apoyándose en la inteligencia artificial (AI). Del 12 al 19, Naver probará en su publicidad de búsqueda 'PowerLink' una función de 'generación de textos' basada en AI. La AI analiza el material publicitario registrado por el anunciante y las páginas web vinculadas, entre otros elementos, y genera automáticamente textos publicitarios acordes con la intención de búsqueda del usuario. Naver la había anunciado en agosto con el nombre de 'Texto resumido por AI', pero aplazó el calendario y luego cambió el nombre y fijó las fechas de prueba."
               },
               {
                 "t": "p",
-                "x": "En lugar de un único producto consolidado, Swivel tiene varios agentes, cada uno responsable de una parte de la compra de una campaña, como presupuestos, tráfico de pujas, ritmo de entrega, gestión del rendimiento e informes posteriores a la campaña. Muchos editores usan uno o dos agentes “para no alterar todo su flujo de trabajo de operaciones publicitarias”."
+                "x": "Los textos generados no sustituyen a los anuncios existentes, sino que se muestran de forma adicional en títulos, textos promocionales o un área aparte. El sistema de cobro es el mismo, pero también se cobran los clics hechos a través de textos generados por AI. Los textos generados por AI no se pueden editar directamente, aunque se puede configurar para no usar la función."
               },
               {
                 "t": "p",
-                "x": "Para abordar la fragmentación, Hirsch señaló el Ad Context Protocol (AdCP), cuya especificación adagents.json permite a los editores declarar qué agentes están autorizados para vender su inventario. La compra agéntica también puede automatizar la venta de formatos difíciles de comprar de forma programática, como patrocinios, anuncios en la pantalla de inicio, anuncios de pausa y medios secuenciales. Swivel sigue centrada al 100% en CTV, pero tiene previsto expandirse a retail media."
+                "x": "Kakao estudia un modelo publicitario que detecte la intención de compra en las conversaciones, por ejemplo recomendando alojamiento o servicios de reserva relacionados cuando un usuario consulta sus planes de viaje con la AI. Para ello construirá una 'infraestructura de memoria común' para el primer trimestre del próximo año y en diciembre iniciará una beta cerrada de 'AI Crew', un agente de AI para anunciantes."
               }
             ]
           }
@@ -1221,15 +1291,15 @@
       }
     },
     {
-      "id": "visa-agentic-commerce-benchmark",
-      "source_lang": "en",
+      "id": "moloco-cara-molocon26-ctv",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Visa 벤치마크로\nAI 쇼핑 에이전트 검증",
-      "body": "22개 AI 모델이 Visa 테스트 57.2%를 통과했고 실패의 54%에도 샀다.",
-      "mini_headline": "Visa, AI 쇼핑 에이전트 시험",
+      "headline": "몰로코 카라, 앱 넘어\nCTV·커머스로",
+      "body": "몰로코가 몰로콘 26에서 AI 광고 시스템 카라의 CTV·커머스 확장을 발표했다.",
+      "mini_headline": "몰로코 카라,\nCTV로 확장",
       "tool": "Marketing",
-      "source": "The Paypers",
-      "url": "https://thepaypers.com/payments/news/visa-benchmark-tests-how-well-ai-agents-handle-shopping-tasks",
+      "source": "테크수다",
+      "url": "https://www.techsuda.com/moloco-molocon-26-cara-ai-advertising/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -1237,255 +1307,335 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://assets.thepaypers.com/news%20team/225-visa.jpg"
+            "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/7vlne7_202611060313.jpg"
           },
           {
             "t": "p",
-            "x": "Visa가 Visa Agentic Commerce Benchmark를 내놓았다. 현실적인 쇼핑 테스트에서 22개 AI 모델의 전체 통과율은 57.2%였다. 모델은 대화로 소비자가 원하는 바를 파악하고, 요건에 맞는 제품이 없으면 사지 않는 판단까지 내려야 한다. 첫 라운드에서는 12개 AI 연구소의 22개 모델이 TV, 노트북, 개인 위생 가전 구매 등 15개 쇼핑 과제를 풀었다."
+            "x": "글로벌 AI 광고 기업 몰로코(Moloco)가 2026년 11월 5일 서울에서 연례 플래그십 행사 '몰로콘 26(Molocon 26)'을 개최했다. '성장, 그 너머로(Where growth goes next)'를 주제로 열린 행사에는 약 500여 명이 참석했고, 몰로코는 AI 광고 시스템 카라(CARA)를 중심으로 앱·CTV·커머스 미디어에서 고객을 찾는 방법을 제시했다."
           },
           {
             "t": "p",
-            "x": "가장 성적이 좋은 모델은 시도의 82.2%를 통과했고 가장 약한 모델은 28.9%에 그쳤다. 숨은 구매 요건을 가장 많이 찾아낸 다섯 모델은 평균 70.2%를 통과해, 가장 적게 찾은 다섯 모델(44.4%)보다 높았다. 한 시나리오에서 세 번 시도를 모두 통과한 경우는 34.2%뿐이었다. 실패한 실행의 54%에서는 AI가 그대로 구매를 진행했다."
+            "x": "안익진 CEO는 \"이제 병목은 제품을 만드는 일이 아니라 발견되는 일이고, 몰로코는 바로 이 문제를 풀기 위해 만들어졌다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "Visa의 Global Head of Growth인 Rubail Birwadker는 핵심은 신뢰라고 말했다. Visa의 Trust Index에 따르면 미국(US) 소비자의 72%가 AI 어시스턴트를 써 봤지만, AI에 결제를 맡길 만큼 믿는 사람은 23%에 그쳤다. Visa는 시나리오를 늘리고 테스트도 체크아웃, 결제, 주문 접수까지 넓힐 계획이다."
+            "x": "전동환 CTO가 소개한 카라는 복합 광고 추천 아키텍처(Compound Ad Recommendation Architecture)를 뜻하며, 30개가 넘는 AI 모델, 에이전트, 특화 소프트웨어를 결합한 시스템이다. 하루 1조 건이 넘는 광고 기회를 평가하며 누가 전환할지, 얼마를 입찰할지, 어떤 크리에이티브를 보여줄지 예측한다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/ods77v_202611060321.jpg"
+          },
+          {
+            "t": "p",
+            "x": "이혜정 CTV 파트너십 총괄은 몰로코가 모바일에서 만든 퍼포먼스 AI를 TV 화면에 적용해 예측한 가치에 따라 프리미엄 TV 지면에 입찰하고, 홀드아웃 테스트로 증분 성장을 측정한다고 설명했다. 이현채 APAC 전략 이니셔티브 총괄은 커머스 미디어가 한국 주요 플랫폼에서 가장 빠르게 성장하는 채널 중 하나라고 설명했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Visa benchmark puts AI\nshopping agents to the test",
-          "body": "22 AI models passed 57.2% of Visa's shopping tests, and 54% of failed runs still ended in a purchase.",
-          "mini_headline": "Visa tests AI shopping agents",
+        "ko": {
+          "headline": "몰로코 카라, 앱 넘어\nCTV·커머스로",
+          "body": "몰로코가 몰로콘 26에서 AI 광고 시스템 카라의 CTV·커머스 확장을 발표했다.",
+          "mini_headline": "몰로코 카라,\nCTV로 확장",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.thepaypers.com/news%20team/225-visa.jpg"
+                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/7vlne7_202611060313.jpg"
               },
               {
                 "t": "p",
-                "x": "Visa has launched the Visa Agentic Commerce Benchmark, finding that 22 AI models passed 57.2% of realistic shopping tests overall. Models must identify a consumer's needs through conversation and decide not to buy if no product meets the requirements. The first round tested 22 models from 12 AI labs on 15 shopping tasks, including buying a TV, a laptop, and a personal care appliance."
+                "x": "글로벌 AI 광고 기업 몰로코(Moloco)가 2026년 11월 5일 서울에서 연례 플래그십 행사 '몰로콘 26(Molocon 26)'을 개최했다. '성장, 그 너머로(Where growth goes next)'를 주제로 열린 행사에는 약 500여 명이 참석했고, 몰로코는 AI 광고 시스템 카라(CARA)를 중심으로 앱·CTV·커머스 미디어에서 고객을 찾는 방법을 제시했다."
               },
               {
                 "t": "p",
-                "x": "The best-performing models passed 82.2% of attempts, while the weakest passed 28.9%. The five models that uncovered the most hidden buying requirements averaged a 70.2% pass rate, compared with 44.4% for the five that uncovered the fewest. All three attempts at a scenario passed only 34.2% of the time, and in 54% of failed runs the AI still made a purchase."
+                "x": "안익진 CEO는 \"이제 병목은 제품을 만드는 일이 아니라 발견되는 일이고, 몰로코는 바로 이 문제를 풀기 위해 만들어졌다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "Rubail Birwadker, Global Head of Growth at Visa, said trust is key. Visa's Trust Index found 72% of US consumers had used an AI assistant, but only 23% trusted AI to handle payments on their behalf. Visa plans to add more scenarios and extend testing to checkout, payment, and order placement."
+                "x": "전동환 CTO가 소개한 카라는 복합 광고 추천 아키텍처(Compound Ad Recommendation Architecture)를 뜻하며, 30개가 넘는 AI 모델, 에이전트, 특화 소프트웨어를 결합한 시스템이다. 하루 1조 건이 넘는 광고 기회를 평가하며 누가 전환할지, 얼마를 입찰할지, 어떤 크리에이티브를 보여줄지 예측한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/ods77v_202611060321.jpg"
+              },
+              {
+                "t": "p",
+                "x": "이혜정 CTV 파트너십 총괄은 몰로코가 모바일에서 만든 퍼포먼스 AI를 TV 화면에 적용해 예측한 가치에 따라 프리미엄 TV 지면에 입찰하고, 홀드아웃 테스트로 증분 성장을 측정한다고 설명했다. 이현채 APAC 전략 이니셔티브 총괄은 커머스 미디어가 한국 주요 플랫폼에서 가장 빠르게 성장하는 채널 중 하나라고 설명했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Visa 벤치마크로\nAI 쇼핑 에이전트 검증",
-          "body": "22개 AI 모델이 Visa 테스트 57.2%를 통과했고 실패의 54%에도 샀다.",
-          "mini_headline": "Visa, AI 쇼핑 에이전트 시험",
+        "en": {
+          "headline": "Moloco takes CARA beyond apps\nto CTV and commerce",
+          "body": "At Molocon 26, Moloco announced it is expanding its AI ad system CARA to CTV and commerce.",
+          "mini_headline": "Moloco's CARA\nexpands to CTV",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.thepaypers.com/news%20team/225-visa.jpg"
+                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/7vlne7_202611060313.jpg"
               },
               {
                 "t": "p",
-                "x": "Visa가 Visa Agentic Commerce Benchmark를 내놓았다. 현실적인 쇼핑 테스트에서 22개 AI 모델의 전체 통과율은 57.2%였다. 모델은 대화로 소비자가 원하는 바를 파악하고, 요건에 맞는 제품이 없으면 사지 않는 판단까지 내려야 한다. 첫 라운드에서는 12개 AI 연구소의 22개 모델이 TV, 노트북, 개인 위생 가전 구매 등 15개 쇼핑 과제를 풀었다."
+                "x": "Global AI advertising company Moloco held its annual flagship event, 'Molocon 26', in Seoul on November 5, 2026. About 500 people attended the event, themed 'Where growth goes next', and Moloco presented ways to find customers across apps, CTV and commerce media, centered on its AI ad system CARA."
               },
               {
                 "t": "p",
-                "x": "가장 성적이 좋은 모델은 시도의 82.2%를 통과했고 가장 약한 모델은 28.9%에 그쳤다. 숨은 구매 요건을 가장 많이 찾아낸 다섯 모델은 평균 70.2%를 통과해, 가장 적게 찾은 다섯 모델(44.4%)보다 높았다. 한 시나리오에서 세 번 시도를 모두 통과한 경우는 34.2%뿐이었다. 실패한 실행의 54%에서는 AI가 그대로 구매를 진행했다."
+                "x": "CEO Ikjin Ahn said, \"The bottleneck now is not making products but being discovered, and Moloco was built to solve exactly this problem.\""
               },
               {
                 "t": "p",
-                "x": "Visa의 Global Head of Growth인 Rubail Birwadker는 핵심은 신뢰라고 말했다. Visa의 Trust Index에 따르면 미국(US) 소비자의 72%가 AI 어시스턴트를 써 봤지만, AI에 결제를 맡길 만큼 믿는 사람은 23%에 그쳤다. Visa는 시나리오를 늘리고 테스트도 체크아웃, 결제, 주문 접수까지 넓힐 계획이다."
+                "x": "CARA, introduced by CTO Donghwan Jeon, stands for Compound Ad Recommendation Architecture, a system that combines more than 30 AI models, agents and specialized software. It evaluates more than 1 trillion ad opportunities a day, predicting who will convert, how much to bid and which creative to show."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/ods77v_202611060321.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Hyejung Lee, head of CTV partnerships, explained that Moloco applies the performance AI it built on mobile to the TV screen, bidding on premium TV inventory according to predicted value and measuring incremental growth with holdout tests. Hyunchae Lee, head of APAC strategic initiatives, said commerce media is one of the fastest-growing channels on major Korean platforms."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Visaのベンチマークで\nAI買い物エージェント検証",
-          "body": "22のAIモデルはVisaの買い物テストの57.2%に合格し、失敗の54%でも購入した。",
-          "mini_headline": "VisaがAI買い物エージェントを試験",
+          "headline": "Moloco CARA、\nアプリ超えCTV・コマースへ",
+          "body": "MolocoはMolocon 26でAI広告CARAのCTV・コマース拡大を発表した。",
+          "mini_headline": "Moloco CARA、\nCTVへ拡大",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.thepaypers.com/news%20team/225-visa.jpg"
+                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/7vlne7_202611060313.jpg"
               },
               {
                 "t": "p",
-                "x": "VisaはVisa Agentic Commerce Benchmarkを公開し、22のAIモデルが現実的な買い物テスト全体の57.2%に合格したと明らかにした。モデルは会話を通じて消費者のニーズを把握し、条件を満たす商品がなければ買わない判断を下さなければならない。初回は12のAIラボの22モデルを、TV、ノートPC、パーソナルケア家電の購入を含む15の買い物タスクで試した。"
+                "x": "グローバルAI広告企業のMolocoは2026年11月5日、ソウルで年次フラッグシップイベント「Molocon 26」を開催した。「成長、その先へ(Where growth goes next)」をテーマに約500人が参加し、MolocoはAI広告システムCARAを軸に、アプリ・CTV・コマースメディアで顧客を見つける方法を示した。"
               },
               {
                 "t": "p",
-                "x": "最も成績の良いモデルは試行の82.2%に合格し、最も弱いモデルは28.9%だった。隠れた購入条件を最も多く見つけた五つのモデルの平均合格率は70.2%で、最も少なかった五つのモデルの44.4%を上回った。あるシナリオの三回の試行すべてに合格したのは34.2%にとどまり、失敗した実行の54%ではAIがそれでも購入した。"
+                "x": "アン・イクジンCEOは「今やボトルネックは製品を作ることではなく見つけてもらうことであり、Molocoはまさにこの問題を解くために作られた」と語った。"
               },
               {
                 "t": "p",
-                "x": "VisaのGlobal Head of GrowthであるRubail Birwadkerは、信頼が鍵だと述べた。VisaのTrust Indexによると、US(米国)の消費者の72%がAIアシスタントを使ったことがある一方、決済をAIに任せられると信頼しているのは23%にとどまった。Visaはシナリオを追加し、チェックアウト、支払い、注文確定にもテストを広げる計画だ。"
+                "x": "チョン・ドンファンCTOが紹介したCARAは、複合広告推薦アーキテクチャ(Compound Ad Recommendation Architecture)を意味し、30を超えるAIモデル、エージェント、専用ソフトウェアを組み合わせたシステムだ。1日に1兆件を超える広告機会を評価し、誰がコンバージョンするか、いくらで入札するか、どのクリエイティブを見せるかを予測する。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/ods77v_202611060321.jpg"
+              },
+              {
+                "t": "p",
+                "x": "イ・ヘジョンCTVパートナーシップ統括は、Molocoがモバイルで築いたパフォーマンスAIをTV画面に適用し、予測した価値に応じてプレミアムTV枠に入札し、ホールドアウトテストで増分成長を測定すると説明した。イ・ヒョンチェAPAC戦略イニシアチブ統括は、コマースメディアが韓国の主要プラットフォームで最も急成長しているチャネルの一つだと述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Visa基准测试\n检验AI购物代理",
-          "body": "22个AI模型通过了Visa购物测试的57.2%,失败运行中54%仍完成购买。",
-          "mini_headline": "Visa测试AI购物代理",
+          "headline": "Moloco CARA\n从应用扩展至CTV与电商",
+          "body": "Moloco在Molocon 26上宣布将AI广告系统CARA扩展至CTV和电商。",
+          "mini_headline": "Moloco CARA\n扩展至CTV",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.thepaypers.com/news%20team/225-visa.jpg"
+                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/7vlne7_202611060313.jpg"
               },
               {
                 "t": "p",
-                "x": "Visa推出Visa Agentic Commerce Benchmark,发现22个AI模型总体通过了57.2%的真实购物测试。模型须通过对话识别消费者需求,并在没有产品符合要求时决定不购买。首轮测试了来自12家AI实验室的22个模型,涵盖15项购物任务,包括购买TV、笔记本电脑和个人护理电器。"
+                "x": "全球AI广告企业Moloco于2026年11月5日在首尔举办年度旗舰活动“Molocon 26”。活动以“增长，更进一步（Where growth goes next）”为主题，约500人参加。Moloco以AI广告系统CARA为核心，展示了在应用、CTV和电商媒体中寻找客户的方法。"
               },
               {
                 "t": "p",
-                "x": "表现最好的模型通过了82.2%的尝试,最弱的仅为28.9%。发现隐藏购买需求最多的五个模型平均通过率为70.2%,而发现最少的五个模型为44.4%。一个场景的三次尝试全部通过的情况仅占34.2%,而在54%的失败运行中,AI仍然完成了购买。"
+                "x": "CEO Ikjin Ahn表示：“如今的瓶颈不在于做出产品，而在于被发现，Moloco正是为解决这个问题而生的。”"
               },
               {
                 "t": "p",
-                "x": "Visa全球增长负责人(Global Head of Growth)Rubail Birwadker表示,信任是关键。Visa的Trust Index显示,72%的US消费者用过AI助手,但只有23%信任AI代其处理支付。Visa计划增加更多场景,并将测试扩展至结账、支付和下单环节。"
+                "x": "CTO Donghwan Jeon介绍的CARA意为复合广告推荐架构（Compound Ad Recommendation Architecture），是一个整合了30多个AI模型、智能体和专用软件的系统。它每天评估超过1万亿次广告机会，预测谁会转化、出价多少以及展示哪种创意。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/ods77v_202611060321.jpg"
+              },
+              {
+                "t": "p",
+                "x": "CTV合作负责人Hyejung Lee介绍，Moloco将在移动端打造的效果型AI应用到TV屏幕上，根据预测价值竞价高端TV广告位，并通过保留组测试衡量增量增长。APAC战略项目负责人Hyunchae Lee表示，电商媒体是韩国主要平台上增长最快的渠道之一。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Visa pone a prueba a los\nagentes de compra con AI",
-          "body": "22 modelos de AI superaron el 57.2% de las pruebas de compra de Visa, y en el 54% de los fallos aun así hubo compra.",
-          "mini_headline": "Visa prueba agentes de compra AI",
+          "headline": "Moloco lleva CARA más allá\nde las apps: CTV y comercio",
+          "body": "En Molocon 26, Moloco anunció la expansión de su sistema publicitario de AI CARA a CTV y comercio.",
+          "mini_headline": "CARA de Moloco\nllega a CTV",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.thepaypers.com/news%20team/225-visa.jpg"
+                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/7vlne7_202611060313.jpg"
               },
               {
                 "t": "p",
-                "x": "Visa lanzó el Visa Agentic Commerce Benchmark y halló que 22 modelos de AI superaron en conjunto el 57.2% de las pruebas de compra realistas. Los modelos deben identificar las necesidades del consumidor mediante la conversación y decidir no comprar si ningún producto cumple los requisitos. La primera ronda evaluó 22 modelos de 12 laboratorios de AI en 15 tareas de compra, entre ellas comprar una TV, un equipo portátil y un aparato de cuidado personal."
+                "x": "La empresa global de publicidad con AI Moloco celebró el 5 de noviembre de 2026 en Seúl su evento insignia anual, 'Molocon 26'. Unas 500 personas asistieron al evento, con el lema 'Where growth goes next' ('Hacia dónde va el crecimiento'), y Moloco presentó formas de encontrar clientes en apps, CTV y medios de comercio, con su sistema publicitario de AI CARA como eje."
               },
               {
                 "t": "p",
-                "x": "Los modelos con mejor desempeño superaron el 82.2% de los intentos, mientras que los más débiles superaron el 28.9%. Los cinco modelos que descubrieron más requisitos de compra ocultos promediaron una tasa de aprobación del 70.2%, frente al 44.4% de los cinco que descubrieron menos. Los tres intentos de un escenario se superaron solo el 34.2% de las veces, y en el 54% de las ejecuciones fallidas la AI realizó igualmente una compra."
+                "x": "El CEO Ikjin Ahn afirmó: \"Ahora el cuello de botella no es crear productos, sino ser descubierto, y Moloco se creó precisamente para resolver este problema\"."
               },
               {
                 "t": "p",
-                "x": "Rubail Birwadker, Global Head of Growth de Visa, afirmó que la confianza es clave. El Trust Index de Visa reveló que el 72% de los consumidores de Estados Unidos (US) había usado un asistente de AI, pero solo el 23% confiaba en que la AI gestionara pagos en su nombre. Visa prevé añadir más escenarios y extender las pruebas al checkout, el pago y la realización de pedidos."
+                "x": "CARA, presentado por el CTO Donghwan Jeon, significa Compound Ad Recommendation Architecture (arquitectura compuesta de recomendación de anuncios) y es un sistema que combina más de 30 modelos de AI, agentes y software especializado. Evalúa más de 1 billón de oportunidades publicitarias al día y predice quién convertirá, cuánto pujar y qué creatividad mostrar."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/ods77v_202611060321.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Hyejung Lee, responsable de alianzas de CTV, explicó que Moloco aplica a la pantalla de TV la AI de rendimiento que desarrolló en móviles, puja por espacios premium de TV según el valor previsto y mide el crecimiento incremental con pruebas de holdout. Hyunchae Lee, responsable de iniciativas estratégicas para APAC, señaló que los medios de comercio son uno de los canales de mayor crecimiento en las principales plataformas de Corea."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Visa 벤치마크로\nAI 쇼핑 에이전트 검증",
-          "body": "22개 AI 모델은 Visa 테스트 57.2%를 통과했고 실패의 54%도 구매했다.",
-          "mini_headline": "Visa, AI 쇼핑 에이전트 시험",
+        "en": {
+          "headline": "Moloco takes CARA beyond apps\nto CTV and commerce",
+          "body": "At Molocon 26, Moloco announced it is expanding its AI ad system CARA to CTV and commerce.",
+          "mini_headline": "Moloco's CARA\nexpands to CTV",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.thepaypers.com/news%20team/225-visa.jpg"
+                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/7vlne7_202611060313.jpg"
               },
               {
                 "t": "p",
-                "x": "Visa가 Visa Agentic Commerce Benchmark를 내놓았다. 22개 AI 모델이 현실적인 쇼핑 테스트를 전체 57.2% 통과한 것으로 나타났다. 모델은 대화로 소비자의 필요를 파악해야 하고, 요건에 맞는 제품이 없으면 사지 않기로 판단해야 한다. 첫 라운드에서는 12개 AI 연구소의 22개 모델이 TV, 노트북, 개인 위생 가전 구매 등 15개 쇼핑 과제를 수행했다."
+                "x": "Global AI advertising company Moloco held its annual flagship event, 'Molocon 26', in Seoul on November 5, 2026. About 500 people attended the event, themed 'Where growth goes next', and Moloco presented ways to find customers across apps, CTV and commerce media, centered on its AI ad system CARA."
               },
               {
                 "t": "p",
-                "x": "가장 성적이 좋은 모델은 시도의 82.2%를 통과했고, 가장 약한 모델은 28.9%에 그쳤다. 숨은 구매 요건을 가장 많이 찾아낸 다섯 모델의 평균 통과율은 70.2%로, 가장 적게 찾아낸 다섯 모델의 44.4%를 웃돌았다. 한 시나리오의 세 차례 시도를 모두 통과한 경우는 34.2%에 불과했고, 실패한 실행의 54%에서는 AI가 그래도 구매를 진행했다."
+                "x": "CEO Ikjin Ahn said, \"The bottleneck now is not making products but being discovered, and Moloco was built to solve exactly this problem.\""
               },
               {
                 "t": "p",
-                "x": "Visa의 Global Head of Growth인 Rubail Birwadker는 신뢰가 핵심이라고 말했다. Visa의 Trust Index에 따르면 미국(US) 소비자의 72%가 AI 어시스턴트를 써 봤지만, AI에 결제를 맡길 만큼 신뢰하는 비율은 23%에 그쳤다. Visa는 시나리오를 늘리고 테스트 범위를 체크아웃, 결제, 주문 접수까지 넓힐 계획이다."
+                "x": "CARA, introduced by CTO Donghwan Jeon, stands for Compound Ad Recommendation Architecture, a system that combines more than 30 AI models, agents and specialized software. It evaluates more than 1 trillion ad opportunities a day, predicting who will convert, how much to bid and which creative to show."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/ods77v_202611060321.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Hyejung Lee, head of CTV partnerships, explained that Moloco applies the performance AI it built on mobile to the TV screen, bidding on premium TV inventory according to predicted value and measuring incremental growth with holdout tests. Hyunchae Lee, head of APAC strategic initiatives, said commerce media is one of the fastest-growing channels on major Korean platforms."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Visaのベンチマークで\nAI買い物エージェント検証",
-          "body": "22のAIモデルはVisaの買い物テストの57.2%に合格し、失敗の54%でも購入した。",
-          "mini_headline": "VisaがAI買い物エージェントを試験",
+          "headline": "Moloco CARA、\nアプリ超えCTV・コマースへ",
+          "body": "MolocoはMolocon 26でAI広告CARAのCTV・コマース拡大を発表した。",
+          "mini_headline": "Moloco CARA、\nCTVへ拡大",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.thepaypers.com/news%20team/225-visa.jpg"
+                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/7vlne7_202611060313.jpg"
               },
               {
                 "t": "p",
-                "x": "VisaはVisa Agentic Commerce Benchmarkを公開し、22のAIモデルが現実的な買い物テスト全体の57.2%に合格したと明らかにした。モデルは会話を通じて消費者のニーズを把握し、条件を満たす商品がなければ買わない判断を下さなければならない。初回は12のAIラボの22モデルを、TV、ノートPC、パーソナルケア家電の購入を含む15の買い物タスクで試した。"
+                "x": "グローバルAI広告企業のMolocoは2026年11月5日、ソウルで年次フラッグシップイベント「Molocon 26」を開催した。「成長、その先へ(Where growth goes next)」をテーマに約500人が参加し、MolocoはAI広告システムCARAを軸に、アプリ・CTV・コマースメディアで顧客を見つける方法を示した。"
               },
               {
                 "t": "p",
-                "x": "最も成績の良いモデルは試行の82.2%に合格し、最も弱いモデルは28.9%だった。隠れた購入条件を最も多く見つけた五つのモデルの平均合格率は70.2%で、最も少なかった五つのモデルの44.4%を上回った。あるシナリオの三回の試行すべてに合格したのは34.2%にとどまり、失敗した実行の54%ではAIがそれでも購入した。"
+                "x": "アン・イクジンCEOは「今やボトルネックは製品を作ることではなく見つけてもらうことであり、Molocoはまさにこの問題を解くために作られた」と語った。"
               },
               {
                 "t": "p",
-                "x": "VisaのGlobal Head of GrowthであるRubail Birwadkerは、信頼が鍵だと述べた。VisaのTrust Indexによると、US(米国)の消費者の72%がAIアシスタントを使ったことがある一方、決済をAIに任せられると信頼しているのは23%にとどまった。Visaはシナリオを追加し、チェックアウト、支払い、注文確定にもテストを広げる計画だ。"
+                "x": "チョン・ドンファンCTOが紹介したCARAは、複合広告推薦アーキテクチャ(Compound Ad Recommendation Architecture)を意味し、30を超えるAIモデル、エージェント、専用ソフトウェアを組み合わせたシステムだ。1日に1兆件を超える広告機会を評価し、誰がコンバージョンするか、いくらで入札するか、どのクリエイティブを見せるかを予測する。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/ods77v_202611060321.jpg"
+              },
+              {
+                "t": "p",
+                "x": "イ・ヘジョンCTVパートナーシップ統括は、Molocoがモバイルで築いたパフォーマンスAIをTV画面に適用し、予測した価値に応じてプレミアムTV枠に入札し、ホールドアウトテストで増分成長を測定すると説明した。イ・ヒョンチェAPAC戦略イニシアチブ統括は、コマースメディアが韓国の主要プラットフォームで最も急成長しているチャネルの一つだと述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Visa基准测试\n检验AI购物代理",
-          "body": "22个AI模型通过了Visa购物测试的57.2%,失败运行中54%仍完成购买。",
-          "mini_headline": "Visa测试AI购物代理",
+          "headline": "Moloco CARA\n从应用扩展至CTV与电商",
+          "body": "Moloco在Molocon 26上宣布将AI广告系统CARA扩展至CTV和电商。",
+          "mini_headline": "Moloco CARA\n扩展至CTV",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.thepaypers.com/news%20team/225-visa.jpg"
+                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/7vlne7_202611060313.jpg"
               },
               {
                 "t": "p",
-                "x": "Visa推出Visa Agentic Commerce Benchmark,发现22个AI模型总体通过了57.2%的真实购物测试。模型须通过对话识别消费者需求,并在没有产品符合要求时决定不购买。首轮测试了来自12家AI实验室的22个模型,涵盖15项购物任务,包括购买TV、笔记本电脑和个人护理电器。"
+                "x": "全球AI广告企业Moloco于2026年11月5日在首尔举办年度旗舰活动“Molocon 26”。活动以“增长，更进一步（Where growth goes next）”为主题，约500人参加。Moloco以AI广告系统CARA为核心，展示了在应用、CTV和电商媒体中寻找客户的方法。"
               },
               {
                 "t": "p",
-                "x": "表现最好的模型通过了82.2%的尝试,最弱的仅为28.9%。发现隐藏购买需求最多的五个模型平均通过率为70.2%,而发现最少的五个模型为44.4%。一个场景的三次尝试全部通过的情况仅占34.2%,而在54%的失败运行中,AI仍然完成了购买。"
+                "x": "CEO Ikjin Ahn表示：“如今的瓶颈不在于做出产品，而在于被发现，Moloco正是为解决这个问题而生的。”"
               },
               {
                 "t": "p",
-                "x": "Visa全球增长负责人(Global Head of Growth)Rubail Birwadker表示,信任是关键。Visa的Trust Index显示,72%的US消费者用过AI助手,但只有23%信任AI代其处理支付。Visa计划增加更多场景,并将测试扩展至结账、支付和下单环节。"
+                "x": "CTO Donghwan Jeon介绍的CARA意为复合广告推荐架构（Compound Ad Recommendation Architecture），是一个整合了30多个AI模型、智能体和专用软件的系统。它每天评估超过1万亿次广告机会，预测谁会转化、出价多少以及展示哪种创意。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/ods77v_202611060321.jpg"
+              },
+              {
+                "t": "p",
+                "x": "CTV合作负责人Hyejung Lee介绍，Moloco将在移动端打造的效果型AI应用到TV屏幕上，根据预测价值竞价高端TV广告位，并通过保留组测试衡量增量增长。APAC战略项目负责人Hyunchae Lee表示，电商媒体是韩国主要平台上增长最快的渠道之一。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Visa pone a prueba a los\nagentes de compra con AI",
-          "body": "22 modelos de AI superaron el 57.2% de las pruebas de compra de Visa, y en el 54% de los fallos aun así hubo compra.",
-          "mini_headline": "Visa prueba agentes de compra AI",
+          "headline": "Moloco lleva CARA más allá\nde las apps: CTV y comercio",
+          "body": "En Molocon 26, Moloco anunció la expansión de su sistema publicitario de AI CARA a CTV y comercio.",
+          "mini_headline": "CARA de Moloco\nllega a CTV",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.thepaypers.com/news%20team/225-visa.jpg"
+                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/7vlne7_202611060313.jpg"
               },
               {
                 "t": "p",
-                "x": "Visa lanzó el Visa Agentic Commerce Benchmark y halló que 22 modelos de AI superaron en conjunto el 57.2% de las pruebas de compra realistas. Los modelos deben identificar las necesidades del consumidor mediante la conversación y decidir no comprar si ningún producto cumple los requisitos. La primera ronda evaluó 22 modelos de 12 laboratorios de AI en 15 tareas de compra, entre ellas comprar una TV, un equipo portátil y un aparato de cuidado personal."
+                "x": "La empresa global de publicidad con AI Moloco celebró el 5 de noviembre de 2026 en Seúl su evento insignia anual, 'Molocon 26'. Unas 500 personas asistieron al evento, con el lema 'Where growth goes next' ('Hacia dónde va el crecimiento'), y Moloco presentó formas de encontrar clientes en apps, CTV y medios de comercio, con su sistema publicitario de AI CARA como eje."
               },
               {
                 "t": "p",
-                "x": "Los modelos con mejor desempeño superaron el 82.2% de los intentos, mientras que los más débiles superaron el 28.9%. Los cinco modelos que descubrieron más requisitos de compra ocultos promediaron una tasa de aprobación del 70.2%, frente al 44.4% de los cinco que descubrieron menos. Los tres intentos de un escenario se superaron solo el 34.2% de las veces, y en el 54% de las ejecuciones fallidas la AI realizó igualmente una compra."
+                "x": "El CEO Ikjin Ahn afirmó: \"Ahora el cuello de botella no es crear productos, sino ser descubierto, y Moloco se creó precisamente para resolver este problema\"."
               },
               {
                 "t": "p",
-                "x": "Rubail Birwadker, Global Head of Growth de Visa, afirmó que la confianza es clave. El Trust Index de Visa reveló que el 72% de los consumidores de Estados Unidos (US) había usado un asistente de AI, pero solo el 23% confiaba en que la AI gestionara pagos en su nombre. Visa prevé añadir más escenarios y extender las pruebas al checkout, el pago y la realización de pedidos."
+                "x": "CARA, presentado por el CTO Donghwan Jeon, significa Compound Ad Recommendation Architecture (arquitectura compuesta de recomendación de anuncios) y es un sistema que combina más de 30 modelos de AI, agentes y software especializado. Evalúa más de 1 billón de oportunidades publicitarias al día y predice quién convertirá, cuánto pujar y qué creatividad mostrar."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/ods77v_202611060321.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Hyejung Lee, responsable de alianzas de CTV, explicó que Moloco aplica a la pantalla de TV la AI de rendimiento que desarrolló en móviles, puja por espacios premium de TV según el valor previsto y mide el crecimiento incremental con pruebas de holdout. Hyunchae Lee, responsable de iniciativas estratégicas para APAC, señaló que los medios de comercio son uno de los canales de mayor crecimiento en las principales plataformas de Corea."
               }
             ]
           }

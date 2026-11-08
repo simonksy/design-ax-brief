@@ -1,161 +1,158 @@
 {
  "section": "games",
- "now_iso": "2026-11-07T22:02:33Z",
+ "now_iso": "2026-11-08T22:02:46Z",
  "window_hours": 336,
- "expansion_note": "Feeds harvested (34 outlet RSS + Google News RSS for Megascans/AI training, World Labs world model, SAG-AFTRA AI voice, Roblox/Unity AI, NVIDIA neural rendering, Korean/Japanese AI game terms). 3 WebSearch used (Roblox Reality, Unity 7, Toei) - all stale/unverifiable, dropped. Off-list: worldlabs.ai (no on-list coverage of Frameboy), dexerto (carried from prior pool). Weekend-thin; Megascans/SAG-AFTRA/DLSS5 each have 2-3 outlet versions for curator dedup.",
  "items": [
   {
-   "title": "Entire Quixel Megascans Library Now Available For Free — and now licensed for AI training",
-   "url": "https://80.lv/articles/entire-quixel-megascans-library-now-available-for-free/",
-   "source": "80 Level",
-   "category": "games",
-   "published_iso": "2026-11-06T10:53:00+00:00",
-   "excerpt": "Epic's Quixel made the full Megascans library free on Fab and updated terms so Megascans and Megaplants can be used to train AI models: 'Your AI models can now learn from real-world scans to help you generate varied, photorealistic environments.'",
-   "og_image": "https://cdn.80.lv/api/upload/meta/50915/images/6aedb18c36225/contain_1200x630.jpg"
-  },
-  {
-   "title": "메가스캔 전부 공짜...에픽, AI 학습까지 풀었다",
-   "url": "http://www.gamey.kr/news/articleView.html?idxno=3019566",
-   "source": "게임와이",
-   "category": "games",
-   "published_iso": "2026-11-07T18:32:49+09:00",
-   "excerpt": "퀵셀이 메가스캔 라이브러리 전체를 Fab에서 다시 무료로 풀면서, 메가스캔과 메가플랜츠를 AI 모델 학습에 써도 된다는 조건을 이용약관에 새로 넣었다.",
-   "og_image": "https://cdn.gamey.kr/news/thumbnail/202611/3019566_173590_3451_v150.jpg"
-  },
-  {
-   "title": "3D 에셋 라이브러리 퀵셀 메가스캔, 전면 무료로 전환",
-   "url": "https://www.gamemeca.com/view.php?gid=1783100",
-   "source": "게임메카",
-   "category": "games",
-   "published_iso": "2026-11-06T17:21:57+09:00",
-   "excerpt": "퀵셀 메가스캔 전체가 Fab을 통해 다시 무료로 전환되고, 2025년 이후 구매자에게는 환급. 메가스캔·메가플랜트 에셋을 AI 모델 학습에 쓸 수 있도록 이용약관을 변경했다.",
-   "og_image": "https://cdn.gamemeca.com/gmdata/0001/783/100/gm262000_240517426.webp"
-  },
-  {
-   "title": "GTA6 모회사 대표, \"광고비 5만→800달러 비결은 AI\"",
-   "url": "http://www.gamey.kr/news/articleView.html?idxno=3019570",
-   "source": "게임와이",
-   "category": "games",
-   "published_iso": "2026-11-08T06:59:26+09:00",
-   "excerpt": "테이크투 스트라우스 젤닉 CEO가 WSJ 테크 행사에서 AI와 불법 복제에 대한 생각을 밝히며, 배우를 써 2만5000~5만 달러 들던 모바일 게임 광고를 AI로 약 800달러에 만든 사례를 소개했다.",
-   "og_image": "https://cdn.gamey.kr/news/thumbnail/202611/3019570_173609_5044_v150.jpg"
-  },
-  {
-   "title": "'I Feel Like Modding is Kind Of Dying' – Mass Effect 3 Multiplayer Modder on AI's Impact on the Scene",
-   "url": "https://www.ign.com/articles/i-feel-like-modding-is-kind-of-dying-mass-effect-3-multiplayer-modder-on-ais-impact-on-the-scene",
-   "source": "IGN",
-   "category": "games",
-   "published_iso": "2026-11-07T17:00:00.000Z",
-   "excerpt": "AI has exploded across the modding scene, from mashup mods to full decompilations done by Claude; a veteran Mass Effect 3 multiplayer modder explains how it may be killing the hobby.",
-   "og_image": "https://assets-prd.ignimgs.com/2026/10/29/me3-1793234529955.jpg?width=1280&format=jpg&auto=webp&quality=80"
+   "title": "As Wardogs Season 3 looms, Bulkhead claims to have built 'one of the world's most sophisticated anti-cheat systems', assisted by 'machine learning and AI'",
+   "url": "https://www.pcgamer.com/games/fps/as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one-of-the-worlds-most-sophisticated-anti-cheat-systems-assisted-by-machine-learning-and-ai/",
+   "source": "PC Gamer",
+   "published_iso": "2026-11-08T12:16:51Z",
+   "excerpt": "Bulkhead says Wardogs' new anti-cheat was built by analysing 187 million hours of gameplay with machine learning and AI; it arrives with Season 3 on November 12 alongside a new urban map.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-2560-80.jpg",
+   "keyword": "AI bug detection games / AI anti-cheat",
+   "category": "games"
   },
   {
    "title": "The AI posting war is heating up: 'Please, leave me behind,' says artist who got into it with Epic CEO Tim Sweeney on X",
    "url": "https://www.pcgamer.com/software/ai/the-ai-posting-war-is-heating-up-please-leave-me-behind-says-artist-who-got-into-it-with-epic-ceo-tim-sweeney-on-x/",
    "source": "PC Gamer",
-   "category": "games",
    "published_iso": "2026-11-06T22:21:50Z",
-   "excerpt": "An artist's public clash with Tim Sweeney over generative AI crystallizes the impasse between pro-AI developers and artists pushing back on AI in games.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg"
-  },
-  {
-   "title": "Epic Games' Tim Sweeney Insists AI Adoption 'Unlikely To Be Reversed' As Company Crams AI Into Unreal Engine 6",
-   "url": "https://kotaku.com/epic-games-tim-sweeney-unreal-engine-6-ai-workflows-2000754115",
-   "source": "Kotaku",
-   "category": "games",
-   "published_iso": "2026-11-05T14:00:42+00:00",
-   "excerpt": "At Unreal Fest Tokyo, Tim Sweeney told developers that AI adoption is unlikely to be reversed as Epic builds AI workflows into Unreal Engine 6.",
-   "og_image": "https://kotaku.com/app/uploads/2026/11/Unreal-Engine-6-1200x675.jpeg"
-  },
-  {
-   "title": "SAG-AFTRA introduces new process for using actors in game pitches",
-   "url": "https://www.gamedeveloper.com/production/sag-aftra-introduces-new-process-for-using-actors-in-game-pitches",
-   "source": "Game Developer",
-   "category": "games",
-   "published_iso": "2026-11-06T19:17:10.000Z",
-   "excerpt": "A new SAG-AFTRA pre-funding pitch agreement lets devs hire union actors for demos and vertical slices — read as an effort to keep studios from relying on generative AI voices in pre-production.",
-   "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltd2c6ef59fc1e919f/669e70619d85eed2432cc9c2/SAGAFTRA_Header.png?disable=upscale&width=1200&height=630&fit=crop"
-  },
-  {
-   "title": "SAG-AFTRA launches new video game agreement enabling devs to hire professional actors for demos and vertical slices",
-   "url": "https://www.gamesindustry.biz/sag-aftra-launches-new-video-game-agreement-enabling-devs-to-hire-professional-actors-for-demos-and-vertical-slices",
-   "source": "GamesIndustry.biz",
-   "category": "games",
-   "published_iso": "2026-11-06T14:50:40+00:00",
-   "excerpt": "The Pre-Funding Pitch Interactive Media Agreement will 'streamline the hiring of professional union talent' for pitches, demos and vertical slices.",
-   "og_image": "https://assetsio.gnwcdn.com/APP_Pre-Funding_Pitch_IMA_2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-  },
-  {
-   "title": "[인디言] 20년 멈췄던 만화 '굿모닝! 티처' 팬게임의 재시작",
-   "url": "https://www.gamemeca.com/view.php?gid=1783014",
-   "source": "게임메카",
-   "category": "games",
-   "published_iso": "2026-11-07T10:00:00+09:00",
-   "excerpt": "1990년대 학원 만화 '굿모닝 티처' 팬게임 프로젝트가 AI 기술의 도움을 받아 약 20년 만에 다시 개발돼 첫 빌드를 공개했다. 도키메키 메모리얼 방식의 육성 시뮬레이션.",
-   "og_image": "https://cdn.gamemeca.com/gmdata/0001/783/014/gm120244_asd.webp"
-  },
-  {
-   "title": "Frameboy: Atlas in Real-time",
-   "url": "https://www.worldlabs.ai/blog/atlas-realtime",
-   "source": "World Labs",
-   "category": "games",
-   "published_iso": "2026-11-05T19:50:00+00:00",
-   "excerpt": "World Labs released a research preview of Frameboy, streaming its Atlas autoregressive world model from cloud GPUs to the browser at up to 15 fps so users can explore generated worlds in real time; also integrated into the Viewfinder scene-building app.",
-   "og_image": "https://www.worldlabs.ai/api/opengraph-image?imageUrl=/images/blog/atlas-realtime-frameboy-daydream.jpg&title=Frameboy:%20Atlas%20in%20Real-time"
-  },
-  {
-   "title": "'Hogwarts Legacy' Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
-   "source": "NVIDIA",
-   "category": "games",
-   "published_iso": "2026-11-05T14:00:34+00:00",
-   "excerpt": "Hogwarts Legacy adds DLSS 5 neural rendering, playable on GeForce NOW Ultimate without a hardware upgrade — first of three November DLSS 5 titles.",
-   "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/gfn-thursday-11-5-blog-1920x1080-no-copy.jpg"
+   "excerpt": "Asset artist Kenney urged artists not to cave to pressure to use generative AI; Epic CEO Tim Sweeney replied 'This is bullshit, Kenney', and the clash split developers and players on X.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg",
+   "keyword": "AI game art",
+   "category": "games"
   },
   {
    "title": "Nvidia announces 3 more DLSS 5 games",
    "url": "https://gamesbeat.com/nvidia-announces-3-more-dlss-5-games/",
    "source": "GamesBeat",
-   "category": "games",
    "published_iso": "2026-11-06T14:30:00+00:00",
-   "excerpt": "Nvidia named three more games getting DLSS 5 neural rendering support, expanding the generative upscaling tech's lineup.",
-   "og_image": "https://gamesbeat.com/wp-content/uploads/2026/11/dlss-5-nvidia.jpg"
+   "excerpt": "DLSS 5's 3D-guided neural rendering, which uses generative AI to add lighting and materials that developers tune, ships this month in Hogwarts Legacy, War Thunder (mid-November) and Where Winds Meet (Nov 23). Note: War Thunder DLSS 5 was published 11-04, so this is a follow-up.",
+   "og_image": "https://gamesbeat.com/wp-content/uploads/2026/11/dlss-5-nvidia.jpg",
+   "keyword": "NVIDIA ACE / neural rendering",
+   "category": "games"
   },
   {
-   "title": "顔の変化が物議を醸したこともあったDLSS 5対応『ホグワーツ・レガシー』がGeForce NOWでプレイ可能に",
-   "url": "http://www.gamespark.jp/article/2026/11/06/174569.html",
-   "source": "Game*Spark",
-   "category": "games",
-   "published_iso": "2026-11-06T16:46:44+09:00",
-   "excerpt": "顔の変化が物議を醸したDLSS 5対応『ホグワーツ・レガシー』がGeForce NOWで遊べるように。アーティストの意図や作風は維持されるとNVIDIAは説明。",
-   "og_image": "https://www.gamespark.jp/imgs/ogp_f/1216320.jpg"
-  },
-  {
-   "title": "\"로컬 에이전트부터 DLSS 5 게임까지\" 엔비디아 'RTX 스파크'의 가능성",
-   "url": "https://www.inven.co.kr/webzine/news/?news=323085",
-   "source": "인벤",
-   "category": "games",
-   "published_iso": "2026-11-06T14:38:07+09:00",
-   "excerpt": "엔비디아가 로컬 AI 에이전트 구동에 특화된 PC 플랫폼 'RTX 스파크'를 국내 공개. 'NBA 2K27' DLSS 5와 '아이온2' 등 고사양 게임 구동을 지원한다.",
-   "og_image": "https://static.inven.co.kr/column/2026/11/06/news/i1474474973.png"
+   "title": "New AI-Assisted Retopology Software Launches For PC",
+   "url": "https://80.lv/articles/sparseal-releases-ai-assisted-retopology-app-for-pc",
+   "source": "80 Level",
+   "published_iso": "2026-11-03T17:02:00+00:00",
+   "excerpt": "Sparseal launched CozyBlanket Pro for Windows and macOS. Its AI analyses high- and low-poly meshes in real time and suggests topology fixes: quad-filling, edge-loop rerouting and pole placement. It also does UV unwrapping and baking.",
+   "og_image": "https://cdn.80.lv/api/upload/meta/50888/images/6aea13a2ccdc1/contain_1200x630.jpg",
+   "keyword": "generative game assets / AI 3D tools",
+   "category": "games"
   },
   {
    "title": "Official Unity plugin for OpenAI's Codex",
    "url": "https://www.youtube.com/shorts/1WHkOc-hCHc",
-   "source": "Unity",
-   "category": "games",
+   "source": "Unity (YouTube)",
    "published_iso": "2026-11-03T10:52:58-08:00",
-   "excerpt": "Unity launched an official plugin for OpenAI's Codex in OpenAI's universal plugin directory, letting the coding agent work directly with Unity projects.",
-   "og_image": "https://i.ytimg.com/vi/1WHkOc-hCHc/maxresdefault.jpg"
+   "excerpt": "Unity launched an official Unity plugin for OpenAI's Codex in OpenAI's plugin directory. Once installed, Codex can pick any skill in the plugin to complete Unity tasks; the video walks through four scenarios. A sibling of the Antigravity plugin published 11-03.",
+   "og_image": "https://i.ytimg.com/vi/1WHkOc-hCHc/maxresdefault.jpg",
+   "keyword": "Unity Muse / Unity AI",
+   "category": "games"
   },
   {
-   "title": "Astrocade launches $100K contest to vibe code games using AI",
-   "url": "https://www.dexerto.com/gaming/astrocade-launches-100k-contest-to-vibe-code-games-using-ai-3424330/",
-   "source": "Dexerto",
-   "category": "games",
-   "published_iso": "2026-11-05T18:30:18.000Z",
-   "excerpt": "Prompt-to-game platform Astrocade is running a $100,000 creator competition challenging 25 creators to make viral AI-built playable content; the whole prize goes to the most-played.",
-   "og_image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/05/astrocade1.jpg"
+   "title": "캐릭터와 스토리 만들어 공유, AI 플랫폼 디어비 출시",
+   "url": "https://www.gamemeca.com/view.php?gid=1782810",
+   "source": "게임메카",
+   "published_iso": "2026-11-02T17:55:32+09:00",
+   "excerpt": "디어비가 AI 컴패니언·AI UGC 플랫폼 '디어비(Dearbe)'를 구글 플레이와 웹으로 정식 출시했다. 이용자는 AI 캐릭터와 대화하고, 직접 캐릭터·스토리·세계관을 만들어 공유하며, 피규어 만들기·OST 제작·미니게임도 즐길 수 있다.",
+   "og_image": "https://cdn.gamemeca.com/gmdata/0001/782/810/gm329846_thumb__AI_.webp",
+   "keyword": "AI character creation / AI NPC",
+   "category": "games"
+  },
+  {
+   "title": "94% of Game Studios Use AI But Rate Their Integration 3/10, And That Gap Is Why \"Made With AI\" Labels Are Already Meaningless",
+   "url": "https://wccftech.com/94-percent-game-studios-use-ai-integration-labels-meaningless-sweeney/",
+   "source": "Wccftech",
+   "published_iso": "2026-11-03T18:00:00+00:00",
+   "excerpt": "Vivrato's VAIA Report interviewed 101 senior studio leaders: 94% use AI in some form, but the median self-rating of how deeply it is embedded is 3/10. Adam Boyes argued at GamesBeat Next that the industry is measuring the wrong thing.",
+   "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Tim-Sweeney-Steam-AI-Gaming-1920x1080.jpg",
+   "keyword": "AI game",
+   "category": "games"
+  },
+  {
+   "title": "The game reverse engineering community is the latest casualty of AI",
+   "url": "https://www.engadget.com/2307604/game-reverse-engineering-community-latest-ai-casualty/",
+   "source": "Engadget",
+   "published_iso": "2026-11-08T14:15:00+00:00",
+   "excerpt": "decomp.dev is sunsetting. Its admin says AI-driven 'drive-by' forks and AI-crafted ports broke the community side of game decompilation, and that the site's leaderboards had gamified the work. Off-list exception; the decomp.dev shutdown itself dates to mid-October, so this is a late recap.",
+   "og_image": "https://www.engadget.com/img/gallery/the-game-reverse-engineering-community-is-the-latest-casualty-of-ai/l-intro-1793883636.jpg",
+   "keyword": "AI mod UGC / vibe coding games",
+   "category": "games"
+  },
+  {
+   "title": "Ubisoft scales AI coding agents to 4,000+ developers with Unity Gateway",
+   "url": "https://www.databricks.com/customers/ubisoft/unity-gateway",
+   "source": "Databricks",
+   "published_iso": "2026-11-04T22:20:00+00:00",
+   "excerpt": "Databricks customer story: Ubisoft rolled out AI coding agents to more than 4,000 developers through Unity Gateway (Databricks' AI gateway), with centralised model access, governance and usage tracking. Off-list exception: a concrete studio deployment. Vendor case study, so verify the figures.",
+   "og_image": "https://www.databricks.com/sites/default/files/2026-11/customer-story-ubisoft-og.png",
+   "keyword": "AI game design tool / engine coding agent",
+   "category": "games"
+  },
+  {
+   "title": "신작 연기 반복한 넷마블, 내년 13종 출시 자신…AI로 개발 속도 높인다",
+   "url": "https://www.newspim.com/news/view/20261106000585",
+   "source": "뉴스핌",
+   "published_iso": "2026-11-06T15:40:00+09:00",
+   "excerpt": "넷마블이 내년 신작 13종 출시를 AI 기반 개발·운영 체계로 뒷받침한다. 기획부터 번역·녹음·그래픽 제작, 품질 검증·운영 자동화까지 반복 업무에 AI를 쓴다. 매체 목록 밖이지만, 스튜디오가 실제로 AI를 배치한 사례라 예외로 넣었다.",
+   "og_image": "https://img.newspim.com/news/2026/06/12/2606121620382670_t1.jpg",
+   "keyword": "AI 게임 / AI playtesting",
+   "category": "games"
+  },
+  {
+   "title": "[기획 | 게임사 AI 전환의 현주소 ④]… 크래프톤, 결과보다 AI 협업 과정 평가",
+   "url": "http://www.economytalk.kr/news/articleView.html?idxno=425135",
+   "source": "이코노미톡뉴스",
+   "published_iso": "2026-11-08T08:00:00+09:00",
+   "excerpt": "크래프톤은 2027 채용연계형 인턴십 6개 직군의 AI 역량평가에 자체 개발한 '코파 프로브(Cofa-Probe)'를 쓴다. 지원자가 업무 에이전트와 협업하는 과정을 소스코드·프롬프트·검증 기록까지 자동 수집해 기술·의도·인지 관리 세 축으로 평가한다.",
+   "og_image": "https://cdn.economytalk.kr/news/photo/202611/425135_233885_4215.png",
+   "keyword": "AI 게임 (studio AI adoption)",
+   "category": "games"
+  },
+  {
+   "title": "Claude updates its policy and allows naming games to prototype mechanics",
+   "url": "https://foro3d.com/en/2026/noviembre/claude-actualiza-su-politica-y-permite-nombrar-juegos-para-prototipar.html",
+   "source": "Foro3D",
+   "published_iso": "2026-11-08T15:13:42Z",
+   "excerpt": "Foro3D reports that Anthropic revised Claude's no-recreating-games rule: in prompt version 2.1.317 the model lets users name a game to describe its mechanics and offers an original take in that genre instead. Single off-list source, unverified; the same story as the 11-02 Claude clone rule unless an on-list outlet confirms it.",
+   "og_image": "https://foro3d.com/2026/noviembre/imagenes/claude-actualiza-su-politica-y-permite-nombrar-juegos-para-prototipar.webp",
+   "keyword": "vibe coding games",
+   "category": "games"
+  },
+  {
+   "title": "Gala Games Points Creators To Playworks, Its AI Browser Game Builder, In Fresh X Post",
+   "url": "https://egamers.io/gala-games-points-creators-to-playworks-its-ai-browser-game-builder-in-fresh-x-post/",
+   "source": "eGamers.io",
+   "published_iso": "2026-11-06T22:56:53+02:00",
+   "excerpt": "Gala Games sent users to Gala Playworks, an AI tool that turns a written game description into a playable browser game. Off-list crypto-gaming outlet. This is a promo post, not a new launch, so it's a weak pick.",
+   "og_image": "https://egamers.io/wp-content/uploads/2026/11/gala-games-points-creators-to-playworks-its-ai-browser-game-builder-in-fresh-x-post.jpg",
+   "keyword": "text-to-game",
+   "category": "games"
+  },
+  {
+   "title": "\"당연히 '카트라이더'인 줄 알았는데…\" 게임 AI 복제에 대기업도 '발칵', 무슨 일",
+   "url": "https://biz.heraldcorp.com/article/10927474",
+   "source": "헤럴드경제",
+   "published_iso": "2026-11-05T18:40:03+09:00",
+   "excerpt": "AI 기반 게임 복제 우려가 대형 게임사까지 번졌다. 로블록스에 넥슨 '카트라이더'와 밸브 게임 등을 베낀 AI 제작 게임이 올라와 문제가 됐다. 매체 목록 밖이며, 이번 주 크게 다뤄진 AI 클론 이야기와 겹친다.",
+   "og_image": "https://wimg.heraldcorp.com/news/cms/2026/11/05/news-p.v1.20251222.7d995064a5bc4f55bc5f4532641a8463_P1.png",
+   "keyword": "AI mod UGC / AI clones",
+   "category": "games"
+  },
+  {
+   "title": "Overwolf's Nitro & Base44 Launch $65K Contest for Web Games Built with AI",
+   "url": "https://www.exchangewire.com/blog/2026/11/05/overwolfs-nitro-base44-launch-65k-contest-for-web-games-built-with-ai/",
+   "source": "ExchangeWire",
+   "published_iso": "2026-11-05T16:02:11+00:00",
+   "excerpt": "Overwolf's Nitro and the AI app builder Base44 launched a $65K contest for web games built with AI. Off-list. Low priority: a contest, not a tool release.",
+   "og_image": "https://cdn.exchangewire.com/wp-content/uploads/2026/11/Overwolf-Launch-static-FINAL-1920x1080-1.png",
+   "keyword": "text-to-game / vibe coding games",
+   "category": "games"
   }
- ]
+ ],
+ "notes": "Feeds+GN RSS harvest; 5 WebSearch used. Dropped as dup/deprioritized: Kotaku Sweeney UE6 (=11-05 UE6 Verse), GamesBeat/GamingBolt Wardogs (=PC Gamer), 80.lv Hogwarts DLSS5 (=GamesBeat), Insider Gaming Sakurai (dev-opinion cap), SAG-AFTRA pitch agreement (AI only editorial), ASCENT Masklings (non-gen bot allies), Mimesis update (June), Gravity Aiwan (AI peripheral), Unity G-Star AI jam (preview), Destructoid AI expert (generic opinion), 80.lv D&D RPG (no AI)."
 }

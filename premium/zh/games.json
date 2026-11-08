@@ -10145,6 +10145,155 @@
           "x": "人类组织通过审计记录、声誉和职责分离来应对不良行为者问题，智能体团队很可能也需要类似机制。"
         }
       ]
+    },
+    "games/krafton-cofa-probe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.economytalk.kr/news/photo/202611/425135_233885_4215.png",
+          "cap": "Krafton将在2027年招聘衔接型实习项目6个岗位类别的AI能力评估中，使用自主研发的Cofa-Probe。[Krafton]"
+        },
+        {
+          "t": "p",
+          "x": "Krafton将在2027年招聘衔接型实习项目6个岗位类别的AI能力评估中，使用自主研发的Cofa-Probe，同时评估应聘者的成果物、AI协作过程和验证记录。这是考察各游戏公司AI招聘标准系列策划的第四个案例。"
+        },
+        {
+          "t": "p",
+          "x": "Krafton相关人士5日在回复EconomyTalk News时解释称，Cofa-Probe从“技术管理（Technique）、意图管理（Intent）、认知管理（Cognition）三个维度”进行评估。"
+        },
+        {
+          "t": "p",
+          "x": "Krafton在接近实际工作的环境中观察应聘者与工作智能体协作的过程，自动收集源代码、对话记录、提示词、工具设置和验证执行记录，同时评估成果物和解决问题的过程。"
+        },
+        {
+          "t": "p",
+          "x": "技术管理考察向AI传达的目标和约束是否恰当，意图管理考察应聘者是否分析了错误原因并调整了方法。"
+        },
+        {
+          "t": "p",
+          "x": "认知管理考察应聘者是否验证了成果物中的错误与局限，并将其完善到可用于实际工作的水平。任务结束后，还会进行事后问答，由应聘者亲自说明成果物和决策过程。"
+        },
+        {
+          "t": "p",
+          "x": "该实习项目于2027年2月入职，为期5个月，将根据实习期间的评估决定是否转为正式员工。Cofa-Probe将综合审视6个岗位类别的任务执行记录、成果物和事后说明，用于评估应聘者的AI应用能力。"
+        }
+      ]
+    },
+    "games/ubisoft-databricks-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.databricks.com/sites/default/files/2026-11/customer-story-ubisoft-still-image-2x.jpg?v=1793893844"
+        },
+        {
+          "t": "p",
+          "x": "Ubisoft的AI编程智能体是自下而上发展起来的：各团队试用了Claude Code、GitHub Copilot等工具，Ubisoft则用LiteLLM作为Claude Code流量的网关。随着一项CEO-sponsored（由CEO支持）的计划加速推广，为数千名开发者完成接入以及管理网关性能变得越来越困难。"
+        },
+        {
+          "t": "p",
+          "x": "已在使用Databricks的Ubisoft转向了Databricks Unity Gateway。它通过统一端点提供对Anthropic、OpenAI以及DeepSeek、Kimi、GLM、Qwen等开放模型的访问，开发者通常能在新模型发布后24–48小时内获得完整访问权限。"
+        },
+        {
+          "t": "p",
+          "x": "一个定制安装程序可自动完成个人访问令牌创建、Unity Gateway连接和编程智能体配置。Ubisoft的活跃用户从3月的约200人增长到8月的4,000多人，五个月增长20倍，目标是覆盖整个游戏制作环节的5,000名开发者。"
+        },
+        {
+          "t": "p",
+          "x": "随着使用量增长，AI支出增加了158%。Unity Gateway会保留每个请求背后的身份信息，Ubisoft将这些数据与Databricks AI/BI Dashboards、自定义警报以及计划中的团队级预算和成本分摊结合，用于追踪和分配AI成本。"
+        }
+      ]
+    },
+    "games/netmarble-13-titles-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "因新作发售延期而业绩恶化的Netmarble，将以运用人工智能（AI）的开发与运营体系，挑战明年推出13款新作。其战略是将从游戏策划到翻译、美术制作、质量验证的重复性工作自动化，以减轻开发负担、提升发售能力。"
+        },
+        {
+          "t": "p",
+          "x": "Netmarble已将原定今年下半年推出的3款新作全部推迟至明年，第3季度营业利润同比下降44.6%。部分技术仍处于开发阶段，实际能缩短多少开发周期和成本仍有待进一步验证。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.newspim.com/news/2026/06/12/2606121620382670.jpg",
+          "cap": "Netmarble位于九老的新总部G-Tower全景。[图=Netmarble]"
+        },
+        {
+          "t": "p",
+          "x": "Netmarble代表金秉圭5日在第3季度电话会议上表示：“Netmarble不仅在开发上，在游戏发售和服务过程中也在努力构建以AI原生为基础的工作环境。”他还说：“基于这样的系统，我们判断一年推出10款以上游戏是可行的。”"
+        },
+        {
+          "t": "p",
+          "x": "Netmarble于2025年将内部AI组织改组为AI战略室，并引入了翻译及原文校对AI工具“MarbleAI”和AI美术生成平台“ㅋㅋ아트젠”等。英语、日语等主要语言由配音演员录制，其他语言则借助AI录制。让AI自动游玩游戏、分析平衡性与趣味要素的技术也在开发中。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.newspim.com/news/2026/11/06/2611061207127870.jpg",
+          "cap": "Netmarble的主要人工智能项目 [图=Netmarble]"
+        },
+        {
+          "t": "p",
+          "x": "运营方面，Netmarble以基于AI的异常检测系统应对滥用和异常行为，已应用于《RF Online Next》《Vampir》《SOL: enchant》。Netmarble相关人士表示：“正在研发质量验证自动化智能体、报告撰写智能体等多种AI智能体。”"
+        }
+      ]
+    },
+    "games/kenney-sweeney-genai-clash": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "以免费发布数千款游戏素材而闻名的美术师Kenney，鼓励其他美术师不要屈服于使用生成式AI的压力。几小时后，Epic Games CEO Tim Sweeney在回复中写道：“Kenney，这是胡扯。”Elon Musk也加入进来声援Sweeney。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/dN5L7H63LSbvE6whFiWNgP-772-80.png",
+          "cap": "（图片来源：Kenney/Tim Sweeney）"
+        },
+        {
+          "t": "p",
+          "x": "Kenney告诉PC Gamer：“我认为AI有一定好处，但它的问题实在太多，我觉得在目前的状态下使用它是不道德的。”Sweeney则表示：“作为面向整个行业的技术提供者，我认为为它进行正面论证是Epic的工作，也是我的工作。”"
+        },
+        {
+          "t": "p",
+          "x": "GameDiscoverCo的一项调查发现，约69%的Steam用户对购买披露使用AI的游戏持中立或接受态度，而超过55%的用户认为Steam应制定更严格的披露规则。Sweeney称Steam的这一要求“令人憎恶”。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Nv8WP9ipmA6k753ABMgKqD-918-80.png",
+          "cap": "Kenney在其网站上免费发布数千款这样的游戏素材。（图片来源：Kenney）"
+        },
+        {
+          "t": "p",
+          "x": "开发商Dead Teapot为声援Kenney取消了在Epic Games Store的发行。Kenney靠捐赠以及一个包含全部60,000个素材、售价$20 的合集维持生计。"
+        }
+      ]
+    },
+    "games/worldlabs-frameboy-atlas": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://wlt-ai-cdn.art/videos/2026-atlas-realtime/frameboy-hero.mp4"
+        },
+        {
+          "t": "p",
+          "x": "两个月前，World Labs推出了Atlas，这是一个自回归世界模型，能逐帧生成画面，并实现像素级精准的镜头控制。今天，它发布了一个研究预览版，让用户通过Frameboy用Atlas实时探索世界。Frameboy是一个演示，在用户操控镜头时，以最高15 fps的速度把画面从云端GPUs串流到浏览器。"
+        },
+        {
+          "t": "p",
+          "x": "速度很重要：如果用户要为一段视频等上几十秒甚至几分钟，就不得不谨慎而有条理。“当一个‘坏点子’的代价几乎为零时，就没有坏点子。”"
+        },
+        {
+          "t": "p",
+          "x": "与此前的RTFM模型相比，Atlas规模大得多，训练数据多出几个数量级，并能仅凭一张输入图像或一段文字描述从零生成场景。它还能根据多视角拍摄合成真实地标的新视角。"
+        },
+        {
+          "t": "p",
+          "x": "这项实时能力也以串流叠加层的形式集成到了Viewfinder中。Viewfinder是一款处于封闭测试阶段的网页应用，用户可用Atlas逐帧搭建场景。Frameboy目前必须运行在强大的云端GPU服务器上，与本地渲染方式相比成本不低。"
+        }
+      ]
     }
   }
 }

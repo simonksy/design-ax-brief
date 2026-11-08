@@ -9108,6 +9108,138 @@
           "x": "卡迈勒·哈桑警告，如果学生和研究人员引用这些不准确的文本，可能造成长期损害；其他领导人则要求成立特别调查组，或开展监察调查、司法调查。"
         }
       ]
+    },
+    "books/pw-salary-survey-2026": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "今年PW Salary & Jobs调查的886名受访者报告称，薪资小幅上涨了3%，同时对AI影响自身工作乃至整个出版业的担忧加剧。尽管如此，整体工作满意度依然较高。"
+        },
+        {
+          "t": "p",
+          "x": "百分之六十的受访者对工作非常满意，68%预计两年后仍在同一家公司工作。受访者的薪资中位数为$78,000，低于2024年的$80,000。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132698-3.JPG",
+          "cap": "表示所在公司正在使用AI的受访者比例"
+        },
+        {
+          "t": "p",
+          "x": "“出版从业者越用AI越不喜欢它”的趋势依然成立。百分之七十三的受访者表示公司以某种方式使用AI，其中市场调研是最主要的用途。然而，77%的受访者表示对这项技术持负面看法。最主要的担忧是，受访者可能会参与出版一本主要由AI写成的书。"
+        },
+        {
+          "t": "p",
+          "x": "“我们2026年的强制性年度目标之一，是在日常工作中找到AI的用例并告知同事。这既愚蠢又令人感到侮辱。”少有的乐观者则说：“我认为如果不适应未来，我们作为企业将无法生存……我希望出版业继续存在，所以我拥抱AI。”"
+        }
+      ]
+    },
+    "books/rnib-ai-audiobook-poll": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-48.jpg",
+          "cap": "RNIB的Talking Books图书馆目前使用的格式。© Voice Over Herald"
+        },
+        {
+          "t": "p",
+          "x": "在Talking Books图书馆迎来90周年之际，Royal National Institute of Blind People（RNIB）委托YouGov开展的一项调查发现，65%的UK成年人根本不会收听AI-narrated有声书，20%会听但更喜欢人声。该机构未公布样本量或调查日期。"
+        },
+        {
+          "t": "p",
+          "x": "当被问及什么会让他们停止收听时，42%选择了自己不喜欢的名人朗读者，30%选择了与自己想象中的角色差别很大的声音，26%选择了浓重的口音。只有16%表示朗读者的任何方面都不会让他们停止收听。"
+        },
+        {
+          "t": "video",
+          "yt": "Q7S2q6b-Av4"
+        },
+        {
+          "t": "p",
+          "x": "RNIB在发布这项研究的同时，还推出了由该机构主席Victoria Smurfit带领、Disney+剧集Rivals演员录制的简短音频。该图书馆藏有56,000种图书，凡有视力障碍者均可免费使用，去年借阅量超过百万次。第一批Talking Books于1935年11月7日送出。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/rnib-studio.jpg",
+          "cap": "为RNIB录制Talking Book。图片：RNIB"
+        },
+        {
+          "t": "p",
+          "x": "这一切都无法阻止AI朗读的普及，但一项三分之二受访者直接拒绝的调查表明，听众正密切关注声音本身。"
+        }
+      ]
+    },
+    "books/scholarlykitchen-peer-review-tacit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2300954589.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Taylor & Francis的Victoria Corless在一篇客座文章中指出，AI应当辅助而非取代人类判断这一正在形成的共识，忽略了一个更难的问题：同行评审中由人完成的部分，究竟在做什么？对德国研究人员和编辑的访谈指向一种默会知识——专家在实践中能够展现，却无法完整说明其规则——这类知识很难转化为AI能够遵循的明确规则。"
+        },
+        {
+          "t": "p",
+          "x": "Technical University of Munich的Wilhelm Windisch表示，某些细分领域“全世界只有20–30人”真正有资格审阅一篇稿件，而要发现被引文献其实并不支持某项论点，可能需要多年的研究经验。Medical School Hamburg的Anja Baethge警告说，用当今评审标准训练出来的AI可能会固化现有范式：“我们的领域将不会再有任何变化。”"
+        },
+        {
+          "t": "p",
+          "x": "一项针对119篇BMJ Open文章的398份同行评审报告的研究发现，人类审稿人给出的反馈更详细、主题更多样，而AI评审则集中在常规性、结构性和格式问题上。即便有人始终参与其中，AI的摘要和检索也会影响审稿人注意到什么——因此，出版商在将编辑工作流程自动化之前，应先弄清人类判断究竟包含什么。"
+        }
+      ]
+    },
+    "books/vinland-saga-yukimura-ai-fanart": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://comicbook.com/wp-content/uploads/sites/4/2026/01/Vinland-Saga.jpg?resize=2000,1125"
+        },
+        {
+          "t": "p",
+          "x": "广受好评的青年漫画系列Vinland Saga的作者Makoto Yukimura，意外卷入了一场不必要的AI争议。这部连载20年的作品完结已一年多，Yukimura仍经常在X上评论粉丝的帖子，其中包括受该作启发的同人画。然而，他最近称赞的一幅同人画似乎是用AI创作的，让他陷入了麻烦。"
+        },
+        {
+          "t": "p",
+          "x": "从一位粉丝那里得知那幅Thorfinn的画作是用AI创作的之后，Yukimura只是说AI做得不错，一些粉丝便将他的回应解读为支持AI的信号。几小时后，他在X上澄清道："
+        },
+        {
+          "t": "p",
+          "x": "“哇哈哈，我说了‘AI做得不错’，把大家吓了一跳。AI会窃取艺术，如果AI发展得太过头，我就麻烦了。我们之所以陷入困境，正是因为AI在某种程度上做得不错。这只是事实，并不是肯定。”——Makoto Yukimura（@makotoyukimura），2026年11月8日"
+        },
+        {
+          "t": "p",
+          "x": "AI在漫画中的使用已成为一个极具争议的话题：一些画师完全支持将AI融入创作，而最近也有消息披露，Chainsaw Man动画的制作中使用了AI。动漫与漫画行业对AI使用的看法正在快速转变。"
+        }
+      ]
+    },
+    "books/techtimes-secondhand-bulk-orders": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d.techtimes.co.uk/en/full/1820597/secondhand-books.jpg",
+          "cap": "价值数千英镑的奇怪批量订单让二手书商怀疑，AI公司是否在购买实体书来训练聊天机器人"
+        },
+        {
+          "t": "p",
+          "x": "UK和爱尔兰各地的二手书商反映，他们收到了来自神秘买家的异常批量订单，有人怀疑人工智能公司可能在收购实体书用作训练数据。买家的身份和目的尚未得到证实。"
+        },
+        {
+          "t": "p",
+          "x": "Alnwick的Barter Books联合店主Stuart Manley表示，这些订单中的书目看似毫不相关：“通常一份图书订单会围绕某个主题，但这批订单五花八门。”他说，自己已向三位买家出售了数百本书，总价约£4,000。"
+        },
+        {
+          "t": "p",
+          "x": "爱尔兰Claregalway的MW Books的Jim Shaughnessy将这些选书形容为“零散的，大概是机器驱动的”。一位不愿具名的UK书商说，自一月以来，类似买家已下单约6,000本书，其中一些使用不同化名，但都寄往Heathrow Airport附近的同一地址。"
+        },
+        {
+          "t": "p",
+          "x": "这一怀疑源于有关Anthropic的Project Panama的报道：该公司在该项目中花费数千万美元购买实体书进行扫描。Anthropic表示：“我们的任何数据获取项目都不会购买并销毁珍本或古籍。”目前尚无证据表明该项目与这些订单有关。"
+        },
+        {
+          "t": "p",
+          "x": "也有书商质疑能否用AI训练来解释所有订单，因为订单中还包括Gulliver's Travels等公版作品。"
+        }
+      ]
     }
   }
 }

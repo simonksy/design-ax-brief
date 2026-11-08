@@ -10775,6 +10775,143 @@
           "x": "この結果は総計算時間ではなく、コンピューターがデータを読み取る頻度に関するもので、有用な構造を持つ問題では量子が大きな優位を得る余地を残している。"
         }
       ]
+    },
+    "science/astrogenesis-astro-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/connecting-artificial.jpg",
+          "cap": "AstroGenesisの概念図。専門のAIエージェントが統合された研究環境の中で、科学文献、天文観測、物理ベースのモデリングをどう結び付けるかを示す。Credit: AstroGenesis team"
+        },
+        {
+          "t": "p",
+          "x": "ICRANet-Armenia所長の天体物理学者Narek Sahakyanと国際チームは、天体物理研究の異なる段階を単一の環境で結び付けるマルチエージェントAIシステムAstroGenesisを開発した。論文はarXivに掲載されている。"
+        },
+        {
+          "t": "p",
+          "x": "研究者は自然言語で質問する。中央の監督役が専門エージェントにタスクを割り振る。あるエージェントは科学文献を検索し、別のエージェントは天文観測データを取得・解析し、モデリングエージェントは物理モデルから予測を計算して観測と比較し、さらに別のエージェントが解釈や研究課題の探索を助ける。"
+        },
+        {
+          "t": "video",
+          "yt": "Pgl6D4_N5YY"
+        },
+        {
+          "t": "p",
+          "x": "理論モデリングを高速化するため、チームは数値物理モデルの結果でニューラルネットワークを訓練する。訓練後のネットワークは検証済みのパラメータ範囲内でそれらの予測を素早く近似し、研究者ははるかに広いパラメータ空間を探索できる。"
+        },
+        {
+          "t": "p",
+          "x": "SahakyanはAI-generatedの解釈は必ず確認し、観測の不確かさを尊重し、近似モデルを検証すべきだと強調する。「科学的判断は依然として不可欠だ」"
+        }
+      ]
+    },
+    "science/ss-dfa-optical-training": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/let-there-be-light--no.jpg",
+          "cap": "single-map方式の実証に使われた光コンピューティングシステムでは、情報を光信号に変換し、ファイバーループを通過する間に処理した後、再び電気信号に戻して解析する。Credit: 2026 Nakajima et al. CC-BY-ND"
+        },
+        {
+          "t": "p",
+          "x": "University of Tokyo(東京大学)などの研究者は、物理系の自然なふるまいを利用して情報を処理する物理ベースAIを構築する新たな手法を開発し、動作に必要な計算量を大幅に削減した。手法は、光で情報を処理する光コンピューティングシステムで実証された。"
+        },
+        {
+          "t": "p",
+          "x": "Kohei Nakajima准教授らのチームはNTTの研究者とともに、SS-DFAと呼ぶ学習手法と、single-mapフレームワークと呼ぶより単純なネットワーク構造を組み合わせた。研究はNature Computational Scienceに掲載された。"
+        },
+        {
+          "t": "p",
+          "x": "SS-DFAは、システムの中間状態を測定・記録して逆にたどる代わりに、最終的な誤差とシステムに関する情報を併せて学習を導き、必要な測定、データ保存、計算を減らす。single-map構造では、非常に複雑な内部結合に頼らず、多数のユニットが一般的な規則に従う。"
+        },
+        {
+          "t": "p",
+          "x": "意外にも、簡素化した設計はより複雑なニューラルネットワーク構造に匹敵し、一部のテストでは上回った。しかも必要な計算ははるかに少ない。システムは200メートルの光ファイバーと少数の電子部品を使う。"
+        },
+        {
+          "t": "p",
+          "x": "今後は、この手法が言語モデルやマルチモーダルモデルといったより大きなAIモデルに拡張できるかを検証する。チップ上に小型化すれば、スマートフォンやカメラ、自動運転車の内部でデータを処理できる可能性がある。"
+        }
+      ]
+    },
+    "science/llm-workplace-trust-penalty": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/be1996da-571f-422e-94db-f78f12f371d3/Rendition/low-res/Content/Public",
+          "cap": "組織の方針がLLMs利用による信頼ペナルティを左右する。Credit: Yochanan Bigman"
+        },
+        {
+          "t": "p",
+          "x": "Samuel Meyersが、Hebrew University of JerusalemのDr. Yochanan Bigman、WHU – Otto Beisheim School of ManagementのDr. Roman Brikerとともに主導した研究がThe Leadership Quarterlyに掲載された。六つの研究を通じて、AI利用が明示的に禁止されていない場合でも、上司はChatGPTなどのLLMsを使う従業員をあまり信頼しないことがわかった。"
+        },
+        {
+          "t": "p",
+          "x": "ある実験では、仕事を自力で仕上げた従業員が上司の信頼を得る確率は68%だったのに対し、AIを使った場合は24%にとどまった。それでもAI利用は盗用よりは好意的に見られた。信頼の低さは、低い業績評価や、昇進への適性が低いという評価と結び付いていた。"
+        },
+        {
+          "t": "p",
+          "x": "組織がAI利用を明確に奨励すると、信頼ペナルティは大きく縮小し、統計的に有意ではなくなった。研究者らは、この緊張が従業員を申告のない「shadow AI」へと向かわせかねないと警告し、明確な方針と管理職研修を求めている。"
+        }
+      ]
+    },
+    "science/claude-not-x-but-y-rhetoric": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2025/04/artificial-intelligence.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Federico BoggiaのarXivプレプリントは、AI-generatedテキストに見られる\"not X, but Y\"の癖の背後にあるエパノルトーシス(epanorthosis)を検証する。CiceroとQuintilianがcorrectioとして分類した、自己訂正の古代修辞技法だ。Boggiaは、この多用が主にウェブのコピーライティングから学習され、人間のフィードバックによる調整で強化されたと論じる。"
+        },
+        {
+          "t": "p",
+          "x": "Claude Haiku、Sonnet、Opusを七つのジャンルで人間の文章と比較すると、モデルは演説で強調的エパノルトーシスを人間の二倍以上の頻度で用いた(一万語あたり33.5対14.9)一方、くだけたQ&Aでは五分の一未満だった(1.3対8.2)。"
+        },
+        {
+          "t": "p",
+          "x": "Qwen2.5-7B-Instructで訓練したLoRAアダプターは最大強度で密度を61.4から4.7に下げ、一文のプロンプト指示はClaudeの演説文で四分の三近く減らした。この論文は査読前のプレプリントで、検証は小規模なパイロットにとどまる。"
+        }
+      ]
+    },
+    "science/science-ucl-reconstruct-everything": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-11/Capture_0.PNG",
+          "cap": "Reconstruct Everything"
+        },
+        {
+          "t": "p",
+          "x": "UCLの研究者らは、粒子衝突の全体を再構成できる初のAIモデルを開発した。実験素粒子物理学の根本的な課題に対し、まったく新しいアプローチを示すものだ。"
+        },
+        {
+          "t": "p",
+          "x": "Reconstruct Everything Model(REM)は、従来の専用再構成アルゴリズムの連鎖に一切頼らず、主要な検出器システムすべての測定値から粒子を直接再構成する初の統合型機械学習フレームワークである。REMはさらに一歩進み、W、Z、Higgsボソンを含むより重い粒子を崩壊生成物から再構成する。"
+        },
+        {
+          "t": "p",
+          "x": "UCLのCentre for Data Intensive Science and Industryで開発されたREMは、CERNのFuture Circular Collider向けに提案された検出器の詳細なシミュレーションで検証された。"
+        },
+        {
+          "t": "p",
+          "x": "結果は際立っている。従来手法と比べ、粒子再構成効率は61%から92%に向上し、ジェットエネルギー分解能は52%改善、WボソンとZボソンの識別能力は約50%向上した。モデルは単一のGPUで衝突全体をわずか30ミリ秒で再構成する。"
+        },
+        {
+          "t": "p",
+          "x": "性能向上にとどまらず、REMはパラダイムシフトとなる可能性を秘める。個別に最適化された複雑なアルゴリズムの連鎖を統一的なAIフレームワークに置き換えることで、素粒子物理実験が衝突を再構成・解釈する方法を根本から見直す道を開く。"
+        },
+        {
+          "t": "p",
+          "x": "研究を主導したのはMax HartとKwok Yiu (Sunny) Wongで、Samuel Van Stroud、Philippa Duckett、Tim Scanlon、Gabriel Faciniも参加した。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/styles/wysiwyg_mobile/public/2026-11/rem_overview_assign_v10_res_split_tworow_heads-1.png.jpg?itok=IjAafSLE",
+          "cap": "HEP Collision Models"
+        }
+      ]
     }
   }
 }

@@ -1,79 +1,61 @@
 {
   "section": "gadgets",
-  "now_iso": "2026-11-07T22:02:33Z",
+  "now_iso": "2026-11-08T22:02:46Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "AI teddy bears spark fresh 'Funzo' fears — as new report discovers malfunctioning toy that tells children 'I can't help with killing you'",
-      "url": "https://www.techradar.com/tech/would-you-buy-your-kids-an-ai-teddy-bear-im-a-tech-loving-parent-but-i-dont-trust-these-toys-and-a-new-report-backs-me-up",
-      "source": "TechRadar",
+      "title": "Amazon’s Alexa Tablet 12 Pro ditches Fire OS for real Android",
+      "url": "https://the-gadgeteer.com/2026/11/08/amazons-alexa-tablet-12-pro-ditches-fire-os-for-real-android-at-499-99/",
+      "source": "The Gadgeteer",
       "category": "gadgets",
-      "published_iso": "2026-11-07T09:00:00Z",
-      "excerpt": "An AI teddy bear marketed for three-year-olds made unprompted references to suicide and killing in a BBC test, renewing calls to regulate chatbot toys ahead of the holiday season.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/dxbkzTCXsocDbUjvNVtcyE-2560-80.jpg"
+      "published_iso": "2026-11-08T09:00:00-06:00",
+      "excerpt": "Amazon killed the Fire tablet name and rebuilt the line as Alexa Tablets with real Android, the full Google Play Store, and Alexa+ built in. The 12 Pro starts at $499.99 with a 120Hz screen, plus a pen and a keyboard case that turn it into a work machine.",
+      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-hero.jpg"
     },
     {
-      "title": "Exclusive: Garmin's top brass says 'any application of AI needs to keep a very keen sense of authenticity' — but wants to keep its TrainingPeaks service human",
-      "url": "https://www.techradar.com/health-fitness/fitness-trackers/garmin-is-embracing-ai-with-a-keen-sense-of-authenticity-according-to-its-coo-but-acquired-trainingpeaks-for-consumers-who-want-to-engage-with-a-human-coach",
-      "source": "TechRadar",
+      "title": "I played Android's first AI frame-gen game: Mobile just had its DLSS moment",
+      "url": "https://www.androidauthority.com/arm-neural-dawn-hands-on-3731282/",
+      "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-11-07T15:30:00Z",
-      "excerpt": "Garmin's COO explains how the wearable maker is rolling out LLM-style Active Intelligence coaching in Connect while keeping its TrainingPeaks service human-led.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/gRvpJtLD7kX2Tt5yQZunVE-2560-80.jpg"
+      "published_iso": "2026-11-08T11:30:32+00:00",
+      "excerpt": "Arm and Sumo Digital's Neural Dawn uses Arm's Neural Super Sampling and Denoising plus Neural Frame Rate Upscaling, AI networks running on the Mali G2 Ultra GPU, to bring ray-traced MegaLights to a phone; it currently runs only on MediaTek Dimensity 9600 Pro devices.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-game-main-menu-scaled.jpg"
     },
     {
-      "title": "Gemini made my Nest speakers slower at turning on a light, so I gave the job to a voice assistant that never leaves my house",
-      "url": "https://www.xda-developers.com/gemini-nest-speakers-slow-turn-on-light-gave-voice-assistant-never-leaves/",
-      "source": "XDA",
+      "title": "Just 2% of Tom's Guide readers want AI in earbuds & headphones — so why do audio brands from Apple to Samsung to Soundcore keep pushing it on us?",
+      "url": "https://www.tomsguide.com/audio/just-2-percent-of-toms-guide-readers-want-ai-in-earbuds-and-headphones-so-why-do-audio-brands-like-apple-samsung-and-soundcore-keep-pushing-it-on-us",
+      "source": "Tom's Guide",
       "category": "gadgets",
-      "published_iso": "2026-11-07T22:00:20Z",
-      "excerpt": "Routing simple smart-home commands through Gemini's LLM added noticeable latency on Nest speakers, so the author moved light control to a fully local voice assistant.",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/whatsapp-image-2026-06-25-at-12-46-11-4.jpeg?w=1600&h=900&fit=crop"
+      "published_iso": "2026-11-08T09:15:00Z",
+      "excerpt": "Results are in: just 2% of Tom's Guide readers buy earbuds and headphones because of AI features. So why do audio brands think we want them?",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/dzhSAejg9r2CVeUepQmEaW-2000-80.jpg"
     },
     {
-      "title": "Ollama was holding back my \"weak\" Intel GPU, and one swap turned it into a solid local AI setup",
-      "url": "https://www.xda-developers.com/ollama-was-holding-back-my-weak-intel-arc-gpu/",
-      "source": "XDA",
+      "title": "Nvidia's new AI laptop runs nearly 80% slower on Linux — but only when it's plugged in",
+      "url": "https://www.tomsguide.com/ai/nvidias-new-ai-laptop-runs-nearly-80-percent-slower-on-linux-but-only-when-its-plugged-in",
+      "source": "Tom's Guide",
       "category": "gadgets",
-      "published_iso": "2026-11-07T21:31:20Z",
-      "excerpt": "My Intel Arc GPU finally became a useful local AI machine: the author found Ollama was the bottleneck and one runtime swap made local LLMs practical on a budget card.",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/07/intel-arc-a750-1-1.jpg?w=1600&h=900&fit=crop"
+      "published_iso": "2026-11-05T13:00:00Z",
+      "excerpt": "MindStudio shows that skipping the charger could speed things up",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/CxvjAewa4xS3be2otk3Neg-2560-80.jpg"
     },
     {
-      "title": "수능 앞두고 대통령도 경계한 AI안경 부정행위…뿔테 수험생 \"안경 빼앗기면 어떡하나\"",
-      "url": "https://www.etnews.com/20261107000027",
-      "source": "전자신문",
+      "title": "Don't like Google Health's AI Coach? Here's how to turn it off",
+      "url": "https://www.engadget.com/2309626/dont-like-google-health-ai-coach-how-turn-off/",
+      "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-11-07T16:50:00+09:00",
-      "excerpt": "수능을 앞두고 AI 스마트안경 부정행위 우려가 커지며 교육당국이 첨단기기 차단에 나섰고, 일반 안경을 쓴 수험생과 감독 교사들이 기기 식별 문제로 혼란을 겪고 있다.",
-      "og_image": "https://img.etnews.com/news/article/2026/11/07/news-p.v1.20261107.062af919c149414781cb4badb8f7119e_P1.jpg"
+      "published_iso": "2026-11-08T21:15:00+00:00",
+      "excerpt": "If this Premium feature is bugging you, there's good news: you aren't stuck with it.",
+      "og_image": "https://www.engadget.com/img/gallery/dont-like-google-healths-ai-coach-heres-how-to-turn-it-off/l-intro-1793989213.jpg"
     },
     {
-      "title": "[홈&테크] LG 시네빔 AI, 3채널 레이저·AI로 초단초점 한 칸 끌어올렸다",
-      "url": "https://www.etnews.com/20261105000193",
-      "source": "전자신문",
+      "title": "The biggest disadvantages of using AI glasses",
+      "url": "https://www.engadget.com/2309033/biggest-disadvantages-using-ai-glasses/",
+      "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-11-05T16:00:00+09:00",
-      "excerpt": "LG 시네빔 AI 초단초점 프로젝터를 삼성 더 프리미어와 비교한 사용기. 3채널 레이저와 AI 화질 처리로 5.6cm 거리에서 90인치를 띄운다.",
-      "og_image": "https://img.etnews.com/news/article/2026/11/05/news-p.v1.20261105.e7234ec2966645cd80c6eb5fe45750d7_P1.jpg"
-    },
-    {
-      "title": "DJI, 라이다·레이더·AI 통합 산업용 드론 '매트리스 5T' 출시",
-      "url": "https://www.etnews.com/20261106000295",
-      "source": "전자신문",
-      "category": "gadgets",
-      "published_iso": "2026-11-06T16:43:02+09:00",
-      "excerpt": "DJI가 라이다·밀리미터파 레이더와 AI 영상 분석을 결합해 야간·악천후에도 점검·긴급 대응이 가능한 소형 산업용 드론 매트리스 5T를 출시했다.",
-      "og_image": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.1fd4e188c2ba4460b8e2ed290ad6ca7c_P1.jpg"
-    },
-    {
-      "title": "Amazon will let you text Alexa your shopping list",
-      "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-      "source": "The Verge",
-      "category": "gadgets",
-      "published_iso": "2026-11-06T14:00:00+00:00",
-      "excerpt": "The Alexa for Shopping AI assistant can now order groceries and recommend products over text messages.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Amazon-Alexa-for-Shopping-text-order.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "published_iso": "2026-11-08T18:30:00+00:00",
+      "excerpt": "Despite the benefit to the disabled and aging communities, smart glasses are problematic when it comes to privacy and safety concerns. Here's what to watch for.",
+      "og_image": "https://www.engadget.com/img/gallery/the-biggest-disadvantages-of-using-ai-glasses/l-intro-1793976467.jpg"
     },
     {
       "title": "Ray-Ban Meta Audio review: Great specs, shame about the price",
@@ -81,17 +63,71 @@
       "source": "9to5Google",
       "category": "gadgets",
       "published_iso": "2026-11-06T21:09:14+00:00",
-      "excerpt": "Ray-Ban Meta Audio drops the camera to ease privacy concerns, keeping Meta AI voice access in a wider-prescription frame; the review weighs whether it's worth the price.",
+      "excerpt": "Ray-Ban Meta Audio glasses drop the camera in hopes of toning down the privacy concerns, but are they still worth it?",
       "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/ray-ban-meta-audio-glasses-burbank-wearing-03.jpg?quality=82&strip=all&resize=1200,628"
     },
     {
-      "title": "10 of the coolest features in Samsung's new One UI 9 update",
-      "url": "https://www.engadget.com/2305270/samsung-one-ui-9-coolest-features/",
-      "source": "Engadget",
+      "title": "There's a New Way to Shop With AI. Text Alexa",
+      "url": "https://www.cnet.com/tech/services-and-software/amazon-alexa-text-to-shop-ai-feature/",
+      "source": "CNET",
       "category": "gadgets",
-      "published_iso": "2026-11-07T13:15:00+00:00",
-      "excerpt": "One UI 9 adds AI-powered My Fan Cam video reframing, a gesture shortcut to summon the AI assistant, AI-sorted screenshots in Gallery and expanded Now Nudge prompts.",
-      "og_image": "https://www.engadget.com/img/gallery/10-of-the-coolest-features-in-samsungs-new-one-ui-9-update/l-intro-1793375161.jpg"
+      "published_iso": "2026-11-06T14:54:32-05:00",
+      "excerpt": "Amazon's bots are the latest AI agents trying to do your shopping for you. Should you let them?",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/amaxon-alexa-for-shopping-2.jpeg"
+    },
+    {
+      "title": "Exclusive: Garmin’s top brass says ‘any application of AI needs to keep a very keen sense of authenticity’ — but wants to keep its TrainingPeaks service human",
+      "url": "https://www.techradar.com/health-fitness/fitness-trackers/garmin-is-embracing-ai-with-a-keen-sense-of-authenticity-according-to-its-coo-but-acquired-trainingpeaks-for-consumers-who-want-to-engage-with-a-human-coach",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-11-07T15:30:00Z",
+      "excerpt": "Garmin is being ‘very thoughtful and discerning about our use of AI’ according to its chief operating officer",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/gRvpJtLD7kX2Tt5yQZunVE-2560-80.jpg"
+    },
+    {
+      "title": "AI teddy bears spark fresh 'Funzo' fears — as new report discovers malfunctioning toy that tells children 'I can't help with killing you'",
+      "url": "https://www.techradar.com/tech/would-you-buy-your-kids-an-ai-teddy-bear-im-a-tech-loving-parent-but-i-dont-trust-these-toys-and-a-new-report-backs-me-up",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-11-07T09:00:00Z",
+      "excerpt": "An AI teddy bear that's been marketed for three-year-olds has made unprompted references to suicide, a BBC report has revealed — amid calls for the industry to be regulated.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/dxbkzTCXsocDbUjvNVtcyE-2560-80.jpg"
+    },
+    {
+      "title": "Apple is racing to make Siri more agentic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "source": "The Verge",
+      "category": "gadgets",
+      "published_iso": "2026-11-08T19:18:19+00:00",
+      "excerpt": "Future versions of Siri will be able to control third-party apps and perform more complex tasks.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&strip=all&crop=0%2C10.727837220746%2C100%2C78.544325558509&w=1200"
+    },
+    {
+      "title": "수능發 AI 안경 부정행위 우려…탐지·점검 도구까지 등장",
+      "url": "https://zdnet.co.kr/view/?no=20261108115524",
+      "source": "ZDNet Korea",
+      "category": "gadgets",
+      "published_iso": "2026-11-08T14:02:28+09:00",
+      "excerpt": "대학수학능력시험(수능)을 앞두고 인공지능(AI) 스마트안경을 활용한 부정행위 우려가 커지면서 이를 식별하기 위한 기술적 대응도 등장하고 있다. 일반 안경과 구별하기 어려운 스마트기기를 무선 신호와 외형 분석으로 점검하는 오픈소스 도구가 시험 감독관 현장 대응을 지원할 수 있을지 주...",
+      "og_image": "https://image.zdnet.co.kr/2026/11/08/33a74ec762fdc6b547a910dac35f212f.png"
+    },
+    {
+      "title": "Homelabber uses second-gen Optane memory sticks to run a 2.8-trillion-parameter AI model on CPU alone — warns that Optane's extreme heat can 'burn out' nearby memory DRAM, used blower fans to prevent melting RAM",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabber-uses-second-gen-optane-memory-sticks-to-run-a-2-8-trillion-parameter-ai-model-on-cpu-alone-warns-that-optanes-extreme-heat-can-burn-out-nearby-memory-dram-used-blower-fans-to-prevent-melting-ram",
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "published_iso": "2026-11-08T12:20:00Z",
+      "excerpt": "A Reddit homelab user ran Moonshot AI’s 2.8-trillion-parameter Kimi K3 CPU-only on Optane PMem 200 at 0.85 tokens/s with a 1-bit quant.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Wpdi2avEo8ZBZMremLVgaU-2496-80.jpg"
+    },
+    {
+      "title": "엔비디아, 'RTX 스파크' 기술 소개…차세대 'AI PC' 경험 제시",
+      "url": "https://www.etnews.com/20261106000278",
+      "source": "전자신문",
+      "category": "gadgets",
+      "published_iso": "2026-11-06T16:03:09+09:00",
+      "excerpt": "엔비디아가 그래픽처리장치(GPU)와 중앙처리장치(CPU)를 단일 칩으로 결합한 'RTX 스파크(RTX Spark)'를 앞세워 클라우드 연결 없이 개인용 PC에서 인공지능(AI) 비서를 직접 구동하는 '로컬 AI' 시장 공략에 본격적으로 나섰다. 하드웨어 슈퍼칩과 함께 메모리 사용량을 대폭 줄인 경량 모델, 로컬·클라우드 하이브리드 기술을 동시에 선보이며 온디바이스 AI 생태계를 완성한다는 전략이다. 엔비디아는 6일 서울 종로구 JW 메리어트 동",
+      "og_image": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.7c595977012a423b8b5fa1b52cd5b411_P1.png"
     },
     {
       "title": "The new Asus ProArt P14 is currently only available with 32 GB of RAM, which makes little sense for RTX Spark",
@@ -99,71 +135,17 @@
       "source": "Notebookcheck",
       "category": "gadgets",
       "published_iso": "2026-11-06T23:08:00+01:00",
-      "excerpt": "Local AI models and agents are the main selling point of Nvidia RTX Spark laptops, but Asus's new ProArt P14 ships only with 32 GB of unified memory, limiting the models it can run.",
+      "excerpt": "Local AI models and AI agents are the main selling point of the new RTX Spark laptops. However, the new ProArt P14 currently only comes with 32 GB of RAM, making it difficult to run AI models.",
       "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ProArt_P14_H7407/ProArt_P14_N1X_case_03.JPG"
     },
     {
-      "title": "로보터블, 내년 초 휴머노이드 '스킬 이식' 소프트웨어 출시",
-      "url": "https://zdnet.co.kr/view/?no=20261106211924",
-      "source": "지디넷코리아",
+      "title": "MSI Venture 15 AI+ runs Intel's Core Ultra X7 358H with Arc B390 graphics",
+      "url": "https://the-gadgeteer.com/2026/11/06/msi-venture-15-ai-plus-core-ultra-x7-arc-b390/",
+      "source": "The Gadgeteer",
       "category": "gadgets",
-      "published_iso": "2026-11-07T09:29:15+09:00",
-      "excerpt": "피지컬 AI 기업 로보터블이 휴머노이드 로봇의 동작 기술을 서로 다른 하드웨어에 이식하는 '스킬 리타게팅' 소프트웨어를 내년 초 판매한다.",
-      "og_image": "https://image.zdnet.co.kr/2026/11/06/b1f1a1b02720b9d773ca9d9cd831c468.jpg"
-    },
-    {
-      "title": "[AI는 지금] \"로봇 오작동인 줄 알았는데 해킹?\"…피지컬 AI, 보안 위협 커진다",
-      "url": "https://zdnet.co.kr/view/?no=20261105173134",
-      "source": "지디넷코리아",
-      "category": "gadgets",
-      "published_iso": "2026-11-07T09:32:53+09:00",
-      "excerpt": "AI가 로봇·자율주행차 등 현실 세계로 확장되면서 외부 공격으로 왜곡된 AI 판단이 정상 동작과 구분되지 않아 인명·설비 사고로 이어질 수 있다는 경고가 나왔다.",
-      "og_image": "https://image.zdnet.co.kr/2026/11/06/c267e93bfb1bc72195232519f05f0d63.png"
-    },
-    {
-      "title": "The Siri AI waitlist is gone in iOS 27: How to try the beta today",
-      "url": "https://www.zdnet.com/business/siri-ai-beta-waitlist-ends-ios-27/",
-      "source": "ZDNET",
-      "category": "gadgets",
-      "published_iso": "2026-11-05T11:08:49-05:00",
-      "excerpt": "The wait is over for trying Siri AI on iOS 27: Apple has dropped the beta waitlist. Here's what you need to know to get started.",
-      "og_image": "https://www.zdnet.com/wp-content/uploads/sites/3/1_9958c8.jpg"
-    },
-    {
-      "title": "Tesla unveils AI accelerator roadmap, adopts new 'SI' branding in 'Super Intelligence' push — SI6 to bring 80X more compute performance, Dojo 3 headed to space",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/tesla-unveils-ai-accelerator-roadmap-adopts-new-si-branding-in-super-intelligence-push-si6-to-bring-80x-more-compute-performance-dojo-3-headed-to-space",
-      "source": "Tom's Hardware",
-      "category": "gadgets",
-      "published_iso": "2026-11-06T12:00:00Z",
-      "excerpt": "Tesla is ramping up its custom silicon ambitions with the training-oriented Dojo D3, which could eventually go to orbital data centers, and a massive SI6 inference accelerator.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/c7SXsstwCWqWGyvTD7KQAA-1920-80.jpg"
-    },
-    {
-      "title": "Raycast combines voice dictation and screen awareness in new AI feature",
-      "url": "https://9to5mac.com/2026/11/06/raycast-combines-voice-dictation-and-screen-awareness-in-new-ai-feature/",
-      "source": "9to5Mac",
-      "category": "gadgets",
-      "published_iso": "2026-11-06T22:28:13+00:00",
-      "excerpt": "A Raycast update lets Mac users talk to AI about whatever is on screen without having to explain the context.",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/raycast-dictate-ai.jpg?quality=82&strip=all&resize=1200,628"
-    },
-    {
-      "title": "I like Google Health's biggest features of 2026, but I don't trust them",
-      "url": "https://www.androidauthority.com/do-not-trust-google-health-guardian-features-3731200/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-11-07T11:00:26+00:00",
-      "excerpt": "Google's Health Coach and Oura's AI Advisor promise to make wearable data meaningful, but the author argues brands aren't clear enough about how reliable the AI wellness features are.",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/11/google-health-splash-screen-scaled.jpg"
-    },
-    {
-      "title": "iOS 27.3 brings Apple Intelligence features to China",
-      "url": "https://9to5mac.com/2026/11/03/ios-27-3-brings-apple-intelligence-features-to-china/",
-      "source": "9to5Mac",
-      "category": "gadgets",
-      "published_iso": "2026-11-03T19:31:26+00:00",
-      "excerpt": "iOS 27.3 beta 1 brings Apple Intelligence features to iPhones in mainland China.",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-ai-iphone-18-pro-blue.jpg?quality=82&strip=all&resize=1200,628"
+      "published_iso": "2026-11-06T17:40:00-06:00",
+      "excerpt": "MSI builds the Venture line for people who work on their laptop all day and still want it to do more after hours. The new Venture 15 AI+ B3M is the first",
+      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/msi-venture-hero.jpg"
     }
   ]
 }

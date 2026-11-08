@@ -3593,6 +3593,146 @@
           "x": "La dinámica de las piernas dominó las predicciones metabólicas y de fragilidad, y la del torso codificó los fenotipos de sueño y estilo de vida. Los autores afirman que los hallazgos establecen la marcha como una bioseñal independiente y multisistémica."
         }
       ]
+    },
+    "medicine/primaa-cleo-skin-fda": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://clpmag.com/wp-content/uploads/2026/11/image-2.jpg",
+          "cap": "Cleo Skin (Foto: Primaa)"
+        },
+        {
+          "t": "p",
+          "x": "La FDA ha otorgado la designación de dispositivo innovador (Breakthrough Device Designation) a Cleo Skin, una solución de inteligencia artificial desarrollada por Primaa para ayudar a los patólogos a diagnosticar cánceres de piel a partir de portaobjetos de biopsia digitalizados y tejidos extirpados."
+        },
+        {
+          "t": "p",
+          "x": "Cleo Skin es la primera herramienta de IA en dermatopatología que cuenta a la vez con la certificación CE-IVDR en Europa, obtenida en marzo de 2026, y con la designación Breakthrough Device de la FDA. La designación no constituye una autorización de comercialización en EE. UU. (US)."
+        },
+        {
+          "t": "p",
+          "x": "La herramienta analiza imágenes de portaobjetos completos para señalar zonas sospechosas de melanoma, ofrecer clasificaciones orientativas de lesiones —entre ellas carcinoma basocelular, carcinoma espinocelular y nevo— y sugerir mediciones como márgenes, espesor de Breslow y regiones mitóticas. Apoya la evaluación del patólogo, pero no la sustituye."
+        },
+        {
+          "t": "p",
+          "x": "En el estudio SkinPerf2026, 16 patólogos de 11 instituciones francesas evaluaron 313 imágenes de portaobjetos completos; Cleo Skin elevó la sensibilidad global para melanoma del 83.8% al 88.6%, y del 79.7% al 88.2% entre los patólogos júnior. En un estudio exploratorio en EE. UU. con PathPresenter, siete patólogos revisaron 75 portaobjetos, con una reducción del 20% en el tiempo de análisis y una mejora del 17% en la sensibilidad de los patólogos júnior."
+        }
+      ]
+    },
+    "medicine/mfds-ai-review-assist": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/11/03/48e47ad2-7131-49ef-8ca1-31d273ae8e75.png",
+          "cap": "Imagen generada por IA"
+        },
+        {
+          "t": "p",
+          "x": "El 'sistema de IA de apoyo a la revisión de medicamentos' que impulsa el Ministerio de Seguridad de Alimentos y Medicamentos (MFDS) de Corea se presentará oficialmente a principios de diciembre. En un principio se preveía una sesión informativa para la industria farmacéutica a comienzos de este mes, pero se reforzó aún más la validación interna para mejorar su grado de acabado y se dará a conocer coincidiendo con la ceremonia que celebra el éxito del proyecto de IA."
+        },
+        {
+          "t": "p",
+          "x": "Según el grupo TF de transformación con IA de alimentos y medicamentos del MFDS (dirigido por Kim Ik-sang), el sistema funciona actualmente en fase piloto, centrado en los evaluadores internos. LG AI Research participó en su desarrollo, y su rasgo distintivo es que se entrenó específicamente para las tareas de revisión de medicamentos."
+        },
+        {
+          "t": "p",
+          "x": "En primer lugar, apoyará las revisiones de calidad de nuevos fármacos y de bioequivalencia (biodisponibilidad y equivalencia), y verificará las listas de comprobación previas de la revisión de autorizaciones de productos. El MFDS prevé ampliar después su alcance a la revisión de datos de seguridad y eficacia, entre otros."
+        },
+        {
+          "t": "p",
+          "x": "Los reguladores de todo el mundo exploran activamente la adopción de IA; la FDA de EE. UU., por ejemplo, implantó 'Elsa', una plataforma de IA generativa para toda su plantilla. El MFDS completó el sistema menos de un año después de crear el grupo TF en enero."
+        }
+      ]
+    },
+    "medicine/weill-cornell-radiology-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/assets/articles/Screen%20Shot%202018-02-12%20at%2011.56.42%20AM.png?itok=g9jxiJwx"
+        },
+        {
+          "t": "p",
+          "x": "Se utilizó de forma indebida información privada de pacientes en una investigación reciente de inteligencia artificial en radiología, según un aviso de Weill Cornell Medicine difundido el jueves."
+        },
+        {
+          "t": "p",
+          "x": "La institución afirma que tuvo conocimiento del incidente el 6 de septiembre y abrió de inmediato una investigación. Supo que personas no identificadas introdujeron información de pacientes de Weill Cornell Imaging at NewYork-Presbyterian y del NewYork-Presbyterian Hospital en herramientas de IA para procesarla mediante aprendizaje automático, sin el permiso de los pacientes y en contra de sus políticas de privacidad."
+        },
+        {
+          "t": "p",
+          "x": "La información incluía números de historia clínica y de registro de radiología, fechas, horarios de atención, nombres de centros y de profesionales sanitarios, además de información clínica como diagnósticos, planes de tratamiento e historiales de procedimientos. No se divulgaron nombres, direcciones, números de teléfono, direcciones de correo electrónico, números de la Seguridad Social (Social Security) ni datos financieros de los pacientes."
+        },
+        {
+          "t": "p",
+          "x": "Weill Cornell dijo que no ha encontrado pruebas de que personas no autorizadas accedieran a la información y que no hay indicios de que se haya hecho un mal uso de ella. Ha suspendido la actividad de investigación, ha pedido que se eliminen todos los datos implicados y está ofreciendo formación adicional al personal sobre el uso adecuado de la IA. No reveló quién hizo un mal uso de los datos ni cuál era el enfoque de la investigación."
+        }
+      ]
+    },
+    "medicine/sunderland-ai-eye-diabetes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/29ec/live/7d751a00-d930-11f1-b1fc-0ffc40c3cca6.jpg",
+          "cap": "La tecnología podrá detectar la diabetes y, con el tiempo, enfermedades cardíacas en revisiones oculares rutinarias"
+        },
+        {
+          "t": "p",
+          "x": "Se usará IA en exploraciones oculares rutinarias dentro de un plan para detectar signos tempranos de enfermedades como las cardiopatías y la diabetes."
+        },
+        {
+          "t": "p",
+          "x": "El centro Northern Ophthalmic Research and Innovation (NORI) de la Universidad de Sunderland ha recibido £12.2m del Gobierno a través de UK Research and Innovation (UKRI) para el proyecto, con la esperanza de diagnosticar antes a los pacientes."
+        },
+        {
+          "t": "p",
+          "x": "Matthew Campbell, vicerrector adjunto interino de salud y codirector de NORI, dijo que el dinero ayudará al equipo a desarrollar la tecnología y llevarla a mercados internacionales."
+        },
+        {
+          "t": "p",
+          "x": "Aunque la herramienta se centrará al principio en la diabetes y las enfermedades cardiovasculares, el enfoque podría ampliarse más adelante a la demencia y los ictus."
+        },
+        {
+          "t": "p",
+          "x": "NORI es uno de los cinco nuevos centros sanitarios respaldados por UKRI (UKRI-backed) que usan tecnología para diagnosticar enfermedades."
+        },
+        {
+          "t": "p",
+          "x": "El ministro de Ciencia, Chris McDonald, que visitó NORI el jueves, afirmó: “Un diagnóstico más temprano significa mejores resultados para los pacientes y menos presión sobre nuestro NHS, y la tecnología tiene un papel vital que desempeñar”."
+        },
+        {
+          "t": "p",
+          "x": "La tecnología utilizará los diminutos vasos sanguíneos y el tejido nervioso del fondo del ojo, que según NORI pueden revelar pistas sobre la salud general de una persona antes de que aparezcan los síntomas. La IA analizará las exploraciones oculares rutinarias junto con los historiales sanitarios del NHS y datos comunitarios para identificar cambios sutiles que puedan indicar signos tempranos de enfermedad."
+        },
+        {
+          "t": "p",
+          "x": "Campbell dijo: “Esta inversión crea un nuevo ecosistema de innovación sanitaria para el North East. Ahora tenemos la escala para desarrollar tecnologías, probarlas en entornos sanitarios reales y llevarlas a mercados nacionales e internacionales”."
+        }
+      ]
+    },
+    "medicine/lancet-cmr-ai-ejection-fraction": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-scan.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "En el mayor estudio de su tipo, los investigadores analizaron las MRI cardíacas de 27,382 pacientes estudiados por una enfermedad cardíaca conocida o sospechada en el Reino Unido (U.K.) y Estados Unidos (United States), y compararon las mediciones AI-derived de la fracción de eyección del ventrículo izquierdo con las obtenidas por clínicos."
+        },
+        {
+          "t": "p",
+          "x": "Los pacientes fueron seguidos durante un promedio de más de cinco años (mediana de 5.6 años), en los que se produjeron 3,458 muertes. La fracción de eyección por AI mostró mejor ajuste del modelo (AIC 57,936 vs 58,097) y una discriminación algo mejor (C index 0.669 vs 0.637) para la mortalidad por cualquier causa; tras ajustar por edad y sexo, la ventaja se mantuvo pero fue menor (C index 0.781 vs 0.777)."
+        },
+        {
+          "t": "p",
+          "x": "La herramienta de AI analizó las imágenes en unos 2–3 segundos por paciente. Un trabajo previo del equipo había encontrado que el análisis de un clínico experto suele tardar unos 13 minutos."
+        },
+        {
+          "t": "p",
+          "x": "La investigación fue dirigida por City St George's, University of London y University College London, y se publicó en The Lancet Digital Health. Los autores afirman que los resultados respaldan el uso de la AI como primera línea para medir la fracción de eyección, con supervisión clínica, algo que deberá probarse en estudios prospectivos."
+        }
+      ]
     }
   }
 }

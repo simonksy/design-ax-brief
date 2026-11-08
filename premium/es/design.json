@@ -11083,6 +11083,117 @@
           "x": "Al publicar, Cursor ejecuta comprobaciones de seguridad deterministas y agénticas para detectar problemas comunes, como secretos escritos en archivos de la app o credenciales expuestas. Nada se publica hasta que se superan las comprobaciones y el usuario publica la app de forma explícita. Los administradores del equipo pueden ver todas las apps y secretos del equipo. La función está disponible en todos los planes de pago con agentes en la nube habilitados."
         }
       ]
+    },
+    "design/nngroup-agent-harness-def": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un arnés de agentes gestiona un ciclo de software entre un modelo de AI y sus herramientas. Su contexto, sus permisos y sus límites determinan lo que pueden hacer los usuarios. Dos asistentes de agenda con AI pueden basarse en el mismo modelo de AI y tener capacidades muy distintas, según el arnés que lo rodee."
+        },
+        {
+          "t": "p",
+          "x": "Un arnés de agentes es el software que rodea a un modelo de AI y ejecuta su ciclo de ejecución: lleva a cabo las solicitudes del modelo para usar herramientas, devuelve los resultados y controla qué información recibe el modelo y qué se le permite hacer. Este ciclo de solicitud, acción y resultado es lo que convierte un chatbot en un agente de AI."
+        },
+        {
+          "t": "img",
+          "src": "https://media.nngroup.com/media/editor/2026/11/06/how-an-agent-harness-runs-an-execution-loop_jHSEz0a.jpg",
+          "cap": "El modelo solicita acciones. El arnés comprueba cada solicitud frente a sus permisos y límites antes de que una herramienta la ejecute, y luego devuelve el resultado para que el modelo vuelva a ejecutarse o responda al usuario."
+        },
+        {
+          "t": "p",
+          "x": "Además de ejecutar el ciclo, el arnés aporta contexto, conecta herramientas y aplica permisos, y proporciona instrucciones e impone límites de tiempo, coste y número de pasos. La información guardada solo es útil si el arnés se la pasa al modelo."
+        },
+        {
+          "t": "p",
+          "x": "Para la UX: saber qué modelo de AI usa un producto no indica si su arnés puede respaldar tu tarea. Los diseñadores deberían especificar el comportamiento junto con la pantalla, y las evals deberían probar la tarea completa con contexto, herramientas y permisos realistas."
+        }
+      ]
+    },
+    "design/uxc-berrypicking-ai-search": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:2000/1*7nKkTkUX4iDwlOFBMtt4kg.png",
+          "cap": "Quien busca recorre fuentes dispersas y recoge una pieza útil en cada parada."
+        },
+        {
+          "t": "p",
+          "x": "En 1989, Marcia Bates mostró que las personas buscan reuniendo, cambiando de rumbo y revisando sobre la marcha. Su artículo sobre el berrypicking sostenía que las búsquedas reales divagan, cambian de forma y acumulan valor por partes. Lo dirigió a las bases de datos de bibliotecas que suponían una consulta y un mejor resultado. La caja de chat hace la misma suposición, solo que más rápido."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1000/1*-BHFNiCUGikF8fnaGaP1NA.png",
+          "cap": "Cuatro formas en que la gente busca."
+        },
+        {
+          "t": "p",
+          "x": "Un estudio de 2025 con más de 200,000 conversaciones simuladas halló que todos los modelos punteros rendían peor cuando una tarea llegaba por partes, con una caída media del 39 por ciento en seis tareas. Bates también nombró 29 tácticas de búsqueda, y una respuesta de chat oculta las facetas y los filtros que podrían convertirlas en botones."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1000/1*K8I3knsghQYE_ff9DOGSrA.png",
+          "cap": "Los cuatro niveles, agrupados según la necesidad."
+        },
+        {
+          "t": "p",
+          "x": "Su escala de automatización de 1990 va del nivel 0 al nivel 4; la mayoría de los productos de AI saltan directamente al nivel 4. Su cascada de capas muestra que una respuesta fluida construida sobre un índice deficiente sigue siendo una mala respuesta, y Pew halló que los clics en resultados cayeron al 8 por ciento con un resumen de AI frente al 15 por ciento sin él."
+        }
+      ]
+    },
+    "design/firefly-seedance-25-video": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "dGEv6re6uYI"
+        },
+        {
+          "t": "p",
+          "x": "Detalles que atrapan y te hacen detenerte. Cuenta tu historia con Seedance 2.5, ya disponible en Firefly. Pruébalo gratis."
+        },
+        {
+          "t": "p",
+          "x": "Firefly es la herramienta creativa de diseño con AI de Adobe. Reúne modelos de Adobe y de sus socios en un solo lugar, para que puedas generar imágenes, efectos de texto, video y audio en la web, en el móvil o dentro de apps de Adobe como Photoshop, Illustrator, Express y Premiere Pro."
+        }
+      ]
+    },
+    "design/uxc-native-floor-components": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/1*tmilNueBY4CBfNN99ZX5vA.jpeg",
+          "cap": "Los kits de diseño de Apple para iOS 27, los componentes del sistema que recibe toda app."
+        },
+        {
+          "t": "p",
+          "x": "Con AI, un aspecto pulido no cuesta nada. Lo nativo aporta lo que no se puede dibujar y se mueve con el sistema, un paso por delante de lo que lo imita. Cuando Apple presentó Liquid Glass, las apps que usaban componentes del sistema obtuvieron el nuevo aspecto al recompilar; las que dibujaban sus propios controles no obtuvieron nada."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*hUXaBgmYwkvMbX5QMiYcRg.png",
+          "cap": "Dos pantallas de inicio generadas por el mismo modelo de AI para la misma app de guardería: la barra de pestañas flotante de iOS 26 solo apareció con la instrucción de seguir las convenciones actuales de la plataforma."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos de AI imitan el sistema solo en lo que se ve, y el iOS que dibujan sigue siendo, en su mayoría, el antiguo. Pero el suelo es sobre todo comportamiento: el gesto para volver atrás, la hoja para compartir, la accesibilidad integrada, el texto que se escala. Un control redibujado a mano tiene que reconstruir todo eso."
+        },
+        {
+          "t": "p",
+          "x": "Lo nativo corrige lo falso, no lo parecido; destacar sigue siendo tarea de la marca. Cuando la maqueta sale de una AI, nombra el dispositivo y sus convenciones actuales en el prompt, y todo lo que parezca un control del sistema debería al menos comportarse como tal."
+        }
+      ]
+    },
+    "design/bcn3d-aurora-photo-to-part": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.all3dp.com/workers/images/fit=scale-down,w=1200,h=675,quality=79,gravity=0.5x0.5,format=auto/wp-content/uploads/2026/11/05110054/BCN3D-Aurora-hero.jpg",
+          "cap": "Fuente: BCN3D, All3DP"
+        },
+        {
+          "t": "p",
+          "x": "La nueva impresora 3D Aurora puede convertir una foto, unas pocas palabras o una orden de voz en una pieza terminada sin CAD ni software de laminado. Me cuesta creerlo. Y también tengo bastantes ganas de verlo."
+        }
+      ]
     }
   }
 }

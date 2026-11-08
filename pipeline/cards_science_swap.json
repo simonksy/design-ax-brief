@@ -1,55 +1,46 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-11-09",
   "section": "science",
   "cards": [
     {
-      "id": "science-ai2-litpivot",
+      "id": "ss-dfa-optical-training",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Ai2's LitPivot refines research\nideas against the literature",
-      "body": "Ai2's LitPivot helps researchers refine early research ideas with literature-backed critiques and suggested revisions.",
-      "mini_headline": "LitPivot refines\nresearch ideas",
+      "headline": "A leaner way to train AI\nright on optical hardware",
+      "body": "Tokyo and NTT paired SS-DFA training with a single-map design, cutting compute yet matching or beating complex networks.",
+      "mini_headline": "Leaner optical AI training",
       "tool": "Science",
-      "source": "Ai2",
-      "url": "https://allenai.org/blog/litpivot",
-      "accent": "#2ec5c5",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-11-ai-framework-optical-hardware.html",
+      "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.datocms-assets.com/64837/1792764970-litpivot-featured-staircase-1512x1080.png"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/let-there-be-light--no.jpg",
+            "cap": "In the optical computing system used to demonstrate the single-map approach, information is converted into an optical signal, processed as it passes through a fiber loop, and then converted back into an electrical signal for analysis. Credit: 2026 Nakajima et al. CC-BY-ND"
           },
           {
             "t": "p",
-            "x": "Encountering a new paper can change a research idea's trajectory. Ai2 calls this a literature-initiated pivot, and with collaborators at the University of Pennsylvania it built LitPivot to help researchers navigate these pivots."
+            "x": "Researchers, including those at the University of Tokyo, have developed a new approach to building physics-based AI—systems that use the natural behavior of physical systems to process information—that dramatically reduces the amount of computation required for them to run. It was demonstrated using an optical computing system that processes information with light."
           },
           {
             "t": "p",
-            "x": "Using papers retrieved through Asta Paper Finder, LitPivot splits a proposal into its problem, contribution and evaluation plan, groups related papers around the facet being edited, offers critiques backed by excerpts, and suggests revisions researchers can accept, edit or reject."
-          },
-          {
-            "t": "img",
-            "src": "https://www.datocms-assets.com/64837/1792764615-image2.png",
-            "cap": "LitPivot workflow: select a proposal facet, choose papers, review a supported edit, and refresh the literature as the idea changes."
+            "x": "Associate professor Kohei Nakajima and his team, including NTT researchers, combined a training method called SS-DFA with a simpler network architecture called the single-map framework. The study is published in Nature Computational Science."
           },
           {
             "t": "p",
-            "x": "When one facet changes, LitPivot flags passages that may need revision, such as an evaluation plan that no longer fits a revised contribution."
+            "x": "Instead of measuring and recording the system's intermediate states and backtracking, SS-DFA uses the final error together with information about the system to guide learning, reducing the measurement, data storage and computation required. In the single-map architecture, many units follow the general rules rather than relying on highly complex internal connections."
           },
           {
             "t": "p",
-            "x": "In a study with 17 researchers, domain experts rated ideas developed with LitPivot as better grounded in the literature than those developed with a text editor and an AI chat tool. Participants also perceived their revised ideas as more novel and useful."
-          },
-          {
-            "t": "img",
-            "src": "https://www.datocms-assets.com/64837/1792764678-image4.png",
-            "cap": "A researcher refines a proposal about synthetic medical notes into checking contradictions across multiple hospital visits."
+            "x": "Surprisingly, the simplified design matched, and in some tests outperformed, more complex neural network architectures, while requiring far less computation. The system uses a 200-meter optical fiber and a small number of electronic components."
           },
           {
             "t": "p",
-            "x": "LitPivot will be presented at UIST 2026 in Detroit."
+            "x": "Future work will test whether the approach scales to larger AI models such as language and multimodal models; miniaturized on a chip, it could process data inside phones, cameras or self-driving cars."
           }
         ]
       }

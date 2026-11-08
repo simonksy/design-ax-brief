@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "section": "design",
   "items": [
     {
-      "title": "This AI 3D Printer Can Now Design Your Parts, Too. I Have Questions.",
-      "url": "https://all3dp.com/4/this-ai-3d-printer-can-now-design-your-parts-too-i-have-questions/",
-      "source": "All3DP",
-      "category": "cad",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "published_iso": "2026-11-05T10:09:47Z",
-      "og_image": "https://i.all3dp.com/workers/images/fit=scale-down,w=1200,h=630,gravity=0.5x0.5,format=jpeg/wp-content/uploads/2026/11/05110054/BCN3D-Aurora-hero.jpg",
-      "excerpt": "BCN3D's Aurora printer now promises to design parts itself from a photo, a few words or a voice command, skipping CAD and slicing entirely; All3DP questions what that means for precision and design control.",
-      "rationale": "New BCN3D Aurora feature goes from a photo, a few words or a voice command straight to a printed part with no CAD or slicing step, so industrial designers have to weigh speed against losing control over precision."
-    },
-    {
-      "title": "Chat SDK agents can now stream generative UI with json-render",
-      "url": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
-      "source": "Vercel",
+      "title": "Voice Chat with Agents",
+      "url": "https://cursor.com/changelog/voice-chat",
+      "source": "Cursor Changelog",
       "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "published_iso": "2026-11-06T21:00:00Z",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7GBRL4iPtI99gtYPzGUJgT/89543d900cd8337eb22bb11c9712218c/image.png",
-      "excerpt": "Vercel's @json-render/chat lets Chat SDK agents stream generative UI from one typed component catalog, rendering native cards on Slack, Teams and every Chat SDK platform.",
-      "rationale": "Primary-source release: one typed component catalog now drives agent-generated UI across Slack, Teams and other chat platforms, so designers specify components once instead of once per platform."
+      "published_iso": "2026-11-06T00:00:00+00:00",
+      "og_image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/opengraph-default.png",
+      "excerpt": "Cursor adds realtime voice calls with agents on desktop, web and iOS: describe a change out loud, ask what an agent is doing and hear progress while the voice agent hands coding work to the chat agent ('Hey Siri, call Cursor').",
+      "rationale": "Primary-source release: designers who build with Cursor can now describe UI changes out loud and hear agent progress on desktop, web and iOS, without typing prompts."
     },
     {
-      "title": "Autodesk releases Flame 2027.2",
-      "url": "https://www.cgchannel.com/2026/11/autodesk-releases-flame-2027/",
-      "source": "CG Channel",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "published_iso": "2026-11-07T06:00:27Z",
-      "og_image": null,
-      "excerpt": "Autodesk's Flame 2027.2 update lets the compositing and finishing software import USD scenes and adds a new AI model for generating normal maps from video footage.",
-      "rationale": "New Flame release adds an AI model that generates normal maps from video footage, plus USD scene import, so compositors can relight plates without a separate 3D pass."
+      "title": "Agent Harness: Definition",
+      "url": "https://www.nngroup.com/articles/agent-harness/",
+      "source": "Nielsen Norman Group",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "published_iso": "2026-11-06T18:00:00+00:00",
+      "og_image": "https://media.nngroup.com/media/articles/opengraph_images/Agent-Harness_socialcard.png",
+      "excerpt": "NN/g defines the agent harness - the software loop between an AI model and its tools - and explains how its context, permissions and limits shape what users can actually do with an agent.",
+      "rationale": "NN/g gives UX teams a working definition of the agent harness, showing that context, permissions and limits, not just the model, decide what users can do with an agent."
     },
     {
-      "title": "IronCAD 2027 update adds design automation tools",
-      "url": "https://www.engineering.com/ironcad-2027-update-adds-design-automation-tools/",
-      "source": "Engineering.com",
-      "category": "cad",
-      "tool": "Text-to-CAD",
-      "accent": "#3b6bff",
-      "motif": "cube",
-      "published_iso": "2026-11-05T14:43:38Z",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/11/IronCAD-2027-update-adds-design-automation-tools.png",
-      "excerpt": "IronCAD 2027 adds AI-assisted scripting for design automation, sheet metal catalog reuse and updated CAD translators for major formats.",
-      "rationale": "New version release: AI-assisted scripting puts design automation within reach of CAD users who don't write code."
-    },
-    {
-      "title": "AI can generate the interface. What makes it worth caring about?",
-      "url": "https://uxdesign.cc/ai-can-generate-the-interface-what-makes-it-worth-caring-about-a5f3a3e81986",
+      "title": "Berrypicking still beats the single answer for search, even in the world of AI",
+      "url": "https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500",
       "source": "UX Collective",
       "category": "workflow",
       "tool": "AI Workflow",
       "accent": "#ff5a4d",
       "motif": "frame",
-      "published_iso": "2026-11-04T22:12:46Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*3TA1JRp7-caokhilM29rqQ.jpeg",
-      "excerpt": "As AI tools generate more product UI from shared patterns, designers must decide where an experience should surprise, celebrate, or stay quiet; an AI-generated completion state uses the right components but cannot judge emotional context.",
-      "rationale": "A practical point for product designers: AI-generated UI picks the right components but can't judge emotional context, so the designer's job moves to deciding where an experience should surprise, celebrate or stay quiet."
+      "published_iso": "2026-11-06T04:13:22+00:00",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*7nKkTkUX4iDwlOFBMtt4kg.png",
+      "excerpt": "Marcia Bates' 1989 berrypicking model explains what single-answer AI search still misses: people gather, shift and revise across sources - a design brief for AI search interfaces.",
+      "rationale": "A concrete brief for anyone designing AI search: users gather and revise across sources, so a single-answer interface should leave room to browse, compare and change direction."
+    },
+    {
+      "title": "Tell Your Story with Seedance 2.5 | Adobe Firefly",
+      "url": "https://www.youtube.com/watch?v=dGEv6re6uYI",
+      "source": "Adobe Firefly (YouTube)",
+      "category": "social",
+      "tool": "Social",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "published_iso": "2026-11-06T12:04:52-08:00",
+      "og_image": "https://i.ytimg.com/vi/dGEv6re6uYI/maxresdefault.jpg",
+      "excerpt": "Adobe announces ByteDance's Seedance 2.5 video model is now available inside Firefly, free to try. Seedance 2.5 itself launched earlier; the news is Firefly availability.",
+      "rationale": "New availability: Seedance 2.5 video generation now runs inside Firefly, free to try, so designers can use it without leaving the Adobe workflow they already use."
+    },
+    {
+      "title": "Native is a floor, not a ceiling",
+      "url": "https://uxdesign.cc/native-is-a-floor-not-a-ceiling-09bc4f27ddce",
+      "source": "UX Collective",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#3b6bff",
+      "motif": "swatch",
+      "published_iso": "2026-11-06T04:12:27+00:00",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*tmilNueBY4CBfNN99ZX5vA.jpeg",
+      "excerpt": "With AI, a polished look costs nothing; native system components bring what can't be drawn and move with the platform (e.g. Liquid Glass) one step ahead of what imitates it.",
+      "rationale": "A practical design-system call: now that AI makes a polished custom look cheap, building on native platform components keeps behavior and platform updates such as Liquid Glass that imitations can't match."
     }
   ],
   "dedup": {
     "checks": {
-      "https://all3dp.com/4/this-ai-3d-printer-can-now-design-your-parts-too-i-have-questions/": {
+      "https://cursor.com/changelog/voice-chat": {
         "verdict": "new",
-        "nearest": "https://develop3d.com/cad/spectral-labs-turing-test-ai-cad/",
+        "nearest": "https://cursor.com/changelog/build-live-apps",
         "new_action": ""
       },
-      "https://vercel.com/changelog/json-render-and-chat-sdk-agents": {
+      "https://www.nngroup.com/articles/agent-harness/": {
         "verdict": "new",
-        "nearest": "https://vercel.com/changelog/monitor-vercel-deployments-in-chatgpt",
+        "nearest": "https://www.nngroup.com/articles/ux-agentic-software-factories/",
         "new_action": ""
       },
-      "https://www.cgchannel.com/2026/11/autodesk-releases-flame-2027/": {
+      "https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500": {
         "verdict": "new",
-        "nearest": "https://www.autodesk.com/products/fusion-360/blog/top-5-features-october-2026-fusion-update/",
+        "nearest": "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e",
         "new_action": ""
       },
-      "https://www.engineering.com/ironcad-2027-update-adds-design-automation-tools/": {
+      "https://www.youtube.com/watch?v=dGEv6re6uYI": {
         "verdict": "new",
-        "nearest": "https://www.engineering.com/allplan-max-2027-launched-for-engineering-workflows/",
+        "nearest": "https://www.youtube.com/watch?v=W1IYLaWyL70",
         "new_action": ""
       },
-      "https://uxdesign.cc/ai-can-generate-the-interface-what-makes-it-worth-caring-about-a5f3a3e81986": {
+      "https://uxdesign.cc/native-is-a-floor-not-a-ceiling-09bc4f27ddce": {
         "verdict": "new",
-        "nearest": "https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28",
+        "nearest": "https://uxdesign.cc/what-ai-has-changed-in-design-systems-and-what-is-still-up-to-us-d4e8e8f4ceb2",
         "new_action": ""
       }
     },
-    "note": "Cross-section exact-URL check against published_urls.json (movies, gadgets sections inspected). Dropped as duplicates: (1) The Verge 'Instagram Edits desktop app' was already published in MOVIES on 2026-11-06 (exact URL https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp). (2) Creative Bloq 'Dior's Christmas ad faces AI allegations' covers the same story movies ran on 2026-11-07 (https://www.cartoonbrew.com/artificial-intelligence/sylvain-chomet-dior-ad-ai-use-269124.html). (3) Google Vids Omni 1.2 Flash continues the Gemini Omni in Google Vids story that movies ran on 2026-09-24 (https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/). It is a cross-section running story, so I skipped it. (4) Figma 'Workflow Lab: code layers + Figma agent' is a tutorial on code layers, already published 2026-10-17 (https://www.figma.com/blog/design-together-with-code-layers/), and has no new release. (5) Figma YouTube 'design system documentation with the Figma agent' rehashes the 2026-10-24 Figma agent design-system piece. (6) Chaos/Enscape 4.22 (AEC Magazine) is part of the same Chaos AI rollout from the same outlet as the V-Ray Collection card published 2026-11-07. (7) NVIDIA 'FLUX 3 Image Klein on Blackwell' is an optimisation write-up about the model published 2026-10-16 (https://huggingface.co/blog/flux-3), with no new release. Not picked on score or diversity: dev.to anti-generic frontend skill (the same idea as Impeccable 10-26 and the de-slop skill 10-22), dev.to and MindStudio how-tos, the AI Advantage video, PH3 Image and Hunyuan 4 (secondary MindStudio write-ups), the Field/Friedberg interview, the two other UXC essays, NVIDIA Omniverse agents roundup, Bentley MCP analysis, and DLSS 5 Hogwarts (game-side debate). Flame has og_image null, so ax-media must source an in-article image. The UXC pick takes a different angle from the 10-12 'fast design, not UX' essay (emotional context of AI-generated states), so I judged it a distinct article."
+    "note": "Dropped as duplicates or running stories: (1) CG Channel 'Chaos releases V-Ray 7.5 for 3ds Max' is part of the same V-Ray 7 Update 5 / Collection AI rollout (AI Assistant, Veras/Anima/Vantage updates) published 2026-11-07 (https://aecmag.com/visualisation/chaos-brings-ai-deeper-into-v-ray-collection/), so it adds no new release. (2) AEC Magazine 'Chaos/Enscape 4.22' covers the same Chaos AI rollout; the 11-08 curator also dropped it. (3) NVIDIA 'FLUX 3 Image Klein on Blackwell' is an optimization write-up about the model published 2026-10-16 (https://huggingface.co/blog/flux-3), with no new release; also dropped 11-08. (4) Figma YouTube 'design system documentation with the Figma agent' rehashes the 2026-10-24 Figma agent design-system piece; also dropped 11-08. Cross-section: exact-URL check against the published_urls.json movies block found neither YouTube candidate. The Seedance 2.5 model itself ran in movies (krea.ai 2026-07-10, cined.com) but the Firefly integration is a separate, new availability announcement, so I kept it as new. Not picked: Theoretically Media AI film workflow (filmmaking, belongs in movies), Field/Friedberg interview (commentary), UXC 'Otherwise you're just a machine' (third UXC essay; outlet cap of 2), and dev.to Awwwards-mcp (tool-author self-promotion). Diversity: 4 outlets (Cursor, NN/g, UX Collective x2, Adobe YouTube). Categories: figma, tokens x2 (the second has accent #3b6bff), workflow, social. Cursor's og_image is a site-wide default, so ax-media should source an in-article image."
   }
 }

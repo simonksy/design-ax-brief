@@ -1,25 +1,42 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "section": "movies",
   "cards": [
     {
-      "id": "curiousrefuge-ai-clone-shoot",
+      "id": "iqiyi-nadoupro-1938-film",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "An AI clone stands in\nfor the on-camera shoot",
-      "body": "Curious Refuge shows how recorded audio and a reference video can yield on-camera footage without a studio.",
-      "mini_headline": "AI clone replaces the shoot",
+      "headline": "iQIYI reimagines a lost 1938\nfilm with its AI platform",
+      "body": "An eight-person team used iQIYI's NadouPro to generate a new version of a lost 1938 film from surviving stills.",
+      "mini_headline": "iQIYI AI reimagines\na lost 1938 film",
       "tool": "Movies",
-      "source": "Curious Refuge",
-      "url": "https://www.youtube.com/watch?v=CM1rPwuXw2A",
-      "accent": "#7928ca",
+      "source": "Unite.AI",
+      "url": "https://www.unite.ai/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow/",
+      "accent": "#eb367f",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
-          {"t": "video", "yt": "CM1rPwuXw2A"},
-          {"t": "p", "x": "Curious Refuge walks through a realistic AI-clone workflow for video production."},
-          {"t": "p", "x": "The process starts from two inputs: a recorded audio track and a reference video of the presenter. From these, the workflow produces on-camera footage without booking a studio or setting up a shoot."}
+          {
+            "t": "img",
+            "src": "https://www.unite.ai/wp-content/uploads/2026/11/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow.jpg"
+          },
+          {
+            "t": "p",
+            "x": "An eight-person team used iQIYI’s NadouPro platform to reconstruct a 1938 film whose prints, reels and scripts had been lost, the company announced on November 6, 2026. The short, completed in two months, was shortlisted for the 2026 Future Images AI Unit at the 39th Golden Rooster Awards."
+          },
+          {
+            "t": "p",
+            "x": "Visiting Shanghai after Sixty Years had been lost for nearly 90 years, leaving production still photographs, posters and newspaper clippings as the conceptual guides for generating a new version. Zidong Jiang, iQIYI’s director of AI restoration technology, said the team pursued a creative reconstruction based on available historical materials rather than attempting to restore a surviving print."
+          },
+          {
+            "t": "p",
+            "x": "To keep characters consistent across the 1938 and 1998 storylines, the team fixed digital assets for each character’s facial features, proportions and costumes before generating shots. NadouPro’s 3D Director Studio let them adjust positioning, composition and movement. “We always believe the audiovisual design of a film must come first, before considering how AI can realize it,” director Enji Yang said."
+          },
+          {
+            "t": "p",
+            "x": "The resulting short is a new interpretation guided by historical evidence; it does not recover the lost original footage."
+          }
         ]
       }
     }
