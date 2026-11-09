@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "issue": "AI, 개발실 밖 회사 전체로",
+    "date": "2026.11.09",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "원문 4건 대조(게재일 Databricks 11.04·뉴스핌 11.06·게임와이 11.08·이코노미톡 11.08, KST). Ubisoft 3월 약 200명→8월 4,000명+·목표 5,000명·마케팅/재무/인사 확대 계획(Databricks 고객 사례), 넷마블 올해 하반기 3종 연기·내년 13종·김병규 대표 발언, 젤닉 튀르키예 스튜디오 광고 2만5000~5만→약 800달러·'GTA는 수작업', 크래프톤 2027 인턴 6개 직군 Cofa-Probe 확인. 넷마블 표 이미지(크롭 불가)·크래프톤 로고 사진을 빼고 quote로 — 스틸 0장.",
+    "sources": [
+      "Databricks — Ubisoft Scales AI Coding With Unity Gateway (2026.11.04)",
+      "뉴스핌 — 신작 연기 반복한 넷마블, 내년 13종 출시 자신…AI로 개발 속도 높인다 (2026.11.06)",
+      "게임와이 — GTA6 모회사 대표, \"광고비 5만→800달러 비결은 AI\" (2026.11.08)",
+      "이코노미톡뉴스 — [기획 | 게임사 AI 전환의 현주소 ④] 크래프톤, 결과보다 AI 협업 과정 평가 (2026.11.08)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 게임 · 11.04~11.08",
+      "thread": [
+        {
+          "d": "11.04",
+          "t": "코딩",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.06",
+          "t": "개발·운영",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.08",
+          "t": "광고",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.08",
+          "t": "채용",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        }
+      ],
+      "thread_note": "게임사 AI가 개발실을 넘어 광고·채용까지 회사 전체로 번진다",
+      "eyebrow": "흐름 · 게임",
+      "headline": "AI, 개발실 밖\n회사 전체로",
+      "body": "한 회사씩 보면 효율 실험이다. 닷새 사이 코딩·운영·광고에 채용까지, 게임사 곳곳에 AI가 깔렸다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.04",
+      "headline": "Ubisoft, AI 코딩\n사용자 20배",
+      "body": "Databricks 고객 사례에 따르면 게이트웨이 하나로 여러 모델을 묶었다. 목표는 5,000명, 이후 마케팅·재무·인사로 넓힌다.",
+      "foot": "2026.11.04",
+      "_src": "https://www.databricks.com/customers/ubisoft/unity-gateway",
+      "_id": "ubisoft-databricks-agents",
+      "stat_top": "3월 약 200명",
+      "stat_arrow": "AI 코딩 에이전트 사용 개발자",
+      "stat_bottom": "8월 4,000명+",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.06",
+      "headline": "넷마블, 내년\n신작 13종 자신",
+      "body": "올해 하반기 신작 3종을 모두 미룬 넷마블. 번역·녹음·그래픽에 AI를 쓰고 QA 자동화도 개발 중이라고 했다.",
+      "foot": "2026.11.06",
+      "_src": "https://www.newspim.com/news/view/20261106000585",
+      "_id": "netmarble-13-titles-ai",
+      "quote": "한 해에 10종 이상\n게임 출시가\n가능하다고 판단했다",
+      "quote_by": "김병규 · 넷마블 대표 (3분기 컨퍼런스콜)"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.08",
+      "headline": "광고는 AI로,\nGTA는 손으로",
+      "body": "젤닉 테이크투 CEO가 든 튀르키예 스튜디오 사례다. 다만 '개발 아닌 마케팅 얘기'라며 GTA는 수작업으로 만든다고 했다.",
+      "foot": "2026.11.08",
+      "_src": "http://www.gamey.kr/news/articleView.html?idxno=3019570",
+      "_id": "taketwo-zelnick-ai-ad",
+      "stat_top": "편당 2만5천~5만 달러",
+      "stat_arrow": "실사 대신 AI로 만든 30·60초 광고",
+      "stat_bottom": "약 800달러",
+      "stat_strike": true
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.11.08",
+      "headline": "크래프톤, AI 협업 채용",
+      "body": "2027 인턴 6개 직군에 '코파 프로브'를 쓴다. 결과물에 프롬프트·대화·검증 기록까지 본다. AI가 사람 뽑는 기준이 됐다.",
+      "foot": "2026.11.08",
+      "_src": "http://www.economytalk.kr/news/articleView.html?idxno=425135",
+      "_id": "krafton-cofa-probe",
+      "quote": "기술 관리·의도 관리·\n인지 관리\n세 축",
+      "quote_by": "크래프톤 관계자 (이코노미톡뉴스 답변)"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
