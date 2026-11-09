@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "issue": "심장 영상 AI, 치료까지 닿다",
+    "date": "2026.11.09",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "원문 5건 대조: 날짜를 원문 게재일로 고침(AHA 11.06→11.02, Lancet 11.08→11.02, Vscan 11.04→11.03, AuntMinnie 11.07→11.06, Cleerly 11.09→11.07). AHA·Cleerly는 curl로 본문 확인, AuntMinnie·Lancet은 Cloudflare라 보강본(full) 기준. 수치 4,597명·98%·6개 단면, 27,382명·2~3초·13분·C index 0.669/0.637, 95.2%·96.8%·510(k)·11월 말, 1,674명·1.35분·7.2분·2배, 523명·31→75%·32→47%·win ratio 2.00 확인. 사진은 AHA 이동진료차 1회(Vscan은 11-08 trend, Lancet은 11-08 story에서 이미 씀), 나머지 stat·quote.",
+    "sources": [
+      "American Heart Association — Non-experts with AI guidance and off-site review perform quality mobile rural heart scans (2026.11.02)",
+      "The Lancet Digital Health — Performance of AI versus clinician left-ventricular segmentation of cardiac MRI for mortality prediction (2026.11.02)",
+      "AuntMinnie — GE HealthCare adds lung, aortic stenosis AI tools to Vscan Air (2026.11.03)",
+      "AuntMinnie — Deep-learning model predicts mortality from CTA scans (2026.11.06)",
+      "Cleerly — PARAMOUNT, the First Randomized Trial of AI-Enabled Plaque-Based Care, Meets Primary Endpoint (2026.11.07)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 의료 · 11.02~11.07",
+      "thread": [
+        {
+          "d": "11.02",
+          "t": "이동 촬영",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.02",
+          "t": "MRI 판독",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.03",
+          "t": "손안 초음파",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.06",
+          "t": "판막 CT",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.07",
+          "t": "첫 RCT",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        }
+      ],
+      "thread_note": "심장 영상 AI가 찍기·읽기를 넘어 치료 결정까지 올라왔다",
+      "eyebrow": "흐름 · 의료",
+      "headline": "심장 영상 AI,\n치료까지 닿다",
+      "body": "한 건씩 보면 속도 자랑이다. 엿새를 이어 보면 찍고, 읽고, 위험을 재고, 치료를 바꾸는 순서로 올라간다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.02",
+      "headline": "초음파 처음 잡고\n심장을 찍다",
+      "body": "초음파 경험 없는 간호사·CT 기사가 AI 안내로 농촌 이동진료차에서 4,597명을 찍었다. 98%가 표준 단면 6개를 다 담았다.",
+      "foot": "2026.11.02",
+      "_src": "https://newsroom.heart.org/news/non-experts-with-ai-guidance-and-off-site-review-perform-quality-mobile-rural-heart-scans",
+      "_id": "aha-rural-echo-ai-guidance",
+      "media": "pipeline/media/aha-rural-echo-ai-guidance.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.02",
+      "headline": "MRI 판독,\n분에서 초로",
+      "body": "27,382명 심장 MRI에서 AI 박출률이 사망 예측에서 의사 측정을 근소하게 앞섰다(C index 0.669 대 0.637).",
+      "foot": "2026.11.02",
+      "_src": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00065-8/fulltext",
+      "_id": "lancet-cmr-ai-ejection-fraction",
+      "stat_top": "전문의 13분 안팎",
+      "stat_arrow": "AI 박출률 측정, 환자 한 명당",
+      "stat_bottom": "2~3초",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.03",
+      "headline": "손안 초음파에\n판막 판정 AI",
+      "body": "GE HealthCare가 Vscan Air에 대동맥판 협착 판정 AutoAS와 폐 촬영 안내 AI를 넣는다. 둘 다 FDA 510(k) 허가.",
+      "foot": "2026.11.03",
+      "_src": "https://www.auntminnie.com/clinical-news/ultrasound/news/16349404/ge-healthcare-gehc-adds-lung-aortic-stenosis-ai-tools-to-vscan-air",
+      "_id": "medicine-vscan-air-lung-as",
+      "stat_top": "전문가 96.8%",
+      "stat_arrow": "비전문가가 진단 품질 폐 검사를 얻은 비율",
+      "stat_bottom": "95.2%",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.06",
+      "headline": "CT로 재는\n판막 사망 위험",
+      "body": "TAVR 앞둔 1,674명 CTA에서 AI가 판막 섬유화를 1.35분에 쟀다. 전문가는 7.2분. 섬유화 최다군은 사망 위험이 두 배.",
+      "foot": "2026.11.06",
+      "_src": "https://www.auntminnie.com/clinical-news/ct/article/16424554/deeplearning-model-predicts-mortality-from-cta-scans",
+      "_id": "cedars-tavr-cta-fibrosis",
+      "stat_top": "섬유화 0.940 cm³ 초과",
+      "stat_arrow": "평균 4.1년 추적, 사망 위험",
+      "stat_bottom": "2배",
+      "stat_strike": false
+    },
+    {
+      "n": 6,
+      "kind": "quote",
+      "eyebrow": "2026.11.07",
+      "headline": "AI가 치료를 바꾼\n첫 무작위 시험",
+      "body": "PARAMOUNT 523명. AI 플라크 분석 군은 지질강하제 사용이 31%에서 75%로, 통상 진료군은 32%에서 47%로 늘었다.",
+      "foot": "2026.11.07",
+      "_src": "https://cleerly.com/press/paramount-first-randomized-trial",
+      "_id": "cleerly-paramount-trial",
+      "quote": "플라크를 직접 재서\n진료에 쓰면\n환자가 예방 치료를\n훨씬 많이 시작한다",
+      "quote_by": "Todd C. Villines · PARAMOUNT 공동 책임연구자"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

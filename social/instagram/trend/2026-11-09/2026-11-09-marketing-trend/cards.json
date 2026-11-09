@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "issue": "광고 소재, 플랫폼이 만든다",
+    "date": "2026.11.09",
+    "section": "MARKETING",
+    "accent": "#ff8a3d",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Google 11.08→11.05, Marketing Dive 11.06→11.05, 파이낸셜뉴스 11.09→11.08, PPC Land 11.09→11.08). 시간순으로 Google을 앞에 둠. 수치 15개 언어·Gemini Omni 1.2, 15초 세 편·30일·10분의 1, 12~19일 시범·수정 불가, Stable Diffusion 가중치 셋·출원 단계 확인. 네이버 사진은 빼고 stat으로.",
+    "sources": [
+      "Google Ads — Bring Your Holiday Campaigns to Life with Google AI | Creative Drop #2 (2026.11.05)",
+      "Marketing Dive — How Fresh Step used AI to go from brief to ads at one-tenth the cost (2026.11.05)",
+      "파이낸셜뉴스 — 네이버 파워링크 AI '문구 생성' 시범 적용 (2026.11.08)",
+      "PPC Land — Apple patent describes AI that repaints app screenshots per keyword (2026.11.08)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 마케팅 · 11.05~11.08",
+      "thread": [
+        {
+          "d": "11.05",
+          "t": "번역·영상",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.05",
+          "t": "10분의 1",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.08",
+          "t": "문구 생성",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.08",
+          "t": "키워드 화면",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        }
+      ],
+      "thread_note": "광고 소재 만드는 일이 대행사 작업에서 광고 플랫폼의 기본 기능으로 들어간다",
+      "eyebrow": "흐름 · 마케팅",
+      "headline": "광고 소재,\n플랫폼이 만든다",
+      "body": "한 건씩 보면 도구 하나다. 나흘 사이 Google·네이버는 광고 관리자 안에, Apple은 특허에 소재 생성을 넣었다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.05",
+      "headline": "Google Ads,\n연말 소재를 AI로",
+      "body": "15개 언어 캠페인 번역, 제품 사진의 연말 장면 변환, Gemini Omni 1.2 영상 생성을 광고 관리자 안에 넣었다.",
+      "foot": "2026.11.05",
+      "_src": "https://business.google.com/us/accelerate/announcements/optimize-holiday-ads-with-google-ai-creative-drop-2/",
+      "_id": "google-ads-creative-drop2",
+      "media": "pipeline/media/google-ads-creative-drop2.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.05",
+      "headline": "Fresh Step,\n제작비 10분의 1",
+      "body": "Clorox의 Fresh Step이 AI 대행사 RECE와 15초 광고 세 편을 브리프부터 완성까지 30일 만에 만들었다.",
+      "foot": "2026.11.05",
+      "_src": "https://www.marketingdive.com/news/how-fresh-step-used-ai-to-go-from-brief-to-ads-at-one-tenth-the-cost/",
+      "_id": "fresh-step-rece-ai-ads",
+      "video": "pipeline/media/fresh-step-rece-ai-ads.mp4"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.08",
+      "headline": "네이버 파워링크,\n문구는 AI가",
+      "body": "광고 소재와 연결된 페이지를 AI가 읽고 검색 의도에 맞춘 문구를 덧붙인다. 12~19일 시범, 광고주는 그 문구를 고칠 수 없다.",
+      "foot": "2026.11.08",
+      "_src": "https://www.fnnews.com/news/202611081827405042",
+      "_id": "naver-powerlink-ai-copy-pilot",
+      "stat_top": "광고주가 쓴 문구",
+      "stat_arrow": "11.12~19 시범, 검색 의도 따라",
+      "stat_bottom": "AI 문구 추가",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.08",
+      "headline": "Apple 특허,\n키워드마다 새 화면",
+      "body": "앱 화면에서 헤드라인과 휴대폰만 남기고 배경을 키워드마다 Stable Diffusion으로 다시 그린다. 아직 출원 단계다.",
+      "foot": "2026.11.08",
+      "_src": "https://ppc.land/apple-patent-describes-ai-that-repaints-app-screenshots-per-keyword/",
+      "_id": "apple-patent-keyword-screenshots",
+      "media": "pipeline/media/apple-patent-keyword-screenshots.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

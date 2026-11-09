@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "issue": "프롬프트보다 넘겨줄 재료",
+    "date": "2026.11.09",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Claude 실험 11.05→11.03, UXC 11.06→11.04, Figma 11.06→11.05, Vercel 11.08→11.06). 수치 4단계·9회(DEV), 21곳 중 20곳 MCP·Code Connect 3곳(UXC RSS 본문), Figma 기능 3항목(YouTube 설명), 카탈로그·Block Kit·Adaptive Cards(Vercel 변경 기록) 확인. 사진은 Claude 한 장, 영상은 Figma 하나만; UXC는 stat, Vercel은 11-08 story가 영상을 써서 원문 문장으로 quote.",
+    "sources": [
+      "DEV Community — I ran the same Claude design request 4 times. Only the reference hand-off changed. (2026.11.03)",
+      "UX Collective — What AI has changed in Design Systems, and what is still up to us (2026.11.04)",
+      "Figma (YouTube) — Edit and generate vectors with the Figma agent (2026.11.05)",
+      "Vercel — Chat SDK agents can now stream generative UI with json-render (2026.11.06)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 디자인 · 11.03~11.06",
+      "thread": [
+        {
+          "d": "11.03",
+          "t": "참조 지시",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.04",
+          "t": "MCP 연결",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.05",
+          "t": "스타일 참조",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.06",
+          "t": "카탈로그",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        }
+      ],
+      "thread_note": "AI 디자인의 결과는 프롬프트보다 넘겨준 재료에서 갈린다",
+      "eyebrow": "흐름 · 디자인",
+      "headline": "프롬프트보다\n넘겨줄 재료",
+      "body": "하나씩 보면 요령과 기능 소식이다. 나흘 새 참조 지시, 토큰, 스타일, 컴포넌트 목록이 줄지어 에이전트 손에 쥐여졌다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.03",
+      "headline": "참조는 붙이지 말고\n할 일을 적어라",
+      "body": "같은 Claude 요청을 네 단계로 돌렸다. 참조 이미지만 붙이면 둘이 뒤섞였고, 무엇을 가져갈지 몇 줄 적자 브랜드 톤이 살았다.",
+      "foot": "2026.11.03",
+      "_src": "https://dev.to/heynstudio/i-ran-the-same-claude-design-request-4-times-only-the-reference-hand-off-changed-4fnb",
+      "_id": "claude-design-reference-handoff",
+      "media": "pipeline/media/claude-design-reference-handoff.png"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.04",
+      "headline": "디자인 시스템,\nAI가 읽는다",
+      "body": "오픈소스 디자인 시스템 21곳 중 20곳이 MCP 서버를 둬 에이전트가 맞는 부품을 찾는다. 디자인과 코드를 잇는 곳은 드물다.",
+      "foot": "2026.11.04",
+      "_src": "https://uxdesign.cc/what-ai-has-changed-in-design-systems-and-what-is-still-up-to-us-d4e8e8f4ceb2",
+      "_id": "uxc-design-systems-mcp-study",
+      "stat_top": "MCP 서버 21곳 중 20곳",
+      "stat_arrow": "Figma Code Connect까지 갖춘 곳",
+      "stat_bottom": "3곳",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.05",
+      "headline": "스타일 참조대로\n벡터를 그린다",
+      "body": "Figma 에이전트가 스타일 참조대로 벡터 삽화·아이콘을 그린다. 선은 획이라 굵기·끝 모양을 고치고, 레이어도 의미별로 묶인다.",
+      "foot": "2026.11.05",
+      "_src": "https://www.youtube.com/shorts/Vfh8hAEs7yk",
+      "_id": "figma-agent-vector-styles",
+      "video": "pipeline/media/figma-agent-vector-styles.mp4"
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.11.06",
+      "headline": "컴포넌트 목록 안에서\nUI를 짠다",
+      "body": "Vercel json-render는 표·차트·버튼 카탈로그로 에이전트가 쓴 JSON을 검증해 Slack·Teams 고유 카드로 띄운다.",
+      "foot": "2026.11.06",
+      "_src": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
+      "_id": "vercel-json-render-chat",
+      "quote": "메시지 모양마다\n따로 만들 도구가\n필요 없다",
+      "quote_by": "Vercel 변경 기록"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

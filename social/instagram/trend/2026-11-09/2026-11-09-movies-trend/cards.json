@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "issue": "애니메이션 공정, 단계마다 AI",
+    "date": "2026.11.09",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "원문 4건 확인: Luma 영상 설명(11.02 게시, 18초), Señal News FlipMove(20분→2분·Blender·Ozzy Fox), 뉴스1 멜로츄(11.05 게재·뉴욕·약 5분), Variety OLM(세 프레임·약 90초 학습·작업량 약 30%↓). 앞 영화 trend(장편 11.07·제작 공정 11.08)와 겹치는 id 없음, 이미지·영상 모두 한 번씩.",
+    "sources": [
+      "Luma (YouTube) — Expression Sheet - Luma (2026.11.02)",
+      "Señal News — Animaj unveiled FlipMove, an artist-led AI animation workflow (2026.11.04)",
+      "뉴스1 — 생성형 AI가 제작한 애니 '두근두근 멜로츄!'…첫 영상 공개 (2026.11.05)",
+      "Variety — 'Pokemon' Anime Studio OLM Trains AI Coloring Tool on Just Three Frames (2026.11.07)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 영화 · 11.04~11.09",
+      "thread": [
+        {
+          "d": "11.4",
+          "t": "표정",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.6",
+          "t": "레이아웃",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.8",
+          "t": "첫 편",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.9",
+          "t": "채색",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "AI가 애니메이션 공정을 한 단계씩 맡아 간다",
+      "eyebrow": "흐름 · 영화",
+      "headline": "애니메이션 공정,\n단계마다 AI",
+      "body": "한 건씩 보면 도구 소개다. 엿새 사이 표정, 레이아웃, 채색 도구가 차례로 나왔고 AI로 만든 애니 첫 편도 공개됐다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.04",
+      "headline": "표정부터\nAI로 펼쳐 본다",
+      "body": "Luma Expression Sheet는 연기 방향을 정하기 전에 한 캐릭터의 표정 폭부터 펼쳐 보여 준다.",
+      "foot": "2026.11.04",
+      "_src": "https://www.youtube.com/watch?v=MZ-1e4uYEiA",
+      "_id": "luma-expression-sheet",
+      "video": "pipeline/media/luma-expression-sheet.mp4"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.06",
+      "headline": "수정 한 번,\n20분에서 2분",
+      "body": "Animaj FlipMove는 감독 메모를 Blender에서 고칠 수 있는 3D 수정본으로 바꾼다. 20분 걸리던 일이 2분.",
+      "foot": "2026.11.06",
+      "_src": "https://senalnews.com/en/content/animaj-unveiled-flipmove-an-artist-led-ai-animation-workflow",
+      "_id": "movies-animaj-flipmove",
+      "video": "pipeline/media/movies-animaj-flipmove.mp4"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.08",
+      "headline": "AI로 만든 애니\n멜로츄 첫 편",
+      "body": "뜨거운바다가 생성형 AI로 만든 '두근두근 멜로츄!' 첫 편을 공개했다. 뉴욕이 배경이고 약 5분이다.",
+      "foot": "2026.11.08",
+      "_src": "https://www.news1.kr/life-culture/general-cultural/6343262",
+      "_id": "hotsea-melochu-anime",
+      "media": "pipeline/media/hotsea-melochu-anime.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.09",
+      "headline": "세 프레임 보고\nAI가 채색",
+      "body": "Pokemon 애니의 OLM은 손으로 칠한 세 프레임만 익혀 나머지를 칠한다. 채색 작업량은 약 30% 줄었다.",
+      "foot": "2026.11.09",
+      "_src": "https://variety.com/2026/tv/markets-festivals/pokemon-anime-studio-olm-ai-coloring-tool-three-frames-1236942198/",
+      "_id": "olm-animins-ai-coloring",
+      "media": "pipeline/media/olm-animins-ai-coloring.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

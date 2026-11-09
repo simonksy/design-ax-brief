@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "issue": "집안일 로봇, 아직 예약 중",
+    "date": "2026.11.09",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "원문 5건 대조(Notebookcheck·Engadget·MIT TR·The Gadgeteer×2): Voxel $200 보증금·2028년·$20,000, Meta Max 약 1.5m·106lbs·Fourier 석 달·출시일 없음·Max 2, Tau 원격 조종·청소기·걸레질만 단독·주간 $60, Lume $2,699·2027년 1~2분기 배송, TOMO S 가격·지역 미정·2027년 이른 봄 확인. 영상·사진은 story에 안 쓴 Meta·Lume 두 장만, 나머지는 stat·quote.",
+    "sources": [
+      "Notebookcheck — Voxel 1 robot can tidy up, water plants and clean up dirt (2026.10.20)",
+      "Engadget — Meta reportedly built a humanoid robot prototype that can do household chores (2026.11.01)",
+      "MIT Technology Review — I watched a humanoid robot clean my apartment. It felt like a taste of the future. (2026.11.06)",
+      "The Gadgeteer — Syncere Lume robot lamp folds laundry and makes the bed for $2,699 (2026.11.06)",
+      "The Gadgeteer — Pudu TOMO S robot mower sharpens its own blades (2026.11.06)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 가젯 · 10.21~11.08",
+      "thread": [
+        {
+          "d": "10.21",
+          "t": "Voxel 예약",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.2",
+          "t": "Meta Max",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.7",
+          "t": "원격 청소",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.7",
+          "t": "램프 로봇",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.8",
+          "t": "잔디깎이",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        }
+      ],
+      "thread_note": "집안일 로봇은 줄줄이 나오지만, 혼자 집에 와서 일하는 로봇은 아직 없다 — 출시는 내년 이후, 지금 온 것은 사람이 조종한다",
+      "eyebrow": "흐름 · 가젯",
+      "headline": "집안일 로봇,\n아직 예약 중",
+      "body": "하나씩 보면 신제품 소식이다. 꿰어 보면 2028년, 내년 봄, 원격 조종이다. 혼자 집에 오는 로봇은 아직 없다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.21",
+      "headline": "두 팔 로봇,\n2028년에 온다",
+      "body": "Tuesday Labs의 Voxel은 정리·화분 물 주기·리모컨 찾기를 맡는다. 지금은 $200 보증금으로 예약만 받는다.",
+      "foot": "2026.10.21",
+      "_src": "https://www.notebookcheck.net/Voxel-1-robot-can-tidy-up-water-plants-and-clean-up-dirt.1429483.0.html",
+      "_id": "gadgets-voxel1-tidy-robot",
+      "stat_top": "$200 예약",
+      "stat_arrow": "Voxel Series 1 출시",
+      "stat_bottom": "2028년 · $20,000",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.02",
+      "headline": "Meta도 집안일\n휴머노이드",
+      "body": "Meta가 Fourier와 석 달 만에 만든 Max는 키 약 1.5m·106lbs다. 출시일은 없고 Max 2를 만들고 있다는 보도다.",
+      "foot": "2026.11.02",
+      "_src": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+      "_id": "meta-max-humanoid-robot",
+      "media": "pipeline/media/meta-max-humanoid-robot.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.07",
+      "headline": "집에 온 로봇은\n사람이 조종",
+      "body": "Tau 휴머노이드는 사람이 머리·손목 카메라를 보며 원격 조종한다. 청소기·걸레질은 혼자 한다. 주간 청소 $60.",
+      "foot": "2026.11.07",
+      "_src": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "_id": "tau-humanoid-home-cleaning",
+      "quote": "타이밍과 연결을\n최적화하는 데만\n엄청난 시간을 쓴다",
+      "quote_by": "Cornelia Weinzierl · Tau Robotics 공동창업자"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.07",
+      "headline": "사람 모양 대신\n램프 속 로봇 팔",
+      "body": "Syncere Lume은 평소엔 램프, 일할 땐 팔을 펴 빨래를 개고 침대를 정리한다. $2,699, 배송은 2027년 상반기.",
+      "foot": "2026.11.07",
+      "_src": "https://the-gadgeteer.com/2026/11/06/syncere-lume-robot-lamp-2699/",
+      "_id": "syncere-lume-robot-lamp",
+      "video": "pipeline/media/syncere-lume-robot-lamp.mp4"
+    },
+    {
+      "n": 6,
+      "kind": "stat",
+      "eyebrow": "2026.11.08",
+      "headline": "잔디깎이도\n내년 봄에",
+      "body": "Pudu TOMO S는 LiDAR·AI 비전으로 와이어 없이 달리고 날을 스스로 간다. 세 버전 모두 가격·출시 지역은 아직 없다.",
+      "foot": "2026.11.08",
+      "_src": "https://the-gadgeteer.com/2026/11/06/pudu-tomo-s-robot-mower-sharpens-its-own-blades/",
+      "_id": "pudu-tomo-s-mower",
+      "stat_top": "가격 미정",
+      "stat_arrow": "Pudu TOMO S 주문",
+      "stat_bottom": "2027년 이른 봄",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}
