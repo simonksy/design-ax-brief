@@ -4041,6 +4041,133 @@
           "x": "3. Holiday-ready assets for YouTube: Gemini Omni 1.2, el modelo de generación de video actualizado de Google DeepMind, aporta mayor coherencia y una creación de videos más rápida a escala en Asset Studio, en formatos horizontal, vertical y cuadrado. Max Hagler recomienda hacer pruebas A/B con dos ganchos visuales de apertura distintos en los primeros 3 segundos."
         }
       ]
+    },
+    "marketing/google-ads-mcp-write-tools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/google-ads-mcp-server-4-write-tools-read-only-vitrine-grabber-arm-locked-cash-register.jpg",
+          "cap": "El servidor Google Ads MCP suma 4 herramientas de escritura activadas por defecto, aunque su guía aún lo describe como read-only"
+        },
+        {
+          "t": "p",
+          "x": "Google publicó el 2 de noviembre de 2026 la versión 0.0.6 de su servidor de código abierto Google Ads MCP, que añade las primeras herramientas de la historia pública del proyecto capaces de modificar una cuenta de Google Ads. Las cuatro herramientas de escritura —create_asset, upload_video_asset, manage_labels y manage_label_associations— crean recursos, suben videos a YouTube y gestionan etiquetas, y cada una exige una simulación en dos pasos y una suma de verificación. Vienen activadas por defecto."
+        },
+        {
+          "t": "p",
+          "x": "El lanzamiento no tuvo anuncio, y la guía de integración para desarrolladores de Google, actualizada por última vez el 30 de octubre, sigue describiendo el servidor como estrictamente read-only. La suma de verificación prueba que los parámetros no cambiaron, pero no que alguien aprobara el cambio. «Si un humano lo aprobó entre medias, el servidor no puede comprobarlo», escribió el consultor suizo Thomas Wismer, que probó la versión."
+        },
+        {
+          "t": "p",
+          "x": "La versión 0.0.6 todavía no puede crear ni editar campañas, grupos de anuncios ni anuncios; cambiar presupuestos, pujas, estrategias de puja ni estados; añadir palabras clave; ni vincular un recurso nuevo a una campaña. Para despliegues estrictamente read-only, el README indica configurar labels: false y assets: false en tools_config.yaml."
+        }
+      ]
+    },
+    "marketing/meta-ai-ads-unapproved-discounts": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Informes recientes revelaron que las herramientas publicitarias impulsadas por inteligencia artificial publicaron ofertas de descuento a los clientes incluso con las promociones desactivadas."
+        },
+        {
+          "t": "p",
+          "x": "A medida que las herramientas de inteligencia artificial ganan atribuciones, hace falta establecer nuevos parámetros que limiten su capacidad al realizar ciertas tareas. Los errores automatizados también pueden alcanzar la compra de anuncios digitales. PPC Land informó la semana pasada que las herramientas publicitarias AI-powered de Meta tomaron descuentos del sitio web de una tienda y los mostraron en los anuncios de Facebook e Instagram del negocio, «incluso cuando la tienda había desactivado las promociones en el anuncio que copió»."
+        },
+        {
+          "t": "p",
+          "x": "El hallazgo fue del asesor de marketing digital Bram Van der Hallen: «Meta ahora puede detectar automáticamente ofertas de tu sitio web y usarlas en tus anuncios de Meta. Incluso cuando has desactivado esta opción en tu anuncio original». Según él, el problema puede controlarse actualizando la configuración de Commerce Manager para impedir que Meta use las ofertas detectadas en otras campañas."
+        },
+        {
+          "t": "p",
+          "x": "PPC Land señaló: «Esto importa a cualquier negocio que anuncie en Meta con más de una oferta activa, porque un descuento pensado para una campaña o una audiencia podría aparecer en otro lugar»."
+        },
+        {
+          "t": "p",
+          "x": "Meta afirmó que las mejoras en su sistema de clasificación de anuncios impulsaron un aumento de más del 8% en los clics y una subida del 15.7% en las conversiones en Facebook en el Q2 2026. Sin embargo, a medida que más sistemas se guían por AI, habrá errores, y los anunciantes deben conocer estos posibles problemas."
+        }
+      ]
+    },
+    "marketing/kbeauty-ai-fake-doctor-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i3n.news1.kr/system/photos/2026/9/8/8094291/high.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Los anuncios en los que un falso médico creado con inteligencia artificial (AI) explica la eficacia de un cosmético y recomienda su uso pasarán a estar prohibidos de forma expresa por ley a partir de finales de este mes. El artículo 13, apartado 1, inciso 4 de la ley de cosméticos reformada, que entra en vigor el 27, prohíbe los anuncios que puedan llevar al consumidor a creer que expertos virtuales generados con AI, como médicos, farmacéuticos o profesores universitarios, recomiendan o avalan un cosmético."
+        },
+        {
+          "t": "p",
+          "x": "Usar tecnología AI para producir anuncios no está prohibido en sí. El criterio es si se presenta a un experto virtual difícil de distinguir de uno real de modo que el consumidor pueda tomarlo por la recomendación o el aval de un experto."
+        },
+        {
+          "t": "p",
+          "x": "Según una encuesta de la Agencia de Consumidores de Corea, entre octubre del año pasado y junio de este año se detectaron 420 anuncios engañosos que abusaban de la AI en anuncios de YouTube, de los cuales 72 (17.1%) eran de cosméticos. Los anuncios que suplantaban a expertos llegaron a 153."
+        },
+        {
+          "t": "img",
+          "src": "https://image.news1.kr/system/photos/2026/11/9/8205385/high.jpg/dims/optimize",
+          "cap": "Ejemplo de anuncio engañoso en el que un dermatólogo virtual generado con inteligencia artificial (AI) promociona el efecto de un cosmético para mejorar el melasma. (Material conjunto de los ministerios implicados)"
+        },
+        {
+          "t": "p",
+          "x": "Las principales empresas de belleza revisan de forma preventiva sus contenidos publicitarios y refuerzan sus guías internas de etiquetado y sus procesos de revisión previa para el marketing con AI generativa. La Comisión de Comercio Justo modificó sus directrices desde el 1 de junio para exigir que los anuncios en los que personajes virtuales recomiendan o avalan productos indiquen con claridad que se trata de un 'personaje virtual'."
+        }
+      ]
+    },
+    "marketing/google-ads-ai-summaries-test": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google está probando más resúmenes AI-generated dentro de sus anuncios de búsqueda. Esta prueba muestra resúmenes AI-generated sobre el grupo de resultados patrocinados, que resumen todos los anuncios de todos los anunciantes, además de resúmenes AI-generated bajo la descripción de cada anuncio."
+        },
+        {
+          "t": "p",
+          "x": "Mientras se cargan los resúmenes AI-generated, aparece una animación de carga para entretenernos."
+        },
+        {
+          "t": "p",
+          "x": "Lo detectó Brodie Clark, que lo publicó en X y en SERP Alert; este es su video:"
+        },
+        {
+          "t": "video",
+          "src": "https://images.seroundtable.com/v-google-ads-ai-generated-summaries-14TJkp0H.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Brodie escribió: «Los resultados patrocinados de Google en móviles son cada vez más generativos. En este ejemplo no solo hay una animación de carga, sino que cada anuncio tiene su propia descripción del negocio, y además hay una descripción adicional en la parte superior de los resultados patrocinados que menciona las marcas listadas con un enlace adicional a sus anuncios»."
+        },
+        {
+          "t": "p",
+          "x": "Ya lo habíamos visto en anuncios patrocinados y productos patrocinados, pero no estoy seguro de haber visto el resumen en la parte superior de los anuncios."
+        }
+      ]
+    },
+    "marketing/apple-patent-keyword-screenshots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/apple-patent-ai-app-screenshots-repainted-per-keyword-3-stable-diffusion-stage-maquette-backdrop-rolls.jpg",
+          "cap": "La patente pendiente de Apple conserva el titular y el teléfono, y redibuja los fondos de las capturas de la app por palabra clave"
+        },
+        {
+          "t": "p",
+          "x": "Apple tiene pendiente una solicitud de patente US, US20250265066A1, publicada el 21 de agosto de 2025, para un sistema que toma una imagen de marketing o una captura de pantalla de una app, conserva el titular y el teléfono, y regenera todo lo demás en torno a una palabra clave antes de que un modelo de puntuación filtre los resultados. Volvió a llamar la atención después de que el sitio ASO Patents publicara un análisis el 5 de noviembre de 2026."
+        },
+        {
+          "t": "p",
+          "x": "Un motor de enmascarado usa un modelo de detección CenterNet y un Segment Anything Model para recortar el primer plano. El generador de imágenes \"puede implementar tres pesos distintos del modelo stable diffusion\" (un modelo de inpainting, SDXL y un modelo ajustado) con prompts de palabra clave y prompts negativos como \"NSFW\", \"text\" y \"logo\"."
+        },
+        {
+          "t": "p",
+          "x": "Un selector de imágenes LXMERT-based puntúa cuánto se ajusta cada candidata a la palabra clave y filtra las \"alucinaciones de AI\", y la imagen elegida puede colocarse en una página de producto de la tienda, un sitio web o un anuncio. Las reivindicaciones dependientes 6 y 7 cubren imágenes y palabras clave generadas automáticamente a partir de la propia app."
+        },
+        {
+          "t": "p",
+          "x": "No se ha concedido ni lanzado nada. La solicitud no incluye datos de rendimiento y nunca menciona App Store, Apple Ads ni App Store Connect; solo habla de una \"tienda de aplicaciones de software en línea\"."
+        }
+      ]
     }
   }
 }

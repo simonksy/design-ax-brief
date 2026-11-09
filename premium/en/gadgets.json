@@ -11390,6 +11390,139 @@
           "x": "Windows users also got some love, with Screen Awareness gaining new commands to send individual elements or entire windows to AI Chat. To learn more about Raycast v2.11, follow this link."
         }
       ]
+    },
+    "gadgets/meta-muse-applewatch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg",
+          "cap": "Muse on Apple Watch"
+        },
+        {
+          "t": "p",
+          "x": "Meta today updated the Muse app for iOS to add Apple Watch support, which means Muse users can access the proactive AI agent from the watch."
+        },
+        {
+          "t": "p",
+          "x": "The app adds the Muse character to the watch with an option to text it, dictate text to it, or call it. There's also a Muse complication for quick access."
+        },
+        {
+          "t": "p",
+          "x": "Muse is Meta's personal AI agent that can complete tasks for users. It is available as a standalone app and is also built into Instagram, Facebook, and other Meta apps. The yeti-like character Meta designed to represent Muse has become popular, and it is front and center on the Apple Watch."
+        },
+        {
+          "t": "p",
+          "x": "The watch app design is similar to the Muse Charm Meta announced as a companion device in September."
+        }
+      ]
+    },
+    "gadgets/samsung-memory-screenshots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-inner-screen-scaled.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Galaxy Z Fold 8 Ultra inner screen"
+        },
+        {
+          "t": "p",
+          "x": "Samsung reportedly is developing a new Galaxy AI-powered app called Memory. \"The app is said to enable users to collect screenshots, links, text, imported content and voice notes in one place, with AI doing the work of organizing everything,\" SamMobile reports. Samsung hasn't announced anything officially, but the app will probably arrive with One UI 9.5."
+        },
+        {
+          "t": "p",
+          "x": "Users can save content by screenshot, the Share menu, pasted links or text, and voice notes, with shortcuts like a three-finger swipe down for screenshots."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/09/samsung-galaxy-z-fold-7-oneui8-4095.jpg?resize=4492%2C2695&ssl=1",
+          "cap": "Foldable lock screen in Samsung One UI 8 on Galaxy Z Fold 7."
+        },
+        {
+          "t": "p",
+          "x": "Memory uses AI to generate a title, summarize content, add relevant tags, and group related items into collections. It can even recognize screenshots of web pages and search for the original link. Google's Pixel Screenshots and Oppo's Mind Space do something similar."
+        },
+        {
+          "t": "p",
+          "x": "Samsung says saved content can be processed only on the device, although some advanced intelligence features require online processing. Memory is expected to ship with One UI 9.5 in the coming weeks, but that's an expectation, not an official promise."
+        }
+      ]
+    },
+    "gadgets/eeg-sleep-headband-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/TigcVbSwidE5JLUGgy7em-1200-80.jpg",
+          "cap": "(Image credit: Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "An investigation by Science with the Pulitzer Center's AI Accountability Network found that consumer neurotechnology companies have accumulated tens of millions of hours of EEG recordings, and several are using them to develop brain foundation models, despite initially failing to spell out that use in their privacy policies."
+        },
+        {
+          "t": "p",
+          "x": "Interaxon, maker of the Muse sleep headband, has trained an AI model on about 50,000 hours of EEG recordings. Its privacy policy did not explicitly disclose this until it was updated; \"We agree users should be explicitly informed,\" CMO Nadia Kumentas said. Emotiv is training its Large Brain model partly on customer recordings and now discloses opt-in use of de-identified data."
+        },
+        {
+          "t": "p",
+          "x": "More than two-thirds of the companies studied allowed corporate transfers of data without user consent. Piramidal trained a model on more than 4 million hours of EEG data with Cleveland Clinic; its seizure-detection system identified nine out of 10 seizures in a pilot study. Most wearables use just one to six electrodes, versus 19 to 25 in clinical systems."
+        }
+      ]
+    },
+    "gadgets/agibot-g2-convenience-store": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg",
+          "cap": "Source: X (AGIBOTofficial)"
+        },
+        {
+          "t": "video",
+          "yt": "EBSo1cuv9QY"
+        },
+        {
+          "t": "p",
+          "x": "Six humanoid robots took on a 24-hour shift at a convenience store. Chinese robotics startup AgiBot deployed six of its wheeled humanoid robots, the 'G2', at a convenience store in Shanghai from the 2nd to the 3rd for a work evaluation. The robots handled a range of tasks, including serving customers, stocking shelves, making coffee, serving food and cleaning."
+        },
+        {
+          "t": "p",
+          "x": "Over the 24 hours, they completed a total of 1,730 tasks, including 147 coffee orders, and fetched 369 products, the company said. In the final evaluation, however, only four of the six passed. The robot in charge of stocking shelves was judged to lack initiative, and the cleaning robot was eliminated after it strayed from its set route and left the store when the trash bin filled up."
+        },
+        {
+          "t": "p",
+          "x": "The challenge took place at a convenience store that was open for business, and the entire process was livestreamed online."
+        }
+      ]
+    },
+    "gadgets/alexa-tablet-12pro-android": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-hero.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Amazon retired the Fire tablet name in October and replaced the whole line with Alexa Tablets. The new tablets run Android with the full Google Play Store, and Alexa+ is built into every one of them."
+        },
+        {
+          "t": "p",
+          "x": "Alexa Tablet 12 Pro is the flagship. It starts at $499.99 with 8GB of RAM and 128GB of storage in Graphite, and the Nanomatte version runs $549.99. Its 12-inch screen runs at 280 pixels per inch with a 120Hz refresh rate and a 3:2 shape, and battery is rated at 16 hours of video playback. Pro Pen costs $89.99 and Pro Keyboard costs $149.99; together, the three pieces turn the 12 Pro into a work machine."
+        },
+        {
+          "t": "video",
+          "yt": "4aW5ARKEQOs"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-detail.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The Alexa Tablet 11 starts at $329.99 and the Alexa Tablet 8 at $229.99. The $99 Fire is gone."
+        },
+        {
+          "t": "p",
+          "x": "Alexa+ is the open question. On-Screen Intelligence, the feature that lets Alexa+ look at your display and act on it, is opt-in and off by default, with an indicator on screen while it's live. First reviews praise the hardware and the screens, and call the multitasking the weak spot."
+        }
+      ]
     }
   }
 }

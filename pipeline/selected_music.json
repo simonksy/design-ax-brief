@@ -1,96 +1,168 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "section": "music",
-  "picks": [
+  "items": [
     {
-      "url": "https://www.engadget.com/2308062/ai-music-difficult-to-detect-telltale-signs/",
-      "title": "AI music can be difficult to detect, but there are some telltale signs",
-      "source": "Engadget",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "published_iso": "2026-11-08T16:15:00+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/l-intro-1793895779.jpg",
-      "excerpt": "Engadget's guide to spotting AI-generated tracks: what to listen for in vocals, lyrics and instrumentals, plus quick ways to check whether an artist is real.",
-      "rationale": "A practical checklist listeners and curators can use right away to spot AI tracks (vocals, lyrics, instrumentals, artist footprint). Earlier cards covered detector tools, not how to listen for the signs."
+      "category": "music",
+      "title": "Apple's $50 Intelligence Usage Packs extend access to some AI features",
+      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "source": "The Verge",
+      "published_iso": "2026-11-09T19:09:58+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/logicpro.jpg?quality=90&strip=all&crop=0%2C10.742998834307%2C100%2C78.514002331385&w=1200",
+      "excerpt": "Instead of a subscription tier, Apple now sells $50 packs of extra AI usage credits for Creator Studio apps, including Logic Pro's AI assistant once the monthly limit is hit.",
+      "rationale": "New pricing release: Logic Pro's AI assistant is now metered, and $50 packs buy more use. That changes the cost of producing in Logic, and the brief assigns this story to music."
     },
     {
-      "url": "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia",
-      "title": "Weakening AI copyright law will spell 'disaster for creativity', global music body warns Albanese",
-      "source": "The Guardian",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "published_iso": "2026-11-08T14:00:43+00:00",
-      "og_image": "https://i.guim.co.uk/img/media/a9d776b6ee27daeda7be27a2ffc273f39b966850/200_0_6000_4800/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3eac07e1cf59fea917c3456a11ea9f31",
-      "excerpt": "Exclusive: IFPI's chief tells Australia's government that opening online content to AI training would be a 'huge mistake' that damages the country's reputation.",
-      "rationale": "The global recording-industry body is lobbying directly against an AI training exception in Australia. If the exception passes, it changes whether music can be used to train AI there without a licence."
+      "category": "music",
+      "title": "듀스, 31년 만의 정규 4집 21일 발매…프로듀싱 이현도·AI로 되살린 김성재 '완전체'",
+      "url": "https://www.newsis.com/view/NISX20261109_0003859608",
+      "source": "Newsis",
+      "published_iso": "2026-11-09T15:23:13+09:00",
+      "og_image": "https://img1.newsis.com/2026/11/09/NISI20261109_0002286206_web.jpg",
+      "excerpt": "1990s hip-hop duo DEUX releases its first studio album in 31 years on Nov 21, produced by Lee Hyun-do, with the late Kim Sung-jae's voice recreated using AI to reunite the full duo.",
+      "rationale": "A major K-pop release brings back a late member's voice with AI. It is a concrete, high-profile case of how the industry handles posthumous AI voices."
     },
     {
-      "url": "https://www.newsis.com/view/NISX20261107_0003858783",
-      "title": "조영수 오래된 노래, 버추얼 가수 '원'의 숨으로 피어나다 [인터뷰]",
-      "source": "뉴시스 (Newsis)",
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "published_iso": "2026-11-08T08:00:00+09:00",
-      "og_image": "https://img1.newsis.com/2026/11/07/NISI20261107_0002285593_web.jpg",
-      "excerpt": "Hitmaker composer Cho Young-soo launches his first AI virtual artist WON, debuting Nov 8 with single 'Mama Song'; he says 'if AI scores 99, the last 1% is the human's part' and targets the Billboard chart.",
-      "rationale": "A new launch: a mainstream K-pop hitmaker debuts his own AI virtual singer and explains how he splits the work between AI and human songwriters."
+      "category": "music",
+      "title": "Waves Releases ILLUGEN 2.5",
+      "url": "https://sonicstate.com/news/2026/11/09/waves-releases-illugen-25-/",
+      "source": "Sonicstate",
+      "published_iso": "2026-11-09T01:01:00Z",
+      "og_image": "https://ww2.sonicftp.com/news/images/44850_851.jpg",
+      "excerpt": "Waves' AI text-to-sample generator ILLUGEN 2.5 arrives as a plugin version with deep Cubase 16 integration, generating one-shots and loops inside the DAW.",
+      "rationale": "New tool release: an AI text-to-sample generator now works as a plugin inside the DAW, so producers can use it in their sessions right away."
     },
     {
-      "url": "https://www.bigissue.com/culture/music/ai-composers-ivors-awards/",
-      "title": "The new Ivors Composer Awards is pushing back against AI",
-      "source": "Big Issue",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "published_iso": "2026-11-08T07:00:00+00:00",
-      "og_image": "https://www.bigissue.com/wp-content/uploads/2026/10/1742-Music_Hero.jpg",
-      "excerpt": "With AI threatening composers' rights and livelihoods, the Ivors Academy's new Composer Awards aims to raise the profile of human screen and media composers.",
-      "rationale": "A concrete institutional move: the Ivors Academy has launched an awards format built to spotlight human screen and media composers as AI pressure grows. Earlier cards only had commentary on this."
+      "category": "music",
+      "title": "SPDMX: Large-Scale Open Stem Audio From Symbolic Music",
+      "url": "https://arxiv.org/abs/2611.09140",
+      "source": "arXiv",
+      "published_iso": "2026-11-06T08:14:47Z",
+      "og_image": null,
+      "excerpt": "Researchers release a large open multitrack stem-audio dataset rendered from symbolic music, sidestepping copyright limits on redistributing training audio for music AI tasks.",
+      "rationale": "A new open dataset of training audio that is cleared of copyright problems. It speaks to the training-data fight running through the lawsuits."
     },
     {
-      "url": "https://arxiv.org/abs/2611.01047",
-      "title": "How Close to the Theme? Similarity-Label Conditioning for Game Music Generation",
-      "source": "arXiv",
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "published_iso": "2026-10-31T15:40:27+00:00",
+      "category": "music",
+      "title": "TubeTube, 가사·이야기 입력하면 15분 만에 AI 영상 완성…작곡부터 편집까지 자동화",
+      "url": "https://www.startupn.kr/news/articleView.html?idxno=60609",
+      "source": "StartupN",
+      "published_iso": "2026-11-09T10:22:35+09:00",
+      "og_image": "https://cdn.startupn.kr/news/thumbnail/202611/60609_62470_228_v150.jpg",
+      "excerpt": "Korean AI video service TubeTube launches an integrated tool that turns lyrics or a story into a finished video in about 15 minutes, automating composition, vocals, storyboard, images and editing.",
+      "rationale": "New product launch: one Korean tool now goes from lyrics to a finished song and music video, composing and singing as well as editing. That lowers the cost of a release-ready track for small acts."
+    }
+  ],
+  "picks": [
+    {
+      "tool": "Music",
+      "accent": "#ff2d55",
+      "motif": "sphere",
+      "category": "music",
+      "title": "Apple's $50 Intelligence Usage Packs extend access to some AI features",
+      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "source": "The Verge",
+      "published_iso": "2026-11-09T19:09:58+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/logicpro.jpg?quality=90&strip=all&crop=0%2C10.742998834307%2C100%2C78.514002331385&w=1200",
+      "excerpt": "Instead of a subscription tier, Apple now sells $50 packs of extra AI usage credits for Creator Studio apps, including Logic Pro's AI assistant once the monthly limit is hit.",
+      "rationale": "New pricing release: Logic Pro's AI assistant is now metered, and $50 packs buy more use. That changes the cost of producing in Logic, and the brief assigns this story to music."
+    },
+    {
+      "tool": "Music",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "category": "music",
+      "title": "듀스, 31년 만의 정규 4집 21일 발매…프로듀싱 이현도·AI로 되살린 김성재 '완전체'",
+      "url": "https://www.newsis.com/view/NISX20261109_0003859608",
+      "source": "Newsis",
+      "published_iso": "2026-11-09T15:23:13+09:00",
+      "og_image": "https://img1.newsis.com/2026/11/09/NISI20261109_0002286206_web.jpg",
+      "excerpt": "1990s hip-hop duo DEUX releases its first studio album in 31 years on Nov 21, produced by Lee Hyun-do, with the late Kim Sung-jae's voice recreated using AI to reunite the full duo.",
+      "rationale": "A major K-pop release brings back a late member's voice with AI. It is a concrete, high-profile case of how the industry handles posthumous AI voices."
+    },
+    {
+      "tool": "Music",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "category": "music",
+      "title": "Waves Releases ILLUGEN 2.5",
+      "url": "https://sonicstate.com/news/2026/11/09/waves-releases-illugen-25-/",
+      "source": "Sonicstate",
+      "published_iso": "2026-11-09T01:01:00Z",
+      "og_image": "https://ww2.sonicftp.com/news/images/44850_851.jpg",
+      "excerpt": "Waves' AI text-to-sample generator ILLUGEN 2.5 arrives as a plugin version with deep Cubase 16 integration, generating one-shots and loops inside the DAW.",
+      "rationale": "New tool release: an AI text-to-sample generator now works as a plugin inside the DAW, so producers can use it in their sessions right away."
+    },
+    {
+      "tool": "Music",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "category": "music",
+      "title": "SPDMX: Large-Scale Open Stem Audio From Symbolic Music",
+      "url": "https://arxiv.org/abs/2611.09140",
+      "source": "arXiv",
+      "published_iso": "2026-11-06T08:14:47Z",
       "og_image": null,
-      "excerpt": "Fine-tunes a pretrained MIDI model on Super Mario section pairs so composers can dial how similar newly generated sections are to a theme, from near-repeat to new material.",
-      "rationale": "A controllable-generation method that lets a composer set how closely new material should follow a theme, from near-repeat to new material. That is a practical setting for game and adaptive scoring, and it differs from earlier symbolic-control papers (MuLaCover, MI-MIDI 2), which steer key or tone rather than similarity to a theme."
+      "excerpt": "Researchers release a large open multitrack stem-audio dataset rendered from symbolic music, sidestepping copyright limits on redistributing training audio for music AI tasks.",
+      "rationale": "A new open dataset of training audio that is cleared of copyright problems. It speaks to the training-data fight running through the lawsuits."
+    },
+    {
+      "tool": "Music",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "category": "music",
+      "title": "TubeTube, 가사·이야기 입력하면 15분 만에 AI 영상 완성…작곡부터 편집까지 자동화",
+      "url": "https://www.startupn.kr/news/articleView.html?idxno=60609",
+      "source": "StartupN",
+      "published_iso": "2026-11-09T10:22:35+09:00",
+      "og_image": "https://cdn.startupn.kr/news/thumbnail/202611/60609_62470_228_v150.jpg",
+      "excerpt": "Korean AI video service TubeTube launches an integrated tool that turns lyrics or a story into a finished video in about 15 minutes, automating composition, vocals, storyboard, images and editing.",
+      "rationale": "New product launch: one Korean tool now goes from lyrics to a finished song and music video, composing and singing as well as editing. That lowers the cost of a release-ready track for small acts."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.engadget.com/2308062/ai-music-difficult-to-detect-telltale-signs/": {
-        "verdict": "new",
-        "nearest": "https://www.digitalmusicnews.com/2026/11/04/ai-detector-false-positives/",
-        "new_action": ""
+      "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro": {
+        "verdict": "follow-up",
+        "nearest": "https://www.engadget.com/2298428/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/",
+        "new_action": "Apple launches $50 Intelligence Usage Packs (paid extra AI credits for Creator Studio / Logic Pro's AI assistant) and Logic Pro 13 goes to public release. The 10-28 card covered only the Creator Studio feature announcement."
       },
-      "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia": {
+      "https://www.newsis.com/view/NISX20261109_0003859608": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.newsis.com/view/NISX20261107_0003858783": {
+      "https://sonicstate.com/news/2026/11/09/waves-releases-illugen-25-/": {
         "verdict": "new",
-        "nearest": "https://www.kentertechhub.com/pozalabs-ai-producer/",
+        "nearest": "https://www.notebookcheck.net/Cubase-16-adds-six-part-stem-separation-and-AI-vocals.1442941.0.html",
         "new_action": ""
       },
-      "https://www.bigissue.com/culture/music/ai-composers-ivors-awards/": {
+      "https://arxiv.org/abs/2611.09140": {
         "verdict": "new",
-        "nearest": "https://www.hypebot.com/what-should-music-awards-recognize-in-the-age-of-ai/",
+        "nearest": "https://arxiv.org/abs/2610.36715",
         "new_action": ""
       },
-      "https://arxiv.org/abs/2611.01047": {
+      "https://www.startupn.kr/news/articleView.html?idxno=60609": {
         "verdict": "new",
-        "nearest": "https://arxiv.org/abs/2610.26684",
+        "nearest": "https://routenote.com/radar/tencent-musics-musicbuddy-combines-ai-music-creation-editing-distribution-and-promotion/",
         "new_action": ""
       }
     },
-    "note": "RE-PICK: removed arXiv 2611.07210 'Latent Terrain' because the orchestrator found it is the same tool (the Latent Terrain Max/MSP package) that music already published on 2026-06-30 (https://cdm.link/latent-terrain-max/). A paper about an already-covered tool is not a new action. Replaced it with arXiv 2611.01047, game-music similarity-label conditioning. It has no history_match, and nothing in the 30-day digest covers theme-similarity control (nearest are MuLaCover 10-25 and MI-MIDI 2 10-27, both different methods). Other remaining candidates considered: Billboard IFPI CEO Oakley (an interview, same body as the Guardian IFPI pick, no new action), MusicRadar The Edge/U2 (celebrity commentary), CrowdForge arXiv (MR audience-participation study; less directly useful to music makers). Still dropped as duplicates or running stories: Mashable 'Spotify AI remix tool backlash' (reaction to the Spotify cover/remix tool published 11-02 via DMN), Production Expert Logic Pro 13 (running story from the 10-28 Engadget Creator Studio/Logic 13 card), We Rave You '90,000 AI tracks a day' (rehash of the Deezer figure, 07-27 MBW and 10-15 cards). Orchestrator: exact-grep https://arxiv.org/abs/2611.01047 and 'Similarity-Label Conditioning' in published_urls.json across all sections before roll. Diversity: 5 distinct outlets."
+    "note": "SWAP (orchestrator cross-section check): removed Newsis 'Kiff' FIFTY FIFTY AI companion (NISX20261106_0003858524), which repeats the games-section story of 2026-11-04 (inews24 2021644, Krafton 'Kiff'). Replaced with StartupN TubeTube lyrics-to-song-and-video launch: no history_match, and no TubeTube story in the music 30-day history_digest. The nearest is a different company's product (Tencent MusicBuddy, 10-13). Also skipped in this swap: CDM Logic Pro 13 review (same story as the Verge pick), Billboard Grimes (assigned to movies), atstar1 AI MV contest (promotional contest), and Newspim K-pop AI feature (analysis). Orchestrator should exact-grep published_urls.json for the startupn idxno=60609 full URL and 'TubeTube' across sections (design/movies), since the query-string id collapses under norm_url. Original note: Dropped: CDM Logic Pro 13 review (same Apple Creator Studio/Logic AI story as the Verge pick; one per cluster). Billboard Grimes AI film (assigned to movies by the brief). DMN 'Human Enough?' AI-detector piece (analysis follow-up to DMN's 11-05 AI-detector false-positives card, no new event). BPB reader-poll results (follow-up to the 10-18 BPB poll card; results write-up, not a new release). Newspim K-pop AI-track feature (analysis overlapping the 10-18 Suno Korea hit and 11-08 K-pop AI meme cards). Deprioritized, not duplicates: Dr. Dre and The Edge quotes (commentary), DMN attribution explainer, arXiv attribution and Latent Terrain papers (one arXiv per brief), Tuned anti-AI-slop bundle (AI incidental), atstar1 AI MV contest and TubeTube (minor/promotional). Cross-section: published_urls.json could not be exact-grepped in this agent (Read-only tools). None of the picks matched anything in the music history_digest, and the brief assigns the Apple usage-packs story to music. Orchestrator should confirm no other section published these URLs."
   }
 }

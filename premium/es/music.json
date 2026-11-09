@@ -9674,6 +9674,150 @@
           "x": "Suno afirmó que no permite instrucciones con nombres y canciones de artistas concretos y que filtra el audio y las letras que se suben. Por separado, el viernes, los mismos abogados presentaron otra demanda contra Suno en nombre de Eight Mile Style, una editorial que posee gran parte del catálogo de Eminem."
         }
       ]
+    },
+    "music/deux-kimsungjae-ai-album": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img1.newsis.com/2026/11/09/NISI20261109_0002286206_web.jpg",
+          "cap": "DEUX. (Foto = cortesía de Wide Company)"
+        },
+        {
+          "t": "p",
+          "x": "DEUX, el dúo de hip hop que marcó los años 1990, lanzará su 4.º álbum de estudio el próximo día 21. Es su primer álbum de estudio en 31 años, desde el 3.º, 'Force Deux', de abril de 1995. Antes publicó como adelantos 'Rise', en noviembre del año pasado, y 'Otro día', en abril."
+        },
+        {
+          "t": "p",
+          "x": "Lee Hyun-do, como productor general, guio la dirección musical de todo el álbum, que se completó con la voz del fallecido Kim Sung-jae (1972~1995) recreada con tecnología de inteligencia artificial (AI). El día 7, DEUX celebró una 'fiesta de preescucha del 4.º álbum de estudio' en Bolero, en Itaewon, y ese mismo día adelantó el audio y el videoclip de 'The Future', uno de los dos temas principales."
+        },
+        {
+          "t": "img",
+          "src": "https://img1.newsis.com/2026/11/09/NISI20261109_0002286209_web.jpg",
+          "cap": "Portada del 4.º álbum de estudio de DEUX. (Foto = cortesía de Wide Company)"
+        },
+        {
+          "t": "p",
+          "x": "Dynamic Duo colabora en el otro tema principal, 'Te quiero'. El remix de 'Rise' a cargo de 'Braxe + Falcon', de Alan Braxe y DJ Falcon, saldrá como sencillo oficial el día 14."
+        },
+        {
+          "t": "p",
+          "x": "El proyecto se desarrolló como propuesta seleccionada en el programa '2026 de apoyo al desarrollo de contenidos musicales con nuevas tecnologías convergentes' del Ministerio de Cultura, Deporte y Turismo y la Agencia de Contenidos Creativos de Corea. Wide Company desarrolló junto con SORISORI AI, empresa especializada en AI de voz, un filtro vocal AI que aplicó a la música. La tecnología recrea con precisión el timbre y los rasgos vocales propios de Kim Sung-jae."
+        },
+        {
+          "t": "img",
+          "src": "https://img1.newsis.com/2026/11/09/NISI20261109_0002286211_web.jpg",
+          "cap": "DEUX. (Foto = cortesía de Wide Company)"
+        },
+        {
+          "t": "p",
+          "x": "Al lanzar 'Rise' en noviembre del año pasado, Lee Hyun-do anunció que reservaría para Kim Sung-jae parte de los derechos conexos que recibe como intérprete, y en diciembre de ese año la Federación de Intérpretes Musicales de Corea creó una estructura para que esos pagos lleguen oficialmente a su familia. 31 años después de la separación de 1995, las voces de los dos miembros vuelven a sonar juntas y completas en un álbum de estudio."
+        }
+      ]
+    },
+    "music/waves-illugen25-plugin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ww2.sonicftp.com/news/images/44850_851.jpg",
+          "cap": "Waves lanza ILLUGEN 2.5"
+        },
+        {
+          "t": "p",
+          "x": "Waves Audio anunció el lanzamiento de ILLUGEN 2.5, con una nueva colaboración con Steinberg que lleva la creación de muestras al entorno de producción nativo de Cubase 16. La actualización también presenta ILLUGEN como plugin para todos los DAWs."
+        },
+        {
+          "t": "p",
+          "x": "ILLUGEN es una herramienta de generación de muestras que permite a los productores musicales crear muestras originales a partir de simples prompts de texto. Ahora disponible como plugin en todos los DAWs, ILLUGEN permite generar y escuchar sonidos sincronizados con el tempo y la tonalidad del proyecto."
+        },
+        {
+          "t": "p",
+          "x": "Accesible desde el panel derecho del proyecto en Cubase 16, ILLUGEN lee el tempo de la línea de tiempo, sigue la pista de armadura del proyecto y ajusta la duración de los loops generados a las posiciones de los localizadores. Un simple doble clic crea en Cubase una nueva pista de audio con el nombre de la muestra."
+        },
+        {
+          "t": "p",
+          "x": "ILLUGEN ofrece dos motores de generación de sonido: Studio, para muestras y loops de alta fidelidad y realismo musical, y Creative, un enfoque más experimental del diseño sonoro. A diferencia de las plataformas AI pensadas para crear canciones completas de forma automática, ILLUGEN está hecho para trabajar junto al productor."
+        },
+        {
+          "t": "p",
+          "x": "ILLUGEN 2.5 ya está disponible como plugin en todos los DAWs y como aplicación de escritorio independiente. Todos los usuarios nuevos tienen una prueba gratuita de 1 mes; los usuarios de Cubase 16 reciben dos meses gratis adicionales."
+        },
+        {
+          "t": "video",
+          "yt": "JDZ9qF5xcWk"
+        }
+      ]
+    },
+    "music/spdmx-open-stem-dataset": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los grandes conjuntos de datos públicos han impulsado los avances recientes del aprendizaje automático, del texto y la visión al habla y el audio general. La música sigue siendo una excepción: el copyright impide redistribuir audio de entrenamiento, y muchas tareas actuales necesitan stems individuales en lugar de mezclas. Los recursos multipista existentes sacrifican realismo, escala o licencia, mientras que las alternativas sintéticas dependen de VSTs propietarios o de un renderizado abierto ingenuo que produce stems débiles."
+        },
+        {
+          "t": "p",
+          "x": "Presentamos SPDMX, un renderizado guiado por la escucha de partituras PDMX de dominio público que da lugar a un corpus de stems con licencia abierta, con partituras alineadas y una canalización de renderizado abierta: 253,982 canciones, 490,159 stems mono y 5,469 horas-canción a 44.1 kHz bajo CC BY 4.0, con MIDI emparejado e identificadores que enlazan con los metadatos de PDMX. 88,403 canciones (34.8%; 2,734 horas-canción) ofrecen supervisión multipista."
+        },
+        {
+          "t": "p",
+          "x": "Hasta donde sabemos, es el mayor subconjunto multipista sintético con licencia abierta en horas-canción, y permite separación de fuentes, síntesis condicionada por stems, MIDI-to-audio, transcripción y modelado conjunto simbólico-audio. Publicamos el corpus, los metadatos y la canalización abierta para reutilizarlos en otras colecciones simbólicas. Las demos y notas experimentales están en la página del proyecto."
+        }
+      ]
+    },
+    "music/tubetube-lyrics-video": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.startupn.kr/news/photo/202611/60609_62470_228.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El servicio de producción de video con AI TubeTube presentó una herramienta integrada que, a partir de la letra de una canción o de una historia, se encarga automáticamente de todo: composición, grabación de voz, storyboard, generación de imágenes, animación del video y edición final. Está diseñada para producir un video terminado a partir de texto en unos 15 minutos."
+        },
+        {
+          "t": "p",
+          "x": "Para la música utiliza Suno o ElevenLabs Music. El audio generado se transcribe palabra por palabra y, a partir de ello, se arma un storyboard escena por escena. Después, el usuario puede elegir el motor de generación de video que prefiera entre Kling, Veo 3.1, Seedance 2, Hailuo 2.3 y Gemini Omni Flash para dar movimiento a cada escena."
+        },
+        {
+          "t": "p",
+          "x": "En la fase de generación de imágenes, mantiene la coherencia de los personajes usando las imágenes de escenas anteriores y hasta 5 imágenes de referencia elegidas por el usuario. Ofrece 113 estilos en total; los videos narrados pueden doblarse a 24 idiomas, con hasta 5 idiomas a la vez. Admite formatos 16:9 y 9:16."
+        },
+        {
+          "t": "p",
+          "x": "Un video de 2 a 3 minutos requiere una mediana de 807 créditos, unos 9 dólares, y la suscripción mensual parte de 22 dólares. También ofrece una REST API pública y una herramienta de línea de comandos. Con todo, el tiempo de unos 15 minutos y los costos son cifras publicadas por el servicio y pueden variar según la duración del video, el número de escenas y el motor de generación."
+        }
+      ]
+    },
+    "music/music-engadget-ai-ear-signs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/intro-1793895779.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La música con AI es un problema real: la basura generada con Suno (Suno-generated) ha llenado las plataformas de streaming, a veces atribuida falsamente a artistas reales. Al mismo tiempo, “suena a AI” se ha convertido en un término despectivo que lleva a algunos a precipitarse. Esto es lo que de verdad apunta a la AI."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/signs-of-ai-use-in-music-1793895781.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La “música con AI” puede referirse a instrumentales, voces o letras generados con AI (AI-generated), o a los tres, o a un elemento menor como un filtro vocal. Las voces son probablemente lo más fácil de detectar: hay que prestar atención a una voz arrastrada o temblorosa que fuerza la letra para encajarla en la música, a acentos extraños, a la ausencia de imperfecciones naturales y a una entonación que apenas cambia."
+        },
+        {
+          "t": "p",
+          "x": "La estructura y los instrumentales suelen ser igual de monótonos, sin cambios dinámicos, modulaciones, puentes interesantes ni instrumentos no occidentales (non-Western); mucha música con AI recuerda a Imagine Dragons o Taylor Swift. En las letras, conviene fijarse en la falta de metáforas y símiles, las frases torpes, la ausencia de un tema general y las imágenes repetidas."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/external-signs-of-an-ai-artist-1793895783.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Después, hay que revisar el contexto. Una alerta de Artist Profile Protection de Spotify o del detector de música con AI de Deezer suele servir de confirmación, aunque Bandcamp ha marcado por error música real en alguna ocasión. Una búsqueda rápida debería mostrar actuaciones en directo, perfiles en redes sociales y entrevistas; un artista sin presencia en internet que publica un aluvión de canciones con portadas generadas con AI (AI-generated) es probablemente una granja de contenido."
+        }
+      ]
     }
   }
 }

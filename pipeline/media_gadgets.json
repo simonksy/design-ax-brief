@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "section": "gadgets",
   "media": [
     {
-      "id": "alexa-tablet-12pro-android",
+      "id": "caim1-provenance-camera",
+      "type": "image",
+      "src": "pipeline/media/caim1-provenance-camera.jpg"
+    },
+    {
+      "id": "meta-muse-applewatch",
+      "type": "image",
+      "src": "pipeline/media/meta-muse-applewatch.jpg"
+    },
+    {
+      "id": "samsung-memory-screenshots",
+      "type": "image",
+      "src": "pipeline/media/samsung-memory-screenshots.jpg"
+    },
+    {
+      "id": "eeg-sleep-headband-ai",
+      "type": "image",
+      "src": "pipeline/media/eeg-sleep-headband-ai.jpg"
+    },
+    {
+      "id": "agibot-g2-convenience-store",
       "type": "video",
-      "src": "pipeline/media/alexa-tablet-12pro-android.mp4",
-      "poster": "pipeline/media/alexa-tablet-12pro-android.jpg"
-    },
-    {
-      "id": "arm-neural-dawn-framegen",
-      "type": "image",
-      "src": "pipeline/media/arm-neural-dawn-framegen.jpg"
-    },
-    {
-      "id": "kimi-k3-optane-homelab",
-      "type": "image",
-      "src": "pipeline/media/kimi-k3-optane-homelab.jpg"
-    },
-    {
-      "id": "tomsguide-ai-earbuds-survey",
-      "type": "image",
-      "src": "pipeline/media/tomsguide-ai-earbuds-survey.jpg"
-    },
-    {
-      "id": "underdog-woof-32mb",
-      "type": "image",
-      "src": "pipeline/media/underdog-woof-32mb.jpg"
+      "src": "pipeline/media/agibot-g2-convenience-store.mp4",
+      "poster": "pipeline/media/agibot-g2-convenience-store.jpg"
     }
   ]
 }

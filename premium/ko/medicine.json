@@ -3733,6 +3733,122 @@
           "x": "연구는 City St George's, University of London과 University College London이 이끌었고, 결과는 The Lancet Digital Health에 실렸다. 저자들은 의사 감독 아래 AI로 박출률을 일차 측정하는 방식에 이번 결과가 힘을 싣는다면서도, 전향적 연구에서 검증이 더 필요하다고 밝혔다."
         }
       ]
+    },
+    "medicine/aha-echo-ai-reading-time": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://iprsoftwaremedia.com/67/files/20143/53599f8bc8046712f4065d3a_heart%20with%20artery%20view/heart%20with%20artery%20view_hero.jpg?v=01ffdf01-5bde-4cd9-b76c-748d50ca8d91",
+          "cap": "동맥이 보이는 심장"
+        },
+        {
+          "t": "p",
+          "x": "시카고에서 열린 American Heart Association의 Scientific Sessions 2026에서 발표된 예비 최신 연구에 따르면 AI-generated(AI 생성) 심초음파 해석은 초음파 검사자와 심장 전문의가 쓴 예비 해석만큼 정확했다. 심장 전문의가 스캔 하나를 해석하는 시간도 거의 절반으로 줄었다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 AI 도구로 심초음파 보고서 전체를 쓰는 방식을 무작위 시험으로 검증한 건 이번이 처음이라고 말한다. AI 도구와 초음파 검사자, 심장 전문의가 같은 심초음파 1,200건의 예비 보고서를 각각 작성했고, 심장 전문의는 누가 초안을 만들었는지 모른 채 이를 확정했다."
+        },
+        {
+          "t": "p",
+          "x": "심장 전문의가 크게 고친 비율은 AI-generated 예비 해석이 50.6%, 초음파 검사자와 심장 전문의가 작성한 해석이 49.7%로 비열등성 기준을 충족했다. 심초음파 한 건을 판독하는 데 걸린 평균 시간은 AI 초안이 있을 때 4.6분, AI 지원이 없을 때 8.5분이었다. 시간이 약 46% 줄어든 셈이다."
+        },
+        {
+          "t": "p",
+          "x": "Kaiser Permanente의 공동 선임저자 Keane K. Lee, M.D., M.S.는 “다만 AI가 인간 팀을 대체할 수는 없다”고 말했다. 연구는 Kaiser Permanente Northern California 의료센터 21곳에서 진행됐으며, 동료 심사를 거치지 않은 연구 초록이다."
+        }
+      ]
+    },
+    "medicine/previa-ptsd-llm-ed": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "많은 외상 생존자가 응급실에서 퇴원한 뒤 외상후 스트레스 장애를 겪는다. 하지만 응급 임상의는 시간이 극도로 부족해 기존 선별 도구를 현장에서 쓰기 어렵다."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig1_HTML.png",
+          "cap": "Fig. 1: PREVIA 개요도."
+        },
+        {
+          "t": "p",
+          "x": "NYU Langone Health 연구진이 임상 지식을 반영한 대규모 언어 모델 앙상블 PREVIA를 내놨다. ED에서 일상적으로 묻는 “무엇 때문에 ED에 오셨나요?”라는 질문에 환자가 답한 비정형 외상 서술에서 초기 외상후 스트레스 증상, 외상 주변기 증상, 위험 요인과 보호 요인을 뽑아 PTSD 위험을 예측한다."
+        },
+        {
+          "t": "p",
+          "x": "대상은 New York City의 두 level-1 외상센터에서 외상 후 24시간 안에 등록돼 한 달 뒤 PTSD 평가를 받은 환자 N = 145명이다. PREVIA는 이들의 PTSD를 AUROC = 78.49%, 민감도 = 95.4%로 예측했다. 무작위로 고른 환자 30명에서는 PTSD-specialist(PTSD 전문) 응급 임상의와 성능이 비슷했다(PREVIA: AUROC = 84.39%, 민감도 = 100.00%; 임상의: AUROC = 83.86%, 민감도 = 88.89%)."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig4_HTML.png",
+          "cap": "Fig. 4: 합성 ED 외상 서술에 PREVIA의 세 층 LLM 앙상블을 적용한 예: PTSD 사례."
+        },
+        {
+          "t": "p",
+          "x": "PREVIA는 임상 부담을 더하지 않으면서 해석 가능한 설명까지 내놓는다. 다만 저자들은 더 크고 독립적인 코호트에서 검증해야 한다고 밝혔다."
+        }
+      ]
+    },
+    "medicine/arpah-advocate-fda-meetings": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://endpoints.news/wp-content/uploads/2023/12/digital-health-concept-shutterstock-social.jpg"
+        },
+        {
+          "t": "p",
+          "x": "임상 AI 프로그램인 ARPA-H의 Advocate에 참여한 여러 팀이 출범 두 달도 안 돼 FDA와 첫 정보 회의를 열었다."
+        },
+        {
+          "t": "p",
+          "x": "프로그램 매니저 Haider Warraich에 따르면 팀들의 목표는 2년 안에 자율 AI 심부전 기기를 제출하는 것이다."
+        }
+      ]
+    },
+    "medicine/hospital-writeoffs-132b-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/rROIhynOGeISwdRSBvkGIZ-XipswoQZVgG4QyBmVii8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQyMjU5NzM0LmpwZw==.webp",
+          "cap": "Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "매출 사이클 분석 기업 Kodiak Solutions의 새 보고서에 따르면 병원들이 지난해 대손과 최종 청구 거부로 상각한 금액은 모두 약 1,320억 달러로 추산된다. 2024년보다 18% 가까이 늘었고, 순매출의 약 10퍼센트에 해당한다."
+        },
+        {
+          "t": "p",
+          "x": "Forrester에 따르면 매출 사이클 기술 예산은 올해 7.6% 늘어 690억 달러에 이르렀다. 사전 승인 같은 업무를 맡는 신생 에이전틱 AI를 비롯해 병원 재무 성과를 개선하겠다는 AI 도구도 늘었다. 그런데도 상각액은 오히려 증가했다."
+        },
+        {
+          "t": "p",
+          "x": "Kodiak 연구진은 의료기관들이 “매출 사이클 운영에 필요한 기술과 재무 성과 최적화에 필요한 역량을 충분히 구분하지 못하고 있을” 수 있다고 말했다. Peterson Health Technology Institute도 보고서에서 지불자와 의료기관이 AI 군비 경쟁을 벌이는 동안 사전 승인용 AI가 아직 시스템 전반의 비용을 줄이지 못했다고 분석했다."
+        }
+      ]
+    },
+    "medicine/cleerly-paramount-trial": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cleerly.com/hubfs/press-release/aha-2026_pr_paramount-aha-results.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Cleerly는 시카고에서 열린 미국심장협회(AHA) Scientific Sessions 2026에서 Late-Breaking Science 발표로 PARAMOUNT의 주요 결과를 공개했다. PARAMOUNT는 AI-QCT 기반 진료(AI-QCT-guided care)를 표준 진료와 비교한 첫 무작위 시험이다. 부하 검사 중심의 표준 진료보다 AI 기반 정량적 관상동맥 CT 분석(AI-based quantitative coronary CT analysis, AI-QCT)에 따른 진료에서 진단 확신도가 높았고 지질 강하 치료를 받는 환자도 많았다."
+        },
+        {
+          "t": "p",
+          "x": "2025년 1월부터 2026년 2월까지 21개 기관에서 관상동맥질환이 의심되고 LDL-C가 높은(≥100 mg/dL) 참가자 530명을 무작위 배정했다. 예비 결과는 523명 기준이고 참가자의 57%가 여성이었다."
+        },
+        {
+          "t": "p",
+          "x": "“PARAMOUNT는 플라크를 직접 측정해 진료 방향을 정하면 의사는 더 명확한 답을 얻고, 환자는 예방 치료를 시작할 가능성이 훨씬 커진다는 점을 보여준다”고 공동 책임연구자 Todd C. Villines, MD는 말했다. 플라크 기반 진료에서는 심도자실로 의뢰된 환자 가운데 폐쇄성 CAD가 없는 환자가 유의하게 적었고, 전체 심도자술이나 혈관재개통술 비율도 늘지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "아직 동료 심사를 거치지 않은 예비 결과다. 전체 결과는 2027년 초 발표된다."
+        }
+      ]
     }
   }
 }

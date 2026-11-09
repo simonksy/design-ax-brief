@@ -3733,6 +3733,122 @@
           "x": "The research was led by City St George's, University of London and University College London, and published in The Lancet Digital Health. The authors say the findings support AI for first-line ejection-fraction measurement with clinician oversight, to be tested in prospective studies."
         }
       ]
+    },
+    "medicine/aha-echo-ai-reading-time": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://iprsoftwaremedia.com/67/files/20143/53599f8bc8046712f4065d3a_heart%20with%20artery%20view/heart%20with%20artery%20view_hero.jpg?v=01ffdf01-5bde-4cd9-b76c-748d50ca8d91",
+          "cap": "Heart with artery view"
+        },
+        {
+          "t": "p",
+          "x": "AI-generated interpretations of echocardiograms were comparable in accuracy to preliminary interpretations prepared by sonographers and cardiologists, and reduced the time cardiologists spent interpreting each scan almost by half, according to preliminary late-breaking science presented at the American Heart Association’s Scientific Sessions 2026 in Chicago."
+        },
+        {
+          "t": "p",
+          "x": "Researchers say this is the first randomized trial testing an AI tool to craft a full echocardiogram report. An AI tool, a sonographer and a cardiologist each prepared preliminary reports for the same 1,200 echocardiograms; cardiologists then finalized them without knowing who made the first draft."
+        },
+        {
+          "t": "p",
+          "x": "Cardiologists made substantial changes to 50.6% of the AI-generated preliminary interpretations, compared with 49.7% of those prepared by sonographers and cardiologists — meeting the criteria for non-inferiority. They spent an average of 4.6 minutes per echocardiogram on AI drafts versus 8.5 minutes without AI assistance, a time savings of about 46%."
+        },
+        {
+          "t": "p",
+          "x": "“AI cannot, however, replace the human team,” said co-senior author Keane K. Lee, M.D., M.S., of Kaiser Permanente. The study, across 21 Kaiser Permanente Northern California medical centers, is a research abstract that is not peer-reviewed."
+        }
+      ]
+    },
+    "medicine/previa-ptsd-llm-ed": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Post-traumatic stress disorder affects numerous trauma survivors after emergency department discharge, yet emergency clinicians face severe time constraints that make existing screening tools impractical."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig1_HTML.png",
+          "cap": "Fig. 1: Schematic overview of PREVIA."
+        },
+        {
+          "t": "p",
+          "x": "Researchers from NYU Langone Health introduce PREVIA, a clinically-informed large language model ensemble that predicts PTSD risk from unstructured patient trauma narratives given in response to a routine-care question in the ED — “What brought you to the ED?” — by extracting early post-traumatic stress symptoms, peri-traumatic symptoms, risk and protective factors."
+        },
+        {
+          "t": "p",
+          "x": "Among N = 145 patients at two New York City level-1 trauma centers, enrolled within 24 hours of trauma and assessed for PTSD one month later, PREVIA forecast PTSD with AUROC = 78.49% and sensitivity = 95.4%. On 30 randomly selected patients it performed comparably to an emergency clinician specialized in PTSD (PREVIA: AUROC = 84.39%, sensitivity = 100.00%; clinician: AUROC = 83.86%, sensitivity = 88.89%)."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig4_HTML.png",
+          "cap": "Fig. 4: Example application of PREVIA’s three-layer LLM ensemble to a synthetic ED trauma narrative: PTSD case."
+        },
+        {
+          "t": "p",
+          "x": "PREVIA also generates interpretable explanations without additional clinical burden; the authors say the findings warrant validation in larger, independent cohorts."
+        }
+      ]
+    },
+    "medicine/arpah-advocate-fda-meetings": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://endpoints.news/wp-content/uploads/2023/12/digital-health-concept-shutterstock-social.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Multiple teams participating in ARPA-H’s Advocate program have already had an initial informational meeting with the FDA, less than two months after the clinical AI program launched."
+        },
+        {
+          "t": "p",
+          "x": "The teams aim to submit autonomous AI heart failure devices within two years, program manager Haider Warraich said."
+        }
+      ]
+    },
+    "medicine/hospital-writeoffs-132b-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/rROIhynOGeISwdRSBvkGIZ-XipswoQZVgG4QyBmVii8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQyMjU5NzM0LmpwZw==.webp",
+          "cap": "Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Hospitals collectively lost an estimated $132 billion last year to write-offs for bad debt and final claim denials, according to a new report from revenue cycle analytics company Kodiak Solutions — up nearly 18% from 2024, with write-offs taking about 10 percent of net revenue."
+        },
+        {
+          "t": "p",
+          "x": "The increase comes despite rising revenue cycle technology budgets, which grew 7.6% to $69 billion this year per Forrester, with more AI tools — including emerging agentic AI for tasks such as prior authorizations — promising to improve hospitals’ financial performance."
+        },
+        {
+          "t": "p",
+          "x": "Kodiak researchers said providers may not be “adequately distinguishing between technology needed to operate the revenue cycle and the capabilities needed to optimize their financial performance.” A Peterson Health Technology Institute report found AI for prior authorization has yet to reduce costs systemwide, as payers and providers wage an AI arms race."
+        }
+      ]
+    },
+    "medicine/cleerly-paramount-trial": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cleerly.com/hubfs/press-release/aha-2026_pr_paramount-aha-results.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Cleerly presented primary results from PARAMOUNT, the first randomized trial of AI-QCT-guided care against usual care, as Late-Breaking Science at the American Heart Association (AHA) Scientific Sessions 2026 in Chicago. Compared with usual care based on stress testing, care guided by AI-based quantitative coronary CT analysis (AI-QCT) improved diagnostic certainty and led to more patients receiving lipid-lowering therapy."
+        },
+        {
+          "t": "p",
+          "x": "Between January 2025 and February 2026, 530 participants at 21 sites with suspected coronary artery disease and elevated LDL-C (≥100 mg/dL) were randomized. Preliminary results are based on 523 participants; women made up 57% of participants."
+        },
+        {
+          "t": "p",
+          "x": "“PARAMOUNT shows that when we measure plaque directly and use it to guide care, physicians gain clearer answers and patients are far more likely to start preventive therapy,” said co-principal investigator Todd C. Villines, MD. Plaque-based care resulted in significantly fewer patients without obstructive CAD among those referred to the cath lab and did not increase overall rates of catheterizations or revascularizations."
+        },
+        {
+          "t": "p",
+          "x": "The results have not yet been peer reviewed and should be considered preliminary; full results are expected to be published in early 2027."
+        }
+      ]
     }
   }
 }

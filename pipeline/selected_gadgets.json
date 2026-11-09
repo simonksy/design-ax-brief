@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "section": "gadgets",
   "items": [
     {
+      "title": "This prototype camera is fighting the good fight against AI photography",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "title": "Amazon’s Alexa Tablet 12 Pro ditches Fire OS for real Android",
-      "url": "https://the-gadgeteer.com/2026/11/08/amazons-alexa-tablet-12-pro-ditches-fire-os-for-real-android-at-499-99/",
-      "source": "The Gadgeteer",
-      "published_iso": "2026-11-08T09:00:00-06:00",
-      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-hero.jpg",
-      "excerpt": "Amazon killed the Fire tablet name and rebuilt the line as Alexa Tablets with real Android, the full Google Play Store, and Alexa+ built in. The 12 Pro starts at $499.99 with a 120Hz screen, plus a pen and a keyboard case that turn it into a work machine.",
-      "rationale": "A new hardware line: Amazon has replaced Fire tablets with Android-based Alexa Tablets that have Alexa+ built in, priced from $499.99. The 10-10 card was a one-year Alexa+ review, which is a different event."
+      "url": "https://www.engadget.com/2307723/caim-1-camera-fighting-against-ai-photography/",
+      "source": "Engadget",
+      "published_iso": "2026-11-09T14:45:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/l-intro-1793382637.jpg",
+      "excerpt": "The CAIM-1 prototype camera embeds cryptographic proof of origin into every photo at the sensor level, a hardware answer to AI-generated fakes.",
+      "rationale": "Sensor-level provenance hardware: a concrete new device answering AI-fake imagery, directly relevant to anyone who makes or verifies images."
     },
     {
+      "title": "Meta's Muse AI Agent Comes to Apple Watch",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "title": "I played Android's first AI frame-gen game: Mobile just had its DLSS moment",
-      "url": "https://www.androidauthority.com/arm-neural-dawn-hands-on-3731282/",
-      "source": "Android Authority",
-      "published_iso": "2026-11-08T11:30:32+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-game-main-menu-scaled.jpg",
-      "excerpt": "Arm and Sumo Digital's Neural Dawn uses Arm's Neural Super Sampling and Denoising plus Neural Frame Rate Upscaling, AI networks running on the Mali G2 Ultra GPU, to bring ray-traced MegaLights to a phone; it currently runs only on MediaTek Dimensity 9600 Pro devices.",
-      "rationale": "The first playable phone game that uses on-GPU AI upscaling and frame generation, with named hardware support (Dimensity 9600 Pro). Games ran Arm's tech explainer on 09-09; this hands-on is a new release."
+      "url": "https://www.macrumors.com/2026/11/09/meta-muse-apple-watch/",
+      "source": "MacRumors",
+      "published_iso": "2026-11-09T21:55:21+00:00",
+      "og_image": "https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg",
+      "excerpt": "Meta updated the Muse iOS app with Apple Watch support, so users can text, dictate to or call the proactive Muse AI agent from the wrist, with a watch-face complication for quick access.",
+      "rationale": "Shipped release: a rival AI agent lands on the Apple Watch wrist with a complication, a new wearable surface for assistants."
     },
     {
+      "title": "Samsung is working on a new Galaxy AI app to clean up the screenshot mess you've been pretending doesn't exist",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "title": "Homelabber uses second-gen Optane memory sticks to run a 2.8-trillion-parameter AI model on CPU alone",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabber-uses-second-gen-optane-memory-sticks-to-run-a-2-8-trillion-parameter-ai-model-on-cpu-alone-warns-that-optanes-extreme-heat-can-burn-out-nearby-memory-dram-used-blower-fans-to-prevent-melting-ram",
-      "source": "Tom's Hardware",
-      "published_iso": "2026-11-08T12:20:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Wpdi2avEo8ZBZMremLVgaU-2496-80.jpg",
-      "excerpt": "A Reddit homelab user ran Moonshot AI’s 2.8-trillion-parameter Kimi K3 CPU-only on Optane PMem 200 at 0.85 tokens/s with a 1-bit quant.",
-      "rationale": "A new local-AI hardware hack: a frontier-size model running on CPU alone with Optane PMem, with a measured speed and a heat warning. The nearest card is the jailbroken-PS5 local-AI hack (10-18), which used different hardware."
+      "url": "https://www.digitaltrends.com/phones/samsung-is-working-on-a-new-galaxy-ai-app-to-clean-up-the-screenshot-mess-youve-been-pretending-doesnt-exist/",
+      "source": "Digital Trends",
+      "published_iso": "2026-11-09T09:53:15-08:00",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-inner-screen-scaled.jpg?resize=1200%2C630&ssl=1",
+      "excerpt": "Samsung is developing Memory, a Galaxy AI app that saves screenshots, links, text and voice notes and automatically organizes them into searchable collections, similar to Pixel Screenshots.",
+      "rationale": "New Galaxy AI app (Memory) that auto-organizes screenshots and notes, a practical capture-and-recall tool for visual workers."
     },
     {
+      "title": "Wearable sleep trackers are using your brainwaves to train AI models without explicit user consent",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "title": "Just 2% of Tom's Guide readers want AI in earbuds & headphones — so why do audio brands keep pushing it on us?",
-      "url": "https://www.tomsguide.com/audio/just-2-percent-of-toms-guide-readers-want-ai-in-earbuds-and-headphones-so-why-do-audio-brands-like-apple-samsung-and-soundcore-keep-pushing-it-on-us",
-      "source": "Tom's Guide",
-      "published_iso": "2026-11-08T09:15:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/dzhSAejg9r2CVeUepQmEaW-2000-80.jpg",
-      "excerpt": "Results are in: just 2% of Tom's Guide readers buy earbuds and headphones because of AI features. So why do audio brands think we want them?",
-      "rationale": "New reader-survey data (2%) on whether people want AI in audio gear, set against recent AI-earbud launches. It adds a demand-side angle to the section's hardware coverage."
+      "url": "https://www.tomshardware.com/peripherals/wearable-tech/wearable-sleep-trackers-are-using-your-brainwaves-to-train-ai-models-without-explicit-user-consent-tens-of-millions-of-hours-of-eeg-data-harvested",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-11-09T12:00:00+00:00",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/TigcVbSwidE5JLUGgy7em-2048-80.jpg",
+      "excerpt": "Wearable neurotech companies have collected tens of millions of hours of EEG recordings from sleep headbands to train AI models, raising questions about consent and who controls neural data.",
+      "rationale": "New reporting on EEG headbands feeding AI training data without explicit consent, a fresh privacy issue for wearable owners."
     },
     {
+      "title": "편의점 직원 된 휴머노이드 로봇…24시간 근무 도전",
       "tool": "Gadgets",
-      "accent": "#f5a623",
+      "accent": "#eb367f",
       "motif": "headset",
-      "title": "Underdog shows off a 32MB speech model in new demo",
-      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-      "source": "TechCrunch",
-      "published_iso": "2026-11-06T13:02:16+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.02.34-PM.jpg?resize=1200,542",
-      "excerpt": "Underdog released Woof, a 31M-parameter (32MB) open speech-and-music generation model that runs offline on most devices, demoed in a browser game; it follows the 167MB on-device Bark speech-to-text model and a 27B laptop-class model aimed at private, local AI.",
-      "rationale": "A new model release: Woof, an open 32MB speech-and-music generator that runs offline on ordinary devices. It goes beyond Underdog's 10-06 launch and is a different product from Ollama's Mac TTS (10-28)."
+      "url": "https://www.etnews.com/20261109000425",
+      "source": "전자신문",
+      "published_iso": "2026-11-10T06:00:00+09:00",
+      "og_image": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg",
+      "excerpt": "중국 애지봇이 상하이 편의점에 바퀴형 휴머노이드 'G2' 6대를 투입해 24시간 근무를 시험했다. 로봇들은 손님 응대·진열·커피 제조·청소 등 1730건의 작업을 처리했다.",
+      "rationale": "Concrete field deployment: six Agibot G2 humanoids ran a Shanghai convenience store around the clock and handled 1,730 tasks."
     }
   ],
   "dedup": {
     "checks": {
-      "https://the-gadgeteer.com/2026/11/08/amazons-alexa-tablet-12-pro-ditches-fire-os-for-real-android-at-499-99/": {
+      "https://www.engadget.com/2307723/caim-1-camera-fighting-against-ai-photography/": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max",
+        "nearest": "https://www.notebookcheck.net/iOS-27-2-Apple-s-AI-images-now-carry-Google-s-SynthID-watermark.1435023.0.html",
         "new_action": ""
       },
-      "https://www.androidauthority.com/arm-neural-dawn-hands-on-3731282/": {
+      "https://www.macrumors.com/2026/11/09/meta-muse-apple-watch/": {
         "verdict": "new",
-        "nearest": "https://www.gamesindustry.biz/arm-explains-its-mobile-first-ai-reconstruction-technology-which-takes-a-different-tack-from-the-black-box-approach-of-dlss-5",
+        "nearest": "https://www.macrumors.com/2026/10/15/meta-muse-spark-open-mac-studio/",
         "new_action": ""
       },
-      "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabber-uses-second-gen-optane-memory-sticks-to-run-a-2-8-trillion-parameter-ai-model-on-cpu-alone-warns-that-optanes-extreme-heat-can-burn-out-nearby-memory-dram-used-blower-fans-to-prevent-melting-ram": {
+      "https://www.digitaltrends.com/phones/samsung-is-working-on-a-new-galaxy-ai-app-to-clean-up-the-screenshot-mess-youve-been-pretending-doesnt-exist/": {
         "verdict": "new",
-        "nearest": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram",
+        "nearest": "https://news.samsung.com/global/samsung-expands-language-support-across-ai-experiences-on-galaxy",
         "new_action": ""
       },
-      "https://www.tomsguide.com/audio/just-2-percent-of-toms-guide-readers-want-ai-in-earbuds-and-headphones-so-why-do-audio-brands-like-apple-samsung-and-soundcore-keep-pushing-it-on-us": {
+      "https://www.tomshardware.com/peripherals/wearable-tech/wearable-sleep-trackers-are-using-your-brainwaves-to-train-ai-models-without-explicit-user-consent-tens-of-millions-of-hours-of-eeg-data-harvested": {
         "verdict": "new",
-        "nearest": "https://www.digitaltrends.com/home-theater/motorolas-new-earbuds-are-gunning-for-airpods-with-bose-sound-and-some-handy-ai-features/",
+        "nearest": "https://www.notebookcheck.net/Ray-Ban-Meta-How-to-stop-your-glasses-from-training-AI.1430044.0.html",
         "new_action": ""
       },
-      "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/": {
-        "verdict": "follow-up",
-        "nearest": "https://www.digitaltrends.com/computing/ollama-brings-free-local-text-to-speech-to-your-mac-with-natural-sounding-ai-voices/",
-        "new_action": "Underdog released a new model, Woof: a 31M-parameter (32MB) open speech-and-music generation model that runs offline, shown in a new browser-game demo. The 10-06 card covered the company launch, not this release."
+      "https://www.etnews.com/20261109000425": {
+        "verdict": "new",
+        "nearest": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+        "new_action": ""
       }
     },
-    "note": "2026-11-09 gadgets: 5 picks (4 original + 1 recovery fill). RECOVERY FILL: added TechCrunch's Underdog Woof card as a follow-up to the 10-06 Underdog launch, which is outside the 30-day digest, so nearest names the history_match (Ollama local TTS, 10-28). The new action is the Woof model release. Recovery drops: The Verge 'How Akai and Moog are embracing vibe-coded mods' (cross-section duplicate of music's 10-29 Verge card 'Akai is embracing vibe-coded mods with an open-source MPC'); ZDNET HomeView Ultra (an Apple rumour that repeats the 10-20 9to5mac robotic-arm report); etnews 캠시스 (a parts-supplier business story with AI only incidental); Tom's Guide HUUCH Motion Bundle (a kids' console review where AI is incidental). ORIGINAL NOTE: The fresh pool had no fifth item worth running, so none was padded in. Dropped as duplicates or running stories: The Verge 'Apple is racing to make Siri more agentic' (same Siri third-party-app story as The Verge 11-04 and ZDNET 11-08, no new release); CNET 'Text Alexa to shop' (cross-section duplicate of marketing's Digiday Alexa for Shopping, 11-03; already swapped out on 11-07/11-08); TechRadar AI teddy bear (politics owns it, per the 11-08 note); 9to5Google Ray-Ban Meta Audio review (the launch ran 10-05; rejected 11-08); Engadget Google Health AI Coach how-to (rejected 11-08 as a how-to); Tom's Guide RTX Spark Linux slowdown, Notebookcheck ProArt P14 32GB and etnews RTX Spark Seoul briefing (running RTX Spark story, launched 10-10, reviewed 10-18; no new release); TechRadar Garmin COO interview (commentary, rejected 11-08). Rejected on quality: Engadget 'biggest disadvantages of AI glasses' (evergreen explainer); The Gadgeteer MSI Venture 15 AI+ (AI only incidental, NPU branding). Cross-section check: published_urls.json is too large to grep with Read alone. I spot-checked the games block for Arm/Neural Dawn and the music history for Underdog/Woof (no match). Outlets: The Gadgeteer, Android Authority, Tom's Hardware, Tom's Guide, TechCrunch (1 each). Orchestrator: before roll, exact-grep published_urls.json for the TechCrunch Underdog URL and 'Woof'."
+    "note": "Dropped: Google Gemini x AT&T Connected Life (Digital Trends) = likely-repeat of 2026-11-05 Verge card (same story, different outlet). Apple $50 Intelligence Usage Packs (Verge) = assigned to music only per orchestrator. AI-glasses exam cheating (etnews 20261109000269) = assigned to politics only. Passed over on scoring/diversity (not duplicates): Siri memory graph (2nd MacRumors, Siri running theme), Galaxy AI Premium plan (pricing/business, off-whitelist SamMobile), One UI 9.5 Bixby agent and Digital Wellbeing Gemini (speculative teardowns), Honor Robot Phone 2 leak, Jesus Dash phone, Google Health Coach how-to, AI teddy bears, Windows 11 Copilot search, HDMI emanation AI (security research; possible science overlap), Alexa for Shopping texting (commerce; marketing overlap). Cross-section exact-grep of published_urls.json not executed (no shell in this agent); orchestrator should confirm the EEG sleep-tracker and Agibot URLs are not in science/medicine today."
   }
 }

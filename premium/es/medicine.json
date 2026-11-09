@@ -3733,6 +3733,122 @@
           "x": "La investigación fue dirigida por City St George's, University of London y University College London, y se publicó en The Lancet Digital Health. Los autores afirman que los resultados respaldan el uso de la AI como primera línea para medir la fracción de eyección, con supervisión clínica, algo que deberá probarse en estudios prospectivos."
         }
       ]
+    },
+    "medicine/aha-echo-ai-reading-time": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://iprsoftwaremedia.com/67/files/20143/53599f8bc8046712f4065d3a_heart%20with%20artery%20view/heart%20with%20artery%20view_hero.jpg?v=01ffdf01-5bde-4cd9-b76c-748d50ca8d91",
+          "cap": "Corazón con vista de las arterias"
+        },
+        {
+          "t": "p",
+          "x": "Las interpretaciones de ecocardiogramas AI-generated (generadas por IA) tuvieron una precisión comparable a la de las interpretaciones preliminares preparadas por ecografistas y cardiólogos, y redujeron casi a la mitad el tiempo que los cardiólogos dedicaban a interpretar cada estudio, según investigación preliminar de última hora presentada en las Scientific Sessions 2026 de la American Heart Association en Chicago."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores afirman que este es el primer ensayo aleatorizado que prueba una herramienta de IA para redactar un informe completo de ecocardiograma. Una herramienta de IA, un ecografista y un cardiólogo prepararon cada uno informes preliminares de los mismos 1.200 ecocardiogramas; después, los cardiólogos los finalizaron sin saber quién había hecho el primer borrador."
+        },
+        {
+          "t": "p",
+          "x": "Los cardiólogos hicieron cambios sustanciales en el 50,6% de las interpretaciones preliminares AI-generated, frente al 49,7% de las preparadas por ecografistas y cardiólogos, con lo que se cumplieron los criterios de no inferioridad. Dedicaron un promedio de 4,6 minutos por ecocardiograma a los borradores de IA, frente a 8,5 minutos sin ayuda de IA, un ahorro de tiempo de alrededor del 46%."
+        },
+        {
+          "t": "p",
+          "x": "“Sin embargo, la IA no puede reemplazar al equipo humano”, dijo el coautor sénior Keane K. Lee, M.D., M.S., de Kaiser Permanente. El estudio, realizado en 21 centros médicos de Kaiser Permanente Northern California, es un resumen de investigación sin revisión por pares."
+        }
+      ]
+    },
+    "medicine/previa-ptsd-llm-ed": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El trastorno de estrés postraumático afecta a numerosos supervivientes de traumas tras el alta del servicio de urgencias, pero los clínicos de urgencias trabajan con fuertes limitaciones de tiempo que hacen poco prácticas las herramientas de cribado existentes."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig1_HTML.png",
+          "cap": "Fig. 1: Esquema general de PREVIA."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de NYU Langone Health presentan PREVIA, un ensamble de modelos de lenguaje de gran tamaño con base clínica que predice el riesgo de PTSD a partir de los relatos no estructurados de trauma que dan los pacientes ante una pregunta de atención rutinaria en el ED —“¿Qué le trajo al ED?”—, extrayendo síntomas tempranos de estrés postraumático, síntomas peritraumáticos y factores de riesgo y de protección."
+        },
+        {
+          "t": "p",
+          "x": "Entre N = 145 pacientes de dos centros de trauma level-1 de New York City, inscritos en las 24 horas siguientes al trauma y evaluados para PTSD un mes después, PREVIA pronosticó el PTSD con AUROC = 78.49% y sensibilidad = 95.4%. En 30 pacientes seleccionados al azar tuvo un rendimiento comparable al de un clínico de urgencias PTSD-specialist, especializado en PTSD (PREVIA: AUROC = 84.39%, sensibilidad = 100.00%; clínico: AUROC = 83.86%, sensibilidad = 88.89%)."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig4_HTML.png",
+          "cap": "Fig. 4: Ejemplo de aplicación del ensamble LLM de tres capas de PREVIA a un relato sintético de trauma en el ED: caso de PTSD."
+        },
+        {
+          "t": "p",
+          "x": "PREVIA también genera explicaciones interpretables sin carga clínica adicional; los autores señalan que los hallazgos deben validarse en cohortes más grandes e independientes."
+        }
+      ]
+    },
+    "medicine/arpah-advocate-fda-meetings": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://endpoints.news/wp-content/uploads/2023/12/digital-health-concept-shutterstock-social.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Varios equipos que participan en el programa Advocate de ARPA-H ya han tenido una primera reunión informativa con la FDA, menos de dos meses después del lanzamiento de este programa de IA clínica."
+        },
+        {
+          "t": "p",
+          "x": "Los equipos aspiran a presentar dispositivos autónomos de IA para la insuficiencia cardíaca en un plazo de dos años, según el director del programa, Haider Warraich."
+        }
+      ]
+    },
+    "medicine/hospital-writeoffs-132b-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/rROIhynOGeISwdRSBvkGIZ-XipswoQZVgG4QyBmVii8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQyMjU5NzM0LmpwZw==.webp",
+          "cap": "Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Los hospitales perdieron en conjunto unos 132.000 millones de dólares el año pasado por cancelaciones de deudas incobrables y denegaciones definitivas de reclamaciones, según un nuevo informe de Kodiak Solutions, empresa de analítica del ciclo de ingresos; la cifra supone un aumento de casi el 18% respecto a 2024, y las cancelaciones absorbieron alrededor del 10 por ciento de los ingresos netos."
+        },
+        {
+          "t": "p",
+          "x": "El aumento se produce pese al crecimiento de los presupuestos de tecnología del ciclo de ingresos, que subieron un 7,6%, hasta 69.000 millones de dólares este año según Forrester, y a que cada vez más herramientas de IA —incluida la incipiente IA agéntica para tareas como las autorizaciones previas— prometen mejorar el desempeño financiero de los hospitales."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores de Kodiak señalaron que los proveedores quizá no estén “distinguiendo adecuadamente entre la tecnología necesaria para operar el ciclo de ingresos y las capacidades necesarias para optimizar su desempeño financiero”. Un informe del Peterson Health Technology Institute concluyó que la IA para autorizaciones previas aún no ha reducido los costes en el conjunto del sistema, mientras pagadores y proveedores libran una carrera armamentística de IA."
+        }
+      ]
+    },
+    "medicine/cleerly-paramount-trial": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cleerly.com/hubfs/press-release/aha-2026_pr_paramount-aha-results.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Cleerly presentó los resultados principales de PARAMOUNT, el primer ensayo aleatorizado de atención guiada por AI-QCT (AI-QCT-guided) frente a la atención habitual, como Late-Breaking Science en las Scientific Sessions 2026 de la American Heart Association (AHA) en Chicago. Frente a la atención habitual basada en pruebas de esfuerzo, la atención guiada por el análisis cuantitativo de TC coronaria basado en IA (AI-based quantitative coronary CT analysis, AI-QCT) mejoró la certeza diagnóstica e hizo que más pacientes recibieran terapia hipolipemiante."
+        },
+        {
+          "t": "p",
+          "x": "Entre enero de 2025 y febrero de 2026 se aleatorizó a 530 participantes de 21 centros con sospecha de enfermedad coronaria y LDL-C elevado (≥100 mg/dL). Los resultados preliminares se basan en 523 participantes; las mujeres representaron el 57% del total."
+        },
+        {
+          "t": "p",
+          "x": "“PARAMOUNT demuestra que, cuando medimos la placa directamente y la usamos para guiar la atención, los médicos obtienen respuestas más claras y los pacientes tienen muchas más probabilidades de iniciar una terapia preventiva”, dijo el coinvestigador principal Todd C. Villines, MD. La atención basada en la placa redujo de forma significativa los pacientes sin CAD obstructiva entre los derivados al laboratorio de cateterismo y no aumentó las tasas globales de cateterismos ni de revascularizaciones."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados aún no han sido revisados por pares y deben considerarse preliminares; se espera que los resultados completos se publiquen a principios de 2027."
+        }
+      ]
     }
   }
 }

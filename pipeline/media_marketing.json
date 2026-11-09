@@ -1,31 +1,29 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "section": "marketing",
   "media": [
     {
-      "id": "apple-patent-keyword-screenshots",
+      "id": "ogilvy-caa-echo-doubles",
       "type": "image",
-      "src": "pipeline/media/apple-patent-keyword-screenshots.jpg"
+      "src": "pipeline/media/ogilvy-caa-echo-doubles.jpg"
     },
     {
-      "id": "lebron-bron-ai-likeness-ad",
+      "id": "google-ads-mcp-write-tools",
       "type": "image",
-      "src": "pipeline/media/lebron-bron-ai-likeness-ad.jpg"
+      "src": "pipeline/media/google-ads-mcp-write-tools.jpg"
     },
     {
-      "id": "pizzala-tiktok-ai-drstone-ad",
-      "type": "image",
-      "src": "pipeline/media/pizzala-tiktok-ai-drstone-ad.jpg"
+      "id": "meta-ai-ads-unapproved-discounts",
+      "type": "svg"
     },
     {
-      "id": "naver-powerlink-ai-copy-pilot",
+      "id": "kbeauty-ai-fake-doctor-ban",
       "type": "image",
-      "src": "pipeline/media/naver-powerlink-ai-copy-pilot.jpg"
+      "src": "pipeline/media/kbeauty-ai-fake-doctor-ban.jpg"
     },
     {
-      "id": "moloco-cara-molocon26-ctv",
-      "type": "image",
-      "src": "pipeline/media/moloco-cara-molocon26-ctv.jpg"
+      "id": "google-ads-ai-summaries-test",
+      "type": "svg"
     }
   ]
 }

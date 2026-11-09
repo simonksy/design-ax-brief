@@ -16655,6 +16655,139 @@
           "x": "Windows 사용자에게도 소식이 있다. Screen Awareness에 개별 요소나 창 전체를 AI Chat으로 보내는 새 명령이 생겼다. Raycast v2.11의 자세한 내용은 이 링크에서 볼 수 있다."
         }
       ]
+    },
+    "gadgets/meta-muse-applewatch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg",
+          "cap": "Apple Watch의 Muse"
+        },
+        {
+          "t": "p",
+          "x": "Meta가 오늘 iOS용 Muse 앱을 업데이트해 Apple Watch 지원을 추가했다. Muse 사용자는 이제 워치에서도 능동형 AI 에이전트를 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "워치 앱에는 Muse 캐릭터가 뜨고, 문자를 보내거나 음성으로 받아쓰거나 전화를 걸 수 있다. 바로 불러낼 수 있는 Muse 컴플리케이션도 있다."
+        },
+        {
+          "t": "p",
+          "x": "Muse는 사용자 대신 일을 처리하는 Meta의 개인 AI 에이전트다. 독립 앱으로 나와 있고 Instagram, Facebook 등 다른 Meta 앱에도 들어가 있다. Meta가 Muse의 상징으로 디자인한 예티 닮은 캐릭터는 인기를 끌었는데, Apple Watch에서도 화면 한가운데를 차지한다."
+        },
+        {
+          "t": "p",
+          "x": "워치 앱 디자인은 Meta가 9월 보조 기기로 발표한 Muse Charm과 닮았다."
+        }
+      ]
+    },
+    "gadgets/samsung-memory-screenshots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-inner-screen-scaled.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Galaxy Z Fold 8 Ultra 내부 화면"
+        },
+        {
+          "t": "p",
+          "x": "삼성(Samsung)이 Galaxy AI 기반(AI-powered) 새 앱 Memory를 개발 중이라는 소식이다. SamMobile은 \"이 앱은 사용자가 스크린샷, 링크, 텍스트, 가져온 콘텐츠, 음성 메모를 한곳에 모으고 AI가 이를 모두 정리해 주는 기능을 제공하는 것으로 전해졌다\"고 보도했다. 삼성은 아직 공식 발표를 하지 않았지만, 앱은 One UI 9.5와 함께 나올 가능성이 크다."
+        },
+        {
+          "t": "p",
+          "x": "콘텐츠는 스크린샷, 공유(Share) 메뉴, 링크·텍스트 붙여넣기, 음성 메모로 저장하며, 세 손가락으로 아래로 쓸어내려 스크린샷을 찍는 단축 동작 등도 지원한다."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/09/samsung-galaxy-z-fold-7-oneui8-4095.jpg?resize=4492%2C2695&ssl=1",
+          "cap": "Galaxy Z Fold 7의 Samsung One UI 8 폴더블 잠금 화면."
+        },
+        {
+          "t": "p",
+          "x": "Memory는 AI로 제목을 짓고 콘텐츠를 요약하며, 관련 태그를 달아 관련 항목을 컬렉션으로 묶는다. 웹 페이지 스크린샷을 알아보고 원본 링크를 찾아 주기도 한다. Google의 Pixel Screenshots와 Oppo의 Mind Space에도 비슷한 기능이 있다."
+        },
+        {
+          "t": "p",
+          "x": "삼성은 저장한 콘텐츠를 기기 안에서만 처리할 수 있다고 밝혔지만, 일부 고급 인텔리전스 기능은 온라인 처리가 필요하다. Memory는 몇 주 안에 One UI 9.5와 함께 나올 것으로 보이나, 어디까지나 예상일 뿐 공식 약속은 아니다."
+        }
+      ]
+    },
+    "gadgets/eeg-sleep-headband-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/TigcVbSwidE5JLUGgy7em-1200-80.jpg",
+          "cap": "(이미지 출처: Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "Science가 Pulitzer Center의 AI Accountability Network와 함께 벌인 조사에 따르면, 소비자용 뉴로테크 기업들은 수천만 시간 분량의 EEG 기록을 쌓았고 여러 곳이 이를 뇌 파운데이션 모델 개발에 쓰고 있다. 처음에는 개인정보 처리방침에 이런 용도를 적지도 않았다."
+        },
+        {
+          "t": "p",
+          "x": "Muse 수면 헤드밴드 제조사 Interaxon은 약 50,000시간 분량의 EEG 기록으로 AI 모델을 학습시켰지만, 개인정보 처리방침을 고치기 전까지 이 사실을 분명히 밝히지 않았다. CMO Nadia Kumentas는 \"사용자가 명시적으로 안내받아야 한다는 데 동의한다\"고 말했다. Emotiv는 Large Brain 모델 일부를 고객 기록으로 학습시키며, 지금은 비식별 데이터를 옵트인 방식으로 쓴다고 공개하고 있다."
+        },
+        {
+          "t": "p",
+          "x": "조사 대상 기업의 3분의 2 이상은 사용자 동의 없이 기업 간 데이터 이전을 허용했다. Piramidal은 Cleveland Clinic과 함께 400만 시간이 넘는 EEG 데이터로 모델을 학습시켰고, 이 회사의 발작 감지 시스템은 파일럿 연구에서 발작 10건 중 9건을 잡아냈다. 웨어러블은 대부분 전극을 1~6개만 쓰는 반면 임상 시스템은 19~25개를 쓴다."
+        }
+      ]
+    },
+    "gadgets/agibot-g2-convenience-store": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg",
+          "cap": "출처=엑스(AGIBOTofficial)"
+        },
+        {
+          "t": "video",
+          "yt": "EBSo1cuv9QY"
+        },
+        {
+          "t": "p",
+          "x": "휴머노이드 로봇 6대가 편의점에서 24시간 근무에 도전했습니다. 중국 로봇 스타트업 애지봇은 지난 2일부터 3일까지 상하이의 한 편의점에 바퀴형 휴머노이드 로봇 'G2' 6대를 투입해 근무 평가를 진행했습니다. 로봇들은 손님 응대와 상품 진열, 커피 제조, 음식 제공, 청소 등 다양한 업무를 수행했습니다."
+        },
+        {
+          "t": "p",
+          "x": "24시간 동안 총 1730건의 작업을 완료했으며, 커피 주문 147건을 처리하고 상품 369개를 가져다줬다고 회사 측은 밝혔습니다. 하지만 최종 평가에서는 6대 중 4대만 합격했습니다. 상품 진열을 담당한 로봇은 업무 적극성이 부족하다는 평가를 받았고, 청소 로봇은 쓰레기통이 가득 차자 정해진 경로를 벗어나 매장 밖으로 나가면서 탈락했습니다."
+        },
+        {
+          "t": "p",
+          "x": "이번 도전은 실제 영업 중인 편의점에서 진행됐으며 전 과정이 온라인으로 생중계됐습니다."
+        }
+      ]
+    },
+    "gadgets/alexa-tablet-12pro-android": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-hero.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Amazon은 10월 Fire 태블릿이라는 이름을 버리고 라인업 전체를 Alexa Tablets로 바꿨다. 새 태블릿은 Android로 돌아가 Google Play Store를 온전히 쓸 수 있고, 전 제품에 Alexa+가 기본으로 들어간다."
+        },
+        {
+          "t": "p",
+          "x": "주력은 Alexa Tablet 12 Pro다. Graphite 색상에 8GB RAM, 128GB 저장공간 모델이 $499.99부터이고, Nanomatte 버전은 $549.99다. 12-inch 화면은 인치당 280픽셀, 120Hz 주사율, 3:2 비율이다. 배터리는 동영상 재생 기준 16시간으로 표기된다. Pro Pen($89.99)과 Pro Keyboard($149.99)까지 갖추면 12 Pro는 업무용 기기가 된다."
+        },
+        {
+          "t": "video",
+          "yt": "4aW5ARKEQOs"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-detail.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Alexa Tablet 11은 $329.99, Alexa Tablet 8은 $229.99부터 시작한다. $99짜리 Fire는 없어졌다."
+        },
+        {
+          "t": "p",
+          "x": "남은 변수는 Alexa+다. Alexa+가 화면을 읽고 그에 맞춰 움직이는 On-Screen Intelligence 기능은 기본값이 꺼짐이라 사용자가 직접 켜야 하고, 작동 중에는 화면에 표시가 뜬다. 첫 리뷰들은 하드웨어와 화면을 호평했지만 멀티태스킹은 약점으로 꼽았다."
+        }
+      ]
     }
   }
 }

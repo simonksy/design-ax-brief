@@ -1,96 +1,158 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "section": "marketing",
   "picks": [
     {
-      "title": "Apple patent describes AI that repaints app screenshots per keyword",
-      "url": "https://ppc.land/apple-patent-describes-ai-that-repaints-app-screenshots-per-keyword/",
-      "source": "PPC Land",
+      "title": "Ogilvy and CAA launch partnership to clone celebrity talent for AI ads",
+      "url": "https://digiday.com/marketing/ogilvy-and-caa-launch-partnership-to-clone-celebrity-talent-for-ai-ads/",
+      "source": "Digiday",
       "tool": "Marketing",
       "accent": "#ff8a3d",
       "motif": "frame",
-      "rationale": "Apple's patent sets out keyword-by-keyword generative App Store creative: diffusion models repaint each screenshot to match the search term. That points to a new way of doing app-install ad creative and search optimization.",
-      "published_iso": "2026-11-08T13:42:51Z",
-      "og_image": "https://ppc.land/content/images/2026/11/apple-patent-ai-app-screenshots-repainted-per-keyword-3-stable-diffusion-stage-maquette-backdrop-rolls.jpg",
-      "excerpt": "An Apple patent describes three Stable Diffusion models that redraw everything but the headline and phone mockup in App Store marketing images, so each search keyword gets its own screenshot creative; dependent claims let the keywords come from the app itself."
+      "rationale": "New product launch (Echo): consent-first licensing of AI digital doubles of CAA talent for ads, a concrete new way to cast and produce AI ad creative.",
+      "published_iso": "2026-11-09T15:00:00+00:00",
+      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/10/multimedia-ads-digiday.jpg",
+      "excerpt": "Ogilvy and CAA launched Echo, a consent-first partnership that lets brands license AI-generated digital doubles of CAA talent such as Terry Crews for ads across the web."
     },
     {
-      "title": "LeBron James Takes Legal Action Over AI Ad That Crossed a Line",
-      "url": "https://www.si.com/onsi/athlete-lifestyle/lebron-james-takes-legal-action-over-ai-ad-that-crossed-a-line",
-      "source": "Sports Illustrated",
+      "title": "Google Ads MCP server gains 4 write tools, still can't change budgets",
+      "url": "https://ppc.land/google-ads-mcp-server-gains-4-write-tools-still-cant-change-budgets/",
+      "source": "PPC Land",
       "tool": "Marketing",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "LeBron James's representatives are demanding that a viral AI-generated ad for the sports-betting app 'Bron AI' be pulled because it used his likeness without permission. It is a concrete legal action against AI-made ad creative and a warning for anyone generating celebrity-style spots.",
-      "published_iso": "2026-11-05T23:45:00Z",
-      "og_image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4378,h_2462/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/01m6pxtcsy8xmktktfdb-c0e361ab794fb66f5c62234cf143b62d.webp",
-      "excerpt": "LeBron James's representatives are pushing back against a viral AI-generated ad for sports-betting app 'Bron AI' that used his likeness without permission, demanding it stop."
+      "rationale": "Concrete release (v0.0.6): AI agents can now edit assets and labels in live Google Ads accounts by default, which directly changes how teams wire agents into campaigns.",
+      "published_iso": "2026-11-09T20:46:12.000Z",
+      "og_image": "https://ppc.land/content/images/2026/11/google-ads-mcp-server-4-write-tools-read-only-vitrine-grabber-arm-locked-cash-register.jpg",
+      "excerpt": "Google's Ads MCP server v0.0.6 switched on four write tools for assets and labels in default installs, letting AI agents edit live accounts while budgets stay off-limits."
     },
     {
-      "title": "Japanese pizza chain apologizes after TikTok AI tool creates unauthorized Dr. STONE ad",
-      "url": "https://www.dexerto.com/food/japanese-pizza-chain-apologizes-after-tiktok-ai-tool-creates-unauthorized-dr-stone-ad-3425843/",
-      "source": "Dexerto",
+      "title": "Meta’s AI ads included unapproved discounts",
+      "url": "https://www.socialmediatoday.com/news/metas-ai-ads-included-unapproved-discounts/874067/",
+      "source": "Social Media Today",
       "tool": "Marketing",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "PIZZA-LA paused all its TikTok advertising after TikTok's automatic AI ad feature generated an unapproved video using licensed anime IP. It is a new brand-safety incident and a concrete reason to audit auto-generated creative settings.",
-      "published_iso": "2026-11-08T16:34:47Z",
-      "og_image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/08/dr-stone-la-pizza.jpg",
-      "excerpt": "PIZZA-LA paused all TikTok advertising after a TikTok AI-powered ad feature generated an unapproved video for its Dr. STONE anime collaboration campaign, and apologized to the rights holders."
+      "rationale": "Meta's automated creative showed discount offers advertisers had switched off, a pricing/promotion guardrail failure every Advantage+ advertiser should audit.",
+      "published_iso": "2026-11-08T15:35:07-05:00",
+      "og_image": "https://imgproxy.divecdn.com/jtFl8l6BsGmGnMdnKkBuXTUVcdNE3PFfV9vasuIPtAs/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2xvZ28yLnBuZw==.webp",
+      "excerpt": "Reports found Meta's AI-powered ad tools displayed discount offers to customers even when advertisers had promotions turned off, raising questions about guardrails on automated ad creative."
     },
     {
-      "title": "AI로 광고 만들고 카톡 추천 강화… 수익 끌어올리는 네카오",
-      "url": "https://www.fnnews.com/news/202611081827405042",
-      "source": "파이낸셜뉴스",
+      "title": "\"가짜 의사가 화장품 추천\" 했다간…K뷰티, AI 광고 검수 재정비",
+      "url": "https://www.news1.kr/industry/general-industry/6348088",
+      "source": "뉴스1",
       "tool": "Marketing",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "From Nov 12 to 19, Naver pilots an 'AI copy generation' feature in its Power Link search ads that writes ad text from the advertiser's assets and landing page. This is a new ad-creative tool on Korea's largest search ad platform.",
-      "published_iso": "2026-11-08T18:27:43+09:00",
-      "og_image": "https://image.fnnews.com/resource/media/image/2026/11/08/202611081827400014_e.jpg",
-      "excerpt": "네이버가 11월 12~19일 검색광고 '파워링크'에 광고주가 등록한 소재와 연결 웹페이지를 AI가 분석해 광고 문구를 만들어 주는 'AI 문구 생성' 기능을 시범 적용하고, 카카오는 카톡 추천을 강화하는 등 네카오가 AI로 광고 수익성 강화에 나섰다."
+      "rationale": "Amended Cosmetics Act takes effect on the 27th, explicitly banning AI-generated fake doctors/experts in cosmetics ads; K-beauty brands are rewriting AI ad review rules.",
+      "published_iso": "2026-11-10T06:15:00+09:00",
+      "og_image": "https://i3n.news1.kr/system/photos/2026/9/8/8094291/high.jpg",
+      "excerpt": "개정 화장품법이 27일 시행되면서 AI로 만든 가짜 의사·전문가가 효능을 설명하는 화장품 광고가 명시적 금지 대상이 되고, K뷰티 업계가 AI 광고 내부 검수 기준을 재정비하고 있다."
     },
     {
-      "title": "몰로코, '몰로콘 26' 개최…AI 광고 시스템 카라로 앱·CTV·커머스 공략",
-      "url": "https://www.techsuda.com/moloco-molocon-26-cara-ai-advertising/",
-      "source": "테크수다",
+      "title": "Google Ads AI-Generated Summaries Above & Within Search Ads",
+      "url": "https://www.seroundtable.com/google-ads-ai-generated-summaries-42482.html",
+      "source": "Search Engine Roundtable",
       "tool": "Marketing",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "At Molocon 26, Moloco took its AI ad system Cara beyond mobile apps into CTV and commerce ads. That gives performance advertisers a new open-internet buying option.",
-      "published_iso": "2026-11-06T07:02:00Z",
-      "og_image": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/cclzbd_202611060328.jpg",
-      "excerpt": "몰로코가 11월 5일 서울에서 '몰로콘 26'을 열고 AI 광고 시스템 '카라(Cara)'로 모바일 앱을 넘어 CTV·커머스 광고까지 확장하는 오픈 인터넷 광고 전략을 발표했다."
+      "rationale": "New Google test: an AI summary of all advertisers' ads above the sponsored block plus per-ad AI summaries, rewriting what searchers actually read of your ad copy.",
+      "published_iso": "2026-11-09T07:21:00-05:00",
+      "og_image": "https://images.seroundtable.com/google-ads-JypSxszY.jpg",
+      "excerpt": "Google is testing an AI-generated summary above the block of sponsored results that summarizes all advertisers' ads, plus AI summaries beneath each ad description."
+    }
+  ],
+  "items": [
+    {
+      "title": "Ogilvy and CAA launch partnership to clone celebrity talent for AI ads",
+      "url": "https://digiday.com/marketing/ogilvy-and-caa-launch-partnership-to-clone-celebrity-talent-for-ai-ads/",
+      "source": "Digiday",
+      "tool": "Marketing",
+      "accent": "#ff8a3d",
+      "motif": "frame",
+      "rationale": "New product launch (Echo): consent-first licensing of AI digital doubles of CAA talent for ads, a concrete new way to cast and produce AI ad creative.",
+      "published_iso": "2026-11-09T15:00:00+00:00",
+      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/10/multimedia-ads-digiday.jpg",
+      "excerpt": "Ogilvy and CAA launched Echo, a consent-first partnership that lets brands license AI-generated digital doubles of CAA talent such as Terry Crews for ads across the web."
+    },
+    {
+      "title": "Google Ads MCP server gains 4 write tools, still can't change budgets",
+      "url": "https://ppc.land/google-ads-mcp-server-gains-4-write-tools-still-cant-change-budgets/",
+      "source": "PPC Land",
+      "tool": "Marketing",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "rationale": "Concrete release (v0.0.6): AI agents can now edit assets and labels in live Google Ads accounts by default, which directly changes how teams wire agents into campaigns.",
+      "published_iso": "2026-11-09T20:46:12.000Z",
+      "og_image": "https://ppc.land/content/images/2026/11/google-ads-mcp-server-4-write-tools-read-only-vitrine-grabber-arm-locked-cash-register.jpg",
+      "excerpt": "Google's Ads MCP server v0.0.6 switched on four write tools for assets and labels in default installs, letting AI agents edit live accounts while budgets stay off-limits."
+    },
+    {
+      "title": "Meta’s AI ads included unapproved discounts",
+      "url": "https://www.socialmediatoday.com/news/metas-ai-ads-included-unapproved-discounts/874067/",
+      "source": "Social Media Today",
+      "tool": "Marketing",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "rationale": "Meta's automated creative showed discount offers advertisers had switched off, a pricing/promotion guardrail failure every Advantage+ advertiser should audit.",
+      "published_iso": "2026-11-08T15:35:07-05:00",
+      "og_image": "https://imgproxy.divecdn.com/jtFl8l6BsGmGnMdnKkBuXTUVcdNE3PFfV9vasuIPtAs/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2xvZ28yLnBuZw==.webp",
+      "excerpt": "Reports found Meta's AI-powered ad tools displayed discount offers to customers even when advertisers had promotions turned off, raising questions about guardrails on automated ad creative."
+    },
+    {
+      "title": "\"가짜 의사가 화장품 추천\" 했다간…K뷰티, AI 광고 검수 재정비",
+      "url": "https://www.news1.kr/industry/general-industry/6348088",
+      "source": "뉴스1",
+      "tool": "Marketing",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "rationale": "Amended Cosmetics Act takes effect on the 27th, explicitly banning AI-generated fake doctors/experts in cosmetics ads; K-beauty brands are rewriting AI ad review rules.",
+      "published_iso": "2026-11-10T06:15:00+09:00",
+      "og_image": "https://i3n.news1.kr/system/photos/2026/9/8/8094291/high.jpg",
+      "excerpt": "개정 화장품법이 27일 시행되면서 AI로 만든 가짜 의사·전문가가 효능을 설명하는 화장품 광고가 명시적 금지 대상이 되고, K뷰티 업계가 AI 광고 내부 검수 기준을 재정비하고 있다."
+    },
+    {
+      "title": "Google Ads AI-Generated Summaries Above & Within Search Ads",
+      "url": "https://www.seroundtable.com/google-ads-ai-generated-summaries-42482.html",
+      "source": "Search Engine Roundtable",
+      "tool": "Marketing",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "rationale": "New Google test: an AI summary of all advertisers' ads above the sponsored block plus per-ad AI summaries, rewriting what searchers actually read of your ad copy.",
+      "published_iso": "2026-11-09T07:21:00-05:00",
+      "og_image": "https://images.seroundtable.com/google-ads-JypSxszY.jpg",
+      "excerpt": "Google is testing an AI-generated summary above the block of sponsored results that summarizes all advertisers' ads, plus AI summaries beneath each ad description."
     }
   ],
   "dedup": {
     "checks": {
-      "https://ppc.land/apple-patent-describes-ai-that-repaints-app-screenshots-per-keyword/": {
+      "https://digiday.com/marketing/ogilvy-and-caa-launch-partnership-to-clone-celebrity-talent-for-ai-ads/": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.si.com/onsi/athlete-lifestyle/lebron-james-takes-legal-action-over-ai-ad-that-crossed-a-line",
         "new_action": ""
       },
-      "https://www.si.com/onsi/athlete-lifestyle/lebron-james-takes-legal-action-over-ai-ad-that-crossed-a-line": {
+      "https://ppc.land/google-ads-mcp-server-gains-4-write-tools-still-cant-change-budgets/": {
+        "verdict": "new",
+        "nearest": "https://ppc.land/metas-muse-agent-gains-access-to-ad-accounts-and-15-business-tools/",
+        "new_action": ""
+      },
+      "https://www.socialmediatoday.com/news/metas-ai-ads-included-unapproved-discounts/874067/": {
+        "verdict": "new",
+        "nearest": "https://www.adweek.com/media/advertisers-pull-meta-ads-that-had-unwanted-ai-glow-ups/",
+        "new_action": ""
+      },
+      "https://www.news1.kr/industry/general-industry/6348088": {
         "verdict": "new",
         "nearest": "https://news.sbs.co.kr/english/article.do?news_id=N1008817898",
         "new_action": ""
       },
-      "https://www.dexerto.com/food/japanese-pizza-chain-apologizes-after-tiktok-ai-tool-creates-unauthorized-dr-stone-ad-3425843/": {
+      "https://www.seroundtable.com/google-ads-ai-generated-summaries-42482.html": {
         "verdict": "new",
-        "nearest": "https://tomorrowspublisher.today/news/national-trust-pulls-tiktok-ads-after-platform-s-ai-publishes-unauthorised-video-68149cb63312/index.html",
-        "new_action": ""
-      },
-      "https://www.fnnews.com/news/202611081827405042": {
-        "verdict": "new",
-        "nearest": "https://www.hankyung.com/article/202611057601i",
-        "new_action": ""
-      },
-      "https://www.techsuda.com/moloco-molocon-26-cara-ai-advertising/": {
-        "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.seroundtable.com/google-ai-mode-all-sponsored-products-42402.html",
         "new_action": ""
       }
     },
-    "note": "SECOND SWAP: removed PPC Land 'ACI/YouGov 60% of UK adults would drop an AI shopping agent' because the enrichment fetch showed the survey ran June 19-22 and ACI published it June 29, 2026, so it is stale. TrafficGuard / Cybersecurity Insiders stays removed as vendor advertorial. Replaced with SI 'LeBron James Takes Legal Action Over AI Ad', a concrete legal demand against an unauthorized AI-generated betting-app ad that used his likeness. AI makes the story, and the story is about ad creative. There is no history_match and no published story about LeBron or Bron AI in the 30-day marketing digest; the nearest is SBS 10-28 on fake AI testimonial ads, which is a different story. Outlets: PPC Land 1, SI 1, Dexerto 1, fnnews 1, techsuda 1. Still rejected: SER ChatGPT business hub (Search Console-style organic visibility, which the marketing note excludes), Coty AI discovery pilot (GEO with no paid placement, and vendor-tech framing), Storyboard18 (commentary on the running ChatGPT Ads story), MK Meta vs Google (earnings analysis), Digiday recap, OpenAI Flipsnack (vendor promo). Earlier drops are unchanged: Sedaily (Kakao AI Crew dup), Cartoon Brew Chomet/Dior (movies 11-07), JD Supra Pennsylvania (commentary, no new filing), Meta Muse Spaces (running story)."
+    "note": "Dropped: Disney x Adobe (The Verge), assigned to movies by the orchestrator. Bing ads at top of AI Mode (SER), likely-repeat of 11-02 'Microsoft Bing Showing Ads Within Copilot AI Overviews', same running story. Google AI Mode multiturn ads (SER) and SEJ 'Google admits AI Mode pays less', continuation of the AI Mode ads story (10-29 expansion, 11-05 four ads) and analysis rather than a new release. Meta ad-terms pause (AI매터스), running story from 10-17/10-18 Meta terms coverage; deprioritized. TIME/Kana agents, AdExchanger sell-sider column, OpenAI monetization chief interview, Brainlabs warning: commentary/case pieces. Not picked on score/diversity: ChatGPT mention-count dashboard (organic visibility, not paid placement), DecryptAds AI recipe sites (related to 10-21/10-30 AI-slop coverage), 당근 ad MCP (overlaps the Google Ads MCP pick), Google Ads asset activity page, Storyboard18 Adobe CX Coworker (vendor promo, off-whitelist), Edaily agentic-shopping outlook (forecast). Cross-section: every pick except the Meta discounts item was published after the 11-09 run cutoff, so none can have run in another section earlier; none touch today's orchestrator assignments."
   }
 }

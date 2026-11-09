@@ -1,101 +1,158 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "section": "medicine",
-  "items": [
+  "picks": [
     {
-      "title": "PARAMOUNT, the First Randomized Trial of AI-Enabled Plaque-Based Care, Meets Primary Endpoint in Late-Breaking Results at AHA 2026",
+      "title": "AI beats scientists at finding errors in clinical research papers",
+      "url": "https://www.science.org/content/article/ai-beats-scientists-finding-errors-clinical-research-papers",
+      "source": "Science",
       "tool": "Medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "url": "https://cleerly.com/press/paramount-first-randomized-trial",
-      "source": "Cleerly (press release)",
-      "published_iso": "2026-11-07T15:45:00Z",
-      "og_image": "https://cleerly.com/hubfs/press-release/aha-2026_pr_paramount-aha-results.jpg",
-      "excerpt": "Plaque-guided care improved diagnostic certainty and increased use of preventive therapy compared with usual care in patients with suspected coronary artery disease",
-      "category": "medicine",
-      "rationale": "First randomized trial of AI plaque-guided coronary care meets its primary endpoint at AHA 2026, moving AI-CCTA from detection claims to RCT-backed management changes."
+      "rationale": "Top-tier outlet; AI outperforms human reviewers at catching technical flaws in clinical studies that drive medical decisions — direct patient-safety and evidence-quality angle.",
+      "published_iso": "2026-11-09T15:00:16Z",
+      "og_image": "https://www.science.org/do/10.1126/science.zrukrlb/rss/_20261102_ai.jpg",
+      "excerpt": "New findings demonstrate AI's aptitude for identifying technical flaws in clinical studies where medical decisions are on the line, outperforming human scientists. (Page Cloudflare-gated; date from Crossref created, image from RSS enclosure.)"
     },
     {
-      "title": "FDA Grants Breakthrough Device Designation to Cleo Skin AI Pathology Tool",
+      "title": "AI-interpreted echocardiograms comparable to human reports, cardiologists' time cut by about 50%",
+      "url": "https://newsroom.heart.org/news/ai-interpreted-echocardiograms-comparable-to-human-reports-cardiologists-time-cut-by-about-50",
+      "source": "American Heart Association Newsroom",
       "tool": "Medicine",
       "accent": "#0070f3",
       "motif": "sphere",
-      "url": "https://clpmag.com/disease-states/cancer/melanoma/fda-breakthrough-designation-cleo-skin-ai-dermatopathology/",
-      "source": "Clinical Lab Products",
-      "published_iso": "2026-11-06T19:08:55+00:00",
-      "og_image": "https://clpmag.com/wp-content/uploads/2026/11/image-2.jpg",
-      "excerpt": "FDA grants Breakthrough Device Designation to Primaa's Cleo Skin AI pathology tool, which now has both CE-IVDR and FDA status.",
-      "category": "medicine",
-      "rationale": "Regulatory milestone: an AI dermatopathology tool for melanoma diagnosis gets FDA Breakthrough designation on top of CE-IVDR."
+      "rationale": "AHA 2026 study: AI-assisted echo reads match standard reports and halve cardiologist reading time — a concrete clinical workflow result, distinct from the 11-06 rural-scan and 11-09 PARAMOUNT AHA items.",
+      "published_iso": "2026-11-09T16:22:00Z",
+      "og_image": "https://iprsoftwaremedia.com/67/files/20143/53599f8bc8046712f4065d3a_heart%20with%20artery%20view/heart%20with%20artery%20view_hero.jpg?v=01ffdf01-5bde-4cd9-b76c-748d50ca8d91",
+      "excerpt": "AHA Scientific Sessions 2026: in a study testing an AI model for evaluating echocardiograms, AI-assisted interpretation was comparable to standard human reports and cut cardiologists' reading time by about half."
     },
     {
-      "title": "한국형 '의약품 AI 심사 보조 시스템' 12월 베일 벗는다",
+      "title": "LLM ensemble PREVIA predicts future PTSD risk from emergency department trauma narratives with expert-level accuracy",
+      "url": "https://www.nature.com/articles/s41467-026-78768-3",
+      "source": "Nature Communications",
       "tool": "Medicine",
       "accent": "#7928ca",
       "motif": "sphere",
-      "url": "https://www.dailypharm.com/user/news/344134",
-      "source": "데일리팜",
-      "published_iso": "2026-11-04T06:00:48+09:00",
-      "og_image": "https://vod.dailypharm.com/new_dailypharm/editor/content/2026/11/03/48e47ad2-7131-49ef-8ca1-31d273ae8e75.png",
-      "excerpt": "식약처가 추진해 온 의약품 AI 심사 보조 시스템이 12월 초 정식 공개된다. 내부 검증을 강화한 뒤 제약업계 대상 설명회를 열 계획이다.",
-      "category": "medicine",
-      "rationale": "Regulator-side AI: Korea's MFDS unveils its AI drug-review assistant in early December, changing how approval dossiers are screened."
+      "rationale": "Open-source LLM ensemble flags one-month PTSD risk from a single routine ED question, catching all 30 cases vs 89% for a PTSD specialist — new mental-health screening tool at the point of care.",
+      "published_iso": "2026-11-09T10:03:03Z",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig1_HTML.png",
+      "excerpt": "NYU Langone's open-source LLM ensemble PREVIA predicts one-month PTSD risk from ED patients' answer to a single routine-care question ('What brought you to the ED?'); on 30 patients who developed PTSD it flagged all, versus 89% for a PTSD-specialist clinician."
     },
     {
-      "title": "Patient info improperly used in radiology AI research, academic institution says",
+      "title": "How early efforts to build autonomous clinical AI tools are approaching regulation",
+      "url": "https://endpoints.news/how-early-efforts-to-build-autonomous-clinical-ai-tools-are-approaching-regulation/",
+      "source": "Endpoints News",
       "tool": "Medicine",
-      "accent": "#ff5a4d",
+      "accent": "#f5a623",
       "motif": "sphere",
-      "url": "https://radiologybusiness.com/topics/artificial-intelligence/patient-info-improperly-used-radiology-ai-research-academic-institution-says",
-      "source": "Radiology Business",
-      "published_iso": "2026-11-08T18:09:02+00:00",
-      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/assets/articles/Screen%20Shot%202018-02-12%20at%2011.56.42%20AM.png?itok=g9jxiJwx",
-      "excerpt": "Weill Cornell Medicine says it first found out about the incident on Sept. 6, immediately launching an investigation to determine what happened.",
-      "category": "medicine",
-      "rationale": "Patient-privacy incident: Weill Cornell discloses patient data was improperly used in radiology AI research, a governance warning for every imaging-AI project."
+      "rationale": "Regulator-facing: teams in ARPA-H's ADVOCATE autonomous clinical-agent program are already meeting FDA within two months of launch — first look at how autonomous clinical AI enters the approval pathway.",
+      "published_iso": "2026-11-09T20:40:03+00:00",
+      "og_image": "https://endpoints.news/wp-content/uploads/2023/12/digital-health-concept-shutterstock-social.jpg",
+      "excerpt": "Multiple teams in ARPA-H's ADVOCATE program, which funds autonomous clinical AI agents, have already held initial informational meetings with the FDA less than two months after the program launched. (Registration wall; body partial.)"
     },
     {
-      "title": "Sunderland project using AI to help eye tests detect diabetes",
+      "title": "Hospitals write off $132B as AI fails to move the needle with finances",
+      "url": "https://www.healthcaredive.com/news/hospitals-write-off-132b-ai-fails-to-move-needle-with-finances/874161/",
+      "source": "Healthcare Dive",
       "tool": "Medicine",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "url": "https://www.bbc.co.uk/news/articles/cw1m4vd8epnno",
-      "source": "BBC News",
-      "published_iso": "2026-11-06T06:09:38.194Z",
-      "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/29ec/live/7d751a00-d930-11f1-b1fc-0ffc40c3cca6.jpg",
-      "excerpt": "Researchers hope the technology will allow for a quicker diagnosis for patients.",
-      "category": "medicine",
-      "rationale": "Front-line deployment: a Sunderland project uses AI in routine eye tests to flag diabetes earlier for patients."
+      "rationale": "New analysis: despite billions spent on AI and automation for revenue-cycle and claims work, hospital bad debt and write-offs keep rising — a reality check on AI in hospital operations.",
+      "published_iso": "2026-11-09T14:30:52-05:00",
+      "og_image": "https://imgproxy.divecdn.com/QEl9bYuvsD35KFv2lchSJuWaDpokn09lTbcQpftooCo/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQyMjU5NzM0LmpwZw==.webp",
+      "excerpt": "Hospitals are losing more money from bad debt and write-offs despite investing billions into automation and AI to improve revenue-cycle performance, a new analysis finds."
     }
   ],
   "dedup": {
     "checks": {
-      "https://cleerly.com/press/paramount-first-randomized-trial": {
+      "https://www.science.org/content/article/ai-beats-scientists-finding-errors-clinical-research-papers": {
         "verdict": "new",
-        "nearest": "https://cardiovascularbusiness.com/topics/cardiac-imaging/ai-tech-detects-high-risk-coronary-inflammation-many-asymptomatic-patients",
+        "nearest": "https://www.bmj.com/lookup/doi/10.1136/bmj-2026-100855",
         "new_action": ""
       },
-      "https://clpmag.com/disease-states/cancer/melanoma/fda-breakthrough-designation-cleo-skin-ai-dermatopathology/": {
+      "https://newsroom.heart.org/news/ai-interpreted-echocardiograms-comparable-to-human-reports-cardiologists-time-cut-by-about-50": {
         "verdict": "new",
-        "nearest": "https://www.bbc.co.uk/news/articles/ck5yw5e9pnrzo",
+        "nearest": "https://newsroom.heart.org/news/non-experts-with-ai-guidance-and-off-site-review-perform-quality-mobile-rural-heart-scans",
         "new_action": ""
       },
-      "https://www.dailypharm.com/user/news/344134": {
+      "https://www.nature.com/articles/s41467-026-78768-3": {
         "verdict": "new",
-        "nearest": "https://www.bosa.co.kr/news/articleView.html?idxno=3014609",
+        "nearest": "https://www.nature.com/articles/s41746-026-03388-6",
         "new_action": ""
       },
-      "https://radiologybusiness.com/topics/artificial-intelligence/patient-info-improperly-used-radiology-ai-research-academic-institution-says": {
+      "https://endpoints.news/how-early-efforts-to-build-autonomous-clinical-ai-tools-are-approaching-regulation/": {
         "verdict": "new",
-        "nearest": "https://www.bmj.com/content/395/bmj-2026-101119",
+        "nearest": "https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/",
         "new_action": ""
       },
-      "https://www.bbc.co.uk/news/articles/cw1m4vd8epnno": {
+      "https://www.healthcaredive.com/news/hospitals-write-off-132b-ai-fails-to-move-needle-with-finances/874161/": {
         "verdict": "new",
-        "nearest": "https://www.bbc.co.uk/news/articles/ck5yw5e9pnrzo",
+        "nearest": "https://jamanetwork.com/journals/jama/fullarticle/2855989",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: Radiology Business 'residents miss more findings after night shifts even with AI' (likely-repeat of AuntMinnie 2026-10-27); Healthcare Dive 'How should the FDA regulate generative AI in medtech? 5 takes' (same FDA genAI docket-comment story as Healthcare Dive 2026-10-23, commentary only); MedCity '7 potential problems with Medicare's AI prior authorization experiment' (WISeR running story, JAMA 2026-10-30; analysis, no new CMS decision). Dailypharm MFDS AI review-assist system judged distinct from Bosa 2026-10-24 (that was review criteria for AI-developed drugs plus generic deregulation; this is the regulator's own AI reviewer tool launching in December). Not picked on merit: Exeter BRAINIAC dementia hub (AI incidental), WIRED caregiver apps feature, NEJM surveillance Perspective and AI-scribe Clinical Decisions (commentary/evergreen), STAT chatbot/FDA-CMS-states/women's-records pieces (newsletter/opinion), MedCity clinician-burden opinion, Healthcare Dive human-in-loop survey (close to 10-18 JAMA perceptions item), npj HFpEF/ultrasound delivery-date/MambaSleepCVD papers, Medical Xpress NHS Dora Care phone-assistant trial (runner-up). Cross-section: science block of published_urls.json checked; none of the 5 pick URLs (cleerly, clpmag, dailypharm, radiologybusiness, bbc) or their stories appear. Outlets: 5 distinct."
-  }
+    "note": "Pool 14, no story_dedup drops. Dropped: Doximity 190 health systems (history_match related to 10-26 Doximity/UpToDate; customer-count update, no new release -> running story, also business). Dropped as non-qualifying: Siggy launch (pre-seed funding), STAT heart-drug-failures (opinion/analysis), MedCity 'challenge after approval' (opinion), STAT men/chatbots (feature, weaker than picks). Not picked on ranking/diversity: Lunit-Saudi and USARad-AZmed (AuntMinnie deployment deals; imaging already covered by AHA echo), NEJM AI AURA RCT (no og_image, thin abstract), MambaSleepCVD (no og_image). AHA echo history_match (Claude genome, related) is not the same story; closest published is the 11-06 AHA rural heart-scan item, a different study. No overlap with today's science candidates; no cross-section assignment touches medicine."
+  },
+  "items": [
+    {
+      "title": "AI beats scientists at finding errors in clinical research papers",
+      "url": "https://www.science.org/content/article/ai-beats-scientists-finding-errors-clinical-research-papers",
+      "source": "Science",
+      "tool": "Medicine",
+      "accent": "#00897b",
+      "motif": "sphere",
+      "rationale": "Top-tier outlet; AI outperforms human reviewers at catching technical flaws in clinical studies that drive medical decisions — direct patient-safety and evidence-quality angle.",
+      "published_iso": "2026-11-09T15:00:16Z",
+      "og_image": "https://www.science.org/do/10.1126/science.zrukrlb/rss/_20261102_ai.jpg",
+      "excerpt": "New findings demonstrate AI's aptitude for identifying technical flaws in clinical studies where medical decisions are on the line, outperforming human scientists. (Page Cloudflare-gated; date from Crossref created, image from RSS enclosure.)"
+    },
+    {
+      "title": "AI-interpreted echocardiograms comparable to human reports, cardiologists' time cut by about 50%",
+      "url": "https://newsroom.heart.org/news/ai-interpreted-echocardiograms-comparable-to-human-reports-cardiologists-time-cut-by-about-50",
+      "source": "American Heart Association Newsroom",
+      "tool": "Medicine",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "rationale": "AHA 2026 study: AI-assisted echo reads match standard reports and halve cardiologist reading time — a concrete clinical workflow result, distinct from the 11-06 rural-scan and 11-09 PARAMOUNT AHA items.",
+      "published_iso": "2026-11-09T16:22:00Z",
+      "og_image": "https://iprsoftwaremedia.com/67/files/20143/53599f8bc8046712f4065d3a_heart%20with%20artery%20view/heart%20with%20artery%20view_hero.jpg?v=01ffdf01-5bde-4cd9-b76c-748d50ca8d91",
+      "excerpt": "AHA Scientific Sessions 2026: in a study testing an AI model for evaluating echocardiograms, AI-assisted interpretation was comparable to standard human reports and cut cardiologists' reading time by about half."
+    },
+    {
+      "title": "LLM ensemble PREVIA predicts future PTSD risk from emergency department trauma narratives with expert-level accuracy",
+      "url": "https://www.nature.com/articles/s41467-026-78768-3",
+      "source": "Nature Communications",
+      "tool": "Medicine",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "Open-source LLM ensemble flags one-month PTSD risk from a single routine ED question, catching all 30 cases vs 89% for a PTSD specialist — new mental-health screening tool at the point of care.",
+      "published_iso": "2026-11-09T10:03:03Z",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig1_HTML.png",
+      "excerpt": "NYU Langone's open-source LLM ensemble PREVIA predicts one-month PTSD risk from ED patients' answer to a single routine-care question ('What brought you to the ED?'); on 30 patients who developed PTSD it flagged all, versus 89% for a PTSD-specialist clinician."
+    },
+    {
+      "title": "How early efforts to build autonomous clinical AI tools are approaching regulation",
+      "url": "https://endpoints.news/how-early-efforts-to-build-autonomous-clinical-ai-tools-are-approaching-regulation/",
+      "source": "Endpoints News",
+      "tool": "Medicine",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Regulator-facing: teams in ARPA-H's ADVOCATE autonomous clinical-agent program are already meeting FDA within two months of launch — first look at how autonomous clinical AI enters the approval pathway.",
+      "published_iso": "2026-11-09T20:40:03+00:00",
+      "og_image": "https://endpoints.news/wp-content/uploads/2023/12/digital-health-concept-shutterstock-social.jpg",
+      "excerpt": "Multiple teams in ARPA-H's ADVOCATE program, which funds autonomous clinical AI agents, have already held initial informational meetings with the FDA less than two months after the program launched. (Registration wall; body partial.)"
+    },
+    {
+      "title": "Hospitals write off $132B as AI fails to move the needle with finances",
+      "url": "https://www.healthcaredive.com/news/hospitals-write-off-132b-ai-fails-to-move-needle-with-finances/874161/",
+      "source": "Healthcare Dive",
+      "tool": "Medicine",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "rationale": "New analysis: despite billions spent on AI and automation for revenue-cycle and claims work, hospital bad debt and write-offs keep rising — a reality check on AI in hospital operations.",
+      "published_iso": "2026-11-09T14:30:52-05:00",
+      "og_image": "https://imgproxy.divecdn.com/QEl9bYuvsD35KFv2lchSJuWaDpokn09lTbcQpftooCo/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQyMjU5NzM0LmpwZw==.webp",
+      "excerpt": "Hospitals are losing more money from bad debt and write-offs despite investing billions into automation and AI to improve revenue-cycle performance, a new analysis finds."
+    }
+  ]
 }

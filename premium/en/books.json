@@ -9707,6 +9707,158 @@
           "x": "Some booksellers question whether AI training explains every order, as requests have included public-domain works such as Gulliver's Travels."
         }
       ]
+    },
+    "books/books-wired-paper-trail": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg",
+          "cap": "Photo-Illustration: Wired Staff; Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind. In March, Hachette canceled the US publication of the horror novel Shy Girl amid claims it was largely AI-generated; author Mia Ballard has denied using AI."
+        },
+        {
+          "t": "p",
+          "x": "Novelist Andrea Bartz, lead plaintiff in the class action against Anthropic, says once accusations start the damage is done: “There’s no agreed upon standard” for proving human authorship."
+        },
+        {
+          "t": "p",
+          "x": "Platforms including Workings, Blindproof, Wintertext, Human Ink and ObraVera promise to track and document an author’s writing process to produce a record of authorship. The Authors Guild’s Mary Rasenberger calls having to keep such receipts “insulting” and a “burden.”"
+        },
+        {
+          "t": "p",
+          "x": "The tools aren’t foolproof: Pangram CEO Max Spero notes someone could hand-type AI text, and ObraVera’s Brady Ridgway says his software records a declaration but can’t confirm whether it is true. Publishing expert Jane Friedman doubts publishers will adopt any check that “costs extra money or extra time.”"
+        }
+      ]
+    },
+    "books/books-yes24-ai-tts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i3n.news1.kr/system/photos/2026/11/9/8205652/high.jpg",
+          "cap": "Promotional image for the 'Korean-English auto-switch' AI voice reading feature in YES24 e-books. (Provided by YES24. Resale and DB use prohibited) 2026.11.10/News1"
+        },
+        {
+          "t": "p",
+          "x": "YES24 said on the 10th that it has introduced an artificial intelligence voice conversion feature that reads sentences mixing Korean and English in e-books in a single voice."
+        },
+        {
+          "t": "p",
+          "x": "Existing voice reading had a problem: the voice or pronunciation changed when the language switched. The new feature processes Korean and English with the same AI voice, reducing breaks during language transitions."
+        },
+        {
+          "t": "p",
+          "x": "The technology uses Selvas AI's 'SELVAS deepTTS On-Device: Cross-lingual' solution. It supports an on-device approach, in which speech synthesis takes place within the user's device."
+        },
+        {
+          "t": "p",
+          "x": "YES24's audiobook spending per 1 person from January 1 to October 30 this year rose 69.3% from the same period last year. The growth rate for October was 493.6% compared with the same month last year."
+        },
+        {
+          "t": "p",
+          "x": "By age, audiobook buyers were led by those in their 40s at 30.9%, followed by their 30s at 24.1% and their 50s at 21.9%. By genre, fiction ranked highest at 31.5%, followed by humanities and history at 17.5% and poetry and essays at 8.6%."
+        },
+        {
+          "t": "p",
+          "x": "YES24 launched its AI TTS service in August 2025. It has since added features such as playback speed and pitch adjustment and reservation timers by time or page."
+        },
+        {
+          "t": "p",
+          "x": "After a preference survey in which about 4000 members took part from August 26 to September 25 this year, it added 2 more AI voices. It now offers 8 AI voices in total."
+        },
+        {
+          "t": "p",
+          "x": "Lee Jin-gu, head of YES24's digital business division, said he expects the new feature to broaden how e-books are used, including for language learning. To mark the launch, the company is holding a recommended-book listening trial and an English title guessing event."
+        }
+      ]
+    },
+    "books/books-japan-ip-genai-terms": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://p.potaufeu.asahi.com/ea20-p/picture/31541082/61f58bd68b656de926eb7ac66b22a04e.jpg",
+          "cap": "From left: Takami Kondo, representative director of the Japan IP.AI Co-Creation Association, lyricist Yasushi Akimoto and editor-producer Motoi Chujo speak at an event following a news conference announcing the association’s establishment in Tokyo’s Shibuya Ward on Sept. 11. (Ryo Jozuka)"
+        },
+        {
+          "t": "p",
+          "x": "Japan is seeking to bring its anime, manga, music and other cultural properties into the age of generative artificial intelligence on terms set by rights holders."
+        },
+        {
+          "t": "p",
+          "x": "The newly established Japan IP.AI Co-Creation Association announced a framework under which creators and other rights holders can specify in advance how their works may be used by AI, with revenue from authorized use flowing back to them. Usage is recorded, and payments are distributed by AI companies to rights holders."
+        },
+        {
+          "t": "p",
+          "x": "Nine overseas AI-related companies, including Alibaba Group and Canva, have endorsed the guidelines, as have rights holders for “Captain Tsubasa” and the office of lyricist Yasushi Akimoto. “We want to create a new global standard, and to do so from Japan,” said representative director Takami Kondo."
+        },
+        {
+          "t": "p",
+          "x": "Chinese generative AI company MiniMax Group is set to adopt the system from this autumn, and ByteDance’s Japanese subsidiary is in discussions. The association plans to approach Google and OpenAI."
+        }
+      ]
+    },
+    "books/books-flitto-kpa-data": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Flitto has begun building a data supply system so that published works can be used for artificial intelligence (AI) training."
+        },
+        {
+          "t": "p",
+          "x": "Flitto said on the 9th that it signed a business agreement with the Korean Publishers Association on the 4th to create a market for supplying and trading publishing data for AI training. The core of the agreement is combining the association's publishing data supply capabilities with Flitto's data refining and processing technology."
+        },
+        {
+          "t": "p",
+          "x": "Supply conditions for publishing data and whether to sign individual contracts will be determined on the premise of consent from the copyright holders and publishing rights holders of the works concerned. The specific business scope, procedures and compensation will be set in future contracts for each project."
+        },
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/11/09/2b121073d396ca3cb7b643a2debfe25c.jpg",
+          "cap": "Flitto Chief Data Officer Kim Jin-gu (right) and Korean Publishers Association President Kim Tae-heon pose for a photo at the business agreement ceremony held on the 4th in the main auditorium of the Korean Publishers Association in Jongno-gu. (Photo=Flitto)"
+        },
+        {
+          "t": "p",
+          "x": "Flitto supports technology to process publishing data into a form usable for AI training and to verify its quality. It also provides computing infrastructure and a security environment so the data can be handled safely."
+        },
+        {
+          "t": "p",
+          "x": "The Korean Publishers Association serves as the channel that consults with publishers and supplies data to buyers. The association independently operates the system for collecting and managing publishing data."
+        },
+        {
+          "t": "p",
+          "x": "The two sides plan to find buyers that will use publishing data and to boost transactions. They will also seek to jointly take part in AI data projects run by the government and public institutions."
+        },
+        {
+          "t": "p",
+          "x": "Flitto chief executive Lee Jung-soo said, \"Based on our advanced data technology, we will actively contribute to establishing a healthy national AI data infrastructure in which copyright holders and the AI industry grow together.\""
+        }
+      ]
+    },
+    "books/vellum-automation-rollback": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Vellum, the Mac-based book formatting application used by thousands of independent authors, has reversed its decision to integrate AI automation features after a wave of criticism from its user base. The three-person development team behind the software pulled the feature in version 4.2.1, just days after introducing it."
+        },
+        {
+          "t": "p",
+          "x": "The Automation feature was designed to let authors connect external AI assistants to the platform, to help authors with large back catalogues manage repetitive publishing tasks such as updating back matter, making fixes across multiple books and building box sets. The developers were clear it was not intended to encourage AI-generated writing."
+        },
+        {
+          "t": "p",
+          "x": "The response from the author community was immediate and negative. “We’ve read your emails, your Threads posts, and a plethora of emojis,” the team wrote in an email to users signed by its three staff members – Brad, Brad and Katharine. “We knew many authors had concerns about AI, which is why we chose not to build AI into Vellum… But we underestimated how strongly many of you would object to Vellum working with AI assistants at all.”"
+        },
+        {
+          "t": "p",
+          "x": "With version 4.2.1, Automation has been entirely removed from the software. The team acknowledged the decision would not satisfy everyone: some authors were fundamentally opposed to any AI integration, while others had been enthusiastic. “We believe removing it is the best decision we can make,” the team stated."
+        },
+        {
+          "t": "p",
+          "x": "Vellum is a Mac-only tool for creating ebooks and print editions for Kindle, Kobo and Apple Books. Vellum Press is priced at $390 and Vellum Ebooks at $310."
+        }
+      ]
     }
   }
 }

@@ -17319,6 +17319,139 @@
           "x": "새 Aurora 3D 프린터는 사진이나 몇 마디 말, 음성 명령만 있으면 CAD도 슬라이싱 소프트웨어도 거치지 않고 완성된 부품을 뽑아낸다. 솔직히 믿기 어렵다. 그래서 더 직접 보고 싶다."
         }
       ]
+    },
+    "design/higgsfield-miracle-layers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI.webp"
+        },
+        {
+          "t": "p",
+          "x": "Higgsfield가 11월 6일 후반 작업 기술 Miracle을 발표했다. 사실상 어떤 영상이든 픽셀 단위까지 실시간으로 편집된다는 설명이다. 영상을 따로 손볼 수 있는 레이어로 나누기 때문에 장면 전체를 다시 생성하지 않고 요소 하나만 고칠 수 있다고 한다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/HM2.jpg",
+          "cap": "이미지 출처: Higgsfield."
+        },
+        {
+          "t": "p",
+          "x": "Miracle을 쓰면 원본 영상의 움직임과 구도는 그대로 둔 채 객체 색과 배경을 바꾸고, 조명·질감을 손보고, 화면 속 텍스트까지 고칠 수 있다. Higgsfield는 레이어 분해에 프레임별 깊이 정보와 장면 맥락 이해를 더해 영상이 재생되는 동안 이런 변경을 실시간으로 반영한다고 주장한다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/HM3.jpg",
+          "cap": "이미지 출처: Higgsfield."
+        },
+        {
+          "t": "p",
+          "x": "Higgsfield는 아키텍처와 지원 해상도, 영상 길이 제한, 편집 지연 시간을 공개하지 않았다. 독립 테스트로 확인된 주장도 아직 없다. Miracle은 지금 일부 사용자만 쓰는 비공개 베타이고, 앞으로 Claude와 MCP로 연동해 더 넓게 풀 계획이다. 출시일과 가격은 나오지 않았다."
+        }
+      ]
+    },
+    "design/instagram-effect-builder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-effect-builder-launch-2.jpeg",
+          "cap": "이미지: Instagram / Meta"
+        },
+        {
+          "t": "p",
+          "x": "지난주 Edits 앱을 macOS로 넓힌 Instagram이 이번에는 AI로 Stories 게시물용 맞춤 필터를 만드는 Effect Builder를 내놓았다. 미국(US)에 사는 18세 이상 사용자라면 지금 바로 쓸 수 있다. 챗봇 형태의 프롬프트 창에 필터 아이디어를 설명하면 되고, 스타일 참고 이미지도 붙일 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "그다음 사진을 직접 올려 AI-generating 효과를 미리 보고, 이어지는 프롬프트로 고쳐 달라고 하면 된다. 프롬프트를 Instagram의 AI가 다시 쓰게 맡기는 옵션도 있다. 시험 삼아 한 줄짜리 프롬프트 “Make a filter that turns photos into comic book pages”(사진을 만화책 페이지로 바꾸는 필터를 만들어 줘)를 넣자, 이 옵션은 색감부터 조명까지 세세한 스타일 요청이 담긴 AI-generated 문단 여러 개로 바꿔 놓았다. 정작 그렇게 Effect Builder가 만든 필터는 처음 한 줄 프롬프트로 만든 결과와 거의 똑같아 보였다."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-effect-builder-test-1.jpeg",
+          "cap": "Instagram의 AI가 내 프롬프트를 길고 자세한 지시문으로 다시 썼다."
+        },
+        {
+          "t": "p",
+          "x": "완성한 필터는 Effect Builder에서 곧장 Instagram에 제출할 수 있다. 다만 다른 사용자가 쓰려면 안전 심사부터 통과해야 한다. Instagram은 효과가 승인되면 “누구나 쓸 수 있게 Instagram Stories에 표시되며, 누군가 당신의 효과를 쓸 때마다 프로필로 연결되는 링크를 달아 다른 사람들이 당신의 작업을 쉽게 찾을 수 있게 한다”고 밝혔다."
+        }
+      ]
+    },
+    "design/archinect-cad-training-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://archinect.gumlet.io/uploads/12/12f0a1e3f6b1ca7ed44c81f94f64cc3a.jpg",
+          "cap": "이미지 출처: Anete Lusina / Pexels"
+        },
+        {
+          "t": "p",
+          "x": "USC 겸임교수 Simon Ha는 LinkedIn 게시물에서 “건축가 여러분, 이거 보셨나요?”라고 물었다. “이 AI 회사는 설계 작업이 어떻게 이뤄지는지 AI 모델에 학습시키려고, 수정본과 마크업까지 포함한 여러분의 CAD 파일에 여섯 자릿수 금액을 주겠다고 합니다.” 문제의 회사 Nyne.ai는 자신을 “AI를 위한 데이터 공장”이라고 부른다."
+        },
+        {
+          "t": "p",
+          "x": "Ha는 “이는 저작권과 설계 산출물의 소유권에 관해 심각한 의문을 던진다”며 “어떤 사무소가 이 파일을 갖고 있다고 해서 AI 학습용으로 팔 권리까지 있는 것은 아니다”라고 덧붙였다."
+        },
+        {
+          "t": "p",
+          "x": "건축·건설 사무소의 AI 학습용 데이터 판매를 중개하겠다는 플랫폼도 여럿 나왔다. 한 중개업체는 “구매자들은 지금 건설과 건축 분야의 CAD 및 프로젝트 파일을 찾고 있다고 말한다”고 전한다. 다른 업체는 도면 세트와 Revit 모델, SolidWorks 어셈블리가 사무소 서버에만 있다면서 “그 희소성 때문에 CAD는 AI 데이터 구매자들이 이제 이름을 콕 집어 요구하는 파일 유형이 됐다”고 적었다."
+        }
+      ]
+    },
+    "design/aistudio-google-maps": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Maps_Platform_2wNhTuC.mp4"
+        },
+        {
+          "t": "p",
+          "x": "앱에 현실 세계의 맥락을 담기가 한결 쉬워졌다. Google AI Studio 안에서 Google Maps Platform을 곧바로 쓸 수 있어 결제나 인증 정보를 설정하러 작업 공간을 벗어날 일이 없다. 무료로 바로 써 볼 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "아이디어 설명하기: AI Studio에서 현실 세계의 콘셉트라면 무엇이든 Gemini에 프롬프트로 입력한다(예: “NYC의 대표 명소를 보여 주는 인터랙티브 3D 투어를 만들어 줘”)."
+        },
+        {
+          "t": "p",
+          "x": "Google Maps 간편하게 켜기: 신용카드 없이 몇 분이면 시작한다. 기존 Google Cloud 프로젝트가 있다면 AI Studio가 알아서 찾아 연결하게 해도 된다."
+        },
+        {
+          "t": "p",
+          "x": "결과 확인하기: AI Studio가 키를 안전하게 연결하고 실시간 인터랙티브 미리 보기를 곧바로 띄운다."
+        },
+        {
+          "t": "p",
+          "x": "일일 할당량 한도 안에서는 무료다. 프로덕션에 쓰려면 유료 Cloud 결제 계정이 있어야 한다."
+        }
+      ]
+    },
+    "design/cursor-voice-agent-call": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "이제 실시간 음성 통화로 에이전트와 대화한다. 바꿀 내용을 말로 설명하고, 에이전트가 무엇을 하는지 묻고, 진행 상황은 귀로 들으면 된다. 음성 채팅은 Agents Window, IDE, 웹, iOS용 Cursor에서 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "통화를 시작하려면 에이전트가 쉬고 있고 채팅 입력란이 비어 있을 때 Start voice chat 파형 버튼을 누른다. 평소 Send 버튼이 있던 자리로, 받아쓰기용 마이크 버튼 옆이다. iOS에서는 \"Hey Siri, call Cursor\"라고 말해 새 에이전트와 통화를 시작할 수도 있다. 음소거나 통화 종료는 잠금 화면(Lock Screen)의 Live Activity에서 한다."
+        },
+        {
+          "t": "p",
+          "x": "음성 에이전트는 듣고 답하고, 코딩 작업은 채팅 속 에이전트에게 넘긴다. 그 에이전트가 일하는 동안에도 대화는 이어진다. diff에서 무엇이 바뀌었는지 묻고, 실행 상황을 확인하고, 이 에이전트와 나눈 이전 메시지와 통화를 검색한다. 여러 작업자가 있는 Project에서는 작업자 사이를 오가기도 한다."
+        },
+        {
+          "t": "p",
+          "x": "코딩 에이전트도 직접 말한다. 작업 중에는 짧은 진행 메모를, 끝나면 간단한 답을 들려준다. 전체 서면 답변 대신 짧은 업데이트를 듣는 경우가 많다."
+        },
+        {
+          "t": "p",
+          "x": "음성 채팅은 Grok Voice 기반이다. Voice settings에서 Ara, Eve, Leo, Rex, Sal 등 여러 목소리 가운데 고르면 된다. Privacy Mode를 켜면 음성 채팅도 데이터를 전혀 보존하지 않는다."
+        },
+        {
+          "t": "p",
+          "x": "음성 채팅은 이전 릴리스에서 Voice Mode라 부르던 받아쓰기와 다른 기능이다. 받아쓰기는 지금도 말을 채팅 입력란의 텍스트로 옮기고, IDE에서는 Cmd+Shift+Space로 켜고 끈다. 음성 채팅은 에이전트가 소리 내어 답하는 양방향 대화다."
+        }
+      ]
     }
   }
 }

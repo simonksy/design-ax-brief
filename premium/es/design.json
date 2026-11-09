@@ -11194,6 +11194,139 @@
           "x": "La nueva impresora 3D Aurora puede convertir una foto, unas pocas palabras o una orden de voz en una pieza terminada sin CAD ni software de laminado. Me cuesta creerlo. Y también tengo bastantes ganas de verlo."
         }
       ]
+    },
+    "design/higgsfield-miracle-layers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI.webp"
+        },
+        {
+          "t": "p",
+          "x": "Higgsfield anunció Miracle el 6 de noviembre, una tecnología de posproducción que promete editar prácticamente cualquier video en tiempo real y a nivel de píxel. Según se informa, descompone el material en capas editables de forma independiente, de modo que los usuarios pueden modificar elementos concretos sin regenerar toda la escena."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/HM2.jpg",
+          "cap": "Imagen: Higgsfield."
+        },
+        {
+          "t": "p",
+          "x": "Miracle permite cambiar el color de objetos, reemplazar fondos, manipular la iluminación, modificar texturas y editar el texto en pantalla, conservando el movimiento y la composición del material original. Higgsfield afirma que estos cambios ocurren en tiempo real, mientras el video se reproduce, al combinar la descomposición en capas con información de profundidad por fotograma y una comprensión contextual de la escena."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/HM3.jpg",
+          "cap": "Imagen: Higgsfield."
+        },
+        {
+          "t": "p",
+          "x": "Higgsfield no ha revelado la arquitectura, las resoluciones compatibles, los límites de duración del video ni la latencia de edición, y sus afirmaciones no han sido verificadas con pruebas independientes. Miracle está en beta privada con usuarios seleccionados, y se prevé ampliar su disponibilidad mediante su integración MCP con Claude. No se han anunciado fecha de lanzamiento ni precios."
+        }
+      ]
+    },
+    "design/instagram-effect-builder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-effect-builder-launch-2.jpeg",
+          "cap": "Imagen: Instagram / Meta"
+        },
+        {
+          "t": "p",
+          "x": "Tras llevar su app Edits a macOS la semana pasada, el siguiente paso de Instagram es lanzar Effect Builder, que genera con AI filtros personalizados para las publicaciones de Stories. Ya está disponible para residentes en Estados Unidos (US) mayores de 18 años y ofrece un cuadro de texto para describir la idea del filtro al chatbot, con la opción de adjuntar imágenes de referencia de estilo."
+        },
+        {
+          "t": "p",
+          "x": "Después se pueden subir fotos propias para previsualizar los efectos AI-generating y pedir cambios con nuevas instrucciones. También hay una opción para que la AI de Instagram reescriba la instrucción, que convirtió mi prompt de prueba de una sola línea, “Make a filter that turns photos into comic book pages” (“Haz un filtro que convierta las fotos en páginas de cómic”), en varios párrafos AI-generated con solicitudes de estilo detalladas sobre todo, desde la paleta de colores hasta la iluminación. Aun así, el filtro que Effect Builder generó se veía casi idéntico al que había producido con mi frase original."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-effect-builder-test-1.jpeg",
+          "cap": "La AI de Instagram reescribió mi prompt como instrucciones largas y detalladas."
+        },
+        {
+          "t": "p",
+          "x": "Los filtros pueden enviarse a Instagram directamente desde Effect Builder, pero los efectos deben superar una revisión de seguridad antes de estar disponibles para otros usuarios. Instagram explica que, una vez aprobado, un efecto “aparece en Instagram Stories para que cualquiera lo use, y cada vez que alguien use tu efecto enlazaremos a tu perfil para que otros encuentren fácilmente tu trabajo.”"
+        }
+      ]
+    },
+    "design/archinect-cad-training-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://archinect.gumlet.io/uploads/12/12f0a1e3f6b1ca7ed44c81f94f64cc3a.jpg",
+          "cap": "Imagen: Anete Lusina / Pexels"
+        },
+        {
+          "t": "p",
+          "x": "“Arquitectos, ¿han visto esto?”, preguntó Simon Ha, profesor adjunto de USC, en una publicación en LinkedIn. “Esta empresa de AI ofrece pagar seis cifras por sus archivos CAD, incluidas revisiones y anotaciones, para entrenar modelos de AI sobre cómo se hace el trabajo de diseño.” La empresa, Nyne.ai, se describe como “la fábrica de datos para la AI”."
+        },
+        {
+          "t": "p",
+          "x": "“Esto plantea serias dudas sobre los derechos de autor y la propiedad de los documentos de servicio”, añadió Ha. “Que un estudio posea estos archivos no significa necesariamente que tenga derecho a venderlos para entrenar AI.”"
+        },
+        {
+          "t": "p",
+          "x": "Han surgido varias plataformas que se ofrecen como intermediarias para que estudios de arquitectura y empresas de construcción vendan datos que pueden usarse para entrenar modelos de AI. “Los compradores nos dicen que ahora mismo buscan archivos CAD y de proyectos de construcción y arquitectura”, señala un intermediario. Otro escribe que un juego de planos, un modelo de Revit o un ensamblaje de SolidWorks reside en el servidor propio de cada estudio, y que “esa escasez es la razón por la que CAD se ha convertido en uno de los tipos de archivo que los compradores de datos para AI ahora piden por su nombre.”"
+        }
+      ]
+    },
+    "design/aistudio-google-maps": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Maps_Platform_2wNhTuC.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Incorporar contexto del mundo real a tus apps ahora es mucho más fácil. Ya puedes usar Google Maps Platform directamente dentro de Google AI Studio, sin salir de tu espacio de trabajo para configurar la facturación y las credenciales. Pruébalo sin costo."
+        },
+        {
+          "t": "p",
+          "x": "Describe tu idea: entra en AI Studio y pide a Gemini cualquier concepto del mundo real (por ejemplo, “Crea un recorrido interactivo en 3D por NYC que muestre sus lugares emblemáticos”)."
+        },
+        {
+          "t": "p",
+          "x": "Activa Google Maps sin complicaciones: empieza en minutos sin necesidad de tarjeta de crédito, o deja que AI Studio detecte y vincule automáticamente tu proyecto existente de Google Cloud."
+        },
+        {
+          "t": "p",
+          "x": "Míralo cobrar vida: AI Studio conecta tu clave de forma segura y carga al instante una vista previa interactiva en vivo."
+        },
+        {
+          "t": "p",
+          "x": "Pruébalo gratis hasta los límites de cuota diaria. Para producción se requiere una cuenta de facturación de Cloud de pago."
+        }
+      ]
+    },
+    "design/cursor-voice-agent-call": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ahora puedes hablar con tus agentes en una llamada de voz en tiempo real. Describe un cambio en voz alta, pregunta en qué está trabajando un agente y escucha actualizaciones a medida que avanza el trabajo. El chat de voz funciona en la Agents Window, el IDE, la web y en Cursor para iOS."
+        },
+        {
+          "t": "p",
+          "x": "Para iniciar una llamada: cuando el agente esté inactivo y el campo de chat esté vacío, haz clic en el botón con forma de onda etiquetado Start voice chat. Está donde suele estar Send, junto al botón de micrófono para el dictado. En iOS también puedes decir \"Hey Siri, call Cursor\" para iniciar una llamada con un agente nuevo, y silenciar o colgar desde la Lock Screen con una Live Activity."
+        },
+        {
+          "t": "p",
+          "x": "El agente de voz escucha, responde y pasa el trabajo de programación al agente de tu chat. Mientras ese agente trabaja, puedes seguir conversando. Pregunta qué cambió en un diff, revisa una ejecución, busca mensajes y llamadas anteriores con este agente o cambia entre los trabajadores de un Project que los tenga."
+        },
+        {
+          "t": "p",
+          "x": "El agente de código también habla por sí mismo. Comparte breves notas de progreso mientras trabaja y una respuesta corta al terminar, así que normalmente oyes una actualización breve en lugar de la respuesta escrita completa."
+        },
+        {
+          "t": "p",
+          "x": "El chat de voz funciona con Grok Voice. Puedes elegir entre muchas voces en Voice settings, entre ellas Ara, Eve, Leo, Rex y Sal. Con Privacy Mode activado, el chat de voz funciona con cero retención de datos."
+        },
+        {
+          "t": "p",
+          "x": "El chat de voz es distinto del dictado, que en versiones anteriores se llamaba Voice Mode. El dictado sigue convirtiendo tu voz en texto en el campo de chat, y Cmd+Shift+Space sigue activándolo y desactivándolo en el IDE. El chat de voz es una conversación bidireccional en la que el agente responde en voz alta."
+        }
+      ]
     }
   }
 }

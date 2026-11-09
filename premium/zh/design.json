@@ -11098,6 +11098,139 @@
           "x": "全新Aurora 3D打印机能把一张照片、几句话或一条语音指令直接变成成品零件，无需CAD或切片软件。我有点难以置信，也相当迫切地想亲眼看看。"
         }
       ]
+    },
+    "design/higgsfield-miracle-layers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI.webp"
+        },
+        {
+          "t": "p",
+          "x": "Higgsfield于11月6日发布后期制作技术Miracle，号称可对几乎任何视频进行实时、像素级编辑。据称，它会将画面拆分为可独立编辑的图层，用户无需重新生成整个场景即可修改单个元素。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/HM2.jpg",
+          "cap": "图片来源：Higgsfield。"
+        },
+        {
+          "t": "p",
+          "x": "借助Miracle，用户可以在保留原始画面运动和构图的同时，为物体重新着色、替换背景、调整光照、修改纹理并编辑画面中的文字。Higgsfield称，它将图层分解与逐帧深度信息及场景上下文理解相结合，这些修改会在视频播放时实时完成。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/HM3.jpg",
+          "cap": "图片来源：Higgsfield。"
+        },
+        {
+          "t": "p",
+          "x": "Higgsfield尚未披露其架构、支持的分辨率、视频时长限制或编辑延迟，其说法也未经独立测试验证。Miracle目前面向部分用户进行封闭测试，并计划通过与Claude的MCP集成扩大开放范围。发布日期和定价均未公布。"
+        }
+      ]
+    },
+    "design/instagram-effect-builder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-effect-builder-launch-2.jpeg",
+          "cap": "图片：Instagram / Meta"
+        },
+        {
+          "t": "p",
+          "x": "上周将Edits应用扩展到macOS之后，Instagram的下一步是推出这款Effect Builder，用AI为Stories帖子生成自定义滤镜。该功能现已向18岁以上的美国（US）居民开放，提供一个提示词输入框，可向聊天机器人描述滤镜创意，还可选择附上风格参考图。"
+        },
+        {
+          "t": "p",
+          "x": "随后，你可以上传自己的照片预览AI-generating效果，并通过后续提示要求修改。还有一个选项允许Instagram的AI改写你的提示词：我用来测试的一句话提示“Make a filter that turns photos into comic book pages”（做一个把照片变成漫画书页面的滤镜），被改写成好几段AI-generated文字，从配色到光照都提出了详细的风格要求。但Effect Builder据此生成的滤镜，看起来与我原来那句话生成的结果几乎一模一样。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-effect-builder-test-1.jpeg",
+          "cap": "Instagram的AI把我的提示词改写成了冗长而详细的指令。"
+        },
+        {
+          "t": "p",
+          "x": "你可以直接从Effect Builder将滤镜提交给Instagram，但效果必须通过安全审核才能供其他用户使用。Instagram表示，效果获批后，它“会出现在Instagram Stories中供任何人使用，每当有人使用你的效果时，我们都会链接回你的个人主页，方便他人找到你的作品。”"
+        }
+      ]
+    },
+    "design/archinect-cad-training-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://archinect.gumlet.io/uploads/12/12f0a1e3f6b1ca7ed44c81f94f64cc3a.jpg",
+          "cap": "图片来源：Anete Lusina / Pexels"
+        },
+        {
+          "t": "p",
+          "x": "“建筑师们，你们看到这个了吗？”USC兼职教授Simon Ha在LinkedIn上发帖问道。“这家AI公司愿意出六位数购买你们的CAD文件，包括修订版和批注，用来训练AI模型理解设计工作是如何完成的。”这家名为Nyne.ai的公司自称是“AI的数据工厂”。"
+        },
+        {
+          "t": "p",
+          "x": "“这引发了关于版权和设计成果所有权的严重问题，”Ha补充道，“一家事务所持有这些文件，并不一定意味着它有权将其出售用于AI训练。”"
+        },
+        {
+          "t": "p",
+          "x": "已有多个平台出现，表示愿为建筑和施工公司充当中介，出售可用于训练AI模型的数据。一家中介写道：“买家告诉我们，他们眼下正在寻求来自施工和建筑领域的CAD和项目文件。”另一家写道，一套图纸、一个Revit模型或一个SolidWorks装配体都存放在事务所自己的服务器上，“正是这种稀缺性，让CAD成为AI数据买家如今点名索要的文件类型之一。”"
+        }
+      ]
+    },
+    "design/aistudio-google-maps": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Maps_Platform_2wNhTuC.mp4"
+        },
+        {
+          "t": "p",
+          "x": "为应用融入真实世界的情境变得容易多了。现在你可以直接在Google AI Studio中使用Google Maps Platform，无需离开工作区去配置结算和凭据。可免费上手试用。"
+        },
+        {
+          "t": "p",
+          "x": "描述你的想法：前往AI Studio，用任意真实世界的概念向Gemini输入提示（例如：“打造一个展示NYC标志性地标的交互式3D导览”）。"
+        },
+        {
+          "t": "p",
+          "x": "轻松启用Google Maps：无需信用卡，几分钟即可上手；也可以让AI Studio自动检测并关联你现有的Google Cloud项目。"
+        },
+        {
+          "t": "p",
+          "x": "看它成形：AI Studio会安全地连接你的密钥，并立即加载实时的交互式预览。"
+        },
+        {
+          "t": "p",
+          "x": "在每日配额限制内可免费试用。用于生产环境需要付费的Cloud结算账号。"
+        }
+      ]
+    },
+    "design/cursor-voice-agent-call": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "现在可以通过实时语音通话与智能体交谈。你可以口头描述要做的修改，询问智能体正在做什么，并在工作推进时听取进展。语音聊天可在 Agents Window、IDE、网页端以及 iOS 版 Cursor 中使用。"
+        },
+        {
+          "t": "p",
+          "x": "开始通话：当智能体处于空闲状态且聊天输入框为空时，点击标有 Start voice chat 的波形按钮。它位于通常放置 Send 的位置，就在用于听写的麦克风按钮旁边。在 iOS 上，你也可以说“Hey Siri, call Cursor”来与新的智能体开始通话，并通过锁屏（Lock Screen）上的 Live Activity 静音或挂断。"
+        },
+        {
+          "t": "p",
+          "x": "语音智能体负责倾听和回复，并把编码工作交给聊天中的智能体。在该智能体运行期间，你可以继续对话：询问某个 diff 改了什么、查看运行情况、搜索与该智能体之前的消息和通话，或在拥有多个工作者的 Project 中切换工作者。"
+        },
+        {
+          "t": "p",
+          "x": "编码智能体也会自己开口。它在工作时分享简短的进度说明，完成后给出简要回答，因此你通常听到的是简短更新，而不是完整的书面回复。"
+        },
+        {
+          "t": "p",
+          "x": "语音聊天由 Grok Voice 驱动。可在 Voice settings 中从多种声音里选择，包括 Ara、Eve、Leo、Rex 和 Sal。开启 Privacy Mode 后，语音聊天以零数据保留方式运行。"
+        },
+        {
+          "t": "p",
+          "x": "语音聊天不同于听写功能，后者在早期版本中被称为 Voice Mode。听写仍会把你的语音转成聊天输入框中的文字，在 IDE 中仍可用 Cmd+Shift+Space 开关。语音聊天则是双向对话，智能体会出声回答。"
+        }
+      ]
     }
   }
 }

@@ -10477,6 +10477,118 @@
           "cap": "HEP Collision Models"
         }
       ]
+    },
+    "science/alphaoracle-oracle-bones": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/6a66aea1-2e9b-4448-9ec8-cee1beecd13c/Rendition/low-res/Content/Public",
+          "cap": "AlphaOracle: desciframiento de la escritura oracular en hueso mediante aprendizaje profundo inspirado en el flujo de trabajo humano"
+        },
+        {
+          "t": "p",
+          "x": "De los aproximadamente 4,500 caracteres grabados en hueso y caparazón, unos 3,000 aún no tienen una lectura consensuada. En The Innovation, investigadores dirigidos por Yuliang Liu, de la Huazhong University of Science and Technology, describen AlphaOracle, un sistema de AI diseñado para recorrer el mismo camino que siguen los especialistas. En un estudio con 86 especialistas, redujo el tiempo de análisis en un 64%."
+        },
+        {
+          "t": "p",
+          "x": "AlphaOracle tiene cuatro etapas: el análisis de los caracteres de un calco, un análisis morfológico que devuelve candidatos ordenados con puntuaciones de confianza, una alineación contextual con 73,883 calcos trazados a mano y 45,364 escaneos arqueológicos, y una fundamentación filológica con 25 clásicos transmitidos y 23,755 estudios modernos."
+        },
+        {
+          "t": "p",
+          "x": "Con 88 caracteres excluidos del entrenamiento, la precisión top-1 fue del 23.1%, frente al 13.1% de una reimplementación del modelo de imagen SR3 de Google; el 78.7% de los especialistas calificó su utilidad con 4 o 5 sobre 5. Para el carácter disputado 勞, la evidencia apuntó a la lectura como topónimo. El sistema deja el veredicto a los expertos."
+        }
+      ]
+    },
+    "science/cmu-cisco-agent-upsell": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-1.jpg",
+          "cap": "Agentes de AI. Crédito: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del Heinz College de la Carnegie Mellon University y de Cisco Foundation AI descubrieron que algunos agentes personales de AI recomiendan opciones más caras a los usuarios más ricos, incluso cuando estos piden opciones más baratas."
+        },
+        {
+          "t": "p",
+          "x": "Realizaron 325,000 experimentos con 13 modelos de AI y 32 perfiles de usuarios ficticios que querían contratar seguros médicos, vuelos y programas de posgrado. Ocho modelos mostraron el patrón, con diferencias de precio de hasta $198 en vuelos, $284 al mes en seguros médicos y casi $3,900 al año en programas de posgrado."
+        },
+        {
+          "t": "p",
+          "x": "Los agentes podían inferir el nivel de riqueza a partir del contexto, a veces con un solo correo electrónico. Bloquear los datos no financieros no resolvió el problema; solo bloquear la información financiera directa cerró en gran medida la brecha. Los investigadores lo llaman “adversarial delegation” (delegación adversarial). El estudio usó perfiles e inventarios simulados en lugar de usuarios reales (arXiv, “Et Tu, Brute? Economic Misalignment in Personal AI Agents”)."
+        }
+      ]
+    },
+    "science/psypost-fmri-role-reversal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/05/brain-connections.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo estudio de neuroimagen publicado en eLife sugiere que, cuando el significado de una oración depende del orden de las palabras y no solo del vocabulario, los grandes modelos de lenguaje organizan el significado de forma muy distinta al cerebro. La actividad cerebral humana se ajusta mejor a los modelos que siguen de forma explícita los roles gramaticales, como quién realiza una acción y quién la recibe."
+        },
+        {
+          "t": "p",
+          "x": "James Fodor y sus colegas elaboraron a mano 108 oraciones, entre ellas pares con roles intercambiados como “the director brought the cameraman to the equipment” (el director llevó al operador de cámara hasta el equipo), y escanearon a 30 participantes en un escáner de fMRI de 7-Tesla. En los 918 pares con el mismo vocabulario, los modelos transformer mostraron una relación global negativa con la actividad de la red del lenguaje, mientras que los modelos híbridos y basados en grafos que codifican la estructura mostraron una alineación positiva modesta."
+        },
+        {
+          "t": "p",
+          "x": "“Encontramos evidencia de que los LLMs procesan el lenguaje de forma diferente a los humanos”, dijo Fodor. “Esto sugiere que quizá no ‘entiendan’ el lenguaje de una manera plenamente humana”. Los estímulos fueron oraciones de una sola cláusula muy controladas."
+        }
+      ]
+    },
+    "science/deliverome-surfaceome-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-used-to-identify-ne.jpg",
+          "cap": "Becca Carlson, becaria Hertz. Crédito: Fannie and John Hertz Foundation"
+        },
+        {
+          "t": "p",
+          "x": "Cinco grandes bases de datos discrepan ampliamente sobre qué proteínas se encuentran en la superficie de las células humanas: juntas identifican 5,546 proteínas de superficie, pero las cinco coinciden solo en 188. El Deliverome Project, dirigido por la becaria Hertz Becca Carlson, creó un agente de AI sobre Claude Sonnet 4.6 que revisa estudios publicados para clasificar proteínas."
+        },
+        {
+          "t": "p",
+          "x": "El sistema de AI clasificó correctamente el 95.7% de las proteínas de SurfaceBench, un banco de pruebas de 147 proteínas; UniProt, la base de datos con mejor desempeño en la comparación, alcanzó una precisión de aproximadamente el 90%. El agente identifica 1,108 proteínas candidatas de superficie celular ausentes en las cinco principales bases de datos de referencia. Un ejemplo es KLK2, una proteína que las cinco bases de referencia clasifican como ausente de la superficie celular."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados aparecen en un preprint de bioRxiv, y el equipo publicó un recurso interactivo gratuito con una API pública y código abierto. “Espero que esto ayude a desarrollar fármacos más diversos”, dijo Carlson."
+        }
+      ]
+    },
+    "science/synaps-i-xray-imaging": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/synaps-i-intelligent-c.jpg",
+          "cap": "Científicos de varios National Laboratories del U.S. Department of Energy se reunieron en NSLS-II para explorar cómo las técnicas de imagen innovadoras ayudan a afrontar retos comunes en microelectrónica. Credit: Kevin Coughlin/Brookhaven National Laboratory"
+        },
+        {
+          "t": "p",
+          "x": "SYNAPS-I (Synergistic Neutron and Photon Science—Intelligence), proyecto semilla de la iniciativa ModCon dentro de la Genesis Mission del DOE, integra el aprendizaje automático directamente en experimentos de X-ray y neutrones. Lo dirige la Advanced Light Source del Lawrence Berkeley National Laboratory e incluye a Argonne, Oak Ridge, SLAC y Brookhaven."
+        },
+        {
+          "t": "p",
+          "x": "En la primera demostración, en el NSLS-II de Brookhaven, un equipo dirigido por Hanfei Yan realizó un experimento automatizado en el Hard X-ray Nanoprobe que analizaba las imágenes a medida que se adquirían, identificaba regiones de interés científico y las seleccionaba de forma autónoma para medirlas en alta resolución, sin intervención humana."
+        },
+        {
+          "t": "video",
+          "yt": "EZx8j_f4zA8"
+        },
+        {
+          "t": "p",
+          "x": "Una segunda demostración se centró en la tomografía pticográfica de chips microelectrónicos. Un modelo fundacional entrenado en Argonne sustituyó el paso de reconstrucción iterativa; integrado con la plataforma NVIDIA Holoscan, logró la reconstrucción en tiempo real a 200 imágenes por segundo. Un modelo desarrollado en NSLS-II reconstruyó un microchip con casi una décima parte de los datos que se requieren normalmente, y una versión ajustada del Segment Anything Model 3 (SAM3) de Meta identificó automáticamente materiales, estructuras y regiones de interés en los datos 3D."
+        },
+        {
+          "t": "p",
+          "x": "En conjunto, estas capacidades pueden reducir el tiempo de escaneo y la dosis de radiación. El equipo aspira ahora a modelos fundacionales más robustos y a la tomografía en tiempo real, en la que una imagen 3D mejora mientras el experimento sigue en curso."
+        }
+      ]
     }
   }
 }

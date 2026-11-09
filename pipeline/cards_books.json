@@ -1,191 +1,221 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "section": "books",
   "cards": [
     {
-      "id": "vellum-automation-rollback",
+      "id": "books-medium-tk-app",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Vellum, AI 자동화\n작가 반발에 철회",
-      "body": "인디 작가 반발에 Vellum이 4.2.1에서 Automation을 뺐다.",
-      "mini_headline": "Vellum, AI 자동화 철회",
+      "headline": "Medium의 TK 앱\n글쓰기에 AI를 들였다",
+      "body": "출판계 AI 논란 속에 Medium이 AI 보조 기능을 담은 새 앱 TK를 냈다.",
+      "mini_headline": "Medium TK 앱에 AI 탑재",
       "tool": "Books",
-      "source": "SMBtech",
-      "url": "https://smbtech.au/news/macbook-book-formatting-tool-vellum-reverses-course-on-ai-automation-after-author-backlash/",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "독립 작가 수천 명이 쓰는 Mac 기반 책 조판 앱 Vellum이 사용자들의 거센 비판에 밀려 AI 자동화 기능 통합 결정을 뒤집었다. 세 명으로 이뤄진 개발팀은 기능을 선보인 지 며칠 만에 4.2.1 버전에서 이를 뺐다."
+            "t": "img",
+            "src": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675",
+            "cap": "Image Credits: Medium (TK app)"
           },
           {
             "t": "p",
-            "x": "Automation은 작가가 외부 AI 어시스턴트를 플랫폼에 연결할 수 있게 만든 기능이다. 출간 목록이 많은 작가가 후기 부속물 갱신, 여러 책에 걸친 수정, 박스 세트 제작처럼 반복되는 출판 작업을 관리하도록 돕자는 취지였다. 개발자들은 AI-generated 글쓰기를 장려하려는 것이 아니라고 분명히 했다."
+            "x": "온라인 출판 플랫폼 Medium이 월요일 TK라는 새 앱을 출시했다. 글쓰기 과정 깊숙이 AI 기술을 들이겠다는 앱이다. 이용자가 편집기 안 AI 어시스턴트에 “@TK”를 입력하고 요청이나 프롬프트를 적으면 도움을 받는다."
           },
           {
             "t": "p",
-            "x": "작가 커뮤니티의 반응은 즉각적이었고, 부정적이었다. “여러분의 이메일과 Threads 게시물, 그리고 수많은 이모지를 읽었습니다.” 팀은 직원 세 명 Brad, Brad, Katharine의 이름으로 사용자들에게 보낸 이메일에서 이렇게 밝혔다. “많은 작가가 AI를 우려한다는 것을 알았기에 Vellum에 AI를 넣지 않기로 했습니다… 하지만 Vellum이 AI 어시스턴트와 함께 작동하는 것 자체에 여러분이 얼마나 강하게 반대할지는 과소평가했습니다.”"
+            "x": "어시스턴트는 간단한 질문에 답하고 앱에 저장해 둔 글 조각을 불러온다. 편집과 헤드라인 피드백, 초안을 Medium 퍼블리케이션 스타일 가이드에 맞추는 스킬도 기본으로 들어 있다."
           },
           {
             "t": "p",
-            "x": "4.2.1 버전에서 Automation은 소프트웨어에서 완전히 빠졌다. 팀은 이번 결정이 모두를 만족시키지는 못할 것이라고 인정했다. 어떤 AI 통합에도 근본적으로 반대한 작가가 있었던 반면, 이를 반긴 작가도 있었기 때문이다. 팀은 “제거가 우리가 내릴 수 있는 최선의 결정이라고 믿습니다”라고 밝혔다."
+            "x": "AI 사용 의혹으로 여러 작가가 출간 계약을 잃고 문학상이 검증대에 오른 때라 논란을 부를 만하다. Medium은 “인공지능은 글쓰기를 덜 중요하게 만들지 않고 더 중요하게 만든다”고 말한다."
+          },
+          {
+            "t": "img",
+            "src": "https://techcrunch.com/wp-content/uploads/2026/11/TK-UI-HeaderFeature-BNgQWN8G.png"
           },
           {
             "t": "p",
-            "x": "Vellum은 Kindle, Kobo, Apple Books용 전자책과 인쇄본을 만드는 Mac 전용 도구다. Vellum Press는 $390, Vellum Ebooks는 $310이다."
+            "x": "우려를 덜려고 TK는 작가가 글에 AI를 어떻게 썼는지 투명하게 밝히는 노트를 올릴 수 있게 했다. TK의 MCP 서버나 Claude 스킬로 이용자의 AI 에이전트와도 이어진다. TK는 웹에서 바로 쓸 수 있고 데스크톱 앱은 로드맵에 올라 있다. Medium 계정만 있으면 무료다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Vellum pulls its AI automation\nafter indie author backlash",
-          "body": "Vellum removed its Automation feature in version 4.2.1, days after launch, following criticism from indie authors.",
-          "mini_headline": "Vellum drops AI automation",
+          "headline": "Medium's TK app puts AI\ninside the writing process",
+          "body": "Medium's new TK writing app builds in AI assistance despite growing controversy over AI in publishing.",
+          "mini_headline": "Medium's TK app adds AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Vellum, the Mac-based book formatting application used by thousands of independent authors, has reversed its decision to integrate AI automation features after a wave of criticism from its user base. The three-person development team behind the software pulled the feature in version 4.2.1, just days after introducing it."
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675",
+                "cap": "Image Credits: Medium (TK app)"
               },
               {
                 "t": "p",
-                "x": "The Automation feature was designed to let authors connect external AI assistants to the platform, to help authors with large back catalogues manage repetitive publishing tasks such as updating back matter, making fixes across multiple books and building box sets. The developers were clear it was not intended to encourage AI-generated writing."
+                "x": "Online publishing platform Medium on Monday launched a new app, called TK, which aims to bring AI technology deeper into the writing process. Users can ask the AI assistant built into the editor for help by typing “@TK” followed by their request or prompt."
               },
               {
                 "t": "p",
-                "x": "The response from the author community was immediate and negative. “We’ve read your emails, your Threads posts, and a plethora of emojis,” the team wrote in an email to users signed by its three staff members – Brad, Brad and Katharine. “We knew many authors had concerns about AI, which is why we chose not to build AI into Vellum… But we underestimated how strongly many of you would object to Vellum working with AI assistants at all.”"
+                "x": "The assistant can answer quick questions, pull in bits of writing previously saved to the app, and ship with skills for editorial feedback, headline feedback and matching a draft to the style guide for Medium publications."
               },
               {
                 "t": "p",
-                "x": "With version 4.2.1, Automation has been entirely removed from the software. The team acknowledged the decision would not satisfy everyone: some authors were fundamentally opposed to any AI integration, while others had been enthusiastic. “We believe removing it is the best decision we can make,” the team stated."
+                "x": "The move could prove controversial at a time when multiple authors have lost book deals over suspicions that they used AI, and literary awards have come under scrutiny. Medium says “artificial intelligence makes writing more important, not less.”"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/TK-UI-HeaderFeature-BNgQWN8G.png"
               },
               {
                 "t": "p",
-                "x": "Vellum is a Mac-only tool for creating ebooks and print editions for Kindle, Kobo and Apple Books. Vellum Press is priced at $390 and Vellum Ebooks at $310."
+                "x": "To address concerns, TK lets authors publish notes that transparently explain how AI was used in their writing. The app can also connect to your own AI agent through TK’s MCP server or Claude skill. TK is available on the web, with a desktop app on the roadmap, and will be free for those with a Medium account."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Vellum, AI 자동화\n작가 반발에 철회",
-          "body": "인디 작가 반발에 Vellum이 4.2.1에서 Automation을 뺐다.",
-          "mini_headline": "Vellum, AI 자동화 철회",
+          "headline": "Medium의 TK 앱\n글쓰기에 AI를 들였다",
+          "body": "출판계 AI 논란 속에 Medium이 AI 보조 기능을 담은 새 앱 TK를 냈다.",
+          "mini_headline": "Medium TK 앱에 AI 탑재",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "독립 작가 수천 명이 쓰는 Mac 기반 책 조판 앱 Vellum이 사용자들의 거센 비판에 밀려 AI 자동화 기능 통합 결정을 뒤집었다. 세 명으로 이뤄진 개발팀은 기능을 선보인 지 며칠 만에 4.2.1 버전에서 이를 뺐다."
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675",
+                "cap": "Image Credits: Medium (TK app)"
               },
               {
                 "t": "p",
-                "x": "Automation은 작가가 외부 AI 어시스턴트를 플랫폼에 연결할 수 있게 만든 기능이다. 출간 목록이 많은 작가가 후기 부속물 갱신, 여러 책에 걸친 수정, 박스 세트 제작처럼 반복되는 출판 작업을 관리하도록 돕자는 취지였다. 개발자들은 AI-generated 글쓰기를 장려하려는 것이 아니라고 분명히 했다."
+                "x": "온라인 출판 플랫폼 Medium이 월요일 TK라는 새 앱을 출시했다. 글쓰기 과정 깊숙이 AI 기술을 들이겠다는 앱이다. 이용자가 편집기 안 AI 어시스턴트에 “@TK”를 입력하고 요청이나 프롬프트를 적으면 도움을 받는다."
               },
               {
                 "t": "p",
-                "x": "작가 커뮤니티의 반응은 즉각적이었고, 부정적이었다. “여러분의 이메일과 Threads 게시물, 그리고 수많은 이모지를 읽었습니다.” 팀은 직원 세 명 Brad, Brad, Katharine의 이름으로 사용자들에게 보낸 이메일에서 이렇게 밝혔다. “많은 작가가 AI를 우려한다는 것을 알았기에 Vellum에 AI를 넣지 않기로 했습니다… 하지만 Vellum이 AI 어시스턴트와 함께 작동하는 것 자체에 여러분이 얼마나 강하게 반대할지는 과소평가했습니다.”"
+                "x": "어시스턴트는 간단한 질문에 답하고 앱에 저장해 둔 글 조각을 불러온다. 편집과 헤드라인 피드백, 초안을 Medium 퍼블리케이션 스타일 가이드에 맞추는 스킬도 기본으로 들어 있다."
               },
               {
                 "t": "p",
-                "x": "4.2.1 버전에서 Automation은 소프트웨어에서 완전히 빠졌다. 팀은 이번 결정이 모두를 만족시키지는 못할 것이라고 인정했다. 어떤 AI 통합에도 근본적으로 반대한 작가가 있었던 반면, 이를 반긴 작가도 있었기 때문이다. 팀은 “제거가 우리가 내릴 수 있는 최선의 결정이라고 믿습니다”라고 밝혔다."
+                "x": "AI 사용 의혹으로 여러 작가가 출간 계약을 잃고 문학상이 검증대에 오른 때라 논란을 부를 만하다. Medium은 “인공지능은 글쓰기를 덜 중요하게 만들지 않고 더 중요하게 만든다”고 말한다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/TK-UI-HeaderFeature-BNgQWN8G.png"
               },
               {
                 "t": "p",
-                "x": "Vellum은 Kindle, Kobo, Apple Books용 전자책과 인쇄본을 만드는 Mac 전용 도구다. Vellum Press는 $390, Vellum Ebooks는 $310이다."
+                "x": "우려를 덜려고 TK는 작가가 글에 AI를 어떻게 썼는지 투명하게 밝히는 노트를 올릴 수 있게 했다. TK의 MCP 서버나 Claude 스킬로 이용자의 AI 에이전트와도 이어진다. TK는 웹에서 바로 쓸 수 있고 데스크톱 앱은 로드맵에 올라 있다. Medium 계정만 있으면 무료다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "VellumがAI自動化\n作家の反発で撤回",
-          "body": "Vellumはインディー作家の批判を受け、4.2.1でAutomation機能を削除した。",
-          "mini_headline": "VellumがAI自動化を撤回",
+          "headline": "MediumのTKアプリ\n執筆過程にAIを統合",
+          "body": "Mediumの新しい執筆アプリTKは、出版界のAI論争が強まる中でAI支援を組み込んだ。",
+          "mini_headline": "MediumのTKアプリにAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "数千人の独立系作家が使うMac向けの書籍組版アプリVellumは、ユーザーからの批判の高まりを受け、AI自動化機能を統合する決定を覆した。ソフトウェアを手がける三人の開発チームは、機能を導入してからわずか数日後、バージョン4.2.1でこれを取り下げた。"
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675",
+                "cap": "Image Credits: Medium (TK app)"
               },
               {
                 "t": "p",
-                "x": "Automation機能は、作家が外部のAIアシスタントをプラットフォームに接続できるよう設計されたもので、既刊の多い作家が巻末資料の更新、複数の本にまたがる修正、ボックスセットの作成といった反復的な出版作業をこなす手助けを狙っていた。開発者は、AI-generatedな執筆を促す意図はないと明言していた。"
+                "x": "オンライン出版プラットフォームのMediumは月曜日、執筆過程にAI技術をより深く取り込むことを目指す新アプリ「TK」を公開した。ユーザーはエディターに内蔵されたAIアシスタントに「@TK」と入力し、続けて依頼やプロンプトを書くことで支援を受けられる。"
               },
               {
                 "t": "p",
-                "x": "作家コミュニティの反応は即座で、否定的だった。「皆さんのメール、Threadsの投稿、そして大量の絵文字を読みました」。チームは三人のスタッフ、Brad、Brad、Katharineの署名入りでユーザーに送ったメールにこう記した。「多くの作家がAIに懸念を抱いていることは知っていました。だからこそVellumにAIを組み込まないことにしたのです…しかし、VellumがAIアシスタントと連携すること自体に、これほど多くの方が強く反対するとは見誤っていました」"
+                "x": "アシスタントは簡単な質問に答え、アプリに保存した文章の断片を呼び出せる。編集上のフィードバック、見出しへのフィードバック、Mediumのパブリケーション向けスタイルガイドに草稿を合わせるスキルも備える。"
               },
               {
                 "t": "p",
-                "x": "バージョン4.2.1で、Automationはソフトウェアから完全に削除された。チームは、この決定がすべての人を満足させるものではないと認めた。AI統合そのものに根本的に反対する作家もいれば、歓迎していた作家もいたからだ。「削除することが、私たちにできる最善の決定だと考えています」とチームは述べた。"
+                "x": "AI使用の疑いで複数の作家が出版契約を失い、文学賞も厳しい目にさらされている時期だけに、今回の動きは論争を呼ぶ可能性がある。Mediumは「人工知能は書くことの重要性を下げるのではなく、高める」としている。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/TK-UI-HeaderFeature-BNgQWN8G.png"
               },
               {
                 "t": "p",
-                "x": "Vellumは、Kindle、Kobo、Apple Books向けの電子書籍と印刷版を作るMac専用ツールだ。価格はVellum Pressが$390、Vellum Ebooksが$310である。"
+                "x": "懸念に応えるため、TKでは作家が執筆にAIをどう使ったかを透明に説明するノートを公開できる。アプリはTKのMCPサーバーやClaudeスキルを通じて自分のAIエージェントとも接続できる。TKはウェブで利用でき、デスクトップアプリはロードマップに入っている。Mediumアカウントを持つ人は無料で使える。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Vellum撤下AI自动化\n源于独立作者的反弹",
-          "body": "Vellum因独立作者批评，在上线数天后于4.2.1版移除了Automation功能。",
-          "mini_headline": "Vellum撤下AI自动化",
+          "headline": "Medium推出TK应用\n把AI带入写作过程",
+          "body": "Medium新写作应用TK在出版界AI争议升温之际内置了AI辅助功能。",
+          "mini_headline": "Medium TK应用加入AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Vellum是一款基于Mac的图书排版应用，被数千名独立作者使用。在用户群体掀起一波批评后，它撤回了集成AI自动化功能的决定。这款软件背后的三人开发团队在推出该功能仅数天后，就在4.2.1版中将其撤下。"
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675",
+                "cap": "Image Credits: Medium (TK app)"
               },
               {
                 "t": "p",
-                "x": "Automation功能旨在让作者将外部AI助手接入平台，帮助拥有大量旧作的作者处理重复性出版任务，例如更新书末附录、对多本书进行修改以及制作套装合集。开发者明确表示，此举并非为了鼓励AI-generated写作。"
+                "x": "在线出版平台Medium周一推出名为TK的新应用，旨在把AI技术更深地融入写作过程。用户在编辑器中输入“@TK”并接上请求或提示词，即可向内置的AI助手求助。"
               },
               {
                 "t": "p",
-                "x": "作者社群的反应迅速且负面。“我们读了你们的邮件、你们在Threads上的帖子，还有大量表情符号，”团队在一封由三名员工Brad、Brad和Katharine署名的用户邮件中写道。“我们知道许多作者对AI有顾虑，所以我们选择不在Vellum中内置AI……但我们低估了你们中许多人对Vellum与AI助手协作这件事本身的反对之强烈。”"
+                "x": "该助手可以回答简单问题，调取此前保存在应用中的文字片段，并自带编辑反馈、标题反馈以及按Medium刊物风格指南调整草稿的技能。"
               },
               {
                 "t": "p",
-                "x": "在4.2.1版中，Automation已从软件中彻底移除。团队承认，这一决定无法让所有人满意：一些作者从根本上反对任何AI集成，另一些作者则曾热情欢迎。团队表示：“我们相信，移除它是我们能做出的最好决定。”"
+                "x": "此举可能引发争议：多位作家因被怀疑使用AI而失去出书合约，文学奖项也受到审视。Medium表示，“人工智能让写作变得更重要，而不是更不重要。”"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/TK-UI-HeaderFeature-BNgQWN8G.png"
               },
               {
                 "t": "p",
-                "x": "Vellum是一款仅限Mac的工具，用于为Kindle、Kobo和Apple Books制作电子书和印刷版。Vellum Press售价$390，Vellum Ebooks售价$310。"
+                "x": "为回应担忧，TK允许作者发布说明，透明地交代AI在写作中的使用方式。该应用还能通过TK的MCP服务器或Claude技能连接用户自己的AI代理。TK目前可在网页端使用，桌面应用已列入路线图，拥有Medium账户的用户可免费使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Vellum retira su función de AI\ntras críticas de autores indie",
-          "body": "Vellum eliminó su función Automation en la versión 4.2.1, días después de lanzarla, tras críticas de autores indie.",
-          "mini_headline": "Vellum abandona la automatización con AI",
+          "headline": "La app TK de Medium lleva la AI\nal proceso de escritura",
+          "body": "La nueva app de escritura TK de Medium integra asistencia de AI pese a la creciente polémica por la AI en la edición.",
+          "mini_headline": "Medium añade AI con la app TK",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Vellum, la aplicación de maquetación de libros para Mac que usan miles de autores independientes, ha revertido su decisión de integrar funciones de automatización con AI tras una ola de críticas de sus usuarios. El equipo de desarrollo de tres personas detrás del software retiró la función en la versión 4.2.1, apenas unos días después de presentarla."
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675",
+                "cap": "Image Credits: Medium (TK app)"
               },
               {
                 "t": "p",
-                "x": "La función Automation se diseñó para que los autores conectaran asistentes de AI externos a la plataforma, con el fin de ayudar a quienes tienen amplios catálogos a gestionar tareas editoriales repetitivas, como actualizar las páginas finales, hacer correcciones en varios libros a la vez y crear colecciones en estuche. Los desarrolladores dejaron claro que no pretendía fomentar la escritura AI-generated."
+                "x": "La plataforma de publicación en línea Medium lanzó el lunes una nueva app llamada TK, que busca llevar la tecnología de AI más a fondo en el proceso de escritura. Los usuarios pueden pedir ayuda al asistente de AI integrado en el editor escribiendo “@TK” seguido de su solicitud o prompt."
               },
               {
                 "t": "p",
-                "x": "La respuesta de la comunidad de autores fue inmediata y negativa. «Hemos leído sus correos, sus publicaciones en Threads y una infinidad de emojis», escribió el equipo en un correo a los usuarios firmado por sus tres empleados: Brad, Brad y Katharine. «Sabíamos que muchos autores tenían reservas sobre la AI, y por eso decidimos no incorporar AI en Vellum… Pero subestimamos con cuánta fuerza muchos de ustedes se opondrían a que Vellum funcionara con asistentes de AI en absoluto.»"
+                "x": "El asistente puede responder preguntas rápidas, recuperar fragmentos de textos guardados previamente en la app e incluye habilidades para dar comentarios editoriales, opinar sobre titulares y ajustar un borrador a la guía de estilo de las publicaciones de Medium."
               },
               {
                 "t": "p",
-                "x": "Con la versión 4.2.1, Automation se ha eliminado por completo del software. El equipo reconoció que la decisión no satisfaría a todos: algunos autores se oponían de raíz a cualquier integración de AI, mientras que otros la habían recibido con entusiasmo. «Creemos que eliminarla es la mejor decisión que podemos tomar», afirmó el equipo."
+                "x": "La medida podría resultar polémica en un momento en que varios autores han perdido contratos editoriales por sospechas de haber usado AI y los premios literarios están bajo escrutinio. Medium afirma que “la inteligencia artificial hace que escribir sea más importante, no menos”."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/TK-UI-HeaderFeature-BNgQWN8G.png"
               },
               {
                 "t": "p",
-                "x": "Vellum es una herramienta exclusiva para Mac que permite crear libros electrónicos y ediciones impresas para Kindle, Kobo y Apple Books. Vellum Press cuesta $390 y Vellum Ebooks, $310."
+                "x": "Para atender las preocupaciones, TK permite a los autores publicar notas que explican con transparencia cómo se usó la AI en su escritura. La app también puede conectarse con el agente de AI propio del usuario a través del servidor MCP de TK o de la skill de Claude. TK está disponible en la web, con una app de escritorio en la hoja de ruta, y será gratuita para quienes tengan una cuenta de Medium."
               }
             ]
           }
@@ -193,121 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Vellum, AI 자동화\n작가 반발에 철회",
-          "body": "인디 작가 반발에 Vellum이 4.2.1에서 Automation을 뺐다.",
-          "mini_headline": "Vellum, AI 자동화 철회",
+          "headline": "Medium의 TK 앱\n글쓰기 과정에 AI 탑재",
+          "body": "Medium의 새 앱 TK가 출판계 AI 논란 속에 AI 보조 기능을 담았다.",
+          "mini_headline": "Medium TK 앱에 AI 탑재",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "수천 명의 독립 작가가 쓰는 Mac 기반 책 조판 앱 Vellum이 사용자들의 거센 비판에 밀려 AI 자동화 기능을 통합하려던 결정을 뒤집었다. 소프트웨어를 만드는 세 명의 개발팀은 기능을 선보인 지 며칠 만에 4.2.1 버전에서 이를 뺐다."
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675",
+                "cap": "Image Credits: Medium (TK app)"
               },
               {
                 "t": "p",
-                "x": "Automation 기능은 작가가 외부 AI 어시스턴트를 플랫폼에 연결하도록 설계됐다. 출간 목록이 많은 작가가 후기 부속물 갱신, 여러 책에 걸친 수정, 박스 세트 제작 같은 반복적인 출판 작업을 관리하도록 돕는 것이 목적이었다. 개발자들은 AI-generated 글쓰기를 장려하려는 의도가 아니라고 분명히 했다."
+                "x": "온라인 출판 플랫폼 Medium이 월요일 TK라는 새 앱을 출시했다. 글쓰기 과정 깊숙이 AI 기술을 들이려는 앱이다. 이용자는 편집기에 내장된 AI 어시스턴트에 “@TK”를 입력한 뒤 요청이나 프롬프트를 적어 도움을 받을 수 있다."
               },
               {
                 "t": "p",
-                "x": "작가 커뮤니티의 반응은 즉각적이고 부정적이었다. “여러분의 이메일과 Threads 게시물, 그리고 수많은 이모지를 읽었습니다.” 팀은 세 직원 Brad, Brad, Katharine의 이름으로 사용자에게 보낸 이메일에 이렇게 썼다. “많은 작가가 AI를 우려한다는 것을 알았기에 Vellum에 AI를 넣지 않기로 했습니다… 하지만 Vellum이 AI 어시스턴트와 함께 작동하는 것 자체에 여러분이 얼마나 강하게 반대할지는 과소평가했습니다.”"
+                "x": "어시스턴트는 간단한 질문에 답하고, 앱에 저장해 둔 글 조각을 불러온다. 편집 피드백, 헤드라인 피드백, 초안을 Medium 퍼블리케이션 스타일 가이드에 맞추는 스킬도 기본으로 갖췄다."
               },
               {
                 "t": "p",
-                "x": "4.2.1 버전에서 Automation은 소프트웨어에서 완전히 사라졌다. 팀은 이 결정이 모두를 만족시키지는 못할 것이라고 인정했다. 일부 작가는 어떤 AI 통합에도 근본적으로 반대했고, 다른 작가들은 이를 반겼기 때문이다. 팀은 “제거가 우리가 내릴 수 있는 최선의 결정이라고 믿습니다”라고 밝혔다."
+                "x": "AI 사용 의혹으로 여러 작가가 출간 계약을 잃고 문학상이 검증대에 오른 시점이어서 논란이 될 수 있다. Medium은 “인공지능은 글쓰기를 덜 중요하게 만들지 않고 더 중요하게 만든다”고 말한다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/TK-UI-HeaderFeature-BNgQWN8G.png"
               },
               {
                 "t": "p",
-                "x": "Vellum은 Kindle, Kobo, Apple Books용 전자책과 인쇄본을 만드는 Mac 전용 도구다. Vellum Press는 $390, Vellum Ebooks는 $310이다."
+                "x": "우려를 덜기 위해 TK는 작가가 글에 AI를 어떻게 썼는지 투명하게 설명하는 노트를 게시할 수 있게 했다. 앱은 TK의 MCP 서버나 Claude 스킬을 통해 이용자의 AI 에이전트와도 연결된다. TK는 웹에서 쓸 수 있고 데스크톱 앱은 로드맵에 있으며, Medium 계정이 있으면 무료다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "VellumがAI自動化\n作家の反発で撤回",
-          "body": "Vellumはインディー作家の批判を受け、4.2.1でAutomation機能を削除した。",
-          "mini_headline": "VellumがAI自動化を撤回",
+          "headline": "MediumのTKアプリ\n執筆過程にAIを統合",
+          "body": "Mediumの新しい執筆アプリTKは、出版界のAI論争が強まる中でAI支援を組み込んだ。",
+          "mini_headline": "MediumのTKアプリにAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "数千人の独立系作家が使うMac向けの書籍組版アプリVellumは、ユーザーからの批判の高まりを受け、AI自動化機能を統合する決定を覆した。ソフトウェアを手がける三人の開発チームは、機能を導入してからわずか数日後、バージョン4.2.1でこれを取り下げた。"
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675",
+                "cap": "Image Credits: Medium (TK app)"
               },
               {
                 "t": "p",
-                "x": "Automation機能は、作家が外部のAIアシスタントをプラットフォームに接続できるよう設計されたもので、既刊の多い作家が巻末資料の更新、複数の本にまたがる修正、ボックスセットの作成といった反復的な出版作業をこなす手助けを狙っていた。開発者は、AI-generatedな執筆を促す意図はないと明言していた。"
+                "x": "オンライン出版プラットフォームのMediumは月曜日、執筆過程にAI技術をより深く取り込むことを目指す新アプリ「TK」を公開した。ユーザーはエディターに内蔵されたAIアシスタントに「@TK」と入力し、続けて依頼やプロンプトを書くことで支援を受けられる。"
               },
               {
                 "t": "p",
-                "x": "作家コミュニティの反応は即座で、否定的だった。「皆さんのメール、Threadsの投稿、そして大量の絵文字を読みました」。チームは三人のスタッフ、Brad、Brad、Katharineの署名入りでユーザーに送ったメールにこう記した。「多くの作家がAIに懸念を抱いていることは知っていました。だからこそVellumにAIを組み込まないことにしたのです…しかし、VellumがAIアシスタントと連携すること自体に、これほど多くの方が強く反対するとは見誤っていました」"
+                "x": "アシスタントは簡単な質問に答え、アプリに保存した文章の断片を呼び出せる。編集上のフィードバック、見出しへのフィードバック、Mediumのパブリケーション向けスタイルガイドに草稿を合わせるスキルも備える。"
               },
               {
                 "t": "p",
-                "x": "バージョン4.2.1で、Automationはソフトウェアから完全に削除された。チームは、この決定がすべての人を満足させるものではないと認めた。AI統合そのものに根本的に反対する作家もいれば、歓迎していた作家もいたからだ。「削除することが、私たちにできる最善の決定だと考えています」とチームは述べた。"
+                "x": "AI使用の疑いで複数の作家が出版契約を失い、文学賞も厳しい目にさらされている時期だけに、今回の動きは論争を呼ぶ可能性がある。Mediumは「人工知能は書くことの重要性を下げるのではなく、高める」としている。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/TK-UI-HeaderFeature-BNgQWN8G.png"
               },
               {
                 "t": "p",
-                "x": "Vellumは、Kindle、Kobo、Apple Books向けの電子書籍と印刷版を作るMac専用ツールだ。価格はVellum Pressが$390、Vellum Ebooksが$310である。"
+                "x": "懸念に応えるため、TKでは作家が執筆にAIをどう使ったかを透明に説明するノートを公開できる。アプリはTKのMCPサーバーやClaudeスキルを通じて自分のAIエージェントとも接続できる。TKはウェブで利用でき、デスクトップアプリはロードマップに入っている。Mediumアカウントを持つ人は無料で使える。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Vellum撤下AI自动化\n源于独立作者的反弹",
-          "body": "Vellum因独立作者批评，在上线数天后于4.2.1版移除了Automation功能。",
-          "mini_headline": "Vellum撤下AI自动化",
+          "headline": "Medium推出TK应用\n把AI带入写作过程",
+          "body": "Medium新写作应用TK在出版界AI争议升温之际内置了AI辅助功能。",
+          "mini_headline": "Medium TK应用加入AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Vellum是一款基于Mac的图书排版应用，被数千名独立作者使用。在用户群体掀起一波批评后，它撤回了集成AI自动化功能的决定。这款软件背后的三人开发团队在推出该功能仅数天后，就在4.2.1版中将其撤下。"
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675",
+                "cap": "Image Credits: Medium (TK app)"
               },
               {
                 "t": "p",
-                "x": "Automation功能旨在让作者将外部AI助手接入平台，帮助拥有大量旧作的作者处理重复性出版任务，例如更新书末附录、对多本书进行修改以及制作套装合集。开发者明确表示，此举并非为了鼓励AI-generated写作。"
+                "x": "在线出版平台Medium周一推出名为TK的新应用，旨在把AI技术更深地融入写作过程。用户在编辑器中输入“@TK”并接上请求或提示词，即可向内置的AI助手求助。"
               },
               {
                 "t": "p",
-                "x": "作者社群的反应迅速且负面。“我们读了你们的邮件、你们在Threads上的帖子，还有大量表情符号，”团队在一封由三名员工Brad、Brad和Katharine署名的用户邮件中写道。“我们知道许多作者对AI有顾虑，所以我们选择不在Vellum中内置AI……但我们低估了你们中许多人对Vellum与AI助手协作这件事本身的反对之强烈。”"
+                "x": "该助手可以回答简单问题，调取此前保存在应用中的文字片段，并自带编辑反馈、标题反馈以及按Medium刊物风格指南调整草稿的技能。"
               },
               {
                 "t": "p",
-                "x": "在4.2.1版中，Automation已从软件中彻底移除。团队承认，这一决定无法让所有人满意：一些作者从根本上反对任何AI集成，另一些作者则曾热情欢迎。团队表示：“我们相信，移除它是我们能做出的最好决定。”"
+                "x": "此举可能引发争议：多位作家因被怀疑使用AI而失去出书合约，文学奖项也受到审视。Medium表示，“人工智能让写作变得更重要，而不是更不重要。”"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/TK-UI-HeaderFeature-BNgQWN8G.png"
               },
               {
                 "t": "p",
-                "x": "Vellum是一款仅限Mac的工具，用于为Kindle、Kobo和Apple Books制作电子书和印刷版。Vellum Press售价$390，Vellum Ebooks售价$310。"
+                "x": "为回应担忧，TK允许作者发布说明，透明地交代AI在写作中的使用方式。该应用还能通过TK的MCP服务器或Claude技能连接用户自己的AI代理。TK目前可在网页端使用，桌面应用已列入路线图，拥有Medium账户的用户可免费使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Vellum retira su función de AI\ntras críticas de autores indie",
-          "body": "Vellum eliminó su función Automation en la versión 4.2.1, días después de lanzarla, tras críticas de autores indie.",
-          "mini_headline": "Vellum abandona la automatización con AI",
+          "headline": "La app TK de Medium lleva la AI\nal proceso de escritura",
+          "body": "La nueva app de escritura TK de Medium integra asistencia de AI pese a la creciente polémica por la AI en la edición.",
+          "mini_headline": "Medium añade AI con la app TK",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Vellum, la aplicación de maquetación de libros para Mac que usan miles de autores independientes, ha revertido su decisión de integrar funciones de automatización con AI tras una ola de críticas de sus usuarios. El equipo de desarrollo de tres personas detrás del software retiró la función en la versión 4.2.1, apenas unos días después de presentarla."
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675",
+                "cap": "Image Credits: Medium (TK app)"
               },
               {
                 "t": "p",
-                "x": "La función Automation se diseñó para que los autores conectaran asistentes de AI externos a la plataforma, con el fin de ayudar a quienes tienen amplios catálogos a gestionar tareas editoriales repetitivas, como actualizar las páginas finales, hacer correcciones en varios libros a la vez y crear colecciones en estuche. Los desarrolladores dejaron claro que no pretendía fomentar la escritura AI-generated."
+                "x": "La plataforma de publicación en línea Medium lanzó el lunes una nueva app llamada TK, que busca llevar la tecnología de AI más a fondo en el proceso de escritura. Los usuarios pueden pedir ayuda al asistente de AI integrado en el editor escribiendo “@TK” seguido de su solicitud o prompt."
               },
               {
                 "t": "p",
-                "x": "La respuesta de la comunidad de autores fue inmediata y negativa. «Hemos leído sus correos, sus publicaciones en Threads y una infinidad de emojis», escribió el equipo en un correo a los usuarios firmado por sus tres empleados: Brad, Brad y Katharine. «Sabíamos que muchos autores tenían reservas sobre la AI, y por eso decidimos no incorporar AI en Vellum… Pero subestimamos con cuánta fuerza muchos de ustedes se opondrían a que Vellum funcionara con asistentes de AI en absoluto.»"
+                "x": "El asistente puede responder preguntas rápidas, recuperar fragmentos de textos guardados previamente en la app e incluye habilidades para dar comentarios editoriales, opinar sobre titulares y ajustar un borrador a la guía de estilo de las publicaciones de Medium."
               },
               {
                 "t": "p",
-                "x": "Con la versión 4.2.1, Automation se ha eliminado por completo del software. El equipo reconoció que la decisión no satisfaría a todos: algunos autores se oponían de raíz a cualquier integración de AI, mientras que otros la habían recibido con entusiasmo. «Creemos que eliminarla es la mejor decisión que podemos tomar», afirmó el equipo."
+                "x": "La medida podría resultar polémica en un momento en que varios autores han perdido contratos editoriales por sospechas de haber usado AI y los premios literarios están bajo escrutinio. Medium afirma que “la inteligencia artificial hace que escribir sea más importante, no menos”."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/TK-UI-HeaderFeature-BNgQWN8G.png"
               },
               {
                 "t": "p",
-                "x": "Vellum es una herramienta exclusiva para Mac que permite crear libros electrónicos y ediciones impresas para Kindle, Kobo y Apple Books. Vellum Press cuesta $390 y Vellum Ebooks, $310."
+                "x": "Para atender las preocupaciones, TK permite a los autores publicar notas que explican con transparencia cómo se usó la AI en su escritura. La app también puede conectarse con el agente de AI propio del usuario a través del servidor MCP de TK o de la skill de Claude. TK está disponible en la web, con una app de escritorio en la hoja de ruta, y será gratuita para quienes tengan una cuenta de Medium."
               }
             ]
           }
@@ -315,195 +365,195 @@
       }
     },
     {
-      "id": "pw-salary-survey-2026",
+      "id": "books-wired-paper-trail",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "출판사 대다수 AI 도입\n직원 대다수는 반감",
-      "body": "PW 조사서 886명 중 73%는 회사가 AI를 쓰고 77%는 반감을 보였다.",
-      "mini_headline": "출판계 직원, AI에 등 돌려",
+      "headline": "작가들, AI 의혹에\n집필 기록으로 맞선다",
+      "body": "집필 기록 도구들이 AI 의혹을 막아 준다지만 작가들의 처지는 진퇴양난이다.",
+      "mini_headline": "집필 기록과 AI 의혹",
       "tool": "Books",
-      "source": "Publishers Weekly",
-      "url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101719-salary-and-jobs-report-2026.html",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "올해 PW Salary & Jobs 설문에 응답한 886명은 임금이 3% 소폭 올랐다고 전하면서도, AI가 자기 일자리와 출판 전반에 미칠 영향을 더 걱정하게 됐다고 답했다. 그래도 전반적인 직무 만족도는 여전히 높다."
-          },
-          {
-            "t": "p",
-            "x": "응답자 열 명 중 여섯은 직무에 매우 만족했고, 68%는 두 해 뒤에도 지금 회사에 다니고 있으리라 내다봤다. 응답자 중위 연봉은 $78,000로, 2024년의 $80,000보다 낮아졌다."
-          },
-          {
             "t": "img",
-            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132698-3.JPG",
-            "cap": "회사가 AI를 쓰고 있다고 답한 응답자 비율"
+            "src": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg",
+            "cap": "Photo-Illustration: Wired Staff; Getty Images"
           },
           {
             "t": "p",
-            "x": "“출판계 직원은 AI를 쓸수록 더 싫어한다”는 경향은 이번에도 들어맞았다. 응답자의 칠십삼 퍼센트가 회사에서 어떤 식으로든 AI를 쓴다고 했고, 가장 많이 쓰는 분야는 시장 조사였다. 그러나 응답자의 77%는 이 기술을 부정적으로 본다. 가장 큰 걱정은 상당 부분을 AI가 쓴 책을 내는 일에 관여하게 될지 모른다는 점이다."
+            "x": "출판계가 원고 출처를 두고 편집증에 시달리는 사이 작가들은 진퇴양난에 빠졌다. 3월 Hachette는 공포소설 Shy Girl이 상당 부분 AI로 생성됐다(AI-generated)는 주장이 나오자 이 책의 US 출간을 취소했다. 작가 Mia Ballard는 AI 사용을 부인했다."
           },
           {
             "t": "p",
-            "x": "“2026년 우리의 필수 연간 목표 중 하나는 일상 업무에서 AI 활용 사례를 찾아 동료들에게 알리는 것이다. 어리석고 모욕적이다.” 보기 드문 낙관론자는 이렇게 말했다. “미래에 적응하지 않으면 우리가 사업체로서 살아남을 수 없다고 본다.... 출판이 계속 존재하길 바라기에 나는 AI를 받아들인다.”"
+            "x": "Anthropic을 상대로 낸 집단소송의 대표 원고인 소설가 Andrea Bartz는 의혹이 제기되는 순간 이미 피해가 생긴다고 말한다. 인간이 썼음을 증명할 “합의된 기준이 없다”는 설명이다."
+          },
+          {
+            "t": "p",
+            "x": "Workings, Blindproof, Wintertext, Human Ink, ObraVera 같은 플랫폼은 작가의 집필 과정을 추적·기록해 저작 기록을 만들어 준다고 내세운다. Authors Guild의 Mary Rasenberger는 이런 증빙을 남겨야 하는 상황 자체가 “모욕적”이고 “부담”이라고 했다."
+          },
+          {
+            "t": "p",
+            "x": "도구도 완벽하지는 않다. Pangram CEO Max Spero는 AI가 쓴 글을 손으로 옮겨 칠 수도 있다고 지적한다. ObraVera의 Brady Ridgway는 자사 소프트웨어가 선언을 기록할 뿐 사실 여부까지 확인하지는 못한다고 말한다. 출판 전문가 Jane Friedman은 출판사들이 “추가 비용이나 추가 시간이 드는” 검증을 도입할지 의문을 품는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Most publishers now use AI\nand most staff dislike it",
-          "body": "In PW's survey of 886 publishing workers, 73% say their company uses AI, yet 77% view the technology negatively.",
-          "mini_headline": "Publishing staff sour on AI",
+          "headline": "Authors turn to paper trails\nagainst AI accusations",
+          "body": "Paper-trail tools promise to help authors defend against AI allegations, but writers are caught in an impossible bind.",
+          "mini_headline": "Paper trails vs AI claims",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "The 886 people who responded to this year’s PW Salary & Jobs survey reported a modest 3% pay raise and increased concerns about the impact of AI on their jobs and publishing in general. Still, overall job satisfaction remains high."
-              },
-              {
-                "t": "p",
-                "x": "Sixty percent of respondents were very satisfied with their job, and 68% expected to be working at the same company in two years’ time. Respondents had a median salary of $78,000, down from $80,000 in 2024."
-              },
-              {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132698-3.JPG",
-                "cap": "Share of respondents who say their company is using AI"
+                "src": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg",
+                "cap": "Photo-Illustration: Wired Staff; Getty Images"
               },
               {
                 "t": "p",
-                "x": "The trend of “the more publishing employees use AI the less they like it” held true. Seventy-three percent of respondents reported that their company uses AI in some fashion, with market research the top function. However, 77% of respondents said they have a negative view of the technology. The top concern is that respondents could get involved with publishing a book substantially written by AI."
+                "x": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind. In March, Hachette canceled the US publication of the horror novel Shy Girl amid claims it was largely AI-generated; author Mia Ballard has denied using AI."
               },
               {
                 "t": "p",
-                "x": "“One of our mandatory annual goals for 2026 is to find a use case for AI in our day-to-day work and to inform our coworkers about it. It’s inane and insulting.” The rare optimist: “I do not believe we will survive as a business if we don’t adapt to the future.... I want publishing to exist, therefore I embrace AI.”"
+                "x": "Novelist Andrea Bartz, lead plaintiff in the class action against Anthropic, says once accusations start the damage is done: “There’s no agreed upon standard” for proving human authorship."
+              },
+              {
+                "t": "p",
+                "x": "Platforms including Workings, Blindproof, Wintertext, Human Ink and ObraVera promise to track and document an author’s writing process to produce a record of authorship. The Authors Guild’s Mary Rasenberger calls having to keep such receipts “insulting” and a “burden.”"
+              },
+              {
+                "t": "p",
+                "x": "The tools aren’t foolproof: Pangram CEO Max Spero notes someone could hand-type AI text, and ObraVera’s Brady Ridgway says his software records a declaration but can’t confirm whether it is true. Publishing expert Jane Friedman doubts publishers will adopt any check that “costs extra money or extra time.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "출판사 대다수 AI 도입\n직원 대다수는 반감",
-          "body": "PW 조사서 886명 중 73%는 회사가 AI를 쓰고 77%는 반감을 보였다.",
-          "mini_headline": "출판계 직원, AI에 등 돌려",
+          "headline": "작가들, AI 의혹에\n집필 기록으로 맞선다",
+          "body": "집필 기록 도구들이 AI 의혹을 막아 준다지만 작가들의 처지는 진퇴양난이다.",
+          "mini_headline": "집필 기록과 AI 의혹",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "올해 PW Salary & Jobs 설문에 응답한 886명은 임금이 3% 소폭 올랐다고 전하면서도, AI가 자기 일자리와 출판 전반에 미칠 영향을 더 걱정하게 됐다고 답했다. 그래도 전반적인 직무 만족도는 여전히 높다."
-              },
-              {
-                "t": "p",
-                "x": "응답자 열 명 중 여섯은 직무에 매우 만족했고, 68%는 두 해 뒤에도 지금 회사에 다니고 있으리라 내다봤다. 응답자 중위 연봉은 $78,000로, 2024년의 $80,000보다 낮아졌다."
-              },
-              {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132698-3.JPG",
-                "cap": "회사가 AI를 쓰고 있다고 답한 응답자 비율"
+                "src": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg",
+                "cap": "Photo-Illustration: Wired Staff; Getty Images"
               },
               {
                 "t": "p",
-                "x": "“출판계 직원은 AI를 쓸수록 더 싫어한다”는 경향은 이번에도 들어맞았다. 응답자의 칠십삼 퍼센트가 회사에서 어떤 식으로든 AI를 쓴다고 했고, 가장 많이 쓰는 분야는 시장 조사였다. 그러나 응답자의 77%는 이 기술을 부정적으로 본다. 가장 큰 걱정은 상당 부분을 AI가 쓴 책을 내는 일에 관여하게 될지 모른다는 점이다."
+                "x": "출판계가 원고 출처를 두고 편집증에 시달리는 사이 작가들은 진퇴양난에 빠졌다. 3월 Hachette는 공포소설 Shy Girl이 상당 부분 AI로 생성됐다(AI-generated)는 주장이 나오자 이 책의 US 출간을 취소했다. 작가 Mia Ballard는 AI 사용을 부인했다."
               },
               {
                 "t": "p",
-                "x": "“2026년 우리의 필수 연간 목표 중 하나는 일상 업무에서 AI 활용 사례를 찾아 동료들에게 알리는 것이다. 어리석고 모욕적이다.” 보기 드문 낙관론자는 이렇게 말했다. “미래에 적응하지 않으면 우리가 사업체로서 살아남을 수 없다고 본다.... 출판이 계속 존재하길 바라기에 나는 AI를 받아들인다.”"
+                "x": "Anthropic을 상대로 낸 집단소송의 대표 원고인 소설가 Andrea Bartz는 의혹이 제기되는 순간 이미 피해가 생긴다고 말한다. 인간이 썼음을 증명할 “합의된 기준이 없다”는 설명이다."
+              },
+              {
+                "t": "p",
+                "x": "Workings, Blindproof, Wintertext, Human Ink, ObraVera 같은 플랫폼은 작가의 집필 과정을 추적·기록해 저작 기록을 만들어 준다고 내세운다. Authors Guild의 Mary Rasenberger는 이런 증빙을 남겨야 하는 상황 자체가 “모욕적”이고 “부담”이라고 했다."
+              },
+              {
+                "t": "p",
+                "x": "도구도 완벽하지는 않다. Pangram CEO Max Spero는 AI가 쓴 글을 손으로 옮겨 칠 수도 있다고 지적한다. ObraVera의 Brady Ridgway는 자사 소프트웨어가 선언을 기록할 뿐 사실 여부까지 확인하지는 못한다고 말한다. 출판 전문가 Jane Friedman은 출판사들이 “추가 비용이나 추가 시간이 드는” 검증을 도입할지 의문을 품는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "出版社の多くがAI導入\n職員の多くは否定的",
-          "body": "PWの調査で886人中73%が勤務先のAI利用を認め、77%は否定的に見ている。",
-          "mini_headline": "出版業界の職員、AIに冷ややか",
+          "headline": "作家、AI疑惑に\n執筆記録で対抗",
+          "body": "執筆記録ツールはAI疑惑からの防御をうたうが、作家は出口のない板挟みにある。",
+          "mini_headline": "執筆記録とAI疑惑",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "今年のPW Salary & Jobs調査に回答した886人は、3%というささやかな昇給を報告するとともに、AIが自分の仕事や出版全般に与える影響への懸念が強まっていると答えた。それでも、全体的な仕事への満足度は高いままだ。"
-              },
-              {
-                "t": "p",
-                "x": "回答者の六割が仕事に非常に満足しており、68%は二年後も同じ会社で働いていると見込んでいる。回答者の給与の中央値は$78,000で、2024年の$80,000から下がった。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132698-3.JPG",
-                "cap": "勤務先がAIを使っていると答えた回答者の割合"
+                "src": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg",
+                "cap": "Photo-Illustration: Wired Staff; Getty Images"
               },
               {
                 "t": "p",
-                "x": "「出版業界の従業員はAIを使うほど嫌いになる」という傾向は今回も変わらなかった。回答者の七十三パーセントが勤務先で何らかの形でAIを使っていると答え、最も多い用途は市場調査だった。しかし回答者の77%は、この技術を否定的に見ていると答えた。最大の懸念は、大部分をAIが書いた本の出版に関わることになりかねない点だ。"
+                "x": "出版業界が原稿の出自をめぐる疑心暗鬼に揺れるなか、作家は出口のない板挟みに陥っている。3月、Hachetteはホラー小説『Shy Girl』が大部分AIで生成された(AI-generated)との指摘を受け、同作のUS刊行を中止した。著者のMia BallardはAIの使用を否定している。"
               },
               {
                 "t": "p",
-                "x": "「2026年の必須の年間目標の一つは、日々の業務でAIの活用事例を見つけ、それを同僚に知らせることだ。ばかげていて、侮辱的だ」。まれな楽観派はこう語る。「未来に適応しなければ、私たちは事業として生き残れないと思う……出版に存続してほしい。だから私はAIを受け入れる」"
+                "x": "Anthropicを相手取った集団訴訟の筆頭原告である小説家Andrea Bartzは、疑惑が持ち上がった時点でダメージは避けられないと語る。人間が書いたことを証明する「合意された基準はない」というのだ。"
+              },
+              {
+                "t": "p",
+                "x": "Workings、Blindproof、Wintertext、Human Ink、ObraVeraといったプラットフォームは、作家の執筆過程を追跡・記録し、著作の証跡を残すとうたう。Authors GuildのMary Rasenbergerは、こうした証拠を残さなければならないことを「侮辱的」で「負担」だと評する。"
+              },
+              {
+                "t": "p",
+                "x": "ツールは万全ではない。Pangram CEOのMax Speroは、AIの文章を手で打ち直すこともできると指摘する。ObraVeraのBrady Ridgwayは、同社のソフトウェアは宣言を記録するだけで、それが真実かどうかは確認できないと話す。出版の専門家Jane Friedmanは、出版社が「余分なお金や余分な時間がかかる」確認手段を導入するかどうか疑問視している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "多数出版社已用AI\n多数员工却不喜欢",
-          "body": "PW对886名出版从业者的调查显示，73%称公司在用AI，77%却持负面看法。",
-          "mini_headline": "出版从业者对AI转冷",
+          "headline": "面对AI指控\n作家求助写作留痕",
+          "body": "写作留痕工具号称能帮作者抵御AI指控，但作家们已陷入两难困境。",
+          "mini_headline": "写作留痕对抗AI指控",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "今年PW Salary & Jobs调查的886名受访者报告称，薪资小幅上涨了3%，同时对AI影响自身工作乃至整个出版业的担忧加剧。尽管如此，整体工作满意度依然较高。"
-              },
-              {
-                "t": "p",
-                "x": "百分之六十的受访者对工作非常满意，68%预计两年后仍在同一家公司工作。受访者的薪资中位数为$78,000，低于2024年的$80,000。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132698-3.JPG",
-                "cap": "表示所在公司正在使用AI的受访者比例"
+                "src": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg",
+                "cap": "Photo-Illustration: Wired Staff; Getty Images"
               },
               {
                 "t": "p",
-                "x": "“出版从业者越用AI越不喜欢它”的趋势依然成立。百分之七十三的受访者表示公司以某种方式使用AI，其中市场调研是最主要的用途。然而，77%的受访者表示对这项技术持负面看法。最主要的担忧是，受访者可能会参与出版一本主要由AI写成的书。"
+                "x": "出版业正为稿件来源问题疑神疑鬼，作家们陷入了两难困境。3月，因有人称恐怖小说《Shy Girl》大部分由AI生成（AI-generated），Hachette取消了该书的US出版；作者Mia Ballard否认使用过AI。"
               },
               {
                 "t": "p",
-                "x": "“我们2026年的强制性年度目标之一，是在日常工作中找到AI的用例并告知同事。这既愚蠢又令人感到侮辱。”少有的乐观者则说：“我认为如果不适应未来，我们作为企业将无法生存……我希望出版业继续存在，所以我拥抱AI。”"
+                "x": "起诉Anthropic的集体诉讼首席原告、小说家Andrea Bartz说，指控一旦出现，伤害就已造成：要证明作品出自人手，“没有公认的标准”。"
+              },
+              {
+                "t": "p",
+                "x": "Workings、Blindproof、Wintertext、Human Ink和ObraVera等平台号称能追踪并记录作者的写作过程，形成著作归属记录。Authors Guild的Mary Rasenberger称，必须保留这类凭证“是一种侮辱”，也是一种“负担”。"
+              },
+              {
+                "t": "p",
+                "x": "这些工具并非万无一失：Pangram CEO Max Spero指出，有人可以手动敲入AI生成的文字；ObraVera的Brady Ridgway表示，他的软件只能记录声明，无法确认其真伪。出版专家Jane Friedman怀疑出版商会采用任何“需要额外花钱或额外花时间”的核查手段。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las editoriales ya usan AI, pero\nla mayoría del equipo la rechaza",
-          "body": "En la encuesta de PW a 886 trabajadores del libro, el 73% dice que su empresa usa AI, pero el 77% la ve mal.",
-          "mini_headline": "El personal editorial recela de la AI",
+          "headline": "Autores recurren a registros\nante acusaciones de AI",
+          "body": "Las herramientas de registro prometen proteger a los autores de acusaciones de AI, pero el dilema persiste.",
+          "mini_headline": "Registros contra acusaciones de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Las 886 personas que respondieron este año a la encuesta PW Salary & Jobs informaron de un modesto aumento salarial del 3% y de una mayor preocupación por el impacto de la AI en sus empleos y en el sector editorial en general. Aun así, la satisfacción laboral general sigue siendo alta."
-              },
-              {
-                "t": "p",
-                "x": "El sesenta por ciento de los encuestados estaba muy satisfecho con su trabajo, y el 68% esperaba seguir en la misma empresa dentro de dos años. El salario mediano de los encuestados fue de $78,000, frente a $80,000 en 2024."
-              },
-              {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132698-3.JPG",
-                "cap": "Porcentaje de encuestados que afirman que su empresa usa AI"
+                "src": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg",
+                "cap": "Photo-Illustration: Wired Staff; Getty Images"
               },
               {
                 "t": "p",
-                "x": "Se confirmó la tendencia de que «cuanto más usan la AI los empleados editoriales, menos les gusta». El setenta y tres por ciento de los encuestados dijo que su empresa usa la AI de alguna forma, sobre todo en estudios de mercado. Sin embargo, el 77% afirmó tener una opinión negativa de esta tecnología. La principal preocupación es acabar participando en la publicación de un libro escrito en gran parte por AI."
+                "x": "Mientras la industria editorial lidia con la paranoia sobre la procedencia de los manuscritos, los escritores quedan atrapados en un dilema imposible. En marzo, Hachette canceló la publicación en US de la novela de terror Shy Girl ante afirmaciones de que era en gran parte AI-generated, es decir, generada por AI; su autora, Mia Ballard, ha negado haber usado AI."
               },
               {
                 "t": "p",
-                "x": "«Uno de nuestros objetivos anuales obligatorios para 2026 es encontrar un caso de uso de la AI en nuestro trabajo diario e informar de ello a nuestros compañeros. Es absurdo e insultante». El raro optimista: «No creo que sobrevivamos como empresa si no nos adaptamos al futuro.... Quiero que el sector editorial exista, por eso abrazo la AI»."
+                "x": "La novelista Andrea Bartz, demandante principal en la demanda colectiva contra Anthropic, dice que una vez que empiezan las acusaciones el daño ya está hecho: “No hay un estándar consensuado” para demostrar la autoría humana."
+              },
+              {
+                "t": "p",
+                "x": "Plataformas como Workings, Blindproof, Wintertext, Human Ink y ObraVera prometen rastrear y documentar el proceso de escritura de un autor para generar un registro de autoría. Mary Rasenberger, de la Authors Guild, califica de “insultante” y de “carga” tener que guardar esos comprobantes."
+              },
+              {
+                "t": "p",
+                "x": "Las herramientas no son infalibles: el CEO de Pangram, Max Spero, señala que alguien podría teclear a mano un texto de AI, y Brady Ridgway, de ObraVera, dice que su software registra una declaración pero no puede confirmar si es cierta. La experta en edición Jane Friedman duda de que las editoriales adopten cualquier verificación que “cueste dinero extra o tiempo extra”."
               }
             ]
           }
@@ -511,125 +561,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "출판사 대다수 AI 도입\n직원 대다수는 반감",
-          "body": "PW 조사서 886명 중 73%는 회사가 AI를 쓰고 77%는 반감을 보였다.",
-          "mini_headline": "출판계 직원, AI에 등 돌려",
+          "headline": "작가들, AI 의혹에\n집필 기록으로 맞선다",
+          "body": "집필 기록 도구가 AI 의혹 방어를 내세우지만 작가들은 진퇴양난에 빠졌다.",
+          "mini_headline": "집필 기록과 AI 의혹",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "올해 PW Salary & Jobs 설문에 응답한 886명은 3%의 소폭 임금 인상을 전하는 한편, AI가 자신의 일자리와 출판 전반에 미칠 영향에 대한 우려가 커졌다고 답했다. 그래도 전반적인 직무 만족도는 여전히 높다."
-              },
-              {
-                "t": "p",
-                "x": "응답자 열 명 중 여섯은 직무에 매우 만족했고, 68%는 두 해 뒤에도 같은 회사에서 일하고 있을 것으로 예상했다. 응답자의 중위 연봉은 $78,000로, 2024년 $80,000에서 줄었다."
-              },
-              {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132698-3.JPG",
-                "cap": "회사가 AI를 쓰고 있다고 답한 응답자 비율"
+                "src": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg",
+                "cap": "Photo-Illustration: Wired Staff; Getty Images"
               },
               {
                 "t": "p",
-                "x": "“출판계 직원은 AI를 쓸수록 더 싫어한다”는 경향은 이번에도 들어맞았다. 응답자의 칠십삼 퍼센트가 회사에서 어떤 식으로든 AI를 쓴다고 답했고, 가장 많이 쓰이는 분야는 시장 조사였다. 그러나 응답자의 77%는 이 기술을 부정적으로 본다고 답했다. 가장 큰 우려는 상당 부분을 AI가 쓴 책의 출판에 관여하게 될 수 있다는 점이다."
+                "x": "출판계가 원고의 출처를 둘러싼 편집증과 씨름하는 사이 작가들은 진퇴양난에 빠졌다. 3월 Hachette는 공포소설 Shy Girl이 상당 부분 AI로 생성됐다(AI-generated)는 주장 속에 이 책의 US 출간을 취소했다. 작가 Mia Ballard는 AI 사용을 부인했다."
               },
               {
                 "t": "p",
-                "x": "“2026년 우리의 필수 연간 목표 중 하나는 일상 업무에서 AI 활용 사례를 찾아 동료들에게 알리는 것이다. 어리석고 모욕적이다.” 드문 낙관론자는 이렇게 말했다. “미래에 적응하지 않으면 우리가 사업체로서 살아남을 수 없다고 본다.... 출판이 계속 존재하길 바라기에 나는 AI를 받아들인다.”"
+                "x": "Anthropic을 상대로 한 집단소송의 대표 원고인 소설가 Andrea Bartz는 일단 의혹이 제기되면 이미 피해가 생긴다고 말한다. 인간이 썼다는 사실을 증명할 “합의된 기준이 없다”는 것이다."
+              },
+              {
+                "t": "p",
+                "x": "Workings, Blindproof, Wintertext, Human Ink, ObraVera 같은 플랫폼은 작가의 집필 과정을 추적·기록해 저작 기록을 만들어 주겠다고 내세운다. Authors Guild의 Mary Rasenberger는 이런 증빙을 남겨야 하는 상황을 “모욕적”이며 “부담”이라고 표현했다."
+              },
+              {
+                "t": "p",
+                "x": "도구가 완벽한 것은 아니다. Pangram CEO Max Spero는 AI가 쓴 글을 손으로 다시 입력할 수도 있다고 지적한다. ObraVera의 Brady Ridgway는 자사 소프트웨어가 선언을 기록할 뿐 그것이 사실인지는 확인하지 못한다고 말한다. 출판 전문가 Jane Friedman은 출판사들이 “추가 비용이나 추가 시간이 드는” 검증을 도입할지 의문을 제기한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "出版社の多くがAI導入\n職員の多くは否定的",
-          "body": "PWの調査で886人中73%が勤務先のAI利用を認め、77%は否定的に見ている。",
-          "mini_headline": "出版業界の職員、AIに冷ややか",
+          "headline": "作家、AI疑惑に\n執筆記録で対抗",
+          "body": "執筆記録ツールはAI疑惑からの防御をうたうが、作家は出口のない板挟みにある。",
+          "mini_headline": "執筆記録とAI疑惑",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "今年のPW Salary & Jobs調査に回答した886人は、3%というささやかな昇給を報告するとともに、AIが自分の仕事や出版全般に与える影響への懸念が強まっていると答えた。それでも、全体的な仕事への満足度は高いままだ。"
-              },
-              {
-                "t": "p",
-                "x": "回答者の六割が仕事に非常に満足しており、68%は二年後も同じ会社で働いていると見込んでいる。回答者の給与の中央値は$78,000で、2024年の$80,000から下がった。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132698-3.JPG",
-                "cap": "勤務先がAIを使っていると答えた回答者の割合"
+                "src": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg",
+                "cap": "Photo-Illustration: Wired Staff; Getty Images"
               },
               {
                 "t": "p",
-                "x": "「出版業界の従業員はAIを使うほど嫌いになる」という傾向は今回も変わらなかった。回答者の七十三パーセントが勤務先で何らかの形でAIを使っていると答え、最も多い用途は市場調査だった。しかし回答者の77%は、この技術を否定的に見ていると答えた。最大の懸念は、大部分をAIが書いた本の出版に関わることになりかねない点だ。"
+                "x": "出版業界が原稿の出自をめぐる疑心暗鬼に揺れるなか、作家は出口のない板挟みに陥っている。3月、Hachetteはホラー小説『Shy Girl』が大部分AIで生成された(AI-generated)との指摘を受け、同作のUS刊行を中止した。著者のMia BallardはAIの使用を否定している。"
               },
               {
                 "t": "p",
-                "x": "「2026年の必須の年間目標の一つは、日々の業務でAIの活用事例を見つけ、それを同僚に知らせることだ。ばかげていて、侮辱的だ」。まれな楽観派はこう語る。「未来に適応しなければ、私たちは事業として生き残れないと思う……出版に存続してほしい。だから私はAIを受け入れる」"
+                "x": "Anthropicを相手取った集団訴訟の筆頭原告である小説家Andrea Bartzは、疑惑が持ち上がった時点でダメージは避けられないと語る。人間が書いたことを証明する「合意された基準はない」というのだ。"
+              },
+              {
+                "t": "p",
+                "x": "Workings、Blindproof、Wintertext、Human Ink、ObraVeraといったプラットフォームは、作家の執筆過程を追跡・記録し、著作の証跡を残すとうたう。Authors GuildのMary Rasenbergerは、こうした証拠を残さなければならないことを「侮辱的」で「負担」だと評する。"
+              },
+              {
+                "t": "p",
+                "x": "ツールは万全ではない。Pangram CEOのMax Speroは、AIの文章を手で打ち直すこともできると指摘する。ObraVeraのBrady Ridgwayは、同社のソフトウェアは宣言を記録するだけで、それが真実かどうかは確認できないと話す。出版の専門家Jane Friedmanは、出版社が「余分なお金や余分な時間がかかる」確認手段を導入するかどうか疑問視している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "多数出版社已用AI\n多数员工却不喜欢",
-          "body": "PW对886名出版从业者的调查显示，73%称公司在用AI，77%却持负面看法。",
-          "mini_headline": "出版从业者对AI转冷",
+          "headline": "面对AI指控\n作家求助写作留痕",
+          "body": "写作留痕工具号称能帮作者抵御AI指控，但作家们已陷入两难困境。",
+          "mini_headline": "写作留痕对抗AI指控",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "今年PW Salary & Jobs调查的886名受访者报告称，薪资小幅上涨了3%，同时对AI影响自身工作乃至整个出版业的担忧加剧。尽管如此，整体工作满意度依然较高。"
-              },
-              {
-                "t": "p",
-                "x": "百分之六十的受访者对工作非常满意，68%预计两年后仍在同一家公司工作。受访者的薪资中位数为$78,000，低于2024年的$80,000。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132698-3.JPG",
-                "cap": "表示所在公司正在使用AI的受访者比例"
+                "src": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg",
+                "cap": "Photo-Illustration: Wired Staff; Getty Images"
               },
               {
                 "t": "p",
-                "x": "“出版从业者越用AI越不喜欢它”的趋势依然成立。百分之七十三的受访者表示公司以某种方式使用AI，其中市场调研是最主要的用途。然而，77%的受访者表示对这项技术持负面看法。最主要的担忧是，受访者可能会参与出版一本主要由AI写成的书。"
+                "x": "出版业正为稿件来源问题疑神疑鬼，作家们陷入了两难困境。3月，因有人称恐怖小说《Shy Girl》大部分由AI生成（AI-generated），Hachette取消了该书的US出版；作者Mia Ballard否认使用过AI。"
               },
               {
                 "t": "p",
-                "x": "“我们2026年的强制性年度目标之一，是在日常工作中找到AI的用例并告知同事。这既愚蠢又令人感到侮辱。”少有的乐观者则说：“我认为如果不适应未来，我们作为企业将无法生存……我希望出版业继续存在，所以我拥抱AI。”"
+                "x": "起诉Anthropic的集体诉讼首席原告、小说家Andrea Bartz说，指控一旦出现，伤害就已造成：要证明作品出自人手，“没有公认的标准”。"
+              },
+              {
+                "t": "p",
+                "x": "Workings、Blindproof、Wintertext、Human Ink和ObraVera等平台号称能追踪并记录作者的写作过程，形成著作归属记录。Authors Guild的Mary Rasenberger称，必须保留这类凭证“是一种侮辱”，也是一种“负担”。"
+              },
+              {
+                "t": "p",
+                "x": "这些工具并非万无一失：Pangram CEO Max Spero指出，有人可以手动敲入AI生成的文字；ObraVera的Brady Ridgway表示，他的软件只能记录声明，无法确认其真伪。出版专家Jane Friedman怀疑出版商会采用任何“需要额外花钱或额外花时间”的核查手段。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las editoriales ya usan AI, pero\nla mayoría del equipo la rechaza",
-          "body": "En la encuesta de PW a 886 trabajadores del libro, el 73% dice que su empresa usa AI, pero el 77% la ve mal.",
-          "mini_headline": "El personal editorial recela de la AI",
+          "headline": "Autores recurren a registros\nante acusaciones de AI",
+          "body": "Las herramientas de registro prometen proteger a los autores de acusaciones de AI, pero el dilema persiste.",
+          "mini_headline": "Registros contra acusaciones de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Las 886 personas que respondieron este año a la encuesta PW Salary & Jobs informaron de un modesto aumento salarial del 3% y de una mayor preocupación por el impacto de la AI en sus empleos y en el sector editorial en general. Aun así, la satisfacción laboral general sigue siendo alta."
-              },
-              {
-                "t": "p",
-                "x": "El sesenta por ciento de los encuestados estaba muy satisfecho con su trabajo, y el 68% esperaba seguir en la misma empresa dentro de dos años. El salario mediano de los encuestados fue de $78,000, frente a $80,000 en 2024."
-              },
-              {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132698-3.JPG",
-                "cap": "Porcentaje de encuestados que afirman que su empresa usa AI"
+                "src": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg",
+                "cap": "Photo-Illustration: Wired Staff; Getty Images"
               },
               {
                 "t": "p",
-                "x": "Se confirmó la tendencia de que «cuanto más usan la AI los empleados editoriales, menos les gusta». El setenta y tres por ciento de los encuestados dijo que su empresa usa la AI de alguna forma, sobre todo en estudios de mercado. Sin embargo, el 77% afirmó tener una opinión negativa de esta tecnología. La principal preocupación es acabar participando en la publicación de un libro escrito en gran parte por AI."
+                "x": "Mientras la industria editorial lidia con la paranoia sobre la procedencia de los manuscritos, los escritores quedan atrapados en un dilema imposible. En marzo, Hachette canceló la publicación en US de la novela de terror Shy Girl ante afirmaciones de que era en gran parte AI-generated, es decir, generada por AI; su autora, Mia Ballard, ha negado haber usado AI."
               },
               {
                 "t": "p",
-                "x": "«Uno de nuestros objetivos anuales obligatorios para 2026 es encontrar un caso de uso de la AI en nuestro trabajo diario e informar de ello a nuestros compañeros. Es absurdo e insultante». El raro optimista: «No creo que sobrevivamos como empresa si no nos adaptamos al futuro.... Quiero que el sector editorial exista, por eso abrazo la AI»."
+                "x": "La novelista Andrea Bartz, demandante principal en la demanda colectiva contra Anthropic, dice que una vez que empiezan las acusaciones el daño ya está hecho: “No hay un estándar consensuado” para demostrar la autoría humana."
+              },
+              {
+                "t": "p",
+                "x": "Plataformas como Workings, Blindproof, Wintertext, Human Ink y ObraVera prometen rastrear y documentar el proceso de escritura de un autor para generar un registro de autoría. Mary Rasenberger, de la Authors Guild, califica de “insultante” y de “carga” tener que guardar esos comprobantes."
+              },
+              {
+                "t": "p",
+                "x": "Las herramientas no son infalibles: el CEO de Pangram, Max Spero, señala que alguien podría teclear a mano un texto de AI, y Brady Ridgway, de ObraVera, dice que su software registra una declaración pero no puede confirmar si es cierta. La experta en edición Jane Friedman duda de que las editoriales adopten cualquier verificación que “cueste dinero extra o tiempo extra”."
               }
             ]
           }
@@ -637,411 +687,481 @@
       }
     },
     {
-      "id": "rnib-ai-audiobook-poll",
-      "source_lang": "en",
+      "id": "books-yes24-ai-tts",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "RNIB 조사, 다수가\nAI-narrated 거부",
-      "body": "RNIB의 YouGov 조사에서 UK 65%가 AI-narrated 책을 거부했다.",
-      "mini_headline": "영국인, AI 오디오북 외면",
+      "headline": "예스24 전자책 AI 음성\n한영 문장 한 목소리로",
+      "body": "예스24가 한영 혼용 문장을 한 목소리로 읽는 전자책 AI 음성 기능을 도입했다.",
+      "mini_headline": "예스24 AI 한영 낭독",
       "tool": "Books",
-      "source": "Voice Over Herald",
-      "url": "https://www.voiceoverherald.com/rnib-poll-ai-narrated-audiobooks-talking-books-90-narrators/",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/life-culture/book/6348294",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-48.jpg",
-            "cap": "RNIB Talking Books 도서관이 현재 쓰는 포맷들. © Voice Over Herald"
+            "src": "https://i3n.news1.kr/system/photos/2026/11/9/8205652/high.jpg",
+            "cap": "예스24 전자책의 인공지능 음성낭독 '한영 자동전환' 기능 홍보 이미지. (예스24 제공. 재판매 및 DB 금지) 2026.11.10/뉴스1"
           },
           {
             "t": "p",
-            "x": "Talking Books 도서관 90주년을 맞아 Royal National Institute of Blind People(RNIB)이 의뢰하고 YouGov가 실시한 조사에서, UK 성인의 65%는 AI-narrated 오디오북을 아예 듣지 않겠다고 했다. 20%는 듣긴 하겠지만 사람 목소리가 낫다고 답했다. 단체는 표본 규모나 조사 날짜를 밝히지 않았다."
+            "x": "예스24가 전자책에서 한국어와 영어가 섞인 문장을 한 목소리로 읽어주는 인공지능 음성변환 기능을 도입했다고 10일 밝혔다."
           },
           {
             "t": "p",
-            "x": "어떤 경우에 듣기를 멈추겠느냐는 질문에는 42%가 좋아하지 않는 유명인 낭독자, 30%가 상상한 인물과 크게 다른 목소리, 26%가 강한 억양을 꼽았다. 낭독자가 어떻든 듣기를 멈추지 않겠다는 응답은 16%에 그쳤다."
-          },
-          {
-            "t": "video",
-            "yt": "Q7S2q6b-Av4"
+            "x": "기존 음성낭독은 언어가 바뀔 때 목소리나 발음이 달라지는 문제가 있었다. 새 기능은 한국어와 영어를 같은 AI 보이스로 처리해 언어 전환 과정의 끊김을 줄인다."
           },
           {
             "t": "p",
-            "x": "RNIB는 조사 결과와 함께 단체 회장 Victoria Smurfit이 이끈 Disney+ 드라마 Rivals 배우들의 짧은 녹음도 공개했다. 도서관은 56,000종을 갖추고 있고 시각 장애가 있는 사람이면 누구나 무료로 쓸 수 있으며, 지난해 대출은 백만 회를 넘었다. 첫 Talking Books는 1935년 11월 7일에 나갔다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/rnib-studio.jpg",
-            "cap": "RNIB를 위한 Talking Book 녹음 현장. 이미지: RNIB"
+            "x": "기술에는 셀바스AI의 '셀바스 딥 TTS 온 디바이스'(SELVAS deepTTS On-Device: Cross-lingual) 솔루션을 적용했다. 음성 합성이 이용자의 기기 안에서 이뤄지는 온디바이스 방식을 지원한다."
           },
           {
             "t": "p",
-            "x": "이번 조사로 AI 낭독의 확산이 멈추지는 않겠지만, 삼분의 이가 단호히 거부했다는 결과는 청취자들이 목소리에 세심하게 귀 기울인다는 사실을 보여준다."
+            "x": "예스24의 올해 1월 1일부터 10월 30일까지 오디오북 1인당 구매액은 지난해 같은 기간보다 69.3% 늘었다. 10월 증가율은 지난해 같은 달 대비 493.6%였다."
+          },
+          {
+            "t": "p",
+            "x": "오디오북 구매자의 연령별 비중은 40대 30.9%, 30대 24.1%, 50대 21.9% 순이었다. 장르별로는 소설이 31.5%로 가장 높고 인문·역사 17.5%, 시·에세이 8.6%가 뒤를 이었다."
+          },
+          {
+            "t": "p",
+            "x": "예스24는 2025년 8월 AI TTS 서비스를 시작했다. 이후 재생 속도와 음정 조절, 시간·페이지 단위 예약 타이머 등의 기능을 추가해 왔다."
+          },
+          {
+            "t": "p",
+            "x": "올해 8월 26일부터 9월 25일까지 회원 약 4000명이 참여한 선호도 조사 뒤 AI 보이스 2종을 더했다. 현재 제공하는 AI 음성은 모두 8종이다."
+          },
+          {
+            "t": "p",
+            "x": "이진구 예스24 디지털사업본부장은 새로운 기능으로 어학 학습 등 전자책 활용 범위가 넓어질 것으로 기대했다. 출시를 기념해 추천 도서 청취 체험과 영어 제목 맞히기 행사를 진행한다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "RNIB poll finds wide refusal\nof AI-narrated audiobooks",
-          "body": "A YouGov poll for the RNIB finds 65% of UK adults won't listen to AI-narrated audiobooks.",
-          "mini_headline": "Britons balk at AI audiobooks",
+        "ko": {
+          "headline": "예스24 전자책 AI 음성\n한영 문장 한 목소리로",
+          "body": "예스24가 한영 혼용 문장을 한 목소리로 읽는 전자책 AI 음성 기능을 도입했다.",
+          "mini_headline": "예스24 AI 한영 낭독",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-48.jpg",
-                "cap": "The formats RNIB’s Talking Books library uses today. © Voice Over Herald"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/9/8205652/high.jpg",
+                "cap": "예스24 전자책의 인공지능 음성낭독 '한영 자동전환' 기능 홍보 이미지. (예스24 제공. 재판매 및 DB 금지) 2026.11.10/뉴스1"
               },
               {
                 "t": "p",
-                "x": "A YouGov survey for the Royal National Institute of Blind People (RNIB), out as the charity marks 90 years of its Talking Books library, found 65% of UK adults would not listen to an AI-narrated audiobook at all, and 20% would listen but prefer a human voice. The charity didn’t publish the sample size or fieldwork dates."
+                "x": "예스24가 전자책에서 한국어와 영어가 섞인 문장을 한 목소리로 읽어주는 인공지능 음성변환 기능을 도입했다고 10일 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Asked what would make them stop listening, 42% said a celebrity narrator they didn’t like, 30% a voice very different from how they’d imagined the character, and 26% a strong accent. Only 16% said nothing about a narrator would make them stop."
-              },
-              {
-                "t": "video",
-                "yt": "Q7S2q6b-Av4"
+                "x": "기존 음성낭독은 언어가 바뀔 때 목소리나 발음이 달라지는 문제가 있었다. 새 기능은 한국어와 영어를 같은 AI 보이스로 처리해 언어 전환 과정의 끊김을 줄인다."
               },
               {
                 "t": "p",
-                "x": "RNIB released the research alongside short recordings by actors from the Disney+ drama Rivals, led by the charity’s president, Victoria Smurfit. The library holds 56,000 titles, free to anyone with a sight condition, and books were borrowed more than a million times last year. The first Talking Books went out on 7 November 1935."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/rnib-studio.jpg",
-                "cap": "Recording a Talking Book for RNIB. Image: RNIB"
+                "x": "기술에는 셀바스AI의 '셀바스 딥 TTS 온 디바이스'(SELVAS deepTTS On-Device: Cross-lingual) 솔루션을 적용했다. 음성 합성이 이용자의 기기 안에서 이뤄지는 온디바이스 방식을 지원한다."
               },
               {
                 "t": "p",
-                "x": "None of this will stop AI narration from spreading, but a poll where two thirds refuse outright says listeners are paying close attention to the voice."
+                "x": "예스24의 올해 1월 1일부터 10월 30일까지 오디오북 1인당 구매액은 지난해 같은 기간보다 69.3% 늘었다. 10월 증가율은 지난해 같은 달 대비 493.6%였다."
+              },
+              {
+                "t": "p",
+                "x": "오디오북 구매자의 연령별 비중은 40대 30.9%, 30대 24.1%, 50대 21.9% 순이었다. 장르별로는 소설이 31.5%로 가장 높고 인문·역사 17.5%, 시·에세이 8.6%가 뒤를 이었다."
+              },
+              {
+                "t": "p",
+                "x": "예스24는 2025년 8월 AI TTS 서비스를 시작했다. 이후 재생 속도와 음정 조절, 시간·페이지 단위 예약 타이머 등의 기능을 추가해 왔다."
+              },
+              {
+                "t": "p",
+                "x": "올해 8월 26일부터 9월 25일까지 회원 약 4000명이 참여한 선호도 조사 뒤 AI 보이스 2종을 더했다. 현재 제공하는 AI 음성은 모두 8종이다."
+              },
+              {
+                "t": "p",
+                "x": "이진구 예스24 디지털사업본부장은 새로운 기능으로 어학 학습 등 전자책 활용 범위가 넓어질 것으로 기대했다. 출시를 기념해 추천 도서 청취 체험과 영어 제목 맞히기 행사를 진행한다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "RNIB 조사, 다수가\nAI-narrated 거부",
-          "body": "RNIB의 YouGov 조사에서 UK 65%가 AI-narrated 책을 거부했다.",
-          "mini_headline": "영국인, AI 오디오북 외면",
+        "en": {
+          "headline": "YES24 e-book AI voice reads\nKorean, English in one voice",
+          "body": "YES24 has added an AI voice feature that reads mixed Korean-English e-book sentences in a single voice.",
+          "mini_headline": "YES24 AI reads Korean and English",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-48.jpg",
-                "cap": "RNIB Talking Books 도서관이 현재 쓰는 포맷들. © Voice Over Herald"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/9/8205652/high.jpg",
+                "cap": "Promotional image for the 'Korean-English auto-switch' AI voice reading feature in YES24 e-books. (Provided by YES24. Resale and DB use prohibited) 2026.11.10/News1"
               },
               {
                 "t": "p",
-                "x": "Talking Books 도서관 90주년을 맞아 Royal National Institute of Blind People(RNIB)이 의뢰하고 YouGov가 실시한 조사에서, UK 성인의 65%는 AI-narrated 오디오북을 아예 듣지 않겠다고 했다. 20%는 듣긴 하겠지만 사람 목소리가 낫다고 답했다. 단체는 표본 규모나 조사 날짜를 밝히지 않았다."
+                "x": "YES24 said on the 10th that it has introduced an artificial intelligence voice conversion feature that reads sentences mixing Korean and English in e-books in a single voice."
               },
               {
                 "t": "p",
-                "x": "어떤 경우에 듣기를 멈추겠느냐는 질문에는 42%가 좋아하지 않는 유명인 낭독자, 30%가 상상한 인물과 크게 다른 목소리, 26%가 강한 억양을 꼽았다. 낭독자가 어떻든 듣기를 멈추지 않겠다는 응답은 16%에 그쳤다."
-              },
-              {
-                "t": "video",
-                "yt": "Q7S2q6b-Av4"
+                "x": "Existing voice reading had a problem: the voice or pronunciation changed when the language switched. The new feature processes Korean and English with the same AI voice, reducing breaks during language transitions."
               },
               {
                 "t": "p",
-                "x": "RNIB는 조사 결과와 함께 단체 회장 Victoria Smurfit이 이끈 Disney+ 드라마 Rivals 배우들의 짧은 녹음도 공개했다. 도서관은 56,000종을 갖추고 있고 시각 장애가 있는 사람이면 누구나 무료로 쓸 수 있으며, 지난해 대출은 백만 회를 넘었다. 첫 Talking Books는 1935년 11월 7일에 나갔다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/rnib-studio.jpg",
-                "cap": "RNIB를 위한 Talking Book 녹음 현장. 이미지: RNIB"
+                "x": "The technology uses Selvas AI's 'SELVAS deepTTS On-Device: Cross-lingual' solution. It supports an on-device approach, in which speech synthesis takes place within the user's device."
               },
               {
                 "t": "p",
-                "x": "이번 조사로 AI 낭독의 확산이 멈추지는 않겠지만, 삼분의 이가 단호히 거부했다는 결과는 청취자들이 목소리에 세심하게 귀 기울인다는 사실을 보여준다."
+                "x": "YES24's audiobook spending per 1 person from January 1 to October 30 this year rose 69.3% from the same period last year. The growth rate for October was 493.6% compared with the same month last year."
+              },
+              {
+                "t": "p",
+                "x": "By age, audiobook buyers were led by those in their 40s at 30.9%, followed by their 30s at 24.1% and their 50s at 21.9%. By genre, fiction ranked highest at 31.5%, followed by humanities and history at 17.5% and poetry and essays at 8.6%."
+              },
+              {
+                "t": "p",
+                "x": "YES24 launched its AI TTS service in August 2025. It has since added features such as playback speed and pitch adjustment and reservation timers by time or page."
+              },
+              {
+                "t": "p",
+                "x": "After a preference survey in which about 4000 members took part from August 26 to September 25 this year, it added 2 more AI voices. It now offers 8 AI voices in total."
+              },
+              {
+                "t": "p",
+                "x": "Lee Jin-gu, head of YES24's digital business division, said he expects the new feature to broaden how e-books are used, including for language learning. To mark the launch, the company is holding a recommended-book listening trial and an English title guessing event."
               }
             ]
           }
         },
         "ja": {
-          "headline": "RNIBの調査で多数が\nAI-narratedを拒否",
-          "body": "RNIBのYouGov調査でUK成人の65%がAI-narratedの本を聴かないと答えた。",
-          "mini_headline": "英国人はAI朗読に消極的",
+          "headline": "YES24電子書籍AI音声\n韓英文を一つの声で",
+          "body": "YES24が、韓英混在の文を一つの声で読む電子書籍のAI音声機能を導入した。",
+          "mini_headline": "YES24 AI韓英朗読",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-48.jpg",
-                "cap": "RNIBのTalking Books図書館が現在使っている形式。© Voice Over Herald"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/9/8205652/high.jpg",
+                "cap": "YES24電子書籍のAI音声朗読「韓英自動切り替え」機能の広報画像。(YES24提供。転売およびDB禁止) 2026.11.10/News1"
               },
               {
                 "t": "p",
-                "x": "Talking Books図書館の90周年に合わせて公表された、Royal National Institute of Blind People(RNIB)向けのYouGov調査によると、UK成人の65%はAI-narratedのオーディオブックをまったく聴かないと答え、20%は聴きはするが人間の声を好むと答えた。同団体はサンプル数や調査期間を公表していない。"
+                "x": "YES24は10日、電子書籍で韓国語と英語が混ざった文を一つの声で読み上げる人工知能の音声変換機能を導入したと明らかにした。"
               },
               {
                 "t": "p",
-                "x": "何があれば聴くのをやめるかという質問には、42%が好きではない有名人のナレーター、30%が登場人物について想像していたのと大きく異なる声、26%が強いなまりを挙げた。ナレーターに関してやめる理由になるものは何もないと答えたのは16%にとどまった。"
-              },
-              {
-                "t": "video",
-                "yt": "Q7S2q6b-Av4"
+                "x": "従来の音声朗読には、言語が切り替わる際に声や発音が変わる問題があった。新機能は韓国語と英語を同じAIボイスで処理し、言語切り替え時の途切れを減らす。"
               },
               {
                 "t": "p",
-                "x": "RNIBはこの調査結果とともに、同団体の会長Victoria Smurfitが率いるDisney+のドラマRivalsの俳優陣による短い録音を公開した。図書館の所蔵は56,000タイトルで、視覚に障害のある人なら誰でも無料で利用でき、昨年の貸出は百万回を超えた。最初のTalking Booksが届けられたのは1935年11月7日である。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/rnib-studio.jpg",
-                "cap": "RNIBのためにTalking Bookを録音する様子。画像:RNIB"
+                "x": "技術にはSelvas AIの「セルバス・ディープTTSオンデバイス」(SELVAS deepTTS On-Device: Cross-lingual)ソリューションを採用した。音声合成をユーザーの端末内で行うオンデバイス方式に対応する。"
               },
               {
                 "t": "p",
-                "x": "これでAIナレーションの広がりが止まるわけではないが、三分の二がはっきり拒否するという調査結果は、聴き手が声に細心の注意を払っていることを示している。"
+                "x": "YES24の今年1月1日から10月30日までのオーディオブック1人当たり購入額は、前年同期比69.3%増えた。10月の増加率は前年同月比493.6%だった。"
+              },
+              {
+                "t": "p",
+                "x": "オーディオブック購入者の年代別比率は40代30.9%、30代24.1%、50代21.9%の順だった。ジャンル別では小説が31.5%で最も高く、人文・歴史17.5%、詩・エッセイ8.6%が続いた。"
+              },
+              {
+                "t": "p",
+                "x": "YES24は2025年8月にAI TTSサービスを開始した。その後、再生速度や音程の調整、時間・ページ単位の予約タイマーなどの機能を追加してきた。"
+              },
+              {
+                "t": "p",
+                "x": "今年8月26日から9月25日まで会員約4000人が参加した好み調査を経て、AIボイスを2種追加した。現在提供するAI音声は計8種だ。"
+              },
+              {
+                "t": "p",
+                "x": "YES24デジタル事業本部長のイ・ジング氏は、新機能によって語学学習など電子書籍の活用範囲が広がると期待を示した。発売を記念し、おすすめ書籍の試聴体験と英語タイトル当てイベントを実施する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "RNIB调查：多数英国人\n拒听AI-narrated书",
-          "body": "RNIB委托YouGov调查发现，65%的UK成年人不愿听AI-narrated有声书。",
-          "mini_headline": "英国人对AI有声书说不",
+          "headline": "YES24电子书AI语音\n韩英句子一个声音读",
+          "body": "YES24为电子书推出AI语音功能，可用同一个声音朗读韩英混合句子。",
+          "mini_headline": "YES24 AI韩英朗读",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-48.jpg",
-                "cap": "RNIB的Talking Books图书馆目前使用的格式。© Voice Over Herald"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/9/8205652/high.jpg",
+                "cap": "YES24电子书AI语音朗读“韩英自动切换”功能宣传图。（YES24提供，禁止转售及DB使用）2026.11.10/News1"
               },
               {
                 "t": "p",
-                "x": "在Talking Books图书馆迎来90周年之际，Royal National Institute of Blind People（RNIB）委托YouGov开展的一项调查发现，65%的UK成年人根本不会收听AI-narrated有声书，20%会听但更喜欢人声。该机构未公布样本量或调查日期。"
+                "x": "YES24于10日表示，已在电子书中引入人工智能语音转换功能，可用同一个声音朗读韩语和英语混合的句子。"
               },
               {
                 "t": "p",
-                "x": "当被问及什么会让他们停止收听时，42%选择了自己不喜欢的名人朗读者，30%选择了与自己想象中的角色差别很大的声音，26%选择了浓重的口音。只有16%表示朗读者的任何方面都不会让他们停止收听。"
-              },
-              {
-                "t": "video",
-                "yt": "Q7S2q6b-Av4"
+                "x": "以往的语音朗读在语言切换时，声音或发音会发生变化。新功能用同一个AI声音处理韩语和英语，减少语言切换时的停顿。"
               },
               {
                 "t": "p",
-                "x": "RNIB在发布这项研究的同时，还推出了由该机构主席Victoria Smurfit带领、Disney+剧集Rivals演员录制的简短音频。该图书馆藏有56,000种图书，凡有视力障碍者均可免费使用，去年借阅量超过百万次。第一批Talking Books于1935年11月7日送出。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/rnib-studio.jpg",
-                "cap": "为RNIB录制Talking Book。图片：RNIB"
+                "x": "该技术采用了Selvas AI的“Selvas深度TTS端侧”(SELVAS deepTTS On-Device: Cross-lingual)解决方案，支持在用户设备内完成语音合成的端侧方式。"
               },
               {
                 "t": "p",
-                "x": "这一切都无法阻止AI朗读的普及，但一项三分之二受访者直接拒绝的调查表明，听众正密切关注声音本身。"
+                "x": "今年1月1日至10月30日，YES24有声书1人平均购买额同比增长69.3%。10月增长率较去年同月为493.6%。"
+              },
+              {
+                "t": "p",
+                "x": "按年龄看，有声书购买者中40多岁占30.9%，30多岁占24.1%，50多岁占21.9%。按类型看，小说占比最高，为31.5%，人文·历史占17.5%，诗歌·随笔占8.6%。"
+              },
+              {
+                "t": "p",
+                "x": "YES24于2025年8月推出AI TTS服务，此后陆续增加了播放速度和音调调节、按时间或页数预约定时等功能。"
+              },
+              {
+                "t": "p",
+                "x": "今年8月26日至9月25日，约4000名会员参与了偏好调查，此后YES24新增2种AI声音。目前共提供8种AI语音。"
+              },
+              {
+                "t": "p",
+                "x": "YES24数字业务本部长Lee Jin-gu表示，期待新功能拓宽语言学习等电子书的使用范围。为纪念上线，YES24将举办推荐图书试听体验和猜英文书名活动。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sondeo de RNIB: amplio rechazo\na los audiolibros AI-narrated",
-          "body": "Un sondeo de YouGov para el RNIB revela que el 65% de los adultos del UK no escucharía audiolibros AI-narrated.",
-          "mini_headline": "Los británicos rechazan los audiolibros con AI",
+          "headline": "Voz AI en e-books de YES24\ncoreano e inglés con una voz",
+          "body": "YES24 incorporó a sus e-books una función de voz AI que lee frases mixtas en coreano e inglés con una sola voz.",
+          "mini_headline": "YES24: lectura AI en coreano e inglés",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-48.jpg",
-                "cap": "Los formatos que usa hoy la biblioteca Talking Books de RNIB. © Voice Over Herald"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/9/8205652/high.jpg",
+                "cap": "Imagen promocional de la función de lectura por voz con inteligencia artificial 'cambio automático coreano-inglés' de los e-books de YES24. (Cortesía de YES24. Prohibida su reventa y uso en DB) 2026.11.10/News1"
               },
               {
                 "t": "p",
-                "x": "Una encuesta de YouGov para el Royal National Institute of Blind People (RNIB), publicada cuando la organización celebra los 90 años de su biblioteca Talking Books, reveló que el 65% de los adultos del UK no escucharía en absoluto un audiolibro AI-narrated, y que el 20% lo escucharía pero preferiría una voz humana. La organización no publicó el tamaño de la muestra ni las fechas del trabajo de campo."
+                "x": "YES24 anunció el día 10 que ha incorporado a sus libros electrónicos una función de conversión de voz con inteligencia artificial que lee con una sola voz las frases que mezclan coreano e inglés."
               },
               {
                 "t": "p",
-                "x": "Al preguntarles qué les haría dejar de escuchar, el 42% señaló a un narrador famoso que no les gustara, el 30% una voz muy distinta de como habían imaginado al personaje y el 26% un acento marcado. Solo el 16% dijo que nada de un narrador les haría dejar de escuchar."
-              },
-              {
-                "t": "video",
-                "yt": "Q7S2q6b-Av4"
+                "x": "La lectura por voz anterior tenía el problema de que la voz o la pronunciación cambiaban al pasar de un idioma a otro. La nueva función procesa el coreano y el inglés con la misma voz AI, lo que reduce los cortes en el cambio de idioma."
               },
               {
                 "t": "p",
-                "x": "RNIB publicó la investigación junto con breves grabaciones de actores de la serie de Disney+ Rivals, encabezados por la presidenta de la organización, Victoria Smurfit. La biblioteca cuenta con 56,000 títulos, gratuitos para cualquier persona con una afección visual, y el año pasado sus libros se prestaron más de un millón de veces. Los primeros Talking Books se enviaron el 7 de noviembre de 1935."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/rnib-studio.jpg",
-                "cap": "Grabación de un Talking Book para RNIB. Imagen: RNIB"
+                "x": "La tecnología aplica la solución 'SELVAS deepTTS On-Device: Cross-lingual' de Selvas AI. Admite el modo en el dispositivo, en el que la síntesis de voz se realiza dentro del propio equipo del usuario."
               },
               {
                 "t": "p",
-                "x": "Nada de esto frenará la expansión de la narración con AI, pero un sondeo en el que dos tercios se niegan rotundamente indica que los oyentes prestan mucha atención a la voz."
+                "x": "Del 1 de enero al 30 de octubre de este año, el gasto por persona en audiolibros de YES24 aumentó un 69.3% frente al mismo periodo del año anterior. En octubre, el crecimiento fue del 493.6% respecto al mismo mes del año pasado."
+              },
+              {
+                "t": "p",
+                "x": "Por edades, los compradores de audiolibros se concentraron en la franja de los 40, con un 30.9%, seguida de la de los 30, con un 24.1%, y la de los 50, con un 21.9%. Por géneros, la novela fue la más alta con un 31.5%, seguida de humanidades e historia con un 17.5% y poesía y ensayo con un 8.6%."
+              },
+              {
+                "t": "p",
+                "x": "YES24 lanzó su servicio AI TTS en agosto de 2025. Desde entonces ha añadido funciones como el ajuste de la velocidad de reproducción y del tono, y temporizadores programables por tiempo o por página."
+              },
+              {
+                "t": "p",
+                "x": "Tras una encuesta de preferencias realizada del 26 de agosto al 25 de septiembre de este año, en la que participaron unos 4000 socios, añadió 2 voces AI. Actualmente ofrece 8 voces AI en total."
+              },
+              {
+                "t": "p",
+                "x": "Lee Jin-gu, director de la división de negocio digital de YES24, espera que la nueva función amplíe los usos del libro electrónico, como el aprendizaje de idiomas. Para celebrar el lanzamiento, organiza una prueba de escucha de libros recomendados y un concurso para adivinar títulos en inglés."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "RNIB 조사, 다수가\nAI-narrated 거부",
-          "body": "RNIB의 YouGov 조사에서 UK 65%가 AI-narrated 책을 거부했다.",
-          "mini_headline": "영국인, AI 오디오북 외면",
+        "en": {
+          "headline": "YES24 e-book AI voice reads\nKorean, English in one voice",
+          "body": "YES24 has added an AI voice feature that reads mixed Korean-English e-book sentences in a single voice.",
+          "mini_headline": "YES24 AI reads Korean and English",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-48.jpg",
-                "cap": "RNIB Talking Books 도서관이 현재 쓰는 포맷들. © Voice Over Herald"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/9/8205652/high.jpg",
+                "cap": "Promotional image for the 'Korean-English auto-switch' AI voice reading feature in YES24 e-books. (Provided by YES24. Resale and DB use prohibited) 2026.11.10/News1"
               },
               {
                 "t": "p",
-                "x": "Talking Books 도서관 90주년을 맞은 Royal National Institute of Blind People(RNIB)의 의뢰로 YouGov가 실시한 조사에서, UK 성인의 65%는 AI-narrated 오디오북을 아예 듣지 않겠다고 답했고 20%는 듣긴 하겠지만 사람 목소리를 선호한다고 답했다. 이 단체는 표본 규모나 조사 날짜를 공개하지 않았다."
+                "x": "YES24 said on the 10th that it has introduced an artificial intelligence voice conversion feature that reads sentences mixing Korean and English in e-books in a single voice."
               },
               {
                 "t": "p",
-                "x": "무엇 때문에 듣기를 멈추겠느냐는 질문에 42%는 좋아하지 않는 유명인 낭독자를, 30%는 상상한 인물과 크게 다른 목소리를, 26%는 강한 억양을 꼽았다. 낭독자의 어떤 점도 듣기를 멈출 이유가 되지 않는다는 응답은 16%에 그쳤다."
-              },
-              {
-                "t": "video",
-                "yt": "Q7S2q6b-Av4"
+                "x": "Existing voice reading had a problem: the voice or pronunciation changed when the language switched. The new feature processes Korean and English with the same AI voice, reducing breaks during language transitions."
               },
               {
                 "t": "p",
-                "x": "RNIB는 이 조사 결과와 함께 단체 회장 Victoria Smurfit이 이끈 Disney+ 드라마 Rivals 배우들의 짧은 녹음을 공개했다. 이 도서관은 56,000종을 보유하고 있으며 시각 장애가 있는 사람이면 누구나 무료로 이용할 수 있고, 지난해 대출은 백만 회를 넘었다. 첫 Talking Books는 1935년 11월 7일에 나갔다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/rnib-studio.jpg",
-                "cap": "RNIB를 위한 Talking Book 녹음 현장. 이미지: RNIB"
+                "x": "The technology uses Selvas AI's 'SELVAS deepTTS On-Device: Cross-lingual' solution. It supports an on-device approach, in which speech synthesis takes place within the user's device."
               },
               {
                 "t": "p",
-                "x": "이것으로 AI 낭독의 확산이 멈추지는 않겠지만, 삼분의 이가 단호히 거부한 이번 조사는 청취자들이 목소리에 세심하게 귀 기울이고 있음을 보여준다."
+                "x": "YES24's audiobook spending per 1 person from January 1 to October 30 this year rose 69.3% from the same period last year. The growth rate for October was 493.6% compared with the same month last year."
+              },
+              {
+                "t": "p",
+                "x": "By age, audiobook buyers were led by those in their 40s at 30.9%, followed by their 30s at 24.1% and their 50s at 21.9%. By genre, fiction ranked highest at 31.5%, followed by humanities and history at 17.5% and poetry and essays at 8.6%."
+              },
+              {
+                "t": "p",
+                "x": "YES24 launched its AI TTS service in August 2025. It has since added features such as playback speed and pitch adjustment and reservation timers by time or page."
+              },
+              {
+                "t": "p",
+                "x": "After a preference survey in which about 4000 members took part from August 26 to September 25 this year, it added 2 more AI voices. It now offers 8 AI voices in total."
+              },
+              {
+                "t": "p",
+                "x": "Lee Jin-gu, head of YES24's digital business division, said he expects the new feature to broaden how e-books are used, including for language learning. To mark the launch, the company is holding a recommended-book listening trial and an English title guessing event."
               }
             ]
           }
         },
         "ja": {
-          "headline": "RNIBの調査で多数が\nAI-narratedを拒否",
-          "body": "RNIBのYouGov調査でUK成人の65%がAI-narratedの本を聴かないと答えた。",
-          "mini_headline": "英国人はAI朗読に消極的",
+          "headline": "YES24電子書籍AI音声\n韓英文を一つの声で",
+          "body": "YES24が、韓英混在の文を一つの声で読む電子書籍のAI音声機能を導入した。",
+          "mini_headline": "YES24 AI韓英朗読",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-48.jpg",
-                "cap": "RNIBのTalking Books図書館が現在使っている形式。© Voice Over Herald"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/9/8205652/high.jpg",
+                "cap": "YES24電子書籍のAI音声朗読「韓英自動切り替え」機能の広報画像。(YES24提供。転売およびDB禁止) 2026.11.10/News1"
               },
               {
                 "t": "p",
-                "x": "Talking Books図書館の90周年に合わせて公表された、Royal National Institute of Blind People(RNIB)向けのYouGov調査によると、UK成人の65%はAI-narratedのオーディオブックをまったく聴かないと答え、20%は聴きはするが人間の声を好むと答えた。同団体はサンプル数や調査期間を公表していない。"
+                "x": "YES24は10日、電子書籍で韓国語と英語が混ざった文を一つの声で読み上げる人工知能の音声変換機能を導入したと明らかにした。"
               },
               {
                 "t": "p",
-                "x": "何があれば聴くのをやめるかという質問には、42%が好きではない有名人のナレーター、30%が登場人物について想像していたのと大きく異なる声、26%が強いなまりを挙げた。ナレーターに関してやめる理由になるものは何もないと答えたのは16%にとどまった。"
-              },
-              {
-                "t": "video",
-                "yt": "Q7S2q6b-Av4"
+                "x": "従来の音声朗読には、言語が切り替わる際に声や発音が変わる問題があった。新機能は韓国語と英語を同じAIボイスで処理し、言語切り替え時の途切れを減らす。"
               },
               {
                 "t": "p",
-                "x": "RNIBはこの調査結果とともに、同団体の会長Victoria Smurfitが率いるDisney+のドラマRivalsの俳優陣による短い録音を公開した。図書館の所蔵は56,000タイトルで、視覚に障害のある人なら誰でも無料で利用でき、昨年の貸出は百万回を超えた。最初のTalking Booksが届けられたのは1935年11月7日である。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/rnib-studio.jpg",
-                "cap": "RNIBのためにTalking Bookを録音する様子。画像:RNIB"
+                "x": "技術にはSelvas AIの「セルバス・ディープTTSオンデバイス」(SELVAS deepTTS On-Device: Cross-lingual)ソリューションを採用した。音声合成をユーザーの端末内で行うオンデバイス方式に対応する。"
               },
               {
                 "t": "p",
-                "x": "これでAIナレーションの広がりが止まるわけではないが、三分の二がはっきり拒否するという調査結果は、聴き手が声に細心の注意を払っていることを示している。"
+                "x": "YES24の今年1月1日から10月30日までのオーディオブック1人当たり購入額は、前年同期比69.3%増えた。10月の増加率は前年同月比493.6%だった。"
+              },
+              {
+                "t": "p",
+                "x": "オーディオブック購入者の年代別比率は40代30.9%、30代24.1%、50代21.9%の順だった。ジャンル別では小説が31.5%で最も高く、人文・歴史17.5%、詩・エッセイ8.6%が続いた。"
+              },
+              {
+                "t": "p",
+                "x": "YES24は2025年8月にAI TTSサービスを開始した。その後、再生速度や音程の調整、時間・ページ単位の予約タイマーなどの機能を追加してきた。"
+              },
+              {
+                "t": "p",
+                "x": "今年8月26日から9月25日まで会員約4000人が参加した好み調査を経て、AIボイスを2種追加した。現在提供するAI音声は計8種だ。"
+              },
+              {
+                "t": "p",
+                "x": "YES24デジタル事業本部長のイ・ジング氏は、新機能によって語学学習など電子書籍の活用範囲が広がると期待を示した。発売を記念し、おすすめ書籍の試聴体験と英語タイトル当てイベントを実施する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "RNIB调查：多数英国人\n拒听AI-narrated书",
-          "body": "RNIB委托YouGov调查发现，65%的UK成年人不愿听AI-narrated有声书。",
-          "mini_headline": "英国人对AI有声书说不",
+          "headline": "YES24电子书AI语音\n韩英句子一个声音读",
+          "body": "YES24为电子书推出AI语音功能，可用同一个声音朗读韩英混合句子。",
+          "mini_headline": "YES24 AI韩英朗读",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-48.jpg",
-                "cap": "RNIB的Talking Books图书馆目前使用的格式。© Voice Over Herald"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/9/8205652/high.jpg",
+                "cap": "YES24电子书AI语音朗读“韩英自动切换”功能宣传图。（YES24提供，禁止转售及DB使用）2026.11.10/News1"
               },
               {
                 "t": "p",
-                "x": "在Talking Books图书馆迎来90周年之际，Royal National Institute of Blind People（RNIB）委托YouGov开展的一项调查发现，65%的UK成年人根本不会收听AI-narrated有声书，20%会听但更喜欢人声。该机构未公布样本量或调查日期。"
+                "x": "YES24于10日表示，已在电子书中引入人工智能语音转换功能，可用同一个声音朗读韩语和英语混合的句子。"
               },
               {
                 "t": "p",
-                "x": "当被问及什么会让他们停止收听时，42%选择了自己不喜欢的名人朗读者，30%选择了与自己想象中的角色差别很大的声音，26%选择了浓重的口音。只有16%表示朗读者的任何方面都不会让他们停止收听。"
-              },
-              {
-                "t": "video",
-                "yt": "Q7S2q6b-Av4"
+                "x": "以往的语音朗读在语言切换时，声音或发音会发生变化。新功能用同一个AI声音处理韩语和英语，减少语言切换时的停顿。"
               },
               {
                 "t": "p",
-                "x": "RNIB在发布这项研究的同时，还推出了由该机构主席Victoria Smurfit带领、Disney+剧集Rivals演员录制的简短音频。该图书馆藏有56,000种图书，凡有视力障碍者均可免费使用，去年借阅量超过百万次。第一批Talking Books于1935年11月7日送出。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/rnib-studio.jpg",
-                "cap": "为RNIB录制Talking Book。图片：RNIB"
+                "x": "该技术采用了Selvas AI的“Selvas深度TTS端侧”(SELVAS deepTTS On-Device: Cross-lingual)解决方案，支持在用户设备内完成语音合成的端侧方式。"
               },
               {
                 "t": "p",
-                "x": "这一切都无法阻止AI朗读的普及，但一项三分之二受访者直接拒绝的调查表明，听众正密切关注声音本身。"
+                "x": "今年1月1日至10月30日，YES24有声书1人平均购买额同比增长69.3%。10月增长率较去年同月为493.6%。"
+              },
+              {
+                "t": "p",
+                "x": "按年龄看，有声书购买者中40多岁占30.9%，30多岁占24.1%，50多岁占21.9%。按类型看，小说占比最高，为31.5%，人文·历史占17.5%，诗歌·随笔占8.6%。"
+              },
+              {
+                "t": "p",
+                "x": "YES24于2025年8月推出AI TTS服务，此后陆续增加了播放速度和音调调节、按时间或页数预约定时等功能。"
+              },
+              {
+                "t": "p",
+                "x": "今年8月26日至9月25日，约4000名会员参与了偏好调查，此后YES24新增2种AI声音。目前共提供8种AI语音。"
+              },
+              {
+                "t": "p",
+                "x": "YES24数字业务本部长Lee Jin-gu表示，期待新功能拓宽语言学习等电子书的使用范围。为纪念上线，YES24将举办推荐图书试听体验和猜英文书名活动。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sondeo de RNIB: amplio rechazo\na los audiolibros AI-narrated",
-          "body": "Un sondeo de YouGov para el RNIB revela que el 65% de los adultos del UK no escucharía audiolibros AI-narrated.",
-          "mini_headline": "Los británicos rechazan los audiolibros con AI",
+          "headline": "Voz AI en e-books de YES24\ncoreano e inglés con una voz",
+          "body": "YES24 incorporó a sus e-books una función de voz AI que lee frases mixtas en coreano e inglés con una sola voz.",
+          "mini_headline": "YES24: lectura AI en coreano e inglés",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-48.jpg",
-                "cap": "Los formatos que usa hoy la biblioteca Talking Books de RNIB. © Voice Over Herald"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/9/8205652/high.jpg",
+                "cap": "Imagen promocional de la función de lectura por voz con inteligencia artificial 'cambio automático coreano-inglés' de los e-books de YES24. (Cortesía de YES24. Prohibida su reventa y uso en DB) 2026.11.10/News1"
               },
               {
                 "t": "p",
-                "x": "Una encuesta de YouGov para el Royal National Institute of Blind People (RNIB), publicada cuando la organización celebra los 90 años de su biblioteca Talking Books, reveló que el 65% de los adultos del UK no escucharía en absoluto un audiolibro AI-narrated, y que el 20% lo escucharía pero preferiría una voz humana. La organización no publicó el tamaño de la muestra ni las fechas del trabajo de campo."
+                "x": "YES24 anunció el día 10 que ha incorporado a sus libros electrónicos una función de conversión de voz con inteligencia artificial que lee con una sola voz las frases que mezclan coreano e inglés."
               },
               {
                 "t": "p",
-                "x": "Al preguntarles qué les haría dejar de escuchar, el 42% señaló a un narrador famoso que no les gustara, el 30% una voz muy distinta de como habían imaginado al personaje y el 26% un acento marcado. Solo el 16% dijo que nada de un narrador les haría dejar de escuchar."
-              },
-              {
-                "t": "video",
-                "yt": "Q7S2q6b-Av4"
+                "x": "La lectura por voz anterior tenía el problema de que la voz o la pronunciación cambiaban al pasar de un idioma a otro. La nueva función procesa el coreano y el inglés con la misma voz AI, lo que reduce los cortes en el cambio de idioma."
               },
               {
                 "t": "p",
-                "x": "RNIB publicó la investigación junto con breves grabaciones de actores de la serie de Disney+ Rivals, encabezados por la presidenta de la organización, Victoria Smurfit. La biblioteca cuenta con 56,000 títulos, gratuitos para cualquier persona con una afección visual, y el año pasado sus libros se prestaron más de un millón de veces. Los primeros Talking Books se enviaron el 7 de noviembre de 1935."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/rnib-studio.jpg",
-                "cap": "Grabación de un Talking Book para RNIB. Imagen: RNIB"
+                "x": "La tecnología aplica la solución 'SELVAS deepTTS On-Device: Cross-lingual' de Selvas AI. Admite el modo en el dispositivo, en el que la síntesis de voz se realiza dentro del propio equipo del usuario."
               },
               {
                 "t": "p",
-                "x": "Nada de esto frenará la expansión de la narración con AI, pero un sondeo en el que dos tercios se niegan rotundamente indica que los oyentes prestan mucha atención a la voz."
+                "x": "Del 1 de enero al 30 de octubre de este año, el gasto por persona en audiolibros de YES24 aumentó un 69.3% frente al mismo periodo del año anterior. En octubre, el crecimiento fue del 493.6% respecto al mismo mes del año pasado."
+              },
+              {
+                "t": "p",
+                "x": "Por edades, los compradores de audiolibros se concentraron en la franja de los 40, con un 30.9%, seguida de la de los 30, con un 24.1%, y la de los 50, con un 21.9%. Por géneros, la novela fue la más alta con un 31.5%, seguida de humanidades e historia con un 17.5% y poesía y ensayo con un 8.6%."
+              },
+              {
+                "t": "p",
+                "x": "YES24 lanzó su servicio AI TTS en agosto de 2025. Desde entonces ha añadido funciones como el ajuste de la velocidad de reproducción y del tono, y temporizadores programables por tiempo o por página."
+              },
+              {
+                "t": "p",
+                "x": "Tras una encuesta de preferencias realizada del 26 de agosto al 25 de septiembre de este año, en la que participaron unos 4000 socios, añadió 2 voces AI. Actualmente ofrece 8 voces AI en total."
+              },
+              {
+                "t": "p",
+                "x": "Lee Jin-gu, director de la división de negocio digital de YES24, espera que la nueva función amplíe los usos del libro electrónico, como el aprendizaje de idiomas. Para celebrar el lanzamiento, organiza una prueba de escucha de libros recomendados y un concurso para adivinar títulos en inglés."
               }
             ]
           }
@@ -1049,15 +1169,15 @@
       }
     },
     {
-      "id": "scholarlykitchen-peer-review-tacit",
+      "id": "books-japan-ip-genai-terms",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "동료 심사의 암묵지,\nAI가 배울 길 없다",
-      "body": "한 기고문은 심사 자동화로 학습 못 할 편집 암묵지가 사라질 수 있다고 경고했다.",
-      "mini_headline": "동료 심사, AI로 대체 어렵다",
+      "headline": "일본, 자국 IP를 AI로\n권리자가 정한 조건으로",
+      "body": "일본이 애니·만화·음악 등 문화 IP를 권리자 조건대로 생성형 AI에 내준다.",
+      "mini_headline": "일본, IP의 AI 이용 조건",
       "tool": "Books",
-      "source": "The Scholarly Kitchen",
-      "url": "https://scholarlykitchen.sspnet.org/2026/11/05/guest-post-what-ai-cant-learn-about-peer-review-because-nobody-can-explain-it/",
+      "source": "The Asahi Shimbun",
+      "url": "https://www.asahi.com/ajw/articles/16889120",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -1065,149 +1185,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2300954589.jpg"
+            "src": "https://p.potaufeu.asahi.com/ea20-p/picture/31541082/61f58bd68b656de926eb7ac66b22a04e.jpg",
+            "cap": "왼쪽부터 Japan IP.AI Co-Creation Association의 Takami Kondo 대표이사, 작사가 Yasushi Akimoto, 편집자 겸 프로듀서 Motoi Chujo가 9월 11일 도쿄 시부야구에서 협회 설립 기자회견 뒤 열린 행사에서 발언하고 있다. (Ryo Jozuka)"
           },
           {
             "t": "p",
-            "x": "Taylor & Francis의 Victoria Corless는 기고문에서 AI가 사람의 판단을 대체하기보다 보조해야 한다는 공감대가 생기고 있지만, 이 공감대가 더 어려운 질문을 놓친다고 주장한다. 동료 심사에서 사람은 정확히 무슨 일을 하는가? 독일의 연구자와 편집자를 인터뷰해 보니, 전문가들이 실제로 발휘하면서도 규칙으로 온전히 풀어내지는 못하는 암묵지가 드러났다. AI가 따를 명시적 규칙으로 옮기기 어려운 지식이다."
+            "x": "일본이 애니메이션, 만화, 음악 같은 문화 자산을 권리자가 정한 조건대로 생성형 인공지능 시대에 들여보내려 한다."
           },
           {
             "t": "p",
-            "x": "Technical University of Munich의 Wilhelm Windisch는 일부 세부 분야에서 원고를 제대로 심사할 자격을 갖춘 사람은 “전 세계에 20–30명뿐”이고, 인용 문헌이 실제로는 주장을 뒷받침하지 않는다는 걸 알아채려면 수년의 연구 경험이 필요할 수 있다고 말했다. Medical School Hamburg의 Anja Baethge는 지금의 심사 기준으로 학습한 AI가 현재의 패러다임을 강요할 위험이 있다고 경고했다. “우리 분야에 아무런 움직임도 없게 될 것입니다.”"
+            "x": "새로 출범한 Japan IP.AI Co-Creation Association은 창작자 등 권리자가 자기 작품을 AI가 어떻게 쓸지 미리 정하고, 허락된 이용에서 생긴 수익을 권리자가 돌려받는 체계를 내놨다. 이용 내역은 기록으로 남고 대가는 AI 기업이 권리자에게 나눠 준다."
           },
           {
             "t": "p",
-            "x": "BMJ Open 논문 119편의 동료 심사 보고서 398건을 분석한 연구에 따르면, 사람 심사자는 더 상세하고 다양한 주제의 피드백을 줬고 AI 심사는 일상적·구조적 문제와 서식 문제에 집중했다. 사람이 과정에 계속 참여해도 AI 요약과 검색은 심사자가 무엇을 알아차리는지를 바꿀 수 있다. 그러니 출판사는 편집 워크플로를 자동화하기 전에 사람의 판단에 무엇이 담겨 있는지부터 이해해야 한다."
+            "x": "Alibaba Group과 Canva 등 해외 AI 관련(AI-related) 기업 아홉 곳이 가이드라인 지지를 밝혔다. “Captain Tsubasa”(캡틴 츠바사) 권리자와 작사가 Yasushi Akimoto의 사무소도 동참했다. Takami Kondo 대표이사는 “새로운 글로벌 표준을 만들고 싶고, 그것을 일본에서 하고 싶다”고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "중국 생성형 AI 기업 MiniMax Group은 올가을부터 이 체계를 들여올 예정이고, ByteDance의 일본 자회사도 논의 중이다. 협회는 Google과 OpenAI에도 참여를 타진할 계획이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Peer review runs on know-how\nAI has nothing to learn from",
-          "body": "A guest post warns automated peer review could lose tacit editorial expertise never made explicit enough to train on.",
-          "mini_headline": "Peer review resists AI",
+          "headline": "Japan brings its IP into AI\non rights holders' terms",
+          "body": "Japan aims to bring anime, manga, music and other cultural IP into generative AI on terms set by rights holders.",
+          "mini_headline": "Japan's AI terms for IP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2300954589.jpg"
+                "src": "https://p.potaufeu.asahi.com/ea20-p/picture/31541082/61f58bd68b656de926eb7ac66b22a04e.jpg",
+                "cap": "From left: Takami Kondo, representative director of the Japan IP.AI Co-Creation Association, lyricist Yasushi Akimoto and editor-producer Motoi Chujo speak at an event following a news conference announcing the association’s establishment in Tokyo’s Shibuya Ward on Sept. 11. (Ryo Jozuka)"
               },
               {
                 "t": "p",
-                "x": "In a guest post, Victoria Corless of Taylor & Francis argues that the emerging consensus that AI should assist rather than replace human judgement misses a harder question: what, exactly, are the human parts of peer review doing? Interviews with researchers and editors in Germany pointed to tacit knowledge that experts demonstrate in practice without being able to fully specify the rules — knowledge difficult to translate into explicit rules that AI can follow."
+                "x": "Japan is seeking to bring its anime, manga, music and other cultural properties into the age of generative artificial intelligence on terms set by rights holders."
               },
               {
                 "t": "p",
-                "x": "Wilhelm Windisch of the Technical University of Munich said some subfields have “only 20–30 people worldwide” genuinely qualified to review a manuscript, and that spotting cited literature that does not actually support a claim can take years of research experience. Anja Baethge of Medical School Hamburg warned that AI trained on today’s review standards risks enforcing the current paradigm: “There would be no movement in our fields.”"
+                "x": "The newly established Japan IP.AI Co-Creation Association announced a framework under which creators and other rights holders can specify in advance how their works may be used by AI, with revenue from authorized use flowing back to them. Usage is recorded, and payments are distributed by AI companies to rights holders."
               },
               {
                 "t": "p",
-                "x": "A study of 398 peer review reports on 119 BMJ Open articles found human reviewers gave more detailed, thematically diverse feedback, while AI reviews focused on routine, structural and formatting issues. Even when a human stays in the loop, AI summaries and retrieval can shape what the reviewer notices — so publishers should understand what human judgement involves before automating editorial workflows."
+                "x": "Nine overseas AI-related companies, including Alibaba Group and Canva, have endorsed the guidelines, as have rights holders for “Captain Tsubasa” and the office of lyricist Yasushi Akimoto. “We want to create a new global standard, and to do so from Japan,” said representative director Takami Kondo."
+              },
+              {
+                "t": "p",
+                "x": "Chinese generative AI company MiniMax Group is set to adopt the system from this autumn, and ByteDance’s Japanese subsidiary is in discussions. The association plans to approach Google and OpenAI."
               }
             ]
           }
         },
         "ko": {
-          "headline": "동료 심사의 암묵지,\nAI가 배울 길 없다",
-          "body": "한 기고문은 심사 자동화로 학습 못 할 편집 암묵지가 사라질 수 있다고 경고했다.",
-          "mini_headline": "동료 심사, AI로 대체 어렵다",
+          "headline": "일본, 자국 IP를 AI로\n권리자가 정한 조건으로",
+          "body": "일본이 애니·만화·음악 등 문화 IP를 권리자 조건대로 생성형 AI에 내준다.",
+          "mini_headline": "일본, IP의 AI 이용 조건",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2300954589.jpg"
+                "src": "https://p.potaufeu.asahi.com/ea20-p/picture/31541082/61f58bd68b656de926eb7ac66b22a04e.jpg",
+                "cap": "왼쪽부터 Japan IP.AI Co-Creation Association의 Takami Kondo 대표이사, 작사가 Yasushi Akimoto, 편집자 겸 프로듀서 Motoi Chujo가 9월 11일 도쿄 시부야구에서 협회 설립 기자회견 뒤 열린 행사에서 발언하고 있다. (Ryo Jozuka)"
               },
               {
                 "t": "p",
-                "x": "Taylor & Francis의 Victoria Corless는 기고문에서 AI가 사람의 판단을 대체하기보다 보조해야 한다는 공감대가 생기고 있지만, 이 공감대가 더 어려운 질문을 놓친다고 주장한다. 동료 심사에서 사람은 정확히 무슨 일을 하는가? 독일의 연구자와 편집자를 인터뷰해 보니, 전문가들이 실제로 발휘하면서도 규칙으로 온전히 풀어내지는 못하는 암묵지가 드러났다. AI가 따를 명시적 규칙으로 옮기기 어려운 지식이다."
+                "x": "일본이 애니메이션, 만화, 음악 같은 문화 자산을 권리자가 정한 조건대로 생성형 인공지능 시대에 들여보내려 한다."
               },
               {
                 "t": "p",
-                "x": "Technical University of Munich의 Wilhelm Windisch는 일부 세부 분야에서 원고를 제대로 심사할 자격을 갖춘 사람은 “전 세계에 20–30명뿐”이고, 인용 문헌이 실제로는 주장을 뒷받침하지 않는다는 걸 알아채려면 수년의 연구 경험이 필요할 수 있다고 말했다. Medical School Hamburg의 Anja Baethge는 지금의 심사 기준으로 학습한 AI가 현재의 패러다임을 강요할 위험이 있다고 경고했다. “우리 분야에 아무런 움직임도 없게 될 것입니다.”"
+                "x": "새로 출범한 Japan IP.AI Co-Creation Association은 창작자 등 권리자가 자기 작품을 AI가 어떻게 쓸지 미리 정하고, 허락된 이용에서 생긴 수익을 권리자가 돌려받는 체계를 내놨다. 이용 내역은 기록으로 남고 대가는 AI 기업이 권리자에게 나눠 준다."
               },
               {
                 "t": "p",
-                "x": "BMJ Open 논문 119편의 동료 심사 보고서 398건을 분석한 연구에 따르면, 사람 심사자는 더 상세하고 다양한 주제의 피드백을 줬고 AI 심사는 일상적·구조적 문제와 서식 문제에 집중했다. 사람이 과정에 계속 참여해도 AI 요약과 검색은 심사자가 무엇을 알아차리는지를 바꿀 수 있다. 그러니 출판사는 편집 워크플로를 자동화하기 전에 사람의 판단에 무엇이 담겨 있는지부터 이해해야 한다."
+                "x": "Alibaba Group과 Canva 등 해외 AI 관련(AI-related) 기업 아홉 곳이 가이드라인 지지를 밝혔다. “Captain Tsubasa”(캡틴 츠바사) 권리자와 작사가 Yasushi Akimoto의 사무소도 동참했다. Takami Kondo 대표이사는 “새로운 글로벌 표준을 만들고 싶고, 그것을 일본에서 하고 싶다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "중국 생성형 AI 기업 MiniMax Group은 올가을부터 이 체계를 들여올 예정이고, ByteDance의 일본 자회사도 논의 중이다. 협회는 Google과 OpenAI에도 참여를 타진할 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "査読は暗黙知で回る\nAIには学ぶ材料がない",
-          "body": "寄稿は、査読の自動化で学習できない編集上の暗黙知が失われかねないと警告する。",
-          "mini_headline": "査読はAIに置き換えにくい",
+          "headline": "日本、自国IPをAIへ\n権利者が決める条件で",
+          "body": "日本はアニメや漫画、音楽などの文化IPを、権利者が定める条件で生成AIに取り込む構えだ。",
+          "mini_headline": "日本、IPのAI利用条件",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2300954589.jpg"
+                "src": "https://p.potaufeu.asahi.com/ea20-p/picture/31541082/61f58bd68b656de926eb7ac66b22a04e.jpg",
+                "cap": "左から、Japan IP.AI Co-Creation Associationの代表理事Takami Kondo、作詞家Yasushi Akimoto、編集者兼プロデューサーのMotoi Chujo。9月11日、東京・渋谷区で協会設立を発表した記者会見後のイベントで話す。(Ryo Jozuka)"
               },
               {
                 "t": "p",
-                "x": "Taylor & FrancisのVictoria Corlessは寄稿で、AIは人間の判断を置き換えるのではなく支援すべきだという広がりつつある合意は、より難しい問いを見落としていると論じる。査読において人間が担う部分は、正確には何をしているのか。ドイツの研究者や編集者へのインタビューからは、専門家が実践では発揮しながらも、そのルールを完全には言語化できない暗黙知の存在が浮かび上がった。AIが従える明示的なルールに落とし込むのが難しい知識である。"
+                "x": "日本は、アニメや漫画、音楽などの文化資産を、権利者が定める条件のもとで生成人工知能の時代に取り込もうとしている。"
               },
               {
                 "t": "p",
-                "x": "Technical University of MunichのWilhelm Windischは、一部の下位分野では原稿をきちんと査読できる人は「世界に20–30人しかいない」と述べ、引用文献が実際には主張を裏付けていないことに気づくには何年もの研究経験が必要になりうると語った。Medical School HamburgのAnja Baethgeは、現在の査読基準で訓練されたAIは今のパラダイムを押し付けるおそれがあると警告した。「私たちの分野に動きがなくなってしまうでしょう」"
+                "x": "新たに設立されたJapan IP.AI Co-Creation Associationは、クリエイターなどの権利者が自らの作品をAIにどう使わせるかを事前に指定でき、許諾された利用から生じた収益が権利者に還元される枠組みを発表した。利用は記録され、対価はAI企業から権利者に分配される。"
               },
               {
                 "t": "p",
-                "x": "BMJ Openの論文119本に対する査読報告書398件を分析した研究では、人間の査読者のほうが詳細でテーマの幅広いフィードバックを示し、AIによる査読は定型的な問題や構成、書式の問題に集中していた。人間が関与し続ける場合でも、AIによる要約や検索は査読者が何に気づくかを左右しうる。だからこそ出版社は、編集ワークフローを自動化する前に、人間の判断が何を伴うのかを理解すべきだ。"
+                "x": "Alibaba GroupやCanvaなど海外のAI関連(AI-related)企業九社がガイドラインに賛同し、「Captain Tsubasa」(キャプテン翼)の権利者や作詞家Yasushi Akimotoの事務所も賛同した。代表理事のTakami Kondoは「新しいグローバル標準を、日本からつくりたい」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "中国の生成AI企業MiniMax Groupはこの秋からこの仕組みを導入する予定で、ByteDanceの日本子会社も協議中だ。協会はGoogleやOpenAIにも働きかける方針だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "同行评审靠默会知识\nAI无从学起",
-          "body": "一篇客座文章警告，同行评审自动化可能丢失从未明确到可供训练的编辑默会知识。",
-          "mini_headline": "同行评审难被AI取代",
+          "headline": "日本让本国IP进入AI\n条件由权利方来定",
+          "body": "日本希望按权利方设定的条件，将动画、漫画、音乐等文化IP引入生成式AI。",
+          "mini_headline": "日本为IP定AI使用条件",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2300954589.jpg"
+                "src": "https://p.potaufeu.asahi.com/ea20-p/picture/31541082/61f58bd68b656de926eb7ac66b22a04e.jpg",
+                "cap": "左起：Japan IP.AI Co-Creation Association代表理事Takami Kondo、作词家Yasushi Akimoto和编辑兼制作人Motoi Chujo。9月11日，他们在东京涩谷区宣布协会成立的记者会后举行的活动上发言。（Ryo Jozuka）"
               },
               {
                 "t": "p",
-                "x": "Taylor & Francis的Victoria Corless在一篇客座文章中指出，AI应当辅助而非取代人类判断这一正在形成的共识，忽略了一个更难的问题：同行评审中由人完成的部分，究竟在做什么？对德国研究人员和编辑的访谈指向一种默会知识——专家在实践中能够展现，却无法完整说明其规则——这类知识很难转化为AI能够遵循的明确规则。"
+                "x": "日本正寻求在权利方设定的条件下，把动画、漫画、音乐等文化资产带入生成式人工智能时代。"
               },
               {
                 "t": "p",
-                "x": "Technical University of Munich的Wilhelm Windisch表示，某些细分领域“全世界只有20–30人”真正有资格审阅一篇稿件，而要发现被引文献其实并不支持某项论点，可能需要多年的研究经验。Medical School Hamburg的Anja Baethge警告说，用当今评审标准训练出来的AI可能会固化现有范式：“我们的领域将不会再有任何变化。”"
+                "x": "新成立的Japan IP.AI Co-Creation Association公布了一套框架：创作者等权利方可预先指定其作品能以何种方式被AI使用，经授权使用所得收入将回流给他们。使用情况会被记录，费用由AI公司分配给权利方。"
               },
               {
                 "t": "p",
-                "x": "一项针对119篇BMJ Open文章的398份同行评审报告的研究发现，人类审稿人给出的反馈更详细、主题更多样，而AI评审则集中在常规性、结构性和格式问题上。即便有人始终参与其中，AI的摘要和检索也会影响审稿人注意到什么——因此，出版商在将编辑工作流程自动化之前，应先弄清人类判断究竟包含什么。"
+                "x": "包括Alibaba Group和Canva在内的九家海外AI相关（AI-related）企业已表态支持该指南，《Captain Tsubasa》（足球小将）的权利方和作词家Yasushi Akimoto的事务所也表示支持。代表理事Takami Kondo说：“我们希望创建新的全球标准，而且要从日本出发。”"
+              },
+              {
+                "t": "p",
+                "x": "中国生成式AI公司MiniMax Group计划从今年秋季起采用该体系，ByteDance的日本子公司也在洽谈中。协会还计划接触Google和OpenAI。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La revisión por pares depende\nde un saber que la AI no aprende",
-          "body": "Un artículo invitado advierte que automatizar la revisión por pares haría perder un saber tácito nunca explicitado.",
-          "mini_headline": "La revisión por pares se resiste a la AI",
+          "headline": "Japón lleva su IP a la AI\nsegún los titulares de derechos",
+          "body": "Japón quiere llevar anime, manga, música y otra IP cultural a la AI generativa con condiciones de los titulares.",
+          "mini_headline": "Japón fija términos de AI para su IP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2300954589.jpg"
+                "src": "https://p.potaufeu.asahi.com/ea20-p/picture/31541082/61f58bd68b656de926eb7ac66b22a04e.jpg",
+                "cap": "Desde la izquierda: Takami Kondo, director representante de la Japan IP.AI Co-Creation Association; el letrista Yasushi Akimoto, y el editor y productor Motoi Chujo hablan en un acto posterior a la rueda de prensa en la que se anunció la creación de la asociación, en el distrito de Shibuya, Tokio, el 11 de septiembre. (Ryo Jozuka)"
               },
               {
                 "t": "p",
-                "x": "En un artículo invitado, Victoria Corless, de Taylor & Francis, sostiene que el consenso emergente de que la AI debe asistir al juicio humano en lugar de sustituirlo pasa por alto una pregunta más difícil: ¿qué hacen exactamente las partes humanas de la revisión por pares? Las entrevistas con investigadores y editores en Alemania apuntaron a un conocimiento tácito que los expertos demuestran en la práctica sin poder especificar del todo sus reglas, un conocimiento difícil de traducir en reglas explícitas que la AI pueda seguir."
+                "x": "Japón busca llevar su anime, su manga, su música y otros bienes culturales a la era de la inteligencia artificial generativa en condiciones fijadas por los titulares de derechos."
               },
               {
                 "t": "p",
-                "x": "Wilhelm Windisch, de la Technical University of Munich, afirmó que en algunos subcampos hay «solo 20–30 personas en todo el mundo» realmente cualificadas para revisar un manuscrito, y que detectar bibliografía citada que en realidad no respalda una afirmación puede requerir años de experiencia investigadora. Anja Baethge, de la Medical School Hamburg, advirtió que una AI entrenada con los estándares de revisión actuales corre el riesgo de imponer el paradigma vigente: «No habría ningún movimiento en nuestros campos»."
+                "x": "La recién creada Japan IP.AI Co-Creation Association anunció un marco en el que los creadores y otros titulares de derechos pueden especificar de antemano cómo puede usar la AI sus obras, y los ingresos por el uso autorizado vuelven a ellos. El uso queda registrado y las empresas de AI distribuyen los pagos a los titulares de derechos."
               },
               {
                 "t": "p",
-                "x": "Un estudio de 398 informes de revisión por pares sobre 119 artículos de BMJ Open halló que los revisores humanos ofrecían comentarios más detallados y temáticamente diversos, mientras que las revisiones de AI se centraban en cuestiones rutinarias, estructurales y de formato. Incluso cuando una persona sigue en el proceso, los resúmenes y la búsqueda de la AI pueden condicionar lo que el revisor advierte, por lo que las editoriales deberían entender qué implica el juicio humano antes de automatizar sus flujos de trabajo editoriales."
+                "x": "Nueve empresas extranjeras AI-related, es decir, vinculadas a la AI, entre ellas Alibaba Group y Canva, han respaldado las directrices, al igual que los titulares de derechos de “Captain Tsubasa” y la oficina del letrista Yasushi Akimoto. “Queremos crear un nuevo estándar mundial, y hacerlo desde Japón”, dijo el director representante Takami Kondo."
+              },
+              {
+                "t": "p",
+                "x": "La empresa china de AI generativa MiniMax Group adoptará el sistema a partir de este otoño, y la filial japonesa de ByteDance está en conversaciones. La asociación planea acercarse a Google y OpenAI."
               }
             ]
           }
@@ -1215,105 +1365,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "동료 심사의 암묵지,\nAI가 배울 길 없다",
-          "body": "한 기고문은 심사 자동화로 학습 못 할 편집 암묵지가 사라질 수 있다고 경고했다.",
-          "mini_headline": "동료 심사, AI로 대체 어렵다",
+          "headline": "일본, 자국 IP를 AI로\n권리자가 정한 조건으로",
+          "body": "일본이 애니·만화·음악 등 문화 IP를 권리자 조건으로 생성형 AI에 연결한다.",
+          "mini_headline": "일본, IP의 AI 이용 조건",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2300954589.jpg"
+                "src": "https://p.potaufeu.asahi.com/ea20-p/picture/31541082/61f58bd68b656de926eb7ac66b22a04e.jpg",
+                "cap": "왼쪽부터 Japan IP.AI Co-Creation Association의 Takami Kondo 대표이사, 작사가 Yasushi Akimoto, 편집자 겸 프로듀서 Motoi Chujo가 9월 11일 도쿄 시부야구에서 협회 설립 기자회견 뒤 열린 행사에서 발언하고 있다. (Ryo Jozuka)"
               },
               {
                 "t": "p",
-                "x": "Taylor & Francis의 Victoria Corless는 기고문에서, AI가 사람의 판단을 대체하기보다 보조해야 한다는 공감대가 형성되고 있지만 이는 더 어려운 질문을 놓치고 있다고 주장한다. 동료 심사에서 사람이 맡는 부분은 정확히 무엇을 하고 있는가? 독일의 연구자와 편집자를 인터뷰한 결과, 전문가들이 실제로는 발휘하지만 그 규칙을 온전히 명시하지는 못하는 암묵지가 드러났다. AI가 따를 수 있는 명시적 규칙으로 옮기기 어려운 지식이다."
+                "x": "일본이 애니메이션, 만화, 음악 등 문화 자산을 권리자가 정한 조건에 따라 생성형 인공지능 시대로 들이려 한다."
               },
               {
                 "t": "p",
-                "x": "Technical University of Munich의 Wilhelm Windisch는 일부 세부 분야에는 원고를 제대로 심사할 자격을 갖춘 사람이 “전 세계에 20–30명뿐”이며, 인용된 문헌이 실제로는 주장을 뒷받침하지 않는다는 점을 알아채려면 수년의 연구 경험이 필요할 수 있다고 말했다. Medical School Hamburg의 Anja Baethge는 오늘날의 심사 기준으로 학습한 AI가 현재의 패러다임을 강요할 위험이 있다고 경고했다. “우리 분야에 아무런 움직임도 없게 될 것입니다.”"
+                "x": "새로 설립된 Japan IP.AI Co-Creation Association은 창작자 등 권리자가 자기 작품을 AI가 어떻게 이용할 수 있는지 미리 지정하고, 허락된 이용에서 나온 수익이 권리자에게 돌아가는 체계를 발표했다. 이용 내역은 기록되고, 대가는 AI 기업이 권리자에게 분배한다."
               },
               {
                 "t": "p",
-                "x": "BMJ Open 논문 119편에 대한 동료 심사 보고서 398건을 분석한 연구에 따르면, 사람 심사자는 더 상세하고 주제가 다양한 피드백을 준 반면 AI 심사는 일상적·구조적 문제와 서식 문제에 집중했다. 사람이 과정에 계속 참여하더라도 AI 요약과 검색은 심사자가 무엇을 알아차리는지에 영향을 줄 수 있다. 그러니 출판사는 편집 워크플로를 자동화하기 전에 사람의 판단이 무엇을 수반하는지부터 이해해야 한다."
+                "x": "Alibaba Group과 Canva를 비롯한 해외 AI 관련(AI-related) 기업 아홉 곳이 가이드라인에 지지를 밝혔고, “Captain Tsubasa”(캡틴 츠바사)의 권리자와 작사가 Yasushi Akimoto의 사무소도 뜻을 같이했다. Takami Kondo 대표이사는 “새로운 글로벌 표준을 만들고 싶고, 그것을 일본에서 하고 싶다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "중국 생성형 AI 기업 MiniMax Group은 올가을부터 이 체계를 도입할 예정이며, ByteDance의 일본 자회사도 논의 중이다. 협회는 Google과 OpenAI에도 참여를 타진할 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "査読は暗黙知で回る\nAIには学ぶ材料がない",
-          "body": "寄稿は、査読の自動化で学習できない編集上の暗黙知が失われかねないと警告する。",
-          "mini_headline": "査読はAIに置き換えにくい",
+          "headline": "日本、自国IPをAIへ\n権利者が決める条件で",
+          "body": "日本はアニメや漫画、音楽などの文化IPを、権利者が定める条件で生成AIに取り込む構えだ。",
+          "mini_headline": "日本、IPのAI利用条件",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2300954589.jpg"
+                "src": "https://p.potaufeu.asahi.com/ea20-p/picture/31541082/61f58bd68b656de926eb7ac66b22a04e.jpg",
+                "cap": "左から、Japan IP.AI Co-Creation Associationの代表理事Takami Kondo、作詞家Yasushi Akimoto、編集者兼プロデューサーのMotoi Chujo。9月11日、東京・渋谷区で協会設立を発表した記者会見後のイベントで話す。(Ryo Jozuka)"
               },
               {
                 "t": "p",
-                "x": "Taylor & FrancisのVictoria Corlessは寄稿で、AIは人間の判断を置き換えるのではなく支援すべきだという広がりつつある合意は、より難しい問いを見落としていると論じる。査読において人間が担う部分は、正確には何をしているのか。ドイツの研究者や編集者へのインタビューからは、専門家が実践では発揮しながらも、そのルールを完全には言語化できない暗黙知の存在が浮かび上がった。AIが従える明示的なルールに落とし込むのが難しい知識である。"
+                "x": "日本は、アニメや漫画、音楽などの文化資産を、権利者が定める条件のもとで生成人工知能の時代に取り込もうとしている。"
               },
               {
                 "t": "p",
-                "x": "Technical University of MunichのWilhelm Windischは、一部の下位分野では原稿をきちんと査読できる人は「世界に20–30人しかいない」と述べ、引用文献が実際には主張を裏付けていないことに気づくには何年もの研究経験が必要になりうると語った。Medical School HamburgのAnja Baethgeは、現在の査読基準で訓練されたAIは今のパラダイムを押し付けるおそれがあると警告した。「私たちの分野に動きがなくなってしまうでしょう」"
+                "x": "新たに設立されたJapan IP.AI Co-Creation Associationは、クリエイターなどの権利者が自らの作品をAIにどう使わせるかを事前に指定でき、許諾された利用から生じた収益が権利者に還元される枠組みを発表した。利用は記録され、対価はAI企業から権利者に分配される。"
               },
               {
                 "t": "p",
-                "x": "BMJ Openの論文119本に対する査読報告書398件を分析した研究では、人間の査読者のほうが詳細でテーマの幅広いフィードバックを示し、AIによる査読は定型的な問題や構成、書式の問題に集中していた。人間が関与し続ける場合でも、AIによる要約や検索は査読者が何に気づくかを左右しうる。だからこそ出版社は、編集ワークフローを自動化する前に、人間の判断が何を伴うのかを理解すべきだ。"
+                "x": "Alibaba GroupやCanvaなど海外のAI関連(AI-related)企業九社がガイドラインに賛同し、「Captain Tsubasa」(キャプテン翼)の権利者や作詞家Yasushi Akimotoの事務所も賛同した。代表理事のTakami Kondoは「新しいグローバル標準を、日本からつくりたい」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "中国の生成AI企業MiniMax Groupはこの秋からこの仕組みを導入する予定で、ByteDanceの日本子会社も協議中だ。協会はGoogleやOpenAIにも働きかける方針だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "同行评审靠默会知识\nAI无从学起",
-          "body": "一篇客座文章警告，同行评审自动化可能丢失从未明确到可供训练的编辑默会知识。",
-          "mini_headline": "同行评审难被AI取代",
+          "headline": "日本让本国IP进入AI\n条件由权利方来定",
+          "body": "日本希望按权利方设定的条件，将动画、漫画、音乐等文化IP引入生成式AI。",
+          "mini_headline": "日本为IP定AI使用条件",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2300954589.jpg"
+                "src": "https://p.potaufeu.asahi.com/ea20-p/picture/31541082/61f58bd68b656de926eb7ac66b22a04e.jpg",
+                "cap": "左起：Japan IP.AI Co-Creation Association代表理事Takami Kondo、作词家Yasushi Akimoto和编辑兼制作人Motoi Chujo。9月11日，他们在东京涩谷区宣布协会成立的记者会后举行的活动上发言。（Ryo Jozuka）"
               },
               {
                 "t": "p",
-                "x": "Taylor & Francis的Victoria Corless在一篇客座文章中指出，AI应当辅助而非取代人类判断这一正在形成的共识，忽略了一个更难的问题：同行评审中由人完成的部分，究竟在做什么？对德国研究人员和编辑的访谈指向一种默会知识——专家在实践中能够展现，却无法完整说明其规则——这类知识很难转化为AI能够遵循的明确规则。"
+                "x": "日本正寻求在权利方设定的条件下，把动画、漫画、音乐等文化资产带入生成式人工智能时代。"
               },
               {
                 "t": "p",
-                "x": "Technical University of Munich的Wilhelm Windisch表示，某些细分领域“全世界只有20–30人”真正有资格审阅一篇稿件，而要发现被引文献其实并不支持某项论点，可能需要多年的研究经验。Medical School Hamburg的Anja Baethge警告说，用当今评审标准训练出来的AI可能会固化现有范式：“我们的领域将不会再有任何变化。”"
+                "x": "新成立的Japan IP.AI Co-Creation Association公布了一套框架：创作者等权利方可预先指定其作品能以何种方式被AI使用，经授权使用所得收入将回流给他们。使用情况会被记录，费用由AI公司分配给权利方。"
               },
               {
                 "t": "p",
-                "x": "一项针对119篇BMJ Open文章的398份同行评审报告的研究发现，人类审稿人给出的反馈更详细、主题更多样，而AI评审则集中在常规性、结构性和格式问题上。即便有人始终参与其中，AI的摘要和检索也会影响审稿人注意到什么——因此，出版商在将编辑工作流程自动化之前，应先弄清人类判断究竟包含什么。"
+                "x": "包括Alibaba Group和Canva在内的九家海外AI相关（AI-related）企业已表态支持该指南，《Captain Tsubasa》（足球小将）的权利方和作词家Yasushi Akimoto的事务所也表示支持。代表理事Takami Kondo说：“我们希望创建新的全球标准，而且要从日本出发。”"
+              },
+              {
+                "t": "p",
+                "x": "中国生成式AI公司MiniMax Group计划从今年秋季起采用该体系，ByteDance的日本子公司也在洽谈中。协会还计划接触Google和OpenAI。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La revisión por pares depende\nde un saber que la AI no aprende",
-          "body": "Un artículo invitado advierte que automatizar la revisión por pares haría perder un saber tácito nunca explicitado.",
-          "mini_headline": "La revisión por pares se resiste a la AI",
+          "headline": "Japón lleva su IP a la AI\nsegún los titulares de derechos",
+          "body": "Japón quiere llevar anime, manga, música y otra IP cultural a la AI generativa con condiciones de los titulares.",
+          "mini_headline": "Japón fija términos de AI para su IP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2300954589.jpg"
+                "src": "https://p.potaufeu.asahi.com/ea20-p/picture/31541082/61f58bd68b656de926eb7ac66b22a04e.jpg",
+                "cap": "Desde la izquierda: Takami Kondo, director representante de la Japan IP.AI Co-Creation Association; el letrista Yasushi Akimoto, y el editor y productor Motoi Chujo hablan en un acto posterior a la rueda de prensa en la que se anunció la creación de la asociación, en el distrito de Shibuya, Tokio, el 11 de septiembre. (Ryo Jozuka)"
               },
               {
                 "t": "p",
-                "x": "En un artículo invitado, Victoria Corless, de Taylor & Francis, sostiene que el consenso emergente de que la AI debe asistir al juicio humano en lugar de sustituirlo pasa por alto una pregunta más difícil: ¿qué hacen exactamente las partes humanas de la revisión por pares? Las entrevistas con investigadores y editores en Alemania apuntaron a un conocimiento tácito que los expertos demuestran en la práctica sin poder especificar del todo sus reglas, un conocimiento difícil de traducir en reglas explícitas que la AI pueda seguir."
+                "x": "Japón busca llevar su anime, su manga, su música y otros bienes culturales a la era de la inteligencia artificial generativa en condiciones fijadas por los titulares de derechos."
               },
               {
                 "t": "p",
-                "x": "Wilhelm Windisch, de la Technical University of Munich, afirmó que en algunos subcampos hay «solo 20–30 personas en todo el mundo» realmente cualificadas para revisar un manuscrito, y que detectar bibliografía citada que en realidad no respalda una afirmación puede requerir años de experiencia investigadora. Anja Baethge, de la Medical School Hamburg, advirtió que una AI entrenada con los estándares de revisión actuales corre el riesgo de imponer el paradigma vigente: «No habría ningún movimiento en nuestros campos»."
+                "x": "La recién creada Japan IP.AI Co-Creation Association anunció un marco en el que los creadores y otros titulares de derechos pueden especificar de antemano cómo puede usar la AI sus obras, y los ingresos por el uso autorizado vuelven a ellos. El uso queda registrado y las empresas de AI distribuyen los pagos a los titulares de derechos."
               },
               {
                 "t": "p",
-                "x": "Un estudio de 398 informes de revisión por pares sobre 119 artículos de BMJ Open halló que los revisores humanos ofrecían comentarios más detallados y temáticamente diversos, mientras que las revisiones de AI se centraban en cuestiones rutinarias, estructurales y de formato. Incluso cuando una persona sigue en el proceso, los resúmenes y la búsqueda de la AI pueden condicionar lo que el revisor advierte, por lo que las editoriales deberían entender qué implica el juicio humano antes de automatizar sus flujos de trabajo editoriales."
+                "x": "Nueve empresas extranjeras AI-related, es decir, vinculadas a la AI, entre ellas Alibaba Group y Canva, han respaldado las directrices, al igual que los titulares de derechos de “Captain Tsubasa” y la oficina del letrista Yasushi Akimoto. “Queremos crear un nuevo estándar mundial, y hacerlo desde Japón”, dijo el director representante Takami Kondo."
+              },
+              {
+                "t": "p",
+                "x": "La empresa china de AI generativa MiniMax Group adoptará el sistema a partir de este otoño, y la filial japonesa de ByteDance está en conversaciones. La asociación planea acercarse a Google y OpenAI."
               }
             ]
           }
@@ -1321,311 +1491,441 @@
       }
     },
     {
-      "id": "vinland-saga-yukimura-ai-fanart",
-      "source_lang": "en",
+      "id": "books-flitto-kpa-data",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Vinland Saga\n작가 AI 팬아트 역풍",
-      "body": "Makoto Yukimura가 AI-generated 팬아트 칭찬에 역풍을 맞았다.",
-      "mini_headline": "Vinland Saga 작가, AI 팬아트 논란",
+      "headline": "플리토, 출판 저작물\nAI 학습 데이터로 공급",
+      "body": "플리토가 대한출판문화협회와 AI 학습용 출판데이터 공급·거래 시장 조성에 나섰다.",
+      "mini_headline": "플리토 AI 출판데이터",
       "tool": "Books",
-      "source": "ComicBook.com",
-      "url": "https://comicbook.com/anime/news/ai-controversy-puts-critically-acclaimed-vinland-saga-creator-in-the-spotlight/",
+      "source": "ZDNet Korea",
+      "url": "https://zdnet.co.kr/view/?no=20261109170434",
       "accent": "#eb367f",
       "motif": "swatch",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
+            "t": "p",
+            "x": "플리토가 출판 저작물을 인공지능(AI) 학습에 활용할 수 있도록 데이터 공급 체계 마련에 나섰다."
+          },
+          {
+            "t": "p",
+            "x": "플리토는 지난 4일 대한출판문화협회와 AI 학습용 출판데이터 공급 · 거래 시장 조성을 위한 업무협약을 체결했다고 9일 밝혔다. 협회가 보유한 출판데이터 공급 역량과 플리토 데이터 정제·가공 기술을 결합하는 것이 협약 골자다."
+          },
+          {
+            "t": "p",
+            "x": "출판데이터 공급 조건과 개별 계약 체결 여부는 해당 저작물 저작권자와 출판권자 동의를 전제로 정한다. 구체적인 사업 범위와 추진 절차·대가는 향후 사업별 계약에서 정한다."
+          },
+          {
             "t": "img",
-            "src": "https://comicbook.com/wp-content/uploads/sites/4/2026/01/Vinland-Saga.jpg?resize=2000,1125"
+            "src": "https://image.zdnet.co.kr/2026/11/09/2b121073d396ca3cb7b643a2debfe25c.jpg",
+            "cap": "지난 4일 종로구 대한출판문화협회 대강당에서 진행된 업무협약식에서 김진구 플리토 최고데이터책임자(오른쪽)와 김태헌 대한출판문화협회 회장이 기념 촬영을 하고 있다. (사진=플리토)"
           },
           {
             "t": "p",
-            "x": "호평받은 청년 만화 Vinland Saga의 작가 Makoto Yukimura가 괜한 AI 논란에 휘말렸다. 20년 연재가 끝나고 한 해가 넘게 지났지만 Yukimura는 지금도 X에서 작품에서 영감을 받은 팬아트를 비롯한 팬들의 게시물에 꾸준히 댓글을 단다. 그런데 최근 그가 칭찬한 팬아트가 AI로 만든 것으로 보이면서 곤란해졌다."
+            "x": "플리토는 출판데이터를 AI 학습에 쓸 수 있는 형태로 가공하고 품질을 검증하는 기술을 지원한다. 데이터를 안전하게 처리할 수 있도록 컴퓨팅 인프라와 보안 환경도 제공한다."
           },
           {
             "t": "p",
-            "x": "한 팬에게서 Thorfinn을 그린 그 작품이 AI로 만들어졌다는 말을 들은 Yukimura는 AI가 잘한다고만 답했다. 일부 팬은 이를 AI 지지 신호로 받아들였고, 몇 시간 뒤 그는 X에 이렇게 해명했다."
+            "x": "대한출판문화협회는 출판사와 협의하고 수요처에 데이터를 공급하는 창구를 맡는다. 출판데이터 수집·관리 체계는 협회가 독립적으로 운영한다."
           },
           {
             "t": "p",
-            "x": "“와 하하, 제가 ‘AI가 잘한다’고 말해서 다들 놀랐네요. AI는 그림을 훔치고, AI가 너무 발전하면 저는 곤란해집니다. 우리가 곤란한 이유는 AI가 어느 정도 잘하기 때문입니다. 그건 그냥 사실이에요. 긍정하는 게 아닙니다.” — Makoto Yukimura (@makotoyukimura), 2026년 11월 8일"
+            "x": "양측은 출판데이터를 활용할 수요처를 발굴하고 거래를 활성화할 계획이다. 정부와 공공기관이 추진하는 AI 데이터 관련 사업에도 공동 참여를 추진한다."
           },
           {
             "t": "p",
-            "x": "만화계에서 AI 사용은 첨예한 논쟁거리가 됐다. 작업에 AI를 들이는 데 전적으로 찬성하는 작가도 있고, 최근에는 Chainsaw Man 애니메이션 제작에 AI가 쓰인 사실도 드러났다. 애니메이션·만화 업계가 AI 사용을 보는 시각은 빠르게 바뀌고 있다."
+            "x": "이정수 플리토 대표는 \"고도화된 우리 데이터 기술력을 바탕으로 저작권자와 AI 산업이 함께 성장하는 건강한 국가 AI 데이터 인프라를 확립하는 데 적극 기여하겠다\"고 밝혔다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Vinland Saga creator faces\nbacklash over AI fan art",
-          "body": "Vinland Saga's Makoto Yukimura faced backlash after praising fan art that turned out to be AI-generated.",
-          "mini_headline": "Vinland Saga AI art backlash",
+        "ko": {
+          "headline": "플리토, 출판 저작물\nAI 학습 데이터로 공급",
+          "body": "플리토가 대한출판문화협회와 AI 학습용 출판데이터 공급·거래 시장 조성에 나섰다.",
+          "mini_headline": "플리토 AI 출판데이터",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "플리토가 출판 저작물을 인공지능(AI) 학습에 활용할 수 있도록 데이터 공급 체계 마련에 나섰다."
+              },
+              {
+                "t": "p",
+                "x": "플리토는 지난 4일 대한출판문화협회와 AI 학습용 출판데이터 공급 · 거래 시장 조성을 위한 업무협약을 체결했다고 9일 밝혔다. 협회가 보유한 출판데이터 공급 역량과 플리토 데이터 정제·가공 기술을 결합하는 것이 협약 골자다."
+              },
+              {
+                "t": "p",
+                "x": "출판데이터 공급 조건과 개별 계약 체결 여부는 해당 저작물 저작권자와 출판권자 동의를 전제로 정한다. 구체적인 사업 범위와 추진 절차·대가는 향후 사업별 계약에서 정한다."
+              },
+              {
                 "t": "img",
-                "src": "https://comicbook.com/wp-content/uploads/sites/4/2026/01/Vinland-Saga.jpg?resize=2000,1125"
+                "src": "https://image.zdnet.co.kr/2026/11/09/2b121073d396ca3cb7b643a2debfe25c.jpg",
+                "cap": "지난 4일 종로구 대한출판문화협회 대강당에서 진행된 업무협약식에서 김진구 플리토 최고데이터책임자(오른쪽)와 김태헌 대한출판문화협회 회장이 기념 촬영을 하고 있다. (사진=플리토)"
               },
               {
                 "t": "p",
-                "x": "The creator of the critically acclaimed seinen manga series Vinland Saga, Makoto Yukimura, has found himself caught in an unnecessary AI controversy. Over a year after the 20-year series ended, Yukimura regularly comments on fans' posts on X, including fan art inspired by the series. However, a recent piece of fan art that Yukimura appreciated, which apparently was created using AI, has landed him in trouble."
+                "x": "플리토는 출판데이터를 AI 학습에 쓸 수 있는 형태로 가공하고 품질을 검증하는 기술을 지원한다. 데이터를 안전하게 처리할 수 있도록 컴퓨팅 인프라와 보안 환경도 제공한다."
               },
               {
                 "t": "p",
-                "x": "After learning from a fan that the artwork of Thorfinn was created using AI, Yukimura simply remarked that AI does a good job, and some fans interpreted his response as a sign that he supports AI. Hours later he clarified on X:"
+                "x": "대한출판문화협회는 출판사와 협의하고 수요처에 데이터를 공급하는 창구를 맡는다. 출판데이터 수집·관리 체계는 협회가 독립적으로 운영한다."
               },
               {
                 "t": "p",
-                "x": "\"Wow haha, I surprised everyone because I said \"AI does a good job\". AI steals art, and I'm in trouble if AI develops too much. The reason why we are in trouble is because AI does a good job to some extent. It's just a fact. It is not an affirmation.\" — Makoto Yukimura (@makotoyukimura), November 8, 2026"
+                "x": "양측은 출판데이터를 활용할 수요처를 발굴하고 거래를 활성화할 계획이다. 정부와 공공기관이 추진하는 AI 데이터 관련 사업에도 공동 참여를 추진한다."
               },
               {
                 "t": "p",
-                "x": "The usage of AI in manga has become a highly controversial topic, as some artists fully support incorporating AI into their work, and it was recently revealed that AI was used in the creation of the Chainsaw Man anime. Perceptions of AI usage in the anime and manga industries are actively changing."
+                "x": "이정수 플리토 대표는 \"고도화된 우리 데이터 기술력을 바탕으로 저작권자와 AI 산업이 함께 성장하는 건강한 국가 AI 데이터 인프라를 확립하는 데 적극 기여하겠다\"고 밝혔다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Vinland Saga\n작가 AI 팬아트 역풍",
-          "body": "Makoto Yukimura가 AI-generated 팬아트 칭찬에 역풍을 맞았다.",
-          "mini_headline": "Vinland Saga 작가, AI 팬아트 논란",
+        "en": {
+          "headline": "Flitto turns published works\ninto AI training data",
+          "body": "Flitto and the Korean Publishers Association will build a market to supply and trade publishing data for AI training.",
+          "mini_headline": "Flitto AI publishing data",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Flitto has begun building a data supply system so that published works can be used for artificial intelligence (AI) training."
+              },
+              {
+                "t": "p",
+                "x": "Flitto said on the 9th that it signed a business agreement with the Korean Publishers Association on the 4th to create a market for supplying and trading publishing data for AI training. The core of the agreement is combining the association's publishing data supply capabilities with Flitto's data refining and processing technology."
+              },
+              {
+                "t": "p",
+                "x": "Supply conditions for publishing data and whether to sign individual contracts will be determined on the premise of consent from the copyright holders and publishing rights holders of the works concerned. The specific business scope, procedures and compensation will be set in future contracts for each project."
+              },
+              {
                 "t": "img",
-                "src": "https://comicbook.com/wp-content/uploads/sites/4/2026/01/Vinland-Saga.jpg?resize=2000,1125"
+                "src": "https://image.zdnet.co.kr/2026/11/09/2b121073d396ca3cb7b643a2debfe25c.jpg",
+                "cap": "Flitto Chief Data Officer Kim Jin-gu (right) and Korean Publishers Association President Kim Tae-heon pose for a photo at the business agreement ceremony held on the 4th in the main auditorium of the Korean Publishers Association in Jongno-gu. (Photo=Flitto)"
               },
               {
                 "t": "p",
-                "x": "호평받은 청년 만화 Vinland Saga의 작가 Makoto Yukimura가 괜한 AI 논란에 휘말렸다. 20년 연재가 끝나고 한 해가 넘게 지났지만 Yukimura는 지금도 X에서 작품에서 영감을 받은 팬아트를 비롯한 팬들의 게시물에 꾸준히 댓글을 단다. 그런데 최근 그가 칭찬한 팬아트가 AI로 만든 것으로 보이면서 곤란해졌다."
+                "x": "Flitto supports technology to process publishing data into a form usable for AI training and to verify its quality. It also provides computing infrastructure and a security environment so the data can be handled safely."
               },
               {
                 "t": "p",
-                "x": "한 팬에게서 Thorfinn을 그린 그 작품이 AI로 만들어졌다는 말을 들은 Yukimura는 AI가 잘한다고만 답했다. 일부 팬은 이를 AI 지지 신호로 받아들였고, 몇 시간 뒤 그는 X에 이렇게 해명했다."
+                "x": "The Korean Publishers Association serves as the channel that consults with publishers and supplies data to buyers. The association independently operates the system for collecting and managing publishing data."
               },
               {
                 "t": "p",
-                "x": "“와 하하, 제가 ‘AI가 잘한다’고 말해서 다들 놀랐네요. AI는 그림을 훔치고, AI가 너무 발전하면 저는 곤란해집니다. 우리가 곤란한 이유는 AI가 어느 정도 잘하기 때문입니다. 그건 그냥 사실이에요. 긍정하는 게 아닙니다.” — Makoto Yukimura (@makotoyukimura), 2026년 11월 8일"
+                "x": "The two sides plan to find buyers that will use publishing data and to boost transactions. They will also seek to jointly take part in AI data projects run by the government and public institutions."
               },
               {
                 "t": "p",
-                "x": "만화계에서 AI 사용은 첨예한 논쟁거리가 됐다. 작업에 AI를 들이는 데 전적으로 찬성하는 작가도 있고, 최근에는 Chainsaw Man 애니메이션 제작에 AI가 쓰인 사실도 드러났다. 애니메이션·만화 업계가 AI 사용을 보는 시각은 빠르게 바뀌고 있다."
+                "x": "Flitto chief executive Lee Jung-soo said, \"Based on our advanced data technology, we will actively contribute to establishing a healthy national AI data infrastructure in which copyright holders and the AI industry grow together.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "Vinland Saga作者\nAIファンアートで反発",
-          "body": "Makoto YukimuraがAI-generatedのファンアートを称賛し反発を受けた。",
-          "mini_headline": "Vinland Saga作者にAIファンアート騒動",
+          "headline": "Flitto、出版物を\nAI学習データとして供給",
+          "body": "Flittoが大韓出版文化協会とAI学習用出版データの供給・取引市場づくりに乗り出した。",
+          "mini_headline": "Flitto AI出版データ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Flittoが、出版物を人工知能(AI)の学習に活用できるよう、データ供給体制の整備に乗り出した。"
+              },
+              {
+                "t": "p",
+                "x": "Flittoは9日、大韓出版文化協会と4日にAI学習用出版データの供給・取引市場づくりに向けた業務協約を結んだと明らかにした。協会が持つ出版データの供給力と、Flittoのデータ精製・加工技術を組み合わせることが協約の柱だ。"
+              },
+              {
+                "t": "p",
+                "x": "出版データの供給条件や個別契約を結ぶかどうかは、当該著作物の著作権者と出版権者の同意を前提に決める。具体的な事業範囲や推進手続き、対価は今後の事業ごとの契約で定める。"
+              },
+              {
                 "t": "img",
-                "src": "https://comicbook.com/wp-content/uploads/sites/4/2026/01/Vinland-Saga.jpg?resize=2000,1125"
+                "src": "https://image.zdnet.co.kr/2026/11/09/2b121073d396ca3cb7b643a2debfe25c.jpg",
+                "cap": "4日、鍾路区の大韓出版文化協会大講堂で行われた業務協約式で、Flittoの最高データ責任者キム・ジング氏(右)と大韓出版文化協会のキム・テホン会長が記念撮影をしている。(写真=Flitto)"
               },
               {
                 "t": "p",
-                "x": "高い評価を受けた青年漫画シリーズVinland Sagaの作者Makoto Yukimuraが、思わぬAI論争に巻き込まれた。20年にわたる連載が終わって一年以上たった今も、YukimuraはX上でファンの投稿に頻繁にコメントしており、作品に触発されたファンアートもその対象だ。しかし、Yukimuraが評価した最近のファンアートがどうやらAIで作られたものだったことから、彼は苦境に立たされた。"
+                "x": "Flittoは、出版データをAI学習に使える形に加工し、品質を検証する技術を提供する。データを安全に処理できるよう、コンピューティングインフラとセキュリティ環境も提供する。"
               },
               {
                 "t": "p",
-                "x": "Thorfinnを描いたその作品がAIで作られたとファンから知らされたYukimuraは、AIはよくできていると述べただけだったが、一部のファンはこれをAI支持の表明と受け取った。数時間後、彼はX上でこう釈明した。"
+                "x": "大韓出版文化協会は、出版社との協議や需要先へのデータ供給の窓口を担う。出版データの収集・管理体制は協会が独自に運営する。"
               },
               {
                 "t": "p",
-                "x": "「わあ、はは、『AIはよくできている』と言ったので皆さんを驚かせてしまいました。AIは絵を盗むものですし、AIが発展しすぎたら私は困ります。私たちが困っている理由は、AIがある程度よくできているからです。それは単なる事実です。肯定ではありません」— Makoto Yukimura (@makotoyukimura)、2026年11月8日"
+                "x": "両者は出版データを活用する需要先を開拓し、取引を活性化させる計画だ。政府や公共機関が進めるAIデータ関連事業への共同参加も目指す。"
               },
               {
                 "t": "p",
-                "x": "漫画におけるAIの使用は非常に議論を呼ぶテーマとなっている。作品にAIを取り入れることを全面的に支持する作家もいるほか、最近ではChainsaw Manのアニメの制作にAIが使われていたことも明らかになった。アニメ・漫画業界におけるAI利用の受け止め方は、いま大きく変わりつつある。"
+                "x": "Flittoのイ・ジョンス代表は「高度化した当社のデータ技術力をもとに、著作権者とAI産業がともに成長する健全な国家AIデータインフラの確立に積極的に貢献したい」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Vinland Saga作者\n因AI同人画遭批评",
-          "body": "Makoto Yukimura称赞的同人画原来是AI-generated，因而遭到批评。",
-          "mini_headline": "Vinland Saga作者陷AI同人画风波",
+          "headline": "Flitto将出版作品\n作为AI训练数据供应",
+          "body": "Flitto与大韩出版文化协会联手，着手打造AI训练用出版数据供应与交易市场。",
+          "mini_headline": "Flitto AI出版数据",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Flitto着手建立数据供应体系，让出版作品可用于人工智能（AI）训练。"
+              },
+              {
+                "t": "p",
+                "x": "Flitto于9日表示，已于4日与大韩出版文化协会签署业务协议，共同打造AI训练用出版数据的供应和交易市场。协议的核心是将协会的出版数据供应能力与Flitto的数据清洗、加工技术相结合。"
+              },
+              {
+                "t": "p",
+                "x": "出版数据的供应条件及是否签订单独合同，将以相关作品的著作权人和出版权人同意为前提来确定。具体业务范围、推进程序和报酬将在今后各项业务的合同中商定。"
+              },
+              {
                 "t": "img",
-                "src": "https://comicbook.com/wp-content/uploads/sites/4/2026/01/Vinland-Saga.jpg?resize=2000,1125"
+                "src": "https://image.zdnet.co.kr/2026/11/09/2b121073d396ca3cb7b643a2debfe25c.jpg",
+                "cap": "4日，在钟路区大韩出版文化协会大礼堂举行的业务协议签署仪式上，Flitto首席数据官Kim Jin-gu（右）与大韩出版文化协会会长Kim Tae-heon合影留念。（图片=Flitto）"
               },
               {
                 "t": "p",
-                "x": "广受好评的青年漫画系列Vinland Saga的作者Makoto Yukimura，意外卷入了一场不必要的AI争议。这部连载20年的作品完结已一年多，Yukimura仍经常在X上评论粉丝的帖子，其中包括受该作启发的同人画。然而，他最近称赞的一幅同人画似乎是用AI创作的，让他陷入了麻烦。"
+                "x": "Flitto提供将出版数据加工成可用于AI训练的形式并验证其质量的技术，还提供计算基础设施和安全环境，确保数据得到安全处理。"
               },
               {
                 "t": "p",
-                "x": "从一位粉丝那里得知那幅Thorfinn的画作是用AI创作的之后，Yukimura只是说AI做得不错，一些粉丝便将他的回应解读为支持AI的信号。几小时后，他在X上澄清道："
+                "x": "大韩出版文化协会负责与出版社协商，并作为向需求方供应数据的窗口。出版数据的收集和管理体系由协会独立运营。"
               },
               {
                 "t": "p",
-                "x": "“哇哈哈，我说了‘AI做得不错’，把大家吓了一跳。AI会窃取艺术，如果AI发展得太过头，我就麻烦了。我们之所以陷入困境，正是因为AI在某种程度上做得不错。这只是事实，并不是肯定。”——Makoto Yukimura（@makotoyukimura），2026年11月8日"
+                "x": "双方计划发掘使用出版数据的需求方，推动交易活跃。双方还将共同参与政府和公共机构推进的AI数据相关项目。"
               },
               {
                 "t": "p",
-                "x": "AI在漫画中的使用已成为一个极具争议的话题：一些画师完全支持将AI融入创作，而最近也有消息披露，Chainsaw Man动画的制作中使用了AI。动漫与漫画行业对AI使用的看法正在快速转变。"
+                "x": "Flitto代表Lee Jung-soo表示：“我们将以先进的数据技术为基础，积极助力建立著作权人与AI产业共同成长的健康国家AI数据基础设施。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "El autor de Vinland Saga recibe\ncríticas por un fan art con AI",
-          "body": "Makoto Yukimura, autor de Vinland Saga, recibió críticas tras elogiar un fan art que resultó ser AI-generated.",
-          "mini_headline": "Polémica por un fan art con AI en Vinland Saga",
+          "headline": "Flitto ofrecerá obras editadas\ncomo datos de entrenamiento AI",
+          "body": "Flitto y la Asociación Coreana de Editores crearán un mercado de suministro y comercio de datos editoriales para AI.",
+          "mini_headline": "Flitto: datos editoriales para AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Flitto ha comenzado a crear un sistema de suministro de datos para que las obras publicadas puedan usarse en el entrenamiento de inteligencia artificial (AI)."
+              },
+              {
+                "t": "p",
+                "x": "Flitto anunció el día 9 que el día 4 firmó un acuerdo de colaboración con la Asociación Coreana de Editores para crear un mercado de suministro y comercio de datos editoriales para entrenar AI. El núcleo del acuerdo es combinar la capacidad de la asociación para suministrar datos editoriales con la tecnología de depuración y procesamiento de datos de Flitto."
+              },
+              {
+                "t": "p",
+                "x": "Las condiciones de suministro de los datos editoriales y la firma de contratos individuales se decidirán con el consentimiento previo de los titulares de los derechos de autor y de edición de cada obra. El alcance concreto del negocio, los procedimientos y la contraprestación se fijarán en futuros contratos por proyecto."
+              },
+              {
                 "t": "img",
-                "src": "https://comicbook.com/wp-content/uploads/sites/4/2026/01/Vinland-Saga.jpg?resize=2000,1125"
+                "src": "https://image.zdnet.co.kr/2026/11/09/2b121073d396ca3cb7b643a2debfe25c.jpg",
+                "cap": "Kim Jin-gu, director de datos de Flitto (derecha), y Kim Tae-heon, presidente de la Asociación Coreana de Editores, posan para una foto en la ceremonia de firma del acuerdo celebrada el día 4 en el auditorio de la asociación, en el distrito de Jongno. (Foto=Flitto)"
               },
               {
                 "t": "p",
-                "x": "Makoto Yukimura, creador de la aclamada serie de manga seinen Vinland Saga, se ha visto envuelto en una polémica innecesaria sobre la AI. Más de un año después del final de la serie, publicada durante 20 años, Yukimura comenta con frecuencia publicaciones de fans en X, incluido fan art inspirado en la obra. Sin embargo, una reciente pieza de fan art que Yukimura elogió, al parecer creada con AI, le ha metido en problemas."
+                "x": "Flitto aporta tecnología para procesar los datos editoriales en un formato apto para el entrenamiento de AI y verificar su calidad. También ofrece infraestructura informática y un entorno de seguridad para que los datos se traten de forma segura."
               },
               {
                 "t": "p",
-                "x": "Después de que un fan le dijera que la ilustración de Thorfinn se había creado con AI, Yukimura se limitó a comentar que la AI hace un buen trabajo, y algunos fans interpretaron su respuesta como una señal de apoyo a la AI. Horas después, lo aclaró en X:"
+                "x": "La Asociación Coreana de Editores hará de ventanilla para negociar con las editoriales y suministrar datos a los demandantes. La asociación gestiona de forma independiente el sistema de recopilación y administración de datos editoriales."
               },
               {
                 "t": "p",
-                "x": "«Vaya, jaja, sorprendí a todos porque dije “la AI hace un buen trabajo”. La AI roba arte, y estaré en problemas si la AI se desarrolla demasiado. La razón por la que estamos en problemas es que la AI hace un buen trabajo hasta cierto punto. Es solo un hecho. No es una afirmación.» — Makoto Yukimura (@makotoyukimura), 8 de noviembre de 2026"
+                "x": "Ambas partes planean encontrar demandantes que utilicen datos editoriales y dinamizar las transacciones. También buscarán participar conjuntamente en proyectos de datos de AI impulsados por el Gobierno y organismos públicos."
               },
               {
                 "t": "p",
-                "x": "El uso de la AI en el manga se ha convertido en un tema muy controvertido: algunos artistas apoyan plenamente incorporar la AI a su trabajo, y recientemente se reveló que se usó AI en la creación del anime de Chainsaw Man. La percepción del uso de la AI en las industrias del anime y el manga está cambiando activamente."
+                "x": "Lee Jung-soo, director ejecutivo de Flitto, afirmó: \"Con nuestra avanzada tecnología de datos, contribuiremos activamente a establecer una infraestructura nacional de datos de AI sana en la que los titulares de derechos de autor y la industria de la AI crezcan juntos\"."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Vinland Saga\n작가 AI 팬아트 역풍",
-          "body": "Makoto Yukimura가 AI-generated 팬아트 칭찬에 역풍을 맞았다.",
-          "mini_headline": "Vinland Saga 작가, AI 팬아트 논란",
+        "en": {
+          "headline": "Flitto turns published works\ninto AI training data",
+          "body": "Flitto and the Korean Publishers Association will build a market to supply and trade publishing data for AI training.",
+          "mini_headline": "Flitto AI publishing data",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Flitto has begun building a data supply system so that published works can be used for artificial intelligence (AI) training."
+              },
+              {
+                "t": "p",
+                "x": "Flitto said on the 9th that it signed a business agreement with the Korean Publishers Association on the 4th to create a market for supplying and trading publishing data for AI training. The core of the agreement is combining the association's publishing data supply capabilities with Flitto's data refining and processing technology."
+              },
+              {
+                "t": "p",
+                "x": "Supply conditions for publishing data and whether to sign individual contracts will be determined on the premise of consent from the copyright holders and publishing rights holders of the works concerned. The specific business scope, procedures and compensation will be set in future contracts for each project."
+              },
+              {
                 "t": "img",
-                "src": "https://comicbook.com/wp-content/uploads/sites/4/2026/01/Vinland-Saga.jpg?resize=2000,1125"
+                "src": "https://image.zdnet.co.kr/2026/11/09/2b121073d396ca3cb7b643a2debfe25c.jpg",
+                "cap": "Flitto Chief Data Officer Kim Jin-gu (right) and Korean Publishers Association President Kim Tae-heon pose for a photo at the business agreement ceremony held on the 4th in the main auditorium of the Korean Publishers Association in Jongno-gu. (Photo=Flitto)"
               },
               {
                 "t": "p",
-                "x": "호평받은 청년 만화 시리즈 Vinland Saga의 작가 Makoto Yukimura가 불필요한 AI 논란에 휘말렸다. 20년 연재가 끝난 지 한 해가 넘은 지금도 Yukimura는 X에서 작품에서 영감을 받은 팬아트를 비롯해 팬들의 게시물에 꾸준히 댓글을 단다. 그런데 그가 좋게 평가한 최근 팬아트가 AI로 만들어진 것으로 보이면서 곤란한 처지에 놓였다."
+                "x": "Flitto supports technology to process publishing data into a form usable for AI training and to verify its quality. It also provides computing infrastructure and a security environment so the data can be handled safely."
               },
               {
                 "t": "p",
-                "x": "Thorfinn을 그린 그 작품이 AI로 만들어졌다는 사실을 한 팬에게 들은 Yukimura는 AI가 잘한다고만 말했고, 일부 팬은 이를 그가 AI를 지지한다는 신호로 받아들였다. 몇 시간 뒤 그는 X에서 이렇게 해명했다."
+                "x": "The Korean Publishers Association serves as the channel that consults with publishers and supplies data to buyers. The association independently operates the system for collecting and managing publishing data."
               },
               {
                 "t": "p",
-                "x": "“와 하하, 제가 ‘AI가 잘한다’고 말해서 다들 놀랐네요. AI는 그림을 훔치고, AI가 너무 발전하면 저는 곤란해집니다. 우리가 곤란한 이유는 AI가 어느 정도 잘하기 때문입니다. 그건 그냥 사실이에요. 긍정하는 게 아닙니다.” — Makoto Yukimura (@makotoyukimura), 2026년 11월 8일"
+                "x": "The two sides plan to find buyers that will use publishing data and to boost transactions. They will also seek to jointly take part in AI data projects run by the government and public institutions."
               },
               {
                 "t": "p",
-                "x": "만화에서의 AI 사용은 매우 논쟁적인 주제가 됐다. 일부 작가는 작업에 AI를 들이는 데 전적으로 찬성하고, 최근에는 Chainsaw Man 애니메이션 제작에 AI가 쓰였다는 사실도 밝혀졌다. 애니메이션·만화 업계에서 AI 사용에 대한 인식은 빠르게 바뀌고 있다."
+                "x": "Flitto chief executive Lee Jung-soo said, \"Based on our advanced data technology, we will actively contribute to establishing a healthy national AI data infrastructure in which copyright holders and the AI industry grow together.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "Vinland Saga作者\nAIファンアートで反発",
-          "body": "Makoto YukimuraがAI-generatedのファンアートを称賛し反発を受けた。",
-          "mini_headline": "Vinland Saga作者にAIファンアート騒動",
+          "headline": "Flitto、出版物を\nAI学習データとして供給",
+          "body": "Flittoが大韓出版文化協会とAI学習用出版データの供給・取引市場づくりに乗り出した。",
+          "mini_headline": "Flitto AI出版データ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Flittoが、出版物を人工知能(AI)の学習に活用できるよう、データ供給体制の整備に乗り出した。"
+              },
+              {
+                "t": "p",
+                "x": "Flittoは9日、大韓出版文化協会と4日にAI学習用出版データの供給・取引市場づくりに向けた業務協約を結んだと明らかにした。協会が持つ出版データの供給力と、Flittoのデータ精製・加工技術を組み合わせることが協約の柱だ。"
+              },
+              {
+                "t": "p",
+                "x": "出版データの供給条件や個別契約を結ぶかどうかは、当該著作物の著作権者と出版権者の同意を前提に決める。具体的な事業範囲や推進手続き、対価は今後の事業ごとの契約で定める。"
+              },
+              {
                 "t": "img",
-                "src": "https://comicbook.com/wp-content/uploads/sites/4/2026/01/Vinland-Saga.jpg?resize=2000,1125"
+                "src": "https://image.zdnet.co.kr/2026/11/09/2b121073d396ca3cb7b643a2debfe25c.jpg",
+                "cap": "4日、鍾路区の大韓出版文化協会大講堂で行われた業務協約式で、Flittoの最高データ責任者キム・ジング氏(右)と大韓出版文化協会のキム・テホン会長が記念撮影をしている。(写真=Flitto)"
               },
               {
                 "t": "p",
-                "x": "高い評価を受けた青年漫画シリーズVinland Sagaの作者Makoto Yukimuraが、思わぬAI論争に巻き込まれた。20年にわたる連載が終わって一年以上たった今も、YukimuraはX上でファンの投稿に頻繁にコメントしており、作品に触発されたファンアートもその対象だ。しかし、Yukimuraが評価した最近のファンアートがどうやらAIで作られたものだったことから、彼は苦境に立たされた。"
+                "x": "Flittoは、出版データをAI学習に使える形に加工し、品質を検証する技術を提供する。データを安全に処理できるよう、コンピューティングインフラとセキュリティ環境も提供する。"
               },
               {
                 "t": "p",
-                "x": "Thorfinnを描いたその作品がAIで作られたとファンから知らされたYukimuraは、AIはよくできていると述べただけだったが、一部のファンはこれをAI支持の表明と受け取った。数時間後、彼はX上でこう釈明した。"
+                "x": "大韓出版文化協会は、出版社との協議や需要先へのデータ供給の窓口を担う。出版データの収集・管理体制は協会が独自に運営する。"
               },
               {
                 "t": "p",
-                "x": "「わあ、はは、『AIはよくできている』と言ったので皆さんを驚かせてしまいました。AIは絵を盗むものですし、AIが発展しすぎたら私は困ります。私たちが困っている理由は、AIがある程度よくできているからです。それは単なる事実です。肯定ではありません」— Makoto Yukimura (@makotoyukimura)、2026年11月8日"
+                "x": "両者は出版データを活用する需要先を開拓し、取引を活性化させる計画だ。政府や公共機関が進めるAIデータ関連事業への共同参加も目指す。"
               },
               {
                 "t": "p",
-                "x": "漫画におけるAIの使用は非常に議論を呼ぶテーマとなっている。作品にAIを取り入れることを全面的に支持する作家もいるほか、最近ではChainsaw Manのアニメの制作にAIが使われていたことも明らかになった。アニメ・漫画業界におけるAI利用の受け止め方は、いま大きく変わりつつある。"
+                "x": "Flittoのイ・ジョンス代表は「高度化した当社のデータ技術力をもとに、著作権者とAI産業がともに成長する健全な国家AIデータインフラの確立に積極的に貢献したい」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Vinland Saga作者\n因AI同人画遭批评",
-          "body": "Makoto Yukimura称赞的同人画原来是AI-generated，因而遭到批评。",
-          "mini_headline": "Vinland Saga作者陷AI同人画风波",
+          "headline": "Flitto将出版作品\n作为AI训练数据供应",
+          "body": "Flitto与大韩出版文化协会联手，着手打造AI训练用出版数据供应与交易市场。",
+          "mini_headline": "Flitto AI出版数据",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Flitto着手建立数据供应体系，让出版作品可用于人工智能（AI）训练。"
+              },
+              {
+                "t": "p",
+                "x": "Flitto于9日表示，已于4日与大韩出版文化协会签署业务协议，共同打造AI训练用出版数据的供应和交易市场。协议的核心是将协会的出版数据供应能力与Flitto的数据清洗、加工技术相结合。"
+              },
+              {
+                "t": "p",
+                "x": "出版数据的供应条件及是否签订单独合同，将以相关作品的著作权人和出版权人同意为前提来确定。具体业务范围、推进程序和报酬将在今后各项业务的合同中商定。"
+              },
+              {
                 "t": "img",
-                "src": "https://comicbook.com/wp-content/uploads/sites/4/2026/01/Vinland-Saga.jpg?resize=2000,1125"
+                "src": "https://image.zdnet.co.kr/2026/11/09/2b121073d396ca3cb7b643a2debfe25c.jpg",
+                "cap": "4日，在钟路区大韩出版文化协会大礼堂举行的业务协议签署仪式上，Flitto首席数据官Kim Jin-gu（右）与大韩出版文化协会会长Kim Tae-heon合影留念。（图片=Flitto）"
               },
               {
                 "t": "p",
-                "x": "广受好评的青年漫画系列Vinland Saga的作者Makoto Yukimura，意外卷入了一场不必要的AI争议。这部连载20年的作品完结已一年多，Yukimura仍经常在X上评论粉丝的帖子，其中包括受该作启发的同人画。然而，他最近称赞的一幅同人画似乎是用AI创作的，让他陷入了麻烦。"
+                "x": "Flitto提供将出版数据加工成可用于AI训练的形式并验证其质量的技术，还提供计算基础设施和安全环境，确保数据得到安全处理。"
               },
               {
                 "t": "p",
-                "x": "从一位粉丝那里得知那幅Thorfinn的画作是用AI创作的之后，Yukimura只是说AI做得不错，一些粉丝便将他的回应解读为支持AI的信号。几小时后，他在X上澄清道："
+                "x": "大韩出版文化协会负责与出版社协商，并作为向需求方供应数据的窗口。出版数据的收集和管理体系由协会独立运营。"
               },
               {
                 "t": "p",
-                "x": "“哇哈哈，我说了‘AI做得不错’，把大家吓了一跳。AI会窃取艺术，如果AI发展得太过头，我就麻烦了。我们之所以陷入困境，正是因为AI在某种程度上做得不错。这只是事实，并不是肯定。”——Makoto Yukimura（@makotoyukimura），2026年11月8日"
+                "x": "双方计划发掘使用出版数据的需求方，推动交易活跃。双方还将共同参与政府和公共机构推进的AI数据相关项目。"
               },
               {
                 "t": "p",
-                "x": "AI在漫画中的使用已成为一个极具争议的话题：一些画师完全支持将AI融入创作，而最近也有消息披露，Chainsaw Man动画的制作中使用了AI。动漫与漫画行业对AI使用的看法正在快速转变。"
+                "x": "Flitto代表Lee Jung-soo表示：“我们将以先进的数据技术为基础，积极助力建立著作权人与AI产业共同成长的健康国家AI数据基础设施。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "El autor de Vinland Saga recibe\ncríticas por un fan art con AI",
-          "body": "Makoto Yukimura, autor de Vinland Saga, recibió críticas tras elogiar un fan art que resultó ser AI-generated.",
-          "mini_headline": "Polémica por un fan art con AI en Vinland Saga",
+          "headline": "Flitto ofrecerá obras editadas\ncomo datos de entrenamiento AI",
+          "body": "Flitto y la Asociación Coreana de Editores crearán un mercado de suministro y comercio de datos editoriales para AI.",
+          "mini_headline": "Flitto: datos editoriales para AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Flitto ha comenzado a crear un sistema de suministro de datos para que las obras publicadas puedan usarse en el entrenamiento de inteligencia artificial (AI)."
+              },
+              {
+                "t": "p",
+                "x": "Flitto anunció el día 9 que el día 4 firmó un acuerdo de colaboración con la Asociación Coreana de Editores para crear un mercado de suministro y comercio de datos editoriales para entrenar AI. El núcleo del acuerdo es combinar la capacidad de la asociación para suministrar datos editoriales con la tecnología de depuración y procesamiento de datos de Flitto."
+              },
+              {
+                "t": "p",
+                "x": "Las condiciones de suministro de los datos editoriales y la firma de contratos individuales se decidirán con el consentimiento previo de los titulares de los derechos de autor y de edición de cada obra. El alcance concreto del negocio, los procedimientos y la contraprestación se fijarán en futuros contratos por proyecto."
+              },
+              {
                 "t": "img",
-                "src": "https://comicbook.com/wp-content/uploads/sites/4/2026/01/Vinland-Saga.jpg?resize=2000,1125"
+                "src": "https://image.zdnet.co.kr/2026/11/09/2b121073d396ca3cb7b643a2debfe25c.jpg",
+                "cap": "Kim Jin-gu, director de datos de Flitto (derecha), y Kim Tae-heon, presidente de la Asociación Coreana de Editores, posan para una foto en la ceremonia de firma del acuerdo celebrada el día 4 en el auditorio de la asociación, en el distrito de Jongno. (Foto=Flitto)"
               },
               {
                 "t": "p",
-                "x": "Makoto Yukimura, creador de la aclamada serie de manga seinen Vinland Saga, se ha visto envuelto en una polémica innecesaria sobre la AI. Más de un año después del final de la serie, publicada durante 20 años, Yukimura comenta con frecuencia publicaciones de fans en X, incluido fan art inspirado en la obra. Sin embargo, una reciente pieza de fan art que Yukimura elogió, al parecer creada con AI, le ha metido en problemas."
+                "x": "Flitto aporta tecnología para procesar los datos editoriales en un formato apto para el entrenamiento de AI y verificar su calidad. También ofrece infraestructura informática y un entorno de seguridad para que los datos se traten de forma segura."
               },
               {
                 "t": "p",
-                "x": "Después de que un fan le dijera que la ilustración de Thorfinn se había creado con AI, Yukimura se limitó a comentar que la AI hace un buen trabajo, y algunos fans interpretaron su respuesta como una señal de apoyo a la AI. Horas después, lo aclaró en X:"
+                "x": "La Asociación Coreana de Editores hará de ventanilla para negociar con las editoriales y suministrar datos a los demandantes. La asociación gestiona de forma independiente el sistema de recopilación y administración de datos editoriales."
               },
               {
                 "t": "p",
-                "x": "«Vaya, jaja, sorprendí a todos porque dije “la AI hace un buen trabajo”. La AI roba arte, y estaré en problemas si la AI se desarrolla demasiado. La razón por la que estamos en problemas es que la AI hace un buen trabajo hasta cierto punto. Es solo un hecho. No es una afirmación.» — Makoto Yukimura (@makotoyukimura), 8 de noviembre de 2026"
+                "x": "Ambas partes planean encontrar demandantes que utilicen datos editoriales y dinamizar las transacciones. También buscarán participar conjuntamente en proyectos de datos de AI impulsados por el Gobierno y organismos públicos."
               },
               {
                 "t": "p",
-                "x": "El uso de la AI en el manga se ha convertido en un tema muy controvertido: algunos artistas apoyan plenamente incorporar la AI a su trabajo, y recientemente se reveló que se usó AI en la creación del anime de Chainsaw Man. La percepción del uso de la AI en las industrias del anime y el manga está cambiando activamente."
+                "x": "Lee Jung-soo, director ejecutivo de Flitto, afirmó: \"Con nuestra avanzada tecnología de datos, contribuiremos activamente a establecer una infraestructura nacional de datos de AI sana en la que los titulares de derechos de autor y la industria de la AI crezcan juntos\"."
               }
             ]
           }

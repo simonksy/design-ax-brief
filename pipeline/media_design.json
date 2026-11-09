@@ -1,31 +1,7 @@
-{
-  "date": "2026-11-09",
-  "section": "design",
-  "media": [
-    {
-      "id": "cursor-voice-agent-call",
-      "type": "svg"
-    },
-    {
-      "id": "nngroup-agent-harness-def",
-      "type": "image",
-      "src": "pipeline/media/nngroup-agent-harness-def.jpg"
-    },
-    {
-      "id": "uxc-berrypicking-ai-search",
-      "type": "image",
-      "src": "pipeline/media/uxc-berrypicking-ai-search.png"
-    },
-    {
-      "id": "firefly-seedance-25-video",
-      "type": "video",
-      "src": "pipeline/media/firefly-seedance-25-video.mp4",
-      "poster": "pipeline/media/firefly-seedance-25-video.jpg"
-    },
-    {
-      "id": "uxc-native-floor-components",
-      "type": "image",
-      "src": "pipeline/media/uxc-native-floor-components.jpg"
-    }
-  ]
-}
+{"date":"2026-11-10","section":"design","media":[
+ {"id":"claude-electronics-prototypes","type":"video","src":"pipeline/media/claude-electronics-prototypes.mp4","poster":"pipeline/media/claude-electronics-prototypes.jpg"},
+ {"id":"higgsfield-miracle-layers","type":"image","src":"pipeline/media/higgsfield-miracle-layers.jpg"},
+ {"id":"instagram-effect-builder","type":"image","src":"pipeline/media/instagram-effect-builder.jpg"},
+ {"id":"archinect-cad-training-data","type":"image","src":"pipeline/media/archinect-cad-training-data.jpg"},
+ {"id":"aistudio-google-maps","type":"video","src":"pipeline/media/aistudio-google-maps.mp4","poster":"pipeline/media/aistudio-google-maps.jpg"}
+]}

@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "section": "games",
   "cards": [
     {
-      "id": "wardogs-ml-anticheat",
+      "id": "nvidia-lyra2-worldmodel",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Wardogs 안티치트\n1억8700만 시간 학습",
-      "body": "Bulkhead는 Wardogs AI 안티치트로 계정 185,000개를 정지했다.",
-      "mini_headline": "Wardogs AI 안티치트",
+      "headline": "NVIDIA Lyra\n2.0, 사진을 3D로",
+      "body": "Lyra 2.0은 AI 영상·공간 기억·3D 재구성을 묶어 실시간 세계를 그린다.",
+      "mini_headline": "Lyra 2.0: 사진 한 장, 3D 세계",
       "tool": "Games",
-      "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/games/fps/as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one-of-the-worlds-most-sophisticated-anti-cheat-systems-assisted-by-machine-learning-and-ai/",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/nvidias-lyra-2-0-turns-a-single-image-into-an-explorable-3d-world-with-persistent-environments-and-real-time-rendering/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -19,203 +19,239 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-2560-80.jpg",
-            "cap": "Wardogs"
+            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg"
           },
           {
             "t": "p",
-            "x": "Season 3를 앞두고 Bulkhead가 Wardogs Season 2에서 저지른 실수를 짚었다. 당시 변경이 지나치게 공격적이었고 목소리 큰 플레이어에게 너무 쉽게 휘둘렸다고 인정했다. 앞으로는 \"가장 큰 목소리를 달래려고 수정을 서두르지 않겠다\"고 했다."
+            "x": "NVIDIA가 사진 한 장을 돌아다닐 수 있는 3D 환경으로 바꿔 주는 AI-powered 프레임워크 Lyra 2.0을 선보였다. NVIDIA의 Spatial Intelligence Lab(SIL)이 만든 이 기술은 AI 영상 생성에 3D 재구성을 결합했다. 연구 자체는 2026년 4월에 처음 나왔는데, SIGGRAPH Asia 2026을 앞두고 다시 주목받는다. 기존 image-to-video 생성기와 다른 점은 카메라다. Lyra 2.0에서는 사용자가 카메라 궤적을 직접 조종하고, 움직이는 동안 새 시점이 차례로 생성된다."
           },
           {
-            "t": "video",
-            "yt": "hr1uuC7BnSc"
-          },
-          {
-            "t": "p",
-            "x": "Season 3에는 더 도시적인 새 맵 Sabatulo, 역할별 아이템을 그 역할로 플레이하며 모두 푸는 멀티트랙 해금, 상위 등급 무기·방어구·차량을 뺀 새 \"Limited\" 모드가 들어간다."
+            "t": "img",
+            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-1.jpg",
+            "cap": "이미지 출처: NVIDIA."
           },
           {
             "t": "p",
-            "x": "Bulkhead가 \"세계에서 가장 정교한 안티치트 시스템 중 하나\"라고 내세우는 시스템도 함께 들어온다. \"머신러닝과 AI의 도움으로 1억8700만 시간의 게임플레이를 분석해\" 만든 시스템이다. Road to Season 3 영상 공개와 함께 가동돼 185,000개 계정을 정지했다."
+            "x": "NVIDIA 연구진은 공간 망각과 시간적 드리프트 문제를 풀려고 3D 기하 정보로 관련 과거 프레임을 불러오는 공간 기억 시스템을 만들었다. 학습에는 모델이 스스로 만든 불완전한 출력을 그대로 썼다. 이렇게 얻은 시퀀스는 3D Gaussian Splats와 폴리곤 메시로 재구성돼 실시간 렌더링이 되고, NVIDIA Isaac Sim 같은 애플리케이션으로 내보낼 수도 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-2-scaled.jpg",
+            "cap": "이미지 출처: NVIDIA."
           },
           {
             "t": "p",
-            "x": "Bulkhead CEO Joe Brammer는 \"모델을 학습시키려면 치터들이 치트를 다듬고 조정하는 과정을 그대로 두고 그 진화를 지켜봐야 했다\"고 말했다. 치터를 완전히 없애지는 못하겠지만 11월 12일 Season 3가 나오면 플레이 경험이 한결 나아진다고 스튜디오는 자신한다고 덧붙였다."
+            "x": "증류 모델은 영상 생성의 디노이징 단계를 35단계에서 네 단계로 줄여 시간을 약 13배 단축한다. 80프레임 구간 하나에 NVIDIA GB200 GPU 한 장으로 약 15초, 전체 모델로는 194초가 든다. 실시간 세계 생성은 아니다. 환경도 아직 대부분 정적이다. NVIDIA는 구현 코드를 GitHub에 공개했고, 모델 가중치는 연구 목적으로만 쓰도록 제한한 라이선스로 Hugging Face에 올렸다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-3.jpg",
+            "cap": "NVIDIA Isaac Sim으로 불러온 Lyra 2.0 생성 환경. 이미지 출처: NVIDIA."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Wardogs trains anti-cheat\non 187 million hours of play",
-          "body": "Bulkhead says Wardogs' anti-cheat, built by analysing 187 million hours of play with AI, has banned 185,000 accounts.",
-          "mini_headline": "Wardogs' AI\nanti-cheat",
+          "headline": "NVIDIA Lyra 2.0 turns one image\ninto an explorable 3D world",
+          "body": "Lyra 2.0 combines AI video generation, spatial memory and 3D reconstruction to render a persistent world in real time.",
+          "mini_headline": "Lyra 2.0: one image, a 3D world",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-2560-80.jpg",
-                "cap": "Wardogs"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg"
               },
               {
                 "t": "p",
-                "x": "With Season 3 on the horizon, Bulkhead has addressed the mistakes it made with Wardogs' Season 2. The studio believes its changes were too aggressive and that it was too easily swayed by vocal players, and says it will now \"not speedrun fixes to appease the loudest voices.\""
+                "x": "NVIDIA has showcased Lyra 2.0, an AI-powered framework capable of transforming a single photograph into an explorable 3D environment. Developed by NVIDIA's Spatial Intelligence Lab (SIL), it combines AI video generation with 3D reconstruction; the research was originally published in April 2026 and is now being highlighted ahead of SIGGRAPH Asia 2026. Unlike conventional image-to-video generators, Lyra 2.0 lets users control the camera's trajectory, progressively generating new views as they move."
               },
               {
-                "t": "video",
-                "yt": "hr1uuC7BnSc"
-              },
-              {
-                "t": "p",
-                "x": "Season 3 brings a new, more urban map called Sabatulo, multi-track unlocks that let any item a role might use be unlocked by playing that role, and a new \"Limited\" mode that removes high-tier weapons, armour and vehicles."
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-1.jpg",
+                "cap": "Image credit: NVIDIA."
               },
               {
                 "t": "p",
-                "x": "It also brings what Bulkhead claims is \"one of the world's most sophisticated anti-cheat systems\", produced by \"analysing 187 million hours of gameplay with the assistance of machine learning and AI\". The system went live when the Road to Season 3 video was published, banning 185,000 accounts."
+                "x": "To counter spatial forgetting and temporal drifting, NVIDIA's researchers developed a spatial-memory system that retrieves relevant historical frames using 3D geometric information, and trained the model on its own imperfect outputs. The resulting sequences can be reconstructed into 3D Gaussian Splats and polygonal meshes, enabling real-time rendering and export into applications such as NVIDIA Isaac Sim."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-2-scaled.jpg",
+                "cap": "Image credit: NVIDIA."
               },
               {
                 "t": "p",
-                "x": "\"In order for us to train our models, we needed to let cheaters go through their journey of refining and tuning their cheats so we could see them evolve,\" says Bulkhead CEO Joe Brammer. He says the system won't eliminate cheaters completely, but the studio is confident it will produce a better play experience when Season 3 arrives on November 12."
+                "x": "A distilled model cuts video generation from 35 denoising steps to four, an approximately 13-fold reduction: an 80-frame segment takes approximately 15 seconds on a single NVIDIA GB200 GPU, versus 194 seconds with the full model. This isn't real-time world generation, and it remains limited to predominantly static environments. NVIDIA has made the implementation available on GitHub, with model weights on Hugging Face under research-use licensing restrictions."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-3.jpg",
+                "cap": "A Lyra 2.0-generated environment imported into NVIDIA Isaac Sim. Image credit: NVIDIA."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Wardogs 안티치트\n1억8700만 시간 학습",
-          "body": "Bulkhead는 Wardogs AI 안티치트로 계정 185,000개를 정지했다.",
-          "mini_headline": "Wardogs AI 안티치트",
+          "headline": "NVIDIA Lyra\n2.0, 사진을 3D로",
+          "body": "Lyra 2.0은 AI 영상·공간 기억·3D 재구성을 묶어 실시간 세계를 그린다.",
+          "mini_headline": "Lyra 2.0: 사진 한 장, 3D 세계",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-2560-80.jpg",
-                "cap": "Wardogs"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg"
               },
               {
                 "t": "p",
-                "x": "Season 3를 앞두고 Bulkhead가 Wardogs Season 2에서 저지른 실수를 짚었다. 당시 변경이 지나치게 공격적이었고 목소리 큰 플레이어에게 너무 쉽게 휘둘렸다고 인정했다. 앞으로는 \"가장 큰 목소리를 달래려고 수정을 서두르지 않겠다\"고 했다."
+                "x": "NVIDIA가 사진 한 장을 돌아다닐 수 있는 3D 환경으로 바꿔 주는 AI-powered 프레임워크 Lyra 2.0을 선보였다. NVIDIA의 Spatial Intelligence Lab(SIL)이 만든 이 기술은 AI 영상 생성에 3D 재구성을 결합했다. 연구 자체는 2026년 4월에 처음 나왔는데, SIGGRAPH Asia 2026을 앞두고 다시 주목받는다. 기존 image-to-video 생성기와 다른 점은 카메라다. Lyra 2.0에서는 사용자가 카메라 궤적을 직접 조종하고, 움직이는 동안 새 시점이 차례로 생성된다."
               },
               {
-                "t": "video",
-                "yt": "hr1uuC7BnSc"
-              },
-              {
-                "t": "p",
-                "x": "Season 3에는 더 도시적인 새 맵 Sabatulo, 역할별 아이템을 그 역할로 플레이하며 모두 푸는 멀티트랙 해금, 상위 등급 무기·방어구·차량을 뺀 새 \"Limited\" 모드가 들어간다."
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-1.jpg",
+                "cap": "이미지 출처: NVIDIA."
               },
               {
                 "t": "p",
-                "x": "Bulkhead가 \"세계에서 가장 정교한 안티치트 시스템 중 하나\"라고 내세우는 시스템도 함께 들어온다. \"머신러닝과 AI의 도움으로 1억8700만 시간의 게임플레이를 분석해\" 만든 시스템이다. Road to Season 3 영상 공개와 함께 가동돼 185,000개 계정을 정지했다."
+                "x": "NVIDIA 연구진은 공간 망각과 시간적 드리프트 문제를 풀려고 3D 기하 정보로 관련 과거 프레임을 불러오는 공간 기억 시스템을 만들었다. 학습에는 모델이 스스로 만든 불완전한 출력을 그대로 썼다. 이렇게 얻은 시퀀스는 3D Gaussian Splats와 폴리곤 메시로 재구성돼 실시간 렌더링이 되고, NVIDIA Isaac Sim 같은 애플리케이션으로 내보낼 수도 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-2-scaled.jpg",
+                "cap": "이미지 출처: NVIDIA."
               },
               {
                 "t": "p",
-                "x": "Bulkhead CEO Joe Brammer는 \"모델을 학습시키려면 치터들이 치트를 다듬고 조정하는 과정을 그대로 두고 그 진화를 지켜봐야 했다\"고 말했다. 치터를 완전히 없애지는 못하겠지만 11월 12일 Season 3가 나오면 플레이 경험이 한결 나아진다고 스튜디오는 자신한다고 덧붙였다."
+                "x": "증류 모델은 영상 생성의 디노이징 단계를 35단계에서 네 단계로 줄여 시간을 약 13배 단축한다. 80프레임 구간 하나에 NVIDIA GB200 GPU 한 장으로 약 15초, 전체 모델로는 194초가 든다. 실시간 세계 생성은 아니다. 환경도 아직 대부분 정적이다. NVIDIA는 구현 코드를 GitHub에 공개했고, 모델 가중치는 연구 목적으로만 쓰도록 제한한 라이선스로 Hugging Face에 올렸다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-3.jpg",
+                "cap": "NVIDIA Isaac Sim으로 불러온 Lyra 2.0 생성 환경. 이미지 출처: NVIDIA."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Wardogsのチート対策\n1億8700万時間で学習",
-          "body": "BulkheadのAIチート対策がWardogsで185,000アカウントを停止した。",
-          "mini_headline": "WardogsのAIチート対策",
+          "headline": "NVIDIA Lyra\n2.0は写真を3D世界に",
+          "body": "Lyra 2.0はAI動画生成と空間記憶、3D再構成を融合し、世界をリアルタイムで描く。",
+          "mini_headline": "Lyra 2.0：写真から3D世界",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-2560-80.jpg",
-                "cap": "Wardogs"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg"
               },
               {
                 "t": "p",
-                "x": "Season 3を目前に、BulkheadはWardogsのSeason 2での失敗に向き合った。同スタジオは変更が攻撃的すぎたうえ、声の大きいプレイヤーに流されやすかったと考えており、今後は「最も大きな声をなだめるために修正を急ぐことはしない」としている。"
+                "x": "NVIDIAは、一枚の写真を探索可能な3D環境に変換できるAI-poweredのフレームワーク「Lyra 2.0」を披露した。NVIDIAのSpatial Intelligence Lab（SIL）が開発したもので、AI動画生成と3D再構成を組み合わせている。研究自体は2026年4月に発表されたもので、SIGGRAPH Asia 2026を前に改めて紹介されている。従来のimage-to-video生成器とは異なり、Lyra 2.0ではユーザーがカメラの軌道を操作でき、移動に合わせて新たな視点が順次生成される。"
               },
               {
-                "t": "video",
-                "yt": "hr1uuC7BnSc"
-              },
-              {
-                "t": "p",
-                "x": "Season 3では、より都市的な新マップSabatulo、ある役割が使うアイテムをその役割でプレイすることで解除できるマルチトラック解除、上位の武器・防具・車両を除いた新モード「Limited」が加わる。"
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-1.jpg",
+                "cap": "画像提供：NVIDIA"
               },
               {
                 "t": "p",
-                "x": "さらにBulkheadが「世界で最も高度なアンチチートシステムの一つ」と称するシステムも導入される。「機械学習とAIの支援を受けて1億8700万時間のゲームプレイを分析」して作られたもので、Road to Season 3の動画公開と同時に稼働し、185,000のアカウントを停止した。"
+                "x": "空間的な忘却と時間的なドリフトに対処するため、NVIDIAの研究者は3D幾何情報を用いて関連する過去フレームを呼び出す空間メモリシステムを開発し、さらにモデル自身の不完全な出力でモデルを学習させた。得られたシーケンスは3D Gaussian Splatsやポリゴンメッシュに再構成でき、リアルタイムレンダリングやNVIDIA Isaac Simなどのアプリケーションへのエクスポートが可能になる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-2-scaled.jpg",
+                "cap": "画像提供：NVIDIA"
               },
               {
                 "t": "p",
-                "x": "「モデルを訓練するには、チーターがチートを磨き調整していく過程をあえて許し、その進化を観察する必要があった」とBulkheadのCEO、Joe Brammerは語る。システムでチーターを完全に排除できるわけではないが、11月12日にSeason 3が始まれば、より良いプレイ体験を提供できると同スタジオは確信しているという。"
+                "x": "蒸留モデルは動画生成のデノイジングステップを35から四つに減らし、約13倍の削減を実現した。80フレームの区間は単一のNVIDIA GB200 GPUで約15秒で生成でき、フルモデルでは194秒かかる。これはリアルタイムの世界生成ではなく、対象も主に静的な環境に限られる。NVIDIAは実装をGitHubで公開し、モデルの重みは研究用途に限るライセンス制限付きでHugging Faceで配布している。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-3.jpg",
+                "cap": "NVIDIA Isaac Simに読み込んだLyra 2.0生成の環境。画像提供：NVIDIA"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Wardogs反作弊系统\n以1.87亿小时游戏训练",
-          "body": "Bulkhead称，Wardogs的AI反作弊系统已封禁185,000个账号。",
-          "mini_headline": "Wardogs的AI反作弊",
+          "headline": "NVIDIA Lyra\n2.0：单张照片变3D世界",
+          "body": "Lyra 2.0结合AI视频生成、空间记忆与3D重建，实时渲染持久的世界。",
+          "mini_headline": "Lyra 2.0：单张图片，3D世界",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-2560-80.jpg",
-                "cap": "Wardogs"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg"
               },
               {
                 "t": "p",
-                "x": "Season 3即将到来之际，Bulkhead回应了Wardogs Season 2中犯下的错误。工作室认为当时的改动过于激进，也太容易被声音大的玩家左右，并表示今后“不会为了安抚最响亮的声音而仓促修复”。"
+                "x": "NVIDIA展示了Lyra 2.0，这是一个AI-powered框架，能将单张照片转化为可探索的3D环境。它由NVIDIA的Spatial Intelligence Lab（SIL）开发，结合了AI视频生成与3D重建；该研究最初于2026年4月发表，如今在SIGGRAPH Asia 2026前夕再度受到关注。与传统的image-to-video生成器不同，Lyra 2.0允许用户控制摄像机轨迹，并在移动过程中逐步生成新视角。"
               },
               {
-                "t": "video",
-                "yt": "hr1uuC7BnSc"
-              },
-              {
-                "t": "p",
-                "x": "Season 3将带来一张更具城市风格的新地图Sabatulo；多轨解锁机制，让某一角色可能用到的任何物品都能通过扮演该角色解锁；以及移除高阶武器、护甲和载具的全新“Limited”模式。"
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-1.jpg",
+                "cap": "图片来源：NVIDIA。"
               },
               {
                 "t": "p",
-                "x": "Bulkhead还推出了其所称的“全球最先进的反作弊系统之一”，该系统通过“借助机器学习和AI分析1.87亿小时游戏数据”打造而成。系统在Road to Season 3视频发布时上线，已封禁185,000个账号。"
+                "x": "为应对空间遗忘和时间漂移，NVIDIA研究人员开发了一套空间记忆系统，利用3D几何信息检索相关的历史帧，并用模型自身不完美的输出对其进行训练。生成的序列可重建为3D Gaussian Splats和多边形网格，从而实现实时渲染，并可导出到NVIDIA Isaac Sim等应用中。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-2-scaled.jpg",
+                "cap": "图片来源：NVIDIA。"
               },
               {
                 "t": "p",
-                "x": "Bulkhead CEO Joe Brammer表示：“为了训练模型，我们需要让作弊者经历打磨和调整外挂的过程，以便观察它们如何演变。”他说，该系统无法彻底消灭作弊者，但工作室有信心在Season 3于11月12日上线时带来更好的游戏体验。"
+                "x": "蒸馏模型将视频生成的去噪步数从35步减至四步，约缩减13倍：在单块NVIDIA GB200 GPU上生成一段80帧片段约需15秒，而完整模型需要194秒。这并非实时的世界生成，且仍主要局限于静态环境。NVIDIA已在GitHub上公开实现代码，模型权重则以研究用途许可限制发布在Hugging Face上。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-3.jpg",
+                "cap": "导入NVIDIA Isaac Sim的Lyra 2.0生成环境。图片来源：NVIDIA。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Wardogs entrena su antitrampas\ncon 187 millones de horas",
-          "body": "Bulkhead dice que el antitrampas de Wardogs, creado con AI y 187 millones de horas de juego, bloqueó 185,000 cuentas.",
-          "mini_headline": "El antitrampas con AI de Wardogs",
+          "headline": "Lyra 2.0 de NVIDIA convierte\nuna imagen en un mundo 3D",
+          "body": "Lyra 2.0 une video generado con AI, memoria espacial y reconstrucción 3D para un mundo persistente en tiempo real.",
+          "mini_headline": "Lyra 2.0: una imagen, un mundo 3D",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-2560-80.jpg",
-                "cap": "Wardogs"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg"
               },
               {
                 "t": "p",
-                "x": "Con la Season 3 en el horizonte, Bulkhead ha abordado los errores que cometió en la Season 2 de Wardogs. El estudio cree que sus cambios fueron demasiado agresivos y que se dejó influir con demasiada facilidad por los jugadores más ruidosos, y afirma que ahora \"no acelerará correcciones para apaciguar a las voces más fuertes\"."
+                "x": "NVIDIA presentó Lyra 2.0, un framework AI-powered capaz de transformar una sola fotografía en un entorno 3D explorable. Desarrollado por el Spatial Intelligence Lab (SIL) de NVIDIA, combina la generación de video con AI y la reconstrucción 3D; la investigación se publicó originalmente en abril de 2026 y ahora se destaca antes de SIGGRAPH Asia 2026. A diferencia de los generadores image-to-video convencionales, Lyra 2.0 permite a los usuarios controlar la trayectoria de la cámara y genera progresivamente nuevas vistas a medida que se desplazan."
               },
               {
-                "t": "video",
-                "yt": "hr1uuC7BnSc"
-              },
-              {
-                "t": "p",
-                "x": "La Season 3 trae un nuevo mapa más urbano llamado Sabatulo; desbloqueos multipista, que permiten desbloquear cualquier objeto que un rol pueda usar jugando con ese rol; y un nuevo modo \"Limited\" que elimina las armas, armaduras y vehículos de nivel alto."
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-1.jpg",
+                "cap": "Crédito de imagen: NVIDIA."
               },
               {
                 "t": "p",
-                "x": "También llega lo que Bulkhead describe como \"uno de los sistemas antitrampas más sofisticados del mundo\", creado \"analizando 187 millones de horas de juego con la ayuda de aprendizaje automático y AI\". El sistema entró en funcionamiento cuando se publicó el video Road to Season 3 y bloqueó 185,000 cuentas."
+                "x": "Para contrarrestar el olvido espacial y la deriva temporal, los investigadores de NVIDIA desarrollaron un sistema de memoria espacial que recupera fotogramas históricos relevantes mediante información geométrica 3D, y entrenaron el modelo con sus propias salidas imperfectas. Las secuencias resultantes pueden reconstruirse como 3D Gaussian Splats y mallas poligonales, lo que permite el renderizado en tiempo real y la exportación a aplicaciones como NVIDIA Isaac Sim."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-2-scaled.jpg",
+                "cap": "Crédito de imagen: NVIDIA."
               },
               {
                 "t": "p",
-                "x": "\"Para entrenar nuestros modelos, necesitábamos dejar que los tramposos recorrieran el camino de pulir y ajustar sus trampas para poder ver cómo evolucionaban\", dice Joe Brammer, CEO de Bulkhead. Según él, el sistema no eliminará por completo a los tramposos, pero el estudio confía en que ofrecerá una mejor experiencia de juego cuando la Season 3 llegue el 12 de noviembre."
+                "x": "Un modelo destilado reduce la generación de video de 35 pasos de eliminación de ruido a cuatro, una reducción de aproximadamente 13 veces: un segmento de 80 fotogramas tarda unos 15 segundos en una sola NVIDIA GB200 GPU, frente a 194 segundos con el modelo completo. No se trata de generación de mundos en tiempo real, y sigue limitado a entornos predominantemente estáticos. NVIDIA publicó la implementación en GitHub, con los pesos del modelo en Hugging Face bajo restricciones de licencia de uso para investigación."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-3.jpg",
+                "cap": "Un entorno generado con Lyra 2.0 importado en NVIDIA Isaac Sim. Crédito de imagen: NVIDIA."
               }
             ]
           }
@@ -223,141 +259,165 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Wardogs 안티치트\n1억8700만 시간 학습",
-          "body": "Bulkhead는 Wardogs AI 안티치트로 계정 185,000개를 정지했다.",
-          "mini_headline": "Wardogs AI 안티치트",
+          "headline": "NVIDIA Lyra\n2.0, 사진을 3D로",
+          "body": "Lyra 2.0은 AI 영상·공간 기억·3D 재구성을 묶어 실시간 세계를 그린다.",
+          "mini_headline": "Lyra 2.0: 사진 한 장, 3D 세계",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-2560-80.jpg",
-                "cap": "Wardogs"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg"
               },
               {
                 "t": "p",
-                "x": "Season 3를 앞두고 Bulkhead가 Wardogs Season 2에서 저지른 실수를 짚었다. 스튜디오는 당시 변경이 지나치게 공격적이었고 목소리 큰 플레이어들에게 너무 쉽게 휘둘렸다고 보며, 앞으로는 \"가장 큰 목소리를 달래려고 수정을 서두르지 않겠다\"고 밝혔다."
+                "x": "NVIDIA가 사진 한 장을 탐험 가능한 3D 환경으로 바꾸는 AI-powered 프레임워크 Lyra 2.0을 선보였다. NVIDIA의 Spatial Intelligence Lab(SIL)이 개발한 이 기술은 AI 영상 생성과 3D 재구성을 결합한다. 연구는 2026년 4월에 처음 발표됐고, SIGGRAPH Asia 2026을 앞두고 다시 조명받고 있다. 기존 image-to-video 생성기와 달리 Lyra 2.0에서는 사용자가 카메라 궤적을 직접 조종할 수 있고, 이동하는 동안 새로운 시점이 차례로 생성된다."
               },
               {
-                "t": "video",
-                "yt": "hr1uuC7BnSc"
-              },
-              {
-                "t": "p",
-                "x": "Season 3에는 더 도시적인 새 맵 Sabatulo, 한 역할이 쓸 수 있는 모든 아이템을 그 역할로 플레이해 해금하는 멀티트랙 해금, 상위 등급 무기·방어구·차량을 뺀 새 \"Limited\" 모드가 추가된다."
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-1.jpg",
+                "cap": "이미지 출처: NVIDIA."
               },
               {
                 "t": "p",
-                "x": "Bulkhead가 \"세계에서 가장 정교한 안티치트 시스템 중 하나\"라고 주장하는 시스템도 함께 들어온다. 이 시스템은 \"머신러닝과 AI의 도움으로 1억8700만 시간의 게임플레이를 분석해\" 만들었다. Road to Season 3 영상이 공개될 때 가동을 시작해 185,000개 계정을 정지했다."
+                "x": "공간 망각과 시간적 드리프트 문제에 대응하기 위해 NVIDIA 연구진은 3D 기하 정보로 관련된 과거 프레임을 불러오는 공간 기억 시스템을 개발했고, 모델이 스스로 만든 불완전한 출력으로 모델을 학습시켰다. 이렇게 얻은 시퀀스는 3D Gaussian Splats와 폴리곤 메시로 재구성할 수 있어 실시간 렌더링이 가능하고, NVIDIA Isaac Sim 같은 애플리케이션으로 내보낼 수도 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-2-scaled.jpg",
+                "cap": "이미지 출처: NVIDIA."
               },
               {
                 "t": "p",
-                "x": "Bulkhead CEO Joe Brammer는 \"모델을 학습시키려면 치터들이 치트를 다듬고 조정하는 과정을 그대로 두고 그 진화를 지켜봐야 했다\"고 말했다. 그는 이 시스템이 치터를 완전히 없애지는 못하겠지만, 11월 12일 Season 3가 나오면 더 나은 플레이 경험을 줄 것이라고 스튜디오가 자신한다고 밝혔다."
+                "x": "증류 모델은 영상 생성의 디노이징 단계를 35단계에서 네 단계로 줄여 약 13배를 단축한다. 80프레임 구간 하나를 만드는 데 NVIDIA GB200 GPU 한 장으로 약 15초가 걸리며, 전체 모델로는 194초가 걸린다. 다만 실시간 세계 생성은 아니며, 여전히 대부분 정적인 환경에 한정된다. NVIDIA는 구현 코드를 GitHub에 공개했고, 모델 가중치는 연구 목적 사용으로 제한된 라이선스로 Hugging Face에 올렸다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-3.jpg",
+                "cap": "NVIDIA Isaac Sim으로 불러온 Lyra 2.0 생성 환경. 이미지 출처: NVIDIA."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Wardogsのチート対策\n1億8700万時間で学習",
-          "body": "BulkheadのAIチート対策がWardogsで185,000アカウントを停止した。",
-          "mini_headline": "WardogsのAIチート対策",
+          "headline": "NVIDIA Lyra\n2.0は写真を3D世界に",
+          "body": "Lyra 2.0はAI動画生成と空間記憶、3D再構成を融合し、世界をリアルタイムで描く。",
+          "mini_headline": "Lyra 2.0：写真から3D世界",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-2560-80.jpg",
-                "cap": "Wardogs"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg"
               },
               {
                 "t": "p",
-                "x": "Season 3を目前に、BulkheadはWardogsのSeason 2での失敗に向き合った。同スタジオは変更が攻撃的すぎたうえ、声の大きいプレイヤーに流されやすかったと考えており、今後は「最も大きな声をなだめるために修正を急ぐことはしない」としている。"
+                "x": "NVIDIAは、一枚の写真を探索可能な3D環境に変換できるAI-poweredのフレームワーク「Lyra 2.0」を披露した。NVIDIAのSpatial Intelligence Lab（SIL）が開発したもので、AI動画生成と3D再構成を組み合わせている。研究自体は2026年4月に発表されたもので、SIGGRAPH Asia 2026を前に改めて紹介されている。従来のimage-to-video生成器とは異なり、Lyra 2.0ではユーザーがカメラの軌道を操作でき、移動に合わせて新たな視点が順次生成される。"
               },
               {
-                "t": "video",
-                "yt": "hr1uuC7BnSc"
-              },
-              {
-                "t": "p",
-                "x": "Season 3では、より都市的な新マップSabatulo、ある役割が使うアイテムをその役割でプレイすることで解除できるマルチトラック解除、上位の武器・防具・車両を除いた新モード「Limited」が加わる。"
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-1.jpg",
+                "cap": "画像提供：NVIDIA"
               },
               {
                 "t": "p",
-                "x": "さらにBulkheadが「世界で最も高度なアンチチートシステムの一つ」と称するシステムも導入される。「機械学習とAIの支援を受けて1億8700万時間のゲームプレイを分析」して作られたもので、Road to Season 3の動画公開と同時に稼働し、185,000のアカウントを停止した。"
+                "x": "空間的な忘却と時間的なドリフトに対処するため、NVIDIAの研究者は3D幾何情報を用いて関連する過去フレームを呼び出す空間メモリシステムを開発し、さらにモデル自身の不完全な出力でモデルを学習させた。得られたシーケンスは3D Gaussian Splatsやポリゴンメッシュに再構成でき、リアルタイムレンダリングやNVIDIA Isaac Simなどのアプリケーションへのエクスポートが可能になる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-2-scaled.jpg",
+                "cap": "画像提供：NVIDIA"
               },
               {
                 "t": "p",
-                "x": "「モデルを訓練するには、チーターがチートを磨き調整していく過程をあえて許し、その進化を観察する必要があった」とBulkheadのCEO、Joe Brammerは語る。システムでチーターを完全に排除できるわけではないが、11月12日にSeason 3が始まれば、より良いプレイ体験を提供できると同スタジオは確信しているという。"
+                "x": "蒸留モデルは動画生成のデノイジングステップを35から四つに減らし、約13倍の削減を実現した。80フレームの区間は単一のNVIDIA GB200 GPUで約15秒で生成でき、フルモデルでは194秒かかる。これはリアルタイムの世界生成ではなく、対象も主に静的な環境に限られる。NVIDIAは実装をGitHubで公開し、モデルの重みは研究用途に限るライセンス制限付きでHugging Faceで配布している。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-3.jpg",
+                "cap": "NVIDIA Isaac Simに読み込んだLyra 2.0生成の環境。画像提供：NVIDIA"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Wardogs反作弊系统\n以1.87亿小时游戏训练",
-          "body": "Bulkhead称，Wardogs的AI反作弊系统已封禁185,000个账号。",
-          "mini_headline": "Wardogs的AI反作弊",
+          "headline": "NVIDIA Lyra\n2.0：单张照片变3D世界",
+          "body": "Lyra 2.0结合AI视频生成、空间记忆与3D重建，实时渲染持久的世界。",
+          "mini_headline": "Lyra 2.0：单张图片，3D世界",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-2560-80.jpg",
-                "cap": "Wardogs"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg"
               },
               {
                 "t": "p",
-                "x": "Season 3即将到来之际，Bulkhead回应了Wardogs Season 2中犯下的错误。工作室认为当时的改动过于激进，也太容易被声音大的玩家左右，并表示今后“不会为了安抚最响亮的声音而仓促修复”。"
+                "x": "NVIDIA展示了Lyra 2.0，这是一个AI-powered框架，能将单张照片转化为可探索的3D环境。它由NVIDIA的Spatial Intelligence Lab（SIL）开发，结合了AI视频生成与3D重建；该研究最初于2026年4月发表，如今在SIGGRAPH Asia 2026前夕再度受到关注。与传统的image-to-video生成器不同，Lyra 2.0允许用户控制摄像机轨迹，并在移动过程中逐步生成新视角。"
               },
               {
-                "t": "video",
-                "yt": "hr1uuC7BnSc"
-              },
-              {
-                "t": "p",
-                "x": "Season 3将带来一张更具城市风格的新地图Sabatulo；多轨解锁机制，让某一角色可能用到的任何物品都能通过扮演该角色解锁；以及移除高阶武器、护甲和载具的全新“Limited”模式。"
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-1.jpg",
+                "cap": "图片来源：NVIDIA。"
               },
               {
                 "t": "p",
-                "x": "Bulkhead还推出了其所称的“全球最先进的反作弊系统之一”，该系统通过“借助机器学习和AI分析1.87亿小时游戏数据”打造而成。系统在Road to Season 3视频发布时上线，已封禁185,000个账号。"
+                "x": "为应对空间遗忘和时间漂移，NVIDIA研究人员开发了一套空间记忆系统，利用3D几何信息检索相关的历史帧，并用模型自身不完美的输出对其进行训练。生成的序列可重建为3D Gaussian Splats和多边形网格，从而实现实时渲染，并可导出到NVIDIA Isaac Sim等应用中。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-2-scaled.jpg",
+                "cap": "图片来源：NVIDIA。"
               },
               {
                 "t": "p",
-                "x": "Bulkhead CEO Joe Brammer表示：“为了训练模型，我们需要让作弊者经历打磨和调整外挂的过程，以便观察它们如何演变。”他说，该系统无法彻底消灭作弊者，但工作室有信心在Season 3于11月12日上线时带来更好的游戏体验。"
+                "x": "蒸馏模型将视频生成的去噪步数从35步减至四步，约缩减13倍：在单块NVIDIA GB200 GPU上生成一段80帧片段约需15秒，而完整模型需要194秒。这并非实时的世界生成，且仍主要局限于静态环境。NVIDIA已在GitHub上公开实现代码，模型权重则以研究用途许可限制发布在Hugging Face上。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-3.jpg",
+                "cap": "导入NVIDIA Isaac Sim的Lyra 2.0生成环境。图片来源：NVIDIA。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Wardogs entrena su antitrampas\ncon 187 millones de horas",
-          "body": "Bulkhead dice que el antitrampas de Wardogs, creado con AI y 187 millones de horas de juego, bloqueó 185,000 cuentas.",
-          "mini_headline": "El antitrampas con AI de Wardogs",
+          "headline": "Lyra 2.0 de NVIDIA convierte\nuna imagen en un mundo 3D",
+          "body": "Lyra 2.0 une video generado con AI, memoria espacial y reconstrucción 3D para un mundo persistente en tiempo real.",
+          "mini_headline": "Lyra 2.0: una imagen, un mundo 3D",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-2560-80.jpg",
-                "cap": "Wardogs"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg"
               },
               {
                 "t": "p",
-                "x": "Con la Season 3 en el horizonte, Bulkhead ha abordado los errores que cometió en la Season 2 de Wardogs. El estudio cree que sus cambios fueron demasiado agresivos y que se dejó influir con demasiada facilidad por los jugadores más ruidosos, y afirma que ahora \"no acelerará correcciones para apaciguar a las voces más fuertes\"."
+                "x": "NVIDIA presentó Lyra 2.0, un framework AI-powered capaz de transformar una sola fotografía en un entorno 3D explorable. Desarrollado por el Spatial Intelligence Lab (SIL) de NVIDIA, combina la generación de video con AI y la reconstrucción 3D; la investigación se publicó originalmente en abril de 2026 y ahora se destaca antes de SIGGRAPH Asia 2026. A diferencia de los generadores image-to-video convencionales, Lyra 2.0 permite a los usuarios controlar la trayectoria de la cámara y genera progresivamente nuevas vistas a medida que se desplazan."
               },
               {
-                "t": "video",
-                "yt": "hr1uuC7BnSc"
-              },
-              {
-                "t": "p",
-                "x": "La Season 3 trae un nuevo mapa más urbano llamado Sabatulo; desbloqueos multipista, que permiten desbloquear cualquier objeto que un rol pueda usar jugando con ese rol; y un nuevo modo \"Limited\" que elimina las armas, armaduras y vehículos de nivel alto."
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-1.jpg",
+                "cap": "Crédito de imagen: NVIDIA."
               },
               {
                 "t": "p",
-                "x": "También llega lo que Bulkhead describe como \"uno de los sistemas antitrampas más sofisticados del mundo\", creado \"analizando 187 millones de horas de juego con la ayuda de aprendizaje automático y AI\". El sistema entró en funcionamiento cuando se publicó el video Road to Season 3 y bloqueó 185,000 cuentas."
+                "x": "Para contrarrestar el olvido espacial y la deriva temporal, los investigadores de NVIDIA desarrollaron un sistema de memoria espacial que recupera fotogramas históricos relevantes mediante información geométrica 3D, y entrenaron el modelo con sus propias salidas imperfectas. Las secuencias resultantes pueden reconstruirse como 3D Gaussian Splats y mallas poligonales, lo que permite el renderizado en tiempo real y la exportación a aplicaciones como NVIDIA Isaac Sim."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-2-scaled.jpg",
+                "cap": "Crédito de imagen: NVIDIA."
               },
               {
                 "t": "p",
-                "x": "\"Para entrenar nuestros modelos, necesitábamos dejar que los tramposos recorrieran el camino de pulir y ajustar sus trampas para poder ver cómo evolucionaban\", dice Joe Brammer, CEO de Bulkhead. Según él, el sistema no eliminará por completo a los tramposos, pero el estudio confía en que ofrecerá una mejor experiencia de juego cuando la Season 3 llegue el 12 de noviembre."
+                "x": "Un modelo destilado reduce la generación de video de 35 pasos de eliminación de ruido a cuatro, una reducción de aproximadamente 13 veces: un segmento de 80 fotogramas tarda unos 15 segundos en una sola NVIDIA GB200 GPU, frente a 194 segundos con el modelo completo. No se trata de generación de mundos en tiempo real, y sigue limitado a entornos predominantemente estáticos. NVIDIA publicó la implementación en GitHub, con los pesos del modelo en Hugging Face bajo restricciones de licencia de uso para investigación."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-3.jpg",
+                "cap": "Un entorno generado con Lyra 2.0 importado en NVIDIA Isaac Sim. Crédito de imagen: NVIDIA."
               }
             ]
           }
@@ -365,401 +425,361 @@
       }
     },
     {
-      "id": "krafton-cofa-probe",
-      "source_lang": "ko",
+      "id": "innogames-genai-art-pipeline",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "크래프톤, AI 협업\n과정으로 인턴 평가",
-      "body": "크래프톤은 '코파 프로브'로 지원자가 AI 에이전트와 협업하는 과정을 평가한다.",
-      "mini_headline": "크래프톤\nAI 협업 평가",
+      "headline": "InnoGames의 AI\n중심엔 아티스트가 있다",
+      "body": "InnoGames의 Dario Berruti가 아티스트 중심 AI 도입기를 전했다.",
+      "mini_headline": "InnoGames, 아티스트 중심 유지",
       "tool": "Games",
-      "source": "이코노미톡뉴스",
-      "url": "http://www.economytalk.kr/news/articleView.html?idxno=425135",
+      "source": "Mobidictum",
+      "url": "https://mobidictum.com/gen-ai-artists-innogames-pipeline/",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.economytalk.kr/news/photo/202611/425135_233885_4215.png",
-            "cap": "크래프톤은 2027 채용연계형 인턴십 6개 직군의 AI 역량평가에 자체 개발한 코파 프로브(Cofa-Probe)를 활용한다. [크래프톤]"
+            "src": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png"
           },
           {
             "t": "p",
-            "x": "크래프톤은 2027 채용연계형 인턴십 6개 직군의 AI 역량평가에 자체 개발한 코파 프로브(Cofa-Probe)를 활용한다. 지원자의 결과물과 AI 협업 과정, 검증 기록을 함께 평가한다. 게임사별 AI 채용 기준을 살펴보는 기획의 네 번째 사례다."
+            "x": "InnoGames의 아트 총괄 Dario Berruti가 이 기고문에서 스튜디오의 생성형 AI 도입 과정을 다섯 단계로 정리했다. Forge of Empires, Elvenar, Heroes of History를 만든 곳이다. 출발점은 아티스트 설문이었다. 가장 큰 우려는 고용 안정이었다. 경영진은 AI가 아티스트를 대체하려는 게 아니라 그들의 역량을 키우려는 것이라고 밝혔다."
           },
           {
             "t": "p",
-            "x": "크래프톤 관계자는 지난 5일 이코노미톡뉴스와의 답변에서 Cofa-Probe가 “기술 관리(Technique)·의도 관리(Intent)·인지 관리(Cognition) 세 축”으로 평가한다고 설명했다."
+            "x": "초기에는 레퍼런스와 러프 목업용 '빨라진 Pinterest' 정도로 썼다. 팀이 고른 도구는 Scenario였다. 스튜디오 자체 에셋으로 커스텀 모델을 학습시킬 수 있어 아이콘, 초상화, 소형 일러스트 작업의 주력이 됐다. ComfyUI도 검토했지만 채택하지 않았다."
           },
           {
             "t": "p",
-            "x": "크래프톤은 실제 업무와 유사한 환경에서 지원자가 업무 에이전트와 협업하는 과정을 살핀다. 소스코드와 대화 기록, 프롬프트, 도구 설정, 검증 실행 기록을 자동으로 수집해 결과물과 문제 해결 과정을 함께 평가한다."
+            "x": "전환점은 2025년 Gemini와 Flux였다. 외주 비용은 이제 예년의 절반 수준이고, 2D와 콘셉트 아트에서 AI는 빼놓을 수 없는 요소가 됐다. 지금은 노드 기반 워크플로, MCP 연동, 에이전트 같은 자동화에 힘을 싣는다. 아티스트들은 반복 작업이나 자체 스크립트·도구를 짤 때 Claude를 쓰고, MCP 서버로 Claude를 Blender에 연결해 3D에서도 새 가능성을 찾는다."
           },
           {
             "t": "p",
-            "x": "기술 관리에서는 AI에 전달한 목표와 제약이 적절했는지, 의도 관리에서는 오류 원인을 분석해 접근 방식을 수정했는지 확인한다."
+            "x": "\"AI는 우리가 일하는 방식을 바꿨다. 하지만 누가 일하는지는 바꾸지 않았다. 우리가 만드는 모든 것의 중심에는 여전히 아티스트가 있다.\""
           },
           {
-            "t": "p",
-            "x": "인지 관리에서는 결과물의 오류와 한계를 검증하고 실제 업무에 활용할 수준으로 완성했는지를 살핀다. 과제 종료 후에는 지원자가 결과물과 의사결정 과정을 직접 설명하는 사후 질의응답도 진행한다."
-          },
-          {
-            "t": "p",
-            "x": "해당 인턴십은 2027년 2월 입사해 5개월간 진행되며, 인턴 기간 평가를 통해 정규직 전환 여부를 결정한다. Cofa-Probe는 6개 직군의 과제 수행 기록과 결과물, 사후 설명을 함께 살펴 지원자의 AI 활용 역량을 평가하는 데 쓰인다."
+            "t": "img",
+            "src": "https://mobidictum.com/wp-content/uploads/2026/11/Dario-Berruti-1024x684.png",
+            "cap": "InnoGames 아트 총괄 Dario Berruti"
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "크래프톤, AI 협업\n과정으로 인턴 평가",
-          "body": "크래프톤은 '코파 프로브'로 지원자가 AI 에이전트와 협업하는 과정을 평가한다.",
-          "mini_headline": "크래프톤\nAI 협업 평가",
+        "en": {
+          "headline": "InnoGames puts artists at\nthe center of its AI pipeline",
+          "body": "Art head Dario Berruti explains how InnoGames brought generative AI into its art workflow with artists at the center.",
+          "mini_headline": "InnoGames keeps artists central",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.economytalk.kr/news/photo/202611/425135_233885_4215.png",
-                "cap": "크래프톤은 2027 채용연계형 인턴십 6개 직군의 AI 역량평가에 자체 개발한 코파 프로브(Cofa-Probe)를 활용한다. [크래프톤]"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png"
               },
               {
                 "t": "p",
-                "x": "크래프톤은 2027 채용연계형 인턴십 6개 직군의 AI 역량평가에 자체 개발한 코파 프로브(Cofa-Probe)를 활용한다. 지원자의 결과물과 AI 협업 과정, 검증 기록을 함께 평가한다. 게임사별 AI 채용 기준을 살펴보는 기획의 네 번째 사례다."
+                "x": "In this guest article, Dario Berruti, Head of Art at InnoGames, outlines how the studio behind Forge of Empires, Elvenar and Heroes of History adopted generative AI in five stages. It began with a survey of artists, whose top concern was job security; leadership stated that the purpose of AI is to amplify artists' skills, not to replace them."
               },
               {
                 "t": "p",
-                "x": "크래프톤 관계자는 지난 5일 이코노미톡뉴스와의 답변에서 Cofa-Probe가 “기술 관리(Technique)·의도 관리(Intent)·인지 관리(Cognition) 세 축”으로 평가한다고 설명했다."
+                "x": "Early experiments worked like an accelerated Pinterest for references and rough mock-ups. The team committed to Scenario, which became its go-to tool for icons, portraits and small illustrations because it can train custom models on the studio's own assets; ComfyUI was evaluated and dropped."
               },
               {
                 "t": "p",
-                "x": "크래프톤은 실제 업무와 유사한 환경에서 지원자가 업무 에이전트와 협업하는 과정을 살핀다. 소스코드와 대화 기록, 프롬프트, 도구 설정, 검증 실행 기록을 자동으로 수집해 결과물과 문제 해결 과정을 함께 평가한다."
+                "x": "The turning point came in 2025 with Gemini and Flux. Outsourcing costs are now half of what they were in previous years, and AI is integral to 2D and concept art. Today the focus is automation: node-based workflows, MCP integrations and agents. Artists use Claude for repetitive tasks and to write their own scripts and tools, and connecting Claude to Blender through its MCP server is opening new possibilities for 3D."
               },
               {
                 "t": "p",
-                "x": "기술 관리에서는 AI에 전달한 목표와 제약이 적절했는지, 의도 관리에서는 오류 원인을 분석해 접근 방식을 수정했는지 확인한다."
+                "x": "\"AI has changed how we work. It has not changed who does the work: our artists remain at the center of everything we create.\""
               },
               {
-                "t": "p",
-                "x": "인지 관리에서는 결과물의 오류와 한계를 검증하고 실제 업무에 활용할 수준으로 완성했는지를 살핀다. 과제 종료 후에는 지원자가 결과물과 의사결정 과정을 직접 설명하는 사후 질의응답도 진행한다."
-              },
-              {
-                "t": "p",
-                "x": "해당 인턴십은 2027년 2월 입사해 5개월간 진행되며, 인턴 기간 평가를 통해 정규직 전환 여부를 결정한다. Cofa-Probe는 6개 직군의 과제 수행 기록과 결과물, 사후 설명을 함께 살펴 지원자의 AI 활용 역량을 평가하는 데 쓰인다."
+                "t": "img",
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/Dario-Berruti-1024x684.png",
+                "cap": "Dario Berruti, Head of Art at InnoGames"
               }
             ]
           }
         },
-        "en": {
-          "headline": "Krafton grades interns on how\nthey collaborate with AI",
-          "body": "Krafton uses Cofa-Probe to evaluate the process by which applicants collaborate with AI agents.",
-          "mini_headline": "Krafton's AI collaboration test",
+        "ko": {
+          "headline": "InnoGames의 AI\n중심엔 아티스트가 있다",
+          "body": "InnoGames의 Dario Berruti가 아티스트 중심 AI 도입기를 전했다.",
+          "mini_headline": "InnoGames, 아티스트 중심 유지",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.economytalk.kr/news/photo/202611/425135_233885_4215.png",
-                "cap": "Krafton is using Cofa-Probe, developed in-house, to assess AI skills in 6 job tracks of its 2027 hiring-linked internship. [Krafton]"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png"
               },
               {
                 "t": "p",
-                "x": "Krafton is using Cofa-Probe, a tool it developed in-house, to assess AI skills across 6 job tracks in its 2027 hiring-linked internship. It evaluates applicants' output together with their AI collaboration process and verification records. This is the fourth case in a series examining the AI hiring standards of individual game companies."
+                "x": "InnoGames의 아트 총괄 Dario Berruti가 이 기고문에서 스튜디오의 생성형 AI 도입 과정을 다섯 단계로 정리했다. Forge of Empires, Elvenar, Heroes of History를 만든 곳이다. 출발점은 아티스트 설문이었다. 가장 큰 우려는 고용 안정이었다. 경영진은 AI가 아티스트를 대체하려는 게 아니라 그들의 역량을 키우려는 것이라고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "A Krafton official explained in a response to EconomyTalk News on the 5th that Cofa-Probe evaluates applicants on “three axes: technique management (Technique), intent management (Intent) and cognition management (Cognition).”"
+                "x": "초기에는 레퍼런스와 러프 목업용 '빨라진 Pinterest' 정도로 썼다. 팀이 고른 도구는 Scenario였다. 스튜디오 자체 에셋으로 커스텀 모델을 학습시킬 수 있어 아이콘, 초상화, 소형 일러스트 작업의 주력이 됐다. ComfyUI도 검토했지만 채택하지 않았다."
               },
               {
                 "t": "p",
-                "x": "Krafton observes how applicants collaborate with work agents in an environment similar to real work. It automatically collects source code, conversation logs, prompts, tool settings and verification run records, and evaluates the output and the problem-solving process together."
+                "x": "전환점은 2025년 Gemini와 Flux였다. 외주 비용은 이제 예년의 절반 수준이고, 2D와 콘셉트 아트에서 AI는 빼놓을 수 없는 요소가 됐다. 지금은 노드 기반 워크플로, MCP 연동, 에이전트 같은 자동화에 힘을 싣는다. 아티스트들은 반복 작업이나 자체 스크립트·도구를 짤 때 Claude를 쓰고, MCP 서버로 Claude를 Blender에 연결해 3D에서도 새 가능성을 찾는다."
               },
               {
                 "t": "p",
-                "x": "Technique management checks whether the goals and constraints given to the AI were appropriate, and intent management checks whether the applicant analysed the cause of errors and revised their approach."
+                "x": "\"AI는 우리가 일하는 방식을 바꿨다. 하지만 누가 일하는지는 바꾸지 않았다. 우리가 만드는 모든 것의 중심에는 여전히 아티스트가 있다.\""
               },
               {
-                "t": "p",
-                "x": "Cognition management looks at whether the applicant verified the errors and limits of the output and finished it to a level usable in real work. After the task, a follow-up question-and-answer session is held in which applicants explain their output and decision-making process themselves."
-              },
-              {
-                "t": "p",
-                "x": "The internship starts in February 2027 and runs for 5 months, with conversion to a full-time position decided through evaluation during the internship. Cofa-Probe is used to assess applicants' AI skills by reviewing their task records, output and follow-up explanations across the 6 job tracks."
+                "t": "img",
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/Dario-Berruti-1024x684.png",
+                "cap": "InnoGames 아트 총괄 Dario Berruti"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Krafton、AI協業の\n過程でインターン評価",
-          "body": "KraftonはCofa-Probeで応募者とAIエージェントの協業過程を評価する。",
-          "mini_headline": "KraftonのAI協業評価",
+          "headline": "InnoGamesのAI制作\n中心はアーティスト",
+          "body": "InnoGamesのDario Berruti氏がアーティスト中心の生成AI導入を語った。",
+          "mini_headline": "InnoGames、アーティスト中心を維持",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.economytalk.kr/news/photo/202611/425135_233885_4215.png",
-                "cap": "Kraftonは2027年度の採用連動型インターンシップ6職種のAI能力評価に、自社開発のCofa-Probe（コパ・プローブ）を活用する。［Krafton］"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png"
               },
               {
                 "t": "p",
-                "x": "Kraftonは2027年度の採用連動型インターンシップ6職種のAI能力評価に、自社開発のCofa-Probe（コパ・プローブ）を活用する。応募者の成果物とAIとの協業過程、検証記録をあわせて評価する。ゲーム会社ごとのAI採用基準を探る企画の四つ目の事例である。"
+                "x": "この寄稿記事で、InnoGamesのアート責任者Dario Berruti氏は、Forge of Empires、Elvenar、Heroes of Historyを手がける同スタジオが生成AIを五段階で導入した経緯を説明している。出発点はアーティストへのアンケートで、最大の懸念は雇用の安定だった。経営陣は、AIの目的はアーティストを置き換えることではなく、そのスキルを高めることだと明言した。"
               },
               {
                 "t": "p",
-                "x": "Kraftonの関係者は5日、エコノミートークニュースへの回答で、Cofa-Probeは「技術管理（Technique）・意図管理（Intent）・認知管理（Cognition）の三つの軸」で評価すると説明した。"
+                "x": "初期の実験は、リファレンスやラフなモックアップのための「高速版Pinterest」のように機能した。チームはScenarioに注力し、スタジオ独自のアセットでカスタムモデルを学習できることから、アイコン、ポートレート、小さなイラストの定番ツールとなった。ComfyUIは検討したものの採用を見送った。"
               },
               {
                 "t": "p",
-                "x": "Kraftonは実務に近い環境で、応募者が業務エージェントと協業する過程を見る。ソースコードや対話記録、プロンプト、ツール設定、検証の実行記録を自動で収集し、成果物と問題解決の過程をあわせて評価する。"
+                "x": "転機は2025年、GeminiとFluxの登場だった。現在、外注コストは例年の半分になり、AIは2Dやコンセプトアートに欠かせない存在となっている。今の焦点は自動化で、ノードベースのワークフロー、MCP連携、エージェントに取り組んでいる。アーティストは反復作業や独自のスクリプト・ツールの作成にClaudeを使い、MCPサーバーを通じてClaudeをBlenderに接続することで3Dにも新たな可能性が開けつつある。"
               },
               {
                 "t": "p",
-                "x": "技術管理ではAIに伝えた目標と制約が適切だったか、意図管理ではエラーの原因を分析してアプローチを修正したかを確認する。"
+                "x": "「AIは私たちの働き方を変えた。しかし、誰が仕事をするかは変えていない。私たちが生み出すすべてのものの中心には、今もアーティストがいる」"
               },
               {
-                "t": "p",
-                "x": "認知管理では、成果物の誤りや限界を検証し、実務で使える水準まで仕上げたかを見る。課題終了後には、応募者が成果物と意思決定の過程を自ら説明する事後の質疑応答も行う。"
-              },
-              {
-                "t": "p",
-                "x": "このインターンシップは2027年2月に入社して5か月間行われ、インターン期間中の評価を通じて正社員への転換が決まる。Cofa-Probeは6職種の課題遂行記録と成果物、事後説明をあわせて確認し、応募者のAI活用能力を評価するために使われる。"
+                "t": "img",
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/Dario-Berruti-1024x684.png",
+                "cap": "InnoGamesアート責任者 Dario Berruti氏"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Krafton以AI协作\n过程评估实习生",
-          "body": "Krafton用Cofa-Probe评估应聘者与AI智能体协作的过程。",
-          "mini_headline": "Krafton的AI协作评估",
+          "headline": "InnoGames的AI管线\n以美术师为核心",
+          "body": "InnoGames的Dario Berruti讲述了以美术师为核心引入生成式AI的经过。",
+          "mini_headline": "InnoGames坚持以美术师为核心",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.economytalk.kr/news/photo/202611/425135_233885_4215.png",
-                "cap": "Krafton将在2027年招聘衔接型实习项目6个岗位类别的AI能力评估中，使用自主研发的Cofa-Probe。[Krafton]"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png"
               },
               {
                 "t": "p",
-                "x": "Krafton将在2027年招聘衔接型实习项目6个岗位类别的AI能力评估中，使用自主研发的Cofa-Probe，同时评估应聘者的成果物、AI协作过程和验证记录。这是考察各游戏公司AI招聘标准系列策划的第四个案例。"
+                "x": "在这篇客座文章中，InnoGames美术负责人Dario Berruti介绍了这家打造Forge of Empires、Elvenar和Heroes of History的工作室如何分五个阶段引入生成式AI。第一步是对美术师进行调研，他们最关心的是工作保障；管理层明确表示，AI的目的是增强美术师的能力，而非取代他们。"
               },
               {
                 "t": "p",
-                "x": "Krafton相关人士5日在回复EconomyTalk News时解释称，Cofa-Probe从“技术管理（Technique）、意图管理（Intent）、认知管理（Cognition）三个维度”进行评估。"
+                "x": "早期实验就像一个加速版的Pinterest，用于寻找参考和制作粗略样稿。团队最终选定了Scenario，由于它能用工作室自有素材训练定制模型，它成为制作图标、肖像和小型插画的首选工具；ComfyUI经过评估后被放弃。"
               },
               {
                 "t": "p",
-                "x": "Krafton在接近实际工作的环境中观察应聘者与工作智能体协作的过程，自动收集源代码、对话记录、提示词、工具设置和验证执行记录，同时评估成果物和解决问题的过程。"
+                "x": "转折点出现在2025年，Gemini和Flux相继登场。如今外包成本仅为往年的一半，AI已成为2D和概念美术不可或缺的一部分。目前的重点是自动化：基于节点的工作流、MCP集成以及智能体。美术师们用Claude处理重复性任务、编写自己的脚本和工具，而通过MCP服务器将Claude连接到Blender，正在为3D开辟新的可能。"
               },
               {
                 "t": "p",
-                "x": "技术管理考察向AI传达的目标和约束是否恰当，意图管理考察应聘者是否分析了错误原因并调整了方法。"
+                "x": "“AI改变了我们的工作方式，但没有改变由谁来工作：我们的美术师始终是我们所创造的一切的核心。”"
               },
               {
-                "t": "p",
-                "x": "认知管理考察应聘者是否验证了成果物中的错误与局限，并将其完善到可用于实际工作的水平。任务结束后，还会进行事后问答，由应聘者亲自说明成果物和决策过程。"
-              },
-              {
-                "t": "p",
-                "x": "该实习项目于2027年2月入职，为期5个月，将根据实习期间的评估决定是否转为正式员工。Cofa-Probe将综合审视6个岗位类别的任务执行记录、成果物和事后说明，用于评估应聘者的AI应用能力。"
+                "t": "img",
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/Dario-Berruti-1024x684.png",
+                "cap": "InnoGames美术负责人Dario Berruti"
               }
             ]
           }
         },
         "es": {
-          "headline": "Krafton evalúa a sus becarios\npor su colaboración con AI",
-          "body": "Krafton usa Cofa-Probe para evaluar el proceso con el que los candidatos colaboran con agentes de AI.",
-          "mini_headline": "Krafton evalúa la colaboración con AI",
+          "headline": "InnoGames pone a los artistas\nen el centro de su flujo de AI",
+          "body": "El jefe de arte Dario Berruti explica cómo InnoGames llevó la AI generativa a su arte con los artistas en el centro.",
+          "mini_headline": "InnoGames mantiene a sus artistas al centro",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.economytalk.kr/news/photo/202611/425135_233885_4215.png",
-                "cap": "Krafton utiliza Cofa-Probe, de desarrollo propio, para evaluar las competencias de AI en 6 áreas de su programa de prácticas 2027 vinculado a contratación. [Krafton]"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png"
               },
               {
                 "t": "p",
-                "x": "Krafton utiliza Cofa-Probe, una herramienta de desarrollo propio, para evaluar las competencias de AI en 6 áreas de su programa de prácticas 2027 vinculado a contratación. Evalúa a la vez los resultados del candidato, su proceso de colaboración con la AI y sus registros de verificación. Es el cuarto caso de una serie que examina los criterios de contratación relacionados con la AI de cada empresa de videojuegos."
+                "x": "En este artículo invitado, Dario Berruti, jefe de arte de InnoGames, explica cómo el estudio detrás de Forge of Empires, Elvenar y Heroes of History adoptó la AI generativa en cinco etapas. Todo comenzó con una encuesta a los artistas, cuya principal preocupación era la estabilidad laboral; la dirección afirmó que el propósito de la AI es potenciar las habilidades de los artistas, no reemplazarlos."
               },
               {
                 "t": "p",
-                "x": "Un representante de Krafton explicó el día 5, en una respuesta a EconomyTalk News, que Cofa-Probe evalúa según “tres ejes: gestión técnica (Technique), gestión de la intención (Intent) y gestión cognitiva (Cognition)”."
+                "x": "Los primeros experimentos funcionaron como un Pinterest acelerado para referencias y maquetas preliminares. El equipo apostó por Scenario, que se convirtió en su herramienta principal para iconos, retratos e ilustraciones pequeñas porque permite entrenar modelos personalizados con los propios recursos del estudio; ComfyUI se evaluó y se descartó."
               },
               {
                 "t": "p",
-                "x": "Krafton observa cómo los candidatos colaboran con agentes de trabajo en un entorno similar al trabajo real. Recopila automáticamente el código fuente, los registros de conversación, los prompts, la configuración de herramientas y los registros de ejecución de verificaciones, y evalúa a la vez el resultado y el proceso de resolución de problemas."
+                "x": "El punto de inflexión llegó en 2025 con Gemini y Flux. Los costos de externalización son ahora la mitad que en años anteriores, y la AI es parte integral del arte 2D y conceptual. Hoy el foco está en la automatización: flujos de trabajo basados en nodos, integraciones MCP y agentes. Los artistas usan Claude para tareas repetitivas y para escribir sus propios scripts y herramientas, y conectar Claude a Blender mediante su servidor MCP está abriendo nuevas posibilidades para el 3D."
               },
               {
                 "t": "p",
-                "x": "En la gestión técnica se comprueba si los objetivos y restricciones transmitidos a la AI eran adecuados; en la gestión de la intención, si el candidato analizó la causa de los errores y corrigió su enfoque."
+                "x": "\"La AI ha cambiado cómo trabajamos. No ha cambiado quién hace el trabajo: nuestros artistas siguen en el centro de todo lo que creamos.\""
               },
               {
-                "t": "p",
-                "x": "En la gestión cognitiva se examina si el candidato verificó los errores y límites del resultado y lo completó hasta un nivel útil en el trabajo real. Al terminar la tarea se realiza además una sesión posterior de preguntas y respuestas en la que el candidato explica personalmente su resultado y su proceso de toma de decisiones."
-              },
-              {
-                "t": "p",
-                "x": "Las prácticas comienzan con la incorporación en febrero de 2027 y duran 5 meses; la conversión a un puesto fijo se decide mediante la evaluación durante ese periodo. Cofa-Probe se utiliza para evaluar la capacidad de uso de la AI de los candidatos, revisando en conjunto los registros de ejecución de tareas, los resultados y las explicaciones posteriores de las 6 áreas."
+                "t": "img",
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/Dario-Berruti-1024x684.png",
+                "cap": "Dario Berruti, jefe de arte de InnoGames"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Krafton grades interns on how\nthey collaborate with AI",
-          "body": "Krafton uses Cofa-Probe to evaluate the process by which applicants collaborate with AI agents.",
-          "mini_headline": "Krafton's AI collaboration test",
+        "ko": {
+          "headline": "InnoGames의 AI\n중심엔 아티스트가 있다",
+          "body": "InnoGames의 Dario Berruti가 아티스트 중심 AI 도입기를 전했다.",
+          "mini_headline": "InnoGames, 아티스트 중심 유지",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.economytalk.kr/news/photo/202611/425135_233885_4215.png",
-                "cap": "Krafton is using Cofa-Probe, developed in-house, to assess AI skills in 6 job tracks of its 2027 hiring-linked internship. [Krafton]"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png"
               },
               {
                 "t": "p",
-                "x": "Krafton is using Cofa-Probe, a tool it developed in-house, to assess AI skills across 6 job tracks in its 2027 hiring-linked internship. It evaluates applicants' output together with their AI collaboration process and verification records. This is the fourth case in a series examining the AI hiring standards of individual game companies."
+                "x": "이 기고문에서 InnoGames의 아트 총괄 Dario Berruti는 Forge of Empires, Elvenar, Heroes of History를 만든 이 스튜디오가 생성형 AI를 다섯 단계에 걸쳐 도입한 과정을 정리했다. 출발점은 아티스트 대상 설문이었고, 이들의 가장 큰 우려는 고용 안정이었다. 경영진은 AI의 목적이 아티스트를 대체하는 데 있지 않고 그들의 역량을 키우는 데 있다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "A Krafton official explained in a response to EconomyTalk News on the 5th that Cofa-Probe evaluates applicants on “three axes: technique management (Technique), intent management (Intent) and cognition management (Cognition).”"
+                "x": "초기 실험은 레퍼런스와 러프 목업을 위한 '빨라진 Pinterest'처럼 쓰였다. 팀은 Scenario를 택했고, 스튜디오 자체 에셋으로 커스텀 모델을 학습시킬 수 있다는 점 덕분에 이 도구는 아이콘, 초상화, 소형 일러스트의 주력 도구가 됐다. ComfyUI는 검토했지만 채택하지 않았다."
               },
               {
                 "t": "p",
-                "x": "Krafton observes how applicants collaborate with work agents in an environment similar to real work. It automatically collects source code, conversation logs, prompts, tool settings and verification run records, and evaluates the output and the problem-solving process together."
+                "x": "전환점은 2025년 Gemini와 Flux였다. 지금 외주 비용은 예년의 절반 수준이고, AI는 2D와 콘셉트 아트에 없어서는 안 될 요소가 됐다. 현재 초점은 자동화로, 노드 기반 워크플로, MCP 연동, 에이전트에 맞춰져 있다. 아티스트들은 반복 작업과 자체 스크립트·도구 작성에 Claude를 쓰고, MCP 서버로 Claude를 Blender에 연결하면서 3D에서도 새로운 가능성이 열리고 있다."
               },
               {
                 "t": "p",
-                "x": "Technique management checks whether the goals and constraints given to the AI were appropriate, and intent management checks whether the applicant analysed the cause of errors and revised their approach."
+                "x": "\"AI는 우리가 일하는 방식을 바꿨다. 하지만 누가 일하는지는 바꾸지 않았다. 우리가 만드는 모든 것의 중심에는 여전히 아티스트가 있다.\""
               },
               {
-                "t": "p",
-                "x": "Cognition management looks at whether the applicant verified the errors and limits of the output and finished it to a level usable in real work. After the task, a follow-up question-and-answer session is held in which applicants explain their output and decision-making process themselves."
-              },
-              {
-                "t": "p",
-                "x": "The internship starts in February 2027 and runs for 5 months, with conversion to a full-time position decided through evaluation during the internship. Cofa-Probe is used to assess applicants' AI skills by reviewing their task records, output and follow-up explanations across the 6 job tracks."
+                "t": "img",
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/Dario-Berruti-1024x684.png",
+                "cap": "InnoGames 아트 총괄 Dario Berruti"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Krafton、AI協業の\n過程でインターン評価",
-          "body": "KraftonはCofa-Probeで応募者とAIエージェントの協業過程を評価する。",
-          "mini_headline": "KraftonのAI協業評価",
+          "headline": "InnoGamesのAI制作\n中心はアーティスト",
+          "body": "InnoGamesのDario Berruti氏がアーティスト中心の生成AI導入を語った。",
+          "mini_headline": "InnoGames、アーティスト中心を維持",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.economytalk.kr/news/photo/202611/425135_233885_4215.png",
-                "cap": "Kraftonは2027年度の採用連動型インターンシップ6職種のAI能力評価に、自社開発のCofa-Probe（コパ・プローブ）を活用する。［Krafton］"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png"
               },
               {
                 "t": "p",
-                "x": "Kraftonは2027年度の採用連動型インターンシップ6職種のAI能力評価に、自社開発のCofa-Probe（コパ・プローブ）を活用する。応募者の成果物とAIとの協業過程、検証記録をあわせて評価する。ゲーム会社ごとのAI採用基準を探る企画の四つ目の事例である。"
+                "x": "この寄稿記事で、InnoGamesのアート責任者Dario Berruti氏は、Forge of Empires、Elvenar、Heroes of Historyを手がける同スタジオが生成AIを五段階で導入した経緯を説明している。出発点はアーティストへのアンケートで、最大の懸念は雇用の安定だった。経営陣は、AIの目的はアーティストを置き換えることではなく、そのスキルを高めることだと明言した。"
               },
               {
                 "t": "p",
-                "x": "Kraftonの関係者は5日、エコノミートークニュースへの回答で、Cofa-Probeは「技術管理（Technique）・意図管理（Intent）・認知管理（Cognition）の三つの軸」で評価すると説明した。"
+                "x": "初期の実験は、リファレンスやラフなモックアップのための「高速版Pinterest」のように機能した。チームはScenarioに注力し、スタジオ独自のアセットでカスタムモデルを学習できることから、アイコン、ポートレート、小さなイラストの定番ツールとなった。ComfyUIは検討したものの採用を見送った。"
               },
               {
                 "t": "p",
-                "x": "Kraftonは実務に近い環境で、応募者が業務エージェントと協業する過程を見る。ソースコードや対話記録、プロンプト、ツール設定、検証の実行記録を自動で収集し、成果物と問題解決の過程をあわせて評価する。"
+                "x": "転機は2025年、GeminiとFluxの登場だった。現在、外注コストは例年の半分になり、AIは2Dやコンセプトアートに欠かせない存在となっている。今の焦点は自動化で、ノードベースのワークフロー、MCP連携、エージェントに取り組んでいる。アーティストは反復作業や独自のスクリプト・ツールの作成にClaudeを使い、MCPサーバーを通じてClaudeをBlenderに接続することで3Dにも新たな可能性が開けつつある。"
               },
               {
                 "t": "p",
-                "x": "技術管理ではAIに伝えた目標と制約が適切だったか、意図管理ではエラーの原因を分析してアプローチを修正したかを確認する。"
+                "x": "「AIは私たちの働き方を変えた。しかし、誰が仕事をするかは変えていない。私たちが生み出すすべてのものの中心には、今もアーティストがいる」"
               },
               {
-                "t": "p",
-                "x": "認知管理では、成果物の誤りや限界を検証し、実務で使える水準まで仕上げたかを見る。課題終了後には、応募者が成果物と意思決定の過程を自ら説明する事後の質疑応答も行う。"
-              },
-              {
-                "t": "p",
-                "x": "このインターンシップは2027年2月に入社して5か月間行われ、インターン期間中の評価を通じて正社員への転換が決まる。Cofa-Probeは6職種の課題遂行記録と成果物、事後説明をあわせて確認し、応募者のAI活用能力を評価するために使われる。"
+                "t": "img",
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/Dario-Berruti-1024x684.png",
+                "cap": "InnoGamesアート責任者 Dario Berruti氏"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Krafton以AI协作\n过程评估实习生",
-          "body": "Krafton用Cofa-Probe评估应聘者与AI智能体协作的过程。",
-          "mini_headline": "Krafton的AI协作评估",
+          "headline": "InnoGames的AI管线\n以美术师为核心",
+          "body": "InnoGames的Dario Berruti讲述了以美术师为核心引入生成式AI的经过。",
+          "mini_headline": "InnoGames坚持以美术师为核心",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.economytalk.kr/news/photo/202611/425135_233885_4215.png",
-                "cap": "Krafton将在2027年招聘衔接型实习项目6个岗位类别的AI能力评估中，使用自主研发的Cofa-Probe。[Krafton]"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png"
               },
               {
                 "t": "p",
-                "x": "Krafton将在2027年招聘衔接型实习项目6个岗位类别的AI能力评估中，使用自主研发的Cofa-Probe，同时评估应聘者的成果物、AI协作过程和验证记录。这是考察各游戏公司AI招聘标准系列策划的第四个案例。"
+                "x": "在这篇客座文章中，InnoGames美术负责人Dario Berruti介绍了这家打造Forge of Empires、Elvenar和Heroes of History的工作室如何分五个阶段引入生成式AI。第一步是对美术师进行调研，他们最关心的是工作保障；管理层明确表示，AI的目的是增强美术师的能力，而非取代他们。"
               },
               {
                 "t": "p",
-                "x": "Krafton相关人士5日在回复EconomyTalk News时解释称，Cofa-Probe从“技术管理（Technique）、意图管理（Intent）、认知管理（Cognition）三个维度”进行评估。"
+                "x": "早期实验就像一个加速版的Pinterest，用于寻找参考和制作粗略样稿。团队最终选定了Scenario，由于它能用工作室自有素材训练定制模型，它成为制作图标、肖像和小型插画的首选工具；ComfyUI经过评估后被放弃。"
               },
               {
                 "t": "p",
-                "x": "Krafton在接近实际工作的环境中观察应聘者与工作智能体协作的过程，自动收集源代码、对话记录、提示词、工具设置和验证执行记录，同时评估成果物和解决问题的过程。"
+                "x": "转折点出现在2025年，Gemini和Flux相继登场。如今外包成本仅为往年的一半，AI已成为2D和概念美术不可或缺的一部分。目前的重点是自动化：基于节点的工作流、MCP集成以及智能体。美术师们用Claude处理重复性任务、编写自己的脚本和工具，而通过MCP服务器将Claude连接到Blender，正在为3D开辟新的可能。"
               },
               {
                 "t": "p",
-                "x": "技术管理考察向AI传达的目标和约束是否恰当，意图管理考察应聘者是否分析了错误原因并调整了方法。"
+                "x": "“AI改变了我们的工作方式，但没有改变由谁来工作：我们的美术师始终是我们所创造的一切的核心。”"
               },
               {
-                "t": "p",
-                "x": "认知管理考察应聘者是否验证了成果物中的错误与局限，并将其完善到可用于实际工作的水平。任务结束后，还会进行事后问答，由应聘者亲自说明成果物和决策过程。"
-              },
-              {
-                "t": "p",
-                "x": "该实习项目于2027年2月入职，为期5个月，将根据实习期间的评估决定是否转为正式员工。Cofa-Probe将综合审视6个岗位类别的任务执行记录、成果物和事后说明，用于评估应聘者的AI应用能力。"
+                "t": "img",
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/Dario-Berruti-1024x684.png",
+                "cap": "InnoGames美术负责人Dario Berruti"
               }
             ]
           }
         },
         "es": {
-          "headline": "Krafton evalúa a sus becarios\npor su colaboración con AI",
-          "body": "Krafton usa Cofa-Probe para evaluar el proceso con el que los candidatos colaboran con agentes de AI.",
-          "mini_headline": "Krafton evalúa la colaboración con AI",
+          "headline": "InnoGames pone a los artistas\nen el centro de su flujo de AI",
+          "body": "El jefe de arte Dario Berruti explica cómo InnoGames llevó la AI generativa a su arte con los artistas en el centro.",
+          "mini_headline": "InnoGames mantiene a sus artistas al centro",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.economytalk.kr/news/photo/202611/425135_233885_4215.png",
-                "cap": "Krafton utiliza Cofa-Probe, de desarrollo propio, para evaluar las competencias de AI en 6 áreas de su programa de prácticas 2027 vinculado a contratación. [Krafton]"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png"
               },
               {
                 "t": "p",
-                "x": "Krafton utiliza Cofa-Probe, una herramienta de desarrollo propio, para evaluar las competencias de AI en 6 áreas de su programa de prácticas 2027 vinculado a contratación. Evalúa a la vez los resultados del candidato, su proceso de colaboración con la AI y sus registros de verificación. Es el cuarto caso de una serie que examina los criterios de contratación relacionados con la AI de cada empresa de videojuegos."
+                "x": "En este artículo invitado, Dario Berruti, jefe de arte de InnoGames, explica cómo el estudio detrás de Forge of Empires, Elvenar y Heroes of History adoptó la AI generativa en cinco etapas. Todo comenzó con una encuesta a los artistas, cuya principal preocupación era la estabilidad laboral; la dirección afirmó que el propósito de la AI es potenciar las habilidades de los artistas, no reemplazarlos."
               },
               {
                 "t": "p",
-                "x": "Un representante de Krafton explicó el día 5, en una respuesta a EconomyTalk News, que Cofa-Probe evalúa según “tres ejes: gestión técnica (Technique), gestión de la intención (Intent) y gestión cognitiva (Cognition)”."
+                "x": "Los primeros experimentos funcionaron como un Pinterest acelerado para referencias y maquetas preliminares. El equipo apostó por Scenario, que se convirtió en su herramienta principal para iconos, retratos e ilustraciones pequeñas porque permite entrenar modelos personalizados con los propios recursos del estudio; ComfyUI se evaluó y se descartó."
               },
               {
                 "t": "p",
-                "x": "Krafton observa cómo los candidatos colaboran con agentes de trabajo en un entorno similar al trabajo real. Recopila automáticamente el código fuente, los registros de conversación, los prompts, la configuración de herramientas y los registros de ejecución de verificaciones, y evalúa a la vez el resultado y el proceso de resolución de problemas."
+                "x": "El punto de inflexión llegó en 2025 con Gemini y Flux. Los costos de externalización son ahora la mitad que en años anteriores, y la AI es parte integral del arte 2D y conceptual. Hoy el foco está en la automatización: flujos de trabajo basados en nodos, integraciones MCP y agentes. Los artistas usan Claude para tareas repetitivas y para escribir sus propios scripts y herramientas, y conectar Claude a Blender mediante su servidor MCP está abriendo nuevas posibilidades para el 3D."
               },
               {
                 "t": "p",
-                "x": "En la gestión técnica se comprueba si los objetivos y restricciones transmitidos a la AI eran adecuados; en la gestión de la intención, si el candidato analizó la causa de los errores y corrigió su enfoque."
+                "x": "\"La AI ha cambiado cómo trabajamos. No ha cambiado quién hace el trabajo: nuestros artistas siguen en el centro de todo lo que creamos.\""
               },
               {
-                "t": "p",
-                "x": "En la gestión cognitiva se examina si el candidato verificó los errores y límites del resultado y lo completó hasta un nivel útil en el trabajo real. Al terminar la tarea se realiza además una sesión posterior de preguntas y respuestas en la que el candidato explica personalmente su resultado y su proceso de toma de decisiones."
-              },
-              {
-                "t": "p",
-                "x": "Las prácticas comienzan con la incorporación en febrero de 2027 y duran 5 meses; la conversión a un puesto fijo se decide mediante la evaluación durante ese periodo. Cofa-Probe se utiliza para evaluar la capacidad de uso de la AI de los candidatos, revisando en conjunto los registros de ejecución de tareas, los resultados y las explicaciones posteriores de las 6 áreas."
+                "t": "img",
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/Dario-Berruti-1024x684.png",
+                "cap": "Dario Berruti, jefe de arte de InnoGames"
               }
             ]
           }
@@ -767,15 +787,15 @@
       }
     },
     {
-      "id": "ubisoft-databricks-agents",
-      "source_lang": "en",
+      "id": "automaton-ocarina-gemini-port",
+      "source_lang": "ja",
       "eyebrow": "AI NEWS",
-      "headline": "Ubisoft, AI 코딩\n에이전트 4,000+명에",
-      "body": "Ubisoft는 Unity Gateway로 4,000+명에게 AI 에이전트를 줬다.",
-      "mini_headline": "Ubisoft AI 에이전트 4,000+명",
+      "headline": "Google 직원의 젤다\n이식, 논란 끝에 삭제",
+      "body": "Google 직원이 Gemini 4로 iPhone Duo에 젤다 띄운 글을 지웠다.",
+      "mini_headline": "Google 직원의 이식에 비판",
       "tool": "Games",
-      "source": "Databricks",
-      "url": "https://www.databricks.com/customers/ubisoft/unity-gateway",
+      "source": "AUTOMATON",
+      "url": "https://automaton-media.com/articles/newsjp/20261109-478221/",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
@@ -783,295 +803,375 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.databricks.com/sites/default/files/2026-11/customer-story-ubisoft-still-image-2x.jpg?v=1793893844"
+            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg"
           },
           {
             "t": "p",
-            "x": "Ubisoft의 AI 코딩 에이전트 도입은 현장에서 먼저 시작됐다. 여러 팀이 Claude Code, GitHub Copilot 등 다양한 도구를 시험했고 Ubisoft는 Claude Code 트래픽의 게이트웨이로 LiteLLM을 썼다. CEO가 후원하는(CEO-sponsored) 사업으로 도입이 빨라지자 개발자 수천 명을 온보딩하고 게이트웨이 성능을 관리하기가 점점 버거워졌다."
+            "x": "Google 직원 Ammaar Reshi가 11월 7일 『젤다의 전설 시간의 오카리나』 풀 리메이크판을 Gemini 4로 iPhone Duo에서 구동했다고 X에 올렸다. 게시물은 논란을 불렀고, 지금은 삭제됐다."
           },
           {
             "t": "p",
-            "x": "이미 Databricks를 쓰던 Ubisoft는 Databricks Unity Gateway로 눈을 돌렸다. 엔드포인트 하나로 Anthropic, OpenAI와 DeepSeek, Kimi, GLM, Qwen 같은 오픈 모델에 모두 쓸 수 있다. 개발자는 새 모델이 나오면 보통 24–48시간 안에 전체 접근 권한을 받는다."
+            "x": "『젤다의 전설 시간의 오카리나』는 1998년 NINTENDO 64용으로 발매된 액션 RPG다. 이번 풀 리메이크는 그래픽을 새로 다듬고 컷신에 풀 보이스를 입혔다. 카메라를 자유롭게 움직일 수 있고 점프와 대시 등도 더해졌다. 11월 5일 Nintendo Switch 2용으로 나왔다."
+          },
+          {
+            "t": "img",
+            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-header-1080x608.jpg"
           },
           {
             "t": "p",
-            "x": "맞춤형 설치 프로그램이 개인 액세스 토큰 생성, Unity Gateway 연결, 코딩 에이전트 설정을 자동으로 처리한다. Ubisoft의 활성 사용자는 3월 약 200명에서 8월 4,000명 이상으로 다섯 달 만에 20배 늘었다. 목표는 게임 제작 전반의 개발자 5,000명이다."
+            "x": "게시자 Ammaar Reshi는 Google에서 'Google AI Studio'의 리드 프로덕트&디자인을 맡고 있다. Google의 생성형 AI 'Gemini 4'로 구동했다고 설명했으니, 자사 AI 기술의 성과로 내보인 셈이다."
           },
           {
             "t": "p",
-            "x": "사용량이 늘자 AI 지출도 158% 뛰었다. Unity Gateway는 요청마다 보낸 사용자의 신원을 남긴다. Ubisoft는 이 데이터를 Databricks AI/BI Dashboards, 맞춤 알림, 계획 중인 팀 단위 예산·차지백과 엮어 AI 비용을 추적하고 나눈다."
+            "x": "인용 게시물에서는 비공식 이식 자체뿐 아니라, Google AI 제품 개발에 관여하는 인물이 이를 공개적으로 내보였다는 점을 두고도 의문이 나왔다. 게시물은 이미 지워졌고, 삭제 이유는 알려지지 않았다."
+          },
+          {
+            "t": "img",
+            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-002-1080x608.jpg"
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Ubisoft rolls out AI coding\nagents to 4,000+ developers",
-          "body": "Ubisoft gave 4,000+ developers AI coding agents via Unity Gateway, Databricks' AI gateway (not Unity Technologies).",
-          "mini_headline": "Ubisoft AI agents\nfor 4,000+ devs",
+        "ja": {
+          "headline": "Google社員のゼルダ移植\n物議を醸し投稿を削除",
+          "body": "Google社員がGemini 4で時オカをiPhone Duoで動かしたと投稿、後に削除。",
+          "mini_headline": "Google社員の移植に批判",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.databricks.com/sites/default/files/2026-11/customer-story-ubisoft-still-image-2x.jpg?v=1793893844"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg"
               },
               {
                 "t": "p",
-                "x": "AI coding agents at Ubisoft started from the bottom up: teams experimented with Claude Code, GitHub Copilot and other tools, while Ubisoft used LiteLLM as a gateway for Claude Code traffic. As adoption accelerated under a CEO-sponsored initiative, onboarding thousands of developers and managing gateway performance became increasingly difficult."
+                "x": "Google社員のAmmaar Reshi氏が11月7日、『ゼルダの伝説 時のオカリナ』フルリメイク版をGemini 4を利用してiPhone Duoで動作させたとXに投稿した。投稿は物議を醸し、現在は削除されている。"
               },
               {
                 "t": "p",
-                "x": "Already using Databricks, Ubisoft turned to Databricks Unity Gateway. Through a common endpoint it provides access to Anthropic, OpenAI and open models such as DeepSeek, Kimi, GLM and Qwen, and developers can typically gain full access to newly released models within 24–48 hours."
+                "x": "『ゼルダの伝説 時のオカリナ』は1998年にNINTENDO 64向けに発売されたアクションRPG。今回のフルリメイクではグラフィックが全面的に刷新されカットシーンがフルボイスになったほか、自由なカメラ操作やジャンプ、ダッシュなどが導入され、Nintendo Switch 2向けに11月5日に発売された。"
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-header-1080x608.jpg"
               },
               {
                 "t": "p",
-                "x": "A custom installer automates personal access token creation, the Unity Gateway connection and coding agent configuration. Ubisoft grew from approximately 200 active users in March to more than 4,000 by August, a 20x increase in five months, and is targeting 5,000 developers across game production."
+                "x": "投稿したのはGoogleにて「Google AI Studio」のリードプロダクト＆デザインを務めるAmmaar Reshi氏。同氏はGoogleの生成AI「Gemini 4」を用いて動作させたと説明しており、自社のAI技術を活用した成果として披露したかたちだ。"
               },
               {
                 "t": "p",
-                "x": "As usage grew, AI spend increased 158%. Unity Gateway keeps the identity behind each request, and Ubisoft combines that data with Databricks AI/BI Dashboards, custom alerts and planned team-level budgets and chargeback to track and allocate AI costs."
+                "x": "引用ポストでは、非公式な移植という行為だけでなく、それをGoogleのAI製品開発に携わる人物が公に披露したことにも疑問の声が寄せられた。投稿はすでに削除されているものの、削除に至った理由は明らかになっていない。"
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-002-1080x608.jpg"
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Google employee's Zelda port\ndraws controversy; post deleted",
+          "body": "A Google employee posted that he ran Ocarina of Time on an iPhone Duo using Gemini 4, then deleted the post.",
+          "mini_headline": "Google employee's port draws criticism",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google employee Ammaar Reshi posted on X on November 7 that he had run the full remake of The Legend of Zelda: Ocarina of Time on an iPhone Duo using Gemini 4. The post drew controversy and has since been deleted."
+              },
+              {
+                "t": "p",
+                "x": "The Legend of Zelda: Ocarina of Time is an action RPG released for the NINTENDO 64 in 1998. The full remake completely overhauls the graphics and fully voices the cutscenes, while adding free camera control, jumping, dashing and more; it was released for Nintendo Switch 2 on November 5."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-header-1080x608.jpg"
+              },
+              {
+                "t": "p",
+                "x": "The post came from Ammaar Reshi, who serves as lead for product and design on \"Google AI Studio\" at Google. He explained that he had used Google's generative AI \"Gemini 4\" to get it running, presenting the result as an achievement built on the company's own AI technology."
+              },
+              {
+                "t": "p",
+                "x": "In quote posts, people questioned not only the act of making an unofficial port, but also the fact that someone involved in developing Google's AI products had shown it off publicly. The post has been deleted, but the reason for its removal has not been disclosed."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-002-1080x608.jpg"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Ubisoft, AI 코딩\n에이전트 4,000+명에",
-          "body": "Ubisoft는 Unity Gateway로 4,000+명에게 AI 에이전트를 줬다.",
-          "mini_headline": "Ubisoft AI 에이전트 4,000+명",
+          "headline": "Google 직원의 젤다\n이식, 논란 끝에 삭제",
+          "body": "Google 직원이 Gemini 4로 iPhone Duo에 젤다 띄운 글을 지웠다.",
+          "mini_headline": "Google 직원의 이식에 비판",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.databricks.com/sites/default/files/2026-11/customer-story-ubisoft-still-image-2x.jpg?v=1793893844"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg"
               },
               {
                 "t": "p",
-                "x": "Ubisoft의 AI 코딩 에이전트 도입은 현장에서 먼저 시작됐다. 여러 팀이 Claude Code, GitHub Copilot 등 다양한 도구를 시험했고 Ubisoft는 Claude Code 트래픽의 게이트웨이로 LiteLLM을 썼다. CEO가 후원하는(CEO-sponsored) 사업으로 도입이 빨라지자 개발자 수천 명을 온보딩하고 게이트웨이 성능을 관리하기가 점점 버거워졌다."
+                "x": "Google 직원 Ammaar Reshi가 11월 7일 『젤다의 전설 시간의 오카리나』 풀 리메이크판을 Gemini 4로 iPhone Duo에서 구동했다고 X에 올렸다. 게시물은 논란을 불렀고, 지금은 삭제됐다."
               },
               {
                 "t": "p",
-                "x": "이미 Databricks를 쓰던 Ubisoft는 Databricks Unity Gateway로 눈을 돌렸다. 엔드포인트 하나로 Anthropic, OpenAI와 DeepSeek, Kimi, GLM, Qwen 같은 오픈 모델에 모두 쓸 수 있다. 개발자는 새 모델이 나오면 보통 24–48시간 안에 전체 접근 권한을 받는다."
+                "x": "『젤다의 전설 시간의 오카리나』는 1998년 NINTENDO 64용으로 발매된 액션 RPG다. 이번 풀 리메이크는 그래픽을 새로 다듬고 컷신에 풀 보이스를 입혔다. 카메라를 자유롭게 움직일 수 있고 점프와 대시 등도 더해졌다. 11월 5일 Nintendo Switch 2용으로 나왔다."
               },
-              {
-                "t": "p",
-                "x": "맞춤형 설치 프로그램이 개인 액세스 토큰 생성, Unity Gateway 연결, 코딩 에이전트 설정을 자동으로 처리한다. Ubisoft의 활성 사용자는 3월 약 200명에서 8월 4,000명 이상으로 다섯 달 만에 20배 늘었다. 목표는 게임 제작 전반의 개발자 5,000명이다."
-              },
-              {
-                "t": "p",
-                "x": "사용량이 늘자 AI 지출도 158% 뛰었다. Unity Gateway는 요청마다 보낸 사용자의 신원을 남긴다. Ubisoft는 이 데이터를 Databricks AI/BI Dashboards, 맞춤 알림, 계획 중인 팀 단위 예산·차지백과 엮어 AI 비용을 추적하고 나눈다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "UbisoftがAIを\n開発者4,000+人に展開",
-          "body": "UbisoftはUnity Gatewayで4,000+人にAIエージェントを提供した。",
-          "mini_headline": "UbisoftのAIエージェント",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.databricks.com/sites/default/files/2026-11/customer-story-ubisoft-still-image-2x.jpg?v=1793893844"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-header-1080x608.jpg"
               },
               {
                 "t": "p",
-                "x": "UbisoftでのAIコーディングエージェントの導入は現場から始まった。各チームがClaude CodeやGitHub Copilotなどのツールを試し、UbisoftはClaude Codeのトラフィック用ゲートウェイとしてLiteLLMを使っていた。CEO主導（CEO-sponsored）の取り組みで導入が加速すると、数千人の開発者のオンボーディングとゲートウェイの性能管理は次第に難しくなった。"
+                "x": "게시자 Ammaar Reshi는 Google에서 'Google AI Studio'의 리드 프로덕트&디자인을 맡고 있다. Google의 생성형 AI 'Gemini 4'로 구동했다고 설명했으니, 자사 AI 기술의 성과로 내보인 셈이다."
               },
               {
                 "t": "p",
-                "x": "すでにDatabricksを利用していたUbisoftは、Databricks Unity Gatewayに目を向けた。共通のエンドポイントを通じてAnthropic、OpenAI、さらにDeepSeek、Kimi、GLM、Qwenといったオープンモデルにアクセスでき、開発者は通常、新しいモデルの公開から24–48時間以内にフルアクセスを得られる。"
+                "x": "인용 게시물에서는 비공식 이식 자체뿐 아니라, Google AI 제품 개발에 관여하는 인물이 이를 공개적으로 내보였다는 점을 두고도 의문이 나왔다. 게시물은 이미 지워졌고, 삭제 이유는 알려지지 않았다."
               },
               {
-                "t": "p",
-                "x": "カスタムインストーラーが個人アクセストークンの作成、Unity Gatewayへの接続、コーディングエージェントの設定を自動化する。Ubisoftのアクティブユーザーは3月の約200人から8月には4,000人超へと五か月で20倍に増え、ゲーム制作全体で5,000人の開発者を目標にしている。"
-              },
-              {
-                "t": "p",
-                "x": "利用の拡大に伴い、AI支出は158%増加した。Unity Gatewayは各リクエストの背後にある身元情報を保持しており、UbisoftはそのデータをDatabricks AI/BI Dashboards、カスタムアラート、計画中のチーム単位の予算とチャージバックと組み合わせ、AIコストを追跡・配分している。"
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-002-1080x608.jpg"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ubisoft为4,000+\n开发者配备AI编程智能体",
-          "body": "Ubisoft通过Unity Gateway为4,000+名开发者提供了AI编程智能体。",
-          "mini_headline": "Ubisoft的AI编程智能体",
+          "headline": "Google员工移植塞尔达\n引发争议后删帖",
+          "body": "Google员工称用Gemini 4在iPhone Duo上运行《时之笛》，后删除帖子。",
+          "mini_headline": "Google员工的移植遭批评",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.databricks.com/sites/default/files/2026-11/customer-story-ubisoft-still-image-2x.jpg?v=1793893844"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg"
               },
               {
                 "t": "p",
-                "x": "Ubisoft的AI编程智能体是自下而上发展起来的：各团队试用了Claude Code、GitHub Copilot等工具，Ubisoft则用LiteLLM作为Claude Code流量的网关。随着一项CEO-sponsored（由CEO支持）的计划加速推广，为数千名开发者完成接入以及管理网关性能变得越来越困难。"
+                "x": "Google员工Ammaar Reshi于11月7日在X上发帖称，他利用Gemini 4让《塞尔达传说 时之笛》完整重制版在iPhone Duo上运行。该帖引发争议，目前已被删除。"
               },
               {
                 "t": "p",
-                "x": "已在使用Databricks的Ubisoft转向了Databricks Unity Gateway。它通过统一端点提供对Anthropic、OpenAI以及DeepSeek、Kimi、GLM、Qwen等开放模型的访问，开发者通常能在新模型发布后24–48小时内获得完整访问权限。"
+                "x": "《塞尔达传说 时之笛》是1998年登陆NINTENDO 64的动作RPG。此次完整重制版全面翻新了画面，过场动画实现全程配音，还加入了自由视角操作、跳跃和冲刺等要素，已于11月5日在Nintendo Switch 2上发售。"
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-header-1080x608.jpg"
               },
               {
                 "t": "p",
-                "x": "一个定制安装程序可自动完成个人访问令牌创建、Unity Gateway连接和编程智能体配置。Ubisoft的活跃用户从3月的约200人增长到8月的4,000多人，五个月增长20倍，目标是覆盖整个游戏制作环节的5,000名开发者。"
+                "x": "发帖者是在Google担任“Google AI Studio”产品与设计负责人的Ammaar Reshi。他表示是借助Google的生成式AI“Gemini 4”实现运行的，相当于将其作为运用自家AI技术的成果加以展示。"
               },
               {
                 "t": "p",
-                "x": "随着使用量增长，AI支出增加了158%。Unity Gateway会保留每个请求背后的身份信息，Ubisoft将这些数据与Databricks AI/BI Dashboards、自定义警报以及计划中的团队级预算和成本分摊结合，用于追踪和分配AI成本。"
+                "x": "在引用帖中，不仅非官方移植这一行为本身受到质疑，由参与Google AI产品开发的人士公开展示此事也引发了疑问。帖子虽已删除，但删除原因尚不明确。"
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-002-1080x608.jpg"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ubisoft lleva agentes de AI\na más de 4,000 desarrolladores",
-          "body": "Ubisoft dio agentes de AI a más de 4,000 desarrolladores con Unity Gateway, de Databricks (no Unity Technologies).",
-          "mini_headline": "Agentes de AI de Ubisoft para más de 4,000",
+          "headline": "Empleado de Google borra su port\nde Zelda tras la polémica",
+          "body": "Un empleado de Google publicó que ejecutó Ocarina of Time en un iPhone Duo con Gemini 4 y luego borró el post.",
+          "mini_headline": "Críticas al port de un empleado de Google",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.databricks.com/sites/default/files/2026-11/customer-story-ubisoft-still-image-2x.jpg?v=1793893844"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg"
               },
               {
                 "t": "p",
-                "x": "Los agentes de programación con AI llegaron a Ubisoft desde abajo: los equipos experimentaron con Claude Code, GitHub Copilot y otras herramientas, mientras Ubisoft usaba LiteLLM como gateway para el tráfico de Claude Code. A medida que la adopción se aceleraba con una iniciativa CEO-sponsored (patrocinada por el CEO), incorporar a miles de desarrolladores y gestionar el rendimiento del gateway se volvió cada vez más difícil."
+                "x": "Ammaar Reshi, empleado de Google, publicó en X el 7 de noviembre que había ejecutado en un iPhone Duo el remake completo de The Legend of Zelda: Ocarina of Time utilizando Gemini 4. La publicación generó polémica y actualmente está eliminada."
               },
               {
                 "t": "p",
-                "x": "Como ya usaba Databricks, Ubisoft recurrió a Databricks Unity Gateway. A través de un endpoint común da acceso a Anthropic, OpenAI y modelos abiertos como DeepSeek, Kimi, GLM y Qwen, y los desarrolladores suelen obtener acceso completo a los modelos recién lanzados en un plazo de 24–48 horas."
+                "x": "The Legend of Zelda: Ocarina of Time es un RPG de acción lanzado en 1998 para NINTENDO 64. Este remake completo renueva por completo los gráficos y añade voces a todas las cinemáticas, además de incorporar control libre de cámara, saltos y carreras, entre otros elementos; salió a la venta el 5 de noviembre para Nintendo Switch 2."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-header-1080x608.jpg"
               },
               {
                 "t": "p",
-                "x": "Un instalador personalizado automatiza la creación de tokens de acceso personal, la conexión con Unity Gateway y la configuración de los agentes de programación. Ubisoft pasó de unos 200 usuarios activos en marzo a más de 4,000 en agosto, un aumento de 20 veces en cinco meses, y apunta a 5,000 desarrolladores en toda la producción de juegos."
+                "x": "El autor de la publicación es Ammaar Reshi, responsable de producto y diseño de \"Google AI Studio\" en Google. Explicó que lo hizo funcionar con \"Gemini 4\", la AI generativa de Google, y lo presentó como un logro basado en la tecnología de AI de su propia empresa."
               },
               {
                 "t": "p",
-                "x": "Con el aumento del uso, el gasto en AI creció un 158%. Unity Gateway conserva la identidad detrás de cada solicitud, y Ubisoft combina esos datos con Databricks AI/BI Dashboards, alertas personalizadas y presupuestos por equipo y chargeback previstos para rastrear y asignar los costos de AI."
+                "x": "En las citas de la publicación se cuestionó no solo el acto de realizar un port no oficial, sino también que lo mostrara públicamente alguien que participa en el desarrollo de productos de AI de Google. La publicación ya fue eliminada, pero no se ha aclarado el motivo."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-002-1080x608.jpg"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Ubisoft, AI 코딩\n에이전트 4,000+명에",
-          "body": "Ubisoft는 Unity Gateway로 4,000+명에 AI에이전트를 제공했다.",
-          "mini_headline": "Ubisoft AI 에이전트 4,000+명",
+        "en": {
+          "headline": "Google employee's Zelda port\ndraws controversy; post deleted",
+          "body": "A Google employee posted that he ran Ocarina of Time on an iPhone Duo using Gemini 4, then deleted the post.",
+          "mini_headline": "Google employee's port draws criticism",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.databricks.com/sites/default/files/2026-11/customer-story-ubisoft-still-image-2x.jpg?v=1793893844"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg"
               },
               {
                 "t": "p",
-                "x": "Ubisoft의 AI 코딩 에이전트 도입은 현장에서 먼저 시작됐다. 여러 팀이 Claude Code, GitHub Copilot 등 다양한 도구를 시험했고, Ubisoft는 Claude Code 트래픽의 게이트웨이로 LiteLLM을 썼다. CEO가 후원하는(CEO-sponsored) 이니셔티브로 도입이 빨라지자 수천 명의 개발자를 온보딩하고 게이트웨이 성능을 관리하는 일이 점점 어려워졌다."
+                "x": "Google employee Ammaar Reshi posted on X on November 7 that he had run the full remake of The Legend of Zelda: Ocarina of Time on an iPhone Duo using Gemini 4. The post drew controversy and has since been deleted."
               },
               {
                 "t": "p",
-                "x": "이미 Databricks를 쓰던 Ubisoft는 Databricks Unity Gateway로 눈을 돌렸다. 공통 엔드포인트 하나로 Anthropic, OpenAI와 DeepSeek, Kimi, GLM, Qwen 같은 오픈 모델에 접근할 수 있고, 개발자들은 보통 새 모델이 나온 뒤 24–48시간 안에 전체 접근 권한을 얻는다."
+                "x": "The Legend of Zelda: Ocarina of Time is an action RPG released for the NINTENDO 64 in 1998. The full remake completely overhauls the graphics and fully voices the cutscenes, while adding free camera control, jumping, dashing and more; it was released for Nintendo Switch 2 on November 5."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-header-1080x608.jpg"
               },
               {
                 "t": "p",
-                "x": "맞춤형 설치 프로그램이 개인 액세스 토큰 생성, Unity Gateway 연결, 코딩 에이전트 설정을 자동으로 처리한다. Ubisoft의 활성 사용자는 3월 약 200명에서 8월 4,000명 이상으로 다섯 달 만에 20배 늘었고, 게임 제작 전반에서 개발자 5,000명을 목표로 하고 있다."
+                "x": "The post came from Ammaar Reshi, who serves as lead for product and design on \"Google AI Studio\" at Google. He explained that he had used Google's generative AI \"Gemini 4\" to get it running, presenting the result as an achievement built on the company's own AI technology."
               },
               {
                 "t": "p",
-                "x": "사용량이 늘면서 AI 지출은 158% 증가했다. Unity Gateway는 요청마다 그 뒤의 사용자 신원을 보존하며, Ubisoft는 이 데이터를 Databricks AI/BI Dashboards, 맞춤 알림, 계획 중인 팀 단위 예산·차지백과 결합해 AI 비용을 추적하고 배분한다."
+                "x": "In quote posts, people questioned not only the act of making an unofficial port, but also the fact that someone involved in developing Google's AI products had shown it off publicly. The post has been deleted, but the reason for its removal has not been disclosed."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-002-1080x608.jpg"
               }
             ]
           }
         },
-        "ja": {
-          "headline": "UbisoftがAIを\n開発者4,000+人に展開",
-          "body": "UbisoftはUnity Gatewayで4,000+人にAIエージェントを提供した。",
-          "mini_headline": "UbisoftのAIエージェント",
+        "ko": {
+          "headline": "Google 직원의 젤다\n이식, 논란 끝에 삭제",
+          "body": "Google 직원이 Gemini 4로 iPhone Duo에 젤다 띄운 글을 지웠다.",
+          "mini_headline": "Google 직원의 이식에 비판",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.databricks.com/sites/default/files/2026-11/customer-story-ubisoft-still-image-2x.jpg?v=1793893844"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg"
               },
               {
                 "t": "p",
-                "x": "UbisoftでのAIコーディングエージェントの導入は現場から始まった。各チームがClaude CodeやGitHub Copilotなどのツールを試し、UbisoftはClaude Codeのトラフィック用ゲートウェイとしてLiteLLMを使っていた。CEO主導（CEO-sponsored）の取り組みで導入が加速すると、数千人の開発者のオンボーディングとゲートウェイの性能管理は次第に難しくなった。"
+                "x": "Google 직원 Ammaar Reshi가 11월 7일 『젤다의 전설 시간의 오카리나』 풀 리메이크판을 Gemini 4로 iPhone Duo에서 구동했다고 X에 올렸다. 이 게시물은 논란을 불렀고 현재는 삭제된 상태다."
               },
               {
                 "t": "p",
-                "x": "すでにDatabricksを利用していたUbisoftは、Databricks Unity Gatewayに目を向けた。共通のエンドポイントを通じてAnthropic、OpenAI、さらにDeepSeek、Kimi、GLM、Qwenといったオープンモデルにアクセスでき、開発者は通常、新しいモデルの公開から24–48時間以内にフルアクセスを得られる。"
+                "x": "『젤다의 전설 시간의 오카리나』는 1998년 NINTENDO 64용으로 발매된 액션 RPG다. 이번 풀 리메이크는 그래픽을 전면 쇄신하고 컷신을 풀 보이스로 바꿨으며, 자유로운 카메라 조작과 점프, 대시 등을 도입해 11월 5일 Nintendo Switch 2용으로 발매됐다."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-header-1080x608.jpg"
               },
               {
                 "t": "p",
-                "x": "カスタムインストーラーが個人アクセストークンの作成、Unity Gatewayへの接続、コーディングエージェントの設定を自動化する。Ubisoftのアクティブユーザーは3月の約200人から8月には4,000人超へと五か月で20倍に増え、ゲーム制作全体で5,000人の開発者を目標にしている。"
+                "x": "게시자는 Google에서 'Google AI Studio'의 리드 프로덕트&디자인을 맡고 있는 Ammaar Reshi다. 그는 Google의 생성형 AI 'Gemini 4'로 구동했다고 설명해, 자사 AI 기술을 활용한 성과로 내보인 셈이다."
               },
               {
                 "t": "p",
-                "x": "利用の拡大に伴い、AI支出は158%増加した。Unity Gatewayは各リクエストの背後にある身元情報を保持しており、UbisoftはそのデータをDatabricks AI/BI Dashboards、カスタムアラート、計画中のチーム単位の予算とチャージバックと組み合わせ、AIコストを追跡・配分している。"
+                "x": "인용 게시물에서는 비공식 이식이라는 행위뿐 아니라, 이를 Google AI 제품 개발에 관여하는 인물이 공개적으로 내보였다는 점에도 의문이 제기됐다. 게시물은 이미 삭제됐지만 삭제 이유는 밝혀지지 않았다."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-002-1080x608.jpg"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ubisoft为4,000+\n开发者配备AI编程智能体",
-          "body": "Ubisoft通过Unity Gateway为4,000+名开发者提供了AI编程智能体。",
-          "mini_headline": "Ubisoft的AI编程智能体",
+          "headline": "Google员工移植塞尔达\n引发争议后删帖",
+          "body": "Google员工称用Gemini 4在iPhone Duo上运行《时之笛》，后删除帖子。",
+          "mini_headline": "Google员工的移植遭批评",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.databricks.com/sites/default/files/2026-11/customer-story-ubisoft-still-image-2x.jpg?v=1793893844"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg"
               },
               {
                 "t": "p",
-                "x": "Ubisoft的AI编程智能体是自下而上发展起来的：各团队试用了Claude Code、GitHub Copilot等工具，Ubisoft则用LiteLLM作为Claude Code流量的网关。随着一项CEO-sponsored（由CEO支持）的计划加速推广，为数千名开发者完成接入以及管理网关性能变得越来越困难。"
+                "x": "Google员工Ammaar Reshi于11月7日在X上发帖称，他利用Gemini 4让《塞尔达传说 时之笛》完整重制版在iPhone Duo上运行。该帖引发争议，目前已被删除。"
               },
               {
                 "t": "p",
-                "x": "已在使用Databricks的Ubisoft转向了Databricks Unity Gateway。它通过统一端点提供对Anthropic、OpenAI以及DeepSeek、Kimi、GLM、Qwen等开放模型的访问，开发者通常能在新模型发布后24–48小时内获得完整访问权限。"
+                "x": "《塞尔达传说 时之笛》是1998年登陆NINTENDO 64的动作RPG。此次完整重制版全面翻新了画面，过场动画实现全程配音，还加入了自由视角操作、跳跃和冲刺等要素，已于11月5日在Nintendo Switch 2上发售。"
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-header-1080x608.jpg"
               },
               {
                 "t": "p",
-                "x": "一个定制安装程序可自动完成个人访问令牌创建、Unity Gateway连接和编程智能体配置。Ubisoft的活跃用户从3月的约200人增长到8月的4,000多人，五个月增长20倍，目标是覆盖整个游戏制作环节的5,000名开发者。"
+                "x": "发帖者是在Google担任“Google AI Studio”产品与设计负责人的Ammaar Reshi。他表示是借助Google的生成式AI“Gemini 4”实现运行的，相当于将其作为运用自家AI技术的成果加以展示。"
               },
               {
                 "t": "p",
-                "x": "随着使用量增长，AI支出增加了158%。Unity Gateway会保留每个请求背后的身份信息，Ubisoft将这些数据与Databricks AI/BI Dashboards、自定义警报以及计划中的团队级预算和成本分摊结合，用于追踪和分配AI成本。"
+                "x": "在引用帖中，不仅非官方移植这一行为本身受到质疑，由参与Google AI产品开发的人士公开展示此事也引发了疑问。帖子虽已删除，但删除原因尚不明确。"
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-002-1080x608.jpg"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ubisoft lleva agentes de AI\na más de 4,000 desarrolladores",
-          "body": "Ubisoft dio agentes de AI a más de 4,000 desarrolladores con Unity Gateway, de Databricks (no Unity Technologies).",
-          "mini_headline": "Agentes de AI de Ubisoft para más de 4,000",
+          "headline": "Empleado de Google borra su port\nde Zelda tras la polémica",
+          "body": "Un empleado de Google publicó que ejecutó Ocarina of Time en un iPhone Duo con Gemini 4 y luego borró el post.",
+          "mini_headline": "Críticas al port de un empleado de Google",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.databricks.com/sites/default/files/2026-11/customer-story-ubisoft-still-image-2x.jpg?v=1793893844"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg"
               },
               {
                 "t": "p",
-                "x": "Los agentes de programación con AI llegaron a Ubisoft desde abajo: los equipos experimentaron con Claude Code, GitHub Copilot y otras herramientas, mientras Ubisoft usaba LiteLLM como gateway para el tráfico de Claude Code. A medida que la adopción se aceleraba con una iniciativa CEO-sponsored (patrocinada por el CEO), incorporar a miles de desarrolladores y gestionar el rendimiento del gateway se volvió cada vez más difícil."
+                "x": "Ammaar Reshi, empleado de Google, publicó en X el 7 de noviembre que había ejecutado en un iPhone Duo el remake completo de The Legend of Zelda: Ocarina of Time utilizando Gemini 4. La publicación generó polémica y actualmente está eliminada."
               },
               {
                 "t": "p",
-                "x": "Como ya usaba Databricks, Ubisoft recurrió a Databricks Unity Gateway. A través de un endpoint común da acceso a Anthropic, OpenAI y modelos abiertos como DeepSeek, Kimi, GLM y Qwen, y los desarrolladores suelen obtener acceso completo a los modelos recién lanzados en un plazo de 24–48 horas."
+                "x": "The Legend of Zelda: Ocarina of Time es un RPG de acción lanzado en 1998 para NINTENDO 64. Este remake completo renueva por completo los gráficos y añade voces a todas las cinemáticas, además de incorporar control libre de cámara, saltos y carreras, entre otros elementos; salió a la venta el 5 de noviembre para Nintendo Switch 2."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-header-1080x608.jpg"
               },
               {
                 "t": "p",
-                "x": "Un instalador personalizado automatiza la creación de tokens de acceso personal, la conexión con Unity Gateway y la configuración de los agentes de programación. Ubisoft pasó de unos 200 usuarios activos en marzo a más de 4,000 en agosto, un aumento de 20 veces en cinco meses, y apunta a 5,000 desarrolladores en toda la producción de juegos."
+                "x": "El autor de la publicación es Ammaar Reshi, responsable de producto y diseño de \"Google AI Studio\" en Google. Explicó que lo hizo funcionar con \"Gemini 4\", la AI generativa de Google, y lo presentó como un logro basado en la tecnología de AI de su propia empresa."
               },
               {
                 "t": "p",
-                "x": "Con el aumento del uso, el gasto en AI creció un 158%. Unity Gateway conserva la identidad detrás de cada solicitud, y Ubisoft combina esos datos con Databricks AI/BI Dashboards, alertas personalizadas y presupuestos por equipo y chargeback previstos para rastrear y asignar los costos de AI."
+                "x": "En las citas de la publicación se cuestionó no solo el acto de realizar un port no oficial, sino también que lo mostrara públicamente alguien que participa en el desarrollo de productos de AI de Google. La publicación ya fue eliminada, pero no se ha aclarado el motivo."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-002-1080x608.jpg"
               }
             ]
           }
@@ -1079,249 +1179,219 @@
       }
     },
     {
-      "id": "netmarble-13-titles-ai",
-      "source_lang": "ko",
+      "id": "plamo3-translate-gamer-tools",
+      "source_lang": "ja",
       "eyebrow": "AI NEWS",
-      "headline": "넷마블, 신작 13종\nAI로 개발 가속",
-      "body": "넷마블은 내년 신작 13종 개발에 기획부터 품질 검증까지 AI를 투입한다.",
-      "mini_headline": "넷마블\nAI 개발 가속",
+      "headline": "무료 번역 AI 공개 후\n게이머용 도구 잇따라",
+      "body": "53개 언어 오프라인 번역 AI 기반 게이머용 도구가 며칠 만에 잇따라 나왔다.",
+      "mini_headline": "번역 AI로 만든 게이머용 도구",
       "tool": "Games",
-      "source": "뉴스핌",
-      "url": "https://www.newspim.com/news/view/20261106000585",
+      "source": "Game*Spark",
+      "url": "http://www.gamespark.jp/article/2026/11/09/174651.html",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "신작 출시 지연으로 실적이 악화된 넷마블이 인공지능(AI)을 활용한 개발·운영 체계로 내년 신작 13종 출시에 도전한다. 게임 기획부터 번역과 그래픽 제작, 품질 검증까지 반복 업무를 자동화해 개발 부담을 줄이고 출시 역량을 높이겠다는 전략이다."
+            "t": "img",
+            "src": "https://www.gamespark.jp/imgs/ogp_f/1217054.png"
           },
           {
             "t": "p",
-            "x": "넷마블은 올해 하반기 출시를 예정했던 신작 3종을 모두 내년으로 연기했고, 3분기 영업이익은 전년 동기 대비 44.6% 감소했다. 일부 기술은 아직 개발 단계여서 실제 개발기간과 비용을 얼마나 줄일 수 있을지는 추가로 입증해야 한다."
+            "x": "일본 AI 기업 Preferred Networks(PFN)는 2026년 11월 5일 번역 특화 AI 'PLaMo 3 Translate'를 무료로 쓸 수 있는 오픈 웨이트 모델로 공개했다. 자사 번역 서비스 'PLaMo 번역'에 쓰이는 AI와 같은 모델이며, 인터넷 연결 없이 개인 PC만으로 돌아간다. 자원봉사 번역의 문턱이 크게 낮아질 수 있다. 그동안 DeepL 무료판은 사용 한도 탓에, 수백에서 수천 줄짜리 게임 텍스트를 옮기는 자원봉사 번역에서 작업이 끊기곤 했다."
+          },
+          {
+            "t": "p",
+            "x": "스마트폰에서도 돌아갈 만큼 가볍고, 사용 횟수 제한이 없다. 일본어와 영어를 포함해 53개 언어를 지원하며 개인은 무료로 쓴다. 고유명사 번역어를 정하고 문체를 고르는 용어·문체 지정 기능도 있다."
+          },
+          {
+            "t": "p",
+            "x": "모델 공개 후 며칠 만에 개인 개발자들이 관련 도구를 잇따라 내놓았다. 11월 7일에는 화면 속 영어 텍스트를 그 자리에서 일본어로 바꿔 주는 PC용 상주 앱 'sonoba'가 나왔다. 자막은 약 1초, 짧은 문장은 약 0.2초면 처리한다고 한다. 브라우저 확장 프로그램 'PLaMo_Translate_EX'와 데스크톱 앱 'plamo-translate-desktop'도 등장했다."
           },
           {
             "t": "img",
-            "src": "https://img.newspim.com/news/2026/06/12/2606121620382670.jpg",
-            "cap": "넷마블 구로 신사옥 지타워 전경. [사진=넷마블]"
+            "src": "https://www.gamespark.jp/imgs/zoom/1217054.png",
+            "cap": "plamo-translate-desktop"
           },
           {
             "t": "p",
-            "x": "김병규 넷마블 대표는 5일 3분기 컨퍼런스콜에서 \"넷마블은 개발뿐 아니라 게임 출시와 서비스 과정에서도 AI 네이티브 기반의 업무 환경을 구축하기 위해 노력하고 있다\"며 \"이러한 시스템을 기반으로 한 해에 10종 이상의 게임 출시가 가능하다고 판단했다\"고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "넷마블은 2025년 사내 AI 조직을 AI 전략실로 개편했고, 번역 및 원문 교정 AI 도구 '마블AI'와 AI 아트 생성 플랫폼 'ㅋㅋ아트젠' 등을 도입했다. 영어, 일본어 등 주요 언어는 성우가 녹음하지만 그외 언어들은 녹음에 AI를 활용한다. AI가 게임을 자동으로 플레이하며 밸런스와 재미 요소를 분석하는 기술도 개발 중이다."
-          },
-          {
-            "t": "img",
-            "src": "https://img.newspim.com/news/2026/11/06/2611061207127870.jpg",
-            "cap": "넷마블의 주요 인공지능 프로젝트 [사진= 넷마블]"
-          },
-          {
-            "t": "p",
-            "x": "운영에서는 AI 기반 이상 감지 시스템으로 어뷰징과 비정상 행위에 대응하며, 'RF 온라인 넥스트'와 '뱀피르', 'SOL: enchant(솔: 인챈트)'에 적용됐다. 넷마블 관계자는 \"품질 검증 자동화 에이전트, 보고서 작성 에이전트 등 다양한 AI 에이전트를 연구 개발 중\"이라고 전했다."
+            "x": "현지화 지원 도구 'game-l10n-updater'도 공개됐다. 추가·변경된 텍스트만 번역하고, 번역된 글자가 UI 버튼 밖으로 넘치지 않는지 실제 화면에서 확인해 준다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "넷마블, 신작 13종\nAI로 개발 가속",
-          "body": "넷마블은 내년 신작 13종 개발에 기획부터 품질 검증까지 AI를 투입한다.",
-          "mini_headline": "넷마블\nAI 개발 가속",
+        "ja": {
+          "headline": "無償の翻訳AIから\nゲーマー向けツール続々",
+          "body": "53言語対応のオフライン翻訳AIを使ったゲーマー向けツールが、公開数日で続々登場した。",
+          "mini_headline": "翻訳AIでゲーマー向けツール",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "신작 출시 지연으로 실적이 악화된 넷마블이 인공지능(AI)을 활용한 개발·운영 체계로 내년 신작 13종 출시에 도전한다. 게임 기획부터 번역과 그래픽 제작, 품질 검증까지 반복 업무를 자동화해 개발 부담을 줄이고 출시 역량을 높이겠다는 전략이다."
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/ogp_f/1217054.png"
               },
               {
                 "t": "p",
-                "x": "넷마블은 올해 하반기 출시를 예정했던 신작 3종을 모두 내년으로 연기했고, 3분기 영업이익은 전년 동기 대비 44.6% 감소했다. 일부 기술은 아직 개발 단계여서 실제 개발기간과 비용을 얼마나 줄일 수 있을지는 추가로 입증해야 한다."
+                "x": "日本のAI企業であるPreferred Networks（PFN）は2026年11月5日、翻訳特化AI「PLaMo 3 Translate」を無償で利用できるオープンウェイトモデルとして公開した。同社の翻訳サービス「PLaMo翻訳」で稼働しているAIと同一のもので、インターネット接続を介さず手元のPC環境だけで完結するため、有志翻訳のハードルを大きく下げる可能性がある。DeepLの無料版には利用上限が設けられており、数百行から数千行のゲームテキストを扱う有志翻訳では作業の中断につながっていた。"
+              },
+              {
+                "t": "p",
+                "x": "主な特徴は、スマートフォンでも動作する軽量設計、利用回数の制限なし、日本語や英語を含む53言語に対応、個人利用は無償、そして固有名詞の訳語指定や文体選択ができる用語と文体の指定機能だ。"
+              },
+              {
+                "t": "p",
+                "x": "モデルの公開から数日のうちに、個人開発者らによる関連ツールが次々と公開された。11月7日には画面上の英語テキストをその場で日本語へ置き換えるPC向け常駐アプリ「sonoba」が登場し、字幕表示が約1秒、短文なら約0.2秒で処理できるという。ブラウザ拡張機能「PLaMo_Translate_EX」やデスクトップアプリ「plamo-translate-desktop」も登場した。"
               },
               {
                 "t": "img",
-                "src": "https://img.newspim.com/news/2026/06/12/2606121620382670.jpg",
-                "cap": "넷마블 구로 신사옥 지타워 전경. [사진=넷마블]"
+                "src": "https://www.gamespark.jp/imgs/zoom/1217054.png",
+                "cap": "plamo-translate-desktop"
               },
               {
                 "t": "p",
-                "x": "김병규 넷마블 대표는 5일 3분기 컨퍼런스콜에서 \"넷마블은 개발뿐 아니라 게임 출시와 서비스 과정에서도 AI 네이티브 기반의 업무 환경을 구축하기 위해 노력하고 있다\"며 \"이러한 시스템을 기반으로 한 해에 10종 이상의 게임 출시가 가능하다고 판단했다\"고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "넷마블은 2025년 사내 AI 조직을 AI 전략실로 개편했고, 번역 및 원문 교정 AI 도구 '마블AI'와 AI 아트 생성 플랫폼 'ㅋㅋ아트젠' 등을 도입했다. 영어, 일본어 등 주요 언어는 성우가 녹음하지만 그외 언어들은 녹음에 AI를 활용한다. AI가 게임을 자동으로 플레이하며 밸런스와 재미 요소를 분석하는 기술도 개발 중이다."
-              },
-              {
-                "t": "img",
-                "src": "https://img.newspim.com/news/2026/11/06/2611061207127870.jpg",
-                "cap": "넷마블의 주요 인공지능 프로젝트 [사진= 넷마블]"
-              },
-              {
-                "t": "p",
-                "x": "운영에서는 AI 기반 이상 감지 시스템으로 어뷰징과 비정상 행위에 대응하며, 'RF 온라인 넥스트'와 '뱀피르', 'SOL: enchant(솔: 인챈트)'에 적용됐다. 넷마블 관계자는 \"품질 검증 자동화 에이전트, 보고서 작성 에이전트 등 다양한 AI 에이전트를 연구 개발 중\"이라고 전했다."
+                "x": "さらに、追加・変更されたテキストのみを翻訳し、翻訳後の文字数がUIのボタンから溢れないかを実画面で検証するローカライズ支援ツール「game-l10n-updater」も公開されている。"
               }
             ]
           }
         },
         "en": {
-          "headline": "Netmarble taps AI to speed\ndevelopment of 13 new titles",
-          "body": "Netmarble will use AI from planning to quality assurance in developing 13 new titles next year.",
-          "mini_headline": "Netmarble's AI development push",
+          "headline": "Free translation AI brings\na stream of tools for gamers",
+          "body": "Gamer tools built on an offline translation AI supporting 53 languages appeared within days of its release.",
+          "mini_headline": "Translation AI powers gamer tools",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Netmarble, whose earnings have worsened because of delays to new releases, is attempting to launch 13 new titles next year with a development and operations system built on artificial intelligence (AI). The strategy is to automate repetitive work from game planning to translation, graphics production and quality assurance, easing the development burden and raising its release capacity."
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/ogp_f/1217054.png"
               },
               {
                 "t": "p",
-                "x": "Netmarble postponed all 3 new titles it had planned for the second half of this year to next year, and its Q3 operating profit fell 44.6% year on year. Some of the technologies are still in development, so how much they can actually cut development time and cost has yet to be proven."
+                "x": "Preferred Networks (PFN), a Japanese AI company, released \"PLaMo 3 Translate,\" an AI specialized for translation, as a free-to-use open-weight model on November 5, 2026. It is the same AI that runs the company's translation service \"PLaMo Translation,\" and because it works entirely on a local PC without an internet connection, it could greatly lower the barrier for volunteer translation. The free version of DeepL has usage caps, which had led to interruptions for volunteer translators working with hundreds to thousands of lines of game text."
+              },
+              {
+                "t": "p",
+                "x": "Its main features are a lightweight design that runs even on smartphones, no limit on the number of uses, support for 53 languages including Japanese and English, free personal use, and a terminology and style feature that lets users specify translations for proper nouns and choose a writing style."
+              },
+              {
+                "t": "p",
+                "x": "Within days of the model's release, individual developers published related tools one after another. On November 7, \"sonoba,\" a resident PC app that replaces English text on screen with Japanese on the spot, appeared; it reportedly handles subtitles in about 1 second and short sentences in about 0.2 seconds. A browser extension, \"PLaMo_Translate_EX,\" and a desktop app, \"plamo-translate-desktop,\" have also appeared."
               },
               {
                 "t": "img",
-                "src": "https://img.newspim.com/news/2026/06/12/2606121620382670.jpg",
-                "cap": "Netmarble's new headquarters, G-Tower, in Guro. [Photo=Netmarble]"
+                "src": "https://www.gamespark.jp/imgs/zoom/1217054.png",
+                "cap": "plamo-translate-desktop"
               },
               {
                 "t": "p",
-                "x": "Netmarble CEO Kim Byung-kyu said on the Q3 conference call on the 5th, \"Netmarble is working to build an AI-native work environment not only in development but also in game launches and live service,\" adding, \"Based on such systems, we judged that releasing 10 or more games a year is possible.\""
-              },
-              {
-                "t": "p",
-                "x": "In 2025 Netmarble reorganized its in-house AI organization into an AI Strategy Office and introduced tools such as 'MarbleAI', an AI tool for translation and source-text proofreading, and 'ㅋㅋ아트젠', an AI art generation platform. Major languages such as English and Japanese are recorded by voice actors, while AI is used to record the other languages. It is also developing technology in which AI plays games automatically to analyze balance and fun factors."
-              },
-              {
-                "t": "img",
-                "src": "https://img.newspim.com/news/2026/11/06/2611061207127870.jpg",
-                "cap": "Netmarble's main artificial intelligence projects [Photo=Netmarble]"
-              },
-              {
-                "t": "p",
-                "x": "In operations, an AI-based anomaly detection system handles abuse and abnormal behavior, and has been applied to 'RF Online Next', 'Vampir' and 'SOL: enchant'. A Netmarble official said, \"We are researching and developing a variety of AI agents, including a quality-assurance automation agent and a report-writing agent.\""
+                "x": "A localization support tool, \"game-l10n-updater,\" has also been released; it translates only added or changed text and checks on the actual screen whether the translated text overflows UI buttons."
               }
             ]
           }
         },
-        "ja": {
-          "headline": "Netmarble新作13本\nAIで開発を加速",
-          "body": "Netmarbleは来年の新作13本の開発に、企画から品質検証までAIを投入する。",
-          "mini_headline": "NetmarbleのAI開発加速",
+        "ko": {
+          "headline": "무료 번역 AI 공개 후\n게이머용 도구 잇따라",
+          "body": "53개 언어 오프라인 번역 AI 기반 게이머용 도구가 며칠 만에 잇따라 나왔다.",
+          "mini_headline": "번역 AI로 만든 게이머용 도구",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "新作の発売延期で業績が悪化したNetmarbleが、人工知能（AI）を活用した開発・運営体制で来年の新作13本の発売に挑む。ゲームの企画から翻訳、グラフィック制作、品質検証まで反復作業を自動化し、開発負担を減らして発売能力を高める戦略だ。"
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/ogp_f/1217054.png"
               },
               {
                 "t": "p",
-                "x": "Netmarbleは今年下半期に発売予定だった新作3本をすべて来年に延期し、第3四半期の営業利益は前年同期比44.6%減少した。一部の技術はまだ開発段階にあり、実際の開発期間と費用をどこまで削減できるかは、さらに実証が必要だ。"
+                "x": "일본 AI 기업 Preferred Networks(PFN)는 2026년 11월 5일 번역 특화 AI 'PLaMo 3 Translate'를 무료로 쓸 수 있는 오픈 웨이트 모델로 공개했다. 자사 번역 서비스 'PLaMo 번역'에 쓰이는 AI와 같은 모델이며, 인터넷 연결 없이 개인 PC만으로 돌아간다. 자원봉사 번역의 문턱이 크게 낮아질 수 있다. 그동안 DeepL 무료판은 사용 한도 탓에, 수백에서 수천 줄짜리 게임 텍스트를 옮기는 자원봉사 번역에서 작업이 끊기곤 했다."
+              },
+              {
+                "t": "p",
+                "x": "스마트폰에서도 돌아갈 만큼 가볍고, 사용 횟수 제한이 없다. 일본어와 영어를 포함해 53개 언어를 지원하며 개인은 무료로 쓴다. 고유명사 번역어를 정하고 문체를 고르는 용어·문체 지정 기능도 있다."
+              },
+              {
+                "t": "p",
+                "x": "모델 공개 후 며칠 만에 개인 개발자들이 관련 도구를 잇따라 내놓았다. 11월 7일에는 화면 속 영어 텍스트를 그 자리에서 일본어로 바꿔 주는 PC용 상주 앱 'sonoba'가 나왔다. 자막은 약 1초, 짧은 문장은 약 0.2초면 처리한다고 한다. 브라우저 확장 프로그램 'PLaMo_Translate_EX'와 데스크톱 앱 'plamo-translate-desktop'도 등장했다."
               },
               {
                 "t": "img",
-                "src": "https://img.newspim.com/news/2026/06/12/2606121620382670.jpg",
-                "cap": "Netmarbleの九老の新社屋ジータワーの全景。［写真=Netmarble］"
+                "src": "https://www.gamespark.jp/imgs/zoom/1217054.png",
+                "cap": "plamo-translate-desktop"
               },
               {
                 "t": "p",
-                "x": "Netmarbleのキム・ビョンギュ代表は5日の第3四半期カンファレンスコールで「Netmarbleは開発だけでなく、ゲームの発売とサービスの過程でもAIネイティブを基盤とした業務環境の構築に努めている」と述べ、「こうしたシステムを基盤に、年間10本以上のゲーム発売が可能だと判断した」と明らかにした。"
-              },
-              {
-                "t": "p",
-                "x": "Netmarbleは2025年に社内のAI組織をAI戦略室に改編し、翻訳・原文校正AIツール「MarbleAI」やAIアート生成プラットフォーム「ㅋㅋ아트젠」などを導入した。英語や日本語などの主要言語は声優が収録するが、それ以外の言語は収録にAIを活用している。AIがゲームを自動でプレイし、バランスや面白さの要素を分析する技術も開発中だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.newspim.com/news/2026/11/06/2611061207127870.jpg",
-                "cap": "Netmarbleの主な人工知能プロジェクト［写真=Netmarble］"
-              },
-              {
-                "t": "p",
-                "x": "運営面ではAIベースの異常検知システムで不正利用や異常行為に対応しており、『RF Online Next』『Vampir』『SOL: enchant（ソル：インチャント）』に適用された。Netmarbleの関係者は「品質検証の自動化エージェント、レポート作成エージェントなど、さまざまなAIエージェントを研究開発中だ」と伝えた。"
+                "x": "현지화 지원 도구 'game-l10n-updater'도 공개됐다. 추가·변경된 텍스트만 번역하고, 번역된 글자가 UI 버튼 밖으로 넘치지 않는지 실제 화면에서 확인해 준다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Netmarble新作13款\n借AI加速开发",
-          "body": "Netmarble明年开发13款新作时，将从策划到质量验证全面投入AI。",
-          "mini_headline": "Netmarble的AI开发提速",
+          "headline": "免费翻译AI问世\n玩家工具接连涌现",
+          "body": "基于支持53种语言的离线翻译AI，面向玩家的工具在公开数日内接连出现。",
+          "mini_headline": "翻译AI催生玩家工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "因新作发售延期而业绩恶化的Netmarble，将以运用人工智能（AI）的开发与运营体系，挑战明年推出13款新作。其战略是将从游戏策划到翻译、美术制作、质量验证的重复性工作自动化，以减轻开发负担、提升发售能力。"
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/ogp_f/1217054.png"
               },
               {
                 "t": "p",
-                "x": "Netmarble已将原定今年下半年推出的3款新作全部推迟至明年，第3季度营业利润同比下降44.6%。部分技术仍处于开发阶段，实际能缩短多少开发周期和成本仍有待进一步验证。"
+                "x": "日本AI企业Preferred Networks（PFN）于2026年11月5日将翻译专用AI“PLaMo 3 Translate”作为可免费使用的开放权重模型发布。它与该公司翻译服务“PLaMo翻译”所用的AI相同，无需联网、仅靠本地PC即可完成，有望大幅降低志愿翻译的门槛。DeepL免费版设有使用上限，在处理数百至数千行游戏文本的志愿翻译中常导致工作中断。"
+              },
+              {
+                "t": "p",
+                "x": "其主要特点包括：可在智能手机上运行的轻量设计、不限使用次数、支持包括日语和英语在内的53种语言、个人使用免费，以及可指定专有名词译法和选择文体的术语与文体指定功能。"
+              },
+              {
+                "t": "p",
+                "x": "模型发布后数日内，个人开发者陆续推出了相关工具。11月7日，可将屏幕上的英文文本当场替换为日文的PC常驻应用“sonoba”上线，据称字幕显示约1秒、短句约0.2秒即可处理完成。浏览器扩展“PLaMo_Translate_EX”和桌面应用“plamo-translate-desktop”也相继登场。"
               },
               {
                 "t": "img",
-                "src": "https://img.newspim.com/news/2026/06/12/2606121620382670.jpg",
-                "cap": "Netmarble位于九老的新总部G-Tower全景。[图=Netmarble]"
+                "src": "https://www.gamespark.jp/imgs/zoom/1217054.png",
+                "cap": "plamo-translate-desktop"
               },
               {
                 "t": "p",
-                "x": "Netmarble代表金秉圭5日在第3季度电话会议上表示：“Netmarble不仅在开发上，在游戏发售和服务过程中也在努力构建以AI原生为基础的工作环境。”他还说：“基于这样的系统，我们判断一年推出10款以上游戏是可行的。”"
-              },
-              {
-                "t": "p",
-                "x": "Netmarble于2025年将内部AI组织改组为AI战略室，并引入了翻译及原文校对AI工具“MarbleAI”和AI美术生成平台“ㅋㅋ아트젠”等。英语、日语等主要语言由配音演员录制，其他语言则借助AI录制。让AI自动游玩游戏、分析平衡性与趣味要素的技术也在开发中。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.newspim.com/news/2026/11/06/2611061207127870.jpg",
-                "cap": "Netmarble的主要人工智能项目 [图=Netmarble]"
-              },
-              {
-                "t": "p",
-                "x": "运营方面，Netmarble以基于AI的异常检测系统应对滥用和异常行为，已应用于《RF Online Next》《Vampir》《SOL: enchant》。Netmarble相关人士表示：“正在研发质量验证自动化智能体、报告撰写智能体等多种AI智能体。”"
+                "x": "此外，本地化辅助工具“game-l10n-updater”也已公开，它只翻译新增或修改的文本，并在实际画面中检验译文字数是否会超出UI按钮。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Netmarble acelera con AI\nel desarrollo de 13 juegos",
-          "body": "Netmarble usará AI desde la planificación hasta el control de calidad en sus 13 nuevos juegos del próximo año.",
-          "mini_headline": "Netmarble acelera con AI",
+          "headline": "Una AI de traducción gratuita\ntrae nuevas apps para jugadores",
+          "body": "En pocos días surgieron herramientas para jugadores basadas en una AI de traducción sin conexión con 53 idiomas.",
+          "mini_headline": "Herramientas para jugadores con AI de traducción",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Netmarble, cuyos resultados empeoraron por los retrasos en sus lanzamientos, intentará lanzar 13 juegos nuevos el próximo año con un sistema de desarrollo y operación basado en inteligencia artificial (AI). La estrategia consiste en automatizar tareas repetitivas, desde la planificación del juego hasta la traducción, la producción gráfica y el control de calidad, para reducir la carga de desarrollo y aumentar su capacidad de lanzamiento."
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/ogp_f/1217054.png"
               },
               {
                 "t": "p",
-                "x": "Netmarble aplazó al próximo año los 3 juegos nuevos que tenía previstos para la segunda mitad de este año, y su beneficio operativo del tercer trimestre cayó un 44.6% interanual. Algunas tecnologías aún están en desarrollo, por lo que todavía debe demostrarse cuánto pueden reducir realmente los plazos y costos de desarrollo."
+                "x": "La empresa japonesa de AI Preferred Networks (PFN) publicó el 5 de noviembre de 2026 \"PLaMo 3 Translate\", una AI especializada en traducción, como modelo de pesos abiertos de uso gratuito. Es la misma AI que funciona en el servicio de traducción de la compañía, \"PLaMo Translation\", y como opera por completo en el PC local sin conexión a internet, podría reducir mucho la barrera para la traducción voluntaria. La versión gratuita de DeepL tiene límites de uso, lo que provocaba interrupciones en las traducciones voluntarias que manejan de cientos a miles de líneas de texto de juegos."
+              },
+              {
+                "t": "p",
+                "x": "Sus principales características son un diseño ligero que funciona incluso en smartphones, sin límite de usos, compatibilidad con 53 idiomas, entre ellos el japonés y el inglés, uso personal gratuito y una función de terminología y estilo que permite fijar la traducción de nombres propios y elegir el registro."
+              },
+              {
+                "t": "p",
+                "x": "A los pocos días de la publicación del modelo, desarrolladores independientes lanzaron herramientas relacionadas una tras otra. El 7 de noviembre apareció \"sonoba\", una app residente para PC que sustituye en el momento el texto en inglés de la pantalla por japonés; según se indica, procesa los subtítulos en aproximadamente 1 segundo y las frases cortas en unos 0.2 segundos. También aparecieron la extensión de navegador \"PLaMo_Translate_EX\" y la app de escritorio \"plamo-translate-desktop\"."
               },
               {
                 "t": "img",
-                "src": "https://img.newspim.com/news/2026/06/12/2606121620382670.jpg",
-                "cap": "Vista de G-Tower, la nueva sede de Netmarble en Guro. [Foto=Netmarble]"
+                "src": "https://www.gamespark.jp/imgs/zoom/1217054.png",
+                "cap": "plamo-translate-desktop"
               },
               {
                 "t": "p",
-                "x": "Kim Byung-kyu, CEO de Netmarble, afirmó el día 5 en la conferencia telefónica del tercer trimestre: \"Netmarble se esfuerza por crear un entorno de trabajo nativo de AI no solo en el desarrollo, sino también en el lanzamiento y el servicio de los juegos\". Y añadió: \"Con base en estos sistemas, consideramos que es posible lanzar 10 o más juegos al año\"."
-              },
-              {
-                "t": "p",
-                "x": "En 2025, Netmarble reorganizó su equipo interno de AI como Oficina de Estrategia de AI e incorporó herramientas como 'MarbleAI', una herramienta de AI de traducción y corrección de textos originales, y 'ㅋㅋ아트젠', una plataforma de generación de arte con AI. Los idiomas principales, como el inglés y el japonés, los graban actores de voz, pero para los demás idiomas se usa AI en la grabación. También desarrolla una tecnología en la que la AI juega automáticamente para analizar el equilibrio y los elementos de diversión."
-              },
-              {
-                "t": "img",
-                "src": "https://img.newspim.com/news/2026/11/06/2611061207127870.jpg",
-                "cap": "Principales proyectos de inteligencia artificial de Netmarble [Foto=Netmarble]"
-              },
-              {
-                "t": "p",
-                "x": "En la operación, responde al abuso y a los comportamientos anómalos con un sistema de detección de anomalías basado en AI, que se ha aplicado a 'RF Online Next', 'Vampir' y 'SOL: enchant'. Un representante de Netmarble señaló: \"Estamos investigando y desarrollando diversos agentes de AI, como un agente de automatización del control de calidad y un agente de redacción de informes\"."
+                "x": "Además, se publicó \"game-l10n-updater\", una herramienta de apoyo a la localización que traduce solo el texto añadido o modificado y verifica en la pantalla real si el texto traducido desborda los botones de la UI."
               }
             ]
           }
@@ -1329,161 +1399,141 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "Netmarble taps AI to speed\ndevelopment of 13 new titles",
-          "body": "Netmarble will use AI from planning to quality assurance in developing 13 new titles next year.",
-          "mini_headline": "Netmarble's AI development push",
+          "headline": "Free translation AI brings\na stream of tools for gamers",
+          "body": "Gamer tools built on an offline translation AI supporting 53 languages appeared within days of its release.",
+          "mini_headline": "Translation AI powers gamer tools",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Netmarble, whose earnings have worsened because of delays to new releases, is attempting to launch 13 new titles next year with a development and operations system built on artificial intelligence (AI). The strategy is to automate repetitive work from game planning to translation, graphics production and quality assurance, easing the development burden and raising its release capacity."
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/ogp_f/1217054.png"
               },
               {
                 "t": "p",
-                "x": "Netmarble postponed all 3 new titles it had planned for the second half of this year to next year, and its Q3 operating profit fell 44.6% year on year. Some of the technologies are still in development, so how much they can actually cut development time and cost has yet to be proven."
+                "x": "Preferred Networks (PFN), a Japanese AI company, released \"PLaMo 3 Translate,\" an AI specialized for translation, as a free-to-use open-weight model on November 5, 2026. It is the same AI that runs the company's translation service \"PLaMo Translation,\" and because it works entirely on a local PC without an internet connection, it could greatly lower the barrier for volunteer translation. The free version of DeepL has usage caps, which had led to interruptions for volunteer translators working with hundreds to thousands of lines of game text."
+              },
+              {
+                "t": "p",
+                "x": "Its main features are a lightweight design that runs even on smartphones, no limit on the number of uses, support for 53 languages including Japanese and English, free personal use, and a terminology and style feature that lets users specify translations for proper nouns and choose a writing style."
+              },
+              {
+                "t": "p",
+                "x": "Within days of the model's release, individual developers published related tools one after another. On November 7, \"sonoba,\" a resident PC app that replaces English text on screen with Japanese on the spot, appeared; it reportedly handles subtitles in about 1 second and short sentences in about 0.2 seconds. A browser extension, \"PLaMo_Translate_EX,\" and a desktop app, \"plamo-translate-desktop,\" have also appeared."
               },
               {
                 "t": "img",
-                "src": "https://img.newspim.com/news/2026/06/12/2606121620382670.jpg",
-                "cap": "Netmarble's new headquarters, G-Tower, in Guro. [Photo=Netmarble]"
+                "src": "https://www.gamespark.jp/imgs/zoom/1217054.png",
+                "cap": "plamo-translate-desktop"
               },
               {
                 "t": "p",
-                "x": "Netmarble CEO Kim Byung-kyu said on the Q3 conference call on the 5th, \"Netmarble is working to build an AI-native work environment not only in development but also in game launches and live service,\" adding, \"Based on such systems, we judged that releasing 10 or more games a year is possible.\""
-              },
-              {
-                "t": "p",
-                "x": "In 2025 Netmarble reorganized its in-house AI organization into an AI Strategy Office and introduced tools such as 'MarbleAI', an AI tool for translation and source-text proofreading, and 'ㅋㅋ아트젠', an AI art generation platform. Major languages such as English and Japanese are recorded by voice actors, while AI is used to record the other languages. It is also developing technology in which AI plays games automatically to analyze balance and fun factors."
-              },
-              {
-                "t": "img",
-                "src": "https://img.newspim.com/news/2026/11/06/2611061207127870.jpg",
-                "cap": "Netmarble's main artificial intelligence projects [Photo=Netmarble]"
-              },
-              {
-                "t": "p",
-                "x": "In operations, an AI-based anomaly detection system handles abuse and abnormal behavior, and has been applied to 'RF Online Next', 'Vampir' and 'SOL: enchant'. A Netmarble official said, \"We are researching and developing a variety of AI agents, including a quality-assurance automation agent and a report-writing agent.\""
+                "x": "A localization support tool, \"game-l10n-updater,\" has also been released; it translates only added or changed text and checks on the actual screen whether the translated text overflows UI buttons."
               }
             ]
           }
         },
-        "ja": {
-          "headline": "Netmarble新作13本\nAIで開発を加速",
-          "body": "Netmarbleは来年の新作13本の開発に、企画から品質検証までAIを投入する。",
-          "mini_headline": "NetmarbleのAI開発加速",
+        "ko": {
+          "headline": "무료 번역 AI 공개 후\n게이머용 도구 잇따라",
+          "body": "53개 언어 오프라인 번역 AI 기반 게이머용 도구가 며칠 만에 잇따라 나왔다.",
+          "mini_headline": "번역 AI로 만든 게이머용 도구",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "新作の発売延期で業績が悪化したNetmarbleが、人工知能（AI）を活用した開発・運営体制で来年の新作13本の発売に挑む。ゲームの企画から翻訳、グラフィック制作、品質検証まで反復作業を自動化し、開発負担を減らして発売能力を高める戦略だ。"
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/ogp_f/1217054.png"
               },
               {
                 "t": "p",
-                "x": "Netmarbleは今年下半期に発売予定だった新作3本をすべて来年に延期し、第3四半期の営業利益は前年同期比44.6%減少した。一部の技術はまだ開発段階にあり、実際の開発期間と費用をどこまで削減できるかは、さらに実証が必要だ。"
+                "x": "일본 AI 기업 Preferred Networks(PFN)는 2026년 11월 5일 번역 특화 AI 'PLaMo 3 Translate'를 무료로 쓸 수 있는 오픈 웨이트 모델로 공개했다. 자사 번역 서비스 'PLaMo 번역'에서 돌아가는 AI와 같은 모델로, 인터넷 연결 없이 개인 PC 환경만으로 작동해 자원봉사 번역의 문턱을 크게 낮출 수 있다. DeepL 무료판에는 사용 한도가 있어, 수백에서 수천 줄의 게임 텍스트를 다루는 자원봉사 번역에서는 작업 중단으로 이어지곤 했다."
+              },
+              {
+                "t": "p",
+                "x": "주요 특징은 스마트폰에서도 돌아가는 경량 설계, 사용 횟수 제한 없음, 일본어와 영어를 포함한 53개 언어 지원, 개인 무료 사용, 그리고 고유명사 번역어 지정과 문체 선택이 가능한 용어·문체 지정 기능이다."
+              },
+              {
+                "t": "p",
+                "x": "모델 공개 후 며칠 만에 개인 개발자들이 관련 도구를 잇따라 내놓았다. 11월 7일에는 화면 속 영어 텍스트를 그 자리에서 일본어로 바꿔 주는 PC용 상주 앱 'sonoba'가 나왔는데, 자막은 약 1초, 짧은 문장은 약 0.2초면 처리할 수 있다고 한다. 브라우저 확장 프로그램 'PLaMo_Translate_EX'와 데스크톱 앱 'plamo-translate-desktop'도 등장했다."
               },
               {
                 "t": "img",
-                "src": "https://img.newspim.com/news/2026/06/12/2606121620382670.jpg",
-                "cap": "Netmarbleの九老の新社屋ジータワーの全景。［写真=Netmarble］"
+                "src": "https://www.gamespark.jp/imgs/zoom/1217054.png",
+                "cap": "plamo-translate-desktop"
               },
               {
                 "t": "p",
-                "x": "Netmarbleのキム・ビョンギュ代表は5日の第3四半期カンファレンスコールで「Netmarbleは開発だけでなく、ゲームの発売とサービスの過程でもAIネイティブを基盤とした業務環境の構築に努めている」と述べ、「こうしたシステムを基盤に、年間10本以上のゲーム発売が可能だと判断した」と明らかにした。"
-              },
-              {
-                "t": "p",
-                "x": "Netmarbleは2025年に社内のAI組織をAI戦略室に改編し、翻訳・原文校正AIツール「MarbleAI」やAIアート生成プラットフォーム「ㅋㅋ아트젠」などを導入した。英語や日本語などの主要言語は声優が収録するが、それ以外の言語は収録にAIを活用している。AIがゲームを自動でプレイし、バランスや面白さの要素を分析する技術も開発中だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.newspim.com/news/2026/11/06/2611061207127870.jpg",
-                "cap": "Netmarbleの主な人工知能プロジェクト［写真=Netmarble］"
-              },
-              {
-                "t": "p",
-                "x": "運営面ではAIベースの異常検知システムで不正利用や異常行為に対応しており、『RF Online Next』『Vampir』『SOL: enchant（ソル：インチャント）』に適用された。Netmarbleの関係者は「品質検証の自動化エージェント、レポート作成エージェントなど、さまざまなAIエージェントを研究開発中だ」と伝えた。"
+                "x": "추가·변경된 텍스트만 번역하고, 번역 후 글자 수가 UI 버튼 밖으로 넘치지 않는지 실제 화면에서 검증하는 현지화 지원 도구 'game-l10n-updater'도 공개됐다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Netmarble新作13款\n借AI加速开发",
-          "body": "Netmarble明年开发13款新作时，将从策划到质量验证全面投入AI。",
-          "mini_headline": "Netmarble的AI开发提速",
+          "headline": "免费翻译AI问世\n玩家工具接连涌现",
+          "body": "基于支持53种语言的离线翻译AI，面向玩家的工具在公开数日内接连出现。",
+          "mini_headline": "翻译AI催生玩家工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "因新作发售延期而业绩恶化的Netmarble，将以运用人工智能（AI）的开发与运营体系，挑战明年推出13款新作。其战略是将从游戏策划到翻译、美术制作、质量验证的重复性工作自动化，以减轻开发负担、提升发售能力。"
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/ogp_f/1217054.png"
               },
               {
                 "t": "p",
-                "x": "Netmarble已将原定今年下半年推出的3款新作全部推迟至明年，第3季度营业利润同比下降44.6%。部分技术仍处于开发阶段，实际能缩短多少开发周期和成本仍有待进一步验证。"
+                "x": "日本AI企业Preferred Networks（PFN）于2026年11月5日将翻译专用AI“PLaMo 3 Translate”作为可免费使用的开放权重模型发布。它与该公司翻译服务“PLaMo翻译”所用的AI相同，无需联网、仅靠本地PC即可完成，有望大幅降低志愿翻译的门槛。DeepL免费版设有使用上限，在处理数百至数千行游戏文本的志愿翻译中常导致工作中断。"
+              },
+              {
+                "t": "p",
+                "x": "其主要特点包括：可在智能手机上运行的轻量设计、不限使用次数、支持包括日语和英语在内的53种语言、个人使用免费，以及可指定专有名词译法和选择文体的术语与文体指定功能。"
+              },
+              {
+                "t": "p",
+                "x": "模型发布后数日内，个人开发者陆续推出了相关工具。11月7日，可将屏幕上的英文文本当场替换为日文的PC常驻应用“sonoba”上线，据称字幕显示约1秒、短句约0.2秒即可处理完成。浏览器扩展“PLaMo_Translate_EX”和桌面应用“plamo-translate-desktop”也相继登场。"
               },
               {
                 "t": "img",
-                "src": "https://img.newspim.com/news/2026/06/12/2606121620382670.jpg",
-                "cap": "Netmarble位于九老的新总部G-Tower全景。[图=Netmarble]"
+                "src": "https://www.gamespark.jp/imgs/zoom/1217054.png",
+                "cap": "plamo-translate-desktop"
               },
               {
                 "t": "p",
-                "x": "Netmarble代表金秉圭5日在第3季度电话会议上表示：“Netmarble不仅在开发上，在游戏发售和服务过程中也在努力构建以AI原生为基础的工作环境。”他还说：“基于这样的系统，我们判断一年推出10款以上游戏是可行的。”"
-              },
-              {
-                "t": "p",
-                "x": "Netmarble于2025年将内部AI组织改组为AI战略室，并引入了翻译及原文校对AI工具“MarbleAI”和AI美术生成平台“ㅋㅋ아트젠”等。英语、日语等主要语言由配音演员录制，其他语言则借助AI录制。让AI自动游玩游戏、分析平衡性与趣味要素的技术也在开发中。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.newspim.com/news/2026/11/06/2611061207127870.jpg",
-                "cap": "Netmarble的主要人工智能项目 [图=Netmarble]"
-              },
-              {
-                "t": "p",
-                "x": "运营方面，Netmarble以基于AI的异常检测系统应对滥用和异常行为，已应用于《RF Online Next》《Vampir》《SOL: enchant》。Netmarble相关人士表示：“正在研发质量验证自动化智能体、报告撰写智能体等多种AI智能体。”"
+                "x": "此外，本地化辅助工具“game-l10n-updater”也已公开，它只翻译新增或修改的文本，并在实际画面中检验译文字数是否会超出UI按钮。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Netmarble acelera con AI\nel desarrollo de 13 juegos",
-          "body": "Netmarble usará AI desde la planificación hasta el control de calidad en sus 13 nuevos juegos del próximo año.",
-          "mini_headline": "Netmarble acelera con AI",
+          "headline": "Una AI de traducción gratuita\ntrae nuevas apps para jugadores",
+          "body": "En pocos días surgieron herramientas para jugadores basadas en una AI de traducción sin conexión con 53 idiomas.",
+          "mini_headline": "Herramientas para jugadores con AI de traducción",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Netmarble, cuyos resultados empeoraron por los retrasos en sus lanzamientos, intentará lanzar 13 juegos nuevos el próximo año con un sistema de desarrollo y operación basado en inteligencia artificial (AI). La estrategia consiste en automatizar tareas repetitivas, desde la planificación del juego hasta la traducción, la producción gráfica y el control de calidad, para reducir la carga de desarrollo y aumentar su capacidad de lanzamiento."
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/ogp_f/1217054.png"
               },
               {
                 "t": "p",
-                "x": "Netmarble aplazó al próximo año los 3 juegos nuevos que tenía previstos para la segunda mitad de este año, y su beneficio operativo del tercer trimestre cayó un 44.6% interanual. Algunas tecnologías aún están en desarrollo, por lo que todavía debe demostrarse cuánto pueden reducir realmente los plazos y costos de desarrollo."
+                "x": "La empresa japonesa de AI Preferred Networks (PFN) publicó el 5 de noviembre de 2026 \"PLaMo 3 Translate\", una AI especializada en traducción, como modelo de pesos abiertos de uso gratuito. Es la misma AI que funciona en el servicio de traducción de la compañía, \"PLaMo Translation\", y como opera por completo en el PC local sin conexión a internet, podría reducir mucho la barrera para la traducción voluntaria. La versión gratuita de DeepL tiene límites de uso, lo que provocaba interrupciones en las traducciones voluntarias que manejan de cientos a miles de líneas de texto de juegos."
+              },
+              {
+                "t": "p",
+                "x": "Sus principales características son un diseño ligero que funciona incluso en smartphones, sin límite de usos, compatibilidad con 53 idiomas, entre ellos el japonés y el inglés, uso personal gratuito y una función de terminología y estilo que permite fijar la traducción de nombres propios y elegir el registro."
+              },
+              {
+                "t": "p",
+                "x": "A los pocos días de la publicación del modelo, desarrolladores independientes lanzaron herramientas relacionadas una tras otra. El 7 de noviembre apareció \"sonoba\", una app residente para PC que sustituye en el momento el texto en inglés de la pantalla por japonés; según se indica, procesa los subtítulos en aproximadamente 1 segundo y las frases cortas en unos 0.2 segundos. También aparecieron la extensión de navegador \"PLaMo_Translate_EX\" y la app de escritorio \"plamo-translate-desktop\"."
               },
               {
                 "t": "img",
-                "src": "https://img.newspim.com/news/2026/06/12/2606121620382670.jpg",
-                "cap": "Vista de G-Tower, la nueva sede de Netmarble en Guro. [Foto=Netmarble]"
+                "src": "https://www.gamespark.jp/imgs/zoom/1217054.png",
+                "cap": "plamo-translate-desktop"
               },
               {
                 "t": "p",
-                "x": "Kim Byung-kyu, CEO de Netmarble, afirmó el día 5 en la conferencia telefónica del tercer trimestre: \"Netmarble se esfuerza por crear un entorno de trabajo nativo de AI no solo en el desarrollo, sino también en el lanzamiento y el servicio de los juegos\". Y añadió: \"Con base en estos sistemas, consideramos que es posible lanzar 10 o más juegos al año\"."
-              },
-              {
-                "t": "p",
-                "x": "En 2025, Netmarble reorganizó su equipo interno de AI como Oficina de Estrategia de AI e incorporó herramientas como 'MarbleAI', una herramienta de AI de traducción y corrección de textos originales, y 'ㅋㅋ아트젠', una plataforma de generación de arte con AI. Los idiomas principales, como el inglés y el japonés, los graban actores de voz, pero para los demás idiomas se usa AI en la grabación. También desarrolla una tecnología en la que la AI juega automáticamente para analizar el equilibrio y los elementos de diversión."
-              },
-              {
-                "t": "img",
-                "src": "https://img.newspim.com/news/2026/11/06/2611061207127870.jpg",
-                "cap": "Principales proyectos de inteligencia artificial de Netmarble [Foto=Netmarble]"
-              },
-              {
-                "t": "p",
-                "x": "En la operación, responde al abuso y a los comportamientos anómalos con un sistema de detección de anomalías basado en AI, que se ha aplicado a 'RF Online Next', 'Vampir' y 'SOL: enchant'. Un representante de Netmarble señaló: \"Estamos investigando y desarrollando diversos agentes de AI, como un agente de automatización del control de calidad y un agente de redacción de informes\"."
+                "x": "Además, se publicó \"game-l10n-updater\", una herramienta de apoyo a la localización que traduce solo el texto añadido o modificado y verifica en la pantalla real si el texto traducido desborda los botones de la UI."
               }
             ]
           }
@@ -1491,15 +1541,15 @@
       }
     },
     {
-      "id": "kenney-sweeney-genai-clash",
+      "id": "jackbox-human-made-pledge",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Kenney·Sweeney\n생성형 AI 놓고 충돌",
-      "body": "AI 압박에 맞서자는 Kenney 글을 Sweeney가 X에서 '헛소리'라 했다.",
-      "mini_headline": "Kenney vs. Sweeney 생성형 AI 논쟁",
+      "headline": "Jackbox의 글·그림은\n사람이 만든다",
+      "body": "Jackbox CEO Mike Bilder는 창작은 사람 몫, AI는 도구라 했다.",
+      "mini_headline": "Jackbox는 사람이 만든다",
       "tool": "Games",
       "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/software/ai/the-ai-posting-war-is-heating-up-please-leave-me-behind-says-artist-who-got-into-it-with-epic-ceo-tim-sweeney-on-x/",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1507,233 +1557,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg"
+            "src": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo.png"
           },
           {
             "t": "p",
-            "x": "무료 게임 에셋 수천 개를 나눠 주기로 유명한 아티스트 Kenney가 생성형 AI를 쓰라는 압박에 굴하지 말라고 동료 아티스트들을 독려했다. 몇 시간 뒤 Epic Games CEO Tim Sweeney가 답글을 달았다. \"헛소리다, Kenney.\" Elon Musk도 끼어들어 Sweeney를 거들었다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/dN5L7H63LSbvE6whFiWNgP-772-80.png",
-            "cap": "(이미지 출처: Kenney/Tim Sweeney)"
+            "x": "최근 이곳 시카고의 Jackbox Games HQ를 찾아 개발자, 스튜디오 경영진과 작업 방식, 회사의 역사, 업계 내 위치를 두고 이야기를 나눴다. 요즘 같은 때 이런 자리에서 AI를 묻는 건 거의 계약상 의무다. CEO Mike Bilder의 답은 이랬다."
           },
           {
             "t": "p",
-            "x": "Kenney는 PC Gamer에 \"AI에 어느 정도 이점은 있다고 보지만 문제가 너무 많아서 지금 상태로 쓰는 것은 비윤리적이라고 생각한다\"고 했다. 반면 Sweeney는 \"업계 전체에 기술을 제공하는 입장에서, 그 긍정적인 면을 알리는 것이 Epic의 일이자 내 일이라고 본다\"고 말했다."
+            "x": "\"이 제품을 만드는 건 사람입니다. 코미디도, 글도, 아트도 모두 사람이 만들고, 우리는 이를 바꿀 생각이 없습니다. 업계에서 AI를 둘러싸고 벌어지는 일에 대해 우리가 전문가라고 생각하지는 않습니다. 도구 제작이나 리서치에는 분명 쓰임새가 있고, 그런 일들에서 [AI는] 엄청나게 강력합니다."
           },
           {
             "t": "p",
-            "x": "GameDiscoverCo 조사에 따르면 Steam 이용자의 약 69%는 AI 사용을 밝힌 게임을 사는 데 중립적이거나 괜찮다고 답했고 55% 이상은 Steam이 더 엄격한 공개 규정을 둬야 한다고 봤다. Sweeney는 Steam의 요건을 \"혐오스럽다\"고 표현했다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/Nv8WP9ipmA6k753ABMgKqD-918-80.png",
-            "cap": "Kenney는 자신의 웹사이트에서 이런 무료 게임 에셋 수천 개를 나눠 준다. (이미지 출처: Kenney)"
+            "x": "\"하지만 생성형 에셋 측면에서는 그것으로 사람을, 또는 사람이 만든 글과 아트를 대체할 생각이 전혀 없습니다.\""
           },
           {
             "t": "p",
-            "x": "개발사 Dead Teapot은 Kenney를 지지하며 Epic Games Store 출시를 취소했다. Kenney는 후원금과 60,000개 에셋을 모두 담은 $20 번들로 생계를 꾸린다."
+            "x": "그때까지 나눈 이야기나 Jackbox라는 회사의 성격으로 보면, 이 스튜디오가 생성형 AI를 본격적으로 쓸 것 같지는 않았다. Jackbox 게임은 기술적으로 비교적 가볍고, 가장 큰 매력은 아트와 글이다. 눈에 띄게 AI-generated 티가 나는 요소가 하나라도 있으면 패키지 전체의 가치가 의심받는다."
+          },
+          {
+            "t": "p",
+            "x": "회사는 최근 10월 14일 Jackbox Party Pack 12를 출시했다. Trivia Murder Party 3는 실시간 3D 그래픽을 폭넓게 쓴다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Artist Kenney and Tim Sweeney\nclash over generative AI",
-          "body": "After artist Kenney urged artists not to cave to generative AI pressure, Epic CEO Tim Sweeney called it bullshit on X.",
-          "mini_headline": "Kenney vs. Sweeney\non generative AI",
+          "headline": "Jackbox keeps its writing\nand art made by people",
+          "body": "CEO Mike Bilder says Jackbox's comedy, writing and art will stay human-made, but AI has uses for tooling and research.",
+          "mini_headline": "Jackbox stays human-made",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo.png"
               },
               {
                 "t": "p",
-                "x": "Kenney, an artist known for giving away thousands of free game assets, encouraged other artists not to give in to pressure to use generative AI. A few hours later, Epic Games CEO Tim Sweeney was in his replies: \"This is bullshit, Kenney.\" Elon Musk also chimed in to back up Sweeney."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dN5L7H63LSbvE6whFiWNgP-772-80.png",
-                "cap": "(Image credit: Kenney/Tim Sweeney)"
+                "x": "On a recent visit to Jackbox Games HQ here in Chicago, I got to speak with developers and studio leadership about their process, history, and place in the industry. Given, you know, everything, I'm pretty much contractually obligated to ask about AI in conversations like this. Here's what CEO Mike Bilder had to say on the topic:"
               },
               {
                 "t": "p",
-                "x": "\"I think AI has some benefit but there's just too many problems with it that I find it immoral to use in its current state,\" Kenney told PC Gamer. Sweeney said: \"As a provider of technology to the whole industry, I see it as Epic's job and my job to make the positive case for it.\""
+                "x": "\"The people are what make this product. The comedy, the writing, and the art, all that is done by people, and we have no intention of changing that. I don't think we're experts on what's going on with AI in the industry and any of that. There's obviously uses for tooling and for research, and [for] all that kind of stuff [AI is] incredibly powerful."
               },
               {
                 "t": "p",
-                "x": "A GameDiscoverCo survey found about 69% of Steam users are neutral or fine with buying games that disclose AI use, while over 55% think Steam should have stricter disclosure rules. Sweeney calls Steam's requirement \"abhorrent\"."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Nv8WP9ipmA6k753ABMgKqD-918-80.png",
-                "cap": "Kenney gives away thousands of free game assets like these on his website. (Image credit: Kenney)"
+                "x": "\"But from a generative asset standpoint, we don't have any intention of replacing people, or people-made editorial and art with it.\""
               },
               {
                 "t": "p",
-                "x": "One developer, Dead Teapot, cancelled its Epic Games Store release in support of Kenney, who makes a living from donations and a $20 bundle of all 60,000 assets."
+                "x": "From everything we had discussed up to this point, as well as Jackbox's whole deal, I didn't think generative AI would really be in the cards for the studio. Jackbox's games are relatively lightweight from a tech perspective, while the art and writing is their main draw—if anything was noticeably AI-generated, it would put the value of the whole package into question."
+              },
+              {
+                "t": "p",
+                "x": "The company recently released the Jackbox Party Pack 12 on October 14, and Trivia Murder Party 3 makes extensive use of realtime 3D graphics."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Kenney·Sweeney\n생성형 AI 놓고 충돌",
-          "body": "AI 압박에 맞서자는 Kenney 글을 Sweeney가 X에서 '헛소리'라 했다.",
-          "mini_headline": "Kenney vs. Sweeney 생성형 AI 논쟁",
+          "headline": "Jackbox의 글·그림은\n사람이 만든다",
+          "body": "Jackbox CEO Mike Bilder는 창작은 사람 몫, AI는 도구라 했다.",
+          "mini_headline": "Jackbox는 사람이 만든다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo.png"
               },
               {
                 "t": "p",
-                "x": "무료 게임 에셋 수천 개를 나눠 주기로 유명한 아티스트 Kenney가 생성형 AI를 쓰라는 압박에 굴하지 말라고 동료 아티스트들을 독려했다. 몇 시간 뒤 Epic Games CEO Tim Sweeney가 답글을 달았다. \"헛소리다, Kenney.\" Elon Musk도 끼어들어 Sweeney를 거들었다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dN5L7H63LSbvE6whFiWNgP-772-80.png",
-                "cap": "(이미지 출처: Kenney/Tim Sweeney)"
+                "x": "최근 이곳 시카고의 Jackbox Games HQ를 찾아 개발자, 스튜디오 경영진과 작업 방식, 회사의 역사, 업계 내 위치를 두고 이야기를 나눴다. 요즘 같은 때 이런 자리에서 AI를 묻는 건 거의 계약상 의무다. CEO Mike Bilder의 답은 이랬다."
               },
               {
                 "t": "p",
-                "x": "Kenney는 PC Gamer에 \"AI에 어느 정도 이점은 있다고 보지만 문제가 너무 많아서 지금 상태로 쓰는 것은 비윤리적이라고 생각한다\"고 했다. 반면 Sweeney는 \"업계 전체에 기술을 제공하는 입장에서, 그 긍정적인 면을 알리는 것이 Epic의 일이자 내 일이라고 본다\"고 말했다."
+                "x": "\"이 제품을 만드는 건 사람입니다. 코미디도, 글도, 아트도 모두 사람이 만들고, 우리는 이를 바꿀 생각이 없습니다. 업계에서 AI를 둘러싸고 벌어지는 일에 대해 우리가 전문가라고 생각하지는 않습니다. 도구 제작이나 리서치에는 분명 쓰임새가 있고, 그런 일들에서 [AI는] 엄청나게 강력합니다."
               },
               {
                 "t": "p",
-                "x": "GameDiscoverCo 조사에 따르면 Steam 이용자의 약 69%는 AI 사용을 밝힌 게임을 사는 데 중립적이거나 괜찮다고 답했고 55% 이상은 Steam이 더 엄격한 공개 규정을 둬야 한다고 봤다. Sweeney는 Steam의 요건을 \"혐오스럽다\"고 표현했다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Nv8WP9ipmA6k753ABMgKqD-918-80.png",
-                "cap": "Kenney는 자신의 웹사이트에서 이런 무료 게임 에셋 수천 개를 나눠 준다. (이미지 출처: Kenney)"
+                "x": "\"하지만 생성형 에셋 측면에서는 그것으로 사람을, 또는 사람이 만든 글과 아트를 대체할 생각이 전혀 없습니다.\""
               },
               {
                 "t": "p",
-                "x": "개발사 Dead Teapot은 Kenney를 지지하며 Epic Games Store 출시를 취소했다. Kenney는 후원금과 60,000개 에셋을 모두 담은 $20 번들로 생계를 꾸린다."
+                "x": "그때까지 나눈 이야기나 Jackbox라는 회사의 성격으로 보면, 이 스튜디오가 생성형 AI를 본격적으로 쓸 것 같지는 않았다. Jackbox 게임은 기술적으로 비교적 가볍고, 가장 큰 매력은 아트와 글이다. 눈에 띄게 AI-generated 티가 나는 요소가 하나라도 있으면 패키지 전체의 가치가 의심받는다."
+              },
+              {
+                "t": "p",
+                "x": "회사는 최근 10월 14일 Jackbox Party Pack 12를 출시했다. Trivia Murder Party 3는 실시간 3D 그래픽을 폭넓게 쓴다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "KenneyとSweeney\n生成AIめぐり対立",
-          "body": "生成AIの圧力に屈するなと説くKenneyに、Tim SweeneyがXで反論した。",
-          "mini_headline": "Kenney vs. Sweeney 生成AI論争",
+          "headline": "Jackboxの文章と絵は\n人の手で作り続ける",
+          "body": "JackboxのCEO Mike Bilder氏は、創作は人が担いAIは道具だと語った。",
+          "mini_headline": "Jackboxは人の手で作る",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo.png"
               },
               {
                 "t": "p",
-                "x": "数千点の無料ゲームアセットを配布していることで知られるアーティストのKenneyは、生成AIを使えという圧力に屈しないよう他のアーティストに呼びかけた。数時間後、Epic GamesのCEO、Tim Sweeneyが返信で「でたらめだ、Kenney」と書き込んだ。Elon MuskもSweeneyを支持して加わった。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dN5L7H63LSbvE6whFiWNgP-772-80.png",
-                "cap": "（画像クレジット：Kenney/Tim Sweeney）"
+                "x": "先日、ここシカゴにあるJackbox Games HQを訪れ、開発者やスタジオ経営陣に制作プロセスや歴史、業界での立ち位置について話を聞いた。昨今の状況を考えれば、こうした場でAIについて尋ねるのはもはや契約上の義務のようなものだ。この話題についてCEOのMike Bilder氏は次のように語った。"
               },
               {
                 "t": "p",
-                "x": "「AIには多少の利点があると思うが、問題があまりに多く、現状で使うのは不道徳だと感じる」とKenneyはPC Gamerに語った。Sweeneyは「業界全体に技術を提供する立場として、その利点を示すのはEpicの仕事であり、私の仕事だと考えている」と述べた。"
+                "x": "「この製品を作っているのは人です。コメディも、文章も、アートも、すべて人が手がけており、それを変えるつもりはありません。業界でAIをめぐって起きていることについて、私たちが専門家だとは思っていません。ツール制作やリサーチなどには明らかに使い道があり、そうした用途では[AIは]非常に強力です。"
               },
               {
                 "t": "p",
-                "x": "GameDiscoverCoの調査によると、Steamユーザーの約69%はAIの使用を開示したゲームの購入について中立または問題ないと答え、55%超はSteamがより厳格な開示ルールを設けるべきだと考えている。SweeneyはSteamの要件を「忌まわしい」と呼んでいる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Nv8WP9ipmA6k753ABMgKqD-918-80.png",
-                "cap": "Kenneyは自身のサイトで、こうした無料ゲームアセットを数千点配布している。（画像クレジット：Kenney）"
+                "x": "「しかし生成アセットという観点では、それで人を、あるいは人が作った文章やアートを置き換えるつもりはまったくありません」"
               },
               {
                 "t": "p",
-                "x": "開発者のDead TeapotはKenneyを支持してEpic Games Storeでのリリースを中止した。Kenneyは寄付と、全60,000点のアセットをまとめた$20のバンドルで生計を立てている。"
+                "x": "それまでの話やJackboxという会社のあり方からして、同スタジオが生成AIを本格的に取り入れるとは思えなかった。Jackboxのゲームは技術的には比較的軽量で、最大の魅力はアートと文章だ。もし明らかにAI-generatedな要素があれば、パッケージ全体の価値が問われることになるだろう。"
+              },
+              {
+                "t": "p",
+                "x": "同社は10月14日に『Jackbox Party Pack 12』をリリースしたばかりで、『Trivia Murder Party 3』ではリアルタイム3Dグラフィックスが多用されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Kenney与Sweeney\n因生成式AI起冲突",
-          "body": "Kenney呼吁美术师勿向生成式AI压力低头，Tim Sweeney在X上斥之为胡扯。",
-          "mini_headline": "Kenney vs. Sweeney：生成式AI之争",
+          "headline": "Jackbox的文字与美术\n坚持由人创作",
+          "body": "Jackbox CEO Mike Bilder称，创作由人完成，AI则用于工具与研究。",
+          "mini_headline": "Jackbox坚持人工创作",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo.png"
               },
               {
                 "t": "p",
-                "x": "以免费发布数千款游戏素材而闻名的美术师Kenney，鼓励其他美术师不要屈服于使用生成式AI的压力。几小时后，Epic Games CEO Tim Sweeney在回复中写道：“Kenney，这是胡扯。”Elon Musk也加入进来声援Sweeney。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dN5L7H63LSbvE6whFiWNgP-772-80.png",
-                "cap": "（图片来源：Kenney/Tim Sweeney）"
+                "x": "最近我走访了位于芝加哥的Jackbox Games HQ，与开发者和工作室管理层聊了聊他们的创作流程、发展历程以及在行业中的位置。鉴于当下的种种情况，在这类对话中问起AI几乎成了我的“合同义务”。以下是CEO Mike Bilder对此话题的看法："
               },
               {
                 "t": "p",
-                "x": "Kenney告诉PC Gamer：“我认为AI有一定好处，但它的问题实在太多，我觉得在目前的状态下使用它是不道德的。”Sweeney则表示：“作为面向整个行业的技术提供者，我认为为它进行正面论证是Epic的工作，也是我的工作。”"
+                "x": "“人才是这款产品的核心。喜剧、文字和美术，全部由人完成，我们无意改变这一点。我不认为我们是业内AI动向之类问题的专家。它显然在工具开发和研究方面有用武之地，在这些方面[AI]极其强大。"
               },
               {
                 "t": "p",
-                "x": "GameDiscoverCo的一项调查发现，约69%的Steam用户对购买披露使用AI的游戏持中立或接受态度，而超过55%的用户认为Steam应制定更严格的披露规则。Sweeney称Steam的这一要求“令人憎恶”。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Nv8WP9ipmA6k753ABMgKqD-918-80.png",
-                "cap": "Kenney在其网站上免费发布数千款这样的游戏素材。（图片来源：Kenney）"
+                "x": "“但从生成式素材的角度来看，我们无意用它取代人，或取代由人创作的文字和美术。”"
               },
               {
                 "t": "p",
-                "x": "开发商Dead Teapot为声援Kenney取消了在Epic Games Store的发行。Kenney靠捐赠以及一个包含全部60,000个素材、售价$20 的合集维持生计。"
+                "x": "从我们此前讨论的一切以及Jackbox的整体风格来看，我并不认为生成式AI会出现在这家工作室的计划中。Jackbox的游戏在技术上相对轻量，而美术和文字才是其主要魅力——如果有任何明显AI-generated的内容，整个产品的价值都会受到质疑。"
+              },
+              {
+                "t": "p",
+                "x": "该公司最近于10月14日推出了Jackbox Party Pack 12，其中的Trivia Murder Party 3大量运用了实时3D图形。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El artista Kenney y Tim Sweeney\nchocan por la AI generativa",
-          "body": "Kenney pidió a los artistas no ceder ante la AI generativa; Tim Sweeney, CEO de Epic, lo tachó de tontería en X.",
-          "mini_headline": "Kenney vs. Sweeney sobre la AI generativa",
+          "headline": "Jackbox mantiene sus textos\ny su arte hechos por personas",
+          "body": "El CEO de Jackbox, Mike Bilder, mantiene humanos el humor, los textos y el arte, y ve la AI útil en herramientas.",
+          "mini_headline": "Jackbox sigue siendo obra humana",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo.png"
               },
               {
                 "t": "p",
-                "x": "Kenney, un artista conocido por regalar miles de recursos gratuitos para juegos, animó a otros artistas a no ceder ante la presión de usar AI generativa. Unas horas después, el CEO de Epic Games, Tim Sweeney, le respondió: \"Esto es una tontería, Kenney\". Elon Musk también intervino para respaldar a Sweeney."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dN5L7H63LSbvE6whFiWNgP-772-80.png",
-                "cap": "(Crédito de imagen: Kenney/Tim Sweeney)"
+                "x": "En una visita reciente al Jackbox Games HQ, aquí en Chicago, pude hablar con desarrolladores y directivos del estudio sobre su proceso, su historia y su lugar en la industria. Dado, bueno, todo lo que está pasando, estoy prácticamente obligado por contrato a preguntar por la AI en conversaciones como esta. Esto es lo que dijo el CEO Mike Bilder sobre el tema:"
               },
               {
                 "t": "p",
-                "x": "\"Creo que la AI tiene algunos beneficios, pero tiene demasiados problemas y me parece inmoral usarla en su estado actual\", dijo Kenney a PC Gamer. Sweeney afirmó: \"Como proveedor de tecnología para toda la industria, considero que es trabajo de Epic y mío defender sus ventajas\"."
+                "x": "\"Las personas son las que hacen este producto. La comedia, los textos y el arte, todo eso lo hacen personas, y no tenemos intención de cambiarlo. No creo que seamos expertos en lo que está pasando con la AI en la industria ni en nada de eso. Obviamente tiene usos para herramientas y para investigación, y [para] todo ese tipo de cosas [la AI es] increíblemente poderosa."
               },
               {
                 "t": "p",
-                "x": "Una encuesta de GameDiscoverCo halló que alrededor del 69% de los usuarios de Steam se muestran neutrales o conformes con comprar juegos que declaran el uso de AI, mientras que más del 55% cree que Steam debería tener normas de divulgación más estrictas. Sweeney califica el requisito de Steam de \"aborrecible\"."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Nv8WP9ipmA6k753ABMgKqD-918-80.png",
-                "cap": "Kenney regala en su sitio web miles de recursos gratuitos para juegos como estos. (Crédito de imagen: Kenney)"
+                "x": "\"Pero desde el punto de vista de los recursos generativos, no tenemos ninguna intención de reemplazar con ella a las personas, ni los textos y el arte hechos por personas.\""
               },
               {
                 "t": "p",
-                "x": "Un desarrollador, Dead Teapot, canceló su lanzamiento en Epic Games Store en apoyo a Kenney, que vive de donaciones y de un paquete de $20 con los 60,000 recursos."
+                "x": "Por todo lo que habíamos hablado hasta ese momento, y por lo que Jackbox representa en general, no pensaba que la AI generativa estuviera realmente en los planes del estudio. Los juegos de Jackbox son relativamente ligeros desde el punto de vista técnico, mientras que el arte y los textos son su principal atractivo: si algo fuera notablemente AI-generated, pondría en duda el valor de todo el paquete."
+              },
+              {
+                "t": "p",
+                "x": "La compañía lanzó recientemente Jackbox Party Pack 12 el 14 de octubre, y Trivia Murder Party 3 hace un uso intensivo de gráficos 3D en tiempo real."
               }
             ]
           }
@@ -1741,161 +1755,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Kenney·Sweeney\n생성형 AI 놓고 충돌",
-          "body": "AI 압박에 맞서자는 Kenney 글을 Sweeney가 X에서 '헛소리'라 했다.",
-          "mini_headline": "Kenney vs. Sweeney 생성형 AI 논쟁",
+          "headline": "Jackbox의 글·그림은\n사람이 만든다",
+          "body": "Jackbox CEO Mike Bilder는 창작은 사람 몫, AI는 도구라 했다.",
+          "mini_headline": "Jackbox는 사람이 만든다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo.png"
               },
               {
                 "t": "p",
-                "x": "수천 개의 무료 게임 에셋을 나눠 주는 것으로 유명한 아티스트 Kenney가 다른 아티스트들에게 생성형 AI를 쓰라는 압박에 굴하지 말라고 독려했다. 몇 시간 뒤 Epic Games CEO Tim Sweeney가 답글을 달았다. \"헛소리다, Kenney.\" Elon Musk도 끼어들어 Sweeney를 거들었다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dN5L7H63LSbvE6whFiWNgP-772-80.png",
-                "cap": "(이미지 출처: Kenney/Tim Sweeney)"
+                "x": "최근 이곳 시카고에 있는 Jackbox Games HQ를 방문해 개발자, 스튜디오 경영진과 그들의 작업 방식과 역사, 업계에서의 위치에 관해 이야기를 나눴다. 요즘 상황을 생각하면 이런 대화에서 AI에 관해 묻는 것은 거의 계약상 의무나 다름없다. CEO Mike Bilder는 이 주제에 대해 이렇게 말했다."
               },
               {
                 "t": "p",
-                "x": "Kenney는 PC Gamer에 \"AI에 어느 정도 이점은 있다고 보지만 문제가 너무 많아서 지금 상태로 쓰는 것은 비윤리적이라고 생각한다\"고 말했다. Sweeney는 \"업계 전체에 기술을 제공하는 입장에서, 그 긍정적인 면을 알리는 것이 Epic의 일이자 내 일이라고 본다\"고 말했다."
+                "x": "\"이 제품을 만드는 건 사람입니다. 코미디도, 글도, 아트도 모두 사람이 만들고, 우리는 이를 바꿀 생각이 없습니다. 업계에서 AI를 둘러싸고 벌어지는 일에 대해 우리가 전문가라고 생각하지는 않습니다. 도구 제작이나 리서치에는 분명 쓰임새가 있고, 그런 일들에서 [AI는] 엄청나게 강력합니다."
               },
               {
                 "t": "p",
-                "x": "GameDiscoverCo 조사에 따르면 Steam 이용자의 약 69%는 AI 사용을 밝힌 게임을 사는 데 중립적이거나 괜찮다고 답했고, 55% 이상은 Steam이 더 엄격한 공개 규정을 둬야 한다고 봤다. Sweeney는 Steam의 요건을 \"혐오스럽다\"고 부른다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Nv8WP9ipmA6k753ABMgKqD-918-80.png",
-                "cap": "Kenney는 자신의 웹사이트에서 이런 무료 게임 에셋 수천 개를 나눠 준다. (이미지 출처: Kenney)"
+                "x": "\"하지만 생성형 에셋 측면에서는 그것으로 사람을, 또는 사람이 만든 글과 아트를 대체할 생각이 전혀 없습니다.\""
               },
               {
                 "t": "p",
-                "x": "개발사 Dead Teapot은 Kenney를 지지하며 Epic Games Store 출시를 취소했다. Kenney는 후원금과, 60,000개 에셋 전체를 담은 $20 번들로 생계를 꾸린다."
+                "x": "그때까지 나눈 이야기와 Jackbox라는 회사의 성격을 생각하면, 이 스튜디오가 생성형 AI를 본격적으로 쓸 것 같지는 않았다. Jackbox의 게임은 기술적으로 비교적 가벼운 반면 아트와 글이 가장 큰 매력이다. 눈에 띄게 AI-generated 티가 나는 요소가 있다면 패키지 전체의 가치가 의심받게 될 것이다."
+              },
+              {
+                "t": "p",
+                "x": "회사는 최근 10월 14일 Jackbox Party Pack 12를 출시했으며, Trivia Murder Party 3는 실시간 3D 그래픽을 폭넓게 활용한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "KenneyとSweeney\n生成AIめぐり対立",
-          "body": "生成AIの圧力に屈するなと説くKenneyに、Tim SweeneyがXで反論した。",
-          "mini_headline": "Kenney vs. Sweeney 生成AI論争",
+          "headline": "Jackboxの文章と絵は\n人の手で作り続ける",
+          "body": "JackboxのCEO Mike Bilder氏は、創作は人が担いAIは道具だと語った。",
+          "mini_headline": "Jackboxは人の手で作る",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo.png"
               },
               {
                 "t": "p",
-                "x": "数千点の無料ゲームアセットを配布していることで知られるアーティストのKenneyは、生成AIを使えという圧力に屈しないよう他のアーティストに呼びかけた。数時間後、Epic GamesのCEO、Tim Sweeneyが返信で「でたらめだ、Kenney」と書き込んだ。Elon MuskもSweeneyを支持して加わった。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dN5L7H63LSbvE6whFiWNgP-772-80.png",
-                "cap": "（画像クレジット：Kenney/Tim Sweeney）"
+                "x": "先日、ここシカゴにあるJackbox Games HQを訪れ、開発者やスタジオ経営陣に制作プロセスや歴史、業界での立ち位置について話を聞いた。昨今の状況を考えれば、こうした場でAIについて尋ねるのはもはや契約上の義務のようなものだ。この話題についてCEOのMike Bilder氏は次のように語った。"
               },
               {
                 "t": "p",
-                "x": "「AIには多少の利点があると思うが、問題があまりに多く、現状で使うのは不道徳だと感じる」とKenneyはPC Gamerに語った。Sweeneyは「業界全体に技術を提供する立場として、その利点を示すのはEpicの仕事であり、私の仕事だと考えている」と述べた。"
+                "x": "「この製品を作っているのは人です。コメディも、文章も、アートも、すべて人が手がけており、それを変えるつもりはありません。業界でAIをめぐって起きていることについて、私たちが専門家だとは思っていません。ツール制作やリサーチなどには明らかに使い道があり、そうした用途では[AIは]非常に強力です。"
               },
               {
                 "t": "p",
-                "x": "GameDiscoverCoの調査によると、Steamユーザーの約69%はAIの使用を開示したゲームの購入について中立または問題ないと答え、55%超はSteamがより厳格な開示ルールを設けるべきだと考えている。SweeneyはSteamの要件を「忌まわしい」と呼んでいる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Nv8WP9ipmA6k753ABMgKqD-918-80.png",
-                "cap": "Kenneyは自身のサイトで、こうした無料ゲームアセットを数千点配布している。（画像クレジット：Kenney）"
+                "x": "「しかし生成アセットという観点では、それで人を、あるいは人が作った文章やアートを置き換えるつもりはまったくありません」"
               },
               {
                 "t": "p",
-                "x": "開発者のDead TeapotはKenneyを支持してEpic Games Storeでのリリースを中止した。Kenneyは寄付と、全60,000点のアセットをまとめた$20のバンドルで生計を立てている。"
+                "x": "それまでの話やJackboxという会社のあり方からして、同スタジオが生成AIを本格的に取り入れるとは思えなかった。Jackboxのゲームは技術的には比較的軽量で、最大の魅力はアートと文章だ。もし明らかにAI-generatedな要素があれば、パッケージ全体の価値が問われることになるだろう。"
+              },
+              {
+                "t": "p",
+                "x": "同社は10月14日に『Jackbox Party Pack 12』をリリースしたばかりで、『Trivia Murder Party 3』ではリアルタイム3Dグラフィックスが多用されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Kenney与Sweeney\n因生成式AI起冲突",
-          "body": "Kenney呼吁美术师勿向生成式AI压力低头，Tim Sweeney在X上斥之为胡扯。",
-          "mini_headline": "Kenney vs. Sweeney：生成式AI之争",
+          "headline": "Jackbox的文字与美术\n坚持由人创作",
+          "body": "Jackbox CEO Mike Bilder称，创作由人完成，AI则用于工具与研究。",
+          "mini_headline": "Jackbox坚持人工创作",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo.png"
               },
               {
                 "t": "p",
-                "x": "以免费发布数千款游戏素材而闻名的美术师Kenney，鼓励其他美术师不要屈服于使用生成式AI的压力。几小时后，Epic Games CEO Tim Sweeney在回复中写道：“Kenney，这是胡扯。”Elon Musk也加入进来声援Sweeney。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dN5L7H63LSbvE6whFiWNgP-772-80.png",
-                "cap": "（图片来源：Kenney/Tim Sweeney）"
+                "x": "最近我走访了位于芝加哥的Jackbox Games HQ，与开发者和工作室管理层聊了聊他们的创作流程、发展历程以及在行业中的位置。鉴于当下的种种情况，在这类对话中问起AI几乎成了我的“合同义务”。以下是CEO Mike Bilder对此话题的看法："
               },
               {
                 "t": "p",
-                "x": "Kenney告诉PC Gamer：“我认为AI有一定好处，但它的问题实在太多，我觉得在目前的状态下使用它是不道德的。”Sweeney则表示：“作为面向整个行业的技术提供者，我认为为它进行正面论证是Epic的工作，也是我的工作。”"
+                "x": "“人才是这款产品的核心。喜剧、文字和美术，全部由人完成，我们无意改变这一点。我不认为我们是业内AI动向之类问题的专家。它显然在工具开发和研究方面有用武之地，在这些方面[AI]极其强大。"
               },
               {
                 "t": "p",
-                "x": "GameDiscoverCo的一项调查发现，约69%的Steam用户对购买披露使用AI的游戏持中立或接受态度，而超过55%的用户认为Steam应制定更严格的披露规则。Sweeney称Steam的这一要求“令人憎恶”。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Nv8WP9ipmA6k753ABMgKqD-918-80.png",
-                "cap": "Kenney在其网站上免费发布数千款这样的游戏素材。（图片来源：Kenney）"
+                "x": "“但从生成式素材的角度来看，我们无意用它取代人，或取代由人创作的文字和美术。”"
               },
               {
                 "t": "p",
-                "x": "开发商Dead Teapot为声援Kenney取消了在Epic Games Store的发行。Kenney靠捐赠以及一个包含全部60,000个素材、售价$20 的合集维持生计。"
+                "x": "从我们此前讨论的一切以及Jackbox的整体风格来看，我并不认为生成式AI会出现在这家工作室的计划中。Jackbox的游戏在技术上相对轻量，而美术和文字才是其主要魅力——如果有任何明显AI-generated的内容，整个产品的价值都会受到质疑。"
+              },
+              {
+                "t": "p",
+                "x": "该公司最近于10月14日推出了Jackbox Party Pack 12，其中的Trivia Murder Party 3大量运用了实时3D图形。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El artista Kenney y Tim Sweeney\nchocan por la AI generativa",
-          "body": "Kenney pidió a los artistas no ceder ante la AI generativa; Tim Sweeney, CEO de Epic, lo tachó de tontería en X.",
-          "mini_headline": "Kenney vs. Sweeney sobre la AI generativa",
+          "headline": "Jackbox mantiene sus textos\ny su arte hechos por personas",
+          "body": "El CEO de Jackbox, Mike Bilder, mantiene humanos el humor, los textos y el arte, y ve la AI útil en herramientas.",
+          "mini_headline": "Jackbox sigue siendo obra humana",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo.png"
               },
               {
                 "t": "p",
-                "x": "Kenney, un artista conocido por regalar miles de recursos gratuitos para juegos, animó a otros artistas a no ceder ante la presión de usar AI generativa. Unas horas después, el CEO de Epic Games, Tim Sweeney, le respondió: \"Esto es una tontería, Kenney\". Elon Musk también intervino para respaldar a Sweeney."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dN5L7H63LSbvE6whFiWNgP-772-80.png",
-                "cap": "(Crédito de imagen: Kenney/Tim Sweeney)"
+                "x": "En una visita reciente al Jackbox Games HQ, aquí en Chicago, pude hablar con desarrolladores y directivos del estudio sobre su proceso, su historia y su lugar en la industria. Dado, bueno, todo lo que está pasando, estoy prácticamente obligado por contrato a preguntar por la AI en conversaciones como esta. Esto es lo que dijo el CEO Mike Bilder sobre el tema:"
               },
               {
                 "t": "p",
-                "x": "\"Creo que la AI tiene algunos beneficios, pero tiene demasiados problemas y me parece inmoral usarla en su estado actual\", dijo Kenney a PC Gamer. Sweeney afirmó: \"Como proveedor de tecnología para toda la industria, considero que es trabajo de Epic y mío defender sus ventajas\"."
+                "x": "\"Las personas son las que hacen este producto. La comedia, los textos y el arte, todo eso lo hacen personas, y no tenemos intención de cambiarlo. No creo que seamos expertos en lo que está pasando con la AI en la industria ni en nada de eso. Obviamente tiene usos para herramientas y para investigación, y [para] todo ese tipo de cosas [la AI es] increíblemente poderosa."
               },
               {
                 "t": "p",
-                "x": "Una encuesta de GameDiscoverCo halló que alrededor del 69% de los usuarios de Steam se muestran neutrales o conformes con comprar juegos que declaran el uso de AI, mientras que más del 55% cree que Steam debería tener normas de divulgación más estrictas. Sweeney califica el requisito de Steam de \"aborrecible\"."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Nv8WP9ipmA6k753ABMgKqD-918-80.png",
-                "cap": "Kenney regala en su sitio web miles de recursos gratuitos para juegos como estos. (Crédito de imagen: Kenney)"
+                "x": "\"Pero desde el punto de vista de los recursos generativos, no tenemos ninguna intención de reemplazar con ella a las personas, ni los textos y el arte hechos por personas.\""
               },
               {
                 "t": "p",
-                "x": "Un desarrollador, Dead Teapot, canceló su lanzamiento en Epic Games Store en apoyo a Kenney, que vive de donaciones y de un paquete de $20 con los 60,000 recursos."
+                "x": "Por todo lo que habíamos hablado hasta ese momento, y por lo que Jackbox representa en general, no pensaba que la AI generativa estuviera realmente en los planes del estudio. Los juegos de Jackbox son relativamente ligeros desde el punto de vista técnico, mientras que el arte y los textos son su principal atractivo: si algo fuera notablemente AI-generated, pondría en duda el valor de todo el paquete."
+              },
+              {
+                "t": "p",
+                "x": "La compañía lanzó recientemente Jackbox Party Pack 12 el 14 de octubre, y Trivia Murder Party 3 hace un uso intensivo de gráficos 3D en tiempo real."
               }
             ]
           }

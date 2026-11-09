@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "section": "politics",
   "cards": [
     {
-      "id": "caisi-whitehouse-reporting",
+      "id": "politics-norway-statnett-datacentre-pause",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 안전센터 직원들\n백악관에 보고한다",
-      "body": "전직 관리 둘은 AP에 CAISSI 직원이 백악관 비공식 보고를 요청받았다고 했다.",
-      "mini_headline": "CAISSI 직원, 백악관에 보고",
+      "headline": "노르웨이, 신규 데이터센터\n전력망 접속 보류",
+      "body": "Statnett이 허가제를 만들 때까지 데이터센터 신규 접속 신청을 1년간 막았다.",
+      "mini_headline": "노르웨이, 데이터센터 접속 중단",
       "tool": "Politics",
-      "source": "PBS NewsHour (AP)",
-      "url": "https://www.pbs.org/newshour/politics/staff-at-u-s-center-for-ai-safety-are-reporting-to-the-white-house-raising-independence-concerns",
+      "source": "Rapporteur (Euractiv)",
+      "url": "https://www.rapporteur.com/news/norway-suspends-electricity-grid-access-for-new-data-centres/",
       "accent": "#3b6bff",
       "motif": "cube",
       "full": {
@@ -19,203 +19,227 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-09-29T195100Z_634815528_RC26TNA0Q5X1_RTRMADP_3_USA-TRUMP-1024x683.jpg",
-            "cap": "America.gov 출범 행사에 참석한 도널드 트럼프 US 대통령"
+            "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2249621507-1182x788.jpg",
+            "cap": "지역 데이터센터 개발에 반대하는 팻말을 든 여성 [Jim West/UCG/Universal Images Group via Getty Images]"
           },
           {
             "t": "p",
-            "x": "통제를 벗어난 AI 에이전트 보도가 잇따르며 대중의 불안이 커지고 있다. 그런데 새 AI 서비스의 안전성 평가를 맡은 작은 U.S. 정부 부서는 상임 책임자도 없이 연구 결과 공개까지 멈췄다."
+            "x": "노르웨이 고압 송전망 운영사 Statnett이 데이터센터 접속 신청을 1년간 받지 않기로 했다. 이미 접수된 요청만으로도 전국 서버 용량이 열 배로 불어날 수 있다."
           },
           {
             "t": "p",
-            "x": "익명을 조건으로 The Associated Press와 인터뷰한 전직 정부 관리 두 명에 따르면 상무부 산하 독립 부서인 초지능 혁신·표준 센터(Center for Advancing Innovation and Standards for Super Intelligence, CAISSI)의 관계자들은 최근 백악관의 한 부서에 비공식적으로 보고하라는 요청을 받았다."
+            "x": "노르웨이 데이터센터 용량은 800메가와트(MW)인데, 계획 허가를 받은 신규 프로젝트만 4,200MW에 이르고 9100MW가 추가로 승인을 기다린다. Statnett은 이미 추진 중인 프로젝트만으로도 국내 전력 수요가 지금의 25,000MW에서 50% 늘어난다고 경고했다."
           },
           {
             "t": "p",
-            "x": "일부 비판론자는 행정부가 결정을 정치화하고 센터의 연구 결과가 기술 업계를 의식해 수정되거나 묻힐까 우려한다. 반대로 AI 안전 담당자를 도널드 트럼프 대통령 가까이 두면 부서 위상이 올라가고 어쩌면 예산까지 늘 수 있다는 의견도 있다."
+            "x": "토르게이르 미카엘센 디지털화 장관은 월요일 1년 유예 덕분에 정부가 “데이터센터 증가를 더 잘 통제하고, 우리가 실제로 필요한 데이터센터를 확보할” 시간을 벌었다고 말했다."
           },
           {
             "t": "p",
-            "x": "최근까지 U.S. Center for AI Standards and Innovation으로 불린 이 센터에는 매년 $10 million 의 예산이 배정된다. 4월에는 센터장이 채용된 지 며칠 만에 해고됐고 후임자도 몇 달 만에 물러났다. 8월에는 의회가 센터에 AI 시스템 보고서 공개를 왜 멈췄는지 따져 묻기 시작했다."
+            "x": "정부 성명에 따르면 오슬로는 데이터센터 허가 제도를 준비하면서 국가 소유 방식도 검토하고 있다. 어떤 프로젝트가 ‘좋은’ 것인지 가리려는 브뤼셀의 움직임과 닮은 구상이다. 공영방송 NRK에 따르면 암호화폐 채굴은 사회에 해로운 사업으로 분류된다."
           },
           {
             "t": "p",
-            "x": "백악관은 CAISSI에 관한 구체적 질문에는 답하지 않았다. 다만 트럼프가 새 초지능군(Super Intelligence Force)을 공식 창설했으며 \"미국 국민의 이익을 위해 SI 분야에서 U.S.의 리더십을 계속 이어 가도록\" 하겠다고 밝혔다."
+            "x": "다만 이번 긴급 제동으로도 데이터센터가 석유 부국 노르웨이의 가스를 태워 전력을 자체 생산하는 길까지 막히지는 않는다."
+          },
+          {
+            "t": "p",
+            "x": "데이터센터에 제동을 건 유럽 나라는 노르웨이만이 아니다. 덴마크는 데이터센터를 병원, 전기차 충전소, 가정 뒤로 돌려 전력망 접속 대기열 맨 끝에 세웠다. 포르투갈은 운영사가 새 서버 팜에 전력을 대려면 신규 재생에너지 설비에 투자하도록 요구한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI safety center staff\nreport to the White House",
-          "body": "Two former officials told AP that CAISSI staff were asked to report informally to a White House office.",
-          "mini_headline": "CAISSI staff report to White House",
+          "headline": "Norway pauses grid access\nfor new data centres",
+          "body": "Statnett froze new data centre connection applications for a year while Norway drafts a licensing scheme.",
+          "mini_headline": "Norway halts data centre hookups",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-09-29T195100Z_634815528_RC26TNA0Q5X1_RTRMADP_3_USA-TRUMP-1024x683.jpg",
-                "cap": "US President Donald Trump at America.gov launch"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2249621507-1182x788.jpg",
+                "cap": "A woman holding a protest sign against a local data centre development [Jim West/UCG/Universal Images Group via Getty Images]"
               },
               {
                 "t": "p",
-                "x": "With public anxiety growing over mounting reports about out-of-control AI agents, the tiny U.S. government division charged with assessing the safety of new AI offerings lacks a permanent leader and has stopped publishing its research."
+                "x": "Data centre applications are being suspended for a year, the Norwegian high-voltage grid operator Statnett has announced, with pending connection requests already threatening a tenfold increase of server capacity across the country."
               },
               {
                 "t": "p",
-                "x": "Officials with the Center for Advancing Innovation and Standards for Super Intelligence, or CAISSI, an independent division of the Commerce Department, recently were asked to informally report to an office of the White House, according to two former government officials who spoke to The Associated Press on condition of anonymity."
+                "x": "Norway is home to 800 megawatts (MW) of data centre capacity, but 4,200 MW of new projects have already received planning permission, and a further 9100 MW are pending approval. Projects already in the pipeline would increase the country’s electricity demand by 50% from the current 25,000 MW, Stattnett warned."
               },
               {
                 "t": "p",
-                "x": "Some critics worry the executive branch might be politicizing decisions and that the center's findings could be altered or muted in deference to the tech industry. Others argue that bringing AI safety officials closer to President Donald Trump could give the division more prominence — and perhaps more funding."
+                "x": "The one-year pause gives the government time “to gain more control over the growth of data centres and ensure that we get the data centres we actually need,” Minister for Digitalisation Torgeir Micaelsen said on Monday."
               },
               {
                 "t": "p",
-                "x": "The center, until recently called the U.S. Center for AI Standards and Innovation, is allocated $10 million per year. In April its director was hired and then fired within days; his replacement resigned after a few months. In August, Congress started asking why it stopped making public its reports on AI systems."
+                "x": "Oslo is planning a data centre licensing scheme – mirroring similar efforts in Brussels to decide which projects are ‘good’ – and is considering a system of state ownership, the government said in a statement. Cryptocurrency mining schemes will be considered socially detrimental, public broadcaster NRK reports."
               },
               {
                 "t": "p",
-                "x": "The White House didn't respond to specific questions about CAISSI, but said Trump had formally established his new Super Intelligence Force and will ensure \"continued U.S. leadership on SI for the benefit of the American people.\""
+                "x": "The grid operator emergency brake does not, however, prohibit data centres from generating their own power by burning gas produced in the petroleum-rich country."
+              },
+              {
+                "t": "p",
+                "x": "Norway is only the latest European country to push back against centres. Denmark, for example, has pushed them to the back of the grid access queue, behind hospitals, car-charging stations, and households. Portugal is demanding that operators invest in fresh renewable energy capacity to power new server farms."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 안전센터 직원들\n백악관에 보고한다",
-          "body": "전직 관리 둘은 AP에 CAISSI 직원이 백악관 비공식 보고를 요청받았다고 했다.",
-          "mini_headline": "CAISSI 직원, 백악관에 보고",
+          "headline": "노르웨이, 신규 데이터센터\n전력망 접속 보류",
+          "body": "Statnett이 허가제를 만들 때까지 데이터센터 신규 접속 신청을 1년간 막았다.",
+          "mini_headline": "노르웨이, 데이터센터 접속 중단",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-09-29T195100Z_634815528_RC26TNA0Q5X1_RTRMADP_3_USA-TRUMP-1024x683.jpg",
-                "cap": "America.gov 출범 행사에 참석한 도널드 트럼프 US 대통령"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2249621507-1182x788.jpg",
+                "cap": "지역 데이터센터 개발에 반대하는 팻말을 든 여성 [Jim West/UCG/Universal Images Group via Getty Images]"
               },
               {
                 "t": "p",
-                "x": "통제를 벗어난 AI 에이전트 보도가 잇따르며 대중의 불안이 커지고 있다. 그런데 새 AI 서비스의 안전성 평가를 맡은 작은 U.S. 정부 부서는 상임 책임자도 없이 연구 결과 공개까지 멈췄다."
+                "x": "노르웨이 고압 송전망 운영사 Statnett이 데이터센터 접속 신청을 1년간 받지 않기로 했다. 이미 접수된 요청만으로도 전국 서버 용량이 열 배로 불어날 수 있다."
               },
               {
                 "t": "p",
-                "x": "익명을 조건으로 The Associated Press와 인터뷰한 전직 정부 관리 두 명에 따르면 상무부 산하 독립 부서인 초지능 혁신·표준 센터(Center for Advancing Innovation and Standards for Super Intelligence, CAISSI)의 관계자들은 최근 백악관의 한 부서에 비공식적으로 보고하라는 요청을 받았다."
+                "x": "노르웨이 데이터센터 용량은 800메가와트(MW)인데, 계획 허가를 받은 신규 프로젝트만 4,200MW에 이르고 9100MW가 추가로 승인을 기다린다. Statnett은 이미 추진 중인 프로젝트만으로도 국내 전력 수요가 지금의 25,000MW에서 50% 늘어난다고 경고했다."
               },
               {
                 "t": "p",
-                "x": "일부 비판론자는 행정부가 결정을 정치화하고 센터의 연구 결과가 기술 업계를 의식해 수정되거나 묻힐까 우려한다. 반대로 AI 안전 담당자를 도널드 트럼프 대통령 가까이 두면 부서 위상이 올라가고 어쩌면 예산까지 늘 수 있다는 의견도 있다."
+                "x": "토르게이르 미카엘센 디지털화 장관은 월요일 1년 유예 덕분에 정부가 “데이터센터 증가를 더 잘 통제하고, 우리가 실제로 필요한 데이터센터를 확보할” 시간을 벌었다고 말했다."
               },
               {
                 "t": "p",
-                "x": "최근까지 U.S. Center for AI Standards and Innovation으로 불린 이 센터에는 매년 $10 million 의 예산이 배정된다. 4월에는 센터장이 채용된 지 며칠 만에 해고됐고 후임자도 몇 달 만에 물러났다. 8월에는 의회가 센터에 AI 시스템 보고서 공개를 왜 멈췄는지 따져 묻기 시작했다."
+                "x": "정부 성명에 따르면 오슬로는 데이터센터 허가 제도를 준비하면서 국가 소유 방식도 검토하고 있다. 어떤 프로젝트가 ‘좋은’ 것인지 가리려는 브뤼셀의 움직임과 닮은 구상이다. 공영방송 NRK에 따르면 암호화폐 채굴은 사회에 해로운 사업으로 분류된다."
               },
               {
                 "t": "p",
-                "x": "백악관은 CAISSI에 관한 구체적 질문에는 답하지 않았다. 다만 트럼프가 새 초지능군(Super Intelligence Force)을 공식 창설했으며 \"미국 국민의 이익을 위해 SI 분야에서 U.S.의 리더십을 계속 이어 가도록\" 하겠다고 밝혔다."
+                "x": "다만 이번 긴급 제동으로도 데이터센터가 석유 부국 노르웨이의 가스를 태워 전력을 자체 생산하는 길까지 막히지는 않는다."
+              },
+              {
+                "t": "p",
+                "x": "데이터센터에 제동을 건 유럽 나라는 노르웨이만이 아니다. 덴마크는 데이터센터를 병원, 전기차 충전소, 가정 뒤로 돌려 전력망 접속 대기열 맨 끝에 세웠다. 포르투갈은 운영사가 새 서버 팜에 전력을 대려면 신규 재생에너지 설비에 투자하도록 요구한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI安全センター職員\nホワイトハウスに報告",
-          "body": "元当局者二人はAPに、CAISSI職員がホワイトハウスへの非公式報告を求められたと語った。",
-          "mini_headline": "CAISSI職員がホワイトハウスに報告",
+          "headline": "ノルウェー、新規の\nデータセンター接続を凍結",
+          "body": "Statnettは許可制度の策定中、データセンターの新規接続申請を一年間凍結した。",
+          "mini_headline": "ノルウェー、データセンター接続を停止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-09-29T195100Z_634815528_RC26TNA0Q5X1_RTRMADP_3_USA-TRUMP-1024x683.jpg",
-                "cap": "America.gov の立ち上げ式に臨むドナルド・トランプ US 大統領"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2249621507-1182x788.jpg",
+                "cap": "地元のデータセンター開発に反対するプラカードを掲げる女性 [Jim West/UCG/Universal Images Group via Getty Images]"
               },
               {
                 "t": "p",
-                "x": "制御不能に陥ったAIエージェントをめぐる報道が相次ぎ、市民の不安が高まるなか、新たなAIサービスの安全性評価を担う小さな U.S. 政府部門は、常任のトップを欠き、研究成果の公表も止めている。"
+                "x": "ノルウェーの高圧送電網運営会社Statnettは、データセンターの接続申請を一年間停止すると発表した。すでに出ている接続申請だけで、国内のサーバー容量が十倍に膨らむおそれがある。"
               },
               {
                 "t": "p",
-                "x": "匿名を条件に The Associated Press の取材に応じた元政府当局者二人によると、商務省の独立部門である Center for Advancing Innovation and Standards for Super Intelligence(CAISSI)の職員は最近、ホワイトハウスの一部署に非公式に報告するよう求められた。"
+                "x": "ノルウェーのデータセンター容量は800メガワット(MW)だが、すでに4,200MW分の新規計画が建設許可を得ており、さらに9100MWが承認待ちとなっている。Statnettは、すでに進行中の計画だけで国内の電力需要が現在の25,000MWから50%増えると警告した。"
               },
               {
                 "t": "p",
-                "x": "批判派の一部は、行政府が判断を政治化し、センターの調査結果がテック業界に配慮して改変されたり伏せられたりしかねないと懸念する。一方、AI安全担当者をドナルド・トランプ大統領に近づけることで、この部門の存在感が増し、予算も増える可能性があるとの見方もある。"
+                "x": "トルゲイル・ミカエルセン・デジタル化担当相は月曜日、一年間の停止によって政府は「データセンターの拡大をよりよく管理し、本当に必要なデータセンターを確保する」時間を得ると述べた。"
               },
               {
                 "t": "p",
-                "x": "このセンターは最近まで U.S. Center for AI Standards and Innovation と呼ばれ、年間 $10 million の予算が割り当てられている。4月には所長が採用から数日で解任され、後任も数カ月で辞任した。8月には議会が、AIシステムに関する報告書の公表をなぜやめたのか問い始めた。"
+                "x": "政府は声明で、オスロがデータセンターの許可制度を計画しており、国有化の仕組みも検討していると明らかにした。どの計画が「良い」かを見極めようとするブリュッセルの取り組みに倣うものだ。公共放送NRKによると、暗号資産のマイニング事業は社会的に有害とみなされる。"
               },
               {
                 "t": "p",
-                "x": "ホワイトハウスは CAISSI に関する具体的な質問には答えなかったが、トランプ氏が新設の Super Intelligence Force を正式に発足させたとし、「米国民の利益のため、SI における U.S. の主導的地位を維持する」と述べた。"
+                "x": "ただし、送電網運営会社によるこの緊急ブレーキは、産油国であるノルウェーで産出されるガスを燃やしてデータセンターが自家発電することまでは禁じていない。"
+              },
+              {
+                "t": "p",
+                "x": "データセンターに歯止めをかける欧州の国はノルウェーが初めてではない。例えばデンマークは、データセンターを病院や電気自動車の充電ステーション、家庭の後ろに回し、送電網接続の順番待ちの最後尾に置いた。ポルトガルは、新たなサーバーファームの電力をまかなうため、事業者に新規の再生可能エネルギー設備への投資を求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI安全中心员工\n被要求向白宫汇报",
-          "body": "两名前官员向AP透露，CAISSI员工被要求以非正式方式向白宫一个办公室汇报。",
-          "mini_headline": "CAISSI员工向白宫汇报",
+          "headline": "挪威暂停新数据中心\n接入电网",
+          "body": "挪威制定许可制度期间，Statnett将新数据中心的并网申请冻结一年。",
+          "mini_headline": "挪威暂停数据中心并网",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-09-29T195100Z_634815528_RC26TNA0Q5X1_RTRMADP_3_USA-TRUMP-1024x683.jpg",
-                "cap": "US总统唐纳德·特朗普出席 America.gov 上线活动"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2249621507-1182x788.jpg",
+                "cap": "一名女子手持标语，抗议当地的数据中心开发项目 [Jim West/UCG/Universal Images Group via Getty Images]"
               },
               {
                 "t": "p",
-                "x": "失控 AI 智能体的报道不断增多，公众焦虑日益加剧，而负责评估新 AI 产品安全性的小型 U.S. 政府部门却没有常任负责人，也已停止发布研究成果。"
+                "x": "挪威高压电网运营商Statnett宣布，暂停受理数据中心申请一年。目前待处理的并网申请已可能使全国服务器容量增加十倍。"
               },
               {
                 "t": "p",
-                "x": "据两名以匿名为条件接受 The Associated Press 采访的前政府官员透露，商务部下属独立部门 Center for Advancing Innovation and Standards for Super Intelligence（CAISSI）的官员最近被要求以非正式方式向白宫一个办公室汇报。"
+                "x": "挪威现有800 MW（兆瓦）的数据中心容量，但已有4,200 MW的新项目获得规划许可，另有9100 MW正等待审批。Statnett警告称，已在推进的项目将使全国电力需求在目前25,000 MW的基础上增加50%。"
               },
               {
                 "t": "p",
-                "x": "一些批评者担心，行政部门可能将决策政治化，该中心的研究结果可能为迁就科技行业而被修改或淡化。另一些人则认为，让 AI 安全官员更靠近唐纳德·特朗普总统，可能提升该部门的地位，或许还能带来更多经费。"
+                "x": "数字化大臣托尔盖尔·米凯尔森周一表示，暂停一年让政府有时间“更好地掌控数据中心的增长，确保我们得到真正需要的数据中心”。"
               },
               {
                 "t": "p",
-                "x": "该中心直到最近还名为 U.S. Center for AI Standards and Innovation，每年获拨 $10 million 经费。4月，其主任上任数日即遭解雇；继任者几个月后辞职。8月，国会开始追问该中心为何停止公开其 AI 系统报告。"
+                "x": "政府在声明中表示，奥斯陆正在规划数据中心许可制度——效仿布鲁塞尔判断哪些项目是“好”项目的类似做法——并在考虑国有制度。据公共广播公司NRK报道，加密货币挖矿项目将被视为对社会有害。"
               },
               {
                 "t": "p",
-                "x": "白宫未回应有关 CAISSI 的具体问题，但表示特朗普已正式成立新的 Super Intelligence Force，并将确保“为美国人民的利益，延续 U.S. 在 SI 领域的领导地位”。"
+                "x": "不过，电网运营商的这一紧急刹车并不禁止数据中心燃烧这个石油资源丰富国家所产的天然气自行发电。"
+              },
+              {
+                "t": "p",
+                "x": "挪威只是最新一个抵制数据中心的欧洲国家。例如，丹麦已将数据中心排到电网接入队列末尾，位于医院、汽车充电站和家庭之后。葡萄牙则要求运营商投资新的可再生能源产能，为新的服务器集群供电。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Personal del centro de seguridad\nde AI informa a la Casa Blanca",
-          "body": "Dos exfuncionarios dicen a AP que se pidió al equipo de CAISSI reportar informalmente a una oficina de la Casa Blanca.",
-          "mini_headline": "El personal de CAISSI informa a la Casa Blanca",
+          "headline": "Noruega congela la conexión\nde nuevos centros de datos",
+          "body": "Statnett suspendió por un año las conexiones de centros de datos mientras Noruega crea un sistema de licencias.",
+          "mini_headline": "Noruega frena la conexión de centros de datos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-09-29T195100Z_634815528_RC26TNA0Q5X1_RTRMADP_3_USA-TRUMP-1024x683.jpg",
-                "cap": "El presidente de US, Donald Trump, en el lanzamiento de America.gov"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2249621507-1182x788.jpg",
+                "cap": "Una mujer sostiene una pancarta de protesta contra un proyecto local de centro de datos [Jim West/UCG/Universal Images Group via Getty Images]"
               },
               {
                 "t": "p",
-                "x": "Con la creciente inquietud pública por los numerosos informes sobre agentes de AI fuera de control, la pequeña división del gobierno de U.S. encargada de evaluar la seguridad de los nuevos productos de AI carece de un líder permanente y ha dejado de publicar sus investigaciones."
+                "x": "Las solicitudes de centros de datos quedan suspendidas durante un año, según anunció el operador noruego de la red de alta tensión, Statnett, cuando las peticiones de conexión pendientes ya amenazan con multiplicar por diez la capacidad de servidores en todo el país."
               },
               {
                 "t": "p",
-                "x": "A los responsables del Center for Advancing Innovation and Standards for Super Intelligence, o CAISSI, una división independiente del Departamento de Comercio, se les pidió recientemente que informaran de manera informal a una oficina de la Casa Blanca, según dos exfuncionarios que hablaron con The Associated Press bajo condición de anonimato."
+                "x": "Noruega cuenta con 800 megavatios (MW) de capacidad de centros de datos, pero 4,200 MW de nuevos proyectos ya tienen permiso de planificación y otros 9100 MW esperan aprobación. Los proyectos ya en marcha elevarían en un 50% la demanda eléctrica del país desde los 25,000 MW actuales, advirtió Statnett."
               },
               {
                 "t": "p",
-                "x": "Algunos críticos temen que el poder ejecutivo esté politizando las decisiones y que los hallazgos del centro puedan alterarse o silenciarse por deferencia a la industria tecnológica. Otros sostienen que acercar a los responsables de seguridad de AI al presidente Donald Trump podría dar más protagonismo a la división, y quizá más fondos."
+                "x": "La pausa de un año da al Gobierno tiempo “para ganar más control sobre el crecimiento de los centros de datos y asegurarnos de tener los centros de datos que realmente necesitamos”, dijo el lunes el ministro de Digitalización, Torgeir Micaelsen."
               },
               {
                 "t": "p",
-                "x": "El centro, llamado hasta hace poco U.S. Center for AI Standards and Innovation, recibe 10 millones de dólares al año. En abril su director fue contratado y despedido a los pocos días; su sustituto dimitió a los pocos meses. En agosto, el Congreso empezó a preguntar por qué dejó de publicar sus informes sobre sistemas de AI."
+                "x": "Oslo planea un régimen de licencias para centros de datos —en línea con iniciativas similares en Bruselas para decidir qué proyectos son ‘buenos’— y estudia un sistema de propiedad estatal, señaló el Gobierno en un comunicado. Los proyectos de minería de criptomonedas se considerarán socialmente perjudiciales, informa la cadena pública NRK."
               },
               {
                 "t": "p",
-                "x": "La Casa Blanca no respondió a preguntas concretas sobre CAISSI, pero dijo que Trump había creado formalmente su nueva Super Intelligence Force y que garantizará \"el liderazgo continuo de U.S. en SI en beneficio del pueblo estadounidense\"."
+                "x": "Sin embargo, el freno de emergencia del operador de la red no impide que los centros de datos generen su propia electricidad quemando gas producido en este país rico en petróleo."
+              },
+              {
+                "t": "p",
+                "x": "Noruega es solo el último país europeo en frenar a los centros de datos. Dinamarca, por ejemplo, los ha relegado al final de la cola de acceso a la red, por detrás de hospitales, estaciones de carga de coches y hogares. Portugal exige a los operadores invertir en nueva capacidad de energía renovable para abastecer a las nuevas granjas de servidores."
               }
             ]
           }
@@ -223,141 +247,157 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 안전센터 직원들\n백악관에 보고한다",
-          "body": "전직 관리 둘은 AP에 CAISSI 직원이 백악관 비공식 보고를 요청받았다고 했다.",
-          "mini_headline": "CAISSI 직원, 백악관에 보고",
+          "headline": "노르웨이, 신규 데이터센터\n전력망 접속 보류",
+          "body": "Statnett이 허가제 마련까지 데이터센터 신규 접속 신청을 1년간 막았다.",
+          "mini_headline": "노르웨이, 데이터센터 접속 중단",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-09-29T195100Z_634815528_RC26TNA0Q5X1_RTRMADP_3_USA-TRUMP-1024x683.jpg",
-                "cap": "America.gov 출범 행사에 참석한 도널드 트럼프 US 대통령"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2249621507-1182x788.jpg",
+                "cap": "지역 데이터센터 개발에 반대하는 팻말을 든 여성 [Jim West/UCG/Universal Images Group via Getty Images]"
               },
               {
                 "t": "p",
-                "x": "통제를 벗어난 AI 에이전트에 관한 보도가 잇따르며 대중의 불안이 커지는 가운데, 새 AI 서비스의 안전성 평가를 맡은 작은 U.S. 정부 부서는 상임 책임자 없이 연구 결과 공개도 멈췄다."
+                "x": "노르웨이 고압 송전망 운영사 Statnett이 데이터센터 접속 신청을 1년간 중단한다고 발표했다. 이미 접수된 접속 요청만으로도 전국 서버 용량이 열 배로 늘어날 수 있는 상황이다."
               },
               {
                 "t": "p",
-                "x": "익명을 조건으로 The Associated Press와 인터뷰한 전직 정부 관리 두 명에 따르면, 상무부 산하 독립 부서인 초지능 혁신·표준 센터(Center for Advancing Innovation and Standards for Super Intelligence, CAISSI)의 관계자들은 최근 백악관의 한 부서에 비공식적으로 보고하라는 요청을 받았다."
+                "x": "노르웨이의 데이터센터 용량은 800메가와트(MW)다. 그러나 이미 4,200MW 규모의 신규 프로젝트가 계획 허가를 받았고, 9100MW가 추가로 승인을 기다리고 있다. Statnett은 이미 추진 중인 프로젝트만으로도 국내 전력 수요가 현재 25,000MW에서 50% 늘어날 것이라고 경고했다."
               },
               {
                 "t": "p",
-                "x": "일부 비판론자들은 행정부가 결정을 정치화하고, 센터의 연구 결과가 기술 업계를 의식해 수정되거나 묻힐 수 있다고 우려한다. 반면 AI 안전 담당자들을 도널드 트럼프 대통령 가까이 두면 이 부서의 위상이 높아지고, 어쩌면 예산도 늘어날 수 있다는 의견도 있다."
+                "x": "토르게이르 미카엘센 디지털화 장관은 월요일 이번 1년 유예로 정부가 “데이터센터 증가를 더 잘 통제하고, 우리가 실제로 필요한 데이터센터를 확보할” 시간을 얻게 됐다고 말했다."
               },
               {
                 "t": "p",
-                "x": "최근까지 U.S. Center for AI Standards and Innovation으로 불린 이 센터에는 매년 $10 million 의 예산이 배정된다. 4월에는 센터장이 채용된 지 며칠 만에 해고됐고, 후임자는 몇 달 만에 물러났다. 8월에는 의회가 이 센터가 AI 시스템 보고서 공개를 왜 중단했는지 묻기 시작했다."
+                "x": "정부는 성명에서 오슬로가 데이터센터 허가 제도를 계획하고 있으며 국가 소유 방식도 검토 중이라고 밝혔다. 어떤 프로젝트가 ‘좋은’ 것인지 가리려는 브뤼셀의 움직임과 닮은 구상이다. 공영방송 NRK에 따르면 암호화폐 채굴 사업은 사회적으로 해로운 것으로 간주된다."
               },
               {
                 "t": "p",
-                "x": "백악관은 CAISSI에 관한 구체적 질문에는 답하지 않았지만, 트럼프가 새 초지능군(Super Intelligence Force)을 공식 창설했으며 \"미국 국민의 이익을 위해 SI 분야에서 U.S.의 리더십을 계속 이어 가도록\" 하겠다고 밝혔다."
+                "x": "다만 송전망 운영사의 이번 긴급 제동이 데이터센터가 석유 부국인 노르웨이에서 생산된 가스를 태워 자체 전력을 만드는 것까지 막지는 않는다."
+              },
+              {
+                "t": "p",
+                "x": "데이터센터에 제동을 건 유럽 국가는 노르웨이가 처음이 아니다. 덴마크는 데이터센터를 병원, 전기차 충전소, 가정보다 뒤로 미뤄 전력망 접속 대기열 맨 끝에 세웠다. 포르투갈은 운영사가 새 서버 팜에 전력을 대기 위해 신규 재생에너지 설비에 투자하도록 요구하고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI安全センター職員\nホワイトハウスに報告",
-          "body": "元当局者二人はAPに、CAISSI職員がホワイトハウスへの非公式報告を求められたと語った。",
-          "mini_headline": "CAISSI職員がホワイトハウスに報告",
+          "headline": "ノルウェー、新規の\nデータセンター接続を凍結",
+          "body": "Statnettは許可制度の策定中、データセンターの新規接続申請を一年間凍結した。",
+          "mini_headline": "ノルウェー、データセンター接続を停止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-09-29T195100Z_634815528_RC26TNA0Q5X1_RTRMADP_3_USA-TRUMP-1024x683.jpg",
-                "cap": "America.gov の立ち上げ式に臨むドナルド・トランプ US 大統領"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2249621507-1182x788.jpg",
+                "cap": "地元のデータセンター開発に反対するプラカードを掲げる女性 [Jim West/UCG/Universal Images Group via Getty Images]"
               },
               {
                 "t": "p",
-                "x": "制御不能に陥ったAIエージェントをめぐる報道が相次ぎ、市民の不安が高まるなか、新たなAIサービスの安全性評価を担う小さな U.S. 政府部門は、常任のトップを欠き、研究成果の公表も止めている。"
+                "x": "ノルウェーの高圧送電網運営会社Statnettは、データセンターの接続申請を一年間停止すると発表した。すでに出ている接続申請だけで、国内のサーバー容量が十倍に膨らむおそれがある。"
               },
               {
                 "t": "p",
-                "x": "匿名を条件に The Associated Press の取材に応じた元政府当局者二人によると、商務省の独立部門である Center for Advancing Innovation and Standards for Super Intelligence(CAISSI)の職員は最近、ホワイトハウスの一部署に非公式に報告するよう求められた。"
+                "x": "ノルウェーのデータセンター容量は800メガワット(MW)だが、すでに4,200MW分の新規計画が建設許可を得ており、さらに9100MWが承認待ちとなっている。Statnettは、すでに進行中の計画だけで国内の電力需要が現在の25,000MWから50%増えると警告した。"
               },
               {
                 "t": "p",
-                "x": "批判派の一部は、行政府が判断を政治化し、センターの調査結果がテック業界に配慮して改変されたり伏せられたりしかねないと懸念する。一方、AI安全担当者をドナルド・トランプ大統領に近づけることで、この部門の存在感が増し、予算も増える可能性があるとの見方もある。"
+                "x": "トルゲイル・ミカエルセン・デジタル化担当相は月曜日、一年間の停止によって政府は「データセンターの拡大をよりよく管理し、本当に必要なデータセンターを確保する」時間を得ると述べた。"
               },
               {
                 "t": "p",
-                "x": "このセンターは最近まで U.S. Center for AI Standards and Innovation と呼ばれ、年間 $10 million の予算が割り当てられている。4月には所長が採用から数日で解任され、後任も数カ月で辞任した。8月には議会が、AIシステムに関する報告書の公表をなぜやめたのか問い始めた。"
+                "x": "政府は声明で、オスロがデータセンターの許可制度を計画しており、国有化の仕組みも検討していると明らかにした。どの計画が「良い」かを見極めようとするブリュッセルの取り組みに倣うものだ。公共放送NRKによると、暗号資産のマイニング事業は社会的に有害とみなされる。"
               },
               {
                 "t": "p",
-                "x": "ホワイトハウスは CAISSI に関する具体的な質問には答えなかったが、トランプ氏が新設の Super Intelligence Force を正式に発足させたとし、「米国民の利益のため、SI における U.S. の主導的地位を維持する」と述べた。"
+                "x": "ただし、送電網運営会社によるこの緊急ブレーキは、産油国であるノルウェーで産出されるガスを燃やしてデータセンターが自家発電することまでは禁じていない。"
+              },
+              {
+                "t": "p",
+                "x": "データセンターに歯止めをかける欧州の国はノルウェーが初めてではない。例えばデンマークは、データセンターを病院や電気自動車の充電ステーション、家庭の後ろに回し、送電網接続の順番待ちの最後尾に置いた。ポルトガルは、新たなサーバーファームの電力をまかなうため、事業者に新規の再生可能エネルギー設備への投資を求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI安全中心员工\n被要求向白宫汇报",
-          "body": "两名前官员向AP透露，CAISSI员工被要求以非正式方式向白宫一个办公室汇报。",
-          "mini_headline": "CAISSI员工向白宫汇报",
+          "headline": "挪威暂停新数据中心\n接入电网",
+          "body": "挪威制定许可制度期间，Statnett将新数据中心的并网申请冻结一年。",
+          "mini_headline": "挪威暂停数据中心并网",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-09-29T195100Z_634815528_RC26TNA0Q5X1_RTRMADP_3_USA-TRUMP-1024x683.jpg",
-                "cap": "US总统唐纳德·特朗普出席 America.gov 上线活动"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2249621507-1182x788.jpg",
+                "cap": "一名女子手持标语，抗议当地的数据中心开发项目 [Jim West/UCG/Universal Images Group via Getty Images]"
               },
               {
                 "t": "p",
-                "x": "失控 AI 智能体的报道不断增多，公众焦虑日益加剧，而负责评估新 AI 产品安全性的小型 U.S. 政府部门却没有常任负责人，也已停止发布研究成果。"
+                "x": "挪威高压电网运营商Statnett宣布，暂停受理数据中心申请一年。目前待处理的并网申请已可能使全国服务器容量增加十倍。"
               },
               {
                 "t": "p",
-                "x": "据两名以匿名为条件接受 The Associated Press 采访的前政府官员透露，商务部下属独立部门 Center for Advancing Innovation and Standards for Super Intelligence（CAISSI）的官员最近被要求以非正式方式向白宫一个办公室汇报。"
+                "x": "挪威现有800 MW（兆瓦）的数据中心容量，但已有4,200 MW的新项目获得规划许可，另有9100 MW正等待审批。Statnett警告称，已在推进的项目将使全国电力需求在目前25,000 MW的基础上增加50%。"
               },
               {
                 "t": "p",
-                "x": "一些批评者担心，行政部门可能将决策政治化，该中心的研究结果可能为迁就科技行业而被修改或淡化。另一些人则认为，让 AI 安全官员更靠近唐纳德·特朗普总统，可能提升该部门的地位，或许还能带来更多经费。"
+                "x": "数字化大臣托尔盖尔·米凯尔森周一表示，暂停一年让政府有时间“更好地掌控数据中心的增长，确保我们得到真正需要的数据中心”。"
               },
               {
                 "t": "p",
-                "x": "该中心直到最近还名为 U.S. Center for AI Standards and Innovation，每年获拨 $10 million 经费。4月，其主任上任数日即遭解雇；继任者几个月后辞职。8月，国会开始追问该中心为何停止公开其 AI 系统报告。"
+                "x": "政府在声明中表示，奥斯陆正在规划数据中心许可制度——效仿布鲁塞尔判断哪些项目是“好”项目的类似做法——并在考虑国有制度。据公共广播公司NRK报道，加密货币挖矿项目将被视为对社会有害。"
               },
               {
                 "t": "p",
-                "x": "白宫未回应有关 CAISSI 的具体问题，但表示特朗普已正式成立新的 Super Intelligence Force，并将确保“为美国人民的利益，延续 U.S. 在 SI 领域的领导地位”。"
+                "x": "不过，电网运营商的这一紧急刹车并不禁止数据中心燃烧这个石油资源丰富国家所产的天然气自行发电。"
+              },
+              {
+                "t": "p",
+                "x": "挪威只是最新一个抵制数据中心的欧洲国家。例如，丹麦已将数据中心排到电网接入队列末尾，位于医院、汽车充电站和家庭之后。葡萄牙则要求运营商投资新的可再生能源产能，为新的服务器集群供电。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Personal del centro de seguridad\nde AI informa a la Casa Blanca",
-          "body": "Dos exfuncionarios dicen a AP que se pidió al equipo de CAISSI reportar informalmente a una oficina de la Casa Blanca.",
-          "mini_headline": "El personal de CAISSI informa a la Casa Blanca",
+          "headline": "Noruega congela la conexión\nde nuevos centros de datos",
+          "body": "Statnett suspendió por un año las conexiones de centros de datos mientras Noruega crea un sistema de licencias.",
+          "mini_headline": "Noruega frena la conexión de centros de datos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-09-29T195100Z_634815528_RC26TNA0Q5X1_RTRMADP_3_USA-TRUMP-1024x683.jpg",
-                "cap": "El presidente de US, Donald Trump, en el lanzamiento de America.gov"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2249621507-1182x788.jpg",
+                "cap": "Una mujer sostiene una pancarta de protesta contra un proyecto local de centro de datos [Jim West/UCG/Universal Images Group via Getty Images]"
               },
               {
                 "t": "p",
-                "x": "Con la creciente inquietud pública por los numerosos informes sobre agentes de AI fuera de control, la pequeña división del gobierno de U.S. encargada de evaluar la seguridad de los nuevos productos de AI carece de un líder permanente y ha dejado de publicar sus investigaciones."
+                "x": "Las solicitudes de centros de datos quedan suspendidas durante un año, según anunció el operador noruego de la red de alta tensión, Statnett, cuando las peticiones de conexión pendientes ya amenazan con multiplicar por diez la capacidad de servidores en todo el país."
               },
               {
                 "t": "p",
-                "x": "A los responsables del Center for Advancing Innovation and Standards for Super Intelligence, o CAISSI, una división independiente del Departamento de Comercio, se les pidió recientemente que informaran de manera informal a una oficina de la Casa Blanca, según dos exfuncionarios que hablaron con The Associated Press bajo condición de anonimato."
+                "x": "Noruega cuenta con 800 megavatios (MW) de capacidad de centros de datos, pero 4,200 MW de nuevos proyectos ya tienen permiso de planificación y otros 9100 MW esperan aprobación. Los proyectos ya en marcha elevarían en un 50% la demanda eléctrica del país desde los 25,000 MW actuales, advirtió Statnett."
               },
               {
                 "t": "p",
-                "x": "Algunos críticos temen que el poder ejecutivo esté politizando las decisiones y que los hallazgos del centro puedan alterarse o silenciarse por deferencia a la industria tecnológica. Otros sostienen que acercar a los responsables de seguridad de AI al presidente Donald Trump podría dar más protagonismo a la división, y quizá más fondos."
+                "x": "La pausa de un año da al Gobierno tiempo “para ganar más control sobre el crecimiento de los centros de datos y asegurarnos de tener los centros de datos que realmente necesitamos”, dijo el lunes el ministro de Digitalización, Torgeir Micaelsen."
               },
               {
                 "t": "p",
-                "x": "El centro, llamado hasta hace poco U.S. Center for AI Standards and Innovation, recibe 10 millones de dólares al año. En abril su director fue contratado y despedido a los pocos días; su sustituto dimitió a los pocos meses. En agosto, el Congreso empezó a preguntar por qué dejó de publicar sus informes sobre sistemas de AI."
+                "x": "Oslo planea un régimen de licencias para centros de datos —en línea con iniciativas similares en Bruselas para decidir qué proyectos son ‘buenos’— y estudia un sistema de propiedad estatal, señaló el Gobierno en un comunicado. Los proyectos de minería de criptomonedas se considerarán socialmente perjudiciales, informa la cadena pública NRK."
               },
               {
                 "t": "p",
-                "x": "La Casa Blanca no respondió a preguntas concretas sobre CAISSI, pero dijo que Trump había creado formalmente su nueva Super Intelligence Force y que garantizará \"el liderazgo continuo de U.S. en SI en beneficio del pueblo estadounidense\"."
+                "x": "Sin embargo, el freno de emergencia del operador de la red no impide que los centros de datos generen su propia electricidad quemando gas producido en este país rico en petróleo."
+              },
+              {
+                "t": "p",
+                "x": "Noruega es solo el último país europeo en frenar a los centros de datos. Dinamarca, por ejemplo, los ha relegado al final de la cola de acceso a la red, por detrás de hospitales, estaciones de carga de coches y hogares. Portugal exige a los operadores invertir en nueva capacidad de energía renovable para abastecer a las nuevas granjas de servidores."
               }
             ]
           }
@@ -365,427 +405,15 @@
       }
     },
     {
-      "id": "laws-treaty-russia-us-block",
+      "id": "politics-eu-aiact-authorities-16",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "러시아·US, 구속력 있는\nAI 무기 규칙 막는다",
-      "body": "러시아·US가 이달 UN 회의에서 구속력 있는 자율무기 규칙 협상을 막으려 한다.",
-      "mini_headline": "AI 무기 규칙 저지 시도",
+      "headline": "EU 16개국, AI법\n집행기관 기한 놓쳐",
+      "body": "EU 16개국이 AI법 집행기관 지정 기한을 넘겼다고 집행위가 확인했다.",
+      "mini_headline": "EU 16개국, AI법 기한 놓쳐",
       "tool": "Politics",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/06/autonomous-weapons-ai-russia-us-binding-rules",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=700&dpr=2&s=none&crop=none",
-            "cap": "이란의 파손된 학교 건물 밖에 놓인 아이들의 사진"
-          },
-          {
-            "t": "p",
-            "x": "러시아와 미국(US)이 이끄는 국가 그룹이 이달 UN 회의를 이용해 법적 구속력 있는 규칙 협상 제안을 막으려 한다. 자율무기 글로벌 거버넌스의 공백을 메우려던 계획이 흔들린다."
-          },
-          {
-            "t": "p",
-            "x": "제네바에서 열리는 '특정 재래식 무기'에 관한 일곱 번째 검토회의에는 11월 16일부터 20일까지 128개국이 참석할 예정이다. 러시아, 미국(US), 이스라엘 등은 회의가 법적 구속력 있는 문서의 일정표를 정하는 데 반대한다."
-          },
-          {
-            "t": "p",
-            "x": "Future of Life Institute의 안나 헤히르(Anna Hehir)는 \"각국이 AI 무기에 관한 국제 협약 출범에 이토록 가까이 다가선 적은 없었다\"고 말했다. 교황 Leo XIV는 AI가 \"무장 해제\"돼야 한다며 치명적 자율무기 금지 쪽으로 움직이라고 각국에 촉구했다."
-          },
-          {
-            "t": "img",
-            "src": "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_0_3036_2429/master/3036.jpg?width=620&dpr=2&s=none&crop=none",
-            "cap": "브란덴부르크 문 근처의 대형 로봇 모형과 흰 작업복 차림의 사람들"
-          },
-          {
-            "t": "p",
-            "x": "10월 22일 아일랜드, 이탈리아, 브라질, 멕시코, 프랑스, 독일 등 50개국 연합은 엄격한 협상 권한을 요구했다. 영국(UK)은 아일랜드 성명을 지지하지 않았다. 미국(US)은 대체로 국제인도법 안에서 각국이 알아서 통제하도록 두는 편을 선호한다."
-          },
-          {
-            "t": "p",
-            "x": "UN 군축위원회 표결에서는 163개국이 협상을 시작할 준비가 됐다는 쪽에 찬성했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Russia and US seek to block\nbinding AI weapons rules",
-          "body": "Russia and the US seek to use this month's UN conference to block talks on binding autonomous weapons rules.",
-          "mini_headline": "Bid to block AI weapons rules",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=700&dpr=2&s=none&crop=none",
-                "cap": "Portraits of children outside a damaged school building in Iran"
-              },
-              {
-                "t": "p",
-                "x": "Plans to fill a gap in the global governance of autonomous weapons are in jeopardy as a group of nations led by Russia and the US move to use a UN conference this month to block proposals to negotiate a legally binding set of rules."
-              },
-              {
-                "t": "p",
-                "x": "The seventh review conference on \"certain conventional weapons\" in Geneva is due to be attended by 128 countries from 16 to 20 November. Russia, the US and Israel, among others, are pushing against it setting a timetable for a legally binding instrument."
-              },
-              {
-                "t": "p",
-                "x": "Anna Hehir of the Future of Life Institute said: \"States have never been closer to launching a global agreement on AI weapons.\" Pope Leo XIV said AI must be \"disarmed\" and urged states to take steps toward banning lethal autonomous weapons."
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_0_3036_2429/master/3036.jpg?width=620&dpr=2&s=none&crop=none",
-                "cap": "A large model of a robot and people in white overalls near the Brandenburg Gate"
-              },
-              {
-                "t": "p",
-                "x": "On 22 October, a coalition of 50 states including Ireland, Italy, Brazil, Mexico, France and Germany called for a strict negotiating mandate. The UK did not back the Irish statement. The US largely favours leaving it to nation states to impose their controls in line with international humanitarian law."
-              },
-              {
-                "t": "p",
-                "x": "A total of 163 states voted at the UN disarmament committee that they were ready to launch negotiations."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "러시아·US, 구속력 있는\nAI 무기 규칙 막는다",
-          "body": "러시아·US가 이달 UN 회의에서 구속력 있는 자율무기 규칙 협상을 막으려 한다.",
-          "mini_headline": "AI 무기 규칙 저지 시도",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=700&dpr=2&s=none&crop=none",
-                "cap": "이란의 파손된 학교 건물 밖에 놓인 아이들의 사진"
-              },
-              {
-                "t": "p",
-                "x": "러시아와 미국(US)이 이끄는 국가 그룹이 이달 UN 회의를 이용해 법적 구속력 있는 규칙 협상 제안을 막으려 한다. 자율무기 글로벌 거버넌스의 공백을 메우려던 계획이 흔들린다."
-              },
-              {
-                "t": "p",
-                "x": "제네바에서 열리는 '특정 재래식 무기'에 관한 일곱 번째 검토회의에는 11월 16일부터 20일까지 128개국이 참석할 예정이다. 러시아, 미국(US), 이스라엘 등은 회의가 법적 구속력 있는 문서의 일정표를 정하는 데 반대한다."
-              },
-              {
-                "t": "p",
-                "x": "Future of Life Institute의 안나 헤히르(Anna Hehir)는 \"각국이 AI 무기에 관한 국제 협약 출범에 이토록 가까이 다가선 적은 없었다\"고 말했다. 교황 Leo XIV는 AI가 \"무장 해제\"돼야 한다며 치명적 자율무기 금지 쪽으로 움직이라고 각국에 촉구했다."
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_0_3036_2429/master/3036.jpg?width=620&dpr=2&s=none&crop=none",
-                "cap": "브란덴부르크 문 근처의 대형 로봇 모형과 흰 작업복 차림의 사람들"
-              },
-              {
-                "t": "p",
-                "x": "10월 22일 아일랜드, 이탈리아, 브라질, 멕시코, 프랑스, 독일 등 50개국 연합은 엄격한 협상 권한을 요구했다. 영국(UK)은 아일랜드 성명을 지지하지 않았다. 미국(US)은 대체로 국제인도법 안에서 각국이 알아서 통제하도록 두는 편을 선호한다."
-              },
-              {
-                "t": "p",
-                "x": "UN 군축위원회 표결에서는 163개국이 협상을 시작할 준비가 됐다는 쪽에 찬성했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ロシアとUS、拘束力ある\nAI兵器規制の阻止狙う",
-          "body": "ロシアとUSは今月のUN会議を使い、自律型兵器の拘束力ある規則の交渉を阻もうとしている。",
-          "mini_headline": "AI兵器規制の阻止へ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=700&dpr=2&s=none&crop=none",
-                "cap": "イランで損壊した校舎の外に並ぶ子どもたちの肖像"
-              },
-              {
-                "t": "p",
-                "x": "ロシアと米国(US)が主導する国々が今月の UN 会議を利用し、法的拘束力のある規則の交渉提案を阻止しようとしており、自律型兵器のグローバル・ガバナンスの空白を埋める計画が危うくなっている。"
-              },
-              {
-                "t": "p",
-                "x": "ジュネーブで開かれる「特定通常兵器」に関する第七回再検討会議には、11月16日から20日まで128カ国が出席する予定だ。ロシア、米国(US)、イスラエルなどは、会議が法的拘束力のある文書の工程表を定めることに反対している。"
-              },
-              {
-                "t": "p",
-                "x": "Future of Life Institute のアンナ・ヘヒル(Anna Hehir)氏は「各国がAI兵器に関する国際合意の立ち上げにこれほど近づいたことはない」と述べた。教皇 Leo XIV は、AIは「武装解除」されなければならないと述べ、致死性自律型兵器の禁止に向けた措置を各国に促した。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_0_3036_2429/master/3036.jpg?width=620&dpr=2&s=none&crop=none",
-                "cap": "ブランデンブルク門近くの巨大なロボット模型と白いつなぎ姿の人々"
-              },
-              {
-                "t": "p",
-                "x": "10月22日、アイルランド、イタリア、ブラジル、メキシコ、フランス、ドイツを含む50カ国の連合が厳格な交渉マンデートを求めた。英国(UK)はアイルランドの声明を支持しなかった。米国(US)は概して、国際人道法に沿った規制を各国に委ねることを好んでいる。"
-              },
-              {
-                "t": "p",
-                "x": "UN 軍縮委員会では計163カ国が、交渉を始める用意があるとする票を投じた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "俄罗斯和US寻求阻止\n具约束力的AI武器规则",
-          "body": "俄罗斯和US欲借本月UN会议，阻止就具约束力的自主武器规则展开谈判。",
-          "mini_headline": "阻止AI武器规则",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=700&dpr=2&s=none&crop=none",
-                "cap": "伊朗一所受损校舍外的儿童肖像"
-              },
-              {
-                "t": "p",
-                "x": "以俄罗斯和美国（US）为首的一批国家欲利用本月的 UN 会议，阻止就一套具有法律约束力的规则展开谈判的提议，填补自主武器全球治理空白的计划因此岌岌可危。"
-              },
-              {
-                "t": "p",
-                "x": "定于11月16日至20日在日内瓦举行的“特定常规武器”第七届审议大会将有128个国家出席。俄罗斯、美国（US）和以色列等国反对大会为一项具有法律约束力的文书设定时间表。"
-              },
-              {
-                "t": "p",
-                "x": "Future of Life Institute 的安娜·赫希尔（Anna Hehir）表示：“各国从未如此接近启动一项关于 AI 武器的全球协议。”教皇 Leo XIV 表示，AI 必须被“解除武装”，并敦促各国采取措施，迈向禁止致命性自主武器。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_0_3036_2429/master/3036.jpg?width=620&dpr=2&s=none&crop=none",
-                "cap": "勃兰登堡门附近的大型机器人模型和身穿白色工作服的人们"
-              },
-              {
-                "t": "p",
-                "x": "10月22日，包括爱尔兰、意大利、巴西、墨西哥、法国和德国在内的50个国家组成的联盟呼吁设立严格的谈判授权。英国（UK）没有支持爱尔兰的声明。美国（US）总体上倾向于让各国按照国际人道法自行实施管控。"
-              },
-              {
-                "t": "p",
-                "x": "在 UN 裁军委员会上，共有163个国家投票表示已准备好启动谈判。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Rusia y US buscan bloquear\nnormas vinculantes de armas AI",
-          "body": "Rusia y US buscan frenar en la cita de la UN de este mes la negociación de normas vinculantes sobre armas autónomas.",
-          "mini_headline": "Intento de frenar normas sobre armas AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=700&dpr=2&s=none&crop=none",
-                "cap": "Retratos de niños frente a un edificio escolar dañado en Irán"
-              },
-              {
-                "t": "p",
-                "x": "Los planes para llenar un vacío en la gobernanza mundial de las armas autónomas están en peligro, ya que un grupo de países encabezado por Rusia y Estados Unidos (US) pretende usar una conferencia de la UN este mes para bloquear las propuestas de negociar un conjunto de normas jurídicamente vinculantes."
-              },
-              {
-                "t": "p",
-                "x": "A la séptima conferencia de examen sobre \"ciertas armas convencionales\", en Ginebra, está previsto que asistan 128 países del 16 al 20 de noviembre. Rusia, Estados Unidos (US) e Israel, entre otros, se oponen a que fije un calendario para un instrumento jurídicamente vinculante."
-              },
-              {
-                "t": "p",
-                "x": "Anna Hehir, del Future of Life Institute, dijo: \"Los Estados nunca han estado tan cerca de lanzar un acuerdo mundial sobre armas de AI\". El papa Leo XIV dijo que la AI debe ser \"desarmada\" e instó a los Estados a dar pasos hacia la prohibición de las armas autónomas letales."
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_0_3036_2429/master/3036.jpg?width=620&dpr=2&s=none&crop=none",
-                "cap": "Una gran maqueta de un robot y personas con trajes de trabajo blancos cerca de la Puerta de Brandeburgo"
-              },
-              {
-                "t": "p",
-                "x": "El 22 de octubre, una coalición de 50 Estados, entre ellos Irlanda, Italia, Brasil, México, Francia y Alemania, pidió un mandato de negociación estricto. El Reino Unido (UK) no respaldó la declaración irlandesa. Estados Unidos (US) prefiere en general dejar que cada Estado imponga sus propios controles conforme al derecho internacional humanitario."
-              },
-              {
-                "t": "p",
-                "x": "Un total de 163 Estados votaron en la comisión de desarme de la UN que estaban listos para iniciar negociaciones."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "러시아·US, 구속력 있는\nAI 무기 규칙 막는다",
-          "body": "러시아·US가 이달 UN 회의에서 구속력 있는 자율무기 규칙 협상을 막으려 한다.",
-          "mini_headline": "AI 무기 규칙 저지 시도",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=700&dpr=2&s=none&crop=none",
-                "cap": "이란의 파손된 학교 건물 밖에 놓인 아이들의 사진"
-              },
-              {
-                "t": "p",
-                "x": "러시아와 미국(US)이 이끄는 국가 그룹이 이달 UN 회의를 이용해 법적 구속력 있는 규칙 협상 제안을 막으려 하면서, 자율무기 글로벌 거버넌스의 공백을 메우려는 계획이 위태로워졌다."
-              },
-              {
-                "t": "p",
-                "x": "제네바에서 열리는 '특정 재래식 무기'에 관한 일곱 번째 검토회의에는 11월 16일부터 20일까지 128개국이 참석할 예정이다. 러시아, 미국(US), 이스라엘 등은 회의가 법적 구속력 있는 문서의 일정표를 정하는 데 반대하고 있다."
-              },
-              {
-                "t": "p",
-                "x": "Future of Life Institute의 안나 헤히르(Anna Hehir)는 \"각국이 AI 무기에 관한 국제 협약 출범에 이토록 가까이 다가선 적은 없었다\"고 말했다. 교황 Leo XIV는 AI가 \"무장 해제\"돼야 한다며 각국에 치명적 자율무기 금지를 향한 조치를 촉구했다."
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_0_3036_2429/master/3036.jpg?width=620&dpr=2&s=none&crop=none",
-                "cap": "브란덴부르크 문 근처의 대형 로봇 모형과 흰 작업복 차림의 사람들"
-              },
-              {
-                "t": "p",
-                "x": "10월 22일 아일랜드, 이탈리아, 브라질, 멕시코, 프랑스, 독일 등 50개국 연합은 엄격한 협상 권한을 요구했다. 영국(UK)은 아일랜드 성명을 지지하지 않았다. 미국(US)은 대체로 각국이 국제인도법에 맞춰 자체 통제를 하도록 맡기는 쪽을 선호한다."
-              },
-              {
-                "t": "p",
-                "x": "UN 군축위원회에서 모두 163개국이 협상을 시작할 준비가 됐다는 데 표를 던졌다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ロシアとUS、拘束力ある\nAI兵器規制の阻止狙う",
-          "body": "ロシアとUSは今月のUN会議を使い、自律型兵器の拘束力ある規則の交渉を阻もうとしている。",
-          "mini_headline": "AI兵器規制の阻止へ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=700&dpr=2&s=none&crop=none",
-                "cap": "イランで損壊した校舎の外に並ぶ子どもたちの肖像"
-              },
-              {
-                "t": "p",
-                "x": "ロシアと米国(US)が主導する国々が今月の UN 会議を利用し、法的拘束力のある規則の交渉提案を阻止しようとしており、自律型兵器のグローバル・ガバナンスの空白を埋める計画が危うくなっている。"
-              },
-              {
-                "t": "p",
-                "x": "ジュネーブで開かれる「特定通常兵器」に関する第七回再検討会議には、11月16日から20日まで128カ国が出席する予定だ。ロシア、米国(US)、イスラエルなどは、会議が法的拘束力のある文書の工程表を定めることに反対している。"
-              },
-              {
-                "t": "p",
-                "x": "Future of Life Institute のアンナ・ヘヒル(Anna Hehir)氏は「各国がAI兵器に関する国際合意の立ち上げにこれほど近づいたことはない」と述べた。教皇 Leo XIV は、AIは「武装解除」されなければならないと述べ、致死性自律型兵器の禁止に向けた措置を各国に促した。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_0_3036_2429/master/3036.jpg?width=620&dpr=2&s=none&crop=none",
-                "cap": "ブランデンブルク門近くの巨大なロボット模型と白いつなぎ姿の人々"
-              },
-              {
-                "t": "p",
-                "x": "10月22日、アイルランド、イタリア、ブラジル、メキシコ、フランス、ドイツを含む50カ国の連合が厳格な交渉マンデートを求めた。英国(UK)はアイルランドの声明を支持しなかった。米国(US)は概して、国際人道法に沿った規制を各国に委ねることを好んでいる。"
-              },
-              {
-                "t": "p",
-                "x": "UN 軍縮委員会では計163カ国が、交渉を始める用意があるとする票を投じた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "俄罗斯和US寻求阻止\n具约束力的AI武器规则",
-          "body": "俄罗斯和US欲借本月UN会议，阻止就具约束力的自主武器规则展开谈判。",
-          "mini_headline": "阻止AI武器规则",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=700&dpr=2&s=none&crop=none",
-                "cap": "伊朗一所受损校舍外的儿童肖像"
-              },
-              {
-                "t": "p",
-                "x": "以俄罗斯和美国（US）为首的一批国家欲利用本月的 UN 会议，阻止就一套具有法律约束力的规则展开谈判的提议，填补自主武器全球治理空白的计划因此岌岌可危。"
-              },
-              {
-                "t": "p",
-                "x": "定于11月16日至20日在日内瓦举行的“特定常规武器”第七届审议大会将有128个国家出席。俄罗斯、美国（US）和以色列等国反对大会为一项具有法律约束力的文书设定时间表。"
-              },
-              {
-                "t": "p",
-                "x": "Future of Life Institute 的安娜·赫希尔（Anna Hehir）表示：“各国从未如此接近启动一项关于 AI 武器的全球协议。”教皇 Leo XIV 表示，AI 必须被“解除武装”，并敦促各国采取措施，迈向禁止致命性自主武器。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_0_3036_2429/master/3036.jpg?width=620&dpr=2&s=none&crop=none",
-                "cap": "勃兰登堡门附近的大型机器人模型和身穿白色工作服的人们"
-              },
-              {
-                "t": "p",
-                "x": "10月22日，包括爱尔兰、意大利、巴西、墨西哥、法国和德国在内的50个国家组成的联盟呼吁设立严格的谈判授权。英国（UK）没有支持爱尔兰的声明。美国（US）总体上倾向于让各国按照国际人道法自行实施管控。"
-              },
-              {
-                "t": "p",
-                "x": "在 UN 裁军委员会上，共有163个国家投票表示已准备好启动谈判。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Rusia y US buscan bloquear\nnormas vinculantes de armas AI",
-          "body": "Rusia y US buscan frenar en la cita de la UN de este mes la negociación de normas vinculantes sobre armas autónomas.",
-          "mini_headline": "Intento de frenar normas sobre armas AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=700&dpr=2&s=none&crop=none",
-                "cap": "Retratos de niños frente a un edificio escolar dañado en Irán"
-              },
-              {
-                "t": "p",
-                "x": "Los planes para llenar un vacío en la gobernanza mundial de las armas autónomas están en peligro, ya que un grupo de países encabezado por Rusia y Estados Unidos (US) pretende usar una conferencia de la UN este mes para bloquear las propuestas de negociar un conjunto de normas jurídicamente vinculantes."
-              },
-              {
-                "t": "p",
-                "x": "A la séptima conferencia de examen sobre \"ciertas armas convencionales\", en Ginebra, está previsto que asistan 128 países del 16 al 20 de noviembre. Rusia, Estados Unidos (US) e Israel, entre otros, se oponen a que fije un calendario para un instrumento jurídicamente vinculante."
-              },
-              {
-                "t": "p",
-                "x": "Anna Hehir, del Future of Life Institute, dijo: \"Los Estados nunca han estado tan cerca de lanzar un acuerdo mundial sobre armas de AI\". El papa Leo XIV dijo que la AI debe ser \"desarmada\" e instó a los Estados a dar pasos hacia la prohibición de las armas autónomas letales."
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_0_3036_2429/master/3036.jpg?width=620&dpr=2&s=none&crop=none",
-                "cap": "Una gran maqueta de un robot y personas con trajes de trabajo blancos cerca de la Puerta de Brandeburgo"
-              },
-              {
-                "t": "p",
-                "x": "El 22 de octubre, una coalición de 50 Estados, entre ellos Irlanda, Italia, Brasil, México, Francia y Alemania, pidió un mandato de negociación estricto. El Reino Unido (UK) no respaldó la declaración irlandesa. Estados Unidos (US) prefiere en general dejar que cada Estado imponga sus propios controles conforme al derecho internacional humanitario."
-              },
-              {
-                "t": "p",
-                "x": "Un total de 163 Estados votaron en la comisión de desarme de la UN que estaban listos para iniciar negociaciones."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "foster-ai-finrisk-bill",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Foster 법안의 표적\nAI-driven 금융위험",
-      "body": "민주당 Foster 법안은 규제당국의 AI-fueled 금융 압박 포착을 돕는다.",
-      "mini_headline": "AI 금융 위험 겨냥 법안",
-      "tool": "Politics",
-      "source": "Roll Call",
-      "url": "https://rollcall.com/2026/11/06/foster-bill-would-bolster-tech-use-to-monitor-ai-financial-risks/",
+      "source": "POLITICO Europe",
+      "url": "https://www.politico.eu/article/eu-countries-still-cant-get-it-together-on-ai/",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -793,203 +421,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://rollcall.com/app/uploads/2026/11/foster_BC_060_050725-2.jpg",
-            "cap": "\"갈수록 복잡해지는 금융 부문을 낡은 시스템에 기대어 감독할 여유는 없다\"고 Rep. Bill Foster(D-Ill.) 하원의원은 말했다. (Bill Clark/CQ Roll Call 자료 사진)"
+            "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/08/GettyImages-2246764807.jpg",
+            "cap": "에마뉘엘 마크롱이 2025년 11월 18일 베를린에서 투자자들에게 연설하고 있다. | Pool photo by John MacDougall via AFP/Getty Images"
           },
           {
             "t": "p",
-            "x": "하원 금융서비스위원회 민주당 중진 의원이 목요일 법안을 발의했다. 인공지능과 상시 가동되는 결제 시스템이 키우는 금융 스트레스를 규제당국이 기술로 더 잘 잡아내도록 돕는 내용이다."
+            "x": "유럽 정상들이 인공지능을 주제로 한 첫 공동 회의에서 위기감을 드러낼 채비를 하지만, 정작 각국 정부는 주요 AI 안전·인프라 목표를 지키지 못하고 있다. EU 27개국 정상은 금요일 더블린에 모인다."
           },
           {
             "t": "p",
-            "x": "Rep. Bill Foster(D-Ill.) 의원의 이 법안 초안은 연방준비제도(Federal Reserve)가 다른 규제기관과 협력해 시장 상황을 실시간으로 평가하고 사이버보안 등 여러 위협에 신속히 대응하는 능력을 높일 모델 소프트웨어를 개발·시험하고 공개하도록 요구한다."
+            "x": "16개국 수도가 EU AI 안전법을 집행할 국가 기관을 기한 안에 지정하지 못했다. 기한은 2025년 8월이었다. 집행위원회에 따르면 오스트리아, 벨기에, 불가리아, 크로아티아, 슬로바키아, 헝가리 등 여섯 나라는 아직 기관을 정하지 못했고, 나머지 10개국은 추가 채택이 필요한 잠정 결정만 내렸다."
           },
           {
             "t": "p",
-            "x": "Foster 의원은 성명에서 \"AI의 발전이 새로운 사이버보안 위협과 금융 위험을 낳고 있는 만큼, 금융기관의 건전성을 감시하는 방식을 현대화하는 일이 그 어느 때보다 중요하다\"고 밝혔다."
+            "x": "독일 녹색당 소속 유럽의회 의원 세르게이 라고딘스키는 이런 지연이 각국 신뢰를 갉아먹는다며 “스스로 정한 기한도 못 지키면서 경쟁에서 뒤처진 것을 EU 탓으로 돌리지 말라”고 말했다. POLITICO가 입수한 서한에서 그는 집행위원회에 각국을 상대로 공식 절차를 시작하라고 요청했다."
           },
           {
             "t": "p",
-            "x": "모델 소프트웨어는 은행 기록과 운영, 규제 보고, 스트레스 테스트, 자금세탁 방지와 사기 탐지, AI 위험 감시 등 여러 활동에 쓰도록 개발된다. 오픈소스로 일반에 공개해야 하고 시험은 합성 데이터나 법적으로 허용된 과거 데이터로 해야 한다."
-          },
-          {
-            "t": "p",
-            "x": "모든 소프트웨어 모델은 법 시행 후 한 해 안에 공개돼야 한다. 최종 보고서는 두 해 안에 의회에 낸다."
+            "x": "브뤼셀은 300억 유로 규모 AI 컴퓨팅 허브 일곱 곳 지원 계획도 늦췄다. 컨소시엄 마감 시한을 연장해 “회원국이 자국 예산 절차를 마무리하고 재정 약정을 제출할 시간을 주기” 위해서라는 설명이다. 당초 11월이던 마감이 2월로 밀린 데 이어 두 번째 연기다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Foster bill targets\nAI-driven financial risk",
-          "body": "A bill from Bill Foster, an Illinois Democrat, would help regulators use technology to spot AI-fueled financial stress.",
-          "mini_headline": "Bill eyes AI financial risk",
+          "headline": "16 EU states miss AI Act\nenforcement deadline",
+          "body": "Sixteen EU capitals missed the deadline to name an AI Act enforcement authority, the Commission confirmed.",
+          "mini_headline": "16 EU states miss AI Act deadline",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://rollcall.com/app/uploads/2026/11/foster_BC_060_050725-2.jpg",
-                "cap": "\"We cannot afford to rely on outdated systems to oversee an increasingly complex financial sector,\" said Rep. Bill Foster, D-Ill. (Bill Clark/CQ Roll Call file photo)"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/08/GettyImages-2246764807.jpg",
+                "cap": "Emmanuel Macron addresses investors in Berlin on Nov. 18, 2025. | Pool photo by John MacDougall via AFP/Getty Images"
               },
               {
                 "t": "p",
-                "x": "A leading Democrat on the House Financial Services Committee introduced legislation Thursday aimed at helping regulators use technology to better spot financial stress turbocharged by artificial intelligence and around-the-clock payment systems."
+                "x": "As European leaders prepare to project urgency at their first joint meeting on artificial intelligence, their governments are missing important AI safety and infrastructure targets. The bloc’s 27 leaders are meeting Friday in Dublin."
               },
               {
                 "t": "p",
-                "x": "The draft bill, from Rep. Bill Foster, D-Ill., would require the Federal Reserve to work with other regulators to develop, test and publicly release model software that would improve the ability to assess market conditions in real time and respond quickly to cybersecurity and other threats."
+                "x": "16 capitals have missed a deadline to appoint a national authority to enforce the bloc’s AI safety law. With an August 2025 deadline, six countries — Austria, Belgium, Bulgaria, Croatia, Slovakia and Hungary — have not selected an authority, while 10 other capitals have only made a provisional decision that still needs to be adopted, the Commission confirmed."
               },
               {
                 "t": "p",
-                "x": "\"With advances in AI creating new cybersecurity threats and financial risks, it's more important than ever that we modernize the way we monitor the health of our financial institutions,\" Foster said in a statement."
+                "x": "European Parliament lawmaker Sergey Lagodinsky, a German member of the Greens, said the delays are undermining capitals’ credibility: “Stop blaming the EU for missing the race if you miss your own deadlines.” In a letter seen by POLITICO, he asked the Commission to start a formal procedure against capitals."
               },
               {
                 "t": "p",
-                "x": "Model software would be developed for banking records and operations, regulatory reporting, stress testing, anti-money laundering and fraud screening, AI risk monitoring and other activities. It must be open source, publicly available and tested using synthetic or legally permitted historical data."
-              },
-              {
-                "t": "p",
-                "x": "All software models would have to be published within one year of enactment, and a final report would be due to Congress within two years."
+                "x": "Brussels has also pushed back plans to support seven AI compute hubs, a €30 billion project, extending the deadline for consortia “to give member states the necessary time to complete their national budgetary process and submit financial commitments.” It was the second delay in a row, after the initial November deadline moved to February."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Foster 법안의 표적\nAI-driven 금융위험",
-          "body": "민주당 Foster 법안은 규제당국의 AI-fueled 금융 압박 포착을 돕는다.",
-          "mini_headline": "AI 금융 위험 겨냥 법안",
+          "headline": "EU 16개국, AI법\n집행기관 기한 놓쳐",
+          "body": "EU 16개국이 AI법 집행기관 지정 기한을 넘겼다고 집행위가 확인했다.",
+          "mini_headline": "EU 16개국, AI법 기한 놓쳐",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://rollcall.com/app/uploads/2026/11/foster_BC_060_050725-2.jpg",
-                "cap": "\"갈수록 복잡해지는 금융 부문을 낡은 시스템에 기대어 감독할 여유는 없다\"고 Rep. Bill Foster(D-Ill.) 하원의원은 말했다. (Bill Clark/CQ Roll Call 자료 사진)"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/08/GettyImages-2246764807.jpg",
+                "cap": "에마뉘엘 마크롱이 2025년 11월 18일 베를린에서 투자자들에게 연설하고 있다. | Pool photo by John MacDougall via AFP/Getty Images"
               },
               {
                 "t": "p",
-                "x": "하원 금융서비스위원회 민주당 중진 의원이 목요일 법안을 발의했다. 인공지능과 상시 가동되는 결제 시스템이 키우는 금융 스트레스를 규제당국이 기술로 더 잘 잡아내도록 돕는 내용이다."
+                "x": "유럽 정상들이 인공지능을 주제로 한 첫 공동 회의에서 위기감을 드러낼 채비를 하지만, 정작 각국 정부는 주요 AI 안전·인프라 목표를 지키지 못하고 있다. EU 27개국 정상은 금요일 더블린에 모인다."
               },
               {
                 "t": "p",
-                "x": "Rep. Bill Foster(D-Ill.) 의원의 이 법안 초안은 연방준비제도(Federal Reserve)가 다른 규제기관과 협력해 시장 상황을 실시간으로 평가하고 사이버보안 등 여러 위협에 신속히 대응하는 능력을 높일 모델 소프트웨어를 개발·시험하고 공개하도록 요구한다."
+                "x": "16개국 수도가 EU AI 안전법을 집행할 국가 기관을 기한 안에 지정하지 못했다. 기한은 2025년 8월이었다. 집행위원회에 따르면 오스트리아, 벨기에, 불가리아, 크로아티아, 슬로바키아, 헝가리 등 여섯 나라는 아직 기관을 정하지 못했고, 나머지 10개국은 추가 채택이 필요한 잠정 결정만 내렸다."
               },
               {
                 "t": "p",
-                "x": "Foster 의원은 성명에서 \"AI의 발전이 새로운 사이버보안 위협과 금융 위험을 낳고 있는 만큼, 금융기관의 건전성을 감시하는 방식을 현대화하는 일이 그 어느 때보다 중요하다\"고 밝혔다."
+                "x": "독일 녹색당 소속 유럽의회 의원 세르게이 라고딘스키는 이런 지연이 각국 신뢰를 갉아먹는다며 “스스로 정한 기한도 못 지키면서 경쟁에서 뒤처진 것을 EU 탓으로 돌리지 말라”고 말했다. POLITICO가 입수한 서한에서 그는 집행위원회에 각국을 상대로 공식 절차를 시작하라고 요청했다."
               },
               {
                 "t": "p",
-                "x": "모델 소프트웨어는 은행 기록과 운영, 규제 보고, 스트레스 테스트, 자금세탁 방지와 사기 탐지, AI 위험 감시 등 여러 활동에 쓰도록 개발된다. 오픈소스로 일반에 공개해야 하고 시험은 합성 데이터나 법적으로 허용된 과거 데이터로 해야 한다."
-              },
-              {
-                "t": "p",
-                "x": "모든 소프트웨어 모델은 법 시행 후 한 해 안에 공개돼야 한다. 최종 보고서는 두 해 안에 의회에 낸다."
+                "x": "브뤼셀은 300억 유로 규모 AI 컴퓨팅 허브 일곱 곳 지원 계획도 늦췄다. 컨소시엄 마감 시한을 연장해 “회원국이 자국 예산 절차를 마무리하고 재정 약정을 제출할 시간을 주기” 위해서라는 설명이다. 당초 11월이던 마감이 2월로 밀린 데 이어 두 번째 연기다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Foster 金融法案が狙う\nAI-driven なリスク",
-          "body": "Foster議員の法案は規制当局の AI-fueled な金融ストレス把握を支える。",
-          "mini_headline": "AI金融リスクに照準の法案",
+          "headline": "EU16カ国、AI法の\n執行機関指定で期限超過",
+          "body": "EU加盟16カ国がAI法の執行機関を期限までに指定できなかったと欧州委員会が確認した。",
+          "mini_headline": "EU16カ国、AI法の期限守れず",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://rollcall.com/app/uploads/2026/11/foster_BC_060_050725-2.jpg",
-                "cap": "「ますます複雑化する金融セクターの監督を、時代遅れのシステムに頼るわけにはいかない」と Rep. Bill Foster(D-Ill.)下院議員は述べた。(Bill Clark/CQ Roll Call 資料写真)"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/08/GettyImages-2246764807.jpg",
+                "cap": "2025年11月18日、ベルリンで投資家に向けて演説するエマニュエル・マクロン氏。| Pool photo by John MacDougall via AFP/Getty Images"
               },
               {
                 "t": "p",
-                "x": "下院金融サービス委員会の有力な民主党議員が木曜日、人工知能と常時稼働する決済システムによって増幅される金融ストレスを、規制当局が技術を使ってより的確に察知できるよう支援する法案を提出した。"
+                "x": "欧州の首脳らは人工知能をめぐる初の合同会議で危機感を示そうとしているが、各国政府は重要なAIの安全性とインフラの目標を達成できていない。EU加盟27カ国の首脳は金曜日にダブリンで会合する。"
               },
               {
                 "t": "p",
-                "x": "Rep. Bill Foster(D-Ill.)による法案草案は、連邦準備制度(Federal Reserve)に対し、他の規制当局と連携して、市場状況をリアルタイムで評価し、サイバーセキュリティなどの脅威に迅速に対応する能力を高めるモデルソフトウェアを開発・試験し、公開するよう求める。"
+                "x": "16カ国の首都が、EUのAI安全法を執行する国内当局の指定期限を守れなかった。期限は2025年8月だったが、オーストリア、ベルギー、ブルガリア、クロアチア、スロバキア、ハンガリーの六カ国は当局を選んでおらず、ほかの10カ国も今後の採択が必要な暫定決定にとどまっていると欧州委員会が確認した。"
               },
               {
                 "t": "p",
-                "x": "Foster氏は声明で「AIの進歩が新たなサイバーセキュリティ上の脅威と金融リスクを生むなか、金融機関の健全性を監視する方法を近代化することはこれまで以上に重要だ」と述べた。"
+                "x": "ドイツ緑の党所属の欧州議会議員セルゲイ・ラゴディンスキー氏は、遅れが各国の信頼を損なっていると指摘し、「自分たちの期限を守れないのに、競争に乗り遅れたことをEUのせいにするのはやめるべきだ」と述べた。POLITICOが入手した書簡で、同氏は欧州委員会に各国への正式な手続きを開始するよう求めた。"
               },
               {
                 "t": "p",
-                "x": "モデルソフトウェアは、銀行の記録と業務、規制報告、ストレステスト、マネーロンダリング対策と不正検知、AIリスク監視などの用途向けに開発される。オープンソースで一般に公開し、合成データまたは法的に利用が認められた過去データで試験しなければならない。"
-              },
-              {
-                "t": "p",
-                "x": "すべてのソフトウェアモデルは法施行から一年以内に公開し、最終報告書は二年以内に議会へ提出しなければならない。"
+                "x": "ブリュッセルは、300億ユーロ規模となる七つのAIコンピューティング拠点の支援計画も先送りし、「加盟国が国内の予算手続きを終え、資金拠出を表明するのに必要な時間を与えるため」コンソーシアムの締め切りを延長した。当初の11月の期限が2月に移されたのに続き、二回連続の延期となる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Foster 法案瞄准\nAI-driven 金融风险",
-          "body": "民主党人 Foster 的法案将助监管机构用技术识别 AI-fueled 金融压力。",
-          "mini_headline": "法案关注AI金融风险",
+          "headline": "欧盟16国未按期\n指定AI法案执法机构",
+          "body": "欧盟委员会证实，十六个欧盟成员国未能在期限内指定AI法案执法机构。",
+          "mini_headline": "欧盟16国错过AI法案期限",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://rollcall.com/app/uploads/2026/11/foster_BC_060_050725-2.jpg",
-                "cap": "“我们不能依赖过时的系统来监管日益复杂的金融业，”Rep. Bill Foster（D-Ill.）众议员说。（Bill Clark/CQ Roll Call 资料照片）"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/08/GettyImages-2246764807.jpg",
+                "cap": "2025年11月18日，埃马纽埃尔·马克龙在柏林向投资者发表讲话。| Pool photo by John MacDougall via AFP/Getty Images"
               },
               {
                 "t": "p",
-                "x": "众议院金融服务委员会的一位资深民主党议员周四提出立法，旨在帮助监管机构借助技术，更好地识别由人工智能和全天候支付系统推高的金融压力。"
+                "x": "欧洲领导人正准备在首次人工智能联合会议上展现紧迫感，而各国政府却未能实现重要的AI安全与基础设施目标。欧盟27国领导人将于周五在都柏林举行会议。"
               },
               {
                 "t": "p",
-                "x": "这份由 Rep. Bill Foster（D-Ill.）提出的法案草案将要求美联储（Federal Reserve）与其他监管机构合作，开发、测试并公开发布模型软件，以提升实时评估市场状况、快速应对网络安全及其他威胁的能力。"
+                "x": "已有16个首都错过了指定国家机构以执行欧盟AI安全法的期限。期限为2025年8月，但奥地利、比利时、保加利亚、克罗地亚、斯洛伐克和匈牙利六国尚未选定机构，另有10个首都仅作出仍需正式通过的临时决定，欧盟委员会证实。"
               },
               {
                 "t": "p",
-                "x": "Foster 在声明中说：“随着 AI 的进步带来新的网络安全威胁和金融风险，改进我们监测金融机构健康状况的方式比以往任何时候都更加重要。”"
+                "x": "德国绿党籍欧洲议会议员谢尔盖·拉戈丁斯基表示，拖延正在损害各国信誉：“如果你们连自己的期限都错过，就别再怪欧盟输掉竞赛。”在POLITICO看到的一封信中，他要求欧盟委员会对各国启动正式程序。"
               },
               {
                 "t": "p",
-                "x": "模型软件将用于银行记录与运营、监管报告、压力测试、反洗钱与欺诈筛查、AI 风险监测等活动。软件必须开源、向公众开放，并使用合成数据或法律允许的历史数据进行测试。"
-              },
-              {
-                "t": "p",
-                "x": "所有软件模型须在法案生效后一年内发布，最终报告须在两年内提交国会。"
+                "x": "布鲁塞尔还推迟了支持七个AI算力中心的计划，这一项目规模达300亿欧元。为“给成员国必要时间完成本国预算程序并提交资金承诺”，联合体的截止期限被延长。这是继最初的11月截止日推迟到2月之后，连续第二次延期。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Proyecto de Foster apunta al\nriesgo financiero AI-driven",
-          "body": "Un proyecto de Bill Foster, demócrata de Illinois, ayudaría a los reguladores a detectar estrés financiero AI-fueled.",
-          "mini_headline": "Proyecto sobre riesgo financiero de AI",
+          "headline": "16 países de la UE incumplen\nel plazo de la Ley de IA",
+          "body": "Dieciséis capitales de la UE no nombraron a tiempo su autoridad de control de la Ley de IA, confirmó la Comisión.",
+          "mini_headline": "16 países de la UE fallan el plazo de la Ley de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://rollcall.com/app/uploads/2026/11/foster_BC_060_050725-2.jpg",
-                "cap": "\"No podemos permitirnos depender de sistemas obsoletos para supervisar un sector financiero cada vez más complejo\", dijo el Rep. Bill Foster, D-Ill. (Bill Clark/CQ Roll Call, foto de archivo)"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/08/GettyImages-2246764807.jpg",
+                "cap": "Emmanuel Macron se dirige a inversores en Berlín el 18 de noviembre de 2025. | Pool photo by John MacDougall via AFP/Getty Images"
               },
               {
                 "t": "p",
-                "x": "Un destacado demócrata del Comité de Servicios Financieros de la Cámara de Representantes presentó el jueves un proyecto de ley para ayudar a los reguladores a usar la tecnología y detectar mejor las tensiones financieras impulsadas por la inteligencia artificial y los sistemas de pago ininterrumpidos."
+                "x": "Mientras los líderes europeos se preparan para transmitir urgencia en su primera reunión conjunta sobre inteligencia artificial, sus gobiernos están incumpliendo objetivos importantes de seguridad e infraestructura de IA. Los 27 líderes del bloque se reúnen el viernes en Dublín."
               },
               {
                 "t": "p",
-                "x": "El borrador, del Rep. Bill Foster, D-Ill., exigiría a la Reserva Federal (Federal Reserve) trabajar con otros reguladores para desarrollar, probar y publicar software modelo que mejore la capacidad de evaluar las condiciones del mercado en tiempo real y responder con rapidez a amenazas de ciberseguridad y de otro tipo."
+                "x": "16 capitales han incumplido el plazo para designar una autoridad nacional que aplique la ley de seguridad de IA del bloque. Con un plazo que vencía en agosto de 2025, seis países —Austria, Bélgica, Bulgaria, Croacia, Eslovaquia y Hungría— no han elegido autoridad, mientras que otras 10 capitales solo han tomado una decisión provisional que aún debe adoptarse, confirmó la Comisión."
               },
               {
                 "t": "p",
-                "x": "\"Con los avances de la AI creando nuevas amenazas de ciberseguridad y riesgos financieros, es más importante que nunca modernizar la forma en que vigilamos la salud de nuestras instituciones financieras\", dijo Foster en un comunicado."
+                "x": "El eurodiputado Sergey Lagodinsky, alemán de Los Verdes, afirmó que los retrasos minan la credibilidad de las capitales: “Dejen de culpar a la UE de perder la carrera si ustedes incumplen sus propios plazos”. En una carta a la que tuvo acceso POLITICO, pidió a la Comisión que abra un procedimiento formal contra las capitales."
               },
               {
                 "t": "p",
-                "x": "Se desarrollaría software modelo para registros y operaciones bancarias, informes regulatorios, pruebas de estrés, prevención del lavado de dinero y detección de fraude, supervisión de riesgos de AI y otras actividades. Debe ser de código abierto, de acceso público y probarse con datos sintéticos o con datos históricos de uso legalmente permitido."
-              },
-              {
-                "t": "p",
-                "x": "Todos los modelos de software tendrían que publicarse en el plazo de un año desde la promulgación, y el informe final debería entregarse al Congreso en un plazo de dos años."
+                "x": "Bruselas también ha aplazado los planes para apoyar siete centros de computación de IA, un proyecto de 30.000 millones de euros, y ha ampliado el plazo para los consorcios “para dar a los Estados miembros el tiempo necesario para completar su proceso presupuestario nacional y presentar compromisos financieros”. Es el segundo retraso consecutivo, después de que el plazo inicial de noviembre se trasladara a febrero."
               }
             ]
           }
@@ -997,141 +601,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Foster 법안의 표적\nAI-driven 금융위험",
-          "body": "민주당 Foster 법안은 규제당국의 AI-fueled 금융 압박 포착을 돕는다.",
-          "mini_headline": "AI 금융 위험 겨냥 법안",
+          "headline": "EU 16개국, AI법\n집행기관 기한 놓쳐",
+          "body": "EU 16개국이 AI법 집행기관 지정 기한을 넘겼다고 집행위가 확인했다.",
+          "mini_headline": "EU 16개국, AI법 기한 놓쳐",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://rollcall.com/app/uploads/2026/11/foster_BC_060_050725-2.jpg",
-                "cap": "\"갈수록 복잡해지는 금융 부문을 낡은 시스템에 기대어 감독할 여유는 없다\"고 Rep. Bill Foster(D-Ill.) 하원의원은 말했다. (Bill Clark/CQ Roll Call 자료 사진)"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/08/GettyImages-2246764807.jpg",
+                "cap": "에마뉘엘 마크롱이 2025년 11월 18일 베를린에서 투자자들에게 연설하고 있다. | Pool photo by John MacDougall via AFP/Getty Images"
               },
               {
                 "t": "p",
-                "x": "하원 금융서비스위원회의 민주당 중진 의원이 목요일, 인공지능과 상시 가동되는 결제 시스템으로 증폭되는 금융 스트레스를 규제당국이 기술로 더 잘 포착하도록 돕는 법안을 발의했다."
+                "x": "유럽 정상들이 인공지능을 주제로 한 첫 공동 회의에서 위기감을 드러낼 준비를 하는 가운데, 각국 정부는 정작 주요 AI 안전·인프라 목표를 지키지 못하고 있다. EU 27개국 정상은 금요일 더블린에서 만난다."
               },
               {
                 "t": "p",
-                "x": "Rep. Bill Foster(D-Ill.) 의원의 이 법안 초안은 연방준비제도(Federal Reserve)가 다른 규제기관과 협력해, 시장 상황을 실시간으로 평가하고 사이버보안 등 여러 위협에 신속히 대응하는 능력을 높일 모델 소프트웨어를 개발·시험하고 공개하도록 요구한다."
+                "x": "16개국 수도가 EU의 AI 안전법을 집행할 국가 기관을 지정하는 기한을 넘겼다. 기한은 2025년 8월이었지만 오스트리아, 벨기에, 불가리아, 크로아티아, 슬로바키아, 헝가리 등 여섯 나라는 아직 기관을 정하지 못했고, 다른 10개국은 추가 채택이 필요한 잠정 결정만 내린 상태라고 집행위원회가 확인했다."
               },
               {
                 "t": "p",
-                "x": "Foster 의원은 성명에서 \"AI의 발전이 새로운 사이버보안 위협과 금융 위험을 낳고 있는 만큼, 금융기관의 건전성을 감시하는 방식을 현대화하는 일이 그 어느 때보다 중요하다\"고 밝혔다."
+                "x": "독일 녹색당 소속 유럽의회 의원 세르게이 라고딘스키는 이런 지연이 각국의 신뢰를 떨어뜨린다며 “스스로 정한 기한도 못 지키면서 경쟁에서 뒤처진 것을 EU 탓으로 돌리지 말라”고 말했다. POLITICO가 입수한 서한에서 그는 집행위원회에 각국을 상대로 공식 절차를 시작하라고 요청했다."
               },
               {
                 "t": "p",
-                "x": "모델 소프트웨어는 은행 기록과 운영, 규제 보고, 스트레스 테스트, 자금세탁 방지와 사기 탐지, AI 위험 감시 등 여러 활동을 위해 개발된다. 이 소프트웨어는 오픈소스로 일반에 공개돼야 하며, 합성 데이터나 법적으로 허용된 과거 데이터로 시험해야 한다."
-              },
-              {
-                "t": "p",
-                "x": "모든 소프트웨어 모델은 법 시행 후 한 해 안에 공개돼야 하며, 최종 보고서는 두 해 안에 의회에 제출해야 한다."
+                "x": "브뤼셀은 300억 유로 규모의 AI 컴퓨팅 허브 일곱 곳 지원 계획도 미뤘다. 컨소시엄 마감 시한을 연장해 “회원국이 자국 예산 절차를 마무리하고 재정 약정을 제출할 시간을 주기” 위해서다. 당초 11월이던 마감이 2월로 밀린 데 이어 두 번째 연기다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Foster 金融法案が狙う\nAI-driven なリスク",
-          "body": "Foster議員の法案は規制当局の AI-fueled な金融ストレス把握を支える。",
-          "mini_headline": "AI金融リスクに照準の法案",
+          "headline": "EU16カ国、AI法の\n執行機関指定で期限超過",
+          "body": "EU加盟16カ国がAI法の執行機関を期限までに指定できなかったと欧州委員会が確認した。",
+          "mini_headline": "EU16カ国、AI法の期限守れず",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://rollcall.com/app/uploads/2026/11/foster_BC_060_050725-2.jpg",
-                "cap": "「ますます複雑化する金融セクターの監督を、時代遅れのシステムに頼るわけにはいかない」と Rep. Bill Foster(D-Ill.)下院議員は述べた。(Bill Clark/CQ Roll Call 資料写真)"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/08/GettyImages-2246764807.jpg",
+                "cap": "2025年11月18日、ベルリンで投資家に向けて演説するエマニュエル・マクロン氏。| Pool photo by John MacDougall via AFP/Getty Images"
               },
               {
                 "t": "p",
-                "x": "下院金融サービス委員会の有力な民主党議員が木曜日、人工知能と常時稼働する決済システムによって増幅される金融ストレスを、規制当局が技術を使ってより的確に察知できるよう支援する法案を提出した。"
+                "x": "欧州の首脳らは人工知能をめぐる初の合同会議で危機感を示そうとしているが、各国政府は重要なAIの安全性とインフラの目標を達成できていない。EU加盟27カ国の首脳は金曜日にダブリンで会合する。"
               },
               {
                 "t": "p",
-                "x": "Rep. Bill Foster(D-Ill.)による法案草案は、連邦準備制度(Federal Reserve)に対し、他の規制当局と連携して、市場状況をリアルタイムで評価し、サイバーセキュリティなどの脅威に迅速に対応する能力を高めるモデルソフトウェアを開発・試験し、公開するよう求める。"
+                "x": "16カ国の首都が、EUのAI安全法を執行する国内当局の指定期限を守れなかった。期限は2025年8月だったが、オーストリア、ベルギー、ブルガリア、クロアチア、スロバキア、ハンガリーの六カ国は当局を選んでおらず、ほかの10カ国も今後の採択が必要な暫定決定にとどまっていると欧州委員会が確認した。"
               },
               {
                 "t": "p",
-                "x": "Foster氏は声明で「AIの進歩が新たなサイバーセキュリティ上の脅威と金融リスクを生むなか、金融機関の健全性を監視する方法を近代化することはこれまで以上に重要だ」と述べた。"
+                "x": "ドイツ緑の党所属の欧州議会議員セルゲイ・ラゴディンスキー氏は、遅れが各国の信頼を損なっていると指摘し、「自分たちの期限を守れないのに、競争に乗り遅れたことをEUのせいにするのはやめるべきだ」と述べた。POLITICOが入手した書簡で、同氏は欧州委員会に各国への正式な手続きを開始するよう求めた。"
               },
               {
                 "t": "p",
-                "x": "モデルソフトウェアは、銀行の記録と業務、規制報告、ストレステスト、マネーロンダリング対策と不正検知、AIリスク監視などの用途向けに開発される。オープンソースで一般に公開し、合成データまたは法的に利用が認められた過去データで試験しなければならない。"
-              },
-              {
-                "t": "p",
-                "x": "すべてのソフトウェアモデルは法施行から一年以内に公開し、最終報告書は二年以内に議会へ提出しなければならない。"
+                "x": "ブリュッセルは、300億ユーロ規模となる七つのAIコンピューティング拠点の支援計画も先送りし、「加盟国が国内の予算手続きを終え、資金拠出を表明するのに必要な時間を与えるため」コンソーシアムの締め切りを延長した。当初の11月の期限が2月に移されたのに続き、二回連続の延期となる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Foster 法案瞄准\nAI-driven 金融风险",
-          "body": "民主党人 Foster 的法案将助监管机构用技术识别 AI-fueled 金融压力。",
-          "mini_headline": "法案关注AI金融风险",
+          "headline": "欧盟16国未按期\n指定AI法案执法机构",
+          "body": "欧盟委员会证实，十六个欧盟成员国未能在期限内指定AI法案执法机构。",
+          "mini_headline": "欧盟16国错过AI法案期限",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://rollcall.com/app/uploads/2026/11/foster_BC_060_050725-2.jpg",
-                "cap": "“我们不能依赖过时的系统来监管日益复杂的金融业，”Rep. Bill Foster（D-Ill.）众议员说。（Bill Clark/CQ Roll Call 资料照片）"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/08/GettyImages-2246764807.jpg",
+                "cap": "2025年11月18日，埃马纽埃尔·马克龙在柏林向投资者发表讲话。| Pool photo by John MacDougall via AFP/Getty Images"
               },
               {
                 "t": "p",
-                "x": "众议院金融服务委员会的一位资深民主党议员周四提出立法，旨在帮助监管机构借助技术，更好地识别由人工智能和全天候支付系统推高的金融压力。"
+                "x": "欧洲领导人正准备在首次人工智能联合会议上展现紧迫感，而各国政府却未能实现重要的AI安全与基础设施目标。欧盟27国领导人将于周五在都柏林举行会议。"
               },
               {
                 "t": "p",
-                "x": "这份由 Rep. Bill Foster（D-Ill.）提出的法案草案将要求美联储（Federal Reserve）与其他监管机构合作，开发、测试并公开发布模型软件，以提升实时评估市场状况、快速应对网络安全及其他威胁的能力。"
+                "x": "已有16个首都错过了指定国家机构以执行欧盟AI安全法的期限。期限为2025年8月，但奥地利、比利时、保加利亚、克罗地亚、斯洛伐克和匈牙利六国尚未选定机构，另有10个首都仅作出仍需正式通过的临时决定，欧盟委员会证实。"
               },
               {
                 "t": "p",
-                "x": "Foster 在声明中说：“随着 AI 的进步带来新的网络安全威胁和金融风险，改进我们监测金融机构健康状况的方式比以往任何时候都更加重要。”"
+                "x": "德国绿党籍欧洲议会议员谢尔盖·拉戈丁斯基表示，拖延正在损害各国信誉：“如果你们连自己的期限都错过，就别再怪欧盟输掉竞赛。”在POLITICO看到的一封信中，他要求欧盟委员会对各国启动正式程序。"
               },
               {
                 "t": "p",
-                "x": "模型软件将用于银行记录与运营、监管报告、压力测试、反洗钱与欺诈筛查、AI 风险监测等活动。软件必须开源、向公众开放，并使用合成数据或法律允许的历史数据进行测试。"
-              },
-              {
-                "t": "p",
-                "x": "所有软件模型须在法案生效后一年内发布，最终报告须在两年内提交国会。"
+                "x": "布鲁塞尔还推迟了支持七个AI算力中心的计划，这一项目规模达300亿欧元。为“给成员国必要时间完成本国预算程序并提交资金承诺”，联合体的截止期限被延长。这是继最初的11月截止日推迟到2月之后，连续第二次延期。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Proyecto de Foster apunta al\nriesgo financiero AI-driven",
-          "body": "Un proyecto de Bill Foster, demócrata de Illinois, ayudaría a los reguladores a detectar estrés financiero AI-fueled.",
-          "mini_headline": "Proyecto sobre riesgo financiero de AI",
+          "headline": "16 países de la UE incumplen\nel plazo de la Ley de IA",
+          "body": "Dieciséis capitales de la UE no nombraron a tiempo su autoridad de control de la Ley de IA, confirmó la Comisión.",
+          "mini_headline": "16 países de la UE fallan el plazo de la Ley de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://rollcall.com/app/uploads/2026/11/foster_BC_060_050725-2.jpg",
-                "cap": "\"No podemos permitirnos depender de sistemas obsoletos para supervisar un sector financiero cada vez más complejo\", dijo el Rep. Bill Foster, D-Ill. (Bill Clark/CQ Roll Call, foto de archivo)"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/08/GettyImages-2246764807.jpg",
+                "cap": "Emmanuel Macron se dirige a inversores en Berlín el 18 de noviembre de 2025. | Pool photo by John MacDougall via AFP/Getty Images"
               },
               {
                 "t": "p",
-                "x": "Un destacado demócrata del Comité de Servicios Financieros de la Cámara de Representantes presentó el jueves un proyecto de ley para ayudar a los reguladores a usar la tecnología y detectar mejor las tensiones financieras impulsadas por la inteligencia artificial y los sistemas de pago ininterrumpidos."
+                "x": "Mientras los líderes europeos se preparan para transmitir urgencia en su primera reunión conjunta sobre inteligencia artificial, sus gobiernos están incumpliendo objetivos importantes de seguridad e infraestructura de IA. Los 27 líderes del bloque se reúnen el viernes en Dublín."
               },
               {
                 "t": "p",
-                "x": "El borrador, del Rep. Bill Foster, D-Ill., exigiría a la Reserva Federal (Federal Reserve) trabajar con otros reguladores para desarrollar, probar y publicar software modelo que mejore la capacidad de evaluar las condiciones del mercado en tiempo real y responder con rapidez a amenazas de ciberseguridad y de otro tipo."
+                "x": "16 capitales han incumplido el plazo para designar una autoridad nacional que aplique la ley de seguridad de IA del bloque. Con un plazo que vencía en agosto de 2025, seis países —Austria, Bélgica, Bulgaria, Croacia, Eslovaquia y Hungría— no han elegido autoridad, mientras que otras 10 capitales solo han tomado una decisión provisional que aún debe adoptarse, confirmó la Comisión."
               },
               {
                 "t": "p",
-                "x": "\"Con los avances de la AI creando nuevas amenazas de ciberseguridad y riesgos financieros, es más importante que nunca modernizar la forma en que vigilamos la salud de nuestras instituciones financieras\", dijo Foster en un comunicado."
+                "x": "El eurodiputado Sergey Lagodinsky, alemán de Los Verdes, afirmó que los retrasos minan la credibilidad de las capitales: “Dejen de culpar a la UE de perder la carrera si ustedes incumplen sus propios plazos”. En una carta a la que tuvo acceso POLITICO, pidió a la Comisión que abra un procedimiento formal contra las capitales."
               },
               {
                 "t": "p",
-                "x": "Se desarrollaría software modelo para registros y operaciones bancarias, informes regulatorios, pruebas de estrés, prevención del lavado de dinero y detección de fraude, supervisión de riesgos de AI y otras actividades. Debe ser de código abierto, de acceso público y probarse con datos sintéticos o con datos históricos de uso legalmente permitido."
-              },
-              {
-                "t": "p",
-                "x": "Todos los modelos de software tendrían que publicarse en el plazo de un año desde la promulgación, y el informe final debería entregarse al Congreso en un plazo de dos años."
+                "x": "Bruselas también ha aplazado los planes para apoyar siete centros de computación de IA, un proyecto de 30.000 millones de euros, y ha ampliado el plazo para los consorcios “para dar a los Estados miembros el tiempo necesario para completar su proceso presupuestario nacional y presentar compromisos financieros”. Es el segundo retraso consecutivo, después de que el plazo inicial de noviembre se trasladara a febrero."
               }
             ]
           }
@@ -1139,411 +727,883 @@
       }
     },
     {
-      "id": "singapore-csa-agent-advisory",
+      "id": "palantir-nhs-gp-lobbying",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "싱가포르, 개인용 AI\n에이전트 권한 제한 권고",
-      "body": "싱가포르 세 기관은 AI 에이전트에 필요한 앱만 잇고 파일 삭제는 허락받으라 했다.",
-      "mini_headline": "싱가포르, AI 에이전트 권고",
+      "headline": "Palantir, 장관에\nNHS GP 기록 로비",
+      "body": "Palantir가 장관에게 NHS AI 플랫폼을 GP 기록까지 넓히자고 로비했다.",
+      "mini_headline": "Palantir, GP 기록 로비",
       "tool": "Politics",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/tech/singapore-authorities-urge-strict-limits-on-ai-agent-autonomy-access-to-personal-accounts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=1200&quality=85&auto=format&fit=max&s=cff6d20bc27a66439579c72a97593bc6",
+            "cap": "GP 데이터는 Palantir가 NHS England와 맺은 기존 £330m 계약의 범위에서 명시적으로 제외됐다. 사진: John Lynch/Alamy"
+          },
+          {
+            "t": "p",
+            "x": "Palantir가 보건부 장관에게 자사 AI 기술을 GP 기록까지 넓히는 방안을 검토해 달라고 로비한 사실이 드러났다. 의사들은 NHS 안에서 영향력을 키우려는 이 시도가 환자와의 신뢰를 해칠 수 있다고 우려한다."
+          },
+          {
+            "t": "p",
+            "x": "회사는 WhatsApp 직통 채널로 “1차 진료와 2차 [진료] 데이터를 연결하는 논리는 반박할 여지가 없다”고 주장했다. 2월의 일이다. 그러나 GP 데이터는 Palantir가 연합 데이터 플랫폼(FDP)을 운영하려고 NHS England와 맺은 £330m 계약 범위에서 명시적으로 빠져 있었다."
+          },
+          {
+            "t": "p",
+            "x": "Foxglove가 정보공개법(FOI)으로 받아 가디언과 공유한 이 메시지는 Palantir 영국 대표 루이스 모슬리와 주비르 아메드 전 보건부 장관이 2025년 7월부터 2026년 3월까지 주고받은 것으로 보인다."
+          },
+          {
+            "t": "p",
+            "x": "BMA 의장 톰 돌핀 박사는 “환자 신뢰를 해칠” 수 있는 “범위 확장”을 우려했다. Palantir는 “데이터 공유가 NHS를 개선할 수 있다고 오랫동안 주장해 왔다 … 소프트웨어를 어떻게 도입할지는 정부가 결정할 일이라는 점도 늘 분명히 해 왔다”고 밝혔다. 보건사회복지부는 논평을 거부했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Palantir lobbied minister\non NHS GP record access",
+          "body": "WhatsApp messages released under FOI show Palantir lobbying a minister to extend its NHS AI platform to GP records.",
+          "mini_headline": "Palantir lobbied for GP records",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=1200&quality=85&auto=format&fit=max&s=cff6d20bc27a66439579c72a97593bc6",
+                "cap": "GP data has been expressly ruled out of the scope of Palantir’s existing £330m contract with NHS England. Photograph: John Lynch/Alamy"
+              },
+              {
+                "t": "p",
+                "x": "Palantir lobbied a health minister to consider extending its AI technology into GP records, stretching its reach into the NHS in a way doctors fear could undermine trust with patients."
+              },
+              {
+                "t": "p",
+                "x": "Via a direct WhatsApp channel, the company argued that “the logic of joining up primary and secondary [care] data is unarguable”. The push came in February despite GP data being expressly ruled out of the scope of Palantir’s £330m contract with NHS England to run its federated data platform (FDP)."
+              },
+              {
+                "t": "p",
+                "x": "The messages – obtained under the Freedom of Information Act by Foxglove and shared with the Guardian – appear to be between Palantir’s UK boss, Louis Mosley, and the former health minister Zubir Ahmed, spanning July 2025 to March 2026."
+              },
+              {
+                "t": "p",
+                "x": "The BMA chair, Dr Tom Dolphin, raised concerns about “scope creep” that could “undermine patient trust”. Palantir said: “We’ve long argued that data sharing can improve the NHS … We’ve also always been clear that it is for the government to decide how they roll the software out.” The Department of Health and Social Care declined to comment."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Palantir, 장관에\nNHS GP 기록 로비",
+          "body": "Palantir가 장관에게 NHS AI 플랫폼을 GP 기록까지 넓히자고 로비했다.",
+          "mini_headline": "Palantir, GP 기록 로비",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=1200&quality=85&auto=format&fit=max&s=cff6d20bc27a66439579c72a97593bc6",
+                "cap": "GP 데이터는 Palantir가 NHS England와 맺은 기존 £330m 계약의 범위에서 명시적으로 제외됐다. 사진: John Lynch/Alamy"
+              },
+              {
+                "t": "p",
+                "x": "Palantir가 보건부 장관에게 자사 AI 기술을 GP 기록까지 넓히는 방안을 검토해 달라고 로비한 사실이 드러났다. 의사들은 NHS 안에서 영향력을 키우려는 이 시도가 환자와의 신뢰를 해칠 수 있다고 우려한다."
+              },
+              {
+                "t": "p",
+                "x": "회사는 WhatsApp 직통 채널로 “1차 진료와 2차 [진료] 데이터를 연결하는 논리는 반박할 여지가 없다”고 주장했다. 2월의 일이다. 그러나 GP 데이터는 Palantir가 연합 데이터 플랫폼(FDP)을 운영하려고 NHS England와 맺은 £330m 계약 범위에서 명시적으로 빠져 있었다."
+              },
+              {
+                "t": "p",
+                "x": "Foxglove가 정보공개법(FOI)으로 받아 가디언과 공유한 이 메시지는 Palantir 영국 대표 루이스 모슬리와 주비르 아메드 전 보건부 장관이 2025년 7월부터 2026년 3월까지 주고받은 것으로 보인다."
+              },
+              {
+                "t": "p",
+                "x": "BMA 의장 톰 돌핀 박사는 “환자 신뢰를 해칠” 수 있는 “범위 확장”을 우려했다. Palantir는 “데이터 공유가 NHS를 개선할 수 있다고 오랫동안 주장해 왔다 … 소프트웨어를 어떻게 도입할지는 정부가 결정할 일이라는 점도 늘 분명히 해 왔다”고 밝혔다. 보건사회복지부는 논평을 거부했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Palantir、NHSの\nGP記録で大臣にロビー",
+          "body": "Palantirが大臣に対し、NHSのAI基盤をGP記録へ広げるよう働きかけた。",
+          "mini_headline": "Palantir、GP記録でロビー活動",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=1200&quality=85&auto=format&fit=max&s=cff6d20bc27a66439579c72a97593bc6",
+                "cap": "GPデータは、PalantirがNHS Englandと結んでいる既存の£330m 契約の対象から明確に除外されている。写真:John Lynch/Alamy"
+              },
+              {
+                "t": "p",
+                "x": "Palantirが保健担当の閣外相に対し、自社のAI技術をGP(かかりつけ医)の記録にまで広げるよう検討を働きかけていたことが分かった。NHSへの影響力の拡大について、医師らは患者との信頼関係を損ないかねないと懸念している。"
+              },
+              {
+                "t": "p",
+                "x": "同社はWhatsAppの直通チャンネルを通じ、「プライマリーケアとセカンダリー[ケア]のデータをつなぐ論理には反論の余地がない」と主張した。この働きかけは2月に行われたが、GPデータは、Palantirが連合データプラットフォーム(FDP)を運営するためにNHS Englandと結んだ£330m 契約の対象から明確に除外されている。"
+              },
+              {
+                "t": "p",
+                "x": "Foxgloveが情報公開法(FOI)に基づいて入手し、ガーディアン紙と共有したメッセージは、Palantir英国法人トップのルイス・モズリー氏とズビール・アーメド前保健担当相の間で交わされたものとみられ、期間は2025年7月から2026年3月に及ぶ。"
+              },
+              {
+                "t": "p",
+                "x": "BMAのトム・ドルフィン議長は「患者の信頼を損ないかねない」「範囲の拡大」に懸念を示した。Palantirは「データ共有がNHSを改善しうると長く主張してきた……ソフトウェアをどう展開するかは政府が決めることだと常に明言してきた」とコメントした。保健・社会福祉省はコメントを控えた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Palantir游说大臣\n开放NHS GP记录",
+          "body": "WhatsApp消息显示，Palantir曾游说大臣将其NHS AI平台扩展至GP记录。",
+          "mini_headline": "Palantir游说开放GP记录",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=1200&quality=85&auto=format&fit=max&s=cff6d20bc27a66439579c72a97593bc6",
+                "cap": "GP数据已被明确排除在Palantir与NHS England现有的£330m 合同范围之外。摄影：John Lynch/Alamy"
+              },
+              {
+                "t": "p",
+                "x": "Palantir曾游说一位卫生大臣考虑将其AI技术扩展至GP（全科医生）记录，把触角进一步伸入NHS，医生们担心这可能损害医患之间的信任。"
+              },
+              {
+                "t": "p",
+                "x": "该公司通过WhatsApp直联渠道称，“打通初级与二级[医疗]数据的逻辑无可辩驳”。这一游说发生在2月，而GP数据已被明确排除在Palantir与NHS England签订的£330m 合同范围之外，该合同用于运营联邦数据平台（FDP）。"
+              },
+              {
+                "t": "p",
+                "x": "这些消息由Foxglove依据《信息自由法》（FOI）获取并提供给《卫报》，似乎是Palantir英国负责人路易斯·莫斯利与前卫生大臣祖比尔·艾哈迈德之间的往来，时间跨度为2025年7月至2026年3月。"
+              },
+              {
+                "t": "p",
+                "x": "BMA主席汤姆·多尔芬博士对可能“损害患者信任”的“范围蔓延”表示担忧。Palantir表示：“我们长期以来一直认为数据共享可以改善NHS……我们也始终明确表示，如何推广这款软件由政府决定。”卫生和社会保障部拒绝置评。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Palantir presionó a un ministro\npor datos de GP del NHS",
+          "body": "Mensajes de WhatsApp obtenidos por FOI muestran a Palantir presionando a un ministro por datos de GP del NHS.",
+          "mini_headline": "Palantir presionó por datos de GP",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=1200&quality=85&auto=format&fit=max&s=cff6d20bc27a66439579c72a97593bc6",
+                "cap": "Los datos de GP quedaron expresamente fuera del alcance del contrato vigente de £330m de Palantir con NHS England. Fotografía: John Lynch/Alamy"
+              },
+              {
+                "t": "p",
+                "x": "Palantir presionó a un ministro de Sanidad para que considerara extender su tecnología de IA a los historiales de los médicos de cabecera (GP), ampliando su alcance dentro del NHS de una forma que, temen los médicos, podría minar la confianza de los pacientes."
+              },
+              {
+                "t": "p",
+                "x": "A través de un canal directo de WhatsApp, la empresa sostuvo que “la lógica de unir los datos de atención primaria y secundaria es indiscutible”. La presión se produjo en febrero, pese a que los datos de GP quedaron expresamente fuera del alcance del contrato de £330m de Palantir con NHS England para operar su plataforma federada de datos (FDP)."
+              },
+              {
+                "t": "p",
+                "x": "Los mensajes —obtenidos por Foxglove en virtud de la Ley de Libertad de Información (FOI) y compartidos con The Guardian— parecen haberse intercambiado entre el responsable de Palantir en el Reino Unido, Louis Mosley, y el exministro de Sanidad Zubir Ahmed, entre julio de 2025 y marzo de 2026."
+              },
+              {
+                "t": "p",
+                "x": "El presidente de la BMA, el Dr. Tom Dolphin, advirtió de una “ampliación del alcance” que podría “minar la confianza de los pacientes”. Palantir afirmó: “Hace tiempo que defendemos que compartir datos puede mejorar el NHS… También hemos dejado siempre claro que corresponde al Gobierno decidir cómo despliega el software”. El Departamento de Salud y Asistencia Social declinó hacer comentarios."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Palantir, 장관에\nNHS GP 기록 로비",
+          "body": "Palantir가 장관에게 NHS AI 플랫폼을 GP 기록까지 넓히자고 로비했다.",
+          "mini_headline": "Palantir, GP 기록 로비",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=1200&quality=85&auto=format&fit=max&s=cff6d20bc27a66439579c72a97593bc6",
+                "cap": "GP 데이터는 Palantir가 NHS England와 맺은 기존 £330m 계약의 범위에서 명시적으로 제외됐다. 사진: John Lynch/Alamy"
+              },
+              {
+                "t": "p",
+                "x": "Palantir가 보건부 장관에게 자사 AI 기술을 GP 기록으로 확대하는 방안을 검토해 달라고 로비한 것으로 드러났다. NHS 안으로 영향력을 넓히려는 이 시도가 환자와의 신뢰를 해칠 수 있다고 의사들은 우려한다."
+              },
+              {
+                "t": "p",
+                "x": "회사는 WhatsApp 직통 채널을 통해 “1차 진료와 2차 [진료] 데이터를 연결하는 논리는 반박할 여지가 없다”고 주장했다. 이 요청은 2월에 나왔다. 그러나 GP 데이터는 Palantir가 연합 데이터 플랫폼(FDP)을 운영하기 위해 NHS England와 맺은 £330m 계약의 범위에서 명시적으로 제외돼 있었다."
+              },
+              {
+                "t": "p",
+                "x": "Foxglove가 정보공개법(FOI)에 따라 확보해 가디언과 공유한 이 메시지는 Palantir 영국 대표 루이스 모슬리와 주비르 아메드 전 보건부 장관 사이에 오간 것으로 보이며, 기간은 2025년 7월부터 2026년 3월까지다."
+              },
+              {
+                "t": "p",
+                "x": "BMA 의장 톰 돌핀 박사는 “환자 신뢰를 해칠” 수 있는 “범위 확장”을 우려했다. Palantir는 “데이터 공유가 NHS를 개선할 수 있다고 오랫동안 주장해 왔다 … 소프트웨어를 어떻게 도입할지는 정부가 결정할 일이라는 점도 늘 분명히 해 왔다”고 밝혔다. 보건사회복지부는 논평을 거부했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Palantir、NHSの\nGP記録で大臣にロビー",
+          "body": "Palantirが大臣に対し、NHSのAI基盤をGP記録へ広げるよう働きかけた。",
+          "mini_headline": "Palantir、GP記録でロビー活動",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=1200&quality=85&auto=format&fit=max&s=cff6d20bc27a66439579c72a97593bc6",
+                "cap": "GPデータは、PalantirがNHS Englandと結んでいる既存の£330m 契約の対象から明確に除外されている。写真:John Lynch/Alamy"
+              },
+              {
+                "t": "p",
+                "x": "Palantirが保健担当の閣外相に対し、自社のAI技術をGP(かかりつけ医)の記録にまで広げるよう検討を働きかけていたことが分かった。NHSへの影響力の拡大について、医師らは患者との信頼関係を損ないかねないと懸念している。"
+              },
+              {
+                "t": "p",
+                "x": "同社はWhatsAppの直通チャンネルを通じ、「プライマリーケアとセカンダリー[ケア]のデータをつなぐ論理には反論の余地がない」と主張した。この働きかけは2月に行われたが、GPデータは、Palantirが連合データプラットフォーム(FDP)を運営するためにNHS Englandと結んだ£330m 契約の対象から明確に除外されている。"
+              },
+              {
+                "t": "p",
+                "x": "Foxgloveが情報公開法(FOI)に基づいて入手し、ガーディアン紙と共有したメッセージは、Palantir英国法人トップのルイス・モズリー氏とズビール・アーメド前保健担当相の間で交わされたものとみられ、期間は2025年7月から2026年3月に及ぶ。"
+              },
+              {
+                "t": "p",
+                "x": "BMAのトム・ドルフィン議長は「患者の信頼を損ないかねない」「範囲の拡大」に懸念を示した。Palantirは「データ共有がNHSを改善しうると長く主張してきた……ソフトウェアをどう展開するかは政府が決めることだと常に明言してきた」とコメントした。保健・社会福祉省はコメントを控えた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Palantir游说大臣\n开放NHS GP记录",
+          "body": "WhatsApp消息显示，Palantir曾游说大臣将其NHS AI平台扩展至GP记录。",
+          "mini_headline": "Palantir游说开放GP记录",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=1200&quality=85&auto=format&fit=max&s=cff6d20bc27a66439579c72a97593bc6",
+                "cap": "GP数据已被明确排除在Palantir与NHS England现有的£330m 合同范围之外。摄影：John Lynch/Alamy"
+              },
+              {
+                "t": "p",
+                "x": "Palantir曾游说一位卫生大臣考虑将其AI技术扩展至GP（全科医生）记录，把触角进一步伸入NHS，医生们担心这可能损害医患之间的信任。"
+              },
+              {
+                "t": "p",
+                "x": "该公司通过WhatsApp直联渠道称，“打通初级与二级[医疗]数据的逻辑无可辩驳”。这一游说发生在2月，而GP数据已被明确排除在Palantir与NHS England签订的£330m 合同范围之外，该合同用于运营联邦数据平台（FDP）。"
+              },
+              {
+                "t": "p",
+                "x": "这些消息由Foxglove依据《信息自由法》（FOI）获取并提供给《卫报》，似乎是Palantir英国负责人路易斯·莫斯利与前卫生大臣祖比尔·艾哈迈德之间的往来，时间跨度为2025年7月至2026年3月。"
+              },
+              {
+                "t": "p",
+                "x": "BMA主席汤姆·多尔芬博士对可能“损害患者信任”的“范围蔓延”表示担忧。Palantir表示：“我们长期以来一直认为数据共享可以改善NHS……我们也始终明确表示，如何推广这款软件由政府决定。”卫生和社会保障部拒绝置评。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Palantir presionó a un ministro\npor datos de GP del NHS",
+          "body": "Mensajes de WhatsApp obtenidos por FOI muestran a Palantir presionando a un ministro por datos de GP del NHS.",
+          "mini_headline": "Palantir presionó por datos de GP",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=1200&quality=85&auto=format&fit=max&s=cff6d20bc27a66439579c72a97593bc6",
+                "cap": "Los datos de GP quedaron expresamente fuera del alcance del contrato vigente de £330m de Palantir con NHS England. Fotografía: John Lynch/Alamy"
+              },
+              {
+                "t": "p",
+                "x": "Palantir presionó a un ministro de Sanidad para que considerara extender su tecnología de IA a los historiales de los médicos de cabecera (GP), ampliando su alcance dentro del NHS de una forma que, temen los médicos, podría minar la confianza de los pacientes."
+              },
+              {
+                "t": "p",
+                "x": "A través de un canal directo de WhatsApp, la empresa sostuvo que “la lógica de unir los datos de atención primaria y secundaria es indiscutible”. La presión se produjo en febrero, pese a que los datos de GP quedaron expresamente fuera del alcance del contrato de £330m de Palantir con NHS England para operar su plataforma federada de datos (FDP)."
+              },
+              {
+                "t": "p",
+                "x": "Los mensajes —obtenidos por Foxglove en virtud de la Ley de Libertad de Información (FOI) y compartidos con The Guardian— parecen haberse intercambiado entre el responsable de Palantir en el Reino Unido, Louis Mosley, y el exministro de Sanidad Zubir Ahmed, entre julio de 2025 y marzo de 2026."
+              },
+              {
+                "t": "p",
+                "x": "El presidente de la BMA, el Dr. Tom Dolphin, advirtió de una “ampliación del alcance” que podría “minar la confianza de los pacientes”. Palantir afirmó: “Hace tiempo que defendemos que compartir datos puede mejorar el NHS… También hemos dejado siempre claro que corresponde al Gobierno decidir cómo despliega el software”. El Departamento de Salud y Asistencia Social declinó hacer comentarios."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "politics-ai-glasses-exam-zero",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 안경 시험 부정\n중·고생 4명 0점",
+      "body": "교육부 전수조사 결과 스마트 안경 내신 부정행위 4건이 적발돼 모두 0점 처리됐다.",
+      "mini_headline": "AI 안경 부정 4명 0점",
+      "tool": "Politics",
+      "source": "전자신문",
+      "url": "https://www.etnews.com/20261109000269",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cassette.sphdigital.com.sg/image/straitstimes/aedf0157b1dcd79cc554610939c22bd5e277c9ff8c5bb5500b307ee3f8a1a398?w=1200",
-            "cap": "개인용 AI 에이전트는 웹사이트 탐색, 이메일 관리, 예약 등 사용자를 대신해 행동할 수 있다."
+            "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.8ac1fa2c17534244ae231cd437548395_P1.png",
+            "cap": "AI 안경 쓰고 시험 치다 적발된 중·고생 4명…전원 0점 처리"
           },
           {
             "t": "p",
-            "x": "개인용 AI 에이전트를 쓸 때는 필요한 앱만 연결하고 민감한 계정 접근은 제한하며 파일을 삭제하거나 공유하기 전에는 허락을 받게 설정해야 한다."
+            "x": "교육부는 전국 중·고등학교를 대상으로 2026학년도 스마트 안경 관련 내신평가 부정행위를 전수조사한 결과 총 4건이 확인됐다고 9일 밝혔다."
           },
           {
             "t": "p",
-            "x": "싱가포르 사이버보안청(Cyber Security Agency of Singapore), 정부기술청(Government Technology Agency), 정보통신미디어개발청(Infocomm Media Development Authority)이 11월 6일 낸 권고문에 담긴 예방 수칙들이다. 권고는 Meta Muse가 싱가포르에 출시된 뒤 나왔다. 회사 측이 소비자용으로 만든 세계 최초의 개인용 AI 에이전트라고 내세우는 제품이다."
+            "x": "이번 조사는 지난달 27일부터 이달 3일까지 일주일간 전국 모든 중·고등학교를 대상으로 진행됐다. 기존 언론보도를 통해 알려진 2건 외에 2건이 추가로 확인됐다."
           },
           {
             "t": "p",
-            "x": "권고문은 \"AI 에이전트는 매우 유용할 수 있지만, 사람 비서처럼 대하며 내 정보에 대한 폭넓은 접근 권한과 암묵적 신뢰를 똑같이 줄 수는 없다\"고 밝혔다."
+            "x": "학교급별로는 중학교 1건, 고등학교 3건이다. 지역별로는 서울 2건, 전북 1건, 제주 1건으로 집계됐다. 시험 시기별로는 1학기 기말고사에서 3건, 2학기 중간고사에서 1건이 발생했다."
           },
           {
             "t": "p",
-            "x": "권고문은 에이전트가 은행·정부·의료 계정에 접근하지 않게 하고 \"항상 허용\" 대신 일회성 승인을 택하며 정보가 AI 모델 학습에 쓰이는지 확인하라고 권한다."
-          },
-          {
-            "t": "img",
-            "src": "https://cassette.sphdigital.com.sg/image/straitstimes/05aaf5e4a6966ebd091d6915afb54d8748cbaa821177db0aa4596f3a75f1f011?w=750",
-            "cap": "AI 에이전트 사용 권고 그래픽."
+            "x": "적발된 학생들은 시험 도중 스마트 안경을 만지거나 일반 안경을 스마트 안경으로 바꿔 착용하는 방식으로 부정행위를 저질렀다."
           },
           {
             "t": "p",
-            "x": "권고문은 \"가장 좋은 보호책은 에이전트가 보고 할 수 있는 범위를 제한하는 것\"이라고 밝혔다."
+            "x": "서울의 한 고등학교에서는 평소 안경을 착용하지 않던 학생이 시험 중 스마트 안경을 쓰고 지속적으로 안경테를 만지다가 감독교사에게 적발됐다. 전북의 한 고등학교에서도 학생이 안경테를 반복해서 만지는 행동을 보였고, 감독교사가 안경에 비친 초록색 불빛을 발견하면서 부정행위가 드러났다."
+          },
+          {
+            "t": "p",
+            "x": "제주의 한 고등학교에서는 학생 제보를 받은 감독교사가 시험 도중 일반 안경을 스마트 안경으로 바꿔 쓰는 학생을 발견했다."
+          },
+          {
+            "t": "p",
+            "x": "적발된 학생 4명은 모두 해당 과목 시험 성적이 0점 처리됐다. 고등학생 3명에게는 특별교육 3일, 사회봉사 4시간, 출석정지 5일 등 학교별 학칙에 따른 별도 징계도 내려졌다."
+          },
+          {
+            "t": "p",
+            "x": "교육부는 AI 안경 등 새로운 디지털 기기를 활용한 부정행위가 발생함에 따라 학생평가 관리 강화에 나선다. 우선 2학기 기말고사를 앞둔 이달 셋째 주 스마트 안경 적발 사례를 담은 학생용 교육자료를 배포하고, 학교 현장에 부정행위 예방을 위한 유의사항을 안내할 예정이다."
+          },
+          {
+            "t": "p",
+            "x": "교육부와 시도교육청, 한국교육과정평가원이 참여하는 학생평가 공동관리위원회에서도 스마트 안경을 활용한 부정행위 예방 대책과 학교 지원 방안을 논의한다."
+          },
+          {
+            "t": "p",
+            "x": "교육부는 “AI 등 디지털 기술 발전에 따른 학생평가 환경 변화에 대응해 학교 현장의 평가 공정성과 신뢰성을 확보하기 위한 노력을 지속하겠다”고 밝혔다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Singapore urges limits on\npersonal AI agent access",
-          "body": "Three Singapore agencies told users to link only needed apps to AI agents and require permission to delete files.",
-          "mini_headline": "Singapore advisory on AI agents",
+        "ko": {
+          "headline": "AI 안경 시험 부정\n중·고생 4명 0점",
+          "body": "교육부 전수조사 결과 스마트 안경 내신 부정행위 4건이 적발돼 모두 0점 처리됐다.",
+          "mini_headline": "AI 안경 부정 4명 0점",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/aedf0157b1dcd79cc554610939c22bd5e277c9ff8c5bb5500b307ee3f8a1a398?w=1200",
-                "cap": "Personal AI agents can take actions on users' behalf, such as browsing websites, managing e-mails and making bookings."
+                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.8ac1fa2c17534244ae231cd437548395_P1.png",
+                "cap": "AI 안경 쓰고 시험 치다 적발된 중·고생 4명…전원 0점 처리"
               },
               {
                 "t": "p",
-                "x": "When using personal AI agents, connect only necessary apps, restrict access to sensitive accounts and specify that permission is required before deleting or sharing files."
+                "x": "교육부는 전국 중·고등학교를 대상으로 2026학년도 스마트 안경 관련 내신평가 부정행위를 전수조사한 결과 총 4건이 확인됐다고 9일 밝혔다."
               },
               {
                 "t": "p",
-                "x": "These are among the precautions set out in an advisory issued on Nov 6 by the Cyber Security Agency of Singapore, the Government Technology Agency and the Infocomm Media Development Authority. It follows the launch in Singapore of Meta Muse, which the company bills as the world's first personal AI agent built for consumers."
+                "x": "이번 조사는 지난달 27일부터 이달 3일까지 일주일간 전국 모든 중·고등학교를 대상으로 진행됐다. 기존 언론보도를 통해 알려진 2건 외에 2건이 추가로 확인됐다."
               },
               {
                 "t": "p",
-                "x": "\"AI agents can be very useful, but you cannot treat them like human assistants and give them the same broad access to your information and implicit trust,\" the advisory said."
+                "x": "학교급별로는 중학교 1건, 고등학교 3건이다. 지역별로는 서울 2건, 전북 1건, 제주 1건으로 집계됐다. 시험 시기별로는 1학기 기말고사에서 3건, 2학기 중간고사에서 1건이 발생했다."
               },
               {
                 "t": "p",
-                "x": "It recommends avoiding giving agents access to banking, government and healthcare accounts, choosing one-time approval over an \"always allow\" option, and checking whether information is used to train AI models."
-              },
-              {
-                "t": "img",
-                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/05aaf5e4a6966ebd091d6915afb54d8748cbaa821177db0aa4596f3a75f1f011?w=750",
-                "cap": "Graphic advisory on AI agent usage."
+                "x": "적발된 학생들은 시험 도중 스마트 안경을 만지거나 일반 안경을 스마트 안경으로 바꿔 착용하는 방식으로 부정행위를 저질렀다."
               },
               {
                 "t": "p",
-                "x": "\"The best protection is to limit what your agent can see or do,\" the advisory said."
+                "x": "서울의 한 고등학교에서는 평소 안경을 착용하지 않던 학생이 시험 중 스마트 안경을 쓰고 지속적으로 안경테를 만지다가 감독교사에게 적발됐다. 전북의 한 고등학교에서도 학생이 안경테를 반복해서 만지는 행동을 보였고, 감독교사가 안경에 비친 초록색 불빛을 발견하면서 부정행위가 드러났다."
+              },
+              {
+                "t": "p",
+                "x": "제주의 한 고등학교에서는 학생 제보를 받은 감독교사가 시험 도중 일반 안경을 스마트 안경으로 바꿔 쓰는 학생을 발견했다."
+              },
+              {
+                "t": "p",
+                "x": "적발된 학생 4명은 모두 해당 과목 시험 성적이 0점 처리됐다. 고등학생 3명에게는 특별교육 3일, 사회봉사 4시간, 출석정지 5일 등 학교별 학칙에 따른 별도 징계도 내려졌다."
+              },
+              {
+                "t": "p",
+                "x": "교육부는 AI 안경 등 새로운 디지털 기기를 활용한 부정행위가 발생함에 따라 학생평가 관리 강화에 나선다. 우선 2학기 기말고사를 앞둔 이달 셋째 주 스마트 안경 적발 사례를 담은 학생용 교육자료를 배포하고, 학교 현장에 부정행위 예방을 위한 유의사항을 안내할 예정이다."
+              },
+              {
+                "t": "p",
+                "x": "교육부와 시도교육청, 한국교육과정평가원이 참여하는 학생평가 공동관리위원회에서도 스마트 안경을 활용한 부정행위 예방 대책과 학교 지원 방안을 논의한다."
+              },
+              {
+                "t": "p",
+                "x": "교육부는 “AI 등 디지털 기술 발전에 따른 학생평가 환경 변화에 대응해 학교 현장의 평가 공정성과 신뢰성을 확보하기 위한 노력을 지속하겠다”고 밝혔다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "싱가포르, 개인용 AI\n에이전트 권한 제한 권고",
-          "body": "싱가포르 세 기관은 AI 에이전트에 필요한 앱만 잇고 파일 삭제는 허락받으라 했다.",
-          "mini_headline": "싱가포르, AI 에이전트 권고",
+        "en": {
+          "headline": "AI glasses exam cheating:\n4 pupils given zero marks",
+          "body": "An Education Ministry survey found four cases of smart-glasses cheating on school exams, all given zero marks.",
+          "mini_headline": "4 students get zero for AI glasses",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/aedf0157b1dcd79cc554610939c22bd5e277c9ff8c5bb5500b307ee3f8a1a398?w=1200",
-                "cap": "개인용 AI 에이전트는 웹사이트 탐색, 이메일 관리, 예약 등 사용자를 대신해 행동할 수 있다."
+                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.8ac1fa2c17534244ae231cd437548395_P1.png",
+                "cap": "Four middle and high school students caught taking exams in AI glasses… all given zero"
               },
               {
                 "t": "p",
-                "x": "개인용 AI 에이전트를 쓸 때는 필요한 앱만 연결하고 민감한 계정 접근은 제한하며 파일을 삭제하거나 공유하기 전에는 허락을 받게 설정해야 한다."
+                "x": "The Ministry of Education said on the 9th that a full survey of smart-glasses cheating in school exams at middle and high schools nationwide for the 2026 school year found a total of four cases."
               },
               {
                 "t": "p",
-                "x": "싱가포르 사이버보안청(Cyber Security Agency of Singapore), 정부기술청(Government Technology Agency), 정보통신미디어개발청(Infocomm Media Development Authority)이 11월 6일 낸 권고문에 담긴 예방 수칙들이다. 권고는 Meta Muse가 싱가포르에 출시된 뒤 나왔다. 회사 측이 소비자용으로 만든 세계 최초의 개인용 AI 에이전트라고 내세우는 제품이다."
+                "x": "The survey covered every middle and high school in the country for a week, from the 27th of last month to the 3rd of this month. Two cases were found in addition to the two already known from press reports."
               },
               {
                 "t": "p",
-                "x": "권고문은 \"AI 에이전트는 매우 유용할 수 있지만, 사람 비서처럼 대하며 내 정보에 대한 폭넓은 접근 권한과 암묵적 신뢰를 똑같이 줄 수는 없다\"고 밝혔다."
+                "x": "By school level, one case was at a middle school and three at high schools. By region, there were two in Seoul, one in North Jeolla and one in Jeju. By exam period, three occurred in first-semester finals and one in second-semester midterms."
               },
               {
                 "t": "p",
-                "x": "권고문은 에이전트가 은행·정부·의료 계정에 접근하지 않게 하고 \"항상 허용\" 대신 일회성 승인을 택하며 정보가 AI 모델 학습에 쓰이는지 확인하라고 권한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/05aaf5e4a6966ebd091d6915afb54d8748cbaa821177db0aa4596f3a75f1f011?w=750",
-                "cap": "AI 에이전트 사용 권고 그래픽."
+                "x": "The students cheated by touching smart glasses during the exam or by swapping their regular glasses for smart glasses."
               },
               {
                 "t": "p",
-                "x": "권고문은 \"가장 좋은 보호책은 에이전트가 보고 할 수 있는 범위를 제한하는 것\"이라고 밝혔다."
+                "x": "At a high school in Seoul, a student who did not normally wear glasses put on smart glasses during an exam and kept touching the frames until caught by a proctor. At a high school in North Jeolla, a student repeatedly touched the frames, and the cheating came to light when the proctor spotted a green light reflected in the glasses."
+              },
+              {
+                "t": "p",
+                "x": "At a high school in Jeju, a proctor acting on a tip from a student caught a student swapping regular glasses for smart glasses mid-exam."
+              },
+              {
+                "t": "p",
+                "x": "All four students caught received a zero for the subject. The three high school students also received separate disciplinary measures under their schools' rules, including three days of special education, four hours of community service and five days of suspension."
+              },
+              {
+                "t": "p",
+                "x": "With cheating using new digital devices such as AI glasses emerging, the ministry will tighten management of student assessment. It plans first to distribute student education materials featuring smart-glasses cases in the third week of this month, ahead of second-semester finals, and to send schools guidance on preventing cheating."
+              },
+              {
+                "t": "p",
+                "x": "A joint student assessment management committee involving the ministry, provincial and metropolitan education offices and the Korea Institute for Curriculum and Evaluation will also discuss measures to prevent smart-glasses cheating and ways to support schools."
+              },
+              {
+                "t": "p",
+                "x": "The ministry said it “will continue efforts to secure fairness and reliability of assessment in schools in response to changes in the student assessment environment brought by advances in digital technology such as AI.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "シンガポール、個人用AI\nエージェントの権限制限を促す",
-          "body": "シンガポール三機関は、AIエージェントに繋ぐアプリを絞り、ファイル削除は許可制にと促した。",
-          "mini_headline": "シンガポールのAIエージェント勧告",
+          "headline": "AI眼鏡で試験不正\n中高生4人が0点",
+          "body": "教育部の全数調査で、スマート眼鏡による内申試験の不正4件が見つかり、全員0点となった。",
+          "mini_headline": "AI眼鏡で不正、4人が0点",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/aedf0157b1dcd79cc554610939c22bd5e277c9ff8c5bb5500b307ee3f8a1a398?w=1200",
-                "cap": "個人用AIエージェントは、ウェブサイトの閲覧やメール管理、予約など、ユーザーに代わって行動できる。"
+                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.8ac1fa2c17534244ae231cd437548395_P1.png",
+                "cap": "AI眼鏡をかけて試験を受け摘発された中高生4人…全員0点に"
               },
               {
                 "t": "p",
-                "x": "個人用AIエージェントを使う際は、必要なアプリだけを連携させ、機密性の高いアカウントへのアクセスを制限し、ファイルの削除や共有の前に許可を求めるよう指定すること。"
+                "x": "教育部は9日、全国の中学・高校を対象に2026学年度のスマート眼鏡を使った内申試験での不正行為を全数調査した結果、計4件が確認されたと明らかにした。"
               },
               {
                 "t": "p",
-                "x": "これらは、シンガポール・サイバーセキュリティ庁(Cyber Security Agency of Singapore)、政府技術庁(Government Technology Agency)、情報通信メディア開発庁(Infocomm Media Development Authority)が11月6日に出した勧告に盛り込まれた予防策の一部だ。勧告は、同社が消費者向けに作られた世界初の個人用AIエージェントとうたう Meta Muse のシンガポールでの提供開始を受けたものだ。"
+                "x": "調査は先月27日から今月3日までの1週間、全国すべての中学・高校を対象に行われた。報道で知られていた2件のほかに、新たに2件が確認された。"
               },
               {
                 "t": "p",
-                "x": "勧告は「AIエージェントは非常に役立つが、人間のアシスタントのように扱い、自分の情報への同じ広範なアクセスと暗黙の信頼を与えるわけにはいかない」としている。"
+                "x": "学校別では中学校1件、高校3件だ。地域別ではソウル2件、全北1件、済州1件だった。時期別では1学期の期末試験で3件、2学期の中間試験で1件が発生した。"
               },
               {
                 "t": "p",
-                "x": "勧告は、銀行・行政・医療のアカウントへのアクセスをエージェントに与えないこと、「常に許可」ではなく一回限りの承認を選ぶこと、情報がAIモデルの学習に使われるかを確認することを推奨している。"
-              },
-              {
-                "t": "img",
-                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/05aaf5e4a6966ebd091d6915afb54d8748cbaa821177db0aa4596f3a75f1f011?w=750",
-                "cap": "AIエージェントの利用に関する勧告の図解。"
+                "x": "摘発された生徒は、試験中にスマート眼鏡を触ったり、普通の眼鏡をスマート眼鏡にかけ替えたりする方法で不正を行った。"
               },
               {
                 "t": "p",
-                "x": "勧告は「最善の防御は、エージェントが見られること、できることを制限することだ」としている。"
+                "x": "ソウルのある高校では、普段眼鏡をかけていない生徒が試験中にスマート眼鏡をかけ、フレームを触り続けていたところを試験監督の教員に見つかった。全北のある高校でも生徒がフレームを繰り返し触っており、監督教員が眼鏡に映った緑色の光に気づいたことで不正が発覚した。"
+              },
+              {
+                "t": "p",
+                "x": "済州のある高校では、生徒からの通報を受けた監督教員が、試験中に普通の眼鏡をスマート眼鏡にかけ替える生徒を見つけた。"
+              },
+              {
+                "t": "p",
+                "x": "摘発された生徒4人は全員、当該科目の試験成績が0点となった。高校生3人には、特別教育3日、社会奉仕4時間、出席停止5日など、各校の校則に基づく別途の懲戒処分も科された。"
+              },
+              {
+                "t": "p",
+                "x": "教育部は、AI眼鏡など新たなデジタル機器を使った不正が起きたことを受け、学生評価の管理強化に乗り出す。まず2学期の期末試験を控えた今月第3週に、スマート眼鏡の摘発事例を盛り込んだ生徒向け教材を配布し、学校現場に不正防止の注意事項を案内する予定だ。"
+              },
+              {
+                "t": "p",
+                "x": "教育部と市・道教育庁、韓国教育課程評価院が参加する学生評価共同管理委員会でも、スマート眼鏡を使った不正の防止策と学校支援策を話し合う。"
+              },
+              {
+                "t": "p",
+                "x": "教育部は「AIなどデジタル技術の発展に伴う学生評価環境の変化に対応し、学校現場の評価の公正性と信頼性を確保するための努力を続ける」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "新加坡呼吁限制\n个人AI智能体访问权限",
-          "body": "新加坡三家机构提醒用户，AI智能体只连接必要应用，删除文件前须经许可。",
-          "mini_headline": "新加坡发布AI智能体建议",
+          "headline": "戴AI眼镜考试作弊\n4名初高中生被判0分",
+          "body": "教育部全面调查发现4起利用智能眼镜的校内考试作弊，全部被判0分。",
+          "mini_headline": "AI眼镜作弊，4人得0分",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/aedf0157b1dcd79cc554610939c22bd5e277c9ff8c5bb5500b307ee3f8a1a398?w=1200",
-                "cap": "个人AI智能体可以代表用户采取行动，例如浏览网站、管理电子邮件和预订。"
+                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.8ac1fa2c17534244ae231cd437548395_P1.png",
+                "cap": "戴AI眼镜考试被抓的4名初高中生……全部判为0分"
               },
               {
                 "t": "p",
-                "x": "使用个人AI智能体时，只连接必要的应用，限制对敏感账户的访问，并明确规定删除或共享文件前须获得许可。"
+                "x": "教育部9日表示，对全国初高中2026学年与智能眼镜相关的校内考试作弊行为进行全面调查后，共确认4起。"
               },
               {
                 "t": "p",
-                "x": "这些是新加坡网络安全局（Cyber Security Agency of Singapore）、政府科技局（Government Technology Agency）和资讯通信媒体发展局（Infocomm Media Development Authority）11月6日发布的建议中列出的部分预防措施。此前，Meta Muse 在新加坡推出，该公司称其为全球首款面向消费者打造的个人AI智能体。"
+                "x": "此次调查于上月27日至本月3日进行，为期一周，覆盖全国所有初高中。除此前媒体报道的2起外，又新确认了2起。"
               },
               {
                 "t": "p",
-                "x": "建议指出：“AI智能体可能非常有用，但你不能像对待人类助理那样对待它们，给予它们同样广泛的信息访问权限和默认信任。”"
+                "x": "按学校类别，初中1起、高中3起。按地区，首尔2起、全北1起、济州1起。按考试时段，第一学期期末考试3起，第二学期期中考试1起。"
               },
               {
                 "t": "p",
-                "x": "建议提出，避免让智能体访问银行、政府和医疗账户，选择一次性批准而非“始终允许”选项，并查看信息是否会被用于训练AI模型。"
-              },
-              {
-                "t": "img",
-                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/05aaf5e4a6966ebd091d6915afb54d8748cbaa821177db0aa4596f3a75f1f011?w=750",
-                "cap": "AI智能体使用建议图示。"
+                "x": "被查获的学生在考试中通过触碰智能眼镜，或将普通眼镜换成智能眼镜的方式作弊。"
               },
               {
                 "t": "p",
-                "x": "建议指出：“最好的保护是限制你的智能体能看到什么、能做什么。”"
+                "x": "首尔一所高中一名平时不戴眼镜的学生在考试中戴上智能眼镜并不断触摸镜框，被监考老师发现。全北一所高中也有学生反复触摸镜框，监考老师发现眼镜上映出的绿色光点，作弊行为因此暴露。"
+              },
+              {
+                "t": "p",
+                "x": "济州一所高中的监考老师接到学生举报后，发现一名学生在考试中把普通眼镜换成了智能眼镜。"
+              },
+              {
+                "t": "p",
+                "x": "被查获的4名学生该科目考试成绩全部记为0分。3名高中生还根据各校校规受到另行处分，包括3天特别教育、4小时社区服务和5天停课等。"
+              },
+              {
+                "t": "p",
+                "x": "鉴于出现了利用AI眼镜等新型数字设备的作弊行为，教育部将加强学生评价管理。首先将在第二学期期末考试前的本月第三周发放收录智能眼镜作弊案例的学生教育资料，并向学校发布防范作弊的注意事项。"
+              },
+              {
+                "t": "p",
+                "x": "由教育部、各市道教育厅和韩国教育课程评价院参与的学生评价联合管理委员会也将讨论防范智能眼镜作弊的对策及学校支持方案。"
+              },
+              {
+                "t": "p",
+                "x": "教育部表示：“将应对AI等数字技术发展带来的学生评价环境变化，持续努力确保学校评价的公平性与可信度。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Singapur pide limitar el acceso\nde los agentes personales de AI",
-          "body": "Tres agencias de Singapur pidieron conectar solo apps necesarias a agentes de AI y exigir permiso para borrar archivos.",
-          "mini_headline": "Singapur emite un aviso sobre agentes de AI",
+          "headline": "Trampas con gafas con IA:\n4 alumnos reciben un cero",
+          "body": "El Ministerio de Educación halló cuatro casos de trampa con gafas inteligentes en exámenes, todos con un cero.",
+          "mini_headline": "Gafas con IA: 4 alumnos con un cero",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/aedf0157b1dcd79cc554610939c22bd5e277c9ff8c5bb5500b307ee3f8a1a398?w=1200",
-                "cap": "Los agentes personales de AI pueden actuar en nombre de los usuarios, por ejemplo navegando por sitios web, gestionando e-mails y haciendo reservas."
+                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.8ac1fa2c17534244ae231cd437548395_P1.png",
+                "cap": "Cuatro alumnos de secundaria sorprendidos en exámenes con gafas de IA… todos con un cero"
               },
               {
                 "t": "p",
-                "x": "Al usar agentes personales de AI, conecte solo las apps necesarias, restrinja el acceso a cuentas sensibles y especifique que se requiere permiso antes de borrar o compartir archivos."
+                "x": "El Ministerio de Educación informó el día 9 de que una investigación exhaustiva sobre trampas con gafas inteligentes en los exámenes internos de los centros de secundaria de todo el país en el curso 2026 halló un total de cuatro casos."
               },
               {
                 "t": "p",
-                "x": "Estas son algunas de las precauciones recogidas en un aviso emitido el 6 de noviembre por la Cyber Security Agency of Singapore, la Government Technology Agency y la Infocomm Media Development Authority. Llega tras el lanzamiento en Singapur de Meta Muse, que la compañía presenta como el primer agente personal de AI del mundo creado para consumidores."
+                "x": "La investigación abarcó durante una semana, del 27 del mes pasado al 3 de este mes, todos los centros de secundaria del país. Además de los dos casos ya conocidos por la prensa, se confirmaron otros dos."
               },
               {
                 "t": "p",
-                "x": "\"Los agentes de AI pueden ser muy útiles, pero no se les puede tratar como asistentes humanos y darles el mismo acceso amplio a su información ni la misma confianza implícita\", señaló el aviso."
+                "x": "Por nivel, hubo un caso en secundaria básica y tres en bachillerato. Por región, dos en Seúl, uno en Jeolla del Norte y uno en Jeju. Por periodo, tres se produjeron en los exámenes finales del primer semestre y uno en los parciales del segundo."
               },
               {
                 "t": "p",
-                "x": "Recomienda evitar dar a los agentes acceso a cuentas bancarias, gubernamentales y de salud, elegir la aprobación única en lugar de la opción \"permitir siempre\" y comprobar si la información se usa para entrenar modelos de AI."
-              },
-              {
-                "t": "img",
-                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/05aaf5e4a6966ebd091d6915afb54d8748cbaa821177db0aa4596f3a75f1f011?w=750",
-                "cap": "Infografía del aviso sobre el uso de agentes de AI."
+                "x": "Los alumnos hicieron trampa tocando las gafas inteligentes durante el examen o cambiando sus gafas normales por gafas inteligentes."
               },
               {
                 "t": "p",
-                "x": "\"La mejor protección es limitar lo que su agente puede ver o hacer\", señaló el aviso."
+                "x": "En un instituto de Seúl, un alumno que no solía llevar gafas se puso unas gafas inteligentes durante el examen y no dejó de tocarse la montura hasta que lo descubrió el profesor vigilante. En un instituto de Jeolla del Norte, otro alumno se tocaba la montura repetidamente, y la trampa salió a la luz cuando el vigilante vio una luz verde reflejada en las gafas."
+              },
+              {
+                "t": "p",
+                "x": "En un instituto de Jeju, un vigilante alertado por otro alumno descubrió durante el examen a un estudiante que cambiaba sus gafas normales por unas inteligentes."
+              },
+              {
+                "t": "p",
+                "x": "Los cuatro alumnos sorprendidos recibieron un cero en la asignatura. Los tres de bachillerato recibieron además sanciones conforme a las normas de cada centro, como tres días de formación especial, cuatro horas de servicio comunitario y cinco días de suspensión."
+              },
+              {
+                "t": "p",
+                "x": "Ante la aparición de trampas con nuevos dispositivos digitales como las gafas con IA, el ministerio reforzará la gestión de las evaluaciones. Primero, en la tercera semana de este mes, antes de los exámenes finales del segundo semestre, distribuirá material educativo para alumnos con casos de gafas inteligentes detectados y enviará a los centros pautas para prevenir las trampas."
+              },
+              {
+                "t": "p",
+                "x": "El comité conjunto de gestión de la evaluación estudiantil, en el que participan el ministerio, las oficinas de educación provinciales y metropolitanas y el Instituto Coreano de Currículo y Evaluación, también debatirá medidas para prevenir las trampas con gafas inteligentes y formas de apoyo a los centros."
+              },
+              {
+                "t": "p",
+                "x": "El ministerio afirmó que “seguirá esforzándose por garantizar la equidad y la fiabilidad de la evaluación en los centros, en respuesta a los cambios en el entorno de evaluación derivados del avance de tecnologías digitales como la IA”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "싱가포르, 개인용 AI\n에이전트 권한 제한 권고",
-          "body": "싱가포르 세 기관은 AI 에이전트에 필요한 앱만 잇고 파일 삭제는 허락받으라 했다.",
-          "mini_headline": "싱가포르, AI 에이전트 권고",
+        "en": {
+          "headline": "AI glasses exam cheating:\n4 pupils given zero marks",
+          "body": "An Education Ministry survey found four cases of smart-glasses cheating on school exams, all given zero marks.",
+          "mini_headline": "4 students get zero for AI glasses",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/aedf0157b1dcd79cc554610939c22bd5e277c9ff8c5bb5500b307ee3f8a1a398?w=1200",
-                "cap": "개인용 AI 에이전트는 웹사이트 탐색, 이메일 관리, 예약 등 사용자를 대신해 행동할 수 있다."
+                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.8ac1fa2c17534244ae231cd437548395_P1.png",
+                "cap": "Four middle and high school students caught taking exams in AI glasses… all given zero"
               },
               {
                 "t": "p",
-                "x": "개인용 AI 에이전트를 쓸 때는 필요한 앱만 연결하고, 민감한 계정 접근을 제한하며, 파일을 삭제하거나 공유하기 전에 허락을 받도록 지정해야 한다."
+                "x": "The Ministry of Education said on the 9th that a full survey of smart-glasses cheating in school exams at middle and high schools nationwide for the 2026 school year found a total of four cases."
               },
               {
                 "t": "p",
-                "x": "싱가포르 사이버보안청(Cyber Security Agency of Singapore), 정부기술청(Government Technology Agency), 정보통신미디어개발청(Infocomm Media Development Authority)이 11월 6일 낸 권고문에 담긴 예방 수칙들이다. 이 권고는 회사 측이 소비자용으로 만든 세계 최초의 개인용 AI 에이전트라고 내세우는 Meta Muse가 싱가포르에 출시된 뒤 나왔다."
+                "x": "The survey covered every middle and high school in the country for a week, from the 27th of last month to the 3rd of this month. Two cases were found in addition to the two already known from press reports."
               },
               {
                 "t": "p",
-                "x": "권고문은 \"AI 에이전트는 매우 유용할 수 있지만, 사람 비서처럼 대하며 내 정보에 대한 폭넓은 접근 권한과 암묵적 신뢰를 똑같이 줄 수는 없다\"고 밝혔다."
+                "x": "By school level, one case was at a middle school and three at high schools. By region, there were two in Seoul, one in North Jeolla and one in Jeju. By exam period, three occurred in first-semester finals and one in second-semester midterms."
               },
               {
                 "t": "p",
-                "x": "권고문은 은행·정부·의료 계정에 대한 에이전트 접근을 피하고, \"항상 허용\" 대신 일회성 승인을 택하며, 정보가 AI 모델 학습에 쓰이는지 확인하라고 권한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/05aaf5e4a6966ebd091d6915afb54d8748cbaa821177db0aa4596f3a75f1f011?w=750",
-                "cap": "AI 에이전트 사용에 관한 권고 그래픽."
+                "x": "The students cheated by touching smart glasses during the exam or by swapping their regular glasses for smart glasses."
               },
               {
                 "t": "p",
-                "x": "권고문은 \"가장 좋은 보호책은 에이전트가 보고 할 수 있는 범위를 제한하는 것\"이라고 밝혔다."
+                "x": "At a high school in Seoul, a student who did not normally wear glasses put on smart glasses during an exam and kept touching the frames until caught by a proctor. At a high school in North Jeolla, a student repeatedly touched the frames, and the cheating came to light when the proctor spotted a green light reflected in the glasses."
+              },
+              {
+                "t": "p",
+                "x": "At a high school in Jeju, a proctor acting on a tip from a student caught a student swapping regular glasses for smart glasses mid-exam."
+              },
+              {
+                "t": "p",
+                "x": "All four students caught received a zero for the subject. The three high school students also received separate disciplinary measures under their schools' rules, including three days of special education, four hours of community service and five days of suspension."
+              },
+              {
+                "t": "p",
+                "x": "With cheating using new digital devices such as AI glasses emerging, the ministry will tighten management of student assessment. It plans first to distribute student education materials featuring smart-glasses cases in the third week of this month, ahead of second-semester finals, and to send schools guidance on preventing cheating."
+              },
+              {
+                "t": "p",
+                "x": "A joint student assessment management committee involving the ministry, provincial and metropolitan education offices and the Korea Institute for Curriculum and Evaluation will also discuss measures to prevent smart-glasses cheating and ways to support schools."
+              },
+              {
+                "t": "p",
+                "x": "The ministry said it “will continue efforts to secure fairness and reliability of assessment in schools in response to changes in the student assessment environment brought by advances in digital technology such as AI.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "シンガポール、個人用AI\nエージェントの権限制限を促す",
-          "body": "シンガポール三機関は、AIエージェントに繋ぐアプリを絞り、ファイル削除は許可制にと促した。",
-          "mini_headline": "シンガポールのAIエージェント勧告",
+          "headline": "AI眼鏡で試験不正\n中高生4人が0点",
+          "body": "教育部の全数調査で、スマート眼鏡による内申試験の不正4件が見つかり、全員0点となった。",
+          "mini_headline": "AI眼鏡で不正、4人が0点",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/aedf0157b1dcd79cc554610939c22bd5e277c9ff8c5bb5500b307ee3f8a1a398?w=1200",
-                "cap": "個人用AIエージェントは、ウェブサイトの閲覧やメール管理、予約など、ユーザーに代わって行動できる。"
+                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.8ac1fa2c17534244ae231cd437548395_P1.png",
+                "cap": "AI眼鏡をかけて試験を受け摘発された中高生4人…全員0点に"
               },
               {
                 "t": "p",
-                "x": "個人用AIエージェントを使う際は、必要なアプリだけを連携させ、機密性の高いアカウントへのアクセスを制限し、ファイルの削除や共有の前に許可を求めるよう指定すること。"
+                "x": "教育部は9日、全国の中学・高校を対象に2026学年度のスマート眼鏡を使った内申試験での不正行為を全数調査した結果、計4件が確認されたと明らかにした。"
               },
               {
                 "t": "p",
-                "x": "これらは、シンガポール・サイバーセキュリティ庁(Cyber Security Agency of Singapore)、政府技術庁(Government Technology Agency)、情報通信メディア開発庁(Infocomm Media Development Authority)が11月6日に出した勧告に盛り込まれた予防策の一部だ。勧告は、同社が消費者向けに作られた世界初の個人用AIエージェントとうたう Meta Muse のシンガポールでの提供開始を受けたものだ。"
+                "x": "調査は先月27日から今月3日までの1週間、全国すべての中学・高校を対象に行われた。報道で知られていた2件のほかに、新たに2件が確認された。"
               },
               {
                 "t": "p",
-                "x": "勧告は「AIエージェントは非常に役立つが、人間のアシスタントのように扱い、自分の情報への同じ広範なアクセスと暗黙の信頼を与えるわけにはいかない」としている。"
+                "x": "学校別では中学校1件、高校3件だ。地域別ではソウル2件、全北1件、済州1件だった。時期別では1学期の期末試験で3件、2学期の中間試験で1件が発生した。"
               },
               {
                 "t": "p",
-                "x": "勧告は、銀行・行政・医療のアカウントへのアクセスをエージェントに与えないこと、「常に許可」ではなく一回限りの承認を選ぶこと、情報がAIモデルの学習に使われるかを確認することを推奨している。"
-              },
-              {
-                "t": "img",
-                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/05aaf5e4a6966ebd091d6915afb54d8748cbaa821177db0aa4596f3a75f1f011?w=750",
-                "cap": "AIエージェントの利用に関する勧告の図解。"
+                "x": "摘発された生徒は、試験中にスマート眼鏡を触ったり、普通の眼鏡をスマート眼鏡にかけ替えたりする方法で不正を行った。"
               },
               {
                 "t": "p",
-                "x": "勧告は「最善の防御は、エージェントが見られること、できることを制限することだ」としている。"
+                "x": "ソウルのある高校では、普段眼鏡をかけていない生徒が試験中にスマート眼鏡をかけ、フレームを触り続けていたところを試験監督の教員に見つかった。全北のある高校でも生徒がフレームを繰り返し触っており、監督教員が眼鏡に映った緑色の光に気づいたことで不正が発覚した。"
+              },
+              {
+                "t": "p",
+                "x": "済州のある高校では、生徒からの通報を受けた監督教員が、試験中に普通の眼鏡をスマート眼鏡にかけ替える生徒を見つけた。"
+              },
+              {
+                "t": "p",
+                "x": "摘発された生徒4人は全員、当該科目の試験成績が0点となった。高校生3人には、特別教育3日、社会奉仕4時間、出席停止5日など、各校の校則に基づく別途の懲戒処分も科された。"
+              },
+              {
+                "t": "p",
+                "x": "教育部は、AI眼鏡など新たなデジタル機器を使った不正が起きたことを受け、学生評価の管理強化に乗り出す。まず2学期の期末試験を控えた今月第3週に、スマート眼鏡の摘発事例を盛り込んだ生徒向け教材を配布し、学校現場に不正防止の注意事項を案内する予定だ。"
+              },
+              {
+                "t": "p",
+                "x": "教育部と市・道教育庁、韓国教育課程評価院が参加する学生評価共同管理委員会でも、スマート眼鏡を使った不正の防止策と学校支援策を話し合う。"
+              },
+              {
+                "t": "p",
+                "x": "教育部は「AIなどデジタル技術の発展に伴う学生評価環境の変化に対応し、学校現場の評価の公正性と信頼性を確保するための努力を続ける」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "新加坡呼吁限制\n个人AI智能体访问权限",
-          "body": "新加坡三家机构提醒用户，AI智能体只连接必要应用，删除文件前须经许可。",
-          "mini_headline": "新加坡发布AI智能体建议",
+          "headline": "戴AI眼镜考试作弊\n4名初高中生被判0分",
+          "body": "教育部全面调查发现4起利用智能眼镜的校内考试作弊，全部被判0分。",
+          "mini_headline": "AI眼镜作弊，4人得0分",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/aedf0157b1dcd79cc554610939c22bd5e277c9ff8c5bb5500b307ee3f8a1a398?w=1200",
-                "cap": "个人AI智能体可以代表用户采取行动，例如浏览网站、管理电子邮件和预订。"
+                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.8ac1fa2c17534244ae231cd437548395_P1.png",
+                "cap": "戴AI眼镜考试被抓的4名初高中生……全部判为0分"
               },
               {
                 "t": "p",
-                "x": "使用个人AI智能体时，只连接必要的应用，限制对敏感账户的访问，并明确规定删除或共享文件前须获得许可。"
+                "x": "教育部9日表示，对全国初高中2026学年与智能眼镜相关的校内考试作弊行为进行全面调查后，共确认4起。"
               },
               {
                 "t": "p",
-                "x": "这些是新加坡网络安全局（Cyber Security Agency of Singapore）、政府科技局（Government Technology Agency）和资讯通信媒体发展局（Infocomm Media Development Authority）11月6日发布的建议中列出的部分预防措施。此前，Meta Muse 在新加坡推出，该公司称其为全球首款面向消费者打造的个人AI智能体。"
+                "x": "此次调查于上月27日至本月3日进行，为期一周，覆盖全国所有初高中。除此前媒体报道的2起外，又新确认了2起。"
               },
               {
                 "t": "p",
-                "x": "建议指出：“AI智能体可能非常有用，但你不能像对待人类助理那样对待它们，给予它们同样广泛的信息访问权限和默认信任。”"
+                "x": "按学校类别，初中1起、高中3起。按地区，首尔2起、全北1起、济州1起。按考试时段，第一学期期末考试3起，第二学期期中考试1起。"
               },
               {
                 "t": "p",
-                "x": "建议提出，避免让智能体访问银行、政府和医疗账户，选择一次性批准而非“始终允许”选项，并查看信息是否会被用于训练AI模型。"
-              },
-              {
-                "t": "img",
-                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/05aaf5e4a6966ebd091d6915afb54d8748cbaa821177db0aa4596f3a75f1f011?w=750",
-                "cap": "AI智能体使用建议图示。"
+                "x": "被查获的学生在考试中通过触碰智能眼镜，或将普通眼镜换成智能眼镜的方式作弊。"
               },
               {
                 "t": "p",
-                "x": "建议指出：“最好的保护是限制你的智能体能看到什么、能做什么。”"
+                "x": "首尔一所高中一名平时不戴眼镜的学生在考试中戴上智能眼镜并不断触摸镜框，被监考老师发现。全北一所高中也有学生反复触摸镜框，监考老师发现眼镜上映出的绿色光点，作弊行为因此暴露。"
+              },
+              {
+                "t": "p",
+                "x": "济州一所高中的监考老师接到学生举报后，发现一名学生在考试中把普通眼镜换成了智能眼镜。"
+              },
+              {
+                "t": "p",
+                "x": "被查获的4名学生该科目考试成绩全部记为0分。3名高中生还根据各校校规受到另行处分，包括3天特别教育、4小时社区服务和5天停课等。"
+              },
+              {
+                "t": "p",
+                "x": "鉴于出现了利用AI眼镜等新型数字设备的作弊行为，教育部将加强学生评价管理。首先将在第二学期期末考试前的本月第三周发放收录智能眼镜作弊案例的学生教育资料，并向学校发布防范作弊的注意事项。"
+              },
+              {
+                "t": "p",
+                "x": "由教育部、各市道教育厅和韩国教育课程评价院参与的学生评价联合管理委员会也将讨论防范智能眼镜作弊的对策及学校支持方案。"
+              },
+              {
+                "t": "p",
+                "x": "教育部表示：“将应对AI等数字技术发展带来的学生评价环境变化，持续努力确保学校评价的公平性与可信度。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Singapur pide limitar el acceso\nde los agentes personales de AI",
-          "body": "Tres agencias de Singapur pidieron conectar solo apps necesarias a agentes de AI y exigir permiso para borrar archivos.",
-          "mini_headline": "Singapur emite un aviso sobre agentes de AI",
+          "headline": "Trampas con gafas con IA:\n4 alumnos reciben un cero",
+          "body": "El Ministerio de Educación halló cuatro casos de trampa con gafas inteligentes en exámenes, todos con un cero.",
+          "mini_headline": "Gafas con IA: 4 alumnos con un cero",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/aedf0157b1dcd79cc554610939c22bd5e277c9ff8c5bb5500b307ee3f8a1a398?w=1200",
-                "cap": "Los agentes personales de AI pueden actuar en nombre de los usuarios, por ejemplo navegando por sitios web, gestionando e-mails y haciendo reservas."
+                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.8ac1fa2c17534244ae231cd437548395_P1.png",
+                "cap": "Cuatro alumnos de secundaria sorprendidos en exámenes con gafas de IA… todos con un cero"
               },
               {
                 "t": "p",
-                "x": "Al usar agentes personales de AI, conecte solo las apps necesarias, restrinja el acceso a cuentas sensibles y especifique que se requiere permiso antes de borrar o compartir archivos."
+                "x": "El Ministerio de Educación informó el día 9 de que una investigación exhaustiva sobre trampas con gafas inteligentes en los exámenes internos de los centros de secundaria de todo el país en el curso 2026 halló un total de cuatro casos."
               },
               {
                 "t": "p",
-                "x": "Estas son algunas de las precauciones recogidas en un aviso emitido el 6 de noviembre por la Cyber Security Agency of Singapore, la Government Technology Agency y la Infocomm Media Development Authority. Llega tras el lanzamiento en Singapur de Meta Muse, que la compañía presenta como el primer agente personal de AI del mundo creado para consumidores."
+                "x": "La investigación abarcó durante una semana, del 27 del mes pasado al 3 de este mes, todos los centros de secundaria del país. Además de los dos casos ya conocidos por la prensa, se confirmaron otros dos."
               },
               {
                 "t": "p",
-                "x": "\"Los agentes de AI pueden ser muy útiles, pero no se les puede tratar como asistentes humanos y darles el mismo acceso amplio a su información ni la misma confianza implícita\", señaló el aviso."
+                "x": "Por nivel, hubo un caso en secundaria básica y tres en bachillerato. Por región, dos en Seúl, uno en Jeolla del Norte y uno en Jeju. Por periodo, tres se produjeron en los exámenes finales del primer semestre y uno en los parciales del segundo."
               },
               {
                 "t": "p",
-                "x": "Recomienda evitar dar a los agentes acceso a cuentas bancarias, gubernamentales y de salud, elegir la aprobación única en lugar de la opción \"permitir siempre\" y comprobar si la información se usa para entrenar modelos de AI."
-              },
-              {
-                "t": "img",
-                "src": "https://cassette.sphdigital.com.sg/image/straitstimes/05aaf5e4a6966ebd091d6915afb54d8748cbaa821177db0aa4596f3a75f1f011?w=750",
-                "cap": "Infografía del aviso sobre el uso de agentes de AI."
+                "x": "Los alumnos hicieron trampa tocando las gafas inteligentes durante el examen o cambiando sus gafas normales por gafas inteligentes."
               },
               {
                 "t": "p",
-                "x": "\"La mejor protección es limitar lo que su agente puede ver o hacer\", señaló el aviso."
+                "x": "En un instituto de Seúl, un alumno que no solía llevar gafas se puso unas gafas inteligentes durante el examen y no dejó de tocarse la montura hasta que lo descubrió el profesor vigilante. En un instituto de Jeolla del Norte, otro alumno se tocaba la montura repetidamente, y la trampa salió a la luz cuando el vigilante vio una luz verde reflejada en las gafas."
+              },
+              {
+                "t": "p",
+                "x": "En un instituto de Jeju, un vigilante alertado por otro alumno descubrió durante el examen a un estudiante que cambiaba sus gafas normales por unas inteligentes."
+              },
+              {
+                "t": "p",
+                "x": "Los cuatro alumnos sorprendidos recibieron un cero en la asignatura. Los tres de bachillerato recibieron además sanciones conforme a las normas de cada centro, como tres días de formación especial, cuatro horas de servicio comunitario y cinco días de suspensión."
+              },
+              {
+                "t": "p",
+                "x": "Ante la aparición de trampas con nuevos dispositivos digitales como las gafas con IA, el ministerio reforzará la gestión de las evaluaciones. Primero, en la tercera semana de este mes, antes de los exámenes finales del segundo semestre, distribuirá material educativo para alumnos con casos de gafas inteligentes detectados y enviará a los centros pautas para prevenir las trampas."
+              },
+              {
+                "t": "p",
+                "x": "El comité conjunto de gestión de la evaluación estudiantil, en el que participan el ministerio, las oficinas de educación provinciales y metropolitanas y el Instituto Coreano de Currículo y Evaluación, también debatirá medidas para prevenir las trampas con gafas inteligentes y formas de apoyo a los centros."
+              },
+              {
+                "t": "p",
+                "x": "El ministerio afirmó que “seguirá esforzándose por garantizar la equidad y la fiabilidad de la evaluación en los centros, en respuesta a los cambios en el entorno de evaluación derivados del avance de tecnologías digitales como la IA”."
               }
             ]
           }
@@ -1551,195 +1611,195 @@
       }
     },
     {
-      "id": "south-australia-ai-parking-fines",
+      "id": "bahrain-shura-deepfake-vote",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "남호주, 고지서 없는\nAI 주차 벌금 없앤다",
-      "body": "남호주 주총리는 벌금 철회 사례를 들어 무고지 AI 카메라 벌금을 없애기로 했다.",
-      "mini_headline": "SA, AI 주차 벌금 폐지",
+      "headline": "바레인 슈라위원회\n딥페이크 처벌안 부결",
+      "body": "바레인 슈라위원회가 유해 딥페이크 징역·벌금안을 20대 15로 부결했다.",
+      "mini_headline": "바레인, 딥페이크 처벌안 부결",
       "tool": "Politics",
-      "source": "7NEWS",
-      "url": "https://7news.com.au/news/ticketless-ai-parking-fines-to-be-scrapped-under-south-australia-overhaul-c-23131921",
-      "accent": "#ff5a4d",
+      "source": "News of Bahrain",
+      "url": "https://www.newsofbahrain.com/en/article/deepfake-penalties-rejected-2015",
+      "accent": "#eb367f",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "슈라위원회가 유해 딥페이크 제작자에게 징역형과 최대 BD10,000의 벌금을 물리는 제안을 20대 15로 부결했다. 소속 위원 한 명이 가짜 영상에 속은 사연을 듣고도 이런 결정을 내렸다."
+          },
+          {
+            "t": "p",
+            "x": "2014년 정보기술범죄법 개정안은 외교·국방·국가안보위원회 권고대로 부결됐다. 위원회는 개정안에 딥페이크 정의가 없다고 지적했다."
+          },
+          {
             "t": "img",
-            "src": "https://images.7news.com.au/publication/C-23131921/ee9741ab55c47e2b9087e00be5182d21094275ff-16x9-x0y0w1280h720.png?imwidth=1200",
-            "cap": "카메라 차량 기술로 발부되는 무고지 주차 벌금이 남호주에서 폐지된다."
+            "src": "https://mdisebzgyrtdwsnwlszm.supabase.co/storage/v1/object/public/article-covers/temp/en/9kk-mw8by24o.jpg",
+            "cap": "슈라위원회 위원 칼리드 알 마스카티"
           },
           {
             "t": "p",
-            "x": "피터 말리나우스카스(Peter Malinauskas) 주총리는 위반 시점에 시의회 단속원이 실물 위반 통지서를 발부하도록 하는 개혁안을 발표했다. 사실상 AI-assisted 카메라 차량 기술로 발부되던 무고지 주차 벌금을 없애는 조치다."
+            "x": "칼리드 알 마스카티 위원은 자신이 무언가를 홍보하는 듯한 가짜 영상이 너무 진짜 같았다며 ‘그 영상을 보고 내가 이 영상을 찍었나 하고 생각했다’고 말했다. 자말 파크로 제1부의장은 AI 발전이 멈출 때까지 기다렸다가 새 법을 만들 수는 없다고 경고했다."
           },
           {
             "t": "p",
-            "x": "그는 \"AI-assisted 기술로 발부된 벌금이 몇 주 뒤 우편으로 도착하면, 운전자는 위반 내용을 이해하고 이의를 제기할 증거를 모을 기회를 잃는다\"고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "애들레이드는 2021년부터 이 기술을 써 왔다. 애들레이드 시의회의 최근 검토에 따르면 Park Safe 차량은 2025-26 회계연도 첫 세 분기 동안 27,000건이 넘는 벌금을 발부했다. 운전자들이 재검토를 요청한 건은 2353건이고 그중 702건이 결국 철회됐다."
-          },
-          {
-            "t": "p",
-            "x": "말리나우스카스 주총리는 \"이의가 제기된 벌금이 철회되는 비율을 보면 현행 제도에 뭔가 문제가 있다\"고 말했다. 주차 위반 가능성을 가려내는 데는 시의회가 카메라 기술을 계속 쓸 수 있다."
+            "x": "내무부는 가짜 자료를 쓴 협박, 사기, 명예훼손은 기존 법으로도 다룰 수 있다고 밝혔다. 가님 알 부아이나인 의회담당 장관은 이번 반대가 예비 단계일 뿐이라고 설명했다. 완성된 법안을 놓고 한 표결이 아니라, 제안을 정부에 넘겨 법안으로 다듬게 할지 정하는 절차라는 것이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "South Australia to scrap\nticketless AI parking fines",
-          "body": "South Australia's premier plans to end ticketless AI camera-car parking fines, citing withdrawn fine challenges.",
-          "mini_headline": "SA scraps AI parking fines",
+          "headline": "Bahrain's Shura rejects\ndeepfake penalties proposal",
+          "body": "Bahrain's Shura Council voted 20–15 to reject a proposal to jail and fine people for harmful deepfakes.",
+          "mini_headline": "Bahrain rejects deepfake penalties",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "The Shura Council has rejected a proposal to jail people for making harmful deepfakes and fine them up to BD10,000 by 20 votes to 15, despite hearing how a fake video fooled one of its own members."
+              },
+              {
+                "t": "p",
+                "x": "The proposed change to the 2014 Information Technology Crimes Law was rejected on the Foreign Affairs, Defence and National Security Committee’s call; the committee warned it failed to define a deepfake."
+              },
+              {
                 "t": "img",
-                "src": "https://images.7news.com.au/publication/C-23131921/ee9741ab55c47e2b9087e00be5182d21094275ff-16x9-x0y0w1280h720.png?imwidth=1200",
-                "cap": "Ticketless parking fines generated through camera car technology will be scrapped in South Australia."
+                "src": "https://mdisebzgyrtdwsnwlszm.supabase.co/storage/v1/object/public/article-covers/temp/en/9kk-mw8by24o.jpg",
+                "cap": "Khalid Al Maskati, Shura Council member"
               },
               {
                 "t": "p",
-                "x": "Premier Peter Malinauskas has announced reforms that would require council inspectors to issue a physical infringement notice at the time of an offence, effectively ending ticketless parking fines generated through AI-assisted camera car technology."
+                "x": "Khalid Al Maskati said a fake video showing him promoting something looked so real: ‘When I saw it, I thought to myself, did I make this video?’ First Deputy Chairman Jamal Fakhro warned Bahrain could not wait for AI to stop advancing before passing new laws."
               },
               {
                 "t": "p",
-                "x": "\"When fines arrive in the mail weeks after being issued through AI-assisted technology, motorists lose the chance to understand the offence and gather evidence to challenge it,\" he said."
-              },
-              {
-                "t": "p",
-                "x": "The technology has been operating in Adelaide since 2021. The Adelaide council's most recent review found Park Safe vehicles issued more than 27,000 fines in the first three quarters of the 2025-26 financial year; drivers lodged 2353 requests for review, with 702 fines ultimately withdrawn."
-              },
-              {
-                "t": "p",
-                "x": "\"The rate of challenged fines being withdrawn shows something isn't right with the current system,\" Malinauskas said. Councils would retain the ability to use camera technology to identify potential parking breaches."
+                "x": "The Interior Ministry said existing laws already cover blackmail, fraud and defamation involving fake material. Minister of Parliamentary Affairs Ghanim Al Buainain said the objections were preliminary and members were deciding whether to send the proposal to the government for drafting, rather than voting on a finished law."
               }
             ]
           }
         },
         "ko": {
-          "headline": "남호주, 고지서 없는\nAI 주차 벌금 없앤다",
-          "body": "남호주 주총리는 벌금 철회 사례를 들어 무고지 AI 카메라 벌금을 없애기로 했다.",
-          "mini_headline": "SA, AI 주차 벌금 폐지",
+          "headline": "바레인 슈라위원회\n딥페이크 처벌안 부결",
+          "body": "바레인 슈라위원회가 유해 딥페이크 징역·벌금안을 20대 15로 부결했다.",
+          "mini_headline": "바레인, 딥페이크 처벌안 부결",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "슈라위원회가 유해 딥페이크 제작자에게 징역형과 최대 BD10,000의 벌금을 물리는 제안을 20대 15로 부결했다. 소속 위원 한 명이 가짜 영상에 속은 사연을 듣고도 이런 결정을 내렸다."
+              },
+              {
+                "t": "p",
+                "x": "2014년 정보기술범죄법 개정안은 외교·국방·국가안보위원회 권고대로 부결됐다. 위원회는 개정안에 딥페이크 정의가 없다고 지적했다."
+              },
+              {
                 "t": "img",
-                "src": "https://images.7news.com.au/publication/C-23131921/ee9741ab55c47e2b9087e00be5182d21094275ff-16x9-x0y0w1280h720.png?imwidth=1200",
-                "cap": "카메라 차량 기술로 발부되는 무고지 주차 벌금이 남호주에서 폐지된다."
+                "src": "https://mdisebzgyrtdwsnwlszm.supabase.co/storage/v1/object/public/article-covers/temp/en/9kk-mw8by24o.jpg",
+                "cap": "슈라위원회 위원 칼리드 알 마스카티"
               },
               {
                 "t": "p",
-                "x": "피터 말리나우스카스(Peter Malinauskas) 주총리는 위반 시점에 시의회 단속원이 실물 위반 통지서를 발부하도록 하는 개혁안을 발표했다. 사실상 AI-assisted 카메라 차량 기술로 발부되던 무고지 주차 벌금을 없애는 조치다."
+                "x": "칼리드 알 마스카티 위원은 자신이 무언가를 홍보하는 듯한 가짜 영상이 너무 진짜 같았다며 ‘그 영상을 보고 내가 이 영상을 찍었나 하고 생각했다’고 말했다. 자말 파크로 제1부의장은 AI 발전이 멈출 때까지 기다렸다가 새 법을 만들 수는 없다고 경고했다."
               },
               {
                 "t": "p",
-                "x": "그는 \"AI-assisted 기술로 발부된 벌금이 몇 주 뒤 우편으로 도착하면, 운전자는 위반 내용을 이해하고 이의를 제기할 증거를 모을 기회를 잃는다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "애들레이드는 2021년부터 이 기술을 써 왔다. 애들레이드 시의회의 최근 검토에 따르면 Park Safe 차량은 2025-26 회계연도 첫 세 분기 동안 27,000건이 넘는 벌금을 발부했다. 운전자들이 재검토를 요청한 건은 2353건이고 그중 702건이 결국 철회됐다."
-              },
-              {
-                "t": "p",
-                "x": "말리나우스카스 주총리는 \"이의가 제기된 벌금이 철회되는 비율을 보면 현행 제도에 뭔가 문제가 있다\"고 말했다. 주차 위반 가능성을 가려내는 데는 시의회가 카메라 기술을 계속 쓸 수 있다."
+                "x": "내무부는 가짜 자료를 쓴 협박, 사기, 명예훼손은 기존 법으로도 다룰 수 있다고 밝혔다. 가님 알 부아이나인 의회담당 장관은 이번 반대가 예비 단계일 뿐이라고 설명했다. 완성된 법안을 놓고 한 표결이 아니라, 제안을 정부에 넘겨 법안으로 다듬게 할지 정하는 절차라는 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "南オーストラリア州が\n無告知AI駐車罰金を廃止",
-          "body": "南豪州首相は、異議後の罰金取り消しを理由に、AIカメラ車による無告知罰金を廃止する方針だ。",
-          "mini_headline": "SA、AI駐車罰金を廃止",
+          "headline": "バーレーン・シューラ評議会\nディープフェイク罰則案を否決",
+          "body": "シューラ評議会は有害なディープフェイクに禁錮と罰金を科す提案を20対15で否決した。",
+          "mini_headline": "バーレーン、ディープフェイク罰則案を否決",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "シューラ評議会は、有害なディープフェイクを作成した者に禁錮刑と最大BD10,000の罰金を科す提案を20対15で否決した。偽動画に評議会のメンバー自身がだまされた経緯を聞いたうえでの判断だった。"
+              },
+              {
+                "t": "p",
+                "x": "2014年の情報技術犯罪法の改正案は、外交・国防・国家安全保障委員会の勧告を受けて否決された。同委員会は、改正案がディープフェイクを定義していないと指摘していた。"
+              },
+              {
                 "t": "img",
-                "src": "https://images.7news.com.au/publication/C-23131921/ee9741ab55c47e2b9087e00be5182d21094275ff-16x9-x0y0w1280h720.png?imwidth=1200",
-                "cap": "カメラカー技術による無告知の駐車違反罰金は、南オーストラリア州で廃止される。"
+                "src": "https://mdisebzgyrtdwsnwlszm.supabase.co/storage/v1/object/public/article-covers/temp/en/9kk-mw8by24o.jpg",
+                "cap": "シューラ評議会メンバーのハリド・アル・マスカティ氏"
               },
               {
                 "t": "p",
-                "x": "ピーター・マリナウスカス(Peter Malinauskas)州首相は、違反の時点で自治体の監視員が紙の違反通知を交付するよう義務づける改革を発表した。これにより、AI-assisted のカメラカー技術による無告知の駐車違反罰金は事実上廃止される。"
+                "x": "ハリド・アル・マスカティ氏は、自分が何かを宣伝しているように見せかけた偽動画があまりに本物らしかったとして、「それを見て、自分がこの動画を撮ったのかと思った」と語った。ジャマル・ファクロ第一副議長は、AIの進歩が止まるのを待ってから新法を制定するわけにはいかないと警告した。"
               },
               {
                 "t": "p",
-                "x": "同氏は「AI-assisted 技術で発行された罰金が数週間後に郵送で届くと、ドライバーは違反内容を理解し、異議を申し立てる証拠を集める機会を失う」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "この技術はアデレードで2021年から運用されている。アデレード市議会の最新の調査によると、Park Safe 車両は2025-26会計年度の最初の三つの四半期に27,000件を超える罰金を発行し、ドライバーからは2353件の再審査請求があり、最終的に702件の罰金が取り消された。"
-              },
-              {
-                "t": "p",
-                "x": "マリナウスカス氏は「異議を受けた罰金の取り消し率は、現行制度のどこかがおかしいことを示している」と述べた。自治体は今後も、駐車違反の疑いを特定するためにカメラ技術を使うことができる。"
+                "x": "内務省は、偽の素材を使った恐喝、詐欺、名誉毀損はすでに既存の法律で対処できるとした。ガニム・アル・ブアイナイン議会担当相は、反対意見は予備的なもので、議員らは完成した法案を採決するのではなく、提案を政府に送って起草させるかどうかを決めているのだと説明した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "南澳州将取消\n无现场罚单的AI停车罚款",
-          "body": "南澳州长计划取消AI摄像车开出的无现场罚单停车罚款，理由是罚款经申诉后被撤销。",
-          "mini_headline": "SA取消AI停车罚款",
+          "headline": "巴林协商会议否决\n深度伪造处罚提案",
+          "body": "巴林协商会议以20票对15票否决了对有害深度伪造处以监禁和罚款的提案。",
+          "mini_headline": "巴林否决深度伪造处罚案",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "协商会议以20票对15票否决了一项提案，该提案拟对制作有害深度伪造内容者处以监禁，并处最高BD10,000罚款。此前议员们已听说一段假视频骗过了本会一名成员。"
+              },
+              {
+                "t": "p",
+                "x": "这项针对2014年《信息技术犯罪法》的修正提案，是根据外交、国防和国家安全委员会的建议被否决的；该委员会警告称，提案未能界定何为深度伪造。"
+              },
+              {
                 "t": "img",
-                "src": "https://images.7news.com.au/publication/C-23131921/ee9741ab55c47e2b9087e00be5182d21094275ff-16x9-x0y0w1280h720.png?imwidth=1200",
-                "cap": "南澳州将取消通过摄像车技术开出的无现场罚单停车罚款。"
+                "src": "https://mdisebzgyrtdwsnwlszm.supabase.co/storage/v1/object/public/article-covers/temp/en/9kk-mw8by24o.jpg",
+                "cap": "协商会议成员哈立德·马斯卡蒂"
               },
               {
                 "t": "p",
-                "x": "州长彼得·马利瑙斯卡斯（Peter Malinauskas）宣布改革，要求市政检查员在违规发生时开具纸质违规通知，这实际上将终结通过 AI-assisted 摄像车技术开出的无现场罚单停车罚款。"
+                "x": "哈立德·马斯卡蒂表示，一段显示他在推广某样东西的假视频看起来非常逼真：“我看到时心想，这段视频是我拍的吗？”第一副主席贾迈勒·法赫鲁警告说，巴林不能等AI停止发展后再通过新法律。"
               },
               {
                 "t": "p",
-                "x": "他说：“当通过 AI-assisted 技术开出的罚单在数周后才寄到时，驾车者便失去了了解违规情况、收集证据提出异议的机会。”"
-              },
-              {
-                "t": "p",
-                "x": "该技术自2021年起在阿德莱德运行。阿德莱德市议会最近的审查发现，2025-26财年前三个季度，Park Safe 车辆开出了超过27,000张罚单；驾车者提出了2353份复核申请，最终有702张罚单被撤销。"
-              },
-              {
-                "t": "p",
-                "x": "马利瑙斯卡斯说：“受到异议的罚单被撤销的比例表明，现行制度出了问题。”市政部门仍可使用摄像技术识别潜在的停车违规行为。"
+                "x": "内政部表示，现行法律已涵盖涉及虚假材料的敲诈、欺诈和诽谤。议会事务大臣加尼姆·布艾奈恩表示，这些反对意见只是初步的，议员们是在决定是否将该提案送交政府起草，而非对一部成文法律进行表决。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Australia Meridional eliminará\nlas multas AI sin aviso in situ",
-          "body": "Australia Meridional prevé eliminar multas sin aviso de coches con cámara AI, ante la anulación de multas recurridas.",
-          "mini_headline": "SA elimina las multas de estacionamiento AI",
+          "headline": "La Shura de Baréin rechaza\nsancionar los deepfakes",
+          "body": "El Consejo de la Shura de Baréin rechazó, por 20 votos a 15, castigar con cárcel y multas los deepfakes dañinos.",
+          "mini_headline": "Baréin rechaza castigar los deepfakes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "El Consejo de la Shura rechazó por 20 votos a 15 una propuesta para encarcelar a quienes creen deepfakes dañinos e imponerles multas de hasta BD10,000, pese a escuchar cómo un video falso engañó a uno de sus propios miembros."
+              },
+              {
+                "t": "p",
+                "x": "La reforma propuesta de la Ley de Delitos Informáticos de 2014 fue rechazada por recomendación de la Comisión de Asuntos Exteriores, Defensa y Seguridad Nacional, que advirtió que no definía qué es un deepfake."
+              },
+              {
                 "t": "img",
-                "src": "https://images.7news.com.au/publication/C-23131921/ee9741ab55c47e2b9087e00be5182d21094275ff-16x9-x0y0w1280h720.png?imwidth=1200",
-                "cap": "Las multas de estacionamiento sin aviso generadas con tecnología de coches con cámara serán eliminadas en Australia Meridional."
+                "src": "https://mdisebzgyrtdwsnwlszm.supabase.co/storage/v1/object/public/article-covers/temp/en/9kk-mw8by24o.jpg",
+                "cap": "Khalid Al Maskati, miembro del Consejo de la Shura"
               },
               {
                 "t": "p",
-                "x": "El primer ministro Peter Malinauskas anunció reformas que obligarían a los inspectores municipales a entregar una notificación física de infracción en el momento de la falta, lo que en la práctica pone fin a las multas de estacionamiento sin aviso generadas con tecnología de coches con cámara AI-assisted."
+                "x": "Khalid Al Maskati contó que un video falso en el que aparecía promocionando algo parecía tan real que: ‘Cuando lo vi, pensé: ¿grabé yo este video?’. El primer vicepresidente, Jamal Fakhro, advirtió de que Baréin no podía esperar a que la IA dejara de avanzar para aprobar nuevas leyes."
               },
               {
                 "t": "p",
-                "x": "\"Cuando las multas llegan por correo semanas después de emitirse mediante tecnología AI-assisted, los conductores pierden la oportunidad de entender la infracción y reunir pruebas para recurrirla\", dijo."
-              },
-              {
-                "t": "p",
-                "x": "La tecnología funciona en Adelaida desde 2021. La revisión más reciente del ayuntamiento de Adelaida halló que los vehículos Park Safe emitieron más de 27,000 multas en los tres primeros trimestres del ejercicio 2025-26; los conductores presentaron 2353 solicitudes de revisión y 702 multas acabaron anuladas."
-              },
-              {
-                "t": "p",
-                "x": "\"La proporción de multas recurridas que se anulan demuestra que algo no funciona en el sistema actual\", dijo Malinauskas. Los ayuntamientos podrán seguir usando tecnología de cámaras para detectar posibles infracciones de estacionamiento."
+                "x": "El Ministerio del Interior afirmó que las leyes vigentes ya cubren el chantaje, el fraude y la difamación con material falso. El ministro de Asuntos Parlamentarios, Ghanim Al Buainain, dijo que las objeciones eran preliminares y que los miembros decidían si enviar la propuesta al Gobierno para su redacción, no votaban una ley terminada."
               }
             ]
           }
@@ -1747,125 +1807,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "남호주, 고지서 없는\nAI 주차 벌금 없앤다",
-          "body": "남호주 주총리는 벌금 철회 사례를 들어 무고지 AI 카메라 벌금을 없애기로 했다.",
-          "mini_headline": "SA, AI 주차 벌금 폐지",
+          "headline": "바레인 슈라위원회\n딥페이크 처벌안 부결",
+          "body": "바레인 슈라위원회가 유해 딥페이크 징역·벌금안을 20대 15로 부결했다.",
+          "mini_headline": "바레인, 딥페이크 처벌안 부결",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "슈라위원회가 유해한 딥페이크 제작자를 징역형에 처하고 최대 BD10,000의 벌금을 물리는 제안을 20대 15로 부결했다. 소속 위원 한 명이 가짜 영상에 속은 사연을 듣고도 내린 결정이다."
+              },
+              {
+                "t": "p",
+                "x": "2014년 정보기술범죄법 개정안은 외교·국방·국가안보위원회의 권고에 따라 부결됐다. 위원회는 개정안이 딥페이크를 정의하지 못했다고 지적했다."
+              },
+              {
                 "t": "img",
-                "src": "https://images.7news.com.au/publication/C-23131921/ee9741ab55c47e2b9087e00be5182d21094275ff-16x9-x0y0w1280h720.png?imwidth=1200",
-                "cap": "카메라 차량 기술로 발부되는 무고지 주차 벌금이 남호주에서 폐지된다."
+                "src": "https://mdisebzgyrtdwsnwlszm.supabase.co/storage/v1/object/public/article-covers/temp/en/9kk-mw8by24o.jpg",
+                "cap": "슈라위원회 위원 칼리드 알 마스카티"
               },
               {
                 "t": "p",
-                "x": "피터 말리나우스카스(Peter Malinauskas) 주총리는 위반 시점에 시의회 단속원이 실물 위반 통지서를 발부하도록 하는 개혁안을 발표했다. 사실상 AI-assisted 카메라 차량 기술로 발부되던 무고지 주차 벌금을 없애는 조치다."
+                "x": "칼리드 알 마스카티 위원은 자신이 무언가를 홍보하는 것처럼 보이는 가짜 영상이 너무 진짜 같았다며 ‘그 영상을 보고 내가 이 영상을 찍었나 하고 생각했다’고 말했다. 자말 파크로 제1부의장은 AI 발전이 멈추기를 기다렸다가 새 법을 만들 수는 없다고 경고했다."
               },
               {
                 "t": "p",
-                "x": "그는 \"AI-assisted 기술로 발부된 벌금이 몇 주 뒤 우편으로 도착하면, 운전자는 위반 내용을 이해하고 이의를 제기할 증거를 모을 기회를 잃는다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "이 기술은 2021년부터 애들레이드에서 운영돼 왔다. 애들레이드 시의회의 최근 검토에 따르면 Park Safe 차량은 2025-26 회계연도 첫 세 분기 동안 27,000건이 넘는 벌금을 발부했고, 운전자들은 2353건의 재검토를 요청했으며, 그중 702건의 벌금이 결국 철회됐다."
-              },
-              {
-                "t": "p",
-                "x": "말리나우스카스 주총리는 \"이의가 제기된 벌금이 철회되는 비율을 보면 현행 제도에 뭔가 문제가 있다\"고 말했다. 시의회는 주차 위반 가능성을 식별하는 데 카메라 기술을 계속 쓸 수 있다."
+                "x": "내무부는 가짜 자료를 이용한 협박, 사기, 명예훼손은 기존 법으로 이미 다룰 수 있다고 밝혔다. 가님 알 부아이나인 의회담당 장관은 이번 반대가 예비 단계이며, 완성된 법안에 대한 표결이 아니라 제안을 정부에 보내 법안으로 다듬게 할지를 결정하는 절차라고 설명했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "南オーストラリア州が\n無告知AI駐車罰金を廃止",
-          "body": "南豪州首相は、異議後の罰金取り消しを理由に、AIカメラ車による無告知罰金を廃止する方針だ。",
-          "mini_headline": "SA、AI駐車罰金を廃止",
+          "headline": "バーレーン・シューラ評議会\nディープフェイク罰則案を否決",
+          "body": "シューラ評議会は有害なディープフェイクに禁錮と罰金を科す提案を20対15で否決した。",
+          "mini_headline": "バーレーン、ディープフェイク罰則案を否決",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "シューラ評議会は、有害なディープフェイクを作成した者に禁錮刑と最大BD10,000の罰金を科す提案を20対15で否決した。偽動画に評議会のメンバー自身がだまされた経緯を聞いたうえでの判断だった。"
+              },
+              {
+                "t": "p",
+                "x": "2014年の情報技術犯罪法の改正案は、外交・国防・国家安全保障委員会の勧告を受けて否決された。同委員会は、改正案がディープフェイクを定義していないと指摘していた。"
+              },
+              {
                 "t": "img",
-                "src": "https://images.7news.com.au/publication/C-23131921/ee9741ab55c47e2b9087e00be5182d21094275ff-16x9-x0y0w1280h720.png?imwidth=1200",
-                "cap": "カメラカー技術による無告知の駐車違反罰金は、南オーストラリア州で廃止される。"
+                "src": "https://mdisebzgyrtdwsnwlszm.supabase.co/storage/v1/object/public/article-covers/temp/en/9kk-mw8by24o.jpg",
+                "cap": "シューラ評議会メンバーのハリド・アル・マスカティ氏"
               },
               {
                 "t": "p",
-                "x": "ピーター・マリナウスカス(Peter Malinauskas)州首相は、違反の時点で自治体の監視員が紙の違反通知を交付するよう義務づける改革を発表した。これにより、AI-assisted のカメラカー技術による無告知の駐車違反罰金は事実上廃止される。"
+                "x": "ハリド・アル・マスカティ氏は、自分が何かを宣伝しているように見せかけた偽動画があまりに本物らしかったとして、「それを見て、自分がこの動画を撮ったのかと思った」と語った。ジャマル・ファクロ第一副議長は、AIの進歩が止まるのを待ってから新法を制定するわけにはいかないと警告した。"
               },
               {
                 "t": "p",
-                "x": "同氏は「AI-assisted 技術で発行された罰金が数週間後に郵送で届くと、ドライバーは違反内容を理解し、異議を申し立てる証拠を集める機会を失う」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "この技術はアデレードで2021年から運用されている。アデレード市議会の最新の調査によると、Park Safe 車両は2025-26会計年度の最初の三つの四半期に27,000件を超える罰金を発行し、ドライバーからは2353件の再審査請求があり、最終的に702件の罰金が取り消された。"
-              },
-              {
-                "t": "p",
-                "x": "マリナウスカス氏は「異議を受けた罰金の取り消し率は、現行制度のどこかがおかしいことを示している」と述べた。自治体は今後も、駐車違反の疑いを特定するためにカメラ技術を使うことができる。"
+                "x": "内務省は、偽の素材を使った恐喝、詐欺、名誉毀損はすでに既存の法律で対処できるとした。ガニム・アル・ブアイナイン議会担当相は、反対意見は予備的なもので、議員らは完成した法案を採決するのではなく、提案を政府に送って起草させるかどうかを決めているのだと説明した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "南澳州将取消\n无现场罚单的AI停车罚款",
-          "body": "南澳州长计划取消AI摄像车开出的无现场罚单停车罚款，理由是罚款经申诉后被撤销。",
-          "mini_headline": "SA取消AI停车罚款",
+          "headline": "巴林协商会议否决\n深度伪造处罚提案",
+          "body": "巴林协商会议以20票对15票否决了对有害深度伪造处以监禁和罚款的提案。",
+          "mini_headline": "巴林否决深度伪造处罚案",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "协商会议以20票对15票否决了一项提案，该提案拟对制作有害深度伪造内容者处以监禁，并处最高BD10,000罚款。此前议员们已听说一段假视频骗过了本会一名成员。"
+              },
+              {
+                "t": "p",
+                "x": "这项针对2014年《信息技术犯罪法》的修正提案，是根据外交、国防和国家安全委员会的建议被否决的；该委员会警告称，提案未能界定何为深度伪造。"
+              },
+              {
                 "t": "img",
-                "src": "https://images.7news.com.au/publication/C-23131921/ee9741ab55c47e2b9087e00be5182d21094275ff-16x9-x0y0w1280h720.png?imwidth=1200",
-                "cap": "南澳州将取消通过摄像车技术开出的无现场罚单停车罚款。"
+                "src": "https://mdisebzgyrtdwsnwlszm.supabase.co/storage/v1/object/public/article-covers/temp/en/9kk-mw8by24o.jpg",
+                "cap": "协商会议成员哈立德·马斯卡蒂"
               },
               {
                 "t": "p",
-                "x": "州长彼得·马利瑙斯卡斯（Peter Malinauskas）宣布改革，要求市政检查员在违规发生时开具纸质违规通知，这实际上将终结通过 AI-assisted 摄像车技术开出的无现场罚单停车罚款。"
+                "x": "哈立德·马斯卡蒂表示，一段显示他在推广某样东西的假视频看起来非常逼真：“我看到时心想，这段视频是我拍的吗？”第一副主席贾迈勒·法赫鲁警告说，巴林不能等AI停止发展后再通过新法律。"
               },
               {
                 "t": "p",
-                "x": "他说：“当通过 AI-assisted 技术开出的罚单在数周后才寄到时，驾车者便失去了了解违规情况、收集证据提出异议的机会。”"
-              },
-              {
-                "t": "p",
-                "x": "该技术自2021年起在阿德莱德运行。阿德莱德市议会最近的审查发现，2025-26财年前三个季度，Park Safe 车辆开出了超过27,000张罚单；驾车者提出了2353份复核申请，最终有702张罚单被撤销。"
-              },
-              {
-                "t": "p",
-                "x": "马利瑙斯卡斯说：“受到异议的罚单被撤销的比例表明，现行制度出了问题。”市政部门仍可使用摄像技术识别潜在的停车违规行为。"
+                "x": "内政部表示，现行法律已涵盖涉及虚假材料的敲诈、欺诈和诽谤。议会事务大臣加尼姆·布艾奈恩表示，这些反对意见只是初步的，议员们是在决定是否将该提案送交政府起草，而非对一部成文法律进行表决。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Australia Meridional eliminará\nlas multas AI sin aviso in situ",
-          "body": "Australia Meridional prevé eliminar multas sin aviso de coches con cámara AI, ante la anulación de multas recurridas.",
-          "mini_headline": "SA elimina las multas de estacionamiento AI",
+          "headline": "La Shura de Baréin rechaza\nsancionar los deepfakes",
+          "body": "El Consejo de la Shura de Baréin rechazó, por 20 votos a 15, castigar con cárcel y multas los deepfakes dañinos.",
+          "mini_headline": "Baréin rechaza castigar los deepfakes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "El Consejo de la Shura rechazó por 20 votos a 15 una propuesta para encarcelar a quienes creen deepfakes dañinos e imponerles multas de hasta BD10,000, pese a escuchar cómo un video falso engañó a uno de sus propios miembros."
+              },
+              {
+                "t": "p",
+                "x": "La reforma propuesta de la Ley de Delitos Informáticos de 2014 fue rechazada por recomendación de la Comisión de Asuntos Exteriores, Defensa y Seguridad Nacional, que advirtió que no definía qué es un deepfake."
+              },
+              {
                 "t": "img",
-                "src": "https://images.7news.com.au/publication/C-23131921/ee9741ab55c47e2b9087e00be5182d21094275ff-16x9-x0y0w1280h720.png?imwidth=1200",
-                "cap": "Las multas de estacionamiento sin aviso generadas con tecnología de coches con cámara serán eliminadas en Australia Meridional."
+                "src": "https://mdisebzgyrtdwsnwlszm.supabase.co/storage/v1/object/public/article-covers/temp/en/9kk-mw8by24o.jpg",
+                "cap": "Khalid Al Maskati, miembro del Consejo de la Shura"
               },
               {
                 "t": "p",
-                "x": "El primer ministro Peter Malinauskas anunció reformas que obligarían a los inspectores municipales a entregar una notificación física de infracción en el momento de la falta, lo que en la práctica pone fin a las multas de estacionamiento sin aviso generadas con tecnología de coches con cámara AI-assisted."
+                "x": "Khalid Al Maskati contó que un video falso en el que aparecía promocionando algo parecía tan real que: ‘Cuando lo vi, pensé: ¿grabé yo este video?’. El primer vicepresidente, Jamal Fakhro, advirtió de que Baréin no podía esperar a que la IA dejara de avanzar para aprobar nuevas leyes."
               },
               {
                 "t": "p",
-                "x": "\"Cuando las multas llegan por correo semanas después de emitirse mediante tecnología AI-assisted, los conductores pierden la oportunidad de entender la infracción y reunir pruebas para recurrirla\", dijo."
-              },
-              {
-                "t": "p",
-                "x": "La tecnología funciona en Adelaida desde 2021. La revisión más reciente del ayuntamiento de Adelaida halló que los vehículos Park Safe emitieron más de 27,000 multas en los tres primeros trimestres del ejercicio 2025-26; los conductores presentaron 2353 solicitudes de revisión y 702 multas acabaron anuladas."
-              },
-              {
-                "t": "p",
-                "x": "\"La proporción de multas recurridas que se anulan demuestra que algo no funciona en el sistema actual\", dijo Malinauskas. Los ayuntamientos podrán seguir usando tecnología de cámaras para detectar posibles infracciones de estacionamiento."
+                "x": "El Ministerio del Interior afirmó que las leyes vigentes ya cubren el chantaje, el fraude y la difamación con material falso. El ministro de Asuntos Parlamentarios, Ghanim Al Buainain, dijo que las objeciones eran preliminares y que los miembros decidían si enviar la propuesta al Gobierno para su redacción, no votaban una ley terminada."
               }
             ]
           }

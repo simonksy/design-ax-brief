@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "section": "marketing",
   "cards": [
     {
-      "id": "apple-patent-keyword-screenshots",
+      "id": "ogilvy-caa-echo-doubles",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Apple 특허, 앱 화면\n키워드마다 새로 그린다",
-      "body": "Apple 특허, Stable Diffusion 셋으로 키워드별 이미지를 그린다.",
-      "mini_headline": "Apple 특허,\n스크린숏 재생성",
+      "headline": "Ogilvy와 CAA,\n스타 AI 분신 광고 허용",
+      "body": "Ogilvy와 CAA가 Echo로 스타가 동의한 AI 분신 광고의 문을 열었다.",
+      "mini_headline": "Ogilvy·CAA, Echo 출시",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/apple-patent-describes-ai-that-repaints-app-screenshots-per-keyword/",
+      "source": "Digiday",
+      "url": "https://digiday.com/marketing/ogilvy-and-caa-launch-partnership-to-clone-celebrity-talent-for-ai-ads/",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
@@ -19,179 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/size/w2000/2026/11/apple-patent-ai-app-screenshots-repainted-per-keyword-3-stable-diffusion-stage-maquette-backdrop-rolls.jpg",
-            "cap": "출원 중인 Apple 특허는 헤드라인과 휴대폰만 남기고 앱 스크린숏 배경을 키워드마다 새로 그린다"
+            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/multimedia-ads-digiday.jpg"
           },
           {
             "t": "p",
-            "x": "Apple의 US 특허 출원 US20250265066A1은 2025년 8월 21일 공개돼 지금 심사 중이다. 앱 마케팅 이미지나 스크린숏에서 헤드라인과 휴대폰만 남기고 나머지를 키워드에 맞춰 새로 만든 뒤 채점 모델로 결과를 거르는 시스템이다. 2026년 11월 5일 ASO Patents 사이트에 분석 글이 올라오면서 다시 눈길을 끌었다."
+            "x": "WPP 계열 에이전시 Ogilvy가 Creative Artists Agency(CAA)와 손잡고 CAA 소속 배우·운동선수·유명 크리에이터가 나오는 AI 광고를 만든다. Ogilvy의 글로벌 최고혁신책임자 Carol Reed는 “광고와 엔터테인먼트 사이의 ‘NIL 모먼트’를 지금 목격하고 있다”고 말했다. Brooklyn Nine-Nine의 Terry Crews도 참여에 동의한 배우 중 한 명이다. 시범 광고는 “연말 무렵 공개될 예정”이다."
           },
           {
             "t": "p",
-            "x": "마스킹 엔진은 CenterNet 검출 모델과 Segment Anything Model로 전경을 잘라낸다. 출원서는 이미지 생성기가 \"stable diffusion 모델의 서로 다른 가중치 세 가지를 구현할 수 있다\"고 적었다. 인페인팅 모델과 SDXL, 미세 조정 모델이다. 키워드 프롬프트에는 \"NSFW\", \"text\", \"logo\" 같은 네거티브 프롬프트를 곁들인다."
+            "x": "Ogilvy는 Echo라는 솔루션으로 “The Vault”에 쌓인 자료를 쓸 수 있다. The Vault는 Veritone이 사 년 전 CAA를 위해 만든 사내 디지털 스캐닝 시설이다. 카메라 204대가 배우·운동선수·크리에이터의 목소리, 몸짓, 표정, 걸음걸이를 담는다. 직원들은 이 자료를 WPP Open으로 불러와 스토리보드와 목업, 최종 크리에이티브 에셋에 쓴다. 에셋당 비용은 65-75% 줄어들 전망이다."
           },
           {
             "t": "p",
-            "x": "LXMERT-based 이미지 선택기는 후보마다 키워드와 얼마나 맞는지 점수를 매기고 \"AI 환각\"을 걸러낸다. 고른 이미지는 스토어 제품 페이지나 웹사이트, 광고에 들어갈 수 있다. 종속 청구항 6과 7은 앱에서 자동으로 뽑아낸 이미지와 키워드를 다룬다."
+            "x": "CAA 고객은 자기 디지털 초상을 소유하며 어떤 기업과 시장에 나올지도 직접 고른다. Reed는 “탤런트는 마지막에 언제나 모든 것을 보고 모든 것을 승인한다”고 말했다. AI 광고물에는 AI-generated 콘텐츠라는 점과 스타가 승인했다는 사실을 알리는 워터마크가 붙는다."
           },
           {
             "t": "p",
-            "x": "등록도 출시도 아직이다. 출원서엔 성능 데이터가 없다. App Store, Apple Ads, App Store Connect라는 이름도 없이 \"온라인 소프트웨어 애플리케이션 스토어\"라고만 적었다."
+            "x": "소비자 반응은 아직 미지근하다. YouGov 조사에서 영국인의 절반 가까이(49%)가 광고에 나오는 AI-generated 배우를 부정적으로 봤다. Reed는 이 시스템이 Ogilvy의 “팔레트”를 넓히는 것이라며 “그 뒤에는 인간의 솜씨와 사람이 있다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Apple patent repaints app\nscreenshots per keyword",
-          "body": "An Apple patent filing uses three Stable Diffusion models to redraw app store images for each keyword.",
-          "mini_headline": "Apple patent repaints\nscreenshots",
+          "headline": "Ogilvy and CAA license\nAI doubles of stars for ads",
+          "body": "Ogilvy and CAA launched Echo, letting brands license consent-based AI doubles of CAA talent for ads.",
+          "mini_headline": "Ogilvy and CAA launch Echo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/apple-patent-ai-app-screenshots-repainted-per-keyword-3-stable-diffusion-stage-maquette-backdrop-rolls.jpg",
-                "cap": "Pending Apple patent keeps headline and phone, repaints app screenshot backdrops per keyword"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/multimedia-ads-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "Apple has a pending US patent application, US20250265066A1, published on August 21, 2025, for a system that takes a marketing image or screenshot for an app, keeps the headline and the phone in it, and regenerates everything else around a keyword before a scoring model filters the results. It drew fresh attention after the ASO Patents site published a breakdown on November 5, 2026."
+                "x": "WPP agency Ogilvy has inked a partnership with Creative Artists Agency (CAA) to generate AI ads featuring the actors, athletes and high-profile creators on CAA’s roster. “We are witnessing the ‘NIL moment’ between advertising and entertainment,” said Carol Reed, global chief innovation officer at Ogilvy. Brooklyn Nine-Nine star Terry Crews is among the actors who have opted in, and pilots “should be going live towards the end of the year.”"
               },
               {
                 "t": "p",
-                "x": "A masking engine uses a CenterNet detection model and a Segment Anything Model to cut out the foreground. The image generator \"can implement three different weights of the stable diffusion model\" - an inpainting model, SDXL and a fine-tuned model - with keyword prompts and negative prompts such as \"NSFW,\" \"text\" and \"logo.\""
+                "x": "The solution, called Echo, gives Ogilvy access to material kept in “The Vault,” an in-house digital scanning facility built for CAA by Veritone four years ago that uses 204 cameras to capture an actor, athlete or creator’s voice, body language, facial expressions and walk. Staffers can pull it into WPP Open for storyboarding, mock-ups or final creative assets, with cost-per-asset expected to fall by 65-75%."
               },
               {
                 "t": "p",
-                "x": "An LXMERT-based image selector scores how well each candidate matches the keyword, filters out \"AI hallucinations,\" and the chosen image can be placed on a store product page, a website or an advertisement. Dependent claims 6 and 7 cover images and keywords automatically generated from the app itself."
+                "x": "CAA clients own their digital likenesses and choose which businesses and markets they appear for. “Talent always gets to see everything and approve everything at the end,” said Reed. AI ad materials will carry a watermark marking them as AI-generated and approved by the star."
               },
               {
                 "t": "p",
-                "x": "Nothing has been granted or launched. The filing contains no performance data and never names the App Store, Apple Ads or App Store Connect, referring only to an \"online software application store.\""
+                "x": "Consumers remain cool on the idea: nearly half (49%) of Britons view AI-generated actors in ads negatively, according to YouGov. Reed said the system is an extension of Ogilvy’s “palette” and that “there is a human craft and a human behind it.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Apple 특허, 앱 화면\n키워드마다 새로 그린다",
-          "body": "Apple 특허, Stable Diffusion 셋으로 키워드별 이미지를 그린다.",
-          "mini_headline": "Apple 특허,\n스크린숏 재생성",
+          "headline": "Ogilvy와 CAA,\n스타 AI 분신 광고 허용",
+          "body": "Ogilvy와 CAA가 Echo로 스타가 동의한 AI 분신 광고의 문을 열었다.",
+          "mini_headline": "Ogilvy·CAA, Echo 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/apple-patent-ai-app-screenshots-repainted-per-keyword-3-stable-diffusion-stage-maquette-backdrop-rolls.jpg",
-                "cap": "출원 중인 Apple 특허는 헤드라인과 휴대폰만 남기고 앱 스크린숏 배경을 키워드마다 새로 그린다"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/multimedia-ads-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "Apple의 US 특허 출원 US20250265066A1은 2025년 8월 21일 공개돼 지금 심사 중이다. 앱 마케팅 이미지나 스크린숏에서 헤드라인과 휴대폰만 남기고 나머지를 키워드에 맞춰 새로 만든 뒤 채점 모델로 결과를 거르는 시스템이다. 2026년 11월 5일 ASO Patents 사이트에 분석 글이 올라오면서 다시 눈길을 끌었다."
+                "x": "WPP 계열 에이전시 Ogilvy가 Creative Artists Agency(CAA)와 손잡고 CAA 소속 배우·운동선수·유명 크리에이터가 나오는 AI 광고를 만든다. Ogilvy의 글로벌 최고혁신책임자 Carol Reed는 “광고와 엔터테인먼트 사이의 ‘NIL 모먼트’를 지금 목격하고 있다”고 말했다. Brooklyn Nine-Nine의 Terry Crews도 참여에 동의한 배우 중 한 명이다. 시범 광고는 “연말 무렵 공개될 예정”이다."
               },
               {
                 "t": "p",
-                "x": "마스킹 엔진은 CenterNet 검출 모델과 Segment Anything Model로 전경을 잘라낸다. 출원서는 이미지 생성기가 \"stable diffusion 모델의 서로 다른 가중치 세 가지를 구현할 수 있다\"고 적었다. 인페인팅 모델과 SDXL, 미세 조정 모델이다. 키워드 프롬프트에는 \"NSFW\", \"text\", \"logo\" 같은 네거티브 프롬프트를 곁들인다."
+                "x": "Ogilvy는 Echo라는 솔루션으로 “The Vault”에 쌓인 자료를 쓸 수 있다. The Vault는 Veritone이 사 년 전 CAA를 위해 만든 사내 디지털 스캐닝 시설이다. 카메라 204대가 배우·운동선수·크리에이터의 목소리, 몸짓, 표정, 걸음걸이를 담는다. 직원들은 이 자료를 WPP Open으로 불러와 스토리보드와 목업, 최종 크리에이티브 에셋에 쓴다. 에셋당 비용은 65-75% 줄어들 전망이다."
               },
               {
                 "t": "p",
-                "x": "LXMERT-based 이미지 선택기는 후보마다 키워드와 얼마나 맞는지 점수를 매기고 \"AI 환각\"을 걸러낸다. 고른 이미지는 스토어 제품 페이지나 웹사이트, 광고에 들어갈 수 있다. 종속 청구항 6과 7은 앱에서 자동으로 뽑아낸 이미지와 키워드를 다룬다."
+                "x": "CAA 고객은 자기 디지털 초상을 소유하며 어떤 기업과 시장에 나올지도 직접 고른다. Reed는 “탤런트는 마지막에 언제나 모든 것을 보고 모든 것을 승인한다”고 말했다. AI 광고물에는 AI-generated 콘텐츠라는 점과 스타가 승인했다는 사실을 알리는 워터마크가 붙는다."
               },
               {
                 "t": "p",
-                "x": "등록도 출시도 아직이다. 출원서엔 성능 데이터가 없다. App Store, Apple Ads, App Store Connect라는 이름도 없이 \"온라인 소프트웨어 애플리케이션 스토어\"라고만 적었다."
+                "x": "소비자 반응은 아직 미지근하다. YouGov 조사에서 영국인의 절반 가까이(49%)가 광고에 나오는 AI-generated 배우를 부정적으로 봤다. Reed는 이 시스템이 Ogilvy의 “팔레트”를 넓히는 것이라며 “그 뒤에는 인간의 솜씨와 사람이 있다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Apple特許、アプリ画像を\nキーワード別に描き直す",
-          "body": "Apple特許は三つのStable Diffusionでキーワード別に画像を描き直す。",
-          "mini_headline": "Apple特許、\nスクリーンショット再生成",
+          "headline": "OgilvyとCAA\nスターのAI分身を広告に",
+          "body": "OgilvyとCAAがEchoを始動し、同意済みのAI分身をブランド広告に提供する。",
+          "mini_headline": "OgilvyとCAA、Echoを開始",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/apple-patent-ai-app-screenshots-repainted-per-keyword-3-stable-diffusion-stage-maquette-backdrop-rolls.jpg",
-                "cap": "審査中のApple特許は見出しと端末を残し、アプリのスクリーンショット背景をキーワードごとに描き直す"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/multimedia-ads-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "Appleは、2025年8月21日に公開されたUS特許出願US20250265066A1を審査中である。アプリのマーケティング画像やスクリーンショットから見出しと端末を残し、それ以外をキーワードに合わせて再生成したうえで、スコアリングモデルが結果を絞り込む仕組みだ。ASO Patentsサイトが2026年11月5日に解説を公開し、改めて注目を集めた。"
+                "x": "WPP傘下のエージェンシーOgilvyはCreative Artists Agency(CAA)と提携し、CAAに所属する俳優、アスリート、著名クリエイターを起用したAI広告を制作する。Ogilvyのグローバル最高イノベーション責任者Carol Reedは「広告とエンターテインメントの間の『NILモーメント』を我々は目撃している」と語った。Brooklyn Nine-NineのTerry Crewsも参加に同意した俳優の一人で、試験運用は「年末にかけて始まる見込み」だという。"
               },
               {
                 "t": "p",
-                "x": "マスキングエンジンはCenterNetの検出モデルとSegment Anything Modelで前景を切り抜く。画像生成器は「stable diffusionモデルの三つの異なる重みを実装できる」とされ、インペインティングモデル、SDXL、ファインチューニング済みモデルを、キーワードプロンプトと「NSFW」「text」「logo」などのネガティブプロンプトとともに使う。"
+                "x": "Echoと呼ばれるこの仕組みにより、Ogilvyは「The Vault」に保管された素材を利用できる。The VaultはVeritoneが四年前にCAAのために建設した社内デジタルスキャン施設で、204台のカメラで俳優、アスリート、クリエイターの声、身ぶり、表情、歩き方を記録する。スタッフは素材をWPP Openに取り込み、絵コンテ、モックアップ、最終的なクリエイティブ素材に使える。素材1点あたりのコストは65-75%下がる見通しだ。"
               },
               {
                 "t": "p",
-                "x": "LXMERT-basedの画像セレクターは各候補がキーワードにどれだけ合うかを採点し、「AIハルシネーション」を除外する。選ばれた画像はストアの製品ページ、ウェブサイト、広告に掲載できる。従属請求項6と7は、アプリ自体から自動生成した画像とキーワードを対象とする。"
+                "x": "CAAのクライアントは自らのデジタル肖像を所有し、どの企業や市場に登場するかを選ぶ。Reedは「タレントは最後に必ずすべてを確認し、すべてを承認する」と述べた。AI広告素材には、AI-generatedでありスターが承認したことを示す透かしが入る。"
               },
               {
                 "t": "p",
-                "x": "特許はまだ付与されておらず、製品化もされていない。出願書類には性能データがなく、App Store、Apple Ads、App Store Connectの名称も出てこない。記載は「オンラインソフトウェアアプリケーションストア」のみである。"
+                "x": "消費者の反応はまだ冷ややかだ。YouGovによると、英国人の半数近く(49%)が広告に登場するAI-generatedの俳優を否定的に見ている。Reedは、このシステムはOgilvyの「パレット」を広げるものであり、「そこには人間の技と人間がいる」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Apple专利按关键词\n重绘应用截图",
-          "body": "Apple专利申请用三个Stable Diffusion模型按关键词重绘应用商店图片。",
-          "mini_headline": "Apple专利\n重绘截图",
+          "headline": "Ogilvy与CAA\n授权明星AI分身做广告",
+          "body": "Ogilvy与CAA推出Echo，让品牌可授权使用CAA艺人经同意的AI分身做广告。",
+          "mini_headline": "Ogilvy与CAA推出Echo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/apple-patent-ai-app-screenshots-repainted-per-keyword-3-stable-diffusion-stage-maquette-backdrop-rolls.jpg",
-                "cap": "审查中的Apple专利保留标题和手机，按关键词重绘应用截图背景"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/multimedia-ads-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "Apple有一项待审的US专利申请US20250265066A1，于2025年8月21日公布，涉及这样一个系统：读取应用的营销图片或截图，保留其中的标题和手机，围绕关键词重新生成其余部分，再由评分模型筛选结果。ASO Patents网站于2026年11月5日发布解读后，这项申请再次受到关注。"
+                "x": "WPP旗下代理商Ogilvy与Creative Artists Agency（CAA）达成合作，将以CAA旗下的演员、运动员和知名创作者为主角制作AI广告。Ogilvy全球首席创新官Carol Reed表示：“我们正在见证广告与娱乐之间的‘NIL时刻’。”Brooklyn Nine-Nine演员Terry Crews是已同意加入的演员之一，试点项目“预计将在年底前后上线”。"
               },
               {
                 "t": "p",
-                "x": "遮罩引擎使用CenterNet检测模型和Segment Anything Model抠出前景。图像生成器“可实现stable diffusion模型的三种不同权重”，即一个inpainting模型、SDXL和一个微调模型，并配合关键词提示词以及“NSFW”“text”“logo”等负面提示词。"
+                "x": "这一名为Echo的方案让Ogilvy可以使用存放在“The Vault”中的素材。The Vault是Veritone四年前为CAA建造的内部数字扫描设施，用204台摄像机捕捉演员、运动员或创作者的声音、肢体语言、面部表情和步态。员工可将素材导入WPP Open，用于故事板、样稿或最终创意素材，单个素材成本预计下降65-75%。"
               },
               {
                 "t": "p",
-                "x": "LXMERT-based图像选择器为每个候选图与关键词的匹配度打分，并过滤“AI幻觉”，选中的图像可用于商店产品页、网站或广告。从属权利要求6和7涵盖由应用本身自动生成的图像和关键词。"
+                "x": "CAA客户拥有自己的数字肖像，并自行选择出现在哪些企业和市场。Reed说：“艺人最后总能看到一切、批准一切。”AI广告素材将带有水印，标明其为AI-generated内容并已获明星批准。"
               },
               {
                 "t": "p",
-                "x": "该专利尚未获批，也未落地。申请文件没有任何性能数据，也从未提及App Store、Apple Ads或App Store Connect，只称其为“在线软件应用商店”。"
+                "x": "消费者对此仍反应冷淡：YouGov数据显示，近一半（49%）的英国人对广告中的AI-generated演员持负面看法。Reed表示，这套系统是Ogilvy“调色板”的延伸，“背后有人的手艺，也有人在把关”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Patente de Apple redibuja\ncapturas por palabra clave",
-          "body": "Una patente de Apple usa tres modelos Stable Diffusion para redibujar imágenes de tienda de apps por palabra clave.",
-          "mini_headline": "Patente de Apple\nrehace capturas",
+          "headline": "Ogilvy y CAA licencian dobles\nAI de estrellas para anuncios",
+          "body": "Ogilvy y CAA lanzaron Echo, que permite a las marcas licenciar dobles AI consentidos del talento de CAA para anuncios.",
+          "mini_headline": "Ogilvy y CAA lanzan Echo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/apple-patent-ai-app-screenshots-repainted-per-keyword-3-stable-diffusion-stage-maquette-backdrop-rolls.jpg",
-                "cap": "La patente pendiente de Apple conserva el titular y el teléfono, y redibuja los fondos de las capturas de la app por palabra clave"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/multimedia-ads-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "Apple tiene pendiente una solicitud de patente US, US20250265066A1, publicada el 21 de agosto de 2025, para un sistema que toma una imagen de marketing o una captura de pantalla de una app, conserva el titular y el teléfono, y regenera todo lo demás en torno a una palabra clave antes de que un modelo de puntuación filtre los resultados. Volvió a llamar la atención después de que el sitio ASO Patents publicara un análisis el 5 de noviembre de 2026."
+                "x": "La agencia Ogilvy, del grupo WPP, firmó una alianza con Creative Artists Agency (CAA) para generar anuncios con AI protagonizados por los actores, deportistas y creadores destacados de la cartera de CAA. «Estamos presenciando el ‘momento NIL’ entre la publicidad y el entretenimiento», dijo Carol Reed, directora global de innovación de Ogilvy. Terry Crews, estrella de Brooklyn Nine-Nine, figura entre los actores que aceptaron participar, y los pilotos «deberían salir hacia finales de año»."
               },
               {
                 "t": "p",
-                "x": "Un motor de enmascarado usa un modelo de detección CenterNet y un Segment Anything Model para recortar el primer plano. El generador de imágenes \"puede implementar tres pesos distintos del modelo stable diffusion\" (un modelo de inpainting, SDXL y un modelo ajustado) con prompts de palabra clave y prompts negativos como \"NSFW\", \"text\" y \"logo\"."
+                "x": "La solución, llamada Echo, da a Ogilvy acceso al material guardado en «The Vault», unas instalaciones internas de escaneo digital que Veritone construyó para CAA hace cuatro años y que usan 204 cámaras para captar la voz, el lenguaje corporal, las expresiones faciales y la forma de caminar de un actor, deportista o creador. El personal puede llevarlo a WPP Open para guiones gráficos, maquetas o piezas creativas finales, y se espera que el costo por pieza baje entre un 65-75%."
               },
               {
                 "t": "p",
-                "x": "Un selector de imágenes LXMERT-based puntúa cuánto se ajusta cada candidata a la palabra clave y filtra las \"alucinaciones de AI\", y la imagen elegida puede colocarse en una página de producto de la tienda, un sitio web o un anuncio. Las reivindicaciones dependientes 6 y 7 cubren imágenes y palabras clave generadas automáticamente a partir de la propia app."
+                "x": "Los clientes de CAA son dueños de su imagen digital y eligen en qué empresas y mercados aparecen. «El talento siempre puede verlo todo y aprobarlo todo al final», dijo Reed. Los materiales publicitarios con AI llevarán una marca de agua que los identifica como AI-generated y aprobados por la estrella."
               },
               {
                 "t": "p",
-                "x": "No se ha concedido ni lanzado nada. La solicitud no incluye datos de rendimiento y nunca menciona App Store, Apple Ads ni App Store Connect; solo habla de una \"tienda de aplicaciones de software en línea\"."
+                "x": "Los consumidores siguen tibios ante la idea: casi la mitad (49%) de los británicos ve de forma negativa a los actores AI-generated en anuncios, según YouGov. Reed dijo que el sistema es una extensión de la «paleta» de Ogilvy y que «detrás hay oficio humano y una persona»."
               }
             ]
           }
@@ -199,125 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Apple 특허, 앱 화면\n키워드마다 새로 그린다",
-          "body": "Apple 특허, Stable Diffusion 셋으로 키워드별 이미지를 그린다.",
-          "mini_headline": "Apple 특허,\n스크린숏 재생성",
+          "headline": "Ogilvy와 CAA,\n스타 AI 분신 광고 허용",
+          "body": "Ogilvy와 CAA가 Echo로 동의 기반 AI 분신 광고를 열었다.",
+          "mini_headline": "Ogilvy·CAA, Echo 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/apple-patent-ai-app-screenshots-repainted-per-keyword-3-stable-diffusion-stage-maquette-backdrop-rolls.jpg",
-                "cap": "출원 중인 Apple 특허는 헤드라인과 휴대폰은 남기고 키워드마다 앱 스크린숏 배경을 다시 그린다"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/multimedia-ads-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "Apple은 2025년 8월 21일 공개된 US 특허 출원 US20250265066A1을 심사받고 있다. 앱 마케팅 이미지나 스크린숏에서 헤드라인과 휴대폰은 그대로 두고 나머지를 키워드에 맞춰 다시 생성한 뒤, 채점 모델이 결과를 걸러내는 시스템이다. ASO Patents 사이트가 2026년 11월 5일 분석 글을 올리면서 다시 주목받았다."
+                "x": "WPP 계열 에이전시 Ogilvy가 Creative Artists Agency(CAA)와 손잡고 CAA 소속 배우, 운동선수, 유명 크리에이터가 등장하는 AI 광고를 만든다. Ogilvy의 글로벌 최고혁신책임자 Carol Reed는 “광고와 엔터테인먼트 사이의 ‘NIL 모먼트’를 지금 목격하고 있다”고 말했다. Brooklyn Nine-Nine의 Terry Crews가 참여에 동의한 배우 가운데 한 명이며, 시범 광고는 “연말 무렵 공개될 예정”이다."
               },
               {
                 "t": "p",
-                "x": "마스킹 엔진은 CenterNet 검출 모델과 Segment Anything Model로 전경을 잘라낸다. 이미지 생성기는 \"stable diffusion 모델의 서로 다른 가중치 세 가지를 구현할 수 있다\". 인페인팅 모델, SDXL, 미세 조정 모델이며, 키워드 프롬프트와 함께 \"NSFW\", \"text\", \"logo\" 같은 네거티브 프롬프트를 쓴다."
+                "x": "Echo라는 이름의 이 솔루션으로 Ogilvy는 “The Vault”에 보관된 자료를 쓸 수 있다. The Vault는 Veritone이 사 년 전 CAA를 위해 만든 사내 디지털 스캐닝 시설로, 카메라 204대로 배우·운동선수·크리에이터의 목소리, 몸짓, 표정, 걸음걸이를 담는다. 직원들은 이 자료를 WPP Open으로 불러와 스토리보드, 목업, 최종 크리에이티브 에셋에 쓸 수 있으며, 에셋당 비용은 65-75% 줄어들 것으로 보인다."
               },
               {
                 "t": "p",
-                "x": "LXMERT-based 이미지 선택기는 각 후보가 키워드와 얼마나 맞는지 점수를 매기고 \"AI 환각\"을 걸러낸다. 선택된 이미지는 스토어 제품 페이지, 웹사이트, 광고에 쓰일 수 있다. 종속 청구항 6과 7은 앱 자체에서 자동 생성한 이미지와 키워드를 다룬다."
+                "x": "CAA 고객은 자신의 디지털 초상을 소유하고, 어떤 기업과 시장에 등장할지 직접 고른다. Reed는 “탤런트는 마지막에 언제나 모든 것을 보고 모든 것을 승인한다”고 말했다. AI 광고물에는 AI-generated 콘텐츠이며 스타가 승인했다는 사실을 알리는 워터마크가 붙는다."
               },
               {
                 "t": "p",
-                "x": "아직 등록되거나 출시된 것은 없다. 출원서에는 성능 데이터가 없고 App Store, Apple Ads, App Store Connect라는 이름도 나오지 않으며, \"온라인 소프트웨어 애플리케이션 스토어\"라고만 적었다."
+                "x": "소비자 반응은 아직 미지근하다. YouGov에 따르면 영국인의 절반 가까이(49%)가 광고에 나오는 AI-generated 배우를 부정적으로 본다. Reed는 이 시스템이 Ogilvy의 “팔레트”를 넓히는 것이며 “그 뒤에는 인간의 솜씨와 사람이 있다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Apple特許、アプリ画像を\nキーワード別に描き直す",
-          "body": "Apple特許は三つのStable Diffusionでキーワード別に画像を描き直す。",
-          "mini_headline": "Apple特許、\nスクリーンショット再生成",
+          "headline": "OgilvyとCAA\nスターのAI分身を広告に",
+          "body": "OgilvyとCAAがEchoを始動し、同意済みのAI分身をブランド広告に提供する。",
+          "mini_headline": "OgilvyとCAA、Echoを開始",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/apple-patent-ai-app-screenshots-repainted-per-keyword-3-stable-diffusion-stage-maquette-backdrop-rolls.jpg",
-                "cap": "審査中のApple特許は見出しと端末を残し、アプリのスクリーンショット背景をキーワードごとに描き直す"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/multimedia-ads-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "Appleは、2025年8月21日に公開されたUS特許出願US20250265066A1を審査中である。アプリのマーケティング画像やスクリーンショットから見出しと端末を残し、それ以外をキーワードに合わせて再生成したうえで、スコアリングモデルが結果を絞り込む仕組みだ。ASO Patentsサイトが2026年11月5日に解説を公開し、改めて注目を集めた。"
+                "x": "WPP傘下のエージェンシーOgilvyはCreative Artists Agency(CAA)と提携し、CAAに所属する俳優、アスリート、著名クリエイターを起用したAI広告を制作する。Ogilvyのグローバル最高イノベーション責任者Carol Reedは「広告とエンターテインメントの間の『NILモーメント』を我々は目撃している」と語った。Brooklyn Nine-NineのTerry Crewsも参加に同意した俳優の一人で、試験運用は「年末にかけて始まる見込み」だという。"
               },
               {
                 "t": "p",
-                "x": "マスキングエンジンはCenterNetの検出モデルとSegment Anything Modelで前景を切り抜く。画像生成器は「stable diffusionモデルの三つの異なる重みを実装できる」とされ、インペインティングモデル、SDXL、ファインチューニング済みモデルを、キーワードプロンプトと「NSFW」「text」「logo」などのネガティブプロンプトとともに使う。"
+                "x": "Echoと呼ばれるこの仕組みにより、Ogilvyは「The Vault」に保管された素材を利用できる。The VaultはVeritoneが四年前にCAAのために建設した社内デジタルスキャン施設で、204台のカメラで俳優、アスリート、クリエイターの声、身ぶり、表情、歩き方を記録する。スタッフは素材をWPP Openに取り込み、絵コンテ、モックアップ、最終的なクリエイティブ素材に使える。素材1点あたりのコストは65-75%下がる見通しだ。"
               },
               {
                 "t": "p",
-                "x": "LXMERT-basedの画像セレクターは各候補がキーワードにどれだけ合うかを採点し、「AIハルシネーション」を除外する。選ばれた画像はストアの製品ページ、ウェブサイト、広告に掲載できる。従属請求項6と7は、アプリ自体から自動生成した画像とキーワードを対象とする。"
+                "x": "CAAのクライアントは自らのデジタル肖像を所有し、どの企業や市場に登場するかを選ぶ。Reedは「タレントは最後に必ずすべてを確認し、すべてを承認する」と述べた。AI広告素材には、AI-generatedでありスターが承認したことを示す透かしが入る。"
               },
               {
                 "t": "p",
-                "x": "特許はまだ付与されておらず、製品化もされていない。出願書類には性能データがなく、App Store、Apple Ads、App Store Connectの名称も出てこない。記載は「オンラインソフトウェアアプリケーションストア」のみである。"
+                "x": "消費者の反応はまだ冷ややかだ。YouGovによると、英国人の半数近く(49%)が広告に登場するAI-generatedの俳優を否定的に見ている。Reedは、このシステムはOgilvyの「パレット」を広げるものであり、「そこには人間の技と人間がいる」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Apple专利按关键词\n重绘应用截图",
-          "body": "Apple专利申请用三个Stable Diffusion模型按关键词重绘应用商店图片。",
-          "mini_headline": "Apple专利\n重绘截图",
+          "headline": "Ogilvy与CAA\n授权明星AI分身做广告",
+          "body": "Ogilvy与CAA推出Echo，让品牌可授权使用CAA艺人经同意的AI分身做广告。",
+          "mini_headline": "Ogilvy与CAA推出Echo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/apple-patent-ai-app-screenshots-repainted-per-keyword-3-stable-diffusion-stage-maquette-backdrop-rolls.jpg",
-                "cap": "审查中的Apple专利保留标题和手机，按关键词重绘应用截图背景"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/multimedia-ads-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "Apple有一项待审的US专利申请US20250265066A1，于2025年8月21日公布，涉及这样一个系统：读取应用的营销图片或截图，保留其中的标题和手机，围绕关键词重新生成其余部分，再由评分模型筛选结果。ASO Patents网站于2026年11月5日发布解读后，这项申请再次受到关注。"
+                "x": "WPP旗下代理商Ogilvy与Creative Artists Agency（CAA）达成合作，将以CAA旗下的演员、运动员和知名创作者为主角制作AI广告。Ogilvy全球首席创新官Carol Reed表示：“我们正在见证广告与娱乐之间的‘NIL时刻’。”Brooklyn Nine-Nine演员Terry Crews是已同意加入的演员之一，试点项目“预计将在年底前后上线”。"
               },
               {
                 "t": "p",
-                "x": "遮罩引擎使用CenterNet检测模型和Segment Anything Model抠出前景。图像生成器“可实现stable diffusion模型的三种不同权重”，即一个inpainting模型、SDXL和一个微调模型，并配合关键词提示词以及“NSFW”“text”“logo”等负面提示词。"
+                "x": "这一名为Echo的方案让Ogilvy可以使用存放在“The Vault”中的素材。The Vault是Veritone四年前为CAA建造的内部数字扫描设施，用204台摄像机捕捉演员、运动员或创作者的声音、肢体语言、面部表情和步态。员工可将素材导入WPP Open，用于故事板、样稿或最终创意素材，单个素材成本预计下降65-75%。"
               },
               {
                 "t": "p",
-                "x": "LXMERT-based图像选择器为每个候选图与关键词的匹配度打分，并过滤“AI幻觉”，选中的图像可用于商店产品页、网站或广告。从属权利要求6和7涵盖由应用本身自动生成的图像和关键词。"
+                "x": "CAA客户拥有自己的数字肖像，并自行选择出现在哪些企业和市场。Reed说：“艺人最后总能看到一切、批准一切。”AI广告素材将带有水印，标明其为AI-generated内容并已获明星批准。"
               },
               {
                 "t": "p",
-                "x": "该专利尚未获批，也未落地。申请文件没有任何性能数据，也从未提及App Store、Apple Ads或App Store Connect，只称其为“在线软件应用商店”。"
+                "x": "消费者对此仍反应冷淡：YouGov数据显示，近一半（49%）的英国人对广告中的AI-generated演员持负面看法。Reed表示，这套系统是Ogilvy“调色板”的延伸，“背后有人的手艺，也有人在把关”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Patente de Apple redibuja\ncapturas por palabra clave",
-          "body": "Una patente de Apple usa tres modelos Stable Diffusion para redibujar imágenes de tienda de apps por palabra clave.",
-          "mini_headline": "Patente de Apple\nrehace capturas",
+          "headline": "Ogilvy y CAA licencian dobles\nAI de estrellas para anuncios",
+          "body": "Ogilvy y CAA lanzaron Echo, que permite a las marcas licenciar dobles AI consentidos del talento de CAA para anuncios.",
+          "mini_headline": "Ogilvy y CAA lanzan Echo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/apple-patent-ai-app-screenshots-repainted-per-keyword-3-stable-diffusion-stage-maquette-backdrop-rolls.jpg",
-                "cap": "La patente pendiente de Apple conserva el titular y el teléfono, y redibuja los fondos de las capturas de la app por palabra clave"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/multimedia-ads-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "Apple tiene pendiente una solicitud de patente US, US20250265066A1, publicada el 21 de agosto de 2025, para un sistema que toma una imagen de marketing o una captura de pantalla de una app, conserva el titular y el teléfono, y regenera todo lo demás en torno a una palabra clave antes de que un modelo de puntuación filtre los resultados. Volvió a llamar la atención después de que el sitio ASO Patents publicara un análisis el 5 de noviembre de 2026."
+                "x": "La agencia Ogilvy, del grupo WPP, firmó una alianza con Creative Artists Agency (CAA) para generar anuncios con AI protagonizados por los actores, deportistas y creadores destacados de la cartera de CAA. «Estamos presenciando el ‘momento NIL’ entre la publicidad y el entretenimiento», dijo Carol Reed, directora global de innovación de Ogilvy. Terry Crews, estrella de Brooklyn Nine-Nine, figura entre los actores que aceptaron participar, y los pilotos «deberían salir hacia finales de año»."
               },
               {
                 "t": "p",
-                "x": "Un motor de enmascarado usa un modelo de detección CenterNet y un Segment Anything Model para recortar el primer plano. El generador de imágenes \"puede implementar tres pesos distintos del modelo stable diffusion\" (un modelo de inpainting, SDXL y un modelo ajustado) con prompts de palabra clave y prompts negativos como \"NSFW\", \"text\" y \"logo\"."
+                "x": "La solución, llamada Echo, da a Ogilvy acceso al material guardado en «The Vault», unas instalaciones internas de escaneo digital que Veritone construyó para CAA hace cuatro años y que usan 204 cámaras para captar la voz, el lenguaje corporal, las expresiones faciales y la forma de caminar de un actor, deportista o creador. El personal puede llevarlo a WPP Open para guiones gráficos, maquetas o piezas creativas finales, y se espera que el costo por pieza baje entre un 65-75%."
               },
               {
                 "t": "p",
-                "x": "Un selector de imágenes LXMERT-based puntúa cuánto se ajusta cada candidata a la palabra clave y filtra las \"alucinaciones de AI\", y la imagen elegida puede colocarse en una página de producto de la tienda, un sitio web o un anuncio. Las reivindicaciones dependientes 6 y 7 cubren imágenes y palabras clave generadas automáticamente a partir de la propia app."
+                "x": "Los clientes de CAA son dueños de su imagen digital y eligen en qué empresas y mercados aparecen. «El talento siempre puede verlo todo y aprobarlo todo al final», dijo Reed. Los materiales publicitarios con AI llevarán una marca de agua que los identifica como AI-generated y aprobados por la estrella."
               },
               {
                 "t": "p",
-                "x": "No se ha concedido ni lanzado nada. La solicitud no incluye datos de rendimiento y nunca menciona App Store, Apple Ads ni App Store Connect; solo habla de una \"tienda de aplicaciones de software en línea\"."
+                "x": "Los consumidores siguen tibios ante la idea: casi la mitad (49%) de los británicos ve de forma negativa a los actores AI-generated en anuncios, según YouGov. Reed dijo que el sistema es una extensión de la «paleta» de Ogilvy y que «detrás hay oficio humano y una persona»."
               }
             ]
           }
@@ -325,15 +315,15 @@
       }
     },
     {
-      "id": "lebron-bron-ai-likeness-ad",
+      "id": "google-ads-mcp-write-tools",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "LeBron 측, 베팅 앱\nBron AI 광고 겨냥",
-      "body": "LeBron James 측이 베팅 앱 Bron AI의 AI 광고 삭제를 요구했다.",
-      "mini_headline": "LeBron 측,\nBron AI 광고 겨냥",
+      "headline": "Google Ads MCP\n쓰기 열고 예산은 잠갔다",
+      "body": "0.0.6 버전에 에셋·라벨 쓰기 도구 넷이 붙었지만 예산은 AI도 못 건드린다.",
+      "mini_headline": "Google Ads MCP에 쓰기 도구 추가",
       "tool": "Marketing",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/onsi/athlete-lifestyle/lebron-james-takes-legal-action-over-ai-ad-that-crossed-a-line",
+      "source": "PPC Land",
+      "url": "https://ppc.land/google-ads-mcp-server-gains-4-write-tools-still-cant-change-budgets/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -341,305 +331,265 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4378,h_2462/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/01m6pxtcsy8xmktktfdb-c0e361ab794fb66f5c62234cf143b62d.webp",
-            "cap": "두 번째 쿼터에 Chicago Bulls전을 지켜보는 Philadelphia 76ers 포워드 LeBron James. | IMAGN IMAGES via Reuters Connect"
+            "src": "https://ppc.land/content/images/2026/11/google-ads-mcp-server-4-write-tools-read-only-vitrine-grabber-arm-locked-cash-register.jpg",
+            "cap": "Google Ads MCP 서버에 기본으로 켜진 쓰기 도구 4개가 생겼지만 안내서에는 여전히 읽기 전용(read-only)이라고 적혀 있다"
           },
           {
             "t": "p",
-            "x": "LeBron James가 인공지능 스포츠 베팅 앱 Bron AI에 중단 요구 서한을 보냈다. 앱 홍보 영상에 James와 놀랄 만큼 닮은 캐릭터가 나와서다."
+            "x": "Google은 2026년 11월 2일 오픈소스 Google Ads MCP 서버 0.0.6 버전을 공개했다. 프로젝트 공개 이력상 처음으로 Google Ads 계정을 바꿀 수 있는 도구가 들어갔다. 쓰기 도구는 create_asset, upload_video_asset, manage_labels, manage_label_associations 네 개로, 에셋을 만들고 YouTube에 동영상을 올리고 라벨을 관리한다. 각 도구는 두 단계의 드라이런과 체크섬을 거쳐야 실행된다. 모두 기본으로 켜져 있다."
           },
           {
             "t": "p",
-            "x": "Front Office Sports의 11월 5일(Nov. 5) 보도를 보면, 영상 속 James를 닮은(James-like) 캐릭터가 별명 \"Bron\"과 낯익은 등번호 No. 23이 박힌 농구 유니폼 차림으로 James 비슷한 목소리를 내며 앱을 소개한다. 앱은 베팅 배당률 분석 도구와 다른 플랫폼을 거친 베팅 기능을 내세운다. 수요일 올라온 영상은 24시간도 안 돼 조회수 900,000회를 넘겼다고 한다."
+            "x": "출시에 맞춘 발표는 따로 없었다. 10월 30일에 마지막으로 갱신된 Google 개발자 연동 안내서는 이 서버를 여전히 엄격한 읽기 전용(read-only)으로 설명한다. 체크섬은 매개변수가 바뀌지 않았음을 증명할 뿐, 누군가 변경을 승인했다는 것까지 증명하지는 못한다. 이번 버전을 시험한 스위스 컨설턴트 Thomas Wismer는 “그 사이에 사람이 승인했는지는 서버가 확인할 수 없다”고 적었다."
           },
           {
             "t": "p",
-            "x": "James 측 대변인은 Front Office Sports에 \"LeBron은 자신의 초상을 무단으로 사용한 이번 일과 어떤 관계도 없다\"고 말했다. 서한은 회사가 James의 이름과 별명, 외모처럼 신원을 드러내는 특징을 쓴 데 이의를 제기하며, James가 이 사업과 무관하다는 사실을 이용자에게 서면으로 알리라고 요구한다. 영상은 보도 뒤 X에서는 내려갔지만 Instagram에는 그대로 남았다."
-          },
-          {
-            "t": "p",
-            "x": "James는 Polymarket과 독점 광고 계약을 맺은 상태다. 변호인단은 이번 홍보가 또 다른 상업적 관계가 있는 것처럼 오해를 부른다고 주장한다. NBA 규정상 선수는 리그 경기에 베팅할 수 없다. Luka Doncic 측 관계자도 Bron AI에 중단 요구 서한을 보냈다고 밝혔다."
+            "x": "0.0.6 버전도 캠페인, 광고 그룹, 광고는 만들거나 고칠 수 없고 예산, 입찰가, 입찰 전략, 상태도 바꾸지 못한다. 키워드 추가나 새 에셋의 캠페인 연결도 안 된다. README는 엄격한 읽기 전용(read-only)으로 운영하려면 tools_config.yaml에서 labels: false와 assets: false로 설정하라고 안내한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "LeBron's reps target AI ad\nfor betting app Bron AI",
-          "body": "LeBron James's reps are demanding a viral AI ad for betting app Bron AI be pulled, saying it used his likeness.",
-          "mini_headline": "LeBron reps target\nBron AI ad",
+          "headline": "Google Ads MCP server\ngets write tools, not budgets",
+          "body": "Version 0.0.6 enables four write tools for assets and labels, letting AI agents edit live accounts but not budgets.",
+          "mini_headline": "Google Ads MCP adds write tools",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4378,h_2462/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/01m6pxtcsy8xmktktfdb-c0e361ab794fb66f5c62234cf143b62d.webp",
-                "cap": "Philadelphia 76ers forward LeBron James looks on during the second quarter against the Chicago Bulls. | IMAGN IMAGES via Reuters Connect"
+                "src": "https://ppc.land/content/images/2026/11/google-ads-mcp-server-4-write-tools-read-only-vitrine-grabber-arm-locked-cash-register.jpg",
+                "cap": "Google Ads MCP server gains 4 write tools on by default, yet its guide still calls it read-only"
               },
               {
                 "t": "p",
-                "x": "LeBron James has sent a cease-and-desist letter to Bron AI, an artificial intelligence-powered sports betting app whose promotional video features a character bearing a striking resemblance to James."
+                "x": "Google released version 0.0.6 of its open-source Google Ads MCP server on November 2, 2026, adding the first tools in the project's public history that can change a Google Ads account. The four write tools — create_asset, upload_video_asset, manage_labels and manage_label_associations — create assets, upload videos to YouTube and manage labels, each gated behind a two-step dry run and checksum. They are switched on by default."
               },
               {
                 "t": "p",
-                "x": "According to a Nov. 5 report from Front Office Sports, the video features a James-like character wearing a basketball jersey with the nickname \"Bron\" and his familiar No. 23, speaking in a voice resembling James' as he browses the app, which promotes tools for analyzing betting odds and placing wagers through other platforms. Posted Wednesday, it reportedly drew more than 900,000 views in less than 24 hours."
+                "x": "No announcement accompanied the release, and Google's developer integration guide, last updated on October 30, still describes the server as strictly read-only. The checksum proves the parameters did not change; it does not prove anyone approved the change. “Whether a human approved it in between, the server cannot check,” wrote Swiss consultant Thomas Wismer, who tested the release."
               },
               {
                 "t": "p",
-                "x": "\"LeBron is in no way affiliated with this unauthorized use of his likeness,\" a spokesperson for James told Front Office Sports. The letter objects to the company's use of James' name, nickname, appearance and other identifying characteristics, and demands that it inform its users in writing that James has no involvement with the business. The video was removed from X after the report, though it remained on Instagram."
-              },
-              {
-                "t": "p",
-                "x": "James has an exclusive endorsement agreement with Polymarket; his attorneys argue the promotion creates a misleading impression of another commercial relationship. NBA rules prohibit players from wagering on league games. A representative for Luka Doncic said he had also sent Bron AI a cease-and-desist letter."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "LeBron 측, 베팅 앱\nBron AI 광고 겨냥",
-          "body": "LeBron James 측이 베팅 앱 Bron AI의 AI 광고 삭제를 요구했다.",
-          "mini_headline": "LeBron 측,\nBron AI 광고 겨냥",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4378,h_2462/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/01m6pxtcsy8xmktktfdb-c0e361ab794fb66f5c62234cf143b62d.webp",
-                "cap": "두 번째 쿼터에 Chicago Bulls전을 지켜보는 Philadelphia 76ers 포워드 LeBron James. | IMAGN IMAGES via Reuters Connect"
-              },
-              {
-                "t": "p",
-                "x": "LeBron James가 인공지능 스포츠 베팅 앱 Bron AI에 중단 요구 서한을 보냈다. 앱 홍보 영상에 James와 놀랄 만큼 닮은 캐릭터가 나와서다."
-              },
-              {
-                "t": "p",
-                "x": "Front Office Sports의 11월 5일(Nov. 5) 보도를 보면, 영상 속 James를 닮은(James-like) 캐릭터가 별명 \"Bron\"과 낯익은 등번호 No. 23이 박힌 농구 유니폼 차림으로 James 비슷한 목소리를 내며 앱을 소개한다. 앱은 베팅 배당률 분석 도구와 다른 플랫폼을 거친 베팅 기능을 내세운다. 수요일 올라온 영상은 24시간도 안 돼 조회수 900,000회를 넘겼다고 한다."
-              },
-              {
-                "t": "p",
-                "x": "James 측 대변인은 Front Office Sports에 \"LeBron은 자신의 초상을 무단으로 사용한 이번 일과 어떤 관계도 없다\"고 말했다. 서한은 회사가 James의 이름과 별명, 외모처럼 신원을 드러내는 특징을 쓴 데 이의를 제기하며, James가 이 사업과 무관하다는 사실을 이용자에게 서면으로 알리라고 요구한다. 영상은 보도 뒤 X에서는 내려갔지만 Instagram에는 그대로 남았다."
-              },
-              {
-                "t": "p",
-                "x": "James는 Polymarket과 독점 광고 계약을 맺은 상태다. 변호인단은 이번 홍보가 또 다른 상업적 관계가 있는 것처럼 오해를 부른다고 주장한다. NBA 규정상 선수는 리그 경기에 베팅할 수 없다. Luka Doncic 측 관계자도 Bron AI에 중단 요구 서한을 보냈다고 밝혔다."
+                "x": "Version 0.0.6 still cannot create or edit campaigns, ad groups or ads; change budgets, bids, bidding strategies or status; add keywords; or attach a new asset to a campaign. For strictly read-only deployments, the README says to set labels: false and assets: false in tools_config.yaml."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LeBron側が抗議\nBron AIのAI広告",
-          "body": "LeBron James側は賭けアプリBron AIのAI広告に肖像使用で削除を要求した。",
-          "mini_headline": "LeBron側、\nBron AI広告に抗議",
+          "headline": "Google Ads MCP\n書き込み対応、予算は不可",
+          "body": "0.0.6版は書き込みツール四つを有効化し、AIエージェントは予算以外を編集できる。",
+          "mini_headline": "Google Ads MCPに書き込みツール",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4378,h_2462/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/01m6pxtcsy8xmktktfdb-c0e361ab794fb66f5c62234cf143b62d.webp",
-                "cap": "Chicago Bulls戦の第二クォーターで試合を見つめるPhiladelphia 76ersのフォワード、LeBron James。| IMAGN IMAGES via Reuters Connect"
+                "src": "https://ppc.land/content/images/2026/11/google-ads-mcp-server-4-write-tools-read-only-vitrine-grabber-arm-locked-cash-register.jpg",
+                "cap": "Google Ads MCPサーバーに既定で有効な書き込みツール4つが加わったが、ガイドは今もread-onlyと説明している"
               },
               {
                 "t": "p",
-                "x": "LeBron Jamesは、人工知能を活用したスポーツ賭博アプリBron AIに停止要求書を送った。同アプリのプロモーション動画には、Jamesに酷似したキャラクターが登場する。"
+                "x": "Googleは2026年11月2日、オープンソースのGoogle Ads MCPサーバーのバージョン0.0.6を公開し、プロジェクトの公開履歴で初めてGoogle Adsアカウントを変更できるツールを追加した。四つの書き込みツール(create_asset、upload_video_asset、manage_labels、manage_label_associations)はアセットの作成、YouTubeへの動画アップロード、ラベル管理を行い、いずれも二段階のドライランとチェックサムを経て実行される。これらは既定で有効になっている。"
               },
               {
                 "t": "p",
-                "x": "Front Office Sportsの11月5日(Nov. 5)の報道によると、動画ではJamesに似た(James-like)キャラクターが、愛称「Bron」とおなじみの背番号No. 23が入ったバスケットボールのジャージを着て、Jamesに似た声で話しながらアプリを操作する。アプリは賭けのオッズを分析するツールや、他のプラットフォーム経由で賭けるツールを宣伝している。水曜日に投稿された動画は、24時間足らずで900,000回を超える再生を記録したという。"
+                "x": "リリースに告知はなく、10月30日に最終更新されたGoogleの開発者向け統合ガイドは、今もこのサーバーを厳密なread-onlyと説明している。チェックサムはパラメータが変わっていないことを証明するが、誰かが変更を承認したことまでは証明しない。リリースを検証したスイスのコンサルタントThomas Wismerは「その間に人間が承認したかどうかを、サーバーは確認できない」と書いた。"
               },
               {
                 "t": "p",
-                "x": "James側の広報担当者はFront Office Sportsに「LeBronは、自身の肖像を無断で使ったこの件とは一切関係がない」と語った。書簡は、同社がJamesの名前、愛称、外見などの識別可能な特徴を使ったことに異議を唱え、Jamesが事業に関与していないことを利用者に書面で知らせるよう求めている。動画は報道後にXから削除されたが、Instagramには残っていた。"
-              },
-              {
-                "t": "p",
-                "x": "JamesはPolymarketと独占的な広告契約を結んでおり、弁護士らはこの宣伝が別の商業的関係があるかのような誤解を招くと主張する。NBAの規則は選手がリーグの試合に賭けることを禁じている。Luka Doncicの代理人も、Bron AIに停止要求書を送ったと明らかにした。"
+                "x": "バージョン0.0.6でも、キャンペーン、広告グループ、広告の作成や編集、予算・入札単価・入札戦略・ステータスの変更、キーワードの追加、キャンペーンへの新しいアセットの紐付けはできない。厳密にread-onlyで運用する場合、READMEはtools_config.yamlでlabels: falseとassets: falseを設定するよう案内している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "LeBron团队要求撤下\n博彩应用Bron AI广告",
-          "body": "LeBron James团队称博彩应用Bron AI的爆红AI广告盗用其肖像，要求撤下。",
-          "mini_headline": "LeBron团队\n剑指Bron AI广告",
+          "headline": "Google Ads MCP\n新增写入工具，预算除外",
+          "body": "0.0.6版启用四个资产与标签写入工具，AI智能体可改实时账户但不能改预算。",
+          "mini_headline": "Google Ads MCP新增写入工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4378,h_2462/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/01m6pxtcsy8xmktktfdb-c0e361ab794fb66f5c62234cf143b62d.webp",
-                "cap": "Philadelphia 76ers前锋LeBron James在对阵Chicago Bulls的第二节比赛中观战。| IMAGN IMAGES via Reuters Connect"
+                "src": "https://ppc.land/content/images/2026/11/google-ads-mcp-server-4-write-tools-read-only-vitrine-grabber-arm-locked-cash-register.jpg",
+                "cap": "Google Ads MCP服务器新增4个默认开启的写入工具，但其指南仍称它为read-only"
               },
               {
                 "t": "p",
-                "x": "LeBron James已向Bron AI发出停止侵权函。Bron AI是一款人工智能驱动的体育博彩应用，其宣传视频中出现了一个与James极为相像的角色。"
+                "x": "Google于2026年11月2日发布开源Google Ads MCP服务器0.0.6版，首次在该项目的公开历史中加入能够修改Google Ads账户的工具。四个写入工具——create_asset、upload_video_asset、manage_labels和manage_label_associations——可创建资产、向YouTube上传视频并管理标签，每个工具都须先通过两步试运行和校验和。这些工具默认开启。"
               },
               {
                 "t": "p",
-                "x": "据Front Office Sports 11月5日（Nov. 5）的报道，视频中这个酷似James（James-like）的角色身穿印有昵称“Bron”和他熟悉的No. 23号码的篮球球衣，用类似James的声音一边浏览应用一边讲解。该应用宣传的是分析博彩赔率、并通过其他平台下注的工具。据报道，视频于周三发布，不到24小时观看量就超过900,000次。"
+                "x": "此次发布没有任何公告，而Google最后更新于10月30日的开发者集成指南仍将该服务器描述为严格的read-only。校验和只能证明参数未被改动，无法证明有人批准了这次修改。测试过该版本的瑞士顾问Thomas Wismer写道：“中间是否有人批准，服务器无从核实。”"
               },
               {
                 "t": "p",
-                "x": "James的一位发言人对Front Office Sports表示：“LeBron与这起未经授权使用其肖像的行为没有任何关联。”函件反对该公司使用James的姓名、昵称、外貌及其他可识别特征，并要求其书面告知用户James与该业务毫无关系。报道发布后，视频已从X上删除，但仍保留在Instagram上。"
-              },
-              {
-                "t": "p",
-                "x": "James与Polymarket签有独家代言协议；他的律师认为，这次宣传会让人误以为双方存在另一层商业关系。NBA规则禁止球员对联盟比赛下注。Luka Doncic的一名代表表示，他也已向Bron AI发出停止侵权函。"
+                "x": "0.0.6版仍无法创建或编辑广告系列、广告组或广告，无法更改预算、出价、出价策略或状态，无法添加关键词，也无法把新资产关联到广告系列。若要严格read-only部署，README建议在tools_config.yaml中设置labels: false和assets: false。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El entorno de LeBron va contra\nun anuncio AI de Bron AI",
-          "body": "Los agentes de LeBron James exigen retirar un anuncio viral de AI de la app de apuestas Bron AI por usar su imagen.",
-          "mini_headline": "LeBron va contra\nel anuncio de Bron AI",
+          "headline": "Google Ads MCP suma escritura\npero no toca presupuestos",
+          "body": "La versión 0.0.6 activa cuatro herramientas de escritura y deja que agentes AI editen cuentas, no presupuestos.",
+          "mini_headline": "Google Ads MCP suma herramientas de escritura",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4378,h_2462/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/01m6pxtcsy8xmktktfdb-c0e361ab794fb66f5c62234cf143b62d.webp",
-                "cap": "LeBron James, alero de los Philadelphia 76ers, observa durante el segundo cuarto ante los Chicago Bulls. | IMAGN IMAGES via Reuters Connect"
+                "src": "https://ppc.land/content/images/2026/11/google-ads-mcp-server-4-write-tools-read-only-vitrine-grabber-arm-locked-cash-register.jpg",
+                "cap": "El servidor Google Ads MCP suma 4 herramientas de escritura activadas por defecto, aunque su guía aún lo describe como read-only"
               },
               {
                 "t": "p",
-                "x": "LeBron James ha enviado una carta de cese y desistimiento a Bron AI, una app de apuestas deportivas impulsada por inteligencia artificial cuyo video promocional muestra a un personaje con un parecido notable con James."
+                "x": "Google publicó el 2 de noviembre de 2026 la versión 0.0.6 de su servidor de código abierto Google Ads MCP, que añade las primeras herramientas de la historia pública del proyecto capaces de modificar una cuenta de Google Ads. Las cuatro herramientas de escritura —create_asset, upload_video_asset, manage_labels y manage_label_associations— crean recursos, suben videos a YouTube y gestionan etiquetas, y cada una exige una simulación en dos pasos y una suma de verificación. Vienen activadas por defecto."
               },
               {
                 "t": "p",
-                "x": "Según un informe de Front Office Sports del 5 de noviembre (Nov. 5), el video muestra a un personaje similar a James (James-like) con una camiseta de baloncesto con el apodo \"Bron\" y su conocido No. 23, que habla con una voz parecida a la de James mientras navega por la app, la cual promociona herramientas para analizar cuotas de apuestas y apostar a través de otras plataformas. Publicado el miércoles, habría superado las 900,000 visualizaciones en menos de 24 horas."
+                "x": "El lanzamiento no tuvo anuncio, y la guía de integración para desarrolladores de Google, actualizada por última vez el 30 de octubre, sigue describiendo el servidor como estrictamente read-only. La suma de verificación prueba que los parámetros no cambiaron, pero no que alguien aprobara el cambio. «Si un humano lo aprobó entre medias, el servidor no puede comprobarlo», escribió el consultor suizo Thomas Wismer, que probó la versión."
               },
               {
                 "t": "p",
-                "x": "\"LeBron no tiene ninguna relación con este uso no autorizado de su imagen\", dijo un portavoz de James a Front Office Sports. La carta objeta el uso por parte de la empresa del nombre, el apodo, la apariencia y otras características identificativas de James, y exige que informe por escrito a sus usuarios de que James no tiene ninguna participación en el negocio. El video fue retirado de X tras el informe, aunque seguía en Instagram."
+                "x": "La versión 0.0.6 todavía no puede crear ni editar campañas, grupos de anuncios ni anuncios; cambiar presupuestos, pujas, estrategias de puja ni estados; añadir palabras clave; ni vincular un recurso nuevo a una campaña. Para despliegues estrictamente read-only, el README indica configurar labels: false y assets: false en tools_config.yaml."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Google Ads MCP\n쓰기 열고 예산은 잠갔다",
+          "body": "0.0.6 버전에 에셋·라벨 쓰기 도구 넷이 붙었지만 예산은 AI도 못 건드린다.",
+          "mini_headline": "Google Ads MCP에 쓰기 도구 추가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ppc.land/content/images/2026/11/google-ads-mcp-server-4-write-tools-read-only-vitrine-grabber-arm-locked-cash-register.jpg",
+                "cap": "Google Ads MCP 서버에 기본으로 켜진 쓰기 도구 4개가 생겼지만 안내서에는 여전히 읽기 전용(read-only)이라고 적혀 있다"
               },
               {
                 "t": "p",
-                "x": "James tiene un acuerdo exclusivo de patrocinio con Polymarket; sus abogados sostienen que la promoción crea la impresión engañosa de otra relación comercial. Las normas de la NBA prohíben a los jugadores apostar en partidos de la liga. Un representante de Luka Doncic dijo que él también había enviado a Bron AI una carta de cese y desistimiento."
+                "x": "Google은 2026년 11월 2일 오픈소스 Google Ads MCP 서버 0.0.6 버전을 공개했다. 프로젝트 공개 이력상 처음으로 Google Ads 계정을 바꿀 수 있는 도구가 들어갔다. 쓰기 도구는 create_asset, upload_video_asset, manage_labels, manage_label_associations 네 개로, 에셋을 만들고 YouTube에 동영상을 올리고 라벨을 관리한다. 각 도구는 두 단계의 드라이런과 체크섬을 거쳐야 실행된다. 모두 기본으로 켜져 있다."
+              },
+              {
+                "t": "p",
+                "x": "출시에 맞춘 발표는 따로 없었다. 10월 30일에 마지막으로 갱신된 Google 개발자 연동 안내서는 이 서버를 여전히 엄격한 읽기 전용(read-only)으로 설명한다. 체크섬은 매개변수가 바뀌지 않았음을 증명할 뿐, 누군가 변경을 승인했다는 것까지 증명하지는 못한다. 이번 버전을 시험한 스위스 컨설턴트 Thomas Wismer는 “그 사이에 사람이 승인했는지는 서버가 확인할 수 없다”고 적었다."
+              },
+              {
+                "t": "p",
+                "x": "0.0.6 버전도 캠페인, 광고 그룹, 광고는 만들거나 고칠 수 없고 예산, 입찰가, 입찰 전략, 상태도 바꾸지 못한다. 키워드 추가나 새 에셋의 캠페인 연결도 안 된다. README는 엄격한 읽기 전용(read-only)으로 운영하려면 tools_config.yaml에서 labels: false와 assets: false로 설정하라고 안내한다."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "LeBron 측, 베팅 앱\nBron AI 광고 겨냥",
-          "body": "LeBron James 측이 베팅 앱 Bron AI의 AI 광고 삭제를 요구했다.",
-          "mini_headline": "LeBron 측,\nBron AI 광고 겨냥",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4378,h_2462/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/01m6pxtcsy8xmktktfdb-c0e361ab794fb66f5c62234cf143b62d.webp",
-                "cap": "Philadelphia 76ers 포워드 LeBron James가 Chicago Bulls전 두 번째 쿼터에 경기를 지켜보고 있다. | IMAGN IMAGES via Reuters Connect"
-              },
-              {
-                "t": "p",
-                "x": "LeBron James가 인공지능 기반 스포츠 베팅 앱 Bron AI에 중단 요구 서한을 보냈다. 이 앱의 홍보 영상에는 James와 놀랄 만큼 닮은 캐릭터가 나온다."
-              },
-              {
-                "t": "p",
-                "x": "Front Office Sports의 11월 5일(Nov. 5) 보도에 따르면, 영상 속 James를 닮은(James-like) 캐릭터는 별명 \"Bron\"과 익숙한 등번호 No. 23이 적힌 농구 유니폼을 입고 James와 비슷한 목소리로 앱을 둘러본다. 이 앱은 베팅 배당률 분석 도구와 다른 플랫폼을 통한 베팅 기능을 홍보한다. 수요일에 게시된 영상은 24시간도 안 돼 조회수 900,000회를 넘긴 것으로 알려졌다."
-              },
-              {
-                "t": "p",
-                "x": "James 측 대변인은 Front Office Sports에 \"LeBron은 자신의 초상을 무단으로 사용한 이번 일과 어떤 관계도 없다\"고 말했다. 서한은 회사가 James의 이름, 별명, 외모 등 신원을 드러내는 특징을 쓴 데 이의를 제기하고, James가 이 사업과 무관하다는 사실을 이용자에게 서면으로 알리라고 요구한다. 영상은 보도 후 X에서 내려갔지만 Instagram에는 남아 있었다."
-              },
-              {
-                "t": "p",
-                "x": "James는 Polymarket과 독점 광고 계약을 맺고 있으며, 변호인단은 이번 홍보가 또 다른 상업적 관계가 있는 듯한 오해를 낳는다고 주장한다. NBA 규정은 선수가 리그 경기에 베팅하는 것을 금지한다. Luka Doncic 측 관계자도 Bron AI에 중단 요구 서한을 보냈다고 밝혔다."
-              }
-            ]
-          }
-        },
         "ja": {
-          "headline": "LeBron側が抗議\nBron AIのAI広告",
-          "body": "LeBron James側は賭けアプリBron AIのAI広告に肖像使用で削除を要求した。",
-          "mini_headline": "LeBron側、\nBron AI広告に抗議",
+          "headline": "Google Ads MCP\n書き込み対応、予算は不可",
+          "body": "0.0.6版は書き込みツール四つを有効化し、AIエージェントは予算以外を編集できる。",
+          "mini_headline": "Google Ads MCPに書き込みツール",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4378,h_2462/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/01m6pxtcsy8xmktktfdb-c0e361ab794fb66f5c62234cf143b62d.webp",
-                "cap": "Chicago Bulls戦の第二クォーターで試合を見つめるPhiladelphia 76ersのフォワード、LeBron James。| IMAGN IMAGES via Reuters Connect"
+                "src": "https://ppc.land/content/images/2026/11/google-ads-mcp-server-4-write-tools-read-only-vitrine-grabber-arm-locked-cash-register.jpg",
+                "cap": "Google Ads MCPサーバーに既定で有効な書き込みツール4つが加わったが、ガイドは今もread-onlyと説明している"
               },
               {
                 "t": "p",
-                "x": "LeBron Jamesは、人工知能を活用したスポーツ賭博アプリBron AIに停止要求書を送った。同アプリのプロモーション動画には、Jamesに酷似したキャラクターが登場する。"
+                "x": "Googleは2026年11月2日、オープンソースのGoogle Ads MCPサーバーのバージョン0.0.6を公開し、プロジェクトの公開履歴で初めてGoogle Adsアカウントを変更できるツールを追加した。四つの書き込みツール(create_asset、upload_video_asset、manage_labels、manage_label_associations)はアセットの作成、YouTubeへの動画アップロード、ラベル管理を行い、いずれも二段階のドライランとチェックサムを経て実行される。これらは既定で有効になっている。"
               },
               {
                 "t": "p",
-                "x": "Front Office Sportsの11月5日(Nov. 5)の報道によると、動画ではJamesに似た(James-like)キャラクターが、愛称「Bron」とおなじみの背番号No. 23が入ったバスケットボールのジャージを着て、Jamesに似た声で話しながらアプリを操作する。アプリは賭けのオッズを分析するツールや、他のプラットフォーム経由で賭けるツールを宣伝している。水曜日に投稿された動画は、24時間足らずで900,000回を超える再生を記録したという。"
+                "x": "リリースに告知はなく、10月30日に最終更新されたGoogleの開発者向け統合ガイドは、今もこのサーバーを厳密なread-onlyと説明している。チェックサムはパラメータが変わっていないことを証明するが、誰かが変更を承認したことまでは証明しない。リリースを検証したスイスのコンサルタントThomas Wismerは「その間に人間が承認したかどうかを、サーバーは確認できない」と書いた。"
               },
               {
                 "t": "p",
-                "x": "James側の広報担当者はFront Office Sportsに「LeBronは、自身の肖像を無断で使ったこの件とは一切関係がない」と語った。書簡は、同社がJamesの名前、愛称、外見などの識別可能な特徴を使ったことに異議を唱え、Jamesが事業に関与していないことを利用者に書面で知らせるよう求めている。動画は報道後にXから削除されたが、Instagramには残っていた。"
-              },
-              {
-                "t": "p",
-                "x": "JamesはPolymarketと独占的な広告契約を結んでおり、弁護士らはこの宣伝が別の商業的関係があるかのような誤解を招くと主張する。NBAの規則は選手がリーグの試合に賭けることを禁じている。Luka Doncicの代理人も、Bron AIに停止要求書を送ったと明らかにした。"
+                "x": "バージョン0.0.6でも、キャンペーン、広告グループ、広告の作成や編集、予算・入札単価・入札戦略・ステータスの変更、キーワードの追加、キャンペーンへの新しいアセットの紐付けはできない。厳密にread-onlyで運用する場合、READMEはtools_config.yamlでlabels: falseとassets: falseを設定するよう案内している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "LeBron团队要求撤下\n博彩应用Bron AI广告",
-          "body": "LeBron James团队称博彩应用Bron AI的爆红AI广告盗用其肖像，要求撤下。",
-          "mini_headline": "LeBron团队\n剑指Bron AI广告",
+          "headline": "Google Ads MCP\n新增写入工具，预算除外",
+          "body": "0.0.6版启用四个资产与标签写入工具，AI智能体可改实时账户但不能改预算。",
+          "mini_headline": "Google Ads MCP新增写入工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4378,h_2462/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/01m6pxtcsy8xmktktfdb-c0e361ab794fb66f5c62234cf143b62d.webp",
-                "cap": "Philadelphia 76ers前锋LeBron James在对阵Chicago Bulls的第二节比赛中观战。| IMAGN IMAGES via Reuters Connect"
+                "src": "https://ppc.land/content/images/2026/11/google-ads-mcp-server-4-write-tools-read-only-vitrine-grabber-arm-locked-cash-register.jpg",
+                "cap": "Google Ads MCP服务器新增4个默认开启的写入工具，但其指南仍称它为read-only"
               },
               {
                 "t": "p",
-                "x": "LeBron James已向Bron AI发出停止侵权函。Bron AI是一款人工智能驱动的体育博彩应用，其宣传视频中出现了一个与James极为相像的角色。"
+                "x": "Google于2026年11月2日发布开源Google Ads MCP服务器0.0.6版，首次在该项目的公开历史中加入能够修改Google Ads账户的工具。四个写入工具——create_asset、upload_video_asset、manage_labels和manage_label_associations——可创建资产、向YouTube上传视频并管理标签，每个工具都须先通过两步试运行和校验和。这些工具默认开启。"
               },
               {
                 "t": "p",
-                "x": "据Front Office Sports 11月5日（Nov. 5）的报道，视频中这个酷似James（James-like）的角色身穿印有昵称“Bron”和他熟悉的No. 23号码的篮球球衣，用类似James的声音一边浏览应用一边讲解。该应用宣传的是分析博彩赔率、并通过其他平台下注的工具。据报道，视频于周三发布，不到24小时观看量就超过900,000次。"
+                "x": "此次发布没有任何公告，而Google最后更新于10月30日的开发者集成指南仍将该服务器描述为严格的read-only。校验和只能证明参数未被改动，无法证明有人批准了这次修改。测试过该版本的瑞士顾问Thomas Wismer写道：“中间是否有人批准，服务器无从核实。”"
               },
               {
                 "t": "p",
-                "x": "James的一位发言人对Front Office Sports表示：“LeBron与这起未经授权使用其肖像的行为没有任何关联。”函件反对该公司使用James的姓名、昵称、外貌及其他可识别特征，并要求其书面告知用户James与该业务毫无关系。报道发布后，视频已从X上删除，但仍保留在Instagram上。"
-              },
-              {
-                "t": "p",
-                "x": "James与Polymarket签有独家代言协议；他的律师认为，这次宣传会让人误以为双方存在另一层商业关系。NBA规则禁止球员对联盟比赛下注。Luka Doncic的一名代表表示，他也已向Bron AI发出停止侵权函。"
+                "x": "0.0.6版仍无法创建或编辑广告系列、广告组或广告，无法更改预算、出价、出价策略或状态，无法添加关键词，也无法把新资产关联到广告系列。若要严格read-only部署，README建议在tools_config.yaml中设置labels: false和assets: false。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El entorno de LeBron va contra\nun anuncio AI de Bron AI",
-          "body": "Los agentes de LeBron James exigen retirar un anuncio viral de AI de la app de apuestas Bron AI por usar su imagen.",
-          "mini_headline": "LeBron va contra\nel anuncio de Bron AI",
+          "headline": "Google Ads MCP suma escritura\npero no toca presupuestos",
+          "body": "La versión 0.0.6 activa cuatro herramientas de escritura y deja que agentes AI editen cuentas, no presupuestos.",
+          "mini_headline": "Google Ads MCP suma herramientas de escritura",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4378,h_2462/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/01m6pxtcsy8xmktktfdb-c0e361ab794fb66f5c62234cf143b62d.webp",
-                "cap": "LeBron James, alero de los Philadelphia 76ers, observa durante el segundo cuarto ante los Chicago Bulls. | IMAGN IMAGES via Reuters Connect"
+                "src": "https://ppc.land/content/images/2026/11/google-ads-mcp-server-4-write-tools-read-only-vitrine-grabber-arm-locked-cash-register.jpg",
+                "cap": "El servidor Google Ads MCP suma 4 herramientas de escritura activadas por defecto, aunque su guía aún lo describe como read-only"
               },
               {
                 "t": "p",
-                "x": "LeBron James ha enviado una carta de cese y desistimiento a Bron AI, una app de apuestas deportivas impulsada por inteligencia artificial cuyo video promocional muestra a un personaje con un parecido notable con James."
+                "x": "Google publicó el 2 de noviembre de 2026 la versión 0.0.6 de su servidor de código abierto Google Ads MCP, que añade las primeras herramientas de la historia pública del proyecto capaces de modificar una cuenta de Google Ads. Las cuatro herramientas de escritura —create_asset, upload_video_asset, manage_labels y manage_label_associations— crean recursos, suben videos a YouTube y gestionan etiquetas, y cada una exige una simulación en dos pasos y una suma de verificación. Vienen activadas por defecto."
               },
               {
                 "t": "p",
-                "x": "Según un informe de Front Office Sports del 5 de noviembre (Nov. 5), el video muestra a un personaje similar a James (James-like) con una camiseta de baloncesto con el apodo \"Bron\" y su conocido No. 23, que habla con una voz parecida a la de James mientras navega por la app, la cual promociona herramientas para analizar cuotas de apuestas y apostar a través de otras plataformas. Publicado el miércoles, habría superado las 900,000 visualizaciones en menos de 24 horas."
+                "x": "El lanzamiento no tuvo anuncio, y la guía de integración para desarrolladores de Google, actualizada por última vez el 30 de octubre, sigue describiendo el servidor como estrictamente read-only. La suma de verificación prueba que los parámetros no cambiaron, pero no que alguien aprobara el cambio. «Si un humano lo aprobó entre medias, el servidor no puede comprobarlo», escribió el consultor suizo Thomas Wismer, que probó la versión."
               },
               {
                 "t": "p",
-                "x": "\"LeBron no tiene ninguna relación con este uso no autorizado de su imagen\", dijo un portavoz de James a Front Office Sports. La carta objeta el uso por parte de la empresa del nombre, el apodo, la apariencia y otras características identificativas de James, y exige que informe por escrito a sus usuarios de que James no tiene ninguna participación en el negocio. El video fue retirado de X tras el informe, aunque seguía en Instagram."
+                "x": "La versión 0.0.6 todavía no puede crear ni editar campañas, grupos de anuncios ni anuncios; cambiar presupuestos, pujas, estrategias de puja ni estados; añadir palabras clave; ni vincular un recurso nuevo a una campaña. Para despliegues estrictamente read-only, el README indica configurar labels: false y assets: false en tools_config.yaml."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Google Ads MCP\n쓰기 열고 예산은 잠갔다",
+          "body": "0.0.6 버전에 에셋·라벨 쓰기 도구 넷이 생겼지만 AI도 예산은 못 건드린다.",
+          "mini_headline": "Google Ads MCP에 쓰기 도구 추가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ppc.land/content/images/2026/11/google-ads-mcp-server-4-write-tools-read-only-vitrine-grabber-arm-locked-cash-register.jpg",
+                "cap": "Google Ads MCP 서버에 기본으로 켜진 쓰기 도구 4개가 생겼지만, 안내서는 여전히 읽기 전용(read-only)이라고 적고 있다"
               },
               {
                 "t": "p",
-                "x": "James tiene un acuerdo exclusivo de patrocinio con Polymarket; sus abogados sostienen que la promoción crea la impresión engañosa de otra relación comercial. Las normas de la NBA prohíben a los jugadores apostar en partidos de la liga. Un representante de Luka Doncic dijo que él también había enviado a Bron AI una carta de cese y desistimiento."
+                "x": "Google은 2026년 11월 2일 오픈소스 Google Ads MCP 서버 0.0.6 버전을 공개하며, 프로젝트 공개 이력에서 처음으로 Google Ads 계정을 바꿀 수 있는 도구를 넣었다. 쓰기 도구 네 개, 곧 create_asset, upload_video_asset, manage_labels, manage_label_associations는 에셋을 만들고 YouTube에 동영상을 올리며 라벨을 관리한다. 각 도구는 두 단계의 드라이런과 체크섬을 거쳐야 실행된다. 이 도구들은 기본으로 켜져 있다."
+              },
+              {
+                "t": "p",
+                "x": "출시에 맞춘 발표는 없었고, 10월 30일에 마지막으로 갱신된 Google 개발자 연동 안내서는 여전히 이 서버를 엄격한 읽기 전용(read-only)으로 설명한다. 체크섬은 매개변수가 바뀌지 않았다는 것을 증명할 뿐, 누군가 변경을 승인했다는 것까지 증명하지는 않는다. 이번 버전을 시험한 스위스 컨설턴트 Thomas Wismer는 “그 사이에 사람이 승인했는지는 서버가 확인할 수 없다”고 적었다."
+              },
+              {
+                "t": "p",
+                "x": "0.0.6 버전은 여전히 캠페인, 광고 그룹, 광고를 만들거나 고칠 수 없고, 예산, 입찰가, 입찰 전략, 상태도 바꿀 수 없다. 키워드를 추가하거나 새 에셋을 캠페인에 연결하는 것도 불가능하다. 엄격한 읽기 전용(read-only)으로 운영하려면 tools_config.yaml에서 labels: false와 assets: false로 설정하라고 README는 안내한다."
               }
             ]
           }
@@ -647,361 +597,311 @@
       }
     },
     {
-      "id": "pizzala-tiktok-ai-drstone-ad",
+      "id": "meta-ai-ads-unapproved-discounts",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "TikTok AI 무단광고\nPIZZA-LA×STONE",
-      "body": "PIZZA-LA는 TikTok AI 무단 영상에 광고를 멈추고 권리자에게 사과했다.",
-      "mini_headline": "TikTok AI 광고, PIZZA-LA에 역풍",
+      "headline": "Meta의 AI 광고가\n브랜드가 꺼둔 할인 노출",
+      "body": "Meta의 AI 광고 도구가 광고주가 꺼둔 할인까지 광고에 내건 것으로 드러났다.",
+      "mini_headline": "Meta AI 광고, 승인 안 한 할인 노출",
       "tool": "Marketing",
-      "source": "Dexerto",
-      "url": "https://www.dexerto.com/food/japanese-pizza-chain-apologizes-after-tiktok-ai-tool-creates-unauthorized-dr-stone-ad-3425843/",
+      "source": "Social Media Today",
+      "url": "https://www.socialmediatoday.com/news/metas-ai-ads-included-unapproved-discounts/874067/",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/08/dr-stone-la-pizza.jpg",
-            "cap": "dr stone la pizza"
+            "t": "p",
+            "x": "인공지능 기반 광고 도구가 프로모션을 꺼둔 상태에서도 고객에게 할인 혜택을 내보냈다는 보도가 나왔다."
           },
           {
             "t": "p",
-            "x": "AI-powered TikTok 광고 기능이 Dr. STONE 캐릭터가 나오는 무단 영상을 만들어 올리자 PIZZA-LA가 사과했다."
+            "x": "인공지능 도구가 할 수 있는 일이 늘수록 특정 작업에서는 그 역량을 묶어둘 새 기준이 필요하다. 자동화 오류는 디지털 광고 구매로도 번질 수 있다. PPC Land는 지난주 Meta의 AI-powered 광고 도구가 매장 웹사이트에서 할인 정보를 가져와 해당 업체의 Facebook·Instagram 광고에 띄웠다고 보도했다. “매장이 복사 대상 광고에서 프로모션을 꺼둔 경우에도” 마찬가지였다."
           },
           {
             "t": "p",
-            "x": "이 일본 피자 체인은 실제로 이 애니메이션과 공식 협업을 했다. 기간은 October 1부터 November 1까지였고, 새로 그린 일러스트를 넣은 한정 피자와 굿즈도 나왔다. 하지만 PIZZA-LA 공식 TikTok 계정에 올라간 영상은 Dr. STONE 제작위원회의 검토도 승인도 거치지 않았다."
+            "x": "이 문제를 발견한 사람은 디지털 마케팅 자문가 Bram Van der Hallen이다. 그는 “이제 Meta가 웹사이트의 할인 정보를 자동으로 감지해 Meta 광고에 쓸 수 있다. 원래 광고에서 이 옵션을 꺼두었더라도 마찬가지다”라고 말했다. Commerce Manager 설정을 바꿔 Meta가 감지한 할인 정보를 다른 캠페인에 쓰지 못하게 하면 막을 수 있다는 게 그의 설명이다."
           },
           {
             "t": "p",
-            "x": "시청자들이 공식 캠페인 비주얼과 캐릭터 포즈, 표정, 일러스트가 다른 광고를 찾아내면서 일이 처음 드러났다."
+            "x": "PPC Land는 “한 캠페인이나 한 오디언스를 위한 할인이 다른 곳에 나타날 수 있으므로, 둘 이상의 할인을 동시에 운영하며 Meta에 광고하는 모든 업체에 중요한 문제”라고 짚었다."
           },
           {
             "t": "p",
-            "x": "PIZZA-LA 운영사 Four Seeds에 따르면 직원이 TikTok 캠페인을 설정할 때 AI-powered 자동 광고 생성·송출 기능이 켜져 있었고, 그 상태로 영상이 게시됐다. 회사는 이 기능이 돌아가는 줄 제대로 몰랐고 끄지 않은 채 광고 설정을 끝냈다고 설명했다."
-          },
-          {
-            "t": "p",
-            "x": "PIZZA-LA는 문제의 광고를 지우고, 경위를 살피는 동안 TikTok 광고를 전부 멈췄다. Dr. STONE 제작위원회에도 직접 사과했으며, 같은 사고가 되풀이되지 않게 광고 설정과 콘텐츠 관리 절차를 다시 점검하겠다고 했다."
+            "x": "Meta는 광고 랭킹 시스템을 개선한 덕에 Q2 2026 Facebook의 광고 클릭이 8% 넘게, 전환이 15.7% 늘었다고 밝혔다. 다만 AI가 움직이는 시스템이 늘면 오류도 따라오기 마련이다. 광고주도 이런 잠재적 문제를 알아둘 필요가 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "TikTok AI made an unapproved\nDr. STONE ad for PIZZA-LA",
-          "body": "PIZZA-LA paused all TikTok ads and apologized to rights holders after TikTok's AI tool generated an unapproved video.",
-          "mini_headline": "TikTok AI ad\nmisfires for PIZZA-LA",
+          "headline": "Meta's AI ads showed\ndiscounts brands turned off",
+          "body": "Reports found Meta's AI ad tools showed discount offers even when advertisers had promotions turned off.",
+          "mini_headline": "Meta AI ads add unapproved deals",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/08/dr-stone-la-pizza.jpg",
-                "cap": "dr stone la pizza"
+                "t": "p",
+                "x": "Recent reports found that the artificial intelligence-powered ad tools posted discount offers to customers even with promotions turned off."
               },
               {
                 "t": "p",
-                "x": "PIZZA-LA has apologized after an AI-powered TikTok advertising feature generated and published an unauthorized video featuring characters from Dr. STONE."
+                "x": "As artificial intelligence tools become more empowered, new parameters need to be established to limit their capacity when it comes to undertaking certain tasks. Automated errors can also extend to buying digital ads. PPC Land reported last week that Meta’s AI-powered ad tools took discounts from a store’s website and displayed them on the business’s Facebook and Instagram ads, “even when the shop had turned promotions off on the ad it copied.”"
               },
               {
                 "t": "p",
-                "x": "The Japanese pizza chain did have an official collaboration with the anime, which ran from October 1 through November 1 and included limited pizzas and merchandise featuring newly drawn artwork. However, the video served through PIZZA-LA's official TikTok account had not been reviewed or approved by the Dr. STONE production committee."
+                "x": "The discovery was made by digital marketing advisor Bram Van der Hallen: “Meta may now automatically detect offers from your website and use them in your Meta ads. Even when you have turned off this option for your original ad.” He said the issue can be controlled by updating Commerce Manager settings to stop Meta from using detected offers in other campaigns."
               },
               {
                 "t": "p",
-                "x": "The incident was first noticed after viewers spotted advertisements using character poses, facial expressions and artwork that differed from the official campaign visuals."
+                "x": "PPC Land noted: “This matters for any business advertising on Meta with more than one offer live, because a discount meant for one campaign or one audience could show up somewhere else.”"
               },
               {
                 "t": "p",
-                "x": "PIZZA-LA's operator, Four Seeds, said the video was published because an AI-powered automatic ad generation and delivery feature had been left enabled when staff set up the TikTok campaign. The company said it did not fully recognize that the feature was active and completed the advertising setup without disabling it."
-              },
-              {
-                "t": "p",
-                "x": "PIZZA-LA said the advertisement has been removed and that it has paused all advertising on TikTok while it reviews what happened. The company also apologized directly to the Dr. STONE production committee and said it would reassess its advertising settings and content-management procedures to prevent a similar incident."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "TikTok AI crea para PIZZA-LA\nun anuncio de Dr. STONE sin aval",
-          "body": "PIZZA-LA pausó sus anuncios en TikTok y se disculpó con los dueños de derechos tras un video no aprobado de TikTok AI.",
-          "mini_headline": "Anuncio de TikTok AI\nfalla para PIZZA-LA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/08/dr-stone-la-pizza.jpg",
-                "cap": "Imagen de dr stone la pizza"
-              },
-              {
-                "t": "p",
-                "x": "PIZZA-LA pidió disculpas después de que una función publicitaria de TikTok impulsada por AI (AI-powered) generara y publicara un video no autorizado con personajes de Dr. STONE."
-              },
-              {
-                "t": "p",
-                "x": "La cadena japonesa de pizzas sí tenía una colaboración oficial con el anime, vigente del 1 de octubre al 1 de noviembre, que incluyó pizzas limitadas y productos con ilustraciones nuevas. Sin embargo, el video difundido a través de la cuenta oficial de TikTok de PIZZA-LA no había sido revisado ni aprobado por el comité de producción de Dr. STONE."
-              },
-              {
-                "t": "p",
-                "x": "El incidente se detectó cuando los espectadores vieron anuncios con poses, expresiones faciales e ilustraciones de los personajes distintas de las imágenes oficiales de la campaña."
-              },
-              {
-                "t": "p",
-                "x": "Four Seeds, la empresa que opera PIZZA-LA, dijo que el video se publicó porque una función de generación y distribución automática de anuncios impulsada por AI quedó activada cuando el personal configuró la campaña de TikTok. La empresa afirmó que no fue plenamente consciente de que la función estaba activa y completó la configuración sin desactivarla."
-              },
-              {
-                "t": "p",
-                "x": "PIZZA-LA indicó que retiró el anuncio y que suspendió toda su publicidad en TikTok mientras revisa lo ocurrido. La empresa también se disculpó directamente con el comité de producción de Dr. STONE y dijo que revisará sus ajustes publicitarios y sus procedimientos de gestión de contenidos para evitar un incidente similar."
+                "x": "Meta said improvements to its ads ranking system drove a more than 8% increase in ad clicks and a 15.7% uplift in conversions on Facebook in Q2 2026. However, as more systems are guided by AI, there will be errors, and advertisers need to be aware of these potential issues."
               }
             ]
           }
         },
         "ko": {
-          "headline": "TikTok AI 무단광고\nPIZZA-LA×STONE",
-          "body": "PIZZA-LA는 TikTok AI 무단 영상에 광고를 멈추고 권리자에게 사과했다.",
-          "mini_headline": "TikTok AI 광고, PIZZA-LA에 역풍",
+          "headline": "Meta의 AI 광고가\n브랜드가 꺼둔 할인 노출",
+          "body": "Meta의 AI 광고 도구가 광고주가 꺼둔 할인까지 광고에 내건 것으로 드러났다.",
+          "mini_headline": "Meta AI 광고, 승인 안 한 할인 노출",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/08/dr-stone-la-pizza.jpg",
-                "cap": "dr stone la pizza"
+                "t": "p",
+                "x": "인공지능 기반 광고 도구가 프로모션을 꺼둔 상태에서도 고객에게 할인 혜택을 내보냈다는 보도가 나왔다."
               },
               {
                 "t": "p",
-                "x": "AI-powered TikTok 광고 기능이 Dr. STONE 캐릭터가 나오는 무단 영상을 만들어 올리자 PIZZA-LA가 사과했다."
+                "x": "인공지능 도구가 할 수 있는 일이 늘수록 특정 작업에서는 그 역량을 묶어둘 새 기준이 필요하다. 자동화 오류는 디지털 광고 구매로도 번질 수 있다. PPC Land는 지난주 Meta의 AI-powered 광고 도구가 매장 웹사이트에서 할인 정보를 가져와 해당 업체의 Facebook·Instagram 광고에 띄웠다고 보도했다. “매장이 복사 대상 광고에서 프로모션을 꺼둔 경우에도” 마찬가지였다."
               },
               {
                 "t": "p",
-                "x": "이 일본 피자 체인은 실제로 이 애니메이션과 공식 협업을 했다. 기간은 October 1부터 November 1까지였고, 새로 그린 일러스트를 넣은 한정 피자와 굿즈도 나왔다. 하지만 PIZZA-LA 공식 TikTok 계정에 올라간 영상은 Dr. STONE 제작위원회의 검토도 승인도 거치지 않았다."
+                "x": "이 문제를 발견한 사람은 디지털 마케팅 자문가 Bram Van der Hallen이다. 그는 “이제 Meta가 웹사이트의 할인 정보를 자동으로 감지해 Meta 광고에 쓸 수 있다. 원래 광고에서 이 옵션을 꺼두었더라도 마찬가지다”라고 말했다. Commerce Manager 설정을 바꿔 Meta가 감지한 할인 정보를 다른 캠페인에 쓰지 못하게 하면 막을 수 있다는 게 그의 설명이다."
               },
               {
                 "t": "p",
-                "x": "시청자들이 공식 캠페인 비주얼과 캐릭터 포즈, 표정, 일러스트가 다른 광고를 찾아내면서 일이 처음 드러났다."
+                "x": "PPC Land는 “한 캠페인이나 한 오디언스를 위한 할인이 다른 곳에 나타날 수 있으므로, 둘 이상의 할인을 동시에 운영하며 Meta에 광고하는 모든 업체에 중요한 문제”라고 짚었다."
               },
               {
                 "t": "p",
-                "x": "PIZZA-LA 운영사 Four Seeds에 따르면 직원이 TikTok 캠페인을 설정할 때 AI-powered 자동 광고 생성·송출 기능이 켜져 있었고, 그 상태로 영상이 게시됐다. 회사는 이 기능이 돌아가는 줄 제대로 몰랐고 끄지 않은 채 광고 설정을 끝냈다고 설명했다."
-              },
-              {
-                "t": "p",
-                "x": "PIZZA-LA는 문제의 광고를 지우고, 경위를 살피는 동안 TikTok 광고를 전부 멈췄다. Dr. STONE 제작위원회에도 직접 사과했으며, 같은 사고가 되풀이되지 않게 광고 설정과 콘텐츠 관리 절차를 다시 점검하겠다고 했다."
+                "x": "Meta는 광고 랭킹 시스템을 개선한 덕에 Q2 2026 Facebook의 광고 클릭이 8% 넘게, 전환이 15.7% 늘었다고 밝혔다. 다만 AI가 움직이는 시스템이 늘면 오류도 따라오기 마련이다. 광고주도 이런 잠재적 문제를 알아둘 필요가 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "TikTok AIの無断広告\nPIZZA-LA版STONE",
-          "body": "PIZZA-LAはTikTokのAIによる無断動画で広告を止め、権利者に謝罪した。",
-          "mini_headline": "TikTok AI広告、PIZZA-LAで裏目に",
+          "headline": "MetaのAI広告\nブランドが切った割引を表示",
+          "body": "MetaのAI広告ツールが、広告主がオフにした割引オファーまで表示していたと報じられた。",
+          "mini_headline": "MetaのAI広告、未承認の割引を追加",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/08/dr-stone-la-pizza.jpg",
-                "cap": "dr stone la pizza"
+                "t": "p",
+                "x": "最近の報道によると、人工知能を活用した広告ツールが、プロモーションをオフにしていても顧客に割引オファーを掲載していた。"
               },
               {
                 "t": "p",
-                "x": "PIZZA-LAは、AI-poweredのTikTok広告機能がDr. STONEのキャラクターを使った無許可の動画を生成・公開したとして謝罪した。"
+                "x": "人工知能ツールの権限が大きくなるにつれ、特定の作業を担う際の能力を制限する新たな基準が必要になる。自動化によるミスはデジタル広告の購入にも及びうる。PPC Landは先週、MetaのAI-powered広告ツールが店舗のウェブサイトから割引を取り込み、その事業者のFacebookやInstagramの広告に表示したと報じた。「コピー元の広告で店舗がプロモーションをオフにしていた場合でも」そうだったという。"
               },
               {
                 "t": "p",
-                "x": "この日本のピザチェーンは同アニメと実際に公式コラボを行っていた。期間はOctober 1からNovember 1までで、描き下ろしイラストを使った限定ピザやグッズが展開された。しかし、PIZZA-LAの公式TikTokアカウントから配信された動画は、Dr. STONE製作委員会の確認や承認を受けていなかった。"
+                "x": "発見したのはデジタルマーケティングアドバイザーのBram Van der Hallenだ。「Metaは今、ウェブサイト上のオファーを自動で検出し、Meta広告に使う可能性がある。元の広告でこのオプションをオフにしていてもだ」と彼は述べた。Commerce Managerの設定を更新し、検出したオファーをMetaが他のキャンペーンで使わないようにすれば、この問題は抑えられるという。"
               },
               {
                 "t": "p",
-                "x": "問題は、公式キャンペーンのビジュアルと異なるキャラクターのポーズや表情、イラストを使った広告に視聴者が気づいたことで発覚した。"
+                "x": "PPC Landは「あるキャンペーンやあるオーディエンス向けの割引が別の場所に表示されうるため、複数のオファーを同時に展開してMetaに広告を出すすべての事業者にとって重要だ」と指摘した。"
               },
               {
                 "t": "p",
-                "x": "PIZZA-LAを運営するFour Seedsによると、担当者がTikTokキャンペーンを設定した際、AI-poweredの広告自動生成・配信機能が有効のままになっていたため動画が公開された。同社は機能が作動していることを十分に認識しておらず、無効化しないまま広告設定を終えたと説明した。"
-              },
-              {
-                "t": "p",
-                "x": "PIZZA-LAは当該広告を削除し、経緯を調査する間、TikTokでの広告をすべて停止したと発表した。同社はDr. STONE製作委員会にも直接謝罪し、再発防止に向けて広告設定とコンテンツ管理の手順を見直すとしている。"
+                "x": "Metaは、広告ランキングシステムの改善により、Q2 2026にFacebookで広告クリックが8%超増え、コンバージョンが15.7%向上したと述べている。だが、AIに導かれるシステムが増えれば誤りも生じる。広告主はこうした潜在的な問題を認識しておく必要がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "TikTok AI擅自做广告\nPIZZA-LA版STONE",
-          "body": "TikTok的AI擅自生成视频后，PIZZA-LA暂停全部TikTok广告并向权利方致歉。",
-          "mini_headline": "TikTok AI广告让PIZZA-LA翻车",
+          "headline": "Meta的AI广告\n展示品牌已关闭的折扣",
+          "body": "报道发现，即使广告主关闭了促销，Meta的AI广告工具仍会展示折扣优惠。",
+          "mini_headline": "Meta AI广告擅自添加优惠",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/08/dr-stone-la-pizza.jpg",
-                "cap": "dr stone la pizza"
+                "t": "p",
+                "x": "近期报道发现，即使关闭了促销功能，人工智能驱动的广告工具仍向顾客发布了折扣优惠。"
               },
               {
                 "t": "p",
-                "x": "一项AI-powered的TikTok广告功能生成并发布了一段使用Dr. STONE角色的未授权视频，PIZZA-LA随后致歉。"
+                "x": "随着人工智能工具获得更多权限，需要建立新的规则，限制它们在执行某些任务时的能力。自动化错误也可能波及数字广告投放。PPC Land上周报道，Meta的AI-powered广告工具从一家店铺的网站抓取折扣信息，并展示在该商家的Facebook和Instagram广告中，“即使店铺已在被复制的广告上关闭了促销”。"
               },
               {
                 "t": "p",
-                "x": "这家日本披萨连锁确实与该动画有过官方合作，合作从October 1持续到November 1，推出了采用全新绘制插画的限定披萨和周边商品。但通过PIZZA-LA官方TikTok账号投放的这段视频，并未经过Dr. STONE制作委员会的审核或批准。"
+                "x": "这一问题由数字营销顾问Bram Van der Hallen发现：“Meta现在可能会自动识别你网站上的优惠，并用在你的Meta广告中。即使你在原始广告中关闭了这一选项也是如此。”他表示，可以通过更新Commerce Manager设置，阻止Meta在其他广告系列中使用识别到的优惠，从而控制这一问题。"
               },
               {
                 "t": "p",
-                "x": "观众发现广告中的角色姿势、表情和插画与官方宣传视觉不同，事件由此首次曝光。"
+                "x": "PPC Land指出：“这对所有同时上线多项优惠、在Meta投放广告的商家都很重要，因为面向某个广告系列或某类受众的折扣可能出现在别处。”"
               },
               {
                 "t": "p",
-                "x": "PIZZA-LA的运营方Four Seeds表示，员工设置TikTok广告活动时，一项AI-powered的自动广告生成与投放功能仍处于开启状态，导致视频被发布。公司称并未充分意识到该功能正在运行，在没有关闭它的情况下完成了广告设置。"
+                "x": "Meta称，广告排序系统的改进使Facebook在Q2 2026的广告点击量增长超过8%，转化率提升15.7%。然而，随着越来越多的系统由AI主导，错误难以避免，广告主需要留意这些潜在问题。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Anuncios AI de Meta mostraron\ndescuentos que la marca apagó",
+          "body": "Informes revelan que las herramientas AI de Meta mostraban descuentos aunque el anunciante los había desactivado.",
+          "mini_headline": "Anuncios AI de Meta añaden ofertas no aprobadas",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Informes recientes revelaron que las herramientas publicitarias impulsadas por inteligencia artificial publicaron ofertas de descuento a los clientes incluso con las promociones desactivadas."
               },
               {
                 "t": "p",
-                "x": "PIZZA-LA表示已删除该广告，并在调查事件经过期间暂停了在TikTok上的全部广告。公司还直接向Dr. STONE制作委员会道歉，并表示将重新检查广告设置和内容管理流程，以防类似事件再次发生。"
+                "x": "A medida que las herramientas de inteligencia artificial ganan atribuciones, hace falta establecer nuevos parámetros que limiten su capacidad al realizar ciertas tareas. Los errores automatizados también pueden alcanzar la compra de anuncios digitales. PPC Land informó la semana pasada que las herramientas publicitarias AI-powered de Meta tomaron descuentos del sitio web de una tienda y los mostraron en los anuncios de Facebook e Instagram del negocio, «incluso cuando la tienda había desactivado las promociones en el anuncio que copió»."
+              },
+              {
+                "t": "p",
+                "x": "El hallazgo fue del asesor de marketing digital Bram Van der Hallen: «Meta ahora puede detectar automáticamente ofertas de tu sitio web y usarlas en tus anuncios de Meta. Incluso cuando has desactivado esta opción en tu anuncio original». Según él, el problema puede controlarse actualizando la configuración de Commerce Manager para impedir que Meta use las ofertas detectadas en otras campañas."
+              },
+              {
+                "t": "p",
+                "x": "PPC Land señaló: «Esto importa a cualquier negocio que anuncie en Meta con más de una oferta activa, porque un descuento pensado para una campaña o una audiencia podría aparecer en otro lugar»."
+              },
+              {
+                "t": "p",
+                "x": "Meta afirmó que las mejoras en su sistema de clasificación de anuncios impulsaron un aumento de más del 8% en los clics y una subida del 15.7% en las conversiones en Facebook en el Q2 2026. Sin embargo, a medida que más sistemas se guían por AI, habrá errores, y los anunciantes deben conocer estos posibles problemas."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "TikTok AI crea para PIZZA-LA\nun anuncio de Dr. STONE sin aval",
-          "body": "PIZZA-LA pausó sus anuncios en TikTok y se disculpó con los dueños de derechos tras un video no aprobado de TikTok AI.",
-          "mini_headline": "Anuncio de TikTok AI\nfalla para PIZZA-LA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/08/dr-stone-la-pizza.jpg",
-                "cap": "Imagen de dr stone la pizza"
-              },
-              {
-                "t": "p",
-                "x": "PIZZA-LA pidió disculpas después de que una función publicitaria de TikTok impulsada por AI (AI-powered) generara y publicara un video no autorizado con personajes de Dr. STONE."
-              },
-              {
-                "t": "p",
-                "x": "La cadena japonesa de pizzas sí tenía una colaboración oficial con el anime, vigente del 1 de octubre al 1 de noviembre, que incluyó pizzas limitadas y productos con ilustraciones nuevas. Sin embargo, el video difundido a través de la cuenta oficial de TikTok de PIZZA-LA no había sido revisado ni aprobado por el comité de producción de Dr. STONE."
-              },
-              {
-                "t": "p",
-                "x": "El incidente se detectó cuando los espectadores vieron anuncios con poses, expresiones faciales e ilustraciones de los personajes distintas de las imágenes oficiales de la campaña."
-              },
-              {
-                "t": "p",
-                "x": "Four Seeds, la empresa que opera PIZZA-LA, dijo que el video se publicó porque una función de generación y distribución automática de anuncios impulsada por AI quedó activada cuando el personal configuró la campaña de TikTok. La empresa afirmó que no fue plenamente consciente de que la función estaba activa y completó la configuración sin desactivarla."
-              },
-              {
-                "t": "p",
-                "x": "PIZZA-LA indicó que retiró el anuncio y que suspendió toda su publicidad en TikTok mientras revisa lo ocurrido. La empresa también se disculpó directamente con el comité de producción de Dr. STONE y dijo que revisará sus ajustes publicitarios y sus procedimientos de gestión de contenidos para evitar un incidente similar."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "TikTok AI 무단광고\nPIZZA-LA×STONE",
-          "body": "PIZZA-LA는 TikTok AI 무단 영상에 광고를 멈추고 권리자에게 사과했다.",
-          "mini_headline": "TikTok AI 광고, PIZZA-LA에 역풍",
+          "headline": "Meta의 AI 광고가\n브랜드가 꺼둔 할인 노출",
+          "body": "Meta의 AI 광고 도구가 광고주가 꺼둔 할인 혜택까지 노출한 사실이 드러났다.",
+          "mini_headline": "Meta AI 광고, 승인 안 한 할인 노출",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/08/dr-stone-la-pizza.jpg",
-                "cap": "dr stone la pizza"
+                "t": "p",
+                "x": "최근 보도에 따르면 인공지능 기반 광고 도구가 프로모션을 꺼둔 상태에서도 고객에게 할인 혜택을 게시했다."
               },
               {
                 "t": "p",
-                "x": "PIZZA-LA는 AI-powered TikTok 광고 기능이 Dr. STONE 캐릭터가 등장하는 무단 영상을 만들어 게시한 뒤 사과했다."
+                "x": "인공지능 도구의 권한이 커질수록 특정 작업에서 그 역량을 제한할 새로운 기준이 필요하다. 자동화 오류는 디지털 광고 구매로도 번질 수 있다. PPC Land는 지난주 Meta의 AI-powered 광고 도구가 매장 웹사이트에서 할인 정보를 가져와 해당 업체의 Facebook·Instagram 광고에 표시했다고 보도했다. “매장이 복사 대상 광고에서 프로모션을 꺼둔 경우에도” 그랬다는 것이다."
               },
               {
                 "t": "p",
-                "x": "이 일본 피자 체인은 실제로 이 애니메이션과 공식 협업을 진행했다. 협업은 October 1부터 November 1까지 이어졌고, 새로 그린 일러스트를 담은 한정 피자와 굿즈가 포함됐다. 그러나 PIZZA-LA 공식 TikTok 계정으로 나간 영상은 Dr. STONE 제작위원회의 검토나 승인을 거치지 않았다."
+                "x": "이 문제를 발견한 사람은 디지털 마케팅 자문가 Bram Van der Hallen이다. 그는 “이제 Meta가 웹사이트의 할인 정보를 자동으로 감지해 Meta 광고에 쓸 수 있다. 원래 광고에서 이 옵션을 꺼두었더라도 마찬가지다”라고 말했다. 그는 Commerce Manager 설정을 바꿔 Meta가 감지한 할인 정보를 다른 캠페인에 쓰지 못하게 하면 이 문제를 막을 수 있다고 설명했다."
               },
               {
                 "t": "p",
-                "x": "사건은 시청자들이 공식 캠페인 비주얼과 다른 캐릭터 포즈, 표정, 일러스트를 쓴 광고를 발견하면서 처음 알려졌다."
+                "x": "PPC Land는 “한 캠페인이나 한 오디언스를 위한 할인이 다른 곳에 나타날 수 있으므로, 둘 이상의 할인을 동시에 운영하며 Meta에 광고하는 모든 업체에 중요한 문제”라고 짚었다."
               },
               {
                 "t": "p",
-                "x": "PIZZA-LA 운영사 Four Seeds는 직원이 TikTok 캠페인을 설정할 때 AI-powered 자동 광고 생성·송출 기능이 켜진 채로 남아 있어 영상이 게시됐다고 밝혔다. 회사는 이 기능이 작동 중이라는 사실을 충분히 인지하지 못했고, 기능을 끄지 않은 채 광고 설정을 마쳤다고 설명했다."
-              },
-              {
-                "t": "p",
-                "x": "PIZZA-LA는 해당 광고를 삭제했으며 경위를 검토하는 동안 TikTok 광고를 모두 중단했다고 밝혔다. 회사는 Dr. STONE 제작위원회에도 직접 사과했고, 같은 사고를 막기 위해 광고 설정과 콘텐츠 관리 절차를 재점검하겠다고 했다."
+                "x": "Meta는 광고 랭킹 시스템을 개선한 결과 Q2 2026에 Facebook의 광고 클릭이 8% 넘게 늘고 전환이 15.7% 증가했다고 밝혔다. 그러나 AI가 이끄는 시스템이 늘어날수록 오류도 생기기 마련이며, 광고주는 이런 잠재적 문제를 알고 있어야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "TikTok AIの無断広告\nPIZZA-LA版STONE",
-          "body": "PIZZA-LAはTikTokのAIによる無断動画で広告を止め、権利者に謝罪した。",
-          "mini_headline": "TikTok AI広告、PIZZA-LAで裏目に",
+          "headline": "MetaのAI広告\nブランドが切った割引を表示",
+          "body": "MetaのAI広告ツールが、広告主がオフにした割引オファーまで表示していたと報じられた。",
+          "mini_headline": "MetaのAI広告、未承認の割引を追加",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/08/dr-stone-la-pizza.jpg",
-                "cap": "dr stone la pizza"
+                "t": "p",
+                "x": "最近の報道によると、人工知能を活用した広告ツールが、プロモーションをオフにしていても顧客に割引オファーを掲載していた。"
               },
               {
                 "t": "p",
-                "x": "PIZZA-LAは、AI-poweredのTikTok広告機能がDr. STONEのキャラクターを使った無許可の動画を生成・公開したとして謝罪した。"
+                "x": "人工知能ツールの権限が大きくなるにつれ、特定の作業を担う際の能力を制限する新たな基準が必要になる。自動化によるミスはデジタル広告の購入にも及びうる。PPC Landは先週、MetaのAI-powered広告ツールが店舗のウェブサイトから割引を取り込み、その事業者のFacebookやInstagramの広告に表示したと報じた。「コピー元の広告で店舗がプロモーションをオフにしていた場合でも」そうだったという。"
               },
               {
                 "t": "p",
-                "x": "この日本のピザチェーンは同アニメと実際に公式コラボを行っていた。期間はOctober 1からNovember 1までで、描き下ろしイラストを使った限定ピザやグッズが展開された。しかし、PIZZA-LAの公式TikTokアカウントから配信された動画は、Dr. STONE製作委員会の確認や承認を受けていなかった。"
+                "x": "発見したのはデジタルマーケティングアドバイザーのBram Van der Hallenだ。「Metaは今、ウェブサイト上のオファーを自動で検出し、Meta広告に使う可能性がある。元の広告でこのオプションをオフにしていてもだ」と彼は述べた。Commerce Managerの設定を更新し、検出したオファーをMetaが他のキャンペーンで使わないようにすれば、この問題は抑えられるという。"
               },
               {
                 "t": "p",
-                "x": "問題は、公式キャンペーンのビジュアルと異なるキャラクターのポーズや表情、イラストを使った広告に視聴者が気づいたことで発覚した。"
+                "x": "PPC Landは「あるキャンペーンやあるオーディエンス向けの割引が別の場所に表示されうるため、複数のオファーを同時に展開してMetaに広告を出すすべての事業者にとって重要だ」と指摘した。"
               },
               {
                 "t": "p",
-                "x": "PIZZA-LAを運営するFour Seedsによると、担当者がTikTokキャンペーンを設定した際、AI-poweredの広告自動生成・配信機能が有効のままになっていたため動画が公開された。同社は機能が作動していることを十分に認識しておらず、無効化しないまま広告設定を終えたと説明した。"
-              },
-              {
-                "t": "p",
-                "x": "PIZZA-LAは当該広告を削除し、経緯を調査する間、TikTokでの広告をすべて停止したと発表した。同社はDr. STONE製作委員会にも直接謝罪し、再発防止に向けて広告設定とコンテンツ管理の手順を見直すとしている。"
+                "x": "Metaは、広告ランキングシステムの改善により、Q2 2026にFacebookで広告クリックが8%超増え、コンバージョンが15.7%向上したと述べている。だが、AIに導かれるシステムが増えれば誤りも生じる。広告主はこうした潜在的な問題を認識しておく必要がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "TikTok AI擅自做广告\nPIZZA-LA版STONE",
-          "body": "TikTok的AI擅自生成视频后，PIZZA-LA暂停全部TikTok广告并向权利方致歉。",
-          "mini_headline": "TikTok AI广告让PIZZA-LA翻车",
+          "headline": "Meta的AI广告\n展示品牌已关闭的折扣",
+          "body": "报道发现，即使广告主关闭了促销，Meta的AI广告工具仍会展示折扣优惠。",
+          "mini_headline": "Meta AI广告擅自添加优惠",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/08/dr-stone-la-pizza.jpg",
-                "cap": "dr stone la pizza"
+                "t": "p",
+                "x": "近期报道发现，即使关闭了促销功能，人工智能驱动的广告工具仍向顾客发布了折扣优惠。"
               },
               {
                 "t": "p",
-                "x": "一项AI-powered的TikTok广告功能生成并发布了一段使用Dr. STONE角色的未授权视频，PIZZA-LA随后致歉。"
+                "x": "随着人工智能工具获得更多权限，需要建立新的规则，限制它们在执行某些任务时的能力。自动化错误也可能波及数字广告投放。PPC Land上周报道，Meta的AI-powered广告工具从一家店铺的网站抓取折扣信息，并展示在该商家的Facebook和Instagram广告中，“即使店铺已在被复制的广告上关闭了促销”。"
               },
               {
                 "t": "p",
-                "x": "这家日本披萨连锁确实与该动画有过官方合作，合作从October 1持续到November 1，推出了采用全新绘制插画的限定披萨和周边商品。但通过PIZZA-LA官方TikTok账号投放的这段视频，并未经过Dr. STONE制作委员会的审核或批准。"
+                "x": "这一问题由数字营销顾问Bram Van der Hallen发现：“Meta现在可能会自动识别你网站上的优惠，并用在你的Meta广告中。即使你在原始广告中关闭了这一选项也是如此。”他表示，可以通过更新Commerce Manager设置，阻止Meta在其他广告系列中使用识别到的优惠，从而控制这一问题。"
               },
               {
                 "t": "p",
-                "x": "观众发现广告中的角色姿势、表情和插画与官方宣传视觉不同，事件由此首次曝光。"
+                "x": "PPC Land指出：“这对所有同时上线多项优惠、在Meta投放广告的商家都很重要，因为面向某个广告系列或某类受众的折扣可能出现在别处。”"
               },
               {
                 "t": "p",
-                "x": "PIZZA-LA的运营方Four Seeds表示，员工设置TikTok广告活动时，一项AI-powered的自动广告生成与投放功能仍处于开启状态，导致视频被发布。公司称并未充分意识到该功能正在运行，在没有关闭它的情况下完成了广告设置。"
+                "x": "Meta称，广告排序系统的改进使Facebook在Q2 2026的广告点击量增长超过8%，转化率提升15.7%。然而，随着越来越多的系统由AI主导，错误难以避免，广告主需要留意这些潜在问题。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Anuncios AI de Meta mostraron\ndescuentos que la marca apagó",
+          "body": "Informes revelan que las herramientas AI de Meta mostraban descuentos aunque el anunciante los había desactivado.",
+          "mini_headline": "Anuncios AI de Meta añaden ofertas no aprobadas",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Informes recientes revelaron que las herramientas publicitarias impulsadas por inteligencia artificial publicaron ofertas de descuento a los clientes incluso con las promociones desactivadas."
               },
               {
                 "t": "p",
-                "x": "PIZZA-LA表示已删除该广告，并在调查事件经过期间暂停了在TikTok上的全部广告。公司还直接向Dr. STONE制作委员会道歉，并表示将重新检查广告设置和内容管理流程，以防类似事件再次发生。"
+                "x": "A medida que las herramientas de inteligencia artificial ganan atribuciones, hace falta establecer nuevos parámetros que limiten su capacidad al realizar ciertas tareas. Los errores automatizados también pueden alcanzar la compra de anuncios digitales. PPC Land informó la semana pasada que las herramientas publicitarias AI-powered de Meta tomaron descuentos del sitio web de una tienda y los mostraron en los anuncios de Facebook e Instagram del negocio, «incluso cuando la tienda había desactivado las promociones en el anuncio que copió»."
+              },
+              {
+                "t": "p",
+                "x": "El hallazgo fue del asesor de marketing digital Bram Van der Hallen: «Meta ahora puede detectar automáticamente ofertas de tu sitio web y usarlas en tus anuncios de Meta. Incluso cuando has desactivado esta opción en tu anuncio original». Según él, el problema puede controlarse actualizando la configuración de Commerce Manager para impedir que Meta use las ofertas detectadas en otras campañas."
+              },
+              {
+                "t": "p",
+                "x": "PPC Land señaló: «Esto importa a cualquier negocio que anuncie en Meta con más de una oferta activa, porque un descuento pensado para una campaña o una audiencia podría aparecer en otro lugar»."
+              },
+              {
+                "t": "p",
+                "x": "Meta afirmó que las mejoras en su sistema de clasificación de anuncios impulsaron un aumento de más del 8% en los clics y una subida del 15.7% en las conversiones en Facebook en el Q2 2026. Sin embargo, a medida que más sistemas se guían por AI, habrá errores, y los anunciantes deben conocer estos posibles problemas."
               }
             ]
           }
@@ -1009,15 +909,15 @@
       }
     },
     {
-      "id": "naver-powerlink-ai-copy-pilot",
+      "id": "kbeauty-ai-fake-doctor-ban",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "네이버 파워링크\nAI가 광고 문구 쓴다",
-      "body": "네이버가 12일부터 파워링크 광고 문구를 AI로 만드는 기능을 시범 적용한다.",
-      "mini_headline": "네이버, AI\n광고 문구 시범",
+      "headline": "AI 가짜 의사 광고 금지\nK뷰티 검수 재정비",
+      "body": "개정 화장품법이 27일 시행돼 AI 가짜 의사·전문가 광고가 금지된다.",
+      "mini_headline": "AI 가짜 의사 광고 금지",
       "tool": "Marketing",
-      "source": "파이낸셜뉴스",
-      "url": "https://www.fnnews.com/news/202611081827405042",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/industry/general-industry/6348088",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -1025,155 +925,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://image.fnnews.com/resource/media/image/2026/11/08/202611081827400014_l.jpg",
-            "cap": "네이버 파워링크 '문구생성' 방식. 네이버 제공"
+            "src": "https://i3n.news1.kr/system/photos/2026/9/8/8094291/high.jpg"
           },
           {
             "t": "p",
-            "x": "네이버와 카카오가 인공지능(AI)을 앞세워 광고사업의 수익성 강화에 속도를 내고 있다. 네이버는 오는 12일부터 19일까지 검색광고 '파워링크'에 AI 기반 '문구 생성' 기능을 시범 적용한다. 광고주가 등록한 광고 소재와 연결된 웹페이지 등을 AI가 분석해 이용자의 검색 의도에 맞는 광고 문구를 자동으로 생성하는 방식이다. 네이버는 지난 8월 'AI 요약텍스트'라는 이름으로 예고했으나 일정을 연기한 뒤 명칭을 바꾸고 테스트 일정을 확정했다."
+            "x": "인공지능(AI)으로 만든 가짜 의사가 화장품의 효능을 설명하고 제품 사용을 권하는 광고가 이달 말부터 법률상 명시적인 금지 대상이 된다. 오는 27일부터 시행되는 개정 화장품법 제13조 제1항 제4호는 AI로 생성한 가상의 의사·약사·대학교수 등 전문가가 화장품을 추천하거나 보증하는 것으로 소비자가 오인할 우려가 있는 광고를 금지한다."
           },
           {
             "t": "p",
-            "x": "생성된 문구는 기존 광고를 대체하지 않고 제목이나 홍보문구, 별도 영역 등에 추가로 노출된다. 과금 방식은 동일하되 AI 생성 문구를 통한 클릭에도 광고비가 부과된다. AI가 생성한 문구를 직접 수정할 수는 없으며, 기능을 사용하지 않도록 설정할 수 있다."
+            "x": "AI 기술을 광고 제작에 활용하는 행위 자체가 금지되는 것은 아니다. 실제와 구분하기 어려운 가상의 전문가를 내세워 소비자가 전문가의 추천이나 보증으로 잘못 인식할 우려가 있는지가 판단 기준이다."
           },
           {
             "t": "p",
-            "x": "카카오는 이용자가 AI와 여행 계획을 상의하면 관련 숙박이나 예약 서비스를 추천하는 식으로, 대화에서 구매 의도를 파악하는 광고 모델을 구상하고 있다. 이를 위해 '공통 메모리 인프라'를 내년 1·4분기까지 구축하고, 광고주용 AI 에이전트 'AI 크루'의 비공개 베타 테스트를 오는 12월 시작한다."
+            "x": "한국소비자원 조사에 따르면 지난해 10월부터 올해 6월까지 유튜브 광고에서 AI를 악용한 부당광고 420건이 적발됐고, 이 가운데 화장품 광고는 72건(17.1%)이었다. 전문가를 사칭한 광고도 153건에 달했다."
+          },
+          {
+            "t": "img",
+            "src": "https://image.news1.kr/system/photos/2026/11/9/8205385/high.jpg/dims/optimize",
+            "cap": "인공지능(AI)으로 생성한 가상의 피부과 전문의가 화장품의 기미 개선 효과를 홍보하는 부당광고 사례. (관계부처 합동 자료)"
+          },
+          {
+            "t": "p",
+            "x": "주요 뷰티 기업들은 기존 광고 콘텐츠를 선제적으로 점검하고 생성형 AI 활용 마케팅의 내부 표시 가이드라인과 사전 검수 프로세스를 강화하고 있다. 공정거래위원회는 지난 6월 1일부터 가상인물이 상품을 추천·보증하는 광고에 '가상인물'임을 명확히 표시하도록 심사지침을 개정했다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "네이버 파워링크\nAI가 광고 문구 쓴다",
-          "body": "네이버가 12일부터 파워링크 광고 문구를 AI로 만드는 기능을 시범 적용한다.",
-          "mini_headline": "네이버, AI\n광고 문구 시범",
+          "headline": "AI 가짜 의사 광고 금지\nK뷰티 검수 재정비",
+          "body": "개정 화장품법이 27일 시행돼 AI 가짜 의사·전문가 광고가 금지된다.",
+          "mini_headline": "AI 가짜 의사 광고 금지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.fnnews.com/resource/media/image/2026/11/08/202611081827400014_l.jpg",
-                "cap": "네이버 파워링크 '문구생성' 방식. 네이버 제공"
+                "src": "https://i3n.news1.kr/system/photos/2026/9/8/8094291/high.jpg"
               },
               {
                 "t": "p",
-                "x": "네이버와 카카오가 인공지능(AI)을 앞세워 광고사업의 수익성 강화에 속도를 내고 있다. 네이버는 오는 12일부터 19일까지 검색광고 '파워링크'에 AI 기반 '문구 생성' 기능을 시범 적용한다. 광고주가 등록한 광고 소재와 연결된 웹페이지 등을 AI가 분석해 이용자의 검색 의도에 맞는 광고 문구를 자동으로 생성하는 방식이다. 네이버는 지난 8월 'AI 요약텍스트'라는 이름으로 예고했으나 일정을 연기한 뒤 명칭을 바꾸고 테스트 일정을 확정했다."
+                "x": "인공지능(AI)으로 만든 가짜 의사가 화장품의 효능을 설명하고 제품 사용을 권하는 광고가 이달 말부터 법률상 명시적인 금지 대상이 된다. 오는 27일부터 시행되는 개정 화장품법 제13조 제1항 제4호는 AI로 생성한 가상의 의사·약사·대학교수 등 전문가가 화장품을 추천하거나 보증하는 것으로 소비자가 오인할 우려가 있는 광고를 금지한다."
               },
               {
                 "t": "p",
-                "x": "생성된 문구는 기존 광고를 대체하지 않고 제목이나 홍보문구, 별도 영역 등에 추가로 노출된다. 과금 방식은 동일하되 AI 생성 문구를 통한 클릭에도 광고비가 부과된다. AI가 생성한 문구를 직접 수정할 수는 없으며, 기능을 사용하지 않도록 설정할 수 있다."
+                "x": "AI 기술을 광고 제작에 활용하는 행위 자체가 금지되는 것은 아니다. 실제와 구분하기 어려운 가상의 전문가를 내세워 소비자가 전문가의 추천이나 보증으로 잘못 인식할 우려가 있는지가 판단 기준이다."
               },
               {
                 "t": "p",
-                "x": "카카오는 이용자가 AI와 여행 계획을 상의하면 관련 숙박이나 예약 서비스를 추천하는 식으로, 대화에서 구매 의도를 파악하는 광고 모델을 구상하고 있다. 이를 위해 '공통 메모리 인프라'를 내년 1·4분기까지 구축하고, 광고주용 AI 에이전트 'AI 크루'의 비공개 베타 테스트를 오는 12월 시작한다."
+                "x": "한국소비자원 조사에 따르면 지난해 10월부터 올해 6월까지 유튜브 광고에서 AI를 악용한 부당광고 420건이 적발됐고, 이 가운데 화장품 광고는 72건(17.1%)이었다. 전문가를 사칭한 광고도 153건에 달했다."
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/11/9/8205385/high.jpg/dims/optimize",
+                "cap": "인공지능(AI)으로 생성한 가상의 피부과 전문의가 화장품의 기미 개선 효과를 홍보하는 부당광고 사례. (관계부처 합동 자료)"
+              },
+              {
+                "t": "p",
+                "x": "주요 뷰티 기업들은 기존 광고 콘텐츠를 선제적으로 점검하고 생성형 AI 활용 마케팅의 내부 표시 가이드라인과 사전 검수 프로세스를 강화하고 있다. 공정거래위원회는 지난 6월 1일부터 가상인물이 상품을 추천·보증하는 광고에 '가상인물'임을 명확히 표시하도록 심사지침을 개정했다."
               }
             ]
           }
         },
         "en": {
-          "headline": "Naver PowerLink to let AI\nwrite search ad copy",
-          "body": "Naver will pilot a feature that writes PowerLink ad copy with AI starting on the 12th.",
-          "mini_headline": "Naver pilots AI\nad copy",
+          "headline": "AI fake doctor ads banned\nK-beauty tightens ad reviews",
+          "body": "The revised Cosmetics Act takes effect on the 27th, banning ads that use AI fake doctors or experts.",
+          "mini_headline": "AI fake doctor ads banned",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.fnnews.com/resource/media/image/2026/11/08/202611081827400014_l.jpg",
-                "cap": "Naver PowerLink's 'copy generation' method. Courtesy of Naver"
+                "src": "https://i3n.news1.kr/system/photos/2026/9/8/8094291/high.jpg"
               },
               {
                 "t": "p",
-                "x": "Naver and Kakao are leaning on artificial intelligence (AI) to speed up efforts to make their advertising businesses more profitable. From the 12th to the 19th, Naver will pilot an AI-based 'copy generation' feature in its search ad product 'PowerLink'. AI analyzes the ad creative an advertiser has registered and the linked webpages, among other things, and automatically generates ad copy matched to the user's search intent. Naver had announced the feature in August under the name 'AI Summary Text', but postponed it, then renamed it and confirmed the test schedule."
+                "x": "Ads in which fake doctors made with artificial intelligence (AI) explain a cosmetic's effects and recommend using it become an explicit legal target for prohibition from the end of this month. Article 13, Paragraph 1, Item 4 of the revised Cosmetics Act, which takes effect on the 27th, bans ads that risk misleading consumers into thinking that AI-generated virtual experts such as doctors, pharmacists or university professors recommend or endorse a cosmetic."
               },
               {
                 "t": "p",
-                "x": "The generated copy does not replace existing ads; it is shown in addition, in titles, promotional text or a separate area. Billing works the same way, but clicks through AI-generated copy are also charged. Advertisers cannot edit the AI-generated copy directly, but they can set the feature not to be used."
+                "x": "Using AI technology to make ads is not itself banned. The test is whether a virtual expert who is hard to tell apart from a real one risks leading consumers to mistake the ad for an expert's recommendation or endorsement."
               },
               {
                 "t": "p",
-                "x": "Kakao is planning an ad model that reads purchase intent from conversations, for example recommending related lodging or booking services when a user discusses travel plans with AI. To that end, it will build a 'common memory infrastructure' by the first quarter (Q1) of next year and start a closed beta test of 'AI Crew', an AI agent for advertisers, in December."
+                "x": "According to a Korea Consumer Agency survey, 420 unfair ads misusing AI were caught in YouTube ads from October last year to June this year, and 72 of them (17.1%) were cosmetics ads. Ads impersonating experts also reached 153."
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/11/9/8205385/high.jpg/dims/optimize",
+                "cap": "An example of an unfair ad in which a virtual dermatologist generated by artificial intelligence (AI) promotes a cosmetic's effect on improving melasma. (Joint material from related ministries)"
+              },
+              {
+                "t": "p",
+                "x": "Major beauty companies are proactively reviewing their existing ad content and strengthening internal labeling guidelines and pre-review processes for marketing that uses generative AI. The Fair Trade Commission revised its review guidelines as of June 1 so that ads in which virtual people recommend or endorse products must clearly state that they are 'virtual people.'"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Naverパワーリンク\nAIが広告文を書く",
-          "body": "Naverは12日から、パワーリンク広告の文言をAIで作る機能を試験導入する。",
-          "mini_headline": "Naver、AI\n広告文を試験導入",
+          "headline": "AI偽医師広告を禁止\nKビューティー審査見直し",
+          "body": "改正化粧品法が27日に施行され、AIによる偽の医師・専門家の広告が禁止される。",
+          "mini_headline": "AI偽医師広告を禁止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.fnnews.com/resource/media/image/2026/11/08/202611081827400014_l.jpg",
-                "cap": "Naverパワーリンクの「文言生成」方式。Naver提供"
+                "src": "https://i3n.news1.kr/system/photos/2026/9/8/8094291/high.jpg"
               },
               {
                 "t": "p",
-                "x": "NaverとKakaoが人工知能(AI)を前面に出し、広告事業の収益性強化を急いでいる。Naverは12日から19日まで、検索広告「パワーリンク」にAIベースの「文言生成」機能を試験導入する。広告主が登録した広告素材やリンク先のウェブページなどをAIが分析し、ユーザーの検索意図に合った広告文を自動で生成する仕組みだ。Naverは8月に「AI要約テキスト」という名称で予告していたが、日程を延期した後に名称を変更し、テスト日程を確定した。"
+                "x": "人工知能(AI)で作った偽の医師が化粧品の効能を説明し、製品の使用を勧める広告が、今月末から法律上明確な禁止対象になる。27日に施行される改正化粧品法第13条第1項第4号は、AIで生成した架空の医師・薬剤師・大学教授などの専門家が化粧品を推薦または保証していると消費者が誤認するおそれのある広告を禁じる。"
               },
               {
                 "t": "p",
-                "x": "生成された文言は既存の広告に置き換わるのではなく、タイトルや宣伝文、別枠などに追加で表示される。課金方式は同じだが、AI生成の文言経由のクリックにも広告費がかかる。AIが生成した文言を直接修正することはできないが、機能を使わない設定にすることはできる。"
+                "x": "広告制作にAI技術を使うこと自体が禁止されるわけではない。実在と見分けにくい架空の専門家を前面に出し、消費者が専門家の推薦や保証だと誤って受け取るおそれがあるかどうかが判断基準となる。"
               },
               {
                 "t": "p",
-                "x": "Kakaoは、ユーザーがAIと旅行計画を相談すると関連する宿泊や予約サービスを薦めるように、会話から購買意図を読み取る広告モデルを構想している。そのために「共通メモリインフラ」を来年の第1四半期までに構築し、広告主向けAIエージェント「AIクルー」のクローズドベータテストを12月に始める。"
+                "x": "韓国消費者院の調査によると、昨年10月から今年6月までにYouTube広告でAIを悪用した不当広告420件が摘発され、うち化粧品広告は72件(17.1%)だった。専門家をかたった広告も153件に上った。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/11/9/8205385/high.jpg/dims/optimize",
+                "cap": "人工知能(AI)で生成した架空の皮膚科専門医が、化粧品のシミ改善効果を宣伝する不当広告の例。(関係省庁合同資料)"
+              },
+              {
+                "t": "p",
+                "x": "大手ビューティー企業は既存の広告コンテンツを先回りして点検し、生成AIを使ったマーケティングに関する社内の表示ガイドラインと事前審査プロセスを強化している。公正取引委員会は6月1日から、架空の人物が商品を推薦・保証する広告に「架空の人物」であることを明示するよう審査指針を改正した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Naver让AI\n撰写PowerLink文案",
-          "body": "Naver将从12日起试行用AI生成PowerLink广告文案的功能。",
-          "mini_headline": "Naver试行\nAI广告文案",
+          "headline": "禁止AI假医生广告\nK美妆重整审核",
+          "body": "修订后的《化妆品法》将于27日施行，AI假医生与假专家广告将被禁止。",
+          "mini_headline": "禁止AI假医生广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.fnnews.com/resource/media/image/2026/11/08/202611081827400014_l.jpg",
-                "cap": "Naver PowerLink的“文案生成”方式。Naver提供"
+                "src": "https://i3n.news1.kr/system/photos/2026/9/8/8094291/high.jpg"
               },
               {
                 "t": "p",
-                "x": "Naver和Kakao正以人工智能（AI）为抓手，加快提升广告业务的盈利能力。Naver将于12日至19日在搜索广告“PowerLink”中试行基于AI的“文案生成”功能，由AI分析广告主登记的广告素材及其链接网页等，自动生成符合用户搜索意图的广告文案。Naver曾于8月以“AI摘要文本”的名称预告该功能，但推迟了日程，随后更改名称并确定了测试时间。"
+                "x": "由人工智能（AI）生成的假医生讲解化妆品功效、推荐使用产品的广告，将从本月底起成为法律明确禁止的对象。将于27日施行的修订版《化妆品法》第13条第1款第4项规定，禁止可能让消费者误以为由AI生成的虚拟医生、药师、大学教授等专家在推荐或担保化妆品的广告。"
               },
               {
                 "t": "p",
-                "x": "生成的文案不会取代现有广告，而是额外显示在标题、宣传语或单独区域中。计费方式不变，但通过AI生成文案产生的点击同样收取广告费。广告主无法直接修改AI生成的文案，但可以设置不使用该功能。"
+                "x": "在广告制作中使用AI技术本身并未被禁止。判断标准在于，是否借助难以与真人区分的虚拟专家，使消费者可能误以为这是专家的推荐或担保。"
               },
               {
                 "t": "p",
-                "x": "Kakao正在构想一种从对话中把握购买意图的广告模式，例如用户与AI商量旅行计划时，为其推荐相关住宿或预订服务。为此，Kakao将在明年第一季度前建成“通用记忆基础设施”，并于12月启动面向广告主的AI智能体“AI Crew”的封闭测试。"
+                "x": "韩国消费者院调查显示，从去年10月到今年6月，YouTube广告中共查出420件滥用AI的不当广告，其中化妆品广告72件（17.1%）。冒充专家的广告也多达153件。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/11/9/8205385/high.jpg/dims/optimize",
+                "cap": "由人工智能（AI）生成的虚拟皮肤科专科医生宣传化妆品淡斑效果的不当广告案例。（相关部门联合资料）"
+              },
+              {
+                "t": "p",
+                "x": "主要美妆企业正在主动排查现有广告内容，并加强使用生成式AI营销的内部标注指南和事前审核流程。公平交易委员会已修订审查指南，自6月1日起要求虚拟人物推荐或担保商品的广告明确标注其为“虚拟人物”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Naver PowerLink: la AI escribe\nlos textos de los anuncios",
-          "body": "Naver probará desde el día 12 una función que crea con AI los textos de los anuncios de PowerLink.",
-          "mini_headline": "Naver prueba textos\nde anuncios con AI",
+          "headline": "Veto a anuncios con médicos AI\ny K-beauty revisa sus controles",
+          "body": "La reforma de la ley de cosméticos entra en vigor el 27 y prohíbe anuncios con falsos médicos o expertos de AI.",
+          "mini_headline": "Veto a anuncios con médicos AI falsos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.fnnews.com/resource/media/image/2026/11/08/202611081827400014_l.jpg",
-                "cap": "Método de 'generación de textos' de Naver PowerLink. Cortesía de Naver"
+                "src": "https://i3n.news1.kr/system/photos/2026/9/8/8094291/high.jpg"
               },
               {
                 "t": "p",
-                "x": "Naver y Kakao aceleran sus esfuerzos para hacer más rentable su negocio publicitario apoyándose en la inteligencia artificial (AI). Del 12 al 19, Naver probará en su publicidad de búsqueda 'PowerLink' una función de 'generación de textos' basada en AI. La AI analiza el material publicitario registrado por el anunciante y las páginas web vinculadas, entre otros elementos, y genera automáticamente textos publicitarios acordes con la intención de búsqueda del usuario. Naver la había anunciado en agosto con el nombre de 'Texto resumido por AI', pero aplazó el calendario y luego cambió el nombre y fijó las fechas de prueba."
+                "x": "Los anuncios en los que un falso médico creado con inteligencia artificial (AI) explica la eficacia de un cosmético y recomienda su uso pasarán a estar prohibidos de forma expresa por ley a partir de finales de este mes. El artículo 13, apartado 1, inciso 4 de la ley de cosméticos reformada, que entra en vigor el 27, prohíbe los anuncios que puedan llevar al consumidor a creer que expertos virtuales generados con AI, como médicos, farmacéuticos o profesores universitarios, recomiendan o avalan un cosmético."
               },
               {
                 "t": "p",
-                "x": "Los textos generados no sustituyen a los anuncios existentes, sino que se muestran de forma adicional en títulos, textos promocionales o un área aparte. El sistema de cobro es el mismo, pero también se cobran los clics hechos a través de textos generados por AI. Los textos generados por AI no se pueden editar directamente, aunque se puede configurar para no usar la función."
+                "x": "Usar tecnología AI para producir anuncios no está prohibido en sí. El criterio es si se presenta a un experto virtual difícil de distinguir de uno real de modo que el consumidor pueda tomarlo por la recomendación o el aval de un experto."
               },
               {
                 "t": "p",
-                "x": "Kakao estudia un modelo publicitario que detecte la intención de compra en las conversaciones, por ejemplo recomendando alojamiento o servicios de reserva relacionados cuando un usuario consulta sus planes de viaje con la AI. Para ello construirá una 'infraestructura de memoria común' para el primer trimestre del próximo año y en diciembre iniciará una beta cerrada de 'AI Crew', un agente de AI para anunciantes."
+                "x": "Según una encuesta de la Agencia de Consumidores de Corea, entre octubre del año pasado y junio de este año se detectaron 420 anuncios engañosos que abusaban de la AI en anuncios de YouTube, de los cuales 72 (17.1%) eran de cosméticos. Los anuncios que suplantaban a expertos llegaron a 153."
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/11/9/8205385/high.jpg/dims/optimize",
+                "cap": "Ejemplo de anuncio engañoso en el que un dermatólogo virtual generado con inteligencia artificial (AI) promociona el efecto de un cosmético para mejorar el melasma. (Material conjunto de los ministerios implicados)"
+              },
+              {
+                "t": "p",
+                "x": "Las principales empresas de belleza revisan de forma preventiva sus contenidos publicitarios y refuerzan sus guías internas de etiquetado y sus procesos de revisión previa para el marketing con AI generativa. La Comisión de Comercio Justo modificó sus directrices desde el 1 de junio para exigir que los anuncios en los que personajes virtuales recomiendan o avalan productos indiquen con claridad que se trata de un 'personaje virtual'."
               }
             ]
           }
@@ -1181,109 +1129,141 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "Naver PowerLink to let AI\nwrite search ad copy",
-          "body": "Naver will pilot a feature that writes PowerLink ad copy with AI starting on the 12th.",
-          "mini_headline": "Naver pilots AI\nad copy",
+          "headline": "AI fake doctor ads banned\nK-beauty tightens ad reviews",
+          "body": "The revised Cosmetics Act takes effect on the 27th, banning ads that use AI fake doctors or experts.",
+          "mini_headline": "AI fake doctor ads banned",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.fnnews.com/resource/media/image/2026/11/08/202611081827400014_l.jpg",
-                "cap": "Naver PowerLink's 'copy generation' method. Courtesy of Naver"
+                "src": "https://i3n.news1.kr/system/photos/2026/9/8/8094291/high.jpg"
               },
               {
                 "t": "p",
-                "x": "Naver and Kakao are leaning on artificial intelligence (AI) to speed up efforts to make their advertising businesses more profitable. From the 12th to the 19th, Naver will pilot an AI-based 'copy generation' feature in its search ad product 'PowerLink'. AI analyzes the ad creative an advertiser has registered and the linked webpages, among other things, and automatically generates ad copy matched to the user's search intent. Naver had announced the feature in August under the name 'AI Summary Text', but postponed it, then renamed it and confirmed the test schedule."
+                "x": "Ads in which fake doctors made with artificial intelligence (AI) explain a cosmetic's effects and recommend using it become an explicit legal target for prohibition from the end of this month. Article 13, Paragraph 1, Item 4 of the revised Cosmetics Act, which takes effect on the 27th, bans ads that risk misleading consumers into thinking that AI-generated virtual experts such as doctors, pharmacists or university professors recommend or endorse a cosmetic."
               },
               {
                 "t": "p",
-                "x": "The generated copy does not replace existing ads; it is shown in addition, in titles, promotional text or a separate area. Billing works the same way, but clicks through AI-generated copy are also charged. Advertisers cannot edit the AI-generated copy directly, but they can set the feature not to be used."
+                "x": "Using AI technology to make ads is not itself banned. The test is whether a virtual expert who is hard to tell apart from a real one risks leading consumers to mistake the ad for an expert's recommendation or endorsement."
               },
               {
                 "t": "p",
-                "x": "Kakao is planning an ad model that reads purchase intent from conversations, for example recommending related lodging or booking services when a user discusses travel plans with AI. To that end, it will build a 'common memory infrastructure' by the first quarter (Q1) of next year and start a closed beta test of 'AI Crew', an AI agent for advertisers, in December."
+                "x": "According to a Korea Consumer Agency survey, 420 unfair ads misusing AI were caught in YouTube ads from October last year to June this year, and 72 of them (17.1%) were cosmetics ads. Ads impersonating experts also reached 153."
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/11/9/8205385/high.jpg/dims/optimize",
+                "cap": "An example of an unfair ad in which a virtual dermatologist generated by artificial intelligence (AI) promotes a cosmetic's effect on improving melasma. (Joint material from related ministries)"
+              },
+              {
+                "t": "p",
+                "x": "Major beauty companies are proactively reviewing their existing ad content and strengthening internal labeling guidelines and pre-review processes for marketing that uses generative AI. The Fair Trade Commission revised its review guidelines as of June 1 so that ads in which virtual people recommend or endorse products must clearly state that they are 'virtual people.'"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Naverパワーリンク\nAIが広告文を書く",
-          "body": "Naverは12日から、パワーリンク広告の文言をAIで作る機能を試験導入する。",
-          "mini_headline": "Naver、AI\n広告文を試験導入",
+          "headline": "AI偽医師広告を禁止\nKビューティー審査見直し",
+          "body": "改正化粧品法が27日に施行され、AIによる偽の医師・専門家の広告が禁止される。",
+          "mini_headline": "AI偽医師広告を禁止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.fnnews.com/resource/media/image/2026/11/08/202611081827400014_l.jpg",
-                "cap": "Naverパワーリンクの「文言生成」方式。Naver提供"
+                "src": "https://i3n.news1.kr/system/photos/2026/9/8/8094291/high.jpg"
               },
               {
                 "t": "p",
-                "x": "NaverとKakaoが人工知能(AI)を前面に出し、広告事業の収益性強化を急いでいる。Naverは12日から19日まで、検索広告「パワーリンク」にAIベースの「文言生成」機能を試験導入する。広告主が登録した広告素材やリンク先のウェブページなどをAIが分析し、ユーザーの検索意図に合った広告文を自動で生成する仕組みだ。Naverは8月に「AI要約テキスト」という名称で予告していたが、日程を延期した後に名称を変更し、テスト日程を確定した。"
+                "x": "人工知能(AI)で作った偽の医師が化粧品の効能を説明し、製品の使用を勧める広告が、今月末から法律上明確な禁止対象になる。27日に施行される改正化粧品法第13条第1項第4号は、AIで生成した架空の医師・薬剤師・大学教授などの専門家が化粧品を推薦または保証していると消費者が誤認するおそれのある広告を禁じる。"
               },
               {
                 "t": "p",
-                "x": "生成された文言は既存の広告に置き換わるのではなく、タイトルや宣伝文、別枠などに追加で表示される。課金方式は同じだが、AI生成の文言経由のクリックにも広告費がかかる。AIが生成した文言を直接修正することはできないが、機能を使わない設定にすることはできる。"
+                "x": "広告制作にAI技術を使うこと自体が禁止されるわけではない。実在と見分けにくい架空の専門家を前面に出し、消費者が専門家の推薦や保証だと誤って受け取るおそれがあるかどうかが判断基準となる。"
               },
               {
                 "t": "p",
-                "x": "Kakaoは、ユーザーがAIと旅行計画を相談すると関連する宿泊や予約サービスを薦めるように、会話から購買意図を読み取る広告モデルを構想している。そのために「共通メモリインフラ」を来年の第1四半期までに構築し、広告主向けAIエージェント「AIクルー」のクローズドベータテストを12月に始める。"
+                "x": "韓国消費者院の調査によると、昨年10月から今年6月までにYouTube広告でAIを悪用した不当広告420件が摘発され、うち化粧品広告は72件(17.1%)だった。専門家をかたった広告も153件に上った。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/11/9/8205385/high.jpg/dims/optimize",
+                "cap": "人工知能(AI)で生成した架空の皮膚科専門医が、化粧品のシミ改善効果を宣伝する不当広告の例。(関係省庁合同資料)"
+              },
+              {
+                "t": "p",
+                "x": "大手ビューティー企業は既存の広告コンテンツを先回りして点検し、生成AIを使ったマーケティングに関する社内の表示ガイドラインと事前審査プロセスを強化している。公正取引委員会は6月1日から、架空の人物が商品を推薦・保証する広告に「架空の人物」であることを明示するよう審査指針を改正した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Naver让AI\n撰写PowerLink文案",
-          "body": "Naver将从12日起试行用AI生成PowerLink广告文案的功能。",
-          "mini_headline": "Naver试行\nAI广告文案",
+          "headline": "禁止AI假医生广告\nK美妆重整审核",
+          "body": "修订后的《化妆品法》将于27日施行，AI假医生与假专家广告将被禁止。",
+          "mini_headline": "禁止AI假医生广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.fnnews.com/resource/media/image/2026/11/08/202611081827400014_l.jpg",
-                "cap": "Naver PowerLink的“文案生成”方式。Naver提供"
+                "src": "https://i3n.news1.kr/system/photos/2026/9/8/8094291/high.jpg"
               },
               {
                 "t": "p",
-                "x": "Naver和Kakao正以人工智能（AI）为抓手，加快提升广告业务的盈利能力。Naver将于12日至19日在搜索广告“PowerLink”中试行基于AI的“文案生成”功能，由AI分析广告主登记的广告素材及其链接网页等，自动生成符合用户搜索意图的广告文案。Naver曾于8月以“AI摘要文本”的名称预告该功能，但推迟了日程，随后更改名称并确定了测试时间。"
+                "x": "由人工智能（AI）生成的假医生讲解化妆品功效、推荐使用产品的广告，将从本月底起成为法律明确禁止的对象。将于27日施行的修订版《化妆品法》第13条第1款第4项规定，禁止可能让消费者误以为由AI生成的虚拟医生、药师、大学教授等专家在推荐或担保化妆品的广告。"
               },
               {
                 "t": "p",
-                "x": "生成的文案不会取代现有广告，而是额外显示在标题、宣传语或单独区域中。计费方式不变，但通过AI生成文案产生的点击同样收取广告费。广告主无法直接修改AI生成的文案，但可以设置不使用该功能。"
+                "x": "在广告制作中使用AI技术本身并未被禁止。判断标准在于，是否借助难以与真人区分的虚拟专家，使消费者可能误以为这是专家的推荐或担保。"
               },
               {
                 "t": "p",
-                "x": "Kakao正在构想一种从对话中把握购买意图的广告模式，例如用户与AI商量旅行计划时，为其推荐相关住宿或预订服务。为此，Kakao将在明年第一季度前建成“通用记忆基础设施”，并于12月启动面向广告主的AI智能体“AI Crew”的封闭测试。"
+                "x": "韩国消费者院调查显示，从去年10月到今年6月，YouTube广告中共查出420件滥用AI的不当广告，其中化妆品广告72件（17.1%）。冒充专家的广告也多达153件。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/11/9/8205385/high.jpg/dims/optimize",
+                "cap": "由人工智能（AI）生成的虚拟皮肤科专科医生宣传化妆品淡斑效果的不当广告案例。（相关部门联合资料）"
+              },
+              {
+                "t": "p",
+                "x": "主要美妆企业正在主动排查现有广告内容，并加强使用生成式AI营销的内部标注指南和事前审核流程。公平交易委员会已修订审查指南，自6月1日起要求虚拟人物推荐或担保商品的广告明确标注其为“虚拟人物”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Naver PowerLink: la AI escribe\nlos textos de los anuncios",
-          "body": "Naver probará desde el día 12 una función que crea con AI los textos de los anuncios de PowerLink.",
-          "mini_headline": "Naver prueba textos\nde anuncios con AI",
+          "headline": "Veto a anuncios con médicos AI\ny K-beauty revisa sus controles",
+          "body": "La reforma de la ley de cosméticos entra en vigor el 27 y prohíbe anuncios con falsos médicos o expertos de AI.",
+          "mini_headline": "Veto a anuncios con médicos AI falsos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.fnnews.com/resource/media/image/2026/11/08/202611081827400014_l.jpg",
-                "cap": "Método de 'generación de textos' de Naver PowerLink. Cortesía de Naver"
+                "src": "https://i3n.news1.kr/system/photos/2026/9/8/8094291/high.jpg"
               },
               {
                 "t": "p",
-                "x": "Naver y Kakao aceleran sus esfuerzos para hacer más rentable su negocio publicitario apoyándose en la inteligencia artificial (AI). Del 12 al 19, Naver probará en su publicidad de búsqueda 'PowerLink' una función de 'generación de textos' basada en AI. La AI analiza el material publicitario registrado por el anunciante y las páginas web vinculadas, entre otros elementos, y genera automáticamente textos publicitarios acordes con la intención de búsqueda del usuario. Naver la había anunciado en agosto con el nombre de 'Texto resumido por AI', pero aplazó el calendario y luego cambió el nombre y fijó las fechas de prueba."
+                "x": "Los anuncios en los que un falso médico creado con inteligencia artificial (AI) explica la eficacia de un cosmético y recomienda su uso pasarán a estar prohibidos de forma expresa por ley a partir de finales de este mes. El artículo 13, apartado 1, inciso 4 de la ley de cosméticos reformada, que entra en vigor el 27, prohíbe los anuncios que puedan llevar al consumidor a creer que expertos virtuales generados con AI, como médicos, farmacéuticos o profesores universitarios, recomiendan o avalan un cosmético."
               },
               {
                 "t": "p",
-                "x": "Los textos generados no sustituyen a los anuncios existentes, sino que se muestran de forma adicional en títulos, textos promocionales o un área aparte. El sistema de cobro es el mismo, pero también se cobran los clics hechos a través de textos generados por AI. Los textos generados por AI no se pueden editar directamente, aunque se puede configurar para no usar la función."
+                "x": "Usar tecnología AI para producir anuncios no está prohibido en sí. El criterio es si se presenta a un experto virtual difícil de distinguir de uno real de modo que el consumidor pueda tomarlo por la recomendación o el aval de un experto."
               },
               {
                 "t": "p",
-                "x": "Kakao estudia un modelo publicitario que detecte la intención de compra en las conversaciones, por ejemplo recomendando alojamiento o servicios de reserva relacionados cuando un usuario consulta sus planes de viaje con la AI. Para ello construirá una 'infraestructura de memoria común' para el primer trimestre del próximo año y en diciembre iniciará una beta cerrada de 'AI Crew', un agente de AI para anunciantes."
+                "x": "Según una encuesta de la Agencia de Consumidores de Corea, entre octubre del año pasado y junio de este año se detectaron 420 anuncios engañosos que abusaban de la AI en anuncios de YouTube, de los cuales 72 (17.1%) eran de cosméticos. Los anuncios que suplantaban a expertos llegaron a 153."
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/11/9/8205385/high.jpg/dims/optimize",
+                "cap": "Ejemplo de anuncio engañoso en el que un dermatólogo virtual generado con inteligencia artificial (AI) promociona el efecto de un cosmético para mejorar el melasma. (Material conjunto de los ministerios implicados)"
+              },
+              {
+                "t": "p",
+                "x": "Las principales empresas de belleza revisan de forma preventiva sus contenidos publicitarios y refuerzan sus guías internas de etiquetado y sus procesos de revisión previa para el marketing con AI generativa. La Comisión de Comercio Justo modificó sus directrices desde el 1 de junio para exigir que los anuncios en los que personajes virtuales recomiendan o avalan productos indiquen con claridad que se trata de un 'personaje virtual'."
               }
             ]
           }
@@ -1291,351 +1271,351 @@
       }
     },
     {
-      "id": "moloco-cara-molocon26-ctv",
-      "source_lang": "ko",
+      "id": "google-ads-ai-summaries-test",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "몰로코 카라, 앱 넘어\nCTV·커머스로",
-      "body": "몰로코가 몰로콘 26에서 AI 광고 시스템 카라의 CTV·커머스 확장을 발표했다.",
-      "mini_headline": "몰로코 카라,\nCTV로 확장",
+      "headline": "Google, 검색 광고에\nAI 요약 시험 중",
+      "body": "Google이 스폰서 광고 위 전체 AI 요약과 광고별 AI 요약을 시험한다.",
+      "mini_headline": "Google, AI 광고 요약 시험",
       "tool": "Marketing",
-      "source": "테크수다",
-      "url": "https://www.techsuda.com/moloco-molocon-26-cara-ai-advertising/",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-ads-ai-generated-summaries-42482.html",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/7vlne7_202611060313.jpg"
+            "t": "p",
+            "x": "Google이 검색 광고에 AI-generated 요약을 더 넣는 시험을 하고 있다. 스폰서 결과 묶음 위에는 모든 광고주의 모든 광고를 요약한 AI-generated 요약을, 각 광고 설명 아래에는 광고별 AI-generated 요약을 붙인다."
           },
           {
             "t": "p",
-            "x": "글로벌 AI 광고 기업 몰로코(Moloco)가 2026년 11월 5일 서울에서 연례 플래그십 행사 '몰로콘 26(Molocon 26)'을 개최했다. '성장, 그 너머로(Where growth goes next)'를 주제로 열린 행사에는 약 500여 명이 참석했고, 몰로코는 AI 광고 시스템 카라(CARA)를 중심으로 앱·CTV·커머스 미디어에서 고객을 찾는 방법을 제시했다."
+            "x": "AI-generated 요약을 불러오는 동안에는 지루하지 않게 로딩 애니메이션이 돈다."
           },
           {
             "t": "p",
-            "x": "안익진 CEO는 \"이제 병목은 제품을 만드는 일이 아니라 발견되는 일이고, 몰로코는 바로 이 문제를 풀기 위해 만들어졌다\"고 말했다."
+            "x": "Brodie Clark가 이를 발견해 X와 SERP Alert에 올렸다. 아래는 그의 영상이다."
+          },
+          {
+            "t": "video",
+            "src": "https://images.seroundtable.com/v-google-ads-ai-generated-summaries-14TJkp0H.mp4"
           },
           {
             "t": "p",
-            "x": "전동환 CTO가 소개한 카라는 복합 광고 추천 아키텍처(Compound Ad Recommendation Architecture)를 뜻하며, 30개가 넘는 AI 모델, 에이전트, 특화 소프트웨어를 결합한 시스템이다. 하루 1조 건이 넘는 광고 기회를 평가하며 누가 전환할지, 얼마를 입찰할지, 어떤 크리에이티브를 보여줄지 예측한다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/ods77v_202611060321.jpg"
+            "x": "Brodie는 “모바일에서 Google의 스폰서 결과가 점점 더 생성형으로 바뀌고 있다. 이 사례에는 로딩 애니메이션이 있을 뿐 아니라 광고마다 업체 설명이 따로 붙고, 스폰서 결과 맨 위에는 노출된 브랜드명을 언급하며 각 광고로 가는 링크를 덧붙인 설명이 하나 더 있다”고 썼다."
           },
           {
             "t": "p",
-            "x": "이혜정 CTV 파트너십 총괄은 몰로코가 모바일에서 만든 퍼포먼스 AI를 TV 화면에 적용해 예측한 가치에 따라 프리미엄 TV 지면에 입찰하고, 홀드아웃 테스트로 증분 성장을 측정한다고 설명했다. 이현채 APAC 전략 이니셔티브 총괄은 커머스 미디어가 한국 주요 플랫폼에서 가장 빠르게 성장하는 채널 중 하나라고 설명했다."
+            "x": "스폰서 광고와 스폰서 상품에서는 이런 모습을 본 적이 있다. 하지만 광고 맨 위에 요약이 붙은 경우는 본 기억이 확실치 않다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "몰로코 카라, 앱 넘어\nCTV·커머스로",
-          "body": "몰로코가 몰로콘 26에서 AI 광고 시스템 카라의 CTV·커머스 확장을 발표했다.",
-          "mini_headline": "몰로코 카라,\nCTV로 확장",
+        "en": {
+          "headline": "Google tests AI summaries\nabove and within search ads",
+          "body": "Google is testing an AI summary of all advertisers' ads above the sponsored block, plus AI summaries under each ad.",
+          "mini_headline": "Google tests AI ad summaries",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/7vlne7_202611060313.jpg"
+                "t": "p",
+                "x": "Google is testing more AI-generated summaries within its search ads. This one shows AI-generated summaries above the grouping of the sponsored results, summarizing all the ads from all the advertisers, with also AI-generated summaries below each ad description."
               },
               {
                 "t": "p",
-                "x": "글로벌 AI 광고 기업 몰로코(Moloco)가 2026년 11월 5일 서울에서 연례 플래그십 행사 '몰로콘 26(Molocon 26)'을 개최했다. '성장, 그 너머로(Where growth goes next)'를 주제로 열린 행사에는 약 500여 명이 참석했고, 몰로코는 AI 광고 시스템 카라(CARA)를 중심으로 앱·CTV·커머스 미디어에서 고객을 찾는 방법을 제시했다."
+                "x": "When the AI-generated summaries are loading, there is the loading animation, to keep us entertained."
               },
               {
                 "t": "p",
-                "x": "안익진 CEO는 \"이제 병목은 제품을 만드는 일이 아니라 발견되는 일이고, 몰로코는 바로 이 문제를 풀기 위해 만들어졌다\"고 말했다."
+                "x": "This was spotted by Brodie Clark who posted this on X and SERP Alert - here is his video:"
+              },
+              {
+                "t": "video",
+                "src": "https://images.seroundtable.com/v-google-ads-ai-generated-summaries-14TJkp0H.mp4"
               },
               {
                 "t": "p",
-                "x": "전동환 CTO가 소개한 카라는 복합 광고 추천 아키텍처(Compound Ad Recommendation Architecture)를 뜻하며, 30개가 넘는 AI 모델, 에이전트, 특화 소프트웨어를 결합한 시스템이다. 하루 1조 건이 넘는 광고 기회를 평가하며 누가 전환할지, 얼마를 입찰할지, 어떤 크리에이티브를 보여줄지 예측한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/ods77v_202611060321.jpg"
+                "x": "Brodie wrote, \"Google’s sponsored results on mobile are increasingly becoming more generative. Not only is there a loading animation for this example, but each individual ad has its own description for the business, and then there’s an additional description at the top of the sponsored results that mentions the brand names that are listed with an additional link to their ads.\""
               },
               {
                 "t": "p",
-                "x": "이혜정 CTV 파트너십 총괄은 몰로코가 모바일에서 만든 퍼포먼스 AI를 TV 화면에 적용해 예측한 가치에 따라 프리미엄 TV 지면에 입찰하고, 홀드아웃 테스트로 증분 성장을 측정한다고 설명했다. 이현채 APAC 전략 이니셔티브 총괄은 커머스 미디어가 한국 주요 플랫폼에서 가장 빠르게 성장하는 채널 중 하나라고 설명했다."
+                "x": "We've seen this before on sponsored ads and sponsored products but I am not sure if we've seen the summary at the top of the ads."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Moloco takes CARA beyond apps\nto CTV and commerce",
-          "body": "At Molocon 26, Moloco announced it is expanding its AI ad system CARA to CTV and commerce.",
-          "mini_headline": "Moloco's CARA\nexpands to CTV",
+        "ko": {
+          "headline": "Google, 검색 광고에\nAI 요약 시험 중",
+          "body": "Google이 스폰서 광고 위 전체 AI 요약과 광고별 AI 요약을 시험한다.",
+          "mini_headline": "Google, AI 광고 요약 시험",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/7vlne7_202611060313.jpg"
+                "t": "p",
+                "x": "Google이 검색 광고에 AI-generated 요약을 더 넣는 시험을 하고 있다. 스폰서 결과 묶음 위에는 모든 광고주의 모든 광고를 요약한 AI-generated 요약을, 각 광고 설명 아래에는 광고별 AI-generated 요약을 붙인다."
               },
               {
                 "t": "p",
-                "x": "Global AI advertising company Moloco held its annual flagship event, 'Molocon 26', in Seoul on November 5, 2026. About 500 people attended the event, themed 'Where growth goes next', and Moloco presented ways to find customers across apps, CTV and commerce media, centered on its AI ad system CARA."
+                "x": "AI-generated 요약을 불러오는 동안에는 지루하지 않게 로딩 애니메이션이 돈다."
               },
               {
                 "t": "p",
-                "x": "CEO Ikjin Ahn said, \"The bottleneck now is not making products but being discovered, and Moloco was built to solve exactly this problem.\""
+                "x": "Brodie Clark가 이를 발견해 X와 SERP Alert에 올렸다. 아래는 그의 영상이다."
+              },
+              {
+                "t": "video",
+                "src": "https://images.seroundtable.com/v-google-ads-ai-generated-summaries-14TJkp0H.mp4"
               },
               {
                 "t": "p",
-                "x": "CARA, introduced by CTO Donghwan Jeon, stands for Compound Ad Recommendation Architecture, a system that combines more than 30 AI models, agents and specialized software. It evaluates more than 1 trillion ad opportunities a day, predicting who will convert, how much to bid and which creative to show."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/ods77v_202611060321.jpg"
+                "x": "Brodie는 “모바일에서 Google의 스폰서 결과가 점점 더 생성형으로 바뀌고 있다. 이 사례에는 로딩 애니메이션이 있을 뿐 아니라 광고마다 업체 설명이 따로 붙고, 스폰서 결과 맨 위에는 노출된 브랜드명을 언급하며 각 광고로 가는 링크를 덧붙인 설명이 하나 더 있다”고 썼다."
               },
               {
                 "t": "p",
-                "x": "Hyejung Lee, head of CTV partnerships, explained that Moloco applies the performance AI it built on mobile to the TV screen, bidding on premium TV inventory according to predicted value and measuring incremental growth with holdout tests. Hyunchae Lee, head of APAC strategic initiatives, said commerce media is one of the fastest-growing channels on major Korean platforms."
+                "x": "스폰서 광고와 스폰서 상품에서는 이런 모습을 본 적이 있다. 하지만 광고 맨 위에 요약이 붙은 경우는 본 기억이 확실치 않다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Moloco CARA、\nアプリ超えCTV・コマースへ",
-          "body": "MolocoはMolocon 26でAI広告CARAのCTV・コマース拡大を発表した。",
-          "mini_headline": "Moloco CARA、\nCTVへ拡大",
+          "headline": "Google、検索広告に\nAI要約を試験導入",
+          "body": "Googleは全広告主の広告をまとめたAI要約と、各広告下のAI要約をテストしている。",
+          "mini_headline": "Google、AI広告要約をテスト",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/7vlne7_202611060313.jpg"
+                "t": "p",
+                "x": "Googleは検索広告内でAI-generatedの要約をさらに増やすテストを行っている。今回のテストでは、スポンサー結果のまとまりの上に全広告主の全広告を要約したAI-generatedの要約を表示し、各広告の説明文の下にもAI-generatedの要約を付けている。"
               },
               {
                 "t": "p",
-                "x": "グローバルAI広告企業のMolocoは2026年11月5日、ソウルで年次フラッグシップイベント「Molocon 26」を開催した。「成長、その先へ(Where growth goes next)」をテーマに約500人が参加し、MolocoはAI広告システムCARAを軸に、アプリ・CTV・コマースメディアで顧客を見つける方法を示した。"
+                "x": "AI-generatedの要約を読み込む間は、退屈しないようにローディングアニメーションが表示される。"
               },
               {
                 "t": "p",
-                "x": "アン・イクジンCEOは「今やボトルネックは製品を作ることではなく見つけてもらうことであり、Molocoはまさにこの問題を解くために作られた」と語った。"
+                "x": "これを見つけたのはBrodie Clarkで、XとSERP Alertに投稿した。以下が彼の動画だ。"
+              },
+              {
+                "t": "video",
+                "src": "https://images.seroundtable.com/v-google-ads-ai-generated-summaries-14TJkp0H.mp4"
               },
               {
                 "t": "p",
-                "x": "チョン・ドンファンCTOが紹介したCARAは、複合広告推薦アーキテクチャ(Compound Ad Recommendation Architecture)を意味し、30を超えるAIモデル、エージェント、専用ソフトウェアを組み合わせたシステムだ。1日に1兆件を超える広告機会を評価し、誰がコンバージョンするか、いくらで入札するか、どのクリエイティブを見せるかを予測する。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/ods77v_202611060321.jpg"
+                "x": "Brodieは「モバイルでのGoogleのスポンサー結果は、ますます生成的になっている。この例ではローディングアニメーションがあるだけでなく、個々の広告にそれぞれ事業者の説明が付き、さらにスポンサー結果の最上部には掲載ブランド名に触れ、各広告へのリンクを添えた説明が追加されている」と書いた。"
               },
               {
                 "t": "p",
-                "x": "イ・ヘジョンCTVパートナーシップ統括は、Molocoがモバイルで築いたパフォーマンスAIをTV画面に適用し、予測した価値に応じてプレミアムTV枠に入札し、ホールドアウトテストで増分成長を測定すると説明した。イ・ヒョンチェAPAC戦略イニシアチブ統括は、コマースメディアが韓国の主要プラットフォームで最も急成長しているチャネルの一つだと述べた。"
+                "x": "スポンサー広告やスポンサー商品ではこれまでにも見たことがあるが、広告の最上部に要約が出る例を見たことがあるかは定かではない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Moloco CARA\n从应用扩展至CTV与电商",
-          "body": "Moloco在Molocon 26上宣布将AI广告系统CARA扩展至CTV和电商。",
-          "mini_headline": "Moloco CARA\n扩展至CTV",
+          "headline": "Google测试AI摘要\n置于搜索广告上方及内部",
+          "body": "Google正测试在赞助广告区上方汇总所有广告主的AI摘要，并在每条广告下附AI摘要。",
+          "mini_headline": "Google测试AI广告摘要",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/7vlne7_202611060313.jpg"
+                "t": "p",
+                "x": "Google正在测试在搜索广告中加入更多AI-generated摘要。这次测试在赞助结果分组上方显示AI-generated摘要，汇总所有广告主的全部广告，同时在每条广告描述下方也附上AI-generated摘要。"
               },
               {
                 "t": "p",
-                "x": "全球AI广告企业Moloco于2026年11月5日在首尔举办年度旗舰活动“Molocon 26”。活动以“增长，更进一步（Where growth goes next）”为主题，约500人参加。Moloco以AI广告系统CARA为核心，展示了在应用、CTV和电商媒体中寻找客户的方法。"
+                "x": "AI-generated摘要加载时，会出现加载动画，让人不至于无聊。"
               },
               {
                 "t": "p",
-                "x": "CEO Ikjin Ahn表示：“如今的瓶颈不在于做出产品，而在于被发现，Moloco正是为解决这个问题而生的。”"
+                "x": "这一测试由Brodie Clark发现，他将其发布在X和SERP Alert上，以下是他的视频："
+              },
+              {
+                "t": "video",
+                "src": "https://images.seroundtable.com/v-google-ads-ai-generated-summaries-14TJkp0H.mp4"
               },
               {
                 "t": "p",
-                "x": "CTO Donghwan Jeon介绍的CARA意为复合广告推荐架构（Compound Ad Recommendation Architecture），是一个整合了30多个AI模型、智能体和专用软件的系统。它每天评估超过1万亿次广告机会，预测谁会转化、出价多少以及展示哪种创意。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/ods77v_202611060321.jpg"
+                "x": "Brodie写道：“Google在移动端的赞助结果正变得越来越生成化。这个例子不仅有加载动画，每条广告还有各自的商家描述，赞助结果顶部还另有一段描述，提及所列品牌名称，并附上指向其广告的额外链接。”"
               },
               {
                 "t": "p",
-                "x": "CTV合作负责人Hyejung Lee介绍，Moloco将在移动端打造的效果型AI应用到TV屏幕上，根据预测价值竞价高端TV广告位，并通过保留组测试衡量增量增长。APAC战略项目负责人Hyunchae Lee表示，电商媒体是韩国主要平台上增长最快的渠道之一。"
+                "x": "我们以前在赞助广告和赞助商品中见过这种形式，但不确定是否见过广告顶部的摘要。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Moloco lleva CARA más allá\nde las apps: CTV y comercio",
-          "body": "En Molocon 26, Moloco anunció la expansión de su sistema publicitario de AI CARA a CTV y comercio.",
-          "mini_headline": "CARA de Moloco\nllega a CTV",
+          "headline": "Google prueba resúmenes AI\nsobre y dentro de anuncios",
+          "body": "Google prueba sobre el bloque patrocinado un resumen AI de todos los anuncios, y otro bajo cada anuncio.",
+          "mini_headline": "Google prueba resúmenes AI en anuncios",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/7vlne7_202611060313.jpg"
+                "t": "p",
+                "x": "Google está probando más resúmenes AI-generated dentro de sus anuncios de búsqueda. Esta prueba muestra resúmenes AI-generated sobre el grupo de resultados patrocinados, que resumen todos los anuncios de todos los anunciantes, además de resúmenes AI-generated bajo la descripción de cada anuncio."
               },
               {
                 "t": "p",
-                "x": "La empresa global de publicidad con AI Moloco celebró el 5 de noviembre de 2026 en Seúl su evento insignia anual, 'Molocon 26'. Unas 500 personas asistieron al evento, con el lema 'Where growth goes next' ('Hacia dónde va el crecimiento'), y Moloco presentó formas de encontrar clientes en apps, CTV y medios de comercio, con su sistema publicitario de AI CARA como eje."
+                "x": "Mientras se cargan los resúmenes AI-generated, aparece una animación de carga para entretenernos."
               },
               {
                 "t": "p",
-                "x": "El CEO Ikjin Ahn afirmó: \"Ahora el cuello de botella no es crear productos, sino ser descubierto, y Moloco se creó precisamente para resolver este problema\"."
+                "x": "Lo detectó Brodie Clark, que lo publicó en X y en SERP Alert; este es su video:"
+              },
+              {
+                "t": "video",
+                "src": "https://images.seroundtable.com/v-google-ads-ai-generated-summaries-14TJkp0H.mp4"
               },
               {
                 "t": "p",
-                "x": "CARA, presentado por el CTO Donghwan Jeon, significa Compound Ad Recommendation Architecture (arquitectura compuesta de recomendación de anuncios) y es un sistema que combina más de 30 modelos de AI, agentes y software especializado. Evalúa más de 1 billón de oportunidades publicitarias al día y predice quién convertirá, cuánto pujar y qué creatividad mostrar."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/ods77v_202611060321.jpg"
+                "x": "Brodie escribió: «Los resultados patrocinados de Google en móviles son cada vez más generativos. En este ejemplo no solo hay una animación de carga, sino que cada anuncio tiene su propia descripción del negocio, y además hay una descripción adicional en la parte superior de los resultados patrocinados que menciona las marcas listadas con un enlace adicional a sus anuncios»."
               },
               {
                 "t": "p",
-                "x": "Hyejung Lee, responsable de alianzas de CTV, explicó que Moloco aplica a la pantalla de TV la AI de rendimiento que desarrolló en móviles, puja por espacios premium de TV según el valor previsto y mide el crecimiento incremental con pruebas de holdout. Hyunchae Lee, responsable de iniciativas estratégicas para APAC, señaló que los medios de comercio son uno de los canales de mayor crecimiento en las principales plataformas de Corea."
+                "x": "Ya lo habíamos visto en anuncios patrocinados y productos patrocinados, pero no estoy seguro de haber visto el resumen en la parte superior de los anuncios."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Moloco takes CARA beyond apps\nto CTV and commerce",
-          "body": "At Molocon 26, Moloco announced it is expanding its AI ad system CARA to CTV and commerce.",
-          "mini_headline": "Moloco's CARA\nexpands to CTV",
+        "ko": {
+          "headline": "Google, 검색 광고에\nAI 요약 시험 중",
+          "body": "Google이 스폰서 광고 위 전체 AI 요약과 광고별 AI 요약을 시험한다.",
+          "mini_headline": "Google, AI 광고 요약 시험",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/7vlne7_202611060313.jpg"
+                "t": "p",
+                "x": "Google이 검색 광고 안에 AI-generated 요약을 더 늘리는 시험을 하고 있다. 이번 테스트는 스폰서 결과 묶음 위에 모든 광고주의 모든 광고를 요약한 AI-generated 요약을 보여주고, 각 광고 설명 아래에도 AI-generated 요약을 붙인다."
               },
               {
                 "t": "p",
-                "x": "Global AI advertising company Moloco held its annual flagship event, 'Molocon 26', in Seoul on November 5, 2026. About 500 people attended the event, themed 'Where growth goes next', and Moloco presented ways to find customers across apps, CTV and commerce media, centered on its AI ad system CARA."
+                "x": "AI-generated 요약이 로딩되는 동안에는 지루하지 않도록 로딩 애니메이션이 나온다."
               },
               {
                 "t": "p",
-                "x": "CEO Ikjin Ahn said, \"The bottleneck now is not making products but being discovered, and Moloco was built to solve exactly this problem.\""
+                "x": "이를 발견한 Brodie Clark가 X와 SERP Alert에 올렸다. 아래는 그의 영상이다."
+              },
+              {
+                "t": "video",
+                "src": "https://images.seroundtable.com/v-google-ads-ai-generated-summaries-14TJkp0H.mp4"
               },
               {
                 "t": "p",
-                "x": "CARA, introduced by CTO Donghwan Jeon, stands for Compound Ad Recommendation Architecture, a system that combines more than 30 AI models, agents and specialized software. It evaluates more than 1 trillion ad opportunities a day, predicting who will convert, how much to bid and which creative to show."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/ods77v_202611060321.jpg"
+                "x": "Brodie는 “모바일에서 Google의 스폰서 결과가 점점 더 생성형으로 바뀌고 있다. 이 사례에는 로딩 애니메이션이 있을 뿐 아니라 광고마다 업체 설명이 따로 붙고, 스폰서 결과 맨 위에는 노출된 브랜드명을 언급하며 각 광고로 가는 링크를 덧붙인 설명이 하나 더 있다”고 썼다."
               },
               {
                 "t": "p",
-                "x": "Hyejung Lee, head of CTV partnerships, explained that Moloco applies the performance AI it built on mobile to the TV screen, bidding on premium TV inventory according to predicted value and measuring incremental growth with holdout tests. Hyunchae Lee, head of APAC strategic initiatives, said commerce media is one of the fastest-growing channels on major Korean platforms."
+                "x": "스폰서 광고와 스폰서 상품에서는 이런 모습을 본 적이 있지만, 광고 맨 위에 요약이 붙은 경우를 본 적이 있는지는 확실하지 않다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Moloco CARA、\nアプリ超えCTV・コマースへ",
-          "body": "MolocoはMolocon 26でAI広告CARAのCTV・コマース拡大を発表した。",
-          "mini_headline": "Moloco CARA、\nCTVへ拡大",
+          "headline": "Google、検索広告に\nAI要約を試験導入",
+          "body": "Googleは全広告主の広告をまとめたAI要約と、各広告下のAI要約をテストしている。",
+          "mini_headline": "Google、AI広告要約をテスト",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/7vlne7_202611060313.jpg"
+                "t": "p",
+                "x": "Googleは検索広告内でAI-generatedの要約をさらに増やすテストを行っている。今回のテストでは、スポンサー結果のまとまりの上に全広告主の全広告を要約したAI-generatedの要約を表示し、各広告の説明文の下にもAI-generatedの要約を付けている。"
               },
               {
                 "t": "p",
-                "x": "グローバルAI広告企業のMolocoは2026年11月5日、ソウルで年次フラッグシップイベント「Molocon 26」を開催した。「成長、その先へ(Where growth goes next)」をテーマに約500人が参加し、MolocoはAI広告システムCARAを軸に、アプリ・CTV・コマースメディアで顧客を見つける方法を示した。"
+                "x": "AI-generatedの要約を読み込む間は、退屈しないようにローディングアニメーションが表示される。"
               },
               {
                 "t": "p",
-                "x": "アン・イクジンCEOは「今やボトルネックは製品を作ることではなく見つけてもらうことであり、Molocoはまさにこの問題を解くために作られた」と語った。"
+                "x": "これを見つけたのはBrodie Clarkで、XとSERP Alertに投稿した。以下が彼の動画だ。"
+              },
+              {
+                "t": "video",
+                "src": "https://images.seroundtable.com/v-google-ads-ai-generated-summaries-14TJkp0H.mp4"
               },
               {
                 "t": "p",
-                "x": "チョン・ドンファンCTOが紹介したCARAは、複合広告推薦アーキテクチャ(Compound Ad Recommendation Architecture)を意味し、30を超えるAIモデル、エージェント、専用ソフトウェアを組み合わせたシステムだ。1日に1兆件を超える広告機会を評価し、誰がコンバージョンするか、いくらで入札するか、どのクリエイティブを見せるかを予測する。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/ods77v_202611060321.jpg"
+                "x": "Brodieは「モバイルでのGoogleのスポンサー結果は、ますます生成的になっている。この例ではローディングアニメーションがあるだけでなく、個々の広告にそれぞれ事業者の説明が付き、さらにスポンサー結果の最上部には掲載ブランド名に触れ、各広告へのリンクを添えた説明が追加されている」と書いた。"
               },
               {
                 "t": "p",
-                "x": "イ・ヘジョンCTVパートナーシップ統括は、Molocoがモバイルで築いたパフォーマンスAIをTV画面に適用し、予測した価値に応じてプレミアムTV枠に入札し、ホールドアウトテストで増分成長を測定すると説明した。イ・ヒョンチェAPAC戦略イニシアチブ統括は、コマースメディアが韓国の主要プラットフォームで最も急成長しているチャネルの一つだと述べた。"
+                "x": "スポンサー広告やスポンサー商品ではこれまでにも見たことがあるが、広告の最上部に要約が出る例を見たことがあるかは定かではない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Moloco CARA\n从应用扩展至CTV与电商",
-          "body": "Moloco在Molocon 26上宣布将AI广告系统CARA扩展至CTV和电商。",
-          "mini_headline": "Moloco CARA\n扩展至CTV",
+          "headline": "Google测试AI摘要\n置于搜索广告上方及内部",
+          "body": "Google正测试在赞助广告区上方汇总所有广告主的AI摘要，并在每条广告下附AI摘要。",
+          "mini_headline": "Google测试AI广告摘要",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/7vlne7_202611060313.jpg"
+                "t": "p",
+                "x": "Google正在测试在搜索广告中加入更多AI-generated摘要。这次测试在赞助结果分组上方显示AI-generated摘要，汇总所有广告主的全部广告，同时在每条广告描述下方也附上AI-generated摘要。"
               },
               {
                 "t": "p",
-                "x": "全球AI广告企业Moloco于2026年11月5日在首尔举办年度旗舰活动“Molocon 26”。活动以“增长，更进一步（Where growth goes next）”为主题，约500人参加。Moloco以AI广告系统CARA为核心，展示了在应用、CTV和电商媒体中寻找客户的方法。"
+                "x": "AI-generated摘要加载时，会出现加载动画，让人不至于无聊。"
               },
               {
                 "t": "p",
-                "x": "CEO Ikjin Ahn表示：“如今的瓶颈不在于做出产品，而在于被发现，Moloco正是为解决这个问题而生的。”"
+                "x": "这一测试由Brodie Clark发现，他将其发布在X和SERP Alert上，以下是他的视频："
+              },
+              {
+                "t": "video",
+                "src": "https://images.seroundtable.com/v-google-ads-ai-generated-summaries-14TJkp0H.mp4"
               },
               {
                 "t": "p",
-                "x": "CTO Donghwan Jeon介绍的CARA意为复合广告推荐架构（Compound Ad Recommendation Architecture），是一个整合了30多个AI模型、智能体和专用软件的系统。它每天评估超过1万亿次广告机会，预测谁会转化、出价多少以及展示哪种创意。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/ods77v_202611060321.jpg"
+                "x": "Brodie写道：“Google在移动端的赞助结果正变得越来越生成化。这个例子不仅有加载动画，每条广告还有各自的商家描述，赞助结果顶部还另有一段描述，提及所列品牌名称，并附上指向其广告的额外链接。”"
               },
               {
                 "t": "p",
-                "x": "CTV合作负责人Hyejung Lee介绍，Moloco将在移动端打造的效果型AI应用到TV屏幕上，根据预测价值竞价高端TV广告位，并通过保留组测试衡量增量增长。APAC战略项目负责人Hyunchae Lee表示，电商媒体是韩国主要平台上增长最快的渠道之一。"
+                "x": "我们以前在赞助广告和赞助商品中见过这种形式，但不确定是否见过广告顶部的摘要。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Moloco lleva CARA más allá\nde las apps: CTV y comercio",
-          "body": "En Molocon 26, Moloco anunció la expansión de su sistema publicitario de AI CARA a CTV y comercio.",
-          "mini_headline": "CARA de Moloco\nllega a CTV",
+          "headline": "Google prueba resúmenes AI\nsobre y dentro de anuncios",
+          "body": "Google prueba sobre el bloque patrocinado un resumen AI de todos los anuncios, y otro bajo cada anuncio.",
+          "mini_headline": "Google prueba resúmenes AI en anuncios",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/7vlne7_202611060313.jpg"
+                "t": "p",
+                "x": "Google está probando más resúmenes AI-generated dentro de sus anuncios de búsqueda. Esta prueba muestra resúmenes AI-generated sobre el grupo de resultados patrocinados, que resumen todos los anuncios de todos los anunciantes, además de resúmenes AI-generated bajo la descripción de cada anuncio."
               },
               {
                 "t": "p",
-                "x": "La empresa global de publicidad con AI Moloco celebró el 5 de noviembre de 2026 en Seúl su evento insignia anual, 'Molocon 26'. Unas 500 personas asistieron al evento, con el lema 'Where growth goes next' ('Hacia dónde va el crecimiento'), y Moloco presentó formas de encontrar clientes en apps, CTV y medios de comercio, con su sistema publicitario de AI CARA como eje."
+                "x": "Mientras se cargan los resúmenes AI-generated, aparece una animación de carga para entretenernos."
               },
               {
                 "t": "p",
-                "x": "El CEO Ikjin Ahn afirmó: \"Ahora el cuello de botella no es crear productos, sino ser descubierto, y Moloco se creó precisamente para resolver este problema\"."
+                "x": "Lo detectó Brodie Clark, que lo publicó en X y en SERP Alert; este es su video:"
+              },
+              {
+                "t": "video",
+                "src": "https://images.seroundtable.com/v-google-ads-ai-generated-summaries-14TJkp0H.mp4"
               },
               {
                 "t": "p",
-                "x": "CARA, presentado por el CTO Donghwan Jeon, significa Compound Ad Recommendation Architecture (arquitectura compuesta de recomendación de anuncios) y es un sistema que combina más de 30 modelos de AI, agentes y software especializado. Evalúa más de 1 billón de oportunidades publicitarias al día y predice quién convertirá, cuánto pujar y qué creatividad mostrar."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/ods77v_202611060321.jpg"
+                "x": "Brodie escribió: «Los resultados patrocinados de Google en móviles son cada vez más generativos. En este ejemplo no solo hay una animación de carga, sino que cada anuncio tiene su propia descripción del negocio, y además hay una descripción adicional en la parte superior de los resultados patrocinados que menciona las marcas listadas con un enlace adicional a sus anuncios»."
               },
               {
                 "t": "p",
-                "x": "Hyejung Lee, responsable de alianzas de CTV, explicó que Moloco aplica a la pantalla de TV la AI de rendimiento que desarrolló en móviles, puja por espacios premium de TV según el valor previsto y mide el crecimiento incremental con pruebas de holdout. Hyunchae Lee, responsable de iniciativas estratégicas para APAC, señaló que los medios de comercio son uno de los canales de mayor crecimiento en las principales plataformas de Corea."
+                "x": "Ya lo habíamos visto en anuncios patrocinados y productos patrocinados, pero no estoy seguro de haber visto el resumen en la parte superior de los anuncios."
               }
             ]
           }

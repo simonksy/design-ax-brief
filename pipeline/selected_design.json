@@ -1,101 +1,102 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "section": "design",
+  "user_selection": null,
   "items": [
     {
-      "title": "Voice Chat with Agents",
-      "url": "https://cursor.com/changelog/voice-chat",
-      "source": "Cursor Changelog",
+      "title": "Claude can design electronic prototypes from start to finish",
+      "url": "https://www.anthropic.com/research/claude-electronics-design",
+      "source": "Anthropic",
+      "category": "cad",
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "published_iso": "2026-11-09T18:58:00+00:00",
+      "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b953cc611ebe78f0b84e996dd54a614efd38b3f4-2000x1125.jpg",
+      "excerpt": "Anthropic had Claude design three devices (speakerphone, voice-assistant hub, handheld virtual pet): specs, component selection, four-layer PCB routing, firmware and CAD-modeled 3D-printed enclosures; the prototypes worked without circuitry fixes.",
+      "rationale": "Primary-source demo of an AI carrying a hardware product from spec through PCB and CAD enclosure to working prototype, which matters directly to industrial and product designers."
+    },
+    {
+      "title": "Higgsfield Miracle promises real-time AI video editing, turning any clip into editable layers",
+      "url": "https://wccftech.com/higgsfield-miracle-promises-real-time-ai-video-editing-turning-any-clip-into-editable-layers/",
+      "source": "Wccftech",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "published_iso": "2026-11-09T15:00:00+00:00",
+      "og_image": "https://static.higgsfield.ai/higgsfield-miracle/og.webp",
+      "excerpt": "Higgsfield unveiled Miracle (private beta/waitlist): edit a clip while it plays by describing a change, modifying individual objects, lighting and textures as layers without regenerating the footage.",
+      "rationale": "A new product that edits video objects, lighting and textures as layers instead of regenerating the clip. The orchestrator assigned it to design only."
+    },
+    {
+      "title": "Instagram's Effect Builder makes new filters from AI prompts",
+      "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "source": "The Verge",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "published_iso": "2026-11-09T18:07:23+00:00",
+      "og_image": null,
+      "excerpt": "Instagram's new Effect Builder lets users generate custom Stories AR filters/effects from a text prompt, putting generative effect design in the hands of creators without Spark-style tooling.",
+      "rationale": "Instagram now builds AR effects from a text prompt instead of Spark-style tooling, a shift for creators and AR effect designers."
+    },
+    {
+      "title": "AI companies are offering architects six figures for CAD files; have you been approached?",
+      "url": "https://archinect.com/news/article/150573603/ai-companies-are-offering-architects-six-figures-for-cad-files-have-you-been-approached",
+      "source": "Archinect",
+      "category": "cad",
+      "tool": "Text-to-CAD",
+      "accent": "#3b6bff",
+      "motif": "cube",
+      "published_iso": "2026-11-09T14:22:00+00:00",
+      "og_image": "https://archinect.gumlet.io/uploads/12/12f0a1e3f6b1ca7ed44c81f94f64cc3a.jpg",
+      "excerpt": "AI firms are reportedly offering architecture practices six-figure sums for their CAD/BIM archives as training data, raising IP and client-confidentiality questions for design firms.",
+      "rationale": "Practices may soon need to decide whether to sell their CAD/BIM archives as training data, with IP and client-confidentiality stakes. This is a new angle the section has not covered."
+    },
+    {
+      "title": "Developers can now build with Google Maps Platform in AI Studio",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
+      "source": "Google Blog",
       "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "published_iso": "2026-11-06T00:00:00+00:00",
-      "og_image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/opengraph-default.png",
-      "excerpt": "Cursor adds realtime voice calls with agents on desktop, web and iOS: describe a change out loud, ask what an agent is doing and hear progress while the voice agent hands coding work to the chat agent ('Hey Siri, call Cursor').",
-      "rationale": "Primary-source release: designers who build with Cursor can now describe UI changes out loud and hear agent progress on desktop, web and iOS, without typing prompts."
-    },
-    {
-      "title": "Agent Harness: Definition",
-      "url": "https://www.nngroup.com/articles/agent-harness/",
-      "source": "Nielsen Norman Group",
-      "category": "tokens",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "published_iso": "2026-11-06T18:00:00+00:00",
-      "og_image": "https://media.nngroup.com/media/articles/opengraph_images/Agent-Harness_socialcard.png",
-      "excerpt": "NN/g defines the agent harness - the software loop between an AI model and its tools - and explains how its context, permissions and limits shape what users can actually do with an agent.",
-      "rationale": "NN/g gives UX teams a working definition of the agent harness, showing that context, permissions and limits, not just the model, decide what users can do with an agent."
-    },
-    {
-      "title": "Berrypicking still beats the single answer for search, even in the world of AI",
-      "url": "https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500",
-      "source": "UX Collective",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "published_iso": "2026-11-06T04:13:22+00:00",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*7nKkTkUX4iDwlOFBMtt4kg.png",
-      "excerpt": "Marcia Bates' 1989 berrypicking model explains what single-answer AI search still misses: people gather, shift and revise across sources - a design brief for AI search interfaces.",
-      "rationale": "A concrete brief for anyone designing AI search: users gather and revise across sources, so a single-answer interface should leave room to browse, compare and change direction."
-    },
-    {
-      "title": "Tell Your Story with Seedance 2.5 | Adobe Firefly",
-      "url": "https://www.youtube.com/watch?v=dGEv6re6uYI",
-      "source": "Adobe Firefly (YouTube)",
-      "category": "social",
-      "tool": "Social",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "published_iso": "2026-11-06T12:04:52-08:00",
-      "og_image": "https://i.ytimg.com/vi/dGEv6re6uYI/maxresdefault.jpg",
-      "excerpt": "Adobe announces ByteDance's Seedance 2.5 video model is now available inside Firefly, free to try. Seedance 2.5 itself launched earlier; the news is Firefly availability.",
-      "rationale": "New availability: Seedance 2.5 video generation now runs inside Firefly, free to try, so designers can use it without leaving the Adobe workflow they already use."
-    },
-    {
-      "title": "Native is a floor, not a ceiling",
-      "url": "https://uxdesign.cc/native-is-a-floor-not-a-ceiling-09bc4f27ddce",
-      "source": "UX Collective",
-      "category": "tokens",
-      "tool": "Design Tokens",
-      "accent": "#3b6bff",
-      "motif": "swatch",
-      "published_iso": "2026-11-06T04:12:27+00:00",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*tmilNueBY4CBfNN99ZX5vA.jpeg",
-      "excerpt": "With AI, a polished look costs nothing; native system components bring what can't be drawn and move with the platform (e.g. Liquid Glass) one step ahead of what imitates it.",
-      "rationale": "A practical design-system call: now that AI makes a polished custom look cheap, building on native platform components keeps behavior and platform updates such as Liquid Glass that imitations can't match."
+      "published_iso": "2026-11-09T17:00:00+00:00",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Studio_blog_social.width-1300.png",
+      "excerpt": "Google AI Studio's prompt-to-app builder now integrates Google Maps Platform, so vibe-coded apps can include interactive maps and location features generated from a description.",
+      "rationale": "AI Studio's prompt-to-app builder now generates live maps and location features, so designers can prototype location-based UIs from a single prompt."
     }
   ],
   "dedup": {
     "checks": {
-      "https://cursor.com/changelog/voice-chat": {
+      "https://www.anthropic.com/research/claude-electronics-design": {
         "verdict": "new",
-        "nearest": "https://cursor.com/changelog/build-live-apps",
+        "nearest": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
         "new_action": ""
       },
-      "https://www.nngroup.com/articles/agent-harness/": {
+      "https://wccftech.com/higgsfield-miracle-promises-real-time-ai-video-editing-turning-any-clip-into-editable-layers/": {
         "verdict": "new",
-        "nearest": "https://www.nngroup.com/articles/ux-agentic-software-factories/",
+        "nearest": "https://openai.com/index/higgsfield-longer-videos-voice",
         "new_action": ""
       },
-      "https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500": {
+      "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters": {
         "verdict": "new",
-        "nearest": "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.youtube.com/watch?v=dGEv6re6uYI": {
+      "https://archinect.com/news/article/150573603/ai-companies-are-offering-architects-six-figures-for-cad-files-have-you-been-approached": {
         "verdict": "new",
-        "nearest": "https://www.youtube.com/watch?v=W1IYLaWyL70",
+        "nearest": "",
         "new_action": ""
       },
-      "https://uxdesign.cc/native-is-a-floor-not-a-ceiling-09bc4f27ddce": {
+      "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/": {
         "verdict": "new",
-        "nearest": "https://uxdesign.cc/what-ai-has-changed-in-design-systems-and-what-is-still-up-to-us-d4e8e8f4ceb2",
+        "nearest": "https://www.engadget.com/2282824/google-lets-anyone-upload-android-apps-to-play-store-via-ai-studio/",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates or running stories: (1) CG Channel 'Chaos releases V-Ray 7.5 for 3ds Max' is part of the same V-Ray 7 Update 5 / Collection AI rollout (AI Assistant, Veras/Anima/Vantage updates) published 2026-11-07 (https://aecmag.com/visualisation/chaos-brings-ai-deeper-into-v-ray-collection/), so it adds no new release. (2) AEC Magazine 'Chaos/Enscape 4.22' covers the same Chaos AI rollout; the 11-08 curator also dropped it. (3) NVIDIA 'FLUX 3 Image Klein on Blackwell' is an optimization write-up about the model published 2026-10-16 (https://huggingface.co/blog/flux-3), with no new release; also dropped 11-08. (4) Figma YouTube 'design system documentation with the Figma agent' rehashes the 2026-10-24 Figma agent design-system piece; also dropped 11-08. Cross-section: exact-URL check against the published_urls.json movies block found neither YouTube candidate. The Seedance 2.5 model itself ran in movies (krea.ai 2026-07-10, cined.com) but the Firefly integration is a separate, new availability announcement, so I kept it as new. Not picked: Theoretically Media AI film workflow (filmmaking, belongs in movies), Field/Friedberg interview (commentary), UXC 'Otherwise you're just a machine' (third UXC essay; outlet cap of 2), and dev.to Awwwards-mcp (tool-author self-promotion). Diversity: 4 outlets (Cursor, NN/g, UX Collective x2, Adobe YouTube). Categories: figma, tokens x2 (the second has accent #3b6bff), workflow, social. Cursor's og_image is a site-wide default, so ax-media should source an in-article image."
+    "note": "Dropped by cross-section assignment: Disney x Adobe (Verge + Creative Bloq, cluster c0) is movies-only, and the Apple Creator Studio usage packs are music-only. Dropped as running-story repeats: Chaos V-Ray 7.5 and Corona 16 (cluster c9) both carry the Chaos AI Assistant already covered 2026-11-07 (aecmag 'Chaos brings AI deeper into V-Ray Collection'), and NVIDIA's FLUX 3 Klein optimization follows the FLUX.3 Klein card from 2026-10-16 with no new release. Not picked, all fresh: Claude Fable/Mythos 5.2 (a general model launch from the same outlet that overlaps the electronics pick, and possibly claimed by a sibling section), Automattic Spacefast (vibe-coding platform, lower design relevance), Caim-1 provenance camera, NVIDIA CoRL robotics (no design angle), the UXC typesetters opinion piece, and the anti-AI fish game (weak AI substance). Google Maps in AI Studio is a new integration, not the 2026-10-14 Play Store distribution story. Cross-section caution: the Claude electronics and Instagram Effect Builder picks were not in the orchestrator's assignment list, so check gadgets and marketing for clashes before roll."
   }
 }

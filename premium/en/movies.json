@@ -10509,6 +10509,162 @@
           "x": "Creators of four AI-assisted projects presented their work at the launch, among them Jerry Zhou, the creator of “God Being.”"
         }
       ]
+    },
+    "movies/framestore-sky-christmas-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/image/attached/1081755-skyxmsstill015-1280.jpg",
+          "cap": "That's Christmas Sorted"
+        },
+        {
+          "t": "p",
+          "x": "Framestore has partnered with Sky Creative and director Dave Meyers at RadicalMedia on \"That's Christmas Sorted,\" Sky's new Christmas campaign, combining CG environments and VFX with AI tools built into a traditional production pipeline. Framestore preserved the timing, movement and character of the live-action performances throughout."
+        },
+        {
+          "t": "p",
+          "x": "Working from Meyers' storyboards, the team paired traditional previs techniques with AI tools to explore camera moves, performance, shot timing and lensing. Framestore built 3D layouts for interior and exterior warehouse environments; digital matte painting and AI tools added detail, textures and lighting."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill006-1280.jpg?itok=lUnQRKXQ"
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill007-1280.jpg?itok=sF7sj9HF"
+        },
+        {
+          "t": "p",
+          "x": "To make the costumes appear to animate themselves, Framestore developed a character removal pipeline that combines traditional compositing with AI technology, plus bespoke CG keyframe animation for specific costumes."
+        },
+        {
+          "t": "p",
+          "x": "\"We integrated AI into our existing VFX pipeline in a way that gave us new creative possibilities without compromising the craft and control the work demands,\" said Framestore creative director and VFX supervisor Kamen Markov."
+        },
+        {
+          "t": "video",
+          "yt": "r3J9A5FSAIs"
+        }
+      ]
+    },
+    "movies/runway-realtime-batch-one": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png"
+        },
+        {
+          "t": "p",
+          "x": "Runway Characters can turn a single image into a live character you can talk to, and behind it is a roughly 57B-parameter autoregressive video diffusion transformer. At 24 frames per second (fps), that model has to generate a new four-frame chunk of 704x1088 video every 166.7ms, for one user at a time, for as long as the conversation lasts."
+        },
+        {
+          "t": "p",
+          "x": "Characters launched on eight H100s per session. On four, the launch software took 240.9ms per diffusion step; Runway's optimizations cut it to 159.3ms (24.5 fps sustained), so each session now runs in real time on four H100s. A fused communication kernel takes it to 147.4ms."
+        },
+        {
+          "t": "p",
+          "x": "Batching can't help: each session is a private, one-on-one stream needing 2.24 PFLOP/s of useful work. Cache upkeep, applied once at write time, fell from 69.7ms to 6.2ms per step."
+        },
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/image-1-9ec7fdc5-4e77-4178-8704-6574c6b7b80f.png",
+          "cap": "Cumulative waterfall of diffusion time per step."
+        },
+        {
+          "t": "p",
+          "x": "Over seven weeks of telemetry, the worker averaged above 23.5 fps in 99.5% of sessions. The median conversational turn took 2.13s, of which the voice agent accounted for 1.42s."
+        },
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/3-0d345623-81cb-40bb-9285-23d806d08d1d.png",
+          "cap": "Per-stage median turn latency."
+        }
+      ]
+    },
+    "movies/rotld-aftermath-ai-sequel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg?resize=1600%2C900&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "On October 31, Return of the Living Dead: Aftermath was quietly released by DragonFLIX. The film was even set to feature original cast members Linnea Quigley and Beverly Randolph — and it surprised them, as they appear in it without having actually filmed anything."
+        },
+        {
+          "t": "p",
+          "x": "While the movie is credited as “directed” by Richard Driscoll, nearly the entire film is comprised of AI-generated imagery and dialogue. Driscoll is also credited with having “written” the film."
+        },
+        {
+          "t": "p",
+          "x": "“It turned out to be a fiasco,” Quigley told the Caffeinated Horror Dude podcast. “I warned him, ‘Whatever you do, don’t do any AI, because people don’t like it, the fans don’t like it.’” Randolph added, “This is not what we signed up for.”"
+        },
+        {
+          "t": "p",
+          "x": "On Letterboxd, 95% of the current ratings are 1/2 star out of five."
+        }
+      ]
+    },
+    "movies/variety-ai-films-costlier-35mm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "AI is already slashing the cost of commercials, but runaway token fees and piecemeal revisions could leave feature producers paying more than in the days of 35mm film, Studio Meta-K founder and CEO Kim Kwang-jib told Taiwan Creative Content Fest (TCCF) in Taipei."
+        },
+        {
+          "t": "p",
+          "x": "With the most expensive commercial tools, he said, the token bill alone for a 100-minute film can top KRW500 million ($366,000). “If they raise token costs roughly tenfold… KRW500 million could become KRW5 billion ($3.66 million).”"
+        },
+        {
+          "t": "p",
+          "x": "With AI, every re-render is paid for again: 10 changes sent at once mean one extra pass, but the same 10 changes arriving one a day mean paying 10 times over. “Unless the preproduction stage is made solid, I think AI could end up spending even more money than in the 35mm film era,” he said."
+        },
+        {
+          "t": "p",
+          "x": "Lee Sang-wook, head of the AI Content Lab at MBC C&I, said tools change weekly; his lab’s 139-minute feature “Raphael” took around a year and four months and opens in Korean cinemas on Nov. 25."
+        },
+        {
+          "t": "p",
+          "x": "In advertising, Kim said costs can fall by more than 90%. For drama he favors a hybrid model with star actors, and predicted that “workers who have learned AI will replace workers who haven’t.”"
+        }
+      ]
+    },
+    "movies/nolan-dga-ai-studios": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Christopher-Nolan-speaking.jpg",
+          "cap": "Christopher Nolan speaks onstage at the DGA Theater Complex in Los Angeles. (Credit: Vivien Killilea/Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "Christopher Nolan applauded the Directors Guild of America (DGA) and the AMPTP for negotiating “excellent language and guardrails” against AI in film and TV production, but said the next hurdle in the fight against AI falls squarely on the studios’ shoulders."
+        },
+        {
+          "t": "p",
+          "x": "“We’re very focused at the guild about holding the studios to account for protecting their copyrights. We can’t do that,” Nolan, DGA president since fall 2025, said on the “Hollywood Insiders” podcast. “With very few exceptions in the guild, we are not the copyright holders of the films that we’ve worked on. It’s down to the studios to do that.”"
+        },
+        {
+          "t": "p",
+          "x": "“AI is too big a catchall term,” he said, adding that companies use it to absolve themselves of responsibility and that hiding behind fair use provisions “won’t hold up in court” longer term."
+        },
+        {
+          "t": "p",
+          "x": "Nolan said he was heartened that Universal included, “for the first time,” boilerplate in the credits of “The Odyssey” stating the film cannot be ingested, scraped or used as training data for generative AI models."
+        },
+        {
+          "t": "video",
+          "yt": "2rSkej6t_Eo"
+        },
+        {
+          "t": "p",
+          "x": "“For us, it’s a constant push towards litigation and legislation,” he said. “It’s really about not allowing people to steal your work and repurpose it.”"
+        }
+      ]
     }
   }
 }

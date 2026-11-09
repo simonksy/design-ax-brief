@@ -4041,6 +4041,133 @@
           "x": "3. Holiday-ready assets for YouTube:Google DeepMind更新后的视频生成模型Gemini Omni 1.2在Asset Studio中带来更强的一致性和更快的规模化视频制作,覆盖横版、竖版和方形比例。Max Hagler建议在前3秒内对两种不同的开场视觉钩子进行A/B测试。"
         }
       ]
+    },
+    "marketing/google-ads-mcp-write-tools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/google-ads-mcp-server-4-write-tools-read-only-vitrine-grabber-arm-locked-cash-register.jpg",
+          "cap": "Google Ads MCP服务器新增4个默认开启的写入工具，但其指南仍称它为read-only"
+        },
+        {
+          "t": "p",
+          "x": "Google于2026年11月2日发布开源Google Ads MCP服务器0.0.6版，首次在该项目的公开历史中加入能够修改Google Ads账户的工具。四个写入工具——create_asset、upload_video_asset、manage_labels和manage_label_associations——可创建资产、向YouTube上传视频并管理标签，每个工具都须先通过两步试运行和校验和。这些工具默认开启。"
+        },
+        {
+          "t": "p",
+          "x": "此次发布没有任何公告，而Google最后更新于10月30日的开发者集成指南仍将该服务器描述为严格的read-only。校验和只能证明参数未被改动，无法证明有人批准了这次修改。测试过该版本的瑞士顾问Thomas Wismer写道：“中间是否有人批准，服务器无从核实。”"
+        },
+        {
+          "t": "p",
+          "x": "0.0.6版仍无法创建或编辑广告系列、广告组或广告，无法更改预算、出价、出价策略或状态，无法添加关键词，也无法把新资产关联到广告系列。若要严格read-only部署，README建议在tools_config.yaml中设置labels: false和assets: false。"
+        }
+      ]
+    },
+    "marketing/meta-ai-ads-unapproved-discounts": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "近期报道发现，即使关闭了促销功能，人工智能驱动的广告工具仍向顾客发布了折扣优惠。"
+        },
+        {
+          "t": "p",
+          "x": "随着人工智能工具获得更多权限，需要建立新的规则，限制它们在执行某些任务时的能力。自动化错误也可能波及数字广告投放。PPC Land上周报道，Meta的AI-powered广告工具从一家店铺的网站抓取折扣信息，并展示在该商家的Facebook和Instagram广告中，“即使店铺已在被复制的广告上关闭了促销”。"
+        },
+        {
+          "t": "p",
+          "x": "这一问题由数字营销顾问Bram Van der Hallen发现：“Meta现在可能会自动识别你网站上的优惠，并用在你的Meta广告中。即使你在原始广告中关闭了这一选项也是如此。”他表示，可以通过更新Commerce Manager设置，阻止Meta在其他广告系列中使用识别到的优惠，从而控制这一问题。"
+        },
+        {
+          "t": "p",
+          "x": "PPC Land指出：“这对所有同时上线多项优惠、在Meta投放广告的商家都很重要，因为面向某个广告系列或某类受众的折扣可能出现在别处。”"
+        },
+        {
+          "t": "p",
+          "x": "Meta称，广告排序系统的改进使Facebook在Q2 2026的广告点击量增长超过8%，转化率提升15.7%。然而，随着越来越多的系统由AI主导，错误难以避免，广告主需要留意这些潜在问题。"
+        }
+      ]
+    },
+    "marketing/kbeauty-ai-fake-doctor-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i3n.news1.kr/system/photos/2026/9/8/8094291/high.jpg"
+        },
+        {
+          "t": "p",
+          "x": "由人工智能（AI）生成的假医生讲解化妆品功效、推荐使用产品的广告，将从本月底起成为法律明确禁止的对象。将于27日施行的修订版《化妆品法》第13条第1款第4项规定，禁止可能让消费者误以为由AI生成的虚拟医生、药师、大学教授等专家在推荐或担保化妆品的广告。"
+        },
+        {
+          "t": "p",
+          "x": "在广告制作中使用AI技术本身并未被禁止。判断标准在于，是否借助难以与真人区分的虚拟专家，使消费者可能误以为这是专家的推荐或担保。"
+        },
+        {
+          "t": "p",
+          "x": "韩国消费者院调查显示，从去年10月到今年6月，YouTube广告中共查出420件滥用AI的不当广告，其中化妆品广告72件（17.1%）。冒充专家的广告也多达153件。"
+        },
+        {
+          "t": "img",
+          "src": "https://image.news1.kr/system/photos/2026/11/9/8205385/high.jpg/dims/optimize",
+          "cap": "由人工智能（AI）生成的虚拟皮肤科专科医生宣传化妆品淡斑效果的不当广告案例。（相关部门联合资料）"
+        },
+        {
+          "t": "p",
+          "x": "主要美妆企业正在主动排查现有广告内容，并加强使用生成式AI营销的内部标注指南和事前审核流程。公平交易委员会已修订审查指南，自6月1日起要求虚拟人物推荐或担保商品的广告明确标注其为“虚拟人物”。"
+        }
+      ]
+    },
+    "marketing/google-ads-ai-summaries-test": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google正在测试在搜索广告中加入更多AI-generated摘要。这次测试在赞助结果分组上方显示AI-generated摘要，汇总所有广告主的全部广告，同时在每条广告描述下方也附上AI-generated摘要。"
+        },
+        {
+          "t": "p",
+          "x": "AI-generated摘要加载时，会出现加载动画，让人不至于无聊。"
+        },
+        {
+          "t": "p",
+          "x": "这一测试由Brodie Clark发现，他将其发布在X和SERP Alert上，以下是他的视频："
+        },
+        {
+          "t": "video",
+          "src": "https://images.seroundtable.com/v-google-ads-ai-generated-summaries-14TJkp0H.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Brodie写道：“Google在移动端的赞助结果正变得越来越生成化。这个例子不仅有加载动画，每条广告还有各自的商家描述，赞助结果顶部还另有一段描述，提及所列品牌名称，并附上指向其广告的额外链接。”"
+        },
+        {
+          "t": "p",
+          "x": "我们以前在赞助广告和赞助商品中见过这种形式，但不确定是否见过广告顶部的摘要。"
+        }
+      ]
+    },
+    "marketing/apple-patent-keyword-screenshots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/apple-patent-ai-app-screenshots-repainted-per-keyword-3-stable-diffusion-stage-maquette-backdrop-rolls.jpg",
+          "cap": "审查中的Apple专利保留标题和手机，按关键词重绘应用截图背景"
+        },
+        {
+          "t": "p",
+          "x": "Apple有一项待审的US专利申请US20250265066A1，于2025年8月21日公布，涉及这样一个系统：读取应用的营销图片或截图，保留其中的标题和手机，围绕关键词重新生成其余部分，再由评分模型筛选结果。ASO Patents网站于2026年11月5日发布解读后，这项申请再次受到关注。"
+        },
+        {
+          "t": "p",
+          "x": "遮罩引擎使用CenterNet检测模型和Segment Anything Model抠出前景。图像生成器“可实现stable diffusion模型的三种不同权重”，即一个inpainting模型、SDXL和一个微调模型，并配合关键词提示词以及“NSFW”“text”“logo”等负面提示词。"
+        },
+        {
+          "t": "p",
+          "x": "LXMERT-based图像选择器为每个候选图与关键词的匹配度打分，并过滤“AI幻觉”，选中的图像可用于商店产品页、网站或广告。从属权利要求6和7涵盖由应用本身自动生成的图像和关键词。"
+        },
+        {
+          "t": "p",
+          "x": "该专利尚未获批，也未落地。申请文件没有任何性能数据，也从未提及App Store、Apple Ads或App Store Connect，只称其为“在线软件应用商店”。"
+        }
+      ]
     }
   }
 }

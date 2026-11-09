@@ -10107,6 +10107,162 @@
           "x": "発表会では四つのAI-assistedプロジェクトの制作者が作品を紹介した。その中には「God Being」の制作者Jerry Zhouもいた。"
         }
       ]
+    },
+    "movies/framestore-sky-christmas-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/image/attached/1081755-skyxmsstill015-1280.jpg",
+          "cap": "That's Christmas Sorted"
+        },
+        {
+          "t": "p",
+          "x": "Framestoreは、Sky CreativeおよびRadicalMediaのDave Meyers監督と組み、Skyの新しいクリスマスキャンペーン「That's Christmas Sorted」を手がけた。CG環境とVFXに、従来の制作パイプラインに組み込んだAIツールを組み合わせている。Framestoreは全編を通じて実写の演技のタイミング、動き、キャラクター性を保った。"
+        },
+        {
+          "t": "p",
+          "x": "チームはMeyersの絵コンテをもとに、従来のプリビズ手法とAIツールを併用し、カメラワーク、演技、ショットのタイミング、レンズ選びを検討した。Framestoreは倉庫の屋内外環境の3D レイアウトを構築し、デジタルマットペインティングとAIツールでディテール、テクスチャ、ライティングを加えた。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill006-1280.jpg?itok=lUnQRKXQ"
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill007-1280.jpg?itok=sF7sj9HF"
+        },
+        {
+          "t": "p",
+          "x": "衣装がひとりでに動いて見えるように、Framestoreは従来のコンポジットとAI技術を組み合わせた人物除去パイプラインを開発し、特定の衣装には専用のCGキーフレームアニメーションも加えた。"
+        },
+        {
+          "t": "p",
+          "x": "「既存のVFXパイプラインにAIを組み込み、仕事に求められる技術とコントロールを損なわずに新たな創造の可能性を得た」と、Framestoreのクリエイティブディレクター兼VFXスーパーバイザー、Kamen Markovは語った。"
+        },
+        {
+          "t": "video",
+          "yt": "r3J9A5FSAIs"
+        }
+      ]
+    },
+    "movies/runway-realtime-batch-one": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png"
+        },
+        {
+          "t": "p",
+          "x": "Runway Charactersは一枚の画像を、会話できるライブキャラクターに変える。その裏にあるのは約57B-parameter の自己回帰型ビデオ拡散トランスフォーマーだ。毎秒24フレーム（fps）を保つには、会話が続く限り、ユーザー一人ずつに対して704x1088の新しい四フレームのチャンクを166.7ms ごとに生成しなければならない。"
+        },
+        {
+          "t": "p",
+          "x": "Charactersはセッションあたり八基のH100s でローンチした。四基では、ローンチ時のソフトウェアは拡散ステップあたり240.9ms かかったが、Runwayの最適化で159.3ms （24.5 fpsを維持）まで短縮し、各セッションは現在H100s 四基でリアルタイムに動く。通信を融合したカーネルを使えば147.4ms まで縮まる。"
+        },
+        {
+          "t": "p",
+          "x": "バッチ処理は役に立たない。各セッションは2.24 PFLOP/s の有効演算を要する、非公開の一対一ストリームだからだ。書き込み時に一度だけ適用するキャッシュ維持の時間は、ステップあたり69.7ms から6.2ms に減った。"
+        },
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/image-1-9ec7fdc5-4e77-4178-8704-6574c6b7b80f.png",
+          "cap": "ステップごとの拡散時間の累積ウォーターフォール。"
+        },
+        {
+          "t": "p",
+          "x": "七週間のテレメトリーでは、ワーカーは99.5%のセッションで平均23.5 fps超を維持した。会話ターンの中央値は2.13s で、うち1.42s を音声エージェントが占めた。"
+        },
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/3-0d345623-81cb-40bb-9285-23d806d08d1d.png",
+          "cap": "段階別のターン遅延の中央値。"
+        }
+      ]
+    },
+    "movies/rotld-aftermath-ai-sequel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg?resize=1600%2C900&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "十月31日、DragonFLIXがReturn of the Living Dead: Aftermathをひっそりと公開した。本作には初代キャストのLinnea QuigleyとBeverly Randolphまで登場する予定だったが、実際には何も撮影していないのに出演していたことに二人は驚いた。"
+        },
+        {
+          "t": "p",
+          "x": "本作はRichard Driscollの「監督」作品としてクレジットされているが、ほぼ全編がAI-generated の映像と台詞で構成されている。Driscollは「脚本」としてもクレジットされている。"
+        },
+        {
+          "t": "p",
+          "x": "「結局、大失敗に終わった」とQuigleyはCaffeinated Horror Dudeポッドキャストで語った。「彼には『何があってもAIだけは使わないで。みんな嫌がるし、ファンも嫌がるから』と警告した」。Randolphは「こんなことに同意したわけじゃない」と付け加えた。"
+        },
+        {
+          "t": "p",
+          "x": "Letterboxdでは、現在の評価の95%が五つ星中1/2だ。"
+        }
+      ]
+    },
+    "movies/variety-ai-films-costlier-35mm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "AIはすでにCM制作費を大きく削っているが、膨らむトークン料金と小出しの修正のせいで、長編のプロデューサーは35mm フィルム時代より多く支払うことになりかねない。Studio Meta-Kの創業者兼CEO、Kim Kwang-jibが台北のTaiwan Creative Content Fest（TCCF）でこう語った。"
+        },
+        {
+          "t": "p",
+          "x": "最も高価な商用ツールを使えば、100分の映画一本でトークン代だけでKRW500 million （$366,000）を超え得るという。「トークン代が約十倍に引き上げられれば…KRW500 million の費用がKRW5 billion （$3.66 million）にもなり得る」"
+        },
+        {
+          "t": "p",
+          "x": "AIでは再レンダリングのたびに費用がかかる。10件の修正を一度に送れば追加作業は一回で済むが、同じ10件が一日一件ずつ届けば10回分を払うことになる。「プリプロダクションの段階を固めない限り、AIは35mm フィルム時代以上にお金を使うことになりかねないと思う」と彼は述べた。"
+        },
+        {
+          "t": "p",
+          "x": "MBC C&IのAI Content Labを率いるLee Sang-wookは、ツールは毎週変わると話す。同ラボの139分の長編「Raphael」は制作に約一年四か月かかり、十一月25日に韓国の映画館で公開される。"
+        },
+        {
+          "t": "p",
+          "x": "広告ではコストを90%以上削減できるとKimは言う。ドラマについてはスター俳優を起用するハイブリッドモデルを支持し、「AIを学んだ労働者が、学んでいない労働者に取って代わる」と予測した。"
+        }
+      ]
+    },
+    "movies/nolan-dga-ai-studios": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Christopher-Nolan-speaking.jpg",
+          "cap": "ロサンゼルスのDGA Theater Complexで登壇するChristopher Nolan。(Credit: Vivien Killilea/Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "Christopher Nolanは、映画・TV制作におけるAIをめぐって「優れた文言とガードレール」を交渉で勝ち取ったDirectors Guild of America(DGA)とAMPTPを称賛した。一方で、AIとの闘いにおける次のハードルは完全にスタジオの肩にかかっていると述べた。"
+        },
+        {
+          "t": "p",
+          "x": "「ギルドでは、スタジオに自らの著作権を守る責任を果たさせることに強く注力している。我々にはそれができないからだ」。2025年秋からDGA会長を務めるNolanは、ポッドキャスト「Hollywood Insiders」でこう語った。「ギルドのごく一部の例外を除き、我々は自分が手がけた映画の著作権者ではない。それをするのはスタジオだ」"
+        },
+        {
+          "t": "p",
+          "x": "「AIはあまりにも大雑把な総称だ」と彼は述べ、企業がこの言葉を使って責任を逃れていること、フェアユース条項の陰に隠れるやり方は長期的には「法廷で通用しない」ことを付け加えた。"
+        },
+        {
+          "t": "p",
+          "x": "Nolanは、Universalが「初めて」『The Odyssey』のクレジットに、本作を生成AIモデルの学習データとして取り込み、スクレイピングし、利用することはできないとする定型文を入れたことに勇気づけられたと語った。"
+        },
+        {
+          "t": "video",
+          "yt": "2rSkej6t_Eo"
+        },
+        {
+          "t": "p",
+          "x": "「我々にとっては、訴訟と立法に向けた絶え間ない働きかけだ」と彼は言う。「要は、他人に作品を盗まれ、別の用途に転用されるのを許さないということだ」"
+        }
+      ]
     }
   }
 }

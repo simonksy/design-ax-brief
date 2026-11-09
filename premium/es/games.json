@@ -10421,6 +10421,153 @@
           "x": "La capacidad en tiempo real también se integra como una capa de streaming en Viewfinder, una aplicación web en beta cerrada que permite construir escenas fotograma a fotograma con Atlas. Por ahora, Frameboy debe ejecutarse en un potente servidor GPU en la nube y no es barato en comparación con los métodos de renderizado local."
         }
       ]
+    },
+    "games/innogames-genai-art-pipeline": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png"
+        },
+        {
+          "t": "p",
+          "x": "En este artículo invitado, Dario Berruti, jefe de arte de InnoGames, explica cómo el estudio detrás de Forge of Empires, Elvenar y Heroes of History adoptó la AI generativa en cinco etapas. Todo comenzó con una encuesta a los artistas, cuya principal preocupación era la estabilidad laboral; la dirección afirmó que el propósito de la AI es potenciar las habilidades de los artistas, no reemplazarlos."
+        },
+        {
+          "t": "p",
+          "x": "Los primeros experimentos funcionaron como un Pinterest acelerado para referencias y maquetas preliminares. El equipo apostó por Scenario, que se convirtió en su herramienta principal para iconos, retratos e ilustraciones pequeñas porque permite entrenar modelos personalizados con los propios recursos del estudio; ComfyUI se evaluó y se descartó."
+        },
+        {
+          "t": "p",
+          "x": "El punto de inflexión llegó en 2025 con Gemini y Flux. Los costos de externalización son ahora la mitad que en años anteriores, y la AI es parte integral del arte 2D y conceptual. Hoy el foco está en la automatización: flujos de trabajo basados en nodos, integraciones MCP y agentes. Los artistas usan Claude para tareas repetitivas y para escribir sus propios scripts y herramientas, y conectar Claude a Blender mediante su servidor MCP está abriendo nuevas posibilidades para el 3D."
+        },
+        {
+          "t": "p",
+          "x": "\"La AI ha cambiado cómo trabajamos. No ha cambiado quién hace el trabajo: nuestros artistas siguen en el centro de todo lo que creamos.\""
+        },
+        {
+          "t": "img",
+          "src": "https://mobidictum.com/wp-content/uploads/2026/11/Dario-Berruti-1024x684.png",
+          "cap": "Dario Berruti, jefe de arte de InnoGames"
+        }
+      ]
+    },
+    "games/automaton-ocarina-gemini-port": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ammaar Reshi, empleado de Google, publicó en X el 7 de noviembre que había ejecutado en un iPhone Duo el remake completo de The Legend of Zelda: Ocarina of Time utilizando Gemini 4. La publicación generó polémica y actualmente está eliminada."
+        },
+        {
+          "t": "p",
+          "x": "The Legend of Zelda: Ocarina of Time es un RPG de acción lanzado en 1998 para NINTENDO 64. Este remake completo renueva por completo los gráficos y añade voces a todas las cinemáticas, además de incorporar control libre de cámara, saltos y carreras, entre otros elementos; salió a la venta el 5 de noviembre para Nintendo Switch 2."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-header-1080x608.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El autor de la publicación es Ammaar Reshi, responsable de producto y diseño de \"Google AI Studio\" en Google. Explicó que lo hizo funcionar con \"Gemini 4\", la AI generativa de Google, y lo presentó como un logro basado en la tecnología de AI de su propia empresa."
+        },
+        {
+          "t": "p",
+          "x": "En las citas de la publicación se cuestionó no solo el acto de realizar un port no oficial, sino también que lo mostrara públicamente alguien que participa en el desarrollo de productos de AI de Google. La publicación ya fue eliminada, pero no se ha aclarado el motivo."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-002-1080x608.jpg"
+        }
+      ]
+    },
+    "games/plamo3-translate-gamer-tools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/ogp_f/1217054.png"
+        },
+        {
+          "t": "p",
+          "x": "La empresa japonesa de AI Preferred Networks (PFN) publicó el 5 de noviembre de 2026 \"PLaMo 3 Translate\", una AI especializada en traducción, como modelo de pesos abiertos de uso gratuito. Es la misma AI que funciona en el servicio de traducción de la compañía, \"PLaMo Translation\", y como opera por completo en el PC local sin conexión a internet, podría reducir mucho la barrera para la traducción voluntaria. La versión gratuita de DeepL tiene límites de uso, lo que provocaba interrupciones en las traducciones voluntarias que manejan de cientos a miles de líneas de texto de juegos."
+        },
+        {
+          "t": "p",
+          "x": "Sus principales características son un diseño ligero que funciona incluso en smartphones, sin límite de usos, compatibilidad con 53 idiomas, entre ellos el japonés y el inglés, uso personal gratuito y una función de terminología y estilo que permite fijar la traducción de nombres propios y elegir el registro."
+        },
+        {
+          "t": "p",
+          "x": "A los pocos días de la publicación del modelo, desarrolladores independientes lanzaron herramientas relacionadas una tras otra. El 7 de noviembre apareció \"sonoba\", una app residente para PC que sustituye en el momento el texto en inglés de la pantalla por japonés; según se indica, procesa los subtítulos en aproximadamente 1 segundo y las frases cortas en unos 0.2 segundos. También aparecieron la extensión de navegador \"PLaMo_Translate_EX\" y la app de escritorio \"plamo-translate-desktop\"."
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1217054.png",
+          "cap": "plamo-translate-desktop"
+        },
+        {
+          "t": "p",
+          "x": "Además, se publicó \"game-l10n-updater\", una herramienta de apoyo a la localización que traduce solo el texto añadido o modificado y verifica en la pantalla real si el texto traducido desborda los botones de la UI."
+        }
+      ]
+    },
+    "games/jackbox-human-made-pledge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo.png"
+        },
+        {
+          "t": "p",
+          "x": "En una visita reciente al Jackbox Games HQ, aquí en Chicago, pude hablar con desarrolladores y directivos del estudio sobre su proceso, su historia y su lugar en la industria. Dado, bueno, todo lo que está pasando, estoy prácticamente obligado por contrato a preguntar por la AI en conversaciones como esta. Esto es lo que dijo el CEO Mike Bilder sobre el tema:"
+        },
+        {
+          "t": "p",
+          "x": "\"Las personas son las que hacen este producto. La comedia, los textos y el arte, todo eso lo hacen personas, y no tenemos intención de cambiarlo. No creo que seamos expertos en lo que está pasando con la AI en la industria ni en nada de eso. Obviamente tiene usos para herramientas y para investigación, y [para] todo ese tipo de cosas [la AI es] increíblemente poderosa."
+        },
+        {
+          "t": "p",
+          "x": "\"Pero desde el punto de vista de los recursos generativos, no tenemos ninguna intención de reemplazar con ella a las personas, ni los textos y el arte hechos por personas.\""
+        },
+        {
+          "t": "p",
+          "x": "Por todo lo que habíamos hablado hasta ese momento, y por lo que Jackbox representa en general, no pensaba que la AI generativa estuviera realmente en los planes del estudio. Los juegos de Jackbox son relativamente ligeros desde el punto de vista técnico, mientras que el arte y los textos son su principal atractivo: si algo fuera notablemente AI-generated, pondría en duda el valor de todo el paquete."
+        },
+        {
+          "t": "p",
+          "x": "La compañía lanzó recientemente Jackbox Party Pack 12 el 14 de octubre, y Trivia Murder Party 3 hace un uso intensivo de gráficos 3D en tiempo real."
+        }
+      ]
+    },
+    "games/wardogs-ml-anticheat": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-2560-80.jpg",
+          "cap": "Wardogs"
+        },
+        {
+          "t": "p",
+          "x": "Con la Season 3 en el horizonte, Bulkhead ha abordado los errores que cometió en la Season 2 de Wardogs. El estudio cree que sus cambios fueron demasiado agresivos y que se dejó influir con demasiada facilidad por los jugadores más ruidosos, y afirma que ahora \"no acelerará correcciones para apaciguar a las voces más fuertes\"."
+        },
+        {
+          "t": "video",
+          "yt": "hr1uuC7BnSc"
+        },
+        {
+          "t": "p",
+          "x": "La Season 3 trae un nuevo mapa más urbano llamado Sabatulo; desbloqueos multipista, que permiten desbloquear cualquier objeto que un rol pueda usar jugando con ese rol; y un nuevo modo \"Limited\" que elimina las armas, armaduras y vehículos de nivel alto."
+        },
+        {
+          "t": "p",
+          "x": "También llega lo que Bulkhead describe como \"uno de los sistemas antitrampas más sofisticados del mundo\", creado \"analizando 187 millones de horas de juego con la ayuda de aprendizaje automático y AI\". El sistema entró en funcionamiento cuando se publicó el video Road to Season 3 y bloqueó 185,000 cuentas."
+        },
+        {
+          "t": "p",
+          "x": "\"Para entrenar nuestros modelos, necesitábamos dejar que los tramposos recorrieran el camino de pulir y ajustar sus trampas para poder ver cómo evolucionaban\", dice Joe Brammer, CEO de Bulkhead. Según él, el sistema no eliminará por completo a los tramposos, pero el estudio confía en que ofrecerá una mejor experiencia de juego cuando la Season 3 llegue el 12 de noviembre."
+        }
+      ]
     }
   }
 }

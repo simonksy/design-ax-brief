@@ -3733,6 +3733,122 @@
           "x": "研究由City St George's, University of London与University College London牵头，发表于The Lancet Digital Health。作者表示，结果支持在医生监督下以AI作为射血分数的一线测量手段，并有待前瞻性研究检验。"
         }
       ]
+    },
+    "medicine/aha-echo-ai-reading-time": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://iprsoftwaremedia.com/67/files/20143/53599f8bc8046712f4065d3a_heart%20with%20artery%20view/heart%20with%20artery%20view_hero.jpg?v=01ffdf01-5bde-4cd9-b76c-748d50ca8d91",
+          "cap": "可见动脉的心脏"
+        },
+        {
+          "t": "p",
+          "x": "据在芝加哥举行的American Heart Association Scientific Sessions 2026上公布的初步最新突破性研究，AI-generated（AI生成）的超声心动图解读在准确度上与超声技师和心脏科医生撰写的初步解读相当，并使心脏科医生解读每次扫描所需的时间减少近一半。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员表示，这是首个测试AI工具撰写完整超声心动图报告的随机试验。AI工具、一名超声技师和一名心脏科医生分别为同样的1,200份超声心动图撰写初步报告，随后由心脏科医生在不知道初稿出自谁手的情况下定稿。"
+        },
+        {
+          "t": "p",
+          "x": "心脏科医生对50.6%的AI-generated初步解读做了实质性修改，而对超声技师和心脏科医生撰写的解读，这一比例为49.7%，达到非劣效性标准。他们处理AI初稿时每份超声心动图平均耗时4.6分钟，没有AI辅助时为8.5分钟，节省约46%的时间。"
+        },
+        {
+          "t": "p",
+          "x": "来自Kaiser Permanente的共同资深作者Keane K. Lee, M.D., M.S.表示：“不过，AI无法取代人类团队。”该研究在21家Kaiser Permanente Northern California医疗中心开展，是一份未经同行评审的研究摘要。"
+        }
+      ]
+    },
+    "medicine/previa-ptsd-llm-ed": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "创伤后应激障碍影响众多急诊出院后的创伤幸存者，但急诊医生时间极为紧张，现有筛查工具难以实际使用。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig1_HTML.png",
+          "cap": "Fig. 1: PREVIA示意概览。"
+        },
+        {
+          "t": "p",
+          "x": "NYU Langone Health的研究人员推出PREVIA——一个融入临床知识的大语言模型集成系统。它从患者对ED常规诊疗问题“是什么让你来到ED？”的非结构化创伤叙述中，提取早期创伤后应激症状、围创伤期症状以及风险与保护因素，从而预测PTSD风险。"
+        },
+        {
+          "t": "p",
+          "x": "研究在New York City两家level-1 创伤中心纳入N = 145名患者，均在创伤后24小时内入组、一个月后接受PTSD评估；PREVIA预测PTSD的AUROC = 78.49%，敏感度 = 95.4%。在随机选取的30名患者中，其表现与PTSD-specialist（PTSD专科）急诊临床医生相当（PREVIA：AUROC = 84.39%，敏感度 = 100.00%；临床医生：AUROC = 83.86%，敏感度 = 88.89%）。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig4_HTML.png",
+          "cap": "Fig. 4: 将PREVIA的三层LLM集成应用于合成ED创伤叙述的示例：PTSD病例。"
+        },
+        {
+          "t": "p",
+          "x": "PREVIA还能在不增加临床负担的情况下生成可解释的说明；作者表示，这些结果有待在更大规模的独立队列中验证。"
+        }
+      ]
+    },
+    "medicine/arpah-advocate-fda-meetings": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://endpoints.news/wp-content/uploads/2023/12/digital-health-concept-shutterstock-social.jpg"
+        },
+        {
+          "t": "p",
+          "x": "参与ARPA-H的Advocate项目的多个团队已与FDA举行首次信息沟通会，距这一临床AI项目启动还不到两个月。"
+        },
+        {
+          "t": "p",
+          "x": "项目经理Haider Warraich表示，这些团队的目标是在两年内提交自主AI心力衰竭器械。"
+        }
+      ]
+    },
+    "medicine/hospital-writeoffs-132b-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/rROIhynOGeISwdRSBvkGIZ-XipswoQZVgG4QyBmVii8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQyMjU5NzM0LmpwZw==.webp",
+          "cap": "Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "营收周期分析公司Kodiak Solutions的新报告显示，去年医院因坏账和最终理赔拒付而核销的金额合计约1320亿美元，较2024年增长近18%，核销额约占净收入的百分之十。"
+        },
+        {
+          "t": "p",
+          "x": "尽管营收周期技术预算持续上升——据Forrester统计，今年增长7.6%，达到690亿美元——且越来越多的AI工具（包括用于事先授权等任务的新兴智能体AI）承诺改善医院财务表现，核销额仍在增加。"
+        },
+        {
+          "t": "p",
+          "x": "Kodiak研究人员表示，医疗机构可能没有“充分区分运营营收周期所需的技术与优化财务表现所需的能力”。Peterson Health Technology Institute的一份报告发现，在支付方与医疗机构展开AI军备竞赛之际，用于事先授权的AI尚未在整个系统层面降低成本。"
+        }
+      ]
+    },
+    "medicine/cleerly-paramount-trial": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cleerly.com/hubfs/press-release/aha-2026_pr_paramount-aha-results.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Cleerly在芝加哥举行的美国心脏协会(AHA)Scientific Sessions 2026上，以Late-Breaking Science形式公布了PARAMOUNT的主要结果。这是首个将AI-QCT指导诊疗(AI-QCT-guided care)与常规诊疗进行比较的随机试验。与基于负荷试验的常规诊疗相比，基于AI的定量冠状动脉CT分析(AI-based quantitative coronary CT analysis，AI-QCT)指导的诊疗提高了诊断确定性，并使更多患者接受降脂治疗。"
+        },
+        {
+          "t": "p",
+          "x": "2025年1月至2026年2月间，21个中心的530名疑似冠状动脉疾病且LDL-C升高(≥100 mg/dL)的受试者被随机分组。初步结果基于523名受试者，其中女性占57%。"
+        },
+        {
+          "t": "p",
+          "x": "“PARAMOUNT表明，当我们直接测量斑块并据此指导诊疗时，医生能获得更明确的答案，患者开始预防治疗的可能性也大得多，”共同主要研究者Todd C. Villines, MD表示。基于斑块的诊疗使转诊至导管室的患者中无阻塞性CAD者显著减少，且未增加导管检查或血运重建的总体比例。"
+        },
+        {
+          "t": "p",
+          "x": "该结果尚未经过同行评审，应视为初步结果；完整结果预计于2027年初发表。"
+        }
+      ]
     }
   }
 }

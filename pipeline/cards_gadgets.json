@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "section": "gadgets",
   "cards": [
     {
-      "id": "alexa-tablet-12pro-android",
+      "id": "caim1-provenance-camera",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Amazon Fire 퇴장\nAlexa Tablets로",
-      "body": "Amazon Fire가 Android-based Alexa Tablets가 됐다.",
-      "mini_headline": "Fire가 Android로",
+      "headline": "모든 사진에 센서가\n서명하는 시제품 카메라",
+      "body": "CAIM1은 AI 조작에 맞서 센서 단계에서 사진마다 암호 출처 증명을 심는다.",
+      "mini_headline": "센서에서 사진에\n서명하는 카메라",
       "tool": "Gadgets",
-      "source": "The Gadgeteer",
-      "url": "https://the-gadgeteer.com/2026/11/08/amazons-alexa-tablet-12-pro-ditches-fire-os-for-real-android-at-499-99/",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2307723/caim-1-camera-fighting-against-ai-photography/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,221 +19,239 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-hero.jpg"
+            "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/intro-1793382637.jpg",
+            "cap": "갈색·황갈색 3D 프린팅 Noctua 카메라 케이스가 갈색 나무 테이블 위에 앞면을 위로 하고 놓여 있다."
           },
           {
             "t": "p",
-            "x": "Amazon은 10월 Fire 태블릿이라는 이름을 버리고 라인업 전체를 Alexa Tablets로 바꿨다. 새 태블릿은 Android로 돌아가 Google Play Store를 온전히 쓸 수 있고, 전 제품에 Alexa+가 기본으로 들어간다."
+            "x": "Josh Cowell이 설립한 CAIM1(Counter Artificial Intelligence Machine 1)은 사진이 진짜임을 증명하는 암호 증거를 이미지에 바로 심는 시제품 카메라를 만들고 있다. 내부 칩이 칩 고유의 실리콘 지문을 만들어 사진을 언제, 어디서, 어떤 카메라로 찍었는지 인증하고, 이 정보를 고유한 익명 블록체인 서명과 묶는다."
           },
           {
             "t": "p",
-            "x": "주력은 Alexa Tablet 12 Pro다. Graphite 색상에 8GB RAM, 128GB 저장공간 모델이 $499.99부터이고, Nanomatte 버전은 $549.99다. 12-inch 화면은 인치당 280픽셀, 120Hz 주사율, 3:2 비율이다. 배터리는 동영상 재생 기준 16시간으로 표기된다. Pro Pen($89.99)과 Pro Keyboard($149.99)까지 갖추면 12 Pro는 업무용 기기가 된다."
-          },
-          {
-            "t": "video",
-            "yt": "4aW5ARKEQOs"
+            "x": "유럽의회(European Parliament) 보고서는 소셜미디어 딥페이크가 2023년 이후 반년마다 두 배씩 늘어 2025년 약 800만 건에 이른 것으로 추산했다. CAIM1은 주력 카메라를 2027년 1분기에 내놓을 계획이다."
           },
           {
             "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-detail.jpg"
+            "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/how-caim1-combats-deepfakes-1793382638.jpg",
+            "cap": "CAIM1 카메라 케이스의 뒷면."
           },
           {
             "t": "p",
-            "x": "Alexa Tablet 11은 $329.99, Alexa Tablet 8은 $229.99부터 시작한다. $99짜리 Fire는 없어졌다."
+            "x": "인증은 Tropic Square의 Tropic01 칩에서 시작하는데, 이 칩은 \"세계 최초의 감사 가능한 보안 요소\"다. 검증 정보는 \"변경 불가능한 탈중앙화 인프라\"에 저장된다. 카메라는 QR 코드와 블록체인 참조 번호, 날짜, 시간, 위치를 담은 실물 영수증도 뽑아 준다. Cowell은 경쟁사들이 \"사용자에게 단일 기업의 폐쇄 생태계를 맹목적으로 믿으라고 요구한다\"고 말한다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/innovations-beyond-authentication-1793382640.jpg",
+            "cap": "앞쪽 마운트에서 렌즈를 분리한 CAIM1 카메라."
           },
           {
             "t": "p",
-            "x": "남은 변수는 Alexa+다. Alexa+가 화면을 읽고 그에 맞춰 움직이는 On-Screen Intelligence 기능은 기본값이 꺼짐이라 사용자가 직접 켜야 하고, 작동 중에는 화면에 표시가 뜬다. 첫 리뷰들은 하드웨어와 화면을 호평했지만 멀티태스킹은 약점으로 꼽았다."
+            "x": "CAIM1은 CPU와 센서를 진동 없이 식히려고 Noctua와 손잡고 NF-A4x10 능동 냉각 시스템을 넣었다. 4K 영상을 찍고 액션 스포츠를 겨냥하며, 렌즈를 직접 골라 끼우는 Bring-Your-Own-Lens 설계를 택했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Amazon trades Fire tablets\nfor Android Alexa Tablets",
-          "body": "Amazon replaced Fire tablets with Android-based Alexa Tablets, led by a $499.99 12 Pro with Alexa+ built in.",
-          "mini_headline": "Fire tablets\nbecome Android",
+          "headline": "A prototype camera signs\nevery photo at the sensor",
+          "body": "The CAIM1 camera embeds cryptographic proof of origin into each photo at the sensor, a hardware answer to AI fakes.",
+          "mini_headline": "Camera signs photos\nat the sensor",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-hero.jpg"
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/intro-1793382637.jpg",
+                "cap": "A brown and tan 3D-printed Noctua camera casing sits face up on a brown wooden table."
               },
               {
                 "t": "p",
-                "x": "Amazon retired the Fire tablet name in October and replaced the whole line with Alexa Tablets. The new tablets run Android with the full Google Play Store, and Alexa+ is built into every one of them."
+                "x": "CAIM1 (Counter Artificial Intelligence Machine 1), founded by Josh Cowell, is working on a prototype camera that embeds cryptographic proof of a photo's authenticity directly into the image. Its internal chip creates a unique silicon fingerprint that certifies when, where, and with which camera the photo was taken, tied to a unique, anonymous blockchain signature."
               },
               {
                 "t": "p",
-                "x": "Alexa Tablet 12 Pro is the flagship. It starts at $499.99 with 8GB of RAM and 128GB of storage in Graphite, and the Nanomatte version runs $549.99. Its 12-inch screen runs at 280 pixels per inch with a 120Hz refresh rate and a 3:2 shape, and battery is rated at 16 hours of video playback. Pro Pen costs $89.99 and Pro Keyboard costs $149.99; together, the three pieces turn the 12 Pro into a work machine."
-              },
-              {
-                "t": "video",
-                "yt": "4aW5ARKEQOs"
+                "x": "Social media deepfakes have doubled every six months since 2023, reaching an estimated 8 million in 2025, according to a European Parliament report. CAIM1 expects its flagship camera to be released in the first quarter of 2027."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-detail.jpg"
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/how-caim1-combats-deepfakes-1793382638.jpg",
+                "cap": "The back of the CAIM1 camera case."
               },
               {
                 "t": "p",
-                "x": "The Alexa Tablet 11 starts at $329.99 and the Alexa Tablet 8 at $229.99. The $99 Fire is gone."
+                "x": "Authentication starts with Tropic Square's Tropic01 chip, the \"world's first auditable secure element.\" Verification is stored on an \"immutable decentralized infrastructure,\" and the camera can print a physical receipt with a QR code, blockchain reference number, date, time and location. Cowell says competitors require \"users to place blind faith in a single corporate entity's closed ecosystem.\""
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/innovations-beyond-authentication-1793382640.jpg",
+                "cap": "A CAIM1 camera with its lens detached from the front mount."
               },
               {
                 "t": "p",
-                "x": "Alexa+ is the open question. On-Screen Intelligence, the feature that lets Alexa+ look at your display and act on it, is opt-in and off by default, with an indicator on screen while it's live. First reviews praise the hardware and the screens, and call the multitasking the weak spot."
+                "x": "To cool its CPU and sensor without vibration, CAIM1 partnered with Noctua on an NF-A4x10 active-cooling system. The camera shoots 4K video, targets action sports and uses a Bring-Your-Own-Lens design."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Amazon Fire 퇴장\nAlexa Tablets로",
-          "body": "Amazon Fire가 Android-based Alexa Tablets가 됐다.",
-          "mini_headline": "Fire가 Android로",
+          "headline": "모든 사진에 센서가\n서명하는 시제품 카메라",
+          "body": "CAIM1은 AI 조작에 맞서 센서 단계에서 사진마다 암호 출처 증명을 심는다.",
+          "mini_headline": "센서에서 사진에\n서명하는 카메라",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-hero.jpg"
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/intro-1793382637.jpg",
+                "cap": "갈색·황갈색 3D 프린팅 Noctua 카메라 케이스가 갈색 나무 테이블 위에 앞면을 위로 하고 놓여 있다."
               },
               {
                 "t": "p",
-                "x": "Amazon은 10월 Fire 태블릿이라는 이름을 버리고 라인업 전체를 Alexa Tablets로 바꿨다. 새 태블릿은 Android로 돌아가 Google Play Store를 온전히 쓸 수 있고, 전 제품에 Alexa+가 기본으로 들어간다."
+                "x": "Josh Cowell이 설립한 CAIM1(Counter Artificial Intelligence Machine 1)은 사진이 진짜임을 증명하는 암호 증거를 이미지에 바로 심는 시제품 카메라를 만들고 있다. 내부 칩이 칩 고유의 실리콘 지문을 만들어 사진을 언제, 어디서, 어떤 카메라로 찍었는지 인증하고, 이 정보를 고유한 익명 블록체인 서명과 묶는다."
               },
               {
                 "t": "p",
-                "x": "주력은 Alexa Tablet 12 Pro다. Graphite 색상에 8GB RAM, 128GB 저장공간 모델이 $499.99부터이고, Nanomatte 버전은 $549.99다. 12-inch 화면은 인치당 280픽셀, 120Hz 주사율, 3:2 비율이다. 배터리는 동영상 재생 기준 16시간으로 표기된다. Pro Pen($89.99)과 Pro Keyboard($149.99)까지 갖추면 12 Pro는 업무용 기기가 된다."
-              },
-              {
-                "t": "video",
-                "yt": "4aW5ARKEQOs"
+                "x": "유럽의회(European Parliament) 보고서는 소셜미디어 딥페이크가 2023년 이후 반년마다 두 배씩 늘어 2025년 약 800만 건에 이른 것으로 추산했다. CAIM1은 주력 카메라를 2027년 1분기에 내놓을 계획이다."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-detail.jpg"
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/how-caim1-combats-deepfakes-1793382638.jpg",
+                "cap": "CAIM1 카메라 케이스의 뒷면."
               },
               {
                 "t": "p",
-                "x": "Alexa Tablet 11은 $329.99, Alexa Tablet 8은 $229.99부터 시작한다. $99짜리 Fire는 없어졌다."
+                "x": "인증은 Tropic Square의 Tropic01 칩에서 시작하는데, 이 칩은 \"세계 최초의 감사 가능한 보안 요소\"다. 검증 정보는 \"변경 불가능한 탈중앙화 인프라\"에 저장된다. 카메라는 QR 코드와 블록체인 참조 번호, 날짜, 시간, 위치를 담은 실물 영수증도 뽑아 준다. Cowell은 경쟁사들이 \"사용자에게 단일 기업의 폐쇄 생태계를 맹목적으로 믿으라고 요구한다\"고 말한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/innovations-beyond-authentication-1793382640.jpg",
+                "cap": "앞쪽 마운트에서 렌즈를 분리한 CAIM1 카메라."
               },
               {
                 "t": "p",
-                "x": "남은 변수는 Alexa+다. Alexa+가 화면을 읽고 그에 맞춰 움직이는 On-Screen Intelligence 기능은 기본값이 꺼짐이라 사용자가 직접 켜야 하고, 작동 중에는 화면에 표시가 뜬다. 첫 리뷰들은 하드웨어와 화면을 호평했지만 멀티태스킹은 약점으로 꼽았다."
+                "x": "CAIM1은 CPU와 센서를 진동 없이 식히려고 Noctua와 손잡고 NF-A4x10 능동 냉각 시스템을 넣었다. 4K 영상을 찍고 액션 스포츠를 겨냥하며, 렌즈를 직접 골라 끼우는 Bring-Your-Own-Lens 설계를 택했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AmazonがFire廃止\nAlexa Tabletsへ",
-          "body": "Amazon FireはAndroid-basedのAlexa Tabletsに替わった。",
-          "mini_headline": "FireがAndroidに",
+          "headline": "全写真にセンサーで\n署名する試作カメラ",
+          "body": "CAIM1カメラはAIの偽造に対抗し、センサー段階で各写真に出所の暗号証明を埋め込む。",
+          "mini_headline": "センサーで写真に\n署名するカメラ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-hero.jpg"
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/intro-1793382637.jpg",
+                "cap": "茶色と黄褐色の3Dプリント製Noctuaカメラケースが、茶色の木製テーブルの上に正面を上にして置かれている。"
               },
               {
                 "t": "p",
-                "x": "Amazonは10月にFireタブレットの名称を廃止し、ラインアップ全体をAlexa Tabletsに置き換えた。新しいタブレットはGoogle Play Storeをフルに使えるAndroidで動作し、全機種にAlexa+が組み込まれている。"
+                "x": "Josh Cowellが創業したCAIM1(Counter Artificial Intelligence Machine 1)は、写真の真正性を示す暗号証明を画像に直接埋め込む試作カメラを開発している。内蔵チップは固有のシリコン指紋を生成し、写真がいつ、どこで、どのカメラで撮影されたかを証明する。この情報は固有の匿名ブロックチェーン署名にひも付けられる。"
               },
               {
                 "t": "p",
-                "x": "旗艦モデルはAlexa Tablet 12 Proだ。Graphiteで8GB RAM、128GB ストレージの構成が$499.99からで、Nanomatte版は$549.99。12-inchの画面は280ピクセル/インチ、リフレッシュレート120Hz、縦横比3:2で、バッテリーは動画再生で16時間とされる。Pro Penは$89.99、Pro Keyboardは$149.99で、この三つを揃えれば12 Proは仕事用のマシンになる。"
-              },
-              {
-                "t": "video",
-                "yt": "4aW5ARKEQOs"
+                "x": "欧州議会(European Parliament)の報告書によると、ソーシャルメディア上のディープフェイクは2023年以降半年ごとに倍増し、2025年には推計800万件に達した。CAIM1は旗艦カメラを2027年第1四半期に発売する見込みだ。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-detail.jpg"
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/how-caim1-combats-deepfakes-1793382638.jpg",
+                "cap": "CAIM1カメラケースの背面。"
               },
               {
                 "t": "p",
-                "x": "Alexa Tablet 11は$329.99から、Alexa Tablet 8は$229.99からだ。$99のFireは姿を消した。"
+                "x": "認証はTropic SquareのTropic01チップから始まる。同チップは「世界初の監査可能なセキュアエレメント」だという。検証情報は「改ざん不可能な分散型インフラ」に保存され、カメラはQRコード、ブロックチェーン参照番号、日付、時刻、位置情報を記した紙のレシートを印刷できる。Cowellは、競合製品は「単一企業の閉じたエコシステムを盲目的に信頼することをユーザーに求めている」と語る。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/innovations-beyond-authentication-1793382640.jpg",
+                "cap": "前面マウントからレンズを外したCAIM1カメラ。"
               },
               {
                 "t": "p",
-                "x": "未知数なのはAlexa+だ。Alexa+が画面を見てそれに基づいて操作できる機能On-Screen Intelligenceはオプトイン方式で、初期設定はオフ、作動中は画面にインジケーターが表示される。初期レビューはハードウェアと画面を高く評価する一方、マルチタスクを弱点に挙げている。"
+                "x": "CAIM1はCPUとセンサーを振動なく冷却するため、Noctuaと組んでNF-A4x10のアクティブ冷却システムを採用した。カメラは4K 動画を撮影でき、アクションスポーツを想定し、Bring-Your-Own-Lens方式を採る。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon告别Fire\n平板改用Android",
-          "body": "Amazon将Fire平板换成Android-based的Alexa Tablets。",
-          "mini_headline": "Fire改用Android",
+          "headline": "原型相机在传感器端\n为每张照片签名",
+          "body": "CAIM1相机在传感器层面为每张照片嵌入加密来源证明，以硬件应对AI伪造。",
+          "mini_headline": "传感器为照片\n签名的相机",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-hero.jpg"
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/intro-1793382637.jpg",
+                "cap": "一个棕色与棕褐色相间的3D打印Noctua相机外壳正面朝上放在棕色木桌上。"
               },
               {
                 "t": "p",
-                "x": "Amazon在10月停用Fire平板这一名称，将整条产品线换成Alexa Tablets。新平板运行Android，完整支持Google Play Store，每一款都内置Alexa+。"
+                "x": "由Josh Cowell创立的CAIM1（Counter Artificial Intelligence Machine 1）正在开发一款原型相机，可将证明照片真实性的加密证据直接嵌入图像。其内置芯片会生成独特的硅指纹，证明照片拍摄的时间、地点和所用相机，并与一个独特的匿名区块链签名绑定。"
               },
               {
                 "t": "p",
-                "x": "旗舰机型是Alexa Tablet 12 Pro。Graphite配色、8GB RAM加128GB 存储的版本起价$499.99，Nanomatte版本为$549.99。12-inch 屏幕像素密度为每英寸280像素，刷新率120Hz，比例3:2，电池续航标称可播放视频16小时。Pro Pen售价$89.99，Pro Keyboard售价$149.99；三者搭配，12 Pro就成了一台工作机器。"
-              },
-              {
-                "t": "video",
-                "yt": "4aW5ARKEQOs"
+                "x": "欧洲议会（European Parliament）的一份报告显示，社交媒体上的深度伪造内容自2023年以来每半年翻一番，2025年估计达到800万条。CAIM1预计其旗舰相机将于2027年第一季度发布。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-detail.jpg"
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/how-caim1-combats-deepfakes-1793382638.jpg",
+                "cap": "CAIM1相机外壳背面。"
               },
               {
                 "t": "p",
-                "x": "Alexa Tablet 11起价$329.99，Alexa Tablet 8起价$229.99。$99的Fire已经消失。"
+                "x": "认证从Tropic Square的Tropic01芯片开始，这是“全球首个可审计的安全元件”。验证信息存储在“不可篡改的去中心化基础设施”上，相机还能打印一张实体凭据，上面印有QR码、区块链参考编号、日期、时间和地点。Cowell表示，竞争对手要求“用户盲目信任单一企业的封闭生态系统”。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/innovations-beyond-authentication-1793382640.jpg",
+                "cap": "从前置卡口上取下镜头的CAIM1相机。"
               },
               {
                 "t": "p",
-                "x": "悬而未决的是Alexa+。On-Screen Intelligence功能可让Alexa+查看屏幕内容并据此操作，它需要用户主动开启，默认关闭，运行时屏幕上会显示指示标识。首批评测称赞硬件和屏幕，并指出多任务处理是短板。"
+                "x": "为了在无振动的情况下为CPU和传感器散热，CAIM1与Noctua合作采用了NF-A4x10主动散热系统。这款相机可拍摄4K 视频，面向极限运动，并采用Bring-Your-Own-Lens（自带镜头）设计。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Amazon cambia sus tabletas Fire\npor Alexa Tablets con Android",
-          "body": "Amazon reemplazó las Fire por Alexa Tablets Android-based, lideradas por el 12 Pro de $499.99 con Alexa+.",
-          "mini_headline": "Las Fire pasan a Android",
+          "headline": "Una cámara prototipo firma\ncada foto desde el sensor",
+          "body": "La cámara CAIM1 inserta desde el sensor una prueba criptográfica de origen en cada foto contra los engaños de IA.",
+          "mini_headline": "Una cámara que firma\nfotos en el sensor",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-hero.jpg"
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/intro-1793382637.jpg",
+                "cap": "Una carcasa de cámara Noctua impresa en 3D, en tonos marrón y canela, boca arriba sobre una mesa de madera marrón."
               },
               {
                 "t": "p",
-                "x": "Amazon retiró en octubre el nombre Fire de sus tabletas y sustituyó toda la línea por las Alexa Tablets. Las nuevas tabletas funcionan con Android y la Google Play Store completa, y todas llevan Alexa+ integrado."
+                "x": "CAIM1 (Counter Artificial Intelligence Machine 1), fundada por Josh Cowell, trabaja en una cámara prototipo que integra directamente en la imagen una prueba criptográfica de la autenticidad de la foto. Su chip interno crea una huella de silicio única que certifica cuándo, dónde y con qué cámara se tomó la foto, vinculada a una firma de blockchain única y anónima."
               },
               {
                 "t": "p",
-                "x": "El Alexa Tablet 12 Pro es el modelo insignia. Parte de $499.99 con 8GB de RAM y 128GB de almacenamiento en Graphite, y la versión Nanomatte cuesta $549.99. Su pantalla de 12 pulgadas (12-inch) tiene 280 píxeles por pulgada, una tasa de refresco de 120Hz y formato 3:2, y la batería ofrece 16 horas de reproducción de video. El Pro Pen cuesta $89.99 y el Pro Keyboard, $149.99; juntos, los tres convierten al 12 Pro en una máquina de trabajo."
-              },
-              {
-                "t": "video",
-                "yt": "4aW5ARKEQOs"
+                "x": "Según un informe del Parlamento Europeo, los deepfakes en redes sociales se han duplicado cada seis meses desde 2023 y alcanzaron unos 8 millones estimados en 2025. CAIM1 prevé lanzar su cámara insignia en el primer trimestre de 2027."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-detail.jpg"
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/how-caim1-combats-deepfakes-1793382638.jpg",
+                "cap": "La parte trasera de la carcasa de la cámara CAIM1."
               },
               {
                 "t": "p",
-                "x": "El Alexa Tablet 11 parte de $329.99 y el Alexa Tablet 8, de $229.99. El Fire de $99 desaparece."
+                "x": "La autenticación empieza con el chip Tropic01 de Tropic Square, el \"primer elemento seguro auditable del mundo\". La verificación se almacena en una \"infraestructura descentralizada inmutable\", y la cámara puede imprimir un recibo físico con un código QR, el número de referencia de blockchain, la fecha, la hora y la ubicación. Cowell afirma que los competidores exigen que \"los usuarios depositen una fe ciega en el ecosistema cerrado de una sola entidad corporativa\"."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/innovations-beyond-authentication-1793382640.jpg",
+                "cap": "Una cámara CAIM1 con el objetivo separado de la montura frontal."
               },
               {
                 "t": "p",
-                "x": "La gran incógnita es Alexa+. On-Screen Intelligence, la función que permite a Alexa+ ver la pantalla y actuar sobre ella, es opcional y viene desactivada por defecto, con un indicador en pantalla mientras está activa. Las primeras reseñas elogian el hardware y las pantallas, y señalan la multitarea como el punto débil."
+                "x": "Para refrigerar su CPU y su sensor sin vibraciones, CAIM1 se asoció con Noctua en un sistema de refrigeración activa NF-A4x10. La cámara graba video en 4K, está pensada para deportes de acción y usa un diseño Bring-Your-Own-Lens."
               }
             ]
           }
@@ -241,153 +259,165 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Amazon Fire 퇴장\nAlexa Tablets로",
-          "body": "Amazon Fire가 Android-based Alexa Tablets가 됐다.",
-          "mini_headline": "Fire가 Android로",
+          "headline": "모든 사진에 센서가\n서명하는 시제품 카메라",
+          "body": "CAIM1 카메라는 AI 조작에 맞서 센서에서 사진마다 암호 출처 증명을 심는다.",
+          "mini_headline": "센서에서 사진에\n서명하는 카메라",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-hero.jpg"
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/intro-1793382637.jpg",
+                "cap": "갈색과 황갈색의 3D 프린팅 Noctua 카메라 케이스가 갈색 나무 테이블 위에 앞면을 위로 한 채 놓여 있다."
               },
               {
                 "t": "p",
-                "x": "Amazon은 10월 Fire 태블릿이라는 이름을 버리고 라인업 전체를 Alexa Tablets로 바꿨다. 새 태블릿은 Google Play Store를 온전히 쓸 수 있는 Android로 돌아가고, 모든 제품에 Alexa+가 기본으로 들어간다."
+                "x": "Josh Cowell이 설립한 CAIM1(Counter Artificial Intelligence Machine 1)은 사진의 진위를 증명하는 암호 증거를 이미지에 직접 심는 시제품 카메라를 개발하고 있다. 내부 칩은 고유한 실리콘 지문을 만들어 사진이 언제, 어디서, 어떤 카메라로 찍혔는지 인증하며, 이 정보는 고유한 익명 블록체인 서명과 연결된다."
               },
               {
                 "t": "p",
-                "x": "주력 제품은 Alexa Tablet 12 Pro다. Graphite 색상에 8GB RAM, 128GB 저장공간을 갖춘 모델이 $499.99부터 시작하고, Nanomatte 버전은 $549.99다. 12-inch 화면은 인치당 280픽셀에 120Hz 주사율, 3:2 비율이며, 배터리는 동영상 재생 기준 16시간으로 표기된다. Pro Pen은 $89.99, Pro Keyboard는 $149.99이고, 세 가지를 함께 쓰면 12 Pro는 업무용 기기가 된다."
-              },
-              {
-                "t": "video",
-                "yt": "4aW5ARKEQOs"
+                "x": "유럽의회(European Parliament) 보고서에 따르면 소셜미디어 딥페이크는 2023년 이후 반년마다 두 배로 늘어 2025년에는 약 800만 건에 이른 것으로 추산된다. CAIM1은 주력 카메라를 2027년 1분기에 출시할 계획이다."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-detail.jpg"
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/how-caim1-combats-deepfakes-1793382638.jpg",
+                "cap": "CAIM1 카메라 케이스의 뒷면."
               },
               {
                 "t": "p",
-                "x": "Alexa Tablet 11은 $329.99, Alexa Tablet 8은 $229.99부터다. $99짜리 Fire는 사라졌다."
+                "x": "인증은 Tropic Square의 Tropic01 칩에서 시작한다. 이 칩은 \"세계 최초의 감사 가능한 보안 요소\"다. 검증 정보는 \"변경 불가능한 탈중앙화 인프라\"에 저장되며, 카메라는 QR 코드와 블록체인 참조 번호, 날짜, 시간, 위치가 담긴 실물 영수증을 출력할 수 있다. Cowell은 경쟁사들이 \"사용자에게 단일 기업의 폐쇄 생태계를 맹목적으로 믿으라고 요구한다\"고 말한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/innovations-beyond-authentication-1793382640.jpg",
+                "cap": "앞쪽 마운트에서 렌즈를 분리한 CAIM1 카메라."
               },
               {
                 "t": "p",
-                "x": "남은 질문은 Alexa+다. Alexa+가 화면을 보고 그에 따라 동작하게 하는 On-Screen Intelligence 기능은 사용자가 직접 켜야 하고 기본값은 꺼짐이며, 작동하는 동안에는 화면에 표시가 뜬다. 첫 리뷰들은 하드웨어와 화면을 호평했고, 멀티태스킹을 약점으로 꼽았다."
+                "x": "CAIM1은 CPU와 센서를 진동 없이 식히기 위해 Noctua와 손잡고 NF-A4x10 능동 냉각 시스템을 적용했다. 카메라는 4K 영상을 찍고, 액션 스포츠를 겨냥하며, 렌즈를 직접 골라 끼우는 Bring-Your-Own-Lens 설계를 채택했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AmazonがFire廃止\nAlexa Tabletsへ",
-          "body": "Amazon FireはAndroid-basedのAlexa Tabletsに替わった。",
-          "mini_headline": "FireがAndroidに",
+          "headline": "全写真にセンサーで\n署名する試作カメラ",
+          "body": "CAIM1カメラはAIの偽造に対抗し、センサー段階で各写真に出所の暗号証明を埋め込む。",
+          "mini_headline": "センサーで写真に\n署名するカメラ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-hero.jpg"
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/intro-1793382637.jpg",
+                "cap": "茶色と黄褐色の3Dプリント製Noctuaカメラケースが、茶色の木製テーブルの上に正面を上にして置かれている。"
               },
               {
                 "t": "p",
-                "x": "Amazonは10月にFireタブレットの名称を廃止し、ラインアップ全体をAlexa Tabletsに置き換えた。新しいタブレットはGoogle Play Storeをフルに使えるAndroidで動作し、全機種にAlexa+が組み込まれている。"
+                "x": "Josh Cowellが創業したCAIM1(Counter Artificial Intelligence Machine 1)は、写真の真正性を示す暗号証明を画像に直接埋め込む試作カメラを開発している。内蔵チップは固有のシリコン指紋を生成し、写真がいつ、どこで、どのカメラで撮影されたかを証明する。この情報は固有の匿名ブロックチェーン署名にひも付けられる。"
               },
               {
                 "t": "p",
-                "x": "旗艦モデルはAlexa Tablet 12 Proだ。Graphiteで8GB RAM、128GB ストレージの構成が$499.99からで、Nanomatte版は$549.99。12-inchの画面は280ピクセル/インチ、リフレッシュレート120Hz、縦横比3:2で、バッテリーは動画再生で16時間とされる。Pro Penは$89.99、Pro Keyboardは$149.99で、この三つを揃えれば12 Proは仕事用のマシンになる。"
-              },
-              {
-                "t": "video",
-                "yt": "4aW5ARKEQOs"
+                "x": "欧州議会(European Parliament)の報告書によると、ソーシャルメディア上のディープフェイクは2023年以降半年ごとに倍増し、2025年には推計800万件に達した。CAIM1は旗艦カメラを2027年第1四半期に発売する見込みだ。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-detail.jpg"
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/how-caim1-combats-deepfakes-1793382638.jpg",
+                "cap": "CAIM1カメラケースの背面。"
               },
               {
                 "t": "p",
-                "x": "Alexa Tablet 11は$329.99から、Alexa Tablet 8は$229.99からだ。$99のFireは姿を消した。"
+                "x": "認証はTropic SquareのTropic01チップから始まる。同チップは「世界初の監査可能なセキュアエレメント」だという。検証情報は「改ざん不可能な分散型インフラ」に保存され、カメラはQRコード、ブロックチェーン参照番号、日付、時刻、位置情報を記した紙のレシートを印刷できる。Cowellは、競合製品は「単一企業の閉じたエコシステムを盲目的に信頼することをユーザーに求めている」と語る。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/innovations-beyond-authentication-1793382640.jpg",
+                "cap": "前面マウントからレンズを外したCAIM1カメラ。"
               },
               {
                 "t": "p",
-                "x": "未知数なのはAlexa+だ。Alexa+が画面を見てそれに基づいて操作できる機能On-Screen Intelligenceはオプトイン方式で、初期設定はオフ、作動中は画面にインジケーターが表示される。初期レビューはハードウェアと画面を高く評価する一方、マルチタスクを弱点に挙げている。"
+                "x": "CAIM1はCPUとセンサーを振動なく冷却するため、Noctuaと組んでNF-A4x10のアクティブ冷却システムを採用した。カメラは4K 動画を撮影でき、アクションスポーツを想定し、Bring-Your-Own-Lens方式を採る。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon告别Fire\n平板改用Android",
-          "body": "Amazon将Fire平板换成Android-based的Alexa Tablets。",
-          "mini_headline": "Fire改用Android",
+          "headline": "原型相机在传感器端\n为每张照片签名",
+          "body": "CAIM1相机在传感器层面为每张照片嵌入加密来源证明，以硬件应对AI伪造。",
+          "mini_headline": "传感器为照片\n签名的相机",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-hero.jpg"
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/intro-1793382637.jpg",
+                "cap": "一个棕色与棕褐色相间的3D打印Noctua相机外壳正面朝上放在棕色木桌上。"
               },
               {
                 "t": "p",
-                "x": "Amazon在10月停用Fire平板这一名称，将整条产品线换成Alexa Tablets。新平板运行Android，完整支持Google Play Store，每一款都内置Alexa+。"
+                "x": "由Josh Cowell创立的CAIM1（Counter Artificial Intelligence Machine 1）正在开发一款原型相机，可将证明照片真实性的加密证据直接嵌入图像。其内置芯片会生成独特的硅指纹，证明照片拍摄的时间、地点和所用相机，并与一个独特的匿名区块链签名绑定。"
               },
               {
                 "t": "p",
-                "x": "旗舰机型是Alexa Tablet 12 Pro。Graphite配色、8GB RAM加128GB 存储的版本起价$499.99，Nanomatte版本为$549.99。12-inch 屏幕像素密度为每英寸280像素，刷新率120Hz，比例3:2，电池续航标称可播放视频16小时。Pro Pen售价$89.99，Pro Keyboard售价$149.99；三者搭配，12 Pro就成了一台工作机器。"
-              },
-              {
-                "t": "video",
-                "yt": "4aW5ARKEQOs"
+                "x": "欧洲议会（European Parliament）的一份报告显示，社交媒体上的深度伪造内容自2023年以来每半年翻一番，2025年估计达到800万条。CAIM1预计其旗舰相机将于2027年第一季度发布。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-detail.jpg"
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/how-caim1-combats-deepfakes-1793382638.jpg",
+                "cap": "CAIM1相机外壳背面。"
               },
               {
                 "t": "p",
-                "x": "Alexa Tablet 11起价$329.99，Alexa Tablet 8起价$229.99。$99的Fire已经消失。"
+                "x": "认证从Tropic Square的Tropic01芯片开始，这是“全球首个可审计的安全元件”。验证信息存储在“不可篡改的去中心化基础设施”上，相机还能打印一张实体凭据，上面印有QR码、区块链参考编号、日期、时间和地点。Cowell表示，竞争对手要求“用户盲目信任单一企业的封闭生态系统”。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/innovations-beyond-authentication-1793382640.jpg",
+                "cap": "从前置卡口上取下镜头的CAIM1相机。"
               },
               {
                 "t": "p",
-                "x": "悬而未决的是Alexa+。On-Screen Intelligence功能可让Alexa+查看屏幕内容并据此操作，它需要用户主动开启，默认关闭，运行时屏幕上会显示指示标识。首批评测称赞硬件和屏幕，并指出多任务处理是短板。"
+                "x": "为了在无振动的情况下为CPU和传感器散热，CAIM1与Noctua合作采用了NF-A4x10主动散热系统。这款相机可拍摄4K 视频，面向极限运动，并采用Bring-Your-Own-Lens（自带镜头）设计。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Amazon cambia sus tabletas Fire\npor Alexa Tablets con Android",
-          "body": "Amazon reemplazó las Fire por Alexa Tablets Android-based, lideradas por el 12 Pro de $499.99 con Alexa+.",
-          "mini_headline": "Las Fire pasan a Android",
+          "headline": "Una cámara prototipo firma\ncada foto desde el sensor",
+          "body": "La cámara CAIM1 inserta desde el sensor una prueba criptográfica de origen en cada foto contra los engaños de IA.",
+          "mini_headline": "Una cámara que firma\nfotos en el sensor",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-hero.jpg"
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/intro-1793382637.jpg",
+                "cap": "Una carcasa de cámara Noctua impresa en 3D, en tonos marrón y canela, boca arriba sobre una mesa de madera marrón."
               },
               {
                 "t": "p",
-                "x": "Amazon retiró en octubre el nombre Fire de sus tabletas y sustituyó toda la línea por las Alexa Tablets. Las nuevas tabletas funcionan con Android y la Google Play Store completa, y todas llevan Alexa+ integrado."
+                "x": "CAIM1 (Counter Artificial Intelligence Machine 1), fundada por Josh Cowell, trabaja en una cámara prototipo que integra directamente en la imagen una prueba criptográfica de la autenticidad de la foto. Su chip interno crea una huella de silicio única que certifica cuándo, dónde y con qué cámara se tomó la foto, vinculada a una firma de blockchain única y anónima."
               },
               {
                 "t": "p",
-                "x": "El Alexa Tablet 12 Pro es el modelo insignia. Parte de $499.99 con 8GB de RAM y 128GB de almacenamiento en Graphite, y la versión Nanomatte cuesta $549.99. Su pantalla de 12 pulgadas (12-inch) tiene 280 píxeles por pulgada, una tasa de refresco de 120Hz y formato 3:2, y la batería ofrece 16 horas de reproducción de video. El Pro Pen cuesta $89.99 y el Pro Keyboard, $149.99; juntos, los tres convierten al 12 Pro en una máquina de trabajo."
-              },
-              {
-                "t": "video",
-                "yt": "4aW5ARKEQOs"
+                "x": "Según un informe del Parlamento Europeo, los deepfakes en redes sociales se han duplicado cada seis meses desde 2023 y alcanzaron unos 8 millones estimados en 2025. CAIM1 prevé lanzar su cámara insignia en el primer trimestre de 2027."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-detail.jpg"
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/how-caim1-combats-deepfakes-1793382638.jpg",
+                "cap": "La parte trasera de la carcasa de la cámara CAIM1."
               },
               {
                 "t": "p",
-                "x": "El Alexa Tablet 11 parte de $329.99 y el Alexa Tablet 8, de $229.99. El Fire de $99 desaparece."
+                "x": "La autenticación empieza con el chip Tropic01 de Tropic Square, el \"primer elemento seguro auditable del mundo\". La verificación se almacena en una \"infraestructura descentralizada inmutable\", y la cámara puede imprimir un recibo físico con un código QR, el número de referencia de blockchain, la fecha, la hora y la ubicación. Cowell afirma que los competidores exigen que \"los usuarios depositen una fe ciega en el ecosistema cerrado de una sola entidad corporativa\"."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/innovations-beyond-authentication-1793382640.jpg",
+                "cap": "Una cámara CAIM1 con el objetivo separado de la montura frontal."
               },
               {
                 "t": "p",
-                "x": "La gran incógnita es Alexa+. On-Screen Intelligence, la función que permite a Alexa+ ver la pantalla y actuar sobre ella, es opcional y viene desactivada por defecto, con un indicador en pantalla mientras está activa. Las primeras reseñas elogian el hardware y las pantallas, y señalan la multitarea como el punto débil."
+                "x": "Para refrigerar su CPU y su sensor sin vibraciones, CAIM1 se asoció con Noctua en un sistema de refrigeración activa NF-A4x10. La cámara graba video en 4K, está pensada para deportes de acción y usa un diseño Bring-Your-Own-Lens."
               }
             ]
           }
@@ -395,421 +425,321 @@
       }
     },
     {
-      "id": "arm-neural-dawn-framegen",
+      "id": "meta-muse-applewatch",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Neural Dawn이\n폰에 AI 프레임 생성",
-      "body": "Neural Dawn은 Mali G2 Ultra GPU로 AI 프레임을 만든다.",
-      "mini_headline": "폰에도 AI 프레임 생성",
+      "headline": "Meta Muse 에이전트\nApple Watch 진출",
+      "body": "Muse 앱이 Apple Watch를 지원해 손목에서 문자·음성·통화로 부른다.",
+      "mini_headline": "Meta Muse,\nApple Watch로",
       "tool": "Gadgets",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/arm-neural-dawn-hands-on-3731282/",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/09/meta-muse-apple-watch/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-game-main-menu-scaled.jpg",
-            "cap": "Robert Triggs / Android Authority"
+            "src": "https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg",
+            "cap": "Apple Watch의 Muse"
           },
           {
             "t": "p",
-            "x": "Arm은 개발사 Sumo Digital과 함께 Neural Dawn을 만들었다. Unreal Engine의 MegaLights ray-traced 조명을 쓰도록 설계한 가벼운 플랫포머 게임이다. 스마트폰에서 돌아가도록 Arm의 Neural Super Sampling and Denoising(NSSD)과 Neural Frame Rate Upscaling(NFRU)을 쓴다. Arm Mali G2 Ultra NX GPU가 있어야 해서, 지금 지원하는 칩셋은 MediaTek Dimensity 9600 Pro 하나다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Screenshot-4.jpg"
-          },
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Arm-Mali-G2-Ultra-neural-accelerator.jpg",
-            "cap": "Arm"
+            "x": "Meta가 오늘 iOS용 Muse 앱을 업데이트해 Apple Watch 지원을 추가했다. Muse 사용자는 이제 워치에서도 능동형 AI 에이전트를 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "NFRU는 GPU에서 도는 AI 신경망으로 기본 렌더링 프레임마다 보간 프레임을 하나씩 끼워 넣어, 30 FPS 게임을 60 FPS로 출력한다. NSSD는 저해상도 이미지를 업스케일하면서(Arm은 540p에서 1080p로 올리는 예를 들었다) anti-aliasing과 ray-traced 조명의 노이즈 제거까지 맡는다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Performance-Graph.jpg",
-            "cap": "Robert Triggs / Android Authority"
+            "x": "워치 앱에는 Muse 캐릭터가 뜨고, 문자를 보내거나 음성으로 받아쓰거나 전화를 걸 수 있다. 바로 불러낼 수 있는 Muse 컴플리케이션도 있다."
           },
           {
             "t": "p",
-            "x": "OPPO Find X10 Pro Max에서 게임은 평균 59.8 FPS, 1% 저점 57.2 FPS를 냈고, 온도는 약 18분 뒤 37.7°C로 정점을 찍었다. 대가도 따른다. 카메라를 돌리면 캐릭터 주변에 모션 고스팅이 생기고 이따금 조작이 늦게 먹힌다. 필자는 업스케일링이 모바일이 콘솔급·PC-quality(PC급) 그래픽에 다가갈 가장 좋은 길이라고 본다."
+            "x": "Muse는 사용자 대신 일을 처리하는 Meta의 개인 AI 에이전트다. 독립 앱으로 나와 있고 Instagram, Facebook 등 다른 Meta 앱에도 들어가 있다. Meta가 Muse의 상징으로 디자인한 예티 닮은 캐릭터는 인기를 끌었는데, Apple Watch에서도 화면 한가운데를 차지한다."
+          },
+          {
+            "t": "p",
+            "x": "워치 앱 디자인은 Meta가 9월 보조 기기로 발표한 Muse Charm과 닮았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Neural Dawn brings AI\nframe generation to phones",
-          "body": "Neural Dawn runs Arm's AI upscaling and frame generation on the Mali G2 Ultra GPU in Dimensity 9600 Pro phones.",
-          "mini_headline": "Phones get\nAI frame-gen",
+          "headline": "Meta's Muse AI agent\narrives on Apple Watch",
+          "body": "Meta's Muse iOS app now supports Apple Watch, letting users text, dictate to or call the AI agent from the wrist.",
+          "mini_headline": "Meta Muse lands\non Apple Watch",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-game-main-menu-scaled.jpg",
-                "cap": "Robert Triggs / Android Authority"
+                "src": "https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg",
+                "cap": "Muse on Apple Watch"
               },
               {
                 "t": "p",
-                "x": "Arm worked with developer Sumo Digital to create Neural Dawn, a light platforming title built to use Unreal Engine's MegaLights ray-traced lighting. It leverages Arm's Neural Super Sampling and Denoising (NSSD) and Neural Frame Rate Upscaling (NFRU) to run on a smartphone. It needs an Arm Mali G2 Ultra NX GPU, making the MediaTek Dimensity 9600 Pro the only chipset that currently supports it."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Screenshot-4.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Arm-Mali-G2-Ultra-neural-accelerator.jpg",
-                "cap": "Arm"
+                "x": "Meta today updated the Muse app for iOS to add Apple Watch support, which means Muse users can access the proactive AI agent from the watch."
               },
               {
                 "t": "p",
-                "x": "NFRU uses an AI neural network on the GPU to generate an interpolated frame for every natively rendered one, so a game running at 30 FPS outputs 60 FPS. NSSD upscales a low-resolution image (Arm highlighted 540p to 1080p) while also handling anti-aliasing and denoising ray-traced lighting."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Performance-Graph.jpg",
-                "cap": "Robert Triggs / Android Authority"
+                "x": "The app adds the Muse character to the watch with an option to text it, dictate text to it, or call it. There's also a Muse complication for quick access."
               },
               {
                 "t": "p",
-                "x": "On the OPPO Find X10 Pro Max, the game averaged 59.8 FPS, with 1% lows at 57.2 FPS, and temperatures peaked at 37.7°C after around 18 minutes. The trade-offs: motion ghosting around the character while turning the camera, and occasional control latency. Upscaling, the author concludes, is mobile's best shot at console- and PC-quality graphics."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Neural Dawnが\nスマホにAIフレーム生成",
-          "body": "Neural DawnはMali G2 Ultra GPUでAIフレーム生成を動かす。",
-          "mini_headline": "スマホにAIフレーム生成",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-game-main-menu-scaled.jpg",
-                "cap": "Robert Triggs / Android Authority"
+                "x": "Muse is Meta's personal AI agent that can complete tasks for users. It is available as a standalone app and is also built into Instagram, Facebook, and other Meta apps. The yeti-like character Meta designed to represent Muse has become popular, and it is front and center on the Apple Watch."
               },
               {
                 "t": "p",
-                "x": "ArmはデベロッパーのSumo Digitalと組み、Unreal EngineのMegaLightsによるレイトレーシング照明を使う軽量プラットフォーマー、Neural Dawnを制作した。ArmのNeural Super Sampling and Denoising(NSSD)とNeural Frame Rate Upscaling(NFRU)を活用し、スマートフォン上で動作する。Arm Mali G2 Ultra NX GPUが必要で、現時点で対応するチップセットはMediaTek Dimensity 9600 Proのみだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Screenshot-4.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Arm-Mali-G2-Ultra-neural-accelerator.jpg",
-                "cap": "Arm"
-              },
-              {
-                "t": "p",
-                "x": "NFRUはGPU上のAIニューラルネットワークを使い、ネイティブにレンダリングした各フレームに対して補間フレームを生成する。これにより30 FPSで動くゲームが60 FPSで出力される。NSSDは低解像度の画像をアップスケールしつつ(Armは540pから1080pへの例を示した)、anti-aliasingとレイトレーシング照明のノイズ除去も担う。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Performance-Graph.jpg",
-                "cap": "Robert Triggs / Android Authority"
-              },
-              {
-                "t": "p",
-                "x": "OPPO Find X10 Pro Maxでは平均59.8 FPS、1%低値は57.2 FPSで、温度は約18分後に最高37.7°Cに達した。トレードオフとして、カメラを回すとキャラクターの周囲にモーションゴーストが出るほか、ときおり操作の遅延も生じる。筆者は、アップスケーリングこそモバイルがコンソールやPC品質(PC-quality)のグラフィックスに迫る最善の手段だと結論づけている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Neural Dawn\n让手机用上AI帧生成",
-          "body": "Neural Dawn在Mali G2 Ultra GPU上运行Arm的AI超分与帧生成。",
-          "mini_headline": "手机迎来AI帧生成",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-game-main-menu-scaled.jpg",
-                "cap": "Robert Triggs / Android Authority"
-              },
-              {
-                "t": "p",
-                "x": "Arm与开发商Sumo Digital合作打造了Neural Dawn，这是一款轻量平台跳跃游戏，专为使用Unreal Engine的MegaLights光线追踪照明而设计。它借助Arm的Neural Super Sampling and Denoising（NSSD）和Neural Frame Rate Upscaling（NFRU）在智能手机上运行。游戏需要Arm Mali G2 Ultra NX GPU，因此MediaTek Dimensity 9600 Pro是目前唯一支持它的芯片组。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Screenshot-4.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Arm-Mali-G2-Ultra-neural-accelerator.jpg",
-                "cap": "Arm"
-              },
-              {
-                "t": "p",
-                "x": "NFRU利用GPU上的AI神经网络，为每一帧原生渲染画面生成一帧插值画面，使以30 FPS运行的游戏输出60 FPS。NSSD在放大低分辨率图像的同时（Arm举的例子是从540p到1080p），还负责anti-aliasing以及光线追踪照明的降噪。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Performance-Graph.jpg",
-                "cap": "Robert Triggs / Android Authority"
-              },
-              {
-                "t": "p",
-                "x": "在OPPO Find X10 Pro Max上，游戏平均帧率为59.8 FPS，1% low为57.2 FPS，运行约18分钟后温度最高达到37.7°C。代价是：转动镜头时角色周围会出现运动残影，操作偶尔有延迟。作者的结论是，超分辨率是移动设备接近主机和PC级（PC-quality）画质的最佳途径。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Neural Dawn lleva la generación\nde fotogramas con IA al móvil",
-          "body": "Neural Dawn usa el escalado y la generación de fotogramas de Arm en la GPU Mali G2 Ultra del Dimensity 9600 Pro.",
-          "mini_headline": "El móvil genera fotogramas con IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-game-main-menu-scaled.jpg",
-                "cap": "Robert Triggs / Android Authority"
-              },
-              {
-                "t": "p",
-                "x": "Arm trabajó con el estudio Sumo Digital para crear Neural Dawn, un juego de plataformas ligero pensado para aprovechar la iluminación con trazado de rayos MegaLights de Unreal Engine. Recurre a Neural Super Sampling and Denoising (NSSD) y Neural Frame Rate Upscaling (NFRU) de Arm para funcionar en un smartphone. Necesita una GPU Arm Mali G2 Ultra NX, por lo que el MediaTek Dimensity 9600 Pro es por ahora el único chipset compatible."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Screenshot-4.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Arm-Mali-G2-Ultra-neural-accelerator.jpg",
-                "cap": "Arm"
-              },
-              {
-                "t": "p",
-                "x": "NFRU usa una red neuronal de inteligencia artificial (AI) en la GPU para generar un fotograma interpolado por cada uno renderizado de forma nativa, de modo que un juego a 30 FPS se muestra a 60 FPS. NSSD escala una imagen de baja resolución (Arm destacó el paso de 540p a 1080p) y a la vez se encarga del anti-aliasing y de eliminar el ruido de la iluminación con trazado de rayos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Performance-Graph.jpg",
-                "cap": "Robert Triggs / Android Authority"
-              },
-              {
-                "t": "p",
-                "x": "En el OPPO Find X10 Pro Max, el juego promedió 59.8 FPS, con mínimos del 1% en 57.2 FPS, y la temperatura alcanzó un máximo de 37.7°C tras unos 18 minutos. Las contrapartidas: efecto fantasma alrededor del personaje al girar la cámara y cierta latencia ocasional en los controles. El autor concluye que el escalado es la mejor opción del móvil para lograr gráficos de calidad de consola y PC (PC-quality)."
+                "x": "The watch app design is similar to the Muse Charm Meta announced as a companion device in September."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Neural Dawn이\n폰에 AI 프레임 생성",
-          "body": "Neural Dawn은 Mali G2 Ultra GPU로 AI 프레임을 만든다.",
-          "mini_headline": "폰에도 AI 프레임 생성",
+          "headline": "Meta Muse 에이전트\nApple Watch 진출",
+          "body": "Muse 앱이 Apple Watch를 지원해 손목에서 문자·음성·통화로 부른다.",
+          "mini_headline": "Meta Muse,\nApple Watch로",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-game-main-menu-scaled.jpg",
-                "cap": "Robert Triggs / Android Authority"
+                "src": "https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg",
+                "cap": "Apple Watch의 Muse"
               },
               {
                 "t": "p",
-                "x": "Arm은 개발사 Sumo Digital과 함께 Neural Dawn을 만들었다. Unreal Engine의 MegaLights ray-traced 조명을 쓰도록 설계한 가벼운 플랫포머 게임이다. 스마트폰에서 돌아가도록 Arm의 Neural Super Sampling and Denoising(NSSD)과 Neural Frame Rate Upscaling(NFRU)을 쓴다. Arm Mali G2 Ultra NX GPU가 있어야 해서, 지금 지원하는 칩셋은 MediaTek Dimensity 9600 Pro 하나다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Screenshot-4.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Arm-Mali-G2-Ultra-neural-accelerator.jpg",
-                "cap": "Arm"
+                "x": "Meta가 오늘 iOS용 Muse 앱을 업데이트해 Apple Watch 지원을 추가했다. Muse 사용자는 이제 워치에서도 능동형 AI 에이전트를 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "NFRU는 GPU에서 도는 AI 신경망으로 기본 렌더링 프레임마다 보간 프레임을 하나씩 끼워 넣어, 30 FPS 게임을 60 FPS로 출력한다. NSSD는 저해상도 이미지를 업스케일하면서(Arm은 540p에서 1080p로 올리는 예를 들었다) anti-aliasing과 ray-traced 조명의 노이즈 제거까지 맡는다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Performance-Graph.jpg",
-                "cap": "Robert Triggs / Android Authority"
+                "x": "워치 앱에는 Muse 캐릭터가 뜨고, 문자를 보내거나 음성으로 받아쓰거나 전화를 걸 수 있다. 바로 불러낼 수 있는 Muse 컴플리케이션도 있다."
               },
               {
                 "t": "p",
-                "x": "OPPO Find X10 Pro Max에서 게임은 평균 59.8 FPS, 1% 저점 57.2 FPS를 냈고, 온도는 약 18분 뒤 37.7°C로 정점을 찍었다. 대가도 따른다. 카메라를 돌리면 캐릭터 주변에 모션 고스팅이 생기고 이따금 조작이 늦게 먹힌다. 필자는 업스케일링이 모바일이 콘솔급·PC-quality(PC급) 그래픽에 다가갈 가장 좋은 길이라고 본다."
+                "x": "Muse는 사용자 대신 일을 처리하는 Meta의 개인 AI 에이전트다. 독립 앱으로 나와 있고 Instagram, Facebook 등 다른 Meta 앱에도 들어가 있다. Meta가 Muse의 상징으로 디자인한 예티 닮은 캐릭터는 인기를 끌었는데, Apple Watch에서도 화면 한가운데를 차지한다."
+              },
+              {
+                "t": "p",
+                "x": "워치 앱 디자인은 Meta가 9월 보조 기기로 발표한 Muse Charm과 닮았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Meta Museが\nApple Watchに対応",
+          "body": "MuseのiOSアプリがApple Watchに対応し、手首からAIを呼び出せる。",
+          "mini_headline": "Meta Museが\nApple Watchに",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg",
+                "cap": "Apple Watch上のMuse"
+              },
+              {
+                "t": "p",
+                "x": "Metaは本日、iOS向けMuseアプリをアップデートし、Apple Watchへの対応を追加した。これによりMuseユーザーは、能動的なAIエージェントにウォッチからアクセスできる。"
+              },
+              {
+                "t": "p",
+                "x": "アプリはウォッチにMuseのキャラクターを表示し、テキストを送る、音声で入力する、通話するといった操作ができる。素早くアクセスするためのMuseコンプリケーションも用意されている。"
+              },
+              {
+                "t": "p",
+                "x": "Museは、ユーザーに代わってタスクをこなすMetaのパーソナルAIエージェントだ。単体アプリとして提供されるほか、Instagram、FacebookなどのMetaアプリにも組み込まれている。MetaがMuseの象徴としてデザインしたイエティ風のキャラクターは人気を集めており、Apple Watchでも画面の中心に据えられている。"
+              },
+              {
+                "t": "p",
+                "x": "ウォッチアプリのデザインは、Metaが9月にコンパニオンデバイスとして発表したMuse Charmに似ている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Meta的Muse AI代理\n登陆Apple Watch",
+          "body": "Muse iOS应用现已支持Apple Watch，用户可在手腕上呼叫AI代理。",
+          "mini_headline": "Meta Muse\n登陆Apple Watch",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg",
+                "cap": "Apple Watch上的Muse"
+              },
+              {
+                "t": "p",
+                "x": "Meta今天更新了iOS版Muse应用，新增对Apple Watch的支持，Muse用户可以通过手表使用这款主动式AI代理。"
+              },
+              {
+                "t": "p",
+                "x": "该应用将Muse角色带到手表上，用户可以给它发消息、向它口述文字或给它打电话。此外还有一个Muse表盘复杂功能，方便快速访问。"
+              },
+              {
+                "t": "p",
+                "x": "Muse是Meta的个人AI代理，能够替用户完成任务。它既有独立应用，也内置于Instagram、Facebook和其他Meta应用中。Meta为代表Muse而设计的雪人般的角色颇受欢迎，在Apple Watch上也占据了界面中央。"
+              },
+              {
+                "t": "p",
+                "x": "该手表应用的设计与Meta在9月作为配套设备发布的Muse Charm相似。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El agente de IA Muse de Meta\nllega al Apple Watch",
+          "body": "La app Muse de Meta para iOS admite Apple Watch y permite escribir, dictar o llamar al agente de IA desde la muñeca.",
+          "mini_headline": "Meta Muse llega\nal Apple Watch",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg",
+                "cap": "Muse en el Apple Watch"
+              },
+              {
+                "t": "p",
+                "x": "Meta actualizó hoy la app Muse para iOS para añadir compatibilidad con Apple Watch, lo que permite a los usuarios de Muse acceder al agente de IA proactivo desde el reloj."
+              },
+              {
+                "t": "p",
+                "x": "La app añade el personaje de Muse al reloj con la opción de enviarle mensajes de texto, dictarle texto o llamarlo. También hay una complicación de Muse para acceder rápidamente."
+              },
+              {
+                "t": "p",
+                "x": "Muse es el agente personal de IA de Meta, capaz de completar tareas por los usuarios. Está disponible como app independiente y también integrado en Instagram, Facebook y otras apps de Meta. El personaje con aspecto de yeti que Meta diseñó para representar a Muse se ha vuelto popular y ocupa el centro de la pantalla en el Apple Watch."
+              },
+              {
+                "t": "p",
+                "x": "El diseño de la app para el reloj es similar al Muse Charm que Meta anunció como dispositivo complementario en septiembre."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ja": {
-          "headline": "Neural Dawnが\nスマホにAIフレーム生成",
-          "body": "Neural DawnはMali G2 Ultra GPUでAIフレーム生成を動かす。",
-          "mini_headline": "スマホにAIフレーム生成",
+        "ko": {
+          "headline": "Meta Muse 에이전트\nApple Watch 진출",
+          "body": "Muse 앱이 Apple Watch를 지원해 손목에서 문자·음성·통화로 부른다.",
+          "mini_headline": "Meta Muse,\nApple Watch로",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-game-main-menu-scaled.jpg",
-                "cap": "Robert Triggs / Android Authority"
+                "src": "https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg",
+                "cap": "Apple Watch의 Muse"
               },
               {
                 "t": "p",
-                "x": "ArmはデベロッパーのSumo Digitalと組み、Unreal EngineのMegaLightsによるレイトレーシング照明を使う軽量プラットフォーマー、Neural Dawnを制作した。ArmのNeural Super Sampling and Denoising(NSSD)とNeural Frame Rate Upscaling(NFRU)を活用し、スマートフォン上で動作する。Arm Mali G2 Ultra NX GPUが必要で、現時点で対応するチップセットはMediaTek Dimensity 9600 Proのみだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Screenshot-4.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Arm-Mali-G2-Ultra-neural-accelerator.jpg",
-                "cap": "Arm"
+                "x": "Meta는 오늘 iOS용 Muse 앱을 업데이트해 Apple Watch 지원을 추가했다. 이제 Muse 사용자는 워치에서 능동형 AI 에이전트를 이용할 수 있다."
               },
               {
                 "t": "p",
-                "x": "NFRUはGPU上のAIニューラルネットワークを使い、ネイティブにレンダリングした各フレームに対して補間フレームを生成する。これにより30 FPSで動くゲームが60 FPSで出力される。NSSDは低解像度の画像をアップスケールしつつ(Armは540pから1080pへの例を示した)、anti-aliasingとレイトレーシング照明のノイズ除去も担う。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Performance-Graph.jpg",
-                "cap": "Robert Triggs / Android Authority"
+                "x": "앱은 워치에 Muse 캐릭터를 띄우며, 문자를 보내거나 음성으로 받아쓰게 하거나 전화를 걸 수 있다. 빠르게 접근할 수 있는 Muse 컴플리케이션도 있다."
               },
               {
                 "t": "p",
-                "x": "OPPO Find X10 Pro Maxでは平均59.8 FPS、1%低値は57.2 FPSで、温度は約18分後に最高37.7°Cに達した。トレードオフとして、カメラを回すとキャラクターの周囲にモーションゴーストが出るほか、ときおり操作の遅延も生じる。筆者は、アップスケーリングこそモバイルがコンソールやPC品質(PC-quality)のグラフィックスに迫る最善の手段だと結論づけている。"
+                "x": "Muse는 사용자 대신 작업을 처리하는 Meta의 개인용 AI 에이전트다. 독립 앱으로 제공되며 Instagram, Facebook 등 다른 Meta 앱에도 내장돼 있다. Meta가 Muse를 상징하도록 디자인한 예티 같은 캐릭터는 인기를 끌었고, Apple Watch에서도 화면 한가운데를 차지한다."
+              },
+              {
+                "t": "p",
+                "x": "워치 앱 디자인은 Meta가 9월 보조 기기로 발표한 Muse Charm과 비슷하다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Meta Museが\nApple Watchに対応",
+          "body": "MuseのiOSアプリがApple Watchに対応し、手首からAIを呼び出せる。",
+          "mini_headline": "Meta Museが\nApple Watchに",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg",
+                "cap": "Apple Watch上のMuse"
+              },
+              {
+                "t": "p",
+                "x": "Metaは本日、iOS向けMuseアプリをアップデートし、Apple Watchへの対応を追加した。これによりMuseユーザーは、能動的なAIエージェントにウォッチからアクセスできる。"
+              },
+              {
+                "t": "p",
+                "x": "アプリはウォッチにMuseのキャラクターを表示し、テキストを送る、音声で入力する、通話するといった操作ができる。素早くアクセスするためのMuseコンプリケーションも用意されている。"
+              },
+              {
+                "t": "p",
+                "x": "Museは、ユーザーに代わってタスクをこなすMetaのパーソナルAIエージェントだ。単体アプリとして提供されるほか、Instagram、FacebookなどのMetaアプリにも組み込まれている。MetaがMuseの象徴としてデザインしたイエティ風のキャラクターは人気を集めており、Apple Watchでも画面の中心に据えられている。"
+              },
+              {
+                "t": "p",
+                "x": "ウォッチアプリのデザインは、Metaが9月にコンパニオンデバイスとして発表したMuse Charmに似ている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Neural Dawn\n让手机用上AI帧生成",
-          "body": "Neural Dawn在Mali G2 Ultra GPU上运行Arm的AI超分与帧生成。",
-          "mini_headline": "手机迎来AI帧生成",
+          "headline": "Meta的Muse AI代理\n登陆Apple Watch",
+          "body": "Muse iOS应用现已支持Apple Watch，用户可在手腕上呼叫AI代理。",
+          "mini_headline": "Meta Muse\n登陆Apple Watch",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-game-main-menu-scaled.jpg",
-                "cap": "Robert Triggs / Android Authority"
+                "src": "https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg",
+                "cap": "Apple Watch上的Muse"
               },
               {
                 "t": "p",
-                "x": "Arm与开发商Sumo Digital合作打造了Neural Dawn，这是一款轻量平台跳跃游戏，专为使用Unreal Engine的MegaLights光线追踪照明而设计。它借助Arm的Neural Super Sampling and Denoising（NSSD）和Neural Frame Rate Upscaling（NFRU）在智能手机上运行。游戏需要Arm Mali G2 Ultra NX GPU，因此MediaTek Dimensity 9600 Pro是目前唯一支持它的芯片组。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Screenshot-4.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Arm-Mali-G2-Ultra-neural-accelerator.jpg",
-                "cap": "Arm"
+                "x": "Meta今天更新了iOS版Muse应用，新增对Apple Watch的支持，Muse用户可以通过手表使用这款主动式AI代理。"
               },
               {
                 "t": "p",
-                "x": "NFRU利用GPU上的AI神经网络，为每一帧原生渲染画面生成一帧插值画面，使以30 FPS运行的游戏输出60 FPS。NSSD在放大低分辨率图像的同时（Arm举的例子是从540p到1080p），还负责anti-aliasing以及光线追踪照明的降噪。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Performance-Graph.jpg",
-                "cap": "Robert Triggs / Android Authority"
+                "x": "该应用将Muse角色带到手表上，用户可以给它发消息、向它口述文字或给它打电话。此外还有一个Muse表盘复杂功能，方便快速访问。"
               },
               {
                 "t": "p",
-                "x": "在OPPO Find X10 Pro Max上，游戏平均帧率为59.8 FPS，1% low为57.2 FPS，运行约18分钟后温度最高达到37.7°C。代价是：转动镜头时角色周围会出现运动残影，操作偶尔有延迟。作者的结论是，超分辨率是移动设备接近主机和PC级（PC-quality）画质的最佳途径。"
+                "x": "Muse是Meta的个人AI代理，能够替用户完成任务。它既有独立应用，也内置于Instagram、Facebook和其他Meta应用中。Meta为代表Muse而设计的雪人般的角色颇受欢迎，在Apple Watch上也占据了界面中央。"
+              },
+              {
+                "t": "p",
+                "x": "该手表应用的设计与Meta在9月作为配套设备发布的Muse Charm相似。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Neural Dawn lleva la generación\nde fotogramas con IA al móvil",
-          "body": "Neural Dawn usa el escalado y la generación de fotogramas de Arm en la GPU Mali G2 Ultra del Dimensity 9600 Pro.",
-          "mini_headline": "El móvil genera fotogramas con IA",
+          "headline": "El agente de IA Muse de Meta\nllega al Apple Watch",
+          "body": "La app Muse de Meta para iOS admite Apple Watch y permite escribir, dictar o llamar al agente de IA desde la muñeca.",
+          "mini_headline": "Meta Muse llega\nal Apple Watch",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-game-main-menu-scaled.jpg",
-                "cap": "Robert Triggs / Android Authority"
+                "src": "https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg",
+                "cap": "Muse en el Apple Watch"
               },
               {
                 "t": "p",
-                "x": "Arm trabajó con el estudio Sumo Digital para crear Neural Dawn, un juego de plataformas ligero pensado para aprovechar la iluminación con trazado de rayos MegaLights de Unreal Engine. Recurre a Neural Super Sampling and Denoising (NSSD) y Neural Frame Rate Upscaling (NFRU) de Arm para funcionar en un smartphone. Necesita una GPU Arm Mali G2 Ultra NX, por lo que el MediaTek Dimensity 9600 Pro es por ahora el único chipset compatible."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Screenshot-4.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Arm-Mali-G2-Ultra-neural-accelerator.jpg",
-                "cap": "Arm"
+                "x": "Meta actualizó hoy la app Muse para iOS para añadir compatibilidad con Apple Watch, lo que permite a los usuarios de Muse acceder al agente de IA proactivo desde el reloj."
               },
               {
                 "t": "p",
-                "x": "NFRU usa una red neuronal de inteligencia artificial (AI) en la GPU para generar un fotograma interpolado por cada uno renderizado de forma nativa, de modo que un juego a 30 FPS se muestra a 60 FPS. NSSD escala una imagen de baja resolución (Arm destacó el paso de 540p a 1080p) y a la vez se encarga del anti-aliasing y de eliminar el ruido de la iluminación con trazado de rayos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Performance-Graph.jpg",
-                "cap": "Robert Triggs / Android Authority"
+                "x": "La app añade el personaje de Muse al reloj con la opción de enviarle mensajes de texto, dictarle texto o llamarlo. También hay una complicación de Muse para acceder rápidamente."
               },
               {
                 "t": "p",
-                "x": "En el OPPO Find X10 Pro Max, el juego promedió 59.8 FPS, con mínimos del 1% en 57.2 FPS, y la temperatura alcanzó un máximo de 37.7°C tras unos 18 minutos. Las contrapartidas: efecto fantasma alrededor del personaje al girar la cámara y cierta latencia ocasional en los controles. El autor concluye que el escalado es la mejor opción del móvil para lograr gráficos de calidad de consola y PC (PC-quality)."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Neural Dawn이\n폰에 AI 프레임 생성",
-          "body": "Neural Dawn은 Mali G2 Ultra GPU로 AI 프레임을 만든다.",
-          "mini_headline": "폰에도 AI 프레임 생성",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-game-main-menu-scaled.jpg",
-                "cap": "Robert Triggs / Android Authority"
+                "x": "Muse es el agente personal de IA de Meta, capaz de completar tareas por los usuarios. Está disponible como app independiente y también integrado en Instagram, Facebook y otras apps de Meta. El personaje con aspecto de yeti que Meta diseñó para representar a Muse se ha vuelto popular y ocupa el centro de la pantalla en el Apple Watch."
               },
               {
                 "t": "p",
-                "x": "Arm은 개발사 Sumo Digital과 함께 Neural Dawn을 만들었다. Unreal Engine의 MegaLights ray-traced 조명을 쓰도록 설계한 가벼운 플랫포머 게임이다. 스마트폰에서 돌리기 위해 Arm의 Neural Super Sampling and Denoising(NSSD)과 Neural Frame Rate Upscaling(NFRU)을 활용한다. Arm Mali G2 Ultra NX GPU가 필요해, 현재 이를 지원하는 칩셋은 MediaTek Dimensity 9600 Pro뿐이다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Screenshot-4.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Arm-Mali-G2-Ultra-neural-accelerator.jpg",
-                "cap": "Arm"
-              },
-              {
-                "t": "p",
-                "x": "NFRU는 GPU 위의 AI 신경망으로 기본 렌더링한 프레임마다 보간 프레임을 하나씩 만들어, 30 FPS로 돌아가는 게임을 60 FPS로 출력한다. NSSD는 저해상도 이미지를 업스케일하면서(Arm은 540p에서 1080p로의 예를 들었다) anti-aliasing과 ray-traced 조명의 노이즈 제거도 함께 처리한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-Performance-Graph.jpg",
-                "cap": "Robert Triggs / Android Authority"
-              },
-              {
-                "t": "p",
-                "x": "OPPO Find X10 Pro Max에서 게임은 평균 59.8 FPS, 1% 저점 57.2 FPS를 기록했고, 온도는 약 18분 뒤 37.7°C에서 정점을 찍었다. 대가도 있다. 카메라를 돌릴 때 캐릭터 주변에 모션 고스팅이 생기고, 가끔 조작 지연이 나타난다. 필자는 업스케일링이 모바일이 콘솔급·PC-quality(PC급) 그래픽에 다가갈 가장 좋은 방법이라고 결론짓는다."
+                "x": "El diseño de la app para el reloj es similar al Muse Charm que Meta anunció como dispositivo complementario en septiembre."
               }
             ]
           }
@@ -817,15 +747,15 @@
       }
     },
     {
-      "id": "kimi-k3-optane-homelab",
+      "id": "samsung-memory-screenshots",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "2.8-trillion급\nOptane·CPU로 돈다",
-      "body": "Kimi K3가 1-bit로 CPU·Optane만 써 초당 0.85토큰을 냈다.",
-      "mini_headline": "Optane만으로 돌린 Kimi K3",
+      "headline": "삼성, 스크린샷\n정리 AI 앱 개발",
+      "body": "삼성이 스크린샷·링크·텍스트·음성 메모를 모으는 앱 Memory를 만든다고 한다.",
+      "mini_headline": "삼성 Memory 앱,\n스크린샷 정리",
       "tool": "Gadgets",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabber-uses-second-gen-optane-memory-sticks-to-run-a-2-8-trillion-parameter-ai-model-on-cpu-alone-warns-that-optanes-extreme-heat-can-burn-out-nearby-memory-dram-used-blower-fans-to-prevent-melting-ram",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/phones/samsung-is-working-on-a-new-galaxy-ai-app-to-clean-up-the-screenshot-mess-youve-been-pretending-doesnt-exist/",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
@@ -833,173 +763,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/Wpdi2avEo8ZBZMremLVgaU-2496-80.jpg"
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-inner-screen-scaled.jpg?resize=1200%2C720&ssl=1",
+            "cap": "Galaxy Z Fold 8 Ultra 내부 화면"
           },
           {
             "t": "p",
-            "x": "Reddit의 한 홈랩 빌더가 Moonshot AI의 2.8-trillion 파라미터 AI 모델 Kimi K3를 단종된 두 번째 세대 Optane PMem 200 메모리에 올려 돌렸다. 추론은 GPU 없이 40코어 3세대 Xeon Scalable CPU로 했다. 1-bit 양자화에서 초당 0.85토큰, 3-bit 양자화에서 초당 0.75토큰이 나온다."
+            "x": "삼성(Samsung)이 Galaxy AI 기반(AI-powered) 새 앱 Memory를 개발 중이라는 소식이다. SamMobile은 \"이 앱은 사용자가 스크린샷, 링크, 텍스트, 가져온 콘텐츠, 음성 메모를 한곳에 모으고 AI가 이를 모두 정리해 주는 기능을 제공하는 것으로 전해졌다\"고 보도했다. 삼성은 아직 공식 발표를 하지 않았지만, 앱은 One UI 9.5와 함께 나올 가능성이 크다."
           },
           {
             "t": "p",
-            "x": "Kimi K3는 가장 작은 커뮤니티 양자화 버전도 RAM이 최소 610GB 필요하다. 집에서 그만한 용량을 갖출 방법은 몇 안 되는데, 중고 Optane이 그중 하나다. 빌더는 같은 용량의 DRAM에 비하면 “일부”의 비용이면 된다고 말한다. 이 빌드는 Optane을 App Direct 모드로 돌렸다."
+            "x": "콘텐츠는 스크린샷, 공유(Share) 메뉴, 링크·텍스트 붙여넣기, 음성 메모로 저장하며, 세 손가락으로 아래로 쓸어내려 스크린샷을 찍는 단축 동작 등도 지원한다."
+          },
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/09/samsung-galaxy-z-fold-7-oneui8-4095.jpg?resize=4492%2C2695&ssl=1",
+            "cap": "Galaxy Z Fold 7의 Samsung One UI 8 폴더블 잠금 화면."
           },
           {
             "t": "p",
-            "x": "빌더에 따르면 Optane DIMMs는 추론이 이어지면 “매우 뜨거워지며”, 이 열이 옆의 DRAM까지 위험하게 할 수 있다. 그의 조언은 “능동형 DIMM 냉각을 필수로 여겨라”이고, 실제로 모듈 쪽으로 12W 블로어 팬 두 개를 단다. Intel이 정한 모듈별 정격은 12W 또는 15W이고, 섭씨 83도에서 스로틀링이 걸린다."
+            "x": "Memory는 AI로 제목을 짓고 콘텐츠를 요약하며, 관련 태그를 달아 관련 항목을 컬렉션으로 묶는다. 웹 페이지 스크린샷을 알아보고 원본 링크를 찾아 주기도 한다. Google의 Pixel Screenshots와 Oppo의 Mind Space에도 비슷한 기능이 있다."
           },
           {
             "t": "p",
-            "x": "아직 튜닝 전 수치다. 빌더는 GPUs를 더하고 모델 일부를 더 빠른 계층인 DRAM에 올릴 계획이다."
+            "x": "삼성은 저장한 콘텐츠를 기기 안에서만 처리할 수 있다고 밝혔지만, 일부 고급 인텔리전스 기능은 온라인 처리가 필요하다. Memory는 몇 주 안에 One UI 9.5와 함께 나올 것으로 보이나, 어디까지나 예상일 뿐 공식 약속은 아니다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A 2.8-trillion-parameter model\nruns on Optane and a CPU",
-          "body": "A homelabber ran Moonshot AI's Kimi K3 on CPU alone with Optane PMem, hitting 0.85 tokens/s on a 1-bit quant.",
-          "mini_headline": "Kimi K3\non Optane alone",
+          "headline": "Samsung is building a Galaxy AI\napp to tame screenshot clutter",
+          "body": "Samsung is reportedly building Memory, an app that sorts screenshots, links, text and voice notes into collections.",
+          "mini_headline": "Samsung Memory app\ntames screenshots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wpdi2avEo8ZBZMremLVgaU-2496-80.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-inner-screen-scaled.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Galaxy Z Fold 8 Ultra inner screen"
               },
               {
                 "t": "p",
-                "x": "A homelab builder on Reddit has run Moonshot AI's 2.8-trillion-parameter Kimi K3 AI model on discontinued second-gen Optane PMem 200 memory, using a 40-core 3rd-gen Xeon Scalable CPU and not a GPU for inference. It runs at 0.85 tokens per second even with 1-bit quantization, and 0.75 tokens per second with 3-bit quantization."
+                "x": "Samsung reportedly is developing a new Galaxy AI-powered app called Memory. \"The app is said to enable users to collect screenshots, links, text, imported content and voice notes in one place, with AI doing the work of organizing everything,\" SamMobile reports. Samsung hasn't announced anything officially, but the app will probably arrive with One UI 9.5."
               },
               {
                 "t": "p",
-                "x": "Even the smallest community quantization of Kimi K3 needs at least 610GB of RAM, and secondhand Optane is one of the few ways to reach that capacity at home; the builder says it costs \"a fraction\" of the equivalent DRAM. The build ran Optane in App Direct mode."
+                "x": "Users can save content by screenshot, the Share menu, pasted links or text, and voice notes, with shortcuts like a three-finger swipe down for screenshots."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/09/samsung-galaxy-z-fold-7-oneui8-4095.jpg?resize=4492%2C2695&ssl=1",
+                "cap": "Foldable lock screen in Samsung One UI 8 on Galaxy Z Fold 7."
               },
               {
                 "t": "p",
-                "x": "The Optane DIMMs get \"extremely hot\" with sustained inference, which the builder says can endanger neighboring DRAM. The advice: \"treat active DIMM cooling as mandatory,\" with dual 12W blower fans aimed at the modules. Intel rates each module at 12W or 15W, with throttling at 83 degrees Celsius."
+                "x": "Memory uses AI to generate a title, summarize content, add relevant tags, and group related items into collections. It can even recognize screenshots of web pages and search for the original link. Google's Pixel Screenshots and Oppo's Mind Space do something similar."
               },
               {
                 "t": "p",
-                "x": "The numbers are pre-tuning. The builder plans to add GPUs and load parts of the model into DRAM as a faster tier."
+                "x": "Samsung says saved content can be processed only on the device, although some advanced intelligence features require online processing. Memory is expected to ship with One UI 9.5 in the coming weeks, but that's an expectation, not an official promise."
               }
             ]
           }
         },
         "ko": {
-          "headline": "2.8-trillion급\nOptane·CPU로 돈다",
-          "body": "Kimi K3가 1-bit로 CPU·Optane만 써 초당 0.85토큰을 냈다.",
-          "mini_headline": "Optane만으로 돌린 Kimi K3",
+          "headline": "삼성, 스크린샷\n정리 AI 앱 개발",
+          "body": "삼성이 스크린샷·링크·텍스트·음성 메모를 모으는 앱 Memory를 만든다고 한다.",
+          "mini_headline": "삼성 Memory 앱,\n스크린샷 정리",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wpdi2avEo8ZBZMremLVgaU-2496-80.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-inner-screen-scaled.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Galaxy Z Fold 8 Ultra 내부 화면"
               },
               {
                 "t": "p",
-                "x": "Reddit의 한 홈랩 빌더가 Moonshot AI의 2.8-trillion 파라미터 AI 모델 Kimi K3를 단종된 두 번째 세대 Optane PMem 200 메모리에 올려 돌렸다. 추론은 GPU 없이 40코어 3세대 Xeon Scalable CPU로 했다. 1-bit 양자화에서 초당 0.85토큰, 3-bit 양자화에서 초당 0.75토큰이 나온다."
+                "x": "삼성(Samsung)이 Galaxy AI 기반(AI-powered) 새 앱 Memory를 개발 중이라는 소식이다. SamMobile은 \"이 앱은 사용자가 스크린샷, 링크, 텍스트, 가져온 콘텐츠, 음성 메모를 한곳에 모으고 AI가 이를 모두 정리해 주는 기능을 제공하는 것으로 전해졌다\"고 보도했다. 삼성은 아직 공식 발표를 하지 않았지만, 앱은 One UI 9.5와 함께 나올 가능성이 크다."
               },
               {
                 "t": "p",
-                "x": "Kimi K3는 가장 작은 커뮤니티 양자화 버전도 RAM이 최소 610GB 필요하다. 집에서 그만한 용량을 갖출 방법은 몇 안 되는데, 중고 Optane이 그중 하나다. 빌더는 같은 용량의 DRAM에 비하면 “일부”의 비용이면 된다고 말한다. 이 빌드는 Optane을 App Direct 모드로 돌렸다."
+                "x": "콘텐츠는 스크린샷, 공유(Share) 메뉴, 링크·텍스트 붙여넣기, 음성 메모로 저장하며, 세 손가락으로 아래로 쓸어내려 스크린샷을 찍는 단축 동작 등도 지원한다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/09/samsung-galaxy-z-fold-7-oneui8-4095.jpg?resize=4492%2C2695&ssl=1",
+                "cap": "Galaxy Z Fold 7의 Samsung One UI 8 폴더블 잠금 화면."
               },
               {
                 "t": "p",
-                "x": "빌더에 따르면 Optane DIMMs는 추론이 이어지면 “매우 뜨거워지며”, 이 열이 옆의 DRAM까지 위험하게 할 수 있다. 그의 조언은 “능동형 DIMM 냉각을 필수로 여겨라”이고, 실제로 모듈 쪽으로 12W 블로어 팬 두 개를 단다. Intel이 정한 모듈별 정격은 12W 또는 15W이고, 섭씨 83도에서 스로틀링이 걸린다."
+                "x": "Memory는 AI로 제목을 짓고 콘텐츠를 요약하며, 관련 태그를 달아 관련 항목을 컬렉션으로 묶는다. 웹 페이지 스크린샷을 알아보고 원본 링크를 찾아 주기도 한다. Google의 Pixel Screenshots와 Oppo의 Mind Space에도 비슷한 기능이 있다."
               },
               {
                 "t": "p",
-                "x": "아직 튜닝 전 수치다. 빌더는 GPUs를 더하고 모델 일부를 더 빠른 계층인 DRAM에 올릴 계획이다."
+                "x": "삼성은 저장한 콘텐츠를 기기 안에서만 처리할 수 있다고 밝혔지만, 일부 고급 인텔리전스 기능은 온라인 처리가 필요하다. Memory는 몇 주 안에 One UI 9.5와 함께 나올 것으로 보이나, 어디까지나 예상일 뿐 공식 약속은 아니다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "2.8-trillion級\nOptaneとCPUで動く",
-          "body": "Kimi K3がCPUとOptaneのみ、1-bitで毎秒0.85トークンを出した。",
-          "mini_headline": "Optaneだけで動くKimi K3",
+          "headline": "サムスン、スクショ整理の\nGalaxy AIアプリ開発",
+          "body": "サムスンはスクショ、リンク、テキスト、音声メモを整理するアプリMemoryを開発中という。",
+          "mini_headline": "Samsung Memoryが\nスクショを整理",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wpdi2avEo8ZBZMremLVgaU-2496-80.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-inner-screen-scaled.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Galaxy Z Fold 8 Ultraの内側画面"
               },
               {
                 "t": "p",
-                "x": "Redditのホームラボ愛好家が、Moonshot AIの2.8-trillionパラメータのAIモデルKimi K3を、生産終了した第二世代のOptane PMem 200メモリ上で動かした。推論にはGPUではなく、40コアの第3世代Xeon Scalable CPUを使っている。1-bit量子化でも毎秒0.85トークン、3-bit量子化では毎秒0.75トークンで動作する。"
+                "x": "サムスン(Samsung)は、Galaxy AIを活用した(AI-powered)新アプリ「Memory」を開発中と報じられている。SamMobileは「このアプリでは、スクリーンショット、リンク、テキスト、取り込んだコンテンツ、音声メモを1か所に集め、整理はすべてAIが担うとされる」と伝えている。サムスンは公式には何も発表していないが、アプリはOne UI 9.5とともに登場する可能性が高い。"
               },
               {
                 "t": "p",
-                "x": "Kimi K3は最小のコミュニティ量子化版でも最低610GB のRAMを必要とし、中古のOptaneは自宅でその容量に届く数少ない手段の一つだ。ビルダーによれば、同等のDRAMの「ほんの一部」の費用で済むという。このビルドではOptaneをApp Directモードで運用した。"
+                "x": "ユーザーはスクリーンショット、Share(共有)メニュー、リンクやテキストの貼り付け、音声メモでコンテンツを保存でき、3本指で下にスワイプしてスクリーンショットを撮るといったショートカットも使える。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/09/samsung-galaxy-z-fold-7-oneui8-4095.jpg?resize=4492%2C2695&ssl=1",
+                "cap": "Galaxy Z Fold 7のSamsung One UI 8のフォルダブル用ロック画面。"
               },
               {
                 "t": "p",
-                "x": "Optane DIMMsは持続的な推論で「極めて熱く」なり、隣接するDRAMを危険にさらしうるとビルダーは言う。助言は「アクティブなDIMM冷却を必須とせよ」で、モジュールに向けて12W のブロワーファンを二つ据える。Intelは各モジュールの定格を12W または15W としており、摂氏83度でスロットリングがかかる。"
+                "x": "MemoryはAIを使ってタイトルを生成し、内容を要約し、関連タグを付け、関連する項目をコレクションにまとめる。Webページのスクリーンショットを認識し、元のリンクを探すこともできる。GoogleのPixel ScreenshotsやOppoのMind Spaceも同様の機能を備える。"
               },
               {
                 "t": "p",
-                "x": "これらの数値はチューニング前のものだ。ビルダーはGPUsを追加し、モデルの一部をより高速な層としてDRAMに載せる計画だ。"
+                "x": "サムスンによると、保存したコンテンツは端末上だけで処理できるが、一部の高度なインテリジェンス機能にはオンライン処理が必要だという。Memoryは今後数週間以内にOne UI 9.5とともに提供される見込みだが、これはあくまで予想で、公式な約束ではない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "2.8-trillion参数\n模型靠Optane和CPU跑",
-          "body": "有人仅用CPU和Optane运行Kimi K3，1-bit量化达每秒0.85 token。",
-          "mini_headline": "Kimi K3仅靠Optane运行",
+          "headline": "三星打造Galaxy AI\n应用整理杂乱截图",
+          "body": "据报道，三星正开发Memory应用，可将截图、链接、文字和语音笔记整理成合集。",
+          "mini_headline": "三星Memory应用\n整理截图",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wpdi2avEo8ZBZMremLVgaU-2496-80.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-inner-screen-scaled.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Galaxy Z Fold 8 Ultra内屏"
               },
               {
                 "t": "p",
-                "x": "Reddit上一位家庭实验室玩家，用已停产的第二代Optane PMem 200内存运行了Moonshot AI的2.8-trillion参数AI模型Kimi K3，推理用的是40核第3代Xeon Scalable CPU，而不是GPU。即便采用1-bit量化，速度也只有每秒0.85个token；3-bit量化下为每秒0.75个token。"
+                "x": "据报道，三星（Samsung）正在开发一款名为Memory的全新Galaxy AI驱动（AI-powered）应用。SamMobile报道称：“据悉，该应用可让用户把截图、链接、文字、导入的内容和语音笔记集中在一处，并由AI完成所有整理工作。”三星尚未发布任何官方消息，但该应用很可能随One UI 9.5一同推出。"
               },
               {
                 "t": "p",
-                "x": "Kimi K3即便是最小的社区量化版本，也至少需要610GB 的RAM；二手Optane是在家中达到这一容量的少数途径之一，这位玩家称其成本只是同等DRAM的“一小部分”。这台机器以App Direct模式运行Optane。"
+                "x": "用户可以通过截图、Share（分享）菜单、粘贴链接或文字以及语音笔记来保存内容，还支持三指下滑截图等快捷操作。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/09/samsung-galaxy-z-fold-7-oneui8-4095.jpg?resize=4492%2C2695&ssl=1",
+                "cap": "Galaxy Z Fold 7上Samsung One UI 8的折叠屏锁屏界面。"
               },
               {
                 "t": "p",
-                "x": "持续推理时Optane DIMMs会“极其烫”，这位玩家称这可能危及相邻的DRAM。他的建议是：“把主动式DIMM散热视为必须”，并用两个12W 鼓风扇对准模块。Intel给每个模块的额定功率为12W 或15W，温度达到摄氏83度时会降频。"
+                "x": "Memory利用AI生成标题、总结内容、添加相关标签，并将相关条目归入合集。它甚至能识别网页截图并搜索原始链接。Google的Pixel Screenshots和Oppo的Mind Space也有类似功能。"
               },
               {
                 "t": "p",
-                "x": "这些数字是调优前的结果。这位玩家计划加装GPUs，并把模型的部分内容载入DRAM，作为更快的一层。"
+                "x": "三星表示，保存的内容可以仅在设备端处理，但部分高级智能功能需要联网处理。Memory预计将在未来几周内随One UI 9.5推出，但这只是预期，并非官方承诺。"
               }
             ]
           }
         },
         "es": {
-          "headline": "2.8-trillion de parámetros\ncorren en Optane y una CPU",
-          "body": "Un aficionado ejecutó Kimi K3 de Moonshot AI solo con CPU y Optane PMem, a 0.85 tokens/s con cuantización de 1-bit.",
-          "mini_headline": "Kimi K3 solo con Optane",
+          "headline": "Samsung prepara una app con IA\npara ordenar las capturas",
+          "body": "Samsung estaría desarrollando Memory, una app que agrupa capturas, enlaces, texto y notas de voz en colecciones.",
+          "mini_headline": "La app Memory de Samsung\nordena capturas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wpdi2avEo8ZBZMremLVgaU-2496-80.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-inner-screen-scaled.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Pantalla interior del Galaxy Z Fold 8 Ultra"
               },
               {
                 "t": "p",
-                "x": "Un aficionado al homelab en Reddit ha ejecutado Kimi K3, el modelo de AI de Moonshot AI con 2.8-trillion de parámetros, sobre memoria Optane PMem 200 de segunda generación, ya descontinuada, usando para la inferencia una CPU Xeon Scalable de 3rd-gen y 40 núcleos en lugar de una GPU. Funciona a 0.85 tokens por segundo incluso con cuantización de 1-bit, y a 0.75 tokens por segundo con cuantización de 3-bit."
+                "x": "Samsung estaría desarrollando una nueva app llamada Memory, impulsada por Galaxy AI (AI-powered). \"Se dice que la app permitirá a los usuarios reunir capturas de pantalla, enlaces, texto, contenido importado y notas de voz en un solo lugar, y que la IA se encargará de organizarlo todo\", informa SamMobile. Samsung no ha anunciado nada oficialmente, pero es probable que la app llegue con One UI 9.5."
               },
               {
                 "t": "p",
-                "x": "Incluso la cuantización comunitaria más pequeña de Kimi K3 necesita al menos 610GB de RAM, y la Optane de segunda mano es una de las pocas formas de alcanzar esa capacidad en casa; el autor dice que cuesta «una fracción» de la DRAM equivalente. El equipo usó Optane en modo App Direct."
+                "x": "Los usuarios pueden guardar contenido mediante capturas de pantalla, el menú Share (Compartir), enlaces o texto pegados y notas de voz, con atajos como deslizar tres dedos hacia abajo para hacer una captura."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/09/samsung-galaxy-z-fold-7-oneui8-4095.jpg?resize=4492%2C2695&ssl=1",
+                "cap": "Pantalla de bloqueo plegable de Samsung One UI 8 en el Galaxy Z Fold 7."
               },
               {
                 "t": "p",
-                "x": "Los Optane DIMMs se ponen «extremadamente calientes» con inferencia sostenida, lo que, según el autor, puede poner en peligro la DRAM vecina. El consejo: «tratar la refrigeración activa de los DIMM como obligatoria», con dos ventiladores tipo soplador de 12W apuntando a los módulos. Intel especifica cada módulo a 12W o 15W, con limitación térmica a 83 grados Celsius."
+                "x": "Memory usa IA para generar un título, resumir el contenido, añadir etiquetas relevantes y agrupar elementos relacionados en colecciones. Incluso puede reconocer capturas de páginas web y buscar el enlace original. Pixel Screenshots de Google y Mind Space de Oppo hacen algo similar."
               },
               {
                 "t": "p",
-                "x": "Las cifras son previas al ajuste. El autor planea añadir GPUs y cargar partes del modelo en DRAM como un nivel más rápido."
+                "x": "Samsung afirma que el contenido guardado puede procesarse solo en el dispositivo, aunque algunas funciones de inteligencia avanzadas requieren procesamiento en línea. Se espera que Memory llegue con One UI 9.5 en las próximas semanas, pero es una previsión, no una promesa oficial."
               }
             ]
           }
@@ -1007,121 +973,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "2.8-trillion급\nOptane·CPU로 돈다",
-          "body": "Kimi K3가 1-bit로 CPU·Optane만 써 초당 0.85토큰을 냈다.",
-          "mini_headline": "Optane만으로 돌린 Kimi K3",
+          "headline": "삼성, 스크린샷\n정리 AI 앱 개발",
+          "body": "삼성이 스크린샷·링크·텍스트·음성 메모를 묶는 앱 Memory를 만든다고 한다.",
+          "mini_headline": "삼성 Memory 앱,\n스크린샷 정리",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wpdi2avEo8ZBZMremLVgaU-2496-80.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-inner-screen-scaled.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Galaxy Z Fold 8 Ultra 내부 화면"
               },
               {
                 "t": "p",
-                "x": "Reddit의 한 홈랩 빌더가 Moonshot AI의 2.8-trillion 파라미터 AI 모델 Kimi K3를 단종된 두 번째 세대 Optane PMem 200 메모리에서 돌렸다. 추론에는 GPU가 아닌 40코어 3세대 Xeon Scalable CPU를 썼다. 1-bit 양자화에서도 초당 0.85토큰, 3-bit 양자화에서는 초당 0.75토큰이 나온다."
+                "x": "삼성(Samsung)이 Galaxy AI 기반(AI-powered) 새 앱 Memory를 개발 중인 것으로 알려졌다. SamMobile은 \"이 앱은 사용자가 스크린샷, 링크, 텍스트, 가져온 콘텐츠, 음성 메모를 한곳에 모으고 AI가 이를 모두 정리해 주는 기능을 제공하는 것으로 전해졌다\"고 보도했다. 삼성은 아직 공식 발표를 하지 않았지만, 이 앱은 One UI 9.5와 함께 나올 가능성이 크다."
               },
               {
                 "t": "p",
-                "x": "Kimi K3는 가장 작은 커뮤니티 양자화 버전도 최소 610GB RAM이 필요하다. 중고 Optane은 집에서 그 용량에 닿을 수 있는 몇 안 되는 방법 가운데 하나이고, 빌더는 같은 용량의 DRAM에 비하면 “일부”의 비용이면 된다고 말한다. 이 빌드는 Optane을 App Direct 모드로 운용했다."
+                "x": "사용자는 스크린샷, 공유(Share) 메뉴, 링크나 텍스트 붙여넣기, 음성 메모로 콘텐츠를 저장할 수 있으며, 세 손가락으로 아래로 쓸어내려 스크린샷을 찍는 단축 동작 등도 지원한다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/09/samsung-galaxy-z-fold-7-oneui8-4095.jpg?resize=4492%2C2695&ssl=1",
+                "cap": "Galaxy Z Fold 7의 Samsung One UI 8 폴더블 잠금 화면."
               },
               {
                 "t": "p",
-                "x": "Optane DIMMs는 추론이 이어지면 “매우 뜨거워지며”, 빌더는 이 열이 인접한 DRAM을 위험하게 할 수 있다고 말한다. 조언은 “능동형 DIMM 냉각을 필수로 여겨라”이고, 모듈을 향해 12W 블로어 팬 두 개를 단다. Intel은 각 모듈의 정격을 12W 또는 15W로 정하고, 섭씨 83도에서 스로틀링이 걸린다."
+                "x": "Memory는 AI로 제목을 만들고, 콘텐츠를 요약하고, 관련 태그를 붙이고, 관련 항목을 컬렉션으로 묶는다. 웹 페이지 스크린샷을 인식해 원본 링크를 찾아 주기도 한다. Google의 Pixel Screenshots와 Oppo의 Mind Space도 비슷한 기능을 제공한다."
               },
               {
                 "t": "p",
-                "x": "이 수치는 튜닝 전 결과다. 빌더는 GPUs를 추가하고 모델 일부를 더 빠른 계층인 DRAM에 올릴 계획이다."
+                "x": "삼성은 저장한 콘텐츠를 기기에서만 처리할 수 있다고 밝혔지만, 일부 고급 인텔리전스 기능은 온라인 처리가 필요하다. Memory는 앞으로 몇 주 안에 One UI 9.5와 함께 나올 것으로 보이지만, 이는 예상일 뿐 공식 약속은 아니다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "2.8-trillion級\nOptaneとCPUで動く",
-          "body": "Kimi K3がCPUとOptaneのみ、1-bitで毎秒0.85トークンを出した。",
-          "mini_headline": "Optaneだけで動くKimi K3",
+          "headline": "サムスン、スクショ整理の\nGalaxy AIアプリ開発",
+          "body": "サムスンはスクショ、リンク、テキスト、音声メモを整理するアプリMemoryを開発中という。",
+          "mini_headline": "Samsung Memoryが\nスクショを整理",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wpdi2avEo8ZBZMremLVgaU-2496-80.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-inner-screen-scaled.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Galaxy Z Fold 8 Ultraの内側画面"
               },
               {
                 "t": "p",
-                "x": "Redditのホームラボ愛好家が、Moonshot AIの2.8-trillionパラメータのAIモデルKimi K3を、生産終了した第二世代のOptane PMem 200メモリ上で動かした。推論にはGPUではなく、40コアの第3世代Xeon Scalable CPUを使っている。1-bit量子化でも毎秒0.85トークン、3-bit量子化では毎秒0.75トークンで動作する。"
+                "x": "サムスン(Samsung)は、Galaxy AIを活用した(AI-powered)新アプリ「Memory」を開発中と報じられている。SamMobileは「このアプリでは、スクリーンショット、リンク、テキスト、取り込んだコンテンツ、音声メモを1か所に集め、整理はすべてAIが担うとされる」と伝えている。サムスンは公式には何も発表していないが、アプリはOne UI 9.5とともに登場する可能性が高い。"
               },
               {
                 "t": "p",
-                "x": "Kimi K3は最小のコミュニティ量子化版でも最低610GB のRAMを必要とし、中古のOptaneは自宅でその容量に届く数少ない手段の一つだ。ビルダーによれば、同等のDRAMの「ほんの一部」の費用で済むという。このビルドではOptaneをApp Directモードで運用した。"
+                "x": "ユーザーはスクリーンショット、Share(共有)メニュー、リンクやテキストの貼り付け、音声メモでコンテンツを保存でき、3本指で下にスワイプしてスクリーンショットを撮るといったショートカットも使える。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/09/samsung-galaxy-z-fold-7-oneui8-4095.jpg?resize=4492%2C2695&ssl=1",
+                "cap": "Galaxy Z Fold 7のSamsung One UI 8のフォルダブル用ロック画面。"
               },
               {
                 "t": "p",
-                "x": "Optane DIMMsは持続的な推論で「極めて熱く」なり、隣接するDRAMを危険にさらしうるとビルダーは言う。助言は「アクティブなDIMM冷却を必須とせよ」で、モジュールに向けて12W のブロワーファンを二つ据える。Intelは各モジュールの定格を12W または15W としており、摂氏83度でスロットリングがかかる。"
+                "x": "MemoryはAIを使ってタイトルを生成し、内容を要約し、関連タグを付け、関連する項目をコレクションにまとめる。Webページのスクリーンショットを認識し、元のリンクを探すこともできる。GoogleのPixel ScreenshotsやOppoのMind Spaceも同様の機能を備える。"
               },
               {
                 "t": "p",
-                "x": "これらの数値はチューニング前のものだ。ビルダーはGPUsを追加し、モデルの一部をより高速な層としてDRAMに載せる計画だ。"
+                "x": "サムスンによると、保存したコンテンツは端末上だけで処理できるが、一部の高度なインテリジェンス機能にはオンライン処理が必要だという。Memoryは今後数週間以内にOne UI 9.5とともに提供される見込みだが、これはあくまで予想で、公式な約束ではない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "2.8-trillion参数\n模型靠Optane和CPU跑",
-          "body": "有人仅用CPU和Optane运行Kimi K3，1-bit量化达每秒0.85 token。",
-          "mini_headline": "Kimi K3仅靠Optane运行",
+          "headline": "三星打造Galaxy AI\n应用整理杂乱截图",
+          "body": "据报道，三星正开发Memory应用，可将截图、链接、文字和语音笔记整理成合集。",
+          "mini_headline": "三星Memory应用\n整理截图",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wpdi2avEo8ZBZMremLVgaU-2496-80.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-inner-screen-scaled.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Galaxy Z Fold 8 Ultra内屏"
               },
               {
                 "t": "p",
-                "x": "Reddit上一位家庭实验室玩家，用已停产的第二代Optane PMem 200内存运行了Moonshot AI的2.8-trillion参数AI模型Kimi K3，推理用的是40核第3代Xeon Scalable CPU，而不是GPU。即便采用1-bit量化，速度也只有每秒0.85个token；3-bit量化下为每秒0.75个token。"
+                "x": "据报道，三星（Samsung）正在开发一款名为Memory的全新Galaxy AI驱动（AI-powered）应用。SamMobile报道称：“据悉，该应用可让用户把截图、链接、文字、导入的内容和语音笔记集中在一处，并由AI完成所有整理工作。”三星尚未发布任何官方消息，但该应用很可能随One UI 9.5一同推出。"
               },
               {
                 "t": "p",
-                "x": "Kimi K3即便是最小的社区量化版本，也至少需要610GB 的RAM；二手Optane是在家中达到这一容量的少数途径之一，这位玩家称其成本只是同等DRAM的“一小部分”。这台机器以App Direct模式运行Optane。"
+                "x": "用户可以通过截图、Share（分享）菜单、粘贴链接或文字以及语音笔记来保存内容，还支持三指下滑截图等快捷操作。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/09/samsung-galaxy-z-fold-7-oneui8-4095.jpg?resize=4492%2C2695&ssl=1",
+                "cap": "Galaxy Z Fold 7上Samsung One UI 8的折叠屏锁屏界面。"
               },
               {
                 "t": "p",
-                "x": "持续推理时Optane DIMMs会“极其烫”，这位玩家称这可能危及相邻的DRAM。他的建议是：“把主动式DIMM散热视为必须”，并用两个12W 鼓风扇对准模块。Intel给每个模块的额定功率为12W 或15W，温度达到摄氏83度时会降频。"
+                "x": "Memory利用AI生成标题、总结内容、添加相关标签，并将相关条目归入合集。它甚至能识别网页截图并搜索原始链接。Google的Pixel Screenshots和Oppo的Mind Space也有类似功能。"
               },
               {
                 "t": "p",
-                "x": "这些数字是调优前的结果。这位玩家计划加装GPUs，并把模型的部分内容载入DRAM，作为更快的一层。"
+                "x": "三星表示，保存的内容可以仅在设备端处理，但部分高级智能功能需要联网处理。Memory预计将在未来几周内随One UI 9.5推出，但这只是预期，并非官方承诺。"
               }
             ]
           }
         },
         "es": {
-          "headline": "2.8-trillion de parámetros\ncorren en Optane y una CPU",
-          "body": "Un aficionado ejecutó Kimi K3 de Moonshot AI solo con CPU y Optane PMem, a 0.85 tokens/s con cuantización de 1-bit.",
-          "mini_headline": "Kimi K3 solo con Optane",
+          "headline": "Samsung prepara una app con IA\npara ordenar las capturas",
+          "body": "Samsung estaría desarrollando Memory, una app que agrupa capturas, enlaces, texto y notas de voz en colecciones.",
+          "mini_headline": "La app Memory de Samsung\nordena capturas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wpdi2avEo8ZBZMremLVgaU-2496-80.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-inner-screen-scaled.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Pantalla interior del Galaxy Z Fold 8 Ultra"
               },
               {
                 "t": "p",
-                "x": "Un aficionado al homelab en Reddit ha ejecutado Kimi K3, el modelo de AI de Moonshot AI con 2.8-trillion de parámetros, sobre memoria Optane PMem 200 de segunda generación, ya descontinuada, usando para la inferencia una CPU Xeon Scalable de 3rd-gen y 40 núcleos en lugar de una GPU. Funciona a 0.85 tokens por segundo incluso con cuantización de 1-bit, y a 0.75 tokens por segundo con cuantización de 3-bit."
+                "x": "Samsung estaría desarrollando una nueva app llamada Memory, impulsada por Galaxy AI (AI-powered). \"Se dice que la app permitirá a los usuarios reunir capturas de pantalla, enlaces, texto, contenido importado y notas de voz en un solo lugar, y que la IA se encargará de organizarlo todo\", informa SamMobile. Samsung no ha anunciado nada oficialmente, pero es probable que la app llegue con One UI 9.5."
               },
               {
                 "t": "p",
-                "x": "Incluso la cuantización comunitaria más pequeña de Kimi K3 necesita al menos 610GB de RAM, y la Optane de segunda mano es una de las pocas formas de alcanzar esa capacidad en casa; el autor dice que cuesta «una fracción» de la DRAM equivalente. El equipo usó Optane en modo App Direct."
+                "x": "Los usuarios pueden guardar contenido mediante capturas de pantalla, el menú Share (Compartir), enlaces o texto pegados y notas de voz, con atajos como deslizar tres dedos hacia abajo para hacer una captura."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/09/samsung-galaxy-z-fold-7-oneui8-4095.jpg?resize=4492%2C2695&ssl=1",
+                "cap": "Pantalla de bloqueo plegable de Samsung One UI 8 en el Galaxy Z Fold 7."
               },
               {
                 "t": "p",
-                "x": "Los Optane DIMMs se ponen «extremadamente calientes» con inferencia sostenida, lo que, según el autor, puede poner en peligro la DRAM vecina. El consejo: «tratar la refrigeración activa de los DIMM como obligatoria», con dos ventiladores tipo soplador de 12W apuntando a los módulos. Intel especifica cada módulo a 12W o 15W, con limitación térmica a 83 grados Celsius."
+                "x": "Memory usa IA para generar un título, resumir el contenido, añadir etiquetas relevantes y agrupar elementos relacionados en colecciones. Incluso puede reconocer capturas de páginas web y buscar el enlace original. Pixel Screenshots de Google y Mind Space de Oppo hacen algo similar."
               },
               {
                 "t": "p",
-                "x": "Las cifras son previas al ajuste. El autor planea añadir GPUs y cargar partes del modelo en DRAM como un nivel más rápido."
+                "x": "Samsung afirma que el contenido guardado puede procesarse solo en el dispositivo, aunque algunas funciones de inteligencia avanzadas requieren procesamiento en línea. Se espera que Memory llegue con One UI 9.5 en las próximas semanas, pero es una previsión, no una promesa oficial."
               }
             ]
           }
@@ -1129,15 +1119,15 @@
       }
     },
     {
-      "id": "tomsguide-ai-earbuds-survey",
+      "id": "eeg-sleep-headband-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "이어버드 AI,\n원하는 독자는 2%뿐",
-      "body": "Tom's Guide 독자 중 AI 기능으로 이어버드를 고르는 이는 2%다.",
-      "mini_headline": "AI 이어버드, 원하는 이 적다",
+      "headline": "명확한 동의 없이\nAI로 가는 수면 뇌파",
+      "body": "뉴로테크 기업들이 헤드밴드 EEG를 수천만 시간 모아 일부는 AI 학습에 쓴다.",
+      "mini_headline": "수면 트래커,\nEEG로 AI 학습",
       "tool": "Gadgets",
-      "source": "Tom's Guide",
-      "url": "https://www.tomsguide.com/audio/just-2-percent-of-toms-guide-readers-want-ai-in-earbuds-and-headphones-so-why-do-audio-brands-like-apple-samsung-and-soundcore-keep-pushing-it-on-us",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/peripherals/wearable-tech/wearable-sleep-trackers-are-using-your-brainwaves-to-train-ai-models-without-explicit-user-consent-tens-of-millions-of-hours-of-eeg-data-harvested",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
@@ -1145,239 +1135,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/dzhSAejg9r2CVeUepQmEaW-2000-80.jpg"
+            "src": "https://cdn.mos.cms.futurecdn.net/TigcVbSwidE5JLUGgy7em-1200-80.jpg",
+            "cap": "(이미지 출처: Getty Images)"
           },
           {
             "t": "p",
-            "x": "Tom's Guide가 세 주 동안 벌인 투표에서 이어버드와 헤드폰을 고를 때 AI 기능을 따로 찾는다는 독자는 200명 중 다섯 명뿐이었다. 전체 표의 2%다. 음질이 135표로 가장 많았고 ANC가 13%로 뒤를 이었다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/Ec4yZr9N8LKMoFzrgJ9ya3.png",
-            "cap": "Tom's Guide / 5of10.com"
+            "x": "Science가 Pulitzer Center의 AI Accountability Network와 함께 벌인 조사에 따르면, 소비자용 뉴로테크 기업들은 수천만 시간 분량의 EEG 기록을 쌓았고 여러 곳이 이를 뇌 파운데이션 모델 개발에 쓰고 있다. 처음에는 개인정보 처리방침에 이런 용도를 적지도 않았다."
           },
           {
             "t": "p",
-            "x": "Anker Soundcore Space 2 Pro는 “세계 최초의 신경망 컴퓨트 인 메모리 AI 오디오 칩”을 광고 문구로 내걸고, Soundcore 앱에는 AI 챗봇 탭까지 있다. 그런데 Anker는 Space 2 Pro의 Anka가 “'Hey Anka'를 통한 호출과 기본적인 음성 상호작용이나 대화만 지원한다”고 밝혔다. 나머지 기능은 아직 개발 중이다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/PAQH7qRotUavbzbRoHmrg.jpg",
-            "cap": "Anker / Future"
+            "x": "Muse 수면 헤드밴드 제조사 Interaxon은 약 50,000시간 분량의 EEG 기록으로 AI 모델을 학습시켰지만, 개인정보 처리방침을 고치기 전까지 이 사실을 분명히 밝히지 않았다. CMO Nadia Kumentas는 \"사용자가 명시적으로 안내받아야 한다는 데 동의한다\"고 말했다. Emotiv는 Large Brain 모델 일부를 고객 기록으로 학습시키며, 지금은 비식별 데이터를 옵트인 방식으로 쓴다고 공개하고 있다."
           },
           {
             "t": "p",
-            "x": "AirPods Max 2나 Samsung Galaxy Buds 4 Pro의 Live Translation, Soundcore Liberty 5 Pro Max의 통화 녹취처럼 제대로 돌아가는 AI라면 장점이 된다. Cambridge Audio는 $149 Melomania A100 SE에 AI를 넣지 않았다. “이동 중에 좋아하는 음악을 들을 때 꼭 필요하다고는 보지 않았다.”"
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/JrpSckBC4M5g9ugniCMYsd.jpg",
-            "cap": "Tom's Guide"
+            "x": "조사 대상 기업의 3분의 2 이상은 사용자 동의 없이 기업 간 데이터 이전을 허용했다. Piramidal은 Cleveland Clinic과 함께 400만 시간이 넘는 EEG 데이터로 모델을 학습시켰고, 이 회사의 발작 감지 시스템은 파일럿 연구에서 발작 10건 중 9건을 잡아냈다. 웨어러블은 대부분 전극을 1~6개만 쓰는 반면 임상 시스템은 19~25개를 쓴다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Only 2% of readers want\nAI in their earbuds",
-          "body": "Just 2% of Tom's Guide readers buy earbuds and headphones for AI features, even as audio brands keep adding them.",
-          "mini_headline": "Few want\nAI earbuds",
+          "headline": "Sleep headbands feed brainwaves\nto AI without clear consent",
+          "body": "Neurotech firms have amassed tens of millions of hours of headband EEG data, and several use it to train AI models.",
+          "mini_headline": "Sleep trackers\ntrain AI on EEG",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dzhSAejg9r2CVeUepQmEaW-2000-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/TigcVbSwidE5JLUGgy7em-1200-80.jpg",
+                "cap": "(Image credit: Getty Images)"
               },
               {
                 "t": "p",
-                "x": "In a three-week Tom's Guide poll, only five of 200 readers said they specifically look for AI features in earbuds and headphones: just 2% of the vote. Sound quality won with 135 votes, and ANC came second with 13%."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Ec4yZr9N8LKMoFzrgJ9ya3.png",
-                "cap": "Tom's Guide / 5of10.com"
+                "x": "An investigation by Science with the Pulitzer Center's AI Accountability Network found that consumer neurotechnology companies have accumulated tens of millions of hours of EEG recordings, and several are using them to develop brain foundation models, despite initially failing to spell out that use in their privacy policies."
               },
               {
                 "t": "p",
-                "x": "The Anker Soundcore Space 2 Pro are advertised with the \"world's first neural-net compute-in-memory AI audio chip,\" and the Soundcore app shows an AI chatbot tab. But Anker said Anka on Space 2 Pro \"only supports activation via 'Hey Anka' and basic voice interactions or chats\"; other features are still in development."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/PAQH7qRotUavbzbRoHmrg.jpg",
-                "cap": "Anker / Future"
+                "x": "Interaxon, maker of the Muse sleep headband, has trained an AI model on about 50,000 hours of EEG recordings. Its privacy policy did not explicitly disclose this until it was updated; \"We agree users should be explicitly informed,\" CMO Nadia Kumentas said. Emotiv is training its Large Brain model partly on customer recordings and now discloses opt-in use of de-identified data."
               },
               {
                 "t": "p",
-                "x": "AI that works is a plus, like Live Translation on the AirPods Max 2 or Samsung Galaxy Buds 4 Pro, and the Soundcore Liberty 5 Pro Max's call transcription. Cambridge Audio skipped AI on the $149 Melomania A100 SE: \"we haven't found it's a requirement when listening to your favourite music on the go.\""
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JrpSckBC4M5g9ugniCMYsd.jpg",
-                "cap": "Tom's Guide"
+                "x": "More than two-thirds of the companies studied allowed corporate transfers of data without user consent. Piramidal trained a model on more than 4 million hours of EEG data with Cleveland Clinic; its seizure-detection system identified nine out of 10 seizures in a pilot study. Most wearables use just one to six electrodes, versus 19 to 25 in clinical systems."
               }
             ]
           }
         },
         "ko": {
-          "headline": "이어버드 AI,\n원하는 독자는 2%뿐",
-          "body": "Tom's Guide 독자 중 AI 기능으로 이어버드를 고르는 이는 2%다.",
-          "mini_headline": "AI 이어버드, 원하는 이 적다",
+          "headline": "명확한 동의 없이\nAI로 가는 수면 뇌파",
+          "body": "뉴로테크 기업들이 헤드밴드 EEG를 수천만 시간 모아 일부는 AI 학습에 쓴다.",
+          "mini_headline": "수면 트래커,\nEEG로 AI 학습",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dzhSAejg9r2CVeUepQmEaW-2000-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/TigcVbSwidE5JLUGgy7em-1200-80.jpg",
+                "cap": "(이미지 출처: Getty Images)"
               },
               {
                 "t": "p",
-                "x": "Tom's Guide가 세 주 동안 벌인 투표에서 이어버드와 헤드폰을 고를 때 AI 기능을 따로 찾는다는 독자는 200명 중 다섯 명뿐이었다. 전체 표의 2%다. 음질이 135표로 가장 많았고 ANC가 13%로 뒤를 이었다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Ec4yZr9N8LKMoFzrgJ9ya3.png",
-                "cap": "Tom's Guide / 5of10.com"
+                "x": "Science가 Pulitzer Center의 AI Accountability Network와 함께 벌인 조사에 따르면, 소비자용 뉴로테크 기업들은 수천만 시간 분량의 EEG 기록을 쌓았고 여러 곳이 이를 뇌 파운데이션 모델 개발에 쓰고 있다. 처음에는 개인정보 처리방침에 이런 용도를 적지도 않았다."
               },
               {
                 "t": "p",
-                "x": "Anker Soundcore Space 2 Pro는 “세계 최초의 신경망 컴퓨트 인 메모리 AI 오디오 칩”을 광고 문구로 내걸고, Soundcore 앱에는 AI 챗봇 탭까지 있다. 그런데 Anker는 Space 2 Pro의 Anka가 “'Hey Anka'를 통한 호출과 기본적인 음성 상호작용이나 대화만 지원한다”고 밝혔다. 나머지 기능은 아직 개발 중이다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/PAQH7qRotUavbzbRoHmrg.jpg",
-                "cap": "Anker / Future"
+                "x": "Muse 수면 헤드밴드 제조사 Interaxon은 약 50,000시간 분량의 EEG 기록으로 AI 모델을 학습시켰지만, 개인정보 처리방침을 고치기 전까지 이 사실을 분명히 밝히지 않았다. CMO Nadia Kumentas는 \"사용자가 명시적으로 안내받아야 한다는 데 동의한다\"고 말했다. Emotiv는 Large Brain 모델 일부를 고객 기록으로 학습시키며, 지금은 비식별 데이터를 옵트인 방식으로 쓴다고 공개하고 있다."
               },
               {
                 "t": "p",
-                "x": "AirPods Max 2나 Samsung Galaxy Buds 4 Pro의 Live Translation, Soundcore Liberty 5 Pro Max의 통화 녹취처럼 제대로 돌아가는 AI라면 장점이 된다. Cambridge Audio는 $149 Melomania A100 SE에 AI를 넣지 않았다. “이동 중에 좋아하는 음악을 들을 때 꼭 필요하다고는 보지 않았다.”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JrpSckBC4M5g9ugniCMYsd.jpg",
-                "cap": "Tom's Guide"
+                "x": "조사 대상 기업의 3분의 2 이상은 사용자 동의 없이 기업 간 데이터 이전을 허용했다. Piramidal은 Cleveland Clinic과 함께 400만 시간이 넘는 EEG 데이터로 모델을 학습시켰고, 이 회사의 발작 감지 시스템은 파일럿 연구에서 발작 10건 중 9건을 잡아냈다. 웨어러블은 대부분 전극을 1~6개만 쓰는 반면 임상 시스템은 19~25개를 쓴다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "イヤホンにAIを\n望む読者は2%だけ",
-          "body": "Tom's GuideでAI機能目当てにイヤホンを買う読者は2%にとどまる。",
-          "mini_headline": "AIイヤホン、望む人は少数",
+          "headline": "睡眠ヘッドバンドの脳波\n明確な同意なくAIへ",
+          "body": "ニューロテック企業はヘッドバンドのEEGデータを数千万時間分集め、一部はAI学習に使う。",
+          "mini_headline": "睡眠トラッカーが\nEEGでAIを学習",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dzhSAejg9r2CVeUepQmEaW-2000-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/TigcVbSwidE5JLUGgy7em-1200-80.jpg",
+                "cap": "(画像クレジット: Getty Images)"
               },
               {
                 "t": "p",
-                "x": "Tom's Guideが三週間にわたって行った投票で、イヤホンやヘッドホンでAI機能を特に重視すると答えた読者は200人中わずか五人、票全体の2%だった。音質が135票でトップとなり、ANCが13%で続いた。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Ec4yZr9N8LKMoFzrgJ9ya3.png",
-                "cap": "Tom's Guide / 5of10.com"
+                "x": "ScienceがPulitzer CenterのAI Accountability Networkと共同で行った調査によると、消費者向けニューロテクノロジー企業は数千万時間分のEEG記録を蓄積し、複数の企業がそれを脳の基盤モデル開発に使っている。当初はプライバシーポリシーでその用途を明記していなかった。"
               },
               {
                 "t": "p",
-                "x": "Anker Soundcore Space 2 Proは「世界初のニューラルネット・コンピュート・イン・メモリAIオーディオチップ」をうたい、SoundcoreアプリにはAIチャットボットのタブがある。だがAnkerによれば、Space 2 ProのAnkaは「『Hey Anka』による起動と、基本的な音声のやり取りや会話にのみ対応」しており、ほかの機能はまだ開発中だという。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/PAQH7qRotUavbzbRoHmrg.jpg",
-                "cap": "Anker / Future"
+                "x": "Museの睡眠ヘッドバンドを手がけるInteraxonは、約50,000時間分のEEG記録でAIモデルを学習させた。同社のプライバシーポリシーは更新されるまでこの点を明示していなかった。CMOのNadia Kumentas氏は「ユーザーに明示的に知らせるべきだという点に同意する」と述べた。EmotivはLarge Brainモデルの一部を顧客の記録で学習させており、現在は匿名化データのオプトイン利用を開示している。"
               },
               {
                 "t": "p",
-                "x": "AirPods Max 2やSamsung Galaxy Buds 4 ProのLive Translation、Soundcore Liberty 5 Pro Maxの通話文字起こしのように、きちんと機能するAIは利点になる。Cambridge Audioは$149のMelomania A100 SEにAIを載せなかった。「外出先でお気に入りの音楽を聴くときに必要だとは考えていない」という。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JrpSckBC4M5g9ugniCMYsd.jpg",
-                "cap": "Tom's Guide"
+                "x": "調査対象企業の3分の2以上が、ユーザーの同意なしに企業間のデータ移転を認めていた。PiramidalはCleveland Clinicと共同で400万時間を超えるEEGデータでモデルを学習させ、その発作検出システムはパイロット研究で10件中9件の発作を識別した。ほとんどのウェアラブルの電極は1～6個にとどまり、臨床用システムの19～25個とは差がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "仅2%的读者\n想要AI耳机",
-          "body": "Tom's Guide读者中仅2%会为AI功能买耳机，品牌却仍在不断加码。",
-          "mini_headline": "AI耳机少人问津",
+          "headline": "睡眠头带脑电波\n未经明确同意即喂给AI",
+          "body": "神经科技公司已积累数千万小时的头带EEG数据，其中多家用其训练AI模型。",
+          "mini_headline": "睡眠追踪器\n用EEG训练AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dzhSAejg9r2CVeUepQmEaW-2000-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/TigcVbSwidE5JLUGgy7em-1200-80.jpg",
+                "cap": "（图片来源：Getty Images）"
               },
               {
                 "t": "p",
-                "x": "在Tom's Guide为期三周的投票中，200位读者里只有五位表示会特意寻找耳机的AI功能，仅占总票数的2%。音质以135票位居榜首，ANC以13%排名第二。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Ec4yZr9N8LKMoFzrgJ9ya3.png",
-                "cap": "Tom's Guide / 5of10.com"
+                "x": "Science与Pulitzer Center的AI Accountability Network联合开展的调查发现，消费级神经技术公司已积累数千万小时的EEG记录，其中多家正用这些数据开发大脑基础模型，尽管它们最初并未在隐私政策中写明这一用途。"
               },
               {
                 "t": "p",
-                "x": "Anker Soundcore Space 2 Pro的宣传语是“全球首款神经网络存内计算AI音频芯片”，Soundcore应用里也有AI聊天机器人标签页。但Anker表示，Space 2 Pro上的Anka“仅支持通过‘Hey Anka’唤醒，以及基础的语音交互或聊天”；其他功能仍在开发中。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/PAQH7qRotUavbzbRoHmrg.jpg",
-                "cap": "Anker / Future"
+                "x": "Muse睡眠头带的制造商Interaxon用约50,000小时的EEG记录训练了一个AI模型。其隐私政策在更新前并未明确披露这一点；CMO Nadia Kumentas表示：“我们同意应当明确告知用户。”Emotiv正部分使用客户记录训练其Large Brain模型，现已披露会在用户选择加入的前提下使用去标识化数据。"
               },
               {
                 "t": "p",
-                "x": "真正好用的AI是加分项，比如AirPods Max 2或Samsung Galaxy Buds 4 Pro上的Live Translation，以及Soundcore Liberty 5 Pro Max的通话转写。Cambridge Audio在售价$149的Melomania A100 SE上没有加入AI：“我们并不认为在路上听喜欢的音乐时需要它。”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JrpSckBC4M5g9ugniCMYsd.jpg",
-                "cap": "Tom's Guide"
+                "x": "在受调查的公司中，超过三分之二允许在未经用户同意的情况下进行企业间数据转移。Piramidal与Cleveland Clinic合作，用超过400万小时的EEG数据训练了一个模型；在一项试点研究中，其癫痫发作检测系统识别出了10次发作中的9次。大多数可穿戴设备只使用1到6个电极，而临床系统使用19到25个。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Solo el 2% de lectores quiere\nIA en sus auriculares",
-          "body": "Solo el 2% de lectores de Tom's Guide compra auriculares por funciones de IA, aunque las marcas siguen añadiéndolas.",
-          "mini_headline": "Pocos quieren IA en los auriculares",
+          "headline": "Diademas de sueño dan a la IA\nondas cerebrales sin aval claro",
+          "body": "Empresas de neurotecnología acumulan decenas de millones de horas de EEG de diademas y varias entrenan IA con ellas.",
+          "mini_headline": "Rastreadores de sueño\nentrenan IA con EEG",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dzhSAejg9r2CVeUepQmEaW-2000-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/TigcVbSwidE5JLUGgy7em-1200-80.jpg",
+                "cap": "(Imagen: Getty Images)"
               },
               {
                 "t": "p",
-                "x": "En una encuesta de Tom's Guide de tres semanas, solo cinco de 200 lectores dijeron buscar específicamente funciones de IA en auriculares: apenas el 2% de los votos. La calidad de sonido ganó con 135 votos y la ANC quedó segunda con el 13%."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Ec4yZr9N8LKMoFzrgJ9ya3.png",
-                "cap": "Tom's Guide / 5of10.com"
+                "x": "Una investigación de Science con la AI Accountability Network del Pulitzer Center halló que las empresas de neurotecnología de consumo han acumulado decenas de millones de horas de registros de EEG, y varias los usan para desarrollar modelos fundacionales del cerebro, pese a que al principio no detallaban ese uso en sus políticas de privacidad."
               },
               {
                 "t": "p",
-                "x": "Los Anker Soundcore Space 2 Pro se anuncian con el “primer chip de audio AI de computación en memoria con red neuronal del mundo”, y la app Soundcore muestra una pestaña de chatbot de IA. Pero Anker afirmó que Anka en los Space 2 Pro “solo admite la activación mediante 'Hey Anka' e interacciones o chats de voz básicos”; las demás funciones siguen en desarrollo."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/PAQH7qRotUavbzbRoHmrg.jpg",
-                "cap": "Anker / Future"
+                "x": "Interaxon, fabricante de la diadema de sueño Muse, ha entrenado un modelo de IA con unas 50.000 horas de registros de EEG. Su política de privacidad no lo revelaba de forma explícita hasta que fue actualizada; \"Estamos de acuerdo en que los usuarios deben ser informados explícitamente\", dijo la CMO Nadia Kumentas. Emotiv entrena su modelo Large Brain en parte con registros de clientes y ahora informa del uso opcional (opt-in) de datos desidentificados."
               },
               {
                 "t": "p",
-                "x": "La IA que funciona es un punto a favor, como Live Translation en los AirPods Max 2 o los Samsung Galaxy Buds 4 Pro, y la transcripción de llamadas de los Soundcore Liberty 5 Pro Max. Cambridge Audio prescindió de la IA en los Melomania A100 SE de $149: “no hemos visto que sea un requisito al escuchar tu música favorita en movimiento”."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JrpSckBC4M5g9ugniCMYsd.jpg",
-                "cap": "Tom's Guide"
+                "x": "Más de dos tercios de las empresas estudiadas permitían transferencias corporativas de datos sin el consentimiento del usuario. Piramidal entrenó un modelo con más de 4 millones de horas de datos de EEG junto con Cleveland Clinic; su sistema de detección de convulsiones identificó nueve de cada 10 en un estudio piloto. La mayoría de los wearables usa solo de uno a seis electrodos, frente a los 19 a 25 de los sistemas clínicos."
               }
             ]
           }
@@ -1385,165 +1291,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "이어버드 AI,\n원하는 독자는 2%뿐",
-          "body": "Tom's Guide 독자 중 AI 기능으로 이어버드를 고르는 이는 2%다.",
-          "mini_headline": "AI 이어버드, 원하는 이 적다",
+          "headline": "명확한 동의 없이\nAI로 가는 수면 뇌파",
+          "body": "뉴로테크 기업들이 헤드밴드 EEG를 수천만 시간 모아 일부는 AI 학습에 쓴다.",
+          "mini_headline": "수면 트래커,\nEEG로 AI 학습",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dzhSAejg9r2CVeUepQmEaW-2000-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/TigcVbSwidE5JLUGgy7em-1200-80.jpg",
+                "cap": "(이미지 출처: Getty Images)"
               },
               {
                 "t": "p",
-                "x": "Tom's Guide가 세 주 동안 진행한 투표에서 독자 200명 중 다섯 명만이 이어버드와 헤드폰을 고를 때 AI 기능을 따로 찾는다고 답했다. 전체 표의 2%에 불과하다. 음질이 135표로 가장 많았고, ANC가 13%로 뒤를 이었다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Ec4yZr9N8LKMoFzrgJ9ya3.png",
-                "cap": "Tom's Guide / 5of10.com"
+                "x": "Science가 Pulitzer Center의 AI Accountability Network와 함께 진행한 조사에 따르면, 소비자용 뉴로테크 기업들은 수천만 시간 분량의 EEG 기록을 쌓았고, 여러 곳이 이를 뇌 파운데이션 모델 개발에 쓰고 있다. 처음에는 개인정보 처리방침에 이런 용도를 명시하지 않았는데도 그렇다."
               },
               {
                 "t": "p",
-                "x": "Anker Soundcore Space 2 Pro는 “세계 최초의 신경망 컴퓨트 인 메모리 AI 오디오 칩”을 내세워 광고되고, Soundcore 앱에는 AI 챗봇 탭이 있다. 하지만 Anker는 Space 2 Pro의 Anka가 “'Hey Anka'를 통한 호출과 기본적인 음성 상호작용이나 대화만 지원한다”고 밝혔다. 다른 기능은 아직 개발 중이다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/PAQH7qRotUavbzbRoHmrg.jpg",
-                "cap": "Anker / Future"
+                "x": "Muse 수면 헤드밴드를 만드는 Interaxon은 약 50,000시간 분량의 EEG 기록으로 AI 모델을 학습시켰다. 개인정보 처리방침은 개정되기 전까지 이를 명시적으로 밝히지 않았다. CMO Nadia Kumentas는 \"사용자가 명시적으로 안내받아야 한다는 데 동의한다\"고 말했다. Emotiv는 Large Brain 모델 일부를 고객 기록으로 학습시키고 있으며, 지금은 비식별 데이터의 옵트인 사용을 공개하고 있다."
               },
               {
                 "t": "p",
-                "x": "AirPods Max 2나 Samsung Galaxy Buds 4 Pro의 Live Translation, Soundcore Liberty 5 Pro Max의 통화 녹취처럼 제대로 작동하는 AI는 장점이다. Cambridge Audio는 $149 Melomania A100 SE에 AI를 넣지 않았다. “이동 중에 좋아하는 음악을 들을 때 꼭 필요하다고는 보지 않았다.”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JrpSckBC4M5g9ugniCMYsd.jpg",
-                "cap": "Tom's Guide"
+                "x": "조사 대상 기업의 3분의 2 이상은 사용자 동의 없이 기업 간 데이터 이전을 허용했다. Piramidal은 Cleveland Clinic과 함께 400만 시간이 넘는 EEG 데이터로 모델을 학습시켰고, 이 회사의 발작 감지 시스템은 파일럿 연구에서 발작 10건 중 9건을 식별했다. 대부분의 웨어러블은 전극을 1~6개만 쓰지만, 임상 시스템은 19~25개를 쓴다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "イヤホンにAIを\n望む読者は2%だけ",
-          "body": "Tom's GuideでAI機能目当てにイヤホンを買う読者は2%にとどまる。",
-          "mini_headline": "AIイヤホン、望む人は少数",
+          "headline": "睡眠ヘッドバンドの脳波\n明確な同意なくAIへ",
+          "body": "ニューロテック企業はヘッドバンドのEEGデータを数千万時間分集め、一部はAI学習に使う。",
+          "mini_headline": "睡眠トラッカーが\nEEGでAIを学習",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dzhSAejg9r2CVeUepQmEaW-2000-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/TigcVbSwidE5JLUGgy7em-1200-80.jpg",
+                "cap": "(画像クレジット: Getty Images)"
               },
               {
                 "t": "p",
-                "x": "Tom's Guideが三週間にわたって行った投票で、イヤホンやヘッドホンでAI機能を特に重視すると答えた読者は200人中わずか五人、票全体の2%だった。音質が135票でトップとなり、ANCが13%で続いた。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Ec4yZr9N8LKMoFzrgJ9ya3.png",
-                "cap": "Tom's Guide / 5of10.com"
+                "x": "ScienceがPulitzer CenterのAI Accountability Networkと共同で行った調査によると、消費者向けニューロテクノロジー企業は数千万時間分のEEG記録を蓄積し、複数の企業がそれを脳の基盤モデル開発に使っている。当初はプライバシーポリシーでその用途を明記していなかった。"
               },
               {
                 "t": "p",
-                "x": "Anker Soundcore Space 2 Proは「世界初のニューラルネット・コンピュート・イン・メモリAIオーディオチップ」をうたい、SoundcoreアプリにはAIチャットボットのタブがある。だがAnkerによれば、Space 2 ProのAnkaは「『Hey Anka』による起動と、基本的な音声のやり取りや会話にのみ対応」しており、ほかの機能はまだ開発中だという。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/PAQH7qRotUavbzbRoHmrg.jpg",
-                "cap": "Anker / Future"
+                "x": "Museの睡眠ヘッドバンドを手がけるInteraxonは、約50,000時間分のEEG記録でAIモデルを学習させた。同社のプライバシーポリシーは更新されるまでこの点を明示していなかった。CMOのNadia Kumentas氏は「ユーザーに明示的に知らせるべきだという点に同意する」と述べた。EmotivはLarge Brainモデルの一部を顧客の記録で学習させており、現在は匿名化データのオプトイン利用を開示している。"
               },
               {
                 "t": "p",
-                "x": "AirPods Max 2やSamsung Galaxy Buds 4 ProのLive Translation、Soundcore Liberty 5 Pro Maxの通話文字起こしのように、きちんと機能するAIは利点になる。Cambridge Audioは$149のMelomania A100 SEにAIを載せなかった。「外出先でお気に入りの音楽を聴くときに必要だとは考えていない」という。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JrpSckBC4M5g9ugniCMYsd.jpg",
-                "cap": "Tom's Guide"
+                "x": "調査対象企業の3分の2以上が、ユーザーの同意なしに企業間のデータ移転を認めていた。PiramidalはCleveland Clinicと共同で400万時間を超えるEEGデータでモデルを学習させ、その発作検出システムはパイロット研究で10件中9件の発作を識別した。ほとんどのウェアラブルの電極は1～6個にとどまり、臨床用システムの19～25個とは差がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "仅2%的读者\n想要AI耳机",
-          "body": "Tom's Guide读者中仅2%会为AI功能买耳机，品牌却仍在不断加码。",
-          "mini_headline": "AI耳机少人问津",
+          "headline": "睡眠头带脑电波\n未经明确同意即喂给AI",
+          "body": "神经科技公司已积累数千万小时的头带EEG数据，其中多家用其训练AI模型。",
+          "mini_headline": "睡眠追踪器\n用EEG训练AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dzhSAejg9r2CVeUepQmEaW-2000-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/TigcVbSwidE5JLUGgy7em-1200-80.jpg",
+                "cap": "（图片来源：Getty Images）"
               },
               {
                 "t": "p",
-                "x": "在Tom's Guide为期三周的投票中，200位读者里只有五位表示会特意寻找耳机的AI功能，仅占总票数的2%。音质以135票位居榜首，ANC以13%排名第二。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Ec4yZr9N8LKMoFzrgJ9ya3.png",
-                "cap": "Tom's Guide / 5of10.com"
+                "x": "Science与Pulitzer Center的AI Accountability Network联合开展的调查发现，消费级神经技术公司已积累数千万小时的EEG记录，其中多家正用这些数据开发大脑基础模型，尽管它们最初并未在隐私政策中写明这一用途。"
               },
               {
                 "t": "p",
-                "x": "Anker Soundcore Space 2 Pro的宣传语是“全球首款神经网络存内计算AI音频芯片”，Soundcore应用里也有AI聊天机器人标签页。但Anker表示，Space 2 Pro上的Anka“仅支持通过‘Hey Anka’唤醒，以及基础的语音交互或聊天”；其他功能仍在开发中。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/PAQH7qRotUavbzbRoHmrg.jpg",
-                "cap": "Anker / Future"
+                "x": "Muse睡眠头带的制造商Interaxon用约50,000小时的EEG记录训练了一个AI模型。其隐私政策在更新前并未明确披露这一点；CMO Nadia Kumentas表示：“我们同意应当明确告知用户。”Emotiv正部分使用客户记录训练其Large Brain模型，现已披露会在用户选择加入的前提下使用去标识化数据。"
               },
               {
                 "t": "p",
-                "x": "真正好用的AI是加分项，比如AirPods Max 2或Samsung Galaxy Buds 4 Pro上的Live Translation，以及Soundcore Liberty 5 Pro Max的通话转写。Cambridge Audio在售价$149的Melomania A100 SE上没有加入AI：“我们并不认为在路上听喜欢的音乐时需要它。”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JrpSckBC4M5g9ugniCMYsd.jpg",
-                "cap": "Tom's Guide"
+                "x": "在受调查的公司中，超过三分之二允许在未经用户同意的情况下进行企业间数据转移。Piramidal与Cleveland Clinic合作，用超过400万小时的EEG数据训练了一个模型；在一项试点研究中，其癫痫发作检测系统识别出了10次发作中的9次。大多数可穿戴设备只使用1到6个电极，而临床系统使用19到25个。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Solo el 2% de lectores quiere\nIA en sus auriculares",
-          "body": "Solo el 2% de lectores de Tom's Guide compra auriculares por funciones de IA, aunque las marcas siguen añadiéndolas.",
-          "mini_headline": "Pocos quieren IA en los auriculares",
+          "headline": "Diademas de sueño dan a la IA\nondas cerebrales sin aval claro",
+          "body": "Empresas de neurotecnología acumulan decenas de millones de horas de EEG de diademas y varias entrenan IA con ellas.",
+          "mini_headline": "Rastreadores de sueño\nentrenan IA con EEG",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dzhSAejg9r2CVeUepQmEaW-2000-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/TigcVbSwidE5JLUGgy7em-1200-80.jpg",
+                "cap": "(Imagen: Getty Images)"
               },
               {
                 "t": "p",
-                "x": "En una encuesta de Tom's Guide de tres semanas, solo cinco de 200 lectores dijeron buscar específicamente funciones de IA en auriculares: apenas el 2% de los votos. La calidad de sonido ganó con 135 votos y la ANC quedó segunda con el 13%."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Ec4yZr9N8LKMoFzrgJ9ya3.png",
-                "cap": "Tom's Guide / 5of10.com"
+                "x": "Una investigación de Science con la AI Accountability Network del Pulitzer Center halló que las empresas de neurotecnología de consumo han acumulado decenas de millones de horas de registros de EEG, y varias los usan para desarrollar modelos fundacionales del cerebro, pese a que al principio no detallaban ese uso en sus políticas de privacidad."
               },
               {
                 "t": "p",
-                "x": "Los Anker Soundcore Space 2 Pro se anuncian con el “primer chip de audio AI de computación en memoria con red neuronal del mundo”, y la app Soundcore muestra una pestaña de chatbot de IA. Pero Anker afirmó que Anka en los Space 2 Pro “solo admite la activación mediante 'Hey Anka' e interacciones o chats de voz básicos”; las demás funciones siguen en desarrollo."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/PAQH7qRotUavbzbRoHmrg.jpg",
-                "cap": "Anker / Future"
+                "x": "Interaxon, fabricante de la diadema de sueño Muse, ha entrenado un modelo de IA con unas 50.000 horas de registros de EEG. Su política de privacidad no lo revelaba de forma explícita hasta que fue actualizada; \"Estamos de acuerdo en que los usuarios deben ser informados explícitamente\", dijo la CMO Nadia Kumentas. Emotiv entrena su modelo Large Brain en parte con registros de clientes y ahora informa del uso opcional (opt-in) de datos desidentificados."
               },
               {
                 "t": "p",
-                "x": "La IA que funciona es un punto a favor, como Live Translation en los AirPods Max 2 o los Samsung Galaxy Buds 4 Pro, y la transcripción de llamadas de los Soundcore Liberty 5 Pro Max. Cambridge Audio prescindió de la IA en los Melomania A100 SE de $149: “no hemos visto que sea un requisito al escuchar tu música favorita en movimiento”."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JrpSckBC4M5g9ugniCMYsd.jpg",
-                "cap": "Tom's Guide"
+                "x": "Más de dos tercios de las empresas estudiadas permitían transferencias corporativas de datos sin el consentimiento del usuario. Piramidal entrenó un modelo con más de 4 millones de horas de datos de EEG junto con Cleveland Clinic; su sistema de detección de convulsiones identificó nueve de cada 10 en un estudio piloto. La mayoría de los wearables usa solo de uno a seis electrodos, frente a los 19 a 25 de los sistemas clínicos."
               }
             ]
           }
@@ -1551,351 +1401,321 @@
       }
     },
     {
-      "id": "underdog-woof-32mb",
-      "source_lang": "en",
+      "id": "agibot-g2-convenience-store",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Underdog의 Woof\n32MB 음성·음악 모델",
-      "body": "Underdog이 오프라인 31M-parameter 모델 Woof를 공개했다.",
-      "mini_headline": "32MB 안에서 말하는 Woof",
+      "headline": "편의점 직원 된\n휴머노이드 로봇",
+      "body": "애지봇 G2 6대가 상하이 편의점에서 24시간 일하며 1730건을 처리했다.",
+      "mini_headline": "편의점 근무\n휴머노이드",
       "tool": "Gadgets",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-      "accent": "#f5a623",
+      "source": "전자신문",
+      "url": "https://www.etnews.com/20261109000425",
+      "accent": "#eb367f",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.02.34-PM.jpg?resize=1200,542"
+            "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg",
+            "cap": "출처=엑스(AGIBOTofficial)"
+          },
+          {
+            "t": "video",
+            "yt": "EBSo1cuv9QY"
           },
           {
             "t": "p",
-            "x": "AI 기업들이 막대한 연산 능력이 드는 더 큰 모델 경쟁을 벌이는 사이, 일부 연구자와 스타트업은 휴대폰이나 컴퓨터 같은 엣지 기기에서 돌아가는 작은 모델을 만든다."
+            "x": "휴머노이드 로봇 6대가 편의점에서 24시간 근무에 도전했습니다. 중국 로봇 스타트업 애지봇은 지난 2일부터 3일까지 상하이의 한 편의점에 바퀴형 휴머노이드 로봇 'G2' 6대를 투입해 근무 평가를 진행했습니다. 로봇들은 손님 응대와 상품 진열, 커피 제조, 음식 제공, 청소 등 다양한 업무를 수행했습니다."
           },
           {
             "t": "p",
-            "x": "Underdog도 그런 스타트업이다. 크기가 32MB뿐인 새 음성 모델 Woof로 만든 게임을 공개했다. 게임에는 레트로 테크 분위기의 방과 타자기, CRT 모니터가 있고, 인트로는 마을의 “침해적인” 클라우드 업체들을 조심하라고 경고한다. 클라우드 기반 모델을 겨냥한 농담으로 보인다."
+            "x": "24시간 동안 총 1730건의 작업을 완료했으며, 커피 주문 147건을 처리하고 상품 369개를 가져다줬다고 회사 측은 밝혔습니다. 하지만 최종 평가에서는 6대 중 4대만 합격했습니다. 상품 진열을 담당한 로봇은 업무 적극성이 부족하다는 평가를 받았고, 청소 로봇은 쓰레기통이 가득 차자 정해진 경로를 벗어나 매장 밖으로 나가면서 탈락했습니다."
           },
           {
             "t": "p",
-            "x": "타자기에 무엇이든 치면 게임이 소리 내어 읽어 주고, 튜너를 돌리면 여러 종류의 음악을 만든다. 모두 Underdog의 음성 생성 모델로 브라우저 안에서 돌아가며, 회사 설명으로는 이 모델이 인터넷 연결 없이 대부분의 기기에서 작동한다. 파라미터는 3100만 개이고 누구나 내려받을 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "이번 데모는 Underdog이 엣지 기기에서 녹취와 받아쓰기를 하는 167MB 크기의 음성-텍스트 변환 모델 Bark를 내놓은 지 몇 주 만에 나왔다. 창업자 Sigil Wen은 TechCrunch에 이렇게 말했다. “우리는 그저 미국산(American-made)이면서 개방적이고 성능이 뛰어나며, 사람들이 프라이빗 AI를 가질 수 있게 해주는 최고의 오픈 모델을 학습시키고 싶을 뿐입니다.”"
-          },
-          {
-            "t": "p",
-            "x": "Underdog은 노트북에서 돌아가는 27-billion-parameter 모델도 공개했고, Muse와 Instinct를 대체할 로컬 호스팅 앱의 대기자 명단도 받는다."
+            "x": "이번 도전은 실제 영업 중인 편의점에서 진행됐으며 전 과정이 온라인으로 생중계됐습니다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Underdog's 32MB Woof model\nmakes speech and music offline",
-          "body": "Underdog released Woof, an open 31M-parameter speech and music model that runs offline on most devices in just 32MB.",
-          "mini_headline": "Woof speaks\nin 32MB",
+        "ko": {
+          "headline": "편의점 직원 된\n휴머노이드 로봇",
+          "body": "애지봇 G2 6대가 상하이 편의점에서 24시간 일하며 1730건을 처리했다.",
+          "mini_headline": "편의점 근무\n휴머노이드",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.02.34-PM.jpg?resize=1200,542"
+                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg",
+                "cap": "출처=엑스(AGIBOTofficial)"
+              },
+              {
+                "t": "video",
+                "yt": "EBSo1cuv9QY"
               },
               {
                 "t": "p",
-                "x": "AI companies are racing to build bigger models that need massive processing power, while some researchers and startups are making smaller models that run on edge devices like your phone or computer."
+                "x": "휴머노이드 로봇 6대가 편의점에서 24시간 근무에 도전했습니다. 중국 로봇 스타트업 애지봇은 지난 2일부터 3일까지 상하이의 한 편의점에 바퀴형 휴머노이드 로봇 'G2' 6대를 투입해 근무 평가를 진행했습니다. 로봇들은 손님 응대와 상품 진열, 커피 제조, 음식 제공, 청소 등 다양한 업무를 수행했습니다."
               },
               {
                 "t": "p",
-                "x": "One such startup, Underdog, has released a game built with its new voice model called Woof that's only 32MB large. The game features a room with a retro tech theme, a typewriter, and a CRT monitor; its intro warns users about “intrusive” cloud providers in the town — ostensibly a jab at cloud-based models."
+                "x": "24시간 동안 총 1730건의 작업을 완료했으며, 커피 주문 147건을 처리하고 상품 369개를 가져다줬다고 회사 측은 밝혔습니다. 하지만 최종 평가에서는 6대 중 4대만 합격했습니다. 상품 진열을 담당한 로봇은 업무 적극성이 부족하다는 평가를 받았고, 청소 로봇은 쓰레기통이 가득 차자 정해진 경로를 벗어나 매장 밖으로 나가면서 탈락했습니다."
               },
               {
                 "t": "p",
-                "x": "You can type anything on the typewriter and the game will speak it back, or rotate the tuner to generate different kinds of music. All of this works within the browser through Underdog's speech generation model, which, the company says, can run on most devices without any internet connection. The model has 31 million parameters and is open for everyone to download."
-              },
-              {
-                "t": "p",
-                "x": "The demo comes weeks after Underdog launched Bark, a 167MB speech-to-text model for transcription and dictation on edge devices. Founder Sigil Wen told TechCrunch: “We just want to train the best open models that are American-made, that are open, that are capable and allow people to have private AI.”"
-              },
-              {
-                "t": "p",
-                "x": "Underdog has also released a 27-billion-parameter model that can run on laptops, along with a waitlisted app positioned as a locally hosted alternative to Muse and Instinct."
+                "x": "이번 도전은 실제 영업 중인 편의점에서 진행됐으며 전 과정이 온라인으로 생중계됐습니다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Underdog의 Woof\n32MB 음성·음악 모델",
-          "body": "Underdog이 오프라인 31M-parameter 모델 Woof를 공개했다.",
-          "mini_headline": "32MB 안에서 말하는 Woof",
+        "en": {
+          "headline": "Humanoid robots become\nconvenience store clerks",
+          "body": "Six AgiBot G2 robots worked 24 hours at a Shanghai convenience store and handled 1,730 tasks.",
+          "mini_headline": "Humanoids staff\na convenience store",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.02.34-PM.jpg?resize=1200,542"
+                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg",
+                "cap": "Source: X (AGIBOTofficial)"
+              },
+              {
+                "t": "video",
+                "yt": "EBSo1cuv9QY"
               },
               {
                 "t": "p",
-                "x": "AI 기업들이 막대한 연산 능력이 드는 더 큰 모델 경쟁을 벌이는 사이, 일부 연구자와 스타트업은 휴대폰이나 컴퓨터 같은 엣지 기기에서 돌아가는 작은 모델을 만든다."
+                "x": "Six humanoid robots took on a 24-hour shift at a convenience store. Chinese robotics startup AgiBot deployed six of its wheeled humanoid robots, the 'G2', at a convenience store in Shanghai from the 2nd to the 3rd for a work evaluation. The robots handled a range of tasks, including serving customers, stocking shelves, making coffee, serving food and cleaning."
               },
               {
                 "t": "p",
-                "x": "Underdog도 그런 스타트업이다. 크기가 32MB뿐인 새 음성 모델 Woof로 만든 게임을 공개했다. 게임에는 레트로 테크 분위기의 방과 타자기, CRT 모니터가 있고, 인트로는 마을의 “침해적인” 클라우드 업체들을 조심하라고 경고한다. 클라우드 기반 모델을 겨냥한 농담으로 보인다."
+                "x": "Over the 24 hours, they completed a total of 1,730 tasks, including 147 coffee orders, and fetched 369 products, the company said. In the final evaluation, however, only four of the six passed. The robot in charge of stocking shelves was judged to lack initiative, and the cleaning robot was eliminated after it strayed from its set route and left the store when the trash bin filled up."
               },
               {
                 "t": "p",
-                "x": "타자기에 무엇이든 치면 게임이 소리 내어 읽어 주고, 튜너를 돌리면 여러 종류의 음악을 만든다. 모두 Underdog의 음성 생성 모델로 브라우저 안에서 돌아가며, 회사 설명으로는 이 모델이 인터넷 연결 없이 대부분의 기기에서 작동한다. 파라미터는 3100만 개이고 누구나 내려받을 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "이번 데모는 Underdog이 엣지 기기에서 녹취와 받아쓰기를 하는 167MB 크기의 음성-텍스트 변환 모델 Bark를 내놓은 지 몇 주 만에 나왔다. 창업자 Sigil Wen은 TechCrunch에 이렇게 말했다. “우리는 그저 미국산(American-made)이면서 개방적이고 성능이 뛰어나며, 사람들이 프라이빗 AI를 가질 수 있게 해주는 최고의 오픈 모델을 학습시키고 싶을 뿐입니다.”"
-              },
-              {
-                "t": "p",
-                "x": "Underdog은 노트북에서 돌아가는 27-billion-parameter 모델도 공개했고, Muse와 Instinct를 대체할 로컬 호스팅 앱의 대기자 명단도 받는다."
+                "x": "The challenge took place at a convenience store that was open for business, and the entire process was livestreamed online."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UnderdogのWoof\n32MBで音声と音楽",
-          "body": "Underdogが31M-parameterのオフライン音声モデルWoofを公開した。",
-          "mini_headline": "Woofは32MBで話す",
+          "headline": "コンビニ店員になった\nヒューマノイドロボット",
+          "body": "AgiBotのG2 6台が上海のコンビニで24時間働き、1730件の作業をこなした。",
+          "mini_headline": "コンビニで働く\nヒューマノイド",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.02.34-PM.jpg?resize=1200,542"
+                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg",
+                "cap": "出典=X(AGIBOTofficial)"
+              },
+              {
+                "t": "video",
+                "yt": "EBSo1cuv9QY"
               },
               {
                 "t": "p",
-                "x": "AI企業が膨大な処理能力を必要とする、より大きなモデルの開発を競う一方で、一部の研究者やスタートアップは、スマートフォンやパソコンといったエッジデバイスで動く小さなモデルを作っている。"
+                "x": "ヒューマノイドロボット6台がコンビニでの24時間勤務に挑んだ。中国のロボットスタートアップAgiBotは、2日から3日にかけて上海のコンビニに車輪型ヒューマノイドロボット「G2」6台を投入し、勤務評価を行った。ロボットたちは接客、商品陳列、コーヒーづくり、料理の提供、清掃などさまざまな業務をこなした。"
               },
               {
                 "t": "p",
-                "x": "そうしたスタートアップの一つであるUnderdogは、わずか32MBの新しい音声モデルWoofで作ったゲームを公開した。ゲームにはレトロなテック調の部屋、タイプライター、CRTモニターが登場し、イントロでは町の「押しつけがましい」クラウド事業者に注意するよう呼びかける。クラウド型モデルへの皮肉とみられる。"
+                "x": "同社によると、24時間で計1730件の作業を完了し、コーヒーの注文147件を処理し、商品369個を届けた。ただし最終評価で合格したのは6台中4台だけだった。商品陳列を担当したロボットは業務への積極性に欠けると評価され、清掃ロボットはゴミ箱が満杯になると決められたルートを外れて店外に出てしまい、不合格となった。"
               },
               {
                 "t": "p",
-                "x": "タイプライターに何か打ち込めばゲームがそれを読み上げ、チューナーを回せばさまざまな音楽を生成する。これらはすべてUnderdogの音声生成モデルによってブラウザ内で動作し、同社によれば大半のデバイスでインターネット接続なしに動く。モデルのパラメータは3100万で、誰でもダウンロードできるよう公開されている。"
-              },
-              {
-                "t": "p",
-                "x": "このデモは、Underdogがエッジデバイスでの文字起こしやディクテーション向けに167MBの音声認識モデルBarkを出した数週間後に登場した。創業者のSigil WenはTechCrunchにこう語った。「私たちはただ、American-madeで、オープンで、高性能で、人々がプライベートなAIを持てる最高のオープンモデルを訓練したいだけです」"
-              },
-              {
-                "t": "p",
-                "x": "Underdogはノートパソコンで動く27-billion-parameterのモデルも公開し、MuseやInstinctに代わるローカルホスト型アプリのウェイトリストも受け付けている。"
+                "x": "今回の挑戦は実際に営業中のコンビニで行われ、全過程がオンラインで生配信された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Underdog的Woof\n32MB 离线生成语音音乐",
-          "body": "Underdog发布31M-parameter开源模型Woof，仅32MB 可离线运行。",
-          "mini_headline": "32MB 的Woof会说话",
+          "headline": "当上便利店店员的\n人形机器人",
+          "body": "AgiBot的6台G2在上海一家便利店工作24小时，完成了1730项任务。",
+          "mini_headline": "便利店里的\n人形机器人",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.02.34-PM.jpg?resize=1200,542"
+                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg",
+                "cap": "来源：X（AGIBOTofficial）"
+              },
+              {
+                "t": "video",
+                "yt": "EBSo1cuv9QY"
               },
               {
                 "t": "p",
-                "x": "AI公司竞相打造需要海量算力的更大模型，而一些研究人员和初创公司则在开发能在手机、电脑等边缘设备上运行的小模型。"
+                "x": "6台人形机器人在便利店挑战了24小时工作。中国机器人初创公司AgiBot于2日至3日在上海一家便利店投放了6台轮式人形机器人“G2”，开展工作评估。机器人们承担了接待顾客、商品上架、制作咖啡、提供餐食、清洁等多种工作。"
               },
               {
                 "t": "p",
-                "x": "初创公司Underdog就是其中之一，它发布了一款用新语音模型Woof打造的游戏，而Woof的体积只有32MB。游戏里有一个复古科技风格的房间、一台打字机和一台CRT显示器；开场介绍提醒用户提防镇上“侵扰性”的云服务商——显然是在调侃云端模型。"
+                "x": "该公司表示，机器人在24小时内共完成1730项任务，处理了147份咖啡订单，并取送了369件商品。但在最终评估中，6台中只有4台合格。负责商品上架的机器人被评为工作积极性不足，清洁机器人则在垃圾桶装满后偏离既定路线、走出店外而被淘汰。"
               },
               {
                 "t": "p",
-                "x": "你可以在打字机上输入任何内容，游戏会把它念出来；也可以转动调谐旋钮，生成不同类型的音乐。这一切都借助Underdog的语音生成模型在浏览器内运行，公司称该模型无需联网即可在大多数设备上运行。模型有3100万个参数，向所有人开放下载。"
-              },
-              {
-                "t": "p",
-                "x": "几周前，Underdog刚推出Bark，这是一款167MB 的语音转文字模型，用于在边缘设备上转录和听写。创始人Sigil Wen对TechCrunch表示：“我们只想训练最好的开放模型——American-made、开放、能力强，并让人们拥有私有AI。”"
-              },
-              {
-                "t": "p",
-                "x": "Underdog还发布了一款可在笔记本电脑上运行的27-billion-parameter模型，以及一款需排队等候的应用，定位为Muse和Instinct的本地托管替代品。"
+                "x": "此次挑战在一家正常营业的便利店进行，全过程在网上直播。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Woof de Underdog: voz y música\nsin conexión en solo 32MB",
-          "body": "Underdog lanzó Woof, un modelo abierto de voz y música de 31M-parameter que funciona sin conexión en 32MB.",
-          "mini_headline": "Woof habla en 32MB",
+          "headline": "Robots humanoides, empleados\nde una tienda de conveniencia",
+          "body": "Seis robots G2 de AgiBot trabajaron 24 horas en una tienda de conveniencia de Shanghái y completaron 1.730 tareas.",
+          "mini_headline": "Humanoides que atienden\nuna tienda de conveniencia",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.02.34-PM.jpg?resize=1200,542"
+                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg",
+                "cap": "Fuente: X (AGIBOTofficial)"
+              },
+              {
+                "t": "video",
+                "yt": "EBSo1cuv9QY"
               },
               {
                 "t": "p",
-                "x": "Las empresas de AI compiten por crear modelos cada vez más grandes que requieren una enorme capacidad de cómputo, mientras algunos investigadores y startups desarrollan modelos más pequeños que funcionan en dispositivos edge como tu teléfono o tu computadora."
+                "x": "Seis robots humanoides asumieron el reto de trabajar 24 horas en una tienda de conveniencia. La startup china de robótica AgiBot desplegó del día 2 al 3 seis robots humanoides con ruedas, los 'G2', en una tienda de conveniencia de Shanghái para evaluar su desempeño laboral. Los robots realizaron diversas tareas, como atender a clientes, reponer productos, preparar café, servir comida y limpiar."
               },
               {
                 "t": "p",
-                "x": "Una de esas startups, Underdog, ha lanzado un juego creado con su nuevo modelo de voz, Woof, que ocupa solo 32MB. El juego presenta una habitación de estética tecnológica retro, una máquina de escribir y un monitor CRT; su introducción advierte a los usuarios sobre los proveedores de nube “intrusivos” del pueblo, en aparente alusión a los modelos basados en la nube."
+                "x": "Según la empresa, en 24 horas completaron un total de 1.730 tareas, atendieron 147 pedidos de café y entregaron 369 productos. Sin embargo, en la evaluación final solo aprobaron cuatro de los seis. El robot encargado de reponer productos fue calificado como poco proactivo, y el robot de limpieza quedó eliminado al salirse de su ruta establecida y abandonar la tienda cuando se llenó el cubo de basura."
               },
               {
                 "t": "p",
-                "x": "Se puede escribir cualquier cosa en la máquina de escribir y el juego la leerá en voz alta, o girar el sintonizador para generar distintos tipos de música. Todo funciona dentro del navegador gracias al modelo de generación de voz de Underdog que, según la empresa, puede ejecutarse en la mayoría de los dispositivos sin conexión a internet. El modelo tiene 31M de parámetros y está disponible para que cualquiera lo descargue."
-              },
-              {
-                "t": "p",
-                "x": "La demo llega semanas después de que Underdog lanzara Bark, un modelo de voz a texto de 167MB para transcripción y dictado en dispositivos edge. Su fundador, Sigil Wen, dijo a TechCrunch: “Solo queremos entrenar los mejores modelos abiertos que sean American-made, que sean abiertos, que sean capaces y que permitan a la gente tener AI privada”."
-              },
-              {
-                "t": "p",
-                "x": "Underdog también ha lanzado un modelo de 27-billion-parameter que puede ejecutarse en portátiles, junto con una app con lista de espera planteada como alternativa alojada localmente a Muse e Instinct."
+                "x": "El reto se llevó a cabo en una tienda de conveniencia en funcionamiento y todo el proceso se transmitió en directo por internet."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Underdog의 Woof\n32MB 음성·음악 모델",
-          "body": "Underdog이 오프라인 31M-parameter 모델 Woof를 공개했다.",
-          "mini_headline": "32MB 안에서 말하는 Woof",
+        "en": {
+          "headline": "Humanoid robots become\nconvenience store clerks",
+          "body": "Six AgiBot G2 robots worked 24 hours at a Shanghai convenience store and handled 1,730 tasks.",
+          "mini_headline": "Humanoids staff\na convenience store",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.02.34-PM.jpg?resize=1200,542"
+                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg",
+                "cap": "Source: X (AGIBOTofficial)"
+              },
+              {
+                "t": "video",
+                "yt": "EBSo1cuv9QY"
               },
               {
                 "t": "p",
-                "x": "AI 기업들은 막대한 연산 능력이 필요한 더 큰 모델을 만들려고 경쟁하고 있지만, 일부 연구자와 스타트업은 휴대폰이나 컴퓨터 같은 엣지 기기에서 돌아가는 더 작은 모델을 만들고 있다."
+                "x": "Six humanoid robots took on a 24-hour shift at a convenience store. Chinese robotics startup AgiBot deployed six of its wheeled humanoid robots, the 'G2', at a convenience store in Shanghai from the 2nd to the 3rd for a work evaluation. The robots handled a range of tasks, including serving customers, stocking shelves, making coffee, serving food and cleaning."
               },
               {
                 "t": "p",
-                "x": "그런 스타트업 중 하나인 Underdog은 크기가 32MB에 불과한 새 음성 모델 Woof로 만든 게임을 공개했다. 게임 속에는 레트로 테크 분위기의 방과 타자기, CRT 모니터가 있고, 인트로에서는 마을의 “침해적인” 클라우드 업체들을 조심하라고 경고한다. 클라우드 기반 모델을 겨냥한 농담으로 보인다."
+                "x": "Over the 24 hours, they completed a total of 1,730 tasks, including 147 coffee orders, and fetched 369 products, the company said. In the final evaluation, however, only four of the six passed. The robot in charge of stocking shelves was judged to lack initiative, and the cleaning robot was eliminated after it strayed from its set route and left the store when the trash bin filled up."
               },
               {
                 "t": "p",
-                "x": "타자기에 무엇이든 입력하면 게임이 그 내용을 소리 내어 읽어주고, 튜너를 돌리면 여러 종류의 음악을 생성한다. 이 모든 것은 Underdog의 음성 생성 모델을 통해 브라우저 안에서 작동하며, 회사에 따르면 이 모델은 인터넷 연결 없이도 대부분의 기기에서 돌아간다. 모델의 파라미터는 3100만 개이고, 누구나 내려받을 수 있게 공개되어 있다."
-              },
-              {
-                "t": "p",
-                "x": "이번 데모는 Underdog이 엣지 기기에서 녹취와 받아쓰기를 하는 167MB 크기의 음성-텍스트 변환 모델 Bark를 출시한 지 몇 주 만에 나왔다. 창업자 Sigil Wen은 TechCrunch에 이렇게 말했다. “우리는 그저 미국산(American-made)이면서 개방적이고 성능이 뛰어나며, 사람들이 프라이빗 AI를 가질 수 있게 해주는 최고의 오픈 모델을 학습시키고 싶을 뿐입니다.”"
-              },
-              {
-                "t": "p",
-                "x": "Underdog은 노트북에서 돌아가는 27-billion-parameter 모델도 공개했고, Muse와 Instinct를 대체할 로컬 호스팅 앱의 대기자 명단도 받고 있다."
+                "x": "The challenge took place at a convenience store that was open for business, and the entire process was livestreamed online."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UnderdogのWoof\n32MBで音声と音楽",
-          "body": "Underdogが31M-parameterのオフライン音声モデルWoofを公開した。",
-          "mini_headline": "Woofは32MBで話す",
+          "headline": "コンビニ店員になった\nヒューマノイドロボット",
+          "body": "AgiBotのG2 6台が上海のコンビニで24時間働き、1730件の作業をこなした。",
+          "mini_headline": "コンビニで働く\nヒューマノイド",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.02.34-PM.jpg?resize=1200,542"
+                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg",
+                "cap": "出典=X(AGIBOTofficial)"
+              },
+              {
+                "t": "video",
+                "yt": "EBSo1cuv9QY"
               },
               {
                 "t": "p",
-                "x": "AI企業が膨大な処理能力を必要とする、より大きなモデルの開発を競う一方で、一部の研究者やスタートアップは、スマートフォンやパソコンといったエッジデバイスで動く小さなモデルを作っている。"
+                "x": "ヒューマノイドロボット6台がコンビニでの24時間勤務に挑んだ。中国のロボットスタートアップAgiBotは、2日から3日にかけて上海のコンビニに車輪型ヒューマノイドロボット「G2」6台を投入し、勤務評価を行った。ロボットたちは接客、商品陳列、コーヒーづくり、料理の提供、清掃などさまざまな業務をこなした。"
               },
               {
                 "t": "p",
-                "x": "そうしたスタートアップの一つであるUnderdogは、わずか32MBの新しい音声モデルWoofで作ったゲームを公開した。ゲームにはレトロなテック調の部屋、タイプライター、CRTモニターが登場し、イントロでは町の「押しつけがましい」クラウド事業者に注意するよう呼びかける。クラウド型モデルへの皮肉とみられる。"
+                "x": "同社によると、24時間で計1730件の作業を完了し、コーヒーの注文147件を処理し、商品369個を届けた。ただし最終評価で合格したのは6台中4台だけだった。商品陳列を担当したロボットは業務への積極性に欠けると評価され、清掃ロボットはゴミ箱が満杯になると決められたルートを外れて店外に出てしまい、不合格となった。"
               },
               {
                 "t": "p",
-                "x": "タイプライターに何か打ち込めばゲームがそれを読み上げ、チューナーを回せばさまざまな音楽を生成する。これらはすべてUnderdogの音声生成モデルによってブラウザ内で動作し、同社によれば大半のデバイスでインターネット接続なしに動く。モデルのパラメータは3100万で、誰でもダウンロードできるよう公開されている。"
-              },
-              {
-                "t": "p",
-                "x": "このデモは、Underdogがエッジデバイスでの文字起こしやディクテーション向けに167MBの音声認識モデルBarkを出した数週間後に登場した。創業者のSigil WenはTechCrunchにこう語った。「私たちはただ、American-madeで、オープンで、高性能で、人々がプライベートなAIを持てる最高のオープンモデルを訓練したいだけです」"
-              },
-              {
-                "t": "p",
-                "x": "Underdogはノートパソコンで動く27-billion-parameterのモデルも公開し、MuseやInstinctに代わるローカルホスト型アプリのウェイトリストも受け付けている。"
+                "x": "今回の挑戦は実際に営業中のコンビニで行われ、全過程がオンラインで生配信された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Underdog的Woof\n32MB 离线生成语音音乐",
-          "body": "Underdog发布31M-parameter开源模型Woof，仅32MB 可离线运行。",
-          "mini_headline": "32MB 的Woof会说话",
+          "headline": "当上便利店店员的\n人形机器人",
+          "body": "AgiBot的6台G2在上海一家便利店工作24小时，完成了1730项任务。",
+          "mini_headline": "便利店里的\n人形机器人",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.02.34-PM.jpg?resize=1200,542"
+                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg",
+                "cap": "来源：X（AGIBOTofficial）"
+              },
+              {
+                "t": "video",
+                "yt": "EBSo1cuv9QY"
               },
               {
                 "t": "p",
-                "x": "AI公司竞相打造需要海量算力的更大模型，而一些研究人员和初创公司则在开发能在手机、电脑等边缘设备上运行的小模型。"
+                "x": "6台人形机器人在便利店挑战了24小时工作。中国机器人初创公司AgiBot于2日至3日在上海一家便利店投放了6台轮式人形机器人“G2”，开展工作评估。机器人们承担了接待顾客、商品上架、制作咖啡、提供餐食、清洁等多种工作。"
               },
               {
                 "t": "p",
-                "x": "初创公司Underdog就是其中之一，它发布了一款用新语音模型Woof打造的游戏，而Woof的体积只有32MB。游戏里有一个复古科技风格的房间、一台打字机和一台CRT显示器；开场介绍提醒用户提防镇上“侵扰性”的云服务商——显然是在调侃云端模型。"
+                "x": "该公司表示，机器人在24小时内共完成1730项任务，处理了147份咖啡订单，并取送了369件商品。但在最终评估中，6台中只有4台合格。负责商品上架的机器人被评为工作积极性不足，清洁机器人则在垃圾桶装满后偏离既定路线、走出店外而被淘汰。"
               },
               {
                 "t": "p",
-                "x": "你可以在打字机上输入任何内容，游戏会把它念出来；也可以转动调谐旋钮，生成不同类型的音乐。这一切都借助Underdog的语音生成模型在浏览器内运行，公司称该模型无需联网即可在大多数设备上运行。模型有3100万个参数，向所有人开放下载。"
-              },
-              {
-                "t": "p",
-                "x": "几周前，Underdog刚推出Bark，这是一款167MB 的语音转文字模型，用于在边缘设备上转录和听写。创始人Sigil Wen对TechCrunch表示：“我们只想训练最好的开放模型——American-made、开放、能力强，并让人们拥有私有AI。”"
-              },
-              {
-                "t": "p",
-                "x": "Underdog还发布了一款可在笔记本电脑上运行的27-billion-parameter模型，以及一款需排队等候的应用，定位为Muse和Instinct的本地托管替代品。"
+                "x": "此次挑战在一家正常营业的便利店进行，全过程在网上直播。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Woof de Underdog: voz y música\nsin conexión en solo 32MB",
-          "body": "Underdog lanzó Woof, un modelo abierto de voz y música de 31M-parameter que funciona sin conexión en 32MB.",
-          "mini_headline": "Woof habla en 32MB",
+          "headline": "Robots humanoides, empleados\nde una tienda de conveniencia",
+          "body": "Seis robots G2 de AgiBot trabajaron 24 horas en una tienda de conveniencia de Shanghái y completaron 1.730 tareas.",
+          "mini_headline": "Humanoides que atienden\nuna tienda de conveniencia",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.02.34-PM.jpg?resize=1200,542"
+                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg",
+                "cap": "Fuente: X (AGIBOTofficial)"
+              },
+              {
+                "t": "video",
+                "yt": "EBSo1cuv9QY"
               },
               {
                 "t": "p",
-                "x": "Las empresas de AI compiten por crear modelos cada vez más grandes que requieren una enorme capacidad de cómputo, mientras algunos investigadores y startups desarrollan modelos más pequeños que funcionan en dispositivos edge como tu teléfono o tu computadora."
+                "x": "Seis robots humanoides asumieron el reto de trabajar 24 horas en una tienda de conveniencia. La startup china de robótica AgiBot desplegó del día 2 al 3 seis robots humanoides con ruedas, los 'G2', en una tienda de conveniencia de Shanghái para evaluar su desempeño laboral. Los robots realizaron diversas tareas, como atender a clientes, reponer productos, preparar café, servir comida y limpiar."
               },
               {
                 "t": "p",
-                "x": "Una de esas startups, Underdog, ha lanzado un juego creado con su nuevo modelo de voz, Woof, que ocupa solo 32MB. El juego presenta una habitación de estética tecnológica retro, una máquina de escribir y un monitor CRT; su introducción advierte a los usuarios sobre los proveedores de nube “intrusivos” del pueblo, en aparente alusión a los modelos basados en la nube."
+                "x": "Según la empresa, en 24 horas completaron un total de 1.730 tareas, atendieron 147 pedidos de café y entregaron 369 productos. Sin embargo, en la evaluación final solo aprobaron cuatro de los seis. El robot encargado de reponer productos fue calificado como poco proactivo, y el robot de limpieza quedó eliminado al salirse de su ruta establecida y abandonar la tienda cuando se llenó el cubo de basura."
               },
               {
                 "t": "p",
-                "x": "Se puede escribir cualquier cosa en la máquina de escribir y el juego la leerá en voz alta, o girar el sintonizador para generar distintos tipos de música. Todo funciona dentro del navegador gracias al modelo de generación de voz de Underdog que, según la empresa, puede ejecutarse en la mayoría de los dispositivos sin conexión a internet. El modelo tiene 31M de parámetros y está disponible para que cualquiera lo descargue."
-              },
-              {
-                "t": "p",
-                "x": "La demo llega semanas después de que Underdog lanzara Bark, un modelo de voz a texto de 167MB para transcripción y dictado en dispositivos edge. Su fundador, Sigil Wen, dijo a TechCrunch: “Solo queremos entrenar los mejores modelos abiertos que sean American-made, que sean abiertos, que sean capaces y que permitan a la gente tener AI privada”."
-              },
-              {
-                "t": "p",
-                "x": "Underdog también ha lanzado un modelo de 27-billion-parameter que puede ejecutarse en portátiles, junto con una app con lista de espera planteada como alternativa alojada localmente a Muse e Instinct."
+                "x": "El reto se llevó a cabo en una tienda de conveniencia en funcionamiento y todo el proceso se transmitió en directo por internet."
               }
             ]
           }

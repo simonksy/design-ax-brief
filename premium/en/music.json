@@ -10287,6 +10287,150 @@
           "x": "Suno said it does not allow prompts for specific artists’ names and songs and screens uploaded audio and lyrics. Separately on Friday, the same attorneys filed another case against Suno on behalf of Eight Mile Style, a publisher that owns much of Eminem’s catalog."
         }
       ]
+    },
+    "music/deux-kimsungjae-ai-album": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img1.newsis.com/2026/11/09/NISI20261109_0002286206_web.jpg",
+          "cap": "DEUX. (Photo = courtesy of Wide Company)"
+        },
+        {
+          "t": "p",
+          "x": "DEUX, the hip-hop duo that defined the 1990s, will release its 4th studio album on the 21st. It is the duo's first studio album in 31 years, since its 3rd studio album 'Force Deux' in April 1995. Ahead of the release, DEUX put out 'Rise' last November and 'Tto Haru' this April as pre-release singles."
+        },
+        {
+          "t": "p",
+          "x": "Lee Hyun-do steered the album's overall musical direction as executive producer, and the record was completed with the voice of the late Kim Sung-jae (1972~1995), recreated with artificial intelligence (AI) technology. On the 7th, DEUX held a '4th Studio Album Pre-Listening Party' at Bolero in Itaewon, and the same day released the audio and music video for 'The Future', one of the album's two title tracks."
+        },
+        {
+          "t": "img",
+          "src": "https://img1.newsis.com/2026/11/09/NISI20261109_0002286209_web.jpg",
+          "cap": "Cover of DEUX's 4th studio album. (Photo = courtesy of Wide Company)"
+        },
+        {
+          "t": "p",
+          "x": "Dynamic Duo features on the other title track, 'I Want You'. A remix of 'Rise' by 'Braxe + Falcon', the pairing of Alan Braxe and DJ Falcon, will be released as an official single on the 14th."
+        },
+        {
+          "t": "p",
+          "x": "The project was carried out as a selected task under the '2026 New Technology Convergence Music Content Development Support' program of the Ministry of Culture, Sports and Tourism and the Korea Creative Content Agency. Wide Company co-developed an AI vocal filter with voice AI specialist SORISORI AI and applied it to the music. The technology precisely restores Kim Sung-jae's timbre and distinctive vocal traits."
+        },
+        {
+          "t": "img",
+          "src": "https://img1.newsis.com/2026/11/09/NISI20261109_0002286211_web.jpg",
+          "cap": "DEUX. (Photo = courtesy of Wide Company)"
+        },
+        {
+          "t": "p",
+          "x": "When Lee Hyun-do released 'Rise' last November, he said he would set aside part of the neighboring-rights royalties he receives as a performer as Kim Sung-jae's share, and in December of that year the Federation of Korean Music Performers set up a distribution structure so the royalties are formally paid to Kim's bereaved family. 31 years after the duo split in 1995, the voices of both members will appear together in full on a studio album."
+        }
+      ]
+    },
+    "music/waves-illugen25-plugin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ww2.sonicftp.com/news/images/44850_851.jpg",
+          "cap": "Waves Releases ILLUGEN 2.5"
+        },
+        {
+          "t": "p",
+          "x": "Waves Audio has announced the release of ILLUGEN 2.5, featuring a new collaboration with Steinberg that brings sample creation into Cubase 16's native production environment. The update also introduces ILLUGEN as a plugin for all DAWs."
+        },
+        {
+          "t": "p",
+          "x": "ILLUGEN is a sample generation tool that enables music producers to create original samples from simple text prompts. Now available as a plugin in all DAWs, ILLUGEN allows producers to generate and audition sounds in sync with their project's tempo and musical key."
+        },
+        {
+          "t": "p",
+          "x": "Accessible from Cubase 16's right project panel, ILLUGEN reads the tempo from the timeline, follows the project's key signature track, and adjusts generated loop lengths to match the project's locator positions. A simple double-click creates a new audio track in Cubase, named after the sample."
+        },
+        {
+          "t": "p",
+          "x": "ILLUGEN offers two sound-generation engines: Studio, for high-fidelity, musically realistic samples and loops, and Creative, a more experimental approach to sound design. Unlike AI platforms designed to create complete songs automatically, ILLUGEN is built to work alongside the producer."
+        },
+        {
+          "t": "p",
+          "x": "ILLUGEN 2.5 is available now as a plugin in all DAWs and as a standalone desktop application. All new users can enjoy a free 1-month trial; Cubase 16 users get an additional two free months."
+        },
+        {
+          "t": "video",
+          "yt": "JDZ9qF5xcWk"
+        }
+      ]
+    },
+    "music/spdmx-open-stem-dataset": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Large public datasets have driven recent progress in machine learning, from text and vision to speech and general audio. Music remains an outlier, as copyright blocks redistribution of training audio, while many modern tasks need individual stems rather than mixtures. Existing multitrack resources trade off realism, scale, and licensing, while synthetic alternatives rely on proprietary VSTs or naive open rendering that yields weak stems."
+        },
+        {
+          "t": "p",
+          "x": "We introduce SPDMX, a listening-guided rendering of public-domain PDMX scores into an openly-licensed stem corpus with aligned scores and an open render pipeline: 253,982 songs, 490,159 mono stems, and 5,469 song-hours at 44.1 kHz under CC BY 4.0, with paired MIDI and identifiers linking to PDMX metadata. 88,403 songs (34.8%; 2,734 song-hours) provide multitrack supervision."
+        },
+        {
+          "t": "p",
+          "x": "To our knowledge, this is the largest openly-licensed synthetic multitrack subset by song-hours, enabling source separation, stem-conditioned synthesis, MIDI-to-audio, transcription, and joint symbolic-audio modeling. We release the corpus, metadata, and open pipeline for reuse on other symbolic collections. Demos and experimental notes are on the project page."
+        }
+      ]
+    },
+    "music/tubetube-lyrics-video": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.startupn.kr/news/photo/202611/60609_62470_228.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI video production service TubeTube has introduced an all-in-one production tool that, once a user enters song lyrics or a story, automatically handles everything from composing music to voice recording, storyboarding, image generation, video animation and final editing. It is designed to produce a finished video from text in about 15 minutes."
+        },
+        {
+          "t": "p",
+          "x": "Music is produced with Suno or ElevenLabs Music. The generated audio is transcribed word by word, and a scene-by-scene storyboard is built from it. Users can then pick a video generation engine from Kling, Veo 3.1, Seedance 2, Hailuo 2.3 and Gemini Omni Flash to add motion to each scene."
+        },
+        {
+          "t": "p",
+          "x": "At the image generation stage, the tool keeps characters consistent by using images from previous scenes and up to 5 reference images chosen by the user. It offers 113 styles in total, narrated videos can be dubbed into 24 languages with up to 5 languages selected at once, and both 16:9 and 9:16 aspect ratios are supported."
+        },
+        {
+          "t": "p",
+          "x": "A single video of 2 to 3 minutes needs a median of 807 credits, or about $9, and monthly subscriptions start at $22. A public REST API and a command-line tool are also available. The roughly 15-minute production time and the costs are figures published by the service, however, and may vary with video length, number of scenes and the generation engine used."
+        }
+      ]
+    },
+    "music/music-engadget-ai-ear-signs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/intro-1793895779.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI music is a real problem: Suno-generated slop has filled streaming platforms, sometimes falsely attributed to real artists. At the same time, \"feels like AI\" has become a pejorative that leads some to jump the gun. Here's what actually points to AI."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/signs-of-ai-use-in-music-1793895781.jpg"
+        },
+        {
+          "t": "p",
+          "x": "\"AI music\" can mean AI-generated instrumentals, vocals, lyrics or all three, or a smaller element like a vocal filter. Vocals are probably the easiest to catch: listen for a slurred or warbled voice that strains the lyrics to fit the music, odd emphasis, no natural imperfections, and inflection that rarely changes."
+        },
+        {
+          "t": "p",
+          "x": "Structure and instrumentals tend to be just as monotonous, lacking dynamic shifts, key changes, interesting bridges or non-Western instruments; much AI music is reminiscent of Imagine Dragons or Taylor Swift. In lyrics, watch for a lack of metaphor and simile, awkward phrasing, no overarching theme, and repeated imagery."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/external-signs-of-an-ai-artist-1793895783.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Then check the context. A flag from Spotify's Artist Profile Protection or Deezer's AI music detector generally serves as confirmation, though Bandcamp has occasionally flagged real music by mistake. A quick search should reveal live performances, social profiles and interviews; an artist with no online presence releasing a glut of songs with AI-generated covers is probably a content farm."
+        }
+      ]
     }
   }
 }

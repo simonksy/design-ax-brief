@@ -15114,6 +15114,153 @@
           "x": "실시간 기능은 Viewfinder에도 스트리밍 오버레이로 들어갔다. Viewfinder는 Atlas로 장면을 프레임 단위로 만드는 비공개 베타 웹앱이다. Frameboy는 아직 고성능 클라우드 GPU 서버에서만 돌아가고, 로컬 렌더링보다 비용도 적지 않게 든다."
         }
       ]
+    },
+    "games/innogames-genai-art-pipeline": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png"
+        },
+        {
+          "t": "p",
+          "x": "InnoGames의 아트 총괄 Dario Berruti가 이 기고문에서 스튜디오의 생성형 AI 도입 과정을 다섯 단계로 정리했다. Forge of Empires, Elvenar, Heroes of History를 만든 곳이다. 출발점은 아티스트 설문이었다. 가장 큰 우려는 고용 안정이었다. 경영진은 AI가 아티스트를 대체하려는 게 아니라 그들의 역량을 키우려는 것이라고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "초기에는 레퍼런스와 러프 목업용 '빨라진 Pinterest' 정도로 썼다. 팀이 고른 도구는 Scenario였다. 스튜디오 자체 에셋으로 커스텀 모델을 학습시킬 수 있어 아이콘, 초상화, 소형 일러스트 작업의 주력이 됐다. ComfyUI도 검토했지만 채택하지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "전환점은 2025년 Gemini와 Flux였다. 외주 비용은 이제 예년의 절반 수준이고, 2D와 콘셉트 아트에서 AI는 빼놓을 수 없는 요소가 됐다. 지금은 노드 기반 워크플로, MCP 연동, 에이전트 같은 자동화에 힘을 싣는다. 아티스트들은 반복 작업이나 자체 스크립트·도구를 짤 때 Claude를 쓰고, MCP 서버로 Claude를 Blender에 연결해 3D에서도 새 가능성을 찾는다."
+        },
+        {
+          "t": "p",
+          "x": "\"AI는 우리가 일하는 방식을 바꿨다. 하지만 누가 일하는지는 바꾸지 않았다. 우리가 만드는 모든 것의 중심에는 여전히 아티스트가 있다.\""
+        },
+        {
+          "t": "img",
+          "src": "https://mobidictum.com/wp-content/uploads/2026/11/Dario-Berruti-1024x684.png",
+          "cap": "InnoGames 아트 총괄 Dario Berruti"
+        }
+      ]
+    },
+    "games/automaton-ocarina-gemini-port": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google 직원 Ammaar Reshi가 11월 7일 『젤다의 전설 시간의 오카리나』 풀 리메이크판을 Gemini 4로 iPhone Duo에서 구동했다고 X에 올렸다. 게시물은 논란을 불렀고, 지금은 삭제됐다."
+        },
+        {
+          "t": "p",
+          "x": "『젤다의 전설 시간의 오카리나』는 1998년 NINTENDO 64용으로 발매된 액션 RPG다. 이번 풀 리메이크는 그래픽을 새로 다듬고 컷신에 풀 보이스를 입혔다. 카메라를 자유롭게 움직일 수 있고 점프와 대시 등도 더해졌다. 11월 5일 Nintendo Switch 2용으로 나왔다."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-header-1080x608.jpg"
+        },
+        {
+          "t": "p",
+          "x": "게시자 Ammaar Reshi는 Google에서 'Google AI Studio'의 리드 프로덕트&디자인을 맡고 있다. Google의 생성형 AI 'Gemini 4'로 구동했다고 설명했으니, 자사 AI 기술의 성과로 내보인 셈이다."
+        },
+        {
+          "t": "p",
+          "x": "인용 게시물에서는 비공식 이식 자체뿐 아니라, Google AI 제품 개발에 관여하는 인물이 이를 공개적으로 내보였다는 점을 두고도 의문이 나왔다. 게시물은 이미 지워졌고, 삭제 이유는 알려지지 않았다."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-002-1080x608.jpg"
+        }
+      ]
+    },
+    "games/plamo3-translate-gamer-tools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/ogp_f/1217054.png"
+        },
+        {
+          "t": "p",
+          "x": "일본 AI 기업 Preferred Networks(PFN)는 2026년 11월 5일 번역 특화 AI 'PLaMo 3 Translate'를 무료로 쓸 수 있는 오픈 웨이트 모델로 공개했다. 자사 번역 서비스 'PLaMo 번역'에 쓰이는 AI와 같은 모델이며, 인터넷 연결 없이 개인 PC만으로 돌아간다. 자원봉사 번역의 문턱이 크게 낮아질 수 있다. 그동안 DeepL 무료판은 사용 한도 탓에, 수백에서 수천 줄짜리 게임 텍스트를 옮기는 자원봉사 번역에서 작업이 끊기곤 했다."
+        },
+        {
+          "t": "p",
+          "x": "스마트폰에서도 돌아갈 만큼 가볍고, 사용 횟수 제한이 없다. 일본어와 영어를 포함해 53개 언어를 지원하며 개인은 무료로 쓴다. 고유명사 번역어를 정하고 문체를 고르는 용어·문체 지정 기능도 있다."
+        },
+        {
+          "t": "p",
+          "x": "모델 공개 후 며칠 만에 개인 개발자들이 관련 도구를 잇따라 내놓았다. 11월 7일에는 화면 속 영어 텍스트를 그 자리에서 일본어로 바꿔 주는 PC용 상주 앱 'sonoba'가 나왔다. 자막은 약 1초, 짧은 문장은 약 0.2초면 처리한다고 한다. 브라우저 확장 프로그램 'PLaMo_Translate_EX'와 데스크톱 앱 'plamo-translate-desktop'도 등장했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1217054.png",
+          "cap": "plamo-translate-desktop"
+        },
+        {
+          "t": "p",
+          "x": "현지화 지원 도구 'game-l10n-updater'도 공개됐다. 추가·변경된 텍스트만 번역하고, 번역된 글자가 UI 버튼 밖으로 넘치지 않는지 실제 화면에서 확인해 준다."
+        }
+      ]
+    },
+    "games/jackbox-human-made-pledge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo.png"
+        },
+        {
+          "t": "p",
+          "x": "최근 이곳 시카고의 Jackbox Games HQ를 찾아 개발자, 스튜디오 경영진과 작업 방식, 회사의 역사, 업계 내 위치를 두고 이야기를 나눴다. 요즘 같은 때 이런 자리에서 AI를 묻는 건 거의 계약상 의무다. CEO Mike Bilder의 답은 이랬다."
+        },
+        {
+          "t": "p",
+          "x": "\"이 제품을 만드는 건 사람입니다. 코미디도, 글도, 아트도 모두 사람이 만들고, 우리는 이를 바꿀 생각이 없습니다. 업계에서 AI를 둘러싸고 벌어지는 일에 대해 우리가 전문가라고 생각하지는 않습니다. 도구 제작이나 리서치에는 분명 쓰임새가 있고, 그런 일들에서 [AI는] 엄청나게 강력합니다."
+        },
+        {
+          "t": "p",
+          "x": "\"하지만 생성형 에셋 측면에서는 그것으로 사람을, 또는 사람이 만든 글과 아트를 대체할 생각이 전혀 없습니다.\""
+        },
+        {
+          "t": "p",
+          "x": "그때까지 나눈 이야기나 Jackbox라는 회사의 성격으로 보면, 이 스튜디오가 생성형 AI를 본격적으로 쓸 것 같지는 않았다. Jackbox 게임은 기술적으로 비교적 가볍고, 가장 큰 매력은 아트와 글이다. 눈에 띄게 AI-generated 티가 나는 요소가 하나라도 있으면 패키지 전체의 가치가 의심받는다."
+        },
+        {
+          "t": "p",
+          "x": "회사는 최근 10월 14일 Jackbox Party Pack 12를 출시했다. Trivia Murder Party 3는 실시간 3D 그래픽을 폭넓게 쓴다."
+        }
+      ]
+    },
+    "games/wardogs-ml-anticheat": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-2560-80.jpg",
+          "cap": "Wardogs"
+        },
+        {
+          "t": "p",
+          "x": "Season 3를 앞두고 Bulkhead가 Wardogs Season 2에서 저지른 실수를 짚었다. 당시 변경이 지나치게 공격적이었고 목소리 큰 플레이어에게 너무 쉽게 휘둘렸다고 인정했다. 앞으로는 \"가장 큰 목소리를 달래려고 수정을 서두르지 않겠다\"고 했다."
+        },
+        {
+          "t": "video",
+          "yt": "hr1uuC7BnSc"
+        },
+        {
+          "t": "p",
+          "x": "Season 3에는 더 도시적인 새 맵 Sabatulo, 역할별 아이템을 그 역할로 플레이하며 모두 푸는 멀티트랙 해금, 상위 등급 무기·방어구·차량을 뺀 새 \"Limited\" 모드가 들어간다."
+        },
+        {
+          "t": "p",
+          "x": "Bulkhead가 \"세계에서 가장 정교한 안티치트 시스템 중 하나\"라고 내세우는 시스템도 함께 들어온다. \"머신러닝과 AI의 도움으로 1억8700만 시간의 게임플레이를 분석해\" 만든 시스템이다. Road to Season 3 영상 공개와 함께 가동돼 185,000개 계정을 정지했다."
+        },
+        {
+          "t": "p",
+          "x": "Bulkhead CEO Joe Brammer는 \"모델을 학습시키려면 치터들이 치트를 다듬고 조정하는 과정을 그대로 두고 그 진화를 지켜봐야 했다\"고 말했다. 치터를 완전히 없애지는 못하겠지만 11월 12일 Season 3가 나오면 플레이 경험이 한결 나아진다고 스튜디오는 자신한다고 덧붙였다."
+        }
+      ]
     }
   }
 }

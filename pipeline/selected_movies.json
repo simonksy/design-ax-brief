@@ -1,97 +1,158 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "section": "movies",
-  "selected_by": "curator (user deferred)",
-  "items": [
+  "picks": [
     {
+      "title": "Disney Partners With Adobe On AI Tools That Turn Artists' Sketches Into Finished Concept Art",
+      "url": "https://www.cartoonbrew.com/artificial-intelligence/disney-adobe-generative-ai-partnership-269226.html",
+      "source": "Cartoon Brew",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "title": "Christopher Nolan Previews DGA's Next Phase of AI Protections: 'It's Down to the Studios'",
-      "url": "https://www.thewrap.com/creative-content/movies/christopher-nolan-previews-dgas-next-phase-of-ai-protections-its-down-to-the-studios/",
-      "source": "TheWrap",
-      "published_iso": "2026-11-08T02:17:20+00:00",
-      "og_image": "https://www.thewrap.com/wp-content/uploads/2026/11/Christopher-Nolan-speaking.jpg",
-      "excerpt": "Christopher Nolan applauded the DGA and AMPTP for coming to the table and negotiating \"excellent language and guardrails\" against AI.",
-      "rationale": "Labor policy signal: the DGA president sets out what the guild's AI guardrails cover and what it now expects studios to enforce. Picked over the Deadline write-up of the same remarks (cluster c2)."
+      "rationale": "Biggest studio-tool deal of the week (Adobe as Disney's official AI innovation partner, bespoke Firefly Foundry models on Disney IP); Cartoon Brew's version carries the concrete artist workflow (sketch to rendered concept art). Kept over the Variety report (same cluster c0).",
+      "published_iso": "2026-11-09T19:46:53+00:00",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
+      "excerpt": "Under the multiyear alliance Adobe gives Disney Firefly, Firefly Foundry, Premiere, Photoshop and dedicated engineers to build bespoke AI models trained on Disney IP, including tools that turn hand-drawn sketches into fully rendered concept art."
     },
     {
-      "tool": "Movies",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "title": "'Pokemon' Anime Studio OLM Trains AI Coloring Tool on Just Three Frames in Japan Government-Backed Project",
-      "url": "https://variety.com/2026/tv/markets-festivals/pokemon-anime-studio-olm-ai-coloring-tool-three-frames-1236942198/",
-      "source": "Variety",
-      "published_iso": "2026-11-07T23:43:25+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/11/TCCF-AI-animation.jpg?w=1000&h=563&crop=1",
-      "excerpt": "OLM Digital's Yotsukura Tatsuo shared results of Japan's government-backed ANIMINS anime AI project at Taiwan Creative Content Fest.",
-      "rationale": "Concrete production result: a coloring model trained on only three frames, from a major anime studio's government-backed program. It shows a working, artist-scale AI step in the animation pipeline."
-    },
-    {
+      "title": "Framestore Brings Hybrid AI/VFX to Sky's Christmas Campaign",
+      "url": "https://www.awn.com/news/framestore-brings-hybrid-aivfx-skys-christmas-campaign",
+      "source": "Animation World Network",
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "title": "中, AI 악용·선정적 숏폼 드라마 연말까지 집중단속",
-      "url": "https://www.yna.co.kr/view/AKR20261108050600083",
-      "source": "연합뉴스",
-      "published_iso": "2026-11-08T19:32:27+09:00",
-      "og_image": "https://img6.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108050600083_01_i_P4.jpg",
-      "excerpt": "(베이징=연합뉴스) 한종구 특파원 = 중국 정부가 인공지능(AI)을 활용한 저질·선정적 콘텐츠 등 숏폼 드라마에 대한 특별단속에 나섰다.",
-      "rationale": "New regulatory action: China launched a year-end crackdown on AI-abusing and sensational short-form dramas, the format where AI-generated output is growing fastest."
+      "rationale": "Practical VFX-house case study: where Framestore slotted AI (previs, character removal, self-animating costumes) inside a traditional CG pipeline on a Dave Meyers spot.",
+      "published_iso": "2026-11-09T06:56:50-08:00",
+      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081755-skyxmsstill015-1280.jpg?itok=TlVSHe-P",
+      "excerpt": "Framestore built AI tools into its traditional VFX pipeline for Sky's 'That's Christmas Sorted' spot directed by Dave Meyers, using them for previs, character removal and self-animating costumes alongside CG environments."
     },
     {
+      "title": "Real-Time Video at Batch Size One",
+      "url": "https://runway.com/news/research/real-time-video-at-batch-size-one",
+      "source": "Runway",
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "title": "Camerimage Opens With a Robot, an AI Reckoning and a Minute of Silence for Kraków",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/camerimage-2026-artificial-darren-aronofsky-janusz-kaminski-1236750348/",
-      "source": "The Hollywood Reporter",
-      "published_iso": "2026-11-08T10:29:18+00:00",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/896255562_1534408348712601_3080537561858593218_n.jpg?w=1440&h=810&crop=1",
-      "excerpt": "The 34th edition of Camerimage kicked off with  Luca Guadagnino's 'Artificial' and included honors for Darren Aronofsky and the THR Visionary Award for cinematographer Janusz Kamiński.",
-      "rationale": "New event: the leading cinematography festival opened its 2026 edition with AI as the headline theme. This is the craft side's own forum on the technology."
+      "rationale": "Primary-source technical release from Runway on serving a ~57B autoregressive video model in real time (24 fps, 166.7ms chunks) for Characters; distinct from the earlier Summit safety talk.",
+      "published_iso": "2026-11-05T16:43:27.003Z",
+      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png",
+      "excerpt": "Runway details how it serves its ~57B-parameter autoregressive video diffusion model in real time for Characters: a new four-frame chunk every 166.7ms at 24 fps per user, running one session across four H100s."
     },
     {
+      "title": "Original 'Return of the Living Dead' Stars Slam AI-Generated Sequel",
+      "url": "https://bloody-disgusting.com/movie/3975227/return-of-the-living-dead-aftermath-backlash-ai-linnea-quigley/",
+      "source": "Bloody Disgusting",
+      "tool": "Movies",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "rationale": "New concrete event: an almost entirely AI-generated sequel to a cult horror IP shipped Oct. 31 using original cast likenesses without filming, and the stars publicly disown it; a fresh likeness-consent flashpoint not covered in movies' 30-day history.",
+      "published_iso": "2026-11-09T18:42:17+00:00",
+      "og_image": "https://bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg",
+      "excerpt": "'Return of the Living Dead: Aftermath', released Oct. 31 by DragonFLIX, is almost entirely AI-generated imagery and dialogue; original stars Linnea Quigley and Beverly Randolph say they appear without having filmed anything and disown it."
+    },
+    {
+      "title": "AI Could Make Films Costlier Than the 35mm Era, Korean Pioneers Warn",
+      "url": "https://variety.com/2026/film/markets-festivals/ai-films-costlier-35mm-era-korean-pioneers-warn-1236942217/",
+      "source": "Variety",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "title": "iQIYI Reconstructs Lost 1938 Film Using NadouPro AI Workflow",
-      "url": "https://www.unite.ai/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow/",
-      "source": "Unite.AI",
-      "published_iso": "2026-11-06T05:18:02-05:00",
-      "og_image": "https://www.unite.ai/wp-content/uploads/2026/11/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow.jpg",
-      "excerpt": "An eight-person team used iQIYI's NadouPro platform to reconstruct a 1938 film whose prints, reels and scripts had been lost, the company announced on November 6, 2026. The short, completed in two months, was shortlisted...",
-      "rationale": "Concrete restoration result: an eight-person team rebuilt a lost 1938 film in two months on iQIYI's NadouPro platform. It shows AI applied to film heritage rather than new synthetic content."
+      "rationale": "Hard production-cost numbers from working AI-feature makers at TCCF (token bill over KRW500M / $366K for a 100-minute feature, revisions as paid re-renders multiplying cost up to tenfold) that cut against the 'AI is cheap' pitch; distinct from the 11-08 Core Studio TCCF launch card.",
+      "published_iso": "2026-11-08T00:27:50+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1",
+      "excerpt": "At TCCF in Taipei, Studio Meta-K CEO Kim Kwang-jib said the token bill alone for a 100-minute AI feature can top KRW500 million ($366,000) with top commercial tools, and that every revision is a paid re-render, so piecemeal client notes can multiply costs tenfold. He and MBC C&I's Lee Sang-wook, whose AI feature 'Raphael' heads to Korean cinemas, also covered hybrid shoots and new crew roles."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.thewrap.com/creative-content/movies/christopher-nolan-previews-dgas-next-phase-of-ai-protections-its-down-to-the-studios/": {
+      "https://www.cartoonbrew.com/artificial-intelligence/disney-adobe-generative-ai-partnership-269226.html": {
         "verdict": "new",
-        "nearest": "https://deadline.com/2026/10/sag-aftra-wga-afm-openai-copyright-court-battle-brief-1237209138/",
+        "nearest": "https://www.thewrap.com/industry-news/tech/disney-ai-accelerator-startup-investor/",
         "new_action": ""
       },
-      "https://variety.com/2026/tv/markets-festivals/pokemon-anime-studio-olm-ai-coloring-tool-three-frames-1236942198/": {
+      "https://www.awn.com/news/framestore-brings-hybrid-aivfx-skys-christmas-campaign": {
         "verdict": "new",
-        "nearest": "https://variety.com/2026/tv/markets-festivals/kamen-rider-studio-toei-generative-ai-rules-2027-game-slate-1236941104/",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.yna.co.kr/view/AKR20261108050600083": {
+      "https://runway.com/news/research/real-time-video-at-batch-size-one": {
         "verdict": "new",
-        "nearest": "https://www.hollywoodreporter.com/business/digital/ai-generated-microdramas-two-thirds-all-releases-1236735402/",
+        "nearest": "https://www.youtube.com/watch?v=NAKB5ixP6Kw",
         "new_action": ""
       },
-      "https://www.hollywoodreporter.com/movies/movie-news/camerimage-2026-artificial-darren-aronofsky-janusz-kaminski-1236750348/": {
+      "https://bloody-disgusting.com/movie/3975227/return-of-the-living-dead-aftermath-backlash-ai-linnea-quigley/": {
         "verdict": "new",
-        "nearest": "https://variety.com/2026/film/news/amazon-studios-ai-artificial-acclaim-dropped-1236912439/",
+        "nearest": "https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood",
         "new_action": ""
       },
-      "https://www.unite.ai/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow/": {
+      "https://variety.com/2026/film/markets-festivals/ai-films-costlier-35mm-era-korean-pioneers-warn-1236942217/": {
         "verdict": "new",
-        "nearest": "https://www.chinadaily.com.cn/a/202611/02/WS6ae8052ce4b06d4aa0566723.html",
+        "nearest": "https://variety.com/2026/film/markets-festivals/ai-filmmaking-platform-core-studio-launches-24-agents-tccf-1236941957/",
         "new_action": ""
       }
     },
-    "note": "2026-11-09 movies. SWAP: removed 'The New Cinematic AI Film Workflow (What Actually Works)' (Theoretically Media, youtube OWr3IU82bJ8) after enrichment found it is sponsored by OpenArt with an affiliate link. Replacement: iQIYI 1938 reconstruction (unite.ai). Judged distinct from the 11-03 China Daily card 'iQIYI opens AI film studio in Shanghai, starts first production': that card covers a studio opening and a production that was only starting; this one is a finished two-month reconstruction of a lost 1938 film on the NadouPro platform, announced 11-06 and already shortlisted. That is a separate release, not a follow-up on the studio. Caveat: unite.ai is off-list; it was the only outlet carrying the story (iQIYI press release). Other options not taken: Runway 'Real-Time Video at Batch Size One' is a serving/compute engineering post (four vs eight H100s), which counts as compute-leaning AI-business noise, and it overlaps the 10-28 Runway real-time video talk. Flawless IP sale is business noise (asset sale). Genie 4 (10-27) and Simulon (10-29) are stale Theoretically Media videos with unverified sponsorship. Earlier drops still apply: iZotope Photon and Pro Tools 2026.11 (published in music on 11-05 and 11-06); the Deadline Nolan/DGA piece (cluster c2, TheWrap kept); the CAA/Lourd and Blanchett/HCF NYT v. OpenAI briefs (same running story as the 11-02 guild brief card); the Grimes cameo (the film ran 10-26); the Steelay review (covered by the 11-06 Korea Times card); the THR Camerimage founder interview (same festival as the kept opening piece). Outlets: TheWrap, Variety, 연합뉴스, THR, Unite.AI (5 distinct). Orchestrator: (1) check that today's politics selection did not also pick the China short-drama crackdown (yna AKR20261108050600083); (2) exact-grep published_urls.json for unite.ai iqiyi / NadouPro across all sections. The curator had no grep tool, so this cross-section check was not run."
-  }
+    "note": "Dropped as duplicates: Variety Disney-Adobe (same cluster c0 as the Cartoon Brew pick); IndieWire Camerimage (same festival story as THR 'Camerimage Opens...' 11-09, no new decision); Cartoon Brew Chomet 'automated interpolation' (follow-up reaction to the 11-07 Chomet Dior card, no new release); Yonhap 최휘영 (same 임권택-style AI film already carded 11-04). SWAP pass 1 (orchestrator cross-section decision): removed THR CAA/Ogilvy ECHO (same story is today's marketing pick via Digiday; marketing keeps it) and TheWrap 'Gods Don't Give Gifts'/Grimes (film already carded 4x in movies incl. 07-29 Deadline theatrical-leap and 10-26 AFM; repeat, not a follow-up). Replacement kept: Bloody Disgusting ROTLD: Aftermath AI sequel backlash (new event, no history match; off-list outlet but no on-list coverage). SWAP pass 2: removed Theoretically Media 'The New Cinematic AI Film Workflow' / 'Planet Hell' (youtube OWr3IU82bJ8) because the 2026-11-09 enrichment pass dropped this exact video as OpenArt-sponsored advertorial. No replacement from the original pool: the remaining pool was No Film School Adobe Creators' Toolkit survey and TheWrap Adobe Creator Playbook (Adobe promo/survey), Eros Imagination (exec appointment/new unit, business noise), and iZotope Photon (ProVideo Coalition, 11-03, week-old audio-post tool; related to the 10-20 Premiere stem-separation card). RECOVERY pass (candidates_filtered_movies_r1.json): added Variety 'AI Could Make Films Costlier Than the 35mm Era' as 5th pick (no history_match; concrete cost figures from the TCCF Korea panel; nearest is the 11-08 Core Studio TCCF launch, a different event). Dropped IndieWire 'Two Ramayana Cuts' (history_match related to 10-27 Times Now Ramayana AI-dubbing card and 10-23 AWN Brahma AI face-replacement card; same Brahma AI English dub, now just a critic's review with no new release or event, so a repeat) and Cartoon Brew View Conference AI sales pitches (10-29 opinion piece on the View Conference already covered by 10-14, 10-16 and 10-21 cards incl. the Runway Valenzuela talk; commentary, no new event). Cross-section: published_urls.json was not exact-grepped in this pass (Read-only tools)."
+  },
+  "items": [
+    {
+      "title": "Disney Partners With Adobe On AI Tools That Turn Artists' Sketches Into Finished Concept Art",
+      "url": "https://www.cartoonbrew.com/artificial-intelligence/disney-adobe-generative-ai-partnership-269226.html",
+      "source": "Cartoon Brew",
+      "tool": "Movies",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "rationale": "Biggest studio-tool deal of the week (Adobe as Disney's official AI innovation partner, bespoke Firefly Foundry models on Disney IP); Cartoon Brew's version carries the concrete artist workflow (sketch to rendered concept art). Kept over the Variety report (same cluster c0).",
+      "published_iso": "2026-11-09T19:46:53+00:00",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
+      "excerpt": "Under the multiyear alliance Adobe gives Disney Firefly, Firefly Foundry, Premiere, Photoshop and dedicated engineers to build bespoke AI models trained on Disney IP, including tools that turn hand-drawn sketches into fully rendered concept art."
+    },
+    {
+      "title": "Framestore Brings Hybrid AI/VFX to Sky's Christmas Campaign",
+      "url": "https://www.awn.com/news/framestore-brings-hybrid-aivfx-skys-christmas-campaign",
+      "source": "Animation World Network",
+      "tool": "Movies",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "rationale": "Practical VFX-house case study: where Framestore slotted AI (previs, character removal, self-animating costumes) inside a traditional CG pipeline on a Dave Meyers spot.",
+      "published_iso": "2026-11-09T06:56:50-08:00",
+      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081755-skyxmsstill015-1280.jpg?itok=TlVSHe-P",
+      "excerpt": "Framestore built AI tools into its traditional VFX pipeline for Sky's 'That's Christmas Sorted' spot directed by Dave Meyers, using them for previs, character removal and self-animating costumes alongside CG environments."
+    },
+    {
+      "title": "Real-Time Video at Batch Size One",
+      "url": "https://runway.com/news/research/real-time-video-at-batch-size-one",
+      "source": "Runway",
+      "tool": "Movies",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "rationale": "Primary-source technical release from Runway on serving a ~57B autoregressive video model in real time (24 fps, 166.7ms chunks) for Characters; distinct from the earlier Summit safety talk.",
+      "published_iso": "2026-11-05T16:43:27.003Z",
+      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png",
+      "excerpt": "Runway details how it serves its ~57B-parameter autoregressive video diffusion model in real time for Characters: a new four-frame chunk every 166.7ms at 24 fps per user, running one session across four H100s."
+    },
+    {
+      "title": "Original 'Return of the Living Dead' Stars Slam AI-Generated Sequel",
+      "url": "https://bloody-disgusting.com/movie/3975227/return-of-the-living-dead-aftermath-backlash-ai-linnea-quigley/",
+      "source": "Bloody Disgusting",
+      "tool": "Movies",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "rationale": "New concrete event: an almost entirely AI-generated sequel to a cult horror IP shipped Oct. 31 using original cast likenesses without filming, and the stars publicly disown it; a fresh likeness-consent flashpoint not covered in movies' 30-day history.",
+      "published_iso": "2026-11-09T18:42:17+00:00",
+      "og_image": "https://bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg",
+      "excerpt": "'Return of the Living Dead: Aftermath', released Oct. 31 by DragonFLIX, is almost entirely AI-generated imagery and dialogue; original stars Linnea Quigley and Beverly Randolph say they appear without having filmed anything and disown it."
+    },
+    {
+      "title": "AI Could Make Films Costlier Than the 35mm Era, Korean Pioneers Warn",
+      "url": "https://variety.com/2026/film/markets-festivals/ai-films-costlier-35mm-era-korean-pioneers-warn-1236942217/",
+      "source": "Variety",
+      "tool": "Movies",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "rationale": "Hard production-cost numbers from working AI-feature makers at TCCF (token bill over KRW500M / $366K for a 100-minute feature, revisions as paid re-renders multiplying cost up to tenfold) that cut against the 'AI is cheap' pitch; distinct from the 11-08 Core Studio TCCF launch card.",
+      "published_iso": "2026-11-08T00:27:50+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1",
+      "excerpt": "At TCCF in Taipei, Studio Meta-K CEO Kim Kwang-jib said the token bill alone for a 100-minute AI feature can top KRW500 million ($366,000) with top commercial tools, and that every revision is a paid re-render, so piecemeal client notes can multiply costs tenfold. He and MBC C&I's Lee Sang-wook, whose AI feature 'Raphael' heads to Korean cinemas, also covered hybrid shoots and new crew roles."
+    }
+  ]
 }

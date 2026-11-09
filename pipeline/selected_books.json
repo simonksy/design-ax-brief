@@ -1,101 +1,158 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "section": "books",
-  "items": [
+  "picks": [
     {
-      "rank": 1,
-      "title": "Vellum reverses course on AI automation after author backlash",
-      "url": "https://smbtech.au/news/macbook-book-formatting-tool-vellum-reverses-course-on-ai-automation-after-author-backlash/",
-      "source": "SMBtech",
-      "published_iso": "2026-11-08T21:34:26+11:00",
-      "og_image": null,
-      "excerpt": "Mac book-formatting app Vellum pulled its new 'Automation' feature, which let authors connect external AI assistants to manage back-catalogue tasks, in version 4.2.1 just days after launch following a wave of criticism from indie authors (Vellum blog: 'We've Removed Vellum Automation', Nov 5).",
+      "title": "Medium's new TK app brings AI assistance directly into the writing process",
+      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+      "source": "TechCrunch",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "A concrete product reversal: the standard indie-author formatting tool removed its AI automation feature in v4.2.1 after author backlash. It affects anyone who self-publishes with Vellum."
+      "rationale": "New product launch: Medium ships a standalone writing app with built-in AI assistance, a concrete tool writers can try now amid the AI-authorship backlash.",
+      "published_iso": "2026-11-09T16:12:28+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675",
+      "excerpt": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing."
     },
     {
-      "rank": 2,
-      "title": "The 2026 PW Salary & Jobs Report: 73% of publishers use AI, 77% of staff view it negatively",
-      "url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101719-salary-and-jobs-report-2026.html",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-11-06T00:00:00+00:00",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132694-3.JPG",
-      "excerpt": "PW's survey of 886 publishing workers finds 73% say their company uses AI (market research leads), yet 77% hold a negative view of the technology; the top worry is ending up publishing a book substantially written by AI.",
+      "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
+      "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
+      "source": "WIRED",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "New annual survey data from the trade's main outlet: AI is now used at most publishers, but most staff view it negatively. That is hard numbers where the earlier Wired staff-revolt story (10-10) had anecdotes."
+      "rationale": "Actionable for writers: surveys the provenance/paper-trail tools authors can use to prove human authorship as AI-detection accusations spread through publishing.",
+      "published_iso": "2026-11-09T11:00:00.000Z",
+      "og_image": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg",
+      "excerpt": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind."
     },
     {
-      "rank": 3,
-      "title": "RNIB poll: 65% won't listen to AI audiobooks",
-      "url": "https://www.voiceoverherald.com/rnib-poll-ai-narrated-audiobooks-talking-books-90-narrators/",
-      "source": "Voice Over Herald",
-      "published_iso": "2026-11-08T14:00:00+00:00",
-      "og_image": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-48.jpg",
-      "excerpt": "A YouGov poll for the RNIB, marking 90 years of its Talking Books service, finds 65% of UK adults won't listen to AI-narrated audiobooks and shows what makes listeners abandon a narrator's voice.",
+      "title": "예스24, 한영 문장 한 목소리로 읽는다…인공지능 TTS 도입",
+      "url": "https://www.news1.kr/life-culture/book/6348294",
+      "source": "뉴스1",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "A new YouGov/RNIB poll on resistance to AI audiobook narration. It points the other way from the Audible-commissioned survey (10-14) and comes as Audible, Spotify and YouTube push AI audio."
+      "rationale": "New feature release: Yes24 adds on-device AI TTS that reads mixed Korean-English e-book sentences in a single voice, with 8 AI voices.",
+      "published_iso": "2026-11-10T06:35:11+09:00",
+      "og_image": "https://i3n.news1.kr/system/photos/2026/11/9/8205652/high.jpg",
+      "excerpt": "오디오북 1인당 구매액 69.3% 증가…40대 비중 30.9% 온디바이스 음성합성 적용…AI 보이스 총 8종 제공 예스24가 전자책에서 한국어와 영어가 섞인 문장을 한 목소리로 읽어주는 인공지능 음성변환 기능을 도입했다고 10일 밝혔다."
     },
     {
-      "rank": 4,
-      "title": "What AI can't learn about peer review, because nobody can explain it",
-      "url": "https://scholarlykitchen.sspnet.org/2026/11/05/guest-post-what-ai-cant-learn-about-peer-review-because-nobody-can-explain-it/",
-      "source": "The Scholarly Kitchen",
-      "published_iso": "2026-11-05T10:30:15+00:00",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2300954589.jpg",
-      "excerpt": "A guest post argues that publishers automating peer review with AI risk losing tacit editorial expertise that has never been made explicit enough to train or evaluate a model on.",
+      "title": "Japan initiative aims to protect rights holders in generative AI era",
+      "url": "https://www.asahi.com/ajw/articles/16889120",
+      "source": "The Asahi Shimbun",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "A new argument about automating peer review with AI: the editorial know-how is tacit, so a model has nothing to learn from. Peer review has not been covered in the section before, which keeps scholarly publishing represented."
+      "rationale": "New initiative: Japan moves to bring manga, anime and other cultural IP into generative AI on terms set by rights holders — a licensing-framework shift for publishers.",
+      "published_iso": "2026-11-09T22:00:00Z",
+      "og_image": "https://p.potaufeu.asahi.com/ea20-p/picture/31541082/61f58bd68b656de926eb7ac66b22a04e.jpg",
+      "excerpt": "Japan is seeking to bring its anime, manga, music and other cultural properties into the age of generative artificial intelligence on terms set by rights holders."
     },
     {
-      "rank": 5,
-      "title": "AI Controversy Puts Critically Acclaimed Vinland Saga Creator in the Spotlight",
-      "url": "https://comicbook.com/anime/news/ai-controversy-puts-critically-acclaimed-vinland-saga-creator-in-the-spotlight/",
-      "source": "ComicBook.com",
-      "published_iso": "2026-11-08T21:01:00+00:00",
-      "og_image": "https://comicbook.com/wp-content/uploads/sites/4/2026/01/Vinland-Saga.jpg?resize=2000,1125",
-      "excerpt": "Vinland Saga manga creator Makoto Yukimura drew online backlash after praising a piece of fan art that turned out to be AI-generated, reigniting the manga industry's debate over generative AI art.",
+      "title": "플리토, AI 학습용 출판데이터 공급…정제·품질 검증 지원",
+      "url": "https://zdnet.co.kr/view/?no=20261109170434",
+      "source": "ZDNet Korea",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "rationale": "A fresh manga-world flashpoint from 11-08: a major mangaka praised fan art that turned out to be AI-generated and faced backlash. It adds a comics angle and a 5th outlet alongside the survey and peer-review picks."
+      "rationale": "New deal: Flitto signs an MOU with the Korean Publishers Association to build a licensed market for AI-training publishing data, handling cleaning and quality checks.",
+      "published_iso": "2026-11-09T17:04:34+09:00",
+      "og_image": "https://image.zdnet.co.kr/2026/11/09/2b121073d396ca3cb7b643a2debfe25c.jpg",
+      "excerpt": "플리토가 출판 저작물을 인공지능(AI) 학습에 활용할 수 있도록 데이터 공급 체계 마련에 나섰다. 플리토는 지난 4일 대한출판문화협회와 AI 학습용 출판데이터 공급·거래 시장 조성을 위한 업무협약을 체결했다고 9일 밝혔다."
+    }
+  ],
+  "items": [
+    {
+      "title": "Medium's new TK app brings AI assistance directly into the writing process",
+      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+      "source": "TechCrunch",
+      "tool": "Books",
+      "accent": "#f5a623",
+      "motif": "swatch",
+      "rationale": "New product launch: Medium ships a standalone writing app with built-in AI assistance, a concrete tool writers can try now amid the AI-authorship backlash.",
+      "published_iso": "2026-11-09T16:12:28+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675",
+      "excerpt": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing."
+    },
+    {
+      "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
+      "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
+      "source": "WIRED",
+      "tool": "Books",
+      "accent": "#0070f3",
+      "motif": "swatch",
+      "rationale": "Actionable for writers: surveys the provenance/paper-trail tools authors can use to prove human authorship as AI-detection accusations spread through publishing.",
+      "published_iso": "2026-11-09T11:00:00.000Z",
+      "og_image": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg",
+      "excerpt": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind."
+    },
+    {
+      "title": "예스24, 한영 문장 한 목소리로 읽는다…인공지능 TTS 도입",
+      "url": "https://www.news1.kr/life-culture/book/6348294",
+      "source": "뉴스1",
+      "tool": "Books",
+      "accent": "#7928ca",
+      "motif": "swatch",
+      "rationale": "New feature release: Yes24 adds on-device AI TTS that reads mixed Korean-English e-book sentences in a single voice, with 8 AI voices.",
+      "published_iso": "2026-11-10T06:35:11+09:00",
+      "og_image": "https://i3n.news1.kr/system/photos/2026/11/9/8205652/high.jpg",
+      "excerpt": "오디오북 1인당 구매액 69.3% 증가…40대 비중 30.9% 온디바이스 음성합성 적용…AI 보이스 총 8종 제공 예스24가 전자책에서 한국어와 영어가 섞인 문장을 한 목소리로 읽어주는 인공지능 음성변환 기능을 도입했다고 10일 밝혔다."
+    },
+    {
+      "title": "Japan initiative aims to protect rights holders in generative AI era",
+      "url": "https://www.asahi.com/ajw/articles/16889120",
+      "source": "The Asahi Shimbun",
+      "tool": "Books",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "rationale": "New initiative: Japan moves to bring manga, anime and other cultural IP into generative AI on terms set by rights holders — a licensing-framework shift for publishers.",
+      "published_iso": "2026-11-09T22:00:00Z",
+      "og_image": "https://p.potaufeu.asahi.com/ea20-p/picture/31541082/61f58bd68b656de926eb7ac66b22a04e.jpg",
+      "excerpt": "Japan is seeking to bring its anime, manga, music and other cultural properties into the age of generative artificial intelligence on terms set by rights holders."
+    },
+    {
+      "title": "플리토, AI 학습용 출판데이터 공급…정제·품질 검증 지원",
+      "url": "https://zdnet.co.kr/view/?no=20261109170434",
+      "source": "ZDNet Korea",
+      "tool": "Books",
+      "accent": "#eb367f",
+      "motif": "swatch",
+      "rationale": "New deal: Flitto signs an MOU with the Korean Publishers Association to build a licensed market for AI-training publishing data, handling cleaning and quality checks.",
+      "published_iso": "2026-11-09T17:04:34+09:00",
+      "og_image": "https://image.zdnet.co.kr/2026/11/09/2b121073d396ca3cb7b643a2debfe25c.jpg",
+      "excerpt": "플리토가 출판 저작물을 인공지능(AI) 학습에 활용할 수 있도록 데이터 공급 체계 마련에 나섰다. 플리토는 지난 4일 대한출판문화협회와 AI 학습용 출판데이터 공급·거래 시장 조성을 위한 업무협약을 체결했다고 9일 밝혔다."
     }
   ],
   "dedup": {
     "checks": {
-      "https://smbtech.au/news/macbook-book-formatting-tool-vellum-reverses-course-on-ai-automation-after-author-backlash/": {
+      "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/": {
         "verdict": "new",
-        "nearest": "https://feedback.sudowrite.com/changelog/introducing-worldbuilding-images",
+        "nearest": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
         "new_action": ""
       },
-      "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101719-salary-and-jobs-report-2026.html": {
+      "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/": {
         "verdict": "new",
-        "nearest": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+        "nearest": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
         "new_action": ""
       },
-      "https://www.voiceoverherald.com/rnib-poll-ai-narrated-audiobooks-talking-books-90-narrators/": {
+      "https://www.news1.kr/life-culture/book/6348294": {
         "verdict": "new",
-        "nearest": "https://janefriedman.com/youtube-looks-to-expand-into-audiobooks/",
+        "nearest": "https://www.voiceoverherald.com/rnib-poll-ai-narrated-audiobooks-talking-books-90-narrators/",
         "new_action": ""
       },
-      "https://scholarlykitchen.sspnet.org/2026/11/05/guest-post-what-ai-cant-learn-about-peer-review-because-nobody-can-explain-it/": {
+      "https://www.asahi.com/ajw/articles/16889120": {
         "verdict": "new",
-        "nearest": "https://scholarlykitchen.sspnet.org/2026/10/14/guest-post-artificial-intelligence-in-scholarly-publishing-are-we-moving-faster-than-the-evidence/",
+        "nearest": "https://automaton-media.com/en/nongaming-news/japans-ministry-of-finance-proposes-shared-manga-platform-where-global-fans-can-access-multiple-publishers-in-one-place-the-idea-involves-ai-translation/",
         "new_action": ""
       },
-      "https://comicbook.com/anime/news/ai-controversy-puts-critically-acclaimed-vinland-saga-creator-in-the-spotlight/": {
+      "https://zdnet.co.kr/view/?no=20261109170434": {
         "verdict": "new",
-        "nearest": "https://www.animenewsnetwork.com/interest/2026-10-10/yuriten-exhibit-cancels-10th-anniversary-event-after-artists-criticize-its-ai-use/.242698",
+        "nearest": "https://www.readersnews.com/news/articleView.html?idxno=200813",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: AUTOMATON MAGES visual-novel AI translation, because the same URL was already published in GAMES on 2026-11-07 (published_urls.json games). Publishing Perspectives 50+ amicus briefs in the OpenAI case, because it is the same running story as Bookseller 2026-10-30 with no new ruling. 서울경제 딸깍 출판, because it is the same running theme as sedaily 2026-10-17 and hankookilbo 2026-11-04 with no new event. Prospect 'Literary prizes are for writers', because it is commentary on the Goncourt AI admission (euronews 11-05) and Prix Pascal (10-21). Skipped on quality or relevance, not as duplicates: Khaleej Times Rockwell and SEE News SIBF translation panels (commentary), WLOX generic explainer, ICv2 litigation roundup (10-30, rehash), Scholarly Kitchen governed-AI framework (2 SK posts would be too many), Jane Friedman on AI-detection scandals (overlaps NPR Pangram 11-03 and Proudly Human 11-07), 일요신문 웹소설 AI 염증 (10-28 feature), MK webtoon/drama AI courses (weak hook). RECOVERY ADD (rank 5): ComicBook.com Vinland Saga/Yukimura AI fan-art controversy, a new 11-08 incident with no history_match. Recovery-pool drops: 산학뉴스 모사재인 아이로쿠 (same Japan launch as wowtv 10-23), Tomorrow's Publisher illustrator brief (same AOI survey as Bookseller 10-30), ALLi 300 authors v. Meta (same filing as PW 10-22); New Indian Express explainer and 한겨레 column skipped as commentary; SK Charleston/LibLynx and Tomorrow's Publisher scholarly-governance survey not picked (SK/scholarly already covered, library-bot theme ran via CBC 11-07). Cross-section: I could not exact-grep, so the orchestrator should grep published_urls.json for all 5 URLs plus 'Vinland Saga'/'Yukimura' before roll. Diversity: 5 distinct outlets."
+    "note": "Dropped as published repeats: Jane Friedman 'Canada limits use of ISBNs for AI-generated content' (= globalnews 2026-10-23 Library and Archives Canada story); Jane Friedman 'New literary prize in France for AI-written manuscripts' (= Bookseller 2026-10-21 Prix Pascal). Dropped as running-story analysis with no new filing: Publishing Perspectives OpenAI amicus-briefs roundup (same case/briefs as Bookseller 2026-10-30 'Publishers urge US court to reject OpenAI's fair use defence'). Passed over (commentary/opinion or weak/PR, lower score): Jane Friedman AI-detection-scandals essay (10-30, overlaps NPR Pangram 11-03), Scholarly Kitchen governed-AI essay, Bookseller AI-discovery comment, Sharjah translation seminar, WLOX explainer, Textway Frankfurt PR, Hani column, Hankyung webtoon stock piece (investment noise), Incheon AI picture books, OhmyNews column, Yuwon univ reading cert, NY Post first-person feature, SIBF AI photo booth. Cross-section: none of the picks are on the orchestrator's 2026-11-10 cross-section assignment list; published_urls.json (all sections) is too large to load fully and this agent has no grep tool, so the orchestrator should exact-grep the 5 pick URLs (esp. the Asahi rights-holder initiative, which mentions anime/music, and the Medium TK app) before roll."
   }
 }
