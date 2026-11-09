@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "issue": "Adobe Firefly에 들어온 Seedance 2.5",
+    "date": "2026.11.06",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "원문은 Adobe Firefly 공식 YouTube 'Tell Your Story with Seedance 2.5 | Adobe Firefly'(2026.11.06 업로드, 17초)와 소개글. 'Try it for free' 링크(adobe.com/go/firefly_seedance2_5)는 403으로 막혀 확인 불가. Adobe 원문은 요금제·크레딧·지역·출시일을 밝히지 않는다 — 초안의 '무료로 열었다'는 CTA 문구를 확대한 것이라 고쳤다(Adobe의 Seedance 2.0 페이지는 파트너 모델을 유료 Firefly 플랜용으로 적는다). 30초·15초·참조 30/10/10·7월 31일은 ByteDance Seed 공식 블로그 'Introducing Seedance 2.5'(2026.07.31)로 확인. design-offset이 적은 Firefly 내 720p·초당 95크레딧은 Adobe 확인이 없어 싣지 않았다. 영상: 1장은 Adobe 공식 영상 중 문구 없는 두 컷(2.6–4.4s, 10.4–12.2s)을 이어 붙임(하단 'AI-generated performers' 표기는 Adobe 자체 표기), 3·4장은 BytePlus(ByteDance) 공식 YouTube 'Dreamina Seedance 2.5 | ON CUE'(2026.08.03, Seedance 2.5로 제작)에서 자막 없는 구간(18.3s, 40.5s).",
+    "sources": [
+      "Adobe Firefly (YouTube) — Tell Your Story with Seedance 2.5 | Adobe Firefly (2026.11.06)",
+      "ByteDance Seed — Introducing Seedance 2.5 (2026.07.31)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "video": "src/firefly.mp4",
+      "start": 0,
+      "dur": 3.6,
+      "eyebrow": "AI × 디자인 · 2026.11.06",
+      "headline": "Seedance 2.5가 Firefly로",
+      "body": "ByteDance의 영상 모델 Seedance 2.5를 이제 Adobe Firefly에서 쓸 수 있다. Adobe가 공식 영상으로 알렸다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "quote",
+      "quote": "Firefly에 들어온 Seedance 2.5로\n당신의 이야기를 들려주세요.",
+      "quote_by": "Adobe Firefly · 공식 YouTube 소개글",
+      "eyebrow": "Adobe가 한 말",
+      "headline": "\"이야기를 들려주세요\"",
+      "body": "17초짜리 영상에서 오토바이가 얼음 해변과 화산을 달린다. 등장인물은 AI로 만들었다고 화면에 적었다.",
+      "foot": "2026.11.06",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "video": "src/oncue-doves.mp4",
+      "start": 0,
+      "dur": 3.6,
+      "eyebrow": "어떤 모델인가",
+      "headline": "한 번에 30초까지",
+      "body": "ByteDance가 7월 31일 내놓은 모델이다. 한 번에 뽑는 길이를 15초에서 30초로 늘렸고, 소리도 같이 만든다.",
+      "foot": "2026.11.06",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "video": "src/oncue-mirror.mp4",
+      "start": 0,
+      "dur": 5.5,
+      "eyebrow": "짚을 대목",
+      "headline": "자료 50개를 한 번에",
+      "body": "이미지 30개, 영상 10개, 오디오 10개를 함께 넣을 수 있다. 원테이크처럼 이어지는 긴 장면을 노린 설계다.",
+      "foot": "2026.11.06",
+      "n": 4
+    },
+    {
+      "kind": "stat",
+      "stat_top": "Try it for free",
+      "stat_arrow": "Adobe 안내는 이 한 줄뿐",
+      "stat_bottom": "요금제·지역 미공개",
+      "stat_strike": false,
+      "eyebrow": "그래서 지금",
+      "headline": "조건은 아직 안 밝혔다",
+      "body": "Adobe는 '무료로 써 보라'는 링크만 걸었다. 크레딧·플랜 조건은 아직 없으니 쓰기 전에 확인하자.",
+      "foot": "2026.11.06",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

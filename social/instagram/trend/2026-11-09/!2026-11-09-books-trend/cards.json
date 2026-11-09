@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "issue": "AI가 책을 긁어 가는 길",
+    "date": "2026.11.09",
+    "section": "BOOKS",
+    "accent": "#f5a623",
+    "note": "원문 4건 대조(게재일 404 Media 11.03·경향 11.05·CBC 11.05·Tech Times 11.06). 2,000건·하루, 120여 출판사(프랑크푸르트 호소문), 약 6,000권·1월 이후(익명 UK 서점, Guardian 인용) 확인. 유럽 출판계 대응은 DPR 마이어 발표로 출처 표시. CBC 사진은 Getty라 도서관 장을 quote(딘 시먼)로 바꿈 — 스틸 0장.",
+    "sources": [
+      "404 Media — Vibe Coded AO3 Clone Site Down After Fanfic Authors Buried It With 2,000 Takedown Notices in a Single Day (2026.11.03)",
+      "경향신문 — 판권에 'AI 학습 거부' 못 박고, 사용료도 받고···유럽 출판계의 반격 (2026.11.05)",
+      "CBC News — University libraries are being swarmed by AI bots, putting public access at risk (2026.11.05)",
+      "Tech Times — Secondhand Bookshops Face Strange Bulk Orders, Sellers Suspect AI Firms Are Buying Them for Training Data (2026.11.06)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 책 · 11.03~11.06",
+      "thread": [
+        {
+          "d": "11.03",
+          "t": "팬픽 복제",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.05",
+          "t": "학습 거부",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.05",
+          "t": "도서관 봇",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.06",
+          "t": "헌책 대량주문",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        }
+      ],
+      "thread_note": "AI가 책을 가져가는 통로가 늘고, 막는 쪽도 바빠졌다",
+      "eyebrow": "흐름 · 책",
+      "headline": "AI가 책을\n긁어 가는 길",
+      "body": "하나씩 보면 사이트 하나, 도서관 하나의 일이다. 나흘 사이 팬픽·도서관·헌책방이 잇따라 AI 수집의 표적이 됐다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "quote",
+      "eyebrow": "2026.11.03",
+      "headline": "하루 만에 닫힌 팬픽 복제",
+      "body": "AO3가 멈춘 틈에 팬픽을 긁어 AI 오디오북으로 판 ao3.life. 제작자는 하루 새 삭제 요청 2,000건 넘게 받고 닫았다고 했다.",
+      "foot": "2026.11.03",
+      "_src": "https://www.404media.co/vibe-coded-ao3-clone-site-down-after-fanfic-authors-buried-it-with-2-000-takedown-notices-in-a-single-day/",
+      "_id": "books-ao3-clone-takedown",
+      "quote": "전부 잠가 뒀는데\n여기 다 올라와 있다.\n내 글인데 통제권이 0이다",
+      "quote_by": "한 AO3 작가, Bluesky (404 Media 인용)"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.05",
+      "headline": "판권면에 '학습 거부'",
+      "body": "DPR 창립자 마이어에 따르면 유럽 출판사들은 판권면에 AI 학습 거부를 적고, 따로 계약하거나 함께 맞선다.",
+      "foot": "2026.11.05",
+      "_src": "https://www.khan.co.kr/article/202611051657001",
+      "_id": "books-europe-ai-optout",
+      "stat_top": "프랑크푸르트 도서전 호소문",
+      "stat_arrow": "함께 이름을 올린 출판사",
+      "stat_bottom": "120여 곳",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.05",
+      "headline": "도서관 덮친 AI 봇",
+      "body": "학습할 글을 찾는 AI 봇이 몰리며 학생·연구자·시민이 쓰는 대학 도서관 사이트가 느려지거나 멈춘다.",
+      "foot": "2026.11.05",
+      "_src": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+      "_id": "books-library-ai-scrapers",
+      "quote": "봇 트래픽이 너무 심해\n사이트가 잠시\n아예 다운되기도 한다",
+      "quote_by": "딘 시먼 · 빅토리아대 도서관 (CBC 인용)"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.06",
+      "headline": "이번엔 헌책방, 종이책째",
+      "body": "UK·아일랜드 헌책방에 주제 없는 대량 주문이 몰린다. 서점들은 AI 학습용이라 의심하지만 확인된 건 없다.",
+      "foot": "2026.11.06",
+      "_src": "https://www.techtimes.co.uk/uk-irish-booksellers-mystery-ai-book-orders-1809765",
+      "_id": "techtimes-secondhand-bulk-orders",
+      "stat_top": "익명 UK 서점, 1월 이후",
+      "stat_arrow": "비슷한 구매자들의 주문",
+      "stat_bottom": "약 6,000권",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
