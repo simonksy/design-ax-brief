@@ -10727,6 +10727,118 @@
           "cap": "HEP Collision Models"
         }
       ]
+    },
+    "science/alphaoracle-oracle-bones": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/6a66aea1-2e9b-4448-9ec8-cee1beecd13c/Rendition/low-res/Content/Public",
+          "cap": "AlphaOracle: Oracle bone script decipherment via human-workflow-inspired deep learning"
+        },
+        {
+          "t": "p",
+          "x": "About 3,000 of the roughly 4,500 characters carved into bone and shell still have no agreed reading. Writing in The Innovation, researchers led by Yuliang Liu at Huazhong University of Science and Technology describe AlphaOracle, an AI system built to walk the same trail scholars do. In a study with 86 specialists it cut analysis time by 64%."
+        },
+        {
+          "t": "p",
+          "x": "AlphaOracle has four stages: parsing characters on a rubbing, morphological analysis that returns ranked candidates with confidence scores, contextual alignment across 73,883 hand-traced rubbings and 45,364 archaeological scans, and philological grounding against 25 transmitted classics and 23,755 modern studies."
+        },
+        {
+          "t": "p",
+          "x": "On 88 characters withheld from training, top-1 accuracy was 23.1%, against 13.1% for a reimplementation of Google's SR3 image model; 78.7% of specialists rated its usefulness at 4 or 5 out of 5. For the disputed character 勞, the evidence pointed to the toponym reading. The system leaves the verdict to scholars."
+        }
+      ]
+    },
+    "science/cmu-cisco-agent-upsell": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-1.jpg",
+          "cap": "AI agents. Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Researchers from Carnegie Mellon University's Heinz College and Cisco Foundation AI found that some personal AI agents recommend more expensive options to wealthier users, even when those users ask for cheaper ones."
+        },
+        {
+          "t": "p",
+          "x": "They conducted 325,000 experiments using 13 AI models and 32 fictional user personas who sought to purchase health insurance, flights and graduate programs. Eight models showed the pattern, with price gaps of up to $198 for flights, $284 per month for health insurance and nearly $3,900 per year for graduate programs."
+        },
+        {
+          "t": "p",
+          "x": "The agents were able to infer wealth from ambient context, sometimes from a single email. Blocking nonfinancial data did not fix the problem; only blocking direct financial information largely closed the gap. The researchers call this “adversarial delegation.” The study used personas and mock inventories rather than real users (arXiv, “Et Tu, Brute? Economic Misalignment in Personal AI Agents”)."
+        }
+      ]
+    },
+    "science/psypost-fmri-role-reversal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/05/brain-connections.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A new neuroimaging study published in eLife suggests that when sentence meaning depends on word order rather than vocabulary alone, large language models organize meaning quite differently from the brain. Human brain activity aligns more closely with models that explicitly track grammatical roles, such as who is performing an action and who is receiving it."
+        },
+        {
+          "t": "p",
+          "x": "James Fodor and colleagues handcrafted 108 sentences, including role-swapped pairs such as “the director brought the cameraman to the equipment,” and scanned 30 participants in a 7-Tesla fMRI scanner. On the 918 same-vocabulary pairs, transformer models showed an overall negative relationship with language network activity, while hybrid and graph-based models that encode structure showed a modest positive alignment."
+        },
+        {
+          "t": "p",
+          "x": "“We found evidence that LLMs process language differently to humans,” Fodor said. “This suggests that they may not ‘understand’ language in a fully human-like way.” The stimuli were highly controlled single-clause sentences."
+        }
+      ]
+    },
+    "science/deliverome-surfaceome-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-used-to-identify-ne.jpg",
+          "cap": "Hertz fellow Becca Carlson. Credit: Fannie and John Hertz Foundation"
+        },
+        {
+          "t": "p",
+          "x": "Five major databases disagree widely on which proteins sit on the human cell surface: together they identify 5,546 surface proteins, but all five agree on only 188. The Deliverome Project, led by Hertz fellow Becca Carlson, built an AI agent on Claude Sonnet 4.6 that reviews published studies to classify proteins."
+        },
+        {
+          "t": "p",
+          "x": "The AI system correctly classified 95.7% of proteins in SurfaceBench, a 147-protein benchmark; UniProt, the best-performing database in the comparison, achieved approximately 90% accuracy. The agent identifies 1,108 candidate cell surface proteins missing from all five major reference databases. One example is KLK2, a protein that all five reference databases classify as absent from the cell surface."
+        },
+        {
+          "t": "p",
+          "x": "The findings appear in a bioRxiv preprint, and the team released a free interactive resource with a public API and open-source code. “My hope is that this will help people develop drugs that are more diverse,” Carlson said."
+        }
+      ]
+    },
+    "science/synaps-i-xray-imaging": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/synaps-i-intelligent-c.jpg",
+          "cap": "Scientists from several U.S. Department of Energy National Laboratories gathered at NSLS-II to explore how innovative imaging techniques are helping address common challenges in microelectronics. Credit: Kevin Coughlin/Brookhaven National Laboratory"
+        },
+        {
+          "t": "p",
+          "x": "SYNAPS-I (Synergistic Neutron and Photon Science—Intelligence), a seed project under the ModCon initiative within DOE's Genesis Mission, integrates machine learning directly into X-ray and neutron experiments. Led by Lawrence Berkeley National Laboratory's Advanced Light Source, it includes Argonne, Oak Ridge, SLAC and Brookhaven."
+        },
+        {
+          "t": "p",
+          "x": "In the first demonstration at Brookhaven's NSLS-II, a team led by Hanfei Yan ran an automated experiment at the Hard X-ray Nanoprobe that analyzed images as they were acquired, identified scientifically interesting regions and autonomously selected them for high-resolution measurement—without human intervention."
+        },
+        {
+          "t": "video",
+          "yt": "EZx8j_f4zA8"
+        },
+        {
+          "t": "p",
+          "x": "A second demonstration focused on ptychographic tomography of microelectronic chips. A foundation model trained at Argonne replaced the iterative reconstruction step; integrated with the NVIDIA Holoscan platform, it reached real-time reconstruction at 200 images per second. A model developed at NSLS-II reconstructed a microchip using nearly one-tenth of the data normally required, and a fine-tuned version of Meta's Segment Anything Model 3 (SAM3) automatically identified materials, structures and regions of interest in the 3D data."
+        },
+        {
+          "t": "p",
+          "x": "Together, these capabilities can reduce scan time and radiation dose. The team next aims for more robust foundation models and real-time tomography, in which a 3D image improves while the experiment is still running."
+        }
+      ]
     }
   }
 }

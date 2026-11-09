@@ -1,96 +1,168 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "section": "games",
-  "items": [
+  "picks": [
     {
-      "title": "As Wardogs Season 3 looms, Bulkhead claims to have built 'one of the world's most sophisticated anti-cheat systems', assisted by 'machine learning and AI'",
-      "url": "https://www.pcgamer.com/games/fps/as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one-of-the-worlds-most-sophisticated-anti-cheat-systems-assisted-by-machine-learning-and-ai/",
-      "source": "PC Gamer",
-      "published_iso": "2026-11-08T12:16:51Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-2560-80.jpg",
-      "excerpt": "Bulkhead says Wardogs' new anti-cheat was built by analysing 187 million hours of gameplay with machine learning and AI; it arrives with Season 3 on November 12 alongside a new urban map.",
+      "title": "NVIDIA's Lyra 2.0 Turns a Single Image Into an Explorable 3D World, With Persistent Environments and Real-Time Rendering",
+      "url": "https://wccftech.com/nvidias-lyra-2-0-turns-a-single-image-into-an-explorable-3d-world-with-persistent-environments-and-real-time-rendering/",
+      "source": "Wccftech",
+      "category": "games",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Freshest item (11-08): a shipping studio's ML anti-cheat trained on 187M hours of play, live Nov 12 — new deployment, distinct from the EA Javelin interview."
+      "published_iso": "2026-11-09T13:10:03+00:00",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg",
+      "excerpt": "NVIDIA's Lyra 2.0 generates an explorable, persistent 3D world from a single image by combining AI video generation, spatial memory and 3D reconstruction, rendered in real time - a new world-model version aimed at environment creation.",
+      "rationale": "New world-model release (v2.0) that turns one concept image into a persistent explorable 3D environment - directly relevant to environment artists and level blockout."
     },
     {
-      "title": "[기획 | 게임사 AI 전환의 현주소 ④]… 크래프톤, 결과보다 AI 협업 과정 평가",
-      "url": "http://www.economytalk.kr/news/articleView.html?idxno=425135",
-      "source": "이코노미톡뉴스",
-      "published_iso": "2026-11-08T08:00:00+09:00",
-      "og_image": "https://cdn.economytalk.kr/news/photo/202611/425135_233885_4215.png",
-      "excerpt": "크래프톤은 2027 채용연계형 인턴십 6개 직군의 AI 역량평가에 자체 개발한 '코파 프로브(Cofa-Probe)'를 쓴다. 지원자가 업무 에이전트와 협업하는 과정을 소스코드·프롬프트·검증 기록까지 자동 수집해 기술·의도·인지 관리 세 축으로 평가한다.",
+      "title": "Artists at the center: How InnoGames integrated gen AI into its art pipeline",
+      "url": "https://mobidictum.com/gen-ai-artists-innogames-pipeline/",
+      "source": "Mobidictum",
+      "category": "games",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "Replacement for the CozyBlanket Pro cross-section dup: a game publisher's in-house tool that grades how candidates work WITH AI agents (code, prompts, verification logs) across 6 job tracks — concrete, new, and directly relevant to game devs entering the industry."
+      "published_iso": "2026-11-09T12:28:45+03:00",
+      "og_image": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png",
+      "excerpt": "In a guest article, InnoGames head of art Dario Berruti explains how the studio integrated generative AI into its game-art production workflows while keeping artists at the center.",
+      "rationale": "First-hand art-pipeline playbook from a studio head of art - the most directly actionable item for game artists in the pool."
     },
     {
-      "title": "Ubisoft scales AI coding agents to 4,000+ developers with Unity Gateway",
-      "url": "https://www.databricks.com/customers/ubisoft/unity-gateway",
-      "source": "Databricks",
-      "published_iso": "2026-11-04T22:20:00+00:00",
-      "og_image": "https://www.databricks.com/sites/default/files/2026-11/customer-story-ubisoft-og.png",
-      "excerpt": "Databricks customer story: Ubisoft rolled out AI coding agents to more than 4,000 developers through Unity Gateway (Databricks' AI gateway), with centralised model access, governance and usage tracking.",
+      "title": "Google AI developer's unauthorized iPhone Duo port of the Zelda: Ocarina of Time remake, made with Gemini 4, draws backlash and is deleted",
+      "url": "https://automaton-media.com/articles/newsjp/20261109-478221/",
+      "source": "AUTOMATON",
+      "category": "games",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "Concrete AAA-scale deployment (4,000+ devs) with governance details; vendor case study, so enrichment must verify figures and note 'Unity Gateway' is Databricks' product, not Unity Technologies'."
+      "published_iso": "2026-11-09T04:35:23+00:00",
+      "og_image": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg",
+      "excerpt": "Google employee Ammaar Reshi posted on 11-07 that he had used Gemini 4 to get Nintendo's full Ocarina of Time remake running on iPhone Duo; the post drew criticism over engineering ethics and IP and has since been deleted.",
+      "rationale": "New incident in the AI-port/IP debate, notable because a Google AI developer did it with Gemini 4 and then pulled it under backlash."
     },
     {
-      "title": "신작 연기 반복한 넷마블, 내년 13종 출시 자신…AI로 개발 속도 높인다",
-      "url": "https://www.newspim.com/news/view/20261106000585",
-      "source": "뉴스핌",
-      "published_iso": "2026-11-06T15:40:00+09:00",
-      "og_image": "https://img.newspim.com/news/2026/06/12/2606121620382670_t1.jpg",
-      "excerpt": "넷마블이 내년 신작 13종 출시를 AI 기반 개발·운영 체계로 뒷받침한다. 기획부터 번역·녹음·그래픽 제작, 품질 검증·운영 자동화까지 반복 업무에 AI를 쓴다.",
+      "title": "完全オフライン、無制限、53言語対応。「日本発の翻訳AI」無償公開から数日、ゲーマー向けツールも続々登場",
+      "url": "http://www.gamespark.jp/article/2026/11/09/174651.html",
+      "source": "Game*Spark",
+      "category": "games",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Korean major publisher commits its 13-title 2027 slate to an AI pipeline spanning planning, localisation, voice, art and QA — a new studio-wide plan, not the earlier Netmarble Nexus Kiro case."
+      "published_iso": "2026-11-09T14:20:35+09:00",
+      "og_image": "https://www.gamespark.jp/imgs/ogp_f/1217054.png",
+      "excerpt": "Days after Preferred Networks released its free, fully offline translation model PLaMo 3 Translate (53 languages, no usage limits), developers are releasing gamer-facing translation tools built on it.",
+      "rationale": "Free offline 53-language translation model already spawning gamer/localisation tools - practical for indie localisation and a fresh release."
     },
     {
-      "title": "The AI posting war is heating up: 'Please, leave me behind,' says artist who got into it with Epic CEO Tim Sweeney on X",
-      "url": "https://www.pcgamer.com/software/ai/the-ai-posting-war-is-heating-up-please-leave-me-behind-says-artist-who-got-into-it-with-epic-ceo-tim-sweeney-on-x/",
+      "title": "Jackbox Games isn't interested in AI development: 'All that is done by people, and we have no intention of changing that'",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/",
       "source": "PC Gamer",
-      "published_iso": "2026-11-06T22:21:50Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/QAh2KbRTQ6Y9BSbgacF6VT-1920-80.jpg",
-      "excerpt": "Asset artist Kenney urged artists not to cave to pressure to use generative AI; Epic CEO Tim Sweeney replied 'This is bullshit, Kenney', and the clash split developers and players on X.",
+      "category": "games",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "New public clash (11-06) between a widely used free-asset artist and Epic's CEO over pressure on artists to adopt gen AI — a fresh event, not a rehash of the EULA or Steam-disclosure stories."
+      "published_iso": "2026-11-08T22:06:56+00:00",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo-1280-80.png",
+      "excerpt": "Jackbox CEO Mike Bilder says the studio's comedy, writing and art will stay human-made and it has no intention of replacing people or people-made editorial and art with generative assets, while allowing AI's use for tooling and research.",
+      "rationale": "A named studio's explicit policy line (human-made writing/art, AI only for tooling/research) - a concrete stance studios can benchmark against."
+    }
+  ],
+  "items": [
+    {
+      "title": "NVIDIA's Lyra 2.0 Turns a Single Image Into an Explorable 3D World, With Persistent Environments and Real-Time Rendering",
+      "url": "https://wccftech.com/nvidias-lyra-2-0-turns-a-single-image-into-an-explorable-3d-world-with-persistent-environments-and-real-time-rendering/",
+      "source": "Wccftech",
+      "category": "games",
+      "tool": "Games",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "published_iso": "2026-11-09T13:10:03+00:00",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg",
+      "excerpt": "NVIDIA's Lyra 2.0 generates an explorable, persistent 3D world from a single image by combining AI video generation, spatial memory and 3D reconstruction, rendered in real time - a new world-model version aimed at environment creation.",
+      "rationale": "New world-model release (v2.0) that turns one concept image into a persistent explorable 3D environment - directly relevant to environment artists and level blockout."
+    },
+    {
+      "title": "Artists at the center: How InnoGames integrated gen AI into its art pipeline",
+      "url": "https://mobidictum.com/gen-ai-artists-innogames-pipeline/",
+      "source": "Mobidictum",
+      "category": "games",
+      "tool": "Games",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "published_iso": "2026-11-09T12:28:45+03:00",
+      "og_image": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png",
+      "excerpt": "In a guest article, InnoGames head of art Dario Berruti explains how the studio integrated generative AI into its game-art production workflows while keeping artists at the center.",
+      "rationale": "First-hand art-pipeline playbook from a studio head of art - the most directly actionable item for game artists in the pool."
+    },
+    {
+      "title": "Google AI developer's unauthorized iPhone Duo port of the Zelda: Ocarina of Time remake, made with Gemini 4, draws backlash and is deleted",
+      "url": "https://automaton-media.com/articles/newsjp/20261109-478221/",
+      "source": "AUTOMATON",
+      "category": "games",
+      "tool": "Games",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "published_iso": "2026-11-09T04:35:23+00:00",
+      "og_image": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg",
+      "excerpt": "Google employee Ammaar Reshi posted on 11-07 that he had used Gemini 4 to get Nintendo's full Ocarina of Time remake running on iPhone Duo; the post drew criticism over engineering ethics and IP and has since been deleted.",
+      "rationale": "New incident in the AI-port/IP debate, notable because a Google AI developer did it with Gemini 4 and then pulled it under backlash."
+    },
+    {
+      "title": "完全オフライン、無制限、53言語対応。「日本発の翻訳AI」無償公開から数日、ゲーマー向けツールも続々登場",
+      "url": "http://www.gamespark.jp/article/2026/11/09/174651.html",
+      "source": "Game*Spark",
+      "category": "games",
+      "tool": "Games",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "published_iso": "2026-11-09T14:20:35+09:00",
+      "og_image": "https://www.gamespark.jp/imgs/ogp_f/1217054.png",
+      "excerpt": "Days after Preferred Networks released its free, fully offline translation model PLaMo 3 Translate (53 languages, no usage limits), developers are releasing gamer-facing translation tools built on it.",
+      "rationale": "Free offline 53-language translation model already spawning gamer/localisation tools - practical for indie localisation and a fresh release."
+    },
+    {
+      "title": "Jackbox Games isn't interested in AI development: 'All that is done by people, and we have no intention of changing that'",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/",
+      "source": "PC Gamer",
+      "category": "games",
+      "tool": "Games",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "published_iso": "2026-11-08T22:06:56+00:00",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo-1280-80.png",
+      "excerpt": "Jackbox CEO Mike Bilder says the studio's comedy, writing and art will stay human-made and it has no intention of replacing people or people-made editorial and art with generative assets, while allowing AI's use for tooling and research.",
+      "rationale": "A named studio's explicit policy line (human-made writing/art, AI only for tooling/research) - a concrete stance studios can benchmark against."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.pcgamer.com/games/fps/as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one-of-the-worlds-most-sophisticated-anti-cheat-systems-assisted-by-machine-learning-and-ai/": {
+      "https://wccftech.com/nvidias-lyra-2-0-turns-a-single-image-into-an-explorable-3d-world-with-persistent-environments-and-real-time-rendering/": {
         "verdict": "new",
-        "nearest": "https://gamesbeat.com/how-ea-javelin-anti-cheat-is-changing-in-the-face-of-ai-attacks-mike-reavey-exclusive-interview/",
+        "nearest": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
         "new_action": ""
       },
-      "http://www.economytalk.kr/news/articleView.html?idxno=425135": {
+      "https://mobidictum.com/gen-ai-artists-innogames-pipeline/": {
         "verdict": "new",
-        "nearest": "https://www.inews24.com/view/2019608",
+        "nearest": "https://www.nvidia.com/en-us/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/",
         "new_action": ""
       },
-      "https://www.databricks.com/customers/ubisoft/unity-gateway": {
+      "https://automaton-media.com/articles/newsjp/20261109-478221/": {
         "verdict": "new",
-        "nearest": "https://unity.com/blog/unity-cli-usage-data-ai-coding-agents",
+        "nearest": "https://www.gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-links-awakenings-nintendo-switch-remake-now-has-a-pc-port-if-you-can-stomach-an-almost-exclusive-use-of-ai/",
         "new_action": ""
       },
-      "https://www.newspim.com/news/view/20261106000585": {
+      "http://www.gamespark.jp/article/2026/11/09/174651.html": {
         "verdict": "new",
-        "nearest": "https://aws.amazon.com/ko/blogs/tech/adopting-kiro-to-game-dev-team/",
+        "nearest": "https://automaton-media.com/en/news/steinsgate-developer-mages-says-ai-translation-is-a-long-way-from-being-viable-for-visual-novels/",
         "new_action": ""
       },
-      "https://www.pcgamer.com/software/ai/the-ai-posting-war-is-heating-up-please-leave-me-behind-says-artist-who-got-into-it-with-epic-ceo-tim-sweeney-on-x/": {
+      "https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/": {
         "verdict": "new",
-        "nearest": "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman",
+        "nearest": "https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games",
         "new_action": ""
       }
     },
-    "note": "RE-PICK: removed 80 Level 'New AI-Assisted Retopology Software Launches For PC' (Sparseal CozyBlanket Pro) — same product story the design section published 2026-10-15 (design-cozyblanket-pro, cgchannel.com/2026/10/sparseal-releases-cozyblanket-pro/); cross-section one-story rule. Replaced with Krafton Cofa-Probe (economytalk idxno=425135, full URL with query): re-judged as an in-house AI-collaboration assessment tool applied to 2027 intern hiring across 6 job tracks — distinct from every prior Krafton card (Raon-1 mini LLM 10-22, API cost -37% 11-02, Kiip K-pop chat 11-04, SNU world-model research 10-10, Mimesis update 10-30); nearest is the 11-02 inews24 AI-usage story. Not funding/exec noise; AI is central. Earlier drops stand — duplicates of published games stories: GamesBeat DLSS 5 three games (= 10-14 Wccftech / 11-04 NVIDIA War Thunder), Unity Codex plugin short (sibling of 11-03 Antigravity plugin), Wccftech 94% VAIA (= 10-21 GamesBeat Vivrato), Engadget decomp.dev (late recap of 10-16 GamesRadar), Foro3D Claude naming policy (unverified, running 11-02 story). Quality drops: Gala Playworks (promo), Overwolf/Base44 contest, Herald Kartrider Roblox clones (running AI-clone story). Cross-section: published_urls.json is url->date only (no titles), so the Cofa-Probe product-name check across sections relies on the orchestrator's grep — please re-run it for 'economytalk.kr' idxno=425135 and 'Cofa-Probe'/'코파 프로브'."
+    "note": "Dropped as duplicates: inews24 2023215 (Com2uS Hive Axel CEO interview) - follow-up on the 10-27 gamemeca gid=1782378 Hive Axel story with no new release (Unreal/Godot support is only a 2027 roadmap mention). Kotaku Sakurai item - same Famitsu-event story as the Eurogamer item (within-pool cluster). Eurogamer Sakurai - new remarks at a new event, so not strictly a repeat, but it is another 'Sakurai on gen-AI' quote 3 weeks after the 10-17 GamesRadar card; ranked out. Ranked out (not duplicates): AMDLSS5 2.0 (community mod, DLSS 5 running story), Petit Planet interview, Craft Anything (off-list clone tool), GamesBeat Next panel (commentary). Ocarina of Time iPhone port is a distinct event (different game, different person, Gemini 4) from the 10-15 Link's Awakening PC port. Cross-section caveat: this agent has Read/Write only, so published_urls.json (4,192 lines) could not be grep'd in full - the orchestrator should exact-grep it for 'lyra', 'plamo', 'ocarina', 'jackbox', 'innogames' and the five pick URLs before roll. Brief-assigned exclusions honoured (anti-AI hand-drawn fish game not in pool / not picked)."
   }
 }

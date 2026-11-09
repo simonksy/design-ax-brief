@@ -1,31 +1,7 @@
-{
-  "date": "2026-11-09",
-  "section": "music",
-  "media": [
-    {
-      "id": "music-engadget-ai-ear-signs",
-      "type": "image",
-      "src": "pipeline/media/music-engadget-ai-ear-signs.jpg"
-    },
-    {
-      "id": "music-ifpi-australia-copyright",
-      "type": "image",
-      "src": "pipeline/media/music-ifpi-australia-copyright.jpg"
-    },
-    {
-      "id": "choyoungsoo-ai-virtual-singer",
-      "type": "image",
-      "src": "pipeline/media/choyoungsoo-ai-virtual-singer.jpg"
-    },
-    {
-      "id": "ivors-composer-awards-ai",
-      "type": "image",
-      "src": "pipeline/media/ivors-composer-awards-ai.jpg"
-    },
-    {
-      "id": "music-arxiv-theme-similarity",
-      "type": "image",
-      "src": "pipeline/media/music-arxiv-theme-similarity.png"
-    }
-  ]
-}
+{"date":"2026-11-10","section":"music","media":[
+{"id":"apple-logic-usage-packs","type":"image","src":"pipeline/media/apple-logic-usage-packs.jpg"},
+{"id":"deux-kimsungjae-ai-album","type":"image","src":"pipeline/media/deux-kimsungjae-ai-album.jpg"},
+{"id":"waves-illugen25-plugin","type":"video","src":"pipeline/media/waves-illugen25-plugin.mp4","poster":"pipeline/media/waves-illugen25-plugin.jpg"},
+{"id":"spdmx-open-stem-dataset","type":"svg"},
+{"id":"tubetube-lyrics-video","type":"image","src":"pipeline/media/tubetube-lyrics-video.jpg"}
+]}

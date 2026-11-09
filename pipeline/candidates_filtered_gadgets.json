@@ -1,50 +1,173 @@
 {
   "section": "gadgets",
-  "now_iso": "2026-11-08T22:02:46Z",
+  "now_iso": "2026-11-09T22:02:53Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Amazon’s Alexa Tablet 12 Pro ditches Fire OS for real Android",
-      "url": "https://the-gadgeteer.com/2026/11/08/amazons-alexa-tablet-12-pro-ditches-fire-os-for-real-android-at-499-99/",
-      "source": "The Gadgeteer",
+      "title": "Meta's Muse AI Agent Comes to Apple Watch",
+      "url": "https://www.macrumors.com/2026/11/09/meta-muse-apple-watch/",
+      "source": "MacRumors",
       "category": "gadgets",
-      "published_iso": "2026-11-08T09:00:00-06:00",
-      "excerpt": "Amazon killed the Fire tablet name and rebuilt the line as Alexa Tablets with real Android, the full Google Play Store, and Alexa+ built in. The 12 Pro starts at $499.99 with a 120Hz screen, plus a pen and a keyboard case that turn it into a work machine.",
-      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-hero.jpg",
+      "published_iso": "2026-11-09T21:55:21+00:00",
+      "excerpt": "Meta updated the Muse iOS app with Apple Watch support, so users can text, dictate to or call the proactive Muse AI agent from the wrist, with a watch-face complication for quick access.",
+      "og_image": "https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg",
       "history_match": {
-        "score": 0.157,
-        "date": "2026-10-10",
-        "url": "https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max",
-        "title": "One year with Alexa Plus: better at the smart home, not ready to run your life, and now with ads",
+        "score": 0.258,
+        "date": "2026-10-16",
+        "url": "https://www.macrumors.com/2026/10/15/meta-muse-spark-open-mac-studio/",
+        "title": "Meta and Apple Bring Muse Spark Open AI Model to Mac Studio",
         "band": "related"
       }
     },
     {
-      "title": "I played Android's first AI frame-gen game: Mobile just had its DLSS moment",
-      "url": "https://www.androidauthority.com/arm-neural-dawn-hands-on-3731282/",
+      "title": "Siri Is Getting a Better Memory",
+      "url": "https://www.macrumors.com/2026/11/09/siri-could-get-better-remembering-your-life/",
+      "source": "MacRumors",
+      "category": "gadgets",
+      "published_iso": "2026-11-09T13:15:41+00:00",
+      "excerpt": "Code in the iOS 27.3 beta reveals a personal 'memory graph' for Siri that organizes relationships, places, habits and important events so the assistant can retain context about a user's life.",
+      "og_image": "https://images.macrumors.com/t/5VqGjtmjIjCfOM8Sv0v-nzPfg54=/1600x/article-new/2026/03/ios-27-siri-animation.jpg",
+      "history_match": {
+        "score": 0.328,
+        "date": "2026-10-27",
+        "url": "https://9to5mac.com/2026/10/26/siri-ai-keeps-getting-better-heres-whats-new-in-ios-27-2/",
+        "title": "Siri AI keeps getting better, here’s what’s new in iOS 27.2",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Apple's $50 Intelligence Usage Packs extend access to some AI features",
+      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features",
+      "source": "The Verge",
+      "category": "gadgets",
+      "published_iso": "2026-11-09T19:09:58+00:00",
+      "excerpt": "Instead of a subscription, Apple is selling $50 packs of extra usage credits for some Apple Intelligence features in its Creator Studio apps once the included allotment runs out.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/logicpro.jpg?quality=90&strip=all&crop=0%2C10.742998834307%2C100%2C78.514002331385&w=1200"
+    },
+    {
+      "title": "Exclusive: Here's what Samsung's Galaxy AI Premium plan brings and what remains free",
+      "url": "https://www.sammobile.com/news/galaxy-ai-premium-plan-features-list-what-remains-free/",
+      "source": "SamMobile",
+      "category": "gadgets",
+      "published_iso": "2026-11-09T11:27:17+00:00",
+      "excerpt": "SamMobile lists which Galaxy AI features would move behind a reported $4.99/month Galaxy AI Premium plan and which stay free on Galaxy phones.",
+      "og_image": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Galaxy-AI.jpg",
+      "history_match": {
+        "score": 0.23,
+        "date": "2026-10-17",
+        "url": "https://news.samsung.com/global/samsung-expands-language-support-across-ai-experiences-on-galaxy",
+        "title": "Samsung Expands Language Support Across AI Experiences on Galaxy",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Samsung is working on a new Galaxy AI app to clean up the screenshot mess you've been pretending doesn't exist",
+      "url": "https://www.digitaltrends.com/phones/samsung-is-working-on-a-new-galaxy-ai-app-to-clean-up-the-screenshot-mess-youve-been-pretending-doesnt-exist/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "published_iso": "2026-11-09T09:53:15-08:00",
+      "excerpt": "Samsung is developing Memory, a Galaxy AI app that saves screenshots, links, text and voice notes and automatically organizes them into searchable collections, similar to Pixel Screenshots.",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-inner-screen-scaled.jpg?resize=1200%2C630&ssl=1",
+      "history_match": {
+        "score": 0.166,
+        "date": "2026-10-17",
+        "url": "https://news.samsung.com/global/samsung-expands-language-support-across-ai-experiences-on-galaxy",
+        "title": "Samsung Expands Language Support Across AI Experiences on Galaxy",
+        "band": "related"
+      }
+    },
+    {
+      "title": "One UI 9.5 may bring AI agent capabilities to Bixby on your Galaxy phone",
+      "url": "https://www.androidauthority.com/samsung-one-ui-9-5-bixby-ai-agent-3732863/",
       "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-11-08T11:30:32+00:00",
-      "excerpt": "Arm and Sumo Digital's Neural Dawn uses Arm's Neural Super Sampling and Denoising plus Neural Frame Rate Upscaling, AI networks running on the Mali G2 Ultra GPU, to bring ray-traced MegaLights to a phone; it currently runs only on MediaTek Dimensity 9600 Pro devices.",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-game-main-menu-scaled.jpg"
+      "published_iso": "2026-11-09T13:10:11+00:00",
+      "excerpt": "Code in One UI 9.5 suggests Samsung may give Bixby AI agent capabilities on Galaxy phones; the stock Voice Recorder app could also pick up new features.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/10/one-ui-9-frowning-plush-scaled.jpg",
+      "history_match": {
+        "score": 0.232,
+        "date": "2026-10-17",
+        "url": "https://news.samsung.com/global/samsung-expands-language-support-across-ai-experiences-on-galaxy",
+        "title": "Samsung Expands Language Support Across AI Experiences on Galaxy",
+        "band": "related"
+      }
     },
     {
-      "title": "Just 2% of Tom's Guide readers want AI in earbuds & headphones — so why do audio brands from Apple to Samsung to Soundcore keep pushing it on us?",
-      "url": "https://www.tomsguide.com/audio/just-2-percent-of-toms-guide-readers-want-ai-in-earbuds-and-headphones-so-why-do-audio-brands-like-apple-samsung-and-soundcore-keep-pushing-it-on-us",
-      "source": "Tom's Guide",
+      "title": "Digital Wellbeing v1.50 beta gives us our first look at Weekly Insights and Gemini integration",
+      "url": "https://www.androidauthority.com/google-digital-wellbeing-weekly-insights-apk-teardown-3732858/",
+      "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-11-08T09:15:00Z",
-      "excerpt": "Results are in: just 2% of Tom's Guide readers buy earbuds and headphones because of AI features. So why do audio brands think we want them?",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/dzhSAejg9r2CVeUepQmEaW-2000-80.jpg"
+      "published_iso": "2026-11-09T11:53:25+00:00",
+      "excerpt": "An APK teardown of Google's Digital Wellbeing beta shows AI-generated Weekly Insights powered by Gemini, and suggests the feature may not be limited to Gemini Nano devices.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/digital-wellbeing-tools.jpg",
+      "history_match": {
+        "score": 0.255,
+        "date": "2026-10-30",
+        "url": "https://9to5mac.com/2026/10/29/strava-adds-google-gemini-integration-with-personalized-workout-insights/",
+        "title": "Strava adds Google Gemini integration with personalized workout insights",
+        "band": "related"
+      }
     },
     {
-      "title": "Nvidia's new AI laptop runs nearly 80% slower on Linux — but only when it's plugged in",
-      "url": "https://www.tomsguide.com/ai/nvidias-new-ai-laptop-runs-nearly-80-percent-slower-on-linux-but-only-when-its-plugged-in",
-      "source": "Tom's Guide",
+      "title": "Leak: HONOR Robot Phone 2 is in the works, could launch next year",
+      "url": "https://www.androidauthority.com/honor-robot-phone-2-leak-3732477/",
+      "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-11-05T13:00:00Z",
-      "excerpt": "MindStudio shows that skipping the charger could speed things up",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/CxvjAewa4xS3be2otk3Neg-2560-80.jpg"
+      "published_iso": "2026-11-06T13:33:25+00:00",
+      "excerpt": "Honor is reportedly developing a second-generation Robot Phone, its AI-focused handset, for a possible launch next year, even as buyers still struggle to get the first model.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/08/honor-robot-phone-hands-on-2.jpg",
+      "history_match": {
+        "score": 0.167,
+        "date": "2026-10-14",
+        "url": "https://www.techradar.com/ai-platforms-assistants/unitree-ceo-says-robotics-breakthrough-could-happen-in-2027-with-the-chatgpt-moment-for-embodied-intelligence-being-powered-by-openais-gpt-7-model",
+        "title": "Robots could get a ‘ChatGPT moment’ in the next one to two years, Unitree chief says — and it’ll be powered by OpenAI’s GPT-7",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Wearable sleep trackers are using your brainwaves to train AI models without explicit user consent",
+      "url": "https://www.tomshardware.com/peripherals/wearable-tech/wearable-sleep-trackers-are-using-your-brainwaves-to-train-ai-models-without-explicit-user-consent-tens-of-millions-of-hours-of-eeg-data-harvested",
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "published_iso": "2026-11-09T12:00:00+00:00",
+      "excerpt": "Wearable neurotech companies have collected tens of millions of hours of EEG recordings from sleep headbands to train AI models, raising questions about consent and who controls neural data.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/TigcVbSwidE5JLUGgy7em-2048-80.jpg"
+    },
+    {
+      "title": "편의점 직원 된 휴머노이드 로봇…24시간 근무 도전",
+      "url": "https://www.etnews.com/20261109000425",
+      "source": "전자신문",
+      "category": "gadgets",
+      "published_iso": "2026-11-10T06:00:00+09:00",
+      "excerpt": "중국 애지봇이 상하이 편의점에 바퀴형 휴머노이드 'G2' 6대를 투입해 24시간 근무를 시험했다. 로봇들은 손님 응대·진열·커피 제조·청소 등 1730건의 작업을 처리했다.",
+      "og_image": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg"
+    },
+    {
+      "title": "AI 안경 쓰고 시험 치다 적발된 중·고생 4명…전원 0점 처리",
+      "url": "https://www.etnews.com/20261109000269",
+      "source": "전자신문",
+      "category": "gadgets",
+      "published_iso": "2026-11-09T14:08:59+09:00",
+      "excerpt": "교육부 전수조사 결과 2026학년도 중·고교 내신 시험에서 AI 스마트 안경을 이용한 부정행위 4건이 확인돼 전원 0점 처리됐다. 수능을 앞두고 AI 안경 단속이 강화되고 있다.",
+      "og_image": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.8ac1fa2c17534244ae231cd437548395_P1.png"
+    },
+    {
+      "title": "Christian Linux project plans $449 phone with AI-powered Bible study",
+      "url": "https://www.notebookcheck.net/Christian-Linux-project-plans-449-phone-with-AI-powered-Bible-study.1445691.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-11-09T11:45:00+01:00",
+      "excerpt": "Jesus Dash combines a Linux OS, an AI assistant and religious resources; its founder is also building a $449 smartphone called PineCone targeted for early 2027.",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Golden-Codex-Smartphone-Showcase.png"
+    },
+    {
+      "title": "This prototype camera is fighting the good fight against AI photography",
+      "url": "https://www.engadget.com/2307723/caim-1-camera-fighting-against-ai-photography/",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-11-09T14:45:00+00:00",
+      "excerpt": "The CAIM-1 prototype camera embeds cryptographic proof of origin into every photo at the sensor level, a hardware answer to AI-generated fakes.",
+      "og_image": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/l-intro-1793382637.jpg"
     },
     {
       "title": "Don't like Google Health's AI Coach? Here's how to turn it off",
@@ -52,10 +175,10 @@
       "source": "Engadget",
       "category": "gadgets",
       "published_iso": "2026-11-08T21:15:00+00:00",
-      "excerpt": "If this Premium feature is bugging you, there's good news: you aren't stuck with it.",
+      "excerpt": "Engadget walks through disabling the Gemini-powered Google Health Coach on Fitbit and Pixel Watch setups without dropping Premium, and notes LLM-generated reports still appear across the app.",
       "og_image": "https://www.engadget.com/img/gallery/dont-like-google-healths-ai-coach-heres-how-to-turn-it-off/l-intro-1793989213.jpg",
       "history_match": {
-        "score": 0.214,
+        "score": 0.211,
         "date": "2026-11-03",
         "url": "https://www.androidauthority.com/chatgpt-health-google-health-integration-apk-teardown-3730462/",
         "title": "ChatGPT could soon turn your Android health data into something you can actually use",
@@ -63,40 +186,49 @@
       }
     },
     {
-      "title": "The biggest disadvantages of using AI glasses",
-      "url": "https://www.engadget.com/2309033/biggest-disadvantages-using-ai-glasses/",
-      "source": "Engadget",
+      "title": "AI teddy bears spark fresh 'Funzo' fears — as new report discovers malfunctioning toy that tells children 'I can't help with killing you'",
+      "url": "https://www.techradar.com/tech/would-you-buy-your-kids-an-ai-teddy-bear-im-a-tech-loving-parent-but-i-dont-trust-these-toys-and-a-new-report-backs-me-up",
+      "source": "TechRadar",
       "category": "gadgets",
-      "published_iso": "2026-11-08T18:30:00+00:00",
-      "excerpt": "Despite the benefit to the disabled and aging communities, smart glasses are problematic when it comes to privacy and safety concerns. Here's what to watch for.",
-      "og_image": "https://www.engadget.com/img/gallery/the-biggest-disadvantages-of-using-ai-glasses/l-intro-1793976467.jpg"
+      "published_iso": "2026-11-07T09:00:00+00:00",
+      "excerpt": "A BBC investigation found an AI teddy marketed for three-year-olds making unprompted remarks about killing and suicide, as AI toys head into the holiday season.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/dxbkzTCXsocDbUjvNVtcyE-2560-80.jpg"
     },
     {
-      "title": "Ray-Ban Meta Audio review: Great specs, shame about the price",
-      "url": "https://9to5google.com/2026/11/06/ray-ban-meta-audio-review/",
-      "source": "9to5Google",
+      "title": "Windows 11 users will get the choice to integrate Copilot AI in the search box as an optional extra",
+      "url": "https://www.techradar.com/computing/windows/microsoft-plans-two-big-interface-changes-for-windows-11-one-sounds-useful-but-the-other-involving-ai-is-seriously-divisive",
+      "source": "TechRadar",
       "category": "gadgets",
-      "published_iso": "2026-11-06T21:09:14+00:00",
-      "excerpt": "Ray-Ban Meta Audio glasses drop the camera in hopes of toning down the privacy concerns, but are they still worth it?",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/ray-ban-meta-audio-glasses-burbank-wearing-03.jpg?quality=82&strip=all&resize=1200,628",
+      "published_iso": "2026-11-09T15:27:19+00:00",
+      "excerpt": "Microsoft plans an opt-in option to integrate the new Copilot into the Windows 11 taskbar search box for inline answers, rolling out first to select markets later this year.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/FW3tr6LdvKmYiNeRxPhVUo-2119-80.jpeg",
       "history_match": {
-        "score": 0.392,
-        "date": "2026-10-10",
-        "url": "https://gizmodo.com/ray-ban-meta-gen-3-ai-glasses-review-2000822961",
-        "title": "Ray-Ban Meta Gen 3 review: Meta's new Muse model is the real upgrade",
+        "score": 0.181,
+        "date": "2026-10-29",
+        "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+        "title": "Microsoft is ending Copilot support on smart TVs",
         "band": "related"
       }
     },
     {
-      "title": "There's a New Way to Shop With AI. Text Alexa",
-      "url": "https://www.cnet.com/tech/services-and-software/amazon-alexa-text-to-shop-ai-feature/",
-      "source": "CNET",
+      "title": "AI can read the radiation coming from an HDMI cable to mimic the video being passed over it",
+      "url": "https://www.techradar.com/computing/cyber-security/this-shocking-video-shows-how-ai-can-read-the-radiation-coming-from-an-hdmi-cable-to-mimic-the-video-being-passed-over-the-cable-not-even-wired-connections-are-safe-from-spy-tech",
+      "source": "TechRadar",
       "category": "gadgets",
-      "published_iso": "2026-11-06T14:54:32-05:00",
-      "excerpt": "Amazon's bots are the latest AI agents trying to do your shopping for you. Should you let them?",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/amaxon-alexa-for-shopping-2.jpeg",
+      "published_iso": "2026-11-09T17:59:43+00:00",
+      "excerpt": "Researchers used a new AI model to reconstruct on-screen video from electromagnetic leakage of ordinary HDMI cables, improving text accuracy by over 60%.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/AzZkPJKaNZWUp3DoLp34kZ-1920-80.jpg"
+    },
+    {
+      "title": "Text, shop, done: Alexa for Shopping is now just a text away",
+      "url": "https://www.aboutamazon.com/news/retail/alexa-for-shopping-text-to-shop",
+      "source": "About Amazon",
+      "category": "gadgets",
+      "published_iso": "2026-11-06T13:55:08+00:00",
+      "excerpt": "Amazon now lets a subset of customers text its Alexa for Shopping AI agent to get shopping done, with the texting option rolling out across the U.S. in the coming weeks.",
+      "og_image": "https://assets.aboutamazon.com/dims4/default/337bc09/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2Fbe%2F8c%2F45ff003a4e1ea2e9a9fd4d6438d9%2Funtitled-november-06-2026-at-13-44-08.jpeg",
       "history_match": {
-        "score": 0.167,
+        "score": 0.212,
         "date": "2026-10-29",
         "url": "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/",
         "title": "OpenAI now lets you text your Dot agent",
@@ -104,127 +236,34 @@
       }
     },
     {
-      "title": "Exclusive: Garmin’s top brass says ‘any application of AI needs to keep a very keen sense of authenticity’ — but wants to keep its TrainingPeaks service human",
-      "url": "https://www.techradar.com/health-fitness/fitness-trackers/garmin-is-embracing-ai-with-a-keen-sense-of-authenticity-according-to-its-coo-but-acquired-trainingpeaks-for-consumers-who-want-to-engage-with-a-human-coach",
-      "source": "TechRadar",
+      "title": "Google brings Gemini to AT&T home security with smarter alerts and 24/7 recording",
+      "url": "https://www.digitaltrends.com/home/google-adds-gemini-to-att-connected-life-home-security/",
+      "source": "Digital Trends",
       "category": "gadgets",
-      "published_iso": "2026-11-07T15:30:00Z",
-      "excerpt": "Garmin is being ‘very thoughtful and discerning about our use of AI’ according to its chief operating officer",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/gRvpJtLD7kX2Tt5yQZunVE-2560-80.jpg"
-    },
-    {
-      "title": "AI teddy bears spark fresh 'Funzo' fears — as new report discovers malfunctioning toy that tells children 'I can't help with killing you'",
-      "url": "https://www.techradar.com/tech/would-you-buy-your-kids-an-ai-teddy-bear-im-a-tech-loving-parent-but-i-dont-trust-these-toys-and-a-new-report-backs-me-up",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-11-07T09:00:00Z",
-      "excerpt": "An AI teddy bear that's been marketed for three-year-olds has made unprompted references to suicide, a BBC report has revealed — amid calls for the industry to be regulated.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/dxbkzTCXsocDbUjvNVtcyE-2560-80.jpg"
-    },
-    {
-      "title": "Apple is racing to make Siri more agentic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-      "source": "The Verge",
-      "category": "gadgets",
-      "published_iso": "2026-11-08T19:18:19+00:00",
-      "excerpt": "Future versions of Siri will be able to control third-party apps and perform more complex tasks.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&strip=all&crop=0%2C10.727837220746%2C100%2C78.544325558509&w=1200",
+      "published_iso": "2026-11-05T06:33:25+00:00",
+      "excerpt": "Gemini for Home is coming to AT&T Connected Life, adding smarter camera alerts, automatic arming, 24/7 recording and searchable video to the home security service.",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-adds-Gemini-to-ATT-Connected-Life-feature.jpg?resize=1200%2C630&ssl=1",
       "history_match": {
-        "score": 0.342,
-        "date": "2026-11-04",
-        "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
-        "title": "Apple starts giving Siri AI access to third-party apps",
-        "band": "related"
+        "score": 0.425,
+        "date": "2026-11-05",
+        "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+        "title": "Gemini for Home now plugs into AT&T’s smart security system",
+        "band": "likely-repeat"
       }
-    },
-    {
-      "title": "Homelabber uses second-gen Optane memory sticks to run a 2.8-trillion-parameter AI model on CPU alone — warns that Optane's extreme heat can 'burn out' nearby memory DRAM, used blower fans to prevent melting RAM",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabber-uses-second-gen-optane-memory-sticks-to-run-a-2-8-trillion-parameter-ai-model-on-cpu-alone-warns-that-optanes-extreme-heat-can-burn-out-nearby-memory-dram-used-blower-fans-to-prevent-melting-ram",
-      "source": "Tom's Hardware",
-      "category": "gadgets",
-      "published_iso": "2026-11-08T12:20:00Z",
-      "excerpt": "A Reddit homelab user ran Moonshot AI’s 2.8-trillion-parameter Kimi K3 CPU-only on Optane PMem 200 at 0.85 tokens/s with a 1-bit quant.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Wpdi2avEo8ZBZMremLVgaU-2496-80.jpg",
-      "history_match": {
-        "score": 0.15,
-        "date": "2026-10-18",
-        "url": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram",
-        "title": "Jailbroken PS5s can now run local AI models at over 100+ tokens per second — fork of PS5LM goes native, hijacks the CPU, and accesses the GPU and more RAM",
-        "band": "related"
-      }
-    },
-    {
-      "title": "엔비디아, 'RTX 스파크' 기술 소개…차세대 'AI PC' 경험 제시",
-      "url": "https://www.etnews.com/20261106000278",
-      "source": "전자신문",
-      "category": "gadgets",
-      "published_iso": "2026-11-06T16:03:09+09:00",
-      "excerpt": "엔비디아가 그래픽처리장치(GPU)와 중앙처리장치(CPU)를 단일 칩으로 결합한 'RTX 스파크(RTX Spark)'를 앞세워 클라우드 연결 없이 개인용 PC에서 인공지능(AI) 비서를 직접 구동하는 '로컬 AI' 시장 공략에 본격적으로 나섰다. 하드웨어 슈퍼칩과 함께 메모리 사용량을 대폭 줄인 경량 모델, 로컬·클라우드 하이브리드 기술을 동시에 선보이며 온디바이스 AI 생태계를 완성한다는 전략이다. 엔비디아는 6일 서울 종로구 JW 메리어트 동",
-      "og_image": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.7c595977012a423b8b5fa1b52cd5b411_P1.png"
-    },
-    {
-      "title": "The new Asus ProArt P14 is currently only available with 32 GB of RAM, which makes little sense for RTX Spark",
-      "url": "https://www.notebookcheck.net/The-new-Asus-ProArt-P14-is-currently-only-available-with-32-GB-of-RAM-which-makes-little-sense-for-RTX-Spark.1444260.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-11-06T23:08:00+01:00",
-      "excerpt": "Local AI models and AI agents are the main selling point of the new RTX Spark laptops. However, the new ProArt P14 currently only comes with 32 GB of RAM, making it difficult to run AI models.",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ProArt_P14_H7407/ProArt_P14_N1X_case_03.JPG",
-      "history_match": {
-        "score": 0.276,
-        "date": "2026-10-18",
-        "url": "https://www.tomsguide.com/computing/laptops/asus-proart-p16-rtx-spark-review",
-        "title": "I tested the Asus ProArt P16 with Nvidia RTX Spark and it's the ultimate AI creator laptop (with a price to match)",
-        "band": "related"
-      }
-    },
-    {
-      "title": "MSI Venture 15 AI+ runs Intel's Core Ultra X7 358H with Arc B390 graphics",
-      "url": "https://the-gadgeteer.com/2026/11/06/msi-venture-15-ai-plus-core-ultra-x7-arc-b390/",
-      "source": "The Gadgeteer",
-      "category": "gadgets",
-      "published_iso": "2026-11-06T17:40:00-06:00",
-      "excerpt": "MSI builds the Venture line for people who work on their laptop all day and still want it to do more after hours. The new Venture 15 AI+ B3M is the first",
-      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/msi-venture-hero.jpg"
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 15,
+    "dropped": 0,
+    "kept": 19,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 7,
+    "review": 11,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-10",
-      "title": "Pixel Watch 4 update adds Google's AI watch face generator",
-      "url": "https://9to5google.com/2026/10/09/pixel-watch-4-update-adds-ai-face-generator/"
-    },
-    {
-      "date": "2026-10-10",
-      "title": "Ray-Ban Meta Gen 3 review: Meta's new Muse model is the real upgrade",
-      "url": "https://gizmodo.com/ray-ban-meta-gen-3-ai-glasses-review-2000822961"
-    },
-    {
-      "date": "2026-10-10",
-      "title": "Xpanceo's AI smart contact lenses put 'an AI helper on your cornea' as soon as 2030",
-      "url": "https://www.cnet.com/health/medical/smart-contact-lenses-here-soon-2030-what-they-do/"
-    },
-    {
-      "date": "2026-10-10",
-      "title": "Pre-orders open for Nvidia's RTX Spark laptops, starting at $2,599",
-      "url": "https://www.techradar.com/pro/pre-orders-open-for-nvidias-rtx-spark-workstations-and-these-are-the-3-local-ai-laptops-id-buy-for-business"
-    },
-    {
-      "date": "2026-10-10",
-      "title": "One year with Alexa Plus: better at the smart home, not ready to run your life, and now with ads",
-      "url": "https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max"
-    },
     {
       "date": "2026-10-11",
       "title": "Siri can index more of your personal data —  here's how to limit it",
@@ -899,6 +938,31 @@
       "date": "2026-11-08",
       "title": "The Siri AI waitlist is gone in iOS 27: How to try the beta today",
       "url": "https://www.zdnet.com/business/siri-ai-beta-waitlist-ends-ios-27/"
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/"
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Amazon’s Alexa Tablet 12 Pro ditches Fire OS for real Android",
+      "url": "https://the-gadgeteer.com/2026/11/08/amazons-alexa-tablet-12-pro-ditches-fire-os-for-real-android-at-499-99/"
+    },
+    {
+      "date": "2026-11-09",
+      "title": "I played Android's first AI frame-gen game: Mobile just had its DLSS moment",
+      "url": "https://www.androidauthority.com/arm-neural-dawn-hands-on-3731282/"
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Just 2% of Tom's Guide readers want AI in earbuds & headphones — so why do audio brands keep pushing it on us?",
+      "url": "https://www.tomsguide.com/audio/just-2-percent-of-toms-guide-readers-want-ai-in-earbuds-and-headphones-so-why-do-audio-brands-like-apple-samsung-and-soundcore-keep-pushing-it-on-us"
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Homelabber uses second-gen Optane memory sticks to run a 2.8-trillion-parameter AI model on CPU alone",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabber-uses-second-gen-optane-memory-sticks-to-run-a-2-8-trillion-parameter-ai-model-on-cpu-alone-warns-that-optanes-extreme-heat-can-burn-out-nearby-memory-dram-used-blower-fans-to-prevent-melting-ram"
     }
   ]
 }

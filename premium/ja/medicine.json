@@ -3733,6 +3733,122 @@
           "x": "研究はCity St George's, University of LondonとUniversity College Londonが主導し、The Lancet Digital Healthに掲載された。著者らは、今回の結果は医師の監督下でAIを駆出率測定の第一選択とすることを支持するもので、今後は前向き研究で検証すべきだとしている。"
         }
       ]
+    },
+    "medicine/aha-echo-ai-reading-time": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://iprsoftwaremedia.com/67/files/20143/53599f8bc8046712f4065d3a_heart%20with%20artery%20view/heart%20with%20artery%20view_hero.jpg?v=01ffdf01-5bde-4cd9-b76c-748d50ca8d91",
+          "cap": "動脈が見える心臓"
+        },
+        {
+          "t": "p",
+          "x": "シカゴで開かれたAmerican Heart AssociationのScientific Sessions 2026で発表された速報段階の最新研究によると、AI-generated(AI生成)の心エコー図解釈は、超音波検査技師と循環器医が作成した予備解釈と同程度の精度を示し、循環器医が検査ごとの解釈にかける時間をほぼ半分に減らした。"
+        },
+        {
+          "t": "p",
+          "x": "研究者らによると、AIツールで心エコー図の報告書全体を作成する手法を検証した無作為化試験はこれが初めてだという。AIツール、超音波検査技師、循環器医が同じ1,200件の心エコー図について予備報告書をそれぞれ作成し、循環器医は誰が初稿を作ったか知らないまま最終版に仕上げた。"
+        },
+        {
+          "t": "p",
+          "x": "循環器医が大幅な修正を加えた割合は、AI-generatedの予備解釈で50.6%、超音波検査技師と循環器医による解釈で49.7%で、非劣性の基準を満たした。心エコー図1件あたりの平均判読時間はAIの下書きで4.6分、AI支援なしで8.5分で、約46%の時間短縮となった。"
+        },
+        {
+          "t": "p",
+          "x": "「ただし、AIが人間のチームに取って代わることはできない」と、Kaiser Permanenteの共同シニアオーサー、Keane K. Lee, M.D., M.S.は述べた。Kaiser Permanente Northern Californiaの21の医療センターで行われたこの研究は、査読を経ていない研究抄録である。"
+        }
+      ]
+    },
+    "medicine/previa-ptsd-llm-ed": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "心的外傷後ストレス障害は救急外来を退院した多くの外傷生存者に生じるが、救急の臨床医は時間的制約が厳しく、既存のスクリーニング手法は現実的でない。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig1_HTML.png",
+          "cap": "Fig. 1: PREVIAの概要図。"
+        },
+        {
+          "t": "p",
+          "x": "NYU Langone Healthの研究チームは、臨床知見を組み込んだ大規模言語モデルのアンサンブルPREVIAを発表した。EDの通常診療での質問「何があってEDに来ましたか？」に対する患者の非構造的な外傷の語りから、初期の外傷後ストレス症状、周外傷期症状、リスク要因と保護要因を抽出し、PTSDリスクを予測する。"
+        },
+        {
+          "t": "p",
+          "x": "New York Cityの二つのlevel-1 外傷センターで、外傷から24時間以内に登録され一か月後にPTSDを評価された患者N = 145人を対象に、PREVIAはAUROC = 78.49%、感度 = 95.4%でPTSDを予測した。無作為に選んだ30人では、PTSD-specialist（PTSD専門）の救急臨床医と同等の成績を示した（PREVIA：AUROC = 84.39%、感度 = 100.00%；臨床医：AUROC = 83.86%、感度 = 88.89%）。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig4_HTML.png",
+          "cap": "Fig. 4: 合成したEDの外傷の語りにPREVIAの三層LLMアンサンブルを適用した例：PTSD症例。"
+        },
+        {
+          "t": "p",
+          "x": "PREVIAは追加の臨床負担なしに解釈可能な説明も生成する。著者らは、より大規模で独立したコホートでの検証が必要だとしている。"
+        }
+      ]
+    },
+    "medicine/arpah-advocate-fda-meetings": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://endpoints.news/wp-content/uploads/2023/12/digital-health-concept-shutterstock-social.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ARPA-HのAdvocateプログラムに参加する複数のチームが、この臨床AIプログラムの発足から2か月足らずで、すでにFDAと最初の情報提供のための会合を持った。"
+        },
+        {
+          "t": "p",
+          "x": "プログラムマネジャーのHaider Warraich氏によると、各チームは2年以内に自律型AI心不全デバイスの申請を目指している。"
+        }
+      ]
+    },
+    "medicine/hospital-writeoffs-132b-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/rROIhynOGeISwdRSBvkGIZ-XipswoQZVgG4QyBmVii8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQyMjU5NzM0LmpwZw==.webp",
+          "cap": "Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "収益サイクル分析企業Kodiak Solutionsの新たな報告書によると、病院は昨年、貸倒れと最終的な請求拒否による償却で推計1320億ドルを失った。2024年から18%近い増加で、償却額は純収益の約10パーセントを占めた。"
+        },
+        {
+          "t": "p",
+          "x": "Forresterによると、収益サイクル技術の予算は今年7.6%増の690億ドルに拡大し、事前承認などの業務に向けた新興のエージェント型AIを含め、病院の財務実績の改善をうたうAIツールも増えているにもかかわらず、償却は増加した。"
+        },
+        {
+          "t": "p",
+          "x": "Kodiakの研究者らは、医療機関が「収益サイクルの運用に必要な技術と、財務実績を最適化するために必要な能力を十分に区別できていない」可能性があると述べた。Peterson Health Technology Instituteの報告書は、支払者と医療機関がAIの軍拡競争を繰り広げる中、事前承認向けのAIはまだシステム全体のコストを削減できていないと指摘した。"
+        }
+      ]
+    },
+    "medicine/cleerly-paramount-trial": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cleerly.com/hubfs/press-release/aha-2026_pr_paramount-aha-results.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Cleerlyは、シカゴで開かれた米国心臓協会(AHA)Scientific Sessions 2026のLate-Breaking Scienceで、AI-QCTに基づく診療(AI-QCT-guided care)を通常診療と比較した初の無作為化試験PARAMOUNTの主要結果を発表した。負荷試験に基づく通常診療と比べ、AIを用いた冠動脈CTの定量解析(AI-based quantitative coronary CT analysis、AI-QCT)に基づく診療は診断確信度を高め、脂質低下療法を受ける患者を増やした。"
+        },
+        {
+          "t": "p",
+          "x": "2025年1月から2026年2月にかけて、21施設で冠動脈疾患が疑われLDL-Cが高い(≥100 mg/dL)参加者530人が無作為化された。予備結果は523人に基づき、参加者の57%が女性だった。"
+        },
+        {
+          "t": "p",
+          "x": "「PARAMOUNTは、プラークを直接測定して診療の指針にすれば、医師はより明確な答えを得られ、患者が予防療法を始める可能性がはるかに高まることを示している」と共同主任研究者のTodd C. Villines, MDは述べた。プラークに基づく診療では、カテーテル室に紹介された患者のうち閉塞性CADのない患者が有意に少なく、カテーテル検査や血行再建術の全体の実施率も増えなかった。"
+        },
+        {
+          "t": "p",
+          "x": "結果はまだ査読を経ておらず予備的なものとみなすべきで、完全な結果は2027年初めに発表される見込みだ。"
+        }
+      ]
     }
   }
 }

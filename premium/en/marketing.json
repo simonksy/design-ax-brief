@@ -4041,6 +4041,133 @@
           "x": "3. Holiday-ready assets for YouTube: Gemini Omni 1.2, the updated video generation model from Google DeepMind, brings stronger consistency and faster video creation at scale in Asset Studio, across horizontal, vertical and square ratios. Max Hagler recommends A/B testing two different opening visual hooks in the first 3 seconds."
         }
       ]
+    },
+    "marketing/google-ads-mcp-write-tools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/google-ads-mcp-server-4-write-tools-read-only-vitrine-grabber-arm-locked-cash-register.jpg",
+          "cap": "Google Ads MCP server gains 4 write tools on by default, yet its guide still calls it read-only"
+        },
+        {
+          "t": "p",
+          "x": "Google released version 0.0.6 of its open-source Google Ads MCP server on November 2, 2026, adding the first tools in the project's public history that can change a Google Ads account. The four write tools — create_asset, upload_video_asset, manage_labels and manage_label_associations — create assets, upload videos to YouTube and manage labels, each gated behind a two-step dry run and checksum. They are switched on by default."
+        },
+        {
+          "t": "p",
+          "x": "No announcement accompanied the release, and Google's developer integration guide, last updated on October 30, still describes the server as strictly read-only. The checksum proves the parameters did not change; it does not prove anyone approved the change. “Whether a human approved it in between, the server cannot check,” wrote Swiss consultant Thomas Wismer, who tested the release."
+        },
+        {
+          "t": "p",
+          "x": "Version 0.0.6 still cannot create or edit campaigns, ad groups or ads; change budgets, bids, bidding strategies or status; add keywords; or attach a new asset to a campaign. For strictly read-only deployments, the README says to set labels: false and assets: false in tools_config.yaml."
+        }
+      ]
+    },
+    "marketing/meta-ai-ads-unapproved-discounts": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Recent reports found that the artificial intelligence-powered ad tools posted discount offers to customers even with promotions turned off."
+        },
+        {
+          "t": "p",
+          "x": "As artificial intelligence tools become more empowered, new parameters need to be established to limit their capacity when it comes to undertaking certain tasks. Automated errors can also extend to buying digital ads. PPC Land reported last week that Meta’s AI-powered ad tools took discounts from a store’s website and displayed them on the business’s Facebook and Instagram ads, “even when the shop had turned promotions off on the ad it copied.”"
+        },
+        {
+          "t": "p",
+          "x": "The discovery was made by digital marketing advisor Bram Van der Hallen: “Meta may now automatically detect offers from your website and use them in your Meta ads. Even when you have turned off this option for your original ad.” He said the issue can be controlled by updating Commerce Manager settings to stop Meta from using detected offers in other campaigns."
+        },
+        {
+          "t": "p",
+          "x": "PPC Land noted: “This matters for any business advertising on Meta with more than one offer live, because a discount meant for one campaign or one audience could show up somewhere else.”"
+        },
+        {
+          "t": "p",
+          "x": "Meta said improvements to its ads ranking system drove a more than 8% increase in ad clicks and a 15.7% uplift in conversions on Facebook in Q2 2026. However, as more systems are guided by AI, there will be errors, and advertisers need to be aware of these potential issues."
+        }
+      ]
+    },
+    "marketing/kbeauty-ai-fake-doctor-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i3n.news1.kr/system/photos/2026/9/8/8094291/high.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ads in which fake doctors made with artificial intelligence (AI) explain a cosmetic's effects and recommend using it become an explicit legal target for prohibition from the end of this month. Article 13, Paragraph 1, Item 4 of the revised Cosmetics Act, which takes effect on the 27th, bans ads that risk misleading consumers into thinking that AI-generated virtual experts such as doctors, pharmacists or university professors recommend or endorse a cosmetic."
+        },
+        {
+          "t": "p",
+          "x": "Using AI technology to make ads is not itself banned. The test is whether a virtual expert who is hard to tell apart from a real one risks leading consumers to mistake the ad for an expert's recommendation or endorsement."
+        },
+        {
+          "t": "p",
+          "x": "According to a Korea Consumer Agency survey, 420 unfair ads misusing AI were caught in YouTube ads from October last year to June this year, and 72 of them (17.1%) were cosmetics ads. Ads impersonating experts also reached 153."
+        },
+        {
+          "t": "img",
+          "src": "https://image.news1.kr/system/photos/2026/11/9/8205385/high.jpg/dims/optimize",
+          "cap": "An example of an unfair ad in which a virtual dermatologist generated by artificial intelligence (AI) promotes a cosmetic's effect on improving melasma. (Joint material from related ministries)"
+        },
+        {
+          "t": "p",
+          "x": "Major beauty companies are proactively reviewing their existing ad content and strengthening internal labeling guidelines and pre-review processes for marketing that uses generative AI. The Fair Trade Commission revised its review guidelines as of June 1 so that ads in which virtual people recommend or endorse products must clearly state that they are 'virtual people.'"
+        }
+      ]
+    },
+    "marketing/google-ads-ai-summaries-test": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google is testing more AI-generated summaries within its search ads. This one shows AI-generated summaries above the grouping of the sponsored results, summarizing all the ads from all the advertisers, with also AI-generated summaries below each ad description."
+        },
+        {
+          "t": "p",
+          "x": "When the AI-generated summaries are loading, there is the loading animation, to keep us entertained."
+        },
+        {
+          "t": "p",
+          "x": "This was spotted by Brodie Clark who posted this on X and SERP Alert - here is his video:"
+        },
+        {
+          "t": "video",
+          "src": "https://images.seroundtable.com/v-google-ads-ai-generated-summaries-14TJkp0H.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Brodie wrote, \"Google’s sponsored results on mobile are increasingly becoming more generative. Not only is there a loading animation for this example, but each individual ad has its own description for the business, and then there’s an additional description at the top of the sponsored results that mentions the brand names that are listed with an additional link to their ads.\""
+        },
+        {
+          "t": "p",
+          "x": "We've seen this before on sponsored ads and sponsored products but I am not sure if we've seen the summary at the top of the ads."
+        }
+      ]
+    },
+    "marketing/apple-patent-keyword-screenshots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/apple-patent-ai-app-screenshots-repainted-per-keyword-3-stable-diffusion-stage-maquette-backdrop-rolls.jpg",
+          "cap": "Pending Apple patent keeps headline and phone, repaints app screenshot backdrops per keyword"
+        },
+        {
+          "t": "p",
+          "x": "Apple has a pending US patent application, US20250265066A1, published on August 21, 2025, for a system that takes a marketing image or screenshot for an app, keeps the headline and the phone in it, and regenerates everything else around a keyword before a scoring model filters the results. It drew fresh attention after the ASO Patents site published a breakdown on November 5, 2026."
+        },
+        {
+          "t": "p",
+          "x": "A masking engine uses a CenterNet detection model and a Segment Anything Model to cut out the foreground. The image generator \"can implement three different weights of the stable diffusion model\" - an inpainting model, SDXL and a fine-tuned model - with keyword prompts and negative prompts such as \"NSFW,\" \"text\" and \"logo.\""
+        },
+        {
+          "t": "p",
+          "x": "An LXMERT-based image selector scores how well each candidate matches the keyword, filters out \"AI hallucinations,\" and the chosen image can be placed on a store product page, a website or an advertisement. Dependent claims 6 and 7 cover images and keywords automatically generated from the app itself."
+        },
+        {
+          "t": "p",
+          "x": "Nothing has been granted or launched. The filing contains no performance data and never names the App Store, Apple Ads or App Store Connect, referring only to an \"online software application store.\""
+        }
+      ]
     }
   }
 }

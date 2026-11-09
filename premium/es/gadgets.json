@@ -11434,6 +11434,139 @@
           "x": "Los usuarios de Windows también recibieron novedades: Screen Awareness incorpora nuevos comandos para enviar elementos individuales o ventanas completas a AI Chat. Para saber más sobre Raycast v2.11, consulta este enlace."
         }
       ]
+    },
+    "gadgets/meta-muse-applewatch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg",
+          "cap": "Muse en el Apple Watch"
+        },
+        {
+          "t": "p",
+          "x": "Meta actualizó hoy la app Muse para iOS para añadir compatibilidad con Apple Watch, lo que permite a los usuarios de Muse acceder al agente de IA proactivo desde el reloj."
+        },
+        {
+          "t": "p",
+          "x": "La app añade el personaje de Muse al reloj con la opción de enviarle mensajes de texto, dictarle texto o llamarlo. También hay una complicación de Muse para acceder rápidamente."
+        },
+        {
+          "t": "p",
+          "x": "Muse es el agente personal de IA de Meta, capaz de completar tareas por los usuarios. Está disponible como app independiente y también integrado en Instagram, Facebook y otras apps de Meta. El personaje con aspecto de yeti que Meta diseñó para representar a Muse se ha vuelto popular y ocupa el centro de la pantalla en el Apple Watch."
+        },
+        {
+          "t": "p",
+          "x": "El diseño de la app para el reloj es similar al Muse Charm que Meta anunció como dispositivo complementario en septiembre."
+        }
+      ]
+    },
+    "gadgets/samsung-memory-screenshots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-inner-screen-scaled.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Pantalla interior del Galaxy Z Fold 8 Ultra"
+        },
+        {
+          "t": "p",
+          "x": "Samsung estaría desarrollando una nueva app llamada Memory, impulsada por Galaxy AI (AI-powered). \"Se dice que la app permitirá a los usuarios reunir capturas de pantalla, enlaces, texto, contenido importado y notas de voz en un solo lugar, y que la IA se encargará de organizarlo todo\", informa SamMobile. Samsung no ha anunciado nada oficialmente, pero es probable que la app llegue con One UI 9.5."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios pueden guardar contenido mediante capturas de pantalla, el menú Share (Compartir), enlaces o texto pegados y notas de voz, con atajos como deslizar tres dedos hacia abajo para hacer una captura."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/09/samsung-galaxy-z-fold-7-oneui8-4095.jpg?resize=4492%2C2695&ssl=1",
+          "cap": "Pantalla de bloqueo plegable de Samsung One UI 8 en el Galaxy Z Fold 7."
+        },
+        {
+          "t": "p",
+          "x": "Memory usa IA para generar un título, resumir el contenido, añadir etiquetas relevantes y agrupar elementos relacionados en colecciones. Incluso puede reconocer capturas de páginas web y buscar el enlace original. Pixel Screenshots de Google y Mind Space de Oppo hacen algo similar."
+        },
+        {
+          "t": "p",
+          "x": "Samsung afirma que el contenido guardado puede procesarse solo en el dispositivo, aunque algunas funciones de inteligencia avanzadas requieren procesamiento en línea. Se espera que Memory llegue con One UI 9.5 en las próximas semanas, pero es una previsión, no una promesa oficial."
+        }
+      ]
+    },
+    "gadgets/eeg-sleep-headband-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/TigcVbSwidE5JLUGgy7em-1200-80.jpg",
+          "cap": "(Imagen: Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "Una investigación de Science con la AI Accountability Network del Pulitzer Center halló que las empresas de neurotecnología de consumo han acumulado decenas de millones de horas de registros de EEG, y varias los usan para desarrollar modelos fundacionales del cerebro, pese a que al principio no detallaban ese uso en sus políticas de privacidad."
+        },
+        {
+          "t": "p",
+          "x": "Interaxon, fabricante de la diadema de sueño Muse, ha entrenado un modelo de IA con unas 50.000 horas de registros de EEG. Su política de privacidad no lo revelaba de forma explícita hasta que fue actualizada; \"Estamos de acuerdo en que los usuarios deben ser informados explícitamente\", dijo la CMO Nadia Kumentas. Emotiv entrena su modelo Large Brain en parte con registros de clientes y ahora informa del uso opcional (opt-in) de datos desidentificados."
+        },
+        {
+          "t": "p",
+          "x": "Más de dos tercios de las empresas estudiadas permitían transferencias corporativas de datos sin el consentimiento del usuario. Piramidal entrenó un modelo con más de 4 millones de horas de datos de EEG junto con Cleveland Clinic; su sistema de detección de convulsiones identificó nueve de cada 10 en un estudio piloto. La mayoría de los wearables usa solo de uno a seis electrodos, frente a los 19 a 25 de los sistemas clínicos."
+        }
+      ]
+    },
+    "gadgets/agibot-g2-convenience-store": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg",
+          "cap": "Fuente: X (AGIBOTofficial)"
+        },
+        {
+          "t": "video",
+          "yt": "EBSo1cuv9QY"
+        },
+        {
+          "t": "p",
+          "x": "Seis robots humanoides asumieron el reto de trabajar 24 horas en una tienda de conveniencia. La startup china de robótica AgiBot desplegó del día 2 al 3 seis robots humanoides con ruedas, los 'G2', en una tienda de conveniencia de Shanghái para evaluar su desempeño laboral. Los robots realizaron diversas tareas, como atender a clientes, reponer productos, preparar café, servir comida y limpiar."
+        },
+        {
+          "t": "p",
+          "x": "Según la empresa, en 24 horas completaron un total de 1.730 tareas, atendieron 147 pedidos de café y entregaron 369 productos. Sin embargo, en la evaluación final solo aprobaron cuatro de los seis. El robot encargado de reponer productos fue calificado como poco proactivo, y el robot de limpieza quedó eliminado al salirse de su ruta establecida y abandonar la tienda cuando se llenó el cubo de basura."
+        },
+        {
+          "t": "p",
+          "x": "El reto se llevó a cabo en una tienda de conveniencia en funcionamiento y todo el proceso se transmitió en directo por internet."
+        }
+      ]
+    },
+    "gadgets/alexa-tablet-12pro-android": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-hero.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Amazon retiró en octubre el nombre Fire de sus tabletas y sustituyó toda la línea por las Alexa Tablets. Las nuevas tabletas funcionan con Android y la Google Play Store completa, y todas llevan Alexa+ integrado."
+        },
+        {
+          "t": "p",
+          "x": "El Alexa Tablet 12 Pro es el modelo insignia. Parte de $499.99 con 8GB de RAM y 128GB de almacenamiento en Graphite, y la versión Nanomatte cuesta $549.99. Su pantalla de 12 pulgadas (12-inch) tiene 280 píxeles por pulgada, una tasa de refresco de 120Hz y formato 3:2, y la batería ofrece 16 horas de reproducción de video. El Pro Pen cuesta $89.99 y el Pro Keyboard, $149.99; juntos, los tres convierten al 12 Pro en una máquina de trabajo."
+        },
+        {
+          "t": "video",
+          "yt": "4aW5ARKEQOs"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-detail.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El Alexa Tablet 11 parte de $329.99 y el Alexa Tablet 8, de $229.99. El Fire de $99 desaparece."
+        },
+        {
+          "t": "p",
+          "x": "La gran incógnita es Alexa+. On-Screen Intelligence, la función que permite a Alexa+ ver la pantalla y actuar sobre ella, es opcional y viene desactivada por defecto, con un indicador en pantalla mientras está activa. Las primeras reseñas elogian el hardware y las pantallas, y señalan la multitarea como el punto débil."
+        }
+      ]
     }
   }
 }

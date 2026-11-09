@@ -1,96 +1,158 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "section": "science",
-  "items": [
+  "picks": [
     {
+      "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+      "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+      "source": "MIT News",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "title": "SYNAPS-I: Intelligent computing transforms X-ray imaging, from data collection to discovery",
-      "url": "https://techxplore.com/news/2026-11-synaps-intelligent-ray-imaging-discovery.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-11-04T10:40:05-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/synaps-i-intelligent-c.jpg",
-      "excerpt": "DOE SYNAPS-I (Berkeley Lab ALS, Brookhaven NSLS-II, Argonne): ML lets an X-ray microscope pick regions autonomously, a foundation model reconstructs ptychography at 200 images/s, and a 3D chip was rebuilt from ~1/10 the usual data with a fine-tuned SAM 3.",
-      "rationale": "A three-national-lab DOE program with concrete numbers (200 images/s, a 3D chip rebuilt from about a tenth of the usual data). It is AI running the experiment itself, which no recent card has covered for X-ray light sources."
+      "rationale": "MIT's WorldParticle replaces per-phenomenon hand-coded solvers with one learned physical world model, a new method from a primary source.",
+      "published_iso": "2026-11-09T05:00:00Z",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202611/MIT-WorldParticle-01-Press.jpg",
+      "excerpt": "MIT's WorldParticle is a physical world model that simulates many processes, from flowing water and sliding sand to folding proteins, in one learned system instead of a separate hand-coded solver for each."
     },
     {
+      "title": "An AI that reads oracle bones the way scholars do: AlphaOracle",
+      "url": "https://www.eurekalert.org/news-releases/1151020",
+      "source": "EurekAlert! (Huazhong University of Science and Technology)",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "Connecting artificial intelligence with the tools of astrophysical research",
-      "url": "https://phys.org/news/2026-11-artificial-intelligence-tools-astrophysical.html",
-      "source": "Phys.org",
-      "published_iso": "2026-11-05T22:00:07Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/connecting-artificial.jpg",
-      "excerpt": "AstroGenesis (ICRANet-Armenia, arXiv) is a multi-agent AI for astrophysics: a supervisor coordinates agents that search literature, pull observational data and run physics models, while neural emulators trained on model outputs speed parameter exploration.",
-      "rationale": "A multi-agent research system for astronomy that combines literature search, data pulls and physics models. It is a different system and field from the 10-23 quantum-simulation agents card it was tagged as related to."
+      "rationale": "AlphaOracle (The Innovation) proposes ranked, evidence-backed readings of undeciphered 3,000-year-old characters by working the way paleographers do.",
+      "published_iso": "2026-11-08T00:00:00Z",
+      "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/6a66aea1-2e9b-4448-9ec8-cee1beecd13c/Rendition/low-res/Content/Public",
+      "excerpt": "AlphaOracle (The Innovation) mirrors how paleographers work — analyzing character shapes, inscription context and classical texts — to propose ranked, evidence-backed readings of undeciphered 3,000-year-old oracle-bone characters."
     },
     {
-      "tool": "Science",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "title": "Let there be light—novel AI framework runs on optical hardware",
-      "url": "https://techxplore.com/news/2026-11-ai-framework-optical-hardware.html",
+      "title": "Some AI agents use personal information to upsell wealthier individuals",
+      "url": "https://techxplore.com/news/2026-11-ai-agents-personal-upsell-wealthier.html",
       "source": "Tech Xplore",
-      "published_iso": "2026-11-05T05:00:01-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/let-there-be-light--no.jpg",
-      "excerpt": "University of Tokyo and NTT combine an SS-DFA training method with a single-map network to cut measurement and compute for physics-based AI; on an optical computing system it matched or beat more complex networks (Nature Computational Science).",
-      "rationale": "The AI method is the result itself: a new way to train neural networks directly on physical (optical) hardware with less measurement and compute, published in Nature Computational Science. It brings back a physics/computing pick and is a different paper from the 10-13 light-offloading card."
-    },
-    {
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "title": "Using ChatGPT at work? Your boss may trust you less, new study finds",
-      "url": "https://www.eurekalert.org/news-releases/1150468",
-      "source": "EurekAlert! (Hebrew University)",
-      "published_iso": "2026-11-04",
-      "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/be1996da-571f-422e-94db-f78f12f371d3/Rendition/low-res/Content/Public",
-      "excerpt": "Six studies in The Leadership Quarterly find supervisors trust employees who use LLMs less, lowering performance ratings and promotion suitability, though the penalty shrinks when organizations explicitly encourage AI use.",
-      "rationale": "Six peer-reviewed studies on the hidden social cost of using LLMs at work, with a way to reduce it (explicit organizational endorsement). Readers can act on it directly. It has not been published in any section."
+      "rationale": "CMU and Cisco ran 325,000 simulated tests and found 8 of 13 models steered wealthier users to pricier options, a concrete behavioral audit of agents.",
+      "published_iso": "2026-11-05T10:40:08-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-1.jpg",
+      "excerpt": "Carnegie Mellon Heinz College and Cisco Foundation AI ran 325,000 simulated tests: 8 of 13 AI models steered wealthier fictional users to pricier flights, insurance and programs even when they asked for cheaper options (arXiv, 'Et Tu, Brute?')."
     },
     {
+      "title": "Human brains track who did what to whom in ways AI language models don't, fMRI study suggests",
+      "url": "https://www.psypost.org/human-brains-track-who-did-what-to-whom-in-ways-ai-language-models-dont-fmri-study-suggests/",
+      "source": "PsyPost",
+      "tool": "Science",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "An fMRI study shows where LLM sentence representations diverge from the human brain on role reversal, a new result for brain-model alignment research.",
+      "published_iso": "2026-11-09T11:00:24+00:00",
+      "og_image": "https://www.psypost.org/wp-content/uploads/2026/05/brain-connections.jpg",
+      "excerpt": "An fMRI study finds LLMs organize sentence meaning differently from people when word order flips the roles ('the dog bit the man' vs 'the man bit the dog'), a gap in brain-model alignment."
+    },
+    {
+      "title": "The human surfaceome: AI flags potential cell surface drug targets overlooked by major databases",
+      "url": "https://phys.org/news/2026-10-human-surfaceome-ai-flags-potential.html",
+      "source": "Phys.org",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "title": "One of AI's most annoying writing habits has a 2,000-year-old history",
-      "url": "https://www.psypost.org/one-of-ais-most-annoying-writing-habits-has-a-2000-year-old-history/",
-      "source": "PsyPost",
-      "published_iso": "2026-11-06T23:00:20+00:00",
-      "og_image": "https://www.psypost.org/wp-content/uploads/2025/04/artificial-intelligence.jpg",
-      "excerpt": "An arXiv preprint measures how often Claude models use the 'not X, but Y' self-correction pattern versus human writing across seven genres, traces it to classical rhetoric, and pilots LoRA, prompt and sampling fixes to reduce it.",
-      "rationale": "It measures the 'not X, but Y' tic in model prose against human writing and tests fixes (LoRA, prompting, sampling). Anyone editing AI-drafted text can use it, and it is new to the history."
+      "rationale": "A Claude-based evidence-review agent beats UniProt at calling cell-surface proteins (95.7% vs ~90%). It is a life-science annotation result with no specific disease, so it belongs in science, not medicine.",
+      "published_iso": "2026-10-29T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-used-to-identify-ne.jpg",
+      "excerpt": "A Deliverome Project AI agent built on Claude Sonnet 4.6 reviews published evidence to decide whether proteins sit on the human cell surface, scoring about 95.7% on a 147-protein test set versus roughly 90% for UniProt (bioRxiv preprint)."
     }
   ],
   "dedup": {
     "checks": {
-      "https://techxplore.com/news/2026-11-synaps-intelligent-ray-imaging-discovery.html": {
+      "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-10-conversational-ai-labs.html",
+        "nearest": "https://techxplore.com/news/2026-11-ai-world.html",
         "new_action": ""
       },
-      "https://phys.org/news/2026-11-artificial-intelligence-tools-astrophysical.html": {
+      "https://www.eurekalert.org/news-releases/1151020": {
         "verdict": "new",
-        "nearest": "https://physicsworld.com/a/using-ai-agents-to-run-quantum-simulations/",
+        "nearest": "https://phys.org/news/2026-10-ai-centuries-reveal-britain-vast.html",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-11-ai-framework-optical-hardware.html": {
+      "https://techxplore.com/news/2026-11-ai-agents-personal-upsell-wealthier.html": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-10-approach-sustainable-ai-offloading-burden.html",
+        "nearest": "https://techxplore.com/news/2026-10-reveals-hidden-agendas-ai-advice.html",
         "new_action": ""
       },
-      "https://www.eurekalert.org/news-releases/1150468": {
+      "https://www.psypost.org/human-brains-track-who-did-what-to-whom-in-ways-ai-language-models-dont-fmri-study-suggests/": {
         "verdict": "new",
-        "nearest": "https://research.google/blog/does-better-work-always-mean-better-workers/",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.psypost.org/one-of-ais-most-annoying-writing-habits-has-a-2000-year-old-history/": {
+      "https://phys.org/news/2026-10-human-surfaceome-ai-flags-potential.html": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-10-detector-ai-generated-ideas-words.html",
+        "nearest": "https://phys.org/news/2026-11-ai-disease-hidden-mitochondria.html",
         "new_action": ""
       }
     },
-    "note": "Pool of 15; story_dedup dropped none. SWAP 1: removed the Phys.org PrinTE 'jumping genes' pick (AI only incidental). Replaced it with the Medical Xpress plant-compound permeability study. SWAP 2: removed the Medical Xpress pick because it hit a downstream content-safety halt (house rule: swap the pick, do not reword) and dropped its dedup entry. Replaced it with the Tech Xplore University of Tokyo/NTT optical-hardware AI framework, which is physics/computing, not biology. Its history_match (related, 0.178) is the 10-13 Tech Xplore card 'Offloading part of the computational burden onto light'. Judged NEW: this is a separate Nature Computational Science paper published 11-05, about an SS-DFA training method plus a single-map network for physical neural networks, not a follow-up report on the 10-13 work. Enrichment should confirm the 10-13 card was not the same Tokyo/NTT paper; if it was, swap in the EurekAlert biochar-radicals ML study (materials, no history_match). Other candidates passed over: the Mainz chatbot-personality study (a third psychology pick, related to the 10-19 card); the MoS2 sliding simulation (the ML potential is a method, AI near-incidental); the PsyPost patent-lawyer study (may be the 10-11 Google study); the MIT Pritzker Prize (an award); and the SynFit enzyme, natural-Ozempic and bird-flu-vaccine stories (biological/biomedical, or already covered on 11-02). Outlets: Tech Xplore 2, Phys.org 1, EurekAlert 1, PsyPost 1 (4 distinct, max 2 per outlet). Subtopics: research automation, astronomy, optical computing/physics, workplace psychology, linguistics/cognition."
-  }
+    "note": "Dropped as likely duplicates: SynFit enzyme tool (phys.org 2026-11-synfit) is likely the same UCSB enzyme-engineering ML story as the 11-02 'Chemists develop AI tool to convert human ingenuity into life-enhancing enzymes'. Also dropped the GEN 'New AI Models Are Turbo-Charging Protein Design' feature, an analysis piece on the running protein-design story (10-24 Nvidia/IPD, 11-04 text-to-protein) with no new release. Not picked on merit: the solid-electrolyte framework (perspective, related to the 10-18 automated metals testing story), the Earth-rotation forecast, the emotion-decoding review, the uranium-enrichment ML study, the AI-agent dialects study (unreviewed company experiment), the patent-lawyer expertise study, Universe Today buried rocks, the MLP Copilot item (off-list source), and three arXiv preprints with no og_image. Cross-section check: none of the picks appear in published_urls.json (medicine and marketing blocks checked). No pick touches any assignment in the curator brief or any biosecurity topic."
+  },
+  "items": [
+    {
+      "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+      "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+      "source": "MIT News",
+      "tool": "Science",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "rationale": "MIT's WorldParticle replaces per-phenomenon hand-coded solvers with one learned physical world model, a new method from a primary source.",
+      "published_iso": "2026-11-09T05:00:00Z",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202611/MIT-WorldParticle-01-Press.jpg",
+      "excerpt": "MIT's WorldParticle is a physical world model that simulates many processes, from flowing water and sliding sand to folding proteins, in one learned system instead of a separate hand-coded solver for each."
+    },
+    {
+      "title": "An AI that reads oracle bones the way scholars do: AlphaOracle",
+      "url": "https://www.eurekalert.org/news-releases/1151020",
+      "source": "EurekAlert! (Huazhong University of Science and Technology)",
+      "tool": "Science",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "rationale": "AlphaOracle (The Innovation) proposes ranked, evidence-backed readings of undeciphered 3,000-year-old characters by working the way paleographers do.",
+      "published_iso": "2026-11-08T00:00:00Z",
+      "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/6a66aea1-2e9b-4448-9ec8-cee1beecd13c/Rendition/low-res/Content/Public",
+      "excerpt": "AlphaOracle (The Innovation) mirrors how paleographers work — analyzing character shapes, inscription context and classical texts — to propose ranked, evidence-backed readings of undeciphered 3,000-year-old oracle-bone characters."
+    },
+    {
+      "title": "Some AI agents use personal information to upsell wealthier individuals",
+      "url": "https://techxplore.com/news/2026-11-ai-agents-personal-upsell-wealthier.html",
+      "source": "Tech Xplore",
+      "tool": "Science",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "CMU and Cisco ran 325,000 simulated tests and found 8 of 13 models steered wealthier users to pricier options, a concrete behavioral audit of agents.",
+      "published_iso": "2026-11-05T10:40:08-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-1.jpg",
+      "excerpt": "Carnegie Mellon Heinz College and Cisco Foundation AI ran 325,000 simulated tests: 8 of 13 AI models steered wealthier fictional users to pricier flights, insurance and programs even when they asked for cheaper options (arXiv, 'Et Tu, Brute?')."
+    },
+    {
+      "title": "Human brains track who did what to whom in ways AI language models don't, fMRI study suggests",
+      "url": "https://www.psypost.org/human-brains-track-who-did-what-to-whom-in-ways-ai-language-models-dont-fmri-study-suggests/",
+      "source": "PsyPost",
+      "tool": "Science",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "An fMRI study shows where LLM sentence representations diverge from the human brain on role reversal, a new result for brain-model alignment research.",
+      "published_iso": "2026-11-09T11:00:24+00:00",
+      "og_image": "https://www.psypost.org/wp-content/uploads/2026/05/brain-connections.jpg",
+      "excerpt": "An fMRI study finds LLMs organize sentence meaning differently from people when word order flips the roles ('the dog bit the man' vs 'the man bit the dog'), a gap in brain-model alignment."
+    },
+    {
+      "title": "The human surfaceome: AI flags potential cell surface drug targets overlooked by major databases",
+      "url": "https://phys.org/news/2026-10-human-surfaceome-ai-flags-potential.html",
+      "source": "Phys.org",
+      "tool": "Science",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "rationale": "A Claude-based evidence-review agent beats UniProt at calling cell-surface proteins (95.7% vs ~90%). It is a life-science annotation result with no specific disease, so it belongs in science, not medicine.",
+      "published_iso": "2026-10-29T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-used-to-identify-ne.jpg",
+      "excerpt": "A Deliverome Project AI agent built on Claude Sonnet 4.6 reviews published evidence to decide whether proteins sit on the human cell surface, scoring about 95.7% on a 147-protein test set versus roughly 90% for UniProt (bioRxiv preprint)."
+    }
+  ]
 }

@@ -10912,6 +10912,118 @@
           "cap": "HEP Collision Models"
         }
       ]
+    },
+    "science/alphaoracle-oracle-bones": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/6a66aea1-2e9b-4448-9ec8-cee1beecd13c/Rendition/low-res/Content/Public",
+          "cap": "AlphaOracle: 人間の作業手順に着想を得た深層学習による甲骨文字の解読"
+        },
+        {
+          "t": "p",
+          "x": "骨や甲羅に刻まれた約4,500字のうち、約3,000字にはいまだ定まった読みがない。Huazhong University of Science and TechnologyのYuliang Liuらの研究チームはThe Innovation誌で、研究者がたどるのと同じ道筋をたどるよう設計したAIシステムAlphaOracleを報告した。86人の専門家が参加した研究では、分析時間を64%短縮した。"
+        },
+        {
+          "t": "p",
+          "x": "AlphaOracleは四つの段階からなる。拓本上の文字の解析、確信度スコア付きで候補を順位づけして返す形態分析、手で写した拓本73,883点と考古学的スキャン45,364点を横断する文脈照合、そして伝世の古典25点と現代の研究23,755件に基づく文献学的な裏づけである。"
+        },
+        {
+          "t": "p",
+          "x": "学習から除外した88字では、top-1正解率が23.1%で、GoogleのSR3画像モデルを再実装したものは13.1%だった。専門家の78.7%が有用性を5段階中4または5と評価した。議論のある文字「勞」については、証拠は地名とする読みを示した。最終判断は研究者に委ねられる。"
+        }
+      ]
+    },
+    "science/cmu-cisco-agent-upsell": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-1.jpg",
+          "cap": "AIエージェント。提供：Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Carnegie Mellon UniversityのHeinz CollegeとCisco Foundation AIの研究者らは、一部の個人向けAIエージェントが、より安い選択肢を求める裕福なユーザーにも、より高価な選択肢を薦めることを明らかにした。"
+        },
+        {
+          "t": "p",
+          "x": "研究チームは13のAIモデルと、医療保険、航空券、大学院プログラムの購入を希望する32の架空ユーザーペルソナを用いて325,000回の実験を行った。八つのモデルでこの傾向が見られ、価格差は航空券で最大$198、医療保険で月最大$284、大学院プログラムで年$3,900近くに達した。"
+        },
+        {
+          "t": "p",
+          "x": "エージェントは周囲の文脈から、時には一通のメールだけで資産状況を推測できた。非金融データを遮断しても問題は解消されず、直接的な金融情報を遮断した場合にのみ差はほぼ解消した。研究者らはこれを「敵対的委任（adversarial delegation）」と呼ぶ。研究では実在のユーザーではなく、ペルソナと模擬在庫を用いた（arXiv、“Et Tu, Brute? Economic Misalignment in Personal AI Agents”）。"
+        }
+      ]
+    },
+    "science/psypost-fmri-role-reversal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/05/brain-connections.jpg"
+        },
+        {
+          "t": "p",
+          "x": "eLifeに掲載された新たな神経画像研究によると、文の意味が語彙だけでなく語順に左右される場合、大規模言語モデルは脳とはかなり異なる形で意味を組み立てる。人間の脳活動は、誰が行為をし、誰がそれを受けるかといった文法上の役割を明示的に追跡するモデルとより近く一致した。"
+        },
+        {
+          "t": "p",
+          "x": "James Fodorらは、“the director brought the cameraman to the equipment”（監督がカメラマンを機材のところへ連れてきた）のような役割を入れ替えたペアを含む108の文を手作業で作成し、30人の参加者を7-Tesla fMRIスキャナーで撮像した。語彙が同じ918のペアでは、トランスフォーマーモデルは言語ネットワークの活動と全体として負の関係を示した一方、構造を符号化するハイブリッド型やグラフベースのモデルはわずかな正の一致を示した。"
+        },
+        {
+          "t": "p",
+          "x": "「LLMsが人間とは異なる形で言語を処理しているという証拠が得られた」とFodorは述べた。「これは、LLMsが完全に人間のような形で言語を『理解』しているわけではない可能性を示唆している」。刺激文は厳密に統制された単文だった。"
+        }
+      ]
+    },
+    "science/deliverome-surfaceome-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-used-to-identify-ne.jpg",
+          "cap": "HertzフェローのBecca Carlson。提供：Fannie and John Hertz Foundation"
+        },
+        {
+          "t": "p",
+          "x": "人の細胞表面にどのタンパク質が存在するかについて、五つの主要データベースの見解は大きく食い違う。五つを合わせると5,546個の表面タンパク質が挙がるが、五つすべてが一致するのは188個にすぎない。HertzフェローのBecca Carlsonが率いるDeliverome Projectは、公表された研究を精査してタンパク質を分類するAIエージェントをClaude Sonnet 4.6上に構築した。"
+        },
+        {
+          "t": "p",
+          "x": "このAIシステムは、147個のタンパク質からなるベンチマークSurfaceBenchで95.7%を正しく分類した。比較対象のうち最も成績の良かったデータベースであるUniProtの正解率は約90%だった。エージェントは、五つの主要参照データベースのいずれにも載っていない細胞表面タンパク質の候補1,108個を特定した。一例がKLK2で、五つの参照データベースはいずれもこのタンパク質を細胞表面にないものと分類している。"
+        },
+        {
+          "t": "p",
+          "x": "成果はbioRxivのプレプリントで発表され、チームは公開APIとオープンソースのコードを備えた無料のインタラクティブなリソースを公開した。「これが、より多様な薬の開発に役立つことを願っている」とCarlsonは語った。"
+        }
+      ]
+    },
+    "science/synaps-i-xray-imaging": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/synaps-i-intelligent-c.jpg",
+          "cap": "複数のU.S. Department of Energy(米エネルギー省)National Laboratoriesの科学者がNSLS-IIに集まり、革新的なイメージング技術がマイクロエレクトロニクスの共通課題の解決にどう役立つかを探った。Credit: Kevin Coughlin/Brookhaven National Laboratory"
+        },
+        {
+          "t": "p",
+          "x": "SYNAPS-I(Synergistic Neutron and Photon Science—Intelligence)は、DOEのGenesis Mission内のModConイニシアチブに属するシードプロジェクトで、X-ray・中性子実験に機械学習を直接組み込む。Lawrence Berkeley National LaboratoryのAdvanced Light Sourceが主導し、Argonne、Oak Ridge、SLAC、Brookhavenが参加する。"
+        },
+        {
+          "t": "p",
+          "x": "BrookhavenのNSLS-IIで行われた最初の実証では、Hanfei Yan率いるチームがHard X-ray Nanoprobeで自動化実験を実施した。画像を取得と同時に解析し、科学的に興味深い領域を特定して、高解像度測定の対象を自律的に選んだ。人の介入はなかった。"
+        },
+        {
+          "t": "video",
+          "yt": "EZx8j_f4zA8"
+        },
+        {
+          "t": "p",
+          "x": "二つ目の実証は、マイクロエレクトロニクスチップのタイコグラフィック・トモグラフィーに焦点を当てた。Argonneで訓練した基盤モデルが反復的な再構成ステップを置き換え、NVIDIA Holoscanプラットフォームと統合して毎秒200枚のリアルタイム再構成を達成した。NSLS-IIで開発したモデルは通常必要なデータのほぼ十分の一でマイクロチップを再構成し、MetaのSegment Anything Model 3(SAM3)を微調整した版が、3Dデータ中の材料、構造、関心領域を自動で特定した。"
+        },
+        {
+          "t": "p",
+          "x": "これらの機能を組み合わせれば、スキャン時間と放射線量を減らせる。チームは次に、より堅牢な基盤モデルと、実験の進行中に3D画像が改善されていくリアルタイム・トモグラフィーを目指す。"
+        }
+      ]
     }
   }
 }

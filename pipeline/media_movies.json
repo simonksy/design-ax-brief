@@ -1,30 +1,32 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "section": "movies",
   "media": [
     {
-      "id": "nolan-dga-ai-studios",
+      "id": "disney-adobe-firefly-foundry",
       "type": "image",
-      "src": "pipeline/media/nolan-dga-ai-studios.jpg"
+      "src": "pipeline/media/disney-adobe-firefly-foundry.jpg"
     },
     {
-      "id": "olm-animins-ai-coloring",
-      "type": "image",
-      "src": "pipeline/media/olm-animins-ai-coloring.jpg"
+      "id": "framestore-sky-christmas-ai",
+      "type": "video",
+      "src": "pipeline/media/framestore-sky-christmas-ai.mp4",
+      "poster": "pipeline/media/framestore-sky-christmas-ai.jpg"
     },
     {
-      "id": "china-ai-shortdrama-crackdown",
-      "type": "svg"
+      "id": "runway-realtime-batch-one",
+      "type": "image",
+      "src": "pipeline/media/runway-realtime-batch-one.jpg"
     },
     {
-      "id": "camerimage-2026-ai-opening",
+      "id": "rotld-aftermath-ai-sequel",
       "type": "image",
-      "src": "pipeline/media/camerimage-2026-ai-opening.jpg"
+      "src": "pipeline/media/rotld-aftermath-ai-sequel.jpg"
     },
     {
-      "id": "iqiyi-nadoupro-1938-film",
+      "id": "variety-ai-films-costlier-35mm",
       "type": "image",
-      "src": "pipeline/media/iqiyi-nadoupro-1938-film.jpg"
+      "src": "pipeline/media/variety-ai-films-costlier-35mm.jpg"
     }
   ]
 }

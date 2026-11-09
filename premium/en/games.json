@@ -10820,6 +10820,153 @@
           "x": "The real-time capability is also integrated as a streaming overlay in Viewfinder, a web app in closed beta that lets users build scenes frame by frame with Atlas. Frameboy currently must run on a powerful cloud GPU server and is not cheap compared to local rendering methods."
         }
       ]
+    },
+    "games/innogames-genai-art-pipeline": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png"
+        },
+        {
+          "t": "p",
+          "x": "In this guest article, Dario Berruti, Head of Art at InnoGames, outlines how the studio behind Forge of Empires, Elvenar and Heroes of History adopted generative AI in five stages. It began with a survey of artists, whose top concern was job security; leadership stated that the purpose of AI is to amplify artists' skills, not to replace them."
+        },
+        {
+          "t": "p",
+          "x": "Early experiments worked like an accelerated Pinterest for references and rough mock-ups. The team committed to Scenario, which became its go-to tool for icons, portraits and small illustrations because it can train custom models on the studio's own assets; ComfyUI was evaluated and dropped."
+        },
+        {
+          "t": "p",
+          "x": "The turning point came in 2025 with Gemini and Flux. Outsourcing costs are now half of what they were in previous years, and AI is integral to 2D and concept art. Today the focus is automation: node-based workflows, MCP integrations and agents. Artists use Claude for repetitive tasks and to write their own scripts and tools, and connecting Claude to Blender through its MCP server is opening new possibilities for 3D."
+        },
+        {
+          "t": "p",
+          "x": "\"AI has changed how we work. It has not changed who does the work: our artists remain at the center of everything we create.\""
+        },
+        {
+          "t": "img",
+          "src": "https://mobidictum.com/wp-content/uploads/2026/11/Dario-Berruti-1024x684.png",
+          "cap": "Dario Berruti, Head of Art at InnoGames"
+        }
+      ]
+    },
+    "games/automaton-ocarina-gemini-port": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google employee Ammaar Reshi posted on X on November 7 that he had run the full remake of The Legend of Zelda: Ocarina of Time on an iPhone Duo using Gemini 4. The post drew controversy and has since been deleted."
+        },
+        {
+          "t": "p",
+          "x": "The Legend of Zelda: Ocarina of Time is an action RPG released for the NINTENDO 64 in 1998. The full remake completely overhauls the graphics and fully voices the cutscenes, while adding free camera control, jumping, dashing and more; it was released for Nintendo Switch 2 on November 5."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-header-1080x608.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The post came from Ammaar Reshi, who serves as lead for product and design on \"Google AI Studio\" at Google. He explained that he had used Google's generative AI \"Gemini 4\" to get it running, presenting the result as an achievement built on the company's own AI technology."
+        },
+        {
+          "t": "p",
+          "x": "In quote posts, people questioned not only the act of making an unofficial port, but also the fact that someone involved in developing Google's AI products had shown it off publicly. The post has been deleted, but the reason for its removal has not been disclosed."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-002-1080x608.jpg"
+        }
+      ]
+    },
+    "games/plamo3-translate-gamer-tools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/ogp_f/1217054.png"
+        },
+        {
+          "t": "p",
+          "x": "Preferred Networks (PFN), a Japanese AI company, released \"PLaMo 3 Translate,\" an AI specialized for translation, as a free-to-use open-weight model on November 5, 2026. It is the same AI that runs the company's translation service \"PLaMo Translation,\" and because it works entirely on a local PC without an internet connection, it could greatly lower the barrier for volunteer translation. The free version of DeepL has usage caps, which had led to interruptions for volunteer translators working with hundreds to thousands of lines of game text."
+        },
+        {
+          "t": "p",
+          "x": "Its main features are a lightweight design that runs even on smartphones, no limit on the number of uses, support for 53 languages including Japanese and English, free personal use, and a terminology and style feature that lets users specify translations for proper nouns and choose a writing style."
+        },
+        {
+          "t": "p",
+          "x": "Within days of the model's release, individual developers published related tools one after another. On November 7, \"sonoba,\" a resident PC app that replaces English text on screen with Japanese on the spot, appeared; it reportedly handles subtitles in about 1 second and short sentences in about 0.2 seconds. A browser extension, \"PLaMo_Translate_EX,\" and a desktop app, \"plamo-translate-desktop,\" have also appeared."
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1217054.png",
+          "cap": "plamo-translate-desktop"
+        },
+        {
+          "t": "p",
+          "x": "A localization support tool, \"game-l10n-updater,\" has also been released; it translates only added or changed text and checks on the actual screen whether the translated text overflows UI buttons."
+        }
+      ]
+    },
+    "games/jackbox-human-made-pledge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo.png"
+        },
+        {
+          "t": "p",
+          "x": "On a recent visit to Jackbox Games HQ here in Chicago, I got to speak with developers and studio leadership about their process, history, and place in the industry. Given, you know, everything, I'm pretty much contractually obligated to ask about AI in conversations like this. Here's what CEO Mike Bilder had to say on the topic:"
+        },
+        {
+          "t": "p",
+          "x": "\"The people are what make this product. The comedy, the writing, and the art, all that is done by people, and we have no intention of changing that. I don't think we're experts on what's going on with AI in the industry and any of that. There's obviously uses for tooling and for research, and [for] all that kind of stuff [AI is] incredibly powerful."
+        },
+        {
+          "t": "p",
+          "x": "\"But from a generative asset standpoint, we don't have any intention of replacing people, or people-made editorial and art with it.\""
+        },
+        {
+          "t": "p",
+          "x": "From everything we had discussed up to this point, as well as Jackbox's whole deal, I didn't think generative AI would really be in the cards for the studio. Jackbox's games are relatively lightweight from a tech perspective, while the art and writing is their main draw—if anything was noticeably AI-generated, it would put the value of the whole package into question."
+        },
+        {
+          "t": "p",
+          "x": "The company recently released the Jackbox Party Pack 12 on October 14, and Trivia Murder Party 3 makes extensive use of realtime 3D graphics."
+        }
+      ]
+    },
+    "games/wardogs-ml-anticheat": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-2560-80.jpg",
+          "cap": "Wardogs"
+        },
+        {
+          "t": "p",
+          "x": "With Season 3 on the horizon, Bulkhead has addressed the mistakes it made with Wardogs' Season 2. The studio believes its changes were too aggressive and that it was too easily swayed by vocal players, and says it will now \"not speedrun fixes to appease the loudest voices.\""
+        },
+        {
+          "t": "video",
+          "yt": "hr1uuC7BnSc"
+        },
+        {
+          "t": "p",
+          "x": "Season 3 brings a new, more urban map called Sabatulo, multi-track unlocks that let any item a role might use be unlocked by playing that role, and a new \"Limited\" mode that removes high-tier weapons, armour and vehicles."
+        },
+        {
+          "t": "p",
+          "x": "It also brings what Bulkhead claims is \"one of the world's most sophisticated anti-cheat systems\", produced by \"analysing 187 million hours of gameplay with the assistance of machine learning and AI\". The system went live when the Road to Season 3 video was published, banning 185,000 accounts."
+        },
+        {
+          "t": "p",
+          "x": "\"In order for us to train our models, we needed to let cheaters go through their journey of refining and tuning their cheats so we could see them evolve,\" says Bulkhead CEO Joe Brammer. He says the system won't eliminate cheaters completely, but the studio is confident it will produce a better play experience when Season 3 arrives on November 12."
+        }
+      ]
     }
   }
 }

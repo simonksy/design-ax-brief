@@ -1,33 +1,31 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "section": "science",
   "media": [
     {
-      "id": "synaps-i-xray-imaging",
-      "type": "video",
-      "src": "pipeline/media/synaps-i-xray-imaging.mp4",
-      "poster": "pipeline/media/synaps-i-xray-imaging.jpg"
-    },
-    {
-      "id": "astrogenesis-astro-agents",
-      "type": "video",
-      "src": "pipeline/media/astrogenesis-astro-agents.mp4",
-      "poster": "pipeline/media/astrogenesis-astro-agents.jpg"
-    },
-    {
-      "id": "ss-dfa-optical-training",
+      "id": "mit-worldparticle-model",
       "type": "image",
-      "src": "pipeline/media/ss-dfa-optical-training.jpg"
+      "src": "pipeline/media/mit-worldparticle-model.jpg"
     },
     {
-      "id": "llm-workplace-trust-penalty",
+      "id": "alphaoracle-oracle-bones",
       "type": "image",
-      "src": "pipeline/media/llm-workplace-trust-penalty.jpg"
+      "src": "pipeline/media/alphaoracle-oracle-bones.jpg"
     },
     {
-      "id": "claude-not-x-but-y-rhetoric",
+      "id": "cmu-cisco-agent-upsell",
       "type": "image",
-      "src": "pipeline/media/claude-not-x-but-y-rhetoric.jpg"
+      "src": "pipeline/media/cmu-cisco-agent-upsell.jpg"
+    },
+    {
+      "id": "psypost-fmri-role-reversal",
+      "type": "image",
+      "src": "pipeline/media/psypost-fmri-role-reversal.jpg"
+    },
+    {
+      "id": "deliverome-surfaceome-agent",
+      "type": "image",
+      "src": "pipeline/media/deliverome-surfaceome-agent.jpg"
     }
   ]
 }

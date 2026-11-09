@@ -1,31 +1,7 @@
-{
-  "date": "2026-11-09",
-  "section": "medicine",
-  "media": [
-    {
-      "id": "cleerly-paramount-trial",
-      "type": "image",
-      "src": "pipeline/media/cleerly-paramount-trial.jpg"
-    },
-    {
-      "id": "primaa-cleo-skin-fda",
-      "type": "image",
-      "src": "pipeline/media/primaa-cleo-skin-fda.jpg"
-    },
-    {
-      "id": "mfds-ai-review-assist",
-      "type": "image",
-      "src": "pipeline/media/mfds-ai-review-assist.png"
-    },
-    {
-      "id": "weill-cornell-radiology-data",
-      "type": "image",
-      "src": "pipeline/media/weill-cornell-radiology-data.png"
-    },
-    {
-      "id": "sunderland-ai-eye-diabetes",
-      "type": "image",
-      "src": "pipeline/media/sunderland-ai-eye-diabetes.jpg"
-    }
-  ]
-}
+{"date":"2026-11-10","section":"medicine","media":[
+{"id":"science-ai-paper-error-audit","type":"svg"},
+{"id":"aha-echo-ai-reading-time","type":"image","src":"pipeline/media/aha-echo-ai-reading-time.jpg"},
+{"id":"previa-ptsd-llm-ed","type":"image","src":"pipeline/media/previa-ptsd-llm-ed.png"},
+{"id":"arpah-advocate-fda-meetings","type":"image","src":"pipeline/media/arpah-advocate-fda-meetings.jpg"},
+{"id":"hospital-writeoffs-132b-ai","type":"image","src":"pipeline/media/hospital-writeoffs-132b-ai.jpg"}
+]}

@@ -9436,6 +9436,150 @@
           "x": "Suno表示，平台不允许以特定艺人的名字和歌曲作为提示词，并会筛查上传的音频和歌词。同样在周五，同一批律师还代表拥有Eminem大部分曲目目录的出版商Eight Mile Style，对Suno提起了另一起诉讼。"
         }
       ]
+    },
+    "music/deux-kimsungjae-ai-album": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img1.newsis.com/2026/11/09/NISI20261109_0002286206_web.jpg",
+          "cap": "DEUX。（图片=Wide Company提供）"
+        },
+        {
+          "t": "p",
+          "x": "风靡1990年代的嘻哈二人组“DEUX”将于21日发行第4张正规专辑。这是继1995年4月第3张正规专辑《Force Deux》之后，时隔31年推出的正规唱片。此前，他们已于去年11月和今年4月先后发布先行曲《Rise》和《又一天》。"
+        },
+        {
+          "t": "p",
+          "x": "此次第4张专辑由李贤道担任总制作人，主导整张专辑的音乐方向，并加入以人工智能（AI）技术重现的已故金成在（1972~1995）的声音完成制作。DEUX于7日在梨泰院Bolero举办“第4张正规专辑试听派对”，并于同日先行公开双主打曲之一《The Future》的音源和音乐录影带。"
+        },
+        {
+          "t": "img",
+          "src": "https://img1.newsis.com/2026/11/09/NISI20261109_0002286209_web.jpg",
+          "cap": "DEUX第4张正规专辑封面。（图片=Wide Company提供）"
+        },
+        {
+          "t": "p",
+          "x": "Dynamic Duo作为客串参与了另一首主打曲《想要你》。由Alan Braxe与DJ Falcon组成的“Braxe + Falcon”参与制作的《Rise》混音版将于14日正式发行。"
+        },
+        {
+          "t": "p",
+          "x": "该项目是文化体育观光部与韩国内容振兴院“2026新技术融合音乐内容开发支持”项目的入选课题。Wide Company与语音AI专业企业SORISORI AI共同开发了AI人声滤镜，并将其应用于音乐中。这项技术可以精准重现金成在的音色与独特的演唱特点。"
+        },
+        {
+          "t": "img",
+          "src": "https://img1.newsis.com/2026/11/09/NISI20261109_0002286211_web.jpg",
+          "cap": "DEUX。（图片=Wide Company提供）"
+        },
+        {
+          "t": "p",
+          "x": "李贤道去年11月发布《Rise》时表示，将把自己作为表演者获得的邻接权分配金的一部分分给金成在；韩国音乐表演者联合会于同年12月建立分配机制，使分配金正式支付给其遗属。自1995年解散以来，时隔31年，两位成员的声音将完整地一同收录在正规专辑中。"
+        }
+      ]
+    },
+    "music/waves-illugen25-plugin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ww2.sonicftp.com/news/images/44850_851.jpg",
+          "cap": "Waves发布ILLUGEN 2.5"
+        },
+        {
+          "t": "p",
+          "x": "Waves Audio宣布推出ILLUGEN 2.5，并与Steinberg展开新合作，将采样创作带入Cubase 16的原生制作环境。此次更新还推出了适用于所有DAWs的ILLUGEN插件。"
+        },
+        {
+          "t": "p",
+          "x": "ILLUGEN是一款采样生成工具，让音乐制作人能用简单的文本提示词创作原创采样。如今它已作为插件登陆所有DAWs，制作人可以按照项目的速度和调性生成并试听声音。"
+        },
+        {
+          "t": "p",
+          "x": "ILLUGEN可从Cubase 16右侧的项目面板中调用，它会读取时间线上的速度，跟随项目的调号轨，并根据项目定位标记的位置调整生成循环的长度。只需双击，就能在Cubase中新建一条以该采样命名的音频轨。"
+        },
+        {
+          "t": "p",
+          "x": "ILLUGEN提供两种声音生成引擎：Studio用于生成高保真、富有音乐真实感的采样和循环，Creative则以更具实验性的方式进行声音设计。与旨在自动生成完整歌曲的AI平台不同，ILLUGEN的设计初衷是与制作人协同工作。"
+        },
+        {
+          "t": "p",
+          "x": "ILLUGEN 2.5现已以适用于所有DAWs的插件和独立桌面应用形式推出。所有新用户均可免费试用1个月；Cubase 16用户还可额外获得两个月免费使用。"
+        },
+        {
+          "t": "video",
+          "yt": "JDZ9qF5xcWk"
+        }
+      ]
+    },
+    "music/spdmx-open-stem-dataset": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "从文本、视觉到语音和通用音频，大型公开数据集推动了机器学习的最新进展。音乐仍是例外：版权限制了训练音频的再分发，而许多现代任务需要的是单独的分轨而非混音。现有的多轨资源在真实感、规模和授权之间顾此失彼，合成替代方案则依赖专有VSTs，或采用只能产出低质量分轨的简单开放渲染。"
+        },
+        {
+          "t": "p",
+          "x": "我们推出SPDMX：以听感为导向，将公有领域的PDMX乐谱渲染为带有对齐乐谱和开放渲染流程的开放授权分轨语料库，包含253,982首歌曲、490,159条单声道分轨、44.1 kHz下的5,469歌曲小时，采用CC BY 4.0授权，并附带配对的MIDI以及链接到PDMX元数据的标识符。其中88,403首（34.8%；2,734歌曲小时）提供多轨监督信号。"
+        },
+        {
+          "t": "p",
+          "x": "据我们所知，按歌曲小时计算，这是最大的开放授权合成多轨子集，可用于音源分离、分轨条件合成、MIDI-to-audio、扒谱转录以及符号与音频联合建模。我们公开语料库、元数据和开放流程，以便在其他符号音乐集合上复用。演示和实验说明见项目页面。"
+        }
+      ]
+    },
+    "music/tubetube-lyrics-video": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.startupn.kr/news/photo/202611/60609_62470_228.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI视频制作服务TubeTube推出了一款一体化制作工具：用户输入歌词或故事后，它能自动完成从作曲、录音、分镜构成、图像生成、视频动画到最终剪辑的全部流程。该工具旨在基于文本，用约15分钟制作出完整视频。"
+        },
+        {
+          "t": "p",
+          "x": "音乐制作使用Suno或ElevenLabs Music。生成的音频会按单词逐一转写，并据此构建逐场景的分镜。之后，用户可以从Kling、Veo 3.1、Seedance 2、Hailuo 2.3、Gemini Omni Flash中选择想要的视频生成引擎，为每个场景添加动态效果。"
+        },
+        {
+          "t": "p",
+          "x": "在图像生成阶段，工具会利用前一场景的图像以及用户指定的最多5张参考图像，保持角色的一致性。共提供113种风格，旁白视频可配音为24种语言，一次最多可选择5种语言。画面比例支持16:9和9:16。"
+        },
+        {
+          "t": "p",
+          "x": "制作一部2~3分钟的视频，所需积分中位数为807积分，约合9美元；月度订阅费用22美元起。服务还提供公开的REST API和命令行工具。不过，约15分钟的制作时间和费用均为服务方公布的标准，可能因视频长度、场景数量和生成引擎等而有所不同。"
+        }
+      ]
+    },
+    "music/music-engadget-ai-ear-signs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/intro-1793895779.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI音乐确实是个问题：Suno-generated的劣质内容已充斥各大流媒体平台，有时还被错误地挂在真实艺人名下。与此同时，“感觉像AI”已成为一种贬义说法，让一些人过早下结论。以下才是真正指向AI的迹象。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/signs-of-ai-use-in-music-1793895781.jpg"
+        },
+        {
+          "t": "p",
+          "x": "“AI音乐”可能指AI-generated的伴奏、人声、歌词或三者兼有，也可能只是人声滤镜这类较小的元素。人声大概最容易识别：留意那些为了让歌词贴合音乐而含糊或颤抖的嗓音、怪异的重音、缺乏自然的瑕疵，以及几乎不变的语调。"
+        },
+        {
+          "t": "p",
+          "x": "结构和伴奏往往同样单调，缺少动态变化、转调、有趣的桥段或non-Western乐器；许多AI音乐让人想起Imagine Dragons或Taylor Swift。歌词方面，要注意缺少隐喻和明喻、措辞生硬、没有贯穿全曲的主题以及意象重复。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/external-signs-of-an-ai-artist-1793895783.jpg"
+        },
+        {
+          "t": "p",
+          "x": "接下来要核查背景。Spotify的Artist Profile Protection或Deezer的AI音乐检测器给出的标记通常可作为确认，不过Bandcamp偶尔也会误标真实音乐。简单搜索一下，应能找到现场演出、社交账号和采访；一个在网上毫无踪迹、却用AI-generated封面大量发歌的艺人，很可能是内容农场。"
+        }
+      ]
     }
   }
 }

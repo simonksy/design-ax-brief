@@ -1,31 +1,31 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "section": "books",
   "media": [
     {
-      "id": "vellum-automation-rollback",
+      "id": "books-medium-tk-app",
       "type": "image",
-      "src": "pipeline/media/vellum-automation-rollback.png"
+      "src": "pipeline/media/books-medium-tk-app.png"
     },
     {
-      "id": "pw-salary-survey-2026",
+      "id": "books-wired-paper-trail",
       "type": "image",
-      "src": "pipeline/media/pw-salary-survey-2026.jpg"
+      "src": "pipeline/media/books-wired-paper-trail.jpg"
     },
     {
-      "id": "rnib-ai-audiobook-poll",
+      "id": "books-yes24-ai-tts",
       "type": "image",
-      "src": "pipeline/media/rnib-ai-audiobook-poll.jpg"
+      "src": "pipeline/media/books-yes24-ai-tts.jpg"
     },
     {
-      "id": "scholarlykitchen-peer-review-tacit",
+      "id": "books-japan-ip-genai-terms",
       "type": "image",
-      "src": "pipeline/media/scholarlykitchen-peer-review-tacit.jpg"
+      "src": "pipeline/media/books-japan-ip-genai-terms.jpg"
     },
     {
-      "id": "vinland-saga-yukimura-ai-fanart",
+      "id": "books-flitto-kpa-data",
       "type": "image",
-      "src": "pipeline/media/vinland-saga-yukimura-ai-fanart.jpg"
+      "src": "pipeline/media/books-flitto-kpa-data.jpg"
     }
   ]
 }

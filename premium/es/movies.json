@@ -10094,6 +10094,162 @@
           "x": "En el lanzamiento, los creadores de cuatro proyectos asistidos por AI (AI-assisted) presentaron su trabajo, entre ellos Jerry Zhou, creador de “God Being”."
         }
       ]
+    },
+    "movies/framestore-sky-christmas-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/image/attached/1081755-skyxmsstill015-1280.jpg",
+          "cap": "That's Christmas Sorted"
+        },
+        {
+          "t": "p",
+          "x": "Framestore se ha asociado con Sky Creative y con el director Dave Meyers, de RadicalMedia, en “That's Christmas Sorted”, la nueva campaña navideña de Sky, que combina entornos CG y VFX con herramientas de AI integradas en un pipeline de producción tradicional. Framestore conservó en todo momento el ritmo, el movimiento y el carácter de las interpretaciones en acción real."
+        },
+        {
+          "t": "p",
+          "x": "A partir de los storyboards de Meyers, el equipo combinó técnicas tradicionales de previs con herramientas de AI para explorar movimientos de cámara, interpretación, timing de los planos y elección de lentes. Framestore construyó layouts 3D de los entornos interiores y exteriores de un almacén; el matte painting digital y las herramientas de AI añadieron detalle, texturas e iluminación."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill006-1280.jpg?itok=lUnQRKXQ"
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill007-1280.jpg?itok=sF7sj9HF"
+        },
+        {
+          "t": "p",
+          "x": "Para que el vestuario pareciera animarse solo, Framestore desarrolló un pipeline de eliminación de personajes que combina composición tradicional con tecnología de AI, además de animación CG por keyframes hecha a medida para trajes concretos."
+        },
+        {
+          "t": "p",
+          "x": "“Integramos la AI en nuestro pipeline de VFX existente de una forma que nos dio nuevas posibilidades creativas sin comprometer el oficio ni el control que exige el trabajo”, dijo Kamen Markov, director creativo y supervisor de VFX de Framestore."
+        },
+        {
+          "t": "video",
+          "yt": "r3J9A5FSAIs"
+        }
+      ]
+    },
+    "movies/runway-realtime-batch-one": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png"
+        },
+        {
+          "t": "p",
+          "x": "Runway Characters puede convertir una sola imagen en un personaje en vivo con el que se puede hablar, y detrás hay un transformer de difusión de video autorregresivo de unos 57B-parameter. A 24 fotogramas por segundo (fps), ese modelo debe generar un nuevo bloque de cuatro fotogramas de video de 704x1088 cada 166.7ms, para un usuario a la vez, mientras dure la conversación."
+        },
+        {
+          "t": "p",
+          "x": "Characters se lanzó con ocho H100s por sesión. Con cuatro, el software de lanzamiento tardaba 240.9ms por paso de difusión; las optimizaciones de Runway lo redujeron a 159.3ms (24.5 fps sostenidos), así que cada sesión ya funciona en tiempo real con cuatro H100s. Un kernel de comunicación fusionado lo baja a 147.4ms."
+        },
+        {
+          "t": "p",
+          "x": "El batching no ayuda: cada sesión es un flujo privado, uno a uno, que necesita 2.24 PFLOP/s de trabajo útil. El mantenimiento de la caché, aplicado una sola vez al escribir, bajó de 69.7ms a 6.2ms por paso."
+        },
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/image-1-9ec7fdc5-4e77-4178-8704-6574c6b7b80f.png",
+          "cap": "Cascada acumulada del tiempo de difusión por paso."
+        },
+        {
+          "t": "p",
+          "x": "En siete semanas de telemetría, el worker promedió más de 23.5 fps en el 99.5% de las sesiones. El turno conversacional mediano duró 2.13s, de los cuales el agente de voz representó 1.42s."
+        },
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/3-0d345623-81cb-40bb-9285-23d806d08d1d.png",
+          "cap": "Latencia mediana del turno por etapa."
+        }
+      ]
+    },
+    "movies/rotld-aftermath-ai-sequel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg?resize=1600%2C900&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "El 31 de octubre, DragonFLIX estrenó discretamente Return of the Living Dead: Aftermath. La película incluso iba a contar con las actrices del reparto original Linnea Quigley y Beverly Randolph, y eso las sorprendió, ya que aparecen en ella sin haber filmado nada."
+        },
+        {
+          "t": "p",
+          "x": "Aunque la película figura como “dirigida” por Richard Driscoll, casi toda está compuesta por imágenes y diálogos AI-generated. Driscoll también figura como quien la “escribió”."
+        },
+        {
+          "t": "p",
+          "x": "“Resultó ser un fiasco”, dijo Quigley al podcast Caffeinated Horror Dude. “Le advertí: ‘Hagas lo que hagas, no uses nada de AI, porque a la gente no le gusta, a los fans no les gusta’”. Randolph añadió: “Esto no es para lo que firmamos”."
+        },
+        {
+          "t": "p",
+          "x": "En Letterboxd, el 95% de las calificaciones actuales son de 1/2 estrella sobre cinco."
+        }
+      ]
+    },
+    "movies/variety-ai-films-costlier-35mm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "La AI ya está recortando el costo de los comerciales, pero las tarifas de tokens descontroladas y las revisiones a cuentagotas podrían hacer que los productores de largometrajes paguen más que en la época del cine de 35mm, dijo Kim Kwang-jib, fundador y CEO de Studio Meta-K, en el Taiwan Creative Content Fest (TCCF) en Taipei."
+        },
+        {
+          "t": "p",
+          "x": "Con las herramientas comerciales más caras, dijo, solo la factura de tokens de una película de 100 minutos puede superar los KRW500 million ($366,000). “Si suben el costo de los tokens unas diez veces… KRW500 million podrían convertirse en KRW5 billion ($3.66 million)”."
+        },
+        {
+          "t": "p",
+          "x": "Con la AI, cada nuevo render se vuelve a pagar: 10 cambios enviados a la vez suponen una pasada extra, pero esos mismos 10 cambios llegando uno al día obligan a pagar 10 veces. “Si la etapa de preproducción no se hace sólida, creo que la AI podría terminar gastando aún más dinero que en la era del cine de 35mm”, afirmó."
+        },
+        {
+          "t": "p",
+          "x": "Lee Sang-wook, responsable del AI Content Lab de MBC C&I, dijo que las herramientas cambian cada semana; el largometraje de 139 minutos de su laboratorio, “Raphael”, tomó alrededor de un año y cuatro meses y se estrena en los cines de Corea el 25 de noviembre."
+        },
+        {
+          "t": "p",
+          "x": "En publicidad, Kim dijo que los costos pueden caer más de 90%. Para el drama prefiere un modelo híbrido con actores estrella, y predijo que “los trabajadores que han aprendido AI reemplazarán a los que no”."
+        }
+      ]
+    },
+    "movies/nolan-dga-ai-studios": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Christopher-Nolan-speaking.jpg",
+          "cap": "Christopher Nolan habla en el escenario del DGA Theater Complex en Los Ángeles. (Credit: Vivien Killilea/Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "Christopher Nolan aplaudió al Directors Guild of America (DGA) y a la AMPTP por negociar “un lenguaje y unas salvaguardas excelentes” frente a la AI en la producción de cine y TV, pero afirmó que el siguiente obstáculo en la lucha contra la AI recae de lleno sobre los hombros de los estudios."
+        },
+        {
+          "t": "p",
+          "x": "“En el sindicato estamos muy centrados en exigir a los estudios que respondan por la protección de sus derechos de autor. Nosotros no podemos hacerlo”, dijo Nolan, presidente del DGA desde el otoño de 2025, en el pódcast “Hollywood Insiders”. “Salvo muy pocas excepciones en el sindicato, no somos los titulares de los derechos de autor de las películas en las que hemos trabajado. Eso les corresponde a los estudios”."
+        },
+        {
+          "t": "p",
+          "x": "“AI es un término demasiado genérico”, dijo, y añadió que las empresas lo usan para eximirse de responsabilidad y que escudarse en las disposiciones de uso legítimo “no se sostendrá en los tribunales” a largo plazo."
+        },
+        {
+          "t": "p",
+          "x": "Nolan dijo sentirse alentado porque Universal incluyó, “por primera vez”, en los créditos de “The Odyssey” un texto estándar que establece que la película no puede ser ingerida, extraída mediante scraping ni utilizada como datos de entrenamiento para modelos de AI generativa."
+        },
+        {
+          "t": "video",
+          "yt": "2rSkej6t_Eo"
+        },
+        {
+          "t": "p",
+          "x": "“Para nosotros es un impulso constante hacia el litigio y la legislación”, dijo. “Se trata, en realidad, de no permitir que la gente robe tu trabajo y le dé otro uso”."
+        }
+      ]
     }
   }
 }

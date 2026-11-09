@@ -14920,6 +14920,118 @@
           "cap": "HEP Collision Models"
         }
       ]
+    },
+    "science/alphaoracle-oracle-bones": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/6a66aea1-2e9b-4448-9ec8-cee1beecd13c/Rendition/low-res/Content/Public",
+          "cap": "AlphaOracle: 인간의 작업 흐름에서 착안한 딥러닝 기반 갑골문 해독"
+        },
+        {
+          "t": "p",
+          "x": "뼈와 껍데기에 새겨진 약 4,500자 가운데 약 3,000자는 아직 합의된 판독이 없다. Huazhong University of Science and Technology의 Yuliang Liu가 이끄는 연구진은 The Innovation에 실은 논문에서 AlphaOracle을 소개했다. 학자들이 밟는 경로를 그대로 따르도록 설계한 AI 시스템이다. 전문가 86명이 참여한 연구에서 분석 시간이 64% 줄었다."
+        },
+        {
+          "t": "p",
+          "x": "AlphaOracle은 네 단계로 짜여 있다. 탁본 위 글자를 분석하는 단계, 신뢰도 점수와 함께 후보를 순위로 내놓는 형태 분석, 손으로 모사한 탁본 73,883점과 고고학 스캔 45,364점을 아우르는 맥락 정렬, 전해 내려온 고전 25종과 현대 연구 23,755건에 근거한 문헌학적 검증이다."
+        },
+        {
+          "t": "p",
+          "x": "학습에서 뺀 88자의 top-1 정확도는 23.1%였다. Google의 SR3 이미지 모델을 재구현하면 13.1%에 그쳤다. 전문가 78.7%는 유용성에 5점 만점 중 4점이나 5점을 줬다. 논쟁이 이어져 온 글자 勞의 경우 증거가 지명 해석을 가리켰다. 최종 판단은 학자에게 맡긴다."
+        }
+      ]
+    },
+    "science/cmu-cisco-agent-upsell": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-1.jpg",
+          "cap": "AI 에이전트. 출처: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Carnegie Mellon University의 Heinz College와 Cisco Foundation AI 연구진이 확인한 결과, 일부 개인용 AI 에이전트는 부유한 사용자가 더 저렴한 선택지를 요청해도 더 비싼 쪽을 추천했다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 AI 모델 13개와 건강보험·항공권·대학원 과정을 구매하려는 가상 사용자 페르소나 32개로 325,000회 실험을 돌렸다. 이 패턴은 여덟 개 모델에서 나타났다. 가격 차이는 항공권이 최대 $198, 건강보험이 월 최대 $284, 대학원 과정은 연간 $3,900 가까이 됐다."
+        },
+        {
+          "t": "p",
+          "x": "에이전트는 주변 맥락으로, 때로는 이메일 한 통만으로도 재산 수준을 짐작해 냈다. 비금융 데이터를 막아도 문제는 그대로였고, 금융 정보를 직접 막아야 격차가 대체로 사라졌다. 연구진은 이를 “적대적 위임(adversarial delegation)”이라고 부른다. 실험에는 실제 사용자 대신 페르소나와 모의 재고를 썼다(arXiv, “Et Tu, Brute? Economic Misalignment in Personal AI Agents”)."
+        }
+      ]
+    },
+    "science/psypost-fmri-role-reversal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/05/brain-connections.jpg"
+        },
+        {
+          "t": "p",
+          "x": "eLife에 실린 새 신경영상 연구에 따르면 문장 뜻이 어휘뿐 아니라 어순에 좌우될 때 대규모 언어 모델은 뇌와 사뭇 다르게 의미를 조직한다. 사람의 뇌 활동은 누가 행위를 하고 누가 받는지 같은 문법적 역할을 명시적으로 추적하는 모델과 더 잘 맞았다."
+        },
+        {
+          "t": "p",
+          "x": "James Fodor 연구진은 “the director brought the cameraman to the equipment”(감독이 카메라맨을 장비 쪽으로 데려갔다) 같은 역할 맞바꿈 쌍을 넣어 문장 108개를 직접 만든 뒤 참가자 30명의 뇌를 7-Tesla fMRI 스캐너로 촬영했다. 어휘가 같은 918개 쌍에서 트랜스포머 모델은 언어 네트워크 활동과 대체로 음의 관계를 보였다. 구조를 부호화하는 하이브리드 모델과 그래프 기반 모델은 약하게나마 양의 정렬을 나타냈다."
+        },
+        {
+          "t": "p",
+          "x": "“LLMs가 인간과 다르게 언어를 처리한다는 증거를 찾았다”고 Fodor는 말했다. “이는 LLMs가 완전히 인간과 같은 방식으로 언어를 ‘이해’하지 못할 수도 있음을 시사한다.” 다만 실험 자극은 철저히 통제된 짧은 문장이었다."
+        }
+      ]
+    },
+    "science/deliverome-surfaceome-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-used-to-identify-ne.jpg",
+          "cap": "Hertz 펠로 Becca Carlson. 출처: Fannie and John Hertz Foundation"
+        },
+        {
+          "t": "p",
+          "x": "인간 세포 표면에 어떤 단백질이 있는지를 놓고 주요 데이터베이스 다섯 곳은 판단이 크게 엇갈린다. 다섯 곳을 합치면 표면 단백질이 5,546개지만 모두가 동의하는 단백질은 188개뿐이다. Hertz 펠로 Becca Carlson이 이끄는 Deliverome Project는 Claude Sonnet 4.6으로 AI 에이전트를 만들었다. 발표된 연구를 검토해 단백질을 분류하는 에이전트다."
+        },
+        {
+          "t": "p",
+          "x": "에이전트는 단백질 147개로 이뤄진 벤치마크 SurfaceBench에서 95.7%를 맞게 분류했다. 비교한 데이터베이스 가운데 가장 나았던 UniProt은 정확도가 약 90%였다. 주요 참조 데이터베이스 다섯 곳 어디에도 없는 세포 표면 단백질 후보도 1,108개 찾아냈다. KLK2가 그런 예다. 다섯 참조 데이터베이스는 모두 이 단백질을 세포 표면에 없는 단백질로 분류한다."
+        },
+        {
+          "t": "p",
+          "x": "연구 결과는 bioRxiv 프리프린트로 공개됐다. 연구팀은 공개 API와 오픈소스 코드까지 갖춘 대화형 자료를 무료로 내놓았다. “이것이 사람들이 더 다양한 약물을 개발하는 데 도움이 되기를 바란다”고 Carlson은 말했다."
+        }
+      ]
+    },
+    "science/synaps-i-xray-imaging": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/synaps-i-intelligent-c.jpg",
+          "cap": "여러 U.S. Department of Energy(미국 에너지부) National Laboratories 과학자들이 NSLS-II에 모여, 혁신적인 이미징 기법으로 마이크로일렉트로닉스의 공통 과제를 어떻게 풀지 살폈다. Credit: Kevin Coughlin/Brookhaven National Laboratory"
+        },
+        {
+          "t": "p",
+          "x": "SYNAPS-I(Synergistic Neutron and Photon Science—Intelligence)는 DOE Genesis Mission 산하 ModCon 이니셔티브의 시드 프로젝트다. X-ray·중성자 실험에 머신러닝을 곧바로 접목한다. Lawrence Berkeley National Laboratory의 Advanced Light Source가 주도하고 Argonne, Oak Ridge, SLAC, Brookhaven이 함께한다."
+        },
+        {
+          "t": "p",
+          "x": "Brookhaven의 NSLS-II에서 열린 첫 시연에서 Hanfei Yan 팀은 Hard X-ray Nanoprobe로 자동화 실험을 했다. 시스템은 이미지를 얻자마자 분석해 과학적으로 흥미로운 영역을 찾아냈고, 고해상도로 측정할 곳도 스스로 골랐다. 사람은 개입하지 않았다."
+        },
+        {
+          "t": "video",
+          "yt": "EZx8j_f4zA8"
+        },
+        {
+          "t": "p",
+          "x": "두 번째 시연의 대상은 마이크로일렉트로닉스 칩의 타이코그래피 단층촬영(ptychographic tomography)이었다. Argonne에서 학습한 파운데이션 모델이 반복 재구성 단계를 대신했고, NVIDIA Holoscan 플랫폼과 맞물려 초당 200장을 실시간으로 재구성했다. NSLS-II에서 개발한 모델은 보통 필요한 데이터의 거의 십분의 일만으로 마이크로칩을 재구성했다. Meta의 Segment Anything Model 3(SAM3)를 미세 조정한 버전은 3D 데이터 속 물질과 구조, 관심 영역을 자동으로 찾아냈다."
+        },
+        {
+          "t": "p",
+          "x": "이 기능을 함께 쓰면 스캔 시간과 방사선 선량을 줄일 수 있다. 팀의 다음 목표는 더 견고한 파운데이션 모델, 그리고 실험 도중 3D 이미지가 계속 나아지는 실시간 단층촬영이다."
+        }
+      ]
     }
   }
 }

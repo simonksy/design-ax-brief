@@ -10646,6 +10646,139 @@
           "x": "Windows用户同样有所收获：Screen Awareness新增命令，可将单个元素或整个窗口发送到AI Chat。如需了解Raycast v2.11的更多信息，请点击此链接。"
         }
       ]
+    },
+    "gadgets/meta-muse-applewatch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg",
+          "cap": "Apple Watch上的Muse"
+        },
+        {
+          "t": "p",
+          "x": "Meta今天更新了iOS版Muse应用，新增对Apple Watch的支持，Muse用户可以通过手表使用这款主动式AI代理。"
+        },
+        {
+          "t": "p",
+          "x": "该应用将Muse角色带到手表上，用户可以给它发消息、向它口述文字或给它打电话。此外还有一个Muse表盘复杂功能，方便快速访问。"
+        },
+        {
+          "t": "p",
+          "x": "Muse是Meta的个人AI代理，能够替用户完成任务。它既有独立应用，也内置于Instagram、Facebook和其他Meta应用中。Meta为代表Muse而设计的雪人般的角色颇受欢迎，在Apple Watch上也占据了界面中央。"
+        },
+        {
+          "t": "p",
+          "x": "该手表应用的设计与Meta在9月作为配套设备发布的Muse Charm相似。"
+        }
+      ]
+    },
+    "gadgets/samsung-memory-screenshots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-inner-screen-scaled.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Galaxy Z Fold 8 Ultra内屏"
+        },
+        {
+          "t": "p",
+          "x": "据报道，三星（Samsung）正在开发一款名为Memory的全新Galaxy AI驱动（AI-powered）应用。SamMobile报道称：“据悉，该应用可让用户把截图、链接、文字、导入的内容和语音笔记集中在一处，并由AI完成所有整理工作。”三星尚未发布任何官方消息，但该应用很可能随One UI 9.5一同推出。"
+        },
+        {
+          "t": "p",
+          "x": "用户可以通过截图、Share（分享）菜单、粘贴链接或文字以及语音笔记来保存内容，还支持三指下滑截图等快捷操作。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/09/samsung-galaxy-z-fold-7-oneui8-4095.jpg?resize=4492%2C2695&ssl=1",
+          "cap": "Galaxy Z Fold 7上Samsung One UI 8的折叠屏锁屏界面。"
+        },
+        {
+          "t": "p",
+          "x": "Memory利用AI生成标题、总结内容、添加相关标签，并将相关条目归入合集。它甚至能识别网页截图并搜索原始链接。Google的Pixel Screenshots和Oppo的Mind Space也有类似功能。"
+        },
+        {
+          "t": "p",
+          "x": "三星表示，保存的内容可以仅在设备端处理，但部分高级智能功能需要联网处理。Memory预计将在未来几周内随One UI 9.5推出，但这只是预期，并非官方承诺。"
+        }
+      ]
+    },
+    "gadgets/eeg-sleep-headband-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/TigcVbSwidE5JLUGgy7em-1200-80.jpg",
+          "cap": "（图片来源：Getty Images）"
+        },
+        {
+          "t": "p",
+          "x": "Science与Pulitzer Center的AI Accountability Network联合开展的调查发现，消费级神经技术公司已积累数千万小时的EEG记录，其中多家正用这些数据开发大脑基础模型，尽管它们最初并未在隐私政策中写明这一用途。"
+        },
+        {
+          "t": "p",
+          "x": "Muse睡眠头带的制造商Interaxon用约50,000小时的EEG记录训练了一个AI模型。其隐私政策在更新前并未明确披露这一点；CMO Nadia Kumentas表示：“我们同意应当明确告知用户。”Emotiv正部分使用客户记录训练其Large Brain模型，现已披露会在用户选择加入的前提下使用去标识化数据。"
+        },
+        {
+          "t": "p",
+          "x": "在受调查的公司中，超过三分之二允许在未经用户同意的情况下进行企业间数据转移。Piramidal与Cleveland Clinic合作，用超过400万小时的EEG数据训练了一个模型；在一项试点研究中，其癫痫发作检测系统识别出了10次发作中的9次。大多数可穿戴设备只使用1到6个电极，而临床系统使用19到25个。"
+        }
+      ]
+    },
+    "gadgets/agibot-g2-convenience-store": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg",
+          "cap": "来源：X（AGIBOTofficial）"
+        },
+        {
+          "t": "video",
+          "yt": "EBSo1cuv9QY"
+        },
+        {
+          "t": "p",
+          "x": "6台人形机器人在便利店挑战了24小时工作。中国机器人初创公司AgiBot于2日至3日在上海一家便利店投放了6台轮式人形机器人“G2”，开展工作评估。机器人们承担了接待顾客、商品上架、制作咖啡、提供餐食、清洁等多种工作。"
+        },
+        {
+          "t": "p",
+          "x": "该公司表示，机器人在24小时内共完成1730项任务，处理了147份咖啡订单，并取送了369件商品。但在最终评估中，6台中只有4台合格。负责商品上架的机器人被评为工作积极性不足，清洁机器人则在垃圾桶装满后偏离既定路线、走出店外而被淘汰。"
+        },
+        {
+          "t": "p",
+          "x": "此次挑战在一家正常营业的便利店进行，全过程在网上直播。"
+        }
+      ]
+    },
+    "gadgets/alexa-tablet-12pro-android": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-hero.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Amazon在10月停用Fire平板这一名称，将整条产品线换成Alexa Tablets。新平板运行Android，完整支持Google Play Store，每一款都内置Alexa+。"
+        },
+        {
+          "t": "p",
+          "x": "旗舰机型是Alexa Tablet 12 Pro。Graphite配色、8GB RAM加128GB 存储的版本起价$499.99，Nanomatte版本为$549.99。12-inch 屏幕像素密度为每英寸280像素，刷新率120Hz，比例3:2，电池续航标称可播放视频16小时。Pro Pen售价$89.99，Pro Keyboard售价$149.99；三者搭配，12 Pro就成了一台工作机器。"
+        },
+        {
+          "t": "video",
+          "yt": "4aW5ARKEQOs"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/alexa-tablet-lineup-detail.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Alexa Tablet 11起价$329.99，Alexa Tablet 8起价$229.99。$99的Fire已经消失。"
+        },
+        {
+          "t": "p",
+          "x": "悬而未决的是Alexa+。On-Screen Intelligence功能可让Alexa+查看屏幕内容并据此操作，它需要用户主动开启，默认关闭，运行时屏幕上会显示指示标识。首批评测称赞硬件和屏幕，并指出多任务处理是短板。"
+        }
+      ]
     }
   }
 }

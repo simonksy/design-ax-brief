@@ -10294,6 +10294,153 @@
           "x": "这项实时能力也以串流叠加层的形式集成到了Viewfinder中。Viewfinder是一款处于封闭测试阶段的网页应用，用户可用Atlas逐帧搭建场景。Frameboy目前必须运行在强大的云端GPU服务器上，与本地渲染方式相比成本不低。"
         }
       ]
+    },
+    "games/innogames-genai-art-pipeline": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png"
+        },
+        {
+          "t": "p",
+          "x": "在这篇客座文章中，InnoGames美术负责人Dario Berruti介绍了这家打造Forge of Empires、Elvenar和Heroes of History的工作室如何分五个阶段引入生成式AI。第一步是对美术师进行调研，他们最关心的是工作保障；管理层明确表示，AI的目的是增强美术师的能力，而非取代他们。"
+        },
+        {
+          "t": "p",
+          "x": "早期实验就像一个加速版的Pinterest，用于寻找参考和制作粗略样稿。团队最终选定了Scenario，由于它能用工作室自有素材训练定制模型，它成为制作图标、肖像和小型插画的首选工具；ComfyUI经过评估后被放弃。"
+        },
+        {
+          "t": "p",
+          "x": "转折点出现在2025年，Gemini和Flux相继登场。如今外包成本仅为往年的一半，AI已成为2D和概念美术不可或缺的一部分。目前的重点是自动化：基于节点的工作流、MCP集成以及智能体。美术师们用Claude处理重复性任务、编写自己的脚本和工具，而通过MCP服务器将Claude连接到Blender，正在为3D开辟新的可能。"
+        },
+        {
+          "t": "p",
+          "x": "“AI改变了我们的工作方式，但没有改变由谁来工作：我们的美术师始终是我们所创造的一切的核心。”"
+        },
+        {
+          "t": "img",
+          "src": "https://mobidictum.com/wp-content/uploads/2026/11/Dario-Berruti-1024x684.png",
+          "cap": "InnoGames美术负责人Dario Berruti"
+        }
+      ]
+    },
+    "games/automaton-ocarina-gemini-port": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google员工Ammaar Reshi于11月7日在X上发帖称，他利用Gemini 4让《塞尔达传说 时之笛》完整重制版在iPhone Duo上运行。该帖引发争议，目前已被删除。"
+        },
+        {
+          "t": "p",
+          "x": "《塞尔达传说 时之笛》是1998年登陆NINTENDO 64的动作RPG。此次完整重制版全面翻新了画面，过场动画实现全程配音，还加入了自由视角操作、跳跃和冲刺等要素，已于11月5日在Nintendo Switch 2上发售。"
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-header-1080x608.jpg"
+        },
+        {
+          "t": "p",
+          "x": "发帖者是在Google担任“Google AI Studio”产品与设计负责人的Ammaar Reshi。他表示是借助Google的生成式AI“Gemini 4”实现运行的，相当于将其作为运用自家AI技术的成果加以展示。"
+        },
+        {
+          "t": "p",
+          "x": "在引用帖中，不仅非官方移植这一行为本身受到质疑，由参与Google AI产品开发的人士公开展示此事也引发了疑问。帖子虽已删除，但删除原因尚不明确。"
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-002-1080x608.jpg"
+        }
+      ]
+    },
+    "games/plamo3-translate-gamer-tools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/ogp_f/1217054.png"
+        },
+        {
+          "t": "p",
+          "x": "日本AI企业Preferred Networks（PFN）于2026年11月5日将翻译专用AI“PLaMo 3 Translate”作为可免费使用的开放权重模型发布。它与该公司翻译服务“PLaMo翻译”所用的AI相同，无需联网、仅靠本地PC即可完成，有望大幅降低志愿翻译的门槛。DeepL免费版设有使用上限，在处理数百至数千行游戏文本的志愿翻译中常导致工作中断。"
+        },
+        {
+          "t": "p",
+          "x": "其主要特点包括：可在智能手机上运行的轻量设计、不限使用次数、支持包括日语和英语在内的53种语言、个人使用免费，以及可指定专有名词译法和选择文体的术语与文体指定功能。"
+        },
+        {
+          "t": "p",
+          "x": "模型发布后数日内，个人开发者陆续推出了相关工具。11月7日，可将屏幕上的英文文本当场替换为日文的PC常驻应用“sonoba”上线，据称字幕显示约1秒、短句约0.2秒即可处理完成。浏览器扩展“PLaMo_Translate_EX”和桌面应用“plamo-translate-desktop”也相继登场。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1217054.png",
+          "cap": "plamo-translate-desktop"
+        },
+        {
+          "t": "p",
+          "x": "此外，本地化辅助工具“game-l10n-updater”也已公开，它只翻译新增或修改的文本，并在实际画面中检验译文字数是否会超出UI按钮。"
+        }
+      ]
+    },
+    "games/jackbox-human-made-pledge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo.png"
+        },
+        {
+          "t": "p",
+          "x": "最近我走访了位于芝加哥的Jackbox Games HQ，与开发者和工作室管理层聊了聊他们的创作流程、发展历程以及在行业中的位置。鉴于当下的种种情况，在这类对话中问起AI几乎成了我的“合同义务”。以下是CEO Mike Bilder对此话题的看法："
+        },
+        {
+          "t": "p",
+          "x": "“人才是这款产品的核心。喜剧、文字和美术，全部由人完成，我们无意改变这一点。我不认为我们是业内AI动向之类问题的专家。它显然在工具开发和研究方面有用武之地，在这些方面[AI]极其强大。"
+        },
+        {
+          "t": "p",
+          "x": "“但从生成式素材的角度来看，我们无意用它取代人，或取代由人创作的文字和美术。”"
+        },
+        {
+          "t": "p",
+          "x": "从我们此前讨论的一切以及Jackbox的整体风格来看，我并不认为生成式AI会出现在这家工作室的计划中。Jackbox的游戏在技术上相对轻量，而美术和文字才是其主要魅力——如果有任何明显AI-generated的内容，整个产品的价值都会受到质疑。"
+        },
+        {
+          "t": "p",
+          "x": "该公司最近于10月14日推出了Jackbox Party Pack 12，其中的Trivia Murder Party 3大量运用了实时3D图形。"
+        }
+      ]
+    },
+    "games/wardogs-ml-anticheat": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-2560-80.jpg",
+          "cap": "Wardogs"
+        },
+        {
+          "t": "p",
+          "x": "Season 3即将到来之际，Bulkhead回应了Wardogs Season 2中犯下的错误。工作室认为当时的改动过于激进，也太容易被声音大的玩家左右，并表示今后“不会为了安抚最响亮的声音而仓促修复”。"
+        },
+        {
+          "t": "video",
+          "yt": "hr1uuC7BnSc"
+        },
+        {
+          "t": "p",
+          "x": "Season 3将带来一张更具城市风格的新地图Sabatulo；多轨解锁机制，让某一角色可能用到的任何物品都能通过扮演该角色解锁；以及移除高阶武器、护甲和载具的全新“Limited”模式。"
+        },
+        {
+          "t": "p",
+          "x": "Bulkhead还推出了其所称的“全球最先进的反作弊系统之一”，该系统通过“借助机器学习和AI分析1.87亿小时游戏数据”打造而成。系统在Road to Season 3视频发布时上线，已封禁185,000个账号。"
+        },
+        {
+          "t": "p",
+          "x": "Bulkhead CEO Joe Brammer表示：“为了训练模型，我们需要让作弊者经历打磨和调整外挂的过程，以便观察它们如何演变。”他说，该系统无法彻底消灭作弊者，但工作室有信心在Season 3于11月12日上线时带来更好的游戏体验。"
+        }
+      ]
     }
   }
 }

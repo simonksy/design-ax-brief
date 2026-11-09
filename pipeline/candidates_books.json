@@ -1,151 +1,196 @@
 {
-  "section": "books",
-  "now_iso": "2026-11-08T22:02:46Z",
-  "window_hours": 336,
-  "items": [
-    {
-      "title": "Vellum reverses course on AI automation after author backlash",
-      "url": "https://smbtech.au/news/macbook-book-formatting-tool-vellum-reverses-course-on-ai-automation-after-author-backlash/",
-      "source": "SMBtech",
-      "category": "books",
-      "published_iso": "2026-11-08T21:34:26+11:00",
-      "excerpt": "Mac book-formatting app Vellum pulled its new 'Automation' feature, which let authors connect external AI assistants to manage back-catalogue tasks, in version 4.2.1 just days after launch following a wave of criticism from indie authors (Vellum blog: 'We've Removed Vellum Automation', Nov 5).",
-      "og_image": null
-    },
-    {
-      "title": "RNIB poll: 65% won't listen to AI audiobooks",
-      "url": "https://www.voiceoverherald.com/rnib-poll-ai-narrated-audiobooks-talking-books-90-narrators/",
-      "source": "Voice Over Herald",
-      "category": "books",
-      "published_iso": "2026-11-08T14:00:00+00:00",
-      "excerpt": "A YouGov poll for the RNIB, marking 90 years of its Talking Books service, finds 65% of UK adults won't listen to AI-narrated audiobooks and shows what makes listeners abandon a narrator's voice.",
-      "og_image": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-48.jpg"
-    },
-    {
-      "title": "Drama scripts and webtoons, too, are being created with AI",
-      "url": "https://www.mk.co.kr/en/culture/12201746",
-      "source": "Maeil Business Newspaper",
-      "category": "books",
-      "published_iso": "2026-11-08T16:30:12+09:00",
-      "excerpt": "Korean creators are learning to develop characters, plots and webtoon storyboards step by step with generative AI in hands-on courses, as AI-assisted story creation spreads from scripts to webtoons.",
-      "og_image": "https://pimg.mk.co.kr/news/cms/202611/09/20261109_01110127000001_L00.jpg"
-    },
-    {
-      "title": "AI로 하루 10권 '딸깍 출판'...커지는 전자책 시장 명암",
-      "url": "https://www.sedaily.com/article/20111415",
-      "source": "서울경제",
-      "category": "books",
-      "published_iso": "2026-11-07T10:00:00+09:00",
-      "excerpt": "생성형 AI로 개인이 하루에도 여러 권의 전자책을 찍어내는 '딸깍 출판'이 확산되지만, AI 활용 고지 기준과 품질 검증 장치가 없어 전자책 소비자 불만도 함께 늘고 있다.",
-      "og_image": "https://wimg.sedaily.com/news/cms/2026/11/07/news-p.v1.20261106.2c62938e3b884f6ea22f1e8d686a9640_Z1.png"
-    },
-    {
-      "title": "The 2026 PW Salary & Jobs Report: 73% of publishers use AI, 77% of staff view it negatively",
-      "url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101719-salary-and-jobs-report-2026.html",
-      "source": "Publishers Weekly",
-      "category": "books",
-      "published_iso": "2026-11-06T00:00:00+00:00",
-      "excerpt": "PW's survey of 886 publishing workers finds 73% say their company uses AI (market research leads), yet 77% hold a negative view of the technology; the top worry is ending up publishing a book substantially written by AI.",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132694-3.JPG"
-    },
-    {
-      "title": "SIBF 2026: Booker-winning translator Daisy Rockwell on whether AI threatens writing",
-      "url": "https://www.khaleejtimes.com/lifestyle/sibf-2026-will-ai-impact-writing",
-      "source": "Khaleej Times",
-      "category": "books",
-      "published_iso": "2026-11-06T13:44:38+04:00",
-      "excerpt": "International Booker winner Daisy Rockwell, translator of Tomb of Sand, says at the Sharjah International Book Fair that while AI has entered literature, its role in literary translation and creative writing remains limited.",
-      "og_image": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-11-06/71o3k51i/Rockwell.jpg?width=1200&height=630&q=60&format=auto&ogImage=true&mode=crop&rect=0,244,1184,789"
-    },
-    {
-      "title": "Sharjah Translation Award debate highlights limits of AI in literary translation",
-      "url": "https://see.news/sharjah-translation-award-debate-highlights-limits-of-ai-in-literary-translation",
-      "source": "Sada Elbalad (SEE News)",
-      "category": "books",
-      "published_iso": "2026-11-06T13:21:51+02:00",
-      "excerpt": "Translators, academics and publishers at the Sharjah Translation Award seminar at SIBF 2026 said AI can speed up translation but cannot replace human judgment on cultural nuance and literary voice.",
-      "og_image": "https://i2.wp.com/see.news/images/2026/11/sharjah-translation-award-debate-highlights-limits-of-ai-in-literary-translation-1793963996-0.jpg?resize=1080,608&quality=72&strip=all&ssl=1"
-    },
-    {
-      "title": "Steins;Gate developer MAGES says AI translation is a long way from viable for visual novels",
-      "url": "https://automaton-media.com/en/news/steinsgate-developer-mages-says-ai-translation-is-a-long-way-from-being-viable-for-visual-novels/",
-      "source": "AUTOMATON",
-      "category": "books",
-      "published_iso": "2026-11-06T05:36:56+00:00",
-      "excerpt": "MAGES president Makoto Asada says machine translation can't yet handle the text-heavy, nuance-dependent writing of visual novels, explaining the studio's stance on AI localization.",
-      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/11/20261106-74857-header.jpg"
-    },
-    {
-      "title": "What AI can't learn about peer review, because nobody can explain it",
-      "url": "https://scholarlykitchen.sspnet.org/2026/11/05/guest-post-what-ai-cant-learn-about-peer-review-because-nobody-can-explain-it/",
-      "source": "The Scholarly Kitchen",
-      "category": "books",
-      "published_iso": "2026-11-05T10:30:15+00:00",
-      "excerpt": "A guest post argues that publishers automating peer review with AI risk losing tacit editorial expertise that has never been made explicit enough to train or evaluate a model on.",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2300954589.jpg"
-    },
-    {
-      "title": "Literary prizes are for writers, not machines",
-      "url": "https://www.prospectmagazine.co.uk/culture/the-culture-newsletter/75541/literary-prizes-are-for-writers-not-machines-france-ai-writing",
-      "source": "Prospect",
-      "category": "books",
-      "published_iso": "2026-11-05T00:00:00+00:00",
-      "excerpt": "As publishers cut ties with authors accused of using AI, Prospect argues France's new prize for AI-co-written manuscripts sends the wrong message, amid the Goncourt AI-use row.",
-      "og_image": "https://media.prospectmagazine.co.uk/prod/images/gm_preview/c5eb851c2002-cultureai-2.png"
-    },
-    {
-      "title": "AI's role in book publishing raises questions about quality, transparency",
-      "url": "https://www.wlox.com/2026/11/04/ais-role-book-publishing-raises-questions-about-quality-transparency/",
-      "source": "WLOX (Gray Media)",
-      "category": "books",
-      "published_iso": "2026-11-04T23:12:13+00:00",
-      "excerpt": "Gray Media report on how AI is changing how authors write, edit and publish books, and readers' growing questions about quality and disclosure of AI-assisted titles.",
-      "og_image": "https://gray-wlox-prod.gtv-cdn.com/resizer/v2/CC2WPHGAPRCZDD6CTSV4RA4DXI.png?auth=3e01ef3b1985ba3b168298b06ecb29d126cf5b46d3311a5dda57f498b1d50b61&width=1200&height=600&smart=true"
-    },
-    {
-      "title": "From AI adoption to AI practice: building governed AI in scholarly publishing",
-      "url": "https://scholarlykitchen.sspnet.org/2026/11/04/from-ai-adoption-to-ai-practice-building-governed-ai-in-scholarly-publishing/",
-      "source": "The Scholarly Kitchen",
-      "category": "books",
-      "published_iso": "2026-11-04T10:30:11+00:00",
-      "excerpt": "How a publisher can make AI useful across the organization while keeping control of confidential manuscripts, editorial decisions and accountability: a practical governance framework.",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/venn.jpg"
-    },
-    {
-      "title": "OpenAI copyright suit draws more than 50 amicus briefs",
-      "url": "https://publishingperspectives.com/2026/11/copyright-infringement-lawsuit-against-openai-draws-more-than-50-very-illuminating-amicus-briefs/",
-      "source": "Publishing Perspectives",
-      "category": "books",
-      "published_iso": "2026-11-03T13:26:59+00:00",
-      "excerpt": "More than 50 amicus briefs filed in the authors' and publishers' copyright case against OpenAI map the fault lines of the most closely watched AI training lawsuit and what's at stake for books.",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-02-at-10.58.57-PM.png"
-    },
-    {
-      "title": "Litigation, but growing use of AI in book publishing",
-      "url": "https://icv2.com/articles/news/view/63754/litigation-growing-use-ai-book-publishing",
-      "source": "ICv2",
-      "category": "books",
-      "published_iso": "2026-10-30T02:07:58-05:00",
-      "excerpt": "Big Five publishers are suing AI companies even as AI use grows inside their houses, from internal assistants to marketing tools, illustrating the industry's crosscurrents.",
-      "og_image": "https://icv2.com/images/uploads/11f2e01a0bcf70d476ab335ab698e2049f93b1ab42eef3b045c17c3e.jpg"
-    },
-    {
-      "title": "Why the AI detection scandals will end, probably quite soon",
-      "url": "https://janefriedman.com/why-the-ai-detection-scandals-will-end-probably-quite-soon/",
-      "source": "Jane Friedman",
-      "category": "books",
-      "published_iso": "2026-10-30T11:26:12+00:00",
-      "excerpt": "Jane Friedman argues 2026's AI-use allegations against authors stem from books acquired before publishers adopted detection tools like Pangram, so the scandals should fade as screening moves upstream.",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2026/10/friedman_ai_scandals_end-blogpost.png"
-    },
-    {
-      "title": "\"사람이 쓴 소설만 읽고 싶어\"…웹소설계 번지는 'AI 염증'",
-      "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513341",
-      "source": "일요신문",
-      "category": "books",
-      "published_iso": "2026-10-28T17:34:55+09:00",
-      "excerpt": "생성형 AI로 웹소설 원고가 대량 생산되면서 독자들 사이에서 'AI 염증'이 번지고, 플랫폼과 작가들이 AI 작품 표기와 검수 문제로 고민하고 있다.",
-      "og_image": "https://ilyo.co.kr/contents/article/images/2026/1028/1793158533659134.jpg"
-    }
-  ]
+ "section": "books",
+ "now_iso": "2026-11-09T22:02:53Z",
+ "window_hours": 336,
+ "items": [
+  {
+   "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
+   "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
+   "source": "WIRED",
+   "category": "books",
+   "published_iso": "2026-11-09T11:00:00.000Z",
+   "excerpt": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
+   "og_image": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg"
+  },
+  {
+   "title": "Medium's new TK app brings AI assistance directly into the writing process",
+   "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+   "source": "TechCrunch",
+   "category": "books",
+   "published_iso": "2026-11-09T16:12:28+00:00",
+   "excerpt": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+   "og_image": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675"
+  },
+  {
+   "title": "Canada limits use of ISBNs for AI-generated content",
+   "url": "https://janefriedman.com/canada-limits-use-of-isbns-for-ai-generated-content/",
+   "source": "Jane Friedman",
+   "category": "books",
+   "published_iso": "2026-10-28T16:00:00+00:00",
+   "excerpt": "Library and Archives Canada—responsible for issuing ISBNs in the country—now requires authors to declare their work is human written.",
+   "og_image": null
+  },
+  {
+   "title": "New literary prize in France for AI-written manuscripts",
+   "url": "https://janefriedman.com/new-literary-prize-in-france-for-ai-written-manuscripts/",
+   "source": "Jane Friedman",
+   "category": "books",
+   "published_iso": "2026-10-28T16:00:00+00:00",
+   "excerpt": "The manuscript must be submitted alongside an initial prompt, with detail on the language model and generation process used.",
+   "og_image": null
+  },
+  {
+   "title": "Why the AI Detection Scandals Will End—Probably Quite Soon",
+   "url": "https://janefriedman.com/why-the-ai-detection-scandals-will-end-probably-quite-soon/",
+   "source": "Jane Friedman",
+   "category": "books",
+   "published_iso": "2026-10-30T11:26:12+00:00",
+   "excerpt": "Why AI-use allegations against authors may fade: 2026’s scandals stem from books acquired before the growing use of detection tools like Pangram.",
+   "og_image": "https://janefriedman.com/wp-content/uploads/2026/10/friedman_ai_scandals_end-blogpost.png"
+  },
+  {
+   "title": "Copyright Infringement Lawsuit Against OpenAI Draws More than 50 (Very Illuminating) Amicus Briefs",
+   "url": "https://publishingperspectives.com/2026/11/copyright-infringement-lawsuit-against-openai-draws-more-than-50-very-illuminating-amicus-briefs/",
+   "source": "Publishing Perspectives",
+   "category": "books",
+   "published_iso": "2026-11-03T13:26:59+00:00",
+   "excerpt": "The briefs provide an outstanding resource for understanding the fault lines in the what has become perhaps the most closely watched AI lawsuit in the world, and more importantly, a cogent primer on what's at stake in our AI future.",
+   "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-02-at-10.58.57-PM.png"
+  },
+  {
+   "title": "From AI Adoption to AI Practice: Building Governed AI in Scholarly Publishing",
+   "url": "https://scholarlykitchen.sspnet.org/2026/11/04/from-ai-adoption-to-ai-practice-building-governed-ai-in-scholarly-publishing/",
+   "source": "The Scholarly Kitchen",
+   "category": "books",
+   "published_iso": "2026-11-04T10:30:11+00:00",
+   "excerpt": "How can a publisher make AI useful across the organization while keeping control of confidential information, editorial decisions, and accountability?",
+   "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/venn.jpg"
+  },
+  {
+   "title": "AI is changing book discovery — here's what booksellers can actually do",
+   "url": "https://www.thebookseller.com/comment/ai-changing-book-discovery-what-booksellers-can-do",
+   "source": "The Bookseller",
+   "category": "books",
+   "published_iso": "2026-11-06T08:45:00Z",
+   "excerpt": "When a reader asks ChatGPT, Gemini or Perplexity where to buy a book, make sure they get your answer, writes Simon Young.",
+   "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/684/Bookshop-c-Shutterstock.jpg"
+  },
+  {
+   "title": "Sharjah Translation Award Debate Highlights Limits Of AI In Literary Translation",
+   "url": "https://see.news/sharjah-translation-award-debate-highlights-limits-of-ai-in-literary-translation",
+   "source": "Sada Elbalad English",
+   "category": "books",
+   "published_iso": "2026-11-06T13:21:51+02:00",
+   "excerpt": "Translators, academics and publishers at the Sharjah Translation Award seminar at the 2026 Sharjah International Book Fair said artificial intelligence can accelerate translation and assist with research",
+   "og_image": "https://i2.wp.com/see.news/images/2026/11/sharjah-translation-award-debate-highlights-limits-of-ai-in-literary-translation-1793963996-0.jpg?resize=1080,608&quality=72&strip=all&ssl=1"
+  },
+  {
+   "title": "AI’s role in book publishing raises questions about quality, transparency",
+   "url": "https://www.wlox.com/2026/11/04/ais-role-book-publishing-raises-questions-about-quality-transparency/",
+   "source": "WLOX",
+   "category": "books",
+   "published_iso": "2026-11-04T23:12:13.995Z",
+   "excerpt": "Artificial intelligence is changing how authors write, edit and publish books, but its growing use has some readers questioning the quality of what they're buying and whether authors should disclose when they use it.",
+   "og_image": "https://gray-wlox-prod.gtv-cdn.com/resizer/v2/CC2WPHGAPRCZDD6CTSV4RA4DXI.png?auth=3e01ef3b1985ba3b168298b06ecb29d126cf5b46d3311a5dda57f498b1d50b61&width=1200&height=600&smart=true"
+  },
+  {
+   "title": "플리토, AI 학습용 출판데이터 공급…정제·품질 검증 지원",
+   "url": "https://zdnet.co.kr/view/?no=20261109170434",
+   "source": "ZDNet Korea",
+   "category": "books",
+   "published_iso": "2026-11-09T17:04:34+09:00",
+   "excerpt": "플리토가 출판 저작물을 인공지능(AI) 학습에 활용할 수 있도록 데이터 공급 체계 마련에 나섰다. 플리토는 지난 4일 대한출판문화협회와 AI 학습용 출판데이터 공급·거래 시장 조성을 위한 업무협약을 체결했다고 9일 밝혔다. 협회가 보유한 출판데이터 공급 역량과 플리토 데이터 정제·...",
+   "og_image": "https://image.zdnet.co.kr/2026/11/09/2b121073d396ca3cb7b643a2debfe25c.jpg"
+  },
+  {
+   "title": "텍스트웨이, 독일 프랑크푸르트 도서전서 AI 지식관리 기술 선봬",
+   "url": "https://zdnet.co.kr/view/?no=20261109093124",
+   "source": "ZDNet Korea",
+   "category": "books",
+   "published_iso": "2026-11-09T09:31:24+09:00",
+   "excerpt": "인공지능(AI) 기반 지식관리 솔루션 기업 텍스트웨이가 독일 프랑크푸르트 도서전에 참가해 해외 출판·콘텐츠 기업들과 사업 협력 가능성을 모색했다.텍스트웨이는 경북문화재단 콘텐츠진흥원이 주관하는 ‘콘텐츠 기업 국내·외 판로개척 지원사업’에 선정돼 지난달 독일에서 열린 2026 프랑크푸르트 도...",
+   "og_image": "https://image.zdnet.co.kr/2026/11/09/909784947715c3c1bd73c1416c010514.png"
+  },
+  {
+   "title": "AI와 출판산업, ‘정당한 거래 시장’ 열리면 성장 동반자 될 수 있어 [.txt]",
+   "url": "https://www.hani.co.kr/arti/culture/book/1286039.html",
+   "source": "한겨레",
+   "category": "books",
+   "published_iso": "2026-11-06T05:00:00+09:00",
+   "excerpt": "국내외 출판계에서 최대 관심사는 인공지능(AI) 환경에서의 출판산업 변화 이슈다. 글로벌 출판시장의 핵심 장터인 프랑크푸르트 도서전에서는 개막일인 지난 10월6일에 맞춰 독일출판서점협회가 ‘프랑크푸르트 호소문’을 발표했다. 에이아이 학습에 쓰인 저작물의 공",
+   "og_image": "https://flexible.img.hani.co.kr/flexible/normal/1200/801/imgdb/original/2026/1105/20261105503891.webp"
+  },
+  {
+   "title": "AI로 웹툰 수익 늘리고 제작비 줄인다…키다리·더핑크퐁 수익성 개선 기대",
+   "url": "https://www.hankyung.com/article/202611095127i",
+   "source": "한국경제",
+   "category": "books",
+   "published_iso": "2026-11-09T16:04:54+09:00",
+   "excerpt": "AI로 웹툰 수익 늘리고 제작비 줄인다…키다리·더핑크퐁 수익성 개선 기대, 고송희 기자, 증권",
+   "og_image": "https://img.hankyung.com/photo/202611/02.42308702.1.jpg"
+  },
+  {
+   "title": "예스24, 한영 문장 한 목소리로 읽는다…인공지능 TTS 도입",
+   "url": "https://www.news1.kr/life-culture/book/6348294",
+   "source": "뉴스1",
+   "category": "books",
+   "published_iso": "2026-11-10T06:35:11+09:00",
+   "excerpt": "오디오북 1인당 구매액 69.3% 증가…40대 비중 30.9% 온디바이스 음성합성 적용…AI 보이스 총 8종 제공 예스24가 전자책에서 한국어와 영어가 섞인 문장을 한 목소리로 읽어주는 인공지능 음성변환 기능을 도입했다고 10일 밝혔다.기존 음성낭독은 언어가 바뀔 때 목소리나 …",
+   "og_image": "https://i3n.news1.kr/system/photos/2026/11/9/8205652/high.jpg"
+  },
+  {
+   "title": "\"교사가 쓰고 AI가 그렸다\" 인천시교육청, '상호존중 그림책' 12종 일선 학교 보급",
+   "url": "https://www.cstimes.com/news/articleView.html?idxno=727217",
+   "source": "컨슈머타임스",
+   "category": "books",
+   "published_iso": "2026-11-09T21:24:29+09:00",
+   "excerpt": "컨슈머타임스=안성렬 기자 | 인천시교육청이 교실 내 교육활동을 보호하고 서로를 배려하는 학교문화를 정착시키기 위해 현직 교원들이 직접 집필에 참여한 맞춤형 그림책 12종과 교육 콘텐츠를 일선 학교 현장에 본격 보급한다.이번 배포는 인천시교육청 교육활동보호담당관이 기획한 '그림책 제작 및 학습꾸러미 보급' 사업의 일환으로 이뤄졌다.지난 4월부터 분기별로 '언어·경청·양보·기다림' 등 4대 핵심 덕목을 차례로 다뤘으며 각 주제마다 유아용, 초등학생용, 중·고등학생용 도서를 1종씩 구성해 총 12종의 완성형 시리즈를 갖췄다.도서와 연계해",
+   "og_image": "https://www.cstimes.com/news/photo/202611/727217_648781_2021.jpg"
+  },
+  {
+   "title": "\"AI 때문에 작가와 의뢰인이 서로를 믿지 못하게 됐다\"",
+   "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003282983",
+   "source": "오마이뉴스",
+   "category": "books",
+   "published_iso": "2026-11-09T13:53:00+09:00",
+   "excerpt": "지난해 봄, 휴대전화 메신저 프로필 사진이 한꺼번에 비슷한 그림으로 바뀌었다. 챗GPT의 새 이미지 생성 기능으로 내 사진을 일본 애니메이션 제작사 스튜디오 지브리의 화풍으로 바꾸는 이른바 '지브리 프사' 유행이다. 서비스 시작 일주일 만에",
+   "og_image": "https://ojsfile.ohmynews.com/CT_T_IMG/2026/1109/IE003696118_LT.jpg"
+  },
+  {
+   "title": "\"책 읽고 시험 보면 AI가 채점\"…유원대 독서인증 시스템 개발 '눈길'",
+   "url": "https://www.inews365.com/news/article.html?no=942349",
+   "source": "충북일보",
+   "category": "books",
+   "published_iso": "2026-11-05T13:33:22+09:00",
+   "excerpt": "［충북일보］ 유원대학교 도서관이 생성형 인공지능(AI)을 활용해 독서인증 프로그램을 자체 개발해 눈길을 끌고 있다.  학생들이 책을 읽은 뒤 인증을 신청하고 시험을 치르면 채점부터 인증서 발급까지 한 번에 처리하는 시스템이다.  유원대는 독서인증 프로그램 'U1 BookPass'를 개발해 운영한다고 밝혔다.  이 프로그램은 온라인 신청과 시험 응시, 자동",
+   "og_image": "https://www.inews365.com/data/photos/20261145/art_17938531994511.jpg"
+  },
+  {
+   "title": "Exclusive",
+   "url": "https://nypost.com/2026/11/09/tech/what-happened-when-i-tried-writing-a-book-using-ai/",
+   "source": "New York Post",
+   "category": "books",
+   "published_iso": "2026-11-09T17:31:15+00:00",
+   "excerpt": "Page against the machine.",
+   "og_image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/AIWrittenBooks.jpg?quality=75&strip=all&w=1200"
+  },
+  {
+   "title": "AI photo booth brings literary legends to life at SIBF 2026",
+   "url": "https://sharjah24.ae/en/Articles/2026/11/09/AI-photo-booth-brings-literary-legends-to-life-at-SIBF-2026",
+   "source": "Sharjah24",
+   "category": "books",
+   "published_iso": "2026-11-09T16:05:43Z",
+   "excerpt": "An AI-powered photo booth at SIBF 2026 allows visitors to interact with digital recreations of famous literary figures, including Ahmed Shawqi, Khalil Gibran and Edith Wharton. The free experience ...",
+   "og_image": "https://sharjah24.ae/-/media/Sharjah24/Articles/2026/November-2026/09/AI-photo-booth-brings-literary-legends-to-life-at-SIBF-2026.jpg?20261110020723"
+  },
+  {
+   "title": "Japan initiative aims to protect rights holders in generative AI era",
+   "url": "https://www.asahi.com/ajw/articles/16889120",
+   "source": "The Asahi Shimbun",
+   "category": "books",
+   "published_iso": "2026-11-09T22:00:00Z",
+   "excerpt": "Japan is seeking to bring its anime, manga, music and other cultural properties into the age of generative artificial intelligence on terms set by rights holders.",
+   "og_image": "https://p.potaufeu.asahi.com/ea20-p/picture/31541082/61f58bd68b656de926eb7ac66b22a04e.jpg"
+  }
+ ]
 }

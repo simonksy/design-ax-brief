@@ -9473,6 +9473,158 @@
           "x": "Algunos libreros dudan de que el entrenamiento de AI explique todos los pedidos, ya que entre ellos figuran obras de dominio público como Gulliver's Travels."
         }
       ]
+    },
+    "books/books-wired-paper-trail": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg",
+          "cap": "Photo-Illustration: Wired Staff; Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Mientras la industria editorial lidia con la paranoia sobre la procedencia de los manuscritos, los escritores quedan atrapados en un dilema imposible. En marzo, Hachette canceló la publicación en US de la novela de terror Shy Girl ante afirmaciones de que era en gran parte AI-generated, es decir, generada por AI; su autora, Mia Ballard, ha negado haber usado AI."
+        },
+        {
+          "t": "p",
+          "x": "La novelista Andrea Bartz, demandante principal en la demanda colectiva contra Anthropic, dice que una vez que empiezan las acusaciones el daño ya está hecho: “No hay un estándar consensuado” para demostrar la autoría humana."
+        },
+        {
+          "t": "p",
+          "x": "Plataformas como Workings, Blindproof, Wintertext, Human Ink y ObraVera prometen rastrear y documentar el proceso de escritura de un autor para generar un registro de autoría. Mary Rasenberger, de la Authors Guild, califica de “insultante” y de “carga” tener que guardar esos comprobantes."
+        },
+        {
+          "t": "p",
+          "x": "Las herramientas no son infalibles: el CEO de Pangram, Max Spero, señala que alguien podría teclear a mano un texto de AI, y Brady Ridgway, de ObraVera, dice que su software registra una declaración pero no puede confirmar si es cierta. La experta en edición Jane Friedman duda de que las editoriales adopten cualquier verificación que “cueste dinero extra o tiempo extra”."
+        }
+      ]
+    },
+    "books/books-yes24-ai-tts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i3n.news1.kr/system/photos/2026/11/9/8205652/high.jpg",
+          "cap": "Imagen promocional de la función de lectura por voz con inteligencia artificial 'cambio automático coreano-inglés' de los e-books de YES24. (Cortesía de YES24. Prohibida su reventa y uso en DB) 2026.11.10/News1"
+        },
+        {
+          "t": "p",
+          "x": "YES24 anunció el día 10 que ha incorporado a sus libros electrónicos una función de conversión de voz con inteligencia artificial que lee con una sola voz las frases que mezclan coreano e inglés."
+        },
+        {
+          "t": "p",
+          "x": "La lectura por voz anterior tenía el problema de que la voz o la pronunciación cambiaban al pasar de un idioma a otro. La nueva función procesa el coreano y el inglés con la misma voz AI, lo que reduce los cortes en el cambio de idioma."
+        },
+        {
+          "t": "p",
+          "x": "La tecnología aplica la solución 'SELVAS deepTTS On-Device: Cross-lingual' de Selvas AI. Admite el modo en el dispositivo, en el que la síntesis de voz se realiza dentro del propio equipo del usuario."
+        },
+        {
+          "t": "p",
+          "x": "Del 1 de enero al 30 de octubre de este año, el gasto por persona en audiolibros de YES24 aumentó un 69.3% frente al mismo periodo del año anterior. En octubre, el crecimiento fue del 493.6% respecto al mismo mes del año pasado."
+        },
+        {
+          "t": "p",
+          "x": "Por edades, los compradores de audiolibros se concentraron en la franja de los 40, con un 30.9%, seguida de la de los 30, con un 24.1%, y la de los 50, con un 21.9%. Por géneros, la novela fue la más alta con un 31.5%, seguida de humanidades e historia con un 17.5% y poesía y ensayo con un 8.6%."
+        },
+        {
+          "t": "p",
+          "x": "YES24 lanzó su servicio AI TTS en agosto de 2025. Desde entonces ha añadido funciones como el ajuste de la velocidad de reproducción y del tono, y temporizadores programables por tiempo o por página."
+        },
+        {
+          "t": "p",
+          "x": "Tras una encuesta de preferencias realizada del 26 de agosto al 25 de septiembre de este año, en la que participaron unos 4000 socios, añadió 2 voces AI. Actualmente ofrece 8 voces AI en total."
+        },
+        {
+          "t": "p",
+          "x": "Lee Jin-gu, director de la división de negocio digital de YES24, espera que la nueva función amplíe los usos del libro electrónico, como el aprendizaje de idiomas. Para celebrar el lanzamiento, organiza una prueba de escucha de libros recomendados y un concurso para adivinar títulos en inglés."
+        }
+      ]
+    },
+    "books/books-japan-ip-genai-terms": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://p.potaufeu.asahi.com/ea20-p/picture/31541082/61f58bd68b656de926eb7ac66b22a04e.jpg",
+          "cap": "Desde la izquierda: Takami Kondo, director representante de la Japan IP.AI Co-Creation Association; el letrista Yasushi Akimoto, y el editor y productor Motoi Chujo hablan en un acto posterior a la rueda de prensa en la que se anunció la creación de la asociación, en el distrito de Shibuya, Tokio, el 11 de septiembre. (Ryo Jozuka)"
+        },
+        {
+          "t": "p",
+          "x": "Japón busca llevar su anime, su manga, su música y otros bienes culturales a la era de la inteligencia artificial generativa en condiciones fijadas por los titulares de derechos."
+        },
+        {
+          "t": "p",
+          "x": "La recién creada Japan IP.AI Co-Creation Association anunció un marco en el que los creadores y otros titulares de derechos pueden especificar de antemano cómo puede usar la AI sus obras, y los ingresos por el uso autorizado vuelven a ellos. El uso queda registrado y las empresas de AI distribuyen los pagos a los titulares de derechos."
+        },
+        {
+          "t": "p",
+          "x": "Nueve empresas extranjeras AI-related, es decir, vinculadas a la AI, entre ellas Alibaba Group y Canva, han respaldado las directrices, al igual que los titulares de derechos de “Captain Tsubasa” y la oficina del letrista Yasushi Akimoto. “Queremos crear un nuevo estándar mundial, y hacerlo desde Japón”, dijo el director representante Takami Kondo."
+        },
+        {
+          "t": "p",
+          "x": "La empresa china de AI generativa MiniMax Group adoptará el sistema a partir de este otoño, y la filial japonesa de ByteDance está en conversaciones. La asociación planea acercarse a Google y OpenAI."
+        }
+      ]
+    },
+    "books/books-flitto-kpa-data": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Flitto ha comenzado a crear un sistema de suministro de datos para que las obras publicadas puedan usarse en el entrenamiento de inteligencia artificial (AI)."
+        },
+        {
+          "t": "p",
+          "x": "Flitto anunció el día 9 que el día 4 firmó un acuerdo de colaboración con la Asociación Coreana de Editores para crear un mercado de suministro y comercio de datos editoriales para entrenar AI. El núcleo del acuerdo es combinar la capacidad de la asociación para suministrar datos editoriales con la tecnología de depuración y procesamiento de datos de Flitto."
+        },
+        {
+          "t": "p",
+          "x": "Las condiciones de suministro de los datos editoriales y la firma de contratos individuales se decidirán con el consentimiento previo de los titulares de los derechos de autor y de edición de cada obra. El alcance concreto del negocio, los procedimientos y la contraprestación se fijarán en futuros contratos por proyecto."
+        },
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/11/09/2b121073d396ca3cb7b643a2debfe25c.jpg",
+          "cap": "Kim Jin-gu, director de datos de Flitto (derecha), y Kim Tae-heon, presidente de la Asociación Coreana de Editores, posan para una foto en la ceremonia de firma del acuerdo celebrada el día 4 en el auditorio de la asociación, en el distrito de Jongno. (Foto=Flitto)"
+        },
+        {
+          "t": "p",
+          "x": "Flitto aporta tecnología para procesar los datos editoriales en un formato apto para el entrenamiento de AI y verificar su calidad. También ofrece infraestructura informática y un entorno de seguridad para que los datos se traten de forma segura."
+        },
+        {
+          "t": "p",
+          "x": "La Asociación Coreana de Editores hará de ventanilla para negociar con las editoriales y suministrar datos a los demandantes. La asociación gestiona de forma independiente el sistema de recopilación y administración de datos editoriales."
+        },
+        {
+          "t": "p",
+          "x": "Ambas partes planean encontrar demandantes que utilicen datos editoriales y dinamizar las transacciones. También buscarán participar conjuntamente en proyectos de datos de AI impulsados por el Gobierno y organismos públicos."
+        },
+        {
+          "t": "p",
+          "x": "Lee Jung-soo, director ejecutivo de Flitto, afirmó: \"Con nuestra avanzada tecnología de datos, contribuiremos activamente a establecer una infraestructura nacional de datos de AI sana en la que los titulares de derechos de autor y la industria de la AI crezcan juntos\"."
+        }
+      ]
+    },
+    "books/vellum-automation-rollback": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Vellum, la aplicación de maquetación de libros para Mac que usan miles de autores independientes, ha revertido su decisión de integrar funciones de automatización con AI tras una ola de críticas de sus usuarios. El equipo de desarrollo de tres personas detrás del software retiró la función en la versión 4.2.1, apenas unos días después de presentarla."
+        },
+        {
+          "t": "p",
+          "x": "La función Automation se diseñó para que los autores conectaran asistentes de AI externos a la plataforma, con el fin de ayudar a quienes tienen amplios catálogos a gestionar tareas editoriales repetitivas, como actualizar las páginas finales, hacer correcciones en varios libros a la vez y crear colecciones en estuche. Los desarrolladores dejaron claro que no pretendía fomentar la escritura AI-generated."
+        },
+        {
+          "t": "p",
+          "x": "La respuesta de la comunidad de autores fue inmediata y negativa. «Hemos leído sus correos, sus publicaciones en Threads y una infinidad de emojis», escribió el equipo en un correo a los usuarios firmado por sus tres empleados: Brad, Brad y Katharine. «Sabíamos que muchos autores tenían reservas sobre la AI, y por eso decidimos no incorporar AI en Vellum… Pero subestimamos con cuánta fuerza muchos de ustedes se opondrían a que Vellum funcionara con asistentes de AI en absoluto.»"
+        },
+        {
+          "t": "p",
+          "x": "Con la versión 4.2.1, Automation se ha eliminado por completo del software. El equipo reconoció que la decisión no satisfaría a todos: algunos autores se oponían de raíz a cualquier integración de AI, mientras que otros la habían recibido con entusiasmo. «Creemos que eliminarla es la mejor decisión que podemos tomar», afirmó el equipo."
+        },
+        {
+          "t": "p",
+          "x": "Vellum es una herramienta exclusiva para Mac que permite crear libros electrónicos y ediciones impresas para Kindle, Kobo y Apple Books. Vellum Press cuesta $390 y Vellum Ebooks, $310."
+        }
+      ]
     }
   }
 }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "section": "movies",
   "cards": [
     {
-      "id": "nolan-dga-ai-studios",
+      "id": "disney-adobe-firefly-foundry",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "놀런, AI 다음 단계\n스튜디오에 달렸다",
-      "body": "놀런은 DGA·AMPTP의 AI 안전장치를 호평하고 다음은 스튜디오 몫이라 했다.",
-      "mini_headline": "놀런 “AI는 이제 스튜디오 몫”",
+      "headline": "Disney, Adobe와\nIP 학습 AI 모델 개발",
+      "body": "Adobe가 Disney와 함께 IP 기반 AI 모델과 스케치 도구를 만든다.",
+      "mini_headline": "Disney, AI 파트너로 Adobe 낙점",
       "tool": "Movies",
-      "source": "TheWrap",
-      "url": "https://www.thewrap.com/creative-content/movies/christopher-nolan-previews-dgas-next-phase-of-ai-protections-its-down-to-the-studios/",
+      "source": "Cartoon Brew",
+      "url": "https://www.cartoonbrew.com/artificial-intelligence/disney-adobe-generative-ai-partnership-269226.html",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,385 +19,305 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Christopher-Nolan-speaking.jpg",
-            "cap": "로스앤젤레스 DGA Theater Complex 무대에서 발언하는 크리스토퍼 놀런. (Credit: Vivien Killilea/Getty Images)"
+            "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
+            "cap": "Princess and the Frog"
           },
           {
             "t": "p",
-            "x": "크리스토퍼 놀런은 영화·TV 제작에서 AI에 맞서 “훌륭한 문구와 안전장치”를 협상해 낸 미국감독조합(Directors Guild of America, DGA)과 AMPTP를 높이 평가했다. 다만 AI와 싸우는 다음 고비는 온전히 스튜디오가 짊어져야 한다고 했다."
+            "x": "Disney가 다음 대형 AI 파트너를 정했다. 이번엔 Adobe다. 다년 제휴를 맺고 사업 전반의 창작 파이프라인에 맞춤형 생성형 AI 모델을 들여온다. 손으로 그린 스케치를 완성도 높은 렌더링 콘셉트 아트로 바꾸는 도구도 여기 들어간다."
           },
           {
             "t": "p",
-            "x": "“조합은 스튜디오가 자기 저작권을 지키도록 책임을 묻는 데 집중하고 있습니다. 우리가 할 수 있는 일이 아니니까요.” 2025년 가을부터 DGA 회장을 맡은 놀런이 “Hollywood Insiders” 팟캐스트에서 한 말이다. “조합에서는 극소수의 예외를 빼면 우리가 작업한 영화의 저작권자가 아닙니다. 그 일은 스튜디오의 몫입니다.”"
+            "x": "계약으로 Adobe는 Disney의 공식 ‘AI Innovation Partner’가 되고 Firefly, Firefly Foundry, Premiere, Photoshop과 전담 엔지니어링 인력을 댄다. 두 회사는 Disney IP로 학습한 맞춤형 AI 모델을 함께 개발해 “상업적으로 안전하고 제작에 바로 쓸 수 있는 결과물을 생성”할 계획이다."
           },
           {
             "t": "p",
-            "x": "그는 “AI는 너무 포괄적인 용어”라고 했다. 기업들이 이 말을 앞세워 책임을 피하지만, 공정 이용 조항 뒤에 숨는 방식은 길게 보면 “법정에서 버티지 못할 것”이라는 얘기다."
+            "x": "작업은 이미 시작됐다. Walt Disney Imagineering은 Firefly Foundry로 사람이 그린 그림에서 2D 콘셉트 아트를 만들고, 테마파크 개발에 쓸 IP-based 그래픽을 제작한다. Adobe는 Disney의 StudioLAB과 실험적 제작 워크플로를, ESPN Edge와는 AI-powered 스포츠 콘텐츠를 함께 개발한다."
           },
           {
             "t": "p",
-            "x": "놀런은 Universal이 《오디세이》(The Odyssey) 크레디트에 이 영화를 생성형 AI 모델의 학습 데이터로 수집·스크래핑·사용할 수 없다는 정형 문구를 “처음으로” 넣은 데서 힘을 얻었다고 했다."
-          },
-          {
-            "t": "video",
-            "yt": "2rSkej6t_Eo"
-          },
-          {
-            "t": "p",
-            "x": "“우리에게는 소송과 입법을 향해 끊임없이 밀고 나가는 일입니다.” 그는 이어 “결국 남의 작품을 훔쳐 다른 용도로 쓰지 못하게 하는 것이 핵심입니다”라고 말했다."
+            "x": "Disney로서는 Sora 서비스 종료로 $1 billion 규모 OpenAI 투자가 무산되고 전 Character.AI CEO Karandeep Anand를 첫 최고기술책임자로 영입한 데 이은 행보다. Adobe와 맺은 계약의 금액 조건은 공개되지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Nolan says next AI phase\nis down to the studios",
-          "body": "Christopher Nolan praised the DGA and AMPTP's AI guardrails and said the next phase is down to the studios.",
-          "mini_headline": "Nolan: AI now\nup to the studios",
+          "headline": "Disney taps Adobe to build\nAI models trained on its IP",
+          "body": "Adobe will help Disney build bespoke AI models on its IP, including tools that turn sketches into concept art.",
+          "mini_headline": "Disney picks Adobe for AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Christopher-Nolan-speaking.jpg",
-                "cap": "Christopher Nolan speaks onstage at the DGA Theater Complex in Los Angeles. (Credit: Vivien Killilea/Getty Images)"
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
+                "cap": "Princess and the Frog"
               },
               {
                 "t": "p",
-                "x": "Christopher Nolan applauded the Directors Guild of America (DGA) and the AMPTP for negotiating “excellent language and guardrails” against AI in film and TV production, but said the next hurdle in the fight against AI falls squarely on the studios’ shoulders."
+                "x": "Disney has lined up its next big AI partner, this time teaming with Adobe on a multi-year alliance to bring customized generative AI models into its creative pipelines across its businesses, including tools that will transform hand-drawn sketches into fully rendered concept art."
               },
               {
                 "t": "p",
-                "x": "“We’re very focused at the guild about holding the studios to account for protecting their copyrights. We can’t do that,” Nolan, DGA president since fall 2025, said on the “Hollywood Insiders” podcast. “With very few exceptions in the guild, we are not the copyright holders of the films that we’ve worked on. It’s down to the studios to do that.”"
+                "x": "Under the terms of the agreement, Adobe will be Disney’s official “AI Innovation Partner” and will give the company access to Firefly, Firefly Foundry, Premiere, Photoshop, and dedicated engineering resources. Together, the companies will develop bespoke AI models trained on Disney IP to “generate commercially safe and production-ready outputs.”"
               },
               {
                 "t": "p",
-                "x": "“AI is too big a catchall term,” he said, adding that companies use it to absolve themselves of responsibility and that hiding behind fair use provisions “won’t hold up in court” longer term."
+                "x": "The work is already underway, with Walt Disney Imagineering using Firefly Foundry to generate 2D concept art from human-made drawings and create IP-based graphics for its parks development. Adobe will also work with Disney’s StudioLAB on experimental production workflows and ESPN Edge on AI-powered sports content."
               },
               {
                 "t": "p",
-                "x": "Nolan said he was heartened that Universal included, “for the first time,” boilerplate in the credits of “The Odyssey” stating the film cannot be ingested, scraped or used as training data for generative AI models."
-              },
-              {
-                "t": "video",
-                "yt": "2rSkej6t_Eo"
-              },
-              {
-                "t": "p",
-                "x": "“For us, it’s a constant push towards litigation and legislation,” he said. “It’s really about not allowing people to steal your work and repurpose it.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Nolan「AI次の段階は\nスタジオ次第」",
-          "body": "NolanはDGAとAMPTPのAIガードレールを評価し、次の段階はスタジオ次第だと述べた。",
-          "mini_headline": "Nolan：AIは今や\nスタジオ次第",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Christopher-Nolan-speaking.jpg",
-                "cap": "ロサンゼルスのDGA Theater Complexで登壇するChristopher Nolan。(Credit: Vivien Killilea/Getty Images)"
-              },
-              {
-                "t": "p",
-                "x": "Christopher Nolanは、映画・TV制作におけるAIをめぐって「優れた文言とガードレール」を交渉で勝ち取ったDirectors Guild of America(DGA)とAMPTPを称賛した。一方で、AIとの闘いにおける次のハードルは完全にスタジオの肩にかかっていると述べた。"
-              },
-              {
-                "t": "p",
-                "x": "「ギルドでは、スタジオに自らの著作権を守る責任を果たさせることに強く注力している。我々にはそれができないからだ」。2025年秋からDGA会長を務めるNolanは、ポッドキャスト「Hollywood Insiders」でこう語った。「ギルドのごく一部の例外を除き、我々は自分が手がけた映画の著作権者ではない。それをするのはスタジオだ」"
-              },
-              {
-                "t": "p",
-                "x": "「AIはあまりにも大雑把な総称だ」と彼は述べ、企業がこの言葉を使って責任を逃れていること、フェアユース条項の陰に隠れるやり方は長期的には「法廷で通用しない」ことを付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "Nolanは、Universalが「初めて」『The Odyssey』のクレジットに、本作を生成AIモデルの学習データとして取り込み、スクレイピングし、利用することはできないとする定型文を入れたことに勇気づけられたと語った。"
-              },
-              {
-                "t": "video",
-                "yt": "2rSkej6t_Eo"
-              },
-              {
-                "t": "p",
-                "x": "「我々にとっては、訴訟と立法に向けた絶え間ない働きかけだ」と彼は言う。「要は、他人に作品を盗まれ、別の用途に転用されるのを許さないということだ」"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Nolan：AI下一阶段\n要看各大制片厂",
-          "body": "Christopher Nolan肯定DGA与AMPTP的AI护栏，并称下一阶段要看制片厂。",
-          "mini_headline": "Nolan：AI如今\n看制片厂",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Christopher-Nolan-speaking.jpg",
-                "cap": "Christopher Nolan在洛杉矶DGA Theater Complex台上发言。(Credit: Vivien Killilea/Getty Images)"
-              },
-              {
-                "t": "p",
-                "x": "Christopher Nolan称赞Directors Guild of America(DGA)与AMPTP在电影和TV制作中就AI谈出了“出色的条款和护栏”，但他表示，对抗AI的下一道关卡完全落在制片厂肩上。"
-              },
-              {
-                "t": "p",
-                "x": "“我们在公会非常专注于督促制片厂为保护自己的版权负起责任。这件事我们做不到。”自2025年秋起担任DGA主席的Nolan在“Hollywood Insiders”播客中说，“除极少数例外，公会成员并不是自己参与制作的电影的版权持有人。这要靠制片厂来做。”"
-              },
-              {
-                "t": "p",
-                "x": "“AI这个词涵盖得太宽泛了。”他说，并补充称企业借此推卸责任，而躲在合理使用条款背后的做法长远来看“在法庭上站不住脚”。"
-              },
-              {
-                "t": "p",
-                "x": "Nolan表示，Universal“首次”在《The Odyssey》的片尾字幕中加入标准声明，注明该片不得被摄取、抓取或用作生成式AI模型的训练数据，这让他深受鼓舞。"
-              },
-              {
-                "t": "video",
-                "yt": "2rSkej6t_Eo"
-              },
-              {
-                "t": "p",
-                "x": "“对我们来说，这是一场不断推动诉讼与立法的努力。”他说，“说到底，就是不让别人偷走你的作品并改作他用。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Nolan: la próxima fase de la AI\ndepende de los estudios",
-          "body": "Christopher Nolan elogió las salvaguardas de AI del DGA y la AMPTP y dijo que la próxima fase depende de los estudios.",
-          "mini_headline": "Nolan: la AI ahora\ndepende de los estudios",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Christopher-Nolan-speaking.jpg",
-                "cap": "Christopher Nolan habla en el escenario del DGA Theater Complex en Los Ángeles. (Credit: Vivien Killilea/Getty Images)"
-              },
-              {
-                "t": "p",
-                "x": "Christopher Nolan aplaudió al Directors Guild of America (DGA) y a la AMPTP por negociar “un lenguaje y unas salvaguardas excelentes” frente a la AI en la producción de cine y TV, pero afirmó que el siguiente obstáculo en la lucha contra la AI recae de lleno sobre los hombros de los estudios."
-              },
-              {
-                "t": "p",
-                "x": "“En el sindicato estamos muy centrados en exigir a los estudios que respondan por la protección de sus derechos de autor. Nosotros no podemos hacerlo”, dijo Nolan, presidente del DGA desde el otoño de 2025, en el pódcast “Hollywood Insiders”. “Salvo muy pocas excepciones en el sindicato, no somos los titulares de los derechos de autor de las películas en las que hemos trabajado. Eso les corresponde a los estudios”."
-              },
-              {
-                "t": "p",
-                "x": "“AI es un término demasiado genérico”, dijo, y añadió que las empresas lo usan para eximirse de responsabilidad y que escudarse en las disposiciones de uso legítimo “no se sostendrá en los tribunales” a largo plazo."
-              },
-              {
-                "t": "p",
-                "x": "Nolan dijo sentirse alentado porque Universal incluyó, “por primera vez”, en los créditos de “The Odyssey” un texto estándar que establece que la película no puede ser ingerida, extraída mediante scraping ni utilizada como datos de entrenamiento para modelos de AI generativa."
-              },
-              {
-                "t": "video",
-                "yt": "2rSkej6t_Eo"
-              },
-              {
-                "t": "p",
-                "x": "“Para nosotros es un impulso constante hacia el litigio y la legislación”, dijo. “Se trata, en realidad, de no permitir que la gente robe tu trabajo y le dé otro uso”."
+                "x": "The deal follows Disney’s $1 billion OpenAI investment, which collapsed when Sora was shut down, and its hiring of former Character.AI CEO Karandeep Anand as its first chief technology officer. Financial terms of the Adobe deal have not been made public."
               }
             ]
           }
         },
         "ko": {
-          "headline": "놀런, AI 다음 단계\n스튜디오에 달렸다",
-          "body": "놀런은 DGA·AMPTP의 AI 안전장치를 호평하고 다음은 스튜디오 몫이라 했다.",
-          "mini_headline": "놀런 “AI는 이제 스튜디오 몫”",
+          "headline": "Disney, Adobe와\nIP 학습 AI 모델 개발",
+          "body": "Adobe가 Disney와 함께 IP 기반 AI 모델과 스케치 도구를 만든다.",
+          "mini_headline": "Disney, AI 파트너로 Adobe 낙점",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Christopher-Nolan-speaking.jpg",
-                "cap": "로스앤젤레스 DGA Theater Complex 무대에서 발언하는 크리스토퍼 놀런. (Credit: Vivien Killilea/Getty Images)"
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
+                "cap": "Princess and the Frog"
               },
               {
                 "t": "p",
-                "x": "크리스토퍼 놀런은 영화·TV 제작에서 AI에 맞서 “훌륭한 문구와 안전장치”를 협상해 낸 미국감독조합(Directors Guild of America, DGA)과 AMPTP를 높이 평가했다. 다만 AI와 싸우는 다음 고비는 온전히 스튜디오가 짊어져야 한다고 했다."
+                "x": "Disney가 다음 대형 AI 파트너를 정했다. 이번엔 Adobe다. 다년 제휴를 맺고 사업 전반의 창작 파이프라인에 맞춤형 생성형 AI 모델을 들여온다. 손으로 그린 스케치를 완성도 높은 렌더링 콘셉트 아트로 바꾸는 도구도 여기 들어간다."
               },
               {
                 "t": "p",
-                "x": "“조합은 스튜디오가 자기 저작권을 지키도록 책임을 묻는 데 집중하고 있습니다. 우리가 할 수 있는 일이 아니니까요.” 2025년 가을부터 DGA 회장을 맡은 놀런이 “Hollywood Insiders” 팟캐스트에서 한 말이다. “조합에서는 극소수의 예외를 빼면 우리가 작업한 영화의 저작권자가 아닙니다. 그 일은 스튜디오의 몫입니다.”"
+                "x": "계약으로 Adobe는 Disney의 공식 ‘AI Innovation Partner’가 되고 Firefly, Firefly Foundry, Premiere, Photoshop과 전담 엔지니어링 인력을 댄다. 두 회사는 Disney IP로 학습한 맞춤형 AI 모델을 함께 개발해 “상업적으로 안전하고 제작에 바로 쓸 수 있는 결과물을 생성”할 계획이다."
               },
               {
                 "t": "p",
-                "x": "그는 “AI는 너무 포괄적인 용어”라고 했다. 기업들이 이 말을 앞세워 책임을 피하지만, 공정 이용 조항 뒤에 숨는 방식은 길게 보면 “법정에서 버티지 못할 것”이라는 얘기다."
+                "x": "작업은 이미 시작됐다. Walt Disney Imagineering은 Firefly Foundry로 사람이 그린 그림에서 2D 콘셉트 아트를 만들고, 테마파크 개발에 쓸 IP-based 그래픽을 제작한다. Adobe는 Disney의 StudioLAB과 실험적 제작 워크플로를, ESPN Edge와는 AI-powered 스포츠 콘텐츠를 함께 개발한다."
               },
               {
                 "t": "p",
-                "x": "놀런은 Universal이 《오디세이》(The Odyssey) 크레디트에 이 영화를 생성형 AI 모델의 학습 데이터로 수집·스크래핑·사용할 수 없다는 정형 문구를 “처음으로” 넣은 데서 힘을 얻었다고 했다."
-              },
+                "x": "Disney로서는 Sora 서비스 종료로 $1 billion 규모 OpenAI 투자가 무산되고 전 Character.AI CEO Karandeep Anand를 첫 최고기술책임자로 영입한 데 이은 행보다. Adobe와 맺은 계약의 금액 조건은 공개되지 않았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Disney、Adobeと\nIP学習のAIモデル開発",
+          "body": "AdobeはDisneyのIPを使う専用AIモデルと、スケッチ変換ツールの開発を支援する。",
+          "mini_headline": "Disney、AIでAdobeと組む",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
-                "t": "video",
-                "yt": "2rSkej6t_Eo"
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
+                "cap": "Princess and the Frog"
               },
               {
                 "t": "p",
-                "x": "“우리에게는 소송과 입법을 향해 끊임없이 밀고 나가는 일입니다.” 그는 이어 “결국 남의 작품을 훔쳐 다른 용도로 쓰지 못하게 하는 것이 핵심입니다”라고 말했다."
+                "x": "Disneyが次の大型AIパートナーを決めた。今回はAdobeと複数年の提携を結び、事業全体のクリエイティブ・パイプラインにカスタマイズした生成AIモデルを導入する。手描きのスケッチを完成度の高いレンダリング済みコンセプトアートに変えるツールも含まれる。"
+              },
+              {
+                "t": "p",
+                "x": "契約により、AdobeはDisneyの公式「AI Innovation Partner」となり、Firefly、Firefly Foundry、Premiere、Photoshopと専任のエンジニアリング人員を提供する。両社はDisney IPで学習した専用AIモデルを共同開発し、「商業的に安全で、そのまま制作に使える出力を生成する」としている。"
+              },
+              {
+                "t": "p",
+                "x": "作業はすでに始まっている。Walt Disney ImagineeringはFirefly Foundryを使い、人が描いた絵から2D コンセプトアートを生成し、パーク開発向けにIP-based のグラフィックを制作している。AdobeはDisneyのStudioLABと実験的な制作ワークフローに、ESPN EdgeとAI-powered のスポーツコンテンツに取り組む。"
+              },
+              {
+                "t": "p",
+                "x": "今回の提携は、Soraの終了で頓挫したDisneyによるOpenAIへの$1 billion の投資、そして元Character.AI CEOのKarandeep Anandを初の最高技術責任者に迎えた人事に続くものだ。Adobeとの契約の金銭的条件は公表されていない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Disney携手Adobe\n用IP训练AI模型",
+          "body": "Adobe将帮助Disney基于其IP打造定制AI模型，包括把草图转为概念图的工具。",
+          "mini_headline": "Disney选中Adobe做AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
+                "cap": "Princess and the Frog"
+              },
+              {
+                "t": "p",
+                "x": "Disney敲定了下一个重要AI合作伙伴，这次与Adobe结成多年联盟，将定制生成式AI模型引入旗下各业务的创作流程，其中包括能把手绘草图变成完整渲染概念图的工具。"
+              },
+              {
+                "t": "p",
+                "x": "根据协议，Adobe将成为Disney官方“AI Innovation Partner”，并向其开放Firefly、Firefly Foundry、Premiere、Photoshop以及专属工程资源。双方将共同开发以Disney IP训练的定制AI模型，以“生成商业上安全、可直接用于制作的成果”。"
+              },
+              {
+                "t": "p",
+                "x": "相关工作已经展开：Walt Disney Imagineering正用Firefly Foundry根据人工绘制的图稿生成2D 概念图，并为乐园开发制作IP-based 图形。Adobe还将与Disney的StudioLAB合作探索实验性制作流程，并与ESPN Edge合作开发AI-powered 体育内容。"
+              },
+              {
+                "t": "p",
+                "x": "此前，Disney曾向OpenAI投资$1 billion ，但随着Sora关停而告吹；Disney还聘请前Character.AI CEO Karandeep Anand出任首位首席技术官。与Adobe合作的财务条款尚未公开。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Disney recurre a Adobe para\ncrear modelos de AI con su IP",
+          "body": "Adobe ayudará a Disney a crear modelos de AI con su IP, incluidas herramientas que pasan bocetos a arte conceptual.",
+          "mini_headline": "Disney elige a Adobe para AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
+                "cap": "Princess and the Frog"
+              },
+              {
+                "t": "p",
+                "x": "Disney ha cerrado su próxima gran alianza en AI, esta vez con Adobe: un acuerdo plurianual para llevar modelos de AI generativa personalizados a sus procesos creativos en todos sus negocios, incluidas herramientas que transformarán bocetos dibujados a mano en arte conceptual totalmente renderizado."
+              },
+              {
+                "t": "p",
+                "x": "Según los términos del acuerdo, Adobe será el “AI Innovation Partner” oficial de Disney y dará a la compañía acceso a Firefly, Firefly Foundry, Premiere, Photoshop y recursos de ingeniería dedicados. Juntas, las empresas desarrollarán modelos de AI a medida entrenados con la IP de Disney para “generar resultados comercialmente seguros y listos para producción”."
+              },
+              {
+                "t": "p",
+                "x": "El trabajo ya está en marcha: Walt Disney Imagineering usa Firefly Foundry para generar arte conceptual 2D a partir de dibujos hechos por personas y crear gráficos IP-based para el desarrollo de sus parques. Adobe también trabajará con StudioLAB de Disney en flujos de producción experimentales y con ESPN Edge en contenido deportivo AI-powered."
+              },
+              {
+                "t": "p",
+                "x": "El acuerdo llega después de la inversión de $1 billion de Disney en OpenAI, que se vino abajo cuando se cerró Sora, y de la contratación del ex CEO de Character.AI Karandeep Anand como su primer director de tecnología. Los términos financieros del acuerdo con Adobe no se han hecho públicos."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ja": {
-          "headline": "Nolan「AI次の段階は\nスタジオ次第」",
-          "body": "NolanはDGAとAMPTPのAIガードレールを評価し、次の段階はスタジオ次第だと述べた。",
-          "mini_headline": "Nolan：AIは今や\nスタジオ次第",
+        "ko": {
+          "headline": "Disney, Adobe와\nIP 학습 AI 모델 개발",
+          "body": "Adobe가 Disney와 IP 기반 AI 모델과 스케치 변환 도구를 만든다.",
+          "mini_headline": "Disney, AI 파트너로 Adobe 낙점",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Christopher-Nolan-speaking.jpg",
-                "cap": "ロサンゼルスのDGA Theater Complexで登壇するChristopher Nolan。(Credit: Vivien Killilea/Getty Images)"
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
+                "cap": "Princess and the Frog"
               },
               {
                 "t": "p",
-                "x": "Christopher Nolanは、映画・TV制作におけるAIをめぐって「優れた文言とガードレール」を交渉で勝ち取ったDirectors Guild of America(DGA)とAMPTPを称賛した。一方で、AIとの闘いにおける次のハードルは完全にスタジオの肩にかかっていると述べた。"
+                "x": "Disney가 다음 대형 AI 파트너를 정했다. 이번에는 Adobe와 다년 제휴를 맺고 사업 전반의 창작 파이프라인에 맞춤형 생성형 AI 모델을 들여오며, 여기에는 손으로 그린 스케치를 완성도 높은 렌더링 콘셉트 아트로 바꾸는 도구도 포함된다."
               },
               {
                 "t": "p",
-                "x": "「ギルドでは、スタジオに自らの著作権を守る責任を果たさせることに強く注力している。我々にはそれができないからだ」。2025年秋からDGA会長を務めるNolanは、ポッドキャスト「Hollywood Insiders」でこう語った。「ギルドのごく一部の例外を除き、我々は自分が手がけた映画の著作権者ではない。それをするのはスタジオだ」"
+                "x": "계약에 따라 Adobe는 Disney의 공식 ‘AI Innovation Partner’가 되며 Firefly, Firefly Foundry, Premiere, Photoshop과 전담 엔지니어링 인력을 제공한다. 두 회사는 Disney IP로 학습한 맞춤형 AI 모델을 함께 개발해 “상업적으로 안전하고 제작에 바로 쓸 수 있는 결과물을 생성”할 계획이다."
               },
               {
                 "t": "p",
-                "x": "「AIはあまりにも大雑把な総称だ」と彼は述べ、企業がこの言葉を使って責任を逃れていること、フェアユース条項の陰に隠れるやり方は長期的には「法廷で通用しない」ことを付け加えた。"
+                "x": "작업은 이미 시작됐다. Walt Disney Imagineering은 Firefly Foundry로 사람이 그린 그림에서 2D 콘셉트 아트를 만들고, 테마파크 개발에 쓸 IP-based 그래픽을 제작하고 있다. Adobe는 Disney의 StudioLAB과 실험적 제작 워크플로를, ESPN Edge와는 AI-powered 스포츠 콘텐츠를 함께 개발한다."
               },
               {
                 "t": "p",
-                "x": "Nolanは、Universalが「初めて」『The Odyssey』のクレジットに、本作を生成AIモデルの学習データとして取り込み、スクレイピングし、利用することはできないとする定型文を入れたことに勇気づけられたと語った。"
-              },
+                "x": "이번 제휴는 Sora 서비스 종료로 무산된 Disney의 $1 billion 규모 OpenAI 투자, 그리고 전 Character.AI CEO Karandeep Anand를 첫 최고기술책임자로 영입한 데 이은 것이다. Adobe와의 계약 금액 조건은 공개되지 않았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Disney、Adobeと\nIP学習のAIモデル開発",
+          "body": "AdobeはDisneyのIPを使う専用AIモデルと、スケッチ変換ツールの開発を支援する。",
+          "mini_headline": "Disney、AIでAdobeと組む",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
-                "t": "video",
-                "yt": "2rSkej6t_Eo"
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
+                "cap": "Princess and the Frog"
               },
               {
                 "t": "p",
-                "x": "「我々にとっては、訴訟と立法に向けた絶え間ない働きかけだ」と彼は言う。「要は、他人に作品を盗まれ、別の用途に転用されるのを許さないということだ」"
+                "x": "Disneyが次の大型AIパートナーを決めた。今回はAdobeと複数年の提携を結び、事業全体のクリエイティブ・パイプラインにカスタマイズした生成AIモデルを導入する。手描きのスケッチを完成度の高いレンダリング済みコンセプトアートに変えるツールも含まれる。"
+              },
+              {
+                "t": "p",
+                "x": "契約により、AdobeはDisneyの公式「AI Innovation Partner」となり、Firefly、Firefly Foundry、Premiere、Photoshopと専任のエンジニアリング人員を提供する。両社はDisney IPで学習した専用AIモデルを共同開発し、「商業的に安全で、そのまま制作に使える出力を生成する」としている。"
+              },
+              {
+                "t": "p",
+                "x": "作業はすでに始まっている。Walt Disney ImagineeringはFirefly Foundryを使い、人が描いた絵から2D コンセプトアートを生成し、パーク開発向けにIP-based のグラフィックを制作している。AdobeはDisneyのStudioLABと実験的な制作ワークフローに、ESPN EdgeとAI-powered のスポーツコンテンツに取り組む。"
+              },
+              {
+                "t": "p",
+                "x": "今回の提携は、Soraの終了で頓挫したDisneyによるOpenAIへの$1 billion の投資、そして元Character.AI CEOのKarandeep Anandを初の最高技術責任者に迎えた人事に続くものだ。Adobeとの契約の金銭的条件は公表されていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nolan：AI下一阶段\n要看各大制片厂",
-          "body": "Christopher Nolan肯定DGA与AMPTP的AI护栏，并称下一阶段要看制片厂。",
-          "mini_headline": "Nolan：AI如今\n看制片厂",
+          "headline": "Disney携手Adobe\n用IP训练AI模型",
+          "body": "Adobe将帮助Disney基于其IP打造定制AI模型，包括把草图转为概念图的工具。",
+          "mini_headline": "Disney选中Adobe做AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Christopher-Nolan-speaking.jpg",
-                "cap": "Christopher Nolan在洛杉矶DGA Theater Complex台上发言。(Credit: Vivien Killilea/Getty Images)"
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
+                "cap": "Princess and the Frog"
               },
               {
                 "t": "p",
-                "x": "Christopher Nolan称赞Directors Guild of America(DGA)与AMPTP在电影和TV制作中就AI谈出了“出色的条款和护栏”，但他表示，对抗AI的下一道关卡完全落在制片厂肩上。"
+                "x": "Disney敲定了下一个重要AI合作伙伴，这次与Adobe结成多年联盟，将定制生成式AI模型引入旗下各业务的创作流程，其中包括能把手绘草图变成完整渲染概念图的工具。"
               },
               {
                 "t": "p",
-                "x": "“我们在公会非常专注于督促制片厂为保护自己的版权负起责任。这件事我们做不到。”自2025年秋起担任DGA主席的Nolan在“Hollywood Insiders”播客中说，“除极少数例外，公会成员并不是自己参与制作的电影的版权持有人。这要靠制片厂来做。”"
+                "x": "根据协议，Adobe将成为Disney官方“AI Innovation Partner”，并向其开放Firefly、Firefly Foundry、Premiere、Photoshop以及专属工程资源。双方将共同开发以Disney IP训练的定制AI模型，以“生成商业上安全、可直接用于制作的成果”。"
               },
               {
                 "t": "p",
-                "x": "“AI这个词涵盖得太宽泛了。”他说，并补充称企业借此推卸责任，而躲在合理使用条款背后的做法长远来看“在法庭上站不住脚”。"
+                "x": "相关工作已经展开：Walt Disney Imagineering正用Firefly Foundry根据人工绘制的图稿生成2D 概念图，并为乐园开发制作IP-based 图形。Adobe还将与Disney的StudioLAB合作探索实验性制作流程，并与ESPN Edge合作开发AI-powered 体育内容。"
               },
               {
                 "t": "p",
-                "x": "Nolan表示，Universal“首次”在《The Odyssey》的片尾字幕中加入标准声明，注明该片不得被摄取、抓取或用作生成式AI模型的训练数据，这让他深受鼓舞。"
-              },
-              {
-                "t": "video",
-                "yt": "2rSkej6t_Eo"
-              },
-              {
-                "t": "p",
-                "x": "“对我们来说，这是一场不断推动诉讼与立法的努力。”他说，“说到底，就是不让别人偷走你的作品并改作他用。”"
+                "x": "此前，Disney曾向OpenAI投资$1 billion ，但随着Sora关停而告吹；Disney还聘请前Character.AI CEO Karandeep Anand出任首位首席技术官。与Adobe合作的财务条款尚未公开。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nolan: la próxima fase de la AI\ndepende de los estudios",
-          "body": "Christopher Nolan elogió las salvaguardas de AI del DGA y la AMPTP y dijo que la próxima fase depende de los estudios.",
-          "mini_headline": "Nolan: la AI ahora\ndepende de los estudios",
+          "headline": "Disney recurre a Adobe para\ncrear modelos de AI con su IP",
+          "body": "Adobe ayudará a Disney a crear modelos de AI con su IP, incluidas herramientas que pasan bocetos a arte conceptual.",
+          "mini_headline": "Disney elige a Adobe para AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Christopher-Nolan-speaking.jpg",
-                "cap": "Christopher Nolan habla en el escenario del DGA Theater Complex en Los Ángeles. (Credit: Vivien Killilea/Getty Images)"
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
+                "cap": "Princess and the Frog"
               },
               {
                 "t": "p",
-                "x": "Christopher Nolan aplaudió al Directors Guild of America (DGA) y a la AMPTP por negociar “un lenguaje y unas salvaguardas excelentes” frente a la AI en la producción de cine y TV, pero afirmó que el siguiente obstáculo en la lucha contra la AI recae de lleno sobre los hombros de los estudios."
+                "x": "Disney ha cerrado su próxima gran alianza en AI, esta vez con Adobe: un acuerdo plurianual para llevar modelos de AI generativa personalizados a sus procesos creativos en todos sus negocios, incluidas herramientas que transformarán bocetos dibujados a mano en arte conceptual totalmente renderizado."
               },
               {
                 "t": "p",
-                "x": "“En el sindicato estamos muy centrados en exigir a los estudios que respondan por la protección de sus derechos de autor. Nosotros no podemos hacerlo”, dijo Nolan, presidente del DGA desde el otoño de 2025, en el pódcast “Hollywood Insiders”. “Salvo muy pocas excepciones en el sindicato, no somos los titulares de los derechos de autor de las películas en las que hemos trabajado. Eso les corresponde a los estudios”."
+                "x": "Según los términos del acuerdo, Adobe será el “AI Innovation Partner” oficial de Disney y dará a la compañía acceso a Firefly, Firefly Foundry, Premiere, Photoshop y recursos de ingeniería dedicados. Juntas, las empresas desarrollarán modelos de AI a medida entrenados con la IP de Disney para “generar resultados comercialmente seguros y listos para producción”."
               },
               {
                 "t": "p",
-                "x": "“AI es un término demasiado genérico”, dijo, y añadió que las empresas lo usan para eximirse de responsabilidad y que escudarse en las disposiciones de uso legítimo “no se sostendrá en los tribunales” a largo plazo."
+                "x": "El trabajo ya está en marcha: Walt Disney Imagineering usa Firefly Foundry para generar arte conceptual 2D a partir de dibujos hechos por personas y crear gráficos IP-based para el desarrollo de sus parques. Adobe también trabajará con StudioLAB de Disney en flujos de producción experimentales y con ESPN Edge en contenido deportivo AI-powered."
               },
               {
                 "t": "p",
-                "x": "Nolan dijo sentirse alentado porque Universal incluyó, “por primera vez”, en los créditos de “The Odyssey” un texto estándar que establece que la película no puede ser ingerida, extraída mediante scraping ni utilizada como datos de entrenamiento para modelos de AI generativa."
-              },
-              {
-                "t": "video",
-                "yt": "2rSkej6t_Eo"
-              },
-              {
-                "t": "p",
-                "x": "“Para nosotros es un impulso constante hacia el litigio y la legislación”, dijo. “Se trata, en realidad, de no permitir que la gente robe tu trabajo y le dé otro uso”."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "놀런, AI 다음 단계\n스튜디오에 달렸다",
-          "body": "놀런은 DGA·AMPTP의 AI 안전장치를 호평하고 다음은 스튜디오 몫이라 했다.",
-          "mini_headline": "놀런 “AI는 이제 스튜디오 몫”",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Christopher-Nolan-speaking.jpg",
-                "cap": "크리스토퍼 놀런이 로스앤젤레스 DGA Theater Complex 무대에서 발언하고 있다. (Credit: Vivien Killilea/Getty Images)"
-              },
-              {
-                "t": "p",
-                "x": "크리스토퍼 놀런은 영화·TV 제작에서 AI에 맞서 “훌륭한 문구와 안전장치”를 협상해 낸 미국감독조합(Directors Guild of America, DGA)과 AMPTP를 높이 평가했다. 다만 AI와의 싸움에서 다음 고비는 전적으로 스튜디오가 짊어져야 한다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "“조합은 스튜디오가 자기 저작권을 지키도록 책임을 묻는 데 집중하고 있습니다. 우리가 할 수 있는 일이 아니니까요.” 2025년 가을부터 DGA 회장을 맡고 있는 놀런은 “Hollywood Insiders” 팟캐스트에서 이렇게 말했다. “조합에서는 극소수의 예외를 빼면 우리가 작업한 영화의 저작권자가 아닙니다. 그 일은 스튜디오의 몫입니다.”"
-              },
-              {
-                "t": "p",
-                "x": "그는 “AI는 너무 포괄적인 용어”라며, 기업들이 이 말을 내세워 책임을 피하고 있고 공정 이용 조항 뒤에 숨는 방식은 길게 보면 “법정에서 버티지 못할 것”이라고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "놀런은 Universal이 《오디세이》(The Odyssey) 크레디트에 이 영화를 생성형 AI 모델의 학습 데이터로 수집·스크래핑·사용할 수 없다는 정형 문구를 “처음으로” 넣은 데 고무됐다고 말했다."
-              },
-              {
-                "t": "video",
-                "yt": "2rSkej6t_Eo"
-              },
-              {
-                "t": "p",
-                "x": "“우리에게는 소송과 입법을 향해 끊임없이 밀고 나가는 일입니다.” 그는 이렇게 말했다. “결국 남의 작품을 훔쳐 다른 용도로 쓰지 못하게 하는 것이 핵심입니다.”"
+                "x": "El acuerdo llega después de la inversión de $1 billion de Disney en OpenAI, que se vino abajo cuando se cerró Sora, y de la contratación del ex CEO de Character.AI Karandeep Anand como su primer director de tecnología. Los términos financieros del acuerdo con Adobe no se han hecho públicos."
               }
             ]
           }
@@ -405,923 +325,441 @@
       }
     },
     {
-      "id": "olm-animins-ai-coloring",
+      "id": "framestore-sky-christmas-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Pokemon의 OLM\n세 프레임으로 AI 채색",
-      "body": "OLM Digital이 ANIMINS에서 세 프레임만 익히는 AI 채색을 공개했다.",
-      "mini_headline": "OLM, 세 프레임으로\n애니 채색",
+      "headline": "Sky 성탄 VFX에 AI\n결합한 Framestore",
+      "body": "Framestore가 Dave Meyers의 Sky 광고에 AI와 CG를 썼다.",
+      "mini_headline": "Framestore의 하이브리드 AI VFX",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/tv/markets-festivals/pokemon-anime-studio-olm-ai-coloring-tool-three-frames-1236942198/",
-      "accent": "#f5a623",
+      "source": "Animation World Network",
+      "url": "https://www.awn.com/news/framestore-brings-hybrid-aivfx-skys-christmas-campaign",
+      "accent": "#7928ca",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/11/TCCF-AI-animation.jpg",
-            "cap": "Naman Ramachandran"
+            "src": "https://www.awn.com/sites/default/files/image/attached/1081755-skyxmsstill015-1280.jpg",
+            "cap": "That's Christmas Sorted"
           },
           {
             "t": "p",
-            "x": "“Pokemon” 애니메이션 시리즈와 영화를 만든 일본 애니메이션 그룹 OLM이 손으로 칠한 프레임 세 장만 보고 작품 화풍을 익히는 AI 채색 도구를 만들었다. OLM Digital 이사 Yotsukura Tatsuo가 타이베이 Taiwan Creative Content Fest(TCCF)에서 밝혔다."
+            "x": "Framestore는 Sky Creative, RadicalMedia 소속 Dave Meyers 감독과 손잡고 Sky의 새 크리스마스 캠페인 “That's Christmas Sorted”를 작업했다. CG 환경과 VFX에는 기존 제작 파이프라인 안에 구축한 AI 도구를 섞었다. 실사 연기의 타이밍과 움직임, 캐릭터는 작업 내내 그대로 살렸다."
           },
           {
             "t": "p",
-            "x": "도구는 일본 경제산업성이 감독하는 생성형 AI 프로그램 GENIAC의 15개월 연구 프로젝트 ANIMINS에서 나왔다. 아티스트가 프레임 세 장을 손으로 칠하면 시스템이 약 90초 만에 작품의 선 모양과 팔레트를 익히고, 남은 프레임을 장당 약 15초에 칠한다."
+            "x": "팀은 Meyers의 스토리보드에서 출발해 전통적인 프리비즈 기법과 AI 도구를 함께 쓰며 카메라 무빙과 연기, 숏 타이밍, 렌즈 선택을 탐색했다. 창고 실내외 환경은 3D 레이아웃으로 잡은 뒤 디지털 매트 페인팅과 AI 도구로 디테일과 텍스처, 조명을 입혔다."
           },
-          {
-            "t": "p",
-            "x": "Yotsukura는 “엄밀히 말해 생성형 AI는 아닙니다”라고 했다. 해당 작품의 프레임만 학습하니 다른 작품에 피해가 가지 않고, 개념 검증 단계에서 채색 작업량이 약 30% 줄었다."
-          },
-          {
-            "t": "p",
-            "x": "Toon Boom의 Ember 채색 베타도 막바지다. 마닐라의 한 스튜디오는 90초에서 이 분짜리 장면의 채색 시간을 15시간에서 두세 시간으로 줄였다. Blue Spirit의 Charles Beirnaert는 자사가 Netflix의 “Blue Eye Samurai”에 AI를 전혀 쓰지 않는다고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "Yotsukura는 “앞으로 ‘AI를 쓰지 않는다’는 선택지는 아마 더는 없을 것이라고 생각합니다”라고 했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Pokemon studio OLM trains\nAI coloring on three frames",
-          "body": "OLM Digital showed an AI coloring tool trained on just three frames under Japan's state-backed ANIMINS project.",
-          "mini_headline": "OLM colors anime\nfrom three frames",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/TCCF-AI-animation.jpg",
-                "cap": "Naman Ramachandran"
-              },
-              {
-                "t": "p",
-                "x": "OLM, the Japanese animation group behind the “Pokemon” anime series and films, has developed an AI coloring tool that picks up a show’s look from just three hand-painted frames, OLM Digital board director Yotsukura Tatsuo said at the Taiwan Creative Content Fest (TCCF) in Taipei."
-              },
-              {
-                "t": "p",
-                "x": "The tool came out of ANIMINS, a 15-month research project under GENIAC, a generative AI program overseen by Japan’s Ministry of Economy, Trade and Industry. An artist colors three frames by hand; the system learns the show’s line shapes and palette in about 90 seconds, then colors each remaining frame in around 15 seconds."
-              },
-              {
-                "t": "p",
-                "x": "“Strictly speaking, it isn’t generative AI,” Yotsukura said. Training only on a production’s own frames means no other works are harmed, and at proof-of-concept stage it has cut painting workload by around 30%."
-              },
-              {
-                "t": "p",
-                "x": "Toon Boom’s Ember coloring beta is wrapping up; one Manila studio cut painting on a 90-second-to-two-minute scene from 15 hours to two or three. Blue Spirit’s Charles Beirnaert said the studio uses no AI on Netflix’s “Blue Eye Samurai.”"
-              },
-              {
-                "t": "p",
-                "x": "“I think ‘not using AI’ is probably no longer an option from here on,” Yotsukura said."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Pokemon의 OLM\n세 프레임으로 AI 채색",
-          "body": "OLM Digital이 ANIMINS에서 세 프레임만 익히는 AI 채색을 공개했다.",
-          "mini_headline": "OLM, 세 프레임으로\n애니 채색",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/TCCF-AI-animation.jpg",
-                "cap": "Naman Ramachandran"
-              },
-              {
-                "t": "p",
-                "x": "“Pokemon” 애니메이션 시리즈와 영화를 만든 일본 애니메이션 그룹 OLM이 손으로 칠한 프레임 세 장만 보고 작품 화풍을 익히는 AI 채색 도구를 만들었다. OLM Digital 이사 Yotsukura Tatsuo가 타이베이 Taiwan Creative Content Fest(TCCF)에서 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "도구는 일본 경제산업성이 감독하는 생성형 AI 프로그램 GENIAC의 15개월 연구 프로젝트 ANIMINS에서 나왔다. 아티스트가 프레임 세 장을 손으로 칠하면 시스템이 약 90초 만에 작품의 선 모양과 팔레트를 익히고, 남은 프레임을 장당 약 15초에 칠한다."
-              },
-              {
-                "t": "p",
-                "x": "Yotsukura는 “엄밀히 말해 생성형 AI는 아닙니다”라고 했다. 해당 작품의 프레임만 학습하니 다른 작품에 피해가 가지 않고, 개념 검증 단계에서 채색 작업량이 약 30% 줄었다."
-              },
-              {
-                "t": "p",
-                "x": "Toon Boom의 Ember 채색 베타도 막바지다. 마닐라의 한 스튜디오는 90초에서 이 분짜리 장면의 채색 시간을 15시간에서 두세 시간으로 줄였다. Blue Spirit의 Charles Beirnaert는 자사가 Netflix의 “Blue Eye Samurai”에 AI를 전혀 쓰지 않는다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Yotsukura는 “앞으로 ‘AI를 쓰지 않는다’는 선택지는 아마 더는 없을 것이라고 생각합니다”라고 했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "PokemonのOLM、\nAI彩色を三枚で学習",
-          "body": "OLM Digitalが国主導のANIMINSで三枚のみから学ぶAI彩色ツールを示した。",
-          "mini_headline": "OLM、三枚から\nアニメを彩色",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/TCCF-AI-animation.jpg",
-                "cap": "Naman Ramachandran"
-              },
-              {
-                "t": "p",
-                "x": "アニメシリーズおよび映画「Pokemon」を手がける日本のアニメーショングループOLMは、手塗りのフレーム三枚だけから作品のルックを習得するAI彩色ツールを開発した。OLM Digitalの取締役Yotsukura Tatsuoが、台北で開かれたTaiwan Creative Content Fest(TCCF)で明らかにした。"
-              },
-              {
-                "t": "p",
-                "x": "このツールは、経済産業省が所管する生成AIプログラムGENIACのもとで行われた15か月の研究プロジェクトANIMINSから生まれた。アーティストが三枚のフレームを手で塗ると、システムが約90秒で作品の線の形とパレットを学習し、残りのフレームを一枚あたり約15秒で彩色する。"
-              },
-              {
-                "t": "p",
-                "x": "「厳密に言えば、生成AIではない」とYotsukuraは言う。その作品自身のフレームだけで学習するため他の作品を損なうことはなく、概念実証の段階で彩色の作業量を約30%削減した。"
-              },
-              {
-                "t": "p",
-                "x": "Toon BoomのEmber彩色ベータ版は終盤を迎えている。マニラのあるスタジオは、90秒から二分のシーンの彩色時間を15時間から二、三時間に短縮した。Blue SpiritのCharles Beirnaertは、同スタジオがNetflixの『Blue Eye Samurai』でAIを一切使っていないと語った。"
-              },
-              {
-                "t": "p",
-                "x": "「これからは『AIを使わない』という選択肢は、おそらくもうないと思う」とYotsukuraは語った。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Pokemon制作方OLM\n用三帧训练AI上色",
-          "body": "OLM Digital展示了在日本官方支持的ANIMINS项目下仅用三帧训练的AI上色工具。",
-          "mini_headline": "OLM用三帧\n为动画上色",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/TCCF-AI-animation.jpg",
-                "cap": "Naman Ramachandran"
-              },
-              {
-                "t": "p",
-                "x": "打造“Pokemon”动画系列及电影的日本动画集团OLM开发了一款AI上色工具，只需三帧手绘上色画面即可掌握作品的画面风格。OLM Digital董事Yotsukura Tatsuo在台北举行的Taiwan Creative Content Fest(TCCF)上透露了这一消息。"
-              },
-              {
-                "t": "p",
-                "x": "该工具源自ANIMINS——日本经济产业省监管的生成式AI计划GENIAC旗下一项为期15个月的研究项目。艺术家先手工为三帧上色，系统约90秒即可学会作品的线条形态与配色，随后每帧约15秒完成其余画面的上色。"
-              },
-              {
-                "t": "p",
-                "x": "“严格来说，这不是生成式AI。”Yotsukura说。由于只用该作品自身的画面训练，不会损害其他作品；在概念验证阶段，它已将上色工作量减少约30%。"
-              },
-              {
-                "t": "p",
-                "x": "Toon Boom的Ember上色测试版即将结束；马尼拉一家工作室将一段90秒到两分钟场景的上色时间从15小时缩短到两三个小时。Blue Spirit的Charles Beirnaert表示，该工作室在Netflix的《Blue Eye Samurai》中没有使用任何AI。"
-              },
-              {
-                "t": "p",
-                "x": "“我认为从今往后，‘不用AI’大概已经不再是一个选项了。”Yotsukura说。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "OLM, de Pokemon, entrena su AI\nde color con tres fotogramas",
-          "body": "OLM Digital mostró una herramienta de color con AI entrenada con solo tres fotogramas en el proyecto estatal ANIMINS.",
-          "mini_headline": "OLM colorea anime\ncon tres fotogramas",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/TCCF-AI-animation.jpg",
-                "cap": "Naman Ramachandran"
-              },
-              {
-                "t": "p",
-                "x": "OLM, el grupo de animación japonés detrás de la serie y las películas de anime “Pokemon”, ha desarrollado una herramienta de coloreado con AI que capta el estilo de una serie a partir de solo tres fotogramas pintados a mano, según explicó Yotsukura Tatsuo, director del consejo de OLM Digital, en el Taiwan Creative Content Fest (TCCF) de Taipéi."
-              },
-              {
-                "t": "p",
-                "x": "La herramienta surgió de ANIMINS, un proyecto de investigación de 15 meses dentro de GENIAC, un programa de AI generativa supervisado por el Ministerio de Economía, Comercio e Industria de Japón. Un artista colorea tres fotogramas a mano; el sistema aprende las formas de línea y la paleta de la serie en unos 90 segundos y luego colorea cada fotograma restante en unos 15 segundos."
-              },
-              {
-                "t": "p",
-                "x": "“En sentido estricto, no es AI generativa”, dijo Yotsukura. Al entrenarse solo con los fotogramas de la propia producción, no se perjudica a otras obras, y en la fase de prueba de concepto ha reducido la carga de trabajo de pintura en torno a un 30%."
-              },
-              {
-                "t": "p",
-                "x": "La beta de coloreado Ember de Toon Boom está terminando; un estudio de Manila redujo el tiempo de pintura de una escena de entre 90 segundos y dos minutos de 15 horas a dos o tres. Charles Beirnaert, de Blue Spirit, dijo que el estudio no usa AI en “Blue Eye Samurai”, de Netflix."
-              },
-              {
-                "t": "p",
-                "x": "“Creo que ‘no usar AI’ probablemente ya no sea una opción a partir de ahora”, dijo Yotsukura."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Pokemon의 OLM\n세 프레임으로 AI 채색",
-          "body": "OLM Digital이 ANIMINS에서 세 프레임 학습 AI 채색을 공개했다.",
-          "mini_headline": "OLM, 세 프레임으로\n애니 채색",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/TCCF-AI-animation.jpg",
-                "cap": "Naman Ramachandran"
-              },
-              {
-                "t": "p",
-                "x": "“Pokemon” 애니메이션 시리즈와 영화를 만든 일본 애니메이션 그룹 OLM이 손으로 칠한 프레임 세 장만으로 작품의 화풍을 익히는 AI 채색 도구를 개발했다. OLM Digital 이사 Yotsukura Tatsuo가 타이베이에서 열린 Taiwan Creative Content Fest(TCCF)에서 밝힌 내용이다."
-              },
-              {
-                "t": "p",
-                "x": "이 도구는 일본 경제산업성이 감독하는 생성형 AI 프로그램 GENIAC 산하의 15개월 연구 프로젝트 ANIMINS에서 나왔다. 아티스트가 프레임 세 장을 손으로 칠하면 시스템이 약 90초 만에 작품의 선 모양과 팔레트를 익히고, 나머지 프레임을 장당 약 15초에 채색한다."
-              },
-              {
-                "t": "p",
-                "x": "“엄밀히 말해 생성형 AI는 아닙니다.” Yotsukura의 말이다. 해당 작품의 프레임만 학습하므로 다른 작품에 피해가 가지 않으며, 개념 검증 단계에서 채색 작업량을 약 30% 줄였다."
-              },
-              {
-                "t": "p",
-                "x": "Toon Boom의 Ember 채색 베타는 마무리 단계다. 마닐라의 한 스튜디오는 90초에서 이 분 길이의 장면 채색 시간을 15시간에서 두세 시간으로 줄였다. Blue Spirit의 Charles Beirnaert는 이 스튜디오가 Netflix의 “Blue Eye Samurai”에 AI를 전혀 쓰지 않는다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "“앞으로 ‘AI를 쓰지 않는다’는 선택지는 아마 더는 없을 것이라고 생각합니다.” Yotsukura의 말이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "PokemonのOLM、\nAI彩色を三枚で学習",
-          "body": "OLM Digitalが国主導のANIMINSで三枚のみから学ぶAI彩色ツールを示した。",
-          "mini_headline": "OLM、三枚から\nアニメを彩色",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/TCCF-AI-animation.jpg",
-                "cap": "Naman Ramachandran"
-              },
-              {
-                "t": "p",
-                "x": "アニメシリーズおよび映画「Pokemon」を手がける日本のアニメーショングループOLMは、手塗りのフレーム三枚だけから作品のルックを習得するAI彩色ツールを開発した。OLM Digitalの取締役Yotsukura Tatsuoが、台北で開かれたTaiwan Creative Content Fest(TCCF)で明らかにした。"
-              },
-              {
-                "t": "p",
-                "x": "このツールは、経済産業省が所管する生成AIプログラムGENIACのもとで行われた15か月の研究プロジェクトANIMINSから生まれた。アーティストが三枚のフレームを手で塗ると、システムが約90秒で作品の線の形とパレットを学習し、残りのフレームを一枚あたり約15秒で彩色する。"
-              },
-              {
-                "t": "p",
-                "x": "「厳密に言えば、生成AIではない」とYotsukuraは言う。その作品自身のフレームだけで学習するため他の作品を損なうことはなく、概念実証の段階で彩色の作業量を約30%削減した。"
-              },
-              {
-                "t": "p",
-                "x": "Toon BoomのEmber彩色ベータ版は終盤を迎えている。マニラのあるスタジオは、90秒から二分のシーンの彩色時間を15時間から二、三時間に短縮した。Blue SpiritのCharles Beirnaertは、同スタジオがNetflixの『Blue Eye Samurai』でAIを一切使っていないと語った。"
-              },
-              {
-                "t": "p",
-                "x": "「これからは『AIを使わない』という選択肢は、おそらくもうないと思う」とYotsukuraは語った。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Pokemon制作方OLM\n用三帧训练AI上色",
-          "body": "OLM Digital展示了在日本官方支持的ANIMINS项目下仅用三帧训练的AI上色工具。",
-          "mini_headline": "OLM用三帧\n为动画上色",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/TCCF-AI-animation.jpg",
-                "cap": "Naman Ramachandran"
-              },
-              {
-                "t": "p",
-                "x": "打造“Pokemon”动画系列及电影的日本动画集团OLM开发了一款AI上色工具，只需三帧手绘上色画面即可掌握作品的画面风格。OLM Digital董事Yotsukura Tatsuo在台北举行的Taiwan Creative Content Fest(TCCF)上透露了这一消息。"
-              },
-              {
-                "t": "p",
-                "x": "该工具源自ANIMINS——日本经济产业省监管的生成式AI计划GENIAC旗下一项为期15个月的研究项目。艺术家先手工为三帧上色，系统约90秒即可学会作品的线条形态与配色，随后每帧约15秒完成其余画面的上色。"
-              },
-              {
-                "t": "p",
-                "x": "“严格来说，这不是生成式AI。”Yotsukura说。由于只用该作品自身的画面训练，不会损害其他作品；在概念验证阶段，它已将上色工作量减少约30%。"
-              },
-              {
-                "t": "p",
-                "x": "Toon Boom的Ember上色测试版即将结束；马尼拉一家工作室将一段90秒到两分钟场景的上色时间从15小时缩短到两三个小时。Blue Spirit的Charles Beirnaert表示，该工作室在Netflix的《Blue Eye Samurai》中没有使用任何AI。"
-              },
-              {
-                "t": "p",
-                "x": "“我认为从今往后，‘不用AI’大概已经不再是一个选项了。”Yotsukura说。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "OLM, de Pokemon, entrena su AI\nde color con tres fotogramas",
-          "body": "OLM Digital mostró una herramienta de color con AI entrenada con solo tres fotogramas en el proyecto estatal ANIMINS.",
-          "mini_headline": "OLM colorea anime\ncon tres fotogramas",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/TCCF-AI-animation.jpg",
-                "cap": "Naman Ramachandran"
-              },
-              {
-                "t": "p",
-                "x": "OLM, el grupo de animación japonés detrás de la serie y las películas de anime “Pokemon”, ha desarrollado una herramienta de coloreado con AI que capta el estilo de una serie a partir de solo tres fotogramas pintados a mano, según explicó Yotsukura Tatsuo, director del consejo de OLM Digital, en el Taiwan Creative Content Fest (TCCF) de Taipéi."
-              },
-              {
-                "t": "p",
-                "x": "La herramienta surgió de ANIMINS, un proyecto de investigación de 15 meses dentro de GENIAC, un programa de AI generativa supervisado por el Ministerio de Economía, Comercio e Industria de Japón. Un artista colorea tres fotogramas a mano; el sistema aprende las formas de línea y la paleta de la serie en unos 90 segundos y luego colorea cada fotograma restante en unos 15 segundos."
-              },
-              {
-                "t": "p",
-                "x": "“En sentido estricto, no es AI generativa”, dijo Yotsukura. Al entrenarse solo con los fotogramas de la propia producción, no se perjudica a otras obras, y en la fase de prueba de concepto ha reducido la carga de trabajo de pintura en torno a un 30%."
-              },
-              {
-                "t": "p",
-                "x": "La beta de coloreado Ember de Toon Boom está terminando; un estudio de Manila redujo el tiempo de pintura de una escena de entre 90 segundos y dos minutos de 15 horas a dos o tres. Charles Beirnaert, de Blue Spirit, dijo que el estudio no usa AI en “Blue Eye Samurai”, de Netflix."
-              },
-              {
-                "t": "p",
-                "x": "“Creo que ‘no usar AI’ probablemente ya no sea una opción a partir de ahora”, dijo Yotsukura."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "china-ai-shortdrama-crackdown",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "중국, AI 숏폼 드라마\n연말까지 집중단속",
-      "body": "중국 정부가 AI를 악용한 저질·선정적 숏폼 드라마를 연말까지 특별단속한다.",
-      "mini_headline": "中, AI 숏폼\n연말 단속",
-      "tool": "Movies",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261108050600083",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
           {
             "t": "img",
-            "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108050600083_01_i_P4.jpg",
-            "cap": "중국의 한 숏폼 드라마 제작 현장 [신화=연합뉴스 자료사진]"
+            "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill006-1280.jpg?itok=lUnQRKXQ"
+          },
+          {
+            "t": "img",
+            "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill007-1280.jpg?itok=sF7sj9HF"
           },
           {
             "t": "p",
-            "x": "중국 정부가 인공지능(AI)을 활용한 저질·선정적 콘텐츠 등 숏폼 드라마에 대한 특별단속에 나섰다."
+            "x": "의상이 스스로 움직이는 것처럼 보이게 하려고 Framestore는 전통 합성과 AI 기술을 결합한 인물 제거 파이프라인을 새로 짰다. 일부 의상에는 맞춤형 CG 키프레임 애니메이션을 더했다."
           },
           {
             "t": "p",
-            "x": "AI 기술 확산으로 숏폼 드라마 제작이 급증하면서 콘텐츠의 질적 저하와 저작권 침해 등의 문제에 대응하기 위한 조치다."
+            "x": "“기존 VFX 파이프라인에 AI를 통합해, 작업이 요구하는 장인정신과 통제력을 해치지 않으면서 새로운 창작 가능성을 얻었다”고 Framestore 크리에이티브 디렉터 겸 VFX 슈퍼바이저 Kamen Markov가 말했다."
           },
           {
-            "t": "p",
-            "x": "8일 중국 관영 신화통신에 따르면 방송·인터넷 감독기관인 국가광파전시총국(광전총국)은 AI 기술을 이용한 저질·획일적 콘텐츠 확산을 막기 위해 다음 달 31일까지 숏폼 드라마 특별단속을 실시한다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "주요 단속 대상은 아동 관련 유해 콘텐츠, 선정성을 자극하는 장면, 극단적인 대립을 조장하거나 물질만능주의를 부추기는 내용, 가족 윤리를 심각하게 훼손하는 작품 등이다."
-          },
-          {
-            "t": "p",
-            "x": "특히 AI 기술을 이용해 타인의 얼굴이나 목소리를 무단으로 사용하는 행위와 규정에 따른 등록·심사를 거치지 않은 작품도 단속한다."
-          },
-          {
-            "t": "p",
-            "x": "드라마 제목과 홍보 영상 등에 포함된 저질 콘텐츠를 정비하고 같은 작품을 제목이나 주인공 이름만 바꿔 반복적으로 유통하는 행위도 단속 대상에 포함했다."
-          },
-          {
-            "t": "p",
-            "x": "온라인 플랫폼이 첫 화면이나 인기 순위에서 비슷한 내용의 작품을 집중적으로 추천하는 관행도 개선하도록 했다."
-          },
-          {
-            "t": "p",
-            "x": "광전총국은 올해 들어 저질·유해 콘텐츠와 저작권 침해 등을 이유로 규정을 위반한 숏폼 드라마 7만5천편을 온라인 플랫폼에서 퇴출하고 관련 계정 1천500여개를 제재했다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "광전총국이 지난 9월 발표한 자료에 따르면 올해 1∼8월 중국에서 출시된 숏폼 드라마는 43만편으로 지난해 전체의 13배에 달했으며 이 가운데 AI 작품이 90% 이상을 차지했다."
-          },
-          {
-            "t": "p",
-            "x": "당국은 이번 특별단속을 통해 온라인 플랫폼의 콘텐츠 관리 책임을 강화하는 한편 우수 작품 제작을 지원해 숏폼 드라마 산업의 질적 성장을 유도하겠다는 방침이다."
+            "t": "video",
+            "yt": "r3J9A5FSAIs"
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "중국, AI 숏폼 드라마\n연말까지 집중단속",
-          "body": "중국 정부가 AI를 악용한 저질·선정적 숏폼 드라마를 연말까지 특별단속한다.",
-          "mini_headline": "中, AI 숏폼\n연말 단속",
+        "en": {
+          "headline": "Framestore folds AI into\nSky's Christmas VFX",
+          "body": "Framestore used AI for previs, character removal and self-animating costumes alongside CG on Sky's Dave Meyers spot.",
+          "mini_headline": "Framestore's hybrid AI VFX",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108050600083_01_i_P4.jpg",
-                "cap": "중국의 한 숏폼 드라마 제작 현장 [신화=연합뉴스 자료사진]"
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081755-skyxmsstill015-1280.jpg",
+                "cap": "That's Christmas Sorted"
               },
               {
                 "t": "p",
-                "x": "중국 정부가 인공지능(AI)을 활용한 저질·선정적 콘텐츠 등 숏폼 드라마에 대한 특별단속에 나섰다."
+                "x": "Framestore has partnered with Sky Creative and director Dave Meyers at RadicalMedia on \"That's Christmas Sorted,\" Sky's new Christmas campaign, combining CG environments and VFX with AI tools built into a traditional production pipeline. Framestore preserved the timing, movement and character of the live-action performances throughout."
               },
               {
                 "t": "p",
-                "x": "AI 기술 확산으로 숏폼 드라마 제작이 급증하면서 콘텐츠의 질적 저하와 저작권 침해 등의 문제에 대응하기 위한 조치다."
+                "x": "Working from Meyers' storyboards, the team paired traditional previs techniques with AI tools to explore camera moves, performance, shot timing and lensing. Framestore built 3D layouts for interior and exterior warehouse environments; digital matte painting and AI tools added detail, textures and lighting."
+              },
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill006-1280.jpg?itok=lUnQRKXQ"
+              },
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill007-1280.jpg?itok=sF7sj9HF"
               },
               {
                 "t": "p",
-                "x": "8일 중국 관영 신화통신에 따르면 방송·인터넷 감독기관인 국가광파전시총국(광전총국)은 AI 기술을 이용한 저질·획일적 콘텐츠 확산을 막기 위해 다음 달 31일까지 숏폼 드라마 특별단속을 실시한다고 밝혔다."
+                "x": "To make the costumes appear to animate themselves, Framestore developed a character removal pipeline that combines traditional compositing with AI technology, plus bespoke CG keyframe animation for specific costumes."
               },
               {
                 "t": "p",
-                "x": "주요 단속 대상은 아동 관련 유해 콘텐츠, 선정성을 자극하는 장면, 극단적인 대립을 조장하거나 물질만능주의를 부추기는 내용, 가족 윤리를 심각하게 훼손하는 작품 등이다."
+                "x": "\"We integrated AI into our existing VFX pipeline in a way that gave us new creative possibilities without compromising the craft and control the work demands,\" said Framestore creative director and VFX supervisor Kamen Markov."
               },
               {
-                "t": "p",
-                "x": "특히 AI 기술을 이용해 타인의 얼굴이나 목소리를 무단으로 사용하는 행위와 규정에 따른 등록·심사를 거치지 않은 작품도 단속한다."
-              },
-              {
-                "t": "p",
-                "x": "드라마 제목과 홍보 영상 등에 포함된 저질 콘텐츠를 정비하고 같은 작품을 제목이나 주인공 이름만 바꿔 반복적으로 유통하는 행위도 단속 대상에 포함했다."
-              },
-              {
-                "t": "p",
-                "x": "온라인 플랫폼이 첫 화면이나 인기 순위에서 비슷한 내용의 작품을 집중적으로 추천하는 관행도 개선하도록 했다."
-              },
-              {
-                "t": "p",
-                "x": "광전총국은 올해 들어 저질·유해 콘텐츠와 저작권 침해 등을 이유로 규정을 위반한 숏폼 드라마 7만5천편을 온라인 플랫폼에서 퇴출하고 관련 계정 1천500여개를 제재했다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "광전총국이 지난 9월 발표한 자료에 따르면 올해 1∼8월 중국에서 출시된 숏폼 드라마는 43만편으로 지난해 전체의 13배에 달했으며 이 가운데 AI 작품이 90% 이상을 차지했다."
-              },
-              {
-                "t": "p",
-                "x": "당국은 이번 특별단속을 통해 온라인 플랫폼의 콘텐츠 관리 책임을 강화하는 한편 우수 작품 제작을 지원해 숏폼 드라마 산업의 질적 성장을 유도하겠다는 방침이다."
+                "t": "video",
+                "yt": "r3J9A5FSAIs"
               }
             ]
           }
         },
-        "en": {
-          "headline": "China cracks down on AI short\ndramas through year-end",
-          "body": "China's government will run a special crackdown on low-quality, lewd short dramas that misuse AI until year-end.",
-          "mini_headline": "China: AI short\ndramas crackdown",
+        "ko": {
+          "headline": "Sky 성탄 VFX에 AI\n결합한 Framestore",
+          "body": "Framestore가 Dave Meyers의 Sky 광고에 AI와 CG를 썼다.",
+          "mini_headline": "Framestore의 하이브리드 AI VFX",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108050600083_01_i_P4.jpg",
-                "cap": "A short-drama production set in China [Xinhua=Yonhap file photo]"
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081755-skyxmsstill015-1280.jpg",
+                "cap": "That's Christmas Sorted"
               },
               {
                 "t": "p",
-                "x": "The Chinese government has launched a special crackdown on short dramas, including low-quality and sexually suggestive content made with artificial intelligence (AI)."
+                "x": "Framestore는 Sky Creative, RadicalMedia 소속 Dave Meyers 감독과 손잡고 Sky의 새 크리스마스 캠페인 “That's Christmas Sorted”를 작업했다. CG 환경과 VFX에는 기존 제작 파이프라인 안에 구축한 AI 도구를 섞었다. 실사 연기의 타이밍과 움직임, 캐릭터는 작업 내내 그대로 살렸다."
               },
               {
                 "t": "p",
-                "x": "The move responds to falling content quality, copyright infringement and other problems as the spread of AI technology drives a surge in short-drama production."
+                "x": "팀은 Meyers의 스토리보드에서 출발해 전통적인 프리비즈 기법과 AI 도구를 함께 쓰며 카메라 무빙과 연기, 숏 타이밍, 렌즈 선택을 탐색했다. 창고 실내외 환경은 3D 레이아웃으로 잡은 뒤 디지털 매트 페인팅과 AI 도구로 디테일과 텍스처, 조명을 입혔다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill006-1280.jpg?itok=lUnQRKXQ"
+              },
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill007-1280.jpg?itok=sF7sj9HF"
               },
               {
                 "t": "p",
-                "x": "According to China's state-run Xinhua News Agency on the 8th, the National Radio and Television Administration, which oversees broadcasting and the internet, said it will run a special crackdown on short dramas until the 31st of next month to curb the spread of low-quality, formulaic content made with AI technology."
+                "x": "의상이 스스로 움직이는 것처럼 보이게 하려고 Framestore는 전통 합성과 AI 기술을 결합한 인물 제거 파이프라인을 새로 짰다. 일부 의상에는 맞춤형 CG 키프레임 애니메이션을 더했다."
               },
               {
                 "t": "p",
-                "x": "The main targets are content harmful to children, scenes that stoke sexual sensationalism, content that encourages extreme confrontation or materialism, and works that seriously undermine family ethics."
+                "x": "“기존 VFX 파이프라인에 AI를 통합해, 작업이 요구하는 장인정신과 통제력을 해치지 않으면서 새로운 창작 가능성을 얻었다”고 Framestore 크리에이티브 디렉터 겸 VFX 슈퍼바이저 Kamen Markov가 말했다."
               },
               {
-                "t": "p",
-                "x": "In particular, it will also crack down on using AI technology to appropriate other people's faces or voices without permission, and on works that have not gone through registration and review as required by regulations."
-              },
-              {
-                "t": "p",
-                "x": "The crackdown also covers cleaning up low-quality content in drama titles and promotional videos, and repeatedly distributing the same work with only the title or the lead character's name changed."
-              },
-              {
-                "t": "p",
-                "x": "Online platforms were also told to change the practice of heavily recommending works with similar content on their front pages and popularity rankings."
-              },
-              {
-                "t": "p",
-                "x": "The administration said that this year it has removed 7만5천 (seventy-five thousand) rule-breaking short dramas from online platforms over low-quality or harmful content and copyright infringement, and sanctioned more than 1천500 (fifteen hundred) related accounts."
-              },
-              {
-                "t": "p",
-                "x": "According to data the administration released in September (9월), 43만 (four hundred thirty thousand) short dramas were released in China from January to August (1∼8월) this year, 13 times last year's total, and AI works accounted for more than 90% of them."
-              },
-              {
-                "t": "p",
-                "x": "Through the crackdown, the authorities plan to strengthen online platforms' responsibility for content management while supporting the production of quality works to steer the short-drama industry toward qualitative growth."
+                "t": "video",
+                "yt": "r3J9A5FSAIs"
               }
             ]
           }
         },
         "ja": {
-          "headline": "中国、AIショートドラマ\n年末まで集中取り締まり",
-          "body": "中国政府はAIを悪用した低俗・扇情的なショートドラマを年末まで特別に取り締まる。",
-          "mini_headline": "中国、AIショート\n年末取り締まり",
+          "headline": "FramestoreがAIを\nSkyのクリスマスVFXに",
+          "body": "FramestoreはSkyのDave Meyers監督CMでCGとAIを組み合わせた。",
+          "mini_headline": "FramestoreのハイブリッドAI VFX",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108050600083_01_i_P4.jpg",
-                "cap": "中国のショートドラマ制作現場[新華社=聯合ニュース資料写真]"
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081755-skyxmsstill015-1280.jpg",
+                "cap": "That's Christmas Sorted"
               },
               {
                 "t": "p",
-                "x": "中国政府が、人工知能(AI)を使った低俗・扇情的なコンテンツなど、ショートドラマに対する特別取り締まりに乗り出した。"
+                "x": "Framestoreは、Sky CreativeおよびRadicalMediaのDave Meyers監督と組み、Skyの新しいクリスマスキャンペーン「That's Christmas Sorted」を手がけた。CG環境とVFXに、従来の制作パイプラインに組み込んだAIツールを組み合わせている。Framestoreは全編を通じて実写の演技のタイミング、動き、キャラクター性を保った。"
               },
               {
                 "t": "p",
-                "x": "AI技術の普及でショートドラマの制作が急増するなか、コンテンツの質の低下や著作権侵害などの問題に対応するための措置だ。"
+                "x": "チームはMeyersの絵コンテをもとに、従来のプリビズ手法とAIツールを併用し、カメラワーク、演技、ショットのタイミング、レンズ選びを検討した。Framestoreは倉庫の屋内外環境の3D レイアウトを構築し、デジタルマットペインティングとAIツールでディテール、テクスチャ、ライティングを加えた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill006-1280.jpg?itok=lUnQRKXQ"
+              },
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill007-1280.jpg?itok=sF7sj9HF"
               },
               {
                 "t": "p",
-                "x": "8日の中国国営新華社通信によると、放送・インターネットの監督機関である国家ラジオテレビ総局は、AI技術を使った低俗で画一的なコンテンツの拡散を防ぐため、来月31日までショートドラマの特別取り締まりを実施すると明らかにした。"
+                "x": "衣装がひとりでに動いて見えるように、Framestoreは従来のコンポジットとAI技術を組み合わせた人物除去パイプラインを開発し、特定の衣装には専用のCGキーフレームアニメーションも加えた。"
               },
               {
                 "t": "p",
-                "x": "主な取り締まり対象は、子どもに関わる有害コンテンツ、扇情性をあおる場面、極端な対立を助長したり拝金主義をあおったりする内容、家族の倫理を著しく損なう作品などだ。"
+                "x": "「既存のVFXパイプラインにAIを組み込み、仕事に求められる技術とコントロールを損なわずに新たな創造の可能性を得た」と、Framestoreのクリエイティブディレクター兼VFXスーパーバイザー、Kamen Markovは語った。"
               },
               {
-                "t": "p",
-                "x": "特に、AI技術を使って他人の顔や声を無断で使用する行為や、規定に基づく登録・審査を経ていない作品も取り締まる。"
-              },
-              {
-                "t": "p",
-                "x": "ドラマのタイトルや宣伝映像などに含まれる低俗なコンテンツを整理し、同じ作品をタイトルや主人公の名前だけ変えて繰り返し流通させる行為も取り締まり対象に含めた。"
-              },
-              {
-                "t": "p",
-                "x": "オンラインプラットフォームがトップ画面や人気ランキングで似た内容の作品を集中的に推薦する慣行も改めるよう求めた。"
-              },
-              {
-                "t": "p",
-                "x": "同総局は今年に入り、低俗・有害コンテンツや著作権侵害などを理由に、規定に違反したショートドラマ7万5千本をオンラインプラットフォームから排除し、関連アカウント1千500余りを処分したと明らかにした。"
-              },
-              {
-                "t": "p",
-                "x": "同総局が9月に発表した資料によると、今年1∼8月に中国で公開されたショートドラマは43万本と昨年全体の13倍に達し、このうちAI作品が90%以上を占めた。"
-              },
-              {
-                "t": "p",
-                "x": "当局は今回の特別取り締まりを通じてオンラインプラットフォームのコンテンツ管理責任を強化する一方、優れた作品の制作を支援し、ショートドラマ産業の質的成長を促す方針だ。"
+                "t": "video",
+                "yt": "r3J9A5FSAIs"
               }
             ]
           }
         },
         "zh": {
-          "headline": "中国集中整治AI短剧\n行动持续至年底",
-          "body": "中国政府将在年底前对滥用AI的低俗、煽情短剧开展专项整治。",
-          "mini_headline": "中国AI短剧\n年底整治",
+          "headline": "Framestore把AI\n融入Sky圣诞VFX",
+          "body": "Framestore在Sky的Dave Meyers广告中结合AI与CG完成特效。",
+          "mini_headline": "Framestore的混合AI VFX",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108050600083_01_i_P4.jpg",
-                "cap": "中国某短剧拍摄现场[新华社=韩联社资料图]"
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081755-skyxmsstill015-1280.jpg",
+                "cap": "That's Christmas Sorted"
               },
               {
                 "t": "p",
-                "x": "中国政府针对利用人工智能(AI)制作的低俗、煽情内容等短剧启动专项整治。"
+                "x": "Framestore与Sky Creative及RadicalMedia旗下导演Dave Meyers合作，为Sky新圣诞广告“That's Christmas Sorted”制作内容，将CG场景和VFX与嵌入传统制作流程的AI工具相结合。Framestore全程保留了真人表演的节奏、动作与角色特质。"
               },
               {
                 "t": "p",
-                "x": "此举旨在应对AI技术普及导致短剧产量激增后出现的内容质量下滑、侵犯版权等问题。"
+                "x": "团队以Meyers的分镜为基础，将传统预演手法与AI工具结合，探索运镜、表演、镜头时长与镜头焦段。Framestore搭建了仓库内外场景的3D 布局，并借助数字绘景和AI工具增添细节、纹理与光照。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill006-1280.jpg?itok=lUnQRKXQ"
+              },
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill007-1280.jpg?itok=sF7sj9HF"
               },
               {
                 "t": "p",
-                "x": "据中国官方新华社8日报道，广播与网络监管机构国家广播电视总局(广电总局)表示，为遏制利用AI技术制作的低俗、同质化内容扩散，将在下月31日前开展短剧专项整治。"
+                "x": "为了让服装看起来能自己动起来，Framestore开发了一套把传统合成与AI技术相结合的人物移除流程，并为特定服装制作了定制CG关键帧动画。"
               },
               {
                 "t": "p",
-                "x": "主要整治对象包括涉及儿童的有害内容、刺激感官的低俗场面、煽动极端对立或助长拜金主义的内容，以及严重破坏家庭伦理的作品等。"
+                "x": "“我们把AI融入现有VFX流程，在不牺牲这项工作所需的手艺和控制力的前提下，获得了新的创作可能。”Framestore创意总监兼VFX总监Kamen Markov说。"
               },
               {
-                "t": "p",
-                "x": "尤其是利用AI技术擅自使用他人面孔或声音的行为，以及未按规定完成备案和审核的作品，也在整治之列。"
-              },
-              {
-                "t": "p",
-                "x": "整治还包括清理剧名和宣传视频等中的低俗内容，以及仅更换剧名或主角名字便反复上线同一作品的行为。"
-              },
-              {
-                "t": "p",
-                "x": "同时要求网络平台改进在首页或热门榜单集中推荐同质化作品的做法。"
-              },
-              {
-                "t": "p",
-                "x": "广电总局表示，今年以来已因低俗有害内容、侵犯版权等原因，在网络平台下架违规短剧7万5千部，处置相关账号1千500余个。"
-              },
-              {
-                "t": "p",
-                "x": "根据广电总局9月发布的数据，今年1∼8月中国上线的短剧达43万部，是去年全年的13倍，其中AI作品占比超过90%。"
-              },
-              {
-                "t": "p",
-                "x": "当局计划借此次专项整治强化网络平台的内容管理责任，同时扶持优质作品创作，引导短剧产业实现质的提升。"
+                "t": "video",
+                "yt": "r3J9A5FSAIs"
               }
             ]
           }
         },
         "es": {
-          "headline": "China combate los microdramas\nde AI hasta fin de año",
-          "body": "El Gobierno chino perseguirá hasta fin de año los microdramas vulgares y sensacionalistas que abusan de la AI.",
-          "mini_headline": "China: microdramas\nde AI, bajo control",
+          "headline": "Framestore integra AI en los\nVFX navideños de Sky",
+          "body": "Framestore usó AI con CG en el spot de Sky de Dave Meyers para previs, borrar personajes y animar trajes.",
+          "mini_headline": "La AI híbrida de Framestore en VFX",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108050600083_01_i_P4.jpg",
-                "cap": "Rodaje de un microdrama en China [Xinhua=Yonhap, foto de archivo]"
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081755-skyxmsstill015-1280.jpg",
+                "cap": "That's Christmas Sorted"
               },
               {
                 "t": "p",
-                "x": "El Gobierno chino ha emprendido una campaña especial contra los microdramas, incluidos los contenidos vulgares y sensacionalistas hechos con inteligencia artificial (AI)."
+                "x": "Framestore se ha asociado con Sky Creative y con el director Dave Meyers, de RadicalMedia, en “That's Christmas Sorted”, la nueva campaña navideña de Sky, que combina entornos CG y VFX con herramientas de AI integradas en un pipeline de producción tradicional. Framestore conservó en todo momento el ritmo, el movimiento y el carácter de las interpretaciones en acción real."
               },
               {
                 "t": "p",
-                "x": "La medida busca responder a problemas como la caída de la calidad de los contenidos y las infracciones de derechos de autor, en un momento en que la expansión de la tecnología de AI ha disparado la producción de microdramas."
+                "x": "A partir de los storyboards de Meyers, el equipo combinó técnicas tradicionales de previs con herramientas de AI para explorar movimientos de cámara, interpretación, timing de los planos y elección de lentes. Framestore construyó layouts 3D de los entornos interiores y exteriores de un almacén; el matte painting digital y las herramientas de AI añadieron detalle, texturas e iluminación."
+              },
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill006-1280.jpg?itok=lUnQRKXQ"
+              },
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill007-1280.jpg?itok=sF7sj9HF"
               },
               {
                 "t": "p",
-                "x": "Según informó el día 8 la agencia estatal china Xinhua, la Administración Nacional de Radio y Televisión, organismo que supervisa la radiodifusión e internet, anunció que llevará a cabo una campaña especial contra los microdramas hasta el día 31 del próximo mes para frenar la difusión de contenidos vulgares y uniformes creados con tecnología de AI."
+                "x": "Para que el vestuario pareciera animarse solo, Framestore desarrolló un pipeline de eliminación de personajes que combina composición tradicional con tecnología de AI, además de animación CG por keyframes hecha a medida para trajes concretos."
               },
               {
                 "t": "p",
-                "x": "Los principales objetivos son los contenidos nocivos relacionados con menores, las escenas que buscan provocar con lo sexual, los contenidos que fomentan la confrontación extrema o el materialismo y las obras que dañan gravemente la ética familiar."
+                "x": "“Integramos la AI en nuestro pipeline de VFX existente de una forma que nos dio nuevas posibilidades creativas sin comprometer el oficio ni el control que exige el trabajo”, dijo Kamen Markov, director creativo y supervisor de VFX de Framestore."
               },
               {
-                "t": "p",
-                "x": "En particular, también se perseguirá el uso de tecnología de AI para utilizar sin permiso el rostro o la voz de otras personas, así como las obras que no hayan pasado el registro y la revisión exigidos por la normativa."
-              },
-              {
-                "t": "p",
-                "x": "La campaña también incluye depurar los contenidos vulgares de títulos y vídeos promocionales, y perseguir la distribución repetida de una misma obra cambiando solo el título o el nombre del protagonista."
-              },
-              {
-                "t": "p",
-                "x": "Además, se pidió a las plataformas en línea que corrijan la práctica de recomendar de forma concentrada obras de contenido similar en sus portadas o rankings de popularidad."
-              },
-              {
-                "t": "p",
-                "x": "La Administración indicó que en lo que va de año ha retirado de las plataformas en línea 7만5천 (setenta y cinco mil) microdramas que infringían la normativa por contenidos vulgares o nocivos y violaciones de derechos de autor, y ha sancionado a más de 1천500 (mil quinientas) cuentas relacionadas."
-              },
-              {
-                "t": "p",
-                "x": "Según datos publicados por la Administración en septiembre (9월), entre enero y agosto (1∼8월) de este año se estrenaron en China 43만 (cuatrocientos treinta mil) microdramas, 13 veces el total del año pasado, y las obras hechas con AI supusieron más del 90%."
-              },
-              {
-                "t": "p",
-                "x": "Con esta campaña, las autoridades pretenden reforzar la responsabilidad de las plataformas en línea en la gestión de contenidos y, a la vez, apoyar la producción de obras de calidad para impulsar un crecimiento cualitativo de la industria de los microdramas."
+                "t": "video",
+                "yt": "r3J9A5FSAIs"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "China cracks down on AI short\ndramas through year-end",
-          "body": "China's government will run a special crackdown on low-quality, lewd short dramas that misuse AI until year-end.",
-          "mini_headline": "China: AI short\ndramas crackdown",
+        "ko": {
+          "headline": "Sky 성탄 VFX에 AI\n결합한 Framestore",
+          "body": "Framestore는 Dave Meyers의 Sky 광고에 AI와 CG를 결합했다.",
+          "mini_headline": "Framestore의 하이브리드 AI VFX",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108050600083_01_i_P4.jpg",
-                "cap": "A short-drama production set in China [Xinhua=Yonhap file photo]"
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081755-skyxmsstill015-1280.jpg",
+                "cap": "That's Christmas Sorted"
               },
               {
                 "t": "p",
-                "x": "The Chinese government has launched a special crackdown on short dramas, including low-quality and sexually suggestive content made with artificial intelligence (AI)."
+                "x": "Framestore는 Sky Creative, 그리고 RadicalMedia 소속 Dave Meyers 감독과 손잡고 Sky의 새 크리스마스 캠페인 “That's Christmas Sorted”를 작업했다. CG 환경과 VFX에 기존 제작 파이프라인 안에 구축한 AI 도구를 결합했다. Framestore는 작업 내내 실사 연기의 타이밍과 움직임, 캐릭터를 그대로 살렸다."
               },
               {
                 "t": "p",
-                "x": "The move responds to falling content quality, copyright infringement and other problems as the spread of AI technology drives a surge in short-drama production."
+                "x": "팀은 Meyers의 스토리보드를 바탕으로 전통적인 프리비즈 기법과 AI 도구를 함께 써서 카메라 무빙과 연기, 숏 타이밍, 렌즈 선택을 탐색했다. Framestore는 창고 실내외 환경의 3D 레이아웃을 만들었고, 디지털 매트 페인팅과 AI 도구로 디테일과 텍스처, 조명을 더했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill006-1280.jpg?itok=lUnQRKXQ"
+              },
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill007-1280.jpg?itok=sF7sj9HF"
               },
               {
                 "t": "p",
-                "x": "According to China's state-run Xinhua News Agency on the 8th, the National Radio and Television Administration, which oversees broadcasting and the internet, said it will run a special crackdown on short dramas until the 31st of next month to curb the spread of low-quality, formulaic content made with AI technology."
+                "x": "의상이 스스로 움직이는 것처럼 보이도록 Framestore는 전통적인 합성과 AI 기술을 결합한 인물 제거 파이프라인을 개발했고, 일부 의상에는 맞춤형 CG 키프레임 애니메이션을 더했다."
               },
               {
                 "t": "p",
-                "x": "The main targets are content harmful to children, scenes that stoke sexual sensationalism, content that encourages extreme confrontation or materialism, and works that seriously undermine family ethics."
+                "x": "“기존 VFX 파이프라인에 AI를 통합해, 작업이 요구하는 장인정신과 통제력을 해치지 않으면서 새로운 창작 가능성을 얻었다”고 Framestore 크리에이티브 디렉터이자 VFX 슈퍼바이저인 Kamen Markov는 말했다."
               },
               {
-                "t": "p",
-                "x": "In particular, it will also crack down on using AI technology to appropriate other people's faces or voices without permission, and on works that have not gone through registration and review as required by regulations."
-              },
-              {
-                "t": "p",
-                "x": "The crackdown also covers cleaning up low-quality content in drama titles and promotional videos, and repeatedly distributing the same work with only the title or the lead character's name changed."
-              },
-              {
-                "t": "p",
-                "x": "Online platforms were also told to change the practice of heavily recommending works with similar content on their front pages and popularity rankings."
-              },
-              {
-                "t": "p",
-                "x": "The administration said that this year it has removed 7만5천 (seventy-five thousand) rule-breaking short dramas from online platforms over low-quality or harmful content and copyright infringement, and sanctioned more than 1천500 (fifteen hundred) related accounts."
-              },
-              {
-                "t": "p",
-                "x": "According to data the administration released in September (9월), 43만 (four hundred thirty thousand) short dramas were released in China from January to August (1∼8월) this year, 13 times last year's total, and AI works accounted for more than 90% of them."
-              },
-              {
-                "t": "p",
-                "x": "Through the crackdown, the authorities plan to strengthen online platforms' responsibility for content management while supporting the production of quality works to steer the short-drama industry toward qualitative growth."
+                "t": "video",
+                "yt": "r3J9A5FSAIs"
               }
             ]
           }
         },
         "ja": {
-          "headline": "中国、AIショートドラマ\n年末まで集中取り締まり",
-          "body": "中国政府はAIを悪用した低俗・扇情的なショートドラマを年末まで特別に取り締まる。",
-          "mini_headline": "中国、AIショート\n年末取り締まり",
+          "headline": "FramestoreがAIを\nSkyのクリスマスVFXに",
+          "body": "FramestoreはSkyのDave Meyers監督CMでCGとAIを組み合わせた。",
+          "mini_headline": "FramestoreのハイブリッドAI VFX",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108050600083_01_i_P4.jpg",
-                "cap": "中国のショートドラマ制作現場[新華社=聯合ニュース資料写真]"
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081755-skyxmsstill015-1280.jpg",
+                "cap": "That's Christmas Sorted"
               },
               {
                 "t": "p",
-                "x": "中国政府が、人工知能(AI)を使った低俗・扇情的なコンテンツなど、ショートドラマに対する特別取り締まりに乗り出した。"
+                "x": "Framestoreは、Sky CreativeおよびRadicalMediaのDave Meyers監督と組み、Skyの新しいクリスマスキャンペーン「That's Christmas Sorted」を手がけた。CG環境とVFXに、従来の制作パイプラインに組み込んだAIツールを組み合わせている。Framestoreは全編を通じて実写の演技のタイミング、動き、キャラクター性を保った。"
               },
               {
                 "t": "p",
-                "x": "AI技術の普及でショートドラマの制作が急増するなか、コンテンツの質の低下や著作権侵害などの問題に対応するための措置だ。"
+                "x": "チームはMeyersの絵コンテをもとに、従来のプリビズ手法とAIツールを併用し、カメラワーク、演技、ショットのタイミング、レンズ選びを検討した。Framestoreは倉庫の屋内外環境の3D レイアウトを構築し、デジタルマットペインティングとAIツールでディテール、テクスチャ、ライティングを加えた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill006-1280.jpg?itok=lUnQRKXQ"
+              },
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill007-1280.jpg?itok=sF7sj9HF"
               },
               {
                 "t": "p",
-                "x": "8日の中国国営新華社通信によると、放送・インターネットの監督機関である国家ラジオテレビ総局は、AI技術を使った低俗で画一的なコンテンツの拡散を防ぐため、来月31日までショートドラマの特別取り締まりを実施すると明らかにした。"
+                "x": "衣装がひとりでに動いて見えるように、Framestoreは従来のコンポジットとAI技術を組み合わせた人物除去パイプラインを開発し、特定の衣装には専用のCGキーフレームアニメーションも加えた。"
               },
               {
                 "t": "p",
-                "x": "主な取り締まり対象は、子どもに関わる有害コンテンツ、扇情性をあおる場面、極端な対立を助長したり拝金主義をあおったりする内容、家族の倫理を著しく損なう作品などだ。"
+                "x": "「既存のVFXパイプラインにAIを組み込み、仕事に求められる技術とコントロールを損なわずに新たな創造の可能性を得た」と、Framestoreのクリエイティブディレクター兼VFXスーパーバイザー、Kamen Markovは語った。"
               },
               {
-                "t": "p",
-                "x": "特に、AI技術を使って他人の顔や声を無断で使用する行為や、規定に基づく登録・審査を経ていない作品も取り締まる。"
-              },
-              {
-                "t": "p",
-                "x": "ドラマのタイトルや宣伝映像などに含まれる低俗なコンテンツを整理し、同じ作品をタイトルや主人公の名前だけ変えて繰り返し流通させる行為も取り締まり対象に含めた。"
-              },
-              {
-                "t": "p",
-                "x": "オンラインプラットフォームがトップ画面や人気ランキングで似た内容の作品を集中的に推薦する慣行も改めるよう求めた。"
-              },
-              {
-                "t": "p",
-                "x": "同総局は今年に入り、低俗・有害コンテンツや著作権侵害などを理由に、規定に違反したショートドラマ7万5千本をオンラインプラットフォームから排除し、関連アカウント1千500余りを処分したと明らかにした。"
-              },
-              {
-                "t": "p",
-                "x": "同総局が9月に発表した資料によると、今年1∼8月に中国で公開されたショートドラマは43万本と昨年全体の13倍に達し、このうちAI作品が90%以上を占めた。"
-              },
-              {
-                "t": "p",
-                "x": "当局は今回の特別取り締まりを通じてオンラインプラットフォームのコンテンツ管理責任を強化する一方、優れた作品の制作を支援し、ショートドラマ産業の質的成長を促す方針だ。"
+                "t": "video",
+                "yt": "r3J9A5FSAIs"
               }
             ]
           }
         },
         "zh": {
-          "headline": "中国集中整治AI短剧\n行动持续至年底",
-          "body": "中国政府将在年底前对滥用AI的低俗、煽情短剧开展专项整治。",
-          "mini_headline": "中国AI短剧\n年底整治",
+          "headline": "Framestore把AI\n融入Sky圣诞VFX",
+          "body": "Framestore在Sky的Dave Meyers广告中结合AI与CG完成特效。",
+          "mini_headline": "Framestore的混合AI VFX",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108050600083_01_i_P4.jpg",
-                "cap": "中国某短剧拍摄现场[新华社=韩联社资料图]"
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081755-skyxmsstill015-1280.jpg",
+                "cap": "That's Christmas Sorted"
               },
               {
                 "t": "p",
-                "x": "中国政府针对利用人工智能(AI)制作的低俗、煽情内容等短剧启动专项整治。"
+                "x": "Framestore与Sky Creative及RadicalMedia旗下导演Dave Meyers合作，为Sky新圣诞广告“That's Christmas Sorted”制作内容，将CG场景和VFX与嵌入传统制作流程的AI工具相结合。Framestore全程保留了真人表演的节奏、动作与角色特质。"
               },
               {
                 "t": "p",
-                "x": "此举旨在应对AI技术普及导致短剧产量激增后出现的内容质量下滑、侵犯版权等问题。"
+                "x": "团队以Meyers的分镜为基础，将传统预演手法与AI工具结合，探索运镜、表演、镜头时长与镜头焦段。Framestore搭建了仓库内外场景的3D 布局，并借助数字绘景和AI工具增添细节、纹理与光照。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill006-1280.jpg?itok=lUnQRKXQ"
+              },
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill007-1280.jpg?itok=sF7sj9HF"
               },
               {
                 "t": "p",
-                "x": "据中国官方新华社8日报道，广播与网络监管机构国家广播电视总局(广电总局)表示，为遏制利用AI技术制作的低俗、同质化内容扩散，将在下月31日前开展短剧专项整治。"
+                "x": "为了让服装看起来能自己动起来，Framestore开发了一套把传统合成与AI技术相结合的人物移除流程，并为特定服装制作了定制CG关键帧动画。"
               },
               {
                 "t": "p",
-                "x": "主要整治对象包括涉及儿童的有害内容、刺激感官的低俗场面、煽动极端对立或助长拜金主义的内容，以及严重破坏家庭伦理的作品等。"
+                "x": "“我们把AI融入现有VFX流程，在不牺牲这项工作所需的手艺和控制力的前提下，获得了新的创作可能。”Framestore创意总监兼VFX总监Kamen Markov说。"
               },
               {
-                "t": "p",
-                "x": "尤其是利用AI技术擅自使用他人面孔或声音的行为，以及未按规定完成备案和审核的作品，也在整治之列。"
-              },
-              {
-                "t": "p",
-                "x": "整治还包括清理剧名和宣传视频等中的低俗内容，以及仅更换剧名或主角名字便反复上线同一作品的行为。"
-              },
-              {
-                "t": "p",
-                "x": "同时要求网络平台改进在首页或热门榜单集中推荐同质化作品的做法。"
-              },
-              {
-                "t": "p",
-                "x": "广电总局表示，今年以来已因低俗有害内容、侵犯版权等原因，在网络平台下架违规短剧7万5千部，处置相关账号1千500余个。"
-              },
-              {
-                "t": "p",
-                "x": "根据广电总局9月发布的数据，今年1∼8月中国上线的短剧达43万部，是去年全年的13倍，其中AI作品占比超过90%。"
-              },
-              {
-                "t": "p",
-                "x": "当局计划借此次专项整治强化网络平台的内容管理责任，同时扶持优质作品创作，引导短剧产业实现质的提升。"
+                "t": "video",
+                "yt": "r3J9A5FSAIs"
               }
             ]
           }
         },
         "es": {
-          "headline": "China combate los microdramas\nde AI hasta fin de año",
-          "body": "El Gobierno chino perseguirá hasta fin de año los microdramas vulgares y sensacionalistas que abusan de la AI.",
-          "mini_headline": "China: microdramas\nde AI, bajo control",
+          "headline": "Framestore integra AI en los\nVFX navideños de Sky",
+          "body": "Framestore usó AI con CG en el spot de Sky de Dave Meyers para previs, borrar personajes y animar trajes.",
+          "mini_headline": "La AI híbrida de Framestore en VFX",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108050600083_01_i_P4.jpg",
-                "cap": "Rodaje de un microdrama en China [Xinhua=Yonhap, foto de archivo]"
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081755-skyxmsstill015-1280.jpg",
+                "cap": "That's Christmas Sorted"
               },
               {
                 "t": "p",
-                "x": "El Gobierno chino ha emprendido una campaña especial contra los microdramas, incluidos los contenidos vulgares y sensacionalistas hechos con inteligencia artificial (AI)."
+                "x": "Framestore se ha asociado con Sky Creative y con el director Dave Meyers, de RadicalMedia, en “That's Christmas Sorted”, la nueva campaña navideña de Sky, que combina entornos CG y VFX con herramientas de AI integradas en un pipeline de producción tradicional. Framestore conservó en todo momento el ritmo, el movimiento y el carácter de las interpretaciones en acción real."
               },
               {
                 "t": "p",
-                "x": "La medida busca responder a problemas como la caída de la calidad de los contenidos y las infracciones de derechos de autor, en un momento en que la expansión de la tecnología de AI ha disparado la producción de microdramas."
+                "x": "A partir de los storyboards de Meyers, el equipo combinó técnicas tradicionales de previs con herramientas de AI para explorar movimientos de cámara, interpretación, timing de los planos y elección de lentes. Framestore construyó layouts 3D de los entornos interiores y exteriores de un almacén; el matte painting digital y las herramientas de AI añadieron detalle, texturas e iluminación."
+              },
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill006-1280.jpg?itok=lUnQRKXQ"
+              },
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill007-1280.jpg?itok=sF7sj9HF"
               },
               {
                 "t": "p",
-                "x": "Según informó el día 8 la agencia estatal china Xinhua, la Administración Nacional de Radio y Televisión, organismo que supervisa la radiodifusión e internet, anunció que llevará a cabo una campaña especial contra los microdramas hasta el día 31 del próximo mes para frenar la difusión de contenidos vulgares y uniformes creados con tecnología de AI."
+                "x": "Para que el vestuario pareciera animarse solo, Framestore desarrolló un pipeline de eliminación de personajes que combina composición tradicional con tecnología de AI, además de animación CG por keyframes hecha a medida para trajes concretos."
               },
               {
                 "t": "p",
-                "x": "Los principales objetivos son los contenidos nocivos relacionados con menores, las escenas que buscan provocar con lo sexual, los contenidos que fomentan la confrontación extrema o el materialismo y las obras que dañan gravemente la ética familiar."
+                "x": "“Integramos la AI en nuestro pipeline de VFX existente de una forma que nos dio nuevas posibilidades creativas sin comprometer el oficio ni el control que exige el trabajo”, dijo Kamen Markov, director creativo y supervisor de VFX de Framestore."
               },
               {
-                "t": "p",
-                "x": "En particular, también se perseguirá el uso de tecnología de AI para utilizar sin permiso el rostro o la voz de otras personas, así como las obras que no hayan pasado el registro y la revisión exigidos por la normativa."
-              },
-              {
-                "t": "p",
-                "x": "La campaña también incluye depurar los contenidos vulgares de títulos y vídeos promocionales, y perseguir la distribución repetida de una misma obra cambiando solo el título o el nombre del protagonista."
-              },
-              {
-                "t": "p",
-                "x": "Además, se pidió a las plataformas en línea que corrijan la práctica de recomendar de forma concentrada obras de contenido similar en sus portadas o rankings de popularidad."
-              },
-              {
-                "t": "p",
-                "x": "La Administración indicó que en lo que va de año ha retirado de las plataformas en línea 7만5천 (setenta y cinco mil) microdramas que infringían la normativa por contenidos vulgares o nocivos y violaciones de derechos de autor, y ha sancionado a más de 1천500 (mil quinientas) cuentas relacionadas."
-              },
-              {
-                "t": "p",
-                "x": "Según datos publicados por la Administración en septiembre (9월), entre enero y agosto (1∼8월) de este año se estrenaron en China 43만 (cuatrocientos treinta mil) microdramas, 13 veces el total del año pasado, y las obras hechas con AI supusieron más del 90%."
-              },
-              {
-                "t": "p",
-                "x": "Con esta campaña, las autoridades pretenden reforzar la responsabilidad de las plataformas en línea en la gestión de contenidos y, a la vez, apoyar la producción de obras de calidad para impulsar un crecimiento cualitativo de la industria de los microdramas."
+                "t": "video",
+                "yt": "r3J9A5FSAIs"
               }
             ]
           }
@@ -1329,15 +767,15 @@
       }
     },
     {
-      "id": "camerimage-2026-ai-opening",
+      "id": "runway-realtime-batch-one",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Camerimage 34회\nAI를 화두로 개막",
-      "body": "34회 Camerimage가 로봇과 'Artificial'로 AI를 전면에 세웠다.",
-      "mini_headline": "Camerimage,\nAI를 화두로 개막",
+      "headline": "Runway, 24 fps\n57B-param 스트리밍",
+      "body": "Runway는 H100s 네 개로 166.7ms 간격마다 네 프레임씩 뽑아낸다.",
+      "mini_headline": "Runway, 실시간 영상 생성",
       "tool": "Movies",
-      "source": "The Hollywood Reporter",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/camerimage-2026-artificial-darren-aronofsky-janusz-kaminski-1236750348/",
+      "source": "Runway",
+      "url": "https://runway.com/news/research/real-time-video-at-batch-size-one",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -1345,209 +783,233 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/896255562_1534408348712601_3080537561858593218_n.jpg",
-            "cap": "AI-friendly 감독 Darren Aronofsky가 Camerimage에서 2026 Director Award를 받았다"
+            "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png"
           },
           {
             "t": "p",
-            "x": "토요일 막을 올린 제34회 Camerimage Film Festival 개막식에서는 다들 말을 아껴 온 AI 문제가 무대 한가운데를 차지했다. 이 폴란드 영화제는 논쟁을 비켜 가지 않고 정면으로 파고들었다."
+            "x": "Runway Characters는 이미지 한 장을 대화할 수 있는 라이브 캐릭터로 바꾼다. 뒤에서 돌아가는 건 약 57B-parameter 규모의 자기회귀 비디오 디퓨전 트랜스포머다. 초당 24 프레임(fps)을 지키려면 이 모델은 대화 내내 사용자 한 명마다 704x1088 해상도의 네 프레임 묶음을 166.7ms 간격으로 새로 뽑아내야 한다."
           },
           {
             "t": "p",
-            "x": "개막 연설은 영화제 집행위원장 Marek Żydowicz가 아니라 “Edward Warchocki”라는 휴머노이드 로봇이 맡았다. Żydowicz는 Toruń에서 일주일간 이어지는 이번 행사 내내 AI의 “희망과 위협”이 주요 화두가 될 것이라고 했다."
+            "x": "Characters는 출시 당시 세션마다 H100s 여덟 개를 썼다. 네 개로는 출시 때 소프트웨어 기준 디퓨전 스텝당 240.9ms 걸렸지만, Runway가 최적화한 끝에 159.3ms (24.5 fps 유지)까지 줄었다. 이제 세션마다 H100s 네 개면 실시간으로 돈다. 통신을 융합한 커널을 쓰면 147.4ms 까지 내려간다."
+          },
+          {
+            "t": "p",
+            "x": "배칭은 소용없다. 세션 하나하나가 2.24 PFLOP/s 의 유효 연산을 요구하는 일대일 비공개 스트림이어서다. 쓰기 시점에 한 번만 적용하는 캐시 관리는 스텝당 69.7ms 에서 6.2ms 로 짧아졌다."
           },
           {
             "t": "img",
-            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/892794790_17896401696613369_2625112634376390574_n.jpg",
-            "cap": "Camerimage 개막식에 휴머노이드 로봇 Edward가 등장했다."
+            "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/image-1-9ec7fdc5-4e77-4178-8704-6574c6b7b80f.png",
+            "cap": "스텝별 디퓨전 시간의 누적 폭포 차트."
           },
           {
             "t": "p",
-            "x": "Francis Ford Coppola, Gal Gadot, Christopher Nolan, Maggie Gyllenhaal, Steven Spielberg, Ben Affleck은 영상 메시지로 AI를 어떻게 보는지 밝혔다. AI 스튜디오 Primordial Soup을 세운 뒤 생성형 AI를 적극 옹호해 온 Darren Aronofsky는 명예 Award for Director를, Janusz Kamiński는 THR의 Visionary Award를 받았다."
+            "x": "일곱 주치 텔레메트리를 보면 워커는 세션의 99.5% 에서 평균 23.5 fps 이상을 유지했다. 대화 턴 중앙값은 2.13s 였고, 그중 1.42s 는 음성 에이전트 몫이었다."
           },
           {
-            "t": "p",
-            "x": "개막작은 OpenAI 탄생 과정을 그린 Luca Guadagnino 감독의 Artificial이었다. 촬영감독 Malik Hassan Sayeed는 AI를 “다른 모든 것과 마찬가지로 하나의 도구일 뿐”이라고 했다. 이 영화를 35 mm로 찍은 Guadagnino는 진짜 문제가 “테크 과두 세력”에 있다고 말했다. Camerimage는 Nov. 14까지 열린다."
+            "t": "img",
+            "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/3-0d345623-81cb-40bb-9285-23d806d08d1d.png",
+            "cap": "단계별 턴 지연 시간 중앙값."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Camerimage opens its 34th\nedition on an AI reckoning",
-          "body": "The 34th Camerimage put AI at center stage, opening with Luca Guadagnino's 'Artificial' and a robot.",
-          "mini_headline": "Camerimage opens\non an AI reckoning",
+          "headline": "Runway streams a 57B-param\nvideo model at 24 fps",
+          "body": "For Characters, Runway generates a four-frame chunk every 166.7ms per user, running each session on four H100s.",
+          "mini_headline": "Runway video in real time",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/896255562_1534408348712601_3080537561858593218_n.jpg",
-                "cap": "AI-friendly director Darren Aronofsky received the 2026 Director Award at Camerimage"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png"
               },
               {
                 "t": "p",
-                "x": "The AI elephant in the room took center stage on Saturday at the opening night of the 34th Camerimage Film Festival. Instead of avoiding the divisive issue, the Polish fest doubled down."
+                "x": "Runway Characters can turn a single image into a live character you can talk to, and behind it is a roughly 57B-parameter autoregressive video diffusion transformer. At 24 frames per second (fps), that model has to generate a new four-frame chunk of 704x1088 video every 166.7ms, for one user at a time, for as long as the conversation lasts."
               },
               {
                 "t": "p",
-                "x": "For the opening address, in place of festival director Marek Żydowicz, Camerimage sent a humanoid robot, called “Edward Warchocki,” on stage. Żydowicz said the “hopes and threats” of AI would be a major talking point throughout the seven-day event in Toruń."
+                "x": "Characters launched on eight H100s per session. On four, the launch software took 240.9ms per diffusion step; Runway's optimizations cut it to 159.3ms (24.5 fps sustained), so each session now runs in real time on four H100s. A fused communication kernel takes it to 147.4ms."
+              },
+              {
+                "t": "p",
+                "x": "Batching can't help: each session is a private, one-on-one stream needing 2.24 PFLOP/s of useful work. Cache upkeep, applied once at write time, fell from 69.7ms to 6.2ms per step."
               },
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/892794790_17896401696613369_2625112634376390574_n.jpg",
-                "cap": "The Camerimage opening ceremony featured a humanoid robot called Edward."
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/image-1-9ec7fdc5-4e77-4178-8704-6574c6b7b80f.png",
+                "cap": "Cumulative waterfall of diffusion time per step."
               },
               {
                 "t": "p",
-                "x": "Video messages from Francis Ford Coppola, Gal Gadot, Christopher Nolan, Maggie Gyllenhaal, Steven Spielberg and Ben Affleck weighed in on AI. Darren Aronofsky, a vocal advocate of generative AI since launching his AI studio Primordial Soup, received the honorary Award for Director; Janusz Kamiński received THR’s Visionary Award."
+                "x": "Over seven weeks of telemetry, the worker averaged above 23.5 fps in 99.5% of sessions. The median conversational turn took 2.13s, of which the voice agent accounted for 1.42s."
               },
               {
-                "t": "p",
-                "x": "The opening film was Luca Guadagnino’s OpenAI origin story Artificial. Cinematographer Malik Hassan Sayeed called AI “just a tool, like any other”; Guadagnino, who shot it on 35 mm, said its real issues are about “the tech oligarchs.” Camerimage runs through Nov. 14."
+                "t": "img",
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/3-0d345623-81cb-40bb-9285-23d806d08d1d.png",
+                "cap": "Per-stage median turn latency."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Camerimage 34회\nAI를 화두로 개막",
-          "body": "34회 Camerimage가 로봇과 'Artificial'로 AI를 전면에 세웠다.",
-          "mini_headline": "Camerimage,\nAI를 화두로 개막",
+          "headline": "Runway, 24 fps\n57B-param 스트리밍",
+          "body": "Runway는 H100s 네 개로 166.7ms 간격마다 네 프레임씩 뽑아낸다.",
+          "mini_headline": "Runway, 실시간 영상 생성",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/896255562_1534408348712601_3080537561858593218_n.jpg",
-                "cap": "AI-friendly 감독 Darren Aronofsky가 Camerimage에서 2026 Director Award를 받았다"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png"
               },
               {
                 "t": "p",
-                "x": "토요일 막을 올린 제34회 Camerimage Film Festival 개막식에서는 다들 말을 아껴 온 AI 문제가 무대 한가운데를 차지했다. 이 폴란드 영화제는 논쟁을 비켜 가지 않고 정면으로 파고들었다."
+                "x": "Runway Characters는 이미지 한 장을 대화할 수 있는 라이브 캐릭터로 바꾼다. 뒤에서 돌아가는 건 약 57B-parameter 규모의 자기회귀 비디오 디퓨전 트랜스포머다. 초당 24 프레임(fps)을 지키려면 이 모델은 대화 내내 사용자 한 명마다 704x1088 해상도의 네 프레임 묶음을 166.7ms 간격으로 새로 뽑아내야 한다."
               },
               {
                 "t": "p",
-                "x": "개막 연설은 영화제 집행위원장 Marek Żydowicz가 아니라 “Edward Warchocki”라는 휴머노이드 로봇이 맡았다. Żydowicz는 Toruń에서 일주일간 이어지는 이번 행사 내내 AI의 “희망과 위협”이 주요 화두가 될 것이라고 했다."
+                "x": "Characters는 출시 당시 세션마다 H100s 여덟 개를 썼다. 네 개로는 출시 때 소프트웨어 기준 디퓨전 스텝당 240.9ms 걸렸지만, Runway가 최적화한 끝에 159.3ms (24.5 fps 유지)까지 줄었다. 이제 세션마다 H100s 네 개면 실시간으로 돈다. 통신을 융합한 커널을 쓰면 147.4ms 까지 내려간다."
+              },
+              {
+                "t": "p",
+                "x": "배칭은 소용없다. 세션 하나하나가 2.24 PFLOP/s 의 유효 연산을 요구하는 일대일 비공개 스트림이어서다. 쓰기 시점에 한 번만 적용하는 캐시 관리는 스텝당 69.7ms 에서 6.2ms 로 짧아졌다."
               },
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/892794790_17896401696613369_2625112634376390574_n.jpg",
-                "cap": "Camerimage 개막식에 휴머노이드 로봇 Edward가 등장했다."
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/image-1-9ec7fdc5-4e77-4178-8704-6574c6b7b80f.png",
+                "cap": "스텝별 디퓨전 시간의 누적 폭포 차트."
               },
               {
                 "t": "p",
-                "x": "Francis Ford Coppola, Gal Gadot, Christopher Nolan, Maggie Gyllenhaal, Steven Spielberg, Ben Affleck은 영상 메시지로 AI를 어떻게 보는지 밝혔다. AI 스튜디오 Primordial Soup을 세운 뒤 생성형 AI를 적극 옹호해 온 Darren Aronofsky는 명예 Award for Director를, Janusz Kamiński는 THR의 Visionary Award를 받았다."
+                "x": "일곱 주치 텔레메트리를 보면 워커는 세션의 99.5% 에서 평균 23.5 fps 이상을 유지했다. 대화 턴 중앙값은 2.13s 였고, 그중 1.42s 는 음성 에이전트 몫이었다."
               },
               {
-                "t": "p",
-                "x": "개막작은 OpenAI 탄생 과정을 그린 Luca Guadagnino 감독의 Artificial이었다. 촬영감독 Malik Hassan Sayeed는 AI를 “다른 모든 것과 마찬가지로 하나의 도구일 뿐”이라고 했다. 이 영화를 35 mm로 찍은 Guadagnino는 진짜 문제가 “테크 과두 세력”에 있다고 말했다. Camerimage는 Nov. 14까지 열린다."
+                "t": "img",
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/3-0d345623-81cb-40bb-9285-23d806d08d1d.png",
+                "cap": "단계별 턴 지연 시간 중앙값."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Camerimage開幕、\n第34回はAIが焦点",
-          "body": "第34回Camerimageは『Artificial』とロボットでAIを主役に据えた。",
-          "mini_headline": "Camerimage、\nAIを焦点に開幕",
+          "headline": "Runway、24 fpsで\n57B-param 動画配信",
+          "body": "RunwayはH100s 四基で166.7ms ごとに四フレームを生成する。",
+          "mini_headline": "Runway、動画をリアルタイム生成",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/896255562_1534408348712601_3080537561858593218_n.jpg",
-                "cap": "AI-friendlyな監督Darren AronofskyはCamerimageで2026 Director Awardを受賞した"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png"
               },
               {
                 "t": "p",
-                "x": "第34回Camerimage Film Festivalのオープニングナイトとなった土曜日、誰もが口にしづらいAIの問題が中心に据えられた。このポーランドの映画祭は、意見の割れるこの問題を避けるどころか、さらに踏み込んだ。"
+                "x": "Runway Charactersは一枚の画像を、会話できるライブキャラクターに変える。その裏にあるのは約57B-parameter の自己回帰型ビデオ拡散トランスフォーマーだ。毎秒24フレーム（fps）を保つには、会話が続く限り、ユーザー一人ずつに対して704x1088の新しい四フレームのチャンクを166.7ms ごとに生成しなければならない。"
               },
               {
                 "t": "p",
-                "x": "開会の挨拶では、映画祭ディレクターのMarek Żydowiczに代わり、Camerimageは「Edward Warchocki」と名付けられた人型ロボットを登壇させた。Żydowiczは、Toruńで七日間にわたって開かれる今回の映画祭を通じて、AIの「希望と脅威」が大きな論点になると述べた。"
+                "x": "Charactersはセッションあたり八基のH100s でローンチした。四基では、ローンチ時のソフトウェアは拡散ステップあたり240.9ms かかったが、Runwayの最適化で159.3ms （24.5 fpsを維持）まで短縮し、各セッションは現在H100s 四基でリアルタイムに動く。通信を融合したカーネルを使えば147.4ms まで縮まる。"
+              },
+              {
+                "t": "p",
+                "x": "バッチ処理は役に立たない。各セッションは2.24 PFLOP/s の有効演算を要する、非公開の一対一ストリームだからだ。書き込み時に一度だけ適用するキャッシュ維持の時間は、ステップあたり69.7ms から6.2ms に減った。"
               },
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/892794790_17896401696613369_2625112634376390574_n.jpg",
-                "cap": "Camerimageの開会式にはEdwardという人型ロボットが登場した。"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/image-1-9ec7fdc5-4e77-4178-8704-6574c6b7b80f.png",
+                "cap": "ステップごとの拡散時間の累積ウォーターフォール。"
               },
               {
                 "t": "p",
-                "x": "Francis Ford Coppola、Gal Gadot、Christopher Nolan、Maggie Gyllenhaal、Steven Spielberg、Ben Affleckはビデオメッセージを寄せ、AIについて意見を述べた。AIスタジオPrimordial Soupを立ち上げて以来、生成AIを積極的に支持してきたDarren Aronofskyが名誉Award for Directorを、Janusz KamińskiがTHRのVisionary Awardを受賞した。"
+                "x": "七週間のテレメトリーでは、ワーカーは99.5%のセッションで平均23.5 fps超を維持した。会話ターンの中央値は2.13s で、うち1.42s を音声エージェントが占めた。"
               },
               {
-                "t": "p",
-                "x": "オープニング作品は、OpenAIの誕生を描いたLuca Guadagnino監督の『Artificial』だった。撮影監督のMalik Hassan SayeedはAIを「ほかと同じ、ただの道具」と呼び、本作を35 mmで撮影したGuadagninoは、本当の問題は「テック・オリガルヒ」にあると語った。Camerimageの会期はNov. 14までである。"
+                "t": "img",
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/3-0d345623-81cb-40bb-9285-23d806d08d1d.png",
+                "cap": "段階別のターン遅延の中央値。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "第34届Camerimage\n直面AI拉开帷幕",
-          "body": "第34届Camerimage以《Artificial》和机器人开幕，让AI成为焦点。",
-          "mini_headline": "Camerimage\n聚焦AI开幕",
+          "headline": "Runway以 24 fps\n运行57B-param 模型",
+          "body": "Runway为Characters每166.7ms 生成四帧，每个会话用四块H100s。",
+          "mini_headline": "Runway实时生成视频",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/896255562_1534408348712601_3080537561858593218_n.jpg",
-                "cap": "AI-friendly的导演Darren Aronofsky在Camerimage获得2026 Director Award"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png"
               },
               {
                 "t": "p",
-                "x": "周六，第34届Camerimage Film Festival开幕之夜，人人避而不谈的AI问题被推上了舞台中央。这个波兰电影节没有回避这一争议话题，反而加倍投入。"
+                "x": "Runway Characters能把一张图片变成可以对话的实时角色，背后是一个约57B-parameter 的自回归视频扩散transformer。要维持每秒24帧（fps），该模型必须在整个对话期间，每次为一位用户、每166.7ms 生成一段新的四帧704x1088视频块。"
               },
               {
                 "t": "p",
-                "x": "开幕致辞环节，Camerimage没有让电影节主席Marek Żydowicz登台，而是派出一台名为“Edward Warchocki”的人形机器人。Żydowicz表示，在Toruń举行的为期七天的活动中，AI的“希望与威胁”将是主要议题。"
+                "x": "Characters上线时每个会话使用八块H100s 。在四块上，上线时的软件每个扩散步骤耗时240.9ms ；经Runway优化后降至159.3ms （可持续24.5 fps），因此如今每个会话可在四块H100s 上实时运行。融合通信内核可进一步降至147.4ms 。"
+              },
+              {
+                "t": "p",
+                "x": "批处理无济于事：每个会话都是私密的一对一流，需要2.24 PFLOP/s 的有效算力。只在写入时执行一次的缓存维护，每步耗时从69.7ms 降到6.2ms 。"
               },
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/892794790_17896401696613369_2625112634376390574_n.jpg",
-                "cap": "Camerimage开幕式上出现了一台名为Edward的人形机器人。"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/image-1-9ec7fdc5-4e77-4178-8704-6574c6b7b80f.png",
+                "cap": "每步扩散时间的累积瀑布图。"
               },
               {
                 "t": "p",
-                "x": "Francis Ford Coppola、Gal Gadot、Christopher Nolan、Maggie Gyllenhaal、Steven Spielberg和Ben Affleck通过视频发表了对AI的看法。自创办AI工作室Primordial Soup以来一直高调支持生成式AI的Darren Aronofsky获得荣誉Award for Director，Janusz Kamiński获得THR的Visionary Award。"
+                "x": "在七周的遥测数据中，工作进程在99.5%的会话里平均帧率高于23.5 fps。对话轮次的中位耗时为2.13s ，其中语音代理占1.42s 。"
               },
               {
-                "t": "p",
-                "x": "开幕片是Luca Guadagnino讲述OpenAI起源的影片《Artificial》。摄影指导Malik Hassan Sayeed称AI“只是一种工具，和其他工具一样”；用35 mm胶片拍摄该片的Guadagnino则表示，真正的问题在于“科技寡头”。Camerimage将持续至Nov. 14。"
+                "t": "img",
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/3-0d345623-81cb-40bb-9285-23d806d08d1d.png",
+                "cap": "各阶段轮次延迟中位数。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Camerimage abre su edición 34\nmirando de frente a la AI",
-          "body": "La edición 34 de Camerimage puso la AI en el centro y abrió con 'Artificial', de Luca Guadagnino, y un robot.",
-          "mini_headline": "Camerimage abre\nmirando a la AI",
+          "headline": "Runway transmite a 24 fps\nun modelo de video 57B-param",
+          "body": "En Characters, Runway genera un bloque de cuatro fotogramas cada 166.7ms por usuario y usa cuatro H100s por sesión.",
+          "mini_headline": "Runway, video en tiempo real",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/896255562_1534408348712601_3080537561858593218_n.jpg",
-                "cap": "El director AI-friendly Darren Aronofsky recibió el 2026 Director Award en Camerimage"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png"
               },
               {
                 "t": "p",
-                "x": "El elefante en la habitación de la AI ocupó el centro del escenario el sábado en la noche inaugural de la edición 34 del Camerimage Film Festival. En lugar de esquivar este asunto que divide opiniones, el festival polaco redobló la apuesta."
+                "x": "Runway Characters puede convertir una sola imagen en un personaje en vivo con el que se puede hablar, y detrás hay un transformer de difusión de video autorregresivo de unos 57B-parameter. A 24 fotogramas por segundo (fps), ese modelo debe generar un nuevo bloque de cuatro fotogramas de video de 704x1088 cada 166.7ms, para un usuario a la vez, mientras dure la conversación."
               },
               {
                 "t": "p",
-                "x": "Para el discurso inaugural, en lugar del director del festival, Marek Żydowicz, Camerimage subió al escenario a un robot humanoide llamado “Edward Warchocki”. Żydowicz dijo que las “esperanzas y amenazas” de la AI serían un tema central a lo largo de los siete días del evento en Toruń."
+                "x": "Characters se lanzó con ocho H100s por sesión. Con cuatro, el software de lanzamiento tardaba 240.9ms por paso de difusión; las optimizaciones de Runway lo redujeron a 159.3ms (24.5 fps sostenidos), así que cada sesión ya funciona en tiempo real con cuatro H100s. Un kernel de comunicación fusionado lo baja a 147.4ms."
+              },
+              {
+                "t": "p",
+                "x": "El batching no ayuda: cada sesión es un flujo privado, uno a uno, que necesita 2.24 PFLOP/s de trabajo útil. El mantenimiento de la caché, aplicado una sola vez al escribir, bajó de 69.7ms a 6.2ms por paso."
               },
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/892794790_17896401696613369_2625112634376390574_n.jpg",
-                "cap": "La ceremonia inaugural de Camerimage contó con un robot humanoide llamado Edward."
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/image-1-9ec7fdc5-4e77-4178-8704-6574c6b7b80f.png",
+                "cap": "Cascada acumulada del tiempo de difusión por paso."
               },
               {
                 "t": "p",
-                "x": "Francis Ford Coppola, Gal Gadot, Christopher Nolan, Maggie Gyllenhaal, Steven Spielberg y Ben Affleck opinaron sobre la AI en mensajes de video. Darren Aronofsky, firme defensor de la AI generativa desde que fundó su estudio de AI Primordial Soup, recibió el Award for Director honorífico; Janusz Kamiński recibió el Visionary Award de THR."
+                "x": "En siete semanas de telemetría, el worker promedió más de 23.5 fps en el 99.5% de las sesiones. El turno conversacional mediano duró 2.13s, de los cuales el agente de voz representó 1.42s."
               },
               {
-                "t": "p",
-                "x": "La película inaugural fue Artificial, de Luca Guadagnino, sobre los orígenes de OpenAI. El director de fotografía Malik Hassan Sayeed calificó la AI de “solo una herramienta, como cualquier otra”; Guadagnino, que la rodó en 35 mm, dijo que sus verdaderos problemas tienen que ver con “los oligarcas tecnológicos”. Camerimage se celebra hasta el 14 de noviembre (Nov. 14)."
+                "t": "img",
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/3-0d345623-81cb-40bb-9285-23d806d08d1d.png",
+                "cap": "Latencia mediana del turno por etapa."
               }
             ]
           }
@@ -1555,145 +1017,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Camerimage 34회\nAI를 화두로 개막",
-          "body": "34회 Camerimage가 로봇과 'Artificial'로 AI를 전면에 세웠다.",
-          "mini_headline": "Camerimage,\nAI를 화두로 개막",
+          "headline": "Runway, 24 fps\n57B-param 스트리밍",
+          "body": "Runway는 H100s 네 개로 166.7ms 간격마다 네 프레임을 만든다.",
+          "mini_headline": "Runway, 실시간 영상 생성",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/896255562_1534408348712601_3080537561858593218_n.jpg",
-                "cap": "AI-friendly 성향의 감독 Darren Aronofsky가 Camerimage에서 2026 Director Award를 받았다"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png"
               },
               {
                 "t": "p",
-                "x": "토요일 열린 제34회 Camerimage Film Festival 개막식에서 모두가 말을 아껴 온 AI 문제가 무대 중앙을 차지했다. 이 폴란드 영화제는 논쟁적인 사안을 피하는 대신 오히려 정면으로 파고들었다."
+                "x": "Runway Characters는 이미지 한 장을 대화할 수 있는 라이브 캐릭터로 바꾼다. 그 뒤에는 약 57B-parameter 규모의 자기회귀 비디오 디퓨전 트랜스포머가 있다. 초당 24 프레임(fps)을 유지하려면 이 모델은 대화가 이어지는 동안 사용자 한 명씩을 상대로 704x1088 해상도의 새 네 프레임 묶음을 166.7ms 간격으로 생성해야 한다."
               },
               {
                 "t": "p",
-                "x": "개막 연설은 영화제 집행위원장 Marek Żydowicz 대신 “Edward Warchocki”라는 휴머노이드 로봇이 무대에 올라 맡았다. Żydowicz는 Toruń에서 일주일간 열리는 이번 행사 내내 AI의 “희망과 위협”이 주요 화두가 될 것이라고 말했다."
+                "x": "Characters는 출시 당시 세션당 H100s 여덟 개로 돌았다. 네 개에서는 출시 때 소프트웨어가 디퓨전 스텝당 240.9ms 걸렸지만, Runway의 최적화로 159.3ms (24.5 fps 유지)까지 줄어 이제 세션마다 H100s 네 개로 실시간 구동이 가능하다. 통신을 융합한 커널을 쓰면 147.4ms 까지 내려간다."
+              },
+              {
+                "t": "p",
+                "x": "배칭은 도움이 되지 않는다. 각 세션은 2.24 PFLOP/s 의 유효 연산이 필요한 일대일 비공개 스트림이기 때문이다. 쓰기 시점에 한 번만 적용하는 캐시 관리 시간은 스텝당 69.7ms 에서 6.2ms 로 줄었다."
               },
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/892794790_17896401696613369_2625112634376390574_n.jpg",
-                "cap": "Camerimage 개막식에는 Edward라는 휴머노이드 로봇이 등장했다."
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/image-1-9ec7fdc5-4e77-4178-8704-6574c6b7b80f.png",
+                "cap": "스텝별 디퓨전 시간의 누적 폭포 차트."
               },
               {
                 "t": "p",
-                "x": "Francis Ford Coppola, Gal Gadot, Christopher Nolan, Maggie Gyllenhaal, Steven Spielberg, Ben Affleck은 영상 메시지로 AI에 대한 생각을 밝혔다. AI 스튜디오 Primordial Soup을 세운 뒤 생성형 AI를 적극 옹호해 온 Darren Aronofsky는 명예 Award for Director를, Janusz Kamiński는 THR의 Visionary Award를 받았다."
+                "x": "일곱 주 동안의 텔레메트리에서 워커는 세션의 99.5% 에서 평균 23.5 fps 이상을 유지했다. 대화 턴 중앙값은 2.13s 였고, 이 가운데 1.42s 를 음성 에이전트가 차지했다."
               },
               {
-                "t": "p",
-                "x": "개막작은 OpenAI의 탄생 과정을 그린 Luca Guadagnino 감독의 Artificial이었다. 촬영감독 Malik Hassan Sayeed는 AI를 “다른 모든 것과 마찬가지로 하나의 도구일 뿐”이라고 했고, 이 영화를 35 mm로 촬영한 Guadagnino는 진짜 문제는 “테크 과두 세력”에 관한 것이라고 말했다. Camerimage는 Nov. 14까지 이어진다."
+                "t": "img",
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/3-0d345623-81cb-40bb-9285-23d806d08d1d.png",
+                "cap": "단계별 턴 지연 시간 중앙값."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Camerimage開幕、\n第34回はAIが焦点",
-          "body": "第34回Camerimageは『Artificial』とロボットでAIを主役に据えた。",
-          "mini_headline": "Camerimage、\nAIを焦点に開幕",
+          "headline": "Runway、24 fpsで\n57B-param 動画配信",
+          "body": "RunwayはH100s 四基で166.7ms ごとに四フレームを生成する。",
+          "mini_headline": "Runway、動画をリアルタイム生成",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/896255562_1534408348712601_3080537561858593218_n.jpg",
-                "cap": "AI-friendlyな監督Darren AronofskyはCamerimageで2026 Director Awardを受賞した"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png"
               },
               {
                 "t": "p",
-                "x": "第34回Camerimage Film Festivalのオープニングナイトとなった土曜日、誰もが口にしづらいAIの問題が中心に据えられた。このポーランドの映画祭は、意見の割れるこの問題を避けるどころか、さらに踏み込んだ。"
+                "x": "Runway Charactersは一枚の画像を、会話できるライブキャラクターに変える。その裏にあるのは約57B-parameter の自己回帰型ビデオ拡散トランスフォーマーだ。毎秒24フレーム（fps）を保つには、会話が続く限り、ユーザー一人ずつに対して704x1088の新しい四フレームのチャンクを166.7ms ごとに生成しなければならない。"
               },
               {
                 "t": "p",
-                "x": "開会の挨拶では、映画祭ディレクターのMarek Żydowiczに代わり、Camerimageは「Edward Warchocki」と名付けられた人型ロボットを登壇させた。Żydowiczは、Toruńで七日間にわたって開かれる今回の映画祭を通じて、AIの「希望と脅威」が大きな論点になると述べた。"
+                "x": "Charactersはセッションあたり八基のH100s でローンチした。四基では、ローンチ時のソフトウェアは拡散ステップあたり240.9ms かかったが、Runwayの最適化で159.3ms （24.5 fpsを維持）まで短縮し、各セッションは現在H100s 四基でリアルタイムに動く。通信を融合したカーネルを使えば147.4ms まで縮まる。"
+              },
+              {
+                "t": "p",
+                "x": "バッチ処理は役に立たない。各セッションは2.24 PFLOP/s の有効演算を要する、非公開の一対一ストリームだからだ。書き込み時に一度だけ適用するキャッシュ維持の時間は、ステップあたり69.7ms から6.2ms に減った。"
               },
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/892794790_17896401696613369_2625112634376390574_n.jpg",
-                "cap": "Camerimageの開会式にはEdwardという人型ロボットが登場した。"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/image-1-9ec7fdc5-4e77-4178-8704-6574c6b7b80f.png",
+                "cap": "ステップごとの拡散時間の累積ウォーターフォール。"
               },
               {
                 "t": "p",
-                "x": "Francis Ford Coppola、Gal Gadot、Christopher Nolan、Maggie Gyllenhaal、Steven Spielberg、Ben Affleckはビデオメッセージを寄せ、AIについて意見を述べた。AIスタジオPrimordial Soupを立ち上げて以来、生成AIを積極的に支持してきたDarren Aronofskyが名誉Award for Directorを、Janusz KamińskiがTHRのVisionary Awardを受賞した。"
+                "x": "七週間のテレメトリーでは、ワーカーは99.5%のセッションで平均23.5 fps超を維持した。会話ターンの中央値は2.13s で、うち1.42s を音声エージェントが占めた。"
               },
               {
-                "t": "p",
-                "x": "オープニング作品は、OpenAIの誕生を描いたLuca Guadagnino監督の『Artificial』だった。撮影監督のMalik Hassan SayeedはAIを「ほかと同じ、ただの道具」と呼び、本作を35 mmで撮影したGuadagninoは、本当の問題は「テック・オリガルヒ」にあると語った。Camerimageの会期はNov. 14までである。"
+                "t": "img",
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/3-0d345623-81cb-40bb-9285-23d806d08d1d.png",
+                "cap": "段階別のターン遅延の中央値。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "第34届Camerimage\n直面AI拉开帷幕",
-          "body": "第34届Camerimage以《Artificial》和机器人开幕，让AI成为焦点。",
-          "mini_headline": "Camerimage\n聚焦AI开幕",
+          "headline": "Runway以 24 fps\n运行57B-param 模型",
+          "body": "Runway为Characters每166.7ms 生成四帧，每个会话用四块H100s。",
+          "mini_headline": "Runway实时生成视频",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/896255562_1534408348712601_3080537561858593218_n.jpg",
-                "cap": "AI-friendly的导演Darren Aronofsky在Camerimage获得2026 Director Award"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png"
               },
               {
                 "t": "p",
-                "x": "周六，第34届Camerimage Film Festival开幕之夜，人人避而不谈的AI问题被推上了舞台中央。这个波兰电影节没有回避这一争议话题，反而加倍投入。"
+                "x": "Runway Characters能把一张图片变成可以对话的实时角色，背后是一个约57B-parameter 的自回归视频扩散transformer。要维持每秒24帧（fps），该模型必须在整个对话期间，每次为一位用户、每166.7ms 生成一段新的四帧704x1088视频块。"
               },
               {
                 "t": "p",
-                "x": "开幕致辞环节，Camerimage没有让电影节主席Marek Żydowicz登台，而是派出一台名为“Edward Warchocki”的人形机器人。Żydowicz表示，在Toruń举行的为期七天的活动中，AI的“希望与威胁”将是主要议题。"
+                "x": "Characters上线时每个会话使用八块H100s 。在四块上，上线时的软件每个扩散步骤耗时240.9ms ；经Runway优化后降至159.3ms （可持续24.5 fps），因此如今每个会话可在四块H100s 上实时运行。融合通信内核可进一步降至147.4ms 。"
+              },
+              {
+                "t": "p",
+                "x": "批处理无济于事：每个会话都是私密的一对一流，需要2.24 PFLOP/s 的有效算力。只在写入时执行一次的缓存维护，每步耗时从69.7ms 降到6.2ms 。"
               },
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/892794790_17896401696613369_2625112634376390574_n.jpg",
-                "cap": "Camerimage开幕式上出现了一台名为Edward的人形机器人。"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/image-1-9ec7fdc5-4e77-4178-8704-6574c6b7b80f.png",
+                "cap": "每步扩散时间的累积瀑布图。"
               },
               {
                 "t": "p",
-                "x": "Francis Ford Coppola、Gal Gadot、Christopher Nolan、Maggie Gyllenhaal、Steven Spielberg和Ben Affleck通过视频发表了对AI的看法。自创办AI工作室Primordial Soup以来一直高调支持生成式AI的Darren Aronofsky获得荣誉Award for Director，Janusz Kamiński获得THR的Visionary Award。"
+                "x": "在七周的遥测数据中，工作进程在99.5%的会话里平均帧率高于23.5 fps。对话轮次的中位耗时为2.13s ，其中语音代理占1.42s 。"
               },
               {
-                "t": "p",
-                "x": "开幕片是Luca Guadagnino讲述OpenAI起源的影片《Artificial》。摄影指导Malik Hassan Sayeed称AI“只是一种工具，和其他工具一样”；用35 mm胶片拍摄该片的Guadagnino则表示，真正的问题在于“科技寡头”。Camerimage将持续至Nov. 14。"
+                "t": "img",
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/3-0d345623-81cb-40bb-9285-23d806d08d1d.png",
+                "cap": "各阶段轮次延迟中位数。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Camerimage abre su edición 34\nmirando de frente a la AI",
-          "body": "La edición 34 de Camerimage puso la AI en el centro y abrió con 'Artificial', de Luca Guadagnino, y un robot.",
-          "mini_headline": "Camerimage abre\nmirando a la AI",
+          "headline": "Runway transmite a 24 fps\nun modelo de video 57B-param",
+          "body": "En Characters, Runway genera un bloque de cuatro fotogramas cada 166.7ms por usuario y usa cuatro H100s por sesión.",
+          "mini_headline": "Runway, video en tiempo real",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/896255562_1534408348712601_3080537561858593218_n.jpg",
-                "cap": "El director AI-friendly Darren Aronofsky recibió el 2026 Director Award en Camerimage"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png"
               },
               {
                 "t": "p",
-                "x": "El elefante en la habitación de la AI ocupó el centro del escenario el sábado en la noche inaugural de la edición 34 del Camerimage Film Festival. En lugar de esquivar este asunto que divide opiniones, el festival polaco redobló la apuesta."
+                "x": "Runway Characters puede convertir una sola imagen en un personaje en vivo con el que se puede hablar, y detrás hay un transformer de difusión de video autorregresivo de unos 57B-parameter. A 24 fotogramas por segundo (fps), ese modelo debe generar un nuevo bloque de cuatro fotogramas de video de 704x1088 cada 166.7ms, para un usuario a la vez, mientras dure la conversación."
               },
               {
                 "t": "p",
-                "x": "Para el discurso inaugural, en lugar del director del festival, Marek Żydowicz, Camerimage subió al escenario a un robot humanoide llamado “Edward Warchocki”. Żydowicz dijo que las “esperanzas y amenazas” de la AI serían un tema central a lo largo de los siete días del evento en Toruń."
+                "x": "Characters se lanzó con ocho H100s por sesión. Con cuatro, el software de lanzamiento tardaba 240.9ms por paso de difusión; las optimizaciones de Runway lo redujeron a 159.3ms (24.5 fps sostenidos), así que cada sesión ya funciona en tiempo real con cuatro H100s. Un kernel de comunicación fusionado lo baja a 147.4ms."
+              },
+              {
+                "t": "p",
+                "x": "El batching no ayuda: cada sesión es un flujo privado, uno a uno, que necesita 2.24 PFLOP/s de trabajo útil. El mantenimiento de la caché, aplicado una sola vez al escribir, bajó de 69.7ms a 6.2ms por paso."
               },
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/892794790_17896401696613369_2625112634376390574_n.jpg",
-                "cap": "La ceremonia inaugural de Camerimage contó con un robot humanoide llamado Edward."
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/image-1-9ec7fdc5-4e77-4178-8704-6574c6b7b80f.png",
+                "cap": "Cascada acumulada del tiempo de difusión por paso."
               },
               {
                 "t": "p",
-                "x": "Francis Ford Coppola, Gal Gadot, Christopher Nolan, Maggie Gyllenhaal, Steven Spielberg y Ben Affleck opinaron sobre la AI en mensajes de video. Darren Aronofsky, firme defensor de la AI generativa desde que fundó su estudio de AI Primordial Soup, recibió el Award for Director honorífico; Janusz Kamiński recibió el Visionary Award de THR."
+                "x": "En siete semanas de telemetría, el worker promedió más de 23.5 fps en el 99.5% de las sesiones. El turno conversacional mediano duró 2.13s, de los cuales el agente de voz representó 1.42s."
               },
               {
-                "t": "p",
-                "x": "La película inaugural fue Artificial, de Luca Guadagnino, sobre los orígenes de OpenAI. El director de fotografía Malik Hassan Sayeed calificó la AI de “solo una herramienta, como cualquier otra”; Guadagnino, que la rodó en 35 mm, dijo que sus verdaderos problemas tienen que ver con “los oligarcas tecnológicos”. Camerimage se celebra hasta el 14 de noviembre (Nov. 14)."
+                "t": "img",
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/3-0d345623-81cb-40bb-9285-23d806d08d1d.png",
+                "cap": "Latencia mediana del turno por etapa."
               }
             ]
           }
@@ -1701,189 +1179,189 @@
       }
     },
     {
-      "id": "iqiyi-nadoupro-1938-film",
+      "id": "rotld-aftermath-ai-sequel",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "iQIYI, 1938년\n유실 영화 AI 재해석",
-      "body": "여덟 명이 iQIYI NadouPro로 1938년 유실 영화를 새로 만들었다.",
-      "mini_headline": "iQIYI AI, 1938년\n유실 영화 재해석",
+      "headline": "AI-made 속편에\n원년 배우들 반발",
+      "body": "Linnea Quigley·Beverly Randolph는 AI로만 영화에 나왔다.",
+      "mini_headline": "원년 배우들, AI 공포 속편 부인",
       "tool": "Movies",
-      "source": "Unite.AI",
-      "url": "https://www.unite.ai/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow/",
-      "accent": "#eb367f",
+      "source": "Bloody Disgusting",
+      "url": "https://bloody-disgusting.com/movie/3975227/return-of-the-living-dead-aftermath-backlash-ai-linnea-quigley/",
+      "accent": "#f5a623",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.unite.ai/wp-content/uploads/2026/11/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow.jpg"
+            "src": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg?resize=1600%2C900&ssl=1"
           },
           {
             "t": "p",
-            "x": "iQIYI는 2026년 11월 6일, 여덟 명으로 꾸린 팀이 자사 NadouPro 플랫폼으로 프린트·릴·대본이 모두 사라진 1938년 영화를 재구성했다고 발표했다. 두 달 만에 완성한 단편은 제39회 Golden Rooster Awards의 2026 Future Images AI Unit 후보에 올랐다."
+            "x": "시월 31일, DragonFLIX가 Return of the Living Dead: Aftermath를 조용히 공개했다. 원년 출연진 Linnea Quigley와 Beverly Randolph도 등장한다던 영화다. 정작 두 사람은 아무것도 촬영하지 않았는데 영화에 자기가 나와 놀랐다."
           },
           {
             "t": "p",
-            "x": "Visiting Shanghai after Sixty Years는 90년 가까이 유실됐고, 남은 것은 제작 스틸 사진과 포스터, 신문 스크랩뿐이었다. 이 자료들이 새 버전을 생성할 개념적 길잡이였다. iQIYI의 AI 복원 기술 책임자 Zidong Jiang은 남은 프린트를 복원하기보다 쓸 수 있는 역사 자료로 창의적 재구성을 노렸다고 말했다."
+            "x": "영화는 Richard Driscoll이 ‘연출’한 것으로 크레디트에 올라 있지만, 거의 전부가 AI-generated 이미지와 대사로 이뤄졌다. 각본을 ‘쓴’ 사람도 Driscoll이다."
           },
           {
             "t": "p",
-            "x": "팀은 1938년과 1998년의 이야기에서 인물이 흔들리지 않도록 숏을 생성하기 전에 인물별 얼굴 특징·비율·의상을 디지털 에셋으로 고정했다. 위치와 구도, 움직임은 NadouPro의 3D Director Studio로 조정했다. 감독 Enji Yang은 “AI로 어떻게 구현할지 고민하기 전에 영화의 시청각 설계가 먼저여야 한다고 늘 믿는다”고 말했다."
+            "x": "Quigley는 Caffeinated Horror Dude 팟캐스트에서 “결국 대실패로 끝났다”고 말했다. “그에게 ‘무슨 일이 있어도 AI만은 쓰지 마라, 사람들도 싫어하고 팬들도 싫어한다’고 경고했다.” Randolph는 “우리가 계약한 건 이런 게 아니다”라고 덧붙였다."
           },
           {
             "t": "p",
-            "x": "완성된 단편은 역사 자료에 근거한 새로운 해석일 뿐, 유실된 원본 필름을 되찾은 것은 아니다."
+            "x": "Letterboxd에 매겨진 평점은 현재 95%가 별 다섯 개 만점에 별 1/2개다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "iQIYI reimagines a lost 1938\nfilm with its AI platform",
-          "body": "An eight-person team used iQIYI's NadouPro to generate a new version of a lost 1938 film from surviving stills.",
-          "mini_headline": "iQIYI AI reimagines\na lost 1938 film",
+          "headline": "Original stars disown AI-made\n'Return of the Living Dead'",
+          "body": "Linnea Quigley and Beverly Randolph say DragonFLIX's AI sequel shows them without their having filmed anything.",
+          "mini_headline": "Stars disown AI horror sequel",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/11/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow.jpg"
+                "src": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg?resize=1600%2C900&ssl=1"
               },
               {
                 "t": "p",
-                "x": "An eight-person team used iQIYI’s NadouPro platform to reconstruct a 1938 film whose prints, reels and scripts had been lost, the company announced on November 6, 2026. The short, completed in two months, was shortlisted for the 2026 Future Images AI Unit at the 39th Golden Rooster Awards."
+                "x": "On October 31, Return of the Living Dead: Aftermath was quietly released by DragonFLIX. The film was even set to feature original cast members Linnea Quigley and Beverly Randolph — and it surprised them, as they appear in it without having actually filmed anything."
               },
               {
                 "t": "p",
-                "x": "Visiting Shanghai after Sixty Years had been lost for nearly 90 years, leaving production still photographs, posters and newspaper clippings as the conceptual guides for generating a new version. Zidong Jiang, iQIYI’s director of AI restoration technology, said the team pursued a creative reconstruction based on available historical materials rather than attempting to restore a surviving print."
+                "x": "While the movie is credited as “directed” by Richard Driscoll, nearly the entire film is comprised of AI-generated imagery and dialogue. Driscoll is also credited with having “written” the film."
               },
               {
                 "t": "p",
-                "x": "To keep characters consistent across the 1938 and 1998 storylines, the team fixed digital assets for each character’s facial features, proportions and costumes before generating shots. NadouPro’s 3D Director Studio let them adjust positioning, composition and movement. “We always believe the audiovisual design of a film must come first, before considering how AI can realize it,” director Enji Yang said."
+                "x": "“It turned out to be a fiasco,” Quigley told the Caffeinated Horror Dude podcast. “I warned him, ‘Whatever you do, don’t do any AI, because people don’t like it, the fans don’t like it.’” Randolph added, “This is not what we signed up for.”"
               },
               {
                 "t": "p",
-                "x": "The resulting short is a new interpretation guided by historical evidence; it does not recover the lost original footage."
+                "x": "On Letterboxd, 95% of the current ratings are 1/2 star out of five."
               }
             ]
           }
         },
         "ko": {
-          "headline": "iQIYI, 1938년\n유실 영화 AI 재해석",
-          "body": "여덟 명이 iQIYI NadouPro로 1938년 유실 영화를 새로 만들었다.",
-          "mini_headline": "iQIYI AI, 1938년\n유실 영화 재해석",
+          "headline": "AI-made 속편에\n원년 배우들 반발",
+          "body": "Linnea Quigley·Beverly Randolph는 AI로만 영화에 나왔다.",
+          "mini_headline": "원년 배우들, AI 공포 속편 부인",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/11/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow.jpg"
+                "src": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg?resize=1600%2C900&ssl=1"
               },
               {
                 "t": "p",
-                "x": "iQIYI는 2026년 11월 6일, 여덟 명으로 꾸린 팀이 자사 NadouPro 플랫폼으로 프린트·릴·대본이 모두 사라진 1938년 영화를 재구성했다고 발표했다. 두 달 만에 완성한 단편은 제39회 Golden Rooster Awards의 2026 Future Images AI Unit 후보에 올랐다."
+                "x": "시월 31일, DragonFLIX가 Return of the Living Dead: Aftermath를 조용히 공개했다. 원년 출연진 Linnea Quigley와 Beverly Randolph도 등장한다던 영화다. 정작 두 사람은 아무것도 촬영하지 않았는데 영화에 자기가 나와 놀랐다."
               },
               {
                 "t": "p",
-                "x": "Visiting Shanghai after Sixty Years는 90년 가까이 유실됐고, 남은 것은 제작 스틸 사진과 포스터, 신문 스크랩뿐이었다. 이 자료들이 새 버전을 생성할 개념적 길잡이였다. iQIYI의 AI 복원 기술 책임자 Zidong Jiang은 남은 프린트를 복원하기보다 쓸 수 있는 역사 자료로 창의적 재구성을 노렸다고 말했다."
+                "x": "영화는 Richard Driscoll이 ‘연출’한 것으로 크레디트에 올라 있지만, 거의 전부가 AI-generated 이미지와 대사로 이뤄졌다. 각본을 ‘쓴’ 사람도 Driscoll이다."
               },
               {
                 "t": "p",
-                "x": "팀은 1938년과 1998년의 이야기에서 인물이 흔들리지 않도록 숏을 생성하기 전에 인물별 얼굴 특징·비율·의상을 디지털 에셋으로 고정했다. 위치와 구도, 움직임은 NadouPro의 3D Director Studio로 조정했다. 감독 Enji Yang은 “AI로 어떻게 구현할지 고민하기 전에 영화의 시청각 설계가 먼저여야 한다고 늘 믿는다”고 말했다."
+                "x": "Quigley는 Caffeinated Horror Dude 팟캐스트에서 “결국 대실패로 끝났다”고 말했다. “그에게 ‘무슨 일이 있어도 AI만은 쓰지 마라, 사람들도 싫어하고 팬들도 싫어한다’고 경고했다.” Randolph는 “우리가 계약한 건 이런 게 아니다”라고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "완성된 단편은 역사 자료에 근거한 새로운 해석일 뿐, 유실된 원본 필름을 되찾은 것은 아니다."
+                "x": "Letterboxd에 매겨진 평점은 현재 95%가 별 다섯 개 만점에 별 1/2개다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "iQIYI、失われた\n1938年の映画をAIで",
-          "body": "八人のチームがiQIYIのNadouProで、失われた1938年の映画を新たに生成した。",
-          "mini_headline": "iQIYIのAI、\n失われた1938年作を再構想",
+          "headline": "AI-madeの続編に\n初代キャストが反発",
+          "body": "Linnea QuigleyとBeverly Randolph、撮影なしでAI出演と語る。",
+          "mini_headline": "初代キャスト、AIホラー続編を否定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/11/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow.jpg"
+                "src": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg?resize=1600%2C900&ssl=1"
               },
               {
                 "t": "p",
-                "x": "八人のチームがiQIYIのNadouProプラットフォームを使い、プリント、リール、脚本がすべて失われた1938年の映画を再構築したと、同社が2026年11月6日に発表した。二か月で完成したこの短編は、第39回Golden Rooster Awardsの2026 Future Images AI Unitの候補に選ばれた。"
+                "x": "十月31日、DragonFLIXがReturn of the Living Dead: Aftermathをひっそりと公開した。本作には初代キャストのLinnea QuigleyとBeverly Randolphまで登場する予定だったが、実際には何も撮影していないのに出演していたことに二人は驚いた。"
               },
               {
                 "t": "p",
-                "x": "Visiting Shanghai after Sixty Yearsは90年近く失われたままで、残っていたのは制作時のスチール写真、ポスター、新聞の切り抜きだけだった。これらが新たなバージョンを生成する際の概念上の手がかりとなった。iQIYIのAI修復技術ディレクター、Zidong Jiangは、現存するプリントの修復を試みるのではなく、入手できる歴史資料に基づく創造的な再構築を目指したと述べた。"
+                "x": "本作はRichard Driscollの「監督」作品としてクレジットされているが、ほぼ全編がAI-generated の映像と台詞で構成されている。Driscollは「脚本」としてもクレジットされている。"
               },
               {
                 "t": "p",
-                "x": "1938年と1998年の物語を通して登場人物の一貫性を保つため、チームはショットを生成する前に、各キャラクターの顔の特徴、プロポーション、衣装をデジタルアセットとして固定した。NadouProの3D Director Studioでは、位置、構図、動きを調整できた。監督のEnji Yangは「AIでどう実現するかを考える前に、まず映画の視聴覚デザインがなければならないと常に考えている」と語った。"
+                "x": "「結局、大失敗に終わった」とQuigleyはCaffeinated Horror Dudeポッドキャストで語った。「彼には『何があってもAIだけは使わないで。みんな嫌がるし、ファンも嫌がるから』と警告した」。Randolphは「こんなことに同意したわけじゃない」と付け加えた。"
               },
               {
                 "t": "p",
-                "x": "完成した短編は歴史的な証拠に導かれた新たな解釈であり、失われたオリジナル映像を取り戻すものではない。"
+                "x": "Letterboxdでは、現在の評価の95%が五つ星中1/2だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "iQIYI用AI平台\n重新演绎1938年失传片",
-          "body": "一支八人团队用iQIYI的NadouPro，依据现存剧照生成了1938年失传影片的新版本。",
-          "mini_headline": "iQIYI AI重新演绎\n1938年失传影片",
+          "headline": "原班演员撇清\nAI-made恐怖续集",
+          "body": "Linnea Quigley和Beverly Randolph称未拍摄却出现在AI续集中。",
+          "mini_headline": "原班演员撇清AI恐怖续集",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/11/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow.jpg"
+                "src": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg?resize=1600%2C900&ssl=1"
               },
               {
                 "t": "p",
-                "x": "iQIYI于2026年11月6日宣布，一支八人团队借助其NadouPro平台，重构了一部拷贝、胶片盘和剧本均已遗失的1938年影片。这部历时两个月完成的短片入围了第39届Golden Rooster Awards的2026 Future Images AI Unit。"
+                "x": "十月31日，DragonFLIX悄然发行了Return of the Living Dead: Aftermath。片中甚至安排了原班演员Linnea Quigley和Beverly Randolph出演——这让她们大吃一惊，因为她们根本没有拍摄任何镜头，却出现在了片中。"
               },
               {
                 "t": "p",
-                "x": "《Visiting Shanghai after Sixty Years》已失传近90年，仅留下剧照、海报和剪报，成为生成新版本的概念指引。iQIYI AI修复技术总监Zidong Jiang表示，团队并未尝试修复现存拷贝，而是基于现有史料进行创造性重构。"
+                "x": "该片署名由Richard Driscoll“执导”，但几乎整部影片都由AI-generated 画面和对白构成。Driscoll还挂名“编剧”。"
               },
               {
                 "t": "p",
-                "x": "为了让角色在1938年与1998年的故事线中保持一致，团队在生成镜头前先为每个角色的面部特征、比例和服装固定了数字资产。借助NadouPro的3D Director Studio，他们得以调整站位、构图和动作。导演Enji Yang说：“我们始终相信，在考虑AI如何实现之前，电影的视听设计必须放在首位。”"
+                "x": "“结果成了一场闹剧，”Quigley在Caffeinated Horror Dude播客中说，“我警告过他：‘无论如何，千万别用AI，因为大家不喜欢，粉丝也不喜欢。’”Randolph补充道：“这不是我们当初签约要做的。”"
               },
               {
                 "t": "p",
-                "x": "这部短片是以历史证据为指引的全新诠释，并未找回失传的原始影像。"
+                "x": "在Letterboxd上，目前95%的评分是五星中的1/2星。"
               }
             ]
           }
         },
         "es": {
-          "headline": "iQIYI recrea con AI una película\nperdida de 1938",
-          "body": "Un equipo de ocho personas usó NadouPro, de iQIYI, para generar una nueva versión de un filme perdido de 1938.",
-          "mini_headline": "La AI de iQIYI recrea\nun filme perdido de 1938",
+          "headline": "Elenco original repudia AI-made\n'Return of the Living Dead'",
+          "body": "Linnea Quigley y Beverly Randolph dicen que la secuela con AI de DragonFLIX las muestra sin que hayan filmado nada.",
+          "mini_headline": "El elenco repudia la secuela AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/11/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow.jpg"
+                "src": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg?resize=1600%2C900&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Un equipo de ocho personas utilizó la plataforma NadouPro de iQIYI para reconstruir una película de 1938 cuyas copias, bobinas y guiones se habían perdido, anunció la compañía el 6 de noviembre de 2026. El cortometraje, completado en dos meses, fue preseleccionado para la 2026 Future Images AI Unit de los 39.º Golden Rooster Awards."
+                "x": "El 31 de octubre, DragonFLIX estrenó discretamente Return of the Living Dead: Aftermath. La película incluso iba a contar con las actrices del reparto original Linnea Quigley y Beverly Randolph, y eso las sorprendió, ya que aparecen en ella sin haber filmado nada."
               },
               {
                 "t": "p",
-                "x": "Visiting Shanghai after Sixty Years llevaba perdida casi 90 años, y solo quedaban fotografías fijas de producción, carteles y recortes de prensa como guía conceptual para generar una nueva versión. Zidong Jiang, director de tecnología de restauración con AI de iQIYI, dijo que el equipo buscó una reconstrucción creativa basada en los materiales históricos disponibles en lugar de intentar restaurar una copia superviviente."
+                "x": "Aunque la película figura como “dirigida” por Richard Driscoll, casi toda está compuesta por imágenes y diálogos AI-generated. Driscoll también figura como quien la “escribió”."
               },
               {
                 "t": "p",
-                "x": "Para mantener la coherencia de los personajes entre las tramas de 1938 y 1998, el equipo fijó recursos digitales con los rasgos faciales, las proporciones y el vestuario de cada personaje antes de generar los planos. El 3D Director Studio de NadouPro les permitió ajustar la posición, la composición y el movimiento. “Siempre creemos que el diseño audiovisual de una película debe ir primero, antes de pensar en cómo la AI puede hacerlo realidad”, dijo el director Enji Yang."
+                "x": "“Resultó ser un fiasco”, dijo Quigley al podcast Caffeinated Horror Dude. “Le advertí: ‘Hagas lo que hagas, no uses nada de AI, porque a la gente no le gusta, a los fans no les gusta’”. Randolph añadió: “Esto no es para lo que firmamos”."
               },
               {
                 "t": "p",
-                "x": "El cortometraje resultante es una nueva interpretación guiada por la evidencia histórica; no recupera el metraje original perdido."
+                "x": "En Letterboxd, el 95% de las calificaciones actuales son de 1/2 estrella sobre cinco."
               }
             ]
           }
@@ -1891,121 +1369,473 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "iQIYI, 1938년\n유실 영화 AI 재해석",
-          "body": "여덟 명이 iQIYI NadouPro로 1938년 유실 영화를 새로 생성했다.",
-          "mini_headline": "iQIYI AI, 1938년\n유실 영화 재해석",
+          "headline": "AI-made 속편에\n원년 배우들 반발",
+          "body": "Linnea Quigley·Beverly Randolph는 AI로만 출연했다.",
+          "mini_headline": "원년 배우들, AI 공포 속편 부인",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/11/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow.jpg"
+                "src": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg?resize=1600%2C900&ssl=1"
               },
               {
                 "t": "p",
-                "x": "여덟 명으로 꾸린 팀이 iQIYI의 NadouPro 플랫폼으로 프린트·릴·대본이 모두 사라진 1938년 영화를 재구성했다고 회사가 2026년 11월 6일 발표했다. 두 달 만에 완성한 이 단편은 제39회 Golden Rooster Awards의 2026 Future Images AI Unit 후보에 올랐다."
+                "x": "시월 31일, DragonFLIX가 Return of the Living Dead: Aftermath를 조용히 공개했다. 이 영화에는 원년 출연진인 Linnea Quigley와 Beverly Randolph까지 등장할 예정이었는데, 정작 두 사람은 아무것도 촬영하지 않은 채 영화에 나와 놀랐다."
               },
               {
                 "t": "p",
-                "x": "Visiting Shanghai after Sixty Years는 90년 가까이 유실된 상태였고, 남은 것은 제작 스틸 사진과 포스터, 신문 스크랩뿐이었다. 이 자료들이 새 버전을 생성하는 개념적 길잡이가 됐다. iQIYI의 AI 복원 기술 책임자 Zidong Jiang은 남아 있는 프린트를 복원하려 하기보다 활용 가능한 역사 자료를 바탕으로 창의적 재구성을 추구했다고 말했다."
+                "x": "영화는 Richard Driscoll이 ‘연출’한 것으로 크레디트에 올라 있지만, 거의 전부가 AI-generated 이미지와 대사로 이뤄졌다. Driscoll은 각본을 ‘쓴’ 사람으로도 올라 있다."
               },
               {
                 "t": "p",
-                "x": "1938년과 1998년의 이야기에서 인물을 일관되게 유지하기 위해, 팀은 숏을 생성하기 전에 인물별 얼굴 특징·비율·의상을 디지털 에셋으로 고정했다. NadouPro의 3D Director Studio로는 위치와 구도, 움직임을 조정했다. 감독 Enji Yang은 “AI로 어떻게 구현할지 고민하기 전에 영화의 시청각 설계가 먼저여야 한다고 늘 믿는다”고 말했다."
+                "x": "“결국 대실패로 끝났다”고 Quigley는 Caffeinated Horror Dude 팟캐스트에서 말했다. “그에게 ‘무슨 일이 있어도 AI만은 쓰지 마라, 사람들도 싫어하고 팬들도 싫어한다’고 경고했다.” Randolph는 “우리가 계약한 건 이런 게 아니다”라고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "완성된 단편은 역사적 근거를 바탕으로 한 새로운 해석이며, 유실된 원본 필름을 되찾은 것은 아니다."
+                "x": "Letterboxd에서 현재 평점의 95%가 별 다섯 개 만점에 별 1/2개다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "iQIYI、失われた\n1938年の映画をAIで",
-          "body": "八人のチームがiQIYIのNadouProで、失われた1938年の映画を新たに生成した。",
-          "mini_headline": "iQIYIのAI、\n失われた1938年作を再構想",
+          "headline": "AI-madeの続編に\n初代キャストが反発",
+          "body": "Linnea QuigleyとBeverly Randolph、撮影なしでAI出演と語る。",
+          "mini_headline": "初代キャスト、AIホラー続編を否定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/11/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow.jpg"
+                "src": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg?resize=1600%2C900&ssl=1"
               },
               {
                 "t": "p",
-                "x": "八人のチームがiQIYIのNadouProプラットフォームを使い、プリント、リール、脚本がすべて失われた1938年の映画を再構築したと、同社が2026年11月6日に発表した。二か月で完成したこの短編は、第39回Golden Rooster Awardsの2026 Future Images AI Unitの候補に選ばれた。"
+                "x": "十月31日、DragonFLIXがReturn of the Living Dead: Aftermathをひっそりと公開した。本作には初代キャストのLinnea QuigleyとBeverly Randolphまで登場する予定だったが、実際には何も撮影していないのに出演していたことに二人は驚いた。"
               },
               {
                 "t": "p",
-                "x": "Visiting Shanghai after Sixty Yearsは90年近く失われたままで、残っていたのは制作時のスチール写真、ポスター、新聞の切り抜きだけだった。これらが新たなバージョンを生成する際の概念上の手がかりとなった。iQIYIのAI修復技術ディレクター、Zidong Jiangは、現存するプリントの修復を試みるのではなく、入手できる歴史資料に基づく創造的な再構築を目指したと述べた。"
+                "x": "本作はRichard Driscollの「監督」作品としてクレジットされているが、ほぼ全編がAI-generated の映像と台詞で構成されている。Driscollは「脚本」としてもクレジットされている。"
               },
               {
                 "t": "p",
-                "x": "1938年と1998年の物語を通して登場人物の一貫性を保つため、チームはショットを生成する前に、各キャラクターの顔の特徴、プロポーション、衣装をデジタルアセットとして固定した。NadouProの3D Director Studioでは、位置、構図、動きを調整できた。監督のEnji Yangは「AIでどう実現するかを考える前に、まず映画の視聴覚デザインがなければならないと常に考えている」と語った。"
+                "x": "「結局、大失敗に終わった」とQuigleyはCaffeinated Horror Dudeポッドキャストで語った。「彼には『何があってもAIだけは使わないで。みんな嫌がるし、ファンも嫌がるから』と警告した」。Randolphは「こんなことに同意したわけじゃない」と付け加えた。"
               },
               {
                 "t": "p",
-                "x": "完成した短編は歴史的な証拠に導かれた新たな解釈であり、失われたオリジナル映像を取り戻すものではない。"
+                "x": "Letterboxdでは、現在の評価の95%が五つ星中1/2だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "iQIYI用AI平台\n重新演绎1938年失传片",
-          "body": "一支八人团队用iQIYI的NadouPro，依据现存剧照生成了1938年失传影片的新版本。",
-          "mini_headline": "iQIYI AI重新演绎\n1938年失传影片",
+          "headline": "原班演员撇清\nAI-made恐怖续集",
+          "body": "Linnea Quigley和Beverly Randolph称未拍摄却出现在AI续集中。",
+          "mini_headline": "原班演员撇清AI恐怖续集",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/11/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow.jpg"
+                "src": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg?resize=1600%2C900&ssl=1"
               },
               {
                 "t": "p",
-                "x": "iQIYI于2026年11月6日宣布，一支八人团队借助其NadouPro平台，重构了一部拷贝、胶片盘和剧本均已遗失的1938年影片。这部历时两个月完成的短片入围了第39届Golden Rooster Awards的2026 Future Images AI Unit。"
+                "x": "十月31日，DragonFLIX悄然发行了Return of the Living Dead: Aftermath。片中甚至安排了原班演员Linnea Quigley和Beverly Randolph出演——这让她们大吃一惊，因为她们根本没有拍摄任何镜头，却出现在了片中。"
               },
               {
                 "t": "p",
-                "x": "《Visiting Shanghai after Sixty Years》已失传近90年，仅留下剧照、海报和剪报，成为生成新版本的概念指引。iQIYI AI修复技术总监Zidong Jiang表示，团队并未尝试修复现存拷贝，而是基于现有史料进行创造性重构。"
+                "x": "该片署名由Richard Driscoll“执导”，但几乎整部影片都由AI-generated 画面和对白构成。Driscoll还挂名“编剧”。"
               },
               {
                 "t": "p",
-                "x": "为了让角色在1938年与1998年的故事线中保持一致，团队在生成镜头前先为每个角色的面部特征、比例和服装固定了数字资产。借助NadouPro的3D Director Studio，他们得以调整站位、构图和动作。导演Enji Yang说：“我们始终相信，在考虑AI如何实现之前，电影的视听设计必须放在首位。”"
+                "x": "“结果成了一场闹剧，”Quigley在Caffeinated Horror Dude播客中说，“我警告过他：‘无论如何，千万别用AI，因为大家不喜欢，粉丝也不喜欢。’”Randolph补充道：“这不是我们当初签约要做的。”"
               },
               {
                 "t": "p",
-                "x": "这部短片是以历史证据为指引的全新诠释，并未找回失传的原始影像。"
+                "x": "在Letterboxd上，目前95%的评分是五星中的1/2星。"
               }
             ]
           }
         },
         "es": {
-          "headline": "iQIYI recrea con AI una película\nperdida de 1938",
-          "body": "Un equipo de ocho personas usó NadouPro, de iQIYI, para generar una nueva versión de un filme perdido de 1938.",
-          "mini_headline": "La AI de iQIYI recrea\nun filme perdido de 1938",
+          "headline": "Elenco original repudia AI-made\n'Return of the Living Dead'",
+          "body": "Linnea Quigley y Beverly Randolph dicen que la secuela con AI de DragonFLIX las muestra sin que hayan filmado nada.",
+          "mini_headline": "El elenco repudia la secuela AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/11/iqiyi-reconstructs-lost-1938-film-using-nadoupro-ai-workflow.jpg"
+                "src": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg?resize=1600%2C900&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Un equipo de ocho personas utilizó la plataforma NadouPro de iQIYI para reconstruir una película de 1938 cuyas copias, bobinas y guiones se habían perdido, anunció la compañía el 6 de noviembre de 2026. El cortometraje, completado en dos meses, fue preseleccionado para la 2026 Future Images AI Unit de los 39.º Golden Rooster Awards."
+                "x": "El 31 de octubre, DragonFLIX estrenó discretamente Return of the Living Dead: Aftermath. La película incluso iba a contar con las actrices del reparto original Linnea Quigley y Beverly Randolph, y eso las sorprendió, ya que aparecen en ella sin haber filmado nada."
               },
               {
                 "t": "p",
-                "x": "Visiting Shanghai after Sixty Years llevaba perdida casi 90 años, y solo quedaban fotografías fijas de producción, carteles y recortes de prensa como guía conceptual para generar una nueva versión. Zidong Jiang, director de tecnología de restauración con AI de iQIYI, dijo que el equipo buscó una reconstrucción creativa basada en los materiales históricos disponibles en lugar de intentar restaurar una copia superviviente."
+                "x": "Aunque la película figura como “dirigida” por Richard Driscoll, casi toda está compuesta por imágenes y diálogos AI-generated. Driscoll también figura como quien la “escribió”."
               },
               {
                 "t": "p",
-                "x": "Para mantener la coherencia de los personajes entre las tramas de 1938 y 1998, el equipo fijó recursos digitales con los rasgos faciales, las proporciones y el vestuario de cada personaje antes de generar los planos. El 3D Director Studio de NadouPro les permitió ajustar la posición, la composición y el movimiento. “Siempre creemos que el diseño audiovisual de una película debe ir primero, antes de pensar en cómo la AI puede hacerlo realidad”, dijo el director Enji Yang."
+                "x": "“Resultó ser un fiasco”, dijo Quigley al podcast Caffeinated Horror Dude. “Le advertí: ‘Hagas lo que hagas, no uses nada de AI, porque a la gente no le gusta, a los fans no les gusta’”. Randolph añadió: “Esto no es para lo que firmamos”."
               },
               {
                 "t": "p",
-                "x": "El cortometraje resultante es una nueva interpretación guiada por la evidencia histórica; no recupera el metraje original perdido."
+                "x": "En Letterboxd, el 95% de las calificaciones actuales son de 1/2 estrella sobre cinco."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "variety-ai-films-costlier-35mm",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 영화 제작비가\n35mm 시대 넘을 수도",
+      "body": "Kim Kwang-jib은 100분 AI 영화 토큰만 $366,000 넘는다 했다.",
+      "mini_headline": "AI 영화, 35mm 시절보다 비쌀 수도",
+      "tool": "Movies",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/markets-festivals/ai-films-costlier-35mm-era-korean-pioneers-warn-1236942217/",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1"
+          },
+          {
+            "t": "p",
+            "x": "Studio Meta-K 창업자 겸 CEO Kim Kwang-jib은 타이베이에서 열린 Taiwan Creative Content Fest(TCCF)에서 AI가 광고 제작비는 이미 크게 줄이고 있지만, 장편 제작자는 치솟는 토큰 요금과 찔끔찔끔 이어지는 수정 탓에 35mm 필름 시절보다 돈을 더 쓸 수도 있다고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "가장 비싼 상용 도구로 100분 영화 한 편을 만들면 토큰 비용만 KRW500 million ($366,000)을 넘길 수 있다는 게 그의 계산이다. “토큰 비용을 열 배쯤 올리면… 지금의 KRW500 million 대신 KRW5 billion ($3.66 million)이 들 수도 있다.”"
+          },
+          {
+            "t": "p",
+            "x": "AI에서는 재렌더링할 때마다 비용이 새로 붙는다. 수정 10건을 한꺼번에 보내면 추가 작업은 한 번으로 끝나지만, 같은 10건이 하루에 하나씩 들어오면 비용도 10번 치른다. 그는 “프리프로덕션 단계를 탄탄히 하지 않으면 AI가 35mm 필름 시절보다 오히려 더 많은 돈을 쓰게 될 수 있다고 본다”고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "MBC C&I AI Content Lab을 이끄는 Lee Sang-wook은 도구가 매주 바뀐다고 했다. 이 랩이 만든 139분 장편 ‘Raphael’은 제작에 약 일 년 넉 달이 걸렸고 십일월 25일 한국 극장에 걸린다."
+          },
+          {
+            "t": "p",
+            "x": "Kim은 광고에서는 비용을 90% 넘게 줄일 수 있다고 했다. 드라마라면 스타 배우를 쓰는 하이브리드 모델이 낫다고 보며 “AI를 배운 노동자가 배우지 않은 노동자를 대체할 것”이라고 내다봤다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "AI could make films costlier\nthan in the 35mm era",
+          "body": "A 100-minute AI feature can top $366,000 in tokens, and each revision is a paid re-render, Kim Kwang-jib warned.",
+          "mini_headline": "AI films may outcost 35mm",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "AI is already slashing the cost of commercials, but runaway token fees and piecemeal revisions could leave feature producers paying more than in the days of 35mm film, Studio Meta-K founder and CEO Kim Kwang-jib told Taiwan Creative Content Fest (TCCF) in Taipei."
+              },
+              {
+                "t": "p",
+                "x": "With the most expensive commercial tools, he said, the token bill alone for a 100-minute film can top KRW500 million ($366,000). “If they raise token costs roughly tenfold… KRW500 million could become KRW5 billion ($3.66 million).”"
+              },
+              {
+                "t": "p",
+                "x": "With AI, every re-render is paid for again: 10 changes sent at once mean one extra pass, but the same 10 changes arriving one a day mean paying 10 times over. “Unless the preproduction stage is made solid, I think AI could end up spending even more money than in the 35mm film era,” he said."
+              },
+              {
+                "t": "p",
+                "x": "Lee Sang-wook, head of the AI Content Lab at MBC C&I, said tools change weekly; his lab’s 139-minute feature “Raphael” took around a year and four months and opens in Korean cinemas on Nov. 25."
+              },
+              {
+                "t": "p",
+                "x": "In advertising, Kim said costs can fall by more than 90%. For drama he favors a hybrid model with star actors, and predicted that “workers who have learned AI will replace workers who haven’t.”"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 영화 제작비가\n35mm 시대 넘을 수도",
+          "body": "Kim Kwang-jib은 100분 AI 영화 토큰만 $366,000 넘는다 했다.",
+          "mini_headline": "AI 영화, 35mm 시절보다 비쌀 수도",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "Studio Meta-K 창업자 겸 CEO Kim Kwang-jib은 타이베이에서 열린 Taiwan Creative Content Fest(TCCF)에서 AI가 광고 제작비는 이미 크게 줄이고 있지만, 장편 제작자는 치솟는 토큰 요금과 찔끔찔끔 이어지는 수정 탓에 35mm 필름 시절보다 돈을 더 쓸 수도 있다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "가장 비싼 상용 도구로 100분 영화 한 편을 만들면 토큰 비용만 KRW500 million ($366,000)을 넘길 수 있다는 게 그의 계산이다. “토큰 비용을 열 배쯤 올리면… 지금의 KRW500 million 대신 KRW5 billion ($3.66 million)이 들 수도 있다.”"
+              },
+              {
+                "t": "p",
+                "x": "AI에서는 재렌더링할 때마다 비용이 새로 붙는다. 수정 10건을 한꺼번에 보내면 추가 작업은 한 번으로 끝나지만, 같은 10건이 하루에 하나씩 들어오면 비용도 10번 치른다. 그는 “프리프로덕션 단계를 탄탄히 하지 않으면 AI가 35mm 필름 시절보다 오히려 더 많은 돈을 쓰게 될 수 있다고 본다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "MBC C&I AI Content Lab을 이끄는 Lee Sang-wook은 도구가 매주 바뀐다고 했다. 이 랩이 만든 139분 장편 ‘Raphael’은 제작에 약 일 년 넉 달이 걸렸고 십일월 25일 한국 극장에 걸린다."
+              },
+              {
+                "t": "p",
+                "x": "Kim은 광고에서는 비용을 90% 넘게 줄일 수 있다고 했다. 드라마라면 스타 배우를 쓰는 하이브리드 모델이 낫다고 보며 “AI를 배운 노동자가 배우지 않은 노동자를 대체할 것”이라고 내다봤다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI映画は35mm 時代より\n高くつく恐れ",
+          "body": "Kim Kwang-jibは100分AI映画のトークン代が$366,000を超え得ると言う。",
+          "mini_headline": "AI映画、35mm 時代超えのコスト高も",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "AIはすでにCM制作費を大きく削っているが、膨らむトークン料金と小出しの修正のせいで、長編のプロデューサーは35mm フィルム時代より多く支払うことになりかねない。Studio Meta-Kの創業者兼CEO、Kim Kwang-jibが台北のTaiwan Creative Content Fest（TCCF）でこう語った。"
+              },
+              {
+                "t": "p",
+                "x": "最も高価な商用ツールを使えば、100分の映画一本でトークン代だけでKRW500 million （$366,000）を超え得るという。「トークン代が約十倍に引き上げられれば…KRW500 million の費用がKRW5 billion （$3.66 million）にもなり得る」"
+              },
+              {
+                "t": "p",
+                "x": "AIでは再レンダリングのたびに費用がかかる。10件の修正を一度に送れば追加作業は一回で済むが、同じ10件が一日一件ずつ届けば10回分を払うことになる。「プリプロダクションの段階を固めない限り、AIは35mm フィルム時代以上にお金を使うことになりかねないと思う」と彼は述べた。"
+              },
+              {
+                "t": "p",
+                "x": "MBC C&IのAI Content Labを率いるLee Sang-wookは、ツールは毎週変わると話す。同ラボの139分の長編「Raphael」は制作に約一年四か月かかり、十一月25日に韓国の映画館で公開される。"
+              },
+              {
+                "t": "p",
+                "x": "広告ではコストを90%以上削減できるとKimは言う。ドラマについてはスター俳優を起用するハイブリッドモデルを支持し、「AIを学んだ労働者が、学んでいない労働者に取って代わる」と予測した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI拍片成本或高于\n35mm 胶片时代",
+          "body": "Kim Kwang-jib警告，100分钟AI长片的token费可超$366,000。",
+          "mini_headline": "AI电影或比35mm 时代更贵",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "AI已在大幅压低广告制作成本，但Studio Meta-K创始人兼CEO Kim Kwang-jib在台北举行的Taiwan Creative Content Fest（TCCF）上表示，失控的token费用和零敲碎打的修改，可能让长片制作方的花费超过35mm 胶片时代。"
+              },
+              {
+                "t": "p",
+                "x": "他说，若使用最昂贵的商用工具，一部100分钟影片光token费用就可能超过KRW500 million （$366,000）。“如果他们把token费用提高约十倍……KRW500 million 就可能变成KRW5 billion （$3.66 million）。”"
+              },
+              {
+                "t": "p",
+                "x": "在AI流程中，每次重渲染都要重新付费：10处修改一次性提交只需多渲染一轮，但同样的10处修改若每天来一处，就要付10次钱。“除非把前期制作阶段做扎实，否则我认为AI最终花的钱可能比35mm 胶片时代还多。”他说。"
+              },
+              {
+                "t": "p",
+                "x": "MBC C&I AI Content Lab负责人Lee Sang-wook表示，工具每周都在变；该实验室139分钟的长片《Raphael》耗时约一年零四个月，将于十一月25日在韩国院线上映。"
+              },
+              {
+                "t": "p",
+                "x": "Kim表示，在广告领域成本可降低90%以上。在剧集方面，他倾向于起用明星演员的混合模式，并预测“学会AI的从业者将取代没学会的人”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La AI podría encarecer el cine\nmás que en la era del 35mm",
+          "body": "Un filme de AI de 100 minutos puede superar $366,000 en tokens y cada cambio se paga, advirtió Kim Kwang-jib.",
+          "mini_headline": "El cine con AI podría superar al 35mm",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "La AI ya está recortando el costo de los comerciales, pero las tarifas de tokens descontroladas y las revisiones a cuentagotas podrían hacer que los productores de largometrajes paguen más que en la época del cine de 35mm, dijo Kim Kwang-jib, fundador y CEO de Studio Meta-K, en el Taiwan Creative Content Fest (TCCF) en Taipei."
+              },
+              {
+                "t": "p",
+                "x": "Con las herramientas comerciales más caras, dijo, solo la factura de tokens de una película de 100 minutos puede superar los KRW500 million ($366,000). “Si suben el costo de los tokens unas diez veces… KRW500 million podrían convertirse en KRW5 billion ($3.66 million)”."
+              },
+              {
+                "t": "p",
+                "x": "Con la AI, cada nuevo render se vuelve a pagar: 10 cambios enviados a la vez suponen una pasada extra, pero esos mismos 10 cambios llegando uno al día obligan a pagar 10 veces. “Si la etapa de preproducción no se hace sólida, creo que la AI podría terminar gastando aún más dinero que en la era del cine de 35mm”, afirmó."
+              },
+              {
+                "t": "p",
+                "x": "Lee Sang-wook, responsable del AI Content Lab de MBC C&I, dijo que las herramientas cambian cada semana; el largometraje de 139 minutos de su laboratorio, “Raphael”, tomó alrededor de un año y cuatro meses y se estrena en los cines de Corea el 25 de noviembre."
+              },
+              {
+                "t": "p",
+                "x": "En publicidad, Kim dijo que los costos pueden caer más de 90%. Para el drama prefiere un modelo híbrido con actores estrella, y predijo que “los trabajadores que han aprendido AI reemplazarán a los que no”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI 영화 제작비가\n35mm 시대 넘을 수도",
+          "body": "Kim Kwang-jib은 100분 AI 영화 토큰만 $366,000 넘는다 했다.",
+          "mini_headline": "AI 영화, 35mm 시절보다 비쌀 수도",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "AI는 이미 광고 제작비를 크게 줄이고 있지만, 치솟는 토큰 요금과 찔끔찔끔 이어지는 수정 탓에 장편 제작자가 35mm 필름 시절보다 더 많은 돈을 쓰게 될 수 있다고 Studio Meta-K 창업자 겸 CEO Kim Kwang-jib이 타이베이에서 열린 Taiwan Creative Content Fest(TCCF)에서 말했다."
+              },
+              {
+                "t": "p",
+                "x": "그는 가장 비싼 상용 도구를 쓰면 100분 영화 한 편의 토큰 비용만 KRW500 million ($366,000)을 넘을 수 있다고 했다. “토큰 비용을 열 배쯤 올리면… 지금의 KRW500 million 대신 KRW5 billion ($3.66 million)이 들 수도 있다.”"
+              },
+              {
+                "t": "p",
+                "x": "AI에서는 재렌더링할 때마다 비용을 다시 내야 한다. 수정 10건을 한꺼번에 보내면 추가 작업은 한 번이지만, 같은 10건이 하루에 하나씩 오면 10번 비용을 치른다. 그는 “프리프로덕션 단계를 탄탄히 하지 않으면 AI가 35mm 필름 시절보다 오히려 더 많은 돈을 쓰게 될 수 있다고 본다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "MBC C&I AI Content Lab을 이끄는 Lee Sang-wook은 도구가 매주 바뀐다고 했다. 그의 랩이 만든 139분 장편 ‘Raphael’은 제작에 약 일 년 넉 달이 걸렸고, 십일월 25일 한국 극장에서 개봉한다."
+              },
+              {
+                "t": "p",
+                "x": "Kim은 광고에서는 비용을 90% 넘게 줄일 수 있다고 했다. 드라마에는 스타 배우를 기용하는 하이브리드 모델을 선호하며, “AI를 배운 노동자가 배우지 않은 노동자를 대체할 것”이라고 내다봤다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI映画は35mm 時代より\n高くつく恐れ",
+          "body": "Kim Kwang-jibは100分AI映画のトークン代が$366,000を超え得ると言う。",
+          "mini_headline": "AI映画、35mm 時代超えのコスト高も",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "AIはすでにCM制作費を大きく削っているが、膨らむトークン料金と小出しの修正のせいで、長編のプロデューサーは35mm フィルム時代より多く支払うことになりかねない。Studio Meta-Kの創業者兼CEO、Kim Kwang-jibが台北のTaiwan Creative Content Fest（TCCF）でこう語った。"
+              },
+              {
+                "t": "p",
+                "x": "最も高価な商用ツールを使えば、100分の映画一本でトークン代だけでKRW500 million （$366,000）を超え得るという。「トークン代が約十倍に引き上げられれば…KRW500 million の費用がKRW5 billion （$3.66 million）にもなり得る」"
+              },
+              {
+                "t": "p",
+                "x": "AIでは再レンダリングのたびに費用がかかる。10件の修正を一度に送れば追加作業は一回で済むが、同じ10件が一日一件ずつ届けば10回分を払うことになる。「プリプロダクションの段階を固めない限り、AIは35mm フィルム時代以上にお金を使うことになりかねないと思う」と彼は述べた。"
+              },
+              {
+                "t": "p",
+                "x": "MBC C&IのAI Content Labを率いるLee Sang-wookは、ツールは毎週変わると話す。同ラボの139分の長編「Raphael」は制作に約一年四か月かかり、十一月25日に韓国の映画館で公開される。"
+              },
+              {
+                "t": "p",
+                "x": "広告ではコストを90%以上削減できるとKimは言う。ドラマについてはスター俳優を起用するハイブリッドモデルを支持し、「AIを学んだ労働者が、学んでいない労働者に取って代わる」と予測した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI拍片成本或高于\n35mm 胶片时代",
+          "body": "Kim Kwang-jib警告，100分钟AI长片的token费可超$366,000。",
+          "mini_headline": "AI电影或比35mm 时代更贵",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "AI已在大幅压低广告制作成本，但Studio Meta-K创始人兼CEO Kim Kwang-jib在台北举行的Taiwan Creative Content Fest（TCCF）上表示，失控的token费用和零敲碎打的修改，可能让长片制作方的花费超过35mm 胶片时代。"
+              },
+              {
+                "t": "p",
+                "x": "他说，若使用最昂贵的商用工具，一部100分钟影片光token费用就可能超过KRW500 million （$366,000）。“如果他们把token费用提高约十倍……KRW500 million 就可能变成KRW5 billion （$3.66 million）。”"
+              },
+              {
+                "t": "p",
+                "x": "在AI流程中，每次重渲染都要重新付费：10处修改一次性提交只需多渲染一轮，但同样的10处修改若每天来一处，就要付10次钱。“除非把前期制作阶段做扎实，否则我认为AI最终花的钱可能比35mm 胶片时代还多。”他说。"
+              },
+              {
+                "t": "p",
+                "x": "MBC C&I AI Content Lab负责人Lee Sang-wook表示，工具每周都在变；该实验室139分钟的长片《Raphael》耗时约一年零四个月，将于十一月25日在韩国院线上映。"
+              },
+              {
+                "t": "p",
+                "x": "Kim表示，在广告领域成本可降低90%以上。在剧集方面，他倾向于起用明星演员的混合模式，并预测“学会AI的从业者将取代没学会的人”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La AI podría encarecer el cine\nmás que en la era del 35mm",
+          "body": "Un filme de AI de 100 minutos puede superar $366,000 en tokens y cada cambio se paga, advirtió Kim Kwang-jib.",
+          "mini_headline": "El cine con AI podría superar al 35mm",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "La AI ya está recortando el costo de los comerciales, pero las tarifas de tokens descontroladas y las revisiones a cuentagotas podrían hacer que los productores de largometrajes paguen más que en la época del cine de 35mm, dijo Kim Kwang-jib, fundador y CEO de Studio Meta-K, en el Taiwan Creative Content Fest (TCCF) en Taipei."
+              },
+              {
+                "t": "p",
+                "x": "Con las herramientas comerciales más caras, dijo, solo la factura de tokens de una película de 100 minutos puede superar los KRW500 million ($366,000). “Si suben el costo de los tokens unas diez veces… KRW500 million podrían convertirse en KRW5 billion ($3.66 million)”."
+              },
+              {
+                "t": "p",
+                "x": "Con la AI, cada nuevo render se vuelve a pagar: 10 cambios enviados a la vez suponen una pasada extra, pero esos mismos 10 cambios llegando uno al día obligan a pagar 10 veces. “Si la etapa de preproducción no se hace sólida, creo que la AI podría terminar gastando aún más dinero que en la era del cine de 35mm”, afirmó."
+              },
+              {
+                "t": "p",
+                "x": "Lee Sang-wook, responsable del AI Content Lab de MBC C&I, dijo que las herramientas cambian cada semana; el largometraje de 139 minutos de su laboratorio, “Raphael”, tomó alrededor de un año y cuatro meses y se estrena en los cines de Corea el 25 de noviembre."
+              },
+              {
+                "t": "p",
+                "x": "En publicidad, Kim dijo que los costos pueden caer más de 90%. Para el drama prefiere un modelo híbrido con actores estrella, y predijo que “los trabajadores que han aprendido AI reemplazarán a los que no”."
               }
             ]
           }

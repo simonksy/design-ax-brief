@@ -15368,6 +15368,162 @@
           "x": "출시 행사에는 AI-assisted 프로젝트 네 편의 창작자들이 나와 작품을 소개했다. “God Being”을 만든 Jerry Zhou도 그중 한 명이다."
         }
       ]
+    },
+    "movies/framestore-sky-christmas-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/image/attached/1081755-skyxmsstill015-1280.jpg",
+          "cap": "That's Christmas Sorted"
+        },
+        {
+          "t": "p",
+          "x": "Framestore는 Sky Creative, RadicalMedia 소속 Dave Meyers 감독과 손잡고 Sky의 새 크리스마스 캠페인 “That's Christmas Sorted”를 작업했다. CG 환경과 VFX에는 기존 제작 파이프라인 안에 구축한 AI 도구를 섞었다. 실사 연기의 타이밍과 움직임, 캐릭터는 작업 내내 그대로 살렸다."
+        },
+        {
+          "t": "p",
+          "x": "팀은 Meyers의 스토리보드에서 출발해 전통적인 프리비즈 기법과 AI 도구를 함께 쓰며 카메라 무빙과 연기, 숏 타이밍, 렌즈 선택을 탐색했다. 창고 실내외 환경은 3D 레이아웃으로 잡은 뒤 디지털 매트 페인팅과 AI 도구로 디테일과 텍스처, 조명을 입혔다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill006-1280.jpg?itok=lUnQRKXQ"
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill007-1280.jpg?itok=sF7sj9HF"
+        },
+        {
+          "t": "p",
+          "x": "의상이 스스로 움직이는 것처럼 보이게 하려고 Framestore는 전통 합성과 AI 기술을 결합한 인물 제거 파이프라인을 새로 짰다. 일부 의상에는 맞춤형 CG 키프레임 애니메이션을 더했다."
+        },
+        {
+          "t": "p",
+          "x": "“기존 VFX 파이프라인에 AI를 통합해, 작업이 요구하는 장인정신과 통제력을 해치지 않으면서 새로운 창작 가능성을 얻었다”고 Framestore 크리에이티브 디렉터 겸 VFX 슈퍼바이저 Kamen Markov가 말했다."
+        },
+        {
+          "t": "video",
+          "yt": "r3J9A5FSAIs"
+        }
+      ]
+    },
+    "movies/runway-realtime-batch-one": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png"
+        },
+        {
+          "t": "p",
+          "x": "Runway Characters는 이미지 한 장을 대화할 수 있는 라이브 캐릭터로 바꾼다. 뒤에서 돌아가는 건 약 57B-parameter 규모의 자기회귀 비디오 디퓨전 트랜스포머다. 초당 24 프레임(fps)을 지키려면 이 모델은 대화 내내 사용자 한 명마다 704x1088 해상도의 네 프레임 묶음을 166.7ms 간격으로 새로 뽑아내야 한다."
+        },
+        {
+          "t": "p",
+          "x": "Characters는 출시 당시 세션마다 H100s 여덟 개를 썼다. 네 개로는 출시 때 소프트웨어 기준 디퓨전 스텝당 240.9ms 걸렸지만, Runway가 최적화한 끝에 159.3ms (24.5 fps 유지)까지 줄었다. 이제 세션마다 H100s 네 개면 실시간으로 돈다. 통신을 융합한 커널을 쓰면 147.4ms 까지 내려간다."
+        },
+        {
+          "t": "p",
+          "x": "배칭은 소용없다. 세션 하나하나가 2.24 PFLOP/s 의 유효 연산을 요구하는 일대일 비공개 스트림이어서다. 쓰기 시점에 한 번만 적용하는 캐시 관리는 스텝당 69.7ms 에서 6.2ms 로 짧아졌다."
+        },
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/image-1-9ec7fdc5-4e77-4178-8704-6574c6b7b80f.png",
+          "cap": "스텝별 디퓨전 시간의 누적 폭포 차트."
+        },
+        {
+          "t": "p",
+          "x": "일곱 주치 텔레메트리를 보면 워커는 세션의 99.5% 에서 평균 23.5 fps 이상을 유지했다. 대화 턴 중앙값은 2.13s 였고, 그중 1.42s 는 음성 에이전트 몫이었다."
+        },
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/3-0d345623-81cb-40bb-9285-23d806d08d1d.png",
+          "cap": "단계별 턴 지연 시간 중앙값."
+        }
+      ]
+    },
+    "movies/rotld-aftermath-ai-sequel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg?resize=1600%2C900&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "시월 31일, DragonFLIX가 Return of the Living Dead: Aftermath를 조용히 공개했다. 원년 출연진 Linnea Quigley와 Beverly Randolph도 등장한다던 영화다. 정작 두 사람은 아무것도 촬영하지 않았는데 영화에 자기가 나와 놀랐다."
+        },
+        {
+          "t": "p",
+          "x": "영화는 Richard Driscoll이 ‘연출’한 것으로 크레디트에 올라 있지만, 거의 전부가 AI-generated 이미지와 대사로 이뤄졌다. 각본을 ‘쓴’ 사람도 Driscoll이다."
+        },
+        {
+          "t": "p",
+          "x": "Quigley는 Caffeinated Horror Dude 팟캐스트에서 “결국 대실패로 끝났다”고 말했다. “그에게 ‘무슨 일이 있어도 AI만은 쓰지 마라, 사람들도 싫어하고 팬들도 싫어한다’고 경고했다.” Randolph는 “우리가 계약한 건 이런 게 아니다”라고 덧붙였다."
+        },
+        {
+          "t": "p",
+          "x": "Letterboxd에 매겨진 평점은 현재 95%가 별 다섯 개 만점에 별 1/2개다."
+        }
+      ]
+    },
+    "movies/variety-ai-films-costlier-35mm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "Studio Meta-K 창업자 겸 CEO Kim Kwang-jib은 타이베이에서 열린 Taiwan Creative Content Fest(TCCF)에서 AI가 광고 제작비는 이미 크게 줄이고 있지만, 장편 제작자는 치솟는 토큰 요금과 찔끔찔끔 이어지는 수정 탓에 35mm 필름 시절보다 돈을 더 쓸 수도 있다고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "가장 비싼 상용 도구로 100분 영화 한 편을 만들면 토큰 비용만 KRW500 million ($366,000)을 넘길 수 있다는 게 그의 계산이다. “토큰 비용을 열 배쯤 올리면… 지금의 KRW500 million 대신 KRW5 billion ($3.66 million)이 들 수도 있다.”"
+        },
+        {
+          "t": "p",
+          "x": "AI에서는 재렌더링할 때마다 비용이 새로 붙는다. 수정 10건을 한꺼번에 보내면 추가 작업은 한 번으로 끝나지만, 같은 10건이 하루에 하나씩 들어오면 비용도 10번 치른다. 그는 “프리프로덕션 단계를 탄탄히 하지 않으면 AI가 35mm 필름 시절보다 오히려 더 많은 돈을 쓰게 될 수 있다고 본다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "MBC C&I AI Content Lab을 이끄는 Lee Sang-wook은 도구가 매주 바뀐다고 했다. 이 랩이 만든 139분 장편 ‘Raphael’은 제작에 약 일 년 넉 달이 걸렸고 십일월 25일 한국 극장에 걸린다."
+        },
+        {
+          "t": "p",
+          "x": "Kim은 광고에서는 비용을 90% 넘게 줄일 수 있다고 했다. 드라마라면 스타 배우를 쓰는 하이브리드 모델이 낫다고 보며 “AI를 배운 노동자가 배우지 않은 노동자를 대체할 것”이라고 내다봤다."
+        }
+      ]
+    },
+    "movies/nolan-dga-ai-studios": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Christopher-Nolan-speaking.jpg",
+          "cap": "로스앤젤레스 DGA Theater Complex 무대에서 발언하는 크리스토퍼 놀런. (Credit: Vivien Killilea/Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "크리스토퍼 놀런은 영화·TV 제작에서 AI에 맞서 “훌륭한 문구와 안전장치”를 협상해 낸 미국감독조합(Directors Guild of America, DGA)과 AMPTP를 높이 평가했다. 다만 AI와 싸우는 다음 고비는 온전히 스튜디오가 짊어져야 한다고 했다."
+        },
+        {
+          "t": "p",
+          "x": "“조합은 스튜디오가 자기 저작권을 지키도록 책임을 묻는 데 집중하고 있습니다. 우리가 할 수 있는 일이 아니니까요.” 2025년 가을부터 DGA 회장을 맡은 놀런이 “Hollywood Insiders” 팟캐스트에서 한 말이다. “조합에서는 극소수의 예외를 빼면 우리가 작업한 영화의 저작권자가 아닙니다. 그 일은 스튜디오의 몫입니다.”"
+        },
+        {
+          "t": "p",
+          "x": "그는 “AI는 너무 포괄적인 용어”라고 했다. 기업들이 이 말을 앞세워 책임을 피하지만, 공정 이용 조항 뒤에 숨는 방식은 길게 보면 “법정에서 버티지 못할 것”이라는 얘기다."
+        },
+        {
+          "t": "p",
+          "x": "놀런은 Universal이 《오디세이》(The Odyssey) 크레디트에 이 영화를 생성형 AI 모델의 학습 데이터로 수집·스크래핑·사용할 수 없다는 정형 문구를 “처음으로” 넣은 데서 힘을 얻었다고 했다."
+        },
+        {
+          "t": "video",
+          "yt": "2rSkej6t_Eo"
+        },
+        {
+          "t": "p",
+          "x": "“우리에게는 소송과 입법을 향해 끊임없이 밀고 나가는 일입니다.” 그는 이어 “결국 남의 작품을 훔쳐 다른 용도로 쓰지 못하게 하는 것이 핵심입니다”라고 말했다."
+        }
+      ]
     }
   }
 }

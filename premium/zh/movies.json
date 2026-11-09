@@ -9699,6 +9699,162 @@
           "x": "四个AI-assisted项目的创作者在发布会上展示了作品，其中包括“God Being”的创作者Jerry Zhou。"
         }
       ]
+    },
+    "movies/framestore-sky-christmas-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/image/attached/1081755-skyxmsstill015-1280.jpg",
+          "cap": "That's Christmas Sorted"
+        },
+        {
+          "t": "p",
+          "x": "Framestore与Sky Creative及RadicalMedia旗下导演Dave Meyers合作，为Sky新圣诞广告“That's Christmas Sorted”制作内容，将CG场景和VFX与嵌入传统制作流程的AI工具相结合。Framestore全程保留了真人表演的节奏、动作与角色特质。"
+        },
+        {
+          "t": "p",
+          "x": "团队以Meyers的分镜为基础，将传统预演手法与AI工具结合，探索运镜、表演、镜头时长与镜头焦段。Framestore搭建了仓库内外场景的3D 布局，并借助数字绘景和AI工具增添细节、纹理与光照。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill006-1280.jpg?itok=lUnQRKXQ"
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill007-1280.jpg?itok=sF7sj9HF"
+        },
+        {
+          "t": "p",
+          "x": "为了让服装看起来能自己动起来，Framestore开发了一套把传统合成与AI技术相结合的人物移除流程，并为特定服装制作了定制CG关键帧动画。"
+        },
+        {
+          "t": "p",
+          "x": "“我们把AI融入现有VFX流程，在不牺牲这项工作所需的手艺和控制力的前提下，获得了新的创作可能。”Framestore创意总监兼VFX总监Kamen Markov说。"
+        },
+        {
+          "t": "video",
+          "yt": "r3J9A5FSAIs"
+        }
+      ]
+    },
+    "movies/runway-realtime-batch-one": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png"
+        },
+        {
+          "t": "p",
+          "x": "Runway Characters能把一张图片变成可以对话的实时角色，背后是一个约57B-parameter 的自回归视频扩散transformer。要维持每秒24帧（fps），该模型必须在整个对话期间，每次为一位用户、每166.7ms 生成一段新的四帧704x1088视频块。"
+        },
+        {
+          "t": "p",
+          "x": "Characters上线时每个会话使用八块H100s 。在四块上，上线时的软件每个扩散步骤耗时240.9ms ；经Runway优化后降至159.3ms （可持续24.5 fps），因此如今每个会话可在四块H100s 上实时运行。融合通信内核可进一步降至147.4ms 。"
+        },
+        {
+          "t": "p",
+          "x": "批处理无济于事：每个会话都是私密的一对一流，需要2.24 PFLOP/s 的有效算力。只在写入时执行一次的缓存维护，每步耗时从69.7ms 降到6.2ms 。"
+        },
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/image-1-9ec7fdc5-4e77-4178-8704-6574c6b7b80f.png",
+          "cap": "每步扩散时间的累积瀑布图。"
+        },
+        {
+          "t": "p",
+          "x": "在七周的遥测数据中，工作进程在99.5%的会话里平均帧率高于23.5 fps。对话轮次的中位耗时为2.13s ，其中语音代理占1.42s 。"
+        },
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/3-0d345623-81cb-40bb-9285-23d806d08d1d.png",
+          "cap": "各阶段轮次延迟中位数。"
+        }
+      ]
+    },
+    "movies/rotld-aftermath-ai-sequel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg?resize=1600%2C900&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "十月31日，DragonFLIX悄然发行了Return of the Living Dead: Aftermath。片中甚至安排了原班演员Linnea Quigley和Beverly Randolph出演——这让她们大吃一惊，因为她们根本没有拍摄任何镜头，却出现在了片中。"
+        },
+        {
+          "t": "p",
+          "x": "该片署名由Richard Driscoll“执导”，但几乎整部影片都由AI-generated 画面和对白构成。Driscoll还挂名“编剧”。"
+        },
+        {
+          "t": "p",
+          "x": "“结果成了一场闹剧，”Quigley在Caffeinated Horror Dude播客中说，“我警告过他：‘无论如何，千万别用AI，因为大家不喜欢，粉丝也不喜欢。’”Randolph补充道：“这不是我们当初签约要做的。”"
+        },
+        {
+          "t": "p",
+          "x": "在Letterboxd上，目前95%的评分是五星中的1/2星。"
+        }
+      ]
+    },
+    "movies/variety-ai-films-costlier-35mm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "AI已在大幅压低广告制作成本，但Studio Meta-K创始人兼CEO Kim Kwang-jib在台北举行的Taiwan Creative Content Fest（TCCF）上表示，失控的token费用和零敲碎打的修改，可能让长片制作方的花费超过35mm 胶片时代。"
+        },
+        {
+          "t": "p",
+          "x": "他说，若使用最昂贵的商用工具，一部100分钟影片光token费用就可能超过KRW500 million （$366,000）。“如果他们把token费用提高约十倍……KRW500 million 就可能变成KRW5 billion （$3.66 million）。”"
+        },
+        {
+          "t": "p",
+          "x": "在AI流程中，每次重渲染都要重新付费：10处修改一次性提交只需多渲染一轮，但同样的10处修改若每天来一处，就要付10次钱。“除非把前期制作阶段做扎实，否则我认为AI最终花的钱可能比35mm 胶片时代还多。”他说。"
+        },
+        {
+          "t": "p",
+          "x": "MBC C&I AI Content Lab负责人Lee Sang-wook表示，工具每周都在变；该实验室139分钟的长片《Raphael》耗时约一年零四个月，将于十一月25日在韩国院线上映。"
+        },
+        {
+          "t": "p",
+          "x": "Kim表示，在广告领域成本可降低90%以上。在剧集方面，他倾向于起用明星演员的混合模式，并预测“学会AI的从业者将取代没学会的人”。"
+        }
+      ]
+    },
+    "movies/nolan-dga-ai-studios": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Christopher-Nolan-speaking.jpg",
+          "cap": "Christopher Nolan在洛杉矶DGA Theater Complex台上发言。(Credit: Vivien Killilea/Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "Christopher Nolan称赞Directors Guild of America(DGA)与AMPTP在电影和TV制作中就AI谈出了“出色的条款和护栏”，但他表示，对抗AI的下一道关卡完全落在制片厂肩上。"
+        },
+        {
+          "t": "p",
+          "x": "“我们在公会非常专注于督促制片厂为保护自己的版权负起责任。这件事我们做不到。”自2025年秋起担任DGA主席的Nolan在“Hollywood Insiders”播客中说，“除极少数例外，公会成员并不是自己参与制作的电影的版权持有人。这要靠制片厂来做。”"
+        },
+        {
+          "t": "p",
+          "x": "“AI这个词涵盖得太宽泛了。”他说，并补充称企业借此推卸责任，而躲在合理使用条款背后的做法长远来看“在法庭上站不住脚”。"
+        },
+        {
+          "t": "p",
+          "x": "Nolan表示，Universal“首次”在《The Odyssey》的片尾字幕中加入标准声明，注明该片不得被摄取、抓取或用作生成式AI模型的训练数据，这让他深受鼓舞。"
+        },
+        {
+          "t": "video",
+          "yt": "2rSkej6t_Eo"
+        },
+        {
+          "t": "p",
+          "x": "“对我们来说，这是一场不断推动诉讼与立法的努力。”他说，“说到底，就是不让别人偷走你的作品并改作他用。”"
+        }
+      ]
     }
   }
 }

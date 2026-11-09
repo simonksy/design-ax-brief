@@ -11357,6 +11357,139 @@
           "x": "The new Aurora 3D printer can turn a photo, a few words, or a voice command into a finished part without CAD or slicing software. I'm struggling to believe it. I'm also rather desperate to see it."
         }
       ]
+    },
+    "design/higgsfield-miracle-layers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI.webp"
+        },
+        {
+          "t": "p",
+          "x": "Higgsfield announced Miracle on November 6, a post-production technology that promises real-time, pixel-level editing of virtually any video. It reportedly breaks footage into independently editable layers, so users can modify individual elements without regenerating an entire scene."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/HM2.jpg",
+          "cap": "Image credit: Higgsfield."
+        },
+        {
+          "t": "p",
+          "x": "Miracle lets users recolor objects, replace backgrounds, manipulate lighting, modify textures, and edit on-screen text while preserving the original footage's movement and composition. Higgsfield claims these changes happen in real time, as the video plays, combining layer decomposition with per-frame depth information and contextual understanding of the scene."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/HM3.jpg",
+          "cap": "Image credit: Higgsfield."
+        },
+        {
+          "t": "p",
+          "x": "Higgsfield hasn't disclosed the architecture, supported resolutions, video-length limits or editing latency, and its claims remain unverified by independent testing. Miracle is in private beta with select users, with broader availability planned through its MCP integration with Claude. No release date or pricing has been announced."
+        }
+      ]
+    },
+    "design/instagram-effect-builder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-effect-builder-launch-2.jpeg",
+          "cap": "Image: Instagram / Meta"
+        },
+        {
+          "t": "p",
+          "x": "After expanding its Edits app to macOS last week, Instagram’s next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style reference images."
+        },
+        {
+          "t": "p",
+          "x": "Then you can upload your own photos to preview the AI-generating effects, and ask for changes in follow-up prompts. There’s also an option to allow Instagram’s AI to rewrite your prompt, which turned my one-line test prompt “Make a filter that turns photos into comic book pages” into several AI-generated paragraphs of detailed style requests on everything from color palette to lighting. The filter Effect Builder generated as a result still looked nearly identical to its output for my original one-liner."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-effect-builder-test-1.jpeg",
+          "cap": "Instagram’s AI rewrote my prompt into lengthy, detailed instructions."
+        },
+        {
+          "t": "p",
+          "x": "You can submit your filters to Instagram directly from Effect Builder, but effects have to pass a safety review before they’ll be available to other users. Instagram says after an effect is approved, it “shows up in Instagram Stories for anyone to use, and whenever someone uses your effect we’ll link back to your profile so that it’s easy for others to find your work.”"
+        }
+      ]
+    },
+    "design/archinect-cad-training-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://archinect.gumlet.io/uploads/12/12f0a1e3f6b1ca7ed44c81f94f64cc3a.jpg",
+          "cap": "Image credit: Anete Lusina / Pexels"
+        },
+        {
+          "t": "p",
+          "x": "“Architects, have you seen this?” asked USC adjunct professor Simon Ha in a LinkedIn post. “This AI company is offering to pay six figures for your CAD files, including revisions and markups, to train AI models on how design work gets done.” The company, Nyne.ai, describes itself as “the data factory for AI.”"
+        },
+        {
+          "t": "p",
+          "x": "“This raises serious questions about copyright and ownership of instruments of service,” Ha added. “Just because a firm possesses these files doesn't necessarily mean it has the right to sell them for AI training.”"
+        },
+        {
+          "t": "p",
+          "x": "Several platforms have emerged offering to serve as brokers for architecture and construction firms to sell data that can be used to train AI models. “Buyers tell us they're asking for CAD and project files from construction and architecture right now,” one broker notes. Another writes that a drawing set, a Revit model or a SolidWorks assembly lives on a firm's own server, and “that scarcity is why CAD has become one of the file types AI data buyers now ask for by name.”"
+        }
+      ]
+    },
+    "design/aistudio-google-maps": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Maps_Platform_2wNhTuC.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Building real-world context into your apps just got much easier. You can now use Google Maps Platform directly inside Google AI Studio, eliminating the need to leave your workspace to configure billing and credentials. Jump in and try it at no cost."
+        },
+        {
+          "t": "p",
+          "x": "Describe your idea: Head to AI Studio and prompt Gemini with any real-world concept (e.g., \"Build an interactive 3D tour of NYC showcasing iconic landmarks\")."
+        },
+        {
+          "t": "p",
+          "x": "Enable Google Maps seamlessly: Get started in minutes with no credit cards required, or let AI Studio automatically detect and link your existing Google Cloud project."
+        },
+        {
+          "t": "p",
+          "x": "Watch it come to life: AI Studio securely connects your key and instantly loads a live, interactive preview."
+        },
+        {
+          "t": "p",
+          "x": "Try for free up to the daily quota limits. Paid Cloud billing account required for production."
+        }
+      ]
+    },
+    "design/cursor-voice-agent-call": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "You can now talk with your agents in a realtime voice call. Describe a change out loud, ask what an agent is working on, and hear updates as the work moves forward. Voice chat works in the Agents Window, the IDE, on web, and in Cursor for iOS."
+        },
+        {
+          "t": "p",
+          "x": "Start a call: when the agent is idle and the chat input is empty, click the waveform button labeled Start voice chat. It sits where Send usually is, next to the microphone button for dictation. On iOS, you can also say \"Hey Siri, call Cursor\" to start a call with a new agent, and mute or hang up from the Lock Screen with a Live Activity."
+        },
+        {
+          "t": "p",
+          "x": "The voice agent listens, replies, and hands coding work to the agent in your chat. While that agent runs, you can keep the conversation going. Ask what changed in a diff, check on a run, search earlier messages and calls with this agent, or switch between workers in a Project that has them."
+        },
+        {
+          "t": "p",
+          "x": "The coding agent speaks for itself too. It shares short progress notes while it works and a brief answer when it's done, so you usually hear a short update instead of the full written reply."
+        },
+        {
+          "t": "p",
+          "x": "Voice chat runs on Grok Voice. Pick from many voices in Voice settings, including Ara, Eve, Leo, Rex, and Sal. With Privacy Mode on, voice chat runs with zero data retention."
+        },
+        {
+          "t": "p",
+          "x": "Voice chat is separate from dictation, which earlier releases called Voice Mode. Dictation still turns your speech into text in the chat input, and Cmd+Shift+Space still toggles it in the IDE. Voice chat is a two-way conversation where the agent answers out loud."
+        }
+      ]
     }
   }
 }

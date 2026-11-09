@@ -1,32 +1,7 @@
-{
-  "date": "2026-11-09",
-  "section": "games",
-  "media": [
-    {
-      "id": "wardogs-ml-anticheat",
-      "type": "video",
-      "src": "pipeline/media/wardogs-ml-anticheat.mp4",
-      "poster": "pipeline/media/wardogs-ml-anticheat.jpg"
-    },
-    {
-      "id": "krafton-cofa-probe",
-      "type": "image",
-      "src": "pipeline/media/krafton-cofa-probe.png"
-    },
-    {
-      "id": "ubisoft-databricks-agents",
-      "type": "image",
-      "src": "pipeline/media/ubisoft-databricks-agents.png"
-    },
-    {
-      "id": "netmarble-13-titles-ai",
-      "type": "image",
-      "src": "pipeline/media/netmarble-13-titles-ai.jpg"
-    },
-    {
-      "id": "kenney-sweeney-genai-clash",
-      "type": "image",
-      "src": "pipeline/media/kenney-sweeney-genai-clash.jpg"
-    }
-  ]
-}
+{"date":"2026-11-10","section":"games","media":[
+{"id":"nvidia-lyra2-worldmodel","type":"image","src":"pipeline/media/nvidia-lyra2-worldmodel.jpg"},
+{"id":"innogames-genai-art-pipeline","type":"image","src":"pipeline/media/innogames-genai-art-pipeline.png"},
+{"id":"automaton-ocarina-gemini-port","type":"image","src":"pipeline/media/automaton-ocarina-gemini-port.jpg"},
+{"id":"plamo3-translate-gamer-tools","type":"video","src":"pipeline/media/plamo3-translate-gamer-tools.mp4","poster":"pipeline/media/plamo3-translate-gamer-tools.jpg"},
+{"id":"jackbox-human-made-pledge","type":"image","src":"pipeline/media/jackbox-human-made-pledge.png"}
+]}
