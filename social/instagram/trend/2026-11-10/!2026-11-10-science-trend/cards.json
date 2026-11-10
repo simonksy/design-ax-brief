@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "issue": "연구 한 바퀴를 AI 에이전트가",
+    "date": "2026.11.10",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "원문 5건 대조(11-10 재확인): 게재일 10.29·11.04·11.04·11.04·11.05 확인, thread 날짜를 MM.DD 두 자리로 통일. X선 카드의 '데이터 십분의 일 복원' 주체를 Argonne→NSLS-II(Brookhaven) 모델로 정정(Argonne 모델은 초당 200장 실시간 복원 쪽). Haibo Chen 인용을 원문('In many existing systems…')에 맞게 '대부분'→'많은'. AstroGenesis 본문의 원문에 없는 '질문을 쪼개' 삭제, Sahakyan의 'Scientific judgment remains essential'로 마무리. 매직 스테이트 699 부류 중 새 564, 1,108·95.7%·약 90%, 20종 넘는 장비 확인. SYNAPS-I 영상은 Brookhaven Lab 공식 채널(10.13 업로드, HXN 칩 복원), AstroGenesis 영상은 연구팀 공식 채널.",
+    "sources": [
+      "Phys.org — The human surfaceome: AI flags potential cell surface drug targets overlooked by major databases (2026.10.29)",
+      "Quantum Computing Report — IBM Quantum and QuICS Deploy AI Agents to Discover Over 500 High-Efficiency Magic-State Factories (2026.11.04)",
+      "Nature — AI agents run this automated biology lab that sequences DNA and more (2026.11.04)",
+      "Tech Xplore — SYNAPS-I: Intelligent computing transforms X-ray imaging, from data collection to discovery (2026.11.04)",
+      "Phys.org — Connecting artificial intelligence with the tools of astrophysical research (2026.11.05)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 과학 · 10.29~11.05",
+      "thread": [
+        {
+          "d": "10.29",
+          "t": "표면 단백질",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.04",
+          "t": "양자 공장",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.04",
+          "t": "DNA 실험실",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.04",
+          "t": "X선 촬영",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.05",
+          "t": "천체 연구",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        }
+      ],
+      "thread_note": "AI가 연구의 한 단계가 아니라 한 바퀴를 맡기 시작했다",
+      "eyebrow": "흐름 · 과학",
+      "headline": "연구 한 바퀴를\nAI 에이전트가",
+      "body": "한 건씩 보면 분야별 자동화 소식이다. 모아 보면 일주일 새 다섯 분야에서 설계부터 검증까지 에이전트가 맡았다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.29",
+      "headline": "DB가 놓친 단백질\nAI가 찾았다",
+      "body": "Claude Sonnet 4.6 에이전트가 논문 근거를 읽어 판정했다. 다섯 DB에 없던 후보 1,108개, 정확도 95.7%.",
+      "foot": "2026.10.29",
+      "_src": "https://phys.org/news/2026-10-human-surfaceome-ai-flags-potential.html",
+      "_id": "deliverome-surfaceome-agent",
+      "media": "pipeline/media/deliverome-surfaceome-agent.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.04",
+      "headline": "매직 스테이트 공장\n564종 새로",
+      "body": "IBM·QuICS·MIT 팀. 에이전트가 대칭을 고르면 솔버가 회로를 짜고 검증 엔진이 확인한다. 다음 판은 검토 에이전트 몫.",
+      "foot": "2026.11.04",
+      "_src": "https://quantumcomputingreport.com/ibm-quantum-and-quics-deploy-ai-agents-to-discover-over-500-high-efficiency-magic-state-factories/",
+      "_id": "ibm-quics-magic-state-agents",
+      "stat_top": "찾은 공장 부류 699",
+      "stat_arrow": "그중 처음 보는 것",
+      "stat_bottom": "564",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.04",
+      "headline": "DNA 실험도 한 줄로",
+      "body": "상하이자오퉁대 AutoDNA. AI 에이전트 팀이 20종 넘는 장비로 실험을 설계·수행한다. 사람은 시약과 장비만 챙긴다.",
+      "foot": "2026.11.04",
+      "_src": "https://www.nature.com/articles/d41586-026-03552-8",
+      "_id": "autodna-sjtu-selfdriving-lab",
+      "quote": "많은 기존 시스템에선\n아직 전문가가 장비를 설정합니다.\nAI는 대개 공정 한 부분만 맡고요.",
+      "quote_by": "Haibo Chen · 상하이자오퉁대 컴퓨터과학자"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.04",
+      "headline": "X선 현미경,\n어디 볼지도 AI가",
+      "body": "Brookhaven NSLS-II 모델은 데이터 십분의 일 남짓으로 칩을 3D 복원했다. 고해상도로 다시 찍을 자리는 스스로 골랐다.",
+      "foot": "2026.11.04",
+      "_src": "https://techxplore.com/news/2026-11-synaps-intelligent-ray-imaging-discovery.html",
+      "_id": "synaps-i-xray-imaging",
+      "video": "pipeline/media/synaps-i-xray-imaging.mp4"
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "2026.11.05",
+      "headline": "천체 연구도\n감독 에이전트가",
+      "body": "감독 에이전트가 문헌·관측·모델 에이전트에 일을 나누고 예측을 관측과 견준다. 그래도 “과학적 판단은 여전히 필수”라고 했다.",
+      "foot": "2026.11.05",
+      "_src": "https://phys.org/news/2026-11-artificial-intelligence-tools-astrophysical.html",
+      "_id": "astrogenesis-astro-agents",
+      "video": "pipeline/media/astrogenesis-astro-agents.mp4"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "issue": "Meta 광고, 꺼둔 할인이 복사본에 붙는다",
+    "date": "2026.11.08",
+    "section": "MARKETING",
+    "accent": "#ff8a3d",
+    "note": "Social Media Today(2026.11.08 게시, datePublished 2026-11-08T15:35) 원문 대조 후 1차 출처 두 곳 확인: Bram Van der Hallen(Edge.be, Meta 광고 전문가) LinkedIn 게시물(2026-11-06T09:58Z) 원문 인용·설정 경로(Settings > Offer merchandising, 'Detected offers'), PPC Land(Luis Rijo, 2026.11.06) 보도 — Meta 광고 복사 화면 안내문 원문 'Eligible promotions can appear with your new ad, even though promotions are turned off for your original ad', 기본값·적용 시점·범위는 Meta가 밝히지 않았다는 점, 블랙프라이데이 11.27. 정정: 초안의 '보도가 나왔다'를 발견자(Van der Hallen)·첫 보도(PPC Land)로 특정. 초안은 '꺼둔 상태에서도'로 일반화했으나 근거(Meta 안내문)는 '원본에서 끈 광고를 복사한 새 광고' 경우라 그렇게 좁힘. Meta 성과 수치는 Meta 2026년 2분기 실적 콜 원문(2026.07.29, Susan Li CFO, investor.atmeta.com 녹취록 PDF)과 대조: '8.3% increase in ad clicks and a 15.7% uplift in conversions on Facebook' — SMT의 'more than 8%'를 8.3%로 바로잡음. LinkedIn 댓글의 '꺼도 소용없다' 주장은 미확인이라 쓰지 않음. 외부 미디어 없음(전 장 stat·quote) — LinkedIn 스크린숏은 개인 게시물 캡처라 제외.",
+    "sources": [
+      "Social Media Today — Meta's AI ads included unapproved discounts (2026.11.08)",
+      "PPC Land — Meta can add website offers to copied ads even with promotions turned off (2026.11.06)",
+      "Bram Van der Hallen — LinkedIn 게시물 (2026.11.06)",
+      "Meta — Second Quarter 2026 Results Conference Call 녹취록 (2026.07.29)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "stat",
+      "stat_top": "원본: 할인 끔",
+      "stat_arrow": "광고를 복사하자",
+      "stat_bottom": "사본: 할인 붙음",
+      "stat_strike": false,
+      "eyebrow": "AI × 마케팅 · 2026.11.08",
+      "headline": "꺼둔 할인이 광고에",
+      "body": "Meta가 광고주 웹사이트에서 찾은 할인을 광고에 자동으로 넣을 수 있다. 원본에서 꺼둔 광고를 복사해도 그렇다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "quote",
+      "quote": "Meta가 이제 웹사이트의 할인을\n자동으로 찾아 광고에 쓸 수 있다.",
+      "quote_by": "Bram Van der Hallen · LinkedIn",
+      "eyebrow": "누가 찾았나",
+      "headline": "현업 마케터가 발견",
+      "body": "Edge.be의 Meta 광고 전문가가 11월 6일 링크트인에 알렸고, 광고 전문 매체 PPC Land가 같은 날 보도했다.",
+      "foot": "2026.11.08",
+      "n": 2
+    },
+    {
+      "kind": "quote",
+      "quote": "원본 광고에서 프로모션을 꺼도\n새 광고에는 나타날 수 있습니다.",
+      "quote_by": "Meta 광고 복사 화면 안내문",
+      "eyebrow": "Meta도 적어 뒀다",
+      "headline": "사본엔 안 따라간다",
+      "body": "광고 하나에서 끈 설정은 사본에 이어지지 않는다. 결정은 Commerce Manager의 체크박스 하나가 쥐고 있다.",
+      "foot": "2026.11.08",
+      "n": 3
+    },
+    {
+      "kind": "stat",
+      "stat_top": "광고마다 끄기",
+      "stat_arrow": "계정 설정 하나가 우선",
+      "stat_bottom": "전체 광고",
+      "stat_strike": false,
+      "eyebrow": "어디서 끄나",
+      "headline": "끄는 곳은 따로 있다",
+      "body": "설정 → Offer merchandising의 'Detected offers'를 끄라고 그는 권했다. 기본값이 켜짐인지는 Meta가 밝히지 않았다.",
+      "foot": "2026.11.08",
+      "n": 4
+    },
+    {
+      "kind": "stat",
+      "stat_top": "클릭 +8.3%",
+      "stat_arrow": "2분기 Facebook · 전환은 두 배 가까이",
+      "stat_bottom": "전환 +15.7%",
+      "stat_strike": false,
+      "eyebrow": "그래서 지금",
+      "headline": "틀린 할인도 브랜드 몫",
+      "body": "Meta는 AI 광고 랭킹으로 성과가 올랐다고 했다. 다만 엉뚱한 할인이 붙어도 광고에 찍히는 건 브랜드 이름이다.",
+      "foot": "2026.11.08",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
