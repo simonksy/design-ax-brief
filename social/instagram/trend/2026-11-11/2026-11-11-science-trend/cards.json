@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "issue": "AI 증명, Lean이 먼저 읽는다",
+    "date": "2026.11.11",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "원문 5건 curl 대조: 날짜를 원문 게재일로 고침(KLS 10.28→10.21, Navier-Stokes 10.23→10.22, 맞불 증명 10.28→10.27, PSI 11.07→11.06, Google 11.11→11.10)·시간순 재배열. 수치 100개 넘는 접근법·Lean 4 형식화, 에이전트 1만 개·'가장 끔찍한 수학' 인용, 증명 3건·Yang-Mills 비공개, 사흘째·Lean 커널, 10.9배·4,374 큐비트 확인. 사진은 KLS 1장만, 나머지는 stat/quote(Navier·PSI 사진은 지난 story에서 씀).",
+    "sources": [
+      "Microsoft Research — Solving a 31-year-old grand challenge in mathematics – the KLS conjecture (2026.10.21)",
+      "Scientific American — The inside story behind OpenAI’s million-dollar math proof (2026.10.22)",
+      "Scientific American — Dueling proofs from OpenAI and Anthropic astound scientists (2026.10.27)",
+      "The Quantum Insider — AI-Assisted Proof Settles Longstanding Question About Quantum Speedups (2026.11.06)",
+      "The Quantum Insider — Google Researchers Use AI And Mathematical Proofs to Cut Quantum Computing Requirements (2026.11.10)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 과학 · 10.21~11.10",
+      "thread": [
+        {
+          "d": "10.21",
+          "t": "KLS",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.22",
+          "t": "나비에",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.27",
+          "t": "ETH",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.06",
+          "t": "양자추측",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.10",
+          "t": "양자비용",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        }
+      ],
+      "thread_note": "AI가 낸 증명을 믿는 기준이 사람의 읽기에서 Lean 검사로 옮겨 간다",
+      "eyebrow": "흐름 · 과학",
+      "headline": "AI 증명,\nLean이 먼저 읽는다",
+      "body": "한 건씩 보면 'AI가 또 풀었다'다. 3주를 이어 보면 증명을 믿게 하는 일을 Lean 검사가 맡기 시작했다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.21",
+      "headline": "100갈래를 쳐낸 증명",
+      "body": "31년 묵은 KLS 추측. 에이전트가 100개 넘는 접근법을 뒤지고 연구자가 가지를 쳤다. 이후 Lean 4 형식화가 나왔다.",
+      "foot": "2026.10.21",
+      "_src": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+      "_id": "kls-conjecture",
+      "media": "pipeline/media/kls-conjecture.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.10.22",
+      "headline": "Lean은 통과,\n사람은 못 읽어",
+      "body": "Claude가 낸 Euler 방정식 증명은 Lean 검증을 통과했다. OpenAI는 에이전트 1만 개로 Navier-Stokes를 풀었다.",
+      "foot": "2026.10.22",
+      "_src": "https://www.scientificamerican.com/article/the-inside-story-behind-openais-million-dollar-math-proof/",
+      "_id": "science-navier-stokes-proof",
+      "quote": "평생 본 수학 중\n가장 끔찍한\n수학이었다",
+      "quote_by": "Tristan Buckmaster · NYU 수학자"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.10.27",
+      "headline": "증명 3건, 검증은 바깥에",
+      "body": "OpenAI가 증명 3건을 냈지만 모델은 비공개다. ETH 반증은 외부 학자가 검증 중이고, Anthropic도 몇 시간 만에 반증을 냈다.",
+      "foot": "2026.10.27",
+      "_src": "https://www.scientificamerican.com/article/dueling-proofs-from-openai-and-anthropic-astound-scientists/",
+      "_id": "dueling-proofs",
+      "stat_top": "OpenAI 증명 3건",
+      "stat_arrow": "그중 Yang-Mills 논문은",
+      "stat_bottom": "아직 비공개",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.06",
+      "headline": "사흘째 증명, Lean이 확인",
+      "body": "PSI 시스템이 비공개 Anthropic 모델로 Aaronson-Ambainis 추측을 증명했다. 핵심 정리는 Lean 커널이 검사했다.",
+      "foot": "2026.11.06",
+      "_src": "https://thequantuminsider.com/2026/11/06/ai-assisted-proof-settles-longstanding-question-about-quantum-speedups/",
+      "_id": "psi-aaronson-ambainis-proof",
+      "stat_top": "2008년 양자 추측",
+      "stat_arrow": "런 사흘째 나온 완전한 증명",
+      "stat_bottom": "Lean 커널 통과",
+      "stat_strike": false
+    },
+    {
+      "n": 6,
+      "kind": "stat",
+      "eyebrow": "2026.11.10",
+      "headline": "증명부터 붙여야 통과",
+      "body": "Google 에이전트는 양자 프로그램마다 정확성·비용 증명을 Lean으로 붙여야 했다. 핵융합 계산 비용은 10.9배 줄었다.",
+      "foot": "2026.11.10",
+      "_src": "https://thequantuminsider.com/2026/11/10/google-researchers-use-ai-and-mathematical-proofs-to-cut-quantum-computing-requirements/",
+      "_id": "science-google-quantum-lean-agents",
+      "stat_top": "핵융합 시뮬레이션 비용",
+      "stat_arrow": "큐비트 5,650 → 4,374, 큐비트×게이트",
+      "stat_bottom": "10.9배 절감",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

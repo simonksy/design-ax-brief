@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI 목소리, 누구 몫인가",
+    "date": "2026.11.11",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Complex 11.07→11.05, Billboard 11.08→11.07, 뉴시스 듀스 11.10→11.09, 뉴시스 존박 11.11→11.10). 사진은 듀스 한 장만 두고 NewJeans·존박은 stat, Elvis는 원문 인용 quote로. 2029년·무기한·14~17세, 11월 6일 제소·ELVIS Act, 21일 발매·소리소리AI·분배금, 2일 발매·1400만 회·제3자 크레디트 확인.",
+    "sources": [
+      "Complex — NewJeans' Contract Reportedly Gives Label Right to Use AI-Generated Versions of Their Voices (2026.11.05)",
+      "Billboard — Elvis Presley Rights Owners Sue Suno Over AI Voice Cloning (2026.11.07)",
+      "뉴시스 — 듀스, 31년 만의 정규 4집 21일 발매…AI로 되살린 김성재 '완전체' (2026.11.09)",
+      "뉴시스 — 존박·곽진언 '맥도날드 주문 랩', 해외 음원 플랫폼에 무단 등록 (2026.11.10)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 음악 · 11.05~11.10",
+      "thread": [
+        {
+          "d": "11.05",
+          "t": "레이블",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.07",
+          "t": "소송",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.09",
+          "t": "동료",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.10",
+          "t": "도용",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        }
+      ],
+      "thread_note": "가수 목소리의 AI 버전을 누가 쥐느냐가 계약·소송·앨범·도용으로 동시에 터졌다",
+      "eyebrow": "흐름 · 음악",
+      "headline": "AI 목소리,\n누구 몫인가",
+      "body": "한 건씩 보면 계약 분쟁, 소송, 컴백, 도용이다. 엿새 사이 넷을 겹치면 하나의 질문이 남는다. 목소리의 주인은 누구인가.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.05",
+      "headline": "계약이 끝나도\n목소리는 레이블에",
+      "body": "NYT가 입수한 계약서상 ADOR는 2029년 만료 뒤에도 멤버 목소리의 AI 버전을 무기한 쓴다. 쓰임새에 멤버는 말할 권한이 없다.",
+      "foot": "2026.11.05",
+      "_src": "https://www.complex.com/music/a/alex-ocho/newjeans-contracts-indefinite-voice-rights",
+      "_id": "newjeans-ador-ai-voice",
+      "stat_top": "표준 계약: 만료와 함께 끝",
+      "stat_arrow": "ADOR 계약 2029년 만료 뒤",
+      "stat_bottom": "AI 음성 무기한",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.07",
+      "headline": "복제를 허용한\nAI 회사를 고소",
+      "body": "Elvis 권리사가 6일 Suno를 고소했다. 복제를 가능케 한 회사까지 겨누는 테네시 ELVIS Act의 첫 대형 소송 중 하나다.",
+      "foot": "2026.11.07",
+      "_src": "https://www.billboard.com/pro/elvis-presley-ai-voice-cloning-lawsuit-suno/",
+      "_id": "elvis-suno-voice-clone-suit",
+      "quote": "Elvis의 정체성을 이루는\n모든 것을 도둑맞았다",
+      "quote_by": "Richard Busch · Elvis Presley Enterprises 측 변호사"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.09",
+      "headline": "동료가 되살린 목소리",
+      "body": "듀스가 21일 31년 만의 4집을 낸다. 고 김성재 목소리는 AI 보컬 필터로 되살렸고, 이현도는 분배금 일부를 유족과 나눈다.",
+      "foot": "2026.11.09",
+      "_src": "https://www.newsis.com/view/NISX20261109_0003859608",
+      "_id": "deux-kimsungjae-ai-album",
+      "media": "pipeline/media/deux-kimsungjae-ai-album.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.10",
+      "headline": "남의 이름으로\n올라온 목소리",
+      "body": "존박·곽진언 '맥도날드 주문 랩'이 남의 이름으로 Spotify 등에 올랐다. 존박 닮은 새 랩이 붙어 AI 복제 의혹도 나왔다.",
+      "foot": "2026.11.10",
+      "_src": "https://www.newsis.com/view/NISX20261110_0003862456",
+      "_id": "johnpark-mcdonalds-rap-hijack",
+      "stat_top": "조회수 1400만 회 넘긴 주문 랩",
+      "stat_arrow": "2일 발매로 해외 플랫폼에",
+      "stat_bottom": "작사·작곡 제3자",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

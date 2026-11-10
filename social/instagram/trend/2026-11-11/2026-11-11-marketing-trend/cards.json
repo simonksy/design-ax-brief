@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "광고, AI 대화 속으로",
+    "date": "2026.11.11",
+    "section": "MARKETING",
+    "accent": "#ff8a3d",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(SEJ 11.06→11.05, SER 11.07→11.05, Digiday 11.07→11.06, Marketing Dive 11.11→11.10). 17만 5100건·20만 4489건(Adthena, 6~9월), 11월 9일 목표 CPA·CPC·2027.01.01 은퇴, 문자 대화 속 Sponsored Products·당분간 무료·자동구매 무광고, AI Sponsored Snaps·약 2배 전환 확인. 사진은 Snapchat 한 장만, 나머지는 stat·quote.",
+    "sources": [
+      "Search Engine Journal — Most ChatGPT Ads In Beauty & Travel Ran On Research Prompts: Report (2026.11.05)",
+      "Search Engine Roundtable — OpenAI Updates ChatGPT Ads Bidding Options For Max Bid or Max CPC (2026.11.05)",
+      "Digiday — Amazon slides into the text messages its shopping agent sends (2026.11.06)",
+      "Marketing Dive — Priceline's AI agent Penny lands in Snapchat ads amid holiday rush (2026.11.10)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 마케팅 · 11.05~11.10",
+      "thread": [
+        {
+          "d": "11.5",
+          "t": "AI 답변",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.5",
+          "t": "입찰",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.6",
+          "t": "문자창",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.10",
+          "t": "챗봇 광고",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        }
+      ],
+      "thread_note": "광고가 사람과 AI가 나누는 대화 속으로 들어간다",
+      "eyebrow": "흐름 · 마케팅",
+      "headline": "광고, AI 대화\n속으로 들어가다",
+      "body": "한 건씩 보면 새 광고 자리 하나다. 그런데 AI 답변, ChatGPT, 쇼핑 문자, 메신저까지 엿새 사이에 줄지어 열렸다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.05",
+      "headline": "AI 답변 칸은\n이미 광고 자리",
+      "body": "Adthena 집계로 6~9월 미국 Google AI 답변 속 광고는 약 17만 5100건. 같은 기간 ChatGPT 광고도 셌다.",
+      "foot": "2026.11.05",
+      "_src": "https://www.searchenginejournal.com/google-ai-answer-ads-apparel-electronics-report/595984/",
+      "_id": "sej-ai-answer-ads-categories",
+      "stat_top": "Google AI 답변 17만 5100건",
+      "stat_arrow": "같은 기간 ChatGPT 광고",
+      "stat_bottom": "20만 4489건",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.05",
+      "headline": "ChatGPT 광고,\n입찰을 갖추다",
+      "body": "OpenAI가 11월 9일부터 목표 CPA·CPC 입찰을 연다. 기존 Max Bid·Max CPC는 2027년 1월 1일 은퇴한다.",
+      "foot": "2026.11.05",
+      "_src": "https://www.seroundtable.com/openai-updates-chatgpt-ads-bidding-options-42470.html",
+      "_id": "chatgpt-ads-bidding-nov9",
+      "stat_top": "Max Bid · Max CPC",
+      "stat_arrow": "11월 9일부터 새 캠페인은",
+      "stat_bottom": "목표 CPA · CPC",
+      "stat_strike": true
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.06",
+      "headline": "쇼핑 문자창에도\n광고가 끼다",
+      "body": "Amazon 쇼핑 에이전트가 문자로 주문을 받는다. 상품을 추천하는 답장에 Sponsored Products가 당분간 무료로 붙는다.",
+      "foot": "2026.11.06",
+      "_src": "https://digiday.com/media-buying/amazons-shopping-agent-now-takes-orders-by-text-with-sponsored-product-ads-in-the-replies/",
+      "_id": "amazon-agent-sponsored-text",
+      "quote": "에이전트 커머스가\n광고를 만나면,\n노출의 정의가 핵심이다",
+      "quote_by": "Jonathan D'Sousa-Rauto · 애드테크 컨설턴트"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.10",
+      "headline": "이번엔 광고가\n챗봇을 데려온다",
+      "body": "Priceline이 여행 브랜드 처음으로 Snapchat AI Sponsored Snaps에 에이전트 Penny를 넣었다.",
+      "foot": "2026.11.10",
+      "_src": "https://www.marketingdive.com/news/pricelines-ai-agent-penny-lands-in-snapchat-ads-amid-holiday-rush/874247/",
+      "_id": "priceline-penny-snapchat-ads",
+      "media": "pipeline/media/priceline-penny-snapchat-ads.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "issue": "선거 딥페이크, 누가 선을 긋나",
+    "date": "2026.11.11",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "원문 4건 대조: 날짜를 게재일로 고침(TSE 10.23→10.21, ECP 10.29→10.26, 델리 고법 11.07→11.06 결정일, EU 11.11→11.10). 20건·32개 계정·140만 팔로워, 개정안 12개·11월 20일, 게시물 6건·판사 발언, VLOP 표시 인터페이스·후보 사칭 신속 처리 확인(Rapporteur는 Cloudflare 차단이라 수집 본문·게재시각으로 대조). 당파 주장은 주장한 쪽 명의로 적고 기관 결정만 사실로 서술. 델리 카드는 주총리 사진 대신 결정문 인용.",
+    "sources": [
+      "Agência Brasil — Nunes Marques suspende postagens ilegais contra campanha de Lula (2026.10.21)",
+      "The Express Tribune — ECP proposes rule amendments to curb AI misuse during polls (2026.10.26)",
+      "The Indian Express — Delhi HC orders takedown of CM Rekha Gupta's AI videos shared by AAP (2026.11.06)",
+      "Rapporteur (Euractiv) — Commission updates election guidelines for AI, deepfake risks (2026.11.10)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 정책 · 10.21~11.10",
+      "thread": [
+        {
+          "d": "10.21",
+          "t": "브라질",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.26",
+          "t": "파키스탄",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.06",
+          "t": "델리 고법",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.10",
+          "t": "EU 지침",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        }
+      ],
+      "thread_note": "정치 딥페이크에 법원·선관위·EU가 저마다 선을 긋기 시작했다",
+      "eyebrow": "흐름 · 정책",
+      "headline": "선거 딥페이크,\n누가 선을 긋나",
+      "body": "한 건만 보면 한 나라의 선거 소송이다. 20일 사이 네 곳에서 법원·선관위·EU가 각자 정치 딥페이크에 손을 댔다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.21",
+      "headline": "브라질 선거법원,\n게시물 20건 정지",
+      "body": "Lula 캠프는 Flávio Bolsonaro 측이 딥페이크를 퍼뜨린다고 주장했다. TSE 원장은 20건 정지와 재게시 금지를 명했다.",
+      "foot": "2026.10.21",
+      "_src": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/nunes-marques-suspende-postagens-ilegais-contra-campanha-de-lula",
+      "_id": "politics-tse-lula-deepfake-posts",
+      "stat_top": "캠프가 지목한 계정 32개",
+      "stat_arrow": "팔로워 140만 명, 그중",
+      "stat_bottom": "20건 정지",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.26",
+      "headline": "파키스탄 선관위,\n딥페이크 금지안",
+      "body": "ECP가 선거 행동강령 개정안 12개를 냈다. AI 콘텐츠 표기와 기만적 딥페이크 금지가 핵심. 의견은 11월 20일까지 받는다.",
+      "foot": "2026.10.26",
+      "_src": "https://tribune.com.pk/story/2636906/ecp-proposes-rule-amendments-to-curb-ai-misuse-during-polls",
+      "_id": "pakistan-ecp-ai",
+      "media": "pipeline/media/pakistan-ecp-ai.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.06",
+      "headline": "델리 고법,\n\"풍자의 선 넘었다\"",
+      "body": "Rekha Gupta 주총리가 AAP 공식 계정의 AI 영상을 문제 삼았다. 법원은 X·Facebook 게시물 여섯 건 삭제를 명했다.",
+      "foot": "2026.11.06",
+      "_src": "https://indianexpress.com/article/legal-news/delhi-hc-orders-aap-takedown-ai-deepfake-videos-cm-rekha-gupta-10953913/",
+      "_id": "delhi-hc-rekha-gupta-deepfake",
+      "quote": "건강한 비판과 풍자라면\n문제 될 게 없다.\n이 AI 영상들은 선을 넘었다",
+      "quote_by": "Manoj Jain 판사 · 델리 고등법원"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.10",
+      "headline": "EU, 플랫폼에\n딥페이크 숙제",
+      "body": "집행위 DSA 선거 지침 초안. 초대형 플랫폼은 AI 콘텐츠 표시 도구를 갖추고 후보 사칭 삭제 요청은 빨리 처리해야 한다.",
+      "foot": "2026.11.10",
+      "_src": "https://www.rapporteur.com/news/commission-updates-election-guidelines-for-ai-deepfake-risks/",
+      "_id": "eu-dsa-election-deepfake-guide",
+      "media": "pipeline/media/eu-dsa-election-deepfake-guide.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

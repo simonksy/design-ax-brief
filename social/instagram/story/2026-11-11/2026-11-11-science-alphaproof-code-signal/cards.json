@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "issue": "DeepMind 에이전트 Signal 암호코드 검증",
+    "date": "2026.11.11",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "자동 초안. 썸네일은 초안이라 겹친다 — 올리기로 정하면 원문을 받아 숫자를 확인하고 글을 다시 쓰면서 stat·quote 로 장을 세운다.",
+    "sources": [
+      "https://deepmind.google/blog/introducing-alphaproof-code/"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 과학 · 2026.11.11",
+      "headline": "DeepMind 에이전트 Signal…",
+      "body": "Google DeepMind 연구진은 사람의 전문성과 AI 에이전트를 묶은 새 에이전트형 형식 검증 프레임워크 AlphaProof…",
+      "foot": "밀어서 보기 →",
+      "media": "pipeline/media/science-alphaproof-code-signal.jpg",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "무슨 일인가",
+      "headline": "DeepMind 에이전트 Signal…",
+      "body": "연구진은 여러 모델을 함께 써서 Signal의 보안 목표를 형식 명세로 옮겼고, 명세는 사람 전문가가 하나하나 검토했다. 증명은…",
+      "foot": "2026.11.11",
+      "media": "pipeline/media/science-alphaproof-code-signal.jpg",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "어떻게 되는가",
+      "headline": "DeepMind 에이전트 Signal…",
+      "body": "에이전트들은 기기에서 실제로 돌아가는 컴파일된 코드 수준까지 핵심 보안 속성이 지켜진다는 사실을 증명했다. 전문가 팀이 보통 수년을…",
+      "foot": "2026.11.11",
+      "media": "pipeline/media/science-alphaproof-code-signal.jpg",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "짚을 대목",
+      "headline": "DeepMind 에이전트 Signal…",
+      "body": "Signal CTO Ehren Kret은 “AI 에이전트로 실제 코드를 유효한 Lean 정리로 옮긴 것은 큰 돌파구”라고 평가했다.…",
+      "foot": "2026.11.11",
+      "media": "pipeline/media/science-alphaproof-code-signal.jpg",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "그래서 지금",
+      "headline": "DeepMind 에이전트 Signal…",
+      "body": "LLM 에이전트가 Lean 증명으로 Signal 코드를 약 네 주 만에 검증했다.",
+      "foot": "2026.11.11",
+      "media": "pipeline/media/science-alphaproof-code-signal.jpg",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

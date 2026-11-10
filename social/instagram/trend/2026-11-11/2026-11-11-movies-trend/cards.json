@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI가 편집기 안으로 들어온다",
+    "date": "2026.11.11",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Verge 11.05, Cartoon Brew 11.09, ProVideo Coalition 11.10, RedShark 11.10). Disney 판단은 OpenAI 10억 달러 투자 무산(Sora 종료) 맥락과 함께 확인. Avid 원본 비파괴·별도 Google 과금, Premiere MCP 프리뷰 2027년 초 출시 확인. 스틸은 Avid 한 장만 쓰고 나머지는 quote·stat.",
+    "sources": [
+      "The Verge — You can edit your videos with AI on Instagram's new desktop Edits app (2026.11.05)",
+      "Cartoon Brew — Disney Partners With Adobe On AI Tools That Turn Artists' Sketches Into Finished Concept Art (2026.11.09)",
+      "ProVideo Coalition — Avid's Ready to Play brings AI video generation directly into Media Composer (2026.11.10)",
+      "RedShark News — Adobe MAX 2026 Premiere updates: Color Mode, MCP (2026.11.10)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 영화 · 11.05~11.10",
+      "thread": [
+        {
+          "d": "11.05",
+          "t": "Edits",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.09",
+          "t": "디즈니",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.10",
+          "t": "Avid",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.10",
+          "t": "프리미어",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "생성 AI와 에이전트가 따로 쓰던 앱을 떠나 편집기 안으로 들어온다",
+      "eyebrow": "흐름 · 영화",
+      "headline": "AI가 편집기\n안으로 들어온다",
+      "body": "한 건씩 보면 기능 하나 추가다. 그런데 엿새 새 Instagram·Avid·Adobe가 모두 AI를 편집 화면 안에 들였다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "quote",
+      "eyebrow": "2026.11.05",
+      "headline": "Edits, 에이전트에게 문을 열다",
+      "body": "맥용 Edits는 모든 도구를 MCP로 열었다. Muse든 다른 에이전트든 러프컷을 만들고, 사람이 이어 고친다.",
+      "foot": "2026.11.05",
+      "_src": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
+      "_id": "instagram-edits-desktop-muse",
+      "quote": "원하는 에이전트를\n아무거나 쓰면 된다",
+      "quote_by": "Matthew Simari · Instagram Edits 제품 총괄"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.09",
+      "headline": "Disney는 Adobe를 골랐다",
+      "body": "Adobe가 Disney의 AI 혁신 파트너가 된다. Firefly·Premiere 위에서 Disney IP로 학습한 모델을 만든다.",
+      "foot": "2026.11.09",
+      "_src": "https://www.cartoonbrew.com/artificial-intelligence/disney-adobe-generative-ai-partnership-269226.html",
+      "_id": "disney-adobe-firefly-foundry",
+      "stat_top": "OpenAI에 10억 달러",
+      "stat_arrow": "Sora 종료로 무산, 그다음",
+      "stat_bottom": "Adobe",
+      "stat_strike": true
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.10",
+      "headline": "Media Composer 안에 Veo",
+      "body": "Avid Ready to Play로 앱을 떠나지 않고 Veo·Gemini로 영상을 만들고 고친다. 원본 미디어는 덮어쓰지 않는다.",
+      "foot": "2026.11.10",
+      "_src": "https://www.provideocoalition.com/avids-ready-to-play-brings-ai-video-generation-directly-into-media-composer/",
+      "_id": "avid-readytoplay-veo",
+      "media": "pipeline/media/avid-readytoplay-veo.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.10",
+      "headline": "Premiere, 외부 에이전트에게",
+      "body": "Claude·ChatGPT 같은 외부 에이전트가 MCP로 Premiere 프로젝트 파일을 다룬다. 빈과 시퀀스는 편집 가능한 채로.",
+      "foot": "2026.11.10",
+      "_src": "https://www.redsharknews.com/adobe-max-2026-premiere-color-mode-mcp",
+      "_id": "premiere27-colormode-mcp",
+      "stat_top": "MCP 연동 프리뷰",
+      "stat_arrow": "Creative Cloud 고객에게",
+      "stat_bottom": "2027년 초",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

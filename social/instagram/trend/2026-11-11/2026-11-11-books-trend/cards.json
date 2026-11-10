@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "책 읽는 목소리, AI로",
+    "date": "2026.11.11",
+    "section": "BOOKS",
+    "accent": "#f5a623",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Jane Friedman 10.28→10.21, Verge 10.23→10.22, VoiceOver Herald 11.09→11.08(RNIB 발표는 11.05)). 시간순으로 1·2장 순서를 바꿈. 사진은 예스24 한 장만 두고 나머지는 quote·stat. 수치 $11.99·수천 권·virtual voice, 65%·20%·16%, 69.3%·AI 보이스 8종 확인. Jane Friedman 본문은 유료라 공개 요약 문장만 인용.",
+    "sources": [
+      "Jane Friedman — YouTube Looks to Expand into Audiobooks (2026.10.21)",
+      "The Verge — Amazon renames Kindle Unlimited to Kindle Plus and expands access to audiobooks (2026.10.22)",
+      "VoiceOver Herald — RNIB poll: two in three Brits would not listen to an AI-narrated audiobook (2026.11.08)",
+      "뉴스1 — 예스24, 한영 문장 한 목소리로 읽는다…인공지능 TTS 도입 (2026.11.10)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 책 · 10.21~11.10",
+      "thread": [
+        {
+          "d": "10.21",
+          "t": "해적판",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "10.22",
+          "t": "Kindle",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.08",
+          "t": "65% 거부",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.10",
+          "t": "예스24",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        }
+      ],
+      "thread_note": "책 읽어 주는 목소리가 AI로 바뀌는데, 듣는 쪽은 아직 사람을 원한다",
+      "eyebrow": "흐름 · 책",
+      "headline": "책 읽는 목소리\nAI로 바뀐다",
+      "body": "한 건씩 보면 서비스 소식이다. 해적판·구독·국내 서점까지 AI 낭독이 번지는 사이, 영국 독자 셋 중 둘은 안 듣겠다고 했다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "quote",
+      "eyebrow": "2026.10.21",
+      "headline": "해적판이 먼저\nAI로 읽었다",
+      "body": "YouTube에 AI 음성으로 만든 해적판 오디오북이 퍼졌다. 출판사들은 그 자리에 정식 오디오북을 올리기 시작했다.",
+      "foot": "2026.10.21",
+      "_src": "https://janefriedman.com/youtube-looks-to-expand-into-audiobooks/",
+      "_id": "youtube-audiobooks",
+      "quote": "AI 음성 해적판이 판치자\n출판사가 정식판으로\n맞서기 시작했다",
+      "quote_by": "Jane Friedman · The Hot Sheet"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.10.22",
+      "headline": "구독 오디오북에\nAI 낭독",
+      "body": "Kindle Unlimited가 Kindle Plus로 바뀌었다. KDP Select 신간엔 AI 낭독이 자동으로 붙는다.",
+      "foot": "2026.10.22",
+      "_src": "https://www.theverge.com/tech/1016789/amazon-kindle-unlimited-plus-subscription-ai-audiobooks",
+      "_id": "books-kindle-plus-ai-audiobooks",
+      "stat_top": "월 $11.99 Kindle Plus",
+      "stat_arrow": "미국 카탈로그에 더한 오디오북",
+      "stat_bottom": "수천 권",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.08",
+      "headline": "독자 셋 중 둘은\n안 듣겠다",
+      "body": "RNIB의 YouGov 조사. 20%는 듣더라도 사람 목소리를 원했다. 낭독자가 어떻든 계속 듣겠다는 사람은 16%뿐이었다.",
+      "foot": "2026.11.08",
+      "_src": "https://www.voiceoverherald.com/rnib-poll-ai-narrated-audiobooks-talking-books-90-narrators/",
+      "_id": "rnib-ai-audiobook-poll",
+      "stat_top": "AI 낭독 오디오북",
+      "stat_arrow": "아예 안 듣겠다는 UK 성인",
+      "stat_bottom": "65%",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.10",
+      "headline": "국내 서점도\nAI 목소리로",
+      "body": "예스24 전자책이 한영 섞인 문장을 한 AI 목소리로 읽는다. 올해 오디오북 1인당 구매액은 69.3% 늘었다.",
+      "foot": "2026.11.10",
+      "_src": "https://www.news1.kr/life-culture/book/6348294",
+      "_id": "books-yes24-ai-tts",
+      "media": "pipeline/media/books-yes24-ai-tts.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

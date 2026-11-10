@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "에이전트, 엔진 안까지",
+    "date": "2026.11.11",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Pandaily 11.06→11.04 KST, 뉴스핌 11.09→11.06, 80 Level 11.11→11.10; Databricks 고객사례는 게재일 표기가 없어 아카이브 11.09 유지). 사진은 Kimi 한 장만 쓰고 넷마블·Ubisoft는 stat, UE 5.9는 Epic 인용 quote로. 수치 20시간 무인·13종·한 해 10종 이상·200→4,000+명·5개월·5,000명 목표·약 일주일 확인.",
+    "sources": [
+      "Pandaily — Kimi Launches Game Development Solution With K3.1 Agents Working Inside Unity, Unreal and Blender (2026.11.04)",
+      "뉴스핌 — 신작 연기 반복한 넷마블, 내년 13종 출시 자신…AI로 개발 속도 높인다 (2026.11.06)",
+      "Databricks — Ubisoft scales AI coding agents with Unity Gateway (2026.11.09)",
+      "80 Level — Unreal Engine 5.9 Preview Is Out & It Was Built With AI (2026.11.10)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 게임 · 11.04~11.10",
+      "thread": [
+        {
+          "d": "11.04",
+          "t": "엔진 속",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.06",
+          "t": "신작 13종",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.09",
+          "t": "4,000명",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.10",
+          "t": "UE 5.9",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        }
+      ],
+      "thread_note": "AI 에이전트가 게임 제작을 돕는 도구에서 제작 라인 자체로 들어온다",
+      "eyebrow": "흐름 · 게임",
+      "headline": "에이전트,\n엔진 안까지",
+      "body": "한 건씩 보면 도구 소식이다. 엿새 사이 엔진 플러그인에서 회사 계획, 4,000명 배치, 엔진 개발 자체로 번졌다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.04",
+      "headline": "Kimi, 엔진 속에서\n직접 고친다",
+      "body": "Kimi 에이전트가 Unity·Unreal·Blender 프로젝트를 직접 고친다. 시연에선 20시간 무인으로 기존 게임을 재현했다.",
+      "foot": "2026.11.04",
+      "_src": "https://pandaily.com/kimi-game-development-creative-solution-k3-1-kimi-code-work-unity-unreal-engine-blender-20-hours",
+      "_id": "games-kimi-k31-gamedev-agents",
+      "media": "pipeline/media/games-kimi-k31-gamedev-agents.png"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.06",
+      "headline": "넷마블, AI로 13종",
+      "body": "신작 연기로 실적이 나빠진 넷마블. 기획부터 번역·그래픽·품질 검증까지 반복 업무를 AI로 돌려 내년 13종에 도전한다.",
+      "foot": "2026.11.06",
+      "_src": "https://www.newspim.com/news/view/20261106000585",
+      "_id": "netmarble-13-titles-ai",
+      "stat_top": "올해 신작 3종 연기",
+      "stat_arrow": "AI 개발·운영 체계로 내년",
+      "stat_bottom": "신작 13종",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.09",
+      "headline": "Ubisoft, 4,000명에게",
+      "body": "Unity Gateway로 AI 코딩 도구 활성 사용자를 5개월 새 20배로 늘렸다. 목표는 게임 제작 전반 5,000명.",
+      "foot": "2026.11.09",
+      "_src": "https://www.databricks.com/customers/ubisoft/unity-gateway",
+      "_id": "ubisoft-databricks-agents",
+      "stat_top": "약 200명",
+      "stat_arrow": "5개월 뒤 활성 개발자",
+      "stat_bottom": "4,000명+",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.11.10",
+      "headline": "엔진도 에이전트가 짠다",
+      "body": "Epic은 UE 5.9 Preview를 주로 에이전트로 만든 첫 엔진 릴리스라 했다. 웹 플랫폼 코드도 에이전트가 썼다.",
+      "foot": "2026.11.10",
+      "_src": "https://80.lv/articles/unreal-engine-5-9-preview-is-out-it-was-built-with-ai/",
+      "_id": "ue59-preview-agent-tools",
+      "quote": "몇 사람이 에이전트 무리를 지휘해\nUE6의 AI 도구를 옮기고\n웹을 타깃 플랫폼으로 구현했다.",
+      "quote_by": "Epic Games · UE 5.9 MegaJam Preview 발표"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
