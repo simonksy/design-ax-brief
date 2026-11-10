@@ -1,29 +1,31 @@
 {
-  "date": "2026-11-10",
-  "section": "marketing",
-  "media": [
-    {
-      "id": "ogilvy-caa-echo-doubles",
-      "type": "image",
-      "src": "pipeline/media/ogilvy-caa-echo-doubles.jpg"
-    },
-    {
-      "id": "google-ads-mcp-write-tools",
-      "type": "image",
-      "src": "pipeline/media/google-ads-mcp-write-tools.jpg"
-    },
-    {
-      "id": "meta-ai-ads-unapproved-discounts",
-      "type": "svg"
-    },
-    {
-      "id": "kbeauty-ai-fake-doctor-ban",
-      "type": "image",
-      "src": "pipeline/media/kbeauty-ai-fake-doctor-ban.jpg"
-    },
-    {
-      "id": "google-ads-ai-summaries-test",
-      "type": "svg"
-    }
-  ]
+ "date": "2026-11-11",
+ "section": "marketing",
+ "media": [
+  {
+   "id": "openai-chatgpt-business-agents",
+   "type": "image",
+   "src": "pipeline/media/openai-chatgpt-business-agents.jpg"
+  },
+  {
+   "id": "shopify-campaign-autopilot-ads",
+   "type": "image",
+   "src": "pipeline/media/shopify-campaign-autopilot-ads.jpg"
+  },
+  {
+   "id": "tiktok-symphony-seedance-ads",
+   "type": "image",
+   "src": "pipeline/media/tiktok-symphony-seedance-ads.jpg"
+  },
+  {
+   "id": "priceline-penny-snapchat-ads",
+   "type": "image",
+   "src": "pipeline/media/priceline-penny-snapchat-ads.jpg"
+  },
+  {
+   "id": "google-ads-asset-activity-ai",
+   "type": "image",
+   "src": "pipeline/media/google-ads-asset-activity-ai.jpg"
+  }
+ ]
 }

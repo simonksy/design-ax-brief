@@ -10967,6 +10967,136 @@
           "x": "\"In order for us to train our models, we needed to let cheaters go through their journey of refining and tuning their cheats so we could see them evolve,\" says Bulkhead CEO Joe Brammer. He says the system won't eliminate cheaters completely, but the studio is confident it will produce a better play experience when Season 3 arrives on November 12."
         }
       ]
+    },
+    "games/househouse-bigwalk-igf-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "Image credit: House House/Panic"
+        },
+        {
+          "t": "p",
+          "x": "House House has clarified it used AI tools \"sparingly\" during the \"final stretch of development\" on Big Walk to address \"difficult technical challenges and bugs.\" The statement came after a group of jurors for the 2027 Independent Games Festival (IGF) said they would not vote for any game developed with generative AI."
+        },
+        {
+          "t": "p",
+          "x": "The studio said it used LLM chatbots to research issues with third-party code: \"we'd estimate that well under 0.1% of Big Walk's code had anything to do with this usage.\" One fix, for Unity URP shadow casters that made the game run 50% slower for around 20 seconds at sunrise and sunset, \"represented about 10 lines of code inside URP.\""
+        },
+        {
+          "t": "p",
+          "x": "\"This is not an endorsement of, or argument for, the use of AI tools, however minimal,\" the developer said. \"Big Walk was developed without an internal AI usage policy in place, and we consider that lack of policy a failure.\""
+        }
+      ]
+    },
+    "games/pcot-japanese-localization-end": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-header.jpg"
+        },
+        {
+          "t": "p",
+          "x": "On November 10, independent developer Nuruppo (ぬるっぽ) announced that development of the translation-support tool \"PCOT\" will end with the update currently in progress. PCOT is a translation-support tool for PC that has been available for free since 2020; it uses OCR technology to extract and translate text from a selected area of the game screen. In April 2025 it added Gemini, which dramatically improved its reading and translation accuracy."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-001-1080x560.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The developer explained that the evolution of AI has made it possible to see a future in which players can localize games into Japanese directly themselves, and that the tool's role has reached a natural close. The app will remain available, and bug maintenance will continue. The developer said they are not sad about ending development and are truly glad that an era has arrived in which players can play games in Japanese with the help of AI."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-002-1080x608.jpg"
+        }
+      ]
+    },
+    "games/games-edu-program-ai-cancel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X.jpg",
+          "cap": "(Image credit: EvgeniyShkolenko via Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "The Australian STEM Videogame Challenge, a \"free national videogame development competition for students,\" has confirmed that the rise of generative AI means this year's event will be the last, \"after 12 wonderful years.\""
+        },
+        {
+          "t": "p",
+          "x": "A self-proclaimed judge on Reddit said the problem wasn't merely the use of AI but that \"some students just completely generate their games with AI.\" \"How do you mark that? You can't just give them a zero,\" the judge wrote."
+        },
+        {
+          "t": "p",
+          "x": "The Australian Council for Educational Research confirmed the cancellation was due to AI. \"The decision was driven by the rapid and complex rise of generative AI in game development, making it harder to judge what students made themselves, and moving the program away from its original purpose,\" said ACER's Cathy Zemaitis, adding there are no plans to pursue alternative options for delivering the challenge."
+        }
+      ]
+    },
+    "games/claude-fable-gears-clone": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-24.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI researcher and YouTuber Matthew Berman has showcased a playable Gears of War: E-Day-inspired shooter built in Unreal Engine 5 by Anthropic's Claude Fable 5.2, reportedly starting with a prompt of just three lines. The character can sprint, take cover, lean out to fire, and perform the signature active reload."
+        },
+        {
+          "t": "video",
+          "yt": "0vNyVMDFdkg"
+        },
+        {
+          "t": "p",
+          "x": "Berman asked the model to reproduce a single level from Gears of War: E-Day, then enabled Ultra Code mode and let it work autonomously. According to Berman's report, the project consumed approximately 8.5 billion tokens over several days, with an estimated API-equivalent cost approaching $15,000; Decrypt puts it at 43 hours and 48 minutes, 8.63 billion tokens, and an estimated $14,710."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/3-Line-Prompt.jpg",
+          "cap": "The three-line prompt that initiated the Unreal Engine 5 project. Image credit: Matthew Berman on YouTube."
+        },
+        {
+          "t": "p",
+          "x": "These figures are estimated API pricing, not necessarily money Berman actually spent. The demo shows a single level, with some awkward animations, and performance and stability have not been independently evaluated."
+        }
+      ]
+    },
+    "games/nvidia-lyra2-worldmodel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA has showcased Lyra 2.0, an AI-powered framework capable of transforming a single photograph into an explorable 3D environment. Developed by NVIDIA's Spatial Intelligence Lab (SIL), it combines AI video generation with 3D reconstruction; the research was originally published in April 2026 and is now being highlighted ahead of SIGGRAPH Asia 2026. Unlike conventional image-to-video generators, Lyra 2.0 lets users control the camera's trajectory, progressively generating new views as they move."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-1.jpg",
+          "cap": "Image credit: NVIDIA."
+        },
+        {
+          "t": "p",
+          "x": "To counter spatial forgetting and temporal drifting, NVIDIA's researchers developed a spatial-memory system that retrieves relevant historical frames using 3D geometric information, and trained the model on its own imperfect outputs. The resulting sequences can be reconstructed into 3D Gaussian Splats and polygonal meshes, enabling real-time rendering and export into applications such as NVIDIA Isaac Sim."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-2-scaled.jpg",
+          "cap": "Image credit: NVIDIA."
+        },
+        {
+          "t": "p",
+          "x": "A distilled model cuts video generation from 35 denoising steps to four, an approximately 13-fold reduction: an 80-frame segment takes approximately 15 seconds on a single NVIDIA GB200 GPU, versus 194 seconds with the full model. This isn't real-time world generation, and it remains limited to predominantly static environments. NVIDIA has made the implementation available on GitHub, with model weights on Hugging Face under research-use licensing restrictions."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-3.jpg",
+          "cap": "A Lyra 2.0-generated environment imported into NVIDIA Isaac Sim. Image credit: NVIDIA."
+        }
+      ]
     }
   }
 }

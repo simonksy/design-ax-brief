@@ -9580,6 +9580,171 @@
           "x": "接下来要核查背景。Spotify的Artist Profile Protection或Deezer的AI音乐检测器给出的标记通常可作为确认，不过Bandcamp偶尔也会误标真实音乐。简单搜索一下，应能找到现场演出、社交账号和采访；一个在网上毫无踪迹、却用AI-generated封面大量发歌的艺人，很可能是内容农场。"
         }
       ]
+    },
+    "music/vsl-vienna-performer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/v/vsl_vienna_performer-duMmyjQ3ktwjp2hbBd4zsrUQ7R0lCMOE.jpg"
+        },
+        {
+          "t": "p",
+          "x": "VSL 的 Vienna Performer 被形容为 DAW 里的录音室乐手，是一款 AI 驱动（AI-powered）的插件：它接收用户的 MIDI 声部，调整乐句、弓向、呼吸、揉弦和时值，并以渲染好的音频文件输出结果。"
+        },
+        {
+          "t": "p",
+          "x": "其模型完全基于 VSL 在自家 Synchron Stage 录音棚专门录制的素材训练。它没有生成功能——音符和力度完全来自用户原本的声部，Vienna Performer 只负责演奏法、音与音之间的过渡以及细微的时值调整。"
+        },
+        {
+          "t": "p",
+          "x": "首发提供独奏 Violin、Cello、Flute、Clarinet 和 French Horn，以及 First Violins、Second Violins、Violas 和 Cellos 合奏；独奏 Trumpet 和 Double Bass 合奏随后很快推出。"
+        },
+        {
+          "t": "p",
+          "x": "它采用订阅制，三个档位只在渲染分钟数上有区别：Entry（140，每月 €9.99）、Standard（360，每月 €19.99）和 Pro（1000，每月 €49.99）。渲染分钟按乐器音轨计算，因此一段两分钟、含 12 个声部的配乐会用掉 24 分钟。它支持 Windows 10+ 和 macOS 12+，格式为 VST3、AU 和 AAX。"
+        }
+      ]
+    },
+    "music/neutone-neusynth-stems": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286888307-287c615a239e2285.webp"
+        },
+        {
+          "t": "p",
+          "x": "NeuTone发布了NeuSynth，这是一款在DAW内运行的AI分轨生成插件。"
+        },
+        {
+          "t": "p",
+          "x": "NeuSynth会根据你正在制作的音轨音频生成新的乐器分轨。输入音频最长可达60秒，乐器层数可在1到6之间选择。"
+        },
+        {
+          "t": "img",
+          "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286897214-a6fb9cea75d62a04.webp",
+          "cap": "图片：NeuTone"
+        },
+        {
+          "t": "p",
+          "x": "每次生成会产出四组变体。每组都为每件乐器提供单独的WAV文件，各声部经过设计，彼此能够良好配合。用户可以通过乐器类别、音频参考或文本提示来引导结果，并可在生成前预览。"
+        },
+        {
+          "t": "img",
+          "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286906307-e9574f7d23644d8a.webp",
+          "cap": "图片：NeuTone"
+        },
+        {
+          "t": "p",
+          "x": "用户可免费获得24个积分，有效期12个月。免费试用的输出仅可用于非商业用途。付费方案中，Starter每月$4.99，含150个积分；Creator每月$9.99，含400个积分。输入音频不消耗积分。"
+        },
+        {
+          "t": "p",
+          "x": "一个积分对应一件乐器的一个变体，时长最多30秒。每次生成会为每件乐器产出四个变体，因此生成一件30秒的乐器需消耗四个积分。"
+        },
+        {
+          "t": "img",
+          "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286914872-64ad0e0cae1e3d36.webp"
+        },
+        {
+          "t": "p",
+          "x": "NeuTone表示，用户保留其上传音乐的权利，项目默认设为私密。用户还可以选择不让自己的数据用于改进AI模型，且不会因此失去插件的使用权限。"
+        },
+        {
+          "t": "p",
+          "x": "NeuSynth目前支持macOS 11.0及以上版本，提供VST3和AU格式。Windows版本已在计划中。"
+        }
+      ]
+    },
+    "music/johnpark-mcdonalds-rap-hijack": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288144_web.jpg",
+          "cap": "约翰朴。（图片=YouTube截图）"
+        },
+        {
+          "t": "p",
+          "x": "创作歌手约翰朴与Kwak Jin-eon在网络综艺中表演并引发热议的“麦当劳点餐说唱”，被擅自上架至海外音乐平台。作词作曲署名也不是原作者，而是第3方的名字。"
+        },
+        {
+          "t": "p",
+          "x": "据歌谣界10日消息，近日一首由名为“yoyotina”的艺人发布的“Mcdonald´s”出现在Spotify、YouTube Music等全球音乐流媒体平台上，发行日期标注为2日。"
+        },
+        {
+          "t": "p",
+          "x": "Spotify的署名中，yoyotina为主艺人，“Laurino Domingos”被标注为作曲、作词兼录音室制作人。音源来源标注为“Afrobeats Distro”。在YouTube Music上，据悉总部位于尼日利亚的发行商“Jungle Entertainment Ventures”被列为发行方。"
+        },
+        {
+          "t": "p",
+          "x": "该音源是从YouTube视频中提取声音后剪辑而成，以Kwak Jin-eon的说唱开头，接着是约翰朴的部分，视频中使用的背景音乐也原样保留。原版没有的副歌和女声部分被新加入，副歌之后还加入了一段用与约翰朴音色极为相似的声音演唱新歌词的说唱，因而引发了利用生成式人工智能（AI）擅自复制声音的质疑。时长约2分43秒。"
+        },
+        {
+          "t": "img",
+          "src": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288246_web.jpg",
+          "cap": "以yoyotina的“McDonalds”为歌名上传的约翰朴、Kwak Jin-eon音源。（图片=Spotify截图）"
+        },
+        {
+          "t": "p",
+          "x": "原版是上月在约翰朴的YouTube频道“是John还是朴”上发布的《在麦当劳用说唱点餐的约翰朴（with Loco）》。内容是约翰朴和Kwak Jin-eon跟说唱歌手Loco上了嘻哈课后，在麦当劳门店用说唱点餐，正片与短视频合计播放量超过1400万次。视频走红后，韩国麦当劳还推出了以这段说唱为背景音乐的广告和“约翰朴套餐”。不过，这并不是作为正式音源策划发行的歌曲。YouTube等平台上正不断出现各种恶搞视频。"
+        },
+        {
+          "t": "p",
+          "x": "得知此事后，约翰朴方面正依据著作权法等采取措施。"
+        }
+      ]
+    },
+    "music/riaa-ai-labelling-glazier": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-24T123959.252.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "看到科技网站 The Verge 播客‘Decoder’最新一期的标题，我们不禁一笑：“等等——我和 RIAA 那位聊得很开心”。这是在打趣：在 Napster 鼎盛时期（Peak Napster），这个行业组织在科技圈留下的名声至今仍让人记忆犹新。"
+        },
+        {
+          "t": "p",
+          "x": "这位“RIAA 那位”就是 CEO Mitch Glazier，他谈到了 AI 生成（AI-generated）音乐当前面临的一些政策问题，包括在流媒体服务上对其进行标注。"
+        },
+        {
+          "t": "p",
+          "x": "“归根结底，必须是平台和发行商愿意去做。因为说到生成式 AI，并不是唱片公司在给生成式 AI 作品打标签、把它们放上 Spotify。那是来自 DIY 圈子的，”Glazier 说。"
+        },
+        {
+          "t": "p",
+          "x": "“所以入口是 DistroKid、TuneCore，是发行商。他们是否在用 AI 检测技术来判断作品是否完全由 AI 生成……如果是，他们是否愿意打上标签，让它能与 Apple 和 Spotify 的平台对接？”"
+        },
+        {
+          "t": "p",
+          "x": "“发行商必须愿意参与，”他接着说，“不能只靠平台，因为如果不往下游传递，大家就会各走各的方向。”"
+        },
+        {
+          "t": "p",
+          "x": "“现在已经是 Deezer 走一个方向，Apple 走另一个方向，Spotify 又走另一个方向。在我看来，完全生成的问题，也就是 DIY 问题，是发行商的问题。我们必须给发行商提供激励，让他们承担责任、积极配合。”"
+        }
+      ]
+    },
+    "music/apple-logic-usage-packs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/logicpro.jpg?quality=90&strip=all&crop=0%2C10.742998834307%2C100%2C78.514002331385&w=1200",
+          "cap": "Logic Pro是Apple首个对Apple Intelligence超额使用收费的应用。"
+        },
+        {
+          "t": "p",
+          "x": "Apple在9月初发布支持文档，说明部分Apple Intelligence功能的使用上限；据9to5Mac发现，公司随后更新了Logic Pro，加入“Buy More Usage”（购买更多用量）选项，一次性购买价格为$49.99。Logic Pro内置AI助手，可以“开始一首新歌、用一条提示设置人声轨道，或完善正在进行的项目”。"
+        },
+        {
+          "t": "p",
+          "x": "Apple将其称为Intelligence Usage Packs。部分Apple Intelligence功能依赖OpenAI或Google Gemini的云端AI模型，因此设有使用上限，购买后用户可以继续使用这些功能。Usage Packs只能由购买它的Apple Account使用（不支持Family Sharing）；Apple在官网上说明，未用完的额外用量可逐月结转，但会在购买12个月后过期。"
+        },
+        {
+          "t": "p",
+          "x": "就Logic Pro而言，Apple表示使用上限“受你与助手对话复杂程度的影响”。用量耗尽的用户可以在应用主菜单的Intelligence Features > Show Usage中找到购买Intelligence Usage Pack的选项。目前只有Logic Pro提供购买更多用量的选项，但预计本月会扩展到其他Apple Creator Studio应用，包括Pixelmator Pro、Final Cut Pro、Motion，以及将接入Apple AI聊天机器人的Pages、Keynote和Numbers。"
+        }
+      ]
     }
   }
 }

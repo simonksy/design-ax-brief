@@ -10431,6 +10431,171 @@
           "x": "Then check the context. A flag from Spotify's Artist Profile Protection or Deezer's AI music detector generally serves as confirmation, though Bandcamp has occasionally flagged real music by mistake. A quick search should reveal live performances, social profiles and interviews; an artist with no online presence releasing a glut of songs with AI-generated covers is probably a content farm."
         }
       ]
+    },
+    "music/vsl-vienna-performer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/v/vsl_vienna_performer-duMmyjQ3ktwjp2hbBd4zsrUQ7R0lCMOE.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Described as a session musician inside your DAW, VSL’s Vienna Performer is an AI-powered plug-in that takes a user’s MIDI parts, adjusts phrasing, bow direction, breath, vibrato and timing, and delivers the results as a rendered audio file."
+        },
+        {
+          "t": "p",
+          "x": "Its models were trained exclusively on purpose-made recordings captured by VSL at its own Synchron Stage studio. There is no generative functionality — notes and dynamics come entirely from the user’s original part, while Vienna Performer handles articulations, note transitions and small timing adjustments."
+        },
+        {
+          "t": "p",
+          "x": "It launches with solo Violin, Cello, Flute, Clarinet and French Horn, plus ensembles of First Violins, Second Violins, Violas and Cellos; solo Trumpet and a Double Bass ensemble follow shortly."
+        },
+        {
+          "t": "p",
+          "x": "It is subscription based in three tiers that differ only in render minutes: Entry (140, €9.99/month), Standard (360, €19.99/month) and Pro (1000, €49.99/month). Render minutes are counted per instrument track, so a two-minute cue with 12 parts uses 24. It runs on Windows 10+ and macOS 12+ as VST3, AU and AAX."
+        }
+      ]
+    },
+    "music/neutone-neusynth-stems": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286888307-287c615a239e2285.webp"
+        },
+        {
+          "t": "p",
+          "x": "NeuTone has announced NeuSynth, an AI stem generator plugin that runs inside your DAW."
+        },
+        {
+          "t": "p",
+          "x": "NeuSynth creates new instrument stems based on the audio of the track you're working on. You can use up to 60 seconds of audio as input and choose between 1 and 6 instrument layers."
+        },
+        {
+          "t": "img",
+          "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286897214-a6fb9cea75d62a04.webp",
+          "cap": "Image: NeuTone"
+        },
+        {
+          "t": "p",
+          "x": "Each generation produces four variation sets. Every set contains a separate WAV file for each instrument, and the parts are designed to work well together. You can steer the results with instrument categories, an audio reference, or a text prompt, and you can preview them before generating."
+        },
+        {
+          "t": "img",
+          "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286906307-e9574f7d23644d8a.webp",
+          "cap": "Image: NeuTone"
+        },
+        {
+          "t": "p",
+          "x": "You get 24 credits for free, valid for 12 months. Output from the free trial can only be used for non-commercial purposes. On paid plans, Starter costs $4.99 per month for 150 credits, and Creator costs $9.99 per month for 400 credits. Input audio does not use up any credits."
+        },
+        {
+          "t": "p",
+          "x": "One credit covers one variation of one instrument, up to 30 seconds long. Each generation produces four variations per instrument, so generating a single 30-second instrument uses four credits."
+        },
+        {
+          "t": "img",
+          "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286914872-64ad0e0cae1e3d36.webp"
+        },
+        {
+          "t": "p",
+          "x": "NeuTone says users keep the rights to the music they upload and that projects are private by default. Users can also opt out of having their data used to improve AI models without losing access to the plugin."
+        },
+        {
+          "t": "p",
+          "x": "NeuSynth currently runs on macOS 11.0 or later in VST3 and AU formats. A Windows version is planned."
+        }
+      ]
+    },
+    "music/johnpark-mcdonalds-rap-hijack": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288144_web.jpg",
+          "cap": "John Park. (Photo = YouTube capture)"
+        },
+        {
+          "t": "p",
+          "x": "The 'McDonald's order rap', which singer-songwriters John Park and Kwak Jin-eon performed on a web variety show to wide attention, has been registered on overseas music platforms without permission. The lyrics and composition credits also carry the name of a 3rd party rather than the original creators."
+        },
+        {
+          "t": "p",
+          "x": "According to the music industry on the 10th, 'Mcdonald´s', released by an artist named 'yoyotina', was recently registered on global music streaming platforms including Spotify and YouTube Music. The release date is listed as the 2nd."
+        },
+        {
+          "t": "p",
+          "x": "Spotify's credits list yoyotina as the main artist and 'Laurino Domingos' as composer, lyricist and studio producer. The source of the track is listed as 'Afrobeats Distro'. On YouTube Music, 'Jungle Entertainment Ventures', a distributor reported to be based in Nigeria, is listed as the distributor."
+        },
+        {
+          "t": "p",
+          "x": "The track is an edit of audio extracted from the YouTube video. It opens with Kwak Jin-eon's rap and moves into John Park's part, and the background music used in the video is carried over intact. A chorus and a female vocal part that were not in the original have been added, and after the chorus comes a rap with new lyrics in a voice closely resembling John Park's tone, raising suspicions that his voice was cloned without permission using generative artificial intelligence (AI). The running time is about 2 minutes 43 seconds."
+        },
+        {
+          "t": "img",
+          "src": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288246_web.jpg",
+          "cap": "The John Park and Kwak Jin-eon track uploaded under the song title 'McDonalds' by yoyotina. (Photo = Spotify capture)"
+        },
+        {
+          "t": "p",
+          "x": "The original is 'John Park ordering in rap at McDonald's (with Loco)', posted last month on John Park's YouTube channel 'John or Park'. In it, John Park and Kwak Jin-eon take hip-hop lessons from rapper Loco and then order from the menu in rap at a McDonald's store; the main video and short-form clips together have passed 14 million views. As the video drew attention, McDonald's Korea released an ad using the rap as background music and a 'John Park Set'. However, it was never planned or released as an official track. Various parody videos are appearing on YouTube and elsewhere."
+        },
+        {
+          "t": "p",
+          "x": "Having become aware of the matter, John Park's side is taking action based on the Copyright Act and other laws."
+        }
+      ]
+    },
+    "music/riaa-ai-labelling-glazier": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-24T123959.252.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "We smiled at the headline for the latest edition of tech site The Verge’s ‘Decoder’ podcast: “Hold up — I had a great time talking to the RIAA guy”. A wry reference to the still-lingering memories of the industry body’s reputation in tech circles in the Peak Napster era."
+        },
+        {
+          "t": "p",
+          "x": "The RIAA guy is CEO Mitch Glazier, who addressed some of the current policy issues around AI-generated music, including labelling it on streaming services."
+        },
+        {
+          "t": "p",
+          "x": "“At the end of the day, it has to be the platforms and the distributors that are willing to do it. Because when it comes to generative AI, the record labels are not tagging and putting generative AI up on Spotify. That’s out of the DIY world,” said Glazier."
+        },
+        {
+          "t": "p",
+          "x": "“So your gateway is DistroKid, TuneCore. It’s the distributors. Are they using AI detection technology to determine that it’s fully generated… And if so, are they willing to tag it so that it works with Apple and Spotify’s platform?”"
+        },
+        {
+          "t": "p",
+          "x": "“The distributors have to be willing to play,” he continued. “It can’t just be the platforms because if it doesn’t go downstream, they’re going to go in different directions.”"
+        },
+        {
+          "t": "p",
+          "x": "“And already, Deezer’s going in one direction, Apple’s going in another direction, Spotify’s going in another direction. To me, the fully generated problem, which is a DIY problem, is a distributor problem. And we have to provide incentives to the distributors to get them to take responsibility and play ball.”"
+        }
+      ]
+    },
+    "music/apple-logic-usage-packs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/logicpro.jpg?quality=90&strip=all&crop=0%2C10.742998834307%2C100%2C78.514002331385&w=1200",
+          "cap": "Logic Pro is Apple’s first app to charge for extended usage of Apple Intelligence."
+        },
+        {
+          "t": "p",
+          "x": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to “Buy More Usage” for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like “start a new song, set up a vocal track from a single prompt, or refine an active project.”"
+        },
+        {
+          "t": "p",
+          "x": "These Intelligence Usage Packs, as Apple calls them, will allow users to continue accessing certain Apple Intelligence features that have usage limits because they rely on cloud-based AI models from OpenAI or Google Gemini. The Usage Packs can only be used by the Apple Account that purchased them (Family Sharing isn’t supported) and, as Apple explains on its website, any unused additional usage will roll over from month to month, but will expire 12 months after it was purchased."
+        },
+        {
+          "t": "p",
+          "x": "For Logic Pro, Apple says the usage limit is “impacted by the complexity of conversations you have with the assistant.” Users finding themselves running out of access can find the option to buy an Intelligence Usage Pack in the Intelligence Features > Show Usage section of the app’s main menu. Currently, only Logic Pro has the option to buy more usage, but it’s expected to be added to other Apple Creator Studio apps this month, including Pixelmator Pro, Final Cut Pro, Motion, plus Pages, Keynote, and Numbers that are getting access to Apple’s AI chatbot."
+        }
+      ]
     }
   }
 }

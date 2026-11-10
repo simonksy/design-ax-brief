@@ -16788,6 +16788,161 @@
           "x": "남은 변수는 Alexa+다. Alexa+가 화면을 읽고 그에 맞춰 움직이는 On-Screen Intelligence 기능은 기본값이 꺼짐이라 사용자가 직접 켜야 하고, 작동 중에는 화면에 표시가 뜬다. 첫 리뷰들은 하드웨어와 화면을 호평했지만 멀티태스킹은 약점으로 꼽았다."
         }
       ]
+    },
+    "gadgets/ring-ai-drone-rover-cam": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af233321b32910f5c003593/1:1/w_2560%2Cc_limit/Ring-Drone-Cam-Gear-DSC_0211.jpg",
+          "cap": "Ring의 드론 카메라."
+        },
+        {
+          "t": "p",
+          "x": "Ring이 250달러짜리 Drone Cam과 1,000달러짜리 이동형 보안 로봇 Ring Rover Cam을 발표했다. Rover Cam은 기업의 창고와 공장 감시용이다. 두 제품 모두 새 브랜드 Ring Robotics로 나온다. Rover Cam이 12월 16일 먼저 출시되고, Drone Cam은 1월 27일 뒤따른다."
+        },
+        {
+          "t": "p",
+          "x": "무게 165그램의 작은 드론은 충전 독에서 떠올라 집 안을 스스로 날아다닌다. Ring은 2020년에도 실내 보안 드론 Ring Always Home Cam을 내놓은 적이 있다. 이번에는 지능을 통째로 클라우드에 맡겼다. 센서를 더 달면 전력과 배터리 소모가 그만큼 커져서다. 드론이 영상을 바로 Ring 서버로 보내면 맞춤형 AI Pilot 에이전트가 갈 곳을 정해 준다."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af23e3b1b32910f5c003599/master/w_1600%2Cc_limit/DSC_0198.jpg",
+          "cap": "Ring Drone Cam이 충전 스테이션에서 날아올라 집 안을 살핀다."
+        },
+        {
+          "t": "p",
+          "x": "드론을 직접 조종할 수는 없다. 대신 비행 경로와 순찰 일정을 정해 둘 수 있고, 동작·문·창문 센서가 알림을 보내면 드론이 반응한다. 한 번 충전으로 5~8분 난다. 소음은 일부러 크게 만들었다. 누군가 집 안 사람들 모르게 원격으로 엿보지 못하게 하려는 설계다."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af23e3a1997f5ebb6874fc1/125:94/w_1600%2Cc_limit/DSC_0214.jpg",
+          "cap": "Rover Cam은 창고와 공장을 순찰하도록 설계됐다."
+        },
+        {
+          "t": "p",
+          "x": "Rover Cam은 하드웨어 상당 부분이 Amazon Astro와 같다. Drone Cam과 같은 AI Pilot에 늘어나는 4K 카메라, 양방향 대화 기능, 사이렌을 갖췄고 최대 5,000제곱피트를 맡는다."
+        }
+      ]
+    },
+    "gadgets/kora-linux-ai-desktop-os": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/w_2560%2Cc_limit/gear_ai_operating_system_nerdy.jpg",
+          "cap": "머리가 컴퓨터인 사람이 데스크톱 컴퓨터 앞에 앉아 있다"
+        },
+        {
+          "t": "p",
+          "x": "CEO이자 공동 창업자인 Kirt McMaster는 화요일 공개한 Kora가 “대중 시장이 아닌 AI 네이티브”를 위한 Windows나 macOS의 데스크톱 대안이라고 말한다. 크리에이터와 개발자를 겨냥한 이 OS는 AI 모델을 시스템 수준에서 한데 모으는 데 초점을 맞췄다. 출시는 2027년 중 예정이다."
+        },
+        {
+          "t": "p",
+          "x": "“모든 맥락, 모든 메모리가 당신의 기기 안에 있다”는 게 공동 창업자 Franck De Girolami의 설명이다. 그가 든 예는 AI 토큰 비용을 아끼려고 OpenAI 모델에서 Anthropic의 도구로, 다시 로컬 모델로 옮겨 가는 프로젝트다."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af284baa8b94cafb9dc4873/master/w_1600%2Cc_limit/Screenshot%25202026-11-09%2520at%25201.37.41%25E2%2580%25AFPM.png",
+          "cap": "Kora"
+        },
+        {
+          "t": "p",
+          "x": "Kora는 Linux 커널 위에 올린 독립형 운영체제다. 회사는 Qualcomm과 손잡고 내년 Snapdragon PCs에 Kora를 넣을 계획이고, x86-64도 지원한다. 일반 Windows 앱은 호환성 계층으로 돌리고, “신경망 파일 시스템”이 파일 데이터를 의미별로 색인한다."
+        },
+        {
+          "t": "p",
+          "x": "McMaster는 Cyanogen을 공동 창업하고 이끄는 데 힘을 보탰다. Kora는 RAM이 최소 64기가바이트인 데스크톱에 맞춰져 있다. 칩 성능을 많이 요구하는 AI 모델을 돌리려는 파워 유저가 대상이다."
+        }
+      ]
+    },
+    "gadgets/deepmind-gemini-robotics-25": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-2560x1440.jpg",
+          "cap": "Mercedes-Benz 공장에서 Gemini Robotics 2.5를 활용하는 Apptronik Apollo 2"
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMind가 AI-powered 플랫폼 Gemini Robotics의 새 세대를 내놓았다. 새 모델은 200가지가 넘는 활동으로 평가받았다. Apptronik의 휴머노이드 로봇 Apollo 2는 이제 다섯 손가락 손으로 리본 매듭도 묶는다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Still-image-Apollo-2-ribbon-tying.png",
+          "cap": "모양이 변하는 물체는 로봇이 다루기 까다롭지만 Gemini는 나아지고 있다. 사진: Google"
+        },
+        {
+          "t": "p",
+          "x": "Gemini Robotics 2.5는 이전 버전보다 성공률이 대체로 30~100퍼센트 높고, 속도도 20~30퍼센트 빠르다. Gemini로 움직이는 Apollo 2 로봇은 유럽 몇몇 공장에서 자동차 부품 키팅을 맡아 성공률 96퍼센트를 냈다. 개발 속도를 끌어올린 “시뮬레이션 엔진”을 만드는 데는 Gemini 4 Argon이 힘을 보탰다."
+        },
+        {
+          "t": "video",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Video-Apptronik-Apollo-2-at-Mercedes-Benz-opt.mp4"
+        },
+        {
+          "t": "p",
+          "x": "ASIMOV-Jailbreak는 로봇 AI를 속여 위험한 행동을 끌어내려고 만든 프롬프트 1,500개짜리 오픈소스 데이터베이스다. 여기에 Argon이 개입하면 시스템의 탈옥 방어 안전 수준이 98.8퍼센트에 이른다. Gemini Robotics ER 2 단독으로는 73.5퍼센트다. Gemini Robotics 2.5는 현재 Agile Robots, Apptronik, Boston Dynamics 등 파트너사에 공급 중이다."
+        }
+      ]
+    },
+    "gadgets/apple-mac-local-ai-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&w=1600",
+          "cap": "Mac mini"
+        },
+        {
+          "t": "p",
+          "x": "유출 전문가 Aaron Perris가 Apple이 새 Mac 앱 Harbor를 만들고 있다는 증거를 찾아냈다. Harbor를 쓰면 Mac 한 대, 또는 여러 대에서 로컬 AI 모델을 손쉽게 돌릴 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "“Harbor는 Mac을 비공개 AI 추론 서버로 바꿔 줍니다. Apple silicon에서 오픈 웨이트 모델을 로컬로 실행하세요. 데이터는 하드웨어 밖으로 나가지 않으며, 클라우드에 닿는 것도 없습니다. 여러 대의 Mac 컴퓨터를 Thunderbolt 5로 연결해 통합 메모리를 모으면, 한 대의 컴퓨터가 감당할 수 있는 수준의 대형 모델과 더 높은 동시 처리량을 구현할 수 있습니다.”"
+        },
+        {
+          "t": "p",
+          "x": "Thunderbolt 5로 연결된 기기를 자동으로 찾아 주니 설정은 몇 분이면 끝난다. 앱 안에서 오픈 웨이트 모델을 둘러보고 내려받을 수 있고, Thunderbolt 5를 지원하는 Mac 두 대 이상을 하나의 추론 자원으로 묶는 클러스터링도 된다."
+        },
+        {
+          "t": "p",
+          "x": "Harbor는 지금 Apple의 Claris 브랜드로 비공개 프리뷰 중이다. 일반 출시는 앞으로 몇 주에서 몇 달 안에 이뤄질 가능성이 커 보인다."
+        }
+      ]
+    },
+    "gadgets/caim1-provenance-camera": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/intro-1793382637.jpg",
+          "cap": "갈색·황갈색 3D 프린팅 Noctua 카메라 케이스가 갈색 나무 테이블 위에 앞면을 위로 하고 놓여 있다."
+        },
+        {
+          "t": "p",
+          "x": "Josh Cowell이 설립한 CAIM1(Counter Artificial Intelligence Machine 1)은 사진이 진짜임을 증명하는 암호 증거를 이미지에 바로 심는 시제품 카메라를 만들고 있다. 내부 칩이 칩 고유의 실리콘 지문을 만들어 사진을 언제, 어디서, 어떤 카메라로 찍었는지 인증하고, 이 정보를 고유한 익명 블록체인 서명과 묶는다."
+        },
+        {
+          "t": "p",
+          "x": "유럽의회(European Parliament) 보고서는 소셜미디어 딥페이크가 2023년 이후 반년마다 두 배씩 늘어 2025년 약 800만 건에 이른 것으로 추산했다. CAIM1은 주력 카메라를 2027년 1분기에 내놓을 계획이다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/how-caim1-combats-deepfakes-1793382638.jpg",
+          "cap": "CAIM1 카메라 케이스의 뒷면."
+        },
+        {
+          "t": "p",
+          "x": "인증은 Tropic Square의 Tropic01 칩에서 시작하는데, 이 칩은 \"세계 최초의 감사 가능한 보안 요소\"다. 검증 정보는 \"변경 불가능한 탈중앙화 인프라\"에 저장된다. 카메라는 QR 코드와 블록체인 참조 번호, 날짜, 시간, 위치를 담은 실물 영수증도 뽑아 준다. Cowell은 경쟁사들이 \"사용자에게 단일 기업의 폐쇄 생태계를 맹목적으로 믿으라고 요구한다\"고 말한다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/innovations-beyond-authentication-1793382640.jpg",
+          "cap": "앞쪽 마운트에서 렌즈를 분리한 CAIM1 카메라."
+        },
+        {
+          "t": "p",
+          "x": "CAIM1은 CPU와 센서를 진동 없이 식히려고 Noctua와 손잡고 NF-A4x10 능동 냉각 시스템을 넣었다. 4K 영상을 찍고 액션 스포츠를 겨냥하며, 렌즈를 직접 골라 끼우는 Bring-Your-Own-Lens 설계를 택했다."
+        }
+      ]
     }
   }
 }

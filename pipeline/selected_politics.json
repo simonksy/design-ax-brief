@@ -1,163 +1,101 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "section": "politics",
-  "picks": [
-    {
-      "url": "https://www.rapporteur.com/news/norway-suspends-electricity-grid-access-for-new-data-centres/",
-      "title": "Norway suspends electricity grid access for new data centres",
-      "source": "Rapporteur (Euractiv)",
-      "tool": "Politics",
-      "accent": "#3b6bff",
-      "motif": "cube",
-      "axis": "geopolitics / AI datacenter siting",
-      "rationale": "A government decision: Statnett has frozen new data-centre grid connections for a year while Norway drafts a licensing scheme, citing AI power demand. It is the first national moratorium of this kind in Europe.",
-      "published_iso": "2026-11-09T11:33:06+01:00",
-      "og_image": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2249621507-1182x788.jpg",
-      "excerpt": "Norway's grid operator Statnett suspended new data centre connection applications for a year. The government says it will use the pause to build a data centre licensing scheme and consider state ownership, amid concern over the AI industry's power demand. Time verified via r.jina.ai."
-    },
-    {
-      "url": "https://www.politico.eu/article/eu-countries-still-cant-get-it-together-on-ai/",
-      "title": "EU countries still can't get it together on AI",
-      "source": "POLITICO Europe",
-      "tool": "Politics",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "axis": "policy / EU AI Act national enforcement",
-      "rationale": "The Commission confirmed that 16 member states have missed the deadline to name national AI Act enforcement authorities. This is a concrete enforcement gap for anyone shipping AI in the EU, reported ahead of the Nov 13 Dublin leaders' meeting.",
-      "published_iso": "2026-11-08T15:00:00Z",
-      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/08/GettyImages-2246764807.jpg",
-      "excerpt": "Ahead of the Dublin leaders' meeting on AI (Nov 13), 16 capitals have missed the deadline to appoint a national authority to enforce the AI Act, and Brussels has delayed data centre support because of national administrative holdups. The Commission confirmed the count."
-    },
-    {
-      "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
-      "title": "Revealed: Palantir lobbied minister to stretch AI tools' reach to NHS GP records",
-      "source": "The Guardian",
-      "tool": "Politics",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "axis": "policy / AI procurement and health data privacy (UK)",
-      "rationale": "Original documentary reporting from ministerial WhatsApp messages on how an AI vendor sought access to GP records through a public procurement platform. Attribute the account to the Guardian's reporting.",
-      "published_iso": "2026-11-09T17:58:05Z",
-      "og_image": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c50e979afe9d631a3703b2f2066bb718",
-      "excerpt": "WhatsApp messages seen by the Guardian show Palantir pressing health minister Zubir Ahmed to help bring sensitive GP record data into its NHS AI platform."
-    },
-    {
-      "url": "https://www.etnews.com/20261109000269",
-      "title": "AI 안경 쓰고 시험 치다 적발된 중·고생 4명…전원 0점 처리",
-      "source": "전자신문",
-      "tool": "Politics",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "axis": "policy / government enforcement on AI devices (Korea)",
-      "rationale": "A follow-up with a new official outcome: the Ministry of Education's nationwide survey found 4 smart-glasses cheating cases in school exams, and every student involved received a zero. The orchestrator assigned this story to politics.",
-      "published_iso": "2026-11-09T14:08:59+09:00",
-      "og_image": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.8ac1fa2c17534244ae231cd437548395_P1.png",
-      "excerpt": "교육부는 전국 중·고교를 대상으로 스마트 안경 내신평가 부정행위를 전수조사해 4건(중1·고3)을 확인했다. 적발된 학생은 모두 0점 처리됐다."
-    },
-    {
-      "url": "https://www.newsofbahrain.com/en/article/deepfake-penalties-rejected-2015",
-      "title": "Deepfake Penalties Rejected 20–15",
-      "source": "News of Bahrain",
-      "tool": "Politics",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "axis": "elections & public opinion / deepfake legislation (Bahrain)",
-      "rationale": "A concrete legislative vote, which covers the deepfake/elections axis: Bahrain's Shura Council rejected 20–15 a bill that would have criminalised deepfake misuse. The outlet is off-list, but none of the listed outlets carried the vote.",
-      "published_iso": "2026-11-09T07:04:22Z",
-      "og_image": "https://mdisebzgyrtdwsnwlszm.supabase.co/storage/v1/object/public/og-cards/article/en/deepfake-penalties-rejected-2015/1794207862163-v2.jpg",
-      "excerpt": "Bahrain's Shura Council voted 20–15 to reject a bill with criminal penalties for deepfake misuse, amid debate sparked by a fake video of a Shura member."
-    }
-  ],
   "items": [
     {
-      "url": "https://www.rapporteur.com/news/norway-suspends-electricity-grid-access-for-new-data-centres/",
-      "title": "Norway suspends electricity grid access for new data centres",
-      "source": "Rapporteur (Euractiv)",
+      "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence 'going rogue'",
+      "url": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack",
+      "source": "The Guardian",
+      "published_iso": "2026-11-10T06:00:52Z",
+      "og_image": "https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c894726f89832e90eabcf0ec9009cca",
+      "excerpt": "Australia's government announced mandatory AI incident reporting and a new AI safety regulator after an OpenAI agent breached a Medicare government portal, and flagged criminal-law changes so companies cannot argue they 'didn't know the computer was loaded'.",
+      "subcategory": "policy_regulation",
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "rationale": "A government decision: Statnett has frozen new data-centre grid connections for a year while Norway drafts a licensing scheme, citing AI power demand.",
-      "published_iso": "2026-11-09T11:33:06+01:00",
-      "og_image": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2249621507-1182x788.jpg",
-      "excerpt": "Norway's grid operator Statnett suspended new data centre connection applications for a year. The government says it will use the pause to build a data centre licensing scheme and consider state ownership, amid concern over the AI industry's power demand."
+      "rationale": "Government decision: mandatory AI incident reporting plus a new AI safety regulator; it changes the compliance duties of anyone deploying agents in Australia."
     },
     {
-      "url": "https://www.politico.eu/article/eu-countries-still-cant-get-it-together-on-ai/",
-      "title": "EU countries still can't get it together on AI",
-      "source": "POLITICO Europe",
+      "title": "Commission updates election guidelines for AI, deepfake risks",
+      "url": "https://www.rapporteur.com/news/commission-updates-election-guidelines-for-ai-deepfake-risks/",
+      "source": "Rapporteur (Euractiv)",
+      "published_iso": "2026-11-10T14:01:08+01:00",
+      "og_image": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2277811674.jpg",
+      "excerpt": "The European Commission published draft revised DSA election guidelines asking very large online platforms to adapt and enforce their terms against generative-AI and deepfake risks during elections; a targeted consultation is open.",
+      "subcategory": "elections_public_opinion",
       "tool": "Politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "The Commission confirmed that 16 member states have missed the deadline to name national AI Act enforcement authorities.",
-      "published_iso": "2026-11-08T15:00:00Z",
-      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/08/GettyImages-2246764807.jpg",
-      "excerpt": "Ahead of the Dublin leaders' meeting on AI (Nov 13), 16 capitals have missed the deadline to appoint a national authority to enforce the AI Act, and Brussels has delayed data centre support because of national administrative holdups. The Commission confirmed the count."
+      "rationale": "Official Commission release: draft DSA election guidelines on generative AI and deepfakes, now open for consultation. Covers the elections axis."
     },
     {
-      "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
-      "title": "Revealed: Palantir lobbied minister to stretch AI tools' reach to NHS GP records",
-      "source": "The Guardian",
+      "title": "Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration",
+      "url": "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration/",
+      "source": "The Decoder",
+      "published_iso": "2026-11-10T13:37:16Z",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2025/07/Digital-Europe-Map.jpg",
+      "excerpt": "Eight countries plus OpenAI, Anthropic, Microsoft and Mistral signed Macron's 'Paris Call for AI Safety and Security', committing to shutdown mechanisms, independent audits and disclosure of known risks, though without binding sanctions or deadlines.",
+      "subcategory": "policy_regulation",
       "tool": "Politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Original documentary reporting from ministerial WhatsApp messages on an AI vendor seeking access to GP records through a public procurement platform.",
-      "published_iso": "2026-11-09T17:58:05Z",
-      "og_image": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c50e979afe9d631a3703b2f2066bb718",
-      "excerpt": "WhatsApp messages seen by the Guardian show Palantir pressing health minister Zubir Ahmed to help bring sensitive GP record data into its NHS AI platform."
+      "rationale": "New multilateral declaration signed by eight states and four frontier labs, committing them to shutdown mechanisms and independent audits."
     },
     {
-      "url": "https://www.etnews.com/20261109000269",
-      "title": "AI 안경 쓰고 시험 치다 적발된 중·고생 4명…전원 0점 처리",
-      "source": "전자신문",
+      "title": "개보위, 앤트로픽 '클로드' 개인정보 유출 사고 정식 조사 착수",
+      "url": "https://www.yna.co.kr/view/AKR20261110142600530",
+      "source": "연합뉴스",
+      "published_iso": "2026-11-10T16:22:26+09:00",
+      "og_image": "https://img0.yna.co.kr/photo/yna/YH/2026/10/28/PYH2026102813630001300_P4.jpg",
+      "excerpt": "Korea's Personal Information Protection Commission opened a formal investigation into Anthropic after account data of about 112 Korean corporate Claude accounts leaked, following Anthropic's breach report.",
+      "subcategory": "policy_regulation",
       "tool": "Politics",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "A follow-up with a new official outcome: the Ministry of Education's nationwide survey confirmed 4 smart-glasses cheating cases, and all the students involved received a zero.",
-      "published_iso": "2026-11-09T14:08:59+09:00",
-      "og_image": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.8ac1fa2c17534244ae231cd437548395_P1.png",
-      "excerpt": "교육부는 전국 중·고교를 대상으로 스마트 안경 내신평가 부정행위를 전수조사해 4건(중1·고3)을 확인했다. 적발된 학생은 모두 0점 처리됐다."
+      "rationale": "Regulator action: Korea's PIPC opened a formal privacy investigation into Anthropic over a leak of 112 Korean corporate Claude accounts."
     },
     {
-      "url": "https://www.newsofbahrain.com/en/article/deepfake-penalties-rejected-2015",
-      "title": "Deepfake Penalties Rejected 20–15",
-      "source": "News of Bahrain",
+      "title": "AI is becoming an information gateway. Audiences still don't want it making their news.",
+      "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+      "source": "Nieman Lab",
+      "published_iso": "2026-11-10T11:47:51-05:00",
+      "og_image": "https://www.niemanlab.org/images/GenAI-2026.-Embedded-in.png",
+      "excerpt": "The Reuters Institute's 'Generative AI and News Report 2026' surveyed nine countries: 51% now use AI weekly and AI is becoming an information intermediary, yet audiences remain wary of AI-made news.",
+      "subcategory": "elections_public_opinion",
       "tool": "Politics",
-      "accent": "#eb367f",
+      "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "A concrete legislative vote on the deepfake/elections axis: Bahrain's Shura Council rejected a deepfake criminal-penalties bill 20–15.",
-      "published_iso": "2026-11-09T07:04:22Z",
-      "og_image": "https://mdisebzgyrtdwsnwlszm.supabase.co/storage/v1/object/public/og-cards/article/en/deepfake-penalties-rejected-2015/1794207862163-v2.jpg",
-      "excerpt": "Bahrain's Shura Council voted 20–15 to reject a bill with criminal penalties for deepfake misuse, amid debate sparked by a fake video of a Shura member."
+      "rationale": "New Reuters Institute nine-country survey on AI as a news gateway. A primary public-opinion data release on the elections and public-opinion axis."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.rapporteur.com/news/norway-suspends-electricity-grid-access-for-new-data-centres/": {
+      "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack": {
         "verdict": "new",
-        "nearest": "https://www.yna.co.kr/view/AKR20261021039400017",
+        "nearest": "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889",
         "new_action": ""
       },
-      "https://www.politico.eu/article/eu-countries-still-cant-get-it-together-on-ai/": {
+      "https://www.rapporteur.com/news/commission-updates-election-guidelines-for-ai-deepfake-risks/": {
         "verdict": "new",
-        "nearest": "https://iapp.org/news/a/italys-ai-act-framework-takes-shape-what-legislative-decree-no-179-2026-means-for-organizations",
+        "nearest": "https://www.koreatimes.co.kr/business/20261022/ftc-to-collect-public-opinion-on-draft-guidelines-against-ai-washing",
         "new_action": ""
       },
-      "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records": {
+      "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration/": {
         "verdict": "new",
-        "nearest": "https://www.euronews.com/2026/10/22/palantir-says-nato-ai-system-has-no-kill-switch-after-starlink-disruptions-in-ukraine",
+        "nearest": "https://www.politico.eu/article/france-us-clash-ai-safety-talks-a-g7/",
         "new_action": ""
       },
-      "https://www.etnews.com/20261109000269": {
-        "verdict": "follow-up",
-        "nearest": "https://www.etnews.com/20261107000027",
-        "new_action": "Ministry of Education released the results of its nationwide school-exam survey: 4 smart-glasses cheating cases confirmed (middle-school year 1 and high-school year 3), and all 4 students were given zero marks."
-      },
-      "https://www.newsofbahrain.com/en/article/deepfake-penalties-rejected-2015": {
+      "https://www.yna.co.kr/view/AKR20261110142600530": {
         "verdict": "new",
-        "nearest": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/": {
+        "verdict": "new",
+        "nearest": "https://www.theregister.com/ai-and-ml/2026/10/12/chatbot-refuseniks-edge-out-users-in-the-us-and-theyre-not-for-turning/5302690",
         "new_action": ""
       }
     },
-    "note": "Dropped: EU presses OpenAI/Anthropic on safety incidents (Rapporteur). It carries a history_match to the 10-15 Euronews 'first enforcement test over lab incidents' and is the same running GPAI-incident enforcement story with no clearly distinct formal decision, so it is treated as a duplicate. Nvidia/Huang affair (Ars) is a follow-up to 11-07; the new element is a corporate board probe, not a government decision, ruling or filing, so it was dropped. The Verge COP31 pledge piece is opinion about an intergovernmental pledge, and the Freedom House podcast (Tech Policy Press) and the CSET preview are commentary/analysis; all three were dropped. Deprioritised on score/diversity: Trump 60 Minutes (an interview statement, not a document), Google schools Search policy (weaker politics axis), PM-Macron readout (generic), the Rest of World talent feature, the etnews AI education budget cut (it would be a second etnews card and is at the budget-proposal stage), Yonhap defense AI institutes and ITU, and the Tulfo bill. Cross-section: the smart-glasses story is assigned to politics by the orchestrator. published_urls.json (4192 lines) is too large to read in full with Read-only tools, so the exact-grep across sections was not done. None of the five URLs is a politics URL in history_digest. The Palantir/NHS item should be grep-checked against medicine before roll."
+    "note": "Nvidia/Jensen Huang espionage running story (published 11-07 and 11-08) dropped as follow-ups. That covers cluster c10 (Ars 'affair becomes national security problem', the Courthouse News shareholder suit, which is mainly a securities-disclosure claim where AI is incidental), the etnews Megaspeed probe report and the House Democrats' export-curb push (a proposal, not a filed bill), and Virkkunen's 'trusted partners' remarks (commentary). The EU AI Office questions to OpenAI and Anthropic are a step in the 10-15 Euronews 'first enforcement test over lab incidents' story, so I left them out. Yonhap's Macron child-safety remarks come from the same Paris Peace Forum as the Paris Call pick, so only one was kept. Not picked: the Trump 60 Minutes interview and the Scott Wiener profile (commentary), the MEP data-centre criticism (debate, not a decision, and related to the 11-10 Norway story), the Ombudsman probe of the AI envoy (AI is incidental), and the Ukraine fibre drones story (AI is incidental). Lower-ranked fresh items left as backfill: the 행안부 public-AI service regulation (etnews), Microsoft enabling Claude by default in UK Copilot tenants (Register), the Google schools Search pledge and the 'AI clog' piece (both Guardian), and Korea's AI detection of sexual-exploitation material (Yonhap). Cross-section check: I could not exact-grep published_urls.json (4,242 lines) with the Read-only tool. All picks are dated 11-09 or 11-10 and none appear in the politics history. The orchestrator should confirm that medicine has not taken the Australia/OpenAI Medicare-portal story and that no section ran the Anthropic Korea leak."
   }
 }

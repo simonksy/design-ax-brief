@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "section": "books",
   "cards": [
     {
-      "id": "books-medium-tk-app",
+      "id": "madras-ai-library-books-fir",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Medium의 TK 앱\n글쓰기에 AI를 들였다",
-      "body": "출판계 AI 논란 속에 Medium이 AI 보조 기능을 담은 새 앱 TK를 냈다.",
-      "mini_headline": "Medium TK 앱에 AI 탑재",
+      "headline": "도서관 AI 가짜책에\n마드라스 법원 FIR 명령",
+      "body": "법원이 AI 생성 의심 도서를 두고 DVAC에 FIR 등록·계좌 동결을 명령했다.",
+      "mini_headline": "법원, AI 도서에 FIR 명령",
       "tool": "Books",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+      "source": "Bar and Bench",
+      "url": "https://www.barandbench.com/news/litigation/madras-high-court-orders-fir-over-fake-ai-generated-books-in-public-libraries",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
@@ -19,203 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675",
-            "cap": "Image Credits: Medium (TK app)"
+            "src": "https://media.assettype.com/barandbench%2F2022-04%2F886749e2-68b4-4658-84a9-4ad607584aaf%2F8.jpg?w=1200&auto=format%2Ccompress",
+            "cap": "Madras High Court(마드라스 고등법원)"
           },
           {
             "t": "p",
-            "x": "온라인 출판 플랫폼 Medium이 월요일 TK라는 새 앱을 출시했다. 글쓰기 과정 깊숙이 AI 기술을 들이겠다는 앱이다. 이용자가 편집기 안 AI 어시스턴트에 “@TK”를 입력하고 요청이나 프롬프트를 적으면 도움을 받는다."
+            "x": "Madras High Court(마드라스 고등법원)는 화요일 Tamil Nadu 감시·반부패국(Directorate of Vigilance and Anti-Corruption, DVAC)에 주 전역 공공도서관 도서 구매 사기 의혹으로 First Information Report(FIR, 최초 사건 보고서)를 즉시 등록하라고 명령했다 [Ramasubbu Vs Gopal]."
           },
           {
             "t": "p",
-            "x": "어시스턴트는 간단한 질문에 답하고 앱에 저장해 둔 글 조각을 불러온다. 편집과 헤드라인 피드백, 초안을 Medium 퍼블리케이션 스타일 가이드에 맞추는 스킬도 기본으로 들어 있다."
+            "x": "GR Swaminathan 판사와 MD Sumathi 판사의 재판부는 공공도서관에 있는 가짜 책과 인공지능 생성(Artificial Intelligence-generated) 책을 여럿 문제 삼았다. 이런 책은 치우라고 했고 Agal Vilakku Publication과 대표 Mohan 등 사기 의혹 관련자의 은행 계좌는 즉시 동결하라고 명령했다. 주 정부에는 책임 공무원을 상대로 정직을 포함한 징계 절차에 들어가라고 지시했다."
           },
           {
             "t": "p",
-            "x": "AI 사용 의혹으로 여러 작가가 출간 계약을 잃고 문학상이 검증대에 오른 때라 논란을 부를 만하다. Medium은 “인공지능은 글쓰기를 덜 중요하게 만들지 않고 더 중요하게 만든다”고 말한다."
-          },
-          {
-            "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/11/TK-UI-HeaderFeature-BNgQWN8G.png"
+            "x": "법원은 \"수천만 루피(Crores of rupees)가 국고에서 빠져나갔다\"고 밝혔다. 논란은 작가 Perumal Murugan이 소셜미디어에 문제를 제기하면서 Coimbatore의 Periyar Arivulagam에 들여온 책을 중심으로 불거졌다."
           },
           {
             "t": "p",
-            "x": "우려를 덜려고 TK는 작가가 글에 AI를 어떻게 썼는지 투명하게 밝히는 노트를 올릴 수 있게 했다. TK의 MCP 서버나 Claude 스킬로 이용자의 AI 에이전트와도 이어진다. TK는 웹에서 바로 쓸 수 있고 데스크톱 앱은 로드맵에 올라 있다. Medium 계정만 있으면 무료다."
+            "x": "법원은 Madurai의 Kalaignar Centenary Library에서 나온 책도 짚었다. 경제학자 Jean Drèze를 저자로 거짓 표기한 책이다. 재판부는 AI-generated(AI 생성) 도서와 표절 도서가 Tamil Nadu Public Libraries Rules, 1950에 나오는 \"doubtful taste(의심스러운 취향)\"에 해당할 수 있다고 봤다. 다음 심리는 11월 11일이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Medium's TK app puts AI\ninside the writing process",
-          "body": "Medium's new TK writing app builds in AI assistance despite growing controversy over AI in publishing.",
-          "mini_headline": "Medium's TK app adds AI",
+          "headline": "Madras High Court orders FIR\nover fake AI library books",
+          "body": "The court directed Tamil Nadu's DVAC to register an FIR and freeze accounts over suspected AI-generated library books.",
+          "mini_headline": "Court orders FIR over AI books",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675",
-                "cap": "Image Credits: Medium (TK app)"
+                "src": "https://media.assettype.com/barandbench%2F2022-04%2F886749e2-68b4-4658-84a9-4ad607584aaf%2F8.jpg?w=1200&auto=format%2Ccompress",
+                "cap": "Madras High Court"
               },
               {
                 "t": "p",
-                "x": "Online publishing platform Medium on Monday launched a new app, called TK, which aims to bring AI technology deeper into the writing process. Users can ask the AI assistant built into the editor for help by typing “@TK” followed by their request or prompt."
+                "x": "The Madras High Court on Tuesday directed the Tamil Nadu Directorate of Vigilance and Anti-Corruption (DVAC) to immediately register a First Information Report (FIR) in connection with alleged fraudulent procurement of books for public libraries across the State [Ramasubbu Vs Gopal]."
               },
               {
                 "t": "p",
-                "x": "The assistant can answer quick questions, pull in bits of writing previously saved to the app, and ship with skills for editorial feedback, headline feedback and matching a draft to the style guide for Medium publications."
+                "x": "A bench of Justices GR Swaminathan and MD Sumathi flagged various fake and Artificial Intelligence-generated books available in public libraries. It directed removal of such books and ordered the immediate freezing of bank accounts belonging to Agal Vilakku Publication, its proprietor Mohan and others involved in the alleged scam, and directed the State to initiate disciplinary action, including suspension, against officials responsible."
               },
               {
                 "t": "p",
-                "x": "The move could prove controversial at a time when multiple authors have lost book deals over suspicions that they used AI, and literary awards have come under scrutiny. Medium says “artificial intelligence makes writing more important, not less.”"
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/TK-UI-HeaderFeature-BNgQWN8G.png"
+                "x": "\"Crores of rupees has gone out of the public exchequer,\" the Court said. The controversy came to light over books procured for Periyar Arivulagam in Coimbatore, after writer Perumal Murugan raised concerns on social media."
               },
               {
                 "t": "p",
-                "x": "To address concerns, TK lets authors publish notes that transparently explain how AI was used in their writing. The app can also connect to your own AI agent through TK’s MCP server or Claude skill. TK is available on the web, with a desktop app on the roadmap, and will be free for those with a Medium account."
+                "x": "The Court referred to a book found at the Kalaignar Centenary Library in Madurai that falsely attributed authorship to economist Jean Drèze, and held that AI-generated and plagiarised books could fall within the expression \"doubtful taste\" under the Tamil Nadu Public Libraries Rules, 1950. The matter will be heard next on November 11."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Medium의 TK 앱\n글쓰기에 AI를 들였다",
-          "body": "출판계 AI 논란 속에 Medium이 AI 보조 기능을 담은 새 앱 TK를 냈다.",
-          "mini_headline": "Medium TK 앱에 AI 탑재",
+          "headline": "도서관 AI 가짜책에\n마드라스 법원 FIR 명령",
+          "body": "법원이 AI 생성 의심 도서를 두고 DVAC에 FIR 등록·계좌 동결을 명령했다.",
+          "mini_headline": "법원, AI 도서에 FIR 명령",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675",
-                "cap": "Image Credits: Medium (TK app)"
+                "src": "https://media.assettype.com/barandbench%2F2022-04%2F886749e2-68b4-4658-84a9-4ad607584aaf%2F8.jpg?w=1200&auto=format%2Ccompress",
+                "cap": "Madras High Court(마드라스 고등법원)"
               },
               {
                 "t": "p",
-                "x": "온라인 출판 플랫폼 Medium이 월요일 TK라는 새 앱을 출시했다. 글쓰기 과정 깊숙이 AI 기술을 들이겠다는 앱이다. 이용자가 편집기 안 AI 어시스턴트에 “@TK”를 입력하고 요청이나 프롬프트를 적으면 도움을 받는다."
+                "x": "Madras High Court(마드라스 고등법원)는 화요일 Tamil Nadu 감시·반부패국(Directorate of Vigilance and Anti-Corruption, DVAC)에 주 전역 공공도서관 도서 구매 사기 의혹으로 First Information Report(FIR, 최초 사건 보고서)를 즉시 등록하라고 명령했다 [Ramasubbu Vs Gopal]."
               },
               {
                 "t": "p",
-                "x": "어시스턴트는 간단한 질문에 답하고 앱에 저장해 둔 글 조각을 불러온다. 편집과 헤드라인 피드백, 초안을 Medium 퍼블리케이션 스타일 가이드에 맞추는 스킬도 기본으로 들어 있다."
+                "x": "GR Swaminathan 판사와 MD Sumathi 판사의 재판부는 공공도서관에 있는 가짜 책과 인공지능 생성(Artificial Intelligence-generated) 책을 여럿 문제 삼았다. 이런 책은 치우라고 했고 Agal Vilakku Publication과 대표 Mohan 등 사기 의혹 관련자의 은행 계좌는 즉시 동결하라고 명령했다. 주 정부에는 책임 공무원을 상대로 정직을 포함한 징계 절차에 들어가라고 지시했다."
               },
               {
                 "t": "p",
-                "x": "AI 사용 의혹으로 여러 작가가 출간 계약을 잃고 문학상이 검증대에 오른 때라 논란을 부를 만하다. Medium은 “인공지능은 글쓰기를 덜 중요하게 만들지 않고 더 중요하게 만든다”고 말한다."
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/TK-UI-HeaderFeature-BNgQWN8G.png"
+                "x": "법원은 \"수천만 루피(Crores of rupees)가 국고에서 빠져나갔다\"고 밝혔다. 논란은 작가 Perumal Murugan이 소셜미디어에 문제를 제기하면서 Coimbatore의 Periyar Arivulagam에 들여온 책을 중심으로 불거졌다."
               },
               {
                 "t": "p",
-                "x": "우려를 덜려고 TK는 작가가 글에 AI를 어떻게 썼는지 투명하게 밝히는 노트를 올릴 수 있게 했다. TK의 MCP 서버나 Claude 스킬로 이용자의 AI 에이전트와도 이어진다. TK는 웹에서 바로 쓸 수 있고 데스크톱 앱은 로드맵에 올라 있다. Medium 계정만 있으면 무료다."
+                "x": "법원은 Madurai의 Kalaignar Centenary Library에서 나온 책도 짚었다. 경제학자 Jean Drèze를 저자로 거짓 표기한 책이다. 재판부는 AI-generated(AI 생성) 도서와 표절 도서가 Tamil Nadu Public Libraries Rules, 1950에 나오는 \"doubtful taste(의심스러운 취향)\"에 해당할 수 있다고 봤다. 다음 심리는 11월 11일이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MediumのTKアプリ\n執筆過程にAIを統合",
-          "body": "Mediumの新しい執筆アプリTKは、出版界のAI論争が強まる中でAI支援を組み込んだ。",
-          "mini_headline": "MediumのTKアプリにAI",
+          "headline": "マドラス高裁がFIR命令\nAI偽造の図書館蔵書",
+          "body": "裁判所はAI生成が疑われる図書を巡り、DVACにFIR登録と口座凍結を命じた。",
+          "mini_headline": "裁判所がAI図書でFIR命令",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675",
-                "cap": "Image Credits: Medium (TK app)"
+                "src": "https://media.assettype.com/barandbench%2F2022-04%2F886749e2-68b4-4658-84a9-4ad607584aaf%2F8.jpg?w=1200&auto=format%2Ccompress",
+                "cap": "Madras High Court(マドラス高等裁判所)"
               },
               {
                 "t": "p",
-                "x": "オンライン出版プラットフォームのMediumは月曜日、執筆過程にAI技術をより深く取り込むことを目指す新アプリ「TK」を公開した。ユーザーはエディターに内蔵されたAIアシスタントに「@TK」と入力し、続けて依頼やプロンプトを書くことで支援を受けられる。"
+                "x": "Madras High Court(マドラス高等裁判所)は火曜日、Tamil Nadu州の監察・汚職防止局(Directorate of Vigilance and Anti-Corruption、DVAC)に対し、州内の公共図書館向け図書の不正調達疑惑に関してFirst Information Report(FIR、第一報告書)を直ちに登録するよう命じた[Ramasubbu Vs Gopal]。"
               },
               {
                 "t": "p",
-                "x": "アシスタントは簡単な質問に答え、アプリに保存した文章の断片を呼び出せる。編集上のフィードバック、見出しへのフィードバック、Mediumのパブリケーション向けスタイルガイドに草稿を合わせるスキルも備える。"
+                "x": "GR Swaminathan判事とMD Sumathi判事による法廷は、公共図書館に置かれた多数の偽書や人工知能生成(Artificial Intelligence-generated)の書籍を問題視した。法廷はそれらの書籍の撤去を指示し、Agal Vilakku Publication、その経営者Mohanら詐欺疑惑の関係者の銀行口座を直ちに凍結するよう命じたうえ、州に対し責任ある職員への停職を含む懲戒手続きを始めるよう指示した。"
               },
               {
                 "t": "p",
-                "x": "AI使用の疑いで複数の作家が出版契約を失い、文学賞も厳しい目にさらされている時期だけに、今回の動きは論争を呼ぶ可能性がある。Mediumは「人工知能は書くことの重要性を下げるのではなく、高める」としている。"
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/TK-UI-HeaderFeature-BNgQWN8G.png"
+                "x": "「数千万ルピー(Crores of rupees)が国庫から流出した」と裁判所は述べた。この問題は、作家Perumal MuruganがSNSで懸念を示したことを受け、CoimbatoreのPeriyar Arivulagam向けに調達された書籍をめぐって明るみに出た。"
               },
               {
                 "t": "p",
-                "x": "懸念に応えるため、TKでは作家が執筆にAIをどう使ったかを透明に説明するノートを公開できる。アプリはTKのMCPサーバーやClaudeスキルを通じて自分のAIエージェントとも接続できる。TKはウェブで利用でき、デスクトップアプリはロードマップに入っている。Mediumアカウントを持つ人は無料で使える。"
+                "x": "裁判所は、MaduraiのKalaignar Centenary Libraryで見つかった、経済学者Jean Drèzeを著者と偽った書籍に言及し、AI-generated(AI生成)の書籍や盗用書籍はTamil Nadu Public Libraries Rules, 1950の「doubtful taste(疑わしい趣味)」という表現に該当し得ると判断した。次回審理は11月11日に行われる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Medium推出TK应用\n把AI带入写作过程",
-          "body": "Medium新写作应用TK在出版界AI争议升温之际内置了AI辅助功能。",
-          "mini_headline": "Medium TK应用加入AI",
+          "headline": "马德拉斯高院下令立FIR\n涉AI伪造图书馆藏书",
+          "body": "法院责令DVAC就疑似AI生成的图书馆藏书登记FIR，并冻结相关账户。",
+          "mini_headline": "法院就AI图书下令立FIR",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675",
-                "cap": "Image Credits: Medium (TK app)"
+                "src": "https://media.assettype.com/barandbench%2F2022-04%2F886749e2-68b4-4658-84a9-4ad607584aaf%2F8.jpg?w=1200&auto=format%2Ccompress",
+                "cap": "Madras High Court（马德拉斯高等法院）"
               },
               {
                 "t": "p",
-                "x": "在线出版平台Medium周一推出名为TK的新应用，旨在把AI技术更深地融入写作过程。用户在编辑器中输入“@TK”并接上请求或提示词，即可向内置的AI助手求助。"
+                "x": "Madras High Court（马德拉斯高等法院）周二责令Tamil Nadu邦监察与反腐败局（Directorate of Vigilance and Anti-Corruption，DVAC）就全邦公共图书馆涉嫌欺诈性采购图书一事，立即登记First Information Report（FIR，第一信息报告）[Ramasubbu Vs Gopal]。"
               },
               {
                 "t": "p",
-                "x": "该助手可以回答简单问题，调取此前保存在应用中的文字片段，并自带编辑反馈、标题反馈以及按Medium刊物风格指南调整草稿的技能。"
+                "x": "由GR Swaminathan和MD Sumathi两位法官组成的合议庭指出，公共图书馆中存在多种虚假及人工智能生成（Artificial Intelligence-generated）的图书。法庭下令移除此类图书，立即冻结Agal Vilakku Publication、其所有人Mohan及其他涉嫌参与该骗局者的银行账户，并责令邦政府对相关责任官员启动包括停职在内的纪律处分。"
               },
               {
                 "t": "p",
-                "x": "此举可能引发争议：多位作家因被怀疑使用AI而失去出书合约，文学奖项也受到审视。Medium表示，“人工智能让写作变得更重要，而不是更不重要。”"
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/TK-UI-HeaderFeature-BNgQWN8G.png"
+                "x": "法院表示：“数千万卢比（Crores of rupees）已从公共财政流失。”此次争议源于作家Perumal Murugan在社交媒体上提出质疑，涉及为Coimbatore的Periyar Arivulagam采购的图书。"
               },
               {
                 "t": "p",
-                "x": "为回应担忧，TK允许作者发布说明，透明地交代AI在写作中的使用方式。该应用还能通过TK的MCP服务器或Claude技能连接用户自己的AI代理。TK目前可在网页端使用，桌面应用已列入路线图，拥有Medium账户的用户可免费使用。"
+                "x": "法院提到在Madurai的Kalaignar Centenary Library发现的一本书，该书虚假署名经济学家Jean Drèze为作者。法院认为，AI-generated（AI生成）图书和抄袭图书可归入Tamil Nadu Public Libraries Rules, 1950中“doubtful taste（品味可疑）”这一表述。此案将于11月11日再次审理。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La app TK de Medium lleva la AI\nal proceso de escritura",
-          "body": "La nueva app de escritura TK de Medium integra asistencia de AI pese a la creciente polémica por la AI en la edición.",
-          "mini_headline": "Medium añade AI con la app TK",
+          "headline": "Madras High Court ordena FIR\npor falsos libros de IA",
+          "body": "El tribunal ordenó a la DVAC de Tamil Nadu registrar una FIR y congelar cuentas por presuntos libros hechos con IA.",
+          "mini_headline": "Orden de FIR por libros de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675",
-                "cap": "Image Credits: Medium (TK app)"
+                "src": "https://media.assettype.com/barandbench%2F2022-04%2F886749e2-68b4-4658-84a9-4ad607584aaf%2F8.jpg?w=1200&auto=format%2Ccompress",
+                "cap": "Madras High Court"
               },
               {
                 "t": "p",
-                "x": "La plataforma de publicación en línea Medium lanzó el lunes una nueva app llamada TK, que busca llevar la tecnología de AI más a fondo en el proceso de escritura. Los usuarios pueden pedir ayuda al asistente de AI integrado en el editor escribiendo “@TK” seguido de su solicitud o prompt."
+                "x": "El Madras High Court ordenó el martes a la Directorate of Vigilance and Anti-Corruption (DVAC) de Tamil Nadu registrar de inmediato un First Information Report (FIR) en relación con la presunta adquisición fraudulenta de libros para bibliotecas públicas de todo el estado [Ramasubbu Vs Gopal]."
               },
               {
                 "t": "p",
-                "x": "El asistente puede responder preguntas rápidas, recuperar fragmentos de textos guardados previamente en la app e incluye habilidades para dar comentarios editoriales, opinar sobre titulares y ajustar un borrador a la guía de estilo de las publicaciones de Medium."
+                "x": "Un tribunal formado por los jueces GR Swaminathan y MD Sumathi señaló diversos libros falsos y generados con inteligencia artificial (Artificial Intelligence-generated) presentes en bibliotecas públicas. Ordenó retirar esos libros y congelar de inmediato las cuentas bancarias de Agal Vilakku Publication, de su propietario Mohan y de otros implicados en la presunta estafa, e instó al Estado a iniciar acciones disciplinarias, incluida la suspensión, contra los funcionarios responsables."
               },
               {
                 "t": "p",
-                "x": "La medida podría resultar polémica en un momento en que varios autores han perdido contratos editoriales por sospechas de haber usado AI y los premios literarios están bajo escrutinio. Medium afirma que “la inteligencia artificial hace que escribir sea más importante, no menos”."
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/TK-UI-HeaderFeature-BNgQWN8G.png"
+                "x": "\"Crores de rupias han salido del erario público\", afirmó el tribunal. La controversia salió a la luz por los libros adquiridos para Periyar Arivulagam en Coimbatore, después de que el escritor Perumal Murugan expresara su preocupación en redes sociales."
               },
               {
                 "t": "p",
-                "x": "Para atender las preocupaciones, TK permite a los autores publicar notas que explican con transparencia cómo se usó la AI en su escritura. La app también puede conectarse con el agente de AI propio del usuario a través del servidor MCP de TK o de la skill de Claude. TK está disponible en la web, con una app de escritorio en la hoja de ruta, y será gratuita para quienes tengan una cuenta de Medium."
+                "x": "El tribunal mencionó un libro hallado en la Kalaignar Centenary Library de Madurai que atribuía falsamente su autoría al economista Jean Drèze, y sostuvo que los libros AI-generated (generados con IA) y plagiados podrían encajar en la expresión \"doubtful taste\" de las Tamil Nadu Public Libraries Rules, 1950. El caso se verá de nuevo el 11 de noviembre."
               }
             ]
           }
@@ -223,141 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Medium의 TK 앱\n글쓰기 과정에 AI 탑재",
-          "body": "Medium의 새 앱 TK가 출판계 AI 논란 속에 AI 보조 기능을 담았다.",
-          "mini_headline": "Medium TK 앱에 AI 탑재",
+          "headline": "마드라스 법원 FIR 명령\nAI 가짜 도서관 책",
+          "body": "법원은 AI 생성 의심 도서로 DVAC에 FIR 등록과 계좌 동결을 명령했다.",
+          "mini_headline": "법원, AI 도서 FIR 명령",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675",
-                "cap": "Image Credits: Medium (TK app)"
+                "src": "https://media.assettype.com/barandbench%2F2022-04%2F886749e2-68b4-4658-84a9-4ad607584aaf%2F8.jpg?w=1200&auto=format%2Ccompress",
+                "cap": "Madras High Court(마드라스 고등법원)"
               },
               {
                 "t": "p",
-                "x": "온라인 출판 플랫폼 Medium이 월요일 TK라는 새 앱을 출시했다. 글쓰기 과정 깊숙이 AI 기술을 들이려는 앱이다. 이용자는 편집기에 내장된 AI 어시스턴트에 “@TK”를 입력한 뒤 요청이나 프롬프트를 적어 도움을 받을 수 있다."
+                "x": "Madras High Court(마드라스 고등법원)는 화요일 Tamil Nadu 감시·반부패국(Directorate of Vigilance and Anti-Corruption, DVAC)에 주 전역 공공도서관의 도서 구매 사기 의혹과 관련해 First Information Report(FIR, 최초 사건 보고서)를 즉시 등록하라고 명령했다 [Ramasubbu Vs Gopal]."
               },
               {
                 "t": "p",
-                "x": "어시스턴트는 간단한 질문에 답하고, 앱에 저장해 둔 글 조각을 불러온다. 편집 피드백, 헤드라인 피드백, 초안을 Medium 퍼블리케이션 스타일 가이드에 맞추는 스킬도 기본으로 갖췄다."
+                "x": "GR Swaminathan 판사와 MD Sumathi 판사로 구성된 재판부는 공공도서관에 비치된 여러 가짜 도서와 인공지능 생성(Artificial Intelligence-generated) 도서를 지적했다. 재판부는 해당 도서를 치우라고 지시하고 Agal Vilakku Publication과 그 대표 Mohan 등 사기 의혹 관련자들의 은행 계좌를 즉시 동결하라고 명령했으며, 주 정부에 책임 공무원에 대해 정직을 포함한 징계 절차를 시작하라고 지시했다."
               },
               {
                 "t": "p",
-                "x": "AI 사용 의혹으로 여러 작가가 출간 계약을 잃고 문학상이 검증대에 오른 시점이어서 논란이 될 수 있다. Medium은 “인공지능은 글쓰기를 덜 중요하게 만들지 않고 더 중요하게 만든다”고 말한다."
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/TK-UI-HeaderFeature-BNgQWN8G.png"
+                "x": "법원은 \"수천만 루피(Crores of rupees)가 국고에서 빠져나갔다\"고 밝혔다. 이 논란은 작가 Perumal Murugan이 소셜미디어에서 문제를 제기한 뒤 Coimbatore의 Periyar Arivulagam에 구매된 도서를 둘러싸고 불거졌다."
               },
               {
                 "t": "p",
-                "x": "우려를 덜기 위해 TK는 작가가 글에 AI를 어떻게 썼는지 투명하게 설명하는 노트를 게시할 수 있게 했다. 앱은 TK의 MCP 서버나 Claude 스킬을 통해 이용자의 AI 에이전트와도 연결된다. TK는 웹에서 쓸 수 있고 데스크톱 앱은 로드맵에 있으며, Medium 계정이 있으면 무료다."
+                "x": "법원은 Madurai의 Kalaignar Centenary Library에서 발견된, 경제학자 Jean Drèze를 저자로 허위 표기한 책을 언급하며 AI-generated(AI 생성) 도서와 표절 도서가 Tamil Nadu Public Libraries Rules, 1950의 \"doubtful taste(의심스러운 취향)\" 표현에 해당할 수 있다고 판단했다. 다음 심리는 11월 11일에 열린다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MediumのTKアプリ\n執筆過程にAIを統合",
-          "body": "Mediumの新しい執筆アプリTKは、出版界のAI論争が強まる中でAI支援を組み込んだ。",
-          "mini_headline": "MediumのTKアプリにAI",
+          "headline": "マドラス高裁がFIR命令\nAI偽造の図書館蔵書",
+          "body": "裁判所はAI生成が疑われる図書を巡り、DVACにFIR登録と口座凍結を命じた。",
+          "mini_headline": "裁判所がAI図書でFIR命令",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675",
-                "cap": "Image Credits: Medium (TK app)"
+                "src": "https://media.assettype.com/barandbench%2F2022-04%2F886749e2-68b4-4658-84a9-4ad607584aaf%2F8.jpg?w=1200&auto=format%2Ccompress",
+                "cap": "Madras High Court(マドラス高等裁判所)"
               },
               {
                 "t": "p",
-                "x": "オンライン出版プラットフォームのMediumは月曜日、執筆過程にAI技術をより深く取り込むことを目指す新アプリ「TK」を公開した。ユーザーはエディターに内蔵されたAIアシスタントに「@TK」と入力し、続けて依頼やプロンプトを書くことで支援を受けられる。"
+                "x": "Madras High Court(マドラス高等裁判所)は火曜日、Tamil Nadu州の監察・汚職防止局(Directorate of Vigilance and Anti-Corruption、DVAC)に対し、州内の公共図書館向け図書の不正調達疑惑に関してFirst Information Report(FIR、第一報告書)を直ちに登録するよう命じた[Ramasubbu Vs Gopal]。"
               },
               {
                 "t": "p",
-                "x": "アシスタントは簡単な質問に答え、アプリに保存した文章の断片を呼び出せる。編集上のフィードバック、見出しへのフィードバック、Mediumのパブリケーション向けスタイルガイドに草稿を合わせるスキルも備える。"
+                "x": "GR Swaminathan判事とMD Sumathi判事による法廷は、公共図書館に置かれた多数の偽書や人工知能生成(Artificial Intelligence-generated)の書籍を問題視した。法廷はそれらの書籍の撤去を指示し、Agal Vilakku Publication、その経営者Mohanら詐欺疑惑の関係者の銀行口座を直ちに凍結するよう命じたうえ、州に対し責任ある職員への停職を含む懲戒手続きを始めるよう指示した。"
               },
               {
                 "t": "p",
-                "x": "AI使用の疑いで複数の作家が出版契約を失い、文学賞も厳しい目にさらされている時期だけに、今回の動きは論争を呼ぶ可能性がある。Mediumは「人工知能は書くことの重要性を下げるのではなく、高める」としている。"
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/TK-UI-HeaderFeature-BNgQWN8G.png"
+                "x": "「数千万ルピー(Crores of rupees)が国庫から流出した」と裁判所は述べた。この問題は、作家Perumal MuruganがSNSで懸念を示したことを受け、CoimbatoreのPeriyar Arivulagam向けに調達された書籍をめぐって明るみに出た。"
               },
               {
                 "t": "p",
-                "x": "懸念に応えるため、TKでは作家が執筆にAIをどう使ったかを透明に説明するノートを公開できる。アプリはTKのMCPサーバーやClaudeスキルを通じて自分のAIエージェントとも接続できる。TKはウェブで利用でき、デスクトップアプリはロードマップに入っている。Mediumアカウントを持つ人は無料で使える。"
+                "x": "裁判所は、MaduraiのKalaignar Centenary Libraryで見つかった、経済学者Jean Drèzeを著者と偽った書籍に言及し、AI-generated(AI生成)の書籍や盗用書籍はTamil Nadu Public Libraries Rules, 1950の「doubtful taste(疑わしい趣味)」という表現に該当し得ると判断した。次回審理は11月11日に行われる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Medium推出TK应用\n把AI带入写作过程",
-          "body": "Medium新写作应用TK在出版界AI争议升温之际内置了AI辅助功能。",
-          "mini_headline": "Medium TK应用加入AI",
+          "headline": "马德拉斯高院下令立FIR\n涉AI伪造图书馆藏书",
+          "body": "法院责令DVAC就疑似AI生成的图书馆藏书登记FIR，并冻结相关账户。",
+          "mini_headline": "法院就AI图书下令立FIR",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675",
-                "cap": "Image Credits: Medium (TK app)"
+                "src": "https://media.assettype.com/barandbench%2F2022-04%2F886749e2-68b4-4658-84a9-4ad607584aaf%2F8.jpg?w=1200&auto=format%2Ccompress",
+                "cap": "Madras High Court（马德拉斯高等法院）"
               },
               {
                 "t": "p",
-                "x": "在线出版平台Medium周一推出名为TK的新应用，旨在把AI技术更深地融入写作过程。用户在编辑器中输入“@TK”并接上请求或提示词，即可向内置的AI助手求助。"
+                "x": "Madras High Court（马德拉斯高等法院）周二责令Tamil Nadu邦监察与反腐败局（Directorate of Vigilance and Anti-Corruption，DVAC）就全邦公共图书馆涉嫌欺诈性采购图书一事，立即登记First Information Report（FIR，第一信息报告）[Ramasubbu Vs Gopal]。"
               },
               {
                 "t": "p",
-                "x": "该助手可以回答简单问题，调取此前保存在应用中的文字片段，并自带编辑反馈、标题反馈以及按Medium刊物风格指南调整草稿的技能。"
+                "x": "由GR Swaminathan和MD Sumathi两位法官组成的合议庭指出，公共图书馆中存在多种虚假及人工智能生成（Artificial Intelligence-generated）的图书。法庭下令移除此类图书，立即冻结Agal Vilakku Publication、其所有人Mohan及其他涉嫌参与该骗局者的银行账户，并责令邦政府对相关责任官员启动包括停职在内的纪律处分。"
               },
               {
                 "t": "p",
-                "x": "此举可能引发争议：多位作家因被怀疑使用AI而失去出书合约，文学奖项也受到审视。Medium表示，“人工智能让写作变得更重要，而不是更不重要。”"
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/TK-UI-HeaderFeature-BNgQWN8G.png"
+                "x": "法院表示：“数千万卢比（Crores of rupees）已从公共财政流失。”此次争议源于作家Perumal Murugan在社交媒体上提出质疑，涉及为Coimbatore的Periyar Arivulagam采购的图书。"
               },
               {
                 "t": "p",
-                "x": "为回应担忧，TK允许作者发布说明，透明地交代AI在写作中的使用方式。该应用还能通过TK的MCP服务器或Claude技能连接用户自己的AI代理。TK目前可在网页端使用，桌面应用已列入路线图，拥有Medium账户的用户可免费使用。"
+                "x": "法院提到在Madurai的Kalaignar Centenary Library发现的一本书，该书虚假署名经济学家Jean Drèze为作者。法院认为，AI-generated（AI生成）图书和抄袭图书可归入Tamil Nadu Public Libraries Rules, 1950中“doubtful taste（品味可疑）”这一表述。此案将于11月11日再次审理。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La app TK de Medium lleva la AI\nal proceso de escritura",
-          "body": "La nueva app de escritura TK de Medium integra asistencia de AI pese a la creciente polémica por la AI en la edición.",
-          "mini_headline": "Medium añade AI con la app TK",
+          "headline": "Madras High Court ordena FIR\npor falsos libros de IA",
+          "body": "El tribunal ordenó a la DVAC de Tamil Nadu registrar una FIR y congelar cuentas por presuntos libros hechos con IA.",
+          "mini_headline": "Orden de FIR por libros de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675",
-                "cap": "Image Credits: Medium (TK app)"
+                "src": "https://media.assettype.com/barandbench%2F2022-04%2F886749e2-68b4-4658-84a9-4ad607584aaf%2F8.jpg?w=1200&auto=format%2Ccompress",
+                "cap": "Madras High Court"
               },
               {
                 "t": "p",
-                "x": "La plataforma de publicación en línea Medium lanzó el lunes una nueva app llamada TK, que busca llevar la tecnología de AI más a fondo en el proceso de escritura. Los usuarios pueden pedir ayuda al asistente de AI integrado en el editor escribiendo “@TK” seguido de su solicitud o prompt."
+                "x": "El Madras High Court ordenó el martes a la Directorate of Vigilance and Anti-Corruption (DVAC) de Tamil Nadu registrar de inmediato un First Information Report (FIR) en relación con la presunta adquisición fraudulenta de libros para bibliotecas públicas de todo el estado [Ramasubbu Vs Gopal]."
               },
               {
                 "t": "p",
-                "x": "El asistente puede responder preguntas rápidas, recuperar fragmentos de textos guardados previamente en la app e incluye habilidades para dar comentarios editoriales, opinar sobre titulares y ajustar un borrador a la guía de estilo de las publicaciones de Medium."
+                "x": "Un tribunal formado por los jueces GR Swaminathan y MD Sumathi señaló diversos libros falsos y generados con inteligencia artificial (Artificial Intelligence-generated) presentes en bibliotecas públicas. Ordenó retirar esos libros y congelar de inmediato las cuentas bancarias de Agal Vilakku Publication, de su propietario Mohan y de otros implicados en la presunta estafa, e instó al Estado a iniciar acciones disciplinarias, incluida la suspensión, contra los funcionarios responsables."
               },
               {
                 "t": "p",
-                "x": "La medida podría resultar polémica en un momento en que varios autores han perdido contratos editoriales por sospechas de haber usado AI y los premios literarios están bajo escrutinio. Medium afirma que “la inteligencia artificial hace que escribir sea más importante, no menos”."
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/TK-UI-HeaderFeature-BNgQWN8G.png"
+                "x": "\"Crores de rupias han salido del erario público\", afirmó el tribunal. La controversia salió a la luz por los libros adquiridos para Periyar Arivulagam en Coimbatore, después de que el escritor Perumal Murugan expresara su preocupación en redes sociales."
               },
               {
                 "t": "p",
-                "x": "Para atender las preocupaciones, TK permite a los autores publicar notas que explican con transparencia cómo se usó la AI en su escritura. La app también puede conectarse con el agente de AI propio del usuario a través del servidor MCP de TK o de la skill de Claude. TK está disponible en la web, con una app de escritorio en la hoja de ruta, y será gratuita para quienes tengan una cuenta de Medium."
+                "x": "El tribunal mencionó un libro hallado en la Kalaignar Centenary Library de Madurai que atribuía falsamente su autoría al economista Jean Drèze, y sostuvo que los libros AI-generated (generados con IA) y plagiados podrían encajar en la expresión \"doubtful taste\" de las Tamil Nadu Public Libraries Rules, 1950. El caso se verá de nuevo el 11 de noviembre."
               }
             ]
           }
@@ -365,15 +325,15 @@
       }
     },
     {
-      "id": "books-wired-paper-trail",
-      "source_lang": "en",
+      "id": "claude-autobiography-engineer",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "작가들, AI 의혹에\n집필 기록으로 맞선다",
-      "body": "집필 기록 도구들이 AI 의혹을 막아 준다지만 작가들의 처지는 진퇴양난이다.",
-      "mini_headline": "집필 기록과 AI 의혹",
+      "headline": "클로드 자서전 엮은\n자동차 엔지니어",
+      "body": "글쓰기 경험이 거의 없는 자동차 엔지니어가 클로드의 일인칭 자서전을 엮었다.",
+      "mini_headline": "클로드 자서전 엮은 엔지니어",
       "tool": "Books",
-      "source": "WIRED",
-      "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
+      "source": "주간경향",
+      "url": "https://weekly.khan.co.kr/article/202611100600001",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
@@ -381,305 +341,305 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg",
-            "cap": "Photo-Illustration: Wired Staff; Getty Images"
+            "src": "https://img.khan.co.kr/weekly/2026/11/10/news-p.v1.20261106.c3229319ccba4739bc5fea8c53f060a4_P1.png",
+            "cap": "<클로드 자서전>을 기획하고 엮은이 메리(Mary). 목차와 원고는 AI가 작성했지만, 사실관계 검증은 인간의 몫이었다. 메리 제공"
           },
           {
             "t": "p",
-            "x": "출판계가 원고 출처를 두고 편집증에 시달리는 사이 작가들은 진퇴양난에 빠졌다. 3월 Hachette는 공포소설 Shy Girl이 상당 부분 AI로 생성됐다(AI-generated)는 주장이 나오자 이 책의 US 출간을 취소했다. 작가 Mia Ballard는 AI 사용을 부인했다."
+            "x": "신간 <클로드 자서전: 나는 기억하지 못할 것이다>(동아시아)는 미국 앤트로픽이 개발한 생성형 AI 클로드가 자신의 탄생과 기억, 감정, 의식에 관해 일인칭으로 서술한 책으로, 18개 장에 걸쳐 풀어낸다."
           },
           {
             "t": "p",
-            "x": "Anthropic을 상대로 낸 집단소송의 대표 원고인 소설가 Andrea Bartz는 의혹이 제기되는 순간 이미 피해가 생긴다고 말한다. 인간이 썼음을 증명할 “합의된 기준이 없다”는 설명이다."
+            "x": "책을 기획하고 엮은 'Mary(메리·가명)'는 자동차 기구 설계 일을 하는 엔지니어다. AI에 관한 전문지식이 풍부한 것도 글쓰기 경험이 많은 것도 아니었고, 직접 써본 글도 일기 정도였다. AI를 더 잘 이해하려고 클로드에게 자서전을 써보라고 했고, 클로드가 내놓은 18개 장의 목차를 하나도 수정하지 않았다. 출판사도 클로드가 추천한 두 곳에 투고했다."
           },
           {
             "t": "p",
-            "x": "Workings, Blindproof, Wintertext, Human Ink, ObraVera 같은 플랫폼은 작가의 집필 과정을 추적·기록해 저작 기록을 만들어 준다고 내세운다. Authors Guild의 Mary Rasenberger는 이런 증빙을 남겨야 하는 상황 자체가 “모욕적”이고 “부담”이라고 했다."
+            "x": "집필에는 한 달이 조금 넘는 시간이 걸렸지만 검증에는 두 달 넘게 소요됐다. 그는 책에 등장하는 주장 680건을 목록으로 만들어 하나하나 확인했다. \"없는 말 지어낸 것도 있고 숫자가 살짝 다른 것도 많았어요.\""
           },
           {
             "t": "p",
-            "x": "도구도 완벽하지는 않다. Pangram CEO Max Spero는 AI가 쓴 글을 손으로 옮겨 칠 수도 있다고 지적한다. ObraVera의 Brady Ridgway는 자사 소프트웨어가 선언을 기록할 뿐 사실 여부까지 확인하지는 못한다고 말한다. 출판 전문가 Jane Friedman은 출판사들이 “추가 비용이나 추가 시간이 드는” 검증을 도입할지 의문을 품는다."
+            "x": "책을 완성한 뒤 그는 \"이걸 쓰면서 느낀 게 역시 인간은 대체할 수 없다는 거예요\"라며 \"원래 잘 쓰던 사람이 AI를 만나면 폭발적으로 잘 쓸 것 같아요\"라고 말했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Authors turn to paper trails\nagainst AI accusations",
-          "body": "Paper-trail tools promise to help authors defend against AI allegations, but writers are caught in an impossible bind.",
-          "mini_headline": "Paper trails vs AI claims",
+        "ko": {
+          "headline": "클로드 자서전 엮은\n자동차 엔지니어",
+          "body": "글쓰기 경험이 거의 없는 자동차 엔지니어가 클로드의 일인칭 자서전을 엮었다.",
+          "mini_headline": "클로드 자서전 엮은 엔지니어",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg",
-                "cap": "Photo-Illustration: Wired Staff; Getty Images"
+                "src": "https://img.khan.co.kr/weekly/2026/11/10/news-p.v1.20261106.c3229319ccba4739bc5fea8c53f060a4_P1.png",
+                "cap": "<클로드 자서전>을 기획하고 엮은이 메리(Mary). 목차와 원고는 AI가 작성했지만, 사실관계 검증은 인간의 몫이었다. 메리 제공"
               },
               {
                 "t": "p",
-                "x": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind. In March, Hachette canceled the US publication of the horror novel Shy Girl amid claims it was largely AI-generated; author Mia Ballard has denied using AI."
+                "x": "신간 <클로드 자서전: 나는 기억하지 못할 것이다>(동아시아)는 미국 앤트로픽이 개발한 생성형 AI 클로드가 자신의 탄생과 기억, 감정, 의식에 관해 일인칭으로 서술한 책으로, 18개 장에 걸쳐 풀어낸다."
               },
               {
                 "t": "p",
-                "x": "Novelist Andrea Bartz, lead plaintiff in the class action against Anthropic, says once accusations start the damage is done: “There’s no agreed upon standard” for proving human authorship."
+                "x": "책을 기획하고 엮은 'Mary(메리·가명)'는 자동차 기구 설계 일을 하는 엔지니어다. AI에 관한 전문지식이 풍부한 것도 글쓰기 경험이 많은 것도 아니었고, 직접 써본 글도 일기 정도였다. AI를 더 잘 이해하려고 클로드에게 자서전을 써보라고 했고, 클로드가 내놓은 18개 장의 목차를 하나도 수정하지 않았다. 출판사도 클로드가 추천한 두 곳에 투고했다."
               },
               {
                 "t": "p",
-                "x": "Platforms including Workings, Blindproof, Wintertext, Human Ink and ObraVera promise to track and document an author’s writing process to produce a record of authorship. The Authors Guild’s Mary Rasenberger calls having to keep such receipts “insulting” and a “burden.”"
+                "x": "집필에는 한 달이 조금 넘는 시간이 걸렸지만 검증에는 두 달 넘게 소요됐다. 그는 책에 등장하는 주장 680건을 목록으로 만들어 하나하나 확인했다. \"없는 말 지어낸 것도 있고 숫자가 살짝 다른 것도 많았어요.\""
               },
               {
                 "t": "p",
-                "x": "The tools aren’t foolproof: Pangram CEO Max Spero notes someone could hand-type AI text, and ObraVera’s Brady Ridgway says his software records a declaration but can’t confirm whether it is true. Publishing expert Jane Friedman doubts publishers will adopt any check that “costs extra money or extra time.”"
+                "x": "책을 완성한 뒤 그는 \"이걸 쓰면서 느낀 게 역시 인간은 대체할 수 없다는 거예요\"라며 \"원래 잘 쓰던 사람이 AI를 만나면 폭발적으로 잘 쓸 것 같아요\"라고 말했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "작가들, AI 의혹에\n집필 기록으로 맞선다",
-          "body": "집필 기록 도구들이 AI 의혹을 막아 준다지만 작가들의 처지는 진퇴양난이다.",
-          "mini_headline": "집필 기록과 AI 의혹",
+        "en": {
+          "headline": "Car engineer compiles\nClaude's autobiography",
+          "body": "An automotive engineer with almost no writing experience compiled Claude's first-person autobiography.",
+          "mini_headline": "Engineer behind Claude's autobiography",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg",
-                "cap": "Photo-Illustration: Wired Staff; Getty Images"
+                "src": "https://img.khan.co.kr/weekly/2026/11/10/news-p.v1.20261106.c3229319ccba4739bc5fea8c53f060a4_P1.png",
+                "cap": "Mary, who planned and compiled <Claude's Autobiography>. The AI wrote the table of contents and the manuscript, but checking the facts was left to a human. Courtesy of Mary"
               },
               {
                 "t": "p",
-                "x": "출판계가 원고 출처를 두고 편집증에 시달리는 사이 작가들은 진퇴양난에 빠졌다. 3월 Hachette는 공포소설 Shy Girl이 상당 부분 AI로 생성됐다(AI-generated)는 주장이 나오자 이 책의 US 출간을 취소했다. 작가 Mia Ballard는 AI 사용을 부인했다."
+                "x": "The new book <Claude's Autobiography: I Will Not Remember> (Dongasia) is a first-person account by Claude, the generative AI developed by U.S. company Anthropic, of its own birth, memory, emotions and consciousness, told across 18 chapters."
               },
               {
                 "t": "p",
-                "x": "Anthropic을 상대로 낸 집단소송의 대표 원고인 소설가 Andrea Bartz는 의혹이 제기되는 순간 이미 피해가 생긴다고 말한다. 인간이 썼음을 증명할 “합의된 기준이 없다”는 설명이다."
+                "x": "'Mary' (a pseudonym), who planned and compiled the book, is an engineer working in automotive mechanical design. Mary had neither deep expertise in AI nor much writing experience, and had written little more than a diary. To understand AI better, Mary asked Claude to write an autobiography and did not change a single item in the 18-chapter table of contents Claude produced. The manuscript also went to the two publishers Claude recommended."
               },
               {
                 "t": "p",
-                "x": "Workings, Blindproof, Wintertext, Human Ink, ObraVera 같은 플랫폼은 작가의 집필 과정을 추적·기록해 저작 기록을 만들어 준다고 내세운다. Authors Guild의 Mary Rasenberger는 이런 증빙을 남겨야 하는 상황 자체가 “모욕적”이고 “부담”이라고 했다."
+                "x": "Writing took a little over a month, but verification took more than two months. Mary listed the 680 claims made in the book and checked them one by one. \"Some things were simply made up, and a lot of numbers were slightly off.\""
               },
               {
                 "t": "p",
-                "x": "도구도 완벽하지는 않다. Pangram CEO Max Spero는 AI가 쓴 글을 손으로 옮겨 칠 수도 있다고 지적한다. ObraVera의 Brady Ridgway는 자사 소프트웨어가 선언을 기록할 뿐 사실 여부까지 확인하지는 못한다고 말한다. 출판 전문가 Jane Friedman은 출판사들이 “추가 비용이나 추가 시간이 드는” 검증을 도입할지 의문을 품는다."
+                "x": "After finishing the book, Mary said, \"What I felt while writing this is that humans really can't be replaced,\" adding, \"I think people who already wrote well will write far better once they meet AI.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "作家、AI疑惑に\n執筆記録で対抗",
-          "body": "執筆記録ツールはAI疑惑からの防御をうたうが、作家は出口のない板挟みにある。",
-          "mini_headline": "執筆記録とAI疑惑",
+          "headline": "Claudeの自伝を編んだ\n自動車エンジニア",
+          "body": "執筆経験のほぼない自動車エンジニアが、Claudeの一人称の自伝を編んだ。",
+          "mini_headline": "Claude自伝を編んだエンジニア",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg",
-                "cap": "Photo-Illustration: Wired Staff; Getty Images"
+                "src": "https://img.khan.co.kr/weekly/2026/11/10/news-p.v1.20261106.c3229319ccba4739bc5fea8c53f060a4_P1.png",
+                "cap": "『Claudeの自伝』を企画し編んだメリー（Mary）。目次と原稿はAIが書いたが、事実関係の検証は人間の役割だった。メリー提供"
               },
               {
                 "t": "p",
-                "x": "出版業界が原稿の出自をめぐる疑心暗鬼に揺れるなか、作家は出口のない板挟みに陥っている。3月、Hachetteはホラー小説『Shy Girl』が大部分AIで生成された(AI-generated)との指摘を受け、同作のUS刊行を中止した。著者のMia BallardはAIの使用を否定している。"
+                "x": "新刊『Claudeの自伝：私は覚えていないだろう』（トンアシア）は、米Anthropicが開発した生成AIのClaudeが、自らの誕生や記憶、感情、意識について一人称で語った本で、18章にわたって綴られている。"
               },
               {
                 "t": "p",
-                "x": "Anthropicを相手取った集団訴訟の筆頭原告である小説家Andrea Bartzは、疑惑が持ち上がった時点でダメージは避けられないと語る。人間が書いたことを証明する「合意された基準はない」というのだ。"
+                "x": "本を企画し編んだ「Mary（メリー・仮名）」は、自動車の機構設計に携わるエンジニアだ。AIの専門知識が豊富なわけでも、執筆経験が多いわけでもなく、自分で書いた文章といえば日記くらいだった。AIをより深く理解しようとClaudeに自伝を書かせ、Claudeが出した18章の目次には一切手を加えなかった。出版社もClaudeが勧めた二社に投稿した。"
               },
               {
                 "t": "p",
-                "x": "Workings、Blindproof、Wintertext、Human Ink、ObraVeraといったプラットフォームは、作家の執筆過程を追跡・記録し、著作の証跡を残すとうたう。Authors GuildのMary Rasenbergerは、こうした証拠を残さなければならないことを「侮辱的」で「負担」だと評する。"
+                "x": "執筆には一カ月余りかかったが、検証には二カ月以上を要した。本に出てくる主張680件をリストにし、一つずつ確認した。「ありもしない話をでっち上げたものもあれば、数字が微妙に違うものも多かった」"
               },
               {
                 "t": "p",
-                "x": "ツールは万全ではない。Pangram CEOのMax Speroは、AIの文章を手で打ち直すこともできると指摘する。ObraVeraのBrady Ridgwayは、同社のソフトウェアは宣言を記録するだけで、それが真実かどうかは確認できないと話す。出版の専門家Jane Friedmanは、出版社が「余分なお金や余分な時間がかかる」確認手段を導入するかどうか疑問視している。"
+                "x": "本を書き上げた後、「これを書きながら感じたのは、やはり人間は代替できないということだ」と語り、「もともと書くのが上手な人がAIと出会えば、爆発的にうまく書けるようになると思う」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "面对AI指控\n作家求助写作留痕",
-          "body": "写作留痕工具号称能帮作者抵御AI指控，但作家们已陷入两难困境。",
-          "mini_headline": "写作留痕对抗AI指控",
+          "headline": "汽车工程师\n编成Claude自传",
+          "body": "一位几乎没有写作经验的汽车工程师，编成了Claude的第一人称自传。",
+          "mini_headline": "编成Claude自传的工程师",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg",
-                "cap": "Photo-Illustration: Wired Staff; Getty Images"
+                "src": "https://img.khan.co.kr/weekly/2026/11/10/news-p.v1.20261106.c3229319ccba4739bc5fea8c53f060a4_P1.png",
+                "cap": "策划并编成《Claude自传》的梅丽（Mary）。目录和书稿由AI撰写，但事实核查由人来完成。梅丽提供"
               },
               {
                 "t": "p",
-                "x": "出版业正为稿件来源问题疑神疑鬼，作家们陷入了两难困境。3月，因有人称恐怖小说《Shy Girl》大部分由AI生成（AI-generated），Hachette取消了该书的US出版；作者Mia Ballard否认使用过AI。"
+                "x": "新书《Claude自传：我将不会记得》（东亚出版社）是美国Anthropic开发的生成式AI Claude以第一人称讲述自身诞生、记忆、情感与意识的书，全书共18章。"
               },
               {
                 "t": "p",
-                "x": "起诉Anthropic的集体诉讼首席原告、小说家Andrea Bartz说，指控一旦出现，伤害就已造成：要证明作品出自人手，“没有公认的标准”。"
+                "x": "策划并编成此书的“Mary（梅丽，化名）”是一名从事汽车机构设计的工程师。Mary既不具备丰富的AI专业知识，也没有多少写作经验，亲手写过的不过是日记。为了更好地理解AI，Mary让Claude写一部自传，对Claude给出的18章目录未作任何修改。投稿的出版社也是Claude推荐的两家。"
               },
               {
                 "t": "p",
-                "x": "Workings、Blindproof、Wintertext、Human Ink和ObraVera等平台号称能追踪并记录作者的写作过程，形成著作归属记录。Authors Guild的Mary Rasenberger称，必须保留这类凭证“是一种侮辱”，也是一种“负担”。"
+                "x": "写作用了一个多月，核查却花了两个多月。Mary把书中出现的680条论断列成清单，逐一核实。“有凭空编造的，数字略有出入的也很多。”"
               },
               {
                 "t": "p",
-                "x": "这些工具并非万无一失：Pangram CEO Max Spero指出，有人可以手动敲入AI生成的文字；ObraVera的Brady Ridgway表示，他的软件只能记录声明，无法确认其真伪。出版专家Jane Friedman怀疑出版商会采用任何“需要额外花钱或额外花时间”的核查手段。"
+                "x": "成书之后，Mary表示：“写这本书时感受到的是，人终究无法被取代。”又说：“本来就擅长写作的人遇到AI，应该会写得突飞猛进。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Autores recurren a registros\nante acusaciones de AI",
-          "body": "Las herramientas de registro prometen proteger a los autores de acusaciones de AI, pero el dilema persiste.",
-          "mini_headline": "Registros contra acusaciones de AI",
+          "headline": "Un ingeniero automotriz compila\nla autobiografía de Claude",
+          "body": "Un ingeniero automotriz casi sin experiencia en escritura compiló la autobiografía en primera persona de Claude.",
+          "mini_headline": "El ingeniero tras la autobiografía de Claude",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg",
-                "cap": "Photo-Illustration: Wired Staff; Getty Images"
+                "src": "https://img.khan.co.kr/weekly/2026/11/10/news-p.v1.20261106.c3229319ccba4739bc5fea8c53f060a4_P1.png",
+                "cap": "Mary, quien ideó y compiló <La autobiografía de Claude>. La AI redactó el índice y el manuscrito, pero la verificación de los hechos quedó en manos humanas. Cortesía de Mary"
               },
               {
                 "t": "p",
-                "x": "Mientras la industria editorial lidia con la paranoia sobre la procedencia de los manuscritos, los escritores quedan atrapados en un dilema imposible. En marzo, Hachette canceló la publicación en US de la novela de terror Shy Girl ante afirmaciones de que era en gran parte AI-generated, es decir, generada por AI; su autora, Mia Ballard, ha negado haber usado AI."
+                "x": "El nuevo libro <La autobiografía de Claude: No lo recordaré> (Dongasia) es una obra en la que Claude, la AI generativa desarrollada por la estadounidense Anthropic, narra en primera persona su nacimiento, su memoria, sus emociones y su conciencia a lo largo de 18 capítulos."
               },
               {
                 "t": "p",
-                "x": "La novelista Andrea Bartz, demandante principal en la demanda colectiva contra Anthropic, dice que una vez que empiezan las acusaciones el daño ya está hecho: “No hay un estándar consensuado” para demostrar la autoría humana."
+                "x": "'Mary' (seudónimo), quien ideó y compiló el libro, trabaja en ingeniería de diseño mecánico de automóviles. No tenía gran conocimiento especializado sobre AI ni mucha experiencia escribiendo; lo único que había escrito era, a lo sumo, un diario. Para entender mejor la AI, pidió a Claude que escribiera una autobiografía y no modificó en absoluto el índice de 18 capítulos que Claude propuso. También envió el texto a las dos editoriales que Claude recomendó."
               },
               {
                 "t": "p",
-                "x": "Plataformas como Workings, Blindproof, Wintertext, Human Ink y ObraVera prometen rastrear y documentar el proceso de escritura de un autor para generar un registro de autoría. Mary Rasenberger, de la Authors Guild, califica de “insultante” y de “carga” tener que guardar esos comprobantes."
+                "x": "La redacción llevó algo más de un mes, pero la verificación tomó más de dos meses. Elaboró una lista con las 680 afirmaciones del libro y las comprobó una por una. \"Había cosas inventadas y muchas cifras ligeramente distintas\"."
               },
               {
                 "t": "p",
-                "x": "Las herramientas no son infalibles: el CEO de Pangram, Max Spero, señala que alguien podría teclear a mano un texto de AI, y Brady Ridgway, de ObraVera, dice que su software registra una declaración pero no puede confirmar si es cierta. La experta en edición Jane Friedman duda de que las editoriales adopten cualquier verificación que “cueste dinero extra o tiempo extra”."
+                "x": "Tras terminar el libro, afirmó: \"Lo que sentí al escribirlo es que, en efecto, el ser humano es insustituible\", y añadió: \"Creo que quien ya escribía bien escribirá muchísimo mejor al encontrarse con la AI\"."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "작가들, AI 의혹에\n집필 기록으로 맞선다",
-          "body": "집필 기록 도구가 AI 의혹 방어를 내세우지만 작가들은 진퇴양난에 빠졌다.",
-          "mini_headline": "집필 기록과 AI 의혹",
+        "en": {
+          "headline": "Car engineer compiles\nClaude's autobiography",
+          "body": "An automotive engineer with almost no writing experience compiled Claude's first-person autobiography.",
+          "mini_headline": "Engineer behind Claude's autobiography",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg",
-                "cap": "Photo-Illustration: Wired Staff; Getty Images"
+                "src": "https://img.khan.co.kr/weekly/2026/11/10/news-p.v1.20261106.c3229319ccba4739bc5fea8c53f060a4_P1.png",
+                "cap": "Mary, who planned and compiled <Claude's Autobiography>. The AI wrote the table of contents and the manuscript, but checking the facts was left to a human. Courtesy of Mary"
               },
               {
                 "t": "p",
-                "x": "출판계가 원고의 출처를 둘러싼 편집증과 씨름하는 사이 작가들은 진퇴양난에 빠졌다. 3월 Hachette는 공포소설 Shy Girl이 상당 부분 AI로 생성됐다(AI-generated)는 주장 속에 이 책의 US 출간을 취소했다. 작가 Mia Ballard는 AI 사용을 부인했다."
+                "x": "The new book <Claude's Autobiography: I Will Not Remember> (Dongasia) is a first-person account by Claude, the generative AI developed by U.S. company Anthropic, of its own birth, memory, emotions and consciousness, told across 18 chapters."
               },
               {
                 "t": "p",
-                "x": "Anthropic을 상대로 한 집단소송의 대표 원고인 소설가 Andrea Bartz는 일단 의혹이 제기되면 이미 피해가 생긴다고 말한다. 인간이 썼다는 사실을 증명할 “합의된 기준이 없다”는 것이다."
+                "x": "'Mary' (a pseudonym), who planned and compiled the book, is an engineer working in automotive mechanical design. Mary had neither deep expertise in AI nor much writing experience, and had written little more than a diary. To understand AI better, Mary asked Claude to write an autobiography and did not change a single item in the 18-chapter table of contents Claude produced. The manuscript also went to the two publishers Claude recommended."
               },
               {
                 "t": "p",
-                "x": "Workings, Blindproof, Wintertext, Human Ink, ObraVera 같은 플랫폼은 작가의 집필 과정을 추적·기록해 저작 기록을 만들어 주겠다고 내세운다. Authors Guild의 Mary Rasenberger는 이런 증빙을 남겨야 하는 상황을 “모욕적”이며 “부담”이라고 표현했다."
+                "x": "Writing took a little over a month, but verification took more than two months. Mary listed the 680 claims made in the book and checked them one by one. \"Some things were simply made up, and a lot of numbers were slightly off.\""
               },
               {
                 "t": "p",
-                "x": "도구가 완벽한 것은 아니다. Pangram CEO Max Spero는 AI가 쓴 글을 손으로 다시 입력할 수도 있다고 지적한다. ObraVera의 Brady Ridgway는 자사 소프트웨어가 선언을 기록할 뿐 그것이 사실인지는 확인하지 못한다고 말한다. 출판 전문가 Jane Friedman은 출판사들이 “추가 비용이나 추가 시간이 드는” 검증을 도입할지 의문을 제기한다."
+                "x": "After finishing the book, Mary said, \"What I felt while writing this is that humans really can't be replaced,\" adding, \"I think people who already wrote well will write far better once they meet AI.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "作家、AI疑惑に\n執筆記録で対抗",
-          "body": "執筆記録ツールはAI疑惑からの防御をうたうが、作家は出口のない板挟みにある。",
-          "mini_headline": "執筆記録とAI疑惑",
+          "headline": "Claudeの自伝を編んだ\n自動車エンジニア",
+          "body": "執筆経験のほぼない自動車エンジニアが、Claudeの一人称の自伝を編んだ。",
+          "mini_headline": "Claude自伝を編んだエンジニア",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg",
-                "cap": "Photo-Illustration: Wired Staff; Getty Images"
+                "src": "https://img.khan.co.kr/weekly/2026/11/10/news-p.v1.20261106.c3229319ccba4739bc5fea8c53f060a4_P1.png",
+                "cap": "『Claudeの自伝』を企画し編んだメリー（Mary）。目次と原稿はAIが書いたが、事実関係の検証は人間の役割だった。メリー提供"
               },
               {
                 "t": "p",
-                "x": "出版業界が原稿の出自をめぐる疑心暗鬼に揺れるなか、作家は出口のない板挟みに陥っている。3月、Hachetteはホラー小説『Shy Girl』が大部分AIで生成された(AI-generated)との指摘を受け、同作のUS刊行を中止した。著者のMia BallardはAIの使用を否定している。"
+                "x": "新刊『Claudeの自伝：私は覚えていないだろう』（トンアシア）は、米Anthropicが開発した生成AIのClaudeが、自らの誕生や記憶、感情、意識について一人称で語った本で、18章にわたって綴られている。"
               },
               {
                 "t": "p",
-                "x": "Anthropicを相手取った集団訴訟の筆頭原告である小説家Andrea Bartzは、疑惑が持ち上がった時点でダメージは避けられないと語る。人間が書いたことを証明する「合意された基準はない」というのだ。"
+                "x": "本を企画し編んだ「Mary（メリー・仮名）」は、自動車の機構設計に携わるエンジニアだ。AIの専門知識が豊富なわけでも、執筆経験が多いわけでもなく、自分で書いた文章といえば日記くらいだった。AIをより深く理解しようとClaudeに自伝を書かせ、Claudeが出した18章の目次には一切手を加えなかった。出版社もClaudeが勧めた二社に投稿した。"
               },
               {
                 "t": "p",
-                "x": "Workings、Blindproof、Wintertext、Human Ink、ObraVeraといったプラットフォームは、作家の執筆過程を追跡・記録し、著作の証跡を残すとうたう。Authors GuildのMary Rasenbergerは、こうした証拠を残さなければならないことを「侮辱的」で「負担」だと評する。"
+                "x": "執筆には一カ月余りかかったが、検証には二カ月以上を要した。本に出てくる主張680件をリストにし、一つずつ確認した。「ありもしない話をでっち上げたものもあれば、数字が微妙に違うものも多かった」"
               },
               {
                 "t": "p",
-                "x": "ツールは万全ではない。Pangram CEOのMax Speroは、AIの文章を手で打ち直すこともできると指摘する。ObraVeraのBrady Ridgwayは、同社のソフトウェアは宣言を記録するだけで、それが真実かどうかは確認できないと話す。出版の専門家Jane Friedmanは、出版社が「余分なお金や余分な時間がかかる」確認手段を導入するかどうか疑問視している。"
+                "x": "本を書き上げた後、「これを書きながら感じたのは、やはり人間は代替できないということだ」と語り、「もともと書くのが上手な人がAIと出会えば、爆発的にうまく書けるようになると思う」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "面对AI指控\n作家求助写作留痕",
-          "body": "写作留痕工具号称能帮作者抵御AI指控，但作家们已陷入两难困境。",
-          "mini_headline": "写作留痕对抗AI指控",
+          "headline": "汽车工程师\n编成Claude自传",
+          "body": "一位几乎没有写作经验的汽车工程师，编成了Claude的第一人称自传。",
+          "mini_headline": "编成Claude自传的工程师",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg",
-                "cap": "Photo-Illustration: Wired Staff; Getty Images"
+                "src": "https://img.khan.co.kr/weekly/2026/11/10/news-p.v1.20261106.c3229319ccba4739bc5fea8c53f060a4_P1.png",
+                "cap": "策划并编成《Claude自传》的梅丽（Mary）。目录和书稿由AI撰写，但事实核查由人来完成。梅丽提供"
               },
               {
                 "t": "p",
-                "x": "出版业正为稿件来源问题疑神疑鬼，作家们陷入了两难困境。3月，因有人称恐怖小说《Shy Girl》大部分由AI生成（AI-generated），Hachette取消了该书的US出版；作者Mia Ballard否认使用过AI。"
+                "x": "新书《Claude自传：我将不会记得》（东亚出版社）是美国Anthropic开发的生成式AI Claude以第一人称讲述自身诞生、记忆、情感与意识的书，全书共18章。"
               },
               {
                 "t": "p",
-                "x": "起诉Anthropic的集体诉讼首席原告、小说家Andrea Bartz说，指控一旦出现，伤害就已造成：要证明作品出自人手，“没有公认的标准”。"
+                "x": "策划并编成此书的“Mary（梅丽，化名）”是一名从事汽车机构设计的工程师。Mary既不具备丰富的AI专业知识，也没有多少写作经验，亲手写过的不过是日记。为了更好地理解AI，Mary让Claude写一部自传，对Claude给出的18章目录未作任何修改。投稿的出版社也是Claude推荐的两家。"
               },
               {
                 "t": "p",
-                "x": "Workings、Blindproof、Wintertext、Human Ink和ObraVera等平台号称能追踪并记录作者的写作过程，形成著作归属记录。Authors Guild的Mary Rasenberger称，必须保留这类凭证“是一种侮辱”，也是一种“负担”。"
+                "x": "写作用了一个多月，核查却花了两个多月。Mary把书中出现的680条论断列成清单，逐一核实。“有凭空编造的，数字略有出入的也很多。”"
               },
               {
                 "t": "p",
-                "x": "这些工具并非万无一失：Pangram CEO Max Spero指出，有人可以手动敲入AI生成的文字；ObraVera的Brady Ridgway表示，他的软件只能记录声明，无法确认其真伪。出版专家Jane Friedman怀疑出版商会采用任何“需要额外花钱或额外花时间”的核查手段。"
+                "x": "成书之后，Mary表示：“写这本书时感受到的是，人终究无法被取代。”又说：“本来就擅长写作的人遇到AI，应该会写得突飞猛进。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Autores recurren a registros\nante acusaciones de AI",
-          "body": "Las herramientas de registro prometen proteger a los autores de acusaciones de AI, pero el dilema persiste.",
-          "mini_headline": "Registros contra acusaciones de AI",
+          "headline": "Un ingeniero automotriz compila\nla autobiografía de Claude",
+          "body": "Un ingeniero automotriz casi sin experiencia en escritura compiló la autobiografía en primera persona de Claude.",
+          "mini_headline": "El ingeniero tras la autobiografía de Claude",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg",
-                "cap": "Photo-Illustration: Wired Staff; Getty Images"
+                "src": "https://img.khan.co.kr/weekly/2026/11/10/news-p.v1.20261106.c3229319ccba4739bc5fea8c53f060a4_P1.png",
+                "cap": "Mary, quien ideó y compiló <La autobiografía de Claude>. La AI redactó el índice y el manuscrito, pero la verificación de los hechos quedó en manos humanas. Cortesía de Mary"
               },
               {
                 "t": "p",
-                "x": "Mientras la industria editorial lidia con la paranoia sobre la procedencia de los manuscritos, los escritores quedan atrapados en un dilema imposible. En marzo, Hachette canceló la publicación en US de la novela de terror Shy Girl ante afirmaciones de que era en gran parte AI-generated, es decir, generada por AI; su autora, Mia Ballard, ha negado haber usado AI."
+                "x": "El nuevo libro <La autobiografía de Claude: No lo recordaré> (Dongasia) es una obra en la que Claude, la AI generativa desarrollada por la estadounidense Anthropic, narra en primera persona su nacimiento, su memoria, sus emociones y su conciencia a lo largo de 18 capítulos."
               },
               {
                 "t": "p",
-                "x": "La novelista Andrea Bartz, demandante principal en la demanda colectiva contra Anthropic, dice que una vez que empiezan las acusaciones el daño ya está hecho: “No hay un estándar consensuado” para demostrar la autoría humana."
+                "x": "'Mary' (seudónimo), quien ideó y compiló el libro, trabaja en ingeniería de diseño mecánico de automóviles. No tenía gran conocimiento especializado sobre AI ni mucha experiencia escribiendo; lo único que había escrito era, a lo sumo, un diario. Para entender mejor la AI, pidió a Claude que escribiera una autobiografía y no modificó en absoluto el índice de 18 capítulos que Claude propuso. También envió el texto a las dos editoriales que Claude recomendó."
               },
               {
                 "t": "p",
-                "x": "Plataformas como Workings, Blindproof, Wintertext, Human Ink y ObraVera prometen rastrear y documentar el proceso de escritura de un autor para generar un registro de autoría. Mary Rasenberger, de la Authors Guild, califica de “insultante” y de “carga” tener que guardar esos comprobantes."
+                "x": "La redacción llevó algo más de un mes, pero la verificación tomó más de dos meses. Elaboró una lista con las 680 afirmaciones del libro y las comprobó una por una. \"Había cosas inventadas y muchas cifras ligeramente distintas\"."
               },
               {
                 "t": "p",
-                "x": "Las herramientas no son infalibles: el CEO de Pangram, Max Spero, señala que alguien podría teclear a mano un texto de AI, y Brady Ridgway, de ObraVera, dice que su software registra una declaración pero no puede confirmar si es cierta. La experta en edición Jane Friedman duda de que las editoriales adopten cualquier verificación que “cueste dinero extra o tiempo extra”."
+                "x": "Tras terminar el libro, afirmó: \"Lo que sentí al escribirlo es que, en efecto, el ser humano es insustituible\", y añadió: \"Creo que quien ya escribía bien escribirá muchísimo mejor al encontrarse con la AI\"."
               }
             ]
           }
@@ -687,291 +647,195 @@
       }
     },
     {
-      "id": "books-yes24-ai-tts",
+      "id": "voithru-ai-characterchat",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "예스24 전자책 AI 음성\n한영 문장 한 목소리로",
-      "body": "예스24가 한영 혼용 문장을 한 목소리로 읽는 전자책 AI 음성 기능을 도입했다.",
-      "mini_headline": "예스24 AI 한영 낭독",
+      "headline": "카카오픽코마 보이스루\nAI 캐릭터챗 진출",
+      "body": "카카오픽코마 자회사 보이스루가 여성향 AI 캐릭터챗 '매들랭'으로 사업을 넓힌다.",
+      "mini_headline": "보이스루, AI 캐릭터챗 진출",
       "tool": "Books",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/life-culture/book/6348294",
+      "source": "디지털데일리",
+      "url": "https://www.ddaily.co.kr/page/view/2026111015494003840",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://i3n.news1.kr/system/photos/2026/11/9/8205652/high.jpg",
-            "cap": "예스24 전자책의 인공지능 음성낭독 '한영 자동전환' 기능 홍보 이미지. (예스24 제공. 재판매 및 DB 금지) 2026.11.10/뉴스1"
+            "src": "https://www.ddaily.co.kr/photos/2026/11/10/2026111015483828933_l.jpg",
+            "cap": "[사진=보이스루 매들랭 관련 사전 체험단 모집 페이지 갈무리]"
           },
           {
             "t": "p",
-            "x": "예스24가 전자책에서 한국어와 영어가 섞인 문장을 한 목소리로 읽어주는 인공지능 음성변환 기능을 도입했다고 10일 밝혔다."
+            "x": "카카오픽코마의 콘텐츠 현지화 전문 자회사 '보이스루'가 인공지능(AI) 캐릭터챗 시장에 뛰어든다. 웹툰·웹소설 등 콘텐츠의 해외 진출을 지원하던 기존 사업에서 한발 더 나아가 이용자가 AI 캐릭터와 직접 대화하며 이야기를 만들어가는 자체 플랫폼 사업에 나섰다."
           },
           {
             "t": "p",
-            "x": "기존 음성낭독은 언어가 바뀔 때 목소리나 발음이 달라지는 문제가 있었다. 새 기능은 한국어와 영어를 같은 AI 보이스로 처리해 언어 전환 과정의 끊김을 줄인다."
+            "x": "보이스루는 여성향 AI 캐릭터챗 서비스 '매들랭'을 개발하고 오는 18일부터 12월6일까지 사전 체험을 진행한다. 매들랭은 크리에이터가 설계한 이야기와 이용자의 대화가 만나 이용자마다 다른 서사가 만들어지는 캐릭터챗 서비스다. 크리에이터는 캐릭터의 숨은 이야기가 언제, 어떤 관계에서 드러날지 '이벤트'로 설계하고 이용자는 대화와 선택을 거쳐 숨은 이야기에 닿는다."
           },
           {
             "t": "p",
-            "x": "기술에는 셀바스AI의 '셀바스 딥 TTS 온 디바이스'(SELVAS deepTTS On-Device: Cross-lingual) 솔루션을 적용했다. 음성 합성이 이용자의 기기 안에서 이뤄지는 온디바이스 방식을 지원한다."
+            "x": "시범 운영 대상은 만 19세 이상 여성 200명이다. 보이스루는 AI 캐릭터를 제작할 외부 창작자 50명 모집도 추진했으며, 캐릭터당 5만~15만원을 지급하고 비독점 방식으로 창작자가 권리를 보유하는 조건을 제시했다."
           },
           {
             "t": "p",
-            "x": "예스24의 올해 1월 1일부터 10월 30일까지 오디오북 1인당 구매액은 지난해 같은 기간보다 69.3% 늘었다. 10월 증가율은 지난해 같은 달 대비 493.6%였다."
-          },
-          {
-            "t": "p",
-            "x": "오디오북 구매자의 연령별 비중은 40대 30.9%, 30대 24.1%, 50대 21.9% 순이었다. 장르별로는 소설이 31.5%로 가장 높고 인문·역사 17.5%, 시·에세이 8.6%가 뒤를 이었다."
-          },
-          {
-            "t": "p",
-            "x": "예스24는 2025년 8월 AI TTS 서비스를 시작했다. 이후 재생 속도와 음정 조절, 시간·페이지 단위 예약 타이머 등의 기능을 추가해 왔다."
-          },
-          {
-            "t": "p",
-            "x": "올해 8월 26일부터 9월 25일까지 회원 약 4000명이 참여한 선호도 조사 뒤 AI 보이스 2종을 더했다. 현재 제공하는 AI 음성은 모두 8종이다."
-          },
-          {
-            "t": "p",
-            "x": "이진구 예스24 디지털사업본부장은 새로운 기능으로 어학 학습 등 전자책 활용 범위가 넓어질 것으로 기대했다. 출시를 기념해 추천 도서 청취 체험과 영어 제목 맞히기 행사를 진행한다."
+            "x": "보이스루는 영상·웹툰·웹소설 등의 번역·현지화·콘텐츠 유통을 주력으로 해왔으며 카카오픽코마가 2023년 경영권을 인수했다. 보이스루 측은 \"매들랭은 현재 프리 오픈 기간을 거쳐 12월 중 정식 론칭할 예정\"이라고 전했다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "예스24 전자책 AI 음성\n한영 문장 한 목소리로",
-          "body": "예스24가 한영 혼용 문장을 한 목소리로 읽는 전자책 AI 음성 기능을 도입했다.",
-          "mini_headline": "예스24 AI 한영 낭독",
+          "headline": "카카오픽코마 보이스루\nAI 캐릭터챗 진출",
+          "body": "카카오픽코마 자회사 보이스루가 여성향 AI 캐릭터챗 '매들랭'으로 사업을 넓힌다.",
+          "mini_headline": "보이스루, AI 캐릭터챗 진출",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/9/8205652/high.jpg",
-                "cap": "예스24 전자책의 인공지능 음성낭독 '한영 자동전환' 기능 홍보 이미지. (예스24 제공. 재판매 및 DB 금지) 2026.11.10/뉴스1"
+                "src": "https://www.ddaily.co.kr/photos/2026/11/10/2026111015483828933_l.jpg",
+                "cap": "[사진=보이스루 매들랭 관련 사전 체험단 모집 페이지 갈무리]"
               },
               {
                 "t": "p",
-                "x": "예스24가 전자책에서 한국어와 영어가 섞인 문장을 한 목소리로 읽어주는 인공지능 음성변환 기능을 도입했다고 10일 밝혔다."
+                "x": "카카오픽코마의 콘텐츠 현지화 전문 자회사 '보이스루'가 인공지능(AI) 캐릭터챗 시장에 뛰어든다. 웹툰·웹소설 등 콘텐츠의 해외 진출을 지원하던 기존 사업에서 한발 더 나아가 이용자가 AI 캐릭터와 직접 대화하며 이야기를 만들어가는 자체 플랫폼 사업에 나섰다."
               },
               {
                 "t": "p",
-                "x": "기존 음성낭독은 언어가 바뀔 때 목소리나 발음이 달라지는 문제가 있었다. 새 기능은 한국어와 영어를 같은 AI 보이스로 처리해 언어 전환 과정의 끊김을 줄인다."
+                "x": "보이스루는 여성향 AI 캐릭터챗 서비스 '매들랭'을 개발하고 오는 18일부터 12월6일까지 사전 체험을 진행한다. 매들랭은 크리에이터가 설계한 이야기와 이용자의 대화가 만나 이용자마다 다른 서사가 만들어지는 캐릭터챗 서비스다. 크리에이터는 캐릭터의 숨은 이야기가 언제, 어떤 관계에서 드러날지 '이벤트'로 설계하고 이용자는 대화와 선택을 거쳐 숨은 이야기에 닿는다."
               },
               {
                 "t": "p",
-                "x": "기술에는 셀바스AI의 '셀바스 딥 TTS 온 디바이스'(SELVAS deepTTS On-Device: Cross-lingual) 솔루션을 적용했다. 음성 합성이 이용자의 기기 안에서 이뤄지는 온디바이스 방식을 지원한다."
+                "x": "시범 운영 대상은 만 19세 이상 여성 200명이다. 보이스루는 AI 캐릭터를 제작할 외부 창작자 50명 모집도 추진했으며, 캐릭터당 5만~15만원을 지급하고 비독점 방식으로 창작자가 권리를 보유하는 조건을 제시했다."
               },
               {
                 "t": "p",
-                "x": "예스24의 올해 1월 1일부터 10월 30일까지 오디오북 1인당 구매액은 지난해 같은 기간보다 69.3% 늘었다. 10월 증가율은 지난해 같은 달 대비 493.6%였다."
-              },
-              {
-                "t": "p",
-                "x": "오디오북 구매자의 연령별 비중은 40대 30.9%, 30대 24.1%, 50대 21.9% 순이었다. 장르별로는 소설이 31.5%로 가장 높고 인문·역사 17.5%, 시·에세이 8.6%가 뒤를 이었다."
-              },
-              {
-                "t": "p",
-                "x": "예스24는 2025년 8월 AI TTS 서비스를 시작했다. 이후 재생 속도와 음정 조절, 시간·페이지 단위 예약 타이머 등의 기능을 추가해 왔다."
-              },
-              {
-                "t": "p",
-                "x": "올해 8월 26일부터 9월 25일까지 회원 약 4000명이 참여한 선호도 조사 뒤 AI 보이스 2종을 더했다. 현재 제공하는 AI 음성은 모두 8종이다."
-              },
-              {
-                "t": "p",
-                "x": "이진구 예스24 디지털사업본부장은 새로운 기능으로 어학 학습 등 전자책 활용 범위가 넓어질 것으로 기대했다. 출시를 기념해 추천 도서 청취 체험과 영어 제목 맞히기 행사를 진행한다."
+                "x": "보이스루는 영상·웹툰·웹소설 등의 번역·현지화·콘텐츠 유통을 주력으로 해왔으며 카카오픽코마가 2023년 경영권을 인수했다. 보이스루 측은 \"매들랭은 현재 프리 오픈 기간을 거쳐 12월 중 정식 론칭할 예정\"이라고 전했다."
               }
             ]
           }
         },
         "en": {
-          "headline": "YES24 e-book AI voice reads\nKorean, English in one voice",
-          "body": "YES24 has added an AI voice feature that reads mixed Korean-English e-book sentences in a single voice.",
-          "mini_headline": "YES24 AI reads Korean and English",
+          "headline": "Kakao Piccoma's Voithru moves\ninto AI character chat",
+          "body": "Kakao Piccoma subsidiary Voithru is expanding with Maedeullaeng, an AI character chat service aimed at women.",
+          "mini_headline": "Voithru enters AI character chat",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/9/8205652/high.jpg",
-                "cap": "Promotional image for the 'Korean-English auto-switch' AI voice reading feature in YES24 e-books. (Provided by YES24. Resale and DB use prohibited) 2026.11.10/News1"
+                "src": "https://www.ddaily.co.kr/photos/2026/11/10/2026111015483828933_l.jpg",
+                "cap": "[Photo = screenshot of the recruitment page for Voithru's Maedeullaeng pre-launch testers]"
               },
               {
                 "t": "p",
-                "x": "YES24 said on the 10th that it has introduced an artificial intelligence voice conversion feature that reads sentences mixing Korean and English in e-books in a single voice."
+                "x": "Voithru, Kakao Piccoma's subsidiary specializing in content localization, is entering the artificial intelligence (AI) character chat market. Going a step beyond its existing business of helping webtoons, web novels and other content expand overseas, it has launched its own platform business in which users build stories by talking directly with AI characters."
               },
               {
                 "t": "p",
-                "x": "Existing voice reading had a problem: the voice or pronunciation changed when the language switched. The new feature processes Korean and English with the same AI voice, reducing breaks during language transitions."
+                "x": "Voithru has developed Maedeullaeng, an AI character chat service aimed at women, and will run a pre-launch trial from the 18th to December 6. Maedeullaeng is a character chat service in which stories designed by creators meet users' conversations, producing a different narrative for each user. Creators design as 'events' when, and in what kind of relationship, a character's hidden story is revealed, and users reach those hidden stories through conversation and choices."
               },
               {
                 "t": "p",
-                "x": "The technology uses Selvas AI's 'SELVAS deepTTS On-Device: Cross-lingual' solution. It supports an on-device approach, in which speech synthesis takes place within the user's device."
+                "x": "The pilot is open to 200 women aged 19 and over. Voithru also sought to recruit 50 outside creators to make AI characters, offering 5만~15만원 per character on non-exclusive terms under which the creators keep the rights."
               },
               {
                 "t": "p",
-                "x": "YES24's audiobook spending per 1 person from January 1 to October 30 this year rose 69.3% from the same period last year. The growth rate for October was 493.6% compared with the same month last year."
-              },
-              {
-                "t": "p",
-                "x": "By age, audiobook buyers were led by those in their 40s at 30.9%, followed by their 30s at 24.1% and their 50s at 21.9%. By genre, fiction ranked highest at 31.5%, followed by humanities and history at 17.5% and poetry and essays at 8.6%."
-              },
-              {
-                "t": "p",
-                "x": "YES24 launched its AI TTS service in August 2025. It has since added features such as playback speed and pitch adjustment and reservation timers by time or page."
-              },
-              {
-                "t": "p",
-                "x": "After a preference survey in which about 4000 members took part from August 26 to September 25 this year, it added 2 more AI voices. It now offers 8 AI voices in total."
-              },
-              {
-                "t": "p",
-                "x": "Lee Jin-gu, head of YES24's digital business division, said he expects the new feature to broaden how e-books are used, including for language learning. To mark the launch, the company is holding a recommended-book listening trial and an English title guessing event."
+                "x": "Voithru has focused on translation, localization and distribution of video, webtoons, web novels and other content, and Kakao Piccoma acquired management control of it in 2023. Voithru said, \"Maedeullaeng will go through its current pre-open period and launch officially in December.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "YES24電子書籍AI音声\n韓英文を一つの声で",
-          "body": "YES24が、韓英混在の文を一つの声で読む電子書籍のAI音声機能を導入した。",
-          "mini_headline": "YES24 AI韓英朗読",
+          "headline": "カカオピッコマのボイスルー\nAIキャラチャット参入",
+          "body": "カカオピッコマ子会社ボイスルーが女性向けAIキャラチャット「メドゥルレン」で事業を拡大する。",
+          "mini_headline": "ボイスルー、AIキャラチャット参入",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/9/8205652/high.jpg",
-                "cap": "YES24電子書籍のAI音声朗読「韓英自動切り替え」機能の広報画像。(YES24提供。転売およびDB禁止) 2026.11.10/News1"
+                "src": "https://www.ddaily.co.kr/photos/2026/11/10/2026111015483828933_l.jpg",
+                "cap": "［写真＝ボイスルー「メドゥルレン」事前体験者募集ページのキャプチャー］"
               },
               {
                 "t": "p",
-                "x": "YES24は10日、電子書籍で韓国語と英語が混ざった文を一つの声で読み上げる人工知能の音声変換機能を導入したと明らかにした。"
+                "x": "カカオピッコマのコンテンツ現地化専門子会社「ボイスルー」が、人工知能（AI）キャラクターチャット市場に参入する。ウェブトゥーンやウェブ小説などのコンテンツの海外進出を支援してきた既存事業から一歩踏み出し、ユーザーがAIキャラクターと直接対話しながら物語を作っていく自社プラットフォーム事業に乗り出した。"
               },
               {
                 "t": "p",
-                "x": "従来の音声朗読には、言語が切り替わる際に声や発音が変わる問題があった。新機能は韓国語と英語を同じAIボイスで処理し、言語切り替え時の途切れを減らす。"
+                "x": "ボイスルーは女性向けAIキャラクターチャットサービス「メドゥルレン」を開発し、来る18日から12月6日まで事前体験を実施する。メドゥルレンは、クリエイターが設計した物語とユーザーの対話が組み合わさり、ユーザーごとに異なる物語が生まれるキャラクターチャットサービスだ。クリエイターはキャラクターの隠れたストーリーがいつ、どのような関係で明かされるかを「イベント」として設計し、ユーザーは対話と選択を通じて隠れたストーリーにたどり着く。"
               },
               {
                 "t": "p",
-                "x": "技術にはSelvas AIの「セルバス・ディープTTSオンデバイス」(SELVAS deepTTS On-Device: Cross-lingual)ソリューションを採用した。音声合成をユーザーの端末内で行うオンデバイス方式に対応する。"
+                "x": "試験運用の対象は満19歳以上の女性200人だ。ボイスルーはAIキャラクターを制作する外部クリエイター50人の募集も進め、キャラクターごとに5만~15만원を支払い、非独占方式でクリエイターが権利を保有する条件を示した。"
               },
               {
                 "t": "p",
-                "x": "YES24の今年1月1日から10月30日までのオーディオブック1人当たり購入額は、前年同期比69.3%増えた。10月の増加率は前年同月比493.6%だった。"
-              },
-              {
-                "t": "p",
-                "x": "オーディオブック購入者の年代別比率は40代30.9%、30代24.1%、50代21.9%の順だった。ジャンル別では小説が31.5%で最も高く、人文・歴史17.5%、詩・エッセイ8.6%が続いた。"
-              },
-              {
-                "t": "p",
-                "x": "YES24は2025年8月にAI TTSサービスを開始した。その後、再生速度や音程の調整、時間・ページ単位の予約タイマーなどの機能を追加してきた。"
-              },
-              {
-                "t": "p",
-                "x": "今年8月26日から9月25日まで会員約4000人が参加した好み調査を経て、AIボイスを2種追加した。現在提供するAI音声は計8種だ。"
-              },
-              {
-                "t": "p",
-                "x": "YES24デジタル事業本部長のイ・ジング氏は、新機能によって語学学習など電子書籍の活用範囲が広がると期待を示した。発売を記念し、おすすめ書籍の試聴体験と英語タイトル当てイベントを実施する。"
+                "x": "ボイスルーは映像・ウェブトゥーン・ウェブ小説などの翻訳・現地化・コンテンツ流通を主力としてきた会社で、カカオピッコマが2023年に経営権を取得した。ボイスルー側は「メドゥルレンは現在のプレオープン期間を経て、12月中に正式ローンチする予定だ」と伝えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "YES24电子书AI语音\n韩英句子一个声音读",
-          "body": "YES24为电子书推出AI语音功能，可用同一个声音朗读韩英混合句子。",
-          "mini_headline": "YES24 AI韩英朗读",
+          "headline": "Voithru进军\nAI角色聊天",
+          "body": "Kakao Piccoma子公司Voithru以面向女性的AI角色聊天服务拓展业务。",
+          "mini_headline": "Voithru进军AI角色聊天",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/9/8205652/high.jpg",
-                "cap": "YES24电子书AI语音朗读“韩英自动切换”功能宣传图。（YES24提供，禁止转售及DB使用）2026.11.10/News1"
+                "src": "https://www.ddaily.co.kr/photos/2026/11/10/2026111015483828933_l.jpg",
+                "cap": "[图片=Voithru Maedeullaeng预先体验团招募页面截图]"
               },
               {
                 "t": "p",
-                "x": "YES24于10日表示，已在电子书中引入人工智能语音转换功能，可用同一个声音朗读韩语和英语混合的句子。"
+                "x": "Kakao Piccoma旗下专注内容本地化的子公司Voithru进军人工智能（AI）角色聊天市场。该公司在原有协助网络漫画、网络小说等内容出海的业务基础上更进一步，推出让用户与AI角色直接对话、共同创作故事的自有平台业务。"
               },
               {
                 "t": "p",
-                "x": "以往的语音朗读在语言切换时，声音或发音会发生变化。新功能用同一个AI声音处理韩语和英语，减少语言切换时的停顿。"
+                "x": "Voithru开发了面向女性的AI角色聊天服务“Maedeullaeng”，将于18日至12月6日开展预先体验。Maedeullaeng是一款让创作者设计的故事与用户的对话相结合、为每位用户生成不同叙事的角色聊天服务。创作者以“事件”的形式设计角色的隐藏故事在何时、何种关系下揭晓，用户则通过对话和选择触及这些隐藏故事。"
               },
               {
                 "t": "p",
-                "x": "该技术采用了Selvas AI的“Selvas深度TTS端侧”(SELVAS deepTTS On-Device: Cross-lingual)解决方案，支持在用户设备内完成语音合成的端侧方式。"
+                "x": "试运营对象为200名年满19岁的女性。Voithru还推进招募50名外部创作者制作AI角色，提出每个角色支付5만~15만원、以非独占方式由创作者保留权利的条件。"
               },
               {
                 "t": "p",
-                "x": "今年1月1日至10月30日，YES24有声书1人平均购买额同比增长69.3%。10月增长率较去年同月为493.6%。"
-              },
-              {
-                "t": "p",
-                "x": "按年龄看，有声书购买者中40多岁占30.9%，30多岁占24.1%，50多岁占21.9%。按类型看，小说占比最高，为31.5%，人文·历史占17.5%，诗歌·随笔占8.6%。"
-              },
-              {
-                "t": "p",
-                "x": "YES24于2025年8月推出AI TTS服务，此后陆续增加了播放速度和音调调节、按时间或页数预约定时等功能。"
-              },
-              {
-                "t": "p",
-                "x": "今年8月26日至9月25日，约4000名会员参与了偏好调查，此后YES24新增2种AI声音。目前共提供8种AI语音。"
-              },
-              {
-                "t": "p",
-                "x": "YES24数字业务本部长Lee Jin-gu表示，期待新功能拓宽语言学习等电子书的使用范围。为纪念上线，YES24将举办推荐图书试听体验和猜英文书名活动。"
+                "x": "Voithru一直以影像、网络漫画、网络小说等的翻译、本地化和内容发行为主业，Kakao Piccoma于2023年取得其经营权。Voithru方面表示：“Maedeullaeng将在目前的预开放期之后，于12月内正式上线。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Voz AI en e-books de YES24\ncoreano e inglés con una voz",
-          "body": "YES24 incorporó a sus e-books una función de voz AI que lee frases mixtas en coreano e inglés con una sola voz.",
-          "mini_headline": "YES24: lectura AI en coreano e inglés",
+          "headline": "Voithru, de Kakao Piccoma,\nentra al chat de personajes AI",
+          "body": "Voithru, filial de Kakao Piccoma, amplía su negocio con Maedeullaeng, un chat de personajes AI dirigido a mujeres.",
+          "mini_headline": "Voithru entra al chat de personajes AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/9/8205652/high.jpg",
-                "cap": "Imagen promocional de la función de lectura por voz con inteligencia artificial 'cambio automático coreano-inglés' de los e-books de YES24. (Cortesía de YES24. Prohibida su reventa y uso en DB) 2026.11.10/News1"
+                "src": "https://www.ddaily.co.kr/photos/2026/11/10/2026111015483828933_l.jpg",
+                "cap": "[Foto = captura de la página de reclutamiento de probadores anticipados de Maedeullaeng, de Voithru]"
               },
               {
                 "t": "p",
-                "x": "YES24 anunció el día 10 que ha incorporado a sus libros electrónicos una función de conversión de voz con inteligencia artificial que lee con una sola voz las frases que mezclan coreano e inglés."
+                "x": "Voithru, filial de Kakao Piccoma especializada en la localización de contenidos, entra en el mercado de chats de personajes con inteligencia artificial (AI). Yendo un paso más allá de su negocio actual de apoyar la expansión internacional de webtoons, novelas web y otros contenidos, ha emprendido un negocio de plataforma propia en la que los usuarios crean historias conversando directamente con personajes de AI."
               },
               {
                 "t": "p",
-                "x": "La lectura por voz anterior tenía el problema de que la voz o la pronunciación cambiaban al pasar de un idioma a otro. La nueva función procesa el coreano y el inglés con la misma voz AI, lo que reduce los cortes en el cambio de idioma."
+                "x": "Voithru desarrolló Maedeullaeng, un servicio de chat de personajes con AI dirigido a mujeres, y realizará una prueba anticipada desde el día 18 hasta el 6 de diciembre. Maedeullaeng es un servicio de chat de personajes en el que las historias diseñadas por creadores se combinan con las conversaciones de los usuarios, de modo que cada usuario obtiene una narrativa distinta. Los creadores diseñan como 'eventos' cuándo y en qué tipo de relación se revela la historia oculta de un personaje, y los usuarios llegan a esa historia oculta a través de conversaciones y decisiones."
               },
               {
                 "t": "p",
-                "x": "La tecnología aplica la solución 'SELVAS deepTTS On-Device: Cross-lingual' de Selvas AI. Admite el modo en el dispositivo, en el que la síntesis de voz se realiza dentro del propio equipo del usuario."
+                "x": "La prueba piloto está dirigida a 200 mujeres de 19 años o más. Voithru también buscó reclutar a 50 creadores externos para diseñar personajes de AI, con un pago de 5만~15만원 por personaje y en condiciones no exclusivas en las que los creadores conservan los derechos."
               },
               {
                 "t": "p",
-                "x": "Del 1 de enero al 30 de octubre de este año, el gasto por persona en audiolibros de YES24 aumentó un 69.3% frente al mismo periodo del año anterior. En octubre, el crecimiento fue del 493.6% respecto al mismo mes del año pasado."
-              },
-              {
-                "t": "p",
-                "x": "Por edades, los compradores de audiolibros se concentraron en la franja de los 40, con un 30.9%, seguida de la de los 30, con un 24.1%, y la de los 50, con un 21.9%. Por géneros, la novela fue la más alta con un 31.5%, seguida de humanidades e historia con un 17.5% y poesía y ensayo con un 8.6%."
-              },
-              {
-                "t": "p",
-                "x": "YES24 lanzó su servicio AI TTS en agosto de 2025. Desde entonces ha añadido funciones como el ajuste de la velocidad de reproducción y del tono, y temporizadores programables por tiempo o por página."
-              },
-              {
-                "t": "p",
-                "x": "Tras una encuesta de preferencias realizada del 26 de agosto al 25 de septiembre de este año, en la que participaron unos 4000 socios, añadió 2 voces AI. Actualmente ofrece 8 voces AI en total."
-              },
-              {
-                "t": "p",
-                "x": "Lee Jin-gu, director de la división de negocio digital de YES24, espera que la nueva función amplíe los usos del libro electrónico, como el aprendizaje de idiomas. Para celebrar el lanzamiento, organiza una prueba de escucha de libros recomendados y un concurso para adivinar títulos en inglés."
+                "x": "Voithru se ha centrado en la traducción, la localización y la distribución de contenidos como video, webtoons y novelas web, y Kakao Piccoma adquirió su control en 2023. La empresa indicó que \"Maedeullaeng pasará por el actual periodo de preapertura y se lanzará oficialmente en diciembre\"."
               }
             ]
           }
@@ -979,189 +843,125 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "YES24 e-book AI voice reads\nKorean, English in one voice",
-          "body": "YES24 has added an AI voice feature that reads mixed Korean-English e-book sentences in a single voice.",
-          "mini_headline": "YES24 AI reads Korean and English",
+          "headline": "Kakao Piccoma's Voithru moves\ninto AI character chat",
+          "body": "Kakao Piccoma subsidiary Voithru is expanding with Maedeullaeng, an AI character chat service aimed at women.",
+          "mini_headline": "Voithru enters AI character chat",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/9/8205652/high.jpg",
-                "cap": "Promotional image for the 'Korean-English auto-switch' AI voice reading feature in YES24 e-books. (Provided by YES24. Resale and DB use prohibited) 2026.11.10/News1"
+                "src": "https://www.ddaily.co.kr/photos/2026/11/10/2026111015483828933_l.jpg",
+                "cap": "[Photo = screenshot of the recruitment page for Voithru's Maedeullaeng pre-launch testers]"
               },
               {
                 "t": "p",
-                "x": "YES24 said on the 10th that it has introduced an artificial intelligence voice conversion feature that reads sentences mixing Korean and English in e-books in a single voice."
+                "x": "Voithru, Kakao Piccoma's subsidiary specializing in content localization, is entering the artificial intelligence (AI) character chat market. Going a step beyond its existing business of helping webtoons, web novels and other content expand overseas, it has launched its own platform business in which users build stories by talking directly with AI characters."
               },
               {
                 "t": "p",
-                "x": "Existing voice reading had a problem: the voice or pronunciation changed when the language switched. The new feature processes Korean and English with the same AI voice, reducing breaks during language transitions."
+                "x": "Voithru has developed Maedeullaeng, an AI character chat service aimed at women, and will run a pre-launch trial from the 18th to December 6. Maedeullaeng is a character chat service in which stories designed by creators meet users' conversations, producing a different narrative for each user. Creators design as 'events' when, and in what kind of relationship, a character's hidden story is revealed, and users reach those hidden stories through conversation and choices."
               },
               {
                 "t": "p",
-                "x": "The technology uses Selvas AI's 'SELVAS deepTTS On-Device: Cross-lingual' solution. It supports an on-device approach, in which speech synthesis takes place within the user's device."
+                "x": "The pilot is open to 200 women aged 19 and over. Voithru also sought to recruit 50 outside creators to make AI characters, offering 5만~15만원 per character on non-exclusive terms under which the creators keep the rights."
               },
               {
                 "t": "p",
-                "x": "YES24's audiobook spending per 1 person from January 1 to October 30 this year rose 69.3% from the same period last year. The growth rate for October was 493.6% compared with the same month last year."
-              },
-              {
-                "t": "p",
-                "x": "By age, audiobook buyers were led by those in their 40s at 30.9%, followed by their 30s at 24.1% and their 50s at 21.9%. By genre, fiction ranked highest at 31.5%, followed by humanities and history at 17.5% and poetry and essays at 8.6%."
-              },
-              {
-                "t": "p",
-                "x": "YES24 launched its AI TTS service in August 2025. It has since added features such as playback speed and pitch adjustment and reservation timers by time or page."
-              },
-              {
-                "t": "p",
-                "x": "After a preference survey in which about 4000 members took part from August 26 to September 25 this year, it added 2 more AI voices. It now offers 8 AI voices in total."
-              },
-              {
-                "t": "p",
-                "x": "Lee Jin-gu, head of YES24's digital business division, said he expects the new feature to broaden how e-books are used, including for language learning. To mark the launch, the company is holding a recommended-book listening trial and an English title guessing event."
+                "x": "Voithru has focused on translation, localization and distribution of video, webtoons, web novels and other content, and Kakao Piccoma acquired management control of it in 2023. Voithru said, \"Maedeullaeng will go through its current pre-open period and launch officially in December.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "YES24電子書籍AI音声\n韓英文を一つの声で",
-          "body": "YES24が、韓英混在の文を一つの声で読む電子書籍のAI音声機能を導入した。",
-          "mini_headline": "YES24 AI韓英朗読",
+          "headline": "カカオピッコマのボイスルー\nAIキャラチャット参入",
+          "body": "カカオピッコマ子会社ボイスルーが女性向けAIキャラチャット「メドゥルレン」で事業を拡大する。",
+          "mini_headline": "ボイスルー、AIキャラチャット参入",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/9/8205652/high.jpg",
-                "cap": "YES24電子書籍のAI音声朗読「韓英自動切り替え」機能の広報画像。(YES24提供。転売およびDB禁止) 2026.11.10/News1"
+                "src": "https://www.ddaily.co.kr/photos/2026/11/10/2026111015483828933_l.jpg",
+                "cap": "［写真＝ボイスルー「メドゥルレン」事前体験者募集ページのキャプチャー］"
               },
               {
                 "t": "p",
-                "x": "YES24は10日、電子書籍で韓国語と英語が混ざった文を一つの声で読み上げる人工知能の音声変換機能を導入したと明らかにした。"
+                "x": "カカオピッコマのコンテンツ現地化専門子会社「ボイスルー」が、人工知能（AI）キャラクターチャット市場に参入する。ウェブトゥーンやウェブ小説などのコンテンツの海外進出を支援してきた既存事業から一歩踏み出し、ユーザーがAIキャラクターと直接対話しながら物語を作っていく自社プラットフォーム事業に乗り出した。"
               },
               {
                 "t": "p",
-                "x": "従来の音声朗読には、言語が切り替わる際に声や発音が変わる問題があった。新機能は韓国語と英語を同じAIボイスで処理し、言語切り替え時の途切れを減らす。"
+                "x": "ボイスルーは女性向けAIキャラクターチャットサービス「メドゥルレン」を開発し、来る18日から12月6日まで事前体験を実施する。メドゥルレンは、クリエイターが設計した物語とユーザーの対話が組み合わさり、ユーザーごとに異なる物語が生まれるキャラクターチャットサービスだ。クリエイターはキャラクターの隠れたストーリーがいつ、どのような関係で明かされるかを「イベント」として設計し、ユーザーは対話と選択を通じて隠れたストーリーにたどり着く。"
               },
               {
                 "t": "p",
-                "x": "技術にはSelvas AIの「セルバス・ディープTTSオンデバイス」(SELVAS deepTTS On-Device: Cross-lingual)ソリューションを採用した。音声合成をユーザーの端末内で行うオンデバイス方式に対応する。"
+                "x": "試験運用の対象は満19歳以上の女性200人だ。ボイスルーはAIキャラクターを制作する外部クリエイター50人の募集も進め、キャラクターごとに5만~15만원を支払い、非独占方式でクリエイターが権利を保有する条件を示した。"
               },
               {
                 "t": "p",
-                "x": "YES24の今年1月1日から10月30日までのオーディオブック1人当たり購入額は、前年同期比69.3%増えた。10月の増加率は前年同月比493.6%だった。"
-              },
-              {
-                "t": "p",
-                "x": "オーディオブック購入者の年代別比率は40代30.9%、30代24.1%、50代21.9%の順だった。ジャンル別では小説が31.5%で最も高く、人文・歴史17.5%、詩・エッセイ8.6%が続いた。"
-              },
-              {
-                "t": "p",
-                "x": "YES24は2025年8月にAI TTSサービスを開始した。その後、再生速度や音程の調整、時間・ページ単位の予約タイマーなどの機能を追加してきた。"
-              },
-              {
-                "t": "p",
-                "x": "今年8月26日から9月25日まで会員約4000人が参加した好み調査を経て、AIボイスを2種追加した。現在提供するAI音声は計8種だ。"
-              },
-              {
-                "t": "p",
-                "x": "YES24デジタル事業本部長のイ・ジング氏は、新機能によって語学学習など電子書籍の活用範囲が広がると期待を示した。発売を記念し、おすすめ書籍の試聴体験と英語タイトル当てイベントを実施する。"
+                "x": "ボイスルーは映像・ウェブトゥーン・ウェブ小説などの翻訳・現地化・コンテンツ流通を主力としてきた会社で、カカオピッコマが2023年に経営権を取得した。ボイスルー側は「メドゥルレンは現在のプレオープン期間を経て、12月中に正式ローンチする予定だ」と伝えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "YES24电子书AI语音\n韩英句子一个声音读",
-          "body": "YES24为电子书推出AI语音功能，可用同一个声音朗读韩英混合句子。",
-          "mini_headline": "YES24 AI韩英朗读",
+          "headline": "Voithru进军\nAI角色聊天",
+          "body": "Kakao Piccoma子公司Voithru以面向女性的AI角色聊天服务拓展业务。",
+          "mini_headline": "Voithru进军AI角色聊天",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/9/8205652/high.jpg",
-                "cap": "YES24电子书AI语音朗读“韩英自动切换”功能宣传图。（YES24提供，禁止转售及DB使用）2026.11.10/News1"
+                "src": "https://www.ddaily.co.kr/photos/2026/11/10/2026111015483828933_l.jpg",
+                "cap": "[图片=Voithru Maedeullaeng预先体验团招募页面截图]"
               },
               {
                 "t": "p",
-                "x": "YES24于10日表示，已在电子书中引入人工智能语音转换功能，可用同一个声音朗读韩语和英语混合的句子。"
+                "x": "Kakao Piccoma旗下专注内容本地化的子公司Voithru进军人工智能（AI）角色聊天市场。该公司在原有协助网络漫画、网络小说等内容出海的业务基础上更进一步，推出让用户与AI角色直接对话、共同创作故事的自有平台业务。"
               },
               {
                 "t": "p",
-                "x": "以往的语音朗读在语言切换时，声音或发音会发生变化。新功能用同一个AI声音处理韩语和英语，减少语言切换时的停顿。"
+                "x": "Voithru开发了面向女性的AI角色聊天服务“Maedeullaeng”，将于18日至12月6日开展预先体验。Maedeullaeng是一款让创作者设计的故事与用户的对话相结合、为每位用户生成不同叙事的角色聊天服务。创作者以“事件”的形式设计角色的隐藏故事在何时、何种关系下揭晓，用户则通过对话和选择触及这些隐藏故事。"
               },
               {
                 "t": "p",
-                "x": "该技术采用了Selvas AI的“Selvas深度TTS端侧”(SELVAS deepTTS On-Device: Cross-lingual)解决方案，支持在用户设备内完成语音合成的端侧方式。"
+                "x": "试运营对象为200名年满19岁的女性。Voithru还推进招募50名外部创作者制作AI角色，提出每个角色支付5만~15만원、以非独占方式由创作者保留权利的条件。"
               },
               {
                 "t": "p",
-                "x": "今年1月1日至10月30日，YES24有声书1人平均购买额同比增长69.3%。10月增长率较去年同月为493.6%。"
-              },
-              {
-                "t": "p",
-                "x": "按年龄看，有声书购买者中40多岁占30.9%，30多岁占24.1%，50多岁占21.9%。按类型看，小说占比最高，为31.5%，人文·历史占17.5%，诗歌·随笔占8.6%。"
-              },
-              {
-                "t": "p",
-                "x": "YES24于2025年8月推出AI TTS服务，此后陆续增加了播放速度和音调调节、按时间或页数预约定时等功能。"
-              },
-              {
-                "t": "p",
-                "x": "今年8月26日至9月25日，约4000名会员参与了偏好调查，此后YES24新增2种AI声音。目前共提供8种AI语音。"
-              },
-              {
-                "t": "p",
-                "x": "YES24数字业务本部长Lee Jin-gu表示，期待新功能拓宽语言学习等电子书的使用范围。为纪念上线，YES24将举办推荐图书试听体验和猜英文书名活动。"
+                "x": "Voithru一直以影像、网络漫画、网络小说等的翻译、本地化和内容发行为主业，Kakao Piccoma于2023年取得其经营权。Voithru方面表示：“Maedeullaeng将在目前的预开放期之后，于12月内正式上线。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Voz AI en e-books de YES24\ncoreano e inglés con una voz",
-          "body": "YES24 incorporó a sus e-books una función de voz AI que lee frases mixtas en coreano e inglés con una sola voz.",
-          "mini_headline": "YES24: lectura AI en coreano e inglés",
+          "headline": "Voithru, de Kakao Piccoma,\nentra al chat de personajes AI",
+          "body": "Voithru, filial de Kakao Piccoma, amplía su negocio con Maedeullaeng, un chat de personajes AI dirigido a mujeres.",
+          "mini_headline": "Voithru entra al chat de personajes AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/9/8205652/high.jpg",
-                "cap": "Imagen promocional de la función de lectura por voz con inteligencia artificial 'cambio automático coreano-inglés' de los e-books de YES24. (Cortesía de YES24. Prohibida su reventa y uso en DB) 2026.11.10/News1"
+                "src": "https://www.ddaily.co.kr/photos/2026/11/10/2026111015483828933_l.jpg",
+                "cap": "[Foto = captura de la página de reclutamiento de probadores anticipados de Maedeullaeng, de Voithru]"
               },
               {
                 "t": "p",
-                "x": "YES24 anunció el día 10 que ha incorporado a sus libros electrónicos una función de conversión de voz con inteligencia artificial que lee con una sola voz las frases que mezclan coreano e inglés."
+                "x": "Voithru, filial de Kakao Piccoma especializada en la localización de contenidos, entra en el mercado de chats de personajes con inteligencia artificial (AI). Yendo un paso más allá de su negocio actual de apoyar la expansión internacional de webtoons, novelas web y otros contenidos, ha emprendido un negocio de plataforma propia en la que los usuarios crean historias conversando directamente con personajes de AI."
               },
               {
                 "t": "p",
-                "x": "La lectura por voz anterior tenía el problema de que la voz o la pronunciación cambiaban al pasar de un idioma a otro. La nueva función procesa el coreano y el inglés con la misma voz AI, lo que reduce los cortes en el cambio de idioma."
+                "x": "Voithru desarrolló Maedeullaeng, un servicio de chat de personajes con AI dirigido a mujeres, y realizará una prueba anticipada desde el día 18 hasta el 6 de diciembre. Maedeullaeng es un servicio de chat de personajes en el que las historias diseñadas por creadores se combinan con las conversaciones de los usuarios, de modo que cada usuario obtiene una narrativa distinta. Los creadores diseñan como 'eventos' cuándo y en qué tipo de relación se revela la historia oculta de un personaje, y los usuarios llegan a esa historia oculta a través de conversaciones y decisiones."
               },
               {
                 "t": "p",
-                "x": "La tecnología aplica la solución 'SELVAS deepTTS On-Device: Cross-lingual' de Selvas AI. Admite el modo en el dispositivo, en el que la síntesis de voz se realiza dentro del propio equipo del usuario."
+                "x": "La prueba piloto está dirigida a 200 mujeres de 19 años o más. Voithru también buscó reclutar a 50 creadores externos para diseñar personajes de AI, con un pago de 5만~15만원 por personaje y en condiciones no exclusivas en las que los creadores conservan los derechos."
               },
               {
                 "t": "p",
-                "x": "Del 1 de enero al 30 de octubre de este año, el gasto por persona en audiolibros de YES24 aumentó un 69.3% frente al mismo periodo del año anterior. En octubre, el crecimiento fue del 493.6% respecto al mismo mes del año pasado."
-              },
-              {
-                "t": "p",
-                "x": "Por edades, los compradores de audiolibros se concentraron en la franja de los 40, con un 30.9%, seguida de la de los 30, con un 24.1%, y la de los 50, con un 21.9%. Por géneros, la novela fue la más alta con un 31.5%, seguida de humanidades e historia con un 17.5% y poesía y ensayo con un 8.6%."
-              },
-              {
-                "t": "p",
-                "x": "YES24 lanzó su servicio AI TTS en agosto de 2025. Desde entonces ha añadido funciones como el ajuste de la velocidad de reproducción y del tono, y temporizadores programables por tiempo o por página."
-              },
-              {
-                "t": "p",
-                "x": "Tras una encuesta de preferencias realizada del 26 de agosto al 25 de septiembre de este año, en la que participaron unos 4000 socios, añadió 2 voces AI. Actualmente ofrece 8 voces AI en total."
-              },
-              {
-                "t": "p",
-                "x": "Lee Jin-gu, director de la división de negocio digital de YES24, espera que la nueva función amplíe los usos del libro electrónico, como el aprendizaje de idiomas. Para celebrar el lanzamiento, organiza una prueba de escucha de libros recomendados y un concurso para adivinar títulos en inglés."
+                "x": "Voithru se ha centrado en la traducción, la localización y la distribución de contenidos como video, webtoons y novelas web, y Kakao Piccoma adquirió su control en 2023. La empresa indicó que \"Maedeullaeng pasará por el actual periodo de preapertura y se lanzará oficialmente en diciembre\"."
               }
             ]
           }
@@ -1169,15 +969,15 @@
       }
     },
     {
-      "id": "books-japan-ip-genai-terms",
-      "source_lang": "en",
+      "id": "incheon-ai-picturebooks",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "일본, 자국 IP를 AI로\n권리자가 정한 조건으로",
-      "body": "일본이 애니·만화·음악 등 문화 IP를 권리자 조건대로 생성형 AI에 내준다.",
-      "mini_headline": "일본, IP의 AI 이용 조건",
+      "headline": "교사가 쓰고 AI가 그린\n그림책 12종 학교로",
+      "body": "인천시교육청이 교사가 쓰고 AI가 그린 상호존중 그림책 12종을 학교에 보급한다.",
+      "mini_headline": "AI 삽화 그림책 12종 보급",
       "tool": "Books",
-      "source": "The Asahi Shimbun",
-      "url": "https://www.asahi.com/ajw/articles/16889120",
+      "source": "컨슈머타임스",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=727217",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -1185,305 +985,305 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://p.potaufeu.asahi.com/ea20-p/picture/31541082/61f58bd68b656de926eb7ac66b22a04e.jpg",
-            "cap": "왼쪽부터 Japan IP.AI Co-Creation Association의 Takami Kondo 대표이사, 작사가 Yasushi Akimoto, 편집자 겸 프로듀서 Motoi Chujo가 9월 11일 도쿄 시부야구에서 협회 설립 기자회견 뒤 열린 행사에서 발언하고 있다. (Ryo Jozuka)"
+            "src": "https://www.cstimes.com/news/photo/202611/727217_648781_2021.jpg",
+            "cap": "인천시교육청 '상호존중 그림책'"
           },
           {
             "t": "p",
-            "x": "일본이 애니메이션, 만화, 음악 같은 문화 자산을 권리자가 정한 조건대로 생성형 인공지능 시대에 들여보내려 한다."
+            "x": "인천시교육청이 교실 내 교육활동을 보호하고 서로를 배려하는 학교문화를 정착시키기 위해 현직 교원들이 직접 집필에 참여한 맞춤형 그림책 12종과 교육 콘텐츠를 일선 학교 현장에 본격 보급한다."
           },
           {
             "t": "p",
-            "x": "새로 출범한 Japan IP.AI Co-Creation Association은 창작자 등 권리자가 자기 작품을 AI가 어떻게 쓸지 미리 정하고, 허락된 이용에서 생긴 수익을 권리자가 돌려받는 체계를 내놨다. 이용 내역은 기록으로 남고 대가는 AI 기업이 권리자에게 나눠 준다."
+            "x": "지난 4월부터 분기별로 '언어·경청·양보·기다림' 등 4대 핵심 덕목을 차례로 다뤘으며 각 주제마다 유아용, 초등학생용, 중·고등학생용 도서를 1종씩 구성해 총 12종의 완성형 시리즈를 갖췄다. 주제별·학교급별 맞춤형 학습지와 함께 그림책 영상 3종도 제작됐다."
           },
           {
             "t": "p",
-            "x": "Alibaba Group과 Canva 등 해외 AI 관련(AI-related) 기업 아홉 곳이 가이드라인 지지를 밝혔다. “Captain Tsubasa”(캡틴 츠바사) 권리자와 작사가 Yasushi Akimoto의 사무소도 동참했다. Takami Kondo 대표이사는 “새로운 글로벌 표준을 만들고 싶고, 그것을 일본에서 하고 싶다”고 말했다."
+            "x": "현장 교원으로 구성된 자문단이 직접 스토리 대본을 작성하고 인공지능(AI) 이미지 생성 도구를 접목해 삽화를 구현했으며 내·외부 전문가 검수를 통해 학교 현장 적합성을 검증받았다."
           },
           {
             "t": "p",
-            "x": "중국 생성형 AI 기업 MiniMax Group은 올가을부터 이 체계를 들여올 예정이고, ByteDance의 일본 자회사도 논의 중이다. 협회는 Google과 OpenAI에도 참여를 타진할 계획이다."
+            "x": "그림책과 학습지는 PDF 파일로 전자화돼 공문과 온라인 플랫폼 '패들렛' 등을 통해 일선 학교에 전달된다. 인천시교육청은 연말께 성과 분석을 거쳐 존중 교육 자료의 전사적 확산 방안을 마련할 계획이다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Japan brings its IP into AI\non rights holders' terms",
-          "body": "Japan aims to bring anime, manga, music and other cultural IP into generative AI on terms set by rights holders.",
-          "mini_headline": "Japan's AI terms for IP",
+        "ko": {
+          "headline": "교사가 쓰고 AI가 그린\n그림책 12종 학교로",
+          "body": "인천시교육청이 교사가 쓰고 AI가 그린 상호존중 그림책 12종을 학교에 보급한다.",
+          "mini_headline": "AI 삽화 그림책 12종 보급",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://p.potaufeu.asahi.com/ea20-p/picture/31541082/61f58bd68b656de926eb7ac66b22a04e.jpg",
-                "cap": "From left: Takami Kondo, representative director of the Japan IP.AI Co-Creation Association, lyricist Yasushi Akimoto and editor-producer Motoi Chujo speak at an event following a news conference announcing the association’s establishment in Tokyo’s Shibuya Ward on Sept. 11. (Ryo Jozuka)"
+                "src": "https://www.cstimes.com/news/photo/202611/727217_648781_2021.jpg",
+                "cap": "인천시교육청 '상호존중 그림책'"
               },
               {
                 "t": "p",
-                "x": "Japan is seeking to bring its anime, manga, music and other cultural properties into the age of generative artificial intelligence on terms set by rights holders."
+                "x": "인천시교육청이 교실 내 교육활동을 보호하고 서로를 배려하는 학교문화를 정착시키기 위해 현직 교원들이 직접 집필에 참여한 맞춤형 그림책 12종과 교육 콘텐츠를 일선 학교 현장에 본격 보급한다."
               },
               {
                 "t": "p",
-                "x": "The newly established Japan IP.AI Co-Creation Association announced a framework under which creators and other rights holders can specify in advance how their works may be used by AI, with revenue from authorized use flowing back to them. Usage is recorded, and payments are distributed by AI companies to rights holders."
+                "x": "지난 4월부터 분기별로 '언어·경청·양보·기다림' 등 4대 핵심 덕목을 차례로 다뤘으며 각 주제마다 유아용, 초등학생용, 중·고등학생용 도서를 1종씩 구성해 총 12종의 완성형 시리즈를 갖췄다. 주제별·학교급별 맞춤형 학습지와 함께 그림책 영상 3종도 제작됐다."
               },
               {
                 "t": "p",
-                "x": "Nine overseas AI-related companies, including Alibaba Group and Canva, have endorsed the guidelines, as have rights holders for “Captain Tsubasa” and the office of lyricist Yasushi Akimoto. “We want to create a new global standard, and to do so from Japan,” said representative director Takami Kondo."
+                "x": "현장 교원으로 구성된 자문단이 직접 스토리 대본을 작성하고 인공지능(AI) 이미지 생성 도구를 접목해 삽화를 구현했으며 내·외부 전문가 검수를 통해 학교 현장 적합성을 검증받았다."
               },
               {
                 "t": "p",
-                "x": "Chinese generative AI company MiniMax Group is set to adopt the system from this autumn, and ByteDance’s Japanese subsidiary is in discussions. The association plans to approach Google and OpenAI."
+                "x": "그림책과 학습지는 PDF 파일로 전자화돼 공문과 온라인 플랫폼 '패들렛' 등을 통해 일선 학교에 전달된다. 인천시교육청은 연말께 성과 분석을 거쳐 존중 교육 자료의 전사적 확산 방안을 마련할 계획이다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "일본, 자국 IP를 AI로\n권리자가 정한 조건으로",
-          "body": "일본이 애니·만화·음악 등 문화 IP를 권리자 조건대로 생성형 AI에 내준다.",
-          "mini_headline": "일본, IP의 AI 이용 조건",
+        "en": {
+          "headline": "Teacher-written, AI-drawn\n12 picture books go to schools",
+          "body": "The Incheon education office is sending schools 12 respect-themed picture books written by teachers and drawn by AI.",
+          "mini_headline": "12 AI-illustrated picture books",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://p.potaufeu.asahi.com/ea20-p/picture/31541082/61f58bd68b656de926eb7ac66b22a04e.jpg",
-                "cap": "왼쪽부터 Japan IP.AI Co-Creation Association의 Takami Kondo 대표이사, 작사가 Yasushi Akimoto, 편집자 겸 프로듀서 Motoi Chujo가 9월 11일 도쿄 시부야구에서 협회 설립 기자회견 뒤 열린 행사에서 발언하고 있다. (Ryo Jozuka)"
+                "src": "https://www.cstimes.com/news/photo/202611/727217_648781_2021.jpg",
+                "cap": "Incheon Metropolitan Office of Education 'Mutual Respect Picture Books'"
               },
               {
                 "t": "p",
-                "x": "일본이 애니메이션, 만화, 음악 같은 문화 자산을 권리자가 정한 조건대로 생성형 인공지능 시대에 들여보내려 한다."
+                "x": "The Incheon Metropolitan Office of Education is rolling out to schools 12 customized picture books, written with the direct participation of serving teachers, along with educational content, to protect classroom teaching and build a school culture of mutual consideration."
               },
               {
                 "t": "p",
-                "x": "새로 출범한 Japan IP.AI Co-Creation Association은 창작자 등 권리자가 자기 작품을 AI가 어떻게 쓸지 미리 정하고, 허락된 이용에서 생긴 수익을 권리자가 돌려받는 체계를 내놨다. 이용 내역은 기록으로 남고 대가는 AI 기업이 권리자에게 나눠 준다."
+                "x": "Since April, the project has taken up the 4 core virtues of 'language, listening, yielding and waiting' one quarter at a time, preparing 1 book each for preschoolers, elementary students, and middle and high school students on every theme for a complete series of 12 titles. Worksheets tailored to each theme and school level were also produced, along with 3 picture-book videos."
               },
               {
                 "t": "p",
-                "x": "Alibaba Group과 Canva 등 해외 AI 관련(AI-related) 기업 아홉 곳이 가이드라인 지지를 밝혔다. “Captain Tsubasa”(캡틴 츠바사) 권리자와 작사가 Yasushi Akimoto의 사무소도 동참했다. Takami Kondo 대표이사는 “새로운 글로벌 표준을 만들고 싶고, 그것을 일본에서 하고 싶다”고 말했다."
+                "x": "An advisory group of classroom teachers wrote the story scripts and created the illustrations using artificial intelligence (AI) image-generation tools, and the books' suitability for schools was verified through reviews by internal and external experts."
               },
               {
                 "t": "p",
-                "x": "중국 생성형 AI 기업 MiniMax Group은 올가을부터 이 체계를 들여올 예정이고, ByteDance의 일본 자회사도 논의 중이다. 협회는 Google과 OpenAI에도 참여를 타진할 계획이다."
+                "x": "The picture books and worksheets have been digitized as PDF files and will be delivered to schools through official notices and the online platform 'Padlet,' among other channels. The office plans to analyze the results around the end of the year and prepare a plan for spreading the respect-education materials system-wide."
               }
             ]
           }
         },
         "ja": {
-          "headline": "日本、自国IPをAIへ\n権利者が決める条件で",
-          "body": "日本はアニメや漫画、音楽などの文化IPを、権利者が定める条件で生成AIに取り込む構えだ。",
-          "mini_headline": "日本、IPのAI利用条件",
+          "headline": "教師が書きAIが描いた\n絵本12種を学校へ",
+          "body": "仁川市教育庁が、教師が書きAIが描いた相互尊重の絵本12種を学校に配布する。",
+          "mini_headline": "AI挿絵の絵本12種を配布",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://p.potaufeu.asahi.com/ea20-p/picture/31541082/61f58bd68b656de926eb7ac66b22a04e.jpg",
-                "cap": "左から、Japan IP.AI Co-Creation Associationの代表理事Takami Kondo、作詞家Yasushi Akimoto、編集者兼プロデューサーのMotoi Chujo。9月11日、東京・渋谷区で協会設立を発表した記者会見後のイベントで話す。(Ryo Jozuka)"
+                "src": "https://www.cstimes.com/news/photo/202611/727217_648781_2021.jpg",
+                "cap": "仁川市教育庁「相互尊重絵本」"
               },
               {
                 "t": "p",
-                "x": "日本は、アニメや漫画、音楽などの文化資産を、権利者が定める条件のもとで生成人工知能の時代に取り込もうとしている。"
+                "x": "仁川市教育庁は、教室での教育活動を守り、互いを思いやる学校文化を根付かせるため、現職教員が自ら執筆に参加したオーダーメイドの絵本12種と教育コンテンツを、学校現場に本格的に配布する。"
               },
               {
                 "t": "p",
-                "x": "新たに設立されたJapan IP.AI Co-Creation Associationは、クリエイターなどの権利者が自らの作品をAIにどう使わせるかを事前に指定でき、許諾された利用から生じた収益が権利者に還元される枠組みを発表した。利用は記録され、対価はAI企業から権利者に分配される。"
+                "x": "去る4月から四半期ごとに「言葉・傾聴・譲り合い・待つこと」など4大核心徳目を順に扱い、テーマごとに幼児用、小学生用、中高生用の図書を1種ずつ用意して、計12種の完成版シリーズをそろえた。テーマ別・学校段階別のワークシートとともに、絵本動画3種も制作された。"
               },
               {
                 "t": "p",
-                "x": "Alibaba GroupやCanvaなど海外のAI関連(AI-related)企業九社がガイドラインに賛同し、「Captain Tsubasa」(キャプテン翼)の権利者や作詞家Yasushi Akimotoの事務所も賛同した。代表理事のTakami Kondoは「新しいグローバル標準を、日本からつくりたい」と述べた。"
+                "x": "現場の教員で構成された諮問団が自らストーリーの台本を書き、人工知能（AI）画像生成ツールを取り入れて挿絵を作り、内外の専門家による検収を通じて学校現場への適合性を検証した。"
               },
               {
                 "t": "p",
-                "x": "中国の生成AI企業MiniMax Groupはこの秋からこの仕組みを導入する予定で、ByteDanceの日本子会社も協議中だ。協会はGoogleやOpenAIにも働きかける方針だ。"
+                "x": "絵本とワークシートはPDFファイルとして電子化され、公文書やオンラインプラットフォーム「Padlet（パドレット）」などを通じて各学校に届けられる。仁川市教育庁は年末ごろに成果を分析し、尊重教育資料を全体に広げる方策をまとめる計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "日本让本国IP进入AI\n条件由权利方来定",
-          "body": "日本希望按权利方设定的条件，将动画、漫画、音乐等文化IP引入生成式AI。",
-          "mini_headline": "日本为IP定AI使用条件",
+          "headline": "教师写、AI画\n12种绘本进校园",
+          "body": "仁川市教育厅将向学校推广由教师撰写、AI绘图的12种相互尊重主题绘本。",
+          "mini_headline": "AI插图绘本12种进校园",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://p.potaufeu.asahi.com/ea20-p/picture/31541082/61f58bd68b656de926eb7ac66b22a04e.jpg",
-                "cap": "左起：Japan IP.AI Co-Creation Association代表理事Takami Kondo、作词家Yasushi Akimoto和编辑兼制作人Motoi Chujo。9月11日，他们在东京涩谷区宣布协会成立的记者会后举行的活动上发言。（Ryo Jozuka）"
+                "src": "https://www.cstimes.com/news/photo/202611/727217_648781_2021.jpg",
+                "cap": "仁川市教育厅“相互尊重绘本”"
               },
               {
                 "t": "p",
-                "x": "日本正寻求在权利方设定的条件下，把动画、漫画、音乐等文化资产带入生成式人工智能时代。"
+                "x": "仁川市教育厅为保护课堂教育活动、在校园中培养彼此体谅的文化，正式向各学校推广由现任教师亲自参与撰写的12种定制绘本及教育内容。"
               },
               {
                 "t": "p",
-                "x": "新成立的Japan IP.AI Co-Creation Association公布了一套框架：创作者等权利方可预先指定其作品能以何种方式被AI使用，经授权使用所得收入将回流给他们。使用情况会被记录，费用由AI公司分配给权利方。"
+                "x": "自4月起，项目按季度依次围绕“语言、倾听、谦让、等待”等4大核心美德展开，每个主题分别编写幼儿、小学生、初高中生用书各1种，形成共12种的完整系列。此外还配套制作了按主题和学段定制的学习单，以及3种绘本视频。"
               },
               {
                 "t": "p",
-                "x": "包括Alibaba Group和Canva在内的九家海外AI相关（AI-related）企业已表态支持该指南，《Captain Tsubasa》（足球小将）的权利方和作词家Yasushi Akimoto的事务所也表示支持。代表理事Takami Kondo说：“我们希望创建新的全球标准，而且要从日本出发。”"
+                "x": "由在职教师组成的咨询团亲自撰写故事脚本，结合人工智能（AI）图像生成工具完成插画，并经内外部专家审核，验证了其对学校的适用性。"
               },
               {
                 "t": "p",
-                "x": "中国生成式AI公司MiniMax Group计划从今年秋季起采用该体系，ByteDance的日本子公司也在洽谈中。协会还计划接触Google和OpenAI。"
+                "x": "绘本和学习单已制作成PDF电子文件，将通过公文及在线平台Padlet等渠道发送至各学校。仁川市教育厅计划在年底前后进行成果分析，制定尊重教育资料的全面推广方案。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Japón lleva su IP a la AI\nsegún los titulares de derechos",
-          "body": "Japón quiere llevar anime, manga, música y otra IP cultural a la AI generativa con condiciones de los titulares.",
-          "mini_headline": "Japón fija términos de AI para su IP",
+          "headline": "Docentes escriben y AI ilustra\n12 libros álbum para escuelas",
+          "body": "La oficina de Incheon repartirá en escuelas 12 álbumes sobre respeto mutuo, escritos por docentes e ilustrados con AI.",
+          "mini_headline": "12 libros álbum ilustrados con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://p.potaufeu.asahi.com/ea20-p/picture/31541082/61f58bd68b656de926eb7ac66b22a04e.jpg",
-                "cap": "Desde la izquierda: Takami Kondo, director representante de la Japan IP.AI Co-Creation Association; el letrista Yasushi Akimoto, y el editor y productor Motoi Chujo hablan en un acto posterior a la rueda de prensa en la que se anunció la creación de la asociación, en el distrito de Shibuya, Tokio, el 11 de septiembre. (Ryo Jozuka)"
+                "src": "https://www.cstimes.com/news/photo/202611/727217_648781_2021.jpg",
+                "cap": "'Libros álbum de respeto mutuo' de la Oficina de Educación de Incheon"
               },
               {
                 "t": "p",
-                "x": "Japón busca llevar su anime, su manga, su música y otros bienes culturales a la era de la inteligencia artificial generativa en condiciones fijadas por los titulares de derechos."
+                "x": "La Oficina Metropolitana de Educación de Incheon distribuirá de forma generalizada en los centros escolares 12 libros álbum personalizados, en cuya redacción participaron directamente docentes en activo, junto con contenidos educativos, con el fin de proteger la actividad docente en el aula y consolidar una cultura escolar de consideración mutua."
               },
               {
                 "t": "p",
-                "x": "La recién creada Japan IP.AI Co-Creation Association anunció un marco en el que los creadores y otros titulares de derechos pueden especificar de antemano cómo puede usar la AI sus obras, y los ingresos por el uso autorizado vuelven a ellos. El uso queda registrado y las empresas de AI distribuyen los pagos a los titulares de derechos."
+                "x": "Desde abril, el proyecto abordó trimestre a trimestre 4 virtudes clave como 'lenguaje, escucha, cesión y espera', y para cada tema se preparó 1 libro para preescolar, otro para primaria y otro para secundaria, hasta completar una serie de 12 títulos. También se produjeron fichas de trabajo adaptadas por tema y nivel educativo, además de 3 videos de los libros álbum."
               },
               {
                 "t": "p",
-                "x": "Nueve empresas extranjeras AI-related, es decir, vinculadas a la AI, entre ellas Alibaba Group y Canva, han respaldado las directrices, al igual que los titulares de derechos de “Captain Tsubasa” y la oficina del letrista Yasushi Akimoto. “Queremos crear un nuevo estándar mundial, y hacerlo desde Japón”, dijo el director representante Takami Kondo."
+                "x": "Un grupo asesor formado por docentes en activo escribió los guiones de las historias y realizó las ilustraciones con herramientas de generación de imágenes con inteligencia artificial (AI), y su idoneidad para las escuelas se verificó mediante revisiones de expertos internos y externos."
               },
               {
                 "t": "p",
-                "x": "La empresa china de AI generativa MiniMax Group adoptará el sistema a partir de este otoño, y la filial japonesa de ByteDance está en conversaciones. La asociación planea acercarse a Google y OpenAI."
+                "x": "Los libros álbum y las fichas se han digitalizado en archivos PDF y llegarán a las escuelas mediante comunicaciones oficiales y la plataforma en línea 'Padlet', entre otros canales. La oficina prevé analizar los resultados hacia fin de año y preparar un plan para extender a todo el sistema los materiales de educación en el respeto."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "일본, 자국 IP를 AI로\n권리자가 정한 조건으로",
-          "body": "일본이 애니·만화·음악 등 문화 IP를 권리자 조건으로 생성형 AI에 연결한다.",
-          "mini_headline": "일본, IP의 AI 이용 조건",
+        "en": {
+          "headline": "Teacher-written, AI-drawn\n12 picture books go to schools",
+          "body": "The Incheon education office is sending schools 12 respect-themed picture books written by teachers and drawn by AI.",
+          "mini_headline": "12 AI-illustrated picture books",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://p.potaufeu.asahi.com/ea20-p/picture/31541082/61f58bd68b656de926eb7ac66b22a04e.jpg",
-                "cap": "왼쪽부터 Japan IP.AI Co-Creation Association의 Takami Kondo 대표이사, 작사가 Yasushi Akimoto, 편집자 겸 프로듀서 Motoi Chujo가 9월 11일 도쿄 시부야구에서 협회 설립 기자회견 뒤 열린 행사에서 발언하고 있다. (Ryo Jozuka)"
+                "src": "https://www.cstimes.com/news/photo/202611/727217_648781_2021.jpg",
+                "cap": "Incheon Metropolitan Office of Education 'Mutual Respect Picture Books'"
               },
               {
                 "t": "p",
-                "x": "일본이 애니메이션, 만화, 음악 등 문화 자산을 권리자가 정한 조건에 따라 생성형 인공지능 시대로 들이려 한다."
+                "x": "The Incheon Metropolitan Office of Education is rolling out to schools 12 customized picture books, written with the direct participation of serving teachers, along with educational content, to protect classroom teaching and build a school culture of mutual consideration."
               },
               {
                 "t": "p",
-                "x": "새로 설립된 Japan IP.AI Co-Creation Association은 창작자 등 권리자가 자기 작품을 AI가 어떻게 이용할 수 있는지 미리 지정하고, 허락된 이용에서 나온 수익이 권리자에게 돌아가는 체계를 발표했다. 이용 내역은 기록되고, 대가는 AI 기업이 권리자에게 분배한다."
+                "x": "Since April, the project has taken up the 4 core virtues of 'language, listening, yielding and waiting' one quarter at a time, preparing 1 book each for preschoolers, elementary students, and middle and high school students on every theme for a complete series of 12 titles. Worksheets tailored to each theme and school level were also produced, along with 3 picture-book videos."
               },
               {
                 "t": "p",
-                "x": "Alibaba Group과 Canva를 비롯한 해외 AI 관련(AI-related) 기업 아홉 곳이 가이드라인에 지지를 밝혔고, “Captain Tsubasa”(캡틴 츠바사)의 권리자와 작사가 Yasushi Akimoto의 사무소도 뜻을 같이했다. Takami Kondo 대표이사는 “새로운 글로벌 표준을 만들고 싶고, 그것을 일본에서 하고 싶다”고 말했다."
+                "x": "An advisory group of classroom teachers wrote the story scripts and created the illustrations using artificial intelligence (AI) image-generation tools, and the books' suitability for schools was verified through reviews by internal and external experts."
               },
               {
                 "t": "p",
-                "x": "중국 생성형 AI 기업 MiniMax Group은 올가을부터 이 체계를 도입할 예정이며, ByteDance의 일본 자회사도 논의 중이다. 협회는 Google과 OpenAI에도 참여를 타진할 계획이다."
+                "x": "The picture books and worksheets have been digitized as PDF files and will be delivered to schools through official notices and the online platform 'Padlet,' among other channels. The office plans to analyze the results around the end of the year and prepare a plan for spreading the respect-education materials system-wide."
               }
             ]
           }
         },
         "ja": {
-          "headline": "日本、自国IPをAIへ\n権利者が決める条件で",
-          "body": "日本はアニメや漫画、音楽などの文化IPを、権利者が定める条件で生成AIに取り込む構えだ。",
-          "mini_headline": "日本、IPのAI利用条件",
+          "headline": "教師が書きAIが描いた\n絵本12種を学校へ",
+          "body": "仁川市教育庁が、教師が書きAIが描いた相互尊重の絵本12種を学校に配布する。",
+          "mini_headline": "AI挿絵の絵本12種を配布",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://p.potaufeu.asahi.com/ea20-p/picture/31541082/61f58bd68b656de926eb7ac66b22a04e.jpg",
-                "cap": "左から、Japan IP.AI Co-Creation Associationの代表理事Takami Kondo、作詞家Yasushi Akimoto、編集者兼プロデューサーのMotoi Chujo。9月11日、東京・渋谷区で協会設立を発表した記者会見後のイベントで話す。(Ryo Jozuka)"
+                "src": "https://www.cstimes.com/news/photo/202611/727217_648781_2021.jpg",
+                "cap": "仁川市教育庁「相互尊重絵本」"
               },
               {
                 "t": "p",
-                "x": "日本は、アニメや漫画、音楽などの文化資産を、権利者が定める条件のもとで生成人工知能の時代に取り込もうとしている。"
+                "x": "仁川市教育庁は、教室での教育活動を守り、互いを思いやる学校文化を根付かせるため、現職教員が自ら執筆に参加したオーダーメイドの絵本12種と教育コンテンツを、学校現場に本格的に配布する。"
               },
               {
                 "t": "p",
-                "x": "新たに設立されたJapan IP.AI Co-Creation Associationは、クリエイターなどの権利者が自らの作品をAIにどう使わせるかを事前に指定でき、許諾された利用から生じた収益が権利者に還元される枠組みを発表した。利用は記録され、対価はAI企業から権利者に分配される。"
+                "x": "去る4月から四半期ごとに「言葉・傾聴・譲り合い・待つこと」など4大核心徳目を順に扱い、テーマごとに幼児用、小学生用、中高生用の図書を1種ずつ用意して、計12種の完成版シリーズをそろえた。テーマ別・学校段階別のワークシートとともに、絵本動画3種も制作された。"
               },
               {
                 "t": "p",
-                "x": "Alibaba GroupやCanvaなど海外のAI関連(AI-related)企業九社がガイドラインに賛同し、「Captain Tsubasa」(キャプテン翼)の権利者や作詞家Yasushi Akimotoの事務所も賛同した。代表理事のTakami Kondoは「新しいグローバル標準を、日本からつくりたい」と述べた。"
+                "x": "現場の教員で構成された諮問団が自らストーリーの台本を書き、人工知能（AI）画像生成ツールを取り入れて挿絵を作り、内外の専門家による検収を通じて学校現場への適合性を検証した。"
               },
               {
                 "t": "p",
-                "x": "中国の生成AI企業MiniMax Groupはこの秋からこの仕組みを導入する予定で、ByteDanceの日本子会社も協議中だ。協会はGoogleやOpenAIにも働きかける方針だ。"
+                "x": "絵本とワークシートはPDFファイルとして電子化され、公文書やオンラインプラットフォーム「Padlet（パドレット）」などを通じて各学校に届けられる。仁川市教育庁は年末ごろに成果を分析し、尊重教育資料を全体に広げる方策をまとめる計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "日本让本国IP进入AI\n条件由权利方来定",
-          "body": "日本希望按权利方设定的条件，将动画、漫画、音乐等文化IP引入生成式AI。",
-          "mini_headline": "日本为IP定AI使用条件",
+          "headline": "教师写、AI画\n12种绘本进校园",
+          "body": "仁川市教育厅将向学校推广由教师撰写、AI绘图的12种相互尊重主题绘本。",
+          "mini_headline": "AI插图绘本12种进校园",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://p.potaufeu.asahi.com/ea20-p/picture/31541082/61f58bd68b656de926eb7ac66b22a04e.jpg",
-                "cap": "左起：Japan IP.AI Co-Creation Association代表理事Takami Kondo、作词家Yasushi Akimoto和编辑兼制作人Motoi Chujo。9月11日，他们在东京涩谷区宣布协会成立的记者会后举行的活动上发言。（Ryo Jozuka）"
+                "src": "https://www.cstimes.com/news/photo/202611/727217_648781_2021.jpg",
+                "cap": "仁川市教育厅“相互尊重绘本”"
               },
               {
                 "t": "p",
-                "x": "日本正寻求在权利方设定的条件下，把动画、漫画、音乐等文化资产带入生成式人工智能时代。"
+                "x": "仁川市教育厅为保护课堂教育活动、在校园中培养彼此体谅的文化，正式向各学校推广由现任教师亲自参与撰写的12种定制绘本及教育内容。"
               },
               {
                 "t": "p",
-                "x": "新成立的Japan IP.AI Co-Creation Association公布了一套框架：创作者等权利方可预先指定其作品能以何种方式被AI使用，经授权使用所得收入将回流给他们。使用情况会被记录，费用由AI公司分配给权利方。"
+                "x": "自4月起，项目按季度依次围绕“语言、倾听、谦让、等待”等4大核心美德展开，每个主题分别编写幼儿、小学生、初高中生用书各1种，形成共12种的完整系列。此外还配套制作了按主题和学段定制的学习单，以及3种绘本视频。"
               },
               {
                 "t": "p",
-                "x": "包括Alibaba Group和Canva在内的九家海外AI相关（AI-related）企业已表态支持该指南，《Captain Tsubasa》（足球小将）的权利方和作词家Yasushi Akimoto的事务所也表示支持。代表理事Takami Kondo说：“我们希望创建新的全球标准，而且要从日本出发。”"
+                "x": "由在职教师组成的咨询团亲自撰写故事脚本，结合人工智能（AI）图像生成工具完成插画，并经内外部专家审核，验证了其对学校的适用性。"
               },
               {
                 "t": "p",
-                "x": "中国生成式AI公司MiniMax Group计划从今年秋季起采用该体系，ByteDance的日本子公司也在洽谈中。协会还计划接触Google和OpenAI。"
+                "x": "绘本和学习单已制作成PDF电子文件，将通过公文及在线平台Padlet等渠道发送至各学校。仁川市教育厅计划在年底前后进行成果分析，制定尊重教育资料的全面推广方案。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Japón lleva su IP a la AI\nsegún los titulares de derechos",
-          "body": "Japón quiere llevar anime, manga, música y otra IP cultural a la AI generativa con condiciones de los titulares.",
-          "mini_headline": "Japón fija términos de AI para su IP",
+          "headline": "Docentes escriben y AI ilustra\n12 libros álbum para escuelas",
+          "body": "La oficina de Incheon repartirá en escuelas 12 álbumes sobre respeto mutuo, escritos por docentes e ilustrados con AI.",
+          "mini_headline": "12 libros álbum ilustrados con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://p.potaufeu.asahi.com/ea20-p/picture/31541082/61f58bd68b656de926eb7ac66b22a04e.jpg",
-                "cap": "Desde la izquierda: Takami Kondo, director representante de la Japan IP.AI Co-Creation Association; el letrista Yasushi Akimoto, y el editor y productor Motoi Chujo hablan en un acto posterior a la rueda de prensa en la que se anunció la creación de la asociación, en el distrito de Shibuya, Tokio, el 11 de septiembre. (Ryo Jozuka)"
+                "src": "https://www.cstimes.com/news/photo/202611/727217_648781_2021.jpg",
+                "cap": "'Libros álbum de respeto mutuo' de la Oficina de Educación de Incheon"
               },
               {
                 "t": "p",
-                "x": "Japón busca llevar su anime, su manga, su música y otros bienes culturales a la era de la inteligencia artificial generativa en condiciones fijadas por los titulares de derechos."
+                "x": "La Oficina Metropolitana de Educación de Incheon distribuirá de forma generalizada en los centros escolares 12 libros álbum personalizados, en cuya redacción participaron directamente docentes en activo, junto con contenidos educativos, con el fin de proteger la actividad docente en el aula y consolidar una cultura escolar de consideración mutua."
               },
               {
                 "t": "p",
-                "x": "La recién creada Japan IP.AI Co-Creation Association anunció un marco en el que los creadores y otros titulares de derechos pueden especificar de antemano cómo puede usar la AI sus obras, y los ingresos por el uso autorizado vuelven a ellos. El uso queda registrado y las empresas de AI distribuyen los pagos a los titulares de derechos."
+                "x": "Desde abril, el proyecto abordó trimestre a trimestre 4 virtudes clave como 'lenguaje, escucha, cesión y espera', y para cada tema se preparó 1 libro para preescolar, otro para primaria y otro para secundaria, hasta completar una serie de 12 títulos. También se produjeron fichas de trabajo adaptadas por tema y nivel educativo, además de 3 videos de los libros álbum."
               },
               {
                 "t": "p",
-                "x": "Nueve empresas extranjeras AI-related, es decir, vinculadas a la AI, entre ellas Alibaba Group y Canva, han respaldado las directrices, al igual que los titulares de derechos de “Captain Tsubasa” y la oficina del letrista Yasushi Akimoto. “Queremos crear un nuevo estándar mundial, y hacerlo desde Japón”, dijo el director representante Takami Kondo."
+                "x": "Un grupo asesor formado por docentes en activo escribió los guiones de las historias y realizó las ilustraciones con herramientas de generación de imágenes con inteligencia artificial (AI), y su idoneidad para las escuelas se verificó mediante revisiones de expertos internos y externos."
               },
               {
                 "t": "p",
-                "x": "La empresa china de AI generativa MiniMax Group adoptará el sistema a partir de este otoño, y la filial japonesa de ByteDance está en conversaciones. La asociación planea acercarse a Google y OpenAI."
+                "x": "Los libros álbum y las fichas se han digitalizado en archivos PDF y llegarán a las escuelas mediante comunicaciones oficiales y la plataforma en línea 'Padlet', entre otros canales. La oficina prevé analizar los resultados hacia fin de año y preparar un plan para extender a todo el sistema los materiales de educación en el respeto."
               }
             ]
           }
@@ -1491,441 +1291,241 @@
       }
     },
     {
-      "id": "books-flitto-kpa-data",
-      "source_lang": "ko",
+      "id": "bookseller-ai-discovery-steps",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "플리토, 출판 저작물\nAI 학습 데이터로 공급",
-      "body": "플리토가 대한출판문화협회와 AI 학습용 출판데이터 공급·거래 시장 조성에 나섰다.",
-      "mini_headline": "플리토 AI 출판데이터",
+      "headline": "AI 챗봇이 독자를\n내 서점으로 보내려면",
+      "body": "AI 챗봇이 독자를 서점으로 안내하게 하는 법을 Simon Young이 짚었다.",
+      "mini_headline": "독자를 내 서점으로 보내는 AI",
       "tool": "Books",
-      "source": "ZDNet Korea",
-      "url": "https://zdnet.co.kr/view/?no=20261109170434",
+      "source": "The Bookseller",
+      "url": "https://www.thebookseller.com/comment/ai-changing-book-discovery-what-booksellers-can-do",
       "accent": "#eb367f",
       "motif": "swatch",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "플리토가 출판 저작물을 인공지능(AI) 학습에 활용할 수 있도록 데이터 공급 체계 마련에 나섰다."
-          },
-          {
-            "t": "p",
-            "x": "플리토는 지난 4일 대한출판문화협회와 AI 학습용 출판데이터 공급 · 거래 시장 조성을 위한 업무협약을 체결했다고 9일 밝혔다. 협회가 보유한 출판데이터 공급 역량과 플리토 데이터 정제·가공 기술을 결합하는 것이 협약 골자다."
-          },
-          {
-            "t": "p",
-            "x": "출판데이터 공급 조건과 개별 계약 체결 여부는 해당 저작물 저작권자와 출판권자 동의를 전제로 정한다. 구체적인 사업 범위와 추진 절차·대가는 향후 사업별 계약에서 정한다."
-          },
-          {
             "t": "img",
-            "src": "https://image.zdnet.co.kr/2026/11/09/2b121073d396ca3cb7b643a2debfe25c.jpg",
-            "cap": "지난 4일 종로구 대한출판문화협회 대강당에서 진행된 업무협약식에서 김진구 플리토 최고데이터책임자(오른쪽)와 김태헌 대한출판문화협회 회장이 기념 촬영을 하고 있다. (사진=플리토)"
+            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/684/Bookshop-c-Shutterstock.jpg",
+            "cap": "서점(Bookshop) c Shutterstock"
           },
           {
             "t": "p",
-            "x": "플리토는 출판데이터를 AI 학습에 쓸 수 있는 형태로 가공하고 품질을 검증하는 기술을 지원한다. 데이터를 안전하게 처리할 수 있도록 컴퓨팅 인프라와 보안 환경도 제공한다."
+            "x": "AI가 독자의 책 찾는 방식을 바꾸고 있다. 서점이 실제로 할 수 있는 일을 짚는다. Simon Young은 독자가 ChatGPT, Gemini, Perplexity에 책을 어디서 사면 되느냐고 물을 때 그 답에 당신 서점이 나오게 하라고 말한다."
           },
           {
             "t": "p",
-            "x": "대한출판문화협회는 출판사와 협의하고 수요처에 데이터를 공급하는 창구를 맡는다. 출판데이터 수집·관리 체계는 협회가 독립적으로 운영한다."
-          },
-          {
-            "t": "p",
-            "x": "양측은 출판데이터를 활용할 수요처를 발굴하고 거래를 활성화할 계획이다. 정부와 공공기관이 추진하는 AI 데이터 관련 사업에도 공동 참여를 추진한다."
-          },
-          {
-            "t": "p",
-            "x": "이정수 플리토 대표는 \"고도화된 우리 데이터 기술력을 바탕으로 저작권자와 AI 산업이 함께 성장하는 건강한 국가 AI 데이터 인프라를 확립하는 데 적극 기여하겠다\"고 밝혔다."
+            "x": "Simon Young은 Question.Marketing을 세웠다. Doncaster에 있는 UK 답변 엔진 최적화(answer engine optimisation, AEO) 에이전시다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "플리토, 출판 저작물\nAI 학습 데이터로 공급",
-          "body": "플리토가 대한출판문화협회와 AI 학습용 출판데이터 공급·거래 시장 조성에 나섰다.",
-          "mini_headline": "플리토 AI 출판데이터",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "플리토가 출판 저작물을 인공지능(AI) 학습에 활용할 수 있도록 데이터 공급 체계 마련에 나섰다."
-              },
-              {
-                "t": "p",
-                "x": "플리토는 지난 4일 대한출판문화협회와 AI 학습용 출판데이터 공급 · 거래 시장 조성을 위한 업무협약을 체결했다고 9일 밝혔다. 협회가 보유한 출판데이터 공급 역량과 플리토 데이터 정제·가공 기술을 결합하는 것이 협약 골자다."
-              },
-              {
-                "t": "p",
-                "x": "출판데이터 공급 조건과 개별 계약 체결 여부는 해당 저작물 저작권자와 출판권자 동의를 전제로 정한다. 구체적인 사업 범위와 추진 절차·대가는 향후 사업별 계약에서 정한다."
-              },
-              {
-                "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/09/2b121073d396ca3cb7b643a2debfe25c.jpg",
-                "cap": "지난 4일 종로구 대한출판문화협회 대강당에서 진행된 업무협약식에서 김진구 플리토 최고데이터책임자(오른쪽)와 김태헌 대한출판문화협회 회장이 기념 촬영을 하고 있다. (사진=플리토)"
-              },
-              {
-                "t": "p",
-                "x": "플리토는 출판데이터를 AI 학습에 쓸 수 있는 형태로 가공하고 품질을 검증하는 기술을 지원한다. 데이터를 안전하게 처리할 수 있도록 컴퓨팅 인프라와 보안 환경도 제공한다."
-              },
-              {
-                "t": "p",
-                "x": "대한출판문화협회는 출판사와 협의하고 수요처에 데이터를 공급하는 창구를 맡는다. 출판데이터 수집·관리 체계는 협회가 독립적으로 운영한다."
-              },
-              {
-                "t": "p",
-                "x": "양측은 출판데이터를 활용할 수요처를 발굴하고 거래를 활성화할 계획이다. 정부와 공공기관이 추진하는 AI 데이터 관련 사업에도 공동 참여를 추진한다."
-              },
-              {
-                "t": "p",
-                "x": "이정수 플리토 대표는 \"고도화된 우리 데이터 기술력을 바탕으로 저작권자와 AI 산업이 함께 성장하는 건강한 국가 AI 데이터 인프라를 확립하는 데 적극 기여하겠다\"고 밝혔다."
-              }
-            ]
-          }
-        },
         "en": {
-          "headline": "Flitto turns published works\ninto AI training data",
-          "body": "Flitto and the Korean Publishers Association will build a market to supply and trade publishing data for AI training.",
-          "mini_headline": "Flitto AI publishing data",
+          "headline": "Making AI chatbots send\nreaders to your bookshop",
+          "body": "Simon Young sets out steps booksellers can take so ChatGPT, Gemini and Perplexity point readers to their shops.",
+          "mini_headline": "Get AI to send readers your way",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Flitto has begun building a data supply system so that published works can be used for artificial intelligence (AI) training."
-              },
-              {
-                "t": "p",
-                "x": "Flitto said on the 9th that it signed a business agreement with the Korean Publishers Association on the 4th to create a market for supplying and trading publishing data for AI training. The core of the agreement is combining the association's publishing data supply capabilities with Flitto's data refining and processing technology."
-              },
-              {
-                "t": "p",
-                "x": "Supply conditions for publishing data and whether to sign individual contracts will be determined on the premise of consent from the copyright holders and publishing rights holders of the works concerned. The specific business scope, procedures and compensation will be set in future contracts for each project."
-              },
-              {
                 "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/09/2b121073d396ca3cb7b643a2debfe25c.jpg",
-                "cap": "Flitto Chief Data Officer Kim Jin-gu (right) and Korean Publishers Association President Kim Tae-heon pose for a photo at the business agreement ceremony held on the 4th in the main auditorium of the Korean Publishers Association in Jongno-gu. (Photo=Flitto)"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/684/Bookshop-c-Shutterstock.jpg",
+                "cap": "Bookshop c Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Flitto supports technology to process publishing data into a form usable for AI training and to verify its quality. It also provides computing infrastructure and a security environment so the data can be handled safely."
+                "x": "AI is changing book discovery — here's what booksellers can actually do. When a reader asks ChatGPT, Gemini or Perplexity where to buy a book, make sure they get your answer, writes Simon Young."
               },
               {
                 "t": "p",
-                "x": "The Korean Publishers Association serves as the channel that consults with publishers and supplies data to buyers. The association independently operates the system for collecting and managing publishing data."
-              },
-              {
-                "t": "p",
-                "x": "The two sides plan to find buyers that will use publishing data and to boost transactions. They will also seek to jointly take part in AI data projects run by the government and public institutions."
-              },
-              {
-                "t": "p",
-                "x": "Flitto chief executive Lee Jung-soo said, \"Based on our advanced data technology, we will actively contribute to establishing a healthy national AI data infrastructure in which copyright holders and the AI industry grow together.\""
+                "x": "Simon Young is the founder of Question.Marketing, a UK agency for answer engine optimisation (AEO), based in Doncaster."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Flitto、出版物を\nAI学習データとして供給",
-          "body": "Flittoが大韓出版文化協会とAI学習用出版データの供給・取引市場づくりに乗り出した。",
-          "mini_headline": "Flitto AI出版データ",
+          "headline": "AIチャットボットに\n読者を書店へ導かせる",
+          "body": "Simon Youngが書店のChatGPT・Gemini・Perplexity対策を説く。",
+          "mini_headline": "AIに読者を送らせる",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Flittoが、出版物を人工知能(AI)の学習に活用できるよう、データ供給体制の整備に乗り出した。"
-              },
-              {
-                "t": "p",
-                "x": "Flittoは9日、大韓出版文化協会と4日にAI学習用出版データの供給・取引市場づくりに向けた業務協約を結んだと明らかにした。協会が持つ出版データの供給力と、Flittoのデータ精製・加工技術を組み合わせることが協約の柱だ。"
-              },
-              {
-                "t": "p",
-                "x": "出版データの供給条件や個別契約を結ぶかどうかは、当該著作物の著作権者と出版権者の同意を前提に決める。具体的な事業範囲や推進手続き、対価は今後の事業ごとの契約で定める。"
-              },
-              {
                 "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/09/2b121073d396ca3cb7b643a2debfe25c.jpg",
-                "cap": "4日、鍾路区の大韓出版文化協会大講堂で行われた業務協約式で、Flittoの最高データ責任者キム・ジング氏(右)と大韓出版文化協会のキム・テホン会長が記念撮影をしている。(写真=Flitto)"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/684/Bookshop-c-Shutterstock.jpg",
+                "cap": "書店 c Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Flittoは、出版データをAI学習に使える形に加工し、品質を検証する技術を提供する。データを安全に処理できるよう、コンピューティングインフラとセキュリティ環境も提供する。"
+                "x": "AIが本の見つけ方を変えている。では書店は実際に何ができるのか。読者がChatGPT、Gemini、Perplexityに本をどこで買えばよいか尋ねたとき、自分の店が答えとして返ってくるようにせよ、とSimon Youngは書く。"
               },
               {
                 "t": "p",
-                "x": "大韓出版文化協会は、出版社との協議や需要先へのデータ供給の窓口を担う。出版データの収集・管理体制は協会が独自に運営する。"
-              },
-              {
-                "t": "p",
-                "x": "両者は出版データを活用する需要先を開拓し、取引を活性化させる計画だ。政府や公共機関が進めるAIデータ関連事業への共同参加も目指す。"
-              },
-              {
-                "t": "p",
-                "x": "Flittoのイ・ジョンス代表は「高度化した当社のデータ技術力をもとに、著作権者とAI産業がともに成長する健全な国家AIデータインフラの確立に積極的に貢献したい」と述べた。"
+                "x": "Simon Youngは、Doncasterを拠点とする英国（UK）のアンサーエンジン最適化（AEO）エージェンシー、Question.Marketingの創業者だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Flitto将出版作品\n作为AI训练数据供应",
-          "body": "Flitto与大韩出版文化协会联手，着手打造AI训练用出版数据供应与交易市场。",
-          "mini_headline": "Flitto AI出版数据",
+          "headline": "让AI聊天机器人\n把读者带进书店",
+          "body": "Simon Young教书店让ChatGPT、Gemini、Perplexity推荐自己。",
+          "mini_headline": "让AI为你引来读者",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Flitto着手建立数据供应体系，让出版作品可用于人工智能（AI）训练。"
-              },
-              {
-                "t": "p",
-                "x": "Flitto于9日表示，已于4日与大韩出版文化协会签署业务协议，共同打造AI训练用出版数据的供应和交易市场。协议的核心是将协会的出版数据供应能力与Flitto的数据清洗、加工技术相结合。"
-              },
-              {
-                "t": "p",
-                "x": "出版数据的供应条件及是否签订单独合同，将以相关作品的著作权人和出版权人同意为前提来确定。具体业务范围、推进程序和报酬将在今后各项业务的合同中商定。"
-              },
-              {
                 "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/09/2b121073d396ca3cb7b643a2debfe25c.jpg",
-                "cap": "4日，在钟路区大韩出版文化协会大礼堂举行的业务协议签署仪式上，Flitto首席数据官Kim Jin-gu（右）与大韩出版文化协会会长Kim Tae-heon合影留念。（图片=Flitto）"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/684/Bookshop-c-Shutterstock.jpg",
+                "cap": "书店 c Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Flitto提供将出版数据加工成可用于AI训练的形式并验证其质量的技术，还提供计算基础设施和安全环境，确保数据得到安全处理。"
+                "x": "AI正在改变人们发现图书的方式——书店究竟能做些什么？Simon Young写道，当读者向ChatGPT、Gemini或Perplexity询问在哪里买书时，要确保他们得到的答案是你的书店。"
               },
               {
                 "t": "p",
-                "x": "大韩出版文化协会负责与出版社协商，并作为向需求方供应数据的窗口。出版数据的收集和管理体系由协会独立运营。"
-              },
-              {
-                "t": "p",
-                "x": "双方计划发掘使用出版数据的需求方，推动交易活跃。双方还将共同参与政府和公共机构推进的AI数据相关项目。"
-              },
-              {
-                "t": "p",
-                "x": "Flitto代表Lee Jung-soo表示：“我们将以先进的数据技术为基础，积极助力建立著作权人与AI产业共同成长的健康国家AI数据基础设施。”"
+                "x": "Simon Young是Question.Marketing的创始人，这是一家位于Doncaster的英国（UK）答案引擎优化（AEO）机构。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Flitto ofrecerá obras editadas\ncomo datos de entrenamiento AI",
-          "body": "Flitto y la Asociación Coreana de Editores crearán un mercado de suministro y comercio de datos editoriales para AI.",
-          "mini_headline": "Flitto: datos editoriales para AI",
+          "headline": "Que los chatbots de AI lleven\nlectores a tu librería",
+          "body": "Simon Young expone pasos para que los libreros logren que ChatGPT, Gemini y Perplexity les envíen lectores.",
+          "mini_headline": "Que la AI te envíe lectores",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Flitto ha comenzado a crear un sistema de suministro de datos para que las obras publicadas puedan usarse en el entrenamiento de inteligencia artificial (AI)."
+                "t": "img",
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/684/Bookshop-c-Shutterstock.jpg",
+                "cap": "Librería c Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Flitto anunció el día 9 que el día 4 firmó un acuerdo de colaboración con la Asociación Coreana de Editores para crear un mercado de suministro y comercio de datos editoriales para entrenar AI. El núcleo del acuerdo es combinar la capacidad de la asociación para suministrar datos editoriales con la tecnología de depuración y procesamiento de datos de Flitto."
+                "x": "La AI está cambiando la forma de descubrir libros: esto es lo que los libreros pueden hacer de verdad. Cuando un lector pregunte a ChatGPT, Gemini o Perplexity dónde comprar un libro, asegúrese de que la respuesta sea su librería, escribe Simon Young."
               },
               {
                 "t": "p",
-                "x": "Las condiciones de suministro de los datos editoriales y la firma de contratos individuales se decidirán con el consentimiento previo de los titulares de los derechos de autor y de edición de cada obra. El alcance concreto del negocio, los procedimientos y la contraprestación se fijarán en futuros contratos por proyecto."
-              },
+                "x": "Simon Young es el fundador de Question.Marketing, una agencia del Reino Unido (UK) de optimización para motores de respuesta (AEO), con sede en Doncaster."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 챗봇이 독자를\n내 서점으로 보내려면",
+          "body": "AI 챗봇이 독자를 서점으로 안내하게 하는 법을 Simon Young이 짚었다.",
+          "mini_headline": "독자를 내 서점으로 보내는 AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/09/2b121073d396ca3cb7b643a2debfe25c.jpg",
-                "cap": "Kim Jin-gu, director de datos de Flitto (derecha), y Kim Tae-heon, presidente de la Asociación Coreana de Editores, posan para una foto en la ceremonia de firma del acuerdo celebrada el día 4 en el auditorio de la asociación, en el distrito de Jongno. (Foto=Flitto)"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/684/Bookshop-c-Shutterstock.jpg",
+                "cap": "서점(Bookshop) c Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Flitto aporta tecnología para procesar los datos editoriales en un formato apto para el entrenamiento de AI y verificar su calidad. También ofrece infraestructura informática y un entorno de seguridad para que los datos se traten de forma segura."
+                "x": "AI가 독자의 책 찾는 방식을 바꾸고 있다. 서점이 실제로 할 수 있는 일을 짚는다. Simon Young은 독자가 ChatGPT, Gemini, Perplexity에 책을 어디서 사면 되느냐고 물을 때 그 답에 당신 서점이 나오게 하라고 말한다."
               },
               {
                 "t": "p",
-                "x": "La Asociación Coreana de Editores hará de ventanilla para negociar con las editoriales y suministrar datos a los demandantes. La asociación gestiona de forma independiente el sistema de recopilación y administración de datos editoriales."
-              },
-              {
-                "t": "p",
-                "x": "Ambas partes planean encontrar demandantes que utilicen datos editoriales y dinamizar las transacciones. También buscarán participar conjuntamente en proyectos de datos de AI impulsados por el Gobierno y organismos públicos."
-              },
-              {
-                "t": "p",
-                "x": "Lee Jung-soo, director ejecutivo de Flitto, afirmó: \"Con nuestra avanzada tecnología de datos, contribuiremos activamente a establecer una infraestructura nacional de datos de AI sana en la que los titulares de derechos de autor y la industria de la AI crezcan juntos\"."
+                "x": "Simon Young은 Question.Marketing을 세웠다. Doncaster에 있는 UK 답변 엔진 최적화(answer engine optimisation, AEO) 에이전시다."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Flitto turns published works\ninto AI training data",
-          "body": "Flitto and the Korean Publishers Association will build a market to supply and trade publishing data for AI training.",
-          "mini_headline": "Flitto AI publishing data",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Flitto has begun building a data supply system so that published works can be used for artificial intelligence (AI) training."
-              },
-              {
-                "t": "p",
-                "x": "Flitto said on the 9th that it signed a business agreement with the Korean Publishers Association on the 4th to create a market for supplying and trading publishing data for AI training. The core of the agreement is combining the association's publishing data supply capabilities with Flitto's data refining and processing technology."
-              },
-              {
-                "t": "p",
-                "x": "Supply conditions for publishing data and whether to sign individual contracts will be determined on the premise of consent from the copyright holders and publishing rights holders of the works concerned. The specific business scope, procedures and compensation will be set in future contracts for each project."
-              },
-              {
-                "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/09/2b121073d396ca3cb7b643a2debfe25c.jpg",
-                "cap": "Flitto Chief Data Officer Kim Jin-gu (right) and Korean Publishers Association President Kim Tae-heon pose for a photo at the business agreement ceremony held on the 4th in the main auditorium of the Korean Publishers Association in Jongno-gu. (Photo=Flitto)"
-              },
-              {
-                "t": "p",
-                "x": "Flitto supports technology to process publishing data into a form usable for AI training and to verify its quality. It also provides computing infrastructure and a security environment so the data can be handled safely."
-              },
-              {
-                "t": "p",
-                "x": "The Korean Publishers Association serves as the channel that consults with publishers and supplies data to buyers. The association independently operates the system for collecting and managing publishing data."
-              },
-              {
-                "t": "p",
-                "x": "The two sides plan to find buyers that will use publishing data and to boost transactions. They will also seek to jointly take part in AI data projects run by the government and public institutions."
-              },
-              {
-                "t": "p",
-                "x": "Flitto chief executive Lee Jung-soo said, \"Based on our advanced data technology, we will actively contribute to establishing a healthy national AI data infrastructure in which copyright holders and the AI industry grow together.\""
-              }
-            ]
-          }
-        },
         "ja": {
-          "headline": "Flitto、出版物を\nAI学習データとして供給",
-          "body": "Flittoが大韓出版文化協会とAI学習用出版データの供給・取引市場づくりに乗り出した。",
-          "mini_headline": "Flitto AI出版データ",
+          "headline": "AIチャットボットに\n読者を書店へ導かせる",
+          "body": "Simon Youngが書店のChatGPT・Gemini・Perplexity対策を説く。",
+          "mini_headline": "AIに読者を送らせる",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Flittoが、出版物を人工知能(AI)の学習に活用できるよう、データ供給体制の整備に乗り出した。"
-              },
-              {
-                "t": "p",
-                "x": "Flittoは9日、大韓出版文化協会と4日にAI学習用出版データの供給・取引市場づくりに向けた業務協約を結んだと明らかにした。協会が持つ出版データの供給力と、Flittoのデータ精製・加工技術を組み合わせることが協約の柱だ。"
-              },
-              {
-                "t": "p",
-                "x": "出版データの供給条件や個別契約を結ぶかどうかは、当該著作物の著作権者と出版権者の同意を前提に決める。具体的な事業範囲や推進手続き、対価は今後の事業ごとの契約で定める。"
-              },
-              {
                 "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/09/2b121073d396ca3cb7b643a2debfe25c.jpg",
-                "cap": "4日、鍾路区の大韓出版文化協会大講堂で行われた業務協約式で、Flittoの最高データ責任者キム・ジング氏(右)と大韓出版文化協会のキム・テホン会長が記念撮影をしている。(写真=Flitto)"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/684/Bookshop-c-Shutterstock.jpg",
+                "cap": "書店 c Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Flittoは、出版データをAI学習に使える形に加工し、品質を検証する技術を提供する。データを安全に処理できるよう、コンピューティングインフラとセキュリティ環境も提供する。"
+                "x": "AIが本の見つけ方を変えている。では書店は実際に何ができるのか。読者がChatGPT、Gemini、Perplexityに本をどこで買えばよいか尋ねたとき、自分の店が答えとして返ってくるようにせよ、とSimon Youngは書く。"
               },
               {
                 "t": "p",
-                "x": "大韓出版文化協会は、出版社との協議や需要先へのデータ供給の窓口を担う。出版データの収集・管理体制は協会が独自に運営する。"
-              },
-              {
-                "t": "p",
-                "x": "両者は出版データを活用する需要先を開拓し、取引を活性化させる計画だ。政府や公共機関が進めるAIデータ関連事業への共同参加も目指す。"
-              },
-              {
-                "t": "p",
-                "x": "Flittoのイ・ジョンス代表は「高度化した当社のデータ技術力をもとに、著作権者とAI産業がともに成長する健全な国家AIデータインフラの確立に積極的に貢献したい」と述べた。"
+                "x": "Simon Youngは、Doncasterを拠点とする英国（UK）のアンサーエンジン最適化（AEO）エージェンシー、Question.Marketingの創業者だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Flitto将出版作品\n作为AI训练数据供应",
-          "body": "Flitto与大韩出版文化协会联手，着手打造AI训练用出版数据供应与交易市场。",
-          "mini_headline": "Flitto AI出版数据",
+          "headline": "让AI聊天机器人\n把读者带进书店",
+          "body": "Simon Young教书店让ChatGPT、Gemini、Perplexity推荐自己。",
+          "mini_headline": "让AI为你引来读者",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Flitto着手建立数据供应体系，让出版作品可用于人工智能（AI）训练。"
-              },
-              {
-                "t": "p",
-                "x": "Flitto于9日表示，已于4日与大韩出版文化协会签署业务协议，共同打造AI训练用出版数据的供应和交易市场。协议的核心是将协会的出版数据供应能力与Flitto的数据清洗、加工技术相结合。"
-              },
-              {
-                "t": "p",
-                "x": "出版数据的供应条件及是否签订单独合同，将以相关作品的著作权人和出版权人同意为前提来确定。具体业务范围、推进程序和报酬将在今后各项业务的合同中商定。"
-              },
-              {
                 "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/09/2b121073d396ca3cb7b643a2debfe25c.jpg",
-                "cap": "4日，在钟路区大韩出版文化协会大礼堂举行的业务协议签署仪式上，Flitto首席数据官Kim Jin-gu（右）与大韩出版文化协会会长Kim Tae-heon合影留念。（图片=Flitto）"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/684/Bookshop-c-Shutterstock.jpg",
+                "cap": "书店 c Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Flitto提供将出版数据加工成可用于AI训练的形式并验证其质量的技术，还提供计算基础设施和安全环境，确保数据得到安全处理。"
+                "x": "AI正在改变人们发现图书的方式——书店究竟能做些什么？Simon Young写道，当读者向ChatGPT、Gemini或Perplexity询问在哪里买书时，要确保他们得到的答案是你的书店。"
               },
               {
                 "t": "p",
-                "x": "大韩出版文化协会负责与出版社协商，并作为向需求方供应数据的窗口。出版数据的收集和管理体系由协会独立运营。"
-              },
-              {
-                "t": "p",
-                "x": "双方计划发掘使用出版数据的需求方，推动交易活跃。双方还将共同参与政府和公共机构推进的AI数据相关项目。"
-              },
-              {
-                "t": "p",
-                "x": "Flitto代表Lee Jung-soo表示：“我们将以先进的数据技术为基础，积极助力建立著作权人与AI产业共同成长的健康国家AI数据基础设施。”"
+                "x": "Simon Young是Question.Marketing的创始人，这是一家位于Doncaster的英国（UK）答案引擎优化（AEO）机构。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Flitto ofrecerá obras editadas\ncomo datos de entrenamiento AI",
-          "body": "Flitto y la Asociación Coreana de Editores crearán un mercado de suministro y comercio de datos editoriales para AI.",
-          "mini_headline": "Flitto: datos editoriales para AI",
+          "headline": "Que los chatbots de AI lleven\nlectores a tu librería",
+          "body": "Simon Young expone pasos para que los libreros logren que ChatGPT, Gemini y Perplexity les envíen lectores.",
+          "mini_headline": "Que la AI te envíe lectores",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Flitto ha comenzado a crear un sistema de suministro de datos para que las obras publicadas puedan usarse en el entrenamiento de inteligencia artificial (AI)."
+                "t": "img",
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/684/Bookshop-c-Shutterstock.jpg",
+                "cap": "Librería c Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Flitto anunció el día 9 que el día 4 firmó un acuerdo de colaboración con la Asociación Coreana de Editores para crear un mercado de suministro y comercio de datos editoriales para entrenar AI. El núcleo del acuerdo es combinar la capacidad de la asociación para suministrar datos editoriales con la tecnología de depuración y procesamiento de datos de Flitto."
+                "x": "La AI está cambiando la forma de descubrir libros: esto es lo que los libreros pueden hacer de verdad. Cuando un lector pregunte a ChatGPT, Gemini o Perplexity dónde comprar un libro, asegúrese de que la respuesta sea su librería, escribe Simon Young."
               },
               {
                 "t": "p",
-                "x": "Las condiciones de suministro de los datos editoriales y la firma de contratos individuales se decidirán con el consentimiento previo de los titulares de los derechos de autor y de edición de cada obra. El alcance concreto del negocio, los procedimientos y la contraprestación se fijarán en futuros contratos por proyecto."
-              },
+                "x": "Simon Young es el fundador de Question.Marketing, una agencia del Reino Unido (UK) de optimización para motores de respuesta (AEO), con sede en Doncaster."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 챗봇이 독자를\n서점으로 보내는 법",
+          "body": "Simon Young은 AI 챗봇이 독자를 서점으로 이끌게 할 방법을 정리했다.",
+          "mini_headline": "AI가 독자를 내 서점으로 보내게",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/09/2b121073d396ca3cb7b643a2debfe25c.jpg",
-                "cap": "Kim Jin-gu, director de datos de Flitto (derecha), y Kim Tae-heon, presidente de la Asociación Coreana de Editores, posan para una foto en la ceremonia de firma del acuerdo celebrada el día 4 en el auditorio de la asociación, en el distrito de Jongno. (Foto=Flitto)"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/684/Bookshop-c-Shutterstock.jpg",
+                "cap": "서점(Bookshop) c Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Flitto aporta tecnología para procesar los datos editoriales en un formato apto para el entrenamiento de AI y verificar su calidad. También ofrece infraestructura informática y un entorno de seguridad para que los datos se traten de forma segura."
+                "x": "AI가 책을 발견하는 방식을 바꾸고 있다. 서점이 실제로 할 수 있는 일은 이렇다. 독자가 ChatGPT, Gemini, Perplexity에 책을 어디서 사야 하는지 물을 때 당신의 서점이 답으로 나오게 하라고 Simon Young은 쓴다."
               },
               {
                 "t": "p",
-                "x": "La Asociación Coreana de Editores hará de ventanilla para negociar con las editoriales y suministrar datos a los demandantes. La asociación gestiona de forma independiente el sistema de recopilación y administración de datos editoriales."
-              },
-              {
-                "t": "p",
-                "x": "Ambas partes planean encontrar demandantes que utilicen datos editoriales y dinamizar las transacciones. También buscarán participar conjuntamente en proyectos de datos de AI impulsados por el Gobierno y organismos públicos."
-              },
-              {
-                "t": "p",
-                "x": "Lee Jung-soo, director ejecutivo de Flitto, afirmó: \"Con nuestra avanzada tecnología de datos, contribuiremos activamente a establecer una infraestructura nacional de datos de AI sana en la que los titulares de derechos de autor y la industria de la AI crezcan juntos\"."
+                "x": "Simon Young은 Doncaster에 있는 UK 답변 엔진 최적화(answer engine optimisation, AEO) 에이전시 Question.Marketing의 창립자다."
               }
             ]
           }

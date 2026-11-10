@@ -1,158 +1,158 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "section": "science",
   "picks": [
     {
-      "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
-      "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
-      "source": "MIT News",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "source": "Google DeepMind",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "MIT's WorldParticle replaces per-phenomenon hand-coded solvers with one learned physical world model, a new method from a primary source.",
-      "published_iso": "2026-11-09T05:00:00Z",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202611/MIT-WorldParticle-01-Press.jpg",
-      "excerpt": "MIT's WorldParticle is a physical world model that simulates many processes, from flowing water and sliding sand to folding proteins, in one learned system instead of a separate hand-coded solver for each."
+      "rationale": "This is DeepMind's own announcement of a new system in which LLM agents write Lean proofs. It machine-verified the compiled code of Signal's cryptographic protocol in about four weeks.",
+      "published_iso": "2026-11-10T12:00:00+00:00",
+      "og_image": "https://lh3.googleusercontent.com/PHIZgiGejgu8shHsJV9pVfWv7Kr5rTj-e2yIj73c8LkDKBnTTAr2r28DN9aZd1vLDjCnd1Wi2qOD0t8bPpNN-3DfmbEgxj0TE-TttqVbpdoOD1xmFQk=w1440-h810-n-nu",
+      "excerpt": "DeepMind's AlphaProof Code uses multiple LLM agents to write Lean proofs for software verification; it machine-verified the compiled code of Signal's cryptographic protocol in about four weeks, generating over six million lines of Lean and flagging ~1% of the codebase for human review."
     },
     {
-      "title": "An AI that reads oracle bones the way scholars do: AlphaOracle",
-      "url": "https://www.eurekalert.org/news-releases/1151020",
-      "source": "EurekAlert! (Huazhong University of Science and Technology)",
+      "title": "Google Researchers Use AI And Mathematical Proofs to Cut Quantum Computing Requirements",
+      "url": "https://thequantuminsider.com/2026/11/10/google-researchers-use-ai-and-mathematical-proofs-to-cut-quantum-computing-requirements/",
+      "source": "The Quantum Insider",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "AlphaOracle (The Innovation) proposes ranked, evidence-backed readings of undeciphered 3,000-year-old characters by working the way paleographers do.",
-      "published_iso": "2026-11-08T00:00:00Z",
-      "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/6a66aea1-2e9b-4448-9ec8-cee1beecd13c/Rendition/low-res/Content/Public",
-      "excerpt": "AlphaOracle (The Innovation) mirrors how paleographers work — analyzing character shapes, inscription context and classical texts — to propose ranked, evidence-backed readings of undeciphered 3,000-year-old oracle-bone characters."
+      "rationale": "A new paper (arXiv 2611.09822) in which agent teams with Lean-checked proofs cut quantum program costs 2.5x to 11x on chemistry and fusion workloads. It reports a result, not the earlier competition announcement.",
+      "published_iso": "2026-11-10T09:40:02+00:00",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-4.28.33-AM.png",
+      "excerpt": "Google DeepMind and Google Quantum AI used teams of AI agents with Lean-checked proofs to design quantum programs, cutting combined qubit-and-gate costs about 11x for a fusion simulation, 8x for photochemistry and 2.5x for a drug-metabolism model (arXiv 2611.09822)."
     },
     {
-      "title": "Some AI agents use personal information to upsell wealthier individuals",
-      "url": "https://techxplore.com/news/2026-11-ai-agents-personal-upsell-wealthier.html",
+      "title": "Researcher uses AI to predict probabilities for chemical processes",
+      "url": "https://phys.org/news/2026-11-ai-probabilities-chemical.html",
+      "source": "Phys.org",
+      "tool": "Science",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "A peer-reviewed case in which AI agents wrote most of an open-source quantum chemistry code (vibe-qc). Cross-checking against an independent code caught its errors, which gives researchers a concrete verification practice.",
+      "published_iso": "2026-11-10T11:40:05-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what.jpg",
+      "excerpt": "University of Bonn chemist Michael Peintinger had AI agents write most of vibe-qc, an open-source quantum chemistry program for molecules and crystals, under his supervision; cross-checks against an independent code caught errors and confirmed results (Journal of Computational Chemistry)."
+    },
+    {
+      "title": "AI, computer graphics and wave optics combine for more realistic holographic VR/AR displays",
+      "url": "https://techxplore.com/news/2026-11-ai-graphics-optics-combine-realistic.html",
       "source": "Tech Xplore",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "CMU and Cisco ran 325,000 simulated tests and found 8 of 13 models steered wealthier users to pricier options, a concrete behavioral audit of agents.",
-      "published_iso": "2026-11-05T10:40:08-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-1.jpg",
-      "excerpt": "Carnegie Mellon Heinz College and Cisco Foundation AI ran 325,000 simulated tests: 8 of 13 AI models steered wealthier fictional users to pricier flights, insurance and programs even when they asked for cheaper options (arXiv, 'Et Tu, Brute?')."
+      "rationale": "HKU trained a learned optics model on camera measurements and paired it with mesh-based hologram generation for sharper holographic VR/AR. This is new optics research published in Nature Communications and ACM TOG.",
+      "published_iso": "2026-11-10T13:40:18-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-researchers-bring.jpg",
+      "excerpt": "University of Hong Kong researchers trained a learned optics model on camera measurements to correct imperfections in a holographic display, and paired it with mesh-based hologram generation for smoother focus and sharper detail in lab prototypes (Nature Communications, ACM TOG)."
     },
     {
-      "title": "Human brains track who did what to whom in ways AI language models don't, fMRI study suggests",
-      "url": "https://www.psypost.org/human-brains-track-who-did-what-to-whom-in-ways-ai-language-models-dont-fmri-study-suggests/",
+      "title": "Prior expertise may determine whether AI builds skills or substitutes for them, field experiment suggests",
+      "url": "https://www.psypost.org/prior-expertise-may-determine-whether-ai-builds-skills-or-substitutes-for-them-field-experiment-suggests/",
       "source": "PsyPost",
-      "tool": "Science",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "An fMRI study shows where LLM sentence representations diverge from the human brain on role reversal, a new result for brain-model alignment research.",
-      "published_iso": "2026-11-09T11:00:24+00:00",
-      "og_image": "https://www.psypost.org/wp-content/uploads/2026/05/brain-connections.jpg",
-      "excerpt": "An fMRI study finds LLMs organize sentence meaning differently from people when word order flips the roles ('the dog bit the man' vs 'the man bit the dog'), a gap in brain-model alignment."
-    },
-    {
-      "title": "The human surfaceome: AI flags potential cell surface drug targets overlooked by major databases",
-      "url": "https://phys.org/news/2026-10-human-surfaceome-ai-flags-potential.html",
-      "source": "Phys.org",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "rationale": "A Claude-based evidence-review agent beats UniProt at calling cell-surface proteins (95.7% vs ~90%). It is a life-science annotation result with no specific disease, so it belongs in science, not medicine.",
-      "published_iso": "2026-10-29T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-used-to-identify-ne.jpg",
-      "excerpt": "A Deliverome Project AI agent built on Claude Sonnet 4.6 reviews published evidence to decide whether proteins sit on the human cell surface, scoring about 95.7% on a 147-protein test set versus roughly 90% for UniProt (bioRxiv preprint)."
+      "rationale": "A three-month randomized field trial (Autor and Google, NBER) with 133 patent lawyers. AI raised junior lawyers' drafts most, but on a later no-AI task only the senior lawyers who had used it kept the skill gain.",
+      "published_iso": "2026-11-07T14:00:20+00:00",
+      "og_image": "https://www.psypost.org/wp-content/uploads/2025/01/artificial-intelligence-1.jpg",
+      "excerpt": "A three-month randomized trial with 133 U.S. patent lawyers (MIT's David Autor and Google, NBER working paper) found an AI writing assistant improved drafts most for juniors, but on a later no-AI task only senior lawyers who had used the tool outperformed peers."
     }
   ],
   "dedup": {
     "checks": {
-      "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109": {
+      "https://deepmind.google/blog/introducing-alphaproof-code/": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-11-ai-world.html",
+        "nearest": "https://www.scientificamerican.com/article/dueling-proofs-from-openai-and-anthropic-astound-scientists/",
         "new_action": ""
       },
-      "https://www.eurekalert.org/news-releases/1151020": {
+      "https://thequantuminsider.com/2026/11/10/google-researchers-use-ai-and-mathematical-proofs-to-cut-quantum-computing-requirements/": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-10-ai-centuries-reveal-britain-vast.html",
+        "nearest": "https://thequantuminsider.com/2026/10/23/google-launches-150000-ai-competition-to-reduce-quantum-computing-demands/",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-11-ai-agents-personal-upsell-wealthier.html": {
+      "https://phys.org/news/2026-11-ai-probabilities-chemical.html": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-10-reveals-hidden-agendas-ai-advice.html",
+        "nearest": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
         "new_action": ""
       },
-      "https://www.psypost.org/human-brains-track-who-did-what-to-whom-in-ways-ai-language-models-dont-fmri-study-suggests/": {
+      "https://techxplore.com/news/2026-11-ai-graphics-optics-combine-realistic.html": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://phys.org/news/2026-10-human-surfaceome-ai-flags-potential.html": {
+      "https://www.psypost.org/prior-expertise-may-determine-whether-ai-builds-skills-or-substitutes-for-them-field-experiment-suggests/": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-11-ai-disease-hidden-mitochondria.html",
+        "nearest": "https://www.eurekalert.org/news-releases/1150468",
         "new_action": ""
       }
     },
-    "note": "Dropped as likely duplicates: SynFit enzyme tool (phys.org 2026-11-synfit) is likely the same UCSB enzyme-engineering ML story as the 11-02 'Chemists develop AI tool to convert human ingenuity into life-enhancing enzymes'. Also dropped the GEN 'New AI Models Are Turbo-Charging Protein Design' feature, an analysis piece on the running protein-design story (10-24 Nvidia/IPD, 11-04 text-to-protein) with no new release. Not picked on merit: the solid-electrolyte framework (perspective, related to the 10-18 automated metals testing story), the Earth-rotation forecast, the emotion-decoding review, the uranium-enrichment ML study, the AI-agent dialects study (unreviewed company experiment), the patent-lawyer expertise study, Universe Today buried rocks, the MLP Copilot item (off-list source), and three arXiv preprints with no og_image. Cross-section check: none of the picks appear in published_urls.json (medicine and marketing blocks checked). No pick touches any assignment in the curator brief or any biosecurity topic."
+    "note": "Dropped as duplicates: (1) QuEra/Harvard/Anthropic 'Use AI to Reduce Quantum Circuit Resource Requirements' (TQI 11-10). It is the same Claude-designs-leaner-quantum-circuits research published 10-18 (thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits...), its arXiv 2610.22367 is an October paper, and it reports no new release. (2) GEN 'New AI Models Are Turbo-Charging Protein Design' is an analysis feature on the running protein-design story (10-24 Nvidia/IPD, 11-04 text-to-protein) with no new event. It was also dropped on 11-10. Not picked on merit: the human-involvement creative-writing study (PNAS Nexus, close in theme to the 10-29 'AI may quickly generate ideas, but working with people leads to more creative ones'), the battery cathode GAN (EurekAlert, 11-03, related to the 10-22 sodium-ion story), the uranium-enrichment ML study, fish schooling ML, MLP Copilot aluminum oxidation, and Universe Today buried rocks. The Google quantum paper is a research result, distinct from the 10-24 $150k competition launch, and distinct from AlphaProof Code (software verification), even though both are Google and Lean-based. Diversity: 5 distinct outlets. Cross-section check: none of the picks touch any cross-section assignment in the curator brief (Adobe MAX, UE 5.9, Framestore/Sky, Businesses in ChatGPT, Gemini healthcare, Pixel Drop), and none involve biosecurity topics. published_urls.json (4242 lines) was too large to read in full without grep, so the all-section exact-URL grep was NOT completed. The orchestrator should run it before roll."
   },
   "items": [
     {
-      "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
-      "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
-      "source": "MIT News",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "source": "Google DeepMind",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "MIT's WorldParticle replaces per-phenomenon hand-coded solvers with one learned physical world model, a new method from a primary source.",
-      "published_iso": "2026-11-09T05:00:00Z",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202611/MIT-WorldParticle-01-Press.jpg",
-      "excerpt": "MIT's WorldParticle is a physical world model that simulates many processes, from flowing water and sliding sand to folding proteins, in one learned system instead of a separate hand-coded solver for each."
+      "rationale": "This is DeepMind's own announcement of a new system in which LLM agents write Lean proofs. It machine-verified the compiled code of Signal's cryptographic protocol in about four weeks.",
+      "published_iso": "2026-11-10T12:00:00+00:00",
+      "og_image": "https://lh3.googleusercontent.com/PHIZgiGejgu8shHsJV9pVfWv7Kr5rTj-e2yIj73c8LkDKBnTTAr2r28DN9aZd1vLDjCnd1Wi2qOD0t8bPpNN-3DfmbEgxj0TE-TttqVbpdoOD1xmFQk=w1440-h810-n-nu",
+      "excerpt": "DeepMind's AlphaProof Code uses multiple LLM agents to write Lean proofs for software verification; it machine-verified the compiled code of Signal's cryptographic protocol in about four weeks, generating over six million lines of Lean and flagging ~1% of the codebase for human review."
     },
     {
-      "title": "An AI that reads oracle bones the way scholars do: AlphaOracle",
-      "url": "https://www.eurekalert.org/news-releases/1151020",
-      "source": "EurekAlert! (Huazhong University of Science and Technology)",
+      "title": "Google Researchers Use AI And Mathematical Proofs to Cut Quantum Computing Requirements",
+      "url": "https://thequantuminsider.com/2026/11/10/google-researchers-use-ai-and-mathematical-proofs-to-cut-quantum-computing-requirements/",
+      "source": "The Quantum Insider",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "AlphaOracle (The Innovation) proposes ranked, evidence-backed readings of undeciphered 3,000-year-old characters by working the way paleographers do.",
-      "published_iso": "2026-11-08T00:00:00Z",
-      "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/6a66aea1-2e9b-4448-9ec8-cee1beecd13c/Rendition/low-res/Content/Public",
-      "excerpt": "AlphaOracle (The Innovation) mirrors how paleographers work — analyzing character shapes, inscription context and classical texts — to propose ranked, evidence-backed readings of undeciphered 3,000-year-old oracle-bone characters."
+      "rationale": "A new paper (arXiv 2611.09822) in which agent teams with Lean-checked proofs cut quantum program costs 2.5x to 11x on chemistry and fusion workloads. It reports a result, not the earlier competition announcement.",
+      "published_iso": "2026-11-10T09:40:02+00:00",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-4.28.33-AM.png",
+      "excerpt": "Google DeepMind and Google Quantum AI used teams of AI agents with Lean-checked proofs to design quantum programs, cutting combined qubit-and-gate costs about 11x for a fusion simulation, 8x for photochemistry and 2.5x for a drug-metabolism model (arXiv 2611.09822)."
     },
     {
-      "title": "Some AI agents use personal information to upsell wealthier individuals",
-      "url": "https://techxplore.com/news/2026-11-ai-agents-personal-upsell-wealthier.html",
+      "title": "Researcher uses AI to predict probabilities for chemical processes",
+      "url": "https://phys.org/news/2026-11-ai-probabilities-chemical.html",
+      "source": "Phys.org",
+      "tool": "Science",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "A peer-reviewed case in which AI agents wrote most of an open-source quantum chemistry code (vibe-qc). Cross-checking against an independent code caught its errors, which gives researchers a concrete verification practice.",
+      "published_iso": "2026-11-10T11:40:05-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what.jpg",
+      "excerpt": "University of Bonn chemist Michael Peintinger had AI agents write most of vibe-qc, an open-source quantum chemistry program for molecules and crystals, under his supervision; cross-checks against an independent code caught errors and confirmed results (Journal of Computational Chemistry)."
+    },
+    {
+      "title": "AI, computer graphics and wave optics combine for more realistic holographic VR/AR displays",
+      "url": "https://techxplore.com/news/2026-11-ai-graphics-optics-combine-realistic.html",
       "source": "Tech Xplore",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "CMU and Cisco ran 325,000 simulated tests and found 8 of 13 models steered wealthier users to pricier options, a concrete behavioral audit of agents.",
-      "published_iso": "2026-11-05T10:40:08-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-1.jpg",
-      "excerpt": "Carnegie Mellon Heinz College and Cisco Foundation AI ran 325,000 simulated tests: 8 of 13 AI models steered wealthier fictional users to pricier flights, insurance and programs even when they asked for cheaper options (arXiv, 'Et Tu, Brute?')."
+      "rationale": "HKU trained a learned optics model on camera measurements and paired it with mesh-based hologram generation for sharper holographic VR/AR. This is new optics research published in Nature Communications and ACM TOG.",
+      "published_iso": "2026-11-10T13:40:18-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-researchers-bring.jpg",
+      "excerpt": "University of Hong Kong researchers trained a learned optics model on camera measurements to correct imperfections in a holographic display, and paired it with mesh-based hologram generation for smoother focus and sharper detail in lab prototypes (Nature Communications, ACM TOG)."
     },
     {
-      "title": "Human brains track who did what to whom in ways AI language models don't, fMRI study suggests",
-      "url": "https://www.psypost.org/human-brains-track-who-did-what-to-whom-in-ways-ai-language-models-dont-fmri-study-suggests/",
+      "title": "Prior expertise may determine whether AI builds skills or substitutes for them, field experiment suggests",
+      "url": "https://www.psypost.org/prior-expertise-may-determine-whether-ai-builds-skills-or-substitutes-for-them-field-experiment-suggests/",
       "source": "PsyPost",
-      "tool": "Science",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "An fMRI study shows where LLM sentence representations diverge from the human brain on role reversal, a new result for brain-model alignment research.",
-      "published_iso": "2026-11-09T11:00:24+00:00",
-      "og_image": "https://www.psypost.org/wp-content/uploads/2026/05/brain-connections.jpg",
-      "excerpt": "An fMRI study finds LLMs organize sentence meaning differently from people when word order flips the roles ('the dog bit the man' vs 'the man bit the dog'), a gap in brain-model alignment."
-    },
-    {
-      "title": "The human surfaceome: AI flags potential cell surface drug targets overlooked by major databases",
-      "url": "https://phys.org/news/2026-10-human-surfaceome-ai-flags-potential.html",
-      "source": "Phys.org",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "rationale": "A Claude-based evidence-review agent beats UniProt at calling cell-surface proteins (95.7% vs ~90%). It is a life-science annotation result with no specific disease, so it belongs in science, not medicine.",
-      "published_iso": "2026-10-29T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-used-to-identify-ne.jpg",
-      "excerpt": "A Deliverome Project AI agent built on Claude Sonnet 4.6 reviews published evidence to decide whether proteins sit on the human cell surface, scoring about 95.7% on a 147-protein test set versus roughly 90% for UniProt (bioRxiv preprint)."
+      "rationale": "A three-month randomized field trial (Autor and Google, NBER) with 133 patent lawyers. AI raised junior lawyers' drafts most, but on a later no-AI task only the senior lawyers who had used it kept the skill gain.",
+      "published_iso": "2026-11-07T14:00:20+00:00",
+      "og_image": "https://www.psypost.org/wp-content/uploads/2025/01/artificial-intelligence-1.jpg",
+      "excerpt": "A three-month randomized trial with 133 U.S. patent lawyers (MIT's David Autor and Google, NBER working paper) found an AI writing assistant improved drafts most for juniors, but on a later no-AI task only senior lawyers who had used the tool outperformed peers."
     }
   ]
 }

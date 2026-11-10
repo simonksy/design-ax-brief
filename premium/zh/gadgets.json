@@ -10779,6 +10779,161 @@
           "x": "悬而未决的是Alexa+。On-Screen Intelligence功能可让Alexa+查看屏幕内容并据此操作，它需要用户主动开启，默认关闭，运行时屏幕上会显示指示标识。首批评测称赞硬件和屏幕，并指出多任务处理是短板。"
         }
       ]
+    },
+    "gadgets/ring-ai-drone-rover-cam": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af233321b32910f5c003593/1:1/w_2560%2Cc_limit/Ring-Drone-Cam-Gear-DSC_0211.jpg",
+          "cap": "Ring推出的无人机摄像头。"
+        },
+        {
+          "t": "p",
+          "x": "Ring发布了售价250美元的Drone Cam，同时推出售价1,000美元的移动安防机器人Ring Rover Cam，用于帮助企业监控仓库和工厂。两款产品都归入公司新品牌Ring Robotics。Rover Cam将于12月16日率先上市，Drone Cam随后于1月27日推出。"
+        },
+        {
+          "t": "p",
+          "x": "这款重165克的小型无人机会从充电座升起，在家中自主飞行。Ring曾在2020年发布过一款室内安防无人机Ring Always Home Cam。增加传感器会大量消耗电力和电池，因此如今的智能全部放在云端：无人机将视频直接传到Ring的服务器，由定制的AI Pilot智能体告诉它该去哪里。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af23e3b1b32910f5c003599/master/w_1600%2Cc_limit/DSC_0198.jpg",
+          "cap": "Ring Drone Cam从充电站飞出，巡视家中。"
+        },
+        {
+          "t": "p",
+          "x": "用户无法手动操控这架无人机，但可以设置自定义飞行路线和巡逻时间表，它也会响应运动、门窗传感器发出的警报。每次充电可飞行五到八分钟，并刻意设计得很吵，这样不法分子就无法在不惊动家中人员的情况下远程窥探。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af23e3a1997f5ebb6874fc1/125:94/w_1600%2Cc_limit/DSC_0214.jpg",
+          "cap": "Rover Cam专为巡逻仓库和工厂而设计。"
+        },
+        {
+          "t": "p",
+          "x": "Rover Cam与Amazon的Astro共用大量硬件。它配备与Drone Cam相同的AI Pilot、一台可伸缩的4K 摄像头、双向对讲和警报器，覆盖面积最高可达5,000平方英尺。"
+        }
+      ]
+    },
+    "gadgets/kora-linux-ai-desktop-os": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/w_2560%2Cc_limit/gear_ai_operating_system_nerdy.jpg",
+          "cap": "一个以电脑为头的人坐在台式电脑前"
+        },
+        {
+          "t": "p",
+          "x": "CEO兼联合创始人Kirt McMaster表示，周二发布的Kora被设计为Windows或macOS之外的桌面替代方案，面向“AI原生用户，而非大众市场”。它瞄准创作者和开发者，核心理念是在系统层面整合各种AI模型。该系统计划于2027年内推出。"
+        },
+        {
+          "t": "p",
+          "x": "“你所有的上下文、所有的记忆都在你自己的机器上，”联合创始人Franck De Girolami说。他描述了这样一个项目：为节省AI token费用，从OpenAI模型切换到Anthropic的工具，再转向本地模型。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af284baa8b94cafb9dc4873/master/w_1600%2Cc_limit/Screenshot%25202026-11-09%2520at%25201.37.41%25E2%2580%25AFPM.png",
+          "cap": "Kora"
+        },
+        {
+          "t": "p",
+          "x": "Kora是一款基于Linux内核构建的独立操作系统。这家初创公司已与Qualcomm合作，计划明年将其带到Snapdragon PCs上，同时也支持x86-64。兼容层可运行标准Windows应用，而“神经文件系统”会按语义为文件数据建立索引。"
+        },
+        {
+          "t": "p",
+          "x": "McMaster曾联合创办并参与领导Cyanogen。Kora针对至少配备64GB RAM的台式机进行了优化，面向希望运行需要强大芯片算力的AI模型的高级用户。"
+        }
+      ]
+    },
+    "gadgets/deepmind-gemini-robotics-25": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-2560x1440.jpg",
+          "cap": "Apptronik Apollo 2在Mercedes-Benz工厂中使用Gemini Robotics 2.5"
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMind发布了AI-powered平台Gemini Robotics的新一代版本。该模型在200多项活动中接受了评估，Apptronik的人形机器人Apollo 2如今已能用五指手打出蝴蝶结。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Still-image-Apollo-2-ribbon-tying.png",
+          "cap": "可变形物体对机器人来说很棘手，但Gemini正在取得进展。图片来源：Google"
+        },
+        {
+          "t": "p",
+          "x": "总体而言，Gemini Robotics 2.5的成功率比上一版本高出30至100%，速度快百分之二十至三十。由Gemini驱动的Apollo 2机器人在欧洲几家工厂完成了汽车零部件配套作业，成功率达到96%。Gemini 4 Argon帮助打造了一个加速开发的“模拟引擎”。"
+        },
+        {
+          "t": "video",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Video-Apptronik-Apollo-2-at-Mercedes-Benz-opt.mp4"
+        },
+        {
+          "t": "p",
+          "x": "ASIMOV-Jailbreak是一个开源数据库，包含1,500条旨在诱骗机器人AI做出不安全行为的提示词。在Argon参与下，系统的越狱安全水平达到98.8%，而仅使用Gemini Robotics ER 2时为73.5%。Gemini Robotics 2.5现已提供给Agile Robots、Apptronik和Boston Dynamics等合作伙伴。"
+        }
+      ]
+    },
+    "gadgets/apple-mac-local-ai-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&w=1600",
+          "cap": "Mac mini"
+        },
+        {
+          "t": "p",
+          "x": "爆料者Aaron Perris发现了Apple正在开发一款名为Harbor的新Mac应用的证据，它可以让用户轻松地在一台或多台Mac上运行本地AI模型。"
+        },
+        {
+          "t": "p",
+          "x": "“Harbor可将你的Mac变成私有AI推理服务器。在Apple silicon上本地运行开放权重模型——你的数据永远不会离开你的硬件，也不会有任何内容传到云端。通过Thunderbolt 5连接多台Mac电脑以汇集统一内存，实现单台电脑即可处理的大型模型和更高的并发能力。”"
+        },
+        {
+          "t": "p",
+          "x": "主要功能包括：通过Thunderbolt 5自动检测设备，几分钟即可完成设置；在应用内浏览和下载开放权重模型；以及将两台或更多支持Thunderbolt 5的Mac组成单一推理资源的集群功能。"
+        },
+        {
+          "t": "p",
+          "x": "Harbor目前以Apple旗下Claris品牌进行非公开预览，但看起来很可能会在未来几周到几个月内向公众推出。"
+        }
+      ]
+    },
+    "gadgets/caim1-provenance-camera": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/intro-1793382637.jpg",
+          "cap": "一个棕色与棕褐色相间的3D打印Noctua相机外壳正面朝上放在棕色木桌上。"
+        },
+        {
+          "t": "p",
+          "x": "由Josh Cowell创立的CAIM1（Counter Artificial Intelligence Machine 1）正在开发一款原型相机，可将证明照片真实性的加密证据直接嵌入图像。其内置芯片会生成独特的硅指纹，证明照片拍摄的时间、地点和所用相机，并与一个独特的匿名区块链签名绑定。"
+        },
+        {
+          "t": "p",
+          "x": "欧洲议会（European Parliament）的一份报告显示，社交媒体上的深度伪造内容自2023年以来每半年翻一番，2025年估计达到800万条。CAIM1预计其旗舰相机将于2027年第一季度发布。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/how-caim1-combats-deepfakes-1793382638.jpg",
+          "cap": "CAIM1相机外壳背面。"
+        },
+        {
+          "t": "p",
+          "x": "认证从Tropic Square的Tropic01芯片开始，这是“全球首个可审计的安全元件”。验证信息存储在“不可篡改的去中心化基础设施”上，相机还能打印一张实体凭据，上面印有QR码、区块链参考编号、日期、时间和地点。Cowell表示，竞争对手要求“用户盲目信任单一企业的封闭生态系统”。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/innovations-beyond-authentication-1793382640.jpg",
+          "cap": "从前置卡口上取下镜头的CAIM1相机。"
+        },
+        {
+          "t": "p",
+          "x": "为了在无振动的情况下为CPU和传感器散热，CAIM1与Noctua合作采用了NF-A4x10主动散热系统。这款相机可拍摄4K 视频，面向极限运动，并采用Bring-Your-Own-Lens（自带镜头）设计。"
+        }
+      ]
     }
   }
 }

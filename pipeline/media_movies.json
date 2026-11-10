@@ -1,32 +1,33 @@
 {
-  "date": "2026-11-10",
-  "section": "movies",
-  "media": [
-    {
-      "id": "disney-adobe-firefly-foundry",
-      "type": "image",
-      "src": "pipeline/media/disney-adobe-firefly-foundry.jpg"
-    },
-    {
-      "id": "framestore-sky-christmas-ai",
-      "type": "video",
-      "src": "pipeline/media/framestore-sky-christmas-ai.mp4",
-      "poster": "pipeline/media/framestore-sky-christmas-ai.jpg"
-    },
-    {
-      "id": "runway-realtime-batch-one",
-      "type": "image",
-      "src": "pipeline/media/runway-realtime-batch-one.jpg"
-    },
-    {
-      "id": "rotld-aftermath-ai-sequel",
-      "type": "image",
-      "src": "pipeline/media/rotld-aftermath-ai-sequel.jpg"
-    },
-    {
-      "id": "variety-ai-films-costlier-35mm",
-      "type": "image",
-      "src": "pipeline/media/variety-ai-films-costlier-35mm.jpg"
-    }
-  ]
+ "date": "2026-11-11",
+ "section": "movies",
+ "media": [
+  {
+   "id": "premiere27-colormode-mcp",
+   "type": "image",
+   "src": "pipeline/media/premiere27-colormode-mcp.jpg"
+  },
+  {
+   "id": "avid-readytoplay-veo",
+   "type": "image",
+   "src": "pipeline/media/avid-readytoplay-veo.jpg"
+  },
+  {
+   "id": "webby-credits-registry",
+   "type": "image",
+   "src": "pipeline/media/webby-credits-registry.jpg"
+  },
+  {
+   "id": "elempleo-ai-knockoff",
+   "type": "video",
+   "src": "pipeline/media/elempleo-ai-knockoff.mp4",
+   "poster": "pipeline/media/elempleo-ai-knockoff.jpg"
+  },
+  {
+   "id": "stormdogs-minkoff-trailer",
+   "type": "video",
+   "src": "pipeline/media/stormdogs-minkoff-trailer.mp4",
+   "poster": "pipeline/media/stormdogs-minkoff-trailer.jpg"
+  }
+ ]
 }

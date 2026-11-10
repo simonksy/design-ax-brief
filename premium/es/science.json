@@ -10589,6 +10589,140 @@
           "x": "En conjunto, estas capacidades pueden reducir el tiempo de escaneo y la dosis de radiación. El equipo aspira ahora a modelos fundacionales más robustos y a la tomografía en tiempo real, en la que una imagen 3D mejora mientras el experimento sigue en curso."
         }
       ]
+    },
+    "science/science-google-quantum-lean-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-4.28.33-AM.png"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de Google usaron agentes de AI y demostraciones matemáticas verificadas por computadora para diseñar programas cuánticos que requieren menos recursos de cómputo. El equipo, liderado por investigadores de Google DeepMind y Google Quantum AI, informó costos de recursos unas once veces menores en una simulación relacionada con la fusión, ocho veces menores en un cálculo de fotoquímica y 2.5 veces menores en un modelo relevante para el metabolismo de fármacos (preprint en arXiv)."
+        },
+        {
+          "t": "p",
+          "x": "El equipo construyó una biblioteca de programación cuántica en Lean. Los agentes de AI buscaban programas, y cada solución propuesta debía incluir pruebas tanto de corrección como de costo; un verificador independiente confirmaba que cumplía los requisitos originales. Los equipos compartían programas y enfoques fallidos mediante una wiki común y conferencias virtuales programadas."
+        },
+        {
+          "t": "p",
+          "x": "En la simulación del poder de frenado para fusión, el programa mejorado requirió 4,374 qubits lógicos, frente a 5,650, y redujo el costo combinado de qubits y puertas en un factor de 10.9. La fotoquímica bajó en un factor de 8.08 y el modelo del citocromo P450, en 2.49. Los investigadores también informaron una reducción de más de 290 veces en el cálculo del arcoseno."
+        },
+        {
+          "t": "p",
+          "x": "Los programas científicos aún superan lo que se prevé que puedan manejar las primeras computadoras cuánticas tolerantes a fallos. El equipo planea publicar como código abierto su biblioteca de Lean, las especificaciones y las soluciones verificadas."
+        }
+      ]
+    },
+    "science/science-vibe-qc-bonn": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what.jpg",
+          "cap": "Una molécula de agua sobre una capa finísima de átomos de boro y nitrógeno. Calculada con vibe-qc y visualizada con vibe-viewer. Crédito: Michael F. Peintinger"
+        },
+        {
+          "t": "p",
+          "x": "El Dr. Michael F. Peintinger, del Mulliken Center for Theoretical Chemistry de la University of Bonn, investigó qué ocurre cuando se usa la inteligencia artificial para escribir software de química cuántica. Su trabajo se publica en el Journal of Computational Chemistry."
+        },
+        {
+          "t": "p",
+          "x": "“Hasta donde sé, vibe-qc es el primer programa de su tipo desarrollado casi por completo mediante AI generativa”, afirma. Agentes de AI escribieron y probaron el programa bajo orientación científica, y la primera versión completa estuvo lista tras unas 10 semanas."
+        },
+        {
+          "t": "p",
+          "x": "“Tengo que revisar cada sugerencia.” El primer día, el asistente quiso calcular un átomo de litio con un método que trata todos los electrones en pares, aunque el litio tiene tres electrones. Otros errores solo se detectaron al comparar los resultados con un programa desarrollado de forma independiente, por lo que un método solo se considera listo cuando resiste esas comparaciones."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what-1.jpg",
+          "cap": "Sección transversal de un cristal de óxido de magnesio con 54 átomos. Crédito: Michael F. Peintinger"
+        },
+        {
+          "t": "p",
+          "x": "vibe-qc se ha convertido en un programa de uso general para moléculas y cristales y es de código abierto bajo la Mozilla Public License. Hasta ahora, los cálculos publicados han servido sobre todo como pruebas, como las energías electrónicas en el diamante."
+        }
+      ]
+    },
+    "science/science-hku-holographic-optics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-researchers-bring.jpg",
+          "cap": "Ilustración conceptual de la investigación de HKU sobre pantallas holográficas. Crédito: The University of Hong Kong"
+        },
+        {
+          "t": "p",
+          "x": "Combinando gráficos por computadora, óptica ondulatoria y calibración AI-based, investigadores de The University of Hong Kong (HKU), dirigidos por el profesor Yifan Evan Peng, han desarrollado dos técnicas que ayudan a las pantallas holográficas a reproducir cambios más naturales de enfoque, perspectiva y apariencia de los materiales."
+        },
+        {
+          "t": "p",
+          "x": "En un estudio publicado en Nature Communications, los investigadores parten de mallas poligonales y conservan la estructura 3D de la escena durante toda la generación del holograma. La calibración AI-based salva la distancia con una pantalla real: a partir de mediciones de cámara, un modelo aprendido tiene en cuenta las imperfecciones del sistema óptico. En pruebas de laboratorio, esto produjo cambios de enfoque más suaves y detalles de imagen más nítidos."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-computer-graphics-a.jpg",
+          "cap": "Ilustración conceptual de una futura experiencia de AR holográfica. Crédito: The University of Hong Kong"
+        },
+        {
+          "t": "p",
+          "x": "En el segundo estudio, publicado en ACM Transactions on Graphics, HoloPathTracer combina el trazado de rutas con la óptica ondulatoria para reproducir reflejos, refracciones, brillos cambiantes e iluminación indirecta."
+        },
+        {
+          "t": "p",
+          "x": "El trabajo sigue en fase de prototipo de investigación; las aplicaciones de consumo en tiempo real requerirán un cálculo más rápido y mejores moduladores espaciales de luz."
+        }
+      ]
+    },
+    "science/science-patent-lawyers-ai-trial": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2025/01/artificial-intelligence-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En un experimento de tres meses con 133 abogados de patentes de U.S., el acceso a un asistente de redacción con AI mejoró la calidad de sus borradores de patente, con las mayores mejoras entre los abogados júnior. Pero en una tarea posterior realizada sin AI, los abogados sénior que habían usado la herramienta superaron a los sénior que no la habían usado, mientras que los júnior no mostraron ventaja en promedio. Los resultados se publicaron como documento de trabajo del National Bureau of Economic Research."
+        },
+        {
+          "t": "p",
+          "x": "David Autor, del MIT, y colegas de Google asignaron al azar a abogados de 11 firmas de IP: 90 a una herramienta de redacción inédita de Google Labs y 43 a un grupo de control. Los usuarios de AI produjeron mejores borradores a los 10 y a los 90 días, en aproximadamente un tercio de desviación estándar, sobre todo porque hubo menos borradores flojos."
+        },
+        {
+          "t": "p",
+          "x": "En la tarea de revisión con marcas no-AI, la ventaja provino por completo de los abogados sénior. “La experiencia de base puede ser un requisito previo para extraer habilidades duraderas de la práctica AI-assisted”, concluyeron los autores."
+        },
+        {
+          "t": "p",
+          "x": "El artículo aún no ha sido revisado por pares. Lo realizó y financió Google, y seis de los siete autores trabajan en Google."
+        }
+      ]
+    },
+    "science/mit-worldparticle-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-WorldParticle-01-Press.jpg",
+          "cap": "“Es una arquitectura similar a la de ChatGPT. Pero en lugar de predecir una palabra a la vez para escribir un texto, predecimos cómo se moverán estas partículas, paso a paso”, dice Peter Yichen Chen."
+        },
+        {
+          "t": "p",
+          "x": "Hoy, un científico que quiere simular un proceso físico debe elegir la herramienta adecuada para esa única tarea, cada una codificada a mano en torno a las ecuaciones específicas que dictan cómo se comporta ese proceso. Investigadores del MIT, la University of British Columbia (UBC) y otras instituciones han sustituido ese mosaico por un único sistema de aprendizaje profundo, llamado WorldParticle, que podría ayudar a los ingenieros a modelar distintos fenómenos físicos, desde la arena que se desliza hasta las proteínas que se pliegan."
+        },
+        {
+          "t": "p",
+          "x": "El sistema representa cada material que simula como diminutas partículas y predice, paso a paso, hacia dónde se moverán. Como aprende la dinámica subyacente en lugar de programarse con una ecuación, el modelo puede adaptarse a materiales, fuerzas y entornos que nunca vio durante el entrenamiento."
+        },
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/inline/six-split-granular.gif",
+          "cap": "Animaciones de simulaciones moleculares, de fluidos y granulares. Crédito: cortesía de los investigadores"
+        },
+        {
+          "t": "p",
+          "x": "“Queremos tener un momento GPT para la simulación”, dice Peter Yichen Chen, exinvestigador posdoctoral del MIT y ahora en la UBC. Los investigadores demostraron WorldParticle en seis fenómenos físicos, entre ellos objetos deformables, materiales granulares y proteínas, con mayor precisión que los métodos de simulación numérica, y modelaron cómo cambian las estructuras de las proteínas con el tiempo unas 100 veces más rápido que los simuladores numéricos. El trabajo se presentará en SIGGRAPH Asia."
+        }
+      ]
     }
   }
 }

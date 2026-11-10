@@ -11523,6 +11523,161 @@
           "x": "Alexa+ is the open question. On-Screen Intelligence, the feature that lets Alexa+ look at your display and act on it, is opt-in and off by default, with an indicator on screen while it's live. First reviews praise the hardware and the screens, and call the multitasking the weak spot."
         }
       ]
+    },
+    "gadgets/ring-ai-drone-rover-cam": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af233321b32910f5c003593/1:1/w_2560%2Cc_limit/Ring-Drone-Cam-Gear-DSC_0211.jpg",
+          "cap": "The drone camera from Ring."
+        },
+        {
+          "t": "p",
+          "x": "Ring announced its Drone Cam for $250, alongside the Ring Rover Cam, a $1,000 roving security robot designed to help businesses monitor warehouses and factories. Both fall under the company's new Ring Robotics brand. The Rover Cam launches first on December 16, followed by the Drone Cam on January 27."
+        },
+        {
+          "t": "p",
+          "x": "The tiny, 165-gram drone lifts out of its charging dock and autonomously flies through the home. Ring previously announced an indoor security drone in 2020—the Ring Always Home Cam. Added sensors made it power- and battery-hungry, so the intelligence now sits entirely in the cloud: the drone sends video straight to Ring’s servers, where a custom AI Pilot agent tells it where to go."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af23e3b1b32910f5c003599/master/w_1600%2Cc_limit/DSC_0198.jpg",
+          "cap": "The Ring Drone Cam flies out of its charging station to monitor the home."
+        },
+        {
+          "t": "p",
+          "x": "Users can't manually control the drone but can set up custom flight routes and patrol schedules, and it responds to alerts from motion, door, or window sensors. It flies five to eight minutes per charge and is loud by design, so a bad actor couldn't remotely snoop without tipping off people in the home."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af23e3a1997f5ebb6874fc1/125:94/w_1600%2Cc_limit/DSC_0214.jpg",
+          "cap": "The Rover Cam is designed to patrol warehouses and factories."
+        },
+        {
+          "t": "p",
+          "x": "The Rover Cam shares many of the same hardware guts as Amazon's Astro. It has the same AI Pilot as the Drone Cam, a telescoping 4K camera, two-way talk and a siren, and covers up to 5,000 square feet."
+        }
+      ]
+    },
+    "gadgets/kora-linux-ai-desktop-os": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/w_2560%2Cc_limit/gear_ai_operating_system_nerdy.jpg",
+          "cap": "A person with a computer for a head sitting at a desktop computer"
+        },
+        {
+          "t": "p",
+          "x": "Kora, announced on Tuesday, is designed as a desktop alternative to Windows or macOS for “the AI native, not mass market,” says CEO and cofounder Kirt McMaster. Targeted to creators and developers, its central idea is to bring AI models together at the system level. It’s scheduled to launch sometime in 2027."
+        },
+        {
+          "t": "p",
+          "x": "“All your context, all your memory is on your machine,” says cofounder Franck De Girolami, describing a project that moves from an OpenAI model to Anthropic’s tools to a local model to save money on AI tokens."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af284baa8b94cafb9dc4873/master/w_1600%2Cc_limit/Screenshot%25202026-11-09%2520at%25201.37.41%25E2%2580%25AFPM.png",
+          "cap": "Kora"
+        },
+        {
+          "t": "p",
+          "x": "Kora is a standalone operating system built on the Linux kernel. The startup has partnered with Qualcomm to bring it to Snapdragon PCs next year, and it also supports x86-64. Compatibility layers will run standard Windows apps, and a \"neural file system\" indexes file data by meaning."
+        },
+        {
+          "t": "p",
+          "x": "McMaster cofounded and helped lead Cyanogen. Kora is optimized for desktops with at least 64 gigabytes of RAM, for power users who want to run AI models that require serious chip power."
+        }
+      ]
+    },
+    "gadgets/deepmind-gemini-robotics-25": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-2560x1440.jpg",
+          "cap": "Apptronik Apollo 2 using Gemini Robotics 2.5 at a Mercedes-Benz factory"
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMind has revealed a new generation of the AI-powered Gemini Robotics platform. The model was evaluated across more than 200 activities, and Apptronik’s Apollo 2 humanoid robot can now tie a bow with its five-fingered hands."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Still-image-Apollo-2-ribbon-tying.png",
+          "cap": "Deformable objects are tough for robots, but Gemini is making progress. Credit: Google"
+        },
+        {
+          "t": "p",
+          "x": "Overall, Gemini Robotics 2.5 manages a 30 to 100 percent higher success rate compared to the last version and is 20 to 30 percent faster. Gemini-powered Apollo 2 robots kitted automotive parts in a few European factories, reaching a 96 percent success rate. Gemini 4 Argon helped create a “simulation engine” that accelerated development."
+        },
+        {
+          "t": "video",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Video-Apptronik-Apollo-2-at-Mercedes-Benz-opt.mp4"
+        },
+        {
+          "t": "p",
+          "x": "ASIMOV-Jailbreak is an open source database of 1,500 prompts designed to trick a robotic AI into doing something unsafe. With Argon in the loop the system reaches a 98.8 percent jailbreak safety level, versus 73.5 percent with just Gemini Robotics ER 2. Gemini Robotics 2.5 is now with partners including Agile Robots, Apptronik, and Boston Dynamics."
+        }
+      ]
+    },
+    "gadgets/apple-mac-local-ai-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&w=1600",
+          "cap": "Mac mini"
+        },
+        {
+          "t": "p",
+          "x": "Leaker Aaron Perris has discovered evidence of a new Mac app in the works at Apple called Harbor, which makes it easy to run local AI models across one or more Macs."
+        },
+        {
+          "t": "p",
+          "x": "“Harbor turns your Mac into a private AI inference server. Run open-weight models locally on Apple silicon—your data never leaves your hardware, and nothing reaches the cloud. Connect multiple Mac computers over Thunderbolt 5 to pool unified memory, enabling large models and higher concurrency that a single computer can handle alone.”"
+        },
+        {
+          "t": "p",
+          "x": "Feature highlights include setup in minutes with automatic detection of devices over Thunderbolt 5, browsing and downloading open-weight models within the app, and clustering two or more Thunderbolt 5-capable Macs into a single inference resource."
+        },
+        {
+          "t": "p",
+          "x": "Harbor is currently in a private preview under Apple’s Claris brand, but it seems likely that we’ll see it launch to the public in the weeks and months ahead."
+        }
+      ]
+    },
+    "gadgets/caim1-provenance-camera": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/intro-1793382637.jpg",
+          "cap": "A brown and tan 3D-printed Noctua camera casing sits face up on a brown wooden table."
+        },
+        {
+          "t": "p",
+          "x": "CAIM1 (Counter Artificial Intelligence Machine 1), founded by Josh Cowell, is working on a prototype camera that embeds cryptographic proof of a photo's authenticity directly into the image. Its internal chip creates a unique silicon fingerprint that certifies when, where, and with which camera the photo was taken, tied to a unique, anonymous blockchain signature."
+        },
+        {
+          "t": "p",
+          "x": "Social media deepfakes have doubled every six months since 2023, reaching an estimated 8 million in 2025, according to a European Parliament report. CAIM1 expects its flagship camera to be released in the first quarter of 2027."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/how-caim1-combats-deepfakes-1793382638.jpg",
+          "cap": "The back of the CAIM1 camera case."
+        },
+        {
+          "t": "p",
+          "x": "Authentication starts with Tropic Square's Tropic01 chip, the \"world's first auditable secure element.\" Verification is stored on an \"immutable decentralized infrastructure,\" and the camera can print a physical receipt with a QR code, blockchain reference number, date, time and location. Cowell says competitors require \"users to place blind faith in a single corporate entity's closed ecosystem.\""
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/innovations-beyond-authentication-1793382640.jpg",
+          "cap": "A CAIM1 camera with its lens detached from the front mount."
+        },
+        {
+          "t": "p",
+          "x": "To cool its CPU and sensor without vibration, CAIM1 partnered with Noctua on an NF-A4x10 active-cooling system. The camera shoots 4K video, targets action sports and uses a Bring-Your-Own-Lens design."
+        }
+      ]
     }
   }
 }

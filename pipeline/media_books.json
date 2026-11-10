@@ -1,31 +1,30 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "section": "books",
   "media": [
     {
-      "id": "books-medium-tk-app",
+      "id": "madras-ai-library-books-fir",
       "type": "image",
-      "src": "pipeline/media/books-medium-tk-app.png"
+      "src": "pipeline/media/madras-ai-library-books-fir.jpg"
     },
     {
-      "id": "books-wired-paper-trail",
+      "id": "claude-autobiography-engineer",
       "type": "image",
-      "src": "pipeline/media/books-wired-paper-trail.jpg"
+      "src": "pipeline/media/claude-autobiography-engineer.png"
     },
     {
-      "id": "books-yes24-ai-tts",
+      "id": "voithru-ai-characterchat",
       "type": "image",
-      "src": "pipeline/media/books-yes24-ai-tts.jpg"
+      "src": "pipeline/media/voithru-ai-characterchat.jpg"
     },
     {
-      "id": "books-japan-ip-genai-terms",
-      "type": "image",
-      "src": "pipeline/media/books-japan-ip-genai-terms.jpg"
+      "id": "incheon-ai-picturebooks",
+      "type": "svg"
     },
     {
-      "id": "books-flitto-kpa-data",
+      "id": "bookseller-ai-discovery-steps",
       "type": "image",
-      "src": "pipeline/media/books-flitto-kpa-data.jpg"
+      "src": "pipeline/media/bookseller-ai-discovery-steps.jpg"
     }
   ]
 }

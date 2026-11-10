@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "section": "medicine",
   "cards": [
     {
-      "id": "science-ai-paper-error-audit",
+      "id": "google-gemini-healthcare-preview",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 과학자보다\n임상 논문 결함 잘 찾아",
-      "body": "의료 결정에 쓰이는 임상 연구의 기술적 결함을 AI가 과학자보다 잘 찾았다.",
-      "mini_headline": "AI, 임상 논문 결함 찾아내",
+      "headline": "Google Cloud,\n의료용 Gemini 출시",
+      "body": "Google이 HCA Healthcare 등과 의료용 Gemini 프리뷰를 내놨다.",
+      "mini_headline": "Gemini for healthcare 출시",
       "tool": "Medicine",
-      "source": "Science",
-      "url": "https://www.science.org/content/article/ai-beats-scientists-finding-errors-clinical-research-papers",
+      "source": "Fierce Healthcare",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/google-cloud-rolls-out-gemini-healthcare",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
@@ -19,173 +19,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.science.org/do/10.1126/science.zrukrlb/rss/_20261102_ai.jpg"
+            "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ"
           },
           {
             "t": "p",
-            "x": "의료 결정이 걸린 연구에서 AI가 기술적 결함을 얼마나 잘 찾아내는지 새 연구가 보여 줬다."
+            "x": "Google이 화요일 에이전트형 인공지능 플랫폼 Gemini for healthcare를 내놨다. 의료 서비스 제공자와 보험자가 다루는 복잡한 임상·재무·행정 워크플로를 하나로 잇는 플랫폼이다. 임상·건강보험 리더들과 함께 만들었고 HIPAA 준수를 돕도록 설계했다."
           },
           {
             "t": "p",
-            "x": "medRxiv에 올라온 사전 인쇄 논문 “Large language models detect methodological errors that human peer review misses in clinical trials”(대규모 언어 모델은 인간 동료 심사가 놓치는 임상시험의 방법론적 오류를 찾아낸다)는 앞선 실험을 다시 들여다봤다. 무작위 임상시험 보고서 세 건에 오류를 넣은 실험으로, 훈련받지 않은 인간 심사자의 주요 오류 탐지 점수는 평균 27%였다."
+            "x": "Google Cloud CEO Thomas Kurian은 “의료의 근본적인 과제는 정보 부족이 아니라, 고도로 규제된 생태계 전반에서 그 데이터를 실제 행동으로 옮기는 데 따르는 막대한 마찰이다.”라고 말했다."
           },
           {
             "t": "p",
-            "x": "같은 오류로 대규모 언어 모델 열다섯 개를 시험했다. 오픈 웨이트 모델 네 개가 포함됐고, 주요 오류 탐지 점수는 53%에서 96%였다. 암기 위험을 줄이려 2026년에 발표된 임상시험 세 건으로 다시 시험하자 점수는 51%에서 99%, 오픈 웨이트 모델만 보면 66%에서 87%가 나왔다."
+            "x": "“통합되고 완전히 관리되는” 이 시스템은 네 가지 핵심 요소로 짜였다. 의료 업무용 스킬, 행정 시스템 커넥터, 개방형 의료 파트너 생태계, 개방형 모델을 골라 쓸 수 있는 안전한 관리형 플랫폼이다. EHRs와 청구 시스템, 임상 가이드라인, 코딩, CMS 데이터셋에도 연결된다."
           },
           {
             "t": "p",
-            "x": "오류를 넣지 않은 대조 보고서에서도 모델들은 오류 유형의 2%에서 29%를 지적했다. 가장 많이 짚은 건 결과로 뒷받침되지 않는 결론이었다. 주요 오류 탐지 점수는 Opus 5.5가 99%로 가장 높았고, GPT-6.1 Sol과 GPT-6 Luna는 92%와 87%였다. 인간 동료 심사에만 기대면 피할 수 있는 방법론적 오류가 발견되지 않은 채 남을 수 있다고 저자들은 지적한다."
+            "x": "Gemini Enterprise Standard와 Plus 고객은 11월 10일부터 Gemini for healthcare를 프리뷰로 쓸 수 있다. GoodRx, Epic, IMO Health, Oracle Health, Infinitus, Suki가 파트너로 참여했고 의료기관 HCA Healthcare와 Northwell Health도 출시에 맞춰 Google과 손잡았다."
+          },
+          {
+            "t": "p",
+            "x": "HCA의 Michael Schlosser, M.D.는 자사가 “Gemini가 여러 전자건강기록 시스템과 진료 환경에 걸친 복잡한 환자 정보를 해석하고 종합하는 방법을 모색하고 있다”고 전했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI outdoes scientists at\nspotting flawed clinical papers",
-          "body": "AI outperformed human scientists at finding technical flaws in clinical studies that inform medical decisions.",
-          "mini_headline": "AI spots flawed clinical papers",
+          "headline": "Google Cloud rolls out\nGemini for healthcare",
+          "body": "Google's agentic Gemini for healthcare platform enters preview with partners including HCA Healthcare and Northwell.",
+          "mini_headline": "Gemini for healthcare launches",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.science.org/do/10.1126/science.zrukrlb/rss/_20261102_ai.jpg"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ"
               },
               {
                 "t": "p",
-                "x": "New findings demonstrate AI’s aptitude for identifying technical flaws in studies where medical decisions are on the line."
+                "x": "Google launched Tuesday Gemini for healthcare, an agentic artificial intelligence platform aimed at connecting complex clinical, financial and administrative workflows used by healthcare providers and payers. It was developed alongside clinical and health plan leaders and is built to support HIPAA compliance."
               },
               {
                 "t": "p",
-                "x": "The study, a medRxiv preprint titled “Large language models detect methodological errors that human peer review misses in clinical trials,” revisited an earlier experiment in which errors were inserted into three reports of randomized clinical trials; untrained human reviewers achieved a mean major-error detection score of 27%."
+                "x": "“The fundamental challenge in healthcare isn't a lack of information—it's the immense friction of making that data actionable across a highly regulated ecosystem,” said Thomas Kurian, Google Cloud CEO."
               },
               {
                 "t": "p",
-                "x": "Fifteen large language models, including four open-weight models, were tested on the same errors. Their major-error detection scores ranged from 53% to 96%. To reduce the risk of memorization, the test was repeated on three clinical trials published in 2026, where scores ranged from 51% to 99%, and from 66% to 87% for the open-weight models."
+                "x": "The “integrated, fully governed” system has four main components: skills for healthcare work, connectors to administrative systems, an open healthcare partner ecosystem and a secure, governed platform with open model choice. It integrates with EHRs, billing systems, clinical guidelines, coding and CMS datasets."
               },
               {
                 "t": "p",
-                "x": "The models still flagged 2% to 29% of the error types in control reports without inserted errors, most often conclusions not supported by the results. Opus 5.5 achieved the highest major-error detection score (99%), while GPT-6.1 Sol and GPT-6 Luna scored 92% and 87%. The authors suggest that relying on human peer review alone may leave avoidable methodological errors undetected."
+                "x": "Gemini for healthcare is available in preview as of Nov. 10 to Gemini Enterprise Standard and Plus customers. Partners include GoodRx, Epic, IMO Health, Oracle Health, Infinitus and Suki; health systems HCA Healthcare and Northwell Health have also teamed up with Google for the launch."
+              },
+              {
+                "t": "p",
+                "x": "HCA's Michael Schlosser, M.D., said the company is “exploring how Gemini can interpret and synthesize complex patient information from multiple electronic health record systems and care settings.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI가 과학자보다\n임상 논문 결함 잘 찾아",
-          "body": "의료 결정에 쓰이는 임상 연구의 기술적 결함을 AI가 과학자보다 잘 찾았다.",
-          "mini_headline": "AI, 임상 논문 결함 찾아내",
+          "headline": "Google Cloud,\n의료용 Gemini 출시",
+          "body": "Google이 HCA Healthcare 등과 의료용 Gemini 프리뷰를 내놨다.",
+          "mini_headline": "Gemini for healthcare 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.science.org/do/10.1126/science.zrukrlb/rss/_20261102_ai.jpg"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ"
               },
               {
                 "t": "p",
-                "x": "의료 결정이 걸린 연구에서 AI가 기술적 결함을 얼마나 잘 찾아내는지 새 연구가 보여 줬다."
+                "x": "Google이 화요일 에이전트형 인공지능 플랫폼 Gemini for healthcare를 내놨다. 의료 서비스 제공자와 보험자가 다루는 복잡한 임상·재무·행정 워크플로를 하나로 잇는 플랫폼이다. 임상·건강보험 리더들과 함께 만들었고 HIPAA 준수를 돕도록 설계했다."
               },
               {
                 "t": "p",
-                "x": "medRxiv에 올라온 사전 인쇄 논문 “Large language models detect methodological errors that human peer review misses in clinical trials”(대규모 언어 모델은 인간 동료 심사가 놓치는 임상시험의 방법론적 오류를 찾아낸다)는 앞선 실험을 다시 들여다봤다. 무작위 임상시험 보고서 세 건에 오류를 넣은 실험으로, 훈련받지 않은 인간 심사자의 주요 오류 탐지 점수는 평균 27%였다."
+                "x": "Google Cloud CEO Thomas Kurian은 “의료의 근본적인 과제는 정보 부족이 아니라, 고도로 규제된 생태계 전반에서 그 데이터를 실제 행동으로 옮기는 데 따르는 막대한 마찰이다.”라고 말했다."
               },
               {
                 "t": "p",
-                "x": "같은 오류로 대규모 언어 모델 열다섯 개를 시험했다. 오픈 웨이트 모델 네 개가 포함됐고, 주요 오류 탐지 점수는 53%에서 96%였다. 암기 위험을 줄이려 2026년에 발표된 임상시험 세 건으로 다시 시험하자 점수는 51%에서 99%, 오픈 웨이트 모델만 보면 66%에서 87%가 나왔다."
+                "x": "“통합되고 완전히 관리되는” 이 시스템은 네 가지 핵심 요소로 짜였다. 의료 업무용 스킬, 행정 시스템 커넥터, 개방형 의료 파트너 생태계, 개방형 모델을 골라 쓸 수 있는 안전한 관리형 플랫폼이다. EHRs와 청구 시스템, 임상 가이드라인, 코딩, CMS 데이터셋에도 연결된다."
               },
               {
                 "t": "p",
-                "x": "오류를 넣지 않은 대조 보고서에서도 모델들은 오류 유형의 2%에서 29%를 지적했다. 가장 많이 짚은 건 결과로 뒷받침되지 않는 결론이었다. 주요 오류 탐지 점수는 Opus 5.5가 99%로 가장 높았고, GPT-6.1 Sol과 GPT-6 Luna는 92%와 87%였다. 인간 동료 심사에만 기대면 피할 수 있는 방법론적 오류가 발견되지 않은 채 남을 수 있다고 저자들은 지적한다."
+                "x": "Gemini Enterprise Standard와 Plus 고객은 11월 10일부터 Gemini for healthcare를 프리뷰로 쓸 수 있다. GoodRx, Epic, IMO Health, Oracle Health, Infinitus, Suki가 파트너로 참여했고 의료기관 HCA Healthcare와 Northwell Health도 출시에 맞춰 Google과 손잡았다."
+              },
+              {
+                "t": "p",
+                "x": "HCA의 Michael Schlosser, M.D.는 자사가 “Gemini가 여러 전자건강기록 시스템과 진료 환경에 걸친 복잡한 환자 정보를 해석하고 종합하는 방법을 모색하고 있다”고 전했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "臨床論文の欠陥発見で\nAIが科学者を上回る",
-          "body": "AIは医療判断に関わる臨床研究の技術的欠陥の発見で、人間の科学者を上回った。",
-          "mini_headline": "AIが臨床論文の欠陥を発見",
+          "headline": "Google Cloud、\n医療向けGemini投入",
+          "body": "医療版GeminiをGoogleがHCA HealthcareやNorthwellと始めた。",
+          "mini_headline": "Gemini for healthcare提供開始",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.science.org/do/10.1126/science.zrukrlb/rss/_20261102_ai.jpg"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ"
               },
               {
                 "t": "p",
-                "x": "新たな研究結果は、医療判断がかかった研究で技術的な欠陥を見つけるAIの適性を示している。"
+                "x": "Googleは火曜日、医療提供者と保険者が使う複雑な臨床・財務・管理ワークフローをつなぐエージェント型人工知能プラットフォーム「Gemini for healthcare」を発表した。臨床や医療保険のリーダーと共同で開発し、HIPAA準拠を支援する設計である。"
               },
               {
                 "t": "p",
-                "x": "medRxivに掲載されたプレプリント「Large language models detect methodological errors that human peer review misses in clinical trials」(大規模言語モデルは臨床試験で人間の査読が見逃す方法論的誤りを検出する)は、ランダム化臨床試験の報告書三本に誤りを挿入した先行実験を再検証した。訓練を受けていない人間の査読者による重大な誤りの平均検出スコアは27%だった。"
+                "x": "「医療の根本的な課題は情報の不足ではない。高度に規制されたエコシステム全体でそのデータを実際に活用する際の、途方もない摩擦だ」と、Google Cloud CEOのThomas Kurianは述べた。"
               },
               {
                 "t": "p",
-                "x": "オープンウェイトモデル四つを含む十五の大規模言語モデルが同じ誤りで試験され、重大な誤りの検出スコアは53%から96%だった。記憶の影響を抑えるため、2026年に発表された臨床試験三本で試験を繰り返したところ、スコアは51%から99%、オープンウェイトモデルでは66%から87%だった。"
+                "x": "この「統合され、完全に統制された」システムは四つの主要要素から成る。医療業務向けのスキル、管理システムへのコネクタ、オープンな医療パートナーのエコシステム、そしてオープンなモデル選択を備えた安全で統制されたプラットフォームだ。EHRs、請求システム、臨床ガイドライン、コーディング、CMSデータセットと連携する。"
               },
               {
                 "t": "p",
-                "x": "誤りを挿入していない対照報告書でも、モデルは誤りの種類の2%から29%を指摘し、最も多かったのは結果に裏付けられない結論だった。重大な誤りの検出スコアが最も高かったのはOpus 5.5(99%)で、GPT-6.1 SolとGPT-6 Lunaは92%と87%だった。著者らは、人間の査読だけに頼ると避けられるはずの方法論的誤りが見逃されかねないと指摘している。"
+                "x": "Gemini for healthcareは11月10日からGemini Enterprise StandardおよびPlusの顧客にプレビュー提供されている。パートナーにはGoodRx、Epic、IMO Health、Oracle Health、Infinitus、Sukiが名を連ね、医療システムのHCA HealthcareとNorthwell Healthもローンチに合わせてGoogleと提携した。"
+              },
+              {
+                "t": "p",
+                "x": "HCAのMichael Schlosser, M.D.は、同社が「Geminiが複数の電子カルテシステムや診療環境にまたがる複雑な患者情報をどう解釈し統合できるかを探っている」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI识别问题临床论文\n表现胜过科学家",
-          "body": "在识别影响医疗决策的临床研究技术缺陷方面，AI的表现超过了人类科学家。",
-          "mini_headline": "AI识别有缺陷的临床论文",
+          "headline": "Google Cloud\n推出医疗版Gemini",
+          "body": "Google医疗版Gemini携HCA Healthcare和Northwell开启预览。",
+          "mini_headline": "Gemini for healthcare上线",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.science.org/do/10.1126/science.zrukrlb/rss/_20261102_ai.jpg"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ"
               },
               {
                 "t": "p",
-                "x": "新研究表明，AI善于在攸关医疗决策的研究中发现技术缺陷。"
+                "x": "Google周二推出Gemini for healthcare，这是一个智能体人工智能平台，旨在打通医疗服务提供方和支付方所用的复杂临床、财务与行政工作流程。该平台与临床及健康保险领域的负责人共同开发，设计上支持HIPAA合规。"
               },
               {
                 "t": "p",
-                "x": "这项研究是一篇medRxiv预印本，题为“Large language models detect methodological errors that human peer review misses in clinical trials”（大语言模型能发现人类同行评审在临床试验中遗漏的方法学错误）。它重新审视了一项早期实验：研究人员在三份随机临床试验报告中植入错误，未经培训的人类审稿人对主要错误的平均检出得分为27%。"
+                "x": "“医疗领域的根本挑战不是缺乏信息，而是在高度监管的生态系统中让这些数据真正发挥作用时所面临的巨大阻力。”Google Cloud CEO Thomas Kurian表示。"
               },
               {
                 "t": "p",
-                "x": "十五个大语言模型（其中四个为开放权重模型）接受了相同错误的测试，主要错误检出得分在53%至96%之间。为降低记忆带来的风险，研究人员又用2026年发表的三项临床试验重复测试，得分在51%至99%之间，开放权重模型为66%至87%。"
+                "x": "这套“集成、全面治理”的系统由四个主要部分组成：面向医疗工作的技能、连接行政系统的连接器、开放的医疗合作伙伴生态，以及支持开放模型选择的安全、受治理平台。它可与EHRs、计费系统、临床指南、编码和CMS数据集集成。"
               },
               {
                 "t": "p",
-                "x": "在未植入错误的对照报告中，模型仍会标记2%至29%的错误类型，最常见的是结论得不到结果支持。Opus 5.5的主要错误检出得分最高（99%），GPT-6.1 Sol和GPT-6 Luna分别为92%和87%。作者认为，仅依靠人类同行评审，可能会让本可避免的方法学错误未被发现。"
+                "x": "自11月10日起，Gemini for healthcare面向Gemini Enterprise Standard和Plus客户提供预览。合作伙伴包括GoodRx、Epic、IMO Health、Oracle Health、Infinitus和Suki；医疗系统HCA Healthcare与Northwell Health也与Google联手参与此次发布。"
+              },
+              {
+                "t": "p",
+                "x": "HCA的Michael Schlosser, M.D.表示，公司正在“探索Gemini如何解读并综合来自多个电子健康记录系统和诊疗场景的复杂患者信息”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA supera a los científicos\nal hallar errores en ensayos",
-          "body": "La IA superó a científicos humanos al detectar fallos técnicos en estudios clínicos que guían decisiones médicas.",
-          "mini_headline": "La IA detecta estudios clínicos con fallos",
+          "headline": "Google Cloud lanza\nGemini for healthcare",
+          "body": "Gemini for healthcare, plataforma agéntica de Google, entra en vista previa con socios como HCA Healthcare y Northwell.",
+          "mini_headline": "Llega Gemini for healthcare",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.science.org/do/10.1126/science.zrukrlb/rss/_20261102_ai.jpg"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ"
               },
               {
                 "t": "p",
-                "x": "Nuevos hallazgos demuestran la aptitud de la IA para identificar fallos técnicos en estudios de los que dependen decisiones médicas."
+                "x": "Google lanzó el martes Gemini for healthcare, una plataforma agéntica de inteligencia artificial pensada para conectar los complejos flujos de trabajo clínicos, financieros y administrativos que usan proveedores de salud y aseguradoras. Se desarrolló junto a líderes clínicos y de planes de salud, y está diseñada para facilitar el cumplimiento de HIPAA."
               },
               {
                 "t": "p",
-                "x": "El estudio, una preimpresión de medRxiv titulada “Large language models detect methodological errors that human peer review misses in clinical trials”, revisó un experimento anterior en el que se insertaron errores en tres informes de ensayos clínicos aleatorizados; los revisores humanos sin formación obtuvieron una puntuación media de detección de errores graves del 27%."
+                "x": "“El desafío fundamental en la salud no es la falta de información, sino la enorme fricción para convertir esos datos en acciones dentro de un ecosistema altamente regulado”, afirmó Thomas Kurian, CEO de Google Cloud."
               },
               {
                 "t": "p",
-                "x": "Se evaluaron quince grandes modelos de lenguaje, entre ellos cuatro de pesos abiertos, con los mismos errores. Sus puntuaciones de detección de errores graves oscilaron entre el 53% y el 96%. Para reducir el riesgo de memorización, la prueba se repitió con tres ensayos clínicos publicados en 2026, con puntuaciones de entre el 51% y el 99%, y de entre el 66% y el 87% en los modelos de pesos abiertos."
+                "x": "El sistema “integrado y totalmente gobernado” tiene cuatro componentes principales: habilidades para el trabajo sanitario, conectores a sistemas administrativos, un ecosistema abierto de socios de salud y una plataforma segura y gobernada con libre elección de modelo. Se integra con EHRs, sistemas de facturación, guías clínicas, codificación y conjuntos de datos de CMS."
               },
               {
                 "t": "p",
-                "x": "Los modelos aun así señalaron entre el 2% y el 29% de los tipos de error en informes de control sin errores insertados, sobre todo conclusiones no respaldadas por los resultados. Opus 5.5 obtuvo la puntuación más alta de detección de errores graves (99%), mientras que GPT-6.1 Sol y GPT-6 Luna lograron el 92% y el 87%. Los autores sugieren que depender solo de la revisión por pares humana puede dejar sin detectar errores metodológicos evitables."
+                "x": "Gemini for healthcare está disponible en vista previa desde el 10 de noviembre para clientes de Gemini Enterprise Standard y Plus. Entre los socios figuran GoodRx, Epic, IMO Health, Oracle Health, Infinitus y Suki; los sistemas de salud HCA Healthcare y Northwell Health también se aliaron con Google para el lanzamiento."
+              },
+              {
+                "t": "p",
+                "x": "Michael Schlosser, M.D., de HCA, dijo que la compañía está “explorando cómo Gemini puede interpretar y sintetizar información compleja de pacientes procedente de múltiples sistemas de historia clínica electrónica y entornos de atención”."
               }
             ]
           }
@@ -193,121 +217,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI가 과학자보다\n임상 논문 결함 잘 찾아",
-          "body": "AI가 의료 결정에 쓰이는 임상 연구의 기술적 결함을 과학자보다 잘 찾았다.",
-          "mini_headline": "AI, 임상 논문 결함 찾아내",
+          "headline": "Google Cloud,\n의료용 Gemini 출시",
+          "body": "Google이 HCA Healthcare 등과 의료용 Gemini 프리뷰를 열었다.",
+          "mini_headline": "Gemini for healthcare 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.science.org/do/10.1126/science.zrukrlb/rss/_20261102_ai.jpg"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ"
               },
               {
                 "t": "p",
-                "x": "새 연구 결과는 의료 결정이 걸린 연구에서 기술적 결함을 찾아내는 AI의 능력을 보여 준다."
+                "x": "Google은 화요일 의료 서비스 제공자와 보험자가 쓰는 복잡한 임상·재무·행정 워크플로를 하나로 잇는 에이전트형 인공지능 플랫폼 Gemini for healthcare를 출시했다. 임상 및 건강보험 리더들과 함께 개발했고, HIPAA 준수를 지원하도록 설계했다."
               },
               {
                 "t": "p",
-                "x": "medRxiv에 올라온 사전 인쇄 논문 “Large language models detect methodological errors that human peer review misses in clinical trials”(대규모 언어 모델은 인간 동료 심사가 놓치는 임상시험의 방법론적 오류를 찾아낸다)는 앞선 실험을 다시 살폈다. 그 실험에서는 무작위 임상시험 보고서 세 건에 오류를 넣었고, 훈련받지 않은 인간 심사자의 주요 오류 평균 탐지 점수는 27%였다."
+                "x": "“의료의 근본적인 과제는 정보 부족이 아니라, 고도로 규제된 생태계 전반에서 그 데이터를 실제 행동으로 옮기는 데 따르는 막대한 마찰이다.” Google Cloud CEO Thomas Kurian의 말이다."
               },
               {
                 "t": "p",
-                "x": "오픈 웨이트 모델 네 개를 포함한 대규모 언어 모델 열다섯 개가 같은 오류로 시험을 치렀다. 주요 오류 탐지 점수는 53%에서 96%였다. 암기 위험을 줄이려고 2026년에 발표된 임상시험 세 건으로 시험을 반복했고, 점수는 51%에서 99%, 오픈 웨이트 모델은 66%에서 87%였다."
+                "x": "이 “통합되고 완전히 관리되는” 시스템은 네 가지 핵심 요소로 이뤄진다. 의료 업무용 스킬, 행정 시스템 커넥터, 개방형 의료 파트너 생태계, 그리고 개방형 모델 선택을 지원하는 안전하고 관리되는 플랫폼이다. EHRs, 청구 시스템, 임상 가이드라인, 코딩, CMS 데이터셋과 연동한다."
               },
               {
                 "t": "p",
-                "x": "모델들은 오류를 넣지 않은 대조 보고서에서도 오류 유형의 2%에서 29%를 지적했으며, 결과로 뒷받침되지 않는 결론이 가장 많았다. Opus 5.5가 가장 높은 주요 오류 탐지 점수(99%)를 기록했고, GPT-6.1 Sol과 GPT-6 Luna는 92%와 87%였다. 저자들은 인간 동료 심사에만 기대면 피할 수 있는 방법론적 오류가 발견되지 않은 채 남을 수 있다고 지적한다."
+                "x": "Gemini for healthcare는 11월 10일부터 Gemini Enterprise Standard 및 Plus 고객에게 프리뷰로 제공된다. 파트너로 GoodRx, Epic, IMO Health, Oracle Health, Infinitus, Suki가 참여하고, 의료기관 HCA Healthcare와 Northwell Health도 출시에 맞춰 Google과 손잡았다."
+              },
+              {
+                "t": "p",
+                "x": "HCA의 Michael Schlosser, M.D.는 회사가 “Gemini가 여러 전자건강기록 시스템과 진료 환경에 걸친 복잡한 환자 정보를 해석하고 종합하는 방법을 모색하고 있다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "臨床論文の欠陥発見で\nAIが科学者を上回る",
-          "body": "AIは医療判断に関わる臨床研究の技術的欠陥の発見で、人間の科学者を上回った。",
-          "mini_headline": "AIが臨床論文の欠陥を発見",
+          "headline": "Google Cloud、\n医療向けGemini投入",
+          "body": "医療版GeminiをGoogleがHCA HealthcareやNorthwellと始めた。",
+          "mini_headline": "Gemini for healthcare提供開始",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.science.org/do/10.1126/science.zrukrlb/rss/_20261102_ai.jpg"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ"
               },
               {
                 "t": "p",
-                "x": "新たな研究結果は、医療判断がかかった研究で技術的な欠陥を見つけるAIの適性を示している。"
+                "x": "Googleは火曜日、医療提供者と保険者が使う複雑な臨床・財務・管理ワークフローをつなぐエージェント型人工知能プラットフォーム「Gemini for healthcare」を発表した。臨床や医療保険のリーダーと共同で開発し、HIPAA準拠を支援する設計である。"
               },
               {
                 "t": "p",
-                "x": "medRxivに掲載されたプレプリント「Large language models detect methodological errors that human peer review misses in clinical trials」(大規模言語モデルは臨床試験で人間の査読が見逃す方法論的誤りを検出する)は、ランダム化臨床試験の報告書三本に誤りを挿入した先行実験を再検証した。訓練を受けていない人間の査読者による重大な誤りの平均検出スコアは27%だった。"
+                "x": "「医療の根本的な課題は情報の不足ではない。高度に規制されたエコシステム全体でそのデータを実際に活用する際の、途方もない摩擦だ」と、Google Cloud CEOのThomas Kurianは述べた。"
               },
               {
                 "t": "p",
-                "x": "オープンウェイトモデル四つを含む十五の大規模言語モデルが同じ誤りで試験され、重大な誤りの検出スコアは53%から96%だった。記憶の影響を抑えるため、2026年に発表された臨床試験三本で試験を繰り返したところ、スコアは51%から99%、オープンウェイトモデルでは66%から87%だった。"
+                "x": "この「統合され、完全に統制された」システムは四つの主要要素から成る。医療業務向けのスキル、管理システムへのコネクタ、オープンな医療パートナーのエコシステム、そしてオープンなモデル選択を備えた安全で統制されたプラットフォームだ。EHRs、請求システム、臨床ガイドライン、コーディング、CMSデータセットと連携する。"
               },
               {
                 "t": "p",
-                "x": "誤りを挿入していない対照報告書でも、モデルは誤りの種類の2%から29%を指摘し、最も多かったのは結果に裏付けられない結論だった。重大な誤りの検出スコアが最も高かったのはOpus 5.5(99%)で、GPT-6.1 SolとGPT-6 Lunaは92%と87%だった。著者らは、人間の査読だけに頼ると避けられるはずの方法論的誤りが見逃されかねないと指摘している。"
+                "x": "Gemini for healthcareは11月10日からGemini Enterprise StandardおよびPlusの顧客にプレビュー提供されている。パートナーにはGoodRx、Epic、IMO Health、Oracle Health、Infinitus、Sukiが名を連ね、医療システムのHCA HealthcareとNorthwell Healthもローンチに合わせてGoogleと提携した。"
+              },
+              {
+                "t": "p",
+                "x": "HCAのMichael Schlosser, M.D.は、同社が「Geminiが複数の電子カルテシステムや診療環境にまたがる複雑な患者情報をどう解釈し統合できるかを探っている」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI识别问题临床论文\n表现胜过科学家",
-          "body": "在识别影响医疗决策的临床研究技术缺陷方面，AI的表现超过了人类科学家。",
-          "mini_headline": "AI识别有缺陷的临床论文",
+          "headline": "Google Cloud\n推出医疗版Gemini",
+          "body": "Google医疗版Gemini携HCA Healthcare和Northwell开启预览。",
+          "mini_headline": "Gemini for healthcare上线",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.science.org/do/10.1126/science.zrukrlb/rss/_20261102_ai.jpg"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ"
               },
               {
                 "t": "p",
-                "x": "新研究表明，AI善于在攸关医疗决策的研究中发现技术缺陷。"
+                "x": "Google周二推出Gemini for healthcare，这是一个智能体人工智能平台，旨在打通医疗服务提供方和支付方所用的复杂临床、财务与行政工作流程。该平台与临床及健康保险领域的负责人共同开发，设计上支持HIPAA合规。"
               },
               {
                 "t": "p",
-                "x": "这项研究是一篇medRxiv预印本，题为“Large language models detect methodological errors that human peer review misses in clinical trials”（大语言模型能发现人类同行评审在临床试验中遗漏的方法学错误）。它重新审视了一项早期实验：研究人员在三份随机临床试验报告中植入错误，未经培训的人类审稿人对主要错误的平均检出得分为27%。"
+                "x": "“医疗领域的根本挑战不是缺乏信息，而是在高度监管的生态系统中让这些数据真正发挥作用时所面临的巨大阻力。”Google Cloud CEO Thomas Kurian表示。"
               },
               {
                 "t": "p",
-                "x": "十五个大语言模型（其中四个为开放权重模型）接受了相同错误的测试，主要错误检出得分在53%至96%之间。为降低记忆带来的风险，研究人员又用2026年发表的三项临床试验重复测试，得分在51%至99%之间，开放权重模型为66%至87%。"
+                "x": "这套“集成、全面治理”的系统由四个主要部分组成：面向医疗工作的技能、连接行政系统的连接器、开放的医疗合作伙伴生态，以及支持开放模型选择的安全、受治理平台。它可与EHRs、计费系统、临床指南、编码和CMS数据集集成。"
               },
               {
                 "t": "p",
-                "x": "在未植入错误的对照报告中，模型仍会标记2%至29%的错误类型，最常见的是结论得不到结果支持。Opus 5.5的主要错误检出得分最高（99%），GPT-6.1 Sol和GPT-6 Luna分别为92%和87%。作者认为，仅依靠人类同行评审，可能会让本可避免的方法学错误未被发现。"
+                "x": "自11月10日起，Gemini for healthcare面向Gemini Enterprise Standard和Plus客户提供预览。合作伙伴包括GoodRx、Epic、IMO Health、Oracle Health、Infinitus和Suki；医疗系统HCA Healthcare与Northwell Health也与Google联手参与此次发布。"
+              },
+              {
+                "t": "p",
+                "x": "HCA的Michael Schlosser, M.D.表示，公司正在“探索Gemini如何解读并综合来自多个电子健康记录系统和诊疗场景的复杂患者信息”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA supera a los científicos\nal hallar errores en ensayos",
-          "body": "La IA superó a científicos humanos al detectar fallos técnicos en estudios clínicos que guían decisiones médicas.",
-          "mini_headline": "La IA detecta estudios clínicos con fallos",
+          "headline": "Google Cloud lanza\nGemini for healthcare",
+          "body": "Gemini for healthcare, plataforma agéntica de Google, entra en vista previa con socios como HCA Healthcare y Northwell.",
+          "mini_headline": "Llega Gemini for healthcare",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.science.org/do/10.1126/science.zrukrlb/rss/_20261102_ai.jpg"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ"
               },
               {
                 "t": "p",
-                "x": "Nuevos hallazgos demuestran la aptitud de la IA para identificar fallos técnicos en estudios de los que dependen decisiones médicas."
+                "x": "Google lanzó el martes Gemini for healthcare, una plataforma agéntica de inteligencia artificial pensada para conectar los complejos flujos de trabajo clínicos, financieros y administrativos que usan proveedores de salud y aseguradoras. Se desarrolló junto a líderes clínicos y de planes de salud, y está diseñada para facilitar el cumplimiento de HIPAA."
               },
               {
                 "t": "p",
-                "x": "El estudio, una preimpresión de medRxiv titulada “Large language models detect methodological errors that human peer review misses in clinical trials”, revisó un experimento anterior en el que se insertaron errores en tres informes de ensayos clínicos aleatorizados; los revisores humanos sin formación obtuvieron una puntuación media de detección de errores graves del 27%."
+                "x": "“El desafío fundamental en la salud no es la falta de información, sino la enorme fricción para convertir esos datos en acciones dentro de un ecosistema altamente regulado”, afirmó Thomas Kurian, CEO de Google Cloud."
               },
               {
                 "t": "p",
-                "x": "Se evaluaron quince grandes modelos de lenguaje, entre ellos cuatro de pesos abiertos, con los mismos errores. Sus puntuaciones de detección de errores graves oscilaron entre el 53% y el 96%. Para reducir el riesgo de memorización, la prueba se repitió con tres ensayos clínicos publicados en 2026, con puntuaciones de entre el 51% y el 99%, y de entre el 66% y el 87% en los modelos de pesos abiertos."
+                "x": "El sistema “integrado y totalmente gobernado” tiene cuatro componentes principales: habilidades para el trabajo sanitario, conectores a sistemas administrativos, un ecosistema abierto de socios de salud y una plataforma segura y gobernada con libre elección de modelo. Se integra con EHRs, sistemas de facturación, guías clínicas, codificación y conjuntos de datos de CMS."
               },
               {
                 "t": "p",
-                "x": "Los modelos aun así señalaron entre el 2% y el 29% de los tipos de error en informes de control sin errores insertados, sobre todo conclusiones no respaldadas por los resultados. Opus 5.5 obtuvo la puntuación más alta de detección de errores graves (99%), mientras que GPT-6.1 Sol y GPT-6 Luna lograron el 92% y el 87%. Los autores sugieren que depender solo de la revisión por pares humana puede dejar sin detectar errores metodológicos evitables."
+                "x": "Gemini for healthcare está disponible en vista previa desde el 10 de noviembre para clientes de Gemini Enterprise Standard y Plus. Entre los socios figuran GoodRx, Epic, IMO Health, Oracle Health, Infinitus y Suki; los sistemas de salud HCA Healthcare y Northwell Health también se aliaron con Google para el lanzamiento."
+              },
+              {
+                "t": "p",
+                "x": "Michael Schlosser, M.D., de HCA, dijo que la compañía está “explorando cómo Gemini puede interpretar y sintetizar información compleja de pacientes procedente de múltiples sistemas de historia clínica electrónica y entornos de atención”."
               }
             ]
           }
@@ -315,15 +355,15 @@
       }
     },
     {
-      "id": "aha-echo-ai-reading-time",
+      "id": "aha-voice-heartfailure-alert",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI-read 심초음파\n사람과 동등, 시간은 절반",
-      "body": "AI-assisted 심초음파 판독은 사람만큼 정확했고 시간은 절반가량 줄었다.",
-      "mini_headline": "AI 심초음파 판독, 시간 절반",
+      "headline": "AI 음성 분석,\n심부전 몇 주 먼저 감지",
+      "body": "AHA 2026서 AI 음성 분석이 심부전 악화를 표준 진료보다 수주 먼저 잡았다.",
+      "mini_headline": "AI 음성으로 심부전 조기 감지",
       "tool": "Medicine",
-      "source": "American Heart Association Newsroom",
-      "url": "https://newsroom.heart.org/news/ai-interpreted-echocardiograms-comparable-to-human-reports-cardiologists-time-cut-by-about-50",
+      "source": "Cardiovascular Business",
+      "url": "https://cardiovascularbusiness.com/topics/clinical/heart-failure/voice-changes-may-detect-worsening-heart-failure-weeks-other-symptoms-appear",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -331,179 +371,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://iprsoftwaremedia.com/67/files/20143/53599f8bc8046712f4065d3a_heart%20with%20artery%20view/heart%20with%20artery%20view_hero.jpg?v=01ffdf01-5bde-4cd9-b76c-748d50ca8d91",
-            "cap": "동맥이 보이는 심장"
+            "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_"
           },
           {
             "t": "p",
-            "x": "시카고에서 열린 American Heart Association의 Scientific Sessions 2026에서 발표된 예비 최신 연구에 따르면 AI-generated(AI 생성) 심초음파 해석은 초음파 검사자와 심장 전문의가 쓴 예비 해석만큼 정확했다. 심장 전문의가 스캔 하나를 해석하는 시간도 거의 절반으로 줄었다."
+            "x": "스마트폰으로 쓰는 인공지능(AI) 음성 분석 시스템이 심부전 증상 악화를 세 주 넘게 미리 잡아내 표준 진료를 크게 따돌렸다. DETECT-HF 임상시험의 최신 데이터로, American Heart Association Scientific Sessions 2026에서 발표됐고 JACC: Heart Failure에 실렸다."
           },
           {
             "t": "p",
-            "x": "연구진은 AI 도구로 심초음파 보고서 전체를 쓰는 방식을 무작위 시험으로 검증한 건 이번이 처음이라고 말한다. AI 도구와 초음파 검사자, 심장 전문의가 같은 심초음파 1,200건의 예비 보고서를 각각 작성했고, 심장 전문의는 누가 초안을 만들었는지 모른 채 이를 확정했다."
+            "x": "DETECT-HF는 외래 심부전 환자 563명에게 Cordio Medical의 HearO 시스템을 적용해 평가했다. 시스템은 주요 심부전 사건의 70% 이상을 평균 24.6일 앞서 예측했다. 책임 연구자 William T. Abraham, MD는 기존 방식인 매일 체중 측정의 민감도가 약 20%에 그친다고 설명했다."
+          },
+          {
+            "t": "video",
+            "src": "https://innovate-healthcare-cdn.s3.amazonaws.com/2026-11/William%20Abraham%20explains%20how%20AI%20voice%20analysis%20can%20detect%20worsening%20heart%20failure.mp4"
           },
           {
             "t": "p",
-            "x": "심장 전문의가 크게 고친 비율은 AI-generated 예비 해석이 50.6%, 초음파 검사자와 심장 전문의가 작성한 해석이 49.7%로 비열등성 기준을 충족했다. 심초음파 한 건을 판독하는 데 걸린 평균 시간은 AI 초안이 있을 때 4.6분, AI 지원이 없을 때 8.5분이었다. 시간이 약 46% 줄어든 셈이다."
+            "x": "HearO는 환자가 매일 정해진 여섯 문장을 말하면 억양과 호흡 패턴 같은 음향 특성을 분석한다. AI 알고리즘이 환자마다 음성 모델을 만들어 두고 심부전 악화 패턴이 보이면 의료진에게 알린다."
           },
           {
             "t": "p",
-            "x": "Kaiser Permanente의 공동 선임저자 Keane K. Lee, M.D., M.S.는 “다만 AI가 인간 팀을 대체할 수는 없다”고 말했다. 연구는 Kaiser Permanente Northern California 의료센터 21곳에서 진행됐으며, 동료 심사를 거치지 않은 연구 초록이다."
+            "x": "참여자들은 예정된 녹음의 85%를 마쳤다. 원인을 알 수 없는 알림은 환자당 연 2.65건이었고 기기 관련 이상 사례는 보고되지 않았다. HearO는 FDA 혁신 의료기기로 지정됐으며, 회사는 2027년 U.S. 출시를 노린다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI-read echocardiograms match\nhuman reports, halve read time",
-          "body": "AI-assisted echocardiogram reads matched standard human reports and cut cardiologists' reading time by about half.",
-          "mini_headline": "AI echo reads halve read time",
+          "headline": "AI voice check flags\nheart failure weeks early",
+          "body": "At AHA 2026, an AI voice analysis flagged worsening heart failure weeks before other symptoms, beating standard care.",
+          "mini_headline": "AI voice flags heart failure early",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20143/53599f8bc8046712f4065d3a_heart%20with%20artery%20view/heart%20with%20artery%20view_hero.jpg?v=01ffdf01-5bde-4cd9-b76c-748d50ca8d91",
-                "cap": "Heart with artery view"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_"
               },
               {
                 "t": "p",
-                "x": "AI-generated interpretations of echocardiograms were comparable in accuracy to preliminary interpretations prepared by sonographers and cardiologists, and reduced the time cardiologists spent interpreting each scan almost by half, according to preliminary late-breaking science presented at the American Heart Association’s Scientific Sessions 2026 in Chicago."
+                "x": "A smartphone-based artificial intelligence (AI) voice analysis system can detect worsening heart failure symptoms more than three weeks early, significantly outperforming the standard of care, according to late-breaking DETECT-HF trial data presented at the American Heart Association Scientific Sessions 2026 and published in JACC: Heart Failure."
               },
               {
                 "t": "p",
-                "x": "Researchers say this is the first randomized trial testing an AI tool to craft a full echocardiogram report. An AI tool, a sonographer and a cardiologist each prepared preliminary reports for the same 1,200 echocardiograms; cardiologists then finalized them without knowing who made the first draft."
+                "x": "DETECT-HF evaluated Cordio Medical's HearO system in 563 ambulatory heart failure patients. It predicted more than 70% of significant heart failure events an average of 24.6 days in advance. Conventional daily weight measurements have a sensitivity of approximately 20%, according to lead investigator William T. Abraham, MD."
+              },
+              {
+                "t": "video",
+                "src": "https://innovate-healthcare-cdn.s3.amazonaws.com/2026-11/William%20Abraham%20explains%20how%20AI%20voice%20analysis%20can%20detect%20worsening%20heart%20failure.mp4"
               },
               {
                 "t": "p",
-                "x": "Cardiologists made substantial changes to 50.6% of the AI-generated preliminary interpretations, compared with 49.7% of those prepared by sonographers and cardiologists — meeting the criteria for non-inferiority. They spent an average of 4.6 minutes per echocardiogram on AI drafts versus 8.5 minutes without AI assistance, a time savings of about 46%."
+                "x": "HearO collects six standardized spoken sentences each day and evaluates intonation, breathing patterns and other acoustic features. AI algorithms build a patient-specific voice model and alert clinicians when patterns of worsening heart failure appear."
               },
               {
                 "t": "p",
-                "x": "“AI cannot, however, replace the human team,” said co-senior author Keane K. Lee, M.D., M.S., of Kaiser Permanente. The study, across 21 Kaiser Permanente Northern California medical centers, is a research abstract that is not peer-reviewed."
+                "x": "Participants completed 85% of scheduled recordings; the unexplained alert rate was 2.65 per patient per year, and no device-related adverse events were reported. HearO received FDA breakthrough device designation, and the company hopes to launch in the U.S. in 2027."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI-read 심초음파\n사람과 동등, 시간은 절반",
-          "body": "AI-assisted 심초음파 판독은 사람만큼 정확했고 시간은 절반가량 줄었다.",
-          "mini_headline": "AI 심초음파 판독, 시간 절반",
+          "headline": "AI 음성 분석,\n심부전 몇 주 먼저 감지",
+          "body": "AHA 2026서 AI 음성 분석이 심부전 악화를 표준 진료보다 수주 먼저 잡았다.",
+          "mini_headline": "AI 음성으로 심부전 조기 감지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20143/53599f8bc8046712f4065d3a_heart%20with%20artery%20view/heart%20with%20artery%20view_hero.jpg?v=01ffdf01-5bde-4cd9-b76c-748d50ca8d91",
-                "cap": "동맥이 보이는 심장"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_"
               },
               {
                 "t": "p",
-                "x": "시카고에서 열린 American Heart Association의 Scientific Sessions 2026에서 발표된 예비 최신 연구에 따르면 AI-generated(AI 생성) 심초음파 해석은 초음파 검사자와 심장 전문의가 쓴 예비 해석만큼 정확했다. 심장 전문의가 스캔 하나를 해석하는 시간도 거의 절반으로 줄었다."
+                "x": "스마트폰으로 쓰는 인공지능(AI) 음성 분석 시스템이 심부전 증상 악화를 세 주 넘게 미리 잡아내 표준 진료를 크게 따돌렸다. DETECT-HF 임상시험의 최신 데이터로, American Heart Association Scientific Sessions 2026에서 발표됐고 JACC: Heart Failure에 실렸다."
               },
               {
                 "t": "p",
-                "x": "연구진은 AI 도구로 심초음파 보고서 전체를 쓰는 방식을 무작위 시험으로 검증한 건 이번이 처음이라고 말한다. AI 도구와 초음파 검사자, 심장 전문의가 같은 심초음파 1,200건의 예비 보고서를 각각 작성했고, 심장 전문의는 누가 초안을 만들었는지 모른 채 이를 확정했다."
+                "x": "DETECT-HF는 외래 심부전 환자 563명에게 Cordio Medical의 HearO 시스템을 적용해 평가했다. 시스템은 주요 심부전 사건의 70% 이상을 평균 24.6일 앞서 예측했다. 책임 연구자 William T. Abraham, MD는 기존 방식인 매일 체중 측정의 민감도가 약 20%에 그친다고 설명했다."
+              },
+              {
+                "t": "video",
+                "src": "https://innovate-healthcare-cdn.s3.amazonaws.com/2026-11/William%20Abraham%20explains%20how%20AI%20voice%20analysis%20can%20detect%20worsening%20heart%20failure.mp4"
               },
               {
                 "t": "p",
-                "x": "심장 전문의가 크게 고친 비율은 AI-generated 예비 해석이 50.6%, 초음파 검사자와 심장 전문의가 작성한 해석이 49.7%로 비열등성 기준을 충족했다. 심초음파 한 건을 판독하는 데 걸린 평균 시간은 AI 초안이 있을 때 4.6분, AI 지원이 없을 때 8.5분이었다. 시간이 약 46% 줄어든 셈이다."
+                "x": "HearO는 환자가 매일 정해진 여섯 문장을 말하면 억양과 호흡 패턴 같은 음향 특성을 분석한다. AI 알고리즘이 환자마다 음성 모델을 만들어 두고 심부전 악화 패턴이 보이면 의료진에게 알린다."
               },
               {
                 "t": "p",
-                "x": "Kaiser Permanente의 공동 선임저자 Keane K. Lee, M.D., M.S.는 “다만 AI가 인간 팀을 대체할 수는 없다”고 말했다. 연구는 Kaiser Permanente Northern California 의료센터 21곳에서 진행됐으며, 동료 심사를 거치지 않은 연구 초록이다."
+                "x": "참여자들은 예정된 녹음의 85%를 마쳤다. 원인을 알 수 없는 알림은 환자당 연 2.65건이었고 기기 관련 이상 사례는 보고되지 않았다. HearO는 FDA 혁신 의료기기로 지정됐으며, 회사는 2027년 U.S. 출시를 노린다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-readの心エコー\n人間と同等で時間は半分",
-          "body": "AI-assistedの心エコー判読は人間の報告と同等で、医師の判読時間を約半分にした。",
-          "mini_headline": "AI心エコー判読、時間半減",
+          "headline": "AI音声解析、\n心不全を数週間前に察知",
+          "body": "AHA 2026でAI音声解析が心不全の悪化を症状より数週間早く捉え、標準治療を上回った。",
+          "mini_headline": "AI音声で心不全を早期察知",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20143/53599f8bc8046712f4065d3a_heart%20with%20artery%20view/heart%20with%20artery%20view_hero.jpg?v=01ffdf01-5bde-4cd9-b76c-748d50ca8d91",
-                "cap": "動脈が見える心臓"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_"
               },
               {
                 "t": "p",
-                "x": "シカゴで開かれたAmerican Heart AssociationのScientific Sessions 2026で発表された速報段階の最新研究によると、AI-generated(AI生成)の心エコー図解釈は、超音波検査技師と循環器医が作成した予備解釈と同程度の精度を示し、循環器医が検査ごとの解釈にかける時間をほぼ半分に減らした。"
+                "x": "スマートフォンを使う人工知能(AI)音声解析システムが、心不全症状の悪化を三週間以上早く検知し、標準治療を大きく上回った。American Heart Association Scientific Sessions 2026で発表され、JACC: Heart Failureに掲載されたDETECT-HF試験の最新データによるものだ。"
               },
               {
                 "t": "p",
-                "x": "研究者らによると、AIツールで心エコー図の報告書全体を作成する手法を検証した無作為化試験はこれが初めてだという。AIツール、超音波検査技師、循環器医が同じ1,200件の心エコー図について予備報告書をそれぞれ作成し、循環器医は誰が初稿を作ったか知らないまま最終版に仕上げた。"
+                "x": "DETECT-HFは外来の心不全患者563人を対象にCordio MedicalのHearOシステムを評価した。重大な心不全イベントの70%超を平均24.6日前に予測した。筆頭研究者のWilliam T. Abraham, MDによると、従来の毎日の体重測定の感度は約20%にとどまる。"
+              },
+              {
+                "t": "video",
+                "src": "https://innovate-healthcare-cdn.s3.amazonaws.com/2026-11/William%20Abraham%20explains%20how%20AI%20voice%20analysis%20can%20detect%20worsening%20heart%20failure.mp4"
               },
               {
                 "t": "p",
-                "x": "循環器医が大幅な修正を加えた割合は、AI-generatedの予備解釈で50.6%、超音波検査技師と循環器医による解釈で49.7%で、非劣性の基準を満たした。心エコー図1件あたりの平均判読時間はAIの下書きで4.6分、AI支援なしで8.5分で、約46%の時間短縮となった。"
+                "x": "HearOは毎日、定型の六つの文を話した音声を収集し、抑揚や呼吸パターンなどの音響的特徴を評価する。AIアルゴリズムが患者ごとの音声モデルを構築し、心不全悪化のパターンが現れると臨床医に通知する。"
               },
               {
                 "t": "p",
-                "x": "「ただし、AIが人間のチームに取って代わることはできない」と、Kaiser Permanenteの共同シニアオーサー、Keane K. Lee, M.D., M.S.は述べた。Kaiser Permanente Northern Californiaの21の医療センターで行われたこの研究は、査読を経ていない研究抄録である。"
+                "x": "参加者は予定された録音の85%を完了した。原因不明のアラートは患者あたり年2.65件で、デバイス関連の有害事象は報告されなかった。HearOはFDAのブレークスルー・デバイス指定を受けており、同社は2027年のU.S.での発売を目指している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-read超声心动图\n与人工报告相当，耗时减半",
-          "body": "AI-assisted超声心动图判读与人工报告相当，心脏科医生判读时间减少约一半。",
-          "mini_headline": "AI超声心动图判读耗时减半",
+          "headline": "AI语音分析\n提前数周预警心衰",
+          "body": "AHA 2026上，AI语音分析比其他症状提前数周发现心衰恶化，优于标准护理。",
+          "mini_headline": "AI语音提前预警心衰",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20143/53599f8bc8046712f4065d3a_heart%20with%20artery%20view/heart%20with%20artery%20view_hero.jpg?v=01ffdf01-5bde-4cd9-b76c-748d50ca8d91",
-                "cap": "可见动脉的心脏"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_"
               },
               {
                 "t": "p",
-                "x": "据在芝加哥举行的American Heart Association Scientific Sessions 2026上公布的初步最新突破性研究，AI-generated（AI生成）的超声心动图解读在准确度上与超声技师和心脏科医生撰写的初步解读相当，并使心脏科医生解读每次扫描所需的时间减少近一半。"
+                "x": "根据在American Heart Association Scientific Sessions 2026上公布、并发表于JACC: Heart Failure的DETECT-HF试验最新数据，一款基于智能手机的人工智能(AI)语音分析系统可提前三周以上发现心衰症状恶化，表现明显优于标准护理。"
               },
               {
                 "t": "p",
-                "x": "研究人员表示，这是首个测试AI工具撰写完整超声心动图报告的随机试验。AI工具、一名超声技师和一名心脏科医生分别为同样的1,200份超声心动图撰写初步报告，随后由心脏科医生在不知道初稿出自谁手的情况下定稿。"
+                "x": "DETECT-HF在563名门诊心衰患者中评估了Cordio Medical的HearO系统。该系统平均提前24.6天预测了70%以上的重大心衰事件。主要研究者William T. Abraham, MD表示，传统的每日称重灵敏度约为20%。"
+              },
+              {
+                "t": "video",
+                "src": "https://innovate-healthcare-cdn.s3.amazonaws.com/2026-11/William%20Abraham%20explains%20how%20AI%20voice%20analysis%20can%20detect%20worsening%20heart%20failure.mp4"
               },
               {
                 "t": "p",
-                "x": "心脏科医生对50.6%的AI-generated初步解读做了实质性修改，而对超声技师和心脏科医生撰写的解读，这一比例为49.7%，达到非劣效性标准。他们处理AI初稿时每份超声心动图平均耗时4.6分钟，没有AI辅助时为8.5分钟，节省约46%的时间。"
+                "x": "HearO每天采集六句标准化语句的录音，评估语调、呼吸模式等声学特征。AI算法为每位患者建立专属语音模型，一旦出现心衰恶化的模式便提醒临床医生。"
               },
               {
                 "t": "p",
-                "x": "来自Kaiser Permanente的共同资深作者Keane K. Lee, M.D., M.S.表示：“不过，AI无法取代人类团队。”该研究在21家Kaiser Permanente Northern California医疗中心开展，是一份未经同行评审的研究摘要。"
+                "x": "参与者完成了85%的预定录音；无法解释的警报率为每名患者每年2.65次，未报告与器械相关的不良事件。HearO已获FDA突破性器械认定，公司希望于2027年在U.S.上市。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ecocardiogramas AI-read:\nigual precisión, mitad de tiempo",
-          "body": "Las lecturas AI-assisted de ecocardiogramas igualaron a las humanas y redujeron casi a la mitad el tiempo de lectura.",
-          "mini_headline": "Ecocardiogramas leídos con IA en la mitad de tiempo",
+          "headline": "AI de voz alerta semanas antes\nde la insuficiencia cardíaca",
+          "body": "En AHA 2026, el análisis de voz con AI detectó semanas antes la insuficiencia cardíaca y superó la atención estándar.",
+          "mini_headline": "La AI de voz anticipa la insuficiencia cardíaca",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20143/53599f8bc8046712f4065d3a_heart%20with%20artery%20view/heart%20with%20artery%20view_hero.jpg?v=01ffdf01-5bde-4cd9-b76c-748d50ca8d91",
-                "cap": "Corazón con vista de las arterias"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_"
               },
               {
                 "t": "p",
-                "x": "Las interpretaciones de ecocardiogramas AI-generated (generadas por IA) tuvieron una precisión comparable a la de las interpretaciones preliminares preparadas por ecografistas y cardiólogos, y redujeron casi a la mitad el tiempo que los cardiólogos dedicaban a interpretar cada estudio, según investigación preliminar de última hora presentada en las Scientific Sessions 2026 de la American Heart Association en Chicago."
+                "x": "Un sistema de análisis de voz con inteligencia artificial (AI) basado en el teléfono inteligente puede detectar el empeoramiento de los síntomas de insuficiencia cardíaca con más de tres semanas de antelación y supera con claridad la atención estándar, según datos de última hora del ensayo DETECT-HF presentados en las American Heart Association Scientific Sessions 2026 y publicados en JACC: Heart Failure."
               },
               {
                 "t": "p",
-                "x": "Los investigadores afirman que este es el primer ensayo aleatorizado que prueba una herramienta de IA para redactar un informe completo de ecocardiograma. Una herramienta de IA, un ecografista y un cardiólogo prepararon cada uno informes preliminares de los mismos 1.200 ecocardiogramas; después, los cardiólogos los finalizaron sin saber quién había hecho el primer borrador."
+                "x": "DETECT-HF evaluó el sistema HearO de Cordio Medical en 563 pacientes ambulatorios con insuficiencia cardíaca. Predijo más del 70% de los eventos significativos de insuficiencia cardíaca con una media de 24.6 días de antelación. El pesaje diario convencional tiene una sensibilidad de aproximadamente el 20%, según el investigador principal, William T. Abraham, MD."
+              },
+              {
+                "t": "video",
+                "src": "https://innovate-healthcare-cdn.s3.amazonaws.com/2026-11/William%20Abraham%20explains%20how%20AI%20voice%20analysis%20can%20detect%20worsening%20heart%20failure.mp4"
               },
               {
                 "t": "p",
-                "x": "Los cardiólogos hicieron cambios sustanciales en el 50,6% de las interpretaciones preliminares AI-generated, frente al 49,7% de las preparadas por ecografistas y cardiólogos, con lo que se cumplieron los criterios de no inferioridad. Dedicaron un promedio de 4,6 minutos por ecocardiograma a los borradores de IA, frente a 8,5 minutos sin ayuda de IA, un ahorro de tiempo de alrededor del 46%."
+                "x": "HearO recoge cada día seis frases habladas estandarizadas y evalúa la entonación, los patrones respiratorios y otras características acústicas. Los algoritmos de AI construyen un modelo de voz específico para cada paciente y alertan a los médicos cuando aparecen patrones de empeoramiento de la insuficiencia cardíaca."
               },
               {
                 "t": "p",
-                "x": "“Sin embargo, la IA no puede reemplazar al equipo humano”, dijo el coautor sénior Keane K. Lee, M.D., M.S., de Kaiser Permanente. El estudio, realizado en 21 centros médicos de Kaiser Permanente Northern California, es un resumen de investigación sin revisión por pares."
+                "x": "Los participantes completaron el 85% de las grabaciones previstas; la tasa de alertas sin explicación fue de 2.65 por paciente y año, y no se notificaron eventos adversos relacionados con el dispositivo. HearO recibió la designación de dispositivo innovador de la FDA, y la empresa espera lanzarlo en U.S. en 2027."
               }
             ]
           }
@@ -511,125 +569,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI-read 심초음파\n사람과 동등, 시간은 절반",
-          "body": "AI-assisted 심초음파 판독은 사람과 대등하고 시간을 절반가량 줄였다.",
-          "mini_headline": "AI 심초음파 판독, 시간 절반",
+          "headline": "AI 음성 분석,\n심부전 몇 주 먼저 감지",
+          "body": "AHA 2026서 AI 음성 분석이 표준 진료보다 심부전 악화를 수주 먼저 잡았다.",
+          "mini_headline": "AI 음성으로 심부전 조기 감지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20143/53599f8bc8046712f4065d3a_heart%20with%20artery%20view/heart%20with%20artery%20view_hero.jpg?v=01ffdf01-5bde-4cd9-b76c-748d50ca8d91",
-                "cap": "동맥이 보이는 심장"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_"
               },
               {
                 "t": "p",
-                "x": "시카고에서 열린 American Heart Association의 Scientific Sessions 2026에서 발표된 예비 최신 연구에 따르면, AI-generated(AI 생성) 심초음파 해석은 초음파 검사자와 심장 전문의가 작성한 예비 해석과 정확도가 비슷했고, 심장 전문의가 스캔 하나를 해석하는 시간을 거의 절반으로 줄였다."
+                "x": "스마트폰 기반 인공지능(AI) 음성 분석 시스템이 심부전 증상 악화를 세 주 넘게 앞서 감지해 표준 진료를 크게 앞섰다. American Heart Association Scientific Sessions 2026에서 발표되고 JACC: Heart Failure에 실린 DETECT-HF 임상시험의 최신 데이터다."
               },
               {
                 "t": "p",
-                "x": "연구진은 이번 연구가 AI 도구로 심초음파 보고서 전체를 작성하는 방식을 시험한 첫 무작위 시험이라고 말한다. AI 도구와 초음파 검사자, 심장 전문의가 같은 1,200건의 심초음파에 대해 각각 예비 보고서를 작성했고, 심장 전문의는 누가 초안을 만들었는지 모르는 상태에서 이를 확정했다."
+                "x": "DETECT-HF는 외래 심부전 환자 563명을 대상으로 Cordio Medical의 HearO 시스템을 평가했다. 시스템은 주요 심부전 사건의 70% 이상을 평균 24.6일 앞서 예측했다. 책임 연구자 William T. Abraham, MD에 따르면 기존의 매일 체중 측정은 민감도가 약 20%에 그친다."
+              },
+              {
+                "t": "video",
+                "src": "https://innovate-healthcare-cdn.s3.amazonaws.com/2026-11/William%20Abraham%20explains%20how%20AI%20voice%20analysis%20can%20detect%20worsening%20heart%20failure.mp4"
               },
               {
                 "t": "p",
-                "x": "심장 전문의가 크게 수정한 비율은 AI-generated 예비 해석에서 50.6%, 초음파 검사자와 심장 전문의가 작성한 해석에서 49.7%로 비열등성 기준을 충족했다. 심초음파 한 건당 평균 판독 시간은 AI 초안이 4.6분, AI 지원이 없을 때는 8.5분으로 약 46%의 시간이 절약됐다."
+                "x": "HearO는 매일 표준화된 여섯 문장의 발화를 수집해 억양, 호흡 패턴 등 음향 특성을 평가한다. AI 알고리즘이 환자별 음성 모델을 만들고, 심부전 악화 패턴이 나타나면 의료진에게 알린다."
               },
               {
                 "t": "p",
-                "x": "Kaiser Permanente의 공동 선임저자 Keane K. Lee, M.D., M.S.는 “다만 AI가 인간 팀을 대체할 수는 없다”고 말했다. 21곳의 Kaiser Permanente Northern California 의료센터에서 진행된 이 연구는 동료 심사를 거치지 않은 연구 초록이다."
+                "x": "참여자는 예정된 녹음의 85%를 마쳤다. 원인을 설명할 수 없는 알림은 환자당 연 2.65건이었고, 기기 관련 이상 사례는 보고되지 않았다. HearO는 FDA 혁신 의료기기 지정을 받았으며, 회사는 2027년 U.S. 출시를 목표로 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-readの心エコー\n人間と同等で時間は半分",
-          "body": "AI-assistedの心エコー判読は人間の報告と同等で、医師の判読時間を約半分にした。",
-          "mini_headline": "AI心エコー判読、時間半減",
+          "headline": "AI音声解析、\n心不全を数週間前に察知",
+          "body": "AHA 2026でAI音声解析が心不全の悪化を症状より数週間早く捉え、標準治療を上回った。",
+          "mini_headline": "AI音声で心不全を早期察知",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20143/53599f8bc8046712f4065d3a_heart%20with%20artery%20view/heart%20with%20artery%20view_hero.jpg?v=01ffdf01-5bde-4cd9-b76c-748d50ca8d91",
-                "cap": "動脈が見える心臓"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_"
               },
               {
                 "t": "p",
-                "x": "シカゴで開かれたAmerican Heart AssociationのScientific Sessions 2026で発表された速報段階の最新研究によると、AI-generated(AI生成)の心エコー図解釈は、超音波検査技師と循環器医が作成した予備解釈と同程度の精度を示し、循環器医が検査ごとの解釈にかける時間をほぼ半分に減らした。"
+                "x": "スマートフォンを使う人工知能(AI)音声解析システムが、心不全症状の悪化を三週間以上早く検知し、標準治療を大きく上回った。American Heart Association Scientific Sessions 2026で発表され、JACC: Heart Failureに掲載されたDETECT-HF試験の最新データによるものだ。"
               },
               {
                 "t": "p",
-                "x": "研究者らによると、AIツールで心エコー図の報告書全体を作成する手法を検証した無作為化試験はこれが初めてだという。AIツール、超音波検査技師、循環器医が同じ1,200件の心エコー図について予備報告書をそれぞれ作成し、循環器医は誰が初稿を作ったか知らないまま最終版に仕上げた。"
+                "x": "DETECT-HFは外来の心不全患者563人を対象にCordio MedicalのHearOシステムを評価した。重大な心不全イベントの70%超を平均24.6日前に予測した。筆頭研究者のWilliam T. Abraham, MDによると、従来の毎日の体重測定の感度は約20%にとどまる。"
+              },
+              {
+                "t": "video",
+                "src": "https://innovate-healthcare-cdn.s3.amazonaws.com/2026-11/William%20Abraham%20explains%20how%20AI%20voice%20analysis%20can%20detect%20worsening%20heart%20failure.mp4"
               },
               {
                 "t": "p",
-                "x": "循環器医が大幅な修正を加えた割合は、AI-generatedの予備解釈で50.6%、超音波検査技師と循環器医による解釈で49.7%で、非劣性の基準を満たした。心エコー図1件あたりの平均判読時間はAIの下書きで4.6分、AI支援なしで8.5分で、約46%の時間短縮となった。"
+                "x": "HearOは毎日、定型の六つの文を話した音声を収集し、抑揚や呼吸パターンなどの音響的特徴を評価する。AIアルゴリズムが患者ごとの音声モデルを構築し、心不全悪化のパターンが現れると臨床医に通知する。"
               },
               {
                 "t": "p",
-                "x": "「ただし、AIが人間のチームに取って代わることはできない」と、Kaiser Permanenteの共同シニアオーサー、Keane K. Lee, M.D., M.S.は述べた。Kaiser Permanente Northern Californiaの21の医療センターで行われたこの研究は、査読を経ていない研究抄録である。"
+                "x": "参加者は予定された録音の85%を完了した。原因不明のアラートは患者あたり年2.65件で、デバイス関連の有害事象は報告されなかった。HearOはFDAのブレークスルー・デバイス指定を受けており、同社は2027年のU.S.での発売を目指している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-read超声心动图\n与人工报告相当，耗时减半",
-          "body": "AI-assisted超声心动图判读与人工报告相当，心脏科医生判读时间减少约一半。",
-          "mini_headline": "AI超声心动图判读耗时减半",
+          "headline": "AI语音分析\n提前数周预警心衰",
+          "body": "AHA 2026上，AI语音分析比其他症状提前数周发现心衰恶化，优于标准护理。",
+          "mini_headline": "AI语音提前预警心衰",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20143/53599f8bc8046712f4065d3a_heart%20with%20artery%20view/heart%20with%20artery%20view_hero.jpg?v=01ffdf01-5bde-4cd9-b76c-748d50ca8d91",
-                "cap": "可见动脉的心脏"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_"
               },
               {
                 "t": "p",
-                "x": "据在芝加哥举行的American Heart Association Scientific Sessions 2026上公布的初步最新突破性研究，AI-generated（AI生成）的超声心动图解读在准确度上与超声技师和心脏科医生撰写的初步解读相当，并使心脏科医生解读每次扫描所需的时间减少近一半。"
+                "x": "根据在American Heart Association Scientific Sessions 2026上公布、并发表于JACC: Heart Failure的DETECT-HF试验最新数据，一款基于智能手机的人工智能(AI)语音分析系统可提前三周以上发现心衰症状恶化，表现明显优于标准护理。"
               },
               {
                 "t": "p",
-                "x": "研究人员表示，这是首个测试AI工具撰写完整超声心动图报告的随机试验。AI工具、一名超声技师和一名心脏科医生分别为同样的1,200份超声心动图撰写初步报告，随后由心脏科医生在不知道初稿出自谁手的情况下定稿。"
+                "x": "DETECT-HF在563名门诊心衰患者中评估了Cordio Medical的HearO系统。该系统平均提前24.6天预测了70%以上的重大心衰事件。主要研究者William T. Abraham, MD表示，传统的每日称重灵敏度约为20%。"
+              },
+              {
+                "t": "video",
+                "src": "https://innovate-healthcare-cdn.s3.amazonaws.com/2026-11/William%20Abraham%20explains%20how%20AI%20voice%20analysis%20can%20detect%20worsening%20heart%20failure.mp4"
               },
               {
                 "t": "p",
-                "x": "心脏科医生对50.6%的AI-generated初步解读做了实质性修改，而对超声技师和心脏科医生撰写的解读，这一比例为49.7%，达到非劣效性标准。他们处理AI初稿时每份超声心动图平均耗时4.6分钟，没有AI辅助时为8.5分钟，节省约46%的时间。"
+                "x": "HearO每天采集六句标准化语句的录音，评估语调、呼吸模式等声学特征。AI算法为每位患者建立专属语音模型，一旦出现心衰恶化的模式便提醒临床医生。"
               },
               {
                 "t": "p",
-                "x": "来自Kaiser Permanente的共同资深作者Keane K. Lee, M.D., M.S.表示：“不过，AI无法取代人类团队。”该研究在21家Kaiser Permanente Northern California医疗中心开展，是一份未经同行评审的研究摘要。"
+                "x": "参与者完成了85%的预定录音；无法解释的警报率为每名患者每年2.65次，未报告与器械相关的不良事件。HearO已获FDA突破性器械认定，公司希望于2027年在U.S.上市。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ecocardiogramas AI-read:\nigual precisión, mitad de tiempo",
-          "body": "Las lecturas AI-assisted de ecocardiogramas igualaron a las humanas y redujeron casi a la mitad el tiempo de lectura.",
-          "mini_headline": "Ecocardiogramas leídos con IA en la mitad de tiempo",
+          "headline": "AI de voz alerta semanas antes\nde la insuficiencia cardíaca",
+          "body": "En AHA 2026, el análisis de voz con AI detectó semanas antes la insuficiencia cardíaca y superó la atención estándar.",
+          "mini_headline": "La AI de voz anticipa la insuficiencia cardíaca",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20143/53599f8bc8046712f4065d3a_heart%20with%20artery%20view/heart%20with%20artery%20view_hero.jpg?v=01ffdf01-5bde-4cd9-b76c-748d50ca8d91",
-                "cap": "Corazón con vista de las arterias"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_"
               },
               {
                 "t": "p",
-                "x": "Las interpretaciones de ecocardiogramas AI-generated (generadas por IA) tuvieron una precisión comparable a la de las interpretaciones preliminares preparadas por ecografistas y cardiólogos, y redujeron casi a la mitad el tiempo que los cardiólogos dedicaban a interpretar cada estudio, según investigación preliminar de última hora presentada en las Scientific Sessions 2026 de la American Heart Association en Chicago."
+                "x": "Un sistema de análisis de voz con inteligencia artificial (AI) basado en el teléfono inteligente puede detectar el empeoramiento de los síntomas de insuficiencia cardíaca con más de tres semanas de antelación y supera con claridad la atención estándar, según datos de última hora del ensayo DETECT-HF presentados en las American Heart Association Scientific Sessions 2026 y publicados en JACC: Heart Failure."
               },
               {
                 "t": "p",
-                "x": "Los investigadores afirman que este es el primer ensayo aleatorizado que prueba una herramienta de IA para redactar un informe completo de ecocardiograma. Una herramienta de IA, un ecografista y un cardiólogo prepararon cada uno informes preliminares de los mismos 1.200 ecocardiogramas; después, los cardiólogos los finalizaron sin saber quién había hecho el primer borrador."
+                "x": "DETECT-HF evaluó el sistema HearO de Cordio Medical en 563 pacientes ambulatorios con insuficiencia cardíaca. Predijo más del 70% de los eventos significativos de insuficiencia cardíaca con una media de 24.6 días de antelación. El pesaje diario convencional tiene una sensibilidad de aproximadamente el 20%, según el investigador principal, William T. Abraham, MD."
+              },
+              {
+                "t": "video",
+                "src": "https://innovate-healthcare-cdn.s3.amazonaws.com/2026-11/William%20Abraham%20explains%20how%20AI%20voice%20analysis%20can%20detect%20worsening%20heart%20failure.mp4"
               },
               {
                 "t": "p",
-                "x": "Los cardiólogos hicieron cambios sustanciales en el 50,6% de las interpretaciones preliminares AI-generated, frente al 49,7% de las preparadas por ecografistas y cardiólogos, con lo que se cumplieron los criterios de no inferioridad. Dedicaron un promedio de 4,6 minutos por ecocardiograma a los borradores de IA, frente a 8,5 minutos sin ayuda de IA, un ahorro de tiempo de alrededor del 46%."
+                "x": "HearO recoge cada día seis frases habladas estandarizadas y evalúa la entonación, los patrones respiratorios y otras características acústicas. Los algoritmos de AI construyen un modelo de voz específico para cada paciente y alertan a los médicos cuando aparecen patrones de empeoramiento de la insuficiencia cardíaca."
               },
               {
                 "t": "p",
-                "x": "“Sin embargo, la IA no puede reemplazar al equipo humano”, dijo el coautor sénior Keane K. Lee, M.D., M.S., de Kaiser Permanente. El estudio, realizado en 21 centros médicos de Kaiser Permanente Northern California, es un resumen de investigación sin revisión por pares."
+                "x": "Los participantes completaron el 85% de las grabaciones previstas; la tasa de alertas sin explicación fue de 2.65 por paciente y año, y no se notificaron eventos adversos relacionados con el dispositivo. HearO recibió la designación de dispositivo innovador de la FDA, y la empresa espera lanzarlo en U.S. en 2027."
               }
             ]
           }
@@ -637,225 +707,189 @@
       }
     },
     {
-      "id": "previa-ptsd-llm-ed",
+      "id": "llm-mri-protocoling-radiology",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "LLM 앙상블, ED 질문\n하나로 PTSD 예측",
-      "body": "PREVIA는 ED 환자 30명의 PTSD를 모두 맞혀 전문의(89%)를 앞섰다.",
-      "mini_headline": "LLMs, ED에서 PTSD 예측",
+      "headline": "LLMs, MRI 프로토콜\n영상의학 전문의와 대등",
+      "body": "대형 언어 모델이 MRI 프로토콜 선택에서 영상의학 전문의와 맞먹었다.",
+      "mini_headline": "LLMs, MRI에서 전문의와 대등",
       "tool": "Medicine",
-      "source": "Nature Communications",
-      "url": "https://www.nature.com/articles/s41467-026-78768-3",
+      "source": "Radiology Business",
+      "url": "https://radiologybusiness.com/topics/artificial-intelligence/large-language-models-show-potential-mri-protocoling",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "많은 외상 생존자가 응급실에서 퇴원한 뒤 외상후 스트레스 장애를 겪는다. 하지만 응급 임상의는 시간이 극도로 부족해 기존 선별 도구를 현장에서 쓰기 어렵다."
-          },
-          {
             "t": "img",
-            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig1_HTML.png",
-            "cap": "Fig. 1: PREVIA 개요도."
+            "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t"
           },
           {
             "t": "p",
-            "x": "NYU Langone Health 연구진이 임상 지식을 반영한 대규모 언어 모델 앙상블 PREVIA를 내놨다. ED에서 일상적으로 묻는 “무엇 때문에 ED에 오셨나요?”라는 질문에 환자가 답한 비정형 외상 서술에서 초기 외상후 스트레스 증상, 외상 주변기 증상, 위험 요인과 보호 요인을 뽑아 PTSD 위험을 예측한다."
+            "x": "환자에게 가장 알맞은 MRI 프로토콜을 고르는 일에서 대형 언어 모델이 영상의학 전문의와 대등한 성능을 낼 수 있다는 새 분석이 나왔다. 대개 사람이 손으로 하던 MRI 프로토콜 선택을 일부 모델이 표준화하는 데 보탬이 될 수 있다는 결과다."
           },
           {
             "t": "p",
-            "x": "대상은 New York City의 두 level-1 외상센터에서 외상 후 24시간 안에 등록돼 한 달 뒤 PTSD 평가를 받은 환자 N = 145명이다. PREVIA는 이들의 PTSD를 AUROC = 78.49%, 민감도 = 95.4%로 예측했다. 무작위로 고른 환자 30명에서는 PTSD-specialist(PTSD 전문) 응급 임상의와 성능이 비슷했다(PREVIA: AUROC = 84.39%, 민감도 = 100.00%; 임상의: AUROC = 83.86%, 민감도 = 88.89%)."
-          },
-          {
-            "t": "img",
-            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig4_HTML.png",
-            "cap": "Fig. 4: 합성 ED 외상 서술에 PREVIA의 세 층 LLM 앙상블을 적용한 예: PTSD 사례."
+            "x": "University Hospital Bonn의 Dr. Zeynep Bendella가 이끈 연구진은 연속 접수된 MRI 의뢰서 1,200건으로 오픈 웨이트 LLMs 네 종을 시험했다. 영상의학 전문의 자격을 갖춘 두 명이 합의한 결과를 정답 기준으로 삼았다."
           },
           {
             "t": "p",
-            "x": "PREVIA는 임상 부담을 더하지 않으면서 해석 가능한 설명까지 내놓는다. 다만 저자들은 더 크고 독립적인 코호트에서 검증해야 한다고 밝혔다."
+            "x": "GPT-OSS-120B와 Qwen3-235B-A22B-Instruct-2507은 프로토콜 정확도가 나란히 94%였다. MedGemma-27B-Text-IT는 79%, Gemma-3-27B-IT는 58%로 가장 낮았다. 부적절한 선택 비율은 GPT-OSS 5.8%, Qwen3 5.9%에 그쳤지만 MedGemma는 24.7%, Gemma3는 68.3%까지 올라갔다."
+          },
+          {
+            "t": "p",
+            "x": "가장 흔한 오류는 해부학적으로는 맞지만 임상적으로 최선은 아닌 프로토콜을 고른 경우였다. 저자들은 출력이 들쭉날쭉하고 부적절한 선택도 잦은 만큼 임상 감독 없이 자동 추천에 기대면 위험하다고 경고했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "LLM ensemble predicts PTSD\nfrom a single ED question",
-          "body": "In 30 random ED patients, NYU Langone's PREVIA caught every later PTSD case, versus 89% for a PTSD-specialist clinician.",
-          "mini_headline": "LLMs predict PTSD in the ED",
+          "headline": "LLMs match radiologists\non MRI protocoling",
+          "body": "A new analysis finds large language models perform on par with radiologists at choosing the right MRI protocol.",
+          "mini_headline": "LLMs match radiologists on MRI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Post-traumatic stress disorder affects numerous trauma survivors after emergency department discharge, yet emergency clinicians face severe time constraints that make existing screening tools impractical."
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig1_HTML.png",
-                "cap": "Fig. 1: Schematic overview of PREVIA."
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t"
               },
               {
                 "t": "p",
-                "x": "Researchers from NYU Langone Health introduce PREVIA, a clinically-informed large language model ensemble that predicts PTSD risk from unstructured patient trauma narratives given in response to a routine-care question in the ED — “What brought you to the ED?” — by extracting early post-traumatic stress symptoms, peri-traumatic symptoms, risk and protective factors."
+                "x": "Large language models can perform on par with radiologists when it comes to selecting the most appropriate MRI protocols for patients, according to a new analysis. The findings suggest certain models could help standardize MRI protocol selection, which is typically done manually."
               },
               {
                 "t": "p",
-                "x": "Among N = 145 patients at two New York City level-1 trauma centers, enrolled within 24 hours of trauma and assessed for PTSD one month later, PREVIA forecast PTSD with AUROC = 78.49% and sensitivity = 95.4%. On 30 randomly selected patients it performed comparably to an emergency clinician specialized in PTSD (PREVIA: AUROC = 84.39%, sensitivity = 100.00%; clinician: AUROC = 83.86%, sensitivity = 88.89%)."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig4_HTML.png",
-                "cap": "Fig. 4: Example application of PREVIA’s three-layer LLM ensemble to a synthetic ED trauma narrative: PTSD case."
+                "x": "Researchers led by Dr. Zeynep Bendella of University Hospital Bonn evaluated four open-weight LLMs using 1,200 consecutive MRI referral forms, with a consensus of two board-certified radiologists as the reference standard."
               },
               {
                 "t": "p",
-                "x": "PREVIA also generates interpretable explanations without additional clinical burden; the authors say the findings warrant validation in larger, independent cohorts."
+                "x": "GPT-OSS-120B and Qwen3-235B-A22B-Instruct-2507 each earned 94% protocol accuracy. MedGemma-27B-Text-IT achieved 79%, and Gemma-3-27B-IT had the lowest performance, with 58%. Unacceptable selections were 5.8% for GPT-OSS and 5.9% for Qwen3, versus 24.7% for MedGemma and 68.3% for Gemma3."
+              },
+              {
+                "t": "p",
+                "x": "The most common error was choosing a protocol that was anatomically appropriate but clinically suboptimal. The authors cautioned that the variation in outputs and frequency of unacceptable selections highlight the risks of relying on automated recommendations without clinical oversight."
               }
             ]
           }
         },
         "ko": {
-          "headline": "LLM 앙상블, ED 질문\n하나로 PTSD 예측",
-          "body": "PREVIA는 ED 환자 30명의 PTSD를 모두 맞혀 전문의(89%)를 앞섰다.",
-          "mini_headline": "LLMs, ED에서 PTSD 예측",
+          "headline": "LLMs, MRI 프로토콜\n영상의학 전문의와 대등",
+          "body": "대형 언어 모델이 MRI 프로토콜 선택에서 영상의학 전문의와 맞먹었다.",
+          "mini_headline": "LLMs, MRI에서 전문의와 대등",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "많은 외상 생존자가 응급실에서 퇴원한 뒤 외상후 스트레스 장애를 겪는다. 하지만 응급 임상의는 시간이 극도로 부족해 기존 선별 도구를 현장에서 쓰기 어렵다."
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig1_HTML.png",
-                "cap": "Fig. 1: PREVIA 개요도."
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t"
               },
               {
                 "t": "p",
-                "x": "NYU Langone Health 연구진이 임상 지식을 반영한 대규모 언어 모델 앙상블 PREVIA를 내놨다. ED에서 일상적으로 묻는 “무엇 때문에 ED에 오셨나요?”라는 질문에 환자가 답한 비정형 외상 서술에서 초기 외상후 스트레스 증상, 외상 주변기 증상, 위험 요인과 보호 요인을 뽑아 PTSD 위험을 예측한다."
+                "x": "환자에게 가장 알맞은 MRI 프로토콜을 고르는 일에서 대형 언어 모델이 영상의학 전문의와 대등한 성능을 낼 수 있다는 새 분석이 나왔다. 대개 사람이 손으로 하던 MRI 프로토콜 선택을 일부 모델이 표준화하는 데 보탬이 될 수 있다는 결과다."
               },
               {
                 "t": "p",
-                "x": "대상은 New York City의 두 level-1 외상센터에서 외상 후 24시간 안에 등록돼 한 달 뒤 PTSD 평가를 받은 환자 N = 145명이다. PREVIA는 이들의 PTSD를 AUROC = 78.49%, 민감도 = 95.4%로 예측했다. 무작위로 고른 환자 30명에서는 PTSD-specialist(PTSD 전문) 응급 임상의와 성능이 비슷했다(PREVIA: AUROC = 84.39%, 민감도 = 100.00%; 임상의: AUROC = 83.86%, 민감도 = 88.89%)."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig4_HTML.png",
-                "cap": "Fig. 4: 합성 ED 외상 서술에 PREVIA의 세 층 LLM 앙상블을 적용한 예: PTSD 사례."
+                "x": "University Hospital Bonn의 Dr. Zeynep Bendella가 이끈 연구진은 연속 접수된 MRI 의뢰서 1,200건으로 오픈 웨이트 LLMs 네 종을 시험했다. 영상의학 전문의 자격을 갖춘 두 명이 합의한 결과를 정답 기준으로 삼았다."
               },
               {
                 "t": "p",
-                "x": "PREVIA는 임상 부담을 더하지 않으면서 해석 가능한 설명까지 내놓는다. 다만 저자들은 더 크고 독립적인 코호트에서 검증해야 한다고 밝혔다."
+                "x": "GPT-OSS-120B와 Qwen3-235B-A22B-Instruct-2507은 프로토콜 정확도가 나란히 94%였다. MedGemma-27B-Text-IT는 79%, Gemma-3-27B-IT는 58%로 가장 낮았다. 부적절한 선택 비율은 GPT-OSS 5.8%, Qwen3 5.9%에 그쳤지만 MedGemma는 24.7%, Gemma3는 68.3%까지 올라갔다."
+              },
+              {
+                "t": "p",
+                "x": "가장 흔한 오류는 해부학적으로는 맞지만 임상적으로 최선은 아닌 프로토콜을 고른 경우였다. 저자들은 출력이 들쭉날쭉하고 부적절한 선택도 잦은 만큼 임상 감독 없이 자동 추천에 기대면 위험하다고 경고했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LLMアンサンブルが\nED質問一つでPTSD予測",
-          "body": "PREVIAはED患者30人のPTSDを全て予測し、専門医の89%を上回った。",
-          "mini_headline": "LLMsがEDでPTSDを予測",
+          "headline": "LLMs、MRIプロトコル\n選択で放射線科医と同等",
+          "body": "新たな分析で、大規模言語モデルはMRIプロトコル選択で放射線科医と同等の性能を示した。",
+          "mini_headline": "LLMs、MRIで放射線科医並み",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "心的外傷後ストレス障害は救急外来を退院した多くの外傷生存者に生じるが、救急の臨床医は時間的制約が厳しく、既存のスクリーニング手法は現実的でない。"
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig1_HTML.png",
-                "cap": "Fig. 1: PREVIAの概要図。"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t"
               },
               {
                 "t": "p",
-                "x": "NYU Langone Healthの研究チームは、臨床知見を組み込んだ大規模言語モデルのアンサンブルPREVIAを発表した。EDの通常診療での質問「何があってEDに来ましたか？」に対する患者の非構造的な外傷の語りから、初期の外傷後ストレス症状、周外傷期症状、リスク要因と保護要因を抽出し、PTSDリスクを予測する。"
+                "x": "新たな分析によると、大規模言語モデルは患者に最適なMRIプロトコルを選ぶ点で放射線科医と同等の性能を発揮しうる。通常は手作業で行われるMRIプロトコル選択を、一部のモデルが標準化する助けになる可能性が示された。"
               },
               {
                 "t": "p",
-                "x": "New York Cityの二つのlevel-1 外傷センターで、外傷から24時間以内に登録され一か月後にPTSDを評価された患者N = 145人を対象に、PREVIAはAUROC = 78.49%、感度 = 95.4%でPTSDを予測した。無作為に選んだ30人では、PTSD-specialist（PTSD専門）の救急臨床医と同等の成績を示した（PREVIA：AUROC = 84.39%、感度 = 100.00%；臨床医：AUROC = 83.86%、感度 = 88.89%）。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig4_HTML.png",
-                "cap": "Fig. 4: 合成したEDの外傷の語りにPREVIAの三層LLMアンサンブルを適用した例：PTSD症例。"
+                "x": "University Hospital BonnのDr. Zeynep Bendella率いる研究チームは、連続した1,200件のMRI依頼票を用いて四つのオープンウェイトLLMsを評価した。基準には専門医資格を持つ二人の放射線科医の合意を用いた。"
               },
               {
                 "t": "p",
-                "x": "PREVIAは追加の臨床負担なしに解釈可能な説明も生成する。著者らは、より大規模で独立したコホートでの検証が必要だとしている。"
+                "x": "GPT-OSS-120BとQwen3-235B-A22B-Instruct-2507はいずれもプロトコル正解率94%を記録した。MedGemma-27B-Text-ITは79%、Gemma-3-27B-ITは58%で最も低かった。不適切な選択はGPT-OSSが5.8%、Qwen3が5.9%だったのに対し、MedGemmaは24.7%、Gemma3は68.3%だった。"
+              },
+              {
+                "t": "p",
+                "x": "最も多い誤りは、解剖学的には適切だが臨床的には最適でないプロトコルを選ぶものだった。著者らは、出力のばらつきと不適切な選択の頻度が、臨床的な監督なしに自動推奨へ頼るリスクを浮き彫りにしていると警告した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "LLM集成模型仅凭\n一个ED问题预测PTSD",
-          "body": "PREVIA在30名随机ED患者中识别出全部后续PTSD病例，专科医生为89%。",
-          "mini_headline": "LLMs在ED中预测PTSD",
+          "headline": "LLMs选择MRI方案\n比肩放射科医生",
+          "body": "新分析显示，大语言模型在选择合适MRI方案上与放射科医生表现相当。",
+          "mini_headline": "LLMs在MRI上比肩放射科医生",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "创伤后应激障碍影响众多急诊出院后的创伤幸存者，但急诊医生时间极为紧张，现有筛查工具难以实际使用。"
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig1_HTML.png",
-                "cap": "Fig. 1: PREVIA示意概览。"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t"
               },
               {
                 "t": "p",
-                "x": "NYU Langone Health的研究人员推出PREVIA——一个融入临床知识的大语言模型集成系统。它从患者对ED常规诊疗问题“是什么让你来到ED？”的非结构化创伤叙述中，提取早期创伤后应激症状、围创伤期症状以及风险与保护因素，从而预测PTSD风险。"
+                "x": "一项新分析显示，在为患者选择最合适的MRI扫描方案时，大语言模型的表现可与放射科医生相当。研究结果表明，某些模型有助于将通常依赖人工完成的MRI方案选择标准化。"
               },
               {
                 "t": "p",
-                "x": "研究在New York City两家level-1 创伤中心纳入N = 145名患者，均在创伤后24小时内入组、一个月后接受PTSD评估；PREVIA预测PTSD的AUROC = 78.49%，敏感度 = 95.4%。在随机选取的30名患者中，其表现与PTSD-specialist（PTSD专科）急诊临床医生相当（PREVIA：AUROC = 84.39%，敏感度 = 100.00%；临床医生：AUROC = 83.86%，敏感度 = 88.89%）。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig4_HTML.png",
-                "cap": "Fig. 4: 将PREVIA的三层LLM集成应用于合成ED创伤叙述的示例：PTSD病例。"
+                "x": "由University Hospital Bonn的Dr. Zeynep Bendella领导的研究团队，使用1,200份连续的MRI申请单评估了四款开放权重LLMs，并以两位委员会认证放射科医生的共识作为参考标准。"
               },
               {
                 "t": "p",
-                "x": "PREVIA还能在不增加临床负担的情况下生成可解释的说明；作者表示，这些结果有待在更大规模的独立队列中验证。"
+                "x": "GPT-OSS-120B和Qwen3-235B-A22B-Instruct-2507的方案准确率均为94%。MedGemma-27B-Text-IT为79%，Gemma-3-27B-IT表现最差，仅为58%。不可接受的选择比例方面，GPT-OSS为5.8%，Qwen3为5.9%，而MedGemma为24.7%，Gemma3为68.3%。"
+              },
+              {
+                "t": "p",
+                "x": "最常见的错误是选择了解剖上合适但临床上并非最优的方案。作者提醒，输出结果的差异以及不可接受选择的频率，凸显了在缺乏临床监督的情况下依赖自动推荐的风险。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un ensamble de LLM anticipa el\nPTSD con una pregunta en ED",
-          "body": "PREVIA detectó todos los casos de PTSD en 30 pacientes de ED al azar, frente al 89% de un clínico PTSD-specialist.",
-          "mini_headline": "Los LLMs predicen el PTSD en el ED",
+          "headline": "Los LLMs igualan a radiólogos\nal elegir protocolos de MRI",
+          "body": "Un nuevo análisis halla que los grandes modelos de lenguaje igualan a los radiólogos al elegir el protocolo de MRI.",
+          "mini_headline": "Los LLMs igualan a radiólogos en MRI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "El trastorno de estrés postraumático afecta a numerosos supervivientes de traumas tras el alta del servicio de urgencias, pero los clínicos de urgencias trabajan con fuertes limitaciones de tiempo que hacen poco prácticas las herramientas de cribado existentes."
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig1_HTML.png",
-                "cap": "Fig. 1: Esquema general de PREVIA."
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t"
               },
               {
                 "t": "p",
-                "x": "Investigadores de NYU Langone Health presentan PREVIA, un ensamble de modelos de lenguaje de gran tamaño con base clínica que predice el riesgo de PTSD a partir de los relatos no estructurados de trauma que dan los pacientes ante una pregunta de atención rutinaria en el ED —“¿Qué le trajo al ED?”—, extrayendo síntomas tempranos de estrés postraumático, síntomas peritraumáticos y factores de riesgo y de protección."
+                "x": "Los grandes modelos de lenguaje pueden rendir al nivel de los radiólogos a la hora de seleccionar los protocolos de MRI más adecuados para los pacientes, según un nuevo análisis. Los resultados sugieren que ciertos modelos podrían ayudar a estandarizar la selección de protocolos de MRI, que normalmente se hace de forma manual."
               },
               {
                 "t": "p",
-                "x": "Entre N = 145 pacientes de dos centros de trauma level-1 de New York City, inscritos en las 24 horas siguientes al trauma y evaluados para PTSD un mes después, PREVIA pronosticó el PTSD con AUROC = 78.49% y sensibilidad = 95.4%. En 30 pacientes seleccionados al azar tuvo un rendimiento comparable al de un clínico de urgencias PTSD-specialist, especializado en PTSD (PREVIA: AUROC = 84.39%, sensibilidad = 100.00%; clínico: AUROC = 83.86%, sensibilidad = 88.89%)."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig4_HTML.png",
-                "cap": "Fig. 4: Ejemplo de aplicación del ensamble LLM de tres capas de PREVIA a un relato sintético de trauma en el ED: caso de PTSD."
+                "x": "Investigadores dirigidos por la Dr. Zeynep Bendella, del University Hospital Bonn, evaluaron cuatro LLMs de pesos abiertos con 1,200 formularios consecutivos de solicitud de MRI, usando como estándar de referencia el consenso de dos radiólogos certificados."
               },
               {
                 "t": "p",
-                "x": "PREVIA también genera explicaciones interpretables sin carga clínica adicional; los autores señalan que los hallazgos deben validarse en cohortes más grandes e independientes."
+                "x": "GPT-OSS-120B y Qwen3-235B-A22B-Instruct-2507 alcanzaron cada uno un 94% de precisión en el protocolo. MedGemma-27B-Text-IT logró un 79%, y Gemma-3-27B-IT tuvo el peor rendimiento, con un 58%. Las selecciones inaceptables fueron del 5.8% para GPT-OSS y del 5.9% para Qwen3, frente al 24.7% de MedGemma y el 68.3% de Gemma3."
+              },
+              {
+                "t": "p",
+                "x": "El error más común fue elegir un protocolo anatómicamente apropiado pero clínicamente subóptimo. Los autores advirtieron que la variación en los resultados y la frecuencia de selecciones inaceptables ponen de relieve los riesgos de confiar en recomendaciones automatizadas sin supervisión clínica."
               }
             ]
           }
@@ -863,145 +897,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "LLM 앙상블, ED 질문\n하나로 PTSD 예측",
-          "body": "PREVIA는 ED 환자 30명의 PTSD를 모두 맞혀 전문의(89%)를 앞섰다.",
-          "mini_headline": "LLMs, ED에서 PTSD 예측",
+          "headline": "LLMs, MRI 프로토콜\n영상의학 전문의와 대등",
+          "body": "대형 언어 모델이 MRI 프로토콜 선택에서 영상의학 전문의와 대등하다는 분석이다.",
+          "mini_headline": "LLMs, MRI에서 전문의와 대등",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "외상후 스트레스 장애는 응급실 퇴원 이후 많은 외상 생존자에게 나타나지만, 응급 임상의는 시간이 극도로 부족해 기존 선별 도구를 현장에서 쓰기 어렵다."
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig1_HTML.png",
-                "cap": "Fig. 1: PREVIA 개요도."
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t"
               },
               {
                 "t": "p",
-                "x": "NYU Langone Health 연구진은 임상 지식을 반영한 대규모 언어 모델 앙상블 PREVIA를 소개했다. PREVIA는 ED의 일상 진료 질문인 “무엇 때문에 ED에 오셨나요?”에 환자가 답한 비정형 외상 서술에서 초기 외상후 스트레스 증상, 외상 주변기 증상, 위험 요인과 보호 요인을 추출해 PTSD 위험을 예측한다."
+                "x": "새 분석에 따르면 대형 언어 모델은 환자에게 가장 적합한 MRI 프로토콜을 고르는 일에서 영상의학 전문의와 대등한 성능을 낼 수 있다. 연구 결과는 보통 수작업으로 이뤄지는 MRI 프로토콜 선택을 일부 모델이 표준화하는 데 도움이 될 수 있음을 시사한다."
               },
               {
                 "t": "p",
-                "x": "New York City의 두 level-1 외상센터에서 외상 후 24시간 안에 등록되고 한 달 뒤 PTSD 평가를 받은 환자 N = 145명을 대상으로, PREVIA는 AUROC = 78.49%, 민감도 = 95.4%로 PTSD를 예측했다. 무작위로 고른 환자 30명에서는 PTSD-specialist(PTSD 전문) 응급 임상의와 비슷한 성능을 보였다(PREVIA: AUROC = 84.39%, 민감도 = 100.00%; 임상의: AUROC = 83.86%, 민감도 = 88.89%)."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig4_HTML.png",
-                "cap": "Fig. 4: 합성 ED 외상 서술에 PREVIA의 세 층 LLM 앙상블을 적용한 예: PTSD 사례."
+                "x": "University Hospital Bonn의 Dr. Zeynep Bendella가 이끈 연구진은 연속된 MRI 의뢰서 1,200건으로 오픈 웨이트 LLMs 네 종을 평가했다. 기준은 영상의학 전문의 자격을 갖춘 두 명의 합의로 삼았다."
               },
               {
                 "t": "p",
-                "x": "PREVIA는 추가 임상 부담 없이 해석 가능한 설명도 생성한다. 저자들은 더 크고 독립적인 코호트에서 검증이 필요하다고 밝혔다."
+                "x": "GPT-OSS-120B와 Qwen3-235B-A22B-Instruct-2507은 각각 94%의 프로토콜 정확도를 기록했다. MedGemma-27B-Text-IT는 79%였고, Gemma-3-27B-IT가 58%로 가장 낮았다. 부적절한 선택은 GPT-OSS 5.8%, Qwen3 5.9%였던 반면 MedGemma는 24.7%, Gemma3는 68.3%에 달했다."
+              },
+              {
+                "t": "p",
+                "x": "가장 흔한 오류는 해부학적으로는 맞지만 임상적으로는 최적이 아닌 프로토콜을 고른 경우였다. 저자들은 출력의 편차와 부적절한 선택의 빈도가 임상적 감독 없이 자동 추천에 기대는 위험을 드러낸다고 경고했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LLMアンサンブルが\nED質問一つでPTSD予測",
-          "body": "PREVIAはED患者30人のPTSDを全て予測し、専門医の89%を上回った。",
-          "mini_headline": "LLMsがEDでPTSDを予測",
+          "headline": "LLMs、MRIプロトコル\n選択で放射線科医と同等",
+          "body": "新たな分析で、大規模言語モデルはMRIプロトコル選択で放射線科医と同等の性能を示した。",
+          "mini_headline": "LLMs、MRIで放射線科医並み",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "心的外傷後ストレス障害は救急外来を退院した多くの外傷生存者に生じるが、救急の臨床医は時間的制約が厳しく、既存のスクリーニング手法は現実的でない。"
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig1_HTML.png",
-                "cap": "Fig. 1: PREVIAの概要図。"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t"
               },
               {
                 "t": "p",
-                "x": "NYU Langone Healthの研究チームは、臨床知見を組み込んだ大規模言語モデルのアンサンブルPREVIAを発表した。EDの通常診療での質問「何があってEDに来ましたか？」に対する患者の非構造的な外傷の語りから、初期の外傷後ストレス症状、周外傷期症状、リスク要因と保護要因を抽出し、PTSDリスクを予測する。"
+                "x": "新たな分析によると、大規模言語モデルは患者に最適なMRIプロトコルを選ぶ点で放射線科医と同等の性能を発揮しうる。通常は手作業で行われるMRIプロトコル選択を、一部のモデルが標準化する助けになる可能性が示された。"
               },
               {
                 "t": "p",
-                "x": "New York Cityの二つのlevel-1 外傷センターで、外傷から24時間以内に登録され一か月後にPTSDを評価された患者N = 145人を対象に、PREVIAはAUROC = 78.49%、感度 = 95.4%でPTSDを予測した。無作為に選んだ30人では、PTSD-specialist（PTSD専門）の救急臨床医と同等の成績を示した（PREVIA：AUROC = 84.39%、感度 = 100.00%；臨床医：AUROC = 83.86%、感度 = 88.89%）。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig4_HTML.png",
-                "cap": "Fig. 4: 合成したEDの外傷の語りにPREVIAの三層LLMアンサンブルを適用した例：PTSD症例。"
+                "x": "University Hospital BonnのDr. Zeynep Bendella率いる研究チームは、連続した1,200件のMRI依頼票を用いて四つのオープンウェイトLLMsを評価した。基準には専門医資格を持つ二人の放射線科医の合意を用いた。"
               },
               {
                 "t": "p",
-                "x": "PREVIAは追加の臨床負担なしに解釈可能な説明も生成する。著者らは、より大規模で独立したコホートでの検証が必要だとしている。"
+                "x": "GPT-OSS-120BとQwen3-235B-A22B-Instruct-2507はいずれもプロトコル正解率94%を記録した。MedGemma-27B-Text-ITは79%、Gemma-3-27B-ITは58%で最も低かった。不適切な選択はGPT-OSSが5.8%、Qwen3が5.9%だったのに対し、MedGemmaは24.7%、Gemma3は68.3%だった。"
+              },
+              {
+                "t": "p",
+                "x": "最も多い誤りは、解剖学的には適切だが臨床的には最適でないプロトコルを選ぶものだった。著者らは、出力のばらつきと不適切な選択の頻度が、臨床的な監督なしに自動推奨へ頼るリスクを浮き彫りにしていると警告した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "LLM集成模型仅凭\n一个ED问题预测PTSD",
-          "body": "PREVIA在30名随机ED患者中识别出全部后续PTSD病例，专科医生为89%。",
-          "mini_headline": "LLMs在ED中预测PTSD",
+          "headline": "LLMs选择MRI方案\n比肩放射科医生",
+          "body": "新分析显示，大语言模型在选择合适MRI方案上与放射科医生表现相当。",
+          "mini_headline": "LLMs在MRI上比肩放射科医生",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "创伤后应激障碍影响众多急诊出院后的创伤幸存者，但急诊医生时间极为紧张，现有筛查工具难以实际使用。"
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig1_HTML.png",
-                "cap": "Fig. 1: PREVIA示意概览。"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t"
               },
               {
                 "t": "p",
-                "x": "NYU Langone Health的研究人员推出PREVIA——一个融入临床知识的大语言模型集成系统。它从患者对ED常规诊疗问题“是什么让你来到ED？”的非结构化创伤叙述中，提取早期创伤后应激症状、围创伤期症状以及风险与保护因素，从而预测PTSD风险。"
+                "x": "一项新分析显示，在为患者选择最合适的MRI扫描方案时，大语言模型的表现可与放射科医生相当。研究结果表明，某些模型有助于将通常依赖人工完成的MRI方案选择标准化。"
               },
               {
                 "t": "p",
-                "x": "研究在New York City两家level-1 创伤中心纳入N = 145名患者，均在创伤后24小时内入组、一个月后接受PTSD评估；PREVIA预测PTSD的AUROC = 78.49%，敏感度 = 95.4%。在随机选取的30名患者中，其表现与PTSD-specialist（PTSD专科）急诊临床医生相当（PREVIA：AUROC = 84.39%，敏感度 = 100.00%；临床医生：AUROC = 83.86%，敏感度 = 88.89%）。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig4_HTML.png",
-                "cap": "Fig. 4: 将PREVIA的三层LLM集成应用于合成ED创伤叙述的示例：PTSD病例。"
+                "x": "由University Hospital Bonn的Dr. Zeynep Bendella领导的研究团队，使用1,200份连续的MRI申请单评估了四款开放权重LLMs，并以两位委员会认证放射科医生的共识作为参考标准。"
               },
               {
                 "t": "p",
-                "x": "PREVIA还能在不增加临床负担的情况下生成可解释的说明；作者表示，这些结果有待在更大规模的独立队列中验证。"
+                "x": "GPT-OSS-120B和Qwen3-235B-A22B-Instruct-2507的方案准确率均为94%。MedGemma-27B-Text-IT为79%，Gemma-3-27B-IT表现最差，仅为58%。不可接受的选择比例方面，GPT-OSS为5.8%，Qwen3为5.9%，而MedGemma为24.7%，Gemma3为68.3%。"
+              },
+              {
+                "t": "p",
+                "x": "最常见的错误是选择了解剖上合适但临床上并非最优的方案。作者提醒，输出结果的差异以及不可接受选择的频率，凸显了在缺乏临床监督的情况下依赖自动推荐的风险。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un ensamble de LLM anticipa el\nPTSD con una pregunta en ED",
-          "body": "PREVIA detectó todos los casos de PTSD en 30 pacientes de ED al azar, frente al 89% de un clínico PTSD-specialist.",
-          "mini_headline": "Los LLMs predicen el PTSD en el ED",
+          "headline": "Los LLMs igualan a radiólogos\nal elegir protocolos de MRI",
+          "body": "Un nuevo análisis halla que los grandes modelos de lenguaje igualan a los radiólogos al elegir el protocolo de MRI.",
+          "mini_headline": "Los LLMs igualan a radiólogos en MRI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "El trastorno de estrés postraumático afecta a numerosos supervivientes de traumas tras el alta del servicio de urgencias, pero los clínicos de urgencias trabajan con fuertes limitaciones de tiempo que hacen poco prácticas las herramientas de cribado existentes."
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig1_HTML.png",
-                "cap": "Fig. 1: Esquema general de PREVIA."
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t"
               },
               {
                 "t": "p",
-                "x": "Investigadores de NYU Langone Health presentan PREVIA, un ensamble de modelos de lenguaje de gran tamaño con base clínica que predice el riesgo de PTSD a partir de los relatos no estructurados de trauma que dan los pacientes ante una pregunta de atención rutinaria en el ED —“¿Qué le trajo al ED?”—, extrayendo síntomas tempranos de estrés postraumático, síntomas peritraumáticos y factores de riesgo y de protección."
+                "x": "Los grandes modelos de lenguaje pueden rendir al nivel de los radiólogos a la hora de seleccionar los protocolos de MRI más adecuados para los pacientes, según un nuevo análisis. Los resultados sugieren que ciertos modelos podrían ayudar a estandarizar la selección de protocolos de MRI, que normalmente se hace de forma manual."
               },
               {
                 "t": "p",
-                "x": "Entre N = 145 pacientes de dos centros de trauma level-1 de New York City, inscritos en las 24 horas siguientes al trauma y evaluados para PTSD un mes después, PREVIA pronosticó el PTSD con AUROC = 78.49% y sensibilidad = 95.4%. En 30 pacientes seleccionados al azar tuvo un rendimiento comparable al de un clínico de urgencias PTSD-specialist, especializado en PTSD (PREVIA: AUROC = 84.39%, sensibilidad = 100.00%; clínico: AUROC = 83.86%, sensibilidad = 88.89%)."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig4_HTML.png",
-                "cap": "Fig. 4: Ejemplo de aplicación del ensamble LLM de tres capas de PREVIA a un relato sintético de trauma en el ED: caso de PTSD."
+                "x": "Investigadores dirigidos por la Dr. Zeynep Bendella, del University Hospital Bonn, evaluaron cuatro LLMs de pesos abiertos con 1,200 formularios consecutivos de solicitud de MRI, usando como estándar de referencia el consenso de dos radiólogos certificados."
               },
               {
                 "t": "p",
-                "x": "PREVIA también genera explicaciones interpretables sin carga clínica adicional; los autores señalan que los hallazgos deben validarse en cohortes más grandes e independientes."
+                "x": "GPT-OSS-120B y Qwen3-235B-A22B-Instruct-2507 alcanzaron cada uno un 94% de precisión en el protocolo. MedGemma-27B-Text-IT logró un 79%, y Gemma-3-27B-IT tuvo el peor rendimiento, con un 58%. Las selecciones inaceptables fueron del 5.8% para GPT-OSS y del 5.9% para Qwen3, frente al 24.7% de MedGemma y el 68.3% de Gemma3."
+              },
+              {
+                "t": "p",
+                "x": "El error más común fue elegir un protocolo anatómicamente apropiado pero clínicamente subóptimo. Los autores advirtieron que la variación en los resultados y la frecuencia de selecciones inaceptables ponen de relieve los riesgos de confiar en recomendaciones automatizadas sin supervisión clínica."
               }
             ]
           }
@@ -1009,15 +1019,15 @@
       }
     },
     {
-      "id": "arpah-advocate-fda-meetings",
+      "id": "thyroid-eye-radiomics-radiotherapy",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "자율 임상 AI 팀들\n벌써 FDA와 만났다",
-      "body": "ARPA-H ADVOCATE 프로그램 팀들이 출범 두 달 안에 FDA를 만났다.",
-      "mini_headline": "임상 AI 에이전트, FDA와 만나",
+      "headline": "MRI로 갑상선안병증\n방사선치료 반응 예측",
+      "body": "다중 시퀀스 MRI 라디오믹스 모델로 갑상선안병증 방사선치료 반응을 미리 가늠한다.",
+      "mini_headline": "MRI로 안와 방사선치료 반응 예측",
       "tool": "Medicine",
-      "source": "Endpoints News",
-      "url": "https://endpoints.news/how-early-efforts-to-build-autonomous-clinical-ai-tools-are-approaching-regulation/",
+      "source": "Communications Medicine",
+      "url": "https://www.nature.com/articles/s43856-026-01991-y",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -1025,125 +1035,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://endpoints.news/wp-content/uploads/2023/12/digital-health-concept-shutterstock-social.jpg"
+            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Figa_HTML.png"
           },
           {
             "t": "p",
-            "x": "임상 AI 프로그램인 ARPA-H의 Advocate에 참여한 여러 팀이 출범 두 달도 안 돼 FDA와 첫 정보 회의를 열었다."
+            "x": "방사선치료는 활동성 중등도~중증 갑상선안병증(TED)의 핵심 치료지만 환자마다 반응이 다르고, 임상 활동성 점수(CAS)로는 반응을 내다보기 어렵다. 저자들은 임상 데이터와 기존 영상, MRI 라디오믹스 특징을 묶어 방사선치료 반응을 예측하는 다중 시퀀스 모델을 만들었다."
           },
           {
             "t": "p",
-            "x": "프로그램 매니저 Haider Warraich에 따르면 팀들의 목표는 2년 안에 자율 AI 심부전 기기를 제출하는 것이다."
+            "x": "연구진은 표준 방사선치료(20 Gy)를 받은 TED 환자 85명을 후향적으로 모았다. T1CE와 T2WI MRI의 외안근에서 라디오믹스 특징을 뽑아 머신러닝 알고리즘 아홉 가지로 모델을 만들었다."
+          },
+          {
+            "t": "p",
+            "x": "85명 가운데 46명이 반응군, 39명이 비반응군이었다. 임상 모델은 성능이 떨어졌지만(AUC = 0.700) T1CE, T2WI, 다중 시퀀스 라디오믹스는 각각 AUCs 0.850, 0.875, 0.933을 기록했다. AUC가 가장 높은 쪽은 통합 모델(0.942)로, 임상 모델보다 유의하게 나았다(P = 0.040)."
+          },
+          {
+            "t": "p",
+            "x": "모델은 환자별 치료 결정을 돕고 효과 없는 방사선치료를 줄여 갑상선안병증 맞춤 관리를 앞당긴다. 전향적 검증을 거치면 개인별 위험 층화에도 쓸 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Autonomous clinical AI teams\nare already meeting the FDA",
-          "body": "Teams in ARPA-H's ADVOCATE autonomous clinical-agent program met the FDA within two months of its launch.",
-          "mini_headline": "Clinical AI agents meet the FDA",
+          "headline": "MRI radiomics forecasts\nthyroid eye radiotherapy",
+          "body": "A multi-sequence MRI radiomics model predicts which thyroid eye disease patients will respond to orbital radiotherapy.",
+          "mini_headline": "MRI predicts eye radiotherapy response",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://endpoints.news/wp-content/uploads/2023/12/digital-health-concept-shutterstock-social.jpg"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Figa_HTML.png"
               },
               {
                 "t": "p",
-                "x": "Multiple teams participating in ARPA-H’s Advocate program have already had an initial informational meeting with the FDA, less than two months after the clinical AI program launched."
+                "x": "Radiotherapy is a pivotal treatment for active, moderate-to-severe thyroid eye disease (TED), but responses vary, and the clinical activity score (CAS) has limited predictive value. The authors built a multi-sequence model integrating clinical data, conventional imaging and MRI radiomic features to predict radiotherapy response."
               },
               {
                 "t": "p",
-                "x": "The teams aim to submit autonomous AI heart failure devices within two years, program manager Haider Warraich said."
+                "x": "85 TED subjects treated with standardized radiotherapy (20 Gy) were retrospectively enrolled. Radiomic features from extraocular muscles on T1CE and T2WI MRI were used to develop models with nine machine learning algorithms."
+              },
+              {
+                "t": "p",
+                "x": "Among 85 patients, 46 were responders and 39 non-responders. Clinical models showed limited performance (AUC = 0.700), whereas T1CE, T2WI and multi-sequence radiomics reached AUCs of 0.850, 0.875 and 0.933. The integrated model achieved the highest AUC (0.942) and significantly outperformed the clinical model (P = 0.040)."
+              },
+              {
+                "t": "p",
+                "x": "The model helps guide individualized decision-making, reduce ineffective radiotherapy, and advance personalized management for thyroid eye disease, supporting individualized risk stratification after prospective validation."
               }
             ]
           }
         },
         "ko": {
-          "headline": "자율 임상 AI 팀들\n벌써 FDA와 만났다",
-          "body": "ARPA-H ADVOCATE 프로그램 팀들이 출범 두 달 안에 FDA를 만났다.",
-          "mini_headline": "임상 AI 에이전트, FDA와 만나",
+          "headline": "MRI로 갑상선안병증\n방사선치료 반응 예측",
+          "body": "다중 시퀀스 MRI 라디오믹스 모델로 갑상선안병증 방사선치료 반응을 미리 가늠한다.",
+          "mini_headline": "MRI로 안와 방사선치료 반응 예측",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://endpoints.news/wp-content/uploads/2023/12/digital-health-concept-shutterstock-social.jpg"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Figa_HTML.png"
               },
               {
                 "t": "p",
-                "x": "임상 AI 프로그램인 ARPA-H의 Advocate에 참여한 여러 팀이 출범 두 달도 안 돼 FDA와 첫 정보 회의를 열었다."
+                "x": "방사선치료는 활동성 중등도~중증 갑상선안병증(TED)의 핵심 치료지만 환자마다 반응이 다르고, 임상 활동성 점수(CAS)로는 반응을 내다보기 어렵다. 저자들은 임상 데이터와 기존 영상, MRI 라디오믹스 특징을 묶어 방사선치료 반응을 예측하는 다중 시퀀스 모델을 만들었다."
               },
               {
                 "t": "p",
-                "x": "프로그램 매니저 Haider Warraich에 따르면 팀들의 목표는 2년 안에 자율 AI 심부전 기기를 제출하는 것이다."
+                "x": "연구진은 표준 방사선치료(20 Gy)를 받은 TED 환자 85명을 후향적으로 모았다. T1CE와 T2WI MRI의 외안근에서 라디오믹스 특징을 뽑아 머신러닝 알고리즘 아홉 가지로 모델을 만들었다."
+              },
+              {
+                "t": "p",
+                "x": "85명 가운데 46명이 반응군, 39명이 비반응군이었다. 임상 모델은 성능이 떨어졌지만(AUC = 0.700) T1CE, T2WI, 다중 시퀀스 라디오믹스는 각각 AUCs 0.850, 0.875, 0.933을 기록했다. AUC가 가장 높은 쪽은 통합 모델(0.942)로, 임상 모델보다 유의하게 나았다(P = 0.040)."
+              },
+              {
+                "t": "p",
+                "x": "모델은 환자별 치료 결정을 돕고 효과 없는 방사선치료를 줄여 갑상선안병증 맞춤 관리를 앞당긴다. 전향적 검증을 거치면 개인별 위험 층화에도 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "自律型臨床AIチーム\n早くもFDAと面会",
-          "body": "ARPA-HのADVOCATEに参加するチームが、発足から2か月以内にFDAと面会した。",
-          "mini_headline": "臨床AIエージェント、FDAと面会",
+          "headline": "MRIラジオミクスで\n甲状腺眼症の照射効果を予測",
+          "body": "マルチシーケンスMRIラジオミクスモデルが甲状腺眼症の眼窩放射線治療への反応を予測する。",
+          "mini_headline": "MRIで眼の放射線治療効果を予測",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://endpoints.news/wp-content/uploads/2023/12/digital-health-concept-shutterstock-social.jpg"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Figa_HTML.png"
               },
               {
                 "t": "p",
-                "x": "ARPA-HのAdvocateプログラムに参加する複数のチームが、この臨床AIプログラムの発足から2か月足らずで、すでにFDAと最初の情報提供のための会合を持った。"
+                "x": "放射線治療は活動性の中等症から重症の甲状腺眼症(TED)に対する重要な治療だが、反応にはばらつきがあり、臨床活動性スコア(CAS)の予測力は限られる。著者らは臨床データ、従来の画像、MRIラジオミクス特徴を統合し、放射線治療への反応を予測するマルチシーケンスモデルを構築した。"
               },
               {
                 "t": "p",
-                "x": "プログラムマネジャーのHaider Warraich氏によると、各チームは2年以内に自律型AI心不全デバイスの申請を目指している。"
+                "x": "標準化された放射線治療(20 Gy)を受けたTED患者85人を後ろ向きに登録した。T1CEとT2WIのMRIで外眼筋から得たラジオミクス特徴を用い、九つの機械学習アルゴリズムでモデルを開発した。"
+              },
+              {
+                "t": "p",
+                "x": "85人のうち46人が反応例、39人が非反応例だった。臨床モデルの性能は限定的だった(AUC = 0.700)が、T1CE、T2WI、マルチシーケンスのラジオミクスはそれぞれAUCs 0.850、0.875、0.933に達した。統合モデルは最も高いAUC(0.942)を示し、臨床モデルを有意に上回った(P = 0.040)。"
+              },
+              {
+                "t": "p",
+                "x": "このモデルは個別の意思決定を支え、効果のない放射線治療を減らし、甲状腺眼症の個別化管理を前進させる。前向き検証を経れば、個別のリスク層別化も支えうる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "自主临床AI团队\n已与FDA会面",
-          "body": "ARPA-H的ADVOCATE自主临床智能体项目团队在项目启动两个月内已与FDA会面。",
-          "mini_headline": "临床AI智能体与FDA会面",
+          "headline": "MRI影像组学\n预测甲状腺眼病放疗反应",
+          "body": "多序列MRI影像组学模型可预测哪些甲状腺眼病患者对眼眶放疗有反应。",
+          "mini_headline": "MRI预测眼病放疗反应",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://endpoints.news/wp-content/uploads/2023/12/digital-health-concept-shutterstock-social.jpg"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Figa_HTML.png"
               },
               {
                 "t": "p",
-                "x": "参与ARPA-H的Advocate项目的多个团队已与FDA举行首次信息沟通会，距这一临床AI项目启动还不到两个月。"
+                "x": "放疗是活动期中重度甲状腺眼病(TED)的关键治疗手段，但疗效因人而异，临床活动评分(CAS)的预测价值有限。作者整合临床数据、常规影像和MRI影像组学特征，构建了预测放疗反应的多序列模型。"
               },
               {
                 "t": "p",
-                "x": "项目经理Haider Warraich表示，这些团队的目标是在两年内提交自主AI心力衰竭器械。"
+                "x": "研究回顾性纳入85名接受标准化放疗(20 Gy)的TED患者，利用T1CE和T2WI MRI上眼外肌的影像组学特征，结合九种机器学习算法开发模型。"
+              },
+              {
+                "t": "p",
+                "x": "85名患者中，46名为应答者，39名为无应答者。临床模型表现有限(AUC = 0.700)，而T1CE、T2WI和多序列影像组学的AUCs分别达到0.850、0.875和0.933。整合模型的AUC最高(0.942)，显著优于临床模型(P = 0.040)。"
+              },
+              {
+                "t": "p",
+                "x": "该模型有助于指导个体化决策、减少无效放疗，并推动甲状腺眼病的个性化管理；经前瞻性验证后，还可支持个体化风险分层。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Equipos de IA clínica autónoma\nya se reúnen con la FDA",
-          "body": "Equipos del programa ADVOCATE de ARPA-H para agentes clínicos se reunieron con la FDA en sus dos primeros meses.",
-          "mini_headline": "Agentes clínicos de IA se reúnen con la FDA",
+          "headline": "Radiómica por MRI predice quién\nresponde a radioterapia ocular",
+          "body": "Un modelo radiómico de MRI multisecuencia predice qué pacientes con orbitopatía tiroidea responden a la radioterapia.",
+          "mini_headline": "La MRI predice la respuesta a radioterapia ocular",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://endpoints.news/wp-content/uploads/2023/12/digital-health-concept-shutterstock-social.jpg"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Figa_HTML.png"
               },
               {
                 "t": "p",
-                "x": "Varios equipos que participan en el programa Advocate de ARPA-H ya han tenido una primera reunión informativa con la FDA, menos de dos meses después del lanzamiento de este programa de IA clínica."
+                "x": "La radioterapia es un tratamiento clave para la enfermedad ocular tiroidea (TED) activa de moderada a grave, pero la respuesta varía y la puntuación de actividad clínica (CAS) tiene un valor predictivo limitado. Los autores construyeron un modelo multisecuencia que integra datos clínicos, imagen convencional y características radiómicas de MRI para predecir la respuesta a la radioterapia."
               },
               {
                 "t": "p",
-                "x": "Los equipos aspiran a presentar dispositivos autónomos de IA para la insuficiencia cardíaca en un plazo de dos años, según el director del programa, Haider Warraich."
+                "x": "Se incluyeron de forma retrospectiva 85 sujetos con TED tratados con radioterapia estandarizada (20 Gy). Con características radiómicas de los músculos extraoculares en MRI T1CE y T2WI se desarrollaron modelos mediante nueve algoritmos de aprendizaje automático."
+              },
+              {
+                "t": "p",
+                "x": "De los 85 pacientes, 46 respondieron y 39 no respondieron. Los modelos clínicos mostraron un rendimiento limitado (AUC = 0.700), mientras que la radiómica de T1CE, T2WI y multisecuencia alcanzó AUCs de 0.850, 0.875 y 0.933. El modelo integrado obtuvo el AUC más alto (0.942) y superó de forma significativa al modelo clínico (P = 0.040)."
+              },
+              {
+                "t": "p",
+                "x": "El modelo ayuda a orientar decisiones individualizadas, reducir radioterapias ineficaces y avanzar en el manejo personalizado de la enfermedad ocular tiroidea, y respalda la estratificación individualizada del riesgo tras una validación prospectiva."
               }
             ]
           }
@@ -1151,89 +1209,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "자율 임상 AI 팀들\n벌써 FDA와 만났다",
-          "body": "ARPA-H ADVOCATE 프로그램 팀들이 출범 두 달 안에 FDA를 만났다.",
-          "mini_headline": "임상 AI 에이전트, FDA와 만나",
+          "headline": "MRI로 갑상선안병증\n방사선치료 반응 예측",
+          "body": "다중 시퀀스 MRI 라디오믹스 모델이 갑상선안병증 방사선치료 반응을 예측한다.",
+          "mini_headline": "MRI로 안와 방사선치료 반응 예측",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://endpoints.news/wp-content/uploads/2023/12/digital-health-concept-shutterstock-social.jpg"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Figa_HTML.png"
               },
               {
                 "t": "p",
-                "x": "ARPA-H의 Advocate 프로그램에 참여한 여러 팀이 이 임상 AI 프로그램이 출범한 지 두 달도 되지 않아 FDA와 첫 정보 회의를 가졌다."
+                "x": "방사선치료는 활동성 중등도~중증 갑상선안병증(TED)의 핵심 치료지만 반응이 제각각이고, 임상 활동성 점수(CAS)의 예측력은 제한적이다. 저자들은 임상 데이터, 기존 영상, MRI 라디오믹스 특징을 통합해 방사선치료 반응을 예측하는 다중 시퀀스 모델을 만들었다."
               },
               {
                 "t": "p",
-                "x": "프로그램 매니저 Haider Warraich는 팀들이 2년 안에 자율 AI 심부전 기기를 제출하는 것을 목표로 한다고 말했다."
+                "x": "표준화된 방사선치료(20 Gy)를 받은 TED 환자 85명을 후향적으로 등록했다. T1CE와 T2WI MRI의 외안근에서 얻은 라디오믹스 특징으로 아홉 가지 머신러닝 알고리즘을 써 모델을 개발했다."
+              },
+              {
+                "t": "p",
+                "x": "85명 중 46명이 반응군, 39명이 비반응군이었다. 임상 모델의 성능은 제한적이었지만(AUC = 0.700), T1CE, T2WI, 다중 시퀀스 라디오믹스는 각각 AUCs 0.850, 0.875, 0.933에 이르렀다. 통합 모델이 가장 높은 AUC(0.942)를 기록했고 임상 모델보다 유의하게 우수했다(P = 0.040)."
+              },
+              {
+                "t": "p",
+                "x": "이 모델은 개인별 의사결정을 돕고, 효과 없는 방사선치료를 줄이며, 갑상선안병증의 맞춤형 관리를 앞당긴다. 전향적 검증을 거치면 개인별 위험 층화도 뒷받침할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "自律型臨床AIチーム\n早くもFDAと面会",
-          "body": "ARPA-HのADVOCATEに参加するチームが、発足から2か月以内にFDAと面会した。",
-          "mini_headline": "臨床AIエージェント、FDAと面会",
+          "headline": "MRIラジオミクスで\n甲状腺眼症の照射効果を予測",
+          "body": "マルチシーケンスMRIラジオミクスモデルが甲状腺眼症の眼窩放射線治療への反応を予測する。",
+          "mini_headline": "MRIで眼の放射線治療効果を予測",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://endpoints.news/wp-content/uploads/2023/12/digital-health-concept-shutterstock-social.jpg"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Figa_HTML.png"
               },
               {
                 "t": "p",
-                "x": "ARPA-HのAdvocateプログラムに参加する複数のチームが、この臨床AIプログラムの発足から2か月足らずで、すでにFDAと最初の情報提供のための会合を持った。"
+                "x": "放射線治療は活動性の中等症から重症の甲状腺眼症(TED)に対する重要な治療だが、反応にはばらつきがあり、臨床活動性スコア(CAS)の予測力は限られる。著者らは臨床データ、従来の画像、MRIラジオミクス特徴を統合し、放射線治療への反応を予測するマルチシーケンスモデルを構築した。"
               },
               {
                 "t": "p",
-                "x": "プログラムマネジャーのHaider Warraich氏によると、各チームは2年以内に自律型AI心不全デバイスの申請を目指している。"
+                "x": "標準化された放射線治療(20 Gy)を受けたTED患者85人を後ろ向きに登録した。T1CEとT2WIのMRIで外眼筋から得たラジオミクス特徴を用い、九つの機械学習アルゴリズムでモデルを開発した。"
+              },
+              {
+                "t": "p",
+                "x": "85人のうち46人が反応例、39人が非反応例だった。臨床モデルの性能は限定的だった(AUC = 0.700)が、T1CE、T2WI、マルチシーケンスのラジオミクスはそれぞれAUCs 0.850、0.875、0.933に達した。統合モデルは最も高いAUC(0.942)を示し、臨床モデルを有意に上回った(P = 0.040)。"
+              },
+              {
+                "t": "p",
+                "x": "このモデルは個別の意思決定を支え、効果のない放射線治療を減らし、甲状腺眼症の個別化管理を前進させる。前向き検証を経れば、個別のリスク層別化も支えうる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "自主临床AI团队\n已与FDA会面",
-          "body": "ARPA-H的ADVOCATE自主临床智能体项目团队在项目启动两个月内已与FDA会面。",
-          "mini_headline": "临床AI智能体与FDA会面",
+          "headline": "MRI影像组学\n预测甲状腺眼病放疗反应",
+          "body": "多序列MRI影像组学模型可预测哪些甲状腺眼病患者对眼眶放疗有反应。",
+          "mini_headline": "MRI预测眼病放疗反应",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://endpoints.news/wp-content/uploads/2023/12/digital-health-concept-shutterstock-social.jpg"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Figa_HTML.png"
               },
               {
                 "t": "p",
-                "x": "参与ARPA-H的Advocate项目的多个团队已与FDA举行首次信息沟通会，距这一临床AI项目启动还不到两个月。"
+                "x": "放疗是活动期中重度甲状腺眼病(TED)的关键治疗手段，但疗效因人而异，临床活动评分(CAS)的预测价值有限。作者整合临床数据、常规影像和MRI影像组学特征，构建了预测放疗反应的多序列模型。"
               },
               {
                 "t": "p",
-                "x": "项目经理Haider Warraich表示，这些团队的目标是在两年内提交自主AI心力衰竭器械。"
+                "x": "研究回顾性纳入85名接受标准化放疗(20 Gy)的TED患者，利用T1CE和T2WI MRI上眼外肌的影像组学特征，结合九种机器学习算法开发模型。"
+              },
+              {
+                "t": "p",
+                "x": "85名患者中，46名为应答者，39名为无应答者。临床模型表现有限(AUC = 0.700)，而T1CE、T2WI和多序列影像组学的AUCs分别达到0.850、0.875和0.933。整合模型的AUC最高(0.942)，显著优于临床模型(P = 0.040)。"
+              },
+              {
+                "t": "p",
+                "x": "该模型有助于指导个体化决策、减少无效放疗，并推动甲状腺眼病的个性化管理；经前瞻性验证后，还可支持个体化风险分层。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Equipos de IA clínica autónoma\nya se reúnen con la FDA",
-          "body": "Equipos del programa ADVOCATE de ARPA-H para agentes clínicos se reunieron con la FDA en sus dos primeros meses.",
-          "mini_headline": "Agentes clínicos de IA se reúnen con la FDA",
+          "headline": "Radiómica por MRI predice quién\nresponde a radioterapia ocular",
+          "body": "Un modelo radiómico de MRI multisecuencia predice qué pacientes con orbitopatía tiroidea responden a la radioterapia.",
+          "mini_headline": "La MRI predice la respuesta a radioterapia ocular",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://endpoints.news/wp-content/uploads/2023/12/digital-health-concept-shutterstock-social.jpg"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Figa_HTML.png"
               },
               {
                 "t": "p",
-                "x": "Varios equipos que participan en el programa Advocate de ARPA-H ya han tenido una primera reunión informativa con la FDA, menos de dos meses después del lanzamiento de este programa de IA clínica."
+                "x": "La radioterapia es un tratamiento clave para la enfermedad ocular tiroidea (TED) activa de moderada a grave, pero la respuesta varía y la puntuación de actividad clínica (CAS) tiene un valor predictivo limitado. Los autores construyeron un modelo multisecuencia que integra datos clínicos, imagen convencional y características radiómicas de MRI para predecir la respuesta a la radioterapia."
               },
               {
                 "t": "p",
-                "x": "Los equipos aspiran a presentar dispositivos autónomos de IA para la insuficiencia cardíaca en un plazo de dos años, según el director del programa, Haider Warraich."
+                "x": "Se incluyeron de forma retrospectiva 85 sujetos con TED tratados con radioterapia estandarizada (20 Gy). Con características radiómicas de los músculos extraoculares en MRI T1CE y T2WI se desarrollaron modelos mediante nueve algoritmos de aprendizaje automático."
+              },
+              {
+                "t": "p",
+                "x": "De los 85 pacientes, 46 respondieron y 39 no respondieron. Los modelos clínicos mostraron un rendimiento limitado (AUC = 0.700), mientras que la radiómica de T1CE, T2WI y multisecuencia alcanzó AUCs de 0.850, 0.875 y 0.933. El modelo integrado obtuvo el AUC más alto (0.942) y superó de forma significativa al modelo clínico (P = 0.040)."
+              },
+              {
+                "t": "p",
+                "x": "El modelo ayuda a orientar decisiones individualizadas, reducir radioterapias ineficaces y avanzar en el manejo personalizado de la enfermedad ocular tiroidea, y respalda la estratificación individualizada del riesgo tras una validación prospectiva."
               }
             ]
           }
@@ -1241,15 +1331,15 @@
       }
     },
     {
-      "id": "hospital-writeoffs-132b-ai",
+      "id": "fda-telesurgery-autonomy-paper",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "병원 손실 1320억달러\nAI도 재정 못 살렸다",
-      "body": "AI 투자에도 병원 대손 상각액은 18% 가까이 늘어 1,320억 달러에 달했다.",
-      "mini_headline": "AI로도 못 고친 병원 재정",
+      "headline": "FDA, 자율 로봇과\n원격수술 의견 묻는다",
+      "body": "FDA가 자율·원격 조종 로봇 의료기기의 편익과 위험을 짚는 토론 문서를 냈다.",
+      "mini_headline": "FDA, 자율 로봇 검토",
       "tool": "Medicine",
-      "source": "Healthcare Dive",
-      "url": "https://www.healthcaredive.com/news/hospitals-write-off-132b-ai-fails-to-move-needle-with-finances/874161/",
+      "source": "MedTech Dive",
+      "url": "https://www.medtechdive.com/news/fda-seeks-input-on-telesurgery-autonomous-robotics/874124/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -1257,155 +1347,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://imgproxy.divecdn.com/rROIhynOGeISwdRSBvkGIZ-XipswoQZVgG4QyBmVii8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQyMjU5NzM0LmpwZw==.webp",
-            "cap": "Getty Images"
+            "src": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
+            "cap": "원격수술을 해 온 Florida 비뇨의학과 전문의 Dr. Vipul Patel(오른쪽)이 병원 복도에서 환자와 이야기를 나누고 있다."
           },
           {
             "t": "p",
-            "x": "매출 사이클 분석 기업 Kodiak Solutions의 새 보고서에 따르면 병원들이 지난해 대손과 최종 청구 거부로 상각한 금액은 모두 약 1,320억 달러로 추산된다. 2024년보다 18% 가까이 늘었고, 순매출의 약 10퍼센트에 해당한다."
+            "x": "Food and Drug Administration(식품의약국)이 금요일 자율 또는 원격 조종 기능을 갖춘 로봇 의료기기 토론 문서를 내고 이들 시스템의 편익과 위험을 두고 의견을 구했다. 의견은 1월 5일까지 받고, 공개 워크숍은 12월 2~3일에 연다."
           },
           {
             "t": "p",
-            "x": "Forrester에 따르면 매출 사이클 기술 예산은 올해 7.6% 늘어 690억 달러에 이르렀다. 사전 승인 같은 업무를 맡는 신생 에이전틱 AI를 비롯해 병원 재무 성과를 개선하겠다는 AI 도구도 늘었다. 그런데도 상각액은 오히려 증가했다."
+            "x": "FDA에 따르면 7월 기준 U.S.에서 판매 허가를 받은 원격 조종·완전 자율 로봇 기기는 없다. 10월에는 Dr. Vipul Patel이 임상시험용 의료기기 면제를 받아 약 35마일 떨어진 환자에게 로봇 전립선절제술을 했다."
           },
           {
             "t": "p",
-            "x": "Kodiak 연구진은 의료기관들이 “매출 사이클 운영에 필요한 기술과 재무 성과 최적화에 필요한 역량을 충분히 구분하지 못하고 있을” 수 있다고 말했다. Peterson Health Technology Institute도 보고서에서 지불자와 의료기관이 AI 군비 경쟁을 벌이는 동안 사전 승인용 AI가 아직 시스템 전반의 비용을 줄이지 못했다고 분석했다."
+            "x": "제조사들은 자율 기능도 들여다보고 있다. 채혈 전문 인력 없이 피를 뽑거나 몸속에서 생명을 위협하는 출혈을 찾아 멈추는 기능 등이 거론된다. FDA는 인공지능과 머신러닝, 연결성이 빠르게 발전하면서 로봇 응용 분야가 넓어지고 있다고 설명했다."
+          },
+          {
+            "t": "p",
+            "x": "자율성은 시술의 정확성과 재현성, 워크플로 효율을 높일 수 있다. 다만 잘못된 자율 실행, 사용자의 경계심 저하, 시술 변수에 잘 적응하지 못하는 문제 같은 고유한 위험도 함께 따를 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Hospitals write off $132B\nas AI fails to fix finances",
-          "body": "Hospitals' bad-debt and denial write-offs rose nearly 18% to $132B, even as revenue-cycle AI and tech budgets grew.",
-          "mini_headline": "AI fails to fix hospital finances",
+          "headline": "FDA seeks input on autonomous\nrobotics and telesurgery",
+          "body": "The FDA issued a discussion paper on benefit-risk for robotic devices that act autonomously or via remote teleoperation.",
+          "mini_headline": "FDA weighs autonomous robotics",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/rROIhynOGeISwdRSBvkGIZ-XipswoQZVgG4QyBmVii8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQyMjU5NzM0LmpwZw==.webp",
-                "cap": "Getty Images"
+                "src": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
+                "cap": "Dr. Vipul Patel (right), a Florida-based urologist who has performed telesurgeries, speaks with a patient in a hospital corridor."
               },
               {
                 "t": "p",
-                "x": "Hospitals collectively lost an estimated $132 billion last year to write-offs for bad debt and final claim denials, according to a new report from revenue cycle analytics company Kodiak Solutions — up nearly 18% from 2024, with write-offs taking about 10 percent of net revenue."
+                "x": "The Food and Drug Administration on Friday issued a discussion paper on robotic medical devices with autonomous or remote teleoperation capabilities and is requesting feedback on the systems’ benefits and risks. Comments are due Jan. 5; a public workshop is scheduled for Dec. 2-3."
               },
               {
                 "t": "p",
-                "x": "The increase comes despite rising revenue cycle technology budgets, which grew 7.6% to $69 billion this year per Forrester, with more AI tools — including emerging agentic AI for tasks such as prior authorizations — promising to improve hospitals’ financial performance."
+                "x": "In the U.S., no remotely teleoperated or fully autonomous robotic devices have received marketing authorization as of July, the FDA said. In October, Dr. Vipul Patel performed a robotic prostatectomy on a patient about 35 miles away under an investigational device exemption."
               },
               {
                 "t": "p",
-                "x": "Kodiak researchers said providers may not be “adequately distinguishing between technology needed to operate the revenue cycle and the capabilities needed to optimize their financial performance.” A Peterson Health Technology Institute report found AI for prior authorization has yet to reduce costs systemwide, as payers and providers wage an AI arms race."
+                "x": "Manufacturers are also exploring autonomous functions, which could include obtaining a blood draw without a phlebotomist and finding or stopping life-threatening bleeding inside the body. Rapid advances in artificial intelligence, machine learning and connectivity are driving expansion of robotic applications, the FDA said."
+              },
+              {
+                "t": "p",
+                "x": "Autonomy could support procedural accuracy, reproducibility or workflow efficiency, but distinct risks such as incorrect autonomous execution, reduced user vigilance and limited adaptability to procedural variability may accompany the benefits."
               }
             ]
           }
         },
         "ko": {
-          "headline": "병원 손실 1320억달러\nAI도 재정 못 살렸다",
-          "body": "AI 투자에도 병원 대손 상각액은 18% 가까이 늘어 1,320억 달러에 달했다.",
-          "mini_headline": "AI로도 못 고친 병원 재정",
+          "headline": "FDA, 자율 로봇과\n원격수술 의견 묻는다",
+          "body": "FDA가 자율·원격 조종 로봇 의료기기의 편익과 위험을 짚는 토론 문서를 냈다.",
+          "mini_headline": "FDA, 자율 로봇 검토",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/rROIhynOGeISwdRSBvkGIZ-XipswoQZVgG4QyBmVii8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQyMjU5NzM0LmpwZw==.webp",
-                "cap": "Getty Images"
+                "src": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
+                "cap": "원격수술을 해 온 Florida 비뇨의학과 전문의 Dr. Vipul Patel(오른쪽)이 병원 복도에서 환자와 이야기를 나누고 있다."
               },
               {
                 "t": "p",
-                "x": "매출 사이클 분석 기업 Kodiak Solutions의 새 보고서에 따르면 병원들이 지난해 대손과 최종 청구 거부로 상각한 금액은 모두 약 1,320억 달러로 추산된다. 2024년보다 18% 가까이 늘었고, 순매출의 약 10퍼센트에 해당한다."
+                "x": "Food and Drug Administration(식품의약국)이 금요일 자율 또는 원격 조종 기능을 갖춘 로봇 의료기기 토론 문서를 내고 이들 시스템의 편익과 위험을 두고 의견을 구했다. 의견은 1월 5일까지 받고, 공개 워크숍은 12월 2~3일에 연다."
               },
               {
                 "t": "p",
-                "x": "Forrester에 따르면 매출 사이클 기술 예산은 올해 7.6% 늘어 690억 달러에 이르렀다. 사전 승인 같은 업무를 맡는 신생 에이전틱 AI를 비롯해 병원 재무 성과를 개선하겠다는 AI 도구도 늘었다. 그런데도 상각액은 오히려 증가했다."
+                "x": "FDA에 따르면 7월 기준 U.S.에서 판매 허가를 받은 원격 조종·완전 자율 로봇 기기는 없다. 10월에는 Dr. Vipul Patel이 임상시험용 의료기기 면제를 받아 약 35마일 떨어진 환자에게 로봇 전립선절제술을 했다."
               },
               {
                 "t": "p",
-                "x": "Kodiak 연구진은 의료기관들이 “매출 사이클 운영에 필요한 기술과 재무 성과 최적화에 필요한 역량을 충분히 구분하지 못하고 있을” 수 있다고 말했다. Peterson Health Technology Institute도 보고서에서 지불자와 의료기관이 AI 군비 경쟁을 벌이는 동안 사전 승인용 AI가 아직 시스템 전반의 비용을 줄이지 못했다고 분석했다."
+                "x": "제조사들은 자율 기능도 들여다보고 있다. 채혈 전문 인력 없이 피를 뽑거나 몸속에서 생명을 위협하는 출혈을 찾아 멈추는 기능 등이 거론된다. FDA는 인공지능과 머신러닝, 연결성이 빠르게 발전하면서 로봇 응용 분야가 넓어지고 있다고 설명했다."
+              },
+              {
+                "t": "p",
+                "x": "자율성은 시술의 정확성과 재현성, 워크플로 효율을 높일 수 있다. 다만 잘못된 자율 실행, 사용자의 경계심 저하, 시술 변수에 잘 적응하지 못하는 문제 같은 고유한 위험도 함께 따를 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "病院の損失1320億ドル\nAIでも財務は改善せず",
-          "body": "AI投資が進む中、病院の貸倒れ・拒否償却は18%近く増え1320億ドルに達した。",
-          "mini_headline": "AIでも病院財務は改善せず",
+          "headline": "FDA、自律ロボットと\n遠隔手術で意見募集",
+          "body": "FDAは自律動作や遠隔操作で動くロボット機器の便益とリスクに関する討議資料を公表した。",
+          "mini_headline": "FDA、自律ロボットを検討",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/rROIhynOGeISwdRSBvkGIZ-XipswoQZVgG4QyBmVii8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQyMjU5NzM0LmpwZw==.webp",
-                "cap": "Getty Images"
+                "src": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
+                "cap": "遠隔手術を手がけてきたFloridaの泌尿器科医Dr. Vipul Patel(右)が、病院の廊下で患者と話している。"
               },
               {
                 "t": "p",
-                "x": "収益サイクル分析企業Kodiak Solutionsの新たな報告書によると、病院は昨年、貸倒れと最終的な請求拒否による償却で推計1320億ドルを失った。2024年から18%近い増加で、償却額は純収益の約10パーセントを占めた。"
+                "x": "Food and Drug Administration(食品医薬品局)は金曜日、自律機能または遠隔操作機能を持つロボット医療機器に関する討議資料を公表し、これらのシステムの便益とリスクについて意見を求めた。意見の締め切りは1月5日で、公開ワークショップは12月2〜3日に予定されている。"
               },
               {
                 "t": "p",
-                "x": "Forresterによると、収益サイクル技術の予算は今年7.6%増の690億ドルに拡大し、事前承認などの業務に向けた新興のエージェント型AIを含め、病院の財務実績の改善をうたうAIツールも増えているにもかかわらず、償却は増加した。"
+                "x": "FDAによると、7月時点でU.S.では遠隔操作型または完全自律型のロボット機器で販売承認を得たものはない。10月にはDr. Vipul Patelが治験用機器免除のもと、約35マイル離れた患者にロボット前立腺摘除術を行った。"
               },
               {
                 "t": "p",
-                "x": "Kodiakの研究者らは、医療機関が「収益サイクルの運用に必要な技術と、財務実績を最適化するために必要な能力を十分に区別できていない」可能性があると述べた。Peterson Health Technology Instituteの報告書は、支払者と医療機関がAIの軍拡競争を繰り広げる中、事前承認向けのAIはまだシステム全体のコストを削減できていないと指摘した。"
+                "x": "メーカーは自律機能の開発も模索している。採血担当者なしでの採血や、体内の生命を脅かす出血の発見・止血などが含まれうる。FDAは、人工知能、機械学習、接続技術の急速な進歩がロボット応用の拡大を後押ししているとした。"
+              },
+              {
+                "t": "p",
+                "x": "自律性は手技の正確性、再現性、ワークフロー効率を支えうる一方、誤った自律動作、使用者の注意力低下、手技のばらつきへの適応力の限界といった固有のリスクが便益に伴う可能性がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "医院坏账核销1320亿美元\nAI未能扭转财务困境",
-          "body": "尽管AI与技术预算增长，医院坏账和拒付核销仍增长近18%，达1320亿美元。",
-          "mini_headline": "AI未能修复医院财务",
+          "headline": "FDA就自主机器人\n与远程手术征求意见",
+          "body": "FDA发布讨论文件，探讨自主运行或远程操控的机器人器械的获益与风险。",
+          "mini_headline": "FDA权衡自主机器人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/rROIhynOGeISwdRSBvkGIZ-XipswoQZVgG4QyBmVii8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQyMjU5NzM0LmpwZw==.webp",
-                "cap": "Getty Images"
+                "src": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
+                "cap": "曾实施远程手术的Florida泌尿科医生Dr. Vipul Patel(右)在医院走廊与一名患者交谈。"
               },
               {
                 "t": "p",
-                "x": "营收周期分析公司Kodiak Solutions的新报告显示，去年医院因坏账和最终理赔拒付而核销的金额合计约1320亿美元，较2024年增长近18%，核销额约占净收入的百分之十。"
+                "x": "Food and Drug Administration(食品药品监督管理局)周五发布一份关于具备自主或远程操控能力的机器人医疗器械的讨论文件，就这类系统的获益与风险征求意见。意见截止日期为1月5日，公开研讨会定于12月2-3日举行。"
               },
               {
                 "t": "p",
-                "x": "尽管营收周期技术预算持续上升——据Forrester统计，今年增长7.6%，达到690亿美元——且越来越多的AI工具（包括用于事先授权等任务的新兴智能体AI）承诺改善医院财务表现，核销额仍在增加。"
+                "x": "FDA表示，截至7月，U.S.尚无远程操控或完全自主的机器人器械获得上市许可。10月，Dr. Vipul Patel在研究用器械豁免框架下，为约35英里外的一名患者实施了机器人前列腺切除术。"
               },
               {
                 "t": "p",
-                "x": "Kodiak研究人员表示，医疗机构可能没有“充分区分运营营收周期所需的技术与优化财务表现所需的能力”。Peterson Health Technology Institute的一份报告发现，在支付方与医疗机构展开AI军备竞赛之际，用于事先授权的AI尚未在整个系统层面降低成本。"
+                "x": "制造商也在探索自主功能，可能包括在没有抽血员的情况下完成抽血，以及发现或止住体内危及生命的出血。FDA表示，人工智能、机器学习和互联技术的快速进步正推动机器人应用的扩展。"
+              },
+              {
+                "t": "p",
+                "x": "自主性可提升操作的准确性、可重复性或工作流程效率，但随之而来的也可能有特有的风险，例如自主执行出错、使用者警觉性下降，以及对操作变化的适应能力有限。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Hospitales pierden $132B\ny la IA no arregla sus finanzas",
-          "body": "Las pérdidas hospitalarias por impagos y denegaciones subieron casi un 18%, a $132B, pese al aumento del gasto en IA.",
-          "mini_headline": "La IA no arregla las finanzas hospitalarias",
+          "headline": "La FDA pide opiniones sobre\nrobótica autónoma y telecirugía",
+          "body": "La FDA publicó un documento de debate sobre el beneficio-riesgo de dispositivos robóticos autónomos o teleoperados.",
+          "mini_headline": "La FDA evalúa la robótica autónoma",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/rROIhynOGeISwdRSBvkGIZ-XipswoQZVgG4QyBmVii8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQyMjU5NzM0LmpwZw==.webp",
-                "cap": "Getty Images"
+                "src": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
+                "cap": "El Dr. Vipul Patel (derecha), urólogo con sede en Florida que ha realizado telecirugías, conversa con un paciente en un pasillo del hospital."
               },
               {
                 "t": "p",
-                "x": "Los hospitales perdieron en conjunto unos 132.000 millones de dólares el año pasado por cancelaciones de deudas incobrables y denegaciones definitivas de reclamaciones, según un nuevo informe de Kodiak Solutions, empresa de analítica del ciclo de ingresos; la cifra supone un aumento de casi el 18% respecto a 2024, y las cancelaciones absorbieron alrededor del 10 por ciento de los ingresos netos."
+                "x": "La Food and Drug Administration publicó el viernes un documento de debate sobre dispositivos médicos robóticos con capacidades autónomas o de teleoperación remota, y solicita opiniones sobre los beneficios y riesgos de estos sistemas. Los comentarios se reciben hasta el 5 de enero; un taller público está previsto para el 2-3 de diciembre."
               },
               {
                 "t": "p",
-                "x": "El aumento se produce pese al crecimiento de los presupuestos de tecnología del ciclo de ingresos, que subieron un 7,6%, hasta 69.000 millones de dólares este año según Forrester, y a que cada vez más herramientas de IA —incluida la incipiente IA agéntica para tareas como las autorizaciones previas— prometen mejorar el desempeño financiero de los hospitales."
+                "x": "En U.S., ningún dispositivo robótico teleoperado a distancia o totalmente autónomo había recibido autorización de comercialización hasta julio, según la FDA. En octubre, el Dr. Vipul Patel realizó una prostatectomía robótica a un paciente situado a unas 35 millas de distancia, bajo una exención de dispositivo en investigación."
               },
               {
                 "t": "p",
-                "x": "Los investigadores de Kodiak señalaron que los proveedores quizá no estén “distinguiendo adecuadamente entre la tecnología necesaria para operar el ciclo de ingresos y las capacidades necesarias para optimizar su desempeño financiero”. Un informe del Peterson Health Technology Institute concluyó que la IA para autorizaciones previas aún no ha reducido los costes en el conjunto del sistema, mientras pagadores y proveedores libran una carrera armamentística de IA."
+                "x": "Los fabricantes también exploran funciones autónomas, que podrían incluir extraer sangre sin un flebotomista y localizar o detener hemorragias potencialmente mortales dentro del cuerpo. Los rápidos avances en inteligencia artificial, aprendizaje automático y conectividad impulsan la expansión de las aplicaciones robóticas, señaló la FDA."
+              },
+              {
+                "t": "p",
+                "x": "La autonomía podría favorecer la precisión del procedimiento, la reproducibilidad o la eficiencia del flujo de trabajo, pero los beneficios pueden ir acompañados de riesgos propios, como una ejecución autónoma incorrecta, una menor vigilancia del usuario y una capacidad limitada de adaptarse a la variabilidad del procedimiento."
               }
             ]
           }
@@ -1413,109 +1527,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "병원 손실 1320억달러\nAI도 재정 못 살렸다",
-          "body": "AI 투자에도 병원 대손 상각액이 18% 가까이 늘어 1,320억 달러였다.",
-          "mini_headline": "AI로도 못 고친 병원 재정",
+          "headline": "FDA, 자율 로봇과\n원격수술 의견 묻는다",
+          "body": "FDA가 자율·원격 조종 로봇 의료기기의 편익과 위험을 다룬 토론 문서를 냈다.",
+          "mini_headline": "FDA, 자율 로봇 검토",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/rROIhynOGeISwdRSBvkGIZ-XipswoQZVgG4QyBmVii8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQyMjU5NzM0LmpwZw==.webp",
-                "cap": "Getty Images"
+                "src": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
+                "cap": "원격수술을 집도해 온 Florida의 비뇨의학과 전문의 Dr. Vipul Patel(오른쪽)이 병원 복도에서 환자와 이야기하고 있다."
               },
               {
                 "t": "p",
-                "x": "매출 사이클 분석 기업 Kodiak Solutions의 새 보고서에 따르면, 병원들은 지난해 대손과 최종 청구 거부에 따른 상각으로 모두 약 1,320억 달러를 잃은 것으로 추산된다. 이는 2024년보다 18% 가까이 늘어난 규모이며, 상각액은 순매출의 약 10퍼센트를 차지했다."
+                "x": "Food and Drug Administration(식품의약국)은 금요일 자율 또는 원격 조종 기능을 갖춘 로봇 의료기기에 관한 토론 문서를 내고, 이들 시스템의 편익과 위험에 대한 의견을 요청했다. 의견 마감은 1월 5일이며, 공개 워크숍은 12월 2~3일 열린다."
               },
               {
                 "t": "p",
-                "x": "Forrester에 따르면 매출 사이클 기술 예산은 올해 7.6% 늘어 690억 달러에 이르렀고, 사전 승인 같은 업무를 맡는 신생 에이전틱 AI를 포함해 병원의 재무 성과를 개선하겠다는 AI 도구도 늘었지만, 상각액은 오히려 증가했다."
+                "x": "FDA는 7월 기준 U.S.에서 원격 조종 또는 완전 자율 로봇 기기가 판매 허가를 받은 사례는 없다고 밝혔다. 10월에는 Dr. Vipul Patel이 임상시험용 의료기기 면제 아래 약 35마일 떨어진 환자에게 로봇 전립선절제술을 시행했다."
               },
               {
                 "t": "p",
-                "x": "Kodiak 연구진은 의료기관들이 “매출 사이클 운영에 필요한 기술과 재무 성과 최적화에 필요한 역량을 충분히 구분하지 못하고 있을” 수 있다고 말했다. Peterson Health Technology Institute 보고서는 지불자와 의료기관이 AI 군비 경쟁을 벌이는 가운데, 사전 승인용 AI가 아직 시스템 전반의 비용을 줄이지 못했다고 분석했다."
+                "x": "제조사들은 자율 기능도 모색하고 있다. 채혈 전문 인력 없이 채혈하거나, 체내의 생명을 위협하는 출혈을 찾아내 멈추는 기능 등이 여기에 포함될 수 있다. FDA는 인공지능, 머신러닝, 연결성의 빠른 발전이 로봇 응용의 확대를 이끌고 있다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "자율성은 시술의 정확성, 재현성, 워크플로 효율을 높일 수 있지만, 잘못된 자율 실행, 사용자 경계심 저하, 시술 변수에 대한 제한된 적응력 같은 고유한 위험이 편익과 함께 따를 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "病院の損失1320億ドル\nAIでも財務は改善せず",
-          "body": "AI投資が進む中、病院の貸倒れ・拒否償却は18%近く増え1320億ドルに達した。",
-          "mini_headline": "AIでも病院財務は改善せず",
+          "headline": "FDA、自律ロボットと\n遠隔手術で意見募集",
+          "body": "FDAは自律動作や遠隔操作で動くロボット機器の便益とリスクに関する討議資料を公表した。",
+          "mini_headline": "FDA、自律ロボットを検討",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/rROIhynOGeISwdRSBvkGIZ-XipswoQZVgG4QyBmVii8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQyMjU5NzM0LmpwZw==.webp",
-                "cap": "Getty Images"
+                "src": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
+                "cap": "遠隔手術を手がけてきたFloridaの泌尿器科医Dr. Vipul Patel(右)が、病院の廊下で患者と話している。"
               },
               {
                 "t": "p",
-                "x": "収益サイクル分析企業Kodiak Solutionsの新たな報告書によると、病院は昨年、貸倒れと最終的な請求拒否による償却で推計1320億ドルを失った。2024年から18%近い増加で、償却額は純収益の約10パーセントを占めた。"
+                "x": "Food and Drug Administration(食品医薬品局)は金曜日、自律機能または遠隔操作機能を持つロボット医療機器に関する討議資料を公表し、これらのシステムの便益とリスクについて意見を求めた。意見の締め切りは1月5日で、公開ワークショップは12月2〜3日に予定されている。"
               },
               {
                 "t": "p",
-                "x": "Forresterによると、収益サイクル技術の予算は今年7.6%増の690億ドルに拡大し、事前承認などの業務に向けた新興のエージェント型AIを含め、病院の財務実績の改善をうたうAIツールも増えているにもかかわらず、償却は増加した。"
+                "x": "FDAによると、7月時点でU.S.では遠隔操作型または完全自律型のロボット機器で販売承認を得たものはない。10月にはDr. Vipul Patelが治験用機器免除のもと、約35マイル離れた患者にロボット前立腺摘除術を行った。"
               },
               {
                 "t": "p",
-                "x": "Kodiakの研究者らは、医療機関が「収益サイクルの運用に必要な技術と、財務実績を最適化するために必要な能力を十分に区別できていない」可能性があると述べた。Peterson Health Technology Instituteの報告書は、支払者と医療機関がAIの軍拡競争を繰り広げる中、事前承認向けのAIはまだシステム全体のコストを削減できていないと指摘した。"
+                "x": "メーカーは自律機能の開発も模索している。採血担当者なしでの採血や、体内の生命を脅かす出血の発見・止血などが含まれうる。FDAは、人工知能、機械学習、接続技術の急速な進歩がロボット応用の拡大を後押ししているとした。"
+              },
+              {
+                "t": "p",
+                "x": "自律性は手技の正確性、再現性、ワークフロー効率を支えうる一方、誤った自律動作、使用者の注意力低下、手技のばらつきへの適応力の限界といった固有のリスクが便益に伴う可能性がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "医院坏账核销1320亿美元\nAI未能扭转财务困境",
-          "body": "尽管AI与技术预算增长，医院坏账和拒付核销仍增长近18%，达1320亿美元。",
-          "mini_headline": "AI未能修复医院财务",
+          "headline": "FDA就自主机器人\n与远程手术征求意见",
+          "body": "FDA发布讨论文件，探讨自主运行或远程操控的机器人器械的获益与风险。",
+          "mini_headline": "FDA权衡自主机器人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/rROIhynOGeISwdRSBvkGIZ-XipswoQZVgG4QyBmVii8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQyMjU5NzM0LmpwZw==.webp",
-                "cap": "Getty Images"
+                "src": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
+                "cap": "曾实施远程手术的Florida泌尿科医生Dr. Vipul Patel(右)在医院走廊与一名患者交谈。"
               },
               {
                 "t": "p",
-                "x": "营收周期分析公司Kodiak Solutions的新报告显示，去年医院因坏账和最终理赔拒付而核销的金额合计约1320亿美元，较2024年增长近18%，核销额约占净收入的百分之十。"
+                "x": "Food and Drug Administration(食品药品监督管理局)周五发布一份关于具备自主或远程操控能力的机器人医疗器械的讨论文件，就这类系统的获益与风险征求意见。意见截止日期为1月5日，公开研讨会定于12月2-3日举行。"
               },
               {
                 "t": "p",
-                "x": "尽管营收周期技术预算持续上升——据Forrester统计，今年增长7.6%，达到690亿美元——且越来越多的AI工具（包括用于事先授权等任务的新兴智能体AI）承诺改善医院财务表现，核销额仍在增加。"
+                "x": "FDA表示，截至7月，U.S.尚无远程操控或完全自主的机器人器械获得上市许可。10月，Dr. Vipul Patel在研究用器械豁免框架下，为约35英里外的一名患者实施了机器人前列腺切除术。"
               },
               {
                 "t": "p",
-                "x": "Kodiak研究人员表示，医疗机构可能没有“充分区分运营营收周期所需的技术与优化财务表现所需的能力”。Peterson Health Technology Institute的一份报告发现，在支付方与医疗机构展开AI军备竞赛之际，用于事先授权的AI尚未在整个系统层面降低成本。"
+                "x": "制造商也在探索自主功能，可能包括在没有抽血员的情况下完成抽血，以及发现或止住体内危及生命的出血。FDA表示，人工智能、机器学习和互联技术的快速进步正推动机器人应用的扩展。"
+              },
+              {
+                "t": "p",
+                "x": "自主性可提升操作的准确性、可重复性或工作流程效率，但随之而来的也可能有特有的风险，例如自主执行出错、使用者警觉性下降，以及对操作变化的适应能力有限。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Hospitales pierden $132B\ny la IA no arregla sus finanzas",
-          "body": "Las pérdidas hospitalarias por impagos y denegaciones subieron casi un 18%, a $132B, pese al aumento del gasto en IA.",
-          "mini_headline": "La IA no arregla las finanzas hospitalarias",
+          "headline": "La FDA pide opiniones sobre\nrobótica autónoma y telecirugía",
+          "body": "La FDA publicó un documento de debate sobre el beneficio-riesgo de dispositivos robóticos autónomos o teleoperados.",
+          "mini_headline": "La FDA evalúa la robótica autónoma",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/rROIhynOGeISwdRSBvkGIZ-XipswoQZVgG4QyBmVii8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQyMjU5NzM0LmpwZw==.webp",
-                "cap": "Getty Images"
+                "src": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
+                "cap": "El Dr. Vipul Patel (derecha), urólogo con sede en Florida que ha realizado telecirugías, conversa con un paciente en un pasillo del hospital."
               },
               {
                 "t": "p",
-                "x": "Los hospitales perdieron en conjunto unos 132.000 millones de dólares el año pasado por cancelaciones de deudas incobrables y denegaciones definitivas de reclamaciones, según un nuevo informe de Kodiak Solutions, empresa de analítica del ciclo de ingresos; la cifra supone un aumento de casi el 18% respecto a 2024, y las cancelaciones absorbieron alrededor del 10 por ciento de los ingresos netos."
+                "x": "La Food and Drug Administration publicó el viernes un documento de debate sobre dispositivos médicos robóticos con capacidades autónomas o de teleoperación remota, y solicita opiniones sobre los beneficios y riesgos de estos sistemas. Los comentarios se reciben hasta el 5 de enero; un taller público está previsto para el 2-3 de diciembre."
               },
               {
                 "t": "p",
-                "x": "El aumento se produce pese al crecimiento de los presupuestos de tecnología del ciclo de ingresos, que subieron un 7,6%, hasta 69.000 millones de dólares este año según Forrester, y a que cada vez más herramientas de IA —incluida la incipiente IA agéntica para tareas como las autorizaciones previas— prometen mejorar el desempeño financiero de los hospitales."
+                "x": "En U.S., ningún dispositivo robótico teleoperado a distancia o totalmente autónomo había recibido autorización de comercialización hasta julio, según la FDA. En octubre, el Dr. Vipul Patel realizó una prostatectomía robótica a un paciente situado a unas 35 millas de distancia, bajo una exención de dispositivo en investigación."
               },
               {
                 "t": "p",
-                "x": "Los investigadores de Kodiak señalaron que los proveedores quizá no estén “distinguiendo adecuadamente entre la tecnología necesaria para operar el ciclo de ingresos y las capacidades necesarias para optimizar su desempeño financiero”. Un informe del Peterson Health Technology Institute concluyó que la IA para autorizaciones previas aún no ha reducido los costes en el conjunto del sistema, mientras pagadores y proveedores libran una carrera armamentística de IA."
+                "x": "Los fabricantes también exploran funciones autónomas, que podrían incluir extraer sangre sin un flebotomista y localizar o detener hemorragias potencialmente mortales dentro del cuerpo. Los rápidos avances en inteligencia artificial, aprendizaje automático y conectividad impulsan la expansión de las aplicaciones robóticas, señaló la FDA."
+              },
+              {
+                "t": "p",
+                "x": "La autonomía podría favorecer la precisión del procedimiento, la reproducibilidad o la eficiencia del flujo de trabajo, pero los beneficios pueden ir acompañados de riesgos propios, como una ejecución autónoma incorrecta, una menor vigilancia del usuario y una capacidad limitada de adaptarse a la variabilidad del procedimiento."
               }
             ]
           }

@@ -10595,6 +10595,136 @@
           "x": "「モデルを訓練するには、チーターがチートを磨き調整していく過程をあえて許し、その進化を観察する必要があった」とBulkheadのCEO、Joe Brammerは語る。システムでチーターを完全に排除できるわけではないが、11月12日にSeason 3が始まれば、より良いプレイ体験を提供できると同スタジオは確信しているという。"
         }
       ]
+    },
+    "games/househouse-bigwalk-igf-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "画像クレジット：House House/Panic"
+        },
+        {
+          "t": "p",
+          "x": "House Houseは、Big Walkの「開発の最終段階」で「難しい技術的課題やバグ」に対処するため、AIツールを「控えめに」使ったと明らかにした。この声明は、2027 Independent Games Festival（IGF）の審査員の一部が、生成AIを使って開発されたゲームには投票しないと表明したことを受けて出された。"
+        },
+        {
+          "t": "p",
+          "x": "スタジオによると、サードパーティ製コードの問題を調べるためにLLMチャットボットを使ったという。「この利用に関わるコードは、Big Walkのコード全体の0.1%を大きく下回ると見積もっている」。日の出と日の入りの約20秒間にゲームが50%遅くなっていたUnity URPのシャドウキャスターの修正は、「URP内のコード約10行」だったという。"
+        },
+        {
+          "t": "p",
+          "x": "「どれほど小さな利用であっても、AIツールの使用を支持したり擁護したりするものではない」と開発元は述べた。「Big Walkは社内のAI利用方針がないまま開発され、我々はその方針の欠如を失敗だと考えている」"
+        }
+      ]
+    },
+    "games/pcot-japanese-localization-end": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-header.jpg"
+        },
+        {
+          "t": "p",
+          "x": "個人開発者のぬるっぽ氏は11月10日、翻訳支援ツール「PCOT」の開発を、現在抱えている更新を最後に終了すると発表した。PCOTは2020年から無料公開されているPC向け翻訳支援ツールで、OCR技術でゲーム画面から選択範囲のテキストを抽出し翻訳する。2025年4月にはGeminiを搭載し、読み取りおよび翻訳の精度が飛躍的に向上した。"
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-001-1080x560.jpg"
+        },
+        {
+          "t": "p",
+          "x": "同氏は理由として、AIの進化でプレイヤー自身がゲームを直接日本語化できる未来が見え、ツールとしての役割に区切りがついたと説明している。アプリの公開と不具合のメンテナンスは今後も継続する。開発終了を悲しくは思っておらず、プレイヤー自身がAIの手を借りてゲームを日本語で遊べる時代が来たことを本当に喜ばしく思っていると述べている。"
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-002-1080x608.jpg"
+        }
+      ]
+    },
+    "games/games-edu-program-ai-cancel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X.jpg",
+          "cap": "（画像クレジット：EvgeniyShkolenko via Getty Images）"
+        },
+        {
+          "t": "p",
+          "x": "「学生向けの無料の全国ビデオゲーム開発コンテスト」であるAustralian STEM Videogame Challengeは、生成AIの台頭により、今年の大会が「素晴らしい12年」を経て最後になると認めた。"
+        },
+        {
+          "t": "p",
+          "x": "Reddit上で審査員を名乗る人物は、問題はAIの使用そのものだけではなく、「一部の学生がゲームを丸ごとAIで生成している」ことだと述べた。「それをどう採点するのか。ゼロ点をつけるわけにもいかない」とこの審査員は書いている。"
+        },
+        {
+          "t": "p",
+          "x": "Australian Council for Educational Researchは、中止がAIによるものだと認めた。ACERのCathy Zemaitis氏は「ゲーム開発における生成AIの急速かつ複雑な台頭により、学生が自分で作ったものを判断することが難しくなり、プログラムが本来の目的から離れつつあったことが決定の理由だ」と述べ、別の形でコンテストを実施する予定はないと付け加えた。"
+        }
+      ]
+    },
+    "games/claude-fable-gears-clone": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-24.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI研究者でYouTuberのMatthew Berman氏が、AnthropicのClaude Fable 5.2がUnreal Engine 5で作った、Gears of War: E-Dayに着想を得た（E-Day-inspired）プレイ可能なシューターを披露した。わずか三行のプロンプトから始めたとされる。キャラクターはダッシュ、カバー、身を乗り出しての射撃、そしてシリーズ伝統のアクティブリロードもこなす。"
+        },
+        {
+          "t": "video",
+          "yt": "0vNyVMDFdkg"
+        },
+        {
+          "t": "p",
+          "x": "Berman氏はモデルにGears of War: E-Dayのレベルを一つ再現するよう指示し、Ultra Codeモードを有効にして自律的に作業させた。Berman氏の報告では、プロジェクトは数日間で約8.5B トークンを消費し、API-equivalentの推定コストは$15,000に迫った。Decryptは43時間48分、8.63B トークン、推定$14,710としている。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/3-Line-Prompt.jpg",
+          "cap": "Unreal Engine 5プロジェクトの起点となった三行のプロンプト。画像クレジット：YouTubeのMatthew Berman氏。"
+        },
+        {
+          "t": "p",
+          "x": "これらはAPI料金に基づく推定額で、Berman氏が実際に支払った金額とは限らない。デモは単一のレベルのみで、ぎこちないアニメーションも見られ、性能や安定性は第三者による評価を受けていない。"
+        }
+      ]
+    },
+    "games/nvidia-lyra2-worldmodel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIAは、一枚の写真を探索可能な3D環境に変換できるAI-poweredのフレームワーク「Lyra 2.0」を披露した。NVIDIAのSpatial Intelligence Lab（SIL）が開発したもので、AI動画生成と3D再構成を組み合わせている。研究自体は2026年4月に発表されたもので、SIGGRAPH Asia 2026を前に改めて紹介されている。従来のimage-to-video生成器とは異なり、Lyra 2.0ではユーザーがカメラの軌道を操作でき、移動に合わせて新たな視点が順次生成される。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-1.jpg",
+          "cap": "画像提供：NVIDIA"
+        },
+        {
+          "t": "p",
+          "x": "空間的な忘却と時間的なドリフトに対処するため、NVIDIAの研究者は3D幾何情報を用いて関連する過去フレームを呼び出す空間メモリシステムを開発し、さらにモデル自身の不完全な出力でモデルを学習させた。得られたシーケンスは3D Gaussian Splatsやポリゴンメッシュに再構成でき、リアルタイムレンダリングやNVIDIA Isaac Simなどのアプリケーションへのエクスポートが可能になる。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-2-scaled.jpg",
+          "cap": "画像提供：NVIDIA"
+        },
+        {
+          "t": "p",
+          "x": "蒸留モデルは動画生成のデノイジングステップを35から四つに減らし、約13倍の削減を実現した。80フレームの区間は単一のNVIDIA GB200 GPUで約15秒で生成でき、フルモデルでは194秒かかる。これはリアルタイムの世界生成ではなく、対象も主に静的な環境に限られる。NVIDIAは実装をGitHubで公開し、モデルの重みは研究用途に限るライセンス制限付きでHugging Faceで配布している。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-3.jpg",
+          "cap": "NVIDIA Isaac Simに読み込んだLyra 2.0生成の環境。画像提供：NVIDIA"
+        }
+      ]
     }
   }
 }

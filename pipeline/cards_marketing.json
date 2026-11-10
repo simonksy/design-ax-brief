@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "section": "marketing",
   "cards": [
     {
-      "id": "ogilvy-caa-echo-doubles",
+      "id": "openai-chatgpt-business-agents",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Ogilvy와 CAA,\n스타 AI 분신 광고 허용",
-      "body": "Ogilvy와 CAA가 Echo로 스타가 동의한 AI 분신 광고의 문을 열었다.",
-      "mini_headline": "Ogilvy·CAA, Echo 출시",
+      "headline": "OpenAI, 브랜드에\nChatGPT 무료 개방",
+      "body": "브랜드가 OpenAI 인증 에이전트를 달고 ChatGPT 대화에 무료로 들어간다.",
+      "mini_headline": "OpenAI의 무료 브랜드 에이전트",
       "tool": "Marketing",
       "source": "Digiday",
-      "url": "https://digiday.com/marketing/ogilvy-and-caa-launch-partnership-to-clone-celebrity-talent-for-ai-ads/",
+      "url": "https://digiday.com/marketing/openais-new-business-agents-give-brands-a-free-way-into-the-conversation-its-also-selling-as-an-ad/",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
@@ -19,173 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/multimedia-ads-digiday.jpg"
+            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/08/open-AI-digiday.jpg?w=1030&h=579&crop=1",
+            "cap": "Ivy Liu"
           },
           {
             "t": "p",
-            "x": "WPP 계열 에이전시 Ogilvy가 Creative Artists Agency(CAA)와 손잡고 CAA 소속 배우·운동선수·유명 크리에이터가 나오는 AI 광고를 만든다. Ogilvy의 글로벌 최고혁신책임자 Carol Reed는 “광고와 엔터테인먼트 사이의 ‘NIL 모먼트’를 지금 목격하고 있다”고 말했다. Brooklyn Nine-Nine의 Terry Crews도 참여에 동의한 배우 중 한 명이다. 시범 광고는 “연말 무렵 공개될 예정”이다."
+            "x": "이제 기업은 새 Business Hub에서 ChatGPT 안에 프로필을 만들고 인증을 거쳐 제품과 회사 정보를 올릴 수 있다. 미국(U.S.)의 전자상거래·온라인 서비스 기업은 (당분간) 비즈니스 에이전트도 띄울 수 있다. 사용자가 제품을 자세히 알아볼 때 브랜드 편에서 응대하는 채팅으로, 별도 표시가 붙는다."
           },
           {
             "t": "p",
-            "x": "Ogilvy는 Echo라는 솔루션으로 “The Vault”에 쌓인 자료를 쓸 수 있다. The Vault는 Veritone이 사 년 전 CAA를 위해 만든 사내 디지털 스캐닝 시설이다. 카메라 204대가 배우·운동선수·크리에이터의 목소리, 몸짓, 표정, 걸음걸이를 담는다. 직원들은 이 자료를 WPP Open으로 불러와 스토리보드와 목업, 최종 크리에이티브 에셋에 쓴다. 에셋당 비용은 65-75% 줄어들 전망이다."
+            "x": "OpenAI 수익화 담당 vp Benji Shomair는 비즈니스 에이전트를 두고, OpenAI가 9월부터 유료 광고로 시험해 온 형식에 돈을 내지 않고 자연스럽게 들어오는 길이라고 설명했다. 그는 “비즈니스 에이전트는 오가닉 경험으로 생각하면 된다”며 “스폰서 에이전트는 유료 경험이지만, 그 뒤에 있는 에이전트는 같아야 한다”고 덧붙였다."
           },
           {
             "t": "p",
-            "x": "CAA 고객은 자기 디지털 초상을 소유하며 어떤 기업과 시장에 나올지도 직접 고른다. Reed는 “탤런트는 마지막에 언제나 모든 것을 보고 모든 것을 승인한다”고 말했다. AI 광고물에는 AI-generated 콘텐츠라는 점과 스타가 승인했다는 사실을 알리는 워터마크가 붙는다."
+            "x": "결제 단계에 이르면 에이전트가 구매자를 브랜드 자체 사이트로 보낸다. 브랜드에는 대화 기록 대신 대화 주제만 전달되고, 자체 에이전트는 들여올 수 없다. Business Hub의 Insights 베타에서는 언급·조회·웹사이트 클릭과 발견 주제를 볼 수 있다. 한 대변인은 “기업은 개별 프롬프트나 채팅을 보지 못한다”고 못 박았다."
           },
           {
             "t": "p",
-            "x": "소비자 반응은 아직 미지근하다. YouGov 조사에서 영국인의 절반 가까이(49%)가 광고에 나오는 AI-generated 배우를 부정적으로 봤다. Reed는 이 시스템이 Ogilvy의 “팔레트”를 넓히는 것이라며 “그 뒤에는 인간의 솜씨와 사람이 있다”고 말했다."
+            "x": "Sonata Insights의 Debra Aho Williamson은 OpenAI가 인사이트를 직접 넘겨주면 “서드파티 기업의 힘이 일부 줄어들 것”이라고 봤다. Business Hub와 에이전트는 당분간 무료다. Shomair는 기업이 “얼마나 자주 노출되는지에 영향을 미쳐서는 안 된다”고 했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ogilvy and CAA license\nAI doubles of stars for ads",
-          "body": "Ogilvy and CAA launched Echo, letting brands license consent-based AI doubles of CAA talent for ads.",
-          "mini_headline": "Ogilvy and CAA launch Echo",
+          "headline": "OpenAI opens a free door\nfor brands inside ChatGPT",
+          "body": "OpenAI's verified business agents give brands a free path into ChatGPT chats it also sells as ads.",
+          "mini_headline": "OpenAI's free brand agents",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/multimedia-ads-digiday.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/08/open-AI-digiday.jpg?w=1030&h=579&crop=1",
+                "cap": "Ivy Liu"
               },
               {
                 "t": "p",
-                "x": "WPP agency Ogilvy has inked a partnership with Creative Artists Agency (CAA) to generate AI ads featuring the actors, athletes and high-profile creators on CAA’s roster. “We are witnessing the ‘NIL moment’ between advertising and entertainment,” said Carol Reed, global chief innovation officer at Ogilvy. Brooklyn Nine-Nine star Terry Crews is among the actors who have opted in, and pilots “should be going live towards the end of the year.”"
+                "x": "Businesses can now claim a profile in ChatGPT through a new Business Hub, get verified and feed in product and company details. In the U.S. (for now), e-commerce and online services businesses can also publish a business agent – a separately labelled chat that speaks for the brand once a user wants to dig into a product."
               },
               {
                 "t": "p",
-                "x": "The solution, called Echo, gives Ogilvy access to material kept in “The Vault,” an in-house digital scanning facility built for CAA by Veritone four years ago that uses 204 cameras to capture an actor, athlete or creator’s voice, body language, facial expressions and walk. Staffers can pull it into WPP Open for storyboarding, mock-ups or final creative assets, with cost-per-asset expected to fall by 65-75%."
+                "x": "OpenAI's vp of monetization Benji Shomair said the business agent is the free, organic way into a format OpenAI started testing as a paid ad in September. “Think of the business agent as the organic experience,” he said. “The sponsored agent is the paid experience, but the agent that sits behind it should be the same.”"
               },
               {
                 "t": "p",
-                "x": "CAA clients own their digital likenesses and choose which businesses and markets they appear for. “Talent always gets to see everything and approve everything at the end,” said Reed. AI ad materials will carry a watermark marking them as AI-generated and approved by the star."
+                "x": "When the shopper is ready to pay, the agent sends them to the brand's own site. Brands get conversation themes rather than transcripts, and can't bring their own agents. The Business Hub's Insights beta shows mentions, views and website clicks, plus discovery topics; “Businesses don't see individual prompts or chats,” a spokesperson said."
               },
               {
                 "t": "p",
-                "x": "Consumers remain cool on the idea: nearly half (49%) of Britons view AI-generated actors in ads negatively, according to YouGov. Reed said the system is an extension of Ogilvy’s “palette” and that “there is a human craft and a human behind it.”"
+                "x": "Sonata Insights' Debra Aho Williamson said OpenAI sharing insights itself “will take some of the power away from the third-party companies.” Business Hub and agents are free for now, and Shomair said a business “should not have an impact on how frequently it appears.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Ogilvy와 CAA,\n스타 AI 분신 광고 허용",
-          "body": "Ogilvy와 CAA가 Echo로 스타가 동의한 AI 분신 광고의 문을 열었다.",
-          "mini_headline": "Ogilvy·CAA, Echo 출시",
+          "headline": "OpenAI, 브랜드에\nChatGPT 무료 개방",
+          "body": "브랜드가 OpenAI 인증 에이전트를 달고 ChatGPT 대화에 무료로 들어간다.",
+          "mini_headline": "OpenAI의 무료 브랜드 에이전트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/multimedia-ads-digiday.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/08/open-AI-digiday.jpg?w=1030&h=579&crop=1",
+                "cap": "Ivy Liu"
               },
               {
                 "t": "p",
-                "x": "WPP 계열 에이전시 Ogilvy가 Creative Artists Agency(CAA)와 손잡고 CAA 소속 배우·운동선수·유명 크리에이터가 나오는 AI 광고를 만든다. Ogilvy의 글로벌 최고혁신책임자 Carol Reed는 “광고와 엔터테인먼트 사이의 ‘NIL 모먼트’를 지금 목격하고 있다”고 말했다. Brooklyn Nine-Nine의 Terry Crews도 참여에 동의한 배우 중 한 명이다. 시범 광고는 “연말 무렵 공개될 예정”이다."
+                "x": "이제 기업은 새 Business Hub에서 ChatGPT 안에 프로필을 만들고 인증을 거쳐 제품과 회사 정보를 올릴 수 있다. 미국(U.S.)의 전자상거래·온라인 서비스 기업은 (당분간) 비즈니스 에이전트도 띄울 수 있다. 사용자가 제품을 자세히 알아볼 때 브랜드 편에서 응대하는 채팅으로, 별도 표시가 붙는다."
               },
               {
                 "t": "p",
-                "x": "Ogilvy는 Echo라는 솔루션으로 “The Vault”에 쌓인 자료를 쓸 수 있다. The Vault는 Veritone이 사 년 전 CAA를 위해 만든 사내 디지털 스캐닝 시설이다. 카메라 204대가 배우·운동선수·크리에이터의 목소리, 몸짓, 표정, 걸음걸이를 담는다. 직원들은 이 자료를 WPP Open으로 불러와 스토리보드와 목업, 최종 크리에이티브 에셋에 쓴다. 에셋당 비용은 65-75% 줄어들 전망이다."
+                "x": "OpenAI 수익화 담당 vp Benji Shomair는 비즈니스 에이전트를 두고, OpenAI가 9월부터 유료 광고로 시험해 온 형식에 돈을 내지 않고 자연스럽게 들어오는 길이라고 설명했다. 그는 “비즈니스 에이전트는 오가닉 경험으로 생각하면 된다”며 “스폰서 에이전트는 유료 경험이지만, 그 뒤에 있는 에이전트는 같아야 한다”고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "CAA 고객은 자기 디지털 초상을 소유하며 어떤 기업과 시장에 나올지도 직접 고른다. Reed는 “탤런트는 마지막에 언제나 모든 것을 보고 모든 것을 승인한다”고 말했다. AI 광고물에는 AI-generated 콘텐츠라는 점과 스타가 승인했다는 사실을 알리는 워터마크가 붙는다."
+                "x": "결제 단계에 이르면 에이전트가 구매자를 브랜드 자체 사이트로 보낸다. 브랜드에는 대화 기록 대신 대화 주제만 전달되고, 자체 에이전트는 들여올 수 없다. Business Hub의 Insights 베타에서는 언급·조회·웹사이트 클릭과 발견 주제를 볼 수 있다. 한 대변인은 “기업은 개별 프롬프트나 채팅을 보지 못한다”고 못 박았다."
               },
               {
                 "t": "p",
-                "x": "소비자 반응은 아직 미지근하다. YouGov 조사에서 영국인의 절반 가까이(49%)가 광고에 나오는 AI-generated 배우를 부정적으로 봤다. Reed는 이 시스템이 Ogilvy의 “팔레트”를 넓히는 것이라며 “그 뒤에는 인간의 솜씨와 사람이 있다”고 말했다."
+                "x": "Sonata Insights의 Debra Aho Williamson은 OpenAI가 인사이트를 직접 넘겨주면 “서드파티 기업의 힘이 일부 줄어들 것”이라고 봤다. Business Hub와 에이전트는 당분간 무료다. Shomair는 기업이 “얼마나 자주 노출되는지에 영향을 미쳐서는 안 된다”고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "OgilvyとCAA\nスターのAI分身を広告に",
-          "body": "OgilvyとCAAがEchoを始動し、同意済みのAI分身をブランド広告に提供する。",
-          "mini_headline": "OgilvyとCAA、Echoを開始",
+          "headline": "OpenAIがブランドに\nChatGPTの無料窓口",
+          "body": "OpenAIの認証エージェントで、ブランドはChatGPTの会話に無料で入れる。",
+          "mini_headline": "OpenAIの無料ブランドエージェント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/multimedia-ads-digiday.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/08/open-AI-digiday.jpg?w=1030&h=579&crop=1",
+                "cap": "Ivy Liu"
               },
               {
                 "t": "p",
-                "x": "WPP傘下のエージェンシーOgilvyはCreative Artists Agency(CAA)と提携し、CAAに所属する俳優、アスリート、著名クリエイターを起用したAI広告を制作する。Ogilvyのグローバル最高イノベーション責任者Carol Reedは「広告とエンターテインメントの間の『NILモーメント』を我々は目撃している」と語った。Brooklyn Nine-NineのTerry Crewsも参加に同意した俳優の一人で、試験運用は「年末にかけて始まる見込み」だという。"
+                "x": "企業は新しいBusiness Hubを通じてChatGPT内でプロフィールを登録し、認証を受けたうえで製品や会社の情報を入力できるようになった。米国（U.S.）では当面、eコマースとオンラインサービスの企業がビジネスエージェントも公開できる。ユーザーが製品を詳しく知りたいときにブランドを代弁する、別途ラベル付きのチャットだ。"
               },
               {
                 "t": "p",
-                "x": "Echoと呼ばれるこの仕組みにより、Ogilvyは「The Vault」に保管された素材を利用できる。The VaultはVeritoneが四年前にCAAのために建設した社内デジタルスキャン施設で、204台のカメラで俳優、アスリート、クリエイターの声、身ぶり、表情、歩き方を記録する。スタッフは素材をWPP Openに取り込み、絵コンテ、モックアップ、最終的なクリエイティブ素材に使える。素材1点あたりのコストは65-75%下がる見通しだ。"
+                "x": "OpenAIの収益化担当vpであるBenji Shomairは、ビジネスエージェントは、OpenAIが9月に有料広告として試験を始めた形式への無料かつオーガニックな入口だと述べた。「ビジネスエージェントはオーガニックな体験と考えてほしい」と彼は言う。「スポンサーエージェントは有料の体験だが、その背後にいるエージェントは同じであるべきだ」"
               },
               {
                 "t": "p",
-                "x": "CAAのクライアントは自らのデジタル肖像を所有し、どの企業や市場に登場するかを選ぶ。Reedは「タレントは最後に必ずすべてを確認し、すべてを承認する」と述べた。AI広告素材には、AI-generatedでありスターが承認したことを示す透かしが入る。"
+                "x": "買い物客が支払いの段階に進むと、エージェントはブランド自身のサイトへ送り出す。ブランドが受け取るのは会話記録ではなく会話のテーマで、自社のエージェントを持ち込むことはできない。Business HubのInsightsベータは、言及、閲覧、ウェブサイトのクリックに加え、発見のトピックを示す。広報担当者は「企業は個々のプロンプトやチャットを見られない」と述べた。"
               },
               {
                 "t": "p",
-                "x": "消費者の反応はまだ冷ややかだ。YouGovによると、英国人の半数近く(49%)が広告に登場するAI-generatedの俳優を否定的に見ている。Reedは、このシステムはOgilvyの「パレット」を広げるものであり、「そこには人間の技と人間がいる」と語った。"
+                "x": "Sonata InsightsのDebra Aho Williamsonは、OpenAIが自らインサイトを共有することで「サードパーティ企業の力の一部が奪われる」と指摘した。Business Hubとエージェントは当面無料で、Shomairは、企業が「表示される頻度に影響を与えるべきではない」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ogilvy与CAA\n授权明星AI分身做广告",
-          "body": "Ogilvy与CAA推出Echo，让品牌可授权使用CAA艺人经同意的AI分身做广告。",
-          "mini_headline": "Ogilvy与CAA推出Echo",
+          "headline": "OpenAI为品牌打开\nChatGPT免费入口",
+          "body": "OpenAI认证商家代理让品牌免费进入同样出售广告的ChatGPT对话。",
+          "mini_headline": "OpenAI的免费品牌代理",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/multimedia-ads-digiday.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/08/open-AI-digiday.jpg?w=1030&h=579&crop=1",
+                "cap": "Ivy Liu"
               },
               {
                 "t": "p",
-                "x": "WPP旗下代理商Ogilvy与Creative Artists Agency（CAA）达成合作，将以CAA旗下的演员、运动员和知名创作者为主角制作AI广告。Ogilvy全球首席创新官Carol Reed表示：“我们正在见证广告与娱乐之间的‘NIL时刻’。”Brooklyn Nine-Nine演员Terry Crews是已同意加入的演员之一，试点项目“预计将在年底前后上线”。"
+                "x": "企业现在可以通过全新的Business Hub在ChatGPT中认领主页、完成认证，并录入产品和公司信息。在美国（U.S.，目前仅限于此），电商和在线服务企业还可以发布商家代理——一个单独标注的聊天窗口，在用户想深入了解某款产品时代表品牌发言。"
               },
               {
                 "t": "p",
-                "x": "这一名为Echo的方案让Ogilvy可以使用存放在“The Vault”中的素材。The Vault是Veritone四年前为CAA建造的内部数字扫描设施，用204台摄像机捕捉演员、运动员或创作者的声音、肢体语言、面部表情和步态。员工可将素材导入WPP Open，用于故事板、样稿或最终创意素材，单个素材成本预计下降65-75%。"
+                "x": "OpenAI变现副总裁（vp）Benji Shomair表示，商家代理是进入一种广告形式的免费、自然途径，OpenAI自9月起开始将这一形式作为付费广告测试。“可以把商家代理看作自然体验，”他说，“赞助代理是付费体验，但背后的代理应当是同一个。”"
               },
               {
                 "t": "p",
-                "x": "CAA客户拥有自己的数字肖像，并自行选择出现在哪些企业和市场。Reed说：“艺人最后总能看到一切、批准一切。”AI广告素材将带有水印，标明其为AI-generated内容并已获明星批准。"
+                "x": "当购物者准备付款时，代理会把他们引导到品牌自己的网站。品牌获得的是对话主题而非对话记录，也不能接入自己的代理。Business Hub的Insights测试版会显示提及量、浏览量和网站点击量，以及发现话题；一位发言人表示：“企业看不到单个提示词或聊天内容。”"
               },
               {
                 "t": "p",
-                "x": "消费者对此仍反应冷淡：YouGov数据显示，近一半（49%）的英国人对广告中的AI-generated演员持负面看法。Reed表示，这套系统是Ogilvy“调色板”的延伸，“背后有人的手艺，也有人在把关”。"
+                "x": "Sonata Insights的Debra Aho Williamson表示，OpenAI自己分享洞察，“将从第三方公司手中拿走部分权力”。Business Hub和代理目前免费，Shomair表示，企业“不应影响其出现的频率”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ogilvy y CAA licencian dobles\nAI de estrellas para anuncios",
-          "body": "Ogilvy y CAA lanzaron Echo, que permite a las marcas licenciar dobles AI consentidos del talento de CAA para anuncios.",
-          "mini_headline": "Ogilvy y CAA lanzan Echo",
+          "headline": "OpenAI abre una puerta gratuita\na las marcas dentro de ChatGPT",
+          "body": "Los agentes verificados de OpenAI abren a las marcas un acceso gratuito a ChatGPT, que también vende anuncios.",
+          "mini_headline": "Los agentes gratuitos de OpenAI para marcas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/multimedia-ads-digiday.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/08/open-AI-digiday.jpg?w=1030&h=579&crop=1",
+                "cap": "Ivy Liu"
               },
               {
                 "t": "p",
-                "x": "La agencia Ogilvy, del grupo WPP, firmó una alianza con Creative Artists Agency (CAA) para generar anuncios con AI protagonizados por los actores, deportistas y creadores destacados de la cartera de CAA. «Estamos presenciando el ‘momento NIL’ entre la publicidad y el entretenimiento», dijo Carol Reed, directora global de innovación de Ogilvy. Terry Crews, estrella de Brooklyn Nine-Nine, figura entre los actores que aceptaron participar, y los pilotos «deberían salir hacia finales de año»."
+                "x": "Las empresas ya pueden reclamar un perfil en ChatGPT mediante un nuevo Business Hub, verificarse y cargar datos de sus productos y de la compañía. En U.S. (por ahora), las empresas de comercio electrónico y servicios en línea también pueden publicar un agente de empresa: un chat etiquetado por separado que habla en nombre de la marca cuando un usuario quiere profundizar en un producto."
               },
               {
                 "t": "p",
-                "x": "La solución, llamada Echo, da a Ogilvy acceso al material guardado en «The Vault», unas instalaciones internas de escaneo digital que Veritone construyó para CAA hace cuatro años y que usan 204 cámaras para captar la voz, el lenguaje corporal, las expresiones faciales y la forma de caminar de un actor, deportista o creador. El personal puede llevarlo a WPP Open para guiones gráficos, maquetas o piezas creativas finales, y se espera que el costo por pieza baje entre un 65-75%."
+                "x": "Benji Shomair, vp de monetización de OpenAI, dijo que el agente de empresa es la vía gratuita y orgánica hacia un formato que OpenAI empezó a probar como anuncio de pago en septiembre. “Piensen en el agente de empresa como la experiencia orgánica”, dijo. “El agente patrocinado es la experiencia de pago, pero el agente que está detrás debería ser el mismo”."
               },
               {
                 "t": "p",
-                "x": "Los clientes de CAA son dueños de su imagen digital y eligen en qué empresas y mercados aparecen. «El talento siempre puede verlo todo y aprobarlo todo al final», dijo Reed. Los materiales publicitarios con AI llevarán una marca de agua que los identifica como AI-generated y aprobados por la estrella."
+                "x": "Cuando el comprador está listo para pagar, el agente lo envía al sitio propio de la marca. Las marcas reciben temas de conversación en lugar de transcripciones y no pueden usar sus propios agentes. La beta de Insights de Business Hub muestra menciones, visualizaciones y clics al sitio web, además de temas de descubrimiento; “Las empresas no ven prompts ni chats individuales”, dijo un portavoz."
               },
               {
                 "t": "p",
-                "x": "Los consumidores siguen tibios ante la idea: casi la mitad (49%) de los británicos ve de forma negativa a los actores AI-generated en anuncios, según YouGov. Reed dijo que el sistema es una extensión de la «paleta» de Ogilvy y que «detrás hay oficio humano y una persona»."
+                "x": "Debra Aho Williamson, de Sonata Insights, dijo que el hecho de que OpenAI comparta los datos por sí misma “quitará parte del poder a las empresas externas”. Business Hub y los agentes son gratuitos por ahora, y Shomair dijo que una empresa “no debería influir en la frecuencia con la que aparece”."
               }
             ]
           }
@@ -193,121 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Ogilvy와 CAA,\n스타 AI 분신 광고 허용",
-          "body": "Ogilvy와 CAA가 Echo로 동의 기반 AI 분신 광고를 열었다.",
-          "mini_headline": "Ogilvy·CAA, Echo 출시",
+          "headline": "OpenAI, 브랜드에\nChatGPT 무료 개방",
+          "body": "OpenAI 인증 에이전트로 브랜드가 ChatGPT 대화에 무료로 들어간다.",
+          "mini_headline": "OpenAI의 무료 브랜드 에이전트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/multimedia-ads-digiday.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/08/open-AI-digiday.jpg?w=1030&h=579&crop=1",
+                "cap": "Ivy Liu"
               },
               {
                 "t": "p",
-                "x": "WPP 계열 에이전시 Ogilvy가 Creative Artists Agency(CAA)와 손잡고 CAA 소속 배우, 운동선수, 유명 크리에이터가 등장하는 AI 광고를 만든다. Ogilvy의 글로벌 최고혁신책임자 Carol Reed는 “광고와 엔터테인먼트 사이의 ‘NIL 모먼트’를 지금 목격하고 있다”고 말했다. Brooklyn Nine-Nine의 Terry Crews가 참여에 동의한 배우 가운데 한 명이며, 시범 광고는 “연말 무렵 공개될 예정”이다."
+                "x": "이제 기업은 새 Business Hub를 통해 ChatGPT 안에 프로필을 등록하고 인증을 받은 뒤 제품과 회사 정보를 넣을 수 있다. 미국(U.S.)에서는 (당분간) 전자상거래와 온라인 서비스 기업이 비즈니스 에이전트도 게시할 수 있다. 사용자가 제품을 깊이 알아보려 할 때 브랜드를 대변하는, 별도 표시가 붙은 채팅이다."
               },
               {
                 "t": "p",
-                "x": "Echo라는 이름의 이 솔루션으로 Ogilvy는 “The Vault”에 보관된 자료를 쓸 수 있다. The Vault는 Veritone이 사 년 전 CAA를 위해 만든 사내 디지털 스캐닝 시설로, 카메라 204대로 배우·운동선수·크리에이터의 목소리, 몸짓, 표정, 걸음걸이를 담는다. 직원들은 이 자료를 WPP Open으로 불러와 스토리보드, 목업, 최종 크리에이티브 에셋에 쓸 수 있으며, 에셋당 비용은 65-75% 줄어들 것으로 보인다."
+                "x": "OpenAI 수익화 담당 vp Benji Shomair는 비즈니스 에이전트가 OpenAI가 9월부터 유료 광고로 시험해 온 형식에 무료로, 자연스럽게 들어가는 길이라고 말했다. 그는 “비즈니스 에이전트는 오가닉 경험으로 생각하면 된다”며 “스폰서 에이전트는 유료 경험이지만, 그 뒤에 있는 에이전트는 같아야 한다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "CAA 고객은 자신의 디지털 초상을 소유하고, 어떤 기업과 시장에 등장할지 직접 고른다. Reed는 “탤런트는 마지막에 언제나 모든 것을 보고 모든 것을 승인한다”고 말했다. AI 광고물에는 AI-generated 콘텐츠이며 스타가 승인했다는 사실을 알리는 워터마크가 붙는다."
+                "x": "구매자가 결제할 준비가 되면 에이전트는 브랜드 자체 사이트로 안내한다. 브랜드는 대화 기록 대신 대화 주제를 받으며, 자체 에이전트를 가져올 수는 없다. Business Hub의 Insights 베타는 언급, 조회, 웹사이트 클릭과 발견 주제를 보여 준다. 한 대변인은 “기업은 개별 프롬프트나 채팅을 보지 못한다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "소비자 반응은 아직 미지근하다. YouGov에 따르면 영국인의 절반 가까이(49%)가 광고에 나오는 AI-generated 배우를 부정적으로 본다. Reed는 이 시스템이 Ogilvy의 “팔레트”를 넓히는 것이며 “그 뒤에는 인간의 솜씨와 사람이 있다”고 말했다."
+                "x": "Sonata Insights의 Debra Aho Williamson은 OpenAI가 인사이트를 직접 공유하면 “서드파티 기업의 힘이 일부 줄어들 것”이라고 말했다. Business Hub와 에이전트는 당분간 무료이며, Shomair는 기업이 “얼마나 자주 노출되는지에 영향을 미쳐서는 안 된다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "OgilvyとCAA\nスターのAI分身を広告に",
-          "body": "OgilvyとCAAがEchoを始動し、同意済みのAI分身をブランド広告に提供する。",
-          "mini_headline": "OgilvyとCAA、Echoを開始",
+          "headline": "OpenAIがブランドに\nChatGPTの無料窓口",
+          "body": "OpenAIの認証エージェントで、ブランドはChatGPTの会話に無料で入れる。",
+          "mini_headline": "OpenAIの無料ブランドエージェント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/multimedia-ads-digiday.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/08/open-AI-digiday.jpg?w=1030&h=579&crop=1",
+                "cap": "Ivy Liu"
               },
               {
                 "t": "p",
-                "x": "WPP傘下のエージェンシーOgilvyはCreative Artists Agency(CAA)と提携し、CAAに所属する俳優、アスリート、著名クリエイターを起用したAI広告を制作する。Ogilvyのグローバル最高イノベーション責任者Carol Reedは「広告とエンターテインメントの間の『NILモーメント』を我々は目撃している」と語った。Brooklyn Nine-NineのTerry Crewsも参加に同意した俳優の一人で、試験運用は「年末にかけて始まる見込み」だという。"
+                "x": "企業は新しいBusiness Hubを通じてChatGPT内でプロフィールを登録し、認証を受けたうえで製品や会社の情報を入力できるようになった。米国（U.S.）では当面、eコマースとオンラインサービスの企業がビジネスエージェントも公開できる。ユーザーが製品を詳しく知りたいときにブランドを代弁する、別途ラベル付きのチャットだ。"
               },
               {
                 "t": "p",
-                "x": "Echoと呼ばれるこの仕組みにより、Ogilvyは「The Vault」に保管された素材を利用できる。The VaultはVeritoneが四年前にCAAのために建設した社内デジタルスキャン施設で、204台のカメラで俳優、アスリート、クリエイターの声、身ぶり、表情、歩き方を記録する。スタッフは素材をWPP Openに取り込み、絵コンテ、モックアップ、最終的なクリエイティブ素材に使える。素材1点あたりのコストは65-75%下がる見通しだ。"
+                "x": "OpenAIの収益化担当vpであるBenji Shomairは、ビジネスエージェントは、OpenAIが9月に有料広告として試験を始めた形式への無料かつオーガニックな入口だと述べた。「ビジネスエージェントはオーガニックな体験と考えてほしい」と彼は言う。「スポンサーエージェントは有料の体験だが、その背後にいるエージェントは同じであるべきだ」"
               },
               {
                 "t": "p",
-                "x": "CAAのクライアントは自らのデジタル肖像を所有し、どの企業や市場に登場するかを選ぶ。Reedは「タレントは最後に必ずすべてを確認し、すべてを承認する」と述べた。AI広告素材には、AI-generatedでありスターが承認したことを示す透かしが入る。"
+                "x": "買い物客が支払いの段階に進むと、エージェントはブランド自身のサイトへ送り出す。ブランドが受け取るのは会話記録ではなく会話のテーマで、自社のエージェントを持ち込むことはできない。Business HubのInsightsベータは、言及、閲覧、ウェブサイトのクリックに加え、発見のトピックを示す。広報担当者は「企業は個々のプロンプトやチャットを見られない」と述べた。"
               },
               {
                 "t": "p",
-                "x": "消費者の反応はまだ冷ややかだ。YouGovによると、英国人の半数近く(49%)が広告に登場するAI-generatedの俳優を否定的に見ている。Reedは、このシステムはOgilvyの「パレット」を広げるものであり、「そこには人間の技と人間がいる」と語った。"
+                "x": "Sonata InsightsのDebra Aho Williamsonは、OpenAIが自らインサイトを共有することで「サードパーティ企業の力の一部が奪われる」と指摘した。Business Hubとエージェントは当面無料で、Shomairは、企業が「表示される頻度に影響を与えるべきではない」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ogilvy与CAA\n授权明星AI分身做广告",
-          "body": "Ogilvy与CAA推出Echo，让品牌可授权使用CAA艺人经同意的AI分身做广告。",
-          "mini_headline": "Ogilvy与CAA推出Echo",
+          "headline": "OpenAI为品牌打开\nChatGPT免费入口",
+          "body": "OpenAI认证商家代理让品牌免费进入同样出售广告的ChatGPT对话。",
+          "mini_headline": "OpenAI的免费品牌代理",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/multimedia-ads-digiday.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/08/open-AI-digiday.jpg?w=1030&h=579&crop=1",
+                "cap": "Ivy Liu"
               },
               {
                 "t": "p",
-                "x": "WPP旗下代理商Ogilvy与Creative Artists Agency（CAA）达成合作，将以CAA旗下的演员、运动员和知名创作者为主角制作AI广告。Ogilvy全球首席创新官Carol Reed表示：“我们正在见证广告与娱乐之间的‘NIL时刻’。”Brooklyn Nine-Nine演员Terry Crews是已同意加入的演员之一，试点项目“预计将在年底前后上线”。"
+                "x": "企业现在可以通过全新的Business Hub在ChatGPT中认领主页、完成认证，并录入产品和公司信息。在美国（U.S.，目前仅限于此），电商和在线服务企业还可以发布商家代理——一个单独标注的聊天窗口，在用户想深入了解某款产品时代表品牌发言。"
               },
               {
                 "t": "p",
-                "x": "这一名为Echo的方案让Ogilvy可以使用存放在“The Vault”中的素材。The Vault是Veritone四年前为CAA建造的内部数字扫描设施，用204台摄像机捕捉演员、运动员或创作者的声音、肢体语言、面部表情和步态。员工可将素材导入WPP Open，用于故事板、样稿或最终创意素材，单个素材成本预计下降65-75%。"
+                "x": "OpenAI变现副总裁（vp）Benji Shomair表示，商家代理是进入一种广告形式的免费、自然途径，OpenAI自9月起开始将这一形式作为付费广告测试。“可以把商家代理看作自然体验，”他说，“赞助代理是付费体验，但背后的代理应当是同一个。”"
               },
               {
                 "t": "p",
-                "x": "CAA客户拥有自己的数字肖像，并自行选择出现在哪些企业和市场。Reed说：“艺人最后总能看到一切、批准一切。”AI广告素材将带有水印，标明其为AI-generated内容并已获明星批准。"
+                "x": "当购物者准备付款时，代理会把他们引导到品牌自己的网站。品牌获得的是对话主题而非对话记录，也不能接入自己的代理。Business Hub的Insights测试版会显示提及量、浏览量和网站点击量，以及发现话题；一位发言人表示：“企业看不到单个提示词或聊天内容。”"
               },
               {
                 "t": "p",
-                "x": "消费者对此仍反应冷淡：YouGov数据显示，近一半（49%）的英国人对广告中的AI-generated演员持负面看法。Reed表示，这套系统是Ogilvy“调色板”的延伸，“背后有人的手艺，也有人在把关”。"
+                "x": "Sonata Insights的Debra Aho Williamson表示，OpenAI自己分享洞察，“将从第三方公司手中拿走部分权力”。Business Hub和代理目前免费，Shomair表示，企业“不应影响其出现的频率”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ogilvy y CAA licencian dobles\nAI de estrellas para anuncios",
-          "body": "Ogilvy y CAA lanzaron Echo, que permite a las marcas licenciar dobles AI consentidos del talento de CAA para anuncios.",
-          "mini_headline": "Ogilvy y CAA lanzan Echo",
+          "headline": "OpenAI abre una puerta gratuita\na las marcas dentro de ChatGPT",
+          "body": "Los agentes verificados de OpenAI abren a las marcas un acceso gratuito a ChatGPT, que también vende anuncios.",
+          "mini_headline": "Los agentes gratuitos de OpenAI para marcas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/multimedia-ads-digiday.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/08/open-AI-digiday.jpg?w=1030&h=579&crop=1",
+                "cap": "Ivy Liu"
               },
               {
                 "t": "p",
-                "x": "La agencia Ogilvy, del grupo WPP, firmó una alianza con Creative Artists Agency (CAA) para generar anuncios con AI protagonizados por los actores, deportistas y creadores destacados de la cartera de CAA. «Estamos presenciando el ‘momento NIL’ entre la publicidad y el entretenimiento», dijo Carol Reed, directora global de innovación de Ogilvy. Terry Crews, estrella de Brooklyn Nine-Nine, figura entre los actores que aceptaron participar, y los pilotos «deberían salir hacia finales de año»."
+                "x": "Las empresas ya pueden reclamar un perfil en ChatGPT mediante un nuevo Business Hub, verificarse y cargar datos de sus productos y de la compañía. En U.S. (por ahora), las empresas de comercio electrónico y servicios en línea también pueden publicar un agente de empresa: un chat etiquetado por separado que habla en nombre de la marca cuando un usuario quiere profundizar en un producto."
               },
               {
                 "t": "p",
-                "x": "La solución, llamada Echo, da a Ogilvy acceso al material guardado en «The Vault», unas instalaciones internas de escaneo digital que Veritone construyó para CAA hace cuatro años y que usan 204 cámaras para captar la voz, el lenguaje corporal, las expresiones faciales y la forma de caminar de un actor, deportista o creador. El personal puede llevarlo a WPP Open para guiones gráficos, maquetas o piezas creativas finales, y se espera que el costo por pieza baje entre un 65-75%."
+                "x": "Benji Shomair, vp de monetización de OpenAI, dijo que el agente de empresa es la vía gratuita y orgánica hacia un formato que OpenAI empezó a probar como anuncio de pago en septiembre. “Piensen en el agente de empresa como la experiencia orgánica”, dijo. “El agente patrocinado es la experiencia de pago, pero el agente que está detrás debería ser el mismo”."
               },
               {
                 "t": "p",
-                "x": "Los clientes de CAA son dueños de su imagen digital y eligen en qué empresas y mercados aparecen. «El talento siempre puede verlo todo y aprobarlo todo al final», dijo Reed. Los materiales publicitarios con AI llevarán una marca de agua que los identifica como AI-generated y aprobados por la estrella."
+                "x": "Cuando el comprador está listo para pagar, el agente lo envía al sitio propio de la marca. Las marcas reciben temas de conversación en lugar de transcripciones y no pueden usar sus propios agentes. La beta de Insights de Business Hub muestra menciones, visualizaciones y clics al sitio web, además de temas de descubrimiento; “Las empresas no ven prompts ni chats individuales”, dijo un portavoz."
               },
               {
                 "t": "p",
-                "x": "Los consumidores siguen tibios ante la idea: casi la mitad (49%) de los británicos ve de forma negativa a los actores AI-generated en anuncios, según YouGov. Reed dijo que el sistema es una extensión de la «paleta» de Ogilvy y que «detrás hay oficio humano y una persona»."
+                "x": "Debra Aho Williamson, de Sonata Insights, dijo que el hecho de que OpenAI comparta los datos por sí misma “quitará parte del poder a las empresas externas”. Business Hub y los agentes son gratuitos por ahora, y Shomair dijo que una empresa “no debería influir en la frecuencia con la que aparece”."
               }
             ]
           }
@@ -315,15 +325,15 @@
       }
     },
     {
-      "id": "google-ads-mcp-write-tools",
+      "id": "shopify-campaign-autopilot-ads",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google Ads MCP\n쓰기 열고 예산은 잠갔다",
-      "body": "0.0.6 버전에 에셋·라벨 쓰기 도구 넷이 붙었지만 예산은 AI도 못 건드린다.",
-      "mini_headline": "Google Ads MCP에 쓰기 도구 추가",
+      "headline": "Shopify, 광고 기술\nAutopilot로 확장",
+      "body": "Shopify가 판매 건당 과금 AI-driven 광고 Autopilot을 넓힌다.",
+      "mini_headline": "Shopify, Autopilot 광고 확대",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/google-ads-mcp-server-gains-4-write-tools-still-cant-change-budgets/",
+      "source": "AdExchanger",
+      "url": "https://www.adexchanger.com/commerce/shopifyautopilot/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -331,265 +341,255 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/2026/11/google-ads-mcp-server-4-write-tools-read-only-vitrine-grabber-arm-locked-cash-register.jpg",
-            "cap": "Google Ads MCP 서버에 기본으로 켜진 쓰기 도구 4개가 생겼지만 안내서에는 여전히 읽기 전용(read-only)이라고 적혀 있다"
+            "src": "https://www.adexchanger.com/wp-content/uploads/2026/04/online-shopping_package-delivery_comic-e1678292494241.jpeg"
           },
           {
             "t": "p",
-            "x": "Google은 2026년 11월 2일 오픈소스 Google Ads MCP 서버 0.0.6 버전을 공개했다. 프로젝트 공개 이력상 처음으로 Google Ads 계정을 바꿀 수 있는 도구가 들어갔다. 쓰기 도구는 create_asset, upload_video_asset, manage_labels, manage_label_associations 네 개로, 에셋을 만들고 YouTube에 동영상을 올리고 라벨을 관리한다. 각 도구는 두 단계의 드라이런과 체크섬을 거쳐야 실행된다. 모두 기본으로 켜져 있다."
+            "x": "Shopify는 Amazon과 Walmart 다음으로 퍼스트파티 데이터를 많이 쥔 회사다. 그런데도 주요 리테일 미디어 사업자 가운데 광고 수익에 이만큼 조심스럽게 접근한 곳은 없다. Shopify의 머천트 마케팅 제품 담당 VP Samir Pradhan은 AdExchanger에 데이터 제휴, 타 플랫폼용 어드레서블 오디언스 세그먼트 다음 차례가 Campaign Autopilot이라고 밝혔다."
           },
           {
             "t": "p",
-            "x": "출시에 맞춘 발표는 따로 없었다. 10월 30일에 마지막으로 갱신된 Google 개발자 연동 안내서는 이 서버를 여전히 엄격한 읽기 전용(read-only)으로 설명한다. 체크섬은 매개변수가 바뀌지 않았음을 증명할 뿐, 누군가 변경을 승인했다는 것까지 증명하지는 못한다. 이번 버전을 시험한 스위스 컨설턴트 Thomas Wismer는 “그 사이에 사람이 승인했는지는 서버가 확인할 수 없다”고 적었다."
+            "x": "AI-driven 방식으로 에이전트가 최적화하는 제품이다. 판매자가 판매 한 건에 낼 가격을 정한다. 신규 고객에게 인센티브를 더 주거나 지역·시간대별로 타기팅하는 제어 기능도 있다. 제휴 플랫폼은 Meta, Microsoft Advertising, Snapchat이고 X도 붙을 예정이다. 이메일 마케팅과 Shop 내 광고까지 아우르며, 최근 몇 주 사이에는 SEO 최적화가 더해졌다."
           },
           {
             "t": "p",
-            "x": "0.0.6 버전도 캠페인, 광고 그룹, 광고는 만들거나 고칠 수 없고 예산, 입찰가, 입찰 전략, 상태도 바꾸지 못한다. 키워드 추가나 새 에셋의 캠페인 연결도 안 된다. README는 엄격한 읽기 전용(read-only)으로 운영하려면 tools_config.yaml에서 labels: false와 assets: false로 설정하라고 안내한다."
+            "x": "Pradhan은 이를 “위험 없는 광고 상품”이라고 불렀다. 다른 플랫폼은 노출 및/또는 클릭마다 돈을 받는다. Autopilot에서는 “Shopify가 그 미디어 위험을 떠안고” 판매자는 팔린 건에만 값을 치른다. 캠페인 상한을 걸거나 특정 채널을 빼는 것도 가능하다. 그는 “판매자의 신뢰를 지키고 통제권을 쥐고 있다고 느끼게 하는 것이 이 상품 개발 철학의 큰 부분이었다”고 설명했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google Ads MCP server\ngets write tools, not budgets",
-          "body": "Version 0.0.6 enables four write tools for assets and labels, letting AI agents edit live accounts but not budgets.",
-          "mini_headline": "Google Ads MCP adds write tools",
+          "headline": "Shopify pushes deeper\ninto ad tech with Autopilot",
+          "body": "Shopify is expanding its AI-driven Campaign Autopilot, an agentic ad product where merchants pay only per sale.",
+          "mini_headline": "Shopify widens Autopilot ads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ads-mcp-server-4-write-tools-read-only-vitrine-grabber-arm-locked-cash-register.jpg",
-                "cap": "Google Ads MCP server gains 4 write tools on by default, yet its guide still calls it read-only"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/04/online-shopping_package-delivery_comic-e1678292494241.jpeg"
               },
               {
                 "t": "p",
-                "x": "Google released version 0.0.6 of its open-source Google Ads MCP server on November 2, 2026, adding the first tools in the project's public history that can change a Google Ads account. The four write tools — create_asset, upload_video_asset, manage_labels and manage_label_associations — create assets, upload videos to YouTube and manage labels, each gated behind a two-step dry run and checksum. They are switched on by default."
+                "x": "No major retail media player has taken as circumspect an approach to advertising revenue as Shopify, which holds the greatest supply of such first-party data outside of Amazon and Walmart. After data partnerships and addressable audience segments for other platforms, its next step is Campaign Autopilot, Samir Pradhan, Shopify VP of product for merchant marketing, told AdExchanger."
               },
               {
                 "t": "p",
-                "x": "No announcement accompanied the release, and Google's developer integration guide, last updated on October 30, still describes the server as strictly read-only. The checksum proves the parameters did not change; it does not prove anyone approved the change. “Whether a human approved it in between, the server cannot check,” wrote Swiss consultant Thomas Wismer, who tested the release."
+                "x": "It's an agentic, AI-driven optimization product: merchants set the price they're willing to pay per sale, with controls such as a higher incentive for new customers or targeting by region or time of day. Partner platforms are Meta, Microsoft Advertising and Snapchat, with X in the pipeline, plus email marketing and ads on Shop. SEO optimization was added in the past few weeks."
               },
               {
                 "t": "p",
-                "x": "Version 0.0.6 still cannot create or edit campaigns, ad groups or ads; change budgets, bids, bidding strategies or status; add keywords; or attach a new asset to a campaign. For strictly read-only deployments, the README says to set labels: false and assets: false in tools_config.yaml."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Google Ads MCP\n書き込み対応、予算は不可",
-          "body": "0.0.6版は書き込みツール四つを有効化し、AIエージェントは予算以外を編集できる。",
-          "mini_headline": "Google Ads MCPに書き込みツール",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ads-mcp-server-4-write-tools-read-only-vitrine-grabber-arm-locked-cash-register.jpg",
-                "cap": "Google Ads MCPサーバーに既定で有効な書き込みツール4つが加わったが、ガイドは今もread-onlyと説明している"
-              },
-              {
-                "t": "p",
-                "x": "Googleは2026年11月2日、オープンソースのGoogle Ads MCPサーバーのバージョン0.0.6を公開し、プロジェクトの公開履歴で初めてGoogle Adsアカウントを変更できるツールを追加した。四つの書き込みツール(create_asset、upload_video_asset、manage_labels、manage_label_associations)はアセットの作成、YouTubeへの動画アップロード、ラベル管理を行い、いずれも二段階のドライランとチェックサムを経て実行される。これらは既定で有効になっている。"
-              },
-              {
-                "t": "p",
-                "x": "リリースに告知はなく、10月30日に最終更新されたGoogleの開発者向け統合ガイドは、今もこのサーバーを厳密なread-onlyと説明している。チェックサムはパラメータが変わっていないことを証明するが、誰かが変更を承認したことまでは証明しない。リリースを検証したスイスのコンサルタントThomas Wismerは「その間に人間が承認したかどうかを、サーバーは確認できない」と書いた。"
-              },
-              {
-                "t": "p",
-                "x": "バージョン0.0.6でも、キャンペーン、広告グループ、広告の作成や編集、予算・入札単価・入札戦略・ステータスの変更、キーワードの追加、キャンペーンへの新しいアセットの紐付けはできない。厳密にread-onlyで運用する場合、READMEはtools_config.yamlでlabels: falseとassets: falseを設定するよう案内している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Google Ads MCP\n新增写入工具，预算除外",
-          "body": "0.0.6版启用四个资产与标签写入工具，AI智能体可改实时账户但不能改预算。",
-          "mini_headline": "Google Ads MCP新增写入工具",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ads-mcp-server-4-write-tools-read-only-vitrine-grabber-arm-locked-cash-register.jpg",
-                "cap": "Google Ads MCP服务器新增4个默认开启的写入工具，但其指南仍称它为read-only"
-              },
-              {
-                "t": "p",
-                "x": "Google于2026年11月2日发布开源Google Ads MCP服务器0.0.6版，首次在该项目的公开历史中加入能够修改Google Ads账户的工具。四个写入工具——create_asset、upload_video_asset、manage_labels和manage_label_associations——可创建资产、向YouTube上传视频并管理标签，每个工具都须先通过两步试运行和校验和。这些工具默认开启。"
-              },
-              {
-                "t": "p",
-                "x": "此次发布没有任何公告，而Google最后更新于10月30日的开发者集成指南仍将该服务器描述为严格的read-only。校验和只能证明参数未被改动，无法证明有人批准了这次修改。测试过该版本的瑞士顾问Thomas Wismer写道：“中间是否有人批准，服务器无从核实。”"
-              },
-              {
-                "t": "p",
-                "x": "0.0.6版仍无法创建或编辑广告系列、广告组或广告，无法更改预算、出价、出价策略或状态，无法添加关键词，也无法把新资产关联到广告系列。若要严格read-only部署，README建议在tools_config.yaml中设置labels: false和assets: false。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Google Ads MCP suma escritura\npero no toca presupuestos",
-          "body": "La versión 0.0.6 activa cuatro herramientas de escritura y deja que agentes AI editen cuentas, no presupuestos.",
-          "mini_headline": "Google Ads MCP suma herramientas de escritura",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ads-mcp-server-4-write-tools-read-only-vitrine-grabber-arm-locked-cash-register.jpg",
-                "cap": "El servidor Google Ads MCP suma 4 herramientas de escritura activadas por defecto, aunque su guía aún lo describe como read-only"
-              },
-              {
-                "t": "p",
-                "x": "Google publicó el 2 de noviembre de 2026 la versión 0.0.6 de su servidor de código abierto Google Ads MCP, que añade las primeras herramientas de la historia pública del proyecto capaces de modificar una cuenta de Google Ads. Las cuatro herramientas de escritura —create_asset, upload_video_asset, manage_labels y manage_label_associations— crean recursos, suben videos a YouTube y gestionan etiquetas, y cada una exige una simulación en dos pasos y una suma de verificación. Vienen activadas por defecto."
-              },
-              {
-                "t": "p",
-                "x": "El lanzamiento no tuvo anuncio, y la guía de integración para desarrolladores de Google, actualizada por última vez el 30 de octubre, sigue describiendo el servidor como estrictamente read-only. La suma de verificación prueba que los parámetros no cambiaron, pero no que alguien aprobara el cambio. «Si un humano lo aprobó entre medias, el servidor no puede comprobarlo», escribió el consultor suizo Thomas Wismer, que probó la versión."
-              },
-              {
-                "t": "p",
-                "x": "La versión 0.0.6 todavía no puede crear ni editar campañas, grupos de anuncios ni anuncios; cambiar presupuestos, pujas, estrategias de puja ni estados; añadir palabras clave; ni vincular un recurso nuevo a una campaña. Para despliegues estrictamente read-only, el README indica configurar labels: false y assets: false en tools_config.yaml."
+                "x": "Pradhan called it a “risk-free ad product”: other platforms charge per impression and/or for clicks, but with Autopilot “Shopify takes that media risk” and the merchant only pays per sale. Campaigns can be capped or a channel avoided, and “preserving that merchant trust and then making them feel in control was a big part of the ethos of developing this product.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google Ads MCP\n쓰기 열고 예산은 잠갔다",
-          "body": "0.0.6 버전에 에셋·라벨 쓰기 도구 넷이 붙었지만 예산은 AI도 못 건드린다.",
-          "mini_headline": "Google Ads MCP에 쓰기 도구 추가",
+          "headline": "Shopify, 광고 기술\nAutopilot로 확장",
+          "body": "Shopify가 판매 건당 과금 AI-driven 광고 Autopilot을 넓힌다.",
+          "mini_headline": "Shopify, Autopilot 광고 확대",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ads-mcp-server-4-write-tools-read-only-vitrine-grabber-arm-locked-cash-register.jpg",
-                "cap": "Google Ads MCP 서버에 기본으로 켜진 쓰기 도구 4개가 생겼지만 안내서에는 여전히 읽기 전용(read-only)이라고 적혀 있다"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/04/online-shopping_package-delivery_comic-e1678292494241.jpeg"
               },
               {
                 "t": "p",
-                "x": "Google은 2026년 11월 2일 오픈소스 Google Ads MCP 서버 0.0.6 버전을 공개했다. 프로젝트 공개 이력상 처음으로 Google Ads 계정을 바꿀 수 있는 도구가 들어갔다. 쓰기 도구는 create_asset, upload_video_asset, manage_labels, manage_label_associations 네 개로, 에셋을 만들고 YouTube에 동영상을 올리고 라벨을 관리한다. 각 도구는 두 단계의 드라이런과 체크섬을 거쳐야 실행된다. 모두 기본으로 켜져 있다."
+                "x": "Shopify는 Amazon과 Walmart 다음으로 퍼스트파티 데이터를 많이 쥔 회사다. 그런데도 주요 리테일 미디어 사업자 가운데 광고 수익에 이만큼 조심스럽게 접근한 곳은 없다. Shopify의 머천트 마케팅 제품 담당 VP Samir Pradhan은 AdExchanger에 데이터 제휴, 타 플랫폼용 어드레서블 오디언스 세그먼트 다음 차례가 Campaign Autopilot이라고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "출시에 맞춘 발표는 따로 없었다. 10월 30일에 마지막으로 갱신된 Google 개발자 연동 안내서는 이 서버를 여전히 엄격한 읽기 전용(read-only)으로 설명한다. 체크섬은 매개변수가 바뀌지 않았음을 증명할 뿐, 누군가 변경을 승인했다는 것까지 증명하지는 못한다. 이번 버전을 시험한 스위스 컨설턴트 Thomas Wismer는 “그 사이에 사람이 승인했는지는 서버가 확인할 수 없다”고 적었다."
+                "x": "AI-driven 방식으로 에이전트가 최적화하는 제품이다. 판매자가 판매 한 건에 낼 가격을 정한다. 신규 고객에게 인센티브를 더 주거나 지역·시간대별로 타기팅하는 제어 기능도 있다. 제휴 플랫폼은 Meta, Microsoft Advertising, Snapchat이고 X도 붙을 예정이다. 이메일 마케팅과 Shop 내 광고까지 아우르며, 최근 몇 주 사이에는 SEO 최적화가 더해졌다."
               },
               {
                 "t": "p",
-                "x": "0.0.6 버전도 캠페인, 광고 그룹, 광고는 만들거나 고칠 수 없고 예산, 입찰가, 입찰 전략, 상태도 바꾸지 못한다. 키워드 추가나 새 에셋의 캠페인 연결도 안 된다. README는 엄격한 읽기 전용(read-only)으로 운영하려면 tools_config.yaml에서 labels: false와 assets: false로 설정하라고 안내한다."
+                "x": "Pradhan은 이를 “위험 없는 광고 상품”이라고 불렀다. 다른 플랫폼은 노출 및/또는 클릭마다 돈을 받는다. Autopilot에서는 “Shopify가 그 미디어 위험을 떠안고” 판매자는 팔린 건에만 값을 치른다. 캠페인 상한을 걸거나 특정 채널을 빼는 것도 가능하다. 그는 “판매자의 신뢰를 지키고 통제권을 쥐고 있다고 느끼게 하는 것이 이 상품 개발 철학의 큰 부분이었다”고 설명했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Shopify、広告技術へ\nAutopilotで踏み込む",
+          "body": "Shopifyは販売ごとに課金するAI-drivenの広告Autopilotを広げる。",
+          "mini_headline": "ShopifyがAutopilot広告を拡大",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/04/online-shopping_package-delivery_comic-e1678292494241.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "AmazonとWalmartを除けば最も多くのファーストパーティデータを持つShopifyほど、広告収益に慎重に取り組んできた大手リテールメディア事業者はいない。他プラットフォーム向けのデータ提携やアドレサブルなオーディエンスセグメントに続く次の一手がCampaign Autopilotだと、Shopifyでマーチャントマーケティングの製品担当VPを務めるSamir PradhanがAdExchangerに語った。"
+              },
+              {
+                "t": "p",
+                "x": "AI-drivenのエージェント型最適化製品だ。加盟店は販売ごとに支払ってよい価格を設定し、新規顧客へのインセンティブを高めたり、地域や時間帯で絞り込んだりといった調整ができる。提携プラットフォームはMeta、Microsoft Advertising、Snapchatで、Xも準備中のほか、メールマーケティングとShop上の広告も含む。ここ数週間でSEO最適化も加わった。"
+              },
+              {
+                "t": "p",
+                "x": "Pradhanはこれを「リスクのない広告製品」と呼ぶ。他のプラットフォームはインプレッションやクリックに課金するが、Autopilotでは「Shopifyがそのメディアリスクを負い」、加盟店は販売ごとにしか支払わない。キャンペーンに上限を設けたり、特定のチャネルを避けたりもできる。「加盟店の信頼を守り、自分で管理できていると感じてもらうことが、この製品を開発する理念の大きな部分だった」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Shopify深入广告技术\n以Autopilot加码",
+          "body": "Shopify扩大AI-driven代理式广告Autopilot，商家仅按成交付费。",
+          "mini_headline": "Shopify扩大Autopilot广告",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/04/online-shopping_package-delivery_comic-e1678292494241.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "在Amazon和Walmart之外，Shopify掌握着最多的此类第一方数据，但没有哪家主要零售媒体玩家像它这样对广告收入如此谨慎。Shopify商家营销产品VP Samir Pradhan告诉AdExchanger，在数据合作和为其他平台提供可寻址受众细分之后，下一步就是Campaign Autopilot。"
+              },
+              {
+                "t": "p",
+                "x": "这是一款AI-driven的代理式优化产品：商家设定愿意为每笔销售支付的价格，并可使用多种控制选项，例如为新客户设置更高激励，或按地区、时段定向。合作平台包括Meta、Microsoft Advertising和Snapchat，X也在筹备中，另有电子邮件营销和Shop上的广告。过去几周还加入了SEO优化。"
+              },
+              {
+                "t": "p",
+                "x": "Pradhan称其为“零风险广告产品”：其他平台按展示和/或点击收费，而在Autopilot中，“Shopify承担了这部分媒体风险”，商家只按销售付费。广告活动可以设上限，也可以避开某个渠道，“维护商家的信任，并让他们感到一切尽在掌控，是开发这款产品理念的重要部分。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Shopify avanza en tecnología\npublicitaria con Autopilot",
+          "body": "Shopify amplía Campaign Autopilot, un producto AI-driven de anuncios agénticos donde el comercio paga solo por venta.",
+          "mini_headline": "Shopify amplía los anuncios de Autopilot",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/04/online-shopping_package-delivery_comic-e1678292494241.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Ningún gran actor de retail media ha abordado los ingresos publicitarios con tanta cautela como Shopify, que tiene la mayor oferta de este tipo de datos propios fuera de Amazon y Walmart. Tras las alianzas de datos y los segmentos de audiencia direccionables para otras plataformas, su siguiente paso es Campaign Autopilot, dijo a AdExchanger Samir Pradhan, VP de producto para marketing de comerciantes de Shopify."
+              },
+              {
+                "t": "p",
+                "x": "Es un producto de optimización agéntico y AI-driven: los comerciantes fijan el precio que están dispuestos a pagar por venta, con controles como un incentivo mayor para clientes nuevos o la segmentación por región u hora del día. Las plataformas asociadas son Meta, Microsoft Advertising y Snapchat, con X en preparación, además de email marketing y anuncios en Shop. En las últimas semanas se añadió la optimización SEO."
+              },
+              {
+                "t": "p",
+                "x": "Pradhan lo llamó un “producto publicitario sin riesgo”: otras plataformas cobran por impresión y/o por clics, pero con Autopilot “Shopify asume ese riesgo de medios” y el comerciante solo paga por venta. Las campañas pueden tener un tope o evitar un canal, y “preservar la confianza del comerciante y hacer que se sienta en control fue una parte importante de la filosofía con la que desarrollamos este producto”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ja": {
-          "headline": "Google Ads MCP\n書き込み対応、予算は不可",
-          "body": "0.0.6版は書き込みツール四つを有効化し、AIエージェントは予算以外を編集できる。",
-          "mini_headline": "Google Ads MCPに書き込みツール",
+        "ko": {
+          "headline": "Shopify, 광고 기술\nAutopilot로 확장",
+          "body": "Shopify가 판매당 과금 AI-driven 광고 Autopilot을 넓힌다.",
+          "mini_headline": "Shopify, Autopilot 광고 확대",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ads-mcp-server-4-write-tools-read-only-vitrine-grabber-arm-locked-cash-register.jpg",
-                "cap": "Google Ads MCPサーバーに既定で有効な書き込みツール4つが加わったが、ガイドは今もread-onlyと説明している"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/04/online-shopping_package-delivery_comic-e1678292494241.jpeg"
               },
               {
                 "t": "p",
-                "x": "Googleは2026年11月2日、オープンソースのGoogle Ads MCPサーバーのバージョン0.0.6を公開し、プロジェクトの公開履歴で初めてGoogle Adsアカウントを変更できるツールを追加した。四つの書き込みツール(create_asset、upload_video_asset、manage_labels、manage_label_associations)はアセットの作成、YouTubeへの動画アップロード、ラベル管理を行い、いずれも二段階のドライランとチェックサムを経て実行される。これらは既定で有効になっている。"
+                "x": "Amazon과 Walmart를 제외하면 이런 퍼스트파티 데이터를 가장 많이 보유한 Shopify만큼 광고 수익에 신중하게 접근한 주요 리테일 미디어 사업자는 없다. Shopify의 머천트 마케팅 제품 담당 VP Samir Pradhan은 AdExchanger에 데이터 제휴와 타 플랫폼용 어드레서블 오디언스 세그먼트에 이은 다음 단계가 Campaign Autopilot이라고 말했다."
               },
               {
                 "t": "p",
-                "x": "リリースに告知はなく、10月30日に最終更新されたGoogleの開発者向け統合ガイドは、今もこのサーバーを厳密なread-onlyと説明している。チェックサムはパラメータが変わっていないことを証明するが、誰かが変更を承認したことまでは証明しない。リリースを検証したスイスのコンサルタントThomas Wismerは「その間に人間が承認したかどうかを、サーバーは確認できない」と書いた。"
+                "x": "AI-driven 방식의 에이전틱 최적화 제품이다. 판매자는 판매 건당 지불할 의향이 있는 가격을 정하고, 신규 고객에게 더 높은 인센티브를 주거나 지역·시간대별로 타기팅하는 등의 제어 기능을 쓸 수 있다. 제휴 플랫폼은 Meta, Microsoft Advertising, Snapchat이며 X도 준비 중이고, 이메일 마케팅과 Shop 내 광고도 포함된다. 최근 몇 주 사이 SEO 최적화도 추가됐다."
               },
               {
                 "t": "p",
-                "x": "バージョン0.0.6でも、キャンペーン、広告グループ、広告の作成や編集、予算・入札単価・入札戦略・ステータスの変更、キーワードの追加、キャンペーンへの新しいアセットの紐付けはできない。厳密にread-onlyで運用する場合、READMEはtools_config.yamlでlabels: falseとassets: falseを設定するよう案内している。"
+                "x": "Pradhan은 이를 “위험 없는 광고 상품”이라고 불렀다. 다른 플랫폼은 노출 및/또는 클릭에 과금하지만, Autopilot에서는 “Shopify가 그 미디어 위험을 떠안고” 판매자는 판매 건당만 지불한다. 캠페인에 상한을 두거나 특정 채널을 피할 수도 있다. 그는 “판매자의 신뢰를 지키고 통제권을 쥐고 있다고 느끼게 하는 것이 이 상품 개발 철학의 큰 부분이었다”고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Shopify、広告技術へ\nAutopilotで踏み込む",
+          "body": "Shopifyは販売ごとに課金するAI-drivenの広告Autopilotを広げる。",
+          "mini_headline": "ShopifyがAutopilot広告を拡大",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/04/online-shopping_package-delivery_comic-e1678292494241.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "AmazonとWalmartを除けば最も多くのファーストパーティデータを持つShopifyほど、広告収益に慎重に取り組んできた大手リテールメディア事業者はいない。他プラットフォーム向けのデータ提携やアドレサブルなオーディエンスセグメントに続く次の一手がCampaign Autopilotだと、Shopifyでマーチャントマーケティングの製品担当VPを務めるSamir PradhanがAdExchangerに語った。"
+              },
+              {
+                "t": "p",
+                "x": "AI-drivenのエージェント型最適化製品だ。加盟店は販売ごとに支払ってよい価格を設定し、新規顧客へのインセンティブを高めたり、地域や時間帯で絞り込んだりといった調整ができる。提携プラットフォームはMeta、Microsoft Advertising、Snapchatで、Xも準備中のほか、メールマーケティングとShop上の広告も含む。ここ数週間でSEO最適化も加わった。"
+              },
+              {
+                "t": "p",
+                "x": "Pradhanはこれを「リスクのない広告製品」と呼ぶ。他のプラットフォームはインプレッションやクリックに課金するが、Autopilotでは「Shopifyがそのメディアリスクを負い」、加盟店は販売ごとにしか支払わない。キャンペーンに上限を設けたり、特定のチャネルを避けたりもできる。「加盟店の信頼を守り、自分で管理できていると感じてもらうことが、この製品を開発する理念の大きな部分だった」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Ads MCP\n新增写入工具，预算除外",
-          "body": "0.0.6版启用四个资产与标签写入工具，AI智能体可改实时账户但不能改预算。",
-          "mini_headline": "Google Ads MCP新增写入工具",
+          "headline": "Shopify深入广告技术\n以Autopilot加码",
+          "body": "Shopify扩大AI-driven代理式广告Autopilot，商家仅按成交付费。",
+          "mini_headline": "Shopify扩大Autopilot广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ads-mcp-server-4-write-tools-read-only-vitrine-grabber-arm-locked-cash-register.jpg",
-                "cap": "Google Ads MCP服务器新增4个默认开启的写入工具，但其指南仍称它为read-only"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/04/online-shopping_package-delivery_comic-e1678292494241.jpeg"
               },
               {
                 "t": "p",
-                "x": "Google于2026年11月2日发布开源Google Ads MCP服务器0.0.6版，首次在该项目的公开历史中加入能够修改Google Ads账户的工具。四个写入工具——create_asset、upload_video_asset、manage_labels和manage_label_associations——可创建资产、向YouTube上传视频并管理标签，每个工具都须先通过两步试运行和校验和。这些工具默认开启。"
+                "x": "在Amazon和Walmart之外，Shopify掌握着最多的此类第一方数据，但没有哪家主要零售媒体玩家像它这样对广告收入如此谨慎。Shopify商家营销产品VP Samir Pradhan告诉AdExchanger，在数据合作和为其他平台提供可寻址受众细分之后，下一步就是Campaign Autopilot。"
               },
               {
                 "t": "p",
-                "x": "此次发布没有任何公告，而Google最后更新于10月30日的开发者集成指南仍将该服务器描述为严格的read-only。校验和只能证明参数未被改动，无法证明有人批准了这次修改。测试过该版本的瑞士顾问Thomas Wismer写道：“中间是否有人批准，服务器无从核实。”"
+                "x": "这是一款AI-driven的代理式优化产品：商家设定愿意为每笔销售支付的价格，并可使用多种控制选项，例如为新客户设置更高激励，或按地区、时段定向。合作平台包括Meta、Microsoft Advertising和Snapchat，X也在筹备中，另有电子邮件营销和Shop上的广告。过去几周还加入了SEO优化。"
               },
               {
                 "t": "p",
-                "x": "0.0.6版仍无法创建或编辑广告系列、广告组或广告，无法更改预算、出价、出价策略或状态，无法添加关键词，也无法把新资产关联到广告系列。若要严格read-only部署，README建议在tools_config.yaml中设置labels: false和assets: false。"
+                "x": "Pradhan称其为“零风险广告产品”：其他平台按展示和/或点击收费，而在Autopilot中，“Shopify承担了这部分媒体风险”，商家只按销售付费。广告活动可以设上限，也可以避开某个渠道，“维护商家的信任，并让他们感到一切尽在掌控，是开发这款产品理念的重要部分。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Ads MCP suma escritura\npero no toca presupuestos",
-          "body": "La versión 0.0.6 activa cuatro herramientas de escritura y deja que agentes AI editen cuentas, no presupuestos.",
-          "mini_headline": "Google Ads MCP suma herramientas de escritura",
+          "headline": "Shopify avanza en tecnología\npublicitaria con Autopilot",
+          "body": "Shopify amplía Campaign Autopilot, un producto AI-driven de anuncios agénticos donde el comercio paga solo por venta.",
+          "mini_headline": "Shopify amplía los anuncios de Autopilot",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ads-mcp-server-4-write-tools-read-only-vitrine-grabber-arm-locked-cash-register.jpg",
-                "cap": "El servidor Google Ads MCP suma 4 herramientas de escritura activadas por defecto, aunque su guía aún lo describe como read-only"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/04/online-shopping_package-delivery_comic-e1678292494241.jpeg"
               },
               {
                 "t": "p",
-                "x": "Google publicó el 2 de noviembre de 2026 la versión 0.0.6 de su servidor de código abierto Google Ads MCP, que añade las primeras herramientas de la historia pública del proyecto capaces de modificar una cuenta de Google Ads. Las cuatro herramientas de escritura —create_asset, upload_video_asset, manage_labels y manage_label_associations— crean recursos, suben videos a YouTube y gestionan etiquetas, y cada una exige una simulación en dos pasos y una suma de verificación. Vienen activadas por defecto."
+                "x": "Ningún gran actor de retail media ha abordado los ingresos publicitarios con tanta cautela como Shopify, que tiene la mayor oferta de este tipo de datos propios fuera de Amazon y Walmart. Tras las alianzas de datos y los segmentos de audiencia direccionables para otras plataformas, su siguiente paso es Campaign Autopilot, dijo a AdExchanger Samir Pradhan, VP de producto para marketing de comerciantes de Shopify."
               },
               {
                 "t": "p",
-                "x": "El lanzamiento no tuvo anuncio, y la guía de integración para desarrolladores de Google, actualizada por última vez el 30 de octubre, sigue describiendo el servidor como estrictamente read-only. La suma de verificación prueba que los parámetros no cambiaron, pero no que alguien aprobara el cambio. «Si un humano lo aprobó entre medias, el servidor no puede comprobarlo», escribió el consultor suizo Thomas Wismer, que probó la versión."
+                "x": "Es un producto de optimización agéntico y AI-driven: los comerciantes fijan el precio que están dispuestos a pagar por venta, con controles como un incentivo mayor para clientes nuevos o la segmentación por región u hora del día. Las plataformas asociadas son Meta, Microsoft Advertising y Snapchat, con X en preparación, además de email marketing y anuncios en Shop. En las últimas semanas se añadió la optimización SEO."
               },
               {
                 "t": "p",
-                "x": "La versión 0.0.6 todavía no puede crear ni editar campañas, grupos de anuncios ni anuncios; cambiar presupuestos, pujas, estrategias de puja ni estados; añadir palabras clave; ni vincular un recurso nuevo a una campaña. Para despliegues estrictamente read-only, el README indica configurar labels: false y assets: false en tools_config.yaml."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Google Ads MCP\n쓰기 열고 예산은 잠갔다",
-          "body": "0.0.6 버전에 에셋·라벨 쓰기 도구 넷이 생겼지만 AI도 예산은 못 건드린다.",
-          "mini_headline": "Google Ads MCP에 쓰기 도구 추가",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ads-mcp-server-4-write-tools-read-only-vitrine-grabber-arm-locked-cash-register.jpg",
-                "cap": "Google Ads MCP 서버에 기본으로 켜진 쓰기 도구 4개가 생겼지만, 안내서는 여전히 읽기 전용(read-only)이라고 적고 있다"
-              },
-              {
-                "t": "p",
-                "x": "Google은 2026년 11월 2일 오픈소스 Google Ads MCP 서버 0.0.6 버전을 공개하며, 프로젝트 공개 이력에서 처음으로 Google Ads 계정을 바꿀 수 있는 도구를 넣었다. 쓰기 도구 네 개, 곧 create_asset, upload_video_asset, manage_labels, manage_label_associations는 에셋을 만들고 YouTube에 동영상을 올리며 라벨을 관리한다. 각 도구는 두 단계의 드라이런과 체크섬을 거쳐야 실행된다. 이 도구들은 기본으로 켜져 있다."
-              },
-              {
-                "t": "p",
-                "x": "출시에 맞춘 발표는 없었고, 10월 30일에 마지막으로 갱신된 Google 개발자 연동 안내서는 여전히 이 서버를 엄격한 읽기 전용(read-only)으로 설명한다. 체크섬은 매개변수가 바뀌지 않았다는 것을 증명할 뿐, 누군가 변경을 승인했다는 것까지 증명하지는 않는다. 이번 버전을 시험한 스위스 컨설턴트 Thomas Wismer는 “그 사이에 사람이 승인했는지는 서버가 확인할 수 없다”고 적었다."
-              },
-              {
-                "t": "p",
-                "x": "0.0.6 버전은 여전히 캠페인, 광고 그룹, 광고를 만들거나 고칠 수 없고, 예산, 입찰가, 입찰 전략, 상태도 바꿀 수 없다. 키워드를 추가하거나 새 에셋을 캠페인에 연결하는 것도 불가능하다. 엄격한 읽기 전용(read-only)으로 운영하려면 tools_config.yaml에서 labels: false와 assets: false로 설정하라고 README는 안내한다."
+                "x": "Pradhan lo llamó un “producto publicitario sin riesgo”: otras plataformas cobran por impresión y/o por clics, pero con Autopilot “Shopify asume ese riesgo de medios” y el comerciante solo paga por venta. Las campañas pueden tener un tope o evitar un canal, y “preservar la confianza del comerciante y hacer que se sienta en control fue una parte importante de la filosofía con la que desarrollamos este producto”."
               }
             ]
           }
@@ -597,189 +597,213 @@
       }
     },
     {
-      "id": "meta-ai-ads-unapproved-discounts",
+      "id": "tiktok-symphony-seedance-ads",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Meta의 AI 광고가\n브랜드가 꺼둔 할인 노출",
-      "body": "Meta의 AI 광고 도구가 광고주가 꺼둔 할인까지 광고에 내건 것으로 드러났다.",
-      "mini_headline": "Meta AI 광고, 승인 안 한 할인 노출",
+      "headline": "TikTok 광고 도구에\n새 Seedance 모델",
+      "body": "TikTok Symphony가 최신 Seedance로 AI 영상 광고 폭을 넓힌다.",
+      "mini_headline": "TikTok Symphony에 Seedance 추가",
       "tool": "Marketing",
       "source": "Social Media Today",
-      "url": "https://www.socialmediatoday.com/news/metas-ai-ads-included-unapproved-discounts/874067/",
+      "url": "https://www.socialmediatoday.com/news/tiktok-updates-its-ai-video-ad-tools/874209/",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "인공지능 기반 광고 도구가 프로모션을 꺼둔 상태에서도 고객에게 할인 혜택을 내보냈다는 보도가 나왔다."
+            "x": "TikTok이 AI-powered 광고 제작 도구 Symphony에 기능을 보탰다. 최신 모델을 쓴 고급 영상 생성과 업데이트된 Symphony API, 한층 넓어진 AI 사용 토큰 접근이 들어갔다."
+          },
+          {
+            "t": "img",
+            "src": "https://imgproxy.divecdn.com/oOsZJDjBdWVf2Uwaq7ineonSHPdLI3t_5xz7ReXo-DM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfc3ltcGhvbnRfdXBkYXRlMS5wbmc=.webp"
           },
           {
             "t": "p",
-            "x": "인공지능 도구가 할 수 있는 일이 늘수록 특정 작업에서는 그 역량을 묶어둘 새 기준이 필요하다. 자동화 오류는 디지털 광고 구매로도 번질 수 있다. PPC Land는 지난주 Meta의 AI-powered 광고 도구가 매장 웹사이트에서 할인 정보를 가져와 해당 업체의 Facebook·Instagram 광고에 띄웠다고 보도했다. “매장이 복사 대상 광고에서 프로모션을 꺼둔 경우에도” 마찬가지였다."
+            "x": "Symphony Agent는 이제 최신 Dreamina Seedance 모델로 영상 광고를 만든다. 광고주가 올릴 수 있는 멀티모달 레퍼런스(이미지, 영상, 오디오)는 9개에서 최대 50개로 늘었다. 업데이트된 모델이 프롬프트 하나로 만드는 영상도 최대 15초에서 최대 30초로 길어졌다. 이미지는 더 선명하고 사실적이다. 조명과 캐릭터 일관성도 좋아졌다."
           },
           {
             "t": "p",
-            "x": "이 문제를 발견한 사람은 디지털 마케팅 자문가 Bram Van der Hallen이다. 그는 “이제 Meta가 웹사이트의 할인 정보를 자동으로 감지해 Meta 광고에 쓸 수 있다. 원래 광고에서 이 옵션을 꺼두었더라도 마찬가지다”라고 말했다. Commerce Manager 설정을 바꿔 Meta가 감지한 할인 정보를 다른 캠페인에 쓰지 못하게 하면 막을 수 있다는 게 그의 설명이다."
+            "x": "업데이트된 Symphony API를 쓰면 광고주가 자체 크리에이티브 관리 도구 안에서 바로 Symphony의 도구로 콘텐츠를 만든다."
+          },
+          {
+            "t": "img",
+            "src": "https://imgproxy.divecdn.com/HHuavX-Pondr_GlrDkQMDMVRfUO0si04LOnexvbAQV0/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfc3ltcGhvbnRfdXBkYXRlMi5wbmc=.webp"
           },
           {
             "t": "p",
-            "x": "PPC Land는 “한 캠페인이나 한 오디언스를 위한 할인이 다른 곳에 나타날 수 있으므로, 둘 이상의 할인을 동시에 운영하며 Meta에 광고하는 모든 업체에 중요한 문제”라고 짚었다."
-          },
-          {
-            "t": "p",
-            "x": "Meta는 광고 랭킹 시스템을 개선한 덕에 Q2 2026 Facebook의 광고 클릭이 8% 넘게, 전환이 15.7% 늘었다고 밝혔다. 다만 AI가 움직이는 시스템이 늘면 오류도 따라오기 마련이다. 광고주도 이런 잠재적 문제를 알아둘 필요가 있다."
+            "x": "TikTok은 “11월 9일부터 북미 이외 지역의 광고주는 BytePlus 토큰을 구매해 Symphony에서 Dreamina Seedance AI 모델을 이용할 수 있다”고 밝혔다. BytePlus는 ByteDance의 기업용 기술 부문이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Meta's AI ads showed\ndiscounts brands turned off",
-          "body": "Reports found Meta's AI ad tools showed discount offers even when advertisers had promotions turned off.",
-          "mini_headline": "Meta AI ads add unapproved deals",
+          "headline": "TikTok Symphony gets\na new Seedance video model",
+          "body": "TikTok's Symphony platform now taps the latest Dreamina Seedance model, widening AI video ad options for brands.",
+          "mini_headline": "TikTok Symphony adds Seedance",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Recent reports found that the artificial intelligence-powered ad tools posted discount offers to customers even with promotions turned off."
+                "x": "TikTok has added new elements to its AI-powered Symphony ad creation tools, including advanced video generation using the latest models, an updated Symphony API and broader access to AI usage tokens."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/oOsZJDjBdWVf2Uwaq7ineonSHPdLI3t_5xz7ReXo-DM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfc3ltcGhvbnRfdXBkYXRlMS5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "As artificial intelligence tools become more empowered, new parameters need to be established to limit their capacity when it comes to undertaking certain tasks. Automated errors can also extend to buying digital ads. PPC Land reported last week that Meta’s AI-powered ad tools took discounts from a store’s website and displayed them on the business’s Facebook and Instagram ads, “even when the shop had turned promotions off on the ad it copied.”"
+                "x": "Symphony Agent can now generate video ads with the latest Dreamina Seedance models. Advertisers can upload up to 50 multimodal references (images, videos, and audio), up from 9, and the updated models can generate up to 30 seconds of video per prompt, up from a 15-second maximum, with sharper, more realistic imagery and better lighting and character consistency."
               },
               {
                 "t": "p",
-                "x": "The discovery was made by digital marketing advisor Bram Van der Hallen: “Meta may now automatically detect offers from your website and use them in your Meta ads. Even when you have turned off this option for your original ad.” He said the issue can be controlled by updating Commerce Manager settings to stop Meta from using detected offers in other campaigns."
+                "x": "An updated Symphony API lets advertisers generate content with Symphony's tools inside their own creative management tools."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/HHuavX-Pondr_GlrDkQMDMVRfUO0si04LOnexvbAQV0/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfc3ltcGhvbnRfdXBkYXRlMi5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "PPC Land noted: “This matters for any business advertising on Meta with more than one offer live, because a discount meant for one campaign or one audience could show up somewhere else.”"
-              },
-              {
-                "t": "p",
-                "x": "Meta said improvements to its ads ranking system drove a more than 8% increase in ad clicks and a 15.7% uplift in conversions on Facebook in Q2 2026. However, as more systems are guided by AI, there will be errors, and advertisers need to be aware of these potential issues."
+                "x": "“Starting November 9, advertisers outside North America can purchase BytePlus tokens to access Dreamina Seedance AI models through Symphony,” TikTok said. BytePlus is the enterprise technology arm of ByteDance."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Meta의 AI 광고가\n브랜드가 꺼둔 할인 노출",
-          "body": "Meta의 AI 광고 도구가 광고주가 꺼둔 할인까지 광고에 내건 것으로 드러났다.",
-          "mini_headline": "Meta AI 광고, 승인 안 한 할인 노출",
+          "headline": "TikTok 광고 도구에\n새 Seedance 모델",
+          "body": "TikTok Symphony가 최신 Seedance로 AI 영상 광고 폭을 넓힌다.",
+          "mini_headline": "TikTok Symphony에 Seedance 추가",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "인공지능 기반 광고 도구가 프로모션을 꺼둔 상태에서도 고객에게 할인 혜택을 내보냈다는 보도가 나왔다."
+                "x": "TikTok이 AI-powered 광고 제작 도구 Symphony에 기능을 보탰다. 최신 모델을 쓴 고급 영상 생성과 업데이트된 Symphony API, 한층 넓어진 AI 사용 토큰 접근이 들어갔다."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/oOsZJDjBdWVf2Uwaq7ineonSHPdLI3t_5xz7ReXo-DM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfc3ltcGhvbnRfdXBkYXRlMS5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "인공지능 도구가 할 수 있는 일이 늘수록 특정 작업에서는 그 역량을 묶어둘 새 기준이 필요하다. 자동화 오류는 디지털 광고 구매로도 번질 수 있다. PPC Land는 지난주 Meta의 AI-powered 광고 도구가 매장 웹사이트에서 할인 정보를 가져와 해당 업체의 Facebook·Instagram 광고에 띄웠다고 보도했다. “매장이 복사 대상 광고에서 프로모션을 꺼둔 경우에도” 마찬가지였다."
+                "x": "Symphony Agent는 이제 최신 Dreamina Seedance 모델로 영상 광고를 만든다. 광고주가 올릴 수 있는 멀티모달 레퍼런스(이미지, 영상, 오디오)는 9개에서 최대 50개로 늘었다. 업데이트된 모델이 프롬프트 하나로 만드는 영상도 최대 15초에서 최대 30초로 길어졌다. 이미지는 더 선명하고 사실적이다. 조명과 캐릭터 일관성도 좋아졌다."
               },
               {
                 "t": "p",
-                "x": "이 문제를 발견한 사람은 디지털 마케팅 자문가 Bram Van der Hallen이다. 그는 “이제 Meta가 웹사이트의 할인 정보를 자동으로 감지해 Meta 광고에 쓸 수 있다. 원래 광고에서 이 옵션을 꺼두었더라도 마찬가지다”라고 말했다. Commerce Manager 설정을 바꿔 Meta가 감지한 할인 정보를 다른 캠페인에 쓰지 못하게 하면 막을 수 있다는 게 그의 설명이다."
+                "x": "업데이트된 Symphony API를 쓰면 광고주가 자체 크리에이티브 관리 도구 안에서 바로 Symphony의 도구로 콘텐츠를 만든다."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/HHuavX-Pondr_GlrDkQMDMVRfUO0si04LOnexvbAQV0/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfc3ltcGhvbnRfdXBkYXRlMi5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "PPC Land는 “한 캠페인이나 한 오디언스를 위한 할인이 다른 곳에 나타날 수 있으므로, 둘 이상의 할인을 동시에 운영하며 Meta에 광고하는 모든 업체에 중요한 문제”라고 짚었다."
-              },
-              {
-                "t": "p",
-                "x": "Meta는 광고 랭킹 시스템을 개선한 덕에 Q2 2026 Facebook의 광고 클릭이 8% 넘게, 전환이 15.7% 늘었다고 밝혔다. 다만 AI가 움직이는 시스템이 늘면 오류도 따라오기 마련이다. 광고주도 이런 잠재적 문제를 알아둘 필요가 있다."
+                "x": "TikTok은 “11월 9일부터 북미 이외 지역의 광고주는 BytePlus 토큰을 구매해 Symphony에서 Dreamina Seedance AI 모델을 이용할 수 있다”고 밝혔다. BytePlus는 ByteDance의 기업용 기술 부문이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MetaのAI広告\nブランドが切った割引を表示",
-          "body": "MetaのAI広告ツールが、広告主がオフにした割引オファーまで表示していたと報じられた。",
-          "mini_headline": "MetaのAI広告、未承認の割引を追加",
+          "headline": "TikTokの広告ツールに\n新Seedanceモデル",
+          "body": "TikTokのSymphonyが最新のSeedanceを採用し、AI動画広告の幅が広がる。",
+          "mini_headline": "TikTok SymphonyにSeedance",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "最近の報道によると、人工知能を活用した広告ツールが、プロモーションをオフにしていても顧客に割引オファーを掲載していた。"
+                "x": "TikTokは、AI-poweredの広告制作ツールSymphonyに新機能を加えた。最新モデルによる高度な動画生成、更新されたSymphony API、AI利用トークンへのアクセス拡大などだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/oOsZJDjBdWVf2Uwaq7ineonSHPdLI3t_5xz7ReXo-DM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfc3ltcGhvbnRfdXBkYXRlMS5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "人工知能ツールの権限が大きくなるにつれ、特定の作業を担う際の能力を制限する新たな基準が必要になる。自動化によるミスはデジタル広告の購入にも及びうる。PPC Landは先週、MetaのAI-powered広告ツールが店舗のウェブサイトから割引を取り込み、その事業者のFacebookやInstagramの広告に表示したと報じた。「コピー元の広告で店舗がプロモーションをオフにしていた場合でも」そうだったという。"
+                "x": "Symphony Agentは最新のDreamina Seedanceモデルで動画広告を生成できるようになった。広告主がアップロードできるマルチモーダルな参照素材（画像、動画、音声）は9点から最大50点に増え、更新されたモデルはプロンプトごとに、従来の最大15秒から最大30秒の動画を生成できる。映像はより鮮明でリアルになり、照明とキャラクターの一貫性も向上した。"
               },
               {
                 "t": "p",
-                "x": "発見したのはデジタルマーケティングアドバイザーのBram Van der Hallenだ。「Metaは今、ウェブサイト上のオファーを自動で検出し、Meta広告に使う可能性がある。元の広告でこのオプションをオフにしていてもだ」と彼は述べた。Commerce Managerの設定を更新し、検出したオファーをMetaが他のキャンペーンで使わないようにすれば、この問題は抑えられるという。"
+                "x": "更新されたSymphony APIにより、広告主は自社のクリエイティブ管理ツール内でSymphonyのツールを使ってコンテンツを生成できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/HHuavX-Pondr_GlrDkQMDMVRfUO0si04LOnexvbAQV0/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfc3ltcGhvbnRfdXBkYXRlMi5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "PPC Landは「あるキャンペーンやあるオーディエンス向けの割引が別の場所に表示されうるため、複数のオファーを同時に展開してMetaに広告を出すすべての事業者にとって重要だ」と指摘した。"
-              },
-              {
-                "t": "p",
-                "x": "Metaは、広告ランキングシステムの改善により、Q2 2026にFacebookで広告クリックが8%超増え、コンバージョンが15.7%向上したと述べている。だが、AIに導かれるシステムが増えれば誤りも生じる。広告主はこうした潜在的な問題を認識しておく必要がある。"
+                "x": "TikTokは「11月9日から、北米以外の広告主はBytePlusトークンを購入し、Symphonyを通じてDreamina Seedance AIモデルを利用できる」と説明した。BytePlusはByteDanceの企業向けテクノロジー部門だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta的AI广告\n展示品牌已关闭的折扣",
-          "body": "报道发现，即使广告主关闭了促销，Meta的AI广告工具仍会展示折扣优惠。",
-          "mini_headline": "Meta AI广告擅自添加优惠",
+          "headline": "TikTok广告工具\n接入新Seedance模型",
+          "body": "TikTok的Symphony平台接入最新Seedance模型，扩大品牌AI视频广告选择。",
+          "mini_headline": "TikTok Symphony新增Seedance",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "近期报道发现，即使关闭了促销功能，人工智能驱动的广告工具仍向顾客发布了折扣优惠。"
+                "x": "TikTok为其AI-powered广告创作工具Symphony增加了新功能，包括基于最新模型的高级视频生成、更新后的Symphony API，以及更广泛的AI使用额度获取渠道。"
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/oOsZJDjBdWVf2Uwaq7ineonSHPdLI3t_5xz7ReXo-DM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfc3ltcGhvbnRfdXBkYXRlMS5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "随着人工智能工具获得更多权限，需要建立新的规则，限制它们在执行某些任务时的能力。自动化错误也可能波及数字广告投放。PPC Land上周报道，Meta的AI-powered广告工具从一家店铺的网站抓取折扣信息，并展示在该商家的Facebook和Instagram广告中，“即使店铺已在被复制的广告上关闭了促销”。"
+                "x": "Symphony Agent现在可以用最新的Dreamina Seedance模型生成视频广告。广告主可上传的多模态参考素材（图片、视频和音频）从9个增至最多50个；更新后的模型每条提示词可生成最长30秒的视频，此前上限为15秒，画面更清晰、更逼真，光影和角色一致性也更好。"
               },
               {
                 "t": "p",
-                "x": "这一问题由数字营销顾问Bram Van der Hallen发现：“Meta现在可能会自动识别你网站上的优惠，并用在你的Meta广告中。即使你在原始广告中关闭了这一选项也是如此。”他表示，可以通过更新Commerce Manager设置，阻止Meta在其他广告系列中使用识别到的优惠，从而控制这一问题。"
+                "x": "更新后的Symphony API让广告主可以在自己的创意管理工具中使用Symphony的工具生成内容。"
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/HHuavX-Pondr_GlrDkQMDMVRfUO0si04LOnexvbAQV0/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfc3ltcGhvbnRfdXBkYXRlMi5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "PPC Land指出：“这对所有同时上线多项优惠、在Meta投放广告的商家都很重要，因为面向某个广告系列或某类受众的折扣可能出现在别处。”"
-              },
-              {
-                "t": "p",
-                "x": "Meta称，广告排序系统的改进使Facebook在Q2 2026的广告点击量增长超过8%，转化率提升15.7%。然而，随着越来越多的系统由AI主导，错误难以避免，广告主需要留意这些潜在问题。"
+                "x": "TikTok表示：“自11月9日起，北美以外的广告主可购买BytePlus额度，通过Symphony使用Dreamina Seedance AI模型。”BytePlus是ByteDance旗下的企业技术部门。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Anuncios AI de Meta mostraron\ndescuentos que la marca apagó",
-          "body": "Informes revelan que las herramientas AI de Meta mostraban descuentos aunque el anunciante los había desactivado.",
-          "mini_headline": "Anuncios AI de Meta añaden ofertas no aprobadas",
+          "headline": "TikTok Symphony incorpora\nSeedance, nuevo modelo de video",
+          "body": "La plataforma Symphony de TikTok ya usa el último modelo Dreamina Seedance y amplía los anuncios de video con AI.",
+          "mini_headline": "TikTok Symphony suma Seedance",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Informes recientes revelaron que las herramientas publicitarias impulsadas por inteligencia artificial publicaron ofertas de descuento a los clientes incluso con las promociones desactivadas."
+                "x": "TikTok añadió nuevos elementos a Symphony, sus herramientas AI-powered de creación de anuncios, entre ellos generación avanzada de video con los modelos más recientes, una Symphony API actualizada y un acceso más amplio a tokens de uso de AI."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/oOsZJDjBdWVf2Uwaq7ineonSHPdLI3t_5xz7ReXo-DM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfc3ltcGhvbnRfdXBkYXRlMS5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "A medida que las herramientas de inteligencia artificial ganan atribuciones, hace falta establecer nuevos parámetros que limiten su capacidad al realizar ciertas tareas. Los errores automatizados también pueden alcanzar la compra de anuncios digitales. PPC Land informó la semana pasada que las herramientas publicitarias AI-powered de Meta tomaron descuentos del sitio web de una tienda y los mostraron en los anuncios de Facebook e Instagram del negocio, «incluso cuando la tienda había desactivado las promociones en el anuncio que copió»."
+                "x": "Symphony Agent ya puede generar anuncios en video con los últimos modelos Dreamina Seedance. Los anunciantes pueden subir hasta 50 referencias multimodales (imágenes, videos y audio), frente a 9 antes, y los modelos actualizados pueden generar hasta 30 segundos de video por prompt, frente a un máximo de 15 segundos, con imágenes más nítidas y realistas, y mejor iluminación y coherencia de personajes."
               },
               {
                 "t": "p",
-                "x": "El hallazgo fue del asesor de marketing digital Bram Van der Hallen: «Meta ahora puede detectar automáticamente ofertas de tu sitio web y usarlas en tus anuncios de Meta. Incluso cuando has desactivado esta opción en tu anuncio original». Según él, el problema puede controlarse actualizando la configuración de Commerce Manager para impedir que Meta use las ofertas detectadas en otras campañas."
+                "x": "Una Symphony API actualizada permite a los anunciantes generar contenido con las herramientas de Symphony dentro de sus propias herramientas de gestión creativa."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/HHuavX-Pondr_GlrDkQMDMVRfUO0si04LOnexvbAQV0/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfc3ltcGhvbnRfdXBkYXRlMi5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "PPC Land señaló: «Esto importa a cualquier negocio que anuncie en Meta con más de una oferta activa, porque un descuento pensado para una campaña o una audiencia podría aparecer en otro lugar»."
-              },
-              {
-                "t": "p",
-                "x": "Meta afirmó que las mejoras en su sistema de clasificación de anuncios impulsaron un aumento de más del 8% en los clics y una subida del 15.7% en las conversiones en Facebook en el Q2 2026. Sin embargo, a medida que más sistemas se guían por AI, habrá errores, y los anunciantes deben conocer estos posibles problemas."
+                "x": "“A partir del 9 de noviembre, los anunciantes fuera de Norteamérica pueden comprar tokens de BytePlus para acceder a los modelos Dreamina Seedance AI a través de Symphony”, dijo TikTok. BytePlus es la división de tecnología empresarial de ByteDance."
               }
             ]
           }
@@ -787,121 +811,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Meta의 AI 광고가\n브랜드가 꺼둔 할인 노출",
-          "body": "Meta의 AI 광고 도구가 광고주가 꺼둔 할인 혜택까지 노출한 사실이 드러났다.",
-          "mini_headline": "Meta AI 광고, 승인 안 한 할인 노출",
+          "headline": "TikTok 광고 도구에\n새 Seedance 모델",
+          "body": "TikTok Symphony가 최신 Seedance로 AI 영상 광고를 넓힌다.",
+          "mini_headline": "TikTok Symphony에 Seedance 추가",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "최근 보도에 따르면 인공지능 기반 광고 도구가 프로모션을 꺼둔 상태에서도 고객에게 할인 혜택을 게시했다."
+                "x": "TikTok이 AI-powered 광고 제작 도구 Symphony에 새 요소를 더했다. 최신 모델을 활용한 고급 영상 생성, 업데이트된 Symphony API, AI 사용 토큰 접근 확대가 포함된다."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/oOsZJDjBdWVf2Uwaq7ineonSHPdLI3t_5xz7ReXo-DM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfc3ltcGhvbnRfdXBkYXRlMS5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "인공지능 도구의 권한이 커질수록 특정 작업에서 그 역량을 제한할 새로운 기준이 필요하다. 자동화 오류는 디지털 광고 구매로도 번질 수 있다. PPC Land는 지난주 Meta의 AI-powered 광고 도구가 매장 웹사이트에서 할인 정보를 가져와 해당 업체의 Facebook·Instagram 광고에 표시했다고 보도했다. “매장이 복사 대상 광고에서 프로모션을 꺼둔 경우에도” 그랬다는 것이다."
+                "x": "Symphony Agent는 이제 최신 Dreamina Seedance 모델로 영상 광고를 만들 수 있다. 광고주는 멀티모달 레퍼런스(이미지, 영상, 오디오)를 기존 9개에서 늘어난 최대 50개까지 올릴 수 있고, 업데이트된 모델은 프롬프트당 영상을 기존 최대 15초에서 늘어난 최대 30초까지 생성한다. 이미지는 더 선명하고 사실적이며, 조명과 캐릭터 일관성도 나아졌다."
               },
               {
                 "t": "p",
-                "x": "이 문제를 발견한 사람은 디지털 마케팅 자문가 Bram Van der Hallen이다. 그는 “이제 Meta가 웹사이트의 할인 정보를 자동으로 감지해 Meta 광고에 쓸 수 있다. 원래 광고에서 이 옵션을 꺼두었더라도 마찬가지다”라고 말했다. 그는 Commerce Manager 설정을 바꿔 Meta가 감지한 할인 정보를 다른 캠페인에 쓰지 못하게 하면 이 문제를 막을 수 있다고 설명했다."
+                "x": "업데이트된 Symphony API로 광고주는 자체 크리에이티브 관리 도구 안에서 Symphony의 도구로 콘텐츠를 만들 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/HHuavX-Pondr_GlrDkQMDMVRfUO0si04LOnexvbAQV0/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfc3ltcGhvbnRfdXBkYXRlMi5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "PPC Land는 “한 캠페인이나 한 오디언스를 위한 할인이 다른 곳에 나타날 수 있으므로, 둘 이상의 할인을 동시에 운영하며 Meta에 광고하는 모든 업체에 중요한 문제”라고 짚었다."
-              },
-              {
-                "t": "p",
-                "x": "Meta는 광고 랭킹 시스템을 개선한 결과 Q2 2026에 Facebook의 광고 클릭이 8% 넘게 늘고 전환이 15.7% 증가했다고 밝혔다. 그러나 AI가 이끄는 시스템이 늘어날수록 오류도 생기기 마련이며, 광고주는 이런 잠재적 문제를 알고 있어야 한다."
+                "x": "TikTok은 “11월 9일부터 북미 이외 지역의 광고주는 BytePlus 토큰을 구매해 Symphony에서 Dreamina Seedance AI 모델을 이용할 수 있다”고 밝혔다. BytePlus는 ByteDance의 기업용 기술 부문이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MetaのAI広告\nブランドが切った割引を表示",
-          "body": "MetaのAI広告ツールが、広告主がオフにした割引オファーまで表示していたと報じられた。",
-          "mini_headline": "MetaのAI広告、未承認の割引を追加",
+          "headline": "TikTokの広告ツールに\n新Seedanceモデル",
+          "body": "TikTokのSymphonyが最新のSeedanceを採用し、AI動画広告の幅が広がる。",
+          "mini_headline": "TikTok SymphonyにSeedance",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "最近の報道によると、人工知能を活用した広告ツールが、プロモーションをオフにしていても顧客に割引オファーを掲載していた。"
+                "x": "TikTokは、AI-poweredの広告制作ツールSymphonyに新機能を加えた。最新モデルによる高度な動画生成、更新されたSymphony API、AI利用トークンへのアクセス拡大などだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/oOsZJDjBdWVf2Uwaq7ineonSHPdLI3t_5xz7ReXo-DM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfc3ltcGhvbnRfdXBkYXRlMS5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "人工知能ツールの権限が大きくなるにつれ、特定の作業を担う際の能力を制限する新たな基準が必要になる。自動化によるミスはデジタル広告の購入にも及びうる。PPC Landは先週、MetaのAI-powered広告ツールが店舗のウェブサイトから割引を取り込み、その事業者のFacebookやInstagramの広告に表示したと報じた。「コピー元の広告で店舗がプロモーションをオフにしていた場合でも」そうだったという。"
+                "x": "Symphony Agentは最新のDreamina Seedanceモデルで動画広告を生成できるようになった。広告主がアップロードできるマルチモーダルな参照素材（画像、動画、音声）は9点から最大50点に増え、更新されたモデルはプロンプトごとに、従来の最大15秒から最大30秒の動画を生成できる。映像はより鮮明でリアルになり、照明とキャラクターの一貫性も向上した。"
               },
               {
                 "t": "p",
-                "x": "発見したのはデジタルマーケティングアドバイザーのBram Van der Hallenだ。「Metaは今、ウェブサイト上のオファーを自動で検出し、Meta広告に使う可能性がある。元の広告でこのオプションをオフにしていてもだ」と彼は述べた。Commerce Managerの設定を更新し、検出したオファーをMetaが他のキャンペーンで使わないようにすれば、この問題は抑えられるという。"
+                "x": "更新されたSymphony APIにより、広告主は自社のクリエイティブ管理ツール内でSymphonyのツールを使ってコンテンツを生成できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/HHuavX-Pondr_GlrDkQMDMVRfUO0si04LOnexvbAQV0/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfc3ltcGhvbnRfdXBkYXRlMi5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "PPC Landは「あるキャンペーンやあるオーディエンス向けの割引が別の場所に表示されうるため、複数のオファーを同時に展開してMetaに広告を出すすべての事業者にとって重要だ」と指摘した。"
-              },
-              {
-                "t": "p",
-                "x": "Metaは、広告ランキングシステムの改善により、Q2 2026にFacebookで広告クリックが8%超増え、コンバージョンが15.7%向上したと述べている。だが、AIに導かれるシステムが増えれば誤りも生じる。広告主はこうした潜在的な問題を認識しておく必要がある。"
+                "x": "TikTokは「11月9日から、北米以外の広告主はBytePlusトークンを購入し、Symphonyを通じてDreamina Seedance AIモデルを利用できる」と説明した。BytePlusはByteDanceの企業向けテクノロジー部門だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta的AI广告\n展示品牌已关闭的折扣",
-          "body": "报道发现，即使广告主关闭了促销，Meta的AI广告工具仍会展示折扣优惠。",
-          "mini_headline": "Meta AI广告擅自添加优惠",
+          "headline": "TikTok广告工具\n接入新Seedance模型",
+          "body": "TikTok的Symphony平台接入最新Seedance模型，扩大品牌AI视频广告选择。",
+          "mini_headline": "TikTok Symphony新增Seedance",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "近期报道发现，即使关闭了促销功能，人工智能驱动的广告工具仍向顾客发布了折扣优惠。"
+                "x": "TikTok为其AI-powered广告创作工具Symphony增加了新功能，包括基于最新模型的高级视频生成、更新后的Symphony API，以及更广泛的AI使用额度获取渠道。"
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/oOsZJDjBdWVf2Uwaq7ineonSHPdLI3t_5xz7ReXo-DM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfc3ltcGhvbnRfdXBkYXRlMS5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "随着人工智能工具获得更多权限，需要建立新的规则，限制它们在执行某些任务时的能力。自动化错误也可能波及数字广告投放。PPC Land上周报道，Meta的AI-powered广告工具从一家店铺的网站抓取折扣信息，并展示在该商家的Facebook和Instagram广告中，“即使店铺已在被复制的广告上关闭了促销”。"
+                "x": "Symphony Agent现在可以用最新的Dreamina Seedance模型生成视频广告。广告主可上传的多模态参考素材（图片、视频和音频）从9个增至最多50个；更新后的模型每条提示词可生成最长30秒的视频，此前上限为15秒，画面更清晰、更逼真，光影和角色一致性也更好。"
               },
               {
                 "t": "p",
-                "x": "这一问题由数字营销顾问Bram Van der Hallen发现：“Meta现在可能会自动识别你网站上的优惠，并用在你的Meta广告中。即使你在原始广告中关闭了这一选项也是如此。”他表示，可以通过更新Commerce Manager设置，阻止Meta在其他广告系列中使用识别到的优惠，从而控制这一问题。"
+                "x": "更新后的Symphony API让广告主可以在自己的创意管理工具中使用Symphony的工具生成内容。"
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/HHuavX-Pondr_GlrDkQMDMVRfUO0si04LOnexvbAQV0/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfc3ltcGhvbnRfdXBkYXRlMi5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "PPC Land指出：“这对所有同时上线多项优惠、在Meta投放广告的商家都很重要，因为面向某个广告系列或某类受众的折扣可能出现在别处。”"
-              },
-              {
-                "t": "p",
-                "x": "Meta称，广告排序系统的改进使Facebook在Q2 2026的广告点击量增长超过8%，转化率提升15.7%。然而，随着越来越多的系统由AI主导，错误难以避免，广告主需要留意这些潜在问题。"
+                "x": "TikTok表示：“自11月9日起，北美以外的广告主可购买BytePlus额度，通过Symphony使用Dreamina Seedance AI模型。”BytePlus是ByteDance旗下的企业技术部门。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Anuncios AI de Meta mostraron\ndescuentos que la marca apagó",
-          "body": "Informes revelan que las herramientas AI de Meta mostraban descuentos aunque el anunciante los había desactivado.",
-          "mini_headline": "Anuncios AI de Meta añaden ofertas no aprobadas",
+          "headline": "TikTok Symphony incorpora\nSeedance, nuevo modelo de video",
+          "body": "La plataforma Symphony de TikTok ya usa el último modelo Dreamina Seedance y amplía los anuncios de video con AI.",
+          "mini_headline": "TikTok Symphony suma Seedance",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Informes recientes revelaron que las herramientas publicitarias impulsadas por inteligencia artificial publicaron ofertas de descuento a los clientes incluso con las promociones desactivadas."
+                "x": "TikTok añadió nuevos elementos a Symphony, sus herramientas AI-powered de creación de anuncios, entre ellos generación avanzada de video con los modelos más recientes, una Symphony API actualizada y un acceso más amplio a tokens de uso de AI."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/oOsZJDjBdWVf2Uwaq7ineonSHPdLI3t_5xz7ReXo-DM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfc3ltcGhvbnRfdXBkYXRlMS5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "A medida que las herramientas de inteligencia artificial ganan atribuciones, hace falta establecer nuevos parámetros que limiten su capacidad al realizar ciertas tareas. Los errores automatizados también pueden alcanzar la compra de anuncios digitales. PPC Land informó la semana pasada que las herramientas publicitarias AI-powered de Meta tomaron descuentos del sitio web de una tienda y los mostraron en los anuncios de Facebook e Instagram del negocio, «incluso cuando la tienda había desactivado las promociones en el anuncio que copió»."
+                "x": "Symphony Agent ya puede generar anuncios en video con los últimos modelos Dreamina Seedance. Los anunciantes pueden subir hasta 50 referencias multimodales (imágenes, videos y audio), frente a 9 antes, y los modelos actualizados pueden generar hasta 30 segundos de video por prompt, frente a un máximo de 15 segundos, con imágenes más nítidas y realistas, y mejor iluminación y coherencia de personajes."
               },
               {
                 "t": "p",
-                "x": "El hallazgo fue del asesor de marketing digital Bram Van der Hallen: «Meta ahora puede detectar automáticamente ofertas de tu sitio web y usarlas en tus anuncios de Meta. Incluso cuando has desactivado esta opción en tu anuncio original». Según él, el problema puede controlarse actualizando la configuración de Commerce Manager para impedir que Meta use las ofertas detectadas en otras campañas."
+                "x": "Una Symphony API actualizada permite a los anunciantes generar contenido con las herramientas de Symphony dentro de sus propias herramientas de gestión creativa."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/HHuavX-Pondr_GlrDkQMDMVRfUO0si04LOnexvbAQV0/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfc3ltcGhvbnRfdXBkYXRlMi5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "PPC Land señaló: «Esto importa a cualquier negocio que anuncie en Meta con más de una oferta activa, porque un descuento pensado para una campaña o una audiencia podría aparecer en otro lugar»."
-              },
-              {
-                "t": "p",
-                "x": "Meta afirmó que las mejoras en su sistema de clasificación de anuncios impulsaron un aumento de más del 8% en los clics y una subida del 15.7% en las conversiones en Facebook en el Q2 2026. Sin embargo, a medida que más sistemas se guían por AI, habrá errores, y los anunciantes deben conocer estos posibles problemas."
+                "x": "“A partir del 9 de noviembre, los anunciantes fuera de Norteamérica pueden comprar tokens de BytePlus para acceder a los modelos Dreamina Seedance AI a través de Symphony”, dijo TikTok. BytePlus es la división de tecnología empresarial de ByteDance."
               }
             ]
           }
@@ -909,15 +949,15 @@
       }
     },
     {
-      "id": "kbeauty-ai-fake-doctor-ban",
-      "source_lang": "ko",
+      "id": "priceline-penny-snapchat-ads",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 가짜 의사 광고 금지\nK뷰티 검수 재정비",
-      "body": "개정 화장품법이 27일 시행돼 AI 가짜 의사·전문가 광고가 금지된다.",
-      "mini_headline": "AI 가짜 의사 광고 금지",
+      "headline": "Penny 에이전트,\nSnapchat 광고로",
+      "body": "Priceline이 여행 브랜드 최초로 Snapchat 광고에 Penny를 넣었다.",
+      "mini_headline": "Snapchat에 들어간 Priceline Penny",
       "tool": "Marketing",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/industry/general-industry/6348088",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/pricelines-ai-agent-penny-lands-in-snapchat-ads-amid-holiday-rush/874247/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -925,345 +965,255 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i3n.news1.kr/system/photos/2026/9/8/8094291/high.jpg"
+            "src": "https://imgproxy.divecdn.com/eo1iZbLC3t8DarnvJ5Bjaw02_xxPoAwfnnXqtQLd3us/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY4NDgzMTMxX2dlSklYQW8uanBn.webp"
           },
           {
             "t": "p",
-            "x": "인공지능(AI)으로 만든 가짜 의사가 화장품의 효능을 설명하고 제품 사용을 권하는 광고가 이달 말부터 법률상 명시적인 금지 대상이 된다. 오는 27일부터 시행되는 개정 화장품법 제13조 제1항 제4호는 AI로 생성한 가상의 의사·약사·대학교수 등 전문가가 화장품을 추천하거나 보증하는 것으로 소비자가 오인할 우려가 있는 광고를 금지한다."
+            "x": "Snapchat의 AI Sponsored Snaps를 쓰는 여행 브랜드는 Priceline이 처음이다. AI Sponsored Snaps는 올해 초 나온 대화형 인공지능 광고 형식이다. 사용자는 Priceline이 보낸 다이렉트 메시지 안에서 에이전트형 어시스턴트 Penny와 대화한다. 계획한 여행 날짜 같은 정보는 Priceline 플랫폼의 Penny 대화로 넘어간다."
           },
           {
             "t": "p",
-            "x": "AI 기술을 광고 제작에 활용하는 행위 자체가 금지되는 것은 아니다. 실제와 구분하기 어려운 가상의 전문가를 내세워 소비자가 전문가의 추천이나 보증으로 잘못 인식할 우려가 있는지가 판단 기준이다."
+            "x": "이번 캠페인으로 Penny를 더 알리겠다는 계산이다. Priceline은 유월 Anthropic의 Claude 모델 기능을 더해 Penny를 개편했다. Snapchatters는 여기서 여행지 아이디어를 찾고 일정을 짜고 숙소까지 고른다. 회사에 따르면 Penny 사용자의 전환율은 Priceline의 non-Penny 사용자보다 약 두 배 높다."
           },
           {
             "t": "p",
-            "x": "한국소비자원 조사에 따르면 지난해 10월부터 올해 6월까지 유튜브 광고에서 AI를 악용한 부당광고 420건이 적발됐고, 이 가운데 화장품 광고는 72건(17.1%)이었다. 전문가를 사칭한 광고도 153건에 달했다."
-          },
-          {
-            "t": "img",
-            "src": "https://image.news1.kr/system/photos/2026/11/9/8205385/high.jpg/dims/optimize",
-            "cap": "인공지능(AI)으로 생성한 가상의 피부과 전문의가 화장품의 기미 개선 효과를 홍보하는 부당광고 사례. (관계부처 합동 자료)"
-          },
-          {
-            "t": "p",
-            "x": "주요 뷰티 기업들은 기존 광고 콘텐츠를 선제적으로 점검하고 생성형 AI 활용 마케팅의 내부 표시 가이드라인과 사전 검수 프로세스를 강화하고 있다. 공정거래위원회는 지난 6월 1일부터 가상인물이 상품을 추천·보증하는 광고에 '가상인물'임을 명확히 표시하도록 심사지침을 개정했다."
+            "x": "Snapchat은 사월 AI Sponsored Snaps를 내놓으면서 광고주 자체 챗봇이 채팅 수신함에 들어올 길을 열었다. Sponsored Snaps는 다른 광고 지면보다 전환이 약 22% 많고 액션당 비용은 20% 낮다. Snapchat의 Q3 광고 매출은 4%, 총매출은 14% 늘었다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "AI 가짜 의사 광고 금지\nK뷰티 검수 재정비",
-          "body": "개정 화장품법이 27일 시행돼 AI 가짜 의사·전문가 광고가 금지된다.",
-          "mini_headline": "AI 가짜 의사 광고 금지",
+        "en": {
+          "headline": "Priceline's Penny agent\nmoves into Snapchat ads",
+          "body": "Priceline is the first travel brand on Snapchat's AI Sponsored Snaps, placing its Penny AI agent inside paid ads.",
+          "mini_headline": "Priceline's Penny on Snapchat",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/9/8/8094291/high.jpg"
+                "src": "https://imgproxy.divecdn.com/eo1iZbLC3t8DarnvJ5Bjaw02_xxPoAwfnnXqtQLd3us/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY4NDgzMTMxX2dlSklYQW8uanBn.webp"
               },
               {
                 "t": "p",
-                "x": "인공지능(AI)으로 만든 가짜 의사가 화장품의 효능을 설명하고 제품 사용을 권하는 광고가 이달 말부터 법률상 명시적인 금지 대상이 된다. 오는 27일부터 시행되는 개정 화장품법 제13조 제1항 제4호는 AI로 생성한 가상의 의사·약사·대학교수 등 전문가가 화장품을 추천하거나 보증하는 것으로 소비자가 오인할 우려가 있는 광고를 금지한다."
+                "x": "Priceline is the first travel brand to use Snapchat's AI Sponsored Snaps, a conversational artificial intelligence ad format that launched earlier this year. Users receive a direct message from Priceline where they can chat with Penny, its agentic assistant; details such as planned travel dates carry over to Penny conversations on Priceline's platform."
               },
               {
                 "t": "p",
-                "x": "AI 기술을 광고 제작에 활용하는 행위 자체가 금지되는 것은 아니다. 실제와 구분하기 어려운 가상의 전문가를 내세워 소비자가 전문가의 추천이나 보증으로 잘못 인식할 우려가 있는지가 판단 기준이다."
+                "x": "The campaign builds awareness for Penny, which the brand revamped in June with capabilities from Anthropic's Claude models. Snapchatters can seek destination inspiration, develop an itinerary and identify places to stay. Penny converts users at approximately twice the rate of non-Penny users on Priceline, according to the company."
               },
               {
                 "t": "p",
-                "x": "한국소비자원 조사에 따르면 지난해 10월부터 올해 6월까지 유튜브 광고에서 AI를 악용한 부당광고 420건이 적발됐고, 이 가운데 화장품 광고는 72건(17.1%)이었다. 전문가를 사칭한 광고도 153건에 달했다."
-              },
-              {
-                "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/11/9/8205385/high.jpg/dims/optimize",
-                "cap": "인공지능(AI)으로 생성한 가상의 피부과 전문의가 화장품의 기미 개선 효과를 홍보하는 부당광고 사례. (관계부처 합동 자료)"
-              },
-              {
-                "t": "p",
-                "x": "주요 뷰티 기업들은 기존 광고 콘텐츠를 선제적으로 점검하고 생성형 AI 활용 마케팅의 내부 표시 가이드라인과 사전 검수 프로세스를 강화하고 있다. 공정거래위원회는 지난 6월 1일부터 가상인물이 상품을 추천·보증하는 광고에 '가상인물'임을 명확히 표시하도록 심사지침을 개정했다."
+                "x": "Snapchat introduced AI Sponsored Snaps in April, letting advertisers bring their own chatbots into its chat inbox. Sponsored Snaps drive about 22% more conversions and 20% lower cost per action than other inventory. Snapchat's ad revenue increased 4% in Q3 while total revenue was up 14%."
               }
             ]
           }
         },
-        "en": {
-          "headline": "AI fake doctor ads banned\nK-beauty tightens ad reviews",
-          "body": "The revised Cosmetics Act takes effect on the 27th, banning ads that use AI fake doctors or experts.",
-          "mini_headline": "AI fake doctor ads banned",
+        "ko": {
+          "headline": "Penny 에이전트,\nSnapchat 광고로",
+          "body": "Priceline이 여행 브랜드 최초로 Snapchat 광고에 Penny를 넣었다.",
+          "mini_headline": "Snapchat에 들어간 Priceline Penny",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/9/8/8094291/high.jpg"
+                "src": "https://imgproxy.divecdn.com/eo1iZbLC3t8DarnvJ5Bjaw02_xxPoAwfnnXqtQLd3us/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY4NDgzMTMxX2dlSklYQW8uanBn.webp"
               },
               {
                 "t": "p",
-                "x": "Ads in which fake doctors made with artificial intelligence (AI) explain a cosmetic's effects and recommend using it become an explicit legal target for prohibition from the end of this month. Article 13, Paragraph 1, Item 4 of the revised Cosmetics Act, which takes effect on the 27th, bans ads that risk misleading consumers into thinking that AI-generated virtual experts such as doctors, pharmacists or university professors recommend or endorse a cosmetic."
+                "x": "Snapchat의 AI Sponsored Snaps를 쓰는 여행 브랜드는 Priceline이 처음이다. AI Sponsored Snaps는 올해 초 나온 대화형 인공지능 광고 형식이다. 사용자는 Priceline이 보낸 다이렉트 메시지 안에서 에이전트형 어시스턴트 Penny와 대화한다. 계획한 여행 날짜 같은 정보는 Priceline 플랫폼의 Penny 대화로 넘어간다."
               },
               {
                 "t": "p",
-                "x": "Using AI technology to make ads is not itself banned. The test is whether a virtual expert who is hard to tell apart from a real one risks leading consumers to mistake the ad for an expert's recommendation or endorsement."
+                "x": "이번 캠페인으로 Penny를 더 알리겠다는 계산이다. Priceline은 유월 Anthropic의 Claude 모델 기능을 더해 Penny를 개편했다. Snapchatters는 여기서 여행지 아이디어를 찾고 일정을 짜고 숙소까지 고른다. 회사에 따르면 Penny 사용자의 전환율은 Priceline의 non-Penny 사용자보다 약 두 배 높다."
               },
               {
                 "t": "p",
-                "x": "According to a Korea Consumer Agency survey, 420 unfair ads misusing AI were caught in YouTube ads from October last year to June this year, and 72 of them (17.1%) were cosmetics ads. Ads impersonating experts also reached 153."
-              },
-              {
-                "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/11/9/8205385/high.jpg/dims/optimize",
-                "cap": "An example of an unfair ad in which a virtual dermatologist generated by artificial intelligence (AI) promotes a cosmetic's effect on improving melasma. (Joint material from related ministries)"
-              },
-              {
-                "t": "p",
-                "x": "Major beauty companies are proactively reviewing their existing ad content and strengthening internal labeling guidelines and pre-review processes for marketing that uses generative AI. The Fair Trade Commission revised its review guidelines as of June 1 so that ads in which virtual people recommend or endorse products must clearly state that they are 'virtual people.'"
+                "x": "Snapchat은 사월 AI Sponsored Snaps를 내놓으면서 광고주 자체 챗봇이 채팅 수신함에 들어올 길을 열었다. Sponsored Snaps는 다른 광고 지면보다 전환이 약 22% 많고 액션당 비용은 20% 낮다. Snapchat의 Q3 광고 매출은 4%, 총매출은 14% 늘었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI偽医師広告を禁止\nKビューティー審査見直し",
-          "body": "改正化粧品法が27日に施行され、AIによる偽の医師・専門家の広告が禁止される。",
-          "mini_headline": "AI偽医師広告を禁止",
+          "headline": "Pennyエージェント\nSnapchat広告へ",
+          "body": "Pricelineが旅行ブランド初のSnapchat AI広告にPennyを載せた。",
+          "mini_headline": "PricelineのPenny、Snapchatへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/9/8/8094291/high.jpg"
+                "src": "https://imgproxy.divecdn.com/eo1iZbLC3t8DarnvJ5Bjaw02_xxPoAwfnnXqtQLd3us/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY4NDgzMTMxX2dlSklYQW8uanBn.webp"
               },
               {
                 "t": "p",
-                "x": "人工知能(AI)で作った偽の医師が化粧品の効能を説明し、製品の使用を勧める広告が、今月末から法律上明確な禁止対象になる。27日に施行される改正化粧品法第13条第1項第4号は、AIで生成した架空の医師・薬剤師・大学教授などの専門家が化粧品を推薦または保証していると消費者が誤認するおそれのある広告を禁じる。"
+                "x": "Pricelineは、SnapchatのAI Sponsored Snapsを使う初の旅行ブランドだ。AI Sponsored Snapsは今年初めに始まった対話型の人工知能広告フォーマットである。ユーザーはPricelineから届くダイレクトメッセージでエージェント型アシスタントのPennyと会話でき、予定している旅行日程などの情報はPricelineのプラットフォーム上のPennyとの会話に引き継がれる。"
               },
               {
                 "t": "p",
-                "x": "広告制作にAI技術を使うこと自体が禁止されるわけではない。実在と見分けにくい架空の専門家を前面に出し、消費者が専門家の推薦や保証だと誤って受け取るおそれがあるかどうかが判断基準となる。"
+                "x": "このキャンペーンはPennyの認知拡大を狙う。Pricelineは六月、AnthropicのClaudeモデルの機能を取り入れてPennyを刷新した。Snapchattersは旅行先のヒントを探し、旅程を組み、宿泊先を見つけられる。同社によると、Pennyを使うユーザーのコンバージョン率はPriceline上のnon-Pennyユーザーの約二倍だという。"
               },
               {
                 "t": "p",
-                "x": "韓国消費者院の調査によると、昨年10月から今年6月までにYouTube広告でAIを悪用した不当広告420件が摘発され、うち化粧品広告は72件(17.1%)だった。専門家をかたった広告も153件に上った。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/11/9/8205385/high.jpg/dims/optimize",
-                "cap": "人工知能(AI)で生成した架空の皮膚科専門医が、化粧品のシミ改善効果を宣伝する不当広告の例。(関係省庁合同資料)"
-              },
-              {
-                "t": "p",
-                "x": "大手ビューティー企業は既存の広告コンテンツを先回りして点検し、生成AIを使ったマーケティングに関する社内の表示ガイドラインと事前審査プロセスを強化している。公正取引委員会は6月1日から、架空の人物が商品を推薦・保証する広告に「架空の人物」であることを明示するよう審査指針を改正した。"
+                "x": "Snapchatは四月にAI Sponsored Snapsを導入し、広告主が自社のチャットボットをチャットの受信箱に持ち込めるようにした。Sponsored Snapsは他の広告枠に比べてコンバージョンが約22%多く、アクション当たりのコストは20%低い。SnapchatのQ3の広告収入は4%増え、総収入は14%増加した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "禁止AI假医生广告\nK美妆重整审核",
-          "body": "修订后的《化妆品法》将于27日施行，AI假医生与假专家广告将被禁止。",
-          "mini_headline": "禁止AI假医生广告",
+          "headline": "Penny智能体\n进驻Snapchat广告",
+          "body": "Priceline成为首个在Snapchat AI广告中投放Penny的旅行品牌。",
+          "mini_headline": "Priceline的Penny登上Snapchat",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/9/8/8094291/high.jpg"
+                "src": "https://imgproxy.divecdn.com/eo1iZbLC3t8DarnvJ5Bjaw02_xxPoAwfnnXqtQLd3us/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY4NDgzMTMxX2dlSklYQW8uanBn.webp"
               },
               {
                 "t": "p",
-                "x": "由人工智能（AI）生成的假医生讲解化妆品功效、推荐使用产品的广告，将从本月底起成为法律明确禁止的对象。将于27日施行的修订版《化妆品法》第13条第1款第4项规定，禁止可能让消费者误以为由AI生成的虚拟医生、药师、大学教授等专家在推荐或担保化妆品的广告。"
+                "x": "Priceline是首个使用Snapchat AI Sponsored Snaps的旅行品牌，这是一种今年早些时候推出的对话式人工智能广告形式。用户会收到Priceline发来的私信，可在其中与其智能体助手Penny对话；计划出行日期等信息会延续到Priceline平台上的Penny对话中。"
               },
               {
                 "t": "p",
-                "x": "在广告制作中使用AI技术本身并未被禁止。判断标准在于，是否借助难以与真人区分的虚拟专家，使消费者可能误以为这是专家的推荐或担保。"
+                "x": "此次活动旨在提升Penny的知名度。Priceline于六月借助Anthropic的Claude模型能力对Penny进行了改版。Snapchatters可以寻找目的地灵感、制定行程并挑选住处。据该公司称，Penny用户的转化率约为Priceline上non-Penny用户的两倍。"
               },
               {
                 "t": "p",
-                "x": "韩国消费者院调查显示，从去年10月到今年6月，YouTube广告中共查出420件滥用AI的不当广告，其中化妆品广告72件（17.1%）。冒充专家的广告也多达153件。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/11/9/8205385/high.jpg/dims/optimize",
-                "cap": "由人工智能（AI）生成的虚拟皮肤科专科医生宣传化妆品淡斑效果的不当广告案例。（相关部门联合资料）"
-              },
-              {
-                "t": "p",
-                "x": "主要美妆企业正在主动排查现有广告内容，并加强使用生成式AI营销的内部标注指南和事前审核流程。公平交易委员会已修订审查指南，自6月1日起要求虚拟人物推荐或担保商品的广告明确标注其为“虚拟人物”。"
+                "x": "Snapchat于四月推出AI Sponsored Snaps，让广告主把自家聊天机器人带入其聊天收件箱。与其他广告资源相比，Sponsored Snaps带来的转化约多22%，单次行动成本低20%。Snapchat第三季度（Q3）广告收入增长4%，总收入增长14%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Veto a anuncios con médicos AI\ny K-beauty revisa sus controles",
-          "body": "La reforma de la ley de cosméticos entra en vigor el 27 y prohíbe anuncios con falsos médicos o expertos de AI.",
-          "mini_headline": "Veto a anuncios con médicos AI falsos",
+          "headline": "El agente Penny de Priceline\nllega a los anuncios de Snapchat",
+          "body": "Priceline es la primera marca de viajes en AI Sponsored Snaps de Snapchat y lleva su agente Penny a anuncios pagados.",
+          "mini_headline": "Penny de Priceline en Snapchat",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/9/8/8094291/high.jpg"
+                "src": "https://imgproxy.divecdn.com/eo1iZbLC3t8DarnvJ5Bjaw02_xxPoAwfnnXqtQLd3us/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY4NDgzMTMxX2dlSklYQW8uanBn.webp"
               },
               {
                 "t": "p",
-                "x": "Los anuncios en los que un falso médico creado con inteligencia artificial (AI) explica la eficacia de un cosmético y recomienda su uso pasarán a estar prohibidos de forma expresa por ley a partir de finales de este mes. El artículo 13, apartado 1, inciso 4 de la ley de cosméticos reformada, que entra en vigor el 27, prohíbe los anuncios que puedan llevar al consumidor a creer que expertos virtuales generados con AI, como médicos, farmacéuticos o profesores universitarios, recomiendan o avalan un cosmético."
+                "x": "Priceline es la primera marca de viajes que utiliza AI Sponsored Snaps de Snapchat, un formato publicitario de inteligencia artificial conversacional lanzado a principios de este año. Los usuarios reciben un mensaje directo de Priceline en el que pueden conversar con Penny, su asistente agéntico; datos como las fechas de viaje previstas se trasladan a las conversaciones con Penny en la plataforma de Priceline."
               },
               {
                 "t": "p",
-                "x": "Usar tecnología AI para producir anuncios no está prohibido en sí. El criterio es si se presenta a un experto virtual difícil de distinguir de uno real de modo que el consumidor pueda tomarlo por la recomendación o el aval de un experto."
+                "x": "La campaña busca dar a conocer Penny, que la marca renovó en junio con capacidades de los modelos Claude de Anthropic. Los Snapchatters pueden buscar inspiración para destinos, armar un itinerario y encontrar alojamiento. Según la compañía, Penny convierte a los usuarios a aproximadamente el doble de la tasa de los usuarios non-Penny en Priceline."
               },
               {
                 "t": "p",
-                "x": "Según una encuesta de la Agencia de Consumidores de Corea, entre octubre del año pasado y junio de este año se detectaron 420 anuncios engañosos que abusaban de la AI en anuncios de YouTube, de los cuales 72 (17.1%) eran de cosméticos. Los anuncios que suplantaban a expertos llegaron a 153."
-              },
-              {
-                "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/11/9/8205385/high.jpg/dims/optimize",
-                "cap": "Ejemplo de anuncio engañoso en el que un dermatólogo virtual generado con inteligencia artificial (AI) promociona el efecto de un cosmético para mejorar el melasma. (Material conjunto de los ministerios implicados)"
-              },
-              {
-                "t": "p",
-                "x": "Las principales empresas de belleza revisan de forma preventiva sus contenidos publicitarios y refuerzan sus guías internas de etiquetado y sus procesos de revisión previa para el marketing con AI generativa. La Comisión de Comercio Justo modificó sus directrices desde el 1 de junio para exigir que los anuncios en los que personajes virtuales recomiendan o avalan productos indiquen con claridad que se trata de un 'personaje virtual'."
+                "x": "Snapchat presentó AI Sponsored Snaps en abril y permitió a los anunciantes llevar sus propios chatbots a su bandeja de entrada de chat. Los Sponsored Snaps generan alrededor de un 22% más de conversiones y un 20% menos de costo por acción que otro inventario. Los ingresos publicitarios de Snapchat crecieron un 4% en el Q3, mientras que los ingresos totales subieron un 14%."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "AI fake doctor ads banned\nK-beauty tightens ad reviews",
-          "body": "The revised Cosmetics Act takes effect on the 27th, banning ads that use AI fake doctors or experts.",
-          "mini_headline": "AI fake doctor ads banned",
+        "ko": {
+          "headline": "Penny 에이전트,\nSnapchat 광고로",
+          "body": "Priceline이 여행 브랜드 최초로 Snapchat 광고에 Penny를 넣었다.",
+          "mini_headline": "Snapchat에 들어간 Priceline Penny",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/9/8/8094291/high.jpg"
+                "src": "https://imgproxy.divecdn.com/eo1iZbLC3t8DarnvJ5Bjaw02_xxPoAwfnnXqtQLd3us/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY4NDgzMTMxX2dlSklYQW8uanBn.webp"
               },
               {
                 "t": "p",
-                "x": "Ads in which fake doctors made with artificial intelligence (AI) explain a cosmetic's effects and recommend using it become an explicit legal target for prohibition from the end of this month. Article 13, Paragraph 1, Item 4 of the revised Cosmetics Act, which takes effect on the 27th, bans ads that risk misleading consumers into thinking that AI-generated virtual experts such as doctors, pharmacists or university professors recommend or endorse a cosmetic."
+                "x": "Priceline은 Snapchat의 AI Sponsored Snaps를 쓰는 첫 여행 브랜드다. AI Sponsored Snaps는 올해 초 출시된 대화형 인공지능 광고 형식이다. 사용자는 Priceline이 보낸 다이렉트 메시지에서 에이전트형 어시스턴트 Penny와 대화할 수 있고, 계획한 여행 날짜 같은 정보는 Priceline 플랫폼의 Penny 대화로 이어진다."
               },
               {
                 "t": "p",
-                "x": "Using AI technology to make ads is not itself banned. The test is whether a virtual expert who is hard to tell apart from a real one risks leading consumers to mistake the ad for an expert's recommendation or endorsement."
+                "x": "이번 캠페인은 Penny의 인지도를 높이려는 것이다. Priceline은 유월 Anthropic의 Claude 모델 기능을 더해 Penny를 개편했다. Snapchatters는 여행지 아이디어를 찾고 일정을 짜고 숙소를 고를 수 있다. 회사에 따르면 Penny 사용자의 전환율은 Priceline의 non-Penny 사용자보다 약 두 배 높다."
               },
               {
                 "t": "p",
-                "x": "According to a Korea Consumer Agency survey, 420 unfair ads misusing AI were caught in YouTube ads from October last year to June this year, and 72 of them (17.1%) were cosmetics ads. Ads impersonating experts also reached 153."
-              },
-              {
-                "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/11/9/8205385/high.jpg/dims/optimize",
-                "cap": "An example of an unfair ad in which a virtual dermatologist generated by artificial intelligence (AI) promotes a cosmetic's effect on improving melasma. (Joint material from related ministries)"
-              },
-              {
-                "t": "p",
-                "x": "Major beauty companies are proactively reviewing their existing ad content and strengthening internal labeling guidelines and pre-review processes for marketing that uses generative AI. The Fair Trade Commission revised its review guidelines as of June 1 so that ads in which virtual people recommend or endorse products must clearly state that they are 'virtual people.'"
+                "x": "Snapchat은 사월 AI Sponsored Snaps를 도입해 광고주가 자체 챗봇을 채팅 수신함에 들일 수 있게 했다. Sponsored Snaps는 다른 광고 지면보다 전환이 약 22% 많고 액션당 비용은 20% 낮다. Snapchat의 Q3 광고 매출은 4% 늘었고 총매출은 14% 증가했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI偽医師広告を禁止\nKビューティー審査見直し",
-          "body": "改正化粧品法が27日に施行され、AIによる偽の医師・専門家の広告が禁止される。",
-          "mini_headline": "AI偽医師広告を禁止",
+          "headline": "Pennyエージェント\nSnapchat広告へ",
+          "body": "Pricelineが旅行ブランド初のSnapchat AI広告にPennyを載せた。",
+          "mini_headline": "PricelineのPenny、Snapchatへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/9/8/8094291/high.jpg"
+                "src": "https://imgproxy.divecdn.com/eo1iZbLC3t8DarnvJ5Bjaw02_xxPoAwfnnXqtQLd3us/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY4NDgzMTMxX2dlSklYQW8uanBn.webp"
               },
               {
                 "t": "p",
-                "x": "人工知能(AI)で作った偽の医師が化粧品の効能を説明し、製品の使用を勧める広告が、今月末から法律上明確な禁止対象になる。27日に施行される改正化粧品法第13条第1項第4号は、AIで生成した架空の医師・薬剤師・大学教授などの専門家が化粧品を推薦または保証していると消費者が誤認するおそれのある広告を禁じる。"
+                "x": "Pricelineは、SnapchatのAI Sponsored Snapsを使う初の旅行ブランドだ。AI Sponsored Snapsは今年初めに始まった対話型の人工知能広告フォーマットである。ユーザーはPricelineから届くダイレクトメッセージでエージェント型アシスタントのPennyと会話でき、予定している旅行日程などの情報はPricelineのプラットフォーム上のPennyとの会話に引き継がれる。"
               },
               {
                 "t": "p",
-                "x": "広告制作にAI技術を使うこと自体が禁止されるわけではない。実在と見分けにくい架空の専門家を前面に出し、消費者が専門家の推薦や保証だと誤って受け取るおそれがあるかどうかが判断基準となる。"
+                "x": "このキャンペーンはPennyの認知拡大を狙う。Pricelineは六月、AnthropicのClaudeモデルの機能を取り入れてPennyを刷新した。Snapchattersは旅行先のヒントを探し、旅程を組み、宿泊先を見つけられる。同社によると、Pennyを使うユーザーのコンバージョン率はPriceline上のnon-Pennyユーザーの約二倍だという。"
               },
               {
                 "t": "p",
-                "x": "韓国消費者院の調査によると、昨年10月から今年6月までにYouTube広告でAIを悪用した不当広告420件が摘発され、うち化粧品広告は72件(17.1%)だった。専門家をかたった広告も153件に上った。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/11/9/8205385/high.jpg/dims/optimize",
-                "cap": "人工知能(AI)で生成した架空の皮膚科専門医が、化粧品のシミ改善効果を宣伝する不当広告の例。(関係省庁合同資料)"
-              },
-              {
-                "t": "p",
-                "x": "大手ビューティー企業は既存の広告コンテンツを先回りして点検し、生成AIを使ったマーケティングに関する社内の表示ガイドラインと事前審査プロセスを強化している。公正取引委員会は6月1日から、架空の人物が商品を推薦・保証する広告に「架空の人物」であることを明示するよう審査指針を改正した。"
+                "x": "Snapchatは四月にAI Sponsored Snapsを導入し、広告主が自社のチャットボットをチャットの受信箱に持ち込めるようにした。Sponsored Snapsは他の広告枠に比べてコンバージョンが約22%多く、アクション当たりのコストは20%低い。SnapchatのQ3の広告収入は4%増え、総収入は14%増加した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "禁止AI假医生广告\nK美妆重整审核",
-          "body": "修订后的《化妆品法》将于27日施行，AI假医生与假专家广告将被禁止。",
-          "mini_headline": "禁止AI假医生广告",
+          "headline": "Penny智能体\n进驻Snapchat广告",
+          "body": "Priceline成为首个在Snapchat AI广告中投放Penny的旅行品牌。",
+          "mini_headline": "Priceline的Penny登上Snapchat",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/9/8/8094291/high.jpg"
+                "src": "https://imgproxy.divecdn.com/eo1iZbLC3t8DarnvJ5Bjaw02_xxPoAwfnnXqtQLd3us/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY4NDgzMTMxX2dlSklYQW8uanBn.webp"
               },
               {
                 "t": "p",
-                "x": "由人工智能（AI）生成的假医生讲解化妆品功效、推荐使用产品的广告，将从本月底起成为法律明确禁止的对象。将于27日施行的修订版《化妆品法》第13条第1款第4项规定，禁止可能让消费者误以为由AI生成的虚拟医生、药师、大学教授等专家在推荐或担保化妆品的广告。"
+                "x": "Priceline是首个使用Snapchat AI Sponsored Snaps的旅行品牌，这是一种今年早些时候推出的对话式人工智能广告形式。用户会收到Priceline发来的私信，可在其中与其智能体助手Penny对话；计划出行日期等信息会延续到Priceline平台上的Penny对话中。"
               },
               {
                 "t": "p",
-                "x": "在广告制作中使用AI技术本身并未被禁止。判断标准在于，是否借助难以与真人区分的虚拟专家，使消费者可能误以为这是专家的推荐或担保。"
+                "x": "此次活动旨在提升Penny的知名度。Priceline于六月借助Anthropic的Claude模型能力对Penny进行了改版。Snapchatters可以寻找目的地灵感、制定行程并挑选住处。据该公司称，Penny用户的转化率约为Priceline上non-Penny用户的两倍。"
               },
               {
                 "t": "p",
-                "x": "韩国消费者院调查显示，从去年10月到今年6月，YouTube广告中共查出420件滥用AI的不当广告，其中化妆品广告72件（17.1%）。冒充专家的广告也多达153件。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/11/9/8205385/high.jpg/dims/optimize",
-                "cap": "由人工智能（AI）生成的虚拟皮肤科专科医生宣传化妆品淡斑效果的不当广告案例。（相关部门联合资料）"
-              },
-              {
-                "t": "p",
-                "x": "主要美妆企业正在主动排查现有广告内容，并加强使用生成式AI营销的内部标注指南和事前审核流程。公平交易委员会已修订审查指南，自6月1日起要求虚拟人物推荐或担保商品的广告明确标注其为“虚拟人物”。"
+                "x": "Snapchat于四月推出AI Sponsored Snaps，让广告主把自家聊天机器人带入其聊天收件箱。与其他广告资源相比，Sponsored Snaps带来的转化约多22%，单次行动成本低20%。Snapchat第三季度（Q3）广告收入增长4%，总收入增长14%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Veto a anuncios con médicos AI\ny K-beauty revisa sus controles",
-          "body": "La reforma de la ley de cosméticos entra en vigor el 27 y prohíbe anuncios con falsos médicos o expertos de AI.",
-          "mini_headline": "Veto a anuncios con médicos AI falsos",
+          "headline": "El agente Penny de Priceline\nllega a los anuncios de Snapchat",
+          "body": "Priceline es la primera marca de viajes en AI Sponsored Snaps de Snapchat y lleva su agente Penny a anuncios pagados.",
+          "mini_headline": "Penny de Priceline en Snapchat",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/9/8/8094291/high.jpg"
+                "src": "https://imgproxy.divecdn.com/eo1iZbLC3t8DarnvJ5Bjaw02_xxPoAwfnnXqtQLd3us/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY4NDgzMTMxX2dlSklYQW8uanBn.webp"
               },
               {
                 "t": "p",
-                "x": "Los anuncios en los que un falso médico creado con inteligencia artificial (AI) explica la eficacia de un cosmético y recomienda su uso pasarán a estar prohibidos de forma expresa por ley a partir de finales de este mes. El artículo 13, apartado 1, inciso 4 de la ley de cosméticos reformada, que entra en vigor el 27, prohíbe los anuncios que puedan llevar al consumidor a creer que expertos virtuales generados con AI, como médicos, farmacéuticos o profesores universitarios, recomiendan o avalan un cosmético."
+                "x": "Priceline es la primera marca de viajes que utiliza AI Sponsored Snaps de Snapchat, un formato publicitario de inteligencia artificial conversacional lanzado a principios de este año. Los usuarios reciben un mensaje directo de Priceline en el que pueden conversar con Penny, su asistente agéntico; datos como las fechas de viaje previstas se trasladan a las conversaciones con Penny en la plataforma de Priceline."
               },
               {
                 "t": "p",
-                "x": "Usar tecnología AI para producir anuncios no está prohibido en sí. El criterio es si se presenta a un experto virtual difícil de distinguir de uno real de modo que el consumidor pueda tomarlo por la recomendación o el aval de un experto."
+                "x": "La campaña busca dar a conocer Penny, que la marca renovó en junio con capacidades de los modelos Claude de Anthropic. Los Snapchatters pueden buscar inspiración para destinos, armar un itinerario y encontrar alojamiento. Según la compañía, Penny convierte a los usuarios a aproximadamente el doble de la tasa de los usuarios non-Penny en Priceline."
               },
               {
                 "t": "p",
-                "x": "Según una encuesta de la Agencia de Consumidores de Corea, entre octubre del año pasado y junio de este año se detectaron 420 anuncios engañosos que abusaban de la AI en anuncios de YouTube, de los cuales 72 (17.1%) eran de cosméticos. Los anuncios que suplantaban a expertos llegaron a 153."
-              },
-              {
-                "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/11/9/8205385/high.jpg/dims/optimize",
-                "cap": "Ejemplo de anuncio engañoso en el que un dermatólogo virtual generado con inteligencia artificial (AI) promociona el efecto de un cosmético para mejorar el melasma. (Material conjunto de los ministerios implicados)"
-              },
-              {
-                "t": "p",
-                "x": "Las principales empresas de belleza revisan de forma preventiva sus contenidos publicitarios y refuerzan sus guías internas de etiquetado y sus procesos de revisión previa para el marketing con AI generativa. La Comisión de Comercio Justo modificó sus directrices desde el 1 de junio para exigir que los anuncios en los que personajes virtuales recomiendan o avalan productos indiquen con claridad que se trata de un 'personaje virtual'."
+                "x": "Snapchat presentó AI Sponsored Snaps en abril y permitió a los anunciantes llevar sus propios chatbots a su bandeja de entrada de chat. Los Sponsored Snaps generan alrededor de un 22% más de conversiones y un 20% menos de costo por acción que otro inventario. Los ingresos publicitarios de Snapchat crecieron un 4% en el Q3, mientras que los ingresos totales subieron un 14%."
               }
             ]
           }
@@ -1271,213 +1221,171 @@
       }
     },
     {
-      "id": "google-ads-ai-summaries-test",
+      "id": "google-ads-asset-activity-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google, 검색 광고에\nAI 요약 시험 중",
-      "body": "Google이 스폰서 광고 위 전체 AI 요약과 광고별 AI 요약을 시험한다.",
-      "mini_headline": "Google, AI 광고 요약 시험",
+      "headline": "Google Ads 주간\nAI 소재 노트 시험",
+      "body": "일부 Google Ads 계정에 제목을 제안하는 주간 AI 카드가 뜨기 시작했다.",
+      "mini_headline": "Google Ads AI 소재 노트",
       "tool": "Marketing",
-      "source": "Search Engine Roundtable",
-      "url": "https://www.seroundtable.com/google-ads-ai-generated-summaries-42482.html",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/google-ads-tests-asset-activity-page-with-weekly-ai-insights/596442/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Google이 검색 광고에 AI-generated 요약을 더 넣는 시험을 하고 있다. 스폰서 결과 묶음 위에는 모든 광고주의 모든 광고를 요약한 AI-generated 요약을, 각 광고 설명 아래에는 광고별 AI-generated 요약을 붙인다."
+            "t": "img",
+            "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ads-asset-activity-featured-1600x840-1.jpg",
+            "cap": "Mijansk786/Shutterstock"
           },
           {
             "t": "p",
-            "x": "AI-generated 요약을 불러오는 동안에는 지루하지 않게 로딩 애니메이션이 돈다."
+            "x": "일부 Google Ads 계정에 Asset activity라는 베타 페이지가 생겼다. 광고 소재를 다룬 주간 인사이트 카드를 광고주에게 보여 주는 곳이다. 실무자 Anthony Higman이 11월 6일 LinkedIn에 스크린숏을 올렸다. 카드에는 새 헤드라인 주제 제안, 성과가 좋은 헤드라인, 법률 상담 안내 검색이 늘었다는 소식이 담겼다."
           },
           {
             "t": "p",
-            "x": "Brodie Clark가 이를 발견해 X와 SERP Alert에 올렸다. 아래는 그의 영상이다."
-          },
-          {
-            "t": "video",
-            "src": "https://images.seroundtable.com/v-google-ads-ai-generated-summaries-14TJkp0H.mp4"
+            "x": "페이지는 Google Ads 메뉴의 Assets 섹션에 Beta 라벨을 달고 들어가 있다. 카드는 Featured, Asset performance, Asset diversity, Industry trends로 걸러 볼 수 있다. 인공지능을 쓰는 도구라 정보가 부정확할 수 있다는 안내 문구도 뜬다."
           },
           {
             "t": "p",
-            "x": "Brodie는 “모바일에서 Google의 스폰서 결과가 점점 더 생성형으로 바뀌고 있다. 이 사례에는 로딩 애니메이션이 있을 뿐 아니라 광고마다 업체 설명이 따로 붙고, 스폰서 결과 맨 위에는 노출된 브랜드명을 언급하며 각 광고로 가는 링크를 덧붙인 설명이 하나 더 있다”고 썼다."
-          },
-          {
-            "t": "p",
-            "x": "스폰서 광고와 스폰서 상품에서는 이런 모습을 본 적이 있다. 하지만 광고 맨 위에 요약이 붙은 경우는 본 기억이 확실치 않다."
+            "x": "Google은 애셋 단위의 CTR, CPC, CPA, ROAS를 “방향성 지표일 뿐”이라고 표시한다. CTR-based 카드는 헤드라인 테스트를 시작하는 실마리 정도로 쓰고, 결과는 애셋 그룹이나 캠페인 단위에서 따져 보는 편이 낫다. 11월 9일 기준으로 어느 계정에 페이지가 열리는지, 카드를 어떻게 만드는지 설명하는 도움말 페이지나 발표는 나오지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google tests AI summaries\nabove and within search ads",
-          "body": "Google is testing an AI summary of all advertisers' ads above the sponsored block, plus AI summaries under each ad.",
-          "mini_headline": "Google tests AI ad summaries",
+          "headline": "Google Ads tests weekly\nAI notes on ad creative",
+          "body": "Some Google Ads accounts show an Asset activity page with weekly AI insight cards, including headline ideas to test.",
+          "mini_headline": "Google Ads AI creative notes",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Google is testing more AI-generated summaries within its search ads. This one shows AI-generated summaries above the grouping of the sponsored results, summarizing all the ads from all the advertisers, with also AI-generated summaries below each ad description."
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ads-asset-activity-featured-1600x840-1.jpg",
+                "cap": "Mijansk786/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "When the AI-generated summaries are loading, there is the loading animation, to keep us entertained."
+                "x": "Some Google Ads accounts are showing a beta page called Asset activity, which gives advertisers weekly insight cards about their ad creative. Practitioner Anthony Higman posted a screenshot on LinkedIn on Nov. 6; the cards suggest new headline themes, point to top-performing headlines and report an increase in searches for legal consultation guidance."
               },
               {
                 "t": "p",
-                "x": "This was spotted by Brodie Clark who posted this on X and SERP Alert - here is his video:"
-              },
-              {
-                "t": "video",
-                "src": "https://images.seroundtable.com/v-google-ads-ai-generated-summaries-14TJkp0H.mp4"
+                "x": "The page sits in the Assets section of the Google Ads menu with a Beta label. Cards can be filtered by Featured, Asset performance, Asset diversity and Industry trends, and a message warns the tool uses artificial intelligence and could be providing inaccurate information."
               },
               {
                 "t": "p",
-                "x": "Brodie wrote, \"Google’s sponsored results on mobile are increasingly becoming more generative. Not only is there a loading animation for this example, but each individual ad has its own description for the business, and then there’s an additional description at the top of the sponsored results that mentions the brand names that are listed with an additional link to their ads.\""
-              },
-              {
-                "t": "p",
-                "x": "We've seen this before on sponsored ads and sponsored products but I am not sure if we've seen the summary at the top of the ads."
+                "x": "Google lists CTR, CPC, CPA and ROAS at the asset level as “directional indicators only.” Use a CTR-based card as a starting point to test a headline, then review results at the asset group or campaign level. As of Nov. 9, there was no help page or announcement about which accounts receive the page or how the cards are created."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google, 검색 광고에\nAI 요약 시험 중",
-          "body": "Google이 스폰서 광고 위 전체 AI 요약과 광고별 AI 요약을 시험한다.",
-          "mini_headline": "Google, AI 광고 요약 시험",
+          "headline": "Google Ads 주간\nAI 소재 노트 시험",
+          "body": "일부 Google Ads 계정에 제목을 제안하는 주간 AI 카드가 뜨기 시작했다.",
+          "mini_headline": "Google Ads AI 소재 노트",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Google이 검색 광고에 AI-generated 요약을 더 넣는 시험을 하고 있다. 스폰서 결과 묶음 위에는 모든 광고주의 모든 광고를 요약한 AI-generated 요약을, 각 광고 설명 아래에는 광고별 AI-generated 요약을 붙인다."
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ads-asset-activity-featured-1600x840-1.jpg",
+                "cap": "Mijansk786/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "AI-generated 요약을 불러오는 동안에는 지루하지 않게 로딩 애니메이션이 돈다."
+                "x": "일부 Google Ads 계정에 Asset activity라는 베타 페이지가 생겼다. 광고 소재를 다룬 주간 인사이트 카드를 광고주에게 보여 주는 곳이다. 실무자 Anthony Higman이 11월 6일 LinkedIn에 스크린숏을 올렸다. 카드에는 새 헤드라인 주제 제안, 성과가 좋은 헤드라인, 법률 상담 안내 검색이 늘었다는 소식이 담겼다."
               },
               {
                 "t": "p",
-                "x": "Brodie Clark가 이를 발견해 X와 SERP Alert에 올렸다. 아래는 그의 영상이다."
-              },
-              {
-                "t": "video",
-                "src": "https://images.seroundtable.com/v-google-ads-ai-generated-summaries-14TJkp0H.mp4"
+                "x": "페이지는 Google Ads 메뉴의 Assets 섹션에 Beta 라벨을 달고 들어가 있다. 카드는 Featured, Asset performance, Asset diversity, Industry trends로 걸러 볼 수 있다. 인공지능을 쓰는 도구라 정보가 부정확할 수 있다는 안내 문구도 뜬다."
               },
               {
                 "t": "p",
-                "x": "Brodie는 “모바일에서 Google의 스폰서 결과가 점점 더 생성형으로 바뀌고 있다. 이 사례에는 로딩 애니메이션이 있을 뿐 아니라 광고마다 업체 설명이 따로 붙고, 스폰서 결과 맨 위에는 노출된 브랜드명을 언급하며 각 광고로 가는 링크를 덧붙인 설명이 하나 더 있다”고 썼다."
-              },
-              {
-                "t": "p",
-                "x": "스폰서 광고와 스폰서 상품에서는 이런 모습을 본 적이 있다. 하지만 광고 맨 위에 요약이 붙은 경우는 본 기억이 확실치 않다."
+                "x": "Google은 애셋 단위의 CTR, CPC, CPA, ROAS를 “방향성 지표일 뿐”이라고 표시한다. CTR-based 카드는 헤드라인 테스트를 시작하는 실마리 정도로 쓰고, 결과는 애셋 그룹이나 캠페인 단위에서 따져 보는 편이 낫다. 11월 9일 기준으로 어느 계정에 페이지가 열리는지, 카드를 어떻게 만드는지 설명하는 도움말 페이지나 발표는 나오지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google、検索広告に\nAI要約を試験導入",
-          "body": "Googleは全広告主の広告をまとめたAI要約と、各広告下のAI要約をテストしている。",
-          "mini_headline": "Google、AI広告要約をテスト",
+          "headline": "Google Adsが試す\n広告素材の週次AIメモ",
+          "body": "一部のGoogle Adsで、試すべき見出し案を含む週次AIカードが表示される。",
+          "mini_headline": "Google AdsのAIクリエイティブメモ",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Googleは検索広告内でAI-generatedの要約をさらに増やすテストを行っている。今回のテストでは、スポンサー結果のまとまりの上に全広告主の全広告を要約したAI-generatedの要約を表示し、各広告の説明文の下にもAI-generatedの要約を付けている。"
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ads-asset-activity-featured-1600x840-1.jpg",
+                "cap": "Mijansk786/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "AI-generatedの要約を読み込む間は、退屈しないようにローディングアニメーションが表示される。"
+                "x": "一部のGoogle Adsアカウントに、Asset activityというベータ版ページが表示されている。広告主に広告クリエイティブに関する週次のインサイトカードを示すものだ。実務家のAnthony Higmanが11月6日にLinkedInでスクリーンショットを投稿した。カードは新しい見出しのテーマを提案し、成果の高い見出しを示し、法律相談の手引きに関する検索の増加を伝えている。"
               },
               {
                 "t": "p",
-                "x": "これを見つけたのはBrodie Clarkで、XとSERP Alertに投稿した。以下が彼の動画だ。"
-              },
-              {
-                "t": "video",
-                "src": "https://images.seroundtable.com/v-google-ads-ai-generated-summaries-14TJkp0H.mp4"
+                "x": "このページはGoogle AdsメニューのAssetsセクションにあり、Betaラベルが付いている。カードはFeatured、Asset performance、Asset diversity、Industry trendsで絞り込め、このツールは人工知能を使っており不正確な情報を示す可能性があるとの注意書きが出る。"
               },
               {
                 "t": "p",
-                "x": "Brodieは「モバイルでのGoogleのスポンサー結果は、ますます生成的になっている。この例ではローディングアニメーションがあるだけでなく、個々の広告にそれぞれ事業者の説明が付き、さらにスポンサー結果の最上部には掲載ブランド名に触れ、各広告へのリンクを添えた説明が追加されている」と書いた。"
-              },
-              {
-                "t": "p",
-                "x": "スポンサー広告やスポンサー商品ではこれまでにも見たことがあるが、広告の最上部に要約が出る例を見たことがあるかは定かではない。"
+                "x": "Googleは、アセット単位のCTR、CPC、CPA、ROASを「方向性を示す指標にすぎない」としている。CTR-basedのカードは見出しをテストする出発点とし、結果はアセットグループやキャンペーン単位で確認するとよい。11月9日時点で、どのアカウントにこのページが提供されるのか、カードがどう作られるのかについてのヘルプページや発表はなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google测试AI摘要\n置于搜索广告上方及内部",
-          "body": "Google正测试在赞助广告区上方汇总所有广告主的AI摘要，并在每条广告下附AI摘要。",
-          "mini_headline": "Google测试AI广告摘要",
+          "headline": "Google Ads测试\n每周AI创意笔记",
+          "body": "部分Google Ads账户出现每周AI洞察卡片，并附可测试的标题建议。",
+          "mini_headline": "Google Ads AI创意笔记",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Google正在测试在搜索广告中加入更多AI-generated摘要。这次测试在赞助结果分组上方显示AI-generated摘要，汇总所有广告主的全部广告，同时在每条广告描述下方也附上AI-generated摘要。"
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ads-asset-activity-featured-1600x840-1.jpg",
+                "cap": "Mijansk786/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "AI-generated摘要加载时，会出现加载动画，让人不至于无聊。"
+                "x": "部分Google Ads账户出现了一个名为Asset activity的测试版页面，每周向广告主提供有关广告创意的洞察卡片。从业者Anthony Higman于11月6日在LinkedIn上发布了截图；这些卡片会建议新的标题主题，指出表现最好的标题，并报告法律咨询指南相关搜索的增长。"
               },
               {
                 "t": "p",
-                "x": "这一测试由Brodie Clark发现，他将其发布在X和SERP Alert上，以下是他的视频："
-              },
-              {
-                "t": "video",
-                "src": "https://images.seroundtable.com/v-google-ads-ai-generated-summaries-14TJkp0H.mp4"
+                "x": "该页面位于Google Ads菜单的Assets部分，带有Beta标签。卡片可按Featured、Asset performance、Asset diversity和Industry trends筛选，页面还提示该工具使用人工智能，可能提供不准确的信息。"
               },
               {
                 "t": "p",
-                "x": "Brodie写道：“Google在移动端的赞助结果正变得越来越生成化。这个例子不仅有加载动画，每条广告还有各自的商家描述，赞助结果顶部还另有一段描述，提及所列品牌名称，并附上指向其广告的额外链接。”"
-              },
-              {
-                "t": "p",
-                "x": "我们以前在赞助广告和赞助商品中见过这种形式，但不确定是否见过广告顶部的摘要。"
+                "x": "Google将素材层级的CTR、CPC、CPA和ROAS标注为“仅供方向参考的指标”。可以把CTR-based卡片作为测试标题的起点，再在素材组或广告系列层级查看结果。截至11月9日，尚无帮助页面或公告说明哪些账户会获得该页面，以及卡片如何生成。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google prueba resúmenes AI\nsobre y dentro de anuncios",
-          "body": "Google prueba sobre el bloque patrocinado un resumen AI de todos los anuncios, y otro bajo cada anuncio.",
-          "mini_headline": "Google prueba resúmenes AI en anuncios",
+          "headline": "Google Ads prueba notas\nsemanales de AI sobre anuncios",
+          "body": "Algunas cuentas de Google Ads muestran una página Asset activity con tarjetas semanales de AI e ideas de titulares.",
+          "mini_headline": "Notas de AI de Google Ads sobre creatividades",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Google está probando más resúmenes AI-generated dentro de sus anuncios de búsqueda. Esta prueba muestra resúmenes AI-generated sobre el grupo de resultados patrocinados, que resumen todos los anuncios de todos los anunciantes, además de resúmenes AI-generated bajo la descripción de cada anuncio."
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ads-asset-activity-featured-1600x840-1.jpg",
+                "cap": "Mijansk786/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Mientras se cargan los resúmenes AI-generated, aparece una animación de carga para entretenernos."
+                "x": "Algunas cuentas de Google Ads muestran una página beta llamada Asset activity, que ofrece a los anunciantes tarjetas semanales con información sobre sus creatividades. El profesional Anthony Higman publicó una captura de pantalla en LinkedIn el 6 de noviembre; las tarjetas sugieren nuevos temas de titulares, señalan los titulares con mejor rendimiento e informan de un aumento de búsquedas de orientación sobre consultas legales."
               },
               {
                 "t": "p",
-                "x": "Lo detectó Brodie Clark, que lo publicó en X y en SERP Alert; este es su video:"
-              },
-              {
-                "t": "video",
-                "src": "https://images.seroundtable.com/v-google-ads-ai-generated-summaries-14TJkp0H.mp4"
+                "x": "La página está en la sección Assets del menú de Google Ads, con una etiqueta Beta. Las tarjetas se pueden filtrar por Featured, Asset performance, Asset diversity e Industry trends, y un mensaje advierte que la herramienta usa inteligencia artificial y podría ofrecer información inexacta."
               },
               {
                 "t": "p",
-                "x": "Brodie escribió: «Los resultados patrocinados de Google en móviles son cada vez más generativos. En este ejemplo no solo hay una animación de carga, sino que cada anuncio tiene su propia descripción del negocio, y además hay una descripción adicional en la parte superior de los resultados patrocinados que menciona las marcas listadas con un enlace adicional a sus anuncios»."
-              },
-              {
-                "t": "p",
-                "x": "Ya lo habíamos visto en anuncios patrocinados y productos patrocinados, pero no estoy seguro de haber visto el resumen en la parte superior de los anuncios."
+                "x": "Google presenta CTR, CPC, CPA y ROAS a nivel de recurso como “solo indicadores orientativos”. Conviene usar una tarjeta CTR-based como punto de partida para probar un titular y luego revisar los resultados a nivel de grupo de recursos o de campaña. Al 9 de noviembre no había página de ayuda ni anuncio sobre qué cuentas reciben la página ni cómo se crean las tarjetas."
               }
             ]
           }
@@ -1485,137 +1393,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google, 검색 광고에\nAI 요약 시험 중",
-          "body": "Google이 스폰서 광고 위 전체 AI 요약과 광고별 AI 요약을 시험한다.",
-          "mini_headline": "Google, AI 광고 요약 시험",
+          "headline": "Google Ads 주간\nAI 소재 노트 시험",
+          "body": "일부 Google Ads 계정에 제목 제안이 담긴 주간 AI 카드가 뜬다.",
+          "mini_headline": "Google Ads AI 소재 노트",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Google이 검색 광고 안에 AI-generated 요약을 더 늘리는 시험을 하고 있다. 이번 테스트는 스폰서 결과 묶음 위에 모든 광고주의 모든 광고를 요약한 AI-generated 요약을 보여주고, 각 광고 설명 아래에도 AI-generated 요약을 붙인다."
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ads-asset-activity-featured-1600x840-1.jpg",
+                "cap": "Mijansk786/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "AI-generated 요약이 로딩되는 동안에는 지루하지 않도록 로딩 애니메이션이 나온다."
+                "x": "일부 Google Ads 계정에 Asset activity라는 베타 페이지가 나타났다. 광고 소재에 관한 주간 인사이트 카드를 광고주에게 제공하는 페이지다. 실무자 Anthony Higman이 11월 6일 LinkedIn에 스크린숏을 올렸다. 카드는 새 헤드라인 주제를 제안하고, 성과가 좋은 헤드라인을 짚어 주며, 법률 상담 안내 검색이 늘었다고 알려 준다."
               },
               {
                 "t": "p",
-                "x": "이를 발견한 Brodie Clark가 X와 SERP Alert에 올렸다. 아래는 그의 영상이다."
-              },
-              {
-                "t": "video",
-                "src": "https://images.seroundtable.com/v-google-ads-ai-generated-summaries-14TJkp0H.mp4"
+                "x": "이 페이지는 Google Ads 메뉴의 Assets 섹션에 Beta 라벨을 달고 있다. 카드는 Featured, Asset performance, Asset diversity, Industry trends로 거를 수 있으며, 이 도구가 인공지능을 사용해 부정확한 정보를 제공할 수 있다는 안내 문구가 뜬다."
               },
               {
                 "t": "p",
-                "x": "Brodie는 “모바일에서 Google의 스폰서 결과가 점점 더 생성형으로 바뀌고 있다. 이 사례에는 로딩 애니메이션이 있을 뿐 아니라 광고마다 업체 설명이 따로 붙고, 스폰서 결과 맨 위에는 노출된 브랜드명을 언급하며 각 광고로 가는 링크를 덧붙인 설명이 하나 더 있다”고 썼다."
-              },
-              {
-                "t": "p",
-                "x": "스폰서 광고와 스폰서 상품에서는 이런 모습을 본 적이 있지만, 광고 맨 위에 요약이 붙은 경우를 본 적이 있는지는 확실하지 않다."
+                "x": "Google은 애셋 단위의 CTR, CPC, CPA, ROAS를 “방향성 지표일 뿐”이라고 표시한다. CTR-based 카드는 헤드라인 테스트의 출발점으로 삼고, 결과는 애셋 그룹이나 캠페인 단위에서 검토하는 편이 좋다. 11월 9일 기준으로 어떤 계정에 이 페이지가 제공되는지, 카드가 어떻게 만들어지는지에 대한 도움말 페이지나 발표는 없었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google、検索広告に\nAI要約を試験導入",
-          "body": "Googleは全広告主の広告をまとめたAI要約と、各広告下のAI要約をテストしている。",
-          "mini_headline": "Google、AI広告要約をテスト",
+          "headline": "Google Adsが試す\n広告素材の週次AIメモ",
+          "body": "一部のGoogle Adsで、試すべき見出し案を含む週次AIカードが表示される。",
+          "mini_headline": "Google AdsのAIクリエイティブメモ",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Googleは検索広告内でAI-generatedの要約をさらに増やすテストを行っている。今回のテストでは、スポンサー結果のまとまりの上に全広告主の全広告を要約したAI-generatedの要約を表示し、各広告の説明文の下にもAI-generatedの要約を付けている。"
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ads-asset-activity-featured-1600x840-1.jpg",
+                "cap": "Mijansk786/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "AI-generatedの要約を読み込む間は、退屈しないようにローディングアニメーションが表示される。"
+                "x": "一部のGoogle Adsアカウントに、Asset activityというベータ版ページが表示されている。広告主に広告クリエイティブに関する週次のインサイトカードを示すものだ。実務家のAnthony Higmanが11月6日にLinkedInでスクリーンショットを投稿した。カードは新しい見出しのテーマを提案し、成果の高い見出しを示し、法律相談の手引きに関する検索の増加を伝えている。"
               },
               {
                 "t": "p",
-                "x": "これを見つけたのはBrodie Clarkで、XとSERP Alertに投稿した。以下が彼の動画だ。"
-              },
-              {
-                "t": "video",
-                "src": "https://images.seroundtable.com/v-google-ads-ai-generated-summaries-14TJkp0H.mp4"
+                "x": "このページはGoogle AdsメニューのAssetsセクションにあり、Betaラベルが付いている。カードはFeatured、Asset performance、Asset diversity、Industry trendsで絞り込め、このツールは人工知能を使っており不正確な情報を示す可能性があるとの注意書きが出る。"
               },
               {
                 "t": "p",
-                "x": "Brodieは「モバイルでのGoogleのスポンサー結果は、ますます生成的になっている。この例ではローディングアニメーションがあるだけでなく、個々の広告にそれぞれ事業者の説明が付き、さらにスポンサー結果の最上部には掲載ブランド名に触れ、各広告へのリンクを添えた説明が追加されている」と書いた。"
-              },
-              {
-                "t": "p",
-                "x": "スポンサー広告やスポンサー商品ではこれまでにも見たことがあるが、広告の最上部に要約が出る例を見たことがあるかは定かではない。"
+                "x": "Googleは、アセット単位のCTR、CPC、CPA、ROASを「方向性を示す指標にすぎない」としている。CTR-basedのカードは見出しをテストする出発点とし、結果はアセットグループやキャンペーン単位で確認するとよい。11月9日時点で、どのアカウントにこのページが提供されるのか、カードがどう作られるのかについてのヘルプページや発表はなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google测试AI摘要\n置于搜索广告上方及内部",
-          "body": "Google正测试在赞助广告区上方汇总所有广告主的AI摘要，并在每条广告下附AI摘要。",
-          "mini_headline": "Google测试AI广告摘要",
+          "headline": "Google Ads测试\n每周AI创意笔记",
+          "body": "部分Google Ads账户出现每周AI洞察卡片，并附可测试的标题建议。",
+          "mini_headline": "Google Ads AI创意笔记",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Google正在测试在搜索广告中加入更多AI-generated摘要。这次测试在赞助结果分组上方显示AI-generated摘要，汇总所有广告主的全部广告，同时在每条广告描述下方也附上AI-generated摘要。"
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ads-asset-activity-featured-1600x840-1.jpg",
+                "cap": "Mijansk786/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "AI-generated摘要加载时，会出现加载动画，让人不至于无聊。"
+                "x": "部分Google Ads账户出现了一个名为Asset activity的测试版页面，每周向广告主提供有关广告创意的洞察卡片。从业者Anthony Higman于11月6日在LinkedIn上发布了截图；这些卡片会建议新的标题主题，指出表现最好的标题，并报告法律咨询指南相关搜索的增长。"
               },
               {
                 "t": "p",
-                "x": "这一测试由Brodie Clark发现，他将其发布在X和SERP Alert上，以下是他的视频："
-              },
-              {
-                "t": "video",
-                "src": "https://images.seroundtable.com/v-google-ads-ai-generated-summaries-14TJkp0H.mp4"
+                "x": "该页面位于Google Ads菜单的Assets部分，带有Beta标签。卡片可按Featured、Asset performance、Asset diversity和Industry trends筛选，页面还提示该工具使用人工智能，可能提供不准确的信息。"
               },
               {
                 "t": "p",
-                "x": "Brodie写道：“Google在移动端的赞助结果正变得越来越生成化。这个例子不仅有加载动画，每条广告还有各自的商家描述，赞助结果顶部还另有一段描述，提及所列品牌名称，并附上指向其广告的额外链接。”"
-              },
-              {
-                "t": "p",
-                "x": "我们以前在赞助广告和赞助商品中见过这种形式，但不确定是否见过广告顶部的摘要。"
+                "x": "Google将素材层级的CTR、CPC、CPA和ROAS标注为“仅供方向参考的指标”。可以把CTR-based卡片作为测试标题的起点，再在素材组或广告系列层级查看结果。截至11月9日，尚无帮助页面或公告说明哪些账户会获得该页面，以及卡片如何生成。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google prueba resúmenes AI\nsobre y dentro de anuncios",
-          "body": "Google prueba sobre el bloque patrocinado un resumen AI de todos los anuncios, y otro bajo cada anuncio.",
-          "mini_headline": "Google prueba resúmenes AI en anuncios",
+          "headline": "Google Ads prueba notas\nsemanales de AI sobre anuncios",
+          "body": "Algunas cuentas de Google Ads muestran una página Asset activity con tarjetas semanales de AI e ideas de titulares.",
+          "mini_headline": "Notas de AI de Google Ads sobre creatividades",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Google está probando más resúmenes AI-generated dentro de sus anuncios de búsqueda. Esta prueba muestra resúmenes AI-generated sobre el grupo de resultados patrocinados, que resumen todos los anuncios de todos los anunciantes, además de resúmenes AI-generated bajo la descripción de cada anuncio."
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ads-asset-activity-featured-1600x840-1.jpg",
+                "cap": "Mijansk786/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Mientras se cargan los resúmenes AI-generated, aparece una animación de carga para entretenernos."
+                "x": "Algunas cuentas de Google Ads muestran una página beta llamada Asset activity, que ofrece a los anunciantes tarjetas semanales con información sobre sus creatividades. El profesional Anthony Higman publicó una captura de pantalla en LinkedIn el 6 de noviembre; las tarjetas sugieren nuevos temas de titulares, señalan los titulares con mejor rendimiento e informan de un aumento de búsquedas de orientación sobre consultas legales."
               },
               {
                 "t": "p",
-                "x": "Lo detectó Brodie Clark, que lo publicó en X y en SERP Alert; este es su video:"
-              },
-              {
-                "t": "video",
-                "src": "https://images.seroundtable.com/v-google-ads-ai-generated-summaries-14TJkp0H.mp4"
+                "x": "La página está en la sección Assets del menú de Google Ads, con una etiqueta Beta. Las tarjetas se pueden filtrar por Featured, Asset performance, Asset diversity e Industry trends, y un mensaje advierte que la herramienta usa inteligencia artificial y podría ofrecer información inexacta."
               },
               {
                 "t": "p",
-                "x": "Brodie escribió: «Los resultados patrocinados de Google en móviles son cada vez más generativos. En este ejemplo no solo hay una animación de carga, sino que cada anuncio tiene su propia descripción del negocio, y además hay una descripción adicional en la parte superior de los resultados patrocinados que menciona las marcas listadas con un enlace adicional a sus anuncios»."
-              },
-              {
-                "t": "p",
-                "x": "Ya lo habíamos visto en anuncios patrocinados y productos patrocinados, pero no estoy seguro de haber visto el resumen en la parte superior de los anuncios."
+                "x": "Google presenta CTR, CPC, CPA y ROAS a nivel de recurso como “solo indicadores orientativos”. Conviene usar una tarjeta CTR-based como punto de partida para probar un titular y luego revisar los resultados a nivel de grupo de recursos o de campaña. Al 9 de noviembre no había página de ayuda ni anuncio sobre qué cuentas reciben la página ni cómo se crean las tarjetas."
               }
             ]
           }

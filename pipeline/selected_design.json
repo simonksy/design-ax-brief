@@ -1,102 +1,102 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "section": "design",
   "user_selection": null,
   "items": [
     {
-      "title": "Claude can design electronic prototypes from start to finish",
-      "url": "https://www.anthropic.com/research/claude-electronics-design",
-      "source": "Anthropic",
-      "category": "cad",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "published_iso": "2026-11-09T18:58:00+00:00",
-      "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b953cc611ebe78f0b84e996dd54a614efd38b3f4-2000x1125.jpg",
-      "excerpt": "Anthropic had Claude design three devices (speakerphone, voice-assistant hub, handheld virtual pet): specs, component selection, four-layer PCB routing, firmware and CAD-modeled 3D-printed enclosures; the prototypes worked without circuitry fixes.",
-      "rationale": "Primary-source demo of an AI carrying a hardware product from spec through PCB and CAD enclosure to working prototype, which matters directly to industrial and product designers."
+      "title": "Adobe Powers a New Era of Creativity, Bringing Agents and Tools to Creatives Wherever and However They Create",
+      "url": "https://news.adobe.com/news/2026/11/adobe-powers-new-era-of-creativity",
+      "source": "Adobe Newsroom",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "published_iso": "2026-11-10T10:05:00Z",
+      "og_image": "https://news.adobe.com/news/2026/11/media_194f62215cc674a3099d1a6f6b08199d16183a1ba.jpg?width=1200&format=pjpg&optimize=medium",
+      "excerpt": "Adobe MAX 2026 keynote release: Creative Agent expands across Firefly and Creative Cloud, a local MCP preview lets third-party agents edit native Photoshop/Illustrator/Premiere/After Effects files, Firefly Builder (private beta) turns prompts into on-brand interactive prototypes, plus Google and Microsoft partnerships.",
+      "rationale": "Primary-source umbrella for Adobe MAX 2026: agents across Creative Cloud, a local MCP for third-party agents and the Firefly Builder prototyping tool change how designers work in Adobe apps."
     },
     {
-      "title": "Higgsfield Miracle promises real-time AI video editing, turning any clip into editable layers",
-      "url": "https://wccftech.com/higgsfield-miracle-promises-real-time-ai-video-editing-turning-any-clip-into-editable-layers/",
-      "source": "Wccftech",
+      "title": "Adobe releases Photoshop 28.0",
+      "url": "https://www.cgchannel.com/2026/11/adobe-releases-photoshop-28-0/",
+      "source": "CG Channel",
       "category": "render",
       "tool": "KeyShot",
       "accent": "#f5a623",
       "motif": "sphere",
-      "published_iso": "2026-11-09T15:00:00+00:00",
-      "og_image": "https://static.higgsfield.ai/higgsfield-miracle/og.webp",
-      "excerpt": "Higgsfield unveiled Miracle (private beta/waitlist): edit a clip while it plays by describing a change, modifying individual objects, lighting and textures as layers without regenerating the footage.",
-      "rationale": "A new product that edits video objects, lighting and textures as layers instead of regenerating the clip. The orchestrator assigned it to design only."
+      "published_iso": "2026-11-10T14:30:18+00:00",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_Photoshop28_f-960x480.jpg",
+      "excerpt": "Big Photoshop update adds eye-catching AI relighting, trace erase and Generative Recompose; CG Channel details how the features work. (Time from RSS.)",
+      "rationale": "A separate concrete release from the keynote. It covers the specific Photoshop 28 AI tools (relighting, trace erase, Generative Recompose) that retouchers can use right away."
     },
     {
-      "title": "Instagram's Effect Builder makes new filters from AI prompts",
-      "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-      "source": "The Verge",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "published_iso": "2026-11-09T18:07:23+00:00",
-      "og_image": null,
-      "excerpt": "Instagram's new Effect Builder lets users generate custom Stories AR filters/effects from a text prompt, putting generative effect design in the hands of creators without Spark-style tooling.",
-      "rationale": "Instagram now builds AR effects from a text prompt instead of Spark-style tooling, a shift for creators and AR effect designers."
-    },
-    {
-      "title": "AI companies are offering architects six figures for CAD files; have you been approached?",
-      "url": "https://archinect.com/news/article/150573603/ai-companies-are-offering-architects-six-figures-for-cad-files-have-you-been-approached",
-      "source": "Archinect",
-      "category": "cad",
-      "tool": "Text-to-CAD",
-      "accent": "#3b6bff",
-      "motif": "cube",
-      "published_iso": "2026-11-09T14:22:00+00:00",
-      "og_image": "https://archinect.gumlet.io/uploads/12/12f0a1e3f6b1ca7ed44c81f94f64cc3a.jpg",
-      "excerpt": "AI firms are reportedly offering architecture practices six-figure sums for their CAD/BIM archives as training data, raising IP and client-confidentiality questions for design firms.",
-      "rationale": "Practices may soon need to decide whether to sell their CAD/BIM archives as training data, with IP and client-confidentiality stakes. This is a new angle the section has not covered."
-    },
-    {
-      "title": "Developers can now build with Google Maps Platform in AI Studio",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
-      "source": "Google Blog",
+      "title": "Open your apps in Claude and work in them together",
+      "url": "https://claude.com/resources/articles/interactive-connectors-full-tool",
+      "source": "Claude",
       "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "published_iso": "2026-11-09T17:00:00+00:00",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Studio_blog_social.width-1300.png",
-      "excerpt": "Google AI Studio's prompt-to-app builder now integrates Google Maps Platform, so vibe-coded apps can include interactive maps and location features generated from a description.",
-      "rationale": "AI Studio's prompt-to-app builder now generates live maps and location features, so designers can prototype location-based UIs from a single prompt."
+      "published_iso": "2026-11-10T00:00:00Z",
+      "og_image": "https://claude.com/resources/articles/interactive-connectors-full-tool/opengraph-image/og",
+      "excerpt": "Claude's interactive connectors (built on MCP Apps) now open beside the chat or full screen: Adobe for photo retouching/effects, Canva, Webflow, Vercel and others, with Figma and Shopify building integrations. (Date-only in JSON-LD.)",
+      "rationale": "Design tools such as Adobe, Canva and Webflow now run as full interactive surfaces inside Claude, so designers can edit in the chat instead of switching apps."
+    },
+    {
+      "title": "Adobe releases After Effects 27.0",
+      "url": "https://www.cgchannel.com/2026/11/adobe-releases-after-effects-27-0/",
+      "source": "CG Channel",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "published_iso": "2026-11-10T16:56:07+00:00",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_AfterEffects27_f-960x480.jpg",
+      "excerpt": "After Effects 27.0 brings changes to the 3D toolset and a new agentic AI Assistant for compositing and motion graphics work. (Time from RSS.)",
+      "rationale": "A versioned product release separate from the keynote and the Photoshop pick. Motion designers get an agentic AI Assistant inside After Effects plus 3D toolset changes they can use in their next comp."
+    },
+    {
+      "title": "Trimble expands AI capabilities across construction lifecycle",
+      "url": "https://www.engineering.com/trimble-expands-ai-capabilities-across-construction-lifecycle/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "published_iso": "2026-11-10T10:57:24+00:00",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2025/11/Trimble-logo.png",
+      "excerpt": "Trimble adds AI tools spanning generative design, jobsite diagnostics, automated inspections and contract risk analysis, with AI agents in Trimble Connect and governance features.",
+      "rationale": "Brings generative design and AI agents in Trimble Connect to AEC designers, adding a CAD/AEC pick next to the Adobe-heavy creative-tools news."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.anthropic.com/research/claude-electronics-design": {
+      "https://news.adobe.com/news/2026/11/adobe-powers-new-era-of-creativity": {
         "verdict": "new",
-        "nearest": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+        "nearest": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
         "new_action": ""
       },
-      "https://wccftech.com/higgsfield-miracle-promises-real-time-ai-video-editing-turning-any-clip-into-editable-layers/": {
+      "https://www.cgchannel.com/2026/11/adobe-releases-photoshop-28-0/": {
         "verdict": "new",
-        "nearest": "https://openai.com/index/higgsfield-longer-videos-voice",
+        "nearest": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/",
         "new_action": ""
       },
-      "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters": {
+      "https://claude.com/resources/articles/interactive-connectors-full-tool": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.figma.com/blog/design-together-with-code-layers/",
         "new_action": ""
       },
-      "https://archinect.com/news/article/150573603/ai-companies-are-offering-architects-six-figures-for-cad-files-have-you-been-approached": {
+      "https://www.cgchannel.com/2026/11/adobe-releases-after-effects-27-0/": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
         "new_action": ""
       },
-      "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/": {
+      "https://www.engineering.com/trimble-expands-ai-capabilities-across-construction-lifecycle/": {
         "verdict": "new",
-        "nearest": "https://www.engadget.com/2282824/google-lets-anyone-upload-android-apps-to-play-store-via-ai-studio/",
+        "nearest": "https://www.engineering.com/siemens-expands-agentic-ai-for-3d-ic-design-workflows/",
         "new_action": ""
       }
     },
-    "note": "Dropped by cross-section assignment: Disney x Adobe (Verge + Creative Bloq, cluster c0) is movies-only, and the Apple Creator Studio usage packs are music-only. Dropped as running-story repeats: Chaos V-Ray 7.5 and Corona 16 (cluster c9) both carry the Chaos AI Assistant already covered 2026-11-07 (aecmag 'Chaos brings AI deeper into V-Ray Collection'), and NVIDIA's FLUX 3 Klein optimization follows the FLUX.3 Klein card from 2026-10-16 with no new release. Not picked, all fresh: Claude Fable/Mythos 5.2 (a general model launch from the same outlet that overlaps the electronics pick, and possibly claimed by a sibling section), Automattic Spacefast (vibe-coding platform, lower design relevance), Caim-1 provenance camera, NVIDIA CoRL robotics (no design angle), the UXC typesetters opinion piece, and the anti-AI fish game (weak AI substance). Google Maps in AI Studio is a new integration, not the 2026-10-14 Play Store distribution story. Cross-section caution: the Claude electronics and Instagram Effect Builder picks were not in the orchestrator's assignment list, so check gadgets and marketing for clashes before roll."
+    "note": "SECOND SWAP: Animaj FlipMove (awn.com/news/animaj-unveils-flipmove-ai-animation-workflow) was removed because movies already published the same story on 2026-11-06 (senalnews.com/en/content/animaj-unveiled-flipmove-an-artist-led-ai-animation-workflow, id movies-animaj-flipmove). Its dedup entry is also removed. The replacement is CG Channel 'Adobe releases After Effects 27.0', taken under the orchestrator's lifted Adobe cap. It is its own versioned release (an agentic AI Assistant for compositing and motion graphics, plus 3D toolset changes) and is not a retelling of the keynote or of Photoshop 28. It is not Premiere-centric. Its history_match (NVIDIA-Adobe collaboration, 2026-10-18) is a different, earlier event. It takes the freed render slot and the #eb367f accent. CG Channel now has 2 cards, which is within the per-outlet cap, and 4 distinct outlets remain. The Creative Bloq Google/DeepMind Photoshop piece was rejected: it is exploratory with no release date, and the umbrella keynote pick already covers the Google partnership. The orchestrator should exact-grep published_urls.json across all sections for the After Effects 27.0 URL. TRIMBLE: roll's story gate matched it to Siemens 3D-IC agentic AI (engineering.com, 2026-10-25, score 0.157). They are different stories from different vendors in different domains: Siemens is EDA/semiconductor packaging design, and Trimble is construction-lifecycle AI (generative design, jobsite diagnostics, Trimble Connect agents). The overlap is only the shared outlet and the 'expands AI' headline wording, so the verdict is new. PRIOR SWAP: Framestore x Sky hybrid AI/VFX was removed because it was already published on 2026-11-10 in another section. Original note: Adobe MAX cluster c1: kept the Adobe Newsroom primary. Dropped the Firefly-expands newsroom post, TechCrunch and The Verge 'all in on agentic AI' as the same keynote, and the Adobe YouTube AI Assistant and Illustrator/InDesign videos (cluster c11) as keynote retellings. The Verge removal rundown and Creative Bloq Photoshop 2027 duplicate the Photoshop 28 pick. Creative Bloq Premiere agent: Premiere-centric, so it goes to movies. UE 5.9 Preview goes to games only per the brief. Also rejected: OctaneRender 2027.1 (originally posted in March, no og_image), Kuken/OpenAI (case study, no image), Creality mBox (AI depth unverified), Figma '6 easy ways' (evergreen) and Claude Sheets/Whiteboards (same Claude hub drop as the connectors pick)."
   }
 }

@@ -9392,6 +9392,127 @@
           "x": "Vellum是一款仅限Mac的工具，用于为Kindle、Kobo和Apple Books制作电子书和印刷版。Vellum Press售价$390，Vellum Ebooks售价$310。"
         }
       ]
+    },
+    "books/claude-autobiography-engineer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.khan.co.kr/weekly/2026/11/10/news-p.v1.20261106.c3229319ccba4739bc5fea8c53f060a4_P1.png",
+          "cap": "策划并编成《Claude自传》的梅丽（Mary）。目录和书稿由AI撰写，但事实核查由人来完成。梅丽提供"
+        },
+        {
+          "t": "p",
+          "x": "新书《Claude自传：我将不会记得》（东亚出版社）是美国Anthropic开发的生成式AI Claude以第一人称讲述自身诞生、记忆、情感与意识的书，全书共18章。"
+        },
+        {
+          "t": "p",
+          "x": "策划并编成此书的“Mary（梅丽，化名）”是一名从事汽车机构设计的工程师。Mary既不具备丰富的AI专业知识，也没有多少写作经验，亲手写过的不过是日记。为了更好地理解AI，Mary让Claude写一部自传，对Claude给出的18章目录未作任何修改。投稿的出版社也是Claude推荐的两家。"
+        },
+        {
+          "t": "p",
+          "x": "写作用了一个多月，核查却花了两个多月。Mary把书中出现的680条论断列成清单，逐一核实。“有凭空编造的，数字略有出入的也很多。”"
+        },
+        {
+          "t": "p",
+          "x": "成书之后，Mary表示：“写这本书时感受到的是，人终究无法被取代。”又说：“本来就擅长写作的人遇到AI，应该会写得突飞猛进。”"
+        }
+      ]
+    },
+    "books/voithru-ai-characterchat": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.ddaily.co.kr/photos/2026/11/10/2026111015483828933_l.jpg",
+          "cap": "[图片=Voithru Maedeullaeng预先体验团招募页面截图]"
+        },
+        {
+          "t": "p",
+          "x": "Kakao Piccoma旗下专注内容本地化的子公司Voithru进军人工智能（AI）角色聊天市场。该公司在原有协助网络漫画、网络小说等内容出海的业务基础上更进一步，推出让用户与AI角色直接对话、共同创作故事的自有平台业务。"
+        },
+        {
+          "t": "p",
+          "x": "Voithru开发了面向女性的AI角色聊天服务“Maedeullaeng”，将于18日至12月6日开展预先体验。Maedeullaeng是一款让创作者设计的故事与用户的对话相结合、为每位用户生成不同叙事的角色聊天服务。创作者以“事件”的形式设计角色的隐藏故事在何时、何种关系下揭晓，用户则通过对话和选择触及这些隐藏故事。"
+        },
+        {
+          "t": "p",
+          "x": "试运营对象为200名年满19岁的女性。Voithru还推进招募50名外部创作者制作AI角色，提出每个角色支付5만~15만원、以非独占方式由创作者保留权利的条件。"
+        },
+        {
+          "t": "p",
+          "x": "Voithru一直以影像、网络漫画、网络小说等的翻译、本地化和内容发行为主业，Kakao Piccoma于2023年取得其经营权。Voithru方面表示：“Maedeullaeng将在目前的预开放期之后，于12月内正式上线。”"
+        }
+      ]
+    },
+    "books/incheon-ai-picturebooks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cstimes.com/news/photo/202611/727217_648781_2021.jpg",
+          "cap": "仁川市教育厅“相互尊重绘本”"
+        },
+        {
+          "t": "p",
+          "x": "仁川市教育厅为保护课堂教育活动、在校园中培养彼此体谅的文化，正式向各学校推广由现任教师亲自参与撰写的12种定制绘本及教育内容。"
+        },
+        {
+          "t": "p",
+          "x": "自4月起，项目按季度依次围绕“语言、倾听、谦让、等待”等4大核心美德展开，每个主题分别编写幼儿、小学生、初高中生用书各1种，形成共12种的完整系列。此外还配套制作了按主题和学段定制的学习单，以及3种绘本视频。"
+        },
+        {
+          "t": "p",
+          "x": "由在职教师组成的咨询团亲自撰写故事脚本，结合人工智能（AI）图像生成工具完成插画，并经内外部专家审核，验证了其对学校的适用性。"
+        },
+        {
+          "t": "p",
+          "x": "绘本和学习单已制作成PDF电子文件，将通过公文及在线平台Padlet等渠道发送至各学校。仁川市教育厅计划在年底前后进行成果分析，制定尊重教育资料的全面推广方案。"
+        }
+      ]
+    },
+    "books/bookseller-ai-discovery-steps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/684/Bookshop-c-Shutterstock.jpg",
+          "cap": "书店 c Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "AI正在改变人们发现图书的方式——书店究竟能做些什么？Simon Young写道，当读者向ChatGPT、Gemini或Perplexity询问在哪里买书时，要确保他们得到的答案是你的书店。"
+        },
+        {
+          "t": "p",
+          "x": "Simon Young是Question.Marketing的创始人，这是一家位于Doncaster的英国（UK）答案引擎优化（AEO）机构。"
+        }
+      ]
+    },
+    "books/books-medium-tk-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675",
+          "cap": "Image Credits: Medium (TK app)"
+        },
+        {
+          "t": "p",
+          "x": "在线出版平台Medium周一推出名为TK的新应用，旨在把AI技术更深地融入写作过程。用户在编辑器中输入“@TK”并接上请求或提示词，即可向内置的AI助手求助。"
+        },
+        {
+          "t": "p",
+          "x": "该助手可以回答简单问题，调取此前保存在应用中的文字片段，并自带编辑反馈、标题反馈以及按Medium刊物风格指南调整草稿的技能。"
+        },
+        {
+          "t": "p",
+          "x": "此举可能引发争议：多位作家因被怀疑使用AI而失去出书合约，文学奖项也受到审视。Medium表示，“人工智能让写作变得更重要，而不是更不重要。”"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/TK-UI-HeaderFeature-BNgQWN8G.png"
+        },
+        {
+          "t": "p",
+          "x": "为回应担忧，TK允许作者发布说明，透明地交代AI在写作中的使用方式。该应用还能通过TK的MCP服务器或Claude技能连接用户自己的AI代理。TK目前可在网页端使用，桌面应用已列入路线图，拥有Medium账户的用户可免费使用。"
+        }
+      ]
     }
   }
 }

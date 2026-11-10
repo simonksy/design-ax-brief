@@ -10441,6 +10441,136 @@
           "x": "Bulkhead CEO Joe Brammer表示：“为了训练模型，我们需要让作弊者经历打磨和调整外挂的过程，以便观察它们如何演变。”他说，该系统无法彻底消灭作弊者，但工作室有信心在Season 3于11月12日上线时带来更好的游戏体验。"
         }
       ]
+    },
+    "games/househouse-bigwalk-igf-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "图片来源：House House/Panic"
+        },
+        {
+          "t": "p",
+          "x": "House House澄清称，在Big Walk“开发的最后阶段”，他们“有节制地”使用了AI工具，以解决“棘手的技术难题和bug”。此前，2027 Independent Games Festival（IGF）的一批评审表示，不会投票给任何使用生成式AI开发的游戏。"
+        },
+        {
+          "t": "p",
+          "x": "工作室表示，他们用LLM聊天机器人研究第三方代码的问题：“我们估计，Big Walk中与此相关的代码远低于0.1%。”其中一项修复针对Unity URP的阴影投射器——它曾让游戏在日出和日落时约20秒内运行速度慢50%——“大约相当于URP内部的10行代码”。"
+        },
+        {
+          "t": "p",
+          "x": "“无论多么少量，这都不是在为使用AI工具背书或辩护，”开发者表示。“Big Walk在开发时没有内部AI使用政策，我们认为缺乏这样的政策是一种失败。”"
+        }
+      ]
+    },
+    "games/pcot-japanese-localization-end": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-header.jpg"
+        },
+        {
+          "t": "p",
+          "x": "个人开发者ぬるっぽ于11月10日宣布，翻译辅助工具“PCOT”的开发将在目前手头的更新完成后结束。PCOT是一款自2020年起免费公开的PC翻译辅助工具，借助OCR技术从游戏画面中提取所选区域的文字并进行翻译。2025年4月，它接入了Gemini，识别和翻译精度大幅提升。"
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-001-1080x560.jpg"
+        },
+        {
+          "t": "p",
+          "x": "该开发者解释称，随着AI的进化，已经能看到玩家自己直接把游戏日语化的未来，这款工具的使命也告一段落。应用的公开和bug维护今后仍将继续。该开发者表示，并不为开发结束而难过，反而由衷高兴玩家借助AI就能用日语玩游戏的时代已经到来。"
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-002-1080x608.jpg"
+        }
+      ]
+    },
+    "games/games-edu-program-ai-cancel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X.jpg",
+          "cap": "（图片来源：EvgeniyShkolenko via Getty Images）"
+        },
+        {
+          "t": "p",
+          "x": "作为“面向学生的免费全国性电子游戏开发竞赛”，Australian STEM Videogame Challenge确认，由于生成式AI的兴起，今年的赛事将在“精彩的12年”之后成为最后一届。"
+        },
+        {
+          "t": "p",
+          "x": "一位在Reddit上自称评委的用户表示，问题不只是使用AI，而是“有些学生干脆完全用AI生成游戏”。这位评委写道：“这要怎么打分？总不能直接给零分吧。”"
+        },
+        {
+          "t": "p",
+          "x": "Australian Council for Educational Research确认停办是因为AI。ACER的Cathy Zemaitis表示：“这一决定源于生成式AI在游戏开发中迅速而复杂的兴起，它让我们更难判断哪些是学生自己做的，也让项目偏离了最初的宗旨。”她还补充说，目前没有计划以其他方式继续举办这项挑战赛。"
+        }
+      ]
+    },
+    "games/claude-fable-gears-clone": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-24.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI研究者兼YouTuber Matthew Berman展示了一款可玩的射击游戏，它受Gears of War: E-Day启发（E-Day-inspired），由Anthropic的Claude Fable 5.2用Unreal Engine 5打造，据称起点只是一段三行的提示词。角色可以冲刺、找掩体、探身射击，还能使出招牌的主动装填。"
+        },
+        {
+          "t": "video",
+          "yt": "0vNyVMDFdkg"
+        },
+        {
+          "t": "p",
+          "x": "Berman让模型复刻Gears of War: E-Day中的一个关卡，随后开启Ultra Code模式让它自主工作。据Berman介绍，该项目在数天内消耗了约8.5B 词元，按API-equivalent估算的成本接近$15,000；Decrypt的数据是43小时48分钟、8.63B 词元，估算成本$14,710。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/3-Line-Prompt.jpg",
+          "cap": "启动这个Unreal Engine 5项目的三行提示词。图片来源：YouTube上的Matthew Berman。"
+        },
+        {
+          "t": "p",
+          "x": "这些数字是按API定价估算的，并不一定是Berman实际花掉的钱。演示只展示了一个关卡，部分动画略显生硬，性能和稳定性也未经独立评估。"
+        }
+      ]
+    },
+    "games/nvidia-lyra2-worldmodel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA展示了Lyra 2.0，这是一个AI-powered框架，能将单张照片转化为可探索的3D环境。它由NVIDIA的Spatial Intelligence Lab（SIL）开发，结合了AI视频生成与3D重建；该研究最初于2026年4月发表，如今在SIGGRAPH Asia 2026前夕再度受到关注。与传统的image-to-video生成器不同，Lyra 2.0允许用户控制摄像机轨迹，并在移动过程中逐步生成新视角。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-1.jpg",
+          "cap": "图片来源：NVIDIA。"
+        },
+        {
+          "t": "p",
+          "x": "为应对空间遗忘和时间漂移，NVIDIA研究人员开发了一套空间记忆系统，利用3D几何信息检索相关的历史帧，并用模型自身不完美的输出对其进行训练。生成的序列可重建为3D Gaussian Splats和多边形网格，从而实现实时渲染，并可导出到NVIDIA Isaac Sim等应用中。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-2-scaled.jpg",
+          "cap": "图片来源：NVIDIA。"
+        },
+        {
+          "t": "p",
+          "x": "蒸馏模型将视频生成的去噪步数从35步减至四步，约缩减13倍：在单块NVIDIA GB200 GPU上生成一段80帧片段约需15秒，而完整模型需要194秒。这并非实时的世界生成，且仍主要局限于静态环境。NVIDIA已在GitHub上公开实现代码，模型权重则以研究用途许可限制发布在Hugging Face上。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-3.jpg",
+          "cap": "导入NVIDIA Isaac Sim的Lyra 2.0生成环境。图片来源：NVIDIA。"
+        }
+      ]
     }
   }
 }

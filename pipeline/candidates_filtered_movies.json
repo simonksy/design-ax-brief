@@ -1,189 +1,291 @@
 {
   "section": "movies",
-  "now_iso": "2026-11-09T22:02:53Z",
+  "now_iso": "2026-11-10T22:00:35Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Disney Taps Adobe as 'Official AI Innovation Partner' Under Multiyear Pact",
-      "url": "https://variety.com/2026/digital/news/disney-adobe-official-ai-innovation-partner-1236943275/",
+      "title": "AI Takes Center Stage at Tech-Forward AFM With Innovation Hub and AFM House Expansion",
+      "url": "https://variety.com/2026/digital/news/ai-tech-forward-afm-innovation-hub-afm-house-expansion-1236941553/",
       "source": "Variety",
       "category": "movies",
-      "published_iso": "2026-11-09T19:50:19+00:00",
-      "excerpt": "Disney and Adobe announced a multiyear alliance making Adobe Disney's 'official AI innovation partner', giving Disney early access to Adobe's latest AI and media tech (Firefly, Firefly Foundry) for its creative teams; timed to Adobe MAX, Nov. 10-12 in Miami.",
-      "og_image": "https://variety.com/wp-content/uploads/2025/12/GettyImages-1226302188.jpg?crop=0px%2C118px%2C2560px%2C1440px&resize=1000%2C563",
-      "cluster": "c0"
+      "keyword": "AI film",
+      "published_iso": "2026-11-10T16:23:00+00:00",
+      "excerpt": "AI Takes Center Stage at Tech-Forward AFM With Innovation Hub and AFM House Expansion.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/08/AFM-HOUSE.jpg?w=1000&h=563&crop=1"
     },
     {
-      "title": "Disney Partners With Adobe On AI Tools That Turn Artists' Sketches Into Finished Concept Art",
-      "url": "https://www.cartoonbrew.com/artificial-intelligence/disney-adobe-generative-ai-partnership-269226.html",
-      "source": "Cartoon Brew",
+      "title": "Hollywood Has Flipped on GenAI, Says ‘Avatar’ VFX House Weta FX Chief: ‘If You Don’t Have an AI Strategy, Don’t Bother’",
+      "url": "https://variety.com/2026/film/markets-festivals/hollywood-flipped-genai-avatar-vfx-house-weta-fx-1236941070/",
+      "source": "Variety",
       "category": "movies",
-      "published_iso": "2026-11-09T19:46:53+00:00",
-      "excerpt": "Under the multiyear alliance Adobe gives Disney Firefly, Firefly Foundry, Premiere, Photoshop and dedicated engineers to build bespoke AI models trained on Disney IP, including tools that turn hand-drawn sketches into fully rendered concept art.",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
-      "note": "same story as Variety Disney-Adobe; artist/animation angle",
-      "cluster": "c0"
-    },
-    {
-      "title": "CAA Wants to Create an AI-Generated Celebrity Advertising Machine",
-      "url": "https://www.hollywoodreporter.com/business/business-news/caa-ai-celebrity-advertising-machine-1236751106/",
-      "source": "The Hollywood Reporter",
-      "category": "movies",
-      "published_iso": "2026-11-09T21:10:20+00:00",
-      "excerpt": "CAA and Ogilvy launched ECHO, a platform that uses CAA's 'vault' of opted-in clients' scanned likenesses and voices to generate celebrity ads; one shoot of 8-10 assets can be expanded into 30-50 AI variants inside standard post-production tools.",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-2244624390.jpg?w=1440&h=810&crop=1"
-    },
-    {
-      "title": "Framestore Brings Hybrid AI/VFX to Sky's Christmas Campaign",
-      "url": "https://www.awn.com/news/framestore-brings-hybrid-aivfx-skys-christmas-campaign",
-      "source": "Animation World Network",
-      "category": "movies",
-      "published_iso": "2026-11-09T06:56:50-08:00",
-      "excerpt": "Framestore built AI tools into its traditional VFX pipeline for Sky's 'That's Christmas Sorted' spot directed by Dave Meyers, using them for previs, character removal and self-animating costumes alongside CG environments.",
-      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081755-skyxmsstill015-1280.jpg?itok=TlVSHe-P"
-    },
-    {
-      "title": "Cinematographers' Favorite Festival Is All About AI This Year — but Artists Still Hate the Tech",
-      "url": "https://www.indiewire.com/news/festivals/camerimage-2026-is-all-about-ai-1235226124/",
-      "source": "IndieWire",
-      "category": "movies",
-      "published_iso": "2026-11-09T12:35:00+00:00",
-      "excerpt": "IndieWire reports from Camerimage 2026, which gives AI advocates and opponents equal programming time; directors are proving more open to generative tools than cinematographers.",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-09-at-9.44.41-AM.png?w=650",
-      "note": "deprioritized: Camerimage opening carded 11-09; only use if new decisions"
-    },
-    {
-      "title": "Adobe MAX Kicks Off This Week as Company Shares Stats on Accelerating AI Use",
-      "url": "https://nofilmschool.com/adobe-creators-toolkit-report-2026",
-      "source": "No Film School",
-      "category": "movies",
-      "published_iso": "2026-11-09T17:30:04+00:00",
-      "excerpt": "Ahead of Adobe MAX in Miami, Adobe's Creators' Toolkit Report survey of 2,000+ US creators quantifies how generative AI is speeding up video and design workflows; AI is expected to dominate MAX announcements.",
-      "og_image": "https://nofilmschool.com/media-library/image.webp?id=68640959&width=1200&height=600&coordinates=0%2C33%2C0%2C34"
-    },
-    {
-      "title": "Adobe Launches 10-Part Masterclass for Creators Led by Dhar Mann, Kinigra Deon and More",
-      "url": "https://www.thewrap.com/media-platforms/tv/adobe-masterclass-for-creators-ai-usage/",
-      "source": "TheWrap",
-      "category": "movies",
-      "published_iso": "2026-11-09T13:00:00+00:00",
-      "excerpt": "Adobe's 10-part Creator Playbook includes a course by Curious Refuge CEO Caleb Ward on taking an AI-native idea through a full creative pipeline, including a 'Studio Anywhere' approach to AI-generated sets.",
-      "og_image": "https://www.thewrap.com/wp-content/uploads/2026/11/adobe-creator-playbook.jpg"
-    },
-    {
-      "title": "AI Film 'Gods Don't Give Gifts' Hopes to Tap YouTube Following — and Grimes — for Breakout Moment",
-      "url": "https://www.thewrap.com/industry-news/tech/ai-film-gods-dont-give-gifts-youtube-grimes-gossip-goblin/",
-      "source": "TheWrap",
-      "category": "movies",
-      "published_iso": "2026-11-05T17:00:00+00:00",
-      "excerpt": "Gossip Goblin creator Zack London's AI-generated anthology 'Gods Don't Give Gifts', produced with Fable and featuring Grimes' voice and likeness, opens Dec. 4 as the first AI-generated film to get a U.S. theatrical release.",
-      "og_image": "https://www.thewrap.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-5.37.19-PM.png",
-      "note": "film carded before (Deadline 07 & 10); new = Grimes + Dec 4 theatrical date",
+      "keyword": "AI VFX",
+      "published_iso": "2026-11-06T06:46:06+00:00",
+      "excerpt": "Hollywood studios went from banning GenAI to demanding an AI strategy, Weta FX CEO Daniel Seah said in Taipei after signing a TAICCA deal.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/11/Sue-Wang-Daniel-Seah.jpg?w=1000&h=563&crop=1",
       "history_match": {
-        "score": 0.4,
+        "score": 0.19,
+        "date": "2026-11-05",
+        "url": "https://variety.com/2026/film/markets-festivals/weta-fx-taicca-partner-taiwan-ai-screen-production-hub-1236938968/",
+        "title": "Weta FX and TAICCA Partner to Turn Taiwan Into an AI Screen Production Hub for Asia",
+        "band": "related"
+      }
+    },
+    {
+      "title": "How Grimes’ Cameo in Theater-Bound AI Film ‘Gods Don’t Give Gifts’ Came Together (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/grimes-cameo-ai-film-gods-dont-give-gifts-1236940417/",
+      "source": "Variety",
+      "category": "movies",
+      "keyword": "AI film",
+      "published_iso": "2026-11-05T17:00:00+00:00",
+      "excerpt": "Grimes will have a minuteslong cameo in “Gods Don’t Give Gifts,” the first AI feature set to debut in theaters.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/11/2_Grimes_NoLogo-1.png?w=1000&h=563&crop=1",
+      "history_match": {
+        "score": 0.339,
         "date": "2026-10-26",
         "url": "https://deadline.com/2026/10/gossip-goblin-gods-dont-give-gifts-heads-to-afm-sales-1237170580/",
         "title": "Gossip Goblin's AI Sci-Fi Film 'Gods Don't Give Gifts' Heads To AFM Market For Sales With AGC",
-        "band": "likely-repeat"
-      }
-    },
-    {
-      "title": "Real-Time Video at Batch Size One",
-      "url": "https://runway.com/news/research/real-time-video-at-batch-size-one",
-      "source": "Runway",
-      "category": "movies",
-      "published_iso": "2026-11-05T16:43:27.003Z",
-      "excerpt": "Runway details how it serves its ~57B-parameter autoregressive video diffusion model in real time for Characters: a new four-frame chunk every 166.7ms at 24 fps per user, running one session across four H100s.",
-      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png",
-      "history_match": {
-        "score": 0.222,
-        "date": "2026-10-28",
-        "url": "https://www.youtube.com/watch?v=NAKB5ixP6Kw",
-        "title": "The new rules of safety in an era of real-time video generation | Runway AI Summit SF 2026",
         "band": "related"
       }
     },
     {
-      "title": "Original 'Return of the Living Dead' Stars Slam AI-Generated Sequel",
-      "url": "https://bloody-disgusting.com/movie/3975227/return-of-the-living-dead-aftermath-backlash-ai-linnea-quigley/",
-      "source": "Bloody Disgusting",
+      "title": "Tilly Norwood Creator’s New Project? An AI Talking-Dog Movie With the Co-Director of ‘The Lion King’ (Video)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/tilly-norwood-ai-dog-movie-minkoff-watch-trailer-1236751596/",
+      "source": "The Hollywood Reporter",
       "category": "movies",
-      "published_iso": "2026-11-09T18:42:17+00:00",
-      "excerpt": "'Return of the Living Dead: Aftermath', released Oct. 31 by DragonFLIX, is almost entirely AI-generated imagery and dialogue; original stars Linnea Quigley and Beverly Randolph say they appear without having filmed anything and disown it.",
-      "og_image": "https://bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg",
-      "note": "off-list (bloody-disgusting.com): no on-list outlet covered it"
+      "keyword": "AI film",
+      "published_iso": "2026-11-10T15:15:57+00:00",
+      "excerpt": "Rob Minkoff is on board, and the project is aiming for a studio release. Will they touch it?",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/StormDogs.png?w=1440&h=810&crop=1"
     },
     {
-      "title": "최휘영 \"AI 파도, 연대의 방식으로 항로 찾는 영화인에 박수\"",
-      "url": "https://www.yna.co.kr/view/AKR20261106176100005",
-      "source": "연합뉴스",
+      "title": "David Ellison Is Very Bullish On AI’s Creative Potential",
+      "url": "https://www.hollywoodreporter.com/business/business-news/david-ellison-bullish-on-ai-creative-potential-1236751250/",
+      "source": "The Hollywood Reporter",
       "category": "movies",
-      "published_iso": "2026-11-06T19:09:57+09:00",
-      "excerpt": "대한민국예술원 영화전에서 AI가 임권택 감독의 영화를 학습해 그의 롱테이크 연출을 따라 만든 단편 '확인'이 처음 공개됐다. 주제는 '임권택 없이 임권택 영화 만들기'.",
-      "og_image": "https://img5.yna.co.kr/photo/yna/YH/2026/11/06/PYH2026110609630001300_P4.jpg",
-      "history_match": {
-        "score": 0.309,
-        "date": "2026-11-04",
-        "url": "https://www.yna.co.kr/view/AKR20261102043400005",
-        "title": "AI가 만든 '임권택 스타일' 영화 공개…대한민국예술원 영화전",
-        "band": "related"
-      }
+      "keyword": "Hollywood AI",
+      "published_iso": "2026-11-09T23:59:24+00:00",
+      "excerpt": "The Skydance CEO says, \"AI really has the potential to be the biggest creative unlock in modern history.\"",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-2271646645.jpg?w=1440&h=810&crop=1"
     },
     {
-      "title": "Remington Scott to Lead Eros Innovation's New AI Creative Unit",
-      "url": "https://www.awn.com/news/remington-scott-lead-eros-innovations-new-ai-creative-unit",
-      "source": "Animation World Network",
+      "title": "Webby Awards Launches IMDB-Like Credits Platform to Provide Verified Recognition for Creators Amid AI Growth (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/digital/webby-awards-credits-registry-creators-ai-1236751631/",
+      "source": "The Hollywood Reporter",
       "category": "movies",
-      "published_iso": "2026-11-04T10:21:42-08:00",
-      "excerpt": "Eros Innovation launched Eros Imagination, an AI-native unit combining VFX, animation, AI-assisted filmmaking, digital humans, performance capture and virtual production, led by Gollum mocap lead Remington Scott.",
-      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081717-remington-scott-official-2026-3-1280.jpg?itok=XKeWgHFr"
+      "keyword": "Hollywood AI",
+      "published_iso": "2026-11-10T14:00:00+00:00",
+      "excerpt": "The long-running initiative celebrating the best of the internet will allow winners, nominees and other honored individuals to claim their work, with Shonda Rhimes and Adam Scott among the founding members.",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-1397655480.jpg?crop=0px%2C83px%2C4982px%2C2787px&resize=1440%2C810"
     },
     {
-      "title": "Chomet Denies AI Use In Dior Ad, Cites 'Automated Interpolation'",
-      "url": "https://www.cartoonbrew.com/artificial-intelligence/sylvain-chomet-dior-ad-automated-interpolation-269167.html",
+      "title": "AI Account Rips Off Animated Short To Promote Filmmaking Classes",
+      "url": "https://www.cartoonbrew.com/artificial-intelligence/el-empleo-unauthorized-ai-remake-269233.html",
       "source": "Cartoon Brew",
       "category": "movies",
-      "published_iso": "2026-11-07T18:17:49+00:00",
-      "excerpt": "Sylvain Chomet and his producer insist the Dior animated short was hand-drawn but acknowledge 'automated interpolation' was used, reopening the line between AI and software-assisted in-betweening.",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Chomet-Dior-6.jpg",
-      "note": "Chomet story carded 11-05..11-07; only the 'automated interpolation' admission is new",
+      "keyword": "AI animation film",
+      "published_iso": "2026-11-09T16:46:58-08:00",
+      "excerpt": "Filmmaker Patricio Plaza responds after a 30-second AI knockoff of his hand-drawn 2008 classic attracts millions of views and sparks a copyright dispute.",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/El-empleo-AI-Ripoff.jpg"
+    },
+    {
+      "title": "Avid's Ready to Play brings AI video generation directly into Media Composer",
+      "url": "https://www.provideocoalition.com/avids-ready-to-play-brings-ai-video-generation-directly-into-media-composer/",
+      "source": "ProVideo Coalition",
+      "category": "movies",
+      "keyword": "generative video film",
+      "published_iso": "2026-11-10T05:37:50-08:00",
+      "excerpt": "Avid has announced Ready to Play, a new AI-powered extension for Media Composer built in partnership with Google Cloud and powered by Google's Gemini and Veo",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/media-composer-ready-to-play-app-perspective-1080p-1.jpg"
+    },
+    {
+      "title": "Adobe ships Premiere 27 with Color Mode",
+      "url": "https://www.provideocoalition.com/adobe-ships-premiere-27-with-color-mode/",
+      "source": "ProVideo Coalition",
+      "category": "movies",
+      "keyword": "AI color grading",
+      "published_iso": "2026-11-10T13:47:34-08:00",
+      "excerpt": "Adobe has shipped Premiere version 27, which moves Color Mode out of beta and into the shipping version. This is one of the biggest changes Premiere has had",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Color-Mode-tips.jpeg",
       "history_match": {
-        "score": 0.384,
-        "date": "2026-11-07",
-        "url": "https://www.cartoonbrew.com/artificial-intelligence/sylvain-chomet-dior-ad-ai-use-269124.html",
-        "title": "Sylvain Chomet’s Dior Ad Faces AI Accusations And We Apologize",
+        "score": 0.195,
+        "date": "2026-10-20",
+        "url": "https://www.provideocoalition.com/stem-separation-moves-into-the-edit-what-enhance-audio-changes-for-dialogue-workflows-in-premiere-beta/",
+        "title": "Stem Separation Moves Into the Edit: What Enhance Audio Changes for Dialogue Workflows in Premiere (Beta)",
         "band": "related"
-      }
+      },
+      "cluster": "c12"
+    },
+    {
+      "title": "Professional Sound Alliance",
+      "url": "https://www.provideocoalition.com/professional-sound-alliance/",
+      "source": "ProVideo Coalition",
+      "category": "movies",
+      "keyword": "Hollywood AI",
+      "published_iso": "2026-11-10T11:00:19-08:00",
+      "excerpt": "Sound professionals have a new advocacy alliance coalition formed to protect and combat unlicensed use of sound design and sound effects. The new",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Mark-Mangini-Oscars-2022_9699web.jpg"
+    },
+    {
+      "title": "Adobe MAX 2026: What’s New for Filmmakers and Video Editors",
+      "url": "https://nofilmschool.com/adobe-max-2026-updates",
+      "source": "No Film School",
+      "category": "movies",
+      "keyword": "AI filmmaking",
+      "published_iso": "2026-11-10T14:36:13+00:00",
+      "excerpt": "Adobe MAX 2026 has kicked off; here’s some of the big news coming out of Miami for filmmakers and video editors to watch.",
+      "og_image": "https://nofilmschool.com/media-library/image.webp?id=68649144&width=1200&height=600&coordinates=124%2C0%2C124%2C0"
+    },
+    {
+      "title": "Adobe MAX 2026: Local MCP Integrations Coming to Creative Cloud Tools (Like Premiere)",
+      "url": "https://nofilmschool.com/adobe-local-mcp-integrations",
+      "source": "No Film School",
+      "category": "movies",
+      "keyword": "AI filmmaking",
+      "published_iso": "2026-11-10T15:08:31+00:00",
+      "excerpt": "One of the biggest announcements at Adobe MAX 2026 is that local MCP integrations are coming to Creative Cloud tools like Photoshop, Premiere, and After Effects.",
+      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=68649422&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
+      "cluster": "c12"
+    },
+    {
+      "title": "Adobe MAX 2026: Firefly and Premiere mobile to Provide New Ways to Create and Edit Content",
+      "url": "https://nofilmschool.com/adobe-firefly-and-premiere-mobile-updates",
+      "source": "No Film School",
+      "category": "movies",
+      "keyword": "generative video film",
+      "published_iso": "2026-11-10T14:52:30+00:00",
+      "excerpt": "From Adobe MAX 2026, the company has unveiled some major new updates for Firefly and Premiere mobile that aim to unlock new ways for filmmakers to create, edit, and soundtrack their stories.",
+      "og_image": "https://nofilmschool.com/media-library/image.webp?id=68649202&width=1200&height=600&coordinates=124%2C0%2C124%2C0",
+      "cluster": "c12"
+    },
+    {
+      "title": "Adobe is going all in on agentic AI",
+      "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+      "source": "The Verge",
+      "category": "movies",
+      "keyword": "AI filmmaking",
+      "published_iso": "2026-11-10T14:00:00+00:00",
+      "excerpt": "Third-party AI agents can use Creative Cloud apps for you, and Firefly’s AI Assistant can run your social media accounts.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/FF-AIA-No-Logo-4.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+    },
+    {
+      "title": "Adobe MAX 2026 Premiere updates: Color Mode, MCP",
+      "url": "https://www.redsharknews.com/adobe-max-2026-premiere-color-mode-mcp",
+      "source": "RedShark News",
+      "category": "movies",
+      "keyword": "AI color grading",
+      "published_iso": "2026-11-10T16:01:01.000Z",
+      "excerpt": "Premiere's Color Mode leaves beta at Adobe MAX 2026, while MCP will let third-party agents edit native project files in 2027.",
+      "og_image": "https://www.redsharknews.com/hubfs/adobe%20max-3.jpg",
+      "cluster": "c12"
+    },
+    {
+      "title": "‘Backrooms’ Director Kane Parsons Says He’s ‘Anti-AI’: No Artist Needs ‘Generative Tools’",
+      "url": "https://www.thewrap.com/creative-content/movies/backrooms-kane-parsons-anti-ai/",
+      "source": "TheWrap",
+      "category": "movies",
+      "keyword": "AI filmmaking",
+      "published_iso": "2026-11-10T19:28:17+00:00",
+      "excerpt": "\"Backrooms\" director Kane Parsons has made his stance on AI, particularly in regards to the creative process, very clear.",
+      "og_image": "https://www.thewrap.com/wp-content/uploads/2026/11/Kane-Parsons.jpg"
+    },
+    {
+      "title": "Unreal Engine 5.9 Preview Is Out",
+      "url": "https://80.lv/articles/unreal-engine-5-9-preview-is-out-it-was-built-with-ai/",
+      "source": "80 Level",
+      "category": "movies",
+      "keyword": "virtual production AI",
+      "published_iso": "2026-11-10T08:24:00+00:00",
+      "excerpt": "AI workflow enhancements, Web platform support, rendering and animation updates, and more.",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50957/images/6af2d4ad241ac/contain_1200x630.jpg"
+    },
+    {
+      "title": "CAA and Ogilvy Unveil ECHO AI Celebrity Ad Platform",
+      "url": "https://www.awn.com/news/caa-and-ogilvy-unveil-echo-ai-celebrity-ad-platform",
+      "source": "Animation World Network",
+      "category": "movies",
+      "keyword": "deepfake film",
+      "published_iso": "2026-11-10T12:31:44-08:00",
+      "excerpt": "Ogilvy's new AI ad platform licenses the digital likeness, voice and IP of CAA clients who opt in; neither company has named which clients have opted in to the platform, which runs on WPP Open and turns a short shoot into a portfolio of media-ready assets.",
+      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081773-video-1280.jpg?itok=YILTubPT"
+    },
+    {
+      "title": "라이언이 AI 애니로…카카오·오픈AI '그래도, 라이언' 공개",
+      "url": "https://www.yna.co.kr/view/AKR20261110046400017",
+      "source": "연합뉴스",
+      "category": "movies",
+      "keyword": "AI 영화",
+      "published_iso": "2026-11-10T09:48:05+09:00",
+      "excerpt": "(서울=연합뉴스) 오지은 기자 = 카카오[035720]의 대표 캐릭터 '라이언'이 미국 오픈AI의 생성형 인공지능(AI) 기술과 만나 단편 애니...",
+      "og_image": "https://img6.yna.co.kr/etc/inner/KR/2026/11/10/AKR20261110046400017_01_i_P4.jpg"
+    },
+    {
+      "title": "AI Dubbing Pioneer Flawless Sells Tech To Steven Schuurman Venture",
+      "url": "https://deadline.com/2026/10/flawless-ai-dubbing-sells-technology-1237208379/",
+      "source": "Deadline",
+      "category": "movies",
+      "keyword": "AI dubbing lip sync",
+      "published_iso": "2026-10-30T09:23:09+00:00",
+      "excerpt": "Flawless, the British company that spent $100 million building SAG-AFTRA-endorsed AI dubbing technology used on movies like Fall, has sold its IP.",
+      "og_image": "https://deadline.com/wp-content/uploads/2023/03/fall-2022-1200-1200-675-675-crop-000000.jpg?w=1024"
+    },
+    {
+      "title": "I’M HAVING A BREAKDOWN: DREAMCAT, the monster that wasn’t his",
+      "url": "https://motionographer.com/2026/11/04/im-having-a-breakdown-dreamcat-the-monster-that-wasnt-his/",
+      "source": "Motionographer",
+      "category": "movies",
+      "keyword": "AI animation film",
+      "published_iso": "2026-11-04T13:10:59+00:00",
+      "excerpt": "Joost Jansen spent two weeks drawing a monster for a film about himself. Then he asked to cut it. Inside DREAMCAT with Joost and MAKE MAMI PROUD.",
+      "og_image": "https://i0.wp.com/motionographer.com/wp-content/uploads/2016/11/Dreamcat-ezgif.com-optimize.gif?fit=600%2C250&ssl=1"
+    },
+    {
+      "title": "Korean, Chinese filmmakers seek common ground beyond politics through AI",
+      "url": "https://www.koreatimes.co.kr/entertainment/films/20261105/korean-chinese-filmmakers-seek-common-ground-beyond-politics-through-ai",
+      "source": "The Korea Times",
+      "category": "movies",
+      "keyword": "AI short film",
+      "published_iso": "2026-11-05T03:00:03.000Z",
+      "excerpt": "Despite political tensions and historical differences between their countries, two filmmakers from Korea and China believe stories of ordinary peop...",
+      "og_image": "https://newsimg.koreatimes.co.kr/2026/11/04/f4d2ac9f-f7b5-4cb9-a2b5-9a8f6ec9360b.jpeg"
     },
     {
       "title": "The New Cinematic AI Film Workflow (What Actually Works)",
       "url": "https://www.youtube.com/watch?v=OWr3IU82bJ8",
       "source": "Theoretically Media (YouTube)",
       "category": "movies",
-      "published_iso": "2026-11-06T17:37:59+00:00",
-      "excerpt": "Behind-the-scenes of the AI short 'Planet Hell': Seedance 2.5 on OpenArt driven over MCP by Claude Code and Codex, Gemini 4 Argon as story editor and colorist in DaVinci Resolve, After Effects for fixes - including a model-forced recast.",
-      "og_image": "https://i.ytimg.com/vi/OWr3IU82bJ8/maxresdefault.jpg"
+      "keyword": "AI filmmaking",
+      "published_iso": "2026-11-06T09:37:59-08:00",
+      "excerpt": "The full AI filmmaking workflow behind Planet Hell: Seedance 2.5 on OpenArt, driven over MCP by Claude Code and Codex, Gemini 4 Argon as story editor and col...",
+      "og_image": "https://i.ytimg.com/vi/OWr3IU82bJ8/maxresdefault.jpg",
+      "history_match": {
+        "score": 0.171,
+        "date": "2026-10-27",
+        "url": "https://www.youtube.com/watch?v=ktEt4n9VlF4",
+        "title": "This Hack Fixes Your AI Character Consistency Issues (Pro Workflow)",
+        "band": "related"
+      }
     },
     {
-      "title": "New iZotope Photon powered by 12 machine-learning models",
-      "url": "https://www.provideocoalition.com/new-izotope-photon-powered-by-12-machine-learning-models/",
-      "source": "ProVideo Coalition",
+      "title": "When Video Becomes an Interface | inside view",
+      "url": "https://www.youtube.com/watch?v=1XV_2WrnZH0",
+      "source": "Runway (YouTube)",
       "category": "movies",
-      "published_iso": "2026-11-03T08:15:41-08:00",
-      "excerpt": "iZotope's Photon uses 12 machine-learning models for stem separation, dialogue denoising and repair aimed at video and film post-production audio.",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/izotopephoton001.jpg",
+      "keyword": "Runway film",
+      "published_iso": "2026-11-10T08:13:03-08:00",
+      "excerpt": "Try Runway: https://app.runwayml.comInside Runway Labs, where designers are prototyping what real-time video models make possible. This episode explores vide...",
+      "og_image": "https://i.ytimg.com/vi/1XV_2WrnZH0/maxresdefault.jpg",
       "history_match": {
-        "score": 0.18,
-        "date": "2026-10-20",
-        "url": "https://www.provideocoalition.com/stem-separation-moves-into-the-edit-what-enhance-audio-changes-for-dialogue-workflows-in-premiere-beta/",
-        "title": "Stem Separation Moves Into the Edit: What Enhance Audio Changes for Dialogue Workflows in Premiere (Beta)",
+        "score": 0.191,
+        "date": "2026-10-28",
+        "url": "https://www.youtube.com/watch?v=NAKB5ixP6Kw",
+        "title": "The new rules of safety in an era of real-time video generation | Runway AI Summit SF 2026",
         "band": "related"
       }
     }
   ],
   "dedup": {
-    "dropped": 3,
-    "kept": 15,
+    "dropped": 1,
+    "kept": 24,
     "against_days": 5
   },
   "story_dedup": {
@@ -192,38 +294,23 @@
     "review": 5,
     "same_story_pairs": [
       [
-        "https://variety.com/2026/digital/news/disney-adobe-official-ai-innovation-partner-1236943275/",
-        "https://www.cartoonbrew.com/artificial-intelligence/disney-adobe-generative-ai-partnership-269226.html",
-        0.382
+        "https://www.provideocoalition.com/adobe-ships-premiere-27-with-color-mode/",
+        "https://www.redsharknews.com/adobe-max-2026-premiere-color-mode-mcp",
+        0.475
+      ],
+      [
+        "https://nofilmschool.com/adobe-local-mcp-integrations",
+        "https://www.redsharknews.com/adobe-max-2026-premiere-color-mode-mcp",
+        0.353
+      ],
+      [
+        "https://nofilmschool.com/adobe-firefly-and-premiere-mobile-updates",
+        "https://www.redsharknews.com/adobe-max-2026-premiere-color-mode-mcp",
+        0.301
       ]
     ]
   },
   "history_digest": [
-    {
-      "date": "2026-10-11",
-      "title": "Nicolas Cage Didn't Sign AI Waiver For 'Spider-Noir' & \"Probably\" Won't Work Again With \"AI-Friendly\" Amazon",
-      "url": "https://deadline.com/2026/10/nicolas-cage-new-york-comic-con-spider-noir-true-detective-1237154069/"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu,' a Spin-Off From the Hit Series 'The Pit'",
-      "url": "https://variety.com/2026/film/global/prime-video-turkish-ai-generated-movie-cukurvartolu-the-pit-1236907346/"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "Generative AI Still Needs Artists' Judgment, Says Netflix's Eyeline GenFX Chief James Rustad at Busan",
-      "url": "https://variety.com/2026/tv/markets-festivals/generative-ai-still-needs-artists-judgment-netflix-genfx-head-1236907383/"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "모픽, '3D 씬'으로 영상 구도·카메라 연출 직접 다룬다",
-      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=407934"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "Latvian filmmaker wins AI film Grand Prix in Kazakhstan",
-      "url": "https://www.euronews.com/2026/10/06/latvian-filmmaker-wins-400000-grand-prix-at-kazakhstans-ai-film-festival"
-    },
     {
       "date": "2026-10-12",
       "title": "Start in Claude Motion. Finish it in Luma. | Luma",
@@ -868,6 +955,31 @@
       "date": "2026-11-09",
       "title": "中, AI 악용·선정적 숏폼 드라마 연말까지 집중단속",
       "url": "https://www.yna.co.kr/view/AKR20261108050600083"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Original 'Return of the Living Dead' Stars Slam AI-Generated Sequel",
+      "url": "https://bloody-disgusting.com/movie/3975227/return-of-the-living-dead-aftermath-backlash-ai-linnea-quigley/"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Real-Time Video at Batch Size One",
+      "url": "https://runway.com/news/research/real-time-video-at-batch-size-one"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "AI Could Make Films Costlier Than the 35mm Era, Korean Pioneers Warn",
+      "url": "https://variety.com/2026/film/markets-festivals/ai-films-costlier-35mm-era-korean-pioneers-warn-1236942217/"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Framestore Brings Hybrid AI/VFX to Sky's Christmas Campaign",
+      "url": "https://www.awn.com/news/framestore-brings-hybrid-aivfx-skys-christmas-campaign"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Disney Partners With Adobe On AI Tools That Turn Artists' Sketches Into Finished Concept Art",
+      "url": "https://www.cartoonbrew.com/artificial-intelligence/disney-adobe-generative-ai-partnership-269226.html"
     }
   ]
 }

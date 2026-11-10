@@ -11567,6 +11567,161 @@
           "x": "La gran incógnita es Alexa+. On-Screen Intelligence, la función que permite a Alexa+ ver la pantalla y actuar sobre ella, es opcional y viene desactivada por defecto, con un indicador en pantalla mientras está activa. Las primeras reseñas elogian el hardware y las pantallas, y señalan la multitarea como el punto débil."
         }
       ]
+    },
+    "gadgets/ring-ai-drone-rover-cam": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af233321b32910f5c003593/1:1/w_2560%2Cc_limit/Ring-Drone-Cam-Gear-DSC_0211.jpg",
+          "cap": "La cámara dron de Ring."
+        },
+        {
+          "t": "p",
+          "x": "Ring anunció su Drone Cam por 250 dólares, junto con la Ring Rover Cam, un robot de seguridad móvil de 1000 dólares pensado para ayudar a las empresas a vigilar almacenes y fábricas. Ambos forman parte de la nueva marca Ring Robotics de la compañía. La Rover Cam saldrá primero, el 16 de diciembre, y la Drone Cam le seguirá el 27 de enero."
+        },
+        {
+          "t": "p",
+          "x": "El pequeño dron de 165 gramos se eleva desde su base de carga y vuela de forma autónoma por la casa. Ring ya había anunciado en 2020 un dron de seguridad para interiores, la Ring Always Home Cam. Añadir sensores dispara el consumo de energía y batería, así que ahora la inteligencia reside por completo en la nube: el dron envía el vídeo directamente a los servidores de Ring, donde un agente AI Pilot personalizado le indica adónde ir."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af23e3b1b32910f5c003599/master/w_1600%2Cc_limit/DSC_0198.jpg",
+          "cap": "La Ring Drone Cam sale volando de su estación de carga para vigilar la casa."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios no pueden controlar el dron manualmente, pero sí configurar rutas de vuelo y horarios de patrulla, y el dron responde a las alertas de los sensores de movimiento, puertas o ventanas. Vuela de cinco a ocho minutos por carga y es ruidoso a propósito, para que nadie con malas intenciones pueda espiar a distancia sin alertar a quienes están en casa."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af23e3a1997f5ebb6874fc1/125:94/w_1600%2Cc_limit/DSC_0214.jpg",
+          "cap": "La Rover Cam está diseñada para patrullar almacenes y fábricas."
+        },
+        {
+          "t": "p",
+          "x": "La Rover Cam comparte gran parte del hardware de Astro, de Amazon. Tiene el mismo AI Pilot que la Drone Cam, una cámara 4K telescópica, conversación bidireccional y sirena, y cubre hasta 5000 pies cuadrados."
+        }
+      ]
+    },
+    "gadgets/kora-linux-ai-desktop-os": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/w_2560%2Cc_limit/gear_ai_operating_system_nerdy.jpg",
+          "cap": "Una persona con un ordenador por cabeza sentada frente a un ordenador de escritorio"
+        },
+        {
+          "t": "p",
+          "x": "Kora, anunciado el martes, está diseñado como alternativa de escritorio a Windows o macOS para “los nativos de la IA, no el mercado masivo”, dice su CEO y cofundador, Kirt McMaster. Dirigido a creadores y desarrolladores, su idea central es reunir los modelos de IA a nivel de sistema. Su lanzamiento está previsto para algún momento de 2027."
+        },
+        {
+          "t": "p",
+          "x": "“Todo tu contexto, toda tu memoria, está en tu máquina”, dice el cofundador Franck De Girolami, al describir un proyecto que pasa de un modelo de OpenAI a las herramientas de Anthropic y luego a un modelo local para ahorrar dinero en tokens de IA."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af284baa8b94cafb9dc4873/master/w_1600%2Cc_limit/Screenshot%25202026-11-09%2520at%25201.37.41%25E2%2580%25AFPM.png",
+          "cap": "Kora"
+        },
+        {
+          "t": "p",
+          "x": "Kora es un sistema operativo independiente construido sobre el kernel de Linux. La startup se ha asociado con Qualcomm para llevarlo a los PCs con Snapdragon el próximo año, y también es compatible con x86-64. Unas capas de compatibilidad ejecutarán aplicaciones estándar de Windows, y un “sistema de archivos neuronal” indexa los datos de los archivos según su significado."
+        },
+        {
+          "t": "p",
+          "x": "McMaster cofundó Cyanogen y ayudó a dirigirla. Kora está optimizado para equipos de escritorio con al menos 64 gigabytes de RAM, pensados para usuarios avanzados que quieren ejecutar modelos de IA que exigen mucha potencia de chip."
+        }
+      ]
+    },
+    "gadgets/deepmind-gemini-robotics-25": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-2560x1440.jpg",
+          "cap": "Apptronik Apollo 2 usando Gemini Robotics 2.5 en una fábrica de Mercedes-Benz"
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMind ha presentado una nueva generación de Gemini Robotics, su plataforma AI-powered (impulsada por IA). El modelo se evaluó en más de 200 actividades, y el robot humanoide Apollo 2 de Apptronik ya puede hacer un lazo con sus manos de cinco dedos."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Still-image-Apollo-2-ribbon-tying.png",
+          "cap": "Los objetos deformables son difíciles para los robots, pero Gemini está avanzando. Crédito: Google"
+        },
+        {
+          "t": "p",
+          "x": "En conjunto, Gemini Robotics 2.5 logra una tasa de éxito entre un 30 y un 100 por ciento mayor que la versión anterior y es entre un 20 y un 30 por ciento más rápido. Los robots Apollo 2 con Gemini prepararon kits de piezas de automoción en algunas fábricas europeas y alcanzaron una tasa de éxito del 96 por ciento. Gemini 4 Argon ayudó a crear un “motor de simulación” que aceleró el desarrollo."
+        },
+        {
+          "t": "video",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Video-Apptronik-Apollo-2-at-Mercedes-Benz-opt.mp4"
+        },
+        {
+          "t": "p",
+          "x": "ASIMOV-Jailbreak es una base de datos de código abierto con 1500 prompts diseñados para engañar a una IA robótica y llevarla a hacer algo inseguro. Con Argon en el circuito, el sistema alcanza un nivel de seguridad frente a jailbreaks del 98,8 por ciento, frente al 73,5 por ciento solo con Gemini Robotics ER 2. Gemini Robotics 2.5 ya está disponible para socios como Agile Robots, Apptronik y Boston Dynamics."
+        }
+      ]
+    },
+    "gadgets/apple-mac-local-ai-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&w=1600",
+          "cap": "Mac mini"
+        },
+        {
+          "t": "p",
+          "x": "El filtrador Aaron Perris ha descubierto indicios de una nueva app para Mac en desarrollo en Apple, llamada Harbor, que facilita ejecutar modelos de IA locales en uno o varios Macs."
+        },
+        {
+          "t": "p",
+          "x": "“Harbor convierte tu Mac en un servidor privado de inferencia de IA. Ejecuta modelos de pesos abiertos localmente en Apple silicon: tus datos nunca salen de tu hardware y nada llega a la nube. Conecta varios ordenadores Mac mediante Thunderbolt 5 para combinar la memoria unificada, lo que permite modelos grandes y una mayor concurrencia que un solo ordenador puede manejar por sí solo.”"
+        },
+        {
+          "t": "p",
+          "x": "Entre las funciones destacadas figuran una configuración en minutos con detección automática de dispositivos por Thunderbolt 5, la exploración y descarga de modelos de pesos abiertos dentro de la app y la agrupación de dos o más Macs compatibles con Thunderbolt 5 en un único recurso de inferencia."
+        },
+        {
+          "t": "p",
+          "x": "Harbor se encuentra en una vista previa privada bajo la marca Claris de Apple, pero parece probable que se lance al público en las próximas semanas y meses."
+        }
+      ]
+    },
+    "gadgets/caim1-provenance-camera": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/intro-1793382637.jpg",
+          "cap": "Una carcasa de cámara Noctua impresa en 3D, en tonos marrón y canela, boca arriba sobre una mesa de madera marrón."
+        },
+        {
+          "t": "p",
+          "x": "CAIM1 (Counter Artificial Intelligence Machine 1), fundada por Josh Cowell, trabaja en una cámara prototipo que integra directamente en la imagen una prueba criptográfica de la autenticidad de la foto. Su chip interno crea una huella de silicio única que certifica cuándo, dónde y con qué cámara se tomó la foto, vinculada a una firma de blockchain única y anónima."
+        },
+        {
+          "t": "p",
+          "x": "Según un informe del Parlamento Europeo, los deepfakes en redes sociales se han duplicado cada seis meses desde 2023 y alcanzaron unos 8 millones estimados en 2025. CAIM1 prevé lanzar su cámara insignia en el primer trimestre de 2027."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/how-caim1-combats-deepfakes-1793382638.jpg",
+          "cap": "La parte trasera de la carcasa de la cámara CAIM1."
+        },
+        {
+          "t": "p",
+          "x": "La autenticación empieza con el chip Tropic01 de Tropic Square, el \"primer elemento seguro auditable del mundo\". La verificación se almacena en una \"infraestructura descentralizada inmutable\", y la cámara puede imprimir un recibo físico con un código QR, el número de referencia de blockchain, la fecha, la hora y la ubicación. Cowell afirma que los competidores exigen que \"los usuarios depositen una fe ciega en el ecosistema cerrado de una sola entidad corporativa\"."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/innovations-beyond-authentication-1793382640.jpg",
+          "cap": "Una cámara CAIM1 con el objetivo separado de la montura frontal."
+        },
+        {
+          "t": "p",
+          "x": "Para refrigerar su CPU y su sensor sin vibraciones, CAIM1 se asoció con Noctua en un sistema de refrigeración activa NF-A4x10. La cámara graba video en 4K, está pensada para deportes de acción y usa un diseño Bring-Your-Own-Lens."
+        }
+      ]
     }
   }
 }

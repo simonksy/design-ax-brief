@@ -10839,6 +10839,140 @@
           "x": "Together, these capabilities can reduce scan time and radiation dose. The team next aims for more robust foundation models and real-time tomography, in which a 3D image improves while the experiment is still running."
         }
       ]
+    },
+    "science/science-google-quantum-lean-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-4.28.33-AM.png"
+        },
+        {
+          "t": "p",
+          "x": "Google researchers used AI agents and computer-checked mathematical proofs to design quantum programs requiring fewer computing resources. The team, led by researchers at Google DeepMind and Google Quantum AI, reported roughly elevenfold lower resource costs for a fusion-related simulation, eightfold for a photochemistry calculation and 2.5-fold for a model relevant to drug metabolism (arXiv preprint)."
+        },
+        {
+          "t": "p",
+          "x": "The team built a quantum programming library in Lean. AI agents searched for programs, and each proposed solution had to include proofs of both correctness and cost; a separate checker confirmed it met the original requirements. Teams shared programs and failed approaches through a common wiki and scheduled virtual conferences."
+        },
+        {
+          "t": "p",
+          "x": "For the fusion stopping-power simulation, the improved program required 4,374 logical qubits, down from 5,650, and cut the combined qubit-and-gate cost by a factor of 10.9. Photochemistry fell by 8.08 and the cytochrome P450 model by 2.49. The researchers also reported a more than 290-fold reduction for computing arcsine."
+        },
+        {
+          "t": "p",
+          "x": "The scientific programs still exceed what early fault-tolerant quantum computers are projected to handle. The team plans to release its Lean library, specifications and verified solutions as open source."
+        }
+      ]
+    },
+    "science/science-vibe-qc-bonn": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what.jpg",
+          "cap": "A water molecule on a wafer-thin layer of boron and nitrogen atoms. Calculated with vibe-qc, visualized with vibe-viewer. Credit: Michael F. Peintinger"
+        },
+        {
+          "t": "p",
+          "x": "Dr. Michael F. Peintinger from the Mulliken Center for Theoretical Chemistry at the University of Bonn investigated what happens when artificial intelligence is used to write quantum chemistry software. His work is published in the Journal of Computational Chemistry."
+        },
+        {
+          "t": "p",
+          "x": "“To the best of my knowledge, vibe-qc is the first program of its kind to be developed almost entirely by generative AI,” he says. AI agents wrote and tested the program under scientific guidance, and the first comprehensive version was ready after about 10 weeks."
+        },
+        {
+          "t": "p",
+          "x": "“I have to review every suggestion.” On the first day, the assistant wanted to calculate a lithium atom with a method that treats all electrons in pairs, though lithium has three electrons. Other errors were only noticed when results were compared with an independently developed program, so a method is only considered ready once it stands up to such comparisons."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what-1.jpg",
+          "cap": "A cross-section of a magnesium oxide crystal with 54 atoms. Credit: Michael F. Peintinger"
+        },
+        {
+          "t": "p",
+          "x": "vibe-qc has become a general-purpose program for molecules and crystals and is open source under the Mozilla Public License. So far, published calculations have mainly served as tests, such as electron energies in diamond."
+        }
+      ]
+    },
+    "science/science-hku-holographic-optics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-researchers-bring.jpg",
+          "cap": "Conceptual illustration of HKU's holographic display research. Credit: The University of Hong Kong"
+        },
+        {
+          "t": "p",
+          "x": "Combining computer graphics, wave optics and AI-based calibration, researchers at The University of Hong Kong (HKU), led by professor Yifan Evan Peng, have developed two techniques that help holographic displays reproduce more natural changes in focus, perspective and material appearance."
+        },
+        {
+          "t": "p",
+          "x": "In one study, published in Nature Communications, the researchers begin with polygon meshes, retaining the 3D structure of a scene throughout hologram generation. AI-based calibration bridges the gap to a real display: using camera measurements, a learned model accounts for imperfections in the optical system. In lab tests this produced smoother changes in focus and clearer image detail."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-computer-graphics-a.jpg",
+          "cap": "Conceptual illustration of a future holographic AR experience. Credit: The University of Hong Kong"
+        },
+        {
+          "t": "p",
+          "x": "In the second study, in ACM Transactions on Graphics, HoloPathTracer combines path tracing with wave optics to reproduce reflections, refractions, shifting highlights and indirect illumination."
+        },
+        {
+          "t": "p",
+          "x": "The work remains at the research-prototype stage; real-time consumer applications will require faster computation and better spatial light modulators."
+        }
+      ]
+    },
+    "science/science-patent-lawyers-ai-trial": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2025/01/artificial-intelligence-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In a three-month experiment with 133 U.S. patent lawyers, access to an AI writing assistant improved the quality of their patent drafts, with the largest gains among junior lawyers. But on a later task completed without AI, senior lawyers who had been using the tool outperformed senior lawyers who had not, while junior lawyers showed no average advantage. The findings were released as a National Bureau of Economic Research working paper."
+        },
+        {
+          "t": "p",
+          "x": "David Autor of MIT and colleagues at Google randomized lawyers from 11 IP firms: 90 to an unreleased Google Labs writing tool and 43 to a control group. AI users produced better drafts at 10 and 90 days, by about a third of a standard deviation, mainly through fewer weak drafts."
+        },
+        {
+          "t": "p",
+          "x": "On the no-AI redlining task, the advantage came entirely from senior lawyers. “Foundational expertise may be a prerequisite for extracting durable skill from AI-assisted practice,” the authors concluded."
+        },
+        {
+          "t": "p",
+          "x": "The paper has not yet been peer-reviewed. It was conducted and funded by Google, and six of the seven authors work at Google."
+        }
+      ]
+    },
+    "science/mit-worldparticle-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-WorldParticle-01-Press.jpg",
+          "cap": "“It is a similar architecture to ChatGPT. But instead of predicting one word at a time to write a piece of text, we are predicting how these particles will move, one step at a time,” says Peter Yichen Chen."
+        },
+        {
+          "t": "p",
+          "x": "Today, a scientist who wants to simulate a physical process must pick the right tool for that one job, each hand-coded around the specific equations that dictate how that process behaves. Researchers at MIT, the University of British Columbia (UBC), and elsewhere have now replaced that patchwork with a single deep-learning system, called WorldParticle, that could help engineers model different physical phenomena, from sliding sand to folding proteins."
+        },
+        {
+          "t": "p",
+          "x": "The system represents every material it simulates as tiny particles and predicts where those particles will move one step at a time. Because it learns the underlying dynamics rather than being programmed with an equation, the model can adapt to materials, forces, and environments it never encountered during training."
+        },
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/inline/six-split-granular.gif",
+          "cap": "Animations showing molecular, fluid, and granular simulations. Credit: Courtesy of the researchers"
+        },
+        {
+          "t": "p",
+          "x": "“We want to have a GPT moment for simulation,” says Peter Yichen Chen, a former MIT postdoc now at UBC. The researchers demonstrated WorldParticle on six physical phenomena, including deformable objects, granular materials, and proteins, with higher accuracy than numerical simulation methods, and modeled how protein structures change over time about 100 times faster than numerical simulators. The work will be presented at SIGGRAPH Asia."
+        }
+      ]
     }
   }
 }

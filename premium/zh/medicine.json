@@ -3849,6 +3849,131 @@
           "x": "该结果尚未经过同行评审，应视为初步结果；完整结果预计于2027年初发表。"
         }
       ]
+    },
+    "medicine/aha-voice-heartfailure-alert": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_"
+        },
+        {
+          "t": "p",
+          "x": "根据在American Heart Association Scientific Sessions 2026上公布、并发表于JACC: Heart Failure的DETECT-HF试验最新数据，一款基于智能手机的人工智能(AI)语音分析系统可提前三周以上发现心衰症状恶化，表现明显优于标准护理。"
+        },
+        {
+          "t": "p",
+          "x": "DETECT-HF在563名门诊心衰患者中评估了Cordio Medical的HearO系统。该系统平均提前24.6天预测了70%以上的重大心衰事件。主要研究者William T. Abraham, MD表示，传统的每日称重灵敏度约为20%。"
+        },
+        {
+          "t": "video",
+          "src": "https://innovate-healthcare-cdn.s3.amazonaws.com/2026-11/William%20Abraham%20explains%20how%20AI%20voice%20analysis%20can%20detect%20worsening%20heart%20failure.mp4"
+        },
+        {
+          "t": "p",
+          "x": "HearO每天采集六句标准化语句的录音，评估语调、呼吸模式等声学特征。AI算法为每位患者建立专属语音模型，一旦出现心衰恶化的模式便提醒临床医生。"
+        },
+        {
+          "t": "p",
+          "x": "参与者完成了85%的预定录音；无法解释的警报率为每名患者每年2.65次，未报告与器械相关的不良事件。HearO已获FDA突破性器械认定，公司希望于2027年在U.S.上市。"
+        }
+      ]
+    },
+    "medicine/llm-mri-protocoling-radiology": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t"
+        },
+        {
+          "t": "p",
+          "x": "一项新分析显示，在为患者选择最合适的MRI扫描方案时，大语言模型的表现可与放射科医生相当。研究结果表明，某些模型有助于将通常依赖人工完成的MRI方案选择标准化。"
+        },
+        {
+          "t": "p",
+          "x": "由University Hospital Bonn的Dr. Zeynep Bendella领导的研究团队，使用1,200份连续的MRI申请单评估了四款开放权重LLMs，并以两位委员会认证放射科医生的共识作为参考标准。"
+        },
+        {
+          "t": "p",
+          "x": "GPT-OSS-120B和Qwen3-235B-A22B-Instruct-2507的方案准确率均为94%。MedGemma-27B-Text-IT为79%，Gemma-3-27B-IT表现最差，仅为58%。不可接受的选择比例方面，GPT-OSS为5.8%，Qwen3为5.9%，而MedGemma为24.7%，Gemma3为68.3%。"
+        },
+        {
+          "t": "p",
+          "x": "最常见的错误是选择了解剖上合适但临床上并非最优的方案。作者提醒，输出结果的差异以及不可接受选择的频率，凸显了在缺乏临床监督的情况下依赖自动推荐的风险。"
+        }
+      ]
+    },
+    "medicine/thyroid-eye-radiomics-radiotherapy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Figa_HTML.png"
+        },
+        {
+          "t": "p",
+          "x": "放疗是活动期中重度甲状腺眼病(TED)的关键治疗手段，但疗效因人而异，临床活动评分(CAS)的预测价值有限。作者整合临床数据、常规影像和MRI影像组学特征，构建了预测放疗反应的多序列模型。"
+        },
+        {
+          "t": "p",
+          "x": "研究回顾性纳入85名接受标准化放疗(20 Gy)的TED患者，利用T1CE和T2WI MRI上眼外肌的影像组学特征，结合九种机器学习算法开发模型。"
+        },
+        {
+          "t": "p",
+          "x": "85名患者中，46名为应答者，39名为无应答者。临床模型表现有限(AUC = 0.700)，而T1CE、T2WI和多序列影像组学的AUCs分别达到0.850、0.875和0.933。整合模型的AUC最高(0.942)，显著优于临床模型(P = 0.040)。"
+        },
+        {
+          "t": "p",
+          "x": "该模型有助于指导个体化决策、减少无效放疗，并推动甲状腺眼病的个性化管理；经前瞻性验证后，还可支持个体化风险分层。"
+        }
+      ]
+    },
+    "medicine/fda-telesurgery-autonomy-paper": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
+          "cap": "曾实施远程手术的Florida泌尿科医生Dr. Vipul Patel(右)在医院走廊与一名患者交谈。"
+        },
+        {
+          "t": "p",
+          "x": "Food and Drug Administration(食品药品监督管理局)周五发布一份关于具备自主或远程操控能力的机器人医疗器械的讨论文件，就这类系统的获益与风险征求意见。意见截止日期为1月5日，公开研讨会定于12月2-3日举行。"
+        },
+        {
+          "t": "p",
+          "x": "FDA表示，截至7月，U.S.尚无远程操控或完全自主的机器人器械获得上市许可。10月，Dr. Vipul Patel在研究用器械豁免框架下，为约35英里外的一名患者实施了机器人前列腺切除术。"
+        },
+        {
+          "t": "p",
+          "x": "制造商也在探索自主功能，可能包括在没有抽血员的情况下完成抽血，以及发现或止住体内危及生命的出血。FDA表示，人工智能、机器学习和互联技术的快速进步正推动机器人应用的扩展。"
+        },
+        {
+          "t": "p",
+          "x": "自主性可提升操作的准确性、可重复性或工作流程效率，但随之而来的也可能有特有的风险，例如自主执行出错、使用者警觉性下降，以及对操作变化的适应能力有限。"
+        }
+      ]
+    },
+    "medicine/science-ai-paper-error-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.science.org/do/10.1126/science.zrukrlb/rss/_20261102_ai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "新研究表明，AI善于在攸关医疗决策的研究中发现技术缺陷。"
+        },
+        {
+          "t": "p",
+          "x": "这项研究是一篇medRxiv预印本，题为“Large language models detect methodological errors that human peer review misses in clinical trials”（大语言模型能发现人类同行评审在临床试验中遗漏的方法学错误）。它重新审视了一项早期实验：研究人员在三份随机临床试验报告中植入错误，未经培训的人类审稿人对主要错误的平均检出得分为27%。"
+        },
+        {
+          "t": "p",
+          "x": "十五个大语言模型（其中四个为开放权重模型）接受了相同错误的测试，主要错误检出得分在53%至96%之间。为降低记忆带来的风险，研究人员又用2026年发表的三项临床试验重复测试，得分在51%至99%之间，开放权重模型为66%至87%。"
+        },
+        {
+          "t": "p",
+          "x": "在未植入错误的对照报告中，模型仍会标记2%至29%的错误类型，最常见的是结论得不到结果支持。Opus 5.5的主要错误检出得分最高（99%），GPT-6.1 Sol和GPT-6 Luna分别为92%和87%。作者认为，仅依靠人类同行评审，可能会让本可避免的方法学错误未被发现。"
+        }
+      ]
     }
   }
 }

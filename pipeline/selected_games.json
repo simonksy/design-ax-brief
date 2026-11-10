@@ -1,168 +1,101 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "section": "games",
-  "picks": [
-    {
-      "title": "NVIDIA's Lyra 2.0 Turns a Single Image Into an Explorable 3D World, With Persistent Environments and Real-Time Rendering",
-      "url": "https://wccftech.com/nvidias-lyra-2-0-turns-a-single-image-into-an-explorable-3d-world-with-persistent-environments-and-real-time-rendering/",
-      "source": "Wccftech",
-      "category": "games",
-      "tool": "Games",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "published_iso": "2026-11-09T13:10:03+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg",
-      "excerpt": "NVIDIA's Lyra 2.0 generates an explorable, persistent 3D world from a single image by combining AI video generation, spatial memory and 3D reconstruction, rendered in real time - a new world-model version aimed at environment creation.",
-      "rationale": "New world-model release (v2.0) that turns one concept image into a persistent explorable 3D environment - directly relevant to environment artists and level blockout."
-    },
-    {
-      "title": "Artists at the center: How InnoGames integrated gen AI into its art pipeline",
-      "url": "https://mobidictum.com/gen-ai-artists-innogames-pipeline/",
-      "source": "Mobidictum",
-      "category": "games",
-      "tool": "Games",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "published_iso": "2026-11-09T12:28:45+03:00",
-      "og_image": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png",
-      "excerpt": "In a guest article, InnoGames head of art Dario Berruti explains how the studio integrated generative AI into its game-art production workflows while keeping artists at the center.",
-      "rationale": "First-hand art-pipeline playbook from a studio head of art - the most directly actionable item for game artists in the pool."
-    },
-    {
-      "title": "Google AI developer's unauthorized iPhone Duo port of the Zelda: Ocarina of Time remake, made with Gemini 4, draws backlash and is deleted",
-      "url": "https://automaton-media.com/articles/newsjp/20261109-478221/",
-      "source": "AUTOMATON",
-      "category": "games",
-      "tool": "Games",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "published_iso": "2026-11-09T04:35:23+00:00",
-      "og_image": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg",
-      "excerpt": "Google employee Ammaar Reshi posted on 11-07 that he had used Gemini 4 to get Nintendo's full Ocarina of Time remake running on iPhone Duo; the post drew criticism over engineering ethics and IP and has since been deleted.",
-      "rationale": "New incident in the AI-port/IP debate, notable because a Google AI developer did it with Gemini 4 and then pulled it under backlash."
-    },
-    {
-      "title": "完全オフライン、無制限、53言語対応。「日本発の翻訳AI」無償公開から数日、ゲーマー向けツールも続々登場",
-      "url": "http://www.gamespark.jp/article/2026/11/09/174651.html",
-      "source": "Game*Spark",
-      "category": "games",
-      "tool": "Games",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "published_iso": "2026-11-09T14:20:35+09:00",
-      "og_image": "https://www.gamespark.jp/imgs/ogp_f/1217054.png",
-      "excerpt": "Days after Preferred Networks released its free, fully offline translation model PLaMo 3 Translate (53 languages, no usage limits), developers are releasing gamer-facing translation tools built on it.",
-      "rationale": "Free offline 53-language translation model already spawning gamer/localisation tools - practical for indie localisation and a fresh release."
-    },
-    {
-      "title": "Jackbox Games isn't interested in AI development: 'All that is done by people, and we have no intention of changing that'",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/",
-      "source": "PC Gamer",
-      "category": "games",
-      "tool": "Games",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "published_iso": "2026-11-08T22:06:56+00:00",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo-1280-80.png",
-      "excerpt": "Jackbox CEO Mike Bilder says the studio's comedy, writing and art will stay human-made and it has no intention of replacing people or people-made editorial and art with generative assets, while allowing AI's use for tooling and research.",
-      "rationale": "A named studio's explicit policy line (human-made writing/art, AI only for tooling/research) - a concrete stance studios can benchmark against."
-    }
-  ],
   "items": [
     {
-      "title": "NVIDIA's Lyra 2.0 Turns a Single Image Into an Explorable 3D World, With Persistent Environments and Real-Time Rendering",
-      "url": "https://wccftech.com/nvidias-lyra-2-0-turns-a-single-image-into-an-explorable-3d-world-with-persistent-environments-and-real-time-rendering/",
-      "source": "Wccftech",
+      "title": "Unreal Engine 5.9 Preview Is Out & It Was Built With AI",
+      "url": "https://80.lv/articles/unreal-engine-5-9-preview-is-out-it-was-built-with-ai/",
+      "source": "80 Level",
       "category": "games",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "published_iso": "2026-11-09T13:10:03+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg",
-      "excerpt": "NVIDIA's Lyra 2.0 generates an explorable, persistent 3D world from a single image by combining AI video generation, spatial memory and 3D reconstruction, rendered in real time - a new world-model version aimed at environment creation.",
-      "rationale": "New world-model release (v2.0) that turns one concept image into a persistent explorable 3D environment - directly relevant to environment artists and level blockout."
+      "published_iso": "2026-11-10T08:24:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50957/images/6af2d4ad241ac/contain_1200x630.jpg",
+      "excerpt": "Epic's UE 5.9 Preview ships AI workflow enhancements (agent tools, Unreal Canvas generation) plus web platform, rendering and animation updates; Epic says the preview itself was built largely with AI.",
+      "rationale": "New engine release with agent tools and Unreal Canvas generation — directly changes how UE teams work; games owns this story per cross-section assignment."
     },
     {
-      "title": "Artists at the center: How InnoGames integrated gen AI into its art pipeline",
-      "url": "https://mobidictum.com/gen-ai-artists-innogames-pipeline/",
-      "source": "Mobidictum",
+      "title": "House House clarifies use of AI tools in Big Walk's \"final stage of development\"",
+      "url": "https://www.gamesindustry.biz/house-house-clarifies-use-of-ai-tools-in-big-walks-final-stage-of-development",
+      "source": "GamesIndustry.biz",
       "category": "games",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "published_iso": "2026-11-09T12:28:45+03:00",
-      "og_image": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png",
-      "excerpt": "In a guest article, InnoGames head of art Dario Berruti explains how the studio integrated generative AI into its game-art production workflows while keeping artists at the center.",
-      "rationale": "First-hand art-pipeline playbook from a studio head of art - the most directly actionable item for game artists in the pool."
+      "published_iso": "2026-11-10T09:07:50+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "House House issued a statement on AI tool use in Big Walk after a group of 2027 IGF jurors said they would decline to vote for games that used generative AI during development.",
+      "rationale": "Studio's official statement plus IGF juror stance sets a concrete awards-eligibility line on gen-AI use; industry-trade source carries both halves."
     },
     {
-      "title": "Google AI developer's unauthorized iPhone Duo port of the Zelda: Ocarina of Time remake, made with Gemini 4, draws backlash and is deleted",
-      "url": "https://automaton-media.com/articles/newsjp/20261109-478221/",
+      "title": "ゲーム日本語化ツール「PCOT」次のアプデで開発終了へ。AIの進化で“セルフ直接日本語化”の未来が見えたため",
+      "url": "https://automaton-media.com/articles/newsjp/20261110-478520/",
       "source": "AUTOMATON",
       "category": "games",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "published_iso": "2026-11-09T04:35:23+00:00",
-      "og_image": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg",
-      "excerpt": "Google employee Ammaar Reshi posted on 11-07 that he had used Gemini 4 to get Nintendo's full Ocarina of Time remake running on iPhone Duo; the post drew criticism over engineering ethics and IP and has since been deleted.",
-      "rationale": "New incident in the AI-port/IP debate, notable because a Google AI developer did it with Gemini 4 and then pulled it under backlash."
+      "published_iso": "2026-11-10T13:49:45+00:00",
+      "og_image": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-header.jpg",
+      "excerpt": "Solo developer nurupo is ending the long-running game translation-assist tool PCOT after its next update, saying AI has made players' self-service direct Japanese localization the future.",
+      "rationale": "A long-standing fan-localization tool retiring because AI replaced its job — concrete signal on player-side localization."
     },
     {
-      "title": "完全オフライン、無制限、53言語対応。「日本発の翻訳AI」無償公開から数日、ゲーマー向けツールも続々登場",
-      "url": "http://www.gamespark.jp/article/2026/11/09/174651.html",
-      "source": "Game*Spark",
+      "title": "Educational game dev program cancelled because students were submitting games made entirely with AI",
+      "url": "https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai/",
+      "source": "PC Gamer",
       "category": "games",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "published_iso": "2026-11-09T14:20:35+09:00",
-      "og_image": "https://www.gamespark.jp/imgs/ogp_f/1217054.png",
-      "excerpt": "Days after Preferred Networks released its free, fully offline translation model PLaMo 3 Translate (53 languages, no usage limits), developers are releasing gamer-facing translation tools built on it.",
-      "rationale": "Free offline 53-language translation model already spawning gamer/localisation tools - practical for indie localisation and a fresh release."
+      "published_iso": "2026-11-10T16:59:19Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X-2384-80.jpg",
+      "excerpt": "An educational game-development program was cancelled because growing generative-AI use made it 'harder to judge what students made themselves.'",
+      "rationale": "New event showing AI breaking game-dev education assessment — fresh angle distinct from storefront slop stories."
     },
     {
-      "title": "Jackbox Games isn't interested in AI development: 'All that is done by people, and we have no intention of changing that'",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/",
-      "source": "PC Gamer",
+      "title": "Claude Fable 5.2 Builds Playable Gears of War: E-Day Clone From Three-Line Prompt",
+      "url": "https://wccftech.com/claude-fable-5-2-builds-playable-gears-of-war-e-day-clone-from-three-line-prompt-but-estimated-cost-reaches-15000/",
+      "source": "Wccftech",
       "category": "games",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "published_iso": "2026-11-08T22:06:56+00:00",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo-1280-80.png",
-      "excerpt": "Jackbox CEO Mike Bilder says the studio's comedy, writing and art will stay human-made and it has no intention of replacing people or people-made editorial and art with generative assets, while allowing AI's use for tooling and research.",
-      "rationale": "A named studio's explicit policy line (human-made writing/art, AI only for tooling/research) - a concrete stance studios can benchmark against."
+      "published_iso": "2026-11-10T15:29:03+00:00",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-24.jpg",
+      "excerpt": "Claude Fable 5.2 built a playable Unreal Engine Gears of War clone from a three-line prompt, but the project consumed about 8.5 billion tokens.",
+      "rationale": "Concrete capability-and-cost datapoint for agentic game building in Unreal (8.5B tokens, ~$15k) — useful calibration for teams."
     }
   ],
   "dedup": {
     "checks": {
-      "https://wccftech.com/nvidias-lyra-2-0-turns-a-single-image-into-an-explorable-3d-world-with-persistent-environments-and-real-time-rendering/": {
+      "https://80.lv/articles/unreal-engine-5-9-preview-is-out-it-was-built-with-ai/": {
         "verdict": "new",
-        "nearest": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+        "nearest": "https://www.gamesradar.com/games/epic-wants-to-pay-you-usd50-000-to-vibe-code-an-ai-slop-game/",
         "new_action": ""
       },
-      "https://mobidictum.com/gen-ai-artists-innogames-pipeline/": {
+      "https://www.gamesindustry.biz/house-house-clarifies-use-of-ai-tools-in-big-walks-final-stage-of-development": {
         "verdict": "new",
-        "nearest": "https://www.nvidia.com/en-us/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/",
+        "nearest": "https://www.pocketgamer.biz/roblox-brings-audioscape-team-in-house-to-develop-ai-audio-tools/",
         "new_action": ""
       },
-      "https://automaton-media.com/articles/newsjp/20261109-478221/": {
+      "https://automaton-media.com/articles/newsjp/20261110-478520/": {
         "verdict": "new",
-        "nearest": "https://www.gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-links-awakenings-nintendo-switch-remake-now-has-a-pc-port-if-you-can-stomach-an-almost-exclusive-use-of-ai/",
+        "nearest": "http://www.gamespark.jp/article/2026/11/09/174651.html",
         "new_action": ""
       },
-      "http://www.gamespark.jp/article/2026/11/09/174651.html": {
+      "https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai/": {
         "verdict": "new",
-        "nearest": "https://automaton-media.com/en/news/steinsgate-developer-mages-says-ai-translation-is-a-long-way-from-being-viable-for-visual-novels/",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/": {
+      "https://wccftech.com/claude-fable-5-2-builds-playable-gears-of-war-e-day-clone-from-three-line-prompt-but-estimated-cost-reaches-15000/": {
         "verdict": "new",
-        "nearest": "https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games",
+        "nearest": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: inews24 2023215 (Com2uS Hive Axel CEO interview) - follow-up on the 10-27 gamemeca gid=1782378 Hive Axel story with no new release (Unreal/Godot support is only a 2027 roadmap mention). Kotaku Sakurai item - same Famitsu-event story as the Eurogamer item (within-pool cluster). Eurogamer Sakurai - new remarks at a new event, so not strictly a repeat, but it is another 'Sakurai on gen-AI' quote 3 weeks after the 10-17 GamesRadar card; ranked out. Ranked out (not duplicates): AMDLSS5 2.0 (community mod, DLSS 5 running story), Petit Planet interview, Craft Anything (off-list clone tool), GamesBeat Next panel (commentary). Ocarina of Time iPhone port is a distinct event (different game, different person, Gemini 4) from the 10-15 Link's Awakening PC port. Cross-section caveat: this agent has Read/Write only, so published_urls.json (4,192 lines) could not be grep'd in full - the orchestrator should exact-grep it for 'lyra', 'plamo', 'ocarina', 'jackbox', 'innogames' and the five pick URLs before roll. Brief-assigned exclusions honoured (anti-AI hand-drawn fish game not in pool / not picked)."
+    "note": "Cluster c1 (UE 5.9 Preview): kept 80 Level, dropped AUTOMATON 20261110-478512 and Game*Spark 174714 as same release. history_match to Epic MegaJam $50k (10-23) and UE6 Blueprints keynote (11-05) are different events; 5.9 Preview is a new release. Cluster c3 (Big Walk / IGF jurors): kept GamesIndustry.biz, dropped Eurogamer (same statement), Aftermath (IGF juror statement, trigger of same story) and Polygon (analysis of same story). Cluster c7 (PCOT): kept AUTOMATON, dropped Game*Spark 174727. Dropped inews24 2023215 (Hive Axil interview — follow-up to published 10-27 gamemeca Hive Axil plugin story, no new release). Not picked on score: AMDLSS5 mod (PC Gamer, would be 2nd PC Gamer; DLSS 5 already well covered), Unity Spark how-to guide (evergreen tips), Take-Two piracy remarks (exec commentary, near 11-07 GTA6 AI-clone story). Cross-section: no candidate used in this pick matches a cross-section assignment other than UE 5.9 (games-owned); published_urls.json was not exact-grepped (no shell tool available to this agent) — orchestrator should run the grep before roll."
   }
 }

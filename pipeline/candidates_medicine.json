@@ -1,150 +1,15 @@
 {
   "section": "medicine",
-  "now_iso": "2026-11-09T22:02:53Z",
+  "now_iso": "2026-11-10T22:00:35Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "\"환자 눈 보는 동안 기록은 AI가\"…33년차 외과의가 만든 '왕진 도구'",
-      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044404",
-      "source": "청년의사",
-      "published_iso": "2026-11-10T06:35:28+09:00",
-      "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044404_3048358_2450_v150.jpg",
-      "excerpt": "왕진연구소(집으로의원) 김주형 대표가 방문진료 중 대화를 SOAP 형식 기록 초안으로 정리하는 AI 기능을 개발했다. TV·보호자 소리가 섞이는 가정 환경을 고려했으며, 회사 자체 측정에서 주 50건 왕진 의사의 행정 시간이 주 12.5시간에서 1.7시간으로 줄었다.",
-      "category": "medicine"
-    },
-    {
-      "title": "\"이 일을 언제까지 할 수 있을까\"…소아응급 전문의가 AI 개발한 이유",
-      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044357",
-      "source": "청년의사",
-      "published_iso": "2026-11-09T06:25:23+09:00",
-      "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044357_3048305_479_v150.jpg",
-      "excerpt": "삼성서울병원 응급의학과 손명희 교수가 소아응급 인력난에 대비해 의료진을 만나기 전 보호자에게 먼저 묻고 소통 공백을 줄이는 소아응급 커뮤니케이션 AI 에이전트와 검증 체계를 개발한 사례를 HiPex 2026에서 발표했다.",
-      "category": "medicine"
-    },
-    {
-      "title": "AI improves trainee doctors' ear disease diagnostic accuracy by 32.2 percentage points: AMC",
-      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33776",
-      "source": "Korea Biomedical Review",
-      "published_iso": "2026-11-09T11:15:14+09:00",
-      "og_image": "https://cdn.koreabiomed.com/news/thumbnail/202611/33776_36923_855_v150.jpg",
-      "excerpt": "Asan Medical Center built an AI model on 7,335 ear endoscopy images and tested it with 13 physicians; with AI assistance junior trainees' accuracy at telling chronic otitis media from otitis media with effusion rose from 54.4% to 86.6%, shrinking the gap with faculty from 24.3 to 3.1 points. (Off-list outlet; no on-list Korean version in feeds.)",
-      "category": "medicine"
-    },
-    {
-      "title": "루닛, 의료 특화 AI 파운데이션 모델 '러닝유닛 2.0' 전격 공개",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015863",
-      "source": "의학신문(일간보사)",
-      "published_iso": "2026-11-07T00:01:45+09:00",
-      "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3015863_416777_2254.png",
-      "excerpt": "루닛이 정부 '의과학 특화 파운데이션 모델' 과제로 병원 내부 구동형 300억(활성 50억) 파라미터 에이전트 모델 '러닝유닛 2.0'을 허깅페이스에 오픈소스로 공개했다. 일산병원·건양대병원·고려대의료원 등 9개 기관 실증에서 다학제 진료 방침의 86.2%가 임상적으로 타당하다는 평가를 받았고 KTAS 분류·약물이상반응 판정도 시험했다.",
-      "category": "medicine"
-    },
-    {
-      "title": "대구가톨릭대의료원, 미숙아 만성 폐질환 예측 AI 모델 개발",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015979",
-      "source": "의학신문(일간보사)",
-      "published_iso": "2026-11-09T15:32:59+09:00",
-      "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3015979_416885_2740.jpg",
-      "excerpt": "대구가톨릭대의료원 연구팀이 신생아중환자실 미숙아 2,153명 데이터로 기관지폐이형성증 위험을 생후 7일간 단계별로 예측하는 머신러닝 모델을 개발했다. AUC는 출생 직후 0.751에서 생후 7일 정보 종합 시 0.923까지 올랐다(Children 게재).",
-      "category": "medicine"
-    },
-    {
-      "title": "엑스레이도 '공간 맞춤형' 시대…삼성전자, AI 장착한 천장형 'GC85A Fit' 출격",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015999",
-      "source": "의학신문(일간보사)",
-      "published_iso": "2026-11-09T21:59:43+09:00",
-      "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3015999_416898_3621.jpg",
-      "excerpt": "삼성전자 의료기기사업부가 플래그십 영상처리 엔진과 AI 솔루션을 유지한 모듈형 천장형 디지털 엑스레이 'GC85A Fit'을 내놨다. 검사실 밖에서 환자 자세를 보고 원격 조정하는 '비전 어시스트' 등 재촬영을 줄이는 기능을 담았다. (제품 출시 기사 — AI는 부가 기능, 약한 후보.)",
-      "category": "medicine"
-    },
-    {
-      "title": "How early efforts to build autonomous clinical AI tools are approaching regulation",
-      "url": "https://endpoints.news/how-early-efforts-to-build-autonomous-clinical-ai-tools-are-approaching-regulation/",
-      "source": "Endpoints News",
-      "published_iso": "2026-11-09T20:40:03+00:00",
-      "og_image": "https://endpoints.news/wp-content/uploads/2023/12/digital-health-concept-shutterstock-social.jpg",
-      "excerpt": "Multiple teams in ARPA-H's ADVOCATE program, which funds autonomous clinical AI agents, have already held initial informational meetings with the FDA less than two months after the program launched. (Registration wall; body partial.)",
-      "category": "medicine"
-    },
-    {
-      "title": "Hospitals write off $132B as AI fails to move the needle with finances",
-      "url": "https://www.healthcaredive.com/news/hospitals-write-off-132b-ai-fails-to-move-needle-with-finances/874161/",
-      "source": "Healthcare Dive",
-      "published_iso": "2026-11-09T14:30:52-05:00",
-      "og_image": "https://imgproxy.divecdn.com/QEl9bYuvsD35KFv2lchSJuWaDpokn09lTbcQpftooCo/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQyMjU5NzM0LmpwZw==.webp",
-      "excerpt": "Hospitals are losing more money from bad debt and write-offs despite investing billions into automation and AI to improve revenue-cycle performance, a new analysis finds.",
-      "category": "medicine"
-    },
-    {
-      "title": "AI beats scientists at finding errors in clinical research papers",
-      "url": "https://www.science.org/content/article/ai-beats-scientists-finding-errors-clinical-research-papers",
-      "source": "Science",
-      "published_iso": "2026-11-09T15:00:16Z",
-      "og_image": "https://www.science.org/do/10.1126/science.zrukrlb/rss/_20261102_ai.jpg",
-      "excerpt": "New findings demonstrate AI's aptitude for identifying technical flaws in clinical studies where medical decisions are on the line, outperforming human scientists. (Page Cloudflare-gated; date from Crossref created, image from RSS enclosure.)",
-      "category": "medicine"
-    },
-    {
-      "title": "AI chatbots aren't therapists. But can they finally get men to open up?",
-      "url": "https://www.statnews.com/2026/11/09/ai-chatbots-can-overcome-mental-health-barriers-in-men/",
-      "source": "STAT",
-      "published_iso": "2026-11-09T09:30:00+00:00",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/11/Stat_11_4_2026-1-1024x576.jpg",
-      "excerpt": "AI chatbots are imperfect therapists, but STAT examines whether they can lower barriers that keep men from seeking mental health care.",
-      "category": "medicine"
-    },
-    {
-      "title": "Why the latest heart drug failures should make us all more skeptical of AI hype",
-      "url": "https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/",
-      "source": "STAT",
-      "published_iso": "2026-11-08T09:30:00+00:00",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_182456094-1024x576.jpeg",
-      "excerpt": "Once again, a hot new technology that was supposed to speed up drug research has fallen flat: AHA 2026 heart-drug failures as a lesson for AI-driven drug development. (STAT+ analysis.)",
-      "category": "medicine"
-    },
-    {
-      "title": "Lunit to supply AI software to Saudi National Guard health system",
-      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16424940/lunit-lunit-to-supply-ai-software-to-saudi-national-guard-health-system",
-      "source": "AuntMinnie",
-      "published_iso": "2026-11-09T19:48:16Z",
-      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/ai2.AcaGcw7YRD.jpg",
-      "excerpt": "Lunit will license Lunit Insight CXR and Lunit Insight MMG to Saudi Arabia's Ministry of National Guard Health Affairs, integrating chest x-ray and mammography AI into its existing PACS across hospitals in Riyadh, Jeddah and other cities.",
-      "category": "medicine"
-    },
-    {
-      "title": "USARad expands use of AZmed's x-ray AI",
-      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16424952/nanox-usarad-expands-use-of-azmeds-xray-ai",
-      "source": "AuntMinnie",
-      "published_iso": "2026-11-09T19:44:32Z",
-      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/aipartnership.yCCQnQTOSq.jpg",
-      "excerpt": "Nanox teleradiology subsidiary USARad is further integrating AZmed's Rayvolve x-ray AI suite, eight FDA-cleared musculoskeletal and chest x-ray applications, into its reading workflows.",
-      "category": "medicine"
-    },
-    {
-      "title": "AI-interpreted echocardiograms comparable to human reports, cardiologists' time cut by about 50%",
-      "url": "https://newsroom.heart.org/news/ai-interpreted-echocardiograms-comparable-to-human-reports-cardiologists-time-cut-by-about-50",
-      "source": "American Heart Association Newsroom",
-      "published_iso": "2026-11-09T16:22:00Z",
-      "og_image": "https://iprsoftwaremedia.com/67/files/20143/53599f8bc8046712f4065d3a_heart%20with%20artery%20view/heart%20with%20artery%20view_hero.jpg?v=01ffdf01-5bde-4cd9-b76c-748d50ca8d91",
-      "excerpt": "AHA Scientific Sessions 2026: in a study testing an AI model for evaluating echocardiograms, AI-assisted interpretation was comparable to standard human reports and cut cardiologists' reading time by about half. (Off-list newsroom.heart.org; cardiology imaging saturated — accept only as a distinct result.)",
-      "category": "medicine"
-    },
-    {
-      "title": "Randomized Evaluation of an Autoimmune Disease Prediction Model — AURA (AUtoimmune Risk Assessment)",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600112",
-      "source": "NEJM AI",
-      "published_iso": "2026-11-06T15:00:51Z",
-      "og_image": null,
-      "excerpt": "NEJM AI original article reporting a randomized evaluation of AURA, an autoimmune disease risk-prediction model. (Page Cloudflare-gated; date from Crossref created.)",
-      "category": "medicine"
-    },
-    {
-      "title": "AI-enabled virtual mental health startup Siggy launches from stealth",
-      "url": "https://www.fiercehealthcare.com/digital-health/ai-enabled-virtual-mental-health-startup-siggy-launches-stealth",
+      "title": "Google Cloud rolls out Gemini for healthcare",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/google-cloud-rolls-out-gemini-healthcare",
       "source": "Fierce Healthcare",
-      "published_iso": "2026-11-09T13:23:00-05:00",
-      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/12_website_landing_page_desktop.png?VersionId=Vwr3MUOGVO.1L3CmitnZy0Ff1EIfq4zM",
-      "excerpt": "Siggy, an AI-enabled virtual mental health provider combining therapy, prescription management and AI tools, launched from stealth with $6 million in pre-seed funding. (Launch + funding; weak.)",
+      "published_iso": "2026-11-10T11:23:18-05:00",
+      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ",
+      "excerpt": "Google launched Gemini for healthcare, an agentic AI platform built with clinical and health-plan leaders and designed to support HIPAA compliance; US preview partners include Northwell, HCA and Optum.",
       "category": "medicine"
     },
     {
@@ -153,34 +18,223 @@
       "source": "Fierce Healthcare",
       "published_iso": "2026-11-09T07:00:00-05:00",
       "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
-      "excerpt": "More than 190 health systems have now purchased Doximity's clinical AI suite, up from 165, as the company expands enterprise deployments of its AI tools for clinicians.",
+      "excerpt": "More than 190 health systems have now purchased Doximity's clinical AI suite, up from 165 last quarter, as enterprise deployments of its clinician AI tools expand. (Earnings-adjacent deployment count; weaker.)",
       "category": "medicine"
     },
     {
-      "title": "LLM ensemble PREVIA predicts future PTSD risk from emergency department trauma narratives with expert-level accuracy",
-      "url": "https://www.nature.com/articles/s41467-026-78768-3",
-      "source": "Nature Communications",
-      "published_iso": "2026-11-09T10:03:03Z",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig1_HTML.png",
-      "excerpt": "NYU Langone's open-source LLM ensemble PREVIA predicts one-month PTSD risk from ED patients' answer to a single routine-care question ('What brought you to the ED?'); on 30 patients who developed PTSD it flagged all, versus 89% for a PTSD-specialist clinician.",
+      "title": "Voice changes may detect worsening heart failure weeks before other symptoms appear",
+      "url": "https://cardiovascularbusiness.com/topics/clinical/heart-failure/voice-changes-may-detect-worsening-heart-failure-weeks-other-symptoms-appear",
+      "source": "Cardiovascular Business",
+      "published_iso": "2026-11-10T20:22:18+00:00",
+      "og_image": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_",
+      "excerpt": "An AI-powered voice analysis system presented at AHA 2026 flagged worsening heart failure weeks before other symptoms and was much more accurate than the current standard of care. (Cardiology, but remote-monitoring voice AI rather than imaging.)",
       "category": "medicine"
     },
     {
-      "title": "MambaSleepCVD for prediction of long term cardiovascular outcomes from polysomnography",
-      "url": "https://www.nature.com/articles/s41746-026-03450-3",
+      "title": "Large language models show potential in MRI protocoling",
+      "url": "https://radiologybusiness.com/topics/artificial-intelligence/large-language-models-show-potential-mri-protocoling",
+      "source": "Radiology Business",
+      "published_iso": "2026-11-10T00:10:55+00:00",
+      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t",
+      "excerpt": "A new analysis finds LLMs perform on par with radiologists at selecting the most appropriate MRI protocol for patients.",
+      "category": "medicine"
+    },
+    {
+      "title": "Synthetic data to lower barriers towards equitable artificial intelligence in rapid diagnostic test interpretation",
+      "url": "https://www.nature.com/articles/s41746-026-03380-0",
       "source": "npj Digital Medicine",
-      "published_iso": "2026-11-07T00:00:00Z",
+      "published_iso": "2026-11-10T17:43:00Z",
       "og_image": null,
-      "excerpt": "A deep-learning model on full-night polysomnography signals estimates how much prognostic information sleep studies carry for long-term cardiovascular disease risk.",
+      "excerpt": "SynSight generates synthetic rapid-diagnostic-test images so machine-learning readers of RDTs can be trained without large, proprietary, costly real-world image libraries, aiming at equitable point-of-care diagnosis.",
       "category": "medicine"
     },
     {
-      "title": "The Big Challenge for AI in Healthcare Comes After Approval",
-      "url": "https://medcitynews.com/2026/11/the-big-challenge-for-ai-in-healthcare-comes-after-approval/",
+      "title": "Collaborative generalist-specialist AI for safe worklist deprioritization of non-contrast brain CT",
+      "url": "https://www.nature.com/articles/s41746-026-03447-y",
+      "source": "npj Digital Medicine",
+      "published_iso": "2026-11-05T10:16:00Z",
+      "og_image": null,
+      "excerpt": "A generalist-plus-specialist AI system is designed to safely deprioritize normal non-contrast brain CT scans on radiology worklists, targeting high sensitivity and negative predictive value across common and rare findings.",
+      "category": "medicine"
+    },
+    {
+      "title": "Multi-sequence MRI-based radiomics model for predicting radiotherapy response in thyroid eye disease",
+      "url": "https://www.nature.com/articles/s43856-026-01991-y",
+      "source": "Communications Medicine",
+      "published_iso": "2026-11-10T13:05:00Z",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Fig1_HTML.png",
+      "excerpt": "A multi-sequence MRI radiomics model predicts which thyroid eye disease patients will respond to orbital radiotherapy, whose effect varies widely across patients — a treatment-planning use of imaging AI.",
+      "category": "medicine"
+    },
+    {
+      "title": "AI 재활 앱, 오십견 환자 어깨 외회전 개선 효과 확인",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016079",
+      "source": "의학신문(일간보사)",
+      "published_iso": "2026-11-10T12:07:58+09:00",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3016079_416975_24.png",
+      "excerpt": "국내 교수팀이 AI 기반 재활 앱을 활용한 운동이 오십견 환자의 어깨 외회전 운동 범위와 삶의 질 개선에 도움이 된다는 연구 결과를 내놨다.",
+      "category": "medicine"
+    },
+    {
+      "title": "AI로 항생제 처방 지원 시스템 구축한다! — 한림대강남성심병원",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016028",
+      "source": "의학신문(일간보사)",
+      "published_iso": "2026-11-10T09:06:37+09:00",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3016028_416924_66.jpg",
+      "excerpt": "한림대강남성심병원이 감염 위험을 예측하고 검사 결과가 나오기 전 의료진의 항생제 선택을 돕는 병원 맞춤형 AI 처방 지원 시스템 구축에 나섰다(항생제 적정사용·AMR 대응).",
+      "category": "medicine"
+    },
+    {
+      "title": "의정갈등 속 업무 혼선 AI로…해운대백병원 간호국이 이끈 변화",
+      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044422",
+      "source": "청년의사",
+      "published_iso": "2026-11-10T07:00:32+09:00",
+      "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044422_3048370_5656_v150.jpg",
+      "excerpt": "해운대백병원 간호국이 약 1,500명 간호인력 관리, 신규 간호사 채용·교육에 AI를 쓰고, 인턴 복귀 후 PA 간호사 업무분장 혼선을 AI 챗봇으로 줄인 사례.",
+      "category": "medicine"
+    },
+    {
+      "title": "\"환자 눈 보는 동안 기록은 AI가\"…33년차 외과의가 만든 '왕진 도구'",
+      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044404",
+      "source": "청년의사",
+      "published_iso": "2026-11-10T06:35:28+09:00",
+      "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044404_3048383_2057_v150.jpg",
+      "excerpt": "왕진연구소(집으로의원) 김주형 대표가 방문진료 중 대화를 SOAP 기록 초안으로 정리하는 AI 기능을 개발했다; 회사 자체 측정에서 주 50건 왕진 의사의 행정 시간이 주 12.5시간에서 1.7시간으로 줄었다.",
+      "category": "medicine"
+    },
+    {
+      "title": "Lunit wins Saudi National Guard healthcare AI imaging deal",
+      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33795",
+      "source": "Korea Biomedical Review",
+      "published_iso": "2026-11-10T10:28:25+09:00",
+      "og_image": "https://cdn.koreabiomed.com/news/thumbnail/202611/33795_36946_2722_v150.jpg",
+      "excerpt": "Lunit will supply Lunit Insight CXR and MMG chest x-ray and mammography AI to Saudi Arabia's Ministry of National Guard Health Affairs, integrated into PACS across its hospitals.",
+      "category": "medicine"
+    },
+    {
+      "title": "AI improves trainee doctors' ear disease diagnostic accuracy by 32.2 percentage points: AMC",
+      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33776",
+      "source": "Korea Biomedical Review",
+      "published_iso": "2026-11-09T11:15:14+09:00",
+      "og_image": "https://cdn.koreabiomed.com/news/thumbnail/202611/33776_36923_855_v150.jpg",
+      "excerpt": "Asan Medical Center's AI model, trained on 7,335 ear endoscopy images, raised junior trainees' accuracy in telling chronic otitis media from otitis media with effusion from 54.4% to 86.6%.",
+      "category": "medicine"
+    },
+    {
+      "title": "Pediatric emergency specialist turns to AI as staffing fears deepen",
+      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33783",
+      "source": "Korea Biomedical Review",
+      "published_iso": "2026-11-09T14:07:19+09:00",
+      "og_image": "https://cdn.koreabiomed.com/news/thumbnail/202611/33783_36929_629_v150.jpg",
+      "excerpt": "A Samsung Medical Center pediatric emergency specialist built an AI agent that gathers information from parents before they meet staff, plus a validation framework, in response to pediatric ER staffing shortages.",
+      "category": "medicine"
+    },
+    {
+      "title": "OpenAI's head of health talks helping patients take action",
+      "url": "https://endpoints.news/openais-head-of-health-talks-helping-patients-take-action/",
+      "source": "Endpoints News",
+      "published_iso": "2026-11-10T14:08:44+00:00",
+      "og_image": "https://endpoints.news/wp-content/uploads/2026/04/Nate-Gross-OpenAI-feature.jpg",
+      "excerpt": "OpenAI health lead Nate Gross says ChatGPT Health's next phase could move people 'from better answers with context to really empowered actions'. (Interview; registration wall.)",
+      "category": "medicine"
+    },
+    {
+      "title": "FDA seeks input on telesurgery, autonomous robotics",
+      "url": "https://www.medtechdive.com/news/fda-seeks-input-on-telesurgery-autonomous-robotics/874124/",
+      "source": "MedTech Dive",
+      "published_iso": "2026-11-09T10:47:04-05:00",
+      "og_image": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
+      "excerpt": "FDA's CDRH released a discussion paper on benefit-risk for robotic medical devices with autonomous or remote teleoperation capabilities (docket FDA-2026-N-13135, comments due Jan. 5, 2027; workshop Dec. 2-3). Paper itself speaks of autonomy, not AI by name.",
+      "category": "medicine"
+    },
+    {
+      "title": "Randomized Evaluation of an Autoimmune Disease Prediction Model — AURA (AUtoimmune Risk Assessment)",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600112",
+      "source": "NEJM AI",
+      "published_iso": "2026-11-06T15:00:51Z",
+      "og_image": null,
+      "excerpt": "NEJM AI original article reporting a randomized evaluation of AURA, an autoimmune disease risk-prediction model. (Page Cloudflare-gated; date from Crossref created; body not verified.)",
+      "category": "medicine"
+    },
+    {
+      "title": "Artificial Intelligence Use in Interventional Clinical Trials Registered on ClinicalTrials.gov",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.42797",
+      "source": "JAMA Network Open",
+      "published_iso": "2026-11-09T16:00:28Z",
+      "og_image": null,
+      "excerpt": "Cross-sectional study of how AI is used in interventional clinical trials registered on ClinicalTrials.gov since 2022. (Cloudflare-gated; date from Crossref created.)",
+      "category": "medicine"
+    },
+    {
+      "title": "AI: ChatGPT makers are sued by parents over daughter's death",
+      "url": "https://www.bmj.com/lookup/doi/10.1136/bmj-2026-101342",
+      "source": "The BMJ",
+      "published_iso": "2026-11-04T11:50:19Z",
+      "og_image": null,
+      "excerpt": "BMJ news: parents sue OpenAI over their daughter's death, adding to liability cases over chatbot health/mental-health conversations. (Page gated; date from Crossref created; body not verified.)",
+      "category": "medicine"
+    },
+    {
+      "title": "AI's health advice can be accurate and still make us sicker",
+      "url": "https://www.statnews.com/2026/11/10/ai-health-advice-accuracy-messaging-risk-behavioral-benchmarking/",
+      "source": "STAT",
+      "published_iso": "2026-11-10T09:30:00+00:00",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/11/GettyImages-1462188153-1024x576.jpg",
+      "excerpt": "Opinion: researchers argue health-AI benchmarks should test behavioral effects, because 'even a factually accurate health message can change behavior in ways that make people less healthy'. (Opinion; patient-safety angle.)",
+      "category": "medicine"
+    },
+    {
+      "title": "New Campaign Wants AI Applications To Look Beyond Speed",
+      "url": "https://medcitynews.com/2026/11/new-campaign-wants-ai-applications-to-look-beyond-speed/",
       "source": "MedCity News",
-      "published_iso": "2026-11-06T14:43:00+00:00",
-      "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2021/11/GettyImages-127860840.jpg",
-      "excerpt": "Opinion: healthcare AI changes after initial clearance, often unexpectedly, so postmarket monitoring and change control are the real regulatory challenge. (Opinion; weak.)",
+      "published_iso": "2026-11-10T16:32:38+00:00",
+      "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2026/06/AI.jpg",
+      "excerpt": "Healthcare leaders launch a campaign pushing AI-native redesign of care rather than merely speeding up broken administrative workflows. (Advocacy; weak.)",
+      "category": "medicine"
+    },
+    {
+      "title": "The Ohio State University and Microsoft announce five-year strategic partnership across clinical care, education and research",
+      "url": "https://news.microsoft.com/source/2026/11/10/the-ohio-state-university-and-microsoft-announce-five-year-strategic-partnership-to-accelerate-innovation-across-clinical-care-education-and-research/",
+      "source": "Microsoft",
+      "published_iso": "2026-11-10T18:00:05+00:00",
+      "og_image": "https://news.microsoft.com/source/wp-content/uploads/2026/11/OSUxmicrosoft-v3.png",
+      "excerpt": "Ohio State Wexner Medical Center and Microsoft sign a five-year partnership to deploy clinical AI in care delivery, medical education and research. (Partnership press release; check concrete deployments.)",
+      "category": "medicine"
+    },
+    {
+      "title": "GEHC adds lung, aortic stenosis AI tools to Vscan Air",
+      "url": "https://www.auntminnie.com/clinical-news/ultrasound/news/16349404/ge-healthcare-gehc-adds-lung-aortic-stenosis-ai-tools-to-vscan-air",
+      "source": "AuntMinnie",
+      "published_iso": "2026-11-03T18:42:15Z",
+      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/ultrasound2.pA7SOcA5CY.jpg?auto=format%2Ccompress&q=70&w=1200",
+      "excerpt": "GE HealthCare added lung and aortic stenosis AI tools to its Vscan Air handheld ultrasound; both have FDA 510(k) clearance and the CE mark (point-of-care ultrasound AI).",
+      "category": "medicine"
+    },
+    {
+      "title": "HOPPR releases whole-body MSK x-ray report drafting model",
+      "url": "https://www.auntminnie.com/clinical-news/digital-x-ray/news/16050409/hoppr-hoppr-releases-wholebody-msk-xray-report-drafting-model",
+      "source": "AuntMinnie",
+      "published_iso": "2026-10-29T18:05:29Z",
+      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=1200",
+      "excerpt": "HOPPR released a foundation model that drafts findings text for musculoskeletal radiographs across the whole body using up to three views per study.",
+      "category": "medicine"
+    },
+    {
+      "title": "Quibim's prostate MRI AI joins Microsoft imaging AI network",
+      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16425030/quibim-quibims-prostate-mri-ai-joins-microsoft-imaging-ai-network",
+      "source": "AuntMinnie",
+      "published_iso": "2026-11-10T15:38:42Z",
+      "og_image": null,
+      "excerpt": "Quibim's QP-Prostate MRI AI is now available to North American healthcare organizations through Microsoft's Precision Imaging Network. (Distribution deal; weaker.)",
+      "category": "medicine"
+    },
+    {
+      "title": "Equipping healthcare professionals with practical AI skills",
+      "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-for-healthcare-professionals-certificate/",
+      "source": "Google",
+      "published_iso": "2026-10-29T13:00:00Z",
+      "og_image": null,
+      "excerpt": "Google launched a Google AI for Healthcare Professionals Certificate, built by Google clinicians, to teach practical AI skills such as patient prioritization (medical education).",
       "category": "medicine"
     }
   ]
