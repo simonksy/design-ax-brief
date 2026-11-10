@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "issue": "로봇 일꾼, 아직 수습 중",
+    "date": "2026.11.10",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(CNET 11.05→11.04, MIT TR 11.07→11.06, Gadgeteer 두 건 11.07·11.08→11.06). Pi 12일·자정~새벽 6시·'robot internship', Tau $30/1시간·원격 조종, Lume $2,699·초대제·2027년 1~2분기 배송, Pudu 가격 미정·2027년 초봄 주문 확인. Tau·Pudu 영상은 지난 story가 써서 stat으로 바꿈. 오늘 story(AgiBot)는 제외.",
+    "sources": [
+      "CNET — Disneyland Is Training a Class of AI Robot Interns (2026.11.04)",
+      "MIT Technology Review — I watched a humanoid robot clean my apartment. It felt like a taste of the future. (2026.11.06)",
+      "The Gadgeteer — Syncere Lume robot lamp folds laundry and makes the bed for $2,699 (2026.11.06)",
+      "The Gadgeteer — Pudu TOMO S robot mower sharpens its own blades at the dock (2026.11.06)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 기기 · 11.04~11.06",
+      "thread": [
+        {
+          "d": "11.04",
+          "t": "로봇 인턴",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.06",
+          "t": "원격 청소",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.06",
+          "t": "로봇 램프",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.06",
+          "t": "잔디깎이",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        }
+      ],
+      "thread_note": "로봇 일꾼이 현장에 나왔지만 아직은 수습 기간이다",
+      "eyebrow": "흐름 · 기기",
+      "headline": "로봇 일꾼,\n아직 수습 중",
+      "body": "한 건씩 보면 신기한 시연이다. 꿰어 보면 놀이공원·집·마당 어디서든 로봇이 일하며 배우는 단계다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.04",
+      "headline": "Disneyland의\n로봇 인턴",
+      "body": "Pi는 Disneyland에서 12일간 자정부터 새벽 6시까지 로봇에게 3D 안경 정리를 시켰다. 스스로 '로봇 인턴십'이라 했다.",
+      "foot": "2026.11.04",
+      "_src": "https://www.cnet.com/tech/computing/disneyland-training-ai-robot-interns/",
+      "_id": "disneyland-robot-interns",
+      "media": "pipeline/media/disneyland-robot-interns.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.06",
+      "headline": "청소 로봇,\n손은 사람이",
+      "body": "Tau Robotics 휴머노이드가 집을 청소하지만 아직은 사람이 원격 조종한다. 그사이 쌓인 데이터가 다음 로봇을 가르친다.",
+      "foot": "2026.11.06",
+      "_src": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "_id": "tau-humanoid-home-cleaning",
+      "stat_top": "로봇 1대 · 1시간 청소",
+      "stat_arrow": "데이터가 값져서 매긴 요금",
+      "stat_bottom": "$30",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.06",
+      "headline": "램프에 숨긴\n로봇 팔",
+      "body": "$2,699 Lume은 빨래를 개고 침대를 정리한다. 다만 초대받은 사람만 살 수 있고, 배송은 2027년 1~2분기다.",
+      "foot": "2026.11.06",
+      "_src": "https://the-gadgeteer.com/2026/11/06/syncere-lume-robot-lamp-2699/",
+      "_id": "syncere-lume-robot-lamp",
+      "video": "pipeline/media/syncere-lume-robot-lamp.mp4"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.06",
+      "headline": "스스로 날 가는\n잔디깎이",
+      "body": "상업용 로봇을 13만 대 넘게 보낸 Pudu의 첫 가정용 TOMO S. 독에서 날을 스스로 갈지만 가격은 아직 없다.",
+      "foot": "2026.11.06",
+      "_src": "https://the-gadgeteer.com/2026/11/06/pudu-tomo-s-robot-mower-sharpens-its-own-blades/",
+      "_id": "pudu-tomo-s-mower",
+      "stat_top": "가격 미정",
+      "stat_arrow": "주문 시작",
+      "stat_bottom": "2027년 초봄",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

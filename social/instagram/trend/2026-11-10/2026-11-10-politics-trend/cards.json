@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI법, 집행은 나라마다",
+    "date": "2026.11.10",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(EC 10.20→10.19, IAPP 10.29→10.26, BBC 11.05→11.04, POLITICO 11.10→11.08). EN 18286·결정 2026/2274·제17조, 입법령 179호 10.23 발효·AgID/ACN 역할, 영국 정부 인용문, 16개국(6곳 미지정·10곳 잠정)·기한 2025년 8월 확인. 사진은 이탈리아 카드 한 장만, 나머지는 stat·quote.",
+    "sources": [
+      "European Commission — First harmonised standard supporting the AI Act published in the Official Journal (2026.10.19)",
+      "IAPP — Italy's AI Act framework takes shape: What Legislative Decree No. 179/2026 means for organizations (2026.10.26)",
+      "BBC News — EU rules on Artificial Intelligence devices will apply in NI (2026.11.04)",
+      "POLITICO Europe — EU countries still can't get it together on AI (2026.11.08)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 정치 · 10.19~11.08",
+      "thread": [
+        {
+          "d": "10.19",
+          "t": "첫 표준",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.26",
+          "t": "이탈리아",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.04",
+          "t": "북아일랜드",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.08",
+          "t": "기한 초과",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        }
+      ],
+      "thread_note": "EU AI법, 규칙은 갖춰지는데 집행 준비는 나라마다 엇갈린다",
+      "eyebrow": "흐름 · 정치",
+      "headline": "AI법, 집행은\n나라마다",
+      "body": "표준과 법령 한 건씩만 보면 순조롭다. 이어 보면 집행기관 지정 기한을 넘긴 나라가 27개국 중 16곳이다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.19",
+      "headline": "첫 AI법 표준, 관보에",
+      "body": "집행위가 고위험 AI 품질경영 표준 EN 18286을 관보에 실었다. 따르면 제17조 요건 충족으로 추정받는다.",
+      "foot": "2026.10.19",
+      "_src": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
+      "_id": "politics-aiact-harmonised-std",
+      "stat_top": "AI법 조화표준",
+      "stat_arrow": "EU 관보에 실린 첫 번째",
+      "stat_bottom": "EN 18286",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.26",
+      "headline": "이탈리아, 집행기관 정했다",
+      "body": "10월 23일 발효된 입법령 179호로 AgID가 인증기관 감독을, ACN이 시장 감시와 EU 창구를 맡는다.",
+      "foot": "2026.10.26",
+      "_src": "https://iapp.org/news/a/italys-ai-act-framework-takes-shape-what-legislative-decree-no-179-2026-means-for-organizations",
+      "_id": "italy-ai-decree",
+      "media": "pipeline/media/italy-ai-decree.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.04",
+      "headline": "북아일랜드엔 제품만",
+      "body": "영국 정부는 윈저 프레임워크에 따라 AI가 내장된 실물 제품에만 EU AI법이 북아일랜드에 적용된다고 했다.",
+      "foot": "2026.11.04",
+      "_src": "https://www.bbc.co.uk/news/articles/c8x23zqxwdlro",
+      "_id": "ni-eu-ai-act-products",
+      "quote": "EU AI법은\n북아일랜드 전체에\n적용되지 않는다",
+      "quote_by": "영국 정부 · BBC · 2026.11.04"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.08",
+      "headline": "16개국, 지정 기한 넘겨",
+      "body": "집행위에 따르면 기한은 2025년 8월이었다. 6개국은 기관을 못 정했고 10개국은 잠정 결정에 머물렀다.",
+      "foot": "2026.11.08",
+      "_src": "https://www.politico.eu/article/eu-countries-still-cant-get-it-together-on-ai/",
+      "_id": "politics-eu-aiact-authorities-16",
+      "stat_top": "지정 기한 2025년 8월",
+      "stat_arrow": "기한을 넘긴 회원국",
+      "stat_bottom": "27개국 중 16곳",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

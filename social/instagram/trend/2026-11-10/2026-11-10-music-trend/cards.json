@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "가수의 목소리, AI로 옮겨 가다",
+    "date": "2026.11.10",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Complex 11.07→11.05, JoongAng Daily 11.08→11.06, 뉴시스 원 11.09→11.08, 뉴시스 듀스 11.10→11.09). 2029년 만료·무기한·쓰임새 발언권 없음, 3분 미만·무료·최태원/이재용, 8일 데뷔·가이드 보컬 AI 변환·1% 인용, 21일 4집·31년·소리소리AI 보컬 필터 확인. 사진은 듀스 한 장만 두고 나머지는 stat/quote로.",
+    "sources": [
+      "Complex — NewJeans' Contract Reportedly Gives Label Right to Use AI-Generated Versions of Their Voices (2026.11.05)",
+      "Korea JoongAng Daily — AI meme era hits K-pop — and even tycoons are dancing to 'Neon' (2026.11.06)",
+      "뉴시스 — 조영수 오래된 노래, 버추얼 가수 '원'의 숨으로 피어나다 [인터뷰] (2026.11.08)",
+      "뉴시스 — 듀스, 31년 만의 정규 4집 21일 발매…프로듀싱 이현도·AI로 되살린 김성재 '완전체' (2026.11.09)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 음악 · 11.05~11.09",
+      "thread": [
+        {
+          "d": "11.05",
+          "t": "계약",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.06",
+          "t": "얼굴 밈",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.08",
+          "t": "가상 가수",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.09",
+          "t": "복귀작",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        }
+      ],
+      "thread_note": "K팝에서 가수의 목소리와 얼굴이 AI로 옮겨 가고 있다",
+      "eyebrow": "흐름 · 음악",
+      "headline": "가수의 목소리,\nAI로 옮겨 가다",
+      "body": "한 건씩 보면 계약 분쟁, 밈, 신인 데뷔, 복귀작이다. 닷새를 꿰면 목소리와 얼굴이 사람 밖으로 나가고 있다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.05",
+      "headline": "계약이 끝나도\nAI 목소리는 남는다",
+      "body": "NewJeans 계약은 2029년 만료 뒤에도 ADOR가 멤버 AI 음성을 무기한 쓰게 했다고 NYT가 밝혔다. 쓰임새는 못 고른다.",
+      "foot": "2026.11.05",
+      "_src": "https://www.complex.com/music/a/alex-ocho/newjeans-contracts-indefinite-voice-rights",
+      "_id": "newjeans-ador-ai-voice",
+      "stat_top": "2029년 계약 만료",
+      "stat_arrow": "그 뒤 ADOR의 AI 음성 사용",
+      "stat_bottom": "무기한",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.06",
+      "headline": "얼굴 바꾸기,\n3분이면 된다",
+      "body": "A2O Lite 'Neon' 안무에 최태원·이재용 얼굴을 바꿔 넣은 AI 패러디가 퍼졌다. 기자가 해 보니 3분이 안 걸렸다.",
+      "foot": "2026.11.06",
+      "_src": "https://www.koreajoongangdaily.com/entertainment/ai-meme-era-hits-kpop-and-even-tycoons-are-dancing-to-neon/12958219",
+      "_id": "a2o-lite-neon-ai-memes",
+      "stat_top": "Neon 패러디 한 편",
+      "stat_arrow": "사진 올리고 얼굴만 고르면",
+      "stat_bottom": "3분 미만 · 0원",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.08",
+      "headline": "목소리만 AI,\n곡은 사람이",
+      "body": "조영수의 버추얼 가수 '원'이 8일 데뷔했다. 그가 부른 가이드 보컬을 AI로 바꿔 원의 음색을 낸다. 작곡·연주는 사람 몫이다.",
+      "foot": "2026.11.08",
+      "_src": "https://www.newsis.com/view/NISX20261107_0003858783",
+      "_id": "choyoungsoo-ai-virtual-singer",
+      "quote": "나머지 1%의 '새로움'은\n오직 인간만이\n채울 수 있죠",
+      "quote_by": "조영수 · 뉴시스 인터뷰"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.09",
+      "headline": "떠난 멤버 목소리,\nAI로 다시 앨범에",
+      "body": "듀스가 21일 31년 만의 정규 4집을 낸다. 소리소리AI와 만든 보컬 필터로 고 김성재의 음색을 되살렸다.",
+      "foot": "2026.11.09",
+      "_src": "https://www.newsis.com/view/NISX20261109_0003859608",
+      "_id": "deux-kimsungjae-ai-album",
+      "media": "pipeline/media/deux-kimsungjae-ai-album.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI가 남의 게임을 옮겨 심는다",
+    "date": "2026.11.10",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(게임와이 11.05→11.04, Eurogamer 11.07→11.06, IGN 11.08→11.07 UTC, AUTOMATON 11.10→11.09). 0.1.0~0.1.6 7차례·30시간 남짓, 'tens of thousands of dollars in tokens', 6개월·20달러·하루 이틀, 11.5 발매·11.7 게시·Gemini 4·iPhone Duo 확인. GTA 영상은 11-07 초안이 썼고 ME3는 11-08 초안과 겹쳐 사진 없이 stat·quote로, 사진은 젤다 한 장만.",
+    "sources": [
+      "게임와이 — AI로 만든 PC판 4K '마리오 오디세이' 눈길 (2026.11.04)",
+      "Eurogamer — Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones (2026.11.06)",
+      "IGN — Mass Effect 3 Modder Talks About How AI Is Changing Modding For the Worse (2026.11.07)",
+      "AUTOMATON — 『ゼルダの伝説 時のオカリナ』リメイク版を「iPhone Duoに“勝手移植”」したGoogleのAI開発者、非難浴びて投稿削除 (2026.11.09)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 게임 · 11.04~11.09",
+      "thread": [
+        {
+          "d": "11.04",
+          "t": "마리오",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.06",
+          "t": "GTA 6",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.07",
+          "t": "모딩",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.09",
+          "t": "젤다",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        }
+      ],
+      "thread_note": "AI 코딩 에이전트로 남의 게임을 통째로 옮기는 일이 시작됐다",
+      "eyebrow": "흐름 · 게임",
+      "headline": "AI가 남의 게임을\n옮겨 심는다",
+      "body": "한 건씩이면 팬 프로젝트나 해프닝이다. 닷새 사이 마리오와 젤다가 옮겨졌고, 업계는 GTA와 모딩을 걱정했다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.04",
+      "headline": "클로드로 옮긴\n마리오 오디세이",
+      "body": "스위치 실행 코드를 C로 옮겨 PC에서 에뮬레이터 없이 돌린다. 개발자는 Claude의 도움을 크게 받았다고 적었다.",
+      "foot": "2026.11.04",
+      "_src": "http://www.gamey.kr/news/articleView.html?idxno=3019481",
+      "_id": "power-moon-recomp-odyssey",
+      "stat_top": "11월 2일 0.1.0 공개",
+      "stat_arrow": "30시간 남짓 만에",
+      "stat_bottom": "0.1.6까지 7차례",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.06",
+      "headline": "다음 표적은\nGTA 6일까",
+      "body": "전 Rockstar North 기술감독 Obbe Vermeij는 AI로 옮긴 이식판 우려에 GTA 6 PC판이 당겨질 수 있다고 봤다.",
+      "foot": "2026.11.06",
+      "_src": "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone",
+      "_id": "vermeij-gta6-pc-vibecode",
+      "stat_top": "GTA 6 PC 이식을 AI로",
+      "stat_arrow": "그가 어림한 토큰값",
+      "stat_bottom": "수만 달러",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.07",
+      "headline": "여섯 달 걸릴 모드가\n하루 이틀에",
+      "body": "여섯 달 걸릴 아이디어를 남이 20달러로 하루 이틀 만에 뽑아낸다. AI 없이 배우려면 숨어서 해야 한다고 했다.",
+      "foot": "2026.11.07",
+      "_src": "https://www.ign.com/articles/i-feel-like-modding-is-kind-of-dying-mass-effect-3-multiplayer-modder-on-ais-impact-on-the-scene",
+      "_id": "ign-me3-modding-ai",
+      "quote": "모딩은 이제\n죽어 가는 것 같다",
+      "quote_by": "Mgamerz · ME3Tweaks 모더"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.09",
+      "headline": "젤다 리메이크,\n이틀 만에 아이폰에",
+      "body": "Google AI Studio 리드가 11월 5일 나온 Switch 2판을 Gemini 4로 iPhone Duo에 띄웠다가 비난에 지웠다.",
+      "foot": "2026.11.09",
+      "_src": "https://automaton-media.com/articles/newsjp/20261109-478221/",
+      "_id": "automaton-ocarina-gemini-port",
+      "media": "pipeline/media/automaton-ocarina-gemini-port.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

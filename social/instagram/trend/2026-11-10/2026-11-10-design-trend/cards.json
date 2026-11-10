@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "issue": "AI, 실물을 설계하기 시작했다",
+    "date": "2026.11.10",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Astra 11.05→11.03 RSS, Aurora 11.08→11.05, IronCAD 11.08→11.05, Archinect 11.10→11.09). 오늘 story(Claude 전자 시제품)와 11.07 AEC 묶음 id는 뺐다. Astra '두 명·일주일 미만'은 11.05 원문 수집본, Aurora는 리드 문단만 열려 그 범위만, IronCAD 자연어 스크립트, Nyne.ai '3년·여섯 자릿수' 인용 확인. 영상은 Astra, 사진은 Aurora 한 장만 두고 나머지는 stat/quote로.",
+    "sources": [
+      "OpenAI — Accelerating engineering for the physical world (2026.11.03)",
+      "All3DP — This AI 3D Printer Can Now Design Your Parts, Too. I Have Questions. (2026.11.05)",
+      "Engineering.com — IronCAD 2027 update adds design automation tools (2026.11.05)",
+      "Archinect — AI companies are offering architects six figures for CAD files; have you been approached? (2026.11.09)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 디자인 · 11.03~11.09",
+      "thread": [
+        {
+          "d": "11.03",
+          "t": "기기",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.05",
+          "t": "부품",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.05",
+          "t": "스크립트",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.09",
+          "t": "도면",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        }
+      ],
+      "thread_note": "AI 설계가 화면 밖 물건으로 넘어오고, 배울 도면까지 사들인다",
+      "eyebrow": "흐름 · 디자인",
+      "headline": "AI, 실물을\n설계하기 시작했다",
+      "body": "한 건씩 보면 기기 하나, 프린터 하나다. 나란히 놓으면 일주일 새 설계가 물건으로 넘어왔고, 이젠 배울 도면을 산다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.03",
+      "headline": "AI가 짠 기기,\n사람 수정 없이",
+      "body": "OpenAI GPT-6 Astra가 Codex용 기기의 외함·PCB·펌웨어까지 설계했다. 두 명이 Astra와 일주일도 안 돼 끝냈다.",
+      "foot": "2026.11.03",
+      "_src": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "_id": "openai-astra-hardware-device",
+      "video": "pipeline/media/openai-astra-hardware-device.mp4"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.05",
+      "headline": "프린터가\n부품도 설계한다",
+      "body": "BCN3D Aurora는 사진 한 장, 몇 마디 말, 음성 명령만으로 부품을 뽑는다. CAD도 슬라이싱도 거치지 않는다.",
+      "foot": "2026.11.05",
+      "_src": "https://all3dp.com/4/this-ai-3d-printer-can-now-design-your-parts-too-i-have-questions/",
+      "_id": "bcn3d-aurora-photo-to-part",
+      "media": "pipeline/media/bcn3d-aurora-photo-to-part.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.05",
+      "headline": "반복 모델링은\n말로 스크립트",
+      "body": "IronCAD 2027 업데이트 1의 AI Design Assistant는 자연어 프롬프트로 반복 모델링을 자동화할 스크립트를 짠다.",
+      "foot": "2026.11.05",
+      "_src": "https://www.engineering.com/ironcad-2027-update-adds-design-automation-tools/",
+      "_id": "ironcad-2027-ai-scripting",
+      "stat_top": "손으로 반복하던 모델링",
+      "stat_arrow": "IronCAD 2027 업데이트 1",
+      "stat_bottom": "프롬프트로 스크립트",
+      "stat_strike": true
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.11.09",
+      "headline": "이제 배울\n도면을 산다",
+      "body": "AI 기업들이 건축 사무소에 CAD·프로젝트 파일을 학습용으로 사겠다고 나섰다. 저작권 문제도 함께 불거졌다.",
+      "foot": "2026.11.09",
+      "_src": "https://archinect.com/news/article/150573603/ai-companies-are-offering-architects-six-figures-for-cad-files-have-you-been-approached",
+      "_id": "archinect-cad-training-data",
+      "quote": "3년 치 CAD 파일이\n놀고 있다면\n여섯 자릿수에 사겠다",
+      "quote_by": "Nyne.ai 홍보 글 · Archinect 인용"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
