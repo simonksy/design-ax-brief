@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "section": "games",
   "cards": [
     {
-      "id": "nvidia-lyra2-worldmodel",
+      "id": "ue59-preview-agent-tools",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "NVIDIA Lyra\n2.0, 사진을 3D로",
-      "body": "Lyra 2.0은 AI 영상·공간 기억·3D 재구성을 묶어 실시간 세계를 그린다.",
-      "mini_headline": "Lyra 2.0: 사진 한 장, 3D 세계",
+      "headline": "UE 5.9 Preview\nAI 에이전트 도구 탑재",
+      "body": "Epic에 따르면 UE 5.9 Preview는 주로 AI 에이전트 손에서 나왔다.",
+      "mini_headline": "UE 5.9 Preview, 에이전트 도구 추가",
       "tool": "Games",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/nvidias-lyra-2-0-turns-a-single-image-into-an-explorable-3d-world-with-persistent-environments-and-real-time-rendering/",
+      "source": "80 Level",
+      "url": "https://80.lv/articles/unreal-engine-5-9-preview-is-out-it-was-built-with-ai/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -19,239 +19,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg"
+            "src": "https://cdn.80.lv/api/upload/content/c3/images/6af2cdf44eb77/widen_1840x0.jpeg"
           },
           {
             "t": "p",
-            "x": "NVIDIA가 사진 한 장을 돌아다닐 수 있는 3D 환경으로 바꿔 주는 AI-powered 프레임워크 Lyra 2.0을 선보였다. NVIDIA의 Spatial Intelligence Lab(SIL)이 만든 이 기술은 AI 영상 생성에 3D 재구성을 결합했다. 연구 자체는 2026년 4월에 처음 나왔는데, SIGGRAPH Asia 2026을 앞두고 다시 주목받는다. 기존 image-to-video 생성기와 다른 점은 카메라다. Lyra 2.0에서는 사용자가 카메라 궤적을 직접 조종하고, 움직이는 동안 새 시점이 차례로 생성된다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-1.jpg",
-            "cap": "이미지 출처: NVIDIA."
+            "x": "Unreal Engine 5.8은 Unreal Engine 6 이전의 마지막 메이저 릴리스가 될 예정이었다. 그런데 Epic은 일주일 전, 11월 12일부터 15일까지 열리는 2026 Epic AI MegaJam에 맞춰 Unreal Engine 5.9 Preview를 내놓기로 했다. 주로 에이전트 기반 워크플로로 만든 첫 엔진 릴리스다."
           },
           {
             "t": "p",
-            "x": "NVIDIA 연구진은 공간 망각과 시간적 드리프트 문제를 풀려고 3D 기하 정보로 관련 과거 프레임을 불러오는 공간 기억 시스템을 만들었다. 학습에는 모델이 스스로 만든 불완전한 출력을 그대로 썼다. 이렇게 얻은 시퀀스는 3D Gaussian Splats와 폴리곤 메시로 재구성돼 실시간 렌더링이 되고, NVIDIA Isaac Sim 같은 애플리케이션으로 내보낼 수도 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-2-scaled.jpg",
-            "cap": "이미지 출처: NVIDIA."
+            "x": "\"몇 사람이 에이전트 무리를 지휘해 UE6 개발 브랜치의 AI 도구를 이식하고 Web을 타깃 플랫폼으로 구현했다. 웹 플랫폼 코드는 UE4에서 퇴역한 HTML5 플랫폼을 출발점 삼아 에이전트가 작성했고, 엔지니어가 작업을 지휘하고 검토하고 테스트했다.\""
           },
           {
             "t": "p",
-            "x": "증류 모델은 영상 생성의 디노이징 단계를 35단계에서 네 단계로 줄여 시간을 약 13배 단축한다. 80프레임 구간 하나에 NVIDIA GB200 GPU 한 장으로 약 15초, 전체 모델로는 194초가 든다. 실시간 세계 생성은 아니다. 환경도 아직 대부분 정적이다. NVIDIA는 구현 코드를 GitHub에 공개했고, 모델 가중치는 연구 목적으로만 쓰도록 제한한 라이선스로 Hugging Face에 올렸다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-3.jpg",
-            "cap": "NVIDIA Isaac Sim으로 불러온 Lyra 2.0 생성 환경. 이미지 출처: NVIDIA."
+            "x": "Preview는 약 일주일 만에 꾸려졌고 QA 기간도 평소보다 짧았다. Epic은 아직 \"에이전트가 작성한 코드 일부를 정리하는 중\"이라고 밝혔다. Python 스크립팅과 AI-assisted 워크플로도 크게 좋아졌다. Unreal MCP와 Unreal Assistant, Epic의 AI-powered 콘텐츠 제작 도구인 Unreal Canvas가 여기에 들어간다. Lumen World Cache와 개선된 Nanite 컬링이 더해졌고, WebAssembly와 WebGPU로 타깃 플랫폼 Web도 돌아왔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "NVIDIA Lyra 2.0 turns one image\ninto an explorable 3D world",
-          "body": "Lyra 2.0 combines AI video generation, spatial memory and 3D reconstruction to render a persistent world in real time.",
-          "mini_headline": "Lyra 2.0: one image, a 3D world",
+          "headline": "Unreal Engine 5.9 Preview\nShips With AI Agent Tools",
+          "body": "Epic says the UE 5.9 Preview, which adds AI tools such as Unreal MCP and Unreal Canvas, was built largely by AI agents.",
+          "mini_headline": "UE 5.9 Preview Adds Agent Tools",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg"
+                "src": "https://cdn.80.lv/api/upload/content/c3/images/6af2cdf44eb77/widen_1840x0.jpeg"
               },
               {
                 "t": "p",
-                "x": "NVIDIA has showcased Lyra 2.0, an AI-powered framework capable of transforming a single photograph into an explorable 3D environment. Developed by NVIDIA's Spatial Intelligence Lab (SIL), it combines AI video generation with 3D reconstruction; the research was originally published in April 2026 and is now being highlighted ahead of SIGGRAPH Asia 2026. Unlike conventional image-to-video generators, Lyra 2.0 lets users control the camera's trajectory, progressively generating new views as they move."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-1.jpg",
-                "cap": "Image credit: NVIDIA."
+                "x": "Unreal Engine 5.8 was supposed to be the last major release before Unreal Engine 6, but a week ago Epic decided to put together an Unreal Engine 5.9 Preview in time for the 2026 Epic AI MegaJam, which runs from November 12 to 15. It is the first engine release built primarily using agentic workflows."
               },
               {
                 "t": "p",
-                "x": "To counter spatial forgetting and temporal drifting, NVIDIA's researchers developed a spatial-memory system that retrieves relevant historical frames using 3D geometric information, and trained the model on its own imperfect outputs. The resulting sequences can be reconstructed into 3D Gaussian Splats and polygonal meshes, enabling real-time rendering and export into applications such as NVIDIA Isaac Sim."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-2-scaled.jpg",
-                "cap": "Image credit: NVIDIA."
+                "x": "\"A handful of people directed fleets of agents to port the AI tooling from our UE6 development branch and implement Web as a target platform. Agents wrote the web platform code, starting from UE4's retired HTML5 platform, with engineers directing, reviewing, and testing the work.\""
               },
               {
                 "t": "p",
-                "x": "A distilled model cuts video generation from 35 denoising steps to four, an approximately 13-fold reduction: an 80-frame segment takes approximately 15 seconds on a single NVIDIA GB200 GPU, versus 194 seconds with the full model. This isn't real-time world generation, and it remains limited to predominantly static environments. NVIDIA has made the implementation available on GitHub, with model weights on Hugging Face under research-use licensing restrictions."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-3.jpg",
-                "cap": "A Lyra 2.0-generated environment imported into NVIDIA Isaac Sim. Image credit: NVIDIA."
+                "x": "The Preview was put together in roughly a week, with a shorter QA period than usual; Epic says it's still \"cleaning up some of the agent-written code.\" It brings major improvements to Python scripting and AI-assisted workflows, including Unreal MCP, Unreal Assistant, and Unreal Canvas, Epic's AI-powered content creation tool, plus Lumen World Cache, better Nanite culling, and the return of Web as a target platform via WebAssembly and WebGPU."
               }
             ]
           }
         },
         "ko": {
-          "headline": "NVIDIA Lyra\n2.0, 사진을 3D로",
-          "body": "Lyra 2.0은 AI 영상·공간 기억·3D 재구성을 묶어 실시간 세계를 그린다.",
-          "mini_headline": "Lyra 2.0: 사진 한 장, 3D 세계",
+          "headline": "UE 5.9 Preview\nAI 에이전트 도구 탑재",
+          "body": "Epic에 따르면 UE 5.9 Preview는 주로 AI 에이전트 손에서 나왔다.",
+          "mini_headline": "UE 5.9 Preview, 에이전트 도구 추가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg"
+                "src": "https://cdn.80.lv/api/upload/content/c3/images/6af2cdf44eb77/widen_1840x0.jpeg"
               },
               {
                 "t": "p",
-                "x": "NVIDIA가 사진 한 장을 돌아다닐 수 있는 3D 환경으로 바꿔 주는 AI-powered 프레임워크 Lyra 2.0을 선보였다. NVIDIA의 Spatial Intelligence Lab(SIL)이 만든 이 기술은 AI 영상 생성에 3D 재구성을 결합했다. 연구 자체는 2026년 4월에 처음 나왔는데, SIGGRAPH Asia 2026을 앞두고 다시 주목받는다. 기존 image-to-video 생성기와 다른 점은 카메라다. Lyra 2.0에서는 사용자가 카메라 궤적을 직접 조종하고, 움직이는 동안 새 시점이 차례로 생성된다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-1.jpg",
-                "cap": "이미지 출처: NVIDIA."
+                "x": "Unreal Engine 5.8은 Unreal Engine 6 이전의 마지막 메이저 릴리스가 될 예정이었다. 그런데 Epic은 일주일 전, 11월 12일부터 15일까지 열리는 2026 Epic AI MegaJam에 맞춰 Unreal Engine 5.9 Preview를 내놓기로 했다. 주로 에이전트 기반 워크플로로 만든 첫 엔진 릴리스다."
               },
               {
                 "t": "p",
-                "x": "NVIDIA 연구진은 공간 망각과 시간적 드리프트 문제를 풀려고 3D 기하 정보로 관련 과거 프레임을 불러오는 공간 기억 시스템을 만들었다. 학습에는 모델이 스스로 만든 불완전한 출력을 그대로 썼다. 이렇게 얻은 시퀀스는 3D Gaussian Splats와 폴리곤 메시로 재구성돼 실시간 렌더링이 되고, NVIDIA Isaac Sim 같은 애플리케이션으로 내보낼 수도 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-2-scaled.jpg",
-                "cap": "이미지 출처: NVIDIA."
+                "x": "\"몇 사람이 에이전트 무리를 지휘해 UE6 개발 브랜치의 AI 도구를 이식하고 Web을 타깃 플랫폼으로 구현했다. 웹 플랫폼 코드는 UE4에서 퇴역한 HTML5 플랫폼을 출발점 삼아 에이전트가 작성했고, 엔지니어가 작업을 지휘하고 검토하고 테스트했다.\""
               },
               {
                 "t": "p",
-                "x": "증류 모델은 영상 생성의 디노이징 단계를 35단계에서 네 단계로 줄여 시간을 약 13배 단축한다. 80프레임 구간 하나에 NVIDIA GB200 GPU 한 장으로 약 15초, 전체 모델로는 194초가 든다. 실시간 세계 생성은 아니다. 환경도 아직 대부분 정적이다. NVIDIA는 구현 코드를 GitHub에 공개했고, 모델 가중치는 연구 목적으로만 쓰도록 제한한 라이선스로 Hugging Face에 올렸다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-3.jpg",
-                "cap": "NVIDIA Isaac Sim으로 불러온 Lyra 2.0 생성 환경. 이미지 출처: NVIDIA."
+                "x": "Preview는 약 일주일 만에 꾸려졌고 QA 기간도 평소보다 짧았다. Epic은 아직 \"에이전트가 작성한 코드 일부를 정리하는 중\"이라고 밝혔다. Python 스크립팅과 AI-assisted 워크플로도 크게 좋아졌다. Unreal MCP와 Unreal Assistant, Epic의 AI-powered 콘텐츠 제작 도구인 Unreal Canvas가 여기에 들어간다. Lumen World Cache와 개선된 Nanite 컬링이 더해졌고, WebAssembly와 WebGPU로 타깃 플랫폼 Web도 돌아왔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "NVIDIA Lyra\n2.0は写真を3D世界に",
-          "body": "Lyra 2.0はAI動画生成と空間記憶、3D再構成を融合し、世界をリアルタイムで描く。",
-          "mini_headline": "Lyra 2.0：写真から3D世界",
+          "headline": "UE 5.9 Preview\nAIエージェントツール搭載",
+          "body": "EpicはUE 5.9 Previewの大半をAIエージェントが作ったと明かした。",
+          "mini_headline": "UE 5.9 Preview、エージェント機能を追加",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg"
+                "src": "https://cdn.80.lv/api/upload/content/c3/images/6af2cdf44eb77/widen_1840x0.jpeg"
               },
               {
                 "t": "p",
-                "x": "NVIDIAは、一枚の写真を探索可能な3D環境に変換できるAI-poweredのフレームワーク「Lyra 2.0」を披露した。NVIDIAのSpatial Intelligence Lab（SIL）が開発したもので、AI動画生成と3D再構成を組み合わせている。研究自体は2026年4月に発表されたもので、SIGGRAPH Asia 2026を前に改めて紹介されている。従来のimage-to-video生成器とは異なり、Lyra 2.0ではユーザーがカメラの軌道を操作でき、移動に合わせて新たな視点が順次生成される。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-1.jpg",
-                "cap": "画像提供：NVIDIA"
+                "x": "Unreal Engine 5.8はUnreal Engine 6前の最後のメジャーリリースになるはずだったが、Epicは一週間前、11月12日から15日まで開催される2026 Epic AI MegaJamに合わせてUnreal Engine 5.9 Previewをまとめることを決めた。主にエージェント型ワークフローで構築された初のエンジンリリースである。"
               },
               {
                 "t": "p",
-                "x": "空間的な忘却と時間的なドリフトに対処するため、NVIDIAの研究者は3D幾何情報を用いて関連する過去フレームを呼び出す空間メモリシステムを開発し、さらにモデル自身の不完全な出力でモデルを学習させた。得られたシーケンスは3D Gaussian Splatsやポリゴンメッシュに再構成でき、リアルタイムレンダリングやNVIDIA Isaac Simなどのアプリケーションへのエクスポートが可能になる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-2-scaled.jpg",
-                "cap": "画像提供：NVIDIA"
+                "x": "「少人数がエージェントの群れを指揮し、UE6の開発ブランチからAIツールを移植し、Webをターゲットプラットフォームとして実装した。WebプラットフォームのコードはUE4で廃止されたHTML5プラットフォームを出発点にエージェントが書き、エンジニアが指揮・レビュー・テストを担った」"
               },
               {
                 "t": "p",
-                "x": "蒸留モデルは動画生成のデノイジングステップを35から四つに減らし、約13倍の削減を実現した。80フレームの区間は単一のNVIDIA GB200 GPUで約15秒で生成でき、フルモデルでは194秒かかる。これはリアルタイムの世界生成ではなく、対象も主に静的な環境に限られる。NVIDIAは実装をGitHubで公開し、モデルの重みは研究用途に限るライセンス制限付きでHugging Faceで配布している。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-3.jpg",
-                "cap": "NVIDIA Isaac Simに読み込んだLyra 2.0生成の環境。画像提供：NVIDIA"
+                "x": "Previewは約一週間でまとめられ、QA期間は通常より短かった。Epicによれば、今も「エージェントが書いたコードの一部を整理している」段階だ。PythonスクリプティングとAI-assistedワークフローが大きく改善され、Unreal MCP、Unreal Assistant、そしてEpicのAI-poweredコンテンツ制作ツールであるUnreal Canvasが含まれる。さらにLumen World Cache、Naniteカリングの改善、WebAssemblyとWebGPUによるターゲットプラットフォームWebの復活も加わった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "NVIDIA Lyra\n2.0：单张照片变3D世界",
-          "body": "Lyra 2.0结合AI视频生成、空间记忆与3D重建，实时渲染持久的世界。",
-          "mini_headline": "Lyra 2.0：单张图片，3D世界",
+          "headline": "UE 5.9 Preview\n搭载AI智能体工具",
+          "body": "Epic称新增Unreal MCP的UE 5.9 Preview主要由AI智能体打造。",
+          "mini_headline": "UE 5.9 Preview新增智能体工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg"
+                "src": "https://cdn.80.lv/api/upload/content/c3/images/6af2cdf44eb77/widen_1840x0.jpeg"
               },
               {
                 "t": "p",
-                "x": "NVIDIA展示了Lyra 2.0，这是一个AI-powered框架，能将单张照片转化为可探索的3D环境。它由NVIDIA的Spatial Intelligence Lab（SIL）开发，结合了AI视频生成与3D重建；该研究最初于2026年4月发表，如今在SIGGRAPH Asia 2026前夕再度受到关注。与传统的image-to-video生成器不同，Lyra 2.0允许用户控制摄像机轨迹，并在移动过程中逐步生成新视角。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-1.jpg",
-                "cap": "图片来源：NVIDIA。"
+                "x": "Unreal Engine 5.8原本应是Unreal Engine 6之前的最后一个大版本，但一周前Epic决定配合11月12日至15日举办的2026 Epic AI MegaJam，推出Unreal Engine 5.9 Preview。这是首个主要借助智能体工作流构建的引擎版本。"
               },
               {
                 "t": "p",
-                "x": "为应对空间遗忘和时间漂移，NVIDIA研究人员开发了一套空间记忆系统，利用3D几何信息检索相关的历史帧，并用模型自身不完美的输出对其进行训练。生成的序列可重建为3D Gaussian Splats和多边形网格，从而实现实时渲染，并可导出到NVIDIA Isaac Sim等应用中。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-2-scaled.jpg",
-                "cap": "图片来源：NVIDIA。"
+                "x": "“少数几个人指挥成群的智能体，把UE6开发分支中的AI工具移植过来，并将Web实现为目标平台。智能体以UE4已退役的HTML5平台为起点编写了Web平台代码，工程师负责指挥、审查和测试。”"
               },
               {
                 "t": "p",
-                "x": "蒸馏模型将视频生成的去噪步数从35步减至四步，约缩减13倍：在单块NVIDIA GB200 GPU上生成一段80帧片段约需15秒，而完整模型需要194秒。这并非实时的世界生成，且仍主要局限于静态环境。NVIDIA已在GitHub上公开实现代码，模型权重则以研究用途许可限制发布在Hugging Face上。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-3.jpg",
-                "cap": "导入NVIDIA Isaac Sim的Lyra 2.0生成环境。图片来源：NVIDIA。"
+                "x": "这个Preview大约用一周拼成，QA周期比平常短；Epic表示仍在“清理部分由智能体编写的代码”。它大幅改进了Python脚本和AI-assisted工作流，包括Unreal MCP、Unreal Assistant，以及Epic的AI-powered内容创作工具Unreal Canvas；此外还有Lumen World Cache、更好的Nanite剔除，以及通过WebAssembly和WebGPU重新支持Web作为目标平台。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Lyra 2.0 de NVIDIA convierte\nuna imagen en un mundo 3D",
-          "body": "Lyra 2.0 une video generado con AI, memoria espacial y reconstrucción 3D para un mundo persistente en tiempo real.",
-          "mini_headline": "Lyra 2.0: una imagen, un mundo 3D",
+          "headline": "Unreal Engine 5.9 Preview\ntrae herramientas de agentes AI",
+          "body": "Epic afirma que UE 5.9 Preview, que añade Unreal MCP y Unreal Canvas, fue creada en gran parte por agentes de AI.",
+          "mini_headline": "UE 5.9 Preview suma herramientas de agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg"
+                "src": "https://cdn.80.lv/api/upload/content/c3/images/6af2cdf44eb77/widen_1840x0.jpeg"
               },
               {
                 "t": "p",
-                "x": "NVIDIA presentó Lyra 2.0, un framework AI-powered capaz de transformar una sola fotografía en un entorno 3D explorable. Desarrollado por el Spatial Intelligence Lab (SIL) de NVIDIA, combina la generación de video con AI y la reconstrucción 3D; la investigación se publicó originalmente en abril de 2026 y ahora se destaca antes de SIGGRAPH Asia 2026. A diferencia de los generadores image-to-video convencionales, Lyra 2.0 permite a los usuarios controlar la trayectoria de la cámara y genera progresivamente nuevas vistas a medida que se desplazan."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-1.jpg",
-                "cap": "Crédito de imagen: NVIDIA."
+                "x": "Unreal Engine 5.8 iba a ser la última versión importante antes de Unreal Engine 6, pero hace una semana Epic decidió preparar una Unreal Engine 5.9 Preview a tiempo para la 2026 Epic AI MegaJam, que se celebra del 12 al 15 de noviembre. Es la primera versión del motor creada principalmente con flujos de trabajo agénticos."
               },
               {
                 "t": "p",
-                "x": "Para contrarrestar el olvido espacial y la deriva temporal, los investigadores de NVIDIA desarrollaron un sistema de memoria espacial que recupera fotogramas históricos relevantes mediante información geométrica 3D, y entrenaron el modelo con sus propias salidas imperfectas. Las secuencias resultantes pueden reconstruirse como 3D Gaussian Splats y mallas poligonales, lo que permite el renderizado en tiempo real y la exportación a aplicaciones como NVIDIA Isaac Sim."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-2-scaled.jpg",
-                "cap": "Crédito de imagen: NVIDIA."
+                "x": "\"Un puñado de personas dirigió flotas de agentes para portar las herramientas de AI de nuestra rama de desarrollo de UE6 e implementar Web como plataforma de destino. Los agentes escribieron el código de la plataforma web, partiendo de la retirada plataforma HTML5 de UE4, mientras los ingenieros dirigían, revisaban y probaban el trabajo.\""
               },
               {
                 "t": "p",
-                "x": "Un modelo destilado reduce la generación de video de 35 pasos de eliminación de ruido a cuatro, una reducción de aproximadamente 13 veces: un segmento de 80 fotogramas tarda unos 15 segundos en una sola NVIDIA GB200 GPU, frente a 194 segundos con el modelo completo. No se trata de generación de mundos en tiempo real, y sigue limitado a entornos predominantemente estáticos. NVIDIA publicó la implementación en GitHub, con los pesos del modelo en Hugging Face bajo restricciones de licencia de uso para investigación."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-3.jpg",
-                "cap": "Un entorno generado con Lyra 2.0 importado en NVIDIA Isaac Sim. Crédito de imagen: NVIDIA."
+                "x": "La Preview se armó en aproximadamente una semana, con un periodo de QA más corto de lo habitual; Epic dice que todavía está \"limpiando parte del código escrito por agentes\". Trae mejoras importantes en scripting con Python y en flujos de trabajo AI-assisted, incluidos Unreal MCP, Unreal Assistant y Unreal Canvas, la herramienta de creación de contenido AI-powered de Epic, además de Lumen World Cache, un mejor culling de Nanite y el regreso de Web como plataforma de destino mediante WebAssembly y WebGPU."
               }
             ]
           }
@@ -259,165 +169,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "NVIDIA Lyra\n2.0, 사진을 3D로",
-          "body": "Lyra 2.0은 AI 영상·공간 기억·3D 재구성을 묶어 실시간 세계를 그린다.",
-          "mini_headline": "Lyra 2.0: 사진 한 장, 3D 세계",
+          "headline": "UE 5.9 Preview\nAI 에이전트 도구 탑재",
+          "body": "Epic은 UE 5.9 Preview를 AI 에이전트가 주로 만들었다고 밝혔다.",
+          "mini_headline": "UE 5.9 Preview, 에이전트 도구 추가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg"
+                "src": "https://cdn.80.lv/api/upload/content/c3/images/6af2cdf44eb77/widen_1840x0.jpeg"
               },
               {
                 "t": "p",
-                "x": "NVIDIA가 사진 한 장을 탐험 가능한 3D 환경으로 바꾸는 AI-powered 프레임워크 Lyra 2.0을 선보였다. NVIDIA의 Spatial Intelligence Lab(SIL)이 개발한 이 기술은 AI 영상 생성과 3D 재구성을 결합한다. 연구는 2026년 4월에 처음 발표됐고, SIGGRAPH Asia 2026을 앞두고 다시 조명받고 있다. 기존 image-to-video 생성기와 달리 Lyra 2.0에서는 사용자가 카메라 궤적을 직접 조종할 수 있고, 이동하는 동안 새로운 시점이 차례로 생성된다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-1.jpg",
-                "cap": "이미지 출처: NVIDIA."
+                "x": "Unreal Engine 5.8은 Unreal Engine 6 이전의 마지막 메이저 릴리스가 될 예정이었다. 그러나 Epic은 일주일 전, 11월 12일부터 15일까지 열리는 2026 Epic AI MegaJam에 맞춰 Unreal Engine 5.9 Preview를 꾸리기로 결정했다. 주로 에이전트 기반 워크플로로 만든 첫 엔진 릴리스다."
               },
               {
                 "t": "p",
-                "x": "공간 망각과 시간적 드리프트 문제에 대응하기 위해 NVIDIA 연구진은 3D 기하 정보로 관련된 과거 프레임을 불러오는 공간 기억 시스템을 개발했고, 모델이 스스로 만든 불완전한 출력으로 모델을 학습시켰다. 이렇게 얻은 시퀀스는 3D Gaussian Splats와 폴리곤 메시로 재구성할 수 있어 실시간 렌더링이 가능하고, NVIDIA Isaac Sim 같은 애플리케이션으로 내보낼 수도 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-2-scaled.jpg",
-                "cap": "이미지 출처: NVIDIA."
+                "x": "\"몇 사람이 에이전트 무리를 지휘해 UE6 개발 브랜치의 AI 도구를 이식하고 Web을 타깃 플랫폼으로 구현했다. 웹 플랫폼 코드는 UE4에서 퇴역한 HTML5 플랫폼을 출발점 삼아 에이전트가 작성했고, 엔지니어가 작업을 지휘하고 검토하고 테스트했다.\""
               },
               {
                 "t": "p",
-                "x": "증류 모델은 영상 생성의 디노이징 단계를 35단계에서 네 단계로 줄여 약 13배를 단축한다. 80프레임 구간 하나를 만드는 데 NVIDIA GB200 GPU 한 장으로 약 15초가 걸리며, 전체 모델로는 194초가 걸린다. 다만 실시간 세계 생성은 아니며, 여전히 대부분 정적인 환경에 한정된다. NVIDIA는 구현 코드를 GitHub에 공개했고, 모델 가중치는 연구 목적 사용으로 제한된 라이선스로 Hugging Face에 올렸다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-3.jpg",
-                "cap": "NVIDIA Isaac Sim으로 불러온 Lyra 2.0 생성 환경. 이미지 출처: NVIDIA."
+                "x": "Preview는 약 일주일 만에 꾸려졌고 QA 기간도 평소보다 짧았다. Epic은 아직 \"에이전트가 작성한 코드 일부를 정리하는 중\"이라고 밝혔다. 이번 버전은 Python 스크립팅과 AI-assisted 워크플로를 크게 개선했다. 여기에는 Unreal MCP, Unreal Assistant, 그리고 Epic의 AI-powered 콘텐츠 제작 도구인 Unreal Canvas가 포함된다. Lumen World Cache, 개선된 Nanite 컬링, WebAssembly와 WebGPU를 통한 타깃 플랫폼 Web의 복귀도 더해졌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "NVIDIA Lyra\n2.0は写真を3D世界に",
-          "body": "Lyra 2.0はAI動画生成と空間記憶、3D再構成を融合し、世界をリアルタイムで描く。",
-          "mini_headline": "Lyra 2.0：写真から3D世界",
+          "headline": "UE 5.9 Preview\nAIエージェントツール搭載",
+          "body": "EpicはUE 5.9 Previewの大半をAIエージェントが作ったと明かした。",
+          "mini_headline": "UE 5.9 Preview、エージェント機能を追加",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg"
+                "src": "https://cdn.80.lv/api/upload/content/c3/images/6af2cdf44eb77/widen_1840x0.jpeg"
               },
               {
                 "t": "p",
-                "x": "NVIDIAは、一枚の写真を探索可能な3D環境に変換できるAI-poweredのフレームワーク「Lyra 2.0」を披露した。NVIDIAのSpatial Intelligence Lab（SIL）が開発したもので、AI動画生成と3D再構成を組み合わせている。研究自体は2026年4月に発表されたもので、SIGGRAPH Asia 2026を前に改めて紹介されている。従来のimage-to-video生成器とは異なり、Lyra 2.0ではユーザーがカメラの軌道を操作でき、移動に合わせて新たな視点が順次生成される。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-1.jpg",
-                "cap": "画像提供：NVIDIA"
+                "x": "Unreal Engine 5.8はUnreal Engine 6前の最後のメジャーリリースになるはずだったが、Epicは一週間前、11月12日から15日まで開催される2026 Epic AI MegaJamに合わせてUnreal Engine 5.9 Previewをまとめることを決めた。主にエージェント型ワークフローで構築された初のエンジンリリースである。"
               },
               {
                 "t": "p",
-                "x": "空間的な忘却と時間的なドリフトに対処するため、NVIDIAの研究者は3D幾何情報を用いて関連する過去フレームを呼び出す空間メモリシステムを開発し、さらにモデル自身の不完全な出力でモデルを学習させた。得られたシーケンスは3D Gaussian Splatsやポリゴンメッシュに再構成でき、リアルタイムレンダリングやNVIDIA Isaac Simなどのアプリケーションへのエクスポートが可能になる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-2-scaled.jpg",
-                "cap": "画像提供：NVIDIA"
+                "x": "「少人数がエージェントの群れを指揮し、UE6の開発ブランチからAIツールを移植し、Webをターゲットプラットフォームとして実装した。WebプラットフォームのコードはUE4で廃止されたHTML5プラットフォームを出発点にエージェントが書き、エンジニアが指揮・レビュー・テストを担った」"
               },
               {
                 "t": "p",
-                "x": "蒸留モデルは動画生成のデノイジングステップを35から四つに減らし、約13倍の削減を実現した。80フレームの区間は単一のNVIDIA GB200 GPUで約15秒で生成でき、フルモデルでは194秒かかる。これはリアルタイムの世界生成ではなく、対象も主に静的な環境に限られる。NVIDIAは実装をGitHubで公開し、モデルの重みは研究用途に限るライセンス制限付きでHugging Faceで配布している。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-3.jpg",
-                "cap": "NVIDIA Isaac Simに読み込んだLyra 2.0生成の環境。画像提供：NVIDIA"
+                "x": "Previewは約一週間でまとめられ、QA期間は通常より短かった。Epicによれば、今も「エージェントが書いたコードの一部を整理している」段階だ。PythonスクリプティングとAI-assistedワークフローが大きく改善され、Unreal MCP、Unreal Assistant、そしてEpicのAI-poweredコンテンツ制作ツールであるUnreal Canvasが含まれる。さらにLumen World Cache、Naniteカリングの改善、WebAssemblyとWebGPUによるターゲットプラットフォームWebの復活も加わった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "NVIDIA Lyra\n2.0：单张照片变3D世界",
-          "body": "Lyra 2.0结合AI视频生成、空间记忆与3D重建，实时渲染持久的世界。",
-          "mini_headline": "Lyra 2.0：单张图片，3D世界",
+          "headline": "UE 5.9 Preview\n搭载AI智能体工具",
+          "body": "Epic称新增Unreal MCP的UE 5.9 Preview主要由AI智能体打造。",
+          "mini_headline": "UE 5.9 Preview新增智能体工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg"
+                "src": "https://cdn.80.lv/api/upload/content/c3/images/6af2cdf44eb77/widen_1840x0.jpeg"
               },
               {
                 "t": "p",
-                "x": "NVIDIA展示了Lyra 2.0，这是一个AI-powered框架，能将单张照片转化为可探索的3D环境。它由NVIDIA的Spatial Intelligence Lab（SIL）开发，结合了AI视频生成与3D重建；该研究最初于2026年4月发表，如今在SIGGRAPH Asia 2026前夕再度受到关注。与传统的image-to-video生成器不同，Lyra 2.0允许用户控制摄像机轨迹，并在移动过程中逐步生成新视角。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-1.jpg",
-                "cap": "图片来源：NVIDIA。"
+                "x": "Unreal Engine 5.8原本应是Unreal Engine 6之前的最后一个大版本，但一周前Epic决定配合11月12日至15日举办的2026 Epic AI MegaJam，推出Unreal Engine 5.9 Preview。这是首个主要借助智能体工作流构建的引擎版本。"
               },
               {
                 "t": "p",
-                "x": "为应对空间遗忘和时间漂移，NVIDIA研究人员开发了一套空间记忆系统，利用3D几何信息检索相关的历史帧，并用模型自身不完美的输出对其进行训练。生成的序列可重建为3D Gaussian Splats和多边形网格，从而实现实时渲染，并可导出到NVIDIA Isaac Sim等应用中。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-2-scaled.jpg",
-                "cap": "图片来源：NVIDIA。"
+                "x": "“少数几个人指挥成群的智能体，把UE6开发分支中的AI工具移植过来，并将Web实现为目标平台。智能体以UE4已退役的HTML5平台为起点编写了Web平台代码，工程师负责指挥、审查和测试。”"
               },
               {
                 "t": "p",
-                "x": "蒸馏模型将视频生成的去噪步数从35步减至四步，约缩减13倍：在单块NVIDIA GB200 GPU上生成一段80帧片段约需15秒，而完整模型需要194秒。这并非实时的世界生成，且仍主要局限于静态环境。NVIDIA已在GitHub上公开实现代码，模型权重则以研究用途许可限制发布在Hugging Face上。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-3.jpg",
-                "cap": "导入NVIDIA Isaac Sim的Lyra 2.0生成环境。图片来源：NVIDIA。"
+                "x": "这个Preview大约用一周拼成，QA周期比平常短；Epic表示仍在“清理部分由智能体编写的代码”。它大幅改进了Python脚本和AI-assisted工作流，包括Unreal MCP、Unreal Assistant，以及Epic的AI-powered内容创作工具Unreal Canvas；此外还有Lumen World Cache、更好的Nanite剔除，以及通过WebAssembly和WebGPU重新支持Web作为目标平台。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Lyra 2.0 de NVIDIA convierte\nuna imagen en un mundo 3D",
-          "body": "Lyra 2.0 une video generado con AI, memoria espacial y reconstrucción 3D para un mundo persistente en tiempo real.",
-          "mini_headline": "Lyra 2.0: una imagen, un mundo 3D",
+          "headline": "Unreal Engine 5.9 Preview\ntrae herramientas de agentes AI",
+          "body": "Epic afirma que UE 5.9 Preview, que añade Unreal MCP y Unreal Canvas, fue creada en gran parte por agentes de AI.",
+          "mini_headline": "UE 5.9 Preview suma herramientas de agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg"
+                "src": "https://cdn.80.lv/api/upload/content/c3/images/6af2cdf44eb77/widen_1840x0.jpeg"
               },
               {
                 "t": "p",
-                "x": "NVIDIA presentó Lyra 2.0, un framework AI-powered capaz de transformar una sola fotografía en un entorno 3D explorable. Desarrollado por el Spatial Intelligence Lab (SIL) de NVIDIA, combina la generación de video con AI y la reconstrucción 3D; la investigación se publicó originalmente en abril de 2026 y ahora se destaca antes de SIGGRAPH Asia 2026. A diferencia de los generadores image-to-video convencionales, Lyra 2.0 permite a los usuarios controlar la trayectoria de la cámara y genera progresivamente nuevas vistas a medida que se desplazan."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-1.jpg",
-                "cap": "Crédito de imagen: NVIDIA."
+                "x": "Unreal Engine 5.8 iba a ser la última versión importante antes de Unreal Engine 6, pero hace una semana Epic decidió preparar una Unreal Engine 5.9 Preview a tiempo para la 2026 Epic AI MegaJam, que se celebra del 12 al 15 de noviembre. Es la primera versión del motor creada principalmente con flujos de trabajo agénticos."
               },
               {
                 "t": "p",
-                "x": "Para contrarrestar el olvido espacial y la deriva temporal, los investigadores de NVIDIA desarrollaron un sistema de memoria espacial que recupera fotogramas históricos relevantes mediante información geométrica 3D, y entrenaron el modelo con sus propias salidas imperfectas. Las secuencias resultantes pueden reconstruirse como 3D Gaussian Splats y mallas poligonales, lo que permite el renderizado en tiempo real y la exportación a aplicaciones como NVIDIA Isaac Sim."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-2-scaled.jpg",
-                "cap": "Crédito de imagen: NVIDIA."
+                "x": "\"Un puñado de personas dirigió flotas de agentes para portar las herramientas de AI de nuestra rama de desarrollo de UE6 e implementar Web como plataforma de destino. Los agentes escribieron el código de la plataforma web, partiendo de la retirada plataforma HTML5 de UE4, mientras los ingenieros dirigían, revisaban y probaban el trabajo.\""
               },
               {
                 "t": "p",
-                "x": "Un modelo destilado reduce la generación de video de 35 pasos de eliminación de ruido a cuatro, una reducción de aproximadamente 13 veces: un segmento de 80 fotogramas tarda unos 15 segundos en una sola NVIDIA GB200 GPU, frente a 194 segundos con el modelo completo. No se trata de generación de mundos en tiempo real, y sigue limitado a entornos predominantemente estáticos. NVIDIA publicó la implementación en GitHub, con los pesos del modelo en Hugging Face bajo restricciones de licencia de uso para investigación."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lyra-2.0-3.jpg",
-                "cap": "Un entorno generado con Lyra 2.0 importado en NVIDIA Isaac Sim. Crédito de imagen: NVIDIA."
+                "x": "La Preview se armó en aproximadamente una semana, con un periodo de QA más corto de lo habitual; Epic dice que todavía está \"limpiando parte del código escrito por agentes\". Trae mejoras importantes en scripting con Python y en flujos de trabajo AI-assisted, incluidos Unreal MCP, Unreal Assistant y Unreal Canvas, la herramienta de creación de contenido AI-powered de Epic, además de Lumen World Cache, un mejor culling de Nanite y el regreso de Web como plataforma de destino mediante WebAssembly y WebGPU."
               }
             ]
           }
@@ -425,15 +275,15 @@
       }
     },
     {
-      "id": "innogames-genai-art-pipeline",
+      "id": "househouse-bigwalk-igf-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "InnoGames의 AI\n중심엔 아티스트가 있다",
-      "body": "InnoGames의 Dario Berruti가 아티스트 중심 AI 도입기를 전했다.",
-      "mini_headline": "InnoGames, 아티스트 중심 유지",
+      "headline": "House House가\nBig Walk AI 해명",
+      "body": "Big Walk 개발사가 2027 IGF 심사위원 gen-AI 거부에 입장을 냈다.",
+      "mini_headline": "Big Walk의 AI 사용 해명",
       "tool": "Games",
-      "source": "Mobidictum",
-      "url": "https://mobidictum.com/gen-ai-artists-innogames-pipeline/",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/house-house-clarifies-use-of-ai-tools-in-big-walks-final-stage-of-development",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -441,203 +291,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png"
+            "src": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&quality=85&format=jpg&auto=webp",
+            "cap": "이미지 출처: House House/Panic"
           },
           {
             "t": "p",
-            "x": "InnoGames의 아트 총괄 Dario Berruti가 이 기고문에서 스튜디오의 생성형 AI 도입 과정을 다섯 단계로 정리했다. Forge of Empires, Elvenar, Heroes of History를 만든 곳이다. 출발점은 아티스트 설문이었다. 가장 큰 우려는 고용 안정이었다. 경영진은 AI가 아티스트를 대체하려는 게 아니라 그들의 역량을 키우려는 것이라고 밝혔다."
+            "x": "House House는 Big Walk의 \"개발 막바지\"에 \"까다로운 기술적 과제와 버그\"를 풀려고 AI 도구를 \"아주 제한적으로\" 썼다고 밝혔다. 2027 Independent Games Festival(IGF) 심사위원 일부가 생성형 AI로 만든 게임에는 표를 주지 않겠다고 밝히자 나온 입장이다."
           },
           {
             "t": "p",
-            "x": "초기에는 레퍼런스와 러프 목업용 '빨라진 Pinterest' 정도로 썼다. 팀이 고른 도구는 Scenario였다. 스튜디오 자체 에셋으로 커스텀 모델을 학습시킬 수 있어 아이콘, 초상화, 소형 일러스트 작업의 주력이 됐다. ComfyUI도 검토했지만 채택하지 않았다."
+            "x": "스튜디오는 서드파티 코드 문제를 살피는 데 LLM 챗봇을 썼다고 설명했다. \"이 사용과 관련된 코드는 Big Walk 전체 코드의 0.1%에 한참 못 미칠 것으로 추산한다.\" 해돋이와 해넘이 무렵 약 20초 동안 게임을 50% 느리게 만든 Unity URP 섀도 캐스터 수정도 \"URP 내부 코드 약 10줄 분량\"이었다."
           },
           {
             "t": "p",
-            "x": "전환점은 2025년 Gemini와 Flux였다. 외주 비용은 이제 예년의 절반 수준이고, 2D와 콘셉트 아트에서 AI는 빼놓을 수 없는 요소가 됐다. 지금은 노드 기반 워크플로, MCP 연동, 에이전트 같은 자동화에 힘을 싣는다. 아티스트들은 반복 작업이나 자체 스크립트·도구를 짤 때 Claude를 쓰고, MCP 서버로 Claude를 Blender에 연결해 3D에서도 새 가능성을 찾는다."
-          },
-          {
-            "t": "p",
-            "x": "\"AI는 우리가 일하는 방식을 바꿨다. 하지만 누가 일하는지는 바꾸지 않았다. 우리가 만드는 모든 것의 중심에는 여전히 아티스트가 있다.\""
-          },
-          {
-            "t": "img",
-            "src": "https://mobidictum.com/wp-content/uploads/2026/11/Dario-Berruti-1024x684.png",
-            "cap": "InnoGames 아트 총괄 Dario Berruti"
+            "x": "\"아무리 적더라도 AI 도구 사용을 지지하거나 옹호하려는 것은 아니다\"라는 게 개발사의 말이다. \"Big Walk는 내부 AI 사용 정책 없이 개발됐고, 우리는 그 정책의 부재를 실패로 본다.\""
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "InnoGames puts artists at\nthe center of its AI pipeline",
-          "body": "Art head Dario Berruti explains how InnoGames brought generative AI into its art workflow with artists at the center.",
-          "mini_headline": "InnoGames keeps artists central",
+          "headline": "House House Explains\nAI Use in Big Walk",
+          "body": "House House addressed AI use in Big Walk after a group of 2027 IGF jurors said they would not vote for gen-AI games.",
+          "mini_headline": "Big Walk's AI Use Explained",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png"
+                "src": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "Image credit: House House/Panic"
               },
               {
                 "t": "p",
-                "x": "In this guest article, Dario Berruti, Head of Art at InnoGames, outlines how the studio behind Forge of Empires, Elvenar and Heroes of History adopted generative AI in five stages. It began with a survey of artists, whose top concern was job security; leadership stated that the purpose of AI is to amplify artists' skills, not to replace them."
+                "x": "House House has clarified it used AI tools \"sparingly\" during the \"final stretch of development\" on Big Walk to address \"difficult technical challenges and bugs.\" The statement came after a group of jurors for the 2027 Independent Games Festival (IGF) said they would not vote for any game developed with generative AI."
               },
               {
                 "t": "p",
-                "x": "Early experiments worked like an accelerated Pinterest for references and rough mock-ups. The team committed to Scenario, which became its go-to tool for icons, portraits and small illustrations because it can train custom models on the studio's own assets; ComfyUI was evaluated and dropped."
+                "x": "The studio said it used LLM chatbots to research issues with third-party code: \"we'd estimate that well under 0.1% of Big Walk's code had anything to do with this usage.\" One fix, for Unity URP shadow casters that made the game run 50% slower for around 20 seconds at sunrise and sunset, \"represented about 10 lines of code inside URP.\""
               },
               {
                 "t": "p",
-                "x": "The turning point came in 2025 with Gemini and Flux. Outsourcing costs are now half of what they were in previous years, and AI is integral to 2D and concept art. Today the focus is automation: node-based workflows, MCP integrations and agents. Artists use Claude for repetitive tasks and to write their own scripts and tools, and connecting Claude to Blender through its MCP server is opening new possibilities for 3D."
-              },
-              {
-                "t": "p",
-                "x": "\"AI has changed how we work. It has not changed who does the work: our artists remain at the center of everything we create.\""
-              },
-              {
-                "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/Dario-Berruti-1024x684.png",
-                "cap": "Dario Berruti, Head of Art at InnoGames"
+                "x": "\"This is not an endorsement of, or argument for, the use of AI tools, however minimal,\" the developer said. \"Big Walk was developed without an internal AI usage policy in place, and we consider that lack of policy a failure.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "InnoGames의 AI\n중심엔 아티스트가 있다",
-          "body": "InnoGames의 Dario Berruti가 아티스트 중심 AI 도입기를 전했다.",
-          "mini_headline": "InnoGames, 아티스트 중심 유지",
+          "headline": "House House가\nBig Walk AI 해명",
+          "body": "Big Walk 개발사가 2027 IGF 심사위원 gen-AI 거부에 입장을 냈다.",
+          "mini_headline": "Big Walk의 AI 사용 해명",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png"
+                "src": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "이미지 출처: House House/Panic"
               },
               {
                 "t": "p",
-                "x": "InnoGames의 아트 총괄 Dario Berruti가 이 기고문에서 스튜디오의 생성형 AI 도입 과정을 다섯 단계로 정리했다. Forge of Empires, Elvenar, Heroes of History를 만든 곳이다. 출발점은 아티스트 설문이었다. 가장 큰 우려는 고용 안정이었다. 경영진은 AI가 아티스트를 대체하려는 게 아니라 그들의 역량을 키우려는 것이라고 밝혔다."
+                "x": "House House는 Big Walk의 \"개발 막바지\"에 \"까다로운 기술적 과제와 버그\"를 풀려고 AI 도구를 \"아주 제한적으로\" 썼다고 밝혔다. 2027 Independent Games Festival(IGF) 심사위원 일부가 생성형 AI로 만든 게임에는 표를 주지 않겠다고 밝히자 나온 입장이다."
               },
               {
                 "t": "p",
-                "x": "초기에는 레퍼런스와 러프 목업용 '빨라진 Pinterest' 정도로 썼다. 팀이 고른 도구는 Scenario였다. 스튜디오 자체 에셋으로 커스텀 모델을 학습시킬 수 있어 아이콘, 초상화, 소형 일러스트 작업의 주력이 됐다. ComfyUI도 검토했지만 채택하지 않았다."
+                "x": "스튜디오는 서드파티 코드 문제를 살피는 데 LLM 챗봇을 썼다고 설명했다. \"이 사용과 관련된 코드는 Big Walk 전체 코드의 0.1%에 한참 못 미칠 것으로 추산한다.\" 해돋이와 해넘이 무렵 약 20초 동안 게임을 50% 느리게 만든 Unity URP 섀도 캐스터 수정도 \"URP 내부 코드 약 10줄 분량\"이었다."
               },
               {
                 "t": "p",
-                "x": "전환점은 2025년 Gemini와 Flux였다. 외주 비용은 이제 예년의 절반 수준이고, 2D와 콘셉트 아트에서 AI는 빼놓을 수 없는 요소가 됐다. 지금은 노드 기반 워크플로, MCP 연동, 에이전트 같은 자동화에 힘을 싣는다. 아티스트들은 반복 작업이나 자체 스크립트·도구를 짤 때 Claude를 쓰고, MCP 서버로 Claude를 Blender에 연결해 3D에서도 새 가능성을 찾는다."
-              },
-              {
-                "t": "p",
-                "x": "\"AI는 우리가 일하는 방식을 바꿨다. 하지만 누가 일하는지는 바꾸지 않았다. 우리가 만드는 모든 것의 중심에는 여전히 아티스트가 있다.\""
-              },
-              {
-                "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/Dario-Berruti-1024x684.png",
-                "cap": "InnoGames 아트 총괄 Dario Berruti"
+                "x": "\"아무리 적더라도 AI 도구 사용을 지지하거나 옹호하려는 것은 아니다\"라는 게 개발사의 말이다. \"Big Walk는 내부 AI 사용 정책 없이 개발됐고, 우리는 그 정책의 부재를 실패로 본다.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "InnoGamesのAI制作\n中心はアーティスト",
-          "body": "InnoGamesのDario Berruti氏がアーティスト中心の生成AI導入を語った。",
-          "mini_headline": "InnoGames、アーティスト中心を維持",
+          "headline": "House Houseが\nBig WalkのAIを説明",
+          "body": "2027 IGF審査員のgen-AI拒否後、Big Walk開発元がAI使用を説明した。",
+          "mini_headline": "Big WalkのAI使用を説明",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png"
+                "src": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "画像クレジット：House House/Panic"
               },
               {
                 "t": "p",
-                "x": "この寄稿記事で、InnoGamesのアート責任者Dario Berruti氏は、Forge of Empires、Elvenar、Heroes of Historyを手がける同スタジオが生成AIを五段階で導入した経緯を説明している。出発点はアーティストへのアンケートで、最大の懸念は雇用の安定だった。経営陣は、AIの目的はアーティストを置き換えることではなく、そのスキルを高めることだと明言した。"
+                "x": "House Houseは、Big Walkの「開発の最終段階」で「難しい技術的課題やバグ」に対処するため、AIツールを「控えめに」使ったと明らかにした。この声明は、2027 Independent Games Festival（IGF）の審査員の一部が、生成AIを使って開発されたゲームには投票しないと表明したことを受けて出された。"
               },
               {
                 "t": "p",
-                "x": "初期の実験は、リファレンスやラフなモックアップのための「高速版Pinterest」のように機能した。チームはScenarioに注力し、スタジオ独自のアセットでカスタムモデルを学習できることから、アイコン、ポートレート、小さなイラストの定番ツールとなった。ComfyUIは検討したものの採用を見送った。"
+                "x": "スタジオによると、サードパーティ製コードの問題を調べるためにLLMチャットボットを使ったという。「この利用に関わるコードは、Big Walkのコード全体の0.1%を大きく下回ると見積もっている」。日の出と日の入りの約20秒間にゲームが50%遅くなっていたUnity URPのシャドウキャスターの修正は、「URP内のコード約10行」だったという。"
               },
               {
                 "t": "p",
-                "x": "転機は2025年、GeminiとFluxの登場だった。現在、外注コストは例年の半分になり、AIは2Dやコンセプトアートに欠かせない存在となっている。今の焦点は自動化で、ノードベースのワークフロー、MCP連携、エージェントに取り組んでいる。アーティストは反復作業や独自のスクリプト・ツールの作成にClaudeを使い、MCPサーバーを通じてClaudeをBlenderに接続することで3Dにも新たな可能性が開けつつある。"
-              },
-              {
-                "t": "p",
-                "x": "「AIは私たちの働き方を変えた。しかし、誰が仕事をするかは変えていない。私たちが生み出すすべてのものの中心には、今もアーティストがいる」"
-              },
-              {
-                "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/Dario-Berruti-1024x684.png",
-                "cap": "InnoGamesアート責任者 Dario Berruti氏"
+                "x": "「どれほど小さな利用であっても、AIツールの使用を支持したり擁護したりするものではない」と開発元は述べた。「Big Walkは社内のAI利用方針がないまま開発され、我々はその方針の欠如を失敗だと考えている」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "InnoGames的AI管线\n以美术师为核心",
-          "body": "InnoGames的Dario Berruti讲述了以美术师为核心引入生成式AI的经过。",
-          "mini_headline": "InnoGames坚持以美术师为核心",
+          "headline": "House House解释\nBig Walk的AI使用",
+          "body": "2027 IGF评审拒投gen-AI后，House House解释Big Walk用AI。",
+          "mini_headline": "Big Walk的AI使用说明",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png"
+                "src": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "图片来源：House House/Panic"
               },
               {
                 "t": "p",
-                "x": "在这篇客座文章中，InnoGames美术负责人Dario Berruti介绍了这家打造Forge of Empires、Elvenar和Heroes of History的工作室如何分五个阶段引入生成式AI。第一步是对美术师进行调研，他们最关心的是工作保障；管理层明确表示，AI的目的是增强美术师的能力，而非取代他们。"
+                "x": "House House澄清称，在Big Walk“开发的最后阶段”，他们“有节制地”使用了AI工具，以解决“棘手的技术难题和bug”。此前，2027 Independent Games Festival（IGF）的一批评审表示，不会投票给任何使用生成式AI开发的游戏。"
               },
               {
                 "t": "p",
-                "x": "早期实验就像一个加速版的Pinterest，用于寻找参考和制作粗略样稿。团队最终选定了Scenario，由于它能用工作室自有素材训练定制模型，它成为制作图标、肖像和小型插画的首选工具；ComfyUI经过评估后被放弃。"
+                "x": "工作室表示，他们用LLM聊天机器人研究第三方代码的问题：“我们估计，Big Walk中与此相关的代码远低于0.1%。”其中一项修复针对Unity URP的阴影投射器——它曾让游戏在日出和日落时约20秒内运行速度慢50%——“大约相当于URP内部的10行代码”。"
               },
               {
                 "t": "p",
-                "x": "转折点出现在2025年，Gemini和Flux相继登场。如今外包成本仅为往年的一半，AI已成为2D和概念美术不可或缺的一部分。目前的重点是自动化：基于节点的工作流、MCP集成以及智能体。美术师们用Claude处理重复性任务、编写自己的脚本和工具，而通过MCP服务器将Claude连接到Blender，正在为3D开辟新的可能。"
-              },
-              {
-                "t": "p",
-                "x": "“AI改变了我们的工作方式，但没有改变由谁来工作：我们的美术师始终是我们所创造的一切的核心。”"
-              },
-              {
-                "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/Dario-Berruti-1024x684.png",
-                "cap": "InnoGames美术负责人Dario Berruti"
+                "x": "“无论多么少量，这都不是在为使用AI工具背书或辩护，”开发者表示。“Big Walk在开发时没有内部AI使用政策，我们认为缺乏这样的政策是一种失败。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "InnoGames pone a los artistas\nen el centro de su flujo de AI",
-          "body": "El jefe de arte Dario Berruti explica cómo InnoGames llevó la AI generativa a su arte con los artistas en el centro.",
-          "mini_headline": "InnoGames mantiene a sus artistas al centro",
+          "headline": "House House explica el uso\nde AI en Big Walk",
+          "body": "House House explicó el uso de AI en Big Walk tras el anuncio de jurados del IGF 2027 de no votar por juegos gen-AI.",
+          "mini_headline": "El uso de AI en Big Walk, explicado",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png"
+                "src": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "Crédito de imagen: House House/Panic"
               },
               {
                 "t": "p",
-                "x": "En este artículo invitado, Dario Berruti, jefe de arte de InnoGames, explica cómo el estudio detrás de Forge of Empires, Elvenar y Heroes of History adoptó la AI generativa en cinco etapas. Todo comenzó con una encuesta a los artistas, cuya principal preocupación era la estabilidad laboral; la dirección afirmó que el propósito de la AI es potenciar las habilidades de los artistas, no reemplazarlos."
+                "x": "House House aclaró que usó herramientas de AI \"con moderación\" durante el \"tramo final del desarrollo\" de Big Walk para resolver \"desafíos técnicos difíciles y errores\". La declaración llegó después de que un grupo de jurados del 2027 Independent Games Festival (IGF) dijera que no votaría por ningún juego desarrollado con AI generativa."
               },
               {
                 "t": "p",
-                "x": "Los primeros experimentos funcionaron como un Pinterest acelerado para referencias y maquetas preliminares. El equipo apostó por Scenario, que se convirtió en su herramienta principal para iconos, retratos e ilustraciones pequeñas porque permite entrenar modelos personalizados con los propios recursos del estudio; ComfyUI se evaluó y se descartó."
+                "x": "El estudio explicó que usó chatbots LLM para investigar problemas con código de terceros: \"estimamos que muy por debajo del 0.1% del código de Big Walk tuvo algo que ver con este uso\". Una corrección, para los shadow casters de Unity URP que hacían que el juego funcionara un 50% más lento durante unos 20 segundos al amanecer y al atardecer, \"representó unas 10 líneas de código dentro de URP\"."
               },
               {
                 "t": "p",
-                "x": "El punto de inflexión llegó en 2025 con Gemini y Flux. Los costos de externalización son ahora la mitad que en años anteriores, y la AI es parte integral del arte 2D y conceptual. Hoy el foco está en la automatización: flujos de trabajo basados en nodos, integraciones MCP y agentes. Los artistas usan Claude para tareas repetitivas y para escribir sus propios scripts y herramientas, y conectar Claude a Blender mediante su servidor MCP está abriendo nuevas posibilidades para el 3D."
-              },
-              {
-                "t": "p",
-                "x": "\"La AI ha cambiado cómo trabajamos. No ha cambiado quién hace el trabajo: nuestros artistas siguen en el centro de todo lo que creamos.\""
-              },
-              {
-                "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/Dario-Berruti-1024x684.png",
-                "cap": "Dario Berruti, jefe de arte de InnoGames"
+                "x": "\"Esto no es un respaldo ni un argumento a favor del uso de herramientas de AI, por mínimo que sea\", dijo el desarrollador. \"Big Walk se desarrolló sin una política interna de uso de AI, y consideramos que esa falta de política fue un fallo\"."
               }
             ]
           }
@@ -645,141 +447,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "InnoGames의 AI\n중심엔 아티스트가 있다",
-          "body": "InnoGames의 Dario Berruti가 아티스트 중심 AI 도입기를 전했다.",
-          "mini_headline": "InnoGames, 아티스트 중심 유지",
+          "headline": "House House가\nBig Walk AI 해명",
+          "body": "Big Walk 개발사가 2027 IGF 심사위원 gen-AI 거부에 답했다.",
+          "mini_headline": "Big Walk의 AI 사용 해명",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png"
+                "src": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "이미지 출처: House House/Panic"
               },
               {
                 "t": "p",
-                "x": "이 기고문에서 InnoGames의 아트 총괄 Dario Berruti는 Forge of Empires, Elvenar, Heroes of History를 만든 이 스튜디오가 생성형 AI를 다섯 단계에 걸쳐 도입한 과정을 정리했다. 출발점은 아티스트 대상 설문이었고, 이들의 가장 큰 우려는 고용 안정이었다. 경영진은 AI의 목적이 아티스트를 대체하는 데 있지 않고 그들의 역량을 키우는 데 있다고 밝혔다."
+                "x": "House House는 Big Walk의 \"개발 막바지\"에 \"까다로운 기술적 과제와 버그\"를 해결하려고 AI 도구를 \"아주 제한적으로\" 썼다고 밝혔다. 이 입장은 2027 Independent Games Festival(IGF) 심사위원 일부가 생성형 AI로 개발한 게임에는 투표하지 않겠다고 밝힌 뒤 나왔다."
               },
               {
                 "t": "p",
-                "x": "초기 실험은 레퍼런스와 러프 목업을 위한 '빨라진 Pinterest'처럼 쓰였다. 팀은 Scenario를 택했고, 스튜디오 자체 에셋으로 커스텀 모델을 학습시킬 수 있다는 점 덕분에 이 도구는 아이콘, 초상화, 소형 일러스트의 주력 도구가 됐다. ComfyUI는 검토했지만 채택하지 않았다."
+                "x": "스튜디오는 서드파티 코드 문제를 조사하는 데 LLM 챗봇을 썼다고 설명했다. \"이 사용과 관련된 코드는 Big Walk 전체 코드의 0.1%에 한참 못 미칠 것으로 추산한다.\" 해돋이와 해넘이 때 약 20초 동안 게임을 50% 느리게 만든 Unity URP 섀도 캐스터 수정 건은 \"URP 내부 코드 약 10줄 분량\"이었다."
               },
               {
                 "t": "p",
-                "x": "전환점은 2025년 Gemini와 Flux였다. 지금 외주 비용은 예년의 절반 수준이고, AI는 2D와 콘셉트 아트에 없어서는 안 될 요소가 됐다. 현재 초점은 자동화로, 노드 기반 워크플로, MCP 연동, 에이전트에 맞춰져 있다. 아티스트들은 반복 작업과 자체 스크립트·도구 작성에 Claude를 쓰고, MCP 서버로 Claude를 Blender에 연결하면서 3D에서도 새로운 가능성이 열리고 있다."
-              },
-              {
-                "t": "p",
-                "x": "\"AI는 우리가 일하는 방식을 바꿨다. 하지만 누가 일하는지는 바꾸지 않았다. 우리가 만드는 모든 것의 중심에는 여전히 아티스트가 있다.\""
-              },
-              {
-                "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/Dario-Berruti-1024x684.png",
-                "cap": "InnoGames 아트 총괄 Dario Berruti"
+                "x": "\"아무리 적더라도 AI 도구 사용을 지지하거나 옹호하려는 것은 아니다\"라고 개발사는 말했다. \"Big Walk는 내부 AI 사용 정책 없이 개발됐고, 우리는 그 정책의 부재를 실패로 본다.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "InnoGamesのAI制作\n中心はアーティスト",
-          "body": "InnoGamesのDario Berruti氏がアーティスト中心の生成AI導入を語った。",
-          "mini_headline": "InnoGames、アーティスト中心を維持",
+          "headline": "House Houseが\nBig WalkのAIを説明",
+          "body": "2027 IGF審査員のgen-AI拒否後、Big Walk開発元がAI使用を説明した。",
+          "mini_headline": "Big WalkのAI使用を説明",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png"
+                "src": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "画像クレジット：House House/Panic"
               },
               {
                 "t": "p",
-                "x": "この寄稿記事で、InnoGamesのアート責任者Dario Berruti氏は、Forge of Empires、Elvenar、Heroes of Historyを手がける同スタジオが生成AIを五段階で導入した経緯を説明している。出発点はアーティストへのアンケートで、最大の懸念は雇用の安定だった。経営陣は、AIの目的はアーティストを置き換えることではなく、そのスキルを高めることだと明言した。"
+                "x": "House Houseは、Big Walkの「開発の最終段階」で「難しい技術的課題やバグ」に対処するため、AIツールを「控えめに」使ったと明らかにした。この声明は、2027 Independent Games Festival（IGF）の審査員の一部が、生成AIを使って開発されたゲームには投票しないと表明したことを受けて出された。"
               },
               {
                 "t": "p",
-                "x": "初期の実験は、リファレンスやラフなモックアップのための「高速版Pinterest」のように機能した。チームはScenarioに注力し、スタジオ独自のアセットでカスタムモデルを学習できることから、アイコン、ポートレート、小さなイラストの定番ツールとなった。ComfyUIは検討したものの採用を見送った。"
+                "x": "スタジオによると、サードパーティ製コードの問題を調べるためにLLMチャットボットを使ったという。「この利用に関わるコードは、Big Walkのコード全体の0.1%を大きく下回ると見積もっている」。日の出と日の入りの約20秒間にゲームが50%遅くなっていたUnity URPのシャドウキャスターの修正は、「URP内のコード約10行」だったという。"
               },
               {
                 "t": "p",
-                "x": "転機は2025年、GeminiとFluxの登場だった。現在、外注コストは例年の半分になり、AIは2Dやコンセプトアートに欠かせない存在となっている。今の焦点は自動化で、ノードベースのワークフロー、MCP連携、エージェントに取り組んでいる。アーティストは反復作業や独自のスクリプト・ツールの作成にClaudeを使い、MCPサーバーを通じてClaudeをBlenderに接続することで3Dにも新たな可能性が開けつつある。"
-              },
-              {
-                "t": "p",
-                "x": "「AIは私たちの働き方を変えた。しかし、誰が仕事をするかは変えていない。私たちが生み出すすべてのものの中心には、今もアーティストがいる」"
-              },
-              {
-                "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/Dario-Berruti-1024x684.png",
-                "cap": "InnoGamesアート責任者 Dario Berruti氏"
+                "x": "「どれほど小さな利用であっても、AIツールの使用を支持したり擁護したりするものではない」と開発元は述べた。「Big Walkは社内のAI利用方針がないまま開発され、我々はその方針の欠如を失敗だと考えている」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "InnoGames的AI管线\n以美术师为核心",
-          "body": "InnoGames的Dario Berruti讲述了以美术师为核心引入生成式AI的经过。",
-          "mini_headline": "InnoGames坚持以美术师为核心",
+          "headline": "House House解释\nBig Walk的AI使用",
+          "body": "2027 IGF评审拒投gen-AI后，House House解释Big Walk用AI。",
+          "mini_headline": "Big Walk的AI使用说明",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png"
+                "src": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "图片来源：House House/Panic"
               },
               {
                 "t": "p",
-                "x": "在这篇客座文章中，InnoGames美术负责人Dario Berruti介绍了这家打造Forge of Empires、Elvenar和Heroes of History的工作室如何分五个阶段引入生成式AI。第一步是对美术师进行调研，他们最关心的是工作保障；管理层明确表示，AI的目的是增强美术师的能力，而非取代他们。"
+                "x": "House House澄清称，在Big Walk“开发的最后阶段”，他们“有节制地”使用了AI工具，以解决“棘手的技术难题和bug”。此前，2027 Independent Games Festival（IGF）的一批评审表示，不会投票给任何使用生成式AI开发的游戏。"
               },
               {
                 "t": "p",
-                "x": "早期实验就像一个加速版的Pinterest，用于寻找参考和制作粗略样稿。团队最终选定了Scenario，由于它能用工作室自有素材训练定制模型，它成为制作图标、肖像和小型插画的首选工具；ComfyUI经过评估后被放弃。"
+                "x": "工作室表示，他们用LLM聊天机器人研究第三方代码的问题：“我们估计，Big Walk中与此相关的代码远低于0.1%。”其中一项修复针对Unity URP的阴影投射器——它曾让游戏在日出和日落时约20秒内运行速度慢50%——“大约相当于URP内部的10行代码”。"
               },
               {
                 "t": "p",
-                "x": "转折点出现在2025年，Gemini和Flux相继登场。如今外包成本仅为往年的一半，AI已成为2D和概念美术不可或缺的一部分。目前的重点是自动化：基于节点的工作流、MCP集成以及智能体。美术师们用Claude处理重复性任务、编写自己的脚本和工具，而通过MCP服务器将Claude连接到Blender，正在为3D开辟新的可能。"
-              },
-              {
-                "t": "p",
-                "x": "“AI改变了我们的工作方式，但没有改变由谁来工作：我们的美术师始终是我们所创造的一切的核心。”"
-              },
-              {
-                "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/Dario-Berruti-1024x684.png",
-                "cap": "InnoGames美术负责人Dario Berruti"
+                "x": "“无论多么少量，这都不是在为使用AI工具背书或辩护，”开发者表示。“Big Walk在开发时没有内部AI使用政策，我们认为缺乏这样的政策是一种失败。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "InnoGames pone a los artistas\nen el centro de su flujo de AI",
-          "body": "El jefe de arte Dario Berruti explica cómo InnoGames llevó la AI generativa a su arte con los artistas en el centro.",
-          "mini_headline": "InnoGames mantiene a sus artistas al centro",
+          "headline": "House House explica el uso\nde AI en Big Walk",
+          "body": "House House explicó el uso de AI en Big Walk tras el anuncio de jurados del IGF 2027 de no votar por juegos gen-AI.",
+          "mini_headline": "El uso de AI en Big Walk, explicado",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png"
+                "src": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "Crédito de imagen: House House/Panic"
               },
               {
                 "t": "p",
-                "x": "En este artículo invitado, Dario Berruti, jefe de arte de InnoGames, explica cómo el estudio detrás de Forge of Empires, Elvenar y Heroes of History adoptó la AI generativa en cinco etapas. Todo comenzó con una encuesta a los artistas, cuya principal preocupación era la estabilidad laboral; la dirección afirmó que el propósito de la AI es potenciar las habilidades de los artistas, no reemplazarlos."
+                "x": "House House aclaró que usó herramientas de AI \"con moderación\" durante el \"tramo final del desarrollo\" de Big Walk para resolver \"desafíos técnicos difíciles y errores\". La declaración llegó después de que un grupo de jurados del 2027 Independent Games Festival (IGF) dijera que no votaría por ningún juego desarrollado con AI generativa."
               },
               {
                 "t": "p",
-                "x": "Los primeros experimentos funcionaron como un Pinterest acelerado para referencias y maquetas preliminares. El equipo apostó por Scenario, que se convirtió en su herramienta principal para iconos, retratos e ilustraciones pequeñas porque permite entrenar modelos personalizados con los propios recursos del estudio; ComfyUI se evaluó y se descartó."
+                "x": "El estudio explicó que usó chatbots LLM para investigar problemas con código de terceros: \"estimamos que muy por debajo del 0.1% del código de Big Walk tuvo algo que ver con este uso\". Una corrección, para los shadow casters de Unity URP que hacían que el juego funcionara un 50% más lento durante unos 20 segundos al amanecer y al atardecer, \"representó unas 10 líneas de código dentro de URP\"."
               },
               {
                 "t": "p",
-                "x": "El punto de inflexión llegó en 2025 con Gemini y Flux. Los costos de externalización son ahora la mitad que en años anteriores, y la AI es parte integral del arte 2D y conceptual. Hoy el foco está en la automatización: flujos de trabajo basados en nodos, integraciones MCP y agentes. Los artistas usan Claude para tareas repetitivas y para escribir sus propios scripts y herramientas, y conectar Claude a Blender mediante su servidor MCP está abriendo nuevas posibilidades para el 3D."
-              },
-              {
-                "t": "p",
-                "x": "\"La AI ha cambiado cómo trabajamos. No ha cambiado quién hace el trabajo: nuestros artistas siguen en el centro de todo lo que creamos.\""
-              },
-              {
-                "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/Dario-Berruti-1024x684.png",
-                "cap": "Dario Berruti, jefe de arte de InnoGames"
+                "x": "\"Esto no es un respaldo ni un argumento a favor del uso de herramientas de AI, por mínimo que sea\", dijo el desarrollador. \"Big Walk se desarrolló sin una política interna de uso de AI, y consideramos que esa falta de política fue un fallo\"."
               }
             ]
           }
@@ -787,15 +557,15 @@
       }
     },
     {
-      "id": "automaton-ocarina-gemini-port",
+      "id": "pcot-japanese-localization-end",
       "source_lang": "ja",
       "eyebrow": "AI NEWS",
-      "headline": "Google 직원의 젤다\n이식, 논란 끝에 삭제",
-      "body": "Google 직원이 Gemini 4로 iPhone Duo에 젤다 띄운 글을 지웠다.",
-      "mini_headline": "Google 직원의 이식에 비판",
+      "headline": "일본어화 툴 PCOT\n다음 업데이트로 개발 종료",
+      "body": "AI로 직접 일본어화하는 미래가 보인다며 PCOT가 다음 업데이트로 개발을 접는다.",
+      "mini_headline": "PCOT, 개발 종료",
       "tool": "Games",
       "source": "AUTOMATON",
-      "url": "https://automaton-media.com/articles/newsjp/20261109-478221/",
+      "url": "https://automaton-media.com/articles/newsjp/20261110-478520/",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
@@ -803,221 +573,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg"
+            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-header.jpg"
           },
           {
             "t": "p",
-            "x": "Google 직원 Ammaar Reshi가 11월 7일 『젤다의 전설 시간의 오카리나』 풀 리메이크판을 Gemini 4로 iPhone Duo에서 구동했다고 X에 올렸다. 게시물은 논란을 불렀고, 지금은 삭제됐다."
-          },
-          {
-            "t": "p",
-            "x": "『젤다의 전설 시간의 오카리나』는 1998년 NINTENDO 64용으로 발매된 액션 RPG다. 이번 풀 리메이크는 그래픽을 새로 다듬고 컷신에 풀 보이스를 입혔다. 카메라를 자유롭게 움직일 수 있고 점프와 대시 등도 더해졌다. 11월 5일 Nintendo Switch 2용으로 나왔다."
+            "x": "개인 개발자 ぬるっぽ 씨가 11월 10일, 번역 지원 툴 'PCOT' 개발을 지금 진행 중인 업데이트를 끝으로 마친다고 발표했다. PCOT는 2020년부터 무료로 공개해 온 PC용 번역 지원 툴이다. OCR 기술로 게임 화면에서 고른 영역의 텍스트를 뽑아 번역한다. 2025년 4월 Gemini를 탑재하면서 인식과 번역 정확도가 크게 올랐다."
           },
           {
             "t": "img",
-            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-header-1080x608.jpg"
+            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-001-1080x560.jpg"
           },
           {
             "t": "p",
-            "x": "게시자 Ammaar Reshi는 Google에서 'Google AI Studio'의 리드 프로덕트&디자인을 맡고 있다. Google의 생성형 AI 'Gemini 4'로 구동했다고 설명했으니, 자사 AI 기술의 성과로 내보인 셈이다."
-          },
-          {
-            "t": "p",
-            "x": "인용 게시물에서는 비공식 이식 자체뿐 아니라, Google AI 제품 개발에 관여하는 인물이 이를 공개적으로 내보였다는 점을 두고도 의문이 나왔다. 게시물은 이미 지워졌고, 삭제 이유는 알려지지 않았다."
+            "x": "그는 AI가 진화하면서 플레이어가 직접 게임을 일본어화할 수 있는 미래가 보였고 툴의 역할도 일단락됐다고 이유를 밝혔다. 앱 공개와 버그 유지보수는 계속한다. 개발을 끝내는 게 슬프지는 않다며, 플레이어가 AI 도움으로 게임을 일본어로 즐기는 시대가 와서 정말 기쁘다고 했다."
           },
           {
             "t": "img",
-            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-002-1080x608.jpg"
+            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-002-1080x608.jpg"
           }
         ]
       },
       "text": {
         "ja": {
-          "headline": "Google社員のゼルダ移植\n物議を醸し投稿を削除",
-          "body": "Google社員がGemini 4で時オカをiPhone Duoで動かしたと投稿、後に削除。",
-          "mini_headline": "Google社員の移植に批判",
+          "headline": "日本語化ツールPCOT\n次の更新で開発終了",
+          "body": "AIの進化で自ら直接日本語化する未来が見えたとして、PCOTは次の更新で開発を終える。",
+          "mini_headline": "PCOT、開発終了へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-header.jpg"
               },
               {
                 "t": "p",
-                "x": "Google社員のAmmaar Reshi氏が11月7日、『ゼルダの伝説 時のオカリナ』フルリメイク版をGemini 4を利用してiPhone Duoで動作させたとXに投稿した。投稿は物議を醸し、現在は削除されている。"
-              },
-              {
-                "t": "p",
-                "x": "『ゼルダの伝説 時のオカリナ』は1998年にNINTENDO 64向けに発売されたアクションRPG。今回のフルリメイクではグラフィックが全面的に刷新されカットシーンがフルボイスになったほか、自由なカメラ操作やジャンプ、ダッシュなどが導入され、Nintendo Switch 2向けに11月5日に発売された。"
+                "x": "個人開発者のぬるっぽ氏は11月10日、翻訳支援ツール「PCOT」の開発を、現在抱えている更新を最後に終了すると発表した。PCOTは2020年から無料公開されているPC向け翻訳支援ツールで、OCR技術でゲーム画面から選択範囲のテキストを抽出し翻訳する。2025年4月にはGeminiを搭載し、読み取りおよび翻訳の精度が飛躍的に向上した。"
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-header-1080x608.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-001-1080x560.jpg"
               },
               {
                 "t": "p",
-                "x": "投稿したのはGoogleにて「Google AI Studio」のリードプロダクト＆デザインを務めるAmmaar Reshi氏。同氏はGoogleの生成AI「Gemini 4」を用いて動作させたと説明しており、自社のAI技術を活用した成果として披露したかたちだ。"
-              },
-              {
-                "t": "p",
-                "x": "引用ポストでは、非公式な移植という行為だけでなく、それをGoogleのAI製品開発に携わる人物が公に披露したことにも疑問の声が寄せられた。投稿はすでに削除されているものの、削除に至った理由は明らかになっていない。"
+                "x": "同氏は理由として、AIの進化でプレイヤー自身がゲームを直接日本語化できる未来が見え、ツールとしての役割に区切りがついたと説明している。アプリの公開と不具合のメンテナンスは今後も継続する。開発終了を悲しくは思っておらず、プレイヤー自身がAIの手を借りてゲームを日本語で遊べる時代が来たことを本当に喜ばしく思っていると述べている。"
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-002-1080x608.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-002-1080x608.jpg"
               }
             ]
           }
         },
         "en": {
-          "headline": "Google employee's Zelda port\ndraws controversy; post deleted",
-          "body": "A Google employee posted that he ran Ocarina of Time on an iPhone Duo using Gemini 4, then deleted the post.",
-          "mini_headline": "Google employee's port draws criticism",
+          "headline": "Japanese Localizing Tool PCOT\nWill End After Next Update",
+          "body": "As AI points to players localizing games into Japanese themselves, PCOT will end development with its next update.",
+          "mini_headline": "PCOT to End Development",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-header.jpg"
               },
               {
                 "t": "p",
-                "x": "Google employee Ammaar Reshi posted on X on November 7 that he had run the full remake of The Legend of Zelda: Ocarina of Time on an iPhone Duo using Gemini 4. The post drew controversy and has since been deleted."
-              },
-              {
-                "t": "p",
-                "x": "The Legend of Zelda: Ocarina of Time is an action RPG released for the NINTENDO 64 in 1998. The full remake completely overhauls the graphics and fully voices the cutscenes, while adding free camera control, jumping, dashing and more; it was released for Nintendo Switch 2 on November 5."
+                "x": "On November 10, independent developer Nuruppo (ぬるっぽ) announced that development of the translation-support tool \"PCOT\" will end with the update currently in progress. PCOT is a translation-support tool for PC that has been available for free since 2020; it uses OCR technology to extract and translate text from a selected area of the game screen. In April 2025 it added Gemini, which dramatically improved its reading and translation accuracy."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-header-1080x608.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-001-1080x560.jpg"
               },
               {
                 "t": "p",
-                "x": "The post came from Ammaar Reshi, who serves as lead for product and design on \"Google AI Studio\" at Google. He explained that he had used Google's generative AI \"Gemini 4\" to get it running, presenting the result as an achievement built on the company's own AI technology."
-              },
-              {
-                "t": "p",
-                "x": "In quote posts, people questioned not only the act of making an unofficial port, but also the fact that someone involved in developing Google's AI products had shown it off publicly. The post has been deleted, but the reason for its removal has not been disclosed."
+                "x": "The developer explained that the evolution of AI has made it possible to see a future in which players can localize games into Japanese directly themselves, and that the tool's role has reached a natural close. The app will remain available, and bug maintenance will continue. The developer said they are not sad about ending development and are truly glad that an era has arrived in which players can play games in Japanese with the help of AI."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-002-1080x608.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-002-1080x608.jpg"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google 직원의 젤다\n이식, 논란 끝에 삭제",
-          "body": "Google 직원이 Gemini 4로 iPhone Duo에 젤다 띄운 글을 지웠다.",
-          "mini_headline": "Google 직원의 이식에 비판",
+          "headline": "일본어화 툴 PCOT\n다음 업데이트로 개발 종료",
+          "body": "AI로 직접 일본어화하는 미래가 보인다며 PCOT가 다음 업데이트로 개발을 접는다.",
+          "mini_headline": "PCOT, 개발 종료",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-header.jpg"
               },
               {
                 "t": "p",
-                "x": "Google 직원 Ammaar Reshi가 11월 7일 『젤다의 전설 시간의 오카리나』 풀 리메이크판을 Gemini 4로 iPhone Duo에서 구동했다고 X에 올렸다. 게시물은 논란을 불렀고, 지금은 삭제됐다."
-              },
-              {
-                "t": "p",
-                "x": "『젤다의 전설 시간의 오카리나』는 1998년 NINTENDO 64용으로 발매된 액션 RPG다. 이번 풀 리메이크는 그래픽을 새로 다듬고 컷신에 풀 보이스를 입혔다. 카메라를 자유롭게 움직일 수 있고 점프와 대시 등도 더해졌다. 11월 5일 Nintendo Switch 2용으로 나왔다."
+                "x": "개인 개발자 ぬるっぽ 씨가 11월 10일, 번역 지원 툴 'PCOT' 개발을 지금 진행 중인 업데이트를 끝으로 마친다고 발표했다. PCOT는 2020년부터 무료로 공개해 온 PC용 번역 지원 툴이다. OCR 기술로 게임 화면에서 고른 영역의 텍스트를 뽑아 번역한다. 2025년 4월 Gemini를 탑재하면서 인식과 번역 정확도가 크게 올랐다."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-header-1080x608.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-001-1080x560.jpg"
               },
               {
                 "t": "p",
-                "x": "게시자 Ammaar Reshi는 Google에서 'Google AI Studio'의 리드 프로덕트&디자인을 맡고 있다. Google의 생성형 AI 'Gemini 4'로 구동했다고 설명했으니, 자사 AI 기술의 성과로 내보인 셈이다."
-              },
-              {
-                "t": "p",
-                "x": "인용 게시물에서는 비공식 이식 자체뿐 아니라, Google AI 제품 개발에 관여하는 인물이 이를 공개적으로 내보였다는 점을 두고도 의문이 나왔다. 게시물은 이미 지워졌고, 삭제 이유는 알려지지 않았다."
+                "x": "그는 AI가 진화하면서 플레이어가 직접 게임을 일본어화할 수 있는 미래가 보였고 툴의 역할도 일단락됐다고 이유를 밝혔다. 앱 공개와 버그 유지보수는 계속한다. 개발을 끝내는 게 슬프지는 않다며, 플레이어가 AI 도움으로 게임을 일본어로 즐기는 시대가 와서 정말 기쁘다고 했다."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-002-1080x608.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-002-1080x608.jpg"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google员工移植塞尔达\n引发争议后删帖",
-          "body": "Google员工称用Gemini 4在iPhone Duo上运行《时之笛》，后删除帖子。",
-          "mini_headline": "Google员工的移植遭批评",
+          "headline": "日语化工具PCOT\n下次更新后停止开发",
+          "body": "以AI进化让人看到自行直接日语化的未来为由，PCOT将在下次更新后结束开发。",
+          "mini_headline": "PCOT将停止开发",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-header.jpg"
               },
               {
                 "t": "p",
-                "x": "Google员工Ammaar Reshi于11月7日在X上发帖称，他利用Gemini 4让《塞尔达传说 时之笛》完整重制版在iPhone Duo上运行。该帖引发争议，目前已被删除。"
-              },
-              {
-                "t": "p",
-                "x": "《塞尔达传说 时之笛》是1998年登陆NINTENDO 64的动作RPG。此次完整重制版全面翻新了画面，过场动画实现全程配音，还加入了自由视角操作、跳跃和冲刺等要素，已于11月5日在Nintendo Switch 2上发售。"
+                "x": "个人开发者ぬるっぽ于11月10日宣布，翻译辅助工具“PCOT”的开发将在目前手头的更新完成后结束。PCOT是一款自2020年起免费公开的PC翻译辅助工具，借助OCR技术从游戏画面中提取所选区域的文字并进行翻译。2025年4月，它接入了Gemini，识别和翻译精度大幅提升。"
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-header-1080x608.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-001-1080x560.jpg"
               },
               {
                 "t": "p",
-                "x": "发帖者是在Google担任“Google AI Studio”产品与设计负责人的Ammaar Reshi。他表示是借助Google的生成式AI“Gemini 4”实现运行的，相当于将其作为运用自家AI技术的成果加以展示。"
-              },
-              {
-                "t": "p",
-                "x": "在引用帖中，不仅非官方移植这一行为本身受到质疑，由参与Google AI产品开发的人士公开展示此事也引发了疑问。帖子虽已删除，但删除原因尚不明确。"
+                "x": "该开发者解释称，随着AI的进化，已经能看到玩家自己直接把游戏日语化的未来，这款工具的使命也告一段落。应用的公开和bug维护今后仍将继续。该开发者表示，并不为开发结束而难过，反而由衷高兴玩家借助AI就能用日语玩游戏的时代已经到来。"
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-002-1080x608.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-002-1080x608.jpg"
               }
             ]
           }
         },
         "es": {
-          "headline": "Empleado de Google borra su port\nde Zelda tras la polémica",
-          "body": "Un empleado de Google publicó que ejecutó Ocarina of Time en un iPhone Duo con Gemini 4 y luego borró el post.",
-          "mini_headline": "Críticas al port de un empleado de Google",
+          "headline": "PCOT, para traducir al japonés,\ntermina en la próxima versión",
+          "body": "Ante un futuro en que cada uno traduzca juegos al japonés con AI, PCOT terminará su desarrollo con la próxima versión.",
+          "mini_headline": "PCOT pone fin a su desarrollo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-header.jpg"
               },
               {
                 "t": "p",
-                "x": "Ammaar Reshi, empleado de Google, publicó en X el 7 de noviembre que había ejecutado en un iPhone Duo el remake completo de The Legend of Zelda: Ocarina of Time utilizando Gemini 4. La publicación generó polémica y actualmente está eliminada."
-              },
-              {
-                "t": "p",
-                "x": "The Legend of Zelda: Ocarina of Time es un RPG de acción lanzado en 1998 para NINTENDO 64. Este remake completo renueva por completo los gráficos y añade voces a todas las cinemáticas, además de incorporar control libre de cámara, saltos y carreras, entre otros elementos; salió a la venta el 5 de noviembre para Nintendo Switch 2."
+                "x": "El desarrollador independiente ぬるっぽ anunció el 10 de noviembre que el desarrollo de la herramienta de apoyo a la traducción \"PCOT\" terminará con la actualización que tiene en curso. PCOT es una herramienta de apoyo a la traducción para PC, disponible gratis desde 2020, que usa tecnología OCR para extraer y traducir el texto de una zona seleccionada de la pantalla del juego. En abril de 2025 incorporó Gemini, lo que mejoró de forma notable la precisión de lectura y traducción."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-header-1080x608.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-001-1080x560.jpg"
               },
               {
                 "t": "p",
-                "x": "El autor de la publicación es Ammaar Reshi, responsable de producto y diseño de \"Google AI Studio\" en Google. Explicó que lo hizo funcionar con \"Gemini 4\", la AI generativa de Google, y lo presentó como un logro basado en la tecnología de AI de su propia empresa."
-              },
-              {
-                "t": "p",
-                "x": "En las citas de la publicación se cuestionó no solo el acto de realizar un port no oficial, sino también que lo mostrara públicamente alguien que participa en el desarrollo de productos de AI de Google. La publicación ya fue eliminada, pero no se ha aclarado el motivo."
+                "x": "El desarrollador explicó que, con la evolución de la AI, vislumbró un futuro en que los propios jugadores puedan traducir los juegos directamente al japonés, y que el papel de la herramienta llegó a su fin. La app seguirá publicada y el mantenimiento de errores continuará. Afirmó que no siente tristeza por el fin del desarrollo y que le alegra de verdad que haya llegado una época en que los jugadores pueden jugar en japonés con ayuda de la AI."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-002-1080x608.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-002-1080x608.jpg"
               }
             ]
           }
@@ -1025,153 +747,121 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "Google employee's Zelda port\ndraws controversy; post deleted",
-          "body": "A Google employee posted that he ran Ocarina of Time on an iPhone Duo using Gemini 4, then deleted the post.",
-          "mini_headline": "Google employee's port draws criticism",
+          "headline": "Japanese Localizing Tool PCOT\nWill End After Next Update",
+          "body": "As AI points to players localizing games into Japanese themselves, PCOT will end development with its next update.",
+          "mini_headline": "PCOT to End Development",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-header.jpg"
               },
               {
                 "t": "p",
-                "x": "Google employee Ammaar Reshi posted on X on November 7 that he had run the full remake of The Legend of Zelda: Ocarina of Time on an iPhone Duo using Gemini 4. The post drew controversy and has since been deleted."
-              },
-              {
-                "t": "p",
-                "x": "The Legend of Zelda: Ocarina of Time is an action RPG released for the NINTENDO 64 in 1998. The full remake completely overhauls the graphics and fully voices the cutscenes, while adding free camera control, jumping, dashing and more; it was released for Nintendo Switch 2 on November 5."
+                "x": "On November 10, independent developer Nuruppo (ぬるっぽ) announced that development of the translation-support tool \"PCOT\" will end with the update currently in progress. PCOT is a translation-support tool for PC that has been available for free since 2020; it uses OCR technology to extract and translate text from a selected area of the game screen. In April 2025 it added Gemini, which dramatically improved its reading and translation accuracy."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-header-1080x608.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-001-1080x560.jpg"
               },
               {
                 "t": "p",
-                "x": "The post came from Ammaar Reshi, who serves as lead for product and design on \"Google AI Studio\" at Google. He explained that he had used Google's generative AI \"Gemini 4\" to get it running, presenting the result as an achievement built on the company's own AI technology."
-              },
-              {
-                "t": "p",
-                "x": "In quote posts, people questioned not only the act of making an unofficial port, but also the fact that someone involved in developing Google's AI products had shown it off publicly. The post has been deleted, but the reason for its removal has not been disclosed."
+                "x": "The developer explained that the evolution of AI has made it possible to see a future in which players can localize games into Japanese directly themselves, and that the tool's role has reached a natural close. The app will remain available, and bug maintenance will continue. The developer said they are not sad about ending development and are truly glad that an era has arrived in which players can play games in Japanese with the help of AI."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-002-1080x608.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-002-1080x608.jpg"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google 직원의 젤다\n이식, 논란 끝에 삭제",
-          "body": "Google 직원이 Gemini 4로 iPhone Duo에 젤다 띄운 글을 지웠다.",
-          "mini_headline": "Google 직원의 이식에 비판",
+          "headline": "일본어화 툴 PCOT\n다음 업데이트로 개발 종료",
+          "body": "AI로 스스로 일본어화하는 미래가 보여 PCOT가 다음 업데이트로 개발을 끝낸다.",
+          "mini_headline": "PCOT, 개발 종료",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-header.jpg"
               },
               {
                 "t": "p",
-                "x": "Google 직원 Ammaar Reshi가 11월 7일 『젤다의 전설 시간의 오카리나』 풀 리메이크판을 Gemini 4로 iPhone Duo에서 구동했다고 X에 올렸다. 이 게시물은 논란을 불렀고 현재는 삭제된 상태다."
-              },
-              {
-                "t": "p",
-                "x": "『젤다의 전설 시간의 오카리나』는 1998년 NINTENDO 64용으로 발매된 액션 RPG다. 이번 풀 리메이크는 그래픽을 전면 쇄신하고 컷신을 풀 보이스로 바꿨으며, 자유로운 카메라 조작과 점프, 대시 등을 도입해 11월 5일 Nintendo Switch 2용으로 발매됐다."
+                "x": "개인 개발자 ぬるっぽ 씨는 11월 10일, 번역 지원 툴 'PCOT'의 개발을 현재 진행 중인 업데이트를 마지막으로 끝낸다고 발표했다. PCOT는 2020년부터 무료로 공개된 PC용 번역 지원 툴로, OCR 기술로 게임 화면에서 선택한 영역의 텍스트를 추출해 번역한다. 2025년 4월에는 Gemini를 탑재해 인식과 번역 정확도가 크게 높아졌다."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-header-1080x608.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-001-1080x560.jpg"
               },
               {
                 "t": "p",
-                "x": "게시자는 Google에서 'Google AI Studio'의 리드 프로덕트&디자인을 맡고 있는 Ammaar Reshi다. 그는 Google의 생성형 AI 'Gemini 4'로 구동했다고 설명해, 자사 AI 기술을 활용한 성과로 내보인 셈이다."
-              },
-              {
-                "t": "p",
-                "x": "인용 게시물에서는 비공식 이식이라는 행위뿐 아니라, 이를 Google AI 제품 개발에 관여하는 인물이 공개적으로 내보였다는 점에도 의문이 제기됐다. 게시물은 이미 삭제됐지만 삭제 이유는 밝혀지지 않았다."
+                "x": "그는 AI의 진화로 플레이어가 직접 게임을 일본어화할 수 있는 미래가 보였고, 툴로서의 역할도 일단락됐다고 이유를 설명했다. 앱 공개와 버그 유지보수는 앞으로도 이어간다. 개발 종료가 슬프지는 않으며, 플레이어가 AI의 도움을 받아 게임을 일본어로 즐길 수 있는 시대가 온 것이 정말 기쁘다고 말했다."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-002-1080x608.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-002-1080x608.jpg"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google员工移植塞尔达\n引发争议后删帖",
-          "body": "Google员工称用Gemini 4在iPhone Duo上运行《时之笛》，后删除帖子。",
-          "mini_headline": "Google员工的移植遭批评",
+          "headline": "日语化工具PCOT\n下次更新后停止开发",
+          "body": "以AI进化让人看到自行直接日语化的未来为由，PCOT将在下次更新后结束开发。",
+          "mini_headline": "PCOT将停止开发",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-header.jpg"
               },
               {
                 "t": "p",
-                "x": "Google员工Ammaar Reshi于11月7日在X上发帖称，他利用Gemini 4让《塞尔达传说 时之笛》完整重制版在iPhone Duo上运行。该帖引发争议，目前已被删除。"
-              },
-              {
-                "t": "p",
-                "x": "《塞尔达传说 时之笛》是1998年登陆NINTENDO 64的动作RPG。此次完整重制版全面翻新了画面，过场动画实现全程配音，还加入了自由视角操作、跳跃和冲刺等要素，已于11月5日在Nintendo Switch 2上发售。"
+                "x": "个人开发者ぬるっぽ于11月10日宣布，翻译辅助工具“PCOT”的开发将在目前手头的更新完成后结束。PCOT是一款自2020年起免费公开的PC翻译辅助工具，借助OCR技术从游戏画面中提取所选区域的文字并进行翻译。2025年4月，它接入了Gemini，识别和翻译精度大幅提升。"
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-header-1080x608.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-001-1080x560.jpg"
               },
               {
                 "t": "p",
-                "x": "发帖者是在Google担任“Google AI Studio”产品与设计负责人的Ammaar Reshi。他表示是借助Google的生成式AI“Gemini 4”实现运行的，相当于将其作为运用自家AI技术的成果加以展示。"
-              },
-              {
-                "t": "p",
-                "x": "在引用帖中，不仅非官方移植这一行为本身受到质疑，由参与Google AI产品开发的人士公开展示此事也引发了疑问。帖子虽已删除，但删除原因尚不明确。"
+                "x": "该开发者解释称，随着AI的进化，已经能看到玩家自己直接把游戏日语化的未来，这款工具的使命也告一段落。应用的公开和bug维护今后仍将继续。该开发者表示，并不为开发结束而难过，反而由衷高兴玩家借助AI就能用日语玩游戏的时代已经到来。"
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-002-1080x608.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-002-1080x608.jpg"
               }
             ]
           }
         },
         "es": {
-          "headline": "Empleado de Google borra su port\nde Zelda tras la polémica",
-          "body": "Un empleado de Google publicó que ejecutó Ocarina of Time en un iPhone Duo con Gemini 4 y luego borró el post.",
-          "mini_headline": "Críticas al port de un empleado de Google",
+          "headline": "PCOT, para traducir al japonés,\ntermina en la próxima versión",
+          "body": "Ante un futuro en que cada uno traduzca juegos al japonés con AI, PCOT terminará su desarrollo con la próxima versión.",
+          "mini_headline": "PCOT pone fin a su desarrollo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-header.jpg"
               },
               {
                 "t": "p",
-                "x": "Ammaar Reshi, empleado de Google, publicó en X el 7 de noviembre que había ejecutado en un iPhone Duo el remake completo de The Legend of Zelda: Ocarina of Time utilizando Gemini 4. La publicación generó polémica y actualmente está eliminada."
-              },
-              {
-                "t": "p",
-                "x": "The Legend of Zelda: Ocarina of Time es un RPG de acción lanzado en 1998 para NINTENDO 64. Este remake completo renueva por completo los gráficos y añade voces a todas las cinemáticas, además de incorporar control libre de cámara, saltos y carreras, entre otros elementos; salió a la venta el 5 de noviembre para Nintendo Switch 2."
+                "x": "El desarrollador independiente ぬるっぽ anunció el 10 de noviembre que el desarrollo de la herramienta de apoyo a la traducción \"PCOT\" terminará con la actualización que tiene en curso. PCOT es una herramienta de apoyo a la traducción para PC, disponible gratis desde 2020, que usa tecnología OCR para extraer y traducir el texto de una zona seleccionada de la pantalla del juego. En abril de 2025 incorporó Gemini, lo que mejoró de forma notable la precisión de lectura y traducción."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-header-1080x608.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-001-1080x560.jpg"
               },
               {
                 "t": "p",
-                "x": "El autor de la publicación es Ammaar Reshi, responsable de producto y diseño de \"Google AI Studio\" en Google. Explicó que lo hizo funcionar con \"Gemini 4\", la AI generativa de Google, y lo presentó como un logro basado en la tecnología de AI de su propia empresa."
-              },
-              {
-                "t": "p",
-                "x": "En las citas de la publicación se cuestionó no solo el acto de realizar un port no oficial, sino también que lo mostrara públicamente alguien que participa en el desarrollo de productos de AI de Google. La publicación ya fue eliminada, pero no se ha aclarado el motivo."
+                "x": "El desarrollador explicó que, con la evolución de la AI, vislumbró un futuro en que los propios jugadores puedan traducir los juegos directamente al japonés, y que el papel de la herramienta llegó a su fin. La app seguirá publicada y el mantenimiento de errores continuará. Afirmó que no siente tristeza por el fin del desarrollo y que le alegra de verdad que haya llegado una época en que los jugadores pueden jugar en japonés con ayuda de la AI."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-002-1080x608.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-002-1080x608.jpg"
               }
             ]
           }
@@ -1179,15 +869,15 @@
       }
     },
     {
-      "id": "plamo3-translate-gamer-tools",
-      "source_lang": "ja",
+      "id": "games-edu-program-ai-cancel",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "무료 번역 AI 공개 후\n게이머용 도구 잇따라",
-      "body": "53개 언어 오프라인 번역 AI 기반 게이머용 도구가 며칠 만에 잇따라 나왔다.",
-      "mini_headline": "번역 AI로 만든 게이머용 도구",
+      "headline": "게임 개발 프로그램 폐지\nAI-Made 학생작 탓",
+      "body": "생성형 AI로 학생 자작 여부를 가리기 어려워져 게임 교육 프로그램이 폐지됐다.",
+      "mini_headline": "AI로 끝난 학생 게임 프로그램",
       "tool": "Games",
-      "source": "Game*Spark",
-      "url": "http://www.gamespark.jp/article/2026/11/09/174651.html",
+      "source": "PC Gamer",
+      "url": "https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai/",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -1195,345 +885,265 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.gamespark.jp/imgs/ogp_f/1217054.png"
+            "src": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X.jpg",
+            "cap": "(이미지 출처: EvgeniyShkolenko via Getty Images)"
           },
           {
             "t": "p",
-            "x": "일본 AI 기업 Preferred Networks(PFN)는 2026년 11월 5일 번역 특화 AI 'PLaMo 3 Translate'를 무료로 쓸 수 있는 오픈 웨이트 모델로 공개했다. 자사 번역 서비스 'PLaMo 번역'에 쓰이는 AI와 같은 모델이며, 인터넷 연결 없이 개인 PC만으로 돌아간다. 자원봉사 번역의 문턱이 크게 낮아질 수 있다. 그동안 DeepL 무료판은 사용 한도 탓에, 수백에서 수천 줄짜리 게임 텍스트를 옮기는 자원봉사 번역에서 작업이 끊기곤 했다."
+            "x": "\"학생을 위한 무료 전국 비디오게임 개발 대회\"인 Australian STEM Videogame Challenge는 생성형 AI가 부상하면서 올해 대회가 \"멋진 12년을 끝으로\" 마지막이 된다고 확인했다."
           },
           {
             "t": "p",
-            "x": "스마트폰에서도 돌아갈 만큼 가볍고, 사용 횟수 제한이 없다. 일본어와 영어를 포함해 53개 언어를 지원하며 개인은 무료로 쓴다. 고유명사 번역어를 정하고 문체를 고르는 용어·문체 지정 기능도 있다."
+            "x": "Reddit에서 심사위원이라고 밝힌 한 이용자는 AI를 쓰는 것만이 문제가 아니라 \"일부 학생은 게임을 완전히 AI로 생성한다\"는 게 문제라고 했다. 그는 \"그걸 어떻게 채점하나? 그냥 영점을 줄 수도 없다\"고 썼다."
           },
           {
             "t": "p",
-            "x": "모델 공개 후 며칠 만에 개인 개발자들이 관련 도구를 잇따라 내놓았다. 11월 7일에는 화면 속 영어 텍스트를 그 자리에서 일본어로 바꿔 주는 PC용 상주 앱 'sonoba'가 나왔다. 자막은 약 1초, 짧은 문장은 약 0.2초면 처리한다고 한다. 브라우저 확장 프로그램 'PLaMo_Translate_EX'와 데스크톱 앱 'plamo-translate-desktop'도 등장했다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.gamespark.jp/imgs/zoom/1217054.png",
-            "cap": "plamo-translate-desktop"
-          },
-          {
-            "t": "p",
-            "x": "현지화 지원 도구 'game-l10n-updater'도 공개됐다. 추가·변경된 텍스트만 번역하고, 번역된 글자가 UI 버튼 밖으로 넘치지 않는지 실제 화면에서 확인해 준다."
+            "x": "Australian Council for Educational Research도 AI 때문에 폐지한다고 확인했다. ACER의 Cathy Zemaitis는 \"게임 개발에서 생성형 AI가 빠르고 복잡하게 확산하면서 학생이 직접 만든 것을 판단하기 어려워졌고, 프로그램도 본래 취지에서 멀어져 이번 결정을 내렸다\"고 말했다. 대회를 다른 방식으로 이어갈 계획도 없다고 덧붙였다."
           }
         ]
       },
       "text": {
-        "ja": {
-          "headline": "無償の翻訳AIから\nゲーマー向けツール続々",
-          "body": "53言語対応のオフライン翻訳AIを使ったゲーマー向けツールが、公開数日で続々登場した。",
-          "mini_headline": "翻訳AIでゲーマー向けツール",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/ogp_f/1217054.png"
-              },
-              {
-                "t": "p",
-                "x": "日本のAI企業であるPreferred Networks（PFN）は2026年11月5日、翻訳特化AI「PLaMo 3 Translate」を無償で利用できるオープンウェイトモデルとして公開した。同社の翻訳サービス「PLaMo翻訳」で稼働しているAIと同一のもので、インターネット接続を介さず手元のPC環境だけで完結するため、有志翻訳のハードルを大きく下げる可能性がある。DeepLの無料版には利用上限が設けられており、数百行から数千行のゲームテキストを扱う有志翻訳では作業の中断につながっていた。"
-              },
-              {
-                "t": "p",
-                "x": "主な特徴は、スマートフォンでも動作する軽量設計、利用回数の制限なし、日本語や英語を含む53言語に対応、個人利用は無償、そして固有名詞の訳語指定や文体選択ができる用語と文体の指定機能だ。"
-              },
-              {
-                "t": "p",
-                "x": "モデルの公開から数日のうちに、個人開発者らによる関連ツールが次々と公開された。11月7日には画面上の英語テキストをその場で日本語へ置き換えるPC向け常駐アプリ「sonoba」が登場し、字幕表示が約1秒、短文なら約0.2秒で処理できるという。ブラウザ拡張機能「PLaMo_Translate_EX」やデスクトップアプリ「plamo-translate-desktop」も登場した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1217054.png",
-                "cap": "plamo-translate-desktop"
-              },
-              {
-                "t": "p",
-                "x": "さらに、追加・変更されたテキストのみを翻訳し、翻訳後の文字数がUIのボタンから溢れないかを実画面で検証するローカライズ支援ツール「game-l10n-updater」も公開されている。"
-              }
-            ]
-          }
-        },
         "en": {
-          "headline": "Free translation AI brings\na stream of tools for gamers",
-          "body": "Gamer tools built on an offline translation AI supporting 53 languages appeared within days of its release.",
-          "mini_headline": "Translation AI powers gamer tools",
+          "headline": "Game Dev Program Cancelled\nOver AI-Made Student Games",
+          "body": "An educational game-dev program was cancelled as generative AI made it harder to judge what students made themselves.",
+          "mini_headline": "AI Ends a Student Game Program",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gamespark.jp/imgs/ogp_f/1217054.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X.jpg",
+                "cap": "(Image credit: EvgeniyShkolenko via Getty Images)"
               },
               {
                 "t": "p",
-                "x": "Preferred Networks (PFN), a Japanese AI company, released \"PLaMo 3 Translate,\" an AI specialized for translation, as a free-to-use open-weight model on November 5, 2026. It is the same AI that runs the company's translation service \"PLaMo Translation,\" and because it works entirely on a local PC without an internet connection, it could greatly lower the barrier for volunteer translation. The free version of DeepL has usage caps, which had led to interruptions for volunteer translators working with hundreds to thousands of lines of game text."
+                "x": "The Australian STEM Videogame Challenge, a \"free national videogame development competition for students,\" has confirmed that the rise of generative AI means this year's event will be the last, \"after 12 wonderful years.\""
               },
               {
                 "t": "p",
-                "x": "Its main features are a lightweight design that runs even on smartphones, no limit on the number of uses, support for 53 languages including Japanese and English, free personal use, and a terminology and style feature that lets users specify translations for proper nouns and choose a writing style."
+                "x": "A self-proclaimed judge on Reddit said the problem wasn't merely the use of AI but that \"some students just completely generate their games with AI.\" \"How do you mark that? You can't just give them a zero,\" the judge wrote."
               },
               {
                 "t": "p",
-                "x": "Within days of the model's release, individual developers published related tools one after another. On November 7, \"sonoba,\" a resident PC app that replaces English text on screen with Japanese on the spot, appeared; it reportedly handles subtitles in about 1 second and short sentences in about 0.2 seconds. A browser extension, \"PLaMo_Translate_EX,\" and a desktop app, \"plamo-translate-desktop,\" have also appeared."
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1217054.png",
-                "cap": "plamo-translate-desktop"
-              },
-              {
-                "t": "p",
-                "x": "A localization support tool, \"game-l10n-updater,\" has also been released; it translates only added or changed text and checks on the actual screen whether the translated text overflows UI buttons."
+                "x": "The Australian Council for Educational Research confirmed the cancellation was due to AI. \"The decision was driven by the rapid and complex rise of generative AI in game development, making it harder to judge what students made themselves, and moving the program away from its original purpose,\" said ACER's Cathy Zemaitis, adding there are no plans to pursue alternative options for delivering the challenge."
               }
             ]
           }
         },
         "ko": {
-          "headline": "무료 번역 AI 공개 후\n게이머용 도구 잇따라",
-          "body": "53개 언어 오프라인 번역 AI 기반 게이머용 도구가 며칠 만에 잇따라 나왔다.",
-          "mini_headline": "번역 AI로 만든 게이머용 도구",
+          "headline": "게임 개발 프로그램 폐지\nAI-Made 학생작 탓",
+          "body": "생성형 AI로 학생 자작 여부를 가리기 어려워져 게임 교육 프로그램이 폐지됐다.",
+          "mini_headline": "AI로 끝난 학생 게임 프로그램",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gamespark.jp/imgs/ogp_f/1217054.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X.jpg",
+                "cap": "(이미지 출처: EvgeniyShkolenko via Getty Images)"
               },
               {
                 "t": "p",
-                "x": "일본 AI 기업 Preferred Networks(PFN)는 2026년 11월 5일 번역 특화 AI 'PLaMo 3 Translate'를 무료로 쓸 수 있는 오픈 웨이트 모델로 공개했다. 자사 번역 서비스 'PLaMo 번역'에 쓰이는 AI와 같은 모델이며, 인터넷 연결 없이 개인 PC만으로 돌아간다. 자원봉사 번역의 문턱이 크게 낮아질 수 있다. 그동안 DeepL 무료판은 사용 한도 탓에, 수백에서 수천 줄짜리 게임 텍스트를 옮기는 자원봉사 번역에서 작업이 끊기곤 했다."
+                "x": "\"학생을 위한 무료 전국 비디오게임 개발 대회\"인 Australian STEM Videogame Challenge는 생성형 AI가 부상하면서 올해 대회가 \"멋진 12년을 끝으로\" 마지막이 된다고 확인했다."
               },
               {
                 "t": "p",
-                "x": "스마트폰에서도 돌아갈 만큼 가볍고, 사용 횟수 제한이 없다. 일본어와 영어를 포함해 53개 언어를 지원하며 개인은 무료로 쓴다. 고유명사 번역어를 정하고 문체를 고르는 용어·문체 지정 기능도 있다."
+                "x": "Reddit에서 심사위원이라고 밝힌 한 이용자는 AI를 쓰는 것만이 문제가 아니라 \"일부 학생은 게임을 완전히 AI로 생성한다\"는 게 문제라고 했다. 그는 \"그걸 어떻게 채점하나? 그냥 영점을 줄 수도 없다\"고 썼다."
               },
               {
                 "t": "p",
-                "x": "모델 공개 후 며칠 만에 개인 개발자들이 관련 도구를 잇따라 내놓았다. 11월 7일에는 화면 속 영어 텍스트를 그 자리에서 일본어로 바꿔 주는 PC용 상주 앱 'sonoba'가 나왔다. 자막은 약 1초, 짧은 문장은 약 0.2초면 처리한다고 한다. 브라우저 확장 프로그램 'PLaMo_Translate_EX'와 데스크톱 앱 'plamo-translate-desktop'도 등장했다."
-              },
+                "x": "Australian Council for Educational Research도 AI 때문에 폐지한다고 확인했다. ACER의 Cathy Zemaitis는 \"게임 개발에서 생성형 AI가 빠르고 복잡하게 확산하면서 학생이 직접 만든 것을 판단하기 어려워졌고, 프로그램도 본래 취지에서 멀어져 이번 결정을 내렸다\"고 말했다. 대회를 다른 방식으로 이어갈 계획도 없다고 덧붙였다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ゲーム開発プログラム中止\nAI-Madeの学生作品で",
+          "body": "生成AIで学生自身が作った部分の判断が難しくなり、ゲーム開発教育プログラムが中止された。",
+          "mini_headline": "AIが学生ゲーム企画を終わらせる",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1217054.png",
-                "cap": "plamo-translate-desktop"
+                "src": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X.jpg",
+                "cap": "（画像クレジット：EvgeniyShkolenko via Getty Images）"
               },
               {
                 "t": "p",
-                "x": "현지화 지원 도구 'game-l10n-updater'도 공개됐다. 추가·변경된 텍스트만 번역하고, 번역된 글자가 UI 버튼 밖으로 넘치지 않는지 실제 화면에서 확인해 준다."
+                "x": "「学生向けの無料の全国ビデオゲーム開発コンテスト」であるAustralian STEM Videogame Challengeは、生成AIの台頭により、今年の大会が「素晴らしい12年」を経て最後になると認めた。"
+              },
+              {
+                "t": "p",
+                "x": "Reddit上で審査員を名乗る人物は、問題はAIの使用そのものだけではなく、「一部の学生がゲームを丸ごとAIで生成している」ことだと述べた。「それをどう採点するのか。ゼロ点をつけるわけにもいかない」とこの審査員は書いている。"
+              },
+              {
+                "t": "p",
+                "x": "Australian Council for Educational Researchは、中止がAIによるものだと認めた。ACERのCathy Zemaitis氏は「ゲーム開発における生成AIの急速かつ複雑な台頭により、学生が自分で作ったものを判断することが難しくなり、プログラムが本来の目的から離れつつあったことが決定の理由だ」と述べ、別の形でコンテストを実施する予定はないと付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "免费翻译AI问世\n玩家工具接连涌现",
-          "body": "基于支持53种语言的离线翻译AI，面向玩家的工具在公开数日内接连出现。",
-          "mini_headline": "翻译AI催生玩家工具",
+          "headline": "游戏开发项目停办\n因AI-Made学生游戏",
+          "body": "生成式AI让人难以判断学生自己做了什么，一个游戏开发教育项目因此停办。",
+          "mini_headline": "AI终结学生游戏项目",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gamespark.jp/imgs/ogp_f/1217054.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X.jpg",
+                "cap": "（图片来源：EvgeniyShkolenko via Getty Images）"
               },
               {
                 "t": "p",
-                "x": "日本AI企业Preferred Networks（PFN）于2026年11月5日将翻译专用AI“PLaMo 3 Translate”作为可免费使用的开放权重模型发布。它与该公司翻译服务“PLaMo翻译”所用的AI相同，无需联网、仅靠本地PC即可完成，有望大幅降低志愿翻译的门槛。DeepL免费版设有使用上限，在处理数百至数千行游戏文本的志愿翻译中常导致工作中断。"
+                "x": "作为“面向学生的免费全国性电子游戏开发竞赛”，Australian STEM Videogame Challenge确认，由于生成式AI的兴起，今年的赛事将在“精彩的12年”之后成为最后一届。"
               },
               {
                 "t": "p",
-                "x": "其主要特点包括：可在智能手机上运行的轻量设计、不限使用次数、支持包括日语和英语在内的53种语言、个人使用免费，以及可指定专有名词译法和选择文体的术语与文体指定功能。"
+                "x": "一位在Reddit上自称评委的用户表示，问题不只是使用AI，而是“有些学生干脆完全用AI生成游戏”。这位评委写道：“这要怎么打分？总不能直接给零分吧。”"
               },
               {
                 "t": "p",
-                "x": "模型发布后数日内，个人开发者陆续推出了相关工具。11月7日，可将屏幕上的英文文本当场替换为日文的PC常驻应用“sonoba”上线，据称字幕显示约1秒、短句约0.2秒即可处理完成。浏览器扩展“PLaMo_Translate_EX”和桌面应用“plamo-translate-desktop”也相继登场。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1217054.png",
-                "cap": "plamo-translate-desktop"
-              },
-              {
-                "t": "p",
-                "x": "此外，本地化辅助工具“game-l10n-updater”也已公开，它只翻译新增或修改的文本，并在实际画面中检验译文字数是否会超出UI按钮。"
+                "x": "Australian Council for Educational Research确认停办是因为AI。ACER的Cathy Zemaitis表示：“这一决定源于生成式AI在游戏开发中迅速而复杂的兴起，它让我们更难判断哪些是学生自己做的，也让项目偏离了最初的宗旨。”她还补充说，目前没有计划以其他方式继续举办这项挑战赛。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una AI de traducción gratuita\ntrae nuevas apps para jugadores",
-          "body": "En pocos días surgieron herramientas para jugadores basadas en una AI de traducción sin conexión con 53 idiomas.",
-          "mini_headline": "Herramientas para jugadores con AI de traducción",
+          "headline": "Cancelan programa de videojuegos\npor juegos AI-Made de alumnos",
+          "body": "Un programa escolar de videojuegos se canceló porque la AI generativa complica juzgar lo que crean los propios alumnos.",
+          "mini_headline": "La AI pone fin a un programa escolar de juegos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gamespark.jp/imgs/ogp_f/1217054.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X.jpg",
+                "cap": "(Crédito de imagen: EvgeniyShkolenko via Getty Images)"
               },
               {
                 "t": "p",
-                "x": "La empresa japonesa de AI Preferred Networks (PFN) publicó el 5 de noviembre de 2026 \"PLaMo 3 Translate\", una AI especializada en traducción, como modelo de pesos abiertos de uso gratuito. Es la misma AI que funciona en el servicio de traducción de la compañía, \"PLaMo Translation\", y como opera por completo en el PC local sin conexión a internet, podría reducir mucho la barrera para la traducción voluntaria. La versión gratuita de DeepL tiene límites de uso, lo que provocaba interrupciones en las traducciones voluntarias que manejan de cientos a miles de líneas de texto de juegos."
+                "x": "El Australian STEM Videogame Challenge, una \"competición nacional y gratuita de desarrollo de videojuegos para estudiantes\", confirmó que, por el auge de la AI generativa, la edición de este año será la última, \"tras 12 años maravillosos\"."
               },
               {
                 "t": "p",
-                "x": "Sus principales características son un diseño ligero que funciona incluso en smartphones, sin límite de usos, compatibilidad con 53 idiomas, entre ellos el japonés y el inglés, uso personal gratuito y una función de terminología y estilo que permite fijar la traducción de nombres propios y elegir el registro."
+                "x": "Una persona que se presentó en Reddit como jurado dijo que el problema no era solo el uso de AI, sino que \"algunos estudiantes generan sus juegos por completo con AI\". \"¿Cómo se califica eso? No se les puede poner un cero sin más\", escribió."
               },
               {
                 "t": "p",
-                "x": "A los pocos días de la publicación del modelo, desarrolladores independientes lanzaron herramientas relacionadas una tras otra. El 7 de noviembre apareció \"sonoba\", una app residente para PC que sustituye en el momento el texto en inglés de la pantalla por japonés; según se indica, procesa los subtítulos en aproximadamente 1 segundo y las frases cortas en unos 0.2 segundos. También aparecieron la extensión de navegador \"PLaMo_Translate_EX\" y la app de escritorio \"plamo-translate-desktop\"."
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1217054.png",
-                "cap": "plamo-translate-desktop"
-              },
-              {
-                "t": "p",
-                "x": "Además, se publicó \"game-l10n-updater\", una herramienta de apoyo a la localización que traduce solo el texto añadido o modificado y verifica en la pantalla real si el texto traducido desborda los botones de la UI."
+                "x": "El Australian Council for Educational Research confirmó que la cancelación se debió a la AI. \"La decisión se debió al rápido y complejo auge de la AI generativa en el desarrollo de juegos, que hace más difícil juzgar lo que los estudiantes crearon por sí mismos y aleja el programa de su propósito original\", dijo Cathy Zemaitis, de ACER, quien añadió que no hay planes de buscar otras opciones para organizar el desafío."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Free translation AI brings\na stream of tools for gamers",
-          "body": "Gamer tools built on an offline translation AI supporting 53 languages appeared within days of its release.",
-          "mini_headline": "Translation AI powers gamer tools",
+        "ko": {
+          "headline": "게임 개발 프로그램 폐지\nAI-Made 학생작 탓",
+          "body": "생성형 AI로 학생 자작 여부를 판단하기 어려워져 게임 교육 프로그램이 폐지됐다.",
+          "mini_headline": "AI로 끝난 학생 게임 프로그램",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gamespark.jp/imgs/ogp_f/1217054.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X.jpg",
+                "cap": "(이미지 출처: EvgeniyShkolenko via Getty Images)"
               },
               {
                 "t": "p",
-                "x": "Preferred Networks (PFN), a Japanese AI company, released \"PLaMo 3 Translate,\" an AI specialized for translation, as a free-to-use open-weight model on November 5, 2026. It is the same AI that runs the company's translation service \"PLaMo Translation,\" and because it works entirely on a local PC without an internet connection, it could greatly lower the barrier for volunteer translation. The free version of DeepL has usage caps, which had led to interruptions for volunteer translators working with hundreds to thousands of lines of game text."
+                "x": "\"학생을 위한 무료 전국 비디오게임 개발 대회\"인 Australian STEM Videogame Challenge는 생성형 AI의 부상으로 올해 대회가 \"멋진 12년을 끝으로\" 마지막이 된다고 확인했다."
               },
               {
                 "t": "p",
-                "x": "Its main features are a lightweight design that runs even on smartphones, no limit on the number of uses, support for 53 languages including Japanese and English, free personal use, and a terminology and style feature that lets users specify translations for proper nouns and choose a writing style."
+                "x": "Reddit에서 심사위원이라고 밝힌 한 이용자는 AI 사용 자체만이 문제가 아니라 \"일부 학생은 게임을 완전히 AI로 생성한다\"는 점이 문제라고 말했다. 그는 \"그걸 어떻게 채점하나? 그냥 영점을 줄 수도 없다\"고 썼다."
               },
               {
                 "t": "p",
-                "x": "Within days of the model's release, individual developers published related tools one after another. On November 7, \"sonoba,\" a resident PC app that replaces English text on screen with Japanese on the spot, appeared; it reportedly handles subtitles in about 1 second and short sentences in about 0.2 seconds. A browser extension, \"PLaMo_Translate_EX,\" and a desktop app, \"plamo-translate-desktop,\" have also appeared."
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1217054.png",
-                "cap": "plamo-translate-desktop"
-              },
-              {
-                "t": "p",
-                "x": "A localization support tool, \"game-l10n-updater,\" has also been released; it translates only added or changed text and checks on the actual screen whether the translated text overflows UI buttons."
+                "x": "Australian Council for Educational Research는 폐지가 AI 때문이라고 확인했다. ACER의 Cathy Zemaitis는 \"게임 개발에서 생성형 AI가 빠르고 복잡하게 확산하면서 학생이 직접 만든 것을 판단하기 어려워졌고, 프로그램도 본래 취지에서 멀어져 이번 결정을 내렸다\"고 말했다. 그는 대회를 다른 방식으로 이어갈 계획도 없다고 덧붙였다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "무료 번역 AI 공개 후\n게이머용 도구 잇따라",
-          "body": "53개 언어 오프라인 번역 AI 기반 게이머용 도구가 며칠 만에 잇따라 나왔다.",
-          "mini_headline": "번역 AI로 만든 게이머용 도구",
+        "ja": {
+          "headline": "ゲーム開発プログラム中止\nAI-Madeの学生作品で",
+          "body": "生成AIで学生自身が作った部分の判断が難しくなり、ゲーム開発教育プログラムが中止された。",
+          "mini_headline": "AIが学生ゲーム企画を終わらせる",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gamespark.jp/imgs/ogp_f/1217054.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X.jpg",
+                "cap": "（画像クレジット：EvgeniyShkolenko via Getty Images）"
               },
               {
                 "t": "p",
-                "x": "일본 AI 기업 Preferred Networks(PFN)는 2026년 11월 5일 번역 특화 AI 'PLaMo 3 Translate'를 무료로 쓸 수 있는 오픈 웨이트 모델로 공개했다. 자사 번역 서비스 'PLaMo 번역'에서 돌아가는 AI와 같은 모델로, 인터넷 연결 없이 개인 PC 환경만으로 작동해 자원봉사 번역의 문턱을 크게 낮출 수 있다. DeepL 무료판에는 사용 한도가 있어, 수백에서 수천 줄의 게임 텍스트를 다루는 자원봉사 번역에서는 작업 중단으로 이어지곤 했다."
+                "x": "「学生向けの無料の全国ビデオゲーム開発コンテスト」であるAustralian STEM Videogame Challengeは、生成AIの台頭により、今年の大会が「素晴らしい12年」を経て最後になると認めた。"
               },
               {
                 "t": "p",
-                "x": "주요 특징은 스마트폰에서도 돌아가는 경량 설계, 사용 횟수 제한 없음, 일본어와 영어를 포함한 53개 언어 지원, 개인 무료 사용, 그리고 고유명사 번역어 지정과 문체 선택이 가능한 용어·문체 지정 기능이다."
+                "x": "Reddit上で審査員を名乗る人物は、問題はAIの使用そのものだけではなく、「一部の学生がゲームを丸ごとAIで生成している」ことだと述べた。「それをどう採点するのか。ゼロ点をつけるわけにもいかない」とこの審査員は書いている。"
               },
               {
                 "t": "p",
-                "x": "모델 공개 후 며칠 만에 개인 개발자들이 관련 도구를 잇따라 내놓았다. 11월 7일에는 화면 속 영어 텍스트를 그 자리에서 일본어로 바꿔 주는 PC용 상주 앱 'sonoba'가 나왔는데, 자막은 약 1초, 짧은 문장은 약 0.2초면 처리할 수 있다고 한다. 브라우저 확장 프로그램 'PLaMo_Translate_EX'와 데스크톱 앱 'plamo-translate-desktop'도 등장했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1217054.png",
-                "cap": "plamo-translate-desktop"
-              },
-              {
-                "t": "p",
-                "x": "추가·변경된 텍스트만 번역하고, 번역 후 글자 수가 UI 버튼 밖으로 넘치지 않는지 실제 화면에서 검증하는 현지화 지원 도구 'game-l10n-updater'도 공개됐다."
+                "x": "Australian Council for Educational Researchは、中止がAIによるものだと認めた。ACERのCathy Zemaitis氏は「ゲーム開発における生成AIの急速かつ複雑な台頭により、学生が自分で作ったものを判断することが難しくなり、プログラムが本来の目的から離れつつあったことが決定の理由だ」と述べ、別の形でコンテストを実施する予定はないと付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "免费翻译AI问世\n玩家工具接连涌现",
-          "body": "基于支持53种语言的离线翻译AI，面向玩家的工具在公开数日内接连出现。",
-          "mini_headline": "翻译AI催生玩家工具",
+          "headline": "游戏开发项目停办\n因AI-Made学生游戏",
+          "body": "生成式AI让人难以判断学生自己做了什么，一个游戏开发教育项目因此停办。",
+          "mini_headline": "AI终结学生游戏项目",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gamespark.jp/imgs/ogp_f/1217054.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X.jpg",
+                "cap": "（图片来源：EvgeniyShkolenko via Getty Images）"
               },
               {
                 "t": "p",
-                "x": "日本AI企业Preferred Networks（PFN）于2026年11月5日将翻译专用AI“PLaMo 3 Translate”作为可免费使用的开放权重模型发布。它与该公司翻译服务“PLaMo翻译”所用的AI相同，无需联网、仅靠本地PC即可完成，有望大幅降低志愿翻译的门槛。DeepL免费版设有使用上限，在处理数百至数千行游戏文本的志愿翻译中常导致工作中断。"
+                "x": "作为“面向学生的免费全国性电子游戏开发竞赛”，Australian STEM Videogame Challenge确认，由于生成式AI的兴起，今年的赛事将在“精彩的12年”之后成为最后一届。"
               },
               {
                 "t": "p",
-                "x": "其主要特点包括：可在智能手机上运行的轻量设计、不限使用次数、支持包括日语和英语在内的53种语言、个人使用免费，以及可指定专有名词译法和选择文体的术语与文体指定功能。"
+                "x": "一位在Reddit上自称评委的用户表示，问题不只是使用AI，而是“有些学生干脆完全用AI生成游戏”。这位评委写道：“这要怎么打分？总不能直接给零分吧。”"
               },
               {
                 "t": "p",
-                "x": "模型发布后数日内，个人开发者陆续推出了相关工具。11月7日，可将屏幕上的英文文本当场替换为日文的PC常驻应用“sonoba”上线，据称字幕显示约1秒、短句约0.2秒即可处理完成。浏览器扩展“PLaMo_Translate_EX”和桌面应用“plamo-translate-desktop”也相继登场。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1217054.png",
-                "cap": "plamo-translate-desktop"
-              },
-              {
-                "t": "p",
-                "x": "此外，本地化辅助工具“game-l10n-updater”也已公开，它只翻译新增或修改的文本，并在实际画面中检验译文字数是否会超出UI按钮。"
+                "x": "Australian Council for Educational Research确认停办是因为AI。ACER的Cathy Zemaitis表示：“这一决定源于生成式AI在游戏开发中迅速而复杂的兴起，它让我们更难判断哪些是学生自己做的，也让项目偏离了最初的宗旨。”她还补充说，目前没有计划以其他方式继续举办这项挑战赛。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una AI de traducción gratuita\ntrae nuevas apps para jugadores",
-          "body": "En pocos días surgieron herramientas para jugadores basadas en una AI de traducción sin conexión con 53 idiomas.",
-          "mini_headline": "Herramientas para jugadores con AI de traducción",
+          "headline": "Cancelan programa de videojuegos\npor juegos AI-Made de alumnos",
+          "body": "Un programa escolar de videojuegos se canceló porque la AI generativa complica juzgar lo que crean los propios alumnos.",
+          "mini_headline": "La AI pone fin a un programa escolar de juegos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gamespark.jp/imgs/ogp_f/1217054.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X.jpg",
+                "cap": "(Crédito de imagen: EvgeniyShkolenko via Getty Images)"
               },
               {
                 "t": "p",
-                "x": "La empresa japonesa de AI Preferred Networks (PFN) publicó el 5 de noviembre de 2026 \"PLaMo 3 Translate\", una AI especializada en traducción, como modelo de pesos abiertos de uso gratuito. Es la misma AI que funciona en el servicio de traducción de la compañía, \"PLaMo Translation\", y como opera por completo en el PC local sin conexión a internet, podría reducir mucho la barrera para la traducción voluntaria. La versión gratuita de DeepL tiene límites de uso, lo que provocaba interrupciones en las traducciones voluntarias que manejan de cientos a miles de líneas de texto de juegos."
+                "x": "El Australian STEM Videogame Challenge, una \"competición nacional y gratuita de desarrollo de videojuegos para estudiantes\", confirmó que, por el auge de la AI generativa, la edición de este año será la última, \"tras 12 años maravillosos\"."
               },
               {
                 "t": "p",
-                "x": "Sus principales características son un diseño ligero que funciona incluso en smartphones, sin límite de usos, compatibilidad con 53 idiomas, entre ellos el japonés y el inglés, uso personal gratuito y una función de terminología y estilo que permite fijar la traducción de nombres propios y elegir el registro."
+                "x": "Una persona que se presentó en Reddit como jurado dijo que el problema no era solo el uso de AI, sino que \"algunos estudiantes generan sus juegos por completo con AI\". \"¿Cómo se califica eso? No se les puede poner un cero sin más\", escribió."
               },
               {
                 "t": "p",
-                "x": "A los pocos días de la publicación del modelo, desarrolladores independientes lanzaron herramientas relacionadas una tras otra. El 7 de noviembre apareció \"sonoba\", una app residente para PC que sustituye en el momento el texto en inglés de la pantalla por japonés; según se indica, procesa los subtítulos en aproximadamente 1 segundo y las frases cortas en unos 0.2 segundos. También aparecieron la extensión de navegador \"PLaMo_Translate_EX\" y la app de escritorio \"plamo-translate-desktop\"."
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1217054.png",
-                "cap": "plamo-translate-desktop"
-              },
-              {
-                "t": "p",
-                "x": "Además, se publicó \"game-l10n-updater\", una herramienta de apoyo a la localización que traduce solo el texto añadido o modificado y verifica en la pantalla real si el texto traducido desborda los botones de la UI."
+                "x": "El Australian Council for Educational Research confirmó que la cancelación se debió a la AI. \"La decisión se debió al rápido y complejo auge de la AI generativa en el desarrollo de juegos, que hace más difícil juzgar lo que los estudiantes crearon por sí mismos y aleja el programa de su propósito original\", dijo Cathy Zemaitis, de ACER, quien añadió que no hay planes de buscar otras opciones para organizar el desafío."
               }
             ]
           }
@@ -1541,15 +1151,15 @@
       }
     },
     {
-      "id": "jackbox-human-made-pledge",
+      "id": "claude-fable-gears-clone",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Jackbox의 글·그림은\n사람이 만든다",
-      "body": "Jackbox CEO Mike Bilder는 창작은 사람 몫, AI는 도구라 했다.",
-      "mini_headline": "Jackbox는 사람이 만든다",
+      "headline": "Fable 5.2가 만든\nGears of War풍",
+      "body": "Claude Fable 5.2가 8.5B 토큰으로 Gears of War를 본떴다.",
+      "mini_headline": "Claude, Gears 클론 제작",
       "tool": "Games",
-      "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/claude-fable-5-2-builds-playable-gears-of-war-e-day-clone-from-three-line-prompt-but-estimated-cost-reaches-15000/",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1557,197 +1167,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo.png"
+            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-24.jpg"
           },
           {
             "t": "p",
-            "x": "최근 이곳 시카고의 Jackbox Games HQ를 찾아 개발자, 스튜디오 경영진과 작업 방식, 회사의 역사, 업계 내 위치를 두고 이야기를 나눴다. 요즘 같은 때 이런 자리에서 AI를 묻는 건 거의 계약상 의무다. CEO Mike Bilder의 답은 이랬다."
+            "x": "AI 연구자이자 YouTuber인 Matthew Berman이 Anthropic의 Claude Fable 5.2가 Unreal Engine 5로 만든 Gears of War: E-Day풍(E-Day-inspired) 슈터를 공개했다. 바로 플레이할 수 있는 수준이고, 알려진 바로는 단 세 줄짜리 프롬프트에서 출발했다. 캐릭터는 달리고 엄폐하고 몸을 내밀어 쏘며, 시리즈 특유의 액티브 리로드도 한다."
+          },
+          {
+            "t": "video",
+            "yt": "0vNyVMDFdkg"
           },
           {
             "t": "p",
-            "x": "\"이 제품을 만드는 건 사람입니다. 코미디도, 글도, 아트도 모두 사람이 만들고, 우리는 이를 바꿀 생각이 없습니다. 업계에서 AI를 둘러싸고 벌어지는 일에 대해 우리가 전문가라고 생각하지는 않습니다. 도구 제작이나 리서치에는 분명 쓰임새가 있고, 그런 일들에서 [AI는] 엄청나게 강력합니다."
+            "x": "Berman은 모델에게 Gears of War: E-Day의 레벨 하나를 재현하라고 한 뒤 Ultra Code 모드를 켜고 알아서 작업하게 두었다. Berman에 따르면 프로젝트는 며칠 동안 약 8.5B 토큰을 썼고, API 환산(API-equivalent) 추정 비용은 $15,000에 가까웠다. Decrypt 집계로는 43시간 48분, 8.63B 토큰, 추정 비용 $14,710이다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/3-Line-Prompt.jpg",
+            "cap": "Unreal Engine 5 프로젝트를 시작한 세 줄짜리 프롬프트. 이미지 출처: YouTube의 Matthew Berman."
           },
           {
             "t": "p",
-            "x": "\"하지만 생성형 에셋 측면에서는 그것으로 사람을, 또는 사람이 만든 글과 아트를 대체할 생각이 전혀 없습니다.\""
-          },
-          {
-            "t": "p",
-            "x": "그때까지 나눈 이야기나 Jackbox라는 회사의 성격으로 보면, 이 스튜디오가 생성형 AI를 본격적으로 쓸 것 같지는 않았다. Jackbox 게임은 기술적으로 비교적 가볍고, 가장 큰 매력은 아트와 글이다. 눈에 띄게 AI-generated 티가 나는 요소가 하나라도 있으면 패키지 전체의 가치가 의심받는다."
-          },
-          {
-            "t": "p",
-            "x": "회사는 최근 10월 14일 Jackbox Party Pack 12를 출시했다. Trivia Murder Party 3는 실시간 3D 그래픽을 폭넓게 쓴다."
+            "x": "이 수치는 API 가격으로 따진 추정치여서 Berman이 실제로 쓴 돈과 꼭 같지는 않다. 데모는 레벨 하나뿐이고 애니메이션이 어색한 대목도 있다. 성능과 안정성을 독립적으로 평가한 곳은 없다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Jackbox keeps its writing\nand art made by people",
-          "body": "CEO Mike Bilder says Jackbox's comedy, writing and art will stay human-made, but AI has uses for tooling and research.",
-          "mini_headline": "Jackbox stays human-made",
+          "headline": "Claude Fable 5.2 Builds\nA Gears of War Clone",
+          "body": "From a three-line prompt, Claude Fable 5.2 built a playable Gears of War clone using about 8.5 billion tokens.",
+          "mini_headline": "Claude Builds a Gears Clone",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo.png"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-24.jpg"
               },
               {
                 "t": "p",
-                "x": "On a recent visit to Jackbox Games HQ here in Chicago, I got to speak with developers and studio leadership about their process, history, and place in the industry. Given, you know, everything, I'm pretty much contractually obligated to ask about AI in conversations like this. Here's what CEO Mike Bilder had to say on the topic:"
+                "x": "AI researcher and YouTuber Matthew Berman has showcased a playable Gears of War: E-Day-inspired shooter built in Unreal Engine 5 by Anthropic's Claude Fable 5.2, reportedly starting with a prompt of just three lines. The character can sprint, take cover, lean out to fire, and perform the signature active reload."
+              },
+              {
+                "t": "video",
+                "yt": "0vNyVMDFdkg"
               },
               {
                 "t": "p",
-                "x": "\"The people are what make this product. The comedy, the writing, and the art, all that is done by people, and we have no intention of changing that. I don't think we're experts on what's going on with AI in the industry and any of that. There's obviously uses for tooling and for research, and [for] all that kind of stuff [AI is] incredibly powerful."
+                "x": "Berman asked the model to reproduce a single level from Gears of War: E-Day, then enabled Ultra Code mode and let it work autonomously. According to Berman's report, the project consumed approximately 8.5 billion tokens over several days, with an estimated API-equivalent cost approaching $15,000; Decrypt puts it at 43 hours and 48 minutes, 8.63 billion tokens, and an estimated $14,710."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/3-Line-Prompt.jpg",
+                "cap": "The three-line prompt that initiated the Unreal Engine 5 project. Image credit: Matthew Berman on YouTube."
               },
               {
                 "t": "p",
-                "x": "\"But from a generative asset standpoint, we don't have any intention of replacing people, or people-made editorial and art with it.\""
-              },
-              {
-                "t": "p",
-                "x": "From everything we had discussed up to this point, as well as Jackbox's whole deal, I didn't think generative AI would really be in the cards for the studio. Jackbox's games are relatively lightweight from a tech perspective, while the art and writing is their main draw—if anything was noticeably AI-generated, it would put the value of the whole package into question."
-              },
-              {
-                "t": "p",
-                "x": "The company recently released the Jackbox Party Pack 12 on October 14, and Trivia Murder Party 3 makes extensive use of realtime 3D graphics."
+                "x": "These figures are estimated API pricing, not necessarily money Berman actually spent. The demo shows a single level, with some awkward animations, and performance and stability have not been independently evaluated."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Jackbox의 글·그림은\n사람이 만든다",
-          "body": "Jackbox CEO Mike Bilder는 창작은 사람 몫, AI는 도구라 했다.",
-          "mini_headline": "Jackbox는 사람이 만든다",
+          "headline": "Fable 5.2가 만든\nGears of War풍",
+          "body": "Claude Fable 5.2가 8.5B 토큰으로 Gears of War를 본떴다.",
+          "mini_headline": "Claude, Gears 클론 제작",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo.png"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-24.jpg"
               },
               {
                 "t": "p",
-                "x": "최근 이곳 시카고의 Jackbox Games HQ를 찾아 개발자, 스튜디오 경영진과 작업 방식, 회사의 역사, 업계 내 위치를 두고 이야기를 나눴다. 요즘 같은 때 이런 자리에서 AI를 묻는 건 거의 계약상 의무다. CEO Mike Bilder의 답은 이랬다."
+                "x": "AI 연구자이자 YouTuber인 Matthew Berman이 Anthropic의 Claude Fable 5.2가 Unreal Engine 5로 만든 Gears of War: E-Day풍(E-Day-inspired) 슈터를 공개했다. 바로 플레이할 수 있는 수준이고, 알려진 바로는 단 세 줄짜리 프롬프트에서 출발했다. 캐릭터는 달리고 엄폐하고 몸을 내밀어 쏘며, 시리즈 특유의 액티브 리로드도 한다."
+              },
+              {
+                "t": "video",
+                "yt": "0vNyVMDFdkg"
               },
               {
                 "t": "p",
-                "x": "\"이 제품을 만드는 건 사람입니다. 코미디도, 글도, 아트도 모두 사람이 만들고, 우리는 이를 바꿀 생각이 없습니다. 업계에서 AI를 둘러싸고 벌어지는 일에 대해 우리가 전문가라고 생각하지는 않습니다. 도구 제작이나 리서치에는 분명 쓰임새가 있고, 그런 일들에서 [AI는] 엄청나게 강력합니다."
+                "x": "Berman은 모델에게 Gears of War: E-Day의 레벨 하나를 재현하라고 한 뒤 Ultra Code 모드를 켜고 알아서 작업하게 두었다. Berman에 따르면 프로젝트는 며칠 동안 약 8.5B 토큰을 썼고, API 환산(API-equivalent) 추정 비용은 $15,000에 가까웠다. Decrypt 집계로는 43시간 48분, 8.63B 토큰, 추정 비용 $14,710이다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/3-Line-Prompt.jpg",
+                "cap": "Unreal Engine 5 프로젝트를 시작한 세 줄짜리 프롬프트. 이미지 출처: YouTube의 Matthew Berman."
               },
               {
                 "t": "p",
-                "x": "\"하지만 생성형 에셋 측면에서는 그것으로 사람을, 또는 사람이 만든 글과 아트를 대체할 생각이 전혀 없습니다.\""
-              },
-              {
-                "t": "p",
-                "x": "그때까지 나눈 이야기나 Jackbox라는 회사의 성격으로 보면, 이 스튜디오가 생성형 AI를 본격적으로 쓸 것 같지는 않았다. Jackbox 게임은 기술적으로 비교적 가볍고, 가장 큰 매력은 아트와 글이다. 눈에 띄게 AI-generated 티가 나는 요소가 하나라도 있으면 패키지 전체의 가치가 의심받는다."
-              },
-              {
-                "t": "p",
-                "x": "회사는 최근 10월 14일 Jackbox Party Pack 12를 출시했다. Trivia Murder Party 3는 실시간 3D 그래픽을 폭넓게 쓴다."
+                "x": "이 수치는 API 가격으로 따진 추정치여서 Berman이 실제로 쓴 돈과 꼭 같지는 않다. 데모는 레벨 하나뿐이고 애니메이션이 어색한 대목도 있다. 성능과 안정성을 독립적으로 평가한 곳은 없다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Jackboxの文章と絵は\n人の手で作り続ける",
-          "body": "JackboxのCEO Mike Bilder氏は、創作は人が担いAIは道具だと語った。",
-          "mini_headline": "Jackboxは人の手で作る",
+          "headline": "Fable 5.2が作った\nGears of War風",
+          "body": "Claude Fable 5.2が約8.5B トークンでGears of Warを再現した。",
+          "mini_headline": "ClaudeがGearsクローンを制作",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo.png"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-24.jpg"
               },
               {
                 "t": "p",
-                "x": "先日、ここシカゴにあるJackbox Games HQを訪れ、開発者やスタジオ経営陣に制作プロセスや歴史、業界での立ち位置について話を聞いた。昨今の状況を考えれば、こうした場でAIについて尋ねるのはもはや契約上の義務のようなものだ。この話題についてCEOのMike Bilder氏は次のように語った。"
+                "x": "AI研究者でYouTuberのMatthew Berman氏が、AnthropicのClaude Fable 5.2がUnreal Engine 5で作った、Gears of War: E-Dayに着想を得た（E-Day-inspired）プレイ可能なシューターを披露した。わずか三行のプロンプトから始めたとされる。キャラクターはダッシュ、カバー、身を乗り出しての射撃、そしてシリーズ伝統のアクティブリロードもこなす。"
+              },
+              {
+                "t": "video",
+                "yt": "0vNyVMDFdkg"
               },
               {
                 "t": "p",
-                "x": "「この製品を作っているのは人です。コメディも、文章も、アートも、すべて人が手がけており、それを変えるつもりはありません。業界でAIをめぐって起きていることについて、私たちが専門家だとは思っていません。ツール制作やリサーチなどには明らかに使い道があり、そうした用途では[AIは]非常に強力です。"
+                "x": "Berman氏はモデルにGears of War: E-Dayのレベルを一つ再現するよう指示し、Ultra Codeモードを有効にして自律的に作業させた。Berman氏の報告では、プロジェクトは数日間で約8.5B トークンを消費し、API-equivalentの推定コストは$15,000に迫った。Decryptは43時間48分、8.63B トークン、推定$14,710としている。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/3-Line-Prompt.jpg",
+                "cap": "Unreal Engine 5プロジェクトの起点となった三行のプロンプト。画像クレジット：YouTubeのMatthew Berman氏。"
               },
               {
                 "t": "p",
-                "x": "「しかし生成アセットという観点では、それで人を、あるいは人が作った文章やアートを置き換えるつもりはまったくありません」"
-              },
-              {
-                "t": "p",
-                "x": "それまでの話やJackboxという会社のあり方からして、同スタジオが生成AIを本格的に取り入れるとは思えなかった。Jackboxのゲームは技術的には比較的軽量で、最大の魅力はアートと文章だ。もし明らかにAI-generatedな要素があれば、パッケージ全体の価値が問われることになるだろう。"
-              },
-              {
-                "t": "p",
-                "x": "同社は10月14日に『Jackbox Party Pack 12』をリリースしたばかりで、『Trivia Murder Party 3』ではリアルタイム3Dグラフィックスが多用されている。"
+                "x": "これらはAPI料金に基づく推定額で、Berman氏が実際に支払った金額とは限らない。デモは単一のレベルのみで、ぎこちないアニメーションも見られ、性能や安定性は第三者による評価を受けていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Jackbox的文字与美术\n坚持由人创作",
-          "body": "Jackbox CEO Mike Bilder称，创作由人完成，AI则用于工具与研究。",
-          "mini_headline": "Jackbox坚持人工创作",
+          "headline": "Fable 5.2打造\nGears of War克隆",
+          "body": "Claude Fable 5.2用约8.5B 词元做出可玩的Gears of War克隆。",
+          "mini_headline": "Claude打造Gears克隆",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo.png"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-24.jpg"
               },
               {
                 "t": "p",
-                "x": "最近我走访了位于芝加哥的Jackbox Games HQ，与开发者和工作室管理层聊了聊他们的创作流程、发展历程以及在行业中的位置。鉴于当下的种种情况，在这类对话中问起AI几乎成了我的“合同义务”。以下是CEO Mike Bilder对此话题的看法："
+                "x": "AI研究者兼YouTuber Matthew Berman展示了一款可玩的射击游戏，它受Gears of War: E-Day启发（E-Day-inspired），由Anthropic的Claude Fable 5.2用Unreal Engine 5打造，据称起点只是一段三行的提示词。角色可以冲刺、找掩体、探身射击，还能使出招牌的主动装填。"
+              },
+              {
+                "t": "video",
+                "yt": "0vNyVMDFdkg"
               },
               {
                 "t": "p",
-                "x": "“人才是这款产品的核心。喜剧、文字和美术，全部由人完成，我们无意改变这一点。我不认为我们是业内AI动向之类问题的专家。它显然在工具开发和研究方面有用武之地，在这些方面[AI]极其强大。"
+                "x": "Berman让模型复刻Gears of War: E-Day中的一个关卡，随后开启Ultra Code模式让它自主工作。据Berman介绍，该项目在数天内消耗了约8.5B 词元，按API-equivalent估算的成本接近$15,000；Decrypt的数据是43小时48分钟、8.63B 词元，估算成本$14,710。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/3-Line-Prompt.jpg",
+                "cap": "启动这个Unreal Engine 5项目的三行提示词。图片来源：YouTube上的Matthew Berman。"
               },
               {
                 "t": "p",
-                "x": "“但从生成式素材的角度来看，我们无意用它取代人，或取代由人创作的文字和美术。”"
-              },
-              {
-                "t": "p",
-                "x": "从我们此前讨论的一切以及Jackbox的整体风格来看，我并不认为生成式AI会出现在这家工作室的计划中。Jackbox的游戏在技术上相对轻量，而美术和文字才是其主要魅力——如果有任何明显AI-generated的内容，整个产品的价值都会受到质疑。"
-              },
-              {
-                "t": "p",
-                "x": "该公司最近于10月14日推出了Jackbox Party Pack 12，其中的Trivia Murder Party 3大量运用了实时3D图形。"
+                "x": "这些数字是按API定价估算的，并不一定是Berman实际花掉的钱。演示只展示了一个关卡，部分动画略显生硬，性能和稳定性也未经独立评估。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Jackbox mantiene sus textos\ny su arte hechos por personas",
-          "body": "El CEO de Jackbox, Mike Bilder, mantiene humanos el humor, los textos y el arte, y ve la AI útil en herramientas.",
-          "mini_headline": "Jackbox sigue siendo obra humana",
+          "headline": "Claude Fable 5.2 crea\nun clon de Gears of War",
+          "body": "Con un prompt de tres líneas, Claude Fable 5.2 creó un clon jugable de Gears of War usando unos 8.5B tokens.",
+          "mini_headline": "Claude crea un clon de Gears",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo.png"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-24.jpg"
               },
               {
                 "t": "p",
-                "x": "En una visita reciente al Jackbox Games HQ, aquí en Chicago, pude hablar con desarrolladores y directivos del estudio sobre su proceso, su historia y su lugar en la industria. Dado, bueno, todo lo que está pasando, estoy prácticamente obligado por contrato a preguntar por la AI en conversaciones como esta. Esto es lo que dijo el CEO Mike Bilder sobre el tema:"
+                "x": "El investigador de AI y YouTuber Matthew Berman mostró un shooter jugable inspirado en Gears of War: E-Day (E-Day-inspired), creado en Unreal Engine 5 por Claude Fable 5.2 de Anthropic, que según se informa partió de un prompt de solo tres líneas. El personaje puede esprintar, cubrirse, asomarse para disparar y hacer la característica recarga activa."
+              },
+              {
+                "t": "video",
+                "yt": "0vNyVMDFdkg"
               },
               {
                 "t": "p",
-                "x": "\"Las personas son las que hacen este producto. La comedia, los textos y el arte, todo eso lo hacen personas, y no tenemos intención de cambiarlo. No creo que seamos expertos en lo que está pasando con la AI en la industria ni en nada de eso. Obviamente tiene usos para herramientas y para investigación, y [para] todo ese tipo de cosas [la AI es] increíblemente poderosa."
+                "x": "Berman pidió al modelo que reprodujera un solo nivel de Gears of War: E-Day, luego activó el modo Ultra Code y lo dejó trabajar de forma autónoma. Según Berman, el proyecto consumió aproximadamente 8.5B tokens durante varios días, con un costo estimado API-equivalent cercano a $15,000; Decrypt lo cifra en 43 horas y 48 minutos, 8.63B tokens y un costo estimado de $14,710."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/3-Line-Prompt.jpg",
+                "cap": "El prompt de tres líneas que inició el proyecto de Unreal Engine 5. Crédito de imagen: Matthew Berman en YouTube."
               },
               {
                 "t": "p",
-                "x": "\"Pero desde el punto de vista de los recursos generativos, no tenemos ninguna intención de reemplazar con ella a las personas, ni los textos y el arte hechos por personas.\""
-              },
-              {
-                "t": "p",
-                "x": "Por todo lo que habíamos hablado hasta ese momento, y por lo que Jackbox representa en general, no pensaba que la AI generativa estuviera realmente en los planes del estudio. Los juegos de Jackbox son relativamente ligeros desde el punto de vista técnico, mientras que el arte y los textos son su principal atractivo: si algo fuera notablemente AI-generated, pondría en duda el valor de todo el paquete."
-              },
-              {
-                "t": "p",
-                "x": "La compañía lanzó recientemente Jackbox Party Pack 12 el 14 de octubre, y Trivia Murder Party 3 hace un uso intensivo de gráficos 3D en tiempo real."
+                "x": "Estas cifras son precios estimados de API, no necesariamente dinero que Berman haya gastado. La demo muestra un solo nivel, con algunas animaciones torpes, y su rendimiento y estabilidad no se han evaluado de forma independiente."
               }
             ]
           }
@@ -1755,137 +1371,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Jackbox의 글·그림은\n사람이 만든다",
-          "body": "Jackbox CEO Mike Bilder는 창작은 사람 몫, AI는 도구라 했다.",
-          "mini_headline": "Jackbox는 사람이 만든다",
+          "headline": "Fable 5.2가 만든\nGears of War풍",
+          "body": "Claude Fable 5.2가 8.5B 토큰으로 Gears of War를 본떴다.",
+          "mini_headline": "Claude, Gears 클론 제작",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo.png"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-24.jpg"
               },
               {
                 "t": "p",
-                "x": "최근 이곳 시카고에 있는 Jackbox Games HQ를 방문해 개발자, 스튜디오 경영진과 그들의 작업 방식과 역사, 업계에서의 위치에 관해 이야기를 나눴다. 요즘 상황을 생각하면 이런 대화에서 AI에 관해 묻는 것은 거의 계약상 의무나 다름없다. CEO Mike Bilder는 이 주제에 대해 이렇게 말했다."
+                "x": "AI 연구자이자 YouTuber인 Matthew Berman이 Anthropic의 Claude Fable 5.2가 Unreal Engine 5로 만든, 플레이 가능한 Gears of War: E-Day풍(E-Day-inspired) 슈터를 공개했다. 알려진 바로는 단 세 줄짜리 프롬프트에서 시작했다. 캐릭터는 달리기, 엄폐, 몸을 내밀어 사격하기, 그리고 시리즈 특유의 액티브 리로드까지 해낸다."
+              },
+              {
+                "t": "video",
+                "yt": "0vNyVMDFdkg"
               },
               {
                 "t": "p",
-                "x": "\"이 제품을 만드는 건 사람입니다. 코미디도, 글도, 아트도 모두 사람이 만들고, 우리는 이를 바꿀 생각이 없습니다. 업계에서 AI를 둘러싸고 벌어지는 일에 대해 우리가 전문가라고 생각하지는 않습니다. 도구 제작이나 리서치에는 분명 쓰임새가 있고, 그런 일들에서 [AI는] 엄청나게 강력합니다."
+                "x": "Berman은 모델에게 Gears of War: E-Day의 레벨 하나를 재현하라고 요청한 뒤 Ultra Code 모드를 켜고 자율적으로 작업하게 했다. Berman의 설명에 따르면 프로젝트는 며칠에 걸쳐 약 8.5B 토큰을 썼고, API 환산(API-equivalent) 추정 비용은 $15,000에 육박했다. Decrypt는 43시간 48분, 8.63B 토큰, 추정 비용 $14,710으로 집계했다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/3-Line-Prompt.jpg",
+                "cap": "Unreal Engine 5 프로젝트를 시작한 세 줄짜리 프롬프트. 이미지 출처: YouTube의 Matthew Berman."
               },
               {
                 "t": "p",
-                "x": "\"하지만 생성형 에셋 측면에서는 그것으로 사람을, 또는 사람이 만든 글과 아트를 대체할 생각이 전혀 없습니다.\""
-              },
-              {
-                "t": "p",
-                "x": "그때까지 나눈 이야기와 Jackbox라는 회사의 성격을 생각하면, 이 스튜디오가 생성형 AI를 본격적으로 쓸 것 같지는 않았다. Jackbox의 게임은 기술적으로 비교적 가벼운 반면 아트와 글이 가장 큰 매력이다. 눈에 띄게 AI-generated 티가 나는 요소가 있다면 패키지 전체의 가치가 의심받게 될 것이다."
-              },
-              {
-                "t": "p",
-                "x": "회사는 최근 10월 14일 Jackbox Party Pack 12를 출시했으며, Trivia Murder Party 3는 실시간 3D 그래픽을 폭넓게 활용한다."
+                "x": "이 수치는 API 가격 기준 추정치로, Berman이 실제로 쓴 돈과 반드시 같지는 않다. 데모는 레벨 하나만 보여주며 어색한 애니메이션도 일부 있다. 성능과 안정성은 독립적으로 평가되지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Jackboxの文章と絵は\n人の手で作り続ける",
-          "body": "JackboxのCEO Mike Bilder氏は、創作は人が担いAIは道具だと語った。",
-          "mini_headline": "Jackboxは人の手で作る",
+          "headline": "Fable 5.2が作った\nGears of War風",
+          "body": "Claude Fable 5.2が約8.5B トークンでGears of Warを再現した。",
+          "mini_headline": "ClaudeがGearsクローンを制作",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo.png"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-24.jpg"
               },
               {
                 "t": "p",
-                "x": "先日、ここシカゴにあるJackbox Games HQを訪れ、開発者やスタジオ経営陣に制作プロセスや歴史、業界での立ち位置について話を聞いた。昨今の状況を考えれば、こうした場でAIについて尋ねるのはもはや契約上の義務のようなものだ。この話題についてCEOのMike Bilder氏は次のように語った。"
+                "x": "AI研究者でYouTuberのMatthew Berman氏が、AnthropicのClaude Fable 5.2がUnreal Engine 5で作った、Gears of War: E-Dayに着想を得た（E-Day-inspired）プレイ可能なシューターを披露した。わずか三行のプロンプトから始めたとされる。キャラクターはダッシュ、カバー、身を乗り出しての射撃、そしてシリーズ伝統のアクティブリロードもこなす。"
+              },
+              {
+                "t": "video",
+                "yt": "0vNyVMDFdkg"
               },
               {
                 "t": "p",
-                "x": "「この製品を作っているのは人です。コメディも、文章も、アートも、すべて人が手がけており、それを変えるつもりはありません。業界でAIをめぐって起きていることについて、私たちが専門家だとは思っていません。ツール制作やリサーチなどには明らかに使い道があり、そうした用途では[AIは]非常に強力です。"
+                "x": "Berman氏はモデルにGears of War: E-Dayのレベルを一つ再現するよう指示し、Ultra Codeモードを有効にして自律的に作業させた。Berman氏の報告では、プロジェクトは数日間で約8.5B トークンを消費し、API-equivalentの推定コストは$15,000に迫った。Decryptは43時間48分、8.63B トークン、推定$14,710としている。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/3-Line-Prompt.jpg",
+                "cap": "Unreal Engine 5プロジェクトの起点となった三行のプロンプト。画像クレジット：YouTubeのMatthew Berman氏。"
               },
               {
                 "t": "p",
-                "x": "「しかし生成アセットという観点では、それで人を、あるいは人が作った文章やアートを置き換えるつもりはまったくありません」"
-              },
-              {
-                "t": "p",
-                "x": "それまでの話やJackboxという会社のあり方からして、同スタジオが生成AIを本格的に取り入れるとは思えなかった。Jackboxのゲームは技術的には比較的軽量で、最大の魅力はアートと文章だ。もし明らかにAI-generatedな要素があれば、パッケージ全体の価値が問われることになるだろう。"
-              },
-              {
-                "t": "p",
-                "x": "同社は10月14日に『Jackbox Party Pack 12』をリリースしたばかりで、『Trivia Murder Party 3』ではリアルタイム3Dグラフィックスが多用されている。"
+                "x": "これらはAPI料金に基づく推定額で、Berman氏が実際に支払った金額とは限らない。デモは単一のレベルのみで、ぎこちないアニメーションも見られ、性能や安定性は第三者による評価を受けていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Jackbox的文字与美术\n坚持由人创作",
-          "body": "Jackbox CEO Mike Bilder称，创作由人完成，AI则用于工具与研究。",
-          "mini_headline": "Jackbox坚持人工创作",
+          "headline": "Fable 5.2打造\nGears of War克隆",
+          "body": "Claude Fable 5.2用约8.5B 词元做出可玩的Gears of War克隆。",
+          "mini_headline": "Claude打造Gears克隆",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo.png"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-24.jpg"
               },
               {
                 "t": "p",
-                "x": "最近我走访了位于芝加哥的Jackbox Games HQ，与开发者和工作室管理层聊了聊他们的创作流程、发展历程以及在行业中的位置。鉴于当下的种种情况，在这类对话中问起AI几乎成了我的“合同义务”。以下是CEO Mike Bilder对此话题的看法："
+                "x": "AI研究者兼YouTuber Matthew Berman展示了一款可玩的射击游戏，它受Gears of War: E-Day启发（E-Day-inspired），由Anthropic的Claude Fable 5.2用Unreal Engine 5打造，据称起点只是一段三行的提示词。角色可以冲刺、找掩体、探身射击，还能使出招牌的主动装填。"
+              },
+              {
+                "t": "video",
+                "yt": "0vNyVMDFdkg"
               },
               {
                 "t": "p",
-                "x": "“人才是这款产品的核心。喜剧、文字和美术，全部由人完成，我们无意改变这一点。我不认为我们是业内AI动向之类问题的专家。它显然在工具开发和研究方面有用武之地，在这些方面[AI]极其强大。"
+                "x": "Berman让模型复刻Gears of War: E-Day中的一个关卡，随后开启Ultra Code模式让它自主工作。据Berman介绍，该项目在数天内消耗了约8.5B 词元，按API-equivalent估算的成本接近$15,000；Decrypt的数据是43小时48分钟、8.63B 词元，估算成本$14,710。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/3-Line-Prompt.jpg",
+                "cap": "启动这个Unreal Engine 5项目的三行提示词。图片来源：YouTube上的Matthew Berman。"
               },
               {
                 "t": "p",
-                "x": "“但从生成式素材的角度来看，我们无意用它取代人，或取代由人创作的文字和美术。”"
-              },
-              {
-                "t": "p",
-                "x": "从我们此前讨论的一切以及Jackbox的整体风格来看，我并不认为生成式AI会出现在这家工作室的计划中。Jackbox的游戏在技术上相对轻量，而美术和文字才是其主要魅力——如果有任何明显AI-generated的内容，整个产品的价值都会受到质疑。"
-              },
-              {
-                "t": "p",
-                "x": "该公司最近于10月14日推出了Jackbox Party Pack 12，其中的Trivia Murder Party 3大量运用了实时3D图形。"
+                "x": "这些数字是按API定价估算的，并不一定是Berman实际花掉的钱。演示只展示了一个关卡，部分动画略显生硬，性能和稳定性也未经独立评估。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Jackbox mantiene sus textos\ny su arte hechos por personas",
-          "body": "El CEO de Jackbox, Mike Bilder, mantiene humanos el humor, los textos y el arte, y ve la AI útil en herramientas.",
-          "mini_headline": "Jackbox sigue siendo obra humana",
+          "headline": "Claude Fable 5.2 crea\nun clon de Gears of War",
+          "body": "Con un prompt de tres líneas, Claude Fable 5.2 creó un clon jugable de Gears of War usando unos 8.5B tokens.",
+          "mini_headline": "Claude crea un clon de Gears",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo.png"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-24.jpg"
               },
               {
                 "t": "p",
-                "x": "En una visita reciente al Jackbox Games HQ, aquí en Chicago, pude hablar con desarrolladores y directivos del estudio sobre su proceso, su historia y su lugar en la industria. Dado, bueno, todo lo que está pasando, estoy prácticamente obligado por contrato a preguntar por la AI en conversaciones como esta. Esto es lo que dijo el CEO Mike Bilder sobre el tema:"
+                "x": "El investigador de AI y YouTuber Matthew Berman mostró un shooter jugable inspirado en Gears of War: E-Day (E-Day-inspired), creado en Unreal Engine 5 por Claude Fable 5.2 de Anthropic, que según se informa partió de un prompt de solo tres líneas. El personaje puede esprintar, cubrirse, asomarse para disparar y hacer la característica recarga activa."
+              },
+              {
+                "t": "video",
+                "yt": "0vNyVMDFdkg"
               },
               {
                 "t": "p",
-                "x": "\"Las personas son las que hacen este producto. La comedia, los textos y el arte, todo eso lo hacen personas, y no tenemos intención de cambiarlo. No creo que seamos expertos en lo que está pasando con la AI en la industria ni en nada de eso. Obviamente tiene usos para herramientas y para investigación, y [para] todo ese tipo de cosas [la AI es] increíblemente poderosa."
+                "x": "Berman pidió al modelo que reprodujera un solo nivel de Gears of War: E-Day, luego activó el modo Ultra Code y lo dejó trabajar de forma autónoma. Según Berman, el proyecto consumió aproximadamente 8.5B tokens durante varios días, con un costo estimado API-equivalent cercano a $15,000; Decrypt lo cifra en 43 horas y 48 minutos, 8.63B tokens y un costo estimado de $14,710."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/3-Line-Prompt.jpg",
+                "cap": "El prompt de tres líneas que inició el proyecto de Unreal Engine 5. Crédito de imagen: Matthew Berman en YouTube."
               },
               {
                 "t": "p",
-                "x": "\"Pero desde el punto de vista de los recursos generativos, no tenemos ninguna intención de reemplazar con ella a las personas, ni los textos y el arte hechos por personas.\""
-              },
-              {
-                "t": "p",
-                "x": "Por todo lo que habíamos hablado hasta ese momento, y por lo que Jackbox representa en general, no pensaba que la AI generativa estuviera realmente en los planes del estudio. Los juegos de Jackbox son relativamente ligeros desde el punto de vista técnico, mientras que el arte y los textos son su principal atractivo: si algo fuera notablemente AI-generated, pondría en duda el valor de todo el paquete."
-              },
-              {
-                "t": "p",
-                "x": "La compañía lanzó recientemente Jackbox Party Pack 12 el 14 de octubre, y Trivia Murder Party 3 hace un uso intensivo de gráficos 3D en tiempo real."
+                "x": "Estas cifras son precios estimados de API, no necesariamente dinero que Berman haya gastado. La demo muestra un solo nivel, con algunas animaciones torpes, y su rendimiento y estabilidad no se han evaluado de forma independiente."
               }
             ]
           }

@@ -1,31 +1,31 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "section": "science",
   "media": [
     {
-      "id": "mit-worldparticle-model",
+      "id": "science-alphaproof-code-signal",
       "type": "image",
-      "src": "pipeline/media/mit-worldparticle-model.jpg"
+      "src": "pipeline/media/science-alphaproof-code-signal.jpg"
     },
     {
-      "id": "alphaoracle-oracle-bones",
+      "id": "science-google-quantum-lean-agents",
       "type": "image",
-      "src": "pipeline/media/alphaoracle-oracle-bones.jpg"
+      "src": "pipeline/media/science-google-quantum-lean-agents.png"
     },
     {
-      "id": "cmu-cisco-agent-upsell",
+      "id": "science-vibe-qc-bonn",
       "type": "image",
-      "src": "pipeline/media/cmu-cisco-agent-upsell.jpg"
+      "src": "pipeline/media/science-vibe-qc-bonn.jpg"
     },
     {
-      "id": "psypost-fmri-role-reversal",
+      "id": "science-hku-holographic-optics",
       "type": "image",
-      "src": "pipeline/media/psypost-fmri-role-reversal.jpg"
+      "src": "pipeline/media/science-hku-holographic-optics.jpg"
     },
     {
-      "id": "deliverome-surfaceome-agent",
+      "id": "science-patent-lawyers-ai-trial",
       "type": "image",
-      "src": "pipeline/media/deliverome-surfaceome-agent.jpg"
+      "src": "pipeline/media/science-patent-lawyers-ai-trial.jpg"
     }
   ]
 }

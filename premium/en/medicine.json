@@ -3849,6 +3849,131 @@
           "x": "The results have not yet been peer reviewed and should be considered preliminary; full results are expected to be published in early 2027."
         }
       ]
+    },
+    "medicine/aha-voice-heartfailure-alert": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_"
+        },
+        {
+          "t": "p",
+          "x": "A smartphone-based artificial intelligence (AI) voice analysis system can detect worsening heart failure symptoms more than three weeks early, significantly outperforming the standard of care, according to late-breaking DETECT-HF trial data presented at the American Heart Association Scientific Sessions 2026 and published in JACC: Heart Failure."
+        },
+        {
+          "t": "p",
+          "x": "DETECT-HF evaluated Cordio Medical's HearO system in 563 ambulatory heart failure patients. It predicted more than 70% of significant heart failure events an average of 24.6 days in advance. Conventional daily weight measurements have a sensitivity of approximately 20%, according to lead investigator William T. Abraham, MD."
+        },
+        {
+          "t": "video",
+          "src": "https://innovate-healthcare-cdn.s3.amazonaws.com/2026-11/William%20Abraham%20explains%20how%20AI%20voice%20analysis%20can%20detect%20worsening%20heart%20failure.mp4"
+        },
+        {
+          "t": "p",
+          "x": "HearO collects six standardized spoken sentences each day and evaluates intonation, breathing patterns and other acoustic features. AI algorithms build a patient-specific voice model and alert clinicians when patterns of worsening heart failure appear."
+        },
+        {
+          "t": "p",
+          "x": "Participants completed 85% of scheduled recordings; the unexplained alert rate was 2.65 per patient per year, and no device-related adverse events were reported. HearO received FDA breakthrough device designation, and the company hopes to launch in the U.S. in 2027."
+        }
+      ]
+    },
+    "medicine/llm-mri-protocoling-radiology": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t"
+        },
+        {
+          "t": "p",
+          "x": "Large language models can perform on par with radiologists when it comes to selecting the most appropriate MRI protocols for patients, according to a new analysis. The findings suggest certain models could help standardize MRI protocol selection, which is typically done manually."
+        },
+        {
+          "t": "p",
+          "x": "Researchers led by Dr. Zeynep Bendella of University Hospital Bonn evaluated four open-weight LLMs using 1,200 consecutive MRI referral forms, with a consensus of two board-certified radiologists as the reference standard."
+        },
+        {
+          "t": "p",
+          "x": "GPT-OSS-120B and Qwen3-235B-A22B-Instruct-2507 each earned 94% protocol accuracy. MedGemma-27B-Text-IT achieved 79%, and Gemma-3-27B-IT had the lowest performance, with 58%. Unacceptable selections were 5.8% for GPT-OSS and 5.9% for Qwen3, versus 24.7% for MedGemma and 68.3% for Gemma3."
+        },
+        {
+          "t": "p",
+          "x": "The most common error was choosing a protocol that was anatomically appropriate but clinically suboptimal. The authors cautioned that the variation in outputs and frequency of unacceptable selections highlight the risks of relying on automated recommendations without clinical oversight."
+        }
+      ]
+    },
+    "medicine/thyroid-eye-radiomics-radiotherapy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Figa_HTML.png"
+        },
+        {
+          "t": "p",
+          "x": "Radiotherapy is a pivotal treatment for active, moderate-to-severe thyroid eye disease (TED), but responses vary, and the clinical activity score (CAS) has limited predictive value. The authors built a multi-sequence model integrating clinical data, conventional imaging and MRI radiomic features to predict radiotherapy response."
+        },
+        {
+          "t": "p",
+          "x": "85 TED subjects treated with standardized radiotherapy (20 Gy) were retrospectively enrolled. Radiomic features from extraocular muscles on T1CE and T2WI MRI were used to develop models with nine machine learning algorithms."
+        },
+        {
+          "t": "p",
+          "x": "Among 85 patients, 46 were responders and 39 non-responders. Clinical models showed limited performance (AUC = 0.700), whereas T1CE, T2WI and multi-sequence radiomics reached AUCs of 0.850, 0.875 and 0.933. The integrated model achieved the highest AUC (0.942) and significantly outperformed the clinical model (P = 0.040)."
+        },
+        {
+          "t": "p",
+          "x": "The model helps guide individualized decision-making, reduce ineffective radiotherapy, and advance personalized management for thyroid eye disease, supporting individualized risk stratification after prospective validation."
+        }
+      ]
+    },
+    "medicine/fda-telesurgery-autonomy-paper": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
+          "cap": "Dr. Vipul Patel (right), a Florida-based urologist who has performed telesurgeries, speaks with a patient in a hospital corridor."
+        },
+        {
+          "t": "p",
+          "x": "The Food and Drug Administration on Friday issued a discussion paper on robotic medical devices with autonomous or remote teleoperation capabilities and is requesting feedback on the systems’ benefits and risks. Comments are due Jan. 5; a public workshop is scheduled for Dec. 2-3."
+        },
+        {
+          "t": "p",
+          "x": "In the U.S., no remotely teleoperated or fully autonomous robotic devices have received marketing authorization as of July, the FDA said. In October, Dr. Vipul Patel performed a robotic prostatectomy on a patient about 35 miles away under an investigational device exemption."
+        },
+        {
+          "t": "p",
+          "x": "Manufacturers are also exploring autonomous functions, which could include obtaining a blood draw without a phlebotomist and finding or stopping life-threatening bleeding inside the body. Rapid advances in artificial intelligence, machine learning and connectivity are driving expansion of robotic applications, the FDA said."
+        },
+        {
+          "t": "p",
+          "x": "Autonomy could support procedural accuracy, reproducibility or workflow efficiency, but distinct risks such as incorrect autonomous execution, reduced user vigilance and limited adaptability to procedural variability may accompany the benefits."
+        }
+      ]
+    },
+    "medicine/science-ai-paper-error-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.science.org/do/10.1126/science.zrukrlb/rss/_20261102_ai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "New findings demonstrate AI’s aptitude for identifying technical flaws in studies where medical decisions are on the line."
+        },
+        {
+          "t": "p",
+          "x": "The study, a medRxiv preprint titled “Large language models detect methodological errors that human peer review misses in clinical trials,” revisited an earlier experiment in which errors were inserted into three reports of randomized clinical trials; untrained human reviewers achieved a mean major-error detection score of 27%."
+        },
+        {
+          "t": "p",
+          "x": "Fifteen large language models, including four open-weight models, were tested on the same errors. Their major-error detection scores ranged from 53% to 96%. To reduce the risk of memorization, the test was repeated on three clinical trials published in 2026, where scores ranged from 51% to 99%, and from 66% to 87% for the open-weight models."
+        },
+        {
+          "t": "p",
+          "x": "The models still flagged 2% to 29% of the error types in control reports without inserted errors, most often conclusions not supported by the results. Opus 5.5 achieved the highest major-error detection score (99%), while GPT-6.1 Sol and GPT-6 Luna scored 92% and 87%. The authors suggest that relying on human peer review alone may leave avoidable methodological errors undetected."
+        }
+      ]
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "section": "music",
   "items": [
     {
@@ -7,65 +7,65 @@
       "accent": "#ff2d55",
       "motif": "sphere",
       "category": "music",
-      "title": "Apple's $50 Intelligence Usage Packs extend access to some AI features",
-      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "title": "Spotify DJ gets new voices, and the ability to stop yammering",
+      "url": "https://www.theverge.com/entertainment/1030682/spotify-dj-gets-new-voices-and-the-ability-to-stop-yammering",
       "source": "The Verge",
-      "published_iso": "2026-11-09T19:09:58+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/logicpro.jpg?quality=90&strip=all&crop=0%2C10.742998834307%2C100%2C78.514002331385&w=1200",
-      "excerpt": "Instead of a subscription tier, Apple now sells $50 packs of extra AI usage credits for Creator Studio apps, including Logic Pro's AI assistant once the monthly limit is hit.",
-      "rationale": "New pricing release: Logic Pro's AI assistant is now metered, and $50 packs buy more use. That changes the cost of producing in Logic, and the brief assigns this story to music."
+      "published_iso": "2026-11-10T14:00:00+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23985252/VRG_Illo_STK130_K_Radtke_Spotify_Podcast_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Spotify's AI DJ adds eight more English voices in various accents and two Spanish voices, plus an option to turn off the commentary entirely.",
+      "rationale": "New feature release on the biggest streaming platform: ten new AI DJ voices and an option to turn the commentary off change how listeners use the AI DJ."
     },
     {
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
       "category": "music",
-      "title": "듀스, 31년 만의 정규 4집 21일 발매…프로듀싱 이현도·AI로 되살린 김성재 '완전체'",
-      "url": "https://www.newsis.com/view/NISX20261109_0003859608",
-      "source": "Newsis",
-      "published_iso": "2026-11-09T15:23:13+09:00",
-      "og_image": "https://img1.newsis.com/2026/11/09/NISI20261109_0002286206_web.jpg",
-      "excerpt": "1990s hip-hop duo DEUX releases its first studio album in 31 years on Nov 21, produced by Lee Hyun-do, with the late Kim Sung-jae's voice recreated using AI to reunite the full duo.",
-      "rationale": "A major K-pop release brings back a late member's voice with AI. It is a concrete, high-profile case of how the industry handles posthumous AI voices."
-    },
-    {
-      "tool": "Music",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "category": "music",
-      "title": "Waves Releases ILLUGEN 2.5",
-      "url": "https://sonicstate.com/news/2026/11/09/waves-releases-illugen-25-/",
-      "source": "Sonicstate",
-      "published_iso": "2026-11-09T01:01:00Z",
-      "og_image": "https://ww2.sonicftp.com/news/images/44850_851.jpg",
-      "excerpt": "Waves' AI text-to-sample generator ILLUGEN 2.5 arrives as a plugin version with deep Cubase 16 integration, generating one-shots and loops inside the DAW.",
-      "rationale": "New tool release: an AI text-to-sample generator now works as a plugin inside the DAW, so producers can use it in their sessions right away."
+      "title": "VSL introduce Vienna Performer",
+      "url": "https://www.soundonsound.com/news/vsl-introduce-vienna-performer",
+      "source": "Sound On Sound",
+      "published_iso": "2026-11-09T22:00:54+00:00",
+      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/v/vsl_vienna_performer-Nj9YOFE1ckerhcy7er5oSPwfFWVuu.IO.jpg",
+      "excerpt": "Vienna Symphonic Library's Vienna Performer is an AI-powered plugin that takes a user's MIDI part and renders it with modelled phrasing, bowing, breath, vibrato and timing; models were trained only on VSL's own Synchron Stage recordings and there is no generative note output.",
+      "rationale": "New plugin release: AI performs the composer's own MIDI with realistic phrasing instead of writing notes, and it was trained only on VSL's own recordings. Orchestral mock-up work changes from tomorrow."
     },
     {
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
       "category": "music",
-      "title": "SPDMX: Large-Scale Open Stem Audio From Symbolic Music",
-      "url": "https://arxiv.org/abs/2611.09140",
-      "source": "arXiv",
-      "published_iso": "2026-11-06T08:14:47Z",
-      "og_image": null,
-      "excerpt": "Researchers release a large open multitrack stem-audio dataset rendered from symbolic music, sidestepping copyright limits on redistributing training audio for music AI tasks.",
-      "rationale": "A new open dataset of training audio that is cleared of copyright problems. It speaks to the training-data fight running through the lawsuits."
+      "title": "NeuTone Launches NeuSynth, an AI Stem Generator That Creates New Instrument Layers from 60 Seconds of Audio in Your DAW",
+      "url": "https://mixing.co.kr/en/44340",
+      "source": "Monthly Mixing (mixing.co.kr)",
+      "published_iso": "2026-11-10T16:44:30+09:00",
+      "og_image": "https://mmagimg.speedgabia.com/2026/11/img-1794286888307-287c615a239e2285.webp",
+      "excerpt": "Korean AI audio startup NeuTone announced NeuSynth, an in-DAW plugin that analyses about 60 seconds of a track and generates new instrument stem layers that fit it.",
+      "rationale": "New in-DAW tool: it generates matching instrument stems from a minute of a track, so producers can add layers inside their sessions."
+    },
+    {
+      "tool": "Music",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "category": "music",
+      "title": "존박·곽진언 '맥도날드 주문 랩', 해외 음원 플랫폼에 무단 등록…작사·작곡자도 제3자",
+      "url": "https://www.newsis.com/view/NISX20261110_0003862456",
+      "source": "Newsis",
+      "published_iso": "2026-11-10T16:50:40+09:00",
+      "og_image": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288144_web.jpg",
+      "excerpt": "John Park and Kwak Jin-eon's viral 'McDonald's order rap' was uploaded to Spotify and YouTube Music by an unknown act with third-party credits, with an added rap in a John Park-like voice raising suspicion of generative-AI voice cloning.",
+      "rationale": "A new, concrete case of a viral clip hijacked onto streaming services with a suspected AI voice clone and false credits. It shows the distribution-fraud risk artists face."
     },
     {
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "category": "music",
-      "title": "TubeTube, 가사·이야기 입력하면 15분 만에 AI 영상 완성…작곡부터 편집까지 자동화",
-      "url": "https://www.startupn.kr/news/articleView.html?idxno=60609",
-      "source": "StartupN",
-      "published_iso": "2026-11-09T10:22:35+09:00",
-      "og_image": "https://cdn.startupn.kr/news/thumbnail/202611/60609_62470_228_v150.jpg",
-      "excerpt": "Korean AI video service TubeTube launches an integrated tool that turns lyrics or a story into a finished video in about 15 minutes, automating composition, vocals, storyboard, images and editing.",
-      "rationale": "New product launch: one Korean tool now goes from lyrics to a finished song and music video, composing and singing as well as editing. That lowers the cost of a release-ready track for small acts."
+      "title": "AI-music labelling 'can't be just the platforms' says RIAA boss",
+      "url": "https://musically.com/2026/11/10/ai-music-labelling-cant-be-just-the-platforms-says-riaa-boss/",
+      "source": "Music Ally",
+      "published_iso": "2026-11-10T13:30:00+00:00",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-24T123959.252.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "RIAA chief Mitch Glazier told The Verge's Decoder that labelling AI music can't fall only on DSPs, outlining the industry's view on disclosure and voice rights.",
+      "rationale": "The US label body sets out its position that AI-music disclosure must go beyond the streaming platforms. That shapes who will carry the labelling burden next."
     }
   ],
   "picks": [
@@ -74,95 +74,95 @@
       "accent": "#ff2d55",
       "motif": "sphere",
       "category": "music",
-      "title": "Apple's $50 Intelligence Usage Packs extend access to some AI features",
-      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "title": "Spotify DJ gets new voices, and the ability to stop yammering",
+      "url": "https://www.theverge.com/entertainment/1030682/spotify-dj-gets-new-voices-and-the-ability-to-stop-yammering",
       "source": "The Verge",
-      "published_iso": "2026-11-09T19:09:58+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/logicpro.jpg?quality=90&strip=all&crop=0%2C10.742998834307%2C100%2C78.514002331385&w=1200",
-      "excerpt": "Instead of a subscription tier, Apple now sells $50 packs of extra AI usage credits for Creator Studio apps, including Logic Pro's AI assistant once the monthly limit is hit.",
-      "rationale": "New pricing release: Logic Pro's AI assistant is now metered, and $50 packs buy more use. That changes the cost of producing in Logic, and the brief assigns this story to music."
+      "published_iso": "2026-11-10T14:00:00+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23985252/VRG_Illo_STK130_K_Radtke_Spotify_Podcast_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Spotify's AI DJ adds eight more English voices in various accents and two Spanish voices, plus an option to turn off the commentary entirely.",
+      "rationale": "New feature release on the biggest streaming platform: ten new AI DJ voices and an option to turn the commentary off change how listeners use the AI DJ."
     },
     {
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
       "category": "music",
-      "title": "듀스, 31년 만의 정규 4집 21일 발매…프로듀싱 이현도·AI로 되살린 김성재 '완전체'",
-      "url": "https://www.newsis.com/view/NISX20261109_0003859608",
-      "source": "Newsis",
-      "published_iso": "2026-11-09T15:23:13+09:00",
-      "og_image": "https://img1.newsis.com/2026/11/09/NISI20261109_0002286206_web.jpg",
-      "excerpt": "1990s hip-hop duo DEUX releases its first studio album in 31 years on Nov 21, produced by Lee Hyun-do, with the late Kim Sung-jae's voice recreated using AI to reunite the full duo.",
-      "rationale": "A major K-pop release brings back a late member's voice with AI. It is a concrete, high-profile case of how the industry handles posthumous AI voices."
-    },
-    {
-      "tool": "Music",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "category": "music",
-      "title": "Waves Releases ILLUGEN 2.5",
-      "url": "https://sonicstate.com/news/2026/11/09/waves-releases-illugen-25-/",
-      "source": "Sonicstate",
-      "published_iso": "2026-11-09T01:01:00Z",
-      "og_image": "https://ww2.sonicftp.com/news/images/44850_851.jpg",
-      "excerpt": "Waves' AI text-to-sample generator ILLUGEN 2.5 arrives as a plugin version with deep Cubase 16 integration, generating one-shots and loops inside the DAW.",
-      "rationale": "New tool release: an AI text-to-sample generator now works as a plugin inside the DAW, so producers can use it in their sessions right away."
+      "title": "VSL introduce Vienna Performer",
+      "url": "https://www.soundonsound.com/news/vsl-introduce-vienna-performer",
+      "source": "Sound On Sound",
+      "published_iso": "2026-11-09T22:00:54+00:00",
+      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/v/vsl_vienna_performer-Nj9YOFE1ckerhcy7er5oSPwfFWVuu.IO.jpg",
+      "excerpt": "Vienna Symphonic Library's Vienna Performer is an AI-powered plugin that takes a user's MIDI part and renders it with modelled phrasing, bowing, breath, vibrato and timing; models were trained only on VSL's own Synchron Stage recordings and there is no generative note output.",
+      "rationale": "New plugin release: AI performs the composer's own MIDI with realistic phrasing instead of writing notes, and it was trained only on VSL's own recordings. Orchestral mock-up work changes from tomorrow."
     },
     {
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
       "category": "music",
-      "title": "SPDMX: Large-Scale Open Stem Audio From Symbolic Music",
-      "url": "https://arxiv.org/abs/2611.09140",
-      "source": "arXiv",
-      "published_iso": "2026-11-06T08:14:47Z",
-      "og_image": null,
-      "excerpt": "Researchers release a large open multitrack stem-audio dataset rendered from symbolic music, sidestepping copyright limits on redistributing training audio for music AI tasks.",
-      "rationale": "A new open dataset of training audio that is cleared of copyright problems. It speaks to the training-data fight running through the lawsuits."
+      "title": "NeuTone Launches NeuSynth, an AI Stem Generator That Creates New Instrument Layers from 60 Seconds of Audio in Your DAW",
+      "url": "https://mixing.co.kr/en/44340",
+      "source": "Monthly Mixing (mixing.co.kr)",
+      "published_iso": "2026-11-10T16:44:30+09:00",
+      "og_image": "https://mmagimg.speedgabia.com/2026/11/img-1794286888307-287c615a239e2285.webp",
+      "excerpt": "Korean AI audio startup NeuTone announced NeuSynth, an in-DAW plugin that analyses about 60 seconds of a track and generates new instrument stem layers that fit it.",
+      "rationale": "New in-DAW tool: it generates matching instrument stems from a minute of a track, so producers can add layers inside their sessions."
+    },
+    {
+      "tool": "Music",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "category": "music",
+      "title": "존박·곽진언 '맥도날드 주문 랩', 해외 음원 플랫폼에 무단 등록…작사·작곡자도 제3자",
+      "url": "https://www.newsis.com/view/NISX20261110_0003862456",
+      "source": "Newsis",
+      "published_iso": "2026-11-10T16:50:40+09:00",
+      "og_image": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288144_web.jpg",
+      "excerpt": "John Park and Kwak Jin-eon's viral 'McDonald's order rap' was uploaded to Spotify and YouTube Music by an unknown act with third-party credits, with an added rap in a John Park-like voice raising suspicion of generative-AI voice cloning.",
+      "rationale": "A new, concrete case of a viral clip hijacked onto streaming services with a suspected AI voice clone and false credits. It shows the distribution-fraud risk artists face."
     },
     {
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "category": "music",
-      "title": "TubeTube, 가사·이야기 입력하면 15분 만에 AI 영상 완성…작곡부터 편집까지 자동화",
-      "url": "https://www.startupn.kr/news/articleView.html?idxno=60609",
-      "source": "StartupN",
-      "published_iso": "2026-11-09T10:22:35+09:00",
-      "og_image": "https://cdn.startupn.kr/news/thumbnail/202611/60609_62470_228_v150.jpg",
-      "excerpt": "Korean AI video service TubeTube launches an integrated tool that turns lyrics or a story into a finished video in about 15 minutes, automating composition, vocals, storyboard, images and editing.",
-      "rationale": "New product launch: one Korean tool now goes from lyrics to a finished song and music video, composing and singing as well as editing. That lowers the cost of a release-ready track for small acts."
+      "title": "AI-music labelling 'can't be just the platforms' says RIAA boss",
+      "url": "https://musically.com/2026/11/10/ai-music-labelling-cant-be-just-the-platforms-says-riaa-boss/",
+      "source": "Music Ally",
+      "published_iso": "2026-11-10T13:30:00+00:00",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-24T123959.252.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "RIAA chief Mitch Glazier told The Verge's Decoder that labelling AI music can't fall only on DSPs, outlining the industry's view on disclosure and voice rights.",
+      "rationale": "The US label body sets out its position that AI-music disclosure must go beyond the streaming platforms. That shapes who will carry the labelling burden next."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro": {
-        "verdict": "follow-up",
-        "nearest": "https://www.engadget.com/2298428/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/",
-        "new_action": "Apple launches $50 Intelligence Usage Packs (paid extra AI credits for Creator Studio / Logic Pro's AI assistant) and Logic Pro 13 goes to public release. The 10-28 card covered only the Creator Studio feature announcement."
+      "https://www.theverge.com/entertainment/1030682/spotify-dj-gets-new-voices-and-the-ability-to-stop-yammering": {
+        "verdict": "new",
+        "nearest": "https://musically.com/2026/10/23/spotify-is-now-an-agent-co-ceo-outlines-companys-ai-plan/",
+        "new_action": ""
       },
-      "https://www.newsis.com/view/NISX20261109_0003859608": {
+      "https://www.soundonsound.com/news/vsl-introduce-vienna-performer": {
+        "verdict": "new",
+        "nearest": "https://musically.com/2026/10/20/just-4-noise-launches-ethically-trained-ai-kick-drum-generator/",
+        "new_action": ""
+      },
+      "https://mixing.co.kr/en/44340": {
+        "verdict": "new",
+        "nearest": "https://wowtale.net/2026/10/19/266499/",
+        "new_action": ""
+      },
+      "https://www.newsis.com/view/NISX20261110_0003862456": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://sonicstate.com/news/2026/11/09/waves-releases-illugen-25-/": {
+      "https://musically.com/2026/11/10/ai-music-labelling-cant-be-just-the-platforms-says-riaa-boss/": {
         "verdict": "new",
-        "nearest": "https://www.notebookcheck.net/Cubase-16-adds-six-part-stem-separation-and-AI-vocals.1442941.0.html",
-        "new_action": ""
-      },
-      "https://arxiv.org/abs/2611.09140": {
-        "verdict": "new",
-        "nearest": "https://arxiv.org/abs/2610.36715",
-        "new_action": ""
-      },
-      "https://www.startupn.kr/news/articleView.html?idxno=60609": {
-        "verdict": "new",
-        "nearest": "https://routenote.com/radar/tencent-musics-musicbuddy-combines-ai-music-creation-editing-distribution-and-promotion/",
+        "nearest": "https://www.thebureauinvestigates.com/stories/2026-10-15/spotify-ai-artist-badge-global-policy-after-bureau-investigation",
         "new_action": ""
       }
     },
-    "note": "SWAP (orchestrator cross-section check): removed Newsis 'Kiff' FIFTY FIFTY AI companion (NISX20261106_0003858524), which repeats the games-section story of 2026-11-04 (inews24 2021644, Krafton 'Kiff'). Replaced with StartupN TubeTube lyrics-to-song-and-video launch: no history_match, and no TubeTube story in the music 30-day history_digest. The nearest is a different company's product (Tencent MusicBuddy, 10-13). Also skipped in this swap: CDM Logic Pro 13 review (same story as the Verge pick), Billboard Grimes (assigned to movies), atstar1 AI MV contest (promotional contest), and Newspim K-pop AI feature (analysis). Orchestrator should exact-grep published_urls.json for the startupn idxno=60609 full URL and 'TubeTube' across sections (design/movies), since the query-string id collapses under norm_url. Original note: Dropped: CDM Logic Pro 13 review (same Apple Creator Studio/Logic AI story as the Verge pick; one per cluster). Billboard Grimes AI film (assigned to movies by the brief). DMN 'Human Enough?' AI-detector piece (analysis follow-up to DMN's 11-05 AI-detector false-positives card, no new event). BPB reader-poll results (follow-up to the 10-18 BPB poll card; results write-up, not a new release). Newspim K-pop AI-track feature (analysis overlapping the 10-18 Suno Korea hit and 11-08 K-pop AI meme cards). Deprioritized, not duplicates: Dr. Dre and The Edge quotes (commentary), DMN attribution explainer, arXiv attribution and Latent Terrain papers (one arXiv per brief), Tuned anti-AI-slop bundle (AI incidental), atstar1 AI MV contest and TubeTube (minor/promotional). Cross-section: published_urls.json could not be exact-grepped in this agent (Read-only tools). None of the picks matched anything in the music history_digest, and the brief assigns the Apple usage-packs story to music. Orchestrator should confirm no other section published these URLs."
+    "note": "Dropped as duplicates or follow-ups with no new event: CDM Logic Pro 13 hands-on and MusicRadar Logic Pro 13 subscription piece (same Apple Creator Studio / Logic Pro 13 release story already published 11-10 via The Verge usage-packs card; review and analysis only). DMN Spotify remix-tool backlash (reactions to the 11-02 DMN Spotify AI cover/remix tool card). DMN 'Human Enough?' AI-detector piece (analysis follow-up to the 11-05 DMN false-positives card; it was also dropped on 11-10). Guardian Albanese opinion piece (commentary on the 11-09 Guardian Australia AI-copyright card). IT Chosun platform AI-slop roundup (overlaps the 10-21 Spotify 50M removal and 10-14 Deezer cards; no new event). Deprioritized, not duplicates: Dr Dre and Ice Cube podcast clash, Nick Cave Red Hand Files post (commentary); Register AI Slop FM (offbeat); Yonhap Shakespeare AI album and IITERNITI single (minor or promotional; Yonhap has no og_image); MyPart (press-wire release); OtakuKart Japan IP.AI (low-credibility outlet and cross-media, so other sections could also claim it); arXiv inpainting and Latent Terrain papers; Suno Daily Song Challenge (coinreaders is a weak source); Maono mic (AI incidental). Cross-section: I could not exact-grep published_urls.json (Read-only tools). The gadgets block I scanned has no cdm/musictech/soundonsound entries, and every pick postdates the 11-10 publish except VSL (11-09 22:00Z, music-only trade outlet). The orchestrator should exact-grep the newsis NISX20261110_0003862456 and Verge 1030682 URLs, and check that gadgets did not take Spotify DJ today."
   }
 }

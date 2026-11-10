@@ -1,142 +1,160 @@
 {
-  "section": "games",
-  "now_iso": "2026-11-09T22:02:53Z",
-  "window_hours": 336,
-  "items": [
-    {
-      "title": "Nintendo's legendary Kirby designer Masahiro Sakurai weighs in on gen-AI, saying \"it has yet to gain my trust\" but not to reject it completely",
-      "url": "https://www.eurogamer.net/masahiro-sakurai-generative-ai-famitsu",
-      "source": "Eurogamer",
-      "category": "games",
-      "published_iso": "2026-11-09T14:35:20+00:00",
-      "excerpt": "At a Famitsu 40th-anniversary stage event, Super Smash Bros. creator Masahiro Sakurai said he does not use generative AI and it has yet to earn his trust, but warned that refusing it outright could leave developers behind in an over-demanding industry.",
-      "og_image": "https://assetsio.gnwcdn.com/Kirby-Air-Riders-Direct-8.19.2025-27-3-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-    },
-    {
-      "title": "Super Smash Bros. Creator Masahiro Sakurai Cautions Against The Use Of Gen AI: 'We Can Come Up With Better Ideas'",
-      "url": "https://kotaku.com/super-smash-bros-creator-masahiro-sakurai-cautions-against-the-use-of-gen-ai-we-can-come-up-with-better-ideas-2000754922",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-11-09T12:00:03+00:00",
-      "excerpt": "Sakurai says generative AI is not ready for adoption in his work and must not become exploitation, but fears developers may have no choice but to use it on future games. (Same story as the Eurogamer item - alternate source.)",
-      "og_image": "https://kotaku.com/app/uploads/2026/11/Kirby-Air-Riders-1200x675.jpg"
-    },
-    {
-      "title": "Google AI developer's unauthorized iPhone Duo port of the Zelda: Ocarina of Time remake, made with Gemini 4, draws backlash and is deleted",
-      "url": "https://automaton-media.com/articles/newsjp/20261109-478221/",
-      "source": "AUTOMATON",
-      "category": "games",
-      "published_iso": "2026-11-09T04:35:23+00:00",
-      "excerpt": "Google employee Ammaar Reshi posted on 11-07 that he had used Gemini 4 to get Nintendo's full Ocarina of Time remake running on iPhone Duo; the post drew criticism over engineering ethics and IP and has since been deleted.",
-      "og_image": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg"
-    },
-    {
-      "title": "구글 AI 총괄, 젤다 신작 아이폰에 '무단 이식'...뭇매에 삭제",
-      "url": "http://www.gamey.kr/news/articleView.html?idxno=3019597",
-      "source": "GameY",
-      "category": "games",
-      "published_iso": "2026-11-09T19:08:08+09:00",
-      "excerpt": "Korean coverage of the Google AI lead who used Google's AI coding tools to port Nintendo's new Ocarina of Time remake to iPhone without permission, then deleted the post after backlash. (Same story as AUTOMATON - alternate source.)",
-      "og_image": "https://cdn.gamey.kr/news/thumbnail/202611/3019597_173700_5314_v150.jpg"
-    },
-    {
-      "title": "完全オフライン、無制限、53言語対応。「日本発の翻訳AI」無償公開から数日、ゲーマー向けツールも続々登場",
-      "url": "http://www.gamespark.jp/article/2026/11/09/174651.html",
-      "source": "Game*Spark",
-      "category": "games",
-      "published_iso": "2026-11-09T14:20:35+09:00",
-      "excerpt": "Days after Preferred Networks released its free, fully offline translation model PLaMo 3 Translate (53 languages, no usage limits), developers are releasing gamer-facing translation tools built on it.",
-      "og_image": "https://www.gamespark.jp/imgs/ogp_f/1217054.png"
-    },
-    {
-      "title": "NVIDIA's Lyra 2.0 Turns a Single Image Into an Explorable 3D World, With Persistent Environments and Real-Time Rendering",
-      "url": "https://wccftech.com/nvidias-lyra-2-0-turns-a-single-image-into-an-explorable-3d-world-with-persistent-environments-and-real-time-rendering/",
-      "source": "Wccftech",
-      "category": "games",
-      "published_iso": "2026-11-09T13:10:03+00:00",
-      "excerpt": "NVIDIA's Lyra 2.0 generates an explorable, persistent 3D world from a single image by combining AI video generation, spatial memory and 3D reconstruction, rendered in real time - a new world-model version aimed at environment creation.",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-18.jpg"
-    },
-    {
-      "title": "AMDLSS5 2.0 Brings Faster DLSS 5 Neural Rendering to Radeon GPUs, Claims 64% Higher FPS",
-      "url": "https://wccftech.com/amdlss5-2-0-brings-faster-dlss-5-neural-rendering-to-radeon-gpus-claims-64-higher-fps/",
-      "source": "Wccftech",
-      "category": "games",
-      "published_iso": "2026-11-09T12:32:25+00:00",
-      "excerpt": "A community mod, AMDLSS5 2.0, ports NVIDIA's DLSS 5 neural-rendering pass to AMD Radeon GPUs, claiming 64% higher FPS than competing mods and adding support for more games.",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI.jpeg"
-    },
-    {
-      "title": "Jackbox Games isn't interested in AI development: 'All that is done by people, and we have no intention of changing that'",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/",
-      "source": "PC Gamer",
-      "category": "games",
-      "published_iso": "2026-11-08T22:06:56+00:00",
-      "excerpt": "Jackbox CEO Mike Bilder says the studio's comedy, writing and art will stay human-made and it has no intention of replacing people or people-made editorial and art with generative assets, while allowing AI's use for tooling and research.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo-1280-80.png"
-    },
-    {
-      "title": "최석원 컴투스플랫폼 대표 \"'하이브 액실'로 글로벌 공략⋯백엔드 연동 AI로 처리\"",
-      "url": "https://www.inews24.com/view/2023215",
-      "source": "iNews24",
-      "category": "games",
-      "published_iso": "2026-11-09T09:00:00+09:00",
-      "excerpt": "Com2uS Platform says its game backend Hive Axel is built so AI agents can read it and wire up login, payments and other backend integration with almost no human intervention; Unreal, Godot and HTML5 support follows in early 2027.",
-      "og_image": "https://image.inews24.com/v1/1172ca4df059ce.jpg"
-    },
-    {
-      "title": "스팀 리뷰 1,900만 건 분석, 게임 속 AI 긍정 평가 요인은?",
-      "url": "https://www.gamemeca.com/view.php?gid=1783157",
-      "source": "GameMeca",
-      "category": "games",
-      "published_iso": "2026-11-09T10:02:07+09:00",
-      "excerpt": "Nexon's AI division analysed about 19.37 million Steam user reviews to find when players accept AI inside games, winning a best-paper award at IEEE ICTAI 2026; Nexon is building a pre-launch check of player reaction to in-game AI features.",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/783/157/gm754917_261109-risell-uu1.webp"
-    },
-    {
-      "title": "AI에 게임 도둑 맞았습니다",
-      "url": "https://www.gamemeca.com/view.php?gid=1782926",
-      "source": "GameMeca",
-      "category": "games",
-      "published_iso": "2026-11-04T16:41:39+09:00",
-      "excerpt": "As coding AI makes cloning indie games trivial, solo-developed Slotbound was copied as a mini-game on a large Chinese platform before launch; the developer describes the takedown struggle across overseas platforms.",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/782/926/gm490345_3463737.webp"
-    },
-    {
-      "title": "Artists at the center: How InnoGames integrated gen AI into its art pipeline",
-      "url": "https://mobidictum.com/gen-ai-artists-innogames-pipeline/",
-      "source": "Mobidictum",
-      "category": "games",
-      "published_iso": "2026-11-09T12:28:45+03:00",
-      "excerpt": "In a guest article, InnoGames head of art Dario Berruti explains how the studio integrated generative AI into its game-art production workflows while keeping artists at the center. (Off-list source: design-relevant art-pipeline story not found on allowed outlets.)",
-      "og_image": "https://mobidictum.com/wp-content/uploads/2026/11/InnoGames_on_AI_Dario-Berruti_1280x720.png"
-    },
-    {
-      "title": "Petit Planet devs talk multiplayer, monetization, AI, and... Clarkson's Farm?",
-      "url": "https://www.pockettactics.com/petit-planet/interview",
-      "source": "Pocket Tactics",
-      "category": "games",
-      "published_iso": "2026-11-09T01:00:32Z",
-      "excerpt": "HoYoverse's Petit Planet leads discuss the game's AI NPC system, which remembers each player's conversation history to give personalised interactions, ahead of its 12-04 global launch. (Off-list source: allowed-outlet previews omit the AI NPC detail.)",
-      "og_image": "https://www.pockettactics.com/wp-content/sites/pockettactics/2026/11/petit-planet-interview.jpg"
-    },
-    {
-      "title": "コード非公開のWebサイト・アプリ・ゲームを解析し、AIが類似版を生成する無料ツール「Craft Anything」",
-      "url": "https://www.techno-edge.net/article/2026/11/09/5686.html",
-      "source": "TechnoEdge",
-      "category": "games",
-      "published_iso": "2026-11-09T06:56:37+09:00",
-      "excerpt": "Open-source tool Craft Anything analyses closed-source websites, apps and games and uses AI to generate a working look-alike, including a mode that reads internal code - sharpening the AI game-clone debate. (Off-list source.)",
-      "og_image": "https://www.techno-edge.net/imgs/ogp_f/35384.jpg"
-    },
-    {
-      "title": "GamesBeat Next: Rod Humble and Luke Dicken size up AI's real impact on game development",
-      "url": "https://gamesbeat.com/gamesbeat-next-rod-humble-and-luke-dicken-size-up-ais-real-impact-on-game-development/",
-      "source": "GamesBeat",
-      "category": "games",
-      "published_iso": "2026-11-09T19:43:34+00:00",
-      "excerpt": "Megastructure CEO Rod Humble and former Take-Two head of AI Luke Dicken agreed on more than expected about AI in game development but split on how fast developers should adopt new tools.",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3863.jpg"
-    }
-  ]
+ "section": "games",
+ "now_iso": "2026-11-10T22:00:35Z",
+ "window_hours": 336,
+ "items": [
+  {
+   "title": "Unreal Engine 5.9 Preview Is Out & It Was Built With AI",
+   "url": "https://80.lv/articles/unreal-engine-5-9-preview-is-out-it-was-built-with-ai/",
+   "source": "80 Level",
+   "category": "games",
+   "published_iso": "2026-11-10T08:24:00+00:00",
+   "excerpt": "Epic's UE 5.9 Preview ships AI workflow enhancements (agent tools, Unreal Canvas generation) plus web platform, rendering and animation updates; Epic says the preview itself was built largely with AI.",
+   "og_image": "https://cdn.80.lv/api/upload/meta/50957/images/6af2d4ad241ac/contain_1200x630.jpg"
+  },
+  {
+   "title": "AI機能フル投入の「Unreal Engine 5.9」プレビュー版が配信開始。「UE6」を前に、“AIフレンドリー”なゲームエンジンへと様変わり",
+   "url": "https://automaton-media.com/articles/newsjp/20261110-478512/",
+   "source": "AUTOMATON",
+   "category": "games",
+   "published_iso": "2026-11-10T11:54:44+00:00",
+   "excerpt": "Epic released the Unreal Engine 5.9 MegaJam Preview on Nov 10, loading the editor with AI features ahead of UE6 and reshaping it into an 'AI-friendly' engine.",
+   "og_image": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478512-header.jpg"
+  },
+  {
+   "title": "Unreal Engineに生成AI機能が続々。「Unreal Canvas」搭載の5.9プレビュー版が公開",
+   "url": "http://www.gamespark.jp/article/2026/11/10/174714.html",
+   "source": "Game*Spark",
+   "category": "games",
+   "published_iso": "2026-11-10T19:30:03+09:00",
+   "excerpt": "UE 5.9 Preview, released for the Epic AI MegaJam, adds Unreal Canvas, which generates images and 3D asset ideas from the scene in progress; Epic says AI was used to build the preview.",
+   "og_image": "https://www.gamespark.jp/imgs/ogp_f/1217868.png"
+  },
+  {
+   "title": "House House clarifies use of AI tools in Big Walk's \"final stage of development\"",
+   "url": "https://www.gamesindustry.biz/house-house-clarifies-use-of-ai-tools-in-big-walks-final-stage-of-development",
+   "source": "GamesIndustry.biz",
+   "category": "games",
+   "published_iso": "2026-11-10T09:07:50+00:00",
+   "excerpt": "House House issued a statement on AI tool use in Big Walk after a group of 2027 IGF jurors said they would decline to vote for games that used generative AI during development.",
+   "og_image": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+   "title": "Under pressure, Big Walk developer House House apologises for using generative AI",
+   "url": "https://www.eurogamer.net/house-house-big-walk-generative-ai-development",
+   "source": "Eurogamer",
+   "category": "games",
+   "published_iso": "2026-11-10T10:51:40+00:00",
+   "excerpt": "Big Walk, one of 2026's indie standouts, was made with limited help from generative AI; the studio says it used LLMs sparingly for bug fixing without an internal policy and calls that a mistake.",
+   "og_image": "https://assetsio.gnwcdn.com/big-walk-house-house.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+   "title": "Big Walk AI Controversy Is a GOTY Awards Twist Sparking a Bigger Debate",
+   "url": "https://www.polygon.com/big-walks-ai-controversy-goty-2026/",
+   "source": "Polygon",
+   "category": "games",
+   "published_iso": "2026-11-10T19:25:34Z",
+   "excerpt": "The Big Walk disclosure and IGF jury stance turn awards season into a test of where the industry draws the line on generative-AI use in development.",
+   "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/big-walk.png?w=1600&h=900&fit=crop"
+  },
+  {
+   "title": "Some IGF Jurors Are 'Declining To Vote For Any Game That Uses Generative AI In Any Capacity'",
+   "url": "https://aftermath.site/igf-awards-2027-ai-statement-judges/",
+   "source": "Aftermath",
+   "category": "games",
+   "published_iso": "2026-11-09T23:28:20.000Z",
+   "excerpt": "A group of IGF 2027 jurors published a statement refusing to vote for any game that used generative AI in development, the trigger for the Big Walk disclosure.",
+   "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/11/Untitled-4.jpg"
+  },
+  {
+   "title": "ゲーム日本語化ツール「PCOT」次のアプデで開発終了へ。AIの進化で“セルフ直接日本語化”の未来が見えたため",
+   "url": "https://automaton-media.com/articles/newsjp/20261110-478520/",
+   "source": "AUTOMATON",
+   "category": "games",
+   "published_iso": "2026-11-10T13:49:45+00:00",
+   "excerpt": "Solo developer nurupo is ending the long-running game translation-assist tool PCOT after its next update, saying AI has made players' self-service direct Japanese localization the future.",
+   "og_image": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-header.jpg"
+  },
+  {
+   "title": "ゲーム向け翻訳支援ツール「PCOT」開発終了へ。AIを使ってプレイヤー自身で日本語化する未来が見えたため",
+   "url": "http://www.gamespark.jp/article/2026/11/11/174727.html",
+   "source": "Game*Spark",
+   "category": "games",
+   "published_iso": "2026-11-11T06:00:03+09:00",
+   "excerpt": "The game translation-assist tool PCOT will end development with its current update, as its creator sees AI letting players localize games into Japanese themselves.",
+   "og_image": "https://www.gamespark.jp/imgs/ogp_f/1217970.jpg"
+  },
+  {
+   "title": "Educational game dev program cancelled because students were submitting games made entirely with AI",
+   "url": "https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai/",
+   "source": "PC Gamer",
+   "category": "games",
+   "published_iso": "2026-11-10T16:59:19Z",
+   "excerpt": "An educational game-development program was cancelled because growing generative-AI use made it 'harder to judge what students made themselves.'",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X-2384-80.jpg"
+  },
+  {
+   "title": "'AMDLSS5' gets Nvidia's neural rendering running on AMD graphics cards",
+   "url": "https://www.pcgamer.com/hardware/graphics-cards/amdlss5-gets-nvidias-neural-rendering-running-on-amd-graphics-cards-and-claims-64-percent-better-performance-than-other-mods/",
+   "source": "PC Gamer",
+   "category": "games",
+   "published_iso": "2026-11-10T16:53:20Z",
+   "excerpt": "AMDLSS5 v2.0, a mod that runs Nvidia's machine-learning DLSS 5 neural rendering on AMD RX 9000-series GPUs, claims 64% better performance than earlier mods.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg"
+  },
+  {
+   "title": "Claude Fable 5.2 Builds Playable Gears of War: E-Day Clone From Three-Line Prompt",
+   "url": "https://wccftech.com/claude-fable-5-2-builds-playable-gears-of-war-e-day-clone-from-three-line-prompt-but-estimated-cost-reaches-15000/",
+   "source": "Wccftech",
+   "category": "games",
+   "published_iso": "2026-11-10T15:29:03+00:00",
+   "excerpt": "Claude Fable 5.2 built a playable Unreal Engine Gears of War clone from a three-line prompt, but the project consumed about 8.5 billion tokens.",
+   "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-24.jpg"
+  },
+  {
+   "title": "엔비디아 GPU에 국산 NPU 붙인다…'배그' AI 팀원이 보여준 추론 경쟁",
+   "url": "http://www.gamey.kr/news/articleView.html?idxno=3019599",
+   "source": "게임와이",
+   "category": "games",
+   "published_iso": "2026-11-10T08:49:21+09:00",
+   "excerpt": "At NVIDIA AI Day Seoul, NVIDIA paired its GPUs with Korean NPUs; the piece uses KRAFTON's on-PC PUBG AI teammate to show why inference latency and behaviour control now matter to players.",
+   "og_image": "http://www.gamey.kr/image/logo/snslogo_20261008015313.png"
+  },
+  {
+   "title": "최석원 컴투스플랫폼 대표 \"'하이브 액실'로 글로벌 공략⋯백엔드 연동 AI로 처리\"",
+   "url": "https://www.inews24.com/view/2023215",
+   "source": "아이뉴스24",
+   "category": "games",
+   "published_iso": "2026-11-09T09:00:00+09:00",
+   "excerpt": "Com2uS Platform's Hive Axil game backend is built to be AI-readable so agents can handle backend integration almost without humans; Unreal, Godot and HTML5 support expands in early 2027.",
+   "og_image": "https://image.inews24.com/v1/1172ca4df059ce.jpg"
+  },
+  {
+   "title": "10 tips for organizing your first video game project with AI",
+   "url": "https://unity.com/blog/how-to-organize-a-game-project-with-ai",
+   "source": "Unity",
+   "category": "games",
+   "published_iso": "2026-11-10T00:00:00+00:00",
+   "excerpt": "Unity's guide for building a game by prompting Unity Spark, its browser-based AI game-creation platform: design briefs, naming, checkpoints, prompt logs and playtesting, no code needed.",
+   "og_image": "https://cdn.sanity.io/images/fuvbjjlp/production/2330bde656908d3aad3b4b3181a276993cc9fd61-1200x675.png"
+  },
+  {
+   "title": "[인터뷰] AI 시대 인디게임 제작을 위한 요시다 슈헤이의 조언",
+   "url": "https://www.inven.co.kr/webzine/news/?news=323192",
+   "source": "인벤",
+   "category": "games",
+   "published_iso": "2026-11-10T11:49:33+09:00",
+   "excerpt": "Former PlayStation indie chief Shuhei Yoshida says AI can supplement scarce dev resources, visuals and localization for Korean indies, but new ideas and gameplay remain the creator's job.",
+   "og_image": "https://static.inven.co.kr/column/2026/11/10/news/i1090709310.jpg"
+  },
+  {
+   "title": "Ahead of GTA 6 and as concerns over genAI PC ports grow, Take-Two's CEO says they're revving up their \"technical defences\" and \"legal activites\"",
+   "url": "https://www.rockpapershotgun.com/ahead-of-gta-6-and-as-concerns-over-genai-pc-ports-grow-take-twos-ceo-says-theyre-revving-up-their-technical-defences-and-legal-activites-over-piracy",
+   "source": "Rock Paper Shotgun",
+   "category": "games",
+   "published_iso": "2026-11-10T19:59:40+00:00",
+   "excerpt": "Take-Two's Strauss Zelnick says the publisher is stepping up technical defences and legal action as AI-generated recompilations and unofficial PC ports threaten GTA 6.",
+   "og_image": "https://assetsio.gnwcdn.com/gta-6-grand-theft-auto-6-main-characters-hot-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  }
+ ]
 }

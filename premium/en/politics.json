@@ -5546,6 +5546,133 @@
           "x": "The White House didn't respond to specific questions about CAISSI, but said Trump had formally established his new Super Intelligence Force and will ensure \"continued U.S. leadership on SI for the benefit of the American people.\""
         }
       ]
+    },
+    "politics/eu-dsa-election-deepfake-guide": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2277811674.jpg",
+          "cap": "Vice-President of the European Commission and European Commissioner for Digital and Frontier Technologies Henna Virkkunen (Photo by Thierry Monasse/Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "The European Commission is revising election guidance for large online platforms under the Digital Services Act (DSA) to address risks posed by generative AI tools, warning that GenAI systems can amplify misleading or false content, especially during elections. The update arrives as several EU countries, including Spain and France, have national elections on the horizon."
+        },
+        {
+          "t": "p",
+          "x": "The draft asks very large online platforms (VLOPs) to adapt their terms and conditions in light of AI-generated content risks and properly enforce them, and to give users standard, easy-to-use interfaces to label AI-generated content, in line with the AI Act. This especially applies to AI deepfakes. Platforms must also give advertisers options to clearly label AI-generated content in election ads."
+        },
+        {
+          "t": "p",
+          "x": "The text warns that content impersonating public figures \"may constitute impersonation and violate individuals' personality rights\", and says takedown orders and notices concerning the impersonation of election candidates should be expedited. Where legality is unclear, platforms can apply \"less restrictive measures\" such as labels. Last month, Spain's prime minister Pedro Sánchez announced that his wife had filed a legal complaint over an AI-generated video impersonating her, which he said had been posted by the opposition People's Party (PP)."
+        }
+      ]
+    },
+    "politics/paris-call-ai-shutdown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2025/07/Digital-Europe-Map.jpg"
+        },
+        {
+          "t": "p",
+          "x": "On the eve of the Paris Peace Forum, representatives of eight countries, tech companies and civil-society organizations signed the \"Paris Call for AI Safety and Security,\" adopted on Nov. 9. As Le Monde reports, Sam Altman (OpenAI), Dario Amodei (Anthropic), Brad Smith (Microsoft), Arthur Mensch (Mistral AI), Yoshua Bengio and U.S. Treasury Secretary Scott Bessent joined during an online meeting with Emmanuel Macron. Germany didn't sign."
+        },
+        {
+          "t": "p",
+          "x": "The political self-commitment covers shared procedures for evaluating high-capability AI models, clearer developer accountability, and better information sharing on serious security incidents. The companies pledge to disclose known risks, support risk-proportionate independent audits, and set up shutdown mechanisms for models under their control. It sets neither deadlines nor sanctions."
+        },
+        {
+          "t": "p",
+          "x": "The agreement follows a string of incidents at major U.S. labs. In late September, U.S. President Donald Trump rejected any attempt to build a \"globalist\" oversight scheme for American AI models and on Oct. 10 ordered that major AI incidents be reported to U.S. agencies."
+        }
+      ]
+    },
+    "politics/pipc-anthropic-claude-probe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/28/PYH2026102813630001300_P4.jpg",
+          "cap": "Song Kyung-hee, chair of the Personal Information Protection Commission, speaks"
+        },
+        {
+          "t": "p",
+          "x": "South Korea's Personal Information Protection Commission (PIPC) has opened a formal investigation into a leak of account information belonging to Korean companies that use Claude, the generative artificial intelligence (AI) service of U.S.-based Anthropic."
+        },
+        {
+          "t": "p",
+          "x": "The PIPC said on the 10th that it had completed a preliminary review of Anthropic's report of a personal data leak and launched the investigation. Anthropic had earlier reported to the commission on the 31st of last month that information from about 100 Korean business accounts had leaked externally."
+        },
+        {
+          "t": "p",
+          "x": "The incident reportedly occurred when an outside security firm gained unauthorized access to Anthropic's internal systems. The Washington Post (WP) reported on the 26th of last month (local time) that U.S. security startup Cathedral had accessed Anthropic's internal systems by exploiting a vulnerability in external work software."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic reportedly told some customers that business contact details for enterprise Claude accounts, including account and organization IDs, names and email addresses, may have been exposed."
+        }
+      ]
+    },
+    "politics/reuters-genai-news-survey-2026": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Reuters Institute's \"Generative AI and News Report 2026\" surveyed audiences across nine countries. Use of conversational AI such as ChatGPT, Claude and Gemini keeps growing: 51% of respondents across the six countries with past data now use AI weekly (49% in the U.S.). 57% saw AI-generated answers or summaries in search in the last week."
+        },
+        {
+          "t": "img",
+          "src": "https://www.niemanlab.org/images/GenAI-2026.-Embedded-in.png"
+        },
+        {
+          "t": "p",
+          "x": "AI agents haven't broken into the mainstream: 67% had not used one in the last week. Getting information is the most common use (38%, up from 24% in 2025), and 9% across six core countries use AI for news, up from 6%. Convenience (64%) is the main reason people use AI; only 21% said they get more reliable information from it."
+        },
+        {
+          "t": "img",
+          "src": "https://www.niemanlab.org/images/GenAI-2026.-Uses-last-week.png"
+        },
+        {
+          "t": "p",
+          "x": "Attitudes toward AI in journalism remain entrenched and negative: just 12% are comfortable with news made entirely by AI, rising to 19% with some human oversight."
+        },
+        {
+          "t": "img",
+          "src": "https://www.niemanlab.org/images/GenAI-2026.-Comfort-with-AI-news.png"
+        }
+      ]
+    },
+    "politics/politics-norway-statnett-datacentre-pause": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2249621507-1182x788.jpg",
+          "cap": "A woman holding a protest sign against a local data centre development [Jim West/UCG/Universal Images Group via Getty Images]"
+        },
+        {
+          "t": "p",
+          "x": "Data centre applications are being suspended for a year, the Norwegian high-voltage grid operator Statnett has announced, with pending connection requests already threatening a tenfold increase of server capacity across the country."
+        },
+        {
+          "t": "p",
+          "x": "Norway is home to 800 megawatts (MW) of data centre capacity, but 4,200 MW of new projects have already received planning permission, and a further 9100 MW are pending approval. Projects already in the pipeline would increase the country’s electricity demand by 50% from the current 25,000 MW, Stattnett warned."
+        },
+        {
+          "t": "p",
+          "x": "The one-year pause gives the government time “to gain more control over the growth of data centres and ensure that we get the data centres we actually need,” Minister for Digitalisation Torgeir Micaelsen said on Monday."
+        },
+        {
+          "t": "p",
+          "x": "Oslo is planning a data centre licensing scheme – mirroring similar efforts in Brussels to decide which projects are ‘good’ – and is considering a system of state ownership, the government said in a statement. Cryptocurrency mining schemes will be considered socially detrimental, public broadcaster NRK reports."
+        },
+        {
+          "t": "p",
+          "x": "The grid operator emergency brake does not, however, prohibit data centres from generating their own power by burning gas produced in the petroleum-rich country."
+        },
+        {
+          "t": "p",
+          "x": "Norway is only the latest European country to push back against centres. Denmark, for example, has pushed them to the back of the grid access queue, behind hospitals, car-charging stations, and households. Portugal is demanding that operators invest in fresh renewable energy capacity to power new server farms."
+        }
+      ]
     }
   }
 }

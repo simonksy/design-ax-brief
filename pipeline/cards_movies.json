@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "section": "movies",
   "cards": [
     {
-      "id": "disney-adobe-firefly-foundry",
+      "id": "premiere27-colormode-mcp",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Disney, Adobe와\nIP 학습 AI 모델 개발",
-      "body": "Adobe가 Disney와 함께 IP 기반 AI 모델과 스케치 도구를 만든다.",
-      "mini_headline": "Disney, AI 파트너로 Adobe 낙점",
+      "headline": "Premiere 컬러 모드\n정식판, MCP 2027년",
+      "body": "Color Mode는 MAX 2026에서 정식판이 됐고 MCP는 2027년 온다.",
+      "mini_headline": "Premiere Color Mode·MCP",
       "tool": "Movies",
-      "source": "Cartoon Brew",
-      "url": "https://www.cartoonbrew.com/artificial-intelligence/disney-adobe-generative-ai-partnership-269226.html",
+      "source": "RedShark News",
+      "url": "https://www.redsharknews.com/adobe-max-2026-premiere-color-mode-mcp",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,179 +19,227 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
-            "cap": "Princess and the Frog"
+            "src": "https://www.redsharknews.com/hubfs/adobe%20max-3.jpg"
           },
           {
             "t": "p",
-            "x": "Disney가 다음 대형 AI 파트너를 정했다. 이번엔 Adobe다. 다년 제휴를 맺고 사업 전반의 창작 파이프라인에 맞춤형 생성형 AI 모델을 들여온다. 손으로 그린 스케치를 완성도 높은 렌더링 콘셉트 아트로 바꾸는 도구도 여기 들어간다."
+            "x": "Premiere의 Color Mode가 베타 딱지를 뗐다. 2027년 초부터는 Adobe의 MCP 연동으로 서드파티 에이전트가 네이티브 프로젝트 파일을 편집한다."
           },
           {
             "t": "p",
-            "x": "계약으로 Adobe는 Disney의 공식 ‘AI Innovation Partner’가 되고 Firefly, Firefly Foundry, Premiere, Photoshop과 전담 엔지니어링 인력을 댄다. 두 회사는 Disney IP로 학습한 맞춤형 AI 모델을 함께 개발해 “상업적으로 안전하고 제작에 바로 쓸 수 있는 결과물을 생성”할 계획이다."
+            "x": "NAB 2026에서 처음 선보인 Premiere의 Color Mode가 정식으로 나왔다. Generative Media 도구는 Firefly와 Google, Kling, Runway, Luma의 서드파티 모델로 Generate Video, Generate Sound Effects, Generate Soundscape, Generate Music을 타임라인에 끌어온다. 붐 마이크나 로고 같은 오브젝트는 Generative Remove(베타)로 지운다."
           },
           {
             "t": "p",
-            "x": "작업은 이미 시작됐다. Walt Disney Imagineering은 Firefly Foundry로 사람이 그린 그림에서 2D 콘셉트 아트를 만들고, 테마파크 개발에 쓸 IP-based 그래픽을 제작한다. Adobe는 Disney의 StudioLAB과 실험적 제작 워크플로를, ESPN Edge와는 AI-powered 스포츠 콘텐츠를 함께 개발한다."
+            "x": "Premiere의 AI Assistant(베타)도 할 줄 아는 일이 늘었다. 원하는 작업을 설명하면 시퀀스의 모든 클립에 효과를 입히거나 시퀀스 전체의 색과 노출을 한꺼번에 맞추는 식의 복잡한 다단계 작업을 어시스턴트가 처리한다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20max%20%20pr%20mobile.jpg?width=1280&height=720&name=adobe%20max%20%20pr%20mobile.jpg",
+            "cap": "Premiere 모바일"
           },
           {
             "t": "p",
-            "x": "Disney로서는 Sora 서비스 종료로 $1 billion 규모 OpenAI 투자가 무산되고 전 Character.AI CEO Karandeep Anand를 첫 최고기술책임자로 영입한 데 이은 행보다. Adobe와 맺은 계약의 금액 조건은 공개되지 않았다."
+            "x": "아직 프리뷰인 MCP 연동을 켜면 Claude, ChatGPT 같은 서드파티 에이전트가 Photoshop, Illustrator, Premiere, After Effects를 불러 쓴다. 작업은 로컬에서, 네이티브 프로젝트 파일 안에서 바로 이뤄지며 레이어·벡터·빈·시퀀스도 모두 편집 가능한 상태로 남는다. Creative Cloud 고객은 2027년 초부터 쓸 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Firefly AI Assistant(베타)에는 Plan Mode가 붙는다. 반복되는 백그라운드 작업을 도맡는 상시 가동 에이전트는 2027년 초 베타로 나온다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Disney taps Adobe to build\nAI models trained on its IP",
-          "body": "Adobe will help Disney build bespoke AI models on its IP, including tools that turn sketches into concept art.",
-          "mini_headline": "Disney picks Adobe for AI",
+          "headline": "Premiere Color Mode exits beta\nwith MCP agents due in 2027",
+          "body": "Premiere's Color Mode leaves beta at Adobe MAX 2026, and MCP will let third-party agents edit project files in 2027.",
+          "mini_headline": "Premiere Color Mode, MCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
-                "cap": "Princess and the Frog"
+                "src": "https://www.redsharknews.com/hubfs/adobe%20max-3.jpg"
               },
               {
                 "t": "p",
-                "x": "Disney has lined up its next big AI partner, this time teaming with Adobe on a multi-year alliance to bring customized generative AI models into its creative pipelines across its businesses, including tools that will transform hand-drawn sketches into fully rendered concept art."
+                "x": "Premiere's Color Mode is out of beta. Adobe's MCP integrations will let third-party agents edit native project files from early 2027."
               },
               {
                 "t": "p",
-                "x": "Under the terms of the agreement, Adobe will be Disney’s official “AI Innovation Partner” and will give the company access to Firefly, Firefly Foundry, Premiere, Photoshop, and dedicated engineering resources. Together, the companies will develop bespoke AI models trained on Disney IP to “generate commercially safe and production-ready outputs.”"
+                "x": "In Premiere, Color Mode, first announced back at NAB 2026, is now generally available. The Generative Media tool brings Generate Video, Generate Sound Effects, Generate Soundscape, and Generate Music into the timeline, using Firefly and third-party models from Google, Kling, Runway, and Luma. Generative Remove (beta) removes objects such as boom mics and logos."
               },
               {
                 "t": "p",
-                "x": "The work is already underway, with Walt Disney Imagineering using Firefly Foundry to generate 2D concept art from human-made drawings and create IP-based graphics for its parks development. Adobe will also work with Disney’s StudioLAB on experimental production workflows and ESPN Edge on AI-powered sports content."
+                "x": "AI Assistant (beta) expands in Premiere: users describe what they need, and the assistant carries out complex, multi-step tasks, such as applying effects across every clip in a sequence or adjusting color and exposure across an entire sequence at once."
+              },
+              {
+                "t": "img",
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20max%20%20pr%20mobile.jpg?width=1280&height=720&name=adobe%20max%20%20pr%20mobile.jpg",
+                "cap": "Premiere mobile"
               },
               {
                 "t": "p",
-                "x": "The deal follows Disney’s $1 billion OpenAI investment, which collapsed when Sora was shut down, and its hiring of former Character.AI CEO Karandeep Anand as its first chief technology officer. Financial terms of the Adobe deal have not been made public."
+                "x": "MCP integrations, in preview, allow a third-party agent from the likes of Claude and ChatGPT to call on Photoshop, Illustrator, Premiere, and After Effects. They run locally and work directly in native project files, with layers, vectors, bins, and sequences all staying editable. These are coming to Creative Cloud customers in early 2027."
+              },
+              {
+                "t": "p",
+                "x": "Firefly AI Assistant (beta) gains Plan Mode, and always-on agents that take on recurring background work will be available in beta in early 2027."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Disney, Adobe와\nIP 학습 AI 모델 개발",
-          "body": "Adobe가 Disney와 함께 IP 기반 AI 모델과 스케치 도구를 만든다.",
-          "mini_headline": "Disney, AI 파트너로 Adobe 낙점",
+          "headline": "Premiere 컬러 모드\n정식판, MCP 2027년",
+          "body": "Color Mode는 MAX 2026에서 정식판이 됐고 MCP는 2027년 온다.",
+          "mini_headline": "Premiere Color Mode·MCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
-                "cap": "Princess and the Frog"
+                "src": "https://www.redsharknews.com/hubfs/adobe%20max-3.jpg"
               },
               {
                 "t": "p",
-                "x": "Disney가 다음 대형 AI 파트너를 정했다. 이번엔 Adobe다. 다년 제휴를 맺고 사업 전반의 창작 파이프라인에 맞춤형 생성형 AI 모델을 들여온다. 손으로 그린 스케치를 완성도 높은 렌더링 콘셉트 아트로 바꾸는 도구도 여기 들어간다."
+                "x": "Premiere의 Color Mode가 베타 딱지를 뗐다. 2027년 초부터는 Adobe의 MCP 연동으로 서드파티 에이전트가 네이티브 프로젝트 파일을 편집한다."
               },
               {
                 "t": "p",
-                "x": "계약으로 Adobe는 Disney의 공식 ‘AI Innovation Partner’가 되고 Firefly, Firefly Foundry, Premiere, Photoshop과 전담 엔지니어링 인력을 댄다. 두 회사는 Disney IP로 학습한 맞춤형 AI 모델을 함께 개발해 “상업적으로 안전하고 제작에 바로 쓸 수 있는 결과물을 생성”할 계획이다."
+                "x": "NAB 2026에서 처음 선보인 Premiere의 Color Mode가 정식으로 나왔다. Generative Media 도구는 Firefly와 Google, Kling, Runway, Luma의 서드파티 모델로 Generate Video, Generate Sound Effects, Generate Soundscape, Generate Music을 타임라인에 끌어온다. 붐 마이크나 로고 같은 오브젝트는 Generative Remove(베타)로 지운다."
               },
               {
                 "t": "p",
-                "x": "작업은 이미 시작됐다. Walt Disney Imagineering은 Firefly Foundry로 사람이 그린 그림에서 2D 콘셉트 아트를 만들고, 테마파크 개발에 쓸 IP-based 그래픽을 제작한다. Adobe는 Disney의 StudioLAB과 실험적 제작 워크플로를, ESPN Edge와는 AI-powered 스포츠 콘텐츠를 함께 개발한다."
+                "x": "Premiere의 AI Assistant(베타)도 할 줄 아는 일이 늘었다. 원하는 작업을 설명하면 시퀀스의 모든 클립에 효과를 입히거나 시퀀스 전체의 색과 노출을 한꺼번에 맞추는 식의 복잡한 다단계 작업을 어시스턴트가 처리한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20max%20%20pr%20mobile.jpg?width=1280&height=720&name=adobe%20max%20%20pr%20mobile.jpg",
+                "cap": "Premiere 모바일"
               },
               {
                 "t": "p",
-                "x": "Disney로서는 Sora 서비스 종료로 $1 billion 규모 OpenAI 투자가 무산되고 전 Character.AI CEO Karandeep Anand를 첫 최고기술책임자로 영입한 데 이은 행보다. Adobe와 맺은 계약의 금액 조건은 공개되지 않았다."
+                "x": "아직 프리뷰인 MCP 연동을 켜면 Claude, ChatGPT 같은 서드파티 에이전트가 Photoshop, Illustrator, Premiere, After Effects를 불러 쓴다. 작업은 로컬에서, 네이티브 프로젝트 파일 안에서 바로 이뤄지며 레이어·벡터·빈·시퀀스도 모두 편집 가능한 상태로 남는다. Creative Cloud 고객은 2027년 초부터 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Firefly AI Assistant(베타)에는 Plan Mode가 붙는다. 반복되는 백그라운드 작업을 도맡는 상시 가동 에이전트는 2027년 초 베타로 나온다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Disney、Adobeと\nIP学習のAIモデル開発",
-          "body": "AdobeはDisneyのIPを使う専用AIモデルと、スケッチ変換ツールの開発を支援する。",
-          "mini_headline": "Disney、AIでAdobeと組む",
+          "headline": "Color Mode正式版\nMCP連携は2027年",
+          "body": "MAX 2026でColor Modeが正式化し、MCP連携は2027年に始まる。",
+          "mini_headline": "Premiere Color Mode、MCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
-                "cap": "Princess and the Frog"
+                "src": "https://www.redsharknews.com/hubfs/adobe%20max-3.jpg"
               },
               {
                 "t": "p",
-                "x": "Disneyが次の大型AIパートナーを決めた。今回はAdobeと複数年の提携を結び、事業全体のクリエイティブ・パイプラインにカスタマイズした生成AIモデルを導入する。手描きのスケッチを完成度の高いレンダリング済みコンセプトアートに変えるツールも含まれる。"
+                "x": "PremiereのColor Modeがベータを終えた。AdobeのMCP連携により、2027年初頭からサードパーティのエージェントがネイティブのプロジェクトファイルを編集できるようになる。"
               },
               {
                 "t": "p",
-                "x": "契約により、AdobeはDisneyの公式「AI Innovation Partner」となり、Firefly、Firefly Foundry、Premiere、Photoshopと専任のエンジニアリング人員を提供する。両社はDisney IPで学習した専用AIモデルを共同開発し、「商業的に安全で、そのまま制作に使える出力を生成する」としている。"
+                "x": "NAB 2026で初めて発表されたPremiereのColor Modeが一般提供となった。Generative Mediaツールは、FireflyとGoogle、Kling、Runway、Lumaのサードパーティモデルを使い、Generate Video、Generate Sound Effects、Generate Soundscape、Generate Musicをタイムラインに持ち込む。Generative Remove（ベータ）はブームマイクやロゴなどのオブジェクトを除去する。"
               },
               {
                 "t": "p",
-                "x": "作業はすでに始まっている。Walt Disney ImagineeringはFirefly Foundryを使い、人が描いた絵から2D コンセプトアートを生成し、パーク開発向けにIP-based のグラフィックを制作している。AdobeはDisneyのStudioLABと実験的な制作ワークフローに、ESPN EdgeとAI-powered のスポーツコンテンツに取り組む。"
+                "x": "PremiereのAI Assistant（ベータ）も機能を広げる。ユーザーが必要なことを説明すると、シーケンス内の全クリップへのエフェクト適用や、シーケンス全体の色と露出の一括調整といった複雑な多段階の作業をアシスタントが実行する。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20max%20%20pr%20mobile.jpg?width=1280&height=720&name=adobe%20max%20%20pr%20mobile.jpg",
+                "cap": "Premiere モバイル"
               },
               {
                 "t": "p",
-                "x": "今回の提携は、Soraの終了で頓挫したDisneyによるOpenAIへの$1 billion の投資、そして元Character.AI CEOのKarandeep Anandを初の最高技術責任者に迎えた人事に続くものだ。Adobeとの契約の金銭的条件は公表されていない。"
+                "x": "プレビュー段階のMCP連携では、ClaudeやChatGPTなどのサードパーティエージェントがPhotoshop、Illustrator、Premiere、After Effectsを呼び出せる。ローカルで動作し、ネイティブのプロジェクトファイル上で直接作業するため、レイヤー、ベクター、ビン、シーケンスはすべて編集可能なまま残る。Creative Cloudユーザーには2027年初頭に提供される。"
+              },
+              {
+                "t": "p",
+                "x": "Firefly AI Assistant（ベータ）にはPlan Modeが加わり、定期的なバックグラウンド作業を担う常時稼働のエージェントが2027年初頭にベータ版として登場する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Disney携手Adobe\n用IP训练AI模型",
-          "body": "Adobe将帮助Disney基于其IP打造定制AI模型，包括把草图转为概念图的工具。",
-          "mini_headline": "Disney选中Adobe做AI",
+          "headline": "Premiere调色模式转正\nMCP代理2027年上线",
+          "body": "Color Mode在MAX 2026结束测试，MCP代理将于2027年编辑项目文件。",
+          "mini_headline": "Premiere Color Mode与MCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
-                "cap": "Princess and the Frog"
+                "src": "https://www.redsharknews.com/hubfs/adobe%20max-3.jpg"
               },
               {
                 "t": "p",
-                "x": "Disney敲定了下一个重要AI合作伙伴，这次与Adobe结成多年联盟，将定制生成式AI模型引入旗下各业务的创作流程，其中包括能把手绘草图变成完整渲染概念图的工具。"
+                "x": "Premiere的Color Mode已结束测试。Adobe的MCP集成将从2027年初起让第三方代理编辑原生项目文件。"
               },
               {
                 "t": "p",
-                "x": "根据协议，Adobe将成为Disney官方“AI Innovation Partner”，并向其开放Firefly、Firefly Foundry、Premiere、Photoshop以及专属工程资源。双方将共同开发以Disney IP训练的定制AI模型，以“生成商业上安全、可直接用于制作的成果”。"
+                "x": "Premiere中最早在NAB 2026上公布的Color Mode现已正式上线。Generative Media工具借助Firefly以及来自Google、Kling、Runway和Luma的第三方模型，把Generate Video、Generate Sound Effects、Generate Soundscape和Generate Music带入时间线。Generative Remove（测试版）可去除吊杆麦克风和标志等物体。"
               },
               {
                 "t": "p",
-                "x": "相关工作已经展开：Walt Disney Imagineering正用Firefly Foundry根据人工绘制的图稿生成2D 概念图，并为乐园开发制作IP-based 图形。Adobe还将与Disney的StudioLAB合作探索实验性制作流程，并与ESPN Edge合作开发AI-powered 体育内容。"
+                "x": "Premiere中的AI Assistant（测试版）功能扩展：用户描述需求，助手即可执行复杂的多步骤任务，例如为序列中的每个片段应用效果，或一次性调整整个序列的色彩和曝光。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20max%20%20pr%20mobile.jpg?width=1280&height=720&name=adobe%20max%20%20pr%20mobile.jpg",
+                "cap": "Premiere移动版"
               },
               {
                 "t": "p",
-                "x": "此前，Disney曾向OpenAI投资$1 billion ，但随着Sora关停而告吹；Disney还聘请前Character.AI CEO Karandeep Anand出任首位首席技术官。与Adobe合作的财务条款尚未公开。"
+                "x": "处于预览阶段的MCP集成让Claude、ChatGPT等第三方代理可以调用Photoshop、Illustrator、Premiere和After Effects。它们在本地运行，直接在原生项目文件中工作，图层、矢量、素材箱和序列都保持可编辑。这些功能将于2027年初面向Creative Cloud用户推出。"
+              },
+              {
+                "t": "p",
+                "x": "Firefly AI Assistant（测试版）新增Plan Mode，承担周期性后台工作的常驻代理将于2027年初推出测试版。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Disney recurre a Adobe para\ncrear modelos de AI con su IP",
-          "body": "Adobe ayudará a Disney a crear modelos de AI con su IP, incluidas herramientas que pasan bocetos a arte conceptual.",
-          "mini_headline": "Disney elige a Adobe para AI",
+          "headline": "Premiere Color Mode sale de beta\ny los agentes MCP llegan en 2027",
+          "body": "Color Mode de Premiere sale de beta en Adobe MAX 2026, y MCP permitirá a agentes externos editar proyectos en 2027.",
+          "mini_headline": "Premiere Color Mode, MCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
-                "cap": "Princess and the Frog"
+                "src": "https://www.redsharknews.com/hubfs/adobe%20max-3.jpg"
               },
               {
                 "t": "p",
-                "x": "Disney ha cerrado su próxima gran alianza en AI, esta vez con Adobe: un acuerdo plurianual para llevar modelos de AI generativa personalizados a sus procesos creativos en todos sus negocios, incluidas herramientas que transformarán bocetos dibujados a mano en arte conceptual totalmente renderizado."
+                "x": "Color Mode de Premiere ya no está en beta. Las integraciones MCP de Adobe permitirán que agentes de terceros editen archivos de proyecto nativos a partir de principios de 2027."
               },
               {
                 "t": "p",
-                "x": "Según los términos del acuerdo, Adobe será el “AI Innovation Partner” oficial de Disney y dará a la compañía acceso a Firefly, Firefly Foundry, Premiere, Photoshop y recursos de ingeniería dedicados. Juntas, las empresas desarrollarán modelos de AI a medida entrenados con la IP de Disney para “generar resultados comercialmente seguros y listos para producción”."
+                "x": "En Premiere, Color Mode, anunciado por primera vez en NAB 2026, ya está disponible de forma general. La herramienta Generative Media lleva Generate Video, Generate Sound Effects, Generate Soundscape y Generate Music a la línea de tiempo, con Firefly y modelos de terceros de Google, Kling, Runway y Luma. Generative Remove (beta) elimina objetos como micrófonos de pértiga y logotipos."
               },
               {
                 "t": "p",
-                "x": "El trabajo ya está en marcha: Walt Disney Imagineering usa Firefly Foundry para generar arte conceptual 2D a partir de dibujos hechos por personas y crear gráficos IP-based para el desarrollo de sus parques. Adobe también trabajará con StudioLAB de Disney en flujos de producción experimentales y con ESPN Edge en contenido deportivo AI-powered."
+                "x": "AI Assistant (beta) se amplía en Premiere: los usuarios describen lo que necesitan y el asistente ejecuta tareas complejas de varios pasos, como aplicar efectos a todos los clips de una secuencia o ajustar a la vez el color y la exposición de una secuencia completa."
+              },
+              {
+                "t": "img",
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20max%20%20pr%20mobile.jpg?width=1280&height=720&name=adobe%20max%20%20pr%20mobile.jpg",
+                "cap": "Premiere para móvil"
               },
               {
                 "t": "p",
-                "x": "El acuerdo llega después de la inversión de $1 billion de Disney en OpenAI, que se vino abajo cuando se cerró Sora, y de la contratación del ex CEO de Character.AI Karandeep Anand como su primer director de tecnología. Los términos financieros del acuerdo con Adobe no se han hecho públicos."
+                "x": "Las integraciones MCP, en vista previa, permiten que un agente de terceros como Claude o ChatGPT recurra a Photoshop, Illustrator, Premiere y After Effects. Se ejecutan en local y trabajan directamente en los archivos de proyecto nativos, con capas, vectores, bins y secuencias que siguen siendo editables. Llegarán a los clientes de Creative Cloud a principios de 2027."
+              },
+              {
+                "t": "p",
+                "x": "Firefly AI Assistant (beta) incorpora Plan Mode, y los agentes siempre activos que asumen trabajo recurrente en segundo plano estarán disponibles en beta a principios de 2027."
               }
             ]
           }
@@ -199,125 +247,157 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Disney, Adobe와\nIP 학습 AI 모델 개발",
-          "body": "Adobe가 Disney와 IP 기반 AI 모델과 스케치 변환 도구를 만든다.",
-          "mini_headline": "Disney, AI 파트너로 Adobe 낙점",
+          "headline": "Premiere 컬러 모드\n정식판, MCP 2027년",
+          "body": "MAX 2026에서 Color Mode가 베타를 끝냈고 MCP는 2027년 온다.",
+          "mini_headline": "Premiere Color Mode·MCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
-                "cap": "Princess and the Frog"
+                "src": "https://www.redsharknews.com/hubfs/adobe%20max-3.jpg"
               },
               {
                 "t": "p",
-                "x": "Disney가 다음 대형 AI 파트너를 정했다. 이번에는 Adobe와 다년 제휴를 맺고 사업 전반의 창작 파이프라인에 맞춤형 생성형 AI 모델을 들여오며, 여기에는 손으로 그린 스케치를 완성도 높은 렌더링 콘셉트 아트로 바꾸는 도구도 포함된다."
+                "x": "Premiere의 Color Mode가 베타를 벗어났다. Adobe의 MCP 연동으로 2027년 초부터 서드파티 에이전트가 네이티브 프로젝트 파일을 편집할 수 있게 된다."
               },
               {
                 "t": "p",
-                "x": "계약에 따라 Adobe는 Disney의 공식 ‘AI Innovation Partner’가 되며 Firefly, Firefly Foundry, Premiere, Photoshop과 전담 엔지니어링 인력을 제공한다. 두 회사는 Disney IP로 학습한 맞춤형 AI 모델을 함께 개발해 “상업적으로 안전하고 제작에 바로 쓸 수 있는 결과물을 생성”할 계획이다."
+                "x": "NAB 2026에서 처음 공개된 Premiere의 Color Mode가 이제 정식 출시됐다. Generative Media 도구는 Firefly와 Google, Kling, Runway, Luma의 서드파티 모델을 활용해 Generate Video, Generate Sound Effects, Generate Soundscape, Generate Music을 타임라인으로 가져온다. Generative Remove(베타)는 붐 마이크나 로고 같은 오브젝트를 지운다."
               },
               {
                 "t": "p",
-                "x": "작업은 이미 시작됐다. Walt Disney Imagineering은 Firefly Foundry로 사람이 그린 그림에서 2D 콘셉트 아트를 만들고, 테마파크 개발에 쓸 IP-based 그래픽을 제작하고 있다. Adobe는 Disney의 StudioLAB과 실험적 제작 워크플로를, ESPN Edge와는 AI-powered 스포츠 콘텐츠를 함께 개발한다."
+                "x": "Premiere의 AI Assistant(베타)도 기능을 넓힌다. 사용자가 원하는 작업을 설명하면 어시스턴트가 시퀀스의 모든 클립에 효과를 적용하거나 시퀀스 전체의 색과 노출을 한 번에 조정하는 등 복잡한 다단계 작업을 수행한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20max%20%20pr%20mobile.jpg?width=1280&height=720&name=adobe%20max%20%20pr%20mobile.jpg",
+                "cap": "Premiere 모바일"
               },
               {
                 "t": "p",
-                "x": "이번 제휴는 Sora 서비스 종료로 무산된 Disney의 $1 billion 규모 OpenAI 투자, 그리고 전 Character.AI CEO Karandeep Anand를 첫 최고기술책임자로 영입한 데 이은 것이다. Adobe와의 계약 금액 조건은 공개되지 않았다."
+                "x": "프리뷰 단계인 MCP 연동을 쓰면 Claude, ChatGPT 같은 서드파티 에이전트가 Photoshop, Illustrator, Premiere, After Effects를 호출할 수 있다. 로컬에서 실행되며 네이티브 프로젝트 파일 안에서 직접 작업하고, 레이어·벡터·빈·시퀀스는 모두 편집 가능한 상태로 남는다. Creative Cloud 고객에게는 2027년 초에 제공된다."
+              },
+              {
+                "t": "p",
+                "x": "Firefly AI Assistant(베타)에는 Plan Mode가 추가되고, 반복적인 백그라운드 작업을 맡는 상시 가동 에이전트는 2027년 초 베타로 나온다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Disney、Adobeと\nIP学習のAIモデル開発",
-          "body": "AdobeはDisneyのIPを使う専用AIモデルと、スケッチ変換ツールの開発を支援する。",
-          "mini_headline": "Disney、AIでAdobeと組む",
+          "headline": "Color Mode正式版\nMCP連携は2027年",
+          "body": "MAX 2026でColor Modeが正式化し、MCP連携は2027年に始まる。",
+          "mini_headline": "Premiere Color Mode、MCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
-                "cap": "Princess and the Frog"
+                "src": "https://www.redsharknews.com/hubfs/adobe%20max-3.jpg"
               },
               {
                 "t": "p",
-                "x": "Disneyが次の大型AIパートナーを決めた。今回はAdobeと複数年の提携を結び、事業全体のクリエイティブ・パイプラインにカスタマイズした生成AIモデルを導入する。手描きのスケッチを完成度の高いレンダリング済みコンセプトアートに変えるツールも含まれる。"
+                "x": "PremiereのColor Modeがベータを終えた。AdobeのMCP連携により、2027年初頭からサードパーティのエージェントがネイティブのプロジェクトファイルを編集できるようになる。"
               },
               {
                 "t": "p",
-                "x": "契約により、AdobeはDisneyの公式「AI Innovation Partner」となり、Firefly、Firefly Foundry、Premiere、Photoshopと専任のエンジニアリング人員を提供する。両社はDisney IPで学習した専用AIモデルを共同開発し、「商業的に安全で、そのまま制作に使える出力を生成する」としている。"
+                "x": "NAB 2026で初めて発表されたPremiereのColor Modeが一般提供となった。Generative Mediaツールは、FireflyとGoogle、Kling、Runway、Lumaのサードパーティモデルを使い、Generate Video、Generate Sound Effects、Generate Soundscape、Generate Musicをタイムラインに持ち込む。Generative Remove（ベータ）はブームマイクやロゴなどのオブジェクトを除去する。"
               },
               {
                 "t": "p",
-                "x": "作業はすでに始まっている。Walt Disney ImagineeringはFirefly Foundryを使い、人が描いた絵から2D コンセプトアートを生成し、パーク開発向けにIP-based のグラフィックを制作している。AdobeはDisneyのStudioLABと実験的な制作ワークフローに、ESPN EdgeとAI-powered のスポーツコンテンツに取り組む。"
+                "x": "PremiereのAI Assistant（ベータ）も機能を広げる。ユーザーが必要なことを説明すると、シーケンス内の全クリップへのエフェクト適用や、シーケンス全体の色と露出の一括調整といった複雑な多段階の作業をアシスタントが実行する。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20max%20%20pr%20mobile.jpg?width=1280&height=720&name=adobe%20max%20%20pr%20mobile.jpg",
+                "cap": "Premiere モバイル"
               },
               {
                 "t": "p",
-                "x": "今回の提携は、Soraの終了で頓挫したDisneyによるOpenAIへの$1 billion の投資、そして元Character.AI CEOのKarandeep Anandを初の最高技術責任者に迎えた人事に続くものだ。Adobeとの契約の金銭的条件は公表されていない。"
+                "x": "プレビュー段階のMCP連携では、ClaudeやChatGPTなどのサードパーティエージェントがPhotoshop、Illustrator、Premiere、After Effectsを呼び出せる。ローカルで動作し、ネイティブのプロジェクトファイル上で直接作業するため、レイヤー、ベクター、ビン、シーケンスはすべて編集可能なまま残る。Creative Cloudユーザーには2027年初頭に提供される。"
+              },
+              {
+                "t": "p",
+                "x": "Firefly AI Assistant（ベータ）にはPlan Modeが加わり、定期的なバックグラウンド作業を担う常時稼働のエージェントが2027年初頭にベータ版として登場する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Disney携手Adobe\n用IP训练AI模型",
-          "body": "Adobe将帮助Disney基于其IP打造定制AI模型，包括把草图转为概念图的工具。",
-          "mini_headline": "Disney选中Adobe做AI",
+          "headline": "Premiere调色模式转正\nMCP代理2027年上线",
+          "body": "Color Mode在MAX 2026结束测试，MCP代理将于2027年编辑项目文件。",
+          "mini_headline": "Premiere Color Mode与MCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
-                "cap": "Princess and the Frog"
+                "src": "https://www.redsharknews.com/hubfs/adobe%20max-3.jpg"
               },
               {
                 "t": "p",
-                "x": "Disney敲定了下一个重要AI合作伙伴，这次与Adobe结成多年联盟，将定制生成式AI模型引入旗下各业务的创作流程，其中包括能把手绘草图变成完整渲染概念图的工具。"
+                "x": "Premiere的Color Mode已结束测试。Adobe的MCP集成将从2027年初起让第三方代理编辑原生项目文件。"
               },
               {
                 "t": "p",
-                "x": "根据协议，Adobe将成为Disney官方“AI Innovation Partner”，并向其开放Firefly、Firefly Foundry、Premiere、Photoshop以及专属工程资源。双方将共同开发以Disney IP训练的定制AI模型，以“生成商业上安全、可直接用于制作的成果”。"
+                "x": "Premiere中最早在NAB 2026上公布的Color Mode现已正式上线。Generative Media工具借助Firefly以及来自Google、Kling、Runway和Luma的第三方模型，把Generate Video、Generate Sound Effects、Generate Soundscape和Generate Music带入时间线。Generative Remove（测试版）可去除吊杆麦克风和标志等物体。"
               },
               {
                 "t": "p",
-                "x": "相关工作已经展开：Walt Disney Imagineering正用Firefly Foundry根据人工绘制的图稿生成2D 概念图，并为乐园开发制作IP-based 图形。Adobe还将与Disney的StudioLAB合作探索实验性制作流程，并与ESPN Edge合作开发AI-powered 体育内容。"
+                "x": "Premiere中的AI Assistant（测试版）功能扩展：用户描述需求，助手即可执行复杂的多步骤任务，例如为序列中的每个片段应用效果，或一次性调整整个序列的色彩和曝光。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20max%20%20pr%20mobile.jpg?width=1280&height=720&name=adobe%20max%20%20pr%20mobile.jpg",
+                "cap": "Premiere移动版"
               },
               {
                 "t": "p",
-                "x": "此前，Disney曾向OpenAI投资$1 billion ，但随着Sora关停而告吹；Disney还聘请前Character.AI CEO Karandeep Anand出任首位首席技术官。与Adobe合作的财务条款尚未公开。"
+                "x": "处于预览阶段的MCP集成让Claude、ChatGPT等第三方代理可以调用Photoshop、Illustrator、Premiere和After Effects。它们在本地运行，直接在原生项目文件中工作，图层、矢量、素材箱和序列都保持可编辑。这些功能将于2027年初面向Creative Cloud用户推出。"
+              },
+              {
+                "t": "p",
+                "x": "Firefly AI Assistant（测试版）新增Plan Mode，承担周期性后台工作的常驻代理将于2027年初推出测试版。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Disney recurre a Adobe para\ncrear modelos de AI con su IP",
-          "body": "Adobe ayudará a Disney a crear modelos de AI con su IP, incluidas herramientas que pasan bocetos a arte conceptual.",
-          "mini_headline": "Disney elige a Adobe para AI",
+          "headline": "Premiere Color Mode sale de beta\ny los agentes MCP llegan en 2027",
+          "body": "Color Mode de Premiere sale de beta en Adobe MAX 2026, y MCP permitirá a agentes externos editar proyectos en 2027.",
+          "mini_headline": "Premiere Color Mode, MCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
-                "cap": "Princess and the Frog"
+                "src": "https://www.redsharknews.com/hubfs/adobe%20max-3.jpg"
               },
               {
                 "t": "p",
-                "x": "Disney ha cerrado su próxima gran alianza en AI, esta vez con Adobe: un acuerdo plurianual para llevar modelos de AI generativa personalizados a sus procesos creativos en todos sus negocios, incluidas herramientas que transformarán bocetos dibujados a mano en arte conceptual totalmente renderizado."
+                "x": "Color Mode de Premiere ya no está en beta. Las integraciones MCP de Adobe permitirán que agentes de terceros editen archivos de proyecto nativos a partir de principios de 2027."
               },
               {
                 "t": "p",
-                "x": "Según los términos del acuerdo, Adobe será el “AI Innovation Partner” oficial de Disney y dará a la compañía acceso a Firefly, Firefly Foundry, Premiere, Photoshop y recursos de ingeniería dedicados. Juntas, las empresas desarrollarán modelos de AI a medida entrenados con la IP de Disney para “generar resultados comercialmente seguros y listos para producción”."
+                "x": "En Premiere, Color Mode, anunciado por primera vez en NAB 2026, ya está disponible de forma general. La herramienta Generative Media lleva Generate Video, Generate Sound Effects, Generate Soundscape y Generate Music a la línea de tiempo, con Firefly y modelos de terceros de Google, Kling, Runway y Luma. Generative Remove (beta) elimina objetos como micrófonos de pértiga y logotipos."
               },
               {
                 "t": "p",
-                "x": "El trabajo ya está en marcha: Walt Disney Imagineering usa Firefly Foundry para generar arte conceptual 2D a partir de dibujos hechos por personas y crear gráficos IP-based para el desarrollo de sus parques. Adobe también trabajará con StudioLAB de Disney en flujos de producción experimentales y con ESPN Edge en contenido deportivo AI-powered."
+                "x": "AI Assistant (beta) se amplía en Premiere: los usuarios describen lo que necesitan y el asistente ejecuta tareas complejas de varios pasos, como aplicar efectos a todos los clips de una secuencia o ajustar a la vez el color y la exposición de una secuencia completa."
+              },
+              {
+                "t": "img",
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20max%20%20pr%20mobile.jpg?width=1280&height=720&name=adobe%20max%20%20pr%20mobile.jpg",
+                "cap": "Premiere para móvil"
               },
               {
                 "t": "p",
-                "x": "El acuerdo llega después de la inversión de $1 billion de Disney en OpenAI, que se vino abajo cuando se cerró Sora, y de la contratación del ex CEO de Character.AI Karandeep Anand como su primer director de tecnología. Los términos financieros del acuerdo con Adobe no se han hecho públicos."
+                "x": "Las integraciones MCP, en vista previa, permiten que un agente de terceros como Claude o ChatGPT recurra a Photoshop, Illustrator, Premiere y After Effects. Se ejecutan en local y trabajan directamente en los archivos de proyecto nativos, con capas, vectores, bins y secuencias que siguen siendo editables. Llegarán a los clientes de Creative Cloud a principios de 2027."
+              },
+              {
+                "t": "p",
+                "x": "Firefly AI Assistant (beta) incorpora Plan Mode, y los agentes siempre activos que asumen trabajo recurrente en segundo plano estarán disponibles en beta a principios de 2027."
               }
             ]
           }
@@ -325,869 +405,15 @@
       }
     },
     {
-      "id": "framestore-sky-christmas-ai",
+      "id": "avid-readytoplay-veo",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Sky 성탄 VFX에 AI\n결합한 Framestore",
-      "body": "Framestore가 Dave Meyers의 Sky 광고에 AI와 CG를 썼다.",
-      "mini_headline": "Framestore의 하이브리드 AI VFX",
+      "headline": "Avid 편집기에\nVeo 영상 생성 탑재",
+      "body": "Ready to Play로 Media Composer 안에서 Veo를 쓴다.",
+      "mini_headline": "Avid, Media Composer에 Veo 추가",
       "tool": "Movies",
-      "source": "Animation World Network",
-      "url": "https://www.awn.com/news/framestore-brings-hybrid-aivfx-skys-christmas-campaign",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.awn.com/sites/default/files/image/attached/1081755-skyxmsstill015-1280.jpg",
-            "cap": "That's Christmas Sorted"
-          },
-          {
-            "t": "p",
-            "x": "Framestore는 Sky Creative, RadicalMedia 소속 Dave Meyers 감독과 손잡고 Sky의 새 크리스마스 캠페인 “That's Christmas Sorted”를 작업했다. CG 환경과 VFX에는 기존 제작 파이프라인 안에 구축한 AI 도구를 섞었다. 실사 연기의 타이밍과 움직임, 캐릭터는 작업 내내 그대로 살렸다."
-          },
-          {
-            "t": "p",
-            "x": "팀은 Meyers의 스토리보드에서 출발해 전통적인 프리비즈 기법과 AI 도구를 함께 쓰며 카메라 무빙과 연기, 숏 타이밍, 렌즈 선택을 탐색했다. 창고 실내외 환경은 3D 레이아웃으로 잡은 뒤 디지털 매트 페인팅과 AI 도구로 디테일과 텍스처, 조명을 입혔다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill006-1280.jpg?itok=lUnQRKXQ"
-          },
-          {
-            "t": "img",
-            "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill007-1280.jpg?itok=sF7sj9HF"
-          },
-          {
-            "t": "p",
-            "x": "의상이 스스로 움직이는 것처럼 보이게 하려고 Framestore는 전통 합성과 AI 기술을 결합한 인물 제거 파이프라인을 새로 짰다. 일부 의상에는 맞춤형 CG 키프레임 애니메이션을 더했다."
-          },
-          {
-            "t": "p",
-            "x": "“기존 VFX 파이프라인에 AI를 통합해, 작업이 요구하는 장인정신과 통제력을 해치지 않으면서 새로운 창작 가능성을 얻었다”고 Framestore 크리에이티브 디렉터 겸 VFX 슈퍼바이저 Kamen Markov가 말했다."
-          },
-          {
-            "t": "video",
-            "yt": "r3J9A5FSAIs"
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Framestore folds AI into\nSky's Christmas VFX",
-          "body": "Framestore used AI for previs, character removal and self-animating costumes alongside CG on Sky's Dave Meyers spot.",
-          "mini_headline": "Framestore's hybrid AI VFX",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081755-skyxmsstill015-1280.jpg",
-                "cap": "That's Christmas Sorted"
-              },
-              {
-                "t": "p",
-                "x": "Framestore has partnered with Sky Creative and director Dave Meyers at RadicalMedia on \"That's Christmas Sorted,\" Sky's new Christmas campaign, combining CG environments and VFX with AI tools built into a traditional production pipeline. Framestore preserved the timing, movement and character of the live-action performances throughout."
-              },
-              {
-                "t": "p",
-                "x": "Working from Meyers' storyboards, the team paired traditional previs techniques with AI tools to explore camera moves, performance, shot timing and lensing. Framestore built 3D layouts for interior and exterior warehouse environments; digital matte painting and AI tools added detail, textures and lighting."
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill006-1280.jpg?itok=lUnQRKXQ"
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill007-1280.jpg?itok=sF7sj9HF"
-              },
-              {
-                "t": "p",
-                "x": "To make the costumes appear to animate themselves, Framestore developed a character removal pipeline that combines traditional compositing with AI technology, plus bespoke CG keyframe animation for specific costumes."
-              },
-              {
-                "t": "p",
-                "x": "\"We integrated AI into our existing VFX pipeline in a way that gave us new creative possibilities without compromising the craft and control the work demands,\" said Framestore creative director and VFX supervisor Kamen Markov."
-              },
-              {
-                "t": "video",
-                "yt": "r3J9A5FSAIs"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Sky 성탄 VFX에 AI\n결합한 Framestore",
-          "body": "Framestore가 Dave Meyers의 Sky 광고에 AI와 CG를 썼다.",
-          "mini_headline": "Framestore의 하이브리드 AI VFX",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081755-skyxmsstill015-1280.jpg",
-                "cap": "That's Christmas Sorted"
-              },
-              {
-                "t": "p",
-                "x": "Framestore는 Sky Creative, RadicalMedia 소속 Dave Meyers 감독과 손잡고 Sky의 새 크리스마스 캠페인 “That's Christmas Sorted”를 작업했다. CG 환경과 VFX에는 기존 제작 파이프라인 안에 구축한 AI 도구를 섞었다. 실사 연기의 타이밍과 움직임, 캐릭터는 작업 내내 그대로 살렸다."
-              },
-              {
-                "t": "p",
-                "x": "팀은 Meyers의 스토리보드에서 출발해 전통적인 프리비즈 기법과 AI 도구를 함께 쓰며 카메라 무빙과 연기, 숏 타이밍, 렌즈 선택을 탐색했다. 창고 실내외 환경은 3D 레이아웃으로 잡은 뒤 디지털 매트 페인팅과 AI 도구로 디테일과 텍스처, 조명을 입혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill006-1280.jpg?itok=lUnQRKXQ"
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill007-1280.jpg?itok=sF7sj9HF"
-              },
-              {
-                "t": "p",
-                "x": "의상이 스스로 움직이는 것처럼 보이게 하려고 Framestore는 전통 합성과 AI 기술을 결합한 인물 제거 파이프라인을 새로 짰다. 일부 의상에는 맞춤형 CG 키프레임 애니메이션을 더했다."
-              },
-              {
-                "t": "p",
-                "x": "“기존 VFX 파이프라인에 AI를 통합해, 작업이 요구하는 장인정신과 통제력을 해치지 않으면서 새로운 창작 가능성을 얻었다”고 Framestore 크리에이티브 디렉터 겸 VFX 슈퍼바이저 Kamen Markov가 말했다."
-              },
-              {
-                "t": "video",
-                "yt": "r3J9A5FSAIs"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "FramestoreがAIを\nSkyのクリスマスVFXに",
-          "body": "FramestoreはSkyのDave Meyers監督CMでCGとAIを組み合わせた。",
-          "mini_headline": "FramestoreのハイブリッドAI VFX",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081755-skyxmsstill015-1280.jpg",
-                "cap": "That's Christmas Sorted"
-              },
-              {
-                "t": "p",
-                "x": "Framestoreは、Sky CreativeおよびRadicalMediaのDave Meyers監督と組み、Skyの新しいクリスマスキャンペーン「That's Christmas Sorted」を手がけた。CG環境とVFXに、従来の制作パイプラインに組み込んだAIツールを組み合わせている。Framestoreは全編を通じて実写の演技のタイミング、動き、キャラクター性を保った。"
-              },
-              {
-                "t": "p",
-                "x": "チームはMeyersの絵コンテをもとに、従来のプリビズ手法とAIツールを併用し、カメラワーク、演技、ショットのタイミング、レンズ選びを検討した。Framestoreは倉庫の屋内外環境の3D レイアウトを構築し、デジタルマットペインティングとAIツールでディテール、テクスチャ、ライティングを加えた。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill006-1280.jpg?itok=lUnQRKXQ"
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill007-1280.jpg?itok=sF7sj9HF"
-              },
-              {
-                "t": "p",
-                "x": "衣装がひとりでに動いて見えるように、Framestoreは従来のコンポジットとAI技術を組み合わせた人物除去パイプラインを開発し、特定の衣装には専用のCGキーフレームアニメーションも加えた。"
-              },
-              {
-                "t": "p",
-                "x": "「既存のVFXパイプラインにAIを組み込み、仕事に求められる技術とコントロールを損なわずに新たな創造の可能性を得た」と、Framestoreのクリエイティブディレクター兼VFXスーパーバイザー、Kamen Markovは語った。"
-              },
-              {
-                "t": "video",
-                "yt": "r3J9A5FSAIs"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Framestore把AI\n融入Sky圣诞VFX",
-          "body": "Framestore在Sky的Dave Meyers广告中结合AI与CG完成特效。",
-          "mini_headline": "Framestore的混合AI VFX",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081755-skyxmsstill015-1280.jpg",
-                "cap": "That's Christmas Sorted"
-              },
-              {
-                "t": "p",
-                "x": "Framestore与Sky Creative及RadicalMedia旗下导演Dave Meyers合作，为Sky新圣诞广告“That's Christmas Sorted”制作内容，将CG场景和VFX与嵌入传统制作流程的AI工具相结合。Framestore全程保留了真人表演的节奏、动作与角色特质。"
-              },
-              {
-                "t": "p",
-                "x": "团队以Meyers的分镜为基础，将传统预演手法与AI工具结合，探索运镜、表演、镜头时长与镜头焦段。Framestore搭建了仓库内外场景的3D 布局，并借助数字绘景和AI工具增添细节、纹理与光照。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill006-1280.jpg?itok=lUnQRKXQ"
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill007-1280.jpg?itok=sF7sj9HF"
-              },
-              {
-                "t": "p",
-                "x": "为了让服装看起来能自己动起来，Framestore开发了一套把传统合成与AI技术相结合的人物移除流程，并为特定服装制作了定制CG关键帧动画。"
-              },
-              {
-                "t": "p",
-                "x": "“我们把AI融入现有VFX流程，在不牺牲这项工作所需的手艺和控制力的前提下，获得了新的创作可能。”Framestore创意总监兼VFX总监Kamen Markov说。"
-              },
-              {
-                "t": "video",
-                "yt": "r3J9A5FSAIs"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Framestore integra AI en los\nVFX navideños de Sky",
-          "body": "Framestore usó AI con CG en el spot de Sky de Dave Meyers para previs, borrar personajes y animar trajes.",
-          "mini_headline": "La AI híbrida de Framestore en VFX",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081755-skyxmsstill015-1280.jpg",
-                "cap": "That's Christmas Sorted"
-              },
-              {
-                "t": "p",
-                "x": "Framestore se ha asociado con Sky Creative y con el director Dave Meyers, de RadicalMedia, en “That's Christmas Sorted”, la nueva campaña navideña de Sky, que combina entornos CG y VFX con herramientas de AI integradas en un pipeline de producción tradicional. Framestore conservó en todo momento el ritmo, el movimiento y el carácter de las interpretaciones en acción real."
-              },
-              {
-                "t": "p",
-                "x": "A partir de los storyboards de Meyers, el equipo combinó técnicas tradicionales de previs con herramientas de AI para explorar movimientos de cámara, interpretación, timing de los planos y elección de lentes. Framestore construyó layouts 3D de los entornos interiores y exteriores de un almacén; el matte painting digital y las herramientas de AI añadieron detalle, texturas e iluminación."
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill006-1280.jpg?itok=lUnQRKXQ"
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill007-1280.jpg?itok=sF7sj9HF"
-              },
-              {
-                "t": "p",
-                "x": "Para que el vestuario pareciera animarse solo, Framestore desarrolló un pipeline de eliminación de personajes que combina composición tradicional con tecnología de AI, además de animación CG por keyframes hecha a medida para trajes concretos."
-              },
-              {
-                "t": "p",
-                "x": "“Integramos la AI en nuestro pipeline de VFX existente de una forma que nos dio nuevas posibilidades creativas sin comprometer el oficio ni el control que exige el trabajo”, dijo Kamen Markov, director creativo y supervisor de VFX de Framestore."
-              },
-              {
-                "t": "video",
-                "yt": "r3J9A5FSAIs"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Sky 성탄 VFX에 AI\n결합한 Framestore",
-          "body": "Framestore는 Dave Meyers의 Sky 광고에 AI와 CG를 결합했다.",
-          "mini_headline": "Framestore의 하이브리드 AI VFX",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081755-skyxmsstill015-1280.jpg",
-                "cap": "That's Christmas Sorted"
-              },
-              {
-                "t": "p",
-                "x": "Framestore는 Sky Creative, 그리고 RadicalMedia 소속 Dave Meyers 감독과 손잡고 Sky의 새 크리스마스 캠페인 “That's Christmas Sorted”를 작업했다. CG 환경과 VFX에 기존 제작 파이프라인 안에 구축한 AI 도구를 결합했다. Framestore는 작업 내내 실사 연기의 타이밍과 움직임, 캐릭터를 그대로 살렸다."
-              },
-              {
-                "t": "p",
-                "x": "팀은 Meyers의 스토리보드를 바탕으로 전통적인 프리비즈 기법과 AI 도구를 함께 써서 카메라 무빙과 연기, 숏 타이밍, 렌즈 선택을 탐색했다. Framestore는 창고 실내외 환경의 3D 레이아웃을 만들었고, 디지털 매트 페인팅과 AI 도구로 디테일과 텍스처, 조명을 더했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill006-1280.jpg?itok=lUnQRKXQ"
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill007-1280.jpg?itok=sF7sj9HF"
-              },
-              {
-                "t": "p",
-                "x": "의상이 스스로 움직이는 것처럼 보이도록 Framestore는 전통적인 합성과 AI 기술을 결합한 인물 제거 파이프라인을 개발했고, 일부 의상에는 맞춤형 CG 키프레임 애니메이션을 더했다."
-              },
-              {
-                "t": "p",
-                "x": "“기존 VFX 파이프라인에 AI를 통합해, 작업이 요구하는 장인정신과 통제력을 해치지 않으면서 새로운 창작 가능성을 얻었다”고 Framestore 크리에이티브 디렉터이자 VFX 슈퍼바이저인 Kamen Markov는 말했다."
-              },
-              {
-                "t": "video",
-                "yt": "r3J9A5FSAIs"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "FramestoreがAIを\nSkyのクリスマスVFXに",
-          "body": "FramestoreはSkyのDave Meyers監督CMでCGとAIを組み合わせた。",
-          "mini_headline": "FramestoreのハイブリッドAI VFX",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081755-skyxmsstill015-1280.jpg",
-                "cap": "That's Christmas Sorted"
-              },
-              {
-                "t": "p",
-                "x": "Framestoreは、Sky CreativeおよびRadicalMediaのDave Meyers監督と組み、Skyの新しいクリスマスキャンペーン「That's Christmas Sorted」を手がけた。CG環境とVFXに、従来の制作パイプラインに組み込んだAIツールを組み合わせている。Framestoreは全編を通じて実写の演技のタイミング、動き、キャラクター性を保った。"
-              },
-              {
-                "t": "p",
-                "x": "チームはMeyersの絵コンテをもとに、従来のプリビズ手法とAIツールを併用し、カメラワーク、演技、ショットのタイミング、レンズ選びを検討した。Framestoreは倉庫の屋内外環境の3D レイアウトを構築し、デジタルマットペインティングとAIツールでディテール、テクスチャ、ライティングを加えた。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill006-1280.jpg?itok=lUnQRKXQ"
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill007-1280.jpg?itok=sF7sj9HF"
-              },
-              {
-                "t": "p",
-                "x": "衣装がひとりでに動いて見えるように、Framestoreは従来のコンポジットとAI技術を組み合わせた人物除去パイプラインを開発し、特定の衣装には専用のCGキーフレームアニメーションも加えた。"
-              },
-              {
-                "t": "p",
-                "x": "「既存のVFXパイプラインにAIを組み込み、仕事に求められる技術とコントロールを損なわずに新たな創造の可能性を得た」と、Framestoreのクリエイティブディレクター兼VFXスーパーバイザー、Kamen Markovは語った。"
-              },
-              {
-                "t": "video",
-                "yt": "r3J9A5FSAIs"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Framestore把AI\n融入Sky圣诞VFX",
-          "body": "Framestore在Sky的Dave Meyers广告中结合AI与CG完成特效。",
-          "mini_headline": "Framestore的混合AI VFX",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081755-skyxmsstill015-1280.jpg",
-                "cap": "That's Christmas Sorted"
-              },
-              {
-                "t": "p",
-                "x": "Framestore与Sky Creative及RadicalMedia旗下导演Dave Meyers合作，为Sky新圣诞广告“That's Christmas Sorted”制作内容，将CG场景和VFX与嵌入传统制作流程的AI工具相结合。Framestore全程保留了真人表演的节奏、动作与角色特质。"
-              },
-              {
-                "t": "p",
-                "x": "团队以Meyers的分镜为基础，将传统预演手法与AI工具结合，探索运镜、表演、镜头时长与镜头焦段。Framestore搭建了仓库内外场景的3D 布局，并借助数字绘景和AI工具增添细节、纹理与光照。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill006-1280.jpg?itok=lUnQRKXQ"
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill007-1280.jpg?itok=sF7sj9HF"
-              },
-              {
-                "t": "p",
-                "x": "为了让服装看起来能自己动起来，Framestore开发了一套把传统合成与AI技术相结合的人物移除流程，并为特定服装制作了定制CG关键帧动画。"
-              },
-              {
-                "t": "p",
-                "x": "“我们把AI融入现有VFX流程，在不牺牲这项工作所需的手艺和控制力的前提下，获得了新的创作可能。”Framestore创意总监兼VFX总监Kamen Markov说。"
-              },
-              {
-                "t": "video",
-                "yt": "r3J9A5FSAIs"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Framestore integra AI en los\nVFX navideños de Sky",
-          "body": "Framestore usó AI con CG en el spot de Sky de Dave Meyers para previs, borrar personajes y animar trajes.",
-          "mini_headline": "La AI híbrida de Framestore en VFX",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081755-skyxmsstill015-1280.jpg",
-                "cap": "That's Christmas Sorted"
-              },
-              {
-                "t": "p",
-                "x": "Framestore se ha asociado con Sky Creative y con el director Dave Meyers, de RadicalMedia, en “That's Christmas Sorted”, la nueva campaña navideña de Sky, que combina entornos CG y VFX con herramientas de AI integradas en un pipeline de producción tradicional. Framestore conservó en todo momento el ritmo, el movimiento y el carácter de las interpretaciones en acción real."
-              },
-              {
-                "t": "p",
-                "x": "A partir de los storyboards de Meyers, el equipo combinó técnicas tradicionales de previs con herramientas de AI para explorar movimientos de cámara, interpretación, timing de los planos y elección de lentes. Framestore construyó layouts 3D de los entornos interiores y exteriores de un almacén; el matte painting digital y las herramientas de AI añadieron detalle, texturas e iluminación."
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill006-1280.jpg?itok=lUnQRKXQ"
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081755-skyxmsstill007-1280.jpg?itok=sF7sj9HF"
-              },
-              {
-                "t": "p",
-                "x": "Para que el vestuario pareciera animarse solo, Framestore desarrolló un pipeline de eliminación de personajes que combina composición tradicional con tecnología de AI, además de animación CG por keyframes hecha a medida para trajes concretos."
-              },
-              {
-                "t": "p",
-                "x": "“Integramos la AI en nuestro pipeline de VFX existente de una forma que nos dio nuevas posibilidades creativas sin comprometer el oficio ni el control que exige el trabajo”, dijo Kamen Markov, director creativo y supervisor de VFX de Framestore."
-              },
-              {
-                "t": "video",
-                "yt": "r3J9A5FSAIs"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "runway-realtime-batch-one",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Runway, 24 fps\n57B-param 스트리밍",
-      "body": "Runway는 H100s 네 개로 166.7ms 간격마다 네 프레임씩 뽑아낸다.",
-      "mini_headline": "Runway, 실시간 영상 생성",
-      "tool": "Movies",
-      "source": "Runway",
-      "url": "https://runway.com/news/research/real-time-video-at-batch-size-one",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png"
-          },
-          {
-            "t": "p",
-            "x": "Runway Characters는 이미지 한 장을 대화할 수 있는 라이브 캐릭터로 바꾼다. 뒤에서 돌아가는 건 약 57B-parameter 규모의 자기회귀 비디오 디퓨전 트랜스포머다. 초당 24 프레임(fps)을 지키려면 이 모델은 대화 내내 사용자 한 명마다 704x1088 해상도의 네 프레임 묶음을 166.7ms 간격으로 새로 뽑아내야 한다."
-          },
-          {
-            "t": "p",
-            "x": "Characters는 출시 당시 세션마다 H100s 여덟 개를 썼다. 네 개로는 출시 때 소프트웨어 기준 디퓨전 스텝당 240.9ms 걸렸지만, Runway가 최적화한 끝에 159.3ms (24.5 fps 유지)까지 줄었다. 이제 세션마다 H100s 네 개면 실시간으로 돈다. 통신을 융합한 커널을 쓰면 147.4ms 까지 내려간다."
-          },
-          {
-            "t": "p",
-            "x": "배칭은 소용없다. 세션 하나하나가 2.24 PFLOP/s 의 유효 연산을 요구하는 일대일 비공개 스트림이어서다. 쓰기 시점에 한 번만 적용하는 캐시 관리는 스텝당 69.7ms 에서 6.2ms 로 짧아졌다."
-          },
-          {
-            "t": "img",
-            "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/image-1-9ec7fdc5-4e77-4178-8704-6574c6b7b80f.png",
-            "cap": "스텝별 디퓨전 시간의 누적 폭포 차트."
-          },
-          {
-            "t": "p",
-            "x": "일곱 주치 텔레메트리를 보면 워커는 세션의 99.5% 에서 평균 23.5 fps 이상을 유지했다. 대화 턴 중앙값은 2.13s 였고, 그중 1.42s 는 음성 에이전트 몫이었다."
-          },
-          {
-            "t": "img",
-            "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/3-0d345623-81cb-40bb-9285-23d806d08d1d.png",
-            "cap": "단계별 턴 지연 시간 중앙값."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Runway streams a 57B-param\nvideo model at 24 fps",
-          "body": "For Characters, Runway generates a four-frame chunk every 166.7ms per user, running each session on four H100s.",
-          "mini_headline": "Runway video in real time",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png"
-              },
-              {
-                "t": "p",
-                "x": "Runway Characters can turn a single image into a live character you can talk to, and behind it is a roughly 57B-parameter autoregressive video diffusion transformer. At 24 frames per second (fps), that model has to generate a new four-frame chunk of 704x1088 video every 166.7ms, for one user at a time, for as long as the conversation lasts."
-              },
-              {
-                "t": "p",
-                "x": "Characters launched on eight H100s per session. On four, the launch software took 240.9ms per diffusion step; Runway's optimizations cut it to 159.3ms (24.5 fps sustained), so each session now runs in real time on four H100s. A fused communication kernel takes it to 147.4ms."
-              },
-              {
-                "t": "p",
-                "x": "Batching can't help: each session is a private, one-on-one stream needing 2.24 PFLOP/s of useful work. Cache upkeep, applied once at write time, fell from 69.7ms to 6.2ms per step."
-              },
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/image-1-9ec7fdc5-4e77-4178-8704-6574c6b7b80f.png",
-                "cap": "Cumulative waterfall of diffusion time per step."
-              },
-              {
-                "t": "p",
-                "x": "Over seven weeks of telemetry, the worker averaged above 23.5 fps in 99.5% of sessions. The median conversational turn took 2.13s, of which the voice agent accounted for 1.42s."
-              },
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/3-0d345623-81cb-40bb-9285-23d806d08d1d.png",
-                "cap": "Per-stage median turn latency."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Runway, 24 fps\n57B-param 스트리밍",
-          "body": "Runway는 H100s 네 개로 166.7ms 간격마다 네 프레임씩 뽑아낸다.",
-          "mini_headline": "Runway, 실시간 영상 생성",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png"
-              },
-              {
-                "t": "p",
-                "x": "Runway Characters는 이미지 한 장을 대화할 수 있는 라이브 캐릭터로 바꾼다. 뒤에서 돌아가는 건 약 57B-parameter 규모의 자기회귀 비디오 디퓨전 트랜스포머다. 초당 24 프레임(fps)을 지키려면 이 모델은 대화 내내 사용자 한 명마다 704x1088 해상도의 네 프레임 묶음을 166.7ms 간격으로 새로 뽑아내야 한다."
-              },
-              {
-                "t": "p",
-                "x": "Characters는 출시 당시 세션마다 H100s 여덟 개를 썼다. 네 개로는 출시 때 소프트웨어 기준 디퓨전 스텝당 240.9ms 걸렸지만, Runway가 최적화한 끝에 159.3ms (24.5 fps 유지)까지 줄었다. 이제 세션마다 H100s 네 개면 실시간으로 돈다. 통신을 융합한 커널을 쓰면 147.4ms 까지 내려간다."
-              },
-              {
-                "t": "p",
-                "x": "배칭은 소용없다. 세션 하나하나가 2.24 PFLOP/s 의 유효 연산을 요구하는 일대일 비공개 스트림이어서다. 쓰기 시점에 한 번만 적용하는 캐시 관리는 스텝당 69.7ms 에서 6.2ms 로 짧아졌다."
-              },
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/image-1-9ec7fdc5-4e77-4178-8704-6574c6b7b80f.png",
-                "cap": "스텝별 디퓨전 시간의 누적 폭포 차트."
-              },
-              {
-                "t": "p",
-                "x": "일곱 주치 텔레메트리를 보면 워커는 세션의 99.5% 에서 평균 23.5 fps 이상을 유지했다. 대화 턴 중앙값은 2.13s 였고, 그중 1.42s 는 음성 에이전트 몫이었다."
-              },
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/3-0d345623-81cb-40bb-9285-23d806d08d1d.png",
-                "cap": "단계별 턴 지연 시간 중앙값."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Runway、24 fpsで\n57B-param 動画配信",
-          "body": "RunwayはH100s 四基で166.7ms ごとに四フレームを生成する。",
-          "mini_headline": "Runway、動画をリアルタイム生成",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png"
-              },
-              {
-                "t": "p",
-                "x": "Runway Charactersは一枚の画像を、会話できるライブキャラクターに変える。その裏にあるのは約57B-parameter の自己回帰型ビデオ拡散トランスフォーマーだ。毎秒24フレーム（fps）を保つには、会話が続く限り、ユーザー一人ずつに対して704x1088の新しい四フレームのチャンクを166.7ms ごとに生成しなければならない。"
-              },
-              {
-                "t": "p",
-                "x": "Charactersはセッションあたり八基のH100s でローンチした。四基では、ローンチ時のソフトウェアは拡散ステップあたり240.9ms かかったが、Runwayの最適化で159.3ms （24.5 fpsを維持）まで短縮し、各セッションは現在H100s 四基でリアルタイムに動く。通信を融合したカーネルを使えば147.4ms まで縮まる。"
-              },
-              {
-                "t": "p",
-                "x": "バッチ処理は役に立たない。各セッションは2.24 PFLOP/s の有効演算を要する、非公開の一対一ストリームだからだ。書き込み時に一度だけ適用するキャッシュ維持の時間は、ステップあたり69.7ms から6.2ms に減った。"
-              },
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/image-1-9ec7fdc5-4e77-4178-8704-6574c6b7b80f.png",
-                "cap": "ステップごとの拡散時間の累積ウォーターフォール。"
-              },
-              {
-                "t": "p",
-                "x": "七週間のテレメトリーでは、ワーカーは99.5%のセッションで平均23.5 fps超を維持した。会話ターンの中央値は2.13s で、うち1.42s を音声エージェントが占めた。"
-              },
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/3-0d345623-81cb-40bb-9285-23d806d08d1d.png",
-                "cap": "段階別のターン遅延の中央値。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Runway以 24 fps\n运行57B-param 模型",
-          "body": "Runway为Characters每166.7ms 生成四帧，每个会话用四块H100s。",
-          "mini_headline": "Runway实时生成视频",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png"
-              },
-              {
-                "t": "p",
-                "x": "Runway Characters能把一张图片变成可以对话的实时角色，背后是一个约57B-parameter 的自回归视频扩散transformer。要维持每秒24帧（fps），该模型必须在整个对话期间，每次为一位用户、每166.7ms 生成一段新的四帧704x1088视频块。"
-              },
-              {
-                "t": "p",
-                "x": "Characters上线时每个会话使用八块H100s 。在四块上，上线时的软件每个扩散步骤耗时240.9ms ；经Runway优化后降至159.3ms （可持续24.5 fps），因此如今每个会话可在四块H100s 上实时运行。融合通信内核可进一步降至147.4ms 。"
-              },
-              {
-                "t": "p",
-                "x": "批处理无济于事：每个会话都是私密的一对一流，需要2.24 PFLOP/s 的有效算力。只在写入时执行一次的缓存维护，每步耗时从69.7ms 降到6.2ms 。"
-              },
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/image-1-9ec7fdc5-4e77-4178-8704-6574c6b7b80f.png",
-                "cap": "每步扩散时间的累积瀑布图。"
-              },
-              {
-                "t": "p",
-                "x": "在七周的遥测数据中，工作进程在99.5%的会话里平均帧率高于23.5 fps。对话轮次的中位耗时为2.13s ，其中语音代理占1.42s 。"
-              },
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/3-0d345623-81cb-40bb-9285-23d806d08d1d.png",
-                "cap": "各阶段轮次延迟中位数。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Runway transmite a 24 fps\nun modelo de video 57B-param",
-          "body": "En Characters, Runway genera un bloque de cuatro fotogramas cada 166.7ms por usuario y usa cuatro H100s por sesión.",
-          "mini_headline": "Runway, video en tiempo real",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png"
-              },
-              {
-                "t": "p",
-                "x": "Runway Characters puede convertir una sola imagen en un personaje en vivo con el que se puede hablar, y detrás hay un transformer de difusión de video autorregresivo de unos 57B-parameter. A 24 fotogramas por segundo (fps), ese modelo debe generar un nuevo bloque de cuatro fotogramas de video de 704x1088 cada 166.7ms, para un usuario a la vez, mientras dure la conversación."
-              },
-              {
-                "t": "p",
-                "x": "Characters se lanzó con ocho H100s por sesión. Con cuatro, el software de lanzamiento tardaba 240.9ms por paso de difusión; las optimizaciones de Runway lo redujeron a 159.3ms (24.5 fps sostenidos), así que cada sesión ya funciona en tiempo real con cuatro H100s. Un kernel de comunicación fusionado lo baja a 147.4ms."
-              },
-              {
-                "t": "p",
-                "x": "El batching no ayuda: cada sesión es un flujo privado, uno a uno, que necesita 2.24 PFLOP/s de trabajo útil. El mantenimiento de la caché, aplicado una sola vez al escribir, bajó de 69.7ms a 6.2ms por paso."
-              },
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/image-1-9ec7fdc5-4e77-4178-8704-6574c6b7b80f.png",
-                "cap": "Cascada acumulada del tiempo de difusión por paso."
-              },
-              {
-                "t": "p",
-                "x": "En siete semanas de telemetría, el worker promedió más de 23.5 fps en el 99.5% de las sesiones. El turno conversacional mediano duró 2.13s, de los cuales el agente de voz representó 1.42s."
-              },
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/3-0d345623-81cb-40bb-9285-23d806d08d1d.png",
-                "cap": "Latencia mediana del turno por etapa."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Runway, 24 fps\n57B-param 스트리밍",
-          "body": "Runway는 H100s 네 개로 166.7ms 간격마다 네 프레임을 만든다.",
-          "mini_headline": "Runway, 실시간 영상 생성",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png"
-              },
-              {
-                "t": "p",
-                "x": "Runway Characters는 이미지 한 장을 대화할 수 있는 라이브 캐릭터로 바꾼다. 그 뒤에는 약 57B-parameter 규모의 자기회귀 비디오 디퓨전 트랜스포머가 있다. 초당 24 프레임(fps)을 유지하려면 이 모델은 대화가 이어지는 동안 사용자 한 명씩을 상대로 704x1088 해상도의 새 네 프레임 묶음을 166.7ms 간격으로 생성해야 한다."
-              },
-              {
-                "t": "p",
-                "x": "Characters는 출시 당시 세션당 H100s 여덟 개로 돌았다. 네 개에서는 출시 때 소프트웨어가 디퓨전 스텝당 240.9ms 걸렸지만, Runway의 최적화로 159.3ms (24.5 fps 유지)까지 줄어 이제 세션마다 H100s 네 개로 실시간 구동이 가능하다. 통신을 융합한 커널을 쓰면 147.4ms 까지 내려간다."
-              },
-              {
-                "t": "p",
-                "x": "배칭은 도움이 되지 않는다. 각 세션은 2.24 PFLOP/s 의 유효 연산이 필요한 일대일 비공개 스트림이기 때문이다. 쓰기 시점에 한 번만 적용하는 캐시 관리 시간은 스텝당 69.7ms 에서 6.2ms 로 줄었다."
-              },
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/image-1-9ec7fdc5-4e77-4178-8704-6574c6b7b80f.png",
-                "cap": "스텝별 디퓨전 시간의 누적 폭포 차트."
-              },
-              {
-                "t": "p",
-                "x": "일곱 주 동안의 텔레메트리에서 워커는 세션의 99.5% 에서 평균 23.5 fps 이상을 유지했다. 대화 턴 중앙값은 2.13s 였고, 이 가운데 1.42s 를 음성 에이전트가 차지했다."
-              },
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/3-0d345623-81cb-40bb-9285-23d806d08d1d.png",
-                "cap": "단계별 턴 지연 시간 중앙값."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Runway、24 fpsで\n57B-param 動画配信",
-          "body": "RunwayはH100s 四基で166.7ms ごとに四フレームを生成する。",
-          "mini_headline": "Runway、動画をリアルタイム生成",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png"
-              },
-              {
-                "t": "p",
-                "x": "Runway Charactersは一枚の画像を、会話できるライブキャラクターに変える。その裏にあるのは約57B-parameter の自己回帰型ビデオ拡散トランスフォーマーだ。毎秒24フレーム（fps）を保つには、会話が続く限り、ユーザー一人ずつに対して704x1088の新しい四フレームのチャンクを166.7ms ごとに生成しなければならない。"
-              },
-              {
-                "t": "p",
-                "x": "Charactersはセッションあたり八基のH100s でローンチした。四基では、ローンチ時のソフトウェアは拡散ステップあたり240.9ms かかったが、Runwayの最適化で159.3ms （24.5 fpsを維持）まで短縮し、各セッションは現在H100s 四基でリアルタイムに動く。通信を融合したカーネルを使えば147.4ms まで縮まる。"
-              },
-              {
-                "t": "p",
-                "x": "バッチ処理は役に立たない。各セッションは2.24 PFLOP/s の有効演算を要する、非公開の一対一ストリームだからだ。書き込み時に一度だけ適用するキャッシュ維持の時間は、ステップあたり69.7ms から6.2ms に減った。"
-              },
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/image-1-9ec7fdc5-4e77-4178-8704-6574c6b7b80f.png",
-                "cap": "ステップごとの拡散時間の累積ウォーターフォール。"
-              },
-              {
-                "t": "p",
-                "x": "七週間のテレメトリーでは、ワーカーは99.5%のセッションで平均23.5 fps超を維持した。会話ターンの中央値は2.13s で、うち1.42s を音声エージェントが占めた。"
-              },
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/3-0d345623-81cb-40bb-9285-23d806d08d1d.png",
-                "cap": "段階別のターン遅延の中央値。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Runway以 24 fps\n运行57B-param 模型",
-          "body": "Runway为Characters每166.7ms 生成四帧，每个会话用四块H100s。",
-          "mini_headline": "Runway实时生成视频",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png"
-              },
-              {
-                "t": "p",
-                "x": "Runway Characters能把一张图片变成可以对话的实时角色，背后是一个约57B-parameter 的自回归视频扩散transformer。要维持每秒24帧（fps），该模型必须在整个对话期间，每次为一位用户、每166.7ms 生成一段新的四帧704x1088视频块。"
-              },
-              {
-                "t": "p",
-                "x": "Characters上线时每个会话使用八块H100s 。在四块上，上线时的软件每个扩散步骤耗时240.9ms ；经Runway优化后降至159.3ms （可持续24.5 fps），因此如今每个会话可在四块H100s 上实时运行。融合通信内核可进一步降至147.4ms 。"
-              },
-              {
-                "t": "p",
-                "x": "批处理无济于事：每个会话都是私密的一对一流，需要2.24 PFLOP/s 的有效算力。只在写入时执行一次的缓存维护，每步耗时从69.7ms 降到6.2ms 。"
-              },
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/image-1-9ec7fdc5-4e77-4178-8704-6574c6b7b80f.png",
-                "cap": "每步扩散时间的累积瀑布图。"
-              },
-              {
-                "t": "p",
-                "x": "在七周的遥测数据中，工作进程在99.5%的会话里平均帧率高于23.5 fps。对话轮次的中位耗时为2.13s ，其中语音代理占1.42s 。"
-              },
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/3-0d345623-81cb-40bb-9285-23d806d08d1d.png",
-                "cap": "各阶段轮次延迟中位数。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Runway transmite a 24 fps\nun modelo de video 57B-param",
-          "body": "En Characters, Runway genera un bloque de cuatro fotogramas cada 166.7ms por usuario y usa cuatro H100s por sesión.",
-          "mini_headline": "Runway, video en tiempo real",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png"
-              },
-              {
-                "t": "p",
-                "x": "Runway Characters puede convertir una sola imagen en un personaje en vivo con el que se puede hablar, y detrás hay un transformer de difusión de video autorregresivo de unos 57B-parameter. A 24 fotogramas por segundo (fps), ese modelo debe generar un nuevo bloque de cuatro fotogramas de video de 704x1088 cada 166.7ms, para un usuario a la vez, mientras dure la conversación."
-              },
-              {
-                "t": "p",
-                "x": "Characters se lanzó con ocho H100s por sesión. Con cuatro, el software de lanzamiento tardaba 240.9ms por paso de difusión; las optimizaciones de Runway lo redujeron a 159.3ms (24.5 fps sostenidos), así que cada sesión ya funciona en tiempo real con cuatro H100s. Un kernel de comunicación fusionado lo baja a 147.4ms."
-              },
-              {
-                "t": "p",
-                "x": "El batching no ayuda: cada sesión es un flujo privado, uno a uno, que necesita 2.24 PFLOP/s de trabajo útil. El mantenimiento de la caché, aplicado una sola vez al escribir, bajó de 69.7ms a 6.2ms por paso."
-              },
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/image-1-9ec7fdc5-4e77-4178-8704-6574c6b7b80f.png",
-                "cap": "Cascada acumulada del tiempo de difusión por paso."
-              },
-              {
-                "t": "p",
-                "x": "En siete semanas de telemetría, el worker promedió más de 23.5 fps en el 99.5% de las sesiones. El turno conversacional mediano duró 2.13s, de los cuales el agente de voz representó 1.42s."
-              },
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/3-0d345623-81cb-40bb-9285-23d806d08d1d.png",
-                "cap": "Latencia mediana del turno por etapa."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "rotld-aftermath-ai-sequel",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI-made 속편에\n원년 배우들 반발",
-      "body": "Linnea Quigley·Beverly Randolph는 AI로만 영화에 나왔다.",
-      "mini_headline": "원년 배우들, AI 공포 속편 부인",
-      "tool": "Movies",
-      "source": "Bloody Disgusting",
-      "url": "https://bloody-disgusting.com/movie/3975227/return-of-the-living-dead-aftermath-backlash-ai-linnea-quigley/",
+      "source": "ProVideo Coalition",
+      "url": "https://www.provideocoalition.com/avids-ready-to-play-brings-ai-video-generation-directly-into-media-composer/",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
@@ -1195,173 +421,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg?resize=1600%2C900&ssl=1"
+            "src": "https://www.provideocoalition.com/wp-content/uploads/media-composer-ready-to-play-app-perspective-1080p-1.jpg"
           },
           {
             "t": "p",
-            "x": "시월 31일, DragonFLIX가 Return of the Living Dead: Aftermath를 조용히 공개했다. 원년 출연진 Linnea Quigley와 Beverly Randolph도 등장한다던 영화다. 정작 두 사람은 아무것도 촬영하지 않았는데 영화에 자기가 나와 놀랐다."
+            "x": "Avid가 Media Composer용 AI-powered 확장 기능 Ready to Play를 새로 내놨다. Google Cloud와 함께 만들었고 Google의 Gemini와 Veo AI 모델이 돌아간다. Media Composer Ultimate와 Enterprise 사용자는 Avid에 따로 돈을 내지 않고 지금 바로 쓸 수 있다. 다만 Google의 AI 모델을 쓰려면 자격을 갖춘 Google Cloud 결제 계정이 있어야 한다."
           },
           {
             "t": "p",
-            "x": "영화는 Richard Driscoll이 ‘연출’한 것으로 크레디트에 올라 있지만, 거의 전부가 AI-generated 이미지와 대사로 이뤄졌다. 각본을 ‘쓴’ 사람도 Driscoll이다."
+            "x": "Create Video는 텍스트 프롬프트나 클립·시퀀스에서 뽑은 정지 이미지로 영상 클립을 만들어 Media Composer 빈에 넣는다. Modify Video는 붐 마이크 지우기처럼 클립의 화면을 텍스트 프롬프트로 바꿔 보는데, 원본 미디어는 그대로 둔 채 결과물을 따로 만든다. Analyze Video는 클립에 붙일 설명 메타데이터를 만들며 이미 입력된 내용은 덮어쓰지 않는다."
           },
           {
             "t": "p",
-            "x": "Quigley는 Caffeinated Horror Dude 팟캐스트에서 “결국 대실패로 끝났다”고 말했다. “그에게 ‘무슨 일이 있어도 AI만은 쓰지 마라, 사람들도 싫어하고 팬들도 싫어한다’고 경고했다.” Randolph는 “우리가 계약한 건 이런 게 아니다”라고 덧붙였다."
-          },
-          {
-            "t": "p",
-            "x": "Letterboxd에 매겨진 평점은 현재 95%가 별 다섯 개 만점에 별 1/2개다."
+            "x": "Ready to Play는 Avid가 Google Cloud와 파트너십을 넓힌 뒤 처음 내놓은 상용 제품이다. Avid가 American Cinema Editors(ACE) 소속 편집자 120명에게 물었더니 AI를 매일 또는 매주 쓰는 응답자의 80% 이상이 AI 도구는 지금 쓰는 애플리케이션 안에 있어야 한다고 답했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Original stars disown AI-made\n'Return of the Living Dead'",
-          "body": "Linnea Quigley and Beverly Randolph say DragonFLIX's AI sequel shows them without their having filmed anything.",
-          "mini_headline": "Stars disown AI horror sequel",
+          "headline": "Avid puts Veo video generation\ninside Media Composer",
+          "body": "Avid's Ready to Play, built with Google Cloud on Gemini and Veo, brings AI video generation into Media Composer.",
+          "mini_headline": "Avid adds Veo to Media Composer",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg?resize=1600%2C900&ssl=1"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/media-composer-ready-to-play-app-perspective-1080p-1.jpg"
               },
               {
                 "t": "p",
-                "x": "On October 31, Return of the Living Dead: Aftermath was quietly released by DragonFLIX. The film was even set to feature original cast members Linnea Quigley and Beverly Randolph — and it surprised them, as they appear in it without having actually filmed anything."
+                "x": "Avid has announced Ready to Play, a new AI-powered extension for Media Composer built in partnership with Google Cloud and powered by Google's Gemini and Veo AI models. It's available now for Media Composer Ultimate and Enterprise users at no additional charge from Avid, though access to Google's AI models requires an eligible Google Cloud billing account."
               },
               {
                 "t": "p",
-                "x": "While the movie is credited as “directed” by Richard Driscoll, nearly the entire film is comprised of AI-generated imagery and dialogue. Driscoll is also credited with having “written” the film."
+                "x": "Create Video generates video clips from a text prompt or from a still image pulled from a clip or sequence; the result lands in a Media Composer bin. Modify Video uses a text prompt to explore visual changes to a clip, such as removing a boom mic, and generates a separate output that preserves the original media. Analyze Video generates descriptive metadata you can add to clips, without overwriting anything already entered."
               },
               {
                 "t": "p",
-                "x": "“It turned out to be a fiasco,” Quigley told the Caffeinated Horror Dude podcast. “I warned him, ‘Whatever you do, don’t do any AI, because people don’t like it, the fans don’t like it.’” Randolph added, “This is not what we signed up for.”"
-              },
-              {
-                "t": "p",
-                "x": "On Letterboxd, 95% of the current ratings are 1/2 star out of five."
+                "x": "Ready to Play is the first commercial product to come out of Avid's expanded Google Cloud partnership. In an Avid survey of 120 editors with American Cinema Editors (ACE), more than 80% of daily or weekly AI users said AI tools should be built into the applications they already use."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI-made 속편에\n원년 배우들 반발",
-          "body": "Linnea Quigley·Beverly Randolph는 AI로만 영화에 나왔다.",
-          "mini_headline": "원년 배우들, AI 공포 속편 부인",
+          "headline": "Avid 편집기에\nVeo 영상 생성 탑재",
+          "body": "Ready to Play로 Media Composer 안에서 Veo를 쓴다.",
+          "mini_headline": "Avid, Media Composer에 Veo 추가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg?resize=1600%2C900&ssl=1"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/media-composer-ready-to-play-app-perspective-1080p-1.jpg"
               },
               {
                 "t": "p",
-                "x": "시월 31일, DragonFLIX가 Return of the Living Dead: Aftermath를 조용히 공개했다. 원년 출연진 Linnea Quigley와 Beverly Randolph도 등장한다던 영화다. 정작 두 사람은 아무것도 촬영하지 않았는데 영화에 자기가 나와 놀랐다."
+                "x": "Avid가 Media Composer용 AI-powered 확장 기능 Ready to Play를 새로 내놨다. Google Cloud와 함께 만들었고 Google의 Gemini와 Veo AI 모델이 돌아간다. Media Composer Ultimate와 Enterprise 사용자는 Avid에 따로 돈을 내지 않고 지금 바로 쓸 수 있다. 다만 Google의 AI 모델을 쓰려면 자격을 갖춘 Google Cloud 결제 계정이 있어야 한다."
               },
               {
                 "t": "p",
-                "x": "영화는 Richard Driscoll이 ‘연출’한 것으로 크레디트에 올라 있지만, 거의 전부가 AI-generated 이미지와 대사로 이뤄졌다. 각본을 ‘쓴’ 사람도 Driscoll이다."
+                "x": "Create Video는 텍스트 프롬프트나 클립·시퀀스에서 뽑은 정지 이미지로 영상 클립을 만들어 Media Composer 빈에 넣는다. Modify Video는 붐 마이크 지우기처럼 클립의 화면을 텍스트 프롬프트로 바꿔 보는데, 원본 미디어는 그대로 둔 채 결과물을 따로 만든다. Analyze Video는 클립에 붙일 설명 메타데이터를 만들며 이미 입력된 내용은 덮어쓰지 않는다."
               },
               {
                 "t": "p",
-                "x": "Quigley는 Caffeinated Horror Dude 팟캐스트에서 “결국 대실패로 끝났다”고 말했다. “그에게 ‘무슨 일이 있어도 AI만은 쓰지 마라, 사람들도 싫어하고 팬들도 싫어한다’고 경고했다.” Randolph는 “우리가 계약한 건 이런 게 아니다”라고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "Letterboxd에 매겨진 평점은 현재 95%가 별 다섯 개 만점에 별 1/2개다."
+                "x": "Ready to Play는 Avid가 Google Cloud와 파트너십을 넓힌 뒤 처음 내놓은 상용 제품이다. Avid가 American Cinema Editors(ACE) 소속 편집자 120명에게 물었더니 AI를 매일 또는 매주 쓰는 응답자의 80% 이상이 AI 도구는 지금 쓰는 애플리케이션 안에 있어야 한다고 답했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-madeの続編に\n初代キャストが反発",
-          "body": "Linnea QuigleyとBeverly Randolph、撮影なしでAI出演と語る。",
-          "mini_headline": "初代キャスト、AIホラー続編を否定",
+          "headline": "Avid編集ソフトに\nVeoの動画生成",
+          "body": "Ready to PlayがMedia ComposerにVeoの動画生成を組み込む。",
+          "mini_headline": "AvidがMedia ComposerにVeoを追加",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg?resize=1600%2C900&ssl=1"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/media-composer-ready-to-play-app-perspective-1080p-1.jpg"
               },
               {
                 "t": "p",
-                "x": "十月31日、DragonFLIXがReturn of the Living Dead: Aftermathをひっそりと公開した。本作には初代キャストのLinnea QuigleyとBeverly Randolphまで登場する予定だったが、実際には何も撮影していないのに出演していたことに二人は驚いた。"
+                "x": "Avidは、Media Composer向けの新たなAI-poweredエクステンション「Ready to Play」を発表した。Google Cloudとの提携で開発され、GoogleのGeminiとVeoのAIモデルで動作する。Media Composer UltimateとEnterpriseのユーザーはAvidからの追加料金なしで今すぐ利用できるが、GoogleのAIモデルの利用には対象となるGoogle Cloudの請求先アカウントが必要だ。"
               },
               {
                 "t": "p",
-                "x": "本作はRichard Driscollの「監督」作品としてクレジットされているが、ほぼ全編がAI-generated の映像と台詞で構成されている。Driscollは「脚本」としてもクレジットされている。"
+                "x": "Create Videoは、テキストプロンプトやクリップ・シーケンスから取り出した静止画から動画クリップを生成し、結果はMedia Composerのビンに入る。Modify Videoはテキストプロンプトを使ってブームマイクの除去などクリップの視覚的な変更を試し、元のメディアを保ったまま別の出力を生成する。Analyze Videoは、すでに入力された内容を上書きせずにクリップへ追加できる説明的なメタデータを生成する。"
               },
               {
                 "t": "p",
-                "x": "「結局、大失敗に終わった」とQuigleyはCaffeinated Horror Dudeポッドキャストで語った。「彼には『何があってもAIだけは使わないで。みんな嫌がるし、ファンも嫌がるから』と警告した」。Randolphは「こんなことに同意したわけじゃない」と付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "Letterboxdでは、現在の評価の95%が五つ星中1/2だ。"
+                "x": "Ready to Playは、AvidがGoogle Cloudとの提携を拡大して生まれた最初の商用製品だ。AvidがAmerican Cinema Editors（ACE）の編集者120人を対象に行った調査では、AIを毎日または毎週使う人の80%以上が、AIツールは普段使っているアプリケーションに組み込まれるべきだと答えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "原班演员撇清\nAI-made恐怖续集",
-          "body": "Linnea Quigley和Beverly Randolph称未拍摄却出现在AI续集中。",
-          "mini_headline": "原班演员撇清AI恐怖续集",
+          "headline": "Avid把Veo视频生成装进\nMedia Composer",
+          "body": "Avid的Ready to Play把Veo视频生成带入Media Composer。",
+          "mini_headline": "Avid为Media Composer加入Veo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg?resize=1600%2C900&ssl=1"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/media-composer-ready-to-play-app-perspective-1080p-1.jpg"
               },
               {
                 "t": "p",
-                "x": "十月31日，DragonFLIX悄然发行了Return of the Living Dead: Aftermath。片中甚至安排了原班演员Linnea Quigley和Beverly Randolph出演——这让她们大吃一惊，因为她们根本没有拍摄任何镜头，却出现在了片中。"
+                "x": "Avid发布了Media Composer的全新AI-powered扩展Ready to Play，它与Google Cloud合作打造，由Google的Gemini和Veo AI模型驱动。Media Composer Ultimate和Enterprise用户现在即可使用，Avid不额外收费，但使用Google的AI模型需要符合条件的Google Cloud结算账户。"
               },
               {
                 "t": "p",
-                "x": "该片署名由Richard Driscoll“执导”，但几乎整部影片都由AI-generated 画面和对白构成。Driscoll还挂名“编剧”。"
+                "x": "Create Video可根据文本提示词，或从片段、序列中截取的静帧生成视频片段，结果会进入Media Composer素材箱。Modify Video通过文本提示词尝试对片段做视觉修改，例如去除吊杆麦克风，并生成保留原始素材的独立输出。Analyze Video生成可添加到片段的描述性元数据，不会覆盖已录入的内容。"
               },
               {
                 "t": "p",
-                "x": "“结果成了一场闹剧，”Quigley在Caffeinated Horror Dude播客中说，“我警告过他：‘无论如何，千万别用AI，因为大家不喜欢，粉丝也不喜欢。’”Randolph补充道：“这不是我们当初签约要做的。”"
-              },
-              {
-                "t": "p",
-                "x": "在Letterboxd上，目前95%的评分是五星中的1/2星。"
+                "x": "Ready to Play是Avid扩大与Google Cloud合作后推出的首款商业产品。在Avid对American Cinema Editors（ACE）的120名剪辑师进行的调查中，每天或每周使用AI的人里有超过80%表示，AI工具应内置于他们已在使用的应用中。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Elenco original repudia AI-made\n'Return of the Living Dead'",
-          "body": "Linnea Quigley y Beverly Randolph dicen que la secuela con AI de DragonFLIX las muestra sin que hayan filmado nada.",
-          "mini_headline": "El elenco repudia la secuela AI",
+          "headline": "Avid integra la generación de\nvideo Veo en Media Composer",
+          "body": "Ready to Play de Avid, hecho con Google Cloud sobre Gemini y Veo, lleva video generado por AI a Media Composer.",
+          "mini_headline": "Avid suma Veo a Media Composer",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg?resize=1600%2C900&ssl=1"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/media-composer-ready-to-play-app-perspective-1080p-1.jpg"
               },
               {
                 "t": "p",
-                "x": "El 31 de octubre, DragonFLIX estrenó discretamente Return of the Living Dead: Aftermath. La película incluso iba a contar con las actrices del reparto original Linnea Quigley y Beverly Randolph, y eso las sorprendió, ya que aparecen en ella sin haber filmado nada."
+                "x": "Avid ha anunciado Ready to Play, una nueva extensión AI-powered para Media Composer creada en colaboración con Google Cloud e impulsada por los modelos de AI Gemini y Veo de Google. Ya está disponible para los usuarios de Media Composer Ultimate y Enterprise sin costo adicional por parte de Avid, aunque el acceso a los modelos de AI de Google requiere una cuenta de facturación de Google Cloud que cumpla los requisitos."
               },
               {
                 "t": "p",
-                "x": "Aunque la película figura como “dirigida” por Richard Driscoll, casi toda está compuesta por imágenes y diálogos AI-generated. Driscoll también figura como quien la “escribió”."
+                "x": "Create Video genera clips de video a partir de un prompt de texto o de una imagen fija extraída de un clip o una secuencia; el resultado llega a un bin de Media Composer. Modify Video usa un prompt de texto para explorar cambios visuales en un clip, como quitar un micrófono de pértiga, y genera una salida aparte que conserva el material original. Analyze Video genera metadatos descriptivos que se pueden añadir a los clips sin sobrescribir nada de lo ya introducido."
               },
               {
                 "t": "p",
-                "x": "“Resultó ser un fiasco”, dijo Quigley al podcast Caffeinated Horror Dude. “Le advertí: ‘Hagas lo que hagas, no uses nada de AI, porque a la gente no le gusta, a los fans no les gusta’”. Randolph añadió: “Esto no es para lo que firmamos”."
-              },
-              {
-                "t": "p",
-                "x": "En Letterboxd, el 95% de las calificaciones actuales son de 1/2 estrella sobre cinco."
+                "x": "Ready to Play es el primer producto comercial que surge de la ampliada alianza de Avid con Google Cloud. En una encuesta de Avid a 120 editores de American Cinema Editors (ACE), más del 80% de quienes usan AI a diario o cada semana dijo que las herramientas de AI deberían estar integradas en las aplicaciones que ya utilizan."
               }
             ]
           }
@@ -1369,121 +571,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI-made 속편에\n원년 배우들 반발",
-          "body": "Linnea Quigley·Beverly Randolph는 AI로만 출연했다.",
-          "mini_headline": "원년 배우들, AI 공포 속편 부인",
+          "headline": "Avid 편집기 안에\nVeo 영상 생성 기능",
+          "body": "Ready to Play로 Media Composer에 Veo가 들어왔다.",
+          "mini_headline": "Avid, Media Composer에 Veo 추가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg?resize=1600%2C900&ssl=1"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/media-composer-ready-to-play-app-perspective-1080p-1.jpg"
               },
               {
                 "t": "p",
-                "x": "시월 31일, DragonFLIX가 Return of the Living Dead: Aftermath를 조용히 공개했다. 이 영화에는 원년 출연진인 Linnea Quigley와 Beverly Randolph까지 등장할 예정이었는데, 정작 두 사람은 아무것도 촬영하지 않은 채 영화에 나와 놀랐다."
+                "x": "Avid가 Media Composer용 새 AI-powered 확장 기능 Ready to Play를 발표했다. Google Cloud와 협력해 만들었고 Google의 Gemini와 Veo AI 모델로 구동된다. Media Composer Ultimate와 Enterprise 사용자는 지금 Avid에 추가 비용 없이 쓸 수 있지만, Google의 AI 모델에 접근하려면 자격을 갖춘 Google Cloud 결제 계정이 필요하다."
               },
               {
                 "t": "p",
-                "x": "영화는 Richard Driscoll이 ‘연출’한 것으로 크레디트에 올라 있지만, 거의 전부가 AI-generated 이미지와 대사로 이뤄졌다. Driscoll은 각본을 ‘쓴’ 사람으로도 올라 있다."
+                "x": "Create Video는 텍스트 프롬프트나 클립·시퀀스에서 가져온 정지 이미지로 영상 클립을 생성하고, 결과물은 Media Composer 빈에 들어간다. Modify Video는 텍스트 프롬프트로 붐 마이크 제거 같은 클립의 시각적 변경을 시도하고, 원본 미디어를 보존한 별도 결과물을 만든다. Analyze Video는 이미 입력된 내용을 덮어쓰지 않고 클립에 추가할 수 있는 설명 메타데이터를 생성한다."
               },
               {
                 "t": "p",
-                "x": "“결국 대실패로 끝났다”고 Quigley는 Caffeinated Horror Dude 팟캐스트에서 말했다. “그에게 ‘무슨 일이 있어도 AI만은 쓰지 마라, 사람들도 싫어하고 팬들도 싫어한다’고 경고했다.” Randolph는 “우리가 계약한 건 이런 게 아니다”라고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "Letterboxd에서 현재 평점의 95%가 별 다섯 개 만점에 별 1/2개다."
+                "x": "Ready to Play는 Avid가 Google Cloud와의 파트너십을 확대한 뒤 나온 첫 상용 제품이다. Avid가 American Cinema Editors(ACE) 소속 편집자 120명을 대상으로 한 설문에서, AI를 매일 또는 매주 쓰는 응답자의 80% 이상이 AI 도구가 이미 쓰는 애플리케이션 안에 들어가야 한다고 답했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-madeの続編に\n初代キャストが反発",
-          "body": "Linnea QuigleyとBeverly Randolph、撮影なしでAI出演と語る。",
-          "mini_headline": "初代キャスト、AIホラー続編を否定",
+          "headline": "Avid編集ソフトに\nVeoの動画生成",
+          "body": "Ready to PlayがMedia ComposerにVeoの動画生成を組み込む。",
+          "mini_headline": "AvidがMedia ComposerにVeoを追加",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg?resize=1600%2C900&ssl=1"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/media-composer-ready-to-play-app-perspective-1080p-1.jpg"
               },
               {
                 "t": "p",
-                "x": "十月31日、DragonFLIXがReturn of the Living Dead: Aftermathをひっそりと公開した。本作には初代キャストのLinnea QuigleyとBeverly Randolphまで登場する予定だったが、実際には何も撮影していないのに出演していたことに二人は驚いた。"
+                "x": "Avidは、Media Composer向けの新たなAI-poweredエクステンション「Ready to Play」を発表した。Google Cloudとの提携で開発され、GoogleのGeminiとVeoのAIモデルで動作する。Media Composer UltimateとEnterpriseのユーザーはAvidからの追加料金なしで今すぐ利用できるが、GoogleのAIモデルの利用には対象となるGoogle Cloudの請求先アカウントが必要だ。"
               },
               {
                 "t": "p",
-                "x": "本作はRichard Driscollの「監督」作品としてクレジットされているが、ほぼ全編がAI-generated の映像と台詞で構成されている。Driscollは「脚本」としてもクレジットされている。"
+                "x": "Create Videoは、テキストプロンプトやクリップ・シーケンスから取り出した静止画から動画クリップを生成し、結果はMedia Composerのビンに入る。Modify Videoはテキストプロンプトを使ってブームマイクの除去などクリップの視覚的な変更を試し、元のメディアを保ったまま別の出力を生成する。Analyze Videoは、すでに入力された内容を上書きせずにクリップへ追加できる説明的なメタデータを生成する。"
               },
               {
                 "t": "p",
-                "x": "「結局、大失敗に終わった」とQuigleyはCaffeinated Horror Dudeポッドキャストで語った。「彼には『何があってもAIだけは使わないで。みんな嫌がるし、ファンも嫌がるから』と警告した」。Randolphは「こんなことに同意したわけじゃない」と付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "Letterboxdでは、現在の評価の95%が五つ星中1/2だ。"
+                "x": "Ready to Playは、AvidがGoogle Cloudとの提携を拡大して生まれた最初の商用製品だ。AvidがAmerican Cinema Editors（ACE）の編集者120人を対象に行った調査では、AIを毎日または毎週使う人の80%以上が、AIツールは普段使っているアプリケーションに組み込まれるべきだと答えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "原班演员撇清\nAI-made恐怖续集",
-          "body": "Linnea Quigley和Beverly Randolph称未拍摄却出现在AI续集中。",
-          "mini_headline": "原班演员撇清AI恐怖续集",
+          "headline": "Avid把Veo视频生成装进\nMedia Composer",
+          "body": "Avid的Ready to Play把Veo视频生成带入Media Composer。",
+          "mini_headline": "Avid为Media Composer加入Veo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg?resize=1600%2C900&ssl=1"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/media-composer-ready-to-play-app-perspective-1080p-1.jpg"
               },
               {
                 "t": "p",
-                "x": "十月31日，DragonFLIX悄然发行了Return of the Living Dead: Aftermath。片中甚至安排了原班演员Linnea Quigley和Beverly Randolph出演——这让她们大吃一惊，因为她们根本没有拍摄任何镜头，却出现在了片中。"
+                "x": "Avid发布了Media Composer的全新AI-powered扩展Ready to Play，它与Google Cloud合作打造，由Google的Gemini和Veo AI模型驱动。Media Composer Ultimate和Enterprise用户现在即可使用，Avid不额外收费，但使用Google的AI模型需要符合条件的Google Cloud结算账户。"
               },
               {
                 "t": "p",
-                "x": "该片署名由Richard Driscoll“执导”，但几乎整部影片都由AI-generated 画面和对白构成。Driscoll还挂名“编剧”。"
+                "x": "Create Video可根据文本提示词，或从片段、序列中截取的静帧生成视频片段，结果会进入Media Composer素材箱。Modify Video通过文本提示词尝试对片段做视觉修改，例如去除吊杆麦克风，并生成保留原始素材的独立输出。Analyze Video生成可添加到片段的描述性元数据，不会覆盖已录入的内容。"
               },
               {
                 "t": "p",
-                "x": "“结果成了一场闹剧，”Quigley在Caffeinated Horror Dude播客中说，“我警告过他：‘无论如何，千万别用AI，因为大家不喜欢，粉丝也不喜欢。’”Randolph补充道：“这不是我们当初签约要做的。”"
-              },
-              {
-                "t": "p",
-                "x": "在Letterboxd上，目前95%的评分是五星中的1/2星。"
+                "x": "Ready to Play是Avid扩大与Google Cloud合作后推出的首款商业产品。在Avid对American Cinema Editors（ACE）的120名剪辑师进行的调查中，每天或每周使用AI的人里有超过80%表示，AI工具应内置于他们已在使用的应用中。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Elenco original repudia AI-made\n'Return of the Living Dead'",
-          "body": "Linnea Quigley y Beverly Randolph dicen que la secuela con AI de DragonFLIX las muestra sin que hayan filmado nada.",
-          "mini_headline": "El elenco repudia la secuela AI",
+          "headline": "Avid integra la generación de\nvideo Veo en Media Composer",
+          "body": "Ready to Play de Avid, hecho con Google Cloud sobre Gemini y Veo, lleva video generado por AI a Media Composer.",
+          "mini_headline": "Avid suma Veo a Media Composer",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg?resize=1600%2C900&ssl=1"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/media-composer-ready-to-play-app-perspective-1080p-1.jpg"
               },
               {
                 "t": "p",
-                "x": "El 31 de octubre, DragonFLIX estrenó discretamente Return of the Living Dead: Aftermath. La película incluso iba a contar con las actrices del reparto original Linnea Quigley y Beverly Randolph, y eso las sorprendió, ya que aparecen en ella sin haber filmado nada."
+                "x": "Avid ha anunciado Ready to Play, una nueva extensión AI-powered para Media Composer creada en colaboración con Google Cloud e impulsada por los modelos de AI Gemini y Veo de Google. Ya está disponible para los usuarios de Media Composer Ultimate y Enterprise sin costo adicional por parte de Avid, aunque el acceso a los modelos de AI de Google requiere una cuenta de facturación de Google Cloud que cumpla los requisitos."
               },
               {
                 "t": "p",
-                "x": "Aunque la película figura como “dirigida” por Richard Driscoll, casi toda está compuesta por imágenes y diálogos AI-generated. Driscoll también figura como quien la “escribió”."
+                "x": "Create Video genera clips de video a partir de un prompt de texto o de una imagen fija extraída de un clip o una secuencia; el resultado llega a un bin de Media Composer. Modify Video usa un prompt de texto para explorar cambios visuales en un clip, como quitar un micrófono de pértiga, y genera una salida aparte que conserva el material original. Analyze Video genera metadatos descriptivos que se pueden añadir a los clips sin sobrescribir nada de lo ya introducido."
               },
               {
                 "t": "p",
-                "x": "“Resultó ser un fiasco”, dijo Quigley al podcast Caffeinated Horror Dude. “Le advertí: ‘Hagas lo que hagas, no uses nada de AI, porque a la gente no le gusta, a los fans no les gusta’”. Randolph añadió: “Esto no es para lo que firmamos”."
-              },
-              {
-                "t": "p",
-                "x": "En Letterboxd, el 95% de las calificaciones actuales son de 1/2 estrella sobre cinco."
+                "x": "Ready to Play es el primer producto comercial que surge de la ampliada alianza de Avid con Google Cloud. En una encuesta de Avid a 120 editores de American Cinema Editors (ACE), más del 80% de quienes usan AI a diario o cada semana dijo que las herramientas de AI deberían estar integradas en las aplicaciones que ya utilizan."
               }
             ]
           }
@@ -1491,213 +677,195 @@
       }
     },
     {
-      "id": "variety-ai-films-costlier-35mm",
+      "id": "webby-credits-registry",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 영화 제작비가\n35mm 시대 넘을 수도",
-      "body": "Kim Kwang-jib은 100분 AI 영화 토큰만 $366,000 넘는다 했다.",
-      "mini_headline": "AI 영화, 35mm 시절보다 비쌀 수도",
+      "headline": "Webby Awards가\n검증 크레딧 등록소 연다",
+      "body": "Webby Awards가 수상자·후보용 IMDb-like 크레딧 플랫폼을 열었다.",
+      "mini_headline": "Webby, 크레딧 등록소 출범",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/film/markets-festivals/ai-films-costlier-35mm-era-korean-pioneers-warn-1236942217/",
-      "accent": "#eb367f",
+      "source": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/business/digital/webby-awards-credits-registry-creators-ai-1236751631/",
+      "accent": "#7928ca",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1"
+            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-1397655480.jpg?crop=0px%2C83px%2C4982px%2C2787px&resize=1440%2C810",
+            "cap": "2022년 Webby를 받는 Adam Scott."
           },
           {
             "t": "p",
-            "x": "Studio Meta-K 창업자 겸 CEO Kim Kwang-jib은 타이베이에서 열린 Taiwan Creative Content Fest(TCCF)에서 AI가 광고 제작비는 이미 크게 줄이고 있지만, 장편 제작자는 치솟는 토큰 요금과 찔끔찔끔 이어지는 수정 탓에 35mm 필름 시절보다 돈을 더 쓸 수도 있다고 말했다."
+            "x": "올해 초 30주년을 맞은 Webby Awards가 수상자와 후보, 그 밖에 영예를 안은 이들이 자기 작업으로 제대로 크레딧을 받도록 문을 넓힌다."
           },
           {
             "t": "p",
-            "x": "가장 비싼 상용 도구로 100분 영화 한 편을 만들면 토큰 비용만 KRW500 million ($366,000)을 넘길 수 있다는 게 그의 계산이다. “토큰 비용을 열 배쯤 올리면… 지금의 KRW500 million 대신 KRW5 billion ($3.66 million)이 들 수도 있다.”"
+            "x": "“Global Webby Credits Registry는 30년간의 Webby 인정을 이를 얻은 150,000명이 넘는 사람들과 앞으로 얻게 될 수천 명의 손에 쥐여 주고, AI 시대에 평판을 쌓을 검증된 자격을 준다”고 Webby Group 전무이사 Jesse Feister가 말했다."
           },
           {
             "t": "p",
-            "x": "AI에서는 재렌더링할 때마다 비용이 새로 붙는다. 수정 10건을 한꺼번에 보내면 추가 작업은 한 번으로 끝나지만, 같은 10건이 하루에 하나씩 들어오면 비용도 10번 치른다. 그는 “프리프로덕션 단계를 탄탄히 하지 않으면 AI가 35mm 필름 시절보다 오히려 더 많은 돈을 쓰게 될 수 있다고 본다”고 말했다."
+            "x": "“검색 결과는 점점 더 AI가 요약한다”고 Feister는 The Hollywood Reporter에 말했다. “AI 덕분에 창작물을 만들기가 그 어느 때보다 쉬워지면서, 실제로 무엇에 기여했는지 믿을 만한 기록을 갖는 일도 더 중요해진다.”"
           },
           {
             "t": "p",
-            "x": "MBC C&I AI Content Lab을 이끄는 Lee Sang-wook은 도구가 매주 바뀐다고 했다. 이 랩이 만든 139분 장편 ‘Raphael’은 제작에 약 일 년 넉 달이 걸렸고 십일월 25일 한국 극장에 걸린다."
-          },
-          {
-            "t": "p",
-            "x": "Kim은 광고에서는 비용을 90% 넘게 줄일 수 있다고 했다. 드라마라면 스타 배우를 쓰는 하이브리드 모델이 낫다고 보며 “AI를 배운 노동자가 배우지 않은 노동자를 대체할 것”이라고 내다봤다."
+            "x": "창립 멤버인 Shonda Rhimes와 Adam Scott은 검증된 프로필을 이미 공개했다. 출범 후원은 PBS, iHeartMedia, R/GA가 맡았다. 자격이 있다면 데이터베이스에서 자기 크레딧을 찾아 등록하고 LinkedIn으로 신원을 인증한 뒤 프로필을 공개하면 된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI could make films costlier\nthan in the 35mm era",
-          "body": "A 100-minute AI feature can top $366,000 in tokens, and each revision is a paid re-render, Kim Kwang-jib warned.",
-          "mini_headline": "AI films may outcost 35mm",
+          "headline": "Webby Awards opens a verified\ncredits registry for creators",
+          "body": "The Webby Awards launched an IMDb-like credits platform where winners, nominees and honorees can claim their work.",
+          "mini_headline": "Webby launches credits registry",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-1397655480.jpg?crop=0px%2C83px%2C4982px%2C2787px&resize=1440%2C810",
+                "cap": "Adam Scott accepting his Webby in 2022."
               },
               {
                 "t": "p",
-                "x": "AI is already slashing the cost of commercials, but runaway token fees and piecemeal revisions could leave feature producers paying more than in the days of 35mm film, Studio Meta-K founder and CEO Kim Kwang-jib told Taiwan Creative Content Fest (TCCF) in Taipei."
+                "x": "After celebrating its 30th anniversary earlier this year, the Webby Awards is making it easier for winners, nominees and other honored individuals to make sure they're properly credited for their work."
               },
               {
                 "t": "p",
-                "x": "With the most expensive commercial tools, he said, the token bill alone for a 100-minute film can top KRW500 million ($366,000). “If they raise token costs roughly tenfold… KRW500 million could become KRW5 billion ($3.66 million).”"
+                "x": "“The Global Webby Credits Registry puts 30 years of Webby recognition in the hands of the more than 150,000 individuals who earned it, and the thousands who will earn it in the years ahead, giving them verified credentials to build reputation in the AI era,” Webby Group executive director Jesse Feister said."
               },
               {
                 "t": "p",
-                "x": "With AI, every re-render is paid for again: 10 changes sent at once mean one extra pass, but the same 10 changes arriving one a day mean paying 10 times over. “Unless the preproduction stage is made solid, I think AI could end up spending even more money than in the 35mm film era,” he said."
+                "x": "“Search results are increasingly summarized by AI,” Feister tells The Hollywood Reporter. “As AI makes it easier than ever to produce creative work, having a credible record of what you've actually contributed to becomes more important, too.”"
               },
               {
                 "t": "p",
-                "x": "Lee Sang-wook, head of the AI Content Lab at MBC C&I, said tools change weekly; his lab’s 139-minute feature “Raphael” took around a year and four months and opens in Korean cinemas on Nov. 25."
-              },
-              {
-                "t": "p",
-                "x": "In advertising, Kim said costs can fall by more than 90%. For drama he favors a hybrid model with star actors, and predicted that “workers who have learned AI will replace workers who haven’t.”"
+                "x": "Shonda Rhimes and Adam Scott have already published verified profiles as founding members, and the launch is supported by PBS, iHeartMedia and R/GA. Eligible individuals search the database, claim their credits, verify their identity through LinkedIn and publish their profile."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 영화 제작비가\n35mm 시대 넘을 수도",
-          "body": "Kim Kwang-jib은 100분 AI 영화 토큰만 $366,000 넘는다 했다.",
-          "mini_headline": "AI 영화, 35mm 시절보다 비쌀 수도",
+          "headline": "Webby Awards가\n검증 크레딧 등록소 연다",
+          "body": "Webby Awards가 수상자·후보용 IMDb-like 크레딧 플랫폼을 열었다.",
+          "mini_headline": "Webby, 크레딧 등록소 출범",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-1397655480.jpg?crop=0px%2C83px%2C4982px%2C2787px&resize=1440%2C810",
+                "cap": "2022년 Webby를 받는 Adam Scott."
               },
               {
                 "t": "p",
-                "x": "Studio Meta-K 창업자 겸 CEO Kim Kwang-jib은 타이베이에서 열린 Taiwan Creative Content Fest(TCCF)에서 AI가 광고 제작비는 이미 크게 줄이고 있지만, 장편 제작자는 치솟는 토큰 요금과 찔끔찔끔 이어지는 수정 탓에 35mm 필름 시절보다 돈을 더 쓸 수도 있다고 말했다."
+                "x": "올해 초 30주년을 맞은 Webby Awards가 수상자와 후보, 그 밖에 영예를 안은 이들이 자기 작업으로 제대로 크레딧을 받도록 문을 넓힌다."
               },
               {
                 "t": "p",
-                "x": "가장 비싼 상용 도구로 100분 영화 한 편을 만들면 토큰 비용만 KRW500 million ($366,000)을 넘길 수 있다는 게 그의 계산이다. “토큰 비용을 열 배쯤 올리면… 지금의 KRW500 million 대신 KRW5 billion ($3.66 million)이 들 수도 있다.”"
+                "x": "“Global Webby Credits Registry는 30년간의 Webby 인정을 이를 얻은 150,000명이 넘는 사람들과 앞으로 얻게 될 수천 명의 손에 쥐여 주고, AI 시대에 평판을 쌓을 검증된 자격을 준다”고 Webby Group 전무이사 Jesse Feister가 말했다."
               },
               {
                 "t": "p",
-                "x": "AI에서는 재렌더링할 때마다 비용이 새로 붙는다. 수정 10건을 한꺼번에 보내면 추가 작업은 한 번으로 끝나지만, 같은 10건이 하루에 하나씩 들어오면 비용도 10번 치른다. 그는 “프리프로덕션 단계를 탄탄히 하지 않으면 AI가 35mm 필름 시절보다 오히려 더 많은 돈을 쓰게 될 수 있다고 본다”고 말했다."
+                "x": "“검색 결과는 점점 더 AI가 요약한다”고 Feister는 The Hollywood Reporter에 말했다. “AI 덕분에 창작물을 만들기가 그 어느 때보다 쉬워지면서, 실제로 무엇에 기여했는지 믿을 만한 기록을 갖는 일도 더 중요해진다.”"
               },
               {
                 "t": "p",
-                "x": "MBC C&I AI Content Lab을 이끄는 Lee Sang-wook은 도구가 매주 바뀐다고 했다. 이 랩이 만든 139분 장편 ‘Raphael’은 제작에 약 일 년 넉 달이 걸렸고 십일월 25일 한국 극장에 걸린다."
-              },
-              {
-                "t": "p",
-                "x": "Kim은 광고에서는 비용을 90% 넘게 줄일 수 있다고 했다. 드라마라면 스타 배우를 쓰는 하이브리드 모델이 낫다고 보며 “AI를 배운 노동자가 배우지 않은 노동자를 대체할 것”이라고 내다봤다."
+                "x": "창립 멤버인 Shonda Rhimes와 Adam Scott은 검증된 프로필을 이미 공개했다. 출범 후원은 PBS, iHeartMedia, R/GA가 맡았다. 자격이 있다면 데이터베이스에서 자기 크레딧을 찾아 등록하고 LinkedIn으로 신원을 인증한 뒤 프로필을 공개하면 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI映画は35mm 時代より\n高くつく恐れ",
-          "body": "Kim Kwang-jibは100分AI映画のトークン代が$366,000を超え得ると言う。",
-          "mini_headline": "AI映画、35mm 時代超えのコスト高も",
+          "headline": "Webby Awardsが\n認証クレジット台帳を開設",
+          "body": "Webby Awardsが受賞者向けのIMDb-likeなクレジット基盤を開設した。",
+          "mini_headline": "Webbyがクレジット台帳を開始",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-1397655480.jpg?crop=0px%2C83px%2C4982px%2C2787px&resize=1440%2C810",
+                "cap": "2022年、Webbyを受け取るAdam Scott。"
               },
               {
                 "t": "p",
-                "x": "AIはすでにCM制作費を大きく削っているが、膨らむトークン料金と小出しの修正のせいで、長編のプロデューサーは35mm フィルム時代より多く支払うことになりかねない。Studio Meta-Kの創業者兼CEO、Kim Kwang-jibが台北のTaiwan Creative Content Fest（TCCF）でこう語った。"
+                "x": "今年初めに30周年を迎えたWebby Awardsは、受賞者やノミネート者、その他の栄誉を受けた人々が自らの仕事に対して適切にクレジットされるよう、その手段を整えつつある。"
               },
               {
                 "t": "p",
-                "x": "最も高価な商用ツールを使えば、100分の映画一本でトークン代だけでKRW500 million （$366,000）を超え得るという。「トークン代が約十倍に引き上げられれば…KRW500 million の費用がKRW5 billion （$3.66 million）にもなり得る」"
+                "x": "「Global Webby Credits Registryは、30年にわたるWebbyの評価を、それを勝ち取った150,000人超の人々と、今後数年で勝ち取る数千人の手に渡し、AI時代に評判を築くための検証済みの資格を与える」と、Webby Groupのエグゼクティブディレクター、Jesse Feisterは述べた。"
               },
               {
                 "t": "p",
-                "x": "AIでは再レンダリングのたびに費用がかかる。10件の修正を一度に送れば追加作業は一回で済むが、同じ10件が一日一件ずつ届けば10回分を払うことになる。「プリプロダクションの段階を固めない限り、AIは35mm フィルム時代以上にお金を使うことになりかねないと思う」と彼は述べた。"
+                "x": "「検索結果はますますAIによって要約されている」とFeisterはThe Hollywood Reporterに語る。「AIによって創作物をかつてなく簡単に作れるようになるなか、自分が実際に何に貢献したのかを示す信頼できる記録を持つことも、より重要になる」"
               },
               {
                 "t": "p",
-                "x": "MBC C&IのAI Content Labを率いるLee Sang-wookは、ツールは毎週変わると話す。同ラボの139分の長編「Raphael」は制作に約一年四か月かかり、十一月25日に韓国の映画館で公開される。"
-              },
-              {
-                "t": "p",
-                "x": "広告ではコストを90%以上削減できるとKimは言う。ドラマについてはスター俳優を起用するハイブリッドモデルを支持し、「AIを学んだ労働者が、学んでいない労働者に取って代わる」と予測した。"
+                "x": "Shonda RhimesとAdam Scottは創設メンバーとしてすでに検証済みプロフィールを公開しており、立ち上げはPBS、iHeartMedia、R/GAが支援している。対象者はデータベースを検索し、自分のクレジットを申請し、LinkedInで本人確認をしてプロフィールを公開する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI拍片成本或高于\n35mm 胶片时代",
-          "body": "Kim Kwang-jib警告，100分钟AI长片的token费可超$366,000。",
-          "mini_headline": "AI电影或比35mm 时代更贵",
+          "headline": "Webby Awards推出\n经认证的创作者署名库",
+          "body": "Webby Awards推出IMDb-like署名平台，获奖者与提名者可认领作品。",
+          "mini_headline": "Webby推出署名登记平台",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-1397655480.jpg?crop=0px%2C83px%2C4982px%2C2787px&resize=1440%2C810",
+                "cap": "2022年，Adam Scott领取Webby奖。"
               },
               {
                 "t": "p",
-                "x": "AI已在大幅压低广告制作成本，但Studio Meta-K创始人兼CEO Kim Kwang-jib在台北举行的Taiwan Creative Content Fest（TCCF）上表示，失控的token费用和零敲碎打的修改，可能让长片制作方的花费超过35mm 胶片时代。"
+                "x": "Webby Awards今年早些时候刚庆祝30周年，现在正让获奖者、提名者及其他受表彰者更容易确保自己的作品获得应有的署名。"
               },
               {
                 "t": "p",
-                "x": "他说，若使用最昂贵的商用工具，一部100分钟影片光token费用就可能超过KRW500 million （$366,000）。“如果他们把token费用提高约十倍……KRW500 million 就可能变成KRW5 billion （$3.66 million）。”"
+                "x": "“Global Webby Credits Registry把30年来的Webby认可交到超过150,000位获得者以及未来数年将获得认可的数千人手中，为他们提供在AI时代建立声誉的经认证资历，”Webby Group执行董事Jesse Feister说。"
               },
               {
                 "t": "p",
-                "x": "在AI流程中，每次重渲染都要重新付费：10处修改一次性提交只需多渲染一轮，但同样的10处修改若每天来一处，就要付10次钱。“除非把前期制作阶段做扎实，否则我认为AI最终花的钱可能比35mm 胶片时代还多。”他说。"
+                "x": "“搜索结果越来越多地由AI来总结，”Feister对The Hollywood Reporter表示，“AI让创作比以往任何时候都更容易，拥有一份可信的、记录你实际参与过什么的档案也随之变得更加重要。”"
               },
               {
                 "t": "p",
-                "x": "MBC C&I AI Content Lab负责人Lee Sang-wook表示，工具每周都在变；该实验室139分钟的长片《Raphael》耗时约一年零四个月，将于十一月25日在韩国院线上映。"
-              },
-              {
-                "t": "p",
-                "x": "Kim表示，在广告领域成本可降低90%以上。在剧集方面，他倾向于起用明星演员的混合模式，并预测“学会AI的从业者将取代没学会的人”。"
+                "x": "Shonda Rhimes和Adam Scott已作为创始成员发布了经认证的个人资料，此次上线得到PBS、iHeartMedia和R/GA的支持。符合条件的个人可搜索数据库、认领自己的署名、通过LinkedIn验证身份并发布个人资料。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI podría encarecer el cine\nmás que en la era del 35mm",
-          "body": "Un filme de AI de 100 minutos puede superar $366,000 en tokens y cada cambio se paga, advirtió Kim Kwang-jib.",
-          "mini_headline": "El cine con AI podría superar al 35mm",
+          "headline": "Webby Awards abre un registro\nverificado de créditos",
+          "body": "Webby Awards lanzó una plataforma de créditos IMDb-like en la que premiados y nominados reclaman su trabajo.",
+          "mini_headline": "Webby lanza un registro de créditos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-1397655480.jpg?crop=0px%2C83px%2C4982px%2C2787px&resize=1440%2C810",
+                "cap": "Adam Scott recibe su Webby en 2022."
               },
               {
                 "t": "p",
-                "x": "La AI ya está recortando el costo de los comerciales, pero las tarifas de tokens descontroladas y las revisiones a cuentagotas podrían hacer que los productores de largometrajes paguen más que en la época del cine de 35mm, dijo Kim Kwang-jib, fundador y CEO de Studio Meta-K, en el Taiwan Creative Content Fest (TCCF) en Taipei."
+                "x": "Tras celebrar su 30.º aniversario a principios de este año, los Webby Awards facilitan que ganadores, nominados y otras personas reconocidas se aseguren de recibir el crédito que les corresponde por su trabajo."
               },
               {
                 "t": "p",
-                "x": "Con las herramientas comerciales más caras, dijo, solo la factura de tokens de una película de 100 minutos puede superar los KRW500 million ($366,000). “Si suben el costo de los tokens unas diez veces… KRW500 million podrían convertirse en KRW5 billion ($3.66 million)”."
+                "x": "“El Global Webby Credits Registry pone 30 años de reconocimiento de los Webby en manos de las más de 150,000 personas que lo obtuvieron, y de los miles que lo obtendrán en los próximos años, y les da credenciales verificadas para construir su reputación en la era de la AI”, dijo Jesse Feister, director ejecutivo de Webby Group."
               },
               {
                 "t": "p",
-                "x": "Con la AI, cada nuevo render se vuelve a pagar: 10 cambios enviados a la vez suponen una pasada extra, pero esos mismos 10 cambios llegando uno al día obligan a pagar 10 veces. “Si la etapa de preproducción no se hace sólida, creo que la AI podría terminar gastando aún más dinero que en la era del cine de 35mm”, afirmó."
+                "x": "“Los resultados de búsqueda se resumen cada vez más con AI”, dice Feister a The Hollywood Reporter. “A medida que la AI facilita más que nunca producir obra creativa, contar con un registro creíble de aquello en lo que realmente has participado también se vuelve más importante”."
               },
               {
                 "t": "p",
-                "x": "Lee Sang-wook, responsable del AI Content Lab de MBC C&I, dijo que las herramientas cambian cada semana; el largometraje de 139 minutos de su laboratorio, “Raphael”, tomó alrededor de un año y cuatro meses y se estrena en los cines de Corea el 25 de noviembre."
-              },
-              {
-                "t": "p",
-                "x": "En publicidad, Kim dijo que los costos pueden caer más de 90%. Para el drama prefiere un modelo híbrido con actores estrella, y predijo que “los trabajadores que han aprendido AI reemplazarán a los que no”."
+                "x": "Shonda Rhimes y Adam Scott ya publicaron perfiles verificados como miembros fundadores, y el lanzamiento cuenta con el apoyo de PBS, iHeartMedia y R/GA. Las personas que cumplen los requisitos buscan en la base de datos, reclaman sus créditos, verifican su identidad a través de LinkedIn y publican su perfil."
               }
             ]
           }
@@ -1705,137 +873,899 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 영화 제작비가\n35mm 시대 넘을 수도",
-          "body": "Kim Kwang-jib은 100분 AI 영화 토큰만 $366,000 넘는다 했다.",
-          "mini_headline": "AI 영화, 35mm 시절보다 비쌀 수도",
+          "headline": "Webby Awards가\n검증 크레딧 등록소 연다",
+          "body": "Webby Awards가 수상자·후보용 IMDb-like 크레딧 플랫폼을 열었다.",
+          "mini_headline": "Webby, 크레딧 등록소 출범",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-1397655480.jpg?crop=0px%2C83px%2C4982px%2C2787px&resize=1440%2C810",
+                "cap": "2022년 Webby를 받는 Adam Scott."
               },
               {
                 "t": "p",
-                "x": "AI는 이미 광고 제작비를 크게 줄이고 있지만, 치솟는 토큰 요금과 찔끔찔끔 이어지는 수정 탓에 장편 제작자가 35mm 필름 시절보다 더 많은 돈을 쓰게 될 수 있다고 Studio Meta-K 창업자 겸 CEO Kim Kwang-jib이 타이베이에서 열린 Taiwan Creative Content Fest(TCCF)에서 말했다."
+                "x": "올해 초 30주년을 맞은 Webby Awards가 수상자와 후보, 그 밖에 영예를 얻은 이들이 자기 작업에 대해 제대로 크레딧을 받을 수 있도록 길을 넓힌다."
               },
               {
                 "t": "p",
-                "x": "그는 가장 비싼 상용 도구를 쓰면 100분 영화 한 편의 토큰 비용만 KRW500 million ($366,000)을 넘을 수 있다고 했다. “토큰 비용을 열 배쯤 올리면… 지금의 KRW500 million 대신 KRW5 billion ($3.66 million)이 들 수도 있다.”"
+                "x": "“Global Webby Credits Registry는 30년간의 Webby 인정을 이를 얻은 150,000명이 넘는 사람들과 앞으로 얻게 될 수천 명의 손에 쥐여 주고, AI 시대에 평판을 쌓을 검증된 자격을 준다”고 Webby Group 전무이사 Jesse Feister가 말했다."
               },
               {
                 "t": "p",
-                "x": "AI에서는 재렌더링할 때마다 비용을 다시 내야 한다. 수정 10건을 한꺼번에 보내면 추가 작업은 한 번이지만, 같은 10건이 하루에 하나씩 오면 10번 비용을 치른다. 그는 “프리프로덕션 단계를 탄탄히 하지 않으면 AI가 35mm 필름 시절보다 오히려 더 많은 돈을 쓰게 될 수 있다고 본다”고 말했다."
+                "x": "“검색 결과는 점점 더 AI가 요약한다”고 Feister는 The Hollywood Reporter에 말했다. “AI 덕분에 창작물을 만들기가 그 어느 때보다 쉬워지면서, 실제로 무엇에 기여했는지 믿을 만한 기록을 갖는 일도 더 중요해진다.”"
               },
               {
                 "t": "p",
-                "x": "MBC C&I AI Content Lab을 이끄는 Lee Sang-wook은 도구가 매주 바뀐다고 했다. 그의 랩이 만든 139분 장편 ‘Raphael’은 제작에 약 일 년 넉 달이 걸렸고, 십일월 25일 한국 극장에서 개봉한다."
-              },
-              {
-                "t": "p",
-                "x": "Kim은 광고에서는 비용을 90% 넘게 줄일 수 있다고 했다. 드라마에는 스타 배우를 기용하는 하이브리드 모델을 선호하며, “AI를 배운 노동자가 배우지 않은 노동자를 대체할 것”이라고 내다봤다."
+                "x": "Shonda Rhimes와 Adam Scott이 창립 멤버로 이미 검증된 프로필을 공개했고, 출범은 PBS, iHeartMedia, R/GA가 후원한다. 자격이 있는 사람은 데이터베이스를 검색해 자기 크레딧을 등록하고 LinkedIn으로 신원을 인증한 뒤 프로필을 공개하면 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI映画は35mm 時代より\n高くつく恐れ",
-          "body": "Kim Kwang-jibは100分AI映画のトークン代が$366,000を超え得ると言う。",
-          "mini_headline": "AI映画、35mm 時代超えのコスト高も",
+          "headline": "Webby Awardsが\n認証クレジット台帳を開設",
+          "body": "Webby Awardsが受賞者向けのIMDb-likeなクレジット基盤を開設した。",
+          "mini_headline": "Webbyがクレジット台帳を開始",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-1397655480.jpg?crop=0px%2C83px%2C4982px%2C2787px&resize=1440%2C810",
+                "cap": "2022年、Webbyを受け取るAdam Scott。"
               },
               {
                 "t": "p",
-                "x": "AIはすでにCM制作費を大きく削っているが、膨らむトークン料金と小出しの修正のせいで、長編のプロデューサーは35mm フィルム時代より多く支払うことになりかねない。Studio Meta-Kの創業者兼CEO、Kim Kwang-jibが台北のTaiwan Creative Content Fest（TCCF）でこう語った。"
+                "x": "今年初めに30周年を迎えたWebby Awardsは、受賞者やノミネート者、その他の栄誉を受けた人々が自らの仕事に対して適切にクレジットされるよう、その手段を整えつつある。"
               },
               {
                 "t": "p",
-                "x": "最も高価な商用ツールを使えば、100分の映画一本でトークン代だけでKRW500 million （$366,000）を超え得るという。「トークン代が約十倍に引き上げられれば…KRW500 million の費用がKRW5 billion （$3.66 million）にもなり得る」"
+                "x": "「Global Webby Credits Registryは、30年にわたるWebbyの評価を、それを勝ち取った150,000人超の人々と、今後数年で勝ち取る数千人の手に渡し、AI時代に評判を築くための検証済みの資格を与える」と、Webby Groupのエグゼクティブディレクター、Jesse Feisterは述べた。"
               },
               {
                 "t": "p",
-                "x": "AIでは再レンダリングのたびに費用がかかる。10件の修正を一度に送れば追加作業は一回で済むが、同じ10件が一日一件ずつ届けば10回分を払うことになる。「プリプロダクションの段階を固めない限り、AIは35mm フィルム時代以上にお金を使うことになりかねないと思う」と彼は述べた。"
+                "x": "「検索結果はますますAIによって要約されている」とFeisterはThe Hollywood Reporterに語る。「AIによって創作物をかつてなく簡単に作れるようになるなか、自分が実際に何に貢献したのかを示す信頼できる記録を持つことも、より重要になる」"
               },
               {
                 "t": "p",
-                "x": "MBC C&IのAI Content Labを率いるLee Sang-wookは、ツールは毎週変わると話す。同ラボの139分の長編「Raphael」は制作に約一年四か月かかり、十一月25日に韓国の映画館で公開される。"
-              },
-              {
-                "t": "p",
-                "x": "広告ではコストを90%以上削減できるとKimは言う。ドラマについてはスター俳優を起用するハイブリッドモデルを支持し、「AIを学んだ労働者が、学んでいない労働者に取って代わる」と予測した。"
+                "x": "Shonda RhimesとAdam Scottは創設メンバーとしてすでに検証済みプロフィールを公開しており、立ち上げはPBS、iHeartMedia、R/GAが支援している。対象者はデータベースを検索し、自分のクレジットを申請し、LinkedInで本人確認をしてプロフィールを公開する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI拍片成本或高于\n35mm 胶片时代",
-          "body": "Kim Kwang-jib警告，100分钟AI长片的token费可超$366,000。",
-          "mini_headline": "AI电影或比35mm 时代更贵",
+          "headline": "Webby Awards推出\n经认证的创作者署名库",
+          "body": "Webby Awards推出IMDb-like署名平台，获奖者与提名者可认领作品。",
+          "mini_headline": "Webby推出署名登记平台",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-1397655480.jpg?crop=0px%2C83px%2C4982px%2C2787px&resize=1440%2C810",
+                "cap": "2022年，Adam Scott领取Webby奖。"
               },
               {
                 "t": "p",
-                "x": "AI已在大幅压低广告制作成本，但Studio Meta-K创始人兼CEO Kim Kwang-jib在台北举行的Taiwan Creative Content Fest（TCCF）上表示，失控的token费用和零敲碎打的修改，可能让长片制作方的花费超过35mm 胶片时代。"
+                "x": "Webby Awards今年早些时候刚庆祝30周年，现在正让获奖者、提名者及其他受表彰者更容易确保自己的作品获得应有的署名。"
               },
               {
                 "t": "p",
-                "x": "他说，若使用最昂贵的商用工具，一部100分钟影片光token费用就可能超过KRW500 million （$366,000）。“如果他们把token费用提高约十倍……KRW500 million 就可能变成KRW5 billion （$3.66 million）。”"
+                "x": "“Global Webby Credits Registry把30年来的Webby认可交到超过150,000位获得者以及未来数年将获得认可的数千人手中，为他们提供在AI时代建立声誉的经认证资历，”Webby Group执行董事Jesse Feister说。"
               },
               {
                 "t": "p",
-                "x": "在AI流程中，每次重渲染都要重新付费：10处修改一次性提交只需多渲染一轮，但同样的10处修改若每天来一处，就要付10次钱。“除非把前期制作阶段做扎实，否则我认为AI最终花的钱可能比35mm 胶片时代还多。”他说。"
+                "x": "“搜索结果越来越多地由AI来总结，”Feister对The Hollywood Reporter表示，“AI让创作比以往任何时候都更容易，拥有一份可信的、记录你实际参与过什么的档案也随之变得更加重要。”"
               },
               {
                 "t": "p",
-                "x": "MBC C&I AI Content Lab负责人Lee Sang-wook表示，工具每周都在变；该实验室139分钟的长片《Raphael》耗时约一年零四个月，将于十一月25日在韩国院线上映。"
-              },
-              {
-                "t": "p",
-                "x": "Kim表示，在广告领域成本可降低90%以上。在剧集方面，他倾向于起用明星演员的混合模式，并预测“学会AI的从业者将取代没学会的人”。"
+                "x": "Shonda Rhimes和Adam Scott已作为创始成员发布了经认证的个人资料，此次上线得到PBS、iHeartMedia和R/GA的支持。符合条件的个人可搜索数据库、认领自己的署名、通过LinkedIn验证身份并发布个人资料。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI podría encarecer el cine\nmás que en la era del 35mm",
-          "body": "Un filme de AI de 100 minutos puede superar $366,000 en tokens y cada cambio se paga, advirtió Kim Kwang-jib.",
-          "mini_headline": "El cine con AI podría superar al 35mm",
+          "headline": "Webby Awards abre un registro\nverificado de créditos",
+          "body": "Webby Awards lanzó una plataforma de créditos IMDb-like en la que premiados y nominados reclaman su trabajo.",
+          "mini_headline": "Webby lanza un registro de créditos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-1397655480.jpg?crop=0px%2C83px%2C4982px%2C2787px&resize=1440%2C810",
+                "cap": "Adam Scott recibe su Webby en 2022."
               },
               {
                 "t": "p",
-                "x": "La AI ya está recortando el costo de los comerciales, pero las tarifas de tokens descontroladas y las revisiones a cuentagotas podrían hacer que los productores de largometrajes paguen más que en la época del cine de 35mm, dijo Kim Kwang-jib, fundador y CEO de Studio Meta-K, en el Taiwan Creative Content Fest (TCCF) en Taipei."
+                "x": "Tras celebrar su 30.º aniversario a principios de este año, los Webby Awards facilitan que ganadores, nominados y otras personas reconocidas se aseguren de recibir el crédito que les corresponde por su trabajo."
               },
               {
                 "t": "p",
-                "x": "Con las herramientas comerciales más caras, dijo, solo la factura de tokens de una película de 100 minutos puede superar los KRW500 million ($366,000). “Si suben el costo de los tokens unas diez veces… KRW500 million podrían convertirse en KRW5 billion ($3.66 million)”."
+                "x": "“El Global Webby Credits Registry pone 30 años de reconocimiento de los Webby en manos de las más de 150,000 personas que lo obtuvieron, y de los miles que lo obtendrán en los próximos años, y les da credenciales verificadas para construir su reputación en la era de la AI”, dijo Jesse Feister, director ejecutivo de Webby Group."
               },
               {
                 "t": "p",
-                "x": "Con la AI, cada nuevo render se vuelve a pagar: 10 cambios enviados a la vez suponen una pasada extra, pero esos mismos 10 cambios llegando uno al día obligan a pagar 10 veces. “Si la etapa de preproducción no se hace sólida, creo que la AI podría terminar gastando aún más dinero que en la era del cine de 35mm”, afirmó."
+                "x": "“Los resultados de búsqueda se resumen cada vez más con AI”, dice Feister a The Hollywood Reporter. “A medida que la AI facilita más que nunca producir obra creativa, contar con un registro creíble de aquello en lo que realmente has participado también se vuelve más importante”."
               },
               {
                 "t": "p",
-                "x": "Lee Sang-wook, responsable del AI Content Lab de MBC C&I, dijo que las herramientas cambian cada semana; el largometraje de 139 minutos de su laboratorio, “Raphael”, tomó alrededor de un año y cuatro meses y se estrena en los cines de Corea el 25 de noviembre."
+                "x": "Shonda Rhimes y Adam Scott ya publicaron perfiles verificados como miembros fundadores, y el lanzamiento cuenta con el apoyo de PBS, iHeartMedia y R/GA. Las personas que cumplen los requisitos buscan en la base de datos, reclaman sus créditos, verifican su identidad a través de LinkedIn y publican su perfil."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "elempleo-ai-knockoff",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 'El empleo'\n영화 강좌 홍보에 쓰였다",
+      "body": "Plaza의 2008년 단편을 베낀 30초 AI 영상이 저작권 분쟁을 불렀다.",
+      "mini_headline": "AI가 베낀 'El empleo'",
+      "tool": "Movies",
+      "source": "Cartoon Brew",
+      "url": "https://www.cartoonbrew.com/artificial-intelligence/el-empleo-unauthorized-ai-remake-269233.html",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/El-empleo-AI-Ripoff.jpg"
+          },
+          {
+            "t": "p",
+            "x": "지난 주말 별로 알려지지 않은 Instagram 계정 하나가 호평받은 2008년 아르헨티나 단편 애니메이션 El Empleo의 AI-generated 모조품으로 입소문을 탔다."
+          },
+          {
+            "t": "video",
+            "yt": "5KyifKNlY7A"
+          },
+          {
+            "t": "p",
+            "x": "계정 Nightframe은 이 무단 리메이크를 내렸다. Santiago Bou Grasso와 단편을 함께 연출한 공동 제작자 Patricio Plaza가 자기 작품이 유료 AI 영화 제작 서비스 광고에 쓰였다며 항의하고 나서였다. 30초짜리 모조품은 24시간도 안 돼 조회수 오백만 회를 넘긴 것으로 전해졌다."
+          },
+          {
+            "t": "p",
+            "x": "캡션은 “Send AI to find out how I made this film”(이 영화를 어떻게 만들었는지 알고 싶으면 AI라고 보내라)이라며 시청자를 꾀었다. 그렇게 보내면 자동 메시지가 AI Film School로 이끌었는데, 월 $49에 AI 영화 제작 강의를 한다고 광고하는 곳이다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/AI-Film-School.jpg",
+            "cap": "AI Film School"
+          },
+          {
+            "t": "p",
+            "x": "“이 사람들은 영화 저작권을 침해했을 뿐 아니라, 그걸 이용해 자기 AI 사업을 화제로 만들고 수익까지 올렸다”고 Plaza는 말했다. Nightframe 운영자는 영상으로 이득을 봤다는 주장도, AI Film School과 돈으로 얽혀 있다는 주장도 부인했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "AI knockoff of 'El empleo'\npromotes filmmaking classes",
+          "body": "A 30-second AI remake of Patricio Plaza's hand-drawn 2008 short drew millions of views and sparked a copyright dispute.",
+          "mini_headline": "AI knockoff of 'El empleo'",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/El-empleo-AI-Ripoff.jpg"
               },
               {
                 "t": "p",
-                "x": "En publicidad, Kim dijo que los costos pueden caer más de 90%. Para el drama prefiere un modelo híbrido con actores estrella, y predijo que “los trabajadores que han aprendido AI reemplazarán a los que no”."
+                "x": "Over the weekend, a relatively obscure Instagram account went viral with an AI-generated knockoff of El Empleo, the acclaimed 2008 Argentine animated short."
+              },
+              {
+                "t": "video",
+                "yt": "5KyifKNlY7A"
+              },
+              {
+                "t": "p",
+                "x": "The account, Nightframe, has since removed the unauthorized remake after co-creator Patricio Plaza, who directed the short alongside Santiago Bou Grasso, objected to his work being repurposed to promote a paid AI filmmaking service. The 30-second knockoff reportedly attracted more than five million views in under 24 hours."
+              },
+              {
+                "t": "p",
+                "x": "Its caption instructed viewers to “Send AI to find out how I made this film,” triggering an automated message directing them to AI Film School, a service advertising AI filmmaking instruction for $49 per month."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/AI-Film-School.jpg",
+                "cap": "AI Film School"
+              },
+              {
+                "t": "p",
+                "x": "“So these people were not only infringing the film's copyright, but also using it to make their AI business go viral and generate revenue,” Plaza said. The person behind Nightframe denied profiting from the video or having any financial relationship with AI Film School."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 'El empleo'\n영화 강좌 홍보에 쓰였다",
+          "body": "Plaza의 2008년 단편을 베낀 30초 AI 영상이 저작권 분쟁을 불렀다.",
+          "mini_headline": "AI가 베낀 'El empleo'",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/El-empleo-AI-Ripoff.jpg"
+              },
+              {
+                "t": "p",
+                "x": "지난 주말 별로 알려지지 않은 Instagram 계정 하나가 호평받은 2008년 아르헨티나 단편 애니메이션 El Empleo의 AI-generated 모조품으로 입소문을 탔다."
+              },
+              {
+                "t": "video",
+                "yt": "5KyifKNlY7A"
+              },
+              {
+                "t": "p",
+                "x": "계정 Nightframe은 이 무단 리메이크를 내렸다. Santiago Bou Grasso와 단편을 함께 연출한 공동 제작자 Patricio Plaza가 자기 작품이 유료 AI 영화 제작 서비스 광고에 쓰였다며 항의하고 나서였다. 30초짜리 모조품은 24시간도 안 돼 조회수 오백만 회를 넘긴 것으로 전해졌다."
+              },
+              {
+                "t": "p",
+                "x": "캡션은 “Send AI to find out how I made this film”(이 영화를 어떻게 만들었는지 알고 싶으면 AI라고 보내라)이라며 시청자를 꾀었다. 그렇게 보내면 자동 메시지가 AI Film School로 이끌었는데, 월 $49에 AI 영화 제작 강의를 한다고 광고하는 곳이다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/AI-Film-School.jpg",
+                "cap": "AI Film School"
+              },
+              {
+                "t": "p",
+                "x": "“이 사람들은 영화 저작권을 침해했을 뿐 아니라, 그걸 이용해 자기 AI 사업을 화제로 만들고 수익까지 올렸다”고 Plaza는 말했다. Nightframe 운영자는 영상으로 이득을 봤다는 주장도, AI Film School과 돈으로 얽혀 있다는 주장도 부인했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI版『El empleo』\n映画講座の宣伝に利用",
+          "body": "Patricio Plazaの2008年短編を模した30秒のAI動画が著作権論争を招いた。",
+          "mini_headline": "AIが模倣した『El empleo』",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/El-empleo-AI-Ripoff.jpg"
+              },
+              {
+                "t": "p",
+                "x": "週末、比較的無名のInstagramアカウントが、高く評価された2008年のアルゼンチンの短編アニメーション『El Empleo』のAI-generatedな模倣作で話題をさらった。"
+              },
+              {
+                "t": "video",
+                "yt": "5KyifKNlY7A"
+              },
+              {
+                "t": "p",
+                "x": "そのアカウントNightframeは、無断リメイクをすでに削除した。Santiago Bou Grassoとともにこの短編を監督した共同制作者Patricio Plazaが、自分の作品が有料のAI映画制作サービスの宣伝に流用されたことに抗議したためだ。30秒の模倣作は24時間足らずで五百万回を超える再生を集めたと報じられている。"
+              },
+              {
+                "t": "p",
+                "x": "キャプションは視聴者に“Send AI to find out how I made this film”（この映画の作り方を知りたければAIと送って）と指示し、それをきっかけに自動メッセージがAI Film Schoolへと誘導した。月$49でAI映画制作の指導をうたうサービスである。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/AI-Film-School.jpg",
+                "cap": "AI Film School"
+              },
+              {
+                "t": "p",
+                "x": "「つまり彼らは映画の著作権を侵害しただけでなく、それを使って自分たちのAIビジネスを拡散させ、収益を上げようとしていた」とPlazaは語った。Nightframeの運営者は、動画で利益を得たことも、AI Film Schoolと金銭的な関係があることも否定した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI仿《El empleo》\n为电影课程引流",
+          "body": "Patricio Plaza 2008年手绘短片遭30秒AI翻拍，引发版权纠纷。",
+          "mini_headline": "AI仿作《El empleo》",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/El-empleo-AI-Ripoff.jpg"
+              },
+              {
+                "t": "p",
+                "x": "上周末，一个相对小众的Instagram账号凭借对2008年备受赞誉的阿根廷动画短片El Empleo的AI-generated仿作走红。"
+              },
+              {
+                "t": "video",
+                "yt": "5KyifKNlY7A"
+              },
+              {
+                "t": "p",
+                "x": "该账号Nightframe已删除这部未经授权的翻拍。此前，与Santiago Bou Grasso共同执导该短片的联合创作者Patricio Plaza反对自己的作品被挪用来推广一项付费AI电影制作服务。据报道，这段30秒的仿作在不到24小时内获得超过五百万次观看。"
+              },
+              {
+                "t": "p",
+                "x": "其配文让观众“Send AI to find out how I made this film”（发送AI，了解我如何制作这部影片），随即触发一条自动消息，将他们引向AI Film School——一项以每月$49宣传AI电影制作教学的服务。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/AI-Film-School.jpg",
+                "cap": "AI Film School"
+              },
+              {
+                "t": "p",
+                "x": "“所以这些人不仅侵犯了影片的版权，还利用它让自己的AI生意走红并创收，”Plaza说。Nightframe背后的运营者否认从该视频获利，也否认与AI Film School有任何财务关系。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Una copia AI de 'El empleo'\npromueve clases de cine",
+          "body": "Un remake con AI de 30 segundos del corto de 2008 de Patricio Plaza se hizo viral y desató una disputa por copyright.",
+          "mini_headline": "Copia AI de 'El empleo'",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/El-empleo-AI-Ripoff.jpg"
+              },
+              {
+                "t": "p",
+                "x": "El fin de semana, una cuenta de Instagram relativamente desconocida se volvió viral con una copia AI-generated de El Empleo, el aclamado cortometraje animado argentino de 2008."
+              },
+              {
+                "t": "video",
+                "yt": "5KyifKNlY7A"
+              },
+              {
+                "t": "p",
+                "x": "La cuenta, Nightframe, retiró después el remake no autorizado, luego de que el cocreador Patricio Plaza, que dirigió el corto junto a Santiago Bou Grasso, se opusiera a que su obra se reutilizara para promocionar un servicio de pago de cine con AI. Según se informó, la copia de 30 segundos superó los cinco millones de vistas en menos de 24 horas."
+              },
+              {
+                "t": "p",
+                "x": "Su texto pedía a los espectadores: “Send AI to find out how I made this film” (envía AI para saber cómo hice esta película), lo que activaba un mensaje automático que los dirigía a AI Film School, un servicio que anuncia formación en cine con AI por $49 al mes."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/AI-Film-School.jpg",
+                "cap": "AI Film School"
+              },
+              {
+                "t": "p",
+                "x": "“Así que esta gente no solo infringía el copyright de la película, sino que además la usaba para hacer viral su negocio de AI y generar ingresos”, dijo Plaza. La persona detrás de Nightframe negó haber obtenido beneficios con el video o tener cualquier relación económica con AI Film School."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI 'El empleo'\n영화 강좌 홍보에 쓰였다",
+          "body": "Plaza의 2008년 단편을 베낀 30초 AI 영상이 저작권 분쟁을 불렀다.",
+          "mini_headline": "AI가 베낀 'El empleo'",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/El-empleo-AI-Ripoff.jpg"
+              },
+              {
+                "t": "p",
+                "x": "지난 주말, 비교적 무명인 Instagram 계정 하나가 호평받은 2008년 아르헨티나 단편 애니메이션 El Empleo의 AI-generated 모조품으로 화제가 됐다."
+              },
+              {
+                "t": "video",
+                "yt": "5KyifKNlY7A"
+              },
+              {
+                "t": "p",
+                "x": "해당 계정 Nightframe은 이 무단 리메이크를 내렸다. Santiago Bou Grasso와 함께 단편을 연출한 공동 제작자 Patricio Plaza가 자신의 작품이 유료 AI 영화 제작 서비스 홍보에 쓰인 데 항의한 뒤였다. 30초짜리 모조품은 24시간도 안 돼 오백만 회 넘는 조회수를 올린 것으로 전해졌다."
+              },
+              {
+                "t": "p",
+                "x": "캡션은 시청자에게 “Send AI to find out how I made this film”(이 영화를 어떻게 만들었는지 알고 싶으면 AI라고 보내라)이라고 안내했고, 그러면 자동 메시지가 시청자를 AI Film School로 이끌었다. 월 $49에 AI 영화 제작 강의를 한다고 광고하는 서비스다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/AI-Film-School.jpg",
+                "cap": "AI Film School"
+              },
+              {
+                "t": "p",
+                "x": "“이 사람들은 영화 저작권을 침해했을 뿐 아니라, 그걸 이용해 자기 AI 사업을 화제로 만들고 수익까지 올렸다”고 Plaza는 말했다. Nightframe 운영자는 영상으로 이득을 봤다는 점도, AI Film School과 금전적 관계가 있다는 점도 부인했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI版『El empleo』\n映画講座の宣伝に利用",
+          "body": "Patricio Plazaの2008年短編を模した30秒のAI動画が著作権論争を招いた。",
+          "mini_headline": "AIが模倣した『El empleo』",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/El-empleo-AI-Ripoff.jpg"
+              },
+              {
+                "t": "p",
+                "x": "週末、比較的無名のInstagramアカウントが、高く評価された2008年のアルゼンチンの短編アニメーション『El Empleo』のAI-generatedな模倣作で話題をさらった。"
+              },
+              {
+                "t": "video",
+                "yt": "5KyifKNlY7A"
+              },
+              {
+                "t": "p",
+                "x": "そのアカウントNightframeは、無断リメイクをすでに削除した。Santiago Bou Grassoとともにこの短編を監督した共同制作者Patricio Plazaが、自分の作品が有料のAI映画制作サービスの宣伝に流用されたことに抗議したためだ。30秒の模倣作は24時間足らずで五百万回を超える再生を集めたと報じられている。"
+              },
+              {
+                "t": "p",
+                "x": "キャプションは視聴者に“Send AI to find out how I made this film”（この映画の作り方を知りたければAIと送って）と指示し、それをきっかけに自動メッセージがAI Film Schoolへと誘導した。月$49でAI映画制作の指導をうたうサービスである。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/AI-Film-School.jpg",
+                "cap": "AI Film School"
+              },
+              {
+                "t": "p",
+                "x": "「つまり彼らは映画の著作権を侵害しただけでなく、それを使って自分たちのAIビジネスを拡散させ、収益を上げようとしていた」とPlazaは語った。Nightframeの運営者は、動画で利益を得たことも、AI Film Schoolと金銭的な関係があることも否定した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI仿《El empleo》\n为电影课程引流",
+          "body": "Patricio Plaza 2008年手绘短片遭30秒AI翻拍，引发版权纠纷。",
+          "mini_headline": "AI仿作《El empleo》",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/El-empleo-AI-Ripoff.jpg"
+              },
+              {
+                "t": "p",
+                "x": "上周末，一个相对小众的Instagram账号凭借对2008年备受赞誉的阿根廷动画短片El Empleo的AI-generated仿作走红。"
+              },
+              {
+                "t": "video",
+                "yt": "5KyifKNlY7A"
+              },
+              {
+                "t": "p",
+                "x": "该账号Nightframe已删除这部未经授权的翻拍。此前，与Santiago Bou Grasso共同执导该短片的联合创作者Patricio Plaza反对自己的作品被挪用来推广一项付费AI电影制作服务。据报道，这段30秒的仿作在不到24小时内获得超过五百万次观看。"
+              },
+              {
+                "t": "p",
+                "x": "其配文让观众“Send AI to find out how I made this film”（发送AI，了解我如何制作这部影片），随即触发一条自动消息，将他们引向AI Film School——一项以每月$49宣传AI电影制作教学的服务。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/AI-Film-School.jpg",
+                "cap": "AI Film School"
+              },
+              {
+                "t": "p",
+                "x": "“所以这些人不仅侵犯了影片的版权，还利用它让自己的AI生意走红并创收，”Plaza说。Nightframe背后的运营者否认从该视频获利，也否认与AI Film School有任何财务关系。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Una copia AI de 'El empleo'\npromueve clases de cine",
+          "body": "Un remake con AI de 30 segundos del corto de 2008 de Patricio Plaza se hizo viral y desató una disputa por copyright.",
+          "mini_headline": "Copia AI de 'El empleo'",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/El-empleo-AI-Ripoff.jpg"
+              },
+              {
+                "t": "p",
+                "x": "El fin de semana, una cuenta de Instagram relativamente desconocida se volvió viral con una copia AI-generated de El Empleo, el aclamado cortometraje animado argentino de 2008."
+              },
+              {
+                "t": "video",
+                "yt": "5KyifKNlY7A"
+              },
+              {
+                "t": "p",
+                "x": "La cuenta, Nightframe, retiró después el remake no autorizado, luego de que el cocreador Patricio Plaza, que dirigió el corto junto a Santiago Bou Grasso, se opusiera a que su obra se reutilizara para promocionar un servicio de pago de cine con AI. Según se informó, la copia de 30 segundos superó los cinco millones de vistas en menos de 24 horas."
+              },
+              {
+                "t": "p",
+                "x": "Su texto pedía a los espectadores: “Send AI to find out how I made this film” (envía AI para saber cómo hice esta película), lo que activaba un mensaje automático que los dirigía a AI Film School, un servicio que anuncia formación en cine con AI por $49 al mes."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/AI-Film-School.jpg",
+                "cap": "AI Film School"
+              },
+              {
+                "t": "p",
+                "x": "“Así que esta gente no solo infringía el copyright de la película, sino que además la usaba para hacer viral su negocio de AI y generar ingresos”, dijo Plaza. La persona detrás de Nightframe negó haber obtenido beneficios con el video o tener cualquier relación económica con AI Film School."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "stormdogs-minkoff-trailer",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Minkoff, AI 영화\nStorm Dogs 맡아",
+      "body": "Minkoff가 Tilly Norwood 제작자의 AI 강아지 영화를 맡았다.",
+      "mini_headline": "Minkoff, AI 'Storm Dogs' 연출",
+      "tool": "Movies",
+      "source": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/tilly-norwood-ai-dog-movie-minkoff-watch-trailer-1236751596/",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/StormDogs.png?w=1440&h=810&crop=1",
+            "cap": "'Storm Dogs'의 한 장면."
+          },
+          {
+            "t": "p",
+            "x": "Tilly Norwood의 프로듀서 Eline van der Velden이 숲에서 길을 잃은 아기가 집에 돌아가도록 돕는 오합지졸 강아지들의 이야기를 그린 실사·애니메이션 하이브리드 가족 영화 Storm Dogs를 개발해 왔다. 연출은 The Lion King 공동 감독 Rob Minkoff가 맡는다. 아이와 여러 견종(목소리는 사람 성우가 맡는다)은 AI 생성 영상으로, 일부 실사 장면은 성인 배우로 채운다."
+          },
+          {
+            "t": "video",
+            "yt": "gC9FufeIsxI"
+          },
+          {
+            "t": "p",
+            "x": "“Eline이 내게 아이디어를 제안했고 ‘이건 이 기술의 가장 좋은 활용 사례’라고 생각했다”고 Minkoff는 THR에 말했다. Tilly Norwood와는 어떤 식으로도 관계가 없고 지지하지도 않는다는 말도 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "Particle 6 팀은 2 1/2분짜리 개념 증명 영상을 몇몇 공개 행사와 업계 관계자들에게 보여 줄 계획이다. Minkoff는 제작에 한 해쯤 걸린다고 본다. 제작비는 Particle 6를 뒷받침하는 개인 후원자가 댄다. 작업이 더 진행되면 스튜디오 배급처를 찾을 예정이다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/RobMinkoffStormDogs.png",
+            "cap": "'Storm Dogs' 작업 중인 Rob Minkoff(오른쪽)"
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Minkoff joins AI dog film\n'Storm Dogs' as teaser drops",
+          "body": "Rob Minkoff is on board for the Tilly Norwood creator's AI talking-dog film, which is aiming for a studio release.",
+          "mini_headline": "Minkoff on AI 'Storm Dogs'",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/StormDogs.png?w=1440&h=810&crop=1",
+                "cap": "A still from 'Storm Dogs.'"
+              },
+              {
+                "t": "p",
+                "x": "Eline van der Velden, the producer of Tilly Norwood, has been developing Storm Dogs, a hybrid live-animated family film involving a motley crew of pups helping a toddler lost in the woods get home. And she's hired The Lion King co-director Rob Minkoff to helm it. The film will use AI generations for the child and its wide range of canine breeds (with human voice actors) and adult actors for select live-action scenes."
+              },
+              {
+                "t": "video",
+                "yt": "gC9FufeIsxI"
+              },
+              {
+                "t": "p",
+                "x": "“Eline pitched the idea to me and I thought ‘this is the best use-case of the technology,’” Minkoff tells THR, adding that he is not involved in any way with nor does he endorse Tilly Norwood."
+              },
+              {
+                "t": "p",
+                "x": "The Particle 6 team aims to show the 2 1/2 minute proof-of-concept at select public events and to players in the industry. Minkoff estimates the film should take about a year. It is financed via a private donor behind Particle 6 and will be seeking studio distribution deeper into the process."
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/RobMinkoffStormDogs.png",
+                "cap": "Rob Minkoff (r.) working on 'Storm Dogs'"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Minkoff, AI 영화\nStorm Dogs 맡아",
+          "body": "Minkoff가 Tilly Norwood 제작자의 AI 강아지 영화를 맡았다.",
+          "mini_headline": "Minkoff, AI 'Storm Dogs' 연출",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/StormDogs.png?w=1440&h=810&crop=1",
+                "cap": "'Storm Dogs'의 한 장면."
+              },
+              {
+                "t": "p",
+                "x": "Tilly Norwood의 프로듀서 Eline van der Velden이 숲에서 길을 잃은 아기가 집에 돌아가도록 돕는 오합지졸 강아지들의 이야기를 그린 실사·애니메이션 하이브리드 가족 영화 Storm Dogs를 개발해 왔다. 연출은 The Lion King 공동 감독 Rob Minkoff가 맡는다. 아이와 여러 견종(목소리는 사람 성우가 맡는다)은 AI 생성 영상으로, 일부 실사 장면은 성인 배우로 채운다."
+              },
+              {
+                "t": "video",
+                "yt": "gC9FufeIsxI"
+              },
+              {
+                "t": "p",
+                "x": "“Eline이 내게 아이디어를 제안했고 ‘이건 이 기술의 가장 좋은 활용 사례’라고 생각했다”고 Minkoff는 THR에 말했다. Tilly Norwood와는 어떤 식으로도 관계가 없고 지지하지도 않는다는 말도 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "Particle 6 팀은 2 1/2분짜리 개념 증명 영상을 몇몇 공개 행사와 업계 관계자들에게 보여 줄 계획이다. Minkoff는 제작에 한 해쯤 걸린다고 본다. 제작비는 Particle 6를 뒷받침하는 개인 후원자가 댄다. 작업이 더 진행되면 스튜디오 배급처를 찾을 예정이다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/RobMinkoffStormDogs.png",
+                "cap": "'Storm Dogs' 작업 중인 Rob Minkoff(오른쪽)"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Minkoff、AI犬映画\nStorm Dogs監督に",
+          "body": "Rob MinkoffがTilly Norwood制作者のAI犬映画に参加した。",
+          "mini_headline": "Minkoffが『Storm Dogs』を監督",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/StormDogs.png?w=1440&h=810&crop=1",
+                "cap": "『Storm Dogs』の一場面。"
+              },
+              {
+                "t": "p",
+                "x": "Tilly NorwoodのプロデューサーであるEline van der Veldenは、森で迷子になった幼児が家に帰るのを個性豊かな子犬たちが手助けする、実写とアニメーションのハイブリッドのファミリー映画『Storm Dogs』を開発してきた。そして監督に『The Lion King』の共同監督Rob Minkoffを起用した。映画では子どもと多様な犬種（声は人間の声優が担当）にAI生成を用い、一部の実写シーンには大人の俳優を起用する。"
+              },
+              {
+                "t": "video",
+                "yt": "gC9FufeIsxI"
+              },
+              {
+                "t": "p",
+                "x": "「Elineからアイデアを持ち込まれ、『これはこの技術の最良の使い道だ』と思った」とMinkoffはTHRに語り、Tilly Norwoodには一切関わっておらず、支持もしていないと付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "Particle 6のチームは、2 1/2分の概念実証映像を一部の公開イベントや業界関係者に見せる考えだ。Minkoffは、映画の完成にはおよそ一年かかるとみている。資金はParticle 6を支える個人の出資者が提供しており、制作が進んだ段階でスタジオによる配給を探る。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/RobMinkoffStormDogs.png",
+                "cap": "『Storm Dogs』に取り組むRob Minkoff（右）"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Minkoff执导AI狗狗片\nStorm Dogs预告出炉",
+          "body": "Rob Minkoff加盟Tilly Norwood创作者的AI狗狗电影，寻求片厂发行。",
+          "mini_headline": "Minkoff执导AI片《Storm Dogs》",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/StormDogs.png?w=1440&h=810&crop=1",
+                "cap": "《Storm Dogs》剧照。"
+              },
+              {
+                "t": "p",
+                "x": "Tilly Norwood的制片人Eline van der Velden一直在开发Storm Dogs，这是一部真人与动画混合的家庭电影，讲述一群形形色色的小狗帮助在森林里迷路的幼儿回家。她还请来The Lion King联合导演Rob Minkoff执导。影片中的孩子和各种犬种将由AI生成（由真人配音演员配音），部分真人场景则由成年演员出演。"
+              },
+              {
+                "t": "video",
+                "yt": "gC9FufeIsxI"
+              },
+              {
+                "t": "p",
+                "x": "“Eline向我提出了这个想法，我觉得‘这是这项技术最好的用例’，”Minkoff对THR表示，并补充说他与Tilly Norwood没有任何关系，也不为其背书。"
+              },
+              {
+                "t": "p",
+                "x": "Particle 6团队计划在部分公开活动上并向业内人士展示这段2 1/2分钟的概念验证短片。Minkoff估计影片大约需要一年完成。影片由Particle 6背后的一位私人捐助者出资，并将在制作后期寻求制片厂发行。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/RobMinkoffStormDogs.png",
+                "cap": "Rob Minkoff（右）在制作《Storm Dogs》"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Minkoff se suma a la cinta AI\n'Storm Dogs', que lanza avance",
+          "body": "Rob Minkoff se suma a la cinta AI de perros parlantes de la creadora de Tilly Norwood, que busca un estudio.",
+          "mini_headline": "Minkoff en 'Storm Dogs' con AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/StormDogs.png?w=1440&h=810&crop=1",
+                "cap": "Una imagen de 'Storm Dogs'."
+              },
+              {
+                "t": "p",
+                "x": "Eline van der Velden, productora de Tilly Norwood, ha estado desarrollando Storm Dogs, una película familiar híbrida de imagen real y animación sobre una variopinta pandilla de cachorros que ayuda a un niño pequeño perdido en el bosque a volver a casa. Y ha contratado a Rob Minkoff, codirector de The Lion King, para dirigirla. La película usará generaciones de AI para el niño y su amplia variedad de razas caninas (con actores de voz humanos) y actores adultos para algunas escenas de imagen real."
+              },
+              {
+                "t": "video",
+                "yt": "gC9FufeIsxI"
+              },
+              {
+                "t": "p",
+                "x": "“Eline me propuso la idea y pensé: ‘este es el mejor caso de uso de la tecnología’”, dice Minkoff a THR, y añade que no participa de ninguna manera en Tilly Norwood ni lo respalda."
+              },
+              {
+                "t": "p",
+                "x": "El equipo de Particle 6 quiere mostrar la prueba de concepto de 2 1/2 minutos en algunos eventos públicos y a actores de la industria. Minkoff calcula que la película debería llevar alrededor de un año. Está financiada por un donante privado detrás de Particle 6 y buscará distribución de un estudio más adelante en el proceso."
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/RobMinkoffStormDogs.png",
+                "cap": "Rob Minkoff (der.) trabajando en 'Storm Dogs'"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Minkoff, AI 영화\nStorm Dogs 맡아",
+          "body": "Minkoff가 Tilly Norwood 제작자의 AI 개 영화에 합류했다.",
+          "mini_headline": "Minkoff, AI 'Storm Dogs' 연출",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/StormDogs.png?w=1440&h=810&crop=1",
+                "cap": "'Storm Dogs'의 한 장면."
+              },
+              {
+                "t": "p",
+                "x": "Tilly Norwood의 프로듀서 Eline van der Velden이 숲에서 길을 잃은 아기가 집에 돌아가도록 돕는 오합지졸 강아지들의 이야기를 그린 실사·애니메이션 하이브리드 가족 영화 Storm Dogs를 개발해 왔다. 그리고 The Lion King 공동 감독 Rob Minkoff에게 연출을 맡겼다. 영화는 아이와 다양한 견종(목소리는 사람 성우가 맡는다)에는 AI 생성 영상을, 일부 실사 장면에는 성인 배우를 쓴다."
+              },
+              {
+                "t": "video",
+                "yt": "gC9FufeIsxI"
+              },
+              {
+                "t": "p",
+                "x": "“Eline이 내게 아이디어를 제안했고 ‘이건 이 기술의 가장 좋은 활용 사례’라고 생각했다”고 Minkoff는 THR에 말했다. 그는 Tilly Norwood에는 어떤 식으로도 관여하지 않으며 지지하지도 않는다고 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "Particle 6 팀은 2 1/2분 분량의 개념 증명 영상을 일부 공개 행사와 업계 관계자들에게 보여줄 계획이다. Minkoff는 영화 제작에 약 한 해가 걸릴 것으로 내다본다. 제작비는 Particle 6를 뒷받침하는 개인 후원자가 대며, 작업이 더 진행되면 스튜디오 배급을 모색할 예정이다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/RobMinkoffStormDogs.png",
+                "cap": "'Storm Dogs' 작업 중인 Rob Minkoff(오른쪽)"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Minkoff、AI犬映画\nStorm Dogs監督に",
+          "body": "Rob MinkoffがTilly Norwood制作者のAI犬映画に参加した。",
+          "mini_headline": "Minkoffが『Storm Dogs』を監督",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/StormDogs.png?w=1440&h=810&crop=1",
+                "cap": "『Storm Dogs』の一場面。"
+              },
+              {
+                "t": "p",
+                "x": "Tilly NorwoodのプロデューサーであるEline van der Veldenは、森で迷子になった幼児が家に帰るのを個性豊かな子犬たちが手助けする、実写とアニメーションのハイブリッドのファミリー映画『Storm Dogs』を開発してきた。そして監督に『The Lion King』の共同監督Rob Minkoffを起用した。映画では子どもと多様な犬種（声は人間の声優が担当）にAI生成を用い、一部の実写シーンには大人の俳優を起用する。"
+              },
+              {
+                "t": "video",
+                "yt": "gC9FufeIsxI"
+              },
+              {
+                "t": "p",
+                "x": "「Elineからアイデアを持ち込まれ、『これはこの技術の最良の使い道だ』と思った」とMinkoffはTHRに語り、Tilly Norwoodには一切関わっておらず、支持もしていないと付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "Particle 6のチームは、2 1/2分の概念実証映像を一部の公開イベントや業界関係者に見せる考えだ。Minkoffは、映画の完成にはおよそ一年かかるとみている。資金はParticle 6を支える個人の出資者が提供しており、制作が進んだ段階でスタジオによる配給を探る。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/RobMinkoffStormDogs.png",
+                "cap": "『Storm Dogs』に取り組むRob Minkoff（右）"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Minkoff执导AI狗狗片\nStorm Dogs预告出炉",
+          "body": "Rob Minkoff加盟Tilly Norwood创作者的AI狗狗电影，寻求片厂发行。",
+          "mini_headline": "Minkoff执导AI片《Storm Dogs》",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/StormDogs.png?w=1440&h=810&crop=1",
+                "cap": "《Storm Dogs》剧照。"
+              },
+              {
+                "t": "p",
+                "x": "Tilly Norwood的制片人Eline van der Velden一直在开发Storm Dogs，这是一部真人与动画混合的家庭电影，讲述一群形形色色的小狗帮助在森林里迷路的幼儿回家。她还请来The Lion King联合导演Rob Minkoff执导。影片中的孩子和各种犬种将由AI生成（由真人配音演员配音），部分真人场景则由成年演员出演。"
+              },
+              {
+                "t": "video",
+                "yt": "gC9FufeIsxI"
+              },
+              {
+                "t": "p",
+                "x": "“Eline向我提出了这个想法，我觉得‘这是这项技术最好的用例’，”Minkoff对THR表示，并补充说他与Tilly Norwood没有任何关系，也不为其背书。"
+              },
+              {
+                "t": "p",
+                "x": "Particle 6团队计划在部分公开活动上并向业内人士展示这段2 1/2分钟的概念验证短片。Minkoff估计影片大约需要一年完成。影片由Particle 6背后的一位私人捐助者出资，并将在制作后期寻求制片厂发行。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/RobMinkoffStormDogs.png",
+                "cap": "Rob Minkoff（右）在制作《Storm Dogs》"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Minkoff se suma a la cinta AI\n'Storm Dogs', que lanza avance",
+          "body": "Rob Minkoff se suma a la cinta AI de perros parlantes de la creadora de Tilly Norwood, que busca un estudio.",
+          "mini_headline": "Minkoff en 'Storm Dogs' con AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/StormDogs.png?w=1440&h=810&crop=1",
+                "cap": "Una imagen de 'Storm Dogs'."
+              },
+              {
+                "t": "p",
+                "x": "Eline van der Velden, productora de Tilly Norwood, ha estado desarrollando Storm Dogs, una película familiar híbrida de imagen real y animación sobre una variopinta pandilla de cachorros que ayuda a un niño pequeño perdido en el bosque a volver a casa. Y ha contratado a Rob Minkoff, codirector de The Lion King, para dirigirla. La película usará generaciones de AI para el niño y su amplia variedad de razas caninas (con actores de voz humanos) y actores adultos para algunas escenas de imagen real."
+              },
+              {
+                "t": "video",
+                "yt": "gC9FufeIsxI"
+              },
+              {
+                "t": "p",
+                "x": "“Eline me propuso la idea y pensé: ‘este es el mejor caso de uso de la tecnología’”, dice Minkoff a THR, y añade que no participa de ninguna manera en Tilly Norwood ni lo respalda."
+              },
+              {
+                "t": "p",
+                "x": "El equipo de Particle 6 quiere mostrar la prueba de concepto de 2 1/2 minutos en algunos eventos públicos y a actores de la industria. Minkoff calcula que la película debería llevar alrededor de un año. Está financiada por un donante privado detrás de Particle 6 y buscará distribución de un estudio más adelante en el proceso."
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/RobMinkoffStormDogs.png",
+                "cap": "Rob Minkoff (der.) trabajando en 'Storm Dogs'"
               }
             ]
           }

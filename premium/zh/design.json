@@ -11231,6 +11231,156 @@
           "x": "语音聊天不同于听写功能，后者在早期版本中被称为 Voice Mode。听写仍会把你的语音转成聊天输入框中的文字，在 IDE 中仍可用 Cmd+Shift+Space 开关。语音聊天则是双向对话，智能体会出声回答。"
         }
       ]
+    },
+    "design/photoshop-28-ai-relighting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_Photoshop28_f-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adobe发布了Photoshop 28.0。这是一次重大更新，新增了多项AI功能，可为图像重新打光、智能清除物体的所有痕迹，并把图像转换为不同的宽高比。"
+        },
+        {
+          "t": "video",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_Photoshop28_Relight.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Relight会检测图像中已有的光源，并以此为输入，用生成式AI生成新的光照。用户可以调整已有光源的颜色、强度或柔和度，也可在图像中点击，最多添加三个新光源。每次生成消耗30个生成式积分。"
+        },
+        {
+          "t": "p",
+          "x": "Remove related elements基于Project Trace Erase，可去除物体的阴影和倒影，以及烟雾、蒸汽、水波纹甚至脚印等效果。它消耗10个生成式积分。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_Photoshop28_GenerativeRecompose-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Generative Recompose通过“智能地重新放置主体，并调整背景以适应新布局”来改变图像的宽高比。Generative Restyle为AI编辑加入了强度滑块，Generative Upscale现已支持Firefly Upscaler 2模型。Photoshop Single-app订阅价格为每月$34.49或每年$263.88。"
+        }
+      ]
+    },
+    "design/claude-connectors-design-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://claude.com/resources/articles/interactive-connectors-full-tool/opengraph-image/og"
+        },
+        {
+          "t": "p",
+          "x": "今年早些时候，我们推出了交互式连接器，把工具的小型实时视图带进Claude。从今天起，只要连接器支持，你就可以在对话旁打开工具或将其扩展为全屏，并让Claude与你协作、直接做出修改。该功能正在向所有套餐的网页版和Claude桌面应用推出。"
+        },
+        {
+          "t": "video",
+          "yt": "Gy1jSeSzAhk"
+        },
+        {
+          "t": "p",
+          "x": "你可以让Claude修改你打开的页面、行或文件，并像批准连接器操作那样批准它的操作。Claude做出的修改会实时出现在工具中。你也可以直接打开已连接的工具，并固定最常用的工具。"
+        },
+        {
+          "t": "p",
+          "x": "我们先从目录中的一小批工具开始，包括Asana、Canva、Carta、Dropbox、monday.com、Smartsheet、Vercel和Webflow。借助Adobe，可以让Claude对照片进行修图、编辑和添加效果，也可以对PDFs进行高亮、编辑和涂黑。Figma、Harvey和Shopify也在开发集成。"
+        },
+        {
+          "t": "p",
+          "x": "交互式连接器基于MCP Apps运行，它是Model Context Protocol的开放扩展，让MCP服务器能把自己的界面带入AI应用。面向开发者的支持目前处于公开预览阶段。"
+        }
+      ]
+    },
+    "design/after-effects-27-ai-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_AfterEffects27_f-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adobe发布了After Effects 27.0，这是面向动态图形、post-production和VFX工作的合成软件的最新版本。此次更新加入了全新的智能体式AI Assistant，可用文本提示控制After Effects，自动完成重复性任务，甚至生成JavaScript表达式。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_AfterEffects28_AIAssistant-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "建议的用法包括检查协作者提供的合成或素材，由Assistant自动返回摘要。它执行的大多数“创意操作”都会消耗生成式积分；Single-app订阅每月提供25个免费生成式积分。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_AfterEffects27_ContourPaint-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "新的Contour Paint效果会沿着素材中形状的边缘涂抹像素，“类似手指画”。3D工具集的变化包括可将Substance材质应用到3D文字和形状上，以及把图层用作材质来源。从Illustrator导入的文字现在会成为可编辑图层，Auto-Save和崩溃恢复也有所改进。"
+        },
+        {
+          "t": "p",
+          "x": "After Effects 27.0支持Windows 11和macOS 15.0+，仅以rental-only方式提供。Single-app订阅价格为每月$34.49或每年$263.88。"
+        }
+      ]
+    },
+    "design/trimble-construction-ai-agents": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Trimble发布了覆盖建筑设计、施工和运营全生命周期的Trimble Connect新AI功能。该平台累计用户超过5500万，参与的项目超过3500万个，在由400多个集成组成的开放生态中提供统一的共享数据层。"
+        },
+        {
+          "t": "p",
+          "x": "Trimble Assist提供与AI智能体交互的通用对话式AI界面，Trimble Agent Studio则让客户把标准作业流程和机构知识沉淀为定制的AI智能体和技能。"
+        },
+        {
+          "t": "p",
+          "x": "在Trimble Dimensions上重点展示的有：参照实时as-built点云生成建筑方案的Generative Design；通过自然语言提示完成的Automated Structural Modeling；One-Click AI Indoor Classification；AI Diagnostics for Field Hardware；360 Reality Capture；voice-driven巡检工具AI Punch Walk；AI Procurement and Invoice Matching；Contract Risk Analysis and Change Order Automation；以及由智能体规划引擎驱动的Trimble Connect Scheduling。"
+        },
+        {
+          "t": "p",
+          "x": "平台上当前可用的AI智能体和模型100%带有实时、标准化的AI“安全标签”，符合EU AI Act和ISO 42001。Generative Design目前处于Trimble Labs阶段；AI Diagnostics for Field Hardware已向部分客户开放。"
+        }
+      ]
+    },
+    "design/claude-electronics-prototypes": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "一年多前，Anthropic开始与Diode Computers合作，测试Claude设计基础电子电路的能力。当时的模型还无法可靠地完成电路板布局。如今，Claude已能从头到尾完成电子硬件的设计与原型制作。"
+        },
+        {
+          "t": "video",
+          "yt": "vdYynH177h0"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic与Diode合作，让Claude Fable 5.2设计三款设备：一台免提通话器、一个语音助手中枢和一只手持虚拟宠物。Claude编写了规格说明，绘制了原理图，在PCB上摆放元件，布设铜线连接，设计了3D-printable外壳，编写了固件，并整理了物料清单。这些原型的电路无需任何修改即可工作。"
+        },
+        {
+          "t": "p",
+          "x": "在内部基准测试PCB Gym中，Fable 5.2得分69%，而Fable 5为25%。在BenchCAD 2.1上，它得分83.5%，接近Claude Fable 5.1的两倍。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/4zrzovbb/website/1e8e384cb5bbf67da75851ecce146f47a425af0b-1888x1062.png",
+          "cap": "免提通话器的四层铜层。"
+        },
+        {
+          "t": "p",
+          "x": "Claude在没有提示的情况下自行修改作品，重新分配引脚、重新布线达“数十次”。它还自己编写了一个布线器，每条长走线大约一秒即可布好。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/4zrzovbb/website/64a2aade621d8d6a50c57f9f3d0ac050ea778423-2048x949.png",
+          "cap": "Claude想出了将电路板倾斜约25度来安装的办法。"
+        },
+        {
+          "t": "p",
+          "x": "Diode直接根据Claude的设计文件制造了全部三块电路板。这些设备仍是原型：尚未经过电气验证、天线调校、热测试或认证。"
+        }
+      ]
     }
   }
 }

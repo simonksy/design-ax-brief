@@ -10150,6 +10150,140 @@
           "x": "这些能力结合起来可以缩短扫描时间、降低辐射剂量。团队下一步的目标是更稳健的基础模型和实时断层成像——在实验仍在进行时，3D图像就能不断改善。"
         }
       ]
+    },
+    "science/science-google-quantum-lean-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-4.28.33-AM.png"
+        },
+        {
+          "t": "p",
+          "x": "Google研究人员利用AI智能体和经计算机检验的数学证明，设计出所需计算资源更少的量子程序。这支由Google DeepMind与Google Quantum AI研究人员领衔的团队报告称，聚变相关模拟的资源成本降低约十一倍，光化学计算降低八倍，与药物代谢相关的模型降低2.5倍（arXiv预印本）。"
+        },
+        {
+          "t": "p",
+          "x": "团队用Lean构建了一个量子编程库。AI智能体负责搜索程序，每个候选方案都必须同时附带正确性与成本的证明；另有一个独立检查器确认其满足原始要求。各团队通过共享wiki和定期举行的线上会议，交流程序与失败的思路。"
+        },
+        {
+          "t": "p",
+          "x": "在聚变阻止本领模拟中，改进后的程序所需逻辑量子比特从5,650个降至4,374个，量子比特与门的综合成本降低10.9倍。光化学降低8.08倍，细胞色素P450模型降低2.49倍。研究人员还报告，反正弦计算的成本降低了290倍以上。"
+        },
+        {
+          "t": "p",
+          "x": "这些科学程序仍超出早期容错量子计算机预计能够处理的规模。团队计划将其Lean库、规约和经验证的解决方案开源。"
+        }
+      ]
+    },
+    "science/science-vibe-qc-bonn": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what.jpg",
+          "cap": "由硼原子和氮原子构成的极薄层上的一个水分子。由vibe-qc计算，vibe-viewer可视化。图片来源：Michael F. Peintinger"
+        },
+        {
+          "t": "p",
+          "x": "University of Bonn（波恩大学）Mulliken Center for Theoretical Chemistry的Dr. Michael F. Peintinger研究了用人工智能编写量子化学软件会带来什么结果。他的研究发表在Journal of Computational Chemistry上。"
+        },
+        {
+          "t": "p",
+          "x": "“据我所知，vibe-qc是首个几乎完全由生成式AI开发的同类程序。”他说。AI智能体在科学指导下编写并测试了该程序，约10周后，第一个完整版本就已就绪。"
+        },
+        {
+          "t": "p",
+          "x": "“每一条建议我都必须审查。”第一天，助手就想用一种把所有电子成对处理的方法来计算锂原子，而锂有三个电子。另一些错误直到把结果与一个独立开发的程序进行比较时才被发现，因此一种方法只有经得起这样的比较，才被视为可用。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what-1.jpg",
+          "cap": "含54个原子的氧化镁晶体截面。图片来源：Michael F. Peintinger"
+        },
+        {
+          "t": "p",
+          "x": "vibe-qc已发展为适用于分子和晶体的通用程序，并以Mozilla Public License开源。目前已发表的计算主要用于测试，例如金刚石中的电子能量。"
+        }
+      ]
+    },
+    "science/science-hku-holographic-optics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-researchers-bring.jpg",
+          "cap": "HKU全息显示研究概念图。图片来源：The University of Hong Kong"
+        },
+        {
+          "t": "p",
+          "x": "由Yifan Evan Peng教授领导的The University of Hong Kong（HKU）研究团队，结合计算机图形学、波动光学和AI-based校准，开发出两项技术，帮助全息显示器更自然地再现焦点、视角和材质外观的变化。"
+        },
+        {
+          "t": "p",
+          "x": "在发表于Nature Communications的一项研究中，研究人员从多边形网格出发，在全息图生成的全过程中保留场景的3D结构。AI-based校准弥合了与真实显示器之间的差距：借助相机测量数据，学习模型可以考虑光学系统中的缺陷。在实验室测试中，这带来了更平滑的焦点变化和更清晰的图像细节。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-computer-graphics-a.jpg",
+          "cap": "未来全息AR体验的概念图。图片来源：The University of Hong Kong"
+        },
+        {
+          "t": "p",
+          "x": "在发表于ACM Transactions on Graphics的第二项研究中，HoloPathTracer将路径追踪与波动光学相结合，再现反射、折射、移动的高光和间接照明。"
+        },
+        {
+          "t": "p",
+          "x": "这项工作仍处于研究原型阶段；实时消费级应用还需要更快的计算速度和更好的空间光调制器。"
+        }
+      ]
+    },
+    "science/science-patent-lawyers-ai-trial": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2025/01/artificial-intelligence-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "在一项针对133名U.S.专利律师、为期三个月的实验中，使用AI写作助手提高了他们专利草稿的质量，其中初级律师提升最大。但在随后不借助AI完成的任务中，一直使用该工具的资深律师胜过未使用的资深律师，而初级律师平均而言没有表现出优势。研究结果以National Bureau of Economic Research工作论文的形式发布。"
+        },
+        {
+          "t": "p",
+          "x": "MIT的David Autor与Google的同事将来自11家IP律所的律师随机分组：90人使用一款尚未发布的Google Labs写作工具，43人进入对照组。AI使用者在第10天和第90天产出的草稿更好，高出约三分之一个标准差，主要原因是质量差的草稿变少了。"
+        },
+        {
+          "t": "p",
+          "x": "在no-AI的修订标注任务中，优势完全来自资深律师。作者总结道：“扎实的基础专业能力，可能是从AI-assisted实践中获得持久技能的前提。”"
+        },
+        {
+          "t": "p",
+          "x": "该论文尚未经过同行评审。研究由Google开展并资助，七位作者中有六位在Google工作。"
+        }
+      ]
+    },
+    "science/mit-worldparticle-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-WorldParticle-01-Press.jpg",
+          "cap": "“它的架构与ChatGPT相似。但我们不是一次预测一个词来写出一段文字，而是一步一步地预测这些粒子将如何运动。”Peter Yichen Chen说。"
+        },
+        {
+          "t": "p",
+          "x": "如今，想要模拟某一物理过程的科学家，必须为这项任务挑选合适的工具，而每种工具都是围绕决定该过程行为的特定方程手工编写的。MIT、University of British Columbia（UBC）等机构的研究人员用一个名为WorldParticle的单一深度学习系统取代了这种拼凑式做法，它可帮助工程师模拟从滑动的沙子到折叠的蛋白质等各种物理现象。"
+        },
+        {
+          "t": "p",
+          "x": "该系统将所模拟的每种材料表示为微小粒子，并一步一步预测这些粒子将移动到何处。由于它学习的是底层动力学，而不是由方程编程而来，该模型能够适应训练中从未遇到过的材料、作用力和环境。"
+        },
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/inline/six-split-granular.gif",
+          "cap": "展示分子、流体和颗粒模拟的动画。图片来源：研究人员提供"
+        },
+        {
+          "t": "p",
+          "x": "“我们希望模拟领域迎来自己的GPT时刻。”曾在MIT做博士后、现任职于UBC的Peter Yichen Chen说。研究人员在可变形物体、颗粒材料和蛋白质等六种物理现象上展示了WorldParticle，精度高于数值模拟方法，并且模拟蛋白质结构随时间变化的速度比数值模拟器快约100倍。这项研究将在SIGGRAPH Asia上发表。"
+        }
+      ]
     }
   }
 }

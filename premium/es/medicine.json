@@ -3849,6 +3849,131 @@
           "x": "Los resultados aún no han sido revisados por pares y deben considerarse preliminares; se espera que los resultados completos se publiquen a principios de 2027."
         }
       ]
+    },
+    "medicine/aha-voice-heartfailure-alert": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_"
+        },
+        {
+          "t": "p",
+          "x": "Un sistema de análisis de voz con inteligencia artificial (AI) basado en el teléfono inteligente puede detectar el empeoramiento de los síntomas de insuficiencia cardíaca con más de tres semanas de antelación y supera con claridad la atención estándar, según datos de última hora del ensayo DETECT-HF presentados en las American Heart Association Scientific Sessions 2026 y publicados en JACC: Heart Failure."
+        },
+        {
+          "t": "p",
+          "x": "DETECT-HF evaluó el sistema HearO de Cordio Medical en 563 pacientes ambulatorios con insuficiencia cardíaca. Predijo más del 70% de los eventos significativos de insuficiencia cardíaca con una media de 24.6 días de antelación. El pesaje diario convencional tiene una sensibilidad de aproximadamente el 20%, según el investigador principal, William T. Abraham, MD."
+        },
+        {
+          "t": "video",
+          "src": "https://innovate-healthcare-cdn.s3.amazonaws.com/2026-11/William%20Abraham%20explains%20how%20AI%20voice%20analysis%20can%20detect%20worsening%20heart%20failure.mp4"
+        },
+        {
+          "t": "p",
+          "x": "HearO recoge cada día seis frases habladas estandarizadas y evalúa la entonación, los patrones respiratorios y otras características acústicas. Los algoritmos de AI construyen un modelo de voz específico para cada paciente y alertan a los médicos cuando aparecen patrones de empeoramiento de la insuficiencia cardíaca."
+        },
+        {
+          "t": "p",
+          "x": "Los participantes completaron el 85% de las grabaciones previstas; la tasa de alertas sin explicación fue de 2.65 por paciente y año, y no se notificaron eventos adversos relacionados con el dispositivo. HearO recibió la designación de dispositivo innovador de la FDA, y la empresa espera lanzarlo en U.S. en 2027."
+        }
+      ]
+    },
+    "medicine/llm-mri-protocoling-radiology": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t"
+        },
+        {
+          "t": "p",
+          "x": "Los grandes modelos de lenguaje pueden rendir al nivel de los radiólogos a la hora de seleccionar los protocolos de MRI más adecuados para los pacientes, según un nuevo análisis. Los resultados sugieren que ciertos modelos podrían ayudar a estandarizar la selección de protocolos de MRI, que normalmente se hace de forma manual."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores dirigidos por la Dr. Zeynep Bendella, del University Hospital Bonn, evaluaron cuatro LLMs de pesos abiertos con 1,200 formularios consecutivos de solicitud de MRI, usando como estándar de referencia el consenso de dos radiólogos certificados."
+        },
+        {
+          "t": "p",
+          "x": "GPT-OSS-120B y Qwen3-235B-A22B-Instruct-2507 alcanzaron cada uno un 94% de precisión en el protocolo. MedGemma-27B-Text-IT logró un 79%, y Gemma-3-27B-IT tuvo el peor rendimiento, con un 58%. Las selecciones inaceptables fueron del 5.8% para GPT-OSS y del 5.9% para Qwen3, frente al 24.7% de MedGemma y el 68.3% de Gemma3."
+        },
+        {
+          "t": "p",
+          "x": "El error más común fue elegir un protocolo anatómicamente apropiado pero clínicamente subóptimo. Los autores advirtieron que la variación en los resultados y la frecuencia de selecciones inaceptables ponen de relieve los riesgos de confiar en recomendaciones automatizadas sin supervisión clínica."
+        }
+      ]
+    },
+    "medicine/thyroid-eye-radiomics-radiotherapy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Figa_HTML.png"
+        },
+        {
+          "t": "p",
+          "x": "La radioterapia es un tratamiento clave para la enfermedad ocular tiroidea (TED) activa de moderada a grave, pero la respuesta varía y la puntuación de actividad clínica (CAS) tiene un valor predictivo limitado. Los autores construyeron un modelo multisecuencia que integra datos clínicos, imagen convencional y características radiómicas de MRI para predecir la respuesta a la radioterapia."
+        },
+        {
+          "t": "p",
+          "x": "Se incluyeron de forma retrospectiva 85 sujetos con TED tratados con radioterapia estandarizada (20 Gy). Con características radiómicas de los músculos extraoculares en MRI T1CE y T2WI se desarrollaron modelos mediante nueve algoritmos de aprendizaje automático."
+        },
+        {
+          "t": "p",
+          "x": "De los 85 pacientes, 46 respondieron y 39 no respondieron. Los modelos clínicos mostraron un rendimiento limitado (AUC = 0.700), mientras que la radiómica de T1CE, T2WI y multisecuencia alcanzó AUCs de 0.850, 0.875 y 0.933. El modelo integrado obtuvo el AUC más alto (0.942) y superó de forma significativa al modelo clínico (P = 0.040)."
+        },
+        {
+          "t": "p",
+          "x": "El modelo ayuda a orientar decisiones individualizadas, reducir radioterapias ineficaces y avanzar en el manejo personalizado de la enfermedad ocular tiroidea, y respalda la estratificación individualizada del riesgo tras una validación prospectiva."
+        }
+      ]
+    },
+    "medicine/fda-telesurgery-autonomy-paper": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
+          "cap": "El Dr. Vipul Patel (derecha), urólogo con sede en Florida que ha realizado telecirugías, conversa con un paciente en un pasillo del hospital."
+        },
+        {
+          "t": "p",
+          "x": "La Food and Drug Administration publicó el viernes un documento de debate sobre dispositivos médicos robóticos con capacidades autónomas o de teleoperación remota, y solicita opiniones sobre los beneficios y riesgos de estos sistemas. Los comentarios se reciben hasta el 5 de enero; un taller público está previsto para el 2-3 de diciembre."
+        },
+        {
+          "t": "p",
+          "x": "En U.S., ningún dispositivo robótico teleoperado a distancia o totalmente autónomo había recibido autorización de comercialización hasta julio, según la FDA. En octubre, el Dr. Vipul Patel realizó una prostatectomía robótica a un paciente situado a unas 35 millas de distancia, bajo una exención de dispositivo en investigación."
+        },
+        {
+          "t": "p",
+          "x": "Los fabricantes también exploran funciones autónomas, que podrían incluir extraer sangre sin un flebotomista y localizar o detener hemorragias potencialmente mortales dentro del cuerpo. Los rápidos avances en inteligencia artificial, aprendizaje automático y conectividad impulsan la expansión de las aplicaciones robóticas, señaló la FDA."
+        },
+        {
+          "t": "p",
+          "x": "La autonomía podría favorecer la precisión del procedimiento, la reproducibilidad o la eficiencia del flujo de trabajo, pero los beneficios pueden ir acompañados de riesgos propios, como una ejecución autónoma incorrecta, una menor vigilancia del usuario y una capacidad limitada de adaptarse a la variabilidad del procedimiento."
+        }
+      ]
+    },
+    "medicine/science-ai-paper-error-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.science.org/do/10.1126/science.zrukrlb/rss/_20261102_ai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nuevos hallazgos demuestran la aptitud de la IA para identificar fallos técnicos en estudios de los que dependen decisiones médicas."
+        },
+        {
+          "t": "p",
+          "x": "El estudio, una preimpresión de medRxiv titulada “Large language models detect methodological errors that human peer review misses in clinical trials”, revisó un experimento anterior en el que se insertaron errores en tres informes de ensayos clínicos aleatorizados; los revisores humanos sin formación obtuvieron una puntuación media de detección de errores graves del 27%."
+        },
+        {
+          "t": "p",
+          "x": "Se evaluaron quince grandes modelos de lenguaje, entre ellos cuatro de pesos abiertos, con los mismos errores. Sus puntuaciones de detección de errores graves oscilaron entre el 53% y el 96%. Para reducir el riesgo de memorización, la prueba se repitió con tres ensayos clínicos publicados en 2026, con puntuaciones de entre el 51% y el 99%, y de entre el 66% y el 87% en los modelos de pesos abiertos."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos aun así señalaron entre el 2% y el 29% de los tipos de error en informes de control sin errores insertados, sobre todo conclusiones no respaldadas por los resultados. Opus 5.5 obtuvo la puntuación más alta de detección de errores graves (99%), mientras que GPT-6.1 Sol y GPT-6 Luna lograron el 92% y el 87%. Los autores sugieren que depender solo de la revisión por pares humana puede dejar sin detectar errores metodológicos evitables."
+        }
+      ]
     }
   }
 }

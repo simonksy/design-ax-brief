@@ -9818,6 +9818,171 @@
           "x": "Después, hay que revisar el contexto. Una alerta de Artist Profile Protection de Spotify o del detector de música con AI de Deezer suele servir de confirmación, aunque Bandcamp ha marcado por error música real en alguna ocasión. Una búsqueda rápida debería mostrar actuaciones en directo, perfiles en redes sociales y entrevistas; un artista sin presencia en internet que publica un aluvión de canciones con portadas generadas con AI (AI-generated) es probablemente una granja de contenido."
         }
       ]
+    },
+    "music/vsl-vienna-performer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/v/vsl_vienna_performer-duMmyjQ3ktwjp2hbBd4zsrUQ7R0lCMOE.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Descrito como un músico de sesión dentro de tu DAW, Vienna Performer de VSL es un plug-in AI-powered que toma las partes MIDI del usuario, ajusta el fraseo, la dirección del arco, la respiración, el vibrato y el tiempo, y entrega el resultado como un archivo de audio renderizado."
+        },
+        {
+          "t": "p",
+          "x": "Sus modelos se entrenaron exclusivamente con grabaciones hechas a propósito por VSL en su propio estudio Synchron Stage. No tiene funciones generativas: las notas y la dinámica provienen por completo de la parte original del usuario, mientras que Vienna Performer se encarga de las articulaciones, las transiciones entre notas y pequeños ajustes de tiempo."
+        },
+        {
+          "t": "p",
+          "x": "Se lanza con Violin, Cello, Flute, Clarinet y French Horn solistas, además de conjuntos de First Violins, Second Violins, Violas y Cellos; en breve llegarán Trumpet solista y un conjunto de Double Bass."
+        },
+        {
+          "t": "p",
+          "x": "Funciona por suscripción en tres niveles que solo difieren en los minutos de renderizado: Entry (140, €9.99/mes), Standard (360, €19.99/mes) y Pro (1000, €49.99/mes). Los minutos de renderizado se cuentan por pista de instrumento, de modo que una pieza de dos minutos con 12 partes consume 24. Funciona en Windows 10+ y macOS 12+ como VST3, AU y AAX."
+        }
+      ]
+    },
+    "music/neutone-neusynth-stems": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286888307-287c615a239e2285.webp"
+        },
+        {
+          "t": "p",
+          "x": "NeuTone ha anunciado NeuSynth, un plugin generador de stems con AI que funciona dentro de tu DAW."
+        },
+        {
+          "t": "p",
+          "x": "NeuSynth crea nuevos stems de instrumentos a partir del audio de la pista en la que estás trabajando. Puedes usar hasta 60 segundos de audio como entrada y elegir entre 1 y 6 capas de instrumentos."
+        },
+        {
+          "t": "img",
+          "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286897214-a6fb9cea75d62a04.webp",
+          "cap": "Imagen: NeuTone"
+        },
+        {
+          "t": "p",
+          "x": "Cada generación produce cuatro conjuntos de variaciones. Cada conjunto incluye un archivo WAV independiente por instrumento, y las partes están diseñadas para funcionar bien juntas. Puedes orientar los resultados con categorías de instrumentos, una referencia de audio o un prompt de texto, y escucharlos antes de generar."
+        },
+        {
+          "t": "img",
+          "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286906307-e9574f7d23644d8a.webp",
+          "cap": "Imagen: NeuTone"
+        },
+        {
+          "t": "p",
+          "x": "Se obtienen 24 créditos gratis, válidos durante 12 meses. Lo generado en la prueba gratuita solo puede usarse con fines no comerciales. En los planes de pago, Starter cuesta $4.99 al mes por 150 créditos y Creator cuesta $9.99 al mes por 400 créditos. El audio de entrada no consume créditos."
+        },
+        {
+          "t": "p",
+          "x": "Un crédito cubre una variación de un instrumento, de hasta 30 segundos. Cada generación produce cuatro variaciones por instrumento, así que generar un solo instrumento de 30 segundos consume cuatro créditos."
+        },
+        {
+          "t": "img",
+          "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286914872-64ad0e0cae1e3d36.webp"
+        },
+        {
+          "t": "p",
+          "x": "NeuTone afirma que los usuarios conservan los derechos de la música que suben y que los proyectos son privados por defecto. Los usuarios también pueden excluirse del uso de sus datos para mejorar modelos de AI sin perder el acceso al plugin."
+        },
+        {
+          "t": "p",
+          "x": "NeuSynth funciona actualmente en macOS 11.0 o posterior en formatos VST3 y AU. Está prevista una versión para Windows."
+        }
+      ]
+    },
+    "music/johnpark-mcdonalds-rap-hijack": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288144_web.jpg",
+          "cap": "John Park. (Foto = captura de YouTube)"
+        },
+        {
+          "t": "p",
+          "x": "El ‘rap del pedido en McDonald's’, que los cantautores John Park y Kwak Jin-eon interpretaron en un programa de variedades web y que dio mucho que hablar, fue registrado sin permiso en plataformas musicales extranjeras. En los créditos de letra y composición figura además el nombre de un 3.er titular y no el de los autores originales."
+        },
+        {
+          "t": "p",
+          "x": "Según la industria musical, el día 10, recientemente se registró en plataformas globales de streaming como Spotify y YouTube Music ‘Mcdonald´s’, publicada por un artista llamado ‘yoyotina’. La fecha de lanzamiento figura como el día 2."
+        },
+        {
+          "t": "p",
+          "x": "En los créditos de Spotify, yoyotina aparece como artista principal y ‘Laurino Domingos’ como compositor, letrista y productor de estudio. El origen de la pista figura como ‘Afrobeats Distro’. En YouTube Music aparece como distribuidora ‘Jungle Entertainment Ventures’, una empresa que, según se sabe, tiene su sede en Nigeria."
+        },
+        {
+          "t": "p",
+          "x": "La pista es una edición del audio extraído del video de YouTube. Empieza con el rap de Kwak Jin-eon y sigue con la parte de John Park, y conserva tal cual la música de fondo del video. Se añadieron un estribillo y una parte de voz femenina que no estaban en el original, y tras el estribillo hay un rap con letra nueva en una voz muy parecida al timbre de John Park, lo que ha generado sospechas de clonación no autorizada de la voz mediante inteligencia artificial generativa (AI). Dura unos 2 minutos y 43 segundos."
+        },
+        {
+          "t": "img",
+          "src": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288246_web.jpg",
+          "cap": "La pista de John Park y Kwak Jin-eon subida con el título ‘McDonalds’ por yoyotina. (Foto = captura de Spotify)"
+        },
+        {
+          "t": "p",
+          "x": "El original es ‘John Park pide en rap en McDonald's (with Loco)’, publicado el mes pasado en el canal de YouTube de John Park ‘¿John o Park?’. En él, John Park y Kwak Jin-eon reciben clases de hip-hop del rapero Loco y luego piden el menú rapeando en un local de McDonald's; entre el video principal y los formatos cortos, superó los 14 millones de visualizaciones. Ante la repercusión, McDonald's Corea lanzó un anuncio con este rap como música de fondo y un ‘menú John Park’. Sin embargo, no es una canción planificada ni lanzada como tema oficial. En YouTube y otros sitios circulan diversas parodias."
+        },
+        {
+          "t": "p",
+          "x": "Tras conocer el caso, el entorno de John Park está tomando medidas con base en la Ley de Derechos de Autor, entre otras normas."
+        }
+      ]
+    },
+    "music/riaa-ai-labelling-glazier": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-24T123959.252.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Sonreímos al ver el titular del último episodio del podcast ‘Decoder’ del sitio tecnológico The Verge: “Un momento: me lo pasé muy bien hablando con el tipo de la RIAA”. Una referencia irónica al recuerdo, aún persistente, de la reputación que esta organización del sector tenía en los círculos tecnológicos en pleno auge de Napster (Peak Napster)."
+        },
+        {
+          "t": "p",
+          "x": "El tipo de la RIAA es su CEO, Mitch Glazier, que abordó algunas de las cuestiones de política actuales en torno a la música generada por AI (AI-generated), incluido su etiquetado en los servicios de streaming."
+        },
+        {
+          "t": "p",
+          "x": "“Al final, tienen que ser las plataformas y las distribuidoras las que estén dispuestas a hacerlo. Porque, en lo que respecta a la AI generativa, no son los sellos discográficos los que etiquetan y suben AI generativa a Spotify. Eso viene del mundo DIY”, dijo Glazier."
+        },
+        {
+          "t": "p",
+          "x": "“Así que la puerta de entrada es DistroKid, TuneCore. Son las distribuidoras. ¿Están usando tecnología de detección de AI para determinar que algo está totalmente generado…? Y, si es así, ¿están dispuestas a etiquetarlo para que funcione con la plataforma de Apple y Spotify?”"
+        },
+        {
+          "t": "p",
+          "x": "“Las distribuidoras tienen que estar dispuestas a participar”, continuó. “No pueden ser solo las plataformas, porque si no llega aguas abajo, cada una irá en una dirección distinta.”"
+        },
+        {
+          "t": "p",
+          "x": "“Y ya Deezer va en una dirección, Apple va en otra y Spotify va en otra. Para mí, el problema de lo totalmente generado, que es un problema DIY, es un problema de las distribuidoras. Y tenemos que dar incentivos a las distribuidoras para que asuman su responsabilidad y colaboren.”"
+        }
+      ]
+    },
+    "music/apple-logic-usage-packs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/logicpro.jpg?quality=90&strip=all&crop=0%2C10.742998834307%2C100%2C78.514002331385&w=1200",
+          "cap": "Logic Pro es la primera app de Apple que cobra por el uso ampliado de Apple Intelligence."
+        },
+        {
+          "t": "p",
+          "x": "Tras publicar a principios de septiembre un artículo de soporte que detallaba los límites de uso de algunas funciones de Apple Intelligence, la compañía actualizó Logic Pro con una opción “Buy More Usage” (comprar más uso) por un pago único de $49.99, según detectó 9to5Mac. La app incluye un asistente AI integrado que puede, por ejemplo, “empezar una canción nueva, configurar una pista vocal a partir de un solo prompt o pulir un proyecto en curso”."
+        },
+        {
+          "t": "p",
+          "x": "Estos Intelligence Usage Packs, como los llama Apple, permitirán seguir accediendo a ciertas funciones de Apple Intelligence que tienen límites de uso porque dependen de modelos AI en la nube de OpenAI o Google Gemini. Los Usage Packs solo puede usarlos la Apple Account que los compró (no admiten Family Sharing) y, según explica Apple en su web, el uso adicional no consumido se traslada de un mes a otro, pero caduca 12 meses después de la compra."
+        },
+        {
+          "t": "p",
+          "x": "En el caso de Logic Pro, Apple dice que el límite de uso se ve “afectado por la complejidad de las conversaciones que mantienes con el asistente”. Quienes se queden sin acceso encontrarán la opción de comprar un Intelligence Usage Pack en la sección Intelligence Features > Show Usage del menú principal de la app. Por ahora solo Logic Pro ofrece comprar más uso, pero se espera que la opción llegue este mes a otras apps de Apple Creator Studio, como Pixelmator Pro, Final Cut Pro y Motion, además de Pages, Keynote y Numbers, que tendrán acceso al chatbot AI de Apple."
+        }
+      ]
     }
   }
 }

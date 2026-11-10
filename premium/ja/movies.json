@@ -10263,6 +10263,139 @@
           "x": "「我々にとっては、訴訟と立法に向けた絶え間ない働きかけだ」と彼は言う。「要は、他人に作品を盗まれ、別の用途に転用されるのを許さないということだ」"
         }
       ]
+    },
+    "movies/avid-readytoplay-veo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/media-composer-ready-to-play-app-perspective-1080p-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Avidは、Media Composer向けの新たなAI-poweredエクステンション「Ready to Play」を発表した。Google Cloudとの提携で開発され、GoogleのGeminiとVeoのAIモデルで動作する。Media Composer UltimateとEnterpriseのユーザーはAvidからの追加料金なしで今すぐ利用できるが、GoogleのAIモデルの利用には対象となるGoogle Cloudの請求先アカウントが必要だ。"
+        },
+        {
+          "t": "p",
+          "x": "Create Videoは、テキストプロンプトやクリップ・シーケンスから取り出した静止画から動画クリップを生成し、結果はMedia Composerのビンに入る。Modify Videoはテキストプロンプトを使ってブームマイクの除去などクリップの視覚的な変更を試し、元のメディアを保ったまま別の出力を生成する。Analyze Videoは、すでに入力された内容を上書きせずにクリップへ追加できる説明的なメタデータを生成する。"
+        },
+        {
+          "t": "p",
+          "x": "Ready to Playは、AvidがGoogle Cloudとの提携を拡大して生まれた最初の商用製品だ。AvidがAmerican Cinema Editors（ACE）の編集者120人を対象に行った調査では、AIを毎日または毎週使う人の80%以上が、AIツールは普段使っているアプリケーションに組み込まれるべきだと答えた。"
+        }
+      ]
+    },
+    "movies/webby-credits-registry": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-1397655480.jpg?crop=0px%2C83px%2C4982px%2C2787px&resize=1440%2C810",
+          "cap": "2022年、Webbyを受け取るAdam Scott。"
+        },
+        {
+          "t": "p",
+          "x": "今年初めに30周年を迎えたWebby Awardsは、受賞者やノミネート者、その他の栄誉を受けた人々が自らの仕事に対して適切にクレジットされるよう、その手段を整えつつある。"
+        },
+        {
+          "t": "p",
+          "x": "「Global Webby Credits Registryは、30年にわたるWebbyの評価を、それを勝ち取った150,000人超の人々と、今後数年で勝ち取る数千人の手に渡し、AI時代に評判を築くための検証済みの資格を与える」と、Webby Groupのエグゼクティブディレクター、Jesse Feisterは述べた。"
+        },
+        {
+          "t": "p",
+          "x": "「検索結果はますますAIによって要約されている」とFeisterはThe Hollywood Reporterに語る。「AIによって創作物をかつてなく簡単に作れるようになるなか、自分が実際に何に貢献したのかを示す信頼できる記録を持つことも、より重要になる」"
+        },
+        {
+          "t": "p",
+          "x": "Shonda RhimesとAdam Scottは創設メンバーとしてすでに検証済みプロフィールを公開しており、立ち上げはPBS、iHeartMedia、R/GAが支援している。対象者はデータベースを検索し、自分のクレジットを申請し、LinkedInで本人確認をしてプロフィールを公開する。"
+        }
+      ]
+    },
+    "movies/elempleo-ai-knockoff": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/El-empleo-AI-Ripoff.jpg"
+        },
+        {
+          "t": "p",
+          "x": "週末、比較的無名のInstagramアカウントが、高く評価された2008年のアルゼンチンの短編アニメーション『El Empleo』のAI-generatedな模倣作で話題をさらった。"
+        },
+        {
+          "t": "video",
+          "yt": "5KyifKNlY7A"
+        },
+        {
+          "t": "p",
+          "x": "そのアカウントNightframeは、無断リメイクをすでに削除した。Santiago Bou Grassoとともにこの短編を監督した共同制作者Patricio Plazaが、自分の作品が有料のAI映画制作サービスの宣伝に流用されたことに抗議したためだ。30秒の模倣作は24時間足らずで五百万回を超える再生を集めたと報じられている。"
+        },
+        {
+          "t": "p",
+          "x": "キャプションは視聴者に“Send AI to find out how I made this film”（この映画の作り方を知りたければAIと送って）と指示し、それをきっかけに自動メッセージがAI Film Schoolへと誘導した。月$49でAI映画制作の指導をうたうサービスである。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/AI-Film-School.jpg",
+          "cap": "AI Film School"
+        },
+        {
+          "t": "p",
+          "x": "「つまり彼らは映画の著作権を侵害しただけでなく、それを使って自分たちのAIビジネスを拡散させ、収益を上げようとしていた」とPlazaは語った。Nightframeの運営者は、動画で利益を得たことも、AI Film Schoolと金銭的な関係があることも否定した。"
+        }
+      ]
+    },
+    "movies/stormdogs-minkoff-trailer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/StormDogs.png?w=1440&h=810&crop=1",
+          "cap": "『Storm Dogs』の一場面。"
+        },
+        {
+          "t": "p",
+          "x": "Tilly NorwoodのプロデューサーであるEline van der Veldenは、森で迷子になった幼児が家に帰るのを個性豊かな子犬たちが手助けする、実写とアニメーションのハイブリッドのファミリー映画『Storm Dogs』を開発してきた。そして監督に『The Lion King』の共同監督Rob Minkoffを起用した。映画では子どもと多様な犬種（声は人間の声優が担当）にAI生成を用い、一部の実写シーンには大人の俳優を起用する。"
+        },
+        {
+          "t": "video",
+          "yt": "gC9FufeIsxI"
+        },
+        {
+          "t": "p",
+          "x": "「Elineからアイデアを持ち込まれ、『これはこの技術の最良の使い道だ』と思った」とMinkoffはTHRに語り、Tilly Norwoodには一切関わっておらず、支持もしていないと付け加えた。"
+        },
+        {
+          "t": "p",
+          "x": "Particle 6のチームは、2 1/2分の概念実証映像を一部の公開イベントや業界関係者に見せる考えだ。Minkoffは、映画の完成にはおよそ一年かかるとみている。資金はParticle 6を支える個人の出資者が提供しており、制作が進んだ段階でスタジオによる配給を探る。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/RobMinkoffStormDogs.png",
+          "cap": "『Storm Dogs』に取り組むRob Minkoff（右）"
+        }
+      ]
+    },
+    "movies/disney-adobe-firefly-foundry": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
+          "cap": "Princess and the Frog"
+        },
+        {
+          "t": "p",
+          "x": "Disneyが次の大型AIパートナーを決めた。今回はAdobeと複数年の提携を結び、事業全体のクリエイティブ・パイプラインにカスタマイズした生成AIモデルを導入する。手描きのスケッチを完成度の高いレンダリング済みコンセプトアートに変えるツールも含まれる。"
+        },
+        {
+          "t": "p",
+          "x": "契約により、AdobeはDisneyの公式「AI Innovation Partner」となり、Firefly、Firefly Foundry、Premiere、Photoshopと専任のエンジニアリング人員を提供する。両社はDisney IPで学習した専用AIモデルを共同開発し、「商業的に安全で、そのまま制作に使える出力を生成する」としている。"
+        },
+        {
+          "t": "p",
+          "x": "作業はすでに始まっている。Walt Disney ImagineeringはFirefly Foundryを使い、人が描いた絵から2D コンセプトアートを生成し、パーク開発向けにIP-based のグラフィックを制作している。AdobeはDisneyのStudioLABと実験的な制作ワークフローに、ESPN EdgeとAI-powered のスポーツコンテンツに取り組む。"
+        },
+        {
+          "t": "p",
+          "x": "今回の提携は、Soraの終了で頓挫したDisneyによるOpenAIへの$1 billion の投資、そして元Character.AI CEOのKarandeep Anandを初の最高技術責任者に迎えた人事に続くものだ。Adobeとの契約の金銭的条件は公表されていない。"
+        }
+      ]
     }
   }
 }

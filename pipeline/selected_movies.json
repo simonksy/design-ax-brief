@@ -1,158 +1,158 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "section": "movies",
   "picks": [
     {
-      "title": "Disney Partners With Adobe On AI Tools That Turn Artists' Sketches Into Finished Concept Art",
-      "url": "https://www.cartoonbrew.com/artificial-intelligence/disney-adobe-generative-ai-partnership-269226.html",
-      "source": "Cartoon Brew",
+      "title": "Adobe MAX 2026 Premiere updates: Color Mode, MCP",
+      "url": "https://www.redsharknews.com/adobe-max-2026-premiere-color-mode-mcp",
+      "source": "RedShark News",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Biggest studio-tool deal of the week (Adobe as Disney's official AI innovation partner, bespoke Firefly Foundry models on Disney IP); Cartoon Brew's version carries the concrete artist workflow (sketch to rendered concept art). Kept over the Variety report (same cluster c0).",
-      "published_iso": "2026-11-09T19:46:53+00:00",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
-      "excerpt": "Under the multiyear alliance Adobe gives Disney Firefly, Firefly Foundry, Premiere, Photoshop and dedicated engineers to build bespoke AI models trained on Disney IP, including tools that turn hand-drawn sketches into fully rendered concept art."
+      "rationale": "The movies section's one Premiere-specific Adobe MAX item (per cross-section assignment): Color Mode ships out of beta in Premiere 27 and MCP will let third-party agents edit native project files in 2027. Changes editors' grading and automation workflows now. Kept over PVC 'Premiere 27 with Color Mode' and the No Film School MCP/mobile posts (same cluster c12).",
+      "published_iso": "2026-11-10T16:01:01.000Z",
+      "og_image": "https://www.redsharknews.com/hubfs/adobe%20max-3.jpg",
+      "excerpt": "Premiere's Color Mode leaves beta at Adobe MAX 2026, while MCP will let third-party agents edit native project files in 2027."
     },
     {
-      "title": "Framestore Brings Hybrid AI/VFX to Sky's Christmas Campaign",
-      "url": "https://www.awn.com/news/framestore-brings-hybrid-aivfx-skys-christmas-campaign",
-      "source": "Animation World Network",
-      "tool": "Movies",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "rationale": "Practical VFX-house case study: where Framestore slotted AI (previs, character removal, self-animating costumes) inside a traditional CG pipeline on a Dave Meyers spot.",
-      "published_iso": "2026-11-09T06:56:50-08:00",
-      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081755-skyxmsstill015-1280.jpg?itok=TlVSHe-P",
-      "excerpt": "Framestore built AI tools into its traditional VFX pipeline for Sky's 'That's Christmas Sorted' spot directed by Dave Meyers, using them for previs, character removal and self-animating costumes alongside CG environments."
-    },
-    {
-      "title": "Real-Time Video at Batch Size One",
-      "url": "https://runway.com/news/research/real-time-video-at-batch-size-one",
-      "source": "Runway",
-      "tool": "Movies",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "rationale": "Primary-source technical release from Runway on serving a ~57B autoregressive video model in real time (24 fps, 166.7ms chunks) for Characters; distinct from the earlier Summit safety talk.",
-      "published_iso": "2026-11-05T16:43:27.003Z",
-      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png",
-      "excerpt": "Runway details how it serves its ~57B-parameter autoregressive video diffusion model in real time for Characters: a new four-frame chunk every 166.7ms at 24 fps per user, running one session across four H100s."
-    },
-    {
-      "title": "Original 'Return of the Living Dead' Stars Slam AI-Generated Sequel",
-      "url": "https://bloody-disgusting.com/movie/3975227/return-of-the-living-dead-aftermath-backlash-ai-linnea-quigley/",
-      "source": "Bloody Disgusting",
+      "title": "Avid's Ready to Play brings AI video generation directly into Media Composer",
+      "url": "https://www.provideocoalition.com/avids-ready-to-play-brings-ai-video-generation-directly-into-media-composer/",
+      "source": "ProVideo Coalition",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "New concrete event: an almost entirely AI-generated sequel to a cult horror IP shipped Oct. 31 using original cast likenesses without filming, and the stars publicly disown it; a fresh likeness-consent flashpoint not covered in movies' 30-day history.",
-      "published_iso": "2026-11-09T18:42:17+00:00",
-      "og_image": "https://bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg",
-      "excerpt": "'Return of the Living Dead: Aftermath', released Oct. 31 by DragonFLIX, is almost entirely AI-generated imagery and dialogue; original stars Linnea Quigley and Beverly Randolph say they appear without having filmed anything and disown it."
+      "rationale": "New tool release: Avid's Gemini/Veo-powered extension puts generative video inside Media Composer, the editing system most feature and TV editors use. It is a direct workflow change for professional editors.",
+      "published_iso": "2026-11-10T05:37:50-08:00",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/media-composer-ready-to-play-app-perspective-1080p-1.jpg",
+      "excerpt": "Avid has announced Ready to Play, a new AI-powered extension for Media Composer built in partnership with Google Cloud and powered by Google's Gemini and Veo"
     },
     {
-      "title": "AI Could Make Films Costlier Than the 35mm Era, Korean Pioneers Warn",
-      "url": "https://variety.com/2026/film/markets-festivals/ai-films-costlier-35mm-era-korean-pioneers-warn-1236942217/",
-      "source": "Variety",
+      "title": "Webby Awards Launches IMDB-Like Credits Platform to Provide Verified Recognition for Creators Amid AI Growth (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/digital/webby-awards-credits-registry-creators-ai-1236751631/",
+      "source": "The Hollywood Reporter",
+      "tool": "Movies",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "rationale": "New launch: a verified human-credits registry, with Shonda Rhimes and Adam Scott among its founding members, set up as provenance infrastructure against AI-blurred authorship. It is a new mechanism that creators can claim their work in, not commentary.",
+      "published_iso": "2026-11-10T14:00:00+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-1397655480.jpg?crop=0px%2C83px%2C4982px%2C2787px&resize=1440%2C810",
+      "excerpt": "The long-running initiative celebrating the best of the internet will allow winners, nominees and other honored individuals to claim their work, with Shonda Rhimes and Adam Scott among the founding members."
+    },
+    {
+      "title": "AI Account Rips Off Animated Short To Promote Filmmaking Classes",
+      "url": "https://www.cartoonbrew.com/artificial-intelligence/el-empleo-unauthorized-ai-remake-269233.html",
+      "source": "Cartoon Brew",
+      "tool": "Movies",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "rationale": "Fresh copyright flashpoint: an unauthorized 30-second AI remake of Patricio Plaza's hand-drawn 2008 short 'El empleo' reached millions of views to sell AI filmmaking classes, and the filmmaker responds on record. This is a concrete case of AI knockoffs of animated work.",
+      "published_iso": "2026-11-09T16:46:58-08:00",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/El-empleo-AI-Ripoff.jpg",
+      "excerpt": "Filmmaker Patricio Plaza responds after a 30-second AI knockoff of his hand-drawn 2008 classic attracts millions of views and sparks a copyright dispute."
+    },
+    {
+      "title": "Tilly Norwood Creator's New Project? An AI Talking-Dog Movie With the Co-Director of 'The Lion King' (Video)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/tilly-norwood-ai-dog-movie-minkoff-watch-trailer-1236751596/",
+      "source": "The Hollywood Reporter",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "Hard production-cost numbers from working AI-feature makers at TCCF (token bill over KRW500M / $366K for a 100-minute feature, revisions as paid re-renders multiplying cost up to tenfold) that cut against the 'AI is cheap' pitch; distinct from the 11-08 Core Studio TCCF launch card.",
-      "published_iso": "2026-11-08T00:27:50+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1",
-      "excerpt": "At TCCF in Taipei, Studio Meta-K CEO Kim Kwang-jib said the token bill alone for a 100-minute AI feature can top KRW500 million ($366,000) with top commercial tools, and that every revision is a paid re-render, so piecemeal client notes can multiply costs tenfold. He and MBC C&I's Lee Sang-wook, whose AI feature 'Raphael' heads to Korean cinemas, also covered hybrid shoots and new crew roles."
+      "rationale": "Follow-up to the 09-26 Variety card ('Minkoff in talks' on Particle 6's 'Storm Dogs'): Minkoff is now confirmed on board, the first trailer has been released, and the project is being pitched for a studio release. It tests whether studios will distribute an AI-made film.",
+      "published_iso": "2026-11-10T15:15:57+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/StormDogs.png?w=1440&h=810&crop=1",
+      "excerpt": "Rob Minkoff is on board, and the project is aiming for a studio release. Will they touch it?"
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.cartoonbrew.com/artificial-intelligence/disney-adobe-generative-ai-partnership-269226.html": {
+      "https://www.redsharknews.com/adobe-max-2026-premiere-color-mode-mcp": {
         "verdict": "new",
-        "nearest": "https://www.thewrap.com/industry-news/tech/disney-ai-accelerator-startup-investor/",
+        "nearest": "https://www.provideocoalition.com/stem-separation-moves-into-the-edit-what-enhance-audio-changes-for-dialogue-workflows-in-premiere-beta/",
         "new_action": ""
       },
-      "https://www.awn.com/news/framestore-brings-hybrid-aivfx-skys-christmas-campaign": {
+      "https://www.provideocoalition.com/avids-ready-to-play-brings-ai-video-generation-directly-into-media-composer/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://runway.com/news/research/real-time-video-at-batch-size-one": {
+      "https://www.hollywoodreporter.com/business/digital/webby-awards-credits-registry-creators-ai-1236751631/": {
         "verdict": "new",
-        "nearest": "https://www.youtube.com/watch?v=NAKB5ixP6Kw",
+        "nearest": "https://deadline.com/2026/10/stage-32-marketplace-combat-ai-slop-projects-1237170475/",
         "new_action": ""
       },
-      "https://bloody-disgusting.com/movie/3975227/return-of-the-living-dead-aftermath-backlash-ai-linnea-quigley/": {
+      "https://www.cartoonbrew.com/artificial-intelligence/el-empleo-unauthorized-ai-remake-269233.html": {
         "verdict": "new",
-        "nearest": "https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood",
+        "nearest": "https://variety.com/2026/tv/global/edgar-wright-ai-remaster-bluray-spaced-not-authorized-1236937429/",
         "new_action": ""
       },
-      "https://variety.com/2026/film/markets-festivals/ai-films-costlier-35mm-era-korean-pioneers-warn-1236942217/": {
-        "verdict": "new",
-        "nearest": "https://variety.com/2026/film/markets-festivals/ai-filmmaking-platform-core-studio-launches-24-agents-tccf-1236941957/",
-        "new_action": ""
+      "https://www.hollywoodreporter.com/movies/movie-news/tilly-norwood-ai-dog-movie-minkoff-watch-trailer-1236751596/": {
+        "verdict": "follow-up",
+        "nearest": "https://variety.com/2026/film/news/lion-king-rob-minkoff-ai-film-tilly-norwood-particle-6-1236875607/",
+        "new_action": "Rob Minkoff confirmed on board (09-26 card reported only talks), and the first 'Storm Dogs' trailer was released (THR title '(Video)', slug 'watch-trailer'). The project is now being pitched for a studio release."
       }
     },
-    "note": "Dropped as duplicates: Variety Disney-Adobe (same cluster c0 as the Cartoon Brew pick); IndieWire Camerimage (same festival story as THR 'Camerimage Opens...' 11-09, no new decision); Cartoon Brew Chomet 'automated interpolation' (follow-up reaction to the 11-07 Chomet Dior card, no new release); Yonhap 최휘영 (same 임권택-style AI film already carded 11-04). SWAP pass 1 (orchestrator cross-section decision): removed THR CAA/Ogilvy ECHO (same story is today's marketing pick via Digiday; marketing keeps it) and TheWrap 'Gods Don't Give Gifts'/Grimes (film already carded 4x in movies incl. 07-29 Deadline theatrical-leap and 10-26 AFM; repeat, not a follow-up). Replacement kept: Bloody Disgusting ROTLD: Aftermath AI sequel backlash (new event, no history match; off-list outlet but no on-list coverage). SWAP pass 2: removed Theoretically Media 'The New Cinematic AI Film Workflow' / 'Planet Hell' (youtube OWr3IU82bJ8) because the 2026-11-09 enrichment pass dropped this exact video as OpenArt-sponsored advertorial. No replacement from the original pool: the remaining pool was No Film School Adobe Creators' Toolkit survey and TheWrap Adobe Creator Playbook (Adobe promo/survey), Eros Imagination (exec appointment/new unit, business noise), and iZotope Photon (ProVideo Coalition, 11-03, week-old audio-post tool; related to the 10-20 Premiere stem-separation card). RECOVERY pass (candidates_filtered_movies_r1.json): added Variety 'AI Could Make Films Costlier Than the 35mm Era' as 5th pick (no history_match; concrete cost figures from the TCCF Korea panel; nearest is the 11-08 Core Studio TCCF launch, a different event). Dropped IndieWire 'Two Ramayana Cuts' (history_match related to 10-27 Times Now Ramayana AI-dubbing card and 10-23 AWN Brahma AI face-replacement card; same Brahma AI English dub, now just a critic's review with no new release or event, so a repeat) and Cartoon Brew View Conference AI sales pitches (10-29 opinion piece on the View Conference already covered by 10-14, 10-16 and 10-21 cards incl. the Runway Valenzuela talk; commentary, no new event). Cross-section: published_urls.json was not exact-grepped in this pass (Read-only tools)."
+    "note": "RE-CHECK 11-11: the THR Tilly Norwood/'Storm Dogs' pick is the same project as movies' 09-26 Variety card ('Minkoff in talks to join Particle 6 AI film Storm Dogs'). It is kept as a FOLLOW-UP because the excerpt and URL show new concrete actions: Minkoff is confirmed 'on board' (was 'in talks') and the first trailer has been released. Yonhap Kakao x OpenAI '그래도, 라이언' is still held back: from the excerpts I could not rule out that it is the same story as marketing's 11-10 news1 Kakao card. Dropped as duplicates: PVC 'Adobe ships Premiere 27 with Color Mode', No Film School 'Local MCP Integrations' and 'Firefly and Premiere mobile' (all cluster c12, same Premiere/MAX story as the RedShark pick); No Film School 'Adobe MAX 2026: What's New for Filmmakers' and The Verge 'Adobe is going all in on agentic AI' (Adobe MAX umbrella belongs to design per the 11-11 brief); Variety Weta FX 'Hollywood Has Flipped on GenAI' (interview follow-up to the 11-05 Weta FX/TAICCA card, no new event); Variety Grimes cameo in 'Gods Don't Give Gifts' (film already carded 10-26 AFM and earlier, extra reporting only); AWN CAA/Ogilvy ECHO (published in marketing 11-10 via Digiday, and 11-10 movies swapped it out for that reason). Excluded on scope: 80 Level Unreal Engine 5.9 Preview (games only per brief); THR David Ellison and TheWrap Kane Parsons (exec/artist opinion, no event); Deadline Flawless IP sale (business noise, 10-30); Variety AFM Innovation Hub (market programming); PVC Professional Sound Alliance (advocacy group formed; AI incidental in the excerpt); Korea Times KR-CN filmmakers (feature interview); Motionographer DREAMCAT (AI incidental); Theoretically Media 'Planet Hell' workflow (the 11-09 enrichment pass already dropped it as OpenArt-sponsored); Runway 'When Video Becomes an Interface' (promo video, related to the 10-28 Runway Summit card)."
   },
   "items": [
     {
-      "title": "Disney Partners With Adobe On AI Tools That Turn Artists' Sketches Into Finished Concept Art",
-      "url": "https://www.cartoonbrew.com/artificial-intelligence/disney-adobe-generative-ai-partnership-269226.html",
-      "source": "Cartoon Brew",
+      "title": "Adobe MAX 2026 Premiere updates: Color Mode, MCP",
+      "url": "https://www.redsharknews.com/adobe-max-2026-premiere-color-mode-mcp",
+      "source": "RedShark News",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Biggest studio-tool deal of the week (Adobe as Disney's official AI innovation partner, bespoke Firefly Foundry models on Disney IP); Cartoon Brew's version carries the concrete artist workflow (sketch to rendered concept art). Kept over the Variety report (same cluster c0).",
-      "published_iso": "2026-11-09T19:46:53+00:00",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
-      "excerpt": "Under the multiyear alliance Adobe gives Disney Firefly, Firefly Foundry, Premiere, Photoshop and dedicated engineers to build bespoke AI models trained on Disney IP, including tools that turn hand-drawn sketches into fully rendered concept art."
+      "rationale": "The movies section's one Premiere-specific Adobe MAX item (per cross-section assignment): Color Mode ships out of beta in Premiere 27 and MCP will let third-party agents edit native project files in 2027. Changes editors' grading and automation workflows now. Kept over PVC 'Premiere 27 with Color Mode' and the No Film School MCP/mobile posts (same cluster c12).",
+      "published_iso": "2026-11-10T16:01:01.000Z",
+      "og_image": "https://www.redsharknews.com/hubfs/adobe%20max-3.jpg",
+      "excerpt": "Premiere's Color Mode leaves beta at Adobe MAX 2026, while MCP will let third-party agents edit native project files in 2027."
     },
     {
-      "title": "Framestore Brings Hybrid AI/VFX to Sky's Christmas Campaign",
-      "url": "https://www.awn.com/news/framestore-brings-hybrid-aivfx-skys-christmas-campaign",
-      "source": "Animation World Network",
-      "tool": "Movies",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "rationale": "Practical VFX-house case study: where Framestore slotted AI (previs, character removal, self-animating costumes) inside a traditional CG pipeline on a Dave Meyers spot.",
-      "published_iso": "2026-11-09T06:56:50-08:00",
-      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081755-skyxmsstill015-1280.jpg?itok=TlVSHe-P",
-      "excerpt": "Framestore built AI tools into its traditional VFX pipeline for Sky's 'That's Christmas Sorted' spot directed by Dave Meyers, using them for previs, character removal and self-animating costumes alongside CG environments."
-    },
-    {
-      "title": "Real-Time Video at Batch Size One",
-      "url": "https://runway.com/news/research/real-time-video-at-batch-size-one",
-      "source": "Runway",
-      "tool": "Movies",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "rationale": "Primary-source technical release from Runway on serving a ~57B autoregressive video model in real time (24 fps, 166.7ms chunks) for Characters; distinct from the earlier Summit safety talk.",
-      "published_iso": "2026-11-05T16:43:27.003Z",
-      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/real-time-video-at-batch-size-one-1600x1067-1-94330d13-965f-4a1b-be54-f7c7d2326aa7.png",
-      "excerpt": "Runway details how it serves its ~57B-parameter autoregressive video diffusion model in real time for Characters: a new four-frame chunk every 166.7ms at 24 fps per user, running one session across four H100s."
-    },
-    {
-      "title": "Original 'Return of the Living Dead' Stars Slam AI-Generated Sequel",
-      "url": "https://bloody-disgusting.com/movie/3975227/return-of-the-living-dead-aftermath-backlash-ai-linnea-quigley/",
-      "source": "Bloody Disgusting",
+      "title": "Avid's Ready to Play brings AI video generation directly into Media Composer",
+      "url": "https://www.provideocoalition.com/avids-ready-to-play-brings-ai-video-generation-directly-into-media-composer/",
+      "source": "ProVideo Coalition",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "New concrete event: an almost entirely AI-generated sequel to a cult horror IP shipped Oct. 31 using original cast likenesses without filming, and the stars publicly disown it; a fresh likeness-consent flashpoint not covered in movies' 30-day history.",
-      "published_iso": "2026-11-09T18:42:17+00:00",
-      "og_image": "https://bloody-disgusting.com/wp-content/uploads/2026/11/Return-of-the-Living-Dead-1985-Dead-Body.jpg",
-      "excerpt": "'Return of the Living Dead: Aftermath', released Oct. 31 by DragonFLIX, is almost entirely AI-generated imagery and dialogue; original stars Linnea Quigley and Beverly Randolph say they appear without having filmed anything and disown it."
+      "rationale": "New tool release: Avid's Gemini/Veo-powered extension puts generative video inside Media Composer, the editing system most feature and TV editors use. It is a direct workflow change for professional editors.",
+      "published_iso": "2026-11-10T05:37:50-08:00",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/media-composer-ready-to-play-app-perspective-1080p-1.jpg",
+      "excerpt": "Avid has announced Ready to Play, a new AI-powered extension for Media Composer built in partnership with Google Cloud and powered by Google's Gemini and Veo"
     },
     {
-      "title": "AI Could Make Films Costlier Than the 35mm Era, Korean Pioneers Warn",
-      "url": "https://variety.com/2026/film/markets-festivals/ai-films-costlier-35mm-era-korean-pioneers-warn-1236942217/",
-      "source": "Variety",
+      "title": "Webby Awards Launches IMDB-Like Credits Platform to Provide Verified Recognition for Creators Amid AI Growth (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/digital/webby-awards-credits-registry-creators-ai-1236751631/",
+      "source": "The Hollywood Reporter",
+      "tool": "Movies",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "rationale": "New launch: a verified human-credits registry, with Shonda Rhimes and Adam Scott among its founding members, set up as provenance infrastructure against AI-blurred authorship. It is a new mechanism that creators can claim their work in, not commentary.",
+      "published_iso": "2026-11-10T14:00:00+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-1397655480.jpg?crop=0px%2C83px%2C4982px%2C2787px&resize=1440%2C810",
+      "excerpt": "The long-running initiative celebrating the best of the internet will allow winners, nominees and other honored individuals to claim their work, with Shonda Rhimes and Adam Scott among the founding members."
+    },
+    {
+      "title": "AI Account Rips Off Animated Short To Promote Filmmaking Classes",
+      "url": "https://www.cartoonbrew.com/artificial-intelligence/el-empleo-unauthorized-ai-remake-269233.html",
+      "source": "Cartoon Brew",
+      "tool": "Movies",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "rationale": "Fresh copyright flashpoint: an unauthorized 30-second AI remake of Patricio Plaza's hand-drawn 2008 short 'El empleo' reached millions of views to sell AI filmmaking classes, and the filmmaker responds on record. This is a concrete case of AI knockoffs of animated work.",
+      "published_iso": "2026-11-09T16:46:58-08:00",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/El-empleo-AI-Ripoff.jpg",
+      "excerpt": "Filmmaker Patricio Plaza responds after a 30-second AI knockoff of his hand-drawn 2008 classic attracts millions of views and sparks a copyright dispute."
+    },
+    {
+      "title": "Tilly Norwood Creator's New Project? An AI Talking-Dog Movie With the Co-Director of 'The Lion King' (Video)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/tilly-norwood-ai-dog-movie-minkoff-watch-trailer-1236751596/",
+      "source": "The Hollywood Reporter",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "Hard production-cost numbers from working AI-feature makers at TCCF (token bill over KRW500M / $366K for a 100-minute feature, revisions as paid re-renders multiplying cost up to tenfold) that cut against the 'AI is cheap' pitch; distinct from the 11-08 Core Studio TCCF launch card.",
-      "published_iso": "2026-11-08T00:27:50+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1",
-      "excerpt": "At TCCF in Taipei, Studio Meta-K CEO Kim Kwang-jib said the token bill alone for a 100-minute AI feature can top KRW500 million ($366,000) with top commercial tools, and that every revision is a paid re-render, so piecemeal client notes can multiply costs tenfold. He and MBC C&I's Lee Sang-wook, whose AI feature 'Raphael' heads to Korean cinemas, also covered hybrid shoots and new crew roles."
+      "rationale": "Follow-up to the 09-26 Variety card ('Minkoff in talks' on Particle 6's 'Storm Dogs'): Minkoff is now confirmed on board, the first trailer has been released, and the project is being pitched for a studio release. It tests whether studios will distribute an AI-made film.",
+      "published_iso": "2026-11-10T15:15:57+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/StormDogs.png?w=1440&h=810&crop=1",
+      "excerpt": "Rob Minkoff is on board, and the project is aiming for a studio release. Will they touch it?"
     }
   ]
 }

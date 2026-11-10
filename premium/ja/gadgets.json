@@ -11118,6 +11118,161 @@
           "x": "未知数なのはAlexa+だ。Alexa+が画面を見てそれに基づいて操作できる機能On-Screen Intelligenceはオプトイン方式で、初期設定はオフ、作動中は画面にインジケーターが表示される。初期レビューはハードウェアと画面を高く評価する一方、マルチタスクを弱点に挙げている。"
         }
       ]
+    },
+    "gadgets/ring-ai-drone-rover-cam": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af233321b32910f5c003593/1:1/w_2560%2Cc_limit/Ring-Drone-Cam-Gear-DSC_0211.jpg",
+          "cap": "Ringのドローンカメラ。"
+        },
+        {
+          "t": "p",
+          "x": "RingはDrone Camを250ドルで発表した。あわせて、企業の倉庫や工場の監視を支援する1,000ドルの移動式セキュリティロボットRing Rover Camも発表した。いずれも同社の新ブランドRing Roboticsに属する。Rover Camが12月16日に先行発売され、Drone Camが1月27日に続く。"
+        },
+        {
+          "t": "p",
+          "x": "重さ165グラムの小型ドローンは充電ドックから浮上し、家の中を自律飛行する。Ringは2020年にも屋内セキュリティドローンRing Always Home Camを発表していた。センサーを追加すると電力とバッテリーを多く消費するため、今回は知能をすべてクラウドに置いた。ドローンは映像を直接Ringのサーバーに送り、独自のAI Pilotエージェントが行き先を指示する。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af23e3b1b32910f5c003599/master/w_1600%2Cc_limit/DSC_0198.jpg",
+          "cap": "Ring Drone Camは充電ステーションから飛び立ち、家の中を見回る。"
+        },
+        {
+          "t": "p",
+          "x": "ユーザーはドローンを手動で操縦できないが、独自の飛行ルートや巡回スケジュールを設定でき、ドローンはモーション、ドア、窓のセンサーからの通知に反応する。1回の充電で5〜8分飛行し、あえて大きな音が出る設計のため、悪意ある人物が家にいる人に気づかれずに遠隔でのぞき見ることはできない。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af23e3a1997f5ebb6874fc1/125:94/w_1600%2Cc_limit/DSC_0214.jpg",
+          "cap": "Rover Camは倉庫や工場の巡回用に設計されている。"
+        },
+        {
+          "t": "p",
+          "x": "Rover CamはAmazonのAstroと多くのハードウェアを共有する。Drone Camと同じAI Pilot、伸縮式の4K カメラ、双方向通話とサイレンを備え、最大5,000平方フィートをカバーする。"
+        }
+      ]
+    },
+    "gadgets/kora-linux-ai-desktop-os": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/w_2560%2Cc_limit/gear_ai_operating_system_nerdy.jpg",
+          "cap": "頭がコンピューターの人物がデスクトップパソコンの前に座っている"
+        },
+        {
+          "t": "p",
+          "x": "火曜日に発表されたKoraは、「マスマーケットではなく、AIネイティブ」のためのWindowsやmacOSに代わるデスクトップOSとして設計されていると、CEOで共同創業者のKirt McMasterは語る。クリエイターや開発者を対象とし、AIモデルをシステムレベルで統合することを中核に据える。発売は2027年中の予定だ。"
+        },
+        {
+          "t": "p",
+          "x": "「あなたのコンテキストもメモリーも、すべて手元のマシンにある」と共同創業者のFranck De Girolamiは言う。AIトークンの費用を節約するため、OpenAIのモデルからAnthropicのツール、さらにローカルモデルへと移っていくプロジェクトを例に挙げた。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af284baa8b94cafb9dc4873/master/w_1600%2Cc_limit/Screenshot%25202026-11-09%2520at%25201.37.41%25E2%2580%25AFPM.png",
+          "cap": "Kora"
+        },
+        {
+          "t": "p",
+          "x": "KoraはLinuxカーネル上に構築された独立したOSだ。同スタートアップはQualcommと提携し、来年Snapdragon PCsに搭載する予定で、x86-64にも対応する。互換レイヤーにより一般的なWindowsアプリが動作し、「ニューラルファイルシステム」がファイルのデータを意味に基づいて索引化する。"
+        },
+        {
+          "t": "p",
+          "x": "McMasterはCyanogenを共同創業し、その経営に携わった。Koraは64ギガバイト以上のRAMを搭載したデスクトップ向けに最適化されており、高い処理能力を要するAIモデルを動かしたいパワーユーザーを対象とする。"
+        }
+      ]
+    },
+    "gadgets/deepmind-gemini-robotics-25": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-2560x1440.jpg",
+          "cap": "Mercedes-Benzの工場でGemini Robotics 2.5を使うApptronik Apollo 2"
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMindは、AI-poweredのGemini Roboticsプラットフォームの新世代を発表した。このモデルは200を超えるアクティビティで評価され、ApptronikのヒューマノイドロボットApollo 2は5本指の手でちょう結びができるようになった。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Still-image-Apollo-2-ribbon-tying.png",
+          "cap": "変形する物体はロボットにとって難しいが、Geminiは前進している。クレジット: Google"
+        },
+        {
+          "t": "p",
+          "x": "全体として、Gemini Robotics 2.5は前バージョンと比べて成功率が30〜100パーセント高く、速度も20〜30パーセント速い。Geminiで動くApollo 2ロボットは欧州のいくつかの工場で自動車部品のキッティングを行い、96パーセントの成功率を達成した。Gemini 4 Argonは開発を加速させた「シミュレーションエンジン」の構築に貢献した。"
+        },
+        {
+          "t": "video",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Video-Apptronik-Apollo-2-at-Mercedes-Benz-opt.mp4"
+        },
+        {
+          "t": "p",
+          "x": "ASIMOV-Jailbreakは、ロボットのAIをだまして危険な行動をさせるよう設計された1,500件のプロンプトを集めたオープンソースのデータベースだ。Argonを組み込むと、システムの脱獄に対する安全性は98.8パーセントに達する。Gemini Robotics ER 2のみでは73.5パーセントだ。Gemini Robotics 2.5は現在、Agile Robots、Apptronik、Boston Dynamicsなどのパートナーに提供されている。"
+        }
+      ]
+    },
+    "gadgets/apple-mac-local-ai-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&w=1600",
+          "cap": "Mac mini"
+        },
+        {
+          "t": "p",
+          "x": "リーカーのAaron Perrisが、Appleが開発中の新しいMacアプリ「Harbor」の存在を示す証拠を見つけた。Harborは1台または複数のMacでローカルAIモデルを簡単に実行できるようにする。"
+        },
+        {
+          "t": "p",
+          "x": "「HarborはMacをプライベートなAI推論サーバーに変える。オープンウェイトモデルをApple silicon上でローカルに実行できる。データがハードウェアの外に出ることはなく、クラウドに届くものも一切ない。複数のMacコンピューターをThunderbolt 5で接続してユニファイドメモリをプールすれば、1台のコンピューターで処理できる大規模モデルとより高い同時実行性を実現できる。」"
+        },
+        {
+          "t": "p",
+          "x": "主な機能は、Thunderbolt 5経由でデバイスを自動検出して数分で完了するセットアップ、アプリ内でのオープンウェイトモデルの閲覧とダウンロード、そしてThunderbolt 5対応のMac 2台以上を1つの推論リソースにまとめるクラスタリングだ。"
+        },
+        {
+          "t": "p",
+          "x": "Harborは現在、AppleのClarisブランドのもとでプライベートプレビュー中だが、今後数週間から数カ月のうちに一般公開される可能性が高そうだ。"
+        }
+      ]
+    },
+    "gadgets/caim1-provenance-camera": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/intro-1793382637.jpg",
+          "cap": "茶色と黄褐色の3Dプリント製Noctuaカメラケースが、茶色の木製テーブルの上に正面を上にして置かれている。"
+        },
+        {
+          "t": "p",
+          "x": "Josh Cowellが創業したCAIM1(Counter Artificial Intelligence Machine 1)は、写真の真正性を示す暗号証明を画像に直接埋め込む試作カメラを開発している。内蔵チップは固有のシリコン指紋を生成し、写真がいつ、どこで、どのカメラで撮影されたかを証明する。この情報は固有の匿名ブロックチェーン署名にひも付けられる。"
+        },
+        {
+          "t": "p",
+          "x": "欧州議会(European Parliament)の報告書によると、ソーシャルメディア上のディープフェイクは2023年以降半年ごとに倍増し、2025年には推計800万件に達した。CAIM1は旗艦カメラを2027年第1四半期に発売する見込みだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/how-caim1-combats-deepfakes-1793382638.jpg",
+          "cap": "CAIM1カメラケースの背面。"
+        },
+        {
+          "t": "p",
+          "x": "認証はTropic SquareのTropic01チップから始まる。同チップは「世界初の監査可能なセキュアエレメント」だという。検証情報は「改ざん不可能な分散型インフラ」に保存され、カメラはQRコード、ブロックチェーン参照番号、日付、時刻、位置情報を記した紙のレシートを印刷できる。Cowellは、競合製品は「単一企業の閉じたエコシステムを盲目的に信頼することをユーザーに求めている」と語る。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/innovations-beyond-authentication-1793382640.jpg",
+          "cap": "前面マウントからレンズを外したCAIM1カメラ。"
+        },
+        {
+          "t": "p",
+          "x": "CAIM1はCPUとセンサーを振動なく冷却するため、Noctuaと組んでNF-A4x10のアクティブ冷却システムを採用した。カメラは4K 動画を撮影でき、アクションスポーツを想定し、Bring-Your-Own-Lens方式を採る。"
+        }
+      ]
     }
   }
 }

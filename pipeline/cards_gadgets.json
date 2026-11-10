@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "section": "gadgets",
   "cards": [
     {
-      "id": "caim1-provenance-camera",
+      "id": "pixel-drop-nov-gemini-intel",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "모든 사진에 센서가\n서명하는 시제품 카메라",
-      "body": "CAIM1은 AI 조작에 맞서 센서 단계에서 사진마다 암호 출처 증명을 심는다.",
-      "mini_headline": "센서에서 사진에\n서명하는 카메라",
+      "headline": "Pixel 10에 들어온\nGemini 인텔리전스",
+      "body": "11월 업데이트로 Pixel 10에 Gemini 인텔리전스와 맞춤 위젯이 온다.",
+      "mini_headline": "Pixel 10에 Gemini 인텔리전스",
       "tool": "Gadgets",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2307723/caim-1-camera-fighting-against-ai-photography/",
+      "source": "Google Blog",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,239 +19,239 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/intro-1793382637.jpg",
-            "cap": "갈색·황갈색 3D 프린팅 Noctua 카메라 케이스가 갈색 나무 테이블 위에 앞면을 위로 하고 놓여 있다."
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.width-1300.jpg",
+            "cap": "Pixel Drop"
           },
           {
             "t": "p",
-            "x": "Josh Cowell이 설립한 CAIM1(Counter Artificial Intelligence Machine 1)은 사진이 진짜임을 증명하는 암호 증거를 이미지에 바로 심는 시제품 카메라를 만들고 있다. 내부 칩이 칩 고유의 실리콘 지문을 만들어 사진을 언제, 어디서, 어떤 카메라로 찍었는지 인증하고, 이 정보를 고유한 익명 블록체인 서명과 묶는다."
+            "x": "11월 Pixel Drop이 나왔다. 기능이 새로 붙거나 넓어져 Pixel 기기를 내게 더 맞게, 더 직관적이고 편하게 쓸 수 있다. 배포는 오늘 시작해 몇 주에 걸쳐 이어진다."
           },
           {
             "t": "p",
-            "x": "유럽의회(European Parliament) 보고서는 소셜미디어 딥페이크가 2023년 이후 반년마다 두 배씩 늘어 2025년 약 800만 건에 이른 것으로 추산했다. CAIM1은 주력 카메라를 2027년 1분기에 내놓을 계획이다."
+            "x": "Pixel 10 기기에서도 이제 Gemini Intelligence를 쓸 수 있다. Rambler와 맞춤 제안 같은 새 기능이 들어왔고, 아침 커피 주문처럼 여러 단계를 거치는 일도 맡는다. Rambler는 “음” 같은 군말을 알아서 지우고 생각을 깔끔한 글로 다듬어 준다."
           },
           {
             "t": "img",
-            "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/how-caim1-combats-deepfakes-1793382638.jpg",
-            "cap": "CAIM1 카메라 케이스의 뒷면."
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_10_Pro_Gemini_Intelligence.width-1200.format-webp.webp",
+            "cap": "Pixel 10 Pro의 Rambler"
           },
           {
             "t": "p",
-            "x": "인증은 Tropic Square의 Tropic01 칩에서 시작하는데, 이 칩은 \"세계 최초의 감사 가능한 보안 요소\"다. 검증 정보는 \"변경 불가능한 탈중앙화 인프라\"에 저장된다. 카메라는 QR 코드와 블록체인 참조 번호, 날짜, 시간, 위치를 담은 실물 영수증도 뽑아 준다. Cowell은 경쟁사들이 \"사용자에게 단일 기업의 폐쇄 생태계를 맹목적으로 믿으라고 요구한다\"고 말한다."
+            "x": "장보기, 차량 호출, 음식 포장 주문처럼 여러 단계를 밟는 작업을 Gemini가 처리하는 기능은 이제 일본, 영국, 인도에서도 쓸 수 있다. 위젯도 직접 만든다. 월별 지출을 추적하는 위젯, 항공편과 예약 정보를 불러오는 여행 카운트다운 같은 식이다."
           },
           {
             "t": "img",
-            "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/innovations-beyond-authentication-1793382640.jpg",
-            "cap": "앞쪽 마운트에서 렌즈를 분리한 CAIM1 카메라."
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_11_Pro_Create_My_Widget_re.width-1200.format-webp.webp",
+            "cap": "원하는 위젯을 설명하기"
           },
           {
             "t": "p",
-            "x": "CAIM1은 CPU와 센서를 진동 없이 식히려고 Noctua와 손잡고 NF-A4x10 능동 냉각 시스템을 넣었다. 4K 영상을 찍고 액션 스포츠를 겨냥하며, 렌즈를 직접 골라 끼우는 Bring-Your-Own-Lens 설계를 택했다."
+            "x": "Pixel 11 시리즈의 Call Screen도 좋아졌다. 모르는 번호로 전화가 오면 Gemini가 훨씬 자연스러운 말투로 용건을 묻고, 화면에는 실시간 자막이 뜬다. HiLight는 이제 Google Messages도 지원한다. 휴대폰을 엎어 둔 상태에서 즐겨찾는 연락처의 메시지가 오면 빛으로 알려 준다. Pixel Tag는 11월 11일 나온다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A prototype camera signs\nevery photo at the sensor",
-          "body": "The CAIM1 camera embeds cryptographic proof of origin into each photo at the sensor, a hardware answer to AI fakes.",
-          "mini_headline": "Camera signs photos\nat the sensor",
+          "headline": "November Pixel Drop brings\nGemini Intelligence to Pixel 10",
+          "body": "The November Pixel Drop brings Gemini Intelligence to Pixel 10, plus custom widgets and HiLight alerts in Messages.",
+          "mini_headline": "Pixel 10 gets Gemini Intelligence",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/intro-1793382637.jpg",
-                "cap": "A brown and tan 3D-printed Noctua camera casing sits face up on a brown wooden table."
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.width-1300.jpg",
+                "cap": "Pixel Drop"
               },
               {
                 "t": "p",
-                "x": "CAIM1 (Counter Artificial Intelligence Machine 1), founded by Josh Cowell, is working on a prototype camera that embeds cryptographic proof of a photo's authenticity directly into the image. Its internal chip creates a unique silicon fingerprint that certifies when, where, and with which camera the photo was taken, tied to a unique, anonymous blockchain signature."
+                "x": "Our November Pixel Drop is here, with new and expanded features making your Pixel devices more personalized, intuitive, and handy. Updates start rolling out today and will continue over the next several weeks."
               },
               {
                 "t": "p",
-                "x": "Social media deepfakes have doubled every six months since 2023, reaching an estimated 8 million in 2025, according to a European Parliament report. CAIM1 expects its flagship camera to be released in the first quarter of 2027."
+                "x": "Gemini Intelligence is now available on Pixel 10 devices, bringing new capabilities like Rambler, personalized suggestions, and taking care of multi-step tasks — like placing your morning coffee order. Rambler can automatically remove filler words like “um,” and format your thoughts into clear, polished text."
               },
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/how-caim1-combats-deepfakes-1793382638.jpg",
-                "cap": "The back of the CAIM1 camera case."
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_10_Pro_Gemini_Intelligence.width-1200.format-webp.webp",
+                "cap": "Rambler on Pixel 10 Pro"
               },
               {
                 "t": "p",
-                "x": "Authentication starts with Tropic Square's Tropic01 chip, the \"world's first auditable secure element.\" Verification is stored on an \"immutable decentralized infrastructure,\" and the camera can print a physical receipt with a QR code, blockchain reference number, date, time and location. Cowell says competitors require \"users to place blind faith in a single corporate entity's closed ecosystem.\""
+                "x": "Gemini can handle multi-step tasks like getting groceries, booking a ride or ordering takeout — now available in Japan, UK, and India. You can also create personalized widgets, like a tracker to follow your monthly spending or a getaway countdown that pulls in flight and reservation details."
               },
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/innovations-beyond-authentication-1793382640.jpg",
-                "cap": "A CAIM1 camera with its lens detached from the front mount."
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_11_Pro_Create_My_Widget_re.width-1200.format-webp.webp",
+                "cap": "Describe your widget"
               },
               {
                 "t": "p",
-                "x": "To cool its CPU and sensor without vibration, CAIM1 partnered with Noctua on an NF-A4x10 active-cooling system. The camera shoots 4K video, targets action sports and uses a Bring-Your-Own-Lens design."
+                "x": "On the Pixel 11 series, Call Screen gets an upgrade: Gemini asks unknown callers why they're reaching out in a much more conversational manner, with a live transcript on screen. HiLight now supports Google Messages, glowing when a favorite contact messages you while your phone is face down. Pixel Tag is available November 11."
               }
             ]
           }
         },
         "ko": {
-          "headline": "모든 사진에 센서가\n서명하는 시제품 카메라",
-          "body": "CAIM1은 AI 조작에 맞서 센서 단계에서 사진마다 암호 출처 증명을 심는다.",
-          "mini_headline": "센서에서 사진에\n서명하는 카메라",
+          "headline": "Pixel 10에 들어온\nGemini 인텔리전스",
+          "body": "11월 업데이트로 Pixel 10에 Gemini 인텔리전스와 맞춤 위젯이 온다.",
+          "mini_headline": "Pixel 10에 Gemini 인텔리전스",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/intro-1793382637.jpg",
-                "cap": "갈색·황갈색 3D 프린팅 Noctua 카메라 케이스가 갈색 나무 테이블 위에 앞면을 위로 하고 놓여 있다."
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.width-1300.jpg",
+                "cap": "Pixel Drop"
               },
               {
                 "t": "p",
-                "x": "Josh Cowell이 설립한 CAIM1(Counter Artificial Intelligence Machine 1)은 사진이 진짜임을 증명하는 암호 증거를 이미지에 바로 심는 시제품 카메라를 만들고 있다. 내부 칩이 칩 고유의 실리콘 지문을 만들어 사진을 언제, 어디서, 어떤 카메라로 찍었는지 인증하고, 이 정보를 고유한 익명 블록체인 서명과 묶는다."
+                "x": "11월 Pixel Drop이 나왔다. 기능이 새로 붙거나 넓어져 Pixel 기기를 내게 더 맞게, 더 직관적이고 편하게 쓸 수 있다. 배포는 오늘 시작해 몇 주에 걸쳐 이어진다."
               },
               {
                 "t": "p",
-                "x": "유럽의회(European Parliament) 보고서는 소셜미디어 딥페이크가 2023년 이후 반년마다 두 배씩 늘어 2025년 약 800만 건에 이른 것으로 추산했다. CAIM1은 주력 카메라를 2027년 1분기에 내놓을 계획이다."
+                "x": "Pixel 10 기기에서도 이제 Gemini Intelligence를 쓸 수 있다. Rambler와 맞춤 제안 같은 새 기능이 들어왔고, 아침 커피 주문처럼 여러 단계를 거치는 일도 맡는다. Rambler는 “음” 같은 군말을 알아서 지우고 생각을 깔끔한 글로 다듬어 준다."
               },
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/how-caim1-combats-deepfakes-1793382638.jpg",
-                "cap": "CAIM1 카메라 케이스의 뒷면."
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_10_Pro_Gemini_Intelligence.width-1200.format-webp.webp",
+                "cap": "Pixel 10 Pro의 Rambler"
               },
               {
                 "t": "p",
-                "x": "인증은 Tropic Square의 Tropic01 칩에서 시작하는데, 이 칩은 \"세계 최초의 감사 가능한 보안 요소\"다. 검증 정보는 \"변경 불가능한 탈중앙화 인프라\"에 저장된다. 카메라는 QR 코드와 블록체인 참조 번호, 날짜, 시간, 위치를 담은 실물 영수증도 뽑아 준다. Cowell은 경쟁사들이 \"사용자에게 단일 기업의 폐쇄 생태계를 맹목적으로 믿으라고 요구한다\"고 말한다."
+                "x": "장보기, 차량 호출, 음식 포장 주문처럼 여러 단계를 밟는 작업을 Gemini가 처리하는 기능은 이제 일본, 영국, 인도에서도 쓸 수 있다. 위젯도 직접 만든다. 월별 지출을 추적하는 위젯, 항공편과 예약 정보를 불러오는 여행 카운트다운 같은 식이다."
               },
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/innovations-beyond-authentication-1793382640.jpg",
-                "cap": "앞쪽 마운트에서 렌즈를 분리한 CAIM1 카메라."
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_11_Pro_Create_My_Widget_re.width-1200.format-webp.webp",
+                "cap": "원하는 위젯을 설명하기"
               },
               {
                 "t": "p",
-                "x": "CAIM1은 CPU와 센서를 진동 없이 식히려고 Noctua와 손잡고 NF-A4x10 능동 냉각 시스템을 넣었다. 4K 영상을 찍고 액션 스포츠를 겨냥하며, 렌즈를 직접 골라 끼우는 Bring-Your-Own-Lens 설계를 택했다."
+                "x": "Pixel 11 시리즈의 Call Screen도 좋아졌다. 모르는 번호로 전화가 오면 Gemini가 훨씬 자연스러운 말투로 용건을 묻고, 화면에는 실시간 자막이 뜬다. HiLight는 이제 Google Messages도 지원한다. 휴대폰을 엎어 둔 상태에서 즐겨찾는 연락처의 메시지가 오면 빛으로 알려 준다. Pixel Tag는 11월 11일 나온다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "全写真にセンサーで\n署名する試作カメラ",
-          "body": "CAIM1カメラはAIの偽造に対抗し、センサー段階で各写真に出所の暗号証明を埋め込む。",
-          "mini_headline": "センサーで写真に\n署名するカメラ",
+          "headline": "Pixel 10に届く\nGeminiインテリジェンス",
+          "body": "11月の更新でPixel 10にGeminiインテリジェンスと独自ウィジェットが届く。",
+          "mini_headline": "Pixel 10にGeminiインテリジェンス",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/intro-1793382637.jpg",
-                "cap": "茶色と黄褐色の3Dプリント製Noctuaカメラケースが、茶色の木製テーブルの上に正面を上にして置かれている。"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.width-1300.jpg",
+                "cap": "Pixel Drop"
               },
               {
                 "t": "p",
-                "x": "Josh Cowellが創業したCAIM1(Counter Artificial Intelligence Machine 1)は、写真の真正性を示す暗号証明を画像に直接埋め込む試作カメラを開発している。内蔵チップは固有のシリコン指紋を生成し、写真がいつ、どこで、どのカメラで撮影されたかを証明する。この情報は固有の匿名ブロックチェーン署名にひも付けられる。"
+                "x": "11月のPixel Dropが到着した。新機能と拡張機能により、Pixel端末はよりパーソナルで直感的、そして便利になる。アップデートは本日から配信が始まり、今後数週間にわたって続く。"
               },
               {
                 "t": "p",
-                "x": "欧州議会(European Parliament)の報告書によると、ソーシャルメディア上のディープフェイクは2023年以降半年ごとに倍増し、2025年には推計800万件に達した。CAIM1は旗艦カメラを2027年第1四半期に発売する見込みだ。"
+                "x": "Pixel 10端末でGemini Intelligenceが使えるようになった。Ramblerやパーソナライズされた提案といった新機能に加え、朝のコーヒーの注文のような複数ステップのタスクもこなす。Ramblerは「えー」のようなつなぎ言葉を自動で取り除き、考えを明快で整った文章にまとめる。"
               },
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/how-caim1-combats-deepfakes-1793382638.jpg",
-                "cap": "CAIM1カメラケースの背面。"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_10_Pro_Gemini_Intelligence.width-1200.format-webp.webp",
+                "cap": "Pixel 10 ProのRambler"
               },
               {
                 "t": "p",
-                "x": "認証はTropic SquareのTropic01チップから始まる。同チップは「世界初の監査可能なセキュアエレメント」だという。検証情報は「改ざん不可能な分散型インフラ」に保存され、カメラはQRコード、ブロックチェーン参照番号、日付、時刻、位置情報を記した紙のレシートを印刷できる。Cowellは、競合製品は「単一企業の閉じたエコシステムを盲目的に信頼することをユーザーに求めている」と語る。"
+                "x": "Geminiは食料品の購入、配車の予約、テイクアウトの注文といった複数ステップのタスクを処理でき、この機能は日本、英国、インドでも利用可能になった。月々の支出を追うトラッカーや、フライトと予約の詳細を取り込む旅行カウントダウンなど、自分専用のウィジェットも作れる。"
               },
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/innovations-beyond-authentication-1793382640.jpg",
-                "cap": "前面マウントからレンズを外したCAIM1カメラ。"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_11_Pro_Create_My_Widget_re.width-1200.format-webp.webp",
+                "cap": "ウィジェットを言葉で説明する"
               },
               {
                 "t": "p",
-                "x": "CAIM1はCPUとセンサーを振動なく冷却するため、Noctuaと組んでNF-A4x10のアクティブ冷却システムを採用した。カメラは4K 動画を撮影でき、アクションスポーツを想定し、Bring-Your-Own-Lens方式を採る。"
+                "x": "Pixel 11シリーズではCall Screenが強化された。Geminiが知らない発信者に連絡の理由を、より会話に近い形で尋ね、画面にはリアルタイムの文字起こしが表示される。HiLightはGoogle Messagesに対応し、端末を伏せて置いているときにお気に入りの連絡先からメッセージが届くと光って知らせる。Pixel Tagは11月11日に登場する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "原型相机在传感器端\n为每张照片签名",
-          "body": "CAIM1相机在传感器层面为每张照片嵌入加密来源证明，以硬件应对AI伪造。",
-          "mini_headline": "传感器为照片\n签名的相机",
+          "headline": "11月更新：Pixel 10\n迎来Gemini智能",
+          "body": "11月更新为Pixel 10带来Gemini智能、自定义小组件和HiLight提醒。",
+          "mini_headline": "Pixel 10迎来Gemini智能",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/intro-1793382637.jpg",
-                "cap": "一个棕色与棕褐色相间的3D打印Noctua相机外壳正面朝上放在棕色木桌上。"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.width-1300.jpg",
+                "cap": "Pixel Drop"
               },
               {
                 "t": "p",
-                "x": "由Josh Cowell创立的CAIM1（Counter Artificial Intelligence Machine 1）正在开发一款原型相机，可将证明照片真实性的加密证据直接嵌入图像。其内置芯片会生成独特的硅指纹，证明照片拍摄的时间、地点和所用相机，并与一个独特的匿名区块链签名绑定。"
+                "x": "11月的Pixel Drop现已推出，新增和扩展的功能让你的Pixel设备更个性化、更直观、更好用。更新从今天开始推送，并将在接下来的几周内陆续完成。"
               },
               {
                 "t": "p",
-                "x": "欧洲议会（European Parliament）的一份报告显示，社交媒体上的深度伪造内容自2023年以来每半年翻一番，2025年估计达到800万条。CAIM1预计其旗舰相机将于2027年第一季度发布。"
+                "x": "Pixel 10设备现已支持Gemini Intelligence，带来Rambler、个性化建议等新功能，还能处理多步骤任务，比如下单早晨的咖啡。Rambler可以自动去掉“嗯”之类的口头填充词，把你的想法整理成清晰、通顺的文字。"
               },
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/how-caim1-combats-deepfakes-1793382638.jpg",
-                "cap": "CAIM1相机外壳背面。"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_10_Pro_Gemini_Intelligence.width-1200.format-webp.webp",
+                "cap": "Pixel 10 Pro上的Rambler"
               },
               {
                 "t": "p",
-                "x": "认证从Tropic Square的Tropic01芯片开始，这是“全球首个可审计的安全元件”。验证信息存储在“不可篡改的去中心化基础设施”上，相机还能打印一张实体凭据，上面印有QR码、区块链参考编号、日期、时间和地点。Cowell表示，竞争对手要求“用户盲目信任单一企业的封闭生态系统”。"
+                "x": "Gemini可以处理买菜、叫车或点外卖等多步骤任务，这项功能现已在日本、英国和印度推出。你还可以创建个性化小组件，例如追踪每月开支的记录器，或自动调取航班和预订信息的度假倒计时。"
               },
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/innovations-beyond-authentication-1793382640.jpg",
-                "cap": "从前置卡口上取下镜头的CAIM1相机。"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_11_Pro_Create_My_Widget_re.width-1200.format-webp.webp",
+                "cap": "描述你想要的小组件"
               },
               {
                 "t": "p",
-                "x": "为了在无振动的情况下为CPU和传感器散热，CAIM1与Noctua合作采用了NF-A4x10主动散热系统。这款相机可拍摄4K 视频，面向极限运动，并采用Bring-Your-Own-Lens（自带镜头）设计。"
+                "x": "在Pixel 11系列上，Call Screen迎来升级：Gemini会以更自然的对话方式询问陌生来电者的来意，屏幕上同步显示实时文字记录。HiLight现已支持Google Messages，手机屏幕朝下放置时，若常用联系人发来消息，它会亮起提示。Pixel Tag将于11月11日推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una cámara prototipo firma\ncada foto desde el sensor",
-          "body": "La cámara CAIM1 inserta desde el sensor una prueba criptográfica de origen en cada foto contra los engaños de IA.",
-          "mini_headline": "Una cámara que firma\nfotos en el sensor",
+          "headline": "El Pixel Drop de noviembre lleva\nGemini Intelligence al Pixel 10",
+          "body": "El Pixel Drop de noviembre lleva Gemini Intelligence al Pixel 10, con widgets propios y avisos HiLight.",
+          "mini_headline": "Gemini Intelligence llega al Pixel 10",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/intro-1793382637.jpg",
-                "cap": "Una carcasa de cámara Noctua impresa en 3D, en tonos marrón y canela, boca arriba sobre una mesa de madera marrón."
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.width-1300.jpg",
+                "cap": "Pixel Drop"
               },
               {
                 "t": "p",
-                "x": "CAIM1 (Counter Artificial Intelligence Machine 1), fundada por Josh Cowell, trabaja en una cámara prototipo que integra directamente en la imagen una prueba criptográfica de la autenticidad de la foto. Su chip interno crea una huella de silicio única que certifica cuándo, dónde y con qué cámara se tomó la foto, vinculada a una firma de blockchain única y anónima."
+                "x": "Llega el Pixel Drop de noviembre, con funciones nuevas y ampliadas que hacen tus dispositivos Pixel más personales, intuitivos y prácticos. Las actualizaciones empiezan a distribuirse hoy y continuarán durante las próximas semanas."
               },
               {
                 "t": "p",
-                "x": "Según un informe del Parlamento Europeo, los deepfakes en redes sociales se han duplicado cada seis meses desde 2023 y alcanzaron unos 8 millones estimados en 2025. CAIM1 prevé lanzar su cámara insignia en el primer trimestre de 2027."
+                "x": "Gemini Intelligence ya está disponible en los dispositivos Pixel 10 y aporta nuevas capacidades como Rambler, sugerencias personalizadas y la gestión de tareas de varios pasos, como pedir el café de la mañana. Rambler puede eliminar automáticamente muletillas como “eh” y convertir tus ideas en un texto claro y pulido."
               },
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/how-caim1-combats-deepfakes-1793382638.jpg",
-                "cap": "La parte trasera de la carcasa de la cámara CAIM1."
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_10_Pro_Gemini_Intelligence.width-1200.format-webp.webp",
+                "cap": "Rambler en el Pixel 10 Pro"
               },
               {
                 "t": "p",
-                "x": "La autenticación empieza con el chip Tropic01 de Tropic Square, el \"primer elemento seguro auditable del mundo\". La verificación se almacena en una \"infraestructura descentralizada inmutable\", y la cámara puede imprimir un recibo físico con un código QR, el número de referencia de blockchain, la fecha, la hora y la ubicación. Cowell afirma que los competidores exigen que \"los usuarios depositen una fe ciega en el ecosistema cerrado de una sola entidad corporativa\"."
+                "x": "Gemini puede encargarse de tareas de varios pasos, como hacer la compra, reservar un viaje o pedir comida para llevar, ahora disponibles en Japón, Reino Unido e India. También puedes crear widgets personalizados, como un registro de tus gastos mensuales o una cuenta atrás para una escapada que reúne los datos del vuelo y de la reserva."
               },
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/innovations-beyond-authentication-1793382640.jpg",
-                "cap": "Una cámara CAIM1 con el objetivo separado de la montura frontal."
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_11_Pro_Create_My_Widget_re.width-1200.format-webp.webp",
+                "cap": "Describe tu widget"
               },
               {
                 "t": "p",
-                "x": "Para refrigerar su CPU y su sensor sin vibraciones, CAIM1 se asoció con Noctua en un sistema de refrigeración activa NF-A4x10. La cámara graba video en 4K, está pensada para deportes de acción y usa un diseño Bring-Your-Own-Lens."
+                "x": "En la serie Pixel 11, Call Screen mejora: Gemini pregunta a quienes llaman desde números desconocidos el motivo de la llamada de forma mucho más conversacional, con una transcripción en directo en pantalla. HiLight ahora es compatible con Google Messages y se ilumina cuando un contacto favorito te escribe mientras el teléfono está boca abajo. Pixel Tag estará disponible el 11 de noviembre."
               }
             ]
           }
@@ -259,165 +259,165 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "모든 사진에 센서가\n서명하는 시제품 카메라",
-          "body": "CAIM1 카메라는 AI 조작에 맞서 센서에서 사진마다 암호 출처 증명을 심는다.",
-          "mini_headline": "센서에서 사진에\n서명하는 카메라",
+          "headline": "Pixel 10에 들어온\nGemini 인텔리전스",
+          "body": "11월 업데이트로 Pixel 10에 Gemini 인텔리전스와 맞춤 위젯이 온다.",
+          "mini_headline": "Pixel 10에 Gemini 인텔리전스",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/intro-1793382637.jpg",
-                "cap": "갈색과 황갈색의 3D 프린팅 Noctua 카메라 케이스가 갈색 나무 테이블 위에 앞면을 위로 한 채 놓여 있다."
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.width-1300.jpg",
+                "cap": "Pixel Drop"
               },
               {
                 "t": "p",
-                "x": "Josh Cowell이 설립한 CAIM1(Counter Artificial Intelligence Machine 1)은 사진의 진위를 증명하는 암호 증거를 이미지에 직접 심는 시제품 카메라를 개발하고 있다. 내부 칩은 고유한 실리콘 지문을 만들어 사진이 언제, 어디서, 어떤 카메라로 찍혔는지 인증하며, 이 정보는 고유한 익명 블록체인 서명과 연결된다."
+                "x": "11월 Pixel Drop이 나왔다. 새로 추가되거나 확장된 기능으로 Pixel 기기를 더 개인화되고 직관적이며 편리하게 쓸 수 있다. 업데이트는 오늘부터 배포를 시작해 앞으로 몇 주에 걸쳐 이어진다."
               },
               {
                 "t": "p",
-                "x": "유럽의회(European Parliament) 보고서에 따르면 소셜미디어 딥페이크는 2023년 이후 반년마다 두 배로 늘어 2025년에는 약 800만 건에 이른 것으로 추산된다. CAIM1은 주력 카메라를 2027년 1분기에 출시할 계획이다."
+                "x": "이제 Pixel 10 기기에서 Gemini Intelligence를 쓸 수 있다. Rambler, 개인화된 제안 같은 새 기능을 더하고, 아침 커피 주문처럼 여러 단계를 거치는 작업도 처리한다. Rambler는 “음” 같은 군말을 자동으로 지우고 생각을 깔끔하게 다듬은 글로 정리한다."
               },
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/how-caim1-combats-deepfakes-1793382638.jpg",
-                "cap": "CAIM1 카메라 케이스의 뒷면."
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_10_Pro_Gemini_Intelligence.width-1200.format-webp.webp",
+                "cap": "Pixel 10 Pro의 Rambler"
               },
               {
                 "t": "p",
-                "x": "인증은 Tropic Square의 Tropic01 칩에서 시작한다. 이 칩은 \"세계 최초의 감사 가능한 보안 요소\"다. 검증 정보는 \"변경 불가능한 탈중앙화 인프라\"에 저장되며, 카메라는 QR 코드와 블록체인 참조 번호, 날짜, 시간, 위치가 담긴 실물 영수증을 출력할 수 있다. Cowell은 경쟁사들이 \"사용자에게 단일 기업의 폐쇄 생태계를 맹목적으로 믿으라고 요구한다\"고 말한다."
+                "x": "Gemini는 장보기, 차량 호출, 음식 포장 주문 같은 여러 단계 작업을 처리하며, 이 기능은 이제 일본, 영국, 인도에서도 쓸 수 있다. 월별 지출을 추적하는 위젯이나 항공편과 예약 정보를 불러오는 여행 카운트다운처럼 나만의 위젯도 만들 수 있다."
               },
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/innovations-beyond-authentication-1793382640.jpg",
-                "cap": "앞쪽 마운트에서 렌즈를 분리한 CAIM1 카메라."
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_11_Pro_Create_My_Widget_re.width-1200.format-webp.webp",
+                "cap": "원하는 위젯을 설명하기"
               },
               {
                 "t": "p",
-                "x": "CAIM1은 CPU와 센서를 진동 없이 식히기 위해 Noctua와 손잡고 NF-A4x10 능동 냉각 시스템을 적용했다. 카메라는 4K 영상을 찍고, 액션 스포츠를 겨냥하며, 렌즈를 직접 골라 끼우는 Bring-Your-Own-Lens 설계를 채택했다."
+                "x": "Pixel 11 시리즈에서는 Call Screen이 한층 나아진다. Gemini가 모르는 발신자에게 연락한 이유를 훨씬 자연스러운 대화체로 묻고, 화면에는 실시간 자막이 뜬다. HiLight는 이제 Google Messages를 지원해, 휴대폰을 엎어 두었을 때 즐겨찾는 연락처에서 메시지가 오면 빛으로 알려 준다. Pixel Tag는 11월 11일에 나온다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "全写真にセンサーで\n署名する試作カメラ",
-          "body": "CAIM1カメラはAIの偽造に対抗し、センサー段階で各写真に出所の暗号証明を埋め込む。",
-          "mini_headline": "センサーで写真に\n署名するカメラ",
+          "headline": "Pixel 10に届く\nGeminiインテリジェンス",
+          "body": "11月の更新でPixel 10にGeminiインテリジェンスと独自ウィジェットが届く。",
+          "mini_headline": "Pixel 10にGeminiインテリジェンス",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/intro-1793382637.jpg",
-                "cap": "茶色と黄褐色の3Dプリント製Noctuaカメラケースが、茶色の木製テーブルの上に正面を上にして置かれている。"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.width-1300.jpg",
+                "cap": "Pixel Drop"
               },
               {
                 "t": "p",
-                "x": "Josh Cowellが創業したCAIM1(Counter Artificial Intelligence Machine 1)は、写真の真正性を示す暗号証明を画像に直接埋め込む試作カメラを開発している。内蔵チップは固有のシリコン指紋を生成し、写真がいつ、どこで、どのカメラで撮影されたかを証明する。この情報は固有の匿名ブロックチェーン署名にひも付けられる。"
+                "x": "11月のPixel Dropが到着した。新機能と拡張機能により、Pixel端末はよりパーソナルで直感的、そして便利になる。アップデートは本日から配信が始まり、今後数週間にわたって続く。"
               },
               {
                 "t": "p",
-                "x": "欧州議会(European Parliament)の報告書によると、ソーシャルメディア上のディープフェイクは2023年以降半年ごとに倍増し、2025年には推計800万件に達した。CAIM1は旗艦カメラを2027年第1四半期に発売する見込みだ。"
+                "x": "Pixel 10端末でGemini Intelligenceが使えるようになった。Ramblerやパーソナライズされた提案といった新機能に加え、朝のコーヒーの注文のような複数ステップのタスクもこなす。Ramblerは「えー」のようなつなぎ言葉を自動で取り除き、考えを明快で整った文章にまとめる。"
               },
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/how-caim1-combats-deepfakes-1793382638.jpg",
-                "cap": "CAIM1カメラケースの背面。"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_10_Pro_Gemini_Intelligence.width-1200.format-webp.webp",
+                "cap": "Pixel 10 ProのRambler"
               },
               {
                 "t": "p",
-                "x": "認証はTropic SquareのTropic01チップから始まる。同チップは「世界初の監査可能なセキュアエレメント」だという。検証情報は「改ざん不可能な分散型インフラ」に保存され、カメラはQRコード、ブロックチェーン参照番号、日付、時刻、位置情報を記した紙のレシートを印刷できる。Cowellは、競合製品は「単一企業の閉じたエコシステムを盲目的に信頼することをユーザーに求めている」と語る。"
+                "x": "Geminiは食料品の購入、配車の予約、テイクアウトの注文といった複数ステップのタスクを処理でき、この機能は日本、英国、インドでも利用可能になった。月々の支出を追うトラッカーや、フライトと予約の詳細を取り込む旅行カウントダウンなど、自分専用のウィジェットも作れる。"
               },
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/innovations-beyond-authentication-1793382640.jpg",
-                "cap": "前面マウントからレンズを外したCAIM1カメラ。"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_11_Pro_Create_My_Widget_re.width-1200.format-webp.webp",
+                "cap": "ウィジェットを言葉で説明する"
               },
               {
                 "t": "p",
-                "x": "CAIM1はCPUとセンサーを振動なく冷却するため、Noctuaと組んでNF-A4x10のアクティブ冷却システムを採用した。カメラは4K 動画を撮影でき、アクションスポーツを想定し、Bring-Your-Own-Lens方式を採る。"
+                "x": "Pixel 11シリーズではCall Screenが強化された。Geminiが知らない発信者に連絡の理由を、より会話に近い形で尋ね、画面にはリアルタイムの文字起こしが表示される。HiLightはGoogle Messagesに対応し、端末を伏せて置いているときにお気に入りの連絡先からメッセージが届くと光って知らせる。Pixel Tagは11月11日に登場する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "原型相机在传感器端\n为每张照片签名",
-          "body": "CAIM1相机在传感器层面为每张照片嵌入加密来源证明，以硬件应对AI伪造。",
-          "mini_headline": "传感器为照片\n签名的相机",
+          "headline": "11月更新：Pixel 10\n迎来Gemini智能",
+          "body": "11月更新为Pixel 10带来Gemini智能、自定义小组件和HiLight提醒。",
+          "mini_headline": "Pixel 10迎来Gemini智能",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/intro-1793382637.jpg",
-                "cap": "一个棕色与棕褐色相间的3D打印Noctua相机外壳正面朝上放在棕色木桌上。"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.width-1300.jpg",
+                "cap": "Pixel Drop"
               },
               {
                 "t": "p",
-                "x": "由Josh Cowell创立的CAIM1（Counter Artificial Intelligence Machine 1）正在开发一款原型相机，可将证明照片真实性的加密证据直接嵌入图像。其内置芯片会生成独特的硅指纹，证明照片拍摄的时间、地点和所用相机，并与一个独特的匿名区块链签名绑定。"
+                "x": "11月的Pixel Drop现已推出，新增和扩展的功能让你的Pixel设备更个性化、更直观、更好用。更新从今天开始推送，并将在接下来的几周内陆续完成。"
               },
               {
                 "t": "p",
-                "x": "欧洲议会（European Parliament）的一份报告显示，社交媒体上的深度伪造内容自2023年以来每半年翻一番，2025年估计达到800万条。CAIM1预计其旗舰相机将于2027年第一季度发布。"
+                "x": "Pixel 10设备现已支持Gemini Intelligence，带来Rambler、个性化建议等新功能，还能处理多步骤任务，比如下单早晨的咖啡。Rambler可以自动去掉“嗯”之类的口头填充词，把你的想法整理成清晰、通顺的文字。"
               },
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/how-caim1-combats-deepfakes-1793382638.jpg",
-                "cap": "CAIM1相机外壳背面。"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_10_Pro_Gemini_Intelligence.width-1200.format-webp.webp",
+                "cap": "Pixel 10 Pro上的Rambler"
               },
               {
                 "t": "p",
-                "x": "认证从Tropic Square的Tropic01芯片开始，这是“全球首个可审计的安全元件”。验证信息存储在“不可篡改的去中心化基础设施”上，相机还能打印一张实体凭据，上面印有QR码、区块链参考编号、日期、时间和地点。Cowell表示，竞争对手要求“用户盲目信任单一企业的封闭生态系统”。"
+                "x": "Gemini可以处理买菜、叫车或点外卖等多步骤任务，这项功能现已在日本、英国和印度推出。你还可以创建个性化小组件，例如追踪每月开支的记录器，或自动调取航班和预订信息的度假倒计时。"
               },
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/innovations-beyond-authentication-1793382640.jpg",
-                "cap": "从前置卡口上取下镜头的CAIM1相机。"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_11_Pro_Create_My_Widget_re.width-1200.format-webp.webp",
+                "cap": "描述你想要的小组件"
               },
               {
                 "t": "p",
-                "x": "为了在无振动的情况下为CPU和传感器散热，CAIM1与Noctua合作采用了NF-A4x10主动散热系统。这款相机可拍摄4K 视频，面向极限运动，并采用Bring-Your-Own-Lens（自带镜头）设计。"
+                "x": "在Pixel 11系列上，Call Screen迎来升级：Gemini会以更自然的对话方式询问陌生来电者的来意，屏幕上同步显示实时文字记录。HiLight现已支持Google Messages，手机屏幕朝下放置时，若常用联系人发来消息，它会亮起提示。Pixel Tag将于11月11日推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una cámara prototipo firma\ncada foto desde el sensor",
-          "body": "La cámara CAIM1 inserta desde el sensor una prueba criptográfica de origen en cada foto contra los engaños de IA.",
-          "mini_headline": "Una cámara que firma\nfotos en el sensor",
+          "headline": "El Pixel Drop de noviembre lleva\nGemini Intelligence al Pixel 10",
+          "body": "El Pixel Drop de noviembre lleva Gemini Intelligence al Pixel 10, con widgets propios y avisos HiLight.",
+          "mini_headline": "Gemini Intelligence llega al Pixel 10",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/intro-1793382637.jpg",
-                "cap": "Una carcasa de cámara Noctua impresa en 3D, en tonos marrón y canela, boca arriba sobre una mesa de madera marrón."
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.width-1300.jpg",
+                "cap": "Pixel Drop"
               },
               {
                 "t": "p",
-                "x": "CAIM1 (Counter Artificial Intelligence Machine 1), fundada por Josh Cowell, trabaja en una cámara prototipo que integra directamente en la imagen una prueba criptográfica de la autenticidad de la foto. Su chip interno crea una huella de silicio única que certifica cuándo, dónde y con qué cámara se tomó la foto, vinculada a una firma de blockchain única y anónima."
+                "x": "Llega el Pixel Drop de noviembre, con funciones nuevas y ampliadas que hacen tus dispositivos Pixel más personales, intuitivos y prácticos. Las actualizaciones empiezan a distribuirse hoy y continuarán durante las próximas semanas."
               },
               {
                 "t": "p",
-                "x": "Según un informe del Parlamento Europeo, los deepfakes en redes sociales se han duplicado cada seis meses desde 2023 y alcanzaron unos 8 millones estimados en 2025. CAIM1 prevé lanzar su cámara insignia en el primer trimestre de 2027."
+                "x": "Gemini Intelligence ya está disponible en los dispositivos Pixel 10 y aporta nuevas capacidades como Rambler, sugerencias personalizadas y la gestión de tareas de varios pasos, como pedir el café de la mañana. Rambler puede eliminar automáticamente muletillas como “eh” y convertir tus ideas en un texto claro y pulido."
               },
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/how-caim1-combats-deepfakes-1793382638.jpg",
-                "cap": "La parte trasera de la carcasa de la cámara CAIM1."
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_10_Pro_Gemini_Intelligence.width-1200.format-webp.webp",
+                "cap": "Rambler en el Pixel 10 Pro"
               },
               {
                 "t": "p",
-                "x": "La autenticación empieza con el chip Tropic01 de Tropic Square, el \"primer elemento seguro auditable del mundo\". La verificación se almacena en una \"infraestructura descentralizada inmutable\", y la cámara puede imprimir un recibo físico con un código QR, el número de referencia de blockchain, la fecha, la hora y la ubicación. Cowell afirma que los competidores exigen que \"los usuarios depositen una fe ciega en el ecosistema cerrado de una sola entidad corporativa\"."
+                "x": "Gemini puede encargarse de tareas de varios pasos, como hacer la compra, reservar un viaje o pedir comida para llevar, ahora disponibles en Japón, Reino Unido e India. También puedes crear widgets personalizados, como un registro de tus gastos mensuales o una cuenta atrás para una escapada que reúne los datos del vuelo y de la reserva."
               },
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/innovations-beyond-authentication-1793382640.jpg",
-                "cap": "Una cámara CAIM1 con el objetivo separado de la montura frontal."
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_11_Pro_Create_My_Widget_re.width-1200.format-webp.webp",
+                "cap": "Describe tu widget"
               },
               {
                 "t": "p",
-                "x": "Para refrigerar su CPU y su sensor sin vibraciones, CAIM1 se asoció con Noctua en un sistema de refrigeración activa NF-A4x10. La cámara graba video en 4K, está pensada para deportes de acción y usa un diseño Bring-Your-Own-Lens."
+                "x": "En la serie Pixel 11, Call Screen mejora: Gemini pregunta a quienes llaman desde números desconocidos el motivo de la llamada de forma mucho más conversacional, con una transcripción en directo en pantalla. HiLight ahora es compatible con Google Messages y se ilumina cuando un contacto favorito te escribe mientras el teléfono está boca abajo. Pixel Tag estará disponible el 11 de noviembre."
               }
             ]
           }
@@ -425,195 +425,255 @@
       }
     },
     {
-      "id": "meta-muse-applewatch",
+      "id": "ring-ai-drone-rover-cam",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Meta Muse 에이전트\nApple Watch 진출",
-      "body": "Muse 앱이 Apple Watch를 지원해 손목에서 문자·음성·통화로 부른다.",
-      "mini_headline": "Meta Muse,\nApple Watch로",
+      "headline": "Ring 실내 드론캠\nAI-powered로 귀환",
+      "body": "Ring의 250달러 Drone Cam이 집 안을 날며 위협을 감시한다.",
+      "mini_headline": "Ring AI Drone Cam 귀환",
       "tool": "Gadgets",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/09/meta-muse-apple-watch/",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg",
-            "cap": "Apple Watch의 Muse"
+            "src": "https://media.wired.com/photos/6af233321b32910f5c003593/1:1/w_2560%2Cc_limit/Ring-Drone-Cam-Gear-DSC_0211.jpg",
+            "cap": "Ring의 드론 카메라."
           },
           {
             "t": "p",
-            "x": "Meta가 오늘 iOS용 Muse 앱을 업데이트해 Apple Watch 지원을 추가했다. Muse 사용자는 이제 워치에서도 능동형 AI 에이전트를 쓸 수 있다."
+            "x": "Ring이 250달러짜리 Drone Cam과 1,000달러짜리 이동형 보안 로봇 Ring Rover Cam을 발표했다. Rover Cam은 기업의 창고와 공장 감시용이다. 두 제품 모두 새 브랜드 Ring Robotics로 나온다. Rover Cam이 12월 16일 먼저 출시되고, Drone Cam은 1월 27일 뒤따른다."
           },
           {
             "t": "p",
-            "x": "워치 앱에는 Muse 캐릭터가 뜨고, 문자를 보내거나 음성으로 받아쓰거나 전화를 걸 수 있다. 바로 불러낼 수 있는 Muse 컴플리케이션도 있다."
+            "x": "무게 165그램의 작은 드론은 충전 독에서 떠올라 집 안을 스스로 날아다닌다. Ring은 2020년에도 실내 보안 드론 Ring Always Home Cam을 내놓은 적이 있다. 이번에는 지능을 통째로 클라우드에 맡겼다. 센서를 더 달면 전력과 배터리 소모가 그만큼 커져서다. 드론이 영상을 바로 Ring 서버로 보내면 맞춤형 AI Pilot 에이전트가 갈 곳을 정해 준다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.wired.com/photos/6af23e3b1b32910f5c003599/master/w_1600%2Cc_limit/DSC_0198.jpg",
+            "cap": "Ring Drone Cam이 충전 스테이션에서 날아올라 집 안을 살핀다."
           },
           {
             "t": "p",
-            "x": "Muse는 사용자 대신 일을 처리하는 Meta의 개인 AI 에이전트다. 독립 앱으로 나와 있고 Instagram, Facebook 등 다른 Meta 앱에도 들어가 있다. Meta가 Muse의 상징으로 디자인한 예티 닮은 캐릭터는 인기를 끌었는데, Apple Watch에서도 화면 한가운데를 차지한다."
+            "x": "드론을 직접 조종할 수는 없다. 대신 비행 경로와 순찰 일정을 정해 둘 수 있고, 동작·문·창문 센서가 알림을 보내면 드론이 반응한다. 한 번 충전으로 5~8분 난다. 소음은 일부러 크게 만들었다. 누군가 집 안 사람들 모르게 원격으로 엿보지 못하게 하려는 설계다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.wired.com/photos/6af23e3a1997f5ebb6874fc1/125:94/w_1600%2Cc_limit/DSC_0214.jpg",
+            "cap": "Rover Cam은 창고와 공장을 순찰하도록 설계됐다."
           },
           {
             "t": "p",
-            "x": "워치 앱 디자인은 Meta가 9월 보조 기기로 발표한 Muse Charm과 닮았다."
+            "x": "Rover Cam은 하드웨어 상당 부분이 Amazon Astro와 같다. Drone Cam과 같은 AI Pilot에 늘어나는 4K 카메라, 양방향 대화 기능, 사이렌을 갖췄고 최대 5,000제곱피트를 맡는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Meta's Muse AI agent\narrives on Apple Watch",
-          "body": "Meta's Muse iOS app now supports Apple Watch, letting users text, dictate to or call the AI agent from the wrist.",
-          "mini_headline": "Meta Muse lands\non Apple Watch",
+          "headline": "Ring's indoor Drone Cam\nreturns, now AI-powered",
+          "body": "Ring's $250 Drone Cam flies around the home to monitor threats, and a new Rover Cam reuses Astro's internals.",
+          "mini_headline": "Ring's AI Drone Cam returns",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg",
-                "cap": "Muse on Apple Watch"
+                "src": "https://media.wired.com/photos/6af233321b32910f5c003593/1:1/w_2560%2Cc_limit/Ring-Drone-Cam-Gear-DSC_0211.jpg",
+                "cap": "The drone camera from Ring."
               },
               {
                 "t": "p",
-                "x": "Meta today updated the Muse app for iOS to add Apple Watch support, which means Muse users can access the proactive AI agent from the watch."
+                "x": "Ring announced its Drone Cam for $250, alongside the Ring Rover Cam, a $1,000 roving security robot designed to help businesses monitor warehouses and factories. Both fall under the company's new Ring Robotics brand. The Rover Cam launches first on December 16, followed by the Drone Cam on January 27."
               },
               {
                 "t": "p",
-                "x": "The app adds the Muse character to the watch with an option to text it, dictate text to it, or call it. There's also a Muse complication for quick access."
+                "x": "The tiny, 165-gram drone lifts out of its charging dock and autonomously flies through the home. Ring previously announced an indoor security drone in 2020—the Ring Always Home Cam. Added sensors made it power- and battery-hungry, so the intelligence now sits entirely in the cloud: the drone sends video straight to Ring’s servers, where a custom AI Pilot agent tells it where to go."
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af23e3b1b32910f5c003599/master/w_1600%2Cc_limit/DSC_0198.jpg",
+                "cap": "The Ring Drone Cam flies out of its charging station to monitor the home."
               },
               {
                 "t": "p",
-                "x": "Muse is Meta's personal AI agent that can complete tasks for users. It is available as a standalone app and is also built into Instagram, Facebook, and other Meta apps. The yeti-like character Meta designed to represent Muse has become popular, and it is front and center on the Apple Watch."
+                "x": "Users can't manually control the drone but can set up custom flight routes and patrol schedules, and it responds to alerts from motion, door, or window sensors. It flies five to eight minutes per charge and is loud by design, so a bad actor couldn't remotely snoop without tipping off people in the home."
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af23e3a1997f5ebb6874fc1/125:94/w_1600%2Cc_limit/DSC_0214.jpg",
+                "cap": "The Rover Cam is designed to patrol warehouses and factories."
               },
               {
                 "t": "p",
-                "x": "The watch app design is similar to the Muse Charm Meta announced as a companion device in September."
+                "x": "The Rover Cam shares many of the same hardware guts as Amazon's Astro. It has the same AI Pilot as the Drone Cam, a telescoping 4K camera, two-way talk and a siren, and covers up to 5,000 square feet."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Meta Muse 에이전트\nApple Watch 진출",
-          "body": "Muse 앱이 Apple Watch를 지원해 손목에서 문자·음성·통화로 부른다.",
-          "mini_headline": "Meta Muse,\nApple Watch로",
+          "headline": "Ring 실내 드론캠\nAI-powered로 귀환",
+          "body": "Ring의 250달러 Drone Cam이 집 안을 날며 위협을 감시한다.",
+          "mini_headline": "Ring AI Drone Cam 귀환",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg",
-                "cap": "Apple Watch의 Muse"
+                "src": "https://media.wired.com/photos/6af233321b32910f5c003593/1:1/w_2560%2Cc_limit/Ring-Drone-Cam-Gear-DSC_0211.jpg",
+                "cap": "Ring의 드론 카메라."
               },
               {
                 "t": "p",
-                "x": "Meta가 오늘 iOS용 Muse 앱을 업데이트해 Apple Watch 지원을 추가했다. Muse 사용자는 이제 워치에서도 능동형 AI 에이전트를 쓸 수 있다."
+                "x": "Ring이 250달러짜리 Drone Cam과 1,000달러짜리 이동형 보안 로봇 Ring Rover Cam을 발표했다. Rover Cam은 기업의 창고와 공장 감시용이다. 두 제품 모두 새 브랜드 Ring Robotics로 나온다. Rover Cam이 12월 16일 먼저 출시되고, Drone Cam은 1월 27일 뒤따른다."
               },
               {
                 "t": "p",
-                "x": "워치 앱에는 Muse 캐릭터가 뜨고, 문자를 보내거나 음성으로 받아쓰거나 전화를 걸 수 있다. 바로 불러낼 수 있는 Muse 컴플리케이션도 있다."
+                "x": "무게 165그램의 작은 드론은 충전 독에서 떠올라 집 안을 스스로 날아다닌다. Ring은 2020년에도 실내 보안 드론 Ring Always Home Cam을 내놓은 적이 있다. 이번에는 지능을 통째로 클라우드에 맡겼다. 센서를 더 달면 전력과 배터리 소모가 그만큼 커져서다. 드론이 영상을 바로 Ring 서버로 보내면 맞춤형 AI Pilot 에이전트가 갈 곳을 정해 준다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af23e3b1b32910f5c003599/master/w_1600%2Cc_limit/DSC_0198.jpg",
+                "cap": "Ring Drone Cam이 충전 스테이션에서 날아올라 집 안을 살핀다."
               },
               {
                 "t": "p",
-                "x": "Muse는 사용자 대신 일을 처리하는 Meta의 개인 AI 에이전트다. 독립 앱으로 나와 있고 Instagram, Facebook 등 다른 Meta 앱에도 들어가 있다. Meta가 Muse의 상징으로 디자인한 예티 닮은 캐릭터는 인기를 끌었는데, Apple Watch에서도 화면 한가운데를 차지한다."
+                "x": "드론을 직접 조종할 수는 없다. 대신 비행 경로와 순찰 일정을 정해 둘 수 있고, 동작·문·창문 센서가 알림을 보내면 드론이 반응한다. 한 번 충전으로 5~8분 난다. 소음은 일부러 크게 만들었다. 누군가 집 안 사람들 모르게 원격으로 엿보지 못하게 하려는 설계다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af23e3a1997f5ebb6874fc1/125:94/w_1600%2Cc_limit/DSC_0214.jpg",
+                "cap": "Rover Cam은 창고와 공장을 순찰하도록 설계됐다."
               },
               {
                 "t": "p",
-                "x": "워치 앱 디자인은 Meta가 9월 보조 기기로 발표한 Muse Charm과 닮았다."
+                "x": "Rover Cam은 하드웨어 상당 부분이 Amazon Astro와 같다. Drone Cam과 같은 AI Pilot에 늘어나는 4K 카메라, 양방향 대화 기능, 사이렌을 갖췄고 최대 5,000제곱피트를 맡는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Meta Museが\nApple Watchに対応",
-          "body": "MuseのiOSアプリがApple Watchに対応し、手首からAIを呼び出せる。",
-          "mini_headline": "Meta Museが\nApple Watchに",
+          "headline": "Ringの屋内ドローンカム\n復活、AI-poweredに",
+          "body": "Ringの250ドルのDrone Camが家中を飛び回り、脅威を監視する。",
+          "mini_headline": "RingのAI Drone Camが復活",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg",
-                "cap": "Apple Watch上のMuse"
+                "src": "https://media.wired.com/photos/6af233321b32910f5c003593/1:1/w_2560%2Cc_limit/Ring-Drone-Cam-Gear-DSC_0211.jpg",
+                "cap": "Ringのドローンカメラ。"
               },
               {
                 "t": "p",
-                "x": "Metaは本日、iOS向けMuseアプリをアップデートし、Apple Watchへの対応を追加した。これによりMuseユーザーは、能動的なAIエージェントにウォッチからアクセスできる。"
+                "x": "RingはDrone Camを250ドルで発表した。あわせて、企業の倉庫や工場の監視を支援する1,000ドルの移動式セキュリティロボットRing Rover Camも発表した。いずれも同社の新ブランドRing Roboticsに属する。Rover Camが12月16日に先行発売され、Drone Camが1月27日に続く。"
               },
               {
                 "t": "p",
-                "x": "アプリはウォッチにMuseのキャラクターを表示し、テキストを送る、音声で入力する、通話するといった操作ができる。素早くアクセスするためのMuseコンプリケーションも用意されている。"
+                "x": "重さ165グラムの小型ドローンは充電ドックから浮上し、家の中を自律飛行する。Ringは2020年にも屋内セキュリティドローンRing Always Home Camを発表していた。センサーを追加すると電力とバッテリーを多く消費するため、今回は知能をすべてクラウドに置いた。ドローンは映像を直接Ringのサーバーに送り、独自のAI Pilotエージェントが行き先を指示する。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af23e3b1b32910f5c003599/master/w_1600%2Cc_limit/DSC_0198.jpg",
+                "cap": "Ring Drone Camは充電ステーションから飛び立ち、家の中を見回る。"
               },
               {
                 "t": "p",
-                "x": "Museは、ユーザーに代わってタスクをこなすMetaのパーソナルAIエージェントだ。単体アプリとして提供されるほか、Instagram、FacebookなどのMetaアプリにも組み込まれている。MetaがMuseの象徴としてデザインしたイエティ風のキャラクターは人気を集めており、Apple Watchでも画面の中心に据えられている。"
+                "x": "ユーザーはドローンを手動で操縦できないが、独自の飛行ルートや巡回スケジュールを設定でき、ドローンはモーション、ドア、窓のセンサーからの通知に反応する。1回の充電で5〜8分飛行し、あえて大きな音が出る設計のため、悪意ある人物が家にいる人に気づかれずに遠隔でのぞき見ることはできない。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af23e3a1997f5ebb6874fc1/125:94/w_1600%2Cc_limit/DSC_0214.jpg",
+                "cap": "Rover Camは倉庫や工場の巡回用に設計されている。"
               },
               {
                 "t": "p",
-                "x": "ウォッチアプリのデザインは、Metaが9月にコンパニオンデバイスとして発表したMuse Charmに似ている。"
+                "x": "Rover CamはAmazonのAstroと多くのハードウェアを共有する。Drone Camと同じAI Pilot、伸縮式の4K カメラ、双方向通話とサイレンを備え、最大5,000平方フィートをカバーする。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta的Muse AI代理\n登陆Apple Watch",
-          "body": "Muse iOS应用现已支持Apple Watch，用户可在手腕上呼叫AI代理。",
-          "mini_headline": "Meta Muse\n登陆Apple Watch",
+          "headline": "Ring室内无人机摄像头\nAI-powered版回归",
+          "body": "Ring售价250美元的Drone Cam可在家中飞行，监测潜在威胁。",
+          "mini_headline": "Ring AI Drone Cam回归",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg",
-                "cap": "Apple Watch上的Muse"
+                "src": "https://media.wired.com/photos/6af233321b32910f5c003593/1:1/w_2560%2Cc_limit/Ring-Drone-Cam-Gear-DSC_0211.jpg",
+                "cap": "Ring推出的无人机摄像头。"
               },
               {
                 "t": "p",
-                "x": "Meta今天更新了iOS版Muse应用，新增对Apple Watch的支持，Muse用户可以通过手表使用这款主动式AI代理。"
+                "x": "Ring发布了售价250美元的Drone Cam，同时推出售价1,000美元的移动安防机器人Ring Rover Cam，用于帮助企业监控仓库和工厂。两款产品都归入公司新品牌Ring Robotics。Rover Cam将于12月16日率先上市，Drone Cam随后于1月27日推出。"
               },
               {
                 "t": "p",
-                "x": "该应用将Muse角色带到手表上，用户可以给它发消息、向它口述文字或给它打电话。此外还有一个Muse表盘复杂功能，方便快速访问。"
+                "x": "这款重165克的小型无人机会从充电座升起，在家中自主飞行。Ring曾在2020年发布过一款室内安防无人机Ring Always Home Cam。增加传感器会大量消耗电力和电池，因此如今的智能全部放在云端：无人机将视频直接传到Ring的服务器，由定制的AI Pilot智能体告诉它该去哪里。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af23e3b1b32910f5c003599/master/w_1600%2Cc_limit/DSC_0198.jpg",
+                "cap": "Ring Drone Cam从充电站飞出，巡视家中。"
               },
               {
                 "t": "p",
-                "x": "Muse是Meta的个人AI代理，能够替用户完成任务。它既有独立应用，也内置于Instagram、Facebook和其他Meta应用中。Meta为代表Muse而设计的雪人般的角色颇受欢迎，在Apple Watch上也占据了界面中央。"
+                "x": "用户无法手动操控这架无人机，但可以设置自定义飞行路线和巡逻时间表，它也会响应运动、门窗传感器发出的警报。每次充电可飞行五到八分钟，并刻意设计得很吵，这样不法分子就无法在不惊动家中人员的情况下远程窥探。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af23e3a1997f5ebb6874fc1/125:94/w_1600%2Cc_limit/DSC_0214.jpg",
+                "cap": "Rover Cam专为巡逻仓库和工厂而设计。"
               },
               {
                 "t": "p",
-                "x": "该手表应用的设计与Meta在9月作为配套设备发布的Muse Charm相似。"
+                "x": "Rover Cam与Amazon的Astro共用大量硬件。它配备与Drone Cam相同的AI Pilot、一台可伸缩的4K 摄像头、双向对讲和警报器，覆盖面积最高可达5,000平方英尺。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El agente de IA Muse de Meta\nllega al Apple Watch",
-          "body": "La app Muse de Meta para iOS admite Apple Watch y permite escribir, dictar o llamar al agente de IA desde la muñeca.",
-          "mini_headline": "Meta Muse llega\nal Apple Watch",
+          "headline": "Vuelve la Drone Cam de Ring\nde interior, ahora AI-powered",
+          "body": "La Drone Cam de Ring, de 250 dólares, recorre la casa para vigilar amenazas, y la Rover Cam reutiliza piezas de Astro.",
+          "mini_headline": "Regresa la Drone Cam con IA de Ring",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg",
-                "cap": "Muse en el Apple Watch"
+                "src": "https://media.wired.com/photos/6af233321b32910f5c003593/1:1/w_2560%2Cc_limit/Ring-Drone-Cam-Gear-DSC_0211.jpg",
+                "cap": "La cámara dron de Ring."
               },
               {
                 "t": "p",
-                "x": "Meta actualizó hoy la app Muse para iOS para añadir compatibilidad con Apple Watch, lo que permite a los usuarios de Muse acceder al agente de IA proactivo desde el reloj."
+                "x": "Ring anunció su Drone Cam por 250 dólares, junto con la Ring Rover Cam, un robot de seguridad móvil de 1000 dólares pensado para ayudar a las empresas a vigilar almacenes y fábricas. Ambos forman parte de la nueva marca Ring Robotics de la compañía. La Rover Cam saldrá primero, el 16 de diciembre, y la Drone Cam le seguirá el 27 de enero."
               },
               {
                 "t": "p",
-                "x": "La app añade el personaje de Muse al reloj con la opción de enviarle mensajes de texto, dictarle texto o llamarlo. También hay una complicación de Muse para acceder rápidamente."
+                "x": "El pequeño dron de 165 gramos se eleva desde su base de carga y vuela de forma autónoma por la casa. Ring ya había anunciado en 2020 un dron de seguridad para interiores, la Ring Always Home Cam. Añadir sensores dispara el consumo de energía y batería, así que ahora la inteligencia reside por completo en la nube: el dron envía el vídeo directamente a los servidores de Ring, donde un agente AI Pilot personalizado le indica adónde ir."
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af23e3b1b32910f5c003599/master/w_1600%2Cc_limit/DSC_0198.jpg",
+                "cap": "La Ring Drone Cam sale volando de su estación de carga para vigilar la casa."
               },
               {
                 "t": "p",
-                "x": "Muse es el agente personal de IA de Meta, capaz de completar tareas por los usuarios. Está disponible como app independiente y también integrado en Instagram, Facebook y otras apps de Meta. El personaje con aspecto de yeti que Meta diseñó para representar a Muse se ha vuelto popular y ocupa el centro de la pantalla en el Apple Watch."
+                "x": "Los usuarios no pueden controlar el dron manualmente, pero sí configurar rutas de vuelo y horarios de patrulla, y el dron responde a las alertas de los sensores de movimiento, puertas o ventanas. Vuela de cinco a ocho minutos por carga y es ruidoso a propósito, para que nadie con malas intenciones pueda espiar a distancia sin alertar a quienes están en casa."
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af23e3a1997f5ebb6874fc1/125:94/w_1600%2Cc_limit/DSC_0214.jpg",
+                "cap": "La Rover Cam está diseñada para patrullar almacenes y fábricas."
               },
               {
                 "t": "p",
-                "x": "El diseño de la app para el reloj es similar al Muse Charm que Meta anunció como dispositivo complementario en septiembre."
+                "x": "La Rover Cam comparte gran parte del hardware de Astro, de Amazon. Tiene el mismo AI Pilot que la Drone Cam, una cámara 4K telescópica, conversación bidireccional y sirena, y cubre hasta 5000 pies cuadrados."
               }
             ]
           }
@@ -621,125 +681,165 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Meta Muse 에이전트\nApple Watch 진출",
-          "body": "Muse 앱이 Apple Watch를 지원해 손목에서 문자·음성·통화로 부른다.",
-          "mini_headline": "Meta Muse,\nApple Watch로",
+          "headline": "Ring 실내 드론캠\nAI-powered로 귀환",
+          "body": "Ring의 250달러 Drone Cam이 집 안을 날며 위협을 감시한다.",
+          "mini_headline": "Ring AI Drone Cam 귀환",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg",
-                "cap": "Apple Watch의 Muse"
+                "src": "https://media.wired.com/photos/6af233321b32910f5c003593/1:1/w_2560%2Cc_limit/Ring-Drone-Cam-Gear-DSC_0211.jpg",
+                "cap": "Ring의 드론 카메라."
               },
               {
                 "t": "p",
-                "x": "Meta는 오늘 iOS용 Muse 앱을 업데이트해 Apple Watch 지원을 추가했다. 이제 Muse 사용자는 워치에서 능동형 AI 에이전트를 이용할 수 있다."
+                "x": "Ring은 250달러짜리 Drone Cam과 함께, 기업이 창고와 공장을 감시하도록 돕는 1,000달러짜리 이동형 보안 로봇 Ring Rover Cam을 발표했다. 두 제품 모두 회사의 새 브랜드 Ring Robotics에 속한다. Rover Cam이 12월 16일 먼저 출시되고, Drone Cam은 1월 27일에 뒤따른다."
               },
               {
                 "t": "p",
-                "x": "앱은 워치에 Muse 캐릭터를 띄우며, 문자를 보내거나 음성으로 받아쓰게 하거나 전화를 걸 수 있다. 빠르게 접근할 수 있는 Muse 컴플리케이션도 있다."
+                "x": "165그램의 작은 드론은 충전 독에서 떠올라 집 안을 자율 비행한다. Ring은 2020년에도 실내 보안 드론 Ring Always Home Cam을 발표한 적이 있다. 센서를 더하면 전력과 배터리 소모가 커지기 때문에 이번에는 지능을 전부 클라우드에 두었다. 드론이 영상을 곧바로 Ring 서버로 보내면, 맞춤형 AI Pilot 에이전트가 어디로 갈지 지시한다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af23e3b1b32910f5c003599/master/w_1600%2Cc_limit/DSC_0198.jpg",
+                "cap": "Ring Drone Cam이 충전 스테이션에서 날아올라 집 안을 살핀다."
               },
               {
                 "t": "p",
-                "x": "Muse는 사용자 대신 작업을 처리하는 Meta의 개인용 AI 에이전트다. 독립 앱으로 제공되며 Instagram, Facebook 등 다른 Meta 앱에도 내장돼 있다. Meta가 Muse를 상징하도록 디자인한 예티 같은 캐릭터는 인기를 끌었고, Apple Watch에서도 화면 한가운데를 차지한다."
+                "x": "사용자는 드론을 직접 조종할 수 없지만 맞춤 비행 경로와 순찰 일정을 설정할 수 있고, 드론은 동작·문·창문 센서의 알림에 반응한다. 한 번 충전에 5~8분 비행하며, 일부러 소음이 크게 설계해 악의적인 사람이 집 안 사람들 모르게 원격으로 엿볼 수 없도록 했다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af23e3a1997f5ebb6874fc1/125:94/w_1600%2Cc_limit/DSC_0214.jpg",
+                "cap": "Rover Cam은 창고와 공장을 순찰하도록 설계됐다."
               },
               {
                 "t": "p",
-                "x": "워치 앱 디자인은 Meta가 9월 보조 기기로 발표한 Muse Charm과 비슷하다."
+                "x": "Rover Cam은 Amazon Astro와 하드웨어 상당 부분을 공유한다. Drone Cam과 같은 AI Pilot, 늘어나는 4K 카메라, 양방향 대화 기능과 사이렌을 갖췄고, 최대 5,000제곱피트를 커버한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Meta Museが\nApple Watchに対応",
-          "body": "MuseのiOSアプリがApple Watchに対応し、手首からAIを呼び出せる。",
-          "mini_headline": "Meta Museが\nApple Watchに",
+          "headline": "Ringの屋内ドローンカム\n復活、AI-poweredに",
+          "body": "Ringの250ドルのDrone Camが家中を飛び回り、脅威を監視する。",
+          "mini_headline": "RingのAI Drone Camが復活",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg",
-                "cap": "Apple Watch上のMuse"
+                "src": "https://media.wired.com/photos/6af233321b32910f5c003593/1:1/w_2560%2Cc_limit/Ring-Drone-Cam-Gear-DSC_0211.jpg",
+                "cap": "Ringのドローンカメラ。"
               },
               {
                 "t": "p",
-                "x": "Metaは本日、iOS向けMuseアプリをアップデートし、Apple Watchへの対応を追加した。これによりMuseユーザーは、能動的なAIエージェントにウォッチからアクセスできる。"
+                "x": "RingはDrone Camを250ドルで発表した。あわせて、企業の倉庫や工場の監視を支援する1,000ドルの移動式セキュリティロボットRing Rover Camも発表した。いずれも同社の新ブランドRing Roboticsに属する。Rover Camが12月16日に先行発売され、Drone Camが1月27日に続く。"
               },
               {
                 "t": "p",
-                "x": "アプリはウォッチにMuseのキャラクターを表示し、テキストを送る、音声で入力する、通話するといった操作ができる。素早くアクセスするためのMuseコンプリケーションも用意されている。"
+                "x": "重さ165グラムの小型ドローンは充電ドックから浮上し、家の中を自律飛行する。Ringは2020年にも屋内セキュリティドローンRing Always Home Camを発表していた。センサーを追加すると電力とバッテリーを多く消費するため、今回は知能をすべてクラウドに置いた。ドローンは映像を直接Ringのサーバーに送り、独自のAI Pilotエージェントが行き先を指示する。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af23e3b1b32910f5c003599/master/w_1600%2Cc_limit/DSC_0198.jpg",
+                "cap": "Ring Drone Camは充電ステーションから飛び立ち、家の中を見回る。"
               },
               {
                 "t": "p",
-                "x": "Museは、ユーザーに代わってタスクをこなすMetaのパーソナルAIエージェントだ。単体アプリとして提供されるほか、Instagram、FacebookなどのMetaアプリにも組み込まれている。MetaがMuseの象徴としてデザインしたイエティ風のキャラクターは人気を集めており、Apple Watchでも画面の中心に据えられている。"
+                "x": "ユーザーはドローンを手動で操縦できないが、独自の飛行ルートや巡回スケジュールを設定でき、ドローンはモーション、ドア、窓のセンサーからの通知に反応する。1回の充電で5〜8分飛行し、あえて大きな音が出る設計のため、悪意ある人物が家にいる人に気づかれずに遠隔でのぞき見ることはできない。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af23e3a1997f5ebb6874fc1/125:94/w_1600%2Cc_limit/DSC_0214.jpg",
+                "cap": "Rover Camは倉庫や工場の巡回用に設計されている。"
               },
               {
                 "t": "p",
-                "x": "ウォッチアプリのデザインは、Metaが9月にコンパニオンデバイスとして発表したMuse Charmに似ている。"
+                "x": "Rover CamはAmazonのAstroと多くのハードウェアを共有する。Drone Camと同じAI Pilot、伸縮式の4K カメラ、双方向通話とサイレンを備え、最大5,000平方フィートをカバーする。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta的Muse AI代理\n登陆Apple Watch",
-          "body": "Muse iOS应用现已支持Apple Watch，用户可在手腕上呼叫AI代理。",
-          "mini_headline": "Meta Muse\n登陆Apple Watch",
+          "headline": "Ring室内无人机摄像头\nAI-powered版回归",
+          "body": "Ring售价250美元的Drone Cam可在家中飞行，监测潜在威胁。",
+          "mini_headline": "Ring AI Drone Cam回归",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg",
-                "cap": "Apple Watch上的Muse"
+                "src": "https://media.wired.com/photos/6af233321b32910f5c003593/1:1/w_2560%2Cc_limit/Ring-Drone-Cam-Gear-DSC_0211.jpg",
+                "cap": "Ring推出的无人机摄像头。"
               },
               {
                 "t": "p",
-                "x": "Meta今天更新了iOS版Muse应用，新增对Apple Watch的支持，Muse用户可以通过手表使用这款主动式AI代理。"
+                "x": "Ring发布了售价250美元的Drone Cam，同时推出售价1,000美元的移动安防机器人Ring Rover Cam，用于帮助企业监控仓库和工厂。两款产品都归入公司新品牌Ring Robotics。Rover Cam将于12月16日率先上市，Drone Cam随后于1月27日推出。"
               },
               {
                 "t": "p",
-                "x": "该应用将Muse角色带到手表上，用户可以给它发消息、向它口述文字或给它打电话。此外还有一个Muse表盘复杂功能，方便快速访问。"
+                "x": "这款重165克的小型无人机会从充电座升起，在家中自主飞行。Ring曾在2020年发布过一款室内安防无人机Ring Always Home Cam。增加传感器会大量消耗电力和电池，因此如今的智能全部放在云端：无人机将视频直接传到Ring的服务器，由定制的AI Pilot智能体告诉它该去哪里。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af23e3b1b32910f5c003599/master/w_1600%2Cc_limit/DSC_0198.jpg",
+                "cap": "Ring Drone Cam从充电站飞出，巡视家中。"
               },
               {
                 "t": "p",
-                "x": "Muse是Meta的个人AI代理，能够替用户完成任务。它既有独立应用，也内置于Instagram、Facebook和其他Meta应用中。Meta为代表Muse而设计的雪人般的角色颇受欢迎，在Apple Watch上也占据了界面中央。"
+                "x": "用户无法手动操控这架无人机，但可以设置自定义飞行路线和巡逻时间表，它也会响应运动、门窗传感器发出的警报。每次充电可飞行五到八分钟，并刻意设计得很吵，这样不法分子就无法在不惊动家中人员的情况下远程窥探。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af23e3a1997f5ebb6874fc1/125:94/w_1600%2Cc_limit/DSC_0214.jpg",
+                "cap": "Rover Cam专为巡逻仓库和工厂而设计。"
               },
               {
                 "t": "p",
-                "x": "该手表应用的设计与Meta在9月作为配套设备发布的Muse Charm相似。"
+                "x": "Rover Cam与Amazon的Astro共用大量硬件。它配备与Drone Cam相同的AI Pilot、一台可伸缩的4K 摄像头、双向对讲和警报器，覆盖面积最高可达5,000平方英尺。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El agente de IA Muse de Meta\nllega al Apple Watch",
-          "body": "La app Muse de Meta para iOS admite Apple Watch y permite escribir, dictar o llamar al agente de IA desde la muñeca.",
-          "mini_headline": "Meta Muse llega\nal Apple Watch",
+          "headline": "Vuelve la Drone Cam de Ring\nde interior, ahora AI-powered",
+          "body": "La Drone Cam de Ring, de 250 dólares, recorre la casa para vigilar amenazas, y la Rover Cam reutiliza piezas de Astro.",
+          "mini_headline": "Regresa la Drone Cam con IA de Ring",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg",
-                "cap": "Muse en el Apple Watch"
+                "src": "https://media.wired.com/photos/6af233321b32910f5c003593/1:1/w_2560%2Cc_limit/Ring-Drone-Cam-Gear-DSC_0211.jpg",
+                "cap": "La cámara dron de Ring."
               },
               {
                 "t": "p",
-                "x": "Meta actualizó hoy la app Muse para iOS para añadir compatibilidad con Apple Watch, lo que permite a los usuarios de Muse acceder al agente de IA proactivo desde el reloj."
+                "x": "Ring anunció su Drone Cam por 250 dólares, junto con la Ring Rover Cam, un robot de seguridad móvil de 1000 dólares pensado para ayudar a las empresas a vigilar almacenes y fábricas. Ambos forman parte de la nueva marca Ring Robotics de la compañía. La Rover Cam saldrá primero, el 16 de diciembre, y la Drone Cam le seguirá el 27 de enero."
               },
               {
                 "t": "p",
-                "x": "La app añade el personaje de Muse al reloj con la opción de enviarle mensajes de texto, dictarle texto o llamarlo. También hay una complicación de Muse para acceder rápidamente."
+                "x": "El pequeño dron de 165 gramos se eleva desde su base de carga y vuela de forma autónoma por la casa. Ring ya había anunciado en 2020 un dron de seguridad para interiores, la Ring Always Home Cam. Añadir sensores dispara el consumo de energía y batería, así que ahora la inteligencia reside por completo en la nube: el dron envía el vídeo directamente a los servidores de Ring, donde un agente AI Pilot personalizado le indica adónde ir."
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af23e3b1b32910f5c003599/master/w_1600%2Cc_limit/DSC_0198.jpg",
+                "cap": "La Ring Drone Cam sale volando de su estación de carga para vigilar la casa."
               },
               {
                 "t": "p",
-                "x": "Muse es el agente personal de IA de Meta, capaz de completar tareas por los usuarios. Está disponible como app independiente y también integrado en Instagram, Facebook y otras apps de Meta. El personaje con aspecto de yeti que Meta diseñó para representar a Muse se ha vuelto popular y ocupa el centro de la pantalla en el Apple Watch."
+                "x": "Los usuarios no pueden controlar el dron manualmente, pero sí configurar rutas de vuelo y horarios de patrulla, y el dron responde a las alertas de los sensores de movimiento, puertas o ventanas. Vuela de cinco a ocho minutos por carga y es ruidoso a propósito, para que nadie con malas intenciones pueda espiar a distancia sin alertar a quienes están en casa."
+              },
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af23e3a1997f5ebb6874fc1/125:94/w_1600%2Cc_limit/DSC_0214.jpg",
+                "cap": "La Rover Cam está diseñada para patrullar almacenes y fábricas."
               },
               {
                 "t": "p",
-                "x": "El diseño de la app para el reloj es similar al Muse Charm que Meta anunció como dispositivo complementario en septiembre."
+                "x": "La Rover Cam comparte gran parte del hardware de Astro, de Amazon. Tiene el mismo AI Pilot que la Drone Cam, una cámara 4K telescópica, conversación bidireccional y sirena, y cubre hasta 5000 pies cuadrados."
               }
             ]
           }
@@ -747,15 +847,15 @@
       }
     },
     {
-      "id": "samsung-memory-screenshots",
+      "id": "kora-linux-ai-desktop-os",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "삼성, 스크린샷\n정리 AI 앱 개발",
-      "body": "삼성이 스크린샷·링크·텍스트·음성 메모를 모으는 앱 Memory를 만든다고 한다.",
-      "mini_headline": "삼성 Memory 앱,\n스크린샷 정리",
+      "headline": "로컬 AI 겨냥한 새\nLinux 데스크톱 OS",
+      "body": "Kora는 로컬 AI 모델 실행을 내세운 Linux 기반 데스크톱 OS다.",
+      "mini_headline": "로컬 AI용 데스크톱 OS, Kora",
       "tool": "Gadgets",
-      "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/phones/samsung-is-working-on-a-new-galaxy-ai-app-to-clean-up-the-screenshot-mess-youve-been-pretending-doesnt-exist/",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
@@ -763,209 +863,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-inner-screen-scaled.jpg?resize=1200%2C720&ssl=1",
-            "cap": "Galaxy Z Fold 8 Ultra 내부 화면"
+            "src": "https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/w_2560%2Cc_limit/gear_ai_operating_system_nerdy.jpg",
+            "cap": "머리가 컴퓨터인 사람이 데스크톱 컴퓨터 앞에 앉아 있다"
           },
           {
             "t": "p",
-            "x": "삼성(Samsung)이 Galaxy AI 기반(AI-powered) 새 앱 Memory를 개발 중이라는 소식이다. SamMobile은 \"이 앱은 사용자가 스크린샷, 링크, 텍스트, 가져온 콘텐츠, 음성 메모를 한곳에 모으고 AI가 이를 모두 정리해 주는 기능을 제공하는 것으로 전해졌다\"고 보도했다. 삼성은 아직 공식 발표를 하지 않았지만, 앱은 One UI 9.5와 함께 나올 가능성이 크다."
+            "x": "CEO이자 공동 창업자인 Kirt McMaster는 화요일 공개한 Kora가 “대중 시장이 아닌 AI 네이티브”를 위한 Windows나 macOS의 데스크톱 대안이라고 말한다. 크리에이터와 개발자를 겨냥한 이 OS는 AI 모델을 시스템 수준에서 한데 모으는 데 초점을 맞췄다. 출시는 2027년 중 예정이다."
           },
           {
             "t": "p",
-            "x": "콘텐츠는 스크린샷, 공유(Share) 메뉴, 링크·텍스트 붙여넣기, 음성 메모로 저장하며, 세 손가락으로 아래로 쓸어내려 스크린샷을 찍는 단축 동작 등도 지원한다."
+            "x": "“모든 맥락, 모든 메모리가 당신의 기기 안에 있다”는 게 공동 창업자 Franck De Girolami의 설명이다. 그가 든 예는 AI 토큰 비용을 아끼려고 OpenAI 모델에서 Anthropic의 도구로, 다시 로컬 모델로 옮겨 가는 프로젝트다."
           },
           {
             "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/09/samsung-galaxy-z-fold-7-oneui8-4095.jpg?resize=4492%2C2695&ssl=1",
-            "cap": "Galaxy Z Fold 7의 Samsung One UI 8 폴더블 잠금 화면."
+            "src": "https://media.wired.com/photos/6af284baa8b94cafb9dc4873/master/w_1600%2Cc_limit/Screenshot%25202026-11-09%2520at%25201.37.41%25E2%2580%25AFPM.png",
+            "cap": "Kora"
           },
           {
             "t": "p",
-            "x": "Memory는 AI로 제목을 짓고 콘텐츠를 요약하며, 관련 태그를 달아 관련 항목을 컬렉션으로 묶는다. 웹 페이지 스크린샷을 알아보고 원본 링크를 찾아 주기도 한다. Google의 Pixel Screenshots와 Oppo의 Mind Space에도 비슷한 기능이 있다."
+            "x": "Kora는 Linux 커널 위에 올린 독립형 운영체제다. 회사는 Qualcomm과 손잡고 내년 Snapdragon PCs에 Kora를 넣을 계획이고, x86-64도 지원한다. 일반 Windows 앱은 호환성 계층으로 돌리고, “신경망 파일 시스템”이 파일 데이터를 의미별로 색인한다."
           },
           {
             "t": "p",
-            "x": "삼성은 저장한 콘텐츠를 기기 안에서만 처리할 수 있다고 밝혔지만, 일부 고급 인텔리전스 기능은 온라인 처리가 필요하다. Memory는 몇 주 안에 One UI 9.5와 함께 나올 것으로 보이나, 어디까지나 예상일 뿐 공식 약속은 아니다."
+            "x": "McMaster는 Cyanogen을 공동 창업하고 이끄는 데 힘을 보탰다. Kora는 RAM이 최소 64기가바이트인 데스크톱에 맞춰져 있다. 칩 성능을 많이 요구하는 AI 모델을 돌리려는 파워 유저가 대상이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Samsung is building a Galaxy AI\napp to tame screenshot clutter",
-          "body": "Samsung is reportedly building Memory, an app that sorts screenshots, links, text and voice notes into collections.",
-          "mini_headline": "Samsung Memory app\ntames screenshots",
+          "headline": "A new Linux desktop OS\nbuilt for local AI models",
+          "body": "Kora, from Cyanogen's cofounder, is a Linux desktop OS pitched against Windows and macOS for running local AI models.",
+          "mini_headline": "Kora, a desktop OS for local AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-inner-screen-scaled.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Galaxy Z Fold 8 Ultra inner screen"
+                "src": "https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/w_2560%2Cc_limit/gear_ai_operating_system_nerdy.jpg",
+                "cap": "A person with a computer for a head sitting at a desktop computer"
               },
               {
                 "t": "p",
-                "x": "Samsung reportedly is developing a new Galaxy AI-powered app called Memory. \"The app is said to enable users to collect screenshots, links, text, imported content and voice notes in one place, with AI doing the work of organizing everything,\" SamMobile reports. Samsung hasn't announced anything officially, but the app will probably arrive with One UI 9.5."
+                "x": "Kora, announced on Tuesday, is designed as a desktop alternative to Windows or macOS for “the AI native, not mass market,” says CEO and cofounder Kirt McMaster. Targeted to creators and developers, its central idea is to bring AI models together at the system level. It’s scheduled to launch sometime in 2027."
               },
               {
                 "t": "p",
-                "x": "Users can save content by screenshot, the Share menu, pasted links or text, and voice notes, with shortcuts like a three-finger swipe down for screenshots."
+                "x": "“All your context, all your memory is on your machine,” says cofounder Franck De Girolami, describing a project that moves from an OpenAI model to Anthropic’s tools to a local model to save money on AI tokens."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/09/samsung-galaxy-z-fold-7-oneui8-4095.jpg?resize=4492%2C2695&ssl=1",
-                "cap": "Foldable lock screen in Samsung One UI 8 on Galaxy Z Fold 7."
+                "src": "https://media.wired.com/photos/6af284baa8b94cafb9dc4873/master/w_1600%2Cc_limit/Screenshot%25202026-11-09%2520at%25201.37.41%25E2%2580%25AFPM.png",
+                "cap": "Kora"
               },
               {
                 "t": "p",
-                "x": "Memory uses AI to generate a title, summarize content, add relevant tags, and group related items into collections. It can even recognize screenshots of web pages and search for the original link. Google's Pixel Screenshots and Oppo's Mind Space do something similar."
+                "x": "Kora is a standalone operating system built on the Linux kernel. The startup has partnered with Qualcomm to bring it to Snapdragon PCs next year, and it also supports x86-64. Compatibility layers will run standard Windows apps, and a \"neural file system\" indexes file data by meaning."
               },
               {
                 "t": "p",
-                "x": "Samsung says saved content can be processed only on the device, although some advanced intelligence features require online processing. Memory is expected to ship with One UI 9.5 in the coming weeks, but that's an expectation, not an official promise."
+                "x": "McMaster cofounded and helped lead Cyanogen. Kora is optimized for desktops with at least 64 gigabytes of RAM, for power users who want to run AI models that require serious chip power."
               }
             ]
           }
         },
         "ko": {
-          "headline": "삼성, 스크린샷\n정리 AI 앱 개발",
-          "body": "삼성이 스크린샷·링크·텍스트·음성 메모를 모으는 앱 Memory를 만든다고 한다.",
-          "mini_headline": "삼성 Memory 앱,\n스크린샷 정리",
+          "headline": "로컬 AI 겨냥한 새\nLinux 데스크톱 OS",
+          "body": "Kora는 로컬 AI 모델 실행을 내세운 Linux 기반 데스크톱 OS다.",
+          "mini_headline": "로컬 AI용 데스크톱 OS, Kora",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-inner-screen-scaled.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Galaxy Z Fold 8 Ultra 내부 화면"
+                "src": "https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/w_2560%2Cc_limit/gear_ai_operating_system_nerdy.jpg",
+                "cap": "머리가 컴퓨터인 사람이 데스크톱 컴퓨터 앞에 앉아 있다"
               },
               {
                 "t": "p",
-                "x": "삼성(Samsung)이 Galaxy AI 기반(AI-powered) 새 앱 Memory를 개발 중이라는 소식이다. SamMobile은 \"이 앱은 사용자가 스크린샷, 링크, 텍스트, 가져온 콘텐츠, 음성 메모를 한곳에 모으고 AI가 이를 모두 정리해 주는 기능을 제공하는 것으로 전해졌다\"고 보도했다. 삼성은 아직 공식 발표를 하지 않았지만, 앱은 One UI 9.5와 함께 나올 가능성이 크다."
+                "x": "CEO이자 공동 창업자인 Kirt McMaster는 화요일 공개한 Kora가 “대중 시장이 아닌 AI 네이티브”를 위한 Windows나 macOS의 데스크톱 대안이라고 말한다. 크리에이터와 개발자를 겨냥한 이 OS는 AI 모델을 시스템 수준에서 한데 모으는 데 초점을 맞췄다. 출시는 2027년 중 예정이다."
               },
               {
                 "t": "p",
-                "x": "콘텐츠는 스크린샷, 공유(Share) 메뉴, 링크·텍스트 붙여넣기, 음성 메모로 저장하며, 세 손가락으로 아래로 쓸어내려 스크린샷을 찍는 단축 동작 등도 지원한다."
+                "x": "“모든 맥락, 모든 메모리가 당신의 기기 안에 있다”는 게 공동 창업자 Franck De Girolami의 설명이다. 그가 든 예는 AI 토큰 비용을 아끼려고 OpenAI 모델에서 Anthropic의 도구로, 다시 로컬 모델로 옮겨 가는 프로젝트다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/09/samsung-galaxy-z-fold-7-oneui8-4095.jpg?resize=4492%2C2695&ssl=1",
-                "cap": "Galaxy Z Fold 7의 Samsung One UI 8 폴더블 잠금 화면."
+                "src": "https://media.wired.com/photos/6af284baa8b94cafb9dc4873/master/w_1600%2Cc_limit/Screenshot%25202026-11-09%2520at%25201.37.41%25E2%2580%25AFPM.png",
+                "cap": "Kora"
               },
               {
                 "t": "p",
-                "x": "Memory는 AI로 제목을 짓고 콘텐츠를 요약하며, 관련 태그를 달아 관련 항목을 컬렉션으로 묶는다. 웹 페이지 스크린샷을 알아보고 원본 링크를 찾아 주기도 한다. Google의 Pixel Screenshots와 Oppo의 Mind Space에도 비슷한 기능이 있다."
+                "x": "Kora는 Linux 커널 위에 올린 독립형 운영체제다. 회사는 Qualcomm과 손잡고 내년 Snapdragon PCs에 Kora를 넣을 계획이고, x86-64도 지원한다. 일반 Windows 앱은 호환성 계층으로 돌리고, “신경망 파일 시스템”이 파일 데이터를 의미별로 색인한다."
               },
               {
                 "t": "p",
-                "x": "삼성은 저장한 콘텐츠를 기기 안에서만 처리할 수 있다고 밝혔지만, 일부 고급 인텔리전스 기능은 온라인 처리가 필요하다. Memory는 몇 주 안에 One UI 9.5와 함께 나올 것으로 보이나, 어디까지나 예상일 뿐 공식 약속은 아니다."
+                "x": "McMaster는 Cyanogen을 공동 창업하고 이끄는 데 힘을 보탰다. Kora는 RAM이 최소 64기가바이트인 데스크톱에 맞춰져 있다. 칩 성능을 많이 요구하는 AI 모델을 돌리려는 파워 유저가 대상이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "サムスン、スクショ整理の\nGalaxy AIアプリ開発",
-          "body": "サムスンはスクショ、リンク、テキスト、音声メモを整理するアプリMemoryを開発中という。",
-          "mini_headline": "Samsung Memoryが\nスクショを整理",
+          "headline": "ローカルAIモデル向け\n新LinuxデスクトップOS",
+          "body": "KoraはローカルAIモデルの実行に向けた、LinuxベースのデスクトップOSだ。",
+          "mini_headline": "ローカルAI向けデスクトップOS「Kora」",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-inner-screen-scaled.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Galaxy Z Fold 8 Ultraの内側画面"
+                "src": "https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/w_2560%2Cc_limit/gear_ai_operating_system_nerdy.jpg",
+                "cap": "頭がコンピューターの人物がデスクトップパソコンの前に座っている"
               },
               {
                 "t": "p",
-                "x": "サムスン(Samsung)は、Galaxy AIを活用した(AI-powered)新アプリ「Memory」を開発中と報じられている。SamMobileは「このアプリでは、スクリーンショット、リンク、テキスト、取り込んだコンテンツ、音声メモを1か所に集め、整理はすべてAIが担うとされる」と伝えている。サムスンは公式には何も発表していないが、アプリはOne UI 9.5とともに登場する可能性が高い。"
+                "x": "火曜日に発表されたKoraは、「マスマーケットではなく、AIネイティブ」のためのWindowsやmacOSに代わるデスクトップOSとして設計されていると、CEOで共同創業者のKirt McMasterは語る。クリエイターや開発者を対象とし、AIモデルをシステムレベルで統合することを中核に据える。発売は2027年中の予定だ。"
               },
               {
                 "t": "p",
-                "x": "ユーザーはスクリーンショット、Share(共有)メニュー、リンクやテキストの貼り付け、音声メモでコンテンツを保存でき、3本指で下にスワイプしてスクリーンショットを撮るといったショートカットも使える。"
+                "x": "「あなたのコンテキストもメモリーも、すべて手元のマシンにある」と共同創業者のFranck De Girolamiは言う。AIトークンの費用を節約するため、OpenAIのモデルからAnthropicのツール、さらにローカルモデルへと移っていくプロジェクトを例に挙げた。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/09/samsung-galaxy-z-fold-7-oneui8-4095.jpg?resize=4492%2C2695&ssl=1",
-                "cap": "Galaxy Z Fold 7のSamsung One UI 8のフォルダブル用ロック画面。"
+                "src": "https://media.wired.com/photos/6af284baa8b94cafb9dc4873/master/w_1600%2Cc_limit/Screenshot%25202026-11-09%2520at%25201.37.41%25E2%2580%25AFPM.png",
+                "cap": "Kora"
               },
               {
                 "t": "p",
-                "x": "MemoryはAIを使ってタイトルを生成し、内容を要約し、関連タグを付け、関連する項目をコレクションにまとめる。Webページのスクリーンショットを認識し、元のリンクを探すこともできる。GoogleのPixel ScreenshotsやOppoのMind Spaceも同様の機能を備える。"
+                "x": "KoraはLinuxカーネル上に構築された独立したOSだ。同スタートアップはQualcommと提携し、来年Snapdragon PCsに搭載する予定で、x86-64にも対応する。互換レイヤーにより一般的なWindowsアプリが動作し、「ニューラルファイルシステム」がファイルのデータを意味に基づいて索引化する。"
               },
               {
                 "t": "p",
-                "x": "サムスンによると、保存したコンテンツは端末上だけで処理できるが、一部の高度なインテリジェンス機能にはオンライン処理が必要だという。Memoryは今後数週間以内にOne UI 9.5とともに提供される見込みだが、これはあくまで予想で、公式な約束ではない。"
+                "x": "McMasterはCyanogenを共同創業し、その経営に携わった。Koraは64ギガバイト以上のRAMを搭載したデスクトップ向けに最適化されており、高い処理能力を要するAIモデルを動かしたいパワーユーザーを対象とする。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "三星打造Galaxy AI\n应用整理杂乱截图",
-          "body": "据报道，三星正开发Memory应用，可将截图、链接、文字和语音笔记整理成合集。",
-          "mini_headline": "三星Memory应用\n整理截图",
+          "headline": "为本地AI模型打造的\n新款Linux桌面OS",
+          "body": "Kora是一款主打本地AI模型的Linux桌面系统，对标Windows和macOS。",
+          "mini_headline": "Kora：面向本地AI的桌面OS",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-inner-screen-scaled.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Galaxy Z Fold 8 Ultra内屏"
+                "src": "https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/w_2560%2Cc_limit/gear_ai_operating_system_nerdy.jpg",
+                "cap": "一个以电脑为头的人坐在台式电脑前"
               },
               {
                 "t": "p",
-                "x": "据报道，三星（Samsung）正在开发一款名为Memory的全新Galaxy AI驱动（AI-powered）应用。SamMobile报道称：“据悉，该应用可让用户把截图、链接、文字、导入的内容和语音笔记集中在一处，并由AI完成所有整理工作。”三星尚未发布任何官方消息，但该应用很可能随One UI 9.5一同推出。"
+                "x": "CEO兼联合创始人Kirt McMaster表示，周二发布的Kora被设计为Windows或macOS之外的桌面替代方案，面向“AI原生用户，而非大众市场”。它瞄准创作者和开发者，核心理念是在系统层面整合各种AI模型。该系统计划于2027年内推出。"
               },
               {
                 "t": "p",
-                "x": "用户可以通过截图、Share（分享）菜单、粘贴链接或文字以及语音笔记来保存内容，还支持三指下滑截图等快捷操作。"
+                "x": "“你所有的上下文、所有的记忆都在你自己的机器上，”联合创始人Franck De Girolami说。他描述了这样一个项目：为节省AI token费用，从OpenAI模型切换到Anthropic的工具，再转向本地模型。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/09/samsung-galaxy-z-fold-7-oneui8-4095.jpg?resize=4492%2C2695&ssl=1",
-                "cap": "Galaxy Z Fold 7上Samsung One UI 8的折叠屏锁屏界面。"
+                "src": "https://media.wired.com/photos/6af284baa8b94cafb9dc4873/master/w_1600%2Cc_limit/Screenshot%25202026-11-09%2520at%25201.37.41%25E2%2580%25AFPM.png",
+                "cap": "Kora"
               },
               {
                 "t": "p",
-                "x": "Memory利用AI生成标题、总结内容、添加相关标签，并将相关条目归入合集。它甚至能识别网页截图并搜索原始链接。Google的Pixel Screenshots和Oppo的Mind Space也有类似功能。"
+                "x": "Kora是一款基于Linux内核构建的独立操作系统。这家初创公司已与Qualcomm合作，计划明年将其带到Snapdragon PCs上，同时也支持x86-64。兼容层可运行标准Windows应用，而“神经文件系统”会按语义为文件数据建立索引。"
               },
               {
                 "t": "p",
-                "x": "三星表示，保存的内容可以仅在设备端处理，但部分高级智能功能需要联网处理。Memory预计将在未来几周内随One UI 9.5推出，但这只是预期，并非官方承诺。"
+                "x": "McMaster曾联合创办并参与领导Cyanogen。Kora针对至少配备64GB RAM的台式机进行了优化，面向希望运行需要强大芯片算力的AI模型的高级用户。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Samsung prepara una app con IA\npara ordenar las capturas",
-          "body": "Samsung estaría desarrollando Memory, una app que agrupa capturas, enlaces, texto y notas de voz en colecciones.",
-          "mini_headline": "La app Memory de Samsung\nordena capturas",
+          "headline": "Un nuevo OS Linux de escritorio\npara modelos locales de IA",
+          "body": "Kora, del cofundador de Cyanogen, es un OS de escritorio Linux que compite con Windows y macOS para ejecutar IA local.",
+          "mini_headline": "Kora, un OS de escritorio para IA local",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-inner-screen-scaled.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Pantalla interior del Galaxy Z Fold 8 Ultra"
+                "src": "https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/w_2560%2Cc_limit/gear_ai_operating_system_nerdy.jpg",
+                "cap": "Una persona con un ordenador por cabeza sentada frente a un ordenador de escritorio"
               },
               {
                 "t": "p",
-                "x": "Samsung estaría desarrollando una nueva app llamada Memory, impulsada por Galaxy AI (AI-powered). \"Se dice que la app permitirá a los usuarios reunir capturas de pantalla, enlaces, texto, contenido importado y notas de voz en un solo lugar, y que la IA se encargará de organizarlo todo\", informa SamMobile. Samsung no ha anunciado nada oficialmente, pero es probable que la app llegue con One UI 9.5."
+                "x": "Kora, anunciado el martes, está diseñado como alternativa de escritorio a Windows o macOS para “los nativos de la IA, no el mercado masivo”, dice su CEO y cofundador, Kirt McMaster. Dirigido a creadores y desarrolladores, su idea central es reunir los modelos de IA a nivel de sistema. Su lanzamiento está previsto para algún momento de 2027."
               },
               {
                 "t": "p",
-                "x": "Los usuarios pueden guardar contenido mediante capturas de pantalla, el menú Share (Compartir), enlaces o texto pegados y notas de voz, con atajos como deslizar tres dedos hacia abajo para hacer una captura."
+                "x": "“Todo tu contexto, toda tu memoria, está en tu máquina”, dice el cofundador Franck De Girolami, al describir un proyecto que pasa de un modelo de OpenAI a las herramientas de Anthropic y luego a un modelo local para ahorrar dinero en tokens de IA."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/09/samsung-galaxy-z-fold-7-oneui8-4095.jpg?resize=4492%2C2695&ssl=1",
-                "cap": "Pantalla de bloqueo plegable de Samsung One UI 8 en el Galaxy Z Fold 7."
+                "src": "https://media.wired.com/photos/6af284baa8b94cafb9dc4873/master/w_1600%2Cc_limit/Screenshot%25202026-11-09%2520at%25201.37.41%25E2%2580%25AFPM.png",
+                "cap": "Kora"
               },
               {
                 "t": "p",
-                "x": "Memory usa IA para generar un título, resumir el contenido, añadir etiquetas relevantes y agrupar elementos relacionados en colecciones. Incluso puede reconocer capturas de páginas web y buscar el enlace original. Pixel Screenshots de Google y Mind Space de Oppo hacen algo similar."
+                "x": "Kora es un sistema operativo independiente construido sobre el kernel de Linux. La startup se ha asociado con Qualcomm para llevarlo a los PCs con Snapdragon el próximo año, y también es compatible con x86-64. Unas capas de compatibilidad ejecutarán aplicaciones estándar de Windows, y un “sistema de archivos neuronal” indexa los datos de los archivos según su significado."
               },
               {
                 "t": "p",
-                "x": "Samsung afirma que el contenido guardado puede procesarse solo en el dispositivo, aunque algunas funciones de inteligencia avanzadas requieren procesamiento en línea. Se espera que Memory llegue con One UI 9.5 en las próximas semanas, pero es una previsión, no una promesa oficial."
+                "x": "McMaster cofundó Cyanogen y ayudó a dirigirla. Kora está optimizado para equipos de escritorio con al menos 64 gigabytes de RAM, pensados para usuarios avanzados que quieren ejecutar modelos de IA que exigen mucha potencia de chip."
               }
             ]
           }
@@ -973,145 +1073,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "삼성, 스크린샷\n정리 AI 앱 개발",
-          "body": "삼성이 스크린샷·링크·텍스트·음성 메모를 묶는 앱 Memory를 만든다고 한다.",
-          "mini_headline": "삼성 Memory 앱,\n스크린샷 정리",
+          "headline": "로컬 AI 겨냥한 새\nLinux 데스크톱 OS",
+          "body": "Kora는 로컬 AI 모델 실행을 내세운 Linux 기반 데스크톱 OS다.",
+          "mini_headline": "로컬 AI용 데스크톱 OS, Kora",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-inner-screen-scaled.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Galaxy Z Fold 8 Ultra 내부 화면"
+                "src": "https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/w_2560%2Cc_limit/gear_ai_operating_system_nerdy.jpg",
+                "cap": "머리가 컴퓨터인 사람이 데스크톱 컴퓨터 앞에 앉아 있다"
               },
               {
                 "t": "p",
-                "x": "삼성(Samsung)이 Galaxy AI 기반(AI-powered) 새 앱 Memory를 개발 중인 것으로 알려졌다. SamMobile은 \"이 앱은 사용자가 스크린샷, 링크, 텍스트, 가져온 콘텐츠, 음성 메모를 한곳에 모으고 AI가 이를 모두 정리해 주는 기능을 제공하는 것으로 전해졌다\"고 보도했다. 삼성은 아직 공식 발표를 하지 않았지만, 이 앱은 One UI 9.5와 함께 나올 가능성이 크다."
+                "x": "화요일 공개된 Kora는 “대중 시장이 아닌 AI 네이티브”를 위한 Windows나 macOS의 데스크톱 대안으로 설계됐다고 CEO이자 공동 창업자인 Kirt McMaster는 말한다. 크리에이터와 개발자를 겨냥한 이 OS의 핵심 아이디어는 AI 모델들을 시스템 수준에서 한데 모으는 것이다. 출시는 2027년 중으로 예정돼 있다."
               },
               {
                 "t": "p",
-                "x": "사용자는 스크린샷, 공유(Share) 메뉴, 링크나 텍스트 붙여넣기, 음성 메모로 콘텐츠를 저장할 수 있으며, 세 손가락으로 아래로 쓸어내려 스크린샷을 찍는 단축 동작 등도 지원한다."
+                "x": "“모든 맥락, 모든 메모리가 당신의 기기 안에 있다”고 공동 창업자 Franck De Girolami는 말한다. 그는 AI 토큰 비용을 아끼려고 OpenAI 모델에서 Anthropic의 도구로, 다시 로컬 모델로 옮겨 가는 프로젝트를 예로 들었다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/09/samsung-galaxy-z-fold-7-oneui8-4095.jpg?resize=4492%2C2695&ssl=1",
-                "cap": "Galaxy Z Fold 7의 Samsung One UI 8 폴더블 잠금 화면."
+                "src": "https://media.wired.com/photos/6af284baa8b94cafb9dc4873/master/w_1600%2Cc_limit/Screenshot%25202026-11-09%2520at%25201.37.41%25E2%2580%25AFPM.png",
+                "cap": "Kora"
               },
               {
                 "t": "p",
-                "x": "Memory는 AI로 제목을 만들고, 콘텐츠를 요약하고, 관련 태그를 붙이고, 관련 항목을 컬렉션으로 묶는다. 웹 페이지 스크린샷을 인식해 원본 링크를 찾아 주기도 한다. Google의 Pixel Screenshots와 Oppo의 Mind Space도 비슷한 기능을 제공한다."
+                "x": "Kora는 Linux 커널 위에 만든 독립형 운영체제다. 이 스타트업은 Qualcomm과 손잡고 내년에 Snapdragon PCs에 Kora를 탑재할 계획이며, x86-64도 지원한다. 호환성 계층을 통해 일반 Windows 앱을 실행하고, “신경망 파일 시스템”은 파일 데이터를 의미에 따라 색인한다."
               },
               {
                 "t": "p",
-                "x": "삼성은 저장한 콘텐츠를 기기에서만 처리할 수 있다고 밝혔지만, 일부 고급 인텔리전스 기능은 온라인 처리가 필요하다. Memory는 앞으로 몇 주 안에 One UI 9.5와 함께 나올 것으로 보이지만, 이는 예상일 뿐 공식 약속은 아니다."
+                "x": "McMaster는 Cyanogen을 공동 창업하고 이끄는 데 힘을 보탰다. Kora는 최소 64기가바이트 RAM을 갖춘 데스크톱에 최적화돼 있으며, 강력한 칩 성능이 필요한 AI 모델을 돌리려는 파워 유저를 겨냥한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "サムスン、スクショ整理の\nGalaxy AIアプリ開発",
-          "body": "サムスンはスクショ、リンク、テキスト、音声メモを整理するアプリMemoryを開発中という。",
-          "mini_headline": "Samsung Memoryが\nスクショを整理",
+          "headline": "ローカルAIモデル向け\n新LinuxデスクトップOS",
+          "body": "KoraはローカルAIモデルの実行に向けた、LinuxベースのデスクトップOSだ。",
+          "mini_headline": "ローカルAI向けデスクトップOS「Kora」",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-inner-screen-scaled.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Galaxy Z Fold 8 Ultraの内側画面"
+                "src": "https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/w_2560%2Cc_limit/gear_ai_operating_system_nerdy.jpg",
+                "cap": "頭がコンピューターの人物がデスクトップパソコンの前に座っている"
               },
               {
                 "t": "p",
-                "x": "サムスン(Samsung)は、Galaxy AIを活用した(AI-powered)新アプリ「Memory」を開発中と報じられている。SamMobileは「このアプリでは、スクリーンショット、リンク、テキスト、取り込んだコンテンツ、音声メモを1か所に集め、整理はすべてAIが担うとされる」と伝えている。サムスンは公式には何も発表していないが、アプリはOne UI 9.5とともに登場する可能性が高い。"
+                "x": "火曜日に発表されたKoraは、「マスマーケットではなく、AIネイティブ」のためのWindowsやmacOSに代わるデスクトップOSとして設計されていると、CEOで共同創業者のKirt McMasterは語る。クリエイターや開発者を対象とし、AIモデルをシステムレベルで統合することを中核に据える。発売は2027年中の予定だ。"
               },
               {
                 "t": "p",
-                "x": "ユーザーはスクリーンショット、Share(共有)メニュー、リンクやテキストの貼り付け、音声メモでコンテンツを保存でき、3本指で下にスワイプしてスクリーンショットを撮るといったショートカットも使える。"
+                "x": "「あなたのコンテキストもメモリーも、すべて手元のマシンにある」と共同創業者のFranck De Girolamiは言う。AIトークンの費用を節約するため、OpenAIのモデルからAnthropicのツール、さらにローカルモデルへと移っていくプロジェクトを例に挙げた。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/09/samsung-galaxy-z-fold-7-oneui8-4095.jpg?resize=4492%2C2695&ssl=1",
-                "cap": "Galaxy Z Fold 7のSamsung One UI 8のフォルダブル用ロック画面。"
+                "src": "https://media.wired.com/photos/6af284baa8b94cafb9dc4873/master/w_1600%2Cc_limit/Screenshot%25202026-11-09%2520at%25201.37.41%25E2%2580%25AFPM.png",
+                "cap": "Kora"
               },
               {
                 "t": "p",
-                "x": "MemoryはAIを使ってタイトルを生成し、内容を要約し、関連タグを付け、関連する項目をコレクションにまとめる。Webページのスクリーンショットを認識し、元のリンクを探すこともできる。GoogleのPixel ScreenshotsやOppoのMind Spaceも同様の機能を備える。"
+                "x": "KoraはLinuxカーネル上に構築された独立したOSだ。同スタートアップはQualcommと提携し、来年Snapdragon PCsに搭載する予定で、x86-64にも対応する。互換レイヤーにより一般的なWindowsアプリが動作し、「ニューラルファイルシステム」がファイルのデータを意味に基づいて索引化する。"
               },
               {
                 "t": "p",
-                "x": "サムスンによると、保存したコンテンツは端末上だけで処理できるが、一部の高度なインテリジェンス機能にはオンライン処理が必要だという。Memoryは今後数週間以内にOne UI 9.5とともに提供される見込みだが、これはあくまで予想で、公式な約束ではない。"
+                "x": "McMasterはCyanogenを共同創業し、その経営に携わった。Koraは64ギガバイト以上のRAMを搭載したデスクトップ向けに最適化されており、高い処理能力を要するAIモデルを動かしたいパワーユーザーを対象とする。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "三星打造Galaxy AI\n应用整理杂乱截图",
-          "body": "据报道，三星正开发Memory应用，可将截图、链接、文字和语音笔记整理成合集。",
-          "mini_headline": "三星Memory应用\n整理截图",
+          "headline": "为本地AI模型打造的\n新款Linux桌面OS",
+          "body": "Kora是一款主打本地AI模型的Linux桌面系统，对标Windows和macOS。",
+          "mini_headline": "Kora：面向本地AI的桌面OS",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-inner-screen-scaled.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Galaxy Z Fold 8 Ultra内屏"
+                "src": "https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/w_2560%2Cc_limit/gear_ai_operating_system_nerdy.jpg",
+                "cap": "一个以电脑为头的人坐在台式电脑前"
               },
               {
                 "t": "p",
-                "x": "据报道，三星（Samsung）正在开发一款名为Memory的全新Galaxy AI驱动（AI-powered）应用。SamMobile报道称：“据悉，该应用可让用户把截图、链接、文字、导入的内容和语音笔记集中在一处，并由AI完成所有整理工作。”三星尚未发布任何官方消息，但该应用很可能随One UI 9.5一同推出。"
+                "x": "CEO兼联合创始人Kirt McMaster表示，周二发布的Kora被设计为Windows或macOS之外的桌面替代方案，面向“AI原生用户，而非大众市场”。它瞄准创作者和开发者，核心理念是在系统层面整合各种AI模型。该系统计划于2027年内推出。"
               },
               {
                 "t": "p",
-                "x": "用户可以通过截图、Share（分享）菜单、粘贴链接或文字以及语音笔记来保存内容，还支持三指下滑截图等快捷操作。"
+                "x": "“你所有的上下文、所有的记忆都在你自己的机器上，”联合创始人Franck De Girolami说。他描述了这样一个项目：为节省AI token费用，从OpenAI模型切换到Anthropic的工具，再转向本地模型。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/09/samsung-galaxy-z-fold-7-oneui8-4095.jpg?resize=4492%2C2695&ssl=1",
-                "cap": "Galaxy Z Fold 7上Samsung One UI 8的折叠屏锁屏界面。"
+                "src": "https://media.wired.com/photos/6af284baa8b94cafb9dc4873/master/w_1600%2Cc_limit/Screenshot%25202026-11-09%2520at%25201.37.41%25E2%2580%25AFPM.png",
+                "cap": "Kora"
               },
               {
                 "t": "p",
-                "x": "Memory利用AI生成标题、总结内容、添加相关标签，并将相关条目归入合集。它甚至能识别网页截图并搜索原始链接。Google的Pixel Screenshots和Oppo的Mind Space也有类似功能。"
+                "x": "Kora是一款基于Linux内核构建的独立操作系统。这家初创公司已与Qualcomm合作，计划明年将其带到Snapdragon PCs上，同时也支持x86-64。兼容层可运行标准Windows应用，而“神经文件系统”会按语义为文件数据建立索引。"
               },
               {
                 "t": "p",
-                "x": "三星表示，保存的内容可以仅在设备端处理，但部分高级智能功能需要联网处理。Memory预计将在未来几周内随One UI 9.5推出，但这只是预期，并非官方承诺。"
+                "x": "McMaster曾联合创办并参与领导Cyanogen。Kora针对至少配备64GB RAM的台式机进行了优化，面向希望运行需要强大芯片算力的AI模型的高级用户。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Samsung prepara una app con IA\npara ordenar las capturas",
-          "body": "Samsung estaría desarrollando Memory, una app que agrupa capturas, enlaces, texto y notas de voz en colecciones.",
-          "mini_headline": "La app Memory de Samsung\nordena capturas",
+          "headline": "Un nuevo OS Linux de escritorio\npara modelos locales de IA",
+          "body": "Kora, del cofundador de Cyanogen, es un OS de escritorio Linux que compite con Windows y macOS para ejecutar IA local.",
+          "mini_headline": "Kora, un OS de escritorio para IA local",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-inner-screen-scaled.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Pantalla interior del Galaxy Z Fold 8 Ultra"
+                "src": "https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/w_2560%2Cc_limit/gear_ai_operating_system_nerdy.jpg",
+                "cap": "Una persona con un ordenador por cabeza sentada frente a un ordenador de escritorio"
               },
               {
                 "t": "p",
-                "x": "Samsung estaría desarrollando una nueva app llamada Memory, impulsada por Galaxy AI (AI-powered). \"Se dice que la app permitirá a los usuarios reunir capturas de pantalla, enlaces, texto, contenido importado y notas de voz en un solo lugar, y que la IA se encargará de organizarlo todo\", informa SamMobile. Samsung no ha anunciado nada oficialmente, pero es probable que la app llegue con One UI 9.5."
+                "x": "Kora, anunciado el martes, está diseñado como alternativa de escritorio a Windows o macOS para “los nativos de la IA, no el mercado masivo”, dice su CEO y cofundador, Kirt McMaster. Dirigido a creadores y desarrolladores, su idea central es reunir los modelos de IA a nivel de sistema. Su lanzamiento está previsto para algún momento de 2027."
               },
               {
                 "t": "p",
-                "x": "Los usuarios pueden guardar contenido mediante capturas de pantalla, el menú Share (Compartir), enlaces o texto pegados y notas de voz, con atajos como deslizar tres dedos hacia abajo para hacer una captura."
+                "x": "“Todo tu contexto, toda tu memoria, está en tu máquina”, dice el cofundador Franck De Girolami, al describir un proyecto que pasa de un modelo de OpenAI a las herramientas de Anthropic y luego a un modelo local para ahorrar dinero en tokens de IA."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/09/samsung-galaxy-z-fold-7-oneui8-4095.jpg?resize=4492%2C2695&ssl=1",
-                "cap": "Pantalla de bloqueo plegable de Samsung One UI 8 en el Galaxy Z Fold 7."
+                "src": "https://media.wired.com/photos/6af284baa8b94cafb9dc4873/master/w_1600%2Cc_limit/Screenshot%25202026-11-09%2520at%25201.37.41%25E2%2580%25AFPM.png",
+                "cap": "Kora"
               },
               {
                 "t": "p",
-                "x": "Memory usa IA para generar un título, resumir el contenido, añadir etiquetas relevantes y agrupar elementos relacionados en colecciones. Incluso puede reconocer capturas de páginas web y buscar el enlace original. Pixel Screenshots de Google y Mind Space de Oppo hacen algo similar."
+                "x": "Kora es un sistema operativo independiente construido sobre el kernel de Linux. La startup se ha asociado con Qualcomm para llevarlo a los PCs con Snapdragon el próximo año, y también es compatible con x86-64. Unas capas de compatibilidad ejecutarán aplicaciones estándar de Windows, y un “sistema de archivos neuronal” indexa los datos de los archivos según su significado."
               },
               {
                 "t": "p",
-                "x": "Samsung afirma que el contenido guardado puede procesarse solo en el dispositivo, aunque algunas funciones de inteligencia avanzadas requieren procesamiento en línea. Se espera que Memory llegue con One UI 9.5 en las próximas semanas, pero es una previsión, no una promesa oficial."
+                "x": "McMaster cofundó Cyanogen y ayudó a dirigirla. Kora está optimizado para equipos de escritorio con al menos 64 gigabytes de RAM, pensados para usuarios avanzados que quieren ejecutar modelos de IA que exigen mucha potencia de chip."
               }
             ]
           }
@@ -1119,15 +1219,15 @@
       }
     },
     {
-      "id": "eeg-sleep-headband-ai",
+      "id": "deepmind-gemini-robotics-25",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "명확한 동의 없이\nAI로 가는 수면 뇌파",
-      "body": "뉴로테크 기업들이 헤드밴드 EEG를 수천만 시간 모아 일부는 AI 학습에 쓴다.",
-      "mini_headline": "수면 트래커,\nEEG로 AI 학습",
+      "headline": "DeepMind 공개\nGemini 로보틱스2.5",
+      "body": "Gemini Robotics 2.5는 일부 작업에서 성공률을 최대 두 배로 올렸다.",
+      "mini_headline": "Gemini Robotics 2.5 등장",
       "tool": "Gadgets",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/peripherals/wearable-tech/wearable-sleep-trackers-are-using-your-brainwaves-to-train-ai-models-without-explicit-user-consent-tens-of-millions-of-hours-of-eeg-data-harvested",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
@@ -1135,155 +1235,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/TigcVbSwidE5JLUGgy7em-1200-80.jpg",
-            "cap": "(이미지 출처: Getty Images)"
+            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-2560x1440.jpg",
+            "cap": "Mercedes-Benz 공장에서 Gemini Robotics 2.5를 활용하는 Apptronik Apollo 2"
           },
           {
             "t": "p",
-            "x": "Science가 Pulitzer Center의 AI Accountability Network와 함께 벌인 조사에 따르면, 소비자용 뉴로테크 기업들은 수천만 시간 분량의 EEG 기록을 쌓았고 여러 곳이 이를 뇌 파운데이션 모델 개발에 쓰고 있다. 처음에는 개인정보 처리방침에 이런 용도를 적지도 않았다."
+            "x": "Google DeepMind가 AI-powered 플랫폼 Gemini Robotics의 새 세대를 내놓았다. 새 모델은 200가지가 넘는 활동으로 평가받았다. Apptronik의 휴머노이드 로봇 Apollo 2는 이제 다섯 손가락 손으로 리본 매듭도 묶는다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Still-image-Apollo-2-ribbon-tying.png",
+            "cap": "모양이 변하는 물체는 로봇이 다루기 까다롭지만 Gemini는 나아지고 있다. 사진: Google"
           },
           {
             "t": "p",
-            "x": "Muse 수면 헤드밴드 제조사 Interaxon은 약 50,000시간 분량의 EEG 기록으로 AI 모델을 학습시켰지만, 개인정보 처리방침을 고치기 전까지 이 사실을 분명히 밝히지 않았다. CMO Nadia Kumentas는 \"사용자가 명시적으로 안내받아야 한다는 데 동의한다\"고 말했다. Emotiv는 Large Brain 모델 일부를 고객 기록으로 학습시키며, 지금은 비식별 데이터를 옵트인 방식으로 쓴다고 공개하고 있다."
+            "x": "Gemini Robotics 2.5는 이전 버전보다 성공률이 대체로 30~100퍼센트 높고, 속도도 20~30퍼센트 빠르다. Gemini로 움직이는 Apollo 2 로봇은 유럽 몇몇 공장에서 자동차 부품 키팅을 맡아 성공률 96퍼센트를 냈다. 개발 속도를 끌어올린 “시뮬레이션 엔진”을 만드는 데는 Gemini 4 Argon이 힘을 보탰다."
+          },
+          {
+            "t": "video",
+            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Video-Apptronik-Apollo-2-at-Mercedes-Benz-opt.mp4"
           },
           {
             "t": "p",
-            "x": "조사 대상 기업의 3분의 2 이상은 사용자 동의 없이 기업 간 데이터 이전을 허용했다. Piramidal은 Cleveland Clinic과 함께 400만 시간이 넘는 EEG 데이터로 모델을 학습시켰고, 이 회사의 발작 감지 시스템은 파일럿 연구에서 발작 10건 중 9건을 잡아냈다. 웨어러블은 대부분 전극을 1~6개만 쓰는 반면 임상 시스템은 19~25개를 쓴다."
+            "x": "ASIMOV-Jailbreak는 로봇 AI를 속여 위험한 행동을 끌어내려고 만든 프롬프트 1,500개짜리 오픈소스 데이터베이스다. 여기에 Argon이 개입하면 시스템의 탈옥 방어 안전 수준이 98.8퍼센트에 이른다. Gemini Robotics ER 2 단독으로는 73.5퍼센트다. Gemini Robotics 2.5는 현재 Agile Robots, Apptronik, Boston Dynamics 등 파트너사에 공급 중이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Sleep headbands feed brainwaves\nto AI without clear consent",
-          "body": "Neurotech firms have amassed tens of millions of hours of headband EEG data, and several use it to train AI models.",
-          "mini_headline": "Sleep trackers\ntrain AI on EEG",
+          "headline": "DeepMind unveils\nGemini Robotics 2.5",
+          "body": "Gemini Robotics 2.5 is up to twice as successful at some tasks, and DeepMind paired it with an open safety benchmark.",
+          "mini_headline": "Gemini Robotics 2.5 arrives",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/TigcVbSwidE5JLUGgy7em-1200-80.jpg",
-                "cap": "(Image credit: Getty Images)"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-2560x1440.jpg",
+                "cap": "Apptronik Apollo 2 using Gemini Robotics 2.5 at a Mercedes-Benz factory"
               },
               {
                 "t": "p",
-                "x": "An investigation by Science with the Pulitzer Center's AI Accountability Network found that consumer neurotechnology companies have accumulated tens of millions of hours of EEG recordings, and several are using them to develop brain foundation models, despite initially failing to spell out that use in their privacy policies."
+                "x": "Google DeepMind has revealed a new generation of the AI-powered Gemini Robotics platform. The model was evaluated across more than 200 activities, and Apptronik’s Apollo 2 humanoid robot can now tie a bow with its five-fingered hands."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Still-image-Apollo-2-ribbon-tying.png",
+                "cap": "Deformable objects are tough for robots, but Gemini is making progress. Credit: Google"
               },
               {
                 "t": "p",
-                "x": "Interaxon, maker of the Muse sleep headband, has trained an AI model on about 50,000 hours of EEG recordings. Its privacy policy did not explicitly disclose this until it was updated; \"We agree users should be explicitly informed,\" CMO Nadia Kumentas said. Emotiv is training its Large Brain model partly on customer recordings and now discloses opt-in use of de-identified data."
+                "x": "Overall, Gemini Robotics 2.5 manages a 30 to 100 percent higher success rate compared to the last version and is 20 to 30 percent faster. Gemini-powered Apollo 2 robots kitted automotive parts in a few European factories, reaching a 96 percent success rate. Gemini 4 Argon helped create a “simulation engine” that accelerated development."
+              },
+              {
+                "t": "video",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Video-Apptronik-Apollo-2-at-Mercedes-Benz-opt.mp4"
               },
               {
                 "t": "p",
-                "x": "More than two-thirds of the companies studied allowed corporate transfers of data without user consent. Piramidal trained a model on more than 4 million hours of EEG data with Cleveland Clinic; its seizure-detection system identified nine out of 10 seizures in a pilot study. Most wearables use just one to six electrodes, versus 19 to 25 in clinical systems."
+                "x": "ASIMOV-Jailbreak is an open source database of 1,500 prompts designed to trick a robotic AI into doing something unsafe. With Argon in the loop the system reaches a 98.8 percent jailbreak safety level, versus 73.5 percent with just Gemini Robotics ER 2. Gemini Robotics 2.5 is now with partners including Agile Robots, Apptronik, and Boston Dynamics."
               }
             ]
           }
         },
         "ko": {
-          "headline": "명확한 동의 없이\nAI로 가는 수면 뇌파",
-          "body": "뉴로테크 기업들이 헤드밴드 EEG를 수천만 시간 모아 일부는 AI 학습에 쓴다.",
-          "mini_headline": "수면 트래커,\nEEG로 AI 학습",
+          "headline": "DeepMind 공개\nGemini 로보틱스2.5",
+          "body": "Gemini Robotics 2.5는 일부 작업에서 성공률을 최대 두 배로 올렸다.",
+          "mini_headline": "Gemini Robotics 2.5 등장",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/TigcVbSwidE5JLUGgy7em-1200-80.jpg",
-                "cap": "(이미지 출처: Getty Images)"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-2560x1440.jpg",
+                "cap": "Mercedes-Benz 공장에서 Gemini Robotics 2.5를 활용하는 Apptronik Apollo 2"
               },
               {
                 "t": "p",
-                "x": "Science가 Pulitzer Center의 AI Accountability Network와 함께 벌인 조사에 따르면, 소비자용 뉴로테크 기업들은 수천만 시간 분량의 EEG 기록을 쌓았고 여러 곳이 이를 뇌 파운데이션 모델 개발에 쓰고 있다. 처음에는 개인정보 처리방침에 이런 용도를 적지도 않았다."
+                "x": "Google DeepMind가 AI-powered 플랫폼 Gemini Robotics의 새 세대를 내놓았다. 새 모델은 200가지가 넘는 활동으로 평가받았다. Apptronik의 휴머노이드 로봇 Apollo 2는 이제 다섯 손가락 손으로 리본 매듭도 묶는다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Still-image-Apollo-2-ribbon-tying.png",
+                "cap": "모양이 변하는 물체는 로봇이 다루기 까다롭지만 Gemini는 나아지고 있다. 사진: Google"
               },
               {
                 "t": "p",
-                "x": "Muse 수면 헤드밴드 제조사 Interaxon은 약 50,000시간 분량의 EEG 기록으로 AI 모델을 학습시켰지만, 개인정보 처리방침을 고치기 전까지 이 사실을 분명히 밝히지 않았다. CMO Nadia Kumentas는 \"사용자가 명시적으로 안내받아야 한다는 데 동의한다\"고 말했다. Emotiv는 Large Brain 모델 일부를 고객 기록으로 학습시키며, 지금은 비식별 데이터를 옵트인 방식으로 쓴다고 공개하고 있다."
+                "x": "Gemini Robotics 2.5는 이전 버전보다 성공률이 대체로 30~100퍼센트 높고, 속도도 20~30퍼센트 빠르다. Gemini로 움직이는 Apollo 2 로봇은 유럽 몇몇 공장에서 자동차 부품 키팅을 맡아 성공률 96퍼센트를 냈다. 개발 속도를 끌어올린 “시뮬레이션 엔진”을 만드는 데는 Gemini 4 Argon이 힘을 보탰다."
+              },
+              {
+                "t": "video",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Video-Apptronik-Apollo-2-at-Mercedes-Benz-opt.mp4"
               },
               {
                 "t": "p",
-                "x": "조사 대상 기업의 3분의 2 이상은 사용자 동의 없이 기업 간 데이터 이전을 허용했다. Piramidal은 Cleveland Clinic과 함께 400만 시간이 넘는 EEG 데이터로 모델을 학습시켰고, 이 회사의 발작 감지 시스템은 파일럿 연구에서 발작 10건 중 9건을 잡아냈다. 웨어러블은 대부분 전극을 1~6개만 쓰는 반면 임상 시스템은 19~25개를 쓴다."
+                "x": "ASIMOV-Jailbreak는 로봇 AI를 속여 위험한 행동을 끌어내려고 만든 프롬프트 1,500개짜리 오픈소스 데이터베이스다. 여기에 Argon이 개입하면 시스템의 탈옥 방어 안전 수준이 98.8퍼센트에 이른다. Gemini Robotics ER 2 단독으로는 73.5퍼센트다. Gemini Robotics 2.5는 현재 Agile Robots, Apptronik, Boston Dynamics 등 파트너사에 공급 중이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "睡眠ヘッドバンドの脳波\n明確な同意なくAIへ",
-          "body": "ニューロテック企業はヘッドバンドのEEGデータを数千万時間分集め、一部はAI学習に使う。",
-          "mini_headline": "睡眠トラッカーが\nEEGでAIを学習",
+          "headline": "DeepMindが発表\nジェミニ・ロボティクス2.5",
+          "body": "Gemini Robotics 2.5は、一部のタスクで成功率が最大2倍に高まった。",
+          "mini_headline": "Gemini Robotics 2.5が登場",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/TigcVbSwidE5JLUGgy7em-1200-80.jpg",
-                "cap": "(画像クレジット: Getty Images)"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-2560x1440.jpg",
+                "cap": "Mercedes-Benzの工場でGemini Robotics 2.5を使うApptronik Apollo 2"
               },
               {
                 "t": "p",
-                "x": "ScienceがPulitzer CenterのAI Accountability Networkと共同で行った調査によると、消費者向けニューロテクノロジー企業は数千万時間分のEEG記録を蓄積し、複数の企業がそれを脳の基盤モデル開発に使っている。当初はプライバシーポリシーでその用途を明記していなかった。"
+                "x": "Google DeepMindは、AI-poweredのGemini Roboticsプラットフォームの新世代を発表した。このモデルは200を超えるアクティビティで評価され、ApptronikのヒューマノイドロボットApollo 2は5本指の手でちょう結びができるようになった。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Still-image-Apollo-2-ribbon-tying.png",
+                "cap": "変形する物体はロボットにとって難しいが、Geminiは前進している。クレジット: Google"
               },
               {
                 "t": "p",
-                "x": "Museの睡眠ヘッドバンドを手がけるInteraxonは、約50,000時間分のEEG記録でAIモデルを学習させた。同社のプライバシーポリシーは更新されるまでこの点を明示していなかった。CMOのNadia Kumentas氏は「ユーザーに明示的に知らせるべきだという点に同意する」と述べた。EmotivはLarge Brainモデルの一部を顧客の記録で学習させており、現在は匿名化データのオプトイン利用を開示している。"
+                "x": "全体として、Gemini Robotics 2.5は前バージョンと比べて成功率が30〜100パーセント高く、速度も20〜30パーセント速い。Geminiで動くApollo 2ロボットは欧州のいくつかの工場で自動車部品のキッティングを行い、96パーセントの成功率を達成した。Gemini 4 Argonは開発を加速させた「シミュレーションエンジン」の構築に貢献した。"
+              },
+              {
+                "t": "video",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Video-Apptronik-Apollo-2-at-Mercedes-Benz-opt.mp4"
               },
               {
                 "t": "p",
-                "x": "調査対象企業の3分の2以上が、ユーザーの同意なしに企業間のデータ移転を認めていた。PiramidalはCleveland Clinicと共同で400万時間を超えるEEGデータでモデルを学習させ、その発作検出システムはパイロット研究で10件中9件の発作を識別した。ほとんどのウェアラブルの電極は1～6個にとどまり、臨床用システムの19～25個とは差がある。"
+                "x": "ASIMOV-Jailbreakは、ロボットのAIをだまして危険な行動をさせるよう設計された1,500件のプロンプトを集めたオープンソースのデータベースだ。Argonを組み込むと、システムの脱獄に対する安全性は98.8パーセントに達する。Gemini Robotics ER 2のみでは73.5パーセントだ。Gemini Robotics 2.5は現在、Agile Robots、Apptronik、Boston Dynamicsなどのパートナーに提供されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "睡眠头带脑电波\n未经明确同意即喂给AI",
-          "body": "神经科技公司已积累数千万小时的头带EEG数据，其中多家用其训练AI模型。",
-          "mini_headline": "睡眠追踪器\n用EEG训练AI",
+          "headline": "DeepMind发布\nGemini机器人模型2.5",
+          "body": "Gemini Robotics 2.5在部分任务上成功率最高翻倍，并配套开放安全基准。",
+          "mini_headline": "Gemini Robotics 2.5亮相",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/TigcVbSwidE5JLUGgy7em-1200-80.jpg",
-                "cap": "（图片来源：Getty Images）"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-2560x1440.jpg",
+                "cap": "Apptronik Apollo 2在Mercedes-Benz工厂中使用Gemini Robotics 2.5"
               },
               {
                 "t": "p",
-                "x": "Science与Pulitzer Center的AI Accountability Network联合开展的调查发现，消费级神经技术公司已积累数千万小时的EEG记录，其中多家正用这些数据开发大脑基础模型，尽管它们最初并未在隐私政策中写明这一用途。"
+                "x": "Google DeepMind发布了AI-powered平台Gemini Robotics的新一代版本。该模型在200多项活动中接受了评估，Apptronik的人形机器人Apollo 2如今已能用五指手打出蝴蝶结。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Still-image-Apollo-2-ribbon-tying.png",
+                "cap": "可变形物体对机器人来说很棘手，但Gemini正在取得进展。图片来源：Google"
               },
               {
                 "t": "p",
-                "x": "Muse睡眠头带的制造商Interaxon用约50,000小时的EEG记录训练了一个AI模型。其隐私政策在更新前并未明确披露这一点；CMO Nadia Kumentas表示：“我们同意应当明确告知用户。”Emotiv正部分使用客户记录训练其Large Brain模型，现已披露会在用户选择加入的前提下使用去标识化数据。"
+                "x": "总体而言，Gemini Robotics 2.5的成功率比上一版本高出30至100%，速度快百分之二十至三十。由Gemini驱动的Apollo 2机器人在欧洲几家工厂完成了汽车零部件配套作业，成功率达到96%。Gemini 4 Argon帮助打造了一个加速开发的“模拟引擎”。"
+              },
+              {
+                "t": "video",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Video-Apptronik-Apollo-2-at-Mercedes-Benz-opt.mp4"
               },
               {
                 "t": "p",
-                "x": "在受调查的公司中，超过三分之二允许在未经用户同意的情况下进行企业间数据转移。Piramidal与Cleveland Clinic合作，用超过400万小时的EEG数据训练了一个模型；在一项试点研究中，其癫痫发作检测系统识别出了10次发作中的9次。大多数可穿戴设备只使用1到6个电极，而临床系统使用19到25个。"
+                "x": "ASIMOV-Jailbreak是一个开源数据库，包含1,500条旨在诱骗机器人AI做出不安全行为的提示词。在Argon参与下，系统的越狱安全水平达到98.8%，而仅使用Gemini Robotics ER 2时为73.5%。Gemini Robotics 2.5现已提供给Agile Robots、Apptronik和Boston Dynamics等合作伙伴。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Diademas de sueño dan a la IA\nondas cerebrales sin aval claro",
-          "body": "Empresas de neurotecnología acumulan decenas de millones de horas de EEG de diademas y varias entrenan IA con ellas.",
-          "mini_headline": "Rastreadores de sueño\nentrenan IA con EEG",
+          "headline": "DeepMind presenta\nGemini Robotics 2.5",
+          "body": "Gemini Robotics 2.5 llega a duplicar el éxito en algunas tareas, y DeepMind suma un benchmark de seguridad abierto.",
+          "mini_headline": "Llega Gemini Robotics 2.5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/TigcVbSwidE5JLUGgy7em-1200-80.jpg",
-                "cap": "(Imagen: Getty Images)"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-2560x1440.jpg",
+                "cap": "Apptronik Apollo 2 usando Gemini Robotics 2.5 en una fábrica de Mercedes-Benz"
               },
               {
                 "t": "p",
-                "x": "Una investigación de Science con la AI Accountability Network del Pulitzer Center halló que las empresas de neurotecnología de consumo han acumulado decenas de millones de horas de registros de EEG, y varias los usan para desarrollar modelos fundacionales del cerebro, pese a que al principio no detallaban ese uso en sus políticas de privacidad."
+                "x": "Google DeepMind ha presentado una nueva generación de Gemini Robotics, su plataforma AI-powered (impulsada por IA). El modelo se evaluó en más de 200 actividades, y el robot humanoide Apollo 2 de Apptronik ya puede hacer un lazo con sus manos de cinco dedos."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Still-image-Apollo-2-ribbon-tying.png",
+                "cap": "Los objetos deformables son difíciles para los robots, pero Gemini está avanzando. Crédito: Google"
               },
               {
                 "t": "p",
-                "x": "Interaxon, fabricante de la diadema de sueño Muse, ha entrenado un modelo de IA con unas 50.000 horas de registros de EEG. Su política de privacidad no lo revelaba de forma explícita hasta que fue actualizada; \"Estamos de acuerdo en que los usuarios deben ser informados explícitamente\", dijo la CMO Nadia Kumentas. Emotiv entrena su modelo Large Brain en parte con registros de clientes y ahora informa del uso opcional (opt-in) de datos desidentificados."
+                "x": "En conjunto, Gemini Robotics 2.5 logra una tasa de éxito entre un 30 y un 100 por ciento mayor que la versión anterior y es entre un 20 y un 30 por ciento más rápido. Los robots Apollo 2 con Gemini prepararon kits de piezas de automoción en algunas fábricas europeas y alcanzaron una tasa de éxito del 96 por ciento. Gemini 4 Argon ayudó a crear un “motor de simulación” que aceleró el desarrollo."
+              },
+              {
+                "t": "video",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Video-Apptronik-Apollo-2-at-Mercedes-Benz-opt.mp4"
               },
               {
                 "t": "p",
-                "x": "Más de dos tercios de las empresas estudiadas permitían transferencias corporativas de datos sin el consentimiento del usuario. Piramidal entrenó un modelo con más de 4 millones de horas de datos de EEG junto con Cleveland Clinic; su sistema de detección de convulsiones identificó nueve de cada 10 en un estudio piloto. La mayoría de los wearables usa solo de uno a seis electrodos, frente a los 19 a 25 de los sistemas clínicos."
+                "x": "ASIMOV-Jailbreak es una base de datos de código abierto con 1500 prompts diseñados para engañar a una IA robótica y llevarla a hacer algo inseguro. Con Argon en el circuito, el sistema alcanza un nivel de seguridad frente a jailbreaks del 98,8 por ciento, frente al 73,5 por ciento solo con Gemini Robotics ER 2. Gemini Robotics 2.5 ya está disponible para socios como Agile Robots, Apptronik y Boston Dynamics."
               }
             ]
           }
@@ -1291,109 +1445,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "명확한 동의 없이\nAI로 가는 수면 뇌파",
-          "body": "뉴로테크 기업들이 헤드밴드 EEG를 수천만 시간 모아 일부는 AI 학습에 쓴다.",
-          "mini_headline": "수면 트래커,\nEEG로 AI 학습",
+          "headline": "DeepMind 공개\nGemini 로보틱스2.5",
+          "body": "Gemini Robotics 2.5는 일부 작업 성공률이 최대 두 배다.",
+          "mini_headline": "Gemini Robotics 2.5 등장",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/TigcVbSwidE5JLUGgy7em-1200-80.jpg",
-                "cap": "(이미지 출처: Getty Images)"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-2560x1440.jpg",
+                "cap": "Mercedes-Benz 공장에서 Gemini Robotics 2.5를 활용하는 Apptronik Apollo 2"
               },
               {
                 "t": "p",
-                "x": "Science가 Pulitzer Center의 AI Accountability Network와 함께 진행한 조사에 따르면, 소비자용 뉴로테크 기업들은 수천만 시간 분량의 EEG 기록을 쌓았고, 여러 곳이 이를 뇌 파운데이션 모델 개발에 쓰고 있다. 처음에는 개인정보 처리방침에 이런 용도를 명시하지 않았는데도 그렇다."
+                "x": "Google DeepMind가 AI-powered 플랫폼 Gemini Robotics의 새 세대를 공개했다. 이 모델은 200가지가 넘는 활동에서 평가를 거쳤고, Apptronik의 휴머노이드 로봇 Apollo 2는 이제 다섯 손가락 손으로 리본 매듭을 묶을 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Still-image-Apollo-2-ribbon-tying.png",
+                "cap": "변형되는 물체는 로봇에게 까다롭지만 Gemini는 진전을 보이고 있다. 사진: Google"
               },
               {
                 "t": "p",
-                "x": "Muse 수면 헤드밴드를 만드는 Interaxon은 약 50,000시간 분량의 EEG 기록으로 AI 모델을 학습시켰다. 개인정보 처리방침은 개정되기 전까지 이를 명시적으로 밝히지 않았다. CMO Nadia Kumentas는 \"사용자가 명시적으로 안내받아야 한다는 데 동의한다\"고 말했다. Emotiv는 Large Brain 모델 일부를 고객 기록으로 학습시키고 있으며, 지금은 비식별 데이터의 옵트인 사용을 공개하고 있다."
+                "x": "전반적으로 Gemini Robotics 2.5는 이전 버전보다 성공률이 30~100퍼센트 높고, 속도는 20~30퍼센트 빠르다. Gemini로 구동되는 Apollo 2 로봇은 유럽 몇몇 공장에서 자동차 부품 키팅 작업을 수행해 96퍼센트의 성공률을 기록했다. Gemini 4 Argon은 개발을 앞당긴 “시뮬레이션 엔진”을 만드는 데 기여했다."
+              },
+              {
+                "t": "video",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Video-Apptronik-Apollo-2-at-Mercedes-Benz-opt.mp4"
               },
               {
                 "t": "p",
-                "x": "조사 대상 기업의 3분의 2 이상은 사용자 동의 없이 기업 간 데이터 이전을 허용했다. Piramidal은 Cleveland Clinic과 함께 400만 시간이 넘는 EEG 데이터로 모델을 학습시켰고, 이 회사의 발작 감지 시스템은 파일럿 연구에서 발작 10건 중 9건을 식별했다. 대부분의 웨어러블은 전극을 1~6개만 쓰지만, 임상 시스템은 19~25개를 쓴다."
+                "x": "ASIMOV-Jailbreak는 로봇 AI를 속여 위험한 행동을 하게 만들도록 설계한 1,500개 프롬프트로 이뤄진 오픈소스 데이터베이스다. Argon이 개입하면 시스템의 탈옥 방어 안전 수준은 98.8퍼센트에 이르며, Gemini Robotics ER 2 단독으로는 73.5퍼센트다. Gemini Robotics 2.5는 현재 Agile Robots, Apptronik, Boston Dynamics 등 파트너사에 제공되고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "睡眠ヘッドバンドの脳波\n明確な同意なくAIへ",
-          "body": "ニューロテック企業はヘッドバンドのEEGデータを数千万時間分集め、一部はAI学習に使う。",
-          "mini_headline": "睡眠トラッカーが\nEEGでAIを学習",
+          "headline": "DeepMindが発表\nジェミニ・ロボティクス2.5",
+          "body": "Gemini Robotics 2.5は、一部のタスクで成功率が最大2倍に高まった。",
+          "mini_headline": "Gemini Robotics 2.5が登場",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/TigcVbSwidE5JLUGgy7em-1200-80.jpg",
-                "cap": "(画像クレジット: Getty Images)"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-2560x1440.jpg",
+                "cap": "Mercedes-Benzの工場でGemini Robotics 2.5を使うApptronik Apollo 2"
               },
               {
                 "t": "p",
-                "x": "ScienceがPulitzer CenterのAI Accountability Networkと共同で行った調査によると、消費者向けニューロテクノロジー企業は数千万時間分のEEG記録を蓄積し、複数の企業がそれを脳の基盤モデル開発に使っている。当初はプライバシーポリシーでその用途を明記していなかった。"
+                "x": "Google DeepMindは、AI-poweredのGemini Roboticsプラットフォームの新世代を発表した。このモデルは200を超えるアクティビティで評価され、ApptronikのヒューマノイドロボットApollo 2は5本指の手でちょう結びができるようになった。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Still-image-Apollo-2-ribbon-tying.png",
+                "cap": "変形する物体はロボットにとって難しいが、Geminiは前進している。クレジット: Google"
               },
               {
                 "t": "p",
-                "x": "Museの睡眠ヘッドバンドを手がけるInteraxonは、約50,000時間分のEEG記録でAIモデルを学習させた。同社のプライバシーポリシーは更新されるまでこの点を明示していなかった。CMOのNadia Kumentas氏は「ユーザーに明示的に知らせるべきだという点に同意する」と述べた。EmotivはLarge Brainモデルの一部を顧客の記録で学習させており、現在は匿名化データのオプトイン利用を開示している。"
+                "x": "全体として、Gemini Robotics 2.5は前バージョンと比べて成功率が30〜100パーセント高く、速度も20〜30パーセント速い。Geminiで動くApollo 2ロボットは欧州のいくつかの工場で自動車部品のキッティングを行い、96パーセントの成功率を達成した。Gemini 4 Argonは開発を加速させた「シミュレーションエンジン」の構築に貢献した。"
+              },
+              {
+                "t": "video",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Video-Apptronik-Apollo-2-at-Mercedes-Benz-opt.mp4"
               },
               {
                 "t": "p",
-                "x": "調査対象企業の3分の2以上が、ユーザーの同意なしに企業間のデータ移転を認めていた。PiramidalはCleveland Clinicと共同で400万時間を超えるEEGデータでモデルを学習させ、その発作検出システムはパイロット研究で10件中9件の発作を識別した。ほとんどのウェアラブルの電極は1～6個にとどまり、臨床用システムの19～25個とは差がある。"
+                "x": "ASIMOV-Jailbreakは、ロボットのAIをだまして危険な行動をさせるよう設計された1,500件のプロンプトを集めたオープンソースのデータベースだ。Argonを組み込むと、システムの脱獄に対する安全性は98.8パーセントに達する。Gemini Robotics ER 2のみでは73.5パーセントだ。Gemini Robotics 2.5は現在、Agile Robots、Apptronik、Boston Dynamicsなどのパートナーに提供されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "睡眠头带脑电波\n未经明确同意即喂给AI",
-          "body": "神经科技公司已积累数千万小时的头带EEG数据，其中多家用其训练AI模型。",
-          "mini_headline": "睡眠追踪器\n用EEG训练AI",
+          "headline": "DeepMind发布\nGemini机器人模型2.5",
+          "body": "Gemini Robotics 2.5在部分任务上成功率最高翻倍，并配套开放安全基准。",
+          "mini_headline": "Gemini Robotics 2.5亮相",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/TigcVbSwidE5JLUGgy7em-1200-80.jpg",
-                "cap": "（图片来源：Getty Images）"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-2560x1440.jpg",
+                "cap": "Apptronik Apollo 2在Mercedes-Benz工厂中使用Gemini Robotics 2.5"
               },
               {
                 "t": "p",
-                "x": "Science与Pulitzer Center的AI Accountability Network联合开展的调查发现，消费级神经技术公司已积累数千万小时的EEG记录，其中多家正用这些数据开发大脑基础模型，尽管它们最初并未在隐私政策中写明这一用途。"
+                "x": "Google DeepMind发布了AI-powered平台Gemini Robotics的新一代版本。该模型在200多项活动中接受了评估，Apptronik的人形机器人Apollo 2如今已能用五指手打出蝴蝶结。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Still-image-Apollo-2-ribbon-tying.png",
+                "cap": "可变形物体对机器人来说很棘手，但Gemini正在取得进展。图片来源：Google"
               },
               {
                 "t": "p",
-                "x": "Muse睡眠头带的制造商Interaxon用约50,000小时的EEG记录训练了一个AI模型。其隐私政策在更新前并未明确披露这一点；CMO Nadia Kumentas表示：“我们同意应当明确告知用户。”Emotiv正部分使用客户记录训练其Large Brain模型，现已披露会在用户选择加入的前提下使用去标识化数据。"
+                "x": "总体而言，Gemini Robotics 2.5的成功率比上一版本高出30至100%，速度快百分之二十至三十。由Gemini驱动的Apollo 2机器人在欧洲几家工厂完成了汽车零部件配套作业，成功率达到96%。Gemini 4 Argon帮助打造了一个加速开发的“模拟引擎”。"
+              },
+              {
+                "t": "video",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Video-Apptronik-Apollo-2-at-Mercedes-Benz-opt.mp4"
               },
               {
                 "t": "p",
-                "x": "在受调查的公司中，超过三分之二允许在未经用户同意的情况下进行企业间数据转移。Piramidal与Cleveland Clinic合作，用超过400万小时的EEG数据训练了一个模型；在一项试点研究中，其癫痫发作检测系统识别出了10次发作中的9次。大多数可穿戴设备只使用1到6个电极，而临床系统使用19到25个。"
+                "x": "ASIMOV-Jailbreak是一个开源数据库，包含1,500条旨在诱骗机器人AI做出不安全行为的提示词。在Argon参与下，系统的越狱安全水平达到98.8%，而仅使用Gemini Robotics ER 2时为73.5%。Gemini Robotics 2.5现已提供给Agile Robots、Apptronik和Boston Dynamics等合作伙伴。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Diademas de sueño dan a la IA\nondas cerebrales sin aval claro",
-          "body": "Empresas de neurotecnología acumulan decenas de millones de horas de EEG de diademas y varias entrenan IA con ellas.",
-          "mini_headline": "Rastreadores de sueño\nentrenan IA con EEG",
+          "headline": "DeepMind presenta\nGemini Robotics 2.5",
+          "body": "Gemini Robotics 2.5 llega a duplicar el éxito en algunas tareas, y DeepMind suma un benchmark de seguridad abierto.",
+          "mini_headline": "Llega Gemini Robotics 2.5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/TigcVbSwidE5JLUGgy7em-1200-80.jpg",
-                "cap": "(Imagen: Getty Images)"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-2560x1440.jpg",
+                "cap": "Apptronik Apollo 2 usando Gemini Robotics 2.5 en una fábrica de Mercedes-Benz"
               },
               {
                 "t": "p",
-                "x": "Una investigación de Science con la AI Accountability Network del Pulitzer Center halló que las empresas de neurotecnología de consumo han acumulado decenas de millones de horas de registros de EEG, y varias los usan para desarrollar modelos fundacionales del cerebro, pese a que al principio no detallaban ese uso en sus políticas de privacidad."
+                "x": "Google DeepMind ha presentado una nueva generación de Gemini Robotics, su plataforma AI-powered (impulsada por IA). El modelo se evaluó en más de 200 actividades, y el robot humanoide Apollo 2 de Apptronik ya puede hacer un lazo con sus manos de cinco dedos."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Still-image-Apollo-2-ribbon-tying.png",
+                "cap": "Los objetos deformables son difíciles para los robots, pero Gemini está avanzando. Crédito: Google"
               },
               {
                 "t": "p",
-                "x": "Interaxon, fabricante de la diadema de sueño Muse, ha entrenado un modelo de IA con unas 50.000 horas de registros de EEG. Su política de privacidad no lo revelaba de forma explícita hasta que fue actualizada; \"Estamos de acuerdo en que los usuarios deben ser informados explícitamente\", dijo la CMO Nadia Kumentas. Emotiv entrena su modelo Large Brain en parte con registros de clientes y ahora informa del uso opcional (opt-in) de datos desidentificados."
+                "x": "En conjunto, Gemini Robotics 2.5 logra una tasa de éxito entre un 30 y un 100 por ciento mayor que la versión anterior y es entre un 20 y un 30 por ciento más rápido. Los robots Apollo 2 con Gemini prepararon kits de piezas de automoción en algunas fábricas europeas y alcanzaron una tasa de éxito del 96 por ciento. Gemini 4 Argon ayudó a crear un “motor de simulación” que aceleró el desarrollo."
+              },
+              {
+                "t": "video",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Video-Apptronik-Apollo-2-at-Mercedes-Benz-opt.mp4"
               },
               {
                 "t": "p",
-                "x": "Más de dos tercios de las empresas estudiadas permitían transferencias corporativas de datos sin el consentimiento del usuario. Piramidal entrenó un modelo con más de 4 millones de horas de datos de EEG junto con Cleveland Clinic; su sistema de detección de convulsiones identificó nueve de cada 10 en un estudio piloto. La mayoría de los wearables usa solo de uno a seis electrodos, frente a los 19 a 25 de los sistemas clínicos."
+                "x": "ASIMOV-Jailbreak es una base de datos de código abierto con 1500 prompts diseñados para engañar a una IA robótica y llevarla a hacer algo inseguro. Con Argon en el circuito, el sistema alcanza un nivel de seguridad frente a jailbreaks del 98,8 por ciento, frente al 73,5 por ciento solo con Gemini Robotics ER 2. Gemini Robotics 2.5 ya está disponible para socios como Agile Robots, Apptronik y Boston Dynamics."
               }
             ]
           }
@@ -1401,321 +1591,321 @@
       }
     },
     {
-      "id": "agibot-g2-convenience-store",
-      "source_lang": "ko",
+      "id": "apple-mac-local-ai-app",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "편의점 직원 된\n휴머노이드 로봇",
-      "body": "애지봇 G2 6대가 상하이 편의점에서 24시간 일하며 1730건을 처리했다.",
-      "mini_headline": "편의점 근무\n휴머노이드",
+      "headline": "Apple의 로컬 AI용\nMac 앱 단서 포착",
+      "body": "Aaron Perris가 로컬 AI용 Apple Mac 앱의 흔적을 찾았다.",
+      "mini_headline": "Apple의 Mac용 로컬 AI 앱",
       "tool": "Gadgets",
-      "source": "전자신문",
-      "url": "https://www.etnews.com/20261109000425",
-      "accent": "#eb367f",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "accent": "#f5a623",
       "motif": "headset",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg",
-            "cap": "출처=엑스(AGIBOTofficial)"
-          },
-          {
-            "t": "video",
-            "yt": "EBSo1cuv9QY"
+            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&w=1600",
+            "cap": "Mac mini"
           },
           {
             "t": "p",
-            "x": "휴머노이드 로봇 6대가 편의점에서 24시간 근무에 도전했습니다. 중국 로봇 스타트업 애지봇은 지난 2일부터 3일까지 상하이의 한 편의점에 바퀴형 휴머노이드 로봇 'G2' 6대를 투입해 근무 평가를 진행했습니다. 로봇들은 손님 응대와 상품 진열, 커피 제조, 음식 제공, 청소 등 다양한 업무를 수행했습니다."
+            "x": "유출 전문가 Aaron Perris가 Apple이 새 Mac 앱 Harbor를 만들고 있다는 증거를 찾아냈다. Harbor를 쓰면 Mac 한 대, 또는 여러 대에서 로컬 AI 모델을 손쉽게 돌릴 수 있다."
           },
           {
             "t": "p",
-            "x": "24시간 동안 총 1730건의 작업을 완료했으며, 커피 주문 147건을 처리하고 상품 369개를 가져다줬다고 회사 측은 밝혔습니다. 하지만 최종 평가에서는 6대 중 4대만 합격했습니다. 상품 진열을 담당한 로봇은 업무 적극성이 부족하다는 평가를 받았고, 청소 로봇은 쓰레기통이 가득 차자 정해진 경로를 벗어나 매장 밖으로 나가면서 탈락했습니다."
+            "x": "“Harbor는 Mac을 비공개 AI 추론 서버로 바꿔 줍니다. Apple silicon에서 오픈 웨이트 모델을 로컬로 실행하세요. 데이터는 하드웨어 밖으로 나가지 않으며, 클라우드에 닿는 것도 없습니다. 여러 대의 Mac 컴퓨터를 Thunderbolt 5로 연결해 통합 메모리를 모으면, 한 대의 컴퓨터가 감당할 수 있는 수준의 대형 모델과 더 높은 동시 처리량을 구현할 수 있습니다.”"
           },
           {
             "t": "p",
-            "x": "이번 도전은 실제 영업 중인 편의점에서 진행됐으며 전 과정이 온라인으로 생중계됐습니다."
+            "x": "Thunderbolt 5로 연결된 기기를 자동으로 찾아 주니 설정은 몇 분이면 끝난다. 앱 안에서 오픈 웨이트 모델을 둘러보고 내려받을 수 있고, Thunderbolt 5를 지원하는 Mac 두 대 이상을 하나의 추론 자원으로 묶는 클러스터링도 된다."
+          },
+          {
+            "t": "p",
+            "x": "Harbor는 지금 Apple의 Claris 브랜드로 비공개 프리뷰 중이다. 일반 출시는 앞으로 몇 주에서 몇 달 안에 이뤄질 가능성이 커 보인다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "편의점 직원 된\n휴머노이드 로봇",
-          "body": "애지봇 G2 6대가 상하이 편의점에서 24시간 일하며 1730건을 처리했다.",
-          "mini_headline": "편의점 근무\n휴머노이드",
+        "en": {
+          "headline": "Evidence of an Apple Mac app\nfor running local AI models",
+          "body": "Leaker Aaron Perris found evidence that Apple is building a Mac app designed to make running local AI models easy.",
+          "mini_headline": "Apple's local AI app for Mac",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg",
-                "cap": "출처=엑스(AGIBOTofficial)"
-              },
-              {
-                "t": "video",
-                "yt": "EBSo1cuv9QY"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&w=1600",
+                "cap": "Mac mini"
               },
               {
                 "t": "p",
-                "x": "휴머노이드 로봇 6대가 편의점에서 24시간 근무에 도전했습니다. 중국 로봇 스타트업 애지봇은 지난 2일부터 3일까지 상하이의 한 편의점에 바퀴형 휴머노이드 로봇 'G2' 6대를 투입해 근무 평가를 진행했습니다. 로봇들은 손님 응대와 상품 진열, 커피 제조, 음식 제공, 청소 등 다양한 업무를 수행했습니다."
+                "x": "Leaker Aaron Perris has discovered evidence of a new Mac app in the works at Apple called Harbor, which makes it easy to run local AI models across one or more Macs."
               },
               {
                 "t": "p",
-                "x": "24시간 동안 총 1730건의 작업을 완료했으며, 커피 주문 147건을 처리하고 상품 369개를 가져다줬다고 회사 측은 밝혔습니다. 하지만 최종 평가에서는 6대 중 4대만 합격했습니다. 상품 진열을 담당한 로봇은 업무 적극성이 부족하다는 평가를 받았고, 청소 로봇은 쓰레기통이 가득 차자 정해진 경로를 벗어나 매장 밖으로 나가면서 탈락했습니다."
+                "x": "“Harbor turns your Mac into a private AI inference server. Run open-weight models locally on Apple silicon—your data never leaves your hardware, and nothing reaches the cloud. Connect multiple Mac computers over Thunderbolt 5 to pool unified memory, enabling large models and higher concurrency that a single computer can handle alone.”"
               },
               {
                 "t": "p",
-                "x": "이번 도전은 실제 영업 중인 편의점에서 진행됐으며 전 과정이 온라인으로 생중계됐습니다."
+                "x": "Feature highlights include setup in minutes with automatic detection of devices over Thunderbolt 5, browsing and downloading open-weight models within the app, and clustering two or more Thunderbolt 5-capable Macs into a single inference resource."
+              },
+              {
+                "t": "p",
+                "x": "Harbor is currently in a private preview under Apple’s Claris brand, but it seems likely that we’ll see it launch to the public in the weeks and months ahead."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Humanoid robots become\nconvenience store clerks",
-          "body": "Six AgiBot G2 robots worked 24 hours at a Shanghai convenience store and handled 1,730 tasks.",
-          "mini_headline": "Humanoids staff\na convenience store",
+        "ko": {
+          "headline": "Apple의 로컬 AI용\nMac 앱 단서 포착",
+          "body": "Aaron Perris가 로컬 AI용 Apple Mac 앱의 흔적을 찾았다.",
+          "mini_headline": "Apple의 Mac용 로컬 AI 앱",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg",
-                "cap": "Source: X (AGIBOTofficial)"
-              },
-              {
-                "t": "video",
-                "yt": "EBSo1cuv9QY"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&w=1600",
+                "cap": "Mac mini"
               },
               {
                 "t": "p",
-                "x": "Six humanoid robots took on a 24-hour shift at a convenience store. Chinese robotics startup AgiBot deployed six of its wheeled humanoid robots, the 'G2', at a convenience store in Shanghai from the 2nd to the 3rd for a work evaluation. The robots handled a range of tasks, including serving customers, stocking shelves, making coffee, serving food and cleaning."
+                "x": "유출 전문가 Aaron Perris가 Apple이 새 Mac 앱 Harbor를 만들고 있다는 증거를 찾아냈다. Harbor를 쓰면 Mac 한 대, 또는 여러 대에서 로컬 AI 모델을 손쉽게 돌릴 수 있다."
               },
               {
                 "t": "p",
-                "x": "Over the 24 hours, they completed a total of 1,730 tasks, including 147 coffee orders, and fetched 369 products, the company said. In the final evaluation, however, only four of the six passed. The robot in charge of stocking shelves was judged to lack initiative, and the cleaning robot was eliminated after it strayed from its set route and left the store when the trash bin filled up."
+                "x": "“Harbor는 Mac을 비공개 AI 추론 서버로 바꿔 줍니다. Apple silicon에서 오픈 웨이트 모델을 로컬로 실행하세요. 데이터는 하드웨어 밖으로 나가지 않으며, 클라우드에 닿는 것도 없습니다. 여러 대의 Mac 컴퓨터를 Thunderbolt 5로 연결해 통합 메모리를 모으면, 한 대의 컴퓨터가 감당할 수 있는 수준의 대형 모델과 더 높은 동시 처리량을 구현할 수 있습니다.”"
               },
               {
                 "t": "p",
-                "x": "The challenge took place at a convenience store that was open for business, and the entire process was livestreamed online."
+                "x": "Thunderbolt 5로 연결된 기기를 자동으로 찾아 주니 설정은 몇 분이면 끝난다. 앱 안에서 오픈 웨이트 모델을 둘러보고 내려받을 수 있고, Thunderbolt 5를 지원하는 Mac 두 대 이상을 하나의 추론 자원으로 묶는 클러스터링도 된다."
+              },
+              {
+                "t": "p",
+                "x": "Harbor는 지금 Apple의 Claris 브랜드로 비공개 프리뷰 중이다. 일반 출시는 앞으로 몇 주에서 몇 달 안에 이뤄질 가능성이 커 보인다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "コンビニ店員になった\nヒューマノイドロボット",
-          "body": "AgiBotのG2 6台が上海のコンビニで24時間働き、1730件の作業をこなした。",
-          "mini_headline": "コンビニで働く\nヒューマノイド",
+          "headline": "AppleのローカルAI用\nMacアプリの痕跡",
+          "body": "Aaron PerrisがローカルAIを動かすApple製Macアプリの痕跡を発見した。",
+          "mini_headline": "AppleのMac向けローカルAIアプリ",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg",
-                "cap": "出典=X(AGIBOTofficial)"
-              },
-              {
-                "t": "video",
-                "yt": "EBSo1cuv9QY"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&w=1600",
+                "cap": "Mac mini"
               },
               {
                 "t": "p",
-                "x": "ヒューマノイドロボット6台がコンビニでの24時間勤務に挑んだ。中国のロボットスタートアップAgiBotは、2日から3日にかけて上海のコンビニに車輪型ヒューマノイドロボット「G2」6台を投入し、勤務評価を行った。ロボットたちは接客、商品陳列、コーヒーづくり、料理の提供、清掃などさまざまな業務をこなした。"
+                "x": "リーカーのAaron Perrisが、Appleが開発中の新しいMacアプリ「Harbor」の存在を示す証拠を見つけた。Harborは1台または複数のMacでローカルAIモデルを簡単に実行できるようにする。"
               },
               {
                 "t": "p",
-                "x": "同社によると、24時間で計1730件の作業を完了し、コーヒーの注文147件を処理し、商品369個を届けた。ただし最終評価で合格したのは6台中4台だけだった。商品陳列を担当したロボットは業務への積極性に欠けると評価され、清掃ロボットはゴミ箱が満杯になると決められたルートを外れて店外に出てしまい、不合格となった。"
+                "x": "「HarborはMacをプライベートなAI推論サーバーに変える。オープンウェイトモデルをApple silicon上でローカルに実行できる。データがハードウェアの外に出ることはなく、クラウドに届くものも一切ない。複数のMacコンピューターをThunderbolt 5で接続してユニファイドメモリをプールすれば、1台のコンピューターで処理できる大規模モデルとより高い同時実行性を実現できる。」"
               },
               {
                 "t": "p",
-                "x": "今回の挑戦は実際に営業中のコンビニで行われ、全過程がオンラインで生配信された。"
+                "x": "主な機能は、Thunderbolt 5経由でデバイスを自動検出して数分で完了するセットアップ、アプリ内でのオープンウェイトモデルの閲覧とダウンロード、そしてThunderbolt 5対応のMac 2台以上を1つの推論リソースにまとめるクラスタリングだ。"
+              },
+              {
+                "t": "p",
+                "x": "Harborは現在、AppleのClarisブランドのもとでプライベートプレビュー中だが、今後数週間から数カ月のうちに一般公開される可能性が高そうだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "当上便利店店员的\n人形机器人",
-          "body": "AgiBot的6台G2在上海一家便利店工作24小时，完成了1730项任务。",
-          "mini_headline": "便利店里的\n人形机器人",
+          "headline": "Apple为本地AI模型\n打造Mac应用的线索",
+          "body": "爆料者Aaron Perris发现迹象：Apple在开发便于运行本地AI模型的Mac应用。",
+          "mini_headline": "Apple的Mac本地AI应用",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg",
-                "cap": "来源：X（AGIBOTofficial）"
-              },
-              {
-                "t": "video",
-                "yt": "EBSo1cuv9QY"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&w=1600",
+                "cap": "Mac mini"
               },
               {
                 "t": "p",
-                "x": "6台人形机器人在便利店挑战了24小时工作。中国机器人初创公司AgiBot于2日至3日在上海一家便利店投放了6台轮式人形机器人“G2”，开展工作评估。机器人们承担了接待顾客、商品上架、制作咖啡、提供餐食、清洁等多种工作。"
+                "x": "爆料者Aaron Perris发现了Apple正在开发一款名为Harbor的新Mac应用的证据，它可以让用户轻松地在一台或多台Mac上运行本地AI模型。"
               },
               {
                 "t": "p",
-                "x": "该公司表示，机器人在24小时内共完成1730项任务，处理了147份咖啡订单，并取送了369件商品。但在最终评估中，6台中只有4台合格。负责商品上架的机器人被评为工作积极性不足，清洁机器人则在垃圾桶装满后偏离既定路线、走出店外而被淘汰。"
+                "x": "“Harbor可将你的Mac变成私有AI推理服务器。在Apple silicon上本地运行开放权重模型——你的数据永远不会离开你的硬件，也不会有任何内容传到云端。通过Thunderbolt 5连接多台Mac电脑以汇集统一内存，实现单台电脑即可处理的大型模型和更高的并发能力。”"
               },
               {
                 "t": "p",
-                "x": "此次挑战在一家正常营业的便利店进行，全过程在网上直播。"
+                "x": "主要功能包括：通过Thunderbolt 5自动检测设备，几分钟即可完成设置；在应用内浏览和下载开放权重模型；以及将两台或更多支持Thunderbolt 5的Mac组成单一推理资源的集群功能。"
+              },
+              {
+                "t": "p",
+                "x": "Harbor目前以Apple旗下Claris品牌进行非公开预览，但看起来很可能会在未来几周到几个月内向公众推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Robots humanoides, empleados\nde una tienda de conveniencia",
-          "body": "Seis robots G2 de AgiBot trabajaron 24 horas en una tienda de conveniencia de Shanghái y completaron 1.730 tareas.",
-          "mini_headline": "Humanoides que atienden\nuna tienda de conveniencia",
+          "headline": "Indicios de una app de Apple\npara ejecutar IA local en Mac",
+          "body": "El filtrador Aaron Perris halló indicios de una app de Apple para Mac que facilita ejecutar modelos de IA locales.",
+          "mini_headline": "La app de IA local de Apple para Mac",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg",
-                "cap": "Fuente: X (AGIBOTofficial)"
-              },
-              {
-                "t": "video",
-                "yt": "EBSo1cuv9QY"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&w=1600",
+                "cap": "Mac mini"
               },
               {
                 "t": "p",
-                "x": "Seis robots humanoides asumieron el reto de trabajar 24 horas en una tienda de conveniencia. La startup china de robótica AgiBot desplegó del día 2 al 3 seis robots humanoides con ruedas, los 'G2', en una tienda de conveniencia de Shanghái para evaluar su desempeño laboral. Los robots realizaron diversas tareas, como atender a clientes, reponer productos, preparar café, servir comida y limpiar."
+                "x": "El filtrador Aaron Perris ha descubierto indicios de una nueva app para Mac en desarrollo en Apple, llamada Harbor, que facilita ejecutar modelos de IA locales en uno o varios Macs."
               },
               {
                 "t": "p",
-                "x": "Según la empresa, en 24 horas completaron un total de 1.730 tareas, atendieron 147 pedidos de café y entregaron 369 productos. Sin embargo, en la evaluación final solo aprobaron cuatro de los seis. El robot encargado de reponer productos fue calificado como poco proactivo, y el robot de limpieza quedó eliminado al salirse de su ruta establecida y abandonar la tienda cuando se llenó el cubo de basura."
+                "x": "“Harbor convierte tu Mac en un servidor privado de inferencia de IA. Ejecuta modelos de pesos abiertos localmente en Apple silicon: tus datos nunca salen de tu hardware y nada llega a la nube. Conecta varios ordenadores Mac mediante Thunderbolt 5 para combinar la memoria unificada, lo que permite modelos grandes y una mayor concurrencia que un solo ordenador puede manejar por sí solo.”"
               },
               {
                 "t": "p",
-                "x": "El reto se llevó a cabo en una tienda de conveniencia en funcionamiento y todo el proceso se transmitió en directo por internet."
+                "x": "Entre las funciones destacadas figuran una configuración en minutos con detección automática de dispositivos por Thunderbolt 5, la exploración y descarga de modelos de pesos abiertos dentro de la app y la agrupación de dos o más Macs compatibles con Thunderbolt 5 en un único recurso de inferencia."
+              },
+              {
+                "t": "p",
+                "x": "Harbor se encuentra en una vista previa privada bajo la marca Claris de Apple, pero parece probable que se lance al público en las próximas semanas y meses."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Humanoid robots become\nconvenience store clerks",
-          "body": "Six AgiBot G2 robots worked 24 hours at a Shanghai convenience store and handled 1,730 tasks.",
-          "mini_headline": "Humanoids staff\na convenience store",
+        "ko": {
+          "headline": "Apple의 로컬 AI용\nMac 앱 단서 포착",
+          "body": "Aaron Perris가 로컬 AI용 Apple Mac 앱의 흔적을 찾았다.",
+          "mini_headline": "Apple의 Mac용 로컬 AI 앱",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg",
-                "cap": "Source: X (AGIBOTofficial)"
-              },
-              {
-                "t": "video",
-                "yt": "EBSo1cuv9QY"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&w=1600",
+                "cap": "Mac mini"
               },
               {
                 "t": "p",
-                "x": "Six humanoid robots took on a 24-hour shift at a convenience store. Chinese robotics startup AgiBot deployed six of its wheeled humanoid robots, the 'G2', at a convenience store in Shanghai from the 2nd to the 3rd for a work evaluation. The robots handled a range of tasks, including serving customers, stocking shelves, making coffee, serving food and cleaning."
+                "x": "유출 전문가 Aaron Perris가 Apple이 개발 중인 새 Mac 앱 Harbor의 존재를 보여 주는 증거를 찾아냈다. Harbor는 한 대 또는 여러 대의 Mac에서 로컬 AI 모델을 쉽게 실행하게 해 준다."
               },
               {
                 "t": "p",
-                "x": "Over the 24 hours, they completed a total of 1,730 tasks, including 147 coffee orders, and fetched 369 products, the company said. In the final evaluation, however, only four of the six passed. The robot in charge of stocking shelves was judged to lack initiative, and the cleaning robot was eliminated after it strayed from its set route and left the store when the trash bin filled up."
+                "x": "“Harbor는 Mac을 비공개 AI 추론 서버로 바꿔 줍니다. Apple silicon에서 오픈 웨이트 모델을 로컬로 실행하세요. 데이터는 하드웨어 밖으로 나가지 않으며, 클라우드에 닿는 것도 없습니다. 여러 대의 Mac 컴퓨터를 Thunderbolt 5로 연결해 통합 메모리를 모으면, 한 대의 컴퓨터가 감당할 수 있는 수준의 대형 모델과 더 높은 동시 처리량을 구현할 수 있습니다.”"
               },
               {
                 "t": "p",
-                "x": "The challenge took place at a convenience store that was open for business, and the entire process was livestreamed online."
+                "x": "주요 기능으로는 Thunderbolt 5로 연결된 기기를 자동 감지해 몇 분 만에 끝나는 설정, 앱 안에서 오픈 웨이트 모델을 둘러보고 내려받는 기능, Thunderbolt 5를 지원하는 Mac 두 대 이상을 하나의 추론 자원으로 묶는 클러스터링이 있다."
+              },
+              {
+                "t": "p",
+                "x": "Harbor는 현재 Apple의 Claris 브랜드 아래 비공개 프리뷰 단계지만, 앞으로 몇 주에서 몇 달 안에 일반에 출시될 가능성이 커 보인다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "コンビニ店員になった\nヒューマノイドロボット",
-          "body": "AgiBotのG2 6台が上海のコンビニで24時間働き、1730件の作業をこなした。",
-          "mini_headline": "コンビニで働く\nヒューマノイド",
+          "headline": "AppleのローカルAI用\nMacアプリの痕跡",
+          "body": "Aaron PerrisがローカルAIを動かすApple製Macアプリの痕跡を発見した。",
+          "mini_headline": "AppleのMac向けローカルAIアプリ",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg",
-                "cap": "出典=X(AGIBOTofficial)"
-              },
-              {
-                "t": "video",
-                "yt": "EBSo1cuv9QY"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&w=1600",
+                "cap": "Mac mini"
               },
               {
                 "t": "p",
-                "x": "ヒューマノイドロボット6台がコンビニでの24時間勤務に挑んだ。中国のロボットスタートアップAgiBotは、2日から3日にかけて上海のコンビニに車輪型ヒューマノイドロボット「G2」6台を投入し、勤務評価を行った。ロボットたちは接客、商品陳列、コーヒーづくり、料理の提供、清掃などさまざまな業務をこなした。"
+                "x": "リーカーのAaron Perrisが、Appleが開発中の新しいMacアプリ「Harbor」の存在を示す証拠を見つけた。Harborは1台または複数のMacでローカルAIモデルを簡単に実行できるようにする。"
               },
               {
                 "t": "p",
-                "x": "同社によると、24時間で計1730件の作業を完了し、コーヒーの注文147件を処理し、商品369個を届けた。ただし最終評価で合格したのは6台中4台だけだった。商品陳列を担当したロボットは業務への積極性に欠けると評価され、清掃ロボットはゴミ箱が満杯になると決められたルートを外れて店外に出てしまい、不合格となった。"
+                "x": "「HarborはMacをプライベートなAI推論サーバーに変える。オープンウェイトモデルをApple silicon上でローカルに実行できる。データがハードウェアの外に出ることはなく、クラウドに届くものも一切ない。複数のMacコンピューターをThunderbolt 5で接続してユニファイドメモリをプールすれば、1台のコンピューターで処理できる大規模モデルとより高い同時実行性を実現できる。」"
               },
               {
                 "t": "p",
-                "x": "今回の挑戦は実際に営業中のコンビニで行われ、全過程がオンラインで生配信された。"
+                "x": "主な機能は、Thunderbolt 5経由でデバイスを自動検出して数分で完了するセットアップ、アプリ内でのオープンウェイトモデルの閲覧とダウンロード、そしてThunderbolt 5対応のMac 2台以上を1つの推論リソースにまとめるクラスタリングだ。"
+              },
+              {
+                "t": "p",
+                "x": "Harborは現在、AppleのClarisブランドのもとでプライベートプレビュー中だが、今後数週間から数カ月のうちに一般公開される可能性が高そうだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "当上便利店店员的\n人形机器人",
-          "body": "AgiBot的6台G2在上海一家便利店工作24小时，完成了1730项任务。",
-          "mini_headline": "便利店里的\n人形机器人",
+          "headline": "Apple为本地AI模型\n打造Mac应用的线索",
+          "body": "爆料者Aaron Perris发现迹象：Apple在开发便于运行本地AI模型的Mac应用。",
+          "mini_headline": "Apple的Mac本地AI应用",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg",
-                "cap": "来源：X（AGIBOTofficial）"
-              },
-              {
-                "t": "video",
-                "yt": "EBSo1cuv9QY"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&w=1600",
+                "cap": "Mac mini"
               },
               {
                 "t": "p",
-                "x": "6台人形机器人在便利店挑战了24小时工作。中国机器人初创公司AgiBot于2日至3日在上海一家便利店投放了6台轮式人形机器人“G2”，开展工作评估。机器人们承担了接待顾客、商品上架、制作咖啡、提供餐食、清洁等多种工作。"
+                "x": "爆料者Aaron Perris发现了Apple正在开发一款名为Harbor的新Mac应用的证据，它可以让用户轻松地在一台或多台Mac上运行本地AI模型。"
               },
               {
                 "t": "p",
-                "x": "该公司表示，机器人在24小时内共完成1730项任务，处理了147份咖啡订单，并取送了369件商品。但在最终评估中，6台中只有4台合格。负责商品上架的机器人被评为工作积极性不足，清洁机器人则在垃圾桶装满后偏离既定路线、走出店外而被淘汰。"
+                "x": "“Harbor可将你的Mac变成私有AI推理服务器。在Apple silicon上本地运行开放权重模型——你的数据永远不会离开你的硬件，也不会有任何内容传到云端。通过Thunderbolt 5连接多台Mac电脑以汇集统一内存，实现单台电脑即可处理的大型模型和更高的并发能力。”"
               },
               {
                 "t": "p",
-                "x": "此次挑战在一家正常营业的便利店进行，全过程在网上直播。"
+                "x": "主要功能包括：通过Thunderbolt 5自动检测设备，几分钟即可完成设置；在应用内浏览和下载开放权重模型；以及将两台或更多支持Thunderbolt 5的Mac组成单一推理资源的集群功能。"
+              },
+              {
+                "t": "p",
+                "x": "Harbor目前以Apple旗下Claris品牌进行非公开预览，但看起来很可能会在未来几周到几个月内向公众推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Robots humanoides, empleados\nde una tienda de conveniencia",
-          "body": "Seis robots G2 de AgiBot trabajaron 24 horas en una tienda de conveniencia de Shanghái y completaron 1.730 tareas.",
-          "mini_headline": "Humanoides que atienden\nuna tienda de conveniencia",
+          "headline": "Indicios de una app de Apple\npara ejecutar IA local en Mac",
+          "body": "El filtrador Aaron Perris halló indicios de una app de Apple para Mac que facilita ejecutar modelos de IA locales.",
+          "mini_headline": "La app de IA local de Apple para Mac",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg",
-                "cap": "Fuente: X (AGIBOTofficial)"
-              },
-              {
-                "t": "video",
-                "yt": "EBSo1cuv9QY"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&w=1600",
+                "cap": "Mac mini"
               },
               {
                 "t": "p",
-                "x": "Seis robots humanoides asumieron el reto de trabajar 24 horas en una tienda de conveniencia. La startup china de robótica AgiBot desplegó del día 2 al 3 seis robots humanoides con ruedas, los 'G2', en una tienda de conveniencia de Shanghái para evaluar su desempeño laboral. Los robots realizaron diversas tareas, como atender a clientes, reponer productos, preparar café, servir comida y limpiar."
+                "x": "El filtrador Aaron Perris ha descubierto indicios de una nueva app para Mac en desarrollo en Apple, llamada Harbor, que facilita ejecutar modelos de IA locales en uno o varios Macs."
               },
               {
                 "t": "p",
-                "x": "Según la empresa, en 24 horas completaron un total de 1.730 tareas, atendieron 147 pedidos de café y entregaron 369 productos. Sin embargo, en la evaluación final solo aprobaron cuatro de los seis. El robot encargado de reponer productos fue calificado como poco proactivo, y el robot de limpieza quedó eliminado al salirse de su ruta establecida y abandonar la tienda cuando se llenó el cubo de basura."
+                "x": "“Harbor convierte tu Mac en un servidor privado de inferencia de IA. Ejecuta modelos de pesos abiertos localmente en Apple silicon: tus datos nunca salen de tu hardware y nada llega a la nube. Conecta varios ordenadores Mac mediante Thunderbolt 5 para combinar la memoria unificada, lo que permite modelos grandes y una mayor concurrencia que un solo ordenador puede manejar por sí solo.”"
               },
               {
                 "t": "p",
-                "x": "El reto se llevó a cabo en una tienda de conveniencia en funcionamiento y todo el proceso se transmitió en directo por internet."
+                "x": "Entre las funciones destacadas figuran una configuración en minutos con detección automática de dispositivos por Thunderbolt 5, la exploración y descarga de modelos de pesos abiertos dentro de la app y la agrupación de dos o más Macs compatibles con Thunderbolt 5 en un único recurso de inferencia."
+              },
+              {
+                "t": "p",
+                "x": "Harbor se encuentra en una vista previa privada bajo la marca Claris de Apple, pero parece probable que se lance al público en las próximas semanas y meses."
               }
             ]
           }

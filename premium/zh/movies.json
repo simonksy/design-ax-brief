@@ -9855,6 +9855,139 @@
           "x": "“对我们来说，这是一场不断推动诉讼与立法的努力。”他说，“说到底，就是不让别人偷走你的作品并改作他用。”"
         }
       ]
+    },
+    "movies/avid-readytoplay-veo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/media-composer-ready-to-play-app-perspective-1080p-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Avid发布了Media Composer的全新AI-powered扩展Ready to Play，它与Google Cloud合作打造，由Google的Gemini和Veo AI模型驱动。Media Composer Ultimate和Enterprise用户现在即可使用，Avid不额外收费，但使用Google的AI模型需要符合条件的Google Cloud结算账户。"
+        },
+        {
+          "t": "p",
+          "x": "Create Video可根据文本提示词，或从片段、序列中截取的静帧生成视频片段，结果会进入Media Composer素材箱。Modify Video通过文本提示词尝试对片段做视觉修改，例如去除吊杆麦克风，并生成保留原始素材的独立输出。Analyze Video生成可添加到片段的描述性元数据，不会覆盖已录入的内容。"
+        },
+        {
+          "t": "p",
+          "x": "Ready to Play是Avid扩大与Google Cloud合作后推出的首款商业产品。在Avid对American Cinema Editors（ACE）的120名剪辑师进行的调查中，每天或每周使用AI的人里有超过80%表示，AI工具应内置于他们已在使用的应用中。"
+        }
+      ]
+    },
+    "movies/webby-credits-registry": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-1397655480.jpg?crop=0px%2C83px%2C4982px%2C2787px&resize=1440%2C810",
+          "cap": "2022年，Adam Scott领取Webby奖。"
+        },
+        {
+          "t": "p",
+          "x": "Webby Awards今年早些时候刚庆祝30周年，现在正让获奖者、提名者及其他受表彰者更容易确保自己的作品获得应有的署名。"
+        },
+        {
+          "t": "p",
+          "x": "“Global Webby Credits Registry把30年来的Webby认可交到超过150,000位获得者以及未来数年将获得认可的数千人手中，为他们提供在AI时代建立声誉的经认证资历，”Webby Group执行董事Jesse Feister说。"
+        },
+        {
+          "t": "p",
+          "x": "“搜索结果越来越多地由AI来总结，”Feister对The Hollywood Reporter表示，“AI让创作比以往任何时候都更容易，拥有一份可信的、记录你实际参与过什么的档案也随之变得更加重要。”"
+        },
+        {
+          "t": "p",
+          "x": "Shonda Rhimes和Adam Scott已作为创始成员发布了经认证的个人资料，此次上线得到PBS、iHeartMedia和R/GA的支持。符合条件的个人可搜索数据库、认领自己的署名、通过LinkedIn验证身份并发布个人资料。"
+        }
+      ]
+    },
+    "movies/elempleo-ai-knockoff": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/El-empleo-AI-Ripoff.jpg"
+        },
+        {
+          "t": "p",
+          "x": "上周末，一个相对小众的Instagram账号凭借对2008年备受赞誉的阿根廷动画短片El Empleo的AI-generated仿作走红。"
+        },
+        {
+          "t": "video",
+          "yt": "5KyifKNlY7A"
+        },
+        {
+          "t": "p",
+          "x": "该账号Nightframe已删除这部未经授权的翻拍。此前，与Santiago Bou Grasso共同执导该短片的联合创作者Patricio Plaza反对自己的作品被挪用来推广一项付费AI电影制作服务。据报道，这段30秒的仿作在不到24小时内获得超过五百万次观看。"
+        },
+        {
+          "t": "p",
+          "x": "其配文让观众“Send AI to find out how I made this film”（发送AI，了解我如何制作这部影片），随即触发一条自动消息，将他们引向AI Film School——一项以每月$49宣传AI电影制作教学的服务。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/AI-Film-School.jpg",
+          "cap": "AI Film School"
+        },
+        {
+          "t": "p",
+          "x": "“所以这些人不仅侵犯了影片的版权，还利用它让自己的AI生意走红并创收，”Plaza说。Nightframe背后的运营者否认从该视频获利，也否认与AI Film School有任何财务关系。"
+        }
+      ]
+    },
+    "movies/stormdogs-minkoff-trailer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/StormDogs.png?w=1440&h=810&crop=1",
+          "cap": "《Storm Dogs》剧照。"
+        },
+        {
+          "t": "p",
+          "x": "Tilly Norwood的制片人Eline van der Velden一直在开发Storm Dogs，这是一部真人与动画混合的家庭电影，讲述一群形形色色的小狗帮助在森林里迷路的幼儿回家。她还请来The Lion King联合导演Rob Minkoff执导。影片中的孩子和各种犬种将由AI生成（由真人配音演员配音），部分真人场景则由成年演员出演。"
+        },
+        {
+          "t": "video",
+          "yt": "gC9FufeIsxI"
+        },
+        {
+          "t": "p",
+          "x": "“Eline向我提出了这个想法，我觉得‘这是这项技术最好的用例’，”Minkoff对THR表示，并补充说他与Tilly Norwood没有任何关系，也不为其背书。"
+        },
+        {
+          "t": "p",
+          "x": "Particle 6团队计划在部分公开活动上并向业内人士展示这段2 1/2分钟的概念验证短片。Minkoff估计影片大约需要一年完成。影片由Particle 6背后的一位私人捐助者出资，并将在制作后期寻求制片厂发行。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/RobMinkoffStormDogs.png",
+          "cap": "Rob Minkoff（右）在制作《Storm Dogs》"
+        }
+      ]
+    },
+    "movies/disney-adobe-firefly-foundry": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
+          "cap": "Princess and the Frog"
+        },
+        {
+          "t": "p",
+          "x": "Disney敲定了下一个重要AI合作伙伴，这次与Adobe结成多年联盟，将定制生成式AI模型引入旗下各业务的创作流程，其中包括能把手绘草图变成完整渲染概念图的工具。"
+        },
+        {
+          "t": "p",
+          "x": "根据协议，Adobe将成为Disney官方“AI Innovation Partner”，并向其开放Firefly、Firefly Foundry、Premiere、Photoshop以及专属工程资源。双方将共同开发以Disney IP训练的定制AI模型，以“生成商业上安全、可直接用于制作的成果”。"
+        },
+        {
+          "t": "p",
+          "x": "相关工作已经展开：Walt Disney Imagineering正用Firefly Foundry根据人工绘制的图稿生成2D 概念图，并为乐园开发制作IP-based 图形。Adobe还将与Disney的StudioLAB合作探索实验性制作流程，并与ESPN Edge合作开发AI-powered 体育内容。"
+        },
+        {
+          "t": "p",
+          "x": "此前，Disney曾向OpenAI投资$1 billion ，但随着Sora关停而告吹；Disney还聘请前Character.AI CEO Karandeep Anand出任首位首席技术官。与Adobe合作的财务条款尚未公开。"
+        }
+      ]
     }
   }
 }

@@ -11327,6 +11327,156 @@
           "x": "El chat de voz es distinto del dictado, que en versiones anteriores se llamaba Voice Mode. El dictado sigue convirtiendo tu voz en texto en el campo de chat, y Cmd+Shift+Space sigue activándolo y desactivándolo en el IDE. El chat de voz es una conversación bidireccional en la que el agente responde en voz alta."
         }
       ]
+    },
+    "design/photoshop-28-ai-relighting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_Photoshop28_f-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adobe ha lanzado Photoshop 28.0. Es una actualización importante que añade nuevas funciones de AI para reiluminar imágenes, eliminar de forma inteligente todo rastro de objetos y adaptarlas a distintas relaciones de aspecto."
+        },
+        {
+          "t": "video",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_Photoshop28_Relight.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Relight detecta las fuentes de luz existentes en una imagen y las usa como entrada para generar nueva iluminación con AI generativa. Los usuarios pueden ajustar el color, la intensidad o la suavidad de las fuentes existentes, o hacer clic en la imagen para añadir hasta tres nuevas fuentes de luz. Consume 30 créditos generativos por generación."
+        },
+        {
+          "t": "p",
+          "x": "Remove related elements, basado en Project Trace Erase, elimina las sombras y reflejos de un objeto, además de efectos como humo, vapor, ondas en el agua e incluso huellas. Consume 10 créditos generativos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_Photoshop28_GenerativeRecompose-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Generative Recompose cambia la relación de aspecto de las imágenes “reposicionando de forma inteligente a los sujetos y adaptando los fondos al nuevo diseño”. Generative Restyle añade un control deslizante de intensidad a las ediciones con AI, y Generative Upscale ahora admite el modelo Firefly Upscaler 2. Las suscripciones Single-app de Photoshop cuestan $34.49 al mes o $263.88 al año."
+        }
+      ]
+    },
+    "design/claude-connectors-design-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://claude.com/resources/articles/interactive-connectors-full-tool/opengraph-image/og"
+        },
+        {
+          "t": "p",
+          "x": "A principios de este año lanzamos los conectores interactivos para llevar a Claude una pequeña vista en vivo de las herramientas. Desde hoy, cuando un conector lo admite, se puede abrir una herramienta junto a la conversación o ampliarla a pantalla completa, y pedir a Claude que trabaje al lado y haga cambios directamente. La función llega a la web y a la app de escritorio de Claude en todos los planes."
+        },
+        {
+          "t": "video",
+          "yt": "Gy1jSeSzAhk"
+        },
+        {
+          "t": "p",
+          "x": "Se puede pedir a Claude que modifique una página, fila o archivo abierto y aprobar sus acciones igual que se aprueban las de un conector. Los cambios aparecen en la herramienta a medida que Claude los hace. También se puede abrir directamente una herramienta conectada y fijar las más usadas."
+        },
+        {
+          "t": "p",
+          "x": "Empezamos con un pequeño grupo de herramientas de nuestro directorio, entre ellas Asana, Canva, Carta, Dropbox, monday.com, Smartsheet, Vercel y Webflow. Con Adobe, se puede pedir a Claude que retoque, edite y añada efectos a fotos, y que resalte, edite y oculte contenido en PDFs. Figma, Harvey y Shopify también desarrollan integraciones."
+        },
+        {
+          "t": "p",
+          "x": "Los conectores interactivos funcionan con MCP Apps, la extensión abierta del Model Context Protocol que permite a un servidor MCP llevar su propia interfaz a aplicaciones de AI. El soporte para desarrolladores está en vista previa pública."
+        }
+      ]
+    },
+    "design/after-effects-27-ai-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_AfterEffects27_f-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adobe ha lanzado After Effects 27.0, la versión más reciente de su software de composición para gráficos en movimiento, posproducción (post-production) y VFX. La actualización añade un nuevo AI Assistant agéntico que permite controlar After Effects con instrucciones de texto para automatizar tareas repetitivas o incluso generar expresiones de JavaScript."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_AfterEffects28_AIAssistant-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Entre los usos sugeridos está revisar composiciones o metraje enviados por colaboradores, con un resumen automático que devuelve el Assistant. La mayoría de las “acciones creativas” que realiza consumen créditos generativos; las suscripciones Single-app incluyen 25 créditos generativos gratuitos al mes."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_AfterEffects27_ContourPaint-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El nuevo efecto Contour Paint difumina píxeles a lo largo de los bordes de las formas del metraje, “de forma similar a pintar con los dedos”. Los cambios en las herramientas 3D incluyen la opción de aplicar materiales de Substance a texto y formas 3D, y de usar capas como fuente de materiales. El texto importado de Illustrator llega ahora como capa editable, y mejoran Auto-Save y la recuperación tras fallos."
+        },
+        {
+          "t": "p",
+          "x": "After Effects 27.0 está disponible para Windows 11 y macOS 15.0+ solo en modalidad de alquiler (rental-only). Las suscripciones Single-app cuestan $34.49 al mes o $263.88 al año."
+        }
+      ]
+    },
+    "design/trimble-construction-ai-agents": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Trimble anunció nuevas capacidades de AI en Trimble Connect para todo el ciclo de diseño, construcción y operación. Con más de 55 millones de usuarios acumulados que han trabajado en más de 35 millones de proyectos, la plataforma ofrece una única capa de datos compartida en un ecosistema abierto de más de 400 integraciones."
+        },
+        {
+          "t": "p",
+          "x": "Trimble Assist ofrece una interfaz de AI conversacional común para interactuar con agentes de AI, mientras que Trimble Agent Studio permite a los clientes plasmar procedimientos operativos estándar y conocimiento institucional en agentes y habilidades de AI personalizados."
+        },
+        {
+          "t": "p",
+          "x": "Destacados en Trimble Dimensions: Generative Design, que permite generar opciones arquitectónicas a partir de nubes de puntos as-built en vivo; Automated Structural Modeling a partir de instrucciones en lenguaje natural; One-Click AI Indoor Classification; AI Diagnostics for Field Hardware; 360 Reality Capture; inspecciones voice-driven con AI Punch Walk; AI Procurement and Invoice Matching; Contract Risk Analysis and Change Order Automation; y Trimble Connect Scheduling, impulsado por un motor de planificación agéntico."
+        },
+        {
+          "t": "p",
+          "x": "El 100% de los agentes y modelos de AI disponibles hoy en la plataforma incluye ‘etiquetas de seguridad’ de AI estandarizadas y en vivo, alineadas con la EU AI Act y la ISO 42001. Generative Design está ahora en Trimble Labs; AI Diagnostics for Field Hardware está disponible para clientes seleccionados."
+        }
+      ]
+    },
+    "design/claude-electronics-prototypes": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hace poco más de un año, Anthropic empezó a probar con Diode Computers qué tan bien podía Claude diseñar circuitos electrónicos básicos. Los modelos de entonces no lograban trazar una placa de circuito de forma fiable. Ahora, Claude puede diseñar y prototipar hardware electrónico de principio a fin."
+        },
+        {
+          "t": "video",
+          "yt": "vdYynH177h0"
+        },
+        {
+          "t": "p",
+          "x": "Junto con Diode, Anthropic pidió a Claude Fable 5.2 que diseñara tres dispositivos: un altavoz manos libres, un hub de asistente de voz y una mascota virtual de mano. Claude redactó las especificaciones, dibujó los esquemas, colocó los componentes en el PCB, enrutó las conexiones de cobre, diseñó una carcasa 3D-printable (imprimible en 3D), programó el firmware y preparó una lista de piezas. Los prototipos funcionaron sin ninguna corrección en sus circuitos."
+        },
+        {
+          "t": "p",
+          "x": "En PCB Gym, una prueba interna, Fable 5.2 obtuvo un 69%, frente al 25% de Fable 5. En BenchCAD 2.1 alcanzó un 83.5%, casi el doble que Claude Fable 5.1."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/4zrzovbb/website/1e8e384cb5bbf67da75851ecce146f47a425af0b-1888x1062.png",
+          "cap": "Las cuatro capas de cobre del altavoz manos libres."
+        },
+        {
+          "t": "p",
+          "x": "Claude revisó su propio trabajo sin que se lo pidieran, reasignando pines y volviendo a trazar pistas “decenas de veces”. También escribió su propio enrutador, capaz de trazar cada pista larga en aproximadamente un segundo."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/4zrzovbb/website/64a2aade621d8d6a50c57f9f3d0ac050ea778423-2048x949.png",
+          "cap": "Claude descubrió cómo instalar la placa inclinándola unos 25 grados."
+        },
+        {
+          "t": "p",
+          "x": "Diode fabricó las tres placas directamente a partir de los archivos de diseño de Claude. Los dispositivos siguen siendo prototipos: no han pasado por validación eléctrica, ajuste de antena, pruebas térmicas ni certificación."
+        }
+      ]
     }
   }
 }

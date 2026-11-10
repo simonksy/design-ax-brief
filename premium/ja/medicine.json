@@ -3849,6 +3849,131 @@
           "x": "結果はまだ査読を経ておらず予備的なものとみなすべきで、完全な結果は2027年初めに発表される見込みだ。"
         }
       ]
+    },
+    "medicine/aha-voice-heartfailure-alert": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_"
+        },
+        {
+          "t": "p",
+          "x": "スマートフォンを使う人工知能(AI)音声解析システムが、心不全症状の悪化を三週間以上早く検知し、標準治療を大きく上回った。American Heart Association Scientific Sessions 2026で発表され、JACC: Heart Failureに掲載されたDETECT-HF試験の最新データによるものだ。"
+        },
+        {
+          "t": "p",
+          "x": "DETECT-HFは外来の心不全患者563人を対象にCordio MedicalのHearOシステムを評価した。重大な心不全イベントの70%超を平均24.6日前に予測した。筆頭研究者のWilliam T. Abraham, MDによると、従来の毎日の体重測定の感度は約20%にとどまる。"
+        },
+        {
+          "t": "video",
+          "src": "https://innovate-healthcare-cdn.s3.amazonaws.com/2026-11/William%20Abraham%20explains%20how%20AI%20voice%20analysis%20can%20detect%20worsening%20heart%20failure.mp4"
+        },
+        {
+          "t": "p",
+          "x": "HearOは毎日、定型の六つの文を話した音声を収集し、抑揚や呼吸パターンなどの音響的特徴を評価する。AIアルゴリズムが患者ごとの音声モデルを構築し、心不全悪化のパターンが現れると臨床医に通知する。"
+        },
+        {
+          "t": "p",
+          "x": "参加者は予定された録音の85%を完了した。原因不明のアラートは患者あたり年2.65件で、デバイス関連の有害事象は報告されなかった。HearOはFDAのブレークスルー・デバイス指定を受けており、同社は2027年のU.S.での発売を目指している。"
+        }
+      ]
+    },
+    "medicine/llm-mri-protocoling-radiology": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t"
+        },
+        {
+          "t": "p",
+          "x": "新たな分析によると、大規模言語モデルは患者に最適なMRIプロトコルを選ぶ点で放射線科医と同等の性能を発揮しうる。通常は手作業で行われるMRIプロトコル選択を、一部のモデルが標準化する助けになる可能性が示された。"
+        },
+        {
+          "t": "p",
+          "x": "University Hospital BonnのDr. Zeynep Bendella率いる研究チームは、連続した1,200件のMRI依頼票を用いて四つのオープンウェイトLLMsを評価した。基準には専門医資格を持つ二人の放射線科医の合意を用いた。"
+        },
+        {
+          "t": "p",
+          "x": "GPT-OSS-120BとQwen3-235B-A22B-Instruct-2507はいずれもプロトコル正解率94%を記録した。MedGemma-27B-Text-ITは79%、Gemma-3-27B-ITは58%で最も低かった。不適切な選択はGPT-OSSが5.8%、Qwen3が5.9%だったのに対し、MedGemmaは24.7%、Gemma3は68.3%だった。"
+        },
+        {
+          "t": "p",
+          "x": "最も多い誤りは、解剖学的には適切だが臨床的には最適でないプロトコルを選ぶものだった。著者らは、出力のばらつきと不適切な選択の頻度が、臨床的な監督なしに自動推奨へ頼るリスクを浮き彫りにしていると警告した。"
+        }
+      ]
+    },
+    "medicine/thyroid-eye-radiomics-radiotherapy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Figa_HTML.png"
+        },
+        {
+          "t": "p",
+          "x": "放射線治療は活動性の中等症から重症の甲状腺眼症(TED)に対する重要な治療だが、反応にはばらつきがあり、臨床活動性スコア(CAS)の予測力は限られる。著者らは臨床データ、従来の画像、MRIラジオミクス特徴を統合し、放射線治療への反応を予測するマルチシーケンスモデルを構築した。"
+        },
+        {
+          "t": "p",
+          "x": "標準化された放射線治療(20 Gy)を受けたTED患者85人を後ろ向きに登録した。T1CEとT2WIのMRIで外眼筋から得たラジオミクス特徴を用い、九つの機械学習アルゴリズムでモデルを開発した。"
+        },
+        {
+          "t": "p",
+          "x": "85人のうち46人が反応例、39人が非反応例だった。臨床モデルの性能は限定的だった(AUC = 0.700)が、T1CE、T2WI、マルチシーケンスのラジオミクスはそれぞれAUCs 0.850、0.875、0.933に達した。統合モデルは最も高いAUC(0.942)を示し、臨床モデルを有意に上回った(P = 0.040)。"
+        },
+        {
+          "t": "p",
+          "x": "このモデルは個別の意思決定を支え、効果のない放射線治療を減らし、甲状腺眼症の個別化管理を前進させる。前向き検証を経れば、個別のリスク層別化も支えうる。"
+        }
+      ]
+    },
+    "medicine/fda-telesurgery-autonomy-paper": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
+          "cap": "遠隔手術を手がけてきたFloridaの泌尿器科医Dr. Vipul Patel(右)が、病院の廊下で患者と話している。"
+        },
+        {
+          "t": "p",
+          "x": "Food and Drug Administration(食品医薬品局)は金曜日、自律機能または遠隔操作機能を持つロボット医療機器に関する討議資料を公表し、これらのシステムの便益とリスクについて意見を求めた。意見の締め切りは1月5日で、公開ワークショップは12月2〜3日に予定されている。"
+        },
+        {
+          "t": "p",
+          "x": "FDAによると、7月時点でU.S.では遠隔操作型または完全自律型のロボット機器で販売承認を得たものはない。10月にはDr. Vipul Patelが治験用機器免除のもと、約35マイル離れた患者にロボット前立腺摘除術を行った。"
+        },
+        {
+          "t": "p",
+          "x": "メーカーは自律機能の開発も模索している。採血担当者なしでの採血や、体内の生命を脅かす出血の発見・止血などが含まれうる。FDAは、人工知能、機械学習、接続技術の急速な進歩がロボット応用の拡大を後押ししているとした。"
+        },
+        {
+          "t": "p",
+          "x": "自律性は手技の正確性、再現性、ワークフロー効率を支えうる一方、誤った自律動作、使用者の注意力低下、手技のばらつきへの適応力の限界といった固有のリスクが便益に伴う可能性がある。"
+        }
+      ]
+    },
+    "medicine/science-ai-paper-error-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.science.org/do/10.1126/science.zrukrlb/rss/_20261102_ai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "新たな研究結果は、医療判断がかかった研究で技術的な欠陥を見つけるAIの適性を示している。"
+        },
+        {
+          "t": "p",
+          "x": "medRxivに掲載されたプレプリント「Large language models detect methodological errors that human peer review misses in clinical trials」(大規模言語モデルは臨床試験で人間の査読が見逃す方法論的誤りを検出する)は、ランダム化臨床試験の報告書三本に誤りを挿入した先行実験を再検証した。訓練を受けていない人間の査読者による重大な誤りの平均検出スコアは27%だった。"
+        },
+        {
+          "t": "p",
+          "x": "オープンウェイトモデル四つを含む十五の大規模言語モデルが同じ誤りで試験され、重大な誤りの検出スコアは53%から96%だった。記憶の影響を抑えるため、2026年に発表された臨床試験三本で試験を繰り返したところ、スコアは51%から99%、オープンウェイトモデルでは66%から87%だった。"
+        },
+        {
+          "t": "p",
+          "x": "誤りを挿入していない対照報告書でも、モデルは誤りの種類の2%から29%を指摘し、最も多かったのは結果に裏付けられない結論だった。重大な誤りの検出スコアが最も高かったのはOpus 5.5(99%)で、GPT-6.1 SolとGPT-6 Lunaは92%と87%だった。著者らは、人間の査読だけに頼ると避けられるはずの方法論的誤りが見逃されかねないと指摘している。"
+        }
+      ]
     }
   }
 }

@@ -11490,6 +11490,156 @@
           "x": "Voice chat is separate from dictation, which earlier releases called Voice Mode. Dictation still turns your speech into text in the chat input, and Cmd+Shift+Space still toggles it in the IDE. Voice chat is a two-way conversation where the agent answers out loud."
         }
       ]
+    },
+    "design/photoshop-28-ai-relighting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_Photoshop28_f-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adobe has released Photoshop 28.0. It's a major update, adding new AI features for relighting images, intelligently removing all traces of objects from them, and reformatting them to different aspect ratios."
+        },
+        {
+          "t": "video",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_Photoshop28_Relight.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Relight detects the existing light sources in an image and uses them as input for generating new lighting with generative AI. Users can adjust the color, intensity or softness of existing sources, or click in the image to add up to three new light sources. It uses 30 generative credits per generation."
+        },
+        {
+          "t": "p",
+          "x": "Remove related elements, based on Project Trace Erase, removes an object's shadows and reflections, plus effects like smoke, steam, water ripples and even footprints. It consumes 10 generative credits."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_Photoshop28_GenerativeRecompose-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Generative Recompose changes the aspect ratio of images by “intelligently repositioning subjects and adapting backgrounds to suit the new layout”. Generative Restyle adds an intensity slider to AI edits, and Generative Upscale now supports the Firefly Upscaler 2 model. Single-app Photoshop subscriptions cost $34.49/month or $263.88/year."
+        }
+      ]
+    },
+    "design/claude-connectors-design-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://claude.com/resources/articles/interactive-connectors-full-tool/opengraph-image/og"
+        },
+        {
+          "t": "p",
+          "x": "Earlier this year, we launched interactive connectors to bring a small live view of tools into Claude. Starting today, where a connector supports it, you can open a tool beside your conversation or expand it to full screen, and ask Claude to work alongside you and make changes directly. This is rolling out on the web and in the Claude desktop app on all plans."
+        },
+        {
+          "t": "video",
+          "yt": "Gy1jSeSzAhk"
+        },
+        {
+          "t": "p",
+          "x": "You can ask Claude to make changes to a page, row, or file that you have open and approve its actions the same way you approve a connector's actions. Changes appear in the tool as Claude makes them. You can also open a connected tool directly and pin the tools you use most."
+        },
+        {
+          "t": "p",
+          "x": "We're starting with a small group of tools from our directory, including Asana, Canva, Carta, Dropbox, monday.com, Smartsheet, Vercel, and Webflow. With Adobe, ask Claude to retouch, edit and add effects to photos; highlight, edit and redact PDFs. Figma, Harvey, and Shopify are also building integrations."
+        },
+        {
+          "t": "p",
+          "x": "Interactive connectors run on MCP Apps, the open extension to the Model Context Protocol that lets an MCP server bring its own interface into AI applications. Support is in public preview for developers."
+        }
+      ]
+    },
+    "design/after-effects-27-ai-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_AfterEffects27_f-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adobe has released After Effects 27.0, the latest version of the compositing software for motion graphics, post-production and VFX work. The update adds a new agentic AI Assistant, making it possible to control After Effects with text prompts in order to automate repetitive tasks, or even to generate JavaScript expressions."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_AfterEffects28_AIAssistant-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Suggested uses include inspecting compositions or footage provided by collaborators, with the Assistant returning an automatic summary. Most “creative actions” it carries out consume generative credits; single-app subscriptions provide 25 free generative credits per month."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_AfterEffects27_ContourPaint-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A new Contour Paint effect smears pixels along the edges of shapes in footage, “similar to finger painting”. Changes to the 3D toolset include the option to apply Substance materials to 3D text and shapes, and to use layers as material sources. Text imported from Illustrator now comes in as an editable layer, and Auto-Save and crash recovery are improved."
+        },
+        {
+          "t": "p",
+          "x": "After Effects 27.0 is available for Windows 11 and macOS 15.0+ on a rental-only basis. Single-app subscriptions cost $34.49/month or $263.88/year."
+        }
+      ]
+    },
+    "design/trimble-construction-ai-agents": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Trimble announced new Trimble Connect AI capabilities across the design, build and operate lifecycle of construction. With over 55 million cumulative users that have worked across more than 35 million projects, the platform enables one shared data layer across an open ecosystem of more than 400 integrations."
+        },
+        {
+          "t": "p",
+          "x": "Trimble Assist provides a common, conversational AI interface to interact with AI agents, while Trimble Agent Studio lets customers capture standard operating procedures and institutional knowledge into customized AI agents and skills."
+        },
+        {
+          "t": "p",
+          "x": "Highlighted at Trimble Dimensions: Generative Design, which lets designers generate architectural options referencing live as-built point clouds; Automated Structural Modeling from natural language prompts; One-Click AI Indoor Classification; AI Diagnostics for Field Hardware; 360 Reality Capture; AI Punch Walk voice-driven inspections; AI Procurement and Invoice Matching; Contract Risk Analysis and Change Order Automation; and Trimble Connect Scheduling, powered by an agentic planning engine."
+        },
+        {
+          "t": "p",
+          "x": "100% of currently available AI agents and models in the platform feature live, standardized AI ‘safety labels’, aligned with the EU AI Act and ISO 42001. Generative Design is currently in Trimble Labs; AI Diagnostics for Field Hardware is available for select customers."
+        }
+      ]
+    },
+    "design/claude-electronics-prototypes": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A little over a year ago, Anthropic began testing how well Claude could design basic electronic circuits with Diode Computers. The models back then couldn't reliably lay out a circuit board. Now, Claude can both design and prototype electronic hardware from start to finish."
+        },
+        {
+          "t": "video",
+          "yt": "vdYynH177h0"
+        },
+        {
+          "t": "p",
+          "x": "With Diode, Anthropic asked Claude Fable 5.2 to design three devices: a speakerphone, a voice-assistant hub, and a handheld virtual pet. Claude wrote the specifications, drew schematics, placed components on the PCB, routed the copper connections, designed a 3D-printable enclosure, coded the firmware and prepared a parts list. The prototypes worked without any fixes to their circuitry."
+        },
+        {
+          "t": "p",
+          "x": "On PCB Gym, an internal benchmark, Fable 5.2 scored 69%, compared with 25% for Fable 5. On BenchCAD 2.1 it scored 83.5%, nearly double Claude Fable 5.1."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/4zrzovbb/website/1e8e384cb5bbf67da75851ecce146f47a425af0b-1888x1062.png",
+          "cap": "The speakerphone’s four copper layers."
+        },
+        {
+          "t": "p",
+          "x": "Claude revised its own work unprompted, reassigning pins and rerouting tracks \"dozens of times\". It wrote its own router that could lay each long track in roughly a second."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/4zrzovbb/website/64a2aade621d8d6a50c57f9f3d0ac050ea778423-2048x949.png",
+          "cap": "Claude worked out how to install the board by tilting it about 25 degrees."
+        },
+        {
+          "t": "p",
+          "x": "Diode manufactured all three boards directly from Claude’s design files. The devices are still prototypes: they haven’t been through electrical validation, antenna tuning, thermal testing, or certification."
+        }
+      ]
     }
   }
 }

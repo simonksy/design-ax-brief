@@ -1,127 +1,93 @@
 {
   "section": "music",
-  "now_iso": "2026-11-09T22:02:53Z",
+  "now_iso": "2026-11-10T22:00:35Z",
   "window_hours": 336,
   "items": [
+    {
+      "title": "Spotify DJ gets new voices, and the ability to stop yammering",
+      "url": "https://www.theverge.com/entertainment/1030682/spotify-dj-gets-new-voices-and-the-ability-to-stop-yammering",
+      "source": "The Verge",
+      "category": "music",
+      "published_iso": "2026-11-10T14:00:00+00:00",
+      "excerpt": "Spotify's AI DJ adds eight more English voices in various accents and two Spanish voices, plus an option to turn off the commentary entirely.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23985252/VRG_Illo_STK130_K_Radtke_Spotify_Podcast_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "title": "VSL introduce Vienna Performer",
+      "url": "https://www.soundonsound.com/news/vsl-introduce-vienna-performer",
+      "source": "Sound On Sound",
+      "category": "music",
+      "published_iso": "2026-11-09T22:00:54+00:00",
+      "excerpt": "Vienna Symphonic Library's Vienna Performer is an AI-powered plugin that takes a user's MIDI part and renders it with modelled phrasing, bowing, breath, vibrato and timing; models were trained only on VSL's own Synchron Stage recordings and there is no generative note output.",
+      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/v/vsl_vienna_performer-Nj9YOFE1ckerhcy7er5oSPwfFWVuu.IO.jpg"
+    },
+    {
+      "title": "NeuTone Launches NeuSynth, an AI Stem Generator That Creates New Instrument Layers from 60 Seconds of Audio in Your DAW",
+      "url": "https://mixing.co.kr/en/44340",
+      "source": "Monthly Mixing (mixing.co.kr)",
+      "category": "music",
+      "published_iso": "2026-11-10T16:44:30+09:00",
+      "excerpt": "Korean AI audio startup NeuTone announced NeuSynth, an in-DAW plugin that analyses about 60 seconds of a track and generates new instrument stem layers that fit it.",
+      "og_image": "https://mmagimg.speedgabia.com/2026/11/img-1794286888307-287c615a239e2285.webp"
+    },
     {
       "title": "Logic Pro 13 gets touch right, but stumbles on \"intelligent assistant\"",
       "url": "https://cdm.link/logic-pro-13-touch-and-intelligence/",
       "source": "CDM Create Digital Music",
       "category": "music",
       "published_iso": "2026-11-09T21:37:56+00:00",
-      "excerpt": "Review of Apple's Logic Pro 13 public release: touch control lands well, but the new AI 'intelligent assistant' (now metered via Apple Creator Studio usage credits) stumbles in practice.",
-      "og_image": "https://cdm.link/app/uploads/2026/11/Apple-Creator-Studio-Logic-Pro-for-Mac-261027-scaled.jpg",
+      "excerpt": "CDM's hands-on with the shipping Logic Pro 13 finds the touch features solid but the new AI 'intelligent assistant' stumbling in real production tasks.",
+      "og_image": "https://cdm.link/app/uploads/2026/11/Apple-Creator-Studio-Logic-Pro-for-Mac-261027-scaled.jpg"
+    },
+    {
+      "title": "One of Logic Pro 13's biggest new features can only be had on subscription: is that fair, and should you care?",
+      "url": "https://www.musicradar.com/music-tech/one-of-logic-pro-13s-biggest-new-features-can-only-be-had-on-subscription-is-that-fair-and-should-you-care",
+      "source": "MusicRadar",
+      "category": "music",
+      "published_iso": "2026-11-10T12:52:30Z",
+      "excerpt": "Now that Logic Pro 13 has rolled out, it turns out the AI-powered intelligent assistant is only in the subscription Creator Studio version, not the one-time-purchase DAW.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ECGQwDdiVLM7KoAnx2Rs9P-1200-80.jpg",
       "history_match": {
-        "score": 0.257,
-        "date": "2026-10-28",
-        "url": "https://www.engadget.com/2298428/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/",
-        "title": "Apple Creator Studio update adds MotionVFX to Final Cut, and AI to everywhere",
+        "score": 0.232,
+        "date": "2026-11-10",
+        "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+        "title": "Apple's $50 Intelligence Usage Packs extend access to some AI features",
         "band": "related"
       }
     },
     {
-      "title": "Apple's $50 Intelligence Usage Packs extend access to some AI features",
-      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-      "source": "The Verge",
+      "title": "Ex-bandmates Dr Dre and Ice Cube clash over the use of AI",
+      "url": "https://www.musicradar.com/artists/producers-engineers/this-is-just-a-whole-new-level-of-creativity-that-we-have-to-get-used-to-you-have-to-get-used-to-it-or-youre-gonna-be-left-behind-ex-bandmates-dr-dre-and-ice-cube-clash-over-the-use-of-ai",
+      "source": "MusicRadar",
       "category": "music",
-      "published_iso": "2026-11-09T19:09:58+00:00",
-      "excerpt": "Instead of a subscription tier, Apple now sells $50 packs of extra AI usage credits for Creator Studio apps, including Logic Pro's AI assistant once the monthly limit is hit.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/logicpro.jpg?quality=90&strip=all&crop=0%2C10.742998834307%2C100%2C78.514002331385&w=1200",
-      "history_match": {
-        "score": 0.19,
-        "date": "2026-10-28",
-        "url": "https://www.engadget.com/2298428/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/",
-        "title": "Apple Creator Studio update adds MotionVFX to Final Cut, and AI to everywhere",
-        "band": "related"
-      }
+      "published_iso": "2026-11-10T08:46:26Z",
+      "excerpt": "On the first episode of Ice Cube's new podcast, Dr Dre argued producers must adopt AI or be left behind, while Ice Cube pushed back.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/wGw6K5umhtYbGoCiuuPRJZ-2000-80.jpg"
     },
     {
-      "title": "듀스, 31년 만의 정규 4집 21일 발매…프로듀싱 이현도·AI로 되살린 김성재 '완전체'",
-      "url": "https://www.newsis.com/view/NISX20261109_0003859608",
-      "source": "Newsis",
+      "title": "AI-music labelling 'can't be just the platforms' says RIAA boss",
+      "url": "https://musically.com/2026/11/10/ai-music-labelling-cant-be-just-the-platforms-says-riaa-boss/",
+      "source": "Music Ally",
       "category": "music",
-      "published_iso": "2026-11-09T15:23:13+09:00",
-      "excerpt": "1990s hip-hop duo DEUX releases its first studio album in 31 years on Nov 21, produced by Lee Hyun-do, with the late Kim Sung-jae's voice recreated using AI to reunite the full duo.",
-      "og_image": "https://img1.newsis.com/2026/11/09/NISI20261109_0002286206_web.jpg"
+      "published_iso": "2026-11-10T13:30:00+00:00",
+      "excerpt": "RIAA chief Mitch Glazier told The Verge's Decoder that labelling AI music can't fall only on DSPs, outlining the industry's view on disclosure and voice rights.",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-24T123959.252.png?fit=2000%2C1500&ssl=1"
     },
     {
-      "title": "\"퇴근길엔 이 노래 어때?\"…피프티피프티가 만든 AI 친구 '키프' 써보니",
-      "url": "https://www.newsis.com/view/NISX20261106_0003858524",
-      "source": "Newsis",
-      "category": "music",
-      "published_iso": "2026-11-08T06:00:00+09:00",
-      "excerpt": "Hands-on with 'Kiff', an AI companion app made by K-pop group FIFTY FIFTY: AI friends remember conversations and build playlists and music suggestions for fans.",
-      "og_image": "https://img1.newsis.com/2026/11/06/NISI20261106_0002285433_web.jpg"
-    },
-    {
-      "title": "[핌 포커스] 머무르·조선힙합…AI 활용 음원, K팝 새 변수로 떠올랐다",
-      "url": "https://www.newspim.com/news/view/20261106000761",
-      "source": "Newspim",
-      "category": "music",
-      "published_iso": "2026-11-09T05:21:00+09:00",
-      "excerpt": "AI-made tracks such as Meomureu and Joseon Hip-hop are moving from online experiments to official releases climbing Korean streaming charts, becoming a new variable in K-pop.",
-      "og_image": "https://img.newspim.com/news/2026/11/06/2611061646570780_880_tc.jpg"
-    },
-    {
-      "title": "내가 MV 감독이?…힛지스·제너스 신곡으로 AI 공모전 열린다",
-      "url": "http://www.atstar1.com/news/articleView.html?idxno=6040475",
-      "source": "atstar1",
-      "category": "music",
-      "published_iso": "2026-11-09T11:14:59+09:00",
-      "excerpt": "Mindspark adds a music-video category to its generative-AI ad awards: entrants make AI music videos for unreleased songs by girl group HITGIRLS and boy group GENUS, Nov 9-30.",
-      "og_image": "https://cdn.atstar1.com/news/thumbnail/202611/6040475_120836_1452_v150.jpg"
-    },
-    {
-      "title": "TubeTube, 가사·이야기 입력하면 15분 만에 AI 영상 완성…작곡부터 편집까지 자동화",
-      "url": "https://www.startupn.kr/news/articleView.html?idxno=60609",
-      "source": "StartupN",
-      "category": "music",
-      "published_iso": "2026-11-09T10:22:35+09:00",
-      "excerpt": "Korean AI video service TubeTube launches an integrated tool that turns lyrics or a story into a finished video in about 15 minutes, automating composition, vocals, storyboard, images and editing.",
-      "og_image": "https://cdn.startupn.kr/news/thumbnail/202611/60609_62470_228_v150.jpg"
-    },
-    {
-      "title": "What BPB readers think about AI in music software",
-      "url": "https://bedroomproducersblog.com/2026/11/09/bpb-reader-poll-ai/",
-      "source": "Bedroom Producers Blog",
-      "category": "music",
-      "published_iso": "2026-11-09T14:10:38+00:00",
-      "excerpt": "Poll of 2,096 producers: 89% want some AI coverage, but 72% are a 'hard no' on text-to-music generators; useful AI tools with disclosure are the preferred approach.",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/11/ai-poll.jpg",
-      "history_match": {
-        "score": 0.352,
-        "date": "2026-10-18",
-        "url": "https://bedroomproducersblog.com/2026/10/17/ai-in-music-software-poll/",
-        "title": "BPB starts filtering low-quality AI-built plugins from its news, opens reader poll",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Tuned launches its V2 vocal plugin bundle for $9.99 with \"F*CK AI SLOP\" campaign",
-      "url": "https://bedroomproducersblog.com/2026/11/09/tuned-fck-ai-slop/",
-      "source": "Bedroom Producers Blog",
-      "category": "music",
-      "published_iso": "2026-11-09T11:40:11+00:00",
-      "excerpt": "Tuned Plugins releases Vocal Essentials Bundle V2 under an explicitly anti-'AI slop' campaign, positioning hand-crafted DSP against hastily machine-generated plugins.",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/11/tuned.jpg"
-    },
-    {
-      "title": "Waves Releases ILLUGEN 2.5",
-      "url": "https://sonicstate.com/news/2026/11/09/waves-releases-illugen-25-/",
-      "source": "Sonicstate",
-      "category": "music",
-      "published_iso": "2026-11-09T01:01:00Z",
-      "excerpt": "Waves' AI text-to-sample generator ILLUGEN 2.5 arrives as a plugin version with deep Cubase 16 integration, generating one-shots and loops inside the DAW.",
-      "og_image": "https://ww2.sonicftp.com/news/images/44850_851.jpg"
-    },
-    {
-      "title": "5 Keys to Music Attribution",
-      "url": "https://www.digitalmusicnews.com/2026/11/08/5-keys-to-music-attribution/",
+      "title": "Backlash Already Rumbles Against Spotify's Upcoming Remix Tool",
+      "url": "https://www.digitalmusicnews.com/2026/11/09/spotify-remix-tool-backlash/",
       "source": "Digital Music News",
       "category": "music",
-      "published_iso": "2026-11-09T06:33:56+00:00",
-      "excerpt": "AI music attribution promises fair payments to creators whose work trained generative models, but technical and economic hurdles of scale, rights and payment may still leave artists behind.",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Attribution-is-crucial-and-very-complicated.png"
+      "published_iso": "2026-11-09T23:27:27+00:00",
+      "excerpt": "Spotify's upcoming AI cover/remix tool is drawing online criticism over fairness to artists and the ethics of AI training before it even launches.",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/backlash-rumbles-against-upcoming-spotify-ai-remix-tool.png",
+      "history_match": {
+        "score": 0.286,
+        "date": "2026-11-02",
+        "url": "https://www.digitalmusicnews.com/2026/10/30/spotify-ai-cover-remix-tool-launch/",
+        "title": "Spotify Reportedly Set to Debut AI Cover & Remix Tool in Early '27",
+        "band": "related"
+      }
     },
     {
       "title": "Human Enough? How AI Detector Scores Put Indie Artists at Risk",
@@ -129,10 +95,10 @@
       "source": "Digital Music News",
       "category": "music",
       "published_iso": "2026-11-09T06:30:58+00:00",
-      "excerpt": "Platforms can treat probabilistic AI-detector scores like verdicts; DMN looks at the data on how a '93% human' score can still put indie artists' releases at risk.",
+      "excerpt": "Data piece on how platforms treat AI-detector percentage scores as verdicts, and how indie artists get penalised by false positives.",
       "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detectors-put-indie-platforms-at-risk.jpg",
       "history_match": {
-        "score": 0.235,
+        "score": 0.382,
         "date": "2026-11-05",
         "url": "https://www.digitalmusicnews.com/2026/11/04/ai-detector-false-positives/",
         "title": "More AI Detector False Positives Emerge In Rapid Succession: Do Indie Musicians Have a Serious Problem Here?",
@@ -140,62 +106,84 @@
       }
     },
     {
-      "title": "Dr. Dre Says People Mad About AI \"Aren't That Creative\"",
-      "url": "https://consequence.net/2026/11/dr-dre-ai-people-mad-arent-creative/",
-      "source": "Consequence",
+      "title": "Albanese's love affair with music is on the rocks over AI. Can he write a different tune?",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/11/albaneses-love-affair-with-music-is-on-the-rocks-over-ai-can-he-write-a-different-tune",
+      "source": "The Guardian",
       "category": "music",
-      "published_iso": "2026-11-09T10:31:29-05:00",
-      "excerpt": "Dr. Dre says he is enthusiastic about using AI in music-making and that the people angry about AI 'aren't that creative'.",
-      "og_image": "https://consequence.net/wp-content/uploads/2026/11/dre-dre-people-who-dont-like-ai-arent-that-creative.jpg"
+      "published_iso": "2026-11-10T22:00:20.000Z",
+      "excerpt": "Opinion: Australia's PM is trying to untangle AI training and copyright as musicians push back against a text-and-data-mining exception.",
+      "og_image": "https://i.guim.co.uk/img/media/1e6a991e75bedff23cf6e2c8520cc53422d92836/30_169_3298_2639/master/3298.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=127e91f97b0de5726345349d1bc418b9"
     },
     {
-      "title": "The Edge asked AI to come up with a U2 song: \"They couldn't\"",
-      "url": "https://www.musicradar.com/artists/bands/its-possible-to-get-it-to-write-a-country-song-because-its-very-strictly-codified-the-edge-feels-u2-are-uncategorisable",
-      "source": "MusicRadar",
+      "title": "존박·곽진언 '맥도날드 주문 랩', 해외 음원 플랫폼에 무단 등록…작사·작곡자도 제3자",
+      "url": "https://www.newsis.com/view/NISX20261110_0003862456",
+      "source": "뉴시스",
       "category": "music",
-      "published_iso": "2026-11-06T16:42:31Z",
-      "excerpt": "U2's The Edge says AI can write a codified country song, but attempts to have it generate a U2 song failed because the band's songwriting is 'never a formula'.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/mVsjxc2Ck5FhS7jQJVDNHG-2000-80.jpg"
+      "published_iso": "2026-11-10T16:50:40+09:00",
+      "excerpt": "John Park and Kwak Jin-eon's viral 'McDonald's order rap' was uploaded to Spotify and YouTube Music by an unknown act with third-party credits, with an added rap in a John Park-like voice raising suspicion of generative-AI voice cloning.",
+      "og_image": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288144_web.jpg"
     },
     {
-      "title": "Grimes to Star in the First-Ever AI-Generated Film Coming to Theaters",
-      "url": "https://www.billboard.com/culture/tv-film/grimes-star-first-ai-movie-coming-theaters-video-clip-1236375024/",
-      "source": "Billboard",
+      "title": "AI로 선율 입힌 셰익스피어詩…용호성 前차관, 첫 정규앨범 발표",
+      "url": "https://www.yna.co.kr/view/AKR20261110091700005",
+      "source": "연합뉴스",
       "category": "music",
-      "published_iso": "2026-11-05T19:25:14+00:00",
-      "excerpt": "Grimes stars in 'Gods Don't Give Gifts', billed as the first fully AI-generated feature film to get a theatrical release; Billboard shares a clip of her character.",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/11/grimes-gods-dont-give-gifts-fable-2026-billboard-1800.jpg?w=1024",
-      "history_match": {
-        "score": 0.154,
-        "date": "2026-10-11",
-        "url": "https://pitchfork.com/story/grimes-shares-first-song-from-ai-inspired-album-psy-opera/",
-        "title": "Grimes Shares First Song From AI-Inspired Album Psy Opera",
-        "band": "related"
-      }
+      "published_iso": "2026-11-10T12:17:50+09:00",
+      "excerpt": "Former culture vice-minister Yong Ho-seong, under the name 'Dr. Dragon', released a first full album setting Shakespeare's poems to AI-generated melodies.",
+      "og_image": null
     },
     {
-      "title": "SPDMX: Large-Scale Open Stem Audio From Symbolic Music",
-      "url": "https://arxiv.org/abs/2611.09140",
+      "title": "이터니티, AI와 음악의 만남…'Crepuscule Syndrome'으로 글로벌 협업",
+      "url": "https://www.starnewskorea.com/business-life/2026/11/10/2026111021474455095",
+      "source": "스타뉴스",
+      "category": "music",
+      "published_iso": "2026-11-10T12:50:55.000Z",
+      "excerpt": "Pulse9's AI virtual idol group IITERNITI releases English single 'Crepuscule Syndrome' on 11 November, co-produced with Italian team KIDOKORO, with an MV the same day.",
+      "og_image": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1200,fit=cover,q=high,sharpen=2/21/2026/11/2026111021474455095_1.jpg"
+    },
+    {
+      "title": "AI Slop FM radio experiment puts machines on trial, one dodgy tune at a time",
+      "url": "https://www.theregister.com/offbeat/2026/11/09/ai-slop-fm-radio-experiment-puts-machines-on-trial-one-dodgy-tune-at-a-time/5308161",
+      "source": "The Register",
+      "category": "music",
+      "published_iso": "2026-11-09T10:15:00.000Z",
+      "excerpt": "A Welsh music fan's 'AI Slop FM' radio show pits AI-generated songs against human tracks and lets listeners judge them.",
+      "og_image": "https://image.theregister.com/256930.jpg?imageId=256930&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+      "title": "Nick Cave says AI song generators are \"indicators of this nascent technology's demonic potential\"",
+      "url": "https://www.nme.com/news/music/nick-cave-says-ai-song-generators-are-indicators-of-this-nascent-technologys-demonic-potential-3975580",
+      "source": "NME",
+      "category": "music",
+      "published_iso": "2026-11-10T16:02:24+00:00",
+      "excerpt": "In a new Red Hand Files post Nick Cave attacks AI song generators as mocking creation itself.",
+      "og_image": "https://www.nme.com/wp-content/uploads/2026/11/2026_nickcave_getty_2000x1270.jpg"
+    },
+    {
+      "title": "MyPart Launches AI Agents for Visual Music Matching and Song Search, and Adaptive Music Gaming with Epidemic Sound",
+      "url": "https://www.einpresswire.com/article/955541487/mypart-launches-ai-agents-for-visual-music-matching-and-song-search-and-adaptive-music-gaming-with-epidemic-sound",
+      "source": "EIN Presswire (MyPart)",
+      "category": "music",
+      "published_iso": "2026-11-10T20:47:00+00:00",
+      "excerpt": "Music-tech firm MyPart launched AI agents that match music to visuals and search songs by description, plus adaptive in-game music with Epidemic Sound.",
+      "og_image": "https://img.einnews.com/large/1245124/mypart-x-replicate.png"
+    },
+    {
+      "title": "Japan Launches Global IP.AI Initiative to Protect Anime, Manga, and Music Creators From Unauthorized AI Use",
+      "url": "https://otakukart.com/japan-launches-global-ip-ai-initiative-to-protect-anime-manga-and-music-creators-from-unauthorized-ai-use/",
+      "source": "OtakuKart",
+      "category": "music",
+      "published_iso": "2026-11-10T22:12:40+05:30",
+      "excerpt": "A new Japan IP.AI Co-Creation body aims to protect anime, manga and music rights holders from unauthorised generative-AI training and use.",
+      "og_image": "https://otakukart.com/wp-content/uploads/2026/11/A-presentation-at-the-Japan-IP.AI-Co-Creation-Conference-explains-how-creators-intellectual-property-owners-AI-developers-and-users-could-benefit-from-licensed-AI-content.jpg"
+    },
+    {
+      "title": "Music Inpainting With Similarity-Guided Latent Diffusion",
+      "url": "https://arxiv.org/abs/2611.11522",
       "source": "arXiv",
       "category": "music",
-      "published_iso": "2026-11-06T08:14:47Z",
-      "excerpt": "Researchers release a large open multitrack stem-audio dataset rendered from symbolic music, sidestepping copyright limits on redistributing training audio for music AI tasks.",
-      "og_image": null,
-      "history_match": {
-        "score": 0.192,
-        "date": "2026-10-29",
-        "url": "https://arxiv.org/abs/2610.36715",
-        "title": "SMEBench: Benchmarking Neural Music Editing with Synthetized MIDI Edits",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Functional Dependency beyond Similarity: Hierarchical Decomposition of Training Data Attribution in Music Generative Models",
-      "url": "https://arxiv.org/abs/2611.08839",
-      "source": "arXiv",
-      "category": "music",
-      "published_iso": "2026-11-06T00:53:52Z",
-      "excerpt": "Proposes hierarchical training-data attribution for music generative models, estimating each training track's functional influence on outputs as a basis for copyright and royalty analysis beyond similarity.",
+      "published_iso": "2026-11-08T17:54:07Z",
+      "excerpt": "New paper proposes a latent-diffusion music inpainting method guided by similarity to surrounding context, for filling or replacing gaps in audio.",
       "og_image": null
     },
     {
@@ -204,54 +192,56 @@
       "source": "arXiv",
       "category": "music",
       "published_iso": "2026-11-04T22:58:06Z",
-      "excerpt": "Explores neural audio autoencoders as a sound-synthesis design material for new musical instruments, mapping latent spaces into playable 'terrains' for AI-enhanced instruments.",
+      "excerpt": "Paper on turning neural audio autoencoder latent spaces into playable 'terrains' for new musical instrument design.",
       "og_image": null,
       "history_match": {
-        "score": 0.203,
+        "score": 0.181,
         "date": "2026-10-12",
         "url": "https://arxiv.org/abs/2610.06478",
         "title": "Smorph: playable diffusion-based sound morphing for musical sound design",
         "band": "related"
       }
+    },
+    {
+      "title": "추천 빼고 수익 제한…저질 AI 콘텐츠 차단 나선 플랫폼",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000561",
+      "source": "IT조선",
+      "category": "music",
+      "published_iso": "2026-11-09T23:36:11+00:00",
+      "excerpt": "Spotify, YouTube, Naver and other platforms are filtering low-quality generative-AI content out of search and recommendations and restricting its monetisation.",
+      "og_image": "https://cdn.it.chosun.com/news/photo/202611/3000000000561_500600_5547.png"
+    },
+    {
+      "title": "수노, 하루 하나 작곡 주제 제공…노래를 달력에 모은다",
+      "url": "https://www.coinreaders.com/268900",
+      "source": "코인리더스",
+      "category": "music",
+      "published_iso": "2026-11-10T11:37:23+09:00",
+      "excerpt": "Suno's new 'Daily Song Challenge' in its iOS/Android apps gives every user a daily songwriting prompt and saves results in a calendar view.",
+      "og_image": "https://www.coinreaders.com/imgdata/coinreaders_com/202611/800_533_2026111033233123.png"
+    },
+    {
+      "title": "Maono's creator-focused AI-powered microphone, the PD500W, is now available to purchase",
+      "url": "https://musictech.com/news/gear/maono-pd500w-available-now/",
+      "source": "MusicTech",
+      "category": "music",
+      "published_iso": "2026-11-09T17:23:28+00:00",
+      "excerpt": "Maono's PD500W hybrid dynamic mic ships with onboard recording and AI-powered processing for creators after crowdfunding.",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/06/Maono-2@2000x1500-1068x801.jpg"
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 18,
+    "dropped": 4,
+    "kept": 22,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 7,
+    "review": 4,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-11",
-      "title": "Towards AI-Generated Music Plagiarism Detection as a Version Identification Problem",
-      "url": "https://arxiv.org/abs/2610.09075"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "Fender revamps its website with AI tool and more artist content",
-      "url": "https://musically.com/2026/10/06/fender-revamps-its-website-with-ai-tool-and-more-artist-content/"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "New Suno live music division to help make it the \"first creative entertainment platform\"",
-      "url": "https://musically.com/2026/10/09/new-suno-live-music-division-to-help-make-it-the-first-creative-entertainment-platform/"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "Grimes Shares First Song From AI-Inspired Album Psy Opera",
-      "url": "https://pitchfork.com/story/grimes-shares-first-song-from-ai-inspired-album-psy-opera/"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit"
-    },
     {
       "date": "2026-10-12",
       "title": "Ghost in the Encoder: artist identity is decodable inside lyrics-to-song generation models",
@@ -901,6 +891,31 @@
       "date": "2026-11-09",
       "title": "Weakening AI copyright law will spell 'disaster for creativity', global music body warns Albanese",
       "url": "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "SPDMX: Large-Scale Open Stem Audio From Symbolic Music",
+      "url": "https://arxiv.org/abs/2611.09140"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Waves Releases ILLUGEN 2.5",
+      "url": "https://sonicstate.com/news/2026/11/09/waves-releases-illugen-25-/"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "듀스, 31년 만의 정규 4집 21일 발매…프로듀싱 이현도·AI로 되살린 김성재 '완전체'",
+      "url": "https://www.newsis.com/view/NISX20261109_0003859608"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "TubeTube, 가사·이야기 입력하면 15분 만에 AI 영상 완성…작곡부터 편집까지 자동화",
+      "url": "https://www.startupn.kr/news/articleView.html?idxno=60609"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Apple's $50 Intelligence Usage Packs extend access to some AI features",
+      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro"
     }
   ]
 }

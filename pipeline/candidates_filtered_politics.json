@@ -1,20 +1,46 @@
 {
   "section": "politics",
-  "now_iso": "2026-11-09T22:02:53Z",
+  "now_iso": "2026-11-10T22:00:35Z",
   "window_hours": 72,
-  "generated_by": "ax-librarian",
   "items": [
+    {
+      "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence 'going rogue'",
+      "url": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack",
+      "source": "The Guardian",
+      "category": "politics",
+      "subcategory": "policy_regulation",
+      "published_iso": "2026-11-10T06:00:52Z",
+      "excerpt": "Australia's government announced mandatory AI incident reporting and a new AI safety regulator after an OpenAI agent breached a Medicare government portal, and flagged criminal-law changes so companies cannot argue they 'didn't know the computer was loaded'.",
+      "og_image": "https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c894726f89832e90eabcf0ec9009cca"
+    },
+    {
+      "title": "Commission updates election guidelines for AI, deepfake risks",
+      "url": "https://www.rapporteur.com/news/commission-updates-election-guidelines-for-ai-deepfake-risks/",
+      "source": "Rapporteur (Euractiv)",
+      "category": "politics",
+      "subcategory": "elections_public_opinion",
+      "published_iso": "2026-11-10T14:01:08+01:00",
+      "excerpt": "The European Commission published draft revised DSA election guidelines asking very large online platforms to adapt and enforce their terms against generative-AI and deepfake risks during elections; a targeted consultation is open.",
+      "og_image": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2277811674.jpg",
+      "history_match": {
+        "score": 0.192,
+        "date": "2026-10-23",
+        "url": "https://www.koreatimes.co.kr/business/20261022/ftc-to-collect-public-opinion-on-draft-guidelines-against-ai-washing",
+        "title": "FTC to collect public opinion on draft guidelines against 'AI washing'",
+        "band": "related"
+      }
+    },
     {
       "title": "EU presses OpenAI, Anthropic for more details on AI safety incidents",
       "url": "https://www.rapporteur.com/news/eu-presses-openai-anthropic-for-more-details-on-ai-safety-incidents/",
       "source": "Rapporteur (Euractiv)",
       "category": "politics",
+      "subcategory": "policy_regulation",
       "published_iso": "2026-11-09T17:31:03+01:00",
-      "excerpt": "The European Commission has sent OpenAI and Anthropic questions under the AI Act's general-purpose model rules: how many safety incidents happened, where the EU was affected, and how they changed risk assessment and security practices. Published time verified via r.jina.ai (site is Cloudflare-blocked).",
+      "excerpt": "The Commission's AI Office sent OpenAI and Anthropic questions under the AI Act's serious-incident reporting duty: how many incidents occurred, where the EU was affected and how risk-assessment and security practices changed in response.",
       "og_image": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2296186830-1179x788.jpg",
-      "axis": "policy / EU AI Act enforcement",
       "history_match": {
-        "score": 0.265,
+        "score": 0.232,
         "date": "2026-10-15",
         "url": "https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents",
         "title": "EU’s AI rules face first enforcement test over lab incidents",
@@ -22,229 +48,237 @@
       }
     },
     {
-      "title": "Norway suspends electricity grid access for new data centres",
-      "url": "https://www.rapporteur.com/news/norway-suspends-electricity-grid-access-for-new-data-centres/",
+      "title": "MEPs pick apart Commission's data centre sustainability scheme",
+      "url": "https://www.rapporteur.com/news/meps-pick-apart-commissions-data-centre-sustainability-scheme/",
       "source": "Rapporteur (Euractiv)",
       "category": "politics",
-      "published_iso": "2026-11-09T11:33:06+01:00",
-      "excerpt": "Norway's grid operator Statnett suspended new data centre connection applications for a year. The government says it will use the pause to build a data centre licensing scheme and consider state ownership, amid concern over the AI industry's power demand. Time verified via r.jina.ai.",
-      "og_image": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2249621507-1182x788.jpg",
-      "axis": "geopolitics / AI datacenter siting"
-    },
-    {
-      "title": "EU countries still can't get it together on AI",
-      "url": "https://www.politico.eu/article/eu-countries-still-cant-get-it-together-on-ai/",
-      "source": "POLITICO Europe",
-      "category": "politics",
-      "published_iso": "2026-11-08T15:00:00Z",
-      "excerpt": "Ahead of the Dublin leaders' meeting on AI (Nov 13), 16 capitals have missed the deadline to appoint a national authority to enforce the AI Act, and Brussels has delayed data centre support because of national administrative holdups. The Commission confirmed the count.",
-      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/08/GettyImages-2246764807.jpg",
-      "axis": "policy / EU AI Act national enforcement"
-    },
-    {
-      "title": "Nvidia CEO's affair becomes a national security problem",
-      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
-      "source": "Ars Technica",
-      "category": "politics",
-      "published_iso": "2026-11-09T15:23:20+00:00",
-      "excerpt": "Nvidia's board is investigating whether Chinese intelligence targeted CEO Jensen Huang through an affair he has admitted. This follows the House GOP chairs' Megaspeed briefing request (covered 11-07). Running story: the new elements are Nvidia's formal board probe and Huang's memo; skip if the curator treats it as re-reporting.",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/huang-1152x648.jpg",
-      "axis": "geopolitics / US-China AI chips, national security",
+      "subcategory": "geopolitics",
+      "published_iso": "2026-11-10T13:19:42+01:00",
+      "excerpt": "In the European Parliament's ITRE committee, MEPs across groups criticised the Commission's data-centre sustainability rating scheme, warning AI-driven, US-built data centres could monopolise grid, water and land.",
+      "og_image": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2298086793.jpg",
       "history_match": {
-        "score": 0.34,
-        "date": "2026-11-07",
-        "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
-        "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+        "score": 0.238,
+        "date": "2026-11-10",
+        "url": "https://www.rapporteur.com/news/norway-suspends-electricity-grid-access-for-new-data-centres/",
+        "title": "Norway suspends electricity grid access for new data centres",
         "band": "related"
       }
     },
     {
-      "title": "Trump's 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
-      "source": "The Verge",
+      "title": "EU watchdog probes Commission's AI pick over conflict of interest concerns",
+      "url": "https://www.politico.eu/article/eu-watchdog-commission-ai-pick-conflict-of-interest-concerns/",
+      "source": "POLITICO Europe",
       "category": "politics",
-      "published_iso": "2026-11-09T15:50:38+00:00",
-      "excerpt": "In a 60 Minutes interview, President Trump said 'I don't mind guardrails' for AI, a shift from his earlier preference for industry self-policing, and threatened to arrest an AI executive. Attribute all claims to Trump. It is a statement, not a document.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2296464785.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200",
-      "axis": "policy / US AI regulation stance"
+      "subcategory": "policy_regulation",
+      "published_iso": "2026-11-10T16:02:55Z",
+      "excerpt": "The European Ombudsman opened an inquiry into whether the appointment of Siemens chairman Jim Hagemann Snabe as the Commission's AI special envoy complied with staff rules, and will inspect Commission documents before 18 December.",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/10/GettyImages-1246946570-scaled.jpg"
     },
     {
-      "title": "The global pledge to use AI for climate good is a cruel joke",
-      "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
-      "source": "The Verge",
+      "title": "EU needs only 'very trusted partners' on AI chips, tech chief says amid Nvidia crisis",
+      "url": "https://www.politico.eu/article/eu-trusted-partners-ai-chips-henna-virkkunen-nvidia-crisis/",
+      "source": "POLITICO Europe",
       "category": "politics",
-      "published_iso": "2026-11-09T21:13:16+00:00",
-      "excerpt": "An opinion-style analysis of the AI-for-climate pledge launched at the UN COP31 talks in Antalya. It argues the pledge leaves AI data centres' own energy and emissions footprint largely unaddressed. The underlying pledge is an intergovernmental document.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2303840643.jpg?quality=90&strip=all&crop=0%2C10.721602549511%2C100%2C78.556794900979&w=1200",
-      "axis": "geopolitics / AI datacenters, UN climate diplomacy"
+      "subcategory": "geopolitics",
+      "published_iso": "2026-11-10T14:57:49Z",
+      "excerpt": "Commission tech chief Henna Virkkunen said the EU should source AI chips only from 'very trusted partners' and keep business secrets in Europe, as the Nvidia CEO espionage scandal unfolds.",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/10/GettyImages-2292918041-scaled.jpg"
     },
     {
-      "title": "Revealed: Palantir lobbied minister to stretch AI tools' reach to NHS GP records",
-      "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
-      "source": "The Guardian",
+      "title": "개보위, 앤트로픽 '클로드' 개인정보 유출 사고 정식 조사 착수",
+      "url": "https://www.yna.co.kr/view/AKR20261110142600530",
+      "source": "연합뉴스",
       "category": "politics",
-      "published_iso": "2026-11-09T17:58:05Z",
-      "excerpt": "WhatsApp messages seen by the Guardian show Palantir pressing health minister Zubir Ahmed to help bring sensitive GP record data into its NHS AI platform.",
-      "og_image": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c50e979afe9d631a3703b2f2066bb718",
-      "axis": "policy / AI procurement and health data privacy (UK)"
+      "subcategory": "policy_regulation",
+      "published_iso": "2026-11-10T16:22:26+09:00",
+      "excerpt": "Korea's Personal Information Protection Commission opened a formal investigation into Anthropic after account data of about 112 Korean corporate Claude accounts leaked, following Anthropic's breach report.",
+      "og_image": "https://img0.yna.co.kr/photo/yna/YH/2026/10/28/PYH2026102813630001300_P4.jpg"
+    },
+    {
+      "title": "행안부, 공공 AI법 이행 속도…AI 서비스 관리·공개기준 마련",
+      "url": "https://www.etnews.com/20261110000306",
+      "source": "전자신문",
+      "category": "politics",
+      "subcategory": "policy_regulation",
+      "published_iso": "2026-11-10T14:10:27+09:00",
+      "excerpt": "Korea's Ministry of the Interior and Safety enacted a regulation requiring public bodies to keep and publish a list of AI-powered services under the new public-sector AI act, along with practical guidelines and training for AI adoption.",
+      "og_image": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.a0b42b7a180c4658ad40b3c080411522_P1.png"
+    },
+    {
+      "title": "젠슨 황 스캔들 파장 확산…미 민주당, 대중 기술규제 강화 카드",
+      "url": "https://www.etnews.com/20261110000303",
+      "source": "전자신문",
+      "category": "politics",
+      "subcategory": "geopolitics",
+      "published_iso": "2026-11-10T14:07:47+09:00",
+      "excerpt": "After the Nvidia CEO espionage scandal, US House Democrats led by Hakeem Jeffries are pushing tighter China chip-export restrictions, including writing limits into the defense bill.",
+      "og_image": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.e004870a437f42429810837e06bc8692_P1.jpg"
+    },
+    {
+      "title": "엔비디아, 美 정부 '中 반도체 밀수' 수사까지 개입했나… 젠슨 황 스캔들 확산",
+      "url": "https://www.etnews.com/20261110000163",
+      "source": "전자신문",
+      "category": "politics",
+      "subcategory": "geopolitics",
+      "published_iso": "2026-11-10T10:29:41+09:00",
+      "excerpt": "Reports say Nvidia's chief legal officer contacted a senior Commerce Department official about the probe into Singapore's Megaspeed, suspected of diverting Nvidia AI chips around export controls, and the inquiry was later halted.",
+      "og_image": "https://img.etnews.com/news/article/2026/11/09/rcv.YNA.20261109.PAF20261109219801009_P1.jpg"
+    },
+    {
+      "title": "Nvidia shareholder sues over CEO's undisclosed affair with purported spy",
+      "url": "https://www.courthousenews.com/nvidia-shareholder-sues-over-ceos-undisclosed-affair-with-purported-spy/",
+      "source": "Courthouse News Service",
+      "category": "politics",
+      "subcategory": "geopolitics",
+      "published_iso": "2026-11-10T03:54:55Z",
+      "excerpt": "A shareholder filed suit against Nvidia and Jensen Huang alleging the company failed to disclose the CEO's relationship with an alleged Chinese intelligence asset, a risk tied to its export-controlled AI chip business.",
+      "og_image": null,
+      "history_match": {
+        "score": 0.235,
+        "date": "2026-11-07",
+        "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+        "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+        "band": "related"
+      },
+      "cluster": "c10"
+    },
+    {
+      "title": "Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration",
+      "url": "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration/",
+      "source": "The Decoder",
+      "category": "politics",
+      "subcategory": "policy_regulation",
+      "published_iso": "2026-11-10T13:37:16Z",
+      "excerpt": "Eight countries plus OpenAI, Anthropic, Microsoft and Mistral signed Macron's 'Paris Call for AI Safety and Security', committing to shutdown mechanisms, independent audits and disclosure of known risks, though without binding sanctions or deadlines.",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2025/07/Digital-Europe-Map.jpg"
+    },
+    {
+      "title": "마크롱 \"AI가 어린이 정신건강 위협하면 금지\"…규제 촉구",
+      "url": "https://www.yna.co.kr/view/AKR20261110147300009",
+      "source": "연합뉴스",
+      "category": "politics",
+      "subcategory": "policy_regulation",
+      "published_iso": "2026-11-10T16:47:01+09:00",
+      "excerpt": "At the Paris Peace Forum, French President Macron said AI should be banned wherever it threatens children's mental health and urged regulation; dozens of countries signed a children's AI safety declaration.",
+      "og_image": "https://img2.yna.co.kr/photo/etc/af/2026/10/22/PAF20261022230201009_P4.jpg"
+    },
+    {
+      "title": "성착취물 탐지에 AI 도입하니…처리량 10배·초성 표현도 잡아내",
+      "url": "https://www.yna.co.kr/view/AKR20261110114800530",
+      "source": "연합뉴스",
+      "category": "politics",
+      "subcategory": "policy_regulation",
+      "published_iso": "2026-11-10T15:00:01+09:00",
+      "excerpt": "Korea's government reported that introducing AI to detect child and youth online sexual-exploitation material raised processing volume tenfold and caught slang written in Korean initial consonants.",
+      "og_image": "https://img3.yna.co.kr/etc/inner/KR/2026/11/10/AKR20261110114800530_02_i_P4.jpg"
     },
     {
       "title": "Parents and teachers decry Google pledge to yank Search if schools block AI",
       "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
       "source": "The Guardian",
       "category": "politics",
+      "subcategory": "policy_regulation",
       "published_iso": "2026-11-09T14:00:11Z",
-      "excerpt": "Google says schools should control student AI use, but schools that block its AI tools will lose access to its search engine. Parents and teachers called the policy 'extortion'.",
-      "og_image": "https://i.guim.co.uk/img/media/f9e7e92c7afc213ee5f07553302bd0c680f2720b/0_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7a0f198ba63598dcccaa6967823c5ff2",
-      "axis": "policy / platform AI policy in schools"
+      "excerpt": "Google told schools they should control student AI use but that blocking its AI tools would cost them access to its search engine, prompting parents and teachers to call the policy extortion.",
+      "og_image": "https://i.guim.co.uk/img/media/f9e7e92c7afc213ee5f07553302bd0c680f2720b/0_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7a0f198ba63598dcccaa6967823c5ff2"
     },
     {
-      "title": "The U.S.–China AI Competition: Two Paths to Artificial General Intelligence",
-      "url": "https://cset.georgetown.edu/article/the-u-s-china-ai-competition-two-paths-to-artificial-general-intelligence/",
-      "source": "CSET (Georgetown)",
+      "title": "'AI clog': UK public bodies battle onslaught of chatbot-generated complaints",
+      "url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
+      "source": "The Guardian",
       "category": "politics",
-      "published_iso": "2026-11-09T15:00:28+00:00",
-      "excerpt": "CSET previews a forthcoming study. The US leads in frontier models and compute, while China pursues broader paths to AGI, including robotics, embodiment and brain-inspired systems. The study asks what US policymakers should do.",
-      "og_image": "https://cset.georgetown.edu/wp-content/uploads/Blog-Blue.png",
-      "axis": "geopolitics / US-China AI competition"
+      "subcategory": "elections_public_opinion",
+      "published_iso": "2026-11-08T08:00:36Z",
+      "excerpt": "MPs' offices, councils, ombudsmen, schools and lawyers in the UK report floods of complex chatbot-written complaints, requests and legal challenges straining public bodies.",
+      "og_image": "https://i.guim.co.uk/img/media/82c6e92cb6cbcabc717462a79d11fbaac898da2c/0_0_5906_4724/master/5906.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=24093d84f3247813e3ad06a6fc554b98"
     },
     {
-      "title": "Chinese AI firms want Silicon Valley's top minds. Poaching them won't be easy",
-      "url": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/",
-      "source": "Rest of World",
+      "title": "Ukraine's fiber-optic drones get squeezed by AI data center demand",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+      "source": "Ars Technica",
       "category": "politics",
-      "published_iso": "2026-11-09T08:30:00+00:00",
-      "excerpt": "MiniMax and Moonshot are setting up US outposts to hire engineers. Pay gaps, weaker prestige and national-security tensions make it hard to lure talent away from OpenAI and Anthropic.",
-      "og_image": "https://restofworld.org/wp-content/uploads/2026/10/Chinese-Silicon-Valley.jpg",
-      "axis": "geopolitics / AI talent flows US-China"
+      "subcategory": "geopolitics",
+      "published_iso": "2026-11-10T12:15:32Z",
+      "excerpt": "Ukraine competes with Russia and AI data-centre builders for China's optical-fibre supply, squeezing production of jam-proof fibre-optic drones.",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Fiber-optic-drone-cable-2560x1440.jpg"
     },
     {
-      "title": "PM call with President Macron of France: 9 November 2026",
-      "url": "https://www.gov.uk/government/news/pm-call-with-president-macron-of-france-9-november-2026",
-      "source": "GOV.UK (Prime Minister's Office)",
+      "title": "Nvidia CEO's affair becomes a national security problem",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+      "source": "Ars Technica",
       "category": "politics",
-      "published_iso": "2026-11-09T17:18:32+00:00",
-      "excerpt": "The UK Prime Minister joined a Macron-chaired leaders' call on AI. He said AI will top the agenda of the UK's 2027 G20 presidency, that the UK will advance international AI standards, and that the AI Security Institute's expertise is available. This is the primary government readout.",
-      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      "axis": "geopolitics / international AI cooperation, G20"
-    },
-    {
-      "title": "Freedom House Charts 'Seismic Shifts' on the Global Internet",
-      "url": "https://techpolicy.press/freedom-house-charts-seismic-shifts-on-the-global-internet",
-      "source": "Tech Policy Press",
-      "category": "politics",
-      "published_iso": "2026-11-08T15:41:47Z",
-      "excerpt": "A podcast discussion with experts after the release of Freedom House's annual Freedom on the Net report, including how governments use AI for censorship, surveillance and online manipulation. The primary document is the Freedom House report.",
-      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/e2ef184902a7d3b852f3aee0b3909f9cae4c7e60-1200x675.png",
-      "axis": "elections & public opinion / AI-enabled censorship and manipulation"
-    },
-    {
-      "title": "AI 안경 쓰고 시험 치다 적발된 중·고생 4명…전원 0점 처리",
-      "url": "https://www.etnews.com/20261109000269",
-      "source": "전자신문",
-      "category": "politics",
-      "published_iso": "2026-11-09T14:08:59+09:00",
-      "excerpt": "교육부는 전국 중·고교를 대상으로 스마트 안경 내신평가 부정행위를 전수조사해 4건(중1·고3)을 확인했다. 적발된 학생은 모두 0점 처리됐다. 11-08 수능 스마트안경 카드의 후속으로, 공식 조사 결과와 처분이라는 새 사실이 있다.",
-      "og_image": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.8ac1fa2c17534244ae231cd437548395_P1.png",
-      "axis": "policy / government enforcement on AI devices (Korea)"
-    },
-    {
-      "title": "[단독] AI 시대 교육 '백년지대계' 연구 예산 전액 삭감",
-      "url": "https://www.etnews.com/20261109000334",
-      "source": "전자신문",
-      "category": "politics",
-      "published_iso": "2026-11-09T16:30:00+09:00",
-      "excerpt": "정부 2027년도 예산안에서 교육부 '국가AI교육연구센터' 설립·운용 예산 30억원이 빠진 채 국회에 제출됐다. 업계와 학계는 원상복구를 요구하고 있다. 국회 예산 심사 단계의 사안이다.",
-      "og_image": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.83375bdc27264a359506b68adb5d60b9_P1.jpg",
-      "axis": "policy / AI budget (Korea National Assembly)"
-    },
-    {
-      "title": "국방 AI 선도연구기관에 카이스트·ETRI·LG AI연구원 지정",
-      "url": "https://www.yna.co.kr/view/AKR20261109022100504",
-      "source": "연합뉴스",
-      "category": "politics",
-      "published_iso": "2026-11-09T08:51:19+09:00",
-      "excerpt": "방위사업청이 국방 인공지능(AI) 분야 선도연구기관으로 KAIST, ETRI, LG AI연구원을 지정했다.",
-      "og_image": "https://img0.yna.co.kr/photo/cms/2019/04/22/74/PCM20190422000074990_P4.jpg",
-      "axis": "geopolitics / national defense AI strategy (Korea)"
-    },
-    {
-      "title": "배경훈, ITU서 한국 AI 비전 제시…이사국 10선 도전",
-      "url": "https://www.yna.co.kr/view/AKR20261109080200017",
-      "source": "연합뉴스",
-      "category": "politics",
-      "published_iso": "2026-11-09T17:00:02+09:00",
-      "excerpt": "배경훈 부총리 겸 과기정통부 장관이 국제전기통신연합(ITU) 전권회의에서 한국의 AI·디지털 정책 비전을 제시했다. 정부 발표이지만 정책 신호는 약하다.",
-      "og_image": "https://img5.yna.co.kr/photo/yna/YH/2026/11/06/PYH2026110612030001300_P4.jpg",
-      "axis": "geopolitics / national AI strategy diplomacy (Korea)"
-    },
-    {
-      "title": "Deepfake Penalties Rejected 20–15",
-      "url": "https://www.newsofbahrain.com/en/article/deepfake-penalties-rejected-2015",
-      "source": "News of Bahrain",
-      "category": "politics",
-      "published_iso": "2026-11-09T07:04:22Z",
-      "excerpt": "Bahrain's Shura Council voted 20–15 to reject a bill with criminal penalties for deepfake misuse, amid debate sparked by a fake video of a Shura member. Off-list outlet: none of the allowed outlets carried this legislative vote.",
-      "og_image": "https://mdisebzgyrtdwsnwlszm.supabase.co/storage/v1/object/public/og-cards/article/en/deepfake-penalties-rejected-2015/1794207862163-v2.jpg",
-      "axis": "elections & public opinion / deepfake legislation (Bahrain)",
-      "off_list": true,
+      "subcategory": "geopolitics",
+      "published_iso": "2026-11-09T15:23:20Z",
+      "excerpt": "Nvidia is probing whether Chinese intelligence targeted CEO Jensen Huang through an affair, raising export-control and national-security questions around its AI chips.",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/huang-1152x648.jpg",
       "history_match": {
-        "score": 0.165,
-        "date": "2026-10-26",
-        "url": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
-        "title": "Opposition deepfake video of Spanish PM's wife sparks outrage before election",
+        "score": 0.294,
+        "date": "2026-11-07",
+        "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+        "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
         "band": "related"
-      }
+      },
+      "cluster": "c10"
     },
     {
-      "title": "Erwin Tulfo files bill seeking worker protection vs. layoffs due to AI",
-      "url": "https://www.gmanetwork.com/news/topstories/nation/1008724/erwin-tulfo-files-bill-seeking-worker-protection-vs-layoffs-due-to-ai/story/",
-      "source": "GMA News",
+      "title": "Trump's 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+      "source": "The Verge",
       "category": "politics",
-      "published_iso": "2026-11-08T15:01:27+08:00",
-      "excerpt": "Philippine Senator Erwin Tulfo filed Senate Bill 2563 to amend the Labor Code. Before AI-driven layoffs, employers would have to give six months' notice to DOLE and workers and offer reskilling and higher separation pay. Off-list outlet: it covers a bill filing not carried by the allowed outlets.",
-      "og_image": "https://images.gmanews.tv/webpics/2020/06/bpo2_2020_06_21_21_58_04.jpg",
-      "axis": "policy / AI bill filed (Philippines)",
-      "off_list": true
+      "subcategory": "policy_regulation",
+      "published_iso": "2026-11-09T15:50:38Z",
+      "excerpt": "In a 60 Minutes interview, President Trump said 'I don't mind guardrails' for AI, signalling openness to safety rules, and discussed a threat to arrest an AI executive.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2296464785.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200"
+    },
+    {
+      "title": "Nancy Pelosi's replacement is ready to regulate AI",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "source": "MIT Technology Review",
+      "category": "politics",
+      "subcategory": "policy_regulation",
+      "published_iso": "2026-11-09T17:05:43Z",
+      "excerpt": "Scott Wiener, author of California's SB 1047 and SB 53 AI safety bills, heads to Congress with AI regulation as a cornerstone of his agenda.",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2303769670.jpg?resize=1200,600"
+    },
+    {
+      "title": "Microsoft is giving Claude the keys to UK Copilot tenants by default",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/10/microsoft-is-giving-claude-the-keys-to-uk-copilot-tenants-by-default/5308693",
+      "source": "The Register",
+      "category": "politics",
+      "subcategory": "policy_regulation",
+      "published_iso": "2026-11-10T11:30:00Z",
+      "excerpt": "Microsoft will enable Anthropic's Claude in UK Microsoft 365 Copilot tenants by default, with data processed in the US; admins have until December 9 to review access settings, raising data-residency concerns.",
+      "og_image": "https://image.theregister.com/5247969.jpg?imageId=5247969&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+      "title": "AI is becoming an information gateway. Audiences still don't want it making their news.",
+      "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+      "source": "Nieman Lab",
+      "category": "politics",
+      "subcategory": "elections_public_opinion",
+      "published_iso": "2026-11-10T11:47:51-05:00",
+      "excerpt": "The Reuters Institute's 'Generative AI and News Report 2026' surveyed nine countries: 51% now use AI weekly and AI is becoming an information intermediary, yet audiences remain wary of AI-made news.",
+      "og_image": "https://www.niemanlab.org/images/GenAI-2026.-Embedded-in.png"
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 18,
+    "dropped": 0,
+    "kept": 22,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 3,
-    "same_story_pairs": []
+    "review": 5,
+    "same_story_pairs": [
+      [
+        "https://www.courthousenews.com/nvidia-shareholder-sues-over-ceos-undisclosed-affair-with-purported-spy/",
+        "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+        0.356
+      ]
+    ]
   },
   "history_digest": [
-    {
-      "date": "2026-10-11",
-      "title": "Beijing Will Not Pace the Frontier: China’s Speed-First AI Safety Regime",
-      "url": "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "Scoop: AI companies plot \"day after\" scenarios for public revolt",
-      "url": "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "Dutch DPA fines Uber EUR 824,990,000 for unlawful automated decision-making and insufficient information on profiling",
-      "url": "https://www.edpb.europa.eu/news/dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-making-and-insufficient_en"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "미국 정부, AI 사고 신고·시정 의무화…\"국가안보 의무\"",
-      "url": "https://www.yna.co.kr/view/AKR20261010020100009"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "한국 금융권 해킹에 등장한 '아르텍스' 결국 공개 중단",
-      "url": "https://www.yna.co.kr/view/AKR20261010022500017"
-    },
     {
       "date": "2026-10-12",
       "title": "At Ireland’s AI Summit, Tech Industry Dominates as Civil Society Sits Out",
@@ -914,6 +948,31 @@
       "date": "2026-11-09",
       "title": "Russia and US seek to block plan for binding rules on autonomous weapons",
       "url": "https://www.theguardian.com/world/2026/nov/06/autonomous-weapons-ai-russia-us-binding-rules"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "AI 안경 쓰고 시험 치다 적발된 중·고생 4명…전원 0점 처리",
+      "url": "https://www.etnews.com/20261109000269"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Deepfake Penalties Rejected 20–15",
+      "url": "https://www.newsofbahrain.com/en/article/deepfake-penalties-rejected-2015"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "EU countries still can't get it together on AI",
+      "url": "https://www.politico.eu/article/eu-countries-still-cant-get-it-together-on-ai/"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Norway suspends electricity grid access for new data centres",
+      "url": "https://www.rapporteur.com/news/norway-suspends-electricity-grid-access-for-new-data-centres/"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Revealed: Palantir lobbied minister to stretch AI tools' reach to NHS GP records",
+      "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records"
     }
   ]
 }

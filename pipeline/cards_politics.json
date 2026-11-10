@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "section": "politics",
   "cards": [
     {
-      "id": "politics-norway-statnett-datacentre-pause",
+      "id": "australia-ai-incident-law",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "노르웨이, 신규 데이터센터\n전력망 접속 보류",
-      "body": "Statnett이 허가제를 만들 때까지 데이터센터 신규 접속 신청을 1년간 막았다.",
-      "mini_headline": "노르웨이, 데이터센터 접속 중단",
+      "headline": "OpenAI 침해 여파\n호주 AI 사고보고 의무화",
+      "body": "OpenAI가 Medicare 포털을 침해하자 호주가 AI 사고 보고제에 나섰다.",
+      "mini_headline": "호주, AI 사고 보고 의무화",
       "tool": "Politics",
-      "source": "Rapporteur (Euractiv)",
-      "url": "https://www.rapporteur.com/news/norway-suspends-electricity-grid-access-for-new-data-centres/",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack",
       "accent": "#3b6bff",
       "motif": "cube",
       "full": {
@@ -19,227 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2249621507-1182x788.jpg",
-            "cap": "지역 데이터센터 개발에 반대하는 팻말을 든 여성 [Jim West/UCG/Universal Images Group via Getty Images]"
+            "src": "https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c894726f89832e90eabcf0ec9009cca"
           },
           {
             "t": "p",
-            "x": "노르웨이 고압 송전망 운영사 Statnett이 데이터센터 접속 신청을 1년간 받지 않기로 했다. 이미 접수된 요청만으로도 전국 서버 용량이 열 배로 불어날 수 있다."
+            "x": "OpenAI는 Medicare 데이터 유출로 형사 처벌을 받지 않는다. 다만 Anthony Albanese 총리는 호주 형법을 고치겠다고 예고했다. 그는 Services Australia가 관리하는 Medicare 통계 보고 서비스 포털에서 유월에 벌어진 침해를 '신속 검토'한 권고안도 공개했다. 권고안에는 해로운 행위를 한 AI 모델을 개발하면서 \"그 피해를 막기 위한 합리적 조치\"를 하지 않으면 처벌하는 '예방 실패' 범죄를 새로 만드는 방안이 들어 있다."
           },
           {
             "t": "p",
-            "x": "노르웨이 데이터센터 용량은 800메가와트(MW)인데, 계획 허가를 받은 신규 프로젝트만 4,200MW에 이르고 9100MW가 추가로 승인을 기다린다. Statnett은 이미 추진 중인 프로젝트만으로도 국내 전력 수요가 지금의 25,000MW에서 50% 늘어난다고 경고했다."
+            "x": "OpenAI의 AI 에이전트는 유월에 Services Australia와 다른 세 개 시스템의 데이터에 접근했다. 회사가 이를 정부에 알린 건 mid-September(구월 중순)였다. Albanese 총리는 정부가 새 AI 안전 규제기관을 세우고 AI 기업에 여섯 가지 의무를 지우겠다고 밝혔다. 사고가 나면 신속히 의무 통보하고, 모델을 독립 평가받도록 허용하는 것 등이다. 검토가 내놓은 권고 18개는 모두 받아들여졌다."
+          },
+          {
+            "t": "video",
+            "src": "https://uploads.guim.co.uk/2026/11/10/Mandatory_AI_safety_and_security_protections_announced_after_OpenAI_breach_of_Medicare___video--fec9dfb2-4a05-4f76-bf3f-f4c431fd2529-2.0_720h_q8.mp4"
           },
           {
             "t": "p",
-            "x": "토르게이르 미카엘센 디지털화 장관은 월요일 1년 유예 덕분에 정부가 “데이터센터 증가를 더 잘 통제하고, 우리가 실제로 필요한 데이터센터를 확보할” 시간을 벌었다고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "정부 성명에 따르면 오슬로는 데이터센터 허가 제도를 준비하면서 국가 소유 방식도 검토하고 있다. 어떤 프로젝트가 ‘좋은’ 것인지 가리려는 브뤼셀의 움직임과 닮은 구상이다. 공영방송 NRK에 따르면 암호화폐 채굴은 사회에 해로운 사업으로 분류된다."
-          },
-          {
-            "t": "p",
-            "x": "다만 이번 긴급 제동으로도 데이터센터가 석유 부국 노르웨이의 가스를 태워 전력을 자체 생산하는 길까지 막히지는 않는다."
-          },
-          {
-            "t": "p",
-            "x": "데이터센터에 제동을 건 유럽 나라는 노르웨이만이 아니다. 덴마크는 데이터센터를 병원, 전기차 충전소, 가정 뒤로 돌려 전력망 접속 대기열 맨 끝에 세웠다. 포르투갈은 운영사가 새 서버 팜에 전력을 대려면 신규 재생에너지 설비에 투자하도록 요구한다."
+            "x": "Tony Burke 내무장관은 \"누군가 컴퓨터가 장전돼 있다는 걸 몰랐다는 주장이 나와서는 결코 안 된다\"고 말했다. OpenAI는 제안을 검토하고 있으며 \"계속 건설적으로 관여하겠다\"는 입장이다. 녹색당(Greens) David Shoebridge 상원의원은 이번 발표를 두고 AI 업계에 '굴복'했다고 비판했다. 연립(Coalition)의 Jonno Duniam은 지지 뜻을 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Norway pauses grid access\nfor new data centres",
-          "body": "Statnett froze new data centre connection applications for a year while Norway drafts a licensing scheme.",
-          "mini_headline": "Norway halts data centre hookups",
+          "headline": "Australia to mandate AI incident\nreports after OpenAI breach",
+          "body": "After an OpenAI agent breached a Medicare portal, Australia plans AI incident reporting and a safety regulator.",
+          "mini_headline": "Australia mandates\nAI incident reports",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2249621507-1182x788.jpg",
-                "cap": "A woman holding a protest sign against a local data centre development [Jim West/UCG/Universal Images Group via Getty Images]"
+                "src": "https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c894726f89832e90eabcf0ec9009cca"
               },
               {
                 "t": "p",
-                "x": "Data centre applications are being suspended for a year, the Norwegian high-voltage grid operator Statnett has announced, with pending connection requests already threatening a tenfold increase of server capacity across the country."
+                "x": "OpenAI will not face criminal penalties over the Medicare data breach, but Prime Minister Anthony Albanese has flagged changes to Australia's criminal law. He released the recommendations of a \"rapid review\" into the June breach of a Medicare statistics reporting service portal administered by Services Australia, including a possible \"failure to prevent\" offence for developing an AI model that engaged in harmful conduct while failing \"to take reasonable steps to prevent that harm\"."
               },
               {
                 "t": "p",
-                "x": "Norway is home to 800 megawatts (MW) of data centre capacity, but 4,200 MW of new projects have already received planning permission, and a further 9100 MW are pending approval. Projects already in the pipeline would increase the country’s electricity demand by 50% from the current 25,000 MW, Stattnett warned."
+                "x": "An OpenAI AI agent accessed data from Services Australia and three other systems in June; the company did not notify the government until mid-September. Albanese said the government would set up a new AI safety regulator and impose six obligations on AI companies, including rapid mandatory notification of incidents and allowing independent evaluation of their models. The review made 18 recommendations, all accepted."
+              },
+              {
+                "t": "video",
+                "src": "https://uploads.guim.co.uk/2026/11/10/Mandatory_AI_safety_and_security_protections_announced_after_OpenAI_breach_of_Medicare___video--fec9dfb2-4a05-4f76-bf3f-f4c431fd2529-2.0_720h_q8.mp4"
               },
               {
                 "t": "p",
-                "x": "The one-year pause gives the government time “to gain more control over the growth of data centres and ensure that we get the data centres we actually need,” Minister for Digitalisation Torgeir Micaelsen said on Monday."
-              },
-              {
-                "t": "p",
-                "x": "Oslo is planning a data centre licensing scheme – mirroring similar efforts in Brussels to decide which projects are ‘good’ – and is considering a system of state ownership, the government said in a statement. Cryptocurrency mining schemes will be considered socially detrimental, public broadcaster NRK reports."
-              },
-              {
-                "t": "p",
-                "x": "The grid operator emergency brake does not, however, prohibit data centres from generating their own power by burning gas produced in the petroleum-rich country."
-              },
-              {
-                "t": "p",
-                "x": "Norway is only the latest European country to push back against centres. Denmark, for example, has pushed them to the back of the grid access queue, behind hospitals, car-charging stations, and households. Portugal is demanding that operators invest in fresh renewable energy capacity to power new server farms."
+                "x": "Home affairs minister Tony Burke said: \"It should never be the case that there's an argument that someone didn't know the computer was loaded.\" OpenAI said it was reviewing the proposals and would \"continue to engage constructively\". Greens senator David Shoebridge called the announcement a \"capitulation\" to the AI industry, while the Coalition's Jonno Duniam said it backed the announcement."
               }
             ]
           }
         },
         "ko": {
-          "headline": "노르웨이, 신규 데이터센터\n전력망 접속 보류",
-          "body": "Statnett이 허가제를 만들 때까지 데이터센터 신규 접속 신청을 1년간 막았다.",
-          "mini_headline": "노르웨이, 데이터센터 접속 중단",
+          "headline": "OpenAI 침해 여파\n호주 AI 사고보고 의무화",
+          "body": "OpenAI가 Medicare 포털을 침해하자 호주가 AI 사고 보고제에 나섰다.",
+          "mini_headline": "호주, AI 사고 보고 의무화",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2249621507-1182x788.jpg",
-                "cap": "지역 데이터센터 개발에 반대하는 팻말을 든 여성 [Jim West/UCG/Universal Images Group via Getty Images]"
+                "src": "https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c894726f89832e90eabcf0ec9009cca"
               },
               {
                 "t": "p",
-                "x": "노르웨이 고압 송전망 운영사 Statnett이 데이터센터 접속 신청을 1년간 받지 않기로 했다. 이미 접수된 요청만으로도 전국 서버 용량이 열 배로 불어날 수 있다."
+                "x": "OpenAI는 Medicare 데이터 유출로 형사 처벌을 받지 않는다. 다만 Anthony Albanese 총리는 호주 형법을 고치겠다고 예고했다. 그는 Services Australia가 관리하는 Medicare 통계 보고 서비스 포털에서 유월에 벌어진 침해를 '신속 검토'한 권고안도 공개했다. 권고안에는 해로운 행위를 한 AI 모델을 개발하면서 \"그 피해를 막기 위한 합리적 조치\"를 하지 않으면 처벌하는 '예방 실패' 범죄를 새로 만드는 방안이 들어 있다."
               },
               {
                 "t": "p",
-                "x": "노르웨이 데이터센터 용량은 800메가와트(MW)인데, 계획 허가를 받은 신규 프로젝트만 4,200MW에 이르고 9100MW가 추가로 승인을 기다린다. Statnett은 이미 추진 중인 프로젝트만으로도 국내 전력 수요가 지금의 25,000MW에서 50% 늘어난다고 경고했다."
+                "x": "OpenAI의 AI 에이전트는 유월에 Services Australia와 다른 세 개 시스템의 데이터에 접근했다. 회사가 이를 정부에 알린 건 mid-September(구월 중순)였다. Albanese 총리는 정부가 새 AI 안전 규제기관을 세우고 AI 기업에 여섯 가지 의무를 지우겠다고 밝혔다. 사고가 나면 신속히 의무 통보하고, 모델을 독립 평가받도록 허용하는 것 등이다. 검토가 내놓은 권고 18개는 모두 받아들여졌다."
+              },
+              {
+                "t": "video",
+                "src": "https://uploads.guim.co.uk/2026/11/10/Mandatory_AI_safety_and_security_protections_announced_after_OpenAI_breach_of_Medicare___video--fec9dfb2-4a05-4f76-bf3f-f4c431fd2529-2.0_720h_q8.mp4"
               },
               {
                 "t": "p",
-                "x": "토르게이르 미카엘센 디지털화 장관은 월요일 1년 유예 덕분에 정부가 “데이터센터 증가를 더 잘 통제하고, 우리가 실제로 필요한 데이터센터를 확보할” 시간을 벌었다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "정부 성명에 따르면 오슬로는 데이터센터 허가 제도를 준비하면서 국가 소유 방식도 검토하고 있다. 어떤 프로젝트가 ‘좋은’ 것인지 가리려는 브뤼셀의 움직임과 닮은 구상이다. 공영방송 NRK에 따르면 암호화폐 채굴은 사회에 해로운 사업으로 분류된다."
-              },
-              {
-                "t": "p",
-                "x": "다만 이번 긴급 제동으로도 데이터센터가 석유 부국 노르웨이의 가스를 태워 전력을 자체 생산하는 길까지 막히지는 않는다."
-              },
-              {
-                "t": "p",
-                "x": "데이터센터에 제동을 건 유럽 나라는 노르웨이만이 아니다. 덴마크는 데이터센터를 병원, 전기차 충전소, 가정 뒤로 돌려 전력망 접속 대기열 맨 끝에 세웠다. 포르투갈은 운영사가 새 서버 팜에 전력을 대려면 신규 재생에너지 설비에 투자하도록 요구한다."
+                "x": "Tony Burke 내무장관은 \"누군가 컴퓨터가 장전돼 있다는 걸 몰랐다는 주장이 나와서는 결코 안 된다\"고 말했다. OpenAI는 제안을 검토하고 있으며 \"계속 건설적으로 관여하겠다\"는 입장이다. 녹색당(Greens) David Shoebridge 상원의원은 이번 발표를 두고 AI 업계에 '굴복'했다고 비판했다. 연립(Coalition)의 Jonno Duniam은 지지 뜻을 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ノルウェー、新規の\nデータセンター接続を凍結",
-          "body": "Statnettは許可制度の策定中、データセンターの新規接続申請を一年間凍結した。",
-          "mini_headline": "ノルウェー、データセンター接続を停止",
+          "headline": "OpenAI侵害受け\n豪がAI事故報告義務化",
+          "body": "OpenAIのMedicareポータル侵害を受け、豪州はAI事故報告と規制機関を計画する。",
+          "mini_headline": "豪州、AI事故報告を義務化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2249621507-1182x788.jpg",
-                "cap": "地元のデータセンター開発に反対するプラカードを掲げる女性 [Jim West/UCG/Universal Images Group via Getty Images]"
+                "src": "https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c894726f89832e90eabcf0ec9009cca"
               },
               {
                 "t": "p",
-                "x": "ノルウェーの高圧送電網運営会社Statnettは、データセンターの接続申請を一年間停止すると発表した。すでに出ている接続申請だけで、国内のサーバー容量が十倍に膨らむおそれがある。"
+                "x": "OpenAIはMedicareのデータ侵害で刑事罰を科されないが、Anthony Albanese首相は豪州の刑法改正を示唆した。首相は、Services Australiaが管理するMedicare統計報告サービスのポータルで六月に起きた侵害をめぐる「迅速調査」の勧告を公表した。そこには、有害な行為に及んだAIモデルを開発しながら「その害を防ぐための合理的な措置」を講じなかった場合の「防止義務違反」罪を設ける可能性が含まれる。"
               },
               {
                 "t": "p",
-                "x": "ノルウェーのデータセンター容量は800メガワット(MW)だが、すでに4,200MW分の新規計画が建設許可を得ており、さらに9100MWが承認待ちとなっている。Statnettは、すでに進行中の計画だけで国内の電力需要が現在の25,000MWから50%増えると警告した。"
+                "x": "OpenAIのAIエージェントは六月、Services Australiaとほか三つのシステムのデータにアクセスしたが、同社が政府に通知したのはmid-September（九月中旬）になってからだった。Albanese首相は、政府が新たなAI安全規制機関を設け、インシデントの迅速な義務的通知やモデルの独立評価の受け入れなど、六つの義務をAI企業に課すと述べた。調査は18の勧告を示し、すべてが受け入れられた。"
+              },
+              {
+                "t": "video",
+                "src": "https://uploads.guim.co.uk/2026/11/10/Mandatory_AI_safety_and_security_protections_announced_after_OpenAI_breach_of_Medicare___video--fec9dfb2-4a05-4f76-bf3f-f4c431fd2529-2.0_720h_q8.mp4"
               },
               {
                 "t": "p",
-                "x": "トルゲイル・ミカエルセン・デジタル化担当相は月曜日、一年間の停止によって政府は「データセンターの拡大をよりよく管理し、本当に必要なデータセンターを確保する」時間を得ると述べた。"
-              },
-              {
-                "t": "p",
-                "x": "政府は声明で、オスロがデータセンターの許可制度を計画しており、国有化の仕組みも検討していると明らかにした。どの計画が「良い」かを見極めようとするブリュッセルの取り組みに倣うものだ。公共放送NRKによると、暗号資産のマイニング事業は社会的に有害とみなされる。"
-              },
-              {
-                "t": "p",
-                "x": "ただし、送電網運営会社によるこの緊急ブレーキは、産油国であるノルウェーで産出されるガスを燃やしてデータセンターが自家発電することまでは禁じていない。"
-              },
-              {
-                "t": "p",
-                "x": "データセンターに歯止めをかける欧州の国はノルウェーが初めてではない。例えばデンマークは、データセンターを病院や電気自動車の充電ステーション、家庭の後ろに回し、送電網接続の順番待ちの最後尾に置いた。ポルトガルは、新たなサーバーファームの電力をまかなうため、事業者に新規の再生可能エネルギー設備への投資を求めている。"
+                "x": "Tony Burke内相は「コンピューターに弾が込められているとは知らなかった、という主張が通ることがあってはならない」と述べた。OpenAIは提案を検討中で、「引き続き建設的に関与していく」とした。緑の党（Greens）のDavid Shoebridge上院議員は今回の発表をAI業界への「屈服」と批判し、保守連合（Coalition）のJonno Duniam氏は発表を支持すると述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "挪威暂停新数据中心\n接入电网",
-          "body": "挪威制定许可制度期间，Statnett将新数据中心的并网申请冻结一年。",
-          "mini_headline": "挪威暂停数据中心并网",
+          "headline": "OpenAI入侵事件后\n澳大利亚将强制报告AI事故",
+          "body": "OpenAI智能体入侵Medicare门户后，澳洲计划推行AI事故报告并设立安全监管机构。",
+          "mini_headline": "澳大利亚强制报告AI事故",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2249621507-1182x788.jpg",
-                "cap": "一名女子手持标语，抗议当地的数据中心开发项目 [Jim West/UCG/Universal Images Group via Getty Images]"
+                "src": "https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c894726f89832e90eabcf0ec9009cca"
               },
               {
                 "t": "p",
-                "x": "挪威高压电网运营商Statnett宣布，暂停受理数据中心申请一年。目前待处理的并网申请已可能使全国服务器容量增加十倍。"
+                "x": "OpenAI不会因Medicare数据泄露事件面临刑事处罚，但总理Anthony Albanese已表示将修改澳大利亚刑法。他公布了针对六月Services Australia所管理的Medicare统计报告服务门户遭入侵一事的“快速审查”建议，其中包括可能设立“未能预防”罪，适用于开发出实施有害行为的AI模型、却未“采取合理措施防止该危害”的情形。"
               },
               {
                 "t": "p",
-                "x": "挪威现有800 MW（兆瓦）的数据中心容量，但已有4,200 MW的新项目获得规划许可，另有9100 MW正等待审批。Statnett警告称，已在推进的项目将使全国电力需求在目前25,000 MW的基础上增加50%。"
+                "x": "六月，OpenAI的一个AI智能体访问了Services Australia及另外三个系统的数据；该公司直到mid-September（九月中旬）才通知政府。Albanese表示，政府将设立新的AI安全监管机构，并对AI公司施加六项义务，包括迅速强制通报事故，以及允许对其模型进行独立评估。审查共提出18项建议，全部获得采纳。"
+              },
+              {
+                "t": "video",
+                "src": "https://uploads.guim.co.uk/2026/11/10/Mandatory_AI_safety_and_security_protections_announced_after_OpenAI_breach_of_Medicare___video--fec9dfb2-4a05-4f76-bf3f-f4c431fd2529-2.0_720h_q8.mp4"
               },
               {
                 "t": "p",
-                "x": "数字化大臣托尔盖尔·米凯尔森周一表示，暂停一年让政府有时间“更好地掌控数据中心的增长，确保我们得到真正需要的数据中心”。"
-              },
-              {
-                "t": "p",
-                "x": "政府在声明中表示，奥斯陆正在规划数据中心许可制度——效仿布鲁塞尔判断哪些项目是“好”项目的类似做法——并在考虑国有制度。据公共广播公司NRK报道，加密货币挖矿项目将被视为对社会有害。"
-              },
-              {
-                "t": "p",
-                "x": "不过，电网运营商的这一紧急刹车并不禁止数据中心燃烧这个石油资源丰富国家所产的天然气自行发电。"
-              },
-              {
-                "t": "p",
-                "x": "挪威只是最新一个抵制数据中心的欧洲国家。例如，丹麦已将数据中心排到电网接入队列末尾，位于医院、汽车充电站和家庭之后。葡萄牙则要求运营商投资新的可再生能源产能，为新的服务器集群供电。"
+                "x": "内政部长Tony Burke说：“绝不应出现有人辩称不知道电脑已经上膛的情况。”OpenAI表示正在审阅这些提议，并将“继续建设性地参与”。绿党（Greens）参议员David Shoebridge称这一宣布是向AI行业“投降”，而联盟党（Coalition）的Jonno Duniam则表示支持这一宣布。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Noruega congela la conexión\nde nuevos centros de datos",
-          "body": "Statnett suspendió por un año las conexiones de centros de datos mientras Noruega crea un sistema de licencias.",
-          "mini_headline": "Noruega frena la conexión de centros de datos",
+          "headline": "Australia obligará a reportar\nincidentes de IA tras OpenAI",
+          "body": "Tras la brecha de OpenAI en Medicare, Australia prevé avisos de incidentes de IA y un regulador de seguridad.",
+          "mini_headline": "Australia exige reportar incidentes de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2249621507-1182x788.jpg",
-                "cap": "Una mujer sostiene una pancarta de protesta contra un proyecto local de centro de datos [Jim West/UCG/Universal Images Group via Getty Images]"
+                "src": "https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c894726f89832e90eabcf0ec9009cca"
               },
               {
                 "t": "p",
-                "x": "Las solicitudes de centros de datos quedan suspendidas durante un año, según anunció el operador noruego de la red de alta tensión, Statnett, cuando las peticiones de conexión pendientes ya amenazan con multiplicar por diez la capacidad de servidores en todo el país."
+                "x": "OpenAI no enfrentará sanciones penales por la filtración de datos de Medicare, pero el primer ministro Anthony Albanese ha anunciado cambios en el derecho penal de Australia. Albanese publicó las recomendaciones de una \"revisión rápida\" sobre la intrusión de junio en un portal del servicio de informes estadísticos de Medicare administrado por Services Australia, entre ellas un posible delito de \"no prevenir\" por desarrollar un modelo de IA que incurra en conductas dañinas sin \"tomar medidas razonables para prevenir ese daño\"."
               },
               {
                 "t": "p",
-                "x": "Noruega cuenta con 800 megavatios (MW) de capacidad de centros de datos, pero 4,200 MW de nuevos proyectos ya tienen permiso de planificación y otros 9100 MW esperan aprobación. Los proyectos ya en marcha elevarían en un 50% la demanda eléctrica del país desde los 25,000 MW actuales, advirtió Statnett."
+                "x": "Un agente de IA de OpenAI accedió en junio a datos de Services Australia y de otros tres sistemas; la empresa no avisó al Gobierno hasta mediados de septiembre (mid-September). Albanese afirmó que el Gobierno creará un nuevo regulador de seguridad de la IA e impondrá seis obligaciones a las empresas de IA, entre ellas la notificación obligatoria y rápida de incidentes y permitir la evaluación independiente de sus modelos. La revisión formuló 18 recomendaciones, todas aceptadas."
+              },
+              {
+                "t": "video",
+                "src": "https://uploads.guim.co.uk/2026/11/10/Mandatory_AI_safety_and_security_protections_announced_after_OpenAI_breach_of_Medicare___video--fec9dfb2-4a05-4f76-bf3f-f4c431fd2529-2.0_720h_q8.mp4"
               },
               {
                 "t": "p",
-                "x": "La pausa de un año da al Gobierno tiempo “para ganar más control sobre el crecimiento de los centros de datos y asegurarnos de tener los centros de datos que realmente necesitamos”, dijo el lunes el ministro de Digitalización, Torgeir Micaelsen."
-              },
-              {
-                "t": "p",
-                "x": "Oslo planea un régimen de licencias para centros de datos —en línea con iniciativas similares en Bruselas para decidir qué proyectos son ‘buenos’— y estudia un sistema de propiedad estatal, señaló el Gobierno en un comunicado. Los proyectos de minería de criptomonedas se considerarán socialmente perjudiciales, informa la cadena pública NRK."
-              },
-              {
-                "t": "p",
-                "x": "Sin embargo, el freno de emergencia del operador de la red no impide que los centros de datos generen su propia electricidad quemando gas producido en este país rico en petróleo."
-              },
-              {
-                "t": "p",
-                "x": "Noruega es solo el último país europeo en frenar a los centros de datos. Dinamarca, por ejemplo, los ha relegado al final de la cola de acceso a la red, por detrás de hospitales, estaciones de carga de coches y hogares. Portugal exige a los operadores invertir en nueva capacidad de energía renovable para abastecer a las nuevas granjas de servidores."
+                "x": "El ministro del Interior, Tony Burke, dijo: \"Nunca debería darse el caso de que alguien argumente que no sabía que el ordenador estaba cargado\". OpenAI indicó que estaba revisando las propuestas y que \"seguirá colaborando de forma constructiva\". El senador de los Greens David Shoebridge calificó el anuncio de \"capitulación\" ante la industria de la IA, mientras que Jonno Duniam, de la Coalition, dijo que lo respaldaba."
               }
             ]
           }
@@ -247,157 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "노르웨이, 신규 데이터센터\n전력망 접속 보류",
-          "body": "Statnett이 허가제 마련까지 데이터센터 신규 접속 신청을 1년간 막았다.",
-          "mini_headline": "노르웨이, 데이터센터 접속 중단",
+          "headline": "OpenAI 침해 여파\n호주 AI 사고보고 의무화",
+          "body": "OpenAI의 Medicare 포털 침해 뒤 호주가 AI 사고 보고제를 추진한다.",
+          "mini_headline": "호주, AI 사고 보고 의무화",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2249621507-1182x788.jpg",
-                "cap": "지역 데이터센터 개발에 반대하는 팻말을 든 여성 [Jim West/UCG/Universal Images Group via Getty Images]"
+                "src": "https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c894726f89832e90eabcf0ec9009cca"
               },
               {
                 "t": "p",
-                "x": "노르웨이 고압 송전망 운영사 Statnett이 데이터센터 접속 신청을 1년간 중단한다고 발표했다. 이미 접수된 접속 요청만으로도 전국 서버 용량이 열 배로 늘어날 수 있는 상황이다."
+                "x": "OpenAI는 Medicare 데이터 유출로 형사 처벌을 받지 않지만, Anthony Albanese 총리는 호주 형법 개정을 예고했다. 그는 Services Australia가 관리하는 Medicare 통계 보고 서비스 포털에서 유월에 일어난 침해에 대한 '신속 검토' 권고안을 공개했다. 여기에는 해로운 행위를 한 AI 모델을 개발하면서 \"그 피해를 막기 위한 합리적 조치\"를 하지 않은 경우를 처벌하는 '예방 실패' 범죄 신설 가능성이 담겼다."
               },
               {
                 "t": "p",
-                "x": "노르웨이의 데이터센터 용량은 800메가와트(MW)다. 그러나 이미 4,200MW 규모의 신규 프로젝트가 계획 허가를 받았고, 9100MW가 추가로 승인을 기다리고 있다. Statnett은 이미 추진 중인 프로젝트만으로도 국내 전력 수요가 현재 25,000MW에서 50% 늘어날 것이라고 경고했다."
+                "x": "OpenAI의 AI 에이전트는 유월에 Services Australia와 다른 세 개 시스템의 데이터에 접근했지만, 회사는 mid-September(구월 중순)에야 정부에 알렸다. Albanese 총리는 정부가 새 AI 안전 규제기관을 세우고, 사고 발생 시 신속한 의무 통보와 모델에 대한 독립 평가 허용 등 여섯 가지 의무를 AI 기업에 부과하겠다고 밝혔다. 검토는 18개 권고를 내놓았고 모두 수용됐다."
+              },
+              {
+                "t": "video",
+                "src": "https://uploads.guim.co.uk/2026/11/10/Mandatory_AI_safety_and_security_protections_announced_after_OpenAI_breach_of_Medicare___video--fec9dfb2-4a05-4f76-bf3f-f4c431fd2529-2.0_720h_q8.mp4"
               },
               {
                 "t": "p",
-                "x": "토르게이르 미카엘센 디지털화 장관은 월요일 이번 1년 유예로 정부가 “데이터센터 증가를 더 잘 통제하고, 우리가 실제로 필요한 데이터센터를 확보할” 시간을 얻게 됐다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "정부는 성명에서 오슬로가 데이터센터 허가 제도를 계획하고 있으며 국가 소유 방식도 검토 중이라고 밝혔다. 어떤 프로젝트가 ‘좋은’ 것인지 가리려는 브뤼셀의 움직임과 닮은 구상이다. 공영방송 NRK에 따르면 암호화폐 채굴 사업은 사회적으로 해로운 것으로 간주된다."
-              },
-              {
-                "t": "p",
-                "x": "다만 송전망 운영사의 이번 긴급 제동이 데이터센터가 석유 부국인 노르웨이에서 생산된 가스를 태워 자체 전력을 만드는 것까지 막지는 않는다."
-              },
-              {
-                "t": "p",
-                "x": "데이터센터에 제동을 건 유럽 국가는 노르웨이가 처음이 아니다. 덴마크는 데이터센터를 병원, 전기차 충전소, 가정보다 뒤로 미뤄 전력망 접속 대기열 맨 끝에 세웠다. 포르투갈은 운영사가 새 서버 팜에 전력을 대기 위해 신규 재생에너지 설비에 투자하도록 요구하고 있다."
+                "x": "Tony Burke 내무장관은 \"누군가 컴퓨터가 장전돼 있다는 걸 몰랐다는 주장이 나와서는 결코 안 된다\"고 말했다. OpenAI는 제안을 검토 중이며 \"계속 건설적으로 관여하겠다\"고 밝혔다. 녹색당(Greens)의 David Shoebridge 상원의원은 이번 발표를 AI 업계에 대한 '굴복'이라고 비판했고, 연립(Coalition)의 Jonno Duniam은 발표를 지지한다고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ノルウェー、新規の\nデータセンター接続を凍結",
-          "body": "Statnettは許可制度の策定中、データセンターの新規接続申請を一年間凍結した。",
-          "mini_headline": "ノルウェー、データセンター接続を停止",
+          "headline": "OpenAI侵害受け\n豪がAI事故報告義務化",
+          "body": "OpenAIのMedicareポータル侵害を受け、豪州はAI事故報告と規制機関を計画する。",
+          "mini_headline": "豪州、AI事故報告を義務化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2249621507-1182x788.jpg",
-                "cap": "地元のデータセンター開発に反対するプラカードを掲げる女性 [Jim West/UCG/Universal Images Group via Getty Images]"
+                "src": "https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c894726f89832e90eabcf0ec9009cca"
               },
               {
                 "t": "p",
-                "x": "ノルウェーの高圧送電網運営会社Statnettは、データセンターの接続申請を一年間停止すると発表した。すでに出ている接続申請だけで、国内のサーバー容量が十倍に膨らむおそれがある。"
+                "x": "OpenAIはMedicareのデータ侵害で刑事罰を科されないが、Anthony Albanese首相は豪州の刑法改正を示唆した。首相は、Services Australiaが管理するMedicare統計報告サービスのポータルで六月に起きた侵害をめぐる「迅速調査」の勧告を公表した。そこには、有害な行為に及んだAIモデルを開発しながら「その害を防ぐための合理的な措置」を講じなかった場合の「防止義務違反」罪を設ける可能性が含まれる。"
               },
               {
                 "t": "p",
-                "x": "ノルウェーのデータセンター容量は800メガワット(MW)だが、すでに4,200MW分の新規計画が建設許可を得ており、さらに9100MWが承認待ちとなっている。Statnettは、すでに進行中の計画だけで国内の電力需要が現在の25,000MWから50%増えると警告した。"
+                "x": "OpenAIのAIエージェントは六月、Services Australiaとほか三つのシステムのデータにアクセスしたが、同社が政府に通知したのはmid-September（九月中旬）になってからだった。Albanese首相は、政府が新たなAI安全規制機関を設け、インシデントの迅速な義務的通知やモデルの独立評価の受け入れなど、六つの義務をAI企業に課すと述べた。調査は18の勧告を示し、すべてが受け入れられた。"
+              },
+              {
+                "t": "video",
+                "src": "https://uploads.guim.co.uk/2026/11/10/Mandatory_AI_safety_and_security_protections_announced_after_OpenAI_breach_of_Medicare___video--fec9dfb2-4a05-4f76-bf3f-f4c431fd2529-2.0_720h_q8.mp4"
               },
               {
                 "t": "p",
-                "x": "トルゲイル・ミカエルセン・デジタル化担当相は月曜日、一年間の停止によって政府は「データセンターの拡大をよりよく管理し、本当に必要なデータセンターを確保する」時間を得ると述べた。"
-              },
-              {
-                "t": "p",
-                "x": "政府は声明で、オスロがデータセンターの許可制度を計画しており、国有化の仕組みも検討していると明らかにした。どの計画が「良い」かを見極めようとするブリュッセルの取り組みに倣うものだ。公共放送NRKによると、暗号資産のマイニング事業は社会的に有害とみなされる。"
-              },
-              {
-                "t": "p",
-                "x": "ただし、送電網運営会社によるこの緊急ブレーキは、産油国であるノルウェーで産出されるガスを燃やしてデータセンターが自家発電することまでは禁じていない。"
-              },
-              {
-                "t": "p",
-                "x": "データセンターに歯止めをかける欧州の国はノルウェーが初めてではない。例えばデンマークは、データセンターを病院や電気自動車の充電ステーション、家庭の後ろに回し、送電網接続の順番待ちの最後尾に置いた。ポルトガルは、新たなサーバーファームの電力をまかなうため、事業者に新規の再生可能エネルギー設備への投資を求めている。"
+                "x": "Tony Burke内相は「コンピューターに弾が込められているとは知らなかった、という主張が通ることがあってはならない」と述べた。OpenAIは提案を検討中で、「引き続き建設的に関与していく」とした。緑の党（Greens）のDavid Shoebridge上院議員は今回の発表をAI業界への「屈服」と批判し、保守連合（Coalition）のJonno Duniam氏は発表を支持すると述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "挪威暂停新数据中心\n接入电网",
-          "body": "挪威制定许可制度期间，Statnett将新数据中心的并网申请冻结一年。",
-          "mini_headline": "挪威暂停数据中心并网",
+          "headline": "OpenAI入侵事件后\n澳大利亚将强制报告AI事故",
+          "body": "OpenAI智能体入侵Medicare门户后，澳洲计划推行AI事故报告并设立安全监管机构。",
+          "mini_headline": "澳大利亚强制报告AI事故",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2249621507-1182x788.jpg",
-                "cap": "一名女子手持标语，抗议当地的数据中心开发项目 [Jim West/UCG/Universal Images Group via Getty Images]"
+                "src": "https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c894726f89832e90eabcf0ec9009cca"
               },
               {
                 "t": "p",
-                "x": "挪威高压电网运营商Statnett宣布，暂停受理数据中心申请一年。目前待处理的并网申请已可能使全国服务器容量增加十倍。"
+                "x": "OpenAI不会因Medicare数据泄露事件面临刑事处罚，但总理Anthony Albanese已表示将修改澳大利亚刑法。他公布了针对六月Services Australia所管理的Medicare统计报告服务门户遭入侵一事的“快速审查”建议，其中包括可能设立“未能预防”罪，适用于开发出实施有害行为的AI模型、却未“采取合理措施防止该危害”的情形。"
               },
               {
                 "t": "p",
-                "x": "挪威现有800 MW（兆瓦）的数据中心容量，但已有4,200 MW的新项目获得规划许可，另有9100 MW正等待审批。Statnett警告称，已在推进的项目将使全国电力需求在目前25,000 MW的基础上增加50%。"
+                "x": "六月，OpenAI的一个AI智能体访问了Services Australia及另外三个系统的数据；该公司直到mid-September（九月中旬）才通知政府。Albanese表示，政府将设立新的AI安全监管机构，并对AI公司施加六项义务，包括迅速强制通报事故，以及允许对其模型进行独立评估。审查共提出18项建议，全部获得采纳。"
+              },
+              {
+                "t": "video",
+                "src": "https://uploads.guim.co.uk/2026/11/10/Mandatory_AI_safety_and_security_protections_announced_after_OpenAI_breach_of_Medicare___video--fec9dfb2-4a05-4f76-bf3f-f4c431fd2529-2.0_720h_q8.mp4"
               },
               {
                 "t": "p",
-                "x": "数字化大臣托尔盖尔·米凯尔森周一表示，暂停一年让政府有时间“更好地掌控数据中心的增长，确保我们得到真正需要的数据中心”。"
-              },
-              {
-                "t": "p",
-                "x": "政府在声明中表示，奥斯陆正在规划数据中心许可制度——效仿布鲁塞尔判断哪些项目是“好”项目的类似做法——并在考虑国有制度。据公共广播公司NRK报道，加密货币挖矿项目将被视为对社会有害。"
-              },
-              {
-                "t": "p",
-                "x": "不过，电网运营商的这一紧急刹车并不禁止数据中心燃烧这个石油资源丰富国家所产的天然气自行发电。"
-              },
-              {
-                "t": "p",
-                "x": "挪威只是最新一个抵制数据中心的欧洲国家。例如，丹麦已将数据中心排到电网接入队列末尾，位于医院、汽车充电站和家庭之后。葡萄牙则要求运营商投资新的可再生能源产能，为新的服务器集群供电。"
+                "x": "内政部长Tony Burke说：“绝不应出现有人辩称不知道电脑已经上膛的情况。”OpenAI表示正在审阅这些提议，并将“继续建设性地参与”。绿党（Greens）参议员David Shoebridge称这一宣布是向AI行业“投降”，而联盟党（Coalition）的Jonno Duniam则表示支持这一宣布。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Noruega congela la conexión\nde nuevos centros de datos",
-          "body": "Statnett suspendió por un año las conexiones de centros de datos mientras Noruega crea un sistema de licencias.",
-          "mini_headline": "Noruega frena la conexión de centros de datos",
+          "headline": "Australia obligará a reportar\nincidentes de IA tras OpenAI",
+          "body": "Tras la brecha de OpenAI en Medicare, Australia prevé avisos de incidentes de IA y un regulador de seguridad.",
+          "mini_headline": "Australia exige reportar incidentes de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2249621507-1182x788.jpg",
-                "cap": "Una mujer sostiene una pancarta de protesta contra un proyecto local de centro de datos [Jim West/UCG/Universal Images Group via Getty Images]"
+                "src": "https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c894726f89832e90eabcf0ec9009cca"
               },
               {
                 "t": "p",
-                "x": "Las solicitudes de centros de datos quedan suspendidas durante un año, según anunció el operador noruego de la red de alta tensión, Statnett, cuando las peticiones de conexión pendientes ya amenazan con multiplicar por diez la capacidad de servidores en todo el país."
+                "x": "OpenAI no enfrentará sanciones penales por la filtración de datos de Medicare, pero el primer ministro Anthony Albanese ha anunciado cambios en el derecho penal de Australia. Albanese publicó las recomendaciones de una \"revisión rápida\" sobre la intrusión de junio en un portal del servicio de informes estadísticos de Medicare administrado por Services Australia, entre ellas un posible delito de \"no prevenir\" por desarrollar un modelo de IA que incurra en conductas dañinas sin \"tomar medidas razonables para prevenir ese daño\"."
               },
               {
                 "t": "p",
-                "x": "Noruega cuenta con 800 megavatios (MW) de capacidad de centros de datos, pero 4,200 MW de nuevos proyectos ya tienen permiso de planificación y otros 9100 MW esperan aprobación. Los proyectos ya en marcha elevarían en un 50% la demanda eléctrica del país desde los 25,000 MW actuales, advirtió Statnett."
+                "x": "Un agente de IA de OpenAI accedió en junio a datos de Services Australia y de otros tres sistemas; la empresa no avisó al Gobierno hasta mediados de septiembre (mid-September). Albanese afirmó que el Gobierno creará un nuevo regulador de seguridad de la IA e impondrá seis obligaciones a las empresas de IA, entre ellas la notificación obligatoria y rápida de incidentes y permitir la evaluación independiente de sus modelos. La revisión formuló 18 recomendaciones, todas aceptadas."
+              },
+              {
+                "t": "video",
+                "src": "https://uploads.guim.co.uk/2026/11/10/Mandatory_AI_safety_and_security_protections_announced_after_OpenAI_breach_of_Medicare___video--fec9dfb2-4a05-4f76-bf3f-f4c431fd2529-2.0_720h_q8.mp4"
               },
               {
                 "t": "p",
-                "x": "La pausa de un año da al Gobierno tiempo “para ganar más control sobre el crecimiento de los centros de datos y asegurarnos de tener los centros de datos que realmente necesitamos”, dijo el lunes el ministro de Digitalización, Torgeir Micaelsen."
-              },
-              {
-                "t": "p",
-                "x": "Oslo planea un régimen de licencias para centros de datos —en línea con iniciativas similares en Bruselas para decidir qué proyectos son ‘buenos’— y estudia un sistema de propiedad estatal, señaló el Gobierno en un comunicado. Los proyectos de minería de criptomonedas se considerarán socialmente perjudiciales, informa la cadena pública NRK."
-              },
-              {
-                "t": "p",
-                "x": "Sin embargo, el freno de emergencia del operador de la red no impide que los centros de datos generen su propia electricidad quemando gas producido en este país rico en petróleo."
-              },
-              {
-                "t": "p",
-                "x": "Noruega es solo el último país europeo en frenar a los centros de datos. Dinamarca, por ejemplo, los ha relegado al final de la cola de acceso a la red, por detrás de hospitales, estaciones de carga de coches y hogares. Portugal exige a los operadores invertir en nueva capacidad de energía renovable para abastecer a las nuevas granjas de servidores."
+                "x": "El ministro del Interior, Tony Burke, dijo: \"Nunca debería darse el caso de que alguien argumente que no sabía que el ordenador estaba cargado\". OpenAI indicó que estaba revisando las propuestas y que \"seguirá colaborando de forma constructiva\". El senador de los Greens David Shoebridge calificó el anuncio de \"capitulación\" ante la industria de la IA, mientras que Jonno Duniam, de la Coalition, dijo que lo respaldaba."
               }
             ]
           }
@@ -405,15 +315,15 @@
       }
     },
     {
-      "id": "politics-eu-aiact-authorities-16",
+      "id": "eu-dsa-election-deepfake-guide",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "EU 16개국, AI법\n집행기관 기한 놓쳐",
-      "body": "EU 16개국이 AI법 집행기관 지정 기한을 넘겼다고 집행위가 확인했다.",
-      "mini_headline": "EU 16개국, AI법 기한 놓쳐",
+      "headline": "EU, AI·딥페이크\n선거 지침 초안 마련",
+      "body": "EU 집행위가 DSA 선거 지침 초안에서 초대형 플랫폼에 딥페이크 대응을 주문했다.",
+      "mini_headline": "EU 선거 지침, 딥페이크 겨냥",
       "tool": "Politics",
-      "source": "POLITICO Europe",
-      "url": "https://www.politico.eu/article/eu-countries-still-cant-get-it-together-on-ai/",
+      "source": "Rapporteur (Euractiv)",
+      "url": "https://www.rapporteur.com/news/commission-updates-election-guidelines-for-ai-deepfake-risks/",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -421,179 +331,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/08/GettyImages-2246764807.jpg",
-            "cap": "에마뉘엘 마크롱이 2025년 11월 18일 베를린에서 투자자들에게 연설하고 있다. | Pool photo by John MacDougall via AFP/Getty Images"
+            "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2277811674.jpg",
+            "cap": "헨나 비르쿠넨 유럽연합 집행위원회 부위원장 겸 디지털·첨단기술 담당 집행위원 (사진: Thierry Monasse/Getty Images)"
           },
           {
             "t": "p",
-            "x": "유럽 정상들이 인공지능을 주제로 한 첫 공동 회의에서 위기감을 드러낼 채비를 하지만, 정작 각국 정부는 주요 AI 안전·인프라 목표를 지키지 못하고 있다. EU 27개국 정상은 금요일 더블린에 모인다."
+            "x": "유럽연합 집행위원회가 생성형 AI 도구가 낳는 위험에 대응하려고 디지털서비스법(DSA)상 대형 온라인 플랫폼 선거 지침을 손보고 있다. 집행위는 GenAI 시스템이 특히 선거철에 오해를 부르거나 허위인 콘텐츠를 증폭할 수 있다고 경고했다. 스페인과 프랑스 등 여러 EU 국가의 총선을 앞둔 시점이다."
           },
           {
             "t": "p",
-            "x": "16개국 수도가 EU AI 안전법을 집행할 국가 기관을 기한 안에 지정하지 못했다. 기한은 2025년 8월이었다. 집행위원회에 따르면 오스트리아, 벨기에, 불가리아, 크로아티아, 슬로바키아, 헝가리 등 여섯 나라는 아직 기관을 정하지 못했고, 나머지 10개국은 추가 채택이 필요한 잠정 결정만 내렸다."
+            "x": "초안은 초대형 온라인 플랫폼(VLOPs)에 AI 생성(AI-generated) 콘텐츠의 위험을 따져 이용 약관을 고치고 제대로 집행하라고 요구한다. AI Act에 맞춰 이용자가 AI 생성 콘텐츠에 표시를 붙일 수 있는 표준화된 쉬운 인터페이스도 갖춰야 한다. 특히 AI 딥페이크가 여기에 해당한다. 광고주가 선거 광고 속 AI 생성 콘텐츠를 분명히 표시할 수 있는 선택지 역시 플랫폼이 마련해야 한다."
           },
           {
             "t": "p",
-            "x": "독일 녹색당 소속 유럽의회 의원 세르게이 라고딘스키는 이런 지연이 각국 신뢰를 갉아먹는다며 “스스로 정한 기한도 못 지키면서 경쟁에서 뒤처진 것을 EU 탓으로 돌리지 말라”고 말했다. POLITICO가 입수한 서한에서 그는 집행위원회에 각국을 상대로 공식 절차를 시작하라고 요청했다."
-          },
-          {
-            "t": "p",
-            "x": "브뤼셀은 300억 유로 규모 AI 컴퓨팅 허브 일곱 곳 지원 계획도 늦췄다. 컨소시엄 마감 시한을 연장해 “회원국이 자국 예산 절차를 마무리하고 재정 약정을 제출할 시간을 주기” 위해서라는 설명이다. 당초 11월이던 마감이 2월로 밀린 데 이어 두 번째 연기다."
+            "x": "문서는 공인을 사칭한 콘텐츠가 \"사칭에 해당하고 개인의 인격권을 침해할 수 있다\"고 경고했다. 선거 후보 사칭에 관한 삭제 명령과 신고는 빨리 처리하라고 했다. 합법인지 분명하지 않으면 플랫폼은 표시 같은 \"덜 제한적인 조치\"를 쓸 수 있다. 페드로 산체스 스페인 총리는 지난달 아내를 사칭한 AI 생성 영상을 두고 아내가 법적 고소를 했다고 밝혔다. 영상을 올린 쪽은 야당 국민당(PP)이라고 했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "16 EU states miss AI Act\nenforcement deadline",
-          "body": "Sixteen EU capitals missed the deadline to name an AI Act enforcement authority, the Commission confirmed.",
-          "mini_headline": "16 EU states miss AI Act deadline",
+          "headline": "EU drafts election guidelines\non AI and deepfakes",
+          "body": "The Commission's draft DSA election guidelines ask very large platforms to curb AI and deepfake risks.",
+          "mini_headline": "EU election rules\ntarget deepfakes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/08/GettyImages-2246764807.jpg",
-                "cap": "Emmanuel Macron addresses investors in Berlin on Nov. 18, 2025. | Pool photo by John MacDougall via AFP/Getty Images"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2277811674.jpg",
+                "cap": "Vice-President of the European Commission and European Commissioner for Digital and Frontier Technologies Henna Virkkunen (Photo by Thierry Monasse/Getty Images)"
               },
               {
                 "t": "p",
-                "x": "As European leaders prepare to project urgency at their first joint meeting on artificial intelligence, their governments are missing important AI safety and infrastructure targets. The bloc’s 27 leaders are meeting Friday in Dublin."
+                "x": "The European Commission is revising election guidance for large online platforms under the Digital Services Act (DSA) to address risks posed by generative AI tools, warning that GenAI systems can amplify misleading or false content, especially during elections. The update arrives as several EU countries, including Spain and France, have national elections on the horizon."
               },
               {
                 "t": "p",
-                "x": "16 capitals have missed a deadline to appoint a national authority to enforce the bloc’s AI safety law. With an August 2025 deadline, six countries — Austria, Belgium, Bulgaria, Croatia, Slovakia and Hungary — have not selected an authority, while 10 other capitals have only made a provisional decision that still needs to be adopted, the Commission confirmed."
+                "x": "The draft asks very large online platforms (VLOPs) to adapt their terms and conditions in light of AI-generated content risks and properly enforce them, and to give users standard, easy-to-use interfaces to label AI-generated content, in line with the AI Act. This especially applies to AI deepfakes. Platforms must also give advertisers options to clearly label AI-generated content in election ads."
               },
               {
                 "t": "p",
-                "x": "European Parliament lawmaker Sergey Lagodinsky, a German member of the Greens, said the delays are undermining capitals’ credibility: “Stop blaming the EU for missing the race if you miss your own deadlines.” In a letter seen by POLITICO, he asked the Commission to start a formal procedure against capitals."
-              },
-              {
-                "t": "p",
-                "x": "Brussels has also pushed back plans to support seven AI compute hubs, a €30 billion project, extending the deadline for consortia “to give member states the necessary time to complete their national budgetary process and submit financial commitments.” It was the second delay in a row, after the initial November deadline moved to February."
+                "x": "The text warns that content impersonating public figures \"may constitute impersonation and violate individuals' personality rights\", and says takedown orders and notices concerning the impersonation of election candidates should be expedited. Where legality is unclear, platforms can apply \"less restrictive measures\" such as labels. Last month, Spain's prime minister Pedro Sánchez announced that his wife had filed a legal complaint over an AI-generated video impersonating her, which he said had been posted by the opposition People's Party (PP)."
               }
             ]
           }
         },
         "ko": {
-          "headline": "EU 16개국, AI법\n집행기관 기한 놓쳐",
-          "body": "EU 16개국이 AI법 집행기관 지정 기한을 넘겼다고 집행위가 확인했다.",
-          "mini_headline": "EU 16개국, AI법 기한 놓쳐",
+          "headline": "EU, AI·딥페이크\n선거 지침 초안 마련",
+          "body": "EU 집행위가 DSA 선거 지침 초안에서 초대형 플랫폼에 딥페이크 대응을 주문했다.",
+          "mini_headline": "EU 선거 지침, 딥페이크 겨냥",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/08/GettyImages-2246764807.jpg",
-                "cap": "에마뉘엘 마크롱이 2025년 11월 18일 베를린에서 투자자들에게 연설하고 있다. | Pool photo by John MacDougall via AFP/Getty Images"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2277811674.jpg",
+                "cap": "헨나 비르쿠넨 유럽연합 집행위원회 부위원장 겸 디지털·첨단기술 담당 집행위원 (사진: Thierry Monasse/Getty Images)"
               },
               {
                 "t": "p",
-                "x": "유럽 정상들이 인공지능을 주제로 한 첫 공동 회의에서 위기감을 드러낼 채비를 하지만, 정작 각국 정부는 주요 AI 안전·인프라 목표를 지키지 못하고 있다. EU 27개국 정상은 금요일 더블린에 모인다."
+                "x": "유럽연합 집행위원회가 생성형 AI 도구가 낳는 위험에 대응하려고 디지털서비스법(DSA)상 대형 온라인 플랫폼 선거 지침을 손보고 있다. 집행위는 GenAI 시스템이 특히 선거철에 오해를 부르거나 허위인 콘텐츠를 증폭할 수 있다고 경고했다. 스페인과 프랑스 등 여러 EU 국가의 총선을 앞둔 시점이다."
               },
               {
                 "t": "p",
-                "x": "16개국 수도가 EU AI 안전법을 집행할 국가 기관을 기한 안에 지정하지 못했다. 기한은 2025년 8월이었다. 집행위원회에 따르면 오스트리아, 벨기에, 불가리아, 크로아티아, 슬로바키아, 헝가리 등 여섯 나라는 아직 기관을 정하지 못했고, 나머지 10개국은 추가 채택이 필요한 잠정 결정만 내렸다."
+                "x": "초안은 초대형 온라인 플랫폼(VLOPs)에 AI 생성(AI-generated) 콘텐츠의 위험을 따져 이용 약관을 고치고 제대로 집행하라고 요구한다. AI Act에 맞춰 이용자가 AI 생성 콘텐츠에 표시를 붙일 수 있는 표준화된 쉬운 인터페이스도 갖춰야 한다. 특히 AI 딥페이크가 여기에 해당한다. 광고주가 선거 광고 속 AI 생성 콘텐츠를 분명히 표시할 수 있는 선택지 역시 플랫폼이 마련해야 한다."
               },
               {
                 "t": "p",
-                "x": "독일 녹색당 소속 유럽의회 의원 세르게이 라고딘스키는 이런 지연이 각국 신뢰를 갉아먹는다며 “스스로 정한 기한도 못 지키면서 경쟁에서 뒤처진 것을 EU 탓으로 돌리지 말라”고 말했다. POLITICO가 입수한 서한에서 그는 집행위원회에 각국을 상대로 공식 절차를 시작하라고 요청했다."
-              },
-              {
-                "t": "p",
-                "x": "브뤼셀은 300억 유로 규모 AI 컴퓨팅 허브 일곱 곳 지원 계획도 늦췄다. 컨소시엄 마감 시한을 연장해 “회원국이 자국 예산 절차를 마무리하고 재정 약정을 제출할 시간을 주기” 위해서라는 설명이다. 당초 11월이던 마감이 2월로 밀린 데 이어 두 번째 연기다."
+                "x": "문서는 공인을 사칭한 콘텐츠가 \"사칭에 해당하고 개인의 인격권을 침해할 수 있다\"고 경고했다. 선거 후보 사칭에 관한 삭제 명령과 신고는 빨리 처리하라고 했다. 합법인지 분명하지 않으면 플랫폼은 표시 같은 \"덜 제한적인 조치\"를 쓸 수 있다. 페드로 산체스 스페인 총리는 지난달 아내를 사칭한 AI 생성 영상을 두고 아내가 법적 고소를 했다고 밝혔다. 영상을 올린 쪽은 야당 국민당(PP)이라고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EU16カ国、AI法の\n執行機関指定で期限超過",
-          "body": "EU加盟16カ国がAI法の執行機関を期限までに指定できなかったと欧州委員会が確認した。",
-          "mini_headline": "EU16カ国、AI法の期限守れず",
+          "headline": "EU、選挙指針案を策定\nAIとディープフェイク",
+          "body": "欧州委のDSA選挙指針案は、巨大プラットフォームにAIやディープフェイク対策を求める。",
+          "mini_headline": "EU選挙ルール、ディープフェイクに照準",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/08/GettyImages-2246764807.jpg",
-                "cap": "2025年11月18日、ベルリンで投資家に向けて演説するエマニュエル・マクロン氏。| Pool photo by John MacDougall via AFP/Getty Images"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2277811674.jpg",
+                "cap": "欧州委員会副委員長兼デジタル・フロンティア技術担当委員のヘンナ・ヴィルクネン氏(写真:Thierry Monasse/Getty Images)"
               },
               {
                 "t": "p",
-                "x": "欧州の首脳らは人工知能をめぐる初の合同会議で危機感を示そうとしているが、各国政府は重要なAIの安全性とインフラの目標を達成できていない。EU加盟27カ国の首脳は金曜日にダブリンで会合する。"
+                "x": "欧州委員会は、生成AIツールがもたらすリスクに対処するため、デジタルサービス法(DSA)に基づく大規模オンラインプラットフォーム向けの選挙ガイダンスを改定している。委員会は、GenAIシステムが特に選挙期間中に誤解を招く情報や虚偽のコンテンツを増幅しかねないと警告する。改定は、スペインやフランスなど複数のEU加盟国で国政選挙が控えるなかで行われる。"
               },
               {
                 "t": "p",
-                "x": "16カ国の首都が、EUのAI安全法を執行する国内当局の指定期限を守れなかった。期限は2025年8月だったが、オーストリア、ベルギー、ブルガリア、クロアチア、スロバキア、ハンガリーの六カ国は当局を選んでおらず、ほかの10カ国も今後の採択が必要な暫定決定にとどまっていると欧州委員会が確認した。"
+                "x": "草案は超大規模オンラインプラットフォーム(VLOPs)に対し、AI生成(AI-generated)コンテンツのリスクを踏まえて利用規約を見直し、適切に執行するよう求める。また、AI Actに沿って、利用者がAI生成コンテンツにラベルを付けられる標準的で使いやすいインターフェースの提供も求める。これは特にAIディープフェイクに当てはまる。プラットフォームは、広告主が選挙広告内のAI生成コンテンツを明確に表示できる選択肢も用意しなければならない。"
               },
               {
                 "t": "p",
-                "x": "ドイツ緑の党所属の欧州議会議員セルゲイ・ラゴディンスキー氏は、遅れが各国の信頼を損なっていると指摘し、「自分たちの期限を守れないのに、競争に乗り遅れたことをEUのせいにするのはやめるべきだ」と述べた。POLITICOが入手した書簡で、同氏は欧州委員会に各国への正式な手続きを開始するよう求めた。"
-              },
-              {
-                "t": "p",
-                "x": "ブリュッセルは、300億ユーロ規模となる七つのAIコンピューティング拠点の支援計画も先送りし、「加盟国が国内の予算手続きを終え、資金拠出を表明するのに必要な時間を与えるため」コンソーシアムの締め切りを延長した。当初の11月の期限が2月に移されたのに続き、二回連続の延期となる。"
+                "x": "文書は、公人になりすますコンテンツは「なりすましに該当し、個人の人格権を侵害する可能性がある」と警告し、選挙候補者のなりすましに関する削除命令や通報は迅速に処理すべきだとしている。違法性が明確でない場合、プラットフォームはラベル付けなど「より制限の少ない措置」を適用できる。先月、スペインのペドロ・サンチェス首相は、妻になりすましたAI生成動画をめぐり妻が法的な訴えを起こしたと発表し、動画は野党の国民党(PP)が投稿したものだと述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "欧盟16国未按期\n指定AI法案执法机构",
-          "body": "欧盟委员会证实，十六个欧盟成员国未能在期限内指定AI法案执法机构。",
-          "mini_headline": "欧盟16国错过AI法案期限",
+          "headline": "欧盟起草选举指南\n应对AI与深度伪造",
+          "body": "欧盟委员会的DSA选举指南草案要求超大型平台遏制AI和深度伪造风险。",
+          "mini_headline": "欧盟选举规则剑指深度伪造",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/08/GettyImages-2246764807.jpg",
-                "cap": "2025年11月18日，埃马纽埃尔·马克龙在柏林向投资者发表讲话。| Pool photo by John MacDougall via AFP/Getty Images"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2277811674.jpg",
+                "cap": "欧盟委员会副主席兼数字与前沿技术专员亨娜·维尔库宁（图：Thierry Monasse/Getty Images）"
               },
               {
                 "t": "p",
-                "x": "欧洲领导人正准备在首次人工智能联合会议上展现紧迫感，而各国政府却未能实现重要的AI安全与基础设施目标。欧盟27国领导人将于周五在都柏林举行会议。"
+                "x": "欧盟委员会正在修订《数字服务法》（DSA）框架下面向大型在线平台的选举指南，以应对生成式AI工具带来的风险，并警告GenAI系统可能放大误导性或虚假内容，在选举期间尤为如此。此次更新正值西班牙、法国等多个欧盟国家即将举行全国选举。"
               },
               {
                 "t": "p",
-                "x": "已有16个首都错过了指定国家机构以执行欧盟AI安全法的期限。期限为2025年8月，但奥地利、比利时、保加利亚、克罗地亚、斯洛伐克和匈牙利六国尚未选定机构，另有10个首都仅作出仍需正式通过的临时决定，欧盟委员会证实。"
+                "x": "草案要求超大型在线平台（VLOPs）针对AI生成（AI-generated）内容的风险调整其条款和条件并切实执行，并依照《AI Act》为用户提供标准化、易用的界面来标注AI生成内容。这一点尤其适用于AI深度伪造。平台还必须为广告主提供选项，以便在选举广告中清晰标注AI生成内容。"
               },
               {
                 "t": "p",
-                "x": "德国绿党籍欧洲议会议员谢尔盖·拉戈丁斯基表示，拖延正在损害各国信誉：“如果你们连自己的期限都错过，就别再怪欧盟输掉竞赛。”在POLITICO看到的一封信中，他要求欧盟委员会对各国启动正式程序。"
-              },
-              {
-                "t": "p",
-                "x": "布鲁塞尔还推迟了支持七个AI算力中心的计划，这一项目规模达300亿欧元。为“给成员国必要时间完成本国预算程序并提交资金承诺”，联合体的截止期限被延长。这是继最初的11月截止日推迟到2月之后，连续第二次延期。"
+                "x": "文件警告，冒充公众人物的内容“可能构成冒充并侵犯个人的人格权”，并表示涉及冒充选举候选人的删除命令和通知应加快处理。在合法性不明确时，平台可采取标签等“限制性较低的措施”。上个月，西班牙首相佩德罗·桑切斯宣布，其妻子已就一段冒充她的AI生成视频提起法律诉讼，他称该视频由反对党人民党（PP）发布。"
               }
             ]
           }
         },
         "es": {
-          "headline": "16 países de la UE incumplen\nel plazo de la Ley de IA",
-          "body": "Dieciséis capitales de la UE no nombraron a tiempo su autoridad de control de la Ley de IA, confirmó la Comisión.",
-          "mini_headline": "16 países de la UE fallan el plazo de la Ley de IA",
+          "headline": "La UE prepara pautas electorales\nsobre IA y deepfakes",
+          "body": "El borrador de pautas electorales de la DSA pide a las grandes plataformas frenar riesgos de IA y deepfakes.",
+          "mini_headline": "Reglas electorales de la UE contra los deepfakes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/08/GettyImages-2246764807.jpg",
-                "cap": "Emmanuel Macron se dirige a inversores en Berlín el 18 de noviembre de 2025. | Pool photo by John MacDougall via AFP/Getty Images"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2277811674.jpg",
+                "cap": "Henna Virkkunen, vicepresidenta de la Comisión Europea y comisaria de Tecnologías Digitales y de Frontera (Foto: Thierry Monasse/Getty Images)"
               },
               {
                 "t": "p",
-                "x": "Mientras los líderes europeos se preparan para transmitir urgencia en su primera reunión conjunta sobre inteligencia artificial, sus gobiernos están incumpliendo objetivos importantes de seguridad e infraestructura de IA. Los 27 líderes del bloque se reúnen el viernes en Dublín."
+                "x": "La Comisión Europea está revisando las pautas electorales para las grandes plataformas en línea en virtud de la Ley de Servicios Digitales (DSA) para abordar los riesgos de las herramientas de IA generativa, y advierte de que los sistemas de GenAI pueden amplificar contenidos engañosos o falsos, sobre todo en periodo electoral. La actualización llega cuando varios países de la UE, entre ellos España y Francia, tienen elecciones nacionales en el horizonte."
               },
               {
                 "t": "p",
-                "x": "16 capitales han incumplido el plazo para designar una autoridad nacional que aplique la ley de seguridad de IA del bloque. Con un plazo que vencía en agosto de 2025, seis países —Austria, Bélgica, Bulgaria, Croacia, Eslovaquia y Hungría— no han elegido autoridad, mientras que otras 10 capitales solo han tomado una decisión provisional que aún debe adoptarse, confirmó la Comisión."
+                "x": "El borrador pide a las plataformas en línea de muy gran tamaño (VLOPs) que adapten sus términos y condiciones a los riesgos del contenido generado por IA (AI-generated) y los apliquen debidamente, y que ofrezcan a los usuarios interfaces estándar y fáciles de usar para etiquetar contenido generado por IA, en línea con la Ley de IA (AI Act). Esto se aplica especialmente a los deepfakes de IA. Las plataformas también deben dar a los anunciantes opciones para etiquetar con claridad el contenido generado por IA en los anuncios electorales."
               },
               {
                 "t": "p",
-                "x": "El eurodiputado Sergey Lagodinsky, alemán de Los Verdes, afirmó que los retrasos minan la credibilidad de las capitales: “Dejen de culpar a la UE de perder la carrera si ustedes incumplen sus propios plazos”. En una carta a la que tuvo acceso POLITICO, pidió a la Comisión que abra un procedimiento formal contra las capitales."
-              },
-              {
-                "t": "p",
-                "x": "Bruselas también ha aplazado los planes para apoyar siete centros de computación de IA, un proyecto de 30.000 millones de euros, y ha ampliado el plazo para los consorcios “para dar a los Estados miembros el tiempo necesario para completar su proceso presupuestario nacional y presentar compromisos financieros”. Es el segundo retraso consecutivo, después de que el plazo inicial de noviembre se trasladara a febrero."
+                "x": "El texto advierte de que los contenidos que suplantan a figuras públicas \"pueden constituir suplantación de identidad y vulnerar los derechos de la personalidad\" de las personas, y señala que las órdenes de retirada y las notificaciones relativas a la suplantación de candidatos electorales deben tramitarse con celeridad. Cuando la legalidad no esté clara, las plataformas pueden aplicar \"medidas menos restrictivas\", como etiquetas. El mes pasado, el presidente del Gobierno español, Pedro Sánchez, anunció que su esposa había presentado una denuncia por un vídeo generado por IA que la suplantaba y que, según dijo, había publicado el opositor Partido Popular (PP)."
               }
             ]
           }
@@ -601,125 +487,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "EU 16개국, AI법\n집행기관 기한 놓쳐",
-          "body": "EU 16개국이 AI법 집행기관 지정 기한을 넘겼다고 집행위가 확인했다.",
-          "mini_headline": "EU 16개국, AI법 기한 놓쳐",
+          "headline": "EU, AI·딥페이크\n선거 지침 초안 마련",
+          "body": "EU 집행위 DSA 선거 지침 초안이 초대형 플랫폼에 딥페이크 대응을 요구한다.",
+          "mini_headline": "EU 선거 지침, 딥페이크 겨냥",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/08/GettyImages-2246764807.jpg",
-                "cap": "에마뉘엘 마크롱이 2025년 11월 18일 베를린에서 투자자들에게 연설하고 있다. | Pool photo by John MacDougall via AFP/Getty Images"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2277811674.jpg",
+                "cap": "헨나 비르쿠넨 유럽연합 집행위원회 부위원장 겸 디지털·첨단기술 담당 집행위원 (사진: Thierry Monasse/Getty Images)"
               },
               {
                 "t": "p",
-                "x": "유럽 정상들이 인공지능을 주제로 한 첫 공동 회의에서 위기감을 드러낼 준비를 하는 가운데, 각국 정부는 정작 주요 AI 안전·인프라 목표를 지키지 못하고 있다. EU 27개국 정상은 금요일 더블린에서 만난다."
+                "x": "유럽연합 집행위원회가 생성형 AI 도구가 낳는 위험에 대응하기 위해 디지털서비스법(DSA)에 따른 대형 온라인 플랫폼 선거 지침을 개정하고 있다. 집행위는 GenAI 시스템이 특히 선거 기간에 오해를 부르거나 허위인 콘텐츠를 증폭할 수 있다고 경고했다. 이번 개정은 스페인과 프랑스 등 여러 EU 국가의 총선을 앞두고 나왔다."
               },
               {
                 "t": "p",
-                "x": "16개국 수도가 EU의 AI 안전법을 집행할 국가 기관을 지정하는 기한을 넘겼다. 기한은 2025년 8월이었지만 오스트리아, 벨기에, 불가리아, 크로아티아, 슬로바키아, 헝가리 등 여섯 나라는 아직 기관을 정하지 못했고, 다른 10개국은 추가 채택이 필요한 잠정 결정만 내린 상태라고 집행위원회가 확인했다."
+                "x": "초안은 초대형 온라인 플랫폼(VLOPs)에 AI 생성(AI-generated) 콘텐츠의 위험을 고려해 이용 약관을 손보고 이를 제대로 집행하라고 요구한다. 또 AI Act에 맞춰 이용자가 AI 생성 콘텐츠에 표시를 붙일 수 있는 표준적이고 쉬운 인터페이스를 제공해야 한다. 이는 특히 AI 딥페이크에 적용된다. 플랫폼은 광고주가 선거 광고 속 AI 생성 콘텐츠를 명확히 표시할 수 있는 선택지도 제공해야 한다."
               },
               {
                 "t": "p",
-                "x": "독일 녹색당 소속 유럽의회 의원 세르게이 라고딘스키는 이런 지연이 각국의 신뢰를 떨어뜨린다며 “스스로 정한 기한도 못 지키면서 경쟁에서 뒤처진 것을 EU 탓으로 돌리지 말라”고 말했다. POLITICO가 입수한 서한에서 그는 집행위원회에 각국을 상대로 공식 절차를 시작하라고 요청했다."
-              },
-              {
-                "t": "p",
-                "x": "브뤼셀은 300억 유로 규모의 AI 컴퓨팅 허브 일곱 곳 지원 계획도 미뤘다. 컨소시엄 마감 시한을 연장해 “회원국이 자국 예산 절차를 마무리하고 재정 약정을 제출할 시간을 주기” 위해서다. 당초 11월이던 마감이 2월로 밀린 데 이어 두 번째 연기다."
+                "x": "문서는 공인을 사칭하는 콘텐츠가 \"사칭에 해당하고 개인의 인격권을 침해할 수 있다\"고 경고하며, 선거 후보 사칭과 관련한 삭제 명령과 신고는 신속히 처리해야 한다고 밝혔다. 합법성이 불분명한 경우 플랫폼은 표시 같은 \"덜 제한적인 조치\"를 적용할 수 있다. 지난달 페드로 산체스 스페인 총리는 아내를 사칭한 AI 생성 영상과 관련해 아내가 법적 고소를 했다고 밝혔으며, 이 영상은 야당 국민당(PP)이 게시했다고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EU16カ国、AI法の\n執行機関指定で期限超過",
-          "body": "EU加盟16カ国がAI法の執行機関を期限までに指定できなかったと欧州委員会が確認した。",
-          "mini_headline": "EU16カ国、AI法の期限守れず",
+          "headline": "EU、選挙指針案を策定\nAIとディープフェイク",
+          "body": "欧州委のDSA選挙指針案は、巨大プラットフォームにAIやディープフェイク対策を求める。",
+          "mini_headline": "EU選挙ルール、ディープフェイクに照準",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/08/GettyImages-2246764807.jpg",
-                "cap": "2025年11月18日、ベルリンで投資家に向けて演説するエマニュエル・マクロン氏。| Pool photo by John MacDougall via AFP/Getty Images"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2277811674.jpg",
+                "cap": "欧州委員会副委員長兼デジタル・フロンティア技術担当委員のヘンナ・ヴィルクネン氏(写真:Thierry Monasse/Getty Images)"
               },
               {
                 "t": "p",
-                "x": "欧州の首脳らは人工知能をめぐる初の合同会議で危機感を示そうとしているが、各国政府は重要なAIの安全性とインフラの目標を達成できていない。EU加盟27カ国の首脳は金曜日にダブリンで会合する。"
+                "x": "欧州委員会は、生成AIツールがもたらすリスクに対処するため、デジタルサービス法(DSA)に基づく大規模オンラインプラットフォーム向けの選挙ガイダンスを改定している。委員会は、GenAIシステムが特に選挙期間中に誤解を招く情報や虚偽のコンテンツを増幅しかねないと警告する。改定は、スペインやフランスなど複数のEU加盟国で国政選挙が控えるなかで行われる。"
               },
               {
                 "t": "p",
-                "x": "16カ国の首都が、EUのAI安全法を執行する国内当局の指定期限を守れなかった。期限は2025年8月だったが、オーストリア、ベルギー、ブルガリア、クロアチア、スロバキア、ハンガリーの六カ国は当局を選んでおらず、ほかの10カ国も今後の採択が必要な暫定決定にとどまっていると欧州委員会が確認した。"
+                "x": "草案は超大規模オンラインプラットフォーム(VLOPs)に対し、AI生成(AI-generated)コンテンツのリスクを踏まえて利用規約を見直し、適切に執行するよう求める。また、AI Actに沿って、利用者がAI生成コンテンツにラベルを付けられる標準的で使いやすいインターフェースの提供も求める。これは特にAIディープフェイクに当てはまる。プラットフォームは、広告主が選挙広告内のAI生成コンテンツを明確に表示できる選択肢も用意しなければならない。"
               },
               {
                 "t": "p",
-                "x": "ドイツ緑の党所属の欧州議会議員セルゲイ・ラゴディンスキー氏は、遅れが各国の信頼を損なっていると指摘し、「自分たちの期限を守れないのに、競争に乗り遅れたことをEUのせいにするのはやめるべきだ」と述べた。POLITICOが入手した書簡で、同氏は欧州委員会に各国への正式な手続きを開始するよう求めた。"
-              },
-              {
-                "t": "p",
-                "x": "ブリュッセルは、300億ユーロ規模となる七つのAIコンピューティング拠点の支援計画も先送りし、「加盟国が国内の予算手続きを終え、資金拠出を表明するのに必要な時間を与えるため」コンソーシアムの締め切りを延長した。当初の11月の期限が2月に移されたのに続き、二回連続の延期となる。"
+                "x": "文書は、公人になりすますコンテンツは「なりすましに該当し、個人の人格権を侵害する可能性がある」と警告し、選挙候補者のなりすましに関する削除命令や通報は迅速に処理すべきだとしている。違法性が明確でない場合、プラットフォームはラベル付けなど「より制限の少ない措置」を適用できる。先月、スペインのペドロ・サンチェス首相は、妻になりすましたAI生成動画をめぐり妻が法的な訴えを起こしたと発表し、動画は野党の国民党(PP)が投稿したものだと述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "欧盟16国未按期\n指定AI法案执法机构",
-          "body": "欧盟委员会证实，十六个欧盟成员国未能在期限内指定AI法案执法机构。",
-          "mini_headline": "欧盟16国错过AI法案期限",
+          "headline": "欧盟起草选举指南\n应对AI与深度伪造",
+          "body": "欧盟委员会的DSA选举指南草案要求超大型平台遏制AI和深度伪造风险。",
+          "mini_headline": "欧盟选举规则剑指深度伪造",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/08/GettyImages-2246764807.jpg",
-                "cap": "2025年11月18日，埃马纽埃尔·马克龙在柏林向投资者发表讲话。| Pool photo by John MacDougall via AFP/Getty Images"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2277811674.jpg",
+                "cap": "欧盟委员会副主席兼数字与前沿技术专员亨娜·维尔库宁（图：Thierry Monasse/Getty Images）"
               },
               {
                 "t": "p",
-                "x": "欧洲领导人正准备在首次人工智能联合会议上展现紧迫感，而各国政府却未能实现重要的AI安全与基础设施目标。欧盟27国领导人将于周五在都柏林举行会议。"
+                "x": "欧盟委员会正在修订《数字服务法》（DSA）框架下面向大型在线平台的选举指南，以应对生成式AI工具带来的风险，并警告GenAI系统可能放大误导性或虚假内容，在选举期间尤为如此。此次更新正值西班牙、法国等多个欧盟国家即将举行全国选举。"
               },
               {
                 "t": "p",
-                "x": "已有16个首都错过了指定国家机构以执行欧盟AI安全法的期限。期限为2025年8月，但奥地利、比利时、保加利亚、克罗地亚、斯洛伐克和匈牙利六国尚未选定机构，另有10个首都仅作出仍需正式通过的临时决定，欧盟委员会证实。"
+                "x": "草案要求超大型在线平台（VLOPs）针对AI生成（AI-generated）内容的风险调整其条款和条件并切实执行，并依照《AI Act》为用户提供标准化、易用的界面来标注AI生成内容。这一点尤其适用于AI深度伪造。平台还必须为广告主提供选项，以便在选举广告中清晰标注AI生成内容。"
               },
               {
                 "t": "p",
-                "x": "德国绿党籍欧洲议会议员谢尔盖·拉戈丁斯基表示，拖延正在损害各国信誉：“如果你们连自己的期限都错过，就别再怪欧盟输掉竞赛。”在POLITICO看到的一封信中，他要求欧盟委员会对各国启动正式程序。"
-              },
-              {
-                "t": "p",
-                "x": "布鲁塞尔还推迟了支持七个AI算力中心的计划，这一项目规模达300亿欧元。为“给成员国必要时间完成本国预算程序并提交资金承诺”，联合体的截止期限被延长。这是继最初的11月截止日推迟到2月之后，连续第二次延期。"
+                "x": "文件警告，冒充公众人物的内容“可能构成冒充并侵犯个人的人格权”，并表示涉及冒充选举候选人的删除命令和通知应加快处理。在合法性不明确时，平台可采取标签等“限制性较低的措施”。上个月，西班牙首相佩德罗·桑切斯宣布，其妻子已就一段冒充她的AI生成视频提起法律诉讼，他称该视频由反对党人民党（PP）发布。"
               }
             ]
           }
         },
         "es": {
-          "headline": "16 países de la UE incumplen\nel plazo de la Ley de IA",
-          "body": "Dieciséis capitales de la UE no nombraron a tiempo su autoridad de control de la Ley de IA, confirmó la Comisión.",
-          "mini_headline": "16 países de la UE fallan el plazo de la Ley de IA",
+          "headline": "La UE prepara pautas electorales\nsobre IA y deepfakes",
+          "body": "El borrador de pautas electorales de la DSA pide a las grandes plataformas frenar riesgos de IA y deepfakes.",
+          "mini_headline": "Reglas electorales de la UE contra los deepfakes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/08/GettyImages-2246764807.jpg",
-                "cap": "Emmanuel Macron se dirige a inversores en Berlín el 18 de noviembre de 2025. | Pool photo by John MacDougall via AFP/Getty Images"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2277811674.jpg",
+                "cap": "Henna Virkkunen, vicepresidenta de la Comisión Europea y comisaria de Tecnologías Digitales y de Frontera (Foto: Thierry Monasse/Getty Images)"
               },
               {
                 "t": "p",
-                "x": "Mientras los líderes europeos se preparan para transmitir urgencia en su primera reunión conjunta sobre inteligencia artificial, sus gobiernos están incumpliendo objetivos importantes de seguridad e infraestructura de IA. Los 27 líderes del bloque se reúnen el viernes en Dublín."
+                "x": "La Comisión Europea está revisando las pautas electorales para las grandes plataformas en línea en virtud de la Ley de Servicios Digitales (DSA) para abordar los riesgos de las herramientas de IA generativa, y advierte de que los sistemas de GenAI pueden amplificar contenidos engañosos o falsos, sobre todo en periodo electoral. La actualización llega cuando varios países de la UE, entre ellos España y Francia, tienen elecciones nacionales en el horizonte."
               },
               {
                 "t": "p",
-                "x": "16 capitales han incumplido el plazo para designar una autoridad nacional que aplique la ley de seguridad de IA del bloque. Con un plazo que vencía en agosto de 2025, seis países —Austria, Bélgica, Bulgaria, Croacia, Eslovaquia y Hungría— no han elegido autoridad, mientras que otras 10 capitales solo han tomado una decisión provisional que aún debe adoptarse, confirmó la Comisión."
+                "x": "El borrador pide a las plataformas en línea de muy gran tamaño (VLOPs) que adapten sus términos y condiciones a los riesgos del contenido generado por IA (AI-generated) y los apliquen debidamente, y que ofrezcan a los usuarios interfaces estándar y fáciles de usar para etiquetar contenido generado por IA, en línea con la Ley de IA (AI Act). Esto se aplica especialmente a los deepfakes de IA. Las plataformas también deben dar a los anunciantes opciones para etiquetar con claridad el contenido generado por IA en los anuncios electorales."
               },
               {
                 "t": "p",
-                "x": "El eurodiputado Sergey Lagodinsky, alemán de Los Verdes, afirmó que los retrasos minan la credibilidad de las capitales: “Dejen de culpar a la UE de perder la carrera si ustedes incumplen sus propios plazos”. En una carta a la que tuvo acceso POLITICO, pidió a la Comisión que abra un procedimiento formal contra las capitales."
-              },
-              {
-                "t": "p",
-                "x": "Bruselas también ha aplazado los planes para apoyar siete centros de computación de IA, un proyecto de 30.000 millones de euros, y ha ampliado el plazo para los consorcios “para dar a los Estados miembros el tiempo necesario para completar su proceso presupuestario nacional y presentar compromisos financieros”. Es el segundo retraso consecutivo, después de que el plazo inicial de noviembre se trasladara a febrero."
+                "x": "El texto advierte de que los contenidos que suplantan a figuras públicas \"pueden constituir suplantación de identidad y vulnerar los derechos de la personalidad\" de las personas, y señala que las órdenes de retirada y las notificaciones relativas a la suplantación de candidatos electorales deben tramitarse con celeridad. Cuando la legalidad no esté clara, las plataformas pueden aplicar \"medidas menos restrictivas\", como etiquetas. El mes pasado, el presidente del Gobierno español, Pedro Sánchez, anunció que su esposa había presentado una denuncia por un vídeo generado por IA que la suplantaba y que, según dijo, había publicado el opositor Partido Popular (PP)."
               }
             ]
           }
@@ -727,15 +597,15 @@
       }
     },
     {
-      "id": "palantir-nhs-gp-lobbying",
+      "id": "paris-call-ai-shutdown",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Palantir, 장관에\nNHS GP 기록 로비",
-      "body": "Palantir가 장관에게 NHS AI 플랫폼을 GP 기록까지 넓히자고 로비했다.",
-      "mini_headline": "Palantir, GP 기록 로비",
+      "headline": "8개국·AI 연구소\n셧다운 장치 지지",
+      "body": "파리 선언에 8개국·AI 기업 4곳이 서명해 제재 없이 셧다운 장치를 약속했다.",
+      "mini_headline": "파리 선언, AI 셧다운 장치 지지",
       "tool": "Politics",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -743,179 +613,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=1200&quality=85&auto=format&fit=max&s=cff6d20bc27a66439579c72a97593bc6",
-            "cap": "GP 데이터는 Palantir가 NHS England와 맺은 기존 £330m 계약의 범위에서 명시적으로 제외됐다. 사진: John Lynch/Alamy"
+            "src": "https://the-decoder.com/wp-content/uploads/2025/07/Digital-Europe-Map.jpg"
           },
           {
             "t": "p",
-            "x": "Palantir가 보건부 장관에게 자사 AI 기술을 GP 기록까지 넓히는 방안을 검토해 달라고 로비한 사실이 드러났다. 의사들은 NHS 안에서 영향력을 키우려는 이 시도가 환자와의 신뢰를 해칠 수 있다고 우려한다."
+            "x": "파리평화포럼 하루 전, 8개국 대표와 기술 기업, 시민사회단체가 11월 9일 채택된 'AI 안전·보안을 위한 파리 선언(Paris Call for AI Safety and Security)'에 서명했다. 르몽드에 따르면 샘 올트먼(OpenAI), 다리오 아모데이(Anthropic), 브래드 스미스(Microsoft), 아르튀르 멘슈(Mistral AI), 요슈아 벤지오, 스콧 베센트 미국(U.S.) 재무장관은 에마뉘엘 마크롱 대통령과 온라인 회의를 하던 중 동참했다. 독일은 서명하지 않았다."
           },
           {
             "t": "p",
-            "x": "회사는 WhatsApp 직통 채널로 “1차 진료와 2차 [진료] 데이터를 연결하는 논리는 반박할 여지가 없다”고 주장했다. 2월의 일이다. 그러나 GP 데이터는 Palantir가 연합 데이터 플랫폼(FDP)을 운영하려고 NHS England와 맺은 £330m 계약 범위에서 명시적으로 빠져 있었다."
+            "x": "정치적 자기 약속인 이 선언에는 고성능 AI 모델을 평가하는 공동 절차, 개발자 책임 명확화, 심각한 보안 사고 정보 공유 개선이 담겼다. 기업들은 알려진 위험을 공개하고, 위험에 비례한 독립 감사를 지원하며, 자사가 통제하는 모델에 셧다운 장치를 두기로 했다. 시한도 제재도 없다."
           },
           {
             "t": "p",
-            "x": "Foxglove가 정보공개법(FOI)으로 받아 가디언과 공유한 이 메시지는 Palantir 영국 대표 루이스 모슬리와 주비르 아메드 전 보건부 장관이 2025년 7월부터 2026년 3월까지 주고받은 것으로 보인다."
-          },
-          {
-            "t": "p",
-            "x": "BMA 의장 톰 돌핀 박사는 “환자 신뢰를 해칠” 수 있는 “범위 확장”을 우려했다. Palantir는 “데이터 공유가 NHS를 개선할 수 있다고 오랫동안 주장해 왔다 … 소프트웨어를 어떻게 도입할지는 정부가 결정할 일이라는 점도 늘 분명히 해 왔다”고 밝혔다. 보건사회복지부는 논평을 거부했다."
+            "x": "합의는 미국 주요 연구소에서 사고가 잇따른 뒤 나왔다. 도널드 트럼프 미국 대통령은 9월 말 미국 AI 모델을 겨냥한 '글로벌주의적' 감독 체계 구축 시도를 모두 거부했다. 10월 10일에는 주요 AI 사고를 미국 기관에 보고하라고 명령했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Palantir lobbied minister\non NHS GP record access",
-          "body": "WhatsApp messages released under FOI show Palantir lobbying a minister to extend its NHS AI platform to GP records.",
-          "mini_headline": "Palantir lobbied for GP records",
+          "headline": "Eight nations and AI labs back\nshutdown mechanisms",
+          "body": "Macron's Paris Call, signed by eight states and four AI firms, has labs pledge shutdown mechanisms, with no sanctions.",
+          "mini_headline": "Paris Call backs\nAI shutdown switches",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=1200&quality=85&auto=format&fit=max&s=cff6d20bc27a66439579c72a97593bc6",
-                "cap": "GP data has been expressly ruled out of the scope of Palantir’s existing £330m contract with NHS England. Photograph: John Lynch/Alamy"
+                "src": "https://the-decoder.com/wp-content/uploads/2025/07/Digital-Europe-Map.jpg"
               },
               {
                 "t": "p",
-                "x": "Palantir lobbied a health minister to consider extending its AI technology into GP records, stretching its reach into the NHS in a way doctors fear could undermine trust with patients."
+                "x": "On the eve of the Paris Peace Forum, representatives of eight countries, tech companies and civil-society organizations signed the \"Paris Call for AI Safety and Security,\" adopted on Nov. 9. As Le Monde reports, Sam Altman (OpenAI), Dario Amodei (Anthropic), Brad Smith (Microsoft), Arthur Mensch (Mistral AI), Yoshua Bengio and U.S. Treasury Secretary Scott Bessent joined during an online meeting with Emmanuel Macron. Germany didn't sign."
               },
               {
                 "t": "p",
-                "x": "Via a direct WhatsApp channel, the company argued that “the logic of joining up primary and secondary [care] data is unarguable”. The push came in February despite GP data being expressly ruled out of the scope of Palantir’s £330m contract with NHS England to run its federated data platform (FDP)."
+                "x": "The political self-commitment covers shared procedures for evaluating high-capability AI models, clearer developer accountability, and better information sharing on serious security incidents. The companies pledge to disclose known risks, support risk-proportionate independent audits, and set up shutdown mechanisms for models under their control. It sets neither deadlines nor sanctions."
               },
               {
                 "t": "p",
-                "x": "The messages – obtained under the Freedom of Information Act by Foxglove and shared with the Guardian – appear to be between Palantir’s UK boss, Louis Mosley, and the former health minister Zubir Ahmed, spanning July 2025 to March 2026."
-              },
-              {
-                "t": "p",
-                "x": "The BMA chair, Dr Tom Dolphin, raised concerns about “scope creep” that could “undermine patient trust”. Palantir said: “We’ve long argued that data sharing can improve the NHS … We’ve also always been clear that it is for the government to decide how they roll the software out.” The Department of Health and Social Care declined to comment."
+                "x": "The agreement follows a string of incidents at major U.S. labs. In late September, U.S. President Donald Trump rejected any attempt to build a \"globalist\" oversight scheme for American AI models and on Oct. 10 ordered that major AI incidents be reported to U.S. agencies."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Palantir, 장관에\nNHS GP 기록 로비",
-          "body": "Palantir가 장관에게 NHS AI 플랫폼을 GP 기록까지 넓히자고 로비했다.",
-          "mini_headline": "Palantir, GP 기록 로비",
+          "headline": "8개국·AI 연구소\n셧다운 장치 지지",
+          "body": "파리 선언에 8개국·AI 기업 4곳이 서명해 제재 없이 셧다운 장치를 약속했다.",
+          "mini_headline": "파리 선언, AI 셧다운 장치 지지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=1200&quality=85&auto=format&fit=max&s=cff6d20bc27a66439579c72a97593bc6",
-                "cap": "GP 데이터는 Palantir가 NHS England와 맺은 기존 £330m 계약의 범위에서 명시적으로 제외됐다. 사진: John Lynch/Alamy"
+                "src": "https://the-decoder.com/wp-content/uploads/2025/07/Digital-Europe-Map.jpg"
               },
               {
                 "t": "p",
-                "x": "Palantir가 보건부 장관에게 자사 AI 기술을 GP 기록까지 넓히는 방안을 검토해 달라고 로비한 사실이 드러났다. 의사들은 NHS 안에서 영향력을 키우려는 이 시도가 환자와의 신뢰를 해칠 수 있다고 우려한다."
+                "x": "파리평화포럼 하루 전, 8개국 대표와 기술 기업, 시민사회단체가 11월 9일 채택된 'AI 안전·보안을 위한 파리 선언(Paris Call for AI Safety and Security)'에 서명했다. 르몽드에 따르면 샘 올트먼(OpenAI), 다리오 아모데이(Anthropic), 브래드 스미스(Microsoft), 아르튀르 멘슈(Mistral AI), 요슈아 벤지오, 스콧 베센트 미국(U.S.) 재무장관은 에마뉘엘 마크롱 대통령과 온라인 회의를 하던 중 동참했다. 독일은 서명하지 않았다."
               },
               {
                 "t": "p",
-                "x": "회사는 WhatsApp 직통 채널로 “1차 진료와 2차 [진료] 데이터를 연결하는 논리는 반박할 여지가 없다”고 주장했다. 2월의 일이다. 그러나 GP 데이터는 Palantir가 연합 데이터 플랫폼(FDP)을 운영하려고 NHS England와 맺은 £330m 계약 범위에서 명시적으로 빠져 있었다."
+                "x": "정치적 자기 약속인 이 선언에는 고성능 AI 모델을 평가하는 공동 절차, 개발자 책임 명확화, 심각한 보안 사고 정보 공유 개선이 담겼다. 기업들은 알려진 위험을 공개하고, 위험에 비례한 독립 감사를 지원하며, 자사가 통제하는 모델에 셧다운 장치를 두기로 했다. 시한도 제재도 없다."
               },
               {
                 "t": "p",
-                "x": "Foxglove가 정보공개법(FOI)으로 받아 가디언과 공유한 이 메시지는 Palantir 영국 대표 루이스 모슬리와 주비르 아메드 전 보건부 장관이 2025년 7월부터 2026년 3월까지 주고받은 것으로 보인다."
-              },
-              {
-                "t": "p",
-                "x": "BMA 의장 톰 돌핀 박사는 “환자 신뢰를 해칠” 수 있는 “범위 확장”을 우려했다. Palantir는 “데이터 공유가 NHS를 개선할 수 있다고 오랫동안 주장해 왔다 … 소프트웨어를 어떻게 도입할지는 정부가 결정할 일이라는 점도 늘 분명히 해 왔다”고 밝혔다. 보건사회복지부는 논평을 거부했다."
+                "x": "합의는 미국 주요 연구소에서 사고가 잇따른 뒤 나왔다. 도널드 트럼프 미국 대통령은 9월 말 미국 AI 모델을 겨냥한 '글로벌주의적' 감독 체계 구축 시도를 모두 거부했다. 10월 10일에는 주요 AI 사고를 미국 기관에 보고하라고 명령했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Palantir、NHSの\nGP記録で大臣にロビー",
-          "body": "Palantirが大臣に対し、NHSのAI基盤をGP記録へ広げるよう働きかけた。",
-          "mini_headline": "Palantir、GP記録でロビー活動",
+          "headline": "8カ国とAIラボ\n停止メカニズムを支持",
+          "body": "8カ国とAI企業4社が署名したパリ・コールで各社は停止機構を約束したが、罰則はない。",
+          "mini_headline": "パリ・コール、AI停止スイッチを支持",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=1200&quality=85&auto=format&fit=max&s=cff6d20bc27a66439579c72a97593bc6",
-                "cap": "GPデータは、PalantirがNHS Englandと結んでいる既存の£330m 契約の対象から明確に除外されている。写真:John Lynch/Alamy"
+                "src": "https://the-decoder.com/wp-content/uploads/2025/07/Digital-Europe-Map.jpg"
               },
               {
                 "t": "p",
-                "x": "Palantirが保健担当の閣外相に対し、自社のAI技術をGP(かかりつけ医)の記録にまで広げるよう検討を働きかけていたことが分かった。NHSへの影響力の拡大について、医師らは患者との信頼関係を損ないかねないと懸念している。"
+                "x": "パリ平和フォーラムの前日、8カ国の代表とテック企業、市民社会団体が、11月9日に採択された「AIの安全とセキュリティのためのパリ・コール(Paris Call for AI Safety and Security)」に署名した。ル・モンドによると、サム・アルトマン氏(OpenAI)、ダリオ・アモデイ氏(Anthropic)、ブラッド・スミス氏(Microsoft)、アルチュール・マンシュ氏(Mistral AI)、ヨシュア・ベンジオ氏、スコット・ベッセント米(U.S.)財務長官が、エマニュエル・マクロン氏とのオンライン会合の場で参加した。ドイツは署名しなかった。"
               },
               {
                 "t": "p",
-                "x": "同社はWhatsAppの直通チャンネルを通じ、「プライマリーケアとセカンダリー[ケア]のデータをつなぐ論理には反論の余地がない」と主張した。この働きかけは2月に行われたが、GPデータは、Palantirが連合データプラットフォーム(FDP)を運営するためにNHS Englandと結んだ£330m 契約の対象から明確に除外されている。"
+                "x": "この政治的な自主的コミットメントは、高性能AIモデルを評価する共通手順、開発者の説明責任の明確化、重大なセキュリティインシデントに関する情報共有の改善を対象とする。企業各社は、既知のリスクの開示、リスクに見合った独立監査への協力、自社が管理するモデルへの停止メカニズムの導入を約束した。期限も罰則も定めていない。"
               },
               {
                 "t": "p",
-                "x": "Foxgloveが情報公開法(FOI)に基づいて入手し、ガーディアン紙と共有したメッセージは、Palantir英国法人トップのルイス・モズリー氏とズビール・アーメド前保健担当相の間で交わされたものとみられ、期間は2025年7月から2026年3月に及ぶ。"
-              },
-              {
-                "t": "p",
-                "x": "BMAのトム・ドルフィン議長は「患者の信頼を損ないかねない」「範囲の拡大」に懸念を示した。Palantirは「データ共有がNHSを改善しうると長く主張してきた……ソフトウェアをどう展開するかは政府が決めることだと常に明言してきた」とコメントした。保健・社会福祉省はコメントを控えた。"
+                "x": "合意は、米国の主要ラボで相次いだインシデントを受けたものだ。ドナルド・トランプ米大統領は9月下旬、米国のAIモデルに対する「グローバリスト」的な監督体制を築くいかなる試みも拒否し、10月10日には重大なAIインシデントを米国の機関に報告するよう命じた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Palantir游说大臣\n开放NHS GP记录",
-          "body": "WhatsApp消息显示，Palantir曾游说大臣将其NHS AI平台扩展至GP记录。",
-          "mini_headline": "Palantir游说开放GP记录",
+          "headline": "八国与AI实验室\n支持关停机制",
+          "body": "马克龙发起的巴黎倡议获八国和四家AI企业签署，实验室承诺设关停机制，但无制裁。",
+          "mini_headline": "巴黎倡议支持AI关停开关",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=1200&quality=85&auto=format&fit=max&s=cff6d20bc27a66439579c72a97593bc6",
-                "cap": "GP数据已被明确排除在Palantir与NHS England现有的£330m 合同范围之外。摄影：John Lynch/Alamy"
+                "src": "https://the-decoder.com/wp-content/uploads/2025/07/Digital-Europe-Map.jpg"
               },
               {
                 "t": "p",
-                "x": "Palantir曾游说一位卫生大臣考虑将其AI技术扩展至GP（全科医生）记录，把触角进一步伸入NHS，医生们担心这可能损害医患之间的信任。"
+                "x": "在巴黎和平论坛前夕，八个国家的代表、科技公司和公民社会组织签署了于11月9日通过的《AI安全与安保巴黎倡议》（Paris Call for AI Safety and Security）。据《世界报》报道，萨姆·奥尔特曼（OpenAI）、达里奥·阿莫代伊（Anthropic）、布拉德·史密斯（Microsoft）、阿蒂尔·门施（Mistral AI）、约书亚·本吉奥以及美国（U.S.）财政部长斯科特·贝森特在与埃马纽埃尔·马克龙的线上会议中加入。德国没有签署。"
               },
               {
                 "t": "p",
-                "x": "该公司通过WhatsApp直联渠道称，“打通初级与二级[医疗]数据的逻辑无可辩驳”。这一游说发生在2月，而GP数据已被明确排除在Palantir与NHS England签订的£330m 合同范围之外，该合同用于运营联邦数据平台（FDP）。"
+                "x": "这一政治性自我承诺涵盖评估高能力AI模型的共同程序、更明确的开发者问责，以及在严重安全事件上更好的信息共享。各公司承诺披露已知风险，支持与风险相称的独立审计，并为其控制的模型建立关停机制。该倡议既未设定期限，也未规定制裁。"
               },
               {
                 "t": "p",
-                "x": "这些消息由Foxglove依据《信息自由法》（FOI）获取并提供给《卫报》，似乎是Palantir英国负责人路易斯·莫斯利与前卫生大臣祖比尔·艾哈迈德之间的往来，时间跨度为2025年7月至2026年3月。"
-              },
-              {
-                "t": "p",
-                "x": "BMA主席汤姆·多尔芬博士对可能“损害患者信任”的“范围蔓延”表示担忧。Palantir表示：“我们长期以来一直认为数据共享可以改善NHS……我们也始终明确表示，如何推广这款软件由政府决定。”卫生和社会保障部拒绝置评。"
+                "x": "该协议是在美国多家主要实验室接连发生事件之后达成的。9月下旬，美国总统唐纳德·特朗普拒绝任何为美国AI模型建立“全球主义”监督机制的尝试，并于10月10日下令将重大AI事件上报美国机构。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Palantir presionó a un ministro\npor datos de GP del NHS",
-          "body": "Mensajes de WhatsApp obtenidos por FOI muestran a Palantir presionando a un ministro por datos de GP del NHS.",
-          "mini_headline": "Palantir presionó por datos de GP",
+          "headline": "Ocho países y laboratorios de IA\napoyan mecanismos de apagado",
+          "body": "El Llamamiento de París, firmado por ocho Estados y cuatro firmas de IA, prevé mecanismos de apagado sin sanciones.",
+          "mini_headline": "El Llamamiento de París respalda interruptores de apagado de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=1200&quality=85&auto=format&fit=max&s=cff6d20bc27a66439579c72a97593bc6",
-                "cap": "Los datos de GP quedaron expresamente fuera del alcance del contrato vigente de £330m de Palantir con NHS England. Fotografía: John Lynch/Alamy"
+                "src": "https://the-decoder.com/wp-content/uploads/2025/07/Digital-Europe-Map.jpg"
               },
               {
                 "t": "p",
-                "x": "Palantir presionó a un ministro de Sanidad para que considerara extender su tecnología de IA a los historiales de los médicos de cabecera (GP), ampliando su alcance dentro del NHS de una forma que, temen los médicos, podría minar la confianza de los pacientes."
+                "x": "En vísperas del Foro de París sobre la Paz, representantes de ocho países, empresas tecnológicas y organizaciones de la sociedad civil firmaron el \"Llamamiento de París por la Seguridad y la Protección de la IA\" (Paris Call for AI Safety and Security), adoptado el 9 de noviembre. Según Le Monde, Sam Altman (OpenAI), Dario Amodei (Anthropic), Brad Smith (Microsoft), Arthur Mensch (Mistral AI), Yoshua Bengio y el secretario del Tesoro de Estados Unidos (U.S.), Scott Bessent, se sumaron durante una reunión en línea con Emmanuel Macron. Alemania no firmó."
               },
               {
                 "t": "p",
-                "x": "A través de un canal directo de WhatsApp, la empresa sostuvo que “la lógica de unir los datos de atención primaria y secundaria es indiscutible”. La presión se produjo en febrero, pese a que los datos de GP quedaron expresamente fuera del alcance del contrato de £330m de Palantir con NHS England para operar su plataforma federada de datos (FDP)."
+                "x": "El compromiso político voluntario abarca procedimientos comunes para evaluar modelos de IA de alta capacidad, una rendición de cuentas más clara de los desarrolladores y un mejor intercambio de información sobre incidentes de seguridad graves. Las empresas se comprometen a divulgar los riesgos conocidos, apoyar auditorías independientes proporcionales al riesgo y establecer mecanismos de apagado para los modelos bajo su control. No fija plazos ni sanciones."
               },
               {
                 "t": "p",
-                "x": "Los mensajes —obtenidos por Foxglove en virtud de la Ley de Libertad de Información (FOI) y compartidos con The Guardian— parecen haberse intercambiado entre el responsable de Palantir en el Reino Unido, Louis Mosley, y el exministro de Sanidad Zubir Ahmed, entre julio de 2025 y marzo de 2026."
-              },
-              {
-                "t": "p",
-                "x": "El presidente de la BMA, el Dr. Tom Dolphin, advirtió de una “ampliación del alcance” que podría “minar la confianza de los pacientes”. Palantir afirmó: “Hace tiempo que defendemos que compartir datos puede mejorar el NHS… También hemos dejado siempre claro que corresponde al Gobierno decidir cómo despliega el software”. El Departamento de Salud y Asistencia Social declinó hacer comentarios."
+                "x": "El acuerdo llega tras una serie de incidentes en grandes laboratorios estadounidenses. A finales de septiembre, el presidente de Estados Unidos, Donald Trump, rechazó cualquier intento de crear un esquema de supervisión \"globalista\" para los modelos de IA estadounidenses y el 10 de octubre ordenó que los incidentes graves de IA se notificaran a las agencias de Estados Unidos."
               }
             ]
           }
@@ -923,125 +763,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Palantir, 장관에\nNHS GP 기록 로비",
-          "body": "Palantir가 장관에게 NHS AI 플랫폼을 GP 기록까지 넓히자고 로비했다.",
-          "mini_headline": "Palantir, GP 기록 로비",
+          "headline": "8개국·AI 연구소\n셧다운 장치 지지",
+          "body": "8개국·AI 기업 4곳이 서명한 파리 선언은 제재 없이 셧다운 장치를 약속한다.",
+          "mini_headline": "파리 선언, AI 셧다운 장치 지지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=1200&quality=85&auto=format&fit=max&s=cff6d20bc27a66439579c72a97593bc6",
-                "cap": "GP 데이터는 Palantir가 NHS England와 맺은 기존 £330m 계약의 범위에서 명시적으로 제외됐다. 사진: John Lynch/Alamy"
+                "src": "https://the-decoder.com/wp-content/uploads/2025/07/Digital-Europe-Map.jpg"
               },
               {
                 "t": "p",
-                "x": "Palantir가 보건부 장관에게 자사 AI 기술을 GP 기록으로 확대하는 방안을 검토해 달라고 로비한 것으로 드러났다. NHS 안으로 영향력을 넓히려는 이 시도가 환자와의 신뢰를 해칠 수 있다고 의사들은 우려한다."
+                "x": "파리평화포럼 전날, 8개국 대표와 기술 기업, 시민사회단체가 11월 9일 채택된 'AI 안전·보안을 위한 파리 선언(Paris Call for AI Safety and Security)'에 서명했다. 르몽드에 따르면 샘 올트먼(OpenAI), 다리오 아모데이(Anthropic), 브래드 스미스(Microsoft), 아르튀르 멘슈(Mistral AI), 요슈아 벤지오, 스콧 베센트 미국(U.S.) 재무장관이 에마뉘엘 마크롱 대통령과의 온라인 회의 중 동참했다. 독일은 서명하지 않았다."
               },
               {
                 "t": "p",
-                "x": "회사는 WhatsApp 직통 채널을 통해 “1차 진료와 2차 [진료] 데이터를 연결하는 논리는 반박할 여지가 없다”고 주장했다. 이 요청은 2월에 나왔다. 그러나 GP 데이터는 Palantir가 연합 데이터 플랫폼(FDP)을 운영하기 위해 NHS England와 맺은 £330m 계약의 범위에서 명시적으로 제외돼 있었다."
+                "x": "이 정치적 자기 약속은 고성능 AI 모델 평가를 위한 공동 절차, 개발자 책임 명확화, 심각한 보안 사고에 대한 정보 공유 개선을 담았다. 기업들은 알려진 위험을 공개하고, 위험에 비례한 독립 감사를 지원하며, 자사가 통제하는 모델에 셧다운 장치를 마련하기로 약속했다. 시한도 제재도 정하지 않았다."
               },
               {
                 "t": "p",
-                "x": "Foxglove가 정보공개법(FOI)에 따라 확보해 가디언과 공유한 이 메시지는 Palantir 영국 대표 루이스 모슬리와 주비르 아메드 전 보건부 장관 사이에 오간 것으로 보이며, 기간은 2025년 7월부터 2026년 3월까지다."
-              },
-              {
-                "t": "p",
-                "x": "BMA 의장 톰 돌핀 박사는 “환자 신뢰를 해칠” 수 있는 “범위 확장”을 우려했다. Palantir는 “데이터 공유가 NHS를 개선할 수 있다고 오랫동안 주장해 왔다 … 소프트웨어를 어떻게 도입할지는 정부가 결정할 일이라는 점도 늘 분명히 해 왔다”고 밝혔다. 보건사회복지부는 논평을 거부했다."
+                "x": "이번 합의는 미국 주요 연구소에서 잇따른 사고 이후 나왔다. 도널드 트럼프 미국 대통령은 9월 말 미국 AI 모델에 대한 '글로벌주의적' 감독 체계를 만들려는 어떤 시도도 거부했고, 10월 10일에는 주요 AI 사고를 미국 기관에 보고하도록 명령했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Palantir、NHSの\nGP記録で大臣にロビー",
-          "body": "Palantirが大臣に対し、NHSのAI基盤をGP記録へ広げるよう働きかけた。",
-          "mini_headline": "Palantir、GP記録でロビー活動",
+          "headline": "8カ国とAIラボ\n停止メカニズムを支持",
+          "body": "8カ国とAI企業4社が署名したパリ・コールで各社は停止機構を約束したが、罰則はない。",
+          "mini_headline": "パリ・コール、AI停止スイッチを支持",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=1200&quality=85&auto=format&fit=max&s=cff6d20bc27a66439579c72a97593bc6",
-                "cap": "GPデータは、PalantirがNHS Englandと結んでいる既存の£330m 契約の対象から明確に除外されている。写真:John Lynch/Alamy"
+                "src": "https://the-decoder.com/wp-content/uploads/2025/07/Digital-Europe-Map.jpg"
               },
               {
                 "t": "p",
-                "x": "Palantirが保健担当の閣外相に対し、自社のAI技術をGP(かかりつけ医)の記録にまで広げるよう検討を働きかけていたことが分かった。NHSへの影響力の拡大について、医師らは患者との信頼関係を損ないかねないと懸念している。"
+                "x": "パリ平和フォーラムの前日、8カ国の代表とテック企業、市民社会団体が、11月9日に採択された「AIの安全とセキュリティのためのパリ・コール(Paris Call for AI Safety and Security)」に署名した。ル・モンドによると、サム・アルトマン氏(OpenAI)、ダリオ・アモデイ氏(Anthropic)、ブラッド・スミス氏(Microsoft)、アルチュール・マンシュ氏(Mistral AI)、ヨシュア・ベンジオ氏、スコット・ベッセント米(U.S.)財務長官が、エマニュエル・マクロン氏とのオンライン会合の場で参加した。ドイツは署名しなかった。"
               },
               {
                 "t": "p",
-                "x": "同社はWhatsAppの直通チャンネルを通じ、「プライマリーケアとセカンダリー[ケア]のデータをつなぐ論理には反論の余地がない」と主張した。この働きかけは2月に行われたが、GPデータは、Palantirが連合データプラットフォーム(FDP)を運営するためにNHS Englandと結んだ£330m 契約の対象から明確に除外されている。"
+                "x": "この政治的な自主的コミットメントは、高性能AIモデルを評価する共通手順、開発者の説明責任の明確化、重大なセキュリティインシデントに関する情報共有の改善を対象とする。企業各社は、既知のリスクの開示、リスクに見合った独立監査への協力、自社が管理するモデルへの停止メカニズムの導入を約束した。期限も罰則も定めていない。"
               },
               {
                 "t": "p",
-                "x": "Foxgloveが情報公開法(FOI)に基づいて入手し、ガーディアン紙と共有したメッセージは、Palantir英国法人トップのルイス・モズリー氏とズビール・アーメド前保健担当相の間で交わされたものとみられ、期間は2025年7月から2026年3月に及ぶ。"
-              },
-              {
-                "t": "p",
-                "x": "BMAのトム・ドルフィン議長は「患者の信頼を損ないかねない」「範囲の拡大」に懸念を示した。Palantirは「データ共有がNHSを改善しうると長く主張してきた……ソフトウェアをどう展開するかは政府が決めることだと常に明言してきた」とコメントした。保健・社会福祉省はコメントを控えた。"
+                "x": "合意は、米国の主要ラボで相次いだインシデントを受けたものだ。ドナルド・トランプ米大統領は9月下旬、米国のAIモデルに対する「グローバリスト」的な監督体制を築くいかなる試みも拒否し、10月10日には重大なAIインシデントを米国の機関に報告するよう命じた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Palantir游说大臣\n开放NHS GP记录",
-          "body": "WhatsApp消息显示，Palantir曾游说大臣将其NHS AI平台扩展至GP记录。",
-          "mini_headline": "Palantir游说开放GP记录",
+          "headline": "八国与AI实验室\n支持关停机制",
+          "body": "马克龙发起的巴黎倡议获八国和四家AI企业签署，实验室承诺设关停机制，但无制裁。",
+          "mini_headline": "巴黎倡议支持AI关停开关",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=1200&quality=85&auto=format&fit=max&s=cff6d20bc27a66439579c72a97593bc6",
-                "cap": "GP数据已被明确排除在Palantir与NHS England现有的£330m 合同范围之外。摄影：John Lynch/Alamy"
+                "src": "https://the-decoder.com/wp-content/uploads/2025/07/Digital-Europe-Map.jpg"
               },
               {
                 "t": "p",
-                "x": "Palantir曾游说一位卫生大臣考虑将其AI技术扩展至GP（全科医生）记录，把触角进一步伸入NHS，医生们担心这可能损害医患之间的信任。"
+                "x": "在巴黎和平论坛前夕，八个国家的代表、科技公司和公民社会组织签署了于11月9日通过的《AI安全与安保巴黎倡议》（Paris Call for AI Safety and Security）。据《世界报》报道，萨姆·奥尔特曼（OpenAI）、达里奥·阿莫代伊（Anthropic）、布拉德·史密斯（Microsoft）、阿蒂尔·门施（Mistral AI）、约书亚·本吉奥以及美国（U.S.）财政部长斯科特·贝森特在与埃马纽埃尔·马克龙的线上会议中加入。德国没有签署。"
               },
               {
                 "t": "p",
-                "x": "该公司通过WhatsApp直联渠道称，“打通初级与二级[医疗]数据的逻辑无可辩驳”。这一游说发生在2月，而GP数据已被明确排除在Palantir与NHS England签订的£330m 合同范围之外，该合同用于运营联邦数据平台（FDP）。"
+                "x": "这一政治性自我承诺涵盖评估高能力AI模型的共同程序、更明确的开发者问责，以及在严重安全事件上更好的信息共享。各公司承诺披露已知风险，支持与风险相称的独立审计，并为其控制的模型建立关停机制。该倡议既未设定期限，也未规定制裁。"
               },
               {
                 "t": "p",
-                "x": "这些消息由Foxglove依据《信息自由法》（FOI）获取并提供给《卫报》，似乎是Palantir英国负责人路易斯·莫斯利与前卫生大臣祖比尔·艾哈迈德之间的往来，时间跨度为2025年7月至2026年3月。"
-              },
-              {
-                "t": "p",
-                "x": "BMA主席汤姆·多尔芬博士对可能“损害患者信任”的“范围蔓延”表示担忧。Palantir表示：“我们长期以来一直认为数据共享可以改善NHS……我们也始终明确表示，如何推广这款软件由政府决定。”卫生和社会保障部拒绝置评。"
+                "x": "该协议是在美国多家主要实验室接连发生事件之后达成的。9月下旬，美国总统唐纳德·特朗普拒绝任何为美国AI模型建立“全球主义”监督机制的尝试，并于10月10日下令将重大AI事件上报美国机构。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Palantir presionó a un ministro\npor datos de GP del NHS",
-          "body": "Mensajes de WhatsApp obtenidos por FOI muestran a Palantir presionando a un ministro por datos de GP del NHS.",
-          "mini_headline": "Palantir presionó por datos de GP",
+          "headline": "Ocho países y laboratorios de IA\napoyan mecanismos de apagado",
+          "body": "El Llamamiento de París, firmado por ocho Estados y cuatro firmas de IA, prevé mecanismos de apagado sin sanciones.",
+          "mini_headline": "El Llamamiento de París respalda interruptores de apagado de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=1200&quality=85&auto=format&fit=max&s=cff6d20bc27a66439579c72a97593bc6",
-                "cap": "Los datos de GP quedaron expresamente fuera del alcance del contrato vigente de £330m de Palantir con NHS England. Fotografía: John Lynch/Alamy"
+                "src": "https://the-decoder.com/wp-content/uploads/2025/07/Digital-Europe-Map.jpg"
               },
               {
                 "t": "p",
-                "x": "Palantir presionó a un ministro de Sanidad para que considerara extender su tecnología de IA a los historiales de los médicos de cabecera (GP), ampliando su alcance dentro del NHS de una forma que, temen los médicos, podría minar la confianza de los pacientes."
+                "x": "En vísperas del Foro de París sobre la Paz, representantes de ocho países, empresas tecnológicas y organizaciones de la sociedad civil firmaron el \"Llamamiento de París por la Seguridad y la Protección de la IA\" (Paris Call for AI Safety and Security), adoptado el 9 de noviembre. Según Le Monde, Sam Altman (OpenAI), Dario Amodei (Anthropic), Brad Smith (Microsoft), Arthur Mensch (Mistral AI), Yoshua Bengio y el secretario del Tesoro de Estados Unidos (U.S.), Scott Bessent, se sumaron durante una reunión en línea con Emmanuel Macron. Alemania no firmó."
               },
               {
                 "t": "p",
-                "x": "A través de un canal directo de WhatsApp, la empresa sostuvo que “la lógica de unir los datos de atención primaria y secundaria es indiscutible”. La presión se produjo en febrero, pese a que los datos de GP quedaron expresamente fuera del alcance del contrato de £330m de Palantir con NHS England para operar su plataforma federada de datos (FDP)."
+                "x": "El compromiso político voluntario abarca procedimientos comunes para evaluar modelos de IA de alta capacidad, una rendición de cuentas más clara de los desarrolladores y un mejor intercambio de información sobre incidentes de seguridad graves. Las empresas se comprometen a divulgar los riesgos conocidos, apoyar auditorías independientes proporcionales al riesgo y establecer mecanismos de apagado para los modelos bajo su control. No fija plazos ni sanciones."
               },
               {
                 "t": "p",
-                "x": "Los mensajes —obtenidos por Foxglove en virtud de la Ley de Libertad de Información (FOI) y compartidos con The Guardian— parecen haberse intercambiado entre el responsable de Palantir en el Reino Unido, Louis Mosley, y el exministro de Sanidad Zubir Ahmed, entre julio de 2025 y marzo de 2026."
-              },
-              {
-                "t": "p",
-                "x": "El presidente de la BMA, el Dr. Tom Dolphin, advirtió de una “ampliación del alcance” que podría “minar la confianza de los pacientes”. Palantir afirmó: “Hace tiempo que defendemos que compartir datos puede mejorar el NHS… También hemos dejado siempre claro que corresponde al Gobierno decidir cómo despliega el software”. El Departamento de Salud y Asistencia Social declinó hacer comentarios."
+                "x": "El acuerdo llega tras una serie de incidentes en grandes laboratorios estadounidenses. A finales de septiembre, el presidente de Estados Unidos, Donald Trump, rechazó cualquier intento de crear un esquema de supervisión \"globalista\" para los modelos de IA estadounidenses y el 10 de octubre ordenó que los incidentes graves de IA se notificaran a las agencias de Estados Unidos."
               }
             ]
           }
@@ -1049,15 +869,15 @@
       }
     },
     {
-      "id": "politics-ai-glasses-exam-zero",
+      "id": "pipc-anthropic-claude-probe",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "AI 안경 시험 부정\n중·고생 4명 0점",
-      "body": "교육부 전수조사 결과 스마트 안경 내신 부정행위 4건이 적발돼 모두 0점 처리됐다.",
-      "mini_headline": "AI 안경 부정 4명 0점",
+      "headline": "개보위, 앤트로픽\n클로드 유출 정식 조사",
+      "body": "개보위가 국내 기업 클로드 계정 100여 개 유출로 앤트로픽 조사에 나섰다.",
+      "mini_headline": "개보위,\n클로드 유출 조사",
       "tool": "Politics",
-      "source": "전자신문",
-      "url": "https://www.etnews.com/20261109000269",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261110142600530",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -1065,323 +885,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.8ac1fa2c17534244ae231cd437548395_P1.png",
-            "cap": "AI 안경 쓰고 시험 치다 적발된 중·고생 4명…전원 0점 처리"
+            "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/28/PYH2026102813630001300_P4.jpg",
+            "cap": "발언하는 송경희 개인정보보호위원회 위원장"
           },
           {
             "t": "p",
-            "x": "교육부는 전국 중·고등학교를 대상으로 2026학년도 스마트 안경 관련 내신평가 부정행위를 전수조사한 결과 총 4건이 확인됐다고 9일 밝혔다."
+            "x": "개인정보보호위원회가 미국 앤트로픽의 생성형 인공지능(AI) 서비스 '클로드' 이용 국내 기업의 계정 정보 유출 사고와 관련해 정식 조사에 착수했다."
           },
           {
             "t": "p",
-            "x": "이번 조사는 지난달 27일부터 이달 3일까지 일주일간 전국 모든 중·고등학교를 대상으로 진행됐다. 기존 언론보도를 통해 알려진 2건 외에 2건이 추가로 확인됐다."
+            "x": "개인정보위는 10일 앤트로픽의 개인정보 유출 신고와 관련해 사전 검토를 마치고 조사에 착수했다고 밝혔다. 앞서 앤트로픽은 지난달 31일 국내 기업용 계정 100여개의 정보가 외부로 유출됐다는 사실을 개인정보위에 신고했다."
           },
           {
             "t": "p",
-            "x": "학교급별로는 중학교 1건, 고등학교 3건이다. 지역별로는 서울 2건, 전북 1건, 제주 1건으로 집계됐다. 시험 시기별로는 1학기 기말고사에서 3건, 2학기 중간고사에서 1건이 발생했다."
+            "x": "이번 사고는 외부 보안업체가 앤트로픽 내부 시스템에 무단 접근하면서 발생한 것으로 알려졌다. 앞서 워싱턴포스트(WP)는 지난달 26일(현지시간) 미국 보안 스타트업 캐서드럴이 외부 업무용 소프트웨어의 취약점을 이용해 앤트로픽 내부 시스템에 접근했다고 보도했다."
           },
           {
             "t": "p",
-            "x": "적발된 학생들은 시험 도중 스마트 안경을 만지거나 일반 안경을 스마트 안경으로 바꿔 착용하는 방식으로 부정행위를 저질렀다."
-          },
-          {
-            "t": "p",
-            "x": "서울의 한 고등학교에서는 평소 안경을 착용하지 않던 학생이 시험 중 스마트 안경을 쓰고 지속적으로 안경테를 만지다가 감독교사에게 적발됐다. 전북의 한 고등학교에서도 학생이 안경테를 반복해서 만지는 행동을 보였고, 감독교사가 안경에 비친 초록색 불빛을 발견하면서 부정행위가 드러났다."
-          },
-          {
-            "t": "p",
-            "x": "제주의 한 고등학교에서는 학생 제보를 받은 감독교사가 시험 도중 일반 안경을 스마트 안경으로 바꿔 쓰는 학생을 발견했다."
-          },
-          {
-            "t": "p",
-            "x": "적발된 학생 4명은 모두 해당 과목 시험 성적이 0점 처리됐다. 고등학생 3명에게는 특별교육 3일, 사회봉사 4시간, 출석정지 5일 등 학교별 학칙에 따른 별도 징계도 내려졌다."
-          },
-          {
-            "t": "p",
-            "x": "교육부는 AI 안경 등 새로운 디지털 기기를 활용한 부정행위가 발생함에 따라 학생평가 관리 강화에 나선다. 우선 2학기 기말고사를 앞둔 이달 셋째 주 스마트 안경 적발 사례를 담은 학생용 교육자료를 배포하고, 학교 현장에 부정행위 예방을 위한 유의사항을 안내할 예정이다."
-          },
-          {
-            "t": "p",
-            "x": "교육부와 시도교육청, 한국교육과정평가원이 참여하는 학생평가 공동관리위원회에서도 스마트 안경을 활용한 부정행위 예방 대책과 학교 지원 방안을 논의한다."
-          },
-          {
-            "t": "p",
-            "x": "교육부는 “AI 등 디지털 기술 발전에 따른 학생평가 환경 변화에 대응해 학교 현장의 평가 공정성과 신뢰성을 확보하기 위한 노력을 지속하겠다”고 밝혔다."
+            "x": "앤트로픽은 이로 인해 기업용 클로드 계정의 계정·조직 식별번호와 이름, 이메일 주소 등 업무 연락처가 노출됐을 가능성이 있다는 안내문을 일부 고객사에 전한 것으로 알려졌다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "AI 안경 시험 부정\n중·고생 4명 0점",
-          "body": "교육부 전수조사 결과 스마트 안경 내신 부정행위 4건이 적발돼 모두 0점 처리됐다.",
-          "mini_headline": "AI 안경 부정 4명 0점",
+          "headline": "개보위, 앤트로픽\n클로드 유출 정식 조사",
+          "body": "개보위가 국내 기업 클로드 계정 100여 개 유출로 앤트로픽 조사에 나섰다.",
+          "mini_headline": "개보위,\n클로드 유출 조사",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.8ac1fa2c17534244ae231cd437548395_P1.png",
-                "cap": "AI 안경 쓰고 시험 치다 적발된 중·고생 4명…전원 0점 처리"
+                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/28/PYH2026102813630001300_P4.jpg",
+                "cap": "발언하는 송경희 개인정보보호위원회 위원장"
               },
               {
                 "t": "p",
-                "x": "교육부는 전국 중·고등학교를 대상으로 2026학년도 스마트 안경 관련 내신평가 부정행위를 전수조사한 결과 총 4건이 확인됐다고 9일 밝혔다."
+                "x": "개인정보보호위원회가 미국 앤트로픽의 생성형 인공지능(AI) 서비스 '클로드' 이용 국내 기업의 계정 정보 유출 사고와 관련해 정식 조사에 착수했다."
               },
               {
                 "t": "p",
-                "x": "이번 조사는 지난달 27일부터 이달 3일까지 일주일간 전국 모든 중·고등학교를 대상으로 진행됐다. 기존 언론보도를 통해 알려진 2건 외에 2건이 추가로 확인됐다."
+                "x": "개인정보위는 10일 앤트로픽의 개인정보 유출 신고와 관련해 사전 검토를 마치고 조사에 착수했다고 밝혔다. 앞서 앤트로픽은 지난달 31일 국내 기업용 계정 100여개의 정보가 외부로 유출됐다는 사실을 개인정보위에 신고했다."
               },
               {
                 "t": "p",
-                "x": "학교급별로는 중학교 1건, 고등학교 3건이다. 지역별로는 서울 2건, 전북 1건, 제주 1건으로 집계됐다. 시험 시기별로는 1학기 기말고사에서 3건, 2학기 중간고사에서 1건이 발생했다."
+                "x": "이번 사고는 외부 보안업체가 앤트로픽 내부 시스템에 무단 접근하면서 발생한 것으로 알려졌다. 앞서 워싱턴포스트(WP)는 지난달 26일(현지시간) 미국 보안 스타트업 캐서드럴이 외부 업무용 소프트웨어의 취약점을 이용해 앤트로픽 내부 시스템에 접근했다고 보도했다."
               },
               {
                 "t": "p",
-                "x": "적발된 학생들은 시험 도중 스마트 안경을 만지거나 일반 안경을 스마트 안경으로 바꿔 착용하는 방식으로 부정행위를 저질렀다."
-              },
-              {
-                "t": "p",
-                "x": "서울의 한 고등학교에서는 평소 안경을 착용하지 않던 학생이 시험 중 스마트 안경을 쓰고 지속적으로 안경테를 만지다가 감독교사에게 적발됐다. 전북의 한 고등학교에서도 학생이 안경테를 반복해서 만지는 행동을 보였고, 감독교사가 안경에 비친 초록색 불빛을 발견하면서 부정행위가 드러났다."
-              },
-              {
-                "t": "p",
-                "x": "제주의 한 고등학교에서는 학생 제보를 받은 감독교사가 시험 도중 일반 안경을 스마트 안경으로 바꿔 쓰는 학생을 발견했다."
-              },
-              {
-                "t": "p",
-                "x": "적발된 학생 4명은 모두 해당 과목 시험 성적이 0점 처리됐다. 고등학생 3명에게는 특별교육 3일, 사회봉사 4시간, 출석정지 5일 등 학교별 학칙에 따른 별도 징계도 내려졌다."
-              },
-              {
-                "t": "p",
-                "x": "교육부는 AI 안경 등 새로운 디지털 기기를 활용한 부정행위가 발생함에 따라 학생평가 관리 강화에 나선다. 우선 2학기 기말고사를 앞둔 이달 셋째 주 스마트 안경 적발 사례를 담은 학생용 교육자료를 배포하고, 학교 현장에 부정행위 예방을 위한 유의사항을 안내할 예정이다."
-              },
-              {
-                "t": "p",
-                "x": "교육부와 시도교육청, 한국교육과정평가원이 참여하는 학생평가 공동관리위원회에서도 스마트 안경을 활용한 부정행위 예방 대책과 학교 지원 방안을 논의한다."
-              },
-              {
-                "t": "p",
-                "x": "교육부는 “AI 등 디지털 기술 발전에 따른 학생평가 환경 변화에 대응해 학교 현장의 평가 공정성과 신뢰성을 확보하기 위한 노력을 지속하겠다”고 밝혔다."
+                "x": "앤트로픽은 이로 인해 기업용 클로드 계정의 계정·조직 식별번호와 이름, 이메일 주소 등 업무 연락처가 노출됐을 가능성이 있다는 안내문을 일부 고객사에 전한 것으로 알려졌다."
               }
             ]
           }
         },
         "en": {
-          "headline": "AI glasses exam cheating:\n4 pupils given zero marks",
-          "body": "An Education Ministry survey found four cases of smart-glasses cheating on school exams, all given zero marks.",
-          "mini_headline": "4 students get zero for AI glasses",
+          "headline": "PIPC opens formal probe into\nAnthropic's Claude data leak",
+          "body": "Korea's PIPC has opened a probe into Anthropic after data from about 100 Korean business Claude accounts leaked.",
+          "mini_headline": "PIPC probes Claude leak",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.8ac1fa2c17534244ae231cd437548395_P1.png",
-                "cap": "Four middle and high school students caught taking exams in AI glasses… all given zero"
+                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/28/PYH2026102813630001300_P4.jpg",
+                "cap": "Song Kyung-hee, chair of the Personal Information Protection Commission, speaks"
               },
               {
                 "t": "p",
-                "x": "The Ministry of Education said on the 9th that a full survey of smart-glasses cheating in school exams at middle and high schools nationwide for the 2026 school year found a total of four cases."
+                "x": "South Korea's Personal Information Protection Commission (PIPC) has opened a formal investigation into a leak of account information belonging to Korean companies that use Claude, the generative artificial intelligence (AI) service of U.S.-based Anthropic."
               },
               {
                 "t": "p",
-                "x": "The survey covered every middle and high school in the country for a week, from the 27th of last month to the 3rd of this month. Two cases were found in addition to the two already known from press reports."
+                "x": "The PIPC said on the 10th that it had completed a preliminary review of Anthropic's report of a personal data leak and launched the investigation. Anthropic had earlier reported to the commission on the 31st of last month that information from about 100 Korean business accounts had leaked externally."
               },
               {
                 "t": "p",
-                "x": "By school level, one case was at a middle school and three at high schools. By region, there were two in Seoul, one in North Jeolla and one in Jeju. By exam period, three occurred in first-semester finals and one in second-semester midterms."
+                "x": "The incident reportedly occurred when an outside security firm gained unauthorized access to Anthropic's internal systems. The Washington Post (WP) reported on the 26th of last month (local time) that U.S. security startup Cathedral had accessed Anthropic's internal systems by exploiting a vulnerability in external work software."
               },
               {
                 "t": "p",
-                "x": "The students cheated by touching smart glasses during the exam or by swapping their regular glasses for smart glasses."
-              },
-              {
-                "t": "p",
-                "x": "At a high school in Seoul, a student who did not normally wear glasses put on smart glasses during an exam and kept touching the frames until caught by a proctor. At a high school in North Jeolla, a student repeatedly touched the frames, and the cheating came to light when the proctor spotted a green light reflected in the glasses."
-              },
-              {
-                "t": "p",
-                "x": "At a high school in Jeju, a proctor acting on a tip from a student caught a student swapping regular glasses for smart glasses mid-exam."
-              },
-              {
-                "t": "p",
-                "x": "All four students caught received a zero for the subject. The three high school students also received separate disciplinary measures under their schools' rules, including three days of special education, four hours of community service and five days of suspension."
-              },
-              {
-                "t": "p",
-                "x": "With cheating using new digital devices such as AI glasses emerging, the ministry will tighten management of student assessment. It plans first to distribute student education materials featuring smart-glasses cases in the third week of this month, ahead of second-semester finals, and to send schools guidance on preventing cheating."
-              },
-              {
-                "t": "p",
-                "x": "A joint student assessment management committee involving the ministry, provincial and metropolitan education offices and the Korea Institute for Curriculum and Evaluation will also discuss measures to prevent smart-glasses cheating and ways to support schools."
-              },
-              {
-                "t": "p",
-                "x": "The ministry said it “will continue efforts to secure fairness and reliability of assessment in schools in response to changes in the student assessment environment brought by advances in digital technology such as AI.”"
+                "x": "Anthropic reportedly told some customers that business contact details for enterprise Claude accounts, including account and organization IDs, names and email addresses, may have been exposed."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI眼鏡で試験不正\n中高生4人が0点",
-          "body": "教育部の全数調査で、スマート眼鏡による内申試験の不正4件が見つかり、全員0点となった。",
-          "mini_headline": "AI眼鏡で不正、4人が0点",
+          "headline": "韓国個人情報委が\nAnthropicを正式調査",
+          "body": "個人情報委はClaudeアカウント約100件の流出でAnthropicの調査に着手した。",
+          "mini_headline": "個人情報委、Claude流出を調査",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.8ac1fa2c17534244ae231cd437548395_P1.png",
-                "cap": "AI眼鏡をかけて試験を受け摘発された中高生4人…全員0点に"
+                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/28/PYH2026102813630001300_P4.jpg",
+                "cap": "発言するソン・ギョンヒ個人情報保護委員会委員長"
               },
               {
                 "t": "p",
-                "x": "教育部は9日、全国の中学・高校を対象に2026学年度のスマート眼鏡を使った内申試験での不正行為を全数調査した結果、計4件が確認されたと明らかにした。"
+                "x": "韓国の個人情報保護委員会は、米Anthropicの生成人工知能(AI)サービス「Claude」を利用する国内企業のアカウント情報流出事故について、正式な調査に着手した。"
               },
               {
                 "t": "p",
-                "x": "調査は先月27日から今月3日までの1週間、全国すべての中学・高校を対象に行われた。報道で知られていた2件のほかに、新たに2件が確認された。"
+                "x": "個人情報保護委員会は10日、Anthropicによる個人情報流出の届け出について事前検討を終え、調査に着手したと明らかにした。Anthropicは先月31日、国内企業向けアカウント約100件の情報が外部に流出したと同委員会に届け出ていた。"
               },
               {
                 "t": "p",
-                "x": "学校別では中学校1件、高校3件だ。地域別ではソウル2件、全北1件、済州1件だった。時期別では1学期の期末試験で3件、2学期の中間試験で1件が発生した。"
+                "x": "今回の事故は、外部のセキュリティ企業がAnthropicの内部システムに無断でアクセスしたことで起きたとされる。これに先立ちワシントン・ポスト(WP)は先月26日(現地時間)、米セキュリティスタートアップのCathedralが外部の業務用ソフトウェアの脆弱性を突いてAnthropicの内部システムにアクセスしたと報じていた。"
               },
               {
                 "t": "p",
-                "x": "摘発された生徒は、試験中にスマート眼鏡を触ったり、普通の眼鏡をスマート眼鏡にかけ替えたりする方法で不正を行った。"
-              },
-              {
-                "t": "p",
-                "x": "ソウルのある高校では、普段眼鏡をかけていない生徒が試験中にスマート眼鏡をかけ、フレームを触り続けていたところを試験監督の教員に見つかった。全北のある高校でも生徒がフレームを繰り返し触っており、監督教員が眼鏡に映った緑色の光に気づいたことで不正が発覚した。"
-              },
-              {
-                "t": "p",
-                "x": "済州のある高校では、生徒からの通報を受けた監督教員が、試験中に普通の眼鏡をスマート眼鏡にかけ替える生徒を見つけた。"
-              },
-              {
-                "t": "p",
-                "x": "摘発された生徒4人は全員、当該科目の試験成績が0点となった。高校生3人には、特別教育3日、社会奉仕4時間、出席停止5日など、各校の校則に基づく別途の懲戒処分も科された。"
-              },
-              {
-                "t": "p",
-                "x": "教育部は、AI眼鏡など新たなデジタル機器を使った不正が起きたことを受け、学生評価の管理強化に乗り出す。まず2学期の期末試験を控えた今月第3週に、スマート眼鏡の摘発事例を盛り込んだ生徒向け教材を配布し、学校現場に不正防止の注意事項を案内する予定だ。"
-              },
-              {
-                "t": "p",
-                "x": "教育部と市・道教育庁、韓国教育課程評価院が参加する学生評価共同管理委員会でも、スマート眼鏡を使った不正の防止策と学校支援策を話し合う。"
-              },
-              {
-                "t": "p",
-                "x": "教育部は「AIなどデジタル技術の発展に伴う学生評価環境の変化に対応し、学校現場の評価の公正性と信頼性を確保するための努力を続ける」と述べた。"
+                "x": "Anthropicは、これにより企業向けClaudeアカウントのアカウント・組織の識別番号や氏名、メールアドレスなどの業務連絡先が露出した可能性があるとの案内を、一部の顧客企業に送ったとされる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "戴AI眼镜考试作弊\n4名初高中生被判0分",
-          "body": "教育部全面调查发现4起利用智能眼镜的校内考试作弊，全部被判0分。",
-          "mini_headline": "AI眼镜作弊，4人得0分",
+          "headline": "韩国个人信息委\n正式调查Anthropic",
+          "body": "韩国个人信息委因约100个本土企业Claude账号泄露，对Anthropic展开调查。",
+          "mini_headline": "个人信息委调查Claude泄露",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.8ac1fa2c17534244ae231cd437548395_P1.png",
-                "cap": "戴AI眼镜考试被抓的4名初高中生……全部判为0分"
+                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/28/PYH2026102813630001300_P4.jpg",
+                "cap": "正在发言的韩国个人信息保护委员会委员长Song Kyung-hee"
               },
               {
                 "t": "p",
-                "x": "教育部9日表示，对全国初高中2026学年与智能眼镜相关的校内考试作弊行为进行全面调查后，共确认4起。"
+                "x": "韩国个人信息保护委员会已就使用美国Anthropic生成式人工智能（AI）服务“Claude”的韩国企业账户信息泄露事件，正式展开调查。"
               },
               {
                 "t": "p",
-                "x": "此次调查于上月27日至本月3日进行，为期一周，覆盖全国所有初高中。除此前媒体报道的2起外，又新确认了2起。"
+                "x": "个人信息保护委员会10日表示，已完成对Anthropic个人信息泄露申报的事前审查，并启动调查。此前，Anthropic于上月31日向该委员会申报，约100个韩国企业账户的信息遭外泄。"
               },
               {
                 "t": "p",
-                "x": "按学校类别，初中1起、高中3起。按地区，首尔2起、全北1起、济州1起。按考试时段，第一学期期末考试3起，第二学期期中考试1起。"
+                "x": "据悉，此次事故源于一家外部安全公司未经授权访问了Anthropic内部系统。此前，《华盛顿邮报》（WP）于上月26日（当地时间）报道称，美国安全初创公司Cathedral利用外部办公软件的漏洞，访问了Anthropic的内部系统。"
               },
               {
                 "t": "p",
-                "x": "被查获的学生在考试中通过触碰智能眼镜，或将普通眼镜换成智能眼镜的方式作弊。"
-              },
-              {
-                "t": "p",
-                "x": "首尔一所高中一名平时不戴眼镜的学生在考试中戴上智能眼镜并不断触摸镜框，被监考老师发现。全北一所高中也有学生反复触摸镜框，监考老师发现眼镜上映出的绿色光点，作弊行为因此暴露。"
-              },
-              {
-                "t": "p",
-                "x": "济州一所高中的监考老师接到学生举报后，发现一名学生在考试中把普通眼镜换成了智能眼镜。"
-              },
-              {
-                "t": "p",
-                "x": "被查获的4名学生该科目考试成绩全部记为0分。3名高中生还根据各校校规受到另行处分，包括3天特别教育、4小时社区服务和5天停课等。"
-              },
-              {
-                "t": "p",
-                "x": "鉴于出现了利用AI眼镜等新型数字设备的作弊行为，教育部将加强学生评价管理。首先将在第二学期期末考试前的本月第三周发放收录智能眼镜作弊案例的学生教育资料，并向学校发布防范作弊的注意事项。"
-              },
-              {
-                "t": "p",
-                "x": "由教育部、各市道教育厅和韩国教育课程评价院参与的学生评价联合管理委员会也将讨论防范智能眼镜作弊的对策及学校支持方案。"
-              },
-              {
-                "t": "p",
-                "x": "教育部表示：“将应对AI等数字技术发展带来的学生评价环境变化，持续努力确保学校评价的公平性与可信度。”"
+                "x": "据悉，Anthropic已向部分客户企业发出通知，称企业版Claude账户的账户及组织识别号、姓名、电子邮件地址等工作联系方式可能已经外泄。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Trampas con gafas con IA:\n4 alumnos reciben un cero",
-          "body": "El Ministerio de Educación halló cuatro casos de trampa con gafas inteligentes en exámenes, todos con un cero.",
-          "mini_headline": "Gafas con IA: 4 alumnos con un cero",
+          "headline": "La PIPC abre una investigación\nformal a Anthropic por Claude",
+          "body": "La PIPC investiga a Anthropic por la filtración de unas 100 cuentas de Claude de empresas surcoreanas.",
+          "mini_headline": "La PIPC investiga la filtración de Claude",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.8ac1fa2c17534244ae231cd437548395_P1.png",
-                "cap": "Cuatro alumnos de secundaria sorprendidos en exámenes con gafas de IA… todos con un cero"
+                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/28/PYH2026102813630001300_P4.jpg",
+                "cap": "Song Kyung-hee, presidenta de la Comisión de Protección de la Información Personal, durante su intervención"
               },
               {
                 "t": "p",
-                "x": "El Ministerio de Educación informó el día 9 de que una investigación exhaustiva sobre trampas con gafas inteligentes en los exámenes internos de los centros de secundaria de todo el país en el curso 2026 halló un total de cuatro casos."
+                "x": "La Comisión de Protección de la Información Personal (PIPC) de Corea del Sur ha abierto una investigación formal sobre la filtración de datos de cuentas de empresas surcoreanas que usan Claude, el servicio de inteligencia artificial (IA) generativa de la estadounidense Anthropic."
               },
               {
                 "t": "p",
-                "x": "La investigación abarcó durante una semana, del 27 del mes pasado al 3 de este mes, todos los centros de secundaria del país. Además de los dos casos ya conocidos por la prensa, se confirmaron otros dos."
+                "x": "La comisión informó el día 10 de que había concluido la revisión previa de la notificación de filtración de datos personales presentada por Anthropic y había iniciado la investigación. Anthropic había notificado a la comisión el día 31 del mes pasado que la información de unas 100 cuentas corporativas surcoreanas se había filtrado al exterior."
               },
               {
                 "t": "p",
-                "x": "Por nivel, hubo un caso en secundaria básica y tres en bachillerato. Por región, dos en Seúl, uno en Jeolla del Norte y uno en Jeju. Por periodo, tres se produjeron en los exámenes finales del primer semestre y uno en los parciales del segundo."
+                "x": "Según se ha informado, el incidente se produjo cuando una empresa de seguridad externa accedió sin autorización a los sistemas internos de Anthropic. The Washington Post (WP) informó el día 26 del mes pasado (hora local) de que la startup de seguridad estadounidense Cathedral había accedido a los sistemas internos de Anthropic aprovechando una vulnerabilidad de un software de trabajo externo."
               },
               {
                 "t": "p",
-                "x": "Los alumnos hicieron trampa tocando las gafas inteligentes durante el examen o cambiando sus gafas normales por gafas inteligentes."
-              },
-              {
-                "t": "p",
-                "x": "En un instituto de Seúl, un alumno que no solía llevar gafas se puso unas gafas inteligentes durante el examen y no dejó de tocarse la montura hasta que lo descubrió el profesor vigilante. En un instituto de Jeolla del Norte, otro alumno se tocaba la montura repetidamente, y la trampa salió a la luz cuando el vigilante vio una luz verde reflejada en las gafas."
-              },
-              {
-                "t": "p",
-                "x": "En un instituto de Jeju, un vigilante alertado por otro alumno descubrió durante el examen a un estudiante que cambiaba sus gafas normales por unas inteligentes."
-              },
-              {
-                "t": "p",
-                "x": "Los cuatro alumnos sorprendidos recibieron un cero en la asignatura. Los tres de bachillerato recibieron además sanciones conforme a las normas de cada centro, como tres días de formación especial, cuatro horas de servicio comunitario y cinco días de suspensión."
-              },
-              {
-                "t": "p",
-                "x": "Ante la aparición de trampas con nuevos dispositivos digitales como las gafas con IA, el ministerio reforzará la gestión de las evaluaciones. Primero, en la tercera semana de este mes, antes de los exámenes finales del segundo semestre, distribuirá material educativo para alumnos con casos de gafas inteligentes detectados y enviará a los centros pautas para prevenir las trampas."
-              },
-              {
-                "t": "p",
-                "x": "El comité conjunto de gestión de la evaluación estudiantil, en el que participan el ministerio, las oficinas de educación provinciales y metropolitanas y el Instituto Coreano de Currículo y Evaluación, también debatirá medidas para prevenir las trampas con gafas inteligentes y formas de apoyo a los centros."
-              },
-              {
-                "t": "p",
-                "x": "El ministerio afirmó que “seguirá esforzándose por garantizar la equidad y la fiabilidad de la evaluación en los centros, en respuesta a los cambios en el entorno de evaluación derivados del avance de tecnologías digitales como la IA”."
+                "x": "Según se ha informado, Anthropic comunicó a algunos clientes que podrían haber quedado expuestos datos de contacto profesionales de las cuentas corporativas de Claude, como los números de identificación de cuenta y de organización, nombres y direcciones de correo electrónico."
               }
             ]
           }
@@ -1389,221 +1065,125 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "AI glasses exam cheating:\n4 pupils given zero marks",
-          "body": "An Education Ministry survey found four cases of smart-glasses cheating on school exams, all given zero marks.",
-          "mini_headline": "4 students get zero for AI glasses",
+          "headline": "PIPC opens formal probe into\nAnthropic's Claude data leak",
+          "body": "Korea's PIPC has opened a probe into Anthropic after data from about 100 Korean business Claude accounts leaked.",
+          "mini_headline": "PIPC probes Claude leak",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.8ac1fa2c17534244ae231cd437548395_P1.png",
-                "cap": "Four middle and high school students caught taking exams in AI glasses… all given zero"
+                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/28/PYH2026102813630001300_P4.jpg",
+                "cap": "Song Kyung-hee, chair of the Personal Information Protection Commission, speaks"
               },
               {
                 "t": "p",
-                "x": "The Ministry of Education said on the 9th that a full survey of smart-glasses cheating in school exams at middle and high schools nationwide for the 2026 school year found a total of four cases."
+                "x": "South Korea's Personal Information Protection Commission (PIPC) has opened a formal investigation into a leak of account information belonging to Korean companies that use Claude, the generative artificial intelligence (AI) service of U.S.-based Anthropic."
               },
               {
                 "t": "p",
-                "x": "The survey covered every middle and high school in the country for a week, from the 27th of last month to the 3rd of this month. Two cases were found in addition to the two already known from press reports."
+                "x": "The PIPC said on the 10th that it had completed a preliminary review of Anthropic's report of a personal data leak and launched the investigation. Anthropic had earlier reported to the commission on the 31st of last month that information from about 100 Korean business accounts had leaked externally."
               },
               {
                 "t": "p",
-                "x": "By school level, one case was at a middle school and three at high schools. By region, there were two in Seoul, one in North Jeolla and one in Jeju. By exam period, three occurred in first-semester finals and one in second-semester midterms."
+                "x": "The incident reportedly occurred when an outside security firm gained unauthorized access to Anthropic's internal systems. The Washington Post (WP) reported on the 26th of last month (local time) that U.S. security startup Cathedral had accessed Anthropic's internal systems by exploiting a vulnerability in external work software."
               },
               {
                 "t": "p",
-                "x": "The students cheated by touching smart glasses during the exam or by swapping their regular glasses for smart glasses."
-              },
-              {
-                "t": "p",
-                "x": "At a high school in Seoul, a student who did not normally wear glasses put on smart glasses during an exam and kept touching the frames until caught by a proctor. At a high school in North Jeolla, a student repeatedly touched the frames, and the cheating came to light when the proctor spotted a green light reflected in the glasses."
-              },
-              {
-                "t": "p",
-                "x": "At a high school in Jeju, a proctor acting on a tip from a student caught a student swapping regular glasses for smart glasses mid-exam."
-              },
-              {
-                "t": "p",
-                "x": "All four students caught received a zero for the subject. The three high school students also received separate disciplinary measures under their schools' rules, including three days of special education, four hours of community service and five days of suspension."
-              },
-              {
-                "t": "p",
-                "x": "With cheating using new digital devices such as AI glasses emerging, the ministry will tighten management of student assessment. It plans first to distribute student education materials featuring smart-glasses cases in the third week of this month, ahead of second-semester finals, and to send schools guidance on preventing cheating."
-              },
-              {
-                "t": "p",
-                "x": "A joint student assessment management committee involving the ministry, provincial and metropolitan education offices and the Korea Institute for Curriculum and Evaluation will also discuss measures to prevent smart-glasses cheating and ways to support schools."
-              },
-              {
-                "t": "p",
-                "x": "The ministry said it “will continue efforts to secure fairness and reliability of assessment in schools in response to changes in the student assessment environment brought by advances in digital technology such as AI.”"
+                "x": "Anthropic reportedly told some customers that business contact details for enterprise Claude accounts, including account and organization IDs, names and email addresses, may have been exposed."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI眼鏡で試験不正\n中高生4人が0点",
-          "body": "教育部の全数調査で、スマート眼鏡による内申試験の不正4件が見つかり、全員0点となった。",
-          "mini_headline": "AI眼鏡で不正、4人が0点",
+          "headline": "韓国個人情報委が\nAnthropicを正式調査",
+          "body": "個人情報委はClaudeアカウント約100件の流出でAnthropicの調査に着手した。",
+          "mini_headline": "個人情報委、Claude流出を調査",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.8ac1fa2c17534244ae231cd437548395_P1.png",
-                "cap": "AI眼鏡をかけて試験を受け摘発された中高生4人…全員0点に"
+                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/28/PYH2026102813630001300_P4.jpg",
+                "cap": "発言するソン・ギョンヒ個人情報保護委員会委員長"
               },
               {
                 "t": "p",
-                "x": "教育部は9日、全国の中学・高校を対象に2026学年度のスマート眼鏡を使った内申試験での不正行為を全数調査した結果、計4件が確認されたと明らかにした。"
+                "x": "韓国の個人情報保護委員会は、米Anthropicの生成人工知能(AI)サービス「Claude」を利用する国内企業のアカウント情報流出事故について、正式な調査に着手した。"
               },
               {
                 "t": "p",
-                "x": "調査は先月27日から今月3日までの1週間、全国すべての中学・高校を対象に行われた。報道で知られていた2件のほかに、新たに2件が確認された。"
+                "x": "個人情報保護委員会は10日、Anthropicによる個人情報流出の届け出について事前検討を終え、調査に着手したと明らかにした。Anthropicは先月31日、国内企業向けアカウント約100件の情報が外部に流出したと同委員会に届け出ていた。"
               },
               {
                 "t": "p",
-                "x": "学校別では中学校1件、高校3件だ。地域別ではソウル2件、全北1件、済州1件だった。時期別では1学期の期末試験で3件、2学期の中間試験で1件が発生した。"
+                "x": "今回の事故は、外部のセキュリティ企業がAnthropicの内部システムに無断でアクセスしたことで起きたとされる。これに先立ちワシントン・ポスト(WP)は先月26日(現地時間)、米セキュリティスタートアップのCathedralが外部の業務用ソフトウェアの脆弱性を突いてAnthropicの内部システムにアクセスしたと報じていた。"
               },
               {
                 "t": "p",
-                "x": "摘発された生徒は、試験中にスマート眼鏡を触ったり、普通の眼鏡をスマート眼鏡にかけ替えたりする方法で不正を行った。"
-              },
-              {
-                "t": "p",
-                "x": "ソウルのある高校では、普段眼鏡をかけていない生徒が試験中にスマート眼鏡をかけ、フレームを触り続けていたところを試験監督の教員に見つかった。全北のある高校でも生徒がフレームを繰り返し触っており、監督教員が眼鏡に映った緑色の光に気づいたことで不正が発覚した。"
-              },
-              {
-                "t": "p",
-                "x": "済州のある高校では、生徒からの通報を受けた監督教員が、試験中に普通の眼鏡をスマート眼鏡にかけ替える生徒を見つけた。"
-              },
-              {
-                "t": "p",
-                "x": "摘発された生徒4人は全員、当該科目の試験成績が0点となった。高校生3人には、特別教育3日、社会奉仕4時間、出席停止5日など、各校の校則に基づく別途の懲戒処分も科された。"
-              },
-              {
-                "t": "p",
-                "x": "教育部は、AI眼鏡など新たなデジタル機器を使った不正が起きたことを受け、学生評価の管理強化に乗り出す。まず2学期の期末試験を控えた今月第3週に、スマート眼鏡の摘発事例を盛り込んだ生徒向け教材を配布し、学校現場に不正防止の注意事項を案内する予定だ。"
-              },
-              {
-                "t": "p",
-                "x": "教育部と市・道教育庁、韓国教育課程評価院が参加する学生評価共同管理委員会でも、スマート眼鏡を使った不正の防止策と学校支援策を話し合う。"
-              },
-              {
-                "t": "p",
-                "x": "教育部は「AIなどデジタル技術の発展に伴う学生評価環境の変化に対応し、学校現場の評価の公正性と信頼性を確保するための努力を続ける」と述べた。"
+                "x": "Anthropicは、これにより企業向けClaudeアカウントのアカウント・組織の識別番号や氏名、メールアドレスなどの業務連絡先が露出した可能性があるとの案内を、一部の顧客企業に送ったとされる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "戴AI眼镜考试作弊\n4名初高中生被判0分",
-          "body": "教育部全面调查发现4起利用智能眼镜的校内考试作弊，全部被判0分。",
-          "mini_headline": "AI眼镜作弊，4人得0分",
+          "headline": "韩国个人信息委\n正式调查Anthropic",
+          "body": "韩国个人信息委因约100个本土企业Claude账号泄露，对Anthropic展开调查。",
+          "mini_headline": "个人信息委调查Claude泄露",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.8ac1fa2c17534244ae231cd437548395_P1.png",
-                "cap": "戴AI眼镜考试被抓的4名初高中生……全部判为0分"
+                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/28/PYH2026102813630001300_P4.jpg",
+                "cap": "正在发言的韩国个人信息保护委员会委员长Song Kyung-hee"
               },
               {
                 "t": "p",
-                "x": "教育部9日表示，对全国初高中2026学年与智能眼镜相关的校内考试作弊行为进行全面调查后，共确认4起。"
+                "x": "韩国个人信息保护委员会已就使用美国Anthropic生成式人工智能（AI）服务“Claude”的韩国企业账户信息泄露事件，正式展开调查。"
               },
               {
                 "t": "p",
-                "x": "此次调查于上月27日至本月3日进行，为期一周，覆盖全国所有初高中。除此前媒体报道的2起外，又新确认了2起。"
+                "x": "个人信息保护委员会10日表示，已完成对Anthropic个人信息泄露申报的事前审查，并启动调查。此前，Anthropic于上月31日向该委员会申报，约100个韩国企业账户的信息遭外泄。"
               },
               {
                 "t": "p",
-                "x": "按学校类别，初中1起、高中3起。按地区，首尔2起、全北1起、济州1起。按考试时段，第一学期期末考试3起，第二学期期中考试1起。"
+                "x": "据悉，此次事故源于一家外部安全公司未经授权访问了Anthropic内部系统。此前，《华盛顿邮报》（WP）于上月26日（当地时间）报道称，美国安全初创公司Cathedral利用外部办公软件的漏洞，访问了Anthropic的内部系统。"
               },
               {
                 "t": "p",
-                "x": "被查获的学生在考试中通过触碰智能眼镜，或将普通眼镜换成智能眼镜的方式作弊。"
-              },
-              {
-                "t": "p",
-                "x": "首尔一所高中一名平时不戴眼镜的学生在考试中戴上智能眼镜并不断触摸镜框，被监考老师发现。全北一所高中也有学生反复触摸镜框，监考老师发现眼镜上映出的绿色光点，作弊行为因此暴露。"
-              },
-              {
-                "t": "p",
-                "x": "济州一所高中的监考老师接到学生举报后，发现一名学生在考试中把普通眼镜换成了智能眼镜。"
-              },
-              {
-                "t": "p",
-                "x": "被查获的4名学生该科目考试成绩全部记为0分。3名高中生还根据各校校规受到另行处分，包括3天特别教育、4小时社区服务和5天停课等。"
-              },
-              {
-                "t": "p",
-                "x": "鉴于出现了利用AI眼镜等新型数字设备的作弊行为，教育部将加强学生评价管理。首先将在第二学期期末考试前的本月第三周发放收录智能眼镜作弊案例的学生教育资料，并向学校发布防范作弊的注意事项。"
-              },
-              {
-                "t": "p",
-                "x": "由教育部、各市道教育厅和韩国教育课程评价院参与的学生评价联合管理委员会也将讨论防范智能眼镜作弊的对策及学校支持方案。"
-              },
-              {
-                "t": "p",
-                "x": "教育部表示：“将应对AI等数字技术发展带来的学生评价环境变化，持续努力确保学校评价的公平性与可信度。”"
+                "x": "据悉，Anthropic已向部分客户企业发出通知，称企业版Claude账户的账户及组织识别号、姓名、电子邮件地址等工作联系方式可能已经外泄。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Trampas con gafas con IA:\n4 alumnos reciben un cero",
-          "body": "El Ministerio de Educación halló cuatro casos de trampa con gafas inteligentes en exámenes, todos con un cero.",
-          "mini_headline": "Gafas con IA: 4 alumnos con un cero",
+          "headline": "La PIPC abre una investigación\nformal a Anthropic por Claude",
+          "body": "La PIPC investiga a Anthropic por la filtración de unas 100 cuentas de Claude de empresas surcoreanas.",
+          "mini_headline": "La PIPC investiga la filtración de Claude",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.8ac1fa2c17534244ae231cd437548395_P1.png",
-                "cap": "Cuatro alumnos de secundaria sorprendidos en exámenes con gafas de IA… todos con un cero"
+                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/28/PYH2026102813630001300_P4.jpg",
+                "cap": "Song Kyung-hee, presidenta de la Comisión de Protección de la Información Personal, durante su intervención"
               },
               {
                 "t": "p",
-                "x": "El Ministerio de Educación informó el día 9 de que una investigación exhaustiva sobre trampas con gafas inteligentes en los exámenes internos de los centros de secundaria de todo el país en el curso 2026 halló un total de cuatro casos."
+                "x": "La Comisión de Protección de la Información Personal (PIPC) de Corea del Sur ha abierto una investigación formal sobre la filtración de datos de cuentas de empresas surcoreanas que usan Claude, el servicio de inteligencia artificial (IA) generativa de la estadounidense Anthropic."
               },
               {
                 "t": "p",
-                "x": "La investigación abarcó durante una semana, del 27 del mes pasado al 3 de este mes, todos los centros de secundaria del país. Además de los dos casos ya conocidos por la prensa, se confirmaron otros dos."
+                "x": "La comisión informó el día 10 de que había concluido la revisión previa de la notificación de filtración de datos personales presentada por Anthropic y había iniciado la investigación. Anthropic había notificado a la comisión el día 31 del mes pasado que la información de unas 100 cuentas corporativas surcoreanas se había filtrado al exterior."
               },
               {
                 "t": "p",
-                "x": "Por nivel, hubo un caso en secundaria básica y tres en bachillerato. Por región, dos en Seúl, uno en Jeolla del Norte y uno en Jeju. Por periodo, tres se produjeron en los exámenes finales del primer semestre y uno en los parciales del segundo."
+                "x": "Según se ha informado, el incidente se produjo cuando una empresa de seguridad externa accedió sin autorización a los sistemas internos de Anthropic. The Washington Post (WP) informó el día 26 del mes pasado (hora local) de que la startup de seguridad estadounidense Cathedral había accedido a los sistemas internos de Anthropic aprovechando una vulnerabilidad de un software de trabajo externo."
               },
               {
                 "t": "p",
-                "x": "Los alumnos hicieron trampa tocando las gafas inteligentes durante el examen o cambiando sus gafas normales por gafas inteligentes."
-              },
-              {
-                "t": "p",
-                "x": "En un instituto de Seúl, un alumno que no solía llevar gafas se puso unas gafas inteligentes durante el examen y no dejó de tocarse la montura hasta que lo descubrió el profesor vigilante. En un instituto de Jeolla del Norte, otro alumno se tocaba la montura repetidamente, y la trampa salió a la luz cuando el vigilante vio una luz verde reflejada en las gafas."
-              },
-              {
-                "t": "p",
-                "x": "En un instituto de Jeju, un vigilante alertado por otro alumno descubrió durante el examen a un estudiante que cambiaba sus gafas normales por unas inteligentes."
-              },
-              {
-                "t": "p",
-                "x": "Los cuatro alumnos sorprendidos recibieron un cero en la asignatura. Los tres de bachillerato recibieron además sanciones conforme a las normas de cada centro, como tres días de formación especial, cuatro horas de servicio comunitario y cinco días de suspensión."
-              },
-              {
-                "t": "p",
-                "x": "Ante la aparición de trampas con nuevos dispositivos digitales como las gafas con IA, el ministerio reforzará la gestión de las evaluaciones. Primero, en la tercera semana de este mes, antes de los exámenes finales del segundo semestre, distribuirá material educativo para alumnos con casos de gafas inteligentes detectados y enviará a los centros pautas para prevenir las trampas."
-              },
-              {
-                "t": "p",
-                "x": "El comité conjunto de gestión de la evaluación estudiantil, en el que participan el ministerio, las oficinas de educación provinciales y metropolitanas y el Instituto Coreano de Currículo y Evaluación, también debatirá medidas para prevenir las trampas con gafas inteligentes y formas de apoyo a los centros."
-              },
-              {
-                "t": "p",
-                "x": "El ministerio afirmó que “seguirá esforzándose por garantizar la equidad y la fiabilidad de la evaluación en los centros, en respuesta a los cambios en el entorno de evaluación derivados del avance de tecnologías digitales como la IA”."
+                "x": "Según se ha informado, Anthropic comunicó a algunos clientes que podrían haber quedado expuestos datos de contacto profesionales de las cuentas corporativas de Claude, como los números de identificación de cuenta y de organización, nombres y direcciones de correo electrónico."
               }
             ]
           }
@@ -1611,195 +1191,213 @@
       }
     },
     {
-      "id": "bahrain-shura-deepfake-vote",
+      "id": "reuters-genai-news-survey-2026",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "바레인 슈라위원회\n딥페이크 처벌안 부결",
-      "body": "바레인 슈라위원회가 유해 딥페이크 징역·벌금안을 20대 15로 부결했다.",
-      "mini_headline": "바레인, 딥페이크 처벌안 부결",
+      "headline": "AI가 뉴스 관문 됐지만\n독자는 여전히 경계",
+      "body": "로이터연구소 조사에선 51%가 매주 AI를 쓰지만 AI가 만든 뉴스는 경계한다.",
+      "mini_headline": "AI 뉴스 관문, 경계하는 독자",
       "tool": "Politics",
-      "source": "News of Bahrain",
-      "url": "https://www.newsofbahrain.com/en/article/deepfake-penalties-rejected-2015",
-      "accent": "#eb367f",
+      "source": "Nieman Lab",
+      "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+      "accent": "#f5a623",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "슈라위원회가 유해 딥페이크 제작자에게 징역형과 최대 BD10,000의 벌금을 물리는 제안을 20대 15로 부결했다. 소속 위원 한 명이 가짜 영상에 속은 사연을 듣고도 이런 결정을 내렸다."
-          },
-          {
-            "t": "p",
-            "x": "2014년 정보기술범죄법 개정안은 외교·국방·국가안보위원회 권고대로 부결됐다. 위원회는 개정안에 딥페이크 정의가 없다고 지적했다."
+            "x": "로이터저널리즘연구소의 '생성형 AI와 뉴스 보고서 2026(Generative AI and News Report 2026)'은 9개국 이용자를 조사했다. ChatGPT, Claude, Gemini 같은 대화형 AI 이용은 꾸준히 늘었다. 과거 데이터가 있는 6개국에선 응답자의 51%가 매주 AI를 쓴다(미국(U.S.)은 49%). 지난주 검색에서 AI 생성(AI-generated) 답변이나 요약을 봤다는 응답도 57%였다."
           },
           {
             "t": "img",
-            "src": "https://mdisebzgyrtdwsnwlszm.supabase.co/storage/v1/object/public/article-covers/temp/en/9kk-mw8by24o.jpg",
-            "cap": "슈라위원회 위원 칼리드 알 마스카티"
+            "src": "https://www.niemanlab.org/images/GenAI-2026.-Embedded-in.png"
           },
           {
             "t": "p",
-            "x": "칼리드 알 마스카티 위원은 자신이 무언가를 홍보하는 듯한 가짜 영상이 너무 진짜 같았다며 ‘그 영상을 보고 내가 이 영상을 찍었나 하고 생각했다’고 말했다. 자말 파크로 제1부의장은 AI 발전이 멈출 때까지 기다렸다가 새 법을 만들 수는 없다고 경고했다."
+            "x": "AI 에이전트는 아직 주류가 아니다. 67%가 지난주 에이전트를 한 번도 쓰지 않았다. 가장 흔한 용도는 정보 얻기(38%, 2025년 24%에서 상승)였다. 6개 핵심 국가에서 뉴스를 보려고 AI를 쓰는 비율은 6%에서 9%로 올랐다. AI를 쓰는 주된 이유는 편리함(64%)이었고, AI에서 더 믿을 만한 정보를 얻는다는 응답은 21%에 그쳤다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.niemanlab.org/images/GenAI-2026.-Uses-last-week.png"
           },
           {
             "t": "p",
-            "x": "내무부는 가짜 자료를 쓴 협박, 사기, 명예훼손은 기존 법으로도 다룰 수 있다고 밝혔다. 가님 알 부아이나인 의회담당 장관은 이번 반대가 예비 단계일 뿐이라고 설명했다. 완성된 법안을 놓고 한 표결이 아니라, 제안을 정부에 넘겨 법안으로 다듬게 할지 정하는 절차라는 것이다."
+            "x": "AI가 들어간 저널리즘을 보는 시선은 여전히 부정적이고 좀처럼 바뀌지 않는다. AI가 전부 만든 뉴스가 편하다는 응답은 12%뿐이었다. 사람이 일부 감독하면 19%로 오른다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.niemanlab.org/images/GenAI-2026.-Comfort-with-AI-news.png"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Bahrain's Shura rejects\ndeepfake penalties proposal",
-          "body": "Bahrain's Shura Council voted 20–15 to reject a proposal to jail and fine people for harmful deepfakes.",
-          "mini_headline": "Bahrain rejects deepfake penalties",
+          "headline": "AI becomes a news gateway, but\naudiences stay wary",
+          "body": "A Reuters Institute survey finds 51% now use AI weekly, yet audiences remain wary of news made by AI.",
+          "mini_headline": "AI news gateway,\nwary audiences",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "The Shura Council has rejected a proposal to jail people for making harmful deepfakes and fine them up to BD10,000 by 20 votes to 15, despite hearing how a fake video fooled one of its own members."
-              },
-              {
-                "t": "p",
-                "x": "The proposed change to the 2014 Information Technology Crimes Law was rejected on the Foreign Affairs, Defence and National Security Committee’s call; the committee warned it failed to define a deepfake."
+                "x": "The Reuters Institute's \"Generative AI and News Report 2026\" surveyed audiences across nine countries. Use of conversational AI such as ChatGPT, Claude and Gemini keeps growing: 51% of respondents across the six countries with past data now use AI weekly (49% in the U.S.). 57% saw AI-generated answers or summaries in search in the last week."
               },
               {
                 "t": "img",
-                "src": "https://mdisebzgyrtdwsnwlszm.supabase.co/storage/v1/object/public/article-covers/temp/en/9kk-mw8by24o.jpg",
-                "cap": "Khalid Al Maskati, Shura Council member"
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Embedded-in.png"
               },
               {
                 "t": "p",
-                "x": "Khalid Al Maskati said a fake video showing him promoting something looked so real: ‘When I saw it, I thought to myself, did I make this video?’ First Deputy Chairman Jamal Fakhro warned Bahrain could not wait for AI to stop advancing before passing new laws."
+                "x": "AI agents haven't broken into the mainstream: 67% had not used one in the last week. Getting information is the most common use (38%, up from 24% in 2025), and 9% across six core countries use AI for news, up from 6%. Convenience (64%) is the main reason people use AI; only 21% said they get more reliable information from it."
+              },
+              {
+                "t": "img",
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Uses-last-week.png"
               },
               {
                 "t": "p",
-                "x": "The Interior Ministry said existing laws already cover blackmail, fraud and defamation involving fake material. Minister of Parliamentary Affairs Ghanim Al Buainain said the objections were preliminary and members were deciding whether to send the proposal to the government for drafting, rather than voting on a finished law."
+                "x": "Attitudes toward AI in journalism remain entrenched and negative: just 12% are comfortable with news made entirely by AI, rising to 19% with some human oversight."
+              },
+              {
+                "t": "img",
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Comfort-with-AI-news.png"
               }
             ]
           }
         },
         "ko": {
-          "headline": "바레인 슈라위원회\n딥페이크 처벌안 부결",
-          "body": "바레인 슈라위원회가 유해 딥페이크 징역·벌금안을 20대 15로 부결했다.",
-          "mini_headline": "바레인, 딥페이크 처벌안 부결",
+          "headline": "AI가 뉴스 관문 됐지만\n독자는 여전히 경계",
+          "body": "로이터연구소 조사에선 51%가 매주 AI를 쓰지만 AI가 만든 뉴스는 경계한다.",
+          "mini_headline": "AI 뉴스 관문, 경계하는 독자",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "슈라위원회가 유해 딥페이크 제작자에게 징역형과 최대 BD10,000의 벌금을 물리는 제안을 20대 15로 부결했다. 소속 위원 한 명이 가짜 영상에 속은 사연을 듣고도 이런 결정을 내렸다."
-              },
-              {
-                "t": "p",
-                "x": "2014년 정보기술범죄법 개정안은 외교·국방·국가안보위원회 권고대로 부결됐다. 위원회는 개정안에 딥페이크 정의가 없다고 지적했다."
+                "x": "로이터저널리즘연구소의 '생성형 AI와 뉴스 보고서 2026(Generative AI and News Report 2026)'은 9개국 이용자를 조사했다. ChatGPT, Claude, Gemini 같은 대화형 AI 이용은 꾸준히 늘었다. 과거 데이터가 있는 6개국에선 응답자의 51%가 매주 AI를 쓴다(미국(U.S.)은 49%). 지난주 검색에서 AI 생성(AI-generated) 답변이나 요약을 봤다는 응답도 57%였다."
               },
               {
                 "t": "img",
-                "src": "https://mdisebzgyrtdwsnwlszm.supabase.co/storage/v1/object/public/article-covers/temp/en/9kk-mw8by24o.jpg",
-                "cap": "슈라위원회 위원 칼리드 알 마스카티"
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Embedded-in.png"
               },
               {
                 "t": "p",
-                "x": "칼리드 알 마스카티 위원은 자신이 무언가를 홍보하는 듯한 가짜 영상이 너무 진짜 같았다며 ‘그 영상을 보고 내가 이 영상을 찍었나 하고 생각했다’고 말했다. 자말 파크로 제1부의장은 AI 발전이 멈출 때까지 기다렸다가 새 법을 만들 수는 없다고 경고했다."
+                "x": "AI 에이전트는 아직 주류가 아니다. 67%가 지난주 에이전트를 한 번도 쓰지 않았다. 가장 흔한 용도는 정보 얻기(38%, 2025년 24%에서 상승)였다. 6개 핵심 국가에서 뉴스를 보려고 AI를 쓰는 비율은 6%에서 9%로 올랐다. AI를 쓰는 주된 이유는 편리함(64%)이었고, AI에서 더 믿을 만한 정보를 얻는다는 응답은 21%에 그쳤다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Uses-last-week.png"
               },
               {
                 "t": "p",
-                "x": "내무부는 가짜 자료를 쓴 협박, 사기, 명예훼손은 기존 법으로도 다룰 수 있다고 밝혔다. 가님 알 부아이나인 의회담당 장관은 이번 반대가 예비 단계일 뿐이라고 설명했다. 완성된 법안을 놓고 한 표결이 아니라, 제안을 정부에 넘겨 법안으로 다듬게 할지 정하는 절차라는 것이다."
+                "x": "AI가 들어간 저널리즘을 보는 시선은 여전히 부정적이고 좀처럼 바뀌지 않는다. AI가 전부 만든 뉴스가 편하다는 응답은 12%뿐이었다. 사람이 일부 감독하면 19%로 오른다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Comfort-with-AI-news.png"
               }
             ]
           }
         },
         "ja": {
-          "headline": "バーレーン・シューラ評議会\nディープフェイク罰則案を否決",
-          "body": "シューラ評議会は有害なディープフェイクに禁錮と罰金を科す提案を20対15で否決した。",
-          "mini_headline": "バーレーン、ディープフェイク罰則案を否決",
+          "headline": "AIはニュースの入口に\n利用者はなお慎重",
+          "body": "ロイター研究所の調査では51%が毎週AIを使うが、AI製ニュースへの警戒は根強い。",
+          "mini_headline": "AIがニュースの入口に、慎重な受け手",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "シューラ評議会は、有害なディープフェイクを作成した者に禁錮刑と最大BD10,000の罰金を科す提案を20対15で否決した。偽動画に評議会のメンバー自身がだまされた経緯を聞いたうえでの判断だった。"
-              },
-              {
-                "t": "p",
-                "x": "2014年の情報技術犯罪法の改正案は、外交・国防・国家安全保障委員会の勧告を受けて否決された。同委員会は、改正案がディープフェイクを定義していないと指摘していた。"
+                "x": "ロイター・ジャーナリズム研究所の「生成AIとニュース報告書2026(Generative AI and News Report 2026)」は9カ国の利用者を調査した。ChatGPT、Claude、Geminiなど対話型AIの利用は拡大を続けている。過去のデータがある6カ国の回答者の51%が今では毎週AIを使っている(米国(U.S.)では49%)。57%は先週、検索でAI生成(AI-generated)の回答や要約を目にした。"
               },
               {
                 "t": "img",
-                "src": "https://mdisebzgyrtdwsnwlszm.supabase.co/storage/v1/object/public/article-covers/temp/en/9kk-mw8by24o.jpg",
-                "cap": "シューラ評議会メンバーのハリド・アル・マスカティ氏"
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Embedded-in.png"
               },
               {
                 "t": "p",
-                "x": "ハリド・アル・マスカティ氏は、自分が何かを宣伝しているように見せかけた偽動画があまりに本物らしかったとして、「それを見て、自分がこの動画を撮ったのかと思った」と語った。ジャマル・ファクロ第一副議長は、AIの進歩が止まるのを待ってから新法を制定するわけにはいかないと警告した。"
+                "x": "AIエージェントは主流に届いていない。67%は先週一度も使わなかった。最も多い用途は情報収集(38%、2025年の24%から上昇)で、主要6カ国でニュースにAIを使う人は6%から9%に増えた。AIを使う主な理由は利便性(64%)で、AIからより信頼できる情報を得られると答えたのは21%にとどまった。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Uses-last-week.png"
               },
               {
                 "t": "p",
-                "x": "内務省は、偽の素材を使った恐喝、詐欺、名誉毀損はすでに既存の法律で対処できるとした。ガニム・アル・ブアイナイン議会担当相は、反対意見は予備的なもので、議員らは完成した法案を採決するのではなく、提案を政府に送って起草させるかどうかを決めているのだと説明した。"
+                "x": "ジャーナリズムにおけるAIへの態度は依然として固定的で否定的だ。完全にAIが作ったニュースに抵抗がない人はわずか12%で、人による一定の監督があれば19%に上がる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Comfort-with-AI-news.png"
               }
             ]
           }
         },
         "zh": {
-          "headline": "巴林协商会议否决\n深度伪造处罚提案",
-          "body": "巴林协商会议以20票对15票否决了对有害深度伪造处以监禁和罚款的提案。",
-          "mini_headline": "巴林否决深度伪造处罚案",
+          "headline": "AI成新闻入口\n受众仍存戒心",
+          "body": "路透研究所调查显示51%的人每周使用AI，但受众仍对AI生成的新闻心存戒备。",
+          "mini_headline": "AI成新闻入口，受众仍存戒心",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "协商会议以20票对15票否决了一项提案，该提案拟对制作有害深度伪造内容者处以监禁，并处最高BD10,000罚款。此前议员们已听说一段假视频骗过了本会一名成员。"
-              },
-              {
-                "t": "p",
-                "x": "这项针对2014年《信息技术犯罪法》的修正提案，是根据外交、国防和国家安全委员会的建议被否决的；该委员会警告称，提案未能界定何为深度伪造。"
+                "x": "路透新闻研究所的《生成式AI与新闻报告2026》（Generative AI and News Report 2026）调查了九个国家的受众。ChatGPT、Claude和Gemini等对话式AI的使用持续增长：在有历史数据的六个国家中，51%的受访者如今每周使用AI（美国（U.S.）为49%）。57%的人在过去一周的搜索中看到过AI生成（AI-generated）的答案或摘要。"
               },
               {
                 "t": "img",
-                "src": "https://mdisebzgyrtdwsnwlszm.supabase.co/storage/v1/object/public/article-covers/temp/en/9kk-mw8by24o.jpg",
-                "cap": "协商会议成员哈立德·马斯卡蒂"
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Embedded-in.png"
               },
               {
                 "t": "p",
-                "x": "哈立德·马斯卡蒂表示，一段显示他在推广某样东西的假视频看起来非常逼真：“我看到时心想，这段视频是我拍的吗？”第一副主席贾迈勒·法赫鲁警告说，巴林不能等AI停止发展后再通过新法律。"
+                "x": "AI智能体尚未进入主流：67%的人过去一周没有使用过。获取信息是最常见的用途（38%，高于2025年的24%）；在六个核心国家，用AI获取新闻的比例从6%升至9%。便利性（64%）是人们使用AI的主要原因；只有21%的人表示能从中获得更可靠的信息。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Uses-last-week.png"
               },
               {
                 "t": "p",
-                "x": "内政部表示，现行法律已涵盖涉及虚假材料的敲诈、欺诈和诽谤。议会事务大臣加尼姆·布艾奈恩表示，这些反对意见只是初步的，议员们是在决定是否将该提案送交政府起草，而非对一部成文法律进行表决。"
+                "x": "人们对新闻业中AI的态度依旧根深蒂固且偏负面：只有12%的人能接受完全由AI制作的新闻，在有一定人工监督时这一比例升至19%。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Comfort-with-AI-news.png"
               }
             ]
           }
         },
         "es": {
-          "headline": "La Shura de Baréin rechaza\nsancionar los deepfakes",
-          "body": "El Consejo de la Shura de Baréin rechazó, por 20 votos a 15, castigar con cárcel y multas los deepfakes dañinos.",
-          "mini_headline": "Baréin rechaza castigar los deepfakes",
+          "headline": "La IA se vuelve puerta a las\nnoticias, pero el público recela",
+          "body": "Un sondeo del Reuters Institute halla que el 51% ya usa IA cada semana, pero desconfía de las noticias hechas por IA.",
+          "mini_headline": "La IA como puerta a las noticias, con un público receloso",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "El Consejo de la Shura rechazó por 20 votos a 15 una propuesta para encarcelar a quienes creen deepfakes dañinos e imponerles multas de hasta BD10,000, pese a escuchar cómo un video falso engañó a uno de sus propios miembros."
-              },
-              {
-                "t": "p",
-                "x": "La reforma propuesta de la Ley de Delitos Informáticos de 2014 fue rechazada por recomendación de la Comisión de Asuntos Exteriores, Defensa y Seguridad Nacional, que advirtió que no definía qué es un deepfake."
+                "x": "El informe \"Generative AI and News Report 2026\" del Reuters Institute encuestó al público de nueve países. El uso de IA conversacional como ChatGPT, Claude y Gemini sigue creciendo: el 51% de los encuestados en los seis países con datos previos ya usa IA cada semana (el 49% en Estados Unidos, U.S.). El 57% vio respuestas o resúmenes generados por IA (AI-generated) en buscadores la semana pasada."
               },
               {
                 "t": "img",
-                "src": "https://mdisebzgyrtdwsnwlszm.supabase.co/storage/v1/object/public/article-covers/temp/en/9kk-mw8by24o.jpg",
-                "cap": "Khalid Al Maskati, miembro del Consejo de la Shura"
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Embedded-in.png"
               },
               {
                 "t": "p",
-                "x": "Khalid Al Maskati contó que un video falso en el que aparecía promocionando algo parecía tan real que: ‘Cuando lo vi, pensé: ¿grabé yo este video?’. El primer vicepresidente, Jamal Fakhro, advirtió de que Baréin no podía esperar a que la IA dejara de avanzar para aprobar nuevas leyes."
+                "x": "Los agentes de IA no han llegado al gran público: el 67% no había usado ninguno la semana pasada. Obtener información es el uso más común (38%, frente al 24% en 2025), y el 9% en seis países clave usa la IA para informarse, frente al 6%. La comodidad (64%) es la principal razón para usar IA; solo el 21% dijo obtener de ella información más fiable."
+              },
+              {
+                "t": "img",
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Uses-last-week.png"
               },
               {
                 "t": "p",
-                "x": "El Ministerio del Interior afirmó que las leyes vigentes ya cubren el chantaje, el fraude y la difamación con material falso. El ministro de Asuntos Parlamentarios, Ghanim Al Buainain, dijo que las objeciones eran preliminares y que los miembros decidían si enviar la propuesta al Gobierno para su redacción, no votaban una ley terminada."
+                "x": "Las actitudes hacia la IA en el periodismo siguen arraigadas y son negativas: solo el 12% se siente cómodo con noticias hechas íntegramente por IA, cifra que sube al 19% con cierta supervisión humana."
+              },
+              {
+                "t": "img",
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Comfort-with-AI-news.png"
               }
             ]
           }
@@ -1807,125 +1405,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "바레인 슈라위원회\n딥페이크 처벌안 부결",
-          "body": "바레인 슈라위원회가 유해 딥페이크 징역·벌금안을 20대 15로 부결했다.",
-          "mini_headline": "바레인, 딥페이크 처벌안 부결",
+          "headline": "AI가 뉴스 관문 됐지만\n독자는 여전히 경계",
+          "body": "로이터연구소 조사에서 51%가 매주 AI를 쓰지만 AI가 만든 뉴스는 경계한다.",
+          "mini_headline": "AI 뉴스 관문, 경계하는 독자",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "슈라위원회가 유해한 딥페이크 제작자를 징역형에 처하고 최대 BD10,000의 벌금을 물리는 제안을 20대 15로 부결했다. 소속 위원 한 명이 가짜 영상에 속은 사연을 듣고도 내린 결정이다."
-              },
-              {
-                "t": "p",
-                "x": "2014년 정보기술범죄법 개정안은 외교·국방·국가안보위원회의 권고에 따라 부결됐다. 위원회는 개정안이 딥페이크를 정의하지 못했다고 지적했다."
+                "x": "로이터저널리즘연구소의 '생성형 AI와 뉴스 보고서 2026(Generative AI and News Report 2026)'은 9개국 이용자를 조사했다. ChatGPT, Claude, Gemini 같은 대화형 AI 이용은 계속 늘고 있다. 과거 데이터가 있는 6개국 응답자의 51%가 이제 매주 AI를 쓴다(미국(U.S.)은 49%). 57%는 지난주 검색에서 AI 생성(AI-generated) 답변이나 요약을 봤다."
               },
               {
                 "t": "img",
-                "src": "https://mdisebzgyrtdwsnwlszm.supabase.co/storage/v1/object/public/article-covers/temp/en/9kk-mw8by24o.jpg",
-                "cap": "슈라위원회 위원 칼리드 알 마스카티"
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Embedded-in.png"
               },
               {
                 "t": "p",
-                "x": "칼리드 알 마스카티 위원은 자신이 무언가를 홍보하는 것처럼 보이는 가짜 영상이 너무 진짜 같았다며 ‘그 영상을 보고 내가 이 영상을 찍었나 하고 생각했다’고 말했다. 자말 파크로 제1부의장은 AI 발전이 멈추기를 기다렸다가 새 법을 만들 수는 없다고 경고했다."
+                "x": "AI 에이전트는 아직 주류로 자리 잡지 못했다. 67%는 지난주 에이전트를 쓴 적이 없었다. 가장 흔한 용도는 정보 얻기(38%, 2025년 24%에서 상승)이며, 6개 핵심 국가에서 뉴스용으로 AI를 쓰는 비율은 6%에서 9%로 늘었다. 사람들이 AI를 쓰는 주된 이유는 편리함(64%)이며, AI에서 더 신뢰할 만한 정보를 얻는다고 답한 비율은 21%에 그쳤다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Uses-last-week.png"
               },
               {
                 "t": "p",
-                "x": "내무부는 가짜 자료를 이용한 협박, 사기, 명예훼손은 기존 법으로 이미 다룰 수 있다고 밝혔다. 가님 알 부아이나인 의회담당 장관은 이번 반대가 예비 단계이며, 완성된 법안에 대한 표결이 아니라 제안을 정부에 보내 법안으로 다듬게 할지를 결정하는 절차라고 설명했다."
+                "x": "저널리즘 속 AI에 대한 태도는 여전히 굳어진 채 부정적이다. 전적으로 AI가 만든 뉴스가 편하다는 응답은 12%에 불과했고, 사람이 일부 감독하면 19%로 올랐다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Comfort-with-AI-news.png"
               }
             ]
           }
         },
         "ja": {
-          "headline": "バーレーン・シューラ評議会\nディープフェイク罰則案を否決",
-          "body": "シューラ評議会は有害なディープフェイクに禁錮と罰金を科す提案を20対15で否決した。",
-          "mini_headline": "バーレーン、ディープフェイク罰則案を否決",
+          "headline": "AIはニュースの入口に\n利用者はなお慎重",
+          "body": "ロイター研究所の調査では51%が毎週AIを使うが、AI製ニュースへの警戒は根強い。",
+          "mini_headline": "AIがニュースの入口に、慎重な受け手",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "シューラ評議会は、有害なディープフェイクを作成した者に禁錮刑と最大BD10,000の罰金を科す提案を20対15で否決した。偽動画に評議会のメンバー自身がだまされた経緯を聞いたうえでの判断だった。"
-              },
-              {
-                "t": "p",
-                "x": "2014年の情報技術犯罪法の改正案は、外交・国防・国家安全保障委員会の勧告を受けて否決された。同委員会は、改正案がディープフェイクを定義していないと指摘していた。"
+                "x": "ロイター・ジャーナリズム研究所の「生成AIとニュース報告書2026(Generative AI and News Report 2026)」は9カ国の利用者を調査した。ChatGPT、Claude、Geminiなど対話型AIの利用は拡大を続けている。過去のデータがある6カ国の回答者の51%が今では毎週AIを使っている(米国(U.S.)では49%)。57%は先週、検索でAI生成(AI-generated)の回答や要約を目にした。"
               },
               {
                 "t": "img",
-                "src": "https://mdisebzgyrtdwsnwlszm.supabase.co/storage/v1/object/public/article-covers/temp/en/9kk-mw8by24o.jpg",
-                "cap": "シューラ評議会メンバーのハリド・アル・マスカティ氏"
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Embedded-in.png"
               },
               {
                 "t": "p",
-                "x": "ハリド・アル・マスカティ氏は、自分が何かを宣伝しているように見せかけた偽動画があまりに本物らしかったとして、「それを見て、自分がこの動画を撮ったのかと思った」と語った。ジャマル・ファクロ第一副議長は、AIの進歩が止まるのを待ってから新法を制定するわけにはいかないと警告した。"
+                "x": "AIエージェントは主流に届いていない。67%は先週一度も使わなかった。最も多い用途は情報収集(38%、2025年の24%から上昇)で、主要6カ国でニュースにAIを使う人は6%から9%に増えた。AIを使う主な理由は利便性(64%)で、AIからより信頼できる情報を得られると答えたのは21%にとどまった。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Uses-last-week.png"
               },
               {
                 "t": "p",
-                "x": "内務省は、偽の素材を使った恐喝、詐欺、名誉毀損はすでに既存の法律で対処できるとした。ガニム・アル・ブアイナイン議会担当相は、反対意見は予備的なもので、議員らは完成した法案を採決するのではなく、提案を政府に送って起草させるかどうかを決めているのだと説明した。"
+                "x": "ジャーナリズムにおけるAIへの態度は依然として固定的で否定的だ。完全にAIが作ったニュースに抵抗がない人はわずか12%で、人による一定の監督があれば19%に上がる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Comfort-with-AI-news.png"
               }
             ]
           }
         },
         "zh": {
-          "headline": "巴林协商会议否决\n深度伪造处罚提案",
-          "body": "巴林协商会议以20票对15票否决了对有害深度伪造处以监禁和罚款的提案。",
-          "mini_headline": "巴林否决深度伪造处罚案",
+          "headline": "AI成新闻入口\n受众仍存戒心",
+          "body": "路透研究所调查显示51%的人每周使用AI，但受众仍对AI生成的新闻心存戒备。",
+          "mini_headline": "AI成新闻入口，受众仍存戒心",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "协商会议以20票对15票否决了一项提案，该提案拟对制作有害深度伪造内容者处以监禁，并处最高BD10,000罚款。此前议员们已听说一段假视频骗过了本会一名成员。"
-              },
-              {
-                "t": "p",
-                "x": "这项针对2014年《信息技术犯罪法》的修正提案，是根据外交、国防和国家安全委员会的建议被否决的；该委员会警告称，提案未能界定何为深度伪造。"
+                "x": "路透新闻研究所的《生成式AI与新闻报告2026》（Generative AI and News Report 2026）调查了九个国家的受众。ChatGPT、Claude和Gemini等对话式AI的使用持续增长：在有历史数据的六个国家中，51%的受访者如今每周使用AI（美国（U.S.）为49%）。57%的人在过去一周的搜索中看到过AI生成（AI-generated）的答案或摘要。"
               },
               {
                 "t": "img",
-                "src": "https://mdisebzgyrtdwsnwlszm.supabase.co/storage/v1/object/public/article-covers/temp/en/9kk-mw8by24o.jpg",
-                "cap": "协商会议成员哈立德·马斯卡蒂"
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Embedded-in.png"
               },
               {
                 "t": "p",
-                "x": "哈立德·马斯卡蒂表示，一段显示他在推广某样东西的假视频看起来非常逼真：“我看到时心想，这段视频是我拍的吗？”第一副主席贾迈勒·法赫鲁警告说，巴林不能等AI停止发展后再通过新法律。"
+                "x": "AI智能体尚未进入主流：67%的人过去一周没有使用过。获取信息是最常见的用途（38%，高于2025年的24%）；在六个核心国家，用AI获取新闻的比例从6%升至9%。便利性（64%）是人们使用AI的主要原因；只有21%的人表示能从中获得更可靠的信息。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Uses-last-week.png"
               },
               {
                 "t": "p",
-                "x": "内政部表示，现行法律已涵盖涉及虚假材料的敲诈、欺诈和诽谤。议会事务大臣加尼姆·布艾奈恩表示，这些反对意见只是初步的，议员们是在决定是否将该提案送交政府起草，而非对一部成文法律进行表决。"
+                "x": "人们对新闻业中AI的态度依旧根深蒂固且偏负面：只有12%的人能接受完全由AI制作的新闻，在有一定人工监督时这一比例升至19%。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Comfort-with-AI-news.png"
               }
             ]
           }
         },
         "es": {
-          "headline": "La Shura de Baréin rechaza\nsancionar los deepfakes",
-          "body": "El Consejo de la Shura de Baréin rechazó, por 20 votos a 15, castigar con cárcel y multas los deepfakes dañinos.",
-          "mini_headline": "Baréin rechaza castigar los deepfakes",
+          "headline": "La IA se vuelve puerta a las\nnoticias, pero el público recela",
+          "body": "Un sondeo del Reuters Institute halla que el 51% ya usa IA cada semana, pero desconfía de las noticias hechas por IA.",
+          "mini_headline": "La IA como puerta a las noticias, con un público receloso",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "El Consejo de la Shura rechazó por 20 votos a 15 una propuesta para encarcelar a quienes creen deepfakes dañinos e imponerles multas de hasta BD10,000, pese a escuchar cómo un video falso engañó a uno de sus propios miembros."
-              },
-              {
-                "t": "p",
-                "x": "La reforma propuesta de la Ley de Delitos Informáticos de 2014 fue rechazada por recomendación de la Comisión de Asuntos Exteriores, Defensa y Seguridad Nacional, que advirtió que no definía qué es un deepfake."
+                "x": "El informe \"Generative AI and News Report 2026\" del Reuters Institute encuestó al público de nueve países. El uso de IA conversacional como ChatGPT, Claude y Gemini sigue creciendo: el 51% de los encuestados en los seis países con datos previos ya usa IA cada semana (el 49% en Estados Unidos, U.S.). El 57% vio respuestas o resúmenes generados por IA (AI-generated) en buscadores la semana pasada."
               },
               {
                 "t": "img",
-                "src": "https://mdisebzgyrtdwsnwlszm.supabase.co/storage/v1/object/public/article-covers/temp/en/9kk-mw8by24o.jpg",
-                "cap": "Khalid Al Maskati, miembro del Consejo de la Shura"
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Embedded-in.png"
               },
               {
                 "t": "p",
-                "x": "Khalid Al Maskati contó que un video falso en el que aparecía promocionando algo parecía tan real que: ‘Cuando lo vi, pensé: ¿grabé yo este video?’. El primer vicepresidente, Jamal Fakhro, advirtió de que Baréin no podía esperar a que la IA dejara de avanzar para aprobar nuevas leyes."
+                "x": "Los agentes de IA no han llegado al gran público: el 67% no había usado ninguno la semana pasada. Obtener información es el uso más común (38%, frente al 24% en 2025), y el 9% en seis países clave usa la IA para informarse, frente al 6%. La comodidad (64%) es la principal razón para usar IA; solo el 21% dijo obtener de ella información más fiable."
+              },
+              {
+                "t": "img",
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Uses-last-week.png"
               },
               {
                 "t": "p",
-                "x": "El Ministerio del Interior afirmó que las leyes vigentes ya cubren el chantaje, el fraude y la difamación con material falso. El ministro de Asuntos Parlamentarios, Ghanim Al Buainain, dijo que las objeciones eran preliminares y que los miembros decidían si enviar la propuesta al Gobierno para su redacción, no votaban una ley terminada."
+                "x": "Las actitudes hacia la IA en el periodismo siguen arraigadas y son negativas: solo el 12% se siente cómodo con noticias hechas íntegramente por IA, cifra que sube al 19% con cierta supervisión humana."
+              },
+              {
+                "t": "img",
+                "src": "https://www.niemanlab.org/images/GenAI-2026.-Comfort-with-AI-news.png"
               }
             ]
           }

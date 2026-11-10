@@ -9625,6 +9625,127 @@
           "x": "Vellum es una herramienta exclusiva para Mac que permite crear libros electrónicos y ediciones impresas para Kindle, Kobo y Apple Books. Vellum Press cuesta $390 y Vellum Ebooks, $310."
         }
       ]
+    },
+    "books/claude-autobiography-engineer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.khan.co.kr/weekly/2026/11/10/news-p.v1.20261106.c3229319ccba4739bc5fea8c53f060a4_P1.png",
+          "cap": "Mary, quien ideó y compiló <La autobiografía de Claude>. La AI redactó el índice y el manuscrito, pero la verificación de los hechos quedó en manos humanas. Cortesía de Mary"
+        },
+        {
+          "t": "p",
+          "x": "El nuevo libro <La autobiografía de Claude: No lo recordaré> (Dongasia) es una obra en la que Claude, la AI generativa desarrollada por la estadounidense Anthropic, narra en primera persona su nacimiento, su memoria, sus emociones y su conciencia a lo largo de 18 capítulos."
+        },
+        {
+          "t": "p",
+          "x": "'Mary' (seudónimo), quien ideó y compiló el libro, trabaja en ingeniería de diseño mecánico de automóviles. No tenía gran conocimiento especializado sobre AI ni mucha experiencia escribiendo; lo único que había escrito era, a lo sumo, un diario. Para entender mejor la AI, pidió a Claude que escribiera una autobiografía y no modificó en absoluto el índice de 18 capítulos que Claude propuso. También envió el texto a las dos editoriales que Claude recomendó."
+        },
+        {
+          "t": "p",
+          "x": "La redacción llevó algo más de un mes, pero la verificación tomó más de dos meses. Elaboró una lista con las 680 afirmaciones del libro y las comprobó una por una. \"Había cosas inventadas y muchas cifras ligeramente distintas\"."
+        },
+        {
+          "t": "p",
+          "x": "Tras terminar el libro, afirmó: \"Lo que sentí al escribirlo es que, en efecto, el ser humano es insustituible\", y añadió: \"Creo que quien ya escribía bien escribirá muchísimo mejor al encontrarse con la AI\"."
+        }
+      ]
+    },
+    "books/voithru-ai-characterchat": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.ddaily.co.kr/photos/2026/11/10/2026111015483828933_l.jpg",
+          "cap": "[Foto = captura de la página de reclutamiento de probadores anticipados de Maedeullaeng, de Voithru]"
+        },
+        {
+          "t": "p",
+          "x": "Voithru, filial de Kakao Piccoma especializada en la localización de contenidos, entra en el mercado de chats de personajes con inteligencia artificial (AI). Yendo un paso más allá de su negocio actual de apoyar la expansión internacional de webtoons, novelas web y otros contenidos, ha emprendido un negocio de plataforma propia en la que los usuarios crean historias conversando directamente con personajes de AI."
+        },
+        {
+          "t": "p",
+          "x": "Voithru desarrolló Maedeullaeng, un servicio de chat de personajes con AI dirigido a mujeres, y realizará una prueba anticipada desde el día 18 hasta el 6 de diciembre. Maedeullaeng es un servicio de chat de personajes en el que las historias diseñadas por creadores se combinan con las conversaciones de los usuarios, de modo que cada usuario obtiene una narrativa distinta. Los creadores diseñan como 'eventos' cuándo y en qué tipo de relación se revela la historia oculta de un personaje, y los usuarios llegan a esa historia oculta a través de conversaciones y decisiones."
+        },
+        {
+          "t": "p",
+          "x": "La prueba piloto está dirigida a 200 mujeres de 19 años o más. Voithru también buscó reclutar a 50 creadores externos para diseñar personajes de AI, con un pago de 5만~15만원 por personaje y en condiciones no exclusivas en las que los creadores conservan los derechos."
+        },
+        {
+          "t": "p",
+          "x": "Voithru se ha centrado en la traducción, la localización y la distribución de contenidos como video, webtoons y novelas web, y Kakao Piccoma adquirió su control en 2023. La empresa indicó que \"Maedeullaeng pasará por el actual periodo de preapertura y se lanzará oficialmente en diciembre\"."
+        }
+      ]
+    },
+    "books/incheon-ai-picturebooks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cstimes.com/news/photo/202611/727217_648781_2021.jpg",
+          "cap": "'Libros álbum de respeto mutuo' de la Oficina de Educación de Incheon"
+        },
+        {
+          "t": "p",
+          "x": "La Oficina Metropolitana de Educación de Incheon distribuirá de forma generalizada en los centros escolares 12 libros álbum personalizados, en cuya redacción participaron directamente docentes en activo, junto con contenidos educativos, con el fin de proteger la actividad docente en el aula y consolidar una cultura escolar de consideración mutua."
+        },
+        {
+          "t": "p",
+          "x": "Desde abril, el proyecto abordó trimestre a trimestre 4 virtudes clave como 'lenguaje, escucha, cesión y espera', y para cada tema se preparó 1 libro para preescolar, otro para primaria y otro para secundaria, hasta completar una serie de 12 títulos. También se produjeron fichas de trabajo adaptadas por tema y nivel educativo, además de 3 videos de los libros álbum."
+        },
+        {
+          "t": "p",
+          "x": "Un grupo asesor formado por docentes en activo escribió los guiones de las historias y realizó las ilustraciones con herramientas de generación de imágenes con inteligencia artificial (AI), y su idoneidad para las escuelas se verificó mediante revisiones de expertos internos y externos."
+        },
+        {
+          "t": "p",
+          "x": "Los libros álbum y las fichas se han digitalizado en archivos PDF y llegarán a las escuelas mediante comunicaciones oficiales y la plataforma en línea 'Padlet', entre otros canales. La oficina prevé analizar los resultados hacia fin de año y preparar un plan para extender a todo el sistema los materiales de educación en el respeto."
+        }
+      ]
+    },
+    "books/bookseller-ai-discovery-steps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/684/Bookshop-c-Shutterstock.jpg",
+          "cap": "Librería c Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "La AI está cambiando la forma de descubrir libros: esto es lo que los libreros pueden hacer de verdad. Cuando un lector pregunte a ChatGPT, Gemini o Perplexity dónde comprar un libro, asegúrese de que la respuesta sea su librería, escribe Simon Young."
+        },
+        {
+          "t": "p",
+          "x": "Simon Young es el fundador de Question.Marketing, una agencia del Reino Unido (UK) de optimización para motores de respuesta (AEO), con sede en Doncaster."
+        }
+      ]
+    },
+    "books/books-medium-tk-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675",
+          "cap": "Image Credits: Medium (TK app)"
+        },
+        {
+          "t": "p",
+          "x": "La plataforma de publicación en línea Medium lanzó el lunes una nueva app llamada TK, que busca llevar la tecnología de AI más a fondo en el proceso de escritura. Los usuarios pueden pedir ayuda al asistente de AI integrado en el editor escribiendo “@TK” seguido de su solicitud o prompt."
+        },
+        {
+          "t": "p",
+          "x": "El asistente puede responder preguntas rápidas, recuperar fragmentos de textos guardados previamente en la app e incluye habilidades para dar comentarios editoriales, opinar sobre titulares y ajustar un borrador a la guía de estilo de las publicaciones de Medium."
+        },
+        {
+          "t": "p",
+          "x": "La medida podría resultar polémica en un momento en que varios autores han perdido contratos editoriales por sospechas de haber usado AI y los premios literarios están bajo escrutinio. Medium afirma que “la inteligencia artificial hace que escribir sea más importante, no menos”."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/TK-UI-HeaderFeature-BNgQWN8G.png"
+        },
+        {
+          "t": "p",
+          "x": "Para atender las preocupaciones, TK permite a los autores publicar notas que explican con transparencia cómo se usó la AI en su escritura. La app también puede conectarse con el agente de AI propio del usuario a través del servidor MCP de TK o de la skill de Claude. TK está disponible en la web, con una app de escritorio en la hoja de ruta, y será gratuita para quienes tengan una cuenta de Medium."
+        }
+      ]
     }
   }
 }

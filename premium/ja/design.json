@@ -11617,6 +11617,156 @@
           "x": "音声チャットは、以前のリリースでVoice Modeと呼ばれていた音声入力とは別の機能だ。音声入力は引き続き発話をチャット入力欄のテキストに変換し、IDEでは引き続きCmd+Shift+Spaceで切り替えられる。音声チャットはエージェントが声で答える双方向の会話である。"
         }
       ]
+    },
+    "design/photoshop-28-ai-relighting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_Photoshop28_f-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AdobeがPhotoshop 28.0をリリースした。画像の照明をやり直す機能、オブジェクトの痕跡をインテリジェントにすべて消す機能、別のアスペクト比へ作り直す機能など、新しいAI機能を加えた大型アップデートだ。"
+        },
+        {
+          "t": "video",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_Photoshop28_Relight.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Relightは画像内の既存の光源を検出し、それを入力として生成AIで新たな照明を生成する。既存光源の色、強さ、柔らかさを調整したり、画像をクリックして新しい光源を最大三つまで追加したりできる。生成のたびに生成クレジットを30消費する。"
+        },
+        {
+          "t": "p",
+          "x": "Project Trace Eraseをもとにした Remove related elementsは、オブジェクトの影や反射に加え、煙、湯気、水の波紋、さらには足跡といった効果まで消す。消費する生成クレジットは10だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_Photoshop28_GenerativeRecompose-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Generative Recomposeは「被写体をインテリジェントに再配置し、背景を新しいレイアウトに合わせて調整する」ことで画像のアスペクト比を変える。Generative RestyleはAI編集に強度スライダーを加え、Generative UpscaleはFirefly Upscaler 2モデルに対応した。PhotoshopのSingle-appサブスクリプションは月$34.49または年$263.88だ。"
+        }
+      ]
+    },
+    "design/claude-connectors-design-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://claude.com/resources/articles/interactive-connectors-full-tool/opengraph-image/og"
+        },
+        {
+          "t": "p",
+          "x": "今年初め、ツールの小さなライブビューをClaudeに持ち込むインタラクティブコネクタを公開した。本日からは、コネクタが対応していれば、ツールを会話の横に開いたり全画面に広げたりして、Claudeに一緒に作業させ、直接変更を加えさせられる。この機能はすべてのプランで、WebとClaudeデスクトップアプリに順次提供される。"
+        },
+        {
+          "t": "video",
+          "yt": "Gy1jSeSzAhk"
+        },
+        {
+          "t": "p",
+          "x": "開いているページ、行、ファイルの変更をClaudeに頼み、コネクタの操作を承認するのと同じ方法でその操作を承認できる。変更はClaudeが加えるそばからツールに反映される。接続済みのツールを直接開いたり、よく使うツールをピン留めしたりもできる。"
+        },
+        {
+          "t": "p",
+          "x": "まずはディレクトリの一部ツールから始める。Asana、Canva、Carta、Dropbox、monday.com、Smartsheet、Vercel、Webflowなどだ。Adobeでは、Claudeに写真のレタッチや編集、エフェクト追加、PDFsのハイライト、編集、墨消しを頼める。Figma、Harvey、Shopifyも連携を開発中だ。"
+        },
+        {
+          "t": "p",
+          "x": "インタラクティブコネクタは、MCPサーバーが独自のインターフェースをAIアプリケーションに持ち込めるようにするModel Context Protocolのオープン拡張、MCP Apps上で動く。開発者向けのサポートはパブリックプレビューの段階だ。"
+        }
+      ]
+    },
+    "design/after-effects-27-ai-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_AfterEffects27_f-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adobeが、モーショングラフィックス、post-production、VFX向けコンポジットソフトの最新版After Effects 27.0をリリースした。新たにエージェント型のAI Assistantを搭載し、テキストプロンプトでAfter Effectsを操作して反復作業を自動化したり、JavaScriptのエクスプレッションを生成したりできる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_AfterEffects28_AIAssistant-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "想定される使い方には、共同作業者から受け取ったコンポジションや素材の確認があり、Assistantが自動で要約を返す。Assistantが実行する「クリエイティブな操作」の大半は生成クレジットを消費し、Single-appサブスクリプションには毎月25の無料生成クレジットが付く。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_AfterEffects27_ContourPaint-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "新しいContour Paintエフェクトは、映像内の形状の縁に沿ってピクセルをにじませる。「指で絵を描くような」効果だ。3Dツールセットでは、3DテキストやシェイプにSubstanceマテリアルを適用したり、レイヤーをマテリアルソースとして使ったりできるようになった。Illustratorから読み込んだテキストは編集可能なレイヤーとして取り込まれ、Auto-Saveとクラッシュ復旧も改善された。"
+        },
+        {
+          "t": "p",
+          "x": "After Effects 27.0はWindows 11とmacOS 15.0+向けに、rental-only(サブスクリプションのみ)で提供される。Single-appサブスクリプションは月$34.49または年$263.88だ。"
+        }
+      ]
+    },
+    "design/trimble-construction-ai-agents": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Trimbleは、建設の設計・施工・運用のライフサイクル全体にわたるTrimble Connectの新たなAI機能を発表した。累計5500万人超のユーザーが3500万件以上のプロジェクトで利用してきたこのプラットフォームは、400以上の連携からなるオープンなエコシステム全体で、一つの共有データ層を実現する。"
+        },
+        {
+          "t": "p",
+          "x": "Trimble AssistはAIエージェントとやり取りするための共通の対話型AIインターフェースを提供し、Trimble Agent Studioでは顧客が標準作業手順や組織の知見をカスタムAIエージェントとスキルに落とし込める。"
+        },
+        {
+          "t": "p",
+          "x": "Trimble Dimensionsで紹介されたのは、リアルタイムのas-builtポイントクラウドを参照して建築案を生成するGenerative Design、自然言語プロンプトによるAutomated Structural Modeling、One-Click AI Indoor Classification、AI Diagnostics for Field Hardware、360 Reality Capture、voice-drivenで検査を進めるAI Punch Walk、AI Procurement and Invoice Matching、Contract Risk Analysis and Change Order Automation、そしてエージェント型の計画エンジンで動くTrimble Connect Schedulingだ。"
+        },
+        {
+          "t": "p",
+          "x": "現在プラットフォームで利用できるAIエージェントとモデルの100%に、EU AI ActとISO 42001に沿った標準化されたAI「安全ラベル」がリアルタイムで付いている。Generative Designは現在Trimble Labsで提供中で、AI Diagnostics for Field Hardwareは一部の顧客が利用できる。"
+        }
+      ]
+    },
+    "design/claude-electronics-prototypes": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "一年余り前、AnthropicはDiode Computersとともに、Claudeが基本的な電子回路をどこまで設計できるかの検証を始めた。当時のモデルは回路基板のレイアウトを安定してこなせなかった。いまやClaudeは、電子ハードウェアの設計から試作までを一貫して担える。"
+        },
+        {
+          "t": "video",
+          "yt": "vdYynH177h0"
+        },
+        {
+          "t": "p",
+          "x": "AnthropicはDiodeと組み、Claude Fable 5.2にスピーカーフォン、音声アシスタントハブ、携帯型バーチャルペットという三つの機器の設計を依頼した。Claudeは仕様書を書き、回路図を描き、PCBに部品を配置し、銅配線を引き回し、3D-printableな筐体を設計し、ファームウェアをコーディングし、部品表を用意した。試作機は回路に一切手を加えることなく動作した。"
+        },
+        {
+          "t": "p",
+          "x": "社内ベンチマークのPCB Gymで、Fable 5.2は69%を記録した。Fable 5は25%だった。BenchCAD 2.1では83.5%に達し、Claude Fable 5.1のほぼ二倍となった。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/4zrzovbb/website/1e8e384cb5bbf67da75851ecce146f47a425af0b-1888x1062.png",
+          "cap": "スピーカーフォンの四層の銅層。"
+        },
+        {
+          "t": "p",
+          "x": "Claudeは指示がなくても自ら作業を見直し、ピンの割り当て直しや配線の引き直しを「何十回も」繰り返した。長い配線を一本あたり約一秒で引ける独自のルーターも自ら書いた。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/4zrzovbb/website/64a2aade621d8d6a50c57f9f3d0ac050ea778423-2048x949.png",
+          "cap": "Claudeは基板を約25度傾けて取り付ける方法を編み出した。"
+        },
+        {
+          "t": "p",
+          "x": "DiodeはClaudeの設計ファイルから三枚の基板すべてを直接製造した。ただし、これらの機器はまだ試作段階で、電気的検証、アンテナ調整、熱試験、認証は受けていない。"
+        }
+      ]
     }
   }
 }

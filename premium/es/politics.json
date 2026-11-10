@@ -5546,6 +5546,133 @@
           "x": "La Casa Blanca no respondió a preguntas concretas sobre CAISSI, pero dijo que Trump había creado formalmente su nueva Super Intelligence Force y que garantizará \"el liderazgo continuo de U.S. en SI en beneficio del pueblo estadounidense\"."
         }
       ]
+    },
+    "politics/eu-dsa-election-deepfake-guide": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2277811674.jpg",
+          "cap": "Henna Virkkunen, vicepresidenta de la Comisión Europea y comisaria de Tecnologías Digitales y de Frontera (Foto: Thierry Monasse/Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "La Comisión Europea está revisando las pautas electorales para las grandes plataformas en línea en virtud de la Ley de Servicios Digitales (DSA) para abordar los riesgos de las herramientas de IA generativa, y advierte de que los sistemas de GenAI pueden amplificar contenidos engañosos o falsos, sobre todo en periodo electoral. La actualización llega cuando varios países de la UE, entre ellos España y Francia, tienen elecciones nacionales en el horizonte."
+        },
+        {
+          "t": "p",
+          "x": "El borrador pide a las plataformas en línea de muy gran tamaño (VLOPs) que adapten sus términos y condiciones a los riesgos del contenido generado por IA (AI-generated) y los apliquen debidamente, y que ofrezcan a los usuarios interfaces estándar y fáciles de usar para etiquetar contenido generado por IA, en línea con la Ley de IA (AI Act). Esto se aplica especialmente a los deepfakes de IA. Las plataformas también deben dar a los anunciantes opciones para etiquetar con claridad el contenido generado por IA en los anuncios electorales."
+        },
+        {
+          "t": "p",
+          "x": "El texto advierte de que los contenidos que suplantan a figuras públicas \"pueden constituir suplantación de identidad y vulnerar los derechos de la personalidad\" de las personas, y señala que las órdenes de retirada y las notificaciones relativas a la suplantación de candidatos electorales deben tramitarse con celeridad. Cuando la legalidad no esté clara, las plataformas pueden aplicar \"medidas menos restrictivas\", como etiquetas. El mes pasado, el presidente del Gobierno español, Pedro Sánchez, anunció que su esposa había presentado una denuncia por un vídeo generado por IA que la suplantaba y que, según dijo, había publicado el opositor Partido Popular (PP)."
+        }
+      ]
+    },
+    "politics/paris-call-ai-shutdown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2025/07/Digital-Europe-Map.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En vísperas del Foro de París sobre la Paz, representantes de ocho países, empresas tecnológicas y organizaciones de la sociedad civil firmaron el \"Llamamiento de París por la Seguridad y la Protección de la IA\" (Paris Call for AI Safety and Security), adoptado el 9 de noviembre. Según Le Monde, Sam Altman (OpenAI), Dario Amodei (Anthropic), Brad Smith (Microsoft), Arthur Mensch (Mistral AI), Yoshua Bengio y el secretario del Tesoro de Estados Unidos (U.S.), Scott Bessent, se sumaron durante una reunión en línea con Emmanuel Macron. Alemania no firmó."
+        },
+        {
+          "t": "p",
+          "x": "El compromiso político voluntario abarca procedimientos comunes para evaluar modelos de IA de alta capacidad, una rendición de cuentas más clara de los desarrolladores y un mejor intercambio de información sobre incidentes de seguridad graves. Las empresas se comprometen a divulgar los riesgos conocidos, apoyar auditorías independientes proporcionales al riesgo y establecer mecanismos de apagado para los modelos bajo su control. No fija plazos ni sanciones."
+        },
+        {
+          "t": "p",
+          "x": "El acuerdo llega tras una serie de incidentes en grandes laboratorios estadounidenses. A finales de septiembre, el presidente de Estados Unidos, Donald Trump, rechazó cualquier intento de crear un esquema de supervisión \"globalista\" para los modelos de IA estadounidenses y el 10 de octubre ordenó que los incidentes graves de IA se notificaran a las agencias de Estados Unidos."
+        }
+      ]
+    },
+    "politics/pipc-anthropic-claude-probe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/28/PYH2026102813630001300_P4.jpg",
+          "cap": "Song Kyung-hee, presidenta de la Comisión de Protección de la Información Personal, durante su intervención"
+        },
+        {
+          "t": "p",
+          "x": "La Comisión de Protección de la Información Personal (PIPC) de Corea del Sur ha abierto una investigación formal sobre la filtración de datos de cuentas de empresas surcoreanas que usan Claude, el servicio de inteligencia artificial (IA) generativa de la estadounidense Anthropic."
+        },
+        {
+          "t": "p",
+          "x": "La comisión informó el día 10 de que había concluido la revisión previa de la notificación de filtración de datos personales presentada por Anthropic y había iniciado la investigación. Anthropic había notificado a la comisión el día 31 del mes pasado que la información de unas 100 cuentas corporativas surcoreanas se había filtrado al exterior."
+        },
+        {
+          "t": "p",
+          "x": "Según se ha informado, el incidente se produjo cuando una empresa de seguridad externa accedió sin autorización a los sistemas internos de Anthropic. The Washington Post (WP) informó el día 26 del mes pasado (hora local) de que la startup de seguridad estadounidense Cathedral había accedido a los sistemas internos de Anthropic aprovechando una vulnerabilidad de un software de trabajo externo."
+        },
+        {
+          "t": "p",
+          "x": "Según se ha informado, Anthropic comunicó a algunos clientes que podrían haber quedado expuestos datos de contacto profesionales de las cuentas corporativas de Claude, como los números de identificación de cuenta y de organización, nombres y direcciones de correo electrónico."
+        }
+      ]
+    },
+    "politics/reuters-genai-news-survey-2026": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El informe \"Generative AI and News Report 2026\" del Reuters Institute encuestó al público de nueve países. El uso de IA conversacional como ChatGPT, Claude y Gemini sigue creciendo: el 51% de los encuestados en los seis países con datos previos ya usa IA cada semana (el 49% en Estados Unidos, U.S.). El 57% vio respuestas o resúmenes generados por IA (AI-generated) en buscadores la semana pasada."
+        },
+        {
+          "t": "img",
+          "src": "https://www.niemanlab.org/images/GenAI-2026.-Embedded-in.png"
+        },
+        {
+          "t": "p",
+          "x": "Los agentes de IA no han llegado al gran público: el 67% no había usado ninguno la semana pasada. Obtener información es el uso más común (38%, frente al 24% en 2025), y el 9% en seis países clave usa la IA para informarse, frente al 6%. La comodidad (64%) es la principal razón para usar IA; solo el 21% dijo obtener de ella información más fiable."
+        },
+        {
+          "t": "img",
+          "src": "https://www.niemanlab.org/images/GenAI-2026.-Uses-last-week.png"
+        },
+        {
+          "t": "p",
+          "x": "Las actitudes hacia la IA en el periodismo siguen arraigadas y son negativas: solo el 12% se siente cómodo con noticias hechas íntegramente por IA, cifra que sube al 19% con cierta supervisión humana."
+        },
+        {
+          "t": "img",
+          "src": "https://www.niemanlab.org/images/GenAI-2026.-Comfort-with-AI-news.png"
+        }
+      ]
+    },
+    "politics/politics-norway-statnett-datacentre-pause": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2249621507-1182x788.jpg",
+          "cap": "Una mujer sostiene una pancarta de protesta contra un proyecto local de centro de datos [Jim West/UCG/Universal Images Group via Getty Images]"
+        },
+        {
+          "t": "p",
+          "x": "Las solicitudes de centros de datos quedan suspendidas durante un año, según anunció el operador noruego de la red de alta tensión, Statnett, cuando las peticiones de conexión pendientes ya amenazan con multiplicar por diez la capacidad de servidores en todo el país."
+        },
+        {
+          "t": "p",
+          "x": "Noruega cuenta con 800 megavatios (MW) de capacidad de centros de datos, pero 4,200 MW de nuevos proyectos ya tienen permiso de planificación y otros 9100 MW esperan aprobación. Los proyectos ya en marcha elevarían en un 50% la demanda eléctrica del país desde los 25,000 MW actuales, advirtió Statnett."
+        },
+        {
+          "t": "p",
+          "x": "La pausa de un año da al Gobierno tiempo “para ganar más control sobre el crecimiento de los centros de datos y asegurarnos de tener los centros de datos que realmente necesitamos”, dijo el lunes el ministro de Digitalización, Torgeir Micaelsen."
+        },
+        {
+          "t": "p",
+          "x": "Oslo planea un régimen de licencias para centros de datos —en línea con iniciativas similares en Bruselas para decidir qué proyectos son ‘buenos’— y estudia un sistema de propiedad estatal, señaló el Gobierno en un comunicado. Los proyectos de minería de criptomonedas se considerarán socialmente perjudiciales, informa la cadena pública NRK."
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, el freno de emergencia del operador de la red no impide que los centros de datos generen su propia electricidad quemando gas producido en este país rico en petróleo."
+        },
+        {
+          "t": "p",
+          "x": "Noruega es solo el último país europeo en frenar a los centros de datos. Dinamarca, por ejemplo, los ha relegado al final de la cola de acceso a la red, por detrás de hospitales, estaciones de carga de coches y hogares. Portugal exige a los operadores invertir en nueva capacidad de energía renovable para abastecer a las nuevas granjas de servidores."
+        }
+      ]
     }
   }
 }

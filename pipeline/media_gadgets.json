@@ -1,32 +1,7 @@
-{
-  "date": "2026-11-10",
-  "section": "gadgets",
-  "media": [
-    {
-      "id": "caim1-provenance-camera",
-      "type": "image",
-      "src": "pipeline/media/caim1-provenance-camera.jpg"
-    },
-    {
-      "id": "meta-muse-applewatch",
-      "type": "image",
-      "src": "pipeline/media/meta-muse-applewatch.jpg"
-    },
-    {
-      "id": "samsung-memory-screenshots",
-      "type": "image",
-      "src": "pipeline/media/samsung-memory-screenshots.jpg"
-    },
-    {
-      "id": "eeg-sleep-headband-ai",
-      "type": "image",
-      "src": "pipeline/media/eeg-sleep-headband-ai.jpg"
-    },
-    {
-      "id": "agibot-g2-convenience-store",
-      "type": "video",
-      "src": "pipeline/media/agibot-g2-convenience-store.mp4",
-      "poster": "pipeline/media/agibot-g2-convenience-store.jpg"
-    }
-  ]
-}
+{"date":"2026-11-11","section":"gadgets","media":[
+{"id":"pixel-drop-nov-gemini-intel","type":"image","src":"pipeline/media/pixel-drop-nov-gemini-intel.jpg"},
+{"id":"ring-ai-drone-rover-cam","type":"image","src":"pipeline/media/ring-ai-drone-rover-cam.jpg"},
+{"id":"kora-linux-ai-desktop-os","type":"image","src":"pipeline/media/kora-linux-ai-desktop-os.jpg"},
+{"id":"deepmind-gemini-robotics-25","type":"video","src":"pipeline/media/deepmind-gemini-robotics-25.mp4","poster":"pipeline/media/deepmind-gemini-robotics-25.jpg"},
+{"id":"apple-mac-local-ai-app","type":"image","src":"pipeline/media/apple-mac-local-ai-app.jpg"}
+]}

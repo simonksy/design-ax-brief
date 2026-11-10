@@ -3849,6 +3849,131 @@
           "x": "아직 동료 심사를 거치지 않은 예비 결과다. 전체 결과는 2027년 초 발표된다."
         }
       ]
+    },
+    "medicine/aha-voice-heartfailure-alert": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_"
+        },
+        {
+          "t": "p",
+          "x": "스마트폰으로 쓰는 인공지능(AI) 음성 분석 시스템이 심부전 증상 악화를 세 주 넘게 미리 잡아내 표준 진료를 크게 따돌렸다. DETECT-HF 임상시험의 최신 데이터로, American Heart Association Scientific Sessions 2026에서 발표됐고 JACC: Heart Failure에 실렸다."
+        },
+        {
+          "t": "p",
+          "x": "DETECT-HF는 외래 심부전 환자 563명에게 Cordio Medical의 HearO 시스템을 적용해 평가했다. 시스템은 주요 심부전 사건의 70% 이상을 평균 24.6일 앞서 예측했다. 책임 연구자 William T. Abraham, MD는 기존 방식인 매일 체중 측정의 민감도가 약 20%에 그친다고 설명했다."
+        },
+        {
+          "t": "video",
+          "src": "https://innovate-healthcare-cdn.s3.amazonaws.com/2026-11/William%20Abraham%20explains%20how%20AI%20voice%20analysis%20can%20detect%20worsening%20heart%20failure.mp4"
+        },
+        {
+          "t": "p",
+          "x": "HearO는 환자가 매일 정해진 여섯 문장을 말하면 억양과 호흡 패턴 같은 음향 특성을 분석한다. AI 알고리즘이 환자마다 음성 모델을 만들어 두고 심부전 악화 패턴이 보이면 의료진에게 알린다."
+        },
+        {
+          "t": "p",
+          "x": "참여자들은 예정된 녹음의 85%를 마쳤다. 원인을 알 수 없는 알림은 환자당 연 2.65건이었고 기기 관련 이상 사례는 보고되지 않았다. HearO는 FDA 혁신 의료기기로 지정됐으며, 회사는 2027년 U.S. 출시를 노린다."
+        }
+      ]
+    },
+    "medicine/llm-mri-protocoling-radiology": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t"
+        },
+        {
+          "t": "p",
+          "x": "환자에게 가장 알맞은 MRI 프로토콜을 고르는 일에서 대형 언어 모델이 영상의학 전문의와 대등한 성능을 낼 수 있다는 새 분석이 나왔다. 대개 사람이 손으로 하던 MRI 프로토콜 선택을 일부 모델이 표준화하는 데 보탬이 될 수 있다는 결과다."
+        },
+        {
+          "t": "p",
+          "x": "University Hospital Bonn의 Dr. Zeynep Bendella가 이끈 연구진은 연속 접수된 MRI 의뢰서 1,200건으로 오픈 웨이트 LLMs 네 종을 시험했다. 영상의학 전문의 자격을 갖춘 두 명이 합의한 결과를 정답 기준으로 삼았다."
+        },
+        {
+          "t": "p",
+          "x": "GPT-OSS-120B와 Qwen3-235B-A22B-Instruct-2507은 프로토콜 정확도가 나란히 94%였다. MedGemma-27B-Text-IT는 79%, Gemma-3-27B-IT는 58%로 가장 낮았다. 부적절한 선택 비율은 GPT-OSS 5.8%, Qwen3 5.9%에 그쳤지만 MedGemma는 24.7%, Gemma3는 68.3%까지 올라갔다."
+        },
+        {
+          "t": "p",
+          "x": "가장 흔한 오류는 해부학적으로는 맞지만 임상적으로 최선은 아닌 프로토콜을 고른 경우였다. 저자들은 출력이 들쭉날쭉하고 부적절한 선택도 잦은 만큼 임상 감독 없이 자동 추천에 기대면 위험하다고 경고했다."
+        }
+      ]
+    },
+    "medicine/thyroid-eye-radiomics-radiotherapy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Figa_HTML.png"
+        },
+        {
+          "t": "p",
+          "x": "방사선치료는 활동성 중등도~중증 갑상선안병증(TED)의 핵심 치료지만 환자마다 반응이 다르고, 임상 활동성 점수(CAS)로는 반응을 내다보기 어렵다. 저자들은 임상 데이터와 기존 영상, MRI 라디오믹스 특징을 묶어 방사선치료 반응을 예측하는 다중 시퀀스 모델을 만들었다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 표준 방사선치료(20 Gy)를 받은 TED 환자 85명을 후향적으로 모았다. T1CE와 T2WI MRI의 외안근에서 라디오믹스 특징을 뽑아 머신러닝 알고리즘 아홉 가지로 모델을 만들었다."
+        },
+        {
+          "t": "p",
+          "x": "85명 가운데 46명이 반응군, 39명이 비반응군이었다. 임상 모델은 성능이 떨어졌지만(AUC = 0.700) T1CE, T2WI, 다중 시퀀스 라디오믹스는 각각 AUCs 0.850, 0.875, 0.933을 기록했다. AUC가 가장 높은 쪽은 통합 모델(0.942)로, 임상 모델보다 유의하게 나았다(P = 0.040)."
+        },
+        {
+          "t": "p",
+          "x": "모델은 환자별 치료 결정을 돕고 효과 없는 방사선치료를 줄여 갑상선안병증 맞춤 관리를 앞당긴다. 전향적 검증을 거치면 개인별 위험 층화에도 쓸 수 있다."
+        }
+      ]
+    },
+    "medicine/fda-telesurgery-autonomy-paper": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
+          "cap": "원격수술을 해 온 Florida 비뇨의학과 전문의 Dr. Vipul Patel(오른쪽)이 병원 복도에서 환자와 이야기를 나누고 있다."
+        },
+        {
+          "t": "p",
+          "x": "Food and Drug Administration(식품의약국)이 금요일 자율 또는 원격 조종 기능을 갖춘 로봇 의료기기 토론 문서를 내고 이들 시스템의 편익과 위험을 두고 의견을 구했다. 의견은 1월 5일까지 받고, 공개 워크숍은 12월 2~3일에 연다."
+        },
+        {
+          "t": "p",
+          "x": "FDA에 따르면 7월 기준 U.S.에서 판매 허가를 받은 원격 조종·완전 자율 로봇 기기는 없다. 10월에는 Dr. Vipul Patel이 임상시험용 의료기기 면제를 받아 약 35마일 떨어진 환자에게 로봇 전립선절제술을 했다."
+        },
+        {
+          "t": "p",
+          "x": "제조사들은 자율 기능도 들여다보고 있다. 채혈 전문 인력 없이 피를 뽑거나 몸속에서 생명을 위협하는 출혈을 찾아 멈추는 기능 등이 거론된다. FDA는 인공지능과 머신러닝, 연결성이 빠르게 발전하면서 로봇 응용 분야가 넓어지고 있다고 설명했다."
+        },
+        {
+          "t": "p",
+          "x": "자율성은 시술의 정확성과 재현성, 워크플로 효율을 높일 수 있다. 다만 잘못된 자율 실행, 사용자의 경계심 저하, 시술 변수에 잘 적응하지 못하는 문제 같은 고유한 위험도 함께 따를 수 있다."
+        }
+      ]
+    },
+    "medicine/science-ai-paper-error-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.science.org/do/10.1126/science.zrukrlb/rss/_20261102_ai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "의료 결정이 걸린 연구에서 AI가 기술적 결함을 얼마나 잘 찾아내는지 새 연구가 보여 줬다."
+        },
+        {
+          "t": "p",
+          "x": "medRxiv에 올라온 사전 인쇄 논문 “Large language models detect methodological errors that human peer review misses in clinical trials”(대규모 언어 모델은 인간 동료 심사가 놓치는 임상시험의 방법론적 오류를 찾아낸다)는 앞선 실험을 다시 들여다봤다. 무작위 임상시험 보고서 세 건에 오류를 넣은 실험으로, 훈련받지 않은 인간 심사자의 주요 오류 탐지 점수는 평균 27%였다."
+        },
+        {
+          "t": "p",
+          "x": "같은 오류로 대규모 언어 모델 열다섯 개를 시험했다. 오픈 웨이트 모델 네 개가 포함됐고, 주요 오류 탐지 점수는 53%에서 96%였다. 암기 위험을 줄이려 2026년에 발표된 임상시험 세 건으로 다시 시험하자 점수는 51%에서 99%, 오픈 웨이트 모델만 보면 66%에서 87%가 나왔다."
+        },
+        {
+          "t": "p",
+          "x": "오류를 넣지 않은 대조 보고서에서도 모델들은 오류 유형의 2%에서 29%를 지적했다. 가장 많이 짚은 건 결과로 뒷받침되지 않는 결론이었다. 주요 오류 탐지 점수는 Opus 5.5가 99%로 가장 높았고, GPT-6.1 Sol과 GPT-6 Luna는 92%와 87%였다. 인간 동료 심사에만 기대면 피할 수 있는 방법론적 오류가 발견되지 않은 채 남을 수 있다고 저자들은 지적한다."
+        }
+      ]
     }
   }
 }

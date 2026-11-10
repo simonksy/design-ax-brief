@@ -17452,6 +17452,156 @@
           "x": "음성 채팅은 이전 릴리스에서 Voice Mode라 부르던 받아쓰기와 다른 기능이다. 받아쓰기는 지금도 말을 채팅 입력란의 텍스트로 옮기고, IDE에서는 Cmd+Shift+Space로 켜고 끈다. 음성 채팅은 에이전트가 소리 내어 답하는 양방향 대화다."
         }
       ]
+    },
+    "design/photoshop-28-ai-relighting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_Photoshop28_f-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adobe가 Photoshop 28.0을 내놨다. 이미지 조명을 새로 입히고 사물의 흔적을 지능적으로 말끔히 지우며 화면비까지 바꾸는 AI 기능이 들어간 대규모 업데이트다."
+        },
+        {
+          "t": "video",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_Photoshop28_Relight.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Relight는 이미지 속 기존 광원을 감지해 생성형 AI가 새 조명을 만들 때 입력값으로 삼는다. 사용자는 기존 광원의 색과 세기, 부드러움을 조절하거나 이미지를 클릭해 새 광원을 최대 세 개까지 더할 수 있다. 한 번 생성할 때마다 생성형 크레딧 30개가 든다."
+        },
+        {
+          "t": "p",
+          "x": "Project Trace Erase에서 나온 Remove related elements는 사물의 그림자와 반사뿐 아니라 연기, 수증기, 물결, 발자국 같은 효과까지 지운다. 생성형 크레딧은 10개가 든다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_Photoshop28_GenerativeRecompose-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Generative Recompose는 “피사체를 지능적으로 재배치하고 배경을 새 레이아웃에 맞게 조정해” 이미지의 화면비를 바꾼다. Generative Restyle에는 AI 편집 강도를 조절하는 슬라이더가 생겼고, Generative Upscale은 이제 Firefly Upscaler 2 모델을 지원한다. Photoshop Single-app 구독료는 월 $34.49, 연 $263.88이다."
+        }
+      ]
+    },
+    "design/claude-connectors-design-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://claude.com/resources/articles/interactive-connectors-full-tool/opengraph-image/og"
+        },
+        {
+          "t": "p",
+          "x": "올해 초 우리는 Claude 안에 도구의 작은 라이브 화면을 띄우는 인터랙티브 커넥터를 내놨다. 오늘부터는 커넥터가 지원하면 도구를 대화 옆에 열거나 전체 화면으로 키워 놓고, Claude와 함께 작업하며 직접 고쳐 달라고 할 수 있다. 모든 요금제의 웹과 Claude 데스크톱 앱에 차례로 적용된다."
+        },
+        {
+          "t": "video",
+          "yt": "Gy1jSeSzAhk"
+        },
+        {
+          "t": "p",
+          "x": "열어 둔 페이지나 행, 파일을 고쳐 달라고 Claude에게 말한 뒤, 평소 커넥터 작업을 승인하듯 승인하면 된다. Claude가 고친 내용은 도구에 곧바로 반영된다. 연결된 도구를 직접 열거나 자주 쓰는 도구를 고정해 둘 수도 있다."
+        },
+        {
+          "t": "p",
+          "x": "지원은 디렉터리의 일부 도구부터 시작한다. Asana, Canva, Carta, Dropbox, monday.com, Smartsheet, Vercel, Webflow 등이다. Adobe에서는 사진 보정·편집과 효과 추가를 Claude에게 맡기고, PDFs 하이라이트와 편집, 가림 처리도 요청할 수 있다. Figma, Harvey, Shopify도 통합을 준비 중이다."
+        },
+        {
+          "t": "p",
+          "x": "인터랙티브 커넥터는 MCP Apps 위에서 돌아간다. MCP 서버가 자체 인터페이스를 AI 애플리케이션 안으로 가져오게 해 주는 Model Context Protocol의 개방형 확장이다. 개발자 지원은 공개 프리뷰 단계다."
+        }
+      ]
+    },
+    "design/after-effects-27-ai-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_AfterEffects27_f-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adobe가 모션 그래픽, post-production, VFX 작업에 쓰는 합성 소프트웨어의 최신판 After Effects 27.0을 내놨다. 새 에이전트형 AI Assistant에 텍스트 프롬프트만 넣으면 After Effects를 제어해 반복 작업을 자동화하고 JavaScript 익스프레션까지 만들 수 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_AfterEffects28_AIAssistant-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "협업자가 넘긴 컴포지션이나 푸티지를 훑어볼 때 쓰라는 제안도 있다. 이때 Assistant가 내용을 자동으로 요약해 준다. Assistant가 하는 “크리에이티브 작업” 대부분은 생성형 크레딧을 쓰고, Single-app 구독에는 매달 무료 생성형 크레딧 25개가 딸려 온다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_AfterEffects27_ContourPaint-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "새 Contour Paint 효과는 푸티지 속 형태의 가장자리를 따라 픽셀을 번지게 한다. “핑거 페인팅과 비슷한” 방식이다. 3D 도구에서는 3D 텍스트와 셰이프에 Substance 머티리얼을 입히고 레이어를 머티리얼 소스로 쓰는 옵션이 생겼다. Illustrator에서 가져온 텍스트는 이제 편집 가능한 레이어로 들어오고, Auto-Save와 충돌 복구도 나아졌다."
+        },
+        {
+          "t": "p",
+          "x": "After Effects 27.0은 Windows 11과 macOS 15.0+에서 구독(rental-only) 방식으로만 제공된다. Single-app 구독료는 월 $34.49, 연 $263.88이다."
+        }
+      ]
+    },
+    "design/trimble-construction-ai-agents": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Trimble이 건설의 설계부터 시공, 운영까지 아우르는 새 Trimble Connect AI 기능을 발표했다. 누적 사용자 5500만 명 이상이 3500만 건 넘는 프로젝트에 써 온 플랫폼으로, 400개가 넘는 통합이 모인 개방형 생태계에 공유 데이터 계층 하나를 깔아 준다."
+        },
+        {
+          "t": "p",
+          "x": "Trimble Assist는 AI 에이전트와 주고받는 공통 대화형 AI 인터페이스다. Trimble Agent Studio에서는 고객이 표준 운영 절차와 조직의 지식을 맞춤형 AI 에이전트와 스킬로 만들어 넣는다."
+        },
+        {
+          "t": "p",
+          "x": "Trimble Dimensions에서 공개한 기능은 이렇다. 실시간 as-built 포인트 클라우드를 참조해 건축안을 생성하는 Generative Design, 자연어 프롬프트로 만드는 Automated Structural Modeling, One-Click AI Indoor Classification, AI Diagnostics for Field Hardware, 360 Reality Capture, voice-driven 방식으로 검사하는 AI Punch Walk, AI Procurement and Invoice Matching, Contract Risk Analysis and Change Order Automation, 그리고 에이전트형 계획 엔진으로 돌아가는 Trimble Connect Scheduling이다."
+        },
+        {
+          "t": "p",
+          "x": "지금 플랫폼에서 쓸 수 있는 AI 에이전트와 모델 100%에 EU AI Act와 ISO 42001에 맞춘 실시간 표준 AI ‘안전 라벨’이 붙는다. Generative Design은 현재 Trimble Labs 단계이고, AI Diagnostics for Field Hardware는 일부 고객만 쓸 수 있다."
+        }
+      ]
+    },
+    "design/claude-electronics-prototypes": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "한 해 남짓 전 Anthropic은 Diode Computers와 함께 Claude의 기본 전자 회로 설계 실력을 시험하기 시작했다. 그때 모델은 회로 기판 배치조차 제대로 해내지 못했다. 지금 Claude는 전자 하드웨어 설계와 시제품 제작을 처음부터 끝까지 맡는다."
+        },
+        {
+          "t": "video",
+          "yt": "vdYynH177h0"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic과 Diode는 Claude Fable 5.2에 스피커폰, 음성 비서 허브, 휴대용 가상 반려동물까지 세 가지 기기 설계를 맡겼다. Claude는 사양서를 쓰고 회로도를 그렸다. PCB에 부품을 배치해 구리 배선을 라우팅했고, 3D-printable 외장 설계와 펌웨어 코딩, 부품 목록 준비까지 마쳤다. 회로를 하나도 고치지 않았는데 시제품은 그대로 작동했다."
+        },
+        {
+          "t": "p",
+          "x": "내부 벤치마크 PCB Gym 점수는 Fable 5.2가 69%, Fable 5가 25%였다. BenchCAD 2.1에서는 83.5%로 Claude Fable 5.1의 두 배 가까이 나왔다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/4zrzovbb/website/1e8e384cb5bbf67da75851ecce146f47a425af0b-1888x1062.png",
+          "cap": "스피커폰 기판의 구리층 네 개."
+        },
+        {
+          "t": "p",
+          "x": "Claude는 시키지 않아도 제 작업을 고쳤다. 핀 재배정과 트랙 재라우팅을 “수십 번” 되풀이했고, 긴 트랙 하나를 일 초 안팎에 까는 라우터도 직접 만들었다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/4zrzovbb/website/64a2aade621d8d6a50c57f9f3d0ac050ea778423-2048x949.png",
+          "cap": "기판을 약 25도 기울여 넣는 방법은 Claude가 찾아냈다."
+        },
+        {
+          "t": "p",
+          "x": "Diode는 Claude의 설계 파일 그대로 기판 세 개를 곧바로 제작했다. 그래도 아직은 시제품이다. 전기 검증과 안테나 튜닝, 열 테스트, 인증은 거치지 않았다."
+        }
+      ]
     }
   }
 }
